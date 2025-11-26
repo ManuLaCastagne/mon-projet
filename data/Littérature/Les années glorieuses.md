@@ -1,0 +1,1 @@
+Tétralogie de [[Pierre Lemaître]] intitulée « [[Les années glorieuses]] » comprenant [[Le Grand Monde]], puis [[Le Silence et la Colère]] en 2023, et le troisième volet intitulé [[Un avenir radieux]] a été publié le 21 janvier 2025.

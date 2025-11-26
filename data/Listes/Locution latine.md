@@ -1,0 +1,33 @@
+
+- [[A priori]] : « au préalable » — avant toute expérience  
+- [[A posteriori]] : « après coup » — après l’expérience  
+- [[Ad vitam aeternam]] : « pour la vie éternelle » — pour toujours  
+- [[Carpe diem]] : « cueille le jour » — profite de l’instant présent  
+- [[Cogito ergo sum]] : « je pense donc je suis » — Descartes  
+- [[De facto]] : « dans les faits » — en pratique, même si ce n’est pas légal  
+- [[De jure]] : « par le droit » — selon la loi  
+- [[Deus ex machina]] : « dieu sorti de la machine » — résolution inattendue d’un récit  
+- [[Et caetera (etc.)]] : « et les autres choses » — et ainsi de suite  
+- [[Ex aequo]] : « à égalité » — utilisé en compétition  
+- [[Ex nihilo]] : « à partir de rien » — création sans point de départ  
+- [[Homo homini lupus]] : « l’homme est un loup pour l’homme » — nature cruelle de l’homme  
+- [[In extremis]] : « au dernier moment » — de justesse  
+- [[In vino veritas]] : « dans le vin, la vérité » — l’ivresse révèle  
+- [[Lapsus linguae]] : « faute de langue » — erreur de parole  
+- [[Mea culpa]] : « ma faute » — reconnaissance d’erreur  
+- [[Modus operandi]] : « manière d’opérer » — méthode habituelle  
+- [[Nota bene (N.B.)]] : « note bien » — à remarquer  
+- [[Panem et circenses]] : « du pain et des jeux » — politique de distraction  
+- [[Per se]] : « en soi » — intrinsèquement  
+- [[Post mortem]] : « après la mort » — analyse après décès  
+- [[Quid pro quo]] : « quelque chose pour quelque chose » — échange équivalent ou malentendu  
+- [[Rara avis]] : « oiseau rare » — chose exceptionnelle  
+- [[Sic]] : « ainsi » — pour citer exactement  
+- [[Sine qua non]] : « sans quoi non » — condition indispensable  
+- [[Veni, vidi, vici]] : « je suis venu, j’ai vu, j’ai vaincu » — succès rapide et total  
+- [[Versus (vs.)]] : « contre » — opposition  
+- [[Vice versa]] : « réciproquement » — l’inverse aussi vrai  
+- [[Ad hoc]] : « pour cela » — spécifique à un usage  
+- [[Ad hominem]] : « contre l’homme » — attaque personnelle  
+- [[Cave canem]] : « attention au chien » — avertissement  
+- [[Aleae jacta est]] : « les dés sont jetés » — décision irréversible  

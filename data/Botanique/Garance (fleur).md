@@ -1,0 +1,1 @@
+Question : Quelle plante à fleurs jaunâtres, de la famille des rubiacées, était autrefois utilisée pour sa racine qui fournissait une matière colorante rouge?

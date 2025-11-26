@@ -1,0 +1,1 @@
+Question : Le 5 septembre 1905, quel pays a dû signer, à Portsmouth, un traité mettant fin à un conflit l'ayant opposé à l'Empire nippon?

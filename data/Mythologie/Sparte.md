@@ -1,0 +1,1 @@
+Question : quelle fibre sert traditionnellement à fabriquer les semelles des espadrilles ?

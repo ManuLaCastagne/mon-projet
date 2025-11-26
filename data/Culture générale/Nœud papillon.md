@@ -1,0 +1,3 @@
+Question : De quel accessoire vestimentaire, porté habituellement dans les grandes occasions, [[Winston Churchill]] appréciait-il les modèles à pois blancs ?
+
+Question : Accessoire vestimentaire porté par un petit homme assez frêle ayant également un canotier dans "[[L'Étranger]]" [[de Camus]], j'apporte selon les avis une note de fantaisie...

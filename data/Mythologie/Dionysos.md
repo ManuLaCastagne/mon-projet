@@ -1,0 +1,9 @@
+---
+tags:
+questions:
+ - A travers le monde et initié par la déesse Cybèle aux rites de son culte, j'ai accédé tardivement à la divinité.  Accompagné d'un cortège triomphal composé de Satyres, de Silènes et de Bacchantes, je suis le dieu...
+questions:
+ - A travers le monde et initié par la déesse Cybèle aux rites de son culte, j'ai accédé tardivement à la divinité.  Accompagné d'un cortège triomphal composé de Satyres, de Silènes et de Bacchantes, je suis le dieu...
+---
+Question : A travers le monde et initié par la déesse [[Cybèle]] aux rites de son culte, j'ai accédé tardivement à la divinité.  Accompagné d'un cortège triomphal composé de [[Satyres]], de [[Silènes]] et de [[Bacchantes]], je suis le dieu... 
+

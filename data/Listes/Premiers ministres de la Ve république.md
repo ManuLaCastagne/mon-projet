@@ -1,0 +1,27 @@
+
+[[Michel Debré]] : 1959–1962  
+[[Georges Pompidou]] : 1962–1968  
+[[Maurice Couve-de-Murville]] : 1968–1969  
+[[Jacques Chaban-Delmas]] : 1969–1972  
+[[Pierre Messmer]] : 1972–1974  
+[[Jacques Chirac]] : 1974–1976  
+[[Raymond Barre]] : 1976–1981  
+[[Pierre Mauroy]] : 1981–1984  
+[[Laurent Fabius]] : 1984–1986  
+[[Jacques Chirac]] : 1986–1988  
+[[Michel Rocard]] : 1988–1991  
+[[Édith Cresson]] : 1991–1992 *(1re femme à ce poste)*  
+[[Pierre Bérégovoy]] : 1992–1993  
+[[Édouard Balladur]] : 1993–1995  
+[[Alain Juppé]] : 1995–1997  
+[[Lionel Jospin]] : 1997–2002  
+[[Jean-Pierre Raffarin]] : 2002–2005  
+[[Dominique de Villepin]] : 2005–2007  
+[[François Fillon]] : 2007–2012  
+[[Jean-Marc Ayrault]] : 2012–2014  
+[[Manuel Valls]] : 2014–2016  
+[[Bernard Cazeneuve]] : 2016–2017  
+[[Édouard Philippe]] : 2017–2020  
+[[Jean Castex]] : 2020–2022  
+[[Élisabeth Borne]] : 2022–2024 *(2e femme à ce poste)*  
+[[Gabriel Attal]] : 2024–en cours *(1er ouvertement homosexuel et plus jeune PM)*  

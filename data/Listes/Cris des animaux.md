@@ -1,0 +1,39 @@
+# 🐾 Cris des animaux
+
+[[Chien]] : aboie  
+[[Chat]] : miaule  
+[[Cheval]] : hennit  
+[[Vache]] : meugle  
+[[Mouton]] : bêle  
+[[Chèvre]] : bêle  
+[[Cochon]] : grogne  
+[[Coq]] : chante  
+[[Poule]] : caquette  
+[[Canard]] : cancane  
+[[Oie]] : criaille  
+[[Dinde]] : glougloute  
+[[Âne]] : brait  
+[[Loup]] : hurle  
+[[Renard]] : glapit  
+[[Cerf]] : brame  
+[[Lion]] : rugit  
+[[Tigre]] : rugit  
+[[Éléphant]] : barrit  
+[[Singe]] : crie  
+[[Oiseau]] : chante ou pépie  
+[[Corbeau]] : croasse  
+[[Pie]] : jacasse  
+[[Pigeon]] : roucoule  
+[[Chouette]] : hulule  
+[[Hibou]] : hue  
+[[Grenouille]] : coasse  
+[[Crapaud]] : coasse  
+[[Serpent]] : siffle  
+[[Abeille]] : bourdonne  
+[[Mouche]] : bourdonne  
+[[Moustique]] : vrombit  
+[[Loup]] : hurle  
+[[Baleine]] : chante  
+[[Dauphin]] : siffle  
+[[Panthère]] : feule  
+[[Sanglier]] : grommelle  

@@ -1,0 +1,1 @@
+Question : Dans "Les Sept Piliers de la sagesse", quel écrivain britannique évoque sa mission durant la révolte arabe de 1916-1918 ?

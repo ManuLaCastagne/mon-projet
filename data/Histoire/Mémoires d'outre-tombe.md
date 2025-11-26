@@ -1,0 +1,13 @@
+---
+tags:
+  - Histoire
+  - Bataille
+questions:
+ - Dans quelle oeuvre autobiographique Chateaubriand évoque-t-il  la bataille de Waterloo, dont il entend les échos...
+questions:
+ - Dans quelle oeuvre autobiographique Chateaubriand évoque-t-il  la bataille de Waterloo, dont il entend les échos...
+questions:
+ - Dans quelle oeuvre autobiographique Chateaubriand évoque-t-il  la bataille de Waterloo, dont il entend les échos...
+---
+Question : Dans quelle oeuvre autobiographique [[Chateaubriand]] évoque-t-il  la [[bataille de Waterloo]], dont il entend les échos...
+

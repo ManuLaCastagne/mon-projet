@@ -1,0 +1,19 @@
+---
+tags:
+  - Cinéma
+  - XXIe
+  - Années_2010
+date: 2019
+questions:
+ - En 2019, dans quel film de Quentin Tarantino DiCaprio incarne-t-il un acteur…
+questions:
+ - En 2019, dans quel film de Quentin Tarantino DiCaprio incarne-t-il un acteur…
+questions:
+ - En 2019, dans quel film de Quentin Tarantino DiCaprio incarne-t-il un acteur…
+questions:
+ - En 2019, dans quel film de Quentin Tarantino DiCaprio incarne-t-il un acteur…
+questions:
+ - En 2019, dans quel film de Quentin Tarantino DiCaprio incarne-t-il un acteur…
+---
+Question : En 2019, dans quel film de [[Quentin Tarantino DiCaprio]] incarne-t-il un acteur…
+

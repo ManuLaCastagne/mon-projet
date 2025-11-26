@@ -1,0 +1,1 @@
+Question : Quelle longue perche, munie d'une extrémité à rebords coupants, emploie-t-on pour la cueillette des arbres fruitiers?

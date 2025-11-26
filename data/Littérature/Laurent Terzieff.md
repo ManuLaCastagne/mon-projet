@@ -1,0 +1,1 @@
+Acteur et [[metteur en scène]] de [[théâtre]] né en 1935. [[Toulousain]].

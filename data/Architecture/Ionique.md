@@ -1,0 +1,1 @@
+Question : Quel ordre de l'architecture grecque est caractérisé par un chapiteau en forme de cornes de bélier ?
