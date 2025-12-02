@@ -1,0 +1,9 @@
+streamlit
+openai
+html2image
+pyperclip
+geopy
+folium
+selenium
+sklearn
+spotipy

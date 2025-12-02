@@ -8,6 +8,7 @@ from moteur_jeu import (
     jeu_with_year,
     jeu_depuis_liens,
     poser_questions,
+    interface_generation_fiche,
     sauvegarder_modifications
 )
 
@@ -36,7 +37,8 @@ choix = st.sidebar.selectbox(
         "🕵️ Qui suis-je ?",
         "📅 Deviner à partir des années",
         "🔗 Deviner à partir des liens internes",
-        "✅ Révision classique"
+        "✅ Révision classique",
+        "📝 Générer une fiche"
     ]
 )
 
@@ -52,6 +54,9 @@ elif choix == "🔗 Deviner à partir des liens internes":
 
 elif choix == "✅ Révision classique":
     poser_questions(questions_globales, nb_questions=1000)
+
+elif choix == "📝 Générer une fiche":
+    interface_generation_fiche()
 
 else:
     st.title("🧠 Coffre de culture générale")

@@ -16,7 +16,7 @@ import argparse
 from html2image import Html2Image
 
 client = OpenAI(api_key='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')
-output_dir = "/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance"
+output_dir = "/Users/edumas/Documents/mon-projet/data"
 
 ### Prompts
 
@@ -1287,7 +1287,7 @@ def pyperclip_copy_deck(deck):
 #create_fiche("Chant des partisans", "Musique")
 #create_fiche("Brazil", "Cinéma")
 #create_fiche("Perpignan", "Géographie")
-create_fiche("Le Meilleur des mondes", "Littérature")
+#create_fiche("Le Meilleur des mondes", "Littérature")
 #create_fiche("Guerre civile espagnole", "Histoire")
 #create_fiche("Les Chevaliers du ciel", "Télévision")
 #create_fiche("Saint Sulpice", "Architecture")

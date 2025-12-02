@@ -4,6 +4,7 @@ import random
 import math
 from collections import defaultdict
 import streamlit as st
+from scriptMarkdown import create_fiche
 
 alpha = 1.5
 
@@ -358,6 +359,35 @@ def afficher_description(fichier):
                 st.markdown(ligne)
     except Exception as e:
         st.error("Erreur lors du chargement de la description.")
+
+def interface_generation_fiche():
+    st.title("📝 Générer une fiche avec GPT")
+
+    nom = st.text_input("Nom de la fiche")
+    category = st.selectbox(
+        "Catégorie",
+        [
+            "Anatomie", "Animaux", "Architecture", "Art", "Botanique", "Cinéma",
+            "Gastronomie", "Géographie", "Histoire", "Littérature", "Musique",
+            "Mythologie", "Religion", "Sciences", "Sport", "Télévision",
+            "Vocabulaire"
+        ]
+    )
+
+    if st.button("⚙️ Générer la fiche"):
+        if not nom.strip():
+            st.warning("Veuillez saisir un nom.")
+            return
+
+        try:
+            st.write("⏳ Génération en cours…")
+
+            # Appelle ton code existant
+            create_fiche(nom, category)
+
+            st.success(f"✨ Fiche **{nom}** créée dans la catégorie **{category}** !")
+        except Exception as e:
+            st.error(f"Erreur : {e}")
 
 DOSSIER = "/Users/edumas/Documents/mon-projet/data"
 fichiers_md = lister_fichiers_md(DOSSIER)
