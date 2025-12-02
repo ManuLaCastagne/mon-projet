@@ -359,8 +359,8 @@ def afficher_description(fichier):
     except Exception as e:
         st.error("Erreur lors du chargement de la description.")
 
-dossier =  "/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance"
-fichiers_md = lister_fichiers_md(dossier)
+DOSSIER = "/Users/edumas/Documents/mon-projet/data"
+fichiers_md = lister_fichiers_md(DOSSIER)
 
 # Rassembler toutes les questions de tous les fichiers
 questions_globales = []

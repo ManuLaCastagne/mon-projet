@@ -13,15 +13,19 @@ from moteur_jeu import (
 
 # 🧠 Configuration
 st.set_page_config(page_title="Coffre de culture générale", page_icon="🧠")
-
 # Répertoire des fiches Markdown
-DOSSIER = "/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance"
+DOSSIER = "/Users/edumas/Documents/mon-projet/data"
 
 # 📥 Chargement des fichiers et questions
-fichiers_md = lister_fichiers_md(DOSSIER)
-questions_globales = []
-for fichier in fichiers_md:
-    questions_globales.extend(extraire_questions_depuis_fichier(fichier))
+@st.cache_data
+def charger_questions(DOSSIER):
+    fichiers = lister_fichiers_md(DOSSIER)
+    questions = []
+    for fichier in fichiers:
+        questions.extend(extraire_questions_depuis_fichier(fichier))
+    return questions, fichiers
+
+questions_globales, fichiers_md = charger_questions(DOSSIER)
 
 # 🎛️ Barre latérale - Menu
 st.sidebar.title("🎮 Menu des jeux")

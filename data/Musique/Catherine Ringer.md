@@ -24,11 +24,12 @@ questions:
  - Je prends pour prof de danse une chorégraphe argentine à qui je dédie le 1er tube de mon groupe. Chanteuse à la voix puissante, à forte personnalité. En 2011, je sors mon 1er album solo "Ring n'roll" 4 ans après la fin des Rita Mitsouko.
 ---
 
+
 ![Image de Catherine Ringer](https://upload.wikimedia.org/wikipedia/commons/f/fc/Les_Rita_Mitsouko_f7122439.jpg)
 
 ###### Questions
 
-Quel membre du groupe [[Les Rita Mitsouko]], avec [[Fred Chichin]], a aussi exploré le monde de l’art dramatique et du cinéma dans les années 1980 et 1990 ?
+Quel membre du groupe [[Les Rita Mitsouko]], avec [[Fred Chichin]], a aussi exploré le monde de l’art dramatique et du cinéma dans les années 1980 et 1990 ? <!-- score: 4 -->
 
 Quelle chanteuse, ayant débuté dans le milieu artistique avec le théâtre d’avant-garde, a interprété le rôle principal dans l’opéra rock [[Rita Mitsouko and Catherine Ringer sings Les Rita Mitsouko]] en 2008 ?
 
