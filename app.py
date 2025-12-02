@@ -15,7 +15,7 @@ from moteur_jeu import (
 # 🧠 Configuration
 st.set_page_config(page_title="Coffre de culture générale", page_icon="🧠")
 # Répertoire des fiches Markdown
-DOSSIER = "/Users/edumas/Documents/mon-projet/data"
+DOSSIER = "data"
 
 # 📥 Chargement des fichiers et questions
 @st.cache_data

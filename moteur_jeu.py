@@ -389,7 +389,7 @@ def interface_generation_fiche():
         except Exception as e:
             st.error(f"Erreur : {e}")
 
-DOSSIER = "/Users/edumas/Documents/mon-projet/data"
+DOSSIER = "data"
 fichiers_md = lister_fichiers_md(DOSSIER)
 
 # Rassembler toutes les questions de tous les fichiers

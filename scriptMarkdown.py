@@ -13,10 +13,11 @@ import os
 import random
 import pyperclip
 import argparse
+import streamlit as st
 from html2image import Html2Image
 
-client = OpenAI(api_key='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')
-output_dir = "/Users/edumas/Documents/mon-projet/data"
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+output_dir = "data"
 
 ### Prompts
 
