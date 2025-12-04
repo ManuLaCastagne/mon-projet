@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musique/Manureva.md",
+                "file": "Vocabulaire/Vive-eau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manureva"
+              "title": "Vive-eau"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,8 @@
   },
   "active": "baee752aa679c76c",
   "lastOpenFiles": [
-    "Musique/Catherine Ringer.md",
-    "Musique/Manureva.md"
+    "Vocabulaire/Haplonte.md",
+    "Musique/Manureva.md",
+    "Musique/Catherine Ringer.md"
   ]
 }
