@@ -1,6 +1,7 @@
 import streamlit as st
 import random
 import os
+from github_utils import read_file, update_file, get_file_sha
 from moteur_jeu import (
     lister_fichiers_md,
     extraire_questions_depuis_fichier,

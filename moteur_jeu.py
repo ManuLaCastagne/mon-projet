@@ -5,6 +5,7 @@ import math
 from collections import defaultdict
 import streamlit as st
 from scriptMarkdown import create_fiche
+from github_utils import update_file, read_file, normalize_path
 
 alpha = 1.5
 
@@ -27,7 +28,7 @@ def separer_frontmatter_et_contenu(contenu):
     return '', contenu
 
 def extraire_questions_depuis_fichier(fichier):
-    with open(fichier, 'r', encoding='utf-8') as f:
+    with open(fichier, "r", encoding="utf-8") as f:
         contenu = f.read()
 
     frontmatter, corps = separer_frontmatter_et_contenu(contenu)
@@ -122,11 +123,23 @@ def poser_questions(questions_globales, nb_questions=1000):
             st.rerun()
 
 def sauvegarder_modifications(modifications):
+    """
+    Sauvegarde les fiches modifiées directement dans GitHub
+    via GitHub API (commit automatique).
+    """
     for fichier, (frontmatter, lignes) in modifications.items():
-        nouveau_contenu = frontmatter + '\n' + '\n'.join(lignes)
-        with open(fichier, 'w', encoding='utf-8') as f:
-            f.write(nouveau_contenu)
-        st.toast(f"💾 {os.path.basename(fichier)} sauvegardé.")
+        nouveau_contenu = frontmatter + "\n" + "\n".join(lignes)
+
+        success = update_file(
+            path=fichier, 
+            content=nouveau_contenu, 
+            message=f"Update score in {os.path.basename(fichier)}"
+        )
+
+        if success:
+            st.toast(f"💾 {os.path.basename(fichier)} mis à jour dans GitHub !")
+        else:
+            st.error(f"❌ Impossible d'enregistrer {fichier} dans GitHub.")
 
 def mettre_a_jour_score(ligne, score):
     ligne_sans_score = re.sub(r'\s*<!--\s*score\s*:\s*\d+\s*-->', '', ligne).strip()
@@ -338,8 +351,9 @@ def jeu_depuis_liens(questions_globales, fichiers_md):
 
 def afficher_description(fichier):
     try:
-        with open(fichier, 'r', encoding='utf-8') as f:
-            contenu = f.read()
+        contenu = read_file(fichier)
+        if not contenu:
+            return []  # ou return
         _, corps = separer_frontmatter_et_contenu(contenu)
         lignes = corps.split('\n')
         description = []

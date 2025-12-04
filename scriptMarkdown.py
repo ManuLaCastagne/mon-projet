@@ -1,3 +1,4 @@
+from github_utils import read_file, update_file, write_content_to_github
 from scriptCarte import ajoute_latitude_et_longitude_as_an_attribute, fiche_to_carte
 from scriptSpotify import add_uri_to_playlist
 from scriptSpotify import get_artist_and_album_image_urls
@@ -151,8 +152,6 @@ def print_prompt(prompt, nom, category):
     pyperclip.copy(prompt)
     print(prompt)
 
-#print_prompt(prompt_description_botanique, "Corbeille-d'Argent", "Botanique")
-
 ### Fonctions GPT
 
 def ajoute_superficie_et_tags_sur_toutes_les_fiches(directory_path):
@@ -176,19 +175,17 @@ def ajoute_superficie(fiche_name):
         return
 
     # Ajouter la superficie à la fiche
-    with open(fiche_path, 'r') as fiche:
-        content = fiche.read()
-        if "superficie:" not in content and "indice_1" in content:
-            superficie = ask_gpt(prompt_superficie.replace("NOM_FICHE", fiche_name))
-            new_content = content.replace(
-                "indice_1",
-                f"superficie: {superficie}\nindice_1"
-            )
-        else:
-            print(f"⚠️ La fiche {fiche_name} a déjà une superficie. Passage à la suivante.")
-            return
-    with open(fiche_path, 'w') as fiche:
-        fiche.write(new_content)
+    content = read_file(fiche_path)
+    if "superficie:" not in content and "indice_1" in content:
+        superficie = ask_gpt(prompt_superficie.replace("NOM_FICHE", fiche_name))
+        new_content = content.replace(
+            "indice_1",
+            f"superficie: {superficie}\nindice_1"
+        )
+    else:
+        print(f"⚠️ La fiche {fiche_name} a déjà une superficie. Passage à la suivante.")
+        return
+    write_content_to_github(fiche_path, new_content)
 
 def ajoute_fin(fiche_name):
     # Chemin du fichier de la fiche
@@ -200,19 +197,17 @@ def ajoute_fin(fiche_name):
         return
 
     # Ajouter les tags à la fiche
-    with open(fiche_path, 'r') as fiche:
-        content = fiche.read()
-        if "debut:" in content and "indice_1" in content:
-            annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", fiche_name))
-            new_content = content.replace(
-                "indice_1",
-                f"fin: {annee_fin}\nindice_1"
-            )
-        else:
+    content = read_file(fiche_path)
+    if "debut:" in content and "indice_1" in content:
+        annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", fiche_name))
+        new_content = content.replace(
+            "indice_1",
+            f"fin: {annee_fin}\nindice_1"
+        )
+    else:
             print(f"⚠️ La fiche {fiche_name} a déjà des tags. Passage à la suivante.")
             return
-    with open(fiche_path, 'w') as fiche:
-        fiche.write(new_content)
+    write_content_to_github(fiche_path, new_content)
 
 def ajoute_tags(fiche_name):
     # Chemin du fichier de la fiche
@@ -224,22 +219,20 @@ def ajoute_tags(fiche_name):
         return
 
     # Ajouter les tags à la fiche
-    with open(fiche_path, 'r') as fiche:
-        content = fiche.read()
-        if "tags:" not in content and "indice_1" in content:
-            tags = ask_gpt(prompt_tags_geography.replace("NOM_FICHE", fiche_name))
-            new_tags = "tags: \n"
-            split_char = "|"
-            for tag in tags.split(split_char):
-                new_tags += f"  - {tag.strip().replace(' ', '_')}\n"
-            new_content = content.replace("indice_1",
-                new_tags + "\nindice_1"
-            )
-        else:
-            print(f"⚠️ La fiche {fiche_name} a déjà des tags. Passage à la suivante.")
-            return
-    with open(fiche_path, 'w') as fiche:
-        fiche.write(new_content)
+    content = read_file(fiche_path)
+    if "tags:" not in content and "indice_1" in content:
+        tags = ask_gpt(prompt_tags_geography.replace("NOM_FICHE", fiche_name))
+        new_tags = "tags: \n"
+        split_char = "|"
+        for tag in tags.split(split_char):
+            new_tags += f"  - {tag.strip().replace(' ', '_')}\n"
+        new_content = content.replace("indice_1",
+            new_tags + "\nindice_1"
+        )
+    else:
+        print(f"⚠️ La fiche {fiche_name} a déjà des tags. Passage à la suivante.")
+        return
+    write_content_to_github(fiche_path, new_content)
 
 def ask_gpt(prompt):
     response = client.chat.completions.create(
@@ -631,51 +624,32 @@ indice_6 :
 
 def update_fiche_with_gpt(nom, category):
     fiche_name = unicodedata.normalize('NFC', f"{nom}.md")
-    file_path = ""
-    content = ""
+    file_path = f"{output_dir}/{category}/{fiche_name}"
 
-    # Cherche le fichier correspondant dans output_dir
-    for root, dirs, files in os.walk(output_dir+"/"+category):
-        for file in files:
-            normalized_file = unicodedata.normalize('NFC', file)
-            if fiche_name == normalized_file:
-                file_path = os.path.join(root, file)
-                with open(file_path, 'r') as f:
-                    content = f.read()
-                break
-
-    # Si aucun fichier trouvé ou s'il contient déjà une image, on arrête
-    if not file_path or "![" in content:
-        print(f"❌ La fiche {fiche_name} a déjà été mise à jour ou n'existe pas.")
+    content = read_file(file_path)
+    if content and "![" in content:
+        print(f"❌ La fiche {fiche_name} a déjà été mise à jour.")
         return False
 
-    # Génère nouveau contenu et chemin
     new_content = generate_fiche(nom, category)
 
-    # Crée le nouveau chemin du fichier
-    new_file_path = os.path.join(output_dir, category, f"{nom}.md")
+    if content:
+        updated = include_questions(content, new_content)
+    else:
+        updated = new_content
 
-    # Ajoute les questions au contenu existant
-    updated_content = include_questions(content, new_content)
-
-    # Écrit le nouveau contenu
-    with open(new_file_path, 'w') as file:
-        file.write(updated_content)
-
-    return True
+    return write_content_to_github(file_path, updated)
 
 ### Fonctions création fiches
 
 def initialize_fiche(fiche_path):
-    with open(fiche_path, 'r') as file:
-        content = file.read()
-    
+    content = read_file(fiche_path)
+    if content is None:
+        content = ""
     if '---' not in content:
         content = '---\ntags:\n---\n' + content
-    
-    with open(fiche_path, 'w') as file:
-        file.write(content)
-  
+    write_content_to_github(fiche_path, content)
+
 def include_questions(content_with_question, new_content):
     new_markdown = new_content
     questions = return_questions(content_with_question)
@@ -687,9 +661,8 @@ def include_questions(content_with_question, new_content):
 def add_questions(fiche_path):
     content = path_to_content(fiche_path)
     new_content = include_questions(content, content)
-    with open(fiche_path, 'w') as file:
-        file.write(new_content)
-
+    write_content_to_github(fiche_path, new_content)
+    
 def create_fiches_in_directory(directory_path, number_max):
     incr = 0
     for root, dirs, files in os.walk(directory_path):
@@ -725,9 +698,7 @@ def create_fiche(nom, category):
         file_path = os.path.join(output_dir, category, f"{nom}.md")
         print(file_path)
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
-        with open(file_path, 'w') as file:
-            file.write(content)
-            print(f"Fiche '{nom}.md' créée avec GPT dans '{file_path}'.")
+        write_content_to_github(file_path, content)
 
 def create_fiches_from_array(names_array, indication=""):
     for name in names_array:
@@ -784,13 +755,11 @@ def change_all_fiches(directory_path, this, into):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-                with open(fiche_path, 'r') as f:
-                    content = f.read()
-                    updated_content = content.replace(this, into)
+                content = read_file(fiche_path)
+                updated_content = content.replace(this, into)
                 # if "Jeux olympiques" in content or "Jeux Olympiques" in content:
                 #     add_category(fiche_path, "JO")
-                with open(fiche_path, 'w') as f:
-                    f.write(updated_content)
+                write_content_to_github(fiche_path, updated_content)
 
 def remove_brackets_around_years(directory_path):
     year_pattern = re.compile(r'\[\[(\d{4})\]\]')  # Matches [[YYYY]]
@@ -799,14 +768,11 @@ def remove_brackets_around_years(directory_path):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-                with open(fiche_path, 'r') as f:
-                    content = f.read()
-
+                content = read_file(fiche_path)
                 # Replace [[YYYY]] with YYYY
                 updated_content = year_pattern.sub(r'\1', content)
                 # Write back the updated content
-                with open(fiche_path, 'w') as f:
-                    f.write(updated_content)
+                write_content_to_github(fiche_path, updated_content)
 
 def remove_brackets_around_word(directory_path, word):
     word_pattern = re.compile(rf'\[\[({word})\]\]')
@@ -815,13 +781,10 @@ def remove_brackets_around_word(directory_path, word):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-                with open(fiche_path, 'r') as f:
-                    content = f.read()
-
+                content = read_file(fiche_path)
                 updated_content = re.sub(r'\[\[(' + re.escape(word) + r')\]\]', r'\1', content)
                 # Write back the updated content
-                with open(fiche_path, 'w') as f:
-                    f.write(updated_content)
+                write_content_to_github(fiche_path, updated_content)
 
 def add_brackets_around_word(directory_path, word):
     word_pattern = re.compile(rf'\b({word})\b(?!\]\])')
@@ -830,14 +793,11 @@ def add_brackets_around_word(directory_path, word):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-                with open(fiche_path, 'r') as f:
-                    content = f.read()
-
+                content = read_file(fiche_path)
                 updated_content = word_pattern.sub(r'[[\1]]', content)
                 # Write back the updated content
                 if updated_content != content:
-                    with open(fiche_path, 'w') as f:
-                        f.write(updated_content)
+                    write_content_to_github(fiche_path, updated_content)
 
 def remove_brackets_from_nonexistent_fiches(directory_path):
     # Collect all existing fiches (sans extension .md) dans tout le répertoire
@@ -853,9 +813,7 @@ def remove_brackets_from_nonexistent_fiches(directory_path):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-                with open(fiche_path, 'r', encoding='utf-8') as f:
-                    content = f.read()
-
+                content = read_file(fiche_path)
                 # Remplace [[NonExistentFiche]] par NonExistentFiche si elle n'existe pas
                 updated_content = re.sub(
                     r'\[\[(.*?)\]\]',
@@ -865,9 +823,7 @@ def remove_brackets_from_nonexistent_fiches(directory_path):
 
                 # Réécriture seulement si modifié
                 if updated_content != content:
-                    with open(fiche_path, 'w', encoding='utf-8') as f:
-                        f.write(updated_content)
-
+                    write_content_to_github(fiche_path, updated_content)
 
 #def put_brackets_when_existent_files(directory_path):
     # Collecte de tous les noms de fichiers .md existants dans tout le répertoire
@@ -883,9 +839,7 @@ def remove_brackets_from_nonexistent_fiches(directory_path):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-                with open(fiche_path, 'r', encoding='utf-8') as f:
-                    content = f.read()
-
+                content = read_file(fiche_path)
                 # Construction d'une regex intelligente : mots qui ne sont pas déjà entre crochets
                 updated_content = re.sub(
                     r'\b(' + '|'.join(re.escape(name) for name in existing_fiches) + r')\b(?!\]\])',
@@ -896,8 +850,7 @@ def remove_brackets_from_nonexistent_fiches(directory_path):
 
                 # Réécriture si du contenu a été modifié
                 if updated_content != content:
-                    with open(fiche_path, 'w', encoding='utf-8') as f:
-                        f.write(updated_content)
+                    write_content_to_github(fiche_path, updated_content)
 
 def add_category(fiche_path, category_from_path):
     content = path_to_content(fiche_path)
@@ -916,34 +869,28 @@ def add_category(fiche_path, category_from_path):
         spaces += " "
     #Warning for spaces after tags
     new_content = content.replace('tags: \n', f'tags:\n{spaces}- {category_from_path}\n')
-    with open(fiche_path, 'w') as file:
-        file.write(new_content)
-
+    write_content_to_github(fiche_path, new_content)
+    
 def add_category_to_fiche_in_directory(directory_path, category):
     for root, dirs, files in os.walk(directory_path):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-                with open(fiche_path, 'r') as f:
-                    content = f.read()
-
+                content = read_file(fiche_path)
                 # Check if the category is already present
                 if f"- {category}" in content:
                     continue
 
                 # Add category to the beginning of the file
                 new_content = f"---\ntags:\n - {category}\n---\n{content}"
-                with open(fiche_path, 'w') as f:
-                    f.write(new_content)
-
+                write_content_to_github(fiche_path, new_content)
+                
 def add_description_attribute_in_first(directory_path):
     for root, dirs, files in os.walk(directory_path):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-                with open(fiche_path, 'r') as f:
-                    content = f.read()
-
+                content = read_file(fiche_path)
                 # Extract indices
                 indices = []
                 for i in range(1, 7):
@@ -976,16 +923,14 @@ def add_description_attribute_in_first(directory_path):
                         new_description += f"{attr}: {value}\n"
                     content = re.sub(r'description:\s*.*', f"description: {new_description.strip()}", content)
                 # Write back the updated content
-                with open(fiche_path, 'w') as f:
-                    f.write(content)
+                write_content_to_github(fiche_path, content)
 
 def supprime_attribut_from_fiche(nom_attribut, category):
     for root, dirs, files in os.walk(output_dir+"/"+category):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-            with open(fiche_path, 'r') as f:
-                content = f.read()
+            content = read_file(fiche_path)
             # Regex pour supprimer les attributs YAML avec une liste indentée
             updated_content = re.sub(
                 rf'{nom_attribut}\s*:\s*\n((\s*-\s*.*\n)+)', '', content, flags=re.MULTILINE
@@ -995,23 +940,19 @@ def supprime_attribut_from_fiche(nom_attribut, category):
                 rf'{nom_attribut}\s*:\s*.*\n', '', updated_content, flags=re.MULTILINE
             )
             if updated_content != content:
-                with open(fiche_path, 'w') as f:
-                    f.write(updated_content)
+                write_content_to_github(fiche_path, updated_content)
 
 def change_question(directory):
     for root, dirs, files in os.walk(directory):
         for file in files:
             if file.endswith(".md"):
                 fiche_path = os.path.join(root, file)
-                with open(fiche_path, 'r') as f:
-                    content = f.read()
-
+                content = read_file(fiche_path)
                 # Replace "Question : " with "###### Questions \n"
                 updated_content = content.replace("Question : ", "###### Questions \n\n")
 
                 # Write the updated content back to the file
-                with open(fiche_path, 'w') as f:
-                    f.write(updated_content)
+                write_content_to_github(fiche_path, updated_content)
 
 ### Fonctions utilitaires
 
@@ -1128,8 +1069,11 @@ def replace_second_occurrence(text, target, replacement):
     return text  # Return unchanged if there aren't at least two occurrences
 
 def path_to_content(path):
-    with open(path, 'r') as file:
-        return file.read()
+    content = read_file(path)
+    if content is None:
+        print(f"❌ Impossible de lire {path} depuis GitHub")
+        return ""
+    return content
 
 ### Fonctions informations depuis fiches (quiz)
 
@@ -1206,10 +1150,9 @@ def pick_connected_fiches_triplet(directory_path, reveal_mediator=False):
 
     # Extraction des liens dans chaque fiche
     for fiche_name, fiche_path in fiches:
-        with open(fiche_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            links = re.findall(r'\[\[(.*?)\]\]', content)
-            fiche_links[fiche_name].update(links)
+        content = read_file(fiche_path)
+        links = re.findall(r'\[\[(.*?)\]\]', content)
+        fiche_links[fiche_name].update(links)
 
     # Liste des triplets potentiels : (fiche_A, fiche_B, fiche_médiatrice)
     triplets = []
