@@ -23,11 +23,12 @@ indice_6:
 ---
 
 
+
 ![Image de Gens de Dublin](https://upload.wikimedia.org/wikipedia/commons/0/0a/Dead_Vlei_5.jpg)
 
 ###### Questions
 
-En 1914, dans quel recueil de nouvelles James Joyce fait-il revivre l'atmosphère de sa ville natale ?
+En 1914, dans quel recueil de nouvelles James Joyce fait-il revivre l'atmosphère de sa ville natale ? <!-- score: 4 -->
 
 Dans quel recueil de nouvelles publié en 1914 par [[James Joyce]] peut-on suivre la vie quotidienne des habitants de [[Dublin]]?
 
