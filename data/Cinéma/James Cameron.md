@@ -22,13 +22,14 @@ indice_6 :
   - exploration sous-marine
 ---
 
+
 ![Image de James Cameron](https://upload.wikimedia.org/wikipedia/commons/7/77/James_Cameron_October_2012.jpg)
 
 ###### Questions
 
 Quel réalisateur a utilisé la technologie de capture de mouvement sous-marine pour la première fois dans le film [[Avatar]] : [[La Voie de l'eau]] en 2022 ?
 
-Quel cinéaste a exploré à la fois les tréfonds de l'océan à bord du sous-marin Deepsea Challenger en 2012 et les confins de l'espace dans le film [[Avatar]] en 2009 ?
+Quel cinéaste a exploré à la fois les tréfonds de l'océan à bord du sous-marin Deepsea Challenger en 2012 et les confins de l'espace dans le film [[Avatar]] en 2009 ? <!-- score: 4 -->
 
 Qui a remporté l'[[Oscar]] pour le [[meilleur réalisateur]] pour le film [[Titanic]], qui a également été le premier film à atteindre la barre des 2 milliards de dollars au box-office mondial en 1997 ?
 
