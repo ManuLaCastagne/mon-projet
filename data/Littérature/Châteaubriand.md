@@ -22,11 +22,12 @@ indice_6:
   - ministre des Affaires étrangères de Louis XVIII
 ---
 
-![Image de Châteaubriand](https://upload.wikimedia.org/wikipedia/commons/5/55/Chateaubriand_by_Aim%C3%A9_Millet.JPG)
+
+![Image de Châteaubriand](https://upload.wikimedia.org/wikipedia/commons/5/55/Chateaubriand_by_Aim%C3%A9_Millet.JPG)
 
 ###### Questions
 
-En 1801, à quel écrivain et poète français doit-on le roman "Atala" dont l'héroïne est une jeune Indienne ?
+En 1801, à quel écrivain et poète français doit-on le roman "Atala" dont l'héroïne est une jeune Indienne ? <!-- score: 4 -->
 
 Quel écrivain français, né en 1768, est considéré comme le précurseur du romantisme en France, notamment grâce à son ouvrage intitulé "[[Génie du Christianisme]]" ?
 
