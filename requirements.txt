@@ -5,5 +5,5 @@ pyperclip
 geopy
 folium
 selenium
-sklearn
+scikit-learn
 spotipy
