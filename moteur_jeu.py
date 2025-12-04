@@ -108,7 +108,6 @@ def poser_questions(questions_globales, nb_questions=1000):
     if st.session_state.get("quiz_reveal"):
         st.info(f"📖 Réponse : {q['fiche_nom']}")
         score = st.slider("📝 Note cette question (0 = inconnu, 10 = acquis)", 0, 10, q['score'])
-        afficher_description(q['fichier'])
         if st.button("✅ Valider et passer à la suivante"):
             nouvelle_ligne = mettre_a_jour_score(q['ligne'], score)
             q['ligne'] = nouvelle_ligne
@@ -121,6 +120,7 @@ def poser_questions(questions_globales, nb_questions=1000):
             st.session_state.quiz_index += 1
             st.session_state.quiz_reveal = False
             st.rerun()
+        afficher_description(q['fichier'])
 
 def sauvegarder_modifications(modifications):
     """
