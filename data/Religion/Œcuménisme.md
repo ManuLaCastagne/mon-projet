@@ -22,13 +22,14 @@ questions:
  - Dans le Christianisme, quel mouvement préconise la réunification de toutes les églises chrétiennes ?
 ---
 
-![Image de Œcuménisme](https://upload.wikimedia.org/wikipedia/commons/c/c7/Kor-ger_ecumenism.jpg)
+
+![Image de Œcuménisme](https://upload.wikimedia.org/wikipedia/commons/c/c7/Kor-ger_ecumenism.jpg)
 
 ###### Questions
 
 Quelle initiative lancée par le pape [[Jean XXIII]] lors du [[concile Vatican II]] en 1962 visait à rapprocher différentes confessions chrétiennes ?
 
-Quel mouvement, officialisé lors de l'[[Assemblée mondiale de l'Alliance réformée mondiale]] en 1970, encourage le dialogue et la coopération interconfessionnelle parmi les chrétiens ?
+Quel mouvement, officialisé lors de l'[[Assemblée mondiale de l'Alliance réformée mondiale]] en 1970, encourage le dialogue et la coopération interconfessionnelle parmi les chrétiens ? <!-- score: 4 -->
 
 Quel terme désigne le processus de rapprochement et de coopération entre différentes églises chrétiennes qui a pris de l'ampleur au XXe siècle, en particulier avec le [[Conseil œcuménique des Églises]] fondé en 1948 ?
 
