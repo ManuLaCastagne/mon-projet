@@ -1,0 +1,149 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "PATH:Anatomie",
+      "color": {
+        "a": 1,
+        "rgb": 14034984
+      }
+    },
+    {
+      "query": "PATH:Sport  ",
+      "color": {
+        "a": 1,
+        "rgb": 16210947
+      }
+    },
+    {
+      "query": "PATH:Gastronomie  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "PATH:Cinéma  ",
+      "color": {
+        "a": 1,
+        "rgb": 16756992
+      }
+    },
+    {
+      "query": "PATH:Télévision  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766011
+      }
+    },
+    {
+      "query": "PATH:Vocabulaire  ",
+      "color": {
+        "a": 1,
+        "rgb": 15001600
+      }
+    },
+    {
+      "query": "PATH:Sciences  ",
+      "color": {
+        "a": 1,
+        "rgb": 7585536
+      }
+    },
+    {
+      "query": "PATH:Botanique  ",
+      "color": {
+        "a": 1,
+        "rgb": 5149775
+      }
+    },
+    {
+      "query": "PATH:Nature  ",
+      "color": {
+        "a": 1,
+        "rgb": 3701828
+      }
+    },
+    {
+      "query": "PATH:Animaux  ",
+      "color": {
+        "a": 1,
+        "rgb": 3104098
+      }
+    },
+    {
+      "query": "PATH:Géographie  ",
+      "color": {
+        "a": 1,
+        "rgb": 30646
+      }
+    },
+    {
+      "query": "PATH:Architecture  ",
+      "color": {
+        "a": 1,
+        "rgb": 24435
+      }
+    },
+    {
+      "query": "PATH:Histoire  ",
+      "color": {
+        "a": 1,
+        "rgb": 12361
+      }
+    },
+    {
+      "query": "PATH:Mythologie",
+      "color": {
+        "a": 1,
+        "rgb": 6966419
+      }
+    },
+    {
+      "query": "PATH:Religion  ",
+      "color": {
+        "a": 1,
+        "rgb": 9323693
+      }
+    },
+    {
+      "query": "PATH:Littérature  ",
+      "color": {
+        "a": 1,
+        "rgb": 10182117
+      }
+    },
+    {
+      "query": "PATH:Art",
+      "color": {
+        "a": 1,
+        "rgb": 13073919
+      }
+    },
+    {
+      "query": "PATH:Musique  ",
+      "color": {
+        "a": 1,
+        "rgb": 13673207
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}
