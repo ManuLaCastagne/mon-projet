@@ -7,3 +7,4 @@ folium
 selenium
 scikit-learn
 spotipy
+pyvis

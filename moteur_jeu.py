@@ -4,6 +4,8 @@ import random
 import math
 from collections import defaultdict
 import streamlit as st
+import streamlit.components.v1 as components
+from pyvis.network import Network
 from scriptMarkdown import create_fiche
 from github_utils import update_file, read_file, normalize_path
 
@@ -524,6 +526,85 @@ def interface_afficher_fiche():
 
     st.subheader("📝 Contenu complet de la fiche")
     st.markdown(corps)
+
+def interface_cartographie_savoir():
+    """Affiche une cartographie locale centrée sur une fiche : liens sortants + backlinks."""
+    st.title("🧭 Cartographie locale du savoir")
+
+    # Sélection de la fiche centrale
+    noms_fichiers = {os.path.splitext(os.path.basename(f))[0]: f for f in fichiers_md}
+    choix = st.selectbox("Choisis la fiche centrale :", sorted(noms_fichiers.keys()))
+
+    if not choix:
+        return
+
+    fichier_central = noms_fichiers[choix]
+    contenu_central = read_file(fichier_central)
+    if not contenu_central:
+        st.error("Impossible de charger la fiche.")
+        return
+
+    _, corps = separer_frontmatter_et_contenu(contenu_central)
+
+    # Liens sortants (dans la fiche)
+    liens_sortants = set(re.findall(r"\[\[([^\]]+?)\]\]", corps))
+
+    # Liens entrants (backlinks)
+    # backlinks = set()
+    # for nom, chemin in noms_fichiers.items():
+    #     if nom == choix:
+    #         continue
+    #     contenu = read_file(chemin)
+    #     if not contenu:
+    #         continue
+    #     if f"[[{choix}]]" in contenu:
+    #         backlinks.add(nom)
+
+    st.markdown("### 🧵 Liens sortants")
+    if liens_sortants:
+        st.markdown(", ".join(f"**{l}**" for l in liens_sortants))
+    else:
+        st.info("Aucun lien sortant trouvé.")
+
+    # st.markdown("### 📥 Backlinks (fiches qui pointent vers celle-ci)")
+    # if backlinks:
+    #     st.markdown(", ".join(f"**{b}**" for b in backlinks))
+    # else:
+    #     st.info("Aucun backlink trouvé.")
+
+    # Construction du graphe PyVis
+    net = Network(height="600px", width="100%", directed=False, notebook=False)
+    net.barnes_hut()
+
+    # Ajouter le nœud central
+    net.add_node(choix, label=choix, color="#ffcc00", size=25)
+
+    # Ajouter nœuds et arêtes sortantes
+    for lien in liens_sortants:
+        net.add_node(lien, label=lien, color="#66b3ff")
+        net.add_edge(choix, lien)
+
+    # Ajouter nœuds et arêtes pour backlinks
+    # for back in backlinks:
+    #     net.add_node(back, label=back, color="#ff6666")
+    #     net.add_edge(back, choix)
+
+    # Si rien à afficher, stop
+    if not liens_sortants:# and not backlinks:
+        st.warning("Cette fiche n’a aucun lien interne ni backlink.")
+        return
+
+    # Générer et afficher le graphe
+    html_path = "graph_locale.html"
+    net.write_html(html_path)
+
+    try:
+        with open(html_path, "r", encoding="utf-8") as f:
+            html_content = f.read()
+        components.html(html_content, height=600, scrolling=True)
+    except Exception as e:
+        st.error(f"Erreur lors de l'affichage du graphe : {e}")
+
 
 DOSSIER = "data"
 fichiers_md = lister_fichiers_md(DOSSIER)

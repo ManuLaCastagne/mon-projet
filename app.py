@@ -12,7 +12,8 @@ from moteur_jeu import (
     interface_generation_fiche,
     sauvegarder_modifications,
     interface_edition_questions,
-    interface_afficher_fiche
+    interface_afficher_fiche,
+    interface_cartographie_savoir
 )
 
 # 🧠 Configuration
@@ -41,6 +42,7 @@ choix = st.sidebar.selectbox(
         "📝 Générer une fiche",
         "📝 Afficher une fiche",
         "📝 Éditer les questions d’une fiche",
+        "🗺️ Cartographie du savoir",
         "🕵️ Qui suis-je ?",
         "📅 Deviner à partir des années",
         "🔗 Deviner à partir des liens internes"
@@ -62,6 +64,9 @@ elif choix == "📝 Éditer les questions d’une fiche":
 
 elif choix == "📝 Générer une fiche":
     interface_generation_fiche()
+
+elif choix == "🗺️ Cartographie du savoir":
+    interface_cartographie_savoir()
 
 elif choix == "📅 Deviner à partir des années":
     jeu_with_year(questions_globales)
