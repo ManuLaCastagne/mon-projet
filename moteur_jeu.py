@@ -400,7 +400,18 @@ def interface_generation_fiche():
             create_fiche(nom, category)
 
             st.success(f"✨ Fiche **{nom}** créée dans la catégorie **{category}** !")
-            afficher_description(f"data/{category}/{nom}.md")
+
+            # Afficher la fiche générée
+            chemin_fiche = os.path.join("data", category, f"{nom}.md")
+            contenu_fiche = read_file(chemin_fiche)
+            if contenu_fiche:
+                st.markdown("---")
+                st.subheader("📄 Fiche générée")
+                frontmatter, corps = separer_frontmatter_et_contenu(contenu_fiche)
+                st.markdown(corps)
+            else:
+                st.error("Impossible de charger la fiche générée.")
+
         except Exception as e:
             st.error(f"Erreur : {e}")
 
@@ -492,8 +503,6 @@ def interface_edition_questions():
             else:
                 st.error("❌ Échec de l'enregistrement dans GitHub.")
                 
-
-# Nouvelle fonction pour afficher une fiche et ses liens internes
 def interface_afficher_fiche():
     st.title("📄 Afficher une fiche")
 
