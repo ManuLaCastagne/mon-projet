@@ -403,6 +403,94 @@ def interface_generation_fiche():
         except Exception as e:
             st.error(f"Erreur : {e}")
 
+def interface_edition_questions():
+    st.title("✏️ Édition des questions d’une fiche")
+
+    # Sélection de la fiche
+    noms_fichiers = {os.path.splitext(os.path.basename(f))[0]: f for f in fichiers_md}
+    choix = st.selectbox("Choisis une fiche à modifier :", sorted(noms_fichiers.keys()))
+
+    if not choix:
+        return
+
+    fichier = noms_fichiers[choix]
+
+    # Charger contenu
+    contenu_original = read_file(fichier)
+    if not contenu_original:
+        st.error("Impossible de charger la fiche.")
+        return
+
+    frontmatter, corps = separer_frontmatter_et_contenu(contenu_original)
+    lignes = corps.split("\n")
+
+    # Extraire les questions
+    questions = extraire_questions_depuis_fichier(fichier)
+
+    st.subheader("📝 Questions existantes")
+
+    nouvelles_lignes = lignes.copy()
+
+    modifications = False
+
+    for q in questions:
+        old_line = q["ligne"]
+
+        # Nettoyer pour affichage sans le score
+        texte_sans_score = re.sub(r'<!--.*?-->', '', old_line).strip()
+
+        new_text = st.text_area(
+            f"Question ({q['fiche_nom']} - ligne {q['ligne_index']})",
+            texte_sans_score,
+            key=f"edit_{q['ligne_index']}",
+            height=120
+        )
+
+        # Bouton de suppression pour chaque question
+        if st.button(f"🗑️ Supprimer (ligne {q['ligne_index']})", key=f"delete_{q['ligne_index']}"):
+            nouvelles_lignes[q['ligne_index']] = ""
+            modifications = True
+
+        score = q["score"]
+
+        # Si modifié → reconstruire ligne
+        if new_text.strip() != texte_sans_score:
+            modifications = True
+            nouvelles_lignes[q['ligne_index']] = mettre_a_jour_score(new_text, score)
+
+    st.markdown("---")
+
+    # Ajouter une nouvelle question
+    st.subheader("➕ Ajouter une nouvelle question")
+    nouvelle_question = st.text_input("Nouvelle question (sans score)")
+
+    if st.button("Ajouter la question"):
+        if nouvelle_question.strip():
+            lignes_avec_questions = nouvelles_lignes
+            # Ajouter juste avant la section suivante ou à la fin
+            lignes_avec_questions.append(mettre_a_jour_score(nouvelle_question.strip(), 5))
+            nouvelles_lignes = lignes_avec_questions
+            modifications = True
+            st.success("Nouvelle question ajoutée ✔️")
+            st.rerun()
+
+    # Bouton d’enregistrement
+    if modifications:
+        if st.button("💾 Enregistrer les modifications"):
+            nouveau_contenu = frontmatter + "\n" + "\n".join(nouvelles_lignes)
+
+            success = update_file(
+                path=fichier,
+                content=nouveau_contenu,
+                message=f"Edit questions in {choix}"
+            )
+
+            if success:
+                st.success(f"🎉 Questions mises à jour dans {choix} !")
+                st.rerun()
+            else:
+                st.error("❌ Échec de l'enregistrement dans GitHub.")
+                
 DOSSIER = "data"
 fichiers_md = lister_fichiers_md(DOSSIER)
 

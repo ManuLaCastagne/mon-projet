@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a6abbb3f7091ec3f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "baee752aa679c76c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cinéma/James Cameron.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "James Cameron"
-            },
-            "group": "9e9d39a0b6b6a9f4"
-          }
-        ]
-      },
-      {
         "id": "121adab4fc57a041",
         "type": "tabs",
         "children": [
@@ -34,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/James Cameron.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -77,9 +55,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de James Cameron"
-            },
-            "group": "9e9d39a0b6b6a9f4"
+              "title": "Vue graphique"
+            }
           }
         ]
       }
@@ -134,7 +111,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,6 +209,8 @@
   },
   "active": "8948910daefb6ee3",
   "lastOpenFiles": [
+    "Littérature/\"L'Enfant\", \"Le Bachelier\" et \"L'Insurgé\".md",
+    "Télévision/1 Rue Sésame.md",
     "Cinéma/James Cameron.md",
     "Télévision/Laurent Baffie.md",
     "Télévision/A armes égales.md",
