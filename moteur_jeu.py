@@ -491,6 +491,30 @@ def interface_edition_questions():
             else:
                 st.error("❌ Échec de l'enregistrement dans GitHub.")
                 
+
+# Nouvelle fonction pour afficher une fiche et ses liens internes
+def interface_afficher_fiche():
+    st.title("📄 Afficher une fiche")
+
+    # Sélection de la fiche
+    noms_fichiers = {os.path.splitext(os.path.basename(f))[0]: f for f in fichiers_md}
+    choix = st.selectbox("Choisis une fiche à afficher :", sorted(noms_fichiers.keys()))
+
+    if not choix:
+        return
+
+    fichier = noms_fichiers[choix]
+
+    contenu = read_file(fichier)
+    if not contenu:
+        st.error("Impossible de charger la fiche.")
+        return
+
+    frontmatter, corps = separer_frontmatter_et_contenu(contenu)
+
+    st.subheader("📝 Contenu complet de la fiche")
+    st.markdown(corps)
+
 DOSSIER = "data"
 fichiers_md = lister_fichiers_md(DOSSIER)
 

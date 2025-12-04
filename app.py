@@ -11,7 +11,8 @@ from moteur_jeu import (
     poser_questions,
     interface_generation_fiche,
     sauvegarder_modifications,
-    interface_edition_questions
+    interface_edition_questions,
+    interface_afficher_fiche
 )
 
 # 🧠 Configuration
@@ -38,6 +39,7 @@ choix = st.sidebar.selectbox(
         "📌 Sélectionner un jeu",
         "✅ Révision classique",
         "📝 Générer une fiche",
+        "📝 Afficher une fiche",
         "📝 Éditer les questions d’une fiche",
         "🕵️ Qui suis-je ?",
         "📅 Deviner à partir des années",
@@ -52,6 +54,9 @@ if choix == "🕵️ Qui suis-je ?":
 elif choix == "✅ Révision classique":
     poser_questions(questions_globales, nb_questions=1000)
 
+elif choix == "📝 Afficher une fiche":
+    interface_afficher_fiche()
+
 elif choix == "📝 Éditer les questions d’une fiche":
     interface_edition_questions()
 
@@ -63,8 +68,6 @@ elif choix == "📅 Deviner à partir des années":
 
 elif choix == "🔗 Deviner à partir des liens internes":
     jeu_depuis_liens(questions_globales, fichiers_md)
-
-
 
 else:
     st.title("🧠 Coffre de culture générale")
