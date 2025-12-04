@@ -549,28 +549,11 @@ def interface_cartographie_savoir():
     # Liens sortants (dans la fiche)
     liens_sortants = set(re.findall(r"\[\[([^\]]+?)\]\]", corps))
 
-    # Liens entrants (backlinks)
-    # backlinks = set()
-    # for nom, chemin in noms_fichiers.items():
-    #     if nom == choix:
-    #         continue
-    #     contenu = read_file(chemin)
-    #     if not contenu:
-    #         continue
-    #     if f"[[{choix}]]" in contenu:
-    #         backlinks.add(nom)
-
     st.markdown("### 🧵 Liens sortants")
     if liens_sortants:
         st.markdown(", ".join(f"**{l}**" for l in liens_sortants))
     else:
         st.info("Aucun lien sortant trouvé.")
-
-    # st.markdown("### 📥 Backlinks (fiches qui pointent vers celle-ci)")
-    # if backlinks:
-    #     st.markdown(", ".join(f"**{b}**" for b in backlinks))
-    # else:
-    #     st.info("Aucun backlink trouvé.")
 
     # Construction du graphe PyVis
     net = Network(height="600px", width="100%", directed=False, notebook=False)
@@ -583,11 +566,6 @@ def interface_cartographie_savoir():
     for lien in liens_sortants:
         net.add_node(lien, label=lien, color="#66b3ff")
         net.add_edge(choix, lien)
-
-    # Ajouter nœuds et arêtes pour backlinks
-    # for back in backlinks:
-    #     net.add_node(back, label=back, color="#ff6666")
-    #     net.add_edge(back, choix)
 
     # Si rien à afficher, stop
     if not liens_sortants:# and not backlinks:
