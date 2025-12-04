@@ -400,6 +400,7 @@ def interface_generation_fiche():
             create_fiche(nom, category)
 
             st.success(f"✨ Fiche **{nom}** créée dans la catégorie **{category}** !")
+            afficher_description(f"data/{category}/{nom}.md")
         except Exception as e:
             st.error(f"Erreur : {e}")
 
