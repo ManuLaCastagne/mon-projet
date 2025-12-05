@@ -1,7 +1,9 @@
 ---
 tags:
-  - Santé
+  - Santé
   - Inde
 ---
-Question : Quelle médecine, issue de la plus ancienne tradition indienne...
+###### Questions 
+
+Quelle médecine, issue de la plus ancienne tradition indienne...
 
