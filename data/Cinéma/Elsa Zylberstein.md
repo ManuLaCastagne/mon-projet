@@ -23,12 +23,10 @@ indice_6:
 ---
 
 
+
 ![Image de Elsa Zylberstein](https://upload.wikimedia.org/wikipedia/commons/1/17/Elsa_Zylberstein_printemps_du_cin%C3%A9ma_2013_2.jpg)
 
 ###### Questions
-
-Quelle actrice est partenaire de Romane Bohringer dans "Mina Tannenbaum" ?
-
 Qui incarne en 2020 une mère débordée dans "Adorable" ?
 
 Dans quel film de 1993, réalisé par [[Maurice Pialat]], qui joue le rôle de [[Martine (bande dessinée)]], la compagne de l'un des protagonistes ? <!-- score: 5 -->
@@ -36,7 +34,6 @@ Dans quel film de 1993, réalisé par [[Maurice Pialat]], qui joue le rôle de [
 Dans un film de 2009, qui a remporté le César de la meilleure actrice dans un second rôle ? <!-- score: 5 -->
 
 Avec la légende du cinéma, [[Robert De Niro]], quelle actrice a partagé l'affiche dans le film [[Un homme à la hauteur]] sorti en 2014 ? <!-- score: 5 -->
-
 ###### Description
 
 [[Elsa Zylberstein]] est une actrice française reconnue pour sa polyvalence et sa profondeur dans l'interprétation de ses rôles. Elle a débuté sa carrière au cinéma en 1989 aux côtés de [[Gérard Depardieu]] dans le film "[[Trop belle pour toi]]", réalisé par [[Bertrand Blier]].
