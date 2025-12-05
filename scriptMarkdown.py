@@ -1212,4 +1212,4 @@ def pyperclip_copy_deck(deck):
     pyperclip.copy(formatted_deck)
     print("Deck copied to clipboard!")
 
-change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
+#change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
