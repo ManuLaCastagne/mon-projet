@@ -26,6 +26,7 @@ questions:
 
 
 
+
 ![Image de Elsa Zylberstein](https://upload.wikimedia.org/wikipedia/commons/1/17/Elsa_Zylberstein_printemps_du_cin%C3%A9ma_2013_2.jpg)
 
 ###### Questions
@@ -34,7 +35,7 @@ Dans quel film de 1993, réalisé par [[Maurice Pialat]], qui joue le rôle de [
 
 Dans un film de 2009, qui a remporté le César de la meilleure actrice dans un second rôle ? <!-- score: 5 -->
 
-Avec quelle légende du cinéma, [[Robert De Niro]], [[Elsa Zylberstein]] a-t-elle partagé l'affiche dans le film [[Un homme à la hauteur]] sorti en 2014 ?
+Avec la légende du cinéma, [[Robert De Niro]], quelle actrice  a partagé l'affiche dans le film [[Un homme à la hauteur]] sorti en 2014 ? <!-- score: 5 -->
 
 ###### Description
 
