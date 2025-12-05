@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Paris
   - Années_1990
@@ -7,21 +7,19 @@ tags:
 date:
   - 1968/10/16
 debut: 1968
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Il y a longtemps que je t'aime
-indice_2 : 
+indice_2:
   - Vanité
-indice_3 : 
+indice_3:
   - Nicolas Bedos
-indice_4 : 
+indice_4:
   - Un + Une
-indice_5 : 
+indice_5:
   - Oscar et la Dame rose
-indice_6 : 
+indice_6:
   - Actrice française
-questions:
- - A l'affiche de plusieurs films de Claude Lelouch... Je joue souvent  des personnages comiques, comme dans "Tout le monde debout". Partenaire de Romane Bohringer dans "Mina Tannenbaum", j'incarne en 2020 une mère  débordée dans "Adorable", je suis…
 ---
 
 
@@ -31,11 +29,17 @@ questions:
 
 ###### Questions
 
+Quelle actrice est à l'affiche de plusieurs films de Claude Lelouch, dans des personnages comiques, comme dans "Tout le monde debout" ?
+
+Quelle actrice est partenaire de Romane Bohringer dans "Mina Tannenbaum" ?
+
+Qui incarne en 2020 une mère débordée dans "Adorable" ?
+
 Dans quel film de 1993, réalisé par [[Maurice Pialat]], qui joue le rôle de [[Martine (bande dessinée)]], la compagne de l'un des protagonistes ? <!-- score: 5 -->
 
 Dans un film de 2009, qui a remporté le César de la meilleure actrice dans un second rôle ? <!-- score: 5 -->
 
-Avec la légende du cinéma, [[Robert De Niro]], quelle actrice  a partagé l'affiche dans le film [[Un homme à la hauteur]] sorti en 2014 ? <!-- score: 5 -->
+Avec la légende du cinéma, [[Robert De Niro]], quelle actrice a partagé l'affiche dans le film [[Un homme à la hauteur]] sorti en 2014 ? <!-- score: 5 -->
 
 ###### Description
 

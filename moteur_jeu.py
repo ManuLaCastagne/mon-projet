@@ -488,7 +488,7 @@ def interface_edition_questions(fichier_force=None):
 
     # Ajouter une nouvelle question
     st.subheader("➕ Ajouter une nouvelle question")
-    nouvelle_question = st.text_input("Nouvelle question (sans score)", key=f"new_q_{fichier}")
+    nouvelle_question = st.text_area("Nouvelle question (sans score)", key=f"new_q_{fichier}", height=120)
 
     if st.button("Ajouter la question", key=f"add_q_{fichier}"):
         if nouvelle_question.strip():
