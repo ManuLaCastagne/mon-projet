@@ -27,9 +27,6 @@ indice_6:
 
 ###### Questions
 
-
-
-
 Quelle actrice est partenaire de Romane Bohringer dans "Mina Tannenbaum" ?
 
 Qui incarne en 2020 une mère débordée dans "Adorable" ?

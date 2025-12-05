@@ -492,9 +492,11 @@ def interface_edition_questions(fichier_force=None):
 
         # 🗑️ Supprimer
         if st.button(f"🗑️ Supprimer (ligne {idx})", key=f"delete_{fichier}_{idx}"):
-            st.session_state[key_lignes][idx+1] = ""
+            # Supprime la question
             st.session_state[key_lignes][idx] = ""
-            st.session_state[key_lignes][idx-1] = ""
+            # Supprime la ligne vide juste après, si elle existe
+            if idx + 1 < len(st.session_state[key_lignes]):
+                st.session_state[key_lignes][idx + 1] = ""
             st.rerun()
 
         score = q["score"]
