@@ -22,23 +22,11 @@ indice_6:
   - Actrice française
 ---
 
-
-
-
-
-
-
-
-
-
-
-
 ![Image de Elsa Zylberstein](https://upload.wikimedia.org/wikipedia/commons/1/17/Elsa_Zylberstein_printemps_du_cin%C3%A9ma_2013_2.jpg)
 
 ###### Questions
 
 Quelle actrice est à l'affiche de plusieurs films de Claude Lelouch, dans des personnages comiques, comme dans "Tout le monde debout" ? <!-- score: 5 -->
-
 
 Quelle actrice est partenaire de Romane Bohringer dans "Mina Tannenbaum" ?
 

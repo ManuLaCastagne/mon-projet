@@ -479,7 +479,7 @@ def interface_edition_questions(fichier_force=None):
     for q in questions:
         idx = q["ligne_index"]
         old_line = q["ligne"]
-        print("IDX : ", idx, "OLD LINE :", old_line, "Key_lignes :", key_lignes)
+        #print("IDX : ", idx, "OLD LINE :", old_line, "Key_lignes :", key_lignes)
 
         texte_sans_score = re.sub(r'<!--.*?-->', '', old_line).strip()
 
@@ -493,6 +493,7 @@ def interface_edition_questions(fichier_force=None):
         # 🗑️ Supprimer
         if st.button(f"🗑️ Supprimer (ligne {idx})", key=f"delete_{fichier}_{idx}"):
             st.session_state[key_lignes][idx] = ""
+            st.session_state[key_lignes][idx-1] = ""
             st.rerun()
 
         score = q["score"]
@@ -540,7 +541,7 @@ def interface_edition_questions(fichier_force=None):
     # 6) 💾 Enregistrer
     if st.button("💾 Enregistrer les modifications", key=f"save_{fichier}"):
         nouvelles_lignes = st.session_state[key_lignes]
-        nouveau_contenu = frontmatter + "\n" + "\n".join(nouvelles_lignes) + "\n"
+        nouveau_contenu = frontmatter + "\n" + "\n".join(nouvelles_lignes)
 
         success = update_file(
             path=fichier,
