@@ -1212,17 +1212,4 @@ def pyperclip_copy_deck(deck):
     pyperclip.copy(formatted_deck)
     print("Deck copied to clipboard!")
 
-### Exemples et main
-
-#if __name__ == "__main__":
-
-    def main(nom_fiche, nom_category):
-        create_fiche(nom_fiche, nom_category)
-
-    parser = argparse.ArgumentParser(description="Create a fiche with a given name and category.")
-    parser.add_argument("--nom_fiche", required=True, help="Name of the fiche to create.")
-    parser.add_argument("--nom_category", required=True, help="Category of the fiche to create.")
-    args = parser.parse_args()
-
-    main(args.nom_fiche, args.nom_category)
-
+change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
