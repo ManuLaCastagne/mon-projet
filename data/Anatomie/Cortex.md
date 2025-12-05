@@ -1,7 +1,9 @@
 ---
 tags:
-  - Santé
+  - Santé
   - Latin
 ---
-Question : Quel mot latin, désignant la couche de substance grise enveloppant les hémisphères cérébraux signifie écorce?
+###### Questions 
+
+Quel mot latin, désignant la couche de substance grise enveloppant les hémisphères cérébraux signifie écorce?
 
