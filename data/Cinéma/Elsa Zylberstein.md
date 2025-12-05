@@ -31,13 +31,14 @@ indice_6:
 
 
 
+
 ![Image de Elsa Zylberstein](https://upload.wikimedia.org/wikipedia/commons/1/17/Elsa_Zylberstein_printemps_du_cin%C3%A9ma_2013_2.jpg)
 
 ###### Questions
 
-KOUKOU <!-- score: 5 -->
-KOUKOU <!-- score: 5 -->
-KOUKOU <!-- score: 5 -->
+
+
+
 
 Quelle actrice est à l'affiche de plusieurs films de Claude Lelouch, dans des personnages comiques, comme dans "Tout le monde debout" ?
 
@@ -58,3 +59,4 @@ Avec la légende du cinéma, [[Robert De Niro]], quelle actrice a partagé l'aff
 En 1991, elle s'est fait connaître du grand public grâce à son rôle dans "[[Vincent Van Gogh]]" de [[Maurice Pialat]], pour lequel elle a reçu le [[Prix Michel Simon]]. Au fil des ans, [[Elsa Zylberstein]] a travaillé avec de nombreux réalisateurs de renom, notamment avec [[Claude Lelouch]] dans "[[Un + une]]" en 2015, consolidant ainsi sa place parmi les grandes actrices du cinéma français.
 
 Je t'aime de tout mon coeur <!-- score: 5 -->
+
