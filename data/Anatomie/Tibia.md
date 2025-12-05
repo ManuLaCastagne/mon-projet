@@ -1,6 +1,6 @@
 ---
 tags:
-  - Santé
+  - Santé
   - Latin
 ---
 ###### Questions
