@@ -22,6 +22,7 @@ questions:
  - 1986. Quel footballeur argentin...
 ---
 
+
 ![Image de Maradona](https://upload.wikimedia.org/wikipedia/commons/9/97/Maradona_at_2012_GCC_Champions_League_final.JPG)
 
 ###### Questions
@@ -30,7 +31,7 @@ En [[1986]], quel joueur a marqué le célèbre but connu sous le nom de la "Mai
 
 Quel joueur de légende a subi une suspension de quinze mois en [[1991]] après avoir échoué à un test anti-dopage pour [[cocaïne]] ?
 
-En [[1990]], qui était le capitaine de l'équipe d'[[Argentine]] de football en finale de la [[Coupe du Monde de la FIFA]] contre l'[[Allemagne]] de [[l'Ouest]] ?
+En [[1990]], qui était le capitaine de l'équipe d'[[Argentine]] de football en finale de la [[Coupe du Monde de la FIFA]] contre l'[[Allemagne]] de [[l'Ouest]] ? <!-- score: 8 -->
 
 ###### Description
 
