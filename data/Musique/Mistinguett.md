@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Mistinguett](https://upload.wikimedia.org/wikipedia/commons/e/e6/Mistinguett_by_Nadar.jpg)
 
 ###### Questions
 
 Quel est le nom de scène de [[Jeanne Florentine Bourgeois]], la célèbre chanteuse de [[music-hall]] née en 1875 ? <!-- score: 6 -->
 
-Quelle artiste a été la première à assurer une assurance sur ses jambes pour 500 000 francs en 1919 ? 
+Quelle artiste a été la première à assurer une assurance sur ses jambes pour 500 000 francs en 1919 ? <!-- score: 6 -->
 
 Quel fut le nom de la chanteuse qui a interprété la chanson "Mon Homme" en 1920 et a popularisé le [[French cancan]] ?
 
