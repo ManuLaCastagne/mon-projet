@@ -22,6 +22,7 @@ questions:
  - En août 1944, quel résistant participa activement à la Libération de Paris, ce qui lui valut le grade de général de brigade, avant de devenir maire de Bordeaux?
 ---
 
+
 ![Image de Jacques Chaban-Delmas](https://upload.wikimedia.org/wikipedia/commons/4/43/Jacques_Chaban-Delmas.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel homme politique français, connu pour avoir été [[Premier ministre]] de 1
 
 Quel ancien maire de [[Bordeaux]], en fonction de 1947 à 1995, a joué un rôle déterminant dans le développement urbain de la ville et était aussi un membre influent de l'[[Assemblée nationale française]] pendant plus de cinq décennies ?
 
-Quel candidat à l’élection présidentielle de [[1974]] a terminé troisième derrière [[Valéry Giscard d'Estaing]] et [[François Mitterrand]], marquant un tournant dans la politique française avec une campagne sur le thème de la "Nouvelle Société" ?
+Quel candidat à l’élection présidentielle de [[1974]] a terminé troisième derrière [[Valéry Giscard d'Estaing]] et [[François Mitterrand]], marquant un tournant dans la politique française avec une campagne sur le thème de la "Nouvelle Société" ? <!-- score: 4 -->
 
 ###### Description
 
