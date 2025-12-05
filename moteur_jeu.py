@@ -491,7 +491,7 @@ def interface_edition_questions(fichier_force=None):
 
         # 🗑️ Supprimer
         if st.button(f"🗑️ Supprimer (ligne {idx})", key=f"delete_{fichier}_{idx}"):
-            st.session_state[key_lignes][idx] = ""
+            st.session_state[key_lignes:key_lignes+1][idx] = ""
             st.rerun()
 
         score = q["score"]
@@ -519,7 +519,7 @@ def interface_edition_questions(fichier_force=None):
             insertion_index = None
             for i, ligne in enumerate(lignes):
                 if ligne.strip().lower().startswith("###### questions"):
-                    insertion_index = i + 1
+                    insertion_index = i + 2
                     break
 
             # Si jamais le header n'existe pas (rare, mais on prévoit)
@@ -532,7 +532,7 @@ def interface_edition_questions(fichier_force=None):
                 mettre_a_jour_score(nouvelle_question.strip(), 5)
             )
 
-            st.session_state[key_lignes] = lignes
+            st.session_state[key_lignes] = lignes + "\n"
             st.success("Nouvelle question ajoutée ✔️")
             st.rerun()
 
