@@ -556,7 +556,7 @@ def interface_edition_questions(fichier_force=None):
             insertion_index = None
             for i, ligne in enumerate(lignes):
                 if ligne.strip().lower().startswith("###### questions"):
-                    insertion_index = i + 2
+                    insertion_index = i + 1
                     break
 
             # Si jamais pas de bloc Questions → on ajoute au début
