@@ -214,7 +214,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab6dbd6c30483175",
+  "active": "028c50878b1df9c9",
   "lastOpenFiles": [
     "Sport/Grand Prix.md",
     "Littérature/Le Figaro (journal).md",
