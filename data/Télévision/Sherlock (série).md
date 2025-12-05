@@ -22,6 +22,7 @@ questions:
  - Série britannique lancée en 2010 et comptant 4 saisons, j'ai été créé par Steven Moffat et Mark Gatiss, qui ont adapté une oeuvre célèbre et l'ont transposée du Télévision/XIXe à l'époque actuelle. Alternant plans rapides et séquences plus longues, je mets en scène un ancien médecin militaire et un détective arrogant et hypermnésique, joués par Martin Freeman et Benedict Cumberbatch.
 ---
 
+
 ![Image de Sherlock (série)](https://upload.wikimedia.org/wikipedia/commons/0/0f/Benedict_Cumberbatch_filming_Sherlock_cropped2.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelle série britannique, commencée en [[2010]], l'acteur [[Benedict Cumb
 
 Quelle série télévisée, diffusée pour la première fois sur [[BBC One]] en [[2010]], réinvente-t-elle le duo iconique formé par [[Sherlock Holmes]] et [[John Watson]] au XXIe siècle ?
 
-Dans quelle adaptation télévisée, le quartier londonien de [[Baker Street]] est-il actualisé et exploité pour raconter les enquêtes du célèbre détective consultant depuis [[2010]] ?
+Dans quelle adaptation télévisée, le quartier londonien de [[Baker Street]] est-il actualisé et exploité pour raconter les enquêtes du célèbre détective consultant depuis [[2010]] ? <!-- score: 7 -->
 
 ###### Description
 
