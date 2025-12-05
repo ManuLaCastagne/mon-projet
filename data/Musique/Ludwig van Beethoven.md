@@ -24,11 +24,12 @@ questions:
  - De quel musicien allemand, disparu en 1827, peut-on expliquer la composition de "La Sonate au clair de lune" par des...
 ---
 
+
 ![Image de Ludwig van Beethoven](https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg)
 
 ###### Questions
 
-Quel compositeur célèbre, né en 1770 à [[Bonn]], a continué à composer après être devenu sourd ?
+Quel compositeur célèbre, né en 1770 à [[Bonn]], a continué à composer après être devenu sourd ? <!-- score: 6 -->
 
 Quel musicien était l'auteur de la fameuse [[Symphonie n°9]], dont l'Hymne à la Joie est devenu l'hymne officiel de l'[[Union Européenne]] en 1985 ?
 
