@@ -25,11 +25,12 @@ questions:
  - En art, quelle préparation peu chargée en pigments, destinée à harmoniser les teintes d'un tableau doit son nom à son aspect évoquant la glace?
 ---
 
+
 ![Image de Glacis](https://upload.wikimedia.org/wikipedia/commons/c/c2/Glacis.png)
 
 ###### Questions
 
-Dans quelle technique artistique, popularisée au [[XVe siècle]], les artistes appliquaient-ils de fines couches transparentes de peinture pour créer des effets de luminosité et des transitions de couleurs subtiles?
+Dans quelle technique artistique, popularisée au [[XVe siècle]], les artistes appliquaient-ils de fines couches transparentes de peinture pour créer des effets de luminosité et des transitions de couleurs subtiles? <!-- score: 8 -->
 
 Quel procédé est utilisé par des artistes comme [[Hans Holbein le Jeune]] pour donner de la profondeur et une texture douce aux portraits de la [[Renaissance]] en superposant des couches transparentes?
 
