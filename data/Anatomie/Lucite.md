@@ -1,7 +1,9 @@
 ---
 tags:
-  - Santé
+  - Santé
   - Grèce
 ---
-Question : En médecine, quelle affection cutanée due au soleil doit son nom au grec "[[lumière]]" ?
+###### Questions 
+
+En médecine, quelle affection cutanée due au soleil doit son nom au grec "[[lumière]]" ?
 
