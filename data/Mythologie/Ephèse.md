@@ -20,13 +20,14 @@ questions:
  - Quelle ancienne ville d'Ionie située dans l'actuelle Turquie pour son temple d'Artémis…
 ---
 
+
 ![Image de Ephèse](https://upload.wikimedia.org/wikipedia/commons/4/49/Ephesus_-_Prytaneion.jpg)
 
 ###### Questions
 
 Quel était le site de l'une des [[Sept Merveilles du monde antique]], le [[Temple d'Artémis]], situé dans la ville d'[[Ephèse]] en [[Turquie]] actuelle ?
 
-Quelle ville, célèbre pour son rôle dans la mythologie, était considérée comme le centre du culte de la déesse [[Artémis]] en [[Anatolie]] durant le premier millénaire avant notre ère ?
+Quelle ville, célèbre pour son rôle dans la mythologie, était considérée comme le centre du culte de la déesse [[Artémis]] en [[Anatolie]] durant le premier millénaire avant notre ère ? <!-- score: 3 -->
 
 Quel site, fondé au Xe siècle av. J.-C., est associé à la déesse [[Artémis]] et reçoit de nombreux pèlerins pour honorer cette divinité avec un grand festival célébré chaque année à cette époque ?
 
