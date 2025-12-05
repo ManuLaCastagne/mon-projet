@@ -1,4 +1,5 @@
+
 ###### Questions 
 
-Quelle locution imagée évoquant le firmament est synonyme de [[baldaquin]] ?
+Quelle locution imagée évoquant le firmament est synonyme de [[baldaquin]] ? <!-- score: 4 -->
 
