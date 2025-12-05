@@ -26,6 +26,7 @@ indice_6 :
 
 
 
+
 ![Image de Moroni](https://upload.wikimedia.org/wikipedia/commons/4/4f/Moroni_harbour_%282%29.jpg)
 
 ![[Carte_Moroni.png]]
