@@ -36,10 +36,6 @@ indice_6:
 
 ###### Questions
 
-
-
-
-
 Quelle actrice est à l'affiche de plusieurs films de Claude Lelouch, dans des personnages comiques, comme dans "Tout le monde debout" ?
 
 Quelle actrice est partenaire de Romane Bohringer dans "Mina Tannenbaum" ?
@@ -58,5 +54,4 @@ Avec la légende du cinéma, [[Robert De Niro]], quelle actrice a partagé l'aff
 
 En 1991, elle s'est fait connaître du grand public grâce à son rôle dans "[[Vincent Van Gogh]]" de [[Maurice Pialat]], pour lequel elle a reçu le [[Prix Michel Simon]]. Au fil des ans, [[Elsa Zylberstein]] a travaillé avec de nombreux réalisateurs de renom, notamment avec [[Claude Lelouch]] dans "[[Un + une]]" en 2015, consolidant ainsi sa place parmi les grandes actrices du cinéma français.
 
-Je t'aime de tout mon coeur <!-- score: 5 -->
 

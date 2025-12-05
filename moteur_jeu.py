@@ -492,6 +492,7 @@ def interface_edition_questions(fichier_force=None):
         # 🗑️ Supprimer
         if st.button(f"🗑️ Supprimer (ligne {idx})", key=f"delete_{fichier}_{idx}"):
             st.session_state[key_lignes][idx] = ""
+            st.session_state[key_lignes][idx+1] = ""
             st.rerun()
 
         score = q["score"]
