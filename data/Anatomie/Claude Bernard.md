@@ -1,9 +1,11 @@
 ---
 tags:
-  - Santé
+  - Santé
   - XIXe
   - France
 date: 1863
 ---
-Question : En 1863, quel physiologiste français a démontré la fonction glycogénique du foie, c'est-à-dire sa capacité...
+###### Questions 
+
+En 1863, quel physiologiste français a démontré la fonction glycogénique du foie, c'est-à-dire sa capacité...
 
