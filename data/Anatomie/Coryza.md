@@ -1,7 +1,9 @@
 ---
 tags:
-  - Santé
+  - Santé
   - Grèce
 ---
-Question : Quel synonyme de "[[rhume de cerveau]]" vient du grec "[[écoulement nasal]]" ?
+###### Questions 
+
+Quel synonyme de "[[rhume de cerveau]]" vient du grec "[[écoulement nasal]]" ?
 
