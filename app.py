@@ -39,9 +39,9 @@ choix = st.sidebar.selectbox(
     [
         "📌 Sélectionner un jeu",
         "✅ Révision classique",
-        "📝 Générer une fiche",
+        "🤖 Générer une fiche",
         "📝 Afficher une fiche",
-        "📝 Éditer les questions d’une fiche",
+        "❓ Éditer les questions d’une fiche",
         "🗺️ Cartographie du savoir",
         "🕵️ Qui suis-je ?",
         "📅 Deviner à partir des années",
@@ -59,10 +59,10 @@ elif choix == "✅ Révision classique":
 elif choix == "📝 Afficher une fiche":
     interface_afficher_fiche()
 
-elif choix == "📝 Éditer les questions d’une fiche":
+elif choix == "❓ Éditer les questions d’une fiche":
     interface_edition_questions()
 
-elif choix == "📝 Générer une fiche":
+elif choix == "🤖 Générer une fiche":
     interface_generation_fiche()
 
 elif choix == "🗺️ Cartographie du savoir":
