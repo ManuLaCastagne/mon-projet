@@ -11,6 +11,42 @@ from github_utils import update_file, read_file, normalize_path
 
 alpha = 1.5
 
+def normaliser_bloc_questions(lignes):
+    """
+    Garantit qu'il y a exactement une ligne vide entre chaque question
+    dans la section '###### Questions'.
+    """
+    start = None
+    end = len(lignes)
+
+    # Trouver le bloc Questions
+    for i, ligne in enumerate(lignes):
+        if ligne.strip().lower().startswith("###### questions"):
+            start = i + 1
+            continue
+        if start is not None:
+            # On s'arrête à la prochaine section (un autre ######)
+            if ligne.strip().startswith("######") and not ligne.strip().lower().startswith("###### questions"):
+                end = i
+                break
+
+    # Pas de bloc questions → on ne touche pas
+    if start is None:
+        return lignes
+
+    # Récupérer toutes les lignes non vides dans le bloc Questions
+    questions_lines = [l for l in lignes[start:end] if l.strip() != ""]
+
+    # Reconstruire avec exactement une ligne vide entre chaque question
+    new_block = []
+    for idx, l in enumerate(questions_lines):
+        new_block.append(l)
+        if idx != len(questions_lines) - 1:
+            new_block.append("")  # une ligne vide entre questions
+
+    # Remplacer le bloc original
+    return lignes[:start] + new_block + lignes[end:]
+
 def lister_fichiers_md(dossier):
     fichiers_md = []
     for racine, _, fichiers in os.walk(dossier):
@@ -422,7 +458,7 @@ def interface_generation_fiche():
 def interface_edition_questions(fichier_force=None):
     st.title("✏️ Édition des questions d’une fiche")
 
-    # 1) Sélection de la fiche (ou fiche imposée)
+    # 1) Sélection de la fiche (ou fiche imposée pour la révision)
     if fichier_force is None:
         noms_fichiers = {os.path.splitext(os.path.basename(f))[0]: f for f in fichiers_md}
         choix = st.selectbox("Choisis une fiche à modifier :", sorted(noms_fichiers.keys()))
@@ -476,10 +512,10 @@ def interface_edition_questions(fichier_force=None):
 
     st.subheader("📝 Questions existantes")
 
+    # 5) Édition & suppression des questions
     for q in questions:
         idx = q["ligne_index"]
         old_line = q["ligne"]
-        #print("IDX : ", idx, "OLD LINE :", old_line, "Key_lignes :", key_lignes)
 
         texte_sans_score = re.sub(r'<!--.*?-->', '', old_line).strip()
 
@@ -490,24 +526,31 @@ def interface_edition_questions(fichier_force=None):
             height=120
         )
 
-        # 🗑️ Supprimer
+        # 🗑️ Supprimer la question (et la ligne vide suivante si présente)
         if st.button(f"🗑️ Supprimer (ligne {idx})", key=f"delete_{fichier}_{idx}"):
-            # Supprime la question
-            st.session_state[key_lignes][idx] = ""
-            # Supprime la ligne vide juste après, si elle existe
-            if idx + 1 < len(st.session_state[key_lignes]):
-                st.session_state[key_lignes][idx + 1] = ""
+            lignes = st.session_state[key_lignes]
+
+            # Supprime la ligne de la question
+            if 0 <= idx < len(lignes):
+                lignes.pop(idx)
+
+            # Supprime la ligne vide suivante éventuelle
+            if idx < len(lignes) and lignes[idx].strip() == "":
+                lignes.pop(idx)
+
+            st.session_state[key_lignes] = lignes
             st.rerun()
 
         score = q["score"]
 
         # ✏️ Modifier le texte
         if new_text.strip() != texte_sans_score:
-            st.session_state[key_lignes][idx] = mettre_a_jour_score(new_text, score)
+            lignes[idx] = mettre_a_jour_score(new_text, score)
+            st.session_state[key_lignes] = lignes
 
     st.markdown("---")
 
-    # 5) ➕ Ajouter une nouvelle question
+    # 6) ➕ Ajouter une nouvelle question (tout en haut des questions)
     st.subheader("➕ Ajouter une nouvelle question")
     nouvelle_question = st.text_area(
         "Nouvelle question (sans score)",
@@ -517,21 +560,19 @@ def interface_edition_questions(fichier_force=None):
 
     if st.button("Ajouter la question", key=f"add_q_{fichier}"):
         if nouvelle_question.strip():
-
             lignes = st.session_state[key_lignes]
 
             # Trouver la ligne "###### questions"
             insertion_index = None
             for i, ligne in enumerate(lignes):
                 if ligne.strip().lower().startswith("###### questions"):
-                    insertion_index = i + 2
+                    insertion_index = i + 1
                     break
 
-            # Si jamais le header n'existe pas (rare, mais on prévoit)
+            # Si jamais pas de bloc Questions → on ajoute au début
             if insertion_index is None:
                 insertion_index = 0
 
-            # Insérer la nouvelle question JUSTE après "###### questions"
             lignes.insert(
                 insertion_index,
                 mettre_a_jour_score(nouvelle_question.strip(), 5)
@@ -541,10 +582,12 @@ def interface_edition_questions(fichier_force=None):
             st.success("Nouvelle question ajoutée ✔️")
             st.rerun()
 
-    # 6) 💾 Enregistrer
+    # 7) 💾 Enregistrer (avec normalisation des sauts de ligne)
+    st.markdown("---")
     if st.button("💾 Enregistrer les modifications", key=f"save_{fichier}"):
-        nouvelles_lignes = st.session_state[key_lignes]
-        nouveau_contenu = frontmatter + "\n".join(nouvelles_lignes)
+        lignes = st.session_state[key_lignes]
+        lignes_normalisees = normaliser_bloc_questions(lignes)
+        nouveau_contenu = frontmatter + "\n" + "\n".join(lignes_normalisees)
 
         success = update_file(
             path=fichier,
@@ -554,12 +597,12 @@ def interface_edition_questions(fichier_force=None):
 
         if success:
             st.success(f"🎉 Questions mises à jour dans {choix} !")
-            # On réinitialise l'état d'édition pour repartir d'un fichier propre
+            # On réinitialise pour repartir d'un état propre la prochaine fois
             del st.session_state[key_lignes]
             st.rerun()
         else:
             st.error("❌ Échec de l'enregistrement dans GitHub.")
-
+            
 def interface_afficher_fiche():
     st.title("📄 Afficher une fiche")
 
