@@ -24,6 +24,7 @@ questions:
  - Sous quel nom de scène connaît-on la religieuse ayant atteint le sommet des hit-parades en 1960 ?
 ---
 
+
 ![Image de Sœur Sourire](https://upload.wikimedia.org/wikipedia/commons/7/7c/Sor_Sonrisa.gif)
 
 ###### Questions
@@ -31,6 +32,9 @@ questions:
 Quel pseudonyme porte [[Jeannine Deckers]], une religieuse dominicaine belge qui a connu un grand succès musical en 1963 avec la chanson "[[Dominique]]"?
 
 Quelle artiste a remporté un [[Disque d'or]] en 1963, dépassant des figures emblématiques comme [[Elvis Presley]] et [[The Beatles]] dans les charts américains, tout en étant membre de la communauté religieuse des [[Dominicaines de Fichermont]]?
+
+Quel personnage connu sous le nom de [[Sœur Sourire]] est devenu célèbre pour avoir chanté et écrit une chanson qui a atteint le numéro un du classement Billboard Hot 100 en 1963 tout en vivant dans un couvent belge? <!-- score: 5 -->
+
 ###### Description
 
 [[Sœur Sourire]], de son vrai nom [[Jeannine Deckers]], était une religieuse belge ayant connu un succès retentissant dans les années 1960 grâce à son célèbre chanson "Dominique". 
