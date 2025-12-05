@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Zig et Sharko]()
 
 ###### Questions
 
-Dans quelle série animée créée par [[Olivier Jean-Marie]] en [[2010]] un hyène et un requin s'affrontent-ils constamment sur une île paradisiaque ?
+Dans quelle série animée créée par [[Olivier Jean-Marie]] en [[2010]] un hyène et un requin s'affrontent-ils constamment sur une île paradisiaque ? <!-- score: 4 -->
 
 Quel programme de [[Télétoon+]] présente les mésaventures d'un buffle de mer face à un rival aquatique depuis son lancement en [[2010]] ?
 

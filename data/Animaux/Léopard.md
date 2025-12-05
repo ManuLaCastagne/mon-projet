@@ -18,13 +18,14 @@ questions:
 ---
 
 
-![Image de Léopard](https://upload.wikimedia.org/wikipedia/commons/0/03/Panthera_pardus_close_up.jpg)
+
+![Image de Léopard](https://upload.wikimedia.org/wikipedia/commons/0/03/Panthera_pardus_close_up.jpg)
 
 ###### Questions
 
 Quel animal est utilisé par [[William Blake]] dans son célèbre poème "Tyger, Tyger", écrit en 1794, qui parle de la férocité et de la majesté des grands félins ? <!-- score: 4 -->
 
-Quel félin est considéré comme l'un des plus vieux du [[paleoart]] préhistorique, retrouvé sur des gravures datant d'environ [[30 000 ans]] dans les grottes de [[Chauvet]] en [[France]] ?
+Quel félin est considéré comme l'un des plus vieux du [[paleoart]] préhistorique, retrouvé sur des gravures datant d'environ [[30 000 ans]] dans les grottes de [[Chauvet]] en [[France]] ? <!-- score: 4 -->
 
 Quel animal peut réaliser le célèbre [[saut de léopard]], une technique de chasse consistant à bondir sur sa proie depuis une structure surélevée, souvent jusqu'à six mètres de distance ?
 

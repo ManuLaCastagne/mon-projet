@@ -23,11 +23,12 @@ indice_6 :
   - Gare de Sélestat
 ---
 
+
 ![[Carte_Sélestat.png]]
 
 ###### Questions
 
-Quelle ville alsacienne est reconnue pour avoir accueilli en [[1521]] l'une des plus anciennes mentions écrites d'un [[sapin de Noël]] décoré ?
+Quelle ville alsacienne est reconnue pour avoir accueilli en [[1521]] l'une des plus anciennes mentions écrites d'un [[sapin de Noël]] décoré ? <!-- score: 2 -->
 
 Dans quelle ville se trouve une bibliothèque humaniste classée au patrimoine mondial de l'[[UNESCO]] depuis [[2011]] ?
 

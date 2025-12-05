@@ -23,11 +23,12 @@ indice_6:
 ---
 
 
+
 ![Image de Jean-Pierre Bacri](https://upload.wikimedia.org/wikipedia/commons/d/d6/Jean-Pierre_Bacri_20070411_Fnac_6.jpg)
 
 ###### Questions
 
-Qui est associé à des films comme "Un Air de famille", "[[Didier]]" et "[[Le Goût des autres]]" et disparait en janvier 2021 ?
+Qui est associé à des films comme "Un Air de famille", "[[Didier]]" et "[[Le Goût des autres]]" et disparait en janvier 2021 ? <!-- score: 8 -->
 
 Dans quel film de 1993, Jean-Pierre Bacri a-t-il cosigné le scénario avec [[Agnès Jaoui]], aboutissant à un succès critique et public en remportant le [[César Award]] du meilleur scénario original ?
 

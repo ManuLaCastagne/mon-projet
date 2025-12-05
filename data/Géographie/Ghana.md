@@ -27,6 +27,7 @@ questions:
 ---
 
 
+
 ![Image de Ghana](https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg)
 
 ![[Carte_Ghana.png]]
@@ -34,7 +35,7 @@ questions:
 
 Quelle est la première nation africaine à avoir obtenu son indépendance de la domination coloniale en 1957, devenant ainsi un symbole de la lutte pour la liberté en Afrique ?
 
-Quel pays d'[[Afrique occidentale]] abrite le [[Lac Volta]], l'un des plus grands [[lacs artificiels]] du monde créé par la construction du barrage d'[[Akosombo]] dans les années 1960 ? <!-- score: 4 -->
+Quel pays d'[[Afrique occidentale]] abrite le [[Lac Volta]], l'un des plus grands [[lacs artificiels]] du monde créé par la construction du barrage d'[[Akosombo]] dans les années 1960 ? <!-- score: 3 -->
 
 Dans quel pays se trouve la ville de [[Kumasi]], connue comme la "cité-jardin" et qui était autrefois la capitale de l'ancien [[royaume Ashanti]] ?
 

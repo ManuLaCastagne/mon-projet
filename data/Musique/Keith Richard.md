@@ -24,6 +24,7 @@ questions:
  - "As tears goes by", de Marianne Faithfull en 1964. Avec quel chanteur a-t-elle vécu une histoire d'amour ?
 ---
 
+
 ![Image de Keith Richard](https://upload.wikimedia.org/wikipedia/commons/e/e7/Richard_H._Keith_%281842%E2%80%931905%29.png)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel célèbre guitariste des [[Rolling Stones]] a survécu en 1965 à un accide
 
 Quel membre des [[Rolling Stones]] a inspiré le célèbre personnage du capitaine [[Jack Sparrow]] incarné par [[Johnny Depp]] dans le film [[Pirates des Caraïbes]] ?
 
-Quel guitariste légendaire aurait, selon la légende, inhalé les cendres de son père mélangées avec de la cocaïne en 2002 ?
+Quel guitariste légendaire aurait, selon la légende, inhalé les cendres de son père mélangées avec de la cocaïne en 2002 ? <!-- score: 4 -->
 
 ###### Description
 

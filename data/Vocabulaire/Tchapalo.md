@@ -16,11 +16,12 @@ indice_6 :
   - Sorgho
 ---
 
+
 ![Image de Tchapalo](https://upload.wikimedia.org/wikipedia/commons/4/46/Dolo_Moulin.jpg)
 
 ###### Questions
 
-Quelle boisson traditionnelle à base de mil est populaire en [[Côte d'Ivoire]] ?
+Quelle boisson traditionnelle à base de mil est populaire en [[Côte d'Ivoire]] ? <!-- score: 3 -->
     
 Quel breuvage alcoolisé est souvent consommé lors des célébrations dans l'ouest de l'[[Afrique]] ?
 

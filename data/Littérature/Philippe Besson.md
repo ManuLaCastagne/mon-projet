@@ -24,11 +24,12 @@ questions:
  - En 2021, écrivain qui évoque dans "Le Dernier Enfant" le déchirement d'une mère voyant son dernier fils partir ?
 ---
 
+
 ![Image de Philippe Besson](https://upload.wikimedia.org/wikipedia/commons/5/51/Philippe_Besson_2011_c.jpg)
 
 ###### Questions
 
-Quel auteur a commencé sa carrière littéraire avec le roman "[[En l'absence des hommes]]" publié en 2001 ?
+Quel auteur a commencé sa carrière littéraire avec le roman "[[En l'absence des hommes]]" publié en 2001 ? <!-- score: 3 -->
 
 Quel écrivain français, facilement identifiable par son style intime et introspectif, a reçu le Grand Prix RTL-Lire pour "[[Son frère]]" en 2001 ?
 

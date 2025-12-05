@@ -22,17 +22,13 @@ questions:
  - Quel humoriste, auteur de la pièce "Sexe, magouilles et culture générale"  a  utilisé son sens de la répartie, si quelqu'un en a, c'est bien lui, aux côtés de Thierry Ardisson ?
 ---
 
-
 ![Image de Laurent Baffie](https://upload.wikimedia.org/wikipedia/commons/0/04/BAFFIE_Laurent-24x30-2001.jpg)
 
 ###### Questions
 
-Sur quel plateau de [[ONPC]] avait-on surpris [[Laurent Baffie]] à ajuster la jupe de [[Nolwenn Leroy]] en 2017 ?
-
 Quel animateur et auteur a repris les rênes de l'émission culte [[Dîner de cons]] en direct sur [[TF1]] en 1998 ? <!-- score: 10 -->
 
 Qui a créatif et provocateur, a créé l'émission satirique [[Les Grosses Têtes]] avec [[Philippe Bouvard]] en 2000 ?
-
 ###### Description
 
 [[Laurent Baffie]], célèbre pour son humour acerbe et ses réparties cinglantes, a marqué le paysage audiovisuel français depuis ses débuts dans les années 1990. 
