@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Affaire des Poisons.md",
+                "file": "Cinéma/Elsa Zylberstein.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Affaire des Poisons"
+              "title": "Graphique de Elsa Zylberstein"
             }
           },
           {
@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Affaire des Poisons.md",
+                "file": "Cinéma/Elsa Zylberstein.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Affaire des Poisons"
+              "title": "Elsa Zylberstein"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoire/Affaire des Poisons.md",
+                "file": "Cinéma/Elsa Zylberstein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Affaire des Poisons"
+              "title": "Rétrolien pour Elsa Zylberstein"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoire/Affaire des Poisons.md",
+                "file": "Cinéma/Elsa Zylberstein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Affaire des Poisons"
+              "title": "Liens sortants de Elsa Zylberstein"
             }
           },
           {
@@ -235,6 +235,7 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Histoire/Affaire des Poisons.md",
     "Vocabulaire/Houppier.md",
     "Sport/Grand Prix.md",
     "Littérature/Le Figaro (journal).md",
@@ -260,7 +261,6 @@
     "Anatomie/Muscles scalènes.md",
     "Anatomie/Opération à distance.md",
     "Anatomie/Phlébologue.md",
-    "Anatomie/Palpation.md",
     "Sans titre.canvas"
   ]
 }
