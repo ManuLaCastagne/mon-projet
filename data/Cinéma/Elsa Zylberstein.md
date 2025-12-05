@@ -26,6 +26,8 @@ indice_6:
 
 ###### Questions
 QUESTION 1 <!-- score: 5 -->
+Qui incarne en 2020 une mère débordée dans "Adorable" ? <!-- score: 5 -->
+
 Qui incarne en 2020 une mère débordée dans "Adorable" ?
 
 Dans quel film de 1993, réalisé par [[Maurice Pialat]], qui joue le rôle de [[Martine (bande dessinée)]], la compagne de l'un des protagonistes ? <!-- score: 5 -->
