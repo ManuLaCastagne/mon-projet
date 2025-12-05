@@ -24,11 +24,12 @@ questions:
 ---
 
 
+
 ![Image de Thomas Gainsborough](https://upload.wikimedia.org/wikipedia/commons/3/3f/Thomas_Gainsborough_by_Thomas_Gainsborough.jpg)
 
 ###### Questions
 
-Quel peintre britannique, connu pour ses paysages en plus de ses portraits, a été co-fondateur de la [[Royal Academy of Arts]] en 1768 ? <!-- score: 4 -->
+Quel peintre britannique, connu pour ses paysages en plus de ses portraits, a été co-fondateur de la [[Royal Academy of Arts]] en 1768 ? <!-- score: 6 -->
 
 Quel artiste a peint "The Blue Boy", une œuvre emblématique du XVIIIe siècle, exposée pour la première fois en 1770 ?
 
