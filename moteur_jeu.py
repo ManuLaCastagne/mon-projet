@@ -422,98 +422,139 @@ def interface_generation_fiche():
 def interface_edition_questions(fichier_force=None):
     st.title("✏️ Édition des questions d’une fiche")
 
-    # ---------------------------
-    # 1) MODE NORMAL = SELECTBOX
-    # ---------------------------
+    # 1) Sélection de la fiche (ou fiche imposée)
     if fichier_force is None:
         noms_fichiers = {os.path.splitext(os.path.basename(f))[0]: f for f in fichiers_md}
         choix = st.selectbox("Choisis une fiche à modifier :", sorted(noms_fichiers.keys()))
-
         if not choix:
             return
-
         fichier = noms_fichiers[choix]
-
-    # ------------------------------------
-    # 2) MODE RÉVISION : fichier imposé
-    # ------------------------------------
     else:
         fichier = fichier_force
         choix = os.path.splitext(os.path.basename(fichier_force))[0]
         st.markdown(f"### ✏️ Modification de la fiche : **{choix}**")
 
-    # Charger contenu
+    # 2) Charger contenu
     contenu_original = read_file(fichier)
     if not contenu_original:
         st.error("Impossible de charger la fiche.")
         return
 
     frontmatter, corps = separer_frontmatter_et_contenu(contenu_original)
-    lignes = corps.split("\n")
+    lignes_initiales = corps.split("\n")
 
-    # Extraire les questions
-    questions = extraire_questions_depuis_fichier(fichier)
+    # 3) Clé de session pour stocker les lignes en édition
+    key_lignes = f"edition_lignes_{fichier}"
+
+    if key_lignes not in st.session_state:
+        st.session_state[key_lignes] = lignes_initiales
+
+    lignes = st.session_state[key_lignes]
+
+    # 4) Extraire les questions à partir des lignes EN MÉMOIRE
+    def extraire_questions_depuis_lignes(lignes_locales):
+        questions_locales = []
+        in_questions = False
+        for i, ligne in enumerate(lignes_locales):
+            if ligne.strip().lower().startswith("###### questions"):
+                in_questions = True
+                continue
+            if in_questions:
+                if ligne.strip().startswith('#') or ligne.strip().lower().startswith('###### description'):
+                    break
+                if ligne.strip():
+                    score = extraire_score(ligne)
+                    questions_locales.append({
+                        'ligne': ligne,
+                        'score': score,
+                        'ligne_index': i,
+                        'fiche_nom': choix
+                    })
+        return questions_locales
+
+    questions = extraire_questions_depuis_lignes(lignes)
 
     st.subheader("📝 Questions existantes")
 
-    nouvelles_lignes = lignes.copy()
-    modifications = False
-
     for q in questions:
+        idx = q["ligne_index"]
         old_line = q["ligne"]
 
-        # Nettoyer pour affichage sans le score
         texte_sans_score = re.sub(r'<!--.*?-->', '', old_line).strip()
 
         new_text = st.text_area(
-            f"Question ({q['fiche_nom']} - ligne {q['ligne_index']})",
+            f"Question ({q['fiche_nom']} - ligne {idx})",
             texte_sans_score,
-            key=f"edit_{fichier}_{q['ligne_index']}",
+            key=f"edit_{fichier}_{idx}",
             height=120
         )
 
-        # Bouton de suppression
-        if st.button(f"🗑️ Supprimer (ligne {q['ligne_index']})", key=f"delete_{fichier}_{q['ligne_index']}"):
-            nouvelles_lignes[q['ligne_index']] = ""
-            modifications = True
+        # 🗑️ Supprimer
+        if st.button(f"🗑️ Supprimer (ligne {idx})", key=f"delete_{fichier}_{idx}"):
+            st.session_state[key_lignes][idx] = ""
+            st.rerun()
 
         score = q["score"]
 
-        # Modification
+        # ✏️ Modifier le texte
         if new_text.strip() != texte_sans_score:
-            modifications = True
-            nouvelles_lignes[q['ligne_index']] = mettre_a_jour_score(new_text, score)
+            st.session_state[key_lignes][idx] = mettre_a_jour_score(new_text, score)
 
     st.markdown("---")
 
-    # Ajouter une nouvelle question
+    # 5) ➕ Ajouter une nouvelle question
     st.subheader("➕ Ajouter une nouvelle question")
-    nouvelle_question = st.text_area("Nouvelle question (sans score)", key=f"new_q_{fichier}", height=120)
+    nouvelle_question = st.text_area(
+        "Nouvelle question (sans score)",
+        key=f"new_q_{fichier}",
+        height=120
+    )
 
     if st.button("Ajouter la question", key=f"add_q_{fichier}"):
         if nouvelle_question.strip():
-            nouvelles_lignes.append(mettre_a_jour_score(nouvelle_question.strip(), 5))
-            modifications = True
+
+            lignes = st.session_state[key_lignes]
+
+            # Trouver la ligne "###### questions"
+            insertion_index = None
+            for i, ligne in enumerate(lignes):
+                if ligne.strip().lower().startswith("###### questions"):
+                    insertion_index = i + 1
+                    break
+
+            # Si jamais le header n'existe pas (rare, mais on prévoit)
+            if insertion_index is None:
+                insertion_index = 0
+
+            # Insérer la nouvelle question JUSTE après "###### questions"
+            lignes.insert(
+                insertion_index,
+                mettre_a_jour_score(nouvelle_question.strip(), 5)
+            )
+
+            st.session_state[key_lignes] = lignes
             st.success("Nouvelle question ajoutée ✔️")
             st.rerun()
 
-    # Enregistrement
-    if modifications:
-        if st.button("💾 Enregistrer les modifications", key=f"save_{fichier}"):
-            nouveau_contenu = frontmatter + "\n" + "\n".join(nouvelles_lignes)
+    # 6) 💾 Enregistrer
+    if st.button("💾 Enregistrer les modifications", key=f"save_{fichier}"):
+        nouvelles_lignes = st.session_state[key_lignes]
+        nouveau_contenu = frontmatter + "\n" + "\n".join(nouvelles_lignes)
 
-            success = update_file(
-                path=fichier,
-                content=nouveau_contenu,
-                message=f"Edit questions in {choix}"
-            )
+        success = update_file(
+            path=fichier,
+            content=nouveau_contenu,
+            message=f"Edit questions in {choix}"
+        )
 
-            if success:
-                st.success(f"🎉 Questions mises à jour dans {choix} !")
-                st.rerun()
-            else:
-                st.error("❌ Échec de l'enregistrement dans GitHub.")
-                
+        if success:
+            st.success(f"🎉 Questions mises à jour dans {choix} !")
+            # On réinitialise l'état d'édition pour repartir d'un fichier propre
+            del st.session_state[key_lignes]
+            st.rerun()
+        else:
+            st.error("❌ Échec de l'enregistrement dans GitHub.")
+
 def interface_afficher_fiche():
     st.title("📄 Afficher une fiche")
 
