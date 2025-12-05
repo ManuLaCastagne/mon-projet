@@ -27,7 +27,7 @@ indice_6:
 
 ###### Questions
 
-KSJPO <!-- score: 5 -->
+
 
 
 Quelle actrice est partenaire de Romane Bohringer dans "Mina Tannenbaum" ?
