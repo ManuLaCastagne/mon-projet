@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anatomie/Thénar.md",
+                "file": "Anatomie/Épiderme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Thénar"
+              "title": "Graphique de Épiderme"
             }
           },
           {
@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomie/Thénar.md",
+                "file": "Anatomie/Épiderme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thénar"
+              "title": "Épiderme"
             }
           }
         ],
@@ -203,13 +203,23 @@
               "icon": "lucide-list",
               "title": "Plan de Manureva"
             }
+          },
+          {
+            "id": "028c50878b1df9c9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,13 +229,17 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "73e242847cf76f4c",
   "lastOpenFiles": [
-    "Anatomie/Épiderme.md",
     "Anatomie/Éclisse.md",
+    "Anatomie/phagocytose.md",
+    "Anatomie/Œsophage.md",
+    "Anatomie/Thénar.md",
+    "Anatomie/Épiderme.md",
     "Anatomie/maladie de Huntignton.md",
     "Anatomie/rougeole.md",
     "Vocabulaire/Vive-eau.md",
