@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vocabulaire/Houppier.md",
+                "file": "Histoire/Affaire des Poisons.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Houppier"
+              "title": "Graphique de Affaire des Poisons"
             }
           },
           {
@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulaire/Houppier.md",
+                "file": "Histoire/Affaire des Poisons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Houppier"
+              "title": "Affaire des Poisons"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulaire/Houppier.md",
+                "file": "Histoire/Affaire des Poisons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Houppier"
+              "title": "Rétrolien pour Affaire des Poisons"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulaire/Houppier.md",
+                "file": "Histoire/Affaire des Poisons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Houppier"
+              "title": "Liens sortants de Affaire des Poisons"
             }
           },
           {
@@ -233,8 +233,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "028c50878b1df9c9",
+  "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Vocabulaire/Houppier.md",
     "Sport/Grand Prix.md",
     "Littérature/Le Figaro (journal).md",
     "Val d'Aran.md",
@@ -260,7 +261,6 @@
     "Anatomie/Opération à distance.md",
     "Anatomie/Phlébologue.md",
     "Anatomie/Palpation.md",
-    "Anatomie/Trapèze.md",
     "Sans titre.canvas"
   ]
 }

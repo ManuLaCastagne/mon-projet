@@ -122,6 +122,8 @@ def poser_questions(questions_globales, nb_questions=1000):
             st.session_state.quiz_index += 1
             st.session_state.quiz_reveal = False
             st.rerun()
+        with st.expander("✏️ Modifier les questions de cette fiche"):
+            interface_edition_questions(fichier_force=q['fichier'])
         afficher_description(q['fichier'])
 
 def sauvegarder_modifications(modifications):
@@ -417,17 +419,28 @@ def interface_generation_fiche():
         except Exception as e:
             st.error(f"Erreur : {e}")
 
-def interface_edition_questions():
+def interface_edition_questions(fichier_force=None):
     st.title("✏️ Édition des questions d’une fiche")
 
-    # Sélection de la fiche
-    noms_fichiers = {os.path.splitext(os.path.basename(f))[0]: f for f in fichiers_md}
-    choix = st.selectbox("Choisis une fiche à modifier :", sorted(noms_fichiers.keys()))
+    # ---------------------------
+    # 1) MODE NORMAL = SELECTBOX
+    # ---------------------------
+    if fichier_force is None:
+        noms_fichiers = {os.path.splitext(os.path.basename(f))[0]: f for f in fichiers_md}
+        choix = st.selectbox("Choisis une fiche à modifier :", sorted(noms_fichiers.keys()))
 
-    if not choix:
-        return
+        if not choix:
+            return
 
-    fichier = noms_fichiers[choix]
+        fichier = noms_fichiers[choix]
+
+    # ------------------------------------
+    # 2) MODE RÉVISION : fichier imposé
+    # ------------------------------------
+    else:
+        fichier = fichier_force
+        choix = os.path.splitext(os.path.basename(fichier_force))[0]
+        st.markdown(f"### ✏️ Modification de la fiche : **{choix}**")
 
     # Charger contenu
     contenu_original = read_file(fichier)
@@ -444,7 +457,6 @@ def interface_edition_questions():
     st.subheader("📝 Questions existantes")
 
     nouvelles_lignes = lignes.copy()
-
     modifications = False
 
     for q in questions:
@@ -456,18 +468,18 @@ def interface_edition_questions():
         new_text = st.text_area(
             f"Question ({q['fiche_nom']} - ligne {q['ligne_index']})",
             texte_sans_score,
-            key=f"edit_{q['ligne_index']}",
+            key=f"edit_{fichier}_{q['ligne_index']}",
             height=120
         )
 
-        # Bouton de suppression pour chaque question
-        if st.button(f"🗑️ Supprimer (ligne {q['ligne_index']})", key=f"delete_{q['ligne_index']}"):
+        # Bouton de suppression
+        if st.button(f"🗑️ Supprimer (ligne {q['ligne_index']})", key=f"delete_{fichier}_{q['ligne_index']}"):
             nouvelles_lignes[q['ligne_index']] = ""
             modifications = True
 
         score = q["score"]
 
-        # Si modifié → reconstruire ligne
+        # Modification
         if new_text.strip() != texte_sans_score:
             modifications = True
             nouvelles_lignes[q['ligne_index']] = mettre_a_jour_score(new_text, score)
@@ -476,21 +488,18 @@ def interface_edition_questions():
 
     # Ajouter une nouvelle question
     st.subheader("➕ Ajouter une nouvelle question")
-    nouvelle_question = st.text_input("Nouvelle question (sans score)")
+    nouvelle_question = st.text_input("Nouvelle question (sans score)", key=f"new_q_{fichier}")
 
-    if st.button("Ajouter la question"):
+    if st.button("Ajouter la question", key=f"add_q_{fichier}"):
         if nouvelle_question.strip():
-            lignes_avec_questions = nouvelles_lignes
-            # Ajouter juste avant la section suivante ou à la fin
-            lignes_avec_questions.append(mettre_a_jour_score(nouvelle_question.strip(), 5))
-            nouvelles_lignes = lignes_avec_questions
+            nouvelles_lignes.append(mettre_a_jour_score(nouvelle_question.strip(), 5))
             modifications = True
             st.success("Nouvelle question ajoutée ✔️")
             st.rerun()
 
-    # Bouton d’enregistrement
+    # Enregistrement
     if modifications:
-        if st.button("💾 Enregistrer les modifications"):
+        if st.button("💾 Enregistrer les modifications", key=f"save_{fichier}"):
             nouveau_contenu = frontmatter + "\n" + "\n".join(nouvelles_lignes)
 
             success = update_file(

@@ -1,31 +1,31 @@
 ---
-tags: 
+tags:
   - Histoire
   - France
   - Années_1670
   - XVIIe
 debut: 1679
 fin: 1682
-indice_1 : 
+indice_1:
   - Louis XIV
-indice_2 : 
+indice_2:
   - La Voisin
-indice_3 : 
+indice_3:
   - sorcellerie
-indice_4 : 
+indice_4:
   - arrestations
-indice_5 : 
+indice_5:
   - poisons et potions
-indice_6 : 
+indice_6:
   - scandale à la cour royale
-questions:
- - De 1679 à 1682, quelle affaire concernant des crimes commis par certains membres de l'aristocratie fit grand bruit ?
 ---
 
 
 ![Image de Affaire des Poisons](https://upload.wikimedia.org/wikipedia/commons/e/ee/LL-Q150_%28fra%29-Mecanautes-Affaire_des_Poisons.wav)
 
 ###### Questions
+
+De 1679 à 1682, quelle affaire concernant des crimes commis par certains membres de l'aristocratie fit grand bruit ?
 
 Quel scandale judiciaire et criminel éclate sous le règne de [[Louis XIV]] entre 1677 et 1682 impliquant des membres de la noblesse française dans des affaires de sorcellerie et de poison ?
 
