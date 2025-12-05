@@ -22,7 +22,7 @@ def normaliser_bloc_questions(lignes):
     # Trouver le bloc Questions
     for i, ligne in enumerate(lignes):
         if ligne.strip().lower().startswith("###### questions"):
-            start = i + 1
+            start = i + 2
             continue
         if start is not None:
             # On s'arrête à la prochaine section (un autre ######)
@@ -526,19 +526,9 @@ def interface_edition_questions(fichier_force=None):
             height=120
         )
 
-        # 🗑️ Supprimer la question (et la ligne vide suivante si présente)
+        # 🗑️ Supprimer
         if st.button(f"🗑️ Supprimer (ligne {idx})", key=f"delete_{fichier}_{idx}"):
-            lignes = st.session_state[key_lignes]
-
-            # Supprime la ligne de la question
-            if 0 <= idx < len(lignes):
-                lignes.pop(idx)
-
-            # Supprime la ligne vide suivante éventuelle
-            if idx < len(lignes) and lignes[idx].strip() == "":
-                lignes.pop(idx)
-
-            st.session_state[key_lignes] = lignes
+            st.session_state[key_lignes][idx] = ""
             st.rerun()
 
         score = q["score"]
@@ -566,7 +556,7 @@ def interface_edition_questions(fichier_force=None):
             insertion_index = None
             for i, ligne in enumerate(lignes):
                 if ligne.strip().lower().startswith("###### questions"):
-                    insertion_index = i + 1
+                    insertion_index = i + 2
                     break
 
             # Si jamais pas de bloc Questions → on ajoute au début
@@ -587,7 +577,13 @@ def interface_edition_questions(fichier_force=None):
     if st.button("💾 Enregistrer les modifications", key=f"save_{fichier}"):
         lignes = st.session_state[key_lignes]
         lignes_normalisees = normaliser_bloc_questions(lignes)
-        nouveau_contenu = frontmatter + "\n" + "\n".join(lignes_normalisees)
+        # Assure que frontmatter se termine par EXACTEMENT une ligne vide, pas plus
+        frontmatter_clean = frontmatter.rstrip() + "\n\n"
+
+        # Assure que le corps n’a pas de lignes vides en tête
+        corps_clean = "\n".join(lignes_normalisees).lstrip("\n")
+
+        nouveau_contenu = frontmatter_clean + corps_clean
 
         success = update_file(
             path=fichier,
@@ -602,7 +598,7 @@ def interface_edition_questions(fichier_force=None):
             st.rerun()
         else:
             st.error("❌ Échec de l'enregistrement dans GitHub.")
-            
+
 def interface_afficher_fiche():
     st.title("📄 Afficher une fiche")
 
@@ -680,7 +676,6 @@ def interface_cartographie_savoir():
         components.html(html_content, height=600, scrolling=True)
     except Exception as e:
         st.error(f"Erreur lors de l'affichage du graphe : {e}")
-
 
 DOSSIER = "data"
 fichiers_md = lister_fichiers_md(DOSSIER)
