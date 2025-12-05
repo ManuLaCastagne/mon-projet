@@ -22,7 +22,7 @@ def normaliser_bloc_questions(lignes):
     # Trouver le bloc Questions
     for i, ligne in enumerate(lignes):
         if ligne.strip().lower().startswith("###### questions"):
-            start = i + 2
+            start = i + 1
             continue
         if start is not None:
             # On s'arrête à la prochaine section (un autre ######)
@@ -39,6 +39,7 @@ def normaliser_bloc_questions(lignes):
 
     # Reconstruire avec exactement une ligne vide entre chaque question
     new_block = []
+    new_block.append("")
     for idx, l in enumerate(questions_lines):
         new_block.append(l)
         if idx != len(questions_lines) - 1:

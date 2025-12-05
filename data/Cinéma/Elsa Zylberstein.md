@@ -25,8 +25,6 @@ indice_6:
 ![Image de Elsa Zylberstein](https://upload.wikimedia.org/wikipedia/commons/1/17/Elsa_Zylberstein_printemps_du_cin%C3%A9ma_2013_2.jpg)
 
 ###### Questions
-QUESTION 1 <!-- score: 5 -->
-Qui incarne en 2020 une mère débordée dans "Adorable" ? <!-- score: 5 -->
 
 Qui incarne en 2020 une mère débordée dans "Adorable" ?
 
