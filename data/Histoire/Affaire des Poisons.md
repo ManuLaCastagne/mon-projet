@@ -22,6 +22,7 @@ questions:
  - De 1679 à 1682, quelle affaire concernant des crimes commis par certains membres de l'aristocratie fit grand bruit ?
 ---
 
+
 ![Image de Affaire des Poisons](https://upload.wikimedia.org/wikipedia/commons/e/ee/LL-Q150_%28fra%29-Mecanautes-Affaire_des_Poisons.wav)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel scandale judiciaire et criminel éclate sous le règne de [[Louis XIV]] ent
 
 Quel événement marquant de la fin du XVIIe siècle, dévoilé en 1679, a conduit à l'arrestation de [[Catherine Monvoisin]], dite [[La Voisin]], considérée comme l'une des principales figures impliquées dans des actes de magie noire et de fabrication de poisons ?
 
-Quel complot criminel découvert à Versailles a mené à l'implication de la maîtresse du roi, [[Madame de Montespan]], et a bouleversé la cour royale française pendant plusieurs années à partir de 1677 ?
+Quel complot criminel découvert à Versailles a mené à l'implication de la maîtresse du roi, [[Madame de Montespan]], et a bouleversé la cour royale française pendant plusieurs années à partir de 1677 ? <!-- score: 4 -->
 
 ###### Description
 
