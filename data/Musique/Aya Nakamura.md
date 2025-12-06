@@ -22,6 +22,7 @@ indice_6:
   - apéritif
 ---
 
+
 ![Image de Aya Nakamura](https://upload.wikimedia.org/wikipedia/commons/e/e6/Aya_Nakamura-23Sept2019.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quelle chanteuse née en 1995, se fait connaître sur les réseaux sociaux avec 
 
 Quel est le nom de la chanteuse française née en 1995 au [[Mali]] qui a acquis une renommée internationale avec son single [[Djadja]] ?
 
-Quel artiste a été la première chanteuse francophone à atteindre la première place du [[Global Top 50]] de [[Spotify]] en 2018 ?
+Quel artiste a été la première chanteuse francophone à atteindre la première place du [[Global Top 50]] de [[Spotify]] en 2018 ? <!-- score: 7 -->
 
 Quel est le nom de l'artiste féminine dont le deuxième album s'intitule [[Nakamura]] et qui a été certifié disque de platine en France en 2019 ?
 
