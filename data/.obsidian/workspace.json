@@ -6,6 +6,7 @@
       {
         "id": "121adab4fc57a041",
         "type": "tabs",
+        "dimension": 66.42984014209591,
         "children": [
           {
             "id": "6ca3aa9b0430f04f",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Nicolas de Staël.md",
+                "file": "Cinéma/Magnum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nicolas de Staël"
+              "title": "Magnum"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -27,6 +28,7 @@
       {
         "id": "f9d62fbde3db0998",
         "type": "tabs",
+        "dimension": 33.57015985790409,
         "children": [
           {
             "id": "3b18be18a8a65fd7",
@@ -34,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Art/Nicolas de Staël.md",
+                "file": "Cinéma/Magnum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,13 +185,13 @@
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.2767273528242957,
+                  "linkDistance": 179,
+                  "scale": 1.5131925465600855,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Nicolas de Staël"
+              "title": "Graphique de Magnum"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -225,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aviateur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,7 +248,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -353,8 +356,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b18be18a8a65fd7",
+  "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Sciences/Louis Blériot.md",
+    "Histoire/Louis Blériot.md",
+    "Frises/Base de données n°1.base",
+    "Cinéma/Luis Buñuel.md",
+    "Cinéma/Un chien andalou.md",
+    "Culture générale/R.md",
+    "Art/Paolo Uccello.md",
+    "Art/quattrocento.md",
+    "Culture générale/maritime.md",
+    "Bédouins d'Arabie.md",
+    "Bédouins.md",
+    "Cinéma/Festival de Cannes.md",
+    "Faits surprenants.md",
+    "Art/Nicolas de Staël.md",
     "Histoire/Galigaï.md",
     "Littérature/Importance of Being Earnest.md",
     "Histoire/Al Gore.md",
@@ -365,22 +382,9 @@
     "Littérature/Le Figaro (journal).md",
     "Val d'Aran.md",
     "Vignemal.md",
-    "quattrocento.md",
-    "Cinéma/Luis Buñuel.md",
-    "Un chien andalou.md",
     "Vocabulaire/organza.md",
-    "maritime.md",
     "Sciences/Vitrocéramique.md",
     "Sciences/Vague.md",
-    "Sciences/Éclipse solaire de 1999.md",
-    "Sciences/Éprouvette.md",
-    "Gastronomie/Widad.md",
-    "Gastronomie/Waterzoï.md",
-    "Architecture/Vitruve.md",
-    "Animaux/Émeu.md",
-    "Anatomie/Tonus.md",
-    "Anatomie/Thénar.md",
-    "Anatomie/Placenta.md",
     "Sans titre.canvas"
   ]
 }

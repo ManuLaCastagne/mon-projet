@@ -24,11 +24,9 @@ questions:
  - Dans quelle série américaine des années 80 Tom Selleck interprète-t-il le rôle d'un détective privé...
 ---
 
-![Image de Magnum](https://upload.wikimedia.org/wikipedia/commons/8/8a/Magnum_%28Ice_cream%29.jpg)
+![Image de Magnum](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Magnum_scene.jpg/640px-Magnum_scene.jpg)
 
 ###### Questions
-
-Dans quel film de [[Paul Thomas Anderson]] sorti en 1997 le personnage principal, [[Eddie Adams]], adopte-t-il le pseudonyme "[[Dirk Diggler]]" pour travailler dans l'industrie du film pour adulte, nom que l'on retrouve dans les célèbres glaces à l'image d'un détective privé ?
 
 Quelle série télévisée populaire dans les années 1980, mettant en vedette [[Tom Selleck]], partage son titre avec une marque de glaces célèbre composée de chocolat et de vanille ?
 

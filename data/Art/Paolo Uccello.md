@@ -41,4 +41,4 @@ Il est célèbre pour sa maîtrise de la perspective, qu'il a utilisée de mani�
 
 Un fait peu connu est que [[Uccello]] était si obsédé par la perspective qu'il aurait passé des nuits entières à tenter de résoudre des problèmes mathématiques complexes liés à cet art. 
 
-Ses compositions, comme la fresque de la "Déluge" dans le [[Cloître vert]] de [[Santa Maria Novella]], illustrent son intérêt constant pour la géométrie et l'illusion optique, le plaçant comme une figure emblématique du [[Quattrocento]].
+Ses compositions, comme la fresque de la "Déluge" dans le [[Cloître vert]] de [[Santa Maria Novella]], illustrent son intérêt constant pour la géométrie et l'illusion optique, le plaçant comme une figure emblématique du [[quattrocento]].

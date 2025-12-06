@@ -11,5 +11,10 @@ views:
       - indice_1
       - indice_2
       - indice_3
+    sort:
+      - property: debut
+        direction: ASC
     columnSize:
       file.name: 185
+      note.indice_1: 174
+      note.indice_2: 144
