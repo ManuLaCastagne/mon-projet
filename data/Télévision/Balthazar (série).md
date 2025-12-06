@@ -22,6 +22,7 @@ questions:
  - Qui est une bonne série.  Et mère de famille débordée, et un médecin légiste doué et malicieux dont la compagne a été assassinée. Série avec Hélène de Fougerolles et Tomer Sisley...
 ---
 
+
 ![Image de Balthazar (série)](https://upload.wikimedia.org/wikipedia/commons/8/88/GIAMELUCA_-_Tournage_Balthazar_-_S%C3%A9rie_TV.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelle série télévisée française de [[2018]] suit-on un médecin légi
 
 Quel programme télévisé présente un personnage principal nommé [[Raphaël Balthazar]], dont l'histoire personnelle complexe est explorée tout au long des saisons diffusées sur [[TF1]] ?
 
-Dans quelle série, depuis [[2018]], suit-on les aventures d'un légiste brillant, connu pour converser avec les morts, tout en traitant des affaires de sa propre vie personnelle ?
+Dans quelle série, depuis [[2018]], suit-on les aventures d'un légiste brillant, connu pour converser avec les morts, tout en traitant des affaires de sa propre vie personnelle ? <!-- score: 4 -->
 
 ###### Description
 
