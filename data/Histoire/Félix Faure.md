@@ -22,11 +22,12 @@ questions:
  - Quel président de la République  française est resté dans l'histoire pour être mort à l'Elysée d'épectase ?
 ---
 
-![Image de Félix Faure](https://upload.wikimedia.org/wikipedia/commons/4/43/President_F%C3%A9lix_Faure_%28cropped%29.jpg)
+
+![Image de Félix Faure](https://upload.wikimedia.org/wikipedia/commons/4/43/President_F%C3%A9lix_Faure_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel président de la [[République française]] est décédé en [[1899]] dans des circonstances souvent considérées comme cocasses et mystérieuses ?
+Quel président de la [[République française]] est décédé en [[1899]] dans des circonstances souvent considérées comme cocasses et mystérieuses ? <!-- score: 3 -->
 
 Quel homme politique a dirigé la France pendant l'affaire [[Dreyfus]] et est mort au [[Palais de l'Élysée]] ?
 
