@@ -16,6 +16,7 @@ indice_6 :
   - Mystère
 ---
 
+
 ![Image de Sabéisme](https://upload.wikimedia.org/wikipedia/commons/d/d6/Zab_rivers_ku.png)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quelle ancienne religion était pratiquée par les [[Sabéens]] et se concentrai
 
 Comment appelle-t-on le courant religieux associé à l'adoration d'astres et mentionné dans plusieurs textes religieux et historiques, notamment dans le [[Coran]] ?
 
-Quel terme désigne la croyance ancienne liée à la vénération des corps célestes, souvent associée à la civilisation de [[Saba]] ?
+Quel terme désigne la croyance ancienne liée à la vénération des corps célestes, souvent associée à la civilisation de [[Saba]] ? <!-- score: 4 -->
 
 ###### Description
 
