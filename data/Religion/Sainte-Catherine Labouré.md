@@ -22,17 +22,13 @@ questions:
  - Quelle religieuse française ayant eu des visions de la Vierge, à l'origine de la diffusion de la médaille miraculeuse, a été canonisée en 1947 ?
 ---
 
-
 ![Image de Sainte-Catherine Labouré](https://upload.wikimedia.org/wikipedia/commons/e/e8/Catherine-Labour%C3%A9-apparition_3.jpg)
 
 ###### Questions
 
-Dans quel couvent de [[Paris]] est entrée en 1830 [[Sainte-Catherine Labouré]] en tant que novice ? <!-- score: 5 -->
-
 À quelle sainte de [[l'Église catholique]] la [[Vierge Marie]] est-elle apparue à [[Rue du Bac]] en [[1830]], demandant la création de la [[Médaille Miraculeuse]] ?
 
 Quelle religieuse de la [[Congrégation des Filles de la Charité]] a eu des visions mariales en [[1830]] qui ont conduit à la diffusion d'une médaille célèbre ?
-
 ###### Description
 
 [[Sainte-Catherine Labouré]] est née le 2 mai 1806 à [[Fain-lès-Moutiers]], un petit village de la Côte-d'Or en [[France]]. 
