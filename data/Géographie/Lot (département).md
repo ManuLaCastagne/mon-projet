@@ -23,11 +23,12 @@ indice_6 :
   - Parc naturel régional des Causses du Quercy
 ---
 
+
 ![[Carte_Lot (département).png]]
 
 ###### Questions
 
-Dans quel département français se trouve le village de [[Rocamadour]], célèbre pour ses fromages et ses sanctuaires religieux, classé site historique dès [[1978]] ?
+Dans quel département français se trouve le village de [[Rocamadour]], célèbre pour ses fromages et ses sanctuaires religieux, classé site historique dès [[1978]] ? <!-- score: 8 -->
 
 Quel est le département où l'on peut visiter le magnifique [[Gouffre de Padirac]], une cavité naturelle impressionnante découverte en [[1889]] ?
 
