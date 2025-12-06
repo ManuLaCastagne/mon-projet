@@ -16,11 +16,12 @@ indice_6 :
   - Saut
 ---
 
+
 ![Image de Algazelle](https://upload.wikimedia.org/wikipedia/commons/f/f3/Gemsbok_%28Oryx_gazella%29_male.jpg)
 
 ###### Questions
 
-Quelle antilope proche de l'[[oryx]] est reconnaissable par ses longues cornes annelées ?
+Quelle antilope proche de l'[[oryx]] est reconnaissable par ses longues cornes annelées ? <!-- score: 5 -->
 
 ###### Description
 
