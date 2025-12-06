@@ -24,13 +24,14 @@ questions:
  - Morale ouvrant la 10e fable du livre 6 des "Fables" de La Fontaine, je suis illustrée par le comportement opposé de 2 animaux ayant fait un pari qui semble perdu d'avance pour l'un d'entre eux.
 ---
 
-![Image de Rien ne sert de courir, il faut partir à point](https://upload.wikimedia.org/wikipedia/commons/d/de/LL-Q150_%28fra%29-R%C3%A9sidente_1_%28Lyoko%C3%AF%29-rien_ne_sert_de_courir_il_faut_partir_%C3%A0_point.wav)
+
+![Image de Rien ne sert de courir, il faut partir à point](https://upload.wikimedia.org/wikipedia/commons/d/de/LL-Q150_%28fra%29-R%C3%A9sidente_1_%28Lyoko%C3%AF%29-rien_ne_sert_de_courir_il_faut_partir_%C3%A0_point.wav)
 
 ###### Questions
 
 Quel [[moral]] célèbre se dégage de la fable « [[Le Lièvre et la Tortue]] » de [[Jean de La Fontaine]], publiée en 1668 ?
 
-Quelle expression résume le message central de la fable « [[Le Lièvre et la Tortue]] » dans le recueil de [[Fables de La Fontaine]] du [[XVIIe siècle]] ?
+Quelle expression résume le message central de la fable « [[Le Lièvre et la Tortue]] » dans le recueil de [[Fables de La Fontaine]] du [[XVIIe siècle]] ? <!-- score: 6 -->
 
 Dans quelle fable de [[La Fontaine]] trouve-t-on la leçon que la précipitation est inutile et qu'il vaut mieux partir avec un plan réfléchi, publiée pour la première fois en 1668 ?
 
