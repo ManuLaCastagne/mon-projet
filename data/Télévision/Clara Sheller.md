@@ -22,11 +22,12 @@ questions:
  - D'une jeune journaliste et de son meilleur ami homosexuel, j'ai mis en scène dans ma 1re saison Mélanie Doutey et Frédéric Diefenthal, remplacés… Dans ma 2e saison par Zoé Félix et Patrick Mille. Série portant le nom de mon héroïne...
 ---
 
+
 ![Image de Clara Sheller](https://upload.wikimedia.org/wikipedia/commons/e/e6/Horologica_clara_01.jpg)
 
 ###### Questions
 
-Dans quelle série télévisée française, diffusée pour la première fois en [[2005]], suit-on la vie d'une jeune trentenaire vivant à [[Paris]] et travaillant comme journaliste ?
+Dans quelle série télévisée française, diffusée pour la première fois en [[2005]], suit-on la vie d'une jeune trentenaire vivant à [[Paris]] et travaillant comme journaliste ? <!-- score: 3 -->
 
 Quel est le titre de la série qui a vu son actrice principale, [[Mélanie Doutey]], remplacée par [[Zoe Felix]] entre la première et la deuxième saison ?
 
