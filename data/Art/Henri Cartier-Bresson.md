@@ -26,17 +26,17 @@ questions:
  - En 1944, quel photographe français fait le portrait du peintre Henri Matisse chez lui au milieu de ses colombes?
 ---
 
-
 ![Image de Henri Cartier-Bresson](https://upload.wikimedia.org/wikipedia/commons/d/df/Portrait_of_Henri_Cartier-Bresson_-_Paris_-_1954_-_Kimura_Ihei.png)
 
 ###### Questions
+
+Hey ! <!-- score: 5 -->
 
 Quel célèbre photographe a cofondé l'agence [[Magnum Photos]] en 1947 ? 
 
 Qui a été le premier photographe à se voir exposer au [[Musée du Louvre]] de son vivant, en 2003 ?
 
 Quel photographe est connu pour avoir popularisé le concept du "moment décisif" dans le domaine de la photographie ? <!-- score: 3 -->
-
 ###### Description
 
 [[Henri Cartier-Bresson]], né en 1908 à [[Chanteloup-en-Brie]], est souvent considéré comme l'un des pionniers du photojournalisme et de la photographie de rue. 

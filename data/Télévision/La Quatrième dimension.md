@@ -26,12 +26,11 @@ questions:
 
 ###### Questions
 
-Dans quelle série télévisée culte de [[1959]], créée par [[Rod Serling]], explore-t-on des thèmes de science-fiction, de fantastique et des dimensions parallèles ?
+Dans quelle série télévisée culte de [[1959]], créée par [[Rod Serling]], explore-t-on des thèmes de science-fiction, de fantastique et des dimensions parallèles ? Hehe <!-- score: 5 -->
 
 Quelle série a introduit le célèbre épisode "To Serve Man", diffusé en [[1962]], qui a marqué les esprits par son plot twist final ?
 
 Quel programme télévisé, qui a inspiré des remakes et des adaptations, a marqué l'histoire de la télévision par sa capacité à détourner le quotidien pour plonger le spectateur dans l'étrange et l'inconnu dès sa première diffusion en [[1959]] ?
-
 ###### Description
 
 [[La Quatrième dimension]] est une série télévisée américaine de science-fiction, créée par [[Rod Serling]], qui a été initialement diffusée sur la chaîne [[CBS]] de 1959 à 1964. 
