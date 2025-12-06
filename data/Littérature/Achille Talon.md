@@ -25,11 +25,12 @@ questions:
 ---
 
 
+
 ![Image de Achille Talon](https://upload.wikimedia.org/wikipedia/commons/7/71/Fr-talon-Achille.ogg)
 
 ###### Questions
 
-Dans quelle bande dessinée créée en 1963 par [[Greg]] trouve-t-on un personnage célèbre pour ses longs monologues et son vocabulaire sophistiqué ? <!-- score: 4 -->
+Dans quelle bande dessinée créée en 1963 par [[Greg]] trouve-t-on un personnage célèbre pour ses longs monologues et son vocabulaire sophistiqué ? <!-- score: 6 -->
 
 Quel personnage de bande dessinée fête son anniversaire tous les [[10 octobre]], jour où il serait né, mais n'a jamais changé d'âge ?
 
