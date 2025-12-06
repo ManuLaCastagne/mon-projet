@@ -24,6 +24,7 @@ questions:
  - En 2015, quel chanteur britannique connaît le succès en interprétant en duo avec Mylène Farmer une nouvelle version du titre "Stolen car"?
 ---
 
+
 ![Image de Sting](https://upload.wikimedia.org/wikipedia/commons/4/40/Sting_in_April_2018.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0I1DJdLt9BKOb7GWmWxCjo" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -32,7 +33,7 @@ questions:
 
 Quel musicien, d'abord connu comme chanteur et bassiste du groupe [[The Police]], a ensuite poursuivi une carrière solo à succès en sortant l'album «[[The Dream of the Blue Turtles]]» en 1985 ?
 
-Quel artiste, né sous le nom de [[Gordon Matthew Thomas Sumner]] et titulaire d'un doctorat honorifique en musique de l’université de [[Northumbria]] en 1992, est devenu célèbre sous un autre pseudonyme inspiré par un pull à rayures qu'il portait souvent ?
+Quel artiste, né sous le nom de [[Gordon Matthew Thomas Sumner]] et titulaire d'un doctorat honorifique en musique de l’université de [[Northumbria]] en 1992, est devenu célèbre sous un autre pseudonyme inspiré par un pull à rayures qu'il portait souvent ? <!-- score: 3 -->
 
 Quel chanteur et compositeur a remporté un [[Grammy Award]] en 1987 pour la chanson «[[Bring On the Night]]», développant ainsi son image de figure emblématique de la fusion entre le rock et le jazz ?
 
