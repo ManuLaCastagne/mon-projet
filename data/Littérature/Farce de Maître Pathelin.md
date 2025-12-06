@@ -24,18 +24,17 @@ questions:
  - Quelle oeuvre du théâtre comique médiéval s'achève par "s'il me trouve, je lui pardonne" ?
 ---
 
-
-
 ![Image de Farce de Maître Pathelin](https://upload.wikimedia.org/wikipedia/commons/e/e3/La_vraie_farce_de_Ma%C3%AEtre_Pathelin%2C_com%C3%A9die_d%27Edouard_Fournier_-_documents_iconographiques_-_btv1b8405519f_%284_of_5%29.jpg)
 
 ###### Questions
+
+Hello world <!-- score: 5 -->
 
 Dans quelle pièce du XVe siècle un avocat trompe-t-il un drapier et son propre client, mettant en avant l'art de la ruse et de la manipulation verbale ? <!-- score: 4 -->
 
 Quel texte médiéval, écrit vers 1464, est considéré comme une comédie farcesque illustrant la tromperie et la duplicité à travers le personnage de [[Maître Pathelin]] ?
 
 Dans quelle œuvre littéraire française trouve-t-on l'expression devenue célèbre "Revenons à nos moutons", popularisée au XVe siècle ?
-
 ###### Description
 
 La [[Farce de Maître Pathelin]], écrite au milieu du XVᵉ siècle, est une pièce anonyme, souvent attribuée à [[Guillaume Cousinot de Montreuil]], bien qu'aucun document ne le confirme avec certitude.
