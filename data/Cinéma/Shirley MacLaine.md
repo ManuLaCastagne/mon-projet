@@ -24,6 +24,7 @@ questions:
  - En 1963, dans le film "Irma la Douce" de Billy Wilder, quelle actrice interprète le rôle-titre aux côtés de Jack Lemmon?
 ---
 
+
 ![Image de Shirley MacLaine](https://upload.wikimedia.org/wikipedia/commons/1/1c/Shirley_MacLaine_1977.JPG)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel membre de la famille de [[Shirley MacLaine]] est également une actrice cé
 
 En quelle année [[Shirley MacLaine]] a-t-elle remporté son premier et unique [[Oscar de la meilleure actrice]] pour son rôle dans le film [[Tendre Bonheur (Terms of Endearment)]] ?
 
-Avec quel réalisateur emblématique [[Shirley MacLaine]] a-t-elle collaboré dans le film [[La Garçonnière]] sorti en 1960 ?
+Avec quel réalisateur emblématique [[Shirley MacLaine]] a-t-elle collaboré dans le film [[La Garçonnière]] sorti en 1960 ? <!-- score: 5 -->
 
 ###### Description
 
