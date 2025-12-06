@@ -50,12 +50,12 @@ choix = st.sidebar.selectbox(
 )
 
 # 🔀 Gestion des pages internes (redirigées depuis poser_questions)
-if st.session_state.get("page") == "edition":
+if st.session_state.get("page") == "edition" and (choix == "✅ Révision classique" or choix == "❓ Éditer les questions d’une fiche"):
     interface_edition_questions(st.session_state.get("edition_fichier"))
     st.stop()
 
 # 🔀 Gestion des pages internes (redirigées depuis poser_questions)
-if st.session_state.get("page") == "quiz":
+if st.session_state.get("page") == "quiz" and (choix == "✅ Révision classique" or choix == "❓ Éditer les questions d’une fiche"):
     poser_questions(questions_globales, nb_questions=1000)
     st.stop()
 
