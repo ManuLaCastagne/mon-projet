@@ -24,11 +24,12 @@ questions:
  - En 2008, quel personnage de BD créé par Jean Van Hamme a été incarné par Thomas Sisley ?
 ---
 
+
 ![Image de Largo Winch](https://upload.wikimedia.org/wikipedia/commons/4/4d/Belgique_-_Louvain-la-Neuve_-_Place_des_Sciences_-_Largo_Winch_-_02.jpg)
 
 ###### Questions
 
-Dans la bande dessinée de Jean Van Hamme, quel héros est à la tête du [[groupe "W"]] ?
+Dans la bande dessinée de Jean Van Hamme, quel héros est à la tête du [[groupe "W"]] ? <!-- score: 6 -->
 
 Quel personnage de bande dessinée créé par [[Jean Van Hamme]] en 1990 devient héritier d'un empire financier après la mort de son père adoptif Nerio?
 
