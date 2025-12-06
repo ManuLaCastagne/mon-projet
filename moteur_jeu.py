@@ -163,10 +163,15 @@ def poser_questions(questions_globales, nb_questions=1000):
             # 1. On sauvegarde ce qu'il faut
             nouvelle_ligne = mettre_a_jour_score(q['ligne'], score)
             q['lignes'][q['ligne_index']] = nouvelle_ligne
-            sauvegarder_modifications({q['fichier']: (q['frontmatter'], q['lignes'])})
-            st.rerun()
+
+            sauvegarder_modifications({
+                q['fichier']: (q['frontmatter'], q['lignes'])
+            })
+
             # 2. On change de page
-            interface_edition_questions(fichier_force=q['fichier'])
+            st.session_state["page"] = "edition"
+            st.session_state["edition_fichier"] = q["fichier"]
+            st.stop()
         afficher_description(q['fichier'])
 
 def sauvegarder_modifications(modifications):
