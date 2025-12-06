@@ -27,12 +27,13 @@ questions:
  - Dans quelle commune du Morbihan, proche de la baie de Quiberon, peut-on admirer le tumulus Saint-Michel, haut de 12 m?
 ---
 
+
 ![Image de Carnac](https://upload.wikimedia.org/wikipedia/commons/2/21/Carnac.jpg)
 
 ![[Carte_Carnac.png]]
 ###### Questions
 
-Quel site mégalithique en France, contenant plus de 3 000 menhirs, est situé à [[Carnac]] et a été érigé entre [[5000 av. J.-C.]] et [[2000 av. J.-C.]] ?
+Quel site mégalithique en France, contenant plus de 3 000 menhirs, est situé à [[Carnac]] et a été érigé entre [[5000 av. J.-C.]] et [[2000 av. J.-C.]] ? <!-- score: 5 -->
 
 Dans quelle commune bretonne peut-on trouver les célèbres alignements de [[Carnac]], classés [[Monuments Historiques]] depuis 1889 ?
 
