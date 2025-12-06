@@ -27,6 +27,7 @@ questions:
 ---
 
 
+
 ![Image de Tobrouk](https://upload.wikimedia.org/wikipedia/commons/2/28/Tobrouk_01.jpg)
 
 ![[Carte_Tobrouk.png]]
@@ -36,7 +37,7 @@ Quel célèbre port libyen situé près de la frontière égyptienne a été le 
 
 Quelle ville côtière de [[Libye]] a été le point de départ de l'expédition d'évacuation connue sous le nom d'[[Operation Agreement]] en 1942 ?
 
-Quel site en [[Libye]], capturé par les forces britanniques en 1941, a joué un rôle clé dans le contrôle de la route côtière nord-africaine pendant la [[Seconde Guerre mondiale]] ? <!-- score: 4 -->
+Quel site en [[Libye]], capturé par les forces britanniques en 1941, a joué un rôle clé dans le contrôle de la route côtière nord-africaine pendant la [[Seconde Guerre mondiale]] ? <!-- score: 3 -->
 
 ###### Description
 
