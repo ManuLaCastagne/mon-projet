@@ -24,17 +24,13 @@ questions:
  - Personnage principal d'une oeuvre de fiction parue dès 1937, je suis le fils unique de Bungo Bessac et Belladonna Touc. Né en 1290, élevant mon neveu Frodon à la mort de ses parents, je pars de la Comté en compagnie de 13 nains et du seigneur Thorin qui m'a engagé...
 ---
 
-
 ![Image de Bilbo le Hobbit](https://upload.wikimedia.org/wikipedia/commons/a/a6/TSF_Bilbo_le_Hobbit.jpg)
 
 ###### Questions
 
-Quel ouvrage publié en 1937 par [[J.R.R. Tolkien]] introduit les lecteurs dans l'univers de la [[Terre du Milieu]] et suit les aventures d'un [[Hobbit]] nommé [[Bilbo]]? <!-- score: 8 -->
+Quel ouvrage publié en 1937 par [[J.R.R. Tolkien]] introduit les lecteurs dans l'univers de la [[Terre du Milieu]] et suit les aventures d'un personnage nommé [[Bilbo]]? <!-- score: 8 -->
 
 Dans quel livre les lecteurs découvrent-ils un personnage appelé [[Bilbo Sacquet]], qui participe à une quête pour récupérer un trésor gardé par le dragon [[Smaug]]?
-
-Quel classique de la littérature pour enfants, mettant en scène [[Bilbo]], a été transformé en film avec une première partie sortie en 2012 sous la direction de [[Peter Jackson]]?
-
 ###### Description
 
 [[Bilbo le Hobbit]], écrit par [[J.R.R. Tolkien]], est un roman fantastique publié pour la première fois en 1937. 
