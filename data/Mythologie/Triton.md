@@ -20,11 +20,12 @@ questions:
  - Nocturne quand je suis terrestre, je gagne au printemps les mares et les étangs pour me reproduire. Ayant la capacité de régénérer...
 ---
 
+
 ![Image de Triton](https://upload.wikimedia.org/wikipedia/commons/0/00/1Triton-en.svg)
 
 ###### Questions
 
-Quel dieu mineur de l'[[Océan]] et fils de [[Poséidon]], souvent représenté avec une conque marine, était connu pour apaiser les flots dans la mythologie gréco-romaine?
+Quel dieu mineur de l'[[Océan]] et fils de [[Poséidon]], souvent représenté avec une conque marine, était connu pour apaiser les flots dans la mythologie gréco-romaine? <!-- score: 4 -->
 
 Dans quel ouvrage de l'historien et géographe grec [[Pausanias]], écrit entre 143 et 176 après J.-C., le dieu [[Triton]] est-il mentionné comme participant aux funérailles d'[[Achille]]?
 
