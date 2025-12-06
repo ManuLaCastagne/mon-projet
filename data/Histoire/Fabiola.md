@@ -20,6 +20,7 @@ indice_6:
   - Fête nationale belge 1961
 ---
 
+
 ![Image de Fabiola](https://upload.wikimedia.org/wikipedia/commons/5/5c/Fabiola_De_Clercq.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel était le prénom de la reine qui a épousé le roi [[Baudouin Ier]] de Bel
 
 Quelle reine, ayant accédé au trône des Belges en [[1960]], était originaire d'Espagne et portait le nom de [[Doña Fabiola Fernández de Mora y Aragón]] ?
 
-Quel est le prénom de la reine qui a publié un livre de contes pour enfants en [[1955]] avant de devenir reine des Belges ?
+Quel est le prénom de la reine qui a publié un livre de contes pour enfants en [[1955]] avant de devenir reine des Belges ? <!-- score: 4 -->
 
 ###### Description
 
