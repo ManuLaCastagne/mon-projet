@@ -23,6 +23,7 @@ indice_6:
 ---
 
 
+
 ![Image de Sophie Marceau](https://upload.wikimedia.org/wikipedia/commons/9/96/Sophie_Marceau_avp_2013_3.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Qui joue le rôle de [[Elektra King]] dans le James Bond de 1999 ?
 
 Qui a incarné la princesse Isabelle dans [[Braveheart]] ?
 
-Qui a remporté le César du [[meilleur espoir féminin]] pour son rôle dans [[La Boum 2]] à l'âge de 16 ans en 1982 ? <!-- score: 5 -->
+Qui a remporté le César du [[meilleur espoir féminin]] pour son rôle dans [[La Boum 2]] à l'âge de 16 ans en 1982 ? <!-- score: 8 -->
 
 ###### Description
 
