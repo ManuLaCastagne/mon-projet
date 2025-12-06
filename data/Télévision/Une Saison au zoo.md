@@ -22,11 +22,12 @@ questions:
  - Dans quelle série documentaire, diffusée depuis 2014, suit-on le quotidien des soigneurs du zoo de La Flèche et leurs relations avec les animaux?
 ---
 
+
 ![Image de Une Saison au zoo](https://upload.wikimedia.org/wikipedia/commons/e/ef/SaisonauZoo_camera_fixe.jpg)
 
 ###### Questions
 
-Quel programme télévisé, lancé en [[2014]], suit le quotidien du [[zoo de La Flèche]] et ses soigneurs ?
+Quel programme télévisé, lancé en [[2014]], suit le quotidien du [[zoo de La Flèche]] et ses soigneurs ? <!-- score: 4 -->
 
 Dans quelle émission les équipes de tournage ont-elles célébré la naissance de bébés [[lémuriens]] et [[tigres blancs]], captivant ainsi les téléspectateurs ?
 
