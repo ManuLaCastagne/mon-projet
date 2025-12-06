@@ -22,13 +22,14 @@ indice_6:
   - François Bérurier
 ---
 
-![Image de Bérurier Noir](https://upload.wikimedia.org/wikipedia/commons/2/26/PH-BXN_Boeing_737_KLM_%288600409796%29.jpg)
+
+![Image de Bérurier Noir](https://upload.wikimedia.org/wikipedia/commons/2/26/PH-BXN_Boeing_737_KLM_%288600409796%29.jpg)
 
 ###### Questions
 
 Quel groupe de punk rock français, formé en 1983, est connu pour ses performances théâtrales et ses costumes excentriques, incarnant l'esprit anarchique de l'époque ?
 
-A quel groupe de rock alternatif des années 80, dont le nom fait référence à un personnage de San Antonio, doit-on "Salut à toi"?
+A quel groupe de rock alternatif des années 80, dont le nom fait référence à un personnage de San Antonio, doit-on "Salut à toi"? <!-- score: 4 -->
 
 Quel groupe a marqué les années 1980 en France avec son album "Macadam Massacre" sorti en 1984, contribuant à populariser la scène alternative ?
 
