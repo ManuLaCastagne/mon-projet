@@ -25,13 +25,14 @@ questions:
  - Quelle locution désigne l'espace d'expositions permanentes du Muséum d'histoire naturelle...
 ---
 
+
 ![Image de Grande galerie de l'Evolution](https://upload.wikimedia.org/wikipedia/commons/4/48/Paris_75005_Grande_Galerie_de_l%27Evolution_20070804.jpg)
 
 ###### Questions
 
 Quelle structure architecturale, ouverte en 1994, est une composante majeure du [[Muséum national d'Histoire naturelle]] à [[Paris]] ?
 
-Quel bâtiment a remplacé l'ancienne [[Galerie de Zoologie]] fermée en 1965 pour devenir une exposition vivante d'évolution biologique dans le [[Jardin des Plantes]] ?
+Quel bâtiment a remplacé l'ancienne [[Galerie de Zoologie]] fermée en 1965 pour devenir une exposition vivante d'évolution biologique dans le [[Jardin des Plantes]] ? <!-- score: 4 -->
 
 Quel espace muséal est célèbre pour ses dioramas d'animaux et des expositions sur la biodiversité, inauguré en 1994, dans le [[Ve arrondissement de Paris]] ?
 
