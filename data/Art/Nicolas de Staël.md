@@ -1,28 +1,25 @@
 ---
-tags: 
+tags:
   - Art
   - Russie
   - Années_1950
   - XXe
-  - QRDLL
 date:
   - 1914/01/05
 debut: 1914
 fin: 1955
-indice_1 : 
+indice_1:
   - peinture abstraite
-indice_2 : 
+indice_2:
   - influence de l'impressionnisme
-indice_3 : 
+indice_3:
   - matiériste
-indice_4 : 
+indice_4:
   - né en Russie
-indice_5 : 
+indice_5:
   - mort en 1955
-indice_6 : 
+indice_6:
   - Le Concert
-questions:
- - Dans les années 1950, quel peintre français d'origine russe a réalisé des séries ayant pour thèmes des footballeurs ou des musiciens ?
 ---
 
 
@@ -30,6 +27,8 @@ questions:
 ![Image de Nicolas de Staël](https://upload.wikimedia.org/wikipedia/commons/7/70/Photographie_de_Nicolas_de_Sta%C3%ABl.jpg)
 
 ###### Questions
+
+Dans les années 1950, quel peintre français d'origine russe a réalisé des séries ayant pour thèmes des footballeurs ou des musiciens ?
 
 Quel peintre d'origine russe a marqué l'art du XXe siècle par ses œuvres abstraites et ses paysages, et qui a vécu de 1914 à 1955, laissant derrière lui une carrière artistique prolifique malgré une vie écourtée ? 
 

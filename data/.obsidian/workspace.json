@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Galigaï.md",
+                "file": "Art/Nicolas de Staël.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galigaï"
+              "title": "Nicolas de Staël"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Galigaï.md",
+                "file": "Art/Nicolas de Staël.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,12 +184,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.35201811086784,
+                  "scale": 1.2767273528242957,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Galigaï"
+              "title": "Graphique de Nicolas de Staël"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -338,7 +338,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,8 +353,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ca3aa9b0430f04f",
+  "active": "3b18be18a8a65fd7",
   "lastOpenFiles": [
+    "Histoire/Galigaï.md",
+    "Littérature/Importance of Being Earnest.md",
     "Histoire/Al Gore.md",
     "Cinéma/Elsa Zylberstein.md",
     "Histoire/Affaire des Poisons.md",
@@ -378,8 +381,6 @@
     "Anatomie/Tonus.md",
     "Anatomie/Thénar.md",
     "Anatomie/Placenta.md",
-    "Anatomie/Omoplate.md",
-    "Anatomie/Muscles scalènes.md",
     "Sans titre.canvas"
   ]
 }
