@@ -27,6 +27,7 @@ questions:
  - De quel Etat insulaire d'Europe du Nord proviennent les pulls en laine lopapeysa, au motif circulaire jacquard placé à l'encolure?
 ---
 
+
 ![Image de Islande](https://upload.wikimedia.org/wikipedia/commons/9/99/039_Northern_lights_over_M%C3%BDvatn_%28Iceland%29_Photo_by_Giles_Laurent.jpg)
 
 ![[Carte_Islande.png]]
@@ -34,7 +35,7 @@ questions:
 
 Quel pays nordique a été le premier à élire une femme au poste de président en 1980 ? 
 
-Quelle île de l'Atlantique Nord abrite le [[Parc national du Vatnajökull]], le plus grand glacier d'Europe par volume ? 
+Quelle île de l'Atlantique Nord abrite le [[Parc national du Vatnajökull]], le plus grand glacier d'Europe par volume ? <!-- score: 4 -->
 
 Quel pays a été le premier à reconnaître la république indépendante de [[Lituanie]] en 1991 après la chute de l'Union soviétique ?
 
