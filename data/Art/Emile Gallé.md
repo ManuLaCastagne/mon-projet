@@ -25,17 +25,13 @@ questions:
  - Initiateur de l'école de Nancy, pionnier de l'Art nouveau.
 ---
 
-
 ![Image de Emile Gallé](https://upload.wikimedia.org/wikipedia/commons/2/27/%C3%89mile_Gall%C3%A9.jpg)
 
 ###### Questions
 
-En quelle année [[Émile Gallé]] a-t-il fondé la célèbre entreprise de verre et de cristal qui a symbolisé le mouvement artistique [[Art nouveau]] en France ? <!-- score: 5 -->
+Qui a fondé la célèbre entreprise de verre et de cristal qui a symbolisé le mouvement artistique [[Art nouveau]] en France ? <!-- score: 5 -->
 
 Quel artiste et designer français, réputé pour ses créations en verre, a participé à l'Exposition universelle de [[Paris]] en 1889, où il a remporté le grand prix pour ses œuvres innovantes ?
-
-Lors de quelle exposition internationale à [[Nancy]] en 1901, [[Émile Gallé]] a-t-il présenté ses œuvres botaniques révolutionnaires qui ont consolidé sa réputation dans le domaine du design verrier ?
-
 ###### Description
 
 [[Émile Gallé]] est un artiste et maître verrier français, né à Nancy en 1846, considéré comme l'une des figures principales du mouvement de l'Art nouveau. 
