@@ -22,13 +22,14 @@ questions:
  - Quel savant grec de l'école d'Alexandrie fut le premier à évaluer la circonférence de la Terre ?
 ---
 
-![Image de Eratosthène](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
+
+![Image de Eratosthène](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
 
 ###### Questions
 
 Quel savant grec a réussi à mesurer la circonférence de la Terre vers [[240 av. J.-C.]] grâce à un raisonnement géométrique ingénieux basé sur les ombres ?
 
-Quel directeur de la bibliothèque d'[[Alexandrie]] au IIIe siècle av. J.-C. a créé l'[[Ératosthène]], un crible mathématique utilisé pour identifier les nombres premiers ?
+Quel directeur de la bibliothèque d'[[Alexandrie]] au IIIe siècle av. J.-C. a créé l'[[Ératosthène]], un crible mathématique utilisé pour identifier les nombres premiers ? <!-- score: 4 -->
 
 Quel célèbre érudit est considéré comme le fondateur de la [[géographie]] en fournissant des cartes du monde connu dans son ouvrage intitulé "Géographie" ?
 
