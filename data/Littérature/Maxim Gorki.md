@@ -22,11 +22,12 @@ questions:
  - Quel écrivain de Russie, auteur de "La Mer (Gorki)", a dit "la sagesse de la vie est toujours "plus profonde et plus large que la sagesse des hommes ?
 ---
 
+
 ![Image de Maxim Gorki](https://upload.wikimedia.org/wikipedia/commons/5/5e/Maxim_Gorky_LOC_Restored_edit1.jpg)
 
 ###### Questions
 
-Quel célèbre écrivain russe, né en [[1868]], a écrit la pièce de théâtre "Les Bas-fonds" qui a été jouée pour la première fois en 1902 à Moscou?
+Quel célèbre écrivain russe, né en [[1868]], a écrit la pièce de théâtre "Les Bas-fonds" qui a été jouée pour la première fois en 1902 à Moscou? <!-- score: 4 -->
 
 Quel auteur prolifique, connu pour son engagement politique, a vu ses œuvres inclure le roman "Ma vie d'enfant" qui décrit sa jeunesse difficile?
 
