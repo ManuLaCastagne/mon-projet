@@ -17,17 +17,11 @@ questions:
  - Des couleurs ternes chez le faisan, je suis souvent de taille plus petite. Catégorie d'animaux de sexe différent du mâle...
 ---
 
-
 ![Image de Femelle](https://upload.wikimedia.org/wikipedia/commons/9/93/Fauvette_de_l%27Atlas_Femelle_Jebil_NP.jpg)
 
 ###### Questions
 
-Quel type d'[[abeille]] est capable de se reproduire sans accouplement dans certaines situations, telles que l'absence d'une reine, un cas documenté en 2009 dans une ruche des [[Îles Caïmans]]? 
-
-Quel membre de la communauté [[éléphant]] est le leader et responsable du groupe familial dans la savane, un comportement bien étudié depuis au moins les années 1950? <!-- score: 5 -->
-
 Quel sexe de l'[[hippocampe]], malgré l'impression initiale, ne porte pas les œufs dans sa poche incubatrice, ce rôle étant une exception unique à l'anatomie animale?
-
 ###### Description
 
 [[Femelle]] du [[Manchot empereur]], au nom scientifique [[Aptenodytes forsteri]], appartient à la famille des [[Spheniscidae]] et à l'ordre zoologique des [[Sphenisciformes]]. 
