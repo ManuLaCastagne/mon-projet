@@ -17,6 +17,7 @@ questions:
  - herbivore pouvant avoir des cornes, qui poussent assez rapidement, je suis élevé jusqu'à l'âge de 3 à 7 semaines pour la production...
 ---
 
+
 ![Image de Chevreau](https://upload.wikimedia.org/wikipedia/commons/0/08/Faune_au_chevreau_Faun_with_kid_Lepautre_Louvre_M.R.1808.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quel est le nom donné au petit de la [[chèvre]] ?
 
 Quel nom était donné aux jeunes membres des [[Chevreaux de Lorraine]], le groupe musical populaire des années [[1960]] ?
 
-Quel terme désigne un jeune [[bouc]] qui figure dans les légendes de [[la Haute-Savoie]] permettant de voyager dans le temps ?
+Quel terme désigne un jeune [[bouc]] qui figure dans les légendes de [[la Haute-Savoie]] permettant de voyager dans le temps ? <!-- score: 4 -->
 
 ###### Description
 
