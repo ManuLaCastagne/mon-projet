@@ -22,11 +22,12 @@ questions:
  - A quel sport associe-t-on la Coupe Stanley...
 ---
 
+
 ![Image de Hockey sur glace](https://upload.wikimedia.org/wikipedia/commons/8/87/Finale_de_la_coupe_de_France_de_Hockey_sur_glace_2014_-_092.jpg)
 
 ###### Questions
 
-Quel sport collectif a été introduit pour la première fois aux [[Jeux Olympiques d'hiver]] en [[1920]] à [[Anvers]], avant de devenir un événement régulier lors des Jeux de [[Chamonix]] en [[1924]] ?
+Quel sport collectif a été introduit pour la première fois aux [[Jeux Olympiques d'hiver]] en [[1920]] à [[Anvers]], avant de devenir un événement régulier lors des Jeux de [[Chamonix]] en [[1924]] ? <!-- score: 4 -->
 
 Dans quel sport le joueur [[Wayne Gretzky]], surnommé "La Merveille", est-il considéré comme l'un des plus grands de tous les temps avec un record de [[894]] buts marqués en [[Ligue nationale de hockey]] (NHL) ?
 
