@@ -22,8 +22,6 @@ questions:
  - Quel acteur français  a été révélé au grand public en interprétant le personnage de Zorg dans "37,2 le matin (film)"?
 ---
 
-
-
 ![Image de Jean-Hugues Anglade](https://upload.wikimedia.org/wikipedia/commons/0/07/Jean-Hugues_Anglade_Cannes_2015.jpg)
 
 ###### Questions
@@ -33,7 +31,6 @@ Quel acteur français a interprété le rôle de [[Jacques Chirac]] dans la mini
 Qui a incarné le personnage de [[Zaza]] dans la série télévisée "Les Rois maudits" diffusée en [[1972]] ? <!-- score: 4 -->
 
 Quel comédien a remporté le [[Golden Globe]] du meilleur acteur dans une série dramatique pour son rôle dans "[[Braquo]]" en [[2012]] ?
-
 ###### Description
 
 [[Jean-Hugues Anglade]], acteur polyvalent connu pour ses rôles marquants au cinéma, a également marqué le monde de la [[télévision]]. 
