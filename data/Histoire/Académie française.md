@@ -20,13 +20,14 @@ indice_6 :
   - siège au Palais de l'Institut de France
 ---
 
-![Image de Académie française](https://upload.wikimedia.org/wikipedia/commons/d/d1/Institut_de_France_-_Acad%C3%A9mie_fran%C3%A7aise_et_pont_des_Arts.jpg)
+
+![Image de Académie française](https://upload.wikimedia.org/wikipedia/commons/d/d1/Institut_de_France_-_Acad%C3%A9mie_fran%C3%A7aise_et_pont_des_Arts.jpg)
 
 ###### Questions
 
 Quel organisme, fondé en [[1635]] sous l’impulsion du cardinal [[Richelieu]], est chargé de définir la langue française et ses usages ?
 
-Quel célèbre institut compte traditionnellement [[40]] membres appelés les "[[Immortels]]" en référence à sa devise, "À l'immortalité" ?
+Quel célèbre institut compte traditionnellement [[40]] membres appelés les "[[Immortels]]" en référence à sa devise, "À l'immortalité" ? <!-- score: 6 -->
 
 Quelle institution a publié la première édition de son célèbre [[Dictionnaire]] en [[1694]] ?
 
