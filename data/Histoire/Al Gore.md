@@ -22,11 +22,12 @@ questions:
  - En 2006, quel homme politique américain présente les dangers du réchauffement climatique dans le documentaire intitulé "Une vérité qui dérange" ?
 ---
 
+
 ![Image de Al Gore](https://upload.wikimedia.org/wikipedia/commons/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg)
 
 ###### Questions
 
-Quel [[homme politique américain]], récompensé par le [[prix Nobel de la paix]] en [[2007]], a contribué à sensibiliser le public mondial à la question du [[réchauffement climatique]] grâce à son film documentaire "[[Une vérité qui dérange]]" ?
+Quel [[homme politique américain]], récompensé par le [[prix Nobel de la paix]] en [[2007]], a contribué à sensibiliser le public mondial à la question du [[réchauffement climatique]] grâce à son film documentaire "[[Une vérité qui dérange]]" ? <!-- score: 5 -->
 
 Quel ancien [[vice-président des États-Unis]] sous [[Bill Clinton]], a failli devenir président en perdant une élection controversée contre [[George W. Bush]] lors du scrutin de l'an [[2000]] ?
 
