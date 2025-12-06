@@ -25,11 +25,12 @@ questions:
  - En 1963, quel architecte espagnol fonde à Barcelone un atelier regroupant plusieurs corps de métier ?
 ---
 
+
 ![Image de Ricardo Bofill](https://upload.wikimedia.org/wikipedia/commons/9/91/Ricardo_bofill_levi.jpg)
 
 ###### Questions
 
-Quel célèbre architecte espagnol a conçu en 1975 les [[Espaces d'Abraxas]], un ensemble résidentiel iconique situé à [[Noisy-le-Grand]] en France ?
+Quel célèbre architecte espagnol a conçu en 1975 les [[Espaces d'Abraxas]], un ensemble résidentiel iconique situé à [[Noisy-le-Grand]] en France ? <!-- score: 9 -->
 
 Qui est l'architecte à l'origine de la transformation d'une ancienne cimenterie en résidence et studio d'architecture intitulée [[La Fábrica]] à [[Barcelone]] en 1980 ?
 
