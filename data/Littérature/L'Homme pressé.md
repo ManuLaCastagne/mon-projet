@@ -27,7 +27,8 @@ indice_6:
 
 
 
-![Image de Homme pressé](https://upload.wikimedia.org/wikipedia/commons/5/56/From_the_trailer_of_the_film_%22Un_homme_press%C3%A9%22_%28H._Mimran%2C_2018%29.jpg)
+
+![Image de Homme pressé](https://upload.wikimedia.org/wikipedia/commons/5/56/From_the_trailer_of_the_film_%22Un_homme_press%C3%A9%22_%28H._Mimran%2C_2018%29.jpg)
 
 ###### Questions
 
@@ -35,7 +36,7 @@ Quel est le titre de la chanson du groupe [[Noir Désir]] paru en 1997 et qui pa
 
 Quel est ce roman écrit par [[Paul Morand]] en 1941, qui dépeint l'énergie frénétique et incontrôlée de la société moderne ?
 
-Quel roman de Paul Morand a été adapté par [[Édouard Molinaro]] en 1977, qui met en scène un homme d'affaires empêtré dans ses propres obsessions de vitesse ?
+Quel roman de Paul Morand a été adapté par [[Édouard Molinaro]] en 1977, qui met en scène un homme d'affaires empêtré dans ses propres obsessions de vitesse ? <!-- score: 3 -->
 
 ###### Description
 
