@@ -21,11 +21,12 @@ indice_6 :
   - Connu pour ses coups de gueule
 ---
 
+
 ![Image de Gilles Verdez](https://upload.wikimedia.org/wikipedia/commons/9/96/Gilles_Verdez.png)
 
 ###### Questions
 
-[[Commentateur]] emblématique de l'émission [[Touche pas à mon poste]] depuis 2013, qui est connu pour ses réactions parfois très passionnées lors des débats télévisés ?
+[[Commentateur]] emblématique de l'émission [[Touche pas à mon poste]] depuis 2013, qui est connu pour ses réactions parfois très passionnées lors des débats télévisés ? <!-- score: 9 -->
 
 Quel journaliste a co-écrit le livre "[[La face cachée de [[Marine Le Pen]]]]" publié en 2012, une enquête sur la présidente du [[Rassemblement National]] ?
 
