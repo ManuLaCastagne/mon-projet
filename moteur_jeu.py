@@ -172,6 +172,7 @@ def poser_questions(questions_globales, nb_questions=1000):
             st.session_state["page"] = "edition"
             st.session_state["edition_fichier"] = q["fichier"]
             st.stop()
+            #st.rerun()
         afficher_description(q['fichier'])
 
 def sauvegarder_modifications(modifications):
@@ -605,9 +606,21 @@ def interface_edition_questions(fichier_force=None):
 
         if success:
             st.success(f"🎉 Questions mises à jour dans {choix} !")
-            # On réinitialise pour repartir d'un état propre la prochaine fois
+
+            # Réinitialiser la session d'édition pour repartir propre
             del st.session_state[key_lignes]
-            st.rerun()
+
+            # 🇨🇭 NOUVEAU : relancer une toute nouvelle session de quiz
+            # On réinitialise tout l'état du quiz
+            st.session_state["page"] = "quiz"
+
+            for key in ["quiz_index", "quiz_questions", "quiz_modifications", "quiz_reveal"]:
+                if key in st.session_state:
+                    del st.session_state[key]
+
+            # On stoppe l'exécution immédiatement : à la prochaine exécution,
+            # la page "quiz" sera affichée et poser_questions recommencera à zéro
+            st.stop()
         else:
             st.error("❌ Échec de l'enregistrement dans GitHub.")
 

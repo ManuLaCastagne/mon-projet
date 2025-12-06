@@ -54,6 +54,11 @@ if st.session_state.get("page") == "edition":
     interface_edition_questions(st.session_state.get("edition_fichier"))
     st.stop()
 
+# 🔀 Gestion des pages internes (redirigées depuis poser_questions)
+if st.session_state.get("page") == "quiz":
+    poser_questions(questions_globales, nb_questions=1000)
+    st.stop()
+
 # 🎯 Lancement du jeu sélectionné
 if choix == "🕵️ Qui suis-je ?":
     jeu_qui_suis_je(questions_globales)
