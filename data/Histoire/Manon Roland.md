@@ -22,11 +22,12 @@ questions:
  - En 1793, quelle femme politique aurait dit devant l'échafaud   "O liberté, que de crimes on commet en ton nom !"
 ---
 
+
 ![Image de Manon Roland](https://upload.wikimedia.org/wikipedia/commons/5/57/Mme_Roland%2C_1772.png)
 
 ###### Questions
 
-Quel personnage féminin, impliqué dans la Révolution française, a créé un salon influent où se rassemblait notamment le groupe des [[Girondins]] en [[1791]] ?
+Quel personnage féminin, impliqué dans la Révolution française, a créé un salon influent où se rassemblait notamment le groupe des [[Girondins]] en [[1791]] ? <!-- score: 3 -->
 
 Quelle figure de la Révolution française a été guillotinée le 8 novembre [[1793]] et est connue pour sa célèbre citation : "Ô Liberté, que de crimes on commet en ton nom !" ?
 
