@@ -24,6 +24,7 @@ questions:
  - Quel héros de bande dessinée, apparu en 1969, est un fils des âges farouches...
 ---
 
+
 ![Image de Rahan](https://upload.wikimedia.org/wikipedia/commons/5/58/Becans_Bridge_on_the_Grand_Canal_near_Rahan%2C_Co._Offaly_-_geograph.org.uk_-_3071408.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quelle bande dessinée créée en 1969 par [[Roger Lécureux]] et [[André 
 
 Quel personnage de bande dessinée, souvent comparé à [[Tarzan]], vit dans un monde préhistorique et s'efforce de transmettre des valeurs de tolérance et de progrès à son clan et aux tribus qu'il rencontre ?
 
-Quel héros de bande dessinée préhistorique, connu pour sa [[mèche blonde]] et son [[coups de croc]] qui dénoue les mystères de la nature et défend la paix entre les clans, a été une icône de la revue [[Pif Gadget]] dès les années 1970 ?
+Quel héros de bande dessinée préhistorique, connu pour sa [[mèche blonde]] et son [[coups de croc]] qui dénoue les mystères de la nature et défend la paix entre les clans, a été une icône de la revue [[Pif Gadget]] dès les années 1970 ? <!-- score: 3 -->
 
 ###### Description
 
