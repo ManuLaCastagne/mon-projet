@@ -22,17 +22,13 @@ questions:
  - En 1945, quelle Française d'origine russe, danseuse des Nouveaux Ballets russes de Monte-Carlo rejoint  les ballets des Champs-Elysées de Roland Petit?
 ---
 
-
 ![Image de Ludmilla Tcherina](https://upload.wikimedia.org/wikipedia/commons/3/3f/Ludmilla_Tcherina_1955_Frankfurt_airport_%28cropped%29.jpg)
 
 ###### Questions
 
-Dans quelle équipe [[Ludmilla Tcherina]] a-t-elle joué en 1956 durant les Jeux Olympiques d'Hiver ?
+Quelle athlète, également connue pour sa carrière de [[danseuse]], a remporté une médaille d'or en gymnastique en 1960 ? <!-- score: 5 -->
 
-Quelle athlète, également connue pour sa carrière de [[danseuse]], a remporté une médaille d'or en gymnastique en 1960 sous le nom de [[Ludmilla Tcherina]] ?
-
-Qui a représenté la [[France]] dans une compétition internationale de patinage artistique en 1952 sous le nom de [[Ludmilla Tcherina]] ? <!-- score: 5 -->
-
+Qui a représenté la [[France]] dans une compétition internationale de patinage artistique en 1952 ? <!-- score: 5 -->
 ###### Description
 
 [[Ludmilla Tcherina]] est née à [[Paris]] en [[1924]], bien qu'elle soit principalement reconnue pour ses accomplissements en [[danse]] et [[cinéma]], elle a également marqué l'histoire du [[sport]]. 
