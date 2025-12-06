@@ -22,6 +22,7 @@ questions:
  - Quel attaquant ayant inscrit 222 buts avec Lyon entre 60 et 74...
 ---
 
+
 ![Image de Fleury di Nallo](https://upload.wikimedia.org/wikipedia/commons/4/46/Fleury_di_Nallo_en_1970.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel joueur a marqué le tout premier but de l'histoire de [[l'Olympique Lyonnai
 
 Quel attaquant français a inscrit 222 buts pour [[l'Olympique Lyonnais]] entre [[1960]] et [[1974]], faisant de lui le meilleur buteur de l'histoire du [[club]] ?
 
-Qui a été surnommé le "Petit Prince de [[Gerland]]" en raison de ses performances exceptionnelles avec [[l'Olympique Lyonnais]] dans les années [[1960]] ?
+Qui a été surnommé le "Petit Prince de [[Gerland]]" en raison de ses performances exceptionnelles avec [[l'Olympique Lyonnais]] dans les années [[1960]] ? <!-- score: 9 -->
 
 ###### Description
 
