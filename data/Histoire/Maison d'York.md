@@ -22,13 +22,14 @@ indice_6:
 
 
 
+
 ![Image de Maison d'York](https://upload.wikimedia.org/wikipedia/commons/9/9c/York_Minster_Chapter_House_Ceiling.jpg)
 
 ###### Questions
 
 Dans la guerre des Deux-Roses, quelle famille anglaise est opposée aux Lancastres, et rassemblait ses partisans autour d'une rose blanche ?
 
-Quel camp a remporté la [[Bataille de Towton]] en [[1461]], l'une des batailles les plus sanglantes de la [[Guerre des Deux-Roses]] ? <!-- score: 3 -->
+Quel camp a remporté la [[Bataille de Towton]] en [[1461]], l'une des batailles les plus sanglantes de la [[Guerre des Deux-Roses]] ? <!-- score: 4 -->
 
 Quelle maison royale anglaise a donné naissance à [[Richard III]], qui a régné de [[1483]] jusqu'à sa mort lors de la [[bataille de Bosworth]] en [[1485]] ?
 
