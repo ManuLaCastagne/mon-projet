@@ -20,6 +20,7 @@ indice_6 :
   - Cendrillon
 ---
 
+
 ![Image de Téléphone](https://upload.wikimedia.org/wikipedia/commons/5/58/Northern_Electric_N415H_02.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel groupe de rock français formé en [[1976]] par [[Jean-Louis Aubert]], [[Lo
 
 Quel titre de chanson du groupe [[Téléphone]], sorti en [[1979]], est devenu emblématique avec ses paroles sur les rêves et l'évasion, et fait partie de l'album "[[Crache Ton Venin]]" ?
 
-Quel groupe a donné son dernier concert avant de se séparer à l'[[Hippodrome de Vincennes]] en [[1986]], marquant une pause de près de 28 ans avant une éventuelle reformation en [[2015]] sous un autre nom ?
+Quel groupe a donné son dernier concert avant de se séparer à l'[[Hippodrome de Vincennes]] en [[1986]], marquant une pause de près de 28 ans avant une éventuelle reformation en [[2015]] sous un autre nom ? <!-- score: 4 -->
 
 ###### Description
 
