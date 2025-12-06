@@ -18,11 +18,12 @@ questions:
 ---
 
 
+
 ![Image de Paradisier](https://upload.wikimedia.org/wikipedia/commons/f/f8/Pl.07._Lesson_Pr%C3%AAtre_Oudart_-_Le_Paradisier_Rouge_male_adult_-_histoirenaturell00less_0_0323.jpg)
 
 ###### Questions
 
-Dans quelle famille d'oiseaux, souvent connus pour leur plumage spectaculaire et originaire de la région [[Nouvelle-Guinée]], trouve-t-on une espèce étudiée de près par le biologiste [[Erwin Stresemann]] en 1923 ?
+Dans quelle famille d'oiseaux, souvent connus pour leur plumage spectaculaire et originaire de la région [[Nouvelle-Guinée]], trouve-t-on une espèce étudiée de près par le biologiste [[Erwin Stresemann]] en 1923 ? <!-- score: 5 -->
 
 Quel oiseau, célèbre pour ses parades nuptiales complexes, a été largement documenté dans la série [[BBC]] "[[La Planète Terre]]" en 2006 pour illustrer la biodiversité des forêts tropicales ?
 
