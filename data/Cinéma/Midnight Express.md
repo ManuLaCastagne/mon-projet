@@ -24,11 +24,12 @@ questions:
  - En 1978, quel film d'Alan Parker avec Brad Davis ?
 ---
 
+
 ![Image de Midnight Express](https://upload.wikimedia.org/wikipedia/commons/2/29/The_Midnight_Express_1988.png)
 
 ###### Questions
 
-Quel film, réalisé par [[Alan Parker]] en 1978, raconte l'histoire vraie de [[Billy Hayes]], un Américain emprisonné en [[Turquie]] pour trafic de drogue ?
+Quel film, réalisé par [[Alan Parker]] en 1978, raconte l'histoire vraie de [[Billy Hayes]], un Américain emprisonné en [[Turquie]] pour trafic de drogue ? <!-- score: 6 -->
 
 Quelle œuvre cinématographique a valu à [[Oliver Stone]] un Oscar du meilleur scénario adapté en 1979 ?
 
