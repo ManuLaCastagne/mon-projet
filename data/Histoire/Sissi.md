@@ -22,6 +22,7 @@ questions:
  - En 1854, quelle aristocrate bavaroise, cousine du roi Louis II, épouse l'archiduc d'Autriche François-Joseph?
 ---
 
+
 ![Image de Sissi](https://upload.wikimedia.org/wikipedia/commons/c/c3/Sissi_im_Panoptikum_Hamburg.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel personnage historique a été assassiné à [[Genève]] en [[1898]] par l'a
 
 Quelle impératrice a développé une réputation de grande beauté à travers l'[[Europe]], mais qui avait en réalité un régime alimentaire très restreint et intense ? 
 
-Qui était l'épouse de l'empereur [[François-Joseph I]] d'[[Autriche]], ayant débuté leur mariage à l'âge de 16 ans en [[1854]] ?
+Qui était l'épouse de l'empereur [[François-Joseph I]] d'[[Autriche]], ayant débuté leur mariage à l'âge de 16 ans en [[1854]] ? <!-- score: 3 -->
 
 ###### Description
 
