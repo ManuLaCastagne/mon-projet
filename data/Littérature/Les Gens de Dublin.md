@@ -22,9 +22,6 @@ indice_6:
   - fin de siècle
 ---
 
-
-
-
 ![Image de Gens de Dublin](https://upload.wikimedia.org/wikipedia/commons/0/0a/Dead_Vlei_5.jpg)
 
 ###### Questions
@@ -34,9 +31,6 @@ En 1914, dans quel recueil de nouvelles James Joyce fait-il revivre l'atmosphèr
 Dans quel recueil de nouvelles publié en 1914 par [[James Joyce]] peut-on suivre la vie quotidienne des habitants de [[Dublin]]?
 
 Par quel titre collectif sont regroupées les quinze nouvelles explorant les facettes de la société irlandaise écrites par [[James Joyce]], dont l'une des plus célèbres est "Les Morts"? 
-
-Quel ouvrage, initialement rejeté par plusieurs éditeurs en raison de son contenu jugé trop controversé pour l'époque, a finalement été publié par [[Grant Richards Ltd]] en 1914? <!-- score: 4 -->
-
 ###### Description
 
 [[Les Gens de Dublin]], publié en 1914 par [[James Joyce]], est un recueil de quinze nouvelles décrivant la vie quotidienne et les chutes morales des habitants de la ville de [[Dublin]] au début du XXe siècle. 
