@@ -24,11 +24,12 @@ indice_6:
 ---
 
 
+
 ![Image de Terre des Hommes (roman)](https://upload.wikimedia.org/wikipedia/commons/2/28/Wind_Sand_and_Stars_-_2.jpg)
 
 ###### Questions
 
-Quel livre de [[Antoine de Saint-Exupéry]], publié en 1939, tire son titre du chapitre III de [[Pensées]] de [[Blaise Pascal]] ? <!-- score: 4 -->
+Quel livre de [[Antoine de Saint-Exupéry]], publié en 1939, tire son titre du chapitre III de [[Pensées]] de [[Blaise Pascal]] ? <!-- score: 2 -->
 
 Quel récit autobiographique a remporté le [[Grand Prix du roman de l'Académie française]] en 1939 et explore les thèmes de l'humanité et de l'aviation ?
 
