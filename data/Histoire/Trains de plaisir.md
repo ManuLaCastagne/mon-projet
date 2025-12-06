@@ -22,13 +22,14 @@ questions:
  - Au XIXe, quelle expression imagée désignait les trains qui reliaient Paris à la mer du Nord ?
 ---
 
+
 ![Image de Trains de plaisir](https://upload.wikimedia.org/wikipedia/commons/b/b9/Les_trains_de_plaisir.png)
 
 ###### Questions
 
 Quel nom donnait-on aux trains bon marché qui transportaient les ouvriers parisiens vers les plages de [[Normandie]] pour leurs loisirs à partir de [[1864]] ?
 
-Quel était le surnom des trains introduits durant la [[Révolution industrielle]] pour permettre aux habitants des grandes villes françaises d'accéder facilement aux plages et stations balnéaires ?
+Quel était le surnom des trains introduits durant la [[Révolution industrielle]] pour permettre aux habitants des grandes villes françaises d'accéder facilement aux plages et stations balnéaires ? <!-- score: 4 -->
 
 Comment appelait-on les trains spécialement organisés à partir de [[1876]] pour emmener les travailleurs lors de leurs congés payés vers des destinations côtières en France ?
 
