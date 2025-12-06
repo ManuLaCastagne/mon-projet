@@ -22,11 +22,12 @@ questions:
  - En 2017, quel navigateur français établit un nouveau record du tour du monde à la voile en équipage et s'empare du fameux trophée Jules Verne?
 ---
 
+
 ![Image de Francis Joyon](https://upload.wikimedia.org/wikipedia/commons/3/3b/Francis-Joyon.jpg)
 
 ###### Questions
 
-Quel navigateur français a battu le record du tour du monde en solitaire en 2008 en seulement 57 jours, 13 heures, 34 minutes et 6 secondes ?
+Quel navigateur français a battu le record du tour du monde en solitaire en 2008 en seulement 57 jours, 13 heures, 34 minutes et 6 secondes ? <!-- score: 8 -->
 
 Qui a remporté la [[Route du Rhum]] en 2018 dans la catégorie [[Ultime]], établissant un nouveau record en 7 jours, 14 heures, 21 minutes et 47 secondes ?
 
