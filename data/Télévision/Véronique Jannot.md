@@ -22,17 +22,11 @@ questions:
  - En 1981, quelle actrice est l'assistante sociale Joelle Mazard dans "Pause Café" ?
 ---
 
-
 ![Image de Véronique Jannot](https://upload.wikimedia.org/wikipedia/commons/e/e5/V%C3%A9ronique_Jannot_2012.jpg)
 
 ###### Questions
 
-Dans quelle série télévisée française des années 1980, diffusée entre [[1985]] et [[1991]], l'actrice [[Véronique Jannot]] joue-t-elle le rôle de Joëlle Mazart, une assistante sociale ? <!-- score: 5 -->
-
-Dans quel film musical de [[Claude Lelouch]], sorti en [[1985]], [[Véronique Jannot]] incarne-t-elle une chanteuse en quête de succès, partageant l'affiche avec [[Roger Hanin]] ?
-
-Quel événement télévisuel mettant en avant des personnalités et diffusé sur [[TF1]], voit [[Véronique Jannot]] participer et franchir des montagnes lors de l'édition spéciale de [[Pékin Express]] en [[2010]] ?
-
+Qui joue le rôle de Joëlle Mazart, une assistante sociale dans [[Pause Café]] ? <!-- score: 5 -->
 ###### Description
 
 [[Véronique Jannot]] est une actrice française, reconnue principalement pour son rôle dans le feuilleton télévisé [[Pause-café]], diffusé pour la première fois en [[1981]]. 
