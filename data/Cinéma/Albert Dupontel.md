@@ -24,11 +24,12 @@ questions:
  - En 2018, quel acteur et réalisateur, originaire des Yvelines, reçoit le césar de la meilleure réalisation pour le film "Au revoir là-haut"?
 ---
 
+
 ![Image de Albert Dupontel](https://upload.wikimedia.org/wikipedia/commons/0/08/Albert_Dupontel_%28c%29_Chistophe_Brachet.JPG)
 
 ###### Questions
 
-Dans quel film de 2013, réalisé par [[Albert Dupontel]], peut-on voir [[Sandrine Kiberlain]] jouer une juge d'instruction qui se rapproche d'un homme en fuite ?
+Dans quel film de 2013, réalisé par [[Albert Dupontel]], peut-on voir [[Sandrine Kiberlain]] jouer une juge d'instruction qui se rapproche d'un homme en fuite ? <!-- score: 5 -->
 
 Quel acteur et réalisateur français a remporté le [[César du Meilleur Réalisateur]] en 2018 pour le film éponyme "[[Au revoir là-haut]]" inspiré du roman de [[Pierre Lemaître]] ?
 
