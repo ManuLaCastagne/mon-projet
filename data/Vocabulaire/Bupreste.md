@@ -16,11 +16,12 @@ indice_6 :
   - Élytres colorés
 ---
 
+
 ![Image de Bupreste](https://upload.wikimedia.org/wikipedia/commons/8/81/Wytsman.Genera.Insectorum.Buprestidae.02.jpg)
 
 ###### Questions
 
-Quel est le nom de l'insecte connu pour ses couleurs métalliques éclatantes et qui appartient à la famille des [[Buprestidae]] ?
+Quel est le nom de l'insecte connu pour ses couleurs métalliques éclatantes et qui appartient à la famille des [[Buprestidae]] ? <!-- score: 6 -->
 
 Comment appelle-t-on ce type de coléoptère, souvent utilisé par les bijoutiers, et qui est parfois surnommé le "[[scarabée bijou]]" ?
 
