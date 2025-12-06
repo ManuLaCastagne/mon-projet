@@ -24,13 +24,14 @@ questions:
  - En 2009, quel acteur australien est récompensé à titre posthume pour son rôle du Joker dans "The Dark Knight" ?
 ---
 
+
 ![Image de East Ledger](https://upload.wikimedia.org/wikipedia/commons/3/3e/S_Mary%2C_East_Ruston%2C_Norfolk_-_Ledger_slab_-_geograph.org.uk_-_2064338.jpg)
 
 ###### Questions
 
 Quel établissement a été le lieu de tournage du film culte « [[La Nuit de l'Optique]] » sorti en 1987 avec [[Anna Belle]] et [[Vincent Morray]] ?
 
-Dans quel cinéma emblématique de Paris, inauguré en 1939, a eu lieu la première mondiale de « [[L'Invention des Ombres]] », un classique des années [[60]] ?
+Dans quel cinéma emblématique de Paris, inauguré en 1939, a eu lieu la première mondiale de « [[L'Invention des Ombres]] », un classique des années [[60]] ? <!-- score: 5 -->
 
 Quel cinéma a reçu en 1995 le prestigieux prix de « Meilleur Cinéma d'Art et Essai » décerné par l'[[Académie des Arts Cinématographiques]] ?
 
