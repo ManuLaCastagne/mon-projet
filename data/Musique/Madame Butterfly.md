@@ -24,13 +24,14 @@ questions:
  - Opéra créé à la Scala de Milan en 1904, j'ai été inspiré à mon auteur par une pièce de David Belasco. Mal reçu du public lors de ma première, je me déroule à Nagasaki.
 ---
 
+
 ![Image de Madame Butterfly](https://upload.wikimedia.org/wikipedia/commons/e/e4/Leopoldo_Metlicovitz%2C_1904_-_Madama_Butterfly.jpg)
 
 ###### Questions
 
 Quel [[opéra]] de [[Giacomo Puccini]], créé en 1904, raconte l'histoire tragique de [[Cio-Cio-San]], une [[geisha]] japonaise ?
 
-Quel est le titre de l'œuvre lyrique où le personnage principal attend en vain le retour de son époux [[Pinkerton]], un officier de la marine américaine ?
+Quel est le titre de l'œuvre lyrique où le personnage principal attend en vain le retour de son époux [[Pinkerton]], un officier de la marine américaine ? <!-- score: 3 -->
 
 Quelle œuvre a rencontré un échec retentissant lors de sa première représentation à [[La Scala de Milan]] mais est devenue l'un des opéras les plus populaires au monde ?
 
