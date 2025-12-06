@@ -25,11 +25,12 @@ questions:
  - Quelle piscine du 16e arrondissement de Paris inaugurée, disait la question, en 1929 par Johnny Weissmuller, célèbre pour son style Art déco ?
 ---
 
+
 ![Image de Molitor](https://upload.wikimedia.org/wikipedia/commons/c/c1/Piscine_Molitor%2C_Paris%2C_France.jpg)
 
 ###### Questions
 
-Quel célèbre hôtel et piscine de [[Paris]], ouvert en 1929, a été fréquemment utilisé comme toile de fond pour des films d'art et des séances photo, avant sa fermeture en 1989 ?
+Quel célèbre hôtel et piscine de [[Paris]], ouvert en 1929, a été fréquemment utilisé comme toile de fond pour des films d'art et des séances photo, avant sa fermeture en 1989 ? <!-- score: 3 -->
 
 Quel établissement célèbre pour ses fresques murales réalisées par [[Jules Geoffroy]] et d'autres artistes, rouvert au public en 2014 après une rénovation spectaculaire, accueille régulièrement des expositions d'art ?
 
