@@ -30,10 +30,9 @@ questions:
 
 Dans quelle province irlandaise se trouve le célèbre parc national de [[Killarney]], fondé en [[1932]] ?
 
-Quel est le nom de la province en [[Irlande]] où la ville médiévale de [[Limerick]] est située, célèbre pour son patrimoine historique et la cathédrale Saint-Jean, fondée en [[1168]] ?
+Quel est le nom de la province en [[Irlande]] où la ville médiévale de [[Limerick]] est située, célèbre pour son patrimoine historique et la cathédrale Saint-Jean, fondée en [[1168]] ? <!-- score: 5 -->
 
 Quelle ancienne région de l'île d'[[Irlande]], connue pour ses montagnes impressionnantes comme les [[MacGillycuddy's Reeks]], est la patrie de l’équipe de [[rugby]] du [[Munster]], fondée en [[1879]] ?
-
 ###### Description
 
 La province de [[Munster (Irlande)]] est située dans le sud-ouest de l'[[Irlande]] et comprend six comtés : [[Clare]], [[Cork]], [[Kerry]], [[Limerick]], [[Tipperary]] et [[Waterford]]. 
