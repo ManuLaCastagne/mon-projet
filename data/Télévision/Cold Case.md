@@ -22,6 +22,7 @@ questions:
  - Quelle série policière américaine met en scène l'inspectrice Lilly Rush...
 ---
 
+
 ![Image de Cold Case](https://upload.wikimedia.org/wikipedia/commons/8/84/Cold_case_logo.svg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quelle série télévisée américaine, diffusée entre [[2003]] et [[2010]], se
 
 Dans quelle série, l'inspectrice [[Lilly Rush]], jouée par [[Kathryn Morris]], enquête-t-elle sur d'anciennes affaires criminelles en utilisant de nouvelles preuves pour trouver des réponses ?
 
-Quel programme utilise le concept innovant de revisiter des enquêtes non résolues en adoptant une perspective contemporaine tout en intégrant des éléments musicaux correspondant aux époques des crimes ?
+Quel programme utilise le concept innovant de revisiter des enquêtes non résolues en adoptant une perspective contemporaine tout en intégrant des éléments musicaux correspondant aux époques des crimes ? <!-- score: 4 -->
 
 ###### Description
 
