@@ -16,13 +16,14 @@ indice_6 :
   - Intelligence
 ---
 
+
 ![Image de Briard](https://upload.wikimedia.org/wikipedia/commons/6/60/Briard_fauve.JPG)
 
 ###### Questions
 
 Quel chien de berger vient de Brie ? 
 
-Quelle race de chien est associée à la région de [[Brie]] et prisée pour son rôle historique de gardien de troupeaux dans les fermes françaises ? 
+Quelle race de chien est associée à la région de [[Brie]] et prisée pour son rôle historique de gardien de troupeaux dans les fermes françaises ? <!-- score: 4 -->
 
 ###### Description
 
