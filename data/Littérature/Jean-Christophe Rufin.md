@@ -23,11 +23,12 @@ questions:
   - Quel prix Goncourt fut ancien président de Médecins sans frontières ?
 ---
 
+
 ![Image de Jean-Christophe Rufin](https://upload.wikimedia.org/wikipedia/commons/b/bd/Jean-Christophe_Rufin_2024.jpg)
 
 ###### Questions
 
-Quel écrivain a remporté le [[Prix Goncourt]] en 2001 avec le roman "[[Rouge Brésil]]" ?
+Quel écrivain a remporté le [[Prix Goncourt]] en 2001 avec le roman "[[Rouge Brésil]]" ? <!-- score: 5 -->
 
 Qui a été élu à l'[[Académie française]] le [[19 juin 2008]], succédant à [[Henri Troyat]] au fauteuil 28 ?
 

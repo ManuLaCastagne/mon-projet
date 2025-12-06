@@ -24,6 +24,7 @@ questions:
  - De quel écrivain américain Baudelaire a-t-il traduit certaines œuvres comme "Les Histoires Extraordianires" ?
 ---
 
+
 ![Image de Edgar Allan Poe](https://upload.wikimedia.org/wikipedia/commons/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ questions:
 
 {{Quel auteur, célèbre pour ses récits sombres, est décédé dans des circonstances mystérieuses en 1849, un événement qui reste largement débattu et non élucidé à ce jour ?}}
 
-{{Quel écrivain, bien qu'il soit principalement connu pour ses contes et poèmes lugubres, a également marqué l'histoire pour son essai en 1848 intitulé "{{[[Eureka: A Prose Poem]]}}", dans lequel il propose une théorie cosmologique en avance sur son temps ?}}
+{{Quel écrivain, bien qu'il soit principalement connu pour ses contes et poèmes lugubres, a également marqué l'histoire pour son essai en 1848 intitulé "{{[[Eureka: A Prose Poem]]}}", dans lequel il propose une théorie cosmologique en avance sur son temps ?}} <!-- score: 5 -->
 
 ###### Description
 
