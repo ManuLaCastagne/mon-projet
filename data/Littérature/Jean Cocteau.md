@@ -23,13 +23,14 @@ indice_6:
 ---
 
 
+
 ![Image de Jean Cocteau](https://upload.wikimedia.org/wikipedia/commons/a/ae/Jean_Cocteau_b_Meurisse_1923.jpg)
 
 ###### Questions
 
 Qui disait du verbe aimer que "Son passé n'est pas simple, son présent n'est qu'indicatif et son futur est toujours conditionnel" ?
 
-J'ai également décoré la chapelle de [[Milly-la-Forêt]] où je suis enterré. Poète aux multiples talents dont l'oeuvre abondante comprend le roman "Les Enfants terribles", la pièce "[[Orphée (pièce)]]"...
+J'ai également décoré la chapelle de [[Milly-la-Forêt]] où je suis enterré. Poète aux multiples talents dont l'oeuvre abondante comprend le roman "Les Enfants terribles", la pièce "[[Orphée (pièce)]]"... <!-- score: 2 -->
 
 Quel poète et dramaturge français a été élu à l'[[Académie française]] en 1955 ?
 
