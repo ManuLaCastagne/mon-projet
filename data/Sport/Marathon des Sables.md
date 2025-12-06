@@ -22,10 +22,6 @@ questions:
  - Lors de quelle course à pied les concurrents doivent-ils parcourir plus de 240 km...
 ---
 
-
-
-
-
 ![Image de Marathon des Sables](https://upload.wikimedia.org/wikipedia/commons/a/a7/MARATHON_DES_SABLES_logo.png)
 
 ###### Questions
@@ -35,7 +31,6 @@ Quel événement sportif extrême, créé en [[1986]], se déroule chaque année
 Quelle compétition de course à pied, considérée comme l'une des plus dures au monde, exige des participants de parcourir environ 250 kilomètres en autonomie complète ? <!-- score: 3 -->
 
 Quel ultra-marathon annuel est célèbre pour son parcours à travers des dunes de sable brûlant et des températures atteignant souvent 50 degrés Celsius ?
-
 ###### Description
 
 Le [[Marathon des Sables]] est une course d'endurance réputée, créée en [[1986]] par [[Patrick Bauer]], qui traverse le désert du Sahara au [[Maroc]], pays où se déroule cette course exigeante chaque année. C'est à [[Ouarzazate]], une ville marocaine connue pour ses studios de cinéma, que de nombreux participants se retrouvent pour cette incroyable aventure.
