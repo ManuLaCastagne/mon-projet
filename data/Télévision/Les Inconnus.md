@@ -20,17 +20,11 @@ indice_6 :
   - Didier Bourdon
 ---
 
-
 ![Image de Les Inconnus](https://upload.wikimedia.org/wikipedia/commons/1/18/Les_Inconnus.jpg)
 
 ###### Questions
 
-Quel trio comique a créé l'émission parodique "[[La Télé des Inconnus]]" diffusée pour la première fois sur [[Antenne 2]] en [[1990]] ? <!-- score: 5 -->
-
-Quel groupe humoristique est à l'origine du sketch célèbre intitulé "Les [[Chasseurs]]" diffusé pour la première fois dans les années [[1990]] ?
-
 Quel groupe a remporté un [[César]] pour le film "[[Les Trois Frères]]" en [[1996]] ?
-
 ###### Description
 
 [[Les Inconnus]] est un groupe comique français formé par [[Didier Bourdon]], [[Bernard Campan]] et [[Pascal Légitimus]], qui a connu un immense succès dans les années 1990 grâce à l’émission "La Télé des Inconnus". 
