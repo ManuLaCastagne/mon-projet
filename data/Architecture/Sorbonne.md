@@ -26,11 +26,12 @@ questions:
 ---
 
 
+
 ![Image de Sorbonne](https://upload.wikimedia.org/wikipedia/commons/6/6d/Cour_de_la_Sorbonne.jpg)
 
 ###### Questions
 
-Quel établissement d'enseignement supérieur parisien abrite une chapelle conçue par l'architecte [[Jacques Lemercier]] au début du XVIIe siècle, culminant en 1642 avec l'achèvement du dôme décoratif et reconnaissable dans tout [[Paris]] ?
+Quel établissement d'enseignement supérieur parisien abrite une chapelle conçue par l'architecte [[Jacques Lemercier]] au début du XVIIe siècle, culminant en 1642 avec l'achèvement du dôme décoratif et reconnaissable dans tout [[Paris]] ? <!-- score: 4 -->
 
 Quel complexe universitaire fondé en 1257 a intégré des éléments architecturaux majeurs lors de sa reconstruction au XIXe siècle sous la direction de l'architecte [[Henri-Paul Nénot]], aboutissant à un site classé monument historique en 1975 ? <!-- score: 6 -->
 
