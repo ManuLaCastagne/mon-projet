@@ -22,11 +22,12 @@ questions:
   - A quel maréchal de France doit-on les 12 sites, comptant la citadelle d'Arras, que l'Unesco...
 ---
 
+
 ![Image de Vauban](https://upload.wikimedia.org/wikipedia/commons/5/55/Vauban.jpg)
 
 ###### Questions
 
-En 1706, quel maréchal et ingénieur participa aux travaux de la défense de [[Dunkerque]] ?
+En 1706, quel maréchal et ingénieur participa aux travaux de la défense de [[Dunkerque]] ? <!-- score: 3 -->
 
 A quel maréchal de France doit-on les 12 sites patrimoines mondiaux de l'UNESCO, comptant la citadelle d'[[Arras]] ?
 
