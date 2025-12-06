@@ -24,6 +24,7 @@ indice_6 :
   - plage
 ---
 
+
 ![Image de Nassau](https://upload.wikimedia.org/wikipedia/commons/c/c2/American_Tourists_in_Nassau%2C_Bahamas%2C_1962.tif)
 
 ![[Carte_Nassau.png]]
@@ -31,7 +32,7 @@ indice_6 :
 
 Quelle est la capitale qui abrite le célèbre escalier Queen's Staircase, construit par des esclaves autour de 1793, à l'honneur de la reine [[Reine Victoria]] et situé sur l'île de [[New Providence]] ? 
 
-Dans quelle ville peut-on visiter la maison de [[Pirate Henry Morgan]], devenue aujourd'hui le musée [[Pirates of Nassau]], qui retrace l'histoire de la piraterie et de la contrebande dans les [[Caraïbes]] ?
+Dans quelle ville peut-on visiter la maison de [[Pirate Henry Morgan]], devenue aujourd'hui le musée [[Pirates of Nassau]], qui retrace l'histoire de la piraterie et de la contrebande dans les [[Caraïbes]] ? <!-- score: 5 -->
 
 Quelle capitale est à la fois la plus grande ville des [[Bahamas]] et le centre commercial et culturel de cet archipel, tout en étant fondée en 1670 par les [[colons britanniques]] ?
 
