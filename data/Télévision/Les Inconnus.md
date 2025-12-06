@@ -20,11 +20,12 @@ indice_6 :
   - Didier Bourdon
 ---
 
+
 ![Image de Les Inconnus](https://upload.wikimedia.org/wikipedia/commons/1/18/Les_Inconnus.jpg)
 
 ###### Questions
 
-Quel trio comique a créé l'émission parodique "[[La Télé des Inconnus]]" diffusée pour la première fois sur [[Antenne 2]] en [[1990]] ?
+Quel trio comique a créé l'émission parodique "[[La Télé des Inconnus]]" diffusée pour la première fois sur [[Antenne 2]] en [[1990]] ? <!-- score: 5 -->
 
 Quel groupe humoristique est à l'origine du sketch célèbre intitulé "Les [[Chasseurs]]" diffusé pour la première fois dans les années [[1990]] ?
 
