@@ -22,6 +22,7 @@ indice_6:
   - voix distincte
 ---
 
+
 ![Image de Bjork](https://upload.wikimedia.org/wikipedia/commons/c/cc/Bj%C3%B6rk_at_Cannes.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quelle chanteuse et auteure-compositrice islandaise a contribué au succès du r
 
 Dans quel célèbre film de [[Lars von Trier]] sorti en 2000 [[Björk]] a-t-elle non seulement joué mais aussi composé la bande originale, remportant le prix de la meilleure actrice à [[Cannes]] ?
 
-Quel est le titre de l'album de [[Björk]] sorti en 2011 qui explore des thèmes liés à la nature et la technologie, et qui a été accompagné de plusieurs applications interactives innovantes ?
+Quel est le titre de l'album de [[Björk]] sorti en 2011 qui explore des thèmes liés à la nature et la technologie, et qui a été accompagné de plusieurs applications interactives innovantes ? <!-- score: 5 -->
 
 En 1993, quel titre phare de l'album "Debut" de [[Björk]] a remporté le prix du meilleur single aux [[BRIT Awards]] ?
 
