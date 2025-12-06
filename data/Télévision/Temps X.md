@@ -22,11 +22,12 @@ questions:
  - De 1979 à 1987, quelle émission de vulgarisation scientifique a été présentée par les Frères Bogdanov?
 ---
 
+
 ![Image de Temps X](https://upload.wikimedia.org/wikipedia/commons/e/e6/Igor_and_Grichka_Bogdanoff.jpg)
 
 ###### Questions
 
-Quel programme télévisé français de [[science-fiction]], créé par [[Igor Bogdanoff]] et [[Grichka Bogdanoff]], a été diffusé sur [[Antenne 2]] entre [[1982]] et [[Culture générale/1989]] ? 
+Quel programme télévisé français de [[science-fiction]], créé par [[Igor Bogdanoff]] et [[Grichka Bogdanoff]], a été diffusé sur [[Antenne 2]] entre [[1982]] et [[Culture générale/1989]] ? <!-- score: 9 -->
 
 Quel nom porte l'émission qui a introduit pour la première fois en [[France]] des sujets sur les [[effets spéciaux]], les [[manga]], et les dernières inventions technologiques durant les [[années 80]] ? 
 
