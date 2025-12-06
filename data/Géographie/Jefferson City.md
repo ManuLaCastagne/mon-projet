@@ -24,6 +24,7 @@ indice_6 :
   - Midwest
 ---
 
+
 ![[Carte_Jefferson City.png]]
 
 ###### Questions
@@ -32,7 +33,7 @@ Quelle est la capitale de l'État américain du [[Missouri]], nommée en l'honne
 
 Quelle ville, fondée en [[1821]] pour être la nouvelle capitale de son État, se trouve géographiquement plus proche du centre de l'État américain du [[Missouri]] que sa plus grande ville, [[Kansas City]] ? 
 
-Quelle capitale d'État située près de la rivière [[Missouri]] a succédé à [[Saint Charles]] en tant que capitale du [[Missouri]] en [[1826]] ?
+Quelle capitale d'État située près de la rivière [[Missouri]] a succédé à [[Saint Charles]] en tant que capitale du [[Missouri]] en [[1826]] ? <!-- score: 4 -->
 
 ###### Description
 
