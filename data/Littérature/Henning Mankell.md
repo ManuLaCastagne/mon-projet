@@ -23,6 +23,7 @@ indice_6:
 ---
 
 
+
 ![Image de Henning Mankell](https://upload.wikimedia.org/wikipedia/commons/d/df/Henning_Mankell_3_2011_Shankbone.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel romancier suédois, connu pour sa série de romans policiers mettant en sc�
 
 Quel écrivain suédois est le créateur du personnage du commissaire Kurt Wallander en 2005, héros de "La Muraille invisible" et de "L'Homme qui souriait" ?
 
-Quel auteur a non seulement connu le succès avec son œuvre littéraire, mais a également fondé le [[Teatro Avenida]] au [[Mozambique]] dans les années 1980 ? <!-- score: 4 -->
+Quel auteur a non seulement connu le succès avec son œuvre littéraire, mais a également fondé le [[Teatro Avenida]] au [[Mozambique]] dans les années 1980 ? <!-- score: 3 -->
 ###### Description
 
 [[Henning Mankell]] est un écrivain suédois, né le 3 février 1948 à [[Stockholm]] en [[Suède]] et décédé le 5 octobre 2015 à [[Göteborg]]. 
