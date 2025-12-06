@@ -16,13 +16,14 @@ indice_6 :
   - Berger
 ---
 
+
 ![Image de Églogue](https://upload.wikimedia.org/wikipedia/commons/0/0b/%C3%89mile-Louis_Foubert_-_Pan_and_Nymph_in_a_Landscape.jpg)
 
 ###### Questions
 
 Quel genre de poème pastoral, illustré par [[Virgile]], met en scène des bergers idéalisés et leurs amours champêtres ?
 
-Quel type de composition poétique était populaire durant l'[[Antiquité]] et la [[Renaissance]] pour exalter la beauté de la nature et la vie simple ?
+Quel type de composition poétique était populaire durant l'[[Antiquité]] et la [[Renaissance]] pour exalter la beauté de la nature et la vie simple ? <!-- score: 4 -->
 
 Quel est le nom donné aux œuvres poétiques qui utilisent souvent des dialogues entre bergers pour exprimer une vision idéalisée du monde rural ?
 
