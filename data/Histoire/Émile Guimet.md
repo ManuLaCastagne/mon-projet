@@ -22,11 +22,12 @@ indice_6:
 
 
 
+
 ![Image de Emile Guimet ](https://upload.wikimedia.org/wikipedia/commons/c/c8/%C3%89mile_Guimet_1910.jpg)
 
 ###### Questions
 
-Quel industriel lyonnais, collectionneur d'objets d'art a donné son nom à un musée d'art asiatique transféré à Paris en 1885 ? <!-- score: 4 -->
+Quel industriel lyonnais, collectionneur d'objets d'art a donné son nom à un musée d'art asiatique transféré à Paris en 1885 ? <!-- score: 3 -->
 
 Quel industriel lyonnais a fondé en 1879 le [[musée]] portant son nom à Paris, consacré aux [[arts asiatiques]] ?
 
