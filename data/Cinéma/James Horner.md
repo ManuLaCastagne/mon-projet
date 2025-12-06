@@ -21,11 +21,12 @@ indice_6:
   - Apollo 13
 ---
 
+
 ![Image de James Horner](https://upload.wikimedia.org/wikipedia/commons/9/9f/James-horner-07.jpg)
 
 ###### Questions
 
-Quel compositeur a remporté deux [[Oscars]] en 1998 pour son travail sur le film [[Titanic]] ?
+Quel compositeur a remporté deux [[Oscars]] en 1998 pour son travail sur le film [[Titanic]] ? <!-- score: 3 -->
 
 Quel compositeur a composé la célèbre bande originale du film [[Braveheart]] sorti en 1995 ?
 
