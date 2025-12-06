@@ -24,6 +24,7 @@ questions:
  - En 1977, quel film fantastique de Don Taylor avec Michael York, Burt Lancaster est tiré d'un roman de H.G. Welles ?
 ---
 
+
 ![Image de L'Île du docteur Moreau](https://upload.wikimedia.org/wikipedia/commons/a/a3/Wells_Ile_du_Docteur_Moreau_1896.djvu)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel film de 1996, célèbre pour son tournage chaotique et ses nombreuses tensi
 
 Quel long-métrage a vu sa réalisation initiale confiée à [[Richard Stanley]] en 1996 avant qu'il ne soit remplacé par [[John Frankenheimer]] suite à des différends créatifs et des complications de production ?
 
-Quel film d'adaptation du roman d'[[H.G. Wells]] a été marqué par la présence déconcertante de [[Marlon Brando]] dans un rôle où il se présente avec un maquillage et des costumes extravagants dans les coulisses du cinéma en 1996 ?
+Quel film d'adaptation du roman d'[[H.G. Wells]] a été marqué par la présence déconcertante de [[Marlon Brando]] dans un rôle où il se présente avec un maquillage et des costumes extravagants dans les coulisses du cinéma en 1996 ? <!-- score: 5 -->
 
 ###### Description
 
