@@ -16,13 +16,14 @@ indice_6 :
   - Provence
 ---
 
+
 ![Image de Galoubet](https://upload.wikimedia.org/wikipedia/commons/e/e6/Galoubet_-_SMV_-_F162_07.tif)
 
 ###### Questions
 
 Quel est le nom de la célèbre [[flûte]] provençale souvent jouée avec le [[tambourin]] lors des fêtes traditionnelles ?
 
-Quel instrument à vent est fréquemment utilisé dans les musiques folkloriques du [[sud de la France]], notamment en [[Provence]] ?
+Quel instrument à vent est fréquemment utilisé dans les musiques folkloriques du [[sud de la France]], notamment en [[Provence]] ? <!-- score: 5 -->
 
 Comment appelle-t-on la petite flûte à trois trous, emblématique des événements culturels provençaux, semblable au [[Fifre]] occitan ?
 
