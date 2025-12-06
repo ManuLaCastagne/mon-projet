@@ -21,6 +21,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Un Barrage contre le Pacifique](https://upload.wikimedia.org/wikipedia/commons/8/85/LL-Q150_%28fra%29-Fhala.K-Un_barrage_contre_le_Pacifique.wav)
 
 ###### Questions
@@ -29,7 +30,7 @@ Dans quel roman de [[Marguerite Duras]] publié en [[1950]] utilise-t-on la cons
 
 Quel livre se déroule en [[Indochine française]] dans les [[années 1930]] et s'inspire de la propre enfance de [[Marguerite Duras]] dans cette région, où elle décrit les efforts vains d'une famille vivant dans la pauvreté ?
 
-Comment s'intitule l'œuvre de [[Marguerite Duras]] qui fut adaptée à l'écran par le réalisateur [[Rithy Panh]] en [[2008]], avec l'actrice [[Isabelle Huppert]] dans le rôle principal ? <!-- score: 4 -->
+Comment s'intitule l'œuvre de [[Marguerite Duras]] qui fut adaptée à l'écran par le réalisateur [[Rithy Panh]] en [[2008]], avec l'actrice [[Isabelle Huppert]] dans le rôle principal ? <!-- score: 3 -->
 
 ###### Description
 
