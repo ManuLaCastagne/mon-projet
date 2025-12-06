@@ -16,11 +16,12 @@ indice_6 :
   - Habillage formel
 ---
 
+
 ![Image de Milonga](https://upload.wikimedia.org/wikipedia/commons/3/34/Juan_carlos_heredia_sanlorenzo.jpg)
 
 ###### Questions
 
-Quel est le nom donné à une soirée de danse [[Tango]] lors de laquelle on pratique cette danse en couple ?
+Quel est le nom donné à une soirée de danse [[Tango]] lors de laquelle on pratique cette danse en couple ? <!-- score: 5 -->
 
 Comment appelle-t-on une danse d'origine [[Argentine]] pratiquée principalement dans les bals de [[Tango]] ?
 
