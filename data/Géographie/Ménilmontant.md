@@ -26,18 +26,16 @@ questions:
  - Dans quel quartier du 20e arrondissement de Paris est-il né en 1888 ?
 ---
 
-
 ![Image de Ménilmontant](https://upload.wikimedia.org/wikipedia/commons/8/84/Paris%2C_Metro-Station_-M%C3%A9nilmontant-_--_2014_--_1382.jpg)
 
 ![[Carte_Ménilmontant.png]]
 ###### Questions
 
-Dans quel arrondissement de [[Paris]] se trouve le quartier historique de [[Ménilmontant]], un nom qui évoque une ancienne commune annexée en 1860 ?
+Quel arrondissement de [[Paris]] porte un nom qui évoque une ancienne commune annexée en 1860 ? <!-- score: 5 -->
 
-Quel quartier abrite le célèbre [[cimetière du Père-Lachaise]], situé à proximité de la rue de [[Ménilmontant]] et inauguré en 1804 ?
+Quel quartier abrite le célèbre [[cimetière du Père-Lachaise]],  inauguré en 1804 ? <!-- score: 5 -->
 
-Quel quartier parisien est associé à la chanson emblématique de [[Charles Trenet]] intitulée "[[Ménilmontant]]", sortie en 1939 ? <!-- score: 5 -->
-
+Quel quartier parisien est associé à la chanson emblématique de [[Charles Trenet]] sortie en 1939 ? <!-- score: 5 -->
 ###### Description
 
 [[Ménilmontant]] est un quartier emblématique du 20ème arrondissement de [[Paris]].  
