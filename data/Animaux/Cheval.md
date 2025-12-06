@@ -17,11 +17,12 @@ questions:
  - Grand mammifère domestique pouvant être des races nonus, katyawari, mangalarga, je passe mon temps à brouter et suis capable de somnoler debout.
 ---
 
+
 ![Image de Cheval](https://upload.wikimedia.org/wikipedia/commons/0/01/Statue_escalier_fer_%C3%A0_cheval_Fontainebleau.jpg)
 
 ###### Questions
 
-Quel animal a été envoyé dans l'espace par la [[NASA]] en 1967 pendant un court vol d'expérimentation biologique ?  
+Quel animal a été envoyé dans l'espace par la [[NASA]] en 1967 pendant un court vol d'expérimentation biologique ? <!-- score: 4 -->
    
 Quel animal est célébré chaque année lors de l'événement nommé [[Derby de Kentucky]], course de prestigieuses montures qui se tient depuis 1875 ?  
    
