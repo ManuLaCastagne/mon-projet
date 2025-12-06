@@ -22,11 +22,12 @@ questions:
  - Depuis 1991, quel animateur et producteur de télévision français, présente l'émission "E=M6"?
 ---
 
+
 ![Image de Mac Lesggy](https://upload.wikimedia.org/wikipedia/commons/5/59/Avec_mac_lesggy_%28cropped%29.jpeg)
 
 ###### Questions
 
-Quel animateur de [[télévision]] français, connu pour sa coiffure singulière, présente l'émission [[E=M6]] depuis [[1991]] ? 
+Quel animateur de [[télévision]] français, connu pour sa coiffure singulière, présente l'émission [[E=M6]] depuis [[1991]] ? <!-- score: 8 -->
 
 Quelle personnalité française, née sous le nom d'[[Olivier Lesgourgues]], a popularisé les sciences auprès du grand public grâce à [[M6]] ? 
 
