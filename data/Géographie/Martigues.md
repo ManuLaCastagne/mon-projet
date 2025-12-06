@@ -23,6 +23,7 @@ indice_6 :
   - La Venise Provençale
 ---
 
+
 ![[Carte_Martigues.png]]
 
 ###### Questions
@@ -31,7 +32,7 @@ Quelle ville française située dans la région [[Provence-Alpes-Côte d'Azur]] 
 
 Quelle commune des [[Bouches-du-Rhône]] a été le lieu de tournage du film culte français "[[La Cuisine au Beurre]]" en 1963, mettant en vedette [[Fernandel]] et [[Bourvil]] ?
 
-Quelle ville de [[France]] a accueilli en 2009 la grande exposition d'art contemporain "[[Les Nouveaux Espaces de l'Art]]", mettant en avant des artistes tels que [[Daniel Buren]] et [[Jean-Michel Othoniel]] ?
+Quelle ville de [[France]] a accueilli en 2009 la grande exposition d'art contemporain "[[Les Nouveaux Espaces de l'Art]]", mettant en avant des artistes tels que [[Daniel Buren]] et [[Jean-Michel Othoniel]] ? <!-- score: 3 -->
 
 ###### Description
 
