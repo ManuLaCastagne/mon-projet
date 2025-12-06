@@ -16,13 +16,11 @@ indice_6 :
   - Saut
 ---
 
-
 ![Image de Algazelle](https://upload.wikimedia.org/wikipedia/commons/f/f3/Gemsbok_%28Oryx_gazella%29_male.jpg)
 
 ###### Questions
 
 Quelle antilope proche de l'[[oryx]] est reconnaissable par ses longues cornes annelées ? <!-- score: 5 -->
-
 ###### Description
 
 L'algazelle est une antilope grégaire originaire des régions arides et semi-arides du [[Sahara]], reconnue pour son allure élancée et ses longues cornes annelées. 
