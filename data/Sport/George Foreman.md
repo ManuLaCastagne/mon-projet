@@ -22,11 +22,12 @@ questions:
  - Quel boxeur américain médaille d'or dans la catégorie lourds a battu le soviétique Jonas Sepulis à Cinéma/Mexico 68 ?
 ---
 
+
 ![Image de George Foreman](https://upload.wikimedia.org/wikipedia/commons/c/cb/George_Foreman_%281973%29.jpg)
 
 ###### Questions
 
-Quel ancien champion de [[boxe]] a remporté le titre mondial des poids lourds pour la deuxième fois en 1994 à l'âge de 45 ans ?
+Quel ancien champion de [[boxe]] a remporté le titre mondial des poids lourds pour la deuxième fois en 1994 à l'âge de 45 ans ? <!-- score: 5 -->
    
 Quel célèbre boxeur a créé une ligne populaire de [[grille-pain]] vendue sous le nom de [[George Foreman Grill]], lancée en 1994 ?
 
