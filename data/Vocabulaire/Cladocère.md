@@ -16,11 +16,12 @@ indice_6 :
   - Crustacés
 ---
 
+
 ![Image de Cladocère](https://upload.wikimedia.org/wikipedia/commons/b/b3/Rodz%C4%85ca_dafnia.jpg)
 
 ###### Questions
 
-Quel groupe de [[crustacés]] planctoniques, souvent utilisé comme indicateur écologique, est connu pour posséder un corps aplati et des antennes utilisées pour la nage ?
+Quel groupe de [[crustacés]] planctoniques, souvent utilisé comme indicateur écologique, est connu pour posséder un corps aplati et des antennes utilisées pour la nage ? <!-- score: 4 -->
 
 Quel est le nom scientifique du groupe de petits animaux aquatiques, principalement d'eau douce, qui comprend le fameux "[[daphnie]]" ?
 
