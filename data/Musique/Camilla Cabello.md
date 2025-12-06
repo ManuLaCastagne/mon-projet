@@ -24,13 +24,14 @@ questions:
  - En 2019, quelle chanteuse cubano-américaine collabore avec Shawn Mendes pour interpréter "Senorita", avant de former un couple avec lui dans la vie?
 ---
 
+
 ![Image de Camilla Cabello](https://upload.wikimedia.org/wikipedia/commons/2/25/Camila_Cabello_Grammys_2017.png)
 
 ###### Questions
 
 Quel est le nom de l'artiste qui a quitté le groupe [[Fifth Harmony]] en 2016 pour poursuivre une carrière solo ?
 
-Quelle chanteuse a sorti le single à succès "[[Havana]]" en 2017, qui a atteint le sommet des charts dans plusieurs pays ?
+Quelle chanteuse a sorti le single à succès "[[Havana]]" en 2017, qui a atteint le sommet des charts dans plusieurs pays ? <!-- score: 8 -->
 
 Qui est l'artiste d'origine cubaine qui a remporté un [[Grammy Award]] du meilleur album pop vocal en 2019 pour son album "[[Camila]]" ?
 
