@@ -22,6 +22,7 @@ questions:
  - Doté d'un cadre rigide ou suspendu en fonction des terrains accidentés parcourus, je suis plus ou moins lourd selon que je suis destiné à pratiquer la randonnée, l'enduro ou la descente. Vélo à roues épaisses et...
 ---
 
+
 ![Image de VTT](https://upload.wikimedia.org/wikipedia/commons/f/f9/Vtt_headquarters_espoo_finland.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel sport, né dans les années [[1970]] en [[Géographie/Californie]], combine
 
 Comment appelle-t-on le sport qui est devenu discipline olympique aux [[Jeux Olympiques]] de [[Sydney]] en [[2000]] et qui se pratique principalement sur des chemins de terre et des sentiers de montagne ?
 
-Quel sport a vu le jour grâce à des passionnés qui ont modifié leurs vélos à [[Marin County]] pour des descentes dans les années [[1970]] ?
+Quel sport a vu le jour grâce à des passionnés qui ont modifié leurs vélos à [[Marin County]] pour des descentes dans les années [[1970]] ? <!-- score: 8 -->
 
 ###### Description
 
