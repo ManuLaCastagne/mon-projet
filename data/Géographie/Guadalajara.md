@@ -25,13 +25,14 @@ questions:
  - En 1986, dans quelle ville mexicaine la France élimine-t-elle le Brésil de la Coupe du monde de football à l'issue des tirs au but?
 ---
 
+
 ![[Carte_Guadalajara.png]]
 
 ###### Questions
 
 Dans quelle ville mexicaine s'est tenue l'[[Exposition internationale]] de 2022 ?
 
-Quelle métropole est la capitale de l'État de [[Jalisco]] au [[Mexique]] ?
+Quelle métropole est la capitale de l'État de [[Jalisco]] au [[Mexique]] ? <!-- score: 3 -->
 
 Quel est le lieu d'origine de la célèbre danse traditionnelle mexicaine connue sous le nom de [[Jarabe tapatío]] ?
 
