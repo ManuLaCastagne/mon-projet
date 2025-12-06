@@ -24,11 +24,12 @@ questions:
  - Quelle chanteuse de jazz américaine, disparue en 1959, surnommait-on Lady Day?
 ---
 
+
 ![Image de Billie Holiday](https://upload.wikimedia.org/wikipedia/commons/b/bf/Portrait_of_Billie_Holiday_and_Mister%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28LOC%2C_5020400274%2C_cropped%29.jpg)
 
 ###### Questions
 
-Quel personnage central de la chanson de [[Billie Holiday]] sortie en 1939, "Strange Fruit", aborde le sujet du lynchage des Afro-Américains en [[Amérique]] ?
+Quel personnage central de la chanson de [[Billie Holiday]] sortie en 1939, "Strange Fruit", aborde le sujet du lynchage des Afro-Américains en [[Amérique]] ? <!-- score: 5 -->
 
 Quel label de jazz a signé [[Billie Holiday]] en 1944, la même année où elle a enregistré son célèbre morceau "Lover Man" ?
 
