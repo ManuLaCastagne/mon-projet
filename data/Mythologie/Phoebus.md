@@ -19,13 +19,14 @@ questions:
   - Par quel surnom, signifiant le Brillant, désigne-t-on aussi Apollon, considéré comme dieu de la Lumière?
 ---
 
+
 ![Image de Phoebus](https://upload.wikimedia.org/wikipedia/commons/1/19/Apollo_of_the_Belvedere.jpg)
 
 ###### Questions
 
 Quel autre nom utilise-t-on souvent pour désigner [[Apollon]], le dieu des arts et de la musique dans la [[mythologie grecque]] ?
 
-Dans quelle tragédie écrite par [[Euripide]] en -431 av. J.-C., [[Phoebus]] est-il directement impliqué en tant que dieu de la prophétie ?
+Dans quelle tragédie écrite par [[Euripide]] en -431 av. J.-C., [[Phoebus]] est-il directement impliqué en tant que dieu de la prophétie ? <!-- score: 5 -->
 
 En référence au surnom de [[Phoebus]], quel dieu grec est souvent associé au [[Soleil]] et a été vénéré dans toute la Grèce antique ?
 
