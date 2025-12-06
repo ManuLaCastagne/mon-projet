@@ -20,6 +20,7 @@ questions:
  - Quel animal fabuleux du bestiaire médiéval avait le pouvoir de purifier les eaux en y trempant son unique corne frontale?
 ---
 
+
 ![Image de Licorne](https://upload.wikimedia.org/wikipedia/commons/4/4e/Corre-La_Licorne_1913_Tour_de_France.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel animal mythique était représenté sur la légendaire [[Tapisserie de La D
 
 Quel animal fantastique est mentionné dans la description du jardin des animaux du roi dans le roman satirique "[[Gargantua]]" de [[François Rabelais]] publié en 1534 ?
 
-Quel animal mythologique fut officiellement retiré du bestiaire biblique par le [[Pape Paul V]] en [[Anno Domini 1608]] ?
+Quel animal mythologique fut officiellement retiré du bestiaire biblique par le [[Pape Paul V]] en [[Anno Domini 1608]] ? <!-- score: 4 -->
 
 ###### Description
 
