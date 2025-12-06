@@ -24,11 +24,12 @@ questions:
  - Dans un film d'animation de Michel Ocelot, quel enfant délivre la sorcière Karaba de sa méchanceté, grâce aux sages de la Montagne interdite?
 ---
 
+
 ![Image de Kirikou](https://upload.wikimedia.org/wikipedia/commons/1/1a/Kirikou_et_la_Sorci%C3%A8re_logo.jpg)
 
 ###### Questions
 
-Quel personnage de film d'animation créé par [[Michel Ocelot]] en 1998 est considéré comme un exemple de courage et de sagesse malgré sa petite taille ?
+Quel personnage de film d'animation créé par [[Michel Ocelot]] en 1998 est considéré comme un exemple de courage et de sagesse malgré sa petite taille ? <!-- score: 7 -->
 
 Quel héros de la série de films débutant par "[[Kirikou et la Sorcière]]" a connu une adaptation en pièce de théâtre en 2007 à l'initiative de la célèbre chanteuse [[Youssou N'Dour]] ?
 
