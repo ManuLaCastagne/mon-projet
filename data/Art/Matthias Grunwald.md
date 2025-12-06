@@ -25,17 +25,13 @@ questions:
  - Entre 1512 et 1516, quel peintre allemand réalise son chef-d'œuvre en exécutant la partie peinte du retable "Antonin d'Issenheim" ?
 ---
 
-
 ![Image de Matthias Grunwald](https://upload.wikimedia.org/wikipedia/commons/7/7c/Joachim_von_Sandrart-Teutsche_Academie_der_Edlen_Bau_Bild_und_Mahlerey-Kuenste-Matthias_Gruenewald-1679.jpg)
 
 ###### Questions
 
-Dans quelle œuvre d'[[art]], achevée en 1515, le peintre [[Matthias Grunwald]] a-t-il illustré de manière saisissante la crucifixion du [[Christ]], reflétant le style expressionniste avant l'heure ? <!-- score: 5 -->
+En 1515, qui a illustré de manière saisissante la crucifixion du [[Christ]], reflétant le style expressionniste avant l'heure ? <!-- score: 5 -->
 
-Quel célèbre retable, créé par [[Matthias Grunwald]] et exposé à [[Colmar]], est réputé pour ses détails minutieux et son impact émotionnel, et a eu une influence considérable sur l'[[art]] du [[XVIe siècle]] ? 
-
-En quelle année [[Matthias Grunwald]], peintre du retable d'[[Issenheim]], a-t-il été recensé pour la dernière fois dans les archives de la ville de [[Halle-sur-Saale]], laissant planer un mystère sur les dernières années de sa vie ?
-
+Qui a réalisé le retable d'[[Issenheim]] ? <!-- score: 5 -->
 ###### Description
 
 [[Matthias Grunwald]], mieux connu sous le nom de [[Matthias Grünewald]], était un peintre et graveur allemand du début du XVIe siècle, actif principalement entre 1500 et 1528. 
