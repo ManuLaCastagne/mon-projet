@@ -16,13 +16,14 @@ indice_6 :
   - cuticule
 ---
 
+
 ![Image de Paronyque](https://upload.wikimedia.org/wikipedia/commons/5/5a/Paronychia_wilkinsonii_-_Flickr_-_aspidoscelis_%284%29.jpg)
 
 ###### Questions
 
 Comment appelle-t-on l'inflammation douloureuse qui se développe autour des ongles, souvent causée par une infection bactérienne ou fongique ?
 
-Quel terme médical désigne une condition courante, touchant fréquemment les personnes qui se rongent les ongles ou les [[esthéticiennes]] ?
+Quel terme médical désigne une condition courante, touchant fréquemment les personnes qui se rongent les ongles ou les [[esthéticiennes]] ? <!-- score: 3 -->
 
 Quel est le mot utilisé pour nommer l'infection qui peut être prévenue par des mesures d'hygiène lors de [[manucures]] ?
 
