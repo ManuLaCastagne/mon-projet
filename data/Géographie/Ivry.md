@@ -26,6 +26,7 @@ questions:
  - En 1590, lors de quelle bataille Henri IV prévient-il ses troupes par ces mots   "Si vous perdez vos enseignes, ralliez-vous à mon panache blanc !" ?
 ---
 
+
 ![Image de Ivry](https://upload.wikimedia.org/wikipedia/commons/2/27/Immeubles_place_Voltaire_Ivry_Seine_6.jpg)
 
 ![[Carte_Ivry.png]]
@@ -35,7 +36,7 @@ Dans quelle ville française d'Île-de-France, connue pour son patrimoine indust
 
 Quel [[quartier d'Ivry]], autrefois nommé [[Ivry-Port]], est devenu célèbre pour sa transformation urbaine en un vaste programme de logements et d'équipements lancé par [[Jean Renaudie]] dans les années 1970 ?
 
-Quel fleuve traverse la ville d'[[Ivry-sur-Seine]], reliant cette commune à la capitale française depuis des siècles comme une voie de commerce et de transport essentielle ?
+Quel fleuve traverse la ville d'[[Ivry-sur-Seine]], reliant cette commune à la capitale française depuis des siècles comme une voie de commerce et de transport essentielle ? <!-- score: 5 -->
 
 ###### Description
 
