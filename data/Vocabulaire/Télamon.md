@@ -17,13 +17,14 @@ indice_6:
 ---
 
 
+
 ![Image de Télamon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Atlantit_by_Robert_Stigell.JPG/500px-Atlantit_by_Robert_Stigell.JPG)
 
 ###### Questions
 
 Quel personnage de la [[mythologie grecque]] a donné son nom à un baudrier ?
 
-Quel personnage de la [[mythologie grecque]] a donné son nom à une [[cariatide]] masculine ? <!-- score: 4 -->
+Quel personnage de la [[mythologie grecque]] a donné son nom à une [[cariatide]] masculine ? <!-- score: 3 -->
 
 Qui est le père des héros [[Ajax]] et [[Teucer]], et est connu pour avoir participé à la quête de la [[Toison d’Or]] avec [[Jason]] ?
 
