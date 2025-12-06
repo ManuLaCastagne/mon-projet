@@ -21,11 +21,12 @@ indice_6:
 ---
 
 
+
 ![Image de Joachim du Bellay](https://upload.wikimedia.org/wikipedia/commons/a/a8/Joachim_du_Bellay_%281522-1560%29.jpg)
 
 ###### Questions
 
-Quel écrivain est né en Anjou vers 1522, au [[château de la Turmelière]], qu'il célébra dans son recueil "Les Regrets"?
+Quel écrivain est né en Anjou vers 1522, au [[château de la Turmelière]], qu'il célébra dans son recueil "Les Regrets"? <!-- score: 3 -->
 
 En quelle année [[Joachim du Bellay]] publie-t-il le célèbre recueil de poèmes intitulé "[[Les Regrets]]", qui évoque ses impressions lors de son séjour à [[Rome]] ? <!-- score: 5 -->
 
