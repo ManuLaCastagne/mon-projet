@@ -24,6 +24,7 @@ questions:
  - Jouant le rôle du lieutenant Frank Drebin dans la série "Y a-t-il un flic?" et disparu en 2010, je suis…
 ---
 
+
 ![Image de Leslie Nielsen](https://upload.wikimedia.org/wikipedia/commons/0/0d/Leslie_Nielsen.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel acteur, connu pour ses rôles comiques, a commencé sa carrière en tant qu
 
 Quel acteur a incarné le personnage principal de la série de films parodiques "Y a-t-il un flic pour sauver..." à partir de 1988 ?
 
-Qui a interprété Frank Drebin dans le film "Y a-t-il un pilote dans l'avion ?" en 1980 ?
+Qui a interprété Frank Drebin dans le film "Y a-t-il un pilote dans l'avion ?" en 1980 ? <!-- score: 3 -->
 
 ###### Description
 
