@@ -16,11 +16,12 @@ indice_6 :
   - Discours immédiat
 ---
 
+
 ![Image de Écholalie](https://upload.wikimedia.org/wikipedia/commons/6/66/Autism_Aspect_Echolalia_1.png)
 
 ###### Questions
 
-Quel est le terme utilisé en psychologie pour décrire la répétition automatique et sans signification des paroles d'une autre personne, souvent observée chez les personnes atteintes de [[troubles du spectre de l'autisme]] ?
+Quel est le terme utilisé en psychologie pour décrire la répétition automatique et sans signification des paroles d'une autre personne, souvent observée chez les personnes atteintes de [[troubles du spectre de l'autisme]] ? <!-- score: 4 -->
 
 Comment appelle-t-on le phénomène où un individu répète comme un écho des mots ou phrases entendues, souvent étudié dans le cadre des troubles de la communication ?
 

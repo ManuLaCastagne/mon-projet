@@ -23,13 +23,14 @@ indice_6:
   - Nu couché
 ---
 
+
 ![Image de Auguste Renoir](https://upload.wikimedia.org/wikipedia/commons/b/b5/Renoir%2C_Pierre-Auguste%2C_by_Dornac%2C_BNF_Gallica.jpg)
 
 ###### Questions
 
 Quel peintre fut l'élève du compositeur [[Charles Gounod]] ?
 
-Qui a réalisé en 1868 la toile "Lise à l'ombrelle" ? 
+Qui a réalisé en 1868 la toile "Lise à l'ombrelle" ? <!-- score: 4 -->
 
 Qui a participé en 1874 à la première exposition des Impressionnistes, et réalisa par la suite des tableaux comme "La Balançoire", "Madame Charpentier et ses enfants", "Le Bal du Moulin de la Galette" ?
 

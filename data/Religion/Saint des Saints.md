@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Saint des Saints](https://upload.wikimedia.org/wikipedia/commons/2/25/Procession_des_saints_de_Bretagne_-_dioc%C3%A8se_de_Saint-Malo%2C_cath%C3%A9drale_saint_Pierre%2C_Rennes%2C_France.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans quelles parties du [[Temple de Jérusalem]] les [[Grands Prêtres]] entraie
 
 Quel espace du [[Premier Temple de Salomon]], considéré comme l'endroit le plus sacré, abritait l'[[Arche d'alliance]] avant sa destruction en [[586 av. J.-C.]]?
 
-Quel lieu, traduit en hébreu par le terme "[[Kodesh Hakodashim]]", se trouvait derrière le [[voile]] dans le sanctuaire central du [[Tabernacle]]? <!-- score: 4 -->
+Quel lieu, traduit en hébreu par le terme "[[Kodesh Hakodashim]]", se trouvait derrière le [[voile]] dans le sanctuaire central du [[Tabernacle]]? <!-- score: 3 -->
 
 ###### Description
 

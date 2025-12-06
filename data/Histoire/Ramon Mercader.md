@@ -20,6 +20,7 @@ indice_6:
   - NKVD
 ---
 
+
 ![Image de Ramon Mercader](https://upload.wikimedia.org/wikipedia/commons/7/79/Ramon_mercader_grave.jpeg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Le 20 août 1940, quel agent secret, envoyé par l'URSS, gagne la confiance de L
 
 Qui a été décoré de l'[[Ordre de Lénine]] par [[Josef Staline]] pour le meurtre de [[Trotski]] ?
 
-Quel agent secret a passé plus de 20 ans en prison au [[Mexique]] après avoir commis un assassinat politique majeur ?
+Quel agent secret a passé plus de 20 ans en prison au [[Mexique]] après avoir commis un assassinat politique majeur ? <!-- score: 4 -->
 
 ###### Description
 

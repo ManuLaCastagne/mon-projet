@@ -24,6 +24,7 @@ questions:
  - après que Gene Kelly l'a vu se produire sur scène, pour quelle célèbre comédie musicale filmée de Vincente Minnelli, se déroulant également dans la capitale française, Georges Guétary a-t-il été engagé?
 ---
 
+
 ![Image de Un Américain à Paris](https://upload.wikimedia.org/wikipedia/commons/f/f1/Un_Mariage_bien_am%C3%A9ricain_-_sc%C3%A9nario_%28r%C3%A9sum%C3%A9_conforme_%C3%A0_la_vue%29_avec_photogrammes_-_btv1b6404817x_%283_of_3%29.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quelle comédie musicale, inspirée d'une musique de [[George Gershwin]], a remp
 
 Quel film sorti en 1951, réalisé par [[Vincente Minnelli]], a remporté six Oscars, dont celui du meilleur film ?
 
-Dans quel film, l'acteur et danseur [[Gene Kelly]] interprète-t-il le rôle principal, combinant musique, danse et romance dans la [[Ville Lumière]] ?
+Dans quel film, l'acteur et danseur [[Gene Kelly]] interprète-t-il le rôle principal, combinant musique, danse et romance dans la [[Ville Lumière]] ? <!-- score: 6 -->
 
 ###### Description
 

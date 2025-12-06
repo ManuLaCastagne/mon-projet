@@ -22,11 +22,12 @@ questions:
  - Elu président de la République l'année suivante après l'assassinat de Paul Doumer, je suis réélu en 1939 mais me retire après l'armistice et la formation du gouvernement de Vichy...
 ---
 
+
 ![Image de Albert Lebrun](https://upload.wikimedia.org/wikipedia/commons/5/5c/Albert_Lebrun_1937.jpg)
 
 ###### Questions
 
-Quel président français était en fonction lors de l'invasion de la Pologne par l'Allemagne en [[1939]] ?
+Quel président français était en fonction lors de l'invasion de la Pologne par l'Allemagne en [[1939]] ? <!-- score: 7 -->
 
 Qui a été le dernier président de la [[Troisième République française]] avant l'instauration du régime de [[Vichy]] en [[1940]] ?
 

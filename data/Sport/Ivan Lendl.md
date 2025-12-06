@@ -22,6 +22,7 @@ questions:
  - Joueur de tennis ayant fait évoluer le jeu de fond de court en étant plus offensif que mes prédécesseurs. En 84, je remporte la finale de Roland-Garros alors que j'étais mené 2 sets à zéro par John McEnroe. Tennisman d'origine tchèque...
 ---
 
+
 ![Image de Ivan Lendl](https://upload.wikimedia.org/wikipedia/commons/3/3b/Ivan_Lendl.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel joueur de tennis a été le premier à atteindre huit finales consécutives
 
 Quel célèbre joueur de tennis a remporté trois titres consécutifs à l'[[US Open]] entre 1985 et 1987 ?
 
-Quel ancien numéro un mondial de tennis a été entraîneur de [[Andy Murray]] à partir de 2014 ?
+Quel ancien numéro un mondial de tennis a été entraîneur de [[Andy Murray]] à partir de 2014 ? <!-- score: 4 -->
 
 ###### Description
 

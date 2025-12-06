@@ -24,11 +24,12 @@ questions:
  - En 1987, quel film de Percy Adlon avec Marianne Sagebrecht et Jack Palance se déroule dans un motel au bord de la route 66 aux Etats-Unis?
 ---
 
-![Image de Bagdad Café](https://upload.wikimedia.org/wikipedia/commons/f/f0/Newberry_Springs_Bagdad_Cafe%3B_Avril_2012.jpg)
+
+![Image de Bagdad Café](https://upload.wikimedia.org/wikipedia/commons/f/f0/Newberry_Springs_Bagdad_Cafe%3B_Avril_2012.jpg)
 
 ###### Questions
 
-Quel film de 1987 se déroule dans un petit café perdu dans le désert de [[Mojave]], renommé pour sa bande sonore iconique composée par [[Bob Telson]] ?
+Quel film de 1987 se déroule dans un petit café perdu dans le désert de [[Mojave]], renommé pour sa bande sonore iconique composée par [[Bob Telson]] ? <!-- score: 3 -->
 
 Quel long-métrage doit sa notoriété en partie à la chanson phare "[[Calling You]]", interprétée par [[Jevetta Steele]], qui a été nominée pour l'[[Oscar de la meilleure chanson originale]] en 1989 ?
 

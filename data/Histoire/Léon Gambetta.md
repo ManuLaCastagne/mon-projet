@@ -22,11 +22,12 @@ questions:
  - En 1870, en France, après la défaite de Sedan, quel avocat quitte Paris en ballon, quelques semaines après avoir proclamé la République ?
 ---
 
-![Image de Léon Gambetta](https://upload.wikimedia.org/wikipedia/commons/d/d0/%28Cahors%29_Portrait_de_L%C3%A9on_Gambetta_par_Bocquet_1865_-_Mus%C3%A9e_de_Cahors_Henri-Martin.jpg)
+
+![Image de Léon Gambetta](https://upload.wikimedia.org/wikipedia/commons/d/d0/%28Cahors%29_Portrait_de_L%C3%A9on_Gambetta_par_Bocquet_1865_-_Mus%C3%A9e_de_Cahors_Henri-Martin.jpg)
 
 ###### Questions
 
-Quel célèbre homme politique français du XIXe siècle a utilisé un ballon pour quitter [[Paris assiégé]] et rejoindre [[Tours]] en 1870 ?
+Quel célèbre homme politique français du XIXe siècle a utilisé un ballon pour quitter [[Paris assiégé]] et rejoindre [[Tours]] en 1870 ? <!-- score: 4 -->
 
 Qui est devenu ministre de l'Intérieur du [[Gouvernement de la Défense nationale]] en [[1870]] ?
 

@@ -27,8 +27,6 @@ questions:
 ###### Questions
 
 Quelle athlète, également connue pour sa carrière de [[danseuse]], a remporté une médaille d'or en gymnastique en 1960 ? <!-- score: 5 -->
-
-Qui a représenté la [[France]] dans une compétition internationale de patinage artistique en 1952 ? <!-- score: 5 -->
 ###### Description
 
 [[Ludmilla Tcherina]] est née à [[Paris]] en [[1924]], bien qu'elle soit principalement reconnue pour ses accomplissements en [[danse]] et [[cinéma]], elle a également marqué l'histoire du [[sport]]. 

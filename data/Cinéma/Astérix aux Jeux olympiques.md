@@ -24,7 +24,8 @@ questions:
  - En 2008, dans quelle comédie avec Alain Delon, Clovis Cornillac et Gérard Depardieu, Amélie Mauresmo apparaît-elle?
 ---
 
-![Image de Astérix aux Jeux olympiques](https://upload.wikimedia.org/wikipedia/commons/8/88/Benoit_Poelvoorde_%C3%A0_l%27avant_premi%C3%A8re_de_Ast%C3%A9rix_en_2008..jpg)
+
+![Image de Astérix aux Jeux olympiques](https://upload.wikimedia.org/wikipedia/commons/8/88/Benoit_Poelvoorde_%C3%A0_l%27avant_premi%C3%A8re_de_Ast%C3%A9rix_en_2008..jpg)
 
 ###### Questions
 
@@ -32,7 +33,7 @@ Quel film, sorti en 2008, est connu pour être l'un des films les plus coûteux 
 
 Dans quel film célèbre voit-on apparaître l'ancien coureur automobile [[Michael Schumacher]], qui y joue son propre rôle dans une scène humoristique lors d'une course de chars ?
 
-Quel film, qui fait suite à [[Astérix et Obélix : Mission Cléopâtre]], propose un caméo du footballeur [[Zinédine Zidane]] en tant qu'athlète olympique ?
+Quel film, qui fait suite à [[Astérix et Obélix : Mission Cléopâtre]], propose un caméo du footballeur [[Zinédine Zidane]] en tant qu'athlète olympique ? <!-- score: 4 -->
 
 ###### Description
 

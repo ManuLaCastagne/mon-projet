@@ -26,13 +26,14 @@ questions:
   - Quel site naturel du nord de l'Arizona, visible dans "La Charge héroïque" de John Ford, est un territoire sacré pour les Indiens...
 ---
 
+
 ![Image de Monument Valley](https://upload.wikimedia.org/wikipedia/commons/6/62/John_Ford%27s_Point_Monument_Valley_Luca_Galuzzi_2007.jpg)
 
 ###### Questions
 
 Quel site iconique de l'Ouest américain, utilisé comme cadre par [[John Ford]] pour le film "[[La Chevauchée fantastique]]" en [[1939]], est célèbre pour ses structures naturelles imitant des formes architecturales impressionnantes ?
 
-Dans quelle vallée, localisée à la frontière entre l'[[Arizona]] et l'[[Utah]], peut-on trouver des formations géologiques rappelant des monuments sculptés par la nature elle-même, populaires dans les films et la photographie ?
+Dans quelle vallée, localisée à la frontière entre l'[[Arizona]] et l'[[Utah]], peut-on trouver des formations géologiques rappelant des monuments sculptés par la nature elle-même, populaires dans les films et la photographie ? <!-- score: 4 -->
 
 Quel endroit géré par la [[Navajo Nation]] est reconnu pour ses paysages grandioses et ses caractéristiques rocheuses qui ont inspiré de nombreux artistes et réalisateurs depuis sa première description publiée en [[1931]] ?
 

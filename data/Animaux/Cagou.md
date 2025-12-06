@@ -17,11 +17,12 @@ questions:
  - Quel oiseau inapte au vol tend à se raréfier en Nouvelle-Calédonie ?
 ---
 
+
 ![Image de Cagou](https://upload.wikimedia.org/wikipedia/commons/a/a4/Rhynochetos_jubatus_MHNT.ZOO.2010.11.2.19.jpg)
 
 ###### Questions
 
-Quel est l'oiseau emblématique de la [[Nouvelle-Calédonie]], qui bien qu'étant incapable de voler, est connu pour son cri distinctif appelé "cri du diable" ?
+Quel est l'oiseau emblématique de la [[Nouvelle-Calédonie]], qui bien qu'étant incapable de voler, est connu pour son cri distinctif appelé "cri du diable" ? <!-- score: 4 -->
 
 Quel animal est cité comme étant le seul membre de la famille des [[Rhynochetidae]], un groupe d'oiseaux vivant exclusivement en [[Nouvelle-Calédonie]]?
 

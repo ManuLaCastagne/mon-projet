@@ -22,6 +22,7 @@ questions:
 ---
 
 
+
 ![Image de Crête](https://upload.wikimedia.org/wikipedia/commons/c/ca/Venetian_Fortress_of_Koules_in_Heraklion%2C_Crete_003.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quel lieu légendaire, situé sur l'île de [[Crête]], le roi [[Minos]] au
 
 Quelle île méditerranéenne, attribuée comme le lieu de naissance de [[Zeus]] d'après la [[mythologie grecque]], abritait le [[Mont Ida]], aussi connu sous le nom de [[Psiloritis]], où [[Rhéa]] aurait caché son fils pour le protéger de [[Cronos]] ?
 
-Selon le mythe de [[Thésée]], quelle île est liée à sa victoire sur le [[Minotaure]], un événement qui aurait influencé le festival d'[[Athènes]] connu sous le nom des [[Grandes Panathénées]] datant de la période classique de la Grèce ancienne ? <!-- score: 4 -->
+Selon le mythe de [[Thésée]], quelle île est liée à sa victoire sur le [[Minotaure]], un événement qui aurait influencé le festival d'[[Athènes]] connu sous le nom des [[Grandes Panathénées]] datant de la période classique de la Grèce ancienne ? <!-- score: 3 -->
 
 ###### Description
 

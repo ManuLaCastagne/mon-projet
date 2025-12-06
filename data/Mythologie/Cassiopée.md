@@ -19,6 +19,7 @@ indice_6:
 ---
 
 
+
 ![Image de Cassiopée](https://upload.wikimedia.org/wikipedia/commons/a/a7/Cassiop%C3%A9e_au_festival_fiert%C3%A9_Montr%C3%A9al_2019.png)
 
 ###### Questions
@@ -27,7 +28,7 @@ Quelle reine légendaire d'Ethiopie a donné son nom à une constellation dont u
 
 Dans quelle constellation se trouve le trône de [[Cassiopée]], visible tout au long de l'année dans l'hémisphère nord depuis environ 2400 avant [[Jésus]] selon les anciens astronomes grecs ? <!-- score: 10 -->
 
-Quel personnage mythologique vaniteux, punie par [[Poséidon]] en raison de son égoïsme, fut transformé en une constellation évoquée dès le IIe siècle par [[Ptolémée]] dans son ouvrage Almageste ?
+Quel personnage mythologique vaniteux, punie par [[Poséidon]] en raison de son égoïsme, fut transformé en une constellation évoquée dès le IIe siècle par [[Ptolémée]] dans son ouvrage Almageste ? <!-- score: 4 -->
 
 Quel est le nom de la reine, épouse du roi [[Céphée]] d'[[Éthiopie]], dont la légende inspire une constellation immuable mentionnée pour la première fois dans les récits mythologiques grecs datant du VIIIe siècle avant [[Jésus]] ?
 

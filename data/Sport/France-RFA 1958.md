@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de France-RFA 1958](https://upload.wikimedia.org/wikipedia/commons/7/76/M%C3%A9moires_de_la_Soci%C3%A9t%C3%A9_royale_des_sciences_de_Li%C3%A8ge_%28IA_moiresdelasociro2267soci%29.pdf)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans quel match de [[Coupe du Monde de la FIFA]] de [[football]] de [[1958]] a e
 
 Quelle rencontre a vu au total dix buts marqués lors des quarts de finale de la [[Coupe du Monde 1958]] entre la [[France]] et la [[RFA]] ? <!-- score: 10 -->
 
-Dans quelle confrontation historique de la [[Coupe du Monde 1958]] [[Just Fontaine]] a-t-il réalisé une performance remarquable en marquant quatre buts ?
+Dans quelle confrontation historique de la [[Coupe du Monde 1958]] [[Just Fontaine]] a-t-il réalisé une performance remarquable en marquant quatre buts ? <!-- score: 7 -->
 
 ###### Description
 

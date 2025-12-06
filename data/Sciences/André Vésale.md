@@ -22,16 +22,15 @@ questions:
  - Quel médecin de Belgique né à Bruxelles en 1514 est considéré comme le fondateur de l'anatomie moderne ?
 ---
 
-![Image de André Vésale](https://upload.wikimedia.org/wikipedia/commons/1/1d/Emile_Picault_-_Andr%C3%A9_V%C3%A9sale_02.jpg)
+![Image de André Vésale](https://upload.wikimedia.org/wikipedia/commons/1/1d/Emile_Picault_-_Andr%C3%A9_V%C3%A9sale_02.jpg)
 
 ###### Questions
 
-En quelle année [[André Vésale]] a-t-il publié son ouvrage révolutionnaire sur l'anatomie, intitulé "De humani corporis fabrica", marquant une avancée majeure dans la connaissance du corps humain ?
+Quel célèbre anatomiste belge, né en 1514, a publié son ouvrage révolutionnaire sur l'anatomie, intitulé "De humani corporis fabrica", marquant une avancée majeure dans la connaissance du corps humain ? <!-- score: 5 -->
 
-Lors de quelle année [[André Vésale]] est-il devenu le médecin personnel de l'empereur [[Charles Quint]], lui conférant un statut influent dans le domaine médical au XVIème siècle ?
+Qui est devenu le médecin personnel de l'empereur [[Charles Quint]], lui conférant un statut influent dans le domaine médical au XVIème siècle ? <!-- score: 5 -->
 
 Quel célèbre anatomiste belge, né en 1514, est reconnu pour avoir corrigé les erreurs de [[Galien]] grâce à ses dissections rigoureuses, influençant profondément la médecine moderne et l'enseignement de l'anatomie ?
-
 ###### Description
 
 [[André Vésale]], né à [[Bruxelles]] en 1514, est considéré comme l'un des pères de l'anatomie moderne grâce à son œuvre révolutionnaire, "De humani corporis fabrica", publiée en 1543. 

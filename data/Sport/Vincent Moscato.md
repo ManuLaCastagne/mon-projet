@@ -22,13 +22,14 @@ questions:
  - Quel ancien rugbyman, talonneur à Bègles et au Stade Français, est désormais un comédien qui anime...
 ---
 
+
 ![Image de Vincent Moscato](https://upload.wikimedia.org/wikipedia/commons/8/89/Vincent_Moscato_01-2009.jpg)
 
 ###### Questions
 
 Quel ancien joueur de [[rugby à XV]] français a joué pour le [[Stade Français]] entre [[1997]] et [[1999]] ?
 
-Quel ancien rugbyman a participé à l'émission [[Danse avec les stars]] en [[2018]] en France ?
+Quel ancien rugbyman a participé à l'émission [[Danse avec les stars]] en [[2018]] en France ? <!-- score: 4 -->
 
 Quel ex-sportif de haut niveau est devenu animateur radio sur [[RMC]] avec l'émission [[Super Moscato Show]] ?
 

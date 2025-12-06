@@ -24,13 +24,14 @@ questions:
  - Compositrice et interprète née à Paris en 1906, épouse du philosophe Emmanuel Berl, j'ai débuté à Londres à l'âge de 6 ans en interprétant dans un film un rôle de petit garçon.
 ---
 
+
 ![Image de Mireille (compositrice)](https://upload.wikimedia.org/wikipedia/commons/1/16/Mireille_Soria_by_Gage_Skidmore.jpg)
 
 ###### Questions
 
 [[Mireille]] a cofondé en 1932 avec [[Jean Nohain]] l'école de la chanson, qui a formé de nombreux artistes célèbres. Qui en est à l'origine ?
 
-En 1953, elle a composé pour le film ''[[Femmes de Paris]]'', mettant en vedette [[Michel Simon]]. Qui est la compositrice de la musique du film ?
+En 1953, elle a composé pour le film ''[[Femmes de Paris]]'', mettant en vedette [[Michel Simon]]. Qui est la compositrice de la musique du film ? <!-- score: 4 -->
 
 [[Mireille]], née à [[Paris]] en 1906, a collaboré avec plusieurs grandes stars de la chanson française, dont [[Charles Trenet]] et [[Henri Salvador]]. Qui est cette figure emblématique de la musique française ?
 

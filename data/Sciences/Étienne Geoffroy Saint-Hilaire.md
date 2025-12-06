@@ -20,6 +20,7 @@ indice_6:
   - Muséum national d'Histoire naturelle
 ---
 
+
 ![Image de Etienne Geoffroy Saint-Hilaire](https://upload.wikimedia.org/wikipedia/commons/5/5c/Geoffroy_Saint-Hilaire_%C3%89tienne_1772-1844.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ En 1798, quel naturaliste français a accompagné [[Napoléon Bonaparte]] lors d
 
 Quel scientifique a introduit le concept d'[[unité de composition]] dans le domaine de l'anatomie comparée en 1822, remettant en question les idées de [[Jean-Baptiste Lamarck]] ?
 
-Lors de l'année 1830, qui a participé à la célèbre controverse avec [[Georges Cuvier]] sur la question de l'anatomie des vertébrés, posant ainsi les bases de la [[théorie de l'évolution]] ?
+Lors de l'année 1830, qui a participé à la célèbre controverse avec [[Georges Cuvier]] sur la question de l'anatomie des vertébrés, posant ainsi les bases de la [[théorie de l'évolution]] ? <!-- score: 3 -->
 
 ###### Description
 

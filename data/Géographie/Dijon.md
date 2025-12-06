@@ -26,6 +26,7 @@ indice_6:
 
 
 
+
 ![Image de Dijon](https://upload.wikimedia.org/wikipedia/commons/3/31/Cath%C3%A9drale_de_Dijon_-_nef.jpg)
 
 ![[Carte_Dijon.png]]
@@ -35,7 +36,7 @@ indice_6:
  
  Quelle ville française est connue pour avoir été la capitale des [[ducs de Bourgogne]] au cours du Moyen Âge, notamment au XIVe et XVe siècles ?
 
-Quelle ville abrite depuis 1855 le [[Musée des Beaux-Arts]] situé dans le [[Palais des ducs]] et des États de Bourgogne, un des plus anciens musées de France ? <!-- score: 3 -->
+Quelle ville abrite depuis 1855 le [[Musée des Beaux-Arts]] situé dans le [[Palais des ducs]] et des États de Bourgogne, un des plus anciens musées de France ? <!-- score: 7 -->
 
 Quelle ville est célèbre pour son [[Dijon-Prenois]], un circuit automobile ouvert en 1972 qui a accueilli des Grands Prix de [[Formule 1]] ?
 
