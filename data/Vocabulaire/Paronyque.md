@@ -22,10 +22,9 @@ indice_6 :
 
 Comment appelle-t-on l'inflammation douloureuse qui se développe autour des ongles, souvent causée par une infection bactérienne ou fongique ?
 
-Quel terme médical désigne une condition courante, touchant fréquemment les personnes qui se rongent les ongles ou les [[esthéticiennes]] ?
+Quel terme médical désigne une condition courante, touchant fréquemment les personnes qui se rongent les ongles ou les [[esthéticiennes]] ? <!-- score: 3 -->
 
 Quel est le mot utilisé pour nommer l'infection qui peut être prévenue par des mesures d'hygiène lors de [[manucures]] ?
-
 ###### Description
 
 Le terme "paronyque" désigne une inflammation du repli cutané entourant l'ongle, souvent causée par une infection bactérienne ou fongique. Cette condition a été étudiée par des dermatologues comme [[Paul Gerson Unna]], connu pour ses contributions en dermatologie. 

@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Jean-Claude Drouot](https://upload.wikimedia.org/wikipedia/commons/6/62/Jean-Claude_Drouot.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel acteur a incarné le rôle principal dans la série télévisée française
 
 Quel acteur a interprété le rôle de [[Jean Valjean]] dans la mini-série télévisée française intitulée [[Les Misérables]] en [[1972]] ?
 
-Quel comédien belge a joué aux côtés de [[Delphine Seyrig]] dans le téléfilm "La mort d'un guide" diffusé en [[1977]] ?
+Quel comédien belge a joué aux côtés de [[Delphine Seyrig]] dans le téléfilm "La mort d'un guide" diffusé en [[1977]] ? <!-- score: 3 -->
 
 ###### Description
 

@@ -22,13 +22,14 @@ indice_6:
   - Statue Notre-Dame de France
 ---
 
+
 ![[Carte_Puy-en-Velay.png]]
 
 ###### Questions
 
 [[Quel site français]] est le point de départ de la célèbre [[via Podiensis]], l'un des chemins du [[pèlerinage de Saint-Jacques-de-Compostelle]] ?
 
-Dans quelle ville débute traditionnellement la fameuse course à pied de montagne, [[Le Grand Trail du Saint-Jacques]] ?
+Dans quelle ville débute traditionnellement la fameuse course à pied de montagne, [[Le Grand Trail du Saint-Jacques]] ? <!-- score: 4 -->
 
 Quel chef-lieu du département de [[la Haute-Loire]], en région [[Auvergne-Rhône-Alpes]], est connu pour sa [[Cathédrale Notre-Dame du Puy]], classée au [[patrimoine mondial de l'UNESCO]] ?
 

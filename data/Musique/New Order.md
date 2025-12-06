@@ -24,11 +24,12 @@ questions:
  - Interprète du célèbre morceau "Blue Monday".
 ---
 
+
 ![Image de New Order](https://upload.wikimedia.org/wikipedia/commons/3/38/New_Order%2C_Chile_2019_%2839751785423%29.jpg)
 
 ###### Questions
 
-Quel groupe de musique a été formé par les membres restants de [[Joy Division]] après la mort tragique de [[Ian Curtis]] en 1980 ? 
+Quel groupe de musique a été formé par les membres restants de [[Joy Division]] après la mort tragique de [[Ian Curtis]] en 1980 ? <!-- score: 3 -->
 
 Quel groupe britannique a sorti en 1983 le single "[[Blue Monday]]", connu pour être l'un des singles les plus vendus de tous les temps en [[vinyle]] 12 pouces ? 
 

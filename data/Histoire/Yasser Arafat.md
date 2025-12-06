@@ -22,11 +22,12 @@ questions:
  - En 1994, quel leader palestinien reçoit le prix Nobel de la paix avec les Israéliens Shimon Peres et Yitzhak Rabin ?
 ---
 
+
 ![Image de Yasser Arafat](https://upload.wikimedia.org/wikipedia/commons/0/0d/Shimon_Peres%2C_Yasser_Arafat_-_World_Economic_Forum_Annual_Meeting_Davos_2001.jpg)
 
 ###### Questions
 
-Quel leader palestinien a reçu le prix [[Nobel de la paix]] en [[1994]] avec [[Shimon Peres]] et [[Yitzhak Rabin]] pour leurs efforts visant à créer la paix au [[Proche-Orient]] ?
+Quel leader palestinien a reçu le prix [[Nobel de la paix]] en [[1994]] avec [[Shimon Peres]] et [[Yitzhak Rabin]] pour leurs efforts visant à créer la paix au [[Proche-Orient]] ? <!-- score: 4 -->
 
 Quel dirigeant de l'[[Organisation de libération de la Palestine]] ([[OLP]]) a prononcé un discours historique devant l'[[Assemblée générale des Nations unies]] en [[1974]], y apportant pour la première fois le point de vue du peuple palestinien ?
 
