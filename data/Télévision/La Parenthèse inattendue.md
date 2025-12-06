@@ -22,13 +22,14 @@ questions:
  - Dès 2012, dans quelle émission, tournée en partie en extérieur, Frédéric Lopez a-t-il invité 3 personnalités à la campagne pour évoquer leurs souvenirs?
 ---
 
+
 ![Image de La Parenthèse inattendue](https://upload.wikimedia.org/wikipedia/commons/2/23/La_parenth%C3%A8se_inattendue.png)
 
 ###### Questions
 
 Quel programme télévisé de [[Frédéric Lopez]], diffusé pour la première fois en [[2012]], réunissait trois personnalités dans une maison de campagne pour partager des confidences et des anecdotes inédites ? 
 
-Quelle émission, dont le dernier épisode a été diffusé en [[2014]], offrait aux célébrités l'opportunité de se découvrir sous un jour nouveau et de sortir des chemins battus de leur vie publique ?
+Quelle émission, dont le dernier épisode a été diffusé en [[2014]], offrait aux célébrités l'opportunité de se découvrir sous un jour nouveau et de sortir des chemins battus de leur vie publique ? <!-- score: 4 -->
 
 Quel concept télévisuel a permis à des artistes de différents horizons comme [[Élie Semoun]], [[Zazie]], et [[Pierre Palmade]] de se retrouver ensemble et de discuter de leurs parcours personnels et professionnels ?
 
