@@ -24,11 +24,12 @@ questions:
  - En 2011, à quel réalisateur et ancien policier doit-on le film "Les Lyonnais", inspiré de la véritable histoire du gang des Lyonnais ?
 ---
 
+
 ![Image de Olivier Marchal](https://upload.wikimedia.org/wikipedia/commons/d/d0/Olivier_Marchal_1.jpg)
 
 ###### Questions
 
-Dans quel domaine artistique l'ancien policier [[Olivier Marchal]] a-t-il fait ses débuts en tant qu'acteur avant de devenir réalisateur ?
+Dans quel domaine artistique l'ancien policier [[Olivier Marchal]] a-t-il fait ses débuts en tant qu'acteur avant de devenir réalisateur ? <!-- score: 5 -->
 
 En 2004, quel ancien membre des forces de l'ordre a réalisé le film à succès "[[36 Quai des Orfèvres]]" qui a reçu huit nominations aux César ?
 
