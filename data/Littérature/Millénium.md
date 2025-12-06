@@ -24,11 +24,12 @@ questions:
  - Dans quelle trilogie policière écrite par le Suédois Stieg Larsson, le héros fait-il...
 ---
 
-![Image de Millénium](https://upload.wikimedia.org/wikipedia/commons/b/b9/MILL%C3%89NIUM_2000.jpg)
+
+![Image de Millénium](https://upload.wikimedia.org/wikipedia/commons/b/b9/MILL%C3%89NIUM_2000.jpg)
 
 ###### Questions
 
-Dans quelle trilogie littéraire écrite par [[Stieg Larsson]], le personnage principal est [[Lisbeth Salander]], une brillante hacker suédoise ?
+Dans quelle trilogie littéraire écrite par [[Stieg Larsson]], le personnage principal est [[Lisbeth Salander]], une brillante hacker suédoise ? <!-- score: 4 -->
 
 Quel est le nom de la série de romans débutée en 2005, qui a obtenu une popularité mondiale et commence par le livre intitulé [[Les Hommes qui n'aimaient pas les femmes]] ?
 
