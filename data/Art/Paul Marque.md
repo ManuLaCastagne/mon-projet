@@ -23,11 +23,12 @@ indice_6:
   - promotion 2020
 ---
 
+
 ![Image de Paul Marque](https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_Marque_-_Danseur_Etoile.jpg)
 
 ###### Questions
 
-Qui a été nommé [[danseur étoile]] lors d'une représentation de [[La Bayadère]] à l'[[Opéra Bastille]] en 2020 à l'âge de 23 ans ?
+Qui a été nommé [[danseur étoile]] lors d'une représentation de [[La Bayadère]] à l'[[Opéra Bastille]] en 2020 à l'âge de 23 ans ? <!-- score: 4 -->
 
 ###### Description
 
