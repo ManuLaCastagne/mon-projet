@@ -26,6 +26,7 @@ questions:
  - Je compte environ 35 000 habitants et suis réputée pour mon ancienne abbatiale Saint-Germain et pour ma cathédrale gothique Saint-Etienne. Chef-lieu du département de l'Yonne, je suis…
 ---
 
+
 ![Image de Auxerre](https://upload.wikimedia.org/wikipedia/commons/7/7e/.00_1402_Blick_auf_Auxerre%2C_eine_franz%C3%B6sische_Stadt.jpg)
 
 ![[Carte_Auxerre.png]]
@@ -35,7 +36,7 @@ Dans quelle ville, fondée au cours de l'année [[782]], trouve-t-on la célèbr
 
 Quelle ville française, dont la construction de la [[Cathédrale Saint-Étienne]] a débuté en 1215, est un exemple remarquable de l'architecture gothique en [[Bourgogne]] ?
 
-Dans quelle ville du [[Bourgogne-Franche-Comté]], traversée par la rivière [[Yonne]], se situe le vignoble reconnu pour la production du célèbre vin de [[Chablis]] ?
+Dans quelle ville du [[Bourgogne-Franche-Comté]], traversée par la rivière [[Yonne]], se situe le vignoble reconnu pour la production du célèbre vin de [[Chablis]] ? <!-- score: 4 -->
 
 ###### Description
 
