@@ -22,6 +22,7 @@ questions:
  - Dans quelle course d'obstacles de demi-fond doit-on franchir 28 fois une haie et 7 fois la rivière ?
 ---
 
+
 ![Image de 3000 m steeple](https://upload.wikimedia.org/wikipedia/commons/c/ce/2014_D%C3%A9caNation_-_3000_m_steeplechase_04.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel événement d'athlétisme, ajouté pour la première fois aux [[Jeux olympi
 
 Quelle épreuve spectaculaire de course qui inclut des sauts de barrières et de rivières a été dominée par le Kényan [[Ezekiel Kemboi]], qui a remporté des titres mondiaux dans les années [[2010]]?
 
-Quelle discipline d'athlétisme a vu [[Saif Saaeed Shaheen]], anciennement connu sous le nom de [[Stephen Cherono]], établir un record du monde en [[2004]] avec un temps de 7:53.63?
+Quelle discipline d'athlétisme a vu [[Saif Saaeed Shaheen]], anciennement connu sous le nom de [[Stephen Cherono]], établir un record du monde en [[2004]] avec un temps de 7:53.63? <!-- score: 3 -->
 
 ###### Description
 
