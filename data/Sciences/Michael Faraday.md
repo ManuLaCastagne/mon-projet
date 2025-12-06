@@ -22,6 +22,7 @@ questions:
  - Scientifique anglais né en 1791, je me forme aux conférences de Davy et en lisant les ouvrages que reçoit le libraire pour qui je travaille.  Découvrant le benzène, je réalise la liquéfaction de presque tous les gaz connus à mon époque, donne le principe du moteur électrique et établis la théorie de l'électrolyse.
 ---
 
+
 ![Image de Michael Faraday](https://upload.wikimedia.org/wikipedia/commons/8/88/M_Faraday_Th_Phillips_oil_1842.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel scientifique britannique a découvert l'induction électromagnétique en [[
 
 Qui a inventé la première cage métallique à l'épreuve des champs électriques, appelée [[Cage de Faraday]], en [[1836]] ?
 
-Quel chimiste et physicien a été le premier à liquéfier le chlore avec succès en [[1823]] ?
+Quel chimiste et physicien a été le premier à liquéfier le chlore avec succès en [[1823]] ? <!-- score: 5 -->
 
 ###### Description
 
