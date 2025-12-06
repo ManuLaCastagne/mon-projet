@@ -24,6 +24,7 @@ questions:
   - Quel archipel norvégien de 1425 km2, s'étant spécialisé dans la pêche à la morue, se trouve au large de la côte nord-ouest du pays?
 ---
 
+
 ![Image de Lofoten](https://upload.wikimedia.org/wikipedia/commons/8/8a/09556_NOR_Lofoten_Cruise_vessel_Le_Boreal_northbound_V-P.jpg)
 
 ![[Carte_Lofoten.png]]
@@ -32,7 +33,7 @@ questions:
 
 Quel archipel situé au nord du [[Cercle Arctique]] en [[Géographie/Norvège]] est connu pour sa température anormalement douce, malgré sa haute latitude, grâce au [[Gulf Stream]]?
 
-Quel est le nom de l'archipel norvégien, dont les paysages spectaculaires ont inspiré les artistes depuis le [[XIXe siècle]], notamment les peintres du mouvement [[Art nouveau]]?
+Quel est le nom de l'archipel norvégien, dont les paysages spectaculaires ont inspiré les artistes depuis le [[XIXe siècle]], notamment les peintres du mouvement [[Art nouveau]]? <!-- score: 6 -->
 
 Quel archipel, situé à environ 200 kilomètres au nord du [[Cercle Arctique]], abrite le festival de pêche séculaire appelé [[Lofotfisket]], essentiel depuis les années 1100?
 
