@@ -22,11 +22,12 @@ questions:
  - Quel cycliste néerlandais, petit-fils de Raymond Poulidor, a remporté un 4e titre mondial de cyclo-cross?
 ---
 
+
 ![Image de Mathieu van der Poel](https://upload.wikimedia.org/wikipedia/commons/c/cc/Mathieu_van_der_Poel_%282016%29.jpg)
 
 ###### Questions
 
-Quel sportif a remporté le [[Championnat du Monde de cyclo-cross]] pour la première fois en 2015 ? 
+Quel sportif a remporté le [[Championnat du Monde de cyclo-cross]] pour la première fois en 2015 ? <!-- score: 4 -->
 
 Quel coureur cycliste a gagné, à l'âge de 26 ans, une étape au [[Tour de France]] 2021 ? 
 
