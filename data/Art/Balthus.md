@@ -25,11 +25,12 @@ questions:
  - Quel peintre disparu en 2001 en Suisse, de son vrai nom Balthazar Klosowski de Rolla ?
 ---
 
+
 ![Image de Balthus](https://upload.wikimedia.org/wikipedia/commons/3/37/Oliver_Mark_-_Balthus%2C_Rossini%C3%A8re_2000_%282%29.jpg)
 
 ###### Questions
 
-Quel peintre, né en 1908, est connu pour son style énigmatique et a été influencé par le surréalisme tout en refusant d'être catégorisé comme tel ? 
+Quel peintre, né en 1908, est connu pour son style énigmatique et a été influencé par le surréalisme tout en refusant d'être catégorisé comme tel ? <!-- score: 4 -->
 
 Quel artiste a peint "La Rue" en 1933, une œuvre souvent discutée pour sa représentation des passants anonymes dans un paysage urbain inquiétant ? 
 
