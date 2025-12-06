@@ -15,11 +15,12 @@ indice_6:
   - Symbole de la légèreté et de l'élégance
 ---
 
+
 ![Image de Demoiselle](https://upload.wikimedia.org/wikipedia/commons/0/07/Beautiful_Demoiselle_Calopteryx_virgo.jpg)
 
 ###### Questions
 
-A l'état d'imago, quel insecte, voisin de la libellule et également appelé [[agrion]], fait bien sécher ses ailes au soleil ?
+A l'état d'imago, quel insecte, voisin de la libellule et également appelé [[agrion]], fait bien sécher ses ailes au soleil ? <!-- score: 4 -->
 
 ###### Description
 
