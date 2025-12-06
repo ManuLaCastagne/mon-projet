@@ -21,11 +21,12 @@ indice_6 :
   - Kylie Cosmetics
 ---
 
+
 ![Image de Kylie Jenner](https://upload.wikimedia.org/wikipedia/commons/9/9a/Kylie_Jenner_loves_finals_week_%2816810425244%29.jpg)
 
 ###### Questions
 
-Elle est devenue la plus jeune milliardaire autodidacte selon [[Forbes]] en 2019.
+Elle est devenue la plus jeune milliardaire autodidacte selon [[Forbes]] en 2019. <!-- score: 3 -->
 
 Quel membre de la famille [[Kardashian-Jenner]] a fondé l'entreprise de cosmétiques [[Kylie Cosmetics]] en 2015 ?
 
