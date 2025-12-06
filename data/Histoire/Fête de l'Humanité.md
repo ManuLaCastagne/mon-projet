@@ -22,11 +22,12 @@ questions:
  - Quelle fête populaire organisée dès 1930, doit son nom à un quotidien communiste près de La Courneuve?
 ---
 
-![Image de Fête de l'Humanité](https://upload.wikimedia.org/wikipedia/commons/b/b0/BB_Brunes_-_F%C3%AAte_de_l%27Humanit%C3%A9_2012_-_022.jpg)
+
+![Image de Fête de l'Humanité](https://upload.wikimedia.org/wikipedia/commons/b/b0/BB_Brunes_-_F%C3%AAte_de_l%27Humanit%C3%A9_2012_-_022.jpg)
 
 ###### Questions
 
-Quel événement a vu la première prestation publique de [[Joan Baez]] en France en [[1967]], marquant un moment historique pour la musique folk et la politique engagée ?  
+Quel événement a vu la première prestation publique de [[Joan Baez]] en France en [[1967]], marquant un moment historique pour la musique folk et la politique engagée ? <!-- score: 4 -->
 
 Quelle célébration populaire a vu son origine en [[1930]], conçue par [[Marcel Cachin]] et [[Virgile Barel]], afin de financer le journal [[L'Humanité]] ?  
 
