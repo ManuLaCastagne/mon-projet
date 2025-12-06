@@ -16,11 +16,12 @@ indice_6 :
   - funérailles
 ---
 
+
 ![Image de Obituaire](https://upload.wikimedia.org/wikipedia/commons/1/15/Franti%C5%A1ek_Palack%C3%BD_register_of_deaths_entry_1876_%28SOA_Praha%29.jpg)
 
 ###### Questions
 
-Quel est le terme utilisé pour désigner une notice nécrologique publiée dans un journal, souvent utilisée pour annoncer le décès d'une personne influente ?
+Quel est le terme utilisé pour désigner une notice nécrologique publiée dans un journal, souvent utilisée pour annoncer le décès d'une personne influente ? <!-- score: 3 -->
 
 Quel est le nom donné à la liste ou compte rendu des décès récents publiés par des institutions telles que l'[[Église catholique]] ou dans des publications comme le [[New York Times]] ?
 
