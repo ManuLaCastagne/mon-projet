@@ -24,6 +24,7 @@ questions:
  - Dans le recueil intitulé "Contes de la rue Broca", quel écrivain raconte l'histoire d'un jeune diable qui a le malheur de ne pas être méchant?
 ---
 
+
 ![Image de Pierre Gripari](https://upload.wikimedia.org/wikipedia/commons/0/0e/Pierre_Gripari.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel auteur célèbre pour ses contes a vu son livre "[[Contes de la rue Broca]]
 
 Quel écrivain, né en 1925 à [[Paris]] et connu pour ses récits fantastiques, a également travaillé comme comédien avant de se consacrer pleinement à l'écriture ? 
 
-Qui est l'auteur de "[[La Sorcière de la rue Mouffetard]]", un texte qui n'a cessé de charmer les enfants depuis sa publication, mais qui est aussi connu pour avoir résisté à plusieurs décennies de refus par différents éditeurs avant d'être reconnu ?
+Qui est l'auteur de "[[La Sorcière de la rue Mouffetard]]", un texte qui n'a cessé de charmer les enfants depuis sa publication, mais qui est aussi connu pour avoir résisté à plusieurs décennies de refus par différents éditeurs avant d'être reconnu ? <!-- score: 4 -->
 
 ###### Description
 
