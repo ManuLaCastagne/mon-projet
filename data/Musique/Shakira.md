@@ -25,6 +25,7 @@ questions:
 ---
 
 
+
 ![Image de Shakira](https://upload.wikimedia.org/wikipedia/commons/4/48/Shakira_-_Rock_in_Rio_2008_02.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel artiste, célèbre pour ses mouvements de hanches, a interprété la chanso
 
 Quel chanteur connu a sorti son premier album en anglais, intitulé "[[Laundry Service]]", en 2001, marquant un tournant international dans sa carrière musicale ?
 
-Quelle artiste, riche en bagages culturels, a inclus dans son album "[[Oral Fixation Vol. 2]]" en 2005 la chanson à succès "[[Hips Don't Lie]]" ? <!-- score: 7 -->
+Quelle artiste, riche en bagages culturels, a inclus dans son album "[[Oral Fixation Vol. 2]]" en 2005 la chanson à succès "[[Hips Don't Lie]]" ? <!-- score: 8 -->
 
 ###### Description
 
