@@ -24,17 +24,15 @@ questions:
  - Groupe de rock français créé en 1969, je me fais d'abord remarquer avec des compositions originales fortement teintées de rock progressif et de blues.
 ---
 
-
 ![Image de Martin Circus](https://upload.wikimedia.org/wikipedia/commons/3/37/Circus_cyaneus_MHNT.ZOO.2010.11.83.1.jpg)
 
 ###### Questions
 
-Quelle chanson du groupe [[Martin Circus]] a été utilisée en 1971 comme générique de l'émission de télévision française [[RTL|RTL en direct]] ? <!-- score: 5 -->
+Quel groupe interprète [[Marylène]] en guise de générique de l'émission de télévision française [[RTL en direct]] ? <!-- score: 5 -->
 
 En quelle année le groupe [[Martin Circus]] a-t-il remporté le titre de la meilleure formation scénique en France pour son spectacle en hommage à [[Jimi Hendrix]] ?
 
-Quel membre du groupe [[Martin Circus]] a joué dans le film culte [[La Boum]] en 1980, réalisant ainsi un pont entre la musique et le cinéma ?
-
+De quel groupe de musique un membre a-t-il joué dans le film culte [[La Boum]] en 1980, réalisant ainsi un pont entre la musique et le cinéma ? <!-- score: 5 -->
 ###### Description
 
 Martin Circus est un groupe de rock français emblématique des années 1970, formé en 1969 avec des membres clés tels que [[Gérard Blanc]], [[Bob Brault]] et [[Jean-Pierre Brault]]. 
