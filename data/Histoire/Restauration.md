@@ -20,7 +20,6 @@ indice_6 :
   - monarchie constitutionnelle
 ---
 
-
 ![Image de Restauration](https://upload.wikimedia.org/wikipedia/commons/b/b0/Returationen.jpg)
 
 ###### Questions
@@ -30,7 +29,6 @@ Quelle période de l'histoire de France commence en [[1814]] et marque la tentat
 Comment appelle-t-on en [[Angleterre]] la période débutant en [[1660]] qui a vu le retour de [[Charles II Stuart]] sur le trône après le régime du [[Commonwealth d'Angleterre]]? <!-- score: 4 -->
 
 Quel est le nom de la période de rétablissement de l'[[autonomie espagnole]] en [[1814]], après la fin de l'occupation napoléonienne et la disparition de [[Joseph Bonaparte]]?
-
 ###### Description
 
 La période de la [[Restauration]] en France s'étend de [[1814]] à [[1830]], marquant le retour des [[Bourbons]] au pouvoir après la chute de [[Napoléon Bonaparte]]. 
