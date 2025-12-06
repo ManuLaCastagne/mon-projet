@@ -20,11 +20,12 @@ questions:
  - En mythologie, sous quel nom grec connaît-on la déesse de l'Aurore qui, chaque jour, sortait de l'océan et s'élevait dans le ciel...
 ---
 
+
 ![Image de Eos](https://upload.wikimedia.org/wikipedia/commons/0/0f/Eos_utgjutande_morgondaggen%2C_Nordisk_familjebok.png)
 
 ###### Questions
 
-Dans la [[mythologie grecque]], quel nom porte la déesse de l'aurore, sœur de [[Hélios]] et [[Séléné]] ?
+Dans la [[mythologie grecque]], quel nom porte la déesse de l'aurore, sœur de [[Hélios]] et [[Séléné]] ? <!-- score: 4 -->
 
 Quel personnage mythologique grec a demandé à [[Zeus]] de donner l'immortalité à son amant, [[Tithon]], mais a oublié de demander la jeunesse éternelle ?
 
