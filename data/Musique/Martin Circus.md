@@ -24,11 +24,12 @@ questions:
  - Groupe de rock français créé en 1969, je me fais d'abord remarquer avec des compositions originales fortement teintées de rock progressif et de blues.
 ---
 
+
 ![Image de Martin Circus](https://upload.wikimedia.org/wikipedia/commons/3/37/Circus_cyaneus_MHNT.ZOO.2010.11.83.1.jpg)
 
 ###### Questions
 
-Quelle chanson du groupe [[Martin Circus]] a été utilisée en 1971 comme générique de l'émission de télévision française [[RTL|RTL en direct]] ? 
+Quelle chanson du groupe [[Martin Circus]] a été utilisée en 1971 comme générique de l'émission de télévision française [[RTL|RTL en direct]] ? <!-- score: 5 -->
 
 En quelle année le groupe [[Martin Circus]] a-t-il remporté le titre de la meilleure formation scénique en France pour son spectacle en hommage à [[Jimi Hendrix]] ?
 
