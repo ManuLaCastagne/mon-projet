@@ -16,8 +16,6 @@ indice_6:
   - Île de Salamine
 ---
 
-
-
 ![Image de Télamon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Atlantit_by_Robert_Stigell.JPG/500px-Atlantit_by_Robert_Stigell.JPG)
 
 ###### Questions
@@ -31,7 +29,6 @@ Qui est le père des héros [[Ajax]] et [[Teucer]], et est connu pour avoir part
 Comment s'appelle le héros mythologique qui a accédé au trône de [[Salamine]] après avoir été exilé d'[[Égine]] à cause du meurtre de son demi-frère [[Phocos]] ?
 
 Quel est le nom du personnage, compagnon de [[Héraclès]], qui est souvent confondu en sculpture ou en art avec le [[Titan]] soutenant les cieux, qui a donné son nom à un [[baudrier]] en cuir pour fixer l’épée des guerriers achéens ?
-
 ###### Description
 
 Le mot "Télamon" désigne avant tout un personnage de la mythologie grecque, reconnu comme le roi de [[Salamine]] et père du célèbre héros [[Ajax]] le Grand. 
