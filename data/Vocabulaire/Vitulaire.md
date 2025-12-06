@@ -16,11 +16,12 @@ indice_6 :
   - Lyre
 ---
 
+
 ![Image de Vitulaire](https://upload.wikimedia.org/wikipedia/commons/9/90/Lanar%C3%A8s_-_De_la_gestation_chez_la_vache.djvu)
 
 ###### Questions
 
-Quel terme désigne l'instrument utilisé dans les rituels religieux de la Rome antique et notamment associé à [[Janus]], le dieu romain des commencements?  
+Quel terme désigne l'instrument utilisé dans les rituels religieux de la Rome antique et notamment associé à [[Janus]], le dieu romain des commencements? <!-- score: 3 -->
   
 Quel est le nom de l'instrument de musique à cordes pincées joué par les [[Pontifes]] pour apaiser les dieux durant les cérémonies?  
 
