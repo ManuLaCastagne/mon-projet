@@ -20,13 +20,14 @@ indice_6:
   - Monarchie de Juillet
 ---
 
+
 ![Image de Trois Glorieuses](https://upload.wikimedia.org/wikipedia/commons/b/bf/R%C3%A9volution_de_1830_-_Combat_de_la_rue_de_Rohan_-_29.07.1830.jpg)
 
 ###### Questions
 
 Quel nom porte les journées révolutionnaires de 1830, qui ont débuté lorsque le peuple a dressé les barricades, le 27 juillet ?
 
-Quel événement historique, survenu en [[juillet]] [[1830]], a conduit à l'abdication du roi [[Charles X]] en faveur de [[Louis-Philippe]] ? 
+Quel événement historique, survenu en [[juillet]] [[1830]], a conduit à l'abdication du roi [[Charles X]] en faveur de [[Louis-Philippe]] ? <!-- score: 3 -->
 
 Quel soulèvement parisien, qui a eu lieu sur trois jours consécutifs à la fin du mois de [[juillet]] [[1830]], est connu pour avoir marqué le retour de la [[monarchie de Juillet]] ? 
 
