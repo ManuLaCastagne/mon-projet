@@ -17,13 +17,14 @@ questions:
  - Type d'organe pouvant être qualifié de géniculé ou de pectiné, je suis présent chez les péripates, les mille-pattes et les crustacés. Composé de plusieurs pièces articulées, je suis lamellé chez le hanneton, long et filiforme chez le longicorne...
 ---
 
+
 ![Image de Antennes](https://upload.wikimedia.org/wikipedia/commons/a/a9/Elymnias_hypermnestra_male_by_kadavoor.jpg)
 
 ###### Questions
 
 Dans quel organe des papillons se trouvent les récepteurs des phéromones, propriétés découvertes par [[Jean-Henri Fabre]] en 1879 ?
 
-Quel est l'organe de l'insecte décrit comme un capteur de vibration essentiel dans les recherches entomologiques depuis 1832 par [[Paul Kirchhof]] ?
+Quel est l'organe de l'insecte décrit comme un capteur de vibration essentiel dans les recherches entomologiques depuis 1832 par [[Paul Kirchhof]] ? <!-- score: 6 -->
 
 Quel organe sensoriel, essentiel pour l'orientation des [[abeilles]], a-t-il été décrit et illustré pour la première fois dans les travaux de [[René-Antoine Ferchault de Réaumur]] en 1734 ?
 
