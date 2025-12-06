@@ -22,13 +22,14 @@ questions:
  - Et favorisé son mariage avec Madame de Maintenon.  Possédant une maison dont le domaine fut étendu et converti en 1884 en un célèbre cimetière parisien…
 ---
 
-![Image de Père Lachaise](https://upload.wikimedia.org/wikipedia/commons/a/ad/Pere_lachaise_detail.jpg)
+
+![Image de Père Lachaise](https://upload.wikimedia.org/wikipedia/commons/a/ad/Pere_lachaise_detail.jpg)
 
 ###### Questions
 
 Quel célèbre cimetière parisien, inauguré en [[1804]], abrite les tombes de figures historiques telles que [[Jim Morrison]], [[Oscar Wilde]], et [[Édith Piaf]] ?
 
-Quel lieu parisien, originellement un domaine jésuite acheté par la [[Ville de Paris]] en [[1804]], est devenu le plus grand cimetière de la capitale, accueillant plus de [[3,5 millions]] de visiteurs chaque année ?
+Quel lieu parisien, originellement un domaine jésuite acheté par la [[Ville de Paris]] en [[1804]], est devenu le plus grand cimetière de la capitale, accueillant plus de [[3,5 millions]] de visiteurs chaque année ? <!-- score: 6 -->
 
 Dans quel cimetière bien connu de [[Paris]], a été inhumé l'emblématique écrivain français [[Molière]] en [[1817]], bien qu'il soit mort en [[1673]] ?
 
