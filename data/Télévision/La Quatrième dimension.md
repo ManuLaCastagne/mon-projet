@@ -22,11 +22,12 @@ questions:
  - Mon créateur Rod Serling présente mes 156 épisodes.  Mettant en scène des personnages ordinaires passant de l'autre côté de la réalité...
 ---
 
+
 ![Image de La Quatrième dimension](https://upload.wikimedia.org/wikipedia/commons/4/4f/Voyage_au_pays_de_la_quatri%C3%A8me_dimension_-_cover.jpg)
 
 ###### Questions
 
-Dans quelle série télévisée culte de [[1959]], créée par [[Rod Serling]], explore-t-on des thèmes de science-fiction, de fantastique et des dimensions parallèles ?
+Dans quelle série télévisée culte de [[1959]], créée par [[Rod Serling]], explore-t-on des thèmes de science-fiction, de fantastique et des dimensions parallèles ? <!-- score: 5 -->
 
 Quelle série a introduit le célèbre épisode "To Serve Man", diffusé en [[1962]], qui a marqué les esprits par son plot twist final ?
 
