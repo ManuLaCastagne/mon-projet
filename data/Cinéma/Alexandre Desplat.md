@@ -22,13 +22,14 @@ indice_6 :
   - musiques pour films français et internationaux
 ---
 
+
 ![Image de Alexandre Desplat](https://upload.wikimedia.org/wikipedia/commons/8/86/AlexandreDesplat-gros-plan.jpg)
 
 ###### Questions
 
 Quel compositeur a remporté l'[[Oscar]] de la meilleure musique de film en 2015 pour [[The Grand Budapest Hotel]] ?
 
-Quel artiste a composé la bande originale du film [[Harry Potter et les Reliques de la Mort : Partie 2]], sorti en 2011 ?
+Quel artiste a composé la bande originale du film [[Harry Potter et les Reliques de la Mort : Partie 2]], sorti en 2011 ? <!-- score: 4 -->
 
 Quel célèbre compositeur français a été élu à la présidence de la société des auteurs, compositeurs et éditeurs de musique ([[SACEM]]) en 2010 ?
 
