@@ -20,6 +20,7 @@ indice_6 :
   - Plaisir
 ---
 
+
 ![Image de Kama](https://upload.wikimedia.org/wikipedia/commons/b/bd/Kama_River._Nizhnekamsk_Hydroelectric_Station._Gateway_canal_P6211279_2575.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel est l'un des quatre objectifs de vie de la philosophie hindoue, à côté d
 
 Quel mot désigne le plaisir et la satisfaction des sens, souvent mentionné dans les écrits sanskrits tels que le [[Kama Sutra]], et qui est reconnu comme l'un des buts de la vie dans l'hindouisme ?
 
-Quel terme est utilisé dans la religion hindoue pour décrire l'accomplissement des désirs sensoriels et est considéré comme une des quatre [[Puruṣārtha]]s, ces objectifs de vie codifiés entre le XIIe siècle av. J.-C. et le VIe siècle av. J.-C. ?
+Quel terme est utilisé dans la religion hindoue pour décrire l'accomplissement des désirs sensoriels et est considéré comme une des quatre [[Puruṣārtha]]s, ces objectifs de vie codifiés entre le XIIe siècle av. J.-C. et le VIe siècle av. J.-C. ? <!-- score: 4 -->
 
 ###### Description
 
