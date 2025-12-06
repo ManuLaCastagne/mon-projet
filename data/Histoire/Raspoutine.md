@@ -22,11 +22,12 @@ questions:
  - De 1905 à 1916, quel personnage exerça une puissante influence à la cour du tsar Nicolas II ?
 ---
 
+
 ![Image de Raspoutine](https://upload.wikimedia.org/wikipedia/commons/c/ce/Cabaret-restaurant_le_Raspoutine_2013-09-22_16-35-53.jpg)
 
 ###### Questions
 
-Quel mystique russe est décédé le même jour (30 décembre) que [[Bobby Farrell]], interprète du groupe [[Boney M.]] ?
+Quel mystique russe est décédé le même jour (30 décembre) que [[Bobby Farrell]], interprète du groupe [[Boney M.]] ? <!-- score: 6 -->
 
 Quel mystique russe a été assassiné en [[1916]] après avoir été empoisonné, abattu et finalement noyé dans la [[région de Saint-Pétersbourg]] ?
 
