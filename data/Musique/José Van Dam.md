@@ -25,7 +25,6 @@ questions:
   - En 1989, dans le film "Le Maître de musique" de Gérard Corbiau, quel baryton-basse belge interprète le rôle principal?
 ---
 
-
 ![Image de José Van Dam](https://upload.wikimedia.org/wikipedia/commons/e/e0/Jos%C3%A9_Van_Dam%2C_Les_Contes_d%27Hoffmann-1988.jpg)
 
 ###### Questions
@@ -35,7 +34,6 @@ Quel chanteur belge a incarné le rôle-titre dans le film [[La Flûte enchanté
 Quel artiste a joué le personnage de Scarpia dans [[Tosca]] au [[Festival de Salzbourg]] pour la première fois en 1990 ? <!-- score: 4 -->
 
 En 1989, dans le film "[[Le Maître de musique]]" de [[Gérard Corbiau]], quel baryton-basse belge interprète le rôle principal ?
-
 ###### Description
 
 [[José Van Dam]], né le 25 août 1940 à [[Bruxelles]], est un [[baryton]] belge de renommée internationale qui a marqué le monde de l'opéra par sa voix puissante et son interprétation poignante des rôles dramatiques. 
