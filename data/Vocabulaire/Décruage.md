@@ -16,11 +16,12 @@ indice_6 :
   - Traitement chimique
 ---
 
+
 ![Image de Décruage](https://upload.wikimedia.org/wikipedia/commons/7/72/Cuvier_-_Dictionnaire_des_sciences_naturelles%2C_tome_13.djvu)
 
 ###### Questions
 
-Quel est le processus appliqué dans les papeteries pour éliminer la colle, les charges et les impuretés en utilisant des produits chimiques ou des enzymes spécifiques ?
+Quel est le processus appliqué dans les papeteries pour éliminer la colle, les charges et les impuretés en utilisant des produits chimiques ou des enzymes spécifiques ? <!-- score: 4 -->
 
 Quel est le terme utilisé pour désigner le rinçage des tissus après une étape de teinture afin de stabiliser les couleurs et éliminer les excès de teinture ?
 
