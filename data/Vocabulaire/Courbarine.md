@@ -16,11 +16,12 @@ indice_6 :
   - Vinaigre
 ---
 
+
 ![Image de Courbarine](https://upload.wikimedia.org/wikipedia/commons/3/31/LL-Q150_%28fra%29-LoquaxFR-courbarine.wav)
 
 ###### Questions
 
-Quel est le principe actif extrait des graines de [[courge]] utilisé pour ses propriétés médicinales ?
+Quel est le principe actif extrait des graines de [[courge]] utilisé pour ses propriétés médicinales ? <!-- score: 4 -->
 
 Quel composé chimique est souvent associé à la lutte contre les parasites intestinaux et à l'amélioration de la santé de la [[prostate]] ?
 
