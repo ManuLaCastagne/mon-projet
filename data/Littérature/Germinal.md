@@ -25,6 +25,7 @@ questions:
 ---
 
 
+
 ![Image de Germinal](https://upload.wikimedia.org/wikipedia/commons/e/ec/Germinal.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Dans quel roman publié en 1885, écrit par [[Émile Zola]], peut-on découvrir 
 
 Quel ouvrage de la série des [[Rougon-Macquart]], souvent considéré comme une œuvre maîtresse de la littérature naturaliste, se concentre sur la grève menée par les ouvriers de la mine de [[Montsou]] ?
 
-Dans quel livre, ayant pour personnage principal [[Étienne Lantier]], trouve-t-on une description détaillée des luttes sociales et du monde ouvrier du XIXe siècle en France ? <!-- score: 4 -->
+Dans quel livre, ayant pour personnage principal [[Étienne Lantier]], trouve-t-on une description détaillée des luttes sociales et du monde ouvrier du XIXe siècle en France ? <!-- score: 6 -->
 
 ###### Description
 
