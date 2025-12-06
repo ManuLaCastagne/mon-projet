@@ -27,7 +27,7 @@ questions:
 
 ###### Questions
 
-Quel ancien champion de [[boxe]] a remporté le titre mondial des poids lourds pour la deuxième fois en 1994 à l'âge de 45 ans ? <!-- score: 5 -->
+Quel ancien champion de [[boxe]] a remporté le titre mondial des poids lourds pour la deuxième fois en 1994 à l'âge de 45 ans ? <!-- score: 4 -->
    
 Quel célèbre boxeur a créé une ligne populaire de [[grille-pain]] vendue sous le nom de [[George Foreman Grill]], lancée en 1994 ?
 
