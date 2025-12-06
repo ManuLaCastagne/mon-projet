@@ -22,7 +22,6 @@ questions:
  - Quelle dame de Florence (Italie) amie de Marie de Médicis passa quelques jours à la Bastille entre la mort de son mari et son exécution ?
 ---
 
-
 ![Image de Galigaï](https://upload.wikimedia.org/wikipedia/commons/d/d9/Galiga%C3%AF_1617.jpg)
 
 ###### Questions
@@ -32,7 +31,6 @@ Quel personnage historique, née [[Léonora Dori]] en [[1568]], était l'épouse
 Quel est le nom par lequel on connait [[Léonora Dori]], exécutée en [[1617]] à la suite des rivalités politiques et des accusations de sorcellerie, au cœur des luttes de pouvoir du début du règne de [[Louis XIII]] ?
 
 Quelle dame d'honneur italienne a été condamnée à mort pour des raisons politiques, accusée de "magie" et d'influencer [[Marie de Médicis]], et a été décapitée à Paris le 8 juillet [[1617]] ? <!-- score: 5 -->
-
 ###### Description
 
 [[Galigaï]], de son nom complet [[Concino Concini]], était une figure intrigante de la cour de France au début du XVIIe siècle. 
