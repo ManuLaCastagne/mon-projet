@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Elsa Zylberstein.md",
+                "file": "Histoire/Al Gore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elsa Zylberstein"
+              "title": "Al Gore"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Elsa Zylberstein.md",
+                "file": "Histoire/Al Gore.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Elsa Zylberstein"
+              "title": "Graphique de Al Gore"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -338,8 +338,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,8 +352,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b18be18a8a65fd7",
+  "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Cinéma/Elsa Zylberstein.md",
     "Histoire/Affaire des Poisons.md",
     "Vocabulaire/Houppier.md",
     "Sport/Grand Prix.md",
@@ -380,7 +380,6 @@
     "Anatomie/Omoplate.md",
     "Anatomie/Muscles scalènes.md",
     "Anatomie/Opération à distance.md",
-    "Anatomie/Phlébologue.md",
     "Sans titre.canvas"
   ]
 }

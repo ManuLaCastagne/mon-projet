@@ -159,8 +159,18 @@ def poser_questions(questions_globales, nb_questions=1000):
             st.session_state.quiz_index += 1
             st.session_state.quiz_reveal = False
             st.rerun()
-        with st.expander("✏️ Modifier les questions de cette fiche"):
+        if st.button("✏️ Modifier les questions de cette fiche"):
+            # Sauvegarder le score de la question actuelle avant de rediriger
+            nouvelle_ligne = mettre_a_jour_score(q['ligne'], q['score'])
+            q['ligne'] = nouvelle_ligne
+            q['lignes'][q['ligne_index']] = nouvelle_ligne
+            st.session_state.quiz_modifications[q['fichier']] = (q['frontmatter'], q['lignes'])
+            sauvegarder_modifications({q['fichier']: (q['frontmatter'], q['lignes'])})
+
+            # Rediriger vers une nouvelle page pour l'édition
+            st.session_state["edition_fichier"] = q['fichier']
             interface_edition_questions(fichier_force=q['fichier'])
+            st.stop()
         afficher_description(q['fichier'])
 
 def sauvegarder_modifications(modifications):
