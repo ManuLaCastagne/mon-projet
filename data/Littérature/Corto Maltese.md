@@ -20,11 +20,12 @@ indice_6 :
   - Mer des Caraïbes
 ---
 
+
 ![Image de Corto Maltese](https://upload.wikimedia.org/wikipedia/commons/8/80/Corto_Maltese.JPG)
 
 ###### Questions
 
-Quel personnage de bande dessinée créé par [[Hugo Pratt]] apparaît pour la première fois dans l'album « La Ballade de la mer salée » publié en [[1967]] ?
+Quel personnage de bande dessinée créé par [[Hugo Pratt]] apparaît pour la première fois dans l'album « La Ballade de la mer salée » publié en [[1967]] ? <!-- score: 3 -->
 
 Quel marin fictif, connu pour être un aventurier au grand cœur, est le protagoniste de nombreuses histoires explorant des thèmes historiques et exotiques depuis la fin des [[années 1960]] ?
 
