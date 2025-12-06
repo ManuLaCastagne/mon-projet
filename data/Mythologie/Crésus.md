@@ -20,13 +20,14 @@ questions:
  - Dans la [[mythologie grecque]], quel roi de Lydie est célèbre pour son extraordinaire richesse...
 ---
 
+
 ![Image de Crésus](https://upload.wikimedia.org/wikipedia/commons/c/cd/Notodontid_Moth_%28Chliara_cresus%29_%2838299673425%29.jpg)
 
 ###### Questions
 
 Quel roi légendaire de [[Lydie]], célèbre pour sa richesse inégalée, a régné de 595 à 546 av. J.-C. ?
 
-Quel personnage mythologique aurait, selon l'histoire, obtenu de [[Dionysos]] le pouvoir de transformer tout ce qu'il touchait en or ? 
+Quel personnage mythologique aurait, selon l'histoire, obtenu de [[Dionysos]] le pouvoir de transformer tout ce qu'il touchait en or ? <!-- score: 4 -->
 
 De quel roi mythique le poète [[Hérodote]] a-t-il décrit la chute face à [[Cyrus II]] en 546 av. J.-C. ?
 
