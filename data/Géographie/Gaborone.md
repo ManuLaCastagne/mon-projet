@@ -24,6 +24,7 @@ indice_6 :
   - rivière Notwane
 ---
 
+
 ![Image de Gaborone](https://upload.wikimedia.org/wikipedia/commons/e/e8/Gaborone_Main_Mall_20200211.jpg)
 
 ![[Carte_Gaborone.png]]
@@ -33,7 +34,7 @@ Dans quelle ville d'Afrique australe, nommée [[Gaborone]], fut établi un calcu
 
 Quelle ville, connue sous le nom de [[Gaborone]], est devenue la capitale du [[Botswana]] en 1966, remplaçant cette ancienne capitale coloniale, [[Mafikeng]], située en [[Afrique du Sud]] ?
 
-Quel est le nom de la ville où se trouve le siège du [[Southern African Development Community]] (SADC), une organisation intergouvernementale créée en 1992 pour promouvoir la coopération socio-économique et politique en Afrique australe ?
+Quel est le nom de la ville où se trouve le siège du [[Southern African Development Community]] (SADC), une organisation intergouvernementale créée en 1992 pour promouvoir la coopération socio-économique et politique en Afrique australe ? <!-- score: 4 -->
 
 ###### Description
 
