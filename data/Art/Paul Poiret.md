@@ -25,6 +25,7 @@ questions:
  - Qui a popularisé la jupe-culotte qui était porté par les femmes faisant du vélo ?
 ---
 
+
 ![Image de Paul Poiret](https://upload.wikimedia.org/wikipedia/commons/a/a6/Paulpoiret.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel couturier français, connu pour avoir révolutionné la mode au début du X
 
 Quel créateur de mode a lancé en 1911 une ligne de parfums appelée "Parfums de Rosine", une innovation à son époque ?
 
-Qui est devenu célèbre pour avoir organisé l'une des premières campagnes de marketing de mode en organisant un bal somptueux, connu sous le nom de "La Mille et Deuxième Nuit", en 1911 ?
+Qui est devenu célèbre pour avoir organisé l'une des premières campagnes de marketing de mode en organisant un bal somptueux, connu sous le nom de "La Mille et Deuxième Nuit", en 1911 ? <!-- score: 9 -->
 
 ###### Description
 
