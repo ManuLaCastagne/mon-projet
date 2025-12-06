@@ -22,6 +22,7 @@ questions:
  - En 1995, quels accords de paix sur l'ex-Yougoslavie furent conclus dans une base militaire de l'Ohio ?
 ---
 
+
 ![Image de Accords de Dayton](https://upload.wikimedia.org/wikipedia/commons/9/94/Dayton_Agreement%2C_24_November_1995_-_%28Bosnia_and_Herzegovina%29._LOC_2009584228.tif)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel traité, signé en [[1995]], a mis fin au conflit en [[Bosnie-Herzégovine]
 
 Quelle négociation de paix, menée sur la base militaire de Wright-Patterson aux [[États-Unis]], a réuni les chefs d'État serbe, bosniaque et croate pour aboutir à un accord en novembre [[1995]] ?
 
-Quel accord a été parrainé par les [[États-Unis]] et l'[[Union européenne]] pour mettre fin formellement à une guerre qui a commencé en [[1992]] dans l'ex-[[Yougoslavie]] ?
+Quel accord a été parrainé par les [[États-Unis]] et l'[[Union européenne]] pour mettre fin formellement à une guerre qui a commencé en [[1992]] dans l'ex-[[Yougoslavie]] ? <!-- score: 5 -->
 
 ###### Description
 
