@@ -25,6 +25,7 @@ questions:
  - J'ai peint de nombreuses oeuvres religieuses dont "Le Martyre de sainte Catherine" et "Le Paradis", réalisées pour le Palais des Doges. Peintre vénitien devant mon surnom à la profession de teinturier...
 ---
 
+
 ![Image de Le Tintoret](https://upload.wikimedia.org/wikipedia/commons/5/5e/Bemberg_Fondation_Toulouse_-_La_Pr%C3%A9sentation_au_Temple_-_Le_Tintoret_Inv.1051.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel peintre de la Renaissance, connu pour son utilisation spectaculaire et nova
 
 Quel artiste, dont le vrai nom est [[Jacopo Robusti]], est surnommé [[Le Tintoret]] en raison du métier de teinturier de son père ?
 
-Quel célèbre peintre, dont l'atelier a produit la monumentale série de toiles pour la [[Scuola Grande di San Rocco]] entre 1564 et 1588, est un maître de l'école vénitienne ?
+Quel célèbre peintre, dont l'atelier a produit la monumentale série de toiles pour la [[Scuola Grande di San Rocco]] entre 1564 et 1588, est un maître de l'école vénitienne ? <!-- score: 4 -->
 
 ###### Description
 
