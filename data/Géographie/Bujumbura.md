@@ -22,12 +22,13 @@ indice_6:
   - Rumonge
 ---
 
+
 ![Image de Bujumbura](https://upload.wikimedia.org/wikipedia/commons/0/08/BUJUMBURA_MAIRIE_3.jpg)
 
 ![[Carte_Bujumbura.png]]
 ###### Questions
 
-Quelle ville d'[[Afrique]] de l'Est, anciennement capitale du [[Burundi]] jusqu'en 2019, a été le site d'un tremblement de terre de magnitude 4,7 en 2000 ?
+Quelle ville d'[[Afrique]] de l'Est, anciennement capitale du [[Burundi]] jusqu'en 2019, a été le site d'un tremblement de terre de magnitude 4,7 en 2000 ? <!-- score: 5 -->
 
 Quel est le lieu d'une attaque de criquets pèlerins, classée parmi les pires invasions d'insectes du [[XXe siècle]], qui a commencé près du lac [[Tanganyika]] en 1986 ?
 
