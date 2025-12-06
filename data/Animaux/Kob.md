@@ -17,7 +17,6 @@ questions:
  - Quelle Antilope d'Afrique, désignée par un mot wolof, compte des individus dotés de sabots lui permettant de patauger en terrain marécageux?
 ---
 
-
 ![Image de Kob](https://upload.wikimedia.org/wikipedia/commons/3/37/Ugandan_kobs_%28Kobus_kob_thomasi%29_female_and_calf.jpg)
 
 ###### Questions
@@ -25,9 +24,6 @@ questions:
 Quel type d'antilope a été découvert et décrit pour la première fois par [[John Hanning Speke]] en [[1863]] ?
 
 Quel animal, souvent observé dans les plaines humides d'[[Afrique de l'Ouest]], appartient au genre [[Kobus]] et joue un rôle clé dans l'écosystème en tant que proie pour les prédateurs ?
-
-Quel mammifère, en raison de ses habitats particuliers, est souvent étudié pour comprendre l'impact des changements climatiques sur les écosystèmes aquatiques en [[Afrique subsaharienne]] ? <!-- score: 5 -->
-
 ###### Description
 
 Le [[Kob]] est un mammifère herbivore appartenant à l'ordre des [[Cétartiodactyles]] et à la famille des [[Bovidés]]. Son nom scientifique est *[[Kobus kob]]* et il est couramment appelé kob en français.
