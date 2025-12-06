@@ -23,11 +23,12 @@ indice_6 :
   - mannequinat et mode
 ---
 
+
 ![Image de Beatrice Borromeo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Beatrice_Borromeo_2017.jpg)
 
 ###### Questions
 
-Quel membre de la famille aristocratique italienne, apparentée à [[Lavinio Borromeo]] et mariée à [[Pierre Casiraghi]], est également un ancien mannequin devenu journaliste et documentariste ? 
+Quel membre de la famille aristocratique italienne, apparentée à [[Lavinio Borromeo]] et mariée à [[Pierre Casiraghi]], est également un ancien mannequin devenu journaliste et documentariste ? <!-- score: 3 -->
 
 Quelle réalisatrice de documentaires sur des sujets sociaux a grandi sur les îles de [[Lac Majeur]], célèbres pour avoir appartenu à la prestigieuse famille Borromeo depuis le 16ème siècle ? 
 
