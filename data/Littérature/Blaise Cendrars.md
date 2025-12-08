@@ -22,6 +22,7 @@ indice_6:
   - auteur de L'Or
 ---
 
+
 ![Image de Blaise Cendrars](https://upload.wikimedia.org/wikipedia/commons/7/7c/Espace_Blaise_Cendrars_2005_2.JPG)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel écrivain, ayant perdu son bras droit pendant la [[Première Guerre mondial
 
 Quel auteur du recueil de poésie "[[La Prose du Transsibérien et de la petite Jeanne de France]]" publié en 1913 est considéré comme un pionnier du [[simultanéisme]] dans la littérature ?
 
-Quel écrivain suisse, né en 1887 à [[La Chaux-de-Fonds]] sous le nom de [[Frédéric-Louis Sauser]], est mieux connu sous le pseudonyme de [[Blaise Cendrars]] ?
+Quel écrivain suisse, né en 1887 à [[La Chaux-de-Fonds]] sous le nom de [[Frédéric-Louis Sauser]], est mieux connu sous le pseudonyme de [[Blaise Cendrars]] ? <!-- score: 6 -->
 
 ###### Description
 
