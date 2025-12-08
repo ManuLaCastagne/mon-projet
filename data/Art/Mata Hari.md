@@ -25,13 +25,14 @@ questions:
  - En 1917, quelle aventure néerlandaise, accusée d'espionnage au profit de l'Allemagne...
 ---
 
+
 ![Image de Mata Hari](https://upload.wikimedia.org/wikipedia/commons/5/5e/Leeuwarden%2C_standbeeld_Mata_Hari_IMG_3625_2018-05-21_10.41.jpg)
 
 ###### Questions
 
 Quelle célèbre danseuse exotique, née en 1876, était connue pour ses performances envoûtantes qui mêlaient art et espionnage pendant [[la Première Guerre mondiale]] avec le nom de scène Mata Hari ?
 
-Quelle figure artistique, exécutée en 1917, est née sous le nom de [[Margaretha Geertruida Zelle]] et est devenue célèbre pour ses danses inspirées des traditions orientales sous le nom de Mata Hari ?
+Quelle figure artistique, exécutée en 1917, est née sous le nom de [[Margaretha Geertruida Zelle]] et est devenue célèbre pour ses danses inspirées des traditions orientales sous le nom de Mata Hari ? <!-- score: 5 -->
 
 Quel personnage historique, dont le nom de scène signifie "œil de l'aube" en [[malais]], a captivé le monde par ses talents artistiques avant d'être accusé d'espionnage au début du [[XXe siècle]] en tant que Mata Hari ?
 
