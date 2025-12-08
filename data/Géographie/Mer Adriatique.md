@@ -26,12 +26,13 @@ questions:
  - Je suis reliée à la mer Ionienne par le canal d'Otrante. Partie de la Méditerranée, je présente un contraste entre mes 2 rives, droite et continue sur la côte italienne, abrupte et découpée sur la côte balkanique.
 ---
 
+
 ![Image de Mer Adriatique](https://upload.wikimedia.org/wikipedia/commons/e/ec/Mer_Adriatique_Cr%C3%A9puscule.jpg)
 
 ![[Carte_Mer Adriatique.png]]
 ###### Questions
 
-Quel bras de mer de la [[mer Méditerranée]] s'étend entre la [[côte est de l'Italie]] et la [[côte ouest des Balkans]] ?
+Quel bras de mer de la [[mer Méditerranée]] s'étend entre la [[côte est de l'Italie]] et la [[côte ouest des Balkans]] ? <!-- score: 4 -->
 
 Quelle mer, connue pour ses influences de [[la civilisation romaine]] et ses échanges commerciaux au [[IIIe siècle av. J.-C.]], baigne les villes de [[Trieste]] et [[Dubrovnik]] ?
 
