@@ -16,11 +16,12 @@ indice_6:
   - Oncologie
 ---
 
+
 ![Image de Néoplasie](https://upload.wikimedia.org/wikipedia/commons/4/47/Cervical_Intraepithelial_Neoplasia_HSIL_20X.jpg)
 
 ###### Questions
 
-Quel terme médical désigne la croissance dérégulée de cellules, pouvant mener à une tumeur ?
+Quel terme médical désigne la croissance dérégulée de cellules, pouvant mener à une tumeur ? <!-- score: 4 -->
 
 Quel est le terme médical utilisé pour décrire la formation d'un nouveau tissu qui se développe de manière excessive, et parfois anormale, souvent associé à des tumeurs, tel qu'étudié en [[oncologie]] ?
 
