@@ -24,17 +24,11 @@ questions:
  - En 1984, quel personnage de vieille femme odieuse créée par Lelong, retrouve-t-on dans l'album "Rencontre du 3e âge" ?
 ---
 
-
 ![Image de Fluide glacial](https://upload.wikimedia.org/wikipedia/commons/7/7c/Fluideglacial_Quai_des_Bulles_2015.jpg)
 
 ###### Questions
 
-Quelle célèbre revue française fondée en 1975 par [[Marcel Gotlib]], jouant sur l'absurde et la parodie dans ses illustrations, est connue sous le nom de [[Fluide glacial]] ?
-
-Quel magazine de bande dessinée humoristique mensuel a vu le jour en 1975 et a accueilli des auteurs comme [[Franquin]] et [[Gotlib]] sous le titre de [[Fluide glacial]] ? <!-- score: 5 -->
-
-Quels types de contenus mêlant satire, humour noir et bande dessinée sont publiés dans le magazine fondé en 1975 par [[Marcel Gotlib]], connu sous le nom de [[Fluide glacial]] ?
-
+Quel magazine de bande dessinée humoristique mensuel a vu le jour en 1975 et a accueilli des auteurs comme [[Franquin]] et [[Gotlib]] ? <!-- score: 5 -->
 ###### Description
 
 [[Fluide Glacial]] est un magazine français de bande dessinée d'humour fondé en 1975 par [[Marcel Gotlib]], [[Alexis]], et [[Jacques Diament]].  
