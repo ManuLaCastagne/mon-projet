@@ -26,12 +26,13 @@ questions:
  - Quel canal de Grèce, permettant aux navires de petit tonnage...
 ---
 
+
 ![Image de Canal de Corinthe](https://upload.wikimedia.org/wikipedia/commons/5/5f/Corinth_Canal_bridge.jpg)
 
 ![[Carte_Canal de Corinthe.png]]
 ###### Questions
 
-Quel passage artificiel, inauguré en 1893, relie le [[golfe Saronique]] à la [[mer Ionienne]], en permettant de réduire la distance maritime d'environ 400 km entre [[Athènes]] et l'[[Italie]] ?
+Quel passage artificiel, inauguré en 1893, relie le [[golfe Saronique]] à la [[mer Ionienne]], en permettant de réduire la distance maritime d'environ 400 km entre [[Athènes]] et l'[[Italie]] ? <!-- score: 3 -->
 
 Quel ouvrage d'ingénierie a été conçu dès l'Antiquité, mais n'a été réalisé qu'au [[XIXe siècle]], pour connecter l'[[isthme de Corinthe]] entre le [[Péloponnèse]] et la [[Grèce centrale]] ?
 
