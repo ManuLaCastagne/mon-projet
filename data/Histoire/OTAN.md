@@ -22,6 +22,7 @@ questions:
  - En avril 1949, à quelle organisation, assurant aux Européens  l'alliance des Etats-Unis en cas d'agression ?
 ---
 
+
 ![Image de OTAN](https://upload.wikimedia.org/wikipedia/commons/c/c9/Nur_Otan_Astana.JPG)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel organisme international a été fondé en [[1949]] en réponse à la menace
 
 Quel traité signé à [[Washington]], [[D.C.]] en [[1949]] a marqué la création d'une alliance militaire collective, promettant une défense mutuelle en cas d'attaque contre l'un de ses membres ?
 
-Quel groupe a vu l'adhésion de la [[Grèce]] et de la [[Turquie]] en [[1952]], élargissant ainsi sa portée stratégique dans la région sud-est de l'[[Europe]] ?
+Quel groupe a vu l'adhésion de la [[Grèce]] et de la [[Turquie]] en [[1952]], élargissant ainsi sa portée stratégique dans la région sud-est de l'[[Europe]] ? <!-- score: 4 -->
 
 ###### Description
 
