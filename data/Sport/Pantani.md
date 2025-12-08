@@ -20,6 +20,7 @@ indice_6 :
   - Dopage
 ---
 
+
 ![Image de Pantani](https://upload.wikimedia.org/wikipedia/commons/0/0f/Marco_Pantani.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel athlète italien a remporté le [[Tour de France]] et le [[Giro d'Italia]] 
 
 Quel célèbre grimpeur, surnommé "Il Pirata", a été disqualifié du [[Giro d'Italia 1999]] en raison d'un taux d'hématocrite trop élevé ?
 
-Quel coureur cycliste a tragiquement trouvé la mort en 2004 dans une chambre d'hôtel à [[Rimini]], laissant derrière lui une carrière marquée par des triomphes et des controverses ?
+Quel coureur cycliste a tragiquement trouvé la mort en 2004 dans une chambre d'hôtel à [[Rimini]], laissant derrière lui une carrière marquée par des triomphes et des controverses ? <!-- score: 3 -->
 
 ###### Description
 
