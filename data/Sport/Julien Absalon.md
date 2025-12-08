@@ -22,13 +22,14 @@ questions:
  - Entre 2004 et 2014, en VTT, quel cycliste a remporté 2 titres olympiques et 5 titres mondiaux de cross ?
 ---
 
+
 ![Image de Julien Absalon](https://upload.wikimedia.org/wikipedia/commons/d/dc/Julien_Absalon_Schladming_2009.jpg)
 
 ###### Questions
 
 Dans quelle discipline sportive [[Julien Absalon]] a-t-il remporté une médaille d'or aux [[Jeux Olympiques de 2004]] à [[Athènes]] ?  
 
-Quel athlète français est devenu champion du monde de [[VTT cross-country]] en [[2004]] et [[2005]] ?  
+Quel athlète français est devenu champion du monde de [[VTT cross-country]] en [[2004]] et [[2005]] ? <!-- score: 4 -->
 
 Quel célèbre cycliste a remporté la [[Coupe du Monde de VTT cross-country]] à 7 reprises entre [[2003]] et [[2016]] ?
 
