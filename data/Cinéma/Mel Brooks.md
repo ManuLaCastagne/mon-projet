@@ -24,13 +24,14 @@ questions:
  - Auteur du film "Les Producteurs", dont un remake est sorti en 2006, je suis…
 ---
 
+
 ![Image de Mel Brooks](https://upload.wikimedia.org/wikipedia/commons/8/87/Mel_Brooks_Daniela_Catelli.jpg)
 
 ###### Questions
 
 Dans quel film de [[Mel Brooks]], sorti en 1974, retrouve-t-on une parodie des films d'horreur classique mettant en vedette [[Gene Wilder]] ?
 
-Quel réalisateur, connu pour sa capacité à mêler comédie et satire, a remporté l'Oscar du meilleur scénario original en 1968 pour le film [[The Producers]] ?
+Quel réalisateur, connu pour sa capacité à mêler comédie et satire, a remporté l'Oscar du meilleur scénario original en 1968 pour le film [[The Producers]] ? <!-- score: 3 -->
 
 En 1981, qui a réalisé le film comique [[La Folle Histoire du monde]] et y a également interprété cinq rôles différents ?
 
