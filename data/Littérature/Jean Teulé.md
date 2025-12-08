@@ -23,11 +23,12 @@ indice_6:
 ---
 
 
-![Image de Jean Teulé](https://upload.wikimedia.org/wikipedia/commons/3/33/Jean_Teul%C3%A9_-_Salon_du_livre_de_Paris_2010_2.jpg)
+
+![Image de Jean Teulé](https://upload.wikimedia.org/wikipedia/commons/3/33/Jean_Teul%C3%A9_-_Salon_du_livre_de_Paris_2010_2.jpg)
 
 ###### Questions
 
-Quel écrivain s'est inspiré de l'histoire vraie de la tueuse en série [[Hélène Jégado]] pour la rédaction de son roman pour la rédaction de son roman "[[Fleur de tonnerre]]", paru en 2013 ?
+Quel écrivain s'est inspiré de l'histoire vraie de la tueuse en série [[Hélène Jégado]] pour la rédaction de son roman pour la rédaction de son roman "[[Fleur de tonnerre]]", paru en 2013 ? <!-- score: 4 -->
 
 Quel auteur a écrit [[Le Magasin des suicides]], publié en 2007, un livre qui imagine une boutique familiale vendant tout le nécessaire pour se donner la mort ?
 
