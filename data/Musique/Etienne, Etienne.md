@@ -24,17 +24,11 @@ questions:
  - Comprenant les paroles  "Baisers salés salis, tombés le long du lit", je suis un titre de Gesch Patti dans lequel elle répète le prénom d'un homme...
 ---
 
-
 ![Image de Etienne, Etienne](https://upload.wikimedia.org/wikipedia/commons/f/f2/Ambulatory_ceiling_-_Cathedral_Saint-Etienne_in_Toulouse.jpg)
 
 ###### Questions
 
 Quel titre culte de 1985 chanté par [[Guesch Patti]] fait référence au prénom [[Etienne]] et a marqué les années 80 ?
-
-Quelle chanson de 1989 interprétée par le chanteur [[Étienne Daho]], évoque un certain [[Etienne]], et a connu un grand succès en France ? <!-- score: 5 -->
-
-Quel tube phare, sorti en 1986, de l'album "[[Pop Satori]]" a été écrit par [[Étienne Daho]] et inclut le prénom [[Etienne]] dans son refrain ?
-
 ###### Description
 
 [[Étienne Roda-Gil]], parolier emblématique de la chanson française, a collaboré avec de nombreux artistes de renom, dont [[Julien Clerc]] et [[Vanessa Paradis]]. 
