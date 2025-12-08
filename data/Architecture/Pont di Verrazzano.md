@@ -20,11 +20,12 @@ indice_6:
   - Staten Island et Brooklyn
 ---
 
+
 ![Image de Pont di Verrazano](https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Verrazano-Narrows_bridge_barely_visible_through_heavy_wildfire_smoke_juxtaposed_by_a_nearby_pole.jpg)
 
 ###### Questions
 
-Quel pont suspendu devant son nom à un navigateur italien relie Brooklyn à Staten Island, est le plus long de la ville de New York avec ses 4 kilomètres ?
+Quel pont suspendu devant son nom à un navigateur italien relie Brooklyn à Staten Island, est le plus long de la ville de New York avec ses 4 kilomètres ? <!-- score: 6 -->
 
 Quel pont, ouvert en 1964, relie les arrondissements de [[Brooklyn]] et [[Staten Island]] à [[New York City]] ?
 
