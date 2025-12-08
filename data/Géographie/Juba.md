@@ -26,12 +26,13 @@ indice_6 :
 ---
 
 
+
 ![Image de Juba](https://upload.wikimedia.org/wikipedia/commons/d/d7/Juba_Sudan_aerial_view.jpg)
 
 ![[Carte_Juba.png]]
 ###### Questions
 
-Quelle est la capitale de l'[[Algérie]] lors de la période numide au [[IIe siècle av. J.-C.]] ?
+Quelle est la capitale de l'[[Algérie]] lors de la période numide au [[IIe siècle av. J.-C.]] ? <!-- score: 5 -->
 
 Dans quelle ville [[Juba II]] a-t-il établi sa cour après avoir été désigné roi de [[Maurétanie]] par [[Auguste]] en [[25 av. J.-C.]] ? <!-- score: 10 -->
 
