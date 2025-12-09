@@ -1,20 +1,18 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+indice_1:
   - Coléoptère
-indice_2 : 
+indice_2:
   - Brachinus crepitans
-indice_3 : 
+indice_3:
   - Coleoptera
-indice_4 : 
+indice_4:
   - Europe
-indice_5 : 
+indice_5:
   - Scarabée bombardier
-indice_6 : 
+indice_6:
   - Défense chimique spectaculaire
-questions:
- - Quel insecte coléoptère doit son nom, évoquant un type d'avion, au gaz contenant de l'acide formique qu'il projette ?
 ---
 
 
@@ -22,9 +20,7 @@ questions:
 
 ###### Questions
 
-Dans quelle espèce animale retrouve-t-on un incroyable mécanisme de défense chimique qui expulse une substance brûlante pour dissuader les prédateurs ?
-
-Quel coléoptère est capable de projeter à haute température un liquide irritant, un phénomène étudié pour améliorer les extincteurs modernes ?
+Quel insecte coléoptère doit son nom, évoquant un type d'avion, au gaz contenant de l'acide formique qu'il projette ?
 
 Quel insecte a été décrit pour la première fois en 1758 par [[Carl von Linné]] et est célèbre pour sa capacité à expulser des jets défensifs en créant une explosion dans son abdomen ? <!-- score: 4 -->
 
