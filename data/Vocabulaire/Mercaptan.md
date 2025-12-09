@@ -16,6 +16,7 @@ indice_6 :
   - Sécurité gaz
 ---
 
+
 ![Image de Mercaptan](https://upload.wikimedia.org/wikipedia/commons/b/b6/Benzyl-mercaptan-3D-spacefill.png)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quel composé chimique, connu pour son odeur nauséabonde, est souvent ajouté a
 
 Quel additif est utilisé dans l'industrie du [[gaz naturel]] pour sa capacité à alerter au moyen de son odeur distinctive ?
 
-Comment nomme-t-on généralement les composés organiques soufrés qui peuvent être utilisés en parfumerie et aussi pour détecter des fuites de [[gaz]] ?
+Comment nomme-t-on généralement les composés organiques soufrés qui peuvent être utilisés en parfumerie et aussi pour détecter des fuites de [[gaz]] ? <!-- score: 2 -->
 
 ###### Description
 

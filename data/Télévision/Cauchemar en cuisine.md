@@ -21,11 +21,12 @@ indice_6 :
   - transformation dramatique
 ---
 
+
 ![Image de Cauchemar en cuisine](https://upload.wikimedia.org/wikipedia/commons/d/da/Marius-Ary_Leblond_-_En_France%2C_1909.djvu)
 
 ###### Questions
 
-Quelle émission française diffusée depuis 2011 est animée par [[Philippe Etchebest]], un chef cuisinier qui vient en aide à des restaurateurs en difficulté ?
+Quelle émission française diffusée depuis 2011 est animée par [[Philippe Etchebest]], un chef cuisinier qui vient en aide à des restaurateurs en difficulté ? <!-- score: 9 -->
 
 Dans quel programme télévisé français peut-on voir un chef renommé faire des interventions musclées pour sauver des établissements de restauration en péril ?
 

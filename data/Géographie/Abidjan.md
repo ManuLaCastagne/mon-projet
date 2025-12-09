@@ -27,6 +27,7 @@ questions:
 ---
 
 
+
 ![Image de Abidjan](https://upload.wikimedia.org/wikipedia/commons/1/14/Abidjan_Collage.jpg)
 
 ![[Carte_Abidjan.png]]

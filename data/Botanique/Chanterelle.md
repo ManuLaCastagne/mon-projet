@@ -17,11 +17,12 @@ questions:
   - Egalement comestible, je suis identifiable aux plis de la face inférieure de mon chapeau en forme de calice et à ma couleur jaune orangé plus ou moins pâle.  Champignon très parfumé du genre Cantharellus, très apprécié...
 ---
 
+
 ![Image de Chanterelle](https://upload.wikimedia.org/wikipedia/commons/f/f5/Cantharellus_cibarius_-hym%C3%A9nium_fausses_lamelles.jpg)
 
 ###### Questions
 
-Quel est ce champignon comestible, identifiable aux plis de la face inférieure de mon chapeau en forme de calice et à ma couleur jaune orangé plus ou moins pâle ?
+Quel est ce champignon comestible, identifiable aux plis de la face inférieure de mon chapeau en forme de calice et à ma couleur jaune orangé plus ou moins pâle ? <!-- score: 5 -->
 
 Quel est l'autre nom de la [[girolle]] ?
 

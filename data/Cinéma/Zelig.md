@@ -22,6 +22,7 @@ indice_6:
   - Leonard Zelig
 ---
 
+
 ![Image de Zelig](https://upload.wikimedia.org/wikipedia/commons/4/4e/Shturman_Zelig_headstone.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ En 1983, dans quel film Woody Allen se met-il en scène dans le rôle d'un homme
 
 Dans quel film de [[Woody Allen]] de 1983 un personnage possède-t-il la capacité de transformer son apparence pour s'adapter aux personnes qui l'entourent ?
 
-Quel film, mettant en vedette [[Mia Farrow]], raconte l'histoire d'un homme qui devient une célébrité grâce à son talent de [[caméléon social]], incarné à travers des faux documents d'archive et d'actualité ?
+Quel film, mettant en vedette [[Mia Farrow]], raconte l'histoire d'un homme qui devient une célébrité grâce à son talent de [[caméléon social]], incarné à travers des faux documents d'archive et d'actualité ? <!-- score: 3 -->
 
 Dans quel faux documentaire unique en son genre, réalisé par [[Woody Allen]], l'intrigue tourne-t-elle autour d'un personnage ayant vécu dans les [[années 1920]] et possédant la faculté de s'intégrer parfaitement dans tous les environnements sociaux ?
 

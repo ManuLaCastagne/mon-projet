@@ -22,6 +22,7 @@ indice_6:
   - Thèmes de la guerreและ de la trahison
 ---
 
+
 ![Image de Sorj Chalandon](https://upload.wikimedia.org/wikipedia/commons/a/a7/Sorj_Chalandon.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel écrivain français, ancien grand reporter pour [[Libération]], a remport�
 
 Quel auteur a intégré des éléments de son expérience personnelle dans l'œuvre intitulée "[[Mon traître]]", publiée en 2008, qui traite de la trahison en [[Irlande]] ?
 
-Qui a reçu le [[prix Goncourt des lycéens]] en 2013 pour le roman "[[Le Quatrième Mur]]", inspiré par sa propre rencontre avec un metteur en scène grec ?
+Qui a reçu le [[prix Goncourt des lycéens]] en 2013 pour le roman "[[Le Quatrième Mur]]", inspiré par sa propre rencontre avec un metteur en scène grec ? <!-- score: 4 -->
 
 ###### Description
 

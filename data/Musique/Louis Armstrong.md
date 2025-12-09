@@ -20,13 +20,14 @@ indice_6 :
   - Ella Fitzgerald
 ---
 
+
 ![Image de Louis Armstrong](https://upload.wikimedia.org/wikipedia/commons/0/0e/Louis_Armstrong_restored.jpg)
 
 ###### Questions
 
 Quel musicien a popularisé la chanson « [[What a Wonderful World]] » sortie en [[1967]] ?
 
-Quel trompettiste américain a fait ses débuts professionnels en [[1918]] à l'âge de 16 ans avec le célèbre groupe de [[King Oliver]] ?
+Quel trompettiste américain a fait ses débuts professionnels en [[1918]] à l'âge de 16 ans avec le célèbre groupe de [[King Oliver]] ? <!-- score: 6 -->
 
 Quel artiste surnommé « [[Satchmo]] » est né à [[La Nouvelle-Orléans]] en [[1901]] ?
 

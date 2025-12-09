@@ -24,13 +24,14 @@ questions:
  - En partie sur l'île aux Plaisirs, je mets en scène le chat Figaro et le poisson rouge Cleo.
 ---
 
+
 ![Image de Pinocchio](https://upload.wikimedia.org/wikipedia/commons/6/6f/Le_avventure_di_Pinocchio-pag299.jpg)
 
 ###### Questions
 
 Quel personnage en bois imaginé par [[Carlo Collodi]] en 1883 a dû mentir pour voir son nez s'allonger ?
 
-Quel film d'animation réalisé par [[Walt Disney]], sorti en 1940, raconte l'histoire d'une marionnette de bois qui rêve de devenir un vrai petit garçon ?
+Quel film d'animation réalisé par [[Walt Disney]], sorti en 1940, raconte l'histoire d'une marionnette de bois qui rêve de devenir un vrai petit garçon ? <!-- score: 8 -->
 
 Selon le film de [[Guillermo del Toro]] sorti en 2022, quel personnage de marionnette a été adapté dans un contexte de guerre civile en [[Italie]] ?
 

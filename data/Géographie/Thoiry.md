@@ -26,7 +26,6 @@ questions:
  - Quel château privé des Yvelines est entouré d'un parc comportant un zoo ?
 ---
 
-
 ![Image de Thoiry](https://upload.wikimedia.org/wikipedia/commons/3/32/Thoiry_%2801%29_-_Eglise_St-Maurice.JPG)
 
 ![[Carte_Thoiry.png]]
@@ -35,9 +34,6 @@ questions:
 Quel parc animalier ouvert en 1968 en région parisienne est renommé pour ses safaris en voiture, permettant aux visiteurs d'observer des animaux sauvages en semi-liberté depuis leur véhicule?
 
 Dans quelle commune des [[Yvelines]], un château datant du XVIIe siècle et ses jardins conçus par un disciple d'[[André Le Nôtre]] constituent une des principales attractions touristiques de la région? <!-- score: 4 -->
-
-Quel village français a été l'un des premiers en [[Europe]] à accueillir un labyrinthe végétal interactif, activité idéale pour les familles en quête d'aventure?
-
 ###### Description
 
 [[Thoiry]], situé dans les [[Yvelines]] en [[Île-de-France]], est surtout célèbre pour accueillir le [[Zooparc de Thoiry]], une attraction qui attire des visiteurs depuis sa création en 1968.  

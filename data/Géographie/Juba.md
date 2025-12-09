@@ -25,18 +25,12 @@ indice_6 :
   - population multiethnique
 ---
 
-
 ![Image de Juba](https://upload.wikimedia.org/wikipedia/commons/d/d7/Juba_Sudan_aerial_view.jpg)
 
 ![[Carte_Juba.png]]
 ###### Questions
 
-Quelle est la capitale de l'[[Algérie]] lors de la période numide au [[IIe siècle av. J.-C.]] ?
-
-Dans quelle ville [[Juba II]] a-t-il établi sa cour après avoir été désigné roi de [[Maurétanie]] par [[Auguste]] en [[25 av. J.-C.]] ? <!-- score: 10 -->
-
-Quel archéologue français a relancé les fouilles à [[Juba]] en 1960, révélant des trésors de l'époque numide ?
-
+Quel est la capitale du [[Soudan du Sud]] ? <!-- score: 10 -->
 ###### Description
 
 [[Juba]] est la capitale du [[Soudan du Sud]], un jeune pays qui a obtenu son indépendance du [[Soudan]] en 2011. Située sur les rives du [[Nil Blanc]], elle est devenue un centre administratif et commercial depuis son développement rapide au milieu des années 2000. La ville a connu une croissance démographique importante, passant d'une petite ville à une métropole de plus d'un million d'habitants en seulement quelques années. [[Juba]] a joué un rôle crucial lors des pourparlers de paix, ce qui en fait un lieu symbolique de réconciliation depuis la signature de l'accord en 2005.

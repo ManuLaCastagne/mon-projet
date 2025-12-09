@@ -26,6 +26,7 @@ questions:
  - Dans quelle ville Louis Lumière a-t-il tourné...
 ---
 
+
 ![Image de La Ciotat](https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Ciotat_Plan_1830.png)
 
 ![[Carte_La Ciotat.png]]
@@ -35,7 +36,7 @@ Dans quelle ville française, en 1895, a été projeté le premier film public d
 
 Quelle commune des [[Bouches-du-Rhône]] abrite une des plus anciennes salles de cinéma du monde, l'[[Eden Théâtre]], inaugurée en 1889 ?
 
-Quel port de la [[Méditerranée]], célèbre pour ses chantiers navals et ses criques, est aussi le lieu où l'on peut visiter la chapelle Notre-Dame-de-la-Garde datant du [[15ème siècle]] ?
+Quel port de la [[Méditerranée]], célèbre pour ses chantiers navals et ses criques, est aussi le lieu où l'on peut visiter la chapelle Notre-Dame-de-la-Garde datant du [[15ème siècle]] ? <!-- score: 4 -->
 
 ###### Description
 

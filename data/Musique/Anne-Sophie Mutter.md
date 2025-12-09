@@ -28,12 +28,11 @@ questions:
 
 ###### Questions
 
-Quel prodige du violon a commencé sa carrière internationale à l'âge de 13 ans sous la direction du chef d'orchestre [[Herbert von Karajan]] en 1977 ?
+Quel prodige allemande du violon a commencé sa carrière internationale à l'âge de 13 ans sous la direction du chef d'orchestre [[Herbert von Karajan]] en 1977 ? <!-- score: 5 -->
 
 Quelle violoniste a été désignée pour la première fois comme responsable d'une classe principale de violon à l'Académie de Musique d'Automne de [[Salzbourg]] en 1987 ?
 
 Quelle musicienne renommée a créé en 2008 la [[Fondation Anne-Sophie Mutter]], dédiée à la promotion de jeunes artistes talentueux ?
-
 ###### Description
 
 [[Anne-Sophie Mutter]] est une violoniste allemande de renommée mondiale, née le 29 juin 1963 à [[Rheinfelden]], en Allemagne. 

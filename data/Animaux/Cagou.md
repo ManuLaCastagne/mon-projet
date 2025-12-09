@@ -22,11 +22,11 @@ questions:
 
 ###### Questions
 
-Quel est l'oiseau emblématique de la [[Nouvelle-Calédonie]], qui bien qu'étant incapable de voler, est connu pour son cri distinctif appelé "cri du diable" ? <!-- score: 4 -->
+Quel est l'oiseau emblématique de la [[Nouvelle-Calédonie]], qui bien qu'étant incapable de voler, est connu pour son cri distinctif appelé "cri du diable" ?
 
 Quel animal est cité comme étant le seul membre de la famille des [[Rhynochetidae]], un groupe d'oiseaux vivant exclusivement en [[Nouvelle-Calédonie]]?
 
-Quel est le nom de l'espèce animale qui a été classée en danger d'extinction dès [[1994]] par l'[[Union internationale pour la conservation de la nature]] ([[UICN]]) et qui est célèbre pour son absence de capacité de vol ?
+Quel est le nom de l'espèce animale qui a été classée en danger d'extinction dès [[1994]] par l'[[Union internationale pour la conservation de la nature]] ([[UICN]]) et qui est célèbre pour son absence de capacité de vol ? <!-- score: 4 -->
 
 ###### Description
 

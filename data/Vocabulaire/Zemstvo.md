@@ -17,6 +17,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Zemstvo](https://upload.wikimedia.org/wikipedia/commons/8/8b/1891_Rzhev_Zemstvo_Cover_No9.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quel était le nom des assemblées locales créées en [[Russie]] impériale sou
 
 Comment appelait-on les institutions qui ont été mises en place dans certaines régions de l'[[Empire russe]] à partir de 1864 pour améliorer la situation économique et sociale des paysans ?
 
-Quel système d'assemblées fut aboli après la Révolution de [[1917]] en [[Russie]] et était responsable des questionnements éducatifs, sanitaires et routiers dans les provinces ? <!-- score: 4 -->
+Quel système d'assemblées fut aboli après la Révolution de [[1917]] en [[Russie]] et était responsable des questionnements éducatifs, sanitaires et routiers dans les provinces ? <!-- score: 3 -->
 
 ###### Description
 

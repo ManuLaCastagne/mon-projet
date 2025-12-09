@@ -29,11 +29,6 @@ questions:
 ###### Questions
 
 Quel titre culte de 1985 chanté par [[Guesch Patti]] fait référence au prénom [[Etienne]] et a marqué les années 80 ?
-
-Quelle chanson de 1989 interprétée par le chanteur [[Étienne Daho]], évoque un certain [[Etienne]], et a connu un grand succès en France ?
-
-Quel tube phare, sorti en 1986, de l'album "[[Pop Satori]]" a été écrit par [[Étienne Daho]] et inclut le prénom [[Etienne]] dans son refrain ?
-
 ###### Description
 
 [[Étienne Roda-Gil]], parolier emblématique de la chanson française, a collaboré avec de nombreux artistes de renom, dont [[Julien Clerc]] et [[Vanessa Paradis]]. 

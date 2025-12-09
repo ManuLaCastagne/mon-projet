@@ -24,13 +24,14 @@ questions:
  - En 1997, dans "Sept ans au Tibet" de Jean-Jacques Annaud, quel acteur américain incarne un alpiniste autrichien réfugié à Lhassa durant la 2de Guerre mondiale?
 ---
 
+
 ![Image de Brad Pitt](https://upload.wikimedia.org/wikipedia/commons/9/90/Brad_Pitt-69858.jpg)
 
 ###### Questions
 
 Dans quel film de [[David Fincher]] de 1999 [[Brad Pitt]] incarne-t-il le personnage de [[Tyler Durden]]?
 
-En 1994, qui joue dans une adaptation littéraire d'[[Anne Rice]] aux côtés de [[Tom Cruise]] et [[Kirsten Dunst]] dans [[Entretien avec un vampire]] ?
+En 1994, qui joue dans une adaptation littéraire d'[[Anne Rice]] aux côtés de [[Tom Cruise]] et [[Kirsten Dunst]] dans [[Entretien avec un vampire]] ? <!-- score: 2 -->
 
 Pour quel film de [[Quentin Tarantino]], sorti en 2020, [[Brad Pitt]] a-t-il remporté l'Oscar du meilleur acteur dans un second rôle?
 

@@ -22,11 +22,12 @@ indice_6:
   - trilogie marseillaise
 ---
 
+
 ![Image de Marcel Pagnol](https://upload.wikimedia.org/wikipedia/commons/0/09/Marcel_Pagnol_1931.jpg)
 
 ###### Questions
 
-En 1939, quel cinéaste d'Aubagne...
+En 1939, quel cinéaste d'Aubagne... <!-- score: 2 -->
 
 Quel cinéaste a été le premier à être élu à l’[[Académie française]] en 1946, reconnaissant ainsi pleinement le [[cinéma]] comme un art à part entière ?
 

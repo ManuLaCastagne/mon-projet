@@ -22,11 +22,12 @@ questions:
  - Sous quel nom désigne-t-on les pillards des pays scandinaves...
 ---
 
+
 ![Image de Vikings](https://upload.wikimedia.org/wikipedia/commons/d/d7/Dublin_-_Dublinia_-_20190809102938.jpg)
 
 ###### Questions
 
-Quel peuple scandinave a effectué le raid sur [[Lindisfarne]] en [[793]], marquant le début de leur ère d'expansion en [[Europe]]?
+Quel peuple scandinave a effectué le raid sur [[Lindisfarne]] en [[793]], marquant le début de leur ère d'expansion en [[Europe]]? <!-- score: 6 -->
 
 Quel groupe de navigateurs a découvert l'[[Amérique]] bien avant [[Christophe Colomb]], en arrivant sur les côtes de l'[[île de Terre-Neuve]], au début de l'an [[Chiliogone]]?
 

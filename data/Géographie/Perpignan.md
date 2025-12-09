@@ -23,11 +23,12 @@ indice_6 :
   - Roussillon
 ---
 
+
 ![[Carte_Perpignan.png]]
 
 ###### Questions
 
-Dans quelle ville française, réputée pour son emblématique mythique gare que [[Salvador Dalí]] a qualifiée de "centre cosmique du monde", a-t-elle été inaugurée en [[1858]] ?
+Dans quelle ville française, réputée pour son emblématique mythique gare que [[Salvador Dalí]] a qualifiée de "centre cosmique du monde", a-t-elle été inaugurée en [[1858]] ? <!-- score: 7 -->
 
 Quelle ville, située dans la région [[Occitanie]], est connue pour accueillir le festival de photojournalisme [[Visa pour l'Image]] chaque année depuis [[1989]] ?
 
