@@ -28,7 +28,7 @@ questions:
 
 ###### Questions
 
-Quel titre culte de 1985 chanté par [[Guesch Patti]] fait référence au prénom [[Etienne]] et a marqué les années 80 ?
+Quel titre culte de 1985 chanté par [[Guesch Patti]] fait référence à un prénom et a marqué les années 80 ?
 ###### Description
 
 [[Étienne Roda-Gil]], parolier emblématique de la chanson française, a collaboré avec de nombreux artistes de renom, dont [[Julien Clerc]] et [[Vanessa Paradis]]. 

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Jean Teulé.md",
+                "file": "Vocabulaire/Mercaptan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jean Teulé"
+              "title": "Mercaptan"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Jean Teulé.md",
+                "file": "Vocabulaire/Mercaptan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jean Teulé"
+              "title": "Graphique de Mercaptan"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,6 +357,13 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Sport/Marco Pantani.md",
+    "Géographie/La Ciotat.md",
+    "Cinéma/Zelig.md",
+    "Musique/Etienne, Etienne.md",
+    "Littérature/Sorj Chalandon.md",
+    "Littérature/Blaise Cendrars.md",
+    "Littérature/Jean Teulé.md",
     "Géographie/Juba.md",
     "Cinéma/Pinocchio.md",
     "Architecture/Pont di Verrazzano.md",
@@ -377,13 +384,6 @@
     "Art/Paolo Uccello.md",
     "Art/quattrocento.md",
     "Culture générale/maritime.md",
-    "Bédouins d'Arabie.md",
-    "Bédouins.md",
-    "Cinéma/Festival de Cannes.md",
-    "Faits surprenants.md",
-    "Art/Nicolas de Staël.md",
-    "Histoire/Galigaï.md",
-    "Littérature/Importance of Being Earnest.md",
     "Sans titre.canvas"
   ]
 }

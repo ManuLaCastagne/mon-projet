@@ -32,7 +32,7 @@ questions:
 ![[Carte_La Ciotat.png]]
 ###### Questions
 
-Dans quelle ville française, en 1895, a été projeté le premier film public des [[frères Lumière]], intitulé « L'Arrivée d'un train en gare de [[Géographie/La Ciotat]] » ?
+Dans quelle ville française, en 1895, a été projeté le premier film public des [[frères Lumière]], intitulé « L'Arrivée d'un train en gare » ?
 
 Quelle commune des [[Bouches-du-Rhône]] abrite une des plus anciennes salles de cinéma du monde, l'[[Eden Théâtre]], inaugurée en 1889 ?
 
