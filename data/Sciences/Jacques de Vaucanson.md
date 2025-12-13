@@ -22,11 +22,12 @@ questions:
  - Quel inventeur français du XVIIIe siècle est célèbre pour avoir créé 3 automates, dont le Joueur de flûte traversière et le Joueur de tambourin?
 ---
 
+
 ![Image de Jacques de Vaucanson](https://upload.wikimedia.org/wikipedia/commons/4/44/Jacques_de_Vaucanson_rectangular.jpg)
 
 ###### Questions
 
-Quel scientifique français a inventé en [[1737]] le premier automate capable de jouer de la flûte traversière avec des doigts artificiels ?
+Quel scientifique français a inventé en [[1737]] le premier automate capable de jouer de la flûte traversière avec des doigts artificiels ? <!-- score: 3 -->
 
 Quel ingénieur est célèbre pour avoir conçu en [[1739]] un canard automate capable d'imiter la digestion humaine ?
 
