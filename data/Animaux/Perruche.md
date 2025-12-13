@@ -18,6 +18,7 @@ questions:
 ---
 
 
+
 ![Image de Perruche](https://upload.wikimedia.org/wikipedia/commons/7/76/Melopsittacus_undulatus_-_Vogelpark_Steinen_01.jpg)
 
 ###### Questions
@@ -26,7 +27,7 @@ Quel type d'animal a appris à parler et a témoigné dans une affaire de meurtr
 
 Quel oiseau a été reconnu officiellement comme un problème écologique en [[Australie]] après avoir été introduit dans le pays au [[XIXe siècle]] ?
 
-Quel est le surnom de l'espèce d'oiseau qui a été impliquée dans la chute de [[Nicolas Sarkozy]] de son pied-à-terre de [[Cap Nègre]] en [[2016]] lorsqu'il a essayé d'échapper à sa volière ?
+Quel est le surnom de l'espèce d'oiseau qui a été impliquée dans la chute de [[Nicolas Sarkozy]] de son pied-à-terre de [[Cap Nègre]] en [[2016]] lorsqu'il a essayé d'échapper à sa volière ? <!-- score: 5 -->
 
 ###### Description
 
