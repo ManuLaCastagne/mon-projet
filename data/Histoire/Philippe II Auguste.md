@@ -20,11 +20,12 @@ indice_6:
   - rival de Jean sans Terre
 ---
 
+
 ![Image de Philippe II Auguste](https://upload.wikimedia.org/wikipedia/commons/7/7d/Statue_de_Philippe_II_Auguste_-_J.L.Jaley.jpg)
 
 ###### Questions
 
-En 1189, face à quel roi de France, fils de [[Louis VII]], Henri II Plantagenêt reconnaît-il sa défaite, lors d'une entrevue dans le donjon de [[Villandry]] ?
+En 1189, face à quel roi de France, fils de [[Louis VII]], Henri II Plantagenêt reconnaît-il sa défaite, lors d'une entrevue dans le donjon de [[Villandry]] ? <!-- score: 2 -->
 
 Quel roi de France a établi l'usage du [[carnet de comptes]] pour vérifier les dépenses de l'administration royale à la fin du XIIe siècle ?
 
