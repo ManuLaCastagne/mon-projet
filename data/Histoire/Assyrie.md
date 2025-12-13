@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Assyrie](https://upload.wikimedia.org/wikipedia/commons/8/87/Assyrie_general_en.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel était le royaume qui a mis en place la première bibliothèque connue à [
 
 Quelle ancienne civilisation a utilisé des machines de siège sophistiquées pour la première fois lors de ses campagnes militaires, notamment lors de son expansion sous [[Tiglath-Phalasar III]] en [[745 avant J.-C.]] ?
 
-Quel empire, sous le règne de [[Sargon II]] en [[722 avant J.-C.]], a déporté les habitants du [[Royaume d'Israël]] après la conquête de [[Samarie]] ? <!-- score: 3 -->
+Quel empire, sous le règne de [[Sargon II]] en [[722 avant J.-C.]], a déporté les habitants du [[Royaume d'Israël]] après la conquête de [[Samarie]] ? <!-- score: 2 -->
 
 ###### Description
 
