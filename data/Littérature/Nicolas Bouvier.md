@@ -24,13 +24,14 @@ questions:
  - Dans son livre "L'Usage du monde" paru en 1963, quel écrivain suisse retrace le voyage qu'il a entrepris jusqu'en Afghanistan ?
 ---
 
+
 ![Image de Nicolas Bouvier](https://upload.wikimedia.org/wikipedia/commons/2/2e/Nicolas_Bouvier_%281987%29_by_Erling_Mandelmann.jpg)
 
 ###### Questions
 
 Quel auteur, célèbre pour avoir influencé le genre littéraire du récit de voyage, a écrit [[L'Usage du monde]] publié en 1963 ?  
 
-Quel écrivain suisse est note pour sa collaboration avec le photographe [[Thierry Vernet]] durant un périple décrit dans un ouvrage majeur de la littérature de voyage ?  
+Quel écrivain suisse est note pour sa collaboration avec le photographe [[Thierry Vernet]] durant un périple décrit dans un ouvrage majeur de la littérature de voyage ? <!-- score: 4 -->
 
 À quel auteur doit-on le retour du voyageur en 2004 avec la publication de [[Journal d'Aran et d'autres lieux]] ?
 
