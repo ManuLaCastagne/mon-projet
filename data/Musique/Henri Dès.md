@@ -24,17 +24,13 @@ questions:
  - Artiste né en Suisse en 1940, j'ai débuté en interprétant des chansons de corps de garde et présenté mon pays à l'Eurovision 1970.
 ---
 
-
 ![Image de Henri Dès](https://upload.wikimedia.org/wikipedia/commons/c/c0/Henri_D%C3%A8s.jpg)
 
 ###### Questions
 
-En quelle année [[Henri Dès]] a-t-il participé pour la première fois au [[Concours Eurovision]] de la [[chanson]] en représentant la [[Suisse]] ? <!-- score: 5 -->
-
 Quel célèbre chanteur pour enfants a été fait [[chevalier de l'ordre des Arts et des Lettres]] par le [[ministère de la Culture français]] en 2019 ?
 
 Quel artiste a sorti l'album pour enfants intitulé [[Le Beau Tambour]] en 1996 qui est devenu un classique dans le répertoire musical pour enfants ?
-
 ###### Description
 
 [[Henri Dès]], né en 1940 à [[Renens]], est un chanteur suisse principalement connu pour ses chansons destinées aux enfants. 
