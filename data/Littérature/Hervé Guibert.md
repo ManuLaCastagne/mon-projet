@@ -22,6 +22,7 @@ indice_6:
   - Journal intime Le Mausolée des amants
 ---
 
+
 ![[Pasted image 20250505190944.png]]
 ###### Questions
 
@@ -31,7 +32,7 @@ Quel écrivain français, ami de [[Michel Foucault]], est connu pour son roman a
 
 Quel auteur, né en 1955 et décédé en 1991, a travaillé comme photographe pour le journal [[Le Monde (journal)]], tout en étant reconnu pour sa contribution à la littérature française ?
 
-Quel écrivain a été à l'origine du documentaire controversé [[La Pudeur ou l'Impudeur]], diffusé en 1992, qui décrit ses derniers mois de vie avec une franchise rare sur la maladie ?
+Quel écrivain a été à l'origine du documentaire controversé [[La Pudeur ou l'Impudeur]], diffusé en 1992, qui décrit ses derniers mois de vie avec une franchise rare sur la maladie ? <!-- score: 2 -->
 
 ###### Description
 
