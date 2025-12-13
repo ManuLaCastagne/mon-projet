@@ -26,14 +26,15 @@ questions:
   - Quelle variété de gypse a donné son nom à la côte bordée de falaises blanches longeant les ports de Fécamp et Saint-Valéry-en-Caux ?
 ---
 
-![Image de Côte d'Albâtre](https://upload.wikimedia.org/wikipedia/commons/2/2b/C%C3%B4te_d%27Alb%C3%A2tre_%C3%A0_l%C2%B4Aiguille_de_Belval.jpg)
 
-![[Carte_Côte d'Albâtre.png]]
+![Image de Côte d'Albâtre](https://upload.wikimedia.org/wikipedia/commons/2/2b/C%C3%B4te_d%27Alb%C3%A2tre_%C3%A0_l%C2%B4Aiguille_de_Belval.jpg)
+
+![[Carte_Côte d'Albâtre.png]]
 ###### Questions
 
 Quel est le nom de la région de [[Normandie]] connue pour ses falaises de craie blanche spectaculaires situées le long de la [[Manche]] ?
 
-Quel est le nom de la zone côtière qui s'étend sur environ 130 kilomètres entre [[Le Havre]] et la ville portuaire de [[Dieppe]], remarquable par sa beauté naturelle ?
+Quel est le nom de la zone côtière qui s'étend sur environ 130 kilomètres entre [[Le Havre]] et la ville portuaire de [[Dieppe]], remarquable par sa beauté naturelle ? <!-- score: 6 -->
 
 Comment s'appelle la côte du nord-ouest de la France, où les falaises atteignent des hauteurs impressionnantes, culminant à 110 mètres à [[Étretat]] ?
 
