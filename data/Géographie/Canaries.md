@@ -27,6 +27,7 @@ questions:
 ---
 
 
+
 ![Image de Canaries](https://upload.wikimedia.org/wikipedia/commons/0/02/Senecio_leucanthemifolius_on_the_beach_close_to_%C3%93rzola_on_Lanzarote%2C_June_2013_%284%29.jpg)
 
 ![[Carte_Canaries.png]]
@@ -36,7 +37,7 @@ questions:
 
 Quel archipel, dont l'île [[Tenerife]] est la plus grande, abrite le [[Pico del Teide]], le troisième plus haut volcan du monde mesuré depuis le fond de l'océan ?
 
-Quel groupe d'îles a été déclaré région ultrapériphérique de l'[[Union européenne]] le 1er janvier 1991 ? <!-- score: 4 -->
+Quel groupe d'îles a été déclaré région ultrapériphérique de l'[[Union européenne]] le 1er janvier 1991 ? <!-- score: 3 -->
 
 ###### Description
 
