@@ -24,11 +24,12 @@ questions:
  - En 2002, quel film de Steven Soderbergh évoque le cambriolage par 11 spécialistes du coffre-fort d'un casino de Las Vegas?
 ---
 
+
 ![Image de Ocean's Eleven](https://upload.wikimedia.org/wikipedia/commons/a/a3/OceansElevenTimeline.png)
 
 ###### Questions
 
-Quel film réalisé par [[Steven Soderbergh]] en 2001 met en scène un groupe d'experts planifiant un vol simultané de trois casinos à [[Sport/Las Vegas]] ?
+Quel film réalisé par [[Steven Soderbergh]] en 2001 met en scène un groupe d'experts planifiant un vol simultané de trois casinos à [[Sport/Las Vegas]] ? <!-- score: 3 -->
 
 Dans quel film de braquage réunit-on des acteurs tels que [[George Clooney]], [[Brad Pitt]] et [[Matt Damon]] pour former une équipe de onze criminels talentueux ?
 
