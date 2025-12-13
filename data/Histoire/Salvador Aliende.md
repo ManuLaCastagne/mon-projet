@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Salvador Aliende](https://upload.wikimedia.org/wikipedia/commons/4/45/ChFSA_FD1197205170%281%29.djvu)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel est le nom du président [[chilien]] qui a été renversé lors du coup d'�
 
 Qui fut le premier président [[marxiste]] élu démocratiquement en [[Amérique latine]] ?
 
-Quel leader politique a nationalisé l'industrie du cuivre au [[Chili]] dans les années [[1970]] ? <!-- score: 4 -->
+Quel leader politique a nationalisé l'industrie du cuivre au [[Chili]] dans les années [[1970]] ? <!-- score: 3 -->
 
 ###### Description
 
