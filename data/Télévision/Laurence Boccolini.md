@@ -20,11 +20,12 @@ indice_6 :
   - France Télévisions
 ---
 
+
 ![Image de Laurence Boccolini](https://upload.wikimedia.org/wikipedia/commons/7/74/Portrait_de_Laurence_Boccolini%2C_par_l%27intelligence_artificielle_Grok_%282%29.jpg)
 
 ###### Questions
 
-Quel présentateur a animé l'émission [[Le Maillon faible]] en [[France]] de [[2001]] à [[2007]] ?
+Quel présentateur a animé l'émission [[Le Maillon faible]] en [[France]] de [[2001]] à [[2007]] ? <!-- score: 9 -->
 
 Quelle personnalité de télévision française est devenue la gagnante de l'émission [[Mask Singer]] en [[2020]] ?
 
