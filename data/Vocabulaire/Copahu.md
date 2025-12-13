@@ -16,13 +16,14 @@ indice_6 :
   - bois précieux
 ---
 
+
 ![Image de Copahu](https://upload.wikimedia.org/wikipedia/commons/f/f6/CopaibaOleoresin.png)
 
 ###### Questions
 
 Quel est le nom de la résine balsamique produite par l'arbre [[Copaifera]] utilisé en parfumerie et en médecine traditionnelle ?
 
-Quelle substance extrait-on de l'arbre [[Copaifera]] originaire d'[[Amérique du Sud]], souvent comparée à l'[[encens]] et utilisée en aromathérapie ?
+Quelle substance extrait-on de l'arbre [[Copaifera]] originaire d'[[Amérique du Sud]], souvent comparée à l'[[encens]] et utilisée en aromathérapie ? <!-- score: 2 -->
 
 Comment appelle-t-on le baume traditionnellement employé en [[Chimie naturelle]] et extrait notamment au [[Brésil]] et au [[Pérou]] pour ses propriétés anti-inflammatoires ?
 
