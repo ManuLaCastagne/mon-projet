@@ -26,6 +26,7 @@ questions:
  - Abritant notamment  la ville de Baccarat, célèbre pour sa cristallerie, et celle de Lunéville...
 ---
 
+
 ![Image de Meurthe-et-Moselle](https://upload.wikimedia.org/wikipedia/commons/2/27/Ch%C3%A2teau_de_Fl%C3%A9ville_%28Meurthe-et-Moselle%29.jpg)
 
 ![[Carte_Meurthe-et-Moselle.png]]
@@ -35,7 +36,7 @@ Dans quel département français, créé lors de la Révolution française en 17
 
 Quel département, renommé pour ses mines de [[Fer]] au XIXe siècle, se situe dans la région [[Grand Est]] et abrite une partie importante du [[plateau de Haye]] ?
 
-Dans quel département français peut-on visiter le célèbre musée de l'histoire de la [[carrière de pierre]] de [[Butgnéville]], exploitée intensivement jusqu'au début du XXe siècle ?
+Dans quel département français peut-on visiter le célèbre musée de l'histoire de la [[carrière de pierre]] de [[Butgnéville]], exploitée intensivement jusqu'au début du XXe siècle ? <!-- score: 4 -->
 
 ###### Description
 
