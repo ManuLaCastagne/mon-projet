@@ -21,9 +21,9 @@ indice_6 :
 
 ###### Questions
 
-Quel est le terme utilisé pour désigner les anciens habitants de la région autour du [[Puy-en-Velay]] dans l'Antiquité ?
+Quel est le terme utilisé pour désigner les anciens habitants de la région autour du [[Puy-en-Velay]] dans l'Antiquité ? <!-- score: 6 -->
 
-Comment appelle-t-on les personnes originaires de l'ancien peuple gaulois établis dans ce qui est aujourd'hui la Haute-Loire ? <!-- score: 3 -->
+Comment appelle-t-on les personnes originaires de l'ancien peuple gaulois établis dans ce qui est aujourd'hui la Haute-Loire ?
 
 Quel est le nom des habitants qui ont donné leur nom à la région historique du [[Velay]] ?
 
