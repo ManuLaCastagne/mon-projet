@@ -22,11 +22,12 @@ questions:
  - Quelle série née en 2013 met en scène Cécile Bois dans le rôle d'un commandant de police ?
 ---
 
+
 ![Image de Candice Renoir]()
 
 ###### Questions
 
-Dans quelle série de [[france.tv]] diffusée depuis [[2013]], une commandante de la police conjugue son rôle de chef avec sa vie de mère de quatre enfants ?
+Dans quelle série de [[france.tv]] diffusée depuis [[2013]], une commandante de la police conjugue son rôle de chef avec sa vie de mère de quatre enfants ? <!-- score: 2 -->
 
 Quel personnage incarné par [[Cécile Bois]] revient à la vie professionnelle après dix ans d'absence dans la série créée par [[Solen Roy-Pagenault]], [[Robin Barataud]], et [[Brigitte Peskine]] ?
 
