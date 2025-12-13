@@ -24,18 +24,13 @@ questions:
  - En 2017, dans le film "Django" qui lui était consacré, quel acteur français incarnait Django Reinhardt ?
 ---
 
-
-
 ![Image de Reda Kateb](https://upload.wikimedia.org/wikipedia/commons/7/7b/Reda_Kateb_Pressekonferenz_Django_Berlinale_2017_07.jpg)
 
 ###### Questions
 
-Dans quel film de 2013 [[Reda Kateb]] tient-il un rôle marquant aux côtés de [[Cécile de France]] ?
-
 Quel acteur français, né en 1977, a remporté le [[César du Meilleur Acteur dans un Second Rôle]] en 2015 pour le film [[Hippocrate]] ? <!-- score: 3 -->
 
 Quel célèbre acteur a réalisé le court-métrage intitulé [[Pitchoune]] en 2015 ?
-
 ###### Description
 
 L'acteur [[Reda Kateb]], né le 27 juillet 1977, est une figure incontournable du cinéma français depuis la fin des années 2000. En 2009, il se fait remarquer avec son rôle de Malik dans le film acclamé "[[Un prophète]]" de [[Jacques Audiard]], qui remporte le Grand Prix au Festival de Cannes. En 2014, sa performance dans "[[Hippocrate]]" lui vaut une nomination aux [[Césars]], illustrant sa capacité à incarner des personnages complexes. Par ailleurs, [[Reda Kateb]] reçoit le [[César du meilleur acteur dans un second rôle]] en 2015 pour son interprétation dans "[[Les Revenants]]", renforçant ainsi sa réputation d'acteur talentueux et polyvalent.
