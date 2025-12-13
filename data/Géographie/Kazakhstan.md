@@ -26,12 +26,13 @@ questions:
  - Quel pays d'Asie centrale abrite, dans sa capitale Astana, une pyramide haute de 62 m, abritant 4 lieux de culte dédiés au judaïsme, à l'islam, au christianisme et au bouddhisme?
 ---
 
+
 ![Image de Kazakhstan](https://upload.wikimedia.org/wikipedia/commons/c/c8/Kazakhstan_Altay_2.jpg)
 
 ![[Carte_Kazakhstan.png]]
 ###### Questions
 
-Dans quel pays se trouve le [[cosmodrome]] de Baïkonour, le plus ancien et le plus grand des centres de lancement spatial, utilisé depuis 1955 ?
+Dans quel pays se trouve le [[cosmodrome]] de Baïkonour, le plus ancien et le plus grand des centres de lancement spatial, utilisé depuis 1955 ? <!-- score: 3 -->
 
 Quel pays d'Asie centrale, dont la capitale est [[Astana]], est le plus grand des pays enclavés du monde ?
 
