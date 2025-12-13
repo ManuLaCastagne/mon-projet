@@ -21,18 +21,13 @@ indice_6 :
   - Mariage en 2011
 ---
 
-
-
 ![Image de Kate Middleton](https://upload.wikimedia.org/wikipedia/commons/b/bf/Princess_of_Wales_in_2023_%28cropped%2903.JPG)
 
 ###### Questions
 
 Quel membre de la famille royale britannique a été impliqué dans un projet photographique pour le magazine [[Vogue]] en 2016 ? <!-- score: 4 -->
 
-Quelle personnalité a conçu le jardin "Back to Nature" pour le [[Chelsea Flower Show]] en 2019 ? <!-- score: 5 -->
-
 Quel est le membre de la famille royale britannique qui a étudié l'histoire de l'art à l'[[Université de St Andrews]] en 2001 ?
-
 ###### Description
 
 [[Kate Middleton]], connue sous le titre officiel de [[Catherine, duchesse de Cambridge]], est née le 9 janvier 1982 à [[Reading]], en [[Angleterre]]. 
