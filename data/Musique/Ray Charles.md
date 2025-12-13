@@ -24,6 +24,7 @@ questions:
  - En 1955, avec la chanson "I Got A Woman", parlant de sexe sur un rythme liturgique, quel chanteur et pianiste provoque un énorme scandale?
 ---
 
+
 ![Image de Ray Charles](https://upload.wikimedia.org/wikipedia/commons/e/e8/Ray_Charles_classic_piano_pose.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel célèbre musicien, ayant perdu la vue à l'âge de sept ans, a reçu 17 [[
 
 Quel artiste a fait partie de la première promotion d'intronisés au [[Rock and Roll Hall of Fame]] en 1986 ?
 
-Quel chanteur a réalisé une célèbre reprise de la chanson "Georgia on My Mind" en 1960, qui est devenue la chanson officielle de la [[Géorgie (USA)]] en 1979 ?
+Quel chanteur a réalisé une célèbre reprise de la chanson "Georgia on My Mind" en 1960, qui est devenue la chanson officielle de la [[Géorgie (USA)]] en 1979 ? <!-- score: 3 -->
 
 ###### Description
 
