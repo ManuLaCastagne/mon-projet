@@ -26,6 +26,7 @@ questions:
  - Quel département de la région Grand Est abrite la commune de Sy, située à 30 km de Sedan ?
 ---
 
+
 ![Image de Ardennes](https://upload.wikimedia.org/wikipedia/commons/6/6d/Ardennais_-_dialecte_de_transition.png)
 
 ![[Carte_Ardennes.png]]
@@ -35,7 +36,7 @@ Dans quel département français se trouve le célèbre massif forestier de la [
 
 Quel département français est traversé par la [[Meuse]], un important fleuve européen qui prend sa source en France et se jette dans la [[Mer du Nord]] aux [[Pays-Bas]] ? 
 
-Quel département, créé en 1790 lors de la Révolution française, tient son nom d'une chaîne de montagnes qui s'étend principalement entre la [[Belgique]], le [[Luxembourg]] et la France ?
+Quel département, créé en 1790 lors de la Révolution française, tient son nom d'une chaîne de montagnes qui s'étend principalement entre la [[Belgique]], le [[Luxembourg]] et la France ? <!-- score: 6 -->
 
 ###### Description
 
