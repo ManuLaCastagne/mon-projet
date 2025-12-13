@@ -22,13 +22,14 @@ indice_6 :
   - Mr. Pink
 ---
 
+
 ![Image de Steve Buscemi](https://upload.wikimedia.org/wikipedia/commons/3/34/Steve_Buscemi_crop.jpg)
 
 ###### Questions
 
 Quel acteur américain ayant une carrière prolifique a commencé sa carrière en tant que [[pompier]] à [[New York]] dans les années 1980 avant de devenir célèbre pour ses rôles dans [[Reservoir Dogs]] et [[Fargo (film)]] ?
 
-Quel acteur, connu pour ses collaborations avec [[les frères Coen]], a également fait une apparition mémorable dans la série télévisée [[Les Soprano]] et a réalisé plusieurs épisodes de la série entre 2004 et 2006 ?
+Quel acteur, connu pour ses collaborations avec [[les frères Coen]], a également fait une apparition mémorable dans la série télévisée [[Les Soprano]] et a réalisé plusieurs épisodes de la série entre 2004 et 2006 ? <!-- score: 2 -->
 
 Quel acteur est né le 13 décembre 1957 à [[Brooklyn]] et a prêté sa voix au personnage de [[Randall Boggs]] dans le film d'animation [[Monstres & Cie]] en 2001 ?
 
