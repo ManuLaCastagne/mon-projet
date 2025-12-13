@@ -21,11 +21,12 @@ indice_6 :
   - Originaire du Portugal
 ---
 
+
 ![Image de Jazz Correia](https://upload.wikimedia.org/wikipedia/commons/3/35/Art_d%C3%A9co_e_ind%C3%BAstria_-_Brasil%2C_d%C3%A9cadas_de_1930_e_1940%2C_Anais_do_Museu_Paulista.pdf)
 
 ###### Questions
 
-Quelle personnalité de la télé-réalité a été fiancée à [[Laurent Correia]] en 2018 et est connue pour son rôle principal dans l'émission "[[La Villa: La Bataille des Couples]]" ?
+Quelle personnalité de la télé-réalité a été fiancée à [[Laurent Correia]] en 2018 et est connue pour son rôle principal dans l'émission "[[La Villa: La Bataille des Couples]]" ? <!-- score: 3 -->
 
 Quel membre de la famille [[Correia]] a été au centre de l'émission télévisée "[[JLC Family]]" diffusée pour la première fois en 2019 sur [[TFX]] ?
 
