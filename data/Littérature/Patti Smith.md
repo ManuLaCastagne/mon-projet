@@ -24,17 +24,11 @@ questions:
  - Dès la fin des années 60, quelle chanteuse de rock américaine, interprète de l'album "Horses", a inspiré le photographe Robert Mapplethorpe?
 ---
 
-
 ![Image de Patti Smith](https://upload.wikimedia.org/wikipedia/commons/8/80/Patti_Smith_performing_in_Finland%2C_2007.jpg)
 
 ###### Questions
 
-En quelle année [[Patti Smith]] a-t-elle publié son livre mémoires intitulé [[Just Kids]] ? <!-- score: 5 -->
-
-Quel est le titre du recueil de poésie que [[Patti Smith]] a publié en 1972 ?
-
-En 2010, [[Patti Smith]] a reçu quel prestigieux prix littéraire pour son ouvrage [[Just Kids]] ?
-
+En 2010, quelle écrivaine a reçu quel prestigieux prix littéraire pour son ouvrage [[Just Kids]] ? <!-- score: 5 -->
 ###### Description
 
 [[Patti Smith]] est souvent surnommée la "marraine du punk" grâce à son influence majeure sur la scène musicale des années 1970. 
