@@ -25,11 +25,12 @@ questions:
 ---
 
 
+
 ![Image de Henry Fonda](https://upload.wikimedia.org/wikipedia/commons/0/0c/Henry_Fonda_in_Warlock.jpg)
 
 ###### Questions
 
-En 1981, quel acteur a remporté l'[[Oscar du meilleur acteur]] pour sa performance dans le film [[On Golden Pond]] ? <!-- score: 4 -->
+En 1981, quel acteur a remporté l'[[Oscar du meilleur acteur]] pour sa performance dans le film [[On Golden Pond]] ? <!-- score: 2 -->
 
 Dans quel film de 1940, co-réalisé par [[John Ford]], l'acteur [[Henry Fonda]] joue-t-il le rôle principal de [[Tom Joad]] ?
 
