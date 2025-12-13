@@ -21,6 +21,7 @@ questions:
 ---
 
 
+
 ![Image de Arachnée](https://upload.wikimedia.org/wikipedia/commons/9/99/Tableaux_anciens_et_modernes_des_diff%C3%A9rents_%C3%A9coles_%28IA_frick-31072002173500%29.pdf)
 
 ###### Questions
@@ -29,7 +30,7 @@ Dans la [[mythologie grecque]], quelle tisseuse talentueuse a été transformée
 
 Quel personnage mythologique incarne la rivalité entre une mortelle arrogante et la divinité de la sagesse en [[Grèce antique]] ?
 
-Qui dans la [[mythologie grecque]] a défié [[Athéna]] dans un concours de tissage, ce qui a conduit à sa métamorphose en une créature à huit pattes ? <!-- score: 4 -->
+Qui dans la [[mythologie grecque]] a défié [[Athéna]] dans un concours de tissage, ce qui a conduit à sa métamorphose en une créature à huit pattes ? <!-- score: 7 -->
 
 ###### Description
 
