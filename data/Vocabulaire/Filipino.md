@@ -16,11 +16,12 @@ indice_6 :
   - Pagsanjan chutes
 ---
 
+
 ![Image de Filipino](https://upload.wikimedia.org/wikipedia/commons/1/15/Filipino_casualties_on_the_first_day_of_war.jpg)
 
 ###### Questions
 
-Quel est le terme utilisé pour désigner la langue officielle des [[Philippines]] hormis l'anglais ?
+Quel est le terme utilisé pour désigner la langue officielle des [[Philippines]] hormis l'anglais ? <!-- score: 3 -->
   
 Comment appelle-t-on la langue maternelle associée à [[Manila]] et parlée par une grande partie de la population des [[Philippines]] en tant que version standardisée du [[Tagalog]] ?  
   
