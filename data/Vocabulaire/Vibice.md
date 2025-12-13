@@ -16,13 +16,14 @@ indice_6:
   - piqûre d'insecte
 ---
 
+
 ![Image de Vibice](https://upload.wikimedia.org/wikipedia/commons/b/b6/Whirlabout_%28Polites_vibex_praeceps%29_mating.jpg)
 
 ###### Questions
 
 Quel aspect clinique du [[purpura]] avec la [[pétéchie]] et l'[[ecchymose]] est visible par des stries cutanées ?
 
-Quel est le terme médical utilisé pour décrire une sorte de lésion cutanée en relief résultant souvent d'une blessure ou d'une pression sur la peau ?
+Quel est le terme médical utilisé pour décrire une sorte de lésion cutanée en relief résultant souvent d'une blessure ou d'une pression sur la peau ? <!-- score: 2 -->
 
 Lors d'une réaction allergique ou d'une piqûre d'insecte, quelle marque rouge, souvent gonflée, peut apparaître sur la peau en cas de démangeaison ou d'irritation ?
 
