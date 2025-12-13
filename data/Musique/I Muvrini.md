@@ -24,13 +24,14 @@ questions:
  - Groupe dont le dernier album a pour titre "Portu in Core", j'ai chanté avec des artistes tels que Sting ou Véronique Sanson. M'imposant au milieu des années 90...
 ---
 
+
 ![Image de I Muvrini](https://upload.wikimedia.org/wikipedia/commons/b/bf/I_muvrini_summerlied.jpg)
 
 ###### Questions
 
 Quel groupe corse a collaboré avec [[Sting]] en 1993 sur la chanson "[[Terre d'Oru]]"?
 
-Quel ensemble musical a été fondé par [[Jean-François]] et [[Alain Bernardini]] en 1979?
+Quel ensemble musical a été fondé par [[Jean-François]] et [[Alain Bernardini]] en 1979? <!-- score: 3 -->
 
 Quel groupe a pour particularité d'interpréter des chants polyphoniques corses modernes tout en popularisant la culture corse à travers le monde?
 
