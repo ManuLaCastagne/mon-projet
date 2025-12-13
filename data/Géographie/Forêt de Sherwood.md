@@ -24,11 +24,12 @@ questions:
 ---
 
 
-![Image de Forêt de Sherwood](https://upload.wikimedia.org/wikipedia/commons/6/69/Peacock_-_Robin_Hood%2C_ou_La_for%C3%AAt_de_Sherwood%2C_1826.djvu)
+
+![Image de Forêt de Sherwood](https://upload.wikimedia.org/wikipedia/commons/6/69/Peacock_-_Robin_Hood%2C_ou_La_for%C3%AAt_de_Sherwood%2C_1826.djvu)
 
 ###### Questions
 
-Quel site emblématique associé à la légende de [[Robin des Bois]], situé dans le [[comté de Nottinghamshire]], est devenu une attraction touristique au Royaume-Uni ?
+Quel site emblématique associé à la légende de [[Robin des Bois]], situé dans le [[comté de Nottinghamshire]], est devenu une attraction touristique au Royaume-Uni ? <!-- score: 4 -->
 
 Quel lieu, connu pour son [[Major Oak]], accueillit-il au XIIe siècle les aventures d'un célèbre hors-la-loi fictif qui volait aux riches pour donner aux pauvres ?
 
