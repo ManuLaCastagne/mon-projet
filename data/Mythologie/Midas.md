@@ -20,6 +20,7 @@ questions:
  - A quel roi de Phrygie Apollon donne-t-il des oreilles d'âne…
 ---
 
+
 ![Image de Midas](https://upload.wikimedia.org/wikipedia/commons/0/0e/Escenius_midas_%28Midas_blenny%29.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel personnage de [[la mythologie grecque]] a reçu le pouvoir de transformer t
 
 Quel roi légendaire de [[Phrygie]] est célèbre pour sa capacité à changer tout en or, une aptitude qui, selon la légende, lui causera finalement des problèmes alimentaires tragiques ? 
 
-Quel souverain, ayant reconnu le passage mouvementé du satyre [[Silène]], a reçu une bénédiction qui s'est révélée être plus un fardeau qu'une aubaine ?
+Quel souverain, ayant reconnu le passage mouvementé du satyre [[Silène]], a reçu une bénédiction qui s'est révélée être plus un fardeau qu'une aubaine ? <!-- score: 3 -->
 
 ###### Description
 
