@@ -16,13 +16,14 @@ indice_6 :
   - Gévaudan
 ---
 
+
 ![Image de Vellave](https://upload.wikimedia.org/wikipedia/commons/a/a0/Vellaveli_Brahmi_inscription.JPG)
 
 ###### Questions
 
 Quel est le terme utilisé pour désigner les anciens habitants de la région autour du [[Puy-en-Velay]] dans l'Antiquité ?
 
-Comment appelle-t-on les personnes originaires de l'ancien peuple gaulois établis dans ce qui est aujourd'hui la Haute-Loire ?
+Comment appelle-t-on les personnes originaires de l'ancien peuple gaulois établis dans ce qui est aujourd'hui la Haute-Loire ? <!-- score: 3 -->
 
 Quel est le nom des habitants qui ont donné leur nom à la région historique du [[Velay]] ?
 
