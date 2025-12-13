@@ -25,6 +25,7 @@ questions:
  - Quelle mer intérieure d'Asie centrale, est partagée entre le Kazakhstan et l'Ouzbékistan ?
 ---
 
+
 ![Image de Mer d'Aral](https://upload.wikimedia.org/wikipedia/commons/9/95/Aral_Sea_1989-2008.jpg)
 
 ![[Carte_Mer d'Aral.png]]
@@ -34,7 +35,7 @@ Dans quel endroit situé en [[Asie centrale]] a-t-on observé une diminution de 
 
 Quel ancien quatrième plus grand lac du monde, situé entre le [[Kazakhstan]] et l'[[Ouzbékistan]], a commencé à se retirer de manière spectaculaire après la déviation des rivières [[Syr-Daria]] et [[Amou-Daria]] en 1960 pour l'irrigation agricole ? 
 
-Quel lieu est souvent cité comme l'un des pires désastres écologiques modernes, avec un effondrement de la pêche locale précipité par le retrait de l'eau et la hausse de la salinité à partir des années 1990 ?
+Quel lieu est souvent cité comme l'un des pires désastres écologiques modernes, avec un effondrement de la pêche locale précipité par le retrait de l'eau et la hausse de la salinité à partir des années 1990 ? <!-- score: 4 -->
 
 ###### Description
 
