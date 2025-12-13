@@ -16,11 +16,12 @@ indice_6 :
   - Artisans
 ---
 
+
 ![Image de Licier](https://upload.wikimedia.org/wikipedia/commons/c/c7/Licier_au_travail.jpg)
 
 ###### Questions
 
-Quel est le métier traditionnel qui consiste à fabriquer des tapisseries sur des métiers à tisser manuels, souvent associé aux ateliers de [[Gobelins]] et [[Aubusson]] ?  
+Quel est le métier traditionnel qui consiste à fabriquer des tapisseries sur des métiers à tisser manuels, souvent associé aux ateliers de [[Gobelins]] et [[Aubusson]] ? <!-- score: 2 -->
 
 Comment appelle-t-on l'artisan spécialisé dans la confection de tapisseries qui doit interpréter un dessin préparatoire appelé [[carton]] ?  
 
