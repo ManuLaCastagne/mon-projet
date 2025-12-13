@@ -17,7 +17,8 @@ questions:
  - Quel oiseau marin des régions froides, de l'ordre des procellariiformes et voisin des puffins, vole à la surface de l'eau pour pêcher le plancton ?
 ---
 
-![Image de Pétrel](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lorraine_Petrel_675hp_L%27Aerophile_January_1942.jpg)
+
+![Image de Pétrel](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lorraine_Petrel_675hp_L%27Aerophile_January_1942.jpg)
 
 ###### Questions
 
@@ -25,7 +26,7 @@ Quel est l'oiseau marin qui peut parcourir des milliers de kilomètres au-dessus
 
 Quel oiseau, partiellement représenté sur le film documentaire « [[La Marche de l'Empereur]] » sorti en [[2005]], vit en symbiose avec les colonies de [[manchots]] en [[Antarctique]] ?
 
-Quel oiseau a été filmé par le documentariste [[David Attenborough]] dans la série [[The Blue Planet]] diffusée en [[2001]], montrant sa remarquable technique de pêche en haute mer ?
+Quel oiseau a été filmé par le documentariste [[David Attenborough]] dans la série [[The Blue Planet]] diffusée en [[2001]], montrant sa remarquable technique de pêche en haute mer ? <!-- score: 6 -->
 
 ###### Description
 
