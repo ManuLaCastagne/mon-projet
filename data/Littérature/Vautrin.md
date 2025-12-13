@@ -23,11 +23,12 @@ questions:
   - Quel héros de Balzac, de son vrai nom Jacques Collin, vole aux riches pour donner aux pauvres ?
 ---
 
+
 ![Image de Vautrin](https://upload.wikimedia.org/wikipedia/commons/f/fd/BalzacSplendorsMiseries02.jpg)
 
 ###### Questions
 
-Quel personnage inventé par [[Honoré de Balzac]], figure centrale dans [[La Comédie humaine]], dissimule sa véritable identité sous le nom de [[Carlos Herrera]] ou Jacques Collin dans les romans publiés entre [[1834]] et [[1847]] ?
+Quel personnage inventé par [[Honoré de Balzac]], figure centrale dans [[La Comédie humaine]], dissimule sa véritable identité sous le nom de [[Carlos Herrera]] ou Jacques Collin dans les romans publiés entre [[1834]] et [[1847]] ? <!-- score: 3 -->
 
 Quel surveillant général des [[Petites Maisons]], célèbre établissement pénitentiaire parisien, a inspiré [[Honoré de Balzac]] pour créer le personnage de [[Vautrin]], chef de file du crime dans plusieurs romans de [[La Comédie humaine]] ?
 
