@@ -22,6 +22,7 @@ indice_6 :
   - union soviétique dominante
 ---
 
+
 ![Image de Melbourne 1956](https://upload.wikimedia.org/wikipedia/commons/f/f2/1956_Summer_Olympics_%28Melbourne%29_boycotting_countries_%28blue%29.png)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelles [[Olympiades]] a-t-on vu les premières épreuves de canoë-kayak e
 
 Dans quelle ville ont eu lieu les premiers [[Jeux olympiques d'été]] organisés dans l'hémisphère sud ?
 
-Lors de quels [[Jeux olympiques]] le Soviétique [[Vladimir Kuts]] a-t-il remporté deux médailles d'or en athlétisme ?
+Lors de quels [[Jeux olympiques]] le Soviétique [[Vladimir Kuts]] a-t-il remporté deux médailles d'or en athlétisme ? <!-- score: 4 -->
 
 ###### Description
 
