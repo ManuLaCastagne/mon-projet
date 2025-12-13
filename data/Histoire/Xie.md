@@ -22,13 +22,14 @@ questions:
  - Siècle au cours duquel est monté sur le trône de France le roi Henri Ier en 1031.
 ---
 
+
 ![Image de Xie](https://upload.wikimedia.org/wikipedia/commons/5/5a/Xie_Jun_1993.jpg)
 
 ###### Questions
 
 Quel chef de la rébellion a fondé la dynastie [[Xie]] après la chute des [[Jin Occidentaux]] en [[317]] ?
 
-Quel auteur chinois de la période [[Jin]] est connu pour ses poèmes influents et porte le nom de [[Xie]] ?
+Quel auteur chinois de la période [[Jin]] est connu pour ses poèmes influents et porte le nom de [[Xie]] ? <!-- score: 5 -->
 
 Quel philosophe a contribué au développement du [[néoconfucianisme]] en [[Chine]], au début de l'ère [[Xie]] en [[1130]] ?
 
