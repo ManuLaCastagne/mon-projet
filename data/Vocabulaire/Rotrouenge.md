@@ -16,11 +16,12 @@ indice_6 :
   - Bataille de Hastings
 ---
 
+
 ![Image de Rotrouenge](https://upload.wikimedia.org/wikipedia/commons/1/1f/LL-Q150_%28fra%29-Lyoko%C3%AF-rotrouenge.wav)
 
 ###### Questions
 
-Quel nom donne-t-on à la forme poétique médiévale française de la [[Normandie]] qui comporte souvent des thèmes amoureux ou historiques ?  
+Quel nom donne-t-on à la forme poétique médiévale française de la [[Normandie]] qui comporte souvent des thèmes amoureux ou historiques ? <!-- score: 1 -->
 
 Comment appelle-t-on le type de poème narratif qui prend son origine autour du 12ème siècle en [[Angleterre]] et [[Normandie]] ?  
 
