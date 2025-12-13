@@ -26,6 +26,7 @@ questions:
   - Quelle vaste baie du nord-est du Canada, d'une superficie d'environ 1 million de kilomètres carrés, est prise par les glaces 7 mois par an ?
 ---
 
+
 ![Image de Baie d'Hudson](https://upload.wikimedia.org/wikipedia/commons/5/5f/D%27Iberville_dans_la_baie_d%27Hudson_face_%C3%A0_trois_vaisseaux_anglais_en_1697.jpg)
 
 ![[Carte_Baie d'Hudson.png]]
@@ -35,7 +36,7 @@ Quel est le plus grand plan d'eau douce qui se transforme chaque année en mer s
 
 Quel centre commercial emblématique, fondé en 1670, a été nommé d'après l'immense plan d'eau qui touche quatre provinces canadiennes ?
 
-Quelle baie, célèbre pour être l'une des plus grandes du monde et nommée en 1610 par l'explorateur [[Henry Hudson]], se trouve au nord-est du [[Canada]] ?
+Quelle baie, célèbre pour être l'une des plus grandes du monde et nommée en 1610 par l'explorateur [[Henry Hudson]], se trouve au nord-est du [[Canada]] ? <!-- score: 6 -->
 
 ###### Description
 
