@@ -21,11 +21,12 @@ indice_6:
 ---
 
 
+
 ![Image de Monty Python's Flying Circus](https://upload.wikimedia.org/wikipedia/commons/a/ab/Monty_python_foot.png)
 
 ###### Questions
 
-En 1970, quelle émission télévisée britannique iconique a introduit le concept du "[[Spam]]" dans un sketch ? <!-- score: 5 -->
+En 1970, quelle émission télévisée britannique iconique a introduit le concept du "[[Spam]]" dans un sketch ? <!-- score: 6 -->
 
 ###### Description
 
