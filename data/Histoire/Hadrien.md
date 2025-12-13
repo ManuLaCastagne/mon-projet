@@ -22,6 +22,7 @@ questions:
  - Quel empereur romain, successeur de Trajan, protège l'Empire contre les barbares à l'aide de fortifications continues ?
 ---
 
+
 ![Image de Hadrien](https://upload.wikimedia.org/wikipedia/commons/f/f6/Hadrien_France-Lanord.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel empereur romain ordonna la construction du [[Mur d'Hadrien]] en [[122]] pou
 
 Quel empereur romain visita la plupart des provinces de l'empire pendant son règne et fit de [[Jérusalem]] une colonie romaine renommée en [[Aelia Capitolina]] en [[130]] ?
 
-Qui est le successeur de l'empereur [[Trajan]] dont il fut l'adopté, et régna de [[117]] à [[138]], période durant laquelle il réorganisa fortement l'administration de l'Empire romain ?
+Qui est le successeur de l'empereur [[Trajan]] dont il fut l'adopté, et régna de [[117]] à [[138]], période durant laquelle il réorganisa fortement l'administration de l'Empire romain ? <!-- score: 4 -->
 
 ###### Description
 
