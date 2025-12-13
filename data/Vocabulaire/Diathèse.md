@@ -17,11 +17,12 @@ indice_6:
 ---
 
 
+
 ![Image de Diathèse](https://upload.wikimedia.org/wikipedia/commons/d/d1/Diathesis_stress_model_graph.svg)
 
 ###### Questions
 
-Dans le domaine de la linguistique, quel terme désigne la manière dont est exprimée la relation entre le prédicat et les arguments dans une phrase, influençant notamment la voix active ou passive ? <!-- score: 4 -->
+Dans le domaine de la linguistique, quel terme désigne la manière dont est exprimée la relation entre le prédicat et les arguments dans une phrase, influençant notamment la voix active ou passive ? <!-- score: 3 -->
 
 Quel mot utilisé en [[médecine]] décrit une prédisposition individuelle à certaines pathologies, souvent d'origine génétique ou liée à l'environnement ?
 
