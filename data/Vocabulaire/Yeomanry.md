@@ -16,11 +16,12 @@ indice_6 :
   - classe sociale anglaise
 ---
 
+
 ![Image de Yeomanry](https://upload.wikimedia.org/wikipedia/commons/d/dd/Imperial_yeomanry.jpg)
 
 ###### Questions
 
-Quel est le terme utilisé pour désigner la force de cavalerie volontaire britannique établie à la fin du [[XVIIIe siècle]] ?
+Quel est le terme utilisé pour désigner la force de cavalerie volontaire britannique établie à la fin du [[XVIIIe siècle]] ? <!-- score: 3 -->
 
 Comment appelle-t-on l'unité militaire qui a été historiquement mobilisée pour soutenir l'armée régulière britannique, notamment lors des guerres [[napoléoniennes]] et la guerre des [[boers]] ?
 
