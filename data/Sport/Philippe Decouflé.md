@@ -23,7 +23,8 @@ questions:
 ---
 
 
-![Image de Philippe Decouflé](https://upload.wikimedia.org/wikipedia/commons/7/76/DECOUFLE_Philippe-24x30-2006b.jpg)
+
+![Image de Philippe Decouflé](https://upload.wikimedia.org/wikipedia/commons/7/76/DECOUFLE_Philippe-24x30-2006b.jpg)
 
 ###### Questions
 
@@ -31,7 +32,7 @@ Quel chorégraphe français a conçu le spectacle d'ouverture des [[Jeux Olympiq
 
 Quel artiste, connu pour ses créations visuelles, a apporté une touche unique aux cérémonies des [[Jeux Olympiques d'hiver]] en [[France]] ? <!-- score: 4 -->
 
-Quelle personnalité a été responsable de la mise en scène lors de l'événement sportif international marquant l'année [[1992]] en [[Savoie]] ?
+Quelle personnalité a été responsable de la mise en scène lors de l'événement sportif international marquant l'année [[1992]] en [[Savoie]] ? <!-- score: 2 -->
 
 ###### Description
 
