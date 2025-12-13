@@ -20,18 +20,13 @@ questions:
  - Nocturne quand je suis terrestre, je gagne au printemps les mares et les étangs pour me reproduire. Ayant la capacité de régénérer...
 ---
 
-
-
 ![Image de Triton](https://upload.wikimedia.org/wikipedia/commons/0/00/1Triton-en.svg)
 
 ###### Questions
 
 Quel dieu mineur de l'[[Océan]] et fils de [[Poséidon]], souvent représenté avec une conque marine, était connu pour apaiser les flots dans la mythologie gréco-romaine? <!-- score: 4 -->
 
-Dans quel ouvrage de l'historien et géographe grec [[Pausanias]], écrit entre 143 et 176 après J.-C., le dieu [[Triton]] est-il mentionné comme participant aux funérailles d'[[Achille]]? <!-- score: 5 -->
-
-Quelle créature mythique, fréquemment associée à [[Triton]], sert de symbole sur le célèbre [[Fontaine de Trevi]] à [[Rome]], construite en 1762, conçue par [[Nicola Salvi]] et achevée par [[Giuseppe Pannini]]?
-
+Quelle créature mythique sert de symbole sur le célèbre [[Fontaine de Trevi]] à [[Rome]], construite en 1762, conçue par [[Nicola Salvi]] et achevée par [[Giuseppe Pannini]]? <!-- score: 5 -->
 ###### Description
 
 [[Triton]] est une divinité marine de la [[mythologie grecque]], souvent représentée comme un homme à la partie inférieure du corps en forme de poisson, faisant de lui une créature hybride mi-homme mi-poisson. 
