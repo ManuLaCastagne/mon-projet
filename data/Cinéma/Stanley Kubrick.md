@@ -22,13 +22,14 @@ indice_6 :
   - perfectionnisme légendaire
 ---
 
+
 ![Image de Stanley Kubrick](https://upload.wikimedia.org/wikipedia/commons/8/8b/Stanley_Kubrick_2.jpg)
 
 ###### Questions
 
 [[Quel réalisateur]], connu pour son [[perfectionnisme extrême]], a exigé en 1968 plus de cent prises pour une scène avec [[Douglas Rain]] dans le film [[2001: A Space Odyssey]] ?
 
-[[Quel cinéaste]] a collaboré avec l'auteur [[Arthur C. Clarke]] pour l'écriture du scénario du film sorti en 1968, [[2001: A Space Odyssey]] ?
+[[Quel cinéaste]] a collaboré avec l'auteur [[Arthur C. Clarke]] pour l'écriture du scénario du film sorti en 1968, [[2001: A Space Odyssey]] ? <!-- score: 4 -->
 
 En 1980, quel [[réalisateur]] a choqué les acteurs de son film [[The Shining]] en filmant la scène légendaire de la porte hachée durant trois jours et en utilisant plus de soixante portes ?
 
