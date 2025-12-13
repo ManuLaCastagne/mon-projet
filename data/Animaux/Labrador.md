@@ -17,6 +17,7 @@ questions:
  - Pour mon calme, mon bon caractère et mon attachement...
 ---
 
+
 ![Image de Labrador](https://upload.wikimedia.org/wikipedia/commons/d/d8/Labrador-Region.PNG)
 
 ###### Questions
@@ -25,7 +26,7 @@ De quelle race de chien, originaire de [[Terre-Neuve]] au [[Canada]], le [[Labra
 
 Quelle race de chien, reconnue en [[1903]] par l'[[American Kennel Club]] et appréciée pour ses capacités de travail polyvalentes, est fréquemment utilisée comme chien-guide et dans les opérations de sauvetage ?
 
-Quelle race, souvent citée en tête des statistiques d'enregistrement de chiots par le [[Kennel Club]] britannique depuis [[1991]], est réputée pour sa nature amicale et sociable ?
+Quelle race, souvent citée en tête des statistiques d'enregistrement de chiots par le [[Kennel Club]] britannique depuis [[1991]], est réputée pour sa nature amicale et sociable ? <!-- score: 6 -->
 
 ###### Description
 
