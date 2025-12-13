@@ -24,17 +24,11 @@ questions:
  - A quelle chanteuse française des années 50 devenue meneuse de revus au Casino de Paris à la suite de Line Renaud, doit-on la chanson "Ma maman"?
 ---
 
-
 ![Image de Mick Micheyl](https://upload.wikimedia.org/wikipedia/commons/4/46/%22C%27est_tellement_diff%C3%A9rent%2C_nous%22%2C_valse_de_Mick_Micheyl%2C_interpr%C3%A9t%C3%A9e_par_Jo_Krasker_%C3%A0_l%27accord%C3%A9on.jpg)
 
 ###### Questions
 
-Dans quelle année [[Mick Micheyl]] a-t-elle remporté le [[Grand prix du disque de l'Académie Charles Cros]] pour sa chanson « [[Le Gamin de Paris]] » ? 
-
-Quel métier a-t-elle exercé avant de devenir chanteuse, ce qui l'a inspirée dans son célèbre titre « [[Un Gamin de Paris]] » sorti en 1950 ? <!-- score: 5 -->
-
-En quelle année [[Mick Micheyl]] a-t-elle transitionné de la musique à une carrière dans la sculpture sur métal ?
-
+En 1950, quelle chanteuse a reçu le [[Grand prix du disque de l'Académie Charles Cros]] pour sa chanson « [[Le Gamin de Paris]] » ? <!-- score: 5 -->
 ###### Description
 
 [[Mick Micheyl]], de son vrai nom [[Paulette Michey]], est une chanteuse et sculptrice française née en 1922 à [[Lyon]]. 
