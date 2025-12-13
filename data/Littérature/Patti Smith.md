@@ -24,11 +24,12 @@ questions:
  - Dès la fin des années 60, quelle chanteuse de rock américaine, interprète de l'album "Horses", a inspiré le photographe Robert Mapplethorpe?
 ---
 
+
 ![Image de Patti Smith](https://upload.wikimedia.org/wikipedia/commons/8/80/Patti_Smith_performing_in_Finland%2C_2007.jpg)
 
 ###### Questions
 
-En quelle année [[Patti Smith]] a-t-elle publié son livre mémoires intitulé [[Just Kids]] ?
+En quelle année [[Patti Smith]] a-t-elle publié son livre mémoires intitulé [[Just Kids]] ? <!-- score: 5 -->
 
 Quel est le titre du recueil de poésie que [[Patti Smith]] a publié en 1972 ?
 
