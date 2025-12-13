@@ -24,7 +24,8 @@ questions:
   - En 2020, comédienne qui a publié,  2 ans après "Rêveurs", son 2e roman intitulé "Du Côté des Indiens" ?
 ---
 
-![Image de Isabelle Carré](https://upload.wikimedia.org/wikipedia/commons/4/45/Isabelle_Carr%C3%A9_janvier_2016.jpg)
+
+![Image de Isabelle Carré](https://upload.wikimedia.org/wikipedia/commons/4/45/Isabelle_Carr%C3%A9_janvier_2016.jpg)
 
 ###### Questions
 
@@ -34,7 +35,7 @@ Dans quel film de [[Patrice Leconte]] en 2002 [[Isabelle Carré]] a-t-elle inter
 
 Pour quel rôle dans le film [[Se souvenir des belles choses]] sorti en 2001 [[Isabelle Carré]] a-t-elle reçu le [[César de la meilleure actrice]] ?
 
-Quelle actrice française, née en 1971, a été en compétition pour le [[César de la meilleure actrice]] à plusieurs reprises, notamment pour sa performance dans le film [[Les Emotifs anonymes]] en 2010 ?
+Quelle actrice française, née en 1971, a été en compétition pour le [[César de la meilleure actrice]] à plusieurs reprises, notamment pour sa performance dans le film [[Les Emotifs anonymes]] en 2010 ? <!-- score: 3 -->
 
 ###### Description
 
