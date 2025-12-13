@@ -21,13 +21,14 @@ indice_6 :
   - Miss Scarlett
 ---
 
+
 ![Image de Cluedo](https://upload.wikimedia.org/wikipedia/commons/3/36/Cluedo_board.svg)
 
 ###### Questions
 
 Quel jeu de société, créé en 1943, a pour but de découvrir le meurtrier parmi les suspects en trouvant l'arme et le lieu du crime ? 
 
-Dans quel jeu de société, popularisé à partir de 1949 en Grande-Bretagne, les joueurs enquêtent dans un manoir pour résoudre un meurtre fictif ? 
+Dans quel jeu de société, popularisé à partir de 1949 en Grande-Bretagne, les joueurs enquêtent dans un manoir pour résoudre un meurtre fictif ? <!-- score: 9 -->
 
 Quel jeu, aussi connu sous le nom de [[Clue]] en [[Amérique du Nord]], a été inventé par [[Anthony E. Pratt]] pendant la [[Seconde Guerre mondiale]] pour divertir les gens durant les blitz à [[Birmingham]] ?
 
