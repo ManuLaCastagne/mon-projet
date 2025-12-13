@@ -22,11 +22,12 @@ questions:
  - Entre 2001 et 2007, quel navigateur français a remporté à 3 reprises la Transat Jacques-Vabre...
 ---
 
+
 ![Image de Frank Cammas](https://upload.wikimedia.org/wikipedia/commons/2/24/Contributions_to_the_anatomy_of_anthropoid_apes_%28IA_b28141386%29.pdf)
 
 ###### Questions
 
-Quel navigateur français a remporté la [[Route du Rhum]] en [[2010]] dans la catégorie [[Ultime]] ?
+Quel navigateur français a remporté la [[Route du Rhum]] en [[2010]] dans la catégorie [[Ultime]] ? <!-- score: 3 -->
 
 Qui est devenu le premier skipper à réussir le tour du monde en équipage sans escale lors de la [[Volvo Ocean Race]] en [[2012]] ?
 
