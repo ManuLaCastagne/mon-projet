@@ -19,8 +19,6 @@ indice_6:
   - charmes et séduction
 ---
 
-
-
 ![Image de Cléo](https://upload.wikimedia.org/wikipedia/commons/b/b5/Clio-Mignard.jpg)
 
 ###### Questions
@@ -28,9 +26,6 @@ indice_6:
 Quelle muse est généralement représentée avec la trompette et le livre qui me permettent de célébrer et d'enregistrer les grands faits de l'humanité ? <!-- score: 4 -->
 
 Dans la [[mythologie grecque]], quel est le nom de la figure féminine associée à la sagesse et l'art de la stratégie, qui était parfois confondue avec l'[[Athéna]] et invoquée lors des guerres entre 1040 et [[500]] avant notre ère ?
-
-Quel nom d'origine de la [[mythologie égyptienne]], commençant par un 'C', a été utilisé pour désigner un symbole mythologique des chatons réincarnés de [[Sekhmet]], déesse de la destruction et de la guérison, selon certains écrits datant de [[-1650]] ? <!-- score: 4 -->
-
 ###### Description
 
 [[Cléo]], dans la [[mythologie grecque]], est l'une des neuf Muses, filles de [[Zeus]] et de [[Mnémosyne]], déesse de la mémoire. 
