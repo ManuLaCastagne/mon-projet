@@ -24,13 +24,14 @@ questions:
  - En 80, dans quelle comédie, de Jim Abrahams, un ancien pilote de chasse prend-il les commandes d'un vol commercial ?
 ---
 
+
 ![Image de Y a-t-il un pilote dans l'avion](https://upload.wikimedia.org/wikipedia/commons/e/ea/Koyaike_Park_from_airplane_window.jpg)
 
 ###### Questions
 
 Quel film culte de 1980, parodie de films catastrophes, doit son sens de l'humour unique à l'équipe de réalisateurs [[ZAZ]], composée de [[Jim Abrahams]] et des frères David et [[Jerry Zucker]] ?
 
-Dans quel long-métrage retrouve-t-on des scènes et répliques tirées du film dramatique [[Zero Hour!]] de 1957, pour créer une comédie inoubliable ?
+Dans quel long-métrage retrouve-t-on des scènes et répliques tirées du film dramatique [[Zero Hour!]] de 1957, pour créer une comédie inoubliable ? <!-- score: 3 -->
 
 Quel film, devenu un classique de l'humour absurde, met en scène le personnage de [[Ted Striker]] tentant de sauver la situation à bord d'un avion en péril ?
 
