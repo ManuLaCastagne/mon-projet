@@ -33,7 +33,7 @@ Quel célèbre musicien, ayant perdu la vue à l'âge de sept ans, a reçu 17 [[
 
 Quel artiste a fait partie de la première promotion d'intronisés au [[Rock and Roll Hall of Fame]] en 1986 ?
 
-Quel chanteur a réalisé une célèbre reprise de la chanson "Georgia on My Mind" en 1960, qui est devenue la chanson officielle de la [[Géorgie (USA)]] en 1979 ? <!-- score: 3 -->
+Quel chanteur a réalisé une célèbre reprise de la chanson "Georgia on My Mind" en 1960, qui est devenue la chanson officielle de la [[Géorgie (USA)]] en 1979 ? <!-- score: 4 -->
 
 ###### Description
 
