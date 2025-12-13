@@ -17,6 +17,7 @@ questions:
   - Quelle est cette antilope du sud et de l'est de l'Afrique dont les cornes spiralées du mâle peuvent atteindre 1,80 m?
 ---
 
+
 ![Image de Grand koudou](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tragelaphus_strepsiceros_%E2%99%82_%28head%29.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quelle est cette antilope du sud et de l'est de l'Afrique dont les cornes spiral
 
 Quel animal, reconnu pour ses longues cornes spiralées, est souvent observé dans les régions boisées d'[[Afrique]] ?
 
-Quel nom porte cet animal d'[[Afrique méridionale]] qui se distingue par ses rayures verticales blanches sur un pelage brun ?
+Quel nom porte cet animal d'[[Afrique méridionale]] qui se distingue par ses rayures verticales blanches sur un pelage brun ? <!-- score: 3 -->
 
 Quel animal appartient à la famille des [[Bovidae]] et est réputé pour sa capacité à effectuer des sauts prodigieux pouvant atteindre 3 mètres de haut ?
 
