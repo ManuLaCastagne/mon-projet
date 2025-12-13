@@ -22,11 +22,12 @@ questions:
  - En 2001, quelle joueuse de tennis américaine, ayant arrêté sa carrière de 93 à 96, remporte l'Open d'Australie...
 ---
 
+
 ![Image de Jennifer Capriati](https://upload.wikimedia.org/wikipedia/commons/6/6f/Jennifer_Capriati_Wimbledon_2004.jpg)
 
 ###### Questions
 
-À l'âge de 14 ans, en [[1990]], quelle joueuse de tennis américaine a atteint la demi-finale de [[Roland-Garros]], marquant le début de sa carrière professionnelle?
+À l'âge de 14 ans, en [[1990]], quelle joueuse de tennis américaine a atteint la demi-finale de [[Roland-Garros]], marquant le début de sa carrière professionnelle? <!-- score: 4 -->
 
 Quelle athlète a gagné la médaille d'or en simple aux [[Jeux olympiques]] de [[Barcelone]] en [[1992]], devenant ainsi l'une des plus jeunes championnes olympiques en [[tennis]]?
 
