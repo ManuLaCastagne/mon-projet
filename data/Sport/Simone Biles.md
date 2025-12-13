@@ -22,6 +22,7 @@ questions:
  - En 2019, quelle sportive américaine décroche son 5e titre mondial depuis 2013 au concours général individuel des Mondiaux de gymnastique?
 ---
 
+
 ![Image de Simone Biles](https://upload.wikimedia.org/wikipedia/commons/f/f6/Simone_Biles%2C_na_prova_final_da_trave_nos_Jogos_Ol%C3%ADmpicos_Rio_2016.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel est le nom de l’athlète qui a remporté quatre médailles d'or en gymnas
 
 Quelle gymnaste est connue pour avoir réalisé un mouvement unique, le "Biles II", qui implique un double salto arrière avec trois vrilles, lors des Championnats du monde de [[Stuttgart]] en [[2019]] ?
 
-Qui détient le record du plus grand nombre de médailles d'or remportées aux [[Championnats du monde de gymnastique artistique]] avec 25 médailles, dont 19 en or, jusqu'en [[2019]] ?
+Qui détient le record du plus grand nombre de médailles d'or remportées aux [[Championnats du monde de gymnastique artistique]] avec 25 médailles, dont 19 en or, jusqu'en [[2019]] ? <!-- score: 4 -->
 
 ###### Description
 
