@@ -22,6 +22,7 @@ indice_6:
 ---
 
 
+
 ![Image de James Horner](https://upload.wikimedia.org/wikipedia/commons/9/9f/James-horner-07.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel compositeur a remporté deux [[Oscars]] en 1998 pour son travail sur le fil
 
 Quel compositeur a composé la célèbre bande originale du film [[Braveheart]] sorti en 1995 ?
 
-Quel compositeur, né en 1953, est connu pour ses collaborations fréquentes avec le réalisateur [[James Cameron]] ?
+Quel compositeur, né en 1953, est connu pour ses collaborations fréquentes avec le réalisateur [[James Cameron]] ? <!-- score: 2 -->
 
 ###### Description
 
