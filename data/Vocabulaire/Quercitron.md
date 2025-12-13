@@ -17,13 +17,14 @@ indice_6 :
 ---
 
 
+
 ![Image de Quercitron](https://upload.wikimedia.org/wikipedia/commons/e/e1/Quercus_velutina_001.jpg)
 
 ###### Questions
 
 Quel est le nom de l'arbre dont l'écorce a été historiquement utilisée pour un produit [[tinctorial]] jaune naturel ?
 
-Quel terme désigne à la fois un colorant et le [[chêne noir]] américain utilisé dans l'industrie textile ? <!-- score: 4 -->
+Quel terme désigne à la fois un colorant et le [[chêne noir]] américain utilisé dans l'industrie textile ? <!-- score: 3 -->
 
 Quel est le mot qui correspond au nom d'un colorant jaune extrait d'un type de [[chêne]] trouvé principalement dans le sud des [[États-Unis]]?
 
