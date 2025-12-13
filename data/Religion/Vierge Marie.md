@@ -22,13 +22,14 @@ questions:
  - Selon le Coran, quelle femme aurait accouché près d'un tronc de palmier tandis que la Bible situe cet événement dans une étable?
 ---
 
+
 ![Image de Vierge Marie](https://upload.wikimedia.org/wikipedia/commons/9/9e/Vierge_Marie_-_20150714_13h51_%2810354%29.jpg)
 
 ###### Questions
 
 Dans la [[Bible]], qui est décrite comme ayant reçu la visite de l'archange [[Gabriel]] lors de l'[[Annonciation]] au printemps de l'année -4 avant [[Jésus]] ?
 
-Quel personnage central du [[Christianisme]] est apparu en 1858 lors des apparitions mariales à [[Lourdes]] à [[Bernadette Soubirous]] ?
+Quel personnage central du [[Christianisme]] est apparu en 1858 lors des apparitions mariales à [[Lourdes]] à [[Bernadette Soubirous]] ? <!-- score: 5 -->
 
 Quelle figure emblématique est célébrée chaque année lors de la fête de l'[[Assomption]] le 15 août, en tant que personne ayant été élevée au ciel dans la doctrine catholique définie en 1950 par le Pape [[Pie XII]] ?
 
