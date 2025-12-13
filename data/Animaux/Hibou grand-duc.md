@@ -18,13 +18,14 @@ questions:
 ---
 
 
+
 ![Image de Hibou grand-duc](https://upload.wikimedia.org/wikipedia/commons/5/56/Bubo_bubo_sibiricus_-_01.JPG)
 
 ###### Questions
 
 Quel est le plus grand rapace nocturne d'[[Europe]] connu pour son plumage brun tacheté et ses aigrettes sur la tête ?
 
-Quel animal a été réintroduit avec succès dans les [[Vosges]] dans les années [[1980]] dans le cadre de projets de conservation après sa disparition régionale ?
+Quel animal a été réintroduit avec succès dans les [[Vosges]] dans les années [[1980]] dans le cadre de projets de conservation après sa disparition régionale ? <!-- score: 4 -->
 
 Quel oiseau est considéré comme un superbe chasseur, utilisant son acuité auditive pour traquer ses proies la nuit, et porte le nom scientifique de [[Bubo bubo]] ? <!-- score: 3 -->
 
