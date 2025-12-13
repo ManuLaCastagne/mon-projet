@@ -22,6 +22,7 @@ questions:
  - En 1801, empereur de Russie, fils de Catherine II, dont l'assassinat est accueilli par la joie..
 ---
 
+
 ![Image de Paul Ier](https://upload.wikimedia.org/wikipedia/commons/f/f6/Portrait_of_Pope_Paul_III_with_Camauro_%28by_Titian%29_-_National_Museum_of_Capodimonte.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel [[tsar de Russie]], connu pour son règne bref et tumultueux, est monté su
 
 Quel souverain russe a établi l'[[Ordre de Malte]] en [[Russie]] après que [[Napoléon Bonaparte]] eut sécularisé cet ordre religieux en [[1798]] ? 
 
-Qui est le fils de [[Catherine II de Russie]] connu pour ses réformes controversées et son opposition à la noblesse russe durant son règne de [[1796]] à [[1801]] ?
+Qui est le fils de [[Catherine II de Russie]] connu pour ses réformes controversées et son opposition à la noblesse russe durant son règne de [[1796]] à [[1801]] ? <!-- score: 4 -->
 
 ###### Description
 
