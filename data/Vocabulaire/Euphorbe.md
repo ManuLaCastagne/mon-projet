@@ -17,11 +17,12 @@ indice_6 :
 ---
 
 
+
 ![Image de Euphorbe](https://upload.wikimedia.org/wikipedia/commons/6/62/Euphorbia_February_2008-2.jpg)
 
 ###### Questions
 
-Quelle plante, souvent cultivée comme ornementale, est célèbre pour son apport diversifié en formes et couleurs dans les jardins et est souvent assimilée à tort à un cactus? <!-- score: 4 -->
+Quelle plante, souvent cultivée comme ornementale, est célèbre pour son apport diversifié en formes et couleurs dans les jardins et est souvent assimilée à tort à un cactus? <!-- score: 3 -->
 
 Quel genre de plantes doit son nom au médecin personnel du roi [[Juba II]] de [[Maurétanie]]?
 
