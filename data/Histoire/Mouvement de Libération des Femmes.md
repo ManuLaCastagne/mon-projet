@@ -20,11 +20,12 @@ indice_6 :
   - Droit à l'avortement
 ---
 
+
 ![Image de Mouvement de Libération des Femmes](https://upload.wikimedia.org/wikipedia/commons/a/ac/Rosangela_Gramoni_MLF_Gen%C3%A8ve.jpg)
 
 ###### Questions
 
-Quel mouvement né en [[France]] en [[1970]] a joué un rôle crucial dans la lutte pour l'égalité des sexes et le droit à l'avortement, aboutissant à la [[loi Veil]] de [[1975]] ?
+Quel mouvement né en [[France]] en [[1970]] a joué un rôle crucial dans la lutte pour l'égalité des sexes et le droit à l'avortement, aboutissant à la [[loi Veil]] de [[1975]] ? <!-- score: 4 -->
 
 Quel est le nom du groupe féministe qui a manifesté lors du défilé de [[Miss Monde]] en [[1971]] pour contester la marchandisation du corps des femmes ?
 
