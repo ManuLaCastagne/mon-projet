@@ -27,6 +27,7 @@ questions:
 ---
 
 
+
 ![Image de Draa](https://upload.wikimedia.org/wikipedia/commons/a/ae/Draa_River.jpg)
 
 ![[Carte_Draa.png]]
@@ -36,7 +37,7 @@ Quelle est la plus longue rivière du [[Maroc]] qui coule en grande partie à se
 
 Quel fleuve, prenant sa source dans les [[Haut Atlas]], a vu son débit considérablement réduit à la suite de la construction du [[barrage El Mansour Eddahbi]] en 1972 ? <!-- score: 4 -->
 
-Quelle rivière a donné son nom à l'ancienne province du sud-est du [[Maroc]], renommée en 2003 lors de la création de la région [[Drâa-Tafilalet]] ?
+Quelle rivière a donné son nom à l'ancienne province du sud-est du [[Maroc]], renommée en 2003 lors de la création de la région [[Drâa-Tafilalet]] ? <!-- score: 4 -->
 
 ###### Description
 
