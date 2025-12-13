@@ -17,13 +17,14 @@ questions:
  - L'Antilope à cornes spiralées mangeant des plantes désertiques qui poussent après les pluies ?
 ---
 
+
 ![Image de Addax](https://upload.wikimedia.org/wikipedia/commons/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
 
 ###### Questions
 
 Quel animal dont le nom commence par "A" est capable de survivre aux températures extrêmes des déserts africains en ayant rarement besoin de boire de l'eau ?
 
-Quel type d'[[antilope]] a été réintroduit dans la réserve de [[Saharan Wildlife Recovery Center]] en [[1998]] après avoir été quasi-extinct dans la nature ?
+Quel type d'[[antilope]] a été réintroduit dans la réserve de [[Saharan Wildlife Recovery Center]] en [[1998]] après avoir été quasi-extinct dans la nature ? <!-- score: 3 -->
 
 Quel animal, principalement nocturne et herbivore, est reconnaissable à ses cornes en forme de spirale et vit principalement dans le [[Sahara]] ?
 
