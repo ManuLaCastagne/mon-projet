@@ -22,13 +22,14 @@ questions:
  - Quel homme politique, ayant joué un rôle prépondérant dans la Constitution de 1958, a été Premier Ministre sous Charles de Gaulle ?
 ---
 
-![Image de Michel Debré](https://upload.wikimedia.org/wikipedia/commons/8/84/Michel_Debr%C3%A9.jpg)
+
+![Image de Michel Debré](https://upload.wikimedia.org/wikipedia/commons/8/84/Michel_Debr%C3%A9.jpg)
 
 ###### Questions
 
 Dans quel discours télévisé de [[1958]] le père de la [[Cinquième République]] a-t-il exposé son projet de Constitution, un projet qui a changé à jamais le système politique français ?
 
-Qui a été nommé Premier ministre par [[Charles de Gaulle]] en [[1959]], devenant ainsi le tout premier titulaire de ce poste sous la [[Cinquième République]] ?
+Qui a été nommé Premier ministre par [[Charles de Gaulle]] en [[1959]], devenant ainsi le tout premier titulaire de ce poste sous la [[Cinquième République]] ? <!-- score: 6 -->
 
 Quel auteur du projet de Constitution de [[1958]] a également signé les ordonnances pour la départementalisation des territoires d'[[outre-mer]] en [[1960]] ?
 
