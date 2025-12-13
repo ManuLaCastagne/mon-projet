@@ -20,13 +20,14 @@ questions:
  - Dans la [[mythologie grecque]], quel couple transformé par Zeus et Hermès en arbres mêlant leurs branches symbolise l'amour conjugal ?
 ---
 
+
 ![Image de Philémon et Baucis](https://upload.wikimedia.org/wikipedia/commons/f/f8/Phil%C3%A9mon_et_Baucis_by_Gounod.png)
 
 ###### Questions
 
 Quel couple mythologique fut récompensé par [[Zeus]] pour leur hospitalité envers les dieux déguisés en mortels, et transformé en arbres entrelacés à leur mort ?
 
-Quel mythe grec relate l'histoire d'un couple âgé vivant dans un humble cottage qui fut épargné par un déluge divin grâce à leur générosité ?
+Quel mythe grec relate l'histoire d'un couple âgé vivant dans un humble cottage qui fut épargné par un déluge divin grâce à leur générosité ? <!-- score: 3 -->
 
 Dans quel récit d'[[Ovide]], issu des [[Métamorphoses]], un couple d'Arcadie est transformé en chênes et tilleuls comme symbole de leur amour éternel ?
 
