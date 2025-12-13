@@ -24,6 +24,7 @@ indice_6 :
   - Jacarandas
 ---
 
+
 ![Image de Pretoria](https://upload.wikimedia.org/wikipedia/commons/b/b0/Montage_of_Pretoria.jpg)
 
 ![[Carte_Pretoria.png]]
@@ -31,7 +32,7 @@ indice_6 :
 
 Quel est le nom de la ville d'Afrique du Sud qui sert de capitale administrative depuis 1910 ?
 
-Dans quelle ville les [[Peace Accords]] entre l'[[Afrique du Sud]] et les [[États-Unis]] ont-ils été signés en 1988 ?
+Dans quelle ville les [[Peace Accords]] entre l'[[Afrique du Sud]] et les [[États-Unis]] ont-ils été signés en 1988 ? <!-- score: 4 -->
 
 Quelle capitale accueille la statue commémorant les [[Voortrekkers]] achevée en 1949 ?
 
