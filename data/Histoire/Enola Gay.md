@@ -20,6 +20,7 @@ indice_6 :
   - Guerre mondiale
 ---
 
+
 ![Image de Enola Gay](https://upload.wikimedia.org/wikipedia/commons/7/70/B-29_Enola_Gay_w_Crews.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel est le nom du [[bombardier]] américain qui a largué la première [[bombe 
 
 Comment s'appelait le [[Boeing B-29]] Superfortress qui a joué un rôle crucial sur le front du [[Pacifique]] pendant la [[Seconde Guerre mondiale]] en [[1945]] ?
 
-Quel appareil, piloté par le colonel [[Paul Tibbets]], est entré dans l'histoire pour sa mission le 6 août [[1945]] ?
+Quel appareil, piloté par le colonel [[Paul Tibbets]], est entré dans l'histoire pour sa mission le 6 août [[1945]] ? <!-- score: 2 -->
 
 ###### Description
 
