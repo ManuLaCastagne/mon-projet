@@ -16,13 +16,14 @@ indice_6 :
   - Ardoise
 ---
 
+
 ![Image de Recingle](https://upload.wikimedia.org/wikipedia/commons/9/99/Encreuament%2C_El_Recingle_-_panoramio.jpg)
 
 ###### Questions
 
 Quel est le terme pour désigner une reprise de possession d'un bien qui avait été confisqué, utilisé notamment dans le contexte médiéval avec des [[Terres Seigneuriales]]?
 
-Comment appelle-t-on en archéologie le [[geste technique]] qui consiste à enlever des éclats d'un [[ensemble lithique]]?
+Comment appelle-t-on en archéologie le [[geste technique]] qui consiste à enlever des éclats d'un [[ensemble lithique]]? <!-- score: 4 -->
 
 Quel est le mot qui désigne une [[technique de taille]] employée par les tailleurs de pierres dans l'Antiquité et étudiée par les spécialistes d'outillage préhistorique?
 
