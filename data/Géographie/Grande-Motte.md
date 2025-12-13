@@ -26,6 +26,7 @@ questions:
  - Quelle station balnéaire de l'Hérault, construite dans les années 60, est célèbre pour ses immeubles en forme de pyramides?
 ---
 
+
 ![Image de Grande-Motte](https://upload.wikimedia.org/wikipedia/commons/4/4e/Grande_Motte_Tignes_2015.jpg)
 
 ![[Carte_Grande-Motte.png]]
@@ -33,7 +34,7 @@ questions:
 
 Dans quelle ville maritime française, créée officiellement en 1967, peut-on admirer une architecture pyramidale emblématique conçue par [[Jean Balladur]] ?
 
-Quel célèbre site classé [[Patrimoine du XXe siècle]], principalement développé pour désengorger les sites touristiques de la côte d'[[Azur]], est situé dans le département de l'[[Hérault]] ?
+Quel célèbre site classé [[Patrimoine du XXe siècle]], principalement développé pour désengorger les sites touristiques de la côte d'[[Azur]], est situé dans le département de l'[[Hérault]] ? <!-- score: 4 -->
 
 Quel projet d'aménagement touristique lancé par le général [[Charles de Gaulle]] en 1963 a abouti à la création d'une station balnéaire moderne connue sous le nom de [[Grande-Motte]] ?
 
