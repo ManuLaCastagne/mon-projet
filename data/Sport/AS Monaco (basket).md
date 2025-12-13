@@ -22,11 +22,12 @@ questions:
  - En 2021, quel club évoluant dans l'élite du basket français a remporté le 1er trophée européen de son histoire en battant Kazan en finale de l'Eurocoupe?
 ---
 
+
 ![Image de AS Monaco (basket)](https://upload.wikimedia.org/wikipedia/commons/b/b9/Anadolu_Efes_S.K._vs_AS_Monaco_Basket_-_Bormio_-_25_agosto_2019_-_27.jpg)
 
 ###### Questions
 
-Quelle équipe de basket a remporté le championnat de [[Pro B]] en [[2015]], accédant ainsi à la [[Jeep Élite]] pour la première fois depuis [[1994]] ?
+Quelle équipe de basket a remporté le championnat de [[Pro B]] en [[2015]], accédant ainsi à la [[Jeep Élite]] pour la première fois depuis [[1994]] ? <!-- score: 7 -->
 
 Quel club a été sacré vainqueur de la [[Eurocoupe de basket-ball]] en [[2021]], devenant ainsi la première équipe française à remporter ce titre ?
 
