@@ -20,6 +20,7 @@ indice_6:
   - aventure romanesque
 ---
 
+
 ![Image de Capitaine Fracasse](https://upload.wikimedia.org/wikipedia/commons/6/64/Le_Capitaine_Fracasse_Gustave_Dor%C3%A9.png)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel roman publié pour la première fois en 1863 est une œuvre majeure de [[Th
 
 Quel ouvrage littéraire raconte les aventures du [[baron de Sigognac]] qui se métamorphose en un célèbre personnage de théâtre ?
 
-Quel roman, dont une des adaptations cinématographiques date de 1943, narre les péripéties d'un jeune noble endossant le rôle d'un héros masqué et flamboyant ?
+Quel roman, dont une des adaptations cinématographiques date de 1943, narre les péripéties d'un jeune noble endossant le rôle d'un héros masqué et flamboyant ? <!-- score: 3 -->
 
 ###### Description
 
