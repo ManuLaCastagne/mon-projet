@@ -24,13 +24,14 @@ questions:
  - Dans l'édition des "Contes" de Perrault parue en 1697, quel sous-titre figurait en frontispice sous le titre original?
 ---
 
+
 ![Image de Les Contes de ma mère l'Oye](https://upload.wikimedia.org/wikipedia/commons/9/99/Les_Contes_de_ma_m%C3%A8re_l%27Oye_avant_Perrault-0003.jpg)
 
 ###### Questions
 
 Quel recueil de [[contes]] publié en 1697 est attribué à [[Charles Perrault]] et contient des histoires comme "[La Belle au bois dormant]" et "[Le Petit Chaperon rouge]" ?
 
-Quel livre de [[littérature française]] regroupe des histoires transmises par [[tradition orale]], et doit son titre à l'image traditionnelle de [[la mère l'Oye]] qui raconte des fables aux enfants ?
+Quel livre de [[littérature française]] regroupe des histoires transmises par [[tradition orale]], et doit son titre à l'image traditionnelle de [[la mère l'Oye]] qui raconte des fables aux enfants ? <!-- score: 8 -->
 
 Quel ouvrage, souvent considéré comme un pilier des [[contes de fées]], a été publié sous le règne du roi [[Louis XIV]] et marque une étape importante dans la fixation écrite des [[contes populaires]] ?
 
