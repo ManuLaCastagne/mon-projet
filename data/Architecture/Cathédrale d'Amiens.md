@@ -26,7 +26,8 @@ questions:
 ---
 
 
-![Image de Cathédrale d'Amiens](https://upload.wikimedia.org/wikipedia/commons/3/3c/Amiens_Cathedral_Transept_Crossing%2C_Picardy%2C_France_-_Diliff.jpg)
+
+![Image de Cathédrale d'Amiens](https://upload.wikimedia.org/wikipedia/commons/3/3c/Amiens_Cathedral_Transept_Crossing%2C_Picardy%2C_France_-_Diliff.jpg)
 
 ###### Questions
 
@@ -34,7 +35,7 @@ Quel édifice religieux, inscrit au patrimoine mondial de l'[[UNESCO]] depuis 19
 
 Quelle structure architecturale, terminée en 1270, est réputée pour abriter la réplique de la relique de la tête de [[Saint Jean-Baptiste]] ? <!-- score: 4 -->
 
-Dans quelle cathédrale peut-on admirer le célèbre labyrinthe construit au sol autour de l'année 1288, généralement emprunté par les pèlerins pour symboliser le chemin initiatique de la vie ?
+Dans quelle cathédrale peut-on admirer le célèbre labyrinthe construit au sol autour de l'année 1288, généralement emprunté par les pèlerins pour symboliser le chemin initiatique de la vie ? <!-- score: 3 -->
 
 ###### Description
 
