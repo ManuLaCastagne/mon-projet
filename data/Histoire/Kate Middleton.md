@@ -22,13 +22,14 @@ indice_6 :
 ---
 
 
+
 ![Image de Kate Middleton](https://upload.wikimedia.org/wikipedia/commons/b/bf/Princess_of_Wales_in_2023_%28cropped%2903.JPG)
 
 ###### Questions
 
 Quel membre de la famille royale britannique a été impliqué dans un projet photographique pour le magazine [[Vogue]] en 2016 ? <!-- score: 4 -->
 
-Quelle personnalité a conçu le jardin "Back to Nature" pour le [[Chelsea Flower Show]] en 2019 ?
+Quelle personnalité a conçu le jardin "Back to Nature" pour le [[Chelsea Flower Show]] en 2019 ? <!-- score: 5 -->
 
 Quel est le membre de la famille royale britannique qui a étudié l'histoire de l'art à l'[[Université de St Andrews]] en 2001 ?
 
