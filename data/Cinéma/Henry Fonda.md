@@ -24,18 +24,15 @@ questions:
  - Dans le film de Sergio Leone "Il était une fois dans l'Ouest", quel acteur incarne Frank, bandit loin des personnages qu'il avait l'habitude de jouer?
 ---
 
-
-
 ![Image de Henry Fonda](https://upload.wikimedia.org/wikipedia/commons/0/0c/Henry_Fonda_in_Warlock.jpg)
 
 ###### Questions
 
-En 1981, quel acteur a remporté l'[[Oscar du meilleur acteur]] pour sa performance dans le film [[On Golden Pond]] ? <!-- score: 2 -->
+En 1981, quel acteur a remporté l'[[Oscar du meilleur acteur]] pour sa performance dans le film [[On Golden Pond]] ou La Maison du Lac ? <!-- score: 2 -->
 
-Dans quel film de 1940, co-réalisé par [[John Ford]], l'acteur [[Henry Fonda]] joue-t-il le rôle principal de [[Tom Joad]] ?
+Dans un film de 1940, co-réalisé par [[John Ford]], qui joue le rôle principal de [[Tom Joad]] ? <!-- score: 5 -->
 
 Quel célèbre acteur, père de [[Jane Fonda]], a été juré numéro 8 dans le classique de 1957 [[12 Angry Men]] ?
-
 ###### Description
 
 [[Henry Fonda]] est un acteur américain emblématique, connu pour sa carrière qui s'étend sur près de cinq décennies. 
