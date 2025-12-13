@@ -20,11 +20,12 @@ indice_6:
   - cérémonie d'ouverture
 ---
 
+
 ![Image de Nagano 1998](https://upload.wikimedia.org/wikipedia/commons/e/e3/1998_Nagano_Winter_Olympics_opening_ceremony.jpg)
 
 ###### Questions
 
-Dans quelle ville [[japonaise]] ont eu lieu les [[Jeux olympiques d'hiver]] pour la première fois en 1998 ?
+Dans quelle ville [[japonaise]] ont eu lieu les [[Jeux olympiques d'hiver]] pour la première fois en 1998 ? <!-- score: 6 -->
 
 Quelle édition des [[Jeux olympiques d'hiver]] a vu le [[hockey sur glace féminin]] être ajouté pour la première fois au programme olympique ?
 
