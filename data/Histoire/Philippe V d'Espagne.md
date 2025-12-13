@@ -20,6 +20,7 @@ indice_6 :
   - traité d'Utrecht
 ---
 
+
 ![Image de Philippe V d'Espagne](https://upload.wikimedia.org/wikipedia/commons/a/ae/Recueil._Portraits_du_cardinal_Jules_Alberoni%2C_ministre_de_Philippe_V_d%27Espagne_-_btv1b8528029t_%2802_of_20%29.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel roi d'Espagne, petit-fils de [[Louis XIV]], a commencé son règne sur le t
 
 Quel monarque espagnol, premier de la [[Maison de Bourbon]] à régner en [[Espagne]], abdique temporairement en [[1724]] en faveur de son fils [[Louis Ier]] avant de reprendre le trône la même année après la mort de ce dernier ?
 
-Sous quel règne en Espagne commence une série de réformes connues sous le nom de [[Réformes des Bourbons]], lesquelles visaient à moderniser l'administration et ont été initiées au début du [[XVIIIe siècle]] ?
+Sous quel règne en Espagne commence une série de réformes connues sous le nom de [[Réformes des Bourbons]], lesquelles visaient à moderniser l'administration et ont été initiées au début du [[XVIIIe siècle]] ? <!-- score: 5 -->
 
 ###### Description
 
