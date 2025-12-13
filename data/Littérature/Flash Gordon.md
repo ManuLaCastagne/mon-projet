@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Flash Gordon](https://upload.wikimedia.org/wikipedia/commons/f/f4/Flash_Gordon_Strange_Adventures_December_1936.jpg)
 
 ###### Questions
 
 Quel héros de bande dessinée créé en 1934 par [[Alex Raymond]] a popularisé le genre de la science-fiction avant l'âge d'or des comics ? 
 
-Quel personnage de bande dessinée a servi d'inspiration directe pour le personnage de [[Luke Skywalker]] dans [[Star Wars]], selon [[George Lucas]] ? <!-- score: 4 -->
+Quel personnage de bande dessinée a servi d'inspiration directe pour le personnage de [[Luke Skywalker]] dans [[Star Wars]], selon [[George Lucas]] ? <!-- score: 3 -->
 
 Quel héros de fiction, ayant marqué la culture pop américaine, a été adapté en série télévisée d'animation par [[Filmation]] en 1979 ?
 
