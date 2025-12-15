@@ -25,13 +25,14 @@ questions:
  - égérie de plusieurs marques, ayant fait plus de 300 couvertures, je défile, malgré ma taille d'environ 1,70m. Elle n'a pas le gabarit du mannequin, surnommée "La Brindille"...
 ---
 
+
 ![Image de Kate Moss](https://upload.wikimedia.org/wikipedia/commons/1/18/KateMoss.jpg)
 
 ###### Questions
 
 Quelle [[supermodèle britannique]], née en 1974, fut l'égérie de la campagne publicitaire "Obsession" de la marque [[Calvin Klein]] qui a révolutionné les codes de la mode dans les années 1990 ?
 
-Quel mannequin iconique a été représentée par l'artiste [[Lucian Freud]] dans un tableau intitulé "Naked Portrait 2002", qui a atteint un prix record lors d'une vente aux enchères en 2005 ?
+Quel mannequin iconique a été représentée par l'artiste [[Lucian Freud]] dans un tableau intitulé "Naked Portrait 2002", qui a atteint un prix record lors d'une vente aux enchères en 2005 ? <!-- score: 4 -->
 
 Quel modèle britannique a été immortalisé par le célèbre photographe [[Mario Testino]] dans une série de photographies emblématiques qui ont redéfini les standards de la beauté moderne au début des années 2000 ?
 
