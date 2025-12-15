@@ -28,7 +28,7 @@ questions:
 
 ###### Questions
 
-Qui a réalisé [[L'Amour et les Forêts]] en 2023, dans lequel joue [[Virginie Efira]] qui est isolé du monde par un pervers narcissique ? <!-- score: 5 -->
+Qui a réalisé [[L'Amour et les Forêts]] en 2023, dans lequel joue [[Virginie Efira]] qui est isolé du monde par un pervers narcissique joué par [[Melvin Poupaud]] ? <!-- score: 5 -->
 ###### Description
 
 [[Valérie Donzelli]] est une actrice, scénariste et réalisatrice française née le 2 mars 1973 à [[Épinal]], dans les [[Vosges]]. 
