@@ -24,7 +24,8 @@ questions:
  - En 2019, à quelle cinéaste et actrice, auteure 8 ans auparavant de "La guerre est déclarée", vous l'avez? Doit-on le film "Notre Dame"?
 ---
 
-![Image de Valérie Donzelli](https://upload.wikimedia.org/wikipedia/commons/b/b8/Val%C3%A9rie_Donzelli.jpg)
+
+![Image de Valérie Donzelli](https://upload.wikimedia.org/wikipedia/commons/b/b8/Val%C3%A9rie_Donzelli.jpg)
 
 ###### Questions
 
@@ -32,7 +33,7 @@ Dans quel film de 2011, réalisé par [[Valérie Donzelli]], joue-t-elle aux cô
 
 Quel film réalisé par [[Valérie Donzelli]] en 2015, dans lequel elle apparaît également au casting, a ouvert la [[48e Quinzaine des Réalisateurs]] au Festival de Cannes ?
 
-Quel long-métrage de [[Valérie Donzelli]], sorti en 2019, est inspiré de la vie privée d'un couple de musiciens célèbres en France et a été présenté en ouverture de la 8e édition du [[Champ-Élysées Film Festival]] ?
+Quel long-métrage de [[Valérie Donzelli]], sorti en 2019, est inspiré de la vie privée d'un couple de musiciens célèbres en France et a été présenté en ouverture de la 8e édition du [[Champ-Élysées Film Festival]] ? <!-- score: 5 -->
 
 ###### Description
 
