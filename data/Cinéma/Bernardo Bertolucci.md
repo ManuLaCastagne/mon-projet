@@ -22,13 +22,14 @@ indice_6 :
   - Novecento
 ---
 
+
 ![Image de Bernardo Bertolucci](https://upload.wikimedia.org/wikipedia/commons/c/c0/Bernardo_Bertolucci.jpg)
 
 ###### Questions
 
 Quel réalisateur italien est connu pour le film controversé [[Le Dernier Tango à Paris]], sorti en 1972 ?
 
-Qui a remporté l'[[Oscar]] du meilleur réalisateur en 1988 pour son film "[[Le Dernier Empereur]]" ?
+Qui a remporté l'[[Oscar]] du meilleur réalisateur en 1988 pour son film "[[Le Dernier Empereur]]" ? <!-- score: 4 -->
 
 Quel cinéaste a débuté sa carrière en tant qu'assistant réalisateur de [[Pier Paolo Pasolini]] sur le film "[[Accattone]]" en 1961 ?
 
