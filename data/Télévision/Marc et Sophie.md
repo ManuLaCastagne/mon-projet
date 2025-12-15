@@ -22,13 +22,14 @@ questions:
  - Quelle série, diffusée de 87 à 91,  avait pour héros un couple  formé par un vétérinaire et une femme médecin, joués par Gérard Rinaldi et Julie Arnold?
 ---
 
+
 ![Image de Marc et Sophie](https://upload.wikimedia.org/wikipedia/commons/9/98/Jean-Marc_Nattier%2C_Madame_Sophie_de_France_%281748%29_-_01.jpg)
 
 ###### Questions
 
 Dans quelle série télévisée française diffusée de [[1987]] à [[1991]] retrouve-t-on le duo formé par un vétérinaire nommé [[Marc]] et une médecin nommée [[Sophie]] ?
 
-Quel programme télévisé a été diffusé sur [[TF1]] et suit la vie quotidienne et les péripéties d'un couple joué par [[Gérard Rinaldi]] et [[Julie Arnold]] ?
+Quel programme télévisé a été diffusé sur [[TF1]] et suit la vie quotidienne et les péripéties d'un couple joué par [[Gérard Rinaldi]] et [[Julie Arnold]] ? <!-- score: 3 -->
 
 À quelle série peut-on associer le thème musical composé par [[Jean-Claude Petit]] et qui a embelli les soirées de nombreux téléspectateurs français de 1987 à [[1991]] ?
 
