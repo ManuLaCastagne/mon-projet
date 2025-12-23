@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - États-Unis
   - décennie_1930
@@ -8,27 +8,27 @@ date:
   - 1905/05/16
 debut: 1905
 fin: 1982
-indice_1 : 
+indice_1:
   - 12 hommes en colère
-indice_2 : 
+indice_2:
   - Le jeune Lincoln
-indice_3 : 
+indice_3:
   - Le faux coupable
-indice_4 : 
+indice_4:
   - En un jeu dangereux
-indice_5 : 
+indice_5:
   - Mon nom est Personne
-indice_6 : 
+indice_6:
   - père de Jane Fonda
-questions:
- - Dans le film de Sergio Leone "Il était une fois dans l'Ouest", quel acteur incarne Frank, bandit loin des personnages qu'il avait l'habitude de jouer?
 ---
 
 ![Image de Henry Fonda](https://upload.wikimedia.org/wikipedia/commons/0/0c/Henry_Fonda_in_Warlock.jpg)
 
 ###### Questions
 
-En 1981, quel acteur a remporté l'[[Oscar du meilleur acteur]] pour sa performance dans le film [[On Golden Pond]] ou La Maison du Lac ? <!-- score: 2 -->
+Dans le film de [[Sergio Leone]] "[[Il était une fois dans l'Ouest]]", quel acteur incarne Frank, bandit loin des personnages qu'il avait l'habitude de jouer ?
+
+En 1981, quel acteur a remporté l'[[Oscar du meilleur acteur]] pour sa performance dans le film [[On Golden Pond]] ou [[La Maison du Lac]] ? <!-- score: 2 -->
 
 Dans un film de 1940, co-réalisé par [[John Ford]], qui joue le rôle principal de [[Tom Joad]] ? <!-- score: 5 -->
 
