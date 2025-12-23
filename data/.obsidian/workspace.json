@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Henry Fonda.md",
+                "file": "Architecture/Cathédrale d'Amiens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Henry Fonda"
+              "title": "Cathédrale d'Amiens"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Henry Fonda.md",
+                "file": "Architecture/Cathédrale d'Amiens.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Henry Fonda"
+              "title": "Graphique de Cathédrale d'Amiens"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,6 +357,10 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Culture générale/gothique.md",
+    "Architecture/Cathédrale d'Amiens.md",
+    "Architecture/Robert de Luzarches.md",
+    "Cinéma/Henry Fonda.md",
     "Animaux/Épervier.md",
     "Cinéma/Melvil Poupaud.md",
     "Cinéma/La Fille de 15 ans.md",
@@ -379,11 +383,7 @@
     "Vocabulaire/Polymathe.md",
     "Cinéma/Tom Selleck.md",
     "Histoire/Bédouins.md",
-    "Sciences/Louis Blériot.md",
-    "Histoire/Louis Blériot.md",
     "Frises/Base de données n°1.base",
-    "Cinéma/Luis Buñuel.md",
-    "Cinéma/Un chien andalou.md",
     "Sans titre.canvas"
   ]
 }
