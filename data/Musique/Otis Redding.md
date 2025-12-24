@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Otis Redding](https://upload.wikimedia.org/wikipedia/commons/f/f0/Otis_Redding_%282%29.png)
 
 ###### Questions
 
 Quel chanteur de soul a enregistré l'album live légendaire "[[Live in Europe]]" en 1967 peu avant sa mort tragique ?
 
-Quelle légende de la musique soul a interprété le titre iconique "[[[[Sittin']] on the Dock of the Bay]]", qui est devenu le premier single posthume à atteindre la première place du [[Billboard Hot 100]] en 1968 ? <!-- score: 3 -->
+Quelle légende de la musique soul a interprété le titre iconique "[[[[Sittin']] on the Dock of the Bay]]", qui est devenu le premier single posthume à atteindre la première place du [[Billboard Hot 100]] en 1968 ? <!-- score: 4 -->
 
 Quel artiste a été introduit à titre posthume au [[Rock and Roll Hall of Fame]] en 1989, célébrant son impact durable sur la musique soul et rock ?
 
