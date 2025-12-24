@@ -24,11 +24,12 @@ questions:
  - Je comprends les vers "Rien dans les mains, tout dans l'coup d'rein" ou encore  "Plumes de z'oiseaux, de z'animaux"…
 ---
 
+
 ![Image de Mon Truc en plumes](https://upload.wikimedia.org/wikipedia/commons/d/d0/Mirbeau_-_Encore_mon_ami_Dupuy%2C_paru_dans_L%E2%80%99Aurore%2C_11_mars_1899.djvu)
 
 ###### Questions
 
-Quelle chanson interprétée par [[Zizi Jeanmaire]] en 1961 est devenue emblématique pour son style extravagant ?
+Quelle chanson interprétée par [[Zizi Jeanmaire]] en 1961 est devenue emblématique pour son style extravagant ? <!-- score: 9 -->
 
 Quel titre, popularisé dans un numéro de cabaret signé [[Jean-Marie Rivière]] au début des [[années 1960]], utilise le costume à plumes comme élément central de la mise en scène ?
 
