@@ -24,6 +24,7 @@ indice_6 :
   - José Antonio Alvarado
 ---
 
+
 ![Image de San José](https://upload.wikimedia.org/wikipedia/commons/4/45/National_Theatre_of_Costa_Rica.jpg)
 
 ![[Carte_San José.png]]
@@ -31,7 +32,7 @@ indice_6 :
 
 Quelle est la capitale du [[Costa Rica]] qui a été la première ville hispanophone à être illuminée par l'électricité publique en 1884 ?
 
-Quelle ville a été l'hôte de la conférence fondatrice de l'[[Organisation des États américains]] ([[OEA]]) en 1948 ?
+Quelle ville a été l'hôte de la conférence fondatrice de l'[[Organisation des États américains]] ([[OEA]]) en 1948 ? <!-- score: 4 -->
 
 Quel est le musée situé dans [[San José]], qui contient la plus grande collection d'objets d'art précolombien en [[or]] d'Amérique centrale ?
 
