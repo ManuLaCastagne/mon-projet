@@ -22,12 +22,13 @@ indice_6 :
   - Goodbye Stranger
 ---
 
+
 ![[Pasted image 20250323150844.png]]
 ###### Questions
 
 Quelle chanson de l'album [[Breakfast In America]] du groupe [[Supertramp]] parle de rêver de s'installer en [[Sport/Californie]] ?
 
-Quel album de [[Supertramp]], qui inclut le titre "The Logical Song", a été certifié quadruple disque de platine aux [[États-Unis]] en 1979 ?
+Quel album de [[Supertramp]], qui inclut le titre "The Logical Song", a été certifié quadruple disque de platine aux [[États-Unis]] en 1979 ? <!-- score: 4 -->
 
 Quel album de [[Supertramp]], produit par [[Peter Henderson]], a remporté le [[Grammy Award]] du meilleur emballage de disque en 1980 ?
 
