@@ -24,17 +24,13 @@ questions:
  - En 2009, dans le film "Mademoiselle Chambon", quelle comédienne incarne l'institutrice ?
 ---
 
-
 ![Image de Sandrine Kiberlain](https://upload.wikimedia.org/wikipedia/commons/0/08/Sandrine_Kiberlain_at_the_2009_Deauville_American_Film_Festival-01.jpg)
 
 ###### Questions
 
-Dans quel film réalisé par [[Albert Dupontel]] et sorti en 2013 Sandrine Kiberlain joue-t-elle aux côtés de [[Albert Dupontel]], obtenant le [[César de la meilleure actrice]] ? <!-- score: 5 -->
+En 1995, quelle actrice a été récompensée pour son rôle dans le film [[En avoir (ou pas)]] lors de la [[Cérémonie des César]] ? <!-- score: 5 -->
 
-En 1995, quel prix prestigieux a été décerné à Sandrine Kiberlain pour son rôle dans le film [[En avoir (ou pas)]] lors de la [[Cérémonie des César]] ?
-
-En 2018, dans quel film Sandrine Kiberlain incarne-t-elle le rôle de la mère de [[Lola, adolescente transgenre]] ?
-
+En 2018, qui incarne le rôle de la mère de [[Lola, adolescente transgenre]] ? <!-- score: 5 -->
 ###### Description
 
 [[Sandrine Kiberlain]] est une actrice française talentueuse, née le 25 février 1968 à [[Boulogne-Billancourt]]. 
