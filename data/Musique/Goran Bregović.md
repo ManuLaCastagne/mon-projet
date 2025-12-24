@@ -24,13 +24,14 @@ questions:
  - Quel musicien  né à Sarajevo a composé la bande originale de ce film, "Le Temps des Gitans" ou "Chat noir, chat blanc"
 ---
 
+
 ![Image de Goran Bregović](https://upload.wikimedia.org/wikipedia/commons/4/4c/20220710-Rudolstadt-Festival-2022-Goran-Bregovic-7849_%28cropped%29.jpg)
 
 ###### Questions
 
 Dans quel film de [[Emir Kusturica]] sorti en 1995 retrouve-t-on la musique composée par [[Goran Bregović]] ?
 
-Quel musicien a collaboré avec [[Iggy Pop]] sur l'album "[[Arizona Dream]]" pour créer la bande originale en 1993 ?
+Quel musicien a collaboré avec [[Iggy Pop]] sur l'album "[[Arizona Dream]]" pour créer la bande originale en 1993 ? <!-- score: 4 -->
 
 Quelle ancienne star du groupe [[Bijelo Dugme]] a été choisi pour composer la musique de la cérémonie d'ouverture de [[Sotchi 2014]] ?
 
