@@ -21,6 +21,7 @@ indice_6:
 ---
 
 
+
 ![Image de Michelle Bachelet](https://upload.wikimedia.org/wikipedia/commons/0/02/Portrait_Michelle_Bachelet.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quelle femme a été élue comme première présidente de [[Chili]] en [[2006]] 
 
 Quelle ancienne présidente chilienne a été nommée Haut-Commissaire des Nations Unies aux droits de l'homme en [[2018]] ?
 
-Quelle personnalité politique a dirigé à deux reprises la présidence du [[Chili]], d'abord de [[2006]] à [[2010]], puis de [[2014]] à [[2018]] ? <!-- score: 4 -->
+Quelle personnalité politique a dirigé à deux reprises la présidence du [[Chili]], d'abord de [[2006]] à [[2010]], puis de [[2014]] à [[2018]] ? <!-- score: 2 -->
 
 ###### Description
 
