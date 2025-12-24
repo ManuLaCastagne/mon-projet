@@ -22,13 +22,14 @@ questions:
  - En 1584, quel tsar de Russie, fils de Vassili III s'écroule mort au début d'une partie d'échecs ?
 ---
 
+
 ![Image de Ivan le Terrible 1](https://upload.wikimedia.org/wikipedia/commons/7/71/Ivan_the_Terrible_and_Harsey.jpg)
 
 ###### Questions
 
 Quel monarque russe, surnommé "le Terrible", fut couronné premier Tsar de Russie en [[1547]] ?
 
-Quel souverain a instauré l'[[opritchnina]], un régime de terreur avec une police secrète, en [[1565]] ?
+Quel souverain a instauré l'[[opritchnina]], un régime de terreur avec une police secrète, en [[1565]] ? <!-- score: 6 -->
 
 Quel dirigeant a commandé la construction de la [[Cathédrale Saint-Basile-le-Bienheureux]] à Moscou pour célébrer la conquête de [[Kazan]] en [[1552]] ?
 
