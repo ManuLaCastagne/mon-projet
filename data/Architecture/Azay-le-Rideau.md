@@ -35,13 +35,14 @@ indice_6:
 
 
 
+
 ![Image de Azay-le-Rideau](https://upload.wikimedia.org/wikipedia/commons/c/cf/00_2431_Azay-le-Rideau.jpg)
 
 ###### Questions
 
 Quel château est désigné par un nom composé situé entre [[Tours]] et [[Chinon]] ? <!-- score: 5 -->
 
-Quel château, situé sur une île au milieu de l'Indre, a été construit entre 1518 et 1527 pendant la Renaissance française ? <!-- score: 2 -->
+Quel château, situé sur une île au milieu de l'Indre, a été construit entre 1518 et 1527 pendant la Renaissance française ? <!-- score: 3 -->
 
 ###### Description
 
