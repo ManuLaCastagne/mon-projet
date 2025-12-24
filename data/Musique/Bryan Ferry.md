@@ -23,12 +23,13 @@ questions:
   - En 1985, quel ancien chanteur de Roxy Music fait un succès en solo avec "Slave to Love" ?
 ---
 
+
 ![Image de Bryan Ferry](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bryan_ferry_VieillesCharrues2007.JPG)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7fDSexmvkpaHLPhOegELeX" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ###### Questions
 
-En quelle année [[Bryan Ferry]] a-t-il fondé le groupe légendaire [[Roxy Music]] avec [[Brian Eno]] et [[Phil Manzanera]] ?
+En quelle année [[Bryan Ferry]] a-t-il fondé le groupe légendaire [[Roxy Music]] avec [[Brian Eno]] et [[Phil Manzanera]] ? <!-- score: 5 -->
 
 Quel est le titre de l'album solo de [[Bryan Ferry]] sorti en 1973, qui inclut une reprise marquante de la chanson "[[A Hard Rain's a-Gonna Fall]]" de [[Bob Dylan]] ?
 
