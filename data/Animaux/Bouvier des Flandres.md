@@ -17,13 +17,14 @@ questions:
  - Intelligent, protecteur. Doté d'un poil sombre et rude de barbe, moustaches et sourcils lorsque je suis dit "des Flandres", tandis que j'ai une allure de nounours...
 ---
 
+
 ![Image de Bouvier des Flandres](https://upload.wikimedia.org/wikipedia/commons/7/7f/Bouvier.JPG)
 
 ###### Questions
 
 Quel chien a été utilisé par l'armée belge pendant [[la Première Guerre mondiale]] pour tirer des traîneaux et transporter des messages, et est originaire des [[Flandres]] ?
 
-Quelle race de chien a été surnommée "la vache des pauvres" en [[France]] grâce à ses aptitudes à la garde du bétail et à son rôle traditionnel dans les fermes du [[Nord]] au début du [[XXe siècle]] ?
+Quelle race de chien a été surnommée "la vache des pauvres" en [[France]] grâce à ses aptitudes à la garde du bétail et à son rôle traditionnel dans les fermes du [[Nord]] au début du [[XXe siècle]] ? <!-- score: 3 -->
 
 Quel chien, nommé après une région transfrontalière entre la [[Belgique]] et la [[France]], est connu pour avoir été utilisé dans la police et comme chien de berger notamment lors de l'exposition canine de [[Paris]] en [[1925]] ?
 
