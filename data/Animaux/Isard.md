@@ -18,11 +18,12 @@ questions:
 ---
 
 
+
 ![Image de Isard](https://upload.wikimedia.org/wikipedia/commons/e/e7/Isard_des_pyrenees_bigorre_2003.jpg)
 
 ###### Questions
 
-Quel animal, cousin du [[chamois]], est capable de grimper des parois rocheuses escarpées dans les [[Pyrénées]] avec une adresse remarquable ?
+Quel animal, cousin du [[chamois]], est capable de grimper des parois rocheuses escarpées dans les [[Pyrénées]] avec une adresse remarquable ? <!-- score: 3 -->
 
 Quel animal, que l'on trouve principalement dans la région des [[Pyrénées]] depuis le [[Néolithique]], a une robe qui change de couleur en fonction des saisons pour s'adapter à son environnement ?
 
