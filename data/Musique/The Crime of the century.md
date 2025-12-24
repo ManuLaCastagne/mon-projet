@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de The Crime of the century](https://upload.wikimedia.org/wikipedia/commons/0/00/AI_created_image_of_a_crime_scene_19th_century_London.jpg)
 
 ###### Questions
 
 Dans quel album de [[Supertramp]] sorti en 1974 peut-on trouver le célèbre titre "[[Dreamer]]"?
 
-Quel est le premier album conceptuel du groupe [[Supertramp]] abordant des thèmes comme la crise d'identité et l'aliénation sociale, paru en 1974? <!-- score: 4 -->
+Quel est le premier album conceptuel du groupe [[Supertramp]] abordant des thèmes comme la crise d'identité et l'aliénation sociale, paru en 1974? <!-- score: 2 -->
 
 Quel album du groupe [[Supertramp]], publié en 1974, a été produit par [[Ken Scott]], connu pour son travail avec [[David Bowie]]?
 
