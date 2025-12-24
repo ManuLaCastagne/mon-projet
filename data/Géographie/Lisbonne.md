@@ -26,12 +26,13 @@ questions:
  - En 1755, quelle ville du Portugal est en partie détruite par un incendie, suite à un tremblement de terre ?
 ---
 
+
 ![Image de Lisbonne](https://upload.wikimedia.org/wikipedia/commons/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg)
 
 ![[Carte_Lisbonne.png]]
 ###### Questions
 
-Quelle est la capitale européenne où [[Amália Rodrigues]], célèbre pour le [[fado]], est née en 1920 ?
+Quelle est la capitale européenne où [[Amália Rodrigues]], célèbre pour le [[fado]], est née en 1920 ? <!-- score: 8 -->
 
 Dans quelle ville le [[pont du 25 Avril]], construit en 1966, est-il situé et souvent comparé au [[Golden Gate Bridge]] de [[San Francisco]] ?
 
