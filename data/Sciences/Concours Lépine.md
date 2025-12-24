@@ -22,7 +22,8 @@ questions:
  - Depuis 1902 en France, quel concours, créé par un préfet de police, met en avant les inventions ?
 ---
 
-![Image de Concours Lépine](https://upload.wikimedia.org/wikipedia/commons/9/91/Louis_L%C3%A9pine.jpg)
+
+![Image de Concours Lépine](https://upload.wikimedia.org/wikipedia/commons/9/91/Louis_L%C3%A9pine.jpg)
 
 ###### Questions
 
@@ -30,7 +31,7 @@ Quel événement, fondé en [[1901]] par [[Louis Lépine]], vise à promouvoir e
 
 Quelle compétition annuelle a été mise en place en [[France]] pour encourager le développement de nouvelles inventions, notamment dans le secteur scientifique, depuis le début du [[XXe siècle]]?
 
-Quel célèbre concours français a vu le lancement d'innovations ayant un impact dans le domaine des [[Sciences]] et a lieu chaque année à partir de [[1929]] sous la forme d'un salon?
+Quel célèbre concours français a vu le lancement d'innovations ayant un impact dans le domaine des [[Sciences]] et a lieu chaque année à partir de [[1929]] sous la forme d'un salon? <!-- score: 6 -->
 
 ###### Description
 
