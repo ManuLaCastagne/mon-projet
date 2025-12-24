@@ -25,6 +25,7 @@ questions:
   - Quel peintre français auteur de "La Danse" a réalisé "Portes-fenêtres à Collioure" ?
 ---
 
+
 ![Image de Henri Matisse](https://upload.wikimedia.org/wikipedia/commons/b/b1/Portrait_of_Henri_Matisse_1933_May_20.jpg)
 
 ###### Questions
