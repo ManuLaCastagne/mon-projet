@@ -22,13 +22,14 @@ questions:
  - Quelle émission tournée en extérieur débutant en 1975 fut présentée le midi par Danièle Gilbert ?
 ---
 
-![Image de Midi Première](https://upload.wikimedia.org/wikipedia/commons/a/a7/DanieleGilbert-1981-Toulouse.png)
+
+![Image de Midi Première](https://upload.wikimedia.org/wikipedia/commons/a/a7/DanieleGilbert-1981-Toulouse.png)
 
 ###### Questions
 
 Quel programme télévisé français, lancé en [[1975]], a été animé par [[Danièle Gilbert]] et diffusé sur [[TF1]] les midis ?
 
-Quelle émission variétée, associée à un célèbre générique de [[Michel Fugain]], a été emblématique de la télévision française des années [[1970]] ?
+Quelle émission variétée, associée à un célèbre générique de [[Michel Fugain]], a été emblématique de la télévision française des années [[1970]] ? <!-- score: 3 -->
 
 Quel show télévisé, particulièrement populaire pour ses live musicaux en milieu de journée, a cessé sa diffusion en [[1982]] sur [[TF1]] ?
 
