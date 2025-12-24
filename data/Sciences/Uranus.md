@@ -22,11 +22,12 @@ questions:
  - En 1977, autour de quelle planète, située au-delà de Saturne a-t-on découvert par hasard une série de fins anneaux de matière?
 ---
 
+
 ![Image de Uranus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Uranus_diagram.svg)
 
 ###### Questions
 
-Découverte en [[1781]] par [[William Herschel]], quelle planète est la septième du [[système solaire]] en partant du [[Soleil]] ?
+Découverte en [[1781]] par [[William Herschel]], quelle planète est la septième du [[système solaire]] en partant du [[Soleil]] ? <!-- score: 8 -->
 
 Quelle planète fut la première à être découverte à l'aide d'un [[télescope]], changeant ainsi la vision humaine du [[système solaire]] ?
 
