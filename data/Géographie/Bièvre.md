@@ -27,12 +27,13 @@ questions:
  - Jusqu'au début du XXe siècle, quelle petite rivière, prenant sa source au hameau de Bouvier à Guyancourt, traversait, à l'air libre, les 5e et 13e arrondissements de Paris ?
 ---
 
-![Image de Bièvre](https://upload.wikimedia.org/wikipedia/commons/d/da/Bi%C3%A8vre_050422.JPG)
 
-![[Carte_Bièvre.png]]
+![Image de Bièvre](https://upload.wikimedia.org/wikipedia/commons/d/da/Bi%C3%A8vre_050422.JPG)
+
+![[Carte_Bièvre.png]]
 ###### Questions
 
-Quelle rivière de [[Paris]] a donné son nom à un arrondissement avant d'être majoritairement recouverte dans les années 1950 ?
+Quelle rivière de [[Paris]] a donné son nom à un arrondissement avant d'être majoritairement recouverte dans les années 1950 ? <!-- score: 6 -->
 
 Quel affluent de la [[Seine]], connu pour ses tanneries célébrées au [[Moyen Âge]], traverse aujourd'hui des parties emblématiques de [[l'Essonne]] et des [[Hauts-de-Seine]] ?
 
