@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Loto](https://upload.wikimedia.org/wikipedia/commons/f/f0/Lockout_tagout_hasp.svg)
 
 ###### Questions
 
-Quel jeu de hasard, lancé en [[1976]], a été introduit en France pour financer les retransmissions télévisées des [[Jeux Olympiques de Montréal]] ?
+Quel jeu de hasard, lancé en [[1976]], a été introduit en France pour financer les retransmissions télévisées des [[Jeux Olympiques de Montréal]] ? <!-- score: 4 -->
 
 Quel est le nom de la loterie nationale créée en [[1933]] par [[Joseph Darnand]] pour aider les anciens combattants en France avant de se transformer et devenir un jeu de hasard plus populaire ?
 
