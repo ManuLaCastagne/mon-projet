@@ -21,11 +21,12 @@ questions:
  - Quelle jeune fille Hadès épouse-t-il après l'avoir enlevée à sa mère Déméter?
 ---
 
+
 ![Image de Coré](https://upload.wikimedia.org/wikipedia/commons/0/07/Euploea_core-Kadavoor-2016-09-08-002.jpg)
 
 ###### Questions
 
-Quel est le nom originel de [[Perséphone]] avant qu'elle ne devienne la reine des [[Enfers]] dans la mythologie [[grecque]] ?
+Quel est le nom originel de [[Perséphone]] avant qu'elle ne devienne la reine des [[Enfers]] dans la mythologie [[grecque]] ? <!-- score: 4 -->
 
 Sous quel nom était connue la déesse [[Perséphone]] lorsqu'elle était associée à l'idée de jeune fille de la récolte réussie dans les mythes [[gréco-romains]] ?
 
