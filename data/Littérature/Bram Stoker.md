@@ -24,6 +24,7 @@ questions:
  - J'ai travaillé de nombreuses années sur mon oeuvre majeure, inspirée par l'histoire de Vlad Tepès, un prince de Valachie du XVe siècle. Auteur de "Dracula"...
 ---
 
+
 ![Image de Bram Stoker](https://upload.wikimedia.org/wikipedia/commons/3/34/Bram_Stoker_1906.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel auteur irlandais, né en 1847 et décédé en 1912, est célèbre pour avoi
 
 Quel écrivain a travaillé comme manager du célèbre acteur [[Henry Irving]] tout en écrivant son célèbre roman sur un vampire nommé [[Dracula]]?
 
-Quel auteur a basé son personnage principal, [[Count Dracula]], sur des recherches et des récits concernant le chef de guerre valaque [[Vlad l'Empaleur]]?
+Quel auteur a basé son personnage principal, [[Count Dracula]], sur des recherches et des récits concernant le chef de guerre valaque [[Vlad l'Empaleur]]? <!-- score: 8 -->
 
 ###### Description
 
