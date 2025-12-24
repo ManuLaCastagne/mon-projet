@@ -24,11 +24,12 @@ questions:
  - Quel écrivain, associé au nouveau roman, a publié "L'Emploi du temps" en 1956 et "La Modification" l'année suivante?
 ---
 
+
 ![Image de Michel Butor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Michel-Butor.jpg)
 
 ###### Questions
 
-Quel auteur du [[Nouveau Roman]] a écrit en 1957 le célèbre ouvrage intitulé [[La Modification]] ?
+Quel auteur du [[Nouveau Roman]] a écrit en 1957 le célèbre ouvrage intitulé [[La Modification]] ? <!-- score: 6 -->
 
 Quel romancier français a choisi de structurer son livre [[Mobile]], publié en 1962, de manière non linéaire en utilisant des fragments et des collages ?
 
