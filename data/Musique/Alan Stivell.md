@@ -24,13 +24,14 @@ questions:
  - Dans les années 70, quel musicien et chanteur a fait revivre la culture bretonne en jouant d'une harpe...
 ---
 
+
 ![Image de Alan Stivell](https://upload.wikimedia.org/wikipedia/commons/2/26/Harpe_Celtique_Telenn_Genta%C3%B1_-_Alan_Stivell_-_01.jpg)
 
 ###### Questions
 
 Quel célèbre musicien breton, connu pour avoir popularisé la musique celtique à l'international, a sorti l'album "[[Renaissance de la Harpe Celtique]]" en 1971 ?
 
-Quel artiste, né sous le nom d'[[Alain Cochevelou]], a été un pionnier du renouveau culturel breton avec son concert mémorable à l'[[Oympia]] de [[Paris]] en 1972 ?
+Quel artiste, né sous le nom d'[[Alain Cochevelou]], a été un pionnier du renouveau culturel breton avec son concert mémorable à l'[[Oympia]] de [[Paris]] en 1972 ? <!-- score: 3 -->
 
 Quel chanteur et harpiste breton a été nommé [[Chevalier de l'Ordre des Arts et des Lettres]] par le gouvernement français en 2009 ?
 
