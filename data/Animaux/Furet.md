@@ -17,6 +17,7 @@ questions:
  - Quel mammifère carnivore, très proche du putois, se classait en 2020 à la 3e place des animaux de compagnie préférés des Français...
 ---
 
+
 ![Image de Furet](https://upload.wikimedia.org/wikipedia/commons/e/e8/Chemin_Fran%C3%A7ois_Furet_-_panoramio.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quel animal a été utilisé par les [[Romains]] pour la chasse aux lapins et es
 
 Quel petit carnivore a été domestiqué en [[Europe]] dès le [[Moyen Âge]] et est souvent utilisé dans les laboratoires pour des expériences en raison de sa petite taille et de sa sociabilité ?
 
-Quel mustélidé est connu pour ses longues siestes pouvant durer jusqu'à 18 heures par jour et a inspiré le surnom célèbre de la comédie musicale de 1930, "[[The Furry Dance]]" ?
+Quel mustélidé est connu pour ses longues siestes pouvant durer jusqu'à 18 heures par jour et a inspiré le surnom célèbre de la comédie musicale de 1930, "[[The Furry Dance]]" ? <!-- score: 4 -->
 
 ###### Description
 
