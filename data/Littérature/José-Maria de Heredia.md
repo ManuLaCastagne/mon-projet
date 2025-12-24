@@ -24,6 +24,7 @@ indice_6:
 
 
 
+
 ![Image de José-Maria de Heredia](https://upload.wikimedia.org/wikipedia/commons/2/20/Jos%C3%A9-Maria_de_Heredia_1896.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ En 1899, de quel poète [[parnassien]], auteur de "[[Les Trophées]]", l'écriva
 
 Qui fut élu à l'[[Académie française]] en 1894, un an seulement après la parution de son unique recueil "Les Trophées" ? <!-- score: 3 -->
 
-Quel poète cubano-français a publié le recueil de sonnets intitulé [[Les Trophées]] en 1893?
+Quel poète cubano-français a publié le recueil de sonnets intitulé [[Les Trophées]] en 1893? <!-- score: 3 -->
 
 Quel écrivain a été nommé conservateur de la [[Bibliothèque de l'Arsenal]] en 1901?
 
