@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Cristina Krichner](https://upload.wikimedia.org/wikipedia/commons/8/80/The_President_of_Argentina%2C_Ms._Cristina_Fernandez_De_Krichner_inspecting_the_Guard_of_Honour%2C_at_the_Ceremonial_Reception%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_October_14%2C_2009.jpg)
 
 ###### Questions
