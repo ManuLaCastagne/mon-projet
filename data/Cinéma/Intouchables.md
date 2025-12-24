@@ -24,11 +24,12 @@ questions:
  - Comédie sortie en 2011, je suis inspirée d'une histoire vraie racontée dans "A la vie, à la mort". Débutant par une scène où une Maserati file à vive allure dans Paris
 ---
 
+
 ![Image de Intouchables](https://upload.wikimedia.org/wikipedia/commons/9/96/Ziemlich-beste-Freunde-Logo.svg)
 
 ###### Questions
 
-Quel film, sorti en 2011, raconte l'histoire vraie de l'amitié entre [[Philippe Pozzo di Borgo]] et son aide à domicile, [[Abdel Sellou]], renommé [[Driss]] dans le film ?
+Quel film, sorti en 2011, raconte l'histoire vraie de l'amitié entre [[Philippe Pozzo di Borgo]] et son aide à domicile, [[Abdel Sellou]], renommé [[Driss]] dans le film ? <!-- score: 6 -->
 
 Quel film devenu l'un des plus grands succès du cinéma français cumule plus de [[19 millions]] d'entrées en France depuis sa sortie en 2011 ?
 
