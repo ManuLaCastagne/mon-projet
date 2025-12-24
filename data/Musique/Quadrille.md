@@ -33,7 +33,7 @@ questions:
 
 Quel type de danse, dérivé de la contredanse française, est devenu populaire à [[Paris]] au début du [[XIXe siècle]] et porte le nom de [[Quadrille]] ?
 
-Quelle danse de bal du [[XIXe siècle]], souvent exécutée par quatre couples formant un carré, a inspiré une musique éponyme jouée par de célèbres compositeurs tels que [[Johann Strauss père]] ? <!-- score: 3 -->
+Quelle danse de bal du [[XIXe siècle]], souvent exécutée par quatre couples formant un carré, a inspiré une musique éponyme jouée par de célèbres compositeurs tels que [[Johann Strauss père]] ? <!-- score: 4 -->
 
 Quel genre musical, généralement associé à une danse formaliste à la [[Cour Impériale de Vienne]] dans les années 1800, est connu sous le nom de [[Quadrille]] ?
 
