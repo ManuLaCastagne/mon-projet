@@ -22,11 +22,12 @@ questions:
  - Depuis 1936, quelle récompense internationale est attribuée tous les 4 ans à des mathématiciens âgés de moins de 40 ans ?
 ---
 
-![Image de Médaille Fields](https://upload.wikimedia.org/wikipedia/commons/0/0c/FieldsMedalFront.jpg)
+
+![Image de Médaille Fields](https://upload.wikimedia.org/wikipedia/commons/0/0c/FieldsMedalFront.jpg)
 
 ###### Questions
 
-Quel prix prestigieux a été attribué pour la première fois en [[1936]] pour des réalisations exceptionnelles en sciences mathématiques ?
+Quel prix prestigieux a été attribué pour la première fois en [[1936]] pour des réalisations exceptionnelles en sciences mathématiques ? <!-- score: 4 -->
 
 Quelle distinction considérée comme l'équivalent du [[prix Nobel]] pour les mathématiques est décernée tous les quatre ans à des mathématiciens de moins de [[40 ans]] ?
 
