@@ -22,6 +22,7 @@ questions:
  - En 1870, dans quelle bataille Napoléon III fit-il hisser le drapeau blanc au sommet de la citadelle pour signaler au roi de Prusse sa reddition ?
 ---
 
+
 ![Image de Bataille de Sedan](https://upload.wikimedia.org/wikipedia/commons/0/05/1er_septembre_1870._-_Bataille_de_Sedan._Paris_Mus%C3%A9es_20230510134514.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel événement de la [[Guerre franco-allemande de 1870]] a abouti à la captur
 
 Quelle bataille marque la défaite décisive des forces françaises face aux troupes prussiennes et a eu lieu le 1er septembre [[1870]] ?
 
-Quel événement historique s'est déroulé près de la ville de [[Sedan]] et a entraîné la proclamation de la [[Troisième République française]] ?
+Quel événement historique s'est déroulé près de la ville de [[Sedan]] et a entraîné la proclamation de la [[Troisième République française]] ? <!-- score: 6 -->
 
 ###### Description
 
