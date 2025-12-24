@@ -19,11 +19,12 @@ indice_6:
   - Demolition Man
 ---
 
+
 ![Image de Sylvester Stallone](https://upload.wikimedia.org/wikipedia/commons/c/c2/Flickr_-_nicogenin_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29_-_Sylvester_Stallone_%2826%29.jpg)
 
 ###### Questions
 
-Quel acteur a écrit et joué dans le film Rocky, qui a remporté l'[[Oscar]] du meilleur film en [[1976]] ?
+Quel acteur a écrit et joué dans le film Rocky, qui a remporté l'[[Oscar]] du meilleur film en [[1976]] ? <!-- score: 6 -->
 
 Quel acteur a incarné le personnage principal dans le film de [[1982]], [[Rambo: First Blood]] ?
 
