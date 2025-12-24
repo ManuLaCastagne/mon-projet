@@ -25,12 +25,13 @@ questions:
  - En 1983, dans quelle région du Sahara nigérien de nombreux pilotes se sont-ils perdus ?
 ---
 
-![Image de Ténéré](https://upload.wikimedia.org/wikipedia/commons/c/c9/Fachi-Bilma-D%C3%BCnen.jpg)
 
-![[Carte_Ténéré.png]]
+![Image de Ténéré](https://upload.wikimedia.org/wikipedia/commons/c/c9/Fachi-Bilma-D%C3%BCnen.jpg)
+
+![[Carte_Ténéré.png]]
 ###### Questions
 
-Quelle région désertique située au milieu du [[Sahara]] est connue pour abriter l'[[Arbre du Ténéré]], souvent désigné comme l'arbre le plus isolé du monde jusqu'à sa destruction en 1973 ?
+Quelle région désertique située au milieu du [[Sahara]] est connue pour abriter l'[[Arbre du Ténéré]], souvent désigné comme l'arbre le plus isolé du monde jusqu'à sa destruction en 1973 ? <!-- score: 5 -->
 
 Quel désert situé en [[Niger]] est célèbre pour la découverte d'une nécropole préhistorique comportant des squelettes humains datant de 5000 à 2000 avant J.-C. nommée [[Gobrine]] ?
 
