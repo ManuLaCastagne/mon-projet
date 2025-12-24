@@ -26,6 +26,7 @@ questions:
  - Le 11 novembre 191975, après une longue guerre coloniale contre le Portugal, quel Etat d'Afrique australe, dont la capitale est Luanda, accède à l'indépendance en 75 ?
 ---
 
+
 ![Image de Angola](https://upload.wikimedia.org/wikipedia/commons/e/ef/Angola_carnaval.jpg)
 
 ![[Carte_Angola.png]]
@@ -33,7 +34,7 @@ questions:
 
 Quelle nation d'Afrique du Sud-Ouest a obtenu son indépendance du [[Portugal]] en 1975 ?
 
-Quel pays abrite le spectaculaire système de cascades connu sous le nom de [[Chutes de Kalandula]], situé sur la rivière [[Lucala]] ?
+Quel pays abrite le spectaculaire système de cascades connu sous le nom de [[Chutes de Kalandula]], situé sur la rivière [[Lucala]] ? <!-- score: 6 -->
 
 Quel État possède l'une des plus grandes réserves de pétrole de tout le continent africain, situées principalement dans la province de [[Cabinda]] ?
 
