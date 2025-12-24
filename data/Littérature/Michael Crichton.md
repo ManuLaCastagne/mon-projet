@@ -25,6 +25,7 @@ questions:
 ---
 
 
+
 ![Image de Michael Crichton](https://upload.wikimedia.org/wikipedia/commons/a/af/MichaelCrichton_2.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ En quelle année le roman [[Jurassic Park]], écrit par [[Michael Crichton]], a-
 
 Quel auteur, également diplômé de la [[Harvard Medical School]] en 1969, a ensuite abandonné la médecine pour se consacrer à l'écriture de best-sellers, dont [[Congo]] paru en 1980 ?
 
-Qui est le créateur de la série télévisée à succès [[Urgences]] (en anglais [[ER]]), diffusée pour la première fois en 1994, et également auteur de romans à succès comme [[La Proie]] paru en 2002 ? <!-- score: 4 -->
+Qui est le créateur de la série télévisée à succès [[Urgences]] (en anglais [[ER]]), diffusée pour la première fois en 1994, et également auteur de romans à succès comme [[La Proie]] paru en 2002 ? <!-- score: 2 -->
 
 ###### Description
 
