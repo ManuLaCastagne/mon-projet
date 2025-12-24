@@ -24,13 +24,14 @@ questions:
  - Quel ouvrage de Ronsard contient le vers  "Cueillez dès aujourd'hui les roses de la vie"?
 ---
 
+
 ![Image de Sonnets pour Hélène](https://upload.wikimedia.org/wikipedia/commons/6/65/Ronsard_-_Sonnets_pour_H%C3%A9l%C3%A8ne_-_1921.djvu)
 
 ###### Questions
 
 Quel recueil de [[poèmes]] a été écrit en 1578 par [[Pierre de Ronsard]] en l'honneur de [[Hélène de Surgères]] ?
 
-Quel est le titre de l'œuvre composée par [[Pierre de Ronsard]] en réponse au décès d'[[Hélène de Surgères]] en 1574 ?
+Quel est le titre de l'œuvre composée par [[Pierre de Ronsard]] en réponse au décès d'[[Hélène de Surgères]] en 1574 ? <!-- score: 4 -->
 
 Dans quel ouvrage de 1578, [[Pierre de Ronsard]] cherche-t-il à consoler [[Hélène de Surgères]] après la perte d'un être cher ?
 
