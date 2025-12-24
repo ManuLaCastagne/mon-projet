@@ -22,13 +22,14 @@ questions:
  - Lors de quelle course à pied les concurrents doivent-ils parcourir plus de 240 km...
 ---
 
+
 ![Image de Marathon des Sables](https://upload.wikimedia.org/wikipedia/commons/a/a7/MARATHON_DES_SABLES_logo.png)
 
 ###### Questions
 
 Quel événement sportif extrême, créé en [[1986]], se déroule chaque année dans le désert du [[Sahara]] marocain ?
 
-Quelle compétition de course à pied, considérée comme l'une des plus dures au monde, exige des participants de parcourir environ 250 kilomètres en autonomie complète ? <!-- score: 3 -->
+Quelle compétition de course à pied, considérée comme l'une des plus dures au monde, exige des participants de parcourir environ 250 kilomètres en autonomie complète ? <!-- score: 4 -->
 
 Quel ultra-marathon annuel est célèbre pour son parcours à travers des dunes de sable brûlant et des températures atteignant souvent 50 degrés Celsius ?
 ###### Description
