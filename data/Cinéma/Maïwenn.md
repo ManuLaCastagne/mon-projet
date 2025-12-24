@@ -46,7 +46,7 @@ En 2020, quelle comédienne réalise "[[ADN (film)]]", quelques années après a
 
 Qui a fait ses débuts d'actrice dès l'âge de 10 ans dans le film "[[L'Été meurtrier]]" (1983), aux côtés de [[Isabelle Adjani]] et [[Alain Souchon]] ?
 
-Avec quel actrice Luc Besson, qui a joué pour lui dans [[Le Cinquième Élément]], a-t-elle été mariée entre 1992 et 1997 date de sortie du film ? <!-- score: 3 -->
+Avec quel actrice Luc Besson, qui a joué pour lui dans [[Le Cinquième Élément]], a-t-elle été mariée entre 1992 et 1997 date de sortie du film ? <!-- score: 4 -->
 
 ###### Description
 
