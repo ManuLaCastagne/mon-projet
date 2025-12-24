@@ -26,11 +26,12 @@ questions:
  - En 1982, quel artiste crée l'oeuvre "Long Term Parking", constituée d'automobiles empilées  sur 18 m de haut et prises dans du béton?
 ---
 
+
 ![Image de Arman](https://upload.wikimedia.org/wikipedia/commons/6/64/Arman_%281969%29.jpg)
 
 ###### Questions
 
-Quel artiste franco-américain, né en 1928 à [[Nice]], est connu pour ses accumulations et a participé au groupe des [[Nouveaux Réalistes]] ?  
+Quel artiste franco-américain, né en 1928 à [[Nice]], est connu pour ses accumulations et a participé au groupe des [[Nouveaux Réalistes]] ? <!-- score: 4 -->
 
 Quel sculpteur a créé la célèbre installation "[[Long Term Parking]]" en 1982, composée de voitures empilées dans du béton ?  
 
