@@ -22,11 +22,12 @@ questions:
  - En 1977, dans quel stade de Rio les Bleus tiennent-ils en échec le Brésil 2 à 2 grâce à des buts de Didier Six et Marius Trésor?
 ---
 
+
 ![Image de Maracana](https://upload.wikimedia.org/wikipedia/commons/4/46/Maracana_Stadium.jpg)
 
 ###### Questions
 
-Quel est le nom du célèbre stade brésilien qui a accueilli la finale de la [[Coupe du Monde de football]] en [[1950]] ?
+Quel est le nom du célèbre stade brésilien qui a accueilli la finale de la [[Coupe du Monde de football]] en [[1950]] ? <!-- score: 7 -->
 
 Quel stade, inauguré en [[1950]] à [[Rio de Janeiro]], possède un nom inspiré du quartier où il se situe ?
 
