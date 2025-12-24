@@ -26,11 +26,12 @@ questions:
 ---
 
 
+
 ![Image de Louis XV](https://upload.wikimedia.org/wikipedia/commons/c/c9/France_1717_2_Louis_d%E2%80%99or_%28Louis_XV%29.jpg)
 
 ###### Questions
 
-En quelle année le roi [[Louis XV]] a-t-il survécu à la tentative d'assassinat perpétrée par [[Robert-François Damiens]] à [[Versailles]] ? 
+En quelle année le roi [[Louis XV]] a-t-il survécu à la tentative d'assassinat perpétrée par [[Robert-François Damiens]] à [[Versailles]] ? <!-- score: 5 -->
 
 Quel monarque français a donné son nom à une des plus célèbres places de Paris, initialement appelée [[Place Louis XV]], avant d'être renommée [[Place de la Concorde]] en [[1795]] ? <!-- score: 10 -->
 
