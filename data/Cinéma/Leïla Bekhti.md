@@ -24,13 +24,14 @@ questions:
  - Quelle actrice, Cinéma/César du meilleur jeune espoir féminin pour son rôle dans "Tout ce qui brille", retrouve-t-on également dans les films "La Source des femmes" et "Mains armées"?
 ---
 
-![Image de Leïla Bekhti](https://upload.wikimedia.org/wikipedia/commons/b/bd/Le%C3%AFla_Bekhti_Cannes_2018.jpg)
+
+![Image de Leïla Bekhti](https://upload.wikimedia.org/wikipedia/commons/b/bd/Le%C3%AFla_Bekhti_Cannes_2018.jpg)
 
 ###### Questions
 
 Dans quel film de [[Rachid Bouchareb]] sorti en 2010, [[Leïla Bekhti]] incarne-t-elle le personnage de [[Zahia]] ?
 
-Quel rôle a valu à [[Leïla Bekhti]] le [[César du meilleur espoir féminin]] lors de la cérémonie qui s'est déroulée en 2011 ?
+Quel rôle a valu à [[Leïla Bekhti]] le [[César du meilleur espoir féminin]] lors de la cérémonie qui s'est déroulée en 2011 ? <!-- score: 5 -->
 
 Dans quelle série télévisée diffusée sur [[Arte]] en 2020, [[Leïla Bekhti]] interprète-t-elle le rôle principal sous la direction de [[Dominik Moll]] ?
 
