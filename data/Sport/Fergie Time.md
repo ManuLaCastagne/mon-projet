@@ -22,13 +22,14 @@ questions:
  - Quel nom a-t-on donné au temps additionnel dans les matches de Man. U du temps d'Alex Ferguson ?
 ---
 
+
 ![Image de Fergie Time](https://upload.wikimedia.org/wikipedia/commons/1/14/Alex_Ferguson.jpg)
 
 ###### Questions
 
 Comment appelle-t-on le phénomène où le [[Manchester United]] de [[Sir Alex Ferguson]] marque souvent pendant le temps additionnel, devenu célèbre dans les années 1990 et les années 2000 ?
 
-Quel terme est utilisé pour décrire les nombreux buts tardifs marqués sous la direction de [[Sir Alex Ferguson]] à [[Old Trafford]] ?
+Quel terme est utilisé pour décrire les nombreux buts tardifs marqués sous la direction de [[Sir Alex Ferguson]] à [[Old Trafford]] ? <!-- score: 8 -->
 
 Quelle expression désigne le temps ajouté dans les matchs de [[Premier League]] où [[Manchester United]] remporte fréquemment la victoire de manière inattendue dans les années 1990 ?
 
