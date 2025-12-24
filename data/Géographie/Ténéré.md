@@ -25,7 +25,6 @@ questions:
  - En 1983, dans quelle région du Sahara nigérien de nombreux pilotes se sont-ils perdus ?
 ---
 
-
 ![Image de Ténéré](https://upload.wikimedia.org/wikipedia/commons/c/c9/Fachi-Bilma-D%C3%BCnen.jpg)
 
 ![[Carte_Ténéré.png]]
@@ -36,7 +35,6 @@ Quelle région désertique située au milieu du [[Sahara]] est connue pour abrit
 Quel désert situé en [[Niger]] est célèbre pour la découverte d'une nécropole préhistorique comportant des squelettes humains datant de 5000 à 2000 avant J.-C. nommée [[Gobrine]] ?
 
 Quel secteur du [[Niger]], abritant une biodiversité unique dans un environnement aride, est officiellement reconnu comme l'un des principaux atouts écologiques depuis son classement en [[Réserve Naturelle Nationale]] en 2012 ?
-
 ###### Description
 
 Le [[Ténéré]] est une vaste étendue désertique située dans le [[Sahara]], principalement dans le nord du [[Niger]] et une partie plus petite au [[Tchad]]. 
