@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Ivan Lendl](https://upload.wikimedia.org/wikipedia/commons/3/3b/Ivan_Lendl.jpg)
 
 ###### Questions
 
 Quel joueur de tennis a été le premier à atteindre huit finales consécutives de [[Grand Chelem]] à partir de 1985 ?
 
-Quel célèbre joueur de tennis a remporté trois titres consécutifs à l'[[US Open]] entre 1985 et 1987 ?
+Quel célèbre joueur de tennis a remporté trois titres consécutifs à l'[[US Open]] entre 1985 et 1987 ? <!-- score: 4 -->
 
 Quel ancien numéro un mondial de tennis a été entraîneur de [[Andy Murray]] à partir de 2014 ? <!-- score: 4 -->
 
