@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Gaston III de Foix](https://upload.wikimedia.org/wikipedia/commons/7/72/Gaston_III_de_Foix-B%C3%A9arn.jpg)
 
 ###### Questions
 
 Quel célèbre seigneur du sud-ouest de la France, également connu sous le surnom de [[Gaston Fébus]], a régné de 1343 à 1391 et a laissé une importante collection de manuscrits et de châteaux ?
 
-Qui a écrit le célèbre ouvrage de chasse intitulé [[Livre de la chasse]] en 1389, qui est souvent utilisé comme une référence par les historiens pour comprendre les pratiques médiévales de la chasse ? <!-- score: 4 -->
+Qui a écrit le célèbre ouvrage de chasse intitulé [[Livre de la chasse]] en 1389, qui est souvent utilisé comme une référence par les historiens pour comprendre les pratiques médiévales de la chasse ? <!-- score: 3 -->
 
 Quel comte de [[Foix]] et vicomte de [[Béarn]] a refusé de prêter serment à [[Charles V]] de France, affirmant l'indépendance de son territoire au sein du royaume pendant la seconde moitié du XIVe siècle ?
 
