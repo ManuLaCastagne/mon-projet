@@ -24,6 +24,7 @@ questions:
  - A quel artiste, considéré comme l'un des plus grands chanteurs à succès de la musique italienne, doit-on "Una storia importante"...
 ---
 
+
 ![Image de Eros Ramazzotti](https://upload.wikimedia.org/wikipedia/commons/4/4b/Eros_Ramazzotti_%2821738687382%29_%28cropped%29.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel chanteur italien a dévoilé son premier album, "[[Cuori agitati]]", en 198
 
 Qui a interprété la chanson "[[Cose della vita]]" en duo avec [[Tina Turner]] lors de sa réédition en 1997, marquant une collaboration mémorable ?
 
-Quel artiste a remporté le concours [[Festival di Sanremo]] dans la catégorie jeunes avec le titre "[[Terra promessa]]" en 1984 avant de rencontrer un immense succès international ?
+Quel artiste a remporté le concours [[Festival di Sanremo]] dans la catégorie jeunes avec le titre "[[Terra promessa]]" en 1984 avant de rencontrer un immense succès international ? <!-- score: 3 -->
 
 ###### Description
 
