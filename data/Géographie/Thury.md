@@ -24,6 +24,7 @@ indice_6 :
 ---
 
 
+
 ![[Carte_Thury.png]]
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quelle commune française, située dans le [[Calvados]] en [[Normandie]], p
 
 Quel village de la région [[Bourgogne-Franche-Comté]] abrite un écomusée autour de l'ancienne mine de [[charbon de Blanzy]] ayant cessé ses activités en [[1877]] ? 
 
-Quelle commune fondée par les [[Thuréens]] en [[1024]] est réputée pour son patrimoine bâti et naturel dans le département de la [[Nièvre]] ? <!-- score: 4 -->
+Quelle commune fondée par les [[Thuréens]] en [[1024]] est réputée pour son patrimoine bâti et naturel dans le département de la [[Nièvre]] ? <!-- score: 3 -->
 
 ###### Description
 
