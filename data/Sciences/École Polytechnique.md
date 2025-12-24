@@ -21,11 +21,12 @@ indice_6 :
 ---
 
 
-![Image de École Polytechnique](https://upload.wikimedia.org/wikipedia/commons/4/48/Ecole_Polytechnique_France_seen_from_lake_DSC03389.JPG)
+
+![Image de École Polytechnique](https://upload.wikimedia.org/wikipedia/commons/4/48/Ecole_Polytechnique_France_seen_from_lake_DSC03389.JPG)
 
 ###### Questions
 
-Quel établissement d'enseignement supérieur a été fondé en 1794, durant la période de [[Révolution française]], pour former des cadres dans les domaines scientifiques et techniques ? <!-- score: 4 -->
+Quel établissement d'enseignement supérieur a été fondé en 1794, durant la période de [[Révolution française]], pour former des cadres dans les domaines scientifiques et techniques ? <!-- score: 5 -->
 
 En 1970, quelle institution prestigieuse a quitté Paris pour s'installer sur le plateau de [[Saclay]], devenant ainsi un acteur majeur du développement scientifique de la région ?
 
