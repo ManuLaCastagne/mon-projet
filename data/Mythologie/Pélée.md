@@ -21,13 +21,14 @@ questions:
 ---
 
 
+
 ![Image de Pélée](https://upload.wikimedia.org/wikipedia/commons/5/54/Wedding_of_Thetis_et_Pel%C3%A9e_1689_Illustration.jpg)
 
 ###### Questions
 
 Quel roi de [[Phthie]], père d'[[Achille]], a épousé la nymphe marine [[Thétis]], selon la [[mythologie grecque]] ?
 
-Quel personnage mythologique a découvert qu'il devait éviter de tuer ses proches à la suite d'une prophétie donnée par l'oracle de [[Delphes]] ? <!-- score: 4 -->
+Quel personnage mythologique a découvert qu'il devait éviter de tuer ses proches à la suite d'une prophétie donnée par l'oracle de [[Delphes]] ? <!-- score: 3 -->
 
 Qui a participé à l'expédition des [[Argonautes]] pour récupérer la [[Toison d'or]] avec [[Jason]] en 1300 av. J.-C. ?
 
