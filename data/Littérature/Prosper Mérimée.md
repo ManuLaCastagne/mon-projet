@@ -24,7 +24,8 @@ questions:
   - Proche de l'impératrice Eugénie, que j'avais connue avec sa famille en Culture_G/Espagne en 1830, j'ai consacré de nombreuses années à ma tâche d'inspecteur général des monuments historiques. Auteur de "Colomba" et de "Carmen (roman)", je suis…
 ---
 
-![Image de Prosper Mérimée](https://upload.wikimedia.org/wikipedia/commons/6/69/Prosper_M%C3%A9rim%C3%A9e_%281803-1870%29.jpg)
+
+![Image de Prosper Mérimée](https://upload.wikimedia.org/wikipedia/commons/6/69/Prosper_M%C3%A9rim%C3%A9e_%281803-1870%29.jpg)
 
 ###### Questions
 
@@ -34,7 +35,7 @@ Quel écrivain français, connu pour sa nouvelle [[Carmen (roman)]], a été ins
 
 Quel auteur a été nommé sénateur du [[Second Empire]] par [[Napoléon III]] en 1853 et est également connu pour avoir popularisé le terme « [[Romantique]] » en [[littérature]] ?
 
-Quel écrivain, connu pour avoir rendu célèbre la nouvelle "[[La Vénus d'Ille]]" publiée en 1837, était également ami de [[Stendhal]] et a traduit de nombreuses œuvres de [[Pouchkine]] ?
+Quel écrivain, connu pour avoir rendu célèbre la nouvelle "[[La Vénus d'Ille]]" publiée en 1837, était également ami de [[Stendhal]] et a traduit de nombreuses œuvres de [[Pouchkine]] ? <!-- score: 3 -->
 
 ###### Description
 
