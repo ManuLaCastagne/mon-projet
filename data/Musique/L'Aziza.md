@@ -24,6 +24,7 @@ questions:
  - Chanson française de 4 mn 20 sortie en 1985, j'ai fait l'objet d'un clip dans lequel joue la comédienne et réalisatrice Fejria Deliba. Hommage d'un chanteur à son épouse.
 ---
 
+
 ![Image de L'Aziza]()
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel titre de chanson de [[Daniel Balavoine]], sortie en 1985, rend hommage à s
 
 Quelle chanson, récompensée par une [[Victoire de la Musique]] en 1986, est souvent interprétée comme une célébration de la diversité et un appel à la tolérance ?
 
-Quel hit, figurant sur l'album [[Sauver l'amour]] de 1985, traite des thèmes de l'amour et de l'acceptation des différences culturelles ?
+Quel hit, figurant sur l'album [[Sauver l'amour]] de 1985, traite des thèmes de l'amour et de l'acceptation des différences culturelles ? <!-- score: 4 -->
 
 ###### Description
 
