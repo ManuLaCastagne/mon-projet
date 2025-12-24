@@ -22,6 +22,7 @@ questions:
  - Dans quelle ancienne série d'animation retrouvait-on le perroquet vert Pichu, qui avait coutume de donner l'alerte dès qu'un danger se présentait?
 ---
 
+
 ![Image de Les Mystérieuses cités d'or](https://upload.wikimedia.org/wikipedia/commons/5/51/Les_Myst%C3%A9rieuses_Cit%C3%A9s_d%27or_2012.png)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quelle série d'animation franco-japonaise, diffusée pour la première fois en 
 
 Quel programme télévisé pour enfants a été créé par [[Jean Chalopin]] et [[Bernard Deyriès]] en collaboration avec le studio d'animation japonais [[Studio Pierrot]] ?
 
-Dans quelle série d'animation trouve-t-on le personnage de [[Mendoza]], un navigateur espagnol, accompagnant le héros principal à travers l'[[Amérique du Sud]] au XVIe siècle ?
+Dans quelle série d'animation trouve-t-on le personnage de [[Mendoza]], un navigateur espagnol, accompagnant le héros principal à travers l'[[Amérique du Sud]] au XVIe siècle ? <!-- score: 4 -->
 
 ###### Description
 
