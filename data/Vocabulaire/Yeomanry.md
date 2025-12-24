@@ -17,6 +17,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Yeomanry](https://upload.wikimedia.org/wikipedia/commons/d/dd/Imperial_yeomanry.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quel est le terme utilisé pour désigner la force de cavalerie volontaire brita
 
 Comment appelle-t-on l'unité militaire qui a été historiquement mobilisée pour soutenir l'armée régulière britannique, notamment lors des guerres [[napoléoniennes]] et la guerre des [[boers]] ?
 
-Quel mot désigne la cavalerie de volontaires en [[Grande-Bretagne]] qui était dirigée principalement par des membres de la classe terrienne et rurale ?
+Quel mot désigne la cavalerie de volontaires en [[Grande-Bretagne]] qui était dirigée principalement par des membres de la classe terrienne et rurale ? <!-- score: 4 -->
 
 ###### Description
 
