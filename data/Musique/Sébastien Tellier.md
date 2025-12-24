@@ -24,13 +24,14 @@ questions:
  - En 2008, quel chanteur français, portant barbe et lunettes noires, est critiqué pour avoir concouru à l'Eurovision avec une chanson en anglais?
 ---
 
-![Image de Sébastien Tellier](https://upload.wikimedia.org/wikipedia/commons/a/ac/S%C3%A9bastien_Tellier_au_Printemps_de_Bourges.jpg)
+
+![Image de Sébastien Tellier](https://upload.wikimedia.org/wikipedia/commons/a/ac/S%C3%A9bastien_Tellier_au_Printemps_de_Bourges.jpg)
 
 ###### Questions
 
 Quel musicien a représenté la France au [[Concours Eurovision de la chanson]] en 2008 avec la chanson "Divine" ?
 
-Quel artiste a signé la musique du film [[Narco]], réalisé par [[Gilles Lellouche]] et [[Tristan Aurouet]], sorti en 2004 ?
+Quel artiste a signé la musique du film [[Narco]], réalisé par [[Gilles Lellouche]] et [[Tristan Aurouet]], sorti en 2004 ? <!-- score: 3 -->
 
 Quel chanteur a sorti l'album intitulé "L'Aventura" en 2014, inspiré par le mouvement [[tropicalisme]] brésilien ?
 
