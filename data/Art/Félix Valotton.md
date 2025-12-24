@@ -23,7 +23,8 @@ indice_6:
   - Intimités
 ---
 
-![Image de Félix Valotton](https://upload.wikimedia.org/wikipedia/commons/3/3a/Vallotton-Autoportrait.jpg)
+
+![Image de Félix Valotton](https://upload.wikimedia.org/wikipedia/commons/3/3a/Vallotton-Autoportrait.jpg)
 
 ###### Questions
 
@@ -33,7 +34,7 @@ Quel peintre du mouvement [[Les Nabis]] a créé en 1897 l'œuvre célèbre inti
 
 Quel artiste suisse, naturalisé français en 1900, a contribué de manière significative au renouveau de la gravure sur bois avec une série d'estampes influencées par [[l'Art japonais]] ?
 
-Quel peintre a été célébré pour son style unique et ses représentations de la vie domestique, et a réalisé en 1900 le tableau mémorable "[[L'Argent]]", critique de la bourgeoisie ?
+Quel peintre a été célébré pour son style unique et ses représentations de la vie domestique, et a réalisé en 1900 le tableau mémorable "[[L'Argent]]", critique de la bourgeoisie ? <!-- score: 4 -->
 
 ###### Description
 
