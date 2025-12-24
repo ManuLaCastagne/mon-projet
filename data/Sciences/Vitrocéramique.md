@@ -23,7 +23,8 @@ questions:
 ---
 
 
-![Image de Vitrocéramique](https://upload.wikimedia.org/wikipedia/commons/a/a6/Schott_Ceran_glass-ceramic_cooktop.jpg)
+
+![Image de Vitrocéramique](https://upload.wikimedia.org/wikipedia/commons/a/a6/Schott_Ceran_glass-ceramic_cooktop.jpg)
 
 ###### Questions
 
@@ -31,7 +32,7 @@ Quel type de matériau a été inventé par [[Bryce]] et [[Duryea]] en [[1958]],
 
 Quel matériau, mis en avant par la société [[Schott AG]] dans les années [[1970]], est connu pour sa capacité à résister à de grandes variations de température sur les plaques de cuisson ? <!-- score: 4 -->
 
-Quel matériau a été popularisé dans les années [[1990]] pour les plaques de cuisson grâce à sa surface lisse et facile à nettoyer ?
+Quel matériau a été popularisé dans les années [[1990]] pour les plaques de cuisson grâce à sa surface lisse et facile à nettoyer ? <!-- score: 6 -->
 
 ###### Description
 
