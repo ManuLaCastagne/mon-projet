@@ -26,6 +26,7 @@ questions:
 
 
 
+
 ![Image de Harpies](https://upload.wikimedia.org/wikipedia/commons/0/02/Lampadaire_Staatsoper_Vienne.jpg)
 
 ###### Questions
@@ -34,7 +35,7 @@ Quel est le nom des créatures mythologiques dans la [[mythologie grecque]], sou
 
 Quelle créature de la [[mythologie grecque]], connue pour inspirer de nombreuses œuvres artistiques depuis l'[[Antiquité]], est notamment mentionnée dans les écrits d'[[Hésiode]] datant du VIIIe siècle av. J.-C. ?
 
-Dans la [[mythologie grecque]], quelles êtres étaient chargées par [[Zeus]] d'enlever le roi [[Phinée]] et étaient craintes pour leur capacité à enlever les objets ou les personnes par la tempête ? <!-- score: 3 -->
+Dans la [[mythologie grecque]], quelles êtres étaient chargées par [[Zeus]] d'enlever le roi [[Phinée]] et étaient craintes pour leur capacité à enlever les objets ou les personnes par la tempête ? <!-- score: 4 -->
 
 ###### Description
 
