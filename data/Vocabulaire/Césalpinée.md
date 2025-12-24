@@ -16,13 +16,14 @@ indice_6 :
   - Cesalpinoideae
 ---
 
+
 ![Image de Césalpinée](https://upload.wikimedia.org/wikipedia/commons/8/88/Illustrazione_di_alcune_piante_raccolte_dal_signor_Prof._Strobel%2C_sul_versante_orientale_delle_Ande_chilene_dal_passo_del_Planchon_sino_a_Mendoza_attraverso_la_Pampa_del_sud._Memoria_%28IA_illustrazionedia00cesa%29.pdf)
 
 ###### Questions
 
 Quel est le nom du genre botanique qui inclut des espèces d'arbres tropicaux reconnues pour leurs caractéristiques médicinales dans la famille des [[Fabacées]] ? 
 
-Quel genre de plante, nommé en l'honneur de [[Andrea Cesalpino]], fait partie de la vaste famille des légumineuses et inclut de nombreuses espèces tropicales ?
+Quel genre de plante, nommé en l'honneur de [[Andrea Cesalpino]], fait partie de la vaste famille des légumineuses et inclut de nombreuses espèces tropicales ? <!-- score: 7 -->
 
 ###### Description
 
