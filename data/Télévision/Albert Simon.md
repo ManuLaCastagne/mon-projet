@@ -22,13 +22,14 @@ questions:
  - Quel homme de radio à la voix chevrotante, disparu en 2013, a longtemps été chargé du bulletin météo d'une station privée généraliste?
 ---
 
+
 ![Image de Albert Simon](https://upload.wikimedia.org/wikipedia/commons/6/69/Albert_Simon%2C_A-Z_Nr_1%2C_Januar_1935.jpg)
 
 ###### Questions
 
 Quel présentateur a incarné pendant plusieurs années la voix de la météo sur [[Europe 1]], de 1958 à 1995 ?
 
-Quel météorologue français a contribué à populariser le bulletin météo à la télévision française, en commençant sa carrière télévisuelle en [[1970]] sur [[TF1]] ?
+Quel météorologue français a contribué à populariser le bulletin météo à la télévision française, en commençant sa carrière télévisuelle en [[1970]] sur [[TF1]] ? <!-- score: 3 -->
 
 Qui a marqué l'[[ORTF]] en devenant la première personne en France à présenter la météo télévisée avec une approche conviviale dans les années [[1970]] ?
 
