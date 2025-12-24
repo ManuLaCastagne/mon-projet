@@ -24,13 +24,14 @@ questions:
  - Dans quel roman de Balzac Rastignac rencontre-t-il le père de Delphine de Nussinguen à la pension Vauquère ?
 ---
 
+
 ![Image de Le Père Goriot](https://upload.wikimedia.org/wikipedia/commons/3/34/Le_P%C3%A8re_Goriot%2C_1er_Volume%2C_1835.png)
 
 ###### Questions
 
 Dans quel roman publié en 1835 par [[Honoré de Balzac]] retrouve-t-on le personnage de [[Jean-Joachim Goriot]], un ancien vermicellier ruiné qui vit dans une pension de famille à [[Paris]] ?
 
-Quel ouvrage fait partie de la collection de romans intitulée [[La Comédie humaine]] où l'on découvre une critique sociale à travers l'histoire d'un père sacrifié pour ses filles, publiée pour la première fois par [[Werdet et Pierre]] ?
+Quel ouvrage fait partie de la collection de romans intitulée [[La Comédie humaine]] où l'on découvre une critique sociale à travers l'histoire d'un père sacrifié pour ses filles, publiée pour la première fois par [[Werdet et Pierre]] ? <!-- score: 3 -->
 
 Dans quel livre, paru en 1835, observe-t-on l'ascension sociale du jeune [[Eugène de Rastignac]] et la chute tragique d'un père devenu martyr familial, écrit par [[Balzac]] ?
 
