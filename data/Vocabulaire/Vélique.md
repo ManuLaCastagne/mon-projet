@@ -17,6 +17,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Vélique](https://upload.wikimedia.org/wikipedia/commons/1/1a/Forces_on_sails_for_three_points_of_sail.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quel est le terme utilisé pour qualifier ce qui est relatif à la [[navigation]
 
 Quel adjectif utilise-t-on dans le domaine des sports nautiques pour décrire ce qui concerne les caractéristiques ou les performances d'un [[bateau]] à voile?
 
-Comment appelle-t-on un indice faisant référence au secteur ou à l'industrie liée à l'usage des voiles dans les évènements sportifs ou de loisir, que l'on pourrait rencontrer dans un [[tournoi]] de [[sports de voile]]? <!-- score: 4 -->
+Comment appelle-t-on un indice faisant référence au secteur ou à l'industrie liée à l'usage des voiles dans les évènements sportifs ou de loisir, que l'on pourrait rencontrer dans un [[tournoi]] de [[sports de voile]]? <!-- score: 3 -->
 
 ###### Description
 
