@@ -22,11 +22,12 @@ questions:
  - Quels gardes engagés par la France furent massacrés en 1789 ?
 ---
 
+
 ![Image de Gardes suisses](https://upload.wikimedia.org/wikipedia/commons/6/65/Swiss_Guard-_LobozPics.jpg)
 
 ###### Questions
 
-Quel groupe armé a été fondé en [[1506]] pour protéger le [[Pape]] et est connu pour ses uniformes aux couleurs vives ?  
+Quel groupe armé a été fondé en [[1506]] pour protéger le [[Pape]] et est connu pour ses uniformes aux couleurs vives ? <!-- score: 4 -->
 
 Quel corps militaire a défendu courageusement le [[Palais des Tuileries]] lors de l'assaut du 10 août [[1792]] pendant la [[Révolution française]] ?  
 
