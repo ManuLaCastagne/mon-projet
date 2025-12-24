@@ -24,6 +24,7 @@ questions:
  - Série lancée dans mon pays en 2017 et dont la 6e saison est présentée en septembre 2021, j'ai reçu un Emmy Award en 2018.
 ---
 
+
 ![Image de Casa de Papel](https://upload.wikimedia.org/wikipedia/commons/6/6b/La_casa_de_papel_en_Halloween_cropped.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quelle série espagnole de [[Netflix]], sortie en 2017, un groupe de crimin
 
 Quel programme télévisé, qui a débuté en 2017, a battu des records d'audience sur [[Netflix]] en devenant la première série non-anglophone à remporter un [[Emmy Award International]] dans la catégorie meilleure série dramatique en 2018 ?
 
-Comment s'appelle la série télévisée dans laquelle un personnage surnommé "[[El Profesor]]" orchestre des braquages planifiés contre de grandes institutions espagnoles et qui a pris fin avec sa cinquième saison en 2021 ?
+Comment s'appelle la série télévisée dans laquelle un personnage surnommé "[[El Profesor]]" orchestre des braquages planifiés contre de grandes institutions espagnoles et qui a pris fin avec sa cinquième saison en 2021 ? <!-- score: 9 -->
 
 ###### Description
 
