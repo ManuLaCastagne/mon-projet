@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Manchester United](https://upload.wikimedia.org/wikipedia/commons/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg)
 
 ###### Questions
 
-Quel club a vu son stade, [[Old Trafford]], fortement endommagé par des bombes lors de la [[Seconde Guerre mondiale]], conduisant l'équipe à jouer à [[Maine Road]] pendant plusieurs années après 1941 ?
+Quel club a vu son stade, [[Old Trafford]], fortement endommagé par des bombes lors de la [[Seconde Guerre mondiale]], conduisant l'équipe à jouer à [[Maine Road]] pendant plusieurs années après 1941 ? <!-- score: 6 -->
 
 Quel club a été le premier dans l'histoire de la [[Premier League]] à réaliser le triplé historique en remportant la [[Premier League]], [[FA Cup]] et [[Ligue des Champions de l'UEFA]] au cours de la même saison, en 1999 ? <!-- score: 6 -->
 
