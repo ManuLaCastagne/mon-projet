@@ -22,17 +22,11 @@ questions:
  - En 1877, homme politique rappelé par Mac Mahon à la tête du gouvernement pour faire  triompher la politique de l'ordre moral ?
 ---
 
-
 ![Image de Duc de Broglie](https://upload.wikimedia.org/wikipedia/commons/a/a3/Atelier_Nadar_-_Victor%2C_duc_de_Broglie.jpg)
 
 ###### Questions
 
-Quel titre a été porté par le lauréat français du prix Nobel de Physique [[Louis de Broglie]] en [[1929]] ?
-
-Quel membre de la célèbre famille française, les [[Broglie]], fut reconnu comme un génie scientifique avec sa thèse en [[1924]] sur la nature ondulatoire des électrons, tout en étant également connu sous un titre de noblesse ?
-
-Qui est le célèbre scientifique ayant révolutionné la mécanique quantique tout en étant un membre de la noblesse française avec le titre de [[Duc de Broglie]] ? <!-- score: 5 -->
-
+Qui est le célèbre scientifique ayant révolutionné la mécanique quantique tout en étant un membre de la noblesse française ? <!-- score: 5 -->
 ###### Description
 
 Le titre de [[Duc de Broglie]] a été créé en 1742 par [[Louis XV]] pour récompenser les services de la famille de Broglie dans l'armée et la diplomatie française. 
