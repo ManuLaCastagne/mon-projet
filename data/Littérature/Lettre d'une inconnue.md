@@ -24,11 +24,12 @@ questions:
  - En 1922, dans quelle nouvelle de Stefan Zweig une femme révèle-t-elle à un homme via une lettre la passion qu'elle lui a toujours vouée?
 ---
 
+
 ![Image de Lettre d'une inconnue](https://upload.wikimedia.org/wikipedia/commons/e/e6/Letter_from_an_Unknown_Woman_%281948_film_poster%29.jpg)
 
 ###### Questions
 
-Dans quel roman de [[Stefan Zweig]], écrit en 1922, une femme écrit à un homme qui ne l'a jamais remarquée malgré sa dévotion secrète depuis leur premier regard échangé ?
+Dans quel roman de [[Stefan Zweig]], écrit en 1922, une femme écrit à un homme qui ne l'a jamais remarquée malgré sa dévotion secrète depuis leur premier regard échangé ? <!-- score: 3 -->
 
 Quel ouvrage épistolaire de [[Stefan Zweig]], traduit pour la première fois en français en 1927, raconte l'histoire poignante d'un amour non partagé à travers une longue lettre anonyme ?
 
