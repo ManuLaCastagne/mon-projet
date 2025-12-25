@@ -25,13 +25,14 @@ questions:
  - Quel peintre français, auteur du sigle de la chaîne de télévision Antenne 2 en 1974, peignit des toiles immenses en misant sur l'impulsivité du geste?
 ---
 
+
 ![Image de Georges Mathieu](https://upload.wikimedia.org/wikipedia/commons/4/42/FM-2019-1-6-4-47--Niggl-Radloff-B-Georges-Mathieu-ONLINE.jpg)
 
 ###### Questions
 
 Quel artiste français, célèbre pour son influence dans le mouvement de l'[[Abstraction lyrique]], est aussi connu pour avoir réalisé le nouveau billet de 10 francs en 1976 ?
 
-Quel peintre a, en 1989, réalisé une fresque monumentale de 12 mètres pour le palais de justice de [[Bruxelles]], devenant une œuvre majeure de l'art public ?
+Quel peintre a, en 1989, réalisé une fresque monumentale de 12 mètres pour le palais de justice de [[Bruxelles]], devenant une œuvre majeure de l'art public ? <!-- score: 3 -->
 
 Quel artiste a été nommé membre de l'[[Académie des Beaux-Arts]] en 1975, en reconnaissance de son impact significatif sur l'art contemporain ?
 
