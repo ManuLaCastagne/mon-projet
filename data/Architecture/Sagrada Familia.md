@@ -23,13 +23,14 @@ indice_6:
   - UNESCO
 ---
 
+
 ![Image de Sagrada Familia](https://upload.wikimedia.org/wikipedia/commons/7/74/Sagrada_Familia_March_2015-10a.jpg)
 
 ###### Questions
 
 Quelle cathédrale, dont la construction a débuté en [[1882]], est célèbre pour être un chef-d'œuvre inachevé de l'architecte [[Antoni Gaudí]]?
 
-Quel monument iconique de [[Barcelone]] est prévu d'être achevé en [[2026]], marquant le centième anniversaire de la mort de son principal architecte?
+Quel monument iconique de [[Barcelone]] est prévu d'être achevé en [[2026]], marquant le centième anniversaire de la mort de son principal architecte? <!-- score: 6 -->
 
 Quel édifice religieux est connu pour ses façades représentant la [[Nativité]], la [[Passion]] et la [[Gloire]], illustrant des scènes importantes de la Bible?
 
