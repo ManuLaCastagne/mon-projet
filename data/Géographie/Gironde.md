@@ -28,6 +28,7 @@ questions:
 
 
 
+
 ![Image de Gironde](https://upload.wikimedia.org/wikipedia/commons/7/71/Mortagne-sur-Gironde_Civellier_Mayflowers_2013.jpg)
 
 ![[Carte_Gironde.png]]
@@ -37,7 +38,7 @@ Quelle est le département français où se trouve le [[Phare de Cordouan]], sou
 
 Dans quel département de la région [[Nouvelle-Aquitaine]] peut-on observer le [[Bassin d'Arcachon]] et la plus haute dune d'Europe, la [[Dune du Pilat]] ?
 
-Quel est le département qui est traversé par le plus long estuaire d'Europe, l'[[estuaire de la Gironde]], qui résulte de la confluence de la [[Garonne]] et de la [[Dordogne]] avant de se jeter dans l'[[Océan Atlantique]] ?
+Quel est le département qui est traversé par le plus long estuaire d'Europe, l'[[estuaire de la Gironde]], qui résulte de la confluence de la [[Garonne]] et de la [[Dordogne]] avant de se jeter dans l'[[Océan Atlantique]] ? <!-- score: 7 -->
 
 ###### Description
 
