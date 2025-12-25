@@ -25,6 +25,7 @@ questions:
  - Quelle danseuse d'origine corse nommée étoile à l'Opéra de Paris en 1990 a dirigé, 5 ans, le Ballet national de Marseille ?
 ---
 
+
 ![Image de Marie-Claude Pietragalla](https://upload.wikimedia.org/wikipedia/commons/c/c5/Marie-Claude-Pietragalla_2015.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ En quelle année [[Marie-Claude Pietragalla]] est-elle devenue danseuse étoile 
 
 Dans quelle émission de télévision, [[Marie-Claude Pietragalla]] a-t-elle été jurée à partir de 2012 sur [[TF1]] ?
 
-En quelle année [[Marie-Claude Pietragalla]] a-t-elle co-fondé la compagnie de danse [[Le Théâtre du Corps]] avec [[Julien Derouault]] ?
+En quelle année [[Marie-Claude Pietragalla]] a-t-elle co-fondé la compagnie de danse [[Le Théâtre du Corps]] avec [[Julien Derouault]] ? <!-- score: 5 -->
 
 ###### Description
 
