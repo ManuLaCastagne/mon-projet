@@ -24,12 +24,11 @@ indice_6 :
 
 ###### Questions
 
-Quel général de l'[[armée américaine]], célèbre pour son rôle dans la [[Seconde Guerre mondiale]], a dirigé la [[troisième armée américaine]] en [[Normandie]] en 1944? 
+Quel général américain a également participé aux Jeux olympiques modernes en 1912, à [[Stockholm]], dans l'épreuve du [[pentathlon]] moderne ? <!-- score: 5 -->
 
 Quel film biographique réalisé par [[Franklin J. Schaffner]] et sorti en 1970, a remporté sept [[Oscars]], dont celui du [[Meilleur film]], et met en vedette [[George C. Scott]] dans le rôle principal? 
 
 Quel était le nom de famille de [[George S. Patton]], général né en [[1885]] et connu pour ses stratégies militaires audacieuses et sa participation à la [[campagne d'Afrique du Nord]]?
-
 ###### Description
 
 [[George S. Patton]], né en 1885 à [[San Gabriel]], est l'un des généraux américains les plus célèbre de la Seconde Guerre mondiale. 
