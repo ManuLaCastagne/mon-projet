@@ -19,11 +19,12 @@ indice_6:
 ---
 
 
+
 ###### Questions
 
 Quel dieu gaulois, des sources, des sanctuaires prophétiques et de la médecine portait un nom signifiant puissant ou resplendissant?
 
-Quel dieu [[celtique]] reçoit une fête en son honneur appelée [[Beltaine]], célébrée le 1er mai pour marquer le début de l'été ? <!-- score: 4 -->
+Quel dieu [[celtique]] reçoit une fête en son honneur appelée [[Beltaine]], célébrée le 1er mai pour marquer le début de l'été ? <!-- score: 3 -->
 
 Quel dieu pourrait être comparable à l'[[Apollon]] gréco-romain en raison de son rôle de divinité solaire et guérisseuse dans la croyance [[celtique]], tel que décrit par les [[Romains]] dans des écrits datant d'environ [[50 avant Jésus-Christ]] ? <!-- score: 6 -->
 
