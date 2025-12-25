@@ -24,6 +24,7 @@ questions:
  - En 1922, quel roman de Victor Margueritte fait scandale en mettant en scène une jeune femme insoumise aux cheveux courts?
 ---
 
+
 ![Image de La Garçonne](https://upload.wikimedia.org/wikipedia/commons/2/2f/Victor_Margueritte_-_La_Gar%C3%A7onne%2C_1922.djvu)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel roman publié en 1922 par [[Victor Margueritte]] a provoqué un scandale en
 
 Quel ouvrage littéraire controversé, mettant en scène une héroïne libre et émancipée de l'après [[Première Guerre mondiale]], est considéré comme un précurseur de la littérature féministe française ?
 
-Quelle œuvre a inspiré différentes adaptations cinématographiques et télévisuelles, dont une série diffusée en 2020 sur [[France 2]], explorant les thématiques de genre et d'émancipation ?
+Quelle œuvre a inspiré différentes adaptations cinématographiques et télévisuelles, dont une série diffusée en 2020 sur [[France 2]], explorant les thématiques de genre et d'émancipation ? <!-- score: 5 -->
 
 ###### Description
 
