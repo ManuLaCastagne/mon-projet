@@ -25,11 +25,12 @@ questions:
 ---
 
 
+
 ![Image de La Goualante du pauvre Jean](https://upload.wikimedia.org/wikipedia/commons/f/ff/La_Lanterne_de_Bruant_%28IA_lalanternedebrua130unse%29.pdf)
 
 ###### Questions
 
-Quel célèbre titre de [[Édith Piaf]] sorti en 1954 est aussi connu dans sa version anglaise sous le titre "The Poor People of Paris"?
+Quel célèbre titre de [[Édith Piaf]] sorti en 1954 est aussi connu dans sa version anglaise sous le titre "The Poor People of Paris"? <!-- score: 4 -->
 
 Quelle chanson popularisée dans le film "[[Moulin Rouge]]" en 1952, a été interprétée par [[Gene Kelly]] et a renforcé la notoriété internationale de son interprète originale [[Édith Piaf]]?
 
