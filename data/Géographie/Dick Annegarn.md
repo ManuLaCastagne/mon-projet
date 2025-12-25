@@ -26,18 +26,12 @@ questions:
  - En 1973, quel artiste rend hommage à la capitale de la Belgique, dans une chanson débutant par  "Bruxelles, ma belle"?
 ---
 
-
 ![Image de Dick Annegarn](https://upload.wikimedia.org/wikipedia/commons/1/1b/Dick_Annegarn_annees_80_salle_des_fetes_mairie_de_paris_14e_photo_Olivier_Dumay.jpg)
 
 ![[Carte_Dick Annegarn.png]]
 ###### Questions
 
-Dans quelle ville du [[Liban]] est né le chanteur néerlandais [[Dick Annegarn]] en 1952 ?
-
-Dans quel environnement urbain [[Néerlandais]] Dick Annegarn passe-t-il une partie de sa jeunesse, influençant ainsi ses inspirations musicales ?
-
-Quel pays d'Europe, et plus précisément sa capitale [[Amsterdam]], a vu émerger les premiers spectacles du chanteur [[Dick Annegarn]] au début des [[années 1970]] ? <!-- score: 5 -->
-
+Quel chanteur néerlandais est né au  [[Liban]] en 1952 ? <!-- score: 5 -->
 ###### Description
 
 [[Dick Annegarn]], chanteur et compositeur néerlandais, est né le 9 mai 1952 à [[La Haye]], aux [[Pays-Bas]]. 
