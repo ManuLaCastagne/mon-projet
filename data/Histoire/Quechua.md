@@ -20,17 +20,13 @@ indice_6:
   - textiles colorés
 ---
 
-
 ![Image de Quechua](https://upload.wikimedia.org/wikipedia/commons/7/7c/Comparsa_mixta_copleando_en_quechua_y_espa%C3%B1ol.wav)
 
 ###### Questions
 
 Quel nom donne-t-on à la langue native de [[l'empire inca]] utilisée comme langue officielle par les incas pendant leur expansion au XIVe et XVe siècles ? 
 
-Quel peuple sud-américain a été conquis par [[Francisco Pizarro]] en 1533, connu pour avoir parlé une langue toujours pratiquée aujourd'hui et appelée [[Quechua]] ? <!-- score: 4 -->
-
-Quel peuple a vu leur capitale, [[Cuzco]], se développer sous le règne de [[Pachacutec]] à partir de 1438, utilisant le [[Quechua]] comme langue principale de l'administration ?
-
+Quel peuple sud-américain a été conquis par [[Francisco Pizarro]] en 1533, connu pour avoir parlé une langue toujours pratiquée aujourd'hui ? <!-- score: 4 -->
 ###### Description
 
 La [[civilisation inca]], qui s'est épanouie principalement du XIIIe siècle à 1572, a utilisé le [[quechua]] comme langue administrative et véhiculaire à travers un vaste empire s'étendant sur l'actuel [[Pérou]], et au-delà, y compris certaines régions de [[Bolivie]], [[Équateur]] et [[Colombie]]. 
