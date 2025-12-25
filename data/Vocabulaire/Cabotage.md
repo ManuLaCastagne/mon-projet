@@ -16,11 +16,12 @@ indice_6 :
   - Transport de marchandises
 ---
 
+
 ![Image de Cabotage](https://upload.wikimedia.org/wikipedia/commons/f/f6/Pesquisa_CNT_de_Transporte_Aquavi%C3%A1rio_-_Cabotagem_2013_%288867185962%29.jpg)
 
 ###### Questions
 
-Quel terme désigne la navigation près des côtes, souvent utilisée pour décrire une activité maritime commerciale de courte distance ?
+Quel terme désigne la navigation près des côtes, souvent utilisée pour décrire une activité maritime commerciale de courte distance ? <!-- score: 3 -->
 
 Comment appelle-t-on le processus de transport de marchandises entre différents ports le long d'un même littoral, sans traverser l'océan ?
 
