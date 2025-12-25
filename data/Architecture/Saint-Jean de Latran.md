@@ -26,13 +26,14 @@ questions:
 ---
 
 
+
 ![Image de Saint-Jean de Latran](https://upload.wikimedia.org/wikipedia/commons/f/f4/Passage_Saint_Jean_de_Latran._D.57.jpg)
 
 ###### Questions
 
 Quelle est la basilique archiépiscopale qui a été le premier siège de la papauté, construite au [[IVe siècle]] et dédiée par l'empereur [[Constantin Ier]] ? <!-- score: 3 -->
 
-Quelle est la seule basilique majeure avec le titre honorifique "Mère et tête de toutes les églises de [[Rome]] et du monde", un privilège conféré depuis l'an [[324]] ?
+Quelle est la seule basilique majeure avec le titre honorifique "Mère et tête de toutes les églises de [[Rome]] et du monde", un privilège conféré depuis l'an [[324]] ? <!-- score: 3 -->
 
 Dans quelle basilique, reconstruite par [[Francesco Borromini]] au [[XVIIe siècle]], peut-on admirer l'obélisque de [[Latran]], le plus haut et le plus ancien de [[Rome]] ?
 
