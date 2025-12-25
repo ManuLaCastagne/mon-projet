@@ -24,11 +24,12 @@ questions:
  - 1983, quel drame de Jean Becker réunit Adjani et Souchon dans un village provençal ?
 ---
 
+
 ![Image de L'Été meurtrier](https://upload.wikimedia.org/wikipedia/commons/8/8a/Jean_Becker.jpg)
 
 ###### Questions
 
-Dans quel film de [[Jean Becker]] sorti en 1983 trouve-t-on [[Isabelle Adjani]] dans le rôle d'une jeune femme cherchant à se venger d'un passé trouble révélé par un secret de famille ?
+Dans quel film de [[Jean Becker]] sorti en 1983 trouve-t-on [[Isabelle Adjani]] dans le rôle d'une jeune femme cherchant à se venger d'un passé trouble révélé par un secret de famille ? <!-- score: 3 -->
 
 Quel long métrage, adapté d'un roman de [[Sébastien Japrisot]], a offert à [[Isabelle Adjani]] le César de la meilleure actrice en 1984 ?
 
