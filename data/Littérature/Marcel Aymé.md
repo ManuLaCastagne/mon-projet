@@ -24,11 +24,12 @@ questions:
  - En 1950, quel écrivain, auteur de "La Vouivre", décline l'invitation à rejoindre les Immortels, ne se sentant pas l'étoffe d'un académicien?
 ---
 
-![Image de Marcel Aymé](https://upload.wikimedia.org/wikipedia/commons/e/ea/Marcel_Aym%C3%A9_1929.jpg)
+
+![Image de Marcel Aymé](https://upload.wikimedia.org/wikipedia/commons/e/ea/Marcel_Aym%C3%A9_1929.jpg)
 
 ###### Questions
 
-Quel auteur, connu pour ses œuvres fantastiques, a écrit le célèbre livre [[Les Contes du chat perché]] en 1934 ?
+Quel auteur, connu pour ses œuvres fantastiques, a écrit le célèbre livre [[Les Contes du chat perché]] en 1934 ? <!-- score: 3 -->
 
 Quel écrivain a vu sa nouvelle [[Le Passe-muraille]] publiée pour la première fois en 1943, une histoire qui se déroule dans le quartier de [[Montmartre]] à [[Paris]] ?
 
