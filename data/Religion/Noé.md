@@ -22,11 +22,12 @@ questions:
  - Dans la Bible, après le déluge,  quel patriarche envoie une colombe qui rapporte sur l'arche un rameau d'olivier, signe que les eaux ont reflué?
 ---
 
-![Image de Noé](https://upload.wikimedia.org/wikipedia/commons/b/bd/Ville_de_No%C3%A9.JPG)
+
+![Image de Noé](https://upload.wikimedia.org/wikipedia/commons/b/bd/Ville_de_No%C3%A9.JPG)
 
 ###### Questions
 
-Quel personnage biblique a construit une [[arche]] pour survivre au [[Déluge]]?
+Quel personnage biblique a construit une [[arche]] pour survivre au [[Déluge]]? <!-- score: 9 -->
 
 Qui était le père de [[Sem]], [[Cham]], et [[Japhet]] dans la [[Genèse]]?
 
