@@ -22,13 +22,14 @@ questions:
  - Quel traité signé le 28 juin 1919 dans la galerie des Glaces. A mis fin à la 1re Guerre mondiale ?
 ---
 
-![Image de Traité de Versailles](https://upload.wikimedia.org/wikipedia/commons/b/b8/Treaty_of_Versailles%2C_English_version.jpg)
+
+![Image de Traité de Versailles](https://upload.wikimedia.org/wikipedia/commons/b/b8/Treaty_of_Versailles%2C_English_version.jpg)
 
 ###### Questions
 
 Quel document signé en [[1919]] a mis fin officiellement à la [[Première Guerre mondiale]] en imposant des sanctions sévères à l'[[Empire Allemand]] ?
 
-Quel accord international a établi la création de la [[Société des Nations]] en [[1920]], une organisation destinée à maintenir la paix mondiale ?
+Quel accord international a établi la création de la [[Société des Nations]] en [[1920]], une organisation destinée à maintenir la paix mondiale ? <!-- score: 3 -->
 
 Quel traité historique, négocié dans la Galerie des Glaces du [[Château de Versailles]], attribue la responsabilité exclusive de la guerre à l'[[Allemagne]] et à ses alliés ?
 
