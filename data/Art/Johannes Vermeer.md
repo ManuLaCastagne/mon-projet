@@ -23,11 +23,12 @@ indice_6:
   - XVIIe siècle
 ---
 
+
 ![Image de Johannes Vermeer](https://upload.wikimedia.org/wikipedia/commons/6/66/Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg)
 
 ###### Questions
 
-Quel peintre néerlandais, célèbre pour ses scènes domestiques tranquilles, a créé l'œuvre intitulée "[[La Jeune Fille à la Perle]]" vers 1665 ?
+Quel peintre néerlandais, célèbre pour ses scènes domestiques tranquilles, a créé l'œuvre intitulée "[[La Jeune Fille à la Perle]]" vers 1665 ? <!-- score: 7 -->
 
 Quel artiste, dont le chef-d'œuvre "[[La Laitière]]" a été peint entre 1658 et 1661, est considéré comme une figure majeure dans la représentation de la vie de tous les jours au [[XVIIe siècle]] ?
 
