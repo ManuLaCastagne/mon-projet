@@ -25,13 +25,14 @@ questions:
  - En 1870, quel peintre français  représente un groupe d'artistes de l'époque dont ont Edouard Manet et Auguste Renoir, sur son tableau "Un atelier aux Batignolles" ?
 ---
 
+
 ![Image de Henri Fantin-Latour](https://upload.wikimedia.org/wikipedia/commons/9/91/Bemberg_Fondation_Toulouse_-_Self-portrait_paintings_by_Henri_Fantin-Latour.jpg)
 
 ###### Questions
 
 Quel peintre français, célèbre pour ses natures mortes avec des fleurs et des fruits, a également créé une célèbre lithographie marquant l'anniversaire du compositeur allemand [[Richard Wagner]] en 1876 ?
 
-Quel artiste, né en 1836 à [[Grenoble]], est renommé pour ses toiles de groupes de [[société artistique]] parisienne, notamment « [[Un coin de table]] » en 1872 ?
+Quel artiste, né en 1836 à [[Grenoble]], est renommé pour ses toiles de groupes de [[société artistique]] parisienne, notamment « [[Un coin de table]] » en 1872 ? <!-- score: 3 -->
 
 Qui est l'artiste ayant réalisé le tableau « [[Hommage à Delacroix]] » en 1864, mettant en avant plusieurs figures éminentes de l'art français de l'époque ?
 
