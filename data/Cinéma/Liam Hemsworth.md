@@ -22,17 +22,15 @@ indice_6 :
   - acteur australien
 ---
 
-
 ![Image de Liam Hemsworth](https://upload.wikimedia.org/wikipedia/commons/e/e7/Liam_Hemsworth_at_214._Wetten%2C_dass.._show_in_Graz%2C_8._Nov._2014_02.jpg)
 
 ###### Questions
 
-Dans quel film de [[Liam Hemsworth]] sorti en 2014 joue-t-il aux côtés de [[Dwayne Johnson]] et incarne-t-il le personnage de [[Billy "The Kid" Timmons]] ? <!-- score: 5 -->
+Qui joue aux côtés de [[Dwayne Johnson]] et incarne-t-il le personnage de [[Billy "The Kid" Timmons]] dans [[Empire State]] ? <!-- score: 5 -->
 
 Quel acteur australien, frère de [[Chris Hemsworth]], a auditionné en 2009 pour le rôle de [[Thor]] avant que ce dernier ne soit attribué à son frère ?
 
 Dans la saga [[Hunger Games]], qui interprète le rôle de [[Gale Hawthorne]], ami d'enfance de [[Katniss Everdeen]], depuis le premier film sorti en 2012 ?
-
 ###### Description
 
 [[Liam Hemsworth]] est un acteur australien, né le 13 janvier 1990 à [[Melbourne]], connu pour son rôle de [[Gale Hawthorne]] dans la saga cinématographique "[[Hunger Games]]". 
