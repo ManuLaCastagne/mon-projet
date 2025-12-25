@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Samson](https://upload.wikimedia.org/wikipedia/commons/8/8e/Samson.JPG)
 
 ###### Questions
 
-Quel personnage biblique détient une force colossale rendue possible grâce à sa chevelure non coupée ?
+Quel personnage biblique détient une force colossale rendue possible grâce à sa chevelure non coupée ? <!-- score: 7 -->
 
 Quel juge d'[[Israël]], connu pour avoir perdu sa force après avoir été trahi par [[Dalila]], est célèbre dans le [[Livre des Juges]] ?
 
