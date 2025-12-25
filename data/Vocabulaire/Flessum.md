@@ -16,13 +16,14 @@ indice_6 :
   - déformation
 ---
 
+
 ![Image de Flessum](https://upload.wikimedia.org/wikipedia/commons/b/bc/Fiesco_-_chiesa_di_San_Procopio.jpg)
 
 ###### Questions
 
 Quel est le nom du groupe de musique qui tire son identité d'un jeu de mots autour de l'idée de flexibilité et de musique en mouvement, formé par des anciens étudiants du [[Conservatoire de Paris]] ?
 
-Comment s'appelle le spectacle musical déjanté qui se démarque par sa mise en scène innovante et qui a été présenté dans plusieurs [[Festival d'Avignon]] ?
+Comment s'appelle le spectacle musical déjanté qui se démarque par sa mise en scène innovante et qui a été présenté dans plusieurs [[Festival d'Avignon]] ? <!-- score: 5 -->
 
 Quel mot latin désigne à la fois le concept de flexibilité et est aussi le nom choisi par un collectif artistique célèbre pour ses compositions et performances atypiques ?
 
