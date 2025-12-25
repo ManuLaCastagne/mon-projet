@@ -22,13 +22,14 @@ indice_6 :
   - réalisateurs comme Spielberg et Soderbergh
 ---
 
+
 ![Image de Georges Clooney](https://upload.wikimedia.org/wikipedia/commons/8/8d/George_Clooney_2016.jpg)
 
 ###### Questions
 
 Quel acteur, impliqué dans le scandale des [[Nespresso]] leak en 2019, a joué le rôle principal dans [[Ocean's Eleven]] ?
 
-Quel célèbre acteur a fait ses débuts à la réalisation en 2002 avec le film [[Confessions d'un homme dangereux]] ?
+Quel célèbre acteur a fait ses débuts à la réalisation en 2002 avec le film [[Confessions d'un homme dangereux]] ? <!-- score: 4 -->
 
 Qui est le réalisateur du film [[Good Night, and Good Luck.]] qui a reçu six nominations aux [[Oscars]] en 2006 ?
 
