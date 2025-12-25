@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Assassinat de César](https://upload.wikimedia.org/wikipedia/commons/0/0a/Vincenzo_Camuccini%2C_The_Death_of_Julius_Caesar_%28detail%29.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel événement [[historique]] survenu en [[44 av. J.-C.]] a inspiré la célè
 
 Quel événement en [[Rome antique]] a conduit à la chute de la [[République romaine]] et a été commis par un groupe de [[sénateurs]] sous la conduite de [[Brutus]] et [[Cassius]] ?
 
-Quel événement tragique de l'histoire de [[Rome]] s'est déroulé aux [[Ides de Mars]], précisément le [[15 mars 44 av. J.-C.]] ? <!-- score: 3 -->
+Quel événement tragique de l'histoire de [[Rome]] s'est déroulé aux [[Ides de Mars]], précisément le [[15 mars 44 av. J.-C.]] ? <!-- score: 4 -->
 
 ###### Description
 
