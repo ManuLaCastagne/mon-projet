@@ -22,13 +22,14 @@ questions:
  - En 1828 à Nuremberg, sous quel nom se présente l'adolescent égaré prétendant descendre de la grande-duchesse ?
 ---
 
+
 ![Image de Gaspard Hauser](https://upload.wikimedia.org/wikipedia/commons/2/2f/Kaspar_hauser.jpg)
 
 ###### Questions
 
 En quelle année a été découvert celui que l'on surnomme "l'orphelin de l'Europe" portant le nom de [[Gaspard Hauser]] ?
 
-Quel individu mystérieux, apparu à [[Nuremberg]] en [[1828]], a été un sujet de fascination du fait de ses origines inconnues et de son prétendu enfermement depuis l'enfance, connu sous le nom de [[Gaspard Hauser]] ?
+Quel individu mystérieux, apparu à [[Nuremberg]] en [[1828]], a été un sujet de fascination du fait de ses origines inconnues et de son prétendu enfermement depuis l'enfance, connu sous le nom de [[Gaspard Hauser]] ? <!-- score: 5 -->
 
 Quelle figure historique, ayant intrigué pour son meurtre non élucidé en [[1833]], est souvent citée dans la littérature et les enquêtes sur les énigmes du XIXe siècle sous le nom de [[Gaspard Hauser]] ?
 
