@@ -22,6 +22,7 @@ questions:
 
 
 
+
 ![Image de Hérodote](https://upload.wikimedia.org/wikipedia/commons/d/da/AGMA_H%C3%A9rodote.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel historien a écrit sur les [[Phoenix]], décrivant leur mythologie dans son
 
 Dans quel ouvrage d'[[Hérodote]] trouve-t-on des récits détaillés sur la géographie et la culture des [[Hyperboréens]], un peuple légendaire situé au-delà du vent du nord ?
 
-Quel auteur grec, né en [[484 av. J.-C.]], est connu pour avoir intégré des éléments de mythologie dans ses récits de la [[Guerre des Grecs contre les Perses]] ? <!-- score: 3 -->
+Quel auteur grec, né en [[484 av. J.-C.]], est connu pour avoir intégré des éléments de mythologie dans ses récits de la [[Guerre des Grecs contre les Perses]] ? <!-- score: 4 -->
 
 ###### Description
 
