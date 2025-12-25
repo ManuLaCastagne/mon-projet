@@ -20,11 +20,12 @@ indice_6 :
   - commandant des forces britanniques
 ---
 
+
 ![Image de Cornwallis](https://upload.wikimedia.org/wikipedia/commons/e/eb/First_Marquis_of_Cornwallis.jpg)
 
 ###### Questions
 
-Quel général britannique a capitulé face aux forces américaines et françaises lors du siège de [[Yorktown]] en [[1781]] ?
+Quel général britannique a capitulé face aux forces américaines et françaises lors du siège de [[Yorktown]] en [[1781]] ? <!-- score: 2 -->
 
 Quel gouverneur de l'[[Inde]], représentant des [[Britanniques]], fut impliqué dans le célèbre traité de paix avec le [[Maharaja]] [[Ranjit Singh]] en [[1809]] ?
 
