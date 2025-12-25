@@ -22,6 +22,7 @@ questions:
  - Ayant pour principale méthode d'investigation l'étude du spectre électromagnétique, je suis associée à des scientifiques comme Stephen Hawking et Hubert Reeves.
 ---
 
+
 ![Image de Astrophysique](https://upload.wikimedia.org/wikipedia/commons/1/16/Nord_america.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel domaine scientifique a été révolutionné par la publication de la théor
 
 Dans quel champ scientifique musulman le savant islamique [[Ibn al-Haytham]] a-t-il contribué par ses travaux précurseurs sur l'optique et la lumière au 11ème siècle ?
 
-Quel domaine a été marqué par la découverte des [[trous noirs]] par [[Stephen Hawking]] et d'autres chercheurs dans les années [[1970]] ?
+Quel domaine a été marqué par la découverte des [[trous noirs]] par [[Stephen Hawking]] et d'autres chercheurs dans les années [[1970]] ? <!-- score: 4 -->
 
 ###### Description
 
