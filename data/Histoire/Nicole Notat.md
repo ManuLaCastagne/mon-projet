@@ -24,11 +24,12 @@ questions:
  - En 1992, quelle Française prénommé Nicole est la 1re femme à diriger une confédération, la CFDT.
 ---
 
+
 ![Image de Nicole Notat](https://upload.wikimedia.org/wikipedia/commons/3/32/Medical_Heritage_Library_%28IA_BIUSante_pharma_res012103%29.pdf)
 
 ###### Questions
 
-Qui est devenue la première femme à diriger la [[Confédération Française Démocratique du Travail]] ([[CFDT]]) en [[1992]] ?  
+Qui est devenue la première femme à diriger la [[Confédération Française Démocratique du Travail]] ([[CFDT]]) en [[1992]] ? <!-- score: 3 -->
 
 Qui a reçu la [[Légion d'honneur]] en [[2014]] pour sa contribution au [[dialogue social en France]] ?  
 
