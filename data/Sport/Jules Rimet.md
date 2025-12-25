@@ -22,11 +22,12 @@ questions:
  - A quel dirigeant, président de la FIFA, de 1921 à 1954, doit-on la création de la Coupe du Monde de football ?
 ---
 
+
 ![Image de Jules Rimet](https://upload.wikimedia.org/wikipedia/commons/3/38/Jules_Rimet_1933.jpg)
 
 ###### Questions
 
-Quel Français, né en [[1873]], est connu pour avoir été l'un des principaux instigateurs de la création de la [[Coupe du Monde FIFA]] ?
+Quel Français, né en [[1873]], est connu pour avoir été l'un des principaux instigateurs de la création de la [[Coupe du Monde FIFA]] ? <!-- score: 4 -->
 
 Qui a donné son nom à un célèbre trophée décerné à l'équipe victorieuse lors des éditions de la [[Coupe du Monde de football]] de [[1930]] à [[1970]] ?
 
