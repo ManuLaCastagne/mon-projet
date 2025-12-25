@@ -22,6 +22,7 @@ questions:
  - Quelle série télévisée danoise, diffusée sur Arte… Femme politique qui devient Premier ministre et qui crée son propre parti. Brigitte Nyborg, l'héroïne.
 ---
 
+
 ![Image de Borgen](https://upload.wikimedia.org/wikipedia/commons/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quelle série danoise a été diffusée pour la première fois en [[2010]] et qu
 
 Quelle série télévisée dramatique, souvent surnommée le [[The West Wing]] danois, a gagné un [[Prix Peabody]] en [[2014]] pour son traitement des thèmes politiques et sociaux ?
 
-Quel programme télévisé explore les coulisses de la politique danoise via le personnage de [[Birgitte Nyborg]], première femme à devenir Premier ministre du Danemark dans la série ?
+Quel programme télévisé explore les coulisses de la politique danoise via le personnage de [[Birgitte Nyborg]], première femme à devenir Premier ministre du Danemark dans la série ? <!-- score: 6 -->
 
 ###### Description
 
