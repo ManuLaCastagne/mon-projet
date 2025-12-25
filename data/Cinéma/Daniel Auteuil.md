@@ -25,6 +25,7 @@ questions:
  - En 1992, quel acteur incarne un célibataire introverti qui séduit Emmanuelle Béart dans le film "Un coeur en hiver"?
 ---
 
+
 ![Image de Daniel Auteuil](https://upload.wikimedia.org/wikipedia/commons/b/b9/Daniel_Auteuil_C%C3%A9sar_2018.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Dans quel film sorti en 1989, [[Daniel Auteuil]] incarne-t-il le personnage de [
 
 Quel comédien a obtenu son premier rôle dans le cinéma français avec le film [[Appelle-moi Seigneur]] en 1970, avant d'acquérir une renommée internationale ?
 
-En 1986, qui partage l'affiche avec [[Isabelle Adjani]] dans le film [[Jean de Florette]], qui a valu au film une très grande popularité ?
+En 1986, qui partage l'affiche avec [[Isabelle Adjani]] dans le film [[Jean de Florette]], qui a valu au film une très grande popularité ? <!-- score: 4 -->
 
 ###### Description
 
