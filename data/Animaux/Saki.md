@@ -15,6 +15,7 @@ indice_6 :
   - Symbole de la biodiversité amazonienne
 ---
 
+
 ![Image de Saki](https://upload.wikimedia.org/wikipedia/commons/3/3f/H%C3%A9ctor_Hugh_Munro.png)
 
 ###### Questions
@@ -23,7 +24,7 @@ Quel genre de primate sud-américain a été découvert pour la première fois p
 
 Quel mammifère arboricole, découvert principalement dans les forêts tropicales d'[[Amazonie]] et de [[Guyane]], est célèbre pour ses vocalisations puissantes et sa capacité inhabituelle à se suspendre dans les arbres?
 
-Quel est le nom du primate qui a été étudié par le primatologue américain [[Russell Mittermeier]] au début des années [[1980]], notamment reconnu pour ses variations de couleurs et de tailles au sein de son espèce?
+Quel est le nom du primate qui a été étudié par le primatologue américain [[Russell Mittermeier]] au début des années [[1980]], notamment reconnu pour ses variations de couleurs et de tailles au sein de son espèce? <!-- score: 4 -->
 
 ###### Description
 
