@@ -23,6 +23,7 @@ questions:
  - Quelle capitale religieuse du Mahgreb abrite la grande mosquée de Sidi Okba dont les bâtiments comptent parmi les chefs-d'œuvres de l'art de l'islam ?
 ---
 
+
 ![Image de Keirouan](https://upload.wikimedia.org/wikipedia/commons/8/8d/Illustrated_catalogue_of_the_art_and_literary_property_collected_by_the_late_Henry_G._Marquand_%281903%29_%2814781605085%29.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans quelle ville tunisienne, fondée en [[670]], peut-on trouver la célèbre [
 
 Quelle ville est souvent considérée comme la quatrième ville sainte de l'[[islam]] et a été inscrite au patrimoine mondial de l'[[UNESCO]] en 1988 pour sa médina historique ?
 
-Quel lieu en [[Tunisie]], connu pour ses remarquables réservoirs d'eau [[aghlabides]] construits autour de [[850]], était autrefois une capitale du pouvoir islamique ?
+Quel lieu en [[Tunisie]], connu pour ses remarquables réservoirs d'eau [[aghlabides]] construits autour de [[850]], était autrefois une capitale du pouvoir islamique ? <!-- score: 3 -->
 
 ###### Description
 
