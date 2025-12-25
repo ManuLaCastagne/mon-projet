@@ -25,6 +25,7 @@ questions:
  - Quel chanteur réconcilie les 3 temps de la Java (danse) et le swing du jazz dans une chanson composée en 1962?
 ---
 
+
 ![Image de Claude Nougaro](https://upload.wikimedia.org/wikipedia/commons/a/ac/31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel chanteur français, célèbre pour [[Nouvelle-Orléans]], a sorti son premi
 
 En 1965, quel artiste a participé au fameux festival de [[Sanremo]] en Italie, se hissant parmi les finalistes avec la chanson "[[C'était nous]]" ?
 
-Quel poète et chanteur français, connu pour sa fusion unique de jazz et de chanson française, a remporté la Victoire de la Musique pour l'album de l'année en 1994 avec [[The Best de Nougaro]] ?
+Quel poète et chanteur français, connu pour sa fusion unique de jazz et de chanson française, a remporté la Victoire de la Musique pour l'album de l'année en 1994 avec [[The Best de Nougaro]] ? <!-- score: 5 -->
 
 ###### Description
 
