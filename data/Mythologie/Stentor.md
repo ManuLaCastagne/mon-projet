@@ -22,11 +22,12 @@ questions:
 ---
 
 
+
 ![Image de Stentor](https://upload.wikimedia.org/wikipedia/commons/5/58/Stentor_coeruleus.png)
 
 ###### Questions
 
-Quel personnage de la [[mythologie grecque]] est célèbre pour sa voix tonitruante capable de porter aussi loin que celle de cinquante hommes ensemble ?
+Quel personnage de la [[mythologie grecque]] est célèbre pour sa voix tonitruante capable de porter aussi loin que celle de cinquante hommes ensemble ? <!-- score: 7 -->
 
 Dans l'[[Iliade]] d'[[Homère]], quel héraut des [[Achéens]] est connu pour sa voix puissante qui lui permet de rallier les troupes lors de la [[guerre de Troie]], qui a débuté vers [[-1194]] ?
 
