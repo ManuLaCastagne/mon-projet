@@ -22,17 +22,13 @@ questions:
  - Le Saint né vers 385, de mon vrai nom Maewyn Succat, je suis enlevé à l'âge de 16 ans par des pirates et vendu comme esclave.
 ---
 
-
 ![Image de Saint-Patrick](https://upload.wikimedia.org/wikipedia/commons/2/21/Saint_Patrick_Catholic_Church_%28Junction_City%2C_Ohio%29_-_stained_glass%2C_Saint_Patrick_-_detail.jpg)
 
 ###### Questions
 
-En quelle année la fête de [[Saint-Patrick]] a-t-elle été célébrée pour la première fois par des colons irlandais à [[Boston]] ?
-
 Quel saint missionnaire, fêté le [[17 mars]], est réputé pour avoir utilisé un [[trèfle]] pour expliquer la [[Sainte Trinité]] aux [[Irlandais]] au [[Vᵉ siècle]] ?
 
-Quel symbole irlandais est souvent associé à [[Saint-Patrick]], célèbre pour avoir évangélisé l'[[Irlande]] et chassé les serpents selon la légende ? <!-- score: 5 -->
-
+Quel symbole irlandais est célèbre pour avoir évangélisé l'[[Irlande]] et chassé les serpents selon la légende ? <!-- score: 5 -->
 ###### Description
 
 [[Saint-Patrick]] est né en 385 après J.-C. dans ou près de la ville de [[Bannavem Taberniae]], qui se situerait en [[Grande-Bretagne]]. 
