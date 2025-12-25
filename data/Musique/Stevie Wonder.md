@@ -24,13 +24,14 @@ questions:
  - Quel chanteur américain, auteur des albums "Innervisions" et "Songs in the key of life", a reçu 25 Grammy Awards au cours de sa carrière ?
 ---
 
+
 ![Image de Stevie Wonder](https://upload.wikimedia.org/wikipedia/commons/8/8f/Stevie_Wonder_1994.jpg)
 
 ###### Questions
 
 Quel artiste aveugle a sorti l'album révolutionnaire "[[Songs in the Key of Life]]" en 1976 ?
 
-Qui a remporté le [[Grammy Award]] de l'album de l'année trois fois durant la décennie des [[années 1970]] ?
+Qui a remporté le [[Grammy Award]] de l'album de l'année trois fois durant la décennie des [[années 1970]] ? <!-- score: 4 -->
 
 Quel musicien a enregistré à l'âge de [[11 ans]] le tube "Fingertips" qui est devenu numéro un au [[Billboard Hot 100]] en 1963 ?
 
