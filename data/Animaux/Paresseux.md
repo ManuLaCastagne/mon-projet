@@ -17,6 +17,7 @@ questions:
  - Quel mammifère xénarthre…
 ---
 
+
 ![Image de Paresseux](https://upload.wikimedia.org/wikipedia/commons/d/d9/Caseneuve_-_sanglier_paresseux_2.JPG)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quel animal utilise le camouflage dans les arbres grâce à des algues qui pouss
 
 Quel mammifère arboricole est connu pour la lenteur de ses mouvements, se déplaçant à une vitesse moyenne d'environ 0,24 kilomètres par heure, et passant la majeure partie de sa vie suspendu aux branches des forêts tropicales ?
 
-Quel animal possède une adaptation unique de son système digestif, nécessitant parfois plus de 30 jours pour digérer une seule feuille, une caractéristique étudiée par des scientifiques de [[l’Université de Wisconsin]] en [[2014]] ?
+Quel animal possède une adaptation unique de son système digestif, nécessitant parfois plus de 30 jours pour digérer une seule feuille, une caractéristique étudiée par des scientifiques de [[l’Université de Wisconsin]] en [[2014]] ? <!-- score: 5 -->
 
 ###### Description
 
