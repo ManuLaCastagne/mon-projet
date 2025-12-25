@@ -21,6 +21,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Rainier III](https://upload.wikimedia.org/wikipedia/commons/b/b6/Rainier_III.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel prince a transformé la principauté de [[Monaco]] en un centre majeur du t
 
 Qui s'est marié avec l'actrice américaine [[Grace Kelly]] lors d'une cérémonie somptueuse à [[Monaco]] en [[1956]] ?
 
-Quel souverain monégasque a régné pendant presque 56 ans avant son décès en [[2005]], marquant l'un des plus longs règnes de l'histoire européenne ? <!-- score: 4 -->
+Quel souverain monégasque a régné pendant presque 56 ans avant son décès en [[2005]], marquant l'un des plus longs règnes de l'histoire européenne ? <!-- score: 2 -->
 
 ###### Description
 
