@@ -21,11 +21,12 @@ indice_6 :
 ---
 
 
+
 ![Image de Véronique Sanson](https://upload.wikimedia.org/wikipedia/commons/4/45/V%C3%A9ronique_Sanson_%282024%29.jpg)
 
 ###### Questions
 
-Quel est le nom de la chanteuse française qui a été mariée à [[Stephen Stills]] du groupe [[Crosby, Stills, Nash & Young]] entre [[1973]] et [[1979]] avec qui elle a vécu une histoire tragique ?
+Quel est le nom de la chanteuse française qui a été mariée à [[Stephen Stills]] du groupe [[Crosby, Stills, Nash & Young]] entre [[1973]] et [[1979]] avec qui elle a vécu une histoire tragique ? <!-- score: 4 -->
 
 Quelle artiste a été la première chanteuse française à sortir un album entièrement composé, écrit et produit par elle-même avec le disque [[Amoureuse]] en [[1972]] ?
 
