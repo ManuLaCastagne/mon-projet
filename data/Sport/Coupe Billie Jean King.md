@@ -22,17 +22,15 @@ questions:
  - Quel est le pendant féminin de la Coupe Davis ?
 ---
 
-
 ![Image de Coupe Billie Jean King](https://upload.wikimedia.org/wikipedia/commons/d/d3/Fed_Cup_Group_I_2012_Europe_Africa_day_3_Tsvetana_Pironkova_001.JPG)
 
 ###### Questions
 
-Quel tournoi prestigieux de tennis féminin, anciennement connu sous le nom de [[Fed Cup]], a été renommé en [[Coupe Billie Jean King]] en [[2020]]? <!-- score: 3 -->
+Quel tournoi prestigieux de tennis féminin, anciennement connu sous le nom de [[Fed Cup]] en [[2020]]? <!-- score: 3 -->
 
-Quel événement annuel de tennis par équipe nationale féminine, mettant en avant la compétition entre pays, porte le nom de l'illustre joueuse de tennis [[Billie Jean King]]?
+Quel événement annuel de tennis par équipe nationale féminine, mettant en avant la compétition entre pays, porte le nom de l'illustre joueuse de tennis [[Billie]]? <!-- score: 5 -->
 
-Quel trophée de tennis féminin, inauguré pour la première fois en [[1963]] sous l'égide de la [[Fédération Internationale de Tennis]], a été redésigné pour honorer une pionnière américaine du tennis en [[2020]]?
-
+Quelle tenniswoman a inspiré [[Michael Jackson]] pour un de ses tubes ? <!-- score: 5 -->
 ###### Description
 
 La [[Coupe Billie Jean King]], anciennement connue sous le nom de "Fed Cup", est une compétition internationale de tennis féminin par équipes nationales, instaurée en [[1963]]. 
