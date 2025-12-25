@@ -15,11 +15,12 @@ indice_5 :
 indice_6 : 
   - Pratiques mystiques
 ---
+
 ###### Questions
 
 Quelle pratique ésotérique, utilisée dans l'Antiquité, prétendait invoquer et communiquer avec les divinités à travers des rituels sacrés, et est souvent associée aux [[néoplatoniciens]] ?
 
-Comment appelle-t-on l'art cérémoniel mystique visant à unir l'âme humaine aux divinités ?
+Comment appelle-t-on l'art cérémoniel mystique visant à unir l'âme humaine aux divinités ? <!-- score: 4 -->
 
 ###### Description
 
