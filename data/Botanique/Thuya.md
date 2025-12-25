@@ -17,13 +17,14 @@ questions:
   - Voisin du cyprès, utilisé dans les jardins comme arbre d'ornement, j'ai une croissance rapide et suis planté pour former des haies de clôture et servir de coupe-vent.  Conifère...
 ---
 
+
 ![Image de Thuya](https://upload.wikimedia.org/wikipedia/commons/6/6a/Mummy_mask_of_Thuya.jpg)
 
 ###### Questions
 
 Quel conifère, voisin du [[cyprès]], est utilisé dans les jardins comme arbre d'ornement et pour servir de coupe-vent ?
 
-Quel conifère est aussi appelé "[[arbre de vie]]" ?
+Quel conifère est aussi appelé "[[arbre de vie]]" ? <!-- score: 3 -->
 
 ###### Description
 
