@@ -24,17 +24,15 @@ questions:
  - Reprise dans les années 60 par Joe Dassin et Nana Mouskouri, mon titre peut être traduit par fille de Guantanamo...
 ---
 
-
 ![Image de Guantanamera](https://upload.wikimedia.org/wikipedia/commons/2/25/Jose%C3%ADto_Fern%C3%A1ndez.jpg)
 
 ###### Questions
 
 Dans quelle chanson tristement célébrée inspirée d'un poème de [[José Martí]], les paroles parlent-elles de l’amour pour une femme cubaine ?
 
-Quel titre, interprété par [[Celia Cruz]], a été utilisé dans une adaptation musicale du poème écrit par [[José Martí]] en 1891 ?
+Quelle chanson cubaine a été reprise par [[Joe Dassin]] et [[Nana Mouskouri]] ? <!-- score: 5 -->
 
 Quelle chanson populaire, rendue célèbre par [[The Sandpipers]] en 1966, porte le nom dérivé d'un mot espagnol signifiant "femme originaire de [[Guantánamo]]" ? <!-- score: 6 -->
-
 ###### Description
 
 [[Guantanamera]] est une chanson emblématique d'inspiration cubaine, devenue célèbre grâce à l'auteur-compositeur [[José Martí]], un poète et [[révolutionnaire]] du 19ème siècle, et à la musique de [[José Fernández]], surnommé "Joseíto", qui l'a popularisée dans les années 1920. 
