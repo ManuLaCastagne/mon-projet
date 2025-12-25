@@ -16,6 +16,7 @@ indice_6 :
   - Cultivar à cycle court
 ---
 
+
 ![Image de Hâtiveau](https://upload.wikimedia.org/wikipedia/commons/f/f7/Kea_Farm_produce_2.jpg)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quel est le terme utilisé pour décrire une variété de plante dont la maturat
 
 Comment appelle-t-on les fruits qui sont disponibles au début de leur saison grâce à une croissance accélérée ?
 
-Quel mot désigne un [[fruit]] ou un [[légume]] à maturation précoce comparé aux autres variétés de la même espèce ?
+Quel mot désigne un [[fruit]] ou un [[légume]] à maturation précoce comparé aux autres variétés de la même espèce ? <!-- score: 3 -->
 
 ###### Description
 
