@@ -22,6 +22,7 @@ questions:
  - En 1961, quel président en fonction depuis quelques mois est reçu au palais de Buckingham...
 ---
 
+
 ![Image de Kennedy](https://upload.wikimedia.org/wikipedia/commons/2/21/John_F_Kennedy_Official_Portrait.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel président des États-Unis a été assassiné en [[1963]], suscitant une s�
 
 Quel membre d'une célèbre famille américaine a pris la décision historique de lancer le programme spatial [[Apollo]] en [[1961]], conduisant plus tard à l'alunissage humain en [[1969]] ?
 
-Quel président a prononcé le discours célèbre "Ich bin ein Berliner" à [[Berlin]]-Ouest en [[1963]], marquant son soutien aux [[Allemands]] de l'Ouest pendant la [[Guerre froide]] ?
+Quel président a prononcé le discours célèbre "Ich bin ein Berliner" à [[Berlin]]-Ouest en [[1963]], marquant son soutien aux [[Allemands]] de l'Ouest pendant la [[Guerre froide]] ? <!-- score: 7 -->
 
 ###### Description
 
