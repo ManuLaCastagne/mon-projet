@@ -16,17 +16,15 @@ indice_6 :
   - déformation
 ---
 
-
 ![Image de Flessum](https://upload.wikimedia.org/wikipedia/commons/b/bc/Fiesco_-_chiesa_di_San_Procopio.jpg)
 
 ###### Questions
 
-Quel est le nom du groupe de musique qui tire son identité d'un jeu de mots autour de l'idée de flexibilité et de musique en mouvement, formé par des anciens étudiants du [[Conservatoire de Paris]] ?
+Quel terme médical désigne la perte de flexibilité d'une articulation, en particulier du genou ? <!-- score: 5 -->
 
 Comment s'appelle le spectacle musical déjanté qui se démarque par sa mise en scène innovante et qui a été présenté dans plusieurs [[Festival d'Avignon]] ? <!-- score: 5 -->
 
 Quel mot latin désigne à la fois le concept de flexibilité et est aussi le nom choisi par un collectif artistique célèbre pour ses compositions et performances atypiques ?
-
 ###### Description
 
 Le terme "Flessum" désigne un mouvement de flexion ou courbure, souvent utilisé dans un contexte anatomique pour décrire l'action de plier un membre ou une articulation. Historiquement, le mot vient du latin et a été employé dans des textes médicaux et anatomiques, notamment dans les travaux de [[Galien]], médecin grec de l'Antiquité.
