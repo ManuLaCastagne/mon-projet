@@ -24,13 +24,14 @@ questions:
  - En 1996, quel groupe, ayant repris le tube "Killing me softly"...
 ---
 
+
 ![Image de The Fugees](https://upload.wikimedia.org/wikipedia/commons/9/93/Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg)
 
 ###### Questions
 
 Quel groupe de hip-hop a connu un succès mondial en 1996 avec l'album [[The Score]] ?
 
-Quel groupe, dont les membres incluent [[Lauryn Hill]], a été reconnu pour sa reprise de la chanson "Killing Me Softly with His Song" en 1996 ?
+Quel groupe, dont les membres incluent [[Lauryn Hill]], a été reconnu pour sa reprise de la chanson "Killing Me Softly with His Song" en 1996 ? <!-- score: 3 -->
 
 Quel groupe formé en 1994 est composé de [[Wyclef Jean]], [[Pras Michel]] et [[Lauryn Hill]] ?
 
