@@ -25,11 +25,12 @@ questions:
 ---
 
 
+
 ![Image de Tout ce qui brille](https://upload.wikimedia.org/wikipedia/commons/4/47/Tout_ce_qui_brille-3.JPG)
 
 ###### Questions
 
-Quel film réalisé par [[Géraldine Nakache]] et [[Hervé Mimran]] en 2010 raconte l'histoire de deux amies vivant une folle expérience dans le monde parisien brillant et plein de paillettes ?
+Quel film réalisé par [[Géraldine Nakache]] et [[Hervé Mimran]] en 2010 raconte l'histoire de deux amies vivant une folle expérience dans le monde parisien brillant et plein de paillettes ? <!-- score: 6 -->
 
 Dans quel long métrage, sorti en 2010, une grande partie de l'intrigue se déroule-t-elle dans le quartier élégant de [[Neuilly-sur-Seine]] autour des thèmes de l'amitié et de l'aspiration sociale ? <!-- score: 4 -->
 
