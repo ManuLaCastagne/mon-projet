@@ -22,13 +22,14 @@ indice_6:
   - Le Devisement du Monde
 ---
 
+
 ![Image de Marco Polo](https://upload.wikimedia.org/wikipedia/commons/4/44/MarcoPoloStatueInHangzhou.JPG)
 
 ###### Questions
 
 Quel marchand et explorateur vénitien a inspiré le célèbre ouvrage de voyage et d'aventure publié en 1298, souvent considéré comme l'un des premiers récits européens détaillant la Chine médiévale, intitulé "Le Livre des merveilles du monde" ? 
 
-A quel voyageur doit-on "Le Livre des merveilles du monde" ?
+A quel voyageur doit-on "Le Livre des merveilles du monde" ? <!-- score: 3 -->
 
 Quel aventurier du [[XIIIe siècle]] est retourné à [[Venise]] en 1295 après avoir passé 24 ans en [[Asie]], et dont les récits ont été compilés par [[Rustichello de Pise]] lors de son emprisonnement à [[Gênes]] ?
 
