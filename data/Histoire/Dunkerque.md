@@ -20,6 +20,7 @@ indice_6:
   - bataille contre l'Allemagne nazie
 ---
 
+
 ![Image de Dunkerque](https://upload.wikimedia.org/wikipedia/commons/0/08/Panorama_Dunkerque_7601-07.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quelle ville française a été le théâtre de l'opération de [[rembarquement 
 
 Quel port du nord de la France a vu une célèbre [[évacuation]] de plus de 330 000 [[soldats alliés]] en [[mai]] et [[juin 1940]] au cours de la [[bataille de France]] ?
 
-Quel lieu est le cadre principal du film réalisé par [[Christopher Nolan]] et sorti en [[2017]], qui illustre un épisode crucial de la [[Seconde Guerre mondiale]] ?
+Quel lieu est le cadre principal du film réalisé par [[Christopher Nolan]] et sorti en [[2017]], qui illustre un épisode crucial de la [[Seconde Guerre mondiale]] ? <!-- score: 6 -->
 
 ###### Description
 
