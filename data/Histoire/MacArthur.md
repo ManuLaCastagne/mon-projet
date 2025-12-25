@@ -24,6 +24,7 @@ questions:
 
 
 
+
 ![Image de MacArthur](https://upload.wikimedia.org/wikipedia/commons/0/0e/Douglas_MacArthur_lands_Leyte1.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel général américain, reconnu pour son rôle clé dans la campagne du Pacif
 
 Quel général a été démis de ses fonctions par le président américain [[Harry S. Truman]] en [[1951]] en raison de désaccords sur la conduite de la guerre de [[Corée]] ? <!-- score: 5 -->
 
-Quel militaire remporta la [[Médaille d'Honneur]] pour ses services exceptionnels aux [[Philippines]] et est considéré comme l'un des plus grands généraux américains du XXe siècle ?
+Quel militaire remporta la [[Médaille d'Honneur]] pour ses services exceptionnels aux [[Philippines]] et est considéré comme l'un des plus grands généraux américains du XXe siècle ? <!-- score: 6 -->
 
 ###### Description
 
