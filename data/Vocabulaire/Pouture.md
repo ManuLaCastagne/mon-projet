@@ -18,6 +18,6 @@ indice_6:
 
 ###### Questions
 
-Quel terme d'agriculture désigne la nourriture pour animaux sous forme de poudre utilisée pour l'engraissement, obtenue en broyant des céréales ? <!-- score: 3 -->
+Quel terme d'agriculture désigne la nourriture pour animaux sous forme de poudre utilisée pour l'engraissement, obtenue en broyant des céréales ? <!-- score: 4 -->
 
 ###### Description
