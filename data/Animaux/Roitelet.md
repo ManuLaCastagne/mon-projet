@@ -17,13 +17,14 @@ questions:
  - Passereau  de la famille des Régulidés, je suis représenté par 6 espèces.
 ---
 
+
 ![Image de Roitelet](https://upload.wikimedia.org/wikipedia/commons/d/d2/Rosa_%27Le_Roitelet%27_01.jpg)
 
 ###### Questions
 
 Quel est le plus petit oiseau observé en [[France]] métropolitaine qui pèse environ 5 à 7 grammes ?
 
-Quel est l'oiseau qui fait concurrence au [[colibri]] avec son chant puissant, bien qu'il soit trois fois plus petit en taille ?
+Quel est l'oiseau qui fait concurrence au [[colibri]] avec son chant puissant, bien qu'il soit trois fois plus petit en taille ? <!-- score: 4 -->
 
 Quel oiseau au nom royal est souvent aperçu dans les jardins européens, notamment décrit dans les ouvrages de [[Gérard de Nerval]] au [[XIXe]] siècle ?
 
