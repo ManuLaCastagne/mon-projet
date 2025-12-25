@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de La Servante écarlate](https://upload.wikimedia.org/wikipedia/commons/6/6e/The-handmaid-s-tale.png)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans quelle série télévisée de [[2017]] produite par [[Hulu]], les femmes so
 
 Quelle série dramatique a remporté huit [[Emmy Awards]] en [[2017]], dont celui de la meilleure série dramatique, et est basée sur le roman de [[Margaret Atwood]] publié en [[1985]] ?
 
-Dans quelle série le personnage principal [[June Osborne]], interprété par [[Elisabeth Moss]], lutte-t-il pour retrouver sa liberté et sa fille dans une société totalitaire ? <!-- score: 4 -->
+Dans quelle série le personnage principal [[June Osborne]], interprété par [[Elisabeth Moss]], lutte-t-il pour retrouver sa liberté et sa fille dans une société totalitaire ? <!-- score: 3 -->
 
 ###### Description
 
