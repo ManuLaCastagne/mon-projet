@@ -22,11 +22,12 @@ questions:
  - Egalement musicien et poète, à qui l'on a attribué les Psaumes, c'est ma passion pour Bethsabée qui me pousse sur la voie du péché. Vainqueur du géant philistin...
 ---
 
+
 ![Image de David](https://upload.wikimedia.org/wikipedia/commons/c/c6/David_Self_Portrait.jpg)
 
 ###### Questions
 
-Quel roi a choisi Jérusalem comme capitale du royaume d'[[Israël]] vers [[1000 av. J.-C.]]?
+Quel roi a choisi Jérusalem comme capitale du royaume d'[[Israël]] vers [[1000 av. J.-C.]]? <!-- score: 3 -->
 
 Quel personnage biblique est célèbre pour avoir vaincu le géant [[Goliath]] avec une fronde?
 
