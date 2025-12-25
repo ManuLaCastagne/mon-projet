@@ -18,11 +18,12 @@ questions:
 ---
 
 
+
 ![Image de Loir](https://upload.wikimedia.org/wikipedia/commons/3/37/Loir_%28rivi%C3%A8re%29.png)
 
 ###### Questions
 
-Quel animal, dont le nom est souvent confondu avec une période de sommeil, entre en hibernation durant la saison froide et peut baisser sa température corporelle jusqu'à 1 degré Celsius pour économiser son énergie? 
+Quel animal, dont le nom est souvent confondu avec une période de sommeil, entre en hibernation durant la saison froide et peut baisser sa température corporelle jusqu'à 1 degré Celsius pour économiser son énergie? <!-- score: 4 -->
 
 Quel rongeur, présent principalement dans les forêts de [[Europe]] et décrit pour la première fois par [[Linnaeus]] en [[1766]], est connu pour sa longue période de torpeur et son comportement discret?
 
