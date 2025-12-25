@@ -24,13 +24,14 @@ questions:
  - De quel linguiste suisse a-t-on publié en 1916 à titre posthume, le "Cours de linguistique générale" d'après des notes d'étudiants ?
 ---
 
+
 ![Image de Ferdinand de Saussure](https://upload.wikimedia.org/wikipedia/commons/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png)
 
 ###### Questions
 
 Quel linguiste suisse, né en 1857 à Genève, est considéré comme le père de la linguistique moderne grâce à son ouvrage posthume "Cours de linguistique générale" publié en 1916 ?
 
-Quel célèbre linguiste a influencé les travaux de [[Roland Barthes]] et de [[Claude Lévi-Strauss]] avec ses théories structurales sur la langue et le langage ?
+Quel célèbre linguiste a influencé les travaux de [[Roland Barthes]] et de [[Claude Lévi-Strauss]] avec ses théories structurales sur la langue et le langage ? <!-- score: 3 -->
 
 Quel intellectuel suisse est connu pour avoir révolutionné la manière dont les relations entre le signifiant et le signifié sont comprises dans la linguistique ?
 
