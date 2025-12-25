@@ -15,11 +15,12 @@ indice_6:
   - Symbole national de l'Indonésie
 ---
 
+
 ![Image de Varan de Komodo](https://upload.wikimedia.org/wikipedia/commons/e/e8/Komodo_dragon_%28Varanus_komodoensis%29.jpg)
 
 ###### Questions
 
-Quel animal protégé dès 1915 par un décret du sultan de Bima quelques années après avoir été identifié, est un reptile carnivore agressif, qui hume l'air grâce à une longue langue fourchue ?
+Quel animal protégé dès 1915 par un décret du sultan de Bima quelques années après avoir été identifié, est un reptile carnivore agressif, qui hume l'air grâce à une longue langue fourchue ? <!-- score: 4 -->
 
 Quel animal des [[îles de la Sonde]] est le plus grand lézard vivant sur Terre et est originaire des îles [[Komodo]], [[Rinca]], [[Flores]], [[Gili Motang]] et [[Padar]] en [[Indonésie]]?
 
