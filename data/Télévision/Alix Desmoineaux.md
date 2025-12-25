@@ -22,11 +22,12 @@ indice_6 :
 ---
 
 
+
 ![Image de Alix Desmoineaux](https://upload.wikimedia.org/wikipedia/commons/2/29/Arnaud_Chiche.jpg)
 
 ###### Questions
 
-Quel est le nom complet de la candidate de téléréalité qui a participé à l'émission [[Les Marseillais]] en 2020 ?
+Quel est le nom complet de la candidate de téléréalité qui a participé à l'émission [[Les Marseillais]] en 2020 ? <!-- score: 4 -->
 
 Quelle influenceuse, née en 1993, a gagné en notoriété après avoir participé à l'émission [[Les Princes et les Princesses de l'Amour]] sur [[W9]] ?
 
