@@ -21,6 +21,7 @@ indice_6 :
   - Une rose pour Manhattan
 ---
 
+
 ![Image de Géraldine Maillet](https://upload.wikimedia.org/wikipedia/commons/8/84/G%C3%A9raldine_Maillet_2013.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel membre de l'équipe de [[Touche pas à mon poste]] depuis 2016 est égaleme
 
 Quelle romancière a publié son premier livre "[[Une rose pour Manhattan]]" en 1999, devenant ainsi une figure de la littérature contemporaine française ?
 
-Quel réalisateur a dirigé le film "[[After]]" sorti en 2013, mettant en scène les tourments émotionnels d'une femme ?
+Quel réalisateur a dirigé le film "[[After]]" sorti en 2013, mettant en scène les tourments émotionnels d'une femme ? <!-- score: 4 -->
 
 ###### Description
 
