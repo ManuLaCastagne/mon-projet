@@ -22,17 +22,15 @@ questions:
  - Sous Histoire/Louis XV, quel secrétaire d'Etat aux affaires étrangères, proche de Madame de Pompadour, réunit la Lorraine et la Corse à la France?
 ---
 
-
 ![Image de Duc de Choiseul](https://upload.wikimedia.org/wikipedia/commons/d/d5/Lettre_du_Duc_de_Choiseul_%C3%A0_Th%C3%A9ophile_de_Bordeu_-_Choiseul%2C_Etienne_Fran%C3%A7ois_de%2C_duc_-_btv1b10582310r_%281_of_4%29.jpg)
 
 ###### Questions
 
 Quel [[ministre français]], qui a joué un rôle clé dans la politique étrangère française sous le règne de [[Louis XV]], a été écarté du pouvoir en 1770 ?
 
-Quel noble, porteur du titre de [[Duc de Choiseul]], a orchestré le [[Pacte de Famille]] de 1761 entre la France et l'Espagne ?
+Quel noble a orchestré le [[Pacte de Famille]] de 1761 entre la France et l'Espagne ? <!-- score: 5 -->
 
-Quel [[Duc de Choiseul]], célèbre pour ses réformes militaires, a travaillé à la modernisation de la [[marine française]] au milieu du XVIIIe siècle ? <!-- score: 5 -->
-
+Quel duc célèbre pour ses réformes militaires, a travaillé à la modernisation de la [[marine française]] au milieu du XVIIIe siècle ? <!-- score: 5 -->
 ###### Description
 
 [[Étienne François, duc de Choiseul]] (1719-1785) fut un homme d'État influent sous le règne de [[Louis XV]], jouant un rôle clé dans la politique extérieure de la France au XVIIIe siècle. 
