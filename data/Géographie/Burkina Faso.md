@@ -26,12 +26,13 @@ questions:
  - Quel Etat d'Afrique occidentale, enclavé au coeur du Sahel, portait le nom de Haute-Volta jusqu'en 1984?
 ---
 
+
 ![Image de Burkina Faso](https://upload.wikimedia.org/wikipedia/commons/9/9e/Chondrite_meteorite._Gao%2C_Burkina_Faso-8939.jpg)
 
 ![[Carte_Burkina Faso.png]]
 ###### Questions
 
-Quel pays a changé de nom pour devenir [[Burkina Faso]] en 1984 ?
+Quel pays a changé de nom pour devenir [[Burkina Faso]] en 1984 ? <!-- score: 8 -->
 
 Quel pays d'Afrique de l'Ouest a pour capitale [[Ouagadougou]] ?
 
