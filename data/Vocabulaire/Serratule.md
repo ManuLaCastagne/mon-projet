@@ -16,11 +16,12 @@ indice_6 :
   - Pollinisation entomogame
 ---
 
+
 ![Image de Serratule](https://upload.wikimedia.org/wikipedia/commons/6/63/Serratula_tinctoria.jpg)
 
 ###### Questions
 
-Quelle plante herbacée de la famille des [[Asteraceae]] est connue pour ses fleurs violettes ou rosées et est souvent utilisée dans les jardins pour attirer les papillons ?
+Quelle plante herbacée de la famille des [[Asteraceae]] est connue pour ses fleurs violettes ou rosées et est souvent utilisée dans les jardins pour attirer les papillons ? <!-- score: 4 -->
 
 Quel genre de plante, présentant une ressemblance avec les chardons, inclut des espèces parfois utilisées en infusion pour leurs propriétés anti-inflammatoires ?
 
