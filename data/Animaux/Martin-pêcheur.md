@@ -16,13 +16,14 @@ indice_6:
 ---
 
 
-![Image de Martin-pêcheur](https://upload.wikimedia.org/wikipedia/commons/1/18/Wimereux_Villa_Martin_P%C3%AAcheur_IA62000522_%282023%29.jpg)
+
+![Image de Martin-pêcheur](https://upload.wikimedia.org/wikipedia/commons/1/18/Wimereux_Villa_Martin_P%C3%AAcheur_IA62000522_%282023%29.jpg)
 
 ###### Questions
 
 Quel petit oiseau de la famille des alcédinidés, désigné par un nom composé, se reconnait à son bec pointu, sa queue courte et son plumage bleu argenté sur le dessus et fauve sur la gorge ?
 
-Quel oiseau vit en solitaire près des cours d'eau d'Europe, d'Afrique et d'Asie, a un nom qui vient du fait que je me nourris essentiellement de poissons ? <!-- score: 4 -->
+Quel oiseau vit en solitaire près des cours d'eau d'Europe, d'Afrique et d'Asie, a un nom qui vient du fait que je me nourris essentiellement de poissons ? <!-- score: 3 -->
 
 Quel animal, souvent visible sur les rives des rivières et des étangs en France, a inspiré le nom de code pour une mission spéciale de la [[Royal Navy]] britannique durant la [[Seconde Guerre mondiale]] ?
 
