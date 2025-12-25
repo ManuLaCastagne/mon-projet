@@ -22,6 +22,7 @@ questions:
  - Quelle série télé américaine intitulée "Twenty four" en anglais a pour héros Jack Bauer?
 ---
 
+
 ![Image de 24 heures chrono](https://upload.wikimedia.org/wikipedia/commons/e/eb/Le_journaliste_el_malick_seck_de_24_heures_chrono.JPG)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelle série télévisée américaine diffusée à partir de [[2001]] suit
 
 Quelle série a introduit la reconnaissance et la popularité du format en temps réel, influençant la production de contenus télévisuels similaires, dès sa première diffusion le 6 novembre [[2001]] sur [[Fox]] ?
 
-Quelle émission a remporté le prix de la meilleure série dramatique aux [[Emmy Awards]] en [[2006]] et est réputée pour son format en temps réel innovant et ses cliffhangers haletants ?
+Quelle émission a remporté le prix de la meilleure série dramatique aux [[Emmy Awards]] en [[2006]] et est réputée pour son format en temps réel innovant et ses cliffhangers haletants ? <!-- score: 3 -->
 
 ###### Description
 
