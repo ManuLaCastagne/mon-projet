@@ -27,13 +27,14 @@ questions:
 
 
 
+
 ![Image de Union européenne de radio-télévision](https://upload.wikimedia.org/wikipedia/commons/e/ee/Batiment_de_l%27Union_europ%C3%A9enne_de_radio-t%C3%A9l%C3%A9vision_-_Le_Grand-Saconnex.jpg)
 
 ###### Questions
 
 Quelle organisation créée en [[1950]] à [[Torquay]] avait pour objectif initial de renforcer la coopération entre les radiodiffuseurs de l'Europe de l'Ouest ?  
 
-Quel groupement est responsable de l'organisation et de la diffusion du [[Concours Eurovision de la chanson]], événement qui a débuté en [[1956]] ? <!-- score: 2 -->
+Quel groupement est responsable de l'organisation et de la diffusion du [[Concours Eurovision de la chanson]], événement qui a débuté en [[1956]] ? <!-- score: 3 -->
 
 Quel organisme international a négocié l'un des premiers accords pour la mise en place du [[réseau Eurovision]], facilitant la diffusion simultanée de contenus télévisuels à travers l'Europe en [[1954]] ?
 
