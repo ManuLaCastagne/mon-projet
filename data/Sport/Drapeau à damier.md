@@ -22,13 +22,14 @@ questions:
  - Objet visible pour la 1re fois sur une photo publiée le 14 octobre 1906 par le "New York Times", je fus imaginé afin de pouvoir communiquer avec les participants d'une compétition sportive. Egalement utilisé lors des séances d'essais libres et de qualification, je suis...
 ---
 
-![Image de Drapeau à damier](https://upload.wikimedia.org/wikipedia/commons/2/29/Drapeau_%C3%A0_damier_-_Dreux_2022.jpg)
+
+![Image de Drapeau à damier](https://upload.wikimedia.org/wikipedia/commons/2/29/Drapeau_%C3%A0_damier_-_Dreux_2022.jpg)
 
 ###### Questions
 
 Dans quel sport motorisé, popularisé depuis les années [[1950]], utilise-t-on le [[drapeau à damier]] pour signaler la fin d'une course ?
 
-Quel symbole est agité en 1992 à l'arrivée de [[Nigel Mansell]], marquant son premier titre de [[Champion du Monde de Formule 1]] ?
+Quel symbole est agité en 1992 à l'arrivée de [[Nigel Mansell]], marquant son premier titre de [[Champion du Monde de Formule 1]] ? <!-- score: 4 -->
 
 Lors des [[24 Heures du Mans]] de 1966, quel élément emblématique a été abaissé pour signifier la victoire de [[Ford]], marquée par son célèbre triplé ?
 
