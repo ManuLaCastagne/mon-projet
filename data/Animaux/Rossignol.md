@@ -17,13 +17,14 @@ questions:
  - Quel passereau brun clair, de la famille des turdidés, est renommé pour son chant crépusculaire ?
 ---
 
+
 ![Image de Rossignol](https://upload.wikimedia.org/wikipedia/commons/6/6d/Andr%C3%A9_Rossignol_dans_son_avion.jpg)
 
 ###### Questions
 
 Quel oiseau est utilisé comme métaphore pour le chant et la poésie depuis l'Antiquité, étant souvent symbolisé dans les œuvres de [[John Keats]] et d'autres poètes romantiques ?
 
-Quel oiseau, connu pour son chant mélodieux, a inspiré le titre de l'opéra "Cendrillon", écrit par [[Jules Massenet]] en 1899 ?
+Quel oiseau, connu pour son chant mélodieux, a inspiré le titre de l'opéra "Cendrillon", écrit par [[Jules Massenet]] en 1899 ? <!-- score: 6 -->
 
 Quel oiseau porte le même nom qu'une marque française d'équipements de ski fondée en [[1937]] par [[Abel Rossignol]] ?
 
