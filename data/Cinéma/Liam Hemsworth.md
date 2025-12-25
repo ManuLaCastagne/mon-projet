@@ -22,11 +22,12 @@ indice_6 :
   - acteur australien
 ---
 
+
 ![Image de Liam Hemsworth](https://upload.wikimedia.org/wikipedia/commons/e/e7/Liam_Hemsworth_at_214._Wetten%2C_dass.._show_in_Graz%2C_8._Nov._2014_02.jpg)
 
 ###### Questions
 
-Dans quel film de [[Liam Hemsworth]] sorti en 2014 joue-t-il aux côtés de [[Dwayne Johnson]] et incarne-t-il le personnage de [[Billy "The Kid" Timmons]] ?
+Dans quel film de [[Liam Hemsworth]] sorti en 2014 joue-t-il aux côtés de [[Dwayne Johnson]] et incarne-t-il le personnage de [[Billy "The Kid" Timmons]] ? <!-- score: 5 -->
 
 Quel acteur australien, frère de [[Chris Hemsworth]], a auditionné en 2009 pour le rôle de [[Thor]] avant que ce dernier ne soit attribué à son frère ?
 
