@@ -22,13 +22,14 @@ questions:
  - En 1988, quel cavalier français a été sacré champion olympique avec Jappeloup ?
 ---
 
+
 ![Image de Pierre Durand](https://upload.wikimedia.org/wikipedia/commons/f/f9/Pierre_Durand_-_Grosbois2016_-_01.jpg)
 
 ###### Questions
 
 En quelle année [[Pierre Durand]] a-t-il remporté la médaille d'or en saut d'obstacles aux [[Jeux olympiques de Séoul]] avec le cheval [[Jappeloup]] ?
 
-Qui est le cavalier français célèbre pour sa victoire incroyable lors des [[Championnats du monde de saut d'obstacles]] de [[1986]] avec le célèbre cheval [[Jappeloup]] ?
+Qui est le cavalier français célèbre pour sa victoire incroyable lors des [[Championnats du monde de saut d'obstacles]] de [[1986]] avec le célèbre cheval [[Jappeloup]] ? <!-- score: 3 -->
 
 Quel athlète français a été désigné élu [[Champion des champions]] français par le journal [[L'Équipe]] en [[1988]] après sa performance exceptionnelle aux [[Jeux olympiques]] ?
 
