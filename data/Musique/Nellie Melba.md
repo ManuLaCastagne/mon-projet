@@ -22,11 +22,12 @@ indice_6:
   - Nom de scène tiré de Melbourne
 ---
 
+
 ![Image de Nellie Melba](https://upload.wikimedia.org/wikipedia/commons/6/69/Enrico_Caruso_-_Nellie_Melba_-_La_boh%C3%A8me_-_O_soave_fanciulla_%28restored%29.ogg)
 
 ###### Questions
 
-Quelle soprano née en 1861, sous le nom d'Helen Porter Mitchell, a été prima donna à [[Covent Garden]] pendant 40 ans ?
+Quelle soprano née en 1861, sous le nom d'Helen Porter Mitchell, a été prima donna à [[Covent Garden]] pendant 40 ans ? <!-- score: 5 -->
 
 Quel est le nom de la célèbre cantatrice australienne qui a inspiré la création du dessert [[Pêche Melba]] par le chef [[Auguste Escoffier]] ?
 
