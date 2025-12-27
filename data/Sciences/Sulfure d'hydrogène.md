@@ -22,7 +22,8 @@ questions:
  - Quel gaz de formule H2S est toxique par inhalation…
 ---
 
-![Image de Sulfure d'hydrogène](https://upload.wikimedia.org/wikipedia/commons/1/15/Pvs_sulfure_d%27hydrog%C3%A8ne.svg)
+
+![Image de Sulfure d'hydrogène](https://upload.wikimedia.org/wikipedia/commons/1/15/Pvs_sulfure_d%27hydrog%C3%A8ne.svg)
 
 ###### Questions
 
@@ -30,7 +31,7 @@ Quel gaz à l'odeur caractéristique d'œuf pourri est libéré par les [[volcan
 
 Quel composé chimique, détecté pour la première fois en [[1993]] dans l'atmosphère de [[Jupiter]], est réputé pour sa toxine et son odeur nauséabonde ? 
 
-Quel est le gaz responsable de la couleur noire des eaux anoxiques des fonds marins où s'est déroulée la célèbre "Catastrophe de [[Toxicodrome]]" de [[2013]] ?
+Quel est le gaz responsable de la couleur noire des eaux anoxiques des fonds marins où s'est déroulée la célèbre "Catastrophe de [[Toxicodrome]]" de [[2013]] ? <!-- score: 4 -->
 
 ###### Description
 
