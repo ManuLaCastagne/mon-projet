@@ -24,11 +24,12 @@ questions:
  - Chanteuse, auteure et compositrice britannique née en 1983, je signe mon 1er contrat à 16 ans et sors 4 ans plus tard mon 1er album intitulé "Frank" en hommage à Sinatra.  Récompensée en Grande-Bretagne pour "Stronger than me", en 2006 je publie...
 ---
 
+
 ![Image de Amy Winehouse](https://upload.wikimedia.org/wikipedia/commons/c/cf/Amy_Winehouse_f4962007_crop.jpg)
 
 ###### Questions
 
-Quelle chanteuse britannique a remporté un record de cinq [[Grammy Awards]] en une seule soirée en 2008 pour son album "[[Back to Black]]" ? 
+Quelle chanteuse britannique a remporté un record de cinq [[Grammy Awards]] en une seule soirée en 2008 pour son album "[[Back to Black]]" ? <!-- score: 7 -->
 
 Qui est l'artiste découvert en 2002 grâce à son apparition dans la compilation "[[The Soul Sound]], The Best of Today's Blue-Eyed Soul" avant de sortir son premier album l'année suivante ? 
 
