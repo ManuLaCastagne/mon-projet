@@ -28,6 +28,7 @@ questions:
 
 
 
+
 ![Image de Mer d'Irlande](https://upload.wikimedia.org/wikipedia/commons/5/52/Photo_on_the_Irish_Sea_outside_Dublin.jpg)
 
 ![[Carte_Mer d'Irlande.png]]
@@ -35,7 +36,7 @@ questions:
 
 Quel plan d'eau sépare principalement [[l'Irlande]] de [[la Grande-Bretagne]]? <!-- score: 7 -->
 
-Quel est le nom de la mer traversée par le [[tunnel de l’île de Man]] proposé en 2019? <!-- score: 2 -->
+Quel est le nom de la mer traversée par le [[tunnel de l’île de Man]] proposé en 2019? <!-- score: 4 -->
 
 Quelle mer est mentionnée dans le contexte des activités commerciales médiévales, notamment la construction du [[port de Chester]] au XIIe siècle?
 
