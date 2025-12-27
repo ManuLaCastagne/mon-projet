@@ -20,13 +20,14 @@ indice_6 :
   - Record de l'heure
 ---
 
+
 ![Image de Eddy Merckx](https://upload.wikimedia.org/wikipedia/commons/e/e8/Eddy_Merckx_Molteni_1973.jpg)
 
 ###### Questions
 
 Quel cycliste belge a remporté cinq fois le [[Tour de France]] entre [[1969]] et [[1974]] ?
 
-Quel grand champion a établi le record de l'heure en cyclisme avec une distance de [[49,431 km]] en [[octobre 1972]] à [[Mexico]] ?
+Quel grand champion a établi le record de l'heure en cyclisme avec une distance de [[49,431 km]] en [[octobre 1972]] à [[Mexico]] ? <!-- score: 4 -->
 
 Quel célèbre coureur est surnommé "le Cannibale" pour sa domination du cyclisme dans les années [[1960]] et [[1970]] ?
 
