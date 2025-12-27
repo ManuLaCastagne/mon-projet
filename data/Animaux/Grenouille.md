@@ -17,11 +17,12 @@ questions:
  - Quel amphibien sauteur et nageur, vivant au bord des étangs, est représenté par les espèces verte…
 ---
 
+
 ![Image de Grenouille](https://upload.wikimedia.org/wikipedia/commons/c/c6/Golden-eyed_tree_frog_%28Agalychnis_annae%29.jpg)
 
 ###### Questions
 
-Quel animal peut survivre à la congélation pendant l'hiver en [[Alaska]] ?
+Quel animal peut survivre à la congélation pendant l'hiver en [[Alaska]] ? <!-- score: 6 -->
 
 Quel amphibien a été le sujet d'une expérience célèbre par le [[biologiste]] [[Louis Pasteur]] en 1876 sur le [[rejet de la flore buccale]] ?
 
