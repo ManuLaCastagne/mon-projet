@@ -22,13 +22,14 @@ questions:
 ---
 
 
+
 ![Image de Eole](https://upload.wikimedia.org/wikipedia/commons/4/43/The_sculpture_Eole_in_the_port_of_Ouchy_01.jpg)
 
 ###### Questions
 
 Quel personnage de la [[mythologie grecque]], mentionné dans les écrits d'[[Homère]] en -762, était le gardien des vents ?  
 
-Qui, selon la mythologie, habite l'île flottante d'[[Éolie]], comme décrit par [[Hygin]] dans ses [[Fables]] ? <!-- score: 6 -->
+Qui, selon la mythologie, habite l'île flottante d'[[Éolie]], comme décrit par [[Hygin]] dans ses [[Fables]] ? <!-- score: 7 -->
 
 Quel figure de la [[mythologie grecque]] a reçu d'[[Ulysse]] une demande pour lui fournir des vents favorables lors de son voyage vers [[Ithaque]], conformément au récit de l'[[Odyssée]] au 8ème siècle avant J.-C. ?
 
