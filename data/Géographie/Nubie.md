@@ -26,12 +26,13 @@ questions:
   - Dans quelle région, s'étendant d'Assouan à Khartoum et comprenant la vallée du Nil, a-t-on déplacé la population lors de la création du lac Nasser?
 ---
 
+
 ![Image de Nubie](https://upload.wikimedia.org/wikipedia/commons/d/d0/Nubie%2C_by_Ernest_Benecke_%28Getty_107QP9%29.jpg)
 
 ![[Carte_Nubie.png]]
 ###### Questions
 
-Quel ancien royaume africain, situé le long du [[Nil]] au [[Soudan]] et dans le sud de l'[[Géographie/Égypte]], a servi de pont culturel entre l'[[Égypte antique]] et l'[[Afrique subsaharienne]] vers 2000 av. J.-C. ?
+Quel ancien royaume africain, situé le long du [[Nil]] au [[Soudan]] et dans le sud de l'[[Géographie/Égypte]], a servi de pont culturel entre l'[[Égypte antique]] et l'[[Afrique subsaharienne]] vers 2000 av. J.-C. ? <!-- score: 4 -->
 
 Quelle région historique a vu le développement de la civilisation [[koushite]], qui rivalisait avec l'[[Géographie/Égypte]] pendant la [[XXVe dynastie égyptienne]] établie en 747 av. J.-C. ?
 
