@@ -21,6 +21,7 @@ indice_6:
   - Roman tragique
 ---
 
+
 ![Image de Tendre est la nuit](https://upload.wikimedia.org/wikipedia/commons/1/1f/F._Scott_Fitzgerald_%281934_author_portrait_-_Tender_Is_the_Night%29.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans quel roman de [[Francis Scott Fitzgerald]], publié pour la première fois 
 
 Quel livre de [[F. Scott Fitzgerald]], considéré comme l'un de ses chefs-d'œuvre, examine les complexités des relations à travers la vie de [[Nicole Warren]] et [[Dick Diver]] dans les années 1920 ?
 
-Quel ouvrage de 1934 a marqué une collaboration entre [[F. Scott Fitzgerald]] et son éditeur [[Maxwell Perkins]], abordant les thèmes de la richesse, de la maladie mentale et de la déchéance sociale ?
+Quel ouvrage de 1934 a marqué une collaboration entre [[F. Scott Fitzgerald]] et son éditeur [[Maxwell Perkins]], abordant les thèmes de la richesse, de la maladie mentale et de la déchéance sociale ? <!-- score: 3 -->
 
 ###### Description
 
