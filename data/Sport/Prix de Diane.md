@@ -22,11 +22,12 @@ questions:
  - Sur l'hippodrome de Chantilly...
 ---
 
+
 ![Image de Prix de Diane](https://upload.wikimedia.org/wikipedia/commons/b/be/PodiumPrixdeDianeChantilly.jpg)
 
 ###### Questions
 
-Quelle célèbre course hippique française, exclusivement réservée aux pouliches de trois ans, a célébré son bicentenaire en [[2019]]?
+Quelle célèbre course hippique française, exclusivement réservée aux pouliches de trois ans, a célébré son bicentenaire en [[2019]]? <!-- score: 5 -->
 
 Quel événement sportif prestigieux, souvent comparé au [[Sport/Derby d'Epsom]] pour son importance dans le calendrier des courses, se déroule chaque année à l'hippodrome de [[Chantilly]] depuis [[1843]]?
 
