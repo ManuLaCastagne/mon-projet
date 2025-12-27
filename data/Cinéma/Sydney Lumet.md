@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Sydney Lumet](https://upload.wikimedia.org/wikipedia/commons/e/e4/SidneyLumet07TIFF.jpg)
 
 ###### Questions
 
 Dans quel film de [[Sidney Lumet]] sorti en 1957, l'action se déroule principalement dans une seule salle, avec pour intrigue principale un jury débattant d'une affaire de meurtre ? <!-- score: 10 -->
 
-Quel réalisateur emblématique du [[cinéma américain]] a dirigé [[Al Pacino]] dans le film "Serpico" sorti en 1973 ?
+Quel réalisateur emblématique du [[cinéma américain]] a dirigé [[Al Pacino]] dans le film "Serpico" sorti en 1973 ? <!-- score: 4 -->
 
 Quel film de [[Sidney Lumet]] paru en 1976 critique sévèrement le monde des médias et de la télévision, remportant quatre Oscars dont celui du meilleur acteur pour [[Peter Finch]] ?
 
