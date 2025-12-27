@@ -28,12 +28,13 @@ questions:
 ---
 
 
-![Image de Roque-d'Anthéron](https://upload.wikimedia.org/wikipedia/commons/f/fd/Festival_La_Roque_d%27Anth%C3%A9ron_Sc%C3%A8ne_principale_2017.jpg)
 
-![[Carte_Roque-d'Anthéron.png]]
+![Image de Roque-d'Anthéron](https://upload.wikimedia.org/wikipedia/commons/f/fd/Festival_La_Roque_d%27Anth%C3%A9ron_Sc%C3%A8ne_principale_2017.jpg)
+
+![[Carte_Roque-d'Anthéron.png]]
 ###### Questions
 
-Dans quelle commune française se déroule chaque été depuis 1981 le célèbre [[Festival International de Piano]]? <!-- score: 4 -->
+Dans quelle commune française se déroule chaque été depuis 1981 le célèbre [[Festival International de Piano]]? <!-- score: 3 -->
 
 Quel village provençal abrite le [[Parc du Château de Florans]], réputé pour ses concerts en plein air?
 
