@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Martin Cooper](https://upload.wikimedia.org/wikipedia/commons/1/1f/2007Computex_e21Forum-MartinCooper.jpg)
 
 ###### Questions
 
 En [[1973]], quel ingénieur a réalisé le tout premier appel téléphonique à partir d'un téléphone mobile portable, révolutionnant ainsi la téléphonie mobile ?
 
-Quel est le nom de l'inventeur américain qui a dirigé l'équipe de recherche chez [[Motorola]] pour développer le premier téléphone portable, rendu public en [[1973]] ?
+Quel est le nom de l'inventeur américain qui a dirigé l'équipe de recherche chez [[Motorola]] pour développer le premier téléphone portable, rendu public en [[1973]] ? <!-- score: 6 -->
 
 Qui est crédité de l'invention du premier téléphone cellulaire et a effectué le premier appel public sur un téléphone mobile le 3 avril [[1973]] ? <!-- score: 6 -->
 
