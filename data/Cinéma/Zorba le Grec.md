@@ -24,6 +24,7 @@ questions:
  - Marqué par l'effondrement d'un téléphérique destiné à exploiter une mine de lignite en Crète, je dois mon titre au personnage exubérant interprété par Anthony Quinn. Film de Michael Cacoyannis pour lequel fut inventé le sirtaki que les 2 héros dansent à la fin dans une scène mythique.
 ---
 
+
 ![Image de Zorba le Grec](https://upload.wikimedia.org/wikipedia/commons/3/38/Headshot_of_the_actor_Sir_Alan_Bates_%281960s%29.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel film, sorti en 1964, réalisé par [[Michael Cacoyannis]], est tiré du rom
 
 Quelle œuvre cinématographique mettant en vedette [[Anthony Quinn]] dans le rôle principal a remporté trois Oscars, dont celui de la meilleure photographie en noir et blanc ? 
 
-Dans quel film les spectateurs découvrent-ils le personnage d'[[Alexis Zorba]], un homme grec excentrique, sur une bande originale composée par [[Míkis Theodorakis]] ?
+Dans quel film les spectateurs découvrent-ils le personnage d'[[Alexis Zorba]], un homme grec excentrique, sur une bande originale composée par [[Míkis Theodorakis]] ? <!-- score: 6 -->
 
 ###### Description
 
