@@ -21,11 +21,12 @@ indice_6:
   - Véritable nom Paolo di Dono
 ---
 
+
 ![Image de Paolo Uccello](https://upload.wikimedia.org/wikipedia/commons/7/7d/Paolo_Uccello.jpg)
 
 ###### Questions
 
-A quel peintre italien, né en 1397, doit-on 3 panneaux représentant la [[Bataille de San Romano]], opposant Florence à Milan ?
+A quel peintre italien, né en 1397, doit-on 3 panneaux représentant la [[Bataille de San Romano]], opposant Florence à Milan ? <!-- score: 4 -->
 
 Quel peintre de la Renaissance, connu pour son usage pionnier de la perspective, a créé le triptyque de la [[Bataille de San Romano]] vers 1438 ?
 
