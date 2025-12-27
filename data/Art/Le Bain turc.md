@@ -25,11 +25,12 @@ questions:
  - Chef-d'oeuvre de Jean-Auguste-Dominique Ingres, montrant une scène de harem, d'où l'impératrice choquée évoquée au début de la question.
 ---
 
+
 ![Image de Le Bain turc](https://upload.wikimedia.org/wikipedia/commons/a/a9/Le_Bain_turc_-_F%C3%A9lix_Edouard_Vallotton.jpg)
 
 ###### Questions
 
-Quel tableau [[Jean-Auguste-Dominique Ingres]] a-t-il achevé en 1862, représentant un groupe de femmes prenant un bain dans un cadre orientalisant ?
+Quel tableau [[Jean-Auguste-Dominique Ingres]] a-t-il achevé en 1862, représentant un groupe de femmes prenant un bain dans un cadre orientalisant ? <!-- score: 4 -->
 
 Quelle œuvre d'art célèbre pour ses formes courbes et sensuelles a été commandée par le prince [[Napoléon Bonaparte]] avant d'être intégrée aux collections du [[Louvre]] ?
 
