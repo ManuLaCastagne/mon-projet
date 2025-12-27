@@ -16,13 +16,14 @@ indice_6 :
   - Tanacetum vulgare
 ---
 
+
 ![Image de Tanaisie](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tanacetum_vulgare_4_RF.jpg)
 
 ###### Questions
 
 Quelle plante vivace aux fleurs jaunes, souvent utilisée pour ses propriétés répulsives contre les insectes, est également connue sous le nom de [[Tanacetum vulgare]] ?
 
-Quel remède naturel, autrefois populaire dans la médecine traditionnelle européenne, est souvent préparé à partir des feuilles et des fleurs de cette plante aux propriétés vermifuges ?
+Quel remède naturel, autrefois populaire dans la médecine traditionnelle européenne, est souvent préparé à partir des feuilles et des fleurs de cette plante aux propriétés vermifuges ? <!-- score: 4 -->
 
 Quel membre de la famille des [[Astéracées]] est reconnaissable à ses fleurs jaunes en forme de boutons et est parfois utilisé en horticulture pour éloigner certains nuisibles ?
 
