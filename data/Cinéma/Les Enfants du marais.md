@@ -21,6 +21,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Les Enfants du marais](https://upload.wikimedia.org/wikipedia/commons/2/2e/Le_Marais%2C_BAL96.14-6.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Dans quel film de [[Jean Becker]], sorti en [[1999]], peut-on voir une adaptatio
 
 Quel long métrage réunit les acteurs [[Jacques Villeret]] et [[André Dussollier]] dans une touchante histoire de camaraderie face aux épreuves de la vie, sorti à la fin des années 1990 ?
 
-Quelle œuvre cinématographique, sortie en [[1999]], s'est vue nommée pour huit [[César]]s en [[2000]], sans toutefois en remporter un, et présente des paysages nostalgiques de la campagne française ? <!-- score: 4 -->
+Quelle œuvre cinématographique, sortie en [[1999]], s'est vue nommée pour huit [[César]]s en [[2000]], sans toutefois en remporter un, et présente des paysages nostalgiques de la campagne française ? <!-- score: 3 -->
 
 ###### Description
 
