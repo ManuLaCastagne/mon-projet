@@ -25,13 +25,14 @@ questions:
  - Tableau d'inspiration exotique  du Douanier Rousseau.  J'ai deux superchampionnes sur ce plateau.
 ---
 
+
 ![Image de Charmeuse de serpents](https://upload.wikimedia.org/wikipedia/commons/b/bf/Rousseau_-_La_Charmeuse_de_serpents%2C_en_1907%2C_RF_1937_7.jpg)
 
 ###### Questions
 
 Dans quelle œuvre de [[Henri Rousseau]], réalisée en 1907, observe-t-on un mélange de nature luxuriante et d'une femme mystérieuse tenant un serpent ?
 
-Quel tableau emblématique du [[musée d'Orsay]] représente une scène exotique avec une charmeuse de serpents, peint par [[Henri Rousseau]] ?
+Quel tableau emblématique du [[musée d'Orsay]] représente une scène exotique avec une charmeuse de serpents, peint par [[Henri Rousseau]] ? <!-- score: 6 -->
 
 En quelle année [[Henri Rousseau]] a-t-il achevé l'œuvre intitulée "La Charmeuse de serpents", exposée pour la première fois au [[Salon des Indépendants]] ?
 
