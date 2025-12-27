@@ -25,12 +25,13 @@ indice_6 :
 ---
 
 
+
 ![Image de Belmopan](https://upload.wikimedia.org/wikipedia/commons/c/c9/Belmopan_Parliament.jpg)
 
 ![[Carte_Belmopan.png]]
 ###### Questions
 
-Quelle ville est devenue la capitale du [[Belize]] en 1970 après que [[l'ouragan Hattie]] ait dévasté [[Belize City]] en 1961 ?
+Quelle ville est devenue la capitale du [[Belize]] en 1970 après que [[l'ouragan Hattie]] ait dévasté [[Belize City]] en 1961 ? <!-- score: 7 -->
 
 Quelle est la capitale située à environ 80 kilomètres à l'intérieur des terres et réputée pour être l'une des plus petites capitales du monde, avec une population de seulement environ 20 000 habitants ? <!-- score: 4 -->
 
