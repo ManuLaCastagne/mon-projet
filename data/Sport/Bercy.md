@@ -22,6 +22,7 @@ questions:
  - En 2011, dans quel quartier de Paris, abritant également le ministère de l'Economie, sont organisés les championnats d'Europe en salle?
 ---
 
+
 ![Image de Bercy](https://upload.wikimedia.org/wikipedia/commons/6/65/Pont_de_Bercy%2C_Paris_23_December_2021.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelle salle parisienne le premier [[Masters de tennis de Paris]] s'est-il 
 
 Quel palais omnisports accueille régulièrement les Internationaux de [[France de basket-ball]] depuis les années [[1990]] ? 
 
-Quel lieu à [[Paris]] abrite chaque année le [[Tournoi des Maîtres]] de [[badminton]] depuis sa création en [[2017]] ?
+Quel lieu à [[Paris]] abrite chaque année le [[Tournoi des Maîtres]] de [[badminton]] depuis sa création en [[2017]] ? <!-- score: 4 -->
 
 ###### Description
 
