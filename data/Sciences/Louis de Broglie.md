@@ -22,13 +22,14 @@ questions:
  - Quel physicien français né en 1892 a fondé la mécanique ondulatoire en montrant que tout corpuscule peut être considéré comme une onde ?
 ---
 
+
 ![Image de Louis de Broglie](https://upload.wikimedia.org/wikipedia/commons/8/89/Solvay_conference_1927_Version2.jpg)
 
 ###### Questions
 
 Quel physicien français, récipiendaire du prix Nobel de physique en [[1929]], est célèbre pour sa théorie de la dualité onde-particule ?
 
-Quel scientifique a proposé, en [[1924]], que les particules peuvent avoir des propriétés ondulatoires, ce qui a révolutionné notre compréhension de la mécanique quantique ?
+Quel scientifique a proposé, en [[1924]], que les particules peuvent avoir des propriétés ondulatoires, ce qui a révolutionné notre compréhension de la mécanique quantique ? <!-- score: 6 -->
 
 Quel membre de l'Académie des sciences et de l'Académie française a introduit le concept de la longueur d'onde associée à une particule de matière en [[1924]] ?
 
