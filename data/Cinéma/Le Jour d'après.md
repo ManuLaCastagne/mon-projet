@@ -24,6 +24,7 @@ questions:
  - En 2004, dans quel film catastrophe de Roland Emmerich un changement climatique à l'échelle...
 ---
 
+
 ![Image de Le Jour d'après](https://upload.wikimedia.org/wikipedia/commons/a/a6/BORDEAUX_D%C3%89CONFIN%C3%89_LE_JOUR_D%27APR%C3%88S_%284K%29.webm)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel film catastrophe sorti en 2004 un climatologue nommé [[Jack Hall]] te
 
 Quel film réalisé par [[Roland Emmerich]], explorant les conséquences désastreuses du changement climatique, a pour titre original [[The Day After Tomorrow]] ?
 
-Dans quelle œuvre cinématographique un brusque refroidissement cataclysmique déclenche-t-il des tempêtes sévères et plonge-t-il New York sous une épaisse couche de glace ?
+Dans quelle œuvre cinématographique un brusque refroidissement cataclysmique déclenche-t-il des tempêtes sévères et plonge-t-il New York sous une épaisse couche de glace ? <!-- score: 3 -->
 
 ###### Description
 
