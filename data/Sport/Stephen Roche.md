@@ -20,11 +20,12 @@ indice_6:
   - Maillot Arc-en-ciel
 ---
 
+
 ![Image de Stephen Roche](https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_ROCHE.jpg)
 
 ###### Questions
 
-Quel cycliste irlandais a remporté le [[Tour de France]], le [[Giro d'Italia]] et le [[Championnat du monde de cyclisme sur route]] en 1987 ?
+Quel cycliste irlandais a remporté le [[Tour de France]], le [[Giro d'Italia]] et le [[Championnat du monde de cyclisme sur route]] en 1987 ? <!-- score: 3 -->
 
 ###### Description
 
