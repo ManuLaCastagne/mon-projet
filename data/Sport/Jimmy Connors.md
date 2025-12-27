@@ -22,11 +22,12 @@ questions:
  - Quel joueur de tennis américain, surnommé Jimbo...
 ---
 
+
 ![Image de Jimmy Connors](https://upload.wikimedia.org/wikipedia/commons/9/97/Jimmy_Conners_1994.jpg)
 
 ###### Questions
 
-En 1984, quel joueur de tennis américain a remporté son dernier titre du [[US Open]] en simple hommes ? 
+En 1984, quel joueur de tennis américain a remporté son dernier titre du [[US Open]] en simple hommes ? <!-- score: 4 -->
 
 Quel joueur détient le record du plus grand nombre de victoires en simple dans l'histoire de l'[[US Open]] avec 98 matchs remportés au cours de sa carrière, atteignant ce total en 1992 ?
 
