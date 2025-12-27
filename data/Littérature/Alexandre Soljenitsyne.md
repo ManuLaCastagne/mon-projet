@@ -24,11 +24,12 @@ questions:
  - Auteur exilé du "Pavillon des cancéreux" et de "L'Archipel du goulag", je m'éteins en 2008 à l'âge de 89 ans, je suis…
 ---
 
+
 ![Image de Alexandre Soljenitsyne](https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_of_the_centre_culturel_alexandre_soljenitsyne_in_paris%2C_free_to_use.png)
 
 ###### Questions
 
-Quel auteur russe, célèbre pour ses écrits sur le [[Goulag]], a reçu le [[Prix Nobel de littérature]] en 1970 ?
+Quel auteur russe, célèbre pour ses écrits sur le [[Goulag]], a reçu le [[Prix Nobel de littérature]] en 1970 ? <!-- score: 4 -->
 
 Quel écrivain a été expulsé de l'[[Union soviétique]] en 1974 pour ses critiques acerbes contre le régime soviétique, notamment à travers son ouvrage "[[L'Archipel du Goulag]]" ?
 
