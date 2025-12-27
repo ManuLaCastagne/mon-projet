@@ -20,11 +20,12 @@ questions:
   - Quel événement sportif a eu lieu pour la première fois au VIIIe siècle avant J.-C ?
 ---
 
+
 ![Image de Jeux Olympiques](https://upload.wikimedia.org/wikipedia/commons/9/9b/Spyridis_-_Le_panorama_illustr%C3%A9_des_jeux_olympiques%2C_1895.png)
 
 ###### Questions
 
-Quel événement sportif a eu lieu pour la première fois au VIIIe siècle avant J.-C ?
+Quel événement sportif a eu lieu pour la première fois au VIIIe siècle avant J.-C ? <!-- score: 6 -->
 
 Dans quelle compétition inspirée par les légendaires jeux organisés en [[776 av. J.-C.]] à [[Olympie]], les dieux grecs se disputaient-ils les faveurs des mortels?
 
