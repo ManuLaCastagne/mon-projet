@@ -21,11 +21,12 @@ indice_6:
   - Katarina Witt
 ---
 
+
 ![Image de Calgary 1988](https://upload.wikimedia.org/wikipedia/commons/3/3a/1988_Olympic_Winter_Games_medals.JPG)
 
 ###### Questions
 
-Dans quelle ville ont eu lieu les premiers [[Jeux olympiques d'hiver]] à inclure le [[curling]] comme sport de démonstration en 1988 ?
+Dans quelle ville ont eu lieu les premiers [[Jeux olympiques d'hiver]] à inclure le [[curling]] comme sport de démonstration en 1988 ? <!-- score: 3 -->
 
 Quelle ville a accueilli les [[Jeux olympiques d'hiver de 1988]] où le saut du [[Calgary Tower]] a été une attraction célèbre ?
 
