@@ -21,13 +21,14 @@ indice_6:
 ---
 
 
+
 ![Image de Spirit of Saint-Louis](https://upload.wikimedia.org/wikipedia/commons/5/59/Charles_Lindbergh_and_the_Spirit_of_Saint_Louis_%28Crisco_restoration%2C_with_wings%29.jpg)
 
 ###### Questions
 
 Quel nom portait le petit avion à hélice à bord duquel Charles Lindbergh, évoqué par la chanson de R.Charlebois, a réussi la 1re traversée en solitaire et sans escale de l'Atlantique Nord en mai 1927 ?
 
-Quel est le nom de l'avion utilisé par [[Charles Lindbergh]] pour réaliser le premier vol transatlantique sans escale d'ouest en est en [[1927]] ? <!-- score: 2 -->
+Quel est le nom de l'avion utilisé par [[Charles Lindbergh]] pour réaliser le premier vol transatlantique sans escale d'ouest en est en [[1927]] ? <!-- score: 3 -->
 
 Quelle est l'appellation du monoplan spécialement conçu pour traverser l'[[Atlantique]] sans escale, piloté par [[Charles Lindbergh]] lors de son vol historique de [[New York]] à [[Paris]] ?
 
