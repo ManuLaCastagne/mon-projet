@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Pierre Durand](https://upload.wikimedia.org/wikipedia/commons/f/f9/Pierre_Durand_-_Grosbois2016_-_01.jpg)
 
 ###### Questions
 
-En quelle année [[Pierre Durand]] a-t-il remporté la médaille d'or en saut d'obstacles aux [[Jeux olympiques de Séoul]] avec le cheval [[Jappeloup]] ?
+En quelle année [[Pierre Durand]] a-t-il remporté la médaille d'or en saut d'obstacles aux [[Jeux olympiques de Séoul]] avec le cheval [[Jappeloup]] ? <!-- score: 8 -->
 
 Qui est le cavalier français célèbre pour sa victoire incroyable lors des [[Championnats du monde de saut d'obstacles]] de [[1986]] avec le célèbre cheval [[Jappeloup]] ? <!-- score: 3 -->
 
