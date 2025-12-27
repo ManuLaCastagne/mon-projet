@@ -29,14 +29,15 @@ questions:
 Ouisticram shiny   nacré
 ---
 
-![Image de Côte de Nacre](https://upload.wikimedia.org/wikipedia/commons/d/dc/Festyland-La_C%C3%B4te_de_Nacre%282%29.jpg)
 
-![[Carte_Côte de Nacre.png]]
+![Image de Côte de Nacre](https://upload.wikimedia.org/wikipedia/commons/d/dc/Festyland-La_C%C3%B4te_de_Nacre%282%29.jpg)
+
+![[Carte_Côte de Nacre.png]]
 ###### Questions
 
 En quelle région de [[Normandie]] la [[Côte de Nacre]] s'étend-elle le long de la [[Manche]] ?
 
-Quel est le nom de la côte normande qui abrite les célèbres plages du [[Débarquement]], telles que [[Juno Beach]], depuis 1944 ?
+Quel est le nom de la côte normande qui abrite les célèbres plages du [[Débarquement]], telles que [[Juno Beach]], depuis 1944 ? <!-- score: 3 -->
 
 Comment s'appelle la côte située entre [[Courseulles-sur-Mer]] et [[Ouistreham]], connue pour ses plages historiques et ses paysages préservés ?
 
