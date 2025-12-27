@@ -20,11 +20,12 @@ indice_6:
   - Red Baron
 ---
 
+
 ![Image de Baron rouge](https://upload.wikimedia.org/wikipedia/commons/7/77/Nirvana_Studios_%E2%80%A2_Custom_Circus%E2%80%A2_Le_Baron_Rouge_%28aka_Tiago_Borges%29_in_Bizarre_Chic.png)
 
 ###### Questions
 
-Quel surnom, faisant référence à un ancien as de l'aviation, a-t-on donné à l'ex-pilote automobile allemand [[Michael Schumacher]] ?
+Quel surnom, faisant référence à un ancien as de l'aviation, a-t-on donné à l'ex-pilote automobile allemand [[Michael Schumacher]] ? <!-- score: 6 -->
 
 Comment surnommait-on le célèbre aviateur allemand [[Manfred von Richthofen]], qui a marqué l'histoire de l'aviation pendant la [[Première Guerre mondiale]] en accumulant un total de 80 victoires aériennes avant sa mort en 1918 ?
 
