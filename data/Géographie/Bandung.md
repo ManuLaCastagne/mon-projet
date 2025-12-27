@@ -26,6 +26,7 @@ questions:
  - Quelle ville d'Indonésie est célèbre pour sa conférence ayant réuni 29 pays ?
 ---
 
+
 ![Image de Bandung](https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandung_city_at_night_%282517163687%29.jpg)
 
 ![[Carte_Bandung.png]]
@@ -33,7 +34,7 @@ questions:
 
 Dans quelle ville d'[[Indonésie]] s'est tenu la première conférence afro-asiatique célèbre pour avoir eu lieu en 1955 ? 
 
-Quelle ville est la capitale de la région de [[Java occidental]], une île majeure de l'[[Indonésie]] ?
+Quelle ville est la capitale de la région de [[Java occidental]], une île majeure de l'[[Indonésie]] ? <!-- score: 4 -->
 
 Quelle ville d'[[Indonésie]] est surnommée la "Parijs van Java" pour son architecture coloniale néerlandaise et son climat tempéré ?
 
