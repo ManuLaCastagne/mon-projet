@@ -21,6 +21,7 @@ questions:
 ---
 
 
+
 ![Image de Belisama](https://upload.wikimedia.org/wikipedia/commons/a/ad/D%C3%A9dicace_de_Segomaros_%28inscription_gallo-grecque%29.png)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel nom porte la déesse du Feu et de la Forge du panthéon celtique ?
 
 Quel est le nom de la déesse celte associée à la lumière et au feu, souvent comparée à [[Minerve]] dans les écrits de [[Lucain]] datant du Ier siècle après J.-C. ? <!-- score: 4 -->
 
-Quelle divinité gauloise, référencée dans le [[Pantheon]] trouvé à [[Autun]] au IIIe siècle, était souvent célébrée pour son rôle dans l'artisanat et la métallurgie ?
+Quelle divinité gauloise, référencée dans le [[Pantheon]] trouvé à [[Autun]] au IIIe siècle, était souvent célébrée pour son rôle dans l'artisanat et la métallurgie ? <!-- score: 3 -->
 
 Comment se nomme la déité mentionnée dans l'inscription retrouvée à [[Vaison-la-Romaine]] en 1840, honorée pour sa connexion avec les cours d'eau et la civilisation gauloise ?
 
