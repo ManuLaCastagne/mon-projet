@@ -23,11 +23,12 @@ questions:
  - Quel scientifique autrichien a observé que l'oie cendrée adoptait des comportements proches de ceux des êtres humains ?
 ---
 
+
 ![Image de Konrad Lorenz](https://upload.wikimedia.org/wikipedia/commons/a/a1/Konrad_Lorenz.JPG)
 
 ###### Questions
 
-En quelle année [[Konrad Lorenz]] a-t-il reçu le [[Prix Nobel de physiologie ou médecine]] pour ses travaux sur le comportement animal ?
+En quelle année [[Konrad Lorenz]] a-t-il reçu le [[Prix Nobel de physiologie ou médecine]] pour ses travaux sur le comportement animal ? <!-- score: 5 -->
 
 Quel scientifique autrichien célèbre pour ses recherches sur le comportement inné des oiseaux est né en 1903 à [[Vienne]] ?
 
