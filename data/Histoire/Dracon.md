@@ -22,11 +22,12 @@ questions:
  - Quel législateur athénien rédigea vers 621 avant notre ère un code des lois resté célèbre pour la rigueur des pénalités?
 ---
 
+
 ![Image de Dracon](https://upload.wikimedia.org/wikipedia/commons/5/5b/Dodona_dracon_395.png)
 
 ###### Questions
 
-[[Quel législateur]] grec, célèbre pour ses lois extrêmement sévères, a instauré en [[621 avant J.-C.]] un ensemble de règles punissant la plupart des crimes par la mort ? 
+[[Quel législateur]] grec, célèbre pour ses lois extrêmement sévères, a instauré en [[621 avant J.-C.]] un ensemble de règles punissant la plupart des crimes par la mort ? <!-- score: 6 -->
 
 [[Qui est connu]] pour avoir introduit à [[Athènes]] un système de lois écrites, remplaçant ainsi les règles orales et coutumières existantes ?
 
