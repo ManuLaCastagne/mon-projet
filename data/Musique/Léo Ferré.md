@@ -24,11 +24,12 @@ questions:
  - Quel chanteur déclare   "Avec le temps va, tout s'en va" ?
 ---
 
-![Image de Léo Ferré](https://upload.wikimedia.org/wikipedia/commons/8/8e/LeoFerre-Rome-1972.png)
+
+![Image de Léo Ferré](https://upload.wikimedia.org/wikipedia/commons/8/8e/LeoFerre-Rome-1972.png)
 
 ###### Questions
 
-Quel célèbre chanteur-poète a été l'un des premiers artistes à utiliser un orchestre symphonique dans une chanson, notamment dans l'album "[[Amour Anarchie]]" sorti en 1970 ?
+Quel célèbre chanteur-poète a été l'un des premiers artistes à utiliser un orchestre symphonique dans une chanson, notamment dans l'album "[[Amour Anarchie]]" sorti en 1970 ? <!-- score: 6 -->
 
 Quel artiste a mis en musique les poèmes de [[Charles Baudelaire]] dans l'album "[[Léo Ferré chante Baudelaire]]" en 1957 ?
 
