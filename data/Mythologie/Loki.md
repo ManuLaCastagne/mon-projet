@@ -21,11 +21,12 @@ questions:
 ---
 
 
+
 ![Image de Loki](https://upload.wikimedia.org/wikipedia/commons/c/cb/Louis_Huard_-_The_Punishment_of_Loki.jpg)
 
 ###### Questions
 
-Dans la mythologie nordique, qui est le père de [[Jörmungandr]], le serpent de Midgard, et de [[Fenrir]], le loup géant ? <!-- score: 4 -->
+Dans la mythologie nordique, qui est le père de [[Jörmungandr]], le serpent de Midgard, et de [[Fenrir]], le loup géant ? <!-- score: 3 -->
 
 Quel dieu de la mythologie nordique est connu pour sa capacité à changer de forme, notamment en prenant celle d'une jument, d'un saumon, et d'une vieille femme ?
 
