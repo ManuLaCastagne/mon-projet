@@ -20,11 +20,12 @@ indice_6 :
   - influente à la cour franque
 ---
 
+
 ![Image de Judith de Bavière](https://upload.wikimedia.org/wikipedia/commons/5/50/Judith_of_Bavaria_%28cropped%29.jpg)
 
 ###### Questions
 
-Quelle épouse de [[Louis le Pieux]], couronnée impératrice des [[Romains]] en [[819]], était également la belle-mère de [[Charles le Chauve]] ?  
+Quelle épouse de [[Louis le Pieux]], couronnée impératrice des [[Romains]] en [[819]], était également la belle-mère de [[Charles le Chauve]] ? <!-- score: 2 -->
 
 Qui était la mère d'[[Étienne V]] de Hongrie, née en [[805]] et ayant joué un rôle crucial dans la politique de son temps ?  
 
