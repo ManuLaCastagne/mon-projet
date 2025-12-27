@@ -22,13 +22,14 @@ questions:
  - Constituant le prolongement  d'une émission radiophonique homonyme, mit à honneur les chanteurs yé-yé?
 ---
 
+
 ![Image de Salut les copains](https://upload.wikimedia.org/wikipedia/commons/8/87/Le_Petit_Prince_SLC.jpg)
 
 ###### Questions
 
 Quelle émission de [[radio]] pour [[adolescents]] a popularisé le terme "copains" en [[France]] à partir de [[1959]] ?
 
-Quel nom portait la célèbre émission de [[radio]] présentée par [[Daniel Filipacchi]] diffusée pour la première fois le 19 octobre [[1959]] ?
+Quel nom portait la célèbre émission de [[radio]] présentée par [[Daniel Filipacchi]] diffusée pour la première fois le 19 octobre [[1959]] ? <!-- score: 2 -->
 
 Quel programme a inspiré le magazine jeunesse du même nom lancé en [[1962]] et considéré comme le précurseur d'[[OK Podium]] ?
 
