@@ -24,6 +24,7 @@ indice_6 :
   - Site historique de la Mosquée Fakr ad-Din
 ---
 
+
 ![Image de Mogadiscio](https://upload.wikimedia.org/wikipedia/commons/c/c8/Mogadishu.png)
 
 ![[Carte_Mogadiscio.png]]
@@ -31,7 +32,7 @@ indice_6 :
 
 Dans quelle ville [[somalienne]] se trouvait la plus grande base de l'[[Histoire/ONU]] en Afrique de l'Est jusqu'à son retrait en 1995 ?
 
-Quelle ville a vu naître l'auteur de l'hymne national somalien en 1959, connu sous le nom de "Soomaaliyeey toosoo" ?
+Quelle ville a vu naître l'auteur de l'hymne national somalien en 1959, connu sous le nom de "Soomaaliyeey toosoo" ? <!-- score: 7 -->
 
 Dans quelle capitale [[africaine]] a eu lieu l'opération militaire américaine [[Restaurer l'espoir]] en 1993 ?
 
