@@ -17,13 +17,14 @@ questions:
  - Quel mammifère carnassier a été introduite aux Antilles pour contrôler les populations...
 ---
 
+
 ![Image de Belette](https://upload.wikimedia.org/wikipedia/commons/c/c9/Mustela-nivalis.jpg)
 
 ###### Questions
 
 Quel animal est connu pour sa danse hypnotique qui perturbe ses proies, une technique observée pour la première fois en [[2020]] par les chercheurs de l'[[Université d'Oxford]] ?
 
-Quel petit carnivore a eu l'honneur d'être élu « animal le plus mignon du [[Yorkshire Wildlife Park]] » en [[2017]], avant d'être détrôné par le [[panda roux]] ?
+Quel petit carnivore a eu l'honneur d'être élu « animal le plus mignon du [[Yorkshire Wildlife Park]] » en [[2017]], avant d'être détrôné par le [[panda roux]] ? <!-- score: 4 -->
 
 Quel mustélidé a été choisi par la [[Royal Society for the Protection of Birds]] en [[2009]] pour participer à un projet de conservation visant à contrôler la population de [[campagnols]] dans les [[terres arables britanniques]] ?
 
