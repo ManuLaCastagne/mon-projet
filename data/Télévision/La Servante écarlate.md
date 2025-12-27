@@ -24,11 +24,12 @@ questions:
 
 
 
+
 ![Image de La Servante écarlate](https://upload.wikimedia.org/wikipedia/commons/6/6e/The-handmaid-s-tale.png)
 
 ###### Questions
 
-Dans quelle série télévisée de [[2017]] produite par [[Hulu]], les femmes sont-elles forcées de devenir des servantes reproductrices dans la république dystopique de [[Gilead]] ?
+Dans quelle série télévisée de [[2017]] produite par [[Hulu]], les femmes sont-elles forcées de devenir des servantes reproductrices dans la république dystopique de [[Gilead]] ? <!-- score: 6 -->
 
 Quelle série dramatique a remporté huit [[Emmy Awards]] en [[2017]], dont celui de la meilleure série dramatique, et est basée sur le roman de [[Margaret Atwood]] publié en [[1985]] ?
 
