@@ -24,13 +24,14 @@ questions:
  - Quelle actrice sud-africaine n'a pas hésité à prendre une quinzaine de kilos pour incarner une tueuse en série dans le film "Monster"?
 ---
 
+
 ![Image de Charlize Theron](https://upload.wikimedia.org/wikipedia/commons/5/5d/Charlize-theron-IMG_6045.jpg)
 
 ###### Questions
 
 Quel rôle iconique a valu à [[Charlize Theron]] de remporter l'[[Oscar de la meilleure actrice]] en 2004, après s'être transformée physiquement pour incarner une tueuse en série ?
 
-Quel film réalisé par [[George Miller]] en 2015 met en scène [[Charlize Theron]] en tant que [[Furiosa]], un personnage ayant marqué la saga post-apocalyptique [[Mad Max]] ?
+Quel film réalisé par [[George Miller]] en 2015 met en scène [[Charlize Theron]] en tant que [[Furiosa]], un personnage ayant marqué la saga post-apocalyptique [[Mad Max]] ? <!-- score: 5 -->
 
 Quel film d'animation produit par [[Laika]] en 2016 voit [[Charlize Theron]] prêter sa voix à un personnage nommé [[Monkey]], marquant sa contribution à ce genre cinématographique ?
 
