@@ -24,6 +24,7 @@ questions:
  - Quel roman de Chateaubriand conte les amours de deux sauvages dans le désert ?
 ---
 
+
 ![Image de Atala](https://upload.wikimedia.org/wikipedia/commons/9/96/Atala_-_tragedia_in_tre_parti_%28IA_atalatragediaint00sapi%29.pdf)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel roman écrit par [[Châteaubriand]] en 1801, l'histoire d'amour entre 
 
 Quelle œuvre littéraire, publiée en 1801, explore les thèmes du catholicisme et du mythe du bon sauvage, illustrée par les personnages de Chactas et [[Atala]] ?
 
-Dans quel récit, écrit par [[Châteaubriand]] et publié au tout début du [[XIXe siècle]], une jeune femme choisit de se sacrifier par fidélité à ses vœux religieux, marquant ainsi la littérature romantique ?
+Dans quel récit, écrit par [[Châteaubriand]] et publié au tout début du [[XIXe siècle]], une jeune femme choisit de se sacrifier par fidélité à ses vœux religieux, marquant ainsi la littérature romantique ? <!-- score: 3 -->
 
 ###### Description
 
