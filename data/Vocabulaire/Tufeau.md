@@ -16,6 +16,7 @@ indice_6 :
   - Patrimoine architectural
 ---
 
+
 ![Image de Tufeau](https://upload.wikimedia.org/wikipedia/commons/f/fa/LochesTuffeau.JPG)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quelle roche sédimentaire tendre est principalement utilisée dans la construct
 
 Quel matériau emblématique des bâtiments de [[Tours]] a contribué à façonner l'architecture lumineuse caractéristique de cette ville ?
 
-Comment appelle-t-on la pierre calcaire blanche qui est extraite principalement dans la région du [[Maine-et-Loire]] et utilisée pour la sculpture et l'édification de monuments ?
+Comment appelle-t-on la pierre calcaire blanche qui est extraite principalement dans la région du [[Maine-et-Loire]] et utilisée pour la sculpture et l'édification de monuments ? <!-- score: 2 -->
 
 ###### Description
 
