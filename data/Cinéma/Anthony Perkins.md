@@ -21,11 +21,12 @@ indice_6 :
 ---
 
 
+
 ![Image de Anthony Perkins](https://upload.wikimedia.org/wikipedia/commons/9/92/APerkinsPublicityStill.jpg)
 
 ###### Questions
 
-Quel acteur américain, célèbre pour son rôle iconique dans le film [[Psycho]] d'[[Alfred Hitchcock]] en 1960, a marqué l'histoire du cinéma d'horreur ? <!-- score: 2 -->
+Quel acteur américain, célèbre pour son rôle iconique dans le film [[Psycho]] d'[[Alfred Hitchcock]] en 1960, a marqué l'histoire du cinéma d'horreur ? <!-- score: 3 -->
 
 En 1961, quel acteur a été nommé pour l'[[Oscar]] du meilleur second rôle pour le film [[Feux de joie]], galvanisant ainsi sa carrière ?
 
