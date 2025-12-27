@@ -18,11 +18,12 @@ indice_6 :
 
 
 
+
 ![Image de Topette](https://upload.wikimedia.org/wikipedia/commons/8/8d/Topette_de_poche.JPG)
 
 ###### Questions
 
-Quelle expression de la région de [[Touraine]] peut signifier "au revoir" ou "prends soin de toi" ? <!-- score: 3 -->
+Quelle expression de la région de [[Touraine]] peut signifier "au revoir" ou "prends soin de toi" ? <!-- score: 4 -->
   
 Quel mot d'origine [[angevine]] est souvent utilisé en guise de salutation ou pour dire au revoir ? <!-- score: 4 -->
   
