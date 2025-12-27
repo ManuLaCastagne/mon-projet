@@ -24,6 +24,7 @@ indice_6:
 ---
 
 
+
 ![Image de Vouvray](https://upload.wikimedia.org/wikipedia/commons/d/d1/The_town_of_Vouvray.jpg)
 
 ![[Carte_Vouvray.png]]
@@ -35,7 +36,7 @@ Quelle commune troglodyte de la région [[Centre-Val de Loire]] est célèbre po
 
 Quel village a vu la production de son vin reconnu AOC en 1936, situé près de la ville de [[Tours]] ? 
 
-Dans quelle commune peut-on visiter les célèbres caves troglodytiques, autrefois utilisées pour l'extraction de tuffeau ?
+Dans quelle commune peut-on visiter les célèbres caves troglodytiques, autrefois utilisées pour l'extraction de tuffeau ? <!-- score: 4 -->
 
 ###### Description
 
