@@ -25,6 +25,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Freetown](https://upload.wikimedia.org/wikipedia/commons/6/62/MV_Karadeniz_Powership_Do%C4%9Fan_Bey%2C_Freetown%2C_Sierra_Leone.jpg)
 
 ![[Carte_Freetown.png]]
