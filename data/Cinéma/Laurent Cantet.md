@@ -22,11 +22,12 @@ indice_6:
   - 2008
 ---
 
+
 ![Image de Laurent Cantet](https://upload.wikimedia.org/wikipedia/commons/4/4a/Laurent_Cantet_Cannes_2008.jpg)
 
 ###### Questions
 
-Quel réalisateur français a remporté la [[Palme d'or]] au Festival de Cannes en 2008 avec le film [[Entre les murs]] ?  
+Quel réalisateur français a remporté la [[Palme d'or]] au Festival de Cannes en 2008 avec le film [[Entre les murs]] ? <!-- score: 3 -->
 
 En 2008, quel réalisateur reçoit la Palme d'or à Cannes pour son film "Entre les murs" adapté du livre de [[François Bégaudeau]] ?
 
