@@ -30,12 +30,13 @@ questions:
 
 
 
+
 ![Image de Syracuse](https://upload.wikimedia.org/wikipedia/commons/d/d7/Syracuse_NY.jpg)
 
 ![[Carte_Syracuse.png]]
 ###### Questions
 
-Quel est le nom de la ville historique située sur l'île de [[Sicile]], fondée aux alentours de [[734 av. J.-C.]] par des colons [[Corinthiens]] ? <!-- score: 3 -->
+Quel est le nom de la ville historique située sur l'île de [[Sicile]], fondée aux alentours de [[734 av. J.-C.]] par des colons [[Corinthiens]] ? <!-- score: 4 -->
 
 Quelle ville a été le siège d'un célèbre siège militaire par les [[Romains]] en [[212 av. J.-C.]], au cours duquel l'ingénieur [[Archimède]] a utilisé des miroirs pour brûler les navires ennemis ?
 
