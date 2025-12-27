@@ -21,13 +21,14 @@ indice_6 :
   - match visuel
 ---
 
+
 ![Image de Dobble](https://upload.wikimedia.org/wikipedia/commons/8/84/Dobble_jeu.jpg)
 
 ###### Questions
 
 Quel jeu de société créé en 2009 a pour but de repérer le plus rapidement possible le symbole commun entre deux cartes différentes ?
 
-Quel jeu a été conçu par l'auteur [[Denis Blanchot]] et édité par [[Asmodée]], basé sur la reconnaissance visuelle rapide ?
+Quel jeu a été conçu par l'auteur [[Denis Blanchot]] et édité par [[Asmodée]], basé sur la reconnaissance visuelle rapide ? <!-- score: 4 -->
 
 Quel jeu de cartes est inspiré des propriétés mathématiques du [[Graphe de Paley]] et a connu un succès mondial depuis son lancement en 2009 ?
 
