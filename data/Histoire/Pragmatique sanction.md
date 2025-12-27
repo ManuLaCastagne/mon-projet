@@ -20,13 +20,14 @@ indice_6:
   - lois fondamentales
 ---
 
+
 ![Image de Pragmatique sanction](https://upload.wikimedia.org/wikipedia/commons/1/1f/La_succession_du_feu_empereur_Charles_VI%2C_dernier_prince_d%27Autriche%2C_telle_que_la_reine_d%27Hongrie_pr%C3%A9tend_la_poss%C3%A9der_en_faveur_de_la_Pragmatique_sanction_-_btv1b84456973.jpg)
 
 ###### Questions
 
 Quelle décision juridique de [[1713]] a établi la succession au trône d'[[Autriche]] en permettant à [[Marie-Thérèse]] de devenir impératrice ?
 
-En 1713, par quel acte l'empereur d'Allemagne Charles VI assura-t-il sa succession à sa fille Marie-Thérèse ?
+En 1713, par quel acte l'empereur d'Allemagne Charles VI assura-t-il sa succession à sa fille Marie-Thérèse ? <!-- score: 4 -->
 
 ###### Description
 
