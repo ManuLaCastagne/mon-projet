@@ -20,11 +20,12 @@ questions:
  - Dans la [[mythologie égyptienne]], quelle ancienne divinité, rapidement assimilée à Ré, donna naissance aux dieux Chou et Tefnout?
 ---
 
+
 ![Image de Atoum](https://upload.wikimedia.org/wikipedia/commons/1/10/Atum_%28God%29.png)
 
 ###### Questions
 
-Quel est le nom du dieu créateur dans la [[mythologie égyptienne]] associé à [[Héliopolis]] et considéré comme une forme de [[Rê]] ? 
+Quel est le nom du dieu créateur dans la [[mythologie égyptienne]] associé à [[Héliopolis]] et considéré comme une forme de [[Rê]] ? <!-- score: 3 -->
 
 Quel dieu égyptien, mentionné dans les textes des pyramides datant d'environ [[XXVe siècle av. J.-C.]], était représenté en train de se créer lui-même à partir du [[Nun]] ?
 
