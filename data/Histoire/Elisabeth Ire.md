@@ -20,11 +20,12 @@ indice_6:
   - Renaissance anglaise
 ---
 
+
 ![Image de Elisabeth Ire](https://upload.wikimedia.org/wikipedia/commons/7/76/En-Elizabeth_I_of_England-combined.ogg)
 
 ###### Questions
 
-Quel monarque anglais, ayant régné de 1558 à 1603, était surnommé la [[Reine Vierge]] et a supervisé l'[[âge d'or]] du [[Royaume d'Angleterre]] ?
+Quel monarque anglais, ayant régné de 1558 à 1603, était surnommé la [[Reine Vierge]] et a supervisé l'[[âge d'or]] du [[Royaume d'Angleterre]] ? <!-- score: 6 -->
 
 Quelle souveraine a établi le premier [[théâtre permanent]] d'[[Angleterre]] appelé le [[Theatre]] en 1576, fondant ainsi l'ère d'[[Elizabethan Theatre]] ?
 
