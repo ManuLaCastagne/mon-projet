@@ -25,13 +25,14 @@ questions:
  - De 1947 à 1952, quelle unité d'habitation fortement décriée, surnommée la maison du fada, Le Corbusier construisit-il à Marseille?
 ---
 
+
 ![Image de Cité radieuse](https://upload.wikimedia.org/wikipedia/commons/8/8e/Appartement_t%C3%A9moin_cit%C3%A9_radieuse_%C3%A0_rez%C3%A9_02.jpg)
 
 ###### Questions
 
 Quel bâtiment, conçu par l'architecte [[Le Corbusier]] et inauguré en 1952, est également connu sous le nom de [[Unité d'habitation de Marseille]] ?
 
-Quel exemple emblématique d'[[architecture moderne]] se situe dans le quartier de [[Sainte-Anne à Marseille]] et est souvent surnommé "la [[Maison du Fada]]" ?
+Quel exemple emblématique d'[[architecture moderne]] se situe dans le quartier de [[Sainte-Anne à Marseille]] et est souvent surnommé "la [[Maison du Fada]]" ? <!-- score: 8 -->
 
 Laquelle des œuvres architecturales de [[Le Corbusier]] est inscrite au [[patrimoine mondial de l'UNESCO]] depuis 2016 ?
 
