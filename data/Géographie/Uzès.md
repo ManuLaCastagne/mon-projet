@@ -26,16 +26,17 @@ questions:
  - C'est la tour Fenestrelle,  unique exemple en France de campanile rond. Dans quelle ville du Gard peut-on admirer...
 ---
 
-![Image de Uzès](https://upload.wikimedia.org/wikipedia/commons/7/7a/Uz%C3%A8s_hdsr_A80_IMG_3718.jpg)
 
-![[Carte_Uzès.png]]
+![Image de Uzès](https://upload.wikimedia.org/wikipedia/commons/7/7a/Uz%C3%A8s_hdsr_A80_IMG_3718.jpg)
+
+![[Carte_Uzès.png]]
 ###### Questions
 
 Quel village a été le premier à posséder un [[ducs de France]], titre attribué en 1565 par [[Charles IX]] ?
 
 Quelle ville abrite la [[Tour Fenestrelle]], célèbre pour sa structure [[romane]] unique en France ?
 
-Quel lieu est le point de départ de l'ancien [[aqueduc]] qui alimentait [[Nîmes]] en eau, dont le fameux [[Pont du Gard]] fait partie intégrante, construit au 1er siècle après J.-C. ?
+Quel lieu est le point de départ de l'ancien [[aqueduc]] qui alimentait [[Nîmes]] en eau, dont le fameux [[Pont du Gard]] fait partie intégrante, construit au 1er siècle après J.-C. ? <!-- score: 7 -->
 
 ###### Description
 
