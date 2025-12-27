@@ -23,11 +23,12 @@ questions:
   - Quel roman d'Hemingway situe les retrouvailles d'un lieutenant américain et d'une infirmière dans un hôtel de Stresa en Italie ?
 ---
 
+
 ![Image de Adieu aux Armes](https://upload.wikimedia.org/wikipedia/commons/b/b3/Adieu_aux_armes_d%27Yves_Demay.jpg)
 
 ###### Questions
 
-Dans quel roman d'Hemingway le lieutenant Frederick Henry et une infirmière fuient-ils le [[lac Majeur]] après la [[bataille de Caporetto]] ?
+Dans quel roman d'Hemingway le lieutenant Frederick Henry et une infirmière fuient-ils le [[lac Majeur]] après la [[bataille de Caporetto]] ? <!-- score: 2 -->
 
 ###### Description
 
