@@ -26,12 +26,13 @@ questions:
  - Ville dans laquelle sont nés le cuisinier Georges Blanc et l'humoriste Laurent Gerra, je suis évoqué par Paul Nizan, qui y enseigna la philosophie, dans l'ouvrage "Présentation d'une ville".  Centre d'une région agricole située au nord-est de Lyon...
 ---
 
+
 ![Image de Bourg-en-Bresse](https://upload.wikimedia.org/wikipedia/commons/b/b1/Plaque_M%C3%A9moire_Agents_SNCF_Tu%C3%A9s_WWII_Gare_Bourg_Bresse_-_Bourg-en-Bresse_%28FR01%29_-_2024-03-21_-_1.jpg)
 
 ![[Carte_Bourg-en-Bresse.png]]
 ###### Questions
 
-Dans quelle ville française, célèbre pour son architecture, se trouve le monastère royal de [[Brou]], achevé en 1532 et considéré comme un chef-d'œuvre du style gothique flamboyant ? 
+Dans quelle ville française, célèbre pour son architecture, se trouve le monastère royal de [[Brou]], achevé en 1532 et considéré comme un chef-d'œuvre du style gothique flamboyant ? <!-- score: 3 -->
 
 Quelle ville du département de l'[[Ain]] a été la première à accueillir le [[Circuit de Bourg-en-Bresse]] en 1978, un circuit automobile régulièrement utilisé pour des compétitions de karting ?
 
