@@ -17,11 +17,12 @@ questions:
  - Quel insecte aquatique, également appelé "tourniquet", doit son nom courant au fait qu'il tournoie à la surface des eaux?
 ---
 
+
 ![Image de Gyrin](https://upload.wikimedia.org/wikipedia/commons/3/3a/Entomologie%2C_ou%2C_Histoire_naturelle_des_insectes_%28No._41_Gyrin_Pl._I%29_%288112705427%29.jpg)
 
 ###### Questions
 
-Dans quel groupe d'insectes se trouve le « tourniquet des rivières », un coléoptère aquatique dont le nom commun fait référence à ses mouvements circulaires ?
+Dans quel groupe d'insectes se trouve le « tourniquet des rivières », un coléoptère aquatique dont le nom commun fait référence à ses mouvements circulaires ? <!-- score: 3 -->
 
 Quel insecte, connu pour ses capacités à nager en tournoyant à la surface de l'eau, appartient à la famille des [[Gyrinidae]] découverte scientifique en [[1758]] ?
 
