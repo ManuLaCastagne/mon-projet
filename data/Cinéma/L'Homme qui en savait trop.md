@@ -24,11 +24,12 @@ questions:
  - Dans quel film d'Hitchcock le compositeur Bernard Hermann joue-t-il son propre rôle dans une scène où un tueur est censé supprimer un homme politique?
 ---
 
+
 ![Image de L'Homme qui en savait trop](https://upload.wikimedia.org/wikipedia/commons/6/64/The_Man_Who_Knew_Too_Much_trailer_screenshot_Doris_Day_Que_Sera%2C_Sera.jpg)
 
 ###### Questions
 
-Quel film [[Alfred Hitchcock]] a-t-il réalisé en deux versions, l'une en 1934 et un remake amélioré en 1956, tous deux intitulés [[L'Homme qui en savait trop]] ?
+Quel film [[Alfred Hitchcock]] a-t-il réalisé en deux versions, l'une en 1934 et un remake amélioré en 1956, tous deux intitulés [[L'Homme qui en savait trop]] ? <!-- score: 5 -->
 
 Quel film, sorti en 1956, met en vedette [[James Stewart]] et [[Doris Day]] dans un thriller où une famille américaine est impliquée dans un complot d'assassinat international, sous la direction d'[[Alfred Hitchcock]] ?
 
