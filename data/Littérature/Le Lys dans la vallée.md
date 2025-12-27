@@ -24,7 +24,6 @@ questions:
  - Quel roman de Balzac se présente sous la forme d'une lettre dans laquelle Félix de Vandenesse avoue à sa bien-aimée une relation passée?
 ---
 
-
 ![Image de Le Lys dans la vallée](https://upload.wikimedia.org/wikipedia/commons/0/03/Le_Lys_dans_la_vall%C3%A9e_-_Honor%C3%A9_Balzac_-_traduction_catalane_1929.jpg)
 
 ###### Questions
@@ -33,8 +32,7 @@ Dans quel roman de [[Honoré de Balzac]], publié en 1836, le personnage de [[F�
 
 Quel ouvrage de la série des [[Scènes de la vie de province]], appartenant à [[La Comédie humaine]], explore les thèmes de l'amour impossible et des dilemmes moraux à travers le personnage d'[[Henriette de Mortsauf]] ?
 
-Dans quelle œuvre majeure du courant littéraire du [[Romantisme]] français, l'auteur [[Émile Zola]] a-t-il exprimé son admiration pour la sublime peinture des paysages de la vallée de l'[[Indre]] ? <!-- score: 3 -->
-
+Dans quelle œuvre majeure du courant littéraire du [[Romantisme]] français, l'auteur a-t-il exprimé son admiration pour la sublime peinture des paysages de la vallée de l'[[Indre]] ? <!-- score: 3 -->
 ###### Description
 
 [[Le Lys dans la vallée]] est un roman de [[Honoré de Balzac]], publié en 1836, qui fait partie de la série [[La Comédie humaine]]. 
