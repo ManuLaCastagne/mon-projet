@@ -22,13 +22,14 @@ questions:
  - En janvier 2021, quel ancien défenseur argentin du club est devenu...
 ---
 
+
 ![Image de Mauricio Pochettino](https://upload.wikimedia.org/wikipedia/commons/8/8a/Mauricio_Pochettino_2016_%28cropped%29.jpg)
 
 ###### Questions
 
 Quel ancien joueur de [[football]] argentin a été nommé entraîneur du [[Paris Saint-Germain]] en janvier [[2021]] ?
 
-Quel entraîneur a conduit le [[Tottenham Hotspur]] à sa première finale de [[Ligue des champions de l'UEFA]] en [[2019]] ?
+Quel entraîneur a conduit le [[Tottenham Hotspur]] à sa première finale de [[Ligue des champions de l'UEFA]] en [[2019]] ? <!-- score: 6 -->
 
 Quel ancien défenseur central argentin a joué pour le [[Paris Saint-Germain]] avant de devenir leur entraîneur principal en [[2021]] ?
 
