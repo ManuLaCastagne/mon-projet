@@ -22,6 +22,7 @@ indice_6 :
   - Spider-Man
 ---
 
+
 ![Image de Marvel](https://upload.wikimedia.org/wikipedia/commons/d/d5/Norman_Saunders_-_cover_of_Marvel_Science_Stories_for_April-May_1939.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel studio a produit le film [[Avengers: Infinity War]], qui a atteint un milli
 
 Quel univers cinématographique a débuté avec le film [[Iron Man]] sorti en 2008 ?
 
-Quelle société a été acquise par [[The Walt Disney Company]] en 2009 pour 4 milliards de dollars, incluant tous ses super-héros ?
+Quelle société a été acquise par [[The Walt Disney Company]] en 2009 pour 4 milliards de dollars, incluant tous ses super-héros ? <!-- score: 4 -->
 
 ###### Description
 
