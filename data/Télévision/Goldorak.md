@@ -22,11 +22,12 @@ questions:
  - A partir de 1978, quel célèbre robot géant de dessin animé piloté par Actarus…
 ---
 
+
 ![Image de Goldorak](https://upload.wikimedia.org/wikipedia/commons/5/54/Grendizer_U_Logo.png)
 
 ###### Questions
 
-Quel dessin animé, créé en [[1975]], est devenu un phénomène culturel en [[France]] lors de sa diffusion à la télévision à partir de [[1978]] ?
+Quel dessin animé, créé en [[1975]], est devenu un phénomène culturel en [[France]] lors de sa diffusion à la télévision à partir de [[1978]] ? <!-- score: 4 -->
 
 Quelle série animée japonaise est devenue le premier programme télévisé animé diffusé en couleurs sur [[Antenne 2]] en [[1978]] ?
 
