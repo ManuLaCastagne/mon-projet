@@ -23,11 +23,12 @@ indice_6:
 ---
 
 
+
 ![Image de Julie Christie](https://upload.wikimedia.org/wikipedia/commons/9/94/Julie_Christie_%281997%29_%282%29.jpg)
 
 ###### Questions
 
-En 1966, quelle actrice interprète les rôles de Clarisse et de Linda dans "Fahrenheit 451", issu du livre de Ray Bradbury ? <!-- score: 4 -->
+En 1966, quelle actrice interprète les rôles de Clarisse et de Linda dans "Fahrenheit 451", issu du livre de Ray Bradbury ? <!-- score: 3 -->
 
 Quel rôle féminin du [[Docteur Jivago]] sorti en 1965 a remporté l'[[Oscar de la meilleure actrice]] pour son rôle révolutionnaire ?
 
