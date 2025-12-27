@@ -24,11 +24,12 @@ questions:
  - En 2011, pour quel film le réalisateur américain Terrence Malick a-t-il reçu la Palme d'or du festival de Cannes?
 ---
 
+
 ![Image de The Tree of life](https://upload.wikimedia.org/wikipedia/commons/d/de/Tree_of_life_by_Haeckel.jpg)
 
 ###### Questions
 
-Quel film de [[Terrence Malick]] a remporté la [[Palme d'or]] au Festival de Cannes en 2011 ?
+Quel film de [[Terrence Malick]] a remporté la [[Palme d'or]] au Festival de Cannes en 2011 ? <!-- score: 4 -->
 
 Quel long-métrage de [[Brad Pitt]] et [[Jessica Chastain]], sorti en 2011, explore les thèmes de l'existence humaine et de l'univers avec une narration non linéaire ?
 
