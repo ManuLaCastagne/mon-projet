@@ -15,13 +15,14 @@ indice_6:
   - Conservation et protection des primates
 ---
 
+
 ![Image de Jane Goodall](https://upload.wikimedia.org/wikipedia/commons/d/dc/Jane_Goodall_HK.jpg)
 
 ###### Questions
 
 Quelle primatologue s'est installée en Tanzanie pour mes recherches sur le terrain ? 
 
-Quelle primatologue est connue pour ses travaux sur le [[chimpanzé]], et a permis de reconsidérer la place de l'homme, des primates, et des autres animaux dans le règne animal ?
+Quelle primatologue est connue pour ses travaux sur le [[chimpanzé]], et a permis de reconsidérer la place de l'homme, des primates, et des autres animaux dans le règne animal ? <!-- score: 7 -->
 
 Dans le Gombe Stream, qui a commencé ses observations révolutionnaires sur certains animaux en 1960 ?  
 
