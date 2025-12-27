@@ -21,6 +21,7 @@ indice_6:
   - Livingston
 ---
 
+
 ![[Carte_chutes Victoria.png]]
 
 ###### Questions
@@ -29,7 +30,7 @@ Quelle merveille naturelle, située à la frontière entre la [[Zambie]] et le [
 
 Quel site naturel est connu localement sous le nom de [[Mosi-oa-Tunya]], ce qui signifie "la fumée qui gronde", et mesure environ 1 708 mètres de large ?
 
-Quelle spectaculaire chute d'eau, considérée comme l'une des sept merveilles naturelles du monde et dont le débit moyen atteint 1,088 mètres cubes par seconde pendant la saison des crues, est alimentée par le fleuve [[Zambèze]] ?
+Quelle spectaculaire chute d'eau, considérée comme l'une des sept merveilles naturelles du monde et dont le débit moyen atteint 1,088 mètres cubes par seconde pendant la saison des crues, est alimentée par le fleuve [[Zambèze]] ? <!-- score: 6 -->
 
 ###### Description
 
