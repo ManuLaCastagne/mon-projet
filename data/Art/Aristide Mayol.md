@@ -25,6 +25,7 @@ questions:
  - De 1902 à 1905, quel sculpteur français célèbre pour ses femmes plantureuses, réalisa le nu féminin "La Méditerranée" ?
 ---
 
+
 ![Image de Aristide Mayol](https://upload.wikimedia.org/wikipedia/commons/9/96/Catalogue_Francis_Salabert_%281884-1946%29_%C3%A9ditions_-_%E2%80%9CLes_chansons_de_la_Lib%C3%A9ration_et_de_la_Victoire%E2%80%9D_%28verso_%E2%80%9CElle_vendait_des_p%E2%80%99tits_g%C3%A2teaux_-_r%C3%A9pertoire_Mayol%E2%80%9D%29_-1950_r%C3%A9-%C3%A9dition_de_1924-_%28M%C3%A9diHAL_1367745%29.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel sculpteur français, célèbre pour ses représentations de figures fémini
 
 Quel artiste a vu son œuvre [[La Méditerranée]] acquis par l'État français en 1896 pour le [[Musée du Luxembourg]], marquant un tournant dans sa carrière ?
 
-Quel créateur, utilisé dans une compétition visant à concevoir le [[Logo des Jeux Olympiques d'été de 1924]] à [[Paris]], a également inspiré le nom d'un célèbre groupe de musique ?
+Quel créateur, utilisé dans une compétition visant à concevoir le [[Logo des Jeux Olympiques d'été de 1924]] à [[Paris]], a également inspiré le nom d'un célèbre groupe de musique ? <!-- score: 3 -->
 
 ###### Description
 
