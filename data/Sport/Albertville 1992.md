@@ -22,13 +22,14 @@ indice_6:
 ---
 
 
+
 ![Image de Albertville 1992](https://upload.wikimedia.org/wikipedia/commons/d/da/1992_Winter_Olympics_Albertville_monument.JPG)
 
 ###### Questions
 
 Quel événement sportif d'envergure internationale a marqué la France en hiver et a été inauguré par le président [[François Mitterrand]] ? <!-- score: 4 -->
 
-Quelle ville française a accueilli les [[Jeux olympiques d'hiver]] pour la toute première fois en 1992 ? 
+Quelle ville française a accueilli les [[Jeux olympiques d'hiver]] pour la toute première fois en 1992 ? <!-- score: 8 -->
 
 Quelle compétition a révélé pour la première fois en 1992 le programme de ski freestyle aux [[Jeux olympiques]], se tenant dans cette ville française ?
 
