@@ -24,13 +24,14 @@ questions:
  - Quel écrivain français, auteur d'un "Journal littéraire" publié entre 1954 et 1966, a recueilli 300 chats et 150 chiens au cours de sa vie?
 ---
 
-![Image de Paul Léautaud](https://upload.wikimedia.org/wikipedia/commons/a/ab/L%C3%A9autaud_en_1920.jpg)
+
+![Image de Paul Léautaud](https://upload.wikimedia.org/wikipedia/commons/a/ab/L%C3%A9autaud_en_1920.jpg)
 
 ###### Questions
 
 Quel écrivain français, né en 1872 et connu pour son célèbre [[Journal littéraire]], a été une figure anticonformiste de la scène littéraire parisienne ?
 
-Quel auteur, qui a travaillé comme critique dramatique pour le [[Mercure de France]] en 1904, est réputé pour son esprit caustique et ses anecdotes mémorables sur la vie littéraire à [[Paris]] ?
+Quel auteur, qui a travaillé comme critique dramatique pour le [[Mercure de France]] en 1904, est réputé pour son esprit caustique et ses anecdotes mémorables sur la vie littéraire à [[Paris]] ? <!-- score: 3 -->
 
 Quel écrivain, dont l'œuvre est marquée par une forte influence autobiographique, a vécu en reclus avec de nombreux chats dans sa maison de [[Fontenay-aux-Roses]] jusqu'à sa mort en 1956 ?
 
