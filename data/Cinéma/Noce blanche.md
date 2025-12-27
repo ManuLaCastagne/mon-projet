@@ -24,6 +24,7 @@ questions:
  - En 1989, dans quel film de Jean-Claude Brisseau Vanessa Paradis incarne-t-elle une lycéenne qui tombe amoureuse de son professeur, interprété par Bruno Cremer ?
 ---
 
+
 ![Image de Noce blanche](https://upload.wikimedia.org/wikipedia/commons/e/ef/Little_girl_wearing_a_white_wedding_dress_1.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel film de 1990, [[Vanessa Paradis]] a-t-elle fait ses débuts au cinéma
 
 Quel film controversé aborde la relation entre une élève de 17 ans et son professeur de philosophie avec [[Gérard Depardieu]] dans le rôle principal ?
 
-Quel long-métrage a valu à [[Vanessa Paradis]] le [[César du Meilleur Espoir Féminin]] en 1990 ?
+Quel long-métrage a valu à [[Vanessa Paradis]] le [[César du Meilleur Espoir Féminin]] en 1990 ? <!-- score: 3 -->
 
 ###### Description
 
