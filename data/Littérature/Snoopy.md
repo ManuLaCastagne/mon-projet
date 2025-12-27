@@ -24,6 +24,7 @@ questions:
  - Dans la BD "Les Peanuts", quel chien, vivant sur le toit de sa niche, devient l'ami d'un oiseau nommé Woodstock?
 ---
 
+
 ![Image de Snoopy](https://upload.wikimedia.org/wikipedia/commons/7/7a/Snoopy_Town_Yokohama.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel personnage de bande dessinée, créé par [[Charles M. Schulz]] en 1950, es
 
 Dans quelle année le personnage de [[Snoopy]] a-t-il fait sa première apparition dans le strip de bande dessinée [[Peanuts]] aux États-Unis ?
 
-Quel compagnon animal de [[Charlie Brown]], connu sous le nom de [[Snoopy]], a remporté le titre de personnage animé préféré lors de l'année 2000 dans des sondages populaires aux États-Unis ?
+Quel compagnon animal de [[Charlie Brown]], connu sous le nom de [[Snoopy]], a remporté le titre de personnage animé préféré lors de l'année 2000 dans des sondages populaires aux États-Unis ? <!-- score: 5 -->
 
 ###### Description
 
