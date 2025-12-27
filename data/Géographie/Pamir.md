@@ -26,6 +26,7 @@ questions:
  - On cherche ce massif montagneux partagé entre le Tadjikistan et la Chine...
 ---
 
+
 ![Image de Pamir](https://upload.wikimedia.org/wikipedia/commons/b/ba/Map_of_Pamir_languages.png)
 
 ![[Carte_Pamir.png]]
@@ -33,7 +34,7 @@ questions:
 
 Quel est le nom du [[plateau]] situé à la jonction de plusieurs importantes chaînes de [[montagnes]] d'[[Asie centrale]], souvent considéré comme le "Toit du monde" ?
 
-Quel est le nom de la région montagneuse d'[[Asie]] où furent conduites des explorations par l'[[Empire britannique]] à la fin du [[19e siècle]], notamment par [[George Nathaniel Curzon]] en 1896 ?
+Quel est le nom de la région montagneuse d'[[Asie]] où furent conduites des explorations par l'[[Empire britannique]] à la fin du [[19e siècle]], notamment par [[George Nathaniel Curzon]] en 1896 ? <!-- score: 4 -->
 
 Quel est le nom de la région qui abrite le nœud orographique central reliée aux systèmes des [[Himalaya]], du [[Karakoram]], et du [[Kunlun]], célèbre pour ses conditions climatiques extrêmes et ses altitudes élevées ?
 
