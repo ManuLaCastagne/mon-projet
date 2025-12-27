@@ -25,12 +25,13 @@ questions:
 ---
 
 
+
 ![Image de Sarajevo](https://upload.wikimedia.org/wikipedia/commons/e/e3/Sarajevo_City_Panorama.JPG)
 
 ![[Carte_Sarajevo.png]]
 ###### Questions
 
-Quel événement tragique s'est produit à [[Sarajevo]] le 28 juin 1914, déclenchant la Première Guerre mondiale ?
+Quel événement tragique s'est produit à [[Sarajevo]] le 28 juin 1914, déclenchant la Première Guerre mondiale ? <!-- score: 8 -->
 
 Dans quelle ville historique se sont tenus les [[Jeux olympiques d'hiver]] de 1984 ? <!-- score: 3 -->
 
