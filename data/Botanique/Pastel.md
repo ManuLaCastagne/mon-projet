@@ -15,11 +15,12 @@ indice_6:
   - Teinture naturelle bleue
 ---
 
+
 ![Image de Pastel](https://upload.wikimedia.org/wikipedia/commons/8/84/Haltern_am_See%2C_Lavesum%2C_K%C3%BCnstlerhof%2C_Pastellkreide_--_2021_--_5719.jpg)
 
 ###### Questions
 
-Quelle plante tinctoriale qu'on utilisait déjà dans l'Égypte ancienne pour teindre les bandelettes des momies a des feuilles qui contiennent un colorant bleu ?
+Quelle plante tinctoriale qu'on utilisait déjà dans l'Égypte ancienne pour teindre les bandelettes des momies a des feuilles qui contiennent un colorant bleu ? <!-- score: 3 -->
 
 ###### Description
 
