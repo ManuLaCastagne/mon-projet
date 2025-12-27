@@ -25,11 +25,12 @@ questions:
  - Dans la série romanesque d'Emile Zola, quelle blanchisseuse, fille d'Antoine Macquart, apparaît dans "La Fortune des Rougon"...
 ---
 
+
 ![Image de Les Rougon-Macquart](https://upload.wikimedia.org/wikipedia/commons/f/f5/Arbre_genealogique_des_Rougon-Macquart_annot%C3%A9.jpg)
 
 ###### Questions
 
-Dans quelle série littéraire, écrite par [[Émile Zola]] entre 1871 et 1893, retrouve-t-on une enquête sociale de la société du [[Second Empire français]] à travers vingt romans interconnectés ?
+Dans quelle série littéraire, écrite par [[Émile Zola]] entre 1871 et 1893, retrouve-t-on une enquête sociale de la société du [[Second Empire français]] à travers vingt romans interconnectés ? <!-- score: 6 -->
 
 Quelle œuvre monumentale, qui a commencé avec la publication de [[La Fortune des Rougon]] en 1871, se propose d'étudier les effets de l'hérédité et du milieu social sur une même famille ?
 
