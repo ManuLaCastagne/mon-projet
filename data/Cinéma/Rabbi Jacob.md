@@ -24,6 +24,7 @@ questions:
  - En 1973, dans une célèbre comédie  de Gérard Oury, de quel rabbin Louis de Funès prend-il l'identité en se déguisant?
 ---
 
+
 ![Image de Rabbi Jacob](https://upload.wikimedia.org/wikipedia/commons/7/76/RabbiJacob-couleur.png)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel film français de [[Gérard Oury]], sorti en 1973, se déroule en grande pa
 
 Dans quel film [[Louis de Funès]] joue-t-il le rôle d'un industriel grincheux qui finit par se déguiser en rabbin ?
 
-Quel film célèbre une scène de danse devenue emblématique, interprétée par [[Louis de Funès]], sur une musique yiddish entraînante ?
+Quel film célèbre une scène de danse devenue emblématique, interprétée par [[Louis de Funès]], sur une musique yiddish entraînante ? <!-- score: 9 -->
 
 ###### Description
 
