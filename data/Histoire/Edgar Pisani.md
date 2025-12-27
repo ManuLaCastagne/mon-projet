@@ -22,11 +22,12 @@ questions:
  - En 1984, quel ancien résistant ex-ministre sous la présidence de Charles de Gaulle, est chargé de gérer la crise en Nouvelle-Calédonie ?
 ---
 
+
 ![Image de Edgar Pisani](https://upload.wikimedia.org/wikipedia/commons/1/13/Edgard_Pisani_1964.jpg)
 
 ###### Questions
 
-Quel homme politique, ancien ministre de [[l'Agriculture]] sous [[Charles de Gaulle]], a créé en [[1962]] le premier plan de modernisation agricole de la France ?
+Quel homme politique, ancien ministre de [[l'Agriculture]] sous [[Charles de Gaulle]], a créé en [[1962]] le premier plan de modernisation agricole de la France ? <!-- score: 3 -->
 
 Quel ancien [[ministre]] a été nommé en [[1981]] par le président [[François Mitterrand]] à la tête de l'[[Institut du Monde arabe]] à [[Paris]] ?
 
