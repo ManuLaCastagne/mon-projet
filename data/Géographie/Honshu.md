@@ -23,6 +23,7 @@ indice_6:
   - Osaka
 ---
 
+
 ![Image de Honshu](https://upload.wikimedia.org/wikipedia/commons/7/71/Satellite_image_of_Honshu_in_May_2003.png)
 
 ![[Carte_Honshu.png]]
@@ -32,7 +33,7 @@ Quelle île, située dans l'anse naturelle de la baie de Wakasu et anciennement 
 
 Quelle est l'île du Japon qui abrite la plus grande métropole du monde, [[Tokyo]], dont la population a atteint 37 millions d'habitants en 2021 ?
 
-Quelle île abrite le célèbre [[volcan]] [[Mont Fuji]], un symbole du Japon situé à 3 776 mètres d'altitude, et qui est entré en éruption pour la dernière fois en 1707 ?
+Quelle île abrite le célèbre [[volcan]] [[Mont Fuji]], un symbole du Japon situé à 3 776 mètres d'altitude, et qui est entré en éruption pour la dernière fois en 1707 ? <!-- score: 6 -->
 
 Sur quelle île du Japon peut-on trouver la ville historique de [[Kyoto]], ancienne capitale impériale du Japon qui a été le siège du gouvernement jusqu'en 1869 ?
 
