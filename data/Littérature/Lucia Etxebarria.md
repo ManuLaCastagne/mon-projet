@@ -24,13 +24,14 @@ questions:
  - En 2017, quelle femme de lettres espagnole a publié "Le Don empoisonné de la folie", 20 ans après "Amour, Prozac et autre curiosités"?
 ---
 
+
 ![Image de Lucia Etxebarria](https://upload.wikimedia.org/wikipedia/commons/4/40/Lucia_Etxebarria1.jpg)
 
 ###### Questions
 
 Quel auteur espagnol a remporté le [[Prix Planeta]] en 2004 avec son roman "[[Un milagro en equilibrio]]" ?
 
-Quel écrivain a étudié à l'[[Université Complutense de Madrid]] et est souvent associée au mouvement littéraire de la [[Nueva Narrativa]] dans les années 1990 ?
+Quel écrivain a étudié à l'[[Université Complutense de Madrid]] et est souvent associée au mouvement littéraire de la [[Nueva Narrativa]] dans les années 1990 ? <!-- score: 4 -->
 
 Quelle romancière, née en 1966, a aiguisé son style distinctif en combinant des thèmes controversés avec une exploration de la psyché féminine, notamment dans "[[Amor, curiosidad, prozac y dudas]]" ?
 
