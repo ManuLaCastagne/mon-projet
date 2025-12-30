@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Léon Gambetta](https://upload.wikimedia.org/wikipedia/commons/d/d0/%28Cahors%29_Portrait_de_L%C3%A9on_Gambetta_par_Bocquet_1865_-_Mus%C3%A9e_de_Cahors_Henri-Martin.jpg)
 
 ###### Questions
 
-Quel célèbre homme politique français du XIXe siècle a utilisé un ballon pour quitter [[Paris assiégé]] et rejoindre [[Tours]] en 1870 ? <!-- score: 4 -->
+Quel célèbre homme politique français du XIXe siècle a utilisé un ballon pour quitter [[Paris assiégé]] et rejoindre [[Tours]] en 1870 ? <!-- score: 3 -->
 
 Qui est devenu ministre de l'Intérieur du [[Gouvernement de la Défense nationale]] en [[1870]] ?
 
