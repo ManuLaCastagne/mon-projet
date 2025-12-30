@@ -20,6 +20,7 @@ indice_6:
   - capitulation britannique
 ---
 
+
 ![Image de Bataille de Yorktown](https://upload.wikimedia.org/wikipedia/commons/b/b4/Panoramic_View_of_the_Siege_of_Yorktown_by_Simeon_Fort.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ En 1781, quelle bataille les Franco-Américains de George Washington et Rochambe
 
 Quel événement de l’année [[1781]] a officiellement marqué la fin des opérations militaires significatives pendant la [[Révolution américaine]] ?
 
-Lors de quelle bataille les forces combinées des [[États-Unis]] et de la France ont-elles vaincu les [[Britanniques]], forçant ainsi la reddition du général [[Cornwallis]] ?
+Lors de quelle bataille les forces combinées des [[États-Unis]] et de la France ont-elles vaincu les [[Britanniques]], forçant ainsi la reddition du général [[Cornwallis]] ? <!-- score: 5 -->
 
 La victoire décisive de quelle bataille a permis aux [[États-Unis]] de débuter les négociations qui ont mené au [[Traité de Paris]] en [[1783]] ?
 
