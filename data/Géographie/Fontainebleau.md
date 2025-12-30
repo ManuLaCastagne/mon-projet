@@ -26,6 +26,7 @@ questions:
  - Quel château  de Seine-et-Marne reconstruit pour François Ier est à l'origine d'une école artistique ?
 ---
 
+
 ![Image de Fontainebleau](https://upload.wikimedia.org/wikipedia/commons/e/ef/Palace_of_Fontainebleau%2C_France_-_July_2011.jpg)
 
 ![[Carte_Fontainebleau.png]]
@@ -35,7 +36,7 @@ Quelle célèbre forêt française, associée à la chasse royale et s'étendant
 
 Quel château, inscrit au [[patrimoine mondial de l'UNESCO]], a été une résidence des souverains français du XIIe au XIXe siècle et a notamment vu la signature du [[Traité de Fontainebleau]] en 1814 ?
 
-Quel lieu en [[Île-de-France]] abritait autrefois une école d'art qui a donné naissance à une école de peinture influente au milieu du XVIe siècle, connue sous le nom de [[École de Fontainebleau]] ?
+Quel lieu en [[Île-de-France]] abritait autrefois une école d'art qui a donné naissance à une école de peinture influente au milieu du XVIe siècle, connue sous le nom de [[École de Fontainebleau]] ? <!-- score: 5 -->
 
 Quelle ville d'Île-de-France possède une école d'[[équitation]] réputée ?
 
