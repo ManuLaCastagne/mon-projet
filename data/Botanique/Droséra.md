@@ -15,11 +15,12 @@ indice_6:
   - Utilisée en médecine traditionnelle pour traiter la toux et les infections respiratoires
 ---
 
-![Image de Droséra](https://upload.wikimedia.org/wikipedia/commons/0/06/Drosera_rotundifolia_leaf1.jpg)
+
+![Image de Droséra](https://upload.wikimedia.org/wikipedia/commons/0/06/Drosera_rotundifolia_leaf1.jpg)
 
 ###### Questions
 
-Quelle plante, également appelée herbe à la rosée et [[rossolis]], a la particularité de capturer les insectes grâce à des sécrétions collantes ?
+Quelle plante, également appelée herbe à la rosée et [[rossolis]], a la particularité de capturer les insectes grâce à des sécrétions collantes ? <!-- score: 4 -->
 
 ###### Description
 
