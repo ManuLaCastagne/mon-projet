@@ -6,7 +6,7 @@
       {
         "id": "121adab4fc57a041",
         "type": "tabs",
-        "dimension": 50.53995680345572,
+        "dimension": 66.42984014209591,
         "children": [
           {
             "id": "6ca3aa9b0430f04f",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Orlando.md",
+                "file": "Architecture/Cathédrale d'Amiens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orlando"
+              "title": "Cathédrale d'Amiens"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -28,7 +28,7 @@
       {
         "id": "f9d62fbde3db0998",
         "type": "tabs",
-        "dimension": 49.46004319654428,
+        "dimension": 33.57015985790409,
         "children": [
           {
             "id": "3b18be18a8a65fd7",
@@ -36,14 +36,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Orlando.md",
+                "file": "Architecture/Cathédrale d'Amiens.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -186,12 +186,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 1.4271094938889841,
+                  "scale": 1.822227880605861,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Orlando"
+              "title": "Graphique de Cathédrale d'Amiens"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -227,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aviateur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "08fb69aeffa85077",
@@ -354,35 +355,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ca3aa9b0430f04f",
+  "active": "028c50878b1df9c9",
   "lastOpenFiles": [
-    "Géographie/Lake Eola.md",
-    "Géographie/Orlando.md",
-    "Géographie/Kirghizistan.md",
-    "Géographie/Vallée de Fergana.md",
-    "Géographie/Issyk-Koul.md",
-    "Géographie/Och.md",
-    "Géographie/Tadjikistan.md",
-    "Géographie/Pamir.md",
-    "Géographie/Îles Féroé.md",
-    "Listes/États de l'Union Européenne.md",
-    "Géographie/Streymoy.md",
-    "Géographie/Torshavn.md",
-    "Architecture/Santiago Calatrava.md",
-    "Géographie/Valencia.md",
-    "Géographie/Liège.md",
-    "Géographie/Caluire-et-Cuire.md",
-    "Cinéma/Ghostbusters.md",
-    "Cinéma/Ivan Reitman.md",
-    "Cinéma/SOS Fantômes.md",
+    "Vocabulaire/Langue de belle-mère.md",
+    "Télévision/Liliane Bettencourt.md",
     "Musique/Ray Parker Junior.md",
-    "Géographie/Vouvray.md",
-    "Valencia.md",
-    "attachments/Carte_Valencia.png",
-    "Architecture/Trinity College.md",
-    "Architecture/gare de Lyon-Saint-Exupéry.md",
+    "Histoire/Patton.md",
+    "Géographie/Vallée de Fergana.md",
+    "Géographie/Valencia.md",
+    "Géographie/Torshavn.md",
+    "Géographie/Tadjikistan.md",
+    "Géographie/Streymoy.md",
+    "Géographie/Och.md",
+    "Géographie/Lake Eola.md",
+    "Géographie/Kirghizistan.md",
+    "Géographie/Issyk-Koul.md",
+    "Géographie/Caluire-et-Cuire.md",
+    "Cinéma/La Femme la plus riche du monde.md",
+    "Cinéma/L'homme qui rétrécit.md",
+    "Cinéma/Ivan Reitman.md",
+    "Cinéma/Ghostbusters.md",
+    "Architecture/Santiago Calatrava.md",
+    "Culture générale/gothique.md",
     "Architecture/Cathédrale d'Amiens.md",
-    "Architecture/Villa Rotonda.md",
+    "Architecture/Robert de Luzarches.md",
+    "Cinéma/Henry Fonda.md",
+    "Animaux/Épervier.md",
+    "Cinéma/Melvil Poupaud.md",
+    "Cinéma/La Fille de 15 ans.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
