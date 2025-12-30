@@ -17,11 +17,12 @@ indice_6 :
 ---
 
 
+
 ![Image de Nagaïka](https://upload.wikimedia.org/wikipedia/commons/1/14/%D0%9A%D0%B0%D0%BC%D1%87%D0%B0_%D0%B8%D0%B7_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_v1.jpg)
 
 ###### Questions
 
-Quel est le nom du fouet traditionnel utilisé par les [[Cosaques]] dans les régions de [[Russie]] et d'[[Ukraine]] ? <!-- score: 4 -->
+Quel est le nom du fouet traditionnel utilisé par les [[Cosaques]] dans les régions de [[Russie]] et d'[[Ukraine]] ? <!-- score: 3 -->
 
 Comment appelle-t-on l'accessoire souvent associé à la vie équestre et militaire des [[Cosaques]] ?
 
