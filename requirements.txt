@@ -8,3 +8,5 @@ selenium
 scikit-learn
 spotipy
 pyvis
+chromium
+chromium-driver
