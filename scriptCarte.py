@@ -148,9 +148,9 @@ def fiche_to_carte(nom):
         mosaic.paste(img, (x, y))
 
     # 💾 Sauvegarder le résultat
-    mosaic.save(f"/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance/attachments/Carte_{nom}.png")
-    compresser_image_jpeg(f"/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance/attachments/Carte_{nom}.png", f"/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance/attachments/Carte_{nom}.png", quality=90)
-    print(f"/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance/attachments/Carte_{nom}.png enregistrée.")
+    mosaic.save(f"/data/attachments/Carte_{nom}.png")
+    compresser_image_jpeg(f"/data/attachments/Carte_{nom}.png", f"/data/attachments/Carte_{nom}.png", quality=90)
+    print(f"/data/attachments/Carte_{nom}.png enregistrée.")
 
     # Fermer le navigateur
     driver.quit()
@@ -198,7 +198,7 @@ def compresser_image_jpeg(fichier_entree, fichier_sortie, quality=40):
 
 def ajoute_latitude_et_longitude_as_an_attribute(fiche_name):
         # Chemin du fichier de la fiche
-        dir = "/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance/"
+        dir = "/data/"
         fiche_path = os.path.join(dir+"/Architecture", fiche_name + ".md")
 
         # Vérifier si le fichier existe
