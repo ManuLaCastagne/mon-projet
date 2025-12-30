@@ -22,6 +22,7 @@ questions:
  - Le journaliste qui est resté célèbre pour avoir ouvert le journal télévisé, en février 76, avec les mots  "La France a peur"?
 ---
 
+
 ![Image de Roger Gicquel](https://upload.wikimedia.org/wikipedia/commons/8/88/Roger_Gicquel_1983.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel présentateur français a ouvert le [[journal télévisé]] de [[TF1]] en 1
 
 Quel journaliste et présentateur a été une figure emblématique du [[20 Heures de TF1]] entre 1975 et 1980, marquant l'histoire de la télévision française ?
 
-Quel ancien présentateur de [[journal télévisé]] est devenu le visage emblématique du journal télévisé de [[TF1]] durant les années 1970 et est connu pour sa couverture des événements majeurs de l'époque ?
+Quel ancien présentateur de [[journal télévisé]] est devenu le visage emblématique du journal télévisé de [[TF1]] durant les années 1970 et est connu pour sa couverture des événements majeurs de l'époque ? <!-- score: 3 -->
 
 ###### Description
 
