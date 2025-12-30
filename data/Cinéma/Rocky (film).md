@@ -20,13 +20,14 @@ indice_6 :
   - Mickey Goldmill
 ---
 
+
 ![Image de Rocky (film)](https://upload.wikimedia.org/wikipedia/commons/7/71/Rocky_Logo.svg)
 
 ###### Questions
 
 Dans quel film de [[Sylvester Stallone]], sorti en [[1976]], un boxeur amateur de [[Philadelphie]] nommé [[Rocky Balboa]] a-t-il l'opportunité de combattre le champion du monde des poids lourds, [[Apollo Creed]] ?
 
-Quel film, réalisé par [[John G. Avildsen]], a remporté l'[[Oscar du meilleur film]] en [[1977]] malgré un petit budget de production et a lancé une franchise cinématographique durable ?
+Quel film, réalisé par [[John G. Avildsen]], a remporté l'[[Oscar du meilleur film]] en [[1977]] malgré un petit budget de production et a lancé une franchise cinématographique durable ? <!-- score: 4 -->
 
 Quel film a été tourné en seulement 28 jours avec un budget inférieur à [[1 million de dollars]], mais a réussi à générer plus de [[225 millions de dollars]] de recettes mondiales, devenant un phénomène culturel et financier ?
 
