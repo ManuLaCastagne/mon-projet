@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Vouvray.md",
+                "file": "Valencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vouvray"
+              "title": "Valencia"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Vouvray.md",
+                "file": "Valencia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Vouvray"
+              "title": "Graphique de Valencia"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -354,11 +354,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "028c50878b1df9c9",
+  "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Géographie/Vouvray.md",
+    "Valencia.md",
     "attachments/Carte_Valencia.png",
     "Géographie/Valencia.md",
-    "Géographie/Vouvray.md",
     "Architecture/Santiago Calatrava.md",
     "Architecture/Trinity College.md",
     "Architecture/gare de Lyon-Saint-Exupéry.md",
