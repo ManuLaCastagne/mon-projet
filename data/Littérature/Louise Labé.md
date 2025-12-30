@@ -24,13 +24,14 @@ questions:
  - On cherche le nom  de cette poétesse française contemporaine de François Ier qui est surnommée la Belle Cordière?
 ---
 
-![Image de Louise Labé](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pierre_Woeiriot02.jpg)
+
+![Image de Louise Labé](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pierre_Woeiriot02.jpg)
 
 ###### Questions
 
 Quelle poétesse de la [[Renaissance]] française, surnommée la "[[Belle Cordière]]", est connue pour ses œuvres passionnées dans "Œuvres", publiées en 1555 ?
 
-Quelle autrice, figure majeure de la [[littérature]] lyonnaise du [[XVIe siècle]], a suscité la controverse à cause de sa franchise sur l'amour et la condition féminine ?
+Quelle autrice, figure majeure de la [[littérature]] lyonnaise du [[XVIe siècle]], a suscité la controverse à cause de sa franchise sur l'amour et la condition féminine ? <!-- score: 5 -->
 
 Quel nom porte la poétesse lyonnaise qui aurait participé à une joute poétique lors du célèbre tournoi de 1560 organisé par [[Marguerite de France]] ?
 
