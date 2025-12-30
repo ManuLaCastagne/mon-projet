@@ -52,8 +52,8 @@ def fiche_to_carte(nom):
     lieu = nom
     zooms = [2, 5, 8, 11, 13, 15]  # Différents niveaux de zoom
     taille = (800, 600)  # 🖼️ largeur x hauteur en pixels
-    html_filename_template = "map_zoom_{}.html"
-    png_filename_template = "map_zoom_{}.png"
+    html_filename_template = "temp/map_zoom_{}.html"
+    png_filename_template = "temp/map_zoom_{}.png"
     # -----------------------
     from PIL import Image
     from geopy.geocoders import Nominatim
@@ -105,7 +105,7 @@ def fiche_to_carte(nom):
         time.sleep(2)  # Laisse le temps au site de se charger
 
         # Prendre une capture d'écran complète
-        screenshot_filename = f"full_screenshot_zoom_{zoom}.png"
+        screenshot_filename = f"temp/full_screenshot_zoom_{zoom}.png"
         driver.save_screenshot(screenshot_filename)
 
         # Ouvrir l'image complète et recadrer la zone de l’élément
@@ -122,12 +122,12 @@ def fiche_to_carte(nom):
 
     # 🔢 Configuration
     fichiers = [
-        "map_zoom_2.png",
-        "map_zoom_5.png",
-        "map_zoom_8.png",
-        "map_zoom_11.png",
-        "map_zoom_13.png",
-        "map_zoom_15.png"
+        "temp/map_zoom_2.png",
+        "temp/map_zoom_5.png",
+        "temp/map_zoom_8.png",
+        "temp/map_zoom_11.png",
+        "temp/map_zoom_13.png",
+        "temp/map_zoom_15.png"
     ]
     colonnes = 3
     lignes = 2
@@ -148,9 +148,9 @@ def fiche_to_carte(nom):
         mosaic.paste(img, (x, y))
 
     # 💾 Sauvegarder le résultat
-    mosaic.save(f"/data/attachments/Carte_{nom}.png")
-    compresser_image_jpeg(f"/data/attachments/Carte_{nom}.png", f"/data/attachments/Carte_{nom}.png", quality=90)
-    print(f"/data/attachments/Carte_{nom}.png enregistrée.")
+    mosaic.save(f"data/attachments/Carte_{nom}.png")
+    compresser_image_jpeg(f"data/attachments/Carte_{nom}.png", f"data/attachments/Carte_{nom}.png", quality=90)
+    print(f"data/attachments/Carte_{nom}.png enregistrée.")
 
     # Fermer le navigateur
     driver.quit()
