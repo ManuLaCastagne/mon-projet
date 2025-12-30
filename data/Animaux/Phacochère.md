@@ -17,7 +17,8 @@ questions:
  - Mesurant environ 80 cm au garrot, j'aime me rouler dans la boue et la poussière et me nourris de graminées, de tubercules et de racines. Suidé voisin du sanglier..
 ---
 
-![Image de Phacochère](https://upload.wikimedia.org/wikipedia/commons/c/c2/Warthogs_%28Phacochoerus_africanus%29_young_males_eyeballing.jpg)
+
+![Image de Phacochère](https://upload.wikimedia.org/wikipedia/commons/c/c2/Warthogs_%28Phacochoerus_africanus%29_young_males_eyeballing.jpg)
 
 ###### Questions
 
@@ -25,7 +26,7 @@ Quel est l'animal connu pour son apparition iconique aux côtés de son ami [[Ti
 
 Quel animal a joué un rôle comique dans la série documentaire animalière [[Karomama]], diffusée pour la première fois en 2007 sur la chaîne [[Animal Planet]]?
 
-Quel est le nom de l'animal qui partage un son quelque peu explosif lorsqu'il communique, et qui a été étudié par des chercheurs dans le cadre du Projet [[Volet Faunique]] en [[Afrique]], initié en 2012?
+Quel est le nom de l'animal qui partage un son quelque peu explosif lorsqu'il communique, et qui a été étudié par des chercheurs dans le cadre du Projet [[Volet Faunique]] en [[Afrique]], initié en 2012? <!-- score: 4 -->
 
 ###### Description
 
