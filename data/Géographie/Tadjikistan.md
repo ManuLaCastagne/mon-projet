@@ -4,22 +4,20 @@ latitude: 38.6281733
 longitude: 70.8156541
 superficie: 143100
 location: 38.6281733,70.8156541
-tags: 
-  - None
+tags:
   - Tadjikistan
-  - None
   - GPS_mano
-indice_1 : 
+indice_1:
   - Douchanbé
-indice_2 : 
+indice_2:
   - Monts Pamir
-indice_3 : 
+indice_3:
   - Amou-Daria
-indice_4 : 
+indice_4:
   - Lac Karakul
-indice_5 : 
+indice_5:
   - Haut-Badakhchan
-indice_6 : 
+indice_6:
   - Tadjik
 ---
 

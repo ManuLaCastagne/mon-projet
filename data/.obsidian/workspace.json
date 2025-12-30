@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Pamir.md",
+                "file": "Issyk-Koul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pamir"
+              "title": "Issyk-Koul"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Pamir.md",
+                "file": "Issyk-Koul.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Pamir"
+              "title": "Graphique de Issyk-Koul"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -356,6 +356,10 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Géographie/Kirghizistan.md",
+    "Issyk-Koul.md",
+    "Géographie/Tadjikistan.md",
+    "Géographie/Pamir.md",
     "Géographie/Îles Féroé.md",
     "Listes/États de l'Union Européenne.md",
     "Géographie/Streymoy.md",
@@ -379,10 +383,6 @@
     "Architecture/Azay-le-Rideau.md",
     "Architecture/Saint-Jean de Latran.md",
     "Cinéma/L'Homme qui rétrécit.md",
-    "Cinéma/La Femme la plus riche du monde.md",
-    "Télévision/Liliane Bettencourt.md",
-    "Animaux/Antilope.md",
-    "Animaux/Addax.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
