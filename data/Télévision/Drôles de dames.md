@@ -22,7 +22,6 @@ questions:
  - Dans quelle série télévisée créée en 1976 Charlie, patron invisible, donnait ses instructions par téléphone aux 3 héroïnes ?
 ---
 
-
 ![Image de Drôles de dames](https://upload.wikimedia.org/wikipedia/commons/8/84/Mis_Dolly_01348_Marcel_et_ses_droles_de_dames.JPG)
 
 ###### Questions
@@ -32,7 +31,6 @@ Dans quelle série télévisée lancée en [[1976]], les personnages principaux 
 Quel programme a introduit la célèbre réplique « [[Charlie’s Angels]], on se rassemble » dans la version française ? <!-- score: 4 -->
 
 Quelle série culte de [[ABC]] a été adaptée au cinéma avec [[Cameron Diaz]], [[Drew Barrymore]] et [[Lucy Liu]] au début des années 2000 ?
-
 ###### Description
 
 [[Drôles de dames]], ou "[[Charlie's Angels]]" en version originale, est une série télévisée américaine populaire diffusée entre [[1976]] et [[1981]]. 
