@@ -17,11 +17,12 @@ questions:
  - Quel grand échassier est représenté par l'espèce phoenicopterus roseus ?
 ---
 
+
 ![Image de Flamant rose](https://upload.wikimedia.org/wikipedia/commons/1/1f/Flamenco_com%C3%BAn_%28Phoenicopterus_roseus%29%2C_Walvis_Bay%2C_Namibia%2C_2018-08-05%2C_DD_30.jpg)
 
 ###### Questions
 
-Quel animal est connu pour naître avec un plumage gris et devenir rose à cause des caroténoïdes qu'il consomme dans sa nourriture ?
+Quel animal est connu pour naître avec un plumage gris et devenir rose à cause des caroténoïdes qu'il consomme dans sa nourriture ? <!-- score: 6 -->
 
 Quel animal emblématique, souvent associé aux paysages de [[Camargue]], se tient sur une patte pour se reposer ?
 
