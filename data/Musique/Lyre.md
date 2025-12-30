@@ -24,13 +24,14 @@ questions:
  - De quel instrument de musique à cordes Apollon...
 ---
 
+
 ![Image de Lyre](https://upload.wikimedia.org/wikipedia/commons/3/36/Heraldic_lyre_transparent.svg)
 
 ###### Questions
 
 Quel instrument à cordes, utilisé dans l'[[Antiquité grecque]], était souvent associé au dieu [[Apollon]] et symbolisait l'harmonie musicale ? 
 
-Quel instrument symbolique des [[Muses]] était représenté sur les pièces de monnaie de l'[[île de Délos]] au Vᵉ siècle avant [[Jésus]] ?
+Quel instrument symbolique des [[Muses]] était représenté sur les pièces de monnaie de l'[[île de Délos]] au Vᵉ siècle avant [[Jésus]] ? <!-- score: 6 -->
 
 Quel instrument, retrouvé lors des fouilles de la cité antique de [[Mésopotamie]] en 1929, est décrit dans les textes datant de 2 500 ans avant [[Jésus]] et était souvent utilisé dans les rituels religieux ?
 
