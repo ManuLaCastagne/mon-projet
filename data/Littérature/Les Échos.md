@@ -24,11 +24,12 @@ questions:
  - Quel journal économique et financier, devenu quotidien en 1928, est issu d'un mensuel lancé 20 ans plus tôt?
 ---
 
+
 ![Image de Les Échos](https://upload.wikimedia.org/wikipedia/commons/5/51/%C3%89chos_de_l%27Exportation.jpg)
 
 ###### Questions
 
-Quel journal économique français, fondé en 1908, est à l'origine d'une section littéraire qui a publié des articles de célèbres écrivains comme [[Jean-Paul Sartre]] ?
+Quel journal économique français, fondé en 1908, est à l'origine d'une section littéraire qui a publié des articles de célèbres écrivains comme [[Jean-Paul Sartre]] ? <!-- score: 6 -->
 
 Quelle publication française, connue pour ses analyses économiques et financières depuis 1954, a également un impact surprenant dans le monde littéraire grâce à l'organisation de [[Prix du Livre d'Économie]] ?
 
