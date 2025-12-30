@@ -22,13 +22,14 @@ indice_6:
   - groupe féminin des années 2000
 ---
 
+
 ![Image de Destiny's Child](https://upload.wikimedia.org/wikipedia/commons/c/cc/Destiny_Child_at_Super_Bowl_XLVII_halftime_show.jpg)
 
 ###### Questions
 
 Quel groupe de chanteuses a choisi son nom définitif en 1996, a enchaîné les succès en 4 albums studio, jusqu'à sa séparation en 2006 ?
 
-Quel groupe a remporté deux [[Grammy Awards]] en 2001 pour la chanson "Say My Name" ?
+Quel groupe a remporté deux [[Grammy Awards]] en 2001 pour la chanson "Say My Name" ? <!-- score: 6 -->
 
 Quel groupe s'est formé à [[Houston]], [[Texas]] en 1990 et a popularisé le genre [[R&B]] à la fin des années 1990 et au début des années 2000 ?
 ###### Description
