@@ -18,7 +18,8 @@ questions:
   - En 2013, quel film japonais d'Hirokazu Kore-eda dont le titre français constitue un aphorisme, qui a été récompensé en 2013 par le prix du jury à Cannes?
 ---
 
-![Image de Tel père, tel fils](https://upload.wikimedia.org/wikipedia/commons/4/42/TEL_PERE_TEL_FILS_2_%2848705748143%29.jpg)
+
+![Image de Tel père, tel fils](https://upload.wikimedia.org/wikipedia/commons/4/42/TEL_PERE_TEL_FILS_2_%2848705748143%29.jpg)
 
 ###### Questions
 
@@ -26,7 +27,7 @@ Dans quel film de 2013, réalisé par [[Hirokazu Kore-eda]], une découverte à 
 
 Dans quel long métrage, la performance des acteurs [[Masaharu Fukuyama]] et [[Machiko Ono]] explore-t-elle les thèmes de la paternité et des liens familiaux ?
 
-Quel film a remporté le [[Prix du Jury]] au Festival de Cannes en 2013 pour sa réflexion émotive sur la valeur de la biologie face à l'éducation ?
+Quel film a remporté le [[Prix du Jury]] au Festival de Cannes en 2013 pour sa réflexion émotive sur la valeur de la biologie face à l'éducation ? <!-- score: 4 -->
 
 ###### Description
 
