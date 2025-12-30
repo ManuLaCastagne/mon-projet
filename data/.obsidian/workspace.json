@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valencia.md",
+                "file": "Géographie/Vouvray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valencia"
+              "title": "Vouvray"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Valencia.md",
+                "file": "Géographie/Vouvray.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Valencia"
+              "title": "Graphique de Vouvray"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -356,8 +356,8 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Géographie/Vouvray.md",
     "Valencia.md",
+    "Géographie/Vouvray.md",
     "attachments/Carte_Valencia.png",
     "Géographie/Valencia.md",
     "Architecture/Santiago Calatrava.md",
