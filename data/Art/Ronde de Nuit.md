@@ -23,13 +23,14 @@ indice_6 :
   - Pays-Bas
 ---
 
+
 ![Image de Ronde de Nuit](https://upload.wikimedia.org/wikipedia/commons/a/a6/La_ronde_de_nuit_1923_%28141636928%29.jpg)
 
 ###### Questions
 
 Quel tableau célèbre peint par [[Rembrandt]] en 1642 est connu pour son utilisation innovante de la lumière et de l'obscurité?
 
-Quelle œuvre exposée au [[Rijksmuseum]] à [[Amsterdam]] a été redécouverte lors d'une restauration en 1947, révélant qu'elle représentait une scène de jour plutôt que de nuit?
+Quelle œuvre exposée au [[Rijksmuseum]] à [[Amsterdam]] a été redécouverte lors d'une restauration en 1947, révélant qu'elle représentait une scène de jour plutôt que de nuit? <!-- score: 4 -->
 
 Quel chef-d'œuvre de [[Rembrandt]] a été coupé sur ses bords en 1715 pour s'adapter à un nouvel emplacement dans la [[Salle des Gardes]] de l'[[Hôtel de Ville d'Amsterdam]]?
 
