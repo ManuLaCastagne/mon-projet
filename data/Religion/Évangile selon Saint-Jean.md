@@ -22,13 +22,14 @@ questions:
  - Le seul à relater les Noces de Cana et la résurrection de Lazare.
 ---
 
+
 ![Image de Évangile selon Saint-Jean](https://upload.wikimedia.org/wikipedia/commons/c/c6/Papyrus_63_-_Staatliche_Museen_zu_Berlin_inv._11914_-_Gospel_of_John_3%2C14-18_4%2C9-10_-_verso.jpg)
 
 ###### Questions
 
 Quel est le texte biblique qui contient la phrase célèbre "Je suis le chemin, la vérité et la vie", attribuée à [[Jésus]] ?  
 
-Quel évangile du [[Nouveau Testament]], attribué au disciple bien-aimé de [[Jésus]], mentionne le miracle de la résurrection de [[Lazare]] d’entre les morts ?
+Quel évangile du [[Nouveau Testament]], attribué au disciple bien-aimé de [[Jésus]], mentionne le miracle de la résurrection de [[Lazare]] d’entre les morts ? <!-- score: 3 -->
 
 Quel écrit chrétien, probablement rédigé vers l'an 90 après [[Jésus]], propose une perspective théologique unique sur la nature divine du Christ, notamment dès ses premiers versets ?
 
