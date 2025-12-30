@@ -24,13 +24,14 @@ questions:
  - Acteur fétiche de Christophe Honoré qui me dirige dans "Les Chansons d'amour", je suis à l'affiche en 2020 de "ADN" de Maïwenn.  Fils du réalisateur prénommé Philippe et petit-fils de l'acteur Maurice...
 ---
 
+
 ![Image de Louis Garrel](https://upload.wikimedia.org/wikipedia/commons/3/39/Louis_Garrel_Cannes_2017.jpg)
 
 ###### Questions
 
 Dans quel film réalisé par [[Jacques Doillon]] en 2019, [[Louis Garrel]] a-t-il joué le rôle principal ?
 
-Quel acteur a incarné [[Jean-Luc Godard]] dans le film "[[Le Redoutable]]" de [[Michel Hazanavicius]] sorti en 2017 ?
+Quel acteur a incarné [[Jean-Luc Godard]] dans le film "[[Le Redoutable]]" de [[Michel Hazanavicius]] sorti en 2017 ? <!-- score: 3 -->
 
 Dans quel long métrage intitulé "[[Les Chansons d’amour]]" de [[Christophe Honoré]] en 2007, [[Louis Garrel]] interprète-t-il un personnage confronté au deuil et à l'amour ?
 
