@@ -24,17 +24,11 @@ questions:
   - En 1973, à quel groupe de hard-rock doit-on la chanson "Smoke on the water"...
 ---
 
-
 ![Image de Deep Purple](https://upload.wikimedia.org/wikipedia/commons/b/b9/Deep_Purple_-_MN_Gredos_-_08.jpg)
 
 ###### Questions
 
-Quelle chanson iconique du groupe [[Deep Purple]], sortie en 1972, commence par un célèbre riff de guitare souvent appris par les débutants ?
-
-Quel membre fondateur de [[Deep Purple]], connu pour son jeu de guitare innovant, a quitté le groupe en 1975 pour former [[Rainbow]] ? <!-- score: 5 -->
-
-En 1969, quel album de [[Deep Purple]] a été enregistré en collaboration avec l'orchestre philharmonique royal de [[Londres]] dirigé par [[Malcolm Arnold]] ?
-
+Quel groupe a été fondé par [[Ian Paice]], connu pour son jeu de guitare innovant, a quitté le groupe en 1975 pour former [[Rainbow]] ? <!-- score: 5 -->
 ###### Description
 
 [[Deep Purple]] est un groupe de rock britannique, formé en 1968, qui a marqué l'histoire de la musique avec son mélange unique de hard rock et de musique classique.
