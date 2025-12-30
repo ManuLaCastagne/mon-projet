@@ -1,5 +1,5 @@
-output_dir = "/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance/attachments/"
-dir = "/Users/edumas/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mon réseau de connaissance/"
+output_dir = "/data/attachments/"
+dir = "/data/"
 
 import time
 import os
