@@ -454,9 +454,9 @@ def generate_fiche_geography(nom, category):
     tags, indices, description, question, superficie = generate_gpt_from_name(nom, category)
 
     indices = indices.replace('"', '').replace(':', '').replace("[",'').replace("]","")
-
+    
     from geopy.geocoders import Nominatim
-    fiche_to_carte(nom)
+    #fiche_to_carte(nom)
     geolocator = Nominatim(user_agent="geo_attribute", timeout=10)
     location = geolocator.geocode(nom)
     if not location :
@@ -1213,4 +1213,4 @@ def pyperclip_copy_deck(deck):
     print("Deck copied to clipboard!")
 
 #change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
-#generate_fiche("Valencia", "Géographie")
+generate_fiche("Valencia", "Géographie")
