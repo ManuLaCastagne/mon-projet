@@ -27,6 +27,7 @@ questions:
 
 
 
+
 ![[Pasted image 20250421155038.png]]
 ###### Questions
 
@@ -36,7 +37,7 @@ Quel film réalisé par [[Martin Scorsese]] est sorti en 1980 et est basé sur l
 
 Dans quel film [[Robert De Niro]] a remporté l'[[Oscar du meilleur acteur]] en 1981 pour son interprétation d'un boxeur célèbre ?
 
-Quel film en noir et blanc est souvent cité comme l'un des meilleurs films de tous les temps et évoque la carrière tumultueuse du boxeur [[Jake LaMotta]] ? <!-- score: 2 -->
+Quel film en noir et blanc est souvent cité comme l'un des meilleurs films de tous les temps et évoque la carrière tumultueuse du boxeur [[Jake LaMotta]] ? <!-- score: 3 -->
 
 ###### Description
 
