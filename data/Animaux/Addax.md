@@ -1,20 +1,18 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+indice_1:
   - Antilope
-indice_2 : 
+indice_2:
   - Addax nasomaculatus
-indice_3 : 
+indice_3:
   - Artiodactyla
-indice_4 : 
+indice_4:
   - Sahara
-indice_5 : 
+indice_5:
   - Antilope à nez tacheté
-indice_6 : 
+indice_6:
   - Symbole de survie en milieu aride
-questions:
- - L'Antilope à cornes spiralées mangeant des plantes désertiques qui poussent après les pluies ?
 ---
 
 
@@ -22,6 +20,8 @@ questions:
 ![Image de Addax](https://upload.wikimedia.org/wikipedia/commons/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
 
 ###### Questions
+
+Quelle [[antilope]] à cornes spiralées mangeant des plantes désertiques qui poussent après les pluies ?
 
 Quel animal dont le nom commence par "A" est capable de survivre aux températures extrêmes des déserts africains en ayant rarement besoin de boire de l'eau ?
 
