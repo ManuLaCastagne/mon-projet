@@ -25,6 +25,7 @@ questions:
  - Quelle femme de lettres française, née en 1873 et auteure de "Chéri", aimait écrire à l'encre violette?
 ---
 
+
 ![Image de Colette](https://upload.wikimedia.org/wikipedia/commons/9/90/La_cha%C3%AEne_des_dames_%28Gabrielle_R%C3%A9val%29_-_Colette_%28Sidonie-Gabrielle_Colette%29.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Dans quel livre paru en 1944, [[Colette]] a-t-elle exploré les thèmes de l'enf
 
 Quel rôle particulier [[Colette]] a-t-elle joué dans l'organisation du [[Bal des Petits Lits Blancs]] en 1948 à [[Paris]], événement caritatif majeur de l'époque ?
 
-En quelle année [[Colette]] a-t-elle été élue membre de l'[[Académie Goncourt]], devenant ainsi la première femme de l'histoire à accéder à cette institution littéraire prestigieuse ?
+En quelle année [[Colette]] a-t-elle été élue membre de l'[[Académie Goncourt]], devenant ainsi la première femme de l'histoire à accéder à cette institution littéraire prestigieuse ? <!-- score: 3 -->
 
 ###### Description
 
