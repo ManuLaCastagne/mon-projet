@@ -6,22 +6,19 @@ superficie: 1399
 location: 62.0282362,-6.8819254
 tags:
   - Géographie
-  - Îles_Féroé|Danemark|Non_applicable
-
-indice_1 : 
+  - Danemark
+indice_1:
   - Torshavn
-indice_2 : 
+indice_2:
   - Atlantique Nord
-indice_3 : 
+indice_3:
   - Archipel
-indice_4 : 
+indice_4:
   - Autonomie danoise
-indice_5 : 
+indice_5:
   - 18 îles
-indice_6 : 
+indice_6:
   - Moutons
-questions:
- - Quel archipel danois autonome depuis 1948, situé au nord de l'Ecosse, a pour chef-lieu la ville de Torshavn?
 ---
 
 
@@ -32,13 +29,15 @@ questions:
 
 Quel territoire autonome danois, situé dans l'Atlantique Nord, est composé de 18 îles volcaniques et est connu pour sa population de moutons, surpassant celle des habitants ? <!-- score: 2 -->
 
-Quel archipel, sous souveraineté danoise depuis 1948, utilise le [[króna féroïen]] comme monnaie découlant de la [[couronne danoise]], bien qu'il ne fasse pas partie de l'[[Union européenne]] ?
+Quel archipel danois autonome depuis 1948, situé au nord de l'Ecosse, a pour chef-lieu la ville de [[Torshavn]] ?
+
+Quel archipel, sous souveraineté danoise depuis 1948, utilise le [[króna féroïen]] comme monnaie découlant de la [[couronne danoise]], bien que le Danemark fasse partie de l'[[Union européenne]] ?
 
 Quel groupe d'îles, célèbre pour son absence totale de forêts naturelles, est le site où se tient chaque année le [[G! Festival]], un événement de musique en plein air célébré depuis 2002 ?
 
 ###### Description
 
-Les [[Îles Féroé]], un archipel situé dans l'Atlantique Nord, sont constituées de 18 îles principales, dont la plus grande est [[Streymoy]], abritant la capitale [[Tórshavn]].
+Les [[Îles Féroé]], un archipel situé dans l'Atlantique Nord, sont constituées de 18 îles principales, dont la plus grande est [[Streymoy]], abritant la capitale [[Torshavn]].
 
 Ses paysages spectaculaires, composés de falaises abruptes et de montagnes escarpées, attirent les randonneurs du monde entier, bien que la région reste largement méconnue par rapport à d'autres destinations nordiques.
 

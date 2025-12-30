@@ -36,6 +36,6 @@ Sorti en [[1984]], le film "Ghostbusters" a été réalisé par [[Ivan Reitman]]
 
 Le scénario a été co-écrit par [[Dan Aykroyd]], qui est originaire d'[[Ottawa]], et [[Harold Ramis]]. 
 
-Fait étonnant, le thème musical du film interprété par [[Ray Parker Jr.]] a atteint la première place du Billboard Hot 100 pendant trois semaines consécutives en [[1984]], et a même valu à Parker une nomination pour l'[[Oscar]] de la meilleure chanson originale. 
+Fait étonnant, le thème musical du film interprété par Ray Parker Jr. a atteint la première place du Billboard Hot 100 pendant trois semaines consécutives en [[1984]], et a même valu à Parker une nomination pour l'[[Oscar]] de la meilleure chanson originale. 
 
 "Ghostbusters" a également été un succès commercial, rapportant environ 295 millions de dollars dans le monde, ce qui en a fait l'un des films les plus rentables des années 1980.

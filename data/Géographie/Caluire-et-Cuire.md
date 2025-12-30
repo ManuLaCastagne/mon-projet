@@ -4,22 +4,21 @@ latitude: 45.7969952
 longitude: 4.8423304
 superficie: 10.54
 location: 45.7969952,4.8423304
-tags: 
+tags:
   - Auvergne-Rhône-Alpes
   - France
   - Métropole_de_Lyon
-  - GPS_mano
-indice_1 : 
+indice_1:
   - Claude Bourgelat
-indice_2 : 
+indice_2:
   - Rhône
-indice_3 : 
+indice_3:
   - Jean Moulin
-indice_4 : 
+indice_4:
   - Métropole de Lyon
-indice_5 : 
+indice_5:
   - Saône
-indice_6 : 
+indice_6:
   - Montessuy
 ---
 

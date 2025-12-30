@@ -40,7 +40,7 @@ Quel est le nom de la région qui abrite le nœud orographique central reliée a
 
 ###### Description
 
-Les [[montagnes du Pamir]] sont situées en Asie centrale, à la jonction de [[l'Afghanistan]], du [[Pakistan]], de la [[Chine]] et du [[Tadjikistan]]. 
+Les [[montagnes du Pamir]] sont situées en Asie centrale, à la jonction de l'[[Afghanistan]], du [[Pakistan]], de la [[Chine]] et du [[Tadjikistan]]. 
 
 Souvent surnommées le "toit du monde," ces montagnes comprennent plusieurs des plus hauts sommets de la planète, notamment le [[Pic Ismail Samani]], qui culmine à 7 495 mètres. 
 

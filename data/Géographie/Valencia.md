@@ -24,7 +24,6 @@ indice_6 :
 ---
 
 ![[Carte_Valencia.png]]
-
 ###### Questions
 
 Dans quelle ville d'Espagne se trouve la célèbre [[Cité des Arts et des Sciences]], un complexe architectural emblématique conçu par l'architecte [[Santiago Calatrava]], inauguré en [[1998]] ?
