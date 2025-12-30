@@ -21,13 +21,14 @@ questions:
 ---
 
 
+
 ![Image de Odin](https://upload.wikimedia.org/wikipedia/commons/6/66/S.M._K%C3%BCstenpanzerschiff_Odin_im_Salut_-_restoration.jpg)
 
 ###### Questions
 
 Quel dieu [[nordique]] a offert l'un de ses yeux pour boire à la source de la sagesse, [[Mimir]], afin d'acquérir une connaissance inégalée dans la mythologie [[viking]] ?
 
-Quel personnage de la mythologie nordique est à la fois le père de [[Thor]] et le dieu des dieux, connu pour sa demeure [[Valhalla]] où les guerriers morts au combat sont amenés ?
+Quel personnage de la mythologie nordique est à la fois le père de [[Thor]] et le dieu des dieux, connu pour sa demeure [[Valhalla]] où les guerriers morts au combat sont amenés ? <!-- score: 2 -->
 
 Qui est le dieu puissant qui, selon les récits de la [[Völuspá]], possédait le cheval à huit jambes nommé [[Sleipnir]], né en [[vers 800]] dans les sagas nordiques ? <!-- score: 6 -->
 
