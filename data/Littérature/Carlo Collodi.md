@@ -24,13 +24,14 @@ questions:
  - 1880. Quel écrivain et journaliste a mis en scène le menuisier Geppetto dans "Les Aventures de Pinocchio" ?
 ---
 
+
 ![Image de Carlo Collodi](https://upload.wikimedia.org/wikipedia/commons/6/60/Carlo_Collodi.jpg)
 
 ###### Questions
 
 Quel écrivain italien a publié pour la première fois l'histoire de [[Pinocchio]] en 1883 ?
 
-Sous quel pseudonyme l'écrivain [[Carlo Lorenzini]] a-t-il publié son célèbre roman pour enfants ? <!-- score: 2 -->
+Sous quel pseudonyme l'écrivain [[Carlo Lorenzini]] a-t-il publié son célèbre roman pour enfants ? <!-- score: 3 -->
 
 Qui est l'auteur du roman jeunesse "[[Les Aventures de Pinocchio]]", devenu un classique de la littérature italienne ?
 ###### Description
