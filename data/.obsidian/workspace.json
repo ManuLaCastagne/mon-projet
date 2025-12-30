@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/L'Homme qui rétrécit.md",
-                "mode": "preview",
-                "source": true
+                "file": "Géographie/Valencia.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "L'Homme qui rétrécit"
+              "title": "Valencia"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/L'Homme qui rétrécit.md",
+                "file": "Géographie/Valencia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de L'Homme qui rétrécit"
+              "title": "Graphique de Valencia"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -356,8 +356,17 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Cinéma/La Femme la plus riche du monde.md",
+    "Architecture/Santiago Calatrava.md",
+    "Géographie/Valencia.md",
+    "Architecture/gare de Lyon-Saint-Exupéry.md",
+    "Architecture/Cathédrale d'Amiens.md",
+    "Architecture/Trinity College.md",
+    "Architecture/Villa Rotonda.md",
+    "Architecture/Tower Bridge.md",
+    "Architecture/Azay-le-Rideau.md",
+    "Architecture/Saint-Jean de Latran.md",
     "Cinéma/L'Homme qui rétrécit.md",
+    "Cinéma/La Femme la plus riche du monde.md",
     "Télévision/Liliane Bettencourt.md",
     "Animaux/Antilope.md",
     "Animaux/Addax.md",
@@ -373,15 +382,6 @@
     "Architecture/Robert de Luzarches.md",
     "Sport/Marco Pantani.md",
     "Géographie/La Ciotat.md",
-    "Cinéma/Zelig.md",
-    "Musique/Etienne, Etienne.md",
-    "Littérature/Sorj Chalandon.md",
-    "Littérature/Blaise Cendrars.md",
-    "Littérature/Jean Teulé.md",
-    "Géographie/Juba.md",
-    "Cinéma/Pinocchio.md",
-    "Architecture/Pont di Verrazzano.md",
-    "Animaux/Bombardier.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]

@@ -2,27 +2,23 @@
 latitude: 41.8858494
 longitude: 12.5055874
 location: 41.8858494,12.5055874
-tags: 
+tags:
   - Architecture
-  - Rome_Italie
-  - Années_313
   - IVe_siècle
-debut: 1735
-fin:
-indice_1 : 
+debut: 324
+fin: 1735
+indice_1:
   - Rome
-indice_2 : 
+indice_2:
   - basilique
-indice_3 : 
+indice_3:
   - cathédrale du pape
-indice_4 : 
+indice_4:
   - église mère de l'Église catholique
-indice_5 : 
+indice_5:
   - façade néoclassique
-indice_6 : 
+indice_6:
   - cloître médiéval
-questions:
- - A Rome, au voisinage de quelle basilique se trouve l'escalier monumental appelé Scala Santa ?
 ---
 
 
@@ -30,6 +26,8 @@ questions:
 ![Image de Saint-Jean de Latran](https://upload.wikimedia.org/wikipedia/commons/f/f4/Passage_Saint_Jean_de_Latran._D.57.jpg)
 
 ###### Questions
+
+A Rome, au voisinage de quelle basilique se trouve l'escalier monumental appelé [[Scala Santa]] ?
 
 Quelle est la basilique archiépiscopale qui a été le premier siège de la papauté, construite au [[IVe siècle]] et dédiée par l'empereur [[Constantin Ier]] ? <!-- score: 3 -->
 

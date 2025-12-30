@@ -31,7 +31,7 @@ questions: []
 ![[Carte_Liège.png]]
 ###### Questions
 
-Dans quelle ville se trouve la célèbre [[Gare des Guillemins]] conçue par l'architecte [[ Calatrava]] et inaugurée officiellement en 2009 ?
+Dans quelle ville se trouve la célèbre [[Gare des Guillemins]] conçue par l'architecte [[Santiago Calatrava]] et inaugurée officiellement en 2009 ?
 
 Quelle ville a accueilli l'exposition universelle intitulée [[Exposition internationale de l'eau]], qui s'est tenue en 1939 ?
 
