@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de L'Île aux trente cercueils](https://upload.wikimedia.org/wikipedia/commons/b/bc/Leblanc_-_L%E2%80%99%C3%8Ele_aux_trente_cercueils_Image1.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans quel feuilleton télévisé de 1979 l'actrice [[Claude Jade]] tient-elle le
 
 Quelle adaptation d'un roman de [[Maurice Leblanc]] a été diffusée en quatre épisodes à la télévision française en 1979 ?
 
-Quel feuilleton des années 1970, reprenant une œuvre de [[Maurice Leblanc]], est centré sur une mystérieuse île mystérieuse et a été réalisé par [[Marcel Cravenne]] ?
+Quel feuilleton des années 1970, reprenant une œuvre de [[Maurice Leblanc]], est centré sur une mystérieuse île mystérieuse et a été réalisé par [[Marcel Cravenne]] ? <!-- score: 3 -->
 
 ###### Description
 
