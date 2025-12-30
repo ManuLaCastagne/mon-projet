@@ -24,13 +24,14 @@ questions:
  - En 1963, quel film avec Cinéma/Jean Gabin et Alain Delon se termine par une scène au cours de laquelle des billets de banque se retrouvent du fond d'une piscine ?
 ---
 
+
 ![Image de Mélodie en sous-sol](https://upload.wikimedia.org/wikipedia/commons/7/75/Le_Diable_au_cor%2C_m%C3%A9lodie_d%C3%A9di%C3%A9e_%C3%A0_Sarah_Bernhardt_par_l%27auteur_d%27Hernani%2C_2017.0.3218.1.jpg)
 
 ###### Questions
 
 Dans quel film de [[Henri Verneuil]] sorti en 1963, [[Jean Gabin]] et [[Alain Delon]] incarnent-ils deux complices dans un casse mémorable de casino ?
 
-Quel film célèbre se déroule dans la ville thermale de Cannes, mettant en scène un audacieux vol lors du festival de 1963 ?
+Quel film célèbre se déroule dans la ville thermale de Cannes, mettant en scène un audacieux vol lors du festival de 1963 ? <!-- score: 3 -->
 
 Dans quel long-métrage français iconique [[Claude Brasseur]] fait-il ses débuts au cinéma dans un rôle secondaire mais marquant ?
 
