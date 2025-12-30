@@ -22,6 +22,7 @@ questions:
  - Quelle population semi-nomade, désignée par un mot d'origine turco-tatare, ont fourni une cavalerie irrégulière à l'armée tsariste?
 ---
 
+
 ![Image de Ordre des chevaliers teutoniques](https://upload.wikimedia.org/wikipedia/commons/a/ae/Partition_of_the_Livonian_Order_-_ru.svg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel ordre militaire et religieux, fondé en [[1190]] durant la [[Troisième Cro
 
 Quel ordre, dont le siège a été déplacé à [[Marienbourg]] en [[1309]], est célèbre pour sa participation dans les campagnes militaires en [[Prusse]] et en [[Lituanie]] ?
 
-Quel ordre a signé le [[traité de Thorn]] en [[1466]], perdant ainsi une grande partie de ses territoires à la suite de sa défaite lors de la [[Guerre de Treize Ans]] ?
+Quel ordre a signé le [[traité de Thorn]] en [[1466]], perdant ainsi une grande partie de ses territoires à la suite de sa défaite lors de la [[Guerre de Treize Ans]] ? <!-- score: 3 -->
 
 ###### Description
 
