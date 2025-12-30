@@ -22,13 +22,14 @@ questions:
  - En 1998, neuf ans après sa première victoire, quelle joueuse de tennis espagnole a remporté RG ?
 ---
 
+
 ![Image de Aranza Sanchez](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tour_f%C3%A9minin_international_de_l%27Ard%C3%A8che_2016_-_stage_3_-_Aranza_Valentina_Villalon_Sanchez.jpg)
 
 ###### Questions
 
 En 2022, quelle athlète a remporté le championnat national de [[triathlon]] en [[Mexique]] ?
 
-Qui a été élue [[sportive de l'année]] par le magazine mexicain [[Deporte Total]] en 2021 ?
+Qui a été élue [[sportive de l'année]] par le magazine mexicain [[Deporte Total]] en 2021 ? <!-- score: 4 -->
 
 Quel [[footballeur]] mexicain a participé aux jeux olympiques et remporté une médaille d'or en 2023 ?
 
