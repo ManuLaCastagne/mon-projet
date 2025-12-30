@@ -21,13 +21,14 @@ questions:
 ---
 
 
+
 ![Image de Hécate](https://upload.wikimedia.org/wikipedia/commons/2/2d/Estatua_de_Diana_como_H%C3%A9cate%2C_British_Museum.jpg)
 
 ###### Questions
 
 Quel est le nom de la déesse associée à la fois à la [[sorcellerie]], aux [[carrefours]] et aux lieux sauvages dans la [[mythologie grecque]] ?
 
-Quelle figure mythologique était particulièrement vénérée lors des festivals connus sous le nom de [[Hécatée]] dans l'ancienne [[Athènes]] ?
+Quelle figure mythologique était particulièrement vénérée lors des festivals connus sous le nom de [[Hécatée]] dans l'ancienne [[Athènes]] ? <!-- score: 6 -->
 
 Qui est la déesse souvent représentée avec trois formes, ou visages, ce qui reflète son rôle de gardienne des portes et des transitions dans la [[mythologie grecque]], et est régulièrement associée à des rites pratiqués au cours du 5ème siècle avant notre ère ? <!-- score: 3 -->
 
