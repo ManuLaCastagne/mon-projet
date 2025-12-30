@@ -17,11 +17,12 @@ questions:
  - Quel mollusque à coquille bivalve sombre, de la famille des mytilidés reste fixé à un rocher et est capable de résister à la privation d'oxygène ?
 ---
 
+
 ![Image de Moule](https://upload.wikimedia.org/wikipedia/commons/e/e3/William_Moule%2C_1935.png)
 
 ###### Questions
 
-Quel animal marin est capable de produire du byssus, un ensemble de filaments utilisés pour s'accrocher aux rochers, et qui a été étudié dès 2009 par des chercheurs pour ses propriétés adhésives remarquables ?
+Quel animal marin est capable de produire du byssus, un ensemble de filaments utilisés pour s'accrocher aux rochers, et qui a été étudié dès 2009 par des chercheurs pour ses propriétés adhésives remarquables ? <!-- score: 4 -->
 
 Quel mollusque bivalve a été découvert en 2016 comme ayant la capacité unique de filtrer et purifier l'eau dans les zones marines polluées, jouant un rôle clé dans l'écosystème marin ?
 
