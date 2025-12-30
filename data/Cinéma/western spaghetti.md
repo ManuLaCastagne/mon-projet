@@ -22,13 +22,14 @@ indice_6 :
   - poncho et cigare
 ---
 
+
 ![Image de western spaghetti](https://upload.wikimedia.org/wikipedia/commons/1/1f/Spaghetti_western_catalan.PNG)
 
 ###### Questions
 
 Quel genre cinématographique a été popularisé par [[Sergio Leone]] avec la sortie de [[Pour une poignée de dollars]] en 1964 ?
 
-Comment appelle-t-on le type de films italiens influencés par les westerns américains et ayant connu un grand succès entre 1960 et 1975 ?
+Comment appelle-t-on le type de films italiens influencés par les westerns américains et ayant connu un grand succès entre 1960 et 1975 ? <!-- score: 7 -->
 
 Quel terme se réfère à un style de films se déroulant dans le Far West, principalement produits en [[Italie]] et ayant souvent un ton plus cynique que leurs homologues américains ?
 
