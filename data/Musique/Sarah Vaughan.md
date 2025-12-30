@@ -32,7 +32,7 @@ questions:
 
 ###### Questions
 
-Quel artiste emblématique du [[jazz]], surnommé "The Divine One", a remporté un [[Grammy Award]] en 1982 pour son album live "[[Gershwin Live!]]" ? <!-- score: 2 -->
+Quel artiste emblématique du [[jazz]], surnommé "The Divine One", a remporté un [[Grammy Award]] en 1982 pour son album live "[[Gershwin Live!]]" ? <!-- score: 3 -->
 
 Qui a enregistré une collaboration célèbre avec [[Miles Davis]] en 1950, contribuant à façonner le son du [[bebop]] et à populariser le genre à l'international ?
 
