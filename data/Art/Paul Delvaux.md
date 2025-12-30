@@ -25,13 +25,14 @@ questions:
  - A quel peintre belge, né en 1897, dont un musée lui est consacré à Saint-Idesbald, doit-on la toile "La Robe de mariée"?
 ---
 
+
 ![Image de Paul Delvaux](https://upload.wikimedia.org/wikipedia/commons/8/82/Monument_Paul_Delvaux.jpg)
 
 ###### Questions
 
 Quel peintre belge, associé à des thèmes tels que les trains et les femmes, a vu son œuvre influencée par le mouvement surréaliste même s'il n'a jamais été officiellement lié au groupe dans les années 1940 ?
 
-Quel artiste a consacré une partie de sa carrière à enseigner à l'[[Académie Royale des Beaux-Arts de Bruxelles]] à partir de 1950, où il a influencé de nombreux jeunes peintres en Belgique ?
+Quel artiste a consacré une partie de sa carrière à enseigner à l'[[Académie Royale des Beaux-Arts de Bruxelles]] à partir de 1950, où il a influencé de nombreux jeunes peintres en Belgique ? <!-- score: 4 -->
 
 Quel créateur a vu sa peinture "La Ville Inquiète" exposée en 1934, marquant un tournant surréaliste dans son style artistique ?
 
