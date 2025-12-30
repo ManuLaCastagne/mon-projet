@@ -23,13 +23,14 @@ indice_6:
 ---
 
 
+
 ![Image de Adriano Celentano](https://upload.wikimedia.org/wikipedia/commons/c/c1/Adriano_Celentano_1970.png)
 
 ###### Questions
 
 Quel chanteur a également été acteur dans les films de Sergio Corbucci, et animateur à la Rai où je bats des records d'audience ?
 
-A qui doit-on les tubes "I want to know" ou "Il raggazzo della Via Gluck" ?
+A qui doit-on les tubes "I want to know" ou "Il raggazzo della Via Gluck" ? <!-- score: 2 -->
 
 Quel chanteur italien est interprète de "Svalutation" ?
 
