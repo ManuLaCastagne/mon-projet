@@ -24,13 +24,14 @@ questions:
  - Dès 1959, de quel duo de bande dessinée, formé d'un petit garçon roux et de son cocker le dessinateur Jean Roba a-t-il raconté les péripéties ?
 ---
 
+
 ![Image de Boule et Bill](https://upload.wikimedia.org/wikipedia/commons/e/e8/Boule-et-Bill-Wandgemaelde_in_Bruessel.jpg)
 
 ###### Questions
 
 Dans quelle bande dessinée, créée par [[Jean Roba]] en 1959, suit-on les aventures d'un petit garçon et de son chien cocker ?
 
-Quel duo célèbre de la bande dessinée francophone est publié pour la première fois dans l'hebdomadaire [[Le Journal de Spirou]] en 1959 ?
+Quel duo célèbre de la bande dessinée francophone est publié pour la première fois dans l'hebdomadaire [[Le Journal de Spirou]] en 1959 ? <!-- score: 4 -->
 
 Quel succès de la bande dessinée, vendu à plus de 25 millions d'exemplaires, met en scène un enfant et son chien nommé [[Bill]] ?
 
