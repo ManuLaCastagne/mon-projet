@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Jean Monnet](https://upload.wikimedia.org/wikipedia/commons/f/f5/Jean_Monnet.jpg)
 
 ###### Questions
 
-Dans les années [[1920]], quelle personnalité a joué un rôle clé dans la création et la distribution de [[l'Armagnac]] en Angleterre pour améliorer les échanges commerciaux ? <!-- score: 4 -->
+Dans les années [[1920]], quelle personnalité a joué un rôle clé dans la création et la distribution de [[l'Armagnac]] en Angleterre pour améliorer les échanges commerciaux ? <!-- score: 3 -->
 
 Quel fondateur de l'[[Union Européenne]] est connu pour ne jamais avoir occupé de mandat électif tout en influençant la politique internationale au XXéme siècle ?
 
