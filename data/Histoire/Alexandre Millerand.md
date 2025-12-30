@@ -22,11 +22,12 @@ questions:
  - Cette année-là, quel homme politique, ministre du Commerce et de l'Industrie donne son nom à une loi réduisant la durée quotidienne du travail?
 ---
 
+
 ![Image de Alexandre Millerand](https://upload.wikimedia.org/wikipedia/commons/1/18/Alexandre_Millerand_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel président de [[la République française]] a été en fonction lorsque le [[Traité de Versailles]] a été signé en [[1919]] ?
+Quel président de [[la République française]] a été en fonction lorsque le [[Traité de Versailles]] a été signé en [[1919]] ? <!-- score: 3 -->
 
 Qui est devenu le premier président de la [[IIIe République]] française à voir son pouvoir présidentiel renforcé par la révision constitutionnelle de [[1926]] ?
 
