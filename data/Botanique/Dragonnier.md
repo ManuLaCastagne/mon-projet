@@ -15,11 +15,12 @@ indice_6:
   - Plante ornementale et extraction de colorant rouge
 ---
 
+
 ![Image de Dragonnier](https://upload.wikimedia.org/wikipedia/commons/9/9a/Dracaena_draco_6.jpg)
 
 ###### Questions
 
-Quel arbre des régions tropicales produit une résine de couleur rouge sang, utilisée notamment pour colorer les vernis ?
+Quel arbre des régions tropicales produit une résine de couleur rouge sang, utilisée notamment pour colorer les vernis ? <!-- score: 6 -->
 ###### Description
 
 Le "Dragonnier", connu scientifiquement sous le nom de [[Dracaena]], appartient à la famille des [[Asparagacées]] et est originaire des régions tropicales d'[[Afrique]], de [[Madagascar]], et des îles de l'océan Indien. 
