@@ -16,13 +16,14 @@ indice_6 :
   - Nivellement
 ---
 
+
 ![Image de Jalon-mire](https://upload.wikimedia.org/wikipedia/commons/c/c4/Architectural_fragment_with_ranging_rod_%2891492%29.jpg)
 
 ###### Questions
 
 Quel outil, souvent en métal ou en bois, est utilisé par les géomètres pour marquer un point fixe lors d'un relevé topographique ?
 
-Comment appelle-t-on la tige graduée qui sert à mesurer des distances en planimétrie et qui est souvent colorée en rouge et blanc ?
+Comment appelle-t-on la tige graduée qui sert à mesurer des distances en planimétrie et qui est souvent colorée en rouge et blanc ? <!-- score: 3 -->
 
 Quel terme désigne un instrument essentiel en [[arpentage]] pour marquer les lignes droites et les points remarquables lors d'une mission de relevés ?
 
