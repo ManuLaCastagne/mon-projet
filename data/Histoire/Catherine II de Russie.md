@@ -22,11 +22,12 @@ questions:
  - Impératrice de Russie ayant voulu régner en despote éclairé, comme on disait à l'époque.
 ---
 
+
 ![Image de Catherine II de Russie](https://upload.wikimedia.org/wikipedia/commons/4/44/Catherine_II%2C_Imp%C3%A9ratrice_de_Russie_CIPB1240.jpg)
 
 ###### Questions
 
-Quel souverain a fondé la ville d'[[Odessa]] en [[1794]], un port clé sur la mer [[Noire]] ?
+Quel souverain a fondé la ville d'[[Odessa]] en [[1794]], un port clé sur la mer [[Noire]] ? <!-- score: 2 -->
 
 Quelle impératrice a cherché à moderniser le système éducatif en [[Russie]] en établissant la [[Commission pour l'éducation publique]] en [[1764]] ?
 
