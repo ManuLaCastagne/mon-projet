@@ -24,6 +24,7 @@ questions:
   - Quel tunnel fini en 1994 relie Coquelles à Folkestone ?
 ---
 
+
 ![Image de Tunnel sous la Manche](https://upload.wikimedia.org/wikipedia/commons/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg)
 
 ![[Carte_Tunnel sous la Manche.png]]
@@ -33,7 +34,7 @@ Quel tunnel fini en 1994 relie Coquelles à Folkestone ?
 
 Quel ouvrage inauguré en 1994 relie le [[Royaume-Uni]] à la France par une voie ferroviaire sous-marine ?
 
-Quel projet d'infrastructure a été suggéré pour la première fois en 1802 par l'ingénieur [[Albert Mathieu-Favier]] et n'a été réalisé que presque deux siècles plus tard ?
+Quel projet d'infrastructure a été suggéré pour la première fois en 1802 par l'ingénieur [[Albert Mathieu-Favier]] et n'a été réalisé que presque deux siècles plus tard ? <!-- score: 3 -->
 
 Quel passage, mesurant environ [[50,5 kilomètres]] de long, est considéré comme l'un des plus longs tunnels sous-marins au monde ?
 
