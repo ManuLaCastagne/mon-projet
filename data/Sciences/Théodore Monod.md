@@ -23,11 +23,12 @@ questions:
  - On vient d'entendre "Et si en plus y a personne", chanson d'Alain Souchon, qui figurait sur un album paru en 2005 intitulé "La Vie Théodore". A quel naturaliste français...
 ---
 
-![Image de Théodore Monod](https://upload.wikimedia.org/wikipedia/commons/f/f5/Theodore_Monod_-_Adrar_de_Mauritanie_-_Oued_Akerdil_-_D%C3%A9cembre_1998.jpg)
+
+![Image de Théodore Monod](https://upload.wikimedia.org/wikipedia/commons/f/f5/Theodore_Monod_-_Adrar_de_Mauritanie_-_Oued_Akerdil_-_D%C3%A9cembre_1998.jpg)
 
 ###### Questions
 
-Quel scientifique français, fondateur de l'[[Institut français d'Afrique Noire]] en 1936, a effectué de nombreuses missions de recherche dans le [[désert du Sahara]] ?
+Quel scientifique français, fondateur de l'[[Institut français d'Afrique Noire]] en 1936, a effectué de nombreuses missions de recherche dans le [[désert du Sahara]] ? <!-- score: 4 -->
 
 Quel explorateur et scientifique né en [[1902]], a consacré sa vie à l'étude des milieux désertiques et a publié des écrits majeurs sur la faune et la flore du [[Sahara]] ?
 
