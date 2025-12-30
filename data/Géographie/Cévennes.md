@@ -26,6 +26,7 @@ questions:
  - Quelle partie de la bordure orientale du Massif central, entre l'Hérault et l'Ardèche, est associée à des apprêts comportant des marrons?
 ---
 
+
 ![Image de Cévennes](https://upload.wikimedia.org/wikipedia/commons/c/c5/00_1272_Cevennen_%28C%C3%A9vennes%29_-_Frankreich.jpg)
 
 ![[Carte_Cévennes.png]]
@@ -35,7 +36,7 @@ Quel massif montagneux, classé au [[Patrimoine mondial de l'UNESCO]] en 2011 po
 
 Quelle région abrite le [[Mont Aigoual]], célèbre pour avoir accueilli un observatoire météorologique en 1894, le dernier de [[Météo-France]] encore habité aujourd'hui ?
 
-Dans quel parc national, créé en 1970, se trouve la plus grande concentration de dolines d'Europe, témoignant d'une profonde activité karstique ?
+Dans quel parc national, créé en 1970, se trouve la plus grande concentration de dolines d'Europe, témoignant d'une profonde activité karstique ? <!-- score: 4 -->
 
 ###### Description
 
