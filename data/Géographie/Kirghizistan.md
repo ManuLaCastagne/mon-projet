@@ -6,7 +6,6 @@ superficie: 199951
 location: 41.5089324,74.724091
 tags:
   - Kirghizistan
-  - GPS_mano
 indice_1:
   - Bichkek
 indice_2:
@@ -14,7 +13,7 @@ indice_2:
 indice_3:
   - Monts Tian
 indice_4:
-  - Osh
+  - Och
 indice_5:
   - Talas
 indice_6:
@@ -25,11 +24,11 @@ indice_6:
 
 ###### Questions
 
-[[Quel]] pays d'[[Asie centrale]] est entièrement enclavé entre [[Kazakhstan]], [[Ouzbékistan]], [[Tadjikistan]] et [[Chine]] ?
+[[Quel]] pays d'[[Asie centrale]] est entièrement enclavé entre [[Kazakhstan]], [[Ouzbékistan]], [[Tadjikistan]] et la [[Chine]] ?
 
 [[Quel]] pays possède une région appelée [[Vallée de Fergana]], partagée avec l'[[Ouzbékistan]] et le [[Tadjikistan]], connue pour sa production agricole et son histoire complexe ?
 
-[[Quel]] pays a célébré son indépendance de l'[[Union soviétique]] en [[1991]], devenant ainsi l'une des plus jeunes nations du monde ?
+De quel pays l'ancien chef Manas, né à [[Och]], est-il le héros national ?
 
 ###### Description
 
