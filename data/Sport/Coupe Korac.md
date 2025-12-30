@@ -20,13 +20,14 @@ indice_6 :
   - Virtus Bologne
 ---
 
+
 ![Image de Coupe Korac](https://upload.wikimedia.org/wikipedia/commons/5/57/Korac_Cup_cropped.jpg)
 
 ###### Questions
 
 Quel trophée européen a été remporté en 1993 par le club de [[Elan Béarnais Pau-Orthez]] dans le domaine du basketball ? 
 
-Quel trophée a été attribué entre 1972 et 2002 à des équipes de basketball européenne, en hommage à une légende yougoslave, joueurs pouvant participer en tant que deuxième niveau de compétition européen ?
+Quel trophée a été attribué entre 1972 et 2002 à des équipes de basketball européenne, en hommage à une légende yougoslave, joueurs pouvant participer en tant que deuxième niveau de compétition européen ? <!-- score: 3 -->
 
 Quel titre a été remporté trois fois par le club italien de [[Virtus Roma]] dans les années 1980, soulignant leur dominance dans le basketball européen ?
 
