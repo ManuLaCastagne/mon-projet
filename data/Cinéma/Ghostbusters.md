@@ -28,11 +28,11 @@ Dans quel film de [[1984]] peut-on entendre la célèbre phrase « Who you gonna
 
 Quelle comédie surnaturelle réalisée par [[Ivan Reitman]] a été un énorme succès commercial à sa sortie en [[1984]] ?
 
-Quel film culte a donné naissance à une chanson de [[Ray Parker Jr.]] qui a été numéro un des charts en [[1984]] ?
+Quel film culte a donné naissance à une chanson de [[Ray Parker Junior]] qui a été numéro un des charts en [[1984]] ?
 
 ###### Description
 
-Sorti en [[1984]], le film "Ghostbusters" a été réalisé par [[Ivan Reitman]] et se déroule principalement dans la ville emblématique de [[New York]]. 
+Sorti en [[1984]], le film "Ghostbusters" a été réalisé par [[Ivan Reitman]] et se déroule principalement dans la ville emblématique de [[New York]] avec [[Bill Murray]] et [[Sigourney Weaver]].
 
 Le scénario a été co-écrit par [[Dan Aykroyd]], qui est originaire d'[[Ottawa]], et [[Harold Ramis]]. 
 
