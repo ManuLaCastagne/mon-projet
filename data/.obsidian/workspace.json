@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/La Femme la plus riche du monde.md",
-                "mode": "source",
-                "source": false
+                "file": "Cinéma/L'Homme qui rétrécit.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "La Femme la plus riche du monde"
+              "title": "L'Homme qui rétrécit"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/La Femme la plus riche du monde.md",
+                "file": "Cinéma/L'Homme qui rétrécit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de La Femme la plus riche du monde"
+              "title": "Graphique de L'Homme qui rétrécit"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -354,11 +354,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "028c50878b1df9c9",
+  "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Cinéma/L'homme qui rétrécit.md",
-    "Télévision/Liliane Bettencourt.md",
     "Cinéma/La Femme la plus riche du monde.md",
+    "Cinéma/L'Homme qui rétrécit.md",
+    "Télévision/Liliane Bettencourt.md",
     "Animaux/Antilope.md",
     "Animaux/Addax.md",
     "Animaux/Barbet.md",
