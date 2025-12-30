@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Kirghizistan.md",
+                "file": "Géographie/Orlando.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kirghizistan"
+              "title": "Orlando"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Kirghizistan.md",
+                "file": "Géographie/Orlando.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Kirghizistan"
+              "title": "Graphique de Orlando"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -354,10 +354,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b18be18a8a65fd7",
+  "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Géographie/Vallée de Fergana.md",
+    "Géographie/Lake Eola.md",
+    "Géographie/Orlando.md",
     "Géographie/Kirghizistan.md",
+    "Géographie/Vallée de Fergana.md",
     "Géographie/Issyk-Koul.md",
     "Géographie/Och.md",
     "Géographie/Tadjikistan.md",
@@ -381,8 +383,6 @@
     "Architecture/gare de Lyon-Saint-Exupéry.md",
     "Architecture/Cathédrale d'Amiens.md",
     "Architecture/Villa Rotonda.md",
-    "Architecture/Tower Bridge.md",
-    "Architecture/Azay-le-Rideau.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]

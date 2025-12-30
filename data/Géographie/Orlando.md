@@ -9,21 +9,18 @@ tags:
   - Floride
   - États-Unis
   - Aucun
-
-indice_1 : 
+indice_1:
   - Floride
-indice_2 : 
+indice_2:
   - Disney World
-indice_3 : 
+indice_3:
   - Parcours de golf
-indice_4 : 
+indice_4:
   - Citrus Bowl
-indice_5 : 
+indice_5:
   - Universal Studios
-indice_6 : 
+indice_6:
   - Comté d'Orange
-questions:
- - Quelle ville de Floride comptant une 50aine de lacs abrite un parc aquatique ?
 ---
 
 
@@ -35,9 +32,9 @@ questions:
 
 Quelle ville abrite le parc à thème [[Walt Disney World Resort]], ouvert en 1971 ? <!-- score: 4 -->
 
-Dans quelle ville a eu lieu la fusillade de la boîte de nuit [[Pulse]] en 2016 ?
+Quelle ville de Floride comptant une cinquantaine de lacs et abrite un parc aquatique sur le thème de [[Walt Disney]] ?
 
-Quelle ville héberge le [[Orange County Convention Center]], le deuxième plus grand centre de congrès des [[États-Unis]] ?
+Quelle ville américaine est surnommée "The City Beautiful", en partie grâce à son lac emblématique, le [[Lake Eola]] ?
 
 ###### Description
 
