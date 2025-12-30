@@ -25,11 +25,12 @@ questions:
   - Quel genre théâtral japonais, apparu au XVIIe…
 ---
 
+
 ![Image de Kabouki](https://upload.wikimedia.org/wikipedia/commons/d/d0/Repr%C3%A9sentation_de_Harou%C3%A9_Azuma._26_mars_au_th%C3%A9%C3%A2tre_kabouki_%C3%A0_Osaka_-_affiche_-_non_identifi%C3%A9_-_btv1b53221602w.jpg)
 
 ###### Questions
 
-Quel terme désigne une forme de théâtre traditionnel japonais datant du début du XVIIe siècle, également reconnue par l'[[UNESCO]] comme faisant partie du [[patrimoine culturel immatériel]] de l'humanité depuis 2008 ?
+Quel terme désigne une forme de théâtre traditionnel japonais datant du début du XVIIe siècle, également reconnue par l'[[UNESCO]] comme faisant partie du [[patrimoine culturel immatériel]] de l'humanité depuis 2008 ? <!-- score: 4 -->
 
 Quelle forme de spectacle, incluant musique, danse et jeu dramatique, a été fondée par [[Izumo no Okuni]] à [[Kyoto]] en 1603 ?
 
