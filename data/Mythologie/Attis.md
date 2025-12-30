@@ -22,11 +22,12 @@ questions:
 ---
 
 
+
 ![Image de Attis](https://upload.wikimedia.org/wikipedia/commons/3/32/Statue_of_a_reclining_Attis_at_the_Shrine_of_Attis_2.jpg)
 
 ###### Questions
 
-Dans la mythologie gréco-romaine, quel personnage, parfois associé au phrygien [[Agdistis]], se mutile de chagrin après sa découverte d'une trahison amoureuse ? <!-- score: 4 -->
+Dans la mythologie gréco-romaine, quel personnage, parfois associé au phrygien [[Agdistis]], se mutile de chagrin après sa découverte d'une trahison amoureuse ? <!-- score: 3 -->
 
 Quel est le nom de la divinité phrygienne qui était un compagnon de la déesse [[Cybele]] et qui aurait été ressuscité après sa mort, symbolisant le cycle de mort et de renaissance, et qui est souvent commémoré lors des fêtes du [[22 mars]] à [[Rome]] ?
 
