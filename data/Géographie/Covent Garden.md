@@ -25,11 +25,12 @@ indice_6 :
 
 
 
+
 ![[Carte_Covent Garden.png]]
 
 ###### Questions
 
-Quel quartier de [[Londres]] a accueilli l'inauguration du fruit et légume le plus célèbre de la capitale britannique en 1670 avant de devenir un centre culturel animé ? <!-- score: 3 -->
+Quel quartier de [[Londres]] a accueilli l'inauguration du fruit et légume le plus célèbre de la capitale britannique en 1670 avant de devenir un centre culturel animé ? <!-- score: 4 -->
 
 Quelle place emblématique de [[Londres]], réaménagée par [[Inigo Jones]] au XVIIe siècle, est aujourd'hui un lieu incontournable pour le théâtre et le shopping ?
 
