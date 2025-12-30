@@ -22,13 +22,14 @@ indice_6 :
   - Margaret Mitchell
 ---
 
+
 ![Image de Autant en emporte le vent](https://upload.wikimedia.org/wikipedia/commons/d/d7/Vivien_Leigh_Gone_Wind_Restored.jpg)
 
 ###### Questions
 
 Quel film de 1939 est connu pour sa réplique emblématique "Frankly, my dear, I don't give a damn" ?
 
-Quel film, basé sur le roman de [[Margaret Mitchell]] publié en 1936, a remporté dix Oscars lors de la cérémonie de 1940 ?
+Quel film, basé sur le roman de [[Margaret Mitchell]] publié en 1936, a remporté dix Oscars lors de la cérémonie de 1940 ? <!-- score: 6 -->
 
 Quel film classique a marqué les débuts mémorables de [[Vivien Leigh]] dans le rôle de [[Scarlett O'Hara]] ?
 
