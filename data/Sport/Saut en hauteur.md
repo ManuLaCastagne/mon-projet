@@ -22,6 +22,7 @@ questions:
  - Discipline de l'athlétisme dont le premier record officiel a été détenu par Marshall Brooks en 1874, je suis devenue olympique en 1928 pour les femmes.
 ---
 
+
 ![Image de Saut en hauteur](https://upload.wikimedia.org/wikipedia/commons/2/2b/Nawal_Meniker_-_Saut_en_hauteur_f%C3%A9minin_-_Championnats_de_France_d%27athl%C3%A9tisme_en_salle_2015.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel sport a vu [[Dick Fosbury]] révolutionner la technique avec son célèbre 
 
 Quel sport a été l'un des premiers à utiliser une barre transversalement lors des [[Jeux olympiques antiques]], mais où le record n’a été officiellement mesuré qu'à partir de [[1912]] aux [[Jeux olympiques]] modernes ?
 
-Dans quel sport féminin [[Stefka Kostadinova]] détient-elle toujours le record du monde établi à [[2,09 m]] depuis [[1987]] lors des [[Championnats du monde d'athlétisme]] à [[Rome]] ?
+Dans quel sport féminin [[Stefka Kostadinova]] détient-elle toujours le record du monde établi à [[2,09 m]] depuis [[1987]] lors des [[Championnats du monde d'athlétisme]] à [[Rome]] ? <!-- score: 7 -->
 
 ###### Description
 
