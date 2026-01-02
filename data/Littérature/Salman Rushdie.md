@@ -25,11 +25,12 @@ questions:
 ---
 
 
+
 ![Image de Salman Rushdie](https://upload.wikimedia.org/wikipedia/commons/9/92/Salman_Rushdie_2014_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel auteur de renommée internationale a été victime d'une [[fatwa]] en 1989 après la publication controversée de son roman [[Les Versets sataniques]] ? <!-- score: 4 -->
+Quel auteur de renommée internationale a été victime d'une [[fatwa]] en 1989 après la publication controversée de son roman [[Les Versets sataniques]] ? <!-- score: 2 -->
 
 Quel écrivain anglo-indien, né en 1947 à [[Bombay]], a reçu le prestigieux [[Booker Prize]] en 1981 pour son œuvre [[Les Enfants de minuit]] ?
 
