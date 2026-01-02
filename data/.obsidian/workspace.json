@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Louis Garrel.md",
+                "file": "Cinéma/La Belle époque.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Louis Garrel"
+              "title": "La Belle époque"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Louis Garrel.md",
+                "file": "Cinéma/La Belle époque.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Louis Garrel"
+              "title": "Graphique de La Belle époque"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -356,9 +356,10 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Sciences/ADN.md",
     "Cinéma/Louis Garrel.md",
+    "Cinéma/La Belle époque.md",
     "Cinéma/La Belle Époque.md",
+    "Sciences/ADN.md",
     "Cinéma/Doria Tillier.md",
     "Cinéma/Hattie McDaniel.md",
     "Cinéma/Autant en emporte le vent.md",
@@ -381,7 +382,6 @@
     "Anatomie/Artère iliaque.md",
     "Cinéma/Roma.md",
     "Cinéma/Alfonso Cuarón.md",
-    "Roma.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]

@@ -1,23 +1,21 @@
 ---
-tags: 
+tags:
   - Cinéma
   - None
   - Années_2010
   - XXIe
-debut: 
-fin: 
-indice_1 : 
-  - Georges Méliès
-indice_2 : 
-  - Les Frères Lumière
-indice_3 : 
-  - Max Linder
-indice_4 : 
-  - Le Voyage dans la Lune
-indice_5 : 
-  - Cinéma muet
-indice_6 : 
-  - Pathé Frères
+debut: 2019
+fin:
+indice_1:
+  - Nicolas Bedos
+indice_2:
+  - Années 1900
+indice_3:
+  - Daniel Auteuil
+indice_4:
+  - Guillaume Canet
+indice_5:
+indice_6:
 ---
 
 ![Image de La Belle époque]()
@@ -32,9 +30,7 @@ Quel long-métrage contemporain revisite avec nostalgie et humour l'époque myth
 
 ###### Description
 
-[[Nicolas Bedos]], né à [[Neuilly-sur-Seine]], est le réalisateur du film "La Belle Époque", sorti en 2019. 
-
-Le film met en vedette [[Daniel Auteuil]] et [[Guillaume Canet]], racontant l'histoire d'un homme désillusionné qui retourne dans le passé pour revivre une semaine de sa vie dans les années 1970 grâce à une entreprise spécialisée. 
+Le film met en vedette [[Daniel Auteuil]] et [[Guillaume Canet]], racontant l'histoire d'un homme désillusionné qui retourne dans le passé pour revivre une semaine de sa vie dans les années 1970 grâce à une entreprise spécialisée. [[Doria Tillier]] y joue.
 
 Un fait surprenant est que le tournage a inclus la reconstitution exacte d'un bar emblématique des années 70, à tel point que les décorateurs craignaient de devoir demander des droits d'auteur pour l'authenticité visuelle. 
 
