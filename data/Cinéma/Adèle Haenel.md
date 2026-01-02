@@ -24,11 +24,12 @@ questions:
  - Et "L'Apollonide, souvenirs de la maison close", je reçois le Cinéma/César de la meilleure actrice en 2015 pour "Les Combattants".  A l'affiche de "La Fille inconnue" des frères Dardenne et de "120 battements par minute", je jouais en 2019 le rôle d'Héloïse dans "Portrait de la jeune fille en feu". Très beau film. Je suis...
 ---
 
-![Image de Adèle Haenel](https://upload.wikimedia.org/wikipedia/commons/c/cd/MERCI_ADELE_HAENEL.jpg)
+
+![Image de Adèle Haenel](https://upload.wikimedia.org/wikipedia/commons/c/cd/MERCI_ADELE_HAENEL.jpg)
 
 ###### Questions
 
-Quel deux fois lauréate du [[César de la meilleure actrice]] pour ses rôles dans [[Les Combattants]] (2014) et [[Portrait de la jeune fille en feu]] (2019) a annoncé en 2020 qu'elle ne souhaitait plus travailler dans l'industrie cinématographique traditionnelle ? 
+Quel deux fois lauréate du [[César de la meilleure actrice]] pour ses rôles dans [[Les Combattants]] (2014) et [[Portrait de la jeune fille en feu]] (2019) a annoncé en 2020 qu'elle ne souhaitait plus travailler dans l'industrie cinématographique traditionnelle ? <!-- score: 3 -->
 
 Quelle actrice française a débuté sa carrière à l'âge de 12 ans dans le film [[Les Diables]] réalisé par [[Christophe Ruggia]] en 2002, avant de remporter plusieurs César ? 
 
