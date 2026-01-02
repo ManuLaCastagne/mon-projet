@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Doria Tillier.md",
+                "file": "Cinéma/Sidney Lumet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doria Tillier"
+              "title": "Sidney Lumet"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Doria Tillier.md",
+                "file": "Cinéma/Sidney Lumet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Doria Tillier"
+              "title": "Graphique de Sidney Lumet"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -356,11 +356,14 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Cinéma/La Belle époque.md",
+    "Cinéma/ZAZ.md",
+    "Cinéma/Y a-t-il un pilote dans l'avion.md",
     "Cinéma/Louis Garrel.md",
+    "Cinéma/ADN (film).md",
+    "Cinéma/Doria Tillier.md",
+    "Cinéma/La Belle époque.md",
     "Cinéma/La Belle Époque.md",
     "Sciences/ADN.md",
-    "Cinéma/Doria Tillier.md",
     "Cinéma/Hattie McDaniel.md",
     "Cinéma/Autant en emporte le vent.md",
     "Littérature/Margaret Mitchell.md",
@@ -379,9 +382,6 @@
     "Anatomie/Muscles lisses.md",
     "Anatomie/Sacrum.md",
     "Anatomie/Atlas.md",
-    "Anatomie/Artère iliaque.md",
-    "Cinéma/Roma.md",
-    "Cinéma/Alfonso Cuarón.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]

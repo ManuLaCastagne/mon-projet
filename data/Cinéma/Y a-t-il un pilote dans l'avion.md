@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - États-Unis
   - Années_1980
@@ -7,21 +7,19 @@ tags:
 date:
   - 1980/07/02
 debut: 1980
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - parodie de films catastrophes
-indice_2 : 
+indice_2:
   - film de 1980
-indice_3 : 
+indice_3:
   - humour absurde
-indice_4 : 
+indice_4:
   - trio Zucker-Abrahams-Zucker
-indice_5 : 
+indice_5:
   - Leslie Nielsen
-indice_6 : 
+indice_6:
   - scène du pilote automatique gonflable
-questions:
- - En 80, dans quelle comédie, de Jim Abrahams, un ancien pilote de chasse prend-il les commandes d'un vol commercial ?
 ---
 
 
@@ -30,6 +28,8 @@ questions:
 ###### Questions
 
 Quel film culte de 1980, parodie de films catastrophes, doit son sens de l'humour unique à l'équipe de réalisateurs [[ZAZ]], composée de [[Jim Abrahams]] et des frères David et [[Jerry Zucker]] ?
+
+En 1980, dans quelle comédie, de Jim Abrahams, un ancien pilote de chasse prend-il les commandes d'un vol commercial ?
 
 Dans quel long-métrage retrouve-t-on des scènes et répliques tirées du film dramatique [[Zero Hour!]] de 1957, pour créer une comédie inoubliable ? <!-- score: 3 -->
 

@@ -20,8 +20,6 @@ indice_5:
   - acteur français
 indice_6:
   - son père est Philippe Garrel
-questions:
-  - Acteur fétiche de Christophe Honoré qui me dirige dans "Les Chansons d'amour", je suis à l'affiche en 2020 de "ADN" de Maïwenn.  Fils du réalisateur prénommé Philippe et petit-fils de l'acteur Maurice...
 ---
 
 
@@ -31,7 +29,7 @@ questions:
 
 Dans quel film réalisé par [[Jacques Doillon]] en 2019, [[Louis Garrel]] a-t-il joué le rôle principal ?
 
-Quel acteur fétiche de Christophe Honoré le dirige dans "Les Chansons d'amour" et est à l'affiche en 2020 de "[[ADN]]" de [[Maïwenn]] ? 
+Quel acteur fétiche de Christophe Honoré le dirige dans "Les Chansons d'amour" et est à l'affiche en 2020 de "[[ADN (film)]]" de [[Maïwenn]] ? 
 
 Quel acteurs est le fils d'un réalisateur prénommé Philippe et petit-fils d'un acteur prénommé Maurice ?
 
