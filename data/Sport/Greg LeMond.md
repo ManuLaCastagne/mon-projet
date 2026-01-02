@@ -22,6 +22,7 @@ questions:
  - En 1983, quel cycliste devient le 1er américain champion du monde sur route ?
 ---
 
+
 ![Image de Greg LeMond](https://upload.wikimedia.org/wikipedia/commons/9/93/Greg-LeMond-2010.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel cycliste américain est devenu le premier non-européen à remporter le [[T
 
 Quel athlète a remporté le [[Tour de France]] en [[1989]] après avoir survécu à un accident de chasse presque fatal deux ans plus tôt ?
 
-Quel champion cycliste a été le premier à gagner le [[Tour de France]] avec un guidon de triathlon, révolutionnant ainsi l'aérodynamisme du vélo pendant la course de [[1989]] ?
+Quel champion cycliste a été le premier à gagner le [[Tour de France]] avec un guidon de triathlon, révolutionnant ainsi l'aérodynamisme du vélo pendant la course de [[1989]] ? <!-- score: 3 -->
 
 ###### Description
 
