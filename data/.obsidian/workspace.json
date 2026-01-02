@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulaire/Zigonner.md",
+                "file": "Culture générale/guêpe de mer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zigonner"
+              "title": "guêpe de mer"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vocabulaire/Zigonner.md",
+                "file": "Culture générale/guêpe de mer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Zigonner"
+              "title": "Graphique de guêpe de mer"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -356,8 +356,10 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Culture générale/québécois.md",
+    "Vocabulaire/Physalie.md",
+    "Culture générale/guêpe de mer.md",
     "Vocabulaire/Zigonner.md",
+    "Culture générale/québécois.md",
     "Vocabulaire/Misonéiste.md",
     "Cinéma/Steve Buscemi.md",
     "Cinéma/Sylvester Stallone.md",
@@ -380,8 +382,6 @@
     "Sport/Rocky Marciano.md",
     "Cinéma/Rocky (film).md",
     "Cinéma/Apollo Creed.md",
-    "Cinéma/Raging Bull.md",
-    "Cinéma/Psychose.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
