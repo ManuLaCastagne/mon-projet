@@ -1213,4 +1213,4 @@ def pyperclip_copy_deck(deck):
     print("Deck copied to clipboard!")
 
 #change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
-generate_fiche("Valencia", "Géographie")
+#generate_fiche("Roma", "Cinéma")
