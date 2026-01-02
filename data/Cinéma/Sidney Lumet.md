@@ -28,14 +28,18 @@ indice_6:
 
 ###### Questions
 
-Dans quel film de [[Sidney Lumet]] sorti en 1957, l'action se déroule principalement dans une seule salle, avec pour intrigue principale un jury débattant d'une affaire de meurtre ? <!-- score: 10 -->
+Qui a réalisé [[Douze hommes en colère]] en 1957, dont l'action se déroule principalement dans une seule salle, avec pour intrigue principale un jury débattant d'une affaire de meurtre ?
 
-Pour quel cinéaste américain a-t-il tourné à cinq reprises, notamment dans "Le Crime de l'Orient-Express" ?
+Pour quel cinéaste américain [[Sean Connery]] a-t-il tourné à cinq reprises, notamment dans "[[Le Crime de l'Orient-Express]]" ?
 
 Quel réalisateur emblématique du [[cinéma américain]] a dirigé [[Al Pacino]] dans le film "Serpico" sorti en 1973 ? <!-- score: 4 -->
 
-Quel film de [[Sidney Lumet]] paru en 1976 critique sévèrement le monde des médias et de la télévision, remportant quatre Oscars dont celui du meilleur acteur pour [[Peter Finch]] ?
+Qui a réalisé [[Network]] paru en 1976 qui critique sévèrement le monde des médias et de la télévision ?
 
 ###### Description
 
-[[Sidney Lumet]] est un réalisateur américain prolifique, connu pour sa capacité à diriger des acteurs de talent et à aborder des thèmes sociaux complexes. Il a fait ses débuts au cinéma avec le film acclamé "[[12 Angry Men]]" en 1957, un huis clos dramatique sur un jury délibérant sur le verdict d'un meurtre. Lumet a également réalisé le chef-d'œuvre "[[Dog Day Afternoon]]" en 1975, mettant en vedette [[Al Pacino]] dans le rôle d'un braqueur de banque en plein été new-yorkais. En 2007, peu avant sa mort, Lumet a livré "[[Before the Devil Knows You're Dead]]", un thriller familial intense qui a prouvé qu'il n'avait rien perdu de son savoir-faire cinématographique.
+[[Sidney Lumet]] est né à [[Philadelphie]] en 1924 et est un réalisateur américain prolifique, connu pour sa capacité à diriger des acteurs de talent et à aborder des thèmes sociaux complexes. Il a fait ses débuts au cinéma avec le film acclamé "[[12 Angry Men]]" en 1957, un huis clos dramatique sur un jury délibérant sur le verdict d'un meurtre. 
+
+Lumet a également réalisé le chef-d'œuvre "[[Dog Day Afternoon]]" en 1975, mettant en vedette [[Al Pacino]] dans le rôle d'un braqueur de banque en plein été new-yorkais. 
+
+En 2007, peu avant sa mort, Lumet a livré "[[Before the Devil Knows You're Dead]]", un thriller familial intense qui a prouvé qu'il n'avait rien perdu de son savoir-faire cinématographique.
