@@ -24,6 +24,7 @@ questions:
  - Quel roman de Conan Doyle, dans le titre en français comporte le mot rouge...
 ---
 
+
 ![Image de Une Étude en rouge](https://upload.wikimedia.org/wikipedia/commons/2/25/The_Complete_Sherlock_Holmes_%28Volume_2%29.djvu)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel est le titre du premier roman mettant en scène le personnage de [[Sherlock
 
 Quel livre a introduit le personnage du [[Dr. John Watson]] et a marqué le début des célèbres enquêtes de [[Sherlock Holmes]] à [[Londres]] ?
 
-Quelle œuvre littéraire, publiée pour la première fois en 1887 dans le [[Beeton's Christmas Annual]], a lancé la carrière de [[Sherlock Holmes]] et d'[[Arthur Conan Doyle]] ?
+Quelle œuvre littéraire, publiée pour la première fois en 1887 dans le [[Beeton's Christmas Annual]], a lancé la carrière de [[Sherlock Holmes]] et d'[[Arthur Conan Doyle]] ? <!-- score: 2 -->
 
 ###### Description
 
