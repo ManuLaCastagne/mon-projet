@@ -23,11 +23,11 @@ indice_6 :
 ![[Pasted image 20250503184452.png]]
 ###### Questions
 
-Quel film réalisé par [[Bigas Luna]] en [[1992]] a pour titre un aliment répété deux fois ? <!-- score: 3 -->
+Quel comédie dramatique réalisée par [[Bigas Luna]] en [[1992]] a pour titre un aliment répété deux fois ? <!-- score: 3 -->
 
-Quel film a marqué les débuts d'acteur de [[Javier Bardem]] en [[1992]] ?
+Quel comédie dramatique a marqué les débuts d'acteur de [[Javier Bardem]] en [[1992]] ?
 
-Dans quel film le couple d'acteurs Penélope Cruz et [[Javier Bardem]] se sont rencontrés pour la première fois en [[1992]] ?
+Dans quel comédie dramatique le couple d'acteurs Penélope Cruz et [[Javier Bardem]] se sont rencontrés pour la première fois en [[1992]] ?
 
 ###### Description
 

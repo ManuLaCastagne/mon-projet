@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomie/Muscles lisses.md",
+                "file": "Cinéma/Adèle Haenel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Muscles lisses"
+              "title": "Adèle Haenel"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anatomie/Muscles lisses.md",
+                "file": "Cinéma/Adèle Haenel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Muscles lisses"
+              "title": "Graphique de Adèle Haenel"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -356,6 +356,9 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Cinéma/Jambon Jambon.md",
+    "Anatomie/Muscles lisses.md",
+    "Anatomie/Sacrum.md",
     "Anatomie/Atlas.md",
     "Anatomie/Artère iliaque.md",
     "Cinéma/Roma.md",
@@ -379,9 +382,6 @@
     "Géographie/Kirghizistan.md",
     "Géographie/Issyk-Koul.md",
     "Géographie/Caluire-et-Cuire.md",
-    "Cinéma/La Femme la plus riche du monde.md",
-    "Cinéma/L'homme qui rétrécit.md",
-    "Cinéma/Ivan Reitman.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
