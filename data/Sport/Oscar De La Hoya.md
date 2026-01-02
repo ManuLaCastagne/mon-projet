@@ -22,11 +22,12 @@ questions:
  - Et Manny Pacquiao. Américain d'origine mexicaine… Premier boxeur de l'histoire champion du monde dans six catégories de poids différents.  Surnommé le Golden Boy.
 ---
 
+
 ![Image de Oscar De La Hoya](https://upload.wikimedia.org/wikipedia/commons/5/5e/Oscar_De_La_Hoya_2010.jpg)
 
 ###### Questions
 
-Quel boxeur américain a remporté la médaille d'or dans la catégorie des poids légers aux [[Jeux olympiques d'été de 1992]] à [[Barcelone]] ?
+Quel boxeur américain a remporté la médaille d'or dans la catégorie des poids légers aux [[Jeux olympiques d'été de 1992]] à [[Barcelone]] ? <!-- score: 2 -->
 
 Qui a remporté un total de dix titres mondiaux dans six catégories de poids différentes, allant des super-plumes aux poids moyens de 1992 à 2008 ?
 
