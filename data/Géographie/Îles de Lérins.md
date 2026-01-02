@@ -26,14 +26,15 @@ questions:
  - Quel est ce groupe d'îles au large de Cannes qui est principalement composé des îles Saint-Honorat et Sainte-Marguerite, que l'on aperçoit ici respectivement aux 1er et 2e plan?
 ---
 
-![Image de Îles de Lérins](https://upload.wikimedia.org/wikipedia/commons/c/ce/Aerial_view_of_%C3%8Eles_de_L%C3%A9rins_%28cropped%29.jpg)
 
-![[Carte_Îles de Lérins.png]]
+![Image de Îles de Lérins](https://upload.wikimedia.org/wikipedia/commons/c/ce/Aerial_view_of_%C3%8Eles_de_L%C3%A9rins_%28cropped%29.jpg)
+
+![[Carte_Îles de Lérins.png]]
 ###### Questions
 
 Quelle est la destination où [[Napoléon Bonaparte]] a été brièvement emprisonné en juillet 1815 après sa défaite à [[Waterloo]]? 
 
-Quel est le nom de l'archipel où se trouve le monastère fortifié de [[Saint-Honorat]], bâti dès le début du [[Ve]] siècle?
+Quel est le nom de l'archipel où se trouve le monastère fortifié de [[Saint-Honorat]], bâti dès le début du [[Ve]] siècle? <!-- score: 1 -->
 
 Dans quel groupe d'îles du [[Var]] sont organisées les prestigieuses régates internationales appelées [[Les Voiles de Saint-Tropez]]?
 
