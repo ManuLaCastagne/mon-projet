@@ -30,10 +30,16 @@ indice_6 :
 
 Quel acteur américain ayant une carrière prolifique a commencé sa carrière en tant que [[pompier]] à [[New York]] dans les années 1980 avant de devenir célèbre pour ses rôles dans [[Reservoir Dogs]] et [[Fargo (film)]] ?
 
-Quel acteur, connu pour ses collaborations avec [[les frères Coen]], a également fait une apparition mémorable dans la série télévisée [[Les Soprano]] et a réalisé plusieurs épisodes de la série entre 2004 et 2006 ? <!-- score: 2 -->
+Quel acteur, connu pour ses collaborations avec les [[frères Coen]], a également fait une apparition mémorable dans la série télévisée [[Les Soprano]] et a réalisé plusieurs épisodes de la série entre 2004 et 2006 ? <!-- score: 2 -->
 
 Quel acteur est né le 13 décembre 1957 à [[Brooklyn]] et a prêté sa voix au personnage de [[Randall Boggs]] dans le film d'animation [[Monstres & Cie]] en 2001 ?
 
 ###### Description
 
-[[Steve Buscemi]] est un acteur et réalisateur américain né le 13 décembre 1957 à [[Brooklyn]], [[New York]]. Célèbre pour ses rôles dans des films de [[Quentin Tarantino]] et des frères [[Coen]], son jeu dans le film "[[Fargo (film)]]" de 1996 lui a conféré une reconnaissance internationale. Peu de gens savent que Steve a commencé sa carrière en tant que pompier à [[New York]] et a même repris son service auprès des pompiers de la ville après les attentats du 11 septembre 2001 pour aider à retrouver les survivants. En 2010, il a remporté un [[Golden Globe]] pour son rôle dans la série télévisée "[[Boardwalk Empire]]".
+[[Steve Buscemi]] est un acteur et réalisateur américain né le 13 décembre 1957 à [[Brooklyn]], [[New York]]. 
+
+Célèbre pour ses rôles dans des films de [[Quentin Tarantino]] et des frères [[Coen]], son jeu dans le film "[[Fargo (film)]]" de 1996 lui a conféré une reconnaissance internationale. 
+
+Peu de gens savent que Steve a commencé sa carrière en tant que pompier à [[New York]] et a même repris son service auprès des pompiers de la ville après les attentats du 11 septembre 2001 pour aider à retrouver les survivants. 
+
+En 2010, il a remporté un [[Golden Globe]] pour son rôle dans la série télévisée "[[Boardwalk Empire]]".
