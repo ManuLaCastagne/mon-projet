@@ -22,7 +22,8 @@ indice_6 :
   - Harry Potter et le Prisonnier d'Azkaban
 ---
 
-![Image de Alfonso Cuarón](https://upload.wikimedia.org/wikipedia/commons/0/00/Alfonso_Cuar%C3%B3n_%282013%29_cropped.jpg)
+
+![Image de Alfonso Cuarón](https://upload.wikimedia.org/wikipedia/commons/0/00/Alfonso_Cuar%C3%B3n_%282013%29_cropped.jpg)
 
 ###### Questions
 
@@ -30,7 +31,7 @@ Quel réalisateur mexicain a remporté l'[[Oscar]] du meilleur réalisateur en 2
 
 Quel cinéaste est devenu le premier réalisateur hispanique à recevoir deux [[Oscars]] du meilleur réalisateur, notamment pour [[Roma]] en 2019 ?
 
-Quel réalisateur a travaillé sur le troisième volet de la saga [[Harry Potter]], intitulé [[Harry Potter et le Prisonnier d'Azkaban]], sorti en 2004 ?
+Quel réalisateur a travaillé sur le troisième volet de la saga [[Harry Potter]], intitulé [[Harry Potter et le Prisonnier d'Azkaban]], sorti en 2004 ? <!-- score: 3 -->
 
 ###### Description
 
