@@ -24,10 +24,9 @@ questions:
 
 Quel lieu parisien polyvalent abrite à la fois un théâtre, un cinéma, une galerie d'art et un restaurant ?
 
-Où peut-on voir des pièces de théâtre, des projections de films indépendants et des expositions artistiques à [[Paris]] ?
+Où peut-on voir des pièces de théâtre, des projections de films indépendants et des expositions artistiques à [[Paris]] et porte le nom d'un office religieux ou d'une espèce de [[méduse]] qui se fixe aux rochers ? <!-- score: 5 -->
 
 Quel centre culturel parisien a été fondé en 1968 et porte le nom d'un ancien instrument d'éclairage à huile ?
-
 ###### Description
 
 Le [[Lucernaire]] est un centre culturel polyvalent situé à [[Paris]], fondé en 1969 par [[Christian Le Guillochet]] et [[Luisa Lozano]]. 
