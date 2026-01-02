@@ -22,13 +22,14 @@ questions:
  - En 1828, quel voyageur solitaire est le 1er Français à pénétrer dans la ville interdite de Tombouctou ?
 ---
 
-![Image de René Caillié](https://upload.wikimedia.org/wikipedia/commons/f/f9/Ren%C3%A9_Cailli%C3%A9.jpg)
+
+![Image de René Caillié](https://upload.wikimedia.org/wikipedia/commons/f/f9/Ren%C3%A9_Cailli%C3%A9.jpg)
 
 ###### Questions
 
 En 1828, quel explorateur français est devenu le premier Européen à revenir vivant de [[Tombouctou]] après l'avoir visitée ?
 
-Quel aventurier a remporté le prix de la [[Société de Géographie de Paris]] en 1830 pour avoir été le premier Européen à pénétrer et revenir sain et sauf de [[Tombouctou]] ?
+Quel aventurier a remporté le prix de la [[Société de Géographie de Paris]] en 1830 pour avoir été le premier Européen à pénétrer et revenir sain et sauf de [[Tombouctou]] ? <!-- score: 3 -->
 
 Qui est connu pour avoir parcouru l'Afrique déguisé en Arabe, atteignant [[Tombouctou]] et publiant son récit de voyage en 1830 ?
 
