@@ -7,7 +7,7 @@ tags:
 date:
   - 1980/12/19
 debut: 1980
-fin: 
+fin:
 indice_1:
   - Robert De Niro
 indice_2:
@@ -20,8 +20,6 @@ indice_5:
   - 1980
 indice_6:
   - film biographique
-questions:
-  - de quel film avec Robert de Niro est tirée la réplique "You fucked my wife" ?
 ---
 
 
@@ -33,11 +31,9 @@ questions:
 
 De quel film avec Robert de Niro est tirée la réplique "[[You fucked my wife]]" ?
 
-Quel film réalisé par [[Martin Scorsese]] est sorti en 1980 et est basé sur la vie du boxeur [[Jake LaMotta]] ?
-
 Dans quel film [[Robert De Niro]] a remporté l'[[Oscar du meilleur acteur]] en 1981 pour son interprétation d'un boxeur célèbre ?
 
-Quel film en noir et blanc est souvent cité comme l'un des meilleurs films de tous les temps et évoque la carrière tumultueuse du boxeur [[Jake LaMotta]] ? <!-- score: 3 -->
+Quel film en noir et blanc de 1980 réalisé par Scorsese est souvent cité comme l'un des meilleurs films de tous les temps et évoque la carrière tumultueuse du boxeur [[Jake LaMotta]] ? <!-- score: 3 -->
 
 ###### Description
 

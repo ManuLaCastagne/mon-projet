@@ -1,25 +1,23 @@
 ---
-tags: 
+tags:
   - Sport
   - Brockton_Massachusetts_États-Unis
   - Années_1950
   - XXe
 debut: 1923
 fin: 1969
-indice_1 : 
+indice_1:
   - Boxeur
-indice_2 : 
+indice_2:
   - Champion du monde poids lourds
-indice_3 : 
+indice_3:
   - Invaincu en carrière
-indice_4 : 
+indice_4:
   - 49 victoires
-indice_5 : 
+indice_5:
   - KO contre Jersey Joe Walcott
-indice_6 : 
+indice_6:
   - Brockton Blockbuster
-questions:
- - Quel boxeur américain prend sa retraite en 1956 en n'ayant  jamais connu la défaite ?
 ---
 
 ![Image de Rocky Marciano](https://upload.wikimedia.org/wikipedia/commons/1/1d/Rocky_Marciano_Postcard_1953.jpg)
@@ -28,10 +26,11 @@ questions:
 
 Qui est le seul champion du monde poids lourds de l'histoire de la boxe à avoir pris sa retraite en étant invaincu en [[1956]] ?
 
+Quel boxeur américain prend sa retraite en 1956 en n'ayant jamais connu la défaite ?
+
 Qui était surnommé "The Brockton Blockbuster" et a participé à son dernier combat professionnel en [[1955]] ?
 
-Quel boxeur américain, né en [[1923]], est resté invaincu avec un bilan parfait de 49 victoires, dont 43 par KO ?
-
+Quel boxeur né en 1923 a inspiré la série de films [[Rocky (film)]] ?
 ###### Description
 
 [[Rocky Marciano]], né le 1er septembre 1923 à [[Brockton]], dans l'État du Massachusetts, est une véritable légende de la boxe. 

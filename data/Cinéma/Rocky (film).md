@@ -24,7 +24,7 @@ indice_6 :
 
 ###### Questions
 
-Dans quel film de [[Sylvester Stallone]], sorti en [[1976]], un boxeur amateur de [[Philadelphie]] nommé [[Rocky Balboa]] a-t-il l'opportunité de combattre le champion du monde des poids lourds, [[Apollo Creed]] ?
+Dans quel film de [[Sylvester Stallone]], sorti en [[1976]], un boxeur amateur de [[Philadelphie]] a-t-il l'opportunité de combattre le champion du monde des poids lourds, [[Apollo Creed]] ?
 
 Quel film, réalisé par [[John G. Avildsen]], a remporté l'[[Oscar du meilleur film]] en [[1977]] malgré un petit budget de production et a lancé une franchise cinématographique durable ? <!-- score: 4 -->
 

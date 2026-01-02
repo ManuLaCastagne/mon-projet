@@ -27,11 +27,13 @@ indice_6 :
 
 ###### Questions
 
-Dans quel film de [[Martin Scorsese]] sorti en 1990, [[Joe Pesci]] joue-t-il le rôle de [[Tommy DeVito]], un gangster connu pour sa nature violente et imprévisible, rôle pour lequel il a remporté l'[[Oscar]] du meilleur acteur dans un second rôle? 
+Dans [[les Affranchis]] de [[Martin Scorsese]] sorti en 1990, qui joue le rôle de [[Tommy DeVito]], un gangster connu pour sa nature violente et imprévisible, rôle pour lequel il a remporté l'[[Oscar]] du meilleur acteur dans un second rôle ? 
 
-Dans quel film de [[Chris Columbus]] sorti en 1992, [[Joe Pesci]] joue-t-il le rôle du cambrioleur [[Harry Lyme]], aux côtés de [[Daniel Stern]], dans un classique des films familiaux de vacances? <!-- score: 6 -->
+En 1995, qui incarne [[Nicky Santoro]] dans [[Casino (film)]] de Martin Scorsese personnage inspiré d'un réel mafieux aux côtés de [[Robert De Niro]] et [[Sharon Stone]] ?
 
-Dans quel film de [[Jonathan Lynn]] sorti en 1992, [[Joe Pesci]] interprète-t-il le rôle d'un avocat loufoque nommé [[Vinny Gambini]], résolvant un cas compliqué dans une petite ville du sud des [[États-Unis]]?
+Dans [[Maman j'ai raté l'avion]] de [[Chris Columbus]] sorti en 1992, qui joue le rôle du cambrioleur [[Harry Lyme]], aux côtés de [[Daniel Stern]], dans un classique des films familiaux de vacances? <!-- score: 6 -->
+
+Dans [[Mon cousin Vinny]] de [[Jonathan Lynn]] sorti en 1992, qui le rôle d'un avocat loufoque nommé [[Vinny Gambini]], résolvant un cas compliqué dans une petite ville du sud des [[États-Unis]] ?
 
 ###### Description
 

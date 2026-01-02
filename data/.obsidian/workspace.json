@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Joe Pesci.md",
+                "file": "Littérature/Margaret Mitchell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Joe Pesci"
+              "title": "Margaret Mitchell"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,14 +36,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Joe Pesci.md",
+                "file": "Littérature/Margaret Mitchell.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Joe Pesci"
+              "title": "Graphique de Margaret Mitchell"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -356,6 +356,16 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Cinéma/Autant en emporte le vent.md",
+    "Littérature/Margaret Mitchell.md",
+    "Cinéma/Tel père, tel fils.md",
+    "Hirokazu Kore-eda.md",
+    "Sport/Rocky Marciano.md",
+    "Cinéma/Rocky (film).md",
+    "Cinéma/Apollo Creed.md",
+    "Cinéma/Raging Bull.md",
+    "Cinéma/Psychose.md",
+    "Cinéma/Joe Pesci.md",
     "Cinéma/Les Combattants.md",
     "Cinéma/Adèle Haenel.md",
     "Cinéma/Portrait de la jeune fille en feu.md",
@@ -372,16 +382,6 @@
     "Vocabulaire/Limonaire.md",
     "Religion/Nouvel an.md",
     "Vocabulaire/Langue de belle-mère.md",
-    "Télévision/Liliane Bettencourt.md",
-    "Musique/Ray Parker Junior.md",
-    "Histoire/Patton.md",
-    "Géographie/Vallée de Fergana.md",
-    "Géographie/Valencia.md",
-    "Géographie/Torshavn.md",
-    "Géographie/Tadjikistan.md",
-    "Géographie/Streymoy.md",
-    "Géographie/Och.md",
-    "Géographie/Lake Eola.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
