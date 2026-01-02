@@ -24,13 +24,14 @@ questions:
 
 
 
+
 ![Image de Vol à voile](https://upload.wikimedia.org/wikipedia/commons/c/ca/Vol_%C3%A0_voile_en_Haute-Provence.jpg)
 
 ###### Questions
 
 Quel sport, pratiqué sans moteur, a été reconnu par la [[Fédération Aéronautique Internationale]] en 1930 comme une discipline aéronautique à part entière ?
 
-Quelle activité sportive utilisant le principe de la [[thermique ascendante]] pour se maintenir en l'air a vu le jour en [[Allemagne]] dans les années 1920 ? <!-- score: 3 -->
+Quelle activité sportive utilisant le principe de la [[thermique ascendante]] pour se maintenir en l'air a vu le jour en [[Allemagne]] dans les années 1920 ? <!-- score: 2 -->
 
 Quel sport extrême, nécessitant des planeurs spéciaux pour participer à des compétitions comme le [[Grand Prix de Vol à Voile]], est souvent pratiqué dans des lieux propices aux courants ascendants tels que les [[Alpes]] ?
 
