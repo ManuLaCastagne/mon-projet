@@ -29,7 +29,7 @@ indice_6:
 
 Quelle actrice fraco-allemande est à l'affiche de "[[La Fille inconnue]]" des [[frères Dardenne]] et de "[[120 battements par minute]]" ?
 
-Qui jouait en 2019 le rôle d'Héloïse dans "Portrait de la jeune fille en feu" ?
+Qui jouait en 2019 le rôle d'Héloïse dans "Portrait de la jeune fille en feu" de [[Céline Sciamma]] ?
 
 Quel deux fois lauréate du [[César de la meilleure actrice]] pour ses rôles dans [[Les Combattants]] (2014) et [[Portrait de la jeune fille en feu]] (2019) a annoncé en 2020 qu'elle ne souhaitait plus travailler dans l'industrie cinématographique traditionnelle ? <!-- score: 3 -->
 

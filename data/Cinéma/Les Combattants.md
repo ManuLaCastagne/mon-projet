@@ -32,7 +32,7 @@ Quel film, explorant la dynamique entre un jeune homme et une femme militaire da
 
 ###### Description
 
-[[Les Combattants]] est un film français réalisé par [[Thomas Cailley]], sorti en 2014, qui a marqué le cinéma par son approche originale et son exploration des relations humaines. L'histoire suit [[Madeleine Beaulieu]], interprétée par [[Adèle Haenel]], et [[Arnaud Labrède]], joué par [[Kévin Azaïs]], tous deux originaires du cadre rural français, en particulier de [[Bordeaux]], où leur quête passionnée les pousse à s'engager dans un camp d'entraînement survivaliste.
+[[Les Combattants]] est un film français réalisé par [[Thomas Cailley]], sorti en 2014, qui a marqué le cinéma par son approche originale et son exploration des relations humaines. L'histoire suit [[Madeleine Beaulieu]], interprétée par [[Adèle Haenel]], et [[Arnaud Labrède]], joué par [[Kévin Azaïs]], tous deux originaires du cadre rural français, en particulier de [[Bordeaux]], où leur quête passionnée les pousse à s'engager dans un camp d'entraînement survivaliste, style [[Hunger Games]].
 
 Un fait étonnant à propos de [[Les Combattants]] est qu'il a remporté trois [[Césars]] en 2015, dont celui du Meilleur premier film, une reconnaissance rarement accordée à une première œuvre, ce qui en a fait un phénomène dans le cinéma français.
 
