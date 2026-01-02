@@ -25,6 +25,7 @@ questions:
 ---
 
 
+
 ![Image de Cormac McCarthy](https://upload.wikimedia.org/wikipedia/commons/7/7f/Cormac_McCarthy_%28Child_of_God_author_portrait_-_high-res%29.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel écrivain américain, surtout connu pour son roman post-apocalyptique [[The
 
 Quel auteur, connu pour son style minimaliste et ses dialogues dépouillés, a écrit le roman [[No Country for Old Men]], qui a été adapté en film en 2007 par les frères [[Coen]] ?
 
-Quel romancier de l'œuvre [[Blood Meridian]], considéré comme un chef-d'œuvre par de nombreux critiques littéraires, a été nommé l'un des plus grands écrivains américains contemporains et est décédé en 2023 ?
+Quel romancier de l'œuvre [[Blood Meridian]], considéré comme un chef-d'œuvre par de nombreux critiques littéraires, a été nommé l'un des plus grands écrivains américains contemporains et est décédé en 2023 ? <!-- score: 4 -->
 
 ###### Description
 
