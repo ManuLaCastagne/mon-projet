@@ -19,10 +19,11 @@ indice_5 :
 indice_6 : 
   - 1992
 ---
+
 ![[Pasted image 20250503184452.png]]
 ###### Questions
 
-Quel film réalisé par [[Bigas Luna]] en [[1992]] a pour titre un aliment répété deux fois ?
+Quel film réalisé par [[Bigas Luna]] en [[1992]] a pour titre un aliment répété deux fois ? <!-- score: 3 -->
 
 Quel film a marqué les débuts d'acteur de [[Javier Bardem]] en [[1992]] ?
 
