@@ -22,11 +22,12 @@ questions:
  - En 1876, quel site du Péloponnèse, célèbre pour sa porte des Lionnes, est fouillé par Heinrich Schliemann?
 ---
 
-![Image de Mycènes](https://upload.wikimedia.org/wikipedia/commons/9/9b/La_Dame_de_Myc%C3%A8nes%2C_fresco.jpg)
+
+![Image de Mycènes](https://upload.wikimedia.org/wikipedia/commons/9/9b/La_Dame_de_Myc%C3%A8nes%2C_fresco.jpg)
 
 ###### Questions
 
-Quelle ancienne cité-état située dans le Péloponnèse est considérée comme le centre de la civilisation achéenne vers 1600 av. J.-C. ?
+Quelle ancienne cité-état située dans le Péloponnèse est considérée comme le centre de la civilisation achéenne vers 1600 av. J.-C. ? <!-- score: 3 -->
 
 Quel site archéologique a été découvert par [[Heinrich Schliemann]] en 1876 et est lié à la légende de la guerre de [[Troie]] ?
 
