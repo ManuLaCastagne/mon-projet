@@ -22,11 +22,12 @@ questions:
  - Dans le Nouveau Testament, quel apôtre est l'un des 2 premiers à suivre Jésus, à qui il amène son frère Pierre?
 ---
 
+
 ![Image de Saint-André](https://upload.wikimedia.org/wikipedia/commons/c/c9/Saint-Andr%C3%A9_en_Maurienne_un_matin_d%27hiver_%282020%29.JPG)
 
 ###### Questions
 
-Quel apôtre, frère de [[Pierre]], a été crucifié sur une croix en forme de X selon la tradition chrétienne en [[60 après Jésus-Christ]] ?
+Quel apôtre, frère de [[Pierre]], a été crucifié sur une croix en forme de X selon la tradition chrétienne en [[60 après Jésus-Christ]] ? <!-- score: 3 -->
 
 Quel saint, honoré le [[30 novembre]] chaque année, est le patron de [[l'Écosse]] et des [[pêcheurs]] ?
 
