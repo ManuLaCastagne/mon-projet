@@ -30,7 +30,7 @@ Quel film français de 2019 réalisé par [[Nicolas Bedos]] met en scène un hom
 
 Quel long-métrage avec [[Daniel Auteuil]] et [[Guillaume Canet]] raconte l'histoire d'un homme désabusé dont la vie bascule lorsqu'une société lui propose de revivre l'[[époque]] de son choix grâce à des mises en scène théâtrales ?
 
-Dans quel film les personnages principaux, Victor et Marianne, plongent-ils dans une expérience immersive et nostalgique, transportant les spectateurs dans une reconstitution des années 1970 ?
+Dans quel film de Nicolas Bedos les personnages principaux, Victor et Marianne, plongent-ils dans une expérience immersive et nostalgique, transportant les spectateurs dans une reconstitution des années 1970 ?
 
 ###### Description
 
