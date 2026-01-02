@@ -20,6 +20,7 @@ questions:
  - Lors de la guerre de Troie, quel héros thessalien a touché le sol le 1er, bien que l'oracle ait prédit que le 1er Grec débarqué serait tué?
 ---
 
+
 ![Image de Protésilas](https://upload.wikimedia.org/wikipedia/commons/8/8c/Silver_drachma_or_tetrobol%2C_Thebes%2C_302-286_BC.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel héros grec de la [[mythologie]] est connu pour être le premier à mourir 
 
 Quel personnage, selon [[Homère]] dans l'[[Iliade]], s'illustre par sa bravoure mais trouve la mort rapidement après sa participation à la guerre qui a eu lieu autour de l'année [[1194 av. J.-C.]] ?
 
-Quel frère de [[Podarcès]] est célèbre dans la [[mythologie grecque]] pour sa chute, qui est aussi mentionnée dans des écrits attribués au poète [[Quintus de Smyrne]] autour du [[IVᵉ siècle]] après J.-C. ?
+Quel frère de [[Podarcès]] est célèbre dans la [[mythologie grecque]] pour sa chute, qui est aussi mentionnée dans des écrits attribués au poète [[Quintus de Smyrne]] autour du [[IVᵉ siècle]] après J.-C. ? <!-- score: 3 -->
 
 ###### Description
 
