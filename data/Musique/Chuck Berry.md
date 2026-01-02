@@ -24,12 +24,13 @@ indice_6 :
 
 ###### Questions
 
+Qui interprète le riff de guitare dans l'épilogue de [[retour vers le futur]] ? <!-- score: 5 -->
+
 Quel pionnier du rock and roll a popularisé le célèbre morceau "[[Johnny B. Goode]]" en 1958 ? 
 
 Quel musicien, dont le vrai nom est [[Charles Edward Anderson Berry]], a été intronisé au tout premier [[Rock and Roll Hall of Fame]] en 1986 ?
 
 Quel artiste américain a influencé des générations de musiciens avec son style de guitare distinctif et a sorti son premier succès "[[Maybellene]]" en 1955 ?
-
 ###### Description
 
 [[Chuck Berry]], né à [[Saint-Louis]] en 1926, est largement reconnu comme l'un des pionniers du rock 'n' roll. 
