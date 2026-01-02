@@ -24,6 +24,7 @@ indice_6 :
   - Palais d'Hiver
 ---
 
+
 ![[Carte_Saint-Pétersbourg.png]]
 
 ###### Questions
@@ -32,7 +33,7 @@ Quelle ville, nommée [[Petrograd]] en [[1914]] puis [[Leningrad]] en [[1924]], 
 
 Dans quelle ville se trouve le [[Palais d'Hiver]], cette ancienne résidence impériale devenue célèbre suite à la [[Révolution d'Octobre]] de [[1917]] ?
 
-Quelle ville a été choisie comme lieu de construction de la célèbre [[Forteresse Pierre-et-Paul]], fondée en [[1703]] par [[Pierre le Grand]] ?
+Quelle ville a été choisie comme lieu de construction de la célèbre [[Forteresse Pierre-et-Paul]], fondée en [[1703]] par [[Pierre le Grand]] ? <!-- score: 4 -->
 
 ###### Description
 
