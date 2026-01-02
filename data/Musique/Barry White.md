@@ -28,6 +28,8 @@ questions:
 
 ###### Questions
 
+Qui interprète le titre [[Let the music play]] ? <!-- score: 5 -->
+
 Quel célèbre chanteur de soul a failli devenir un gangster à [[Los Angeles]] après avoir purgé une peine de prison pour vol à l'âge de 16 ans, avant de changer de vie et de se lancer dans la musique ? 
 
 Can't get enough of your love, babe et "You're the first, the last my everything"… qu'on le surnommait le [[maestro de l'amour]] ?
@@ -35,7 +37,6 @@ Can't get enough of your love, babe et "You're the first, the last my everything
 Quel artiste de la scène [[R&B]] a vendu plus de 100 millions d'enregistrements à travers le monde et est connu pour ses tubes romantiques tels que "[[You're the First, the Last, My Everything]]" et "[[Can't Get Enough of Your Love, Babe]]" depuis les années 1970 ? 
 
 Quel chanteur au surnom de "[[Maestro of Love]]" a captivé le public par sa voix basse et frémissante, débutant sa carrière en solo avec l'album "I've Got So Much to Give" en 1973 ?
-
 ###### Description
 
 [[Barry White]], originaire de [[Galveston]], au [[Texas]], a marqué les esprits avec sa voix de basse profonde qui a captivé le public dans les années 1970. 
