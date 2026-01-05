@@ -20,20 +20,16 @@ indice_6 :
   - TF1
 ---
 
-![Image de Sophie Thalmann]()
+![Image de Sophie Thalmann](https://upload.wikimedia.org/wikipedia/commons/3/3b/Sophie_Thalmann_2013_2.jpg)
 
 ###### Questions
 
 Quelle [[Miss France]] a dit a [[Jean-Pierre Foucault]] qu'elle allait prendre sa place à la TV ? <!-- score: 5 -->
 
-Quel a été le premier épisode de l'émission "[[Vedettes Match]]" co-animé par [[Sophie Thalmann]] en 2001 ?
-
-Quel ancien titre a été remporté par [[Sophie Thalmann]] en 1998 avant de devenir une animatrice de télévision ?
-
-Quel est le nom de l'émission culinaire de [[TF1]] que [[Sophie Thalmann]] a co-présenté en 2004 ?
+Quelle Miss France 1998 a présenté "Combien ça coûte ?" diffusée sur [[TF1]] ?
 ###### Description
 
-[[Sophie Thalmann]], née le 7 mai 1976 à [[Bar-le-Duc]], est une personnalité française connue pour ses apparitions à la télévision et son titre de [[Miss France]] 1998. 
+[[Sophie Thalmann]], née le 7 mai 1976 à [[Bar-le-Duc]], est une personnalité française connue pour ses apparitions à la télévision et son titre de [[Miss France 1998]]. 
 
 En plus de sa carrière de mannequin, elle a travaillé comme animatrice pour des émissions télévisées telles que "Combien ça coûte ?" diffusée sur [[TF1]]. 
 

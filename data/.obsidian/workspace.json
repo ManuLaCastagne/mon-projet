@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture générale/guêpe de mer.md",
+                "file": "Télévision/Sophie Thalmann.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "guêpe de mer"
+              "title": "Sophie Thalmann"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Culture générale/guêpe de mer.md",
+                "file": "Télévision/Sophie Thalmann.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,12 +186,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 1.6316080910100295,
+                  "scale": 1.5127750605004464,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de guêpe de mer"
+              "title": "Graphique de Sophie Thalmann"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -356,9 +356,9 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Culture générale/guêpe de mer.md",
     "Télévision/Sophie Thalmann.md",
     "Vocabulaire/Physalie.md",
-    "Culture générale/guêpe de mer.md",
     "Vocabulaire/Zigonner.md",
     "Culture générale/québécois.md",
     "Vocabulaire/Misonéiste.md",
