@@ -24,12 +24,13 @@ indice_6 :
 
 ###### Questions
 
+Quelle [[Miss France]] a dit a [[Jean-Pierre Foucault]] qu'elle allait prendre sa place à la TV ? <!-- score: 5 -->
+
 Quel a été le premier épisode de l'émission "[[Vedettes Match]]" co-animé par [[Sophie Thalmann]] en 2001 ?
 
 Quel ancien titre a été remporté par [[Sophie Thalmann]] en 1998 avant de devenir une animatrice de télévision ?
 
 Quel est le nom de l'émission culinaire de [[TF1]] que [[Sophie Thalmann]] a co-présenté en 2004 ?
-
 ###### Description
 
 [[Sophie Thalmann]], née le 7 mai 1976 à [[Bar-le-Duc]], est une personnalité française connue pour ses apparitions à la télévision et son titre de [[Miss France]] 1998. 
