@@ -16,11 +16,12 @@ indice_6 :
   - Anablepidae
 ---
 
+
 ![Image de Anableps](https://upload.wikimedia.org/wikipedia/commons/6/64/Anableps_anableps_01.jpg)
 
 ###### Questions
 
-Quel est le nom du poisson qui peut voir à la fois au-dessus et en dessous de l'eau en raison de la structure unique de ses yeux?
+Quel est le nom du poisson qui peut voir à la fois au-dessus et en dessous de l'eau en raison de la structure unique de ses yeux? <!-- score: 3 -->
 
 Quel est le genre de poisson qui vit dans les eaux douces et saumâtres d'[[Amérique du Sud]] et possède la capacité inhabituelle de ville à la fois aérienne et aquatique?
 
