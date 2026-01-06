@@ -35,7 +35,7 @@ Quel philosophe français a collaboré avec [[Félix Guattari]] pour écrire [[C
 
 Quel penseur a rédigé en 1968 l'œuvre intitulée [[Différence et Répétition]], qui explore les concepts de différence et de répétition dans le cadre de la philosophie moderne ?
 
-Quel auteur a donné une série de conférences entre 1980 et 1981 intitulée [[Cinéma]], donnant naissance aux ouvrages [[L'Image-Mouvement]] (1983) et [[L'Image-Temps]] (1985) qui analysent les différentes visions du cinéma selon une perspective philosophique ? <!-- score: 3 -->
+Quel auteur a donné une série de conférences entre 1980 et 1981 intitulée [[Cinéma]], donnant naissance aux ouvrages [[L'Image-Mouvement]] (1983) et [[L'Image-Temps]] (1985) qui analysent les différentes visions du cinéma selon une perspective philosophique ? <!-- score: 2 -->
 
 ###### Description
 
