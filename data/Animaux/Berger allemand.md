@@ -19,11 +19,12 @@ questions:
 
 
 
+
 ![Image de Berger allemand](https://upload.wikimedia.org/wikipedia/commons/d/d7/Alwin_Berger_1906.jpg)
 
 ###### Questions
 
-Quel chien a été le premier à jouer le rôle de [[Rin Tin Tin]] dans les années [[1920]] ?
+Quel chien a été le premier à jouer le rôle de [[Rin Tin Tin]] dans les années [[1920]] ? <!-- score: 3 -->
 
 Quelle race canine a été choisie par [[Max von Stephanitz]] en [[1899]] pour créer un chien de travail idéal en [[Allemagne]] ? <!-- score: 3 -->
 
