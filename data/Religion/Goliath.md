@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Goliath](https://upload.wikimedia.org/wikipedia/commons/1/15/Goliath_Poldermolen.jpg)
 
 ###### Questions
 
 Quel géant biblique, célèbre pour son duel avec [[David]], mesurait environ 2 mètres 90 selon le livre de [[Samuel]] ?
 
-Quel personnage de l'[[Ancien Testament]] incarnait la menace des [[Philistins]] envers les [[Israélites]] avant d'être défait par un jeune berger ? <!-- score: 3 -->
+Quel personnage de l'[[Ancien Testament]] incarnait la menace des [[Philistins]] envers les [[Israélites]] avant d'être défait par un jeune berger ? <!-- score: 4 -->
 
 Quel guerrier redoutable est souvent cité comme un exemple de taille et de force dans les discussions théologiques autour de l'année [[1000 av. J.-C.]] ?
 
