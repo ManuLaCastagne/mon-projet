@@ -24,11 +24,12 @@ questions:
  - Dans quel roman d'Alexandre Dumas, le héros Edmond Dantès veut-il venger ceux qui l'ont emprisonné ?
 ---
 
+
 ![Image de Comte de Monte-Cristo](https://upload.wikimedia.org/wikipedia/commons/1/16/Le_comte_de_Monte-Cristo_-_Jules_Rouff.jpg)
 
 ###### Questions
 
-Quel roman d'[[Alexandre Dumas]] publié en 1844 suit l'histoire de [[Edmond Dantès]], un marin injustement emprisonné dans le [[Château d'If]] ?
+Quel roman d'[[Alexandre Dumas]] publié en 1844 suit l'histoire de [[Edmond Dantès]], un marin injustement emprisonné dans le [[Château d'If]] ? <!-- score: 7 -->
 
 Dans quel ouvrage, publié au milieu du XIXe siècle, le personnage principal découvre-t-il un trésor caché sur l'île de [[Monte-Cristo]] ?
 
