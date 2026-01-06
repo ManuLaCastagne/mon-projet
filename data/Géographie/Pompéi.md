@@ -23,11 +23,12 @@ indice_6 :
   - Fresques de la Villa des Mystères
 ---
 
+
 ![[Carte_Pompéi.png]]
 
 ###### Questions
 
-Quel site archéologique a été enseveli lors de l'éruption du [[Vésuve]] en [[79]] après J.-C. ? 
+Quel site archéologique a été enseveli lors de l'éruption du [[Vésuve]] en [[79]] après J.-C. ? <!-- score: 6 -->
 
 Quelle ancienne ville romaine a été redécouverte au [[XVIIIe siècle]], révélant des vestiges bien préservés sous des couches de cendres volcaniques ?
 
