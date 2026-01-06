@@ -22,11 +22,12 @@ indice_6 :
   - Belle
 ---
 
-![Image de La Belle et la Bête](https://upload.wikimedia.org/wikipedia/commons/4/4d/Recueil._%22La_belle_et_la_b%C3%AAte%22_film_de_Jean_Cocteau_-_btv1b105226336_%28014_of_126%29.jpg)
+
+![Image de La Belle et la Bête](https://upload.wikimedia.org/wikipedia/commons/4/4d/Recueil._%22La_belle_et_la_b%C3%AAte%22_film_de_Jean_Cocteau_-_btv1b105226336_%28014_of_126%29.jpg)
 
 ###### Questions
 
-Quel film sorti en 1991, produit par [[Walt Disney Pictures]], a marqué l'histoire en devenant le premier long métrage d'animation à être nominé pour l'[[Oscar du meilleur film]] ?
+Quel film sorti en 1991, produit par [[Walt Disney Pictures]], a marqué l'histoire en devenant le premier long métrage d'animation à être nominé pour l'[[Oscar du meilleur film]] ? <!-- score: 3 -->
 
 Quel film, basé sur un conte de [[Jeanne-Marie Leprince de Beaumont]], a été réimaginé en live-action dans une version sortie en 2017, mettant en vedette [[Emma Watson]] dans le rôle principal ?
 
