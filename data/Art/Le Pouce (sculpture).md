@@ -24,11 +24,12 @@ questions:
   - Quel doigt de la main a été représenté par César Baldaccini dans une sculpture haute de 12 m exposée dans le quartier de la Défense à Paris ?
 ---
 
+
 ![Image de Le Pouce (sculpture)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pouce-derdaumen.JPG/1024px-Pouce-derdaumen.JPG)
 
 ###### Questions
 
-Quel doigt de la main a été représenté par [[César Baldaccini]] dans une sculpture haute de 12 m exposée dans le quartier de la Défense à Paris ?
+Quel doigt de la main a été représenté par [[César Baldaccini]] dans une sculpture haute de 12 m exposée dans le quartier de la Défense à Paris ? <!-- score: 6 -->
 ###### Description
 
 [[Le Pouce (sculpture)]] est une œuvre monumentale créée par l'artiste français [[César Baldaccini]], souvent simplement appelé César, en 1965. 
