@@ -24,6 +24,7 @@ questions:
  - Dans quelle BD créée en 2005, quelle jeune héroïne vit à Abidjan un quartier populaire ?
 ---
 
+
 ![Image de Aya de Yopougon](https://upload.wikimedia.org/wikipedia/commons/f/f2/Panneau_explicatif_exposition_Marguerite_Abouet.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel roman graphique publié en 2005 retrouve-t-on le personnage principal 
 
 Quel ouvrage, co-créé par [[Marguerite Abouet]] et [[Clément Oubrerie]], a remporté le [[Prix du Premier Album]] au [[Festival international de la bande dessinée d'Angoulême]] en 2006 ? 
 
-Dans quelle série de bandes dessinées l'histoire se déroule-t-elle en [[Côte d'Ivoire]] à la fin des années 1970 et dépeint-elle la vie quotidienne des habitants de [[Yopougon]] ?
+Dans quelle série de bandes dessinées l'histoire se déroule-t-elle en [[Côte d'Ivoire]] à la fin des années 1970 et dépeint-elle la vie quotidienne des habitants de [[Yopougon]] ? <!-- score: 4 -->
 
 ###### Description
 
