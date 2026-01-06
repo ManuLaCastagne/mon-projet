@@ -24,11 +24,12 @@ questions:
  - En littérature, quel terme issu de l'italien désigne une pièce galante en vers pour une femme ?
 ---
 
+
 ![Image de Madrigal](https://upload.wikimedia.org/wikipedia/commons/2/24/Nielsen_Fonteiio_Libro_Madrigali.jpg)
 
 ###### Questions
 
-Quel est le groupe de poètes italiens du [[XVIe siècle]] qui ont influencé l'art poétique du [[madrigal]] en intégrant des thèmes pastoraux et amoureux ?
+Quel est le groupe de poètes italiens du [[XVIe siècle]] qui ont influencé l'art poétique du [[madrigal]] en intégrant des thèmes pastoraux et amoureux ? <!-- score: 5 -->
 
 Quel nom donne-t-on à la forme poétique polyphonique qui a influencé les poètes de la [[Pléiade]] au [[XVIe siècle]] en France, et dont [[Clément Marot]] s'est inspiré pour certaines de ses œuvres ?
 
