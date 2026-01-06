@@ -20,11 +20,12 @@ indice_6 :
   - Un héros très discret
 ---
 
+
 ![Image de Laurent Lafitte](https://upload.wikimedia.org/wikipedia/commons/6/63/Laurent_Lafitte_C%C3%A9sar_2018.jpg)
 
 ###### Questions
 
-Quel [[acteur]] français, membre de la [[Comédie-Française]] depuis [[2012]], a joué dans le film [[Elle]] de [[2016]] réalisé par [[Paul Verhoeven]] ? 
+Quel [[acteur]] français, membre de la [[Comédie-Française]] depuis [[2012]], a joué dans le film [[Elle]] de [[2016]] réalisé par [[Paul Verhoeven]] ? <!-- score: 3 -->
 
 Quel est le nom de l'[[acteur]] qui a incarné [[Antoine Bisset]] dans le film [[Papa ou Maman 2]] sorti en [[2016]] ? 
 
