@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Philippe IV le Bel](https://upload.wikimedia.org/wikipedia/commons/9/98/Philip_iv_and_family._2_%28detail_crop%29.jpg)
 
 ###### Questions
 
 Quel roi de France a ordonné l'arrestation de tous les membres de l'[[Ordre du Temple]] le vendredi 13 octobre 1307 ? <!-- score: 3 -->
 
-Quel monarque connu sous le nom de "[[le Roi de Fer]]" a régné sur la France de 1285 à 1314, renforçant le pouvoir royal au détriment de la féodalité ?
+Quel monarque connu sous le nom de "[[le Roi de Fer]]" a régné sur la France de 1285 à 1314, renforçant le pouvoir royal au détriment de la féodalité ? <!-- score: 2 -->
 
 Quel roi a affronté le [[Pape Boniface VIII]] lors du conflit qui a conduit à l'[[attentat d'Anagni]] en 1303 ?
 
