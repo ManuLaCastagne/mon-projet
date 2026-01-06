@@ -24,11 +24,12 @@ indice_6 :
   - Baalbek
 ---
 
+
 ![[Carte_Liban.png]]
 
 ###### Questions
 
-Dans quel pays du Moyen-Orient, en [[1954]], a été implanté l'un des premiers [[Ski Resort]] de la région, attirant des skieurs de toute la région ?
+Dans quel pays du Moyen-Orient, en [[1954]], a été implanté l'un des premiers [[Ski Resort]] de la région, attirant des skieurs de toute la région ? <!-- score: 4 -->
 
 Dans quel pays peut-on visiter les célèbres [[Cèdres du Seigneur]], mentionnés dans des textes anciens, et qui sont devenus un symbole national de la région ?
 
