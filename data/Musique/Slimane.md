@@ -22,6 +22,7 @@ indice_6 :
   - Artiste franco-algérien
 ---
 
+
 ![Image de Slimane](https://upload.wikimedia.org/wikipedia/commons/1/1f/Slimane_Eurovision_Song_Contest_2024_semi_2_%28cropped%29.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel chanteur a remporté la saison 5 de [[The Voice]] France en 2016 ?
 
 Qui a joué le rôle principal dans la comédie musicale [[Marie-Antoinette et le Chevalier de Maison-Rouge]] en 2016 aux [[Folies Bergère]] ?
 
-Quel artiste a sorti son premier album intitulé "[[À bout de rêves]]" en 2016 ?
+Quel artiste a sorti son premier album intitulé "[[À bout de rêves]]" en 2016 ? <!-- score: 4 -->
 
 ###### Description
 
