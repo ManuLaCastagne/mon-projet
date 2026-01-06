@@ -22,11 +22,12 @@ questions:
  - En 1524, quel navigateur découvre New York et la baptise "Terre d'Angoulême", a également donné son nom à un pont ?
 ---
 
+
 ![Image de Giovanni da Verazzano](https://upload.wikimedia.org/wikipedia/commons/6/68/RCT_Da_Verazzano_Fraccaroli_Allan_1968a.jpg)
 
 ###### Questions
 
-Quel navigateur italien a été le premier Européen, en [[1524]], à explorer la côte de l'actuelle [[Caroline du Nord]], bien avant les célèbres expéditions de [[Jacques Cartier]] et de [[Samuel de Champlain]] ?
+Quel navigateur italien a été le premier Européen, en [[1524]], à explorer la côte de l'actuelle [[Caroline du Nord]], bien avant les célèbres expéditions de [[Jacques Cartier]] et de [[Samuel de Champlain]] ? <!-- score: 4 -->
 
 Quel explorateur, souvent éclipsé par [[Christophe Colomb]], a donné son nom au célèbre pont suspendu qui relie [[Staten Island]] à [[Brooklyn]], redéfini la cartographie du [[Nouvel Monde]] au début du XVIe siècle ?
 
