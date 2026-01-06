@@ -25,12 +25,13 @@ indice_6 :
   - Ville jumelée avec Los Angeles
 ---
 
+
 ![Image de Erevan](https://upload.wikimedia.org/wikipedia/commons/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg)
 
 ![[Carte_Erevan.png]]
 ###### Questions
 
-Quelle est la capitale de [[l'Arménie]] qui a célébré son 2800ème anniversaire en 2018 ?
+Quelle est la capitale de [[l'Arménie]] qui a célébré son 2800ème anniversaire en 2018 ? <!-- score: 7 -->
 
 Dans quelle ville peut-on trouver un monument commémoratif qui symbolise le [[Génocide arménien]] de 1915 ?
 
