@@ -22,13 +22,14 @@ indice_6 :
   - village olympique
 ---
 
+
 ![Image de Paris 2024](https://upload.wikimedia.org/wikipedia/commons/c/ca/Pan_Zhanle_%28%E6%BD%98%E5%B1%95%E4%B9%90%29_at_the_2024_Summer_Olympics_in_Paris_in_August_2024.jpg)
 
 ###### Questions
 
 Dans quelle ville les [[Jeux olympiques]] d'été, qui incluront pour la première fois le [[breakdance]] comme discipline officielle, se tiendront-ils en 2024 ?
 
-Quelle est la prochaine édition des [[Jeux paralympiques]] durant laquelle des épreuves de [[para-taekwondo]] et de [[badminton]] verront leur introduction au programme ?
+Quelle est la prochaine édition des [[Jeux paralympiques]] durant laquelle des épreuves de [[para-taekwondo]] et de [[badminton]] verront leur introduction au programme ? <!-- score: 8 -->
 
 Lors de quelle édition des [[Jeux olympiques]] respectera-t-on une tradition interrompue en 1984, en utilisant uniquement des sites sportifs déjà existants ou temporaires pour réduire l'empreinte écologique de l'événement ?
 
