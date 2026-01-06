@@ -22,6 +22,7 @@ indice_6 :
   - Robert Enrico
 ---
 
+
 ![[Pasted image 20250421192655.png]]
 ###### Questions
 
@@ -31,7 +32,7 @@ Quel film d’[[action]] et de [[drame]] a pour actrice principale [[Romy Schnei
 
 Dans quel long-métrage sorti en 1975, [[Philippe Noiret]] joue-t-il le rôle du docteur [[Julien Dandieu]] cherchant à venger la mort de sa famille pendant la Seconde Guerre mondiale ?
 
-Quel film dramatique a été tourné dans le [[château de Bonaguil]] et est connu pour avoir été l'un des plus grands succès du cinéma français des années 1970 ? <!-- score: 3 -->
+Quel film dramatique a été tourné dans le [[château de Bonaguil]] et est connu pour avoir été l'un des plus grands succès du cinéma français des années 1970 ? <!-- score: 2 -->
 ###### Description
 
 [[Le Vieux Fusil]] est un film dramatique français réalisé par [[Robert Enrico]] et sorti en 1975. 

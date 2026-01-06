@@ -16,11 +16,12 @@ indice_6 :
   - Enzyme
 ---
 
+
 ![Image de Ptyaline](https://upload.wikimedia.org/wikipedia/commons/1/14/Nl-ptyalines.ogg)
 
 ###### Questions
 
-Quel est le mot utilisé pour désigner une enzyme présente dans la salive qui commence la digestion de l’[[amidon]] ? 
+Quel est le mot utilisé pour désigner une enzyme présente dans la salive qui commence la digestion de l’[[amidon]] ? <!-- score: 2 -->
 
 Quelle enzyme est responsable de la conversion du [[glucide]] en maltose dans la salive humaine ?
 

@@ -25,13 +25,14 @@ questions:
  - Dans le parc parisien de La Villette, quel bâtiment sphérique recouvert d'acier poli renferme une salle de projection?
 ---
 
-![Image de Géode](https://upload.wikimedia.org/wikipedia/commons/f/f7/Jasper_Geode_Grotto_13.jpg)
+
+![Image de Géode](https://upload.wikimedia.org/wikipedia/commons/f/f7/Jasper_Geode_Grotto_13.jpg)
 
 ###### Questions
 
 En quelle année la [[Géode]] a-t-elle été inaugurée dans le parc de la [[Villette]] à [[Paris]] ?
 
-Quel célèbre bâtiment sphérique, conçu par l'architecte [[Adrien Fainsilber]], est couvert de 6 433 plaques triangulaires en acier poli ?
+Quel célèbre bâtiment sphérique, conçu par l'architecte [[Adrien Fainsilber]], est couvert de 6 433 plaques triangulaires en acier poli ? <!-- score: 0 -->
 
 Quel édifice iconique permet de projeter des films sur un écran de 1 000 mètres carrés en utilisant la technique [[IMAX]] 180 degrés depuis 1985 ?
 

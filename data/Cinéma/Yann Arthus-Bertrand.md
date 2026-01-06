@@ -24,13 +24,14 @@ questions:
  - C'est du cinéma. En 2009, quel photographe réalise le film "Home"...
 ---
 
+
 ![Image de Yann Arthus-Bertrand](https://upload.wikimedia.org/wikipedia/commons/9/9c/Yann_Arthus-Bertrand%2C_2009_%28cropped%29.jpg)
 
 ###### Questions
 
 Quel photographe et réalisateur français, spécialisé en photographie aérienne, a réalisé le documentaire intitulé [[Home]] en 2009 ?
 
-Quel est le nom du réalisateur qui a cofondé la fondation [[GoodPlanet]], dédiée à l'écologie et la sensibilisation environnementale, en 2005 ?
+Quel est le nom du réalisateur qui a cofondé la fondation [[GoodPlanet]], dédiée à l'écologie et la sensibilisation environnementale, en 2005 ? <!-- score: 4 -->
 
 Quel réalisateur a reçu le titre de [[Chevalier de la Légion d'honneur]] pour son travail artistique et son engagement pour l'environnement en 2019 ?
 

@@ -26,6 +26,7 @@ questions:
  - Quelle avenue parisienne, appelée avenue de l'Impératrice lors de son ouverture en 1854, porte aujourd'hui le nom d'un maréchal de France?
 ---
 
+
 ![Image de Avenue Foch](https://upload.wikimedia.org/wikipedia/commons/1/1c/Avenue_Foch_%28Luftaufnahme%29.JPG)
 
 ![[Carte_Avenue Foch.png]]
@@ -35,7 +36,7 @@ Quelle est la célèbre avenue de [[Paris]] qui, en 1943, abritait le siège de 
 
 Quelle avenue parisienne, ouverte en 1854 sous le nom d'avenue de l'[[Impératrice]], est aujourd'hui l'une des artères les plus larges de [[Paris]] avec 120 mètres de largeur ?
 
-Quelle avenue parisienne débute à la [[Porte Dauphine]] et se termine à la [[Place Charles de Gaulle]], et est connue pour être l'une des plus chères au jeu du [[Monopoly]] français ?
+Quelle avenue parisienne débute à la [[Porte Dauphine]] et se termine à la [[Place Charles de Gaulle]], et est connue pour être l'une des plus chères au jeu du [[Monopoly]] français ? <!-- score: 4 -->
 
 ###### Description
 

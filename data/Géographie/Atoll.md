@@ -24,6 +24,7 @@ questions:
  - Ile des mers tropicales, je compte comme exemples célèbres Tuvalu, Bikini ou encore Mururoa, je suis…
 ---
 
+
 ![Image de Atoll](https://upload.wikimedia.org/wikipedia/commons/b/b4/Male-total.jpg)
 
 ![[Carte_Atoll.png]]
@@ -31,7 +32,7 @@ questions:
 
 Quelle formation géologique a été étudiée par [[Charles Darwin]] lors de son voyage sur le [[HMS Beagle]] en 1835, l'amenant à théoriser sur les récifs coralliens ?
 
-Quel type d'île a été choisi par les États-Unis pour mener les essais nucléaires des [[bikini]] dans l'[[archipel des Îles Marshall]] en 1946 ?
+Quel type d'île a été choisi par les États-Unis pour mener les essais nucléaires des [[bikini]] dans l'[[archipel des Îles Marshall]] en 1946 ? <!-- score: 4 -->
 
 Quel phénomène naturel extrême a mené à la submersion quasi totale de l'[[atoll de Funafuti]] lors du cyclone [[Bebe]] aux [[Îles Tuvalu]] en 1972 ?
 

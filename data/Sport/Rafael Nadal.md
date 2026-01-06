@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Rafael Nadal](https://upload.wikimedia.org/wikipedia/commons/7/71/Rafael_Nadal_en_2024_%28cropped%29.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel joueur de tennis a remporté 13 fois l'[[Open de France]] de [[Roland-Garro
 
 Quel athlète a décroché la médaille d'or en tennis simple à [[l'École Militaire]] lors des [[Jeux Olympiques d'été de 2008]] à [[Pékin]] ?
 
-Quel sportif a réalisé un double exceptionnel en remportant le [[Grand Chelem]] de [[Monte-Carlo]] et le [[Masters de Rome]] en [[2010]] ? <!-- score: 4 -->
+Quel sportif a réalisé un double exceptionnel en remportant le [[Grand Chelem]] de [[Monte-Carlo]] et le [[Masters de Rome]] en [[2010]] ? <!-- score: 6 -->
 
 ###### Description
 
