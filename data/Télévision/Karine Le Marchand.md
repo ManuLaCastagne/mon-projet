@@ -23,13 +23,14 @@ questions:
  - Du Mérite agricole. Présentatrice de "L'Amour est dans le pré" depuis 10 ans...
 ---
 
+
 ![Image de Karine Le Marchand](https://upload.wikimedia.org/wikipedia/commons/a/a1/Christophe_Dechavanne_et_Karine_Le_Marchand_obs%C3%A8ques_Belmondo.jpg)
 
 ###### Questions
 
 Quel est le nom de l'animatrice qui a pris les rênes de l'émission [[L'amour est dans le pré]] à partir de 2010 ?
 
-Qui est l'animatrice née à [[Nancy]] en 1968, connue pour son franc-parler et son rôle emblématique dans les émissions de romance à la télévision française ?
+Qui est l'animatrice née à [[Nancy]] en 1968, connue pour son franc-parler et son rôle emblématique dans les émissions de romance à la télévision française ? <!-- score: 4 -->
 
 Qui a animé l'émission [[Les Maternelles]] sur [[France 5]] entre 2004 et 2009 avant de devenir une figure incontournable de [[M6]] ?
 
