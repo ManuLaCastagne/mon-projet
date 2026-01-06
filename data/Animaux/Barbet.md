@@ -17,6 +17,7 @@ indice_6:
 
 
 
+
 ![Image de Barbet](https://upload.wikimedia.org/wikipedia/commons/6/61/Lineated_barbet_%28Psilopogon_lineatus%29%2C_Bangladesh.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quel chien d'eau français, souvent utilisé pour la chasse notamment dans des z
 
 Quel animal à poil frisé, connu pour être un excellent nageur, est souvent confondu à tort avec le [[Caniche]] avec lequel il partage un ancêtre commun ?
 
-Quelle race de chien, décrite pour la première fois au XVIème siècle et ayant joué un rôle dans le développement de la race du [[Caniche]], est appréciée pour sa capacité à rapporter le gibier d'eau ? <!-- score: 3 -->
+Quelle race de chien, décrite pour la première fois au XVIème siècle et ayant joué un rôle dans le développement de la race du [[Caniche]], est appréciée pour sa capacité à rapporter le gibier d'eau ? <!-- score: 2 -->
 
 ###### Description
 
