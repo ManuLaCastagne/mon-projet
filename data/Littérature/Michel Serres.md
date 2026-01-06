@@ -24,6 +24,7 @@ questions:
  - A quel philosophe et historien des sciences, dont le nom constitue un palindrome, doit-on l'ouvrage intitulé   "C'était mieux avant!" ?
 ---
 
+
 ![Image de Michel Serres](https://upload.wikimedia.org/wikipedia/commons/5/50/16_Michel_Serres_librairie_Dialogues_30_octobre_2014.JPG)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel académicien français, auteur de l'essai [[Le Tiers-Instruit]] publié en 
 
 Quel philosophe et historien des sciences français a écrit sur l'importance de la technologie dans le livre [[Petite Poucette]] paru en 2012 ? 
 
-Quel penseur a été l'un des premiers à explorer l'impact des mathématiques en sciences humaines dans son ouvrage [[Hermès]], publié à partir de 1969 ?
+Quel penseur a été l'un des premiers à explorer l'impact des mathématiques en sciences humaines dans son ouvrage [[Hermès]], publié à partir de 1969 ? <!-- score: 4 -->
 
 ###### Description
 
