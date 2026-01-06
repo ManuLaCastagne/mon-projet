@@ -49,6 +49,10 @@ choix = st.sidebar.selectbox(
     ]
 )
 
+if st.button("🔄 Forcer le rechargement"):
+    st.cache_data.clear()
+    st.rerun()
+
 # 🔀 Gestion des pages internes (redirigées depuis poser_questions)
 if st.session_state.get("page") == "edition" and (choix == "✅ Révision classique" or choix == "❓ Éditer les questions d’une fiche"):
     interface_edition_questions(st.session_state.get("edition_fichier"))
