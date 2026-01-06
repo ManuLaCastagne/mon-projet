@@ -20,11 +20,12 @@ indice_6 :
   - International Olympic Committee
 ---
 
+
 ![Image de Thomas Bach](https://upload.wikimedia.org/wikipedia/commons/e/e0/14-01-10-tbh-015.jpg)
 
 ###### Questions
 
-Quel athlète ancien champion olympique d'escrime a été élu président du [[Comité international olympique]] en [[2013]] ?
+Quel athlète ancien champion olympique d'escrime a été élu président du [[Comité international olympique]] en [[2013]] ? <!-- score: 4 -->
 
 Qui a joué un rôle clé dans l'organisation des [[Jeux olympiques de la Jeunesse]] qui ont été institués en [[2010]] sous son influence au [[Comité international olympique]] ?
 
