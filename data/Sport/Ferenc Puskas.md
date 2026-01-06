@@ -22,13 +22,14 @@ questions:
  - En 1960, quel attaquant hongrois du Real Madrid inscrit 4 buts en finale de la Coupe d'Europe des clubs champions ?
 ---
 
+
 ![Image de Ferenc Puskas](https://upload.wikimedia.org/wikipedia/commons/a/af/Ferenc_Puskas_player_licence.jpg)
 
 ###### Questions
 
 Quel joueur a été inscrit au [[Livre Guinness des records]] pour avoir marqué 84 buts en 85 matchs internationaux entre [[1945]] et [[1956]] ?
 
-Quel footballeur hongrois a eu un prix nommé en son honneur en [[2009]], récompensant le plus beau but de l'année lors des [[FIFA Ballon d'Or]] ?
+Quel footballeur hongrois a eu un prix nommé en son honneur en [[2009]], récompensant le plus beau but de l'année lors des [[FIFA Ballon d'Or]] ? <!-- score: 4 -->
 
 Quel joueur légendaire a marqué lors de la célèbre victoire 6-3 de la [[Hongrie]] contre l'[[Angleterre]] à [[Wembley]] en [[1953]] ?
 
