@@ -24,13 +24,14 @@ questions:
  - En 1995, dans quelle comédie Reine Victoria Abril lassée des infidélités de son mari Alain Chabat, comédie très drôle, a-t-elle une aventure avec une femme incarnée par Josiane Balasko?
 ---
 
+
 ![Image de Gazon maudit](https://upload.wikimedia.org/wikipedia/commons/3/3a/French_Twist_Caf%C3%A9_04.JPG)
 
 ###### Questions
 
 Dans quel film de [[Josiane Balasko]] sorti en 1995 voit-on une intrigue se développer autour d'un triangle amoureux impliquant un couple marié et une femme homosexuelle ?
 
-Quel long-métrage avec [[Alain Chabat]], [[Victoria Abril]] et [[Josiane Balasko]] a remporté le César de la meilleure première œuvre en 1996 ?
+Quel long-métrage avec [[Alain Chabat]], [[Victoria Abril]] et [[Josiane Balasko]] a remporté le César de la meilleure première œuvre en 1996 ? <!-- score: 3 -->
 
 Dans quelle comédie française aborde-t-on des sujets tels que l'homosexualité et l'adultère dans le cadre d'une histoire de voisinage peu commune ?
 
