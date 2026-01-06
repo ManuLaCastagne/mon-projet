@@ -27,12 +27,13 @@ questions:
 ---
 
 
-![Image de Îles d'Aran](https://upload.wikimedia.org/wikipedia/commons/d/d3/Aran_Islands_locator.svg)
 
-![[Carte_Îles d'Aran.png]]
+![Image de Îles d'Aran](https://upload.wikimedia.org/wikipedia/commons/d/d3/Aran_Islands_locator.svg)
+
+![[Carte_Îles d'Aran.png]]
 ###### Questions
 
-Où se situe l'ensemble d'îles connu pour ses paysages de calcaire et ses anciens forts en pierre sèche tels que [[Dún Aonghasa]], construits vers 1100 avant J.-C. ? <!-- score: 3 -->
+Où se situe l'ensemble d'îles connu pour ses paysages de calcaire et ses anciens forts en pierre sèche tels que [[Dún Aonghasa]], construits vers 1100 avant J.-C. ? <!-- score: 2 -->
 
 Quelle destination touristique, célèbre pour ses pulls traditionnels en laine épaisse à motifs complexes, est un archipel situé à l'embouchure de la baie de [[Galway]] en [[Irlande]] ?
 
