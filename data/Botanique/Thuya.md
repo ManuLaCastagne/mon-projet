@@ -18,13 +18,14 @@ questions:
 ---
 
 
+
 ![Image de Thuya](https://upload.wikimedia.org/wikipedia/commons/6/6a/Mummy_mask_of_Thuya.jpg)
 
 ###### Questions
 
 Quel conifère, voisin du [[cyprès]], est utilisé dans les jardins comme arbre d'ornement et pour servir de coupe-vent ?
 
-Quel conifère est aussi appelé "[[arbre de vie]]" ? <!-- score: 3 -->
+Quel conifère est aussi appelé "[[arbre de vie]]" ? <!-- score: 2 -->
 
 ###### Description
 
