@@ -20,11 +20,12 @@ indice_6 :
   - Deauville
 ---
 
+
 ![Image de Un homme et une femme](https://upload.wikimedia.org/wikipedia/commons/1/10/Un-homme-et-une-femme-2.png)
 
 ###### Questions
 
-Quel film réalisé par [[Claude Lelouch]] a remporté la Palme d'Or au [[Festival de Cannes]] en [[1966]] ?
+Quel film réalisé par [[Claude Lelouch]] a remporté la Palme d'Or au [[Festival de Cannes]] en [[1966]] ? <!-- score: 7 -->
 
 Quel long-métrage, dont la musique a été composée par [[Francis Lai]], a remporté deux [[Oscars]] en [[1967]], notamment pour le meilleur film étranger ?
 
