@@ -26,8 +26,6 @@ questions:
  - Dans quelle région agricole du Bassin parisien, couvrant 6640 km2 dans l'Orléanais, trouve-t-on...
 ---
 
-
-
 ![Image de Beauce](https://upload.wikimedia.org/wikipedia/commons/b/ba/Vue_de_Lion-en-Beauce.jpg)
 
 ![[Carte_Beauce.png]]
@@ -37,9 +35,6 @@ questions:
 Quelle région naturelle de France est surnommée le "grenier à blé de la France" en raison de sa production agricole intensive, notamment de céréales ?
 
 Dans quelle région se trouve la ville de [[Châteaudun]], qui fut le théâtre d'un siège mémorable en 1870 pendant la Guerre franco-prussienne ? <!-- score: 4 -->
-
-Quelle partie de la région naturelle de la [[Beauce]] est traversée par le fleuve [[Loire]], le plus long fleuve de France ? <!-- score: 5 -->
-
 ###### Description
 
 La [[Beauce]] est une vaste plaine agricole située au sud-ouest de [[Paris]], connue pour ses paysages ouverts et ses terres fertiles, faisant d'elle le "grenier à blé" de la France.
