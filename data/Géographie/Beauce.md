@@ -27,6 +27,7 @@ questions:
 ---
 
 
+
 ![Image de Beauce](https://upload.wikimedia.org/wikipedia/commons/b/ba/Vue_de_Lion-en-Beauce.jpg)
 
 ![[Carte_Beauce.png]]
@@ -37,7 +38,7 @@ Quelle région naturelle de France est surnommée le "grenier à blé de la Fran
 
 Dans quelle région se trouve la ville de [[Châteaudun]], qui fut le théâtre d'un siège mémorable en 1870 pendant la Guerre franco-prussienne ? <!-- score: 4 -->
 
-Quelle partie de la région naturelle de la [[Beauce]] est traversée par le fleuve [[Loire]], le plus long fleuve de France ?
+Quelle partie de la région naturelle de la [[Beauce]] est traversée par le fleuve [[Loire]], le plus long fleuve de France ? <!-- score: 5 -->
 
 ###### Description
 
