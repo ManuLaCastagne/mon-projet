@@ -24,17 +24,11 @@ questions:
  - Quelle mexicaine a été révélée en 1995 dans "Desperado" ?
 ---
 
-
 ![Image de Salma Ayeck]()
 
 ###### Questions
 
-Dans quel film de 2004, l'actrice [[Salma Ayeck]] interprète-t-elle le rôle d'une archéologue intrépide luttant contre des forces surnaturelles aux côtés de [[Brendan Fraser]] ?
-
-Quel rôle a valu à [[Salma Ayeck]] le [[Prix Molière]] de la meilleure interprétation féminine en 2012, devenant ainsi la première actrice d'origine [[tunisienne]] à remporter cette distinction ? <!-- score: 3 -->
-
-Quelle série télévisée de [[science-fiction]] diffusée pour la première fois en 2021, met en scène [[Salma Ayeck]] dans le rôle principal d'une scientifique cherchant à sauver l'humanité d'une catastrophe imminente ?
-
+Qui a tourné avec le réalisateur renommé [[Amine El Hadi]] pour le film [[Dans l'ombre des palmiers]] recevant le [[Prix Molière]] de la meilleure interprétation féminine en 2012, devenant ainsi la première actrice d'origine [[tunisienne]] à remporter cette distinction ? <!-- score: 3 -->
 ###### Description
 
 [[Salma Ayeck]] est une actrice franco-marocaine née en 1985, connue pour ses performances captivantes dans le cinéma d'auteur contemporain. 
