@@ -24,11 +24,12 @@ questions:
  - En 1963, dans quel film de Jean-Pierre Mocky Bourvil pille-t-il les troncs des églises?
 ---
 
-![Image de Drôle de paroissien](https://upload.wikimedia.org/wikipedia/commons/d/d7/Heaven_Sent_Gaming.png)
+
+![Image de Drôle de paroissien](https://upload.wikimedia.org/wikipedia/commons/d/d7/Heaven_Sent_Gaming.png)
 
 ###### Questions
 
-Dans quel film réalisé par [[Jean-Pierre Mocky]] en 1963, [[Bourvil]] incarne-t-il un homme qui vole de l'argent dans les troncs d'église ?
+Dans quel film réalisé par [[Jean-Pierre Mocky]] en 1963, [[Bourvil]] incarne-t-il un homme qui vole de l'argent dans les troncs d'église ? <!-- score: 4 -->
 
 Quel long-métrage sorti en 1963 raconte l'histoire de [[Georges Lachaunaye]], se lançant dans un pillage peu orthodoxe dans les églises de Paris ?
 
