@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Charles X](https://upload.wikimedia.org/wikipedia/commons/b/b0/Charles_X_%281757%E2%80%931836%29%2C_King_of_France%2C_after_G%C3%A9rard_MET_ep24.80.523.R.jpg)
 
 ###### Questions
 
-Quel roi de France a été couronné dans la cathédrale de [[Reims]] le 29 mai [[1825]] dans une cérémonie d'une ancienneté retrouvée ?
+Quel roi de France a été couronné dans la cathédrale de [[Reims]] le 29 mai [[1825]] dans une cérémonie d'une ancienneté retrouvée ? <!-- score: 3 -->
 
 Qui a été le dernier monarque de la [[Maison de Bourbon]] à régner sur la France avant la monarchie de [[Juillet]] ? <!-- score: 4 -->
 
