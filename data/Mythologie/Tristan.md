@@ -18,13 +18,14 @@ indice_6:
   - Moyen Âge
 ---
 
+
 ![Image de Tristan](https://upload.wikimedia.org/wikipedia/commons/6/6d/Tristan_da_Cunha_Island_%28ASTER%29.jpg)
 
 ###### Questions
 
 Au XIIe, quel héros d'une légende celtique se fait appeler Tantris pour passer inaperçu auprès de la reine d'Irlande ?
 
-Quel roi légendaire de [[Cornouailles]], doit ramener sa promise d'[[Irlande]], déclenchant ainsi l'une des histoires d'amour les plus célèbres de la [[mythologie celtique]] ?
+Quel roi légendaire de [[Cornouailles]], doit ramener sa promise d'[[Irlande]], déclenchant ainsi l'une des histoires d'amour les plus célèbres de la [[mythologie celtique]] ? <!-- score: 4 -->
 
 ###### Description
 
