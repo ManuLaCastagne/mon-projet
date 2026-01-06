@@ -20,11 +20,12 @@ indice_6:
   - acteur majeur des lois de 1833 sur l'instruction primaire
 ---
 
-![Image de François Guizot](https://upload.wikimedia.org/wikipedia/commons/9/99/Fran%C3%A7ois_Pierre_Guillaume_Guizot.jpg)
+
+![Image de François Guizot](https://upload.wikimedia.org/wikipedia/commons/9/99/Fran%C3%A7ois_Pierre_Guillaume_Guizot.jpg)
 
 ###### Questions
 
-En 1843, quel ministre de Louis-Philippe prononça "[[Enrichissez-vous]]" ?
+En 1843, quel ministre de Louis-Philippe prononça "[[Enrichissez-vous]]" ? <!-- score: 4 -->
 
 Quel historien et homme politique français, né en [[1787]] à [[Nîmes]], est connu pour avoir été le ministre de l'Éducation qui a instauré l'école primaire gratuite au début des années [[1830]] ?
 
