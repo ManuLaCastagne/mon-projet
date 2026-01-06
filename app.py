@@ -91,15 +91,14 @@ st.sidebar.title("🎮 Menu des jeux")
 choix = st.sidebar.selectbox(
     "Choisissez un mode de jeu :",
     [
-        "📌 Sélectionner un jeu",
         "✅ Révision classique",
-        "🤖 Générer une fiche",
-        "📝 Afficher une fiche",
         "❓ Éditer les questions d’une fiche",
-        "🗺️ Cartographie du savoir",
-        "🕵️ Qui suis-je ?",
-        "📅 Deviner à partir des années",
-        "🔗 Deviner à partir des liens internes"
+        "📝 Afficher une fiche",
+        "🤖 Générer une fiche"
+        #"🗺️ Cartographie du savoir",
+        #"🕵️ Qui suis-je ?",
+        #"📅 Deviner à partir des années",
+        #"🔗 Deviner à partir des liens internes"
     ]
 )
 
