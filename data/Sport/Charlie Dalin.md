@@ -20,6 +20,7 @@ indice_6 :
   - Skipper
 ---
 
+
 ![Image de Charlie Dalin](https://upload.wikimedia.org/wikipedia/commons/8/88/Charlie_Dalin.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel navigateur français a terminé en tête de la huitième édition du [[Vend
 
 Quel skipper a étudié à l'[[Université de Southampton]] après avoir été diplômé de l'[[École nationale supérieure de techniques avancées]] en [[2006]], connu pour sa carrière impressionnante dans la voile ?
 
-Quel marin a mené l'[[IMOCA]] [[Apivia]] à la victoire en temps réel lors de la [[Transat Jacques Vabre]] [[2019]] en établissant un record de vitesse sur cette course de classe ?
+Quel marin a mené l'[[IMOCA]] [[Apivia]] à la victoire en temps réel lors de la [[Transat Jacques Vabre]] [[2019]] en établissant un record de vitesse sur cette course de classe ? <!-- score: 1 -->
 
 ###### Description
 
