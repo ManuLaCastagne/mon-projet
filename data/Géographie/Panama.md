@@ -24,12 +24,13 @@ questions:
  - En 1977, avec quel Etat J.Carter signe-t-il un traité prévoyant la restitution d'un canal reliant le Pacifique à l'Atlantique?
 ---
 
+
 ![Image de Panama](https://upload.wikimedia.org/wikipedia/commons/e/e1/Panama_%28orthographic_projection%29.svg)
 
 ![[Carte_Panama.png]]
 ###### Questions
 
-Quel événement historique a conduit à l'indépendance de [[Panama]] vis-à-vis de la [[Colombie]] en 1903 ?
+Quel événement historique a conduit à l'indépendance de [[Panama]] vis-à-vis de la [[Colombie]] en 1903 ? <!-- score: 5 -->
 
 Quel traité signé en 1977 a progressivement transféré le contrôle complet du [[canal de Panama]] des États-Unis à [[Panama]], terminé en 1999 ?
 
