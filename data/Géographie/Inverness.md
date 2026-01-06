@@ -26,12 +26,13 @@ questions:
  - Quelle ville d'Ecosse, capitale des highlands, est située au nord du Gridland près du débouché du Loch Ness ?
 ---
 
+
 ![Image de Inverness](https://upload.wikimedia.org/wikipedia/commons/6/61/Shore_at_Longman_Point%2C_Inverness_-_geograph.org.uk_-_6725891.jpg)
 
 ![[Carte_Inverness.png]]
 ###### Questions
 
-Quel est le nom de la ville écossaise où la [[bataille de Culloden]] a eu lieu en 1746 ?
+Quel est le nom de la ville écossaise où la [[bataille de Culloden]] a eu lieu en 1746 ? <!-- score: 3 -->
 
 Dans quelle ville écossaise trouve-t-on le siège administratif de la région des [[Highlands]] ?
 
