@@ -25,11 +25,12 @@ questions:
 ---
 
 
-![Image de Honoré de Balzac](https://upload.wikimedia.org/wikipedia/commons/8/82/Honor%C3%A9_de_Balzac_%281842%29_detail.jpg)
+
+![Image de Honoré de Balzac](https://upload.wikimedia.org/wikipedia/commons/8/82/Honor%C3%A9_de_Balzac_%281842%29_detail.jpg)
 
 ###### Questions
 
-Quel auteur a consommé jusqu'à cinquante tasses de café par jour pour rester éveillé et écrire ses œuvres ? <!-- score: 4 -->
+Quel auteur a consommé jusqu'à cinquante tasses de café par jour pour rester éveillé et écrire ses œuvres ? <!-- score: 3 -->
 
 Quel écrivain est mort en 1850 à l'âge de cinquante et un ans, laissant derrière lui l'œuvre monumentale intitulée [[La Comédie humaine]] ?
 
