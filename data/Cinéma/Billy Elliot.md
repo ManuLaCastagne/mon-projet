@@ -24,11 +24,12 @@ questions:
  - En 2000, dans quel film britannique un jeune garçon préfère-t-il les cours de danse...
 ---
 
+
 ![Image de Billy Elliot](https://upload.wikimedia.org/wikipedia/commons/e/e1/Billy_Elliot.png)
 
 ###### Questions
 
-Dans quel film de 2000 un jeune garçon découvre-t-il une passion pour la danse classique en dépit des attentes de sa famille issue d'un milieu ouvrier pendant la grève des mineurs au Royaume-Uni dans les années 1980 ?
+Dans quel film de 2000 un jeune garçon découvre-t-il une passion pour la danse classique en dépit des attentes de sa famille issue d'un milieu ouvrier pendant la grève des mineurs au Royaume-Uni dans les années 1980 ? <!-- score: 6 -->
 
 Quel est le titre du film dans lequel l'acteur [[Jamie Bell]] décroche son rôle révélateur en incarnant un jeune danseur à l'accent du Nord-Est anglais, ce qui lui a permis de remporter le [[BAFTA]] du Meilleur Acteur en 2001 ?
 
