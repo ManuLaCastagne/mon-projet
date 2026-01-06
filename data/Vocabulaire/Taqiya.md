@@ -16,6 +16,7 @@ indice_6 :
   - Persécution
 ---
 
+
 ![Image de Taqiya](https://upload.wikimedia.org/wikipedia/commons/3/3c/Taq%C4%B1ya_erlerdi%C5%84.jpg)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quelle pratique musulmane consiste à dissimuler sa foi sous la contrainte pour 
 
 Quel terme désigne la prudence religieuse chez les musulmans chiites, permettant de cacher ses croyances en cas de danger, et a été particulièrement utilisé lors des persécutions historiques ?
 
-Comment appelle-t-on le concept islamique chiite qui permet de cacher ou de ne pas afficher sa foi afin d'éviter des persécutions ou discriminations religieuses, notamment pendant la domination des [[Abbassides]] ?
+Comment appelle-t-on le concept islamique chiite qui permet de cacher ou de ne pas afficher sa foi afin d'éviter des persécutions ou discriminations religieuses, notamment pendant la domination des [[Abbassides]] ? <!-- score: 4 -->
 
 ###### Description
 
