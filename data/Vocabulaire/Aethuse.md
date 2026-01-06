@@ -16,17 +16,11 @@ indice_6 :
   - Poison
 ---
 
-
 ![Image de Aethuse](https://upload.wikimedia.org/wikipedia/commons/a/a4/Medical_Heritage_Library_%28IA_b28758389%29.pdf)
 
 ###### Questions
 
-Quel est le nom de la plante vénéneuse de la famille des [[Apiaceae]], souvent confondue avec le [[persil]] ?
-
-Quel genre de [[papillon]] porte le même nom qu'une plante toxique des champs ? <!-- score: 3 -->
-
-Comment appelle-t-on la petite bicyclette employée par [[Pierre Chapelle]] pour ses balades solitaires ?
-
+Quel est le nom de la plante vénéneuse de la famille des [[Apiacées]], souvent confondue avec le [[persil]] et donc appelée [[faux persil]] ? <!-- score: 5 -->
 ###### Description
 
 Le terme "Aethuse" renvoie principalement à [[Aethusa cynapium]], une plante herbacée de la famille des Apiacées, connue sous le nom vernaculaire de "petite ciguë". 
