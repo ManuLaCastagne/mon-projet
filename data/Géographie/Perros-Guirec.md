@@ -26,6 +26,7 @@ questions:
  - Quelle station balnéaire des Cotes-d'Armor vient de la fusion de tertre et d'un saint breton ?
 ---
 
+
 ![Image de Perros-Guirec](https://upload.wikimedia.org/wikipedia/commons/b/bb/%C3%89glise_Saint-Jacques_-_int%C3%A9rieur_-_nef_%28Perros-Guirec%29.jpg)
 
 ![[Carte_Perros-Guirec.png]]
@@ -33,7 +34,7 @@ questions:
 
 Dans quelle ville se trouve la célèbre plage de [[Trestraou]], connue pour ses magnifiques formations rocheuses appelées [[Les Sept Îles]] ?
 
-Quel endroit, situé en [[Bretagne]], est réputé pour ses impressionnantes colonies d'oiseaux marins protégés depuis 1912 ?
+Quel endroit, situé en [[Bretagne]], est réputé pour ses impressionnantes colonies d'oiseaux marins protégés depuis 1912 ? <!-- score: 4 -->
 
 Quelle commune française, située dans le département des [[Côtes-d'Armor]], est célèbre pour ses rochers de granit rose et ses paysages côtiers exceptionnels ?
 
