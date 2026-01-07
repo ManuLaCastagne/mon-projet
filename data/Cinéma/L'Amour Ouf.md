@@ -1,22 +1,20 @@
 ---
-tags: 
+tags:
   - Cinéma
   - None
+debut:
+fin:
+indice_1:
   - None
+indice_2:
   - None
-debut: 
-fin: 
-indice_1 : 
+indice_3:
   - None
-indice_2 : 
+indice_4:
   - None
-indice_3 : 
+indice_5:
   - None
-indice_4 : 
-  - None
-indice_5 : 
-  - None
-indice_6 : 
+indice_6:
   - None
 ---
 
