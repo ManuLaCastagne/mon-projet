@@ -236,7 +236,7 @@ Si un élément n’est pas applicable ou inconnu de façon fiable, indique exac
 tags_generic = """Lieu géographique principal associé à NOM_FICHE | Décennie d’activité principale de NOM_FICHE au format Années_YYYY ou Années_-YYYY | Siècle correspondant au format Ve ou Ve_avant_JC"""
 prompt_tags = prompt_tags_debut + tags_generic + prompt_tags_fin
 
-tags_cinema_tv = """Pays d'origine de NOM_FICHE|Année de première sortie ou diffusion|Type (film/série/émission)"""
+tags_cinema_tv = """Pays d'origine de NOM_FICHE|Type (film/série/émission)|Style du film/série/émission"""
 prompt_tags_cinema_tv = prompt_tags_debut + tags_cinema_tv + prompt_tags_fin
 
 tags_geography = """Région de NOM_FICHE | Pays de NOM_FICHE | Département de NOM_FICHE"""
@@ -527,10 +527,10 @@ def generate_gpt_from_name_architecture(nom, category):
     return tags, indices, description, questions, annee_debut, annee_fin
 
 def generate_gpt_from_name_cinema_tv(nom, category):
-    tags = ask_gpt(prompt_tags_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
-    annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
-    annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
-    indices = ask_gpt(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    tags = ask_gpt(prompt_tags_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    indices = ask_gpt(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     description = ask_gpt_from_facts(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     question = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
 
