@@ -25,6 +25,7 @@ questions:
 ---
 
 
+
 ![Image de Greta Garbo](https://upload.wikimedia.org/wikipedia/commons/0/01/Greta_Garbo_in_Queen_Christina%2C_1933.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quelle star du cinéma muet et parlant est née sous le nom de [[Greta Lovisa Gu
 
 Quelle icône cinématographique a quitté Hollywood et mis fin à sa carrière à l'âge de 36 ans en 1941, devenant ainsi l'un des premiers mythes vivants du cinéma ?
 
-Qui a été surnommée la "Divine" et a joué son dernier rôle dans le film [[La Femme aux deux visages]] en 1941 ? <!-- score: 4 -->
+Qui a été surnommée la "Divine" et a joué son dernier rôle dans le film [[La Femme aux deux visages]] en 1941 ? <!-- score: 5 -->
 
 ###### Description
 
