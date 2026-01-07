@@ -752,12 +752,12 @@ indice_6 :
 
 def generate_fiche_cinema_tv(nom, category):
     tags, annee_debut, indices, description, question, annee_fin = generate_gpt_from_name_cinema_tv(nom, category)
-    print("Tags : "+tags)
-    print("Année début : "+annee_debut)
-    print("Année fin : "+annee_fin)
-    print("Indices : "+indices)
-    print("Description : "+description)
-    print("Question : "+question)
+    # print("Tags : "+tags)
+    # print("Année début : "+annee_debut)
+    # print("Année fin : "+annee_fin)
+    # print("Indices : "+indices)
+    # print("Description : "+description)
+    # print("Question : "+question)
 
     annee_debut_info = annee_debut.strip()
     annee_fin_info = annee_fin.strip()
@@ -809,12 +809,12 @@ indice_6 :
 
 def generate_fiche_generic(nom, category):
     tags, annee_debut, indices, description, question, annee_fin = generate_gpt_from_name(nom, category)
-    print("Tags : "+tags)
-    print("Année début : "+annee_debut)
-    print("Année fin : "+annee_fin)
-    print("Indices : "+indices)
-    print("Description : "+description)
-    print("Question : "+question)
+    # print("Tags : "+tags)
+    # print("Année début : "+annee_debut)
+    # print("Année fin : "+annee_fin)
+    # print("Indices : "+indices)
+    # print("Description : "+description)
+    # print("Question : "+question)
 
     annee_debut_info = annee_debut.strip()
     annee_fin_info = annee_fin.strip()
@@ -1455,4 +1455,4 @@ def pyperclip_copy_deck(deck):
     print("Deck copied to clipboard!")
 
 #change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
-generate_fiche("Une Affaire de famille", "Cinéma")
+#generate_fiche("Une Affaire de famille", "Cinéma")
