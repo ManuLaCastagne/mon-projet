@@ -410,15 +410,28 @@ def ask_gpt(prompt):
     )
     return response.choices[0].message.content.strip()
 
-def ask_gpt5(prompt):
-    response = client.chat.completions.create(
+def ask_gpt5(prompt: str) -> str:
+    response = client.responses.create(
         model="gpt-5-mini",
-        messages=[
-            {"role": "system", "content": "Ne pose jamais de question. Ne demande jamais de clarification. Ne propose jamais de vérifier des sources externes. Si une information est incertaine, applique les règles demandées (choix de l’option la plus notoire ou retour de None)."},
-            {"role": "user", "content": prompt}
+        input=[
+            {
+                "role": "system",
+                "content": (
+                    "Ne pose jamais de question. "
+                    "Ne demande jamais de clarification. "
+                    "Ne propose jamais de vérifier des sources externes. "
+                    "Si une information est incertaine, applique les règles demandées "
+                    "(choix de l’option la plus notoire ou retour de None)."
+                )
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
         ]
     )
-    return response.choices[0].message.content.strip()
+
+    return response.output_text.strip()
 
 def generate_gpt_from_name(nom, category):
     if category == "Géographie":
@@ -483,8 +496,8 @@ def generate_gpt_from_name_cinema_tv(nom, category):
     tags = ask_gpt(prompt_tags_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    indices = ask_gpt5(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    description = ask_gpt(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    indices = ask_gpt(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    description = ask_gpt5(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     question = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
 
     return tags, annee_debut, indices, description, question, annee_fin
@@ -493,8 +506,8 @@ def generate_gpt_from_name_generic(nom, category):
     tags = ask_gpt(prompt_tags.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    indices = ask_gpt5(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    description = ask_gpt(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    description = ask_gpt5(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     question = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
 
     return tags, annee_debut, indices, description, question, annee_fin

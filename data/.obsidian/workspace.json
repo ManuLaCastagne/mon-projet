@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/L'Amour Ouf.md",
+                "file": "Une affaire de famille.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'Amour Ouf"
+              "title": "Une affaire de famille"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/L'Amour Ouf.md",
+                "file": "Une affaire de famille.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de L'Amour Ouf"
+              "title": "Graphique de Une affaire de famille"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,8 +357,8 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Une affaire de famille.md",
     "Cinéma/L'Amour Ouf.md",
+    "Une affaire de famille.md",
     "Cinéma/Black Swan.md",
     "Anatomie/Artère iliaque.md",
     "Anatomie/Nyctalopie.md",
