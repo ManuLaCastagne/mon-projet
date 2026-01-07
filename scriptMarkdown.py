@@ -427,7 +427,7 @@ TÂCHE :
 """
 
     response = client.responses.create(
-        model="gpt-5-mini",
+        model="gpt-4o",
         input=guarded_prompt
     )
 
@@ -531,7 +531,7 @@ def generate_gpt_from_name_cinema_tv(nom, category):
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     indices = ask_gpt(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     #description = ask_gpt5(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    question = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    question = ask_gpt5_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
 
     description = ask_gpt5_from_facts(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     return tags, annee_debut, indices, description, question, annee_fin
