@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Hirokazu Kore-eda.md",
+                "file": "Architecture/Géode.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Hirokazu Kore-eda"
+              "title": "Géode"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Hirokazu Kore-eda.md",
+                "file": "Architecture/Géode.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Hirokazu Kore-eda"
+              "title": "Graphique de Géode"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -354,8 +354,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab6dbd6c30483175",
+  "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Architecture/Trinity College.md",
+    "Architecture/Géode.md",
+    "Cinéma/Hirokazu Kore-eda.md",
     "Télévision/Sophie Thalmann.md",
     "Sciences/Alpha Romeo.md",
     "Littérature/Longtemps je me suis couché de bonne heure.md",
@@ -379,9 +382,6 @@
     "Cinéma/ADN (film).md",
     "Cinéma/Doria Tillier.md",
     "Cinéma/La Belle époque.md",
-    "Cinéma/La Belle Époque.md",
-    "Sciences/ADN.md",
-    "Cinéma/Hattie McDaniel.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]

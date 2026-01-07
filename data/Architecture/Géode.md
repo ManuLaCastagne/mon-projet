@@ -2,27 +2,27 @@
 latitude: 52.1344489
 longitude: 5.438015
 location: 52.1344489,5.438015
-tags: 
+tags:
   - Architecture
-  - Paris,_France
   - Années_1980
   - XXe
+  - Certifié
 debut: 1985
 fin:
-indice_1 : 
+indice_1:
   - Philippe Chaix et Jean-Paul Morel
-indice_2 : 
+indice_2:
   - Coupole futuriste
-indice_3 : 
+indice_3:
   - Parc de la Villette
-indice_4 : 
+indice_4:
   - Science et industrie
-indice_5 : 
+indice_5:
   - Structure géodésique
-indice_6 : 
+indice_6:
   - Dôme argenté
 questions:
- - Dans le parc parisien de La Villette, quel bâtiment sphérique recouvert d'acier poli renferme une salle de projection?
+  - Dans le parc parisien de La Villette, quel bâtiment sphérique recouvert d'acier poli renferme une salle de projection?
 ---
 
 
@@ -32,7 +32,7 @@ questions:
 
 ###### Questions
 
-En quelle année la [[Géode]] a-t-elle été inaugurée dans le parc de la [[Villette]] à [[Paris]] ?
+Dans le parc parisien de La Villette, quel bâtiment sphérique recouvert d'acier poli renferme une salle de projection ?
 
 Quel célèbre bâtiment sphérique, conçu par l'architecte [[Adrien Fainsilber]], est couvert de 6 433 plaques triangulaires en acier poli ? <!-- score: 1 -->
 
