@@ -1,34 +1,30 @@
 ---
 tags:
-  - None
-  - None
-  - None
-debut: 
-fin: 
-indice_1 : 
-  - espion britannique
-indice_2 : 
-  - villain emblématique
-indice_3 : 
-  - mission secrète
-indice_4 : 
-  - agent triple zéro sept
-indice_5 : 
-  - gadgets innovants
-indice_6 : 
-  - James Bond
+  - France
+  - Film
+debut: 2025
+fin:
+indice_1:
+  - Film policier
+indice_2:
+  - Léa Drucker
+indice_3:
+  - Dominik Moll
+indice_4:
+  - IGPN
+indice_5:
+indice_6:
 ---
 
 ![Image de Dossier 137]()
 
 ###### Questions
 
-[[Quel réalisateur]] a vu l'une de ses œuvres intégrée dans un « Dossier 137 », considéré comme l'un des piliers du [[cinéma contemporain]] pour sa réflexion sur les limites de la narration cinématographique moderne ?
-
-[[Dans quelle année]] a-t-on constaté un regain d'intérêt pour un « Dossier 137 », ce phénomène marquant un tournant dans les études académiques consacrées à l'analyse des nouvelles technologies appliquées au [[cinéma]] ?
-
-[[Quel événement]] autour d'un « Dossier 137 » a attiré l'attention lors d'un célèbre festival du [[cinéma]] où il a remporté un prix pour sa contribution innovante à la réalisation artistique et technique ?
+Dans quel film [[Léa Drucker]] joue-t-elle une inspectrice de Police qui enquête sur un dossier pendant la révolte des [[gilets jaunes]] ?
 
 ###### Description
 
-Je suis désolé, je n'ai pas assez d'informations factuelles sur "Dossier 137" dans la catégorie Cinéma.
+Dossier 137 est un film français réalisé par [[Dominik Moll]] et sorti en 2025.
+
+Il raconte l'enquête après la grave blessure d'un homme par un tir de flash-ball lors des manifestations liées au mouvement des Gilets jaunes. Stéphanie Bertrand, enquêtrice à l'Inspection générale de la Police nationale (IGPN), est chargée d'en déterminer les responsabilités. Le film est présenté en « compétition officielle » au Festival de Cannes 2025.
+
