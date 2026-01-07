@@ -1,22 +1,21 @@
 ---
-tags: 
+tags:
   - Cinéma
-  - None
-  - 2024
-  - film
+  - France
+  - Film
 debut: 2024
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - romance tragique
-indice_2 : 
+indice_2:
   - réalisateur Gilles Lellouche
-indice_3 : 
+indice_3:
   - Adèle Exarchopoulos et François Civil
-indice_4 : 
+indice_4:
   - Nord de la France années 1980–90
-indice_5 : 
+indice_5:
   - librement inspiré du roman Jackie Loves Johnser OK?
-indice_6 : 
+indice_6:
   - Festival de Cannes 2024
 ---
 
