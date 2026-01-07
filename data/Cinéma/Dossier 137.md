@@ -26,5 +26,5 @@ Dans quel film [[Léa Drucker]] joue-t-elle une inspectrice de Police qui enquê
 
 Dossier 137 est un film français réalisé par [[Dominik Moll]] et sorti en 2025.
 
-Il raconte l'enquête après la grave blessure d'un homme par un tir de flash-ball lors des manifestations liées au mouvement des Gilets jaunes. Stéphanie Bertrand, enquêtrice à l'Inspection générale de la Police nationale (IGPN), est chargée d'en déterminer les responsabilités. Le film est présenté en « compétition officielle » au Festival de Cannes 2025.
+Il raconte l'enquête après la grave blessure d'un homme par un tir de flash-ball lors des manifestations liées au mouvement des Gilets jaunes. Stéphanie Bertrand, enquêtrice à l'Inspection générale de la Police nationale ([[IGPN]]), est chargée d'en déterminer les responsabilités. Le film est présenté en « compétition officielle » au Festival de Cannes 2025.
 
