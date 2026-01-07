@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - France
   - Années_1860
@@ -7,21 +7,19 @@ tags:
 date:
   - 1866/10/27
 debut: 1866
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Verlaine
-indice_2 : 
+indice_2:
   - poème
-indice_3 : 
+indice_3:
   - Loys Masson
-indice_4 : 
+indice_4:
   - mélancolie
-indice_5 : 
+indice_5:
   - XIXe siècle
-indice_6 : 
+indice_6:
   - Terza Rima
-questions:
- - Quel poème de Verlaine finit par ces mots   "Et je m'en vais au vent mauvais qui m'emporte deça delà, pareil à la feuille morte" ?
 ---
 
 
@@ -30,6 +28,8 @@ questions:
 ###### Questions
 
 Dans quel poème de [[Paul Verlaine]], utilisé par la [[Résistance française]] pour signaler le début de l'[[Opération Overlord]] en juin 1944, trouve-t-on les vers célèbres mentionnant les sanglots longs des violons ? 
+
+Quel [[terza rima]] de Verlaine finit par ces mots "Et je m'en vais au vent mauvais qui m'emporte deçà delà, pareil à la feuille morte" ?
 
 Quel œuvre poétique, publiée initialement en 1866, dans le recueil [[Poèmes saturniens]], est particulièrement renommée pour ses premiers vers évoquant la mélancolie de l'automne et a été reprise dans de nombreux contextes culturels ? <!-- score: 4 -->
 
