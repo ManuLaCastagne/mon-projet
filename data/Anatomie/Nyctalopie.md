@@ -2,9 +2,10 @@
 tags:
   - Santé
   - France
+  - Certifié
 ---
 
 ###### Questions 
 
-Faculté désignée par un mot qui, en anglais, possède un sens contraire à son acception française, je concerne un petit nombre d'êtres humains. Opposée à l'héméra... <!-- score: 4 -->
+Faculté désignée par un [[faux ami]] qui, en anglais, possède un sens contraire à son acception française, je concerne un petit nombre d'êtres humains. Opposée à l'[[héméralopie]]... <!-- score: 4 -->
 
