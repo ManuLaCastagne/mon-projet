@@ -232,12 +232,11 @@ Format strict attendu :
 """
 prompt_tags_fin = """
 Si un élément n’est pas applicable ou inconnu de façon fiable, indique exactement : None
-Ne mets absolument rien avant ou après la liste. Aucun espace inutile. Uniquement la liste finale.
 """
 tags_generic = """Lieu géographique principal associé à NOM_FICHE | Décennie d’activité principale de NOM_FICHE au format Années_YYYY ou Années_-YYYY | Siècle correspondant au format Ve ou Ve_avant_JC"""
 prompt_tags = prompt_tags_debut + tags_generic + prompt_tags_fin
 
-tags_cinema_tv = """Pays principal de production|Année de première sortie ou diffusion|Type (film/série/émission)"""
+tags_cinema_tv = """Pays d'origine de NOM_FICHE|Année de première sortie ou diffusion|Type (film/série/émission)"""
 prompt_tags_cinema_tv = prompt_tags_debut + tags_cinema_tv + prompt_tags_fin
 
 tags_geography = """Région de NOM_FICHE | Pays de NOM_FICHE | Département de NOM_FICHE"""
@@ -476,7 +475,9 @@ def generate_gpt_from_name(nom, category):
     elif category == "Animaux":
         return generate_gpt_from_name_animaux(nom, category)
     elif category == "Vocabulaire":
-        return generate_gpt_from_name_vocabulaire(nom)
+        return generate_gpt_from_name_vocabulaire(nom, category)
+    elif category == "Cinéma" or category == "Télévision":
+        return generate_gpt_from_name_cinema_tv(nom, category)
     else:
         return generate_gpt_from_name_generic(nom, category)
 
@@ -487,11 +488,11 @@ def generate_gpt_from_name_botanique(nom, category):
 
     return indices, description
 
-def generate_gpt_from_name_vocabulaire(nom):
+def generate_gpt_from_name_vocabulaire(nom, category):
 
     indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", "définition"))
     tag = ask_gpt(prompt_tag_vocabulaire.replace("NOM_FICHE", nom))
-    questions = ask_gpt5(prompt_questions_vocabulaire.replace("NOM_FICHE", nom))
+    questions = ask_gpt_from_facts(prompt_questions_vocabulaire.replace("NOM_FICHE", nom), nom, category)
     description = ask_gpt(prompt_description_vocabulaire.replace("NOM_FICHE", nom))
 
     return tag, questions, description, indices
@@ -500,7 +501,7 @@ def generate_gpt_from_name_animaux(nom, category):
 
     indices = ask_gpt(prompt_indices_animaux.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     description = ask_gpt(prompt_description_animaux.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    questions = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    questions = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
 
     return indices, description, questions
 
@@ -511,7 +512,7 @@ def generate_gpt_from_name_geography(nom, category):
         superficie = ""
 
     indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    questions = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    questions = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     description = ask_gpt(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     
     return tags, indices, description, questions, superficie
@@ -519,17 +520,17 @@ def generate_gpt_from_name_geography(nom, category):
 def generate_gpt_from_name_architecture(nom, category):
     tags = ask_gpt(prompt_tags_geography.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    questions = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    questions = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     description = ask_gpt(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     return tags, indices, description, questions, annee_debut, annee_fin
 
 def generate_gpt_from_name_cinema_tv(nom, category):
-    tags = ask_gpt_from_facts(prompt_tags_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
-    annee_debut = ask_gpt_from_facts(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
-    annee_fin = ask_gpt_from_facts(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
-    indices = ask_gpt_from_facts(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    tags = ask_gpt(prompt_tags_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    indices = ask_gpt(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     description = ask_gpt_from_facts(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     question = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
 
@@ -540,8 +541,8 @@ def generate_gpt_from_name_generic(nom, category):
     annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    description = ask_gpt5(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    question = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    description = ask_gpt(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    question = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
 
     return tags, annee_debut, indices, description, question, annee_fin
   
@@ -820,8 +821,7 @@ def generate_fiche_cinema_tv(nom, category):
 
     split_char = "|"
     new_content = f"""---
-tags: 
-  - {category}
+tags:
   - {tags.split(split_char)[0].strip().replace(" ", "_").replace(",","")}
   - {tags.split(split_char)[1].strip().replace(" ", "_").replace(",","")}
   - {tags.split(split_char)[2].strip().replace(" ", "_").replace(",","")}
