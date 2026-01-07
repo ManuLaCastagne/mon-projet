@@ -400,6 +400,39 @@ def ajoute_tags(fiche_name):
         return
     write_content_to_github(fiche_path, new_content)
 
+def fetch_facts_web(query: str) -> str:
+    response = client.responses.create(
+        model="gpt-5-mini",
+        tools=[{"type": "web_search"}],
+        tool_choice="auto",
+        input=query,
+        include=["web_search_call.action.sources"]
+    )
+
+    return response.output_text.strip()
+
+def ask_gpt5_from_facts(prompt, name, category) -> str:
+    facts = fetch_facts_web(name + " (" + category + ")")
+    guarded_prompt = f"""
+UTILISE UNIQUEMENT les informations factuelles ci-dessous.
+Interdiction absolue d’inventer ou d’ajouter des informations externes.
+Ne pose jamais de question.
+Si une information manque, applique les règles demandées (retour de None).
+
+FAITS :
+{facts}
+
+TÂCHE :
+{prompt}
+"""
+
+    response = client.responses.create(
+        model="gpt-5-mini",
+        input=guarded_prompt
+    )
+
+    return response.output_text.strip()
+
 def ask_gpt(prompt):
     response = client.chat.completions.create(
         model="gpt-4o",
@@ -497,9 +530,10 @@ def generate_gpt_from_name_cinema_tv(nom, category):
     annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     indices = ask_gpt(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    description = ask_gpt5(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    #description = ask_gpt5(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     question = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
 
+    description = ask_gpt5_from_facts(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     return tags, annee_debut, indices, description, question, annee_fin
   
 def generate_gpt_from_name_generic(nom, category):
