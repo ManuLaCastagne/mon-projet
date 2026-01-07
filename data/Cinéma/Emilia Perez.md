@@ -1,25 +1,24 @@
 ---
 tags:
   - France
-  - 2023
   - film
-debut: 
-fin: 
-indice_1 : 
-  - film à venir
-indice_2 : 
-  - musicien célèbre
-indice_3 : 
+debut: 2024
+fin:
+indice_1:
+  - Jacques Audiard
+indice_2:
+  - film musical
+indice_3:
   - cinéaste français
-indice_4 : 
+indice_4:
   - production internationale
-indice_5 : 
+indice_5:
   - comédie musicale
-indice_6 : 
+indice_6:
   - métamorphose personnelle
 ---
 
-![Image de Emilia Perez]()
+![Image de Emilia Perez](https://upload.wikimedia.org/wikipedia/commons/d/d4/Emilia_P%C3%A9rez_Cannes_2024.jpg)
 
 ###### Questions
 
