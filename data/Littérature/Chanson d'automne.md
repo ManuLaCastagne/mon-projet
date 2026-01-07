@@ -24,13 +24,14 @@ questions:
  - Quel poème de Verlaine finit par ces mots   "Et je m'en vais au vent mauvais qui m'emporte deça delà, pareil à la feuille morte" ?
 ---
 
+
 ![Image de Chanson d'automne](https://upload.wikimedia.org/wikipedia/commons/5/58/Paul_Verlaine_-_Chanson_d%27automne_-_Pieterskerkhof_4%2C_Leiden.JPG)
 
 ###### Questions
 
 Dans quel poème de [[Paul Verlaine]], utilisé par la [[Résistance française]] pour signaler le début de l'[[Opération Overlord]] en juin 1944, trouve-t-on les vers célèbres mentionnant les sanglots longs des violons ? 
 
-Quel œuvre poétique, publiée initialement en 1866, dans le recueil [[Poèmes saturniens]], est particulièrement renommée pour ses premiers vers évoquant la mélancolie de l'automne et a été reprise dans de nombreux contextes culturels ? 
+Quel œuvre poétique, publiée initialement en 1866, dans le recueil [[Poèmes saturniens]], est particulièrement renommée pour ses premiers vers évoquant la mélancolie de l'automne et a été reprise dans de nombreux contextes culturels ? <!-- score: 4 -->
 
 Quel poème a été diffusé en code par la [[BBC]] pour les réseaux de la [[Résistance]] en 1944, marquant un moment clé de la Seconde Guerre mondiale, et a été écrit par le poète symboliste [[Paul Verlaine]] ?
 
