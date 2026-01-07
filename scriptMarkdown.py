@@ -43,7 +43,9 @@ Le ton doit être informatif, neutre et encyclopédique, sans adjectifs inutiles
 
 Évite toute formulation tautologique ou évidente (ne pas reformuler le titre ou la catégorie comme information).
 
-Avant de produire le texte, vérifie mentalement que chacune des phrases serait encore considérée comme correcte par un jury de jeu télévisé aujourd’hui."""
+Avant de produire le texte, vérifie mentalement que chacune des phrases serait encore considérée comme correcte par un jury de jeu télévisé aujourd’hui.
+
+"""
 
 prompt_description_animaux = """
 Je veux une description encyclopédique de "NOM_FICHE" (catégorie : NOM_CATEGORY) composée de exactement quatre phrases distinctes.
@@ -104,6 +106,26 @@ La description doit inclure :
 Le ton doit être neutre, informatif et encyclopédique, sans effet stylistique inutile.
 
 N’utilise aucune liste, aucune puce, aucune explication hors texte descriptif.
+"""
+prompt_description_cinema_tv = """
+Je veux une description encyclopédique de "NOM_FICHE" (catégorie : NOM_CATEGORY) composée de exactement quatre phrases distinctes.
+
+Chaque phrase doit être séparée par exactement deux sauts de ligne.
+
+Tous les noms propres, œuvres, personnes, lieux, institutions, événements ou concepts doivent être entourés de [[ ]] pour favoriser les connexions dans [[Obsidian]].
+
+Interdiction d’inventer : n’inclus que des informations factuelles et vérifiables.
+Si une information manque ou est incertaine, reformule la phrase sans cette information (ne compense pas par une invention).
+
+La description doit inclure, répartis sur les quatre phrases :
+– le format (film, série, émission),
+– l’année exacte de sortie ou de première diffusion,
+– un ou plusieurs noms clés (réalisation/création et/ou interprètes principaux),
+– le pays de production,
+– au moins un élément distinctif (synopsis, esthétique, structure),
+– au moins un fait marquant exploitable en quiz (festival, nominations, chiffre d’entrées si connu, record, polémique).
+
+N’utilise aucune liste, aucune puce, aucun commentaire hors des quatre phrases.
 """
 
 prompt_questions = """
@@ -172,6 +194,24 @@ Aucun commentaire.
 Uniquement la liste finale au format demandé.
 """
 
+prompt_indices_cinema_tv = """
+Thème : NOM_FICHE (catégorie : NOM_CATEGORY)
+
+Ne pose jamais de question et ne demande jamais de confirmation.
+Si le titre correspond à plusieurs œuvres et que tu ne peux pas trancher, choisis l’œuvre la plus notoire associée à ce titre dans la catégorie demandée.
+Si tu n’es pas certain de l’œuvre, retourne exactement : None|None|None|None|None|None
+
+Donne exactement six indices distincts (groupes nominaux, pas de phrases) qui permettent d’identifier l’œuvre à condition de les considérer ensemble.
+Aucun indice ne doit contenir le titre exact, une variante évidente du titre, ou un élément qui révèle immédiatement la réponse.
+
+Sépare uniquement par une barre verticale (|), sans retour à la ligne, sans numérotation, sans ponctuation supplémentaire.
+
+Format strict :
+élément1|élément2|élément3|élément4|élément5|élément6
+
+Ne mets absolument rien avant ou après la liste.
+"""
+
 indices_generic = """Lieu géographique précis associé à NOM_FICHE | Période d’activité principale de NOM_FICHE au format Années_YYYY ou Années_-YYYY | Siècle correspondant au format Ve ou Ve_avant_JC | Domaine ou type d’activité caractéristique de NOM_FICHE | Élément factuel distinctif lié à NOM_FICHE | Notion ou concept fortement associé à NOM_FICHE """
 prompt_indices = prompt_indices_debut + indices_generic + prompt_indices_fin
 
@@ -191,16 +231,14 @@ sans retour à la ligne, sans espace superflu, sans ponctuation supplémentaire.
 Format strict attendu :
 """
 prompt_tags_fin = """
-Si un élément n’est pas applicable, indique exactement : None
-
-Ne mets absolument rien avant ou après la liste.
-Aucune phrase explicative.
-Aucun commentaire.
-Aucun exemple.
-Uniquement la liste finale au format demandé.
+Si un élément n’est pas applicable ou inconnu de façon fiable, indique exactement : None
+Ne mets absolument rien avant ou après la liste. Aucun espace inutile. Uniquement la liste finale.
 """
 tags_generic = """Lieu géographique principal associé à NOM_FICHE | Décennie d’activité principale de NOM_FICHE au format Années_YYYY ou Années_-YYYY | Siècle correspondant au format Ve ou Ve_avant_JC"""
 prompt_tags = prompt_tags_debut + tags_generic + prompt_tags_fin
+
+tags_cinema_tv = """Pays principal de production|Année de première sortie ou diffusion|Type (film/série/émission)"""
+prompt_tags_cinema_tv = prompt_tags_debut + tags_cinema_tv + prompt_tags_fin
 
 tags_geography = """Région de NOM_FICHE | Pays de NOM_FICHE | Département de NOM_FICHE"""
 prompt_tags_geography = prompt_tags_debut + tags_geography + prompt_tags_fin
@@ -366,7 +404,7 @@ def ask_gpt(prompt):
     response = client.chat.completions.create(
         model="gpt-4o",
         messages=[
-            {"role": "system", "content": "Tu es un assistant expert en culture générale, en jeux télévisés français et en rédaction de fiches informatives."},
+            {"role": "system", "content": "Ne pose jamais de question. Ne demande jamais de clarification. Ne propose jamais de vérifier des sources externes. Si une information est incertaine, applique les règles demandées (choix de l’option la plus notoire ou retour de None)."},
             {"role": "user", "content": prompt}
         ]
     )
@@ -376,7 +414,7 @@ def ask_gpt5(prompt):
     response = client.chat.completions.create(
         model="gpt-5-mini",
         messages=[
-            {"role": "system", "content": "Tu es un assistant expert en culture générale, en jeux télévisés français et en rédaction de fiches informatives."},
+            {"role": "system", "content": "Ne pose jamais de question. Ne demande jamais de clarification. Ne propose jamais de vérifier des sources externes. Si une information est incertaine, applique les règles demandées (choix de l’option la plus notoire ou retour de None)."},
             {"role": "user", "content": prompt}
         ]
     )
@@ -441,6 +479,16 @@ def generate_gpt_from_name_architecture(nom, category):
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     return tags, indices, description, questions, annee_debut, annee_fin
 
+def generate_gpt_from_name_cinema_tv(nom, category):
+    tags = ask_gpt(prompt_tags_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    indices = ask_gpt5(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    description = ask_gpt(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    question = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+
+    return tags, annee_debut, indices, description, question, annee_fin
+  
 def generate_gpt_from_name_generic(nom, category):
     tags = ask_gpt(prompt_tags.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
@@ -462,6 +510,8 @@ def generate_fiche(nom, category):
         return generate_fiche_animaux(nom, category)
     elif category == "Vocabulaire":
         return generate_fiche_vocabulaire(nom)
+    elif category == "Cinéma" or category == "Télévision":
+        return generate_fiche_cinema_tv(nom, category)
     else:
         return generate_fiche_generic(nom, category)
 
@@ -693,6 +743,63 @@ indice_6 :
 ###### Questions
 
 {questions}
+
+###### Description
+
+{description}
+"""
+    return new_content
+
+def generate_fiche_cinema_tv(nom, category):
+    tags, annee_debut, indices, description, question, annee_fin = generate_gpt_from_name_cinema_tv(nom, category)
+    print("Tags : "+tags)
+    print("Année début : "+annee_debut)
+    print("Année fin : "+annee_fin)
+    print("Indices : "+indices)
+    print("Description : "+description)
+    print("Question : "+question)
+
+    annee_debut_info = annee_debut.strip()
+    annee_fin_info = annee_fin.strip()
+    if "None" in annee_fin_info:
+        annee_fin_info = ""
+    if "None" in annee_debut_info:
+        annee_debut_info = ""
+
+    indices = indices.replace('"', '').replace(':', '').replace("[",'').replace("]","")
+    description = description.strip()
+    question = question.strip()
+    url_wiki = ""
+    #url_wiki = query_to_image_url(f"{nom}")
+
+    split_char = "|"
+    new_content = f"""---
+tags: 
+  - {category}
+  - {tags.split(split_char)[0].strip().replace(" ", "_").replace(",","")}
+  - {tags.split(split_char)[1].strip().replace(" ", "_").replace(",","")}
+  - {tags.split(split_char)[2].strip().replace(" ", "_").replace(",","")}
+debut: {annee_debut_info}
+fin: {annee_fin_info}
+indice_1 : 
+  - {indices.split(split_char)[0].strip()}
+indice_2 : 
+  - {indices.split(split_char)[1].strip()}
+indice_3 : 
+  - {indices.split(split_char)[2].strip()}
+indice_4 : 
+  - {indices.split(split_char)[3].strip()}
+indice_5 : 
+  - {indices.split(split_char)[4].strip()}
+indice_6 : 
+  - {indices.split(split_char)[5].strip()}
+---
+
+![Image de {nom}]({url_wiki})
+
+###### Questions
+
+{question}
 
 ###### Description
 
@@ -1348,4 +1455,4 @@ def pyperclip_copy_deck(deck):
     print("Deck copied to clipboard!")
 
 #change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
-generate_fiche("L'Amour Ouf", "Cinéma")
+generate_fiche("Une Affaire de famille", "Cinéma")
