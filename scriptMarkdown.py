@@ -374,7 +374,7 @@ def ask_gpt(prompt):
 
 def ask_gpt5(prompt):
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-5-mini",
         messages=[
             {"role": "system", "content": "Tu es un assistant expert en culture générale, en jeux télévisés français et en rédaction de fiches informatives."},
             {"role": "user", "content": prompt}
@@ -445,7 +445,7 @@ def generate_gpt_from_name_generic(nom, category):
     tags = ask_gpt(prompt_tags.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    indices = ask_gpt5(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     description = ask_gpt(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     question = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
 
@@ -702,6 +702,13 @@ indice_6 :
 
 def generate_fiche_generic(nom, category):
     tags, annee_debut, indices, description, question, annee_fin = generate_gpt_from_name(nom, category)
+    print("Tags : "+tags)
+    print("Année début : "+annee_debut)
+    print("Année fin : "+annee_fin)
+    print("Indices : "+indices)
+    print("Description : "+description)
+    print("Question : "+question)
+
     annee_debut_info = annee_debut.strip()
     annee_fin_info = annee_fin.strip()
     if "None" in annee_fin_info:
@@ -1341,4 +1348,4 @@ def pyperclip_copy_deck(deck):
     print("Deck copied to clipboard!")
 
 #change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
-#generate_fiche("Roma", "Cinéma")
+generate_fiche("L'Amour Ouf", "Cinéma")
