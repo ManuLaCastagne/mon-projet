@@ -31,28 +31,9 @@ prompt_tags_fin = """
     Ne mets rien d’autre avant ou après la liste, pas de puces, pas de phrase explicative. Juste la liste, dans ce format précis.
     Je ne veux pas d'autre mot dans ta réponse.
     """
-prompt_indices_debut = """
-    Thème : NOM_FICHE (NOM_CATEGORY)
-
-    Donne-moi exactement six éléments (composés de noms propres ou d'un ou plusieurs mots) séparés uniquement par une barre verticale (|).
-    Ces éléments doivent à eux seuls me permettre de deviner le thème dont il est question.
-    Le format doit être strictement : 
-    """
-prompt_indices_fin = """
-    Ne mets rien d’autre avant ou après la liste, pas de puces, pas de phrase explicative. Juste la liste, dans ce format précis.
-"""
 
 tags_generic = """Indication géographique d'où vient NOM_FICHE | Décennie au moment où NOM_FICHE a oeuvré au format "Années_YYYY" ou "Années_-YYYY" si avant J.-C. | Siècle au format "Ve" ou "Ve_avant_JC" si avant J.-C."""
 prompt_tags = prompt_tags_debut + tags_generic + prompt_tags_fin
-
-indices_generic = """élément1 | élément2 | élément3 | élément4 | élément5 | élément6"""
-prompt_indices = prompt_indices_debut + indices_generic + prompt_indices_fin
-
-indices_animaux = """[Type d'animal de NOM_FICHE] | [Nom scientifique de NOM_FICHE] | [Ordre zoologique scientifique de NOM_FICHE] | [Région endémique de NOM_FICHE] | [Nom vernaculaire ou surnom de NOM_FICHE] | [Rôle culturel ou symbolique de NOM_FICHE] """
-prompt_indices_animaux = prompt_indices_debut + indices_animaux + prompt_indices_fin
-
-indices_botanique = """[Famille botanique de NOM_FICHE] | [Provenance géographique d'où vient NOM_FICHE] | [Apparence de NOM_FICHE] | [Saison de floraison de NOM_FICHE] | [Une autre appellation de NOM_FICHE] | [Exemple d'utilisation de NOM_FICHE]"""
-prompt_indices_botanique = prompt_indices_debut + indices_botanique + prompt_indices_fin
 
 tags_geography = """Région de NOM_FICHE | Pays de NOM_FICHE | Département de NOM_FICHE"""
 prompt_tags_geography = prompt_tags_debut + tags_geography + prompt_tags_fin
@@ -97,15 +78,6 @@ prompt_superficie = """
     Je ne veux que le nombre associée sans la mention "km2" ou tout autre mot dans ta réponse. 
     """
 
-prompt_questions = """
-    Je veux trois questions relatives à trois faits surprenants pour laquelle la réponse est "NOM_FICHE" (catégorie : NOM_CATEGORY). 
-    Les trois questions doivent être différentes. 
-    Les trois questions ne doivent pas être numérotées.
-    Fais un saut de ligne entre chaque question.
-    Je ne veux aucun autre mot ou emoji dans les questions. 
-    Je veux un entourage des noms propres et concepts de la description avec [[ ]] pour favoriser les connexions dans Obsidian. 
-    Donne-moi des années exactes et des informations qui pourraient être demandées dans des quiz de jeux télévisés.
-    """
 prompt_questions_vocabulaire = """
     Je veux que tu me poses trois questions pour laquelle la réponse est le mot "NOM_FICHE". 
     Les trois questions doivent être différentes. 
@@ -115,13 +87,6 @@ prompt_questions_vocabulaire = """
     Je veux un entourage des noms propres et concepts de la description avec [[ ]] pour favoriser les connexions dans Obsidian. 
     Tu peux reprendre quelques aspects de la définition ou des anecdotes pour le contenu des questions.
 """
-
-prompt_description = """
-    Je veux un paragraphe sur "NOM_FICHE" (catégorie : NOM_CATEGORY) en quatre phrases avec entourage des noms propres de la description avec [[ ]] pour favoriser les connexions dans Obsidian. 
-    Inclue obligatoirement une ville de naissance et au moins un fait étonnant, peu connu ou record sur "NOM_FICHE". Il doit pouvoir servir de base à une question de quiz de culture générale. 
-    Fais deux sauts de ligne entre chaque phrase. 
-    Donne-moi des années exactes et des informations qui pourraient être demandées dans des quiz de jeux télévisés.
-    """
 
 prompt_description_animaux = """
     Je veux une description sur "NOM_FICHE" (catégorie : NOM_CATEGORY) en quatre phrases concises avec entourage des noms propres de la description avec [[ ]] pour favoriser les connexions dans Obsidian.
@@ -145,6 +110,84 @@ prompt_description_vocabulaire ="""
     Tu peux reprendre la définition du mot et donner du contexte autour ou des anecdotes liées.
 """
 
+
+# Prompt bouclé et amélioré avec GPT
+prompt_description = """
+    Je veux un paragraphe descriptif sur “NOM_FICHE” (catégorie : NOM_CATEGORY) composé de quatre phrases distinctes.
+
+Toutes les phrases doivent être séparées par exactement deux sauts de ligne.
+
+Tous les noms propres, lieux, institutions, concepts historiques, œuvres ou événements mentionnés doivent être entourés de [[ ]] afin de favoriser les connexions dans [[Obsidian]].
+
+Le texte doit inclure obligatoirement :
+– une ville de naissance clairement identifiée,
+– au moins un fait étonnant, peu connu, record ou statistique marquante concernant “NOM_FICHE”, exploitable comme base de question de quiz de culture générale.
+
+Les informations utilisées doivent être exactes à la date actuelle.
+Si un élément est susceptible d’avoir changé avec l’actualité (fonction, statut, titre, record récent, situation en cours), utilise la version la plus récente connue.
+
+Si une information est devenue incorrecte, obsolète ou incertaine, ne l’utilise pas et remplace-la par un fait vérifié, stable ou clairement daté.
+
+Donne des années exactes, des chiffres précis et des éléments factuels susceptibles d’être posés dans des jeux télévisés français.
+
+Le ton doit être informatif, neutre et encyclopédique, sans adjectifs inutiles ni formules promotionnelles.
+
+Évite toute formulation tautologique ou évidente (ne pas reformuler le titre ou la catégorie comme information).
+
+Avant de produire le texte, vérifie mentalement que chacune des phrases serait encore considérée comme correcte par un jury de jeu télévisé aujourd’hui."""
+prompt_questions = """
+Je veux trois questions de culture générale portant sur trois faits surprenants distincts dont la réponse est “NOM_FICHE” (catégorie : NOM_CATEGORY).
+
+Interdiction absolue d’inclure le nom NOM_FICHE, toute variante de ce nom, son prénom, son nom de famille, un surnom, un titre officiel, une fonction directement identifiable ou toute formulation permettant de déduire immédiatement la réponse.
+
+Les questions doivent être formulées de manière indirecte, sur le modèle des jeux télévisés français (description factuelle, événement précis, record, action datée, contexte historique clairement identifiable), et rester compréhensibles sans révéler l’identité recherchée.
+
+Les trois questions doivent être différentes,
+Les trois questions ne doivent pas être numérotées,
+Fais un saut de ligne entre chaque question,
+Je ne veux aucun autre mot, phrase explicative, ponctuation hors question ou emoji en dehors des questions elles-mêmes.
+
+Tous les noms propres, lieux, concepts historiques, événements, œuvres ou institutions mentionnés doivent être entourés de [[ ]] afin de favoriser les connexions dans [[Obsidian]].
+
+Les informations utilisées doivent être exactes à la date actuelle.
+Si un fait est susceptible d’avoir changé avec l’actualité (fonction en cours, statut, classement, record récent, situation politique ou scientifique), utilise la version la plus récente connue.
+
+Si une information est devenue incorrecte, obsolète ou incertaine, ne génère pas la question et remplace-la par un autre fait vérifié.
+
+Donne des années exactes, des chiffres précis et des éléments factuels susceptibles d’être posés dans des quiz de jeux télévisés français.
+
+Privilégie les faits historiques, scientifiques, juridiques ou culturels solidement établis, ou les événements récents clairement datés.
+
+Avant de produire les questions, vérifie mentalement que chacune d’elles serait encore considérée comme correcte par un jury de jeu télévisé aujourd’hui.
+Toute question risquant d’être invalidée par un changement récent doit être reformulée ou remplacée.
+"""
+
+prompt_indices_debut = """
+    Thème : NOM_FICHE (NOM_CATEGORY)
+
+    Donne-moi exactement six éléments (composés de noms propres ou d'un ou plusieurs mots) séparés uniquement par une barre verticale (|).
+    Ces éléments doivent à eux seuls me permettre de deviner le thème dont il est question.
+    Le format doit être strictement : 
+    """
+prompt_indices_fin = """
+Chaque indice doit être utile à l’identification.
+Aucun indice ne doit être redondant avec un autre.
+Aucun indice ne doit être purement générique ou applicable à de nombreux thèmes.
+Ne mets absolument rien avant ou après la liste.
+Aucune explication.
+Aucun exemple.
+Aucun commentaire.
+Uniquement la liste finale au format demandé.
+"""
+
+indices_generic = """Lieu géographique précis associé à NOM_FICHE | Période d’activité principale de NOM_FICHE au format Années_YYYY ou Années_-YYYY | Siècle correspondant au format Ve ou Ve_avant_JC | Domaine ou type d’activité caractéristique de NOM_FICHE | Élément factuel distinctif lié à NOM_FICHE | Notion ou concept fortement associé à NOM_FICHE """
+prompt_indices = prompt_indices_debut + indices_generic + prompt_indices_fin
+
+indices_animaux = """Type zoologique général de NOM_FICHE | Nom scientifique binominal de NOM_FICHE | Ordre zoologique scientifique de NOM_FICHE | Zone géographique naturelle principale de NOM_FICHE | Caractéristique biologique remarquable de NOM_FICHE | Usage symbolique ou culturel attesté de NOM_FICHE"""
+prompt_indices_animaux = prompt_indices_debut + indices_animaux + prompt_indices_fin
+
+indices_botanique = """Famille botanique scientifique de NOM_FICHE | Région géographique d’origine de NOM_FICHE | Caractéristique morphologique distinctive de NOM_FICHE | Période de floraison ou de fructification principale de NOM_FICHE | Nom vernaculaire ou appellation alternative de NOM_FICHE | Utilisation humaine documentée de NOM_FICHE"""
+prompt_indices_botanique = prompt_indices_debut + indices_botanique + prompt_indices_fin
 
 def print_prompt(prompt, nom, category):
     prompt = prompt.replace("NOM_FICHE", nom)
