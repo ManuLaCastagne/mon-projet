@@ -1,7 +1,7 @@
 ---
-latitude: 52.1344489
-longitude: 5.438015
-location: 52.1344489,5.438015
+latitude: 48.892083
+longitude: 2.379035
+location: 48.892083,2.379035
 tags:
   - Architecture
   - Années_1980
@@ -21,14 +21,12 @@ indice_5:
   - Structure géodésique
 indice_6:
   - Dôme argenté
-questions:
-  - Dans le parc parisien de La Villette, quel bâtiment sphérique recouvert d'acier poli renferme une salle de projection?
 ---
 
 
 
 
-![Image de Géode](https://upload.wikimedia.org/wikipedia/commons/f/f7/Jasper_Geode_Grotto_13.jpg)
+![Image de Géode](https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/La_G%C3%A9ode_-_La_Vilette_-_Paris.jpg/2560px-La_G%C3%A9ode_-_La_Vilette_-_Paris.jpg)
 
 ###### Questions
 
@@ -40,7 +38,7 @@ Quel édifice iconique permet de projeter des films sur un écran de 1 000 mètr
 
 ###### Description
 
-La [[Géode]], située dans le parc de la [[Villette]] à Paris, a ouvert ses portes au public en 1985, devenant rapidement un lieu emblématique du cinéma immersif grâce à son écran hémisphérique. 
+La [[Géode]], située dans le parc de la [[Villette]] à Paris, a ouvert ses portes au public en 1985 sous [[François Mitterrand]] , devenant rapidement un lieu emblématique du cinéma immersif grâce à son écran hémisphérique. 
 
 Cette structure en forme de sphère, conçue par l'architecte [[Gérard Chamayou]], est couverte de 6 433 triangles en acier inoxydable qui réfléchissent la lumière, créant des effets visuels spectaculaires. 
 
