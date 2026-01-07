@@ -411,7 +411,7 @@ def fetch_facts_web(query: str) -> str:
 
     return response.output_text.strip()
 
-def ask_gpt5_from_facts(prompt, name, category) -> str:
+def ask_gpt_from_facts(prompt, name, category) -> str:
     facts = fetch_facts_web(name + " (" + category + ")")
     guarded_prompt = f"""
 UTILISE UNIQUEMENT les informations factuelles ci-dessous.
@@ -526,14 +526,13 @@ def generate_gpt_from_name_architecture(nom, category):
     return tags, indices, description, questions, annee_debut, annee_fin
 
 def generate_gpt_from_name_cinema_tv(nom, category):
-    tags = ask_gpt(prompt_tags_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    indices = ask_gpt(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    #description = ask_gpt5(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    question = ask_gpt5_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    tags = ask_gpt_from_facts(prompt_tags_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    annee_debut = ask_gpt_from_facts(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    annee_fin = ask_gpt_from_facts(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    indices = ask_gpt_from_facts(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    description = ask_gpt_from_facts(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    question = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
 
-    description = ask_gpt5_from_facts(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     return tags, annee_debut, indices, description, question, annee_fin
   
 def generate_gpt_from_name_generic(nom, category):
