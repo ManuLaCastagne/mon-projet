@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Télévision/Sophie Thalmann.md",
+                "file": "Cinéma/Hirokazu Kore-eda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sophie Thalmann"
+              "title": "Hirokazu Kore-eda"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Télévision/Sophie Thalmann.md",
+                "file": "Cinéma/Hirokazu Kore-eda.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sophie Thalmann"
+              "title": "Graphique de Hirokazu Kore-eda"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -354,8 +354,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "028c50878b1df9c9",
+  "active": "ab6dbd6c30483175",
   "lastOpenFiles": [
+    "Télévision/Sophie Thalmann.md",
     "Sciences/Alpha Romeo.md",
     "Littérature/Longtemps je me suis couché de bonne heure.md",
     "Gastronomie/Oeuf miroir.md",
@@ -363,7 +364,6 @@
     "Cinéma/La Couleur pourpre.md",
     "Histoire/Négus.md",
     "Culture générale/guêpe de mer.md",
-    "Télévision/Sophie Thalmann.md",
     "Vocabulaire/Physalie.md",
     "Vocabulaire/Zigonner.md",
     "Culture générale/québécois.md",
