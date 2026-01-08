@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Cathédrale d'Amiens.md",
+                "file": "Animaux/Barbet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cathédrale d'Amiens"
+              "title": "Barbet"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Architecture/Cathédrale d'Amiens.md",
+                "file": "Animaux/Barbet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Cathédrale d'Amiens"
+              "title": "Graphique de Barbet"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -355,8 +355,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "028c50878b1df9c9",
+  "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Architecture/Cathédrale d'Amiens.md",
     "Vocabulaire/Langue de belle-mère.md",
     "Télévision/Liliane Bettencourt.md",
     "Musique/Ray Parker Junior.md",
@@ -377,7 +378,6 @@
     "Cinéma/Ghostbusters.md",
     "Architecture/Santiago Calatrava.md",
     "Culture générale/gothique.md",
-    "Architecture/Cathédrale d'Amiens.md",
     "Architecture/Robert de Luzarches.md",
     "Cinéma/Henry Fonda.md",
     "Animaux/Épervier.md",
