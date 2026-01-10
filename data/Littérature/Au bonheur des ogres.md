@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - France
   - Années_1980
@@ -7,21 +7,21 @@ tags:
 date:
   - 1985/09/12
 debut: 1985
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Benjamin Malaussène
-indice_2 : 
+indice_2:
   - Daniel Pennac
-indice_3 : 
+indice_3:
   - Belleville
-indice_4 : 
+indice_4:
   - bouc émissaire professionnel
-indice_5 : 
+indice_5:
   - série Malaussène
-indice_6 : 
+indice_6:
   - Folies familiales
 questions:
- - Quel roman paru en 1985 est le 1er volet de la série de Daniel Pennac dont le héros est Benjamin Malaussène?
+  - Quel roman paru en 1985 est le 1er volet de la série de Daniel Pennac dont le héros est Benjamin Malaussène?
 ---
 
 
@@ -31,6 +31,8 @@ questions:
 ###### Questions
 
 Dans quel roman de [[Daniel Pennac]] publié en 1985 retrouve-t-on le premier volet des aventures de [[Benjamin Malaussène]], un personnage travaillant comme bouc émissaire pour un grand magasin parisien ?
+
+Quel roman paru en 1985 est le 1er volet de la série de Daniel Pennac dont le héros est Benjamin Malaussène ?
 
 Quel livre qui fait partie de la série de la [[Saga Malaussène]] démarre avec une explosion mystérieuse au grand magasin [[Au Bonheur Parisien]] et capte l'attention par son mélange de comédie et de polar ? <!-- score: 2 -->
 

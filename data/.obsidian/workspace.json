@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulaire/antonomase.md",
+                "file": "Littérature/Au bonheur des ogres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "antonomase"
+              "title": "Au bonheur des ogres"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vocabulaire/antonomase.md",
+                "file": "Littérature/Au bonheur des ogres.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de antonomase"
+              "title": "Graphique de Au bonheur des ogres"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,11 +357,12 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Sciences/Sopalin.md",
+    "Littérature/Chanson d'automne.md",
+    "Culture générale/Les sanglots longs des violons de l'automne blessent mon cœur d'une langueur monotone.md",
     "Vocabulaire/antonomase.md",
+    "Sciences/Sopalin.md",
     "Cinéma/Dossier 137.md",
     "Cinéma/Léa Drucker.md",
-    "Littérature/Chanson d'automne.md",
     "Vocabulaire/Hôte.md",
     "Cinéma/Emilia Perez.md",
     "Une affaire de famille.md",
@@ -382,7 +383,6 @@
     "Littérature/Longtemps je me suis couché de bonne heure.md",
     "Gastronomie/Oeuf miroir.md",
     "Cinéma/La Guerre des Rose.md",
-    "Cinéma/La Couleur pourpre.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]

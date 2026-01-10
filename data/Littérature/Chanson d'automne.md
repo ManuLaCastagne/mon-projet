@@ -4,6 +4,7 @@ tags:
   - France
   - Années_1860
   - XIXe
+  - Certifié
 date:
   - 1866/10/27
 debut: 1866
@@ -39,7 +40,7 @@ Quel poème a été diffusé en code par la [[BBC]] pour les réseaux de la [[R�
 
 La [[Chanson d'automne]] est un poème emblématique écrit par [[Paul Verlaine]], paru en 1866 dans son recueil [[Poèmes saturniens]]. 
 
-Ce poème est particulièrement connu pour son atmosphère mélancolique et ses célèbres vers : "Les sanglots longs des violons de l'automne blessent mon cœur d'une langueur monotone". 
+Ce poème est particulièrement connu pour son atmosphère mélancolique et ses célèbres vers : "[[Les sanglots longs des violons de l'automne blessent mon cœur d'une langueur monotone]]". 
 
 Fait étonnant, ces quelques mots ont joué un rôle crucial lors de la [[Seconde Guerre mondiale]], puisqu'ils ont été diffusés par la [[BBC]] en juin 1944 pour signaler le début des opérations du [[Débarquement de Normandie]] aux résistants français. 
 
