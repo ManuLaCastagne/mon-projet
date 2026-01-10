@@ -1,22 +1,22 @@
 ---
-tags: 
+tags:
   - Littérature
   - Paris
-  - Années_1990
   - XXe
-debut: 1995
-fin: 
-indice_1 : 
-  - Paris
-indice_2 : 
   - Années_1980
-indice_3 : 
+debut: 1985
+fin: 2023
+indice_1:
+  - Paris
+indice_2:
+  - Années_1980
+indice_3:
   - XXe
-indice_4 : 
+indice_4:
   - Littérature
-indice_5 : 
+indice_5:
   - Famille excentrique
-indice_6 : 
+indice_6:
   - Bouc émissaire
 ---
 
