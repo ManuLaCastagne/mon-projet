@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Au bonheur des ogres.md",
+                "file": "Littérature/Saga Malaussène.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Au bonheur des ogres"
+              "title": "Saga Malaussène"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Au bonheur des ogres.md",
+                "file": "Littérature/Saga Malaussène.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Au bonheur des ogres"
+              "title": "Graphique de Saga Malaussène"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,6 +357,8 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Littérature/Au bonheur des ogres.md",
+    "Littérature/Saga Malaussène.md",
     "Littérature/Chanson d'automne.md",
     "Culture générale/Les sanglots longs des violons de l'automne blessent mon cœur d'une langueur monotone.md",
     "Vocabulaire/antonomase.md",
@@ -381,8 +383,6 @@
     "Télévision/Sophie Thalmann.md",
     "Sciences/Alpha Romeo.md",
     "Littérature/Longtemps je me suis couché de bonne heure.md",
-    "Gastronomie/Oeuf miroir.md",
-    "Cinéma/La Guerre des Rose.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]

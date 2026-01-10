@@ -42,7 +42,7 @@ Dans quel ouvrage littéraire le personnage principal Benjamin Malaussène doit-
 
 [[Au bonheur des ogres]] est un roman publié en 1985 par [[Daniel Pennac]], célèbre pour son humour mordant et son regard critique sur la société moderne. 
 
-Le livre est le premier volume de ce qui deviendra la saga des [[Malaussène]], une série de romans centrée sur le personnage de [[Benjamin Malaussène]], un bouc émissaire professionnel. 
+Le livre est le premier volume de ce qui deviendra la [[saga Malaussène]], une série de romans centrée sur le personnage de [[Benjamin Malaussène]], un bouc émissaire professionnel. 
 
 Un fait étonnant à noter est que malgré son succès international, [[Au bonheur des ogres]] a été porté à l'écran en 2013, soit pratiquement trois décennies après sa publication, ce qui est relativement inhabituel pour des ouvrages de son calibre. 
 

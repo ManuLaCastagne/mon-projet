@@ -34,6 +34,16 @@ Quel ensemble d'ouvrages mêlant humour noir, polar et chronique sociale, a vu u
 
 [[Saga Malaussène]] est une série de romans créée par l'auteur [[Daniel Pennac]], qui est né dans la ville de [[Casablanca]].  
 
+Les livres sont les suivants : 
+1. [[Au bonheur des ogres]], Gallimard, 1985
+2. [[La Fée Carabine]], Gallimard, 1987
+3. La Petite Marchande de prose, Gallimard, 1990
+4. Monsieur Malaussène, Gallimard, 1995
+5. Des chrétiens et des maures, Gallimard, 1996
+6. Aux fruits de la passion, Gallimard, 1999
+7. Le Cas Malaussène 1 : Ils m'ont menti, Gallimard, 2017
+8. [[Le Cas Malaussène 2 : Terminus Malaussène]], Gallimard, 2023
+
 Un fait étonnant est que la série a reçu le [[Prix du livre Inter]] en 1990 pour le volume "La Petite Marchande de Prose".  
 
 L'intrigue se déroule principalement dans le quartier de [[Belleville]] à [[Paris]], illustrant les aventures de [[Benjamin Malaussène]], une figure emblématique du rôle de bouc émissaire.  
