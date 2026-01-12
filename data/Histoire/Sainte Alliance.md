@@ -24,13 +24,14 @@ questions:
 
 
 
+
 ![Image de Sainte Alliance](https://upload.wikimedia.org/wikipedia/commons/c/c9/Accession_de_la_France_%C3%A0_la_Sainte_Alliance%2C_novembre_1815%2C_ND4211%281%29.jpg)
 
 ###### Questions
 
 Quel traité signé en [[1815]] après la défaite de [[Napoléon Ier]] visait à maintenir la monarchie et contenir les idées révolutionnaires en Europe ?
 
-Quelle coalition formée en [[1815]] réunissait les empires [[russe]], [[autrichien]] et le royaume de [[Prusse]], visant à préserver la paix et la religion chrétienne ? <!-- score: 4 -->
+Quelle coalition formée en [[1815]] réunissait les empires [[russe]], [[autrichien]] et le royaume de [[Prusse]], visant à préserver la paix et la religion chrétienne ? <!-- score: 3 -->
 
 Quel accord symbolisé par une réunion des trois grandes puissances monarchiques européennes fut renforcé après le Congrès de [[Vienne]] pour assurer la stabilité du continent au début du XIXe siècle ?
 

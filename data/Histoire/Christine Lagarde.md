@@ -22,11 +22,12 @@ questions:
  - En 2011, quelle avocate française, ministre à plusieurs reprises, devient la première femme à occuper le poste de directeur général du FMI?
 ---
 
+
 ![Image de Christine Lagarde](https://upload.wikimedia.org/wikipedia/commons/6/63/Lagarde%2C_Christine_%28official_portrait_2011%29.jpg)
 
 ###### Questions
 
-Quelle ancienne ministre française, née en 1956 à [[Paris]], est devenue la première femme à diriger le [[Fonds monétaire international]] ([[FMI]]) en juillet [[2011]] ? 
+Quelle ancienne ministre française, née en 1956 à [[Paris]], est devenue la première femme à diriger le [[Fonds monétaire international]] ([[FMI]]) en juillet [[2011]] ? <!-- score: 6 -->
 
 Quelle personnalité politique a été la première femme à occuper le poste de président de la [[Banque Centrale Européenne]] ([[BCE]]) à partir de novembre [[2019]] ? 
 

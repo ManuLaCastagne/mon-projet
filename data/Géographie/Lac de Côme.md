@@ -27,9 +27,11 @@ questions:
 ---
 
 
-![Image de Lac de Côme](https://upload.wikimedia.org/wikipedia/commons/a/ad/Church_of_the_Ascension_%28Cadenabbia%29_Lac_de_C%C3%B4me_en_2018.jpg)
 
-![[Carte_Lac de Côme.png]]
+
+![Image de Lac de Côme](https://upload.wikimedia.org/wikipedia/commons/a/ad/Church_of_the_Ascension_%28Cadenabbia%29_Lac_de_C%C3%B4me_en_2018.jpg)
+
+![[Carte_Lac de Côme.png]]
 ###### Questions
 
 Quel est le lac en Italie célèbre pour ses nombreux hôtels de luxe et qui a été le lieu de vacances de célébrités comme [[George Clooney]] ? 

@@ -24,11 +24,12 @@ questions:
  - Quel écrivain espagnol, surnommé le Phénix des esprits, a écrit plus de 1800 pièces, dont "L'Alcade de Zalamea" en 1600?
 ---
 
-![Image de Félix Lope de Vega](https://upload.wikimedia.org/wikipedia/commons/7/79/LopedeVega.jpg)
+
+![Image de Félix Lope de Vega](https://upload.wikimedia.org/wikipedia/commons/7/79/LopedeVega.jpg)
 
 ###### Questions
 
-Quel dramaturge et poète espagnol, né en 1562, est souvent surnommé le "Phénix des esprits" et a été un des représentants majeurs de l'âge d'or espagnol avec une production littéraire de plus de 1 500 pièces de théâtre, parmi lesquelles beaucoup ont été jouées dans les [[corrales de comedias]] ?
+Quel dramaturge et poète espagnol, né en 1562, est souvent surnommé le "Phénix des esprits" et a été un des représentants majeurs de l'âge d'or espagnol avec une production littéraire de plus de 1 500 pièces de théâtre, parmi lesquelles beaucoup ont été jouées dans les [[corrales de comedias]] ? <!-- score: 3 -->
 
 Quel auteur, qui a rencontré de nombreux déboires sentimentaux tout au long de sa vie, est entré dans les ordres en 1614 et a tout de même continué à écrire certaines de ses œuvres les plus célèbres, devenant un prêtre prolifique et controversé dans l'histoire littéraire espagnole ?
 

@@ -29,11 +29,6 @@ questions:
 ###### Questions
 
 Quelle actrice, fille de [[Catherine Deneuve]] et [[Marcello Mastroianni]], a débuté dans le cinéma avec le film [[Ma saison préférée]] en 1993 ?
-
-Dans quel domaine [[Chiara Mastroianni]] a-t-elle reçu le prix [[Un Certain Regard]] pour sa performance dans le film [[Chambre 212]] lors du Festival de Cannes en 2019 ?
-
-Dans quel secteur Chiara Mastroianni a-t-elle interprété le personnage de Claire Poussin dans le film d'animation français [[Persepolis]] sorti en 2007 ?
-
 ###### Description
 
 [[Chiara Mastroianni]], actrice franco-italienne née en 1972, est la fille des célèbres acteurs [[Catherine Deneuve]] et [[Marcello Mastroianni]]. 

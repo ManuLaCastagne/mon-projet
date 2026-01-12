@@ -18,6 +18,7 @@ questions:
 ---
 
 
+
 ![Image de Poussin](https://upload.wikimedia.org/wikipedia/commons/d/df/Nicolas_Poussin_-_Et_in_Arcadia_ego_%28deuxi%C3%A8me_version%29.jpg)
 
 ###### Questions
@@ -26,7 +27,7 @@ Quel est le nom du personnage principal du livre pour enfants publié par [[Clau
 
 Quel est le surnom donné à [[Bébé Cadum]], le gagnant de l'édition [[2011]] du concours organisé par la célèbre marque de produits pour bébés en France? <!-- score: 4 -->
 
-Quel terme désigne le jeune de l'année qui est souvent choisi comme thème central dans les chorales enfantines ou les comptines éducatives en [[France]]?
+Quel terme désigne le jeune de l'année qui est souvent choisi comme thème central dans les chorales enfantines ou les comptines éducatives en [[France]]? <!-- score: 8 -->
 
 ###### Description
 

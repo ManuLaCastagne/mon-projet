@@ -30,6 +30,7 @@ questions:
 
 
 
+
 ![Image de Santa et Compagnie](https://upload.wikimedia.org/wikipedia/commons/6/67/Lettres_%C3%A9difiantes_et_curieuses_%C3%A9crites_par_des_missionnaires_de_la_Compagnie_de_J%C3%A9sus_%28microforme%29_-_collationn%C3%A9es_sur_les_meilleures_%C3%A9ditions%2C_et_enrichies_de_nouvelles_notes_%28IA_cihm_41130%29.pdf)
 
 ###### Questions
@@ -38,7 +39,7 @@ Dans quel film sorti en 2017, réalisé par [[Alain Chabat]], le [[Père Noël]]
 
 Quelle comédie [[familiale]] française voit [[Audrey Tautou]] jouer le rôle de [[Wanda]], l'épouse du [[Père Noël]], auprès d'[[Alain Chabat ]] ?
 
-Dans quel film le personnage principal, interprété par [[Alain Chabat]], découvre que [[Noël]] pourrait être annulé en raison d'une épidémie mystérieuse et se rend à Paris pour sauver la situation ? <!-- score: 3 -->
+Dans quel film le personnage principal, interprété par [[Alain Chabat]], découvre que [[Noël]] pourrait être annulé en raison d'une épidémie mystérieuse et se rend à Paris pour sauver la situation ? <!-- score: 6 -->
 
 ###### Description
 

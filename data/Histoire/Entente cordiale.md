@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Entente cordiale](https://upload.wikimedia.org/wikipedia/commons/d/d0/Entente_Cordiale_dancing.jpg)
 
 ###### Questions
 
 Quel accord historique a été signé le 8 avril 1904 entre [[la France]] et [[le Royaume-Uni]] pour régler les différends coloniaux en [[Afrique]] et [[Asie]]? <!-- score: 4 -->
 
-Comment appelle-t-on la coopération diplomatique non officielle qui a contribué à l'alignement des deux puissances européennes avant la [[Première Guerre mondiale]], officialisée en 1904?
+Comment appelle-t-on la coopération diplomatique non officielle qui a contribué à l'alignement des deux puissances européennes avant la [[Première Guerre mondiale]], officialisée en 1904? <!-- score: 4 -->
 
 Quel terme désigne le rapprochement anglo-français résultant d’un accord signé en 1904 et qui a permis une paix durable entre les deux pays après des siècles de rivalités?
 

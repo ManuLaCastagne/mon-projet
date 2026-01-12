@@ -17,13 +17,14 @@ questions:
  - Quel mollusque à coquille couverte de pointes compte une espèce méditerranéenne qui fournissait autrefois la teinture pourpre ?
 ---
 
+
 ![Image de Murex](https://upload.wikimedia.org/wikipedia/commons/e/e2/Murex_pecten_001.JPG)
 
 ###### Questions
 
 Quel mollusque marin appartenant à la famille des [[Muricidae]] est célèbre pour sa production d'une teinture pourpre utilisée dans l'Antiquité, notamment par les [[Phéniciens]] ?
 
-Quel genre de gastéropode marin a été étudié par [[Aristote]] en 350 av. J.-C. pour sa capacité à produire une sécrétion de couleur violette, utilisée comme une teinture précieuse ?
+Quel genre de gastéropode marin a été étudié par [[Aristote]] en 350 av. J.-C. pour sa capacité à produire une sécrétion de couleur violette, utilisée comme une teinture précieuse ? <!-- score: 4 -->
 
 Quel mollusque a inspiré un colorant célèbre qui était utilisé par les rois et empereurs romains, connu sous le nom de pourpre de [[Tyr]], et obtenu à partir d'un procédé développé il y a plus de 3 000 ans ?
 

@@ -24,6 +24,7 @@ questions:
  - Pays officiellement réunifié en juillet 1976, je m'étire sur près de 1500 km de long et compte plus de 88 millions d'habitants. Important producteur de caoutchouc, de coprah, de thé et de café, j'abrite également de nombreuses rizières, notamment dans les deltas du fleuve Rouge...
 ---
 
+
 ![Image de Vietnam](https://upload.wikimedia.org/wikipedia/commons/2/21/Incense_in_Vietnam.jpg)
 
 ![[Carte_Vietnam.png]]
@@ -33,7 +34,7 @@ Quel pays possède la célèbre baie d'[[Halong]] reconnue pour ses pittoresques
 
 Dans quel pays se trouve l'ancien royaume de [[Champa]], qui a prospéré entre les [[7e]] et [[19e]] siècles le long de la côte sud et centrale de ce pays ?
 
-Quel pays d'[[Asie du Sud-Est]] a une frontière commune avec [[Chine]], [[Laos]] et [[Cambodge]] et a Hanoi comme capitale ?
+Quel pays d'[[Asie du Sud-Est]] a une frontière commune avec [[Chine]], [[Laos]] et [[Cambodge]] et a Hanoi comme capitale ? <!-- score: 6 -->
 
 ###### Description
 

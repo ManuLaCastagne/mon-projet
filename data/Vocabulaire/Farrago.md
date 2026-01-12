@@ -16,13 +16,14 @@ indice_6 :
   - Pêle-mêle
 ---
 
+
 ![Image de Farrago](https://upload.wikimedia.org/wikipedia/commons/d/d6/%27Farrago%27%2C_gift_shop%2C_Battle_-_geograph.org.uk_-_3793457.jpg)
 
 ###### Questions
 
 Quel mot désigne un mélange confus ou désordonné, souvent utilisé en littérature pour décrire un ensemble hétérogène d'éléments ?
 
-Quel terme emprunté du latin signifie un patchwork ou une collection d'éléments divers et variés ?
+Quel terme emprunté du latin signifie un patchwork ou une collection d'éléments divers et variés ? <!-- score: 3 -->
 
 Comment appelle-t-on en anglais un agrégat de choses incongrues qui est parfois évoqué dans des œuvres de [[John Updike]] ou d'autres auteurs pour souligner la nature éclectique d'une situation ?
 

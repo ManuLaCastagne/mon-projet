@@ -24,13 +24,14 @@ questions:
  - En 1988, quel film fantastique de Ron Howard avec Val Kilmer met en scène le peuple imaginaire des Nelwyns?
 ---
 
+
 ![Image de Willow](https://upload.wikimedia.org/wikipedia/commons/0/00/Salix_alba_Morton.jpg)
 
 ###### Questions
 
 Quel film culte de [[fantasy]] des années 1980, dirigé par [[Ron Howard]], a inspiré une suite sous forme de série télévisée en 2022 ? 
 
-Dans quel lieu imaginaire se déroule l'intrigue du film où un bébé prophétique est destiné à renverser la méchante reine [[Bavmorda]] ? 
+Dans quel lieu imaginaire se déroule l'intrigue du film où un bébé prophétique est destiné à renverser la méchante reine [[Bavmorda]] ? <!-- score: 2 -->
 
 Quelle œuvre cinématographique, sortie en 1988, met en vedette [[Warwick Davis]] dans le rôle d'un fermier aspirant à devenir sorcier ?
 

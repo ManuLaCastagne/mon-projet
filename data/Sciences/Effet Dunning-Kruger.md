@@ -21,6 +21,7 @@ indice_6 :
   - sous-estimation des experts
 ---
 
+
 ![Image de Effet Dunning-Kruger](https://upload.wikimedia.org/wikipedia/commons/3/3c/Effet_Dunning-Kruger.png)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quelle découverte psychologique, conceptualisée en 1999, explique pourquoi des
 
 Quel biais cognitif, nommé après une étude décisive de 1999, décrit la tendance des personnes les moins compétentes dans un domaine à surestimer leurs capacités tandis que les plus compétents sous-estiment les leurs ?
 
-Quel effet, observé pour la première fois en 1999 par deux chercheurs de l'[[Université Cornell]], explique pourquoi l'ignorance peut générer plus de confiance que la connaissance ?
+Quel effet, observé pour la première fois en 1999 par deux chercheurs de l'[[Université Cornell]], explique pourquoi l'ignorance peut générer plus de confiance que la connaissance ? <!-- score: 6 -->
 
 ###### Description
 

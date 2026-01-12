@@ -22,6 +22,7 @@ indice_6:
   - Nouveau Roman
 ---
 
+
 ![Image de Marguerite Duras](https://upload.wikimedia.org/wikipedia/commons/1/12/Identite-Duras-1960-Sacem.png)
 
 ###### Questions
@@ -30,7 +31,7 @@ En 1950, quelle romancière évoque la vie d'une famille en Indochine dans "[[Un
 
 Quel auteur, né en 1914, à [[Saigon]], a écrit le roman [[L'Amant]] qui a remporté le [[Prix Goncourt]] en 1984 ? 
 
-Quel écrivain a été scénariste du film [[Hiroshima mon amour]] réalisé par [[Alain Resnais]] en 1959 ?
+Quel écrivain a été scénariste du film [[Hiroshima mon amour]] réalisé par [[Alain Resnais]] en 1959 ? <!-- score: 6 -->
 
 Quel célèbre auteur français a publié les œuvres [[Le Vice-consul]] en 1966 et [[Un barrage contre le Pacifique]] en 1950 ?
 

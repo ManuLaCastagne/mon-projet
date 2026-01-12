@@ -22,11 +22,12 @@ questions:
  - Modèle d'architecture visionnaire réunissant lieux d'habitation et de production, je suis une manufacture située dans le Doubs qui produisait du sel.
 ---
 
+
 ![Image de Salines royales d'Arc-et-Senans](https://upload.wikimedia.org/wikipedia/commons/e/e0/Saline_royale_d%27Arc-et-Senans_maison.jpg)
 
 ###### Questions
 
-Quel site industriel français, conçu par [[Claude-Nicolas Ledoux]] au XVIIIe siècle, est un exemple emblématique d'urbanisme visionnaire, inscrit au [[patrimoine mondial de l'UNESCO]] en 1982 ?
+Quel site industriel français, conçu par [[Claude-Nicolas Ledoux]] au XVIIIe siècle, est un exemple emblématique d'urbanisme visionnaire, inscrit au [[patrimoine mondial de l'UNESCO]] en 1982 ? <!-- score: 4 -->
 
 Quelle structure architecturale, créée en 1775, illustre l'utopie industrielle de produire du sel en région [[Franche-Comté]], tout en combinant fonctionnalité et esthétique néoclassique ?
 

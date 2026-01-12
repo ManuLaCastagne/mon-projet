@@ -24,11 +24,12 @@ questions:
  - Imaginant une entreprise qui propose d'implanter des faux souvenirs  à ses clients, je vois un homme se rendre ainsi sur Mars, où naît en lui le souvenir bien réel d'une mission. Film de Paul Verhoeven avec Arnold Schwarzenegger et Sharon Stone...
 ---
 
+
 ![Image de Total Recall](https://upload.wikimedia.org/wikipedia/commons/a/a2/%27Total_Recall%27.JPG)
 
 ###### Questions
 
-[[Quel]] film de [[Paul Verhoeven]] de 1990 met en scène [[Arnold Schwarzenegger]] dans un rôle où il ne sait plus si ses souvenirs de la planète [[Mars]] sont réels ou implantés ?  
+[[Quel]] film de [[Paul Verhoeven]] de 1990 met en scène [[Arnold Schwarzenegger]] dans un rôle où il ne sait plus si ses souvenirs de la planète [[Mars]] sont réels ou implantés ? <!-- score: 4 -->
 
 Quel film, basé sur la nouvelle "[[Souvenirs à vendre]]" de [[Philip K. Dick]], a remporté l'[[Oscar des meilleurs effets visuels]] en 1991 ?  
 

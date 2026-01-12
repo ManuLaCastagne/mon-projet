@@ -22,6 +22,7 @@ questions:
  - Le 28 août 1963 à Culture_G/Washington, quel pasteur noir...
 ---
 
+
 ![Image de Martin Luther King](https://upload.wikimedia.org/wikipedia/commons/1/15/Civil_Rights_March_on_Washington%2C_D.C._%28Dr._Martin_Luther_King%2C_Jr._and_Mathew_Ahmann_in_a_crowd.%29_-_NARA_-_542015_-_Restoration.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ En quelle année [[Martin Luther King]] a-t-il reçu le [[prix Nobel de la paix]
 
 Quel célèbre discours contenant la phrase "I Have a Dream" a été prononcé par [[Martin Luther King]] lors de la marche vers [[Washington]] en [[1963]] ?
 
-Qui est le leader du mouvement des [[droits civiques]], assassiné en [[1968]], à qui l'on attribue un rôle clé dans la fin de la ségrégation raciale aux [[États-Unis]] ?
+Qui est le leader du mouvement des [[droits civiques]], assassiné en [[1968]], à qui l'on attribue un rôle clé dans la fin de la ségrégation raciale aux [[États-Unis]] ? <!-- score: 8 -->
 
 ###### Description
 

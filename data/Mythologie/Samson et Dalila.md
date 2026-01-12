@@ -25,11 +25,12 @@ questions:
 
 
 
+
 ![Image de Samson et Dalila](https://upload.wikimedia.org/wikipedia/commons/6/66/Beaux-Arts_de_Carcassonne_-_Samson_et_Dalila_-_Antoine_Pesne_D.890.6.47_96x130.jpg)
 
 ###### Questions
 
-En 1878, quel opéra du compositeur [[Camille Saint-Saëns]], basé sur des personnages bibliques, met en scène la ruse d'une femme pour neutraliser un homme réputé pour sa grande force ? <!-- score: 3 -->
+En 1878, quel opéra du compositeur [[Camille Saint-Saëns]], basé sur des personnages bibliques, met en scène la ruse d'une femme pour neutraliser un homme réputé pour sa grande force ? <!-- score: 4 -->
 
 Quelle œuvre cinématographique de 1949, réalisée par [[Cecil B. DeMille]], adapte le récit biblique dans lequel un personnage légendaire perd sa force après avoir été trahi par sa bien-aimée ?
 
