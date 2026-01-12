@@ -27,12 +27,13 @@ questions:
 ---
 
 
+
 ![Image de Mer de Corail](https://upload.wikimedia.org/wikipedia/commons/c/c9/Une_mer_de_corail_comme_un_tr%C3%A9sor_%C3%A0_pr%C3%A9server.jpg)
 
 ![[Carte_Mer de Corail.png]]
 ###### Questions
 
-Quel est le nom de la mer où a eu lieu la bataille navale entre les forces alliées et japonaises en 1942, marquant un tournant dans la guerre du Pacifique durant la [[Seconde Guerre mondiale]] ? <!-- score: 4 -->
+Quel est le nom de la mer où a eu lieu la bataille navale entre les forces alliées et japonaises en 1942, marquant un tournant dans la guerre du Pacifique durant la [[Seconde Guerre mondiale]] ? <!-- score: 3 -->
 
 Quelle mer borde l'[[Australie]] au nord-est et abrite la célèbre [[Grande Barrière de Corail]], le plus grand système corallien du monde inscrit au patrimoine mondial de l'[[UNESCO]] depuis 1981 ?
 
