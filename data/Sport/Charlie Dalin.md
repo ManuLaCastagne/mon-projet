@@ -22,6 +22,7 @@ indice_6 :
 
 
 
+
 ![Image de Charlie Dalin](https://upload.wikimedia.org/wikipedia/commons/8/88/Charlie_Dalin.jpg)
 
 ###### Questions
