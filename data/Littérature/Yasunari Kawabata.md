@@ -27,13 +27,14 @@ questions:
 
 
 
+
 ![Image de Yasunari Kawabata](https://upload.wikimedia.org/wikipedia/commons/b/b5/Yasunari_Kawabata_1938.jpg)
 
 ###### Questions
 
 Quel auteur japonais a reçu le [[Prix Nobel de littérature]] en 1968, devenant ainsi le premier écrivain japonais à recevoir cette distinction ?
 
-Qui est l'auteur de [[Pays de neige]], un roman classique de la littérature japonaise publié pour la première fois en 1937 ? <!-- score: 3 -->
+Qui est l'auteur de [[Pays de neige]], un roman classique de la littérature japonaise publié pour la première fois en 1937 ? <!-- score: 4 -->
 
 Quel écrivain a été président du [[PEN Club International]] japonais de 1948 à 1965 ?
 
