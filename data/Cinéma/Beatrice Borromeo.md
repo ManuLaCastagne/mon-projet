@@ -24,6 +24,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Beatrice Borromeo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Beatrice_Borromeo_2017.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel membre de la famille aristocratique italienne, apparentée à [[Lavinio Bor
 
 Quelle réalisatrice de documentaires sur des sujets sociaux a grandi sur les îles de [[lac Majeur]], célèbres pour avoir appartenu à la prestigieuse famille Borromeo depuis le 16ème siècle ? 
 
-Quel auteur, récompensé en 2013 pour son livre "[[Rien qu’une œillade]]", est connu pour s’être engagé dans le militantisme social à travers ses films et documentaires ?
+Quel auteur, récompensé en 2013 pour son livre "[[Rien qu’une œillade]]", est connu pour s’être engagé dans le militantisme social à travers ses films et documentaires ? <!-- score: 4 -->
 
 ###### Description
 
