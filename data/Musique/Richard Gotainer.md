@@ -24,11 +24,12 @@ questions:
  - Auteur et chanteur né en 1948, j'ai interprété un de mes tubes sur le plateau de "Champs-Elysées" en 1984 en m'adressant à un poisson rouge puis à un aspirateur.
 ---
 
+
 ![Image de Richard Gotainer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Richard_gotainer.jpg)
 
 ###### Questions
 
-Quel artiste a sorti l'album [[Vive la Gaule]] en 1987 ? 
+Quel artiste a sorti l'album [[Vive la Gaule]] en 1987 ? <!-- score: 4 -->
 
 Qui a composé le célèbre jingle publicitaire pour les [[Crédit Agricole]] en 1981 ? 
 
