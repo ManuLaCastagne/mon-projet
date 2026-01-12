@@ -18,11 +18,12 @@ questions:
 ---
 
 
+
 ![Image de Poisson-globe](https://upload.wikimedia.org/wikipedia/commons/2/2a/Poisson_-_Recherches_sur_la_probabilit%C3%A9_des_jugements_en_mati%C3%A8re_criminelle_et_en_mati%C3%A8re_civile%2C_1837.djvu)
 
 ###### Questions
 
-Quel animal marin est connu pour gonfler de manière spectaculaire en se remplissant d'eau ou d'air pour se défendre contre les prédateurs ?
+Quel animal marin est connu pour gonfler de manière spectaculaire en se remplissant d'eau ou d'air pour se défendre contre les prédateurs ? <!-- score: 7 -->
 
 Quel animal contient la tétrodotoxine, une substance hautement toxique, qui nécessite une préparation extrêmement précise dans la cuisine japonaise du [[Fugu]] ?
 
