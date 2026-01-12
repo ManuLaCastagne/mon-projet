@@ -22,11 +22,12 @@ questions:
  - En patinage artistique, quel saut piqué pouvant être simple, double ou triple, porte le nom  du patineur autrichien qui l'a créé en 1913 ?
 ---
 
-![Image de Aloïs Lutz](https://upload.wikimedia.org/wikipedia/commons/5/58/Alois_Lutz_Litho.jpg)
+
+![Image de Aloïs Lutz](https://upload.wikimedia.org/wikipedia/commons/5/58/Alois_Lutz_Litho.jpg)
 
 ###### Questions
 
-Quel est le nom du patineur artistique qui a exécuté le premier saut [[Aloïs Lutz]] en compétition en [[1898]] ?
+Quel est le nom du patineur artistique qui a exécuté le premier saut [[Aloïs Lutz]] en compétition en [[1898]] ? <!-- score: 8 -->
 
 Quel est le nom du patineur artistique né en [[Autriche]] en [[1877]] et connu pour avoir créé un saut portant son nom ?
 
