@@ -22,11 +22,12 @@ indice_6 :
   - J. Edgar
 ---
 
+
 ![Image de Naomi Watts](https://upload.wikimedia.org/wikipedia/commons/8/80/Naomi_Watts_at_the_2024_New_York_Film_Festival_3.jpg)
 
 ###### Questions
 
-Dans quel film de [[David Lynch]] sorti en 2001, [[Naomi Watts]] joue-t-elle le personnage de [[Betty Elms]] et a été acclamée pour sa performance ?
+Dans quel film de [[David Lynch]] sorti en 2001, [[Naomi Watts]] joue-t-elle le personnage de [[Betty Elms]] et a été acclamée pour sa performance ? <!-- score: 5 -->
 
 Dans quelle production d'horreur psychologique de 2002, [[Naomi Watts]] tient-elle le rôle principal de [[Rachel Keller]] dans un film qui est un remake d'un film japonais ?
 
