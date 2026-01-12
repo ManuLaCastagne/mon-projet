@@ -22,11 +22,12 @@ questions:
  - En 2010, à Wimbledon, combien d'heures le match de tennis entre John Isner et Nicholas Mahut...
 ---
 
+
 ![Image de 11 heures et 5 minutes](https://upload.wikimedia.org/wikipedia/commons/7/74/%22G%C3%A9o%22_Michel%2C_premier_Fran%C3%A7ais_%C3%A0_traverser_la_Manche%2C_en_1926_en_11_heures_et_5_minutes_%28record_%C3%A0_l%27%C3%A9poque_%C3%A0_sa_onzi%C3%A8me_tentative_depuis_le_Cap_Gris-Nez%2C.jpg)
 
 ###### Questions
 
-Quel est le temps de jeu total du match de tennis entre [[John Isner]] et [[Nicolas Mahut]] lors de [[Wimbledon]] en [[2010]]?
+Quel est le temps de jeu total du match de tennis entre [[John Isner]] et [[Nicolas Mahut]] lors de [[Wimbledon]] en [[2010]]? <!-- score: 6 -->
 
 Combien de temps a duré le match de [[baseball]] le plus long entre les [[Red Sox de Pawtucket]] et les [[Red Wings de Rochester]] en [[1981]]?
 
