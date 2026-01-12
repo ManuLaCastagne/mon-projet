@@ -25,11 +25,12 @@ questions:
 ---
 
 
+
 ![Image de Ziggy](https://upload.wikimedia.org/wikipedia/commons/6/6a/Ziggy_Wild_Holland_August-September_2014_grupifoto.jpg)
 
 ###### Questions
 
-Dans quelle chanson de 1972 de [[David Bowie]] le personnage de [[Ziggy Stardust]] est-il présenté pour la première fois? <!-- score: 4 -->
+Dans quelle chanson de 1972 de [[David Bowie]] le personnage de [[Ziggy Stardust]] est-il présenté pour la première fois? <!-- score: 5 -->
 
 Quel titre chanté par [[Céline Dion]] en 1993 est une reprise en français racontant l'histoire d'une personne tombant amoureuse d'un ami homosexuel nommé [[Ziggy]]?
 
