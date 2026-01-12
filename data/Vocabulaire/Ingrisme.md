@@ -24,4 +24,4 @@ Quel mouvement artistique se distingue par la recherche de la perfection formell
 
 ###### Description
 
-
+Manière employée par les disciples d'Ingres et, en partie, par ses admirateurs. (Citons parmi les premiers H. Flandrin et Victor Mottez, parmi les seconds Puvis de Chavannes ou M. Denis.)

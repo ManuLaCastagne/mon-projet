@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Saga Malaussène.md",
+                "file": "Vocabulaire/Ingrisme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saga Malaussène"
+              "title": "Ingrisme"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Saga Malaussène.md",
+                "file": "Vocabulaire/Ingrisme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Saga Malaussène"
+              "title": "Graphique de Ingrisme"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,8 +357,11 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Littérature/Au bonheur des ogres.md",
+    "Vocabulaire/Vibice.md",
     "Littérature/Saga Malaussène.md",
+    "Histoire/Congrès de Vienne.md",
+    "Cinéma/Conjuring.md",
+    "Littérature/Au bonheur des ogres.md",
     "Littérature/Chanson d'automne.md",
     "Culture générale/Les sanglots longs des violons de l'automne blessent mon cœur d'une langueur monotone.md",
     "Vocabulaire/antonomase.md",
@@ -380,9 +383,6 @@
     "Architecture/Géode.md",
     "Architecture/Trinity College.md",
     "Cinéma/Hirokazu Kore-eda.md",
-    "Télévision/Sophie Thalmann.md",
-    "Sciences/Alpha Romeo.md",
-    "Littérature/Longtemps je me suis couché de bonne heure.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
