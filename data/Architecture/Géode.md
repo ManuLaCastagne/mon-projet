@@ -26,13 +26,14 @@ indice_6:
 
 
 
+
 ![Image de Géode](https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/La_G%C3%A9ode_-_La_Vilette_-_Paris.jpg/2560px-La_G%C3%A9ode_-_La_Vilette_-_Paris.jpg)
 
 ###### Questions
 
 Dans le parc parisien de La Villette, quel bâtiment sphérique recouvert d'acier poli renferme une salle de projection ?
 
-Quel célèbre bâtiment sphérique, conçu par l'architecte [[Adrien Fainsilber]], est couvert de 6 433 plaques triangulaires en acier poli ? <!-- score: 1 -->
+Quel célèbre bâtiment sphérique, conçu par l'architecte [[Adrien Fainsilber]], est couvert de 6 433 plaques triangulaires en acier poli ? <!-- score: 3 -->
 
 Quel édifice iconique permet de projeter des films sur un écran de 1 000 mètres carrés en utilisant la technique [[IMAX]] 180 degrés depuis 1985 ?
 
