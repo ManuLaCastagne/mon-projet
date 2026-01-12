@@ -22,17 +22,15 @@ questions:
  - Quelle ville abrite la franchise dite des Raptors, seule équipe de basket-ball canadienne à évoluer actuellement dans la NBA?
 ---
 
-
 ![Image de Toronto](https://upload.wikimedia.org/wikipedia/commons/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg)
 
 ###### Questions
 
 Quel est le lieu de création de la [[NBA]] en [[1946]] ?
 
-Dans quelle ville les [[Maple Leafs de Toronto]], équipe emblématique de la [[Ligue nationale de hockey]], jouent-ils leurs matchs à domicile ? <!-- score: 4 -->
+Dans quelle ville les [[Maple Leafs]], équipe emblématique de la [[Ligue nationale de hockey]], jouent-ils leurs matchs à domicile ? <!-- score: 4 -->
 
-Où les [[Raptors de Toronto]] ont-ils remporté leur premier championnat de la [[NBA]] en [[2019]] ?
-
+Où les [[Raptors]] ont-ils remporté leur premier championnat de la [[NBA]] en [[2019]] ? <!-- score: 5 -->
 ###### Description
 
 [[Toronto]] est une ville dynamique sur la scène sportive nord-américaine, accueillant des équipes de renom comme les [[Toronto Raptors]], qui ont remporté le championnat [[NBA]] en [[2019]]. 
