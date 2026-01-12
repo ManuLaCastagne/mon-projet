@@ -26,12 +26,13 @@ questions:
  - Quelle commune de la Charente-Maritime abrite l'arc de triomphe dit de Germanicus et un amphithéâtre romain?
 ---
 
+
 ![Image de Saintes](https://upload.wikimedia.org/wikipedia/commons/e/e7/Saint_Peter%27s_Cathedral_of_Saintes_-_2.jpg)
 
 ![[Carte_Saintes.png]]
 ###### Questions
 
-Dans quelle ville française peut-on visiter l'arc de Germanicus, un monument romain érigé en [[18 après J.-C.]] sous le règne de [[Tibère]] ?
+Dans quelle ville française peut-on visiter l'arc de Germanicus, un monument romain érigé en [[18 après J.-C.]] sous le règne de [[Tibère]] ? <!-- score: 4 -->
 
 Dans quelle commune de [[Charente-Maritime]] trouve-t-on un amphithéâtre romain construit au Ier siècle, utilisé pour des jeux et spectacles publics durant l'Antiquité ?
 
