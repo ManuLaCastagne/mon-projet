@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Mésopotamie](https://upload.wikimedia.org/wikipedia/commons/f/f8/N-Mesopotamia_and_Syria_%28Indonesian_version%29.svg)
 
 ###### Questions
 
-Quelle ancienne région, située entre les fleuves [[Tigre]] et [[Euphrate]], est considérée comme le berceau de l'écriture grâce à l'invention du système cunéiforme vers 3300 avant notre ère ? <!-- score: 6 -->
+Quelle ancienne région, située entre les fleuves [[Tigre]] et [[Euphrate]], est considérée comme le berceau de l'écriture grâce à l'invention du système cunéiforme vers 3300 avant notre ère ? <!-- score: 8 -->
 
 Dans quelle civilisation, datant de 3500 avant notre ère, trouve-t-on les premières preuves d'une agriculture organisée et d'une irrigation avancée menant au développement des premières villes comme [[Uruk]] et [[Ur]] ?
 
