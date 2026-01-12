@@ -22,11 +22,12 @@ questions:
  - Dans la religion chrétienne, quel saint surnomme-t-on l'apôtre des gentils?
 ---
 
+
 ![Image de Saint-Paul](https://upload.wikimedia.org/wikipedia/commons/8/81/Saint_paul_mn.jpg)
 
 ###### Questions
 
-Quel apôtre a écrit la majorité des lettres du [[Nouveau Testament]], influençant profondément la théologie chrétienne ?
+Quel apôtre a écrit la majorité des lettres du [[Nouveau Testament]], influençant profondément la théologie chrétienne ? <!-- score: 4 -->
 
 Quel est le nom de l'ancienne capitale de l'île de [[La Réunion]], qui a été nommée en l'honneur de l'apôtre associé à l'évangélisation des Gentils ?
 
