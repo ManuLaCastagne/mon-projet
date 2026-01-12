@@ -4,6 +4,7 @@ tags:
   - Ibrahim_Maalouf
   - Liban
   - Années_2000
+  - Certifié
 date:
   - 1980/11/05
 debut: 1980
@@ -40,6 +41,8 @@ Quel compositeur a collaboré avec [[Sting]] pour une reprise de « [[Sting - Sh
 [[Ibrahim Maalouf]] est un trompettiste et compositeur franco-libanais qui s'est forgé une réputation unique en combinant jazz, musique arabe et influences électroniques dans ses œuvres. 
 
 Né en 1980 à [[Beyrouth]], il a commencé à jouer de la trompette dès l'âge de sept ans sous la tutelle de son père, [[Nassim Maalouf]], un renommé trompettiste classique, lui-même célèbre pour avoir introduit la trompette à quarts de ton. 
+
+Sa famille se compose notamment de son père  [[Amin Maalouf]] et de frères et soeurs musiciens.
 
 En 2016, [[Ibrahim Maalouf]] a remporté la Victoire de l'album de musiques du monde avec son disque "Red & Black Light", soulignant son impact considérable sur la scène musicale internationale. 
 

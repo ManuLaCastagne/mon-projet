@@ -1,27 +1,23 @@
 ---
-tags: 
+tags:
   - Musique
   - Allemagne
   - Années_1980
   - XXe
-date:
-  - 1963/06/29
 debut: 1963
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - violoniste virtuose
-indice_2 : 
+indice_2:
   - concertos de Mozart
-indice_3 : 
+indice_3:
   - orchestres célèbres
-indice_4 : 
+indice_4:
   - collaborations avec Herbert von Karajan
-indice_5 : 
+indice_5:
   - répertoire classique
-indice_6 : 
+indice_6:
   - Deutsche Grammophon
-questions:
- - En 1978, à l'âge de 14 ans,  quelle violoniste allemande  se produit pour la 1re fois comme soliste avec l'Orchestre philarmonique de Berlin.
 ---
 
 
@@ -34,7 +30,8 @@ Quel prodige allemande du violon a commencé sa carrière internationale à l'â
 
 Quelle violoniste a été désignée pour la première fois comme responsable d'une classe principale de violon à l'Académie de Musique d'Automne de [[Salzbourg]] en 1987 ? <!-- score: 3 -->
 
-Quelle musicienne renommée a créé en 2008 la [[Fondation Anne-Sophie Mutter]], dédiée à la promotion de jeunes artistes talentueux ? <!-- score: 5 -->
+En 1978, à l'âge de 14 ans, quelle violoniste allemande se produit pour la 1re fois comme soliste avec l'Orchestre philarmonique de Berlin ?
+
 ###### Description
 
 [[Anne-Sophie Mutter]] est une violoniste allemande de renommée mondiale, née le 29 juin 1963 à [[Rheinfelden]], en Allemagne. 
