@@ -18,11 +18,12 @@ questions:
 ---
 
 
+
 ![Image de Langouste](https://upload.wikimedia.org/wikipedia/commons/a/ac/Palinuridae_-_MBA.webm)
 
 ###### Questions
 
-Quel crustacé a des antennes plus longues que son propre corps et peut vivre jusqu'à 50 ans dans son environnement naturel ?
+Quel crustacé a des antennes plus longues que son propre corps et peut vivre jusqu'à 50 ans dans son environnement naturel ? <!-- score: 10 -->
 
 Quel type de fruit de mer, mentionné dans la chanson "Rock [[Lobster]]" du groupe [[The B-52's]] en 1979, est souvent confondu avec le homard mais ne possède pas de pinces ? <!-- score: 4 -->
 
