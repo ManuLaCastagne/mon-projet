@@ -28,6 +28,7 @@ questions:
 
 
 
+
 ![Image de Îles de Lérins](https://upload.wikimedia.org/wikipedia/commons/c/ce/Aerial_view_of_%C3%8Eles_de_L%C3%A9rins_%28cropped%29.jpg)
 
 ![[Carte_Îles de Lérins.png]]
@@ -35,7 +36,7 @@ questions:
 
 Quelle est la destination où [[Napoléon Bonaparte]] a été brièvement emprisonné en juillet 1815 après sa défaite à [[Waterloo]]? 
 
-Quel est le nom de l'archipel où se trouve le monastère fortifié de [[Saint-Honorat]], bâti dès le début du [[Ve]] siècle? <!-- score: 1 -->
+Quel est le nom de l'archipel où se trouve le monastère fortifié de [[Saint-Honorat]], bâti dès le début du [[Ve]] siècle? <!-- score: 3 -->
 
 Dans quel groupe d'îles du [[Var]] sont organisées les prestigieuses régates internationales appelées [[Les Voiles de Saint-Tropez]]?
 
