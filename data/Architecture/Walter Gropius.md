@@ -25,13 +25,14 @@ questions:
  - En 1926 à Dessau, quel architecte allemand réalise le bâtiment de son école d'architecture école d'architecture et d'arts appliqués du Bauhaus ?
 ---
 
+
 ![Image de Walter Gropius](https://upload.wikimedia.org/wikipedia/commons/b/b5/WalterGropius-1919.jpg)
 
 ###### Questions
 
 Quel architecte a fondé l'école du [[Bauhaus]] en 1919 ?
 
-Quel directeur des [[Ateliers d’Architecture de Harvard]] a influencé le développement de l'architecture moderne en 1946 ?
+Quel directeur des [[Ateliers d’Architecture de Harvard]] a influencé le développement de l'architecture moderne en 1946 ? <!-- score: 4 -->
 
 Qui a conçu en 1952 la maison expérimentale "The [[Gropius House]]" à [[Lincoln, Massachusetts]] ?
 
