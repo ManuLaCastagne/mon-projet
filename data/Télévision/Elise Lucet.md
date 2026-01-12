@@ -23,6 +23,7 @@ questions:
  - Depuis 2012, quelle journaliste ayant présenté pendant 11 ans le "13 heures" de France anime l'émission "Cash investigation"?
 ---
 
+
 ![Image de Elise Lucet](https://upload.wikimedia.org/wikipedia/commons/3/3c/Elise_Lucet_2015_%28cropped%29.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ questions:
 
 Pour quel célèbre magazine d'investigation, diffusé au sein de l'émission [[Envoyé spécial]], [[Elise Lucet]] est-elle principalement connue depuis 2016 ?
 
-Quel rôle important a occupé [[Elise Lucet]] à partir de 2005 au sein du [[journal de 13 heures]] de [[France 2]] ?
+Quel rôle important a occupé [[Elise Lucet]] à partir de 2005 au sein du [[journal de 13 heures]] de [[France 2]] ? <!-- score: 5 -->
 
 ###### Description
 
