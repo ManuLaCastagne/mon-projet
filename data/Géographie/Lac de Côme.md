@@ -28,6 +28,7 @@ questions:
 
 
 
+
 ![Image de Lac de Côme](https://upload.wikimedia.org/wikipedia/commons/a/ad/Church_of_the_Ascension_%28Cadenabbia%29_Lac_de_C%C3%B4me_en_2018.jpg)
 
 ![[Carte_Lac de Côme.png]]
@@ -35,7 +36,7 @@ questions:
 
 Quel est le lac en Italie célèbre pour ses nombreux hôtels de luxe et qui a été le lieu de vacances de célébrités comme [[George Clooney]] ? 
 
-Quel est le lac italien qui a servi de lieu de tournage pour les scènes du film [[James Bond]], [[Casino Royale]], sorti en 2006 ? <!-- score: 3 -->
+Quel est le lac italien qui a servi de lieu de tournage pour les scènes du film [[James Bond]], [[Casino Royale]], sorti en 2006 ? <!-- score: 4 -->
 
 Quel est le troisième lac le plus grand d'[[Italie]] par superficie, situé près de la ville de [[Côme]] dans la région de [[Lombardie]] ?
 
