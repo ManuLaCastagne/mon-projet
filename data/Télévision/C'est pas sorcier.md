@@ -22,11 +22,12 @@ questions:
  - Emission lancée sur France 3 en 1993, mes reportages sont ponctués par la petite voix, celle de Valérie Guerlain. Programmée en semaine et le dimanche...
 ---
 
+
 ![Image de C'est pas sorcier](https://upload.wikimedia.org/wikipedia/commons/1/17/C%27est_pas_sourc%C3%A9_2B.png)
 
 ###### Questions
 
-Quel programme télévisé éducatif français diffusé pour la première fois en [[1993]] et présenté par [[Frédéric Courant]], [[Jamy Gourmaud]] et [[Sabine Quindou]] a contribué à vulgariser la science et la technologie pour les jeunes?
+Quel programme télévisé éducatif français diffusé pour la première fois en [[1993]] et présenté par [[Frédéric Courant]], [[Jamy Gourmaud]] et [[Sabine Quindou]] a contribué à vulgariser la science et la technologie pour les jeunes? <!-- score: 7 -->
 
 Quelle émission populaire en France comportait un camion-laboratoire et utilisait des maquettes pour expliquer des phénomènes complexes sur des thèmes variés allant de la biologie à l'astronomie?
 
