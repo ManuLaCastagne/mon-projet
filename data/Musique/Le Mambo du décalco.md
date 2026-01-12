@@ -1,27 +1,23 @@
 ---
-tags: 
+tags:
   - Musique
   - France
   - Années_1980
   - XXe
-date:
-  - 1984/05/01
 debut: 1984
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Danse populaire cubaine
-indice_2 : 
+indice_2:
   - Découpe d'images adhésives
-indice_3 : 
+indice_3:
   - Los Del Rio
-indice_4 : 
+indice_4:
   - Collage décoratif
-indice_5 : 
+indice_5:
   - Rythmes latins
-indice_6 : 
+indice_6:
   - Papillons autocollants
-questions:
- - En 1982, dans quelle chanson R.Gotainer dit-il  "Et une tête d'Indien, sur la tranche du vélo"?
 ---
 
 ![Image de Le Mambo du décalco]()
@@ -30,10 +26,7 @@ questions:
 
 En 1975, quelle chanson humoristique de [[Richard Gotainer]] invite les auditeurs à un voyage musical autour d'une technique d'art original ? 
 
-Quel titre de [[Richard Gotainer]] a fait sensation sur les ondes françaises et est devenu célèbre pour sa performance télévisée en 1980 dans l'émission [[Les Rendez-vous du Dimanche]] ?
-
-Comment s'appelle la chanson de [[Richard Gotainer]] qui a su marier humour et innovation technologique, restée dans les mémoires pour sa sortie en 1982 et la création d'un produit de loisir ?
-
+En 1982, dans quelle chanson Gotainer dit-il "Et une tête d'Indien, sur la tranche du vélo" ?
 ###### Description
 
 Le [[Mambo du décalco]] est une chanson émblematique de [[Richard Gotainer]], sortie en 1982 sur l'album "[[Contes de traviole]]". 

@@ -1,27 +1,26 @@
 ---
-tags: 
+tags:
   - Musique
   - Manchester
   - Royaume-Uni
   - Années_1990
+  - Certifié
 date:
   - 1967/05/29
 debut: 1967
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Oasis
-indice_2 : 
+indice_2:
   - High Flying Birds
-indice_3 : 
+indice_3:
   - songwriter
-indice_4 : 
+indice_4:
   - guitariste britannique
-indice_5 : 
+indice_5:
   - frère de Liam
-indice_6 : 
+indice_6:
   - rock alternatif
-questions:
- - Quel chanteur d'Oasis…
 ---
 
 
@@ -31,13 +30,13 @@ questions:
 
 Quel musicien a quitté le groupe [[Oasis]] en 2009, menant à sa dissolution ?
 
-Qui a écrit la plupart des hits, dont "[[Wonderwall]]", pour le groupe [[Oasis]] ? <!-- score: 4 -->
+Qui a écrit la plupart des hits de son groupe, dont "[[Wonderwall]]" ? <!-- score: 4 -->
 
-Quel est le nom du guitariste principal de [[Oasis]] qui est né en 1967 et a fondé plus tard le groupe [[Noel Gallagher's High Flying Birds]] ?
+Quel est le nom du guitariste principal de [[Oasis]] qui est né en 1967 et a fondé plus tard son propre groupe ?
 
 ###### Description
 
-[[Noel Gallagher]] est un auteur-compositeur anglophone célèbre, principalement connu pour son rôle de guitariste et parolier principal du groupe [[Oasis]], formé en 1991. 
+[[Noel Gallagher]] est un auteur-compositeur anglophone célèbre né à [[Manchester]], principalement connu pour son rôle de guitariste et parolier principal du groupe [[Oasis]], formé en 1991. 
 
 Un fait étonnant à propos de [[Noel Gallagher]] est qu'en 1996, le groupe [[Oasis]] a donné un concert légendaire à [[Knebworth Park]] où ils ont joué devant une audience totale de 250 000 personnes sur deux jours, ce qui représente l'un des plus grands concerts en plein air de l'histoire britannique.
 

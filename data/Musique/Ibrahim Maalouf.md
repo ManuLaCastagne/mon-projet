@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Musique
   - Ibrahim_Maalouf
   - Liban
@@ -7,21 +7,19 @@ tags:
 date:
   - 1980/11/05
 debut: 1980
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - jazz musicien libanais
-indice_2 : 
+indice_2:
   - trompettiste célèbre
-indice_3 : 
+indice_3:
   - combine musique orientale et jazz
-indice_4 : 
+indice_4:
   - a remporté une Victoire de la Musique
-indice_5 : 
+indice_5:
   - album Beirut
-indice_6 : 
+indice_6:
   - collaboration avec Sting
-questions:
- - Avec quel trompettiste, né en 1980 et connu pour mélanger les styles musicaux, le journaliste Mouloud Achour a-t-il une parfaite ressemblance?
 ---
 
 
@@ -29,9 +27,11 @@ questions:
 
 ###### Questions
 
-Quel musicien, premier trompettiste au monde à jouer une trompette à quart de ton, a été récompensé par le [[César]] de la meilleure musique originale pour le film [[Dans les forêts de Sibérie]] en 2017 ?
+Quel musicien né à [[Beyrouth]], premier trompettiste au monde à jouer une trompette à quart de ton, a été récompensé par le [[César]] de la meilleure musique originale pour le film [[Dans les forêts de Sibérie]] en 2017 ?
 
-Quel artiste a reçu une Victoire de la Musique dans la catégorie « Album de musiques du monde » pour son album [[Wind]] en 2013 ?
+Avec quel trompettiste, né en 1980 et connu pour mélanger les styles musicaux, le journaliste [[Mouloud Achour]] a-t-il une parfaite ressemblance ?
+
+Quel trompettiste est le neveu de l'écrivain auteur de "Léon l'Africain" ?
 
 Quel compositeur a collaboré avec [[Sting]] pour une reprise de « [[Sting - Shape of My Heart|Shape of My Heart]] » lors du festival [[Jazz à Vienne]] en 2017 ? <!-- score: 4 -->
 

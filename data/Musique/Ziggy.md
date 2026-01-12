@@ -4,6 +4,7 @@ tags:
   - Ziggy_Stardust
   - Royaume-Uni
   - Années_1970
+  - Certifié
 debut: 1972
 fin:
 indice_1:
@@ -35,7 +36,9 @@ Le titre "Ziggy" est étroitement associé à [[Ziggy Stardust]], l'alter ego em
 
 Un fait étonnant, rarement mentionné, est que cet album a été enregistré en seulement deux semaines à [[Londres]], une vitesse surprenante qui contraste avec la complexité musicale et le succès durable de ce chef-d'œuvre. 
 
-Le personnage, icône du glam rock, est au centre de l'album The Rise and Fall of Ziggy Stardust and the Spiders from Mars, sorti en 1972, qui relate de manière imprécise son histoire : celle du messager humain d'une intelligence extraterrestre cherchant à transmettre à l'humanité, qui n'a plus que cinq années à vivre, un message d'amour et de paix, mais qui finit par être détruit par ses propres excès. Le personnage de Ziggy sera mis en scène par Bowie lors de la tournée qui suivit la sortie de son album homonyme, passant par le Royaume-Uni, le Japon et les États-Unis.
+Le personnage, icône du [[glam rock]], est au centre de l'album The Rise and Fall of Ziggy Stardust and the Spiders from Mars, sorti en 1972, qui relate de manière imprécise son histoire : celle du messager humain d'une intelligence extraterrestre cherchant à transmettre à l'humanité, qui n'a plus que cinq années à vivre, un message d'amour et de paix, mais qui finit par être détruit par ses propres excès. 
+
+Le personnage de Ziggy sera mis en scène par Bowie lors de la tournée qui suivit la sortie de son album homonyme, passant par le Royaume-Uni, le Japon et les États-Unis.
 
 [[David Bowie]] a incarné [[Ziggy Stardust]] lors de performances théâtrales et flamboyantes, ajoutant une dimension de spectacle à ses concerts. 
 
