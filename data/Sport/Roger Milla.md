@@ -1,25 +1,24 @@
 ---
-tags: 
+tags:
   - Sport
   - Cameroun
   - Années_1980
   - XXe
+  - Certifié
 debut: 1952
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Cameroun
-indice_2 : 
+indice_2:
   - Coupe du Monde 1990
-indice_3 : 
+indice_3:
   - Danse de corner
-indice_4 : 
+indice_4:
   - Ballon d'Or africain
-indice_5 : 
+indice_5:
   - Vétéran buteur
-indice_6 : 
+indice_6:
   - RWDM Brussels
-questions:
- - Buteur camerounais comptant parmi les plus grands joueurs africains, disait la fin de cette question, je suis…
 ---
 
 
