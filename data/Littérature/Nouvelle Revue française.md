@@ -25,7 +25,8 @@ questions:
 ---
 
 
-![Image de Nouvelle Revue française](https://upload.wikimedia.org/wikipedia/commons/e/e0/NRF_Num%C3%A9ro_1_F%C3%A9vrier_1909.jpg)
+
+![Image de Nouvelle Revue française](https://upload.wikimedia.org/wikipedia/commons/e/e0/NRF_Num%C3%A9ro_1_F%C3%A9vrier_1909.jpg)
 
 ###### Questions
 
@@ -33,7 +34,7 @@ Quel périodique littéraire fondé en 1908 par [[André Gide]] et [[Jean Schlum
 
 Quel est le nom de la revue qui, suite à sa suspension pendant la [[Seconde Guerre mondiale]], a été relancée en 1953 sous la direction de [[Jean Paulhan]] ? <!-- score: 4 -->
 
-Sous quelle publication [[Marcel Proust]] a-t-il publié en 1912 un fragment de [[À la recherche du temps perdu]], marquant une première diffusion de son travail avant la parution complète de son roman ?
+Sous quelle publication [[Marcel Proust]] a-t-il publié en 1912 un fragment de [[À la recherche du temps perdu]], marquant une première diffusion de son travail avant la parution complète de son roman ? <!-- score: 2 -->
 
 ###### Description
 
