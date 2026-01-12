@@ -24,13 +24,14 @@ questions:
  - 1991. Actrice principale du film "Alice" de Woody Allen ?
 ---
 
+
 ![Image de Mia Farrow](https://upload.wikimedia.org/wikipedia/commons/5/51/Pulitzer2018-mia-farrow-20180530-wp.jpg)
 
 ###### Questions
 
 Dans quel film de [[Roman Polanski]] sorti en 1968, [[Mia Farrow]] incarne-t-elle une jeune femme enceinte vivant à [[New York]], convaincue que sa grossesse cache quelque chose de sinistre ?
 
-Quel bras-de-fer familial impliquant [[Mia Farrow]] éclate en 1992 lorsqu'elle se sépare du réalisateur [[Woody Allen]], l'accusant de comportements inappropriés avec leur fille adoptive de sept ans, [[Dylan Farrow]] ?
+Quel bras-de-fer familial impliquant [[Mia Farrow]] éclate en 1992 lorsqu'elle se sépare du réalisateur [[Woody Allen]], l'accusant de comportements inappropriés avec leur fille adoptive de sept ans, [[Dylan Farrow]] ? <!-- score: 5 -->
 
 Quel est le lien familial entre [[Mia Farrow]] et le célèbre musicien [[Frank Sinatra]], qui inclut un mariage et un divorce entre 1966 et 1968 ?
 
