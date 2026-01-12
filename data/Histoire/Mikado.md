@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Mikado](https://upload.wikimedia.org/wikipedia/commons/7/73/Syrmaticus_mikado_MHNT.jpg)
 
 ###### Questions
 
 Quelle friandise japonaise emblématique a été introduite en France en [[1982]] et porte le nom d'un jeu de société traditionnel?
 
-Quel est le nom du jeu de société d'origine chinoise qui a inspiré le nom d'une célèbre collation de chocolat lancée par [[Glico]]? <!-- score: 4 -->
+Quel est le nom du jeu de société d'origine chinoise qui a inspiré le nom d'une célèbre collation de chocolat lancée par [[Glico]]? <!-- score: 7 -->
 
 Quel bâtonnet enrobé de chocolat, lancé pour la première fois au [[Japon]] en [[1967]], doit son nom à un jeu de société traditionnel?
 
