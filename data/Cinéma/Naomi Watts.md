@@ -22,17 +22,11 @@ indice_6 :
   - J. Edgar
 ---
 
-
 ![Image de Naomi Watts](https://upload.wikimedia.org/wikipedia/commons/8/80/Naomi_Watts_at_the_2024_New_York_Film_Festival_3.jpg)
 
 ###### Questions
 
-Dans quel film de [[David Lynch]] sorti en 2001, [[Naomi Watts]] joue-t-elle le personnage de [[Betty Elms]] et a été acclamée pour sa performance ? <!-- score: 5 -->
-
-Dans quelle production d'horreur psychologique de 2002, [[Naomi Watts]] tient-elle le rôle principal de [[Rachel Keller]] dans un film qui est un remake d'un film japonais ?
-
-Dans quel film catastrophe de 2012, [[Naomi Watts]] a-t-elle incarné le personnage de [[Maria Bennett]] et a reçu une nomination aux [[Oscars]] pour sa performance ?
-
+Dans Mullholland Drive de [[David Lynch]] sorti en 2001, qui joue le personnage de [[Betty Elms]] et a été acclamée pour sa performance ? <!-- score: 5 -->
 ###### Description
 
 [[Naomi Watts]] est une actrice britannique, née le 28 septembre 1968, qui s'est illustrée par ses performances dans des films à succès tels que [[Mulholland Drive]] (2001) de [[David Lynch]] et [[The Ring]] (2002). 
