@@ -26,6 +26,7 @@ questions:
 ---
 
 
+
 ![Image de Jane Austen](https://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg)
 
 ###### Questions
@@ -34,7 +35,7 @@ Quelle auteure anglaise a publié son premier roman, [[Sense and Sensibility]], 
 
 Qui est l'écrivaine dont le roman [[Pride and Prejudice]], publié en 1813, a initialement été intitulé 'First Impressions' ?
 
-Quel écrivain britannique a vu la publication posthume en 1818 de ses œuvres [[Northanger Abbey]] et [[Persuasion]] ? <!-- score: 3 -->
+Quel écrivain britannique a vu la publication posthume en 1818 de ses œuvres [[Northanger Abbey]] et [[Persuasion]] ? <!-- score: 4 -->
 
 ###### Description
 
