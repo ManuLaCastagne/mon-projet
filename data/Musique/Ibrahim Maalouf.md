@@ -24,6 +24,7 @@ questions:
  - Avec quel trompettiste, né en 1980 et connu pour mélanger les styles musicaux, le journaliste Mouloud Achour a-t-il une parfaite ressemblance?
 ---
 
+
 ![Image de Ibrahim Maalouf](https://upload.wikimedia.org/wikipedia/commons/2/2a/Ibrahim_Maalouf_-_Festival_du_Bout_du_Monde_2014_-_005_%28cropped%29.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel musicien, premier trompettiste au monde à jouer une trompette à quart de 
 
 Quel artiste a reçu une Victoire de la Musique dans la catégorie « Album de musiques du monde » pour son album [[Wind]] en 2013 ?
 
-Quel compositeur a collaboré avec [[Sting]] pour une reprise de « [[Sting - Shape of My Heart|Shape of My Heart]] » lors du festival [[Jazz à Vienne]] en 2017 ?
+Quel compositeur a collaboré avec [[Sting]] pour une reprise de « [[Sting - Shape of My Heart|Shape of My Heart]] » lors du festival [[Jazz à Vienne]] en 2017 ? <!-- score: 4 -->
 
 ###### Description
 
