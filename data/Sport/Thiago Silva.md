@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Thiago Silva](https://upload.wikimedia.org/wikipedia/commons/e/ea/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gruppenfoto_Brasilien_850_0016.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel joueur brésilien [[Paris Saint-Germain]] a été capitaine lors de la vict
 
 Quel défenseur central a rejoint le [[Chelsea FC]] en [[2020]] après huit saisons au [[Paris Saint-Germain]] ? <!-- score: 8 -->
 
-Quel joueur a été capitaine de l'équipe nationale du [[Brésil]] lors de leur victoire à la [[Coupe des Confédérations FIFA]] en [[2013]] ?
+Quel joueur a été capitaine de l'équipe nationale du [[Brésil]] lors de leur victoire à la [[Coupe des Confédérations FIFA]] en [[2013]] ? <!-- score: 4 -->
 
 ###### Description
 
