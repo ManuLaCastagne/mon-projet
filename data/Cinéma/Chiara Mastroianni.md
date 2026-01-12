@@ -24,13 +24,14 @@ questions:
  - Comédienne née en 1972, j'ai la particularité d'avoir joué aux côtés de ma mère en 1979, puis de mon père en 1987.
 ---
 
+
 ![Image de Chiara Mastroianni](https://upload.wikimedia.org/wikipedia/commons/3/38/Chiara_Mastroianni_Cannes_2011.jpg)
 
 ###### Questions
 
 Quelle actrice, fille de [[Catherine Deneuve]] et [[Marcello Mastroianni]], a débuté dans le cinéma avec le film [[Ma saison préférée]] en 1993 ?
 
-Dans quel domaine [[Chiara Mastroianni]] a-t-elle reçu le prix [[Un Certain Regard]] pour sa performance dans le film [[Chambre 212]] lors du Festival de Cannes en 2019 ?
+Dans quel domaine [[Chiara Mastroianni]] a-t-elle reçu le prix [[Un Certain Regard]] pour sa performance dans le film [[Chambre 212]] lors du Festival de Cannes en 2019 ? <!-- score: 5 -->
 
 Dans quel secteur Chiara Mastroianni a-t-elle interprété le personnage de Claire Poussin dans le film d'animation français [[Persepolis]] sorti en 2007 ?
 
