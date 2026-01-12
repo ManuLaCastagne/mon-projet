@@ -20,20 +20,15 @@ indice_6 :
   - Skipper
 ---
 
-
-
-
-
 ![Image de Charlie Dalin](https://upload.wikimedia.org/wikipedia/commons/8/88/Charlie_Dalin.jpg)
 
 ###### Questions
 
 Quel navigateur français a terminé en tête de la huitième édition du [[Vendée Globe]] en [[2020-2021]], devenant le premier à franchir la ligne d'arrivée bien que ne remportant finalement pas la course à cause d'un ajustement du temps ?
 
-Quel skipper a étudié à l'[[Université de Southampton]] après avoir été diplômé de l'[[École nationale supérieure de techniques avancées]] en [[2006]], connu pour sa carrière impressionnante dans la voile ?
+Quel skipper a établi une prouesse en 2023 en étant atteint d'un cancer ? <!-- score: 5 -->
 
 Quel marin a mené l'[[IMOCA]] [[Apivia]] à la victoire en temps réel lors de la [[Transat Jacques Vabre]] [[2019]] en établissant un record de vitesse sur cette course de classe ? <!-- score: 2 -->
-
 ###### Description
 
 [[Charlie Dalin]] est un navigateur français, né à [[Le Havre]] en [[1984]]. 
