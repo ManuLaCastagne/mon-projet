@@ -24,13 +24,14 @@ questions:
  - Quel chanteur d'Oasis…
 ---
 
+
 ![Image de Noel Gallagher](https://upload.wikimedia.org/wikipedia/commons/6/6e/Noel_Gallagher_2019.jpg)
 
 ###### Questions
 
 Quel musicien a quitté le groupe [[Oasis]] en 2009, menant à sa dissolution ?
 
-Qui a écrit la plupart des hits, dont "[[Wonderwall]]", pour le groupe [[Oasis]] ?
+Qui a écrit la plupart des hits, dont "[[Wonderwall]]", pour le groupe [[Oasis]] ? <!-- score: 4 -->
 
 Quel est le nom du guitariste principal de [[Oasis]] qui est né en 1967 et a fondé plus tard le groupe [[Noel Gallagher's High Flying Birds]] ?
 
