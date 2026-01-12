@@ -24,11 +24,12 @@ questions:
  - Dès la fin des années 90, quel groupe californien s'est formé autour du chanteur Adam Levine et du guitariste James Valentine en se choisissant un nom anglais évoquant le chiffre 5?
 ---
 
+
 ![Image de Maroon 5](https://upload.wikimedia.org/wikipedia/commons/5/53/Maroon_Bells_%2811553%29a.jpg)
 
 ###### Questions
 
-Quel groupe a sorti l'album [[Songs About Jane]], qui a connu un succès mondial en 2002 ?
+Quel groupe a sorti l'album [[Songs About Jane]], qui a connu un succès mondial en 2002 ? <!-- score: 4 -->
 
 Quel groupe a remporté le [[Grammy Award]] du meilleur nouvel artiste en 2005 ?
 
