@@ -22,6 +22,7 @@ indice_6:
 ---
 
 
+
 ![Image de Caracas](https://upload.wikimedia.org/wikipedia/commons/9/95/El_Para%C3%ADso_tunnel_main_gate_of_Caracas.jpg)
 
 ![[Carte_Caracas.png]]
@@ -33,7 +34,7 @@ Quelle ville, dans laquelle est né Simon Bolivar en 1783, est la capitale du Ve
 
 Quelle ville, située au pied du [[Cerro El Ávila]], est connue pour être le centre culturel et économique du [[Venezuela]] ?
 
-Quelle ville était le lieu de naissance de [[Simon Bolivar]] en 1783, le libérateur d'une grande partie de l'Amérique du Sud ? <!-- score: 4 -->
+Quelle ville était le lieu de naissance de [[Simon Bolivar]] en 1783, le libérateur d'une grande partie de l'Amérique du Sud ? <!-- score: 3 -->
 
 ###### Description
 
