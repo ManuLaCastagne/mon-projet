@@ -40,7 +40,7 @@ Quel est le troisième lac le plus grand d'[[Italie]] par superficie, situé pr�
 
 ###### Description
 
-Le [[Lac de Côme]], situé en [[Italie]], est connu pour sa forme de "y" inversé et s'étend sur une superficie de 146 km², ce qui en fait le troisième plus grand lac d'Italie après le [[Lac Majeur]] et le [[Lac de Garde]].
+Le [[Lac de Côme]], situé en [[Italie]], est connu pour sa forme de "y" inversé et s'étend sur une superficie de 146 km², ce qui en fait le troisième plus grand lac d'Italie après le [[lac Majeur]] et le [[Lac de Garde]].
 
 Ses rives spectaculaires abritent des villages pittoresques tels que [[Bellagio]], souvent surnommé la "perle du lac", et [[Varenna]], réputé pour ses vues panoramiques.
 

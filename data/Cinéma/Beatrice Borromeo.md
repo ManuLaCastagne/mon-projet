@@ -30,7 +30,7 @@ indice_6 :
 
 Quel membre de la famille aristocratique italienne, apparentée à [[Lavinio Borromeo]] et mariée à [[Pierre Casiraghi]], est également un ancien mannequin devenu journaliste et documentariste ? <!-- score: 3 -->
 
-Quelle réalisatrice de documentaires sur des sujets sociaux a grandi sur les îles de [[Lac Majeur]], célèbres pour avoir appartenu à la prestigieuse famille Borromeo depuis le 16ème siècle ? 
+Quelle réalisatrice de documentaires sur des sujets sociaux a grandi sur les îles de [[lac Majeur]], célèbres pour avoir appartenu à la prestigieuse famille Borromeo depuis le 16ème siècle ? 
 
 Quel auteur, récompensé en 2013 pour son livre "[[Rien qu’une œillade]]", est connu pour s’être engagé dans le militantisme social à travers ses films et documentaires ?
 

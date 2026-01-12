@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Français
   - Années_1930
@@ -8,20 +8,18 @@ date:
   - 1884/06/27
 debut: 1884
 fin: 1962
-indice_1 : 
+indice_1:
   - L'eau et les rêves
-indice_2 : 
+indice_2:
   - La poétique de l'espace
-indice_3 : 
+indice_3:
   - Philosophe français
-indice_4 : 
+indice_4:
   - L'imagination matérielle
-indice_5 : 
+indice_5:
   - La flamme d'une chandelle
-indice_6 : 
+indice_6:
   - Rêveries poétiques
-questions:
- - L'esprit scientifique se constitue comme un ensemble d'erreurs rectifiées. A quel philosophe comptant parmi les fondateurs de la nouvelle épistémologie française...
 ---
 
 
@@ -30,6 +28,8 @@ questions:
 ###### Questions
 
 Quel philosophe des sciences a écrit sur l'imaginaire poétique dans l'ouvrage [[La Poétique de l'espace]], publié en 1957 ?
+
+"[[L'esprit scientifique se constitue comme un ensemble d'erreurs rectifiées]]" : à quel philosophe comptant parmi les fondateurs de la nouvelle épistémologie française doit-on cette citation ?
 
 Quel auteur français a exploré la notion de [[rupture épistémologique]] dans son œuvre, influençant les études en philosophie des sciences au début du [[XXe siècle]] ? <!-- score: 4 -->
 

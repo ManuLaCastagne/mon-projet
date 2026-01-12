@@ -1,22 +1,23 @@
 ---
-tags: 
+tags:
   - Littérature
   - France
   - Années_1670
   - XVIIe
+  - Certifié
 debut: 1670
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Molière
-indice_2 : 
+indice_2:
   - Monsieur Jourdain
-indice_3 : 
+indice_3:
   - Comédie-ballet
-indice_4 : 
+indice_4:
   - 1670
-indice_5 : 
+indice_5:
   - Noblesse
-indice_6 : 
+indice_6:
   - Musique de Lully
 ---
 
@@ -25,9 +26,9 @@ indice_6 :
 
 ###### Questions
 
-Quelle œuvre de [[Molière]], jouée pour la première fois en [[1670]], dépeint un homme de la classe moyenne cherchant à s'élever socialement en apprenant les manières de la noblesse?
+Quelle œuvre de [[Molière]], jouée pour la première fois en [[1670]], dépeint un homme de la classe moyenne cherchant à s'élever socialement en apprenant les manières de la noblesse ?
 
-Quel titre de comédie-ballet met en scène le personnage de [[Monsieur Jourdain]], et a été commandée par [[Louis XIV]] pour être jouée devant sa cour?
+Quel titre de comédie-ballet met en scène le personnage de [[Monsieur Jourdain]], et a été commandée par [[Louis XIV]] pour être jouée devant sa cour ?
 
 Dans quelle pièce, une collaboration entre [[Molière]] et le compositeur [[Jean-Baptiste Lully]], peut-on retrouver des éléments de danse et de musique intégrés à la comédie, inspirée du contexte culturel de la fin du [[XVIIe siècle]]? <!-- score: 3 -->
 
