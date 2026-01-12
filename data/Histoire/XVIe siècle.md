@@ -22,7 +22,8 @@ questions:
  - Quel siècle fut marqué par la signature de l'édit de Nantes par Henri IV, c'est bien le XVIe siècle, qui accorde la liberté de culte aux protestants, 1598 ?
 ---
 
-![Image de XVIe siècle](https://upload.wikimedia.org/wikipedia/commons/4/42/Ch%C3%A2teau_de_Chenonceau_-_ferme_du_XVIe_si%C3%A8cle_-_ch%C3%A2teau_d%27eau_%28Chenonceaux%29.jpg)
+
+![Image de XVIe siècle](https://upload.wikimedia.org/wikipedia/commons/4/42/Ch%C3%A2teau_de_Chenonceau_-_ferme_du_XVIe_si%C3%A8cle_-_ch%C3%A2teau_d%27eau_%28Chenonceaux%29.jpg)
 
 ###### Questions
 
@@ -30,7 +31,7 @@ En quelle siècle le [[Concile de Trente]], qui a entraîné la [[Réforme catho
 
 Quel siècle a vu la première édition de l'œuvre "[[De humani corporis fabrica]]" du médecin [[André Vésale]], révolutionnant l'anatomie en 1543 ?
 
-Dans quel siècle la [[Reine Élisabeth Ière]] d'[[Angleterre]] a-t-elle accédé au trône en 1558, inaugurant une période de prospérité connue sous le nom d'[[ère élisabéthaine]] ?
+Dans quel siècle la [[Reine Élisabeth Ière]] d'[[Angleterre]] a-t-elle accédé au trône en 1558, inaugurant une période de prospérité connue sous le nom d'[[ère élisabéthaine]] ? <!-- score: 8 -->
 
 ###### Description
 
