@@ -24,16 +24,9 @@ questions:
  - 86. Titre d'Etienne Daho...
 ---
 
-
 ![Image de Epaule tattoo](https://upload.wikimedia.org/wikipedia/commons/4/41/Manutattoo4.jpg)
 
 ###### Questions
-
-Dans quel album de [[Florent Pagny]], sorti en 2003, trouve-t-on la chanson [[Épaule Tattoo]] ?
-
-Quelle chanson interprétée par [[Florent Pagny]] est un extrait de l'album "Ailleurs Land" paru en 2003 ?
-
-Quel titre de [[Florent Pagny]] sorti en single en 2003 fait référence à un tatouage sur une partie du corps ? <!-- score: 5 -->
 
 ###### Description
 
