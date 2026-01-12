@@ -25,6 +25,7 @@ questions:
 ---
 
 
+
 ![Image de Anne-Sophie Mutter](https://upload.wikimedia.org/wikipedia/commons/0/0b/Anne-Sophie_Mutter_B10-13_%28cropped%29.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel prodige allemande du violon a commencé sa carrière internationale à l'â
 
 Quelle violoniste a été désignée pour la première fois comme responsable d'une classe principale de violon à l'Académie de Musique d'Automne de [[Salzbourg]] en 1987 ? <!-- score: 3 -->
 
-Quelle musicienne renommée a créé en 2008 la [[Fondation Anne-Sophie Mutter]], dédiée à la promotion de jeunes artistes talentueux ?
+Quelle musicienne renommée a créé en 2008 la [[Fondation Anne-Sophie Mutter]], dédiée à la promotion de jeunes artistes talentueux ? <!-- score: 5 -->
 ###### Description
 
 [[Anne-Sophie Mutter]] est une violoniste allemande de renommée mondiale, née le 29 juin 1963 à [[Rheinfelden]], en Allemagne. 
