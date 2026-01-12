@@ -24,11 +24,12 @@ questions:
  - Dans les années 60, quel groupe vocal Diana Ross a-t-elle formé avec notamment Mary Wilson, disparue en février dernier ?
 ---
 
+
 ![Image de The Supremes](https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Supremes_1966.JPG)
 
 ###### Questions
 
-Quel célèbre groupe féminin fondé en 1959 à [[Detroit]] a popularisé la chanson « [[Where Did Our Love Go]] » en 1964?
+Quel célèbre groupe féminin fondé en 1959 à [[Detroit]] a popularisé la chanson « [[Where Did Our Love Go]] » en 1964? <!-- score: 4 -->
 
 Quel groupe a été le fer de lance du label [[Motown]] dans les années 1960, classant douze de ses singles numéro un au [[Billboard Hot 100]], dont le premier en 1964?
 
