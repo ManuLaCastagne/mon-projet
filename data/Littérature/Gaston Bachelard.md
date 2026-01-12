@@ -24,13 +24,14 @@ questions:
  - L'esprit scientifique se constitue comme un ensemble d'erreurs rectifiées. A quel philosophe comptant parmi les fondateurs de la nouvelle épistémologie française...
 ---
 
+
 ![Image de Gaston Bachelard](https://upload.wikimedia.org/wikipedia/commons/1/1d/Gaston_Bachelard.jpg)
 
 ###### Questions
 
 Quel philosophe des sciences a écrit sur l'imaginaire poétique dans l'ouvrage [[La Poétique de l'espace]], publié en 1957 ?
 
-Quel auteur français a exploré la notion de [[rupture épistémologique]] dans son œuvre, influençant les études en philosophie des sciences au début du [[XXe siècle]] ?
+Quel auteur français a exploré la notion de [[rupture épistémologique]] dans son œuvre, influençant les études en philosophie des sciences au début du [[XXe siècle]] ? <!-- score: 4 -->
 
 Qui a développé une méthode critique appelée [[phénoménotechnique]], cherchant à concilier les sciences et la philosophie, particulièrement dans son livre [[Le Nouvel Esprit scientifique]] de 1934 ?
 
