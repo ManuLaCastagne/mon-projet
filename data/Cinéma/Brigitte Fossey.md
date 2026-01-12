@@ -20,11 +20,12 @@ indice_6 :
   - Actrice
 ---
 
+
 ![Image de Brigitte Fossey](https://upload.wikimedia.org/wikipedia/commons/8/8e/Brigitte_Fossey_C%C3%A9sars.jpg)
 
 ###### Questions
 
-Quel enfant-acteur a joué dans le film de guerre français «[[Jeux interdits]]» réalisé par [[René Clément]] en [[1952]] ?
+Quel enfant-acteur a joué dans le film de guerre français «[[Jeux interdits]]» réalisé par [[René Clément]] en [[1952]] ? <!-- score: 3 -->
 
 Quelle actrice française a pris part au film «[[La Boum]]» réalisé par [[Claude Pinoteau]] en [[1980]], incarnant le rôle de la mère de [[Sophie Marceau]] ?
 
