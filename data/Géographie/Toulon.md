@@ -26,18 +26,16 @@ questions:
  - Quel club de rugby français a placé sur son écusson un brin de muguet en l'honneur de Félix Mayol ?
 ---
 
-
 ![Image de Toulon](https://upload.wikimedia.org/wikipedia/commons/a/ab/PlaceLiberteToulon.jpg)
 
 ![[Carte_Toulon.png]]
 ###### Questions
 
-[[Quelle ville française située sur la côte méditerranéenne abrite la base navale principale de la [[Marine nationale]] depuis 1774 ?]]
+Quelle ville française située sur la côte méditerranéenne abrite la base navale principale de la [[Marine nationale]] depuis 1774 ? <!-- score: 5 -->
 
-[[Quelle ville située dans la région [[Provence-Alpes-Côte d'Azur]] est reliée par [[autoroute A50]] à [[Marseille]] et joue un rôle clé dans la connexion entre la France et les îles de [[Corse]] ?]] <!-- score: 4 -->
+Quelle ville située dans la région [[Provence-Alpes-Côte d'Azur]] est reliée par [[autoroute A50]] à [[Marseille]] et joue un rôle clé dans la connexion entre la France et les îles de [[Corse]] ? <!-- score: 4 -->
 
-[[Dans quelle ville a été construite la célèbre [[Tour Royale]] au début du [[16ème siècle]], un édifice militaire destiné à protéger son port ?]]
-
+Dans quelle ville a été construite la célèbre [[Tour Royale]] au début du [[16ème siècle]], un édifice militaire destiné à protéger son port ? <!-- score: 5 -->
 ###### Description
 
 [[Toulon]] est une ville située sur la côte méditerranéenne dans le département du [[Var]], au sud-est de [[la France]], réputée pour son port militaire qui est le premier port militaire français. 
