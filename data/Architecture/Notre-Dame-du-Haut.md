@@ -25,11 +25,12 @@ questions:
  - En 1955, quelle chapelle du Corbusier est achevée au sommet de Ronchamp en Haute-Saône ?
 ---
 
+
 ![Image de Notre-Dame-du-Haut](https://upload.wikimedia.org/wikipedia/commons/4/42/Notre_Dame_Paris_front_facade_lower.jpg)
 
 ###### Questions
 
-Quel édifice, conçu par [[Le Corbusier]] et inauguré en 1955, est considéré comme une œuvre phare de l'architecture moderne religieuse en France, situé à [[Ronchamp]] ?
+Quel édifice, conçu par [[Le Corbusier]] et inauguré en 1955, est considéré comme une œuvre phare de l'architecture moderne religieuse en France, situé à [[Ronchamp]] ? <!-- score: 4 -->
 
 Quel monument religieux a été inscrit en 2016 au [[patrimoine mondial de l'UNESCO]] comme une partie des œuvres architecturales de [[Le Corbusier]] ?
 
