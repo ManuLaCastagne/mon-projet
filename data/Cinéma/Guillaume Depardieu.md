@@ -24,6 +24,7 @@ questions:
  - Après deux nominations infructueuses, quel acteur a été récompensé en 1996 pour sa prestation dans "Les Apprentis" ?
 ---
 
+
 ![Image de Guillaume Depardieu](https://upload.wikimedia.org/wikipedia/commons/b/b5/DEPARDIEU_Guillaume-24x30-2005b.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel acteur français, fils de [[Gérard Depardieu]], a remporté un César pour
 
 Quel membre de la célèbre famille [[Depardieu]] a subi une amputation de la jambe droite en 2003, ayant comme conséquence un arrêt temporaire de sa carrière cinématographique ?
 
-Quel comédien, ayant joué dans le film "[[Pola X]]" en 1999, a eu une vie personnelle marquée par des problèmes de santé et un décès prématuré en 2008 ?
+Quel comédien, ayant joué dans le film "[[Pola X]]" en 1999, a eu une vie personnelle marquée par des problèmes de santé et un décès prématuré en 2008 ? <!-- score: 4 -->
 
 ###### Description
 
