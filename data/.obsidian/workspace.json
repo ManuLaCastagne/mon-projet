@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sport/Aloïs Lutz.md",
+                "file": "Musique/Ziggy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aloïs Lutz"
+              "title": "Ziggy"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sport/Aloïs Lutz.md",
+                "file": "Musique/Ziggy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Aloïs Lutz"
+              "title": "Graphique de Ziggy"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,10 +357,13 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Mythologie/Juventus.md",
+    "Religion/Saint-Paul.md",
+    "Géographie/La Réunion.md",
     "Sciences/Photovoltaïque.md",
+    "Sport/Aloïs Lutz.md",
     "Sport/Roger Milla.md",
     "Sport/Toronto.md",
-    "Sport/Aloïs Lutz.md",
     "Sport/Charlie Dalin.md",
     "Sport/Jim Thorpe.md",
     "Sport/Toronto Raptors.md",
@@ -380,9 +383,6 @@
     "Vocabulaire/Hôte.md",
     "Cinéma/Emilia Perez.md",
     "Une affaire de famille.md",
-    "Cinéma/L'Amour Ouf.md",
-    "Anatomie/Artère iliaque.md",
-    "Anatomie/Secret professionnel.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
