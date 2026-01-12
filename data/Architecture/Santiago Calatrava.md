@@ -21,11 +21,12 @@ indice_6:
 ---
 
 
+
 ![Image de Calatrava](https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Calatrava%2C_Romblon.png)
 
 ###### Questions
 
-A quel architecte espagnol doit-on le building appelé Turning Torso à [[Malmö]] en [[Suède]] et la [[gare de Lyon-Saint-Exupéry]] en France ?
+A quel architecte espagnol doit-on le building appelé Turning Torso à [[Malmö]] en [[Suède]] et la [[gare de Lyon-Saint-Exupéry]] en France ? <!-- score: 4 -->
 
 Quel architecte a conçu le bâtiment emblématique surnommé le [[Pont de l'Europe]] à [[Orléans]], inauguré en 2000 ?
 
