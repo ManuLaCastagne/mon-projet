@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Le Soliste](https://upload.wikimedia.org/wikipedia/commons/2/2b/Solenne_Pa%C3%AFdassi_en_soliste_avec_le_Sinfonia_Varsovia.jpg)
 
 ###### Questions
 
 Dans quel film de 2009, [[Robert Downey Jr.]] joue-t-il le rôle d'un journaliste qui découvre le talent musical d'un sans-abri violoncelliste? <!-- score: 4 -->
 
-Quel long métrage basé sur une histoire vraie explore la relation entre [[Steve Lopez]] et un musicien vivant dans la rue à [[Los Angeles]]?
+Quel long métrage basé sur une histoire vraie explore la relation entre [[Steve Lopez]] et un musicien vivant dans la rue à [[Los Angeles]]? <!-- score: 4 -->
 
 Dans quelle œuvre cinématographique le personnage incarné par [[Jamie Foxx]] est-il inspiré par la vie de [[Nathaniel Ayers]], un musicien afro-américain souffrant de [[schizophrénie]]?
 
