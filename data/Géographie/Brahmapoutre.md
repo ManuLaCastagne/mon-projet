@@ -24,13 +24,14 @@ questions:
  - Fleuve d'Asie long de 2 900km, je prends ma source au nord de l'Himalaya près du mont Kailash à environ 5 300m d'altitude. Fleuve puissant aux crues fertiles mais dévastatrices, je traverse le Tibet puis l'Inde, où j'arrose la vallée de l'Assam avant d'atteindre le Bangladesh...
 ---
 
+
 ![Image de Brahmapoutre](https://upload.wikimedia.org/wikipedia/commons/f/f8/Brahmapoutre.png)
 
 ###### Questions
 
 Quel est le fleuve qui prend sa source dans le [[Tibet]] vers 6200 m en [[Himalaya]] et traverse l'[[Inde]] et le [[Bangladesh]] avant de se jeter dans le golfe du [[Bengale]] ?
 
-Quel est le nom du fleuve qui a vu une montée spectaculaire de son niveau en 2019, causant de grandes inondations en [[Assam]], touchant près de 5 millions de personnes ?
+Quel est le nom du fleuve qui a vu une montée spectaculaire de son niveau en 2019, causant de grandes inondations en [[Assam]], touchant près de 5 millions de personnes ? <!-- score: 3 -->
 
 Quel fleuve, d'une longueur d'environ 2 900 kilomètres, est reconnu pour sa confluence avec le [[Gange]], formant le plus vaste delta fluvial au monde, le [[Sundarbans]] ?
 
