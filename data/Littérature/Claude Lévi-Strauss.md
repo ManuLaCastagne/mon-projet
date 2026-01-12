@@ -25,17 +25,13 @@ questions:
  - Quel anthropologue, auteur de "Tristes Tropiques", s'est éteint en 2009 à l'âge de 100 ans?
 ---
 
-
 ![Image de Claude Lévi-Strauss](https://upload.wikimedia.org/wikipedia/commons/7/78/Claude_L%C3%A9vi-Strauss_%281973%29.jpg)
 
 ###### Questions
 
-En quelle année [[Claude Lévi-Strauss]] a-t-il publié son ouvrage emblématique intitulé "[[Tristes Tropiques]]" qui explore les rites et cultures des [[peuples autochtones d'Amazonie]] ? <!-- score: 5 -->
-
 Quel anthropologue et philosophe, nommé à la chaire d'[[anthropologie sociale]] au [[Collège de France]] en 1959, a été l'un des fondateurs du [[structuralisme]] en sciences sociales ?
 
 Quelle figure éminente du XXe siècle, célèbre pour sa réflexion sur la mythologie et ayant dirigé les publications de la collection [[Bibliothèque de la Pléiade]] dès 1973, est souvent reconnu comme l'un des pionniers de l'anthropologie moderne ?
-
 ###### Description
 
 [[Claude Lévi-Strauss]] est un anthropologue et ethnologue français, né le 28 novembre 1908 à [[Bruxelles]] et décédé le 30 octobre 2009 à [[Paris]]. 
