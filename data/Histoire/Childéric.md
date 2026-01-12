@@ -22,7 +22,8 @@ questions:
  - Les Wisigoths aux côtés des armées romaines en Gaule (pays). Fils présumé du roi Mérovée, je séduis la femme du roi de Thuringe dont j'ai un fils, Clovis.
 ---
 
-![Image de Childéric](https://upload.wikimedia.org/wikipedia/commons/3/36/Childeric_tomb_1.jpg)
+
+![Image de Childéric](https://upload.wikimedia.org/wikipedia/commons/3/36/Childeric_tomb_1.jpg)
 
 ###### Questions
 
@@ -30,7 +31,7 @@ Quel roi mérovingien, père de [[Clovis Ier]], a régné sur les Francs saliens
 
 Quel souverain franc a eu sa tombe découverte en 1653 à [[Tournai]], révélant des trésors tels qu'une bague en or, des armes, et une abeille d'or symbolisant sa royauté ?
 
-Quel personnage historique dont les attributs ont inspiré le choix de l'abeille comme symbole impérial par [[Napoléon Bonaparte]] a été le père de [[Clovis Ier]] et a régné jusqu'en 481 ?
+Quel personnage historique dont les attributs ont inspiré le choix de l'abeille comme symbole impérial par [[Napoléon Bonaparte]] a été le père de [[Clovis Ier]] et a régné jusqu'en 481 ? <!-- score: 4 -->
 
 ###### Description
 
