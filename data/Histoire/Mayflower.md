@@ -22,6 +22,7 @@ questions:
  - Navire marchand de 180 tonneaux  commandé par le maître d'équipage Christopher Jones. J'ai récupéré les passagers du Speedwell, contraint d'abandonner son voyage. Ayant quitté Plymouth avec 102 passagers à bord, j'ai traversé l'Atlantique et atteint l'Amérique...
 ---
 
+
 ![Image de Mayflower](https://upload.wikimedia.org/wikipedia/commons/7/71/Mortagne-sur-Gironde_Civellier_Mayflowers_2013.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel était le nom du navire qui a transporté les [[Pères pèlerins]] vers le 
 
 Quel navire emblématique a signé le début de la colonisation anglaise en [[Amérique du Nord]] en novembre [[1620]] ?
 
-Quel navire a donné son nom à un pacte historique signé à bord par les colons, connu sous le nom de [[Compact du Mayflower]], en [[1620]] ?
+Quel navire a donné son nom à un pacte historique signé à bord par les colons, connu sous le nom de [[Compact du Mayflower]], en [[1620]] ? <!-- score: 5 -->
 
 ###### Description
 
