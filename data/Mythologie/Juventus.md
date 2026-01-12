@@ -20,11 +20,12 @@ questions:
  - Dans la Rome antique, quelle déesse allégorique de la jeunesse patronait l'entrée des adolescents dans le monde des adultes ?
 ---
 
+
 ![Image de Juventus](https://upload.wikimedia.org/wikipedia/commons/f/f8/Juventus_Football_Club_1962-1963.jpg)
 
 ###### Questions
 
-Quel club de football, partageant son nom avec le dieu romain [[Juventus]] symbolisant la jeunesse, a été fondé en 1897 à [[Turin]] ?
+Quel club de football, partageant son nom avec le dieu romain [[Juventus]] symbolisant la jeunesse, a été fondé en 1897 à [[Turin]] ? <!-- score: 8 -->
 
 Quel est le nom de la déesse romaine de la [[jeunesse]], également associé à un club de football italien bien connu fondé à la fin du XIXe siècle ?
 
