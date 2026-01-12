@@ -24,13 +24,14 @@ questions:
  - En 2004, dans quel film de Sofia Coppola un homme et une femme se rencontrent-ils dans un hôtel de Tokyo ?
 ---
 
+
 ![Image de Lost In Translation](https://upload.wikimedia.org/wikipedia/commons/e/e9/Lost_in_Translation_Theater_Count.png)
 
 ###### Questions
 
 Dans quel film de [[Sofia Coppola]], sorti en 2003, peut-on voir [[Bill Murray]] et [[Scarlett Johansson]] explorer la solitude et l'émerveillement à [[Tokyo]] ?
 
-Quel film a valu à [[Sofia Coppola]] le [[Golden Globe]] de la meilleure réalisation en 2004, une première pour une femme depuis 1983 ?
+Quel film a valu à [[Sofia Coppola]] le [[Golden Globe]] de la meilleure réalisation en 2004, une première pour une femme depuis 1983 ? <!-- score: 6 -->
 
 Dans quel film, la chanson "[[Just Like Honey]]" du groupe [[The Jesus and Mary Chain]] accompagne-t-elle une scène de départ inoubliable ?
 
