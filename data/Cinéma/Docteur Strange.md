@@ -3,23 +3,24 @@ tags:
   - États-Unis
   - film
   - super-héros
+  - Certifié
 debut: 2016
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Benedict Cumberbatch
-indice_2 : 
+indice_2:
   - arts mystiques
-indice_3 : 
+indice_3:
   - Mordo
-indice_4 : 
+indice_4:
   - multivers
-indice_5 : 
+indice_5:
   - sanctum sanctorum
-indice_6 : 
+indice_6:
   - Cape de lévitation
 ---
 
-![Image de Docteur Strange]()
+![Image de Docteur Strange](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Docteur_strange_%28cropped%29.jpg/1280px-Docteur_strange_%28cropped%29.jpg)
 
 ###### Questions
 
@@ -27,7 +28,7 @@ Quel personnage incarné par Benedict Cumberbatch a fait ses débuts dans l'univ
 
 Quel film réalisé par [[Sam Raimi]] en 2022 explore les dimensions parallèles d'un univers connecté mettant en scène des super-héros ?
 
-Dans quel long métrage de super-héros de 2016 peut-on voir l'acteur [[Mads Mikkelsen]] interpréter un antagoniste confrontant un maître des arts mystiques ?
+Dans quel long métrage de super-héros de 2016 peut-on voir l'acteur [[Mads Mikkelsen]] interpréter un antagoniste confrontant un maître des arts mystiques dans le rôle de [[Kaecilius]] ?
 
 ###### Description
 

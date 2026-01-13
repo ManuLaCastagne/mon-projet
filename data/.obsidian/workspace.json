@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Benedict Cumberbatch.md",
+                "file": "Cinéma/Steve Buscemi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Benedict Cumberbatch"
+              "title": "Steve Buscemi"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Benedict Cumberbatch.md",
+                "file": "Cinéma/Steve Buscemi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Benedict Cumberbatch"
+              "title": "Graphique de Steve Buscemi"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,8 +357,13 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Sciences/Alan Turing.md",
+    "Cinéma/Yann Arthus-Bertrand.md",
+    "Cinéma/Le Vieux Fusil.md",
+    "Cinéma/La Vie d'Adèle.md",
+    "Cinéma/Chiara Mastroianni.md",
+    "Cinéma/Docteur Strange.md",
     "Cinéma/Benedict Cumberbatch.md",
+    "Sciences/Alan Turing.md",
     "Cinéma/La Guerre des Rose.md",
     "Pasted image 20260113162521.png",
     "Cinéma/Sydney Sweeney.md",
@@ -377,13 +382,8 @@
     "Littérature/La Coupe et les Lèvres.md",
     "Littérature/Le Grand Meaulnes.md",
     "Cinéma/Brigitte Fossey.md",
-    "Cinéma/Chiara Mastroianni.md",
     "Cinéma/Charlotte Gainsbourg.md",
     "Géographie/La Ciotat.md",
-    "Cinéma/Laurent Cantet.md",
-    "Cinéma/Beatrice Borromeo.md",
-    "Cinéma/Willow.md",
-    "Cinéma/Pride & Prejudice.md",
     "Pasted image 20260113152804.png",
     "Pasted image 20260113152243.png",
     "Frises/Base de données n°1.base",
