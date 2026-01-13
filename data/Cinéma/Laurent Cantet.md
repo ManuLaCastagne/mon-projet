@@ -34,7 +34,7 @@ En 2008, quel réalisateur reçoit la Palme d'or à Cannes pour son film "Entre 
 
 Quel réalisateur a signé le film [[Ressources humaines]], sorti en 1999, qui explore la relation complexe entre un père ouvrier et son fils devenu stagiaire dans une usine ?  
 
-Qui est le réalisateur de [[L'Atelier]], un film sorti en 2017 qui aborde des thèmes de dialogue social et de radicalisation dans la région de [[Géographie/La Ciotat]] ?
+Qui est le réalisateur de [[L'Atelier]], un film sorti en 2017 qui aborde des thèmes de dialogue social et de radicalisation dans la région de [[La Ciotat]] ?
 
 ###### Description
 

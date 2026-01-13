@@ -1,27 +1,26 @@
 ---
-tags: 
+tags:
   - Cinéma
   - France
   - Années_1990
   - XXe
+  - Certifié
 date:
   - 1972/05/28
 debut: 1972
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Persepolis
-indice_2 : 
+indice_2:
   - César de la meilleure actrice
-indice_3 : 
+indice_3:
   - Fille de Catherine Deneuve et Marcello Mastroianni
-indice_4 : 
+indice_4:
   - L'Arbre
-indice_5 : 
+indice_5:
   - le maire et la médiathèque
-indice_6 : 
+indice_6:
   - Les Bien-Aimés
-questions:
- - Comédienne née en 1972, j'ai la particularité d'avoir joué aux côtés de ma mère en 1979, puis de mon père en 1987.
 ---
 
 ![Image de Chiara Mastroianni](https://upload.wikimedia.org/wikipedia/commons/3/38/Chiara_Mastroianni_Cannes_2011.jpg)
@@ -29,6 +28,8 @@ questions:
 ###### Questions
 
 Quelle actrice, fille de [[Catherine Deneuve]] et [[Marcello Mastroianni]], a débuté dans le cinéma avec le film [[Ma saison préférée]] en 1993 ?
+
+Quelle comédienne a travaillé à plusieurs reprises avec le réalisateur Christophe Honoré notamment dans "[[Les Bien-Aimés]]" film musical sorti en 2011 ?
 ###### Description
 
 [[Chiara Mastroianni]], actrice franco-italienne née en 1972, est la fille des célèbres acteurs [[Catherine Deneuve]] et [[Marcello Mastroianni]]. 

@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Italie
   - Années_2010
@@ -7,19 +7,18 @@ tags:
 date:
   - 1985/08/18
 debut: 1985
-deces: 
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - aristocratie italienne
-indice_2 : 
+indice_2:
   - épouse de Pierre Casiraghi
-indice_3 : 
+indice_3:
   - membre de la famille princière de Monaco
-indice_4 : 
+indice_4:
   - carrière de journaliste et documentariste
-indice_5 : 
+indice_5:
   - née à San Candido en 1985
-indice_6 : 
+indice_6:
   - mannequinat et mode
 ---
 

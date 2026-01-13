@@ -35,7 +35,7 @@ Qui a fait ses débuts au cinéma à l'âge de cinq ans et a reçu un prix d'int
 
 [[Brigitte Fossey]] est née à [[Tourcoing]], dans le nord de la France, en 1946, et elle a commencé sa carrière très jeune dans le film iconique "Jeux interdits" en 1952, alors qu'elle avait seulement 6 ans. 
 
-Après une pause pour ses études, elle est revenue sur le devant de la scène en devenant l'une des figures marquantes du cinéma français dans les années 1970 et 1980, notamment grâce à des rôles dans des films comme "La Boum" et "Le Grand Meaulnes". 
+Après une pause pour ses études, elle est revenue sur le devant de la scène en devenant l'une des figures marquantes du cinéma français dans les années 1970 et 1980, notamment grâce à des rôles dans des films comme "La Boum" et "[[Le Grand Meaulnes]]". 
 
 Fait peu connu, [[Brigitte Fossey]] a été l'une des rares actrices françaises à avoir remporté un prix au prestigieux Festival international du film de Moscou en 1977 pour son rôle dans le film "Les Enfants du placard". 
 

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Joe Wright.md",
+                "file": "Littérature/Le Grand Meaulnes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Joe Wright"
+              "title": "Le Grand Meaulnes"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Joe Wright.md",
+                "file": "Littérature/Le Grand Meaulnes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Joe Wright"
+              "title": "Graphique de Le Grand Meaulnes"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,8 +357,17 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Cinéma/Le Soliste.md",
+    "Cinéma/Brigitte Fossey.md",
+    "Littérature/Le Grand Meaulnes.md",
+    "Cinéma/Chiara Mastroianni.md",
+    "Cinéma/Charlotte Gainsbourg.md",
+    "Géographie/La Ciotat.md",
+    "Cinéma/Laurent Cantet.md",
+    "Cinéma/Beatrice Borromeo.md",
+    "Cinéma/Willow.md",
+    "Cinéma/Pride & Prejudice.md",
     "Cinéma/Joe Wright.md",
+    "Cinéma/Le Soliste.md",
     "Pasted image 20260113152804.png",
     "Cinéma/Mia Farrow.md",
     "Cinéma/Alice.md",
@@ -366,9 +375,7 @@
     "Gastronomie/Charlotte.md",
     "Pasted.md",
     "Pasted image 20260113152243.png",
-    "Cinéma/Beatrice Borromeo.md",
     "Cinéma/Naomi Watts.md",
-    "Cinéma/Chiara Mastroianni.md",
     "Culture générale/Ô nombre d'élégance ! Toi, toi, grandiose, étonnant !.md",
     "Histoire/Baron rouge.md",
     "Sciences/Fokker Dr.I.md",
@@ -378,13 +385,6 @@
     "Cinéma/La Femme de ménage voit tout.md",
     "Cinéma/Paul Feig.md",
     "Cinéma/Sydney Sweeney.md",
-    "Littérature/Freida McFadden.md",
-    "Littérature/Cormac McCarthy.md",
-    "Littérature/Gaston Bachelard.md",
-    "Littérature/L'Adieu aux Armes.md",
-    "Géographie/lac Majeur.md",
-    "Littérature/Le Bourgeois gentilhomme.md",
-    "Littérature/Terre des Hommes (roman).md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
