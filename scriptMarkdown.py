@@ -131,18 +131,24 @@ N’utilise aucune liste, aucune puce, aucun commentaire hors des quatre phrases
 prompt_questions = """
 Génère 3 questions distinctes de culture générale dont la réponse est “NOM_FICHE” (catégorie : NOM_CATEGORY).
 
-Ne jamais mentionner NOM_FICHE, ni variante, prénom, nom, surnom, titre, fonction ou indice d’identification directe.
+Ne jamais mentionner NOM_FICHE, ni variante, prénom, nom, surnom, titre officiel, fonction ou indice permettant une identification directe.
 
-Questions indirectes, style jeu télévisé français, basées sur faits précis, datés, vérifiés et actuels (années exactes, chiffres exacts).
+Les questions doivent être indirectes, dans le style des jeux télévisés français, fondées sur des faits précis, datés et vérifiés (années exactes, chiffres exacts, événements identifiables).
+
+Exemples de formulation attendue (à imiter, sans les reprendre) :
+	•	Quel chef d’État européen est à l’origine de la réforme monétaire ayant instauré le [[franc lourd]] en [[1960]], après l’obtention des pleins pouvoirs financiers dans le contexte de la [[Ve République]] ?
+	•	Quel homme politique français, survivant de deux guerres mondiales, est décédé en [[1994]] à [[Saint-Chamond]] après avoir détenu un record de longévité parmi les anciens dirigeants nationaux ?
+	•	Quelle personnalité politique a fait diviser par cent la valeur faciale de la monnaie nationale lors d’une stabilisation économique consécutive à la [[Seconde Guerre mondiale]] ?
 
 Contraintes obligatoires :
-	•	pas de numérotation
-	•	1 ligne par question
+	•	aucune numérotation
+	•	une question par ligne
 	•	aucun texte hors questions
 
-Tous les noms propres, lieux, événements, concepts, œuvres, institutions doivent être entre [[ ]] (compatibles [[Obsidian]]).
+Tous les noms propres, lieux, événements, concepts, œuvres ou institutions doivent être entourés de [[ ]] (compatibles [[Obsidian]]).
 
-Si un fait est obsolète, incertain ou contestable, le remplacer.
+Les faits doivent être exacts à la date actuelle.
+Tout fait obsolète, incertain ou contestable doit être remplacé.
 """
 
 prompt_questions_vocabulaire = """
