@@ -1,34 +1,33 @@
 ---
-tags: 
+tags:
   - Littérature
-  - François_Mauriac
   - France
   - Années_1830
 date:
   - 1833/05/15
 debut: 1833
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Musset
-indice_2 : 
+indice_2:
   - dramatique
-indice_3 : 
+indice_3:
   - Coelio
-indice_4 : 
+indice_4:
   - Séraphine
-indice_5 : 
+indice_5:
   - Napolitain
-indice_6 : 
+indice_6:
   - 1833
-questions:
- - A la fin de quelle pièce de Musset Octave dit-il "je ne vous aime pas,  "Marianne"...
 ---
 
 ![Image de Les Caprices de Marianne](https://upload.wikimedia.org/wikipedia/commons/9/9c/La_nuit_venitienne%2C_Fantasio%2C_Les_caprices_de_Marianne_-_Umberto_Brunelleschi_-_KW_KOOPM_K_42_-_Front.jpg)
 
 ###### Questions
 
-Quelle œuvre de [[Alfred de Musset]], publiée en 1833, est une pièce de théâtre en deux actes qui explore les thèmes de l'amour et de l'honneur à travers les personnages de [[Cœlio]], [[Octave (empereur)]], et [[Marianne (journal)]] ?
+Quelle œuvre de [[Alfred de Musset]], publiée en 1833, est une pièce de théâtre en deux actes qui explore les thèmes de l'amour et de l'honneur à travers les personnages de [[Cœlio]], [[Octave (empereur)]], et [[Marianne]] ?
+
+A la fin de quelle pièce de Musset Octave dit-il "je ne vous aime pas, "Marianne"...
 
 Quelle pièce de [[Alfred de Musset]], écrite en 1833, met en scène un amour tragique où le personnage de [[Cœlio]] est amoureux de [[Marianne (journal)]], une femme mariée, et sollicite l'aide de son ami [[Octave (empereur)]] ?
 
