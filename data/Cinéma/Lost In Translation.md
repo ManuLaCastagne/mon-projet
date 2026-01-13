@@ -4,6 +4,7 @@ tags:
   - Tokyo
   - Années_2000
   - XXIe
+  - Certifié
 debut: 2004
 fin:
 indice_1:
@@ -20,9 +21,7 @@ indice_6:
   - expatriés américains
 ---
 
-
-![Image de Lost In Translation](https://upload.wikimedia.org/wikipedia/commons/e/e9/Lost_in_Translation_Theater_Count.png)
-
+![[Pasted image 20260113152243.png]]
 ###### Questions
 
 Dans quel film de [[Sofia Coppola]], sorti en 2004 en France, peut-on voir [[Bill Murray]] et [[Scarlett Johansson]] explorer la solitude et l'émerveillement à [[Tokyo]] ?
@@ -35,6 +34,6 @@ Dans quel film, la chanson "[[Just Like Honey]]" du groupe [[The Jesus and Mary 
 
 [[Lost In Translation]] est un film dramatique américano-japonais réalisé par [[Sofia Coppola]], sorti en 2003. 
 
-L'histoire suit [[Bob Harris]], un acteur sur le déclin interprété par [[Bill Murray]], et [[Charlotte]], une jeune femme récemment diplômée incarnée par [[Scarlett Johansson]], alors qu'ils se rencontrent à [[Tokyo]] et développent un lien inattendu. 
+L'histoire suit [[Bob Harris]], un acteur sur le déclin interprété par [[Bill Murray]], et Charlotte, une jeune femme récemment diplômée incarnée par [[Scarlett Johansson]], alors qu'ils se rencontrent à [[Tokyo]] et développent un lien inattendu. 
 
 Le film explore des thèmes tels que l'isolement, la communication et le choc culturel, et a été tourné principalement dans l'hôtel [[Park Hyatt Tokyo]]. En 2004, le film a remporté l'Oscar du meilleur scénario original et a été acclamé par la critique pour sa sensibilité et sa profondeur émotionnelle.
