@@ -129,30 +129,20 @@ N’utilise aucune liste, aucune puce, aucun commentaire hors des quatre phrases
 """
 
 prompt_questions = """
-Je veux trois questions de culture générale portant sur trois faits surprenants distincts dont la réponse est “NOM_FICHE” (catégorie : NOM_CATEGORY).
+Génère 3 questions distinctes de culture générale dont la réponse est “NOM_FICHE” (catégorie : NOM_CATEGORY).
 
-Interdiction absolue d’inclure le nom NOM_FICHE, toute variante de ce nom, son prénom, son nom de famille, un surnom, un titre officiel, une fonction directement identifiable ou toute formulation permettant de déduire immédiatement la réponse.
+Ne jamais mentionner NOM_FICHE, ni variante, prénom, nom, surnom, titre, fonction ou indice d’identification directe.
 
-Les questions doivent être formulées de manière indirecte, sur le modèle des jeux télévisés français (description factuelle, événement précis, record, action datée, contexte historique clairement identifiable), et rester compréhensibles sans révéler l’identité recherchée.
+Questions indirectes, style jeu télévisé français, basées sur faits précis, datés, vérifiés et actuels (années exactes, chiffres exacts).
 
-Les trois questions doivent être différentes,
-Les trois questions ne doivent pas être numérotées,
-Fais un saut de ligne entre chaque question,
-Je ne veux aucun autre mot, phrase explicative, ponctuation hors question ou emoji en dehors des questions elles-mêmes.
+Contraintes obligatoires :
+	•	pas de numérotation
+	•	1 ligne par question
+	•	aucun texte hors questions
 
-Tous les noms propres, lieux, concepts historiques, événements, œuvres ou institutions mentionnés doivent être entourés de [[ ]] afin de favoriser les connexions dans [[Obsidian]].
+Tous les noms propres, lieux, événements, concepts, œuvres, institutions doivent être entre [[ ]] (compatibles [[Obsidian]]).
 
-Les informations utilisées doivent être exactes à la date actuelle.
-Si un fait est susceptible d’avoir changé avec l’actualité (fonction en cours, statut, classement, record récent, situation politique ou scientifique), utilise la version la plus récente connue.
-
-Si une information est devenue incorrecte, obsolète ou incertaine, ne génère pas la question et remplace-la par un autre fait vérifié.
-
-Donne des années exactes, des chiffres précis et des éléments factuels susceptibles d’être posés dans des quiz de jeux télévisés français.
-
-Privilégie les faits historiques, scientifiques, juridiques ou culturels solidement établis, ou les événements récents clairement datés.
-
-Avant de produire les questions, vérifie mentalement que chacune d’elles serait encore considérée comme correcte par un jury de jeu télévisé aujourd’hui.
-Toute question risquant d’être invalidée par un changement récent doit être reformulée ou remplacée.
+Si un fait est obsolète, incertain ou contestable, le remplacer.
 """
 
 prompt_questions_vocabulaire = """
