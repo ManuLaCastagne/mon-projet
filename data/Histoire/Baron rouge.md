@@ -4,7 +4,8 @@ tags:
   - Allemagne
   - Années_1910
   - XXe
-debut: 
+  - Certifié
+debut: 1892
 fin: 1918
 indice_1:
   - Manfred von Richthofen
@@ -21,7 +22,7 @@ indice_6:
 ---
 
 
-![Image de Baron rouge](https://upload.wikimedia.org/wikipedia/commons/7/77/Nirvana_Studios_%E2%80%A2_Custom_Circus%E2%80%A2_Le_Baron_Rouge_%28aka_Tiago_Borges%29_in_Bizarre_Chic.png)
+![Image de Baron rouge](https://upload.wikimedia.org/wikipedia/commons/1/11/Manfred_von_Richthofen.jpg)
 
 ###### Questions
 
@@ -29,9 +30,7 @@ Quel surnom, faisant référence à un ancien as de l'aviation, a-t-on donné à
 
 Comment surnommait-on le célèbre aviateur allemand [[Manfred von Richthofen]], qui a marqué l'histoire de l'aviation pendant la [[Première Guerre mondiale]] en accumulant un total de 80 victoires aériennes avant sa mort en 1918 ?
 
-Quel est le nom donné à l'avion de chasse [[Fokker Dr.I]] triplan utilisé par Manfred von Richthofen, qui est devenu emblématique grâce à sa couleur rouge distinctive et aux exploits aériens qui l'ont rendu célèbre ?
-
-Comment appelle-t-on le phénomène par lequel un pilote acquiert une renommée légendaire en raison des victoires successives et du statut d'as de l'aviation, phénomène illustré par [[Manfred von Richthofen]] pendant la période de 1916 à 1918 ?
+Qui a piloté le [[Fokker Dr.I]] pendant la [[Première Guerre mondiale]] ?
 
 ###### Description
 
