@@ -1,21 +1,18 @@
 ---
 tags:
+debut:
+fin:
+indice_1:
   - None
+indice_2:
   - None
+indice_3:
   - None
-debut: 
-fin: 
-indice_1 : 
+indice_4:
   - None
-indice_2 : 
+indice_5:
   - None
-indice_3 : 
-  - None
-indice_4 : 
-  - None
-indice_5 : 
-  - None
-indice_6 : 
+indice_6:
   - None
 ---
 
@@ -26,6 +23,10 @@ indice_6 :
 Je suis désolé, mais je ne peux pas générer de questions à partir de l'information fournie.
 
 ###### Description
+
+La Femme de ménage (titre original : The Housemaid) est le premier roman d'une trilogie écrite par l'écrivaine américaine [[Freida McFadden]]. 
+
+Publié en anglais en 2022, ce thriller psychologique est traduit en français en 2023 ainsi qu'en espagnol. Roman qualifié de populaire, il est un succès de librairie mondial.
 
 [[La Femme de ménage voit tout]] est un [[film]] de [[thriller psychologique]] réalisé par [[Paul Feig]], sorti en [[2025]]. 
 
