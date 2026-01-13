@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/La Guerre des Rose.md",
+                "file": "Cinéma/Benedict Cumberbatch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Guerre des Rose"
+              "title": "Benedict Cumberbatch"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/La Guerre des Rose.md",
+                "file": "Cinéma/Benedict Cumberbatch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de La Guerre des Rose"
+              "title": "Graphique de Benedict Cumberbatch"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,6 +357,9 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Sciences/Alan Turing.md",
+    "Cinéma/Benedict Cumberbatch.md",
+    "Cinéma/La Guerre des Rose.md",
     "Pasted image 20260113162521.png",
     "Cinéma/Sydney Sweeney.md",
     "Cinéma/Dossier 137.md",
@@ -381,8 +384,6 @@
     "Cinéma/Beatrice Borromeo.md",
     "Cinéma/Willow.md",
     "Cinéma/Pride & Prejudice.md",
-    "Cinéma/Joe Wright.md",
-    "Cinéma/Le Soliste.md",
     "Pasted image 20260113152804.png",
     "Pasted image 20260113152243.png",
     "Frises/Base de données n°1.base",

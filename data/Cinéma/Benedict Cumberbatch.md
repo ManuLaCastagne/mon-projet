@@ -1,25 +1,24 @@
 ---
 tags:
   - Royaume-Uni
-  - None
-  - None
+  - Certifié
 debut: 1976
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Détective anglais
-indice_2 : 
+indice_2:
   - Ville brumeuse
-indice_3 : 
+indice_3:
   - Moineau
-indice_4 : 
+indice_4:
   - Rivière emblématique
-indice_5 : 
+indice_5:
   - Confrérie secrète
-indice_6 : 
+indice_6:
   - Adversaire rusé
 ---
 
-![Image de Benedict Cumberbatch]()
+![Image de Benedict Cumberbatch](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Benedict_Cumberbatch-67295.jpg/1280px-Benedict_Cumberbatch-67295.jpg)
 
 ###### Questions
 
@@ -27,7 +26,7 @@ Quel acteur a incarné un célèbre détective dans la série télévisée brita
 
 Dans quel film de l'univers [[Marvel]] retrouve-t-on l'acteur qui prête sa voix et sa silhouette à [[Smaug]] dans [[Le Hobbit]] ?
 
-Quel acteur a été nommé à l'[[Oscar du meilleur acteur]] pour son rôle dans [[The Imitation Game]] en 2015 ?
+Quel acteur a été nommé à l'[[Oscar du meilleur acteur]] pour son rôle dans [[The Imitation Game]] en 2015 en interprétant Alan Turing ?
 
 ###### Description
 
