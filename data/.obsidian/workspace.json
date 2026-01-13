@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Lorenzaccio.md",
+                "file": "Histoire/Alexandre de Médicis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lorenzaccio"
+              "title": "Alexandre de Médicis"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Lorenzaccio.md",
+                "file": "Histoire/Alexandre de Médicis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Lorenzaccio"
+              "title": "Graphique de Alexandre de Médicis"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,8 +357,9 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Art/Alfons Mucha.md",
     "Littérature/Lorenzaccio.md",
+    "Histoire/Alexandre de Médicis.md",
+    "Art/Alfons Mucha.md",
     "Alphons Mucha.md",
     "Littérature/Alfred de Musset.md",
     "Littérature/Les Caprices de Marianne.md",
@@ -384,7 +385,6 @@
     "Cinéma/Naomi Watts.md",
     "Culture générale/Ô nombre d'élégance ! Toi, toi, grandiose, étonnant !.md",
     "Histoire/Baron rouge.md",
-    "Sciences/Fokker Dr.I.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]

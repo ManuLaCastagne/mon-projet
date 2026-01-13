@@ -1,22 +1,23 @@
 ---
-tags: 
+tags:
   - Littérature
   - Florence
   - Années_1830
   - XIXe
+  - Certifié
 debut: 1834
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Florence
-indice_2 : 
+indice_2:
   - Années_1530
-indice_3 : 
+indice_3:
   - XVIe
-indice_4 : 
+indice_4:
   - Pièce de théâtre
-indice_5 : 
+indice_5:
   - Assassinat d'Alexandre de Médicis
-indice_6 : 
+indice_6:
   - Usurpation d'identité
 ---
 
@@ -28,7 +29,7 @@ Quel drame romantique, écrit en 1834 et inspiré par [[George Sand]], met en sc
 
 Quelle œuvre d'[[Alfred de Musset]], publié dans un recueil intitulé [[Un spectacle dans un fauteuil]], a d'abord été jugée difficile à mettre en scène et n'a été jouée qu'en 1896 au [[Théâtre de la Renaissance]] avec une affiche célèbre signée [[Alfons Mucha]] ?
 
-Quelle pièce, portant sur la duplicité morale et le désenchantement politique, a été adaptée au cinéma notamment dans un film italien de 1951 ?
+Quelle pièce, portant sur la duplicité morale et le désenchantement politique sur fond d'usurpation d'identité, a été adaptée au cinéma notamment dans un film italien de 1951 ?
 
 ###### Description
 

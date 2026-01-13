@@ -20,7 +20,7 @@ indice_6 :
   - Assassinat
 ---
 
-![Image de Alexandre de Médicis]()
+![Image de Alexandre de Médicis](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Portrait_of_Duke_Alessandro_de%27_Medici_%281510-1537%29.jpg/1280px-Portrait_of_Duke_Alessandro_de%27_Medici_%281510-1537%29.jpg)
 
 ###### Questions
 
