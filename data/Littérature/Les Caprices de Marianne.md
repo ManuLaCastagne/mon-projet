@@ -3,6 +3,7 @@ tags:
   - Littérature
   - France
   - Années_1830
+  - Certifié
 date:
   - 1833/05/15
 debut: 1833
@@ -25,13 +26,13 @@ indice_6:
 
 ###### Questions
 
-Quelle œuvre de [[Alfred de Musset]], publiée en 1833, est une pièce de théâtre en deux actes qui explore les thèmes de l'amour et de l'honneur à travers les personnages de [[Cœlio]], [[Octave (empereur)]], et [[Marianne]] ?
+Quelle œuvre de [[Alfred de Musset]], publiée en 1833, est une pièce de théâtre en deux actes qui explore les thèmes de l'amour à [[Naples]] ?
 
-A la fin de quelle pièce de Musset Octave dit-il "je ne vous aime pas, "Marianne"...
+A la fin de quelle pièce d'Alfred de Musset Octave dit-il : "je ne vous aime pas" ?
 
-Quelle pièce de [[Alfred de Musset]], écrite en 1833, met en scène un amour tragique où le personnage de [[Cœlio]] est amoureux de [[Marianne (journal)]], une femme mariée, et sollicite l'aide de son ami [[Octave (empereur)]] ?
+Quelle pièce de [[Alfred de Musset]], écrite en 1833, met en scène un amour tragique où le personnage de Cœlio est amoureux d'une femme mariée, et sollicite l'aide de son ami Octave ?
 
-Dans quelle œuvre de 1833, signée par [[Alfred de Musset]], peut-on voir un triangle amoureux complexe impliquant [[Cœlio]], [[Marianne (journal)]], et [[Claudio]] ?
+Dans quelle œuvre de 1833, signée par [[Alfred de Musset]], peut-on voir un triangle amoureux complexe impliquant Cœlio, Marianne, et Claudio ?
 
 ###### Description
 

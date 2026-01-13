@@ -3,6 +3,8 @@ tags:
   - Littérature
   - Poète
   - Dramaturge
+  - Certifié
+  - Années_1830
 date:
   - 1810/12/11
 debut: 1810

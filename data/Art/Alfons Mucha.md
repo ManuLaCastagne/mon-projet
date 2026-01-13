@@ -1,28 +1,27 @@
 ---
-tags: 
+tags:
   - Art
   - République_tchèque
   - Années_1890
   - XIXe
-  - QRDLL
 date:
   - 1860/07/24
 debut: 1860
 fin: 1939
-indice_1 : 
+indice_1:
   - Affiches art nouveau
-indice_2 : 
+indice_2:
   - Sarah Bernhardt
-indice_3 : 
+indice_3:
   - Panneaux décoratifs
-indice_4 : 
+indice_4:
   - La série Les Saisons
-indice_5 : 
+indice_5:
   - Style ornemental
-indice_6 : 
+indice_6:
   - Tchécoslovaque
 questions:
- - Quel artiste tchèque, installé à Paris dès 1888, est connu pour ses affiche publicitaires ?
+  - Quel artiste tchèque, installé à Paris dès 1888, est connu pour ses affiche publicitaires ?
 ---
 
 ![Image de Alfons Mucha](https://upload.wikimedia.org/wikipedia/commons/2/29/Alfons_Mucha_LOC_3c05828u.jpg)

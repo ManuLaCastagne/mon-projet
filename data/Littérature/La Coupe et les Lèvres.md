@@ -4,10 +4,11 @@ tags:
   - France
   - Années_1830
   - XIXe
+  - Certifié
 date:
   - 1832/06/01
 debut: 1832
-fin: 
+fin:
 indice_1:
   - Alfred de Musset
 indice_2:
@@ -23,7 +24,7 @@ indice_6:
 ---
 
 
-![Image de La Coupe et les Lèvres](https://upload.wikimedia.org/wikipedia/commons/a/a6/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-il_y_a_loin_entre_la_coupe_et_les_l%C3%A8vres.wav)
+![Image de La Coupe et les Lèvres](https://upload.wikimedia.org/wikipedia/commons/2/29/Landelle%2C_Charles_-_Alfred_de_Musset_-_Mus%C3%A9e_d%27Orsay.png)
 
 ###### Questions
 

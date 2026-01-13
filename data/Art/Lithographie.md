@@ -31,7 +31,7 @@ questions:
 
 Quel procédé d'impression inventé en 1796 par [[Aloys Senefelder]] permet de reproduire des dessins ou des textes à partir d'une pierre calcaire, et a révolutionné la reproduction d'œuvres d'art ?
 
-Quel art graphique a été popularisé au [[XIXe siècle]] pour la diffusion d'affiches et de magazines en couleur grâce à des artistes comme [[Henri de Toulouse-Lautrec]] et [[Alphonse Mucha]] ?
+Quel art graphique a été popularisé au [[XIXe siècle]] pour la diffusion d'affiches et de magazines en couleur grâce à des artistes comme [[Henri de Toulouse-Lautrec]] et [[Alphons Mucha]] ?
 
 Quelle technique, utilisée par des artistes tels que [[Pablo Picasso]] et [[Edvard Munch]], est basée sur l'incompatibilité entre l'eau et l'encre grasse pour créer une image ?
 

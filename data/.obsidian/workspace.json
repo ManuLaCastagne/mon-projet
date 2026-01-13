@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Les Caprices de Marianne.md",
+                "file": "Littérature/Lorenzaccio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les Caprices de Marianne"
+              "title": "Lorenzaccio"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Les Caprices de Marianne.md",
+                "file": "Littérature/Lorenzaccio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Les Caprices de Marianne"
+              "title": "Graphique de Lorenzaccio"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,7 +357,12 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Art/Alfons Mucha.md",
+    "Littérature/Lorenzaccio.md",
+    "Alphons Mucha.md",
     "Littérature/Alfred de Musset.md",
+    "Littérature/Les Caprices de Marianne.md",
+    "Littérature/La Coupe et les Lèvres.md",
     "Littérature/Le Grand Meaulnes.md",
     "Cinéma/Brigitte Fossey.md",
     "Cinéma/Chiara Mastroianni.md",
@@ -380,11 +385,6 @@
     "Culture générale/Ô nombre d'élégance ! Toi, toi, grandiose, étonnant !.md",
     "Histoire/Baron rouge.md",
     "Sciences/Fokker Dr.I.md",
-    "Culture générale/L'esprit scientifique se constitue comme un ensemble d'erreurs rectifiées.md",
-    "Littérature/La Philosophie du non.md",
-    "Littérature/La Femme de ménage.md",
-    "Cinéma/La Femme de ménage voit tout.md",
-    "Cinéma/Paul Feig.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
