@@ -1,22 +1,23 @@
 ---
-tags: 
+tags:
   - Histoire
   - Florence
   - Années_1530
   - XVIe
+  - Certifié
 debut: 1510
 fin: 1537
-indice_1 : 
+indice_1:
   - Florence
-indice_2 : 
+indice_2:
   - Années_1520
-indice_3 : 
+indice_3:
   - XVIe
-indice_4 : 
+indice_4:
   - Politique
-indice_5 : 
+indice_5:
   - Premier duc de Florence
-indice_6 : 
+indice_6:
   - Assassinat
 ---
 

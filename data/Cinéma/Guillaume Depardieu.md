@@ -1,27 +1,26 @@
 ---
-tags: 
+tags:
   - Cinéma
   - France
   - Années_1990
   - XXe
+  - Certifié
 date:
   - 1971/04/07
 debut: 1971
 fin: 2008
-indice_1 : 
+indice_1:
   - Les Apprentis
-indice_2 : 
+indice_2:
   - Les Misérables de Josée Dayan
-indice_3 : 
+indice_3:
   - Pola X
-indice_4 : 
+indice_4:
   - Fils de Gérard Depardieu
-indice_5 : 
+indice_5:
   - César du Meilleur Espoir Masculin
-indice_6 : 
+indice_6:
   - Décédé en 2008
-questions:
- - Après deux nominations infructueuses, quel acteur a été récompensé en 1996 pour sa prestation dans "Les Apprentis" ?
 ---
 
 
@@ -37,4 +36,10 @@ Quel comédien, ayant joué dans le film "[[Pola X]]" en 1999, a eu une vie pers
 
 ###### Description
 
-[[Guillaume Depardieu]], fils de l’acteur emblématique [[Gérard Depardieu]] et d’[[Élisabeth Depardieu]], est une figure incontournable du cinéma français des années 1990 et 2000. Il fait ses débuts à l’écran à l’âge de 17 ans aux côtés de son père dans le film "[[Tous les matins du monde]]" sorti en 1991. En 1996, sa performance dans "[[Les Apprentis]]" lui vaut le [[César du Meilleur Espoir Masculin]], renforçant ainsi sa réputation de talentueux acteur. Tragiquement, [[Guillaume Depardieu]] décède en 2008 à l’âge de 37 ans, laissant derrière lui une filmographie poignante et mémorable.
+[[Guillaume Depardieu]], fils de l’acteur emblématique [[Gérard Depardieu]] et d’[[Élisabeth Depardieu]], est une figure incontournable du cinéma français des années 1990 et 2000. 
+
+Il fait ses débuts à l’écran à l’âge de 17 ans aux côtés de son père dans le film "[[Tous les matins du monde]]" sorti en 1991. 
+
+En 1996, sa performance dans "[[Les Apprentis]]" lui vaut le [[César du Meilleur Espoir Masculin]], renforçant ainsi sa réputation de talentueux acteur.
+
+Tragiquement, [[Guillaume Depardieu]] décède en 2008 à l’âge de 37 ans, laissant derrière lui une filmographie poignante et mémorable.

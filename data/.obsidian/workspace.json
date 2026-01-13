@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Alexandre de Médicis.md",
+                "file": "Cinéma/La Guerre des Rose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexandre de Médicis"
+              "title": "La Guerre des Rose"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Alexandre de Médicis.md",
+                "file": "Cinéma/La Guerre des Rose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Alexandre de Médicis"
+              "title": "Graphique de La Guerre des Rose"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,8 +357,16 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
-    "Littérature/Lorenzaccio.md",
+    "Pasted image 20260113162521.png",
+    "Cinéma/Sydney Sweeney.md",
+    "Cinéma/Dossier 137.md",
+    "Cinéma/Greta Garbo.md",
+    "Cinéma/Guillaume Depardieu.md",
+    "Cinéma/Ready Player One.md",
+    "Cinéma/Total Recall.md",
+    "Cinéma/La Femme de ménage voit tout.md",
     "Histoire/Alexandre de Médicis.md",
+    "Littérature/Lorenzaccio.md",
     "Art/Alfons Mucha.md",
     "Alphons Mucha.md",
     "Littérature/Alfred de Musset.md",
@@ -376,15 +384,7 @@
     "Cinéma/Joe Wright.md",
     "Cinéma/Le Soliste.md",
     "Pasted image 20260113152804.png",
-    "Cinéma/Mia Farrow.md",
-    "Cinéma/Alice.md",
-    "Cinéma/Lost In Translation.md",
-    "Gastronomie/Charlotte.md",
-    "Pasted.md",
     "Pasted image 20260113152243.png",
-    "Cinéma/Naomi Watts.md",
-    "Culture générale/Ô nombre d'élégance ! Toi, toi, grandiose, étonnant !.md",
-    "Histoire/Baron rouge.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
