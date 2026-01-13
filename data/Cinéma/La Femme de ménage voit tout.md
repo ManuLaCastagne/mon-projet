@@ -1,26 +1,27 @@
 ---
 tags:
-debut:
+  - Etats-Unis
+  - Film
+  - Certifié
+debut: 2025
 fin:
 indice_1:
-  - None
+  - Sydney Sweeney
 indice_2:
-  - None
+  - Détenue soubrette
 indice_3:
-  - None
+  - Freida McFadden
 indice_4:
-  - None
+  - New York
 indice_5:
-  - None
 indice_6:
-  - None
 ---
 
-![Image de La Femme de ménage voit tout]()
+![Image de La Femme de ménage voit tout](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Paul_Feig_by_Gage_Skidmore.jpg/1280px-Paul_Feig_by_Gage_Skidmore.jpg)
 
 ###### Questions
 
-Je suis désolé, mais je ne peux pas générer de questions à partir de l'information fournie.
+Quel film de [[Paul Feig]] sorti en 2025 raconte la vie d'une détenue libérée en tant que domestique dans une famille de [[New York]] ?
 
 ###### Description
 

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/La Femme de ménage.md",
+                "file": "Cinéma/La Femme de ménage voit tout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Femme de ménage"
+              "title": "La Femme de ménage voit tout"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/La Femme de ménage.md",
+                "file": "Cinéma/La Femme de ménage voit tout.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de La Femme de ménage"
+              "title": "Graphique de La Femme de ménage voit tout"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,9 +357,11 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Cinéma/Paul Feig.md",
     "Cinéma/La Femme de ménage voit tout.md",
-    "Littérature/Freida McFadden.md",
     "Littérature/La Femme de ménage.md",
+    "Cinéma/Sydney Sweeney.md",
+    "Littérature/Freida McFadden.md",
     "Littérature/Cormac McCarthy.md",
     "Littérature/Gaston Bachelard.md",
     "Littérature/La Philosophie du non.md",
@@ -381,8 +383,6 @@
     "Musique/Richard Gotainer.md",
     "Musique/Le Youki.md",
     "Religion/Saint-Paul.md",
-    "Musique/Le Mambo du décalco.md",
-    "Musique/The Supremes.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
