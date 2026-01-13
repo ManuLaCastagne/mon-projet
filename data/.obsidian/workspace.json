@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Steve Buscemi.md",
+                "file": "Cinéma/Roger Hanin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steve Buscemi"
+              "title": "Roger Hanin"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Steve Buscemi.md",
+                "file": "Cinéma/Roger Hanin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Steve Buscemi"
+              "title": "Graphique de Roger Hanin"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,6 +357,9 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Cinéma/Reservoir Dogs.md",
+    "Cinéma/Un Homme et une femme 2.md",
+    "Cinéma/Steve Buscemi.md",
     "Cinéma/Yann Arthus-Bertrand.md",
     "Cinéma/Le Vieux Fusil.md",
     "Cinéma/La Vie d'Adèle.md",
@@ -381,9 +384,6 @@
     "Littérature/Les Caprices de Marianne.md",
     "Littérature/La Coupe et les Lèvres.md",
     "Littérature/Le Grand Meaulnes.md",
-    "Cinéma/Brigitte Fossey.md",
-    "Cinéma/Charlotte Gainsbourg.md",
-    "Géographie/La Ciotat.md",
     "Pasted image 20260113152804.png",
     "Pasted image 20260113152243.png",
     "Frises/Base de données n°1.base",

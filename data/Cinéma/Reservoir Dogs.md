@@ -31,4 +31,6 @@ Quel film sorti en 1992, célèbre pour sa scène emblématique accompagnée de 
 
 ###### Description
 
-[[Reservoir Dogs]] est un film réalisé par [[Quentin Tarantino]], sorti en [[1992]]. Ce drame criminel, produit aux [[États-Unis]], se distingue par sa structure narrative éclatée et ses dialogues percutants. Le film met en scène un braquage de diamant qui tourne mal, avec les survivants cherchant à identifier un policier infiltré parmi eux. [[Reservoir Dogs]] est reconnu comme l’un des films indépendants les plus influents des années 90, lançant la carrière de [[Tarantino]] et gagnant un statut culte.
+[[Reservoir Dogs]] est un film réalisé par [[Quentin Tarantino]], sorti en [[1992]]. Ce drame criminel, produit aux [[États-Unis]], se distingue par sa structure narrative éclatée et ses dialogues percutants. 
+
+Le film met en scène un braquage de diamant qui tourne mal, avec les survivants cherchant à identifier un policier infiltré parmi eux. [[Reservoir Dogs]] est reconnu comme l’un des films indépendants les plus influents des années 90, lançant la carrière de [[Tarantino]] et gagnant un statut culte.
