@@ -16,13 +16,14 @@ indice_6 :
   - pathologie gastro-intestinale
 ---
 
+
 ![Image de Ténesme](https://upload.wikimedia.org/wikipedia/commons/6/61/Remarks_on_pre-vesical_inflammation_%28IA_101741294.nlm.nih.gov%29.pdf)
 
 ###### Questions
 
 Quel est le terme médical utilisé pour désigner une sensation douloureuse et souvent inefficace de devoir aller à la selle ?
 
-Comment appelle-t-on la symptomatologie rectale qui peut survenir lors de maladies inflammatoires de l'intestin, comme la [[maladie de Crohn]], entraînant une envie constante d'évacuer les selles?
+Comment appelle-t-on la symptomatologie rectale qui peut survenir lors de maladies inflammatoires de l'intestin, comme la [[maladie de Crohn]], entraînant une envie constante d'évacuer les selles? <!-- score: 4 -->
 
 Quel terme médical désigne une sensation douloureuse fréquente pour évacuer les selles, parfois associée à une [[dysenterie]] amibienne, causée par [[Entamoeba histolytica]] ?
 
