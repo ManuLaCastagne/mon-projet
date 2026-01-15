@@ -21,11 +21,12 @@ indice_6:
 ---
 
 
+
 ![Image de Trois Glorieuses](https://upload.wikimedia.org/wikipedia/commons/b/bf/R%C3%A9volution_de_1830_-_Combat_de_la_rue_de_Rohan_-_29.07.1830.jpg)
 
 ###### Questions
 
-Quel nom porte les journées révolutionnaires de 1830, qui ont débuté lorsque le peuple a dressé les barricades, le 27 juillet ?
+Quel nom porte les journées révolutionnaires de 1830, qui ont débuté lorsque le peuple a dressé les barricades, le 27 juillet ? <!-- score: 1 -->
 
 Quel événement historique, survenu en [[juillet]] [[1830]], a conduit à l'abdication du roi [[Charles X]] en faveur de [[Louis-Philippe]] ? <!-- score: 3 -->
 
