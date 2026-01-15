@@ -17,6 +17,7 @@ questions:
  - Quel cétacé pouvant être à bec étroit a la particularité de ne dormir que d'un demi-cerveau à la fois?
 ---
 
+
 ![Image de Dauphin](https://upload.wikimedia.org/wikipedia/commons/3/3d/2009-0520--Watson_Arts_Centre-Dauphin.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ questions:
 
 [[Quel mammifère marin]] est connu pour sauver des humains de [[noyade]] et pour avoir un rôle protecteur face aux attaques potentielles de [[requins]] ?
 
-[[Quel cétacé]] est capable de reconnaître son reflet dans un miroir, une indication de conscience de soi, confirmée par des études en [[2001]] ?
+[[Quel cétacé]] est capable de reconnaître son reflet dans un miroir, une indication de conscience de soi, confirmée par des études en [[2001]] ? <!-- score: 4 -->
 
 ###### Description
 
