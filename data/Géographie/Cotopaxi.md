@@ -26,18 +26,12 @@ questions:
  - Quel volcan actif des Andes, culmine en Equateur ?
 ---
 
-
 ![Image de Cotopaxi](https://upload.wikimedia.org/wikipedia/commons/0/07/Cotopaxi_%2837399959476%29.jpg)
 
 ![[Carte_Cotopaxi.png]]
 ###### Questions
 
-Dans quel pays se trouve le [[volcan]] [[Cotopaxi]], considéré comme l'un des plus hauts volcans actifs du monde ? 
-
-[[Cotopaxi]] a connu une éruption notable en 2015 ; dans quel massif montagneux des [[Andes]] est-il situé ? 
-
-Quelle est la montagne équatorienne souvent mentionnée pour sa parfaite symétrie de cône, culminant à 5 897 mètres, et connue sous le nom de [[Cotopaxi]] ? <!-- score: 5 -->
-
+Quelle est la montagne équatorienne souvent mentionnée pour sa parfaite symétrie de cône, culminant à 5 897 mètres ? <!-- score: 5 -->
 ###### Description
 
 Le [[Cotopaxi]] est l'un des volcans les plus emblématiques d'[[Équateur]], culminant à 5 897 mètres, ce qui en fait l'un des volcans actifs les plus hauts du monde. 
