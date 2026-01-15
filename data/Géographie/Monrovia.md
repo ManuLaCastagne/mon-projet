@@ -24,6 +24,7 @@ indice_6 :
   - nommé en l'honneur du président américain James Monroe
 ---
 
+
 ![Image de Monrovia](https://upload.wikimedia.org/wikipedia/commons/c/c6/MonroviaLB14.png)
 
 ![[Carte_Monrovia.png]]
@@ -33,7 +34,7 @@ Quel est le nom de la capitale du [[Liberia]], un pays fondé par d'anciens escl
 
 Dans quelle ville, nommée en hommage au cinquième président des [[États-Unis]], [[James Monroe]], se trouve le siège du gouvernement libérien?
 
-Quel est le principal port de commerce et la plus grande ville de [[Liberia]], qui a officiellement été fondée en 1822?
+Quel est le principal port de commerce et la plus grande ville de [[Liberia]], qui a officiellement été fondée en 1822? <!-- score: 4 -->
 
 ###### Description
 
