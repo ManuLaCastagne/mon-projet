@@ -16,13 +16,14 @@ indice_6 :
   - Ligue de Délos
 ---
 
+
 ![Image de Podion](https://upload.wikimedia.org/wikipedia/commons/5/51/Byst%C5%99ice_pod_Host%C3%BDnem_-_Pod_Ka%C5%A1tany_-_View_North_on_Z%C3%A1mek_Byst%C5%99ice_pod_Host%C3%BDnem.jpg)
 
 ###### Questions
 
 Dans la mythologie grecque, comment s'appelle le roi de [[Phylace]] lors de la guerre de [[Troie]] ?
 
-Quel est le nom du personnage mythologique grec connu pour la rapidité de ses chevaux et sa participation à la chasse au sanglier de [[Calydon]] ?
+Quel est le nom du personnage mythologique grec connu pour la rapidité de ses chevaux et sa participation à la chasse au sanglier de [[Calydon]] ? <!-- score: 5 -->
 
 Lors des jeux [[Olympiques]] antiques, qui est souvent mentionné aux côtés des héros pour sa contribution à certaines épreuves mythologiques ?
 
