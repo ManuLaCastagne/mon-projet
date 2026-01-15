@@ -26,6 +26,7 @@ questions:
  - Quelle ville d'environ 3 millions d'habitants, située sur l'estuaire du Wouri, est le principal port du Cameroun et la capitale économique...
 ---
 
+
 ![Image de Douala](https://upload.wikimedia.org/wikipedia/commons/9/99/Douala.JPG)
 
 ![[Carte_Douala.png]]
@@ -33,7 +34,7 @@ questions:
 
 Quelle ville de [[Cameroun]] abrite le [[Port autonome de Douala]], le plus grand port du pays, essentiel pour le commerce international depuis sa construction en 1980 ?
 
-Quelle est la ville d'Afrique centrale où l'aéroport international a été classé comme le plus fréquenté du [[Cameroun]] avant l'ouverture de celui de [[Yaoundé]] en 1991 ?
+Quelle est la ville d'Afrique centrale où l'aéroport international a été classé comme le plus fréquenté du [[Cameroun]] avant l'ouverture de celui de [[Yaoundé]] en 1991 ? <!-- score: 4 -->
 
 Quelle ville, fondée par la tribu des [[Douala]], est devenue plus tard un centre économique majeur après avoir été sous diverses administrations coloniales, notamment [[allemande]] avant 1916, puis [[française]] et [[britannique]] ?
 
