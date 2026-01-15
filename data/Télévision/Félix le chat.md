@@ -20,11 +20,12 @@ indice_6:
   - Effet spécial avant-gardiste
 ---
 
-![Image de Félix le chat](https://upload.wikimedia.org/wikipedia/commons/a/aa/Felix_aprilmaze_08.jpg)
+
+![Image de Félix le chat](https://upload.wikimedia.org/wikipedia/commons/a/aa/Felix_aprilmaze_08.jpg)
 
 ###### Questions
 
-Quel personnage est devenu le premier à être diffusé à la télévision en 1928, sur la station expérimentale [[W2XBS]] de [[New York]] ?
+Quel personnage est devenu le premier à être diffusé à la télévision en 1928, sur la station expérimentale [[W2XBS]] de [[New York]] ? <!-- score: 4 -->
 
 Quel personnage de dessin animé a été utilisé comme première image test pour la diffusion de télévision aux États-Unis en 1928 ?
 
