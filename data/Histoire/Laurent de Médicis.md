@@ -22,7 +22,8 @@ questions:
  - En 1486, à quel prince florentin le sultan d'Égypte envoya-t-il une girafe femelle de toute beauté ?
 ---
 
-![Image de Laurent de Médicis](https://upload.wikimedia.org/wikipedia/commons/8/8f/Portrait_of_Lorenzo_di_Medici.jpg)
+
+![Image de Laurent de Médicis](https://upload.wikimedia.org/wikipedia/commons/8/8f/Portrait_of_Lorenzo_di_Medici.jpg)
 
 ###### Questions
 
@@ -30,7 +31,7 @@ Quel chef de la famille [[Médicis]], surnommé "[[Laurent le Magnifique]]", a p
 
 Qui est le mécène célèbre de [[Léonard de Vinci]] et [[Sandro Botticelli]], ayant grandement influencé la [[Renaissance italienne]] par son soutien aux arts durant le XVe siècle ? 
 
-Quel dirigeant florentin a survécu à une tentative d'assassinat lors de la [[Conjuration des Pazzi]] en 1478, un événement marquant de l'histoire florentine ?
+Quel dirigeant florentin a survécu à une tentative d'assassinat lors de la [[Conjuration des Pazzi]] en 1478, un événement marquant de l'histoire florentine ? <!-- score: 6 -->
 
 ###### Description
 
