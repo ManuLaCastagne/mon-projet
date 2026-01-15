@@ -26,6 +26,7 @@ indice_6:
 
 
 
+
 ![Image de Nicolas de Staël](https://upload.wikimedia.org/wikipedia/commons/7/70/Photographie_de_Nicolas_de_Sta%C3%ABl.jpg)
 
 ###### Questions
