@@ -23,6 +23,7 @@ indice_6 :
   - Signé Als Ich Can
 ---
 
+
 ![Image de Jan Van Eyck](https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel peintre flamand du XVe siècle est souvent crédité, avec son frère [[Hub
 
 Quel artiste est considéré comme ayant perfectionné la technique de la peinture à l'huile, ce qui est illustré dans son célèbre tableau [[Les Époux Arnolfini]] datant de 1434 ?
 
-Quel peintre, contemporain des [[Primitifs flamands]], est reconnu pour sa maîtrise du détail et du réalisme, et a été actif à la cour de [[Philippe le Bon]], duc de [[Bourgogne]], dans les années 1420-1440 ?
+Quel peintre, contemporain des [[Primitifs flamands]], est reconnu pour sa maîtrise du détail et du réalisme, et a été actif à la cour de [[Philippe le Bon]], duc de [[Bourgogne]], dans les années 1420-1440 ? <!-- score: 4 -->
 
 ###### Description
 
