@@ -20,11 +20,12 @@ indice_6 :
   - France
 ---
 
+
 ![Image de Mademoiselle Agnès](https://upload.wikimedia.org/wikipedia/commons/6/66/Mademoiselle_Agn%C3%A8s_D%C3%AEner_C%C3%A9sars_2018.jpg)
 
 ###### Questions
 
-Quel est le pseudonyme de [[Agnès Boulard]], célèbre animatrice connue pour présenter des événements de mode à la télévision française, plus particulièrement dans les émissions des [[Guignols de l'Info]]?
+Quel est le pseudonyme de [[Agnès Boulard]], célèbre animatrice connue pour présenter des événements de mode à la télévision française, plus particulièrement dans les émissions des [[Guignols de l'Info]]? <!-- score: 4 -->
 
 Qui a réalisé un documentaire intitulé "[[Habillé(e)s pour]]…", diffusé pour la première fois en [[2001]], offrant un regard satirique et exclusif sur les coulisses de la [[Fashion Week de Paris]]?
 
