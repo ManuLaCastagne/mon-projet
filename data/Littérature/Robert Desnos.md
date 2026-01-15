@@ -24,13 +24,14 @@ questions:
  - A quel poète, mort en 1945, doit-on un célèbre texte débutant par "Une Fourmi de dix-huit mètres avec un chapeau sur la tête, ça n'existe pas, ça n'existe pas" dans "La Fourmi" ?
 ---
 
+
 ![Image de Robert Desnos](https://upload.wikimedia.org/wikipedia/commons/0/05/Robert_Desnos.jpg)
 
 ###### Questions
 
 En quelle année [[Robert Desnos]] a-t-il été arrêté par la [[Gestapo]] pour ses activités dans la [[Résistance française]] pendant l'[[Occupation de la France par l'Allemagne nazie]] ?
 
-Quel recueil de poésie de [[Robert Desnos]] publié en 1923 témoigne de son engagement avec le mouvement [[surréaliste]] et l'idée des [[rêves éveillés]] ?
+Quel recueil de poésie de [[Robert Desnos]] publié en 1923 témoigne de son engagement avec le mouvement [[surréaliste]] et l'idée des [[rêves éveillés]] ? <!-- score: 5 -->
 
 Dans quel camp est mort [[Robert Desnos]] en 1945, après avoir contracté le [[typhus]] peu avant la libération du camp ?
 
