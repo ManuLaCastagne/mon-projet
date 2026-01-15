@@ -22,7 +22,8 @@ questions:
  - Personnage de l'histoire de France né à Jupille en 715, je combats les Aquitains, les Alamans, les Bavarois, les Saxons.
 ---
 
-![Image de Pépin le Bref](https://upload.wikimedia.org/wikipedia/commons/d/d9/Amiel_-_Pepin_the_Short.jpg)
+
+![Image de Pépin le Bref](https://upload.wikimedia.org/wikipedia/commons/d/d9/Amiel_-_Pepin_the_Short.jpg)
 
 ###### Questions
 
@@ -30,7 +31,7 @@ Quel roi des [[Francs]] a été couronné en 751 à [[Soissons]], marquant le d�
 
 Quel personnage historique a été le fils de [[Charles Martel]] et le père de [[Charlemagne]], régnant à partir de 751 jusqu'à sa mort en 768 ?
 
-Quel roi des [[Francs]] a été le premier à être sacré par le [[pape Zacharie]] en 754, officialisant le soutien de l'Église à son règne ?
+Quel roi des [[Francs]] a été le premier à être sacré par le [[pape Zacharie]] en 754, officialisant le soutien de l'Église à son règne ? <!-- score: 6 -->
 
 ###### Description
 
