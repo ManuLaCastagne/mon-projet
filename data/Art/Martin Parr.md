@@ -25,6 +25,7 @@ questions:
  - Qui est ce photographe britannique, représenté ici en 1997, tenant l'une de ses oeuvres, qui est célèbre pour des photos de ses compatriotes ou de touristes empreintes d'humour et de dérision?
 ---
 
+
 ![Image de Martin Parr](https://upload.wikimedia.org/wikipedia/commons/f/ff/Martin-Parr_rennes2010.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel photographe britannique, connu pour son approche satirique de la société 
 
 Quel artiste, dont les clichés documentent ironiquement la culture du tourisme de masse, a été commissaire de l'exposition "Only in [[England]]" au [[Science and Media Museum]] en 2013 ?
 
-Quel membre de la prestigieuse Royal Academy of Arts a publié en 2004 le livre "[[Martin Parr]]" dans la collection [[Phaidon 55]] ?
+Quel membre de la prestigieuse Royal Academy of Arts a publié en 2004 le livre "[[Martin Parr]]" dans la collection [[Phaidon 55]] ? <!-- score: 5 -->
 
 ###### Description
 
