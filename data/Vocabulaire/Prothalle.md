@@ -18,6 +18,7 @@ indice_6 :
 
 
 
+
 ![Image de Prothalle](https://upload.wikimedia.org/wikipedia/commons/6/64/Prothalle_de_Pteridophyte.jpg)
 
 ###### Questions
@@ -26,7 +27,7 @@ Quel est le terme botanique qui désigne la structure haploïde formée après l
 
 Quel élément du cycle de vie des plantes vasculaires sans graines, comme les [[lycopodes]] et les [[fougères]], sert d'organe autotrophe et joue un rôle crucial dans la reproduction sexuée ?
 
-Comment appelle-t-on la structure végétative indépendante appartenant à la génération gamétophyte qui produit les gamètes dans le cycle vital des [[ptéridophytes]] ? <!-- score: 3 -->
+Comment appelle-t-on la structure végétative indépendante appartenant à la génération gamétophyte qui produit les gamètes dans le cycle vital des [[ptéridophytes]] ? <!-- score: 5 -->
 
 ###### Description
 
