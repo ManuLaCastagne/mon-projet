@@ -15,6 +15,7 @@ indice_6:
   - Symbole de liberté
 ---
 
+
 ![Image de Canasson](https://upload.wikimedia.org/wikipedia/commons/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg)
 
 ###### Questions
@@ -23,7 +24,7 @@ Par quel terme constituant une altération du mot [[canard]] désigne-t-on famil
 
 Quel surnom lunaire et affectueux est donné au cheval à l'intérieur des [[Monty Python]] dans le film culte de 1975 "[[Monty Python and the Holy Grail]]" ?
 
-Quel célèbre doubleur de voix française des années 1980 prêtait souvent sa voix au personnage du cheval appelé "Canasson" dans les aventures de bande dessinée de [[Lucky Luke]] ?
+Quel célèbre doubleur de voix française des années 1980 prêtait souvent sa voix au personnage du cheval appelé "Canasson" dans les aventures de bande dessinée de [[Lucky Luke]] ? <!-- score: 5 -->
 
 À quelle série humoristique britannique de [[BBC Radio]] de 1951, souvent diffusée par [[BBC]] et mettant en scène des sketchs délirants, doit-on le concept du cheval "Canasson" comme élément comique récurrent ?
 
