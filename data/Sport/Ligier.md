@@ -29,7 +29,7 @@ indice_6 :
 
 Quel constructeur automobile est devenu célèbre en participant au championnat du monde de [[Formule 1]] de 1976 à 1996 avec des pilotes tels que [[Jacques Laffite]] et [[Olivier Panis]]?
 
-Quelle marque française a remporté les [[24 Heures du Mans]] en 1975 dans la catégorie [[GTP]] avec un modèle JS2? <!-- score: 2 -->
+Quelle marque française a remporté les [[24 Heures du Mans]] en 1975 dans la catégorie [[GTP]] avec un modèle JS2? <!-- score: 3 -->
 
 Quel fabricant a commencé comme producteur de voitures sans permis avant de fabriquer des voitures de [[Formule 1]] sous la direction de [[Guy Ligier]]?
 
