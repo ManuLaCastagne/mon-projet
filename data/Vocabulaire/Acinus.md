@@ -16,11 +16,12 @@ indice_6 :
   - Glande salivaire
 ---
 
+
 ![Image de Acinus](https://upload.wikimedia.org/wikipedia/commons/7/79/Anisonema_acinus_359280080.jpg)
 
 ###### Questions
 
-Quel est le nom des petits sacs dans les glandes salivaires et du [[pancréas]] où se fait la sécrétion des enzymes digestives ?
+Quel est le nom des petits sacs dans les glandes salivaires et du [[pancréas]] où se fait la sécrétion des enzymes digestives ? <!-- score: 1 -->
 
 Comment s'appelle la structure en forme de grappe de raisin trouvée dans les poumons et responsable des échanges gazeux avec le sang ?
 
