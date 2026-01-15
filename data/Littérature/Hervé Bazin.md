@@ -24,11 +24,12 @@ questions:
  - Qui s'inspire de sa mère pour écrire "Vipère au poing" en 1949 ?
 ---
 
-![Image de Hervé Bazin](https://upload.wikimedia.org/wikipedia/commons/9/9b/Herv%C3%A9_Bazin_%C3%A0_Cunault_en_1993.jpg)
+
+![Image de Hervé Bazin](https://upload.wikimedia.org/wikipedia/commons/9/9b/Herv%C3%A9_Bazin_%C3%A0_Cunault_en_1993.jpg)
 
 ###### Questions
 
-Dans quelle œuvre publiée en 1948 par [[Hervé Bazin]] trouve-t-on le personnage de [[Folcoche]], inspiré de la propre mère de l'auteur ?
+Dans quelle œuvre publiée en 1948 par [[Hervé Bazin]] trouve-t-on le personnage de [[Folcoche]], inspiré de la propre mère de l'auteur ? <!-- score: 7 -->
 
 Quel roman d'[[Hervé Bazin]], publié en 1951, explore les conflits dans un couple à travers l'opposition entre [[la haine]] et [[l'amour]], figurée par un besoin maladif de conflagration permanente ?
 
