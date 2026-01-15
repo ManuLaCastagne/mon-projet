@@ -21,13 +21,14 @@ indice_6 :
 ---
 
 
+
 ![Image de George Berkeley](https://upload.wikimedia.org/wikipedia/commons/3/32/George_Berkeley_by_John_Smibert.jpg)
 
 ###### Questions
 
 Quel philosophe et évêque anglo-irlandais a écrit l'ouvrage influent intitulé [[A Treatise Concerning the Principles of Human Knowledge]], publié en [[1710]] ? <!-- score: 4 -->
 
-Quel auteur, reconnu pour ses théories sur l'immatérialisme, a écrit [[Alciphron]], un dialogue philosophique publié en [[1732]] ?
+Quel auteur, reconnu pour ses théories sur l'immatérialisme, a écrit [[Alciphron]], un dialogue philosophique publié en [[1732]] ? <!-- score: 3 -->
 
 Quel penseur du début du [[XVIIIe siècle]], associé au mouvement empiriste, a soutenu que « être, c'est être perçu » ou [[Esse est percipi]] ?
 
