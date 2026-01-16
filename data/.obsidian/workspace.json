@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sport/11 heures et 5 minutes.md",
+                "file": "Cinéma/Willow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 heures et 5 minutes"
+              "title": "Willow"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cinéma/Willow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Willow"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cinéma/Willow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Willow"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Cinéma/Willow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de conflict-files-obsidian-git"
+              "title": "Plan de Willow"
             }
           },
           {
@@ -178,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2673a9bab298e655",
+  "active": "652151d0ad7e357f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Sport/11 heures et 5 minutes.md",
+    "conflict-files-obsidian-git.md",
     "Sport/Nicholas Mahut.md",
     "attachments/Pasted image 20260113162521.png",
     "attachments/Pasted image 20260113152804.png",
