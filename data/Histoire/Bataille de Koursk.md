@@ -24,6 +24,7 @@ questions:
   - En juillet 1943, quelle immense bataille de chars, se soldant par une victoire soviétique sur la Wehrmacht, est un tournant décisif de la guerre?
 ---
 
+
 ![Image de Bataille de Koursk](https://upload.wikimedia.org/wikipedia/commons/c/c0/Bataille_de_Koursk-es.svg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel événement marquant de [[1943]], connu pour être la plus grande bataille 
 
 Quel affrontement de la [[Seconde Guerre mondiale]] a débuté en juillet [[1943]] et a marqué un tournant décisif sur le front de l'Est avec l'échec de l'[[opération Citadelle]] ?
 
-Quel épisode majeur s'est déroulé sur le saillant de [[Koursk]], impliquant l'utilisation massive de chars [[T-34]] et [[Panzer]], et a mené à une importante victoire soviétique ?
+Quel épisode majeur s'est déroulé sur le saillant de [[Koursk]], impliquant l'utilisation massive de chars [[T-34]] et [[Panzer]], et a mené à une importante victoire soviétique ? <!-- score: 6 -->
 
 ###### Description
 

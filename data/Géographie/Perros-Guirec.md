@@ -33,10 +33,9 @@ questions:
 
 Dans quelle ville se trouve la célèbre plage de [[Trestraou]], connue pour ses magnifiques formations rocheuses appelées [[Les Sept Îles]] ?
 
-Quel endroit, situé en [[Bretagne]], est réputé pour ses impressionnantes colonies d'oiseaux marins protégés depuis 1912 ?
+Quel ville abrite l'[[Archipel des Sept-Îles]] réputé pour ses impressionnantes colonies d'oiseaux marins protégés depuis 1912 ? <!-- score: 4 -->
 
 Quelle commune française, située dans le département des [[Côtes-d'Armor]], est célèbre pour ses rochers de granit rose et ses paysages côtiers exceptionnels ?
-
 ###### Description
 
 Perros-Guirec, charmante station balnéaire située en [[Bretagne]], fait partie intégrante de la célèbre Côte de Granit Rose, reconnue pour ses formations rocheuses spectaculaires et ses plages idylliques. 

@@ -24,11 +24,12 @@ questions:
  - En 1929, quel roman de William Faulkner met en scène la famille Compson à travers les pensées de ses 3 fils?
 ---
 
+
 ![Image de Bruit et la fureur](https://upload.wikimedia.org/wikipedia/commons/c/c2/Luis_M._Garc%C3%ADa_Mainar_-_William_Faulkner%27s_The_Sound_and_the_Fury_-_the_status_of_the_popular_in_modernism.pdf)
 
 ###### Questions
 
-Quel roman de [[William Faulkner]], publié en 1929, explore les thèmes de la déchéance et de la folie à travers la famille [[Compson]] ?
+Quel roman de [[William Faulkner]], publié en 1929, explore les thèmes de la déchéance et de la folie à travers la famille [[Compson]] ? <!-- score: 3 -->
 
 Quel livre incarne la structure narrative innovante de la littérature américaine du XXe siècle, notamment par son utilisation du style de flux de conscience ?
 

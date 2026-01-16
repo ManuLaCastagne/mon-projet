@@ -25,6 +25,7 @@ questions:
   - Construction classée monument historique et ornée de mosaïques Art déco à Rennes ou bien flottante et amarrée près de la bibliothèque François Mitterrand à Paris, je mesure 50 m de long...
 ---
 
+
 ![Image de Piscine](https://upload.wikimedia.org/wikipedia/commons/c/c1/Piscine_Molitor%2C_Paris%2C_France.jpg)
 
 ###### Questions
@@ -35,7 +36,7 @@ Quel type de structure a été inauguré au [[Molitor]] en 1929, devenant un lie
 
 Quelle construction architecturale créée par [[Alfred Ely Beach]] à [[New York]] en 1869 devait incorporer un système de transport souterrain avant d'être transformée en espace de loisirs aquatiques ?
 
-Quel type de bâtiment situé au sommet du [[Marina Bay Sands]] à [[Singapour]], ouvert en 2010, offre une vue panoramique exceptionnelle de la ville ?
+Quel type de bâtiment situé au sommet du [[Marina Bay Sands]] à [[Singapour]], ouvert en 2010, offre une vue panoramique exceptionnelle de la ville ? <!-- score: 4 -->
 
 ###### Description
 

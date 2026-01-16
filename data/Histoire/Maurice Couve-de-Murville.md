@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Maurice Couve-de-Murville](https://upload.wikimedia.org/wikipedia/commons/6/66/Maurice_Couve_de_Murville_and_Roger_Seydoux.jpg)
 
 ###### Questions
 
-Quel homme politique français a été nommé Premier ministre sous la présidence de [[Charles de Gaulle]] en [[1968]] ? 
+Quel homme politique français a été nommé Premier ministre sous la présidence de [[Charles de Gaulle]] en [[1968]] ? <!-- score: 3 -->
 
 Qui a été nommé ministre des Affaires étrangères de France après la crise de [[Suez]] en [[1956]] ?
 

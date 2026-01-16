@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - États-Unis
   - Années_1960
@@ -7,22 +7,23 @@ tags:
 date:
   - 1960/06/16
 debut: 1960
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Alfred Hitchcock
-indice_2 : 
+indice_2:
   - Marion Crane
-indice_3 : 
+indice_3:
   - Bates Motel
-indice_4 : 
+indice_4:
   - scène de la douche
-indice_5 : 
+indice_5:
   - Norman Bates
-indice_6 : 
+indice_6:
   - 1960
 questions:
- - En 1960, dans quel thriller d'Alfred Hitchcock Anthony Perkins incarne-t-il un célibataire schizophrène et meurtrier?
+  - En 1960, dans quel thriller d'Alfred Hitchcock Anthony Perkins incarne-t-il un célibataire schizophrène et meurtrier?
 ---
+
 
 ![Image de Psychose](https://upload.wikimedia.org/wikipedia/commons/4/4f/Benighted_Coolness%27tival_2007_01.jpg)
 
@@ -30,9 +31,11 @@ questions:
 
 Dans quel film sorti en 1960 et réalisé par [[Alfred Hitchcock]] célèbre-t-on la scène iconique de la douche avec [[Janet Leigh]] ?
 
+En 1960, dans quel thriller d'Alfred Hitchcock Anthony Perkins incarne-t-il un célibataire schizophrène et meurtrier ?
+
 Dans quel chef-d'œuvre du cinéma noir et blanc utilise-t-on pour la première fois une musique de [[Bernard Herrmann]] marquante, notamment avec le son strident des cordes pendant une scène de meurtre ?
 
-Quel film a été inspiré par le roman de [[Robert Bloch]], qui lui-même s'est inspiré de l'histoire vraie du tueur en série [[Ed Gein]], et a connu un succès tel qu'il a redéfini les codes du genre du thriller psycho-horrifique ?
+Quel film a été inspiré par le roman de [[Robert Bloch]], qui lui-même s'est inspiré de l'histoire vraie du tueur en série [[Ed Gein]], et a connu un succès tel qu'il a redéfini les codes du genre du thriller psycho-horrifique ? <!-- score: 4 -->
 
 ###### Description
 

@@ -26,16 +26,17 @@ questions:
  - Quel département français porte un nom d'origine latine signifiant "fin de la terre"?
 ---
 
-![Image de Finistère](https://upload.wikimedia.org/wikipedia/commons/4/4d/Finist%C3%A8re-Position.svg)
 
-![[Carte_Finistère.png]]
+![Image de Finistère](https://upload.wikimedia.org/wikipedia/commons/4/4d/Finist%C3%A8re-Position.svg)
+
+![[Carte_Finistère.png]]
 ###### Questions
 
 Quel département français possède une pointe extrême à l'ouest appelée [[Pointe du Raz]] dans la région de [[Bretagne]] ?
 
 Quel département français, créé en 1790 lors de la Révolution française, porte un nom signifiant "fin de la terre" en breton ?
 
-Quel département français est le lieu du [[Festival de Cornouaille]], un événement culturel important qui célèbre la culture bretonne chaque été depuis 1923 ?
+Quel département français est le lieu du [[Festival de Cornouaille]], un événement culturel important qui célèbre la culture bretonne chaque été depuis 1923 ? <!-- score: 4 -->
 
 ###### Description
 

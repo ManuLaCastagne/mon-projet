@@ -3,9 +3,9 @@ tags:
   - Gastronomie
   - Royauté
   - Royaume-Uni
-  - Royauté
+  - Certifié
 ---
 ###### Questions 
 
-[[Entremets]] froid appelé ainsi en référence au prénom d'une reine britannique, [[Charlotte]], épouse du roi George III.
+Quel [[entremets]] froid fut appelé en référence au prénom d'une reine britannique épouse du roi [[George III]] ?
 

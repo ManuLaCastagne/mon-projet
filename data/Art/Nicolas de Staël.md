@@ -24,6 +24,9 @@ indice_6:
 
 
 
+
+
+
 ![Image de Nicolas de Staël](https://upload.wikimedia.org/wikipedia/commons/7/70/Photographie_de_Nicolas_de_Sta%C3%ABl.jpg)
 
 ###### Questions
@@ -32,7 +35,7 @@ Dans les années 1950, quel peintre français d'origine russe a réalisé des s�
 
 Quel peintre d'origine russe a marqué l'art du XXe siècle par ses œuvres abstraites et ses paysages, et qui a vécu de 1914 à 1955, laissant derrière lui une carrière artistique prolifique malgré une vie écourtée ? 
 
-Quel artiste, ayant fui la [[Russie]] après la [[Révolution d'Octobre]], a réussi à influencer le mouvement de l'[[art moderne]] en France au début des années 1950 avec ses tableaux aux couleurs audacieuses ?
+Quel artiste, ayant fui la [[Russie]] après la [[Révolution d'Octobre]], a réussi à influencer le mouvement de l'[[art moderne]] en France au début des années 1950 avec ses tableaux aux couleurs audacieuses ? <!-- score: 3 -->
 
 Quel peintre, connu pour ses œuvres abstraites et ses innovations dans le domaine de la couleur, a été profondément touché par les paysages méditerranéens lors d'un séjour à [[Antibes]] en 1953 ? <!-- score: 3 -->
 

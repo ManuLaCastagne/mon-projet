@@ -22,11 +22,12 @@ questions:
  - Même s'il est arrivé que je sois effectivement donné sous la forme d'un objet, je suis attribué à une équipe du tournoi des Six Nations ayant..
 ---
 
-![Image de Cuillère de bois](https://upload.wikimedia.org/wikipedia/commons/b/ba/Cuill%C3%A8re_MHNT_ETH_AC_RE_5_Julien_Madagascar.jpg)
+
+![Image de Cuillère de bois](https://upload.wikimedia.org/wikipedia/commons/b/ba/Cuill%C3%A8re_MHNT_ETH_AC_RE_5_Julien_Madagascar.jpg)
 
 ###### Questions
 
-Quelle distinction peu enviable est attribuée à l'équipe terminant dernière du [[Tournoi des Six Nations]] ?
+Quelle distinction peu enviable est attribuée à l'équipe terminant dernière du [[Tournoi des Six Nations]] ? <!-- score: 7 -->
 
 Quel symbole a été décerné à [[l'Australie]] après avoir terminé en dernière position du [[Rugby Championship]] en [[2014]] ?
 
@@ -34,7 +35,7 @@ Lors du [[Tournoi des Cinq Nations]] de [[1974]], quelle "récompense" a été d
 
 ###### Description
 
-La "Cuillère de bois" est un terme utilisé dans le rugby pour désigner l'équipe qui finit dernière du [[Tournoi des Six Nations]]. 
+La "Cuillère de bois" est un terme utilisé dans le rugby pour désigner l'équipe qui finit dernière du [[Tournoi des Six Nations]]. 
 
 Ce terme est d'ailleurs inspiré d'une tradition culinaire française, bien qu'il ne concerne pas une distinction positive. 
 

@@ -20,13 +20,14 @@ indice_6 :
   - Afrique-Équatoriale française
 ---
 
+
 ![Image de Pierre Messmer](https://upload.wikimedia.org/wikipedia/commons/a/a7/Pierre_Messmer01.JPG)
 
 ###### Questions
 
 Quel homme d'État français est nommé [[Premier ministre]] par [[Georges Pompidou]] en 1972 et reste en fonction jusqu'en 1974 ? 
 
-Quel militaire et homme politique français, ancien membre de la [[France libre]], devient membre de l'[[Académie française]] en 1999 ?
+Quel militaire et homme politique français, ancien membre de la [[France libre]], devient membre de l'[[Académie française]] en 1999 ? <!-- score: 4 -->
 
 Quel ancien [[ministre de la Défense]] a joué un rôle crucial dans la fin de la guerre d'[[Algérie]] en 1962 et la création de la [[Force de dissuasion nucléaire française]] ?
 

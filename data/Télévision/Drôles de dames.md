@@ -28,10 +28,9 @@ questions:
 
 Dans quelle série télévisée lancée en [[1976]], les personnages principaux sont-ils [[Sabrina Duncan]], [[Jill Munroe]] et [[Kelly Garrett]] ? 
 
-Quel programme a introduit la célèbre réplique « [[Charlie’s Angels]], on se rassemble » dans la version française ? 
+Quel programme a introduit la célèbre réplique « [[Charlie’s Angels]], on se rassemble » dans la version française ? <!-- score: 4 -->
 
 Quelle série culte de [[ABC]] a été adaptée au cinéma avec [[Cameron Diaz]], [[Drew Barrymore]] et [[Lucy Liu]] au début des années 2000 ?
-
 ###### Description
 
 [[Drôles de dames]], ou "[[Charlie's Angels]]" en version originale, est une série télévisée américaine populaire diffusée entre [[1976]] et [[1981]]. 

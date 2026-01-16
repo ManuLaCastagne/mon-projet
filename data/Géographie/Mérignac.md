@@ -26,12 +26,13 @@ questions:
  - Quel nom, attribué à la ville abritant l'aéroport de Bordeaux, est également...
 ---
 
-![Image de Mérignac](https://upload.wikimedia.org/wikipedia/commons/7/75/H%C3%B4tel_de_ville_de_M%C3%A9rignac_%28Gironde%29.JPG)
 
-![[Carte_Mérignac.png]]
+![Image de Mérignac](https://upload.wikimedia.org/wikipedia/commons/7/75/H%C3%B4tel_de_ville_de_M%C3%A9rignac_%28Gironde%29.JPG)
+
+![[Carte_Mérignac.png]]
 ###### Questions
 
-[[Quelle]] ville [[française]], située dans le département de la [[Gironde]], abrite l'aéroport international qui sert principalement la métropole de [[Bordeaux]] ?
+[[Quelle]] ville [[française]], située dans le département de la [[Gironde]], abrite l'aéroport international qui sert principalement la métropole de [[Bordeaux]] ? <!-- score: 4 -->
 
 Dans quelle ville, une piste d'une base aérienne militaire célèbre a été convertie pour l'industrie cinématographique, accueillant des tournages depuis les années 1990 ?
 

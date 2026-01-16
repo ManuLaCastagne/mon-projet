@@ -25,6 +25,7 @@ questions:
  - Synonyme de spontané,  je dois mon nom à Jean Dubuffet qui répertoria mes productions.
 ---
 
+
 ![Image de Art brut](https://upload.wikimedia.org/wikipedia/commons/f/f2/Art_Brut_biennale_Hengelo_2023.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel courant artistique, initié par [[Jean Dubuffet]] en 1945, désigne des œu
 
 Comment appelle-t-on le mouvement artistique dont les créations sont souvent attribuées à des artistes autodidactes ou marginalisés, concept formalisé par [[Jean Dubuffet]] peu après [[la Seconde Guerre mondiale]] ?
 
-Quelle approche artistique, développée dans les années 1940, englobe des travaux souvent produits dans des contextes psychiatriques ou sociaux, et a été nommée par [[Jean Dubuffet]] ?
+Quelle approche artistique, développée dans les années 1940, englobe des travaux souvent produits dans des contextes psychiatriques ou sociaux, et a été nommée par [[Jean Dubuffet]] ? <!-- score: 6 -->
 
 ###### Description
 

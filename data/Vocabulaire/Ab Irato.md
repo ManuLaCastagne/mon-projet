@@ -16,11 +16,12 @@ indice_6 :
   - Phrase latine
 ---
 
+
 ![Image de Ab Irato](https://upload.wikimedia.org/wikipedia/commons/a/a1/Ab_irato%2C_S.143_%28IA_imslp-irato-s143-liszt-franz%29.pdf)
 
 ###### Questions
 
-Quelle [[locution latine]] est employée lorsque l'on prend des décisions de manière impulsive ?
+Quelle [[locution latine]] est employée lorsque l'on prend des décisions de manière impulsive ? <!-- score: 4 -->
 
 ###### Description
 

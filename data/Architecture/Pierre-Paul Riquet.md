@@ -26,11 +26,12 @@ questions:
 ---
 
 
+
 ![Image de Pierre-Paul Riquet](https://upload.wikimedia.org/wikipedia/commons/9/95/Place_Roger-Salengro_%28Toulouse%29_-_N%C2%B01_immeuble_de_Pierre-Paul_Riquet_%282e_moiti%C3%A9_du_XVIIIe_si%C3%A8cle%29.jpg)
 
 ###### Questions
 
-Quel ingénieur des [[XVIIe siècle]] a conçu et supervisé la construction du [[Canal du Midi]], terminé en 1681 ?
+Quel ingénieur des [[XVIIe siècle]] a conçu et supervisé la construction du [[Canal du Midi]], terminé en 1681 ? <!-- score: 6 -->
 
 Qui est l'architecte visionnaire du projet de génie civil permettant de relier la [[Méditerranée]] à l'[[Atlantique]] par voie fluviale au cours du [[XVIIe siècle]] ?
 

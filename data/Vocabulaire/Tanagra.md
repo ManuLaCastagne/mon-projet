@@ -22,9 +22,9 @@ indice_6 :
 
 Quel est le nom donné aux petites figurines en terre cuite fabriquées dans la ville de [[Tanagra]] en [[Béotie]] durant l'Antiquité grecque ?  
   
-Dans quelle ville de [[Béotie]] se trouve un personnage nommé [[Tanagra]] qui apparaît dans une fréquence "L'inconnu" dans l'épisode "Darmok" de [[Star Trek: The Next Generation]] ?  
+Dans quelle ville de [[Béotie]] se trouve un personnage qui apparaît dans une fréquence "L'inconnu" dans l'épisode "Darmok" de [[Star Trek: The Next Generation]] ?  
   
-Quel mot désigne à la fois une ancienne cité grecque et un concept de communication symbolique dans l'univers de [[Star Trek]] ?
+Quel mot désigne à la fois une ancienne cité grecque ainsi que des statuettes et un concept de communication symbolique dans l'univers de [[Star Trek]] ?
 
 ###### Description
 

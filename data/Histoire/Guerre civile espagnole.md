@@ -21,11 +21,12 @@ indice_6 :
 ---
 
 
+
 ![Image de Guerre civile espagnole](https://upload.wikimedia.org/wikipedia/commons/c/c0/Monument_Guerre_Civile_Espagnole_Cimeti%C3%A8re_Fontenay_Bois_4.jpg)
 
 ###### Questions
 
-Durant quel événement historique, qui s'est déroulé entre [[1936]] et [[1939]], des puissances étrangères telles que l'[[Allemagne nazie]] et l'[[Union soviétique]] ont soutenu des factions opposées, marquant une implication internationale significative ?
+Durant quel événement historique, qui s'est déroulé entre [[1936]] et [[1939]], des puissances étrangères telles que l'[[Allemagne nazie]] et l'[[Union soviétique]] ont soutenu des factions opposées, marquant une implication internationale significative ? <!-- score: 4 -->
 
 Quel conflit, éclatant en [[1936]], a vu s'opposer les [[républicains]] et les [[nationalistes]] sous la direction du général [[Francisco Franco]], aboutissant à l'établissement d'une dictature pendant près de quatre décennies ? <!-- score: 7 -->
 

@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - États-Unis
   - Années_1930
@@ -8,31 +8,29 @@ date:
   - 1895/06/10
 debut: 1895
 fin: 1952
-indice_1 : 
+indice_1:
   - Première afro-américaine à remporter un Oscar
-indice_2 : 
+indice_2:
   - Autant en emporte le vent
-indice_3 : 
+indice_3:
   - Actrice et chanteuse
-indice_4 : 
+indice_4:
   - Années 1930 et 1940
-indice_5 : 
+indice_5:
   - Rôle de Mammy
-indice_6 : 
+indice_6:
   - Hollywood
-questions:
- - En 1940, qui devint la première Afro-Américaine à remporter un Oscar grâce à son rôle dans Autant en emporte le vent, marquant ainsi une avancée significative vers la diversité dans le cinéma américain ?
 ---
 
 ![Image de Hattie McDaniel](https://upload.wikimedia.org/wikipedia/commons/3/39/Studio_publicity_Hattie_McDaniel.jpg)
 
 ###### Questions
 
-Quelle actrice, en 1940, est devenue la première Afro-Américaine à remporter un [[Oscar]] pour son rôle dans [[Autant en emporte le vent]] ? 
+Quelle actrice, en 1940, est devenue la [[première femme]] Afro-Américaine à remporter un [[Oscar]] pour son rôle dans [[Autant en emporte le vent]] ? 
 
-Qui a interprété le personnage de [[Mammy]] dans le célèbre film de 1939 et a fait l'histoire en recevant le [[Academy Award]] du meilleur second rôle féminin ? 
+En 1940, qui devint la première Afro-Américaine à remporter un Oscar grâce à son rôle dans Autant en emporte le vent, marquant ainsi une avancée significative vers la diversité dans le cinéma américain ?
 
-Quelle personnalité célèbre a fait ses débuts dans le film [[The Golden West]] en 1932 avant d'être reconnue pour son rôle iconique dans un film qui lui a valu un [[Oscar]] ?
+Qui a interprété le personnage de [[Mammy]] dans un célèbre film de 1939 et a fait l'histoire en recevant le [[Academy Award]] du meilleur second rôle féminin ? 
 
 ###### Description
 

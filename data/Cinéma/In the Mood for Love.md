@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de In the Mood for Love](https://upload.wikimedia.org/wikipedia/commons/c/c2/In_the_mood_for_love_%2830111112503%29.jpg)
 
 ###### Questions
 
 Quel film de [[Wong Kar-wai]], sorti en 2000, est connu pour son ambiance visuelle et sonore qui évoque le [[Hong Kong]] des années 1960 ?
 
-Dans quel film le compositeur [[Michael Galasso]] a-t-il contribué avec une bande-son mémorable, accentuant l'atmosphère mélancolique et nostalgique ? <!-- score: 3 -->
+Dans quel film le compositeur [[Michael Galasso]] a-t-il contribué avec une bande-son mémorable, accentuant l'atmosphère mélancolique et nostalgique ? <!-- score: 2 -->
 
 Quel célèbre film asiatique est régulièrement cité comme l'un des plus grands films du début du XXIe siècle, souvent discuté pour ses performances émouvantes de [[Tony Leung Chiu-wai]] et [[Maggie Cheung]] ?
 

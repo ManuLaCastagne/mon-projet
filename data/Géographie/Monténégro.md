@@ -25,14 +25,15 @@ questions:
 ---
 
 
-![Image de Monténégro](https://upload.wikimedia.org/wikipedia/commons/a/a9/Monasterio_de_San_Jorge%2C_Perast%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_21.JPG)
 
-![[Carte_Monténégro.png]]
+![Image de Monténégro](https://upload.wikimedia.org/wikipedia/commons/a/a9/Monasterio_de_San_Jorge%2C_Perast%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_21.JPG)
+
+![[Carte_Monténégro.png]]
 ###### Questions
 
 Quelle ancienne nation des [[Balkans]] a proclamé son indépendance le 3 juin 2006, mettant fin à son union avec la Serbie ?
 
-Quel pays européen, bien que de petite taille, possède un parc national nommé [[Durmitor]], patrimoine mondial de l'[[UNESCO]] depuis 1980 ? <!-- score: 4 -->
+Quel pays européen, bien que de petite taille, possède un parc national nommé [[Durmitor]], patrimoine mondial de l'[[UNESCO]] depuis 1980 ? <!-- score: 3 -->
 
 Quel pays, ayant pour capitale [[Podgorica]], utilise l'euro comme monnaie officielle bien qu'il ne soit pas membre de la [[zone euro]] ?
 

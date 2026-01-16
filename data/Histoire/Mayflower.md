@@ -30,8 +30,7 @@ Quel était le nom du navire qui a transporté les [[Pères pèlerins]] vers le 
 
 Quel navire emblématique a signé le début de la colonisation anglaise en [[Amérique du Nord]] en novembre [[1620]] ?
 
-Quel navire a donné son nom à un pacte historique signé à bord par les colons, connu sous le nom de [[Compact du Mayflower]], en [[1620]] ?
-
+Quel navire a donné son nom à un pacte historique signé à bord par les colons en [[1620]] ? <!-- score: 5 -->
 ###### Description
 
 Le [[Mayflower]] était un navire marchand anglais célèbre pour avoir transporté les [[Pèlerins]], un groupe de colons puritains, d'[[Angleterre]] vers le [[Nouveau Monde]] en 1620.

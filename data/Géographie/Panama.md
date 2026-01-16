@@ -29,12 +29,6 @@ questions:
 ![[Carte_Panama.png]]
 ###### Questions
 
-Quel événement historique a conduit à l'indépendance de [[Panama]] vis-à-vis de la [[Colombie]] en 1903 ?
-
-Quel traité signé en 1977 a progressivement transféré le contrôle complet du [[canal de Panama]] des États-Unis à [[Panama]], terminé en 1999 ?
-
-Quel pays est devenu l'un des principaux points de passage pour la ruée vers l'or en [[Sport/Californie]] à partir de 1848 en raison de la position stratégique de [[Panama]] ?
-
 ###### Description
 
 Le [[Panama]], devenu indépendant de la Colombie en 1903, a été influencé de manière déterminante par le projet stratégique du [[canal de Panama]], dont la construction a débuté en 1881 sous l'égide des Français avant d'être reprise par les Américains en 1904. Le président américain [[Theodore Roosevelt]] a joué un rôle clé dans l'acquisition des droits pour les États-Unis, aboutissant à l'inauguration du canal en 1914. Ce passage maritime, vital pour le commerce mondial, a redéfini la géopolitique de la région et a stimulé l'économie panaméenne. En 1999, le contrôle du canal a été pleinement transféré au [[Panama]], marquant une étape symbolique dans sa souveraineté nationale.

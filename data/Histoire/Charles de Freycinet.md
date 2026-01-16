@@ -26,13 +26,14 @@ indice_6:
 
 
 
+
 ![Image de Charles de Freycinet](https://upload.wikimedia.org/wikipedia/commons/4/41/Freycinet%2C_de_Saulces_de%2C_Charles%2C_Nadar%2C_Gallica.jpg)
 
 ###### Questions
 
 En 1879, pour améliorer les conditions de navigation, quel ministre des Travaux publics a lancé un "Plan" qui porte son nom ?
 
-Quel homme politique français a été Premier ministre à quatre reprises entre [[1879]] et [[1892]] ? <!-- score: 3 -->
+Quel homme politique français a été Premier ministre à quatre reprises entre [[1879]] et [[1892]] ? <!-- score: 2 -->
 
 Qui a donné son nom à un plan ambitieux de modernisation des chemins de fer français à la fin du [[19e siècle]] ?
 

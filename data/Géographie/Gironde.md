@@ -30,12 +30,13 @@ questions:
 
 
 
+
 ![Image de Gironde](https://upload.wikimedia.org/wikipedia/commons/7/71/Mortagne-sur-Gironde_Civellier_Mayflowers_2013.jpg)
 
 ![[Carte_Gironde.png]]
 ###### Questions
 
-Quelle est le département français où se trouve le [[Phare de Cordouan]], souvent appelé le "roi des phares" et inscrit au [[Patrimoine mondial de l'UNESCO]] en 2021 ? <!-- score: 2 -->
+Quelle est le département français où se trouve le [[Phare de Cordouan]], souvent appelé le "roi des phares" et inscrit au [[Patrimoine mondial de l'UNESCO]] en 2021 ? <!-- score: 3 -->
 
 Dans quel département de la région [[Nouvelle-Aquitaine]] peut-on observer le [[Bassin d'Arcachon]] et la plus haute dune d'Europe, la [[Dune du Pilat]] ?
 

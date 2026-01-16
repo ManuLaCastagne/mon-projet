@@ -22,6 +22,7 @@ questions:
  - Quel contrebandier français, condamné à mort en 1755 pour avoir volé les fonds des collecteur d'impôts pour les redistribuer aux pauvres, est devenu un héros populaire?
 ---
 
+
 ![Image de Louis Mandrin](https://upload.wikimedia.org/wikipedia/commons/0/03/Louis_Mandrin_%281725-1755%29_07.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel célèbre contrebandier français du XVIIIe siècle, né en [[1725]] à [[S
 
 Quel personnage historique a exercé une forme de banditisme social en [[1748]], devenant une légende populaire pour ses actions contre la [[ferme générale]], le système de collecte des impôts de l'époque?
 
-Quel personnage a été capturé puis exécuté sur la place de [[Valence]] le 26 mai [[1755]], marquant la fin de sa lutte contre les autorités françaises?
+Quel personnage a été capturé puis exécuté sur la place de [[Valence]] le 26 mai [[1755]], marquant la fin de sa lutte contre les autorités françaises? <!-- score: 4 -->
 
 ###### Description
 

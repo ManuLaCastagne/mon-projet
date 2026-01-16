@@ -16,11 +16,12 @@ indice_6 :
   - conseils tribaux
 ---
 
+
 ![Image de Makhzen](https://upload.wikimedia.org/wikipedia/commons/0/00/Haouch_du_bureau_arabe_de_Tlemcen_%28Alg%C3%A9rie%29%2C_recevant_un_message_des_mains_d%27un_Mkazni_du_ka%C3%AFd_d%27Oudjda_%28Maroc%29.jpg)
 
 ###### Questions
 
-Quel est le terme utilisé pour désigner l’administration traditionnelle du [[Maroc]], souvent associée à la monarchie marocaine ?  
+Quel est le terme utilisé pour désigner l’administration traditionnelle du [[Maroc]], souvent associée à la monarchie marocaine ? <!-- score: 2 -->
 
 Quel mot est utilisé pour décrire l’influence centrale du [[gouvernement]] marocain, notamment dans le contexte contemporain ?  
 

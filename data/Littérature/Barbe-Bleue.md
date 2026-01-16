@@ -25,6 +25,7 @@ questions:
 ---
 
 
+
 ![Image de Barbe-Bleue](https://upload.wikimedia.org/wikipedia/commons/8/8c/Barbe_Bleue_ch%C3%A2teau_de_Breteuil.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Dans quel conte écrit par [[Charles Perrault]] en 1697 un personnage possède-t
 
 Dans quelle œuvre littéraire publiée pour la première fois dans « [[Histoires ou contes du temps passé]], avec des moralités » trouve-t-on un personnage qui cache sa véritable nature derrière une richesse ostentatoire et une vie de château ?
 
-Quel personnage de conte, inspiré vaguement d'un célèbre fait divers impliquant [[Gilles de Rais]], est connu pour ses mariages successifs et sa fameuse clé interdite ? <!-- score: 4 -->
+Quel personnage de conte, inspiré vaguement d'un célèbre fait divers impliquant [[Gilles de Rais]], est connu pour ses mariages successifs et sa fameuse clé interdite ? <!-- score: 3 -->
 
 ###### Description
 

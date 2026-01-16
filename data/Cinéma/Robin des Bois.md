@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Robin des Bois](https://upload.wikimedia.org/wikipedia/commons/a/a2/Robin_des_Bois_%28com%C3%A9die_musicale%29_02.JPG)
 
 ###### Questions
 
 Dans quel film d'animation de [[Disney]] sorti en 1973, le personnage principal est-il représenté par un renard rusé ?
 
-Quelle célèbre légende anglaise a été incarnée par des acteurs tels que [[Kevin Costner]] en 1991 et [[Russell Crowe]] en 2010 dans leur version cinématographique ? <!-- score: 4 -->
+Quelle célèbre légende anglaise a été incarnée par des acteurs tels que [[Kevin Costner]] en 1991 et [[Russell Crowe]] en 2010 dans leur version cinématographique ? <!-- score: 3 -->
 
 Dans quel film sorti en 1991 le personnage principal est-il soutenu par un groupe d'amis connus sous le nom des "[[Joyeux Compagnons]]" ?
 

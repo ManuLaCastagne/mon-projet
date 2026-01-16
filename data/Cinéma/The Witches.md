@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de The Witches](https://upload.wikimedia.org/wikipedia/commons/4/4d/Witches_Scale%2C_Oudewater.jpg)
 
 ###### Questions
 
 Dans quelle adaptation cinématographique de [[Roald Dahl]] sortie en 1990, [[Anjelica Huston]] interprète-t-elle le rôle de la [[Grand High Witch]] ?
 
-Quel film réalisé par [[Robert Zemeckis]] en 2020 met en vedette [[Anne Hathaway]] reprenant le rôle iconique précédemment incarné par [[Anjelica Huston]] en tant que la [[Grand High Witch]] ? <!-- score: 3 -->
+Quel film réalisé par [[Robert Zemeckis]] en 2020 met en vedette [[Anne Hathaway]] reprenant le rôle iconique précédemment incarné par [[Anjelica Huston]] en tant que la [[Grand High Witch]] ? <!-- score: 4 -->
 
 Dans quel film de 1990, la transformation de [[Luke]], un personnage central, en souris est un événement central de l'intrigue, apportant une touche de magie noire et de sorcellerie ?
 ###### Description

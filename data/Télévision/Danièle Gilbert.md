@@ -23,13 +23,14 @@ questions:
 ---
 
 
-![Image de Danièle Gilbert](https://upload.wikimedia.org/wikipedia/commons/4/46/Dani%C3%A8le_Gilbert_et_Fr%C3%A9d%C3%A9ric_Mitterrand_%28cropped%29.jpg)
+
+![Image de Danièle Gilbert](https://upload.wikimedia.org/wikipedia/commons/4/46/Dani%C3%A8le_Gilbert_et_Fr%C3%A9d%C3%A9ric_Mitterrand_%28cropped%29.jpg)
 
 ###### Questions
 
 Quelle animatrice française a été surnommée "la grande bringue" en raison de sa taille et de son charisme à la télévision dans les années 1970 ?
 
-Quel visage familier de la télévision a présenté l'émission culte [[Midi Première]] sur [[TF1]] de 1975 à 1982 ? <!-- score: 3 -->
+Quel visage familier de la télévision a présenté l'émission culte [[Midi Première]] sur [[TF1]] de 1975 à 1982 ? <!-- score: 2 -->
 
 Qui a fait une apparition controversée dans le film [[La Chanson de Roland]] en 1978, jouant une version d'elle-même dans une émission télévisée médiévale ?
 

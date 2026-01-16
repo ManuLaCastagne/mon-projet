@@ -34,10 +34,7 @@ questions:
 
 Quelle région naturelle de France est surnommée le "grenier à blé de la France" en raison de sa production agricole intensive, notamment de céréales ?
 
-Dans quelle région se trouve la ville de [[Châteaudun]], qui fut le théâtre d'un siège mémorable en 1870 pendant la Guerre franco-prussienne ?
-
-Quelle partie de la région naturelle de la [[Beauce]] est traversée par le fleuve [[Loire]], le plus long fleuve de France ?
-
+Dans quelle région se trouve la ville de [[Châteaudun]], qui fut le théâtre d'un siège mémorable en 1870 pendant la Guerre franco-prussienne ? <!-- score: 4 -->
 ###### Description
 
 La [[Beauce]] est une vaste plaine agricole située au sud-ouest de [[Paris]], connue pour ses paysages ouverts et ses terres fertiles, faisant d'elle le "grenier à blé" de la France.

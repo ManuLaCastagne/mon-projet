@@ -16,11 +16,12 @@ indice_6 :
   - Tropiques
 ---
 
+
 ![Image de Leishmania](https://upload.wikimedia.org/wikipedia/commons/b/b4/Leishmania_donovani_01.png)
 
 ###### Questions
 
-Quelle est la maladie transmise par les phlébotomes, aussi appelée « la [[mouche des sables]] », qui infecte principalement les mammifères?
+Quelle est la maladie transmise par les phlébotomes, aussi appelée « la [[mouche des sables]] », qui infecte principalement les mammifères? <!-- score: 4 -->
 
 ###### Description
 

@@ -24,17 +24,15 @@ questions:
   - J'évoque le printemps et les marronniers en fleurs. Chanson dont le titre associe un mois de l'année à la capitale de la France, je suis…
 ---
 
-
 ![Image de Paris in April](https://upload.wikimedia.org/wikipedia/commons/f/f3/La_D%C3%A9fense%2C_Paris_April_2012.jpg)
 
 ###### Questions
 
 Dans quelle chanson de [[Ella Fitzgerald]] et [[Louis Armstrong]], sortie en 1950, une célèbre ville française est-elle mentionnée ?
 
-Quel standard de jazz écrit par [[Vernon Duke]] a été popularisé par de nombreux musiciens tels que [[Frank Sinatra]] et [[Charlie Parker]] ? <!-- score: 4 -->
+Quel standard de jazz écrit par [[Vernon Duke]] a été popularisé par de nombreux musiciens tels que [[Frank Sinatra]] et [[Charlie Parker]] ? <!-- score: 3 -->
 
 Dans quel morceau de [[jazz]] de l'année 1932, repris par [[Billie Holiday]] en 1952, parle-t-on du mois d'avril dans une capitale européenne ?
-
 ###### Description
 
 [[Paris in April]] est une chanson emblématique du répertoire jazz qui a été enregistrée par [[Ella Fitzgerald]] en 1956 pour l'album "Ella at the Opera House".  

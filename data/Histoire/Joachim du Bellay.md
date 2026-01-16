@@ -22,6 +22,7 @@ indice_6:
 
 
 
+
 ![Image de Joachim du Bellay](https://upload.wikimedia.org/wikipedia/commons/a/a8/Joachim_du_Bellay_%281522-1560%29.jpg)
 
 ###### Questions

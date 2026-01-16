@@ -22,11 +22,12 @@ questions:
  - Quel ancien secrétaire général de l'ONU, né en Égypte, a aussi dirigé l'Organisation internationale de la francophonie, de 1998 à 2002 ?
 ---
 
+
 ![Image de Boutros Boutros-Ghali](https://upload.wikimedia.org/wikipedia/commons/7/7e/Boutros_Boutros_Ghali_%281993%29.jpg)
 
 ###### Questions
 
-Quel homme politique égyptien a été le premier Africain à occuper le poste de [[Secrétaire général des Nations unies]] de [[1992]] à [[1996]] ?  
+Quel homme politique égyptien a été le premier Africain à occuper le poste de [[Secrétaire général des Nations unies]] de [[1992]] à [[1996]] ? <!-- score: 4 -->
 
 Quel diplomate a contribué à la négociation de l'accord de [[Camp David]] de [[1978]] entre [[Israël]] et [[Égypte]] avant de devenir une figure importante des [[Nations Unies]] ?  
 

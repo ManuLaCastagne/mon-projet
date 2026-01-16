@@ -20,11 +20,12 @@ indice_6 :
   - La Bête humaine
 ---
 
+
 ![Image de Jean Renoir](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gabrielle_et_Jean%2C_by_Pierre-Auguste_Renoir%2C_from_C2RMF_cropped.jpg)
 
 ###### Questions
 
-Quel cinéaste français, fils du célèbre peintre [[Pierre-Auguste Renoir]], a réalisé en 1939 le film culte "[[La Règle du Jeu]]", souvent considéré comme l'un des meilleurs films de l'histoire du cinéma ? 
+Quel cinéaste français, fils du célèbre peintre [[Pierre-Auguste Renoir]], a réalisé en 1939 le film culte "[[La Règle du Jeu]]", souvent considéré comme l'un des meilleurs films de l'histoire du cinéma ? <!-- score: 5 -->
 
 Qui est le réalisateur du film de 1937 "[[La Grande Illusion]]", présenté comme l'un des premiers films à avoir été sélectionnés pour le [[Festival de Cannes]] en 1939, bien que l'événement ait été annulé en raison du déclenchement de la [[Seconde Guerre mondiale]] ?
 

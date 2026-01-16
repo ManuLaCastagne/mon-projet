@@ -20,11 +20,12 @@ indice_6:
   - voyage à travers le monde
 ---
 
+
 ![Image de Les Aventures de Colargol](https://upload.wikimedia.org/wikipedia/commons/6/65/Colargol_with_company.JPG)
 
 ###### Questions
 
-Personnage d'une série dont les aventures diffusées dès 1970 furent adaptées par Albert Barillé. Je suis un petit animal vivant dans la forêt de bois joli, je chante faux jusqu'à ce que…
+Personnage d'une série dont les aventures diffusées dès 1970 furent adaptées par Albert Barillé. Je suis un petit animal vivant dans la forêt de bois joli, je chante faux jusqu'à ce que… <!-- score: 3 -->
 
 Dans quelle série télévisée mise en musique par [[Mireille (compositrice)]] voit-on un ours qui chante en fa, en sol ?
 

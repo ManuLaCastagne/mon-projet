@@ -16,11 +16,12 @@ indice_6 :
   - Traitement de l'eau
 ---
 
+
 ![Image de Algicide](https://upload.wikimedia.org/wikipedia/commons/6/60/Peinture_algicide_et_fongicide.jpg)
 
 ###### Questions
 
-Quel produit chimique est utilisé pour éliminer les [[algues]] indésirables dans les plans d'eau ?
+Quel produit chimique est utilisé pour éliminer les [[algues]] indésirables dans les plans d'eau ? <!-- score: 4 -->
 
 Quel est le terme utilisé pour décrire une substance qui inhibe la croissance des [[algues]] ?
 

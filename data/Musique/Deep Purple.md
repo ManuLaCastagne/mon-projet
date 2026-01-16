@@ -28,12 +28,7 @@ questions:
 
 ###### Questions
 
-Quelle chanson iconique du groupe [[Deep Purple]], sortie en 1972, commence par un célèbre riff de guitare souvent appris par les débutants ?
-
-Quel membre fondateur de [[Deep Purple]], connu pour son jeu de guitare innovant, a quitté le groupe en 1975 pour former [[Rainbow]] ?
-
-En 1969, quel album de [[Deep Purple]] a été enregistré en collaboration avec l'orchestre philharmonique royal de [[Londres]] dirigé par [[Malcolm Arnold]] ?
-
+Quel groupe a été fondé par [[Ian Paice]], connu pour son jeu de guitare innovant, a quitté le groupe en 1975 pour former [[Rainbow]] ? <!-- score: 5 -->
 ###### Description
 
 [[Deep Purple]] est un groupe de rock britannique, formé en 1968, qui a marqué l'histoire de la musique avec son mélange unique de hard rock et de musique classique.

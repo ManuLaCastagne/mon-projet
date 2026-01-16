@@ -18,6 +18,7 @@ questions:
 ---
 
 
+
 ![Image de Mustang](https://upload.wikimedia.org/wikipedia/commons/3/3f/P-51_Mustang_edit1.jpg)
 
 ###### Questions
@@ -26,7 +27,7 @@ Quel type de cheval sauvage, originaire des [[plaines américaines]], a évolué
 
 Quel est le nom des chevaux présents dans le [[Nevada]] qui ont été protégés par le [[Wild Free-Roaming Horses and Burros Act]] instauré en [[1971]] aux États-Unis ?
 
-Comment appelle-t-on les chevaux qui descendent des montures introduites dans le [[Mexique]] du [[XVIe siècle]] par les [[conquistadors]] et qui vivent aujourd'hui encore en liberté ? <!-- score: 4 -->
+Comment appelle-t-on les chevaux qui descendent des montures introduites dans le [[Mexique]] du [[XVIe siècle]] par les [[conquistadors]] et qui vivent aujourd'hui encore en liberté ? <!-- score: 5 -->
 
 ###### Description
 

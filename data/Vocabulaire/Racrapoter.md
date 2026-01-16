@@ -16,11 +16,12 @@ indice_6 :
   - verbe
 ---
 
+
 ![Image de Racrapoter](https://upload.wikimedia.org/wikipedia/commons/7/76/LL-Q150_%28fra%29-Lyoko%C3%AF-racrapoter.wav)
 
 ###### Questions
 
-Quel verbe français, souvent utilisé dans les régions de France, décrit l'action de rétrécir ou de devenir fripé sous l'effet du froid ou de la sécheresse ?  
+Quel verbe français, souvent utilisé dans les régions de France, décrit l'action de rétrécir ou de devenir fripé sous l'effet du froid ou de la sécheresse ? <!-- score: 4 -->
 
 Quel terme utilise-t-on pour parler des feuilles qui se contractent ou des fruits qui perdent leur eau et leur volume dans l'œuvre de [[Marcel Pagnol]] ?  
 

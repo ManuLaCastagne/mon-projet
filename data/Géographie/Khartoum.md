@@ -24,6 +24,7 @@ indice_6:
 ---
 
 
+
 ![Image de Khartoum](https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset_Khartoum.jpg)
 
 ![[Carte_Khartoum.png]]
@@ -33,7 +34,7 @@ Quelle ville d'Afrique, capitale du Soudan, se trouve au confluent du Nil blanc 
 
 Quelle ville fut le théâtre de la bataille de 1885 où le [[général Charles Gordon]] perdit la vie lors du siège mené par le Mahdi ? <!-- score: 4 -->
 
-Dans quelle ville d'[[Afrique]] la rébellion de 1976 menée par le [[Front démocratique révolutionnaire du peuple]] a-t-elle eu lieu ?
+Dans quelle ville d'[[Afrique]] la rébellion de 1976 menée par le [[Front démocratique révolutionnaire du peuple]] a-t-elle eu lieu ? <!-- score: 4 -->
 
 ###### Description
 

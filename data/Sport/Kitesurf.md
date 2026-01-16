@@ -22,13 +22,14 @@ questions:
  - Quel sport nautique consiste à surfer sur une planche tracté par un cerf-volant ?
 ---
 
+
 ![Image de Kitesurf](https://upload.wikimedia.org/wikipedia/commons/7/71/Jesse_Richman_-_Pierre_Bouras_1.jpg)
 
 ###### Questions
 
 Quel sport nautique, né dans les années [[1990]] à [[Hawaï]], utilise une grande aile pour propulser les pratiquants sur l'eau, semblable à une planche de surf ?
 
-Quelle discipline a été introduite pour la première fois aux [[Jeux olympiques de la jeunesse]] en 2018 à [[Buenos Aires]], captivant le public par ses figures acrobatiques sur l'eau ?
+Quelle discipline a été introduite pour la première fois aux [[Jeux olympiques de la jeunesse]] en 2018 à [[Buenos Aires]], captivant le public par ses figures acrobatiques sur l'eau ? <!-- score: 4 -->
 
 Quel sport spectaculaire permettait aux aventuriers comme [[Raphaël Salles]] d'établir des records de vitesse et d'acrobaties à partir de la fin des [[années 90]], en alliant planche et cerf-volant ?
 

@@ -1,34 +1,35 @@
 ---
-tags: 
+tags:
   - Littérature
-  - Alfred_de_Musset
   - Poète
   - Dramaturge
+  - Certifié
+  - Années_1830
 date:
   - 1810/12/11
 debut: 1810
 fin: 1857
-indice_1 : 
+indice_1:
   - Les Caprices de Marianne
-indice_2 : 
+indice_2:
   - poète romantique
-indice_3 : 
+indice_3:
   - Lorenzaccio
-indice_4 : 
+indice_4:
   - La Confession d'un enfant du siècle
-indice_5 : 
+indice_5:
   - écrivain du XIXe siècle
-indice_6 : 
+indice_6:
   - George Sand
-questions:
- - Je vais y rencontrer les écrivains de la génération romantique et me faire connaître par mes "Contes d'Espagne et d'Italie". Auteur de pièces comme "Lorenzaccio" ou...
 ---
 
-![Image de Alfred de Musset](https://upload.wikimedia.org/wikipedia/commons/b/b3/Paris_Tombe_Musset_2013.jpg)
+![Image de Alfred de Musset](https://upload.wikimedia.org/wikipedia/commons/2/29/Landelle%2C_Charles_-_Alfred_de_Musset_-_Mus%C3%A9e_d%27Orsay.png)
 
 ###### Questions
 
 Quel poète et dramaturge français, célèbre pour ses œuvres romantiques, a eu une relation tumultueuse avec [[George Sand]] au cours des années 1833 et 1834 ? 
+
+Quel écrivain romantique se fait connaître par ses pièces "Contes d'Espagne et d'Italie" et "[[Les Caprices de Marianne]]" ?
 
 Quel auteur de [[Lorenzaccio]], une pièce inspirée des événements politiques de [[Florence (ville)]] au [[XVIe siècle]], a également été élu à l'[[Académie française]] en 1852 ?
 

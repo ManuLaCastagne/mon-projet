@@ -24,13 +24,15 @@ questions:
  - A quel compositeur doit-on la musique de Star Wars ?
 ---
 
+
+
 ![Image de John Williams](https://upload.wikimedia.org/wikipedia/commons/a/a4/John_Williams_2024.jpg)
 
 ###### Questions
 
 Quel célèbre compositeur, bien connu pour sa musique dans [[Star Wars]], a remporté l'Oscar de la meilleure musique originale pour le film [[Jaws]] en 1976 ?
 
-Qui a composé la célèbre musique du film [[E.T. l'extra-terrestre]] et a reçu un Oscar pour ce travail en 1983 ?
+Qui a composé la célèbre musique du film [[E.T. l'extra-terrestre]] et a reçu un Oscar pour ce travail en 1983 ? <!-- score: 4 -->
 
 Quel compositeur a commencé sa collaboration avec [[Steven Spielberg]] en 1974 avec le film [[The Sugarland Express]] ?
 

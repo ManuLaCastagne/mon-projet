@@ -32,9 +32,6 @@ questions:
 Quel photographe britannique, connu pour son approche satirique de la société moderne, a intégré en 1994 l'agence [[Magnum Photos]] ?
 
 Quel artiste, dont les clichés documentent ironiquement la culture du tourisme de masse, a été commissaire de l'exposition "Only in [[England]]" au [[Science and Media Museum]] en 2013 ?
-
-Quel membre de la prestigieuse Royal Academy of Arts a publié en 2004 le livre "[[Martin Parr]]" dans la collection [[Phaidon 55]] ?
-
 ###### Description
 
 [[Martin Parr]] est un photographe britannique né en 1952 à [[Epsom]], connu pour capturer la vie quotidienne avec humour et ironie à travers ses clichés colorés et saturés.  

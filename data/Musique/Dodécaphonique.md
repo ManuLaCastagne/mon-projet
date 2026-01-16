@@ -24,13 +24,14 @@ questions:
  - Quel adjectif, forgé par René Leibovitz, qualifie la musique de Schoenberg, dont les règles de composition...
 ---
 
-![Image de Dodécaphonique](https://upload.wikimedia.org/wikipedia/commons/9/9f/Variations_for_orchestra_theme_cowell.jpg)
+
+![Image de Dodécaphonique](https://upload.wikimedia.org/wikipedia/commons/9/9f/Variations_for_orchestra_theme_cowell.jpg)
 
 ###### Questions
 
 Quel est le terme musical, développé par [[Arnold Schoenberg]] en 1923, qui utilise les douze demi-tons de l'échelle chromatique de manière systématique et égale?
 
-Quel est le nom de la technique musicale, souvent associée à la [[Seconde École de Vienne]], qui a été principalement utilisée dans les compositions des années 1920 et 1930?
+Quel est le nom de la technique musicale, souvent associée à la [[Seconde École de Vienne]], qui a été principalement utilisée dans les compositions des années 1920 et 1930? <!-- score: 6 -->
 
 Quel est le style de composition qui a révolutionné la musique classique en intégrant une série de douze tons pour la première fois dans la pièce «[[Suite pour piano]] op. [[25]]»?
 

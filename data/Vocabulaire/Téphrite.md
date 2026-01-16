@@ -16,6 +16,7 @@ indice_6 :
   - Volcanisme
 ---
 
+
 ![Image de Téphrite](https://upload.wikimedia.org/wikipedia/commons/0/07/Mayener_Basaltlava.jpg)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quel type de roche volcanique est principalement composé de feldspath et de né
 
 Comment appelle-t-on une roche volcanique qui est pauvre en silice et se forme souvent dans les champs volcaniques basaltiques sous sa forme effusive ?
 
-Quelle roche peut être associée aux éruptions volcaniques des champs volcaniques de [[Puy de Dôme]] en [[France]] ?
+Quelle roche peut être associée aux éruptions volcaniques des champs volcaniques de [[Puy de Dôme]] en [[France]] ? <!-- score: 3 -->
 
 ###### Description
 

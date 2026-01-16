@@ -20,6 +20,7 @@ indice_6:
   - ski alpin
 ---
 
+
 ![Image de Chamonix 1924](https://upload.wikimedia.org/wikipedia/commons/5/5c/1924WOlympicPoster.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Dans quelle ville et en quelle année ont eu lieu les premiers [[Jeux Olympiques
 
 Dans quelle station de montagne emblématique de [[Haute-Savoie]] a été inauguré en 1924 un événement sportif majeur ?  
 
-Quel événement sportif majeur s'est tenu à [[Chamonix]] en 1924, marquant la première édition de cette compétition hivernale internationale ?
+Quel événement sportif majeur s'est tenu à [[Chamonix]] en 1924, marquant la première édition de cette compétition hivernale internationale ? <!-- score: 6 -->
 
 ###### Description
 

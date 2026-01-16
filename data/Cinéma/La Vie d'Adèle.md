@@ -20,11 +20,12 @@ indice_6 :
   - Adaptation de Le bleu est une couleur chaude
 ---
 
+
 ![Image de La Vie d'Adèle](https://upload.wikimedia.org/wikipedia/commons/c/c9/La_Vie_d%27Ad%C3%A8le_casting_Cannes_2013.jpg)
 
 ###### Questions
 
-Quel film, réalisé par [[Abdellatif Kechiche]], a remporté la [[Palme d'Or]] au [[Festival de Cannes]] en [[2013]]?
+Quel film, réalisé par [[Abdellatif Kechiche]], a remporté la [[Palme d'Or]] au [[Festival de Cannes]] en [[2013]]? <!-- score: 3 -->
 
 Quelle œuvre cinématographique est une adaptation de la bande dessinée [[Le bleu est une couleur chaude]] de [[Julie Maroh]]?
 

@@ -16,11 +16,12 @@ indice_6 :
   - Navigation
 ---
 
+
 ![Image de Libeccio](https://upload.wikimedia.org/wikipedia/commons/3/3f/Libeccio_in_affondamento1.jpg)
 
 ###### Questions
 
-Quel vent chaud et sec souffle sur les côtes de [[Corse]] et de [[Toscane]] en provenance du sud-ouest en [[Méditerranée]] ?
+Quel vent chaud et sec souffle sur les côtes de [[Corse]] et de [[Toscane]] en provenance du sud-ouest en [[Méditerranée]] ? <!-- score: 4 -->
 
 Quel phénomène météorologique est connu pour apporter de l'air humide et des nuages chargés de pluie en [[Italie]] à certaines périodes de l'année ?
 

@@ -30,10 +30,9 @@ questions:
 
 En quelle année [[Robert Desnos]] a-t-il été arrêté par la [[Gestapo]] pour ses activités dans la [[Résistance française]] pendant l'[[Occupation de la France par l'Allemagne nazie]] ?
 
-Quel recueil de poésie de [[Robert Desnos]] publié en 1923 témoigne de son engagement avec le mouvement [[surréaliste]] et l'idée des [[rêves éveillés]] ?
+Qui a publié en 1923 un recueil de poèmes qui témoigne de son engagement avec le mouvement [[surréaliste]] et l'idée des [[rêves éveillés]] ? <!-- score: 5 -->
 
 Dans quel camp est mort [[Robert Desnos]] en 1945, après avoir contracté le [[typhus]] peu avant la libération du camp ?
-
 ###### Description
 
 [[Robert Desnos]] est un poète français emblématique du mouvement surréaliste, né en 1900 à [[Paris]]. 

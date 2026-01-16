@@ -2,6 +2,7 @@
 tags:
   - DCDL
   - Anatomie
+  - Certifié
 indice_1:
   - ancien Érythème
 indice_2:
@@ -16,19 +17,13 @@ indice_6:
   - piqûre d'insecte
 ---
 
-
-
 ![Image de Vibice](https://upload.wikimedia.org/wikipedia/commons/b/b6/Whirlabout_%28Polites_vibex_praeceps%29_mating.jpg)
 
 ###### Questions
 
 Quel aspect clinique du [[purpura]] avec la [[pétéchie]] et l'[[ecchymose]] est visible par des stries cutanées ?
 
-Quel est le terme médical utilisé pour décrire une sorte de lésion cutanée en relief résultant souvent d'une blessure ou d'une pression sur la peau ? <!-- score: 2 -->
-
-Lors d'une réaction allergique ou d'une piqûre d'insecte, quelle marque rouge, souvent gonflée, peut apparaître sur la peau en cas de démangeaison ou d'irritation ?
-
-Dans le domaine dermatologique, comment appelle-t-on une marque de couleur rouge ou violette qui se forme sur la peau, notamment après une friction ou un choc, et qui est parfois confondue avec un [[hématome]] ?
+Quel est le terme médical utilisé pour une ecchymose linéaire, et pour décrire une sorte de lésion cutanée en relief résultant souvent d'une blessure ou d'une pression sur la peau ? <!-- score: 3 -->
 
 ###### Description
 

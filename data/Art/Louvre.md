@@ -7,7 +7,7 @@ tags:
   - XVIIIe
 date: 1793
 debut: 1190
-fin: 
+fin: 1793
 indice_1:
   - Paris
 indice_2:
@@ -22,6 +22,7 @@ indice_6:
   - Arts
 ---
 
+
 ![Image de Le Louvre](https://upload.wikimedia.org/wikipedia/commons/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel musée, inscrit au patrimoine mondial de l'UNESCO, était autrefois une for
 
 En 1793, dans quelle ancienne résidence royale parisienne a-t-on ouvert au public le musée appelé [[Muséum]] central des Arts?
 
-Quel site abritant plus de [[38 000 œuvres]] est devenu le musée le plus visité au monde avec environ [[10,2 millions]] de visiteurs en 2018 ? 
+Quel site abritant plus de [[38 000 œuvres]] est devenu le musée le plus visité au monde avec environ 10,2 millions de visiteurs en 2018 ? <!-- score: 7 -->
 
 Quel bâtiment parisien a ouvert sa célèbre [[Pyramide]] en 1989, conçue par l'architecte [[I. M. Pei]] ?
 

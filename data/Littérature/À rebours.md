@@ -24,13 +24,14 @@ questions:
  - En 1884, dans quel roman de Huysmans le duc des Esseintes tente-t-il de repousser ses hallucinations olfactives en créant des parfums à rebours ?
 ---
 
+
 ![Image de À rebours](https://upload.wikimedia.org/wikipedia/commons/8/85/Huysmans_-_A_Rebours%2C_Cr%C3%A8s%2C_1922.djvu)
 
 ###### Questions
 
 Quel est le livre écrit par [[Joris-Karl Huysmans]] publié en 1884 qui est considéré comme le manifeste du mouvement [[Décadentisme]] ?
 
-Quel ouvrage raconte l'histoire de [[Jean des Esseintes]], un aristocrate qui se retire de la société pour mener une vie de solitude absolue et d'artifices raffinés ?
+Quel ouvrage raconte l'histoire de [[Jean des Esseintes]], un aristocrate qui se retire de la société pour mener une vie de solitude absolue et d'artifices raffinés ? <!-- score: 4 -->
 
 Quel roman a inspiré la pièce jaune recouverte de percaline dans le célèbre roman [[Le Portrait de Dorian Gray]] de [[Oscar Wilde]], publié en 1890 ?
 

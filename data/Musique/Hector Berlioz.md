@@ -24,6 +24,7 @@ questions:
  - Qui a arrangé la Marseillaise en 1820 ?
 ---
 
+
 ![Image de Hector Berlioz](https://upload.wikimedia.org/wikipedia/commons/2/28/Berlioz_Petit_BNF_Gallica.png)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel compositeur français a écrit la Symphonie fantastique en 1830, une œuvre
 
 Quel musicien est reconnu pour avoir publié un grand traité d'[[instrumentation]] et d'[[orchestration]] modernes en 1844, influençant considérablement l'art de l'orchestration ?
 
-Quel compositeur a été le chef d'orchestre du premier concert de l'[[Exposition universelle de Paris]] en 1855, interprétant alors des œuvres à grande échelle dans la capitale française ?
+Quel compositeur a été le chef d'orchestre du premier concert de l'[[Exposition universelle de Paris]] en 1855, interprétant alors des œuvres à grande échelle dans la capitale française ? <!-- score: 4 -->
 
 ###### Description
 

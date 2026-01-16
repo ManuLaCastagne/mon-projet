@@ -25,11 +25,12 @@ questions:
  - En 1854, à quel peintre français chef de file du mouvement réaliste doit-on "Les Cribleuses de blé" ?
 ---
 
+
 ![Image de Gustave Courbet](https://upload.wikimedia.org/wikipedia/commons/a/a0/Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg)
 
 ###### Questions
 
-Quel peintre réaliste français a créé le scandale avec son œuvre [[L'Origine du monde]] en 1866 ?
+Quel peintre réaliste français a créé le scandale avec son œuvre [[L'Origine du monde]] en 1866 ? <!-- score: 7 -->
 
 Quel artiste, connu pour son engagement contre l'Académie des Beaux-Arts, a ouvert sa propre exposition en face de l'[[Exposition Universelle de 1855]] à Paris ?
 

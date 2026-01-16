@@ -25,11 +25,12 @@ questions:
 ---
 
 
+
 ![Image de Gommora](https://upload.wikimedia.org/wikipedia/commons/3/33/Il_Paese_-_giornale_della_Democrazia_friulana_n._37_%281911%29_%28IA_IlPaese-37-1911%29.pdf)
 
 ###### Questions
 
-Dans quel film italien de 2008, réalisé par [[Matteo Garrone]], suit-on l'influence du crime organisé, en particulier la [[Camorra]], dans la région de [[Naples]] et de [[Caserta]] ? <!-- score: 4 -->
+Dans quel film italien de 2008, réalisé par [[Matteo Garrone]], suit-on l'influence du crime organisé, en particulier la [[Camorra]], dans la région de [[Naples]] et de [[Caserta]] ? <!-- score: 3 -->
 
 Quel ouvrage de [[Roberto Saviano]], publié en 2006, a inspiré un film du même nom sorti en 2008, abordant les activités d'une organisation criminelle napolitaine ?
 

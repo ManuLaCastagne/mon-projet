@@ -24,6 +24,7 @@ questions:
 
 
 
+
 ![Image de Loto](https://upload.wikimedia.org/wikipedia/commons/f/f0/Lockout_tagout_hasp.svg)
 
 ###### Questions

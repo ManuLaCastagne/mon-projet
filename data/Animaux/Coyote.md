@@ -17,13 +17,14 @@ questions:
  - Quel canidé d'Amérique du Nord, voisin du loup..
 ---
 
+
 ![Image de Coyote](https://upload.wikimedia.org/wikipedia/commons/c/ce/Canis_latrans_%28Yosemite%2C_2009%29.jpg)
 
 ###### Questions
 
 Quel animal a été le sujet de la chanson "Roadrunner VS. [[Coyote]]" de [[Warner Bros.]] créée en [[1949]] ?
 
-Quel canidé a vu sa population augmenter de manière significative depuis les années [[1990]] malgré les tentatives de réduction de leur nombre aux [[États-Unis]] ?
+Quel canidé a vu sa population augmenter de manière significative depuis les années [[1990]] malgré les tentatives de réduction de leur nombre aux [[États-Unis]] ? <!-- score: 4 -->
 
 Quel animal a été mentionné dans le discours de [[Mark Twain]] en [[1883]], décrivant ses capacités de survie dans le livre "The [[Hopkins]] Wolves" ?
 

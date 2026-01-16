@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Saint-Just](https://upload.wikimedia.org/wikipedia/commons/c/c4/Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg)
 
 ###### Questions
 
-Quel révolutionnaire français, membre du [[Comité de salut public]], joua un rôle clé pendant la [[Terreur]] et fut exécuté en 1794 ? <!-- score: 4 -->
+Quel révolutionnaire français, membre du [[Comité de salut public]], joua un rôle clé pendant la [[Terreur]] et fut exécuté en 1794 ? <!-- score: 5 -->
 
 Quel jeune figure de la [[Révolution française]] a prononcé le discours "De la [[Constitution de la France]]" à seulement 25 ans en 1793 ? 
 

@@ -21,13 +21,14 @@ indice_6 :
   - relation avec les médias
 ---
 
+
 ![Image de Hugo Manos]()
 
 ###### Questions
 
 Quel influenceur et chroniqueur de télévision est en couple avec [[Laurent Ruquier]] depuis 2018 ?
 
-Quel candidat a été révélé au public grâce à l'émission de télé-réalité [[Les Anges]] en 2018 ?
+Quel candidat a été révélé au public grâce à l'émission de télé-réalité [[Les Anges]] en 2018 ? <!-- score: 4 -->
 
 Quel ancien entraîneur de sport, maintenant chroniqueur sur [[TPMP People]], est connu pour être un proche collaborateur de [[NT1]] ?
 

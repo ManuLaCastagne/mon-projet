@@ -26,6 +26,7 @@ indice_6:
 
 
 
+
 ![Image de James Abbott McNeill Whistler](https://upload.wikimedia.org/wikipedia/commons/0/0a/James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg)
 
 ###### Questions
@@ -36,7 +37,7 @@ Quel artiste a présenté son tableau le plus notable, intitulé [[Whistler's Mo
 
 Quel peintre américain est connu pour la formulation de la phrase "[[l'art pour l'art]]" qui a influencé le mouvement esthétique du XIXe siècle ?
 
-Quel célèbre artiste a intenté un procès en 1878 contre le critique d'art [[John Ruskin]] pour diffamation, un procès devenu célèbre dans l'histoire de l'art ? <!-- score: 3 -->
+Quel célèbre artiste a intenté un procès en 1878 contre le critique d'art [[John Ruskin]] pour diffamation, un procès devenu célèbre dans l'histoire de l'art ? <!-- score: 2 -->
 
 ###### Description
 

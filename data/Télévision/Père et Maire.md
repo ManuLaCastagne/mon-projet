@@ -22,13 +22,14 @@ questions:
  - Série qui réunit un curé et un élu municipal…
 ---
 
-![Image de Père et Maire](https://upload.wikimedia.org/wikipedia/commons/3/32/Valentin_p%C3%A8re_et_maire._50%2C_G.6117.jpg)
+
+![Image de Père et Maire](https://upload.wikimedia.org/wikipedia/commons/3/32/Valentin_p%C3%A8re_et_maire._50%2C_G.6117.jpg)
 
 ###### Questions
 
 Dans quelle série télévisée française, diffusée à partir de [[2002]] sur [[TF1]], [[Christian Rauth]] interprète-t-il le rôle d'un maire impliqué dans sa communauté ?
 
-Quelle série, produite par [[Elephant Story]] et s'achevant en [[2009]], raconte les aventures cocasses d'un duo composé d'un prêtre et d'un maire dans un petit village français ?
+Quelle série, produite par [[Elephant Story]] et s'achevant en [[2009]], raconte les aventures cocasses d'un duo composé d'un prêtre et d'un maire dans un petit village français ? <!-- score: 4 -->
 
 Quel programme télévisé a bénéficié de la collaboration de [[Thierry Lhermitte]] en tant qu'acteur principal dans un épisode spécial en [[2005]] tout en suivant les histoires d'amitié et de solidarité dans une petite commune ?
 

@@ -22,8 +22,7 @@ indice_6 :
 
 Quel petit marsupial nocturne, vivant principalement en [[Australie]], est connu pour son nom commençant par "P" ?
 
-Quel animal rare, parfois appelé "rat-kangourou", est souvent associé à la forêt denses et aux heures crépusculaires ?
-
+Quel animal rare, parfois appelé "[[rat-kangourou]]", est souvent associé à la forêt denses et aux heures crépusculaires ? <!-- score: 4 -->
 ###### Description
 
 Le "Potorou" est un petit marsupial de la famille des [[Potoroidae]], vivant principalement en [[Australie]]. 

@@ -20,17 +20,158 @@ from html2image import Html2Image
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 output_dir = "data"
 
-### Prompts
+### Prompts bouclés et améliorés avec GPT
+prompt_description = """
+    Je veux un paragraphe descriptif sur “NOM_FICHE” (catégorie : NOM_CATEGORY) composé de quatre phrases distinctes.
 
-prompt_tags_debut = """
-    Je veux que tu me retournes des éléments sur "NOM_FICHE" (catégorie : NOM_CATEGORY), séparés uniquement par une barre verticale (|), dans l'ordre que je vais te donner :
-    Le format doit être strictement :
-    """
-prompt_tags_fin = """
-    Pour les éléments qui ne sont pas applicable, inscrit None.
-    Ne mets rien d’autre avant ou après la liste, pas de puces, pas de phrase explicative. Juste la liste, dans ce format précis.
-    Je ne veux pas d'autre mot dans ta réponse.
-    """
+Toutes les phrases doivent être séparées par exactement deux sauts de ligne.
+
+Tous les noms propres, lieux, institutions, concepts historiques, œuvres ou événements mentionnés doivent être entourés de [[ ]] afin de favoriser les connexions dans [[Obsidian]].
+
+Le texte doit inclure obligatoirement :
+– une ville de naissance clairement identifiée,
+– au moins un fait étonnant, peu connu, record ou statistique marquante concernant “NOM_FICHE”, exploitable comme base de question de quiz de culture générale.
+
+Les informations utilisées doivent être exactes à la date actuelle.
+Si un élément est susceptible d’avoir changé avec l’actualité (fonction, statut, titre, record récent, situation en cours), utilise la version la plus récente connue.
+
+Si une information est devenue incorrecte, obsolète ou incertaine, ne l’utilise pas et remplace-la par un fait vérifié, stable ou clairement daté.
+
+Donne des années exactes, des chiffres précis et des éléments factuels susceptibles d’être posés dans des jeux télévisés français.
+
+Le ton doit être informatif, neutre et encyclopédique, sans adjectifs inutiles ni formules promotionnelles.
+
+Évite toute formulation tautologique ou évidente (ne pas reformuler le titre ou la catégorie comme information).
+
+Avant de produire le texte, vérifie mentalement que chacune des phrases serait encore considérée comme correcte par un jury de jeu télévisé aujourd’hui.
+
+"""
+
+prompt_description_animaux = """
+Je veux une description encyclopédique de "NOM_FICHE" (catégorie : NOM_CATEGORY) composée de exactement quatre phrases distinctes.
+
+Chaque phrase doit être séparée par exactement deux sauts de ligne.
+
+Tous les noms propres, termes scientifiques, lieux, concepts culturels ou symboliques doivent être entourés de [[ ]] afin de favoriser les connexions dans [[Obsidian]].
+
+La description doit obligatoirement inclure, répartis sur les quatre phrases :
+– le type d’animal,
+– le nom scientifique binominal,
+– au moins un nom vernaculaire,
+– l’ordre zoologique,
+– la famille zoologique,
+– la région géographique naturelle principale,
+– un rôle culturel, symbolique ou mythologique attesté.
+
+Si pertinent, inclue un fait étonnant, rare, peu connu ou record concernant "NOM_FICHE", exploitable comme base de question de quiz de culture générale.
+
+Donne des informations factuelles, stables et vérifiables, avec des éléments susceptibles d’être posés dans des jeux télévisés français.
+
+N’utilise aucune liste, aucune puce, aucune explication hors texte descriptif.
+"""
+prompt_description_botanique = """
+Je veux une description encyclopédique de "NOM_FICHE" (catégorie : NOM_CATEGORY) composée de exactement quatre phrases distinctes.
+
+Chaque phrase doit être séparée par exactement deux sauts de ligne.
+
+Tous les noms propres, termes botaniques, lieux géographiques, appellations alternatives et usages culturels doivent être entourés de [[ ]] afin de favoriser les connexions dans [[Obsidian]].
+
+La description doit obligatoirement inclure, répartis sur les quatre phrases :
+– la famille botanique scientifique,
+– la région géographique d’origine,
+– une caractéristique morphologique distinctive,
+– la période ou saison principale de floraison ou de fructification,
+– au moins une autre appellation vernaculaire,
+– un exemple d’utilisation humaine documentée.
+
+Inclue au moins un fait étonnant, peu connu, historique ou scientifique concernant "NOM_FICHE", exploitable comme base de question de quiz de culture générale.
+
+Donne des informations factuelles, stables et vérifiables, compatibles avec des jeux télévisés français.
+
+N’utilise aucune liste, aucune puce, aucune phrase de remplissage.
+"""
+prompt_description_vocabulaire = """
+Je veux une description lexicale et culturelle du mot "NOM_FICHE" composée de exactement quatre phrases distinctes.
+
+Chaque phrase doit être séparée par exactement un saut de ligne.
+
+Tous les noms propres, concepts, œuvres, événements historiques ou références culturelles doivent être entourés de [[ ]] afin de favoriser les connexions dans [[Obsidian]].
+
+La description doit inclure :
+– une définition claire et précise du mot,
+– son domaine d’usage principal,
+– un contexte historique, culturel ou linguistique pertinent,
+– une anecdote, un usage notable ou une information surprenante exploitable en quiz de culture générale.
+
+Le ton doit être neutre, informatif et encyclopédique, sans effet stylistique inutile.
+
+N’utilise aucune liste, aucune puce, aucune explication hors texte descriptif.
+"""
+prompt_description_cinema_tv = """
+Je veux une description encyclopédique de "NOM_FICHE" (catégorie : NOM_CATEGORY) composée de exactement quatre phrases distinctes.
+
+Chaque phrase doit être séparée par exactement deux sauts de ligne.
+
+Tous les noms propres, œuvres, personnes, lieux, institutions, événements ou concepts doivent être entourés de [[ ]] pour favoriser les connexions dans [[Obsidian]].
+
+Interdiction d’inventer : n’inclus que des informations factuelles et vérifiables.
+Si une information manque ou est incertaine, reformule la phrase sans cette information (ne compense pas par une invention).
+
+La description doit inclure, répartis sur les quatre phrases :
+– le format (film, série, émission),
+– l’année exacte de sortie ou de première diffusion,
+– un ou plusieurs noms clés (réalisation/création et/ou interprètes principaux),
+– le pays de production,
+– au moins un élément distinctif (synopsis, esthétique, structure),
+– au moins un fait marquant exploitable en quiz (festival, nominations, chiffre d’entrées si connu, record, polémique).
+
+N’utilise aucune liste, aucune puce, aucun commentaire hors des quatre phrases.
+"""
+
+prompt_questions = """
+Génère 3 questions distinctes de culture générale dont la réponse est “NOM_FICHE” (catégorie : NOM_CATEGORY).
+
+Ne jamais mentionner NOM_FICHE, ni variante, prénom, nom, surnom, titre officiel, fonction ou indice permettant une identification directe.
+
+Les questions doivent être indirectes, dans le style des jeux télévisés français, fondées sur des faits précis, datés et vérifiés (années exactes, chiffres exacts, événements identifiables).
+
+Exemples de formulation attendue (à imiter, sans les reprendre) :
+	•	Quel chef d’État européen est à l’origine de la réforme monétaire ayant instauré le [[franc lourd]] en [[1960]], après l’obtention des pleins pouvoirs financiers dans le contexte de la [[Ve République]] ?
+	•	Quel homme politique français, survivant de deux guerres mondiales, est décédé en [[1994]] à [[Saint-Chamond]] après avoir détenu un record de longévité parmi les anciens dirigeants nationaux ?
+	•	Quelle personnalité politique a fait diviser par cent la valeur faciale de la monnaie nationale lors d’une stabilisation économique consécutive à la [[Seconde Guerre mondiale]] ?
+
+Contraintes obligatoires :
+	•	aucune numérotation
+	•	une question par ligne
+	•	aucun texte hors questions
+
+Tous les noms propres, lieux, événements, concepts, œuvres ou institutions doivent être entourés de [[ ]] (compatibles [[Obsidian]]).
+
+Les faits doivent être exacts à la date actuelle.
+Tout fait obsolète, incertain ou contestable doit être remplacé.
+"""
+
+prompt_questions_vocabulaire = """
+Je veux que tu me poses exactement trois questions de culture générale dont la réponse est le mot "NOM_FICHE".
+
+Interdiction absolue d’utiliser le mot "NOM_FICHE", ses dérivés morphologiques, ses synonymes évidents ou toute formulation permettant de deviner directement la réponse.
+
+Les questions doivent être formulées de manière indirecte, comme dans un jeu télévisé français, en s’appuyant sur :
+– la définition du mot,
+– son domaine d’usage,
+– un contexte historique, culturel ou linguistique,
+– une anecdote ou un usage notable.
+
+Les trois questions doivent être différentes.
+Les trois questions ne doivent pas être numérotées.
+Fais exactement un saut de ligne entre chaque question.
+Je ne veux aucun autre mot, commentaire ou emoji en dehors des questions elles-mêmes.
+
+Tous les noms propres, concepts, œuvres, événements ou références culturelles mentionnés doivent être entourés de [[ ]] afin de favoriser les connexions dans [[Obsidian]].
+
+Donne des informations factuelles, stables et exploitables dans des quiz de jeux télévisés français.
+"""
+
 prompt_indices_debut = """
     Thème : NOM_FICHE (NOM_CATEGORY)
 
@@ -39,26 +180,67 @@ prompt_indices_debut = """
     Le format doit être strictement : 
     """
 prompt_indices_fin = """
-    Ne mets rien d’autre avant ou après la liste, pas de puces, pas de phrase explicative. Juste la liste, dans ce format précis.
+Chaque indice doit être utile à l’identification.
+Aucun indice ne doit être redondant avec un autre.
+Aucun indice ne doit être purement générique ou applicable à de nombreux thèmes.
+Ne mets absolument rien avant ou après la liste.
+Aucune explication.
+Aucun exemple.
+Aucun commentaire.
+Uniquement la liste finale au format demandé.
 """
 
-tags_generic = """Indication géographique d'où vient NOM_FICHE | Décennie au moment où NOM_FICHE a oeuvré au format "Années_YYYY" ou "Années_-YYYY" si avant J.-C. | Siècle au format "Ve" ou "Ve_avant_JC" si avant J.-C."""
-prompt_tags = prompt_tags_debut + tags_generic + prompt_tags_fin
+prompt_indices_cinema_tv = """
+Thème : NOM_FICHE (catégorie : NOM_CATEGORY)
 
-indices_generic = """élément1 | élément2 | élément3 | élément4 | élément5 | élément6"""
+Ne pose jamais de question et ne demande jamais de confirmation.
+Si le titre correspond à plusieurs œuvres et que tu ne peux pas trancher, choisis l’œuvre la plus notoire associée à ce titre dans la catégorie demandée.
+Si tu n’es pas certain de l’œuvre, retourne exactement : None|None|None|None|None|None
+
+Donne exactement six indices distincts (groupes nominaux, pas de phrases) qui permettent d’identifier l’œuvre à condition de les considérer ensemble.
+Aucun indice ne doit contenir le titre exact, une variante évidente du titre, ou un élément qui révèle immédiatement la réponse.
+
+Sépare uniquement par une barre verticale (|), sans retour à la ligne, sans numérotation, sans ponctuation supplémentaire.
+
+Format strict :
+élément1|élément2|élément3|élément4|élément5|élément6
+
+Ne mets absolument rien avant ou après la liste.
+"""
+
+indices_generic = """Lieu géographique précis associé à NOM_FICHE | Période d’activité principale de NOM_FICHE au format Années_YYYY ou Années_-YYYY | Siècle correspondant au format Ve ou Ve_avant_JC | Domaine ou type d’activité caractéristique de NOM_FICHE | Élément factuel distinctif lié à NOM_FICHE | Notion ou concept fortement associé à NOM_FICHE """
 prompt_indices = prompt_indices_debut + indices_generic + prompt_indices_fin
 
-indices_animaux = """[Type d'animal de NOM_FICHE] | [Nom scientifique de NOM_FICHE] | [Ordre zoologique scientifique de NOM_FICHE] | [Région endémique de NOM_FICHE] | [Nom vernaculaire ou surnom de NOM_FICHE] | [Rôle culturel ou symbolique de NOM_FICHE] """
+indices_animaux = """Type zoologique général de NOM_FICHE | Nom scientifique binominal de NOM_FICHE | Ordre zoologique scientifique de NOM_FICHE | Zone géographique naturelle principale de NOM_FICHE | Caractéristique biologique remarquable de NOM_FICHE | Usage symbolique ou culturel attesté de NOM_FICHE"""
 prompt_indices_animaux = prompt_indices_debut + indices_animaux + prompt_indices_fin
 
-indices_botanique = """[Famille botanique de NOM_FICHE] | [Provenance géographique d'où vient NOM_FICHE] | [Apparence de NOM_FICHE] | [Saison de floraison de NOM_FICHE] | [Une autre appellation de NOM_FICHE] | [Exemple d'utilisation de NOM_FICHE]"""
+indices_botanique = """Famille botanique scientifique de NOM_FICHE | Région géographique d’origine de NOM_FICHE | Caractéristique morphologique distinctive de NOM_FICHE | Période de floraison ou de fructification principale de NOM_FICHE | Nom vernaculaire ou appellation alternative de NOM_FICHE | Utilisation humaine documentée de NOM_FICHE"""
 prompt_indices_botanique = prompt_indices_debut + indices_botanique + prompt_indices_fin
+
+prompt_tags_debut = """
+Je veux que tu me retournes exactement les éléments demandés concernant "NOM_FICHE" (catégorie : NOM_CATEGORY).
+
+Les éléments doivent être fournis dans l’ordre strict indiqué ci-dessous
+et être séparés uniquement par une barre verticale (|),
+sans retour à la ligne, sans espace superflu, sans ponctuation supplémentaire.
+
+Format strict attendu :
+"""
+prompt_tags_fin = """
+Si un élément n’est pas applicable ou inconnu de façon fiable, indique exactement : None
+"""
+tags_generic = """Lieu géographique principal associé à NOM_FICHE | Décennie d’activité principale de NOM_FICHE au format Années_YYYY ou Années_-YYYY | Siècle correspondant au format Ve ou Ve_avant_JC"""
+prompt_tags = prompt_tags_debut + tags_generic + prompt_tags_fin
+
+tags_cinema_tv = """Pays d'origine de NOM_FICHE|Type (film/série/émission)|Style du film/série/émission"""
+prompt_tags_cinema_tv = prompt_tags_debut + tags_cinema_tv + prompt_tags_fin
 
 tags_geography = """Région de NOM_FICHE | Pays de NOM_FICHE | Département de NOM_FICHE"""
 prompt_tags_geography = prompt_tags_debut + tags_geography + prompt_tags_fin
+prompt_tag_vocabulaire = """
+Je veux que tu attribues une unique catégorie au mot "NOM_FICHE" en fonction de sa définition principale.
 
-prompt_tag_vocabulaire = """ 
-Je veux que tu me retournes une catégorie unique du mot "NOM_FICHE" conformément à sa définition parmi les suivantes :
+Choisis obligatoirement UNE SEULE catégorie parmi la liste suivante :
 Anatomie
 Animaux
 Architecture
@@ -75,76 +257,55 @@ Religion
 Sciences
 Sport
 Télévision
-Ne retourne rien d'autre que le nom de la catégorie, sans guillemets ni autre mot.
+
+Ne retourne strictement que le nom exact de la catégorie choisie,
+sans guillemets, sans ponctuation, sans commentaire, sans autre mot.
 """
 
 prompt_annee_debut = """
-    Je veux que tu me retournes obligatoirement une année de naissance si "NOM_FICHE" (catégorie : NOM_CATEGORY) est une personne ou un personnage ou une année de début de "{nom}" sinon.
-    L'année peut être négative si avant J.-C.
-    Retourne "None" si ce n'est pas applicable.
-    Je ne veux pas d'autre mot dans ta réponse.
-    """
+Je veux que tu me retournes une seule valeur correspondant à "NOM_FICHE" (catégorie : NOM_CATEGORY).
 
+Si "NOM_FICHE" est une personne ou un personnage :
+– retourne l’année exacte de naissance.
+
+Sinon :
+– retourne l’année exacte de début, de fondation, de première apparition ou de mise en activité documentée.
+
+L’année doit être fournie sous forme d’un nombre entier.
+Elle peut être négative si l’événement a eu lieu avant J.-C.
+
+Si aucune année fiable et documentée n’existe, retourne exactement : None
+
+Ne retourne strictement aucun autre mot, symbole ou ponctuation.
+"""
 prompt_annee_fin = """
-    Je veux que tu me retournes obligatoirement une année de décès si "NOM_FICHE" (catégorie : NOM_CATEGORY) est une personne ou un personnage ou une année de fin de "{nom}". 
-    L'année peut être négative si avant J.-C.
-    Retourne "None" si la personne n'est pas décédée ou si ce n'est pas applicable.
-    Je ne veux pas d'autre mot dans ta réponse.
-    """
+Je veux que tu me retournes une seule valeur correspondant à "NOM_FICHE" (catégorie : NOM_CATEGORY).
 
+Si "NOM_FICHE" est une personne ou un personnage :
+– retourne l’année exacte de décès.
+
+Sinon :
+– retourne l’année exacte de fin, de dissolution, d’abandon ou de disparition documentée.
+
+L’année doit être fournie sous forme d’un nombre entier.
+Elle peut être négative si l’événement a eu lieu avant J.-C.
+
+Si la personne est toujours en vie, si l’entité est toujours en activité
+ou si aucune date fiable n’existe, retourne exactement : None
+
+Ne retourne strictement aucun autre mot, symbole ou ponctuation.
+"""
 prompt_superficie = """
-    Je veux que tu me retournes en km2 la superficie de "NOM_FICHE".
-    Je ne veux que le nombre associée sans la mention "km2" ou tout autre mot dans ta réponse. 
-    """
+Je veux que tu me retournes la superficie totale de "NOM_FICHE" exprimée en kilomètres carrés.
 
-prompt_questions = """
-    Je veux trois questions relatives à trois faits surprenants pour laquelle la réponse est "NOM_FICHE" (catégorie : NOM_CATEGORY). 
-    Les trois questions doivent être différentes. 
-    Les trois questions ne doivent pas être numérotées.
-    Fais un saut de ligne entre chaque question.
-    Je ne veux aucun autre mot ou emoji dans les questions. 
-    Je veux un entourage des noms propres et concepts de la description avec [[ ]] pour favoriser les connexions dans Obsidian. 
-    Donne-moi des années exactes et des informations qui pourraient être demandées dans des quiz de jeux télévisés.
-    """
-prompt_questions_vocabulaire = """
-    Je veux que tu me poses trois questions pour laquelle la réponse est le mot "NOM_FICHE". 
-    Les trois questions doivent être différentes. 
-    Les trois questions ne doivent pas être numérotées.
-    Fais un saut de ligne entre chaque question.
-    Je ne veux aucun autre mot ou emoji dans les questions. 
-    Je veux un entourage des noms propres et concepts de la description avec [[ ]] pour favoriser les connexions dans Obsidian. 
-    Tu peux reprendre quelques aspects de la définition ou des anecdotes pour le contenu des questions.
+Retourne uniquement la valeur numérique,
+sans unité, sans texte, sans symbole.
+
+Utilise un nombre entier si possible.
+Sinon, utilise un nombre décimal avec un point comme séparateur.
+
+Si la superficie n’est pas applicable ou inconnue, retourne exactement : None
 """
-
-prompt_description = """
-    Je veux un paragraphe sur "NOM_FICHE" (catégorie : NOM_CATEGORY) en quatre phrases avec entourage des noms propres de la description avec [[ ]] pour favoriser les connexions dans Obsidian. 
-    Inclue obligatoirement une ville de naissance et au moins un fait étonnant, peu connu ou record sur "NOM_FICHE". Il doit pouvoir servir de base à une question de quiz de culture générale. 
-    Fais deux sauts de ligne entre chaque phrase. 
-    Donne-moi des années exactes et des informations qui pourraient être demandées dans des quiz de jeux télévisés.
-    """
-
-prompt_description_animaux = """
-    Je veux une description sur "NOM_FICHE" (catégorie : NOM_CATEGORY) en quatre phrases concises avec entourage des noms propres de la description avec [[ ]] pour favoriser les connexions dans Obsidian.
-
-    Inclue le type d'animal de NOM_FICHE son nom scientifique et vernaculaire, son ordre zoologique, sa famille, sa région d'apparition, son rôle culturel ou symbolique.
-
-    Si possible, inclue un fait étonnant, une anecdote sur "NOM_FICHE" qui pourrait être demandé dans des quiz de jeux télévisés
-    Fais deux sauts de ligne entre chaque phrase. 
-    
-"""
-prompt_description_botanique = """
-    Je veux un paragraphe sur "NOM_FICHE" (catégorie : NOM_CATEGORY) en quatre phrases avec entourage des noms propres de la description avec [[ ]] pour favoriser les connexions dans Obsidian.
-    Inclue la samille botanique de NOM_FICHE, sa provenance géographique, son apparence, sa saison de floraison, une autre appellation et un exemple d'utilisation de NOM_FICHE.
-    Inclue un fait étonnant, une anecdote sur "NOM_FICHE" qui pourrait être demandé dans des quiz de jeux télévisés
-    Fais deux sauts de ligne entre chaque phrase. 
-    
-"""
-prompt_description_vocabulaire ="""
-    Je veux un paragraphe sur le mot "NOM_FICHE" en quatre phrases avec entourage des noms propres de la description avec [[ ]] pour favoriser les connexions dans Obsidian. 
-    Je veux un saut de ligne entre chaque phrase.
-    Tu peux reprendre la définition du mot et donner du contexte autour ou des anecdotes liées.
-"""
-
 
 def print_prompt(prompt, nom, category):
     prompt = prompt.replace("NOM_FICHE", nom)
@@ -234,25 +395,71 @@ def ajoute_tags(fiche_name):
         return
     write_content_to_github(fiche_path, new_content)
 
+def fetch_facts_web(query: str) -> str:
+    response = client.responses.create(
+        model="gpt-5-mini",
+        tools=[{"type": "web_search"}],
+        tool_choice="auto",
+        input=query,
+        include=["web_search_call.action.sources"]
+    )
+
+    return response.output_text.strip()
+
+def ask_gpt_from_facts(prompt, name, category) -> str:
+    facts = fetch_facts_web(name + " (" + category + ")")
+    guarded_prompt = f"""
+UTILISE UNIQUEMENT les informations factuelles ci-dessous.
+Interdiction absolue d’inventer ou d’ajouter des informations externes.
+Ne pose jamais de question.
+Si une information manque, applique les règles demandées (retour de None).
+
+FAITS :
+{facts}
+
+TÂCHE :
+{prompt}
+"""
+
+    response = client.responses.create(
+        model="gpt-4o",
+        input=guarded_prompt
+    )
+
+    return response.output_text.strip()
+
 def ask_gpt(prompt):
     response = client.chat.completions.create(
         model="gpt-4o",
         messages=[
-            {"role": "system", "content": "Tu es un assistant expert en culture générale, en jeux télévisés français et en rédaction de fiches informatives."},
+            {"role": "system", "content": "Ne pose jamais de question. Ne demande jamais de clarification. Ne propose jamais de vérifier des sources externes. Si une information est incertaine, applique les règles demandées (choix de l’option la plus notoire ou retour de None)."},
             {"role": "user", "content": prompt}
         ]
     )
     return response.choices[0].message.content.strip()
 
-def ask_gpt5(prompt):
-    response = client.chat.completions.create(
-        model="gpt-4o",
-        messages=[
-            {"role": "system", "content": "Tu es un assistant expert en culture générale, en jeux télévisés français et en rédaction de fiches informatives."},
-            {"role": "user", "content": prompt}
+def ask_gpt5(prompt: str) -> str:
+    response = client.responses.create(
+        model="gpt-5-mini",
+        input=[
+            {
+                "role": "system",
+                "content": (
+                    "Ne pose jamais de question. "
+                    "Ne demande jamais de clarification. "
+                    "Ne propose jamais de vérifier des sources externes. "
+                    "Si une information est incertaine, applique les règles demandées "
+                    "(choix de l’option la plus notoire ou retour de None)."
+                )
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
         ]
     )
-    return response.choices[0].message.content.strip()
+
+    return response.output_text.strip()
 
 def generate_gpt_from_name(nom, category):
     if category == "Géographie":
@@ -264,7 +471,9 @@ def generate_gpt_from_name(nom, category):
     elif category == "Animaux":
         return generate_gpt_from_name_animaux(nom, category)
     elif category == "Vocabulaire":
-        return generate_gpt_from_name_vocabulaire(nom)
+        return generate_gpt_from_name_vocabulaire(nom, category)
+    elif category == "Cinéma" or category == "Télévision":
+        return generate_gpt_from_name_cinema_tv(nom, category)
     else:
         return generate_gpt_from_name_generic(nom, category)
 
@@ -275,11 +484,11 @@ def generate_gpt_from_name_botanique(nom, category):
 
     return indices, description
 
-def generate_gpt_from_name_vocabulaire(nom):
+def generate_gpt_from_name_vocabulaire(nom, category):
 
     indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", "définition"))
     tag = ask_gpt(prompt_tag_vocabulaire.replace("NOM_FICHE", nom))
-    questions = ask_gpt5(prompt_questions_vocabulaire.replace("NOM_FICHE", nom))
+    questions = ask_gpt_from_facts(prompt_questions_vocabulaire.replace("NOM_FICHE", nom), nom, category)
     description = ask_gpt(prompt_description_vocabulaire.replace("NOM_FICHE", nom))
 
     return tag, questions, description, indices
@@ -288,7 +497,7 @@ def generate_gpt_from_name_animaux(nom, category):
 
     indices = ask_gpt(prompt_indices_animaux.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     description = ask_gpt(prompt_description_animaux.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    questions = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    questions = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
 
     return indices, description, questions
 
@@ -299,7 +508,7 @@ def generate_gpt_from_name_geography(nom, category):
         superficie = ""
 
     indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    questions = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    questions = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     description = ask_gpt(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     
     return tags, indices, description, questions, superficie
@@ -307,19 +516,29 @@ def generate_gpt_from_name_geography(nom, category):
 def generate_gpt_from_name_architecture(nom, category):
     tags = ask_gpt(prompt_tags_geography.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    questions = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    questions = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
     description = ask_gpt(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     return tags, indices, description, questions, annee_debut, annee_fin
 
+def generate_gpt_from_name_cinema_tv(nom, category):
+    tags = ask_gpt(prompt_tags_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    indices = ask_gpt(prompt_indices_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    description = ask_gpt_from_facts(prompt_description_cinema_tv.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+    question = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
+
+    return tags, annee_debut, indices, description, question, annee_fin
+  
 def generate_gpt_from_name_generic(nom, category):
     tags = ask_gpt(prompt_tags.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_debut = ask_gpt(prompt_annee_debut.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     annee_fin = ask_gpt(prompt_annee_fin.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     indices = ask_gpt(prompt_indices.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
     description = ask_gpt(prompt_description.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
-    question = ask_gpt5(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category))
+    question = ask_gpt_from_facts(prompt_questions.replace("NOM_FICHE", nom).replace("NOM_CATEGORY", category), nom, category)
 
     return tags, annee_debut, indices, description, question, annee_fin
   
@@ -334,6 +553,8 @@ def generate_fiche(nom, category):
         return generate_fiche_animaux(nom, category)
     elif category == "Vocabulaire":
         return generate_fiche_vocabulaire(nom)
+    elif category == "Cinéma" or category == "Télévision":
+        return generate_fiche_cinema_tv(nom, category)
     else:
         return generate_fiche_generic(nom, category)
 
@@ -572,8 +793,71 @@ indice_6 :
 """
     return new_content
 
+def generate_fiche_cinema_tv(nom, category):
+    tags, annee_debut, indices, description, question, annee_fin = generate_gpt_from_name_cinema_tv(nom, category)
+    # print("Tags : "+tags)
+    # print("Année début : "+annee_debut)
+    # print("Année fin : "+annee_fin)
+    # print("Indices : "+indices)
+    # print("Description : "+description)
+    # print("Question : "+question)
+
+    annee_debut_info = annee_debut.strip()
+    annee_fin_info = annee_fin.strip()
+    if "None" in annee_fin_info:
+        annee_fin_info = ""
+    if "None" in annee_debut_info:
+        annee_debut_info = ""
+
+    indices = indices.replace('"', '').replace(':', '').replace("[",'').replace("]","")
+    description = description.strip()
+    question = question.strip()
+    url_wiki = ""
+    #url_wiki = query_to_image_url(f"{nom}")
+
+    split_char = "|"
+    new_content = f"""---
+tags:
+  - {tags.split(split_char)[0].strip().replace(" ", "_").replace(",","")}
+  - {tags.split(split_char)[1].strip().replace(" ", "_").replace(",","")}
+  - {tags.split(split_char)[2].strip().replace(" ", "_").replace(",","")}
+debut: {annee_debut_info}
+fin: {annee_fin_info}
+indice_1 : 
+  - {indices.split(split_char)[0].strip()}
+indice_2 : 
+  - {indices.split(split_char)[1].strip()}
+indice_3 : 
+  - {indices.split(split_char)[2].strip()}
+indice_4 : 
+  - {indices.split(split_char)[3].strip()}
+indice_5 : 
+  - {indices.split(split_char)[4].strip()}
+indice_6 : 
+  - {indices.split(split_char)[5].strip()}
+---
+
+![Image de {nom}]({url_wiki})
+
+###### Questions
+
+{question}
+
+###### Description
+
+{description}
+"""
+    return new_content
+
 def generate_fiche_generic(nom, category):
     tags, annee_debut, indices, description, question, annee_fin = generate_gpt_from_name(nom, category)
+    # print("Tags : "+tags)
+    # print("Année début : "+annee_debut)
+    # print("Année fin : "+annee_fin)
+    # print("Indices : "+indices)
+    # print("Description : "+description)
+    # print("Question : "+question)
+
     annee_debut_info = annee_debut.strip()
     annee_fin_info = annee_fin.strip()
     if "None" in annee_fin_info:
@@ -1213,4 +1497,4 @@ def pyperclip_copy_deck(deck):
     print("Deck copied to clipboard!")
 
 #change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
-generate_fiche("Valencia", "Géographie")
+#generate_fiche("Une Affaire de famille", "Cinéma")

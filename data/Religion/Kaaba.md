@@ -22,13 +22,14 @@ questions:
  - Quel édifice cubique est situé au centre de la Mosquée al-Harâm ?
 ---
 
+
 ![Image de Kaaba](https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Kaaba_during_Hajj_-_edited.jpg)
 
 ###### Questions
 
 Quel est le bâtiment religieux de forme cubique qui se trouve au centre de la [[Grande Mosquée de la Mecque]] en [[Arabie saoudite]]?
 
-Quel est le lieu vers lequel les musulmans se tournent pour prier cinq fois par jour et qui est considéré comme le site le plus sacré de l'[[islam]]?
+Quel est le lieu vers lequel les musulmans se tournent pour prier cinq fois par jour et qui est considéré comme le site le plus sacré de l'[[islam]]? <!-- score: 2 -->
 
 Quel est le lieu de pèlerinage incontournable visité par des millions de musulmans chaque année lors du [[Hajj]], dont la structure actuelle date de 1629 après avoir été reconstruite à la suite d'inondations?
 

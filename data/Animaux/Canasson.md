@@ -23,10 +23,9 @@ Par quel terme constituant une altération du mot [[canard]] désigne-t-on famil
 
 Quel surnom lunaire et affectueux est donné au cheval à l'intérieur des [[Monty Python]] dans le film culte de 1975 "[[Monty Python and the Holy Grail]]" ?
 
-Quel célèbre doubleur de voix française des années 1980 prêtait souvent sa voix au personnage du cheval appelé "Canasson" dans les aventures de bande dessinée de [[Lucky Luke]] ?
+Quel célèbre doubleur de voix française des années 1980 prêtait souvent sa voix au personnage du cheval appelé "Canasson" dans les aventures de bande dessinée de [[Lucky Luke]] ? <!-- score: 5 -->
 
-À quelle série humoristique britannique de [[BBC Radio]] de 1951, souvent diffusée par [[BBC]] et mettant en scène des sketchs délirants, doit-on le concept du cheval "Canasson" comme élément comique récurrent ?
-
+À quelle série humoristique britannique de [[BBC Radio]] de 1951, souvent diffusée par [[BBC]] et mettant en scène des sketchs délirants, doit-on le concept du cheval comme élément comique récurrent ? <!-- score: 5 -->
 ###### Description
 
 Le terme "canasson" est un mot argotique utilisé en [[France]] pour désigner un cheval, souvent avec une connotation affectueuse ou dépréciative. Les canassons contemporains peuvent être aperçus dans les courses hippiques, où certains, comme [[Anibal Light]], ont marqué l'histoire en gagnant la plus prestigieuse course [[Prix d'Amérique]] en [[1962]]. 

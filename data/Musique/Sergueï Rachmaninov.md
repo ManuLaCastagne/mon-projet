@@ -24,13 +24,14 @@ questions:
  - Quel compositeur et pianiste russe, directeur de l'orchestre du Bolchoï de 1904 à 1906, a été l'un des plus grands virtuoses de son temps?
 ---
 
+
 ![Image de Sergueï Rachmaninov](https://upload.wikimedia.org/wikipedia/commons/8/86/Sergei_Rachmaninoff_LOC_30160_cropped.jpg)
 
 ###### Questions
 
 Quel compositeur et pianiste russe a composé la célèbre œuvre [[Concerto pour piano n°2 en ut mineur, Op. 18]] en 1901 après une profonde dépression ?
 
-Quel musicien, célèbre pour ses mains exceptionnellement grandes qui lui permettaient de jouer des intervalles inhabituels, est également connu pour être l'un des derniers représentants du romantisme russe au début du [[XXe siècle]] ?
+Quel musicien, célèbre pour ses mains exceptionnellement grandes qui lui permettaient de jouer des intervalles inhabituels, est également connu pour être l'un des derniers représentants du romantisme russe au début du [[XXe siècle]] ? <!-- score: 4 -->
 
 Quel compositeur a dû fuir la [[Russie]] à cause de la [[Révolution d'Octobre]] en 1917 et a ensuite émigré aux [[États-Unis]] où il a poursuivi sa carrière musicale avec succès ?
 

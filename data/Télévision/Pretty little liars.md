@@ -23,13 +23,15 @@ questions:
 ---
 
 
+
+
 ![Image de Pretty little liars](https://upload.wikimedia.org/wikipedia/commons/d/d8/Pretty_Little_Liars_%2829163090770%29.jpg)
 
 ###### Questions
 
 Quel [[série télévisée américaine]], diffusée de [[2010]] à [[2017]], suit les vies de quatre amies dont le groupe se délite après la disparition de leur chef de file, [[Alison DiLaurentis]] ?
 
-Quelle série, basée sur les romans de [[Sara Shepard]], a révélé des acteurs comme [[Troian Bellisario]], [[Ashley Benson]], [[Lucy Hale]] et [[Shay Mitchell]] ? <!-- score: 2 -->
+Quelle série, basée sur les romans de [[Sara Shepard]], a révélé des acteurs comme [[Troian Bellisario]], [[Ashley Benson]], [[Lucy Hale]] et [[Shay Mitchell]] ? <!-- score: 3 -->
 
 Quel programme télévisuel utilise le mystère d'une personne envoyant des messages anonymes sous le pseudonyme de "[[A]]" pour créer du suspense et des rebondissements tout au long de ses sept saisons ?
 

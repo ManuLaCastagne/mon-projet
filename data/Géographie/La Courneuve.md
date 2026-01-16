@@ -26,6 +26,7 @@ questions:
   - Dans quel parc de la commune de Seine-Saint-Denis se tient généralement la fête de l'Huma ?
 ---
 
+
 ![Image de Courneuve](https://upload.wikimedia.org/wikipedia/commons/e/e5/La_Courneuve_Moulin_Fayvon_-_AM_La_Courneuve_8Fi121.jpg)
 
 ![[Carte_La Courneuve.png]]
@@ -37,7 +38,7 @@ Dans quelle ville de la région [[Île-de-France]] a eu lieu le mythique festiva
 
 Quelle commune du [[93]] est connue pour abriter l'Usine des [[Poudres]] et de [[Salpêtres]] construite en 1871 ?
 
-Où se trouvent les [[220 hectares]] du plus grand parc urbain d'[[Europe]], le parc [[Georges-Valbon]], inauguré en 1970 ?
+Où se trouvent les [[220 hectares]] du plus grand parc urbain d'[[Europe]], le parc [[Georges-Valbon]], inauguré en 1970 ? <!-- score: 4 -->
 
 ###### Description
 

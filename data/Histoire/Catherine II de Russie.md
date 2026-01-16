@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Catherine II de Russie](https://upload.wikimedia.org/wikipedia/commons/4/44/Catherine_II%2C_Imp%C3%A9ratrice_de_Russie_CIPB1240.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel souverain a fondé la ville d'[[Odessa]] en [[1794]], un port clé sur la m
 
 Quelle impératrice a cherché à moderniser le système éducatif en [[Russie]] en établissant la [[Commission pour l'éducation publique]] en [[1764]] ?
 
-Quel dirigeant a initié la [[Guerre russo-turque]] de [[1768-1774]], qui a conduit à l'expansion des territoires russes et à la reconnaissance de la souveraineté russe sur la [[Crimée]] ?
+Quel dirigeant a initié la [[Guerre russo-turque]] de [[1768-1774]], qui a conduit à l'expansion des territoires russes et à la reconnaissance de la souveraineté russe sur la [[Crimée]] ? <!-- score: 4 -->
 
 ###### Description
 

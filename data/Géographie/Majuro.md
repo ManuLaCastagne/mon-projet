@@ -23,6 +23,7 @@ indice_6 :
   - Ville la plus peuplée des Îles Marshall
 ---
 
+
 ![Image de Majuro](https://upload.wikimedia.org/wikipedia/commons/0/04/Majuro_Satellite.PNG)
 
 ![[Carte_Majuro.png]]
@@ -32,7 +33,7 @@ Quelle est la [[capitale]] des [[Îles Marshall]] située dans le [[Pacifique]] 
 
 À quel endroit se trouve l'[[atoll coralien]] qui, en 1979, est devenu le siège du gouvernement des [[Îles Marshall]] après la séparation d'avec l’archipel des [[Carolines]] ?
 
-Quelle ville est célèbre pour avoir été au centre des préoccupations lors de la montée du niveau de la mer dans le rapport du [[Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)]] de 2021 ?
+Quelle ville est célèbre pour avoir été au centre des préoccupations lors de la montée du niveau de la mer dans le rapport du [[Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)]] de 2021 ? <!-- score: 4 -->
 
 ###### Description
 

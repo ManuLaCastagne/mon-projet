@@ -22,6 +22,7 @@ questions:
  - Le 15 juillet 1410, quelle bataille remportée par le roi de Pologne et le grand-duc de Lituanie met fin à la puissance des Chevaliers teutoniques ?
 ---
 
+
 ![Image de Bataille de Grunwald](https://upload.wikimedia.org/wikipedia/commons/a/a9/Grunwald_Giermek.png)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel événement historique, survenu en [[1410]], a marqué une victoire décisi
 
 Quel affrontement est considéré comme l'une des plus grandes batailles de chevaliers en Europe médiévale, ayant eu lieu le 15 juillet [[1410]] ?
 
-Quel lieu est devenu le symbole de l'unité des forces alliées polono-lituaniennes face aux envahisseurs, résultant en une victoire lors de l'été [[1410]] ?
+Quel lieu est devenu le symbole de l'unité des forces alliées polono-lituaniennes face aux envahisseurs, résultant en une victoire lors de l'été [[1410]] ? <!-- score: 4 -->
 
 ###### Description
 

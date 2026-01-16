@@ -27,11 +27,13 @@ questions:
 ---
 
 
+
+
 ![Image de Victor Hugo](https://upload.wikimedia.org/wikipedia/commons/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg)
 
 ###### Questions
 
-Quel célèbre auteur est né en 1802 à [[Besançon]] et est considéré comme l'une des figures majeures du [[Romantisme]] français ?
+Quel célèbre auteur est né en 1802 à [[Besançon]] et est considéré comme l'une des figures majeures du [[Romantisme]] français ? <!-- score: 3 -->
 
 Quel écrivain a publié le célèbre roman [[Les Misérables]] en 1862, une œuvre qui a eu un immense succès et a été adaptée en de nombreuses versions cinématographiques et théâtrales ?
 

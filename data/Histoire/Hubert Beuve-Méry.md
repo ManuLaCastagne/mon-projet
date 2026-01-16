@@ -25,6 +25,7 @@ questions:
 
 
 
+
 ![Image de Hubert Beuve-Méry](https://upload.wikimedia.org/wikipedia/commons/4/47/Place_Hubert_Beuve_M%C3%A9ry_-_Ivry-sur-Seine_%28FR94%29_-_2021-01-17_-_1.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel journaliste a fondé le quotidien [[Le Monde (journal)]] en [[1944]], deven
 
 Quel directeur du [[Centre de formation des journalistes]] a contribué en [[1956]] à la professionnalisation du journalisme en France ? <!-- score: 4 -->
 
-Qui a reçu en [[1955]] le prix [[Albert_Londres]] pour son reportage sur les conséquences du [[traité de Genève]] en [[Indochine]] ?
+Qui a reçu en [[1955]] le prix [[Albert_Londres]] pour son reportage sur les conséquences du [[traité de Genève]] en [[Indochine]] ? <!-- score: 3 -->
 
 ###### Description
 

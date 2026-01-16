@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Italie
   - Années_2010
@@ -7,21 +7,21 @@ tags:
 date:
   - 1985/08/18
 debut: 1985
-deces: 
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - aristocratie italienne
-indice_2 : 
+indice_2:
   - épouse de Pierre Casiraghi
-indice_3 : 
+indice_3:
   - membre de la famille princière de Monaco
-indice_4 : 
+indice_4:
   - carrière de journaliste et documentariste
-indice_5 : 
+indice_5:
   - née à San Candido en 1985
-indice_6 : 
+indice_6:
   - mannequinat et mode
 ---
+
 
 
 ![Image de Beatrice Borromeo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Beatrice_Borromeo_2017.jpg)
@@ -30,9 +30,9 @@ indice_6 :
 
 Quel membre de la famille aristocratique italienne, apparentée à [[Lavinio Borromeo]] et mariée à [[Pierre Casiraghi]], est également un ancien mannequin devenu journaliste et documentariste ? <!-- score: 3 -->
 
-Quelle réalisatrice de documentaires sur des sujets sociaux a grandi sur les îles de [[Lac Majeur]], célèbres pour avoir appartenu à la prestigieuse famille Borromeo depuis le 16ème siècle ? 
+Quelle réalisatrice de documentaires sur des sujets sociaux a grandi sur les îles de [[lac Majeur]], célèbres pour avoir appartenu à la prestigieuse famille Borromeo depuis le 16ème siècle ? 
 
-Quel auteur, récompensé en 2013 pour son livre "[[Rien qu’une œillade]]", est connu pour s’être engagé dans le militantisme social à travers ses films et documentaires ?
+Quel auteur, récompensé en 2013 pour son livre "[[Rien qu’une œillade]]", est connu pour s’être engagé dans le militantisme social à travers ses films et documentaires ? <!-- score: 4 -->
 
 ###### Description
 

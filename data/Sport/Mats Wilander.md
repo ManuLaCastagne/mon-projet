@@ -22,11 +22,12 @@ questions:
  - En 1982, quel tennisman suédois, âgé de 17 ans...
 ---
 
+
 ![Image de Mats Wilander](https://upload.wikimedia.org/wikipedia/commons/7/7f/Mats_Wilander_%282023_US_Open%29_01_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel joueur de tennis suédois a remporté [[Roland-Garros]] en 1982 à l'âge de 17 ans ? 
+Quel joueur de tennis suédois a remporté [[Roland-Garros]] en 1982 à l'âge de 17 ans ? <!-- score: 4 -->
 
 Quel tennisman a remporté trois titres du Grand Chelem en une seule année en 1988, une performance qu'il a réalisée avant même d'avoir 25 ans ? 
 

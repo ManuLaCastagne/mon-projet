@@ -1,40 +1,41 @@
 ---
-tags: 
+tags:
   - Religion
   - Tarse
   - Années_0050
   - Ier
-debut: -10
-fin: -67
-indice_1 : 
+debut: 5
+fin: 50
+indice_1:
   - Tarse
-indice_2 : 
+indice_2:
   - Apôtre des Gentils
-indice_3 : 
+indice_3:
   - Épîtres
-indice_4 : 
+indice_4:
   - Conversion sur le chemin de Damas
-indice_5 : 
+indice_5:
   - Saül
-indice_6 : 
+indice_6:
   - Actes des Apôtres
-questions:
- - Dans la religion chrétienne, quel saint surnomme-t-on l'apôtre des gentils?
 ---
+
 
 ![Image de Saint-Paul](https://upload.wikimedia.org/wikipedia/commons/8/81/Saint_paul_mn.jpg)
 
 ###### Questions
 
-Quel apôtre a écrit la majorité des lettres du [[Nouveau Testament]], influençant profondément la théologie chrétienne ?
+Quel apôtre a écrit la majorité des lettres du [[Nouveau Testament]], influençant profondément la théologie chrétienne avec la fameuse lettre aux Corinthiens ? <!-- score: 4 -->
 
-Quel est le nom de l'ancienne capitale de l'île de [[La Réunion]], qui a été nommée en l'honneur de l'apôtre associé à l'évangélisation des Gentils ?
+Dans la religion chrétienne, quel saint surnomme-t-on l'apôtre des Gentils ?
+
+Quel est le nom de l'ancienne capitale de l'île de [[La Réunion]] aujourd'hui Saint-Denis, qui avait été nommée en l'honneur de l'apôtre associé à l'évangélisation des Gentils ?
 
 Quel apôtre a été converti à la foi chrétienne sur le chemin de [[Damas]], selon les Actes des [[Apôtres]] dans le [[Nouveau Testament]] aux alentours de l'année 36 ?
 
 ###### Description
 
-[[Saint-Paul]] est né autour de l'année 5 de notre ère dans la ville de [[Tarse]], située dans l'actuelle [[Turquie]]. 
+[[Saint-Paul]] est né autour de l'année 5 de notre ère dans la ville de [[Tarse (ville)]], située dans l'actuelle [[Turquie]]. 
 
 Avant de devenir une figure centrale du christianisme, [[Saint-Paul]], alors connu sous le nom de [[Saül]], persécutait les chrétiens, une transformation religieuse marquante qui s'est produite après une vision de [[Jésus]] sur le chemin de [[Damas]] vers l'an 35. 
 

@@ -24,6 +24,7 @@ questions:
  - Dans la littérature enfantine, de quelle petite fille créée par Marcel Marlier peut-on suivre les aventures "à la ferme"...
 ---
 
+
 ![Image de Martine (bande dessinée)](https://upload.wikimedia.org/wikipedia/commons/b/b1/Sollies_Ville_-_Marcel_Marlier_-_P1200388.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel personnage de bande dessinée pour enfants, créé par [[Marcel Marlier]] e
 
 Quelle série de livres illustrés destinés à la jeunesse a vendu plus de [[100 millions]] d'exemplaires à travers le monde en près de six décennies ?
 
-Quel personnage belge célèbre pour ses aventures a été au centre d'une polémique en 2012 avec la proposition de changement de son nom pour mieux refléter la diversité des lecteurs modernes ?
+Quel personnage belge célèbre pour ses aventures a été au centre d'une polémique en 2012 avec la proposition de changement de son nom pour mieux refléter la diversité des lecteurs modernes ? <!-- score: 3 -->
 
 ###### Description
 

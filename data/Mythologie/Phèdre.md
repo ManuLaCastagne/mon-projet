@@ -22,11 +22,12 @@ questions:
 
 
 
+
 ![Image de Phèdre](https://upload.wikimedia.org/wikipedia/commons/9/9d/Phedre_hippolyte_1678_title_page.JPG)
 
 ###### Questions
 
-Dans la pièce tragique de [[Jean Racine]] écrite en 1677, qui est le personnage central en proie à une passion insensée pour son beau-fils [[Hippolyte]] ? <!-- score: 2 -->
+Dans la pièce tragique de [[Jean Racine]] écrite en 1677, qui est le personnage central en proie à une passion insensée pour son beau-fils [[Hippolyte]] ? <!-- score: 3 -->
 
 Dans la [[mythologie grecque]], qui est la fille de [[Minos]], roi de [[Crète]], et de [[Pasiphaé]], dont le récit d'amour interdit est exploré dans des œuvres littéraires et dramatiques ?
 

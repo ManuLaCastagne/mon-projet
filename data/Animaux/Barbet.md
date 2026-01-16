@@ -17,6 +17,8 @@ indice_6:
 
 
 
+
+
 ![Image de Barbet](https://upload.wikimedia.org/wikipedia/commons/6/61/Lineated_barbet_%28Psilopogon_lineatus%29%2C_Bangladesh.jpg)
 
 ###### Questions

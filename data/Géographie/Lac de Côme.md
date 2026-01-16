@@ -27,9 +27,11 @@ questions:
 ---
 
 
-![Image de Lac de Côme](https://upload.wikimedia.org/wikipedia/commons/a/ad/Church_of_the_Ascension_%28Cadenabbia%29_Lac_de_C%C3%B4me_en_2018.jpg)
 
-![[Carte_Lac de Côme.png]]
+
+![Image de Lac de Côme](https://upload.wikimedia.org/wikipedia/commons/a/ad/Church_of_the_Ascension_%28Cadenabbia%29_Lac_de_C%C3%B4me_en_2018.jpg)
+
+![[Carte_Lac de Côme.png]]
 ###### Questions
 
 Quel est le lac en Italie célèbre pour ses nombreux hôtels de luxe et qui a été le lieu de vacances de célébrités comme [[George Clooney]] ? 
@@ -40,7 +42,7 @@ Quel est le troisième lac le plus grand d'[[Italie]] par superficie, situé pr�
 
 ###### Description
 
-Le [[Lac de Côme]], situé en [[Italie]], est connu pour sa forme de "y" inversé et s'étend sur une superficie de 146 km², ce qui en fait le troisième plus grand lac d'Italie après le [[Lac Majeur]] et le [[Lac de Garde]].
+Le [[Lac de Côme]], situé en [[Italie]], est connu pour sa forme de "y" inversé et s'étend sur une superficie de 146 km², ce qui en fait le troisième plus grand lac d'Italie après le [[lac Majeur]] et le [[Lac de Garde]].
 
 Ses rives spectaculaires abritent des villages pittoresques tels que [[Bellagio]], souvent surnommé la "perle du lac", et [[Varenna]], réputé pour ses vues panoramiques.
 

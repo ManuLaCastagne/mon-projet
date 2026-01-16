@@ -20,6 +20,7 @@ indice_6 :
   - Capitulaire de Villis
 ---
 
+
 ![Image de Charlemagne](https://upload.wikimedia.org/wikipedia/commons/d/d0/Charlemagne_Agostino_Cornacchini_Vatican_2.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel roi des [[Francs]] est couronné empereur d'Occident le 25 décembre [[800]
 
 Quel souverain a promulgué les réformes éducatives et culturelles durant la période appelée [[Renaissance carolingienne]] au VIIIe siècle ?
 
-Quel personnage historique, petit-fils de [[Charles Martel]], est notoire pour avoir été proclamé empereur par un acte qui a marqué le début du [[Saint-Empire romain]] ?
+Quel personnage historique, petit-fils de [[Charles Martel]], est notoire pour avoir été proclamé empereur par un acte qui a marqué le début du [[Saint-Empire romain]] ? <!-- score: 7 -->
 
 ###### Description
 

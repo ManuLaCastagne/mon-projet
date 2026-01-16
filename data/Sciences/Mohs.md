@@ -22,11 +22,12 @@ questions:
  - A l'aide de quelle échelle, conçue au XIXe siècle par un minéralogiste allemand pour mesurer la dureté des minéraux ?
 ---
 
+
 ![Image de Mohs](https://upload.wikimedia.org/wikipedia/commons/2/2f/Mohs_ear.jpg)
 
 ###### Questions
 
-Quel est le nom de l'échelle introduite en [[1812]] par [[Friedrich Mohs]] pour mesurer la dureté des minéraux ?
+Quel est le nom de l'échelle introduite en [[1812]] par [[Friedrich Mohs]] pour mesurer la dureté des minéraux ? <!-- score: 7 -->
 
 Quel est le terme utilisé pour désigner l'échelle de dureté qui classe le diamant comme le matériau le plus dur ?
 

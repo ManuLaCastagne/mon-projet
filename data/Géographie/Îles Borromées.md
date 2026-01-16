@@ -31,7 +31,7 @@ questions:
 ![[Carte_Îles Borromées.png]]
 ###### Questions
 
-Quel groupe de petites îles situées sur le [[Lac Majeur]] est connu pour son histoire associée à la famille [[Borromeo]] depuis le XVIIe siècle ?
+Quel groupe de petites îles situées sur le [[lac Majeur]] est connu pour son histoire associée à la famille [[Borromeo]] depuis le XVIIe siècle ?
 
 Quel archipel d'[[Italie]] est célèbre pour ses somptueux jardins et ses constructions baroques, notamment l'[[Isola Bella]] ?
 
@@ -39,7 +39,7 @@ Quel ensemble d'îles a été fréquemment visité par des personnalités comme 
 
 ###### Description
 
-Les [[Îles Borromées]], situées sur le [[Lac Majeur]] dans le nord de l'[[Italie]], sont un archipel pittoresque et prisé pour sa beauté stupéfiante.
+Les [[Îles Borromées]], situées sur le [[lac Majeur]] dans le nord de l'[[Italie]], sont un archipel pittoresque et prisé pour sa beauté stupéfiante.
 
 Ce groupe d'îles appartient à la famille [[Borromeo]] depuis le XIIe siècle, et comprend notamment [[Isola Bella]], célèbre pour son palais [[baroque]] et ses jardins luxuriants aménagés dès 1632.
 

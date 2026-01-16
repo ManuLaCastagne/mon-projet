@@ -16,6 +16,7 @@ indice_6 :
   - Instrument à anche
 ---
 
+
 ![Image de Zourna](https://upload.wikimedia.org/wikipedia/commons/f/f4/Zournas.jpg)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quel instrument à vent traditionnel du Moyen-Orient, souvent comparé à une so
 
 Quel est le nom de cet instrument de musique à vent qui joue un rôle essentiel dans les cérémonies de mariage en [[Turquie]] et qui est connu pour sa sonorité perçante et vibrante?
 
-Comment appelle-t-on cet instrument de musique à vent en bois, souvent utilisé dans les musiques traditionnelles lors des fêtes et célébrations populaires dans les régions de [[Caucase]]?
+Comment appelle-t-on cet instrument de musique à vent en bois, souvent utilisé dans les musiques traditionnelles lors des fêtes et célébrations populaires dans les régions de [[Caucase]]? <!-- score: 4 -->
 
 ###### Description
 

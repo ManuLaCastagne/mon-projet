@@ -24,6 +24,7 @@ indice_6 :
   - Parc national de Valley Forge
 ---
 
+
 ![[Carte_Pennsylvanie.png]]
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel [[État des États-Unis]] a été découverte la première [[station-s
 
 Quel [[État]] est surnommé le "Keystone State" en raison de son rôle central dans la fondation des [[États-Unis]] et qui a ratifié la [[Constitution américaine]] en [[1787]] ?
 
-Dans quel [[État]] se trouve la ville de [[Punxsutawney]], connue pour la célébration annuelle du [[Jour de la marmotte]] chaque [[2 février]] ?
+Dans quel [[État]] se trouve la ville de [[Punxsutawney]], connue pour la célébration annuelle du [[Jour de la marmotte]] chaque [[2 février]] ? <!-- score: 10 -->
 
 ###### Description
 

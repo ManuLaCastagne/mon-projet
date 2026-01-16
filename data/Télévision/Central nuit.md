@@ -22,6 +22,7 @@ questions:
  - Dans quelle série, diffusée sur France 2 de 2001 à 2009, Michel Creton incarnait-il le commissaire Victor Franklin?
 ---
 
+
 ![Image de Central nuit](https://upload.wikimedia.org/wikipedia/commons/9/91/Bow_Bridge_panorama_Central_Park_%2886746p%29.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelle série télévisée française, diffusée sur [[France 2]] entre [[2
 
 Quel programme a vu le comédien [[Michel Creton]] incarner le rôle du commissaire [[Victor Franklin]] pendant plusieurs saisons ? 
 
-Dans quelle série télévisée, faisant partie de la grille de [[France Télévisions]], la trame principale se déroule-t-elle dans le contexte spécifique du travail policier nocturne ?
+Dans quelle série télévisée, faisant partie de la grille de [[France Télévisions]], la trame principale se déroule-t-elle dans le contexte spécifique du travail policier nocturne ? <!-- score: 3 -->
 
 ###### Description
 

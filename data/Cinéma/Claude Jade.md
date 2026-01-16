@@ -23,11 +23,12 @@ indice_6:
 ---
 
 
+
 ![Image de Claude Jade](https://upload.wikimedia.org/wikipedia/commons/3/3a/Claude_Jade.jpg)
 
 ###### Questions
 
-En 1970, quelle comédienne incarne la femme de [[Jean-Pierre Léaud]] dans "Domicile conjugal"?
+En 1970, quelle comédienne incarne la femme de [[Jean-Pierre Léaud]] dans "Domicile conjugal"? <!-- score: 2 -->
 
 Qui incarne le personnage de [[Christine Darbon]] dans "Baisers volés" de Truffaut en 1968 ?
 

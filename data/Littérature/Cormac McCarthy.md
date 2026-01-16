@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - États-Unis
   - Années_2000
@@ -8,32 +8,32 @@ date:
   - 1933/07/20
 debut: 1933
 fin: 2023
-indice_1 : 
+indice_1:
   - La Route
-indice_2 : 
+indice_2:
   - Méridien de sang
-indice_3 : 
+indice_3:
   - Pulitzer 2007
-indice_4 : 
+indice_4:
   - style minimaliste
-indice_5 : 
+indice_5:
   - No Country for Old Men
-indice_6 : 
+indice_6:
   - auteur américain
-questions:
- - En 2007, quel auteur est récompensé par le prix Pulitzer de la fiction pour le roman "La Route"?
 ---
+
+
 
 
 ![Image de Cormac McCarthy](https://upload.wikimedia.org/wikipedia/commons/7/7f/Cormac_McCarthy_%28Child_of_God_author_portrait_-_high-res%29.jpg)
 
 ###### Questions
 
-Quel écrivain américain, surtout connu pour son roman post-apocalyptique [[The Road]] publié en 2006, a remporté le [[Prix Pulitzer de la fiction]] en 2007 ? <!-- score: 4 -->
+Quel écrivain américain, surtout connu pour son roman post-apocalyptique [[The Road]] publié en 2006, a remporté le [[Prix Pulitzer de la fiction]] en 2007 ? <!-- score: 5 -->
 
-Quel auteur, connu pour son style minimaliste et ses dialogues dépouillés, a écrit le roman [[No Country for Old Men]], qui a été adapté en film en 2007 par les frères [[Coen]] ?
+Quel auteur, connu pour son style minimaliste et ses dialogues dépouillés, a écrit le roman [[No Country for Old Men]], qui a été adapté en film en 2007 par les [[frères Coen]] ?
 
-Quel romancier de l'œuvre [[Blood Meridian]], considéré comme un chef-d'œuvre par de nombreux critiques littéraires, a été nommé l'un des plus grands écrivains américains contemporains et est décédé en 2023 ?
+Quel romancier de l'œuvre [[Blood Meridian]], considéré comme un chef-d'œuvre par de nombreux critiques littéraires, a été nommé l'un des plus grands écrivains américains contemporains et est décédé en 2023 ? <!-- score: 4 -->
 
 ###### Description
 

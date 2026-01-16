@@ -1,41 +1,34 @@
 ---
-tags: 
+tags:
   - Musique
   - France
-  - Années_1990
   - XXe
-date:
-  - 2020/07/17
-debut: 2020
-fin: 
-indice_1 : 
-  - Tatouage
-indice_2 : 
+  - Années_1980
+  - Certifié
+debut: 1986
+fin:
+indice_1:
+  - Etienne Daho
+indice_2:
   - art corporel
-indice_3 : 
+indice_3:
   - notes de musique
-indice_4 : 
+indice_4:
   - bras
-indice_5 : 
+indice_5:
   - encre
-indice_6 : 
+indice_6:
   - mélodie
-questions:
- - 86. Titre d'Etienne Daho...
 ---
 
-![Image de Epaule tattoo](https://upload.wikimedia.org/wikipedia/commons/4/41/Manutattoo4.jpg)
+![Image de Epaule tattoo](https://upload.wikimedia.org/wikipedia/commons/b/bf/EtienneDaho-StudioHarcourt-1987.png)
 
 ###### Questions
 
-Dans quel album de [[Florent Pagny]], sorti en 2003, trouve-t-on la chanson [[Épaule Tattoo]] ?
-
-Quelle chanson interprétée par [[Florent Pagny]] est un extrait de l'album "Ailleurs Land" paru en 2003 ?
-
-Quel titre de [[Florent Pagny]] sorti en single en 2003 fait référence à un tatouage sur une partie du corps ?
+En 1986, quel titre d'[[Étienne Daho]] fait référence à une partie du corps humain ?
 
 ###### Description
 
-Les tattoos d'épaule ont gagné en popularité au fil des décennies, devenant une véritable toile pour l'expression artistique. Depuis les années 1980, cet emplacement est prisé pour des créations allant de simples motifs tribaux à des portraits détaillés. Fait étonnant, le tatouage de [[Yakuza]], souvent débuté sur l'épaule, peut atteindre une étendue impressionnante, recouvrant parfois 80% du corps, ce qui lui a valu le surnom d’« irezumi » signifiant « inséré dans l'encre » en japonais.
+Épaule Tattoo est une chanson d'Étienne Daho, paru en single le 1er mars 1986 comme second extrait de l'album Pop Satori, dans lequel il figure.
 
-En musique, plusieurs artistes ont mis en avant leurs tattoos d'épaule, notamment [[Justin Bieber]] et [[Rihanna]], avec des dessins symbolisant pour eux résilience et créativité.
+Le single se classe brièvement au Top 50 les deux premières semaines d'octobre 1986, avant de le quitter et de revenir à la 49e place à partir du 25 octobre 1986. Resté six semaines consécutives dont une à la 39e place la semaine du 8 novembre 1986, il quitte le Top la semaine du 28 novembre à la 40e place.

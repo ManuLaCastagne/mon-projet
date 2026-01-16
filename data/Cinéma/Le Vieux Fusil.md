@@ -1,26 +1,29 @@
 ---
-tags: 
+tags:
   - Cinéma
   - France
   - Années_1970
   - XXe
+  - Certifié
 date:
   - 1975/08/20
 debut: 1975
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Philippe Noiret
-indice_2 : 
+indice_2:
   - Romy Schneider
-indice_3 : 
+indice_3:
   - film de 1975
-indice_4 : 
+indice_4:
   - vengeance après la Seconde Guerre mondiale
-indice_5 : 
+indice_5:
   - château de Bruniquel
-indice_6 : 
+indice_6:
   - Robert Enrico
 ---
+
+
 
 ![[Pasted image 20250421192655.png]]
 ###### Questions

@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Michelle Obama](https://upload.wikimedia.org/wikipedia/commons/4/4b/Michelle_Obama_2013_official_portrait.jpg)
 
 ###### Questions
 
 Quel est le nom de la femme ayant créé le programme [[Let's Move!]] en [[2010]] pour lutter contre l'obésité infantile aux [[États-Unis]] ?
 
-Qui a écrit le livre à succès [[Becoming]] publié en [[2018]], un ouvrage autobiographique qui est devenu un bestseller mondial ? <!-- score: 4 -->
+Qui a écrit le livre à succès [[Becoming]] publié en [[2018]], un ouvrage autobiographique qui est devenu un bestseller mondial ? <!-- score: 3 -->
 
 Quelle ancienne [[Première Dame des États-Unis]], devenue une figure inspirante pour les jeunes filles, est née le [[17 janvier 1964]] à [[Chicago]] ?
 

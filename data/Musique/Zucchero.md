@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Zucchero](https://upload.wikimedia.org/wikipedia/commons/5/5f/Zucchero_03.JPG)
 
 ###### Questions
 
 Quel chanteur italien, né en 1955, a été le premier artiste occidental à jouer au [[Kremlin]] après la chute de l'Union soviétique ?
 
-Quel artiste de blues italien a collaboré avec [[Luciano Pavarotti]] pour le célèbre concert de charité [[Pavarotti & Friends]] en 1992 ? <!-- score: 4 -->
+Quel artiste de blues italien a collaboré avec [[Luciano Pavarotti]] pour le célèbre concert de charité [[Pavarotti & Friends]] en 1992 ? <!-- score: 3 -->
 
 En 1988, quel musicien a sorti l'album à succès "[[Blue's]]", qui l'a propulsé sur la scène internationale ?
 

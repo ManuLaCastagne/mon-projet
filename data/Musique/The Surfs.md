@@ -28,10 +28,9 @@ indice_6:
 
 Quel groupe de musique, originaire de [[Madagascar]], a atteint la célébrité avec la chanson « [[Si j'avais un marteau]] » en 1963 ?
 
-Quel groupe formé par six frères et sœurs a connu un succès international avec des chansons en espagnol et en anglais dans les années 1960 sous le nom de The Surfs ?
+Quel groupe formé par six frères et sœurs a connu un succès international avec des chansons en espagnol et en anglais dans les années 1960 ? <!-- score: 5 -->
 
-Quel groupe familial méconnu a incarné la vague yéyé en France, partageant la scène avec des artistes de renom lors de l'Olympia de 1965 sous le nom de scène [[Les Surfs]] ?
-
+Quel groupe familial méconnu a incarné la vague yéyé en France, partageant la scène avec des artistes de renom lors de l'Olympia de 1965 ? <!-- score: 5 -->
 ###### Description
 
 Les [[Surfs]] étaient un groupe musical des années 1960 réputé pour leur style de yé-yé et leur harmonisation vocale complexe. 

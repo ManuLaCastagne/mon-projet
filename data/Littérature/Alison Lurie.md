@@ -27,6 +27,8 @@ indice_6:
 
 
 
+
+
 ![Image de Alison Lurie](https://upload.wikimedia.org/wikipedia/en/1/15/Alison_Lurie%2C_1981.jpg)
 
 ###### Questions

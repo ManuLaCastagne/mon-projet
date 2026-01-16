@@ -18,11 +18,12 @@ questions:
 ---
 
 
+
 ![Image de Vautour](https://upload.wikimedia.org/wikipedia/commons/1/19/Vautour_fauve_%28Gyps_fulvus%29.jpg)
 
 ###### Questions
 
-Quel animal joue un rôle essentiel dans la prévention de la propagation des maladies en nettoyant les carcasses d’animaux dans la nature ? <!-- score: 4 -->
+Quel animal joue un rôle essentiel dans la prévention de la propagation des maladies en nettoyant les carcasses d’animaux dans la nature ? <!-- score: 3 -->
 
 Quel oiseau, célèbre pour son incroyable acuité visuelle, est capable de repérer une carcasse depuis plusieurs kilomètres de distance et a été représenté dans le film de [[Disney]] "Le Livre de la jungle" en 1967 ? 
 

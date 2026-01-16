@@ -27,6 +27,7 @@ questions:
 
 
 
+
 ![Image de Sarah Vaughan](https://upload.wikimedia.org/wikipedia/commons/9/92/Sarah_Vaughan_-_William_P._Gottlieb_-_No._1.jpg)
 
 ###### Questions

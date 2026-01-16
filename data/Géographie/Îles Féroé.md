@@ -22,6 +22,7 @@ indice_6:
 ---
 
 
+
 ![Image de Îles Féroé](https://upload.wikimedia.org/wikipedia/commons/c/cf/%C3%8Eles_F%C3%A9ro%C3%A9_L%C3%B8gting_2022.svg)
 
 ![[Carte_Îles Féroé.png]]

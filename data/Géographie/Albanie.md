@@ -27,12 +27,13 @@ questions:
 
 
 
+
 ![Image de Albanie](https://upload.wikimedia.org/wikipedia/commons/1/11/Gjipe_beach%2C_Albania.JPG)
 
 ![[Carte_Albanie.png]]
 ###### Questions
 
-Quelle est la seule nation en [[Europe]] à avoir choisi l'[[athéisme d'État]] dans sa constitution en 1967 ? <!-- score: 5 -->
+Quelle est la seule nation en [[Europe]] à avoir choisi l'[[athéisme d'État]] dans sa constitution en 1967 ? <!-- score: 2 -->
 
 Quel pays est traversé par le fleuve [[Vjosë]], connu pour être l'un des derniers grands fleuves sauvages d'[[Europe]] ?
 

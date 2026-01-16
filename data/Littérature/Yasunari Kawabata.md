@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Japon
   - Années_1920
@@ -8,21 +8,20 @@ date:
   - 1899/06/14
 debut: 1899
 fin: 1972
-indice_1 : 
+indice_1:
   - Japonais
-indice_2 : 
+indice_2:
   - Prix Nobel de Littérature
-indice_3 : 
+indice_3:
   - La Beauté et la Tristesse
-indice_4 : 
+indice_4:
   - Le Grondement de la Montagne
-indice_5 : 
+indice_5:
   - Pays de Neige
-indice_6 : 
+indice_6:
   - 1968
-questions:
- - En 1948, quel écrivain japonais signe le roman "Pays de neige"?
 ---
+
 
 
 
@@ -33,9 +32,7 @@ questions:
 
 Quel auteur japonais a reçu le [[Prix Nobel de littérature]] en 1968, devenant ainsi le premier écrivain japonais à recevoir cette distinction ?
 
-Qui est l'auteur de [[Pays de neige]], un roman classique de la littérature japonaise publié pour la première fois en 1937 ? <!-- score: 3 -->
-
-Quel écrivain a été président du [[PEN Club International]] japonais de 1948 à 1965 ?
+Qui est l'auteur de [[Pays de neige]], un roman classique de la littérature japonaise publié pour la première fois en 1937 ? <!-- score: 4 -->
 
 ###### Description
 

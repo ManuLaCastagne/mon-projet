@@ -22,11 +22,12 @@ questions:
  - Dans le corps humain,  quelle protéine dont le nom est issu du grec signifiant "corne" est abondante  dans la couche superficielle  de l'épiderme ?
 ---
 
-![Image de Kératine](https://upload.wikimedia.org/wikipedia/commons/8/85/Keratin.jpg)
+
+![Image de Kératine](https://upload.wikimedia.org/wikipedia/commons/8/85/Keratin.jpg)
 
 ###### Questions
 
-Quelle protéine est responsable de la solidité des ongles humains et est également abondamment présente dans les cheveux ?
+Quelle protéine est responsable de la solidité des ongles humains et est également abondamment présente dans les cheveux ? <!-- score: 7 -->
 
 Quel composant principal des plumes des oiseaux et des écailles des reptiles a été mis en avant pour ses propriétés résistantes aux intempéries et aux agressions extérieures ?
 

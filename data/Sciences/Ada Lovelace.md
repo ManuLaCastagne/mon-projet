@@ -20,13 +20,14 @@ indice_6 :
   - Comtesse de Lovelace
 ---
 
+
 ![Image de Ada Lovelace](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg)
 
 ###### Questions
 
 Quel pionnier de l'informatique a publié en [[1843]] un article qui est considéré comme le premier programme informatique de l'histoire ?
 
-Quelle mathématicienne et collaboratrice de [[Charles Babbage]] est reconnue pour sa contribution significative à la conception de la [[machine analytique]] ?
+Quelle mathématicienne et collaboratrice de [[Charles Babbage]] est reconnue pour sa contribution significative à la conception de la [[machine analytique]] ? <!-- score: 4 -->
 
 Quelle personnalité britannique née en [[1815]], fille du poète [[Lord Byron]], est souvent célébrée lors de la [[Journée Ada Lovelace]] pour son rôle dans l'avènement de l'informatique ?
 

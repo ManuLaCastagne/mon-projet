@@ -3,9 +3,10 @@ tags:
   - Gastronomie
   - Suisse
 ---
+
 ###### Questions 
 
-Quel [[fromage]] suisse cylindrique se découpe en rosettes très fines avec une raclette pivotante appelée girolle ?
+Quel [[fromage]] suisse cylindrique se découpe en rosettes très fines avec une raclette pivotante appelée girolle ? <!-- score: 4 -->
 
 ###### Questions 
 

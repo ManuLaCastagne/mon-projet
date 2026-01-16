@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "29fc8e842a45d4a7",
+        "id": "0733a08cbc6419aa",
         "type": "tabs",
         "children": [
           {
-            "id": "802eaa51fd679387",
+            "id": "652151d0ad7e357f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sport/11 heures et 5 minutes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "11 heures et 5 minutes"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de conflict-files-obsidian-git"
             }
           },
           {
@@ -175,6 +180,34 @@
   },
   "active": "2673a9bab298e655",
   "lastOpenFiles": [
-    "Cinéma/La Belle Époque.md"
+    "conflict-files-obsidian-git.md",
+    "Sport/11 heures et 5 minutes.md",
+    "Sport/Nicholas Mahut.md",
+    "attachments/Pasted image 20260113162521.png",
+    "attachments/Pasted image 20260113152804.png",
+    "attachments/Pasted image 20260113152243.png",
+    "Vocabulaire/Zigonner.md",
+    "Vocabulaire/Physalie.md",
+    "Vocabulaire/Limonaire.md",
+    "Vocabulaire/Héméralopie.md",
+    "Télévision/Sophie Thalmann.md",
+    "Sport/Toronto Raptors.md",
+    "Sport/Jim Thorpe.md",
+    "Sciences/Sopalin.md",
+    "Sciences/Fokker Dr.I.md",
+    "Sciences/Alpha Romeo.md",
+    "Sciences/Alan Turing.md",
+    "Religion/Nouvel an.md",
+    "Musique/Oasis.md",
+    "Musique/Le Youki.md",
+    "Littérature/Saga Malaussène.md",
+    "Littérature/Margaret Mitchell.md",
+    "Littérature/Lorenzaccio.md",
+    "Littérature/Longtemps je me suis couché de bonne heure.md",
+    "Littérature/Le Rocher de Tanios.md",
+    "Littérature/Le Grand Meaulnes.md",
+    "Littérature/La Philosophie du non.md",
+    "Littérature/La Femme de ménage.md",
+    "Littérature/Freida McFadden.md"
   ]
 }

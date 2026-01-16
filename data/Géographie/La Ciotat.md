@@ -6,24 +6,21 @@ superficie: 43.65
 location: 43.1758591,5.6062495
 tags:
   - Géographie
-  - Provence-Alpes-Côte_d'Azur
   - France
   - Bouches-du-Rhône
-
-indice_1 : 
+  - Certifié
+indice_1:
   - Bouches-du-Rhône
-indice_2 : 
+indice_2:
   - Méditerranée
-indice_3 : 
+indice_3:
   - calanques
-indice_4 : 
+indice_4:
   - Berceau du cinéma
-indice_5 : 
+indice_5:
   - chantier naval
-indice_6 : 
+indice_6:
   - Train de l'Escalette
-questions:
- - Dans quelle ville Louis Lumière a-t-il tourné...
 ---
 
 
@@ -34,9 +31,7 @@ questions:
 
 Dans quelle ville française, en 1895, a été projeté le premier film public des [[frères Lumière]], intitulé « L'Arrivée d'un train en gare » ?
 
-Quelle commune des [[Bouches-du-Rhône]] abrite une des plus anciennes salles de cinéma du monde, l'[[Eden Théâtre]], inaugurée en 1889 ?
-
-Quel port de la [[Méditerranée]], célèbre pour ses chantiers navals et ses criques, est aussi le lieu où l'on peut visiter la chapelle Notre-Dame-de-la-Garde datant du [[15ème siècle]] ? <!-- score: 4 -->
+Quelle commune des [[Bouches-du-Rhône]] abrite une des plus anciennes salles de cinéma du monde, l'[[Eden Théâtre]], inaugurée en 1889 lié aux débuts des frères Lumière ?
 
 ###### Description
 

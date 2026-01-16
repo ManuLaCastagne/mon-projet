@@ -26,12 +26,11 @@ questions:
 
 ###### Questions
 
-Quel boxeur américain a remporté la médaille d'or dans la catégorie des poids légers aux [[Jeux olympiques d'été de 1992]] à [[Barcelone]] ?
+Quel boxeur américain a remporté la médaille d'or dans la catégorie des poids légers aux [[Jeux olympiques d'été de 1992]] à [[Barcelone]] ? <!-- score: 2 -->
 
 Qui a remporté un total de dix titres mondiaux dans six catégories de poids différentes, allant des super-plumes aux poids moyens de 1992 à 2008 ?
 
 Quel boxeur a fondé la société de promotion de boxe [[Golden Boy Promotions]] en 2002 ?
-
 ###### Description
 
 [[Oscar De La Hoya]] est un ancien boxeur professionnel né le 4 février 1973 à [[Los Angeles]], en Californie, et connu pour sa carrière exceptionnelle dans la boxe anglaise.
