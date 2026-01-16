@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Animaux/Barbet.md",
+                "file": "Vocabulaire/Yeomanry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barbet"
+              "title": "Yeomanry"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Animaux/Barbet.md",
+                "file": "Vocabulaire/Yeomanry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Barbet"
+              "title": "Graphique de Yeomanry"
             },
             "group": "8fa028c6fda70cca"
           }
@@ -357,6 +357,8 @@
   },
   "active": "6ca3aa9b0430f04f",
   "lastOpenFiles": [
+    "Vocabulaire/Étrave.md",
+    "Animaux/Barbet.md",
     "Architecture/Cathédrale d'Amiens.md",
     "Vocabulaire/Langue de belle-mère.md",
     "Télévision/Liliane Bettencourt.md",
@@ -381,8 +383,6 @@
     "Architecture/Robert de Luzarches.md",
     "Cinéma/Henry Fonda.md",
     "Animaux/Épervier.md",
-    "Cinéma/Melvil Poupaud.md",
-    "Cinéma/La Fille de 15 ans.md",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
