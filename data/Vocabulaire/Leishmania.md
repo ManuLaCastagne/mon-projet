@@ -1,18 +1,19 @@
 ---
-tags: 
+tags:
   - DCDL
   - Sciences
-indice_1 : 
+  - Certifié
+indice_1:
   - Protozoaire
-indice_2 : 
+indice_2:
   - Parasite
-indice_3 : 
+indice_3:
   - Moustique phlébotome
-indice_4 : 
+indice_4:
   - Zoonose
-indice_5 : 
+indice_5:
   - Leishmaniose
-indice_6 : 
+indice_6:
   - Tropiques
 ---
 
