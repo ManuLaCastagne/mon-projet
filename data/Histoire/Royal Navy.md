@@ -21,6 +21,7 @@ indice_6:
 ---
 
 
+
 ![Image de Royal Navy](https://upload.wikimedia.org/wikipedia/commons/8/87/Future_of_the_Royal_Navy_2025.png)
 
 ###### Questions
@@ -29,7 +30,7 @@ Dans quel corps de l'armée britannique au sein duquel il prit le commandement d
 
 Quel corps militaire a adopté une politique de rationnement de [[citron]]s et de [[lime]]s à partir de [[1795]] pour combattre le [[scorbut]] dans ses rangs ?  
 
-Quelle institution a mis en service le premier sous-marin moderne entièrement submersible, le [[HMS Holland 1]], en [[1901]] ? <!-- score: 4 -->
+Quelle institution a mis en service le premier sous-marin moderne entièrement submersible, le [[HMS Holland 1]], en [[1901]] ? <!-- score: 2 -->
 
 Quel organisme est responsable de la défaite décisive de l'[[Invincible armada]] lors de la bataille de [[Gravelines]] en [[1588]] ?
 
