@@ -16,13 +16,14 @@ indice_6 :
   - Eau
 ---
 
+
 ![Image de Cabiai](https://upload.wikimedia.org/wikipedia/commons/9/99/Capivara%28Hydrochoerus_hydrochaeris%29.jpg)
 
 ###### Questions
 
 Quel est le plus grand rongeur du monde, souvent associé aux [[rivières d'Amérique du Sud]] ?
 
-Quel animal est parfois appelé [[Capybara]] en anglais et appartient à la famille des [[Caviidae]] ?
+Quel animal est parfois appelé [[Capybara]] en anglais et appartient à la famille des [[Caviidae]] ? <!-- score: 4 -->
 
 Quel mammifère semi-aquatique est connu pour sa capacité à vivre autant dans l'eau que sur terre, principalement dans les [[marais et plaines inondées]] ?
 
