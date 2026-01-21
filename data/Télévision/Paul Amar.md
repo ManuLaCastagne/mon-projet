@@ -22,11 +22,12 @@ questions:
  - Lors de la campagne des élections européennes 94, quel journaliste fait scandale en proposant des gants de boxe aux participants...
 ---
 
+
 ![Image de Paul Amar](https://upload.wikimedia.org/wikipedia/commons/f/f6/Maniesh_Paul_snapped_at_the_special_screening_of_Amar_Singh_Chamkila.jpg)
 
 ###### Questions
 
-Quel journaliste a créé un scandale en 1994 avec sa célèbre "affaire des gants de boxe" lors d'un débat sur [[France 2]] entre [[Jean-Marie Le Pen]] et [[Bernard Tapie]] ?
+Quel journaliste a créé un scandale en 1994 avec sa célèbre "affaire des gants de boxe" lors d'un débat sur [[France 2]] entre [[Jean-Marie Le Pen]] et [[Bernard Tapie]] ? <!-- score: 1 -->
 
 Qui était le présentateur de l'émission "[[Sept sur Sept]]" sur [[TF1]] avant de rejoindre [[France 2]] en 1992 ?
 
