@@ -30,7 +30,7 @@ questions:
 
 Quel roi troyen a dû racheter le corps de son fils [[Hector]] en offrant une rançon à [[Achille]] lors de la guerre de [[Troie]] décrite dans l'[[Iliade]] d'[[Homère]] ? <!-- score: 3 -->
 
-Quel personnage mythologique, roi de [[Troie]], a vu sa ville envahie et détruite par les [[Grecs]] lors de la célèbre guerre qui s'est déroulée autour de l'année 1184 avant J.-C. selon les estimations traditionnelles ? <!-- score: 0 -->
+Quel personnage mythologique, roi de [[Troie]], a vu sa ville envahie et détruite par les [[Grecs]] lors de la célèbre guerre qui s'est déroulée autour de l'année 1184 avant J.-C. selon les estimations traditionnelles ? <!-- score: 1 -->
 
 Quel roi est le père de cinquante fils dont [[Pâris]] et [[Hector]], impliqués dans les événements tragiques de la guerre de [[Troie]] ?
 
