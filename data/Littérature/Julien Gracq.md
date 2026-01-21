@@ -24,17 +24,15 @@ questions:
  - Quel écrivain français, de son vrai nom Louis Poirier et auteur du "Rivage des Syrtes" a toujours refusé d'être édité ?
 ---
 
-
 ![Image de Julien Gracq](https://upload.wikimedia.org/wikipedia/commons/2/24/Signature_julien_gracq.png)
 
 ###### Questions
 
 Quel écrivain français a refusé le [[Prix Goncourt]] en 1951 pour son roman [[Le Rivage des Syrtes]] ?
 
-Quel auteur, nommé [[Louis Poirier]], a choisi [[Julien Gracq]] comme pseudonyme littéraire inspiré par [[Stendhal]] et [[Julien Sorel]] ? <!-- score: 5 -->
+Quel auteur, nommé [[Louis Poirier]], a choisi comme pseudonyme littéraire inspiré par [[Stendhal]] et [[Julien Sorel]] ? <!-- score: 5 -->
 
 Quel écrivain du [[XXe siècle]], dont la première œuvre "[[Au château d'Argol]]" est publiée en 1938, est connu pour son style onirique et fantastique ?
-
 ###### Description
 
 Le célèbre écrivain français [[Julien Gracq]], né le 27 juillet 1910, est considéré comme une figure majeure de la littérature du XXe siècle, notamment pour ses récits imprégnés de surréalisme et ses paysages littéraires enchanteurs. 
