@@ -25,6 +25,7 @@ questions:
  - Tiré d'un roman de Rosny aîné me déroulant à l'époque préhistorique, je suis
 ---
 
+
 ![Image de La Guerre du feu](https://upload.wikimedia.org/wikipedia/commons/4/48/La_Guerre_du_feu_%28J.-H._Rosny_a%C3%AEn%C3%A9%29_-_couverture_illustr%C3%A9e_par_Carl%C3%A8gle.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Dans quel film sorti en 1981, réalisé par [[Jean-Jacques Annaud]], les dialogu
 
 Quel long-métrage a remporté l'Oscar des meilleurs maquillages lors de la cérémonie de 1983, sous la supervision de [[Sarah Monzani]] et [[Michèle Burke]] ?
 
-Dans quel film [[Ron Perlman]] a fait ses débuts au cinéma en jouant le rôle d'un membre d'une tribu préhistorique ?
+Dans quel film [[Ron Perlman]] a fait ses débuts au cinéma en jouant le rôle d'un membre d'une tribu préhistorique ? <!-- score: 1 -->
 
 ###### Description
 
