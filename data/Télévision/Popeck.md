@@ -22,13 +22,14 @@ questions:
  - A quel humoriste, né en 1936, reconnaissable à son chapeau melon et à son accent yiddish disait "P't'être que ça marchera..." ou "On n'est pas des sauvages, tout d'même!" ?
 ---
 
+
 ![Image de Popeck](https://upload.wikimedia.org/wikipedia/commons/c/c4/Popeck_en_spectacle_au_CCMP_de_Bures_le_26_03_2010.JPG)
 
 ###### Questions
 
 Quelle personnalité interprète un personnage culte de la série humoristique "[[Palace]]" diffusée en [[1988]] sur [[Canal+]] ?
 
-Quel humoriste a participé à l'émission "[[Rendez-vous en terre inconnue]]" en [[2013]], voyageant au [[Sénégal]] avec [[Frédéric Lopez]] ?
+Quel humoriste a participé à l'émission "[[Rendez-vous en terre inconnue]]" en [[2013]], voyageant au [[Sénégal]] avec [[Frédéric Lopez]] ? <!-- score: 10 -->
 
 Quel comédien a joué dans le téléfilm français "[[Monsieur Batignole]]" en [[2002]] réalisé par [[Gérard Jugnot]] ?
 
