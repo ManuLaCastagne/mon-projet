@@ -20,10 +20,11 @@ indice_6:
   - Histoire d'amour
 ---
 
+
 ![[Pasted image 20250503090808.png]]
 ###### Questions
 
-Quel film réalisé par [[Michel Gondry]] en 2004 explore le concept de l'effacement des souvenirs amers dans une histoire d'amour entre [[Joel Barish]] et [[Clementine Kruczynski]] ? <!-- score: 4 -->
+Quel film réalisé par [[Michel Gondry]] en 2004 explore le concept de l'effacement des souvenirs amers dans une histoire d'amour entre [[Joel Barish]] et [[Clementine Kruczynski]] ? <!-- score: 3 -->
 
 Quel long métrage, mettant en vedette [[Jim Carrey]] et [[Kate Winslet]], a remporté l'[[Oscar du meilleur scénario original]] en 2005 ?
 
