@@ -26,13 +26,14 @@ questions:
 ---
 
 
+
 ![Image de Loggia](https://upload.wikimedia.org/wikipedia/commons/c/cc/20180601_Ratusz_w_Bardejowie_1013_3271_DxO.jpg)
 
 ###### Questions
 
 Quelle structure architecturale, souvent ouverte sur un côté et utilisée pour profiter d'une vue, est souvent mise en avant dans les œuvres de [[Palladio]] au XVIe siècle et dont le terme dérive de l'italien signifiant "petite loge"?
 
-Quel élément architectural, typique de la [[Renaissance italienne]], se trouve fréquemment dans les palais tels que le [[Palazzo Vecchio]] de [[Florence (ville)]] et qui peut être utilisé comme un espace de transition entre l'intérieur et l'extérieur? <!-- score: 4 -->
+Quel élément architectural, typique de la [[Renaissance italienne]], se trouve fréquemment dans les palais tels que le [[Palazzo Vecchio]] de [[Florence (ville)]] et qui peut être utilisé comme un espace de transition entre l'intérieur et l'extérieur? <!-- score: 3 -->
 
 Comment appelle-t-on la galerie couverte, soutenue par des colonnes et souvent intégrée à l'architecture des villas de [[la Rome antique]], qui a connu un renouveau au XVIe siècle?
 
