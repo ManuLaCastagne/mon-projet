@@ -24,13 +24,14 @@ questions:
  - Professeur à l'université de Rouen, mon roman "Omaha Crimes" a été réédité en 2014 sous le titre "Gravé dans le sable". Figurant parmi les écrivains les plus lus en France, je suis…
 ---
 
+
 ![Image de Michel Bussi](https://upload.wikimedia.org/wikipedia/commons/0/07/Michel_Bussi_09417.JPG)
 
 ###### Questions
 
 Quel auteur français, spécialisé dans le genre du [[polar]], a publié son tout premier roman, "Code [[Lupin]]", en 2006?
 
-Quel écrivain a été classé comme seizième auteur le plus lu en France en 2015, grâce à ses œuvres captivantes de [[littérature française]]?
+Quel écrivain a été classé comme seizième auteur le plus lu en France en 2015, grâce à ses œuvres captivantes de [[littérature française]]? <!-- score: 5 -->
 
 Quel professeur de géographie, devenu célèbre pour ses romans policiers tels que "[[Un avion sans elle]]", a remporté le [[Prix Maison de la Presse]] en 2012?
 
