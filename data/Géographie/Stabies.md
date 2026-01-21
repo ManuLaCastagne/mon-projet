@@ -24,13 +24,14 @@ indice_6 :
   - Campanie
 ---
 
+
 ![[Carte_Stabies.png]]
 
 ###### Questions
 
 Quelle ville romaine a été ensevelie en même temps que [[Pompéi]] et [[Herculanum]] lors de l'éruption du [[Vésuve]] en [[79]] après J.-C. ?
 
-Quel site archéologique, situé près de [[Pompéi]], est connu pour ses luxueuses villas de l'époque romaine découvertes grâce aux campagnes de fouilles menées notamment au [[XXe siècle]] ?
+Quel site archéologique, situé près de [[Pompéi]], est connu pour ses luxueuses villas de l'époque romaine découvertes grâce aux campagnes de fouilles menées notamment au [[XXe siècle]] ? <!-- score: 3 -->
 
 Dans quelle ville antique, ravagée par l'éruption du [[Vésuve]] en [[79]] après J.-C., se trouve la célèbre [[Villa San Marco]] ?
 
