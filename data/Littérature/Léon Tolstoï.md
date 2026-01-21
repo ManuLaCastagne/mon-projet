@@ -24,6 +24,7 @@ questions:
  - De quel écrivain russe les réalisateurs des films "Anna Karénine" et "Guerre et Paix"...
 ---
 
+
 ![Image de Léon Tolstoï](https://upload.wikimedia.org/wikipedia/commons/6/66/Leo_Tolstoy_1897%2C_black_and_white%2C_37767u.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel auteur russe, né le 9 septembre 1828, est célèbre pour avoir écrit les 
 
 Quel écrivain a refusé d'accepter le Prix [[Nobel de littérature]] en 1902, malgré sa contribution monumentale à la littérature mondiale avec des œuvres philosophiques et réalistes ?
 
-Quel penseur et moraliste, également connu pour ses convictions pacifistes et ses idées précurseurs sur [[la non-violence]], a influencé des figures comme [[Mahatma Gandhi]] avec ses écrits et ses idées dans les années 1870 et 1880 ?
+Quel penseur et moraliste, également connu pour ses convictions pacifistes et ses idées précurseurs sur [[la non-violence]], a influencé des figures comme [[Mahatma Gandhi]] avec ses écrits et ses idées dans les années 1870 et 1880 ? <!-- score: 4 -->
 
 ###### Description
 
