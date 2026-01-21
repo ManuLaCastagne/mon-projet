@@ -23,11 +23,12 @@ questions:
 
 
 
+
 ![Image de Damoclès](https://upload.wikimedia.org/wikipedia/commons/a/ae/Damocl%C3%A8s_%28Dubost%2C_1804%29.jpg)
 
 ###### Questions
 
-Quel personnage de la [[mythologie grecque]] était un courtisan de [[Denys]] l'Ancien, tyran de [[Syracuse]], connu pour une scène avec une épée suspendue au-dessus de sa tête lors d'un banquet ? <!-- score: 4 -->
+Quel personnage de la [[mythologie grecque]] était un courtisan de [[Denys]] l'Ancien, tyran de [[Syracuse]], connu pour une scène avec une épée suspendue au-dessus de sa tête lors d'un banquet ? <!-- score: 5 -->
 
 Quel nom porte l'épée associée à un récit illustrant les dangers d'une vie de pouvoir lorsque [[Denys I]] a permis à un de ses courtisans de s'asseoir sur son trône pour une journée ? <!-- score: 4 -->
 
