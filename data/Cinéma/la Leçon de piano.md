@@ -20,11 +20,12 @@ indice_6 :
   - Anna Paquin
 ---
 
+
 ![Image de la Leçon de piano](https://upload.wikimedia.org/wikipedia/commons/3/3a/La_Le%C3%A7on_de_piano%2C_par_Henri_Matisse.jpg)
 
 ###### Questions
 
-Quel film de [[Jane Campion]] a remporté la Palme d'or au [[Festival de Cannes]] en [[1993]] ?
+Quel film de [[Jane Campion]] a remporté la Palme d'or au [[Festival de Cannes]] en [[1993]] ? <!-- score: 7 -->
 
 Dans quel film la performance d'[[Holly Hunter]] lui a valu l'[[Oscar]] de la meilleure actrice en [[1994]] ?
 
