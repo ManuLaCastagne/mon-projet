@@ -22,6 +22,7 @@ questions:
   - En 1823, quel roi de France annonce que 100 000 Français sont prêts à se rendre en Espagne pour rétablir Ferdinand VII dans la plénitude de ses pouvoirs?
 ---
 
+
 ![Image de Louis XVIII](https://upload.wikimedia.org/wikipedia/commons/7/77/G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ En 1823, quel roi de France annonce que 100 000 Français sont prêts à se rend
 
 Quel roi de France a rétabli la [[monarchie]] après la chute de [[Napoléon Bonaparte]] en 1814 et a été surnommé le "Désiré" ?
 
-Quel souverain français a régné pendant la [[Restauration]] de 1814 à 1824, hormis la période des [[Cent-Jours]] ?
+Quel souverain français a régné pendant la [[Restauration]] de 1814 à 1824, hormis la période des [[Cent-Jours]] ? <!-- score: 2 -->
 
 Quel membre des [[Bourbons]] est monté sur le trône de France à l'âge de 59 ans après avoir passé des années en exil lors de la [[Révolution française]] ?
 
