@@ -23,7 +23,8 @@ questions:
 ---
 
 
-![Image de Pyromètre](https://upload.wikimedia.org/wikipedia/commons/7/72/Pyrometer_040824.jpg)
+
+![Image de Pyromètre](https://upload.wikimedia.org/wikipedia/commons/7/72/Pyrometer_040824.jpg)
 
 ###### Questions
 
