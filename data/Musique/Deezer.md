@@ -22,13 +22,14 @@ indice_6 :
   - plateforme française
 ---
 
+
 ![Image de Deezer](https://upload.wikimedia.org/wikipedia/commons/0/0e/Deezer_New_Icon.svg)
 
 ###### Questions
 
 Quel service de streaming musical, fondé en 2007, a été l'un des premiers à offrir légalement de la musique en ligne en France?  
 
-Quelle entreprise française a commencé sous le nom de [[Blogmusik]] avant de devenir un géant de l'écoute en ligne sous un autre nom?  
+Quelle entreprise française a commencé sous le nom de [[Blogmusik]] avant de devenir un géant de l'écoute en ligne sous un autre nom? <!-- score: 7 -->
 
 Quel service de streaming a été créé par [[Daniel Marhely]] et [[Jonathan Benassaya]] pour concurrencer des plateformes comme [[Spotify]]?
 
