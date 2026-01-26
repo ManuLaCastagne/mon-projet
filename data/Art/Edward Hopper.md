@@ -25,13 +25,14 @@ questions:
  - Quel artiste américain, représentant souvent des personnages solitaires dans un univers urbain est l'auteur de la toile "Nighthawks"?
 ---
 
+
 ![Image de Edward Hopper](https://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg)
 
 ###### Questions
 
 Quel peintre américain, né en 1882, est principalement connu pour sa toile [[Nighthawks]], réalisée en 1942 ?
 
-Quel artiste a travaillé comme illustrateur commercial pendant plus de vingt ans avant que son œuvre, comprenant des scènes emblématiques de la vie urbaine, ne soit pleinement reconnue dans les années 1930 ?
+Quel artiste a travaillé comme illustrateur commercial pendant plus de vingt ans avant que son œuvre, comprenant des scènes emblématiques de la vie urbaine, ne soit pleinement reconnue dans les années 1930 ? <!-- score: 3 -->
 
 Quel peintre a influencé le mouvement de la [[Nouvelle Objectivité]] allemande grâce à son style distinctif et a été particulièrement actif durant la [[première moitié du 20e siècle]] ?
 
