@@ -16,11 +16,12 @@ indice_6 :
   - René Just Haüy
 ---
 
+
 ![Image de Haüyne](https://upload.wikimedia.org/wikipedia/commons/6/65/Ha%C3%BCyne.jpg)
 
 ###### Questions
 
-Quel minéral bleu, membre du groupe des feldspathoïdes, a été découvert par [[René Just Haüy]] ?
+Quel minéral bleu, membre du groupe des feldspathoïdes, a été découvert par [[René Just Haüy]] ? <!-- score: 6 -->
 
 Quel minéral sombre, souvent trouvé dans les volcans alcalins tels que ceux de [[San Carlos]] en [[Arizona]], a été nommé en l'honneur de l'abbé [[René-Just Haüy]] ?
 
