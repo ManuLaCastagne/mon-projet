@@ -22,6 +22,7 @@ indice_6 :
   - drapeau olympique absents
 ---
 
+
 ![Image de Londres 1908](https://upload.wikimedia.org/wikipedia/commons/2/2b/JO_Londres_1908_-_m%C3%A9daille_d%27argent.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelle ville et en quelle année ont eu lieu les premiers [[Jeux Olympiques
 
 Quel événement a marqué l'introduction du [[tir à la corde]] en tant que discipline dans les [[Jeux Olympiques modernes]] ?
 
-À quelle édition des [[Jeux Olympiques d'été]] a-t-on assisté pour la première fois à la participation de tous les pays du [[Commonwealth]] réunis sous le nom de [[Empire britannique]] ?
+À quelle édition des [[Jeux Olympiques d'été]] a-t-on assisté pour la première fois à la participation de tous les pays du [[Commonwealth]] réunis sous le nom de [[Empire britannique]] ? <!-- score: 4 -->
 
 ###### Description
 
