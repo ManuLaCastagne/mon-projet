@@ -24,11 +24,12 @@ questions:
 
 
 
+
 ![Image de Relapse](https://upload.wikimedia.org/wikipedia/commons/2/28/Relapse-Rates-Comparison.jpg)
 
 ###### Questions
 
-Quel album de [[Eminem]], sorti en [[2009]], marque son retour sur la scène musicale après plusieurs années d'absence ?
+Quel album de [[Eminem]], sorti en [[2009]], marque son retour sur la scène musicale après plusieurs années d'absence ? <!-- score: 4 -->
 
 Quel est le titre du documentaire d'[[HBO]], sorti en [[2003]], qui explore les défis de la réhabilitation des toxicomanes dans le système judiciaire américain ? <!-- score: 4 -->
 
