@@ -22,6 +22,7 @@ questions:
  - Quel prénom de l'Ancien Testament venant de l'hébreu signifiant "abeille" est porté par une actrice belge à l'affiche du film "Populaire" ?
 ---
 
+
 ![Image de Déborah](https://upload.wikimedia.org/wikipedia/commons/1/15/D%C3%A9borah_Alexandra_Acevedo_Fiallo.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel personnage biblique féminin, prophétesse et juge d'[[Israël]], est connu
 
 Quel est le nom de l'unique juge femme mentionnée dans les textes sacrés, qui a dirigé le peuple d'[[Israël]] en les menant à la victoire contre [[Sisera]] au cours d'une bataille historique ?  
 
-Quel est le prénom de la prophétesse qui a connu une renommée singulière en organisant une révolte contre le roi [[Jabin]] de Canaan, marquant un événement mémorable dans l'histoire biblique vers 1125 avant Jésus-Christ ?
+Quel est le prénom de la prophétesse qui a connu une renommée singulière en organisant une révolte contre le roi [[Jabin]] de Canaan, marquant un événement mémorable dans l'histoire biblique vers 1125 avant Jésus-Christ ? <!-- score: 4 -->
 
 ###### Description
 
