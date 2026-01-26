@@ -22,6 +22,7 @@ questions:
  - Et Manny Pacquiao. Américain d'origine mexicaine… Premier boxeur de l'histoire champion du monde dans six catégories de poids différents.  Surnommé le Golden Boy.
 ---
 
+
 ![Image de Oscar De La Hoya](https://upload.wikimedia.org/wikipedia/commons/5/5e/Oscar_De_La_Hoya_2010.jpg)
 
 ###### Questions
