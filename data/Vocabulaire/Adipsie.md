@@ -16,13 +16,14 @@ indice_6 :
   - besoin de boire
 ---
 
+
 ![Image de Adipsie](https://upload.wikimedia.org/wikipedia/commons/0/05/LL-Q150_%28fra%29-WikiLucas00-adipsie.wav)
 
 ###### Questions
 
 Quel est le terme médical, souvent observé chez certains patients souffrant de troubles du [[système nerveux central]], qui décrit l'absence de sensation de soif ?
 
-Comment nomme-t-on la maladie qui empêche la perception du besoin de boire de l'eau, parfois causée par des lésions à l'[[hypothalamus]] ?
+Comment nomme-t-on la maladie qui empêche la perception du besoin de boire de l'eau, parfois causée par des lésions à l'[[hypothalamus]] ? <!-- score: 4 -->
 
 ###### Description
 
