@@ -22,13 +22,14 @@ questions:
  - Je m'éloigne ensuite de Robespierre et de sa politique de terreur.  Exposant mes idées dans le journal "Le Vieux Cordelier", je suis jugé avec Danton puis exécuté, comme beaucoup à cette époque, en 1794.
 ---
 
+
 ![Image de Camille Desmoulins](https://upload.wikimedia.org/wikipedia/commons/3/35/Camille_Desmoulins-1.jpg)
 
 ###### Questions
 
 Quel révolutionnaire français a prononcé un discours enflammé au Palais-Royal le 12 juillet [[1789]], incitant les Parisiens à prendre les armes ?
 
-Quel journaliste et avocat, né en [[1760]], est devenu célèbre pour avoir fondé le journal révolutionnaire "[[Le Vieux Cordelier]]" ?
+Quel journaliste et avocat, né en [[1760]], est devenu célèbre pour avoir fondé le journal révolutionnaire "[[Le Vieux Cordelier]]" ? <!-- score: 6 -->
 
 Quel personnage clé de la [[Révolution française]], allié de [[Georges Danton]], a été exécuté le 5 avril [[1794]] pendant la [[Terreur]] ?
 
