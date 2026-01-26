@@ -22,6 +22,7 @@ questions:
  - Remarquable puncheur, ce qui m'a valu le surnom de Manos de piedra, c'est-à-dire mains de pierre, j'ai disputé des matchs...
 ---
 
+
 ![Image de Roberto Duran](https://upload.wikimedia.org/wikipedia/commons/e/e9/Roberto-Duran-1994_%28cropped%29.png)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel boxeur panaméen surnommé "Manos de Piedra" a été quatre fois champion d
 
 Quel légendaire boxeur a été le principal protagoniste du fameux match "No Mas" contre [[Sugar Ray Leonard]] le [[25 novembre 1980]]?
 
-Quel ancien champion du monde a pris sa retraite en [[2002]] après une carrière professionnelle de plus de cinq décennies?
+Quel ancien champion du monde a pris sa retraite en [[2002]] après une carrière professionnelle de plus de cinq décennies? <!-- score: 10 -->
 
 ###### Description
 
