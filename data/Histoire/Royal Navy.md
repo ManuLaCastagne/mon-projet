@@ -22,11 +22,12 @@ indice_6:
 
 
 
+
 ![Image de Royal Navy](https://upload.wikimedia.org/wikipedia/commons/8/87/Future_of_the_Royal_Navy_2025.png)
 
 ###### Questions
 
-Dans quel corps de l'armée britannique au sein duquel il prit le commandement du HMS Wellington le roi [[Charles III]] s'est-il illustré ?
+Dans quel corps de l'armée britannique au sein duquel il prit le commandement du HMS Wellington le roi [[Charles III]] s'est-il illustré ? <!-- score: 6 -->
 
 Quel corps militaire a adopté une politique de rationnement de [[citron]]s et de [[lime]]s à partir de [[1795]] pour combattre le [[scorbut]] dans ses rangs ?  
 
