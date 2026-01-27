@@ -1,20 +1,20 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
   - Crustacé
-indice_2 : 
+  - Certifié
+indice_1:
+  - Crustacé
+indice_2:
   - Maja brachydactyla
-indice_3 : 
+indice_3:
   - Decapoda
-indice_4 : 
+indice_4:
   - Atlantique Nord-Est
-indice_5 : 
+indice_5:
   - Grande araignée de mer
-indice_6 : 
+indice_6:
   - Spécialité culinaire en Bretagne
-questions:
- - Quel crustacé appelle-t-on également "crabe maja", qui se reconnaît à ses longues pattes velues et à sa carapace épineuse ?
 ---
 
 
@@ -22,7 +22,7 @@ questions:
 
 ###### Questions
 
-Quelle créature marine a été représentée sur un timbre français émis en [[1956]]?
+Quel crustacé appelle-t-on également "[[crabe maja]]", qui se reconnaît à ses longues pattes velues et à sa carapace épineuse ?
 
 Quel animal porte un nom commun avec un insecte malgré sa grande taille sous les eaux des côtes bretonnes? <!-- score: 3 -->
 

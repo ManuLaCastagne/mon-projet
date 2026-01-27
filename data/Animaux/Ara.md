@@ -30,7 +30,7 @@ Quel est le nom donné aux perroquets célèbres pour leur présence dans certai
 
 ###### Description
 
-Les [[Ara]] sont des oiseaux remarquables appartenant à la famille des [[Psittacidae]] et à l'ordre des [[Psittaciformes]], avec le nom scientifique de *Ara*, qui inclut plusieurs espèces de perroquets colorés. Cet animal, souvent désigné sous le nom vernaculaire de "perroquet", est principalement originaire des régions tropicales d'[[Amérique du Sud]] et [[Amérique centrale]].
+Les [[Ara]] sont des oiseaux remarquables appartenant à la famille des [[psittacidé]] et à l'ordre des [[Psittaciformes]], avec le nom scientifique de *Ara*, qui inclut plusieurs espèces de perroquets colorés. Cet animal, souvent désigné sous le nom vernaculaire de "perroquet", est principalement originaire des régions tropicales d'[[Amérique du Sud]] et [[Amérique centrale]].
 
 Leurs plumes éclatantes et leur intelligence en font des sujets prisés dans la culture populaire et le symbolisme local, représentant souvent la beauté naturelle et la liberté. 
 
