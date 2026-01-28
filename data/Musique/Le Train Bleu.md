@@ -24,11 +24,12 @@ questions:
  - Quel ballet mis en musique par Darius Milo sur un livret de Jean Cocteau doit son titre à un célèbre train des années 20 ?
 ---
 
+
 ![Image de Le Train Bleu](https://upload.wikimedia.org/wikipedia/commons/9/99/Le_Train_Bleu%2C_by_Vincent_van_Gogh%2C_from_C2RMF_cropped.jpg)
 
 ###### Questions
 
-Quel ballet composé en 1924 par [[Darius Milhaud]] est devenu célèbre sous le nom de [[Le Train Bleu]] ?
+Quel ballet composé en 1924 par [[Darius Milhaud]] est devenu célèbre sous le nom de [[Le Train Bleu]] ? <!-- score: 10 -->
 
 Quel est le titre de l'œuvre de [[Jean Cocteau]] qui servit de livret pour un ballet dirigé par [[Serge Diaghilev]] en 1924 et qui porte le même nom qu'un célèbre restaurant parisien ?
 
