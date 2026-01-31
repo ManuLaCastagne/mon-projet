@@ -23,11 +23,12 @@ questions:
 
 
 
+
 ![Image de Atrée](https://upload.wikimedia.org/wikipedia/commons/5/5f/Bananenfalter%2C_Caligo_atreus_dionysos_1.JPG)
 
 ###### Questions
 
-Quel roi de [[Mycènes]], père d'[[Agamemnon]] et de [[Ménélas]], est connu pour avoir servi un repas macabre composé de ses propres neveux aux dieux, un acte qui est à l'origine de la malédiction des [[Atrides]] ? <!-- score: 3 -->
+Quel roi de [[Mycènes]], père d'[[Agamemnon]] et de [[Ménélas]], est connu pour avoir servi un repas macabre composé de ses propres neveux aux dieux, un acte qui est à l'origine de la malédiction des [[Atrides]] ? <!-- score: 4 -->
 
 Quel personnage de la [[mythologie grecque]], époux de [[Aéropé]], est impliqué dans une querelle meurtrière avec son frère [[Thyeste]] pour le trône de [[Mycènes]], utilisant un sacrifice terrible pour marquer sa vengeance ? <!-- score: 4 -->
 

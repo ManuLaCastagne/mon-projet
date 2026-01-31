@@ -25,10 +25,11 @@ questions:
 ---
 
 
+
 ![Image de Aurélien (roman)]()
 ###### Questions
 
-Dans quel roman de [[Louis Aragon]], publié en 1944, le personnage principal du titre tombe-t-il amoureux de [[Bérénice]] ? <!-- score: 4 -->
+Dans quel roman de [[Louis Aragon]], publié en 1944, le personnage principal du titre tombe-t-il amoureux de [[Bérénice]] ? <!-- score: 3 -->
 
 Quel ouvrage littéraire, écrit pendant la période de l'[[Occupation]] en France, explore les thèmes de l'amour impossible et de la désillusion à travers le personnage d'Aurélien ?
 

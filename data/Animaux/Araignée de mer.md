@@ -1,29 +1,30 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
   - Crustacé
-indice_2 : 
+  - Certifié
+indice_1:
+  - Crustacé
+indice_2:
   - Maja brachydactyla
-indice_3 : 
+indice_3:
   - Decapoda
-indice_4 : 
+indice_4:
   - Atlantique Nord-Est
-indice_5 : 
+indice_5:
   - Grande araignée de mer
-indice_6 : 
+indice_6:
   - Spécialité culinaire en Bretagne
-questions:
- - Quel crustacé appelle-t-on également "crabe maja", qui se reconnaît à ses longues pattes velues et à sa carapace épineuse ?
 ---
 
-![Image de Araignée de mer](https://upload.wikimedia.org/wikipedia/commons/a/a5/Spiny_Spider_Crab_releasing_newly_hatched_larvae.jpg)
+
+![Image de Araignée de mer](https://upload.wikimedia.org/wikipedia/commons/a/a5/Spiny_Spider_Crab_releasing_newly_hatched_larvae.jpg)
 
 ###### Questions
 
-Quelle créature marine a été représentée sur un timbre français émis en [[1956]]?
+Quel crustacé appelle-t-on également "[[crabe maja]]", qui se reconnaît à ses longues pattes velues et à sa carapace épineuse ?
 
-Quel animal porte un nom commun avec un insecte malgré sa grande taille sous les eaux des côtes bretonnes?
+Quel animal porte un nom commun avec un insecte malgré sa grande taille sous les eaux des côtes bretonnes? <!-- score: 3 -->
 
 Quelle espèce marine peut vivre jusqu'à [[100 ans]], connue pour inspiration dans l'art culinaire en [[Bretagne]]?
 

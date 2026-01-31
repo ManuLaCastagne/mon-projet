@@ -1,18 +1,19 @@
 ---
-tags: 
+tags:
   - DCDL
   - Histoire
-indice_1 : 
+  - Certifié
+indice_1:
   - cavalerie britannique
-indice_2 : 
+indice_2:
   - réserve militaire
-indice_3 : 
+indice_3:
   - fermiers propriétaires
-indice_4 : 
+indice_4:
   - guerre des Boers
-indice_5 : 
+indice_5:
   - régiments territoriaux
-indice_6 : 
+indice_6:
   - classe sociale anglaise
 ---
 

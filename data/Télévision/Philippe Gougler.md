@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Philippe Gougler](https://upload.wikimedia.org/wikipedia/commons/a/a9/Philippe_Gougler.jpg)
 
 ###### Questions
 
-Quel journaliste et animateur est devenu célèbre en présentant l'émission de voyage "[[Des trains pas comme les autres]]" à partir de [[2011]] ? <!-- score: 4 -->
+Quel journaliste et animateur est devenu célèbre en présentant l'émission de voyage "[[Des trains pas comme les autres]]" à partir de [[2011]] ? <!-- score: 3 -->
 
 Quel présentateur de télévision a étudié à [[Sciences Po Strasbourg]] avant de se diriger vers le journalisme ? 
 

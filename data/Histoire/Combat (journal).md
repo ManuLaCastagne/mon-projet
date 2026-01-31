@@ -22,11 +22,12 @@ questions:
  - Quel journal, a été publié clandestinement à Lyon en 1944 après la libération de Paris, fondé par Albert Camus et Freynet ?
 ---
 
+
 ![Image de Combat (journal)](https://upload.wikimedia.org/wikipedia/commons/d/df/Journal_Combat_1943.jpg)
 
 ###### Questions
 
-Quel journal a été fondé en [[1941]], pendant la [[Seconde Guerre mondiale]], par des membres de la [[Résistance française]], notamment [[Albert Camus]] ?
+Quel journal a été fondé en [[1941]], pendant la [[Seconde Guerre mondiale]], par des membres de la [[Résistance française]], notamment [[Albert Camus]] ? <!-- score: 7 -->
 
 Quel périodique clandestin est devenu un symbole de la lutte contre le [[régime de Vichy]] et l'[[Occupation nazie]] en France ?
 

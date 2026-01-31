@@ -24,13 +24,15 @@ questions:
  - En 1963, quel film de Godard réunit Cinéma/Brigitte Bardot et Michel Piccoli ?
 ---
 
+
+
 ![Image de Le Mépris](https://upload.wikimedia.org/wikipedia/commons/a/ad/Le_M%C3%A9pris.png)
 
 ###### Questions
 
 Quel film de [[Jean-Luc Godard]], sorti en 1963, est célèbre pour sa séquence d'ouverture où [[Brigitte Bardot]] est presque entièrement nue, suscitant une controverse à l'époque?
 
-Dans quel film internationalement reconnu peut-on entendre un thème musical mémorable composé par [[Georges Delerue]], souvent cité parmi les plus belles musiques de film?
+Dans quel film internationalement reconnu peut-on entendre un thème musical mémorable composé par [[Georges Delerue]], souvent cité parmi les plus belles musiques de film? <!-- score: 4 -->
 
 Dans quel chef-d'œuvre du cinéma voit-on la maison moderne de [[Villa Malaparte]] sur l'île de [[Capri]], devenant une icône de l'architecture moderne, dans un contexte cinématographique unique?
 

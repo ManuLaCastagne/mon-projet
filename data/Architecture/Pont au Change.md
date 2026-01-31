@@ -23,6 +23,7 @@ indice_6:
 ---
 
 
+
 ![Image de Pont au Change](https://upload.wikimedia.org/wikipedia/commons/8/88/Pont_au_Change%2C_East_View_from_%C3%8Ele_de_la_Cit%C3%A9_140320_1.jpg)
 
 ![[Carte_Pont au Change.png]]
@@ -32,7 +33,7 @@ A Paris, quel pont, reliant l'île de la Cité à la place du Châtelet, doit so
 
 Quel pont parisien, reconstruit en 1858, doit son nom à l'utilisation qu'en faisaient autrefois les changeurs de monnaie, facilitant ainsi le commerce dans la capitale ?
 
-Sur quel pont de [[Paris]], autrefois utilisé par les changeurs, Napoléon Bonaparte a-t-il ordonné de placer deux statues de [[Henri IV]] en 1814? <!-- score: 5 -->
+Sur quel pont de [[Paris]], autrefois utilisé par les changeurs, Napoléon Bonaparte a-t-il ordonné de placer deux statues de [[Henri IV]] en 1814? <!-- score: 7 -->
 
 Quel pont parisien, célèbre pour avoir été le lieu où [[Louis-Philippe]] a inauguré un nouveau système d'éclairage en 1830, est souvent associé au commerce d'argent et au négoce ?
 

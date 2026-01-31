@@ -30,10 +30,7 @@ questions:
 
 Quel auteur français, spécialisé dans le genre du [[polar]], a publié son tout premier roman, "Code [[Lupin]]", en 2006?
 
-Quel écrivain a été classé comme seizième auteur le plus lu en France en 2015, grâce à ses œuvres captivantes de [[littérature française]]?
-
 Quel professeur de géographie, devenu célèbre pour ses romans policiers tels que "[[Un avion sans elle]]", a remporté le [[Prix Maison de la Presse]] en 2012?
-
 ###### Description
 
 [[Michel Bussi]] est un auteur de romans policiers français qui a acquis une notoriété remarquable grâce à son style captivant et à ses intrigues bien ficelées. Né le [[29 avril 1965]] à [[Louviers]] en [[Normandie]], il est non seulement un écrivain prolifique, mais aussi un professeur de géographie à l'université de [[Rouen]].

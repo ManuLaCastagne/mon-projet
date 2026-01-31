@@ -22,13 +22,14 @@ questions:
  - En cyclisme, lors d'une étape de montagne, quel mot italien désigne le petit groupe de coureurs...
 ---
 
+
 ![Image de Gruppetto](https://upload.wikimedia.org/wikipedia/commons/8/89/Ornament_music.png)
 
 ###### Questions
 
 Comment appelle-t-on le groupe de cyclistes formé à l'arrière du peloton lors des étapes de montagne du [[Tour de France]] pour éviter de finir hors-délai, une pratique courante depuis les années [[1950]] ?
 
-Quel terme désigne le groupe de coureurs cyclistes, souvent des [[sprinteurs]], qui s'organisent pour finir ensemble les étapes difficiles de montagne dans les courses professionnelles comme le [[Giro d'Italia]] ?
+Quel terme désigne le groupe de coureurs cyclistes, souvent des [[sprinteurs]], qui s'organisent pour finir ensemble les étapes difficiles de montagne dans les courses professionnelles comme le [[Giro d'Italia]] ? <!-- score: 4 -->
 
 Pendant l'édition [[2019]] de la [[Vuelta a España]], quel terme a été utilisé pour décrire le groupe de coureurs se regroupant pour terminer les étapes dans les délais imposés par les organisateurs de la course ?
 

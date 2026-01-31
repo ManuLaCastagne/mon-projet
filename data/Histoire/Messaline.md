@@ -22,6 +22,7 @@ indice_6 :
   - figure de la décadence romaine
 ---
 
+
 ![Image de Messaline](https://upload.wikimedia.org/wikipedia/commons/0/0b/Messalina_carrying_Britannicus_-_MBA_Lyon_2018%2C_c%C3%B4t%C3%A9_droit.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quelle était la troisième épouse de l'empereur romain [[Claude]], célèbre p
 
 Quel personnage historique est connu pour avoir comploté contre son mari, l'empereur [[Claude]], et est réputé avoir eu de multiples amants dans la [[Rome antique]] ?
 
-Qui est la femme exécutée en [[48]] après [[Jésus]] pour avoir prétendument conspiré avec [[Gaïus Silius]] contre l'empereur [[Claude]] ?
+Qui est la femme exécutée en [[48]] après [[Jésus]] pour avoir prétendument conspiré avec [[Gaïus Silius]] contre l'empereur [[Claude]] ? <!-- score: 4 -->
 
 ###### Description
 

@@ -22,7 +22,8 @@ questions:
  - Quel mot, formé sur le verbe longer, désigne la pratique sportive consistant à marcher en milieu aquatique en étant immergé au minimum au-dessus de la taille ?
 ---
 
-![Image de Longe-côte](https://upload.wikimedia.org/wikipedia/commons/b/b9/LL-Q150_%28fra%29-WikiLucas00-longe-c%C3%B4te.wav)
+
+![Image de Longe-côte](https://upload.wikimedia.org/wikipedia/commons/b/b9/LL-Q150_%28fra%29-WikiLucas00-longe-c%C3%B4te.wav)
 
 ###### Questions
 
@@ -30,11 +31,11 @@ Quel sport, inventé sur les plages de [[Dunkerque]] en [[2005]], consiste à ma
 
 Quel sport aquatique a vu la création de sa première fédération, la [[Fédération Française de Longe-Côte – Marche Aquatique]], en [[2012]] ?
 
-Quel sport, inscrit au patrimoine culturel immatériel français en [[2021]], est pratiqué dans l'eau jusqu'à la taille ou la poitrine ?
+Quel sport, inscrit au patrimoine culturel immatériel français en [[2021]], est pratiqué dans l'eau jusqu'à la taille ou la poitrine ? <!-- score: 4 -->
 
 ###### Description
 
-Le [[Longe-côte]], aussi connu sous le nom de randonnée aquatique, est un sport nautique qui a été inventé en [[2005]] par [[Thomas Wallyn]] sur les plages de [[Leffrinckoucke]], près de [[Dunkerque]], en [[France]]. 
+Le [[Longe-côte]], aussi connu sous le nom de randonnée aquatique, est un sport nautique qui a été inventé en [[2005]] par [[Thomas Wallyn]] sur les plages de [[Leffrinckoucke]], près de [[Dunkerque]], en [[France]]. 
 
 Il consiste à marcher dans l'eau, généralement jusqu'à la poitrine, en utilisant ou non une pagaie pour aider à la propulsion. 
 

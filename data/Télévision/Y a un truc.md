@@ -22,6 +22,7 @@ questions:
  - A partir de 1975, quelle émission, mettant la magie à l'honneur, a notamment été animée par Gérard Majax?
 ---
 
+
 ![Image de Y a un truc](https://upload.wikimedia.org/wikipedia/commons/8/89/Lago_Truc_Bach%2C_Hanoi%2C_Vietnam_%2836623730891%29.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ En quelle année le célèbre magicien [[Gérard Majax]] a-t-il animé l'émissi
 
 Quel est le titre de l'émission télévisée créée par [[Claude Charlier]] et [[François Reichenbach]] qui se concentrait sur l'explication de tours de magie à la télévision française dans les années [[1980]] ?
 
-Dans quel programme télévisé de [[RTBF]], qui mettait en vedette des tours de magie, les téléspectateurs ont-ils pu découvrir des secrets d'illusionnisme à partir de l'année [[1981]] ?
+Dans quel programme télévisé de [[RTBF]], qui mettait en vedette des tours de magie, les téléspectateurs ont-ils pu découvrir des secrets d'illusionnisme à partir de l'année [[1981]] ? <!-- score: 4 -->
 
 ###### Description
 

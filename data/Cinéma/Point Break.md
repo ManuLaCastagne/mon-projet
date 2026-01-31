@@ -22,6 +22,9 @@ indice_6:
   - Johnny Utah
 ---
 
+
+
+
 ![Image de Point Break](https://upload.wikimedia.org/wikipedia/en/7/7e/Pointbreaktheatrical.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/20pRUfg97l53zVfBX0b8Ox" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -33,7 +36,7 @@ Dans quel film culte réalisé par [[Kathryn Bigelow]] peut-on voir [[Keanu Reev
 
 Quel film mettant en vedette [[Patrick Swayze]] explore un mélange audacieux de surf, de cambriolage, et de philosophie de la vie dans les années 1990 ?
 
-Quel classique du cinéma d'action des années 90 porte sur un groupe de braqueurs de banques qui opèrent en utilisant des masques d'anciens [[présidents américains]] ?
+Quel classique du cinéma d'action des années 90 porte sur un groupe de braqueurs de banques qui opèrent en utilisant des masques d'anciens [[présidents américains]] ? <!-- score: 2 -->
 
 ###### Description
 

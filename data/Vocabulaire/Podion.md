@@ -22,10 +22,7 @@ indice_6 :
 
 Dans la mythologie grecque, comment s'appelle le roi de [[Phylace]] lors de la guerre de [[Troie]] ?
 
-Quel est le nom du personnage mythologique grec connu pour la rapidité de ses chevaux et sa participation à la chasse au sanglier de [[Calydon]] ?
-
-Lors des jeux [[Olympiques]] antiques, qui est souvent mentionné aux côtés des héros pour sa contribution à certaines épreuves mythologiques ?
-
+Quel est le nom du personnage mythologique grec connu pour la rapidité de ses chevaux et sa participation à la chasse au sanglier de [[Calydon]] ? <!-- score: 5 -->
 ###### Description
 
 Le mot "Podion" désigne un petit piédestal ou estrade qui est souvent utilisé pour surélever quelque chose ou quelqu'un, notamment lors de compétitions sportives ou de cérémonies de remise de prix. Dans l'antiquité grecque, ce terme trouve ses origines dans le vocabulaire architectural, symbolisant à la fois un espace délimité et privilégié.

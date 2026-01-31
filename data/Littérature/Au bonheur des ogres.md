@@ -26,6 +26,7 @@ questions:
 
 
 
+
 ![Image de Au bonheur des ogres](https://upload.wikimedia.org/wikipedia/commons/9/97/William_Holman_Hunt_-_The_Scapegoat.jpg)
 
 ###### Questions
@@ -34,7 +35,7 @@ Dans quel roman de [[Daniel Pennac]] publié en 1985 retrouve-t-on le premier vo
 
 Quel roman paru en 1985 est le 1er volet de la série de Daniel Pennac dont le héros est Benjamin Malaussène ?
 
-Quel livre qui fait partie de la série de la [[Saga Malaussène]] démarre avec une explosion mystérieuse au grand magasin [[Au Bonheur Parisien]] et capte l'attention par son mélange de comédie et de polar ? <!-- score: 2 -->
+Quel livre qui fait partie de la série de la [[Saga Malaussène]] démarre avec une explosion mystérieuse au grand magasin [[Au Bonheur Parisien]] et capte l'attention par son mélange de comédie et de polar ? <!-- score: 4 -->
 
 Dans quel ouvrage littéraire le personnage principal Benjamin Malaussène doit-il naviguer à travers une série de catastrophes au sein du grand magasin [[Au Bonheur Parisien]] ?
 

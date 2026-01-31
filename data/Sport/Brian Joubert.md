@@ -22,11 +22,12 @@ questions:
  - Quel patineur artistique né à Poitiers en 1984 a été sacré trois fois champion d'Europe et une fois champion du monde ?
 ---
 
+
 ![Image de Brian Joubert](https://upload.wikimedia.org/wikipedia/commons/2/2a/Jielbeaumadier_Joubert_Pechalat_Bourzat_Amodio_WFSC_Nice_2012.jpg)
 
 ###### Questions
 
-Quel patineur artistique français a remporté le championnat du monde en [[Tokyo]] en [[2007]] ?
+Quel patineur artistique français a remporté le championnat du monde en [[Tokyo]] en [[2007]] ? <!-- score: 4 -->
 
 Quel sportif a été surnommé le "Gladiateur" en raison de son style dynamique sur la glace et qui a remporté trois fois le championnat d'Europe, dont la première en [[2004]] à [[Budapest]] ?
 

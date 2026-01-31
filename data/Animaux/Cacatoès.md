@@ -1,29 +1,32 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+  - Psittacidé
+  - Certifié
+indice_1:
   - Perroquet
-indice_2 : 
+indice_2:
   - Cacatua
-indice_3 : 
+indice_3:
   - Psittaciformes
-indice_4 : 
+indice_4:
   - Australie
-indice_5 : 
+indice_5:
   - Palmier
-indice_6 : 
+indice_6:
   - Augure de chance
-questions:
- - Egalement élevé en volière. Formant parfois des groupes bruyants au sommet des arbres, je suis doté d'un bec massif et crochu et suis reconnaissable à ma huppe étagée et colorée...
 ---
 
-![Image de Cacatoès](https://upload.wikimedia.org/wikipedia/commons/5/53/Eolophus_roseicapilla_-_Vogelburg_Weilrod_01.jpg)
+
+![Image de Cacatoès](https://upload.wikimedia.org/wikipedia/commons/5/53/Eolophus_roseicapilla_-_Vogelburg_Weilrod_01.jpg)
 
 ###### Questions
 
 Quel oiseau, reconnaissable à sa huppe colorée érigée, est capable d'utiliser des outils pour se nourrir, un comportement observé par les scientifiques pour la première fois chez une espèce aviaire en [[2009]] ?
 
-Quel animal, appartenant à la famille des [[Psittacidae]], a été le sujet d'une célèbre étude en [[Australie]], révélant sa capacité à mémoriser des séquences vocales complexes en [[2021]] ?
+Quel [[psittacidé]] forme parfois des groupes bruyants au sommet des arbres est doté d'un bec massif et crochu et est reconnaissable à ma huppe étagée et colorée ?
+
+Quel animal, appartenant à la famille des [[psittacidé]], a été le sujet d'une célèbre étude en [[Australie]], révélant sa capacité à mémoriser des séquences vocales complexes en [[2021]] ? <!-- score: 4 -->
 
 Quel oiseau est célèbre pour sa capacité à imiter des sons, y compris des voix humaines, et a été l'objet d'une loi de protection stricte dans le [[Territoire du Nord]] en [[1999]] ?
 

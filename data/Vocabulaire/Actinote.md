@@ -16,11 +16,12 @@ indice_6 :
   - Actinote axe cristallin
 ---
 
+
 ![Image de Actinote](https://upload.wikimedia.org/wikipedia/commons/1/1e/Doubleday%27s_actinote_%28Actinote_anteas_anteas%29_Cundinamarca.jpg)
 
 ###### Questions
 
-Quel minéral, souvent de couleur verte, fait partie du groupe des amphiboles et appartient à la série des [[silicates]] hydratés de calcium, magnésium, fer, et aluminium ?
+Quel minéral, souvent de couleur verte, fait partie du groupe des amphiboles et appartient à la série des [[silicates]] hydratés de calcium, magnésium, fer, et aluminium ? <!-- score: 4 -->
 
 Quel terme désigne une variété de minéraux que l'on retrouve principalement dans les roches métamorphiques et qui tire son nom du grec ancien, signifiant "rayon" pour sa structure fibreuse ?
 

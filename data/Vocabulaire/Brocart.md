@@ -18,11 +18,12 @@ questions:
  - Par quel terme issu de l'italien désigne-t-on une étoffe brochée de soie, d'argent…
 ---
 
+
 ![Image de Brocart](https://upload.wikimedia.org/wikipedia/commons/8/86/Brocart_de_soie_fran%C3%A7ais.jpg)
 
 ###### Questions
 
-Quel est le nom du tissu richement décoré souvent utilisé pour confectionner des vêtements de luxe et de cérémonies au Moyen Âge ?
+Quel est le nom du tissu richement décoré souvent utilisé pour confectionner des vêtements de luxe et de cérémonies au Moyen Âge ? <!-- score: 3 -->
 
 Comment appelle-t-on l'étoffe de soie rehaussée de motifs métallisés, prisée dans les intérieurs somptueux et les costumes historiques ?
 

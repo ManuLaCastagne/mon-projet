@@ -1,26 +1,28 @@
 ---
-tags: 
+tags:
   - DCDL
   - Sciences
-indice_1 : 
+  - Certifié
+indice_1:
   - Protozoaire
-indice_2 : 
+indice_2:
   - Parasite
-indice_3 : 
+indice_3:
   - Moustique phlébotome
-indice_4 : 
+indice_4:
   - Zoonose
-indice_5 : 
+indice_5:
   - Leishmaniose
-indice_6 : 
+indice_6:
   - Tropiques
 ---
+
 
 ![Image de Leishmania](https://upload.wikimedia.org/wikipedia/commons/b/b4/Leishmania_donovani_01.png)
 
 ###### Questions
 
-Quelle est la maladie transmise par les phlébotomes, aussi appelée « la [[mouche des sables]] », qui infecte principalement les mammifères?
+Quelle est la maladie transmise par les phlébotomes, aussi appelée « la [[mouche des sables]] », qui infecte principalement les mammifères? <!-- score: 4 -->
 
 ###### Description
 

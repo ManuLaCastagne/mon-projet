@@ -25,11 +25,12 @@ questions:
 ---
 
 
+
 ![Image de Les Profs](https://upload.wikimedia.org/wikipedia/commons/d/de/Andr%C3%A9_Milan_-_Nos_bons_profs%E2%80%A6.jpg)
 
 ###### Questions
 
-Quel film français sorti en 2013 raconte les aventures de professeurs atypiques dans un lycée en difficulté et est inspiré d'une célèbre bande dessinée ? <!-- score: 6 -->
+Quel film français sorti en 2013 raconte les aventures de professeurs atypiques dans un lycée en difficulté et est inspiré d'une célèbre bande dessinée ? <!-- score: 8 -->
 
 Quel long métrage humoristique réalisé par [[Pierre-François Martin-Laval]] met en scène un personnage appelé [[Boulard]], un élève plus désireux de se distraire que d'étudier ?
 

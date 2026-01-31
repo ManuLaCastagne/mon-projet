@@ -21,6 +21,7 @@ indice_6:
 ---
 
 
+
 ![Image de Theodore Roosevelt](https://upload.wikimedia.org/wikipedia/commons/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ En janvier 1919, quel ancien Président des Etats-Unis, prix Nobel de la paix en
 
 En janvier 1919, quel ancien Président des Etats-Unis, [[prix Nobel de la paix]] en 1906, disparaît à l'âge de 60 ans ?
 
-Quel président américain a survécu à une tentative d'assassinat en [[1912]], lors de laquelle il a prononcé un discours de 90 minutes malgré une balle logée dans sa poitrine ?
+Quel président américain a survécu à une tentative d'assassinat en [[1912]], lors de laquelle il a prononcé un discours de 90 minutes malgré une balle logée dans sa poitrine ? <!-- score: 6 -->
 
 Lequel des présidents des [[États-Unis]] a remporté le [[Prix Nobel de la paix]] en [[1906]] pour sa médiation pour mettre fin à la guerre russo-japonaise ? <!-- score: 4 -->
 

@@ -23,7 +23,7 @@ indice_6:
 
 ###### Questions
 
-Quel chien d'eau français, souvent utilisé pour la chasse notamment dans des zones marécageuses, a donné son nom à une race reconnue depuis [[2006]] par l'[[American Kennel Club]] ?
+Quel chien d'eau français, utilisé pour la chasse notamment dans des zones marécageuses, a donné son nom à une race reconnue depuis [[2006]] par l'[[American Kennel Club]] ?
 
 Quel animal à poil frisé, connu pour être un excellent nageur, est souvent confondu à tort avec le [[Caniche]] avec lequel il partage un ancêtre commun ?
 

@@ -25,11 +25,12 @@ questions:
  - Quel peintre pointilliste réalisait des esquisses en plein air le matin avant de peindre en atelier "Un dimanche après-midi à la Grande Jatte"?
 ---
 
+
 ![Image de Georges Seurat](https://upload.wikimedia.org/wikipedia/commons/5/52/Georges-Pierre_Seurat_-_Honfleur%2C_un_soir%2C_embouchure_de_la_Seine_-_Google_Art_Project.jpg)
 
 ###### Questions
 
-Quel artiste, né en 1859, est le fondateur du [[Pointillisme]] avec son œuvre maîtresse intitulée "Un dimanche après-midi à l'Île de la Grande Jatte"?
+Quel artiste, né en 1859, est le fondateur du [[Pointillisme]] avec son œuvre maîtresse intitulée "Un dimanche après-midi à l'Île de la Grande Jatte"? <!-- score: 4 -->
 
 Quel pionnier de la [[technique du pointillisme]], célèbre pour sa méticuleuse division des couleurs, a créé un tableau présenté pour la première fois au public lors de la huitième et dernière exposition des [[impressionnistes]] en 1886?
 

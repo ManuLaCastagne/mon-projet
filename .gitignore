@@ -1,3 +1,5 @@
 .DS_Store
 .streamlit/secrets.toml
 temp/
+/data/.obsidian/workspace.json
+/data/.DS_Store

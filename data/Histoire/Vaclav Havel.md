@@ -20,13 +20,14 @@ indice_6 :
   - révolution de Velours
 ---
 
+
 ![Image de Vaclav Havel](https://upload.wikimedia.org/wikipedia/commons/2/2c/V%C3%A1clav_Havel.jpg)
 
 ###### Questions
 
 Quel écrivain et dramaturge est devenu le premier président de la [[Tchécoslovaquie post-communiste]] en [[Culture générale/1989]] ? 
 
-Qui a été élu à deux reprises président de la [[République tchèque]], après la dissolution de la [[Tchécoslovaquie]], d'abord en [[1993]] puis réélu en [[1998]] ?
+Qui a été élu à deux reprises président de la [[République tchèque]], après la dissolution de la [[Tchécoslovaquie]], d'abord en [[1993]] puis réélu en [[1998]] ? <!-- score: 2 -->
 
 Quel intellectuel est l'auteur de la pièce de théâtre [[« Audience »]] et un symbolique dissident de la [[Charte 77]] en [[Tchécoslovaquie]] ?
 

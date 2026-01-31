@@ -20,11 +20,12 @@ indice_6 :
   - Concile de Paris
 ---
 
+
 ![Image de Pie VII](https://upload.wikimedia.org/wikipedia/commons/5/57/Portrait_de_Pie_VII_d%27apr%C3%A8s_David_-_Mus%C3%A9e_Cond%C3%A9.jpeg)
 
 ###### Questions
 
-Quel [[pape]], emprisonné par [[Napoléon Bonaparte]], est libéré en [[1814]] après avoir signé le [[Concordat de Fontainebleau]] ?
+Quel [[pape]], emprisonné par [[Napoléon Bonaparte]], est libéré en [[1814]] après avoir signé le [[Concordat de Fontainebleau]] ? <!-- score: 1 -->
 
 Quel [[pape]] a excommunié [[Napoléon Bonaparte]] en [[1809]] après l'annexion des [[États pontificaux]] par l'[[Empire français]] ?
 

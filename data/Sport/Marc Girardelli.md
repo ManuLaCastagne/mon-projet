@@ -25,6 +25,7 @@ indice_6:
 
 
 
+
 ![Image de Marc Girardelli](https://upload.wikimedia.org/wikipedia/commons/b/b4/Marc_Girardelli.JPG)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel skieur alpin luxembourgeois a remporté cinq fois la [[Coupe du monde de sk
 
 Quel sportif, né en 1963 au [[Liechtenstein]], a concouru pour l'[[Autriche]] et a remporté deux médailles d'argent aux [[Jeux olympiques d'hiver]] de 1992 à Albertville ? <!-- score: 3 -->
 
-Qui est le seul skieur alpin à avoir remporté des courses de Coupe du monde dans cinq disciplines différentes à partir de 1988 ? <!-- score: 3 -->
+Qui est le seul skieur alpin à avoir remporté des courses de Coupe du monde dans cinq disciplines différentes à partir de 1988 ? <!-- score: 2 -->
 
 ###### Description
 

@@ -22,11 +22,12 @@ indice_6 :
   - Chrome
 ---
 
+
 ![Image de Sundar Pichai](https://upload.wikimedia.org/wikipedia/commons/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel dirigeant est devenu le PDG de [[Google]] en 2015 ?  
+Quel dirigeant est devenu le PDG de [[Google]] en 2015 ? <!-- score: 4 -->
   
 Qui a pris la direction de [[Alphabet Inc.]], la société mère de [[Google]], en 2019 ?  
   

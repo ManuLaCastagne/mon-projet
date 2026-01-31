@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Evo Morales](https://upload.wikimedia.org/wikipedia/commons/0/08/Evo_Morales_Ayma_%28cropped%29.jpg)
 
 ###### Questions
 
 Quel président a fait de [[Bolivie]] le premier pays à reconnaître officiellement les droits de la [[nature]] en 2010 ? <!-- score: 4 -->
 
-Quel leader a été le premier président d'[[origine]] indigène de [[Bolivie]] lorsqu'il a pris ses fonctions en [[2006]] ?
+Quel leader a été le premier président d'[[origine]] indigène de [[Bolivie]] lorsqu'il a pris ses fonctions en [[2006]] ? <!-- score: 3 -->
 
 Quel ancien président bolivien a interdit le [[Coca-Cola]] dans son pays le 21 décembre [[2012]], déclarant cette date comme la fin symbolique du [[capitalisme]] ?
 

@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Isabelle Eberhardt](https://upload.wikimedia.org/wikipedia/commons/9/95/Isabelle_Eberhardt.jpg)
 
 ###### Questions
 
 Cette femme exploratrice, née en [[1877]] à [[Genève]], a adopté la culture nord-africaine, vécu sous un pseudonyme masculin, et est morte en [[1904]] à seulement 27 ans. Quelle est son nom ?
 
-Quelle journaliste et écrivaine d'origine suisse, célèbre pour ses récits de voyages dans le [[Sahara]] au tournant du [[XXe siècle]], s'est convertie à l'[[islam]] et a adopté le mode de vie musulman ?
+Quelle journaliste et écrivaine d'origine suisse, célèbre pour ses récits de voyages dans le [[Sahara]] au tournant du [[XXe siècle]], s'est convertie à l'[[islam]] et a adopté le mode de vie musulman ? <!-- score: 4 -->
 
 Quel est le nom de l'auteure ayant publié des écrits marquants sur l'[[Algérie française]], habillée en homme pour pouvoir voyager librement et décédée finalement dans une inondation à [[Aïn Sefra]] ? <!-- score: 4 -->
 
