@@ -22,8 +22,21 @@
               "title": "Roger Hanin"
             },
             "group": "8fa028c6fda70cca"
+          },
+          {
+            "id": "ac11efe4f8f141ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f9d62fbde3db0998",
@@ -355,7 +368,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "6ca3aa9b0430f04f",
+  "active": "ac11efe4f8f141ed",
   "lastOpenFiles": [
     "Géographie/Khiva.md",
     "Géographie/Boukhara.md",
