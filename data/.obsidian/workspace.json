@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musique/Claude François.md",
+                "file": "Littérature/L'Espion qui venait du froid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude François"
+              "title": "L'Espion qui venait du froid"
             }
           }
         ],
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Musique/Claude François.md",
+                "file": "Littérature/L'Espion qui venait du froid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Claude François"
+              "title": "Graphique de L'Espion qui venait du froid"
             }
           }
         ]
@@ -368,8 +368,10 @@
   },
   "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
-    "Télévision/Florian Gazan.md",
+    "Pasted image 20260131112159.png",
     "Musique/Claude François.md",
+    "Littérature/L'Espion qui venait du froid.md",
+    "Télévision/Florian Gazan.md",
     "Littérature/John le Carré.md",
     "Télévision/Chapeau melon et bottes de cuir.md",
     "Pasted image 20260131105947.png",
@@ -396,8 +398,6 @@
     "Cinéma/Chiara Mastroianni.md",
     "Cinéma/Docteur Strange.md",
     "Cinéma/Benedict Cumberbatch.md",
-    "Sciences/Alan Turing.md",
-    "Cinéma/La Guerre des Rose.md",
     "Pasted image 20260113162521.png",
     "Pasted image 20260113152804.png",
     "Pasted image 20260113152243.png",
