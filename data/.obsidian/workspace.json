@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Télévision/Chapeau melon et bottes de cuir.md",
+                "file": "Musique/Claude François.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapeau melon et bottes de cuir"
+              "title": "Claude François"
             }
           }
         ],
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Télévision/Chapeau melon et bottes de cuir.md",
+                "file": "Musique/Claude François.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Chapeau melon et bottes de cuir"
+              "title": "Graphique de Claude François"
             }
           }
         ]
@@ -368,6 +368,9 @@
   },
   "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
+    "Littérature/John le Carré.md",
+    "Musique/Claude François.md",
+    "Télévision/Chapeau melon et bottes de cuir.md",
     "Pasted image 20260131105947.png",
     "Cinéma/Y a-t-il un pilote dans l'avion.md",
     "conflict-files-obsidian-git.md",
@@ -396,8 +399,6 @@
     "Cinéma/La Guerre des Rose.md",
     "Pasted image 20260113162521.png",
     "Cinéma/Sydney Sweeney.md",
-    "Cinéma/Dossier 137.md",
-    "Cinéma/Greta Garbo.md",
     "Pasted image 20260113152804.png",
     "Pasted image 20260113152243.png",
     "Frises/Base de données n°1.base",

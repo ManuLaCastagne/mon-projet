@@ -30,6 +30,8 @@ Quel chanteur est à l'origine de [[Comme d'habitude]] en [[1967]], avant sa rep
 
 Quelle personnalité de la variété française célèbre pour son sens de la mise en scène est décédée en [[1978]] à [[Paris]] ?
 
+Qui est le parrain de [[Florian Gazan]] ?
+
 ###### Description
 
 [[Claude François]] est né le 1er février 1939 à [[Ismaïlia]], une ville située en [[Égypte]]. 
