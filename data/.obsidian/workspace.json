@@ -1,193 +1,52 @@
 {
   "main": {
-    "id": "347eb83c75aebca3",
+    "id": "1ff1fe4a6f5b2c15",
     "type": "split",
     "children": [
       {
-        "id": "121adab4fc57a041",
+        "id": "0733a08cbc6419aa",
         "type": "tabs",
-        "dimension": 51.865008880994665,
         "children": [
           {
-            "id": "ac11efe4f8f141ed",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
-            "id": "d8df93b09389ce7e",
+            "id": "652151d0ad7e357f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/L'Espion qui venait du froid.md",
+                "file": "Animaux/Cacatoès.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'Espion qui venait du froid"
-            }
+              "title": "Cacatoès"
+            },
+            "group": "03c186f4a2dac683"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "f9d62fbde3db0998",
+        "id": "dbc86c6fc4227a4e",
         "type": "tabs",
-        "dimension": 48.13499111900533,
         "children": [
           {
-            "id": "3b18be18a8a65fd7",
+            "id": "b8e6e30c5440da5f",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/L'Espion qui venait du froid.md",
+                "file": "Animaux/Cacatoès.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "PATH:Anatomie",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14034984
-                      }
-                    },
-                    {
-                      "query": "PATH:Sport  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16210947
-                      }
-                    },
-                    {
-                      "query": "PATH:Gastronomie  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16746496
-                      }
-                    },
-                    {
-                      "query": "PATH:Cinéma  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16756992
-                      }
-                    },
-                    {
-                      "query": "PATH:Télévision  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16766011
-                      }
-                    },
-                    {
-                      "query": "PATH:Vocabulaire  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 15001600
-                      }
-                    },
-                    {
-                      "query": "PATH:Sciences  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 7585536
-                      }
-                    },
-                    {
-                      "query": "PATH:Botanique  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5149775
-                      }
-                    },
-                    {
-                      "query": "PATH:Nature  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3701828
-                      }
-                    },
-                    {
-                      "query": "PATH:Animaux  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3104098
-                      }
-                    },
-                    {
-                      "query": "PATH:Géographie  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 30646
-                      }
-                    },
-                    {
-                      "query": "PATH:Architecture  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 24435
-                      }
-                    },
-                    {
-                      "query": "PATH:Histoire  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 12361
-                      }
-                    },
-                    {
-                      "query": "PATH:Mythologie",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6966419
-                      }
-                    },
-                    {
-                      "query": "PATH:Religion  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9323693
-                      }
-                    },
-                    {
-                      "query": "PATH:Littérature  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 10182117
-                      }
-                    },
-                    {
-                      "query": "PATH:Art",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13073919
-                      }
-                    },
-                    {
-                      "query": "PATH:Musique  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13673207
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -197,14 +56,15 @@
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 179,
-                  "scale": 1.0829399267556088,
+                  "linkDistance": 250,
+                  "scale": 1,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de L'Espion qui venait du froid"
-            }
+              "title": "Graphique de Cacatoès"
+            },
+            "group": "03c186f4a2dac683"
           }
         ]
       }
@@ -212,15 +72,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ac93765ee0e53270",
+    "id": "2477a9fabf5cf539",
     "type": "split",
     "children": [
       {
-        "id": "94c4ae6ac9a9ad31",
+        "id": "00c7d38c80f498f5",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6dbd6c30483175",
+            "id": "c4c411178c65ba86",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -233,7 +93,7 @@
             }
           },
           {
-            "id": "c89b2a22405e928b",
+            "id": "73ed92e916c49f7e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -250,7 +110,7 @@
             }
           },
           {
-            "id": "d46e2c9e7fae14b5",
+            "id": "2be1ee12fe5038cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -266,20 +126,20 @@
     "width": 300
   },
   "right": {
-    "id": "08fb69aeffa85077",
+    "id": "98a5e6a18e06d718",
     "type": "split",
     "children": [
       {
-        "id": "68fc9c2018ce2381",
+        "id": "24a46c711e77d2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "21dd7ba90a77226a",
+            "id": "bdc832adf04102f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinéma/Elsa Zylberstein.md",
+                "file": "Animaux/Cacatoès.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,25 +149,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Elsa Zylberstein"
+              "title": "Rétrolien pour Cacatoès"
             }
           },
           {
-            "id": "af3543aa89446dc2",
+            "id": "e76c2eb48acc1f13",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinéma/Elsa Zylberstein.md",
+                "file": "Animaux/Cacatoès.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Elsa Zylberstein"
+              "title": "Liens sortants de Cacatoès"
             }
           },
           {
-            "id": "90112a142168b3db",
+            "id": "5c79246ee36b3455",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -315,29 +175,29 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "certi"
+                "searchQuery": "cert"
               },
               "icon": "lucide-tags",
               "title": "Mots-clés"
             }
           },
           {
-            "id": "b5f0fb6c2d44a193",
+            "id": "58417c57b4e8ae6d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musique/Manureva.md",
+                "file": "Animaux/Cacatoès.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Manureva"
+              "title": "Plan de Cacatoès"
             }
           },
           {
-            "id": "028c50878b1df9c9",
+            "id": "2673a9bab298e655",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -362,47 +222,41 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-map-view:Open map view": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8df93b09389ce7e",
+  "active": "652151d0ad7e357f",
   "lastOpenFiles": [
-    "Cinéma/La Chronique des Bridgerton.md",
-    "Gastronomie/Banh bao.md",
-    "Cinéma/Cabaret (film).md",
+    "Télévision/Florian Gazan.md",
     "Pasted image 20260131112159.png",
+    "Pasted image 20260131105947.png",
     "Musique/Claude François.md",
     "Littérature/L'Espion qui venait du froid.md",
-    "Télévision/Florian Gazan.md",
-    "Littérature/John le Carré.md",
-    "Télévision/Chapeau melon et bottes de cuir.md",
-    "Pasted image 20260131105947.png",
-    "Cinéma/Y a-t-il un pilote dans l'avion.md",
+    "Gastronomie/Banh bao.md",
+    "Cinéma/La Chronique des Bridgerton.md",
+    "Cinéma/Cabaret (film).md",
+    "Animaux/psittacidé.md",
+    "Animaux/Cacatoès.md",
+    "Psittacidae.md",
+    "Animaux/Araignée de mer.md",
+    "Culture générale/crabe maja.md",
+    "Télévision/Dafne Keen.md",
+    "Télévision/His Dark Materials.md",
+    "Vocabulaire/Leishmania.md",
+    "Vocabulaire/Yeomanry.md",
+    "Culture générale/Piscine.md",
+    "Culture générale/Être homme, c'est précisément être responsable.md",
+    "Cinéma/Willow.md",
+    "Sport/11 heures et 5 minutes.md",
     "conflict-files-obsidian-git.md",
+    "Sport/Nicholas Mahut.md",
     "attachments/Pasted image 20260113162521.png",
     "attachments/Pasted image 20260113152804.png",
     "attachments/Pasted image 20260113152243.png",
-    "Télévision/His Dark Materials.md",
-    "Télévision/Dafne Keen.md",
-    "Culture générale/crabe maja.md",
-    "Animaux/psittacidé.md",
-    "Géographie/Khiva.md",
-    "Géographie/Boukhara.md",
-    "Géographie/Samarcande.md",
-    "Cinéma/Le Grand Pardon.md",
-    "Cinéma/Roger Hanin.md",
-    "Cinéma/Reservoir Dogs.md",
-    "Cinéma/Un Homme et une femme 2.md",
-    "Cinéma/Steve Buscemi.md",
-    "Cinéma/Yann Arthus-Bertrand.md",
-    "Cinéma/Le Vieux Fusil.md",
-    "Cinéma/La Vie d'Adèle.md",
-    "Cinéma/Chiara Mastroianni.md",
-    "Pasted image 20260113162521.png",
-    "Pasted image 20260113152804.png",
-    "Pasted image 20260113152243.png",
-    "Frises/Base de données n°1.base",
-    "Sans titre.canvas"
+    "Vocabulaire/Zigonner.md",
+    "Vocabulaire/Physalie.md",
+    "Vocabulaire/Limonaire.md",
+    "Vocabulaire/Héméralopie.md",
+    "Télévision/Sophie Thalmann.md"
   ]
 }
