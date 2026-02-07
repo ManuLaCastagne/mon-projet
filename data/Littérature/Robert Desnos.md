@@ -1,38 +1,36 @@
 ---
-tags: 
+tags:
   - Littérature
-  - Robert_Desnos
   - France
   - Années_1920
+  - Certifié
 date:
   - 1900/07/04
 debut: 1900
 fin: 1945
-indice_1 : 
+indice_1:
   - surréaliste
-indice_2 : 
+indice_2:
   - poète français
-indice_3 : 
+indice_3:
   - résistant pendant la Seconde Guerre mondiale
-indice_4 : 
+indice_4:
   - ami d'André Breton
-indice_5 : 
+indice_5:
   - auteur de La Liberté ou l'amour !
-indice_6 : 
+indice_6:
   - camp de Terezín
-questions:
- - A quel poète, mort en 1945, doit-on un célèbre texte débutant par "Une Fourmi de dix-huit mètres avec un chapeau sur la tête, ça n'existe pas, ça n'existe pas" dans "La Fourmi" ?
 ---
 
 ![Image de Robert Desnos](https://upload.wikimedia.org/wikipedia/commons/0/05/Robert_Desnos.jpg)
 
 ###### Questions
 
-En quelle année [[Robert Desnos]] a-t-il été arrêté par la [[Gestapo]] pour ses activités dans la [[Résistance française]] pendant l'[[Occupation de la France par l'Allemagne nazie]] ?
+A quel poète, mort en 1945, doit-on un célèbre texte débutant par "Une Fourmi de dix-huit mètres avec un chapeau sur la tête, ça n'existe pas, ça n'existe pas" dans "[[La Fourmi]]" ?
 
-Qui a publié en 1923 un recueil de poèmes qui témoigne de son engagement avec le mouvement [[surréaliste]] et l'idée des [[rêves éveillés]] ? <!-- score: 5 -->
+Quel poète a été reconnu pour son engagement en faveur de la Résistance durant la [[Seconde Guerre mondiale]], ce qui lui valut d'être déporté à [[Buchenwald]] puis [[Terezin]], où il décède en 1945 ?
 
-Dans quel camp est mort [[Robert Desnos]] en 1945, après avoir contracté le [[typhus]] peu avant la libération du camp ?
+Qui a publié en 1923 un recueil de "[[poésie automatique]]" qui témoigne de son engagement avec le mouvement [[surréaliste]] et l'idée des [[rêves éveillés]] ? <!-- score: 5 -->
 ###### Description
 
 [[Robert Desnos]] est un poète français emblématique du mouvement surréaliste, né en 1900 à [[Paris]]. 

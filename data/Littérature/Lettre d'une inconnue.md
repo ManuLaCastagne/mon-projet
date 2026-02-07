@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Autriche
   - Années_1920
@@ -7,21 +7,21 @@ tags:
 date:
   - 1922/01/01
 debut: 1922
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Stefan Zweig
-indice_2 : 
+indice_2:
   - roman épistolaire
-indice_3 : 
+indice_3:
   - amour non réciproque
-indice_4 : 
+indice_4:
   - écrivain autrichien
-indice_5 : 
+indice_5:
   - femme mystérieuse
-indice_6 : 
+indice_6:
   - début du XXe siècle
 questions:
- - En 1922, dans quelle nouvelle de Stefan Zweig une femme révèle-t-elle à un homme via une lettre la passion qu'elle lui a toujours vouée?
+  - En 1922, dans quelle nouvelle de Stefan Zweig une femme révèle-t-elle à un homme via une lettre la passion qu'elle lui a toujours vouée?
 ---
 
 
@@ -32,7 +32,7 @@ questions:
 
 Dans quel roman de [[Stefan Zweig]], écrit en 1922, une femme écrit à un homme qui ne l'a jamais remarquée malgré sa dévotion secrète depuis leur premier regard échangé ? <!-- score: 3 -->
 
-Quel ouvrage épistolaire de [[Stefan Zweig]], traduit pour la première fois en français en 1927, raconte l'histoire poignante d'un amour non partagé à travers une longue lettre anonyme ?
+En 1922, dans quelle nouvelle de Stefan Zweig une femme révèle-t-elle à un homme via une lettre la passion qu'elle lui a toujours vouée ?
 
 Dans quelle œuvre littéraire de [[Stefan Zweig]] le protagoniste reçoit-il une lettre posthume révélant le dévouement silencieux et invisible d'une amoureuse inconnue durant des années ?
 

@@ -1,38 +1,37 @@
 ---
-tags: 
+tags:
   - Littérature
   - Autriche
   - Années_1920
   - XXe
+  - Certifié
 date:
   - 1881/11/28
 debut: 1881
 fin: 1942
-indice_1 : 
+indice_1:
   - Autrichien
-indice_2 : 
+indice_2:
   - écrivain
-indice_3 : 
+indice_3:
   - biographe
-indice_4 : 
+indice_4:
   - Le Joueur d'échecs
-indice_5 : 
+indice_5:
   - années 1920-1930
-indice_6 : 
+indice_6:
   - exilé au Brésil
-questions:
- - A quel écrivain autrichien doit-on la nouvelle  "La Confusion des sentiments", en 1926 ?
 ---
 
-![Image de Stefan Zweig](https://upload.wikimedia.org/wikipedia/commons/0/04/Stefan_Zweig%2C_Fundo_Correio_da_Manh%C3%A3_-_3_%28cropped%29.tif)
+![Image de Stefan Zweig](https://upload.wikimedia.org/wikipedia/commons/4/4e/Stefan_Zweig2.png)
 
 ###### Questions
 
-Quelle est la nationalité d'origine de l'auteur [[Stefan Zweig]], né à [[Vienne]] en 1881 ?
+A quel écrivain autrichien doit-on la nouvelle "[[La Confusion des sentiments]]", en 1926 ?
 
 Quel écrivain autrichien a rédigé une biographie de [[Marie-Antoinette]] publiée pour la première fois en 1932 ?
 
-Quel célèbre auteur a écrit ''[[Le Monde d'hier]]'', une autobiographie publiée à titre posthume en 1942 ?
+Quel célèbre auteur a écrit ''[[Le Monde d'hier]]'', une autobiographie publiée à titre posthume en 1942 suite à son suicide partagé avec sa femme désespéré par la montée du nazisme ?
 
 ###### Description
 
