@@ -552,7 +552,7 @@ def generate_fiche(nom, category):
     elif category == "Animaux":
         return generate_fiche_animaux(nom, category)
     elif category == "Vocabulaire":
-        return generate_fiche_vocabulaire(nom)
+        return generate_fiche_vocabulaire(nom, category)
     elif category == "Cinéma" or category == "Télévision":
         return generate_fiche_cinema_tv(nom, category)
     else:
