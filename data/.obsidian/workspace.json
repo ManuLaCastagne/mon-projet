@@ -26,13 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Le Joueur d'échecs.md",
+                "file": "Animaux/Cacatoès.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le Joueur d'échecs"
-            }
+              "title": "Cacatoès"
+            },
+            "group": "03c186f4a2dac683"
           }
         ],
         "currentTab": 1
@@ -48,7 +49,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Le Joueur d'échecs.md",
+                "file": "Animaux/Cacatoès.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,8 +204,9 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Le Joueur d'échecs"
-            }
+              "title": "Graphique de Cacatoès"
+            },
+            "group": "03c186f4a2dac683"
           }
         ]
       }
@@ -279,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinéma/Elsa Zylberstein.md",
+                "file": "Animaux/Cacatoès.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +291,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Elsa Zylberstein"
+              "title": "Rétrolien pour Cacatoès"
             }
           },
           {
@@ -298,12 +300,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinéma/Elsa Zylberstein.md",
+                "file": "Animaux/Cacatoès.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Elsa Zylberstein"
+              "title": "Liens sortants de Cacatoès"
             }
           },
           {
@@ -327,13 +329,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musique/Manureva.md",
+                "file": "Animaux/Cacatoès.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Manureva"
+              "title": "Plan de Cacatoès"
             }
           },
           {
@@ -368,23 +370,27 @@
   },
   "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
-    "Littérature/Stefan Zweig.md",
-    "Littérature/Le Joueur d'échecs.md",
-    "Pasted image 20260207171636.png",
-    "Littérature/Lettre d'une inconnue.md",
-    "Littérature/Robert Desnos.md",
-    "Littérature/La Fourmi.md",
+    "Télévision/Florian Gazan.md",
+    "Pasted image 20260131112159.png",
+    "Pasted image 20260131105947.png",
+    "Musique/Claude François.md",
     "Littérature/L'Espion qui venait du froid.md",
     "Cinéma/La Chronique des Bridgerton.md",
     "Gastronomie/Banh bao.md",
     "Cinéma/Cabaret (film).md",
-    "Pasted image 20260131112159.png",
-    "Musique/Claude François.md",
-    "Télévision/Florian Gazan.md",
-    "Littérature/John le Carré.md",
-    "Télévision/Chapeau melon et bottes de cuir.md",
-    "Pasted image 20260131105947.png",
-    "Cinéma/Y a-t-il un pilote dans l'avion.md",
+    "Animaux/psittacidé.md",
+    "Animaux/Cacatoès.md",
+    "Psittacidae.md",
+    "Animaux/Araignée de mer.md",
+    "Culture générale/crabe maja.md",
+    "Télévision/Dafne Keen.md",
+    "Télévision/His Dark Materials.md",
+    "Vocabulaire/Leishmania.md",
+    "Vocabulaire/Yeomanry.md",
+    "Culture générale/Piscine.md",
+    "Culture générale/Être homme, c'est précisément être responsable.md",
+    "Cinéma/Willow.md",
+    "Sport/11 heures et 5 minutes.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20260113162521.png",
     "attachments/Pasted image 20260113152804.png",

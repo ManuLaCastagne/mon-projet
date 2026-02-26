@@ -634,8 +634,8 @@ indice_6 :
 """
     return new_content
 
-def generate_fiche_vocabulaire(nom):
-    tag, questions, description, indices = generate_gpt_from_name_vocabulaire(nom)
+def generate_fiche_vocabulaire(nom, category):
+    tag, questions, description, indices = generate_gpt_from_name_vocabulaire(nom, category)
     url_wiki = ""
     #url_wiki = query_to_image_url(f"{nom}")
     indices = indices.replace('"', '').replace(':', '').replace("[",'').replace("]","")
@@ -1497,4 +1497,4 @@ def pyperclip_copy_deck(deck):
     print("Deck copied to clipboard!")
 
 #change_all_fiches("data/Anatomie", "Question : ", "###### Questions \n\n")
-#generate_fiche("Une Affaire de famille", "Cinéma")
+generate_fiche("Dysmélie", "Vocabulaire")
