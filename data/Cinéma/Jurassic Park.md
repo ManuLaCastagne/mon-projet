@@ -29,7 +29,7 @@ Quelle œuvre cinématographique est une adaptation d’un roman de [[Michael Cr
 
 ###### Description
 
-[[Jurassic Park]] est un film américain réalisé par [[Steven Spielberg]], sorti en [[1993]], et adapté du roman de [[Michael Crichton]]. 
+[[Jurassic Park]] est un film américain réalisé par [[Steven Spielberg]], sorti en [[1993]], et adapté du roman de [[Michael Crichton]]. Sur une musique de [[John Williams]] avec [[Sam Neill]] et [[Laura Dern]].
 
 Produite aux [[États-Unis]], cette œuvre se déroule sur l'île fictive d'[[Isla Nublar]], où le milliardaire [[John Hammond]] crée un parc à thème peuplé de dinosaures clonés ; une panne de sécurité provoque l'évasion des créatures, mettant en danger les visiteurs et l'équipe du parc. 
 

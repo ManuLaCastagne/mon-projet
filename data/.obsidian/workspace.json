@@ -9,18 +9,6 @@
         "dimension": 51.865008880994665,
         "children": [
           {
-            "id": "ac11efe4f8f141ed",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
             "id": "d8df93b09389ce7e",
             "type": "leaf",
             "state": {
@@ -35,8 +23,7 @@
             },
             "group": "03c186f4a2dac683"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9d62fbde3db0998",
@@ -199,7 +186,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 2.0902738038919013,
+                  "scale": 1.333630028700695,
                   "close": false
                 }
               },
@@ -368,10 +355,11 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "3b18be18a8a65fd7",
+  "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
-    "Géographie/Châtre.md",
+    "Laura Dern.md",
     "Cinéma/Jurassic Park.md",
+    "Géographie/Châtre.md",
     "Littérature/Michael Crichton.md",
     "Animaux/Cacatoès.md",
     "Vocabulaire/Hiémal.md",
@@ -400,7 +388,6 @@
     "attachments/Pasted image 20260113162521.png",
     "attachments/Pasted image 20260113152804.png",
     "attachments/Pasted image 20260113152243.png",
-    "Télévision/His Dark Materials.md",
     "Pasted image 20260113162521.png",
     "Pasted image 20260113152804.png",
     "Pasted image 20260113152243.png",
