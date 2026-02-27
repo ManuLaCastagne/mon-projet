@@ -26,12 +26,13 @@ questions:
   - Quelle commune, située dans le département de l'Indre abrite le musée "George-Sand et de la Vallée noire"?
 ---
 
-![Image de Châtre](https://upload.wikimedia.org/wikipedia/commons/b/b1/C%C3%A8dre_de_La_Ch%C3%A2tre_%28Indre%29.jpg)
 
-![[Carte_Châtre.png]]
+![Image de Châtre](https://upload.wikimedia.org/wikipedia/commons/b/b1/C%C3%A8dre_de_La_Ch%C3%A2tre_%28Indre%29.jpg)
+
+![[Carte_Châtre.png]]
 ###### Questions
 
-Quelle commune, située dans le département de l'Indre abrite le [[musée George Sand]] et de la Vallée noire"?
+Quelle commune, située dans le département de l'Indre abrite le [[musée George Sand]] et de la Vallée noire"? <!-- score: 5 -->
 
 Quelle commune de la région [[Centre-Val de Loire]], située dans le département de l'[[Indre]], est traversée par la rivière [[Indre]] offrant des paysages vallonnés et verdoyants ?
 
