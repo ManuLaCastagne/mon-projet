@@ -22,21 +22,17 @@ indice_6:
   - dystopie
 ---
 
-
-
-
 ![Image de Enki Bilal](https://upload.wikimedia.org/wikipedia/commons/d/d3/Enki_Bilal_2009.jpg)
 
 ###### Questions
 
-Quel auteur de BD a publié "La Foire aux immortels", "[[La Femme piège]]" et "[[Froid Équateur]]" dans sa trilogie [[Nikopol]] ?
+Quel auteur de BD a publié "[[La Foire aux immortels]]", "[[La Femme piège]]" et "[[Froid Équateur]]" dans sa trilogie [[Nikopol]] ? <!-- score: 5 -->
 
 Quel auteur et dessinateur de bande dessinée sci-fi, est né à Belgrade en [[Yougoslavie]] en 1951 ? <!-- score: 4 -->
 
-Quel auteur de bande dessinée a remporté en 1987 le [[Grand Prix de la ville d'Angoulême]], une prestigieuse récompense de la bande dessinée en France ?
+Quel auteur de bande dessinée franco-serbe a remporté en 1987 le [[Grand Prix de la ville d'Angoulême]], une prestigieuse récompense de la bande dessinée en France ? <!-- score: 5 -->
 
-Quel artiste, réalisateur et scénariste a créé la trilogie [[Nikopol]], dont le premier volume, [[La Foire aux immortels]], a été publié en 1980 ? <!-- score: 4 -->
-
+Quel artiste, réalisateur et scénariste franco-serbe a créé la trilogie [[Nikopol]], dont le premier volume, [[La Foire aux immortels]], a été publié en 1980 ? <!-- score: 4 -->
 ###### Description
 
 [[Enki Bilal]] est un artiste franco-serbe né en 1951 à [[Belgrade]], reconnu pour ses contributions à la bande dessinée et en particulier pour ses œuvres dystopiques mêlant science-fiction et politique. 
