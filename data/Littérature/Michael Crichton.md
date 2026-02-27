@@ -1,27 +1,26 @@
 ---
-tags: 
+tags:
   - Littérature
   - Américain
   - Années_1990
   - XXe
+  - Certifié
 date:
   - 1942/10/23
 debut: 1942
 fin: 2008
-indice_1 : 
+indice_1:
   - Jurassic Park
-indice_2 : 
+indice_2:
   - Andromeda
-indice_3 : 
+indice_3:
   - Médecin et écrivain
-indice_4 : 
+indice_4:
   - Technologie et science-fiction
-indice_5 : 
+indice_5:
   - Westworld
-indice_6 : 
+indice_6:
   - Congo
-questions:
- - Quel écrivain américain de science-fiction, aujourd'hui disparu et célèbre pour son roman "Jurassic Park", mesurait plus de 2 m?
 ---
 
 
@@ -33,6 +32,8 @@ questions:
 ###### Questions
 
 En quelle année le roman [[Jurassic Park]], écrit par [[Michael Crichton]], a-t-il été publié pour la première fois ?
+
+Quel écrivain américain de science-fiction, disparu en 2008 et célèbre pour son roman "Jurassic Park", mesurait plus de 2 m ?
 
 Quel auteur, également diplômé de la [[Harvard Medical School]] en 1969, a ensuite abandonné la médecine pour se consacrer à l'écriture de best-sellers, dont [[Congo]] paru en 1980 ?
 

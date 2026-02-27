@@ -23,9 +23,9 @@ indice_6 :
 
 ###### Questions
 
-Quel film réalisé par [[Steven Spielberg]], sorti en [[1993]], est connu pour révolutionner les effets spéciaux avec une utilisation novatrice de l’animation par ordinateur et d’animatroniques ?  
-Quelle œuvre cinématographique est une adaptation d’un roman de [[Michael Crichton]] et met en scène des dinosaures recréés via des avancées génétiques sur une île fictive ?  
-Quel long-métrage a remporté plusieurs [[Oscars]] techniques, notamment pour ses effets visuels, et a été un immense succès au box-office en [[1993]] ?
+Quel film réalisé par [[Steven Spielberg]], sorti en [[1993]], est connu pour révolutionner les effets spéciaux avec une utilisation novatrice de l’animation par ordinateur et d’animatroniques ?
+
+Quelle œuvre cinématographique est une adaptation d’un roman de [[Michael Crichton]] et met en scène des dinosaures recréés via des avancées génétiques sur une île fictive ? 
 
 ###### Description
 

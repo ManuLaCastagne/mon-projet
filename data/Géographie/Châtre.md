@@ -9,7 +9,7 @@ tags:
   - Centre-Val_de_Loire
   - France
   - Indre
-
+  - Certifié
 indice_1:
   - capitales
 indice_2:
@@ -22,8 +22,6 @@ indice_5:
   - cartes
 indice_6:
   - frontières
-questions:
-  - Quelle commune, située dans le département de l'Indre abrite le musée "George-Sand et de la Vallée noire"?
 ---
 
 
@@ -33,8 +31,6 @@ questions:
 ###### Questions
 
 Quelle commune, située dans le département de l'Indre abrite le [[musée George Sand]] et de la Vallée noire"? <!-- score: 5 -->
-
-Quelle commune de la région [[Centre-Val de Loire]], située dans le département de l'[[Indre]], est traversée par la rivière [[Indre]] offrant des paysages vallonnés et verdoyants ?
 
 Dans quel bourg, connu pour son château du [[XVIIe siècle]] et ses anciennes halles, se tient tous les semestres la [[Foire aux Châvres]] attirant de nombreux visiteurs et exposants ?
 
