@@ -120,9 +120,8 @@ Si une information manque ou est incertaine, reformule la phrase sans cette info
 La description doit inclure, répartis sur les quatre phrases :
 – le format (film, série, émission),
 – l’année exacte de sortie ou de première diffusion,
-– un ou plusieurs noms clés (réalisation/création et/ou interprètes principaux),
+– le réalisateur et tous les acteurs les plus importants (réalisation/création et/ou interprètes principaux),
 – le pays de production,
-– au moins un élément distinctif (synopsis, esthétique, structure),
 – au moins un fait marquant exploitable en quiz (festival, nominations, chiffre d’entrées si connu, record, polémique).
 
 N’utilise aucune liste, aucune puce, aucun commentaire hors des quatre phrases.
@@ -154,7 +153,7 @@ Tout fait obsolète, incertain ou contestable doit être remplacé.
 prompt_questions_vocabulaire = """
 Je veux que tu me poses exactement trois questions de culture générale dont la réponse est le mot "NOM_FICHE".
 
-Interdiction absolue d’utiliser le mot "NOM_FICHE", ses dérivés morphologiques, ses synonymes évidents ou toute formulation permettant de deviner directement la réponse.
+Interdiction d’utiliser le mot "NOM_FICHE", ses dérivés morphologiques, ses synonymes évidents ou toute formulation permettant de deviner directement la réponse.
 
 Les questions doivent être formulées de manière indirecte, comme dans un jeu télévisé français, en s’appuyant sur :
 – la définition du mot,
