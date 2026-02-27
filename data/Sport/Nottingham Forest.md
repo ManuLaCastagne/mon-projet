@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Nottingham Forest](https://upload.wikimedia.org/wikipedia/commons/a/a5/1886%E2%80%9387_Nottinghamshire_Senior_Cup_Final%2C_Nottingham_Forest_3%E2%80%930_Notts_Olympic%2C_Athletic_News%2C_26_April_1887.png)
 
 ###### Questions
 
-Quelle équipe anglaise a remporté la [[Coupe des Clubs Champions]] en [[1979]] et [[1980]], réalisant un exploit exceptionnel pour un club récemment promu en [[First Division]] ?
+Quelle équipe anglaise a remporté la [[Coupe des Clubs Champions]] en [[1979]] et [[1980]], réalisant un exploit exceptionnel pour un club récemment promu en [[First Division]] ? <!-- score: 8 -->
 
 Quel club a été dirigé par le célèbre entraîneur [[Brian Clough]] entre [[1975]] et [[1993]], période durant laquelle le club a remporté ses seuls titres européens ?
 
