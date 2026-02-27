@@ -22,6 +22,7 @@ questions:
  - Comme appelle-t-on la tôle de Fer doux recouverte d'une couche d'étain ?
 ---
 
+
 ![Image de Fer-blanc](https://upload.wikimedia.org/wikipedia/commons/3/36/Weissblech_verpackungsstahl.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ En quelle matière est fabriquée la boîte de conserve, inventée en [[1810]] p
 
 Quelle matière fut souvent utilisée à partir de [[1800]] pour recouvrir les toits, notamment en [[Amérique du Nord]], avant d’être remplacée par le matériau d’alliage [[galvalume]] après [[1975]] ?
 
-Quel matériau utilisé à l'époque victorienne pour fabriquer des jouets et ustensiles fut également utilisé pour les signes d'affichage public à partir de [[1837]] jusqu'au milieu du 20e siècle ?
+Quel matériau utilisé à l'époque victorienne pour fabriquer des jouets et ustensiles fut également utilisé pour les signes d'affichage public à partir de [[1837]] jusqu'au milieu du 20e siècle ? <!-- score: 5 -->
 
 ###### Description
 
