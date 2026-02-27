@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Sam Neill.md",
+                "file": "Cinéma/Robert Redford.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sam Neill"
+              "title": "Robert Redford"
             },
             "group": "03c186f4a2dac683"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Sam Neill.md",
+                "file": "Cinéma/Robert Redford.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sam Neill"
+              "title": "Graphique de Robert Redford"
             },
             "group": "03c186f4a2dac683"
           }
@@ -357,8 +357,8 @@
   },
   "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
-    "Cinéma/Jurassic Park.md",
     "Cinéma/Sam Neill.md",
+    "Cinéma/Jurassic Park.md",
     "Cinéma/Laura Dern.md",
     "Laura Dern.md",
     "Géographie/Châtre.md",
