@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Jurassic Park.md",
+                "file": "Cinéma/Sam Neill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jurassic Park"
+              "title": "Sam Neill"
             },
             "group": "03c186f4a2dac683"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Jurassic Park.md",
+                "file": "Cinéma/Sam Neill.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jurassic Park"
+              "title": "Graphique de Sam Neill"
             },
             "group": "03c186f4a2dac683"
           }
@@ -357,8 +357,10 @@
   },
   "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
-    "Laura Dern.md",
     "Cinéma/Jurassic Park.md",
+    "Cinéma/Sam Neill.md",
+    "Cinéma/Laura Dern.md",
+    "Laura Dern.md",
     "Géographie/Châtre.md",
     "Littérature/Michael Crichton.md",
     "Animaux/Cacatoès.md",
@@ -383,8 +385,6 @@
     "Culture générale/Piscine.md",
     "Culture générale/Être homme, c'est précisément être responsable.md",
     "Cinéma/Willow.md",
-    "Sport/11 heures et 5 minutes.md",
-    "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20260113162521.png",
     "attachments/Pasted image 20260113152804.png",
     "attachments/Pasted image 20260113152243.png",
