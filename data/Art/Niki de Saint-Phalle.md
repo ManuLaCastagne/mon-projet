@@ -25,6 +25,7 @@ questions:
  - A mes tourments, traduits dans un autoportrait réalisé avec des fragments de céramique et de verre. Célèbre pour mes tableaux performances des années 60, je collabore...
 ---
 
+
 ![Image de Niki de Saint-Phalle](https://upload.wikimedia.org/wikipedia/commons/2/2a/Niki_de_Saint_Phalle_%281964%29_by_Erling_Mandelmann.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel artiste féminine française a conçu la [[fontaine Stravinsky]] située pr
 
 Quelle artiste est connue pour avoir été la seule femme de la sculpture géante appelée [[Le Cyclop]] à [[Milly-la-Forêt]], commencée en 1969 et terminée en 1994 ?
 
-Quel artiste a transformé un ancien site de tir en [[Tir de Jarry]], où elle a tiré à la carabine sur des sacs de peinture qui éclatent pour créer des œuvres d'art, en 1961 ?
+Quel artiste a transformé un ancien site de tir en [[Tir de Jarry]], où elle a tiré à la carabine sur des sacs de peinture qui éclatent pour créer des œuvres d'art, en 1961 ? <!-- score: 4 -->
 
 ###### Description
 
