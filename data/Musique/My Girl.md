@@ -24,11 +24,12 @@ questions:
  - En 1965, quelle chanson, interprétée par les Temptations et reprise par Otis Redding...
 ---
 
+
 ![Image de My Girl](https://upload.wikimedia.org/wikipedia/commons/6/6e/Karen_Padaung_Girl_Portrait.jpg)
 
 ###### Questions
 
-Quelle chanson des [[The Temptations]], sortie en 1964, est souvent associée à l'âge d'or de la [[Motown]] et a été écrite par [[Smokey Robinson]] et [[Ronnie White]] ?
+Quelle chanson des [[The Temptations]], sortie en 1964, est souvent associée à l'âge d'or de la [[Motown]] et a été écrite par [[Smokey Robinson]] et [[Ronnie White]] ? <!-- score: 4 -->
 
 Quel titre a atteint pour la première fois la première place du [[Billboard Hot 100]] aux États-Unis en 1965 et est devenu un parfait exemple du son distinctif de la [[soul]] des [[années 1960]] ?
 
