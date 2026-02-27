@@ -20,13 +20,14 @@ indice_6 :
   - suicide
 ---
 
+
 ![Image de Marc Antoine](https://upload.wikimedia.org/wikipedia/commons/0/04/Calmon%2C_Marc_Antoine%2C_par_Appert%2C_BNF_Gallica.jpg)
 
 ###### Questions
 
 Quel général et homme politique romain célèbre pour son alliance avec [[Cléopâtre]] fut impliqué dans la guerre civile à la suite de l'assassinat de [[Jules César]] en [[44 av. J.-C.]] ?
 
-Quel personnage historique fut nommé [[Consul]] et membre du [[Second Triumvirat]] en [[43 av. J.-C.]] aux côtés de [[Octave]] et [[Lépide]], et a ensuite été défait lors de la bataille d'[[Actium]] ?
+Quel personnage historique fut nommé [[Consul]] et membre du [[Second Triumvirat]] en [[43 av. J.-C.]] aux côtés de [[Octave]] et [[Lépide]], et a ensuite été défait lors de la bataille d'[[Actium]] ? <!-- score: 2 -->
 
 Quel amant notoire d'une reine d'[[Égypte antique]] est né en [[83 av. J.-C.]] et a joué un rôle crucial dans la transformation de la [[République romaine]] en [[Empire romain]] ?
 

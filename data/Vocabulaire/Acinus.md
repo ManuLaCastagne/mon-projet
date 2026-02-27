@@ -16,18 +16,15 @@ indice_6 :
   - Glande salivaire
 ---
 
-
-
 ![Image de Acinus](https://upload.wikimedia.org/wikipedia/commons/7/79/Anisonema_acinus_359280080.jpg)
 
 ###### Questions
 
-Quel est le nom des petits sacs dans les glandes salivaires et du [[pancréas]] où se fait la sécrétion des enzymes digestives ? <!-- score: 1 -->
+Quel est le nom issu du latin des petits sacs que l'on peut retrouver dans les glandes salivaires et du [[pancréas]] où se fait la sécrétion des enzymes digestives ? <!-- score: 1 -->
 
 Comment s'appelle la structure en forme de grappe de raisin trouvée dans les poumons et responsable des échanges gazeux avec le sang ?
 
 Quel terme, venant du latin signifiant "baie" ou "grain", désigne la partie terminale d'une glande exocrine où se produit la sécrétion ?
-
 ###### Description
 
 L'[[Acinus]] est une structure en forme de grappe que l'on retrouve notamment au niveau des glandes [[exocrine]]s et dans les poumons, où il joue un rôle crucial dans l'échange de gaz. 

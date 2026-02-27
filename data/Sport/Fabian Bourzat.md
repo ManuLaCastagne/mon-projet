@@ -20,17 +20,13 @@ indice_6:
   - Patinage artistique
 ---
 
-
 ![Image de Fabian Bourzat](https://upload.wikimedia.org/wikipedia/commons/2/2a/Jielbeaumadier_Joubert_Pechalat_Bourzat_Amodio_WFSC_Nice_2012.jpg)
 
 ###### Questions
 
-Quel danseur sur glace français a remporté la médaille de bronze aux [[Championnats du monde de patinage artistique]] de [[2012]] avec [[Nathalie Péchalat]] ?
-
-Quel athlète a été sacré champion d'[[Europe]] en danse sur glace en [[2011]] et [[2012]] aux côtés de [[Nathalie Péchalat]] ? <!-- score: 4 -->
+Quel danseur sur glace français a été sacré champion d'[[Europe]] en danse sur glace en [[2011]] et [[2012]] et a remporté la médaille de bronze aux [[Championnats du monde de patinage artistique]] de [[2012]] avec [[Nathalie Péchalat]] ? <!-- score: 3 -->
 
 Qui a participé à [[Vancouver 2010]] en tant que représentant français en danse sur glace avec [[Nathalie Péchalat]] ?
-
 ###### Description
 
 [[Fabian Bourzat]], né le 19 décembre 1980 à [[Nantes]], est un danseur sur glace français renommé pour ses performances avec sa partenaire [[Nathalie Péchalat]]. 
