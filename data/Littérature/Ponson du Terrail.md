@@ -22,6 +22,7 @@ indice_6:
   - Romans du XIXe siècle
 ---
 
+
 ![Image de Ponson du Terrail](https://upload.wikimedia.org/wikipedia/commons/5/53/Ponson_du_Terrail_Nadar.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel écrivain né en 1829, spécialiste du roman-feuilleton, a créé le person
 
 Quel auteur français, né en 1829, est connu pour avoir créé le personnage de [[Rocambole]] en 1857 dans la littérature populaire ?
 
-Qui est l'écrivain dont le roman "Le Drame de [[Probaska]]" a été publié en 1870, juste avant de mourir la même année ?
+Qui est l'écrivain dont le roman "Le Drame de [[Probaska]]" a été publié en 1870, juste avant de mourir la même année ? <!-- score: 3 -->
 
 Quel auteur, ayant écrit plus de 200 romans-feuilletons, a marqué l'imaginaire collectif avec des aventures publiées dans le journal [[La Patrie]] ?
 
