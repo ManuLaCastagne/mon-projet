@@ -20,11 +20,12 @@ indice_6:
   - Académicienne française
 ---
 
+
 ![Image de Simone Veil](https://upload.wikimedia.org/wikipedia/commons/e/e0/Simone_Veil_bij_uitreiking_Four_Freedoms_Awards_in_Middelburg%2C_Bestanddeelnr_933-0124_-_Restoration.jpg)
 
 ###### Questions
 
-En 1986, dans l'émission "[[Toutes folles de lui]]", à quelle femme politique [[Christophe Dechavanne]] demande-t-il de défaire son chignon ?
+En 1986, dans l'émission "[[Toutes folles de lui]]", à quelle femme politique [[Christophe Dechavanne]] demande-t-il de défaire son chignon ? <!-- score: 6 -->
 
 En 1975, quelle femme politique française, alors ministre de la Santé publique, fit voter la loi sur l'interruption volontaire de grossesse?
 
