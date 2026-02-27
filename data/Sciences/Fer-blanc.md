@@ -22,17 +22,13 @@ questions:
  - Comme appelle-t-on la tôle de Fer doux recouverte d'une couche d'étain ?
 ---
 
-
 ![Image de Fer-blanc](https://upload.wikimedia.org/wikipedia/commons/3/36/Weissblech_verpackungsstahl.jpg)
 
 ###### Questions
 
-En quelle matière est fabriquée la boîte de conserve, inventée en [[1810]] par [[Peter Durand]] ?
-
-Quelle matière fut souvent utilisée à partir de [[1800]] pour recouvrir les toits, notamment en [[Amérique du Nord]], avant d’être remplacée par le matériau d’alliage [[galvalume]] après [[1975]] ?
+En quelle matière est fabriquée la boîte de conserve,inventée en [[1810]] par [[Peter Durand]], une version améliorée de celle de [[Nicolas Appert]] ? <!-- score: 5 -->
 
 Quel matériau utilisé à l'époque victorienne pour fabriquer des jouets et ustensiles fut également utilisé pour les signes d'affichage public à partir de [[1837]] jusqu'au milieu du 20e siècle ? <!-- score: 5 -->
-
 ###### Description
 
 Le fer-blanc, souvent utilisé pour sa capacité à résister à la corrosion et à se plier facilement, est un matériau métallurgique constitué principalement de [[fer]] recouvert d'une fine couche d'[[étain]]. Ce matériau trouve ses origines industrielles à [[Bohemia]], où la production de fer-blanc a été rapportée pour la première fois au XIVe siècle, stimulant ainsi son essor dans toute l'[[Europe]].
