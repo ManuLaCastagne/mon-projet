@@ -21,11 +21,12 @@ indice_6:
 ---
 
 
+
 ![Image de Fabian Bourzat](https://upload.wikimedia.org/wikipedia/commons/2/2a/Jielbeaumadier_Joubert_Pechalat_Bourzat_Amodio_WFSC_Nice_2012.jpg)
 
 ###### Questions
 
-Quel danseur sur glace français a remporté la médaille de bronze aux [[Championnats du monde de patinage artistique]] de [[2012]] avec [[Nathalie Péchalat]] ?
+Quel danseur sur glace français a remporté la médaille de bronze aux [[Championnats du monde de patinage artistique]] de [[2012]] avec [[Nathalie Péchalat]] ? <!-- score: 3 -->
 
 Quel athlète a été sacré champion d'[[Europe]] en danse sur glace en [[2011]] et [[2012]] aux côtés de [[Nathalie Péchalat]] ? <!-- score: 4 -->
 
