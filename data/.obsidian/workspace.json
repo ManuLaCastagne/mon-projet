@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Et au milieu coule une rivière.md",
+                "file": "Vocabulaire/Virilocal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Et au milieu coule une rivière"
+              "title": "Virilocal"
             },
             "group": "03c186f4a2dac683"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Et au milieu coule une rivière.md",
+                "file": "Vocabulaire/Virilocal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Et au milieu coule une rivière"
+              "title": "Graphique de Virilocal"
             },
             "group": "03c186f4a2dac683"
           }
@@ -357,6 +357,10 @@
   },
   "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
+    "Cinéma/Et au milieu coule une rivière.md",
+    "Vocabulaire/Virilocal.md",
+    "Vocabulaire/Allodynie.md",
+    "Vocabulaire/Orobanche.md",
     "Vocabulaire/Mahayana.md",
     "Vocabulaire/Ingouche.md",
     "Vocabulaire/Chamotte.md",
@@ -364,7 +368,6 @@
     "Vocabulaire/Cyanelle.md",
     "Cinéma/Butch Cassidy et le Kid.md",
     "attachments/Pasted image 20260227105330.png",
-    "Cinéma/Et au milieu coule une rivière.md",
     "Cinéma/Robert Redford.md",
     "Cinéma/Sam Neill.md",
     "Cinéma/Jurassic Park.md",
@@ -383,9 +386,6 @@
     "Cinéma/La Chronique des Bridgerton.md",
     "Gastronomie/Banh bao.md",
     "Cinéma/Cabaret (film).md",
-    "Animaux/psittacidé.md",
-    "Psittacidae.md",
-    "Animaux/Araignée de mer.md",
     "attachments/Pasted image 20260113162521.png",
     "attachments/Pasted image 20260113152804.png",
     "attachments/Pasted image 20260113152243.png",
