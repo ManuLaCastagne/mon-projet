@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Ponson du Terrail.md",
+                "file": "Art/Phoebe Anna Traquair.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ponson du Terrail"
+              "title": "Phoebe Anna Traquair"
             }
           }
         ],
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Ponson du Terrail.md",
+                "file": "Art/Phoebe Anna Traquair.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Ponson du Terrail"
+              "title": "Graphique de Phoebe Anna Traquair"
             }
           }
         ]
@@ -368,6 +368,8 @@
   },
   "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
+    "Littérature/Ponson du Terrail.md",
+    "Art/Phoebe Anna Traquair.md",
     "Littérature/Le Joueur d'échecs.md",
     "Vocabulaire/Virilocal.md",
     "Vocabulaire/Périthèce.md",
@@ -397,8 +399,6 @@
     "Pasted image 20260207171636.png",
     "Littérature/Lettre d'une inconnue.md",
     "Littérature/Robert Desnos.md",
-    "Littérature/La Fourmi.md",
-    "Littérature/L'Espion qui venait du froid.md",
     "Pasted image 20260131112159.png",
     "Pasted image 20260131105947.png",
     "attachments/Pasted image 20260113162521.png",

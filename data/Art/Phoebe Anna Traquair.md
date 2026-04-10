@@ -20,7 +20,7 @@ indice_6 :
   - Symbolisme
 ---
 
-![Image de Phoebe Anna Traquair]()
+![Image de Phoebe Anna Traquair](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Phoebe_Anna_Traquair_-_Self-portrait%2C_1911.jpg/1920px-Phoebe_Anna_Traquair_-_Self-portrait%2C_1911.jpg)
 
 ###### Questions
 
