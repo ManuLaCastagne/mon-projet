@@ -9,33 +9,21 @@
         "dimension": 51.865008880994665,
         "children": [
           {
-            "id": "ac11efe4f8f141ed",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
             "id": "d8df93b09389ce7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Phoebe Anna Traquair.md",
+                "file": "Vocabulaire/Virilocal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phoebe Anna Traquair"
-            }
+              "title": "Virilocal"
+            },
+            "group": "03c186f4a2dac683"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9d62fbde3db0998",
@@ -48,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Art/Phoebe Anna Traquair.md",
+                "file": "Vocabulaire/Virilocal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,13 +186,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 0.7458266445578999,
+                  "scale": 1.333630028700695,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Phoebe Anna Traquair"
-            }
+              "title": "Graphique de Virilocal"
+            },
+            "group": "03c186f4a2dac683"
           }
         ]
       }
@@ -279,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinéma/Elsa Zylberstein.md",
+                "file": "Animaux/Cacatoès.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +278,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Elsa Zylberstein"
+              "title": "Rétrolien pour Cacatoès"
             }
           },
           {
@@ -298,12 +287,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinéma/Elsa Zylberstein.md",
+                "file": "Animaux/Cacatoès.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Elsa Zylberstein"
+              "title": "Liens sortants de Cacatoès"
             }
           },
           {
@@ -327,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musique/Manureva.md",
+                "file": "Animaux/Cacatoès.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Manureva"
+              "title": "Plan de Cacatoès"
             }
           },
           {
@@ -366,44 +355,43 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "d8df93b09389ce7e",
+  "active": "028c50878b1df9c9",
   "lastOpenFiles": [
-    "Littérature/Ponson du Terrail.md",
     "Art/Phoebe Anna Traquair.md",
-    "Littérature/Le Joueur d'échecs.md",
-    "Vocabulaire/Virilocal.md",
-    "Vocabulaire/Périthèce.md",
     "Vocabulaire/Parador.md",
+    "Vocabulaire/Filioque.md",
+    "Géographie/Ben Nevis.md",
+    "Vocabulaire/Chiasma.md",
+    "Cinéma/Et au milieu coule une rivière.md",
+    "Vocabulaire/Virilocal.md",
+    "Vocabulaire/Allodynie.md",
     "Vocabulaire/Orobanche.md",
     "Vocabulaire/Mahayana.md",
     "Vocabulaire/Ingouche.md",
-    "Vocabulaire/Filioque.md",
-    "Vocabulaire/Chiasma.md",
     "Vocabulaire/Chamotte.md",
-    "Vocabulaire/Allodynie.md",
-    "Géographie/Ben Nevis.md",
+    "Vocabulaire/Périthèce.md",
+    "Vocabulaire/Cyanelle.md",
+    "Cinéma/Butch Cassidy et le Kid.md",
     "attachments/Pasted image 20260227105330.png",
-    "attachments/Pasted image 20260207171636.png",
+    "Cinéma/Robert Redford.md",
+    "Cinéma/Sam Neill.md",
+    "Cinéma/Jurassic Park.md",
+    "Cinéma/Laura Dern.md",
+    "Laura Dern.md",
+    "Géographie/Châtre.md",
+    "Littérature/Michael Crichton.md",
+    "Animaux/Cacatoès.md",
+    "Vocabulaire/Hiémal.md",
+    "Vocabulaire/Agami.md",
+    "Télévision/Florian Gazan.md",
     "attachments/Pasted image 20260131112159.png",
     "attachments/Pasted image 20260131105947.png",
-    "Vocabulaire/Cyanelle.md",
-    "Cinéma/Sam Neill.md",
-    "Cinéma/Laura Dern.md",
-    "Cinéma/Jurassic Park.md",
-    "Cinéma/Butch Cassidy et le Kid.md",
-    "Vocabulaire/Hiémal.md",
-    "Vocabulaire/Dysmélie.md",
-    "Vocabulaire/Agami.md",
-    "Littérature/Madeleine Chapsal.md",
-    "Littérature/Stefan Zweig.md",
-    "Pasted image 20260207171636.png",
-    "Littérature/Lettre d'une inconnue.md",
-    "Littérature/Robert Desnos.md",
-    "Pasted image 20260131112159.png",
-    "Pasted image 20260131105947.png",
     "attachments/Pasted image 20260113162521.png",
     "attachments/Pasted image 20260113152804.png",
     "attachments/Pasted image 20260113152243.png",
+    "Pasted image 20260113162521.png",
+    "Pasted image 20260113152804.png",
+    "Pasted image 20260113152243.png",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
