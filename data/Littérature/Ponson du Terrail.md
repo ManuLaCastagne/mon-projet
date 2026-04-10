@@ -27,8 +27,6 @@ indice_6:
 
 ###### Questions
 
-Quel écrivain né en 1829, spécialiste du roman-feuilleton, a créé le personnage de Rocambole, dont le nom a donné l'adjectif rocambolesque?
-
 Quel auteur français, né en 1829, est connu pour avoir créé le personnage de [[Rocambole]] en 1857 dans la littérature populaire ?
 
 Qui est l'écrivain dont le roman "Le Drame de [[Probaska]]" a été publié en 1870, juste avant de mourir la même année ? <!-- score: 3 -->

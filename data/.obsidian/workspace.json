@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Le Joueur d'échecs.md",
+                "file": "Littérature/Ponson du Terrail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le Joueur d'échecs"
+              "title": "Ponson du Terrail"
             }
           }
         ],
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Le Joueur d'échecs.md",
+                "file": "Littérature/Ponson du Terrail.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Le Joueur d'échecs"
+              "title": "Graphique de Ponson du Terrail"
             }
           }
         ]
@@ -366,8 +366,9 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "028c50878b1df9c9",
+  "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
+    "Littérature/Le Joueur d'échecs.md",
     "Vocabulaire/Virilocal.md",
     "Vocabulaire/Périthèce.md",
     "Vocabulaire/Parador.md",
@@ -393,7 +394,6 @@
     "Vocabulaire/Agami.md",
     "Littérature/Madeleine Chapsal.md",
     "Littérature/Stefan Zweig.md",
-    "Littérature/Le Joueur d'échecs.md",
     "Pasted image 20260207171636.png",
     "Littérature/Lettre d'une inconnue.md",
     "Littérature/Robert Desnos.md",
