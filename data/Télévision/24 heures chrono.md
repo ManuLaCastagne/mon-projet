@@ -1,37 +1,33 @@
 ---
-tags: 
+tags:
   - Télévision
   - États-Unis
   - Années_2000
   - XXIe
+  - Certifié
 debut: 2001
 fin: 2014
-indice_1 : 
+indice_1:
   - Jack Bauer
-indice_2 : 
+indice_2:
   - CTU
-indice_3 : 
+indice_3:
   - temps réel
-indice_4 : 
+indice_4:
   - Los Angeles
-indice_5 : 
+indice_5:
   - terrorisme
-indice_6 : 
+indice_6:
   - Kiefer Sutherland
-questions:
- - Quelle série télé américaine intitulée "Twenty four" en anglais a pour héros Jack Bauer?
 ---
-
-
-![Image de 24 heures chrono](https://upload.wikimedia.org/wikipedia/commons/e/eb/Le_journaliste_el_malick_seck_de_24_heures_chrono.JPG)
-
+![[Pasted image 20260411115209.png]]
 ###### Questions
 
+Quelle série télé américaine intitulée "Twenty four" en anglais a pour héros Jack Bauer ?
+
+Dans quelle série télévisée chaque saison est composée de 24 épisodes se déroulant sur une seule et même journée ?
+
 Dans quelle série télévisée américaine diffusée à partir de [[2001]] suit-on les missions de [[Jack Bauer]], un agent de la [[Cellule anti-terroriste]] de Los Angeles, sur une période de 24 heures retransmise en temps réel ?
-
-Quelle série a introduit la reconnaissance et la popularité du format en temps réel, influençant la production de contenus télévisuels similaires, dès sa première diffusion le 6 novembre [[2001]] sur [[Fox]] ?
-
-Quelle émission a remporté le prix de la meilleure série dramatique aux [[Emmy Awards]] en [[2006]] et est réputée pour son format en temps réel innovant et ses cliffhangers haletants ? <!-- score: 3 -->
 
 ###### Description
 
