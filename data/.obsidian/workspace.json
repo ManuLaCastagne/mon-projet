@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Ordonnance de Villers-Cotterêts.md",
+                "file": "Animaux/Singe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ordonnance de Villers-Cotterêts"
+              "title": "Singe"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Ordonnance de Villers-Cotterêts.md",
+                "file": "Animaux/Singe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Ordonnance de Villers-Cotterêts"
+              "title": "Graphique de Singe"
             }
           }
         ]
@@ -355,6 +355,11 @@
   },
   "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
+    "Culture générale/Chien.md",
+    "Animaux/Singe.md",
+    "Histoire/Ordonnance de Villers-Cotterêts.md",
+    "Culture générale/Sidecar.md",
+    "Listes/Cocktails.md",
     "Cinéma/Georges Méliès.md",
     "Histoire/Traité de Cateau-Cambrésis.md",
     "Cinéma/Le Grinch.md",
@@ -377,15 +382,10 @@
     "Vocabulaire/Chiasma.md",
     "Vocabulaire/Chamotte.md",
     "Vocabulaire/Allodynie.md",
-    "Géographie/Ben Nevis.md",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260207171636.png",
     "attachments/Pasted image 20260131112159.png",
     "attachments/Pasted image 20260131105947.png",
-    "Vocabulaire/Cyanelle.md",
-    "Cinéma/Sam Neill.md",
-    "Cinéma/Laura Dern.md",
-    "Cinéma/Jurassic Park.md",
     "Pasted image 20260207171636.png",
     "Pasted image 20260131112159.png",
     "Pasted image 20260131105947.png",
