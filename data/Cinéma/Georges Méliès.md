@@ -1,6 +1,5 @@
 ---
-tags: 
-  - Cinéma,France,Années_1900,XXe,Effets_spéciaux
+tags:
   - réalisateur
   - producteur
   - scénariste
@@ -8,20 +7,18 @@ date:
   - 1861/12/08
 debut: 1861
 fin: 1938
-indice_1 : 
+indice_1:
   - Magicien et cinéaste
-indice_2 : 
+indice_2:
   - pionnier des effets spéciaux
-indice_3 : 
+indice_3:
   - Le Voyage dans la Lune
-indice_4 : 
+indice_4:
   - Star Film
-indice_5 : 
+indice_5:
   - cinéma muet
-indice_6 : 
+indice_6:
   - parisien
-questions:
- - En 1897, quel pionnier français du 7e art a fait construire à Montreuil-sous-Bois le premier studio de cinéma ?
 ---
 
 ![Image de Georges Méliès](https://upload.wikimedia.org/wikipedia/commons/a/a2/M%C3%A9li%C3%A8s_portrait_%28cropped%29.png)
@@ -29,6 +26,8 @@ questions:
 ###### Questions
 
 Quel pionnier du cinéma a réalisé le film de science-fiction emblématique [[Le Voyage dans la Lune]] en 1902 ?
+
+En 1897, quel pionnier français du 7e art a fait construire à Montreuil-sous-Bois le premier studio de cinéma ?
 
 Quel cinéaste, auparavant magicien, a utilisé les premières techniques d'effets spéciaux au cinéma avec des films comme [[L'Homme à la tête de caoutchouc]] en 1901 ?
 
