@@ -31,7 +31,7 @@ Quel film d’[[animation]] sorti en [[2018]] est réalisé par [[Yarrow Cheney]
 
 ###### Description
 
-[[Le Grinch (Cinéma)]] est un film en prises de vues réelles, sorti en [[2000]], réalisé par [[Ron Howard]].
+[[Le Grinch]] est un film en prises de vues réelles, sorti en [[2000]], réalisé par [[Ron Howard]].
 
 Dans cette version, [[Jim Carrey]] incarne le personnage du [[Grinch]], avec une histoire étoffée et un ton parfois burlesque.
 

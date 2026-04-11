@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Télévision/24 heures chrono.md",
+                "file": "Cinéma/Le Grinch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 heures chrono"
+              "title": "Le Grinch"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Télévision/24 heures chrono.md",
+                "file": "Cinéma/Le Grinch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 24 heures chrono"
+              "title": "Graphique de Le Grinch"
             }
           }
         ]
@@ -353,11 +353,11 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "028c50878b1df9c9",
+  "active": "d8df93b09389ce7e",
   "lastOpenFiles": [
+    "Télévision/24 heures chrono.md",
     "Cinéma/Le Grinch.md",
     "Culture générale/Le Grinch.md",
-    "Télévision/24 heures chrono.md",
     "Culture générale/Jack Bauer.md",
     "Télévision/Kiefer Sutherland.md",
     "attachments/Pasted image 20260411115209.png",
