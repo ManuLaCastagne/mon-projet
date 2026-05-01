@@ -1,17 +1,17 @@
 ---
-description: Samarcande, Ouzbékistan | Années_1400 | XVe | Mausolée | Tombeau de Tamerlan | Architecture timouride
+description: Samarcande | Années_1400 | XVe | Mausolée | Tombe de Tamerlan | Timourides
 latitude: 
 longitude: 
 location: 
 tags: 
-  - Asie_centrale
+  - Samarkand
   - Ouzbékistan
   - None
   - GPS_mano
 debut: 1404
-fin: 
+fin: 1404
 indice_1 : 
-  - Samarcande, Ouzbékistan
+  - Samarcande
 indice_2 : 
   - Années_1400
 indice_3 : 
@@ -19,27 +19,25 @@ indice_3 :
 indice_4 : 
   - Mausolée
 indice_5 : 
-  - Tombeau de Tamerlan
+  - Tombe de Tamerlan
 indice_6 : 
-  - Architecture timouride
+  - Timourides
 ---
 
 ![Image de Gour Emir]()
 
 ###### Questions
 
-Dans quelle ville de [[l'Ouzbékistan]] trouve-t-on un mausolée emblématique de l'architecture timouride construit autour des années [[1403-1404]] ?
-
-Quelle structure funéraire, débutée pour un prince timouride et achevée en [[1405]], est un lien important entre l'architecture centrasiatique et les monuments funéraires moghols ?
-
-Quel monument est célèbre pour son dôme bleu cannelé et son intégration dans le site du [[Patrimoine mondial de l'UNESCO]] intitulé « [[Samarcande – carrefour de cultures]] » ?
+Quel monument funéraire construit à [[Samarkand]] au début du [[XVe siècle]] est connu pour sa coupole cannelée turquoise influençant l'architecture moghole ?  
+Quel édifice emblématique de l'architecture timouride servit de sépulture principale pour le fondateur de l'empire Timouride et ses descendants ?  
+Quel mausolée, achevé principalement en [[1405]], est célèbre pour sa combinaison architecturale de mosaïques polychromes et de muqarnas ?
 
 ###### Description
 
-Le [[Gour Emir]] est situé dans la ville historique de [[Samarcande]], qui est maintenant en [[Ouzbékistan]].  
+Le [[Gour Emir]] est situé à [[Samarkand]], une ville emblématique de l'Ouzbékistan.  
 
-Ce mausolée a été construit au début du XVe siècle, en 1404, pour abriter les sépultures de [[Timour le Lame]], né dans la ville de [[Keş]], aujourd'hui connue sous le nom de [[Shahrisabz]].  
+Il est surtout connu pour être le mausolée de [[Tamerlan]], né dans la ville de [[Shahrisabz]] en 1336, un conquérant qui fonda l'[[Empire Timouride]].  
 
-Un fait étonnant à propos du [[Gour Emir]] est que son dôme central mesure environ 32 mètres de hauteur, une caractéristique architecturale remarquable pour son époque.   
+Un fait étonnant concernant le [[Gour Emir]] est que, bien que sa taille semble modeste de l'extérieur, l'intérieur abrite des tombes richement ornées et constitue une œuvre majeure de l'architecture islamique qui a inspiré d’autres mausolées célèbres, tels que le [[Taj Mahal]] en Inde.  
 
-À l'intérieur, on trouve des décorations en mosaïque et en marbre, mettant en valeur l'artisanat du grand empire timouride.
+Achevé en 1404, le [[Gour Emir]] renferme également les sépultures de plusieurs descendants de [[Tamerlan]], dont son petit-fils, l'astronome [[Ulugh Beg]].
