@@ -26,7 +26,7 @@ indice_6 :
 
 ###### Questions
 
-Quel [[pape]], emprisonné par [[Napoléon Bonaparte]], est libéré en [[1814]] après avoir signé le [[Concordat de Fontainebleau]] ? <!-- score: 1 -->
+Quel [[pape]] au nom rigolo, emprisonné par [[Napoléon Bonaparte]], est libéré en [[1814]] après avoir signé le [[Concordat de Fontainebleau]] ? <!-- score: 1 -->
 
 Quel [[pape]] a excommunié [[Napoléon Bonaparte]] en [[1809]] après l'annexion des [[États pontificaux]] par l'[[Empire français]] ?
 
