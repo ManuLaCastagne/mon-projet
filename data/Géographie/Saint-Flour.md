@@ -31,8 +31,12 @@ Quelle commune du [[Cantal]], en région [[Auvergne-Rhône-Alpes]], est située 
 
 Quelle ville, traversée par la rivière [[Ander]], se trouve approximativement à 100 km au sud de [[Clermont-Ferrand]] ?
 
-Quelle sous-préfecture, accessible par l’autoroute [[A75]], est connue pour son climat de montagne avec une température annuelle moyenne proche de 8–9 °C ?
-
 ###### Description
 
-[[Saint-Flour]] se situe dans le département du [[Cantal]] en région [[Auvergne-Rhône-Alpes]], en [[France]]. La ville de [[Saint-Flour]] est connue pour son pont dit "sendré", qui est resté debout durant plus de 700 ans jusqu'à sa reconstruction en 2009. [[Saint-Flour]] est le lieu de naissance de [[Michel du Bec-Crespin]], un notable religieux du 17ème siècle. Un fait marquant à propos de [[Saint-Flour]] est qu'elle est la seule sous-préfecture située à plus de 830 mètres d'altitude en [[France]].
+[[Saint-Flour]] se situe dans le département du [[Cantal]] en région [[Auvergne-Rhône-Alpes]], en [[France]]. 
+
+La ville de [[Saint-Flour]] est connue pour son pont dit "sendré", qui est resté debout durant plus de 700 ans jusqu'à sa reconstruction en 2009. 
+
+[[Saint-Flour]] est le lieu de naissance de [[Michel du Bec-Crespin]], un notable religieux du 17ème siècle. 
+
+Un fait marquant à propos de [[Saint-Flour]] est qu'elle est la seule sous-préfecture située à plus de 830 mètres d'altitude en [[France]].

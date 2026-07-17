@@ -8,28 +8,24 @@ tags:
   - Géographie
   - Mer_Rouge
   - Soudan
-  - Mer_Rouge
-
-indice_1 : 
+indice_1:
   - Afrique et Asie
-indice_2 : 
+indice_2:
   - canal de Suez
-indice_3 : 
+indice_3:
   - eaux salées
-indice_4 : 
+indice_4:
   - Érythrée et Arabie Saoudite
-indice_5 : 
+indice_5:
   - Golfe d'Aqaba
-indice_6 : 
+indice_6:
   - biodiversité marine
-questions:
- - Quelle mer du Proche-Orient, séparant les côtes africaines de celles d'Arabie, devrait son nom, de selon certaines théories, aux algues qui la colorent?
 ---
-
-![Image de Mer Rouge](https://upload.wikimedia.org/wikipedia/commons/2/2e/Morehouse_Parish_Louisiana_Incorporated_and_Unincorporated_areas_Mer_Rouge_Highlighted.svg)
 
 ![[Carte_Mer Rouge.png]]
 ###### Questions
+
+Quelle mer du Proche-Orient, séparant les côtes africaines de celles d'Arabie, devrait son nom, de selon certaines théories, aux algues qui la colorent ?
 
 Quel est le plan d'eau dans lequel en 1972 le [[ferry Egée I]] a sombré, marquant l'un des pires accidents maritimes de l'histoire de la [[Mer Rouge]] ?
 
@@ -39,7 +35,7 @@ Quel est le plan d'eau qui, selon l'[[histoire de l'humanité]], a été le pass
 
 ###### Description
 
-[[Mer Rouge]] est une étendue d'eau salée qui sépare la [[Péninsule Arabique]] de l'[[Afrique nord-est]], s'étendant sur environ 2 250 kilomètres de longueur et reliant la [[Mer Méditerranée]] à l'[[Océan Indien]] via le [[Canal de Suez]], construit en 1869.
+La [[Mer Rouge]] est une étendue d'eau salée qui sépare la [[Péninsule Arabique]] de l'[[Afrique nord-est]], s'étendant sur environ 2 250 kilomètres de longueur et reliant la [[Mer Méditerranée]] à l'[[Océan Indien]] via le [[Canal de Suez]], construit en 1869.
 
 Avec des températures pouvant atteindre jusqu'à 30°C, elle est l'une des mers les plus chaudes du monde et abrite une biodiversité marine exceptionnelle, notamment plus de 1 200 espèces de poissons, dont environ 10 % sont endémiques à la région.
 
