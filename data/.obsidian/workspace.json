@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sport/Eric Tabarly.md",
+                "file": "Cinéma/Deborah Kerr.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,35 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Eric Tabarly"
-            }
-          },
-          {
-            "id": "81e3659bd24ce530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulaire/Hattéria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hattéria"
-            }
-          },
-          {
-            "id": "1e3cfddd45fbaee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Géographie/Mer Rouge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mer Rouge"
+              "title": "Graphique de Deborah Kerr"
             }
           },
           {
@@ -214,20 +186,21 @@
             }
           },
           {
-            "id": "72e67041643bb8d7",
+            "id": "d168a03b17ffd6eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sport/Eric Tabarly.md",
+                "file": "Cinéma/Deborah Kerr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eric Tabarly"
+              "title": "Deborah Kerr"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -387,10 +360,16 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "3b18be18a8a65fd7",
+  "active": "d168a03b17ffd6eb",
   "lastOpenFiles": [
-    "Culture générale/Pen Duick.md",
+    "Culture générale/Simple minds.md",
+    "Cinéma/Deborah Kerr.md",
+    "Cinéma/Le Roi et Moi.md",
+    "Culture générale/Jim Kerr.md",
     "Géographie/Écosse.md",
+    "Sport/Eric Tabarly.md",
+    "Vocabulaire/syzygie.md",
+    "Culture générale/Pen Duick.md",
     "Géographie/Îles Samoa.md",
     "Géographie/Grande-Motte.md",
     "Géographie/Birmanie.md",
@@ -409,12 +388,6 @@
     "Cinéma/Laura Dern.md",
     "Vocabulaire/Hattéria.md",
     "Animaux/Alouate.md",
-    "Culture générale/Rhynchocephalia.md",
-    "Géographie/Nouvelle-Zélande.md",
-    "Botanique/Ébène.md",
-    "Botanique/Thuya.md",
-    "Vocabulaire/Wagage.md",
-    "Vocabulaire/Ombudsman.md",
     "attachments/Pasted image 20260411115209.png",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260131112159.png",

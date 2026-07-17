@@ -26,11 +26,7 @@ indice_6:
 
 ###### Questions
 
-Dans quel film de 1956, [[Deborah Kerr]] partage-t-elle la vedette avec [[Yul Brynner]], connu pour sa performance chantante et dansante dans un rôle royal?
-
-Quel rôle a valu à [[Deborah Kerr]] son sixième et dernier Oscar de la meilleure actrice, bien qu'elle n'ait jamais remporté cette récompense malgré ses multiples nominations?
-
-En quelle année [[Deborah Kerr]] a-t-elle reçu un Oscar d'honneur pour l'ensemble de sa carrière, soulignant son influence durable sur le cinéma?
+En 1956, dans "[[Le Roi et Moi]]" qui partage la vedette avec [[Yul Brynner]], connu pour sa performance chantante et dansante dans un rôle royal ?
 
 ###### Description
 
