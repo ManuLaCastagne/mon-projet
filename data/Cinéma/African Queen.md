@@ -31,8 +31,6 @@ Quel film réalisé par [[John Huston]] en 1951 mettant en scène [[Humphrey Bog
 
 En 1952, dans quel film de John Huston dont l'action se déroule en [[Afrique]], Humphrey Bogart incarne-t-il le capitaine d'un vieux bateau ?
 
-Quel est le nom du bateau utilisé par les personnages principaux dans le film [[African Queen]], qui a également donné son titre au film ?
-
 Quel film centré sur l'odyssée d'un bateau à vapeur sur une rivière dans la jungle africaine a permis à [[Humphrey Bogart]] de remporter l'Oscar du meilleur acteur en 1952 ? <!-- score: 3 -->
 
 ###### Description

@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/African Queen.md",
+                "file": "Littérature/Eric-Emmanuel Schmitt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,12 +163,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 0.7731632878706427,
+                  "scale": 0.975188951527677,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de African Queen"
+              "title": "Graphique de Eric-Emmanuel Schmitt"
             }
           },
           {
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/African Queen.md",
+                "file": "Littérature/Eric-Emmanuel Schmitt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "African Queen"
+              "title": "Eric-Emmanuel Schmitt"
             }
           }
         ],
@@ -232,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "milarepa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,7 +253,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -362,9 +363,11 @@
   },
   "active": "1e3cfddd45fbaee2",
   "lastOpenFiles": [
+    "Géographie/Sainte-Foy-lès-Lyon.md",
+    "Littérature/Eric-Emmanuel Schmitt.md",
+    "Cinéma/African Queen.md",
     "Cinéma/Sam Neill.md",
     "Cinéma/Laura Dern.md",
-    "Cinéma/African Queen.md",
     "Vocabulaire/Hattéria.md",
     "Animaux/Alouate.md",
     "Culture générale/Rhynchocephalia.md",
@@ -386,9 +389,7 @@
     "Vocabulaire/Apartheid.md",
     "Littérature/En attendant les barbares.md",
     "Littérature/John-Maxwell Coetzee.md",
-    "Vocabulaire/Virilocal.md",
     "attachments/Pasted image 20260411115209.png",
-    "Télévision/Kiefer Sutherland.md",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260131112159.png",
     "attachments/Pasted image 20260131105947.png",

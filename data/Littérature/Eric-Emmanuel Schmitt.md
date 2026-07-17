@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Belge
   - Années_2000
@@ -7,21 +7,19 @@ tags:
 date:
   - 1960/03/28
 debut: 1960
-fin: 
-indice_1 : 
-  - Le Visiteur
-indice_2 : 
+fin:
+indice_1:
+  - Oscar et la dame Rose
+indice_2:
   - L'Évangile selon Pilate
-indice_3 : 
+indice_3:
   - La Part de l'autre
-indice_4 : 
+indice_4:
   - dramaturge et romancier
-indice_5 : 
+indice_5:
   - franco-belge
-indice_6 : 
+indice_6:
   - philosophie et spiritualité
-questions:
- - En 2006, quel écrivain français publie le recueil de nouvelles "Odette Toulemonde" et "Autres histoires" après "Oscar et la Dame Rose" en 2002 ?
 ---
 
 
@@ -33,7 +31,9 @@ Quel écrivain a publié son premier roman, [[La Secte des Égoïstes]], en 1994
 
 Quel dramaturge a remporté le [[Grand Prix du Théâtre]] de l'[[Académie française]] en 2001 pour l'ensemble de son œuvre ?
 
-Quel auteur a signé un cycle romanesque intitulé [[Le Cycle de l'invisible]], dont le premier volet, [[Milarepa]], est paru en 1997 ? <!-- score: 3 -->
+Quel auteur a signé un cycle romanesque intitulé [[le Cycle de l'invisible]], dont le premier volet, [[Milarepa]], est paru en 1997 ? <!-- score: 3 -->
+
+En 2006, quel écrivain français publie le recueil de nouvelles "[[Odette Toulemonde]]" et "Autres histoires" après "[[Oscar et la Dame Rose]]" dans le Cycle de l'invisible en 2002 ?
 
 ###### Description
 
