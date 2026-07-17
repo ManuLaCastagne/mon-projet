@@ -22,11 +22,12 @@ questions:
  - De 2009 à 2015, quelle journaliste d'origine antillaise, prénommée Christine, fait partie du CSA, Conseil supérieur de l'audiovisuel?
 ---
 
+
 ![Image de Christine Kelly](https://upload.wikimedia.org/wikipedia/commons/1/12/Christine_Kelly_en_2005_-_cropped.JPG)
 
 ###### Questions
 
-Quel membre du [[Conseil Supérieur de l'Audiovisuel]] a rejoint l'équipe de l'émission [[Touche pas à mon poste !]] en [[2014]] ? 
+Quel membre du [[Conseil Supérieur de l'Audiovisuel]] a rejoint l'équipe de l'émission [[Touche pas à mon poste !]] en [[2014]] ? <!-- score: 5 -->
 
 Qui a été la première femme à présenter l'émission [[La Grande Librairie]] sur [[France 5]] en [[2023]] ? 
 
