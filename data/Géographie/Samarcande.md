@@ -29,10 +29,6 @@ indice_6 :
 
 Quelle ville d'[[Ouzbékistan]], située sur la [[Route de la soie]], est connue pour son centre historique et ses monuments tels que le [[Registan]] ?
 
-Quelle ville, capitale de sa région en [[Ouzbékistan]], se trouve dans le bassin de la rivière [[Zarafchan]] et a joué un rôle central dans l'histoire de [[l'Asie centrale]] ?
-
-Quelle ville, célèbre pour ses influences culturelles et économiques, est située sur une plaine alluviale entourée de steppes en [[Asie centrale]] ?
-
 ###### Description
 
 [[Samarcande]] est une ville historique située en [[Ouzbékistan]], fondée au VIIe siècle av. J.-C.  

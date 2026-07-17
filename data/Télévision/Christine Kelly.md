@@ -1,25 +1,23 @@
 ---
-tags: 
+tags:
   - Télévision
   - Guadeloupe
   - Années_2010
   - XXIe
 debut: 1970
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - CNews
-indice_2 : 
+indice_2:
   - Balance ton post
-indice_3 : 
+indice_3:
   - journaliste
-indice_4 : 
+indice_4:
   - chroniqueuse
-indice_5 : 
+indice_5:
   - ancienne membre du CSA
-indice_6 : 
+indice_6:
   - auteur
-questions:
- - De 2009 à 2015, quelle journaliste d'origine antillaise, prénommée Christine, fait partie du CSA, Conseil supérieur de l'audiovisuel?
 ---
 
 
