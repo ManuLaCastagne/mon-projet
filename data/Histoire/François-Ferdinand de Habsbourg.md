@@ -24,9 +24,13 @@ indice_6 :
 
 ###### Questions
 
-Quel héritier présomptif de l'[[empereur François-Joseph]] a été assassiné lors d'une visite officielle à [[Sarajevo]] le 28 juin 1914, événement déclencheur de la [[Première Guerre mondiale]] ?  
-Quel archiduc, né à [[Graz]] en 1863, était marié morganatiquement avec [[Sophie Chotek]] et fut victime d'un attentat en [[Bosnie-Herzégovine]] ?  
+Quel héritier présomptif de l'[[empereur François-Joseph]] a été assassiné lors d'une visite officielle à [[Sarajevo]] le 28 juin 1914, événement déclencheur de la [[Première Guerre mondiale]] ?
+
+Quel archiduc, né à [[Graz]] en 1863, était marié morganatiquement avec [[Sophie Chotek]] et fut victime d'un attentat en [[Bosnie-Herzégovine]] ?
+
 Quel chef militaire influent au sein de l'[[Empire austro-hongrois]] avait des idées de réorganiser la monarchie en trois composantes pour calmer les tensions nationalistes avant son assassinat en 1914 ?
+
+Quel souverain a donné son nom au groupe [[Franz Ferdinand]] ?
 
 ###### Description
 
