@@ -22,13 +22,14 @@ questions:
  - En 1997, dans quel club, avec lequel il avait été champion d'Argentine...
 ---
 
+
 ![Image de Boca Juniors](https://upload.wikimedia.org/wikipedia/commons/1/19/ESCUDO_BOCA_JUNIORS_1.jpg)
 
 ###### Questions
 
 Quel club argentin a remporté la [[Copa Libertadores]] pour la sixième fois en [[2007]]?
 
-Dans quel club [[Diego Maradona]] a-t-il joué avant de rejoindre le [[FC Barcelone]] en [[1981]]?
+Dans quel club [[Diego Maradona]] a-t-il joué avant de rejoindre le [[FC Barcelone]] en [[1981]]? <!-- score: 5 -->
 
 Quel club rallie traditionnellement contre le [[River Plate]] lors du célèbre derby argentin du [[Superclásico]]?
 
