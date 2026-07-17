@@ -25,13 +25,14 @@ questions:
  - En 1980, dans quelle ville de Pologne les ouvriers du chantier naval élisent-ils Lech Walesa président du Comité de grève ?
 ---
 
+
 ![[Carte_Gdansk.png]]
 
 ###### Questions
 
 Dans quelle ville polonaise, autrefois appelée [[Dantzig]], se trouve l'une des grues médiévales les plus anciennes d'Europe, construite en [[1444]] ?
 
-Dans quelle ville, qui a été l'un des principaux centres de la [[Ligue hanséatique]], a débuté le [[1er septembre 1939]] la [[Seconde Guerre mondiale]] avec l'attaque de la presqu'île de [[Westerplatte]] ?
+Dans quelle ville, qui a été l'un des principaux centres de la [[Ligue hanséatique]], a débuté le [[1er septembre 1939]] la [[Seconde Guerre mondiale]] avec l'attaque de la presqu'île de [[Westerplatte]] ? <!-- score: 3 -->
 
 Quelle ville a vu la naissance du compositeur célèbre [[Fryderyk Chopin]] en [[1810]], même si elle est souvent associée à une autre capitale européenne ?
 
