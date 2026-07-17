@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Botanique/Thuya.md",
+                "file": "Botanique/Ébène.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Thuya"
+              "title": "Graphique de Ébène"
             }
           },
           {
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botanique/Thuya.md",
+                "file": "Botanique/Ébène.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thuya"
+              "title": "Ébène"
             }
           }
         ],
@@ -348,6 +348,7 @@
   },
   "active": "81e3659bd24ce530",
   "lastOpenFiles": [
+    "Botanique/Thuya.md",
     "Vocabulaire/Wagage.md",
     "Vocabulaire/Ombudsman.md",
     "Vocabulaire/Médersa.md",
@@ -374,7 +375,6 @@
     "Art/Phoebe Anna Traquair.md",
     "Vocabulaire/Parador.md",
     "Vocabulaire/Filioque.md",
-    "Géographie/Ben Nevis.md",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260131112159.png",
     "attachments/Pasted image 20260131105947.png",
