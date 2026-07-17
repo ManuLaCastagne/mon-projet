@@ -22,6 +22,7 @@ questions:
  - Sportif de haut niveau également employé de La Poste, je suis l'actuel détenteur du record du monde du 50 km marche.
 ---
 
+
 ![Image de Yohann Diniz](https://upload.wikimedia.org/wikipedia/commons/7/7a/Yohann_Diniz_Zurich_2014_%28cropped%29.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel athlète français a établi le record du monde du 50 km marche aux Champio
 
 Qui est devenu champion d'Europe du 50 km marche à trois reprises, notamment en [[2006]], [[2010]] et [[2014]] ?
 
-Quel athlète a subi des défaillances physiques lors de l'épreuve du 50 km marche aux [[Jeux olympiques de Rio]] en [[2016]], mais a tout de même fini la course ?
+Quel athlète a subi des défaillances physiques lors de l'épreuve du 50 km marche aux [[Jeux olympiques de Rio]] en [[2016]], mais a tout de même fini la course ? <!-- score: 5 -->
 
 ###### Description
 
