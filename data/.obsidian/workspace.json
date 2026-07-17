@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "121adab4fc57a041",
-        "type": "tabs",
-        "dimension": 51.865008880994665,
-        "children": [
-          {
-            "id": "d8df93b09389ce7e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notes de version 1.12.7"
-            },
-            "group": "03c186f4a2dac683"
-          }
-        ]
-      },
-      {
         "id": "f9d62fbde3db0998",
         "type": "tabs",
-        "dimension": 48.13499111900533,
         "children": [
           {
             "id": "3b18be18a8a65fd7",
@@ -189,8 +168,7 @@
               },
               "icon": "lucide-git-fork",
               "title": "Vue graphique"
-            },
-            "group": "03c186f4a2dac683"
+            }
           }
         ]
       }
@@ -352,7 +330,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "d8df93b09389ce7e",
+  "active": "ab6dbd6c30483175",
   "lastOpenFiles": [
     "Vocabulaire/Wagage.md",
     "Vocabulaire/Ombudsman.md",
