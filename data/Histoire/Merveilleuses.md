@@ -38,6 +38,6 @@ Les [[Merveilleuses]] étaient un groupe de femmes influent au sein du mouvement
 
 Elles étaient célèbres pour leur style vestimentaire provocant et extravagant, souvent inspiré par l'Antiquité romaine et grecque, défiant ainsi les conventions sociales de l'époque révolutionnaire. 
 
-[[Thérésa Tallien]], surnommée "Notre-Dame de Thermidor", était l'une des figures emblématiques des [[Merveilleuses]], et son influence fut si grande qu'elle participa à la chute de [[Robespierre]] en [[1794]]. 
+[[Thérésa Tallien]], surnommée "Notre-Dame de Thermidor", était l'une des figures emblématiques des [[Merveilleuses]], et son influence fut si grande qu'elle participa à la chute de [[Maximilien Robespierre]] en [[1794]]. 
 
 Un fait étonnant est que les [[Merveilleuses]] allaient parfois jusqu'à se promener avec des vêtements transparents dans les rues de Paris pour choquer la société bien-pensante de l'époque, une audace qui, selon certaines sources, aurait même contribué à établir le concept de haute couture.

@@ -24,7 +24,7 @@ indice_6 :
 
 ###### Questions
 
-Quel groupe de [[Glasgow]], formé en [[1977]], a connu un succès mondial avec le titre associé au film [[The Breakfast Club]] avec [[Don't You (Forget About Me)]] avec notam?
+Quel groupe de [[Glasgow]], formé en [[1977]], a connu un succès mondial avec le titre associé au film [[The Breakfast Club]] avec [[Don't You (Forget About Me)]] avec notamment [[Jim Kerr]] et [[Charlie Burchill]] ?
 
 Quel ensemble musical, évoluant du [[post-punk]] vers le [[stadium rock]] dans les années 80, est connu pour l’album [[Once Upon a Time]] ?
 

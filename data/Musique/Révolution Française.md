@@ -32,7 +32,7 @@ Quel événement historique a inspiré l'opéra "[[Les deux journées]]" compos�
 
 Quel événement du XVIIIe siècle a influencé la création de l'hymne "[[La Marseillaise]]" par [[Claude Joseph Rouget de Lisle]] en 1792 ?
 
-Quelle période historique a donné naissance à la célèbre musique du film "[[Danton]]" composée par [[Jean Prodromidès]] en 1983 ?
+Quelle période historique a donné naissance à la célèbre musique du film "[[Georges Danton]]" composée par [[Jean Prodromidès]] en 1983 ?
 
 ###### Description
 

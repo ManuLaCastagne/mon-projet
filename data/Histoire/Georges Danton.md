@@ -28,8 +28,6 @@ En 1792, lors d'un discours prononcé à la législative, quel révolutionnaire 
 
 Quel orateur de la Révolution française, né en [[1759]], a joué un rôle-clé en tant que membre du [[Comité de salut public]] avant d'être exécuté en [[1794]] ?  
 
-Quel avocat et homme politique français est connu pour avoir prononcé la célèbre phrase "De l'audace, encore de l'audace, toujours de l'audace" lors de la [[Révolution française]] ?  
-
 Quel révolutionnaire, ayant étudié au [[Collège des Quatre-Nations]], fut une figure centrale dans la chute de la [[monarchie française]] avant d'être guillotiné le 5 avril [[1794]] ?
 
 ###### Description

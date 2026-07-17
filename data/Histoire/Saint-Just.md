@@ -42,4 +42,4 @@ Qui est surnommé "l'Archange de la [[Révolution]]" et fut élu député à la 
 
 Fait étonnant, [[Saint-Just]] détient le record d'être le plus jeune élu à la [[Convention nationale]], ce qui témoigne de son influence précoce dans la politique révolutionnaire. 
 
-Malheureusement, son ascension fulgurante prit fin en [[1794]] lorsqu'il fut guillotiné pendant la chute de [[Robespierre]].
+Malheureusement, son ascension fulgurante prit fin en [[1794]] lorsqu'il fut guillotiné pendant la chute de [[Maximilien Robespierre]].

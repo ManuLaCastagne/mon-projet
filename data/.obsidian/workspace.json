@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Musique/Simple Minds.md",
+                "file": "Histoire/Club des Girondins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,16 +159,16 @@
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.189236111111111,
+                  "centerStrength": 0,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 1.1822150223043477,
+                  "scale": 1.9554473432187363,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Simple Minds"
+              "title": "Graphique de Club des Girondins"
             }
           },
           {
@@ -186,21 +186,35 @@
             }
           },
           {
-            "id": "d168a03b17ffd6eb",
+            "id": "9ce48c84f9484570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musique/Simple Minds.md",
+                "file": "Histoire/Georges Danton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Minds"
+              "title": "Georges Danton"
+            }
+          },
+          {
+            "id": "7104e2874d2dd53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoire/Club des Girondins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Club des Girondins"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -360,19 +374,26 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "d168a03b17ffd6eb",
+  "active": "7104e2874d2dd53c",
   "lastOpenFiles": [
-    "Cinéma/Des Hommes et des dieux.md",
+    "Histoire/Georges Danton.md",
+    "Histoire/Société des Amis des droits de l'homme et du citoyen.md",
+    "Histoire/Club des Montagnards.md",
+    "Histoire/Club des Girondins.md",
+    "Histoire/Maximilien Robespierre.md",
+    "Cinéma/Deborah Kerr.md",
+    "Histoire/Club des Cordeliers.md",
+    "Histoire/Marat.md",
+    "Géographie/Écosse.md",
     "Musique/Simple Minds.md",
+    "Cinéma/Des Hommes et des dieux.md",
     "Histoire/Judith de Bavière.md",
     "Religion/Pie VII.md",
     "Mythologie/Licorne.md",
     "Sport/Oscar De La Hoya.md",
-    "Cinéma/Deborah Kerr.md",
     "Culture générale/Simple minds.md",
     "Cinéma/Le Roi et Moi.md",
     "Culture générale/Jim Kerr.md",
-    "Géographie/Écosse.md",
     "Sport/Eric Tabarly.md",
     "Vocabulaire/syzygie.md",
     "Culture générale/Pen Duick.md",
@@ -381,13 +402,6 @@
     "Géographie/Birmanie.md",
     "Géographie/Saint-Flour.md",
     "Géographie/États-Unis.md",
-    "Littérature/Henry de Monfreid.md",
-    "Géographie/Mer Rouge.md",
-    "Musique/Franz Ferdinand.md",
-    "Sport/Yohann Diniz.md",
-    "Histoire/François-Ferdinand de Habsbourg.md",
-    "Géographie/Sarajevo.md",
-    "Littérature/Eric-Emmanuel Schmitt.md",
     "attachments/Pasted image 20260411115209.png",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260131112159.png",

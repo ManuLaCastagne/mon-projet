@@ -26,9 +26,9 @@ indice_6 :
 
 Quel journal révolutionnaire fondé par [[Camille Desmoulins]] en 1793 a été utilisé pour critiquer les excès de la [[Terreur]] ?
 
-Quel périodique a plaidé pour l'instauration d'une clémence durant la [[Révolution française]], contribuant à la rupture entre [[Desmoulins]] et son ancien ami [[Robespierre]] ?
+Quel périodique a plaidé pour l'instauration d'une clémence durant la [[Révolution française]], contribuant à la rupture entre [[Desmoulins]] et son ancien ami [[Maximilien Robespierre]] ?
 
-Quel titre de publication a été repris par les partisans de [[Danton]] pour prôner le retour à des valeurs plus modérées en 1793-1794 ?
+Quel titre de publication a été repris par les partisans de [[Georges Danton]] pour prôner le retour à des valeurs plus modérées en 1793-1794 ?
 
 ###### Description
 

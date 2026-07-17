@@ -32,7 +32,7 @@ En 1980, dans le film "[[Le Chef d'orchestre]]", quel cinéaste polonais met en 
 
 Quel cinéaste polonais, dont le film [[Człowiek z marmuru]] a remporté le [[Prix FIPRESCI]] au Festival de Cannes en 1978, est connu pour avoir influencé le cinéma socialiste en [[Pologne]] ?
 
-Quel réalisateur est devenu le premier Polonais à recevoir un [[Oscar d'honneur]] pour l'ensemble de sa carrière cinématographique en 2000, qui inclut des films tels que [[Katyń]] et [[Danton]] ?
+Quel réalisateur est devenu le premier Polonais à recevoir un [[Oscar d'honneur]] pour l'ensemble de sa carrière cinématographique en 2000, qui inclut des films tels que [[Katyń]] et [[Georges Danton]] ?
 
 Quel metteur en scène a fondé l'une des institutions cinématographiques les plus influentes en [[Europe]], l'[[École de cinéma de Lodz]], où ont été formés bon nombre de réalisateurs polonais célèbres ?
 

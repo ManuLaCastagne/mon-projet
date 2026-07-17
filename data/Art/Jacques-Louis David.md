@@ -31,7 +31,7 @@ questions:
 
 Quel peintre néo-classique français a utilisé le procédé de la propagande artistique pour glorifier [[Napoléon Bonaparte]] à travers son œuvre "Le Sacre de Napoléon" commandée en 1804 ?
 
-Quel artiste a été emprisonné pour avoir soutenu [[Robespierre]] pendant la [[Révolution française]] et a peint "La Mort de Marat" en 1793 ?
+Quel artiste a été emprisonné pour avoir soutenu [[Maximilien Robespierre]] pendant la [[Révolution française]] et a peint "La Mort de Marat" en 1793 ?
 
 Quel peintre a été élu membre de l'[[Académie des Beaux-Arts]] en 1796, après avoir été exclu auparavant pour ses opinions politiques controversées ?
 
@@ -41,6 +41,6 @@ Quel peintre a été élu membre de l'[[Académie des Beaux-Arts]] en 1796, apr�
 
 Il devint le peintre préféré de [[Napoléon Bonaparte]], réalisant de nombreuses toiles historiques à sa gloire, comme le célèbre "[[Le Sacre de Napoléon]]" en 1807. 
 
-Fait surprenant, Jacques-Louis David a été emprisonné à la prison du Luxembourg après la chute de [[Robespierre]], bien qu'il ait été un fervent soutien de la Révolution française. 
+Fait surprenant, Jacques-Louis David a été emprisonné à la prison du Luxembourg après la chute de [[Maximilien Robespierre]], bien qu'il ait été un fervent soutien de la Révolution française. 
 
 En 1815, après la défaite de [[Napoléon]] à Waterloo, David s'exile volontairement à Bruxelles où il continue à peindre jusqu'à sa mort, laissant une empreinte durable sur l'art de son époque.
