@@ -23,13 +23,14 @@ questions:
   - Dans quelle chanson de 1956, écrite par Boris Vian et composée...
 ---
 
+
 ![Image de Fais-moi mal Johnny](https://upload.wikimedia.org/wikipedia/commons/1/1e/L%27auberge_du_num%C3%A9ro_trois_%28microforme%29_-_farce_en_un_acte_-_quatre_personnages_%28IA_cihm_04923%29.pdf)
 
 ###### Questions
 
 Quel est le titre de la chanson enregistrée en 1956 par [[Magali Noël]], qui est considérée comme l'un des premiers exemples de rock 'n' roll en France ?
 
-Quel est le morceau interdit par la [[Radiodiffusion française]] en raison de ses paroles jugées suggestives, chanté par [[Magali Noël]] ?
+Quel est le morceau interdit par la [[Radiodiffusion française]] en raison de ses paroles jugées suggestives, chanté par [[Magali Noël]] ? <!-- score: 5 -->
 
 Quelle chanson de [[Magali Noël]] a été écrite par [[Boris Vian]] en 1956 et a suscité la polémique à sa sortie ?
 
