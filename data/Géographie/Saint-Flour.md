@@ -4,22 +4,21 @@ latitude: 45.7084425
 longitude: 3.5026164
 superficie: 27.14
 location: 45.7084425,3.5026164
-tags: 
+tags:
   - Auvergne-Rhône-Alpes
   - France
   - Cantal
-  - GPS_mano
-indice_1 : 
+indice_1:
   - Cathédrale Saint-Pierre de Saint-Flour
-indice_2 : 
+indice_2:
   - Années_1500
-indice_3 : 
+indice_3:
   - XVe
-indice_4 : 
+indice_4:
   - Ville médiévale
-indice_5 : 
+indice_5:
   - Fête du Saint-Flour
-indice_6 : 
+indice_6:
   - Région d'Auvergne
 ---
 
