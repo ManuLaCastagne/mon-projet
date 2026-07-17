@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Botanique/Ébène.md",
+                "file": "Vocabulaire/Hattéria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Ébène"
+              "title": "Graphique de Hattéria"
             }
           },
           {
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botanique/Ébène.md",
+                "file": "Vocabulaire/Hattéria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ébène"
+              "title": "Hattéria"
             }
           }
         ],
@@ -348,6 +348,7 @@
   },
   "active": "81e3659bd24ce530",
   "lastOpenFiles": [
+    "Botanique/Ébène.md",
     "Botanique/Thuya.md",
     "Vocabulaire/Wagage.md",
     "Vocabulaire/Ombudsman.md",
@@ -374,7 +375,6 @@
     "Animaux/Singe.md",
     "Art/Phoebe Anna Traquair.md",
     "Vocabulaire/Parador.md",
-    "Vocabulaire/Filioque.md",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260131112159.png",
     "attachments/Pasted image 20260131105947.png",
