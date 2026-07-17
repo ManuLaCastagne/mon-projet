@@ -20,11 +20,12 @@ indice_6 :
   - Mick Fleetwood
 ---
 
+
 ![Image de Fleetwood Mac](https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg)
 
 ###### Questions
 
-Quel groupe a été formé à Londres en [[1967]] par [[Peter Green]], [[Mick Fleetwood]], et [[John McVie]] et est devenu célèbre pour son album "[[Rumours]]" sorti en [[1977]] ?
+Quel groupe a été formé à Londres en [[1967]] par [[Peter Green]], [[Mick Fleetwood]], et [[John McVie]] et est devenu célèbre pour son album "[[Rumours]]" sorti en [[1977]] ? <!-- score: 5 -->
 
 Quel groupe a rejoint le [[Rock and Roll Hall of Fame]] en [[1998]] après avoir connu un succès international avec des hits tels que "[[Go Your Own Way]]" et "[[The Chain]]" ?
 
