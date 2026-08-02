@@ -21,11 +21,12 @@ indice_6 :
   - engagée dans des causes humanitaires
 ---
 
+
 ![Image de Meghan Markle](https://upload.wikimedia.org/wikipedia/commons/f/ff/Meghan_Markle_visits_Northern_Ireland_-_2018_%2841014635181%29.jpg)
 
 ###### Questions
 
-Quelle actrice américaine a épousé le [[prince Harry]] du Royaume-Uni le 19 mai 2018 ? 
+Quelle actrice américaine a épousé le [[prince Harry]] du Royaume-Uni le 19 mai 2018 ? <!-- score: 4 -->
 
 Qui a fait une apparition en tant qu'invitée dans la série télévisée [[Suits]], jouant le rôle de [[Rachel Zane]] avant de devenir duchesse de [[Sussex]] ?
 
