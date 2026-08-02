@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Catherine Ringer](https://upload.wikimedia.org/wikipedia/commons/f/fc/Les_Rita_Mitsouko_f7122439.jpg)
 
 ###### Questions
 
 Quel membre du groupe [[Les Rita Mitsouko]], avec [[Fred Chichin]], a aussi exploré le monde de l’art dramatique et du cinéma dans les années 1980 et 1990 ? <!-- score: 4 -->
 
-Quelle chanteuse, ayant débuté dans le milieu artistique avec le théâtre d’avant-garde, a interprété le rôle principal dans l’opéra rock [[Rita Mitsouko and Catherine Ringer sings Les Rita Mitsouko]] en 2008 ?
+Quelle chanteuse, ayant débuté dans le milieu artistique avec le théâtre d’avant-garde, a interprété le rôle principal dans l’opéra rock [[Rita Mitsouko and Catherine Ringer sings Les Rita Mitsouko]] en 2008 ? <!-- score: 10 -->
 
 Quelle artiste, née en 1957, a contribué à fusionner le rock, la chanson française et la scène alternative à travers ses performances avec [[Les Rita Mitsouko]] à partir de 1980 ?
 
