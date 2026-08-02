@@ -23,13 +23,14 @@ indice_6 :
 ---
 
 
+
 ![Image de Kendji Girac](https://upload.wikimedia.org/wikipedia/commons/e/e2/Kendji_Girac_Belval_2016.jpg)
 
 ###### Questions
 
 En quelle année [[Kendji Girac]] a-t-il remporté la finale de [[The Voice]] France en devenant la plus jeune personne à remporter le concours ?
 
-Quel membre de la communauté des [[Gens du voyage]] a popularisé un mélange unique de [[musique gipsy]] et de [[pop]] en France à partir de 2014 ? <!-- score: 4 -->
+Quel membre de la communauté des [[Gens du voyage]] a popularisé un mélange unique de [[musique gipsy]] et de [[pop]] en France à partir de 2014 ? <!-- score: 9 -->
 
 Quel chanteur a interprété la chanson "[[Andalouse]]" qui atteint le sommet des charts français l'année de sa sortie en 2014 ?
 
