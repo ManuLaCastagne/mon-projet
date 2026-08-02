@@ -26,13 +26,14 @@ questions:
 ---
 
 
+
 ![Image de Seine musicale](https://upload.wikimedia.org/wikipedia/commons/8/88/La_Seine_musicale%2C_staircase.jpg)
 
 ###### Questions
 
 Quel bâtiment culturel, inauguré en 2017, est construit sur l'[[Île Seguin]] à [[Boulogne-Billancourt]] ? <!-- score: 4 -->
 
-Quelle salle de spectacle innovante, qui abrite une grande coque acoustique en bois, a été conçue par les architectes [[Shigeru Ban]] et [[Jean de Gastines]] ?
+Quelle salle de spectacle innovante, qui abrite une grande coque acoustique en bois, a été conçue par les architectes [[Shigeru Ban]] et [[Jean de Gastines]] ? <!-- score: 4 -->
 
 Quel complexe architectural moderne, dédié à la musique et aux arts du spectacle, a remplacé les anciennes usines [[Renault]] sur une île de la [[Seine]] ?
 
