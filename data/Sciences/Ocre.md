@@ -22,6 +22,7 @@ questions:
  - Employée depuis l'époque préhistorique comme pigment pour les peintures rupestres, je suis toujours utilisée pour réaliser des enduits de façade résistants dont la teinte chaude donne aux murs un caractère...
 ---
 
+
 ![Image de Ocre](https://upload.wikimedia.org/wikipedia/commons/5/5a/San_Martino_%28Ocre%29.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel est le nom du pigment naturel utilisé dès le [[Paléolithique]], apparten
 
 Quel est le terme utilisé pour décrire la couleur de l'atmosphère lors d'une tempête de poussière sur la planète [[Mars]], observé par les sondes de la mission [[Viking]] en [[1976]] ?
 
-Comment appelle-t-on le colorant à base d'argile riche en [[fer]] souvent utilisé comme pigment dans la production de céramiques depuis l'[[Antiquité]], célèbre pour sa teinte jaune-brunâtre ?
+Comment appelle-t-on le colorant à base d'argile riche en [[fer]] souvent utilisé comme pigment dans la production de céramiques depuis l'[[Antiquité]], célèbre pour sa teinte jaune-brunâtre ? <!-- score: 4 -->
 
 ###### Description
 
