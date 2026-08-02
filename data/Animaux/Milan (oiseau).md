@@ -18,11 +18,12 @@ questions:
  - Quel rapace diurne à la queue longue et fourchue, pouvant être royal ou noir, appelait-t-on "escoufle" en ancien français ?
 ---
 
+
 ![Image de Milan (oiseau)](https://upload.wikimedia.org/wikipedia/commons/2/28/Black_Kite_Left_IITMandi_Salgi_Mar20_D72_14357.jpg)
 
 ###### Questions
 
-Quel oiseau de la famille des [[Accipitridés]] est connu pour ses capacités exceptionnelles de vol plané, souvent vu survolant les grandes villes européennes, et peut vivre jusqu'à environ 20 ans ? 
+Quel oiseau de la famille des [[Accipitridés]] est connu pour ses capacités exceptionnelles de vol plané, souvent vu survolant les grandes villes européennes, et peut vivre jusqu'à environ 20 ans ? <!-- score: 4 -->
 
 Quel rapace diurne, souvent représenté dans l'art et la mythologie de [[l'Ancienne Égypte]], est réputé pour son habileté à chasser en vol grâce à sa vision perçante ?
 
