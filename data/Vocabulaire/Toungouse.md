@@ -18,11 +18,12 @@ questions:
  - Quel groupe de langues de la famille altaïque, comptant notamment le manchou, est parlé par des peuples ayant occupé la Sibérie orientale?
 ---
 
+
 ![Image de Toungouse](https://upload.wikimedia.org/wikipedia/commons/3/3a/Manchu_people_%28No.3036%29.jpg)
 
 ###### Questions
 
-Quel événement cataclysmique en [[Sibérie]] en [[1908]] est associé à une explosion aérienne au-dessus de la [[forêt]] sans cratère visible ?
+Quel événement cataclysmique en [[Sibérie]] en [[1908]] est associé à une explosion aérienne au-dessus de la [[forêt]] sans cratère visible ? <!-- score: 4 -->
 
 Quel terme désigne à la fois une hypothèse sur un phénomène naturel mystérieux et la région en [[Russie]] où cet événement s'est produit ?
 
