@@ -24,13 +24,14 @@ questions:
  - En 1995, quel écrivain anglais raconte, sous la forme d'une chronique humoristique, la vie d'un jeune disquaire londonien dans le roman "Haute Fidélité"?
 ---
 
+
 ![Image de Nick Hornby](https://upload.wikimedia.org/wikipedia/commons/a/a2/Nick_Hornby_01_%28cropped%29.jpg)
 
 ###### Questions
 
 Quel auteur britannique, connu pour ses romans à succès, a écrit le livre [[High Fidelity]], adapté en film en 2000 ?
 
-Quel écrivain a publié le roman [[About a Boy]] en 1998, qui a ensuite été adapté en film avec [[Hugh Grant]] ?
+Quel écrivain a publié le roman [[About a Boy]] en 1998, qui a ensuite été adapté en film avec [[Hugh Grant]] ? <!-- score: 4 -->
 
 Quel auteur a cofondé l'association [[Ministry of Stories]] en 2010, dédiée à l'écriture créative pour les jeunes, dans l'est de [[Londres]] ?
 
