@@ -21,13 +21,14 @@ indice_6 :
   - scandale
 ---
 
+
 ![Image de Carla Moreau](https://upload.wikimedia.org/wikipedia/commons/c/c0/Vita_d%27arte_-_rivista_mensile_illustrata_d%27arte_antica_e_moderna_%28IA_vitadarterivista04unse%29.pdf)
 
 ###### Questions
 
 Dans quelle émission de télé-réalité [[Les Marseillais]] diffusée à partir de 2016 Carla Moreau a-t-elle gagné en popularité ?  
 
-Lors de quel événement en 2021 Carla Moreau a-t-elle été au centre d'une controverse liée à une prétendue affaire de sorcellerie ?  
+Lors de quel événement en 2021 Carla Moreau a-t-elle été au centre d'une controverse liée à une prétendue affaire de sorcellerie ? <!-- score: 10 -->
 
 Dans quel programme de [[W9]] Carla Moreau a-t-elle rencontré [[Kevin Guedj]], avec qui elle a eu un enfant en 2019 ?
 
