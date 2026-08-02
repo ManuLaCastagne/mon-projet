@@ -24,11 +24,12 @@ questions:
  - Nommé en 1955 chef à vie de la Philharmonie de Berlin, je suis…
 ---
 
+
 ![Image de Herbert von Karajan](https://upload.wikimedia.org/wikipedia/commons/4/40/Bundesarchiv_Bild_183-S47421%2C_Herbert_von_Karajan.jpg)
 
 ###### Questions
 
-En quelle année le chef d'orchestre [[Herbert von Karajan]] a-t-il rejoint le [[Parti nazi]] avec succès ? 
+En quelle année le chef d'orchestre [[Herbert von Karajan]] a-t-il rejoint le [[Parti nazi]] avec succès ? <!-- score: 10 -->
 
 Quel célèbre chef d'orchestre autrichien, né en 1908, a dirigé l'[[Orchestre philharmonique de Berlin]] pendant 35 ans de 1955 à 1989 ? 
 
