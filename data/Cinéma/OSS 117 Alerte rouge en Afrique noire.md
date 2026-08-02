@@ -20,11 +20,12 @@ indice_6:
   - Le Caire
 ---
 
+
 ![Image de OSS 117 Alerte rouge en Afrique noire]()
 
 ###### Questions
 
-Quel film de [[2021]] fait suite aux événements de la comédie d'espionnage [[OSS 117 : Rio ne répond plus]] sortie en [[2009]] ?  
+Quel film de [[2021]] fait suite aux événements de la comédie d'espionnage [[OSS 117 : Rio ne répond plus]] sortie en [[2009]] ? <!-- score: 4 -->
 
 Quel long métrage voit [[Jean Dujardin]] reprendre le rôle de l'agent secret [[Hubert Bonisseur de La Bath]] après douze ans d'absence à l'écran ?  
 
