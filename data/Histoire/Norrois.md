@@ -22,13 +22,14 @@ questions:
  - Terme issu de l'ancien anglais signifiant "nord" qui désigne la langue germanique des anciens peuples de Scandinavie.
 ---
 
+
 ![Image de Norrois](https://upload.wikimedia.org/wikipedia/commons/3/3a/%C3%89glise_de_Norrois_1.JPG)
 
 ###### Questions
 
 Quel était le groupe linguistique utilisé par les [[Vikings]] islandais dans les [[sagas]] du XIIe siècle ?  
 
-Quelle langue était parlée par les colons nordiques établis au [[Groenland]] lors de sa découverte en [[986]] ?  
+Quelle langue était parlée par les colons nordiques établis au [[Groenland]] lors de sa découverte en [[986]] ? <!-- score: 4 -->
 
 Quel est le nom de la langue ancestrale dont dérive le [[férosien]], parlé aux [[Îles Féroé]] ?
 
