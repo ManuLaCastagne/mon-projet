@@ -21,6 +21,7 @@ indice_6:
   - Films d'action
 ---
 
+
 ![Image de Le Chiffre](https://upload.wikimedia.org/wikipedia/commons/9/9b/Le_Chiffre_d%27Amour_MET_MM10595.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel est le surnom de l'antagoniste principal dans le film [[Casino Royale (2006
 
 Quelle est l'identité du personnage, appelé [[Le Chiffre]], qui se trouve être le banquier des terroristes internationaux dans le film de [[James Bond]] de 2006 ?
 
-Quel est le nom du personnage qui affronte [[James Bond]] dans une partie de poker au [[Casino Royale]], dans l'adaptation cinématographique de 2006 ?
+Quel est le nom du personnage qui affronte [[James Bond]] dans une partie de poker au [[Casino Royale]], dans l'adaptation cinématographique de 2006 ? <!-- score: 4 -->
 
 ###### Description
 
