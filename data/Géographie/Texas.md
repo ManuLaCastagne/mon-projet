@@ -24,13 +24,14 @@ indice_6 :
   - Big Bend National Park
 ---
 
+
 ![[Carte_Texas.png]]
 
 ###### Questions
 
 Dans quel État des [[États-Unis]] a eu lieu la première diffusion mondiale impressionnante de couleurs par télévision en direct en [[1950]] ?
 
-Quel État est surnommé le "[[Lone Star State]]", en référence à sa lutte pour l'indépendance et qui a brièvement été une nation indépendante entre [[1836]] et [[1845]] ?
+Quel État est surnommé le "[[Lone Star State]]", en référence à sa lutte pour l'indépendance et qui a brièvement été une nation indépendante entre [[1836]] et [[1845]] ? <!-- score: 4 -->
 
 Dans quel État se trouve la ville de [[Houston]], célèbre pour abriter le [[Johnson Space Center]] de la [[NASA]], lieu de contrôle des missions spatiales américaines depuis [[1961]] ?
 
