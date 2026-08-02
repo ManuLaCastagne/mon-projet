@@ -20,17 +20,13 @@ indice_6 :
   - Mademoiselle Chambon
 ---
 
-
 ![Image de Déborah François](https://upload.wikimedia.org/wikipedia/commons/6/65/D%C3%A9borah_Fran%C3%A7ois_at_the_2009_Deauville_American_Film_Festival-01.jpg)
 
 ###### Questions
 
-Dans quel film réalisé par les [[Frères Dardenne]], sorti en [[2005]], l'actrice [[Déborah François]] joue-t-elle le rôle principal qui lui vaut le [[Prix Joseph Plateau]] pour la meilleure actrice belge ? <!-- score: 10 -->
-
 Quelle actrice belge, née en [[1987]] à [[Liège]], a remporté le [[César du meilleur espoir féminin]] pour son rôle dans le film [[Le Premier Jour du reste de ta vie]] en [[2009]] ?
 
 Qui interprète le personnage de [[Rose]] dans le film français [[Populaire]] sorti en [[2012]], finaliste du [[Prix Lumières]] de la meilleure actrice cette année-là ?
-
 ###### Description
 
 [[Déborah François]] est une actrice belge née à [[Liège]] en 1987. 
