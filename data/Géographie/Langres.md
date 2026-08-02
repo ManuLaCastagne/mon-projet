@@ -26,6 +26,7 @@ questions:
  - Sur quel plateau situé à 471 m d'altitude...
 ---
 
+
 ![Image de Langres](https://upload.wikimedia.org/wikipedia/commons/c/c2/Cath%C3%A9drale_Saint-Mamm%C3%A8s_%28Langres%29_%283%29.jpg)
 
 ![[Carte_Langres.png]]
@@ -35,7 +36,7 @@ Dans quelle commune française est née l'inventrice du fromage [[Langres]], rec
 
 Quel ancien chef-lieu d'arrondissement, célèbre pour être le berceau du philosophe [[Denis Diderot]], a été intégré à la région [[Grand Est]] lors de la réforme de 2016 ?
 
-Quelle ville connue pour son importante production de coutellerie au XIXe siècle est située sur le plateau de [[Langres]], à une altitude moyenne de 466 mètres ?
+Quelle ville connue pour son importante production de coutellerie au XIXe siècle est située sur le plateau de [[Langres]], à une altitude moyenne de 466 mètres ? <!-- score: 6 -->
 
 ###### Description
 
