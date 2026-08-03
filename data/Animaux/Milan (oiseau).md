@@ -21,13 +21,11 @@ indice_6:
 
 ###### Questions
 
-Quel oiseau de la famille des [[Accipitridés]] est connu pour ses capacités exceptionnelles de vol plané, souvent vu survolant les grandes villes européennes, et peut vivre jusqu'à environ 20 ans ? <!-- score: 4 -->
+Quel oiseau de la famille des [[Accipitridés]] a un nom homonyme d'une ville italienne ? <!-- score: 4 -->
 
 Quel rapace diurne à la queue longue et fourchue, pouvant être royal ou noir, appelait-t-on "escoufle" en ancien français ?
 
 En fauconnerie, quel animal huit (du verbe huir) lorsqu'il pousse son cri ?
-
-Quel oiseau de la famille des accipitridés, dont le nom est également celui d'une célèbre ville italienne, est visible dans des régions telles que la [[Camargue]] en raison de son mode de chasse opportuniste ?
 
 ###### Description
 

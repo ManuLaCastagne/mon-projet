@@ -26,7 +26,9 @@ indice_6 :
 
 Quelle actrice belge, née en [[1987]] à [[Liège]], a remporté le [[César du meilleur espoir féminin]] pour son rôle dans le film [[Le Premier Jour du reste de ta vie]] en [[2009]] ?
 
-Qui interprète le personnage de [[Rose]] dans le film français [[Populaire]] sorti en [[2012]], finaliste du [[Prix Lumières]] de la meilleure actrice cette année-là ?
+Quelle actrice belge a été révélée à seulement 17 ans dans le film [[L’Enfant]] des [[frères Dardenne]], Palme d’or au Festival de Cannes en 2005 ?
+
+Quelle actrice belge francophone, récompensée par le César du meilleur espoir féminin en 2009 pour Le Premier Jour du reste de ta vie, a également tenu le rôle principal dans La Délicatesse aux côtés d’Audrey Tautou ?
 ###### Description
 
 [[Déborah François]] est une actrice belge née à [[Liège]] en 1987. 

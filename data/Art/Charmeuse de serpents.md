@@ -4,6 +4,7 @@ tags:
   - Afrique_du_Nord
   - Années_1920
   - XXe
+  - Certifié
 date:
 debut: 1907
 fin:
@@ -31,8 +32,8 @@ Dans quelle œuvre de [[Henri Rousseau]], réalisée en 1907, observe-t-on un m�
 
 Quel tableau emblématique du [[musée d'Orsay]] représente une scène exotique avec une charmeuse de serpents, peint par [[Henri Rousseau]] ? <!-- score: 6 -->
 
-En quelle année [[Henri Rousseau]] a-t-il achevé l'œuvre intitulée "La Charmeuse de serpents", exposée pour la première fois au [[Salon des Indépendants]] ?
-
 ###### Description
 
-La peinture "[[Charmeuse de serpents]]" est une œuvre célèbre d'[[Henri Rousseau]], réalisée en 1907. Ce tableau imposant, mesurant 169 par 189,5 cm, est exposé dans les collections du musée d'[[Orsay]] à [[Paris]]. Un fait étonnant sur cette œuvre est qu'elle a été commandée par [[Berthe Delaunay]], la mère du célèbre peintre [[Robert Delaunay]], qui avait un profond respect pour le style naïf de Rousseau. Fait intéressant, malgré son style primaire, "Charmeuse de serpents" suscite l'intérêt pour sa représentation exotique et mystérieuse de l'hypnotisation des animaux, symbolisant le courant artistique avant-gardiste à l'aube du XXe siècle.
+La peinture "[[Charmeuse de serpents]]" est une œuvre célèbre d'[[Henri Rousseau]], réalisée en 1907. Ce tableau imposant, mesurant 169 par 189,5 cm, est exposé dans les collections du musée d'[[Orsay]] à [[Paris]]. 
+
+Un fait étonnant sur cette œuvre est qu'elle a été commandée par [[Berthe Delaunay]], la mère du célèbre peintre [[Robert Delaunay]], qui avait un profond respect pour le style naïf de Rousseau. Fait intéressant, malgré son style primaire, "Charmeuse de serpents" suscite l'intérêt pour sa représentation exotique et mystérieuse de l'hypnotisation des animaux, symbolisant le courant artistique avant-gardiste à l'aube du XXe siècle.
