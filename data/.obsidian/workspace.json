@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Ainsi parlait Zarathoustra.md",
+                "file": "Cinéma/9 semaines et demi.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,21 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Ainsi parlait Zarathoustra"
-            }
-          },
-          {
-            "id": "cf00131420d9c429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cinéma/Pixar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pixar"
+              "title": "Graphique de 9 semaines et demi"
             }
           },
           {
@@ -191,16 +177,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Ainsi parlait Zarathoustra.md",
+                "file": "Cinéma/9 semaines et demi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ainsi parlait Zarathoustra"
+              "title": "9 semaines et demi"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -362,11 +348,25 @@
   },
   "active": "5ecac3a7e1f79743",
   "lastOpenFiles": [
-    "Culture générale/éternel retour.md",
+    "Culture générale/Elizabeth McNeill.md",
+    "Cinéma/9 semaines et demi.md",
+    "Culture générale/John Gray.md",
+    "attachments/Pasted image 20260803220309.png",
+    "Musique/You Can Leave Your Hat On.md",
+    "Cinéma/8 femmes.md",
+    "Cinéma/A Star is born.md",
+    "Cinéma/7e Compagnie.md",
+    "attachments/Pasted image 20260803220027.png",
+    "Cinéma/Jean Lefebvre.md",
+    "Cinéma/Pierre Mondy.md",
+    "Cinéma/37,2 le matin.md",
+    "attachments/Pasted image 20260803215609.png",
+    "Cinéma/2001 l'odyssée de l'espace.md",
+    "Culture générale/HAL 9000.md",
     "Littérature/Ainsi parlait Zarathoustra.md",
+    "Culture générale/éternel retour.md",
     "Culture générale/surhomme.md",
     "Culture générale/Dieu est mort.md",
-    "Cinéma/2001 l'odyssée de l'espace.md",
     "Cinéma/Tom Holland.md",
     "Culture générale/The Impossible.md",
     "Cinéma/Pixar.md",
@@ -378,28 +378,14 @@
     "Musique/Art Blakey.md",
     "Animaux/Milan (oiseau).md",
     "Architecture/Seine musicale.md",
-    "Art/Charmeuse de serpents.md",
-    "Cinéma/Déborah François.md",
-    "Cinéma/La Guerre du feu.md",
     "attachments/Pasted image 20260803213438.png",
-    "Littérature/J.-H. Rosny aîné.md",
-    "Cinéma/Ron Perlman.md",
-    "Cinéma/Le Chiffre.md",
     "attachments/Pasted image 20260803213024.png",
-    "Cinéma/Noce blanche.md",
-    "Cinéma/Jean-Claude Brisseau.md",
     "attachments/Pasted image 20260803212812.png",
-    "Cinéma/OSS 117 Alerte rouge en Afrique noire.md",
-    "Littérature/Jean Bruce.md",
-    "Culture générale/OSS 117.md",
     "attachments/Pasted image 20260803212605.png",
     "attachments/Pasted image 20260803212421.png",
     "Culture générale/Sans titre 1.base",
     "Culture générale/Sans titre.base",
     "attachments/Pasted image 20260411115209.png",
-    "attachments/Pasted image 20260227105330.png",
-    "attachments/Pasted image 20260131112159.png",
-    "attachments/Pasted image 20260131105947.png",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
