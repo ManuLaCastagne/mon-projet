@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Côte de Nacre.md",
+                "file": "Cinéma/La Guerre du feu.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,35 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Côte de Nacre"
-            }
-          },
-          {
-            "id": "9ce48c84f9484570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Géographie/Cap Canaveral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cap Canaveral"
-            }
-          },
-          {
-            "id": "572d98390d79b456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culture générale/mandchou.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mandchou"
+              "title": "Graphique de La Guerre du feu"
             }
           },
           {
@@ -205,16 +177,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Côte de Nacre.md",
+                "file": "Cinéma/La Guerre du feu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Côte de Nacre"
+              "title": "La Guerre du feu"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -376,8 +348,22 @@
   },
   "active": "cf00131420d9c429",
   "lastOpenFiles": [
-    "Accroches personnelles/Ouisticram.md",
+    "Cinéma/Ron Perlman.md",
+    "Cinéma/La Guerre du feu.md",
+    "Cinéma/Le Chiffre.md",
+    "attachments/Pasted image 20260803213024.png",
+    "Cinéma/Noce blanche.md",
+    "Cinéma/Jean-Claude Brisseau.md",
+    "attachments/Pasted image 20260803212812.png",
+    "Cinéma/OSS 117 Alerte rouge en Afrique noire.md",
+    "Littérature/Jean Bruce.md",
+    "Culture générale/OSS 117.md",
+    "Culture générale/mandchou.md",
+    "attachments/Pasted image 20260803212605.png",
+    "Gastronomie/Mascotte (gâteau).md",
+    "attachments/Pasted image 20260803212421.png",
     "Géographie/Côte de Nacre.md",
+    "Accroches personnelles/Ouisticram.md",
     "Géographie/Langres.md",
     "Géographie/Haute-Marne.md",
     "Géographie/Texas.md",
@@ -392,16 +378,6 @@
     "Musique/Be-bop-a-lula.md",
     "Culture générale/batteur.md",
     "Musique/Jazz Messengers.md",
-    "Géographie/Salzbourg.md",
-    "Musique/Herbert von Karajan.md",
-    "Musique/Kendji Girac.md",
-    "Géographie/Montignac.md",
-    "Histoire/Lascaux.md",
-    "Sciences/Ocre.md",
-    "Télévision/Danièle Gilbert.md",
-    "Télévision/Carla Moreau.md",
-    "Culture générale/grande bringue.md",
-    "Télévision/Le Grand Journal.md",
     "Culture générale/Sans titre 1.base",
     "Culture générale/Sans titre.base",
     "attachments/Pasted image 20260411115209.png",
@@ -410,10 +386,6 @@
     "attachments/Pasted image 20260131105947.png",
     "attachments/Pasted image 20260113162521.png",
     "attachments/Pasted image 20260113152804.png",
-    "attachments/Pasted image 20260113152243.png",
-    "Pasted image 20260113162521.png",
-    "Pasted image 20260113152804.png",
-    "Pasted image 20260113152243.png",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]

@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Canada
   - Années_1980
@@ -7,22 +7,19 @@ tags:
 date:
   - 1981/12/16
 debut: 1981
-fin: 
-fin: None
-indice_1 : 
+fin:
+indice_1:
   - 1981
-indice_2 : 
+indice_2:
   - Jean-Jacques Annaud
-indice_3 : 
+indice_3:
   - Préhistoire
-indice_4 : 
+indice_4:
   - Ron Perlman
-indice_5 : 
+indice_5:
   - Adaptation du roman de J.-H. Rosny aîné
-indice_6 : 
+indice_6:
   - Sagaie et Feu
-questions:
- - Tiré d'un roman de Rosny aîné me déroulant à l'époque préhistorique, je suis
 ---
 
 
@@ -41,4 +38,6 @@ Dans quel film [[Ron Perlman]] a fait ses débuts au cinéma en jouant le rôle 
 
 ###### Description
 
-[[Cinéma/La Guerre du feu]] est un film d'aventure sorti en 1981, réalisé par [[Jean-Jacques Annaud]]. L'histoire se déroule il y a 80 000 ans et suit trois membres d'une tribu préhistorique en quête du feu après que leur source ait été éteinte. Basé sur le roman de [[J.-H. Rosny aîné]] publié en 1909, le film a remporté l'Oscar du meilleur maquillage en 1983, une catégorie qui venait juste d'être créée l'année précédente. Pour les dialogues préhistoriques, [[Anthony Burgess]], l'auteur de [[L'Orange mécanique]], a créé un langage spécifique, ajoutant une authenticité unique au film.
+[[Cinéma/La Guerre du feu]] est un film d'aventure sorti en 1981, réalisé par [[Jean-Jacques Annaud]]. L'histoire se déroule il y a 80 000 ans et suit trois membres d'une tribu préhistorique en quête du feu après que leur source ait été éteinte. 
+
+Basé sur le roman de [[J.-H. Rosny aîné]] publié en 1909, le film a remporté l'Oscar du meilleur maquillage en 1983, une catégorie qui venait juste d'être créée l'année précédente. Pour les dialogues préhistoriques, [[Anthony Burgess]], l'auteur de [[L'Orange mécanique]], a créé un langage spécifique, ajoutant une authenticité unique au film.
