@@ -6,21 +6,18 @@ superficie: 695662
 location: 31.2638905,-98.5456116
 tags:
   - Géographie
-  - None
   - États-Unis
-  - None
-  - GPS_mano
-indice_1 : 
+indice_1:
   - Houston
-indice_2 : 
+indice_2:
   - Dallas
-indice_3 : 
+indice_3:
   - Alamo
-indice_4 : 
+indice_4:
   - Rio Grande
-indice_5 : 
+indice_5:
   - Austin
-indice_6 : 
+indice_6:
   - Big Bend National Park
 ---
 
@@ -28,8 +25,6 @@ indice_6 :
 ![[Carte_Texas.png]]
 
 ###### Questions
-
-Dans quel État des [[États-Unis]] a eu lieu la première diffusion mondiale impressionnante de couleurs par télévision en direct en [[1950]] ?
 
 Quel État est surnommé le "[[Lone Star State]]", en référence à sa lutte pour l'indépendance et qui a brièvement été une nation indépendante entre [[1836]] et [[1845]] ? <!-- score: 4 -->
 

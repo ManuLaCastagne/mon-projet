@@ -32,11 +32,9 @@ questions:
 ![[Carte_Langres.png]]
 ###### Questions
 
-Dans quelle commune française est née l'inventrice du fromage [[Langres]], reconnu pour son titre d'[[Appellation d'Origine Contrôlée]] (AOC) en 1991 ?
+Quel ancien chef-lieu d'arrondissement, célèbre pour être le berceau du philosophe des Lumières [[Denis Diderot]] en 1713 ?
 
-Quel ancien chef-lieu d'arrondissement, célèbre pour être le berceau du philosophe [[Denis Diderot]], a été intégré à la région [[Grand Est]] lors de la réforme de 2016 ?
-
-Quelle ville connue pour son importante production de coutellerie au XIXe siècle est située sur le plateau de [[Langres]], à une altitude moyenne de 466 mètres ? <!-- score: 6 -->
+Quelle cité, perchée sur un plateau dominant les sources de la Marne, est entourée d’environ 3,5 kilomètres de remparts parmi les mieux conservés de France et fait partie des « 50 plus beaux détours de France » ?
 
 ###### Description
 

@@ -26,7 +26,6 @@ indice_6 :
 questions:
  - Quel nom donne-t-on à la côte de Ouistreham à Courseulles-sur-Mer ?
 
-Ouisticram shiny   nacré
 ---
 
 
@@ -37,11 +36,9 @@ Ouisticram shiny   nacré
 ![[Carte_Côte de Nacre.png]]
 ###### Questions
 
-En quelle région de [[Normandie]] la [[Côte de Nacre]] s'étend-elle le long de la [[Manche]] ?
-
 Quel est le nom de la côte normande qui abrite les célèbres plages du [[Débarquement]], telles que [[Juno Beach]], depuis 1944 ? <!-- score: 3 -->
 
-Comment s'appelle la côte située entre [[Courseulles-sur-Mer]] et [[Ouistreham]], connue pour ses plages historiques et ses paysages préservés ?
+Comment s'appelle la côte située entre [[Courseulles-sur-Mer]] et [[Ouisticram]], connue pour ses plages historiques et ses paysages préservés ?
 
 ###### Description
 

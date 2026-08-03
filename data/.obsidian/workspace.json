@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Musique/Art Blakey.md",
+                "file": "Géographie/Côte de Nacre.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Art Blakey"
+              "title": "Graphique de Côte de Nacre"
             }
           },
           {
@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musique/Art Blakey.md",
+                "file": "Géographie/Côte de Nacre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Art Blakey"
+              "title": "Côte de Nacre"
             }
           }
         ],
@@ -376,8 +376,22 @@
   },
   "active": "cf00131420d9c429",
   "lastOpenFiles": [
-    "Musique/Jazz Messengers.md",
+    "Accroches personnelles/Ouisticram.md",
+    "Géographie/Côte de Nacre.md",
+    "Géographie/Langres.md",
+    "Géographie/Haute-Marne.md",
+    "Géographie/Texas.md",
+    "Géographie/Meurthe-et-Moselle.md",
+    "Histoire/Norrois.md",
+    "Littérature/Nick Hornby.md",
+    "Culture générale/Pierre de Rök.md",
+    "Cinéma/About a Boy.md",
     "Musique/Art Blakey.md",
+    "Musique/hard bop.md",
+    "Musique/be-bop.md",
+    "Musique/Be-bop-a-lula.md",
+    "Culture générale/batteur.md",
+    "Musique/Jazz Messengers.md",
     "Géographie/Salzbourg.md",
     "Musique/Herbert von Karajan.md",
     "Musique/Kendji Girac.md",
@@ -388,20 +402,6 @@
     "Télévision/Carla Moreau.md",
     "Culture générale/grande bringue.md",
     "Télévision/Le Grand Journal.md",
-    "Géographie/Cap Canaveral.md",
-    "Culture générale/mandchou.md",
-    "Vocabulaire/Toungouse.md",
-    "Vocabulaire/chaman.md",
-    "Histoire/Qing.md",
-    "Télévision/Meghan Markle.md",
-    "Sciences/Renault.md",
-    "Anatomie/Neurologue.md",
-    "Musique/Radiohead.md",
-    "Littérature/Nick Hornby.md",
-    "Culture générale/Cap Kennedy.md",
-    "Sciences/Mercure (planète).md",
-    "Géographie/Cape Canaveral.md",
-    "Culture générale/Mariner 10.md",
     "Culture générale/Sans titre 1.base",
     "Culture générale/Sans titre.base",
     "attachments/Pasted image 20260411115209.png",

@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Nick_Hornby
   - Angleterre
@@ -7,21 +7,19 @@ tags:
 date:
   - 1957/04/17
 debut: 1957
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - High Fidelity
-indice_2 : 
+indice_2:
   - About a Boy
-indice_3 : 
+indice_3:
   - Londres
-indice_4 : 
+indice_4:
   - adaptations cinématographiques
-indice_5 : 
+indice_5:
   - critique musicale
-indice_6 : 
+indice_6:
   - style humoristique
-questions:
- - En 1995, quel écrivain anglais raconte, sous la forme d'une chronique humoristique, la vie d'un jeune disquaire londonien dans le roman "Haute Fidélité"?
 ---
 
 
@@ -30,6 +28,8 @@ questions:
 ###### Questions
 
 Quel auteur britannique, connu pour ses romans à succès, a écrit le livre [[High Fidelity]], adapté en film en 2000 ?
+
+En 1995, quel écrivain anglais raconte, sous la forme d'une chronique humoristique, la vie d'un jeune disquaire londonien dans le roman "Haute Fidélité" ?
 
 Quel écrivain a publié le roman [[About a Boy]] en 1998, qui a ensuite été adapté en film avec [[Hugh Grant]] ? <!-- score: 4 -->
 

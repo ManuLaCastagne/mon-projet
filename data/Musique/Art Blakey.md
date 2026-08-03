@@ -26,7 +26,7 @@ indice_6:
 
 ###### Questions
 
-En 1954, quel batteur et animateur du mouvement be-bop fonde la formation des [[Jazz Messengers]] ?
+En 1954, quel [[batteur]] et animateur du mouvement [[be-bop]] et [[hard bop]] fonde la formation des [[Jazz Messengers]] ?
 ###### Description
 
 [[Art Blakey]] est l'un des batteurs les plus influents de l'histoire du jazz, reconnu pour son style puissant et énergique. 

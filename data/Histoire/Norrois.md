@@ -1,30 +1,26 @@
 ---
-tags: 
+tags:
   - Histoire
   - Scandinavie
   - Années_800
   - IXe
-debut: 
-fin: 
-indice_1 : 
-  - Invasions vikings
-indice_2 : 
+  - Certifié
+debut:
+fin:
+indice_1:
+  - Langue morte
+indice_2:
   - Scandinavie médiévale
-indice_3 : 
+indice_3:
   - Normands
-indice_4 : 
+indice_4:
   - Drakkars
-indice_5 : 
+indice_5:
   - Éric le Rouge
-indice_6 : 
+indice_6:
   - Exploration de l'Amérique du Nord
-questions:
- - Terme issu de l'ancien anglais signifiant "nord" qui désigne la langue germanique des anciens peuples de Scandinavie.
 ---
-
-
-![Image de Norrois](https://upload.wikimedia.org/wikipedia/commons/3/3a/%C3%89glise_de_Norrois_1.JPG)
-
+![Image de Pierre de Rök](https://upload.wikimedia.org/wikipedia/commons/d/d6/R%C3%B6kstenen_2.jpg)
 ###### Questions
 
 Quel était le groupe linguistique utilisé par les [[Vikings]] islandais dans les [[sagas]] du XIIe siècle ?  
