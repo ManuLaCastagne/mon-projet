@@ -1,28 +1,24 @@
 ---
-tags: 
+tags:
   - Art
   - Afrique_du_Nord
   - Années_1920
   - XXe
-  - QRDLL
 date:
-  - 1924/02/17
-debut: 1924
-fin: 
-indice_1 : 
+debut: 1907
+fin:
+indice_1:
   - Danse avec reptiles
-indice_2 : 
+indice_2:
   - Flûte envoûtante
-indice_3 : 
+indice_3:
   - Spectacle de rue
-indice_4 : 
+indice_4:
   - Tradition ancestrale
-indice_5 : 
+indice_5:
   - Contrôle du cobra
-indice_6 : 
+indice_6:
   - Art mystique
-questions:
- - Tableau d'inspiration exotique  du Douanier Rousseau.  J'ai deux superchampionnes sur ce plateau.
 ---
 
 

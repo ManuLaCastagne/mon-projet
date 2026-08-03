@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Samarcande.md",
+                "file": "Cinéma/Déborah François.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Samarcande"
+              "title": "Graphique de Déborah François"
             }
           },
           {
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Samarcande.md",
+                "file": "Cinéma/Déborah François.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samarcande"
+              "title": "Déborah François"
             }
           }
         ],
@@ -360,8 +360,12 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "028c50878b1df9c9",
+  "active": "9ce48c84f9484570",
   "lastOpenFiles": [
+    "Art/Charmeuse de serpents.md",
+    "Architecture/Seine musicale.md",
+    "Animaux/Milan (oiseau).md",
+    "Géographie/Samarcande.md",
     "Art/Alexander Calder.md",
     "Géographie/Saint-Flour.md",
     "Histoire/Georges Danton.md",
@@ -384,10 +388,6 @@
     "Culture générale/Simple minds.md",
     "Cinéma/Le Roi et Moi.md",
     "Culture générale/Jim Kerr.md",
-    "Sport/Eric Tabarly.md",
-    "Vocabulaire/syzygie.md",
-    "Culture générale/Pen Duick.md",
-    "Géographie/Îles Samoa.md",
     "attachments/Pasted image 20260411115209.png",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260131112159.png",

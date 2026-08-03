@@ -2,27 +2,26 @@
 latitude: 48.8259675
 longitude: 2.2298304
 location: 48.8259675,2.2298304
-tags: 
+tags:
   - Architecture
   - Boulogne-Billancourt
   - Années_2010
   - XXIe
+  - Certifié
 debut: 2017
 fin:
-indice_1 : 
+indice_1:
   - île Seguin
-indice_2 : 
+indice_2:
   - façade en bois
-indice_3 : 
+indice_3:
   - boulon géant
-indice_4 : 
+indice_4:
   - Jean de Gastines
-indice_5 : 
+indice_5:
   - auditorium
-indice_6 : 
+indice_6:
   - Hauts-de-Seine
-questions:
- - Quel nom porte ce complexe architectural en forme de vaisseau, inauguré en 2017 sur l'île Seguin, à Boulogne-Billancourt...
 ---
 
 
@@ -31,11 +30,9 @@ questions:
 
 ###### Questions
 
-Quel bâtiment culturel, inauguré en 2017, est construit sur l'[[Île Seguin]] à [[Boulogne-Billancourt]] ? <!-- score: 4 -->
+Quel bâtiment culturel en forme de vaisseau, inauguré en 2017, est construit sur l'[[Île Seguin]] à [[Boulogne-Billancourt]] ? <!-- score: 4 -->
 
-Quelle salle de spectacle innovante, qui abrite une grande coque acoustique en bois, a été conçue par les architectes [[Shigeru Ban]] et [[Jean de Gastines]] ? <!-- score: 4 -->
-
-Quel complexe architectural moderne, dédié à la musique et aux arts du spectacle, a remplacé les anciennes usines [[Renault]] sur une île de la [[Seine]] ?
+Quelle salle de spectacle innovante, qui abrite une grande coque acoustique en bois en forme d'oeuf, a été conçue par les architectes [[Shigeru Ban]] et [[Jean de Gastines]] ? <!-- score: 4 -->
 
 ###### Description
 
