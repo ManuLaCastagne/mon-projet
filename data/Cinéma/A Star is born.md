@@ -4,10 +4,11 @@ tags:
   - États-Unis
   - Années_2010
   - XXIe
+  - Certifié
 date:
   - 2018/10/03
 debut: 2018
-fin: 
+fin:
 indice_1:
   - Lady Gaga
 indice_2:
@@ -20,8 +21,6 @@ indice_5:
   - Ally
 indice_6:
   - Oscar
-questions:
-  - En 1954, quel film de George Cukor avec Judy Garland raconte la chute d'un acteur de cinéma et l'ascension de la jeune fille dont il est amoureux ?
 ---
 
 ![Image de A Star is born](https://upload.wikimedia.org/wikipedia/commons/6/6a/A_Star_Is_Born_-_Oscars_ceremony.jpg)
@@ -30,11 +29,11 @@ questions:
 
 Quel film réalisé en 2018 par [[Bradley Cooper]] avec [[Lady Gaga]] dans le rôle principal est inspiré d'un classique de [[Hollywood]] ?
 
+Quel film fait le lien entre George Cukor, Judy Garland et Bradley Cooper, Lady Gaga ?
+
 En 1954, quel film de [[George Cukor]] avec [[Judy Garland]] raconte la chute d'un acteur de cinéma et l'ascension de la jeune fille dont il est amoureux ?
 
 Quel film, ayant obtenu le [[Golden Globe]] de la meilleure chanson originale pour "Shallow" en 2019, a été interprété par [[Lady Gaga]] et [[Bradley Cooper]] ?
-
-Quel film relatant l'histoire d'une jeune chanteuse et qui a été nominé huit fois aux Oscars en 2019 a été produit par [[Warner Bros.]] ?
 
 ###### Description
 
