@@ -29,8 +29,6 @@ Quel site préhistorique a été découvert en [[1940]] par quatre adolescents d
 
 Quelle grotte, surnommée la "[[chapelle Sixtine de l'art pariétal]]", renferme des fresques animales vieilles de plus de [[17 000 ans]] ?
 
-Dans quel lieu, fermé au public depuis [[1963]] pour le préserver des détériorations, peut-on trouver des représentations détaillées d'animaux préhistoriques comme les bisons et les chevaux ?
-
 ###### Description
 
 [[Lascaux]] est une grotte située à [[Montignac]] dans la région de la [[Dordogne]], en France, célèbre pour ses peintures rupestres datant du Paléolithique supérieur, environ 17 000 ans avant notre ère. 

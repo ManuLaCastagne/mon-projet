@@ -1,24 +1,25 @@
 ---
-tags: 
+tags:
   - Musique
   - Occitanie
   - Années_2010
   - XXIe
+  - Certifié
 date:
   - 1996/07/03
 debut: 1996
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Gagnant de The Voice en 2014
-indice_2 : 
+indice_2:
   - d'origine gitane
-indice_3 : 
+indice_3:
   - guitariste talentueux
-indice_4 : 
+indice_4:
   - succès avec Color Gitano
-indice_5 : 
+indice_5:
   - célèbre pour le flamenco pop
-indice_6 : 
+indice_6:
   - a chanté en duo avec Maître Gims
 ---
 
@@ -27,8 +28,6 @@ indice_6 :
 ![Image de Kendji Girac](https://upload.wikimedia.org/wikipedia/commons/e/e2/Kendji_Girac_Belval_2016.jpg)
 
 ###### Questions
-
-En quelle année [[Kendji Girac]] a-t-il remporté la finale de [[The Voice]] France en devenant la plus jeune personne à remporter le concours ?
 
 Quel membre de la communauté des [[Gens du voyage]] a popularisé un mélange unique de [[musique gipsy]] et de [[pop]] en France à partir de 2014 ? <!-- score: 9 -->
 

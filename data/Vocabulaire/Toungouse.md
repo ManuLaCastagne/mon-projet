@@ -21,11 +21,11 @@ indice_6:
 
 ###### Questions
 
-Quel événement cataclysmique en [[Sibérie]] en [[1908]] est associé à une explosion aérienne au-dessus de la [[forêt]] sans cratère visible ? <!-- score: 4 -->
+Comment appelle-t-on le groupe ethnolinguistique dont est issue la dynastie mandchoue des [[Qing]], dernière dynastie impériale à avoir régné sur la Chine de 1644 à 1912 ?
 
 Quel groupe de langues de la famille altaïque, comptant notamment le [[mandchou]], est parlé par des peuples ayant occupé la Sibérie orientale ?
 
-Le mot « chaman », largement utilisé aujourd’hui dans de nombreuses langues, provient de la langue de quel peuple de Sibérie ?
+Le mot « [[chaman]] », largement utilisé aujourd’hui dans de nombreuses langues, provient de la langue de quel peuple de Sibérie ?
 
 ###### Description
 

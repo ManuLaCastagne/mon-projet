@@ -23,13 +23,11 @@ questions:
 ---
 
 
-![Image de Ocre](https://upload.wikimedia.org/wikipedia/commons/5/5a/San_Martino_%28Ocre%29.jpg)
+![Image de Ocre](https://upload.wikimedia.org/wikipedia/commons/5/55/Bruoux_Galerie.jpg)
 
 ###### Questions
 
 Quel est le nom du pigment naturel utilisé dès le [[Paléolithique]], appartenant à la famille des terres colorantes et très apprécié pour la peinture corporelle et dans l'art mural, notamment à la grotte de [[Lascaux]] ?
-
-Quel est le terme utilisé pour décrire la couleur de l'atmosphère lors d'une tempête de poussière sur la planète [[Mars]], observé par les sondes de la mission [[Viking]] en [[1976]] ?
 
 Comment appelle-t-on le colorant à base d'argile riche en [[fer]] souvent utilisé comme pigment dans la production de céramiques depuis l'[[Antiquité]], célèbre pour sa teinte jaune-brunâtre ? <!-- score: 4 -->
 

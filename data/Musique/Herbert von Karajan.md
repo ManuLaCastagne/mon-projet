@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Musique
   - Autriche
   - Années_1950
@@ -8,20 +8,18 @@ date:
   - 1908/04/05
 debut: 1908
 fin: 1989
-indice_1 : 
+indice_1:
   - Chef d'orchestre autrichien
-indice_2 : 
+indice_2:
   - Philharmonique de Berlin
-indice_3 : 
+indice_3:
   - Festival de Salzbourg
-indice_4 : 
+indice_4:
   - direction d'orchestre
-indice_5 : 
+indice_5:
   - musique classique
-indice_6 : 
+indice_6:
   - enregistrements célèbres
-questions:
- - Nommé en 1955 chef à vie de la Philharmonie de Berlin, je suis…
 ---
 
 
@@ -29,11 +27,9 @@ questions:
 
 ###### Questions
 
-En quelle année le chef d'orchestre [[Herbert von Karajan]] a-t-il rejoint le [[Parti nazi]] avec succès ? <!-- score: 10 -->
-
 Quel célèbre chef d'orchestre autrichien, né en 1908, a dirigé l'[[Orchestre philharmonique de Berlin]] pendant 35 ans de 1955 à 1989 ? 
 
-Quel musicien a été le premier à enregistrer en [[compact disc]] dès la sortie de cette technologie en 1982 avec les [[Symphonies de Beethoven]] ?
+Quel chef d’orchestre né à [[Salzbourg]], célèbre pour ses très nombreux enregistrements de [[Ludwig van Beethoven]], [[Johannes Brahms]] et [[Richard Strauss]], est l’un des musiciens classiques ayant vendu le plus de disques au monde ?
 
 ###### Description
 

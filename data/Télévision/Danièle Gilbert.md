@@ -1,25 +1,24 @@
 ---
-tags: 
+tags:
   - Télévision
   - Clermont-Ferrand
   - Années_1970
   - XXe
+  - Certifié
 debut: 1943
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Télévision
-indice_2 : 
+indice_2:
   - animatrice
-indice_3 : 
+indice_3:
   - 1970s-1980s
-indice_4 : 
+indice_4:
   - Midi Première
-indice_5 : 
+indice_5:
   - France
-indice_6 : 
+indice_6:
   - sourire
-questions:
- - Quelle animatrice présentait "Midi Première" ?
 ---
 
 
@@ -29,11 +28,9 @@ questions:
 
 ###### Questions
 
-Quelle animatrice française a été surnommée "la grande bringue" en raison de sa taille et de son charisme à la télévision dans les années 1970 ?
+Quelle animatrice clermontoise a été surnommée "la [[grande bringue]]" ou "la reine de midi" en raison de sa taille et de son charisme à la télévision dans les années 1970 ?
 
 Quel visage familier de la télévision a présenté l'émission culte [[Midi Première]] sur [[TF1]] de 1975 à 1982 ? <!-- score: 2 -->
-
-Qui a fait une apparition controversée dans le film [[La Chanson de Roland]] en 1978, jouant une version d'elle-même dans une émission télévisée médiévale ?
 
 ###### Description
 
