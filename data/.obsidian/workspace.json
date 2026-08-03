@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Musique/Radiohead.md",
+                "file": "Vocabulaire/Toungouse.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Radiohead"
+              "title": "Graphique de Toungouse"
             }
           },
           {
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musique/Radiohead.md",
+                "file": "Vocabulaire/Toungouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Radiohead"
+              "title": "Toungouse"
             }
           }
         ],
@@ -362,6 +362,11 @@
   },
   "active": "572d98390d79b456",
   "lastOpenFiles": [
+    "Télévision/Meghan Markle.md",
+    "Vocabulaire/Toungouse.md",
+    "Sciences/Renault.md",
+    "Anatomie/Neurologue.md",
+    "Musique/Radiohead.md",
     "Littérature/Nick Hornby.md",
     "Géographie/Cap Canaveral.md",
     "Culture générale/Cap Kennedy.md",
@@ -385,11 +390,6 @@
     "Télévision/Christine Kelly.md",
     "Culture générale/Comité de salut public.md",
     "Histoire/Club des Girondins.md",
-    "Histoire/Société des Amis des droits de l'homme et du citoyen.md",
-    "Histoire/Club des Montagnards.md",
-    "Histoire/Maximilien Robespierre.md",
-    "Cinéma/Deborah Kerr.md",
-    "Histoire/Club des Cordeliers.md",
     "attachments/Pasted image 20260411115209.png",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260131112159.png",

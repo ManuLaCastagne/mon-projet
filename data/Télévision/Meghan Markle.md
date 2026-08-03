@@ -30,8 +30,7 @@ Quelle actrice américaine a épousé le [[prince Harry]] du Royaume-Uni le 19 m
 
 Qui a fait une apparition en tant qu'invitée dans la série télévisée [[Suits]], jouant le rôle de [[Rachel Zane]] avant de devenir duchesse de [[Sussex]] ?
 
-Quelle personnalité a participé à un épisode spécial de [[Deal or No Deal]] en tant qu'une des "coffret girls" entre 2006 et 2007 ?
-
+Quelle personnalité a créé en 2025 la marque lifestyle As Ever, après avoir quitté ses fonctions de membre actif de la famille royale britannique avec son époux en 2020 ? 
 ###### Description
 
 [[Meghan Markle]], actrice américaine, est née le 4 août 1981 à [[Los Angeles]].
