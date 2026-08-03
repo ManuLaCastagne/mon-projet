@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Déborah François.md",
+                "file": "Musique/Radiohead.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,21 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Déborah François"
-            }
-          },
-          {
-            "id": "f5eb9fd38b7eb4c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Géographie/Écosse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Écosse"
+              "title": "Graphique de Radiohead"
             }
           },
           {
@@ -191,12 +177,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Déborah François.md",
+                "file": "Géographie/Cap Canaveral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Déborah François"
+              "title": "Cap Canaveral"
+            }
+          },
+          {
+            "id": "572d98390d79b456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Musique/Radiohead.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Radiohead"
             }
           }
         ],
@@ -360,12 +360,25 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "9ce48c84f9484570",
+  "active": "572d98390d79b456",
   "lastOpenFiles": [
+    "Littérature/Nick Hornby.md",
+    "Géographie/Cap Canaveral.md",
+    "Culture générale/Cap Kennedy.md",
+    "Sciences/Mercure (planète).md",
+    "Géographie/Cape Canaveral.md",
+    "Culture générale/Mariner 10.md",
+    "Géographie/Maroc.md",
+    "Littérature/Yakari.md",
+    "Religion/Job.md",
+    "Géographie/Samarcande.md",
+    "Géographie/Écosse.md",
+    "Culture générale/Sans titre 1.base",
+    "Culture générale/Sans titre.base",
+    "Cinéma/Déborah François.md",
     "Art/Charmeuse de serpents.md",
     "Architecture/Seine musicale.md",
     "Animaux/Milan (oiseau).md",
-    "Géographie/Samarcande.md",
     "Art/Alexander Calder.md",
     "Géographie/Saint-Flour.md",
     "Histoire/Georges Danton.md",
@@ -377,17 +390,6 @@
     "Histoire/Maximilien Robespierre.md",
     "Cinéma/Deborah Kerr.md",
     "Histoire/Club des Cordeliers.md",
-    "Histoire/Marat.md",
-    "Géographie/Écosse.md",
-    "Musique/Simple Minds.md",
-    "Cinéma/Des Hommes et des dieux.md",
-    "Histoire/Judith de Bavière.md",
-    "Religion/Pie VII.md",
-    "Mythologie/Licorne.md",
-    "Sport/Oscar De La Hoya.md",
-    "Culture générale/Simple minds.md",
-    "Cinéma/Le Roi et Moi.md",
-    "Culture générale/Jim Kerr.md",
     "attachments/Pasted image 20260411115209.png",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260131112159.png",

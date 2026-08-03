@@ -9,27 +9,26 @@ tags:
   - Floride
   - États-Unis
   - Brevard
-
-indice_1 : 
+indice_1:
   - Floride
-indice_2 : 
+indice_2:
   - Lancement de fusées
-indice_3 : 
+indice_3:
   - Station spatiale Kennedy
-indice_4 : 
+indice_4:
   - Côte Atlantique
-indice_5 : 
+indice_5:
   - Programme spatial américain
-indice_6 : 
+indice_6:
   - NASA
-questions:
- - Quel cap de la côte Est de la Floride, autrefois appelé cap Kennedy, abrite une base de lancement d'engins spatiaux ?
 ---
 
 ![Image de Cap Canaveral](https://upload.wikimedia.org/wikipedia/commons/c/c2/Workers_at_Cape_Kennedy_watched_a_Saturn_1B_lift_off.jpg)
 
 ![[Carte_Cap Canaveral.png]]
 ###### Questions
+
+Quel cap de la côte Est de la Floride, autrefois appelé cap Kennedy, abrite une base de lancement d'engins spatiaux ?
 
 Dans quel lieu situé en [[Floride]], connu pour ses lancements de fusées, la NASA a-t-elle envoyé la mission [[Apollo 11]] en 1969, marquant le premier pas de l'humanité sur la lune ?
 
@@ -41,7 +40,7 @@ Quel est le nom du cap qui a accueilli en 1958 le lancement du premier satellite
 
 [[Cap Canaveral]], situé sur la côte est de la [[Floride]], est un site emblématique pour les lancements spatiaux aux [[États-Unis]]. 
 
-Initialement connu sous le nom de [[Cape Kennedy]] entre 1963 et 1973, ce changement fut fait en hommage à [[John F. Kennedy]] après son assassinat en 1963, puis le nom d'origine fut rétabli par la suite. 
+Initialement connu sous le nom de [[Cap Kennedy]] entre 1963 et 1973, ce changement fut fait en hommage à [[John F. Kennedy]] après son assassinat en 1963, puis le nom d'origine fut rétabli par la suite. 
 
 Un fait étonnant est que le tout premier satellite américain, [[Explorer 1]], a été lancé depuis Cap Canaveral le 31 janvier 1958, marquant les débuts des États-Unis dans l'ère spatiale. 
 
