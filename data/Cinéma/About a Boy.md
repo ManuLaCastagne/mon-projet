@@ -20,11 +20,7 @@ indice_6:
 ![[Pasted image 20260803214246.png]]
 ###### Questions
 
-Quel film de [[2002]] est une adaptation du roman homonyme publié en [[1998]] par Nick Hornby, mettant en scène un trentenaire vivant des royalties d'une chanson commerciale ?
-
-Quel long métrage réalisé par Chris Weitz et Paul Weitz explore des thèmes tels que le passage à l’âge adulte et l’amitié intergénérationnelle ?
-
-Quel film, avec une bande originale notable de [[Badly Drawn Boy]], raconte l'histoire de la rencontre entre un homme oisif et un garçon vulnérable ?
+Quel film de [[2002]] est une adaptation du roman homonyme publié en [[1998]] par Nick Hornby, mettant en scène un trentenaire joué par [[Hugh Grant]] vivant des royalties d'une chanson commerciale ?
 
 ###### Description
 

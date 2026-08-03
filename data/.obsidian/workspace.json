@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/About a Boy.md",
+                "file": "Littérature/Ainsi parlait Zarathoustra.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de About a Boy"
+              "title": "Graphique de Ainsi parlait Zarathoustra"
             }
           },
           {
@@ -177,16 +177,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/About a Boy.md",
+                "file": "Cinéma/Pixar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About a Boy"
+              "title": "Pixar"
+            }
+          },
+          {
+            "id": "5ecac3a7e1f79743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Littérature/Ainsi parlait Zarathoustra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ainsi parlait Zarathoustra"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +219,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -346,11 +360,21 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "cf00131420d9c429",
+  "active": "5ecac3a7e1f79743",
   "lastOpenFiles": [
+    "Culture générale/éternel retour.md",
+    "Littérature/Ainsi parlait Zarathoustra.md",
+    "Culture générale/surhomme.md",
+    "Culture générale/Dieu est mort.md",
+    "Cinéma/2001 l'odyssée de l'espace.md",
+    "Cinéma/Tom Holland.md",
+    "Culture générale/The Impossible.md",
+    "Cinéma/Pixar.md",
+    "Cinéma/1001 pattes.md",
+    "Culture générale/Tilt.md",
+    "Cinéma/About a Boy.md",
     "attachments/Pasted image 20260803214246.png",
     "Littérature/Nick Hornby.md",
-    "Cinéma/About a Boy.md",
     "Musique/Art Blakey.md",
     "Animaux/Milan (oiseau).md",
     "Architecture/Seine musicale.md",
@@ -368,24 +392,14 @@
     "Cinéma/OSS 117 Alerte rouge en Afrique noire.md",
     "Littérature/Jean Bruce.md",
     "Culture générale/OSS 117.md",
-    "Culture générale/mandchou.md",
     "attachments/Pasted image 20260803212605.png",
-    "Gastronomie/Mascotte (gâteau).md",
     "attachments/Pasted image 20260803212421.png",
-    "Géographie/Côte de Nacre.md",
-    "Accroches personnelles/Ouisticram.md",
-    "Géographie/Langres.md",
-    "Géographie/Haute-Marne.md",
-    "Géographie/Texas.md",
-    "Géographie/Meurthe-et-Moselle.md",
-    "Histoire/Norrois.md",
     "Culture générale/Sans titre 1.base",
     "Culture générale/Sans titre.base",
     "attachments/Pasted image 20260411115209.png",
     "attachments/Pasted image 20260227105330.png",
     "attachments/Pasted image 20260131112159.png",
     "attachments/Pasted image 20260131105947.png",
-    "attachments/Pasted image 20260113162521.png",
     "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
