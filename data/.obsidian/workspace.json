@@ -13,17 +13,17 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Abdellatif Kechiche.md",
+                "file": "Cinéma/Actors Studio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
+                  "localJumps": 2,
+                  "localBacklinks": false,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": true,
+                  "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [
                     {
@@ -153,22 +153,22 @@
                       }
                     }
                   ],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 1.9554473432187363,
+                  "scale": 0.8577256935464447,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Abdellatif Kechiche"
+              "title": "Graphique de Actors Studio"
             }
           },
           {
@@ -177,16 +177,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Abdellatif Kechiche.md",
+                "file": "Cinéma/Abel Gance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abdellatif Kechiche"
+              "title": "Abel Gance"
+            }
+          },
+          {
+            "id": "2309c844cdff7643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cinéma/Actors Studio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actors Studio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -346,10 +359,13 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "5ecac3a7e1f79743",
+  "active": "3b18be18a8a65fd7",
   "lastOpenFiles": [
-    "Cinéma/La Graine et le mulet.md",
+    "Cinéma/Abel Gance.md",
+    "Cinéma/Nelly Kaplan.md",
+    "Cinéma/Actors Studio.md",
     "Cinéma/Abdellatif Kechiche.md",
+    "Cinéma/La Graine et le mulet.md",
     "Cinéma/A la poursuite du diamant vert.md",
     "attachments/Pasted image 20260803221325.png",
     "Cinéma/Robert Zemeckis.md",
@@ -376,9 +392,6 @@
     "Culture générale/Dieu est mort.md",
     "Cinéma/Tom Holland.md",
     "Culture générale/The Impossible.md",
-    "Cinéma/Pixar.md",
-    "Cinéma/1001 pattes.md",
-    "Culture générale/Tilt.md",
     "attachments/Pasted image 20260803214246.png",
     "attachments/Pasted image 20260803213438.png",
     "attachments/Pasted image 20260803213024.png",

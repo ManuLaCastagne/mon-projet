@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - États-Unis
   - Années_1950
@@ -7,26 +7,28 @@ tags:
 date:
   - 1947/10/05
 debut: 1947
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Lee Strasberg
-indice_2 : 
+indice_2:
   - Méthode de jeu
-indice_3 : 
+indice_3:
   - Marlon Brando
-indice_4 : 
+indice_4:
   - Al Pacino
-indice_5 : 
+indice_5:
   - improvisation
-indice_6 : 
+indice_6:
   - New York
 questions:
- - Quelle école d'art dramatique de New York, fondée en 1947 par Elia Kazan, Cheryl Crawford et Robert Lewis, fournissait une formation pour les acteurs qui en étaient membres ?
+  - Quelle école d'art dramatique de New York, fondée en 1947 par Elia Kazan, Cheryl Crawford et Robert Lewis, fournissait une formation pour les acteurs qui en étaient membres ?
 ---
 
 ![Image de Actors Studio](https://upload.wikimedia.org/wikipedia/commons/4/46/7th_Associate_Presbyterian_Church_%28Manhattan%292.jpg)
 
 ###### Questions
+
+Quelle école d'art dramatique de New York, fondée en 1947 par [[Elia Kazan]], [[Cheryl Crawford]] et Robert Lewis, fournissait une formation pour les acteurs qui en étaient membres ?
 
 En quelle année le terme [[Actors Studio Cinéma]] a-t-il été employé pour la première fois lors d'une conférence par [[Lee Strasberg]], marquant un tournant dans la formation des acteurs cinématographiques ?
 
