@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Lucile Desmoulins](https://upload.wikimedia.org/wikipedia/commons/f/f4/LucileDesmoulins.jpg)
 
 ###### Questions
 
 Quel était le nom de naissance de celle qui fut l'épouse de [[Camille Desmoulins]], célèbre figure de la [[Révolution française]], en 1790 ?
 
-Quelle femme, liée à un révolutionnaire exécuté en 1794, fut également guillotinée le même jour, le 13 avril de cette même année ? <!-- score: 1 -->
+Quelle femme, liée à un révolutionnaire exécuté en 1794, fut également guillotinée le même jour, le 13 avril de cette même année ? <!-- score: 3 -->
 
 Qui a inspiré [[Fragonard]] pour le personnage de [[Lubin]] dans l'opéra-comique ''Les Moissonneurs'' en 1787, lui-même inspiré par sa beauté captivante ?
 
