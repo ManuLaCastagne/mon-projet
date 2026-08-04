@@ -19,13 +19,14 @@ indice_6 :
   - trahison policière
 ---
 
+
 ![Image de Reservoir Dogs]()
 
 ###### Questions
 
 Cet acteur, connu pour son rôle dans une série de films indéfinis, a fait ses débuts dans un long métrage en 1992 en tant que réalisateur et scénariste. De quel film s'agit-il ?
 
-En 1992, un festival de cinéma a marqué le tournant d'une carrière avec un film indépendant devenu culte. Quel est ce film ?
+En 1992, un festival de cinéma a marqué le tournant d'une carrière avec un film indépendant devenu culte. Quel est ce film ? <!-- score: 5 -->
 
 Quel film sorti en 1992, célèbre pour sa scène emblématique accompagnée de la chanson "Stuck in the Middle With You", a marqué l'industrie cinématographique avec son utilisation innovante du récit non linéaire et des dialogues percutants ?
 
