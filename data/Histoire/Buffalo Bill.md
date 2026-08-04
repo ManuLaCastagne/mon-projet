@@ -24,11 +24,12 @@ questions:
 
 
 
+
 ![Image de Buffalo Bill](https://upload.wikimedia.org/wikipedia/commons/3/35/Cody-Buffalo-Bill-LOC.jpg)
 
 ###### Questions
 
-Quel célèbre personnage a monté un spectacle intitulé "[[Buffalo Bill's Wild West]]" en [[1883]] qui présentait des scènes de la conquête de l'Ouest américain ? <!-- score: 4 -->
+Quel célèbre personnage a monté un spectacle intitulé "[[Buffalo Bill's Wild West]]" en [[1883]] qui présentait des scènes de la conquête de l'Ouest américain ? <!-- score: 10 -->
 
 Quel nom portait le célèbre chasseur de bisons devenu showman qui a reçu la [[Médaille d'Honneur du Congrès]] en [[1872]] pour sa bravoure en tant qu'éclaireur pour l'armée américaine ?
 
