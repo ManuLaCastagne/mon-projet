@@ -28,10 +28,10 @@ indice_6:
 
 A quelle actrice doit-on la réalisation des films "Le Goût des autres" en 2001 et "Place publique" en 2018 ?
 
-Quelle personnalité du cinéma français détient le record du plus grand nombre de César remportés en compétition, avec six récompenses pour ses scénarios et ses réalisations, principalement écrits en collaboration avec Jean-Pierre Bacri ?
+Quelle actrice, scénariste et réalisatrice, connue pour sa collaboration avec Jean-Pierre Bacri ? Ils ont adapté ensemble leurs propres pièces de théâtre et ont travaillé pour [[Alain Resnais]].
 
 ###### Description
 
-[[Agnès Jaoui]] est une actrice, scénariste et réalisatrice française reconnue pour son travail unique et collaboratif dans le cinéma. Elle a remporté le César du meilleur scénario original ou adaptation à trois reprises, notamment pour les films [[Le Goût des autres]] en 2001 et [[Comme une image]] en 2005, tous deux réalisés en collaboration avec [[Jean-Pierre Bacri]]. 
+[[Agnès Jaoui]] est une actrice née à [[Antony]] en 1964, scénariste et réalisatrice française reconnue pour son travail unique et collaboratif dans le cinéma. Elle a remporté le César du meilleur scénario original ou adaptation à trois reprises, notamment pour les films [[Le Goût des autres]] en 2001 et [[Comme une image]] en 2005, tous deux réalisés en collaboration avec [[Jean-Pierre Bacri]]. 
 
 En 2018, elle a sorti [[Place publique]], un film qui a une fois de plus affirmé son talent pour la comédie sociale et la critique des mœurs. [[Agnès Jaoui]] a également été nommée Officier de l'Ordre des Arts et des Lettres en 2014, soulignant sa contribution exceptionnelle au cinéma français.

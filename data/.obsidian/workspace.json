@@ -13,12 +13,12 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Agnès Jaoui.md",
+                "file": "Cinéma/Actors Studio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
-                  "localBacklinks": false,
+                  "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Agnès Jaoui"
+              "title": "Graphique de Actors Studio"
             }
           },
           {
@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -374,8 +374,13 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "715d6a88ba6bebd3",
+  "active": "2309c844cdff7643",
   "lastOpenFiles": [
+    "Cinéma/Agnès Jaoui.md",
+    "Cinéma/Le Goût des autres.md",
+    "Culture générale/César du meilleur film.md",
+    "Cinéma/Actors Studio.md",
+    "Géographie/Antony.md",
     "Cinéma/Adèle Exarchopoulos.md",
     "Cinéma/L'Amour Ouf.md",
     "Cinéma/Adolescentes.md",
@@ -388,7 +393,6 @@
     "Cinéma/120 battements par minute.md",
     "Cinéma/Ad Astra.md",
     "attachments/Pasted image 20260804075041.png",
-    "Cinéma/Actors Studio.md",
     "Cinéma/Abel Gance.md",
     "Cinéma/Nelly Kaplan.md",
     "Cinéma/Abdellatif Kechiche.md",
@@ -404,11 +408,7 @@
     "Culture générale/Elizabeth McNeill.md",
     "Culture générale/John Gray.md",
     "attachments/Pasted image 20260803220309.png",
-    "Musique/You Can Leave Your Hat On.md",
-    "Cinéma/7e Compagnie.md",
     "attachments/Pasted image 20260803220027.png",
-    "Cinéma/Jean Lefebvre.md",
-    "Cinéma/Pierre Mondy.md",
     "attachments/Pasted image 20260803215609.png",
     "attachments/Pasted image 20260803214246.png",
     "attachments/Pasted image 20260803213438.png",
