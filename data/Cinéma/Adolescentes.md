@@ -4,6 +4,7 @@ tags:
   - Années_2010
   - XXIe_siècle
   - France
+  - Certifié
 date:
   - 2020/09/09
 debut: 2020
@@ -20,17 +21,13 @@ indice_5:
   - protagonistes féminines
 indice_6:
   - expériences adolescentes
-questions:
-  - Quel film documentaire de Sébastien Lifshizt qui suit la vie de 2 jeunes Corréziennes, Emma et Anaïs, 3 Cinéma/César en 2021 ?
 ---
-
-![Image de Adolescentes](https://upload.wikimedia.org/wikipedia/commons/a/a2/Adolescent_boy.png)
-
+![[Pasted image 20260804075735.png]]
 ###### Questions
 
 Quel film documentaire réalisé par [[Sébastien Lifshitz]], sorti en 2020, suit le parcours de deux lycéennes de [[Brive-la-Gaillarde]] sur une durée de cinq ans ?
 
-Quel film documentaire de Sébastien Lifshizt qui suit la vie de 2 jeunes Corréziennes, Emma et Anaïs, a obtenue 3 César en 2021 ?
+Quel film documentaire de Sébastien Lifshizt qui suit la vie de 2 jeunes Corréziennes, Emma et Anaïs, a obtenu 3 César en 2021 ?
 
 ###### Description
 
