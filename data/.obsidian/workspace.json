@@ -13,11 +13,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Actors Studio.md",
+                "file": "Cinéma/Adolescentes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": false,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Actors Studio"
+              "title": "Graphique de Adolescentes"
             }
           },
           {
@@ -198,8 +198,23 @@
               "icon": "lucide-file",
               "title": "Actors Studio"
             }
+          },
+          {
+            "id": "715d6a88ba6bebd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cinéma/Adolescentes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adolescentes"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -359,11 +374,20 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "3b18be18a8a65fd7",
+  "active": "715d6a88ba6bebd3",
   "lastOpenFiles": [
+    "Géographie/Brive-la-Gaillarde.md",
+    "Cinéma/Adolescentes.md",
+    "Cinéma/Adieu les cons.md",
+    "attachments/Pasted image 20260804075442.png",
+    "Cinéma/Adieu Berthe.md",
+    "Cinéma/37,2 le matin (film).md",
+    "Cinéma/120 battements par minute.md",
+    "Cinéma/Ad Astra.md",
+    "attachments/Pasted image 20260804075041.png",
+    "Cinéma/Actors Studio.md",
     "Cinéma/Abel Gance.md",
     "Cinéma/Nelly Kaplan.md",
-    "Cinéma/Actors Studio.md",
     "Cinéma/Abdellatif Kechiche.md",
     "Cinéma/La Graine et le mulet.md",
     "Cinéma/A la poursuite du diamant vert.md",
@@ -385,18 +409,9 @@
     "Cinéma/37,2 le matin.md",
     "attachments/Pasted image 20260803215609.png",
     "Cinéma/2001 l'odyssée de l'espace.md",
-    "Culture générale/HAL 9000.md",
-    "Littérature/Ainsi parlait Zarathoustra.md",
-    "Culture générale/éternel retour.md",
-    "Culture générale/surhomme.md",
-    "Culture générale/Dieu est mort.md",
-    "Cinéma/Tom Holland.md",
-    "Culture générale/The Impossible.md",
     "attachments/Pasted image 20260803214246.png",
     "attachments/Pasted image 20260803213438.png",
     "attachments/Pasted image 20260803213024.png",
-    "attachments/Pasted image 20260803212812.png",
-    "attachments/Pasted image 20260803212605.png",
     "Culture générale/Sans titre 1.base",
     "Culture générale/Sans titre.base",
     "Frises/Base de données n°1.base",

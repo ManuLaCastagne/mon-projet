@@ -7,7 +7,7 @@ tags:
 date:
   - 2020/09/09
 debut: 2020
-fin: 
+fin:
 indice_1:
   - Collège et lycée
 indice_2:
@@ -30,9 +30,7 @@ questions:
 
 Quel film documentaire réalisé par [[Sébastien Lifshitz]], sorti en 2020, suit le parcours de deux lycéennes de [[Brive-la-Gaillarde]] sur une durée de cinq ans ?
 
-Quel long-métrage a reçu le [[César du meilleur film documentaire]] lors de la 46e cérémonie des César en 2021 pour sa représentation poignante d'une période cruciale de la vie ?
-
-Quel documentaire explore la transition vers l'âge adulte à travers l'intimité de [[Emma]] et [[Anaïs]], vivant les bouleversements sociaux et personnels de leur adolescence entre 2015 et 2020 ?
+Quel film documentaire de Sébastien Lifshizt qui suit la vie de 2 jeunes Corréziennes, Emma et Anaïs, a obtenue 3 César en 2021 ?
 
 ###### Description
 
