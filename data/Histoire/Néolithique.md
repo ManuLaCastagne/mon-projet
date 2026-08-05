@@ -22,7 +22,6 @@ questions:
  - Constituant une véritable rupture comportementale, j'ai vu l'abandon du mode de vie nomade, la généralisation de l'utilisation de la céramique et du polissage de pierre pour fabriquer...
 ---
 
-
 ![Image de Néolithique](https://upload.wikimedia.org/wikipedia/commons/8/8b/Hache_n%C3%A9olithique_des_R%C3%A9collets_MHNT.PRE.2011.0.450.jpg)
 
 ###### Questions
@@ -32,7 +31,6 @@ Dans quelle période de la Préhistoire a eu lieu l'apparition des premières fo
 Pendant quelle période de la Préhistoire est apparue la fabrication et l'utilisation de [[poteries]] en [[Mésopotamie]] et en [[Chine]], autour de 6 500 av. J.-C. ?
 
 Durant quelle période de transition humaine, située entre le [[Paléolithique]] et l'[[Âge du bronze]], a-t-on vu l'apparition des [[premiers villages sédentaires]] ? <!-- score: 4 -->
-
 ###### Description
 
 Le **Néolithique** est une période charnière de l'histoire qui s'étend approximativement de -10 000 à -2 000 avant notre ère, durant laquelle les sociétés humaines ont connu des transformations radicales, notamment la sédentarisation et le développement de l'agriculture. 
