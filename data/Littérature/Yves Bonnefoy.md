@@ -24,6 +24,7 @@ questions:
  - Quel poète français disparu en 2016, auteur du recueil "Dans le leurre du seuil", a été professeur au Collège de France de 1981 à 1993?
 ---
 
+
 ![Image de Yves Bonnefoy](https://upload.wikimedia.org/wikipedia/commons/2/26/Yves_Bonnefoy_%28cropped%29.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel poète et traducteur français a remporté le [[Prix Goncourt]] de la poés
 
 Quel écrivain a été élu au prestigieux poste de [[Professeur de Poésie]] au [[Collège de France]] en 1981 ?
 
-Quel auteur a obtenu le [[Griffin Poetry Prize]] en 2011, l'une des récompenses les plus prestigieuses pour la poésie au niveau international ?
+Quel auteur a obtenu le [[Griffin Poetry Prize]] en 2011, l'une des récompenses les plus prestigieuses pour la poésie au niveau international ? <!-- score: 5 -->
 
 ###### Description
 
