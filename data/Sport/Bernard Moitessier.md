@@ -22,11 +22,12 @@ questions:
  - En 1969, quel navigateur français renonce à la victoire alors qu'il est en tête de la 1re course autour du monde en solitaire sans escale?
 ---
 
+
 ![Image de Bernard Moitessier](https://upload.wikimedia.org/wikipedia/commons/4/49/Bernard_Moitessier_and_William_Rodarmor_on_Moitissier%27s_boat_Joshua_in_Tahiti_in_1971.jpg)
 
 ###### Questions
 
-Quel est le navigateur français qui a décidé de ne pas terminer le [[Golden Globe Challenge]] de 1968 pour continuer son voyage en solitaire autour du monde ?
+Quel est le navigateur français qui a décidé de ne pas terminer le [[Golden Globe Challenge]] de 1968 pour continuer son voyage en solitaire autour du monde ? <!-- score: 4 -->
 
 Quel sportif a écrit le livre "La Longue Route" retraçant son aventure lors de la première course autour du monde sans escale en 1968-1969 ?
 
