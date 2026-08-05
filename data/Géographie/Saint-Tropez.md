@@ -26,10 +26,11 @@ questions:
   - Je sers de port d'escale à des yachts luxueux et accueille des parties de pétanque sur ma place des Lys.
   - 1964, quelle station balnéaire de la côte varoise est le décor des films de Louis de Funès ?
 ---
+
 ![Image de Saint-Tropez](https://upload.wikimedia.org/wikipedia/commons/d/da/Bell_tower_of_the_church_Our_Lady_of_the_Assumption_in_Saint-Tropez%2C_France_%2852723273607%29.jpg)
 ###### Questions
 Je sers de port d'escale à des [[yachts luxueux]] et accueille des parties de pétanque sur ma [[place des Lys]]. <!-- score: 4 -->
-Quel festival créé en 2015 célèbre [[Saint-Tropez 1]] pour son rôle important dans le monde du [[cinéma]] ?
+Quel festival créé en 2015 célèbre [[Saint-Tropez 1]] pour son rôle important dans le monde du [[cinéma]] ? <!-- score: 5 -->
 Quel événement annuel rend hommage aux films tournés à [[Saint-Tropez 1]] et réunit des amateurs de [[cinéma]] et des célébrités à partir de l'année 2015 ?
 À quel événement culturel, lancé en 2015, doit-on la mise en avant des productions cinématographiques ayant choisi [[Saint-Tropez 1]] comme décor ?
 ###### Description
