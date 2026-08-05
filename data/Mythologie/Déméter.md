@@ -20,17 +20,11 @@ questions:
  - Déesse olympienne, fille de Cronos et de Rhéa, j'ai parcouru tout le monde connu à la recherche de ma fille Perséphone, enlevée par Hadès.
 ---
 
-
 ![Image de Déméter](https://upload.wikimedia.org/wikipedia/commons/d/da/Demeter_of_Eleusis_statue_greece_04.jpg)
 
 ###### Questions
 
 Dans la [[mythologie grecque]], quelle déesse, représentée souvent avec des gerbes de blé, est associée à l'[[automne]] et à la moisson, et est la mère de [[Perséphone]] ?
-
-Quelle déesse grecque est principalement liée au mythe du [[Rapt de Perséphone]], un récit ayant une influence symbolique sur le changement des saisons, notamment en automne et en hiver ?
-
-Dans la [[mythologie grecque]], quelle déesse a institué les [[Mystères d'Éleusis]], des rituels initiatiques célébrés tous les cinq ans dans la ville d'[[Éleusis]], devenus très populaires dès le VIIe siècle avant [[Jésus]] ? <!-- score: 5 -->
-
 ###### Description
 
 [[Déméter]] est une déesse de l'[[Olympien|Olympe]], connue dans la [[mythologie grecque]] comme la déesse de l'agriculture, des moissons et de la fertilité. 
