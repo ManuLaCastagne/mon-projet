@@ -24,6 +24,7 @@ questions:
  - On me retrouve dans "Le Casse",  "Monsieur Ibrahim et les fleurs du Coran". Devenu populaire grâce à mes rôles dans "Lawrence d'Arabie" et "Docteur Jivago".
 ---
 
+
 ![Image de Omar Sharif](https://upload.wikimedia.org/wikipedia/commons/9/91/Omar_Sharif_1963.JPG)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel film de 1965, [[Omar Sharif]] joue-t-il le rôle du célèbre révolut
 
 En 1962, quel film épique [[David Lean]] a permis à [[Omar Sharif]] de se faire connaître internationalement grâce à son rôle du [[Sherif Ali]] ?
 
-En quelle année [[Omar Sharif]] a-t-il remporté le [[Golden Globe]] du meilleur acteur pour son rôle dans le film [[Monsieur Ibrahim]] et les fleurs du Coran ?
+En quelle année [[Omar Sharif]] a-t-il remporté le [[Golden Globe]] du meilleur acteur pour son rôle dans le film [[Monsieur Ibrahim]] et les fleurs du Coran ? <!-- score: 5 -->
 
 ###### Description
 
