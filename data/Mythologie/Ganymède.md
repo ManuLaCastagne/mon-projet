@@ -21,18 +21,13 @@ questions:
  - Quel personnage de grande beauté fut capturé par Zeus qui secondait parfois Hébée en versant parfois l'ambroisie à l'assemblée des dieux ?
 ---
 
-
-
 ![Image de Ganymède](https://upload.wikimedia.org/wikipedia/commons/f/f0/Ganymede_-_Perijove_34_Composite.jpg)
 
 ###### Questions
 
-Quel jeune [[prince troyen]], réputé pour sa beauté exceptionnelle, fut enlevé par [[Zeus]] pour devenir l'échanson des dieux sur le mont [[Olympe]] ?
+Quel jeune [[prince troyen]], réputé pour sa beauté exceptionnelle, fut enlevé par [[Zeus]] pour devenir l'échanson des dieux sur le mont [[Olympe]] pour servir le nectar et l'ambroisie ? <!-- score: 5 -->
 
-Quel personnage de la mythologie [[grecque]] est parfois associé à la constellation du [[Verseau]] et aux lunes de [[Jupiter]], dont l'une a été découverte en 1610 par [[Galilée]] ?
-
-Qui, dans la mythologie [[gréco-romaine]], a été choisi par [[Zeus]] pour servir le nectar et l'ambroisie aux dieux, symbolisant un privilège exceptionnel accordé par le roi des dieux ? <!-- score: 4 -->
-
+Quel personnage de la mythologie [[grecque]], échanson des dieux, est parfois associé à la constellation du [[Verseau]] et aux lunes de [[Jupiter]], dont l'une a été découverte en 1610 par [[Galilée]] ? <!-- score: 5 -->
 ###### Description
 
 [[Ganymède]], dans la [[mythologie grecque]], est un jeune prince troyen renommé pour sa beauté exceptionnelle, qui intrigue souvent les amateurs de légendes antiques. 
