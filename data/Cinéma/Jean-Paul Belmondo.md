@@ -24,11 +24,12 @@ questions:
  - Quel acteur, né le 9 avril 1933, est à l'affiche de nombreux films à succès, comme "L'Homme de Rio" ou "L'As des as"?
 ---
 
+
 ![Image de Jean-Paul Belmondo](https://upload.wikimedia.org/wikipedia/commons/b/b2/Belmondo_1960.jpg)
 
 ###### Questions
 
-Dans quel film sorti en 1981 [[Jean-Paul Belmondo]] incarne-t-il un cascadeur nommé Michel Gerfaut, dans un rôle qui a consolidé sa réputation d'acteur audacieux effectuant ses propres cascades ?
+Dans quel film sorti en 1981 [[Jean-Paul Belmondo]] incarne-t-il un cascadeur nommé Michel Gerfaut, dans un rôle qui a consolidé sa réputation d'acteur audacieux effectuant ses propres cascades ? <!-- score: 5 -->
 
 Quel événement marquant se produit pour [[Jean-Paul Belmondo]] lors du Festival de Cannes en 2011 reconnaissant son immense contribution au cinéma français et international ?
 
