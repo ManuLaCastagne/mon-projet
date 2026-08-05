@@ -6,9 +6,9 @@ superficie: 8515767
 location: -10.3333333,-53.2
 tags:
   - Géographie
-  - Région_de_Brésil
-  - Pays_de_Brésil
-  - Département_de_Brésil
+  - Région_de_Brésil
+  - Pays_de_Brésil
+  - Département_de_Brésil
 
 indice_1 : 
   - Amazonie
@@ -26,12 +26,13 @@ questions:
  - Dans quel pays le Candomblé vénère-t-il les Orixàs…
 ---
 
-![Image de Brésil](https://upload.wikimedia.org/wikipedia/commons/e/e5/Reflection_of_Parque_Cultural_Paulista_building_in_Avenida_Paulista%2C_Brazil.jpg)
 
-![[Carte_Brésil.png]]
+![Image de Brésil](https://upload.wikimedia.org/wikipedia/commons/e/e5/Reflection_of_Parque_Cultural_Paulista_building_in_Avenida_Paulista%2C_Brazil.jpg)
+
+![[Carte_Brésil.png]]
 ###### Questions
 
-Quel pays possède la plus grande partie de la [[forêt amazonienne]], couvrant environ 60 % de son territoire ?
+Quel pays possède la plus grande partie de la [[forêt amazonienne]], couvrant environ 60 % de son territoire ? <!-- score: 9 -->
 
 Dans quel pays a été inaugurée en 2016 la nouvelle salle de concert baptisée "Cidade das Artes" dans la ville de [[Rio de Janeiro]] ?
 
