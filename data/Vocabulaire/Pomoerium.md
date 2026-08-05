@@ -18,6 +18,7 @@ indice_6 :
 
 
 
+
 ![Image de Pomoerium](https://upload.wikimedia.org/wikipedia/commons/3/32/Roma_quadrata_-_Palatina%2C_Vierregionenstadt_und_Servianische_Stadt.jpg)
 
 ###### Questions
@@ -26,7 +27,7 @@ Quelle est la limite sacrée séparant la [[Rome antique]] de sa campagne enviro
 
 Quel terme désigne la frontière symbolique dont le dépassement par un gouverneur romain avec ses troupes armées constituait un acte de rébellion?
 
-Comment s'appelle l'espace consacré par [[Romulus]] selon les légendes qui marquait la démarcation officielle du territoire religieux et politique de [[Rome]]?
+Comment s'appelle l'espace consacré par [[Romulus]] selon les légendes qui marquait la démarcation officielle du territoire religieux et politique de [[Rome]]? <!-- score: 4 -->
 
 ###### Description
 
