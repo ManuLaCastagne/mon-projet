@@ -21,6 +21,7 @@ indice_6:
 ---
 
 
+
 ![Image de Nagano 1998](https://upload.wikimedia.org/wikipedia/commons/e/e3/1998_Nagano_Winter_Olympics_opening_ceremony.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Dans quelle ville [[japonaise]] ont eu lieu les [[Jeux olympiques d'hiver]] pour
 
 Quelle édition des [[Jeux olympiques d'hiver]] a vu le [[hockey sur glace féminin]] être ajouté pour la première fois au programme olympique ?
 
-En quelle année [[Tara Lipinski]] est-elle devenue la plus jeune championne olympique en [[patinage artistique]] à l'âge de 15 ans ?
+En quelle année [[Tara Lipinski]] est-elle devenue la plus jeune championne olympique en [[patinage artistique]] à l'âge de 15 ans ? <!-- score: 4 -->
 
 ###### Description
 
