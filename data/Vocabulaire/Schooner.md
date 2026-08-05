@@ -18,11 +18,12 @@ indice_6 :
 
 
 
+
 ![Image de Schooner](https://upload.wikimedia.org/wikipedia/commons/a/a2/2011-05-31_HELENA_-_IMO_5203683_in_Oslo%2C_Norway.jpg)
 
 ###### Questions
 
-Quel type de voilier, souvent utilisé pour le commerce et la pêche au XIXe siècle, est caractérisé par deux mâts ou plus et a été particulièrement populaire en [[Amérique du Nord]] ? <!-- score: 1 -->
+Quel type de voilier, souvent utilisé pour le commerce et la pêche au XIXe siècle, est caractérisé par deux mâts ou plus et a été particulièrement populaire en [[Amérique du Nord]] ? <!-- score: 4 -->
 
 Comment appelle-t-on le type de verre souvent utilisé pour servir une grande portion de bière et qui porte le même nom qu'un voilier à deux mâts ?
 
