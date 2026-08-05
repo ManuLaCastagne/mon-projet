@@ -26,6 +26,7 @@ indice_6:
 
 
 
+
 ![Image de Marc Girardelli](https://upload.wikimedia.org/wikipedia/commons/b/b4/Marc_Girardelli.JPG)
 
 ###### Questions
