@@ -23,11 +23,12 @@ questions:
 ---
 
 
+
 ![Image de Conspiration des poudres](https://upload.wikimedia.org/wikipedia/commons/c/c2/Gunpowder_Plot_conspirators.jpg)
 
 ###### Questions
 
-Quel événement historique survenu en [[1605]] au [[Royaume-Uni]] visait à faire exploser la [[Chambre des lords]] pour tuer le roi [[Jacques Ier d'Angleterre]] ? <!-- score: 4 -->
+Quel événement historique survenu en [[1605]] au [[Royaume-Uni]] visait à faire exploser la [[Chambre des lords]] pour tuer le roi [[Jacques Ier d'Angleterre]] ? <!-- score: 5 -->
 
 Quel complot a été découvert et déjoué la nuit du 4 au 5 novembre [[1605]], impliquant des conspirateurs catholiques menés par [[Robert Catesby]] ?
 
