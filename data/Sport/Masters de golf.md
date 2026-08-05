@@ -22,13 +22,14 @@ questions:
  - En avril 2021, quel célèbre tournoi de golf se déroulant à Augusta Hideki Matsuyama a-t-il remporté?
 ---
 
+
 ![Image de Masters de golf](https://upload.wikimedia.org/wikipedia/commons/b/b6/AugustaNationalMastersLogoFlowers.jpg)
 
 ###### Questions
 
 Quel tournoi de golf a été remporté par le joueur américain [[Tiger Woods]] pour la première fois en [[1997]], établissant son statut de prodige du golf à seulement 21 ans ?
 
-Quel événement prestigieux tenu à [[Augusta National Golf Club]] a introduit la fameuse veste verte comme symbole de victoire dès [[1949]] ?
+Quel événement prestigieux tenu à [[Augusta National Golf Club]] a introduit la fameuse veste verte comme symbole de victoire dès [[1949]] ? <!-- score: 3 -->
 
 Quel tournoi est célèbre pour son "Amen Corner", un passage particulièrement difficile du parcours situé aux trous 11, 12 et 13, et fait partie des quatre tournois du [[Grand Chelem]] ?
 
