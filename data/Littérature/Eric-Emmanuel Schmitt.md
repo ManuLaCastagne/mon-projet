@@ -23,6 +23,7 @@ indice_6:
 ---
 
 
+
 ![Image de Eric-Emmanuel Schmitt](https://upload.wikimedia.org/wikipedia/commons/e/ed/Eric-Emmanuel_Schmitt_2013.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel écrivain a publié son premier roman, [[La Secte des Égoïstes]], en 1994
 
 Quel dramaturge a remporté le [[Grand Prix du Théâtre]] de l'[[Académie française]] en 2001 pour l'ensemble de son œuvre ?
 
-Quel auteur a signé un cycle romanesque intitulé [[le Cycle de l'invisible]], dont le premier volet, [[Milarepa]], est paru en 1997 ? <!-- score: 3 -->
+Quel auteur a signé un cycle romanesque intitulé [[le Cycle de l'invisible]], dont le premier volet, [[Milarepa]], est paru en 1997 ? <!-- score: 2 -->
 
 En 2006, quel écrivain français publie le recueil de nouvelles "[[Odette Toulemonde]]" et "Autres histoires" après "[[Oscar et la Dame Rose]]" dans le Cycle de l'invisible en 2002 ?
 
