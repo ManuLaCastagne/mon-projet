@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Phil Mickelson](https://upload.wikimedia.org/wikipedia/commons/e/e0/Phil_Mickelson_14.jpg)
 
 ###### Questions
 
 Quel golfeur américain a remporté [[The Open Championship]] en [[2013]]?
 
-Quel joueur a remporté six fois le [[major]] du [[PGA Tour]] entre [[2004]] et [[2021]]? <!-- score: 2 -->
+Quel joueur a remporté six fois le [[major]] du [[PGA Tour]] entre [[2004]] et [[2021]]? <!-- score: 5 -->
 
 Quel célèbre golfeur a intégré le [[World Golf Hall of Fame]] en [[2012]]?
 
