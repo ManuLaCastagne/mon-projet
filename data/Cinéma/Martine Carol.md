@@ -24,13 +24,14 @@ questions:
  - Quelle actrice française, disparue en 1967, reste célèbre pour son rôle dans "Caroline chérie" et celui de Lola Montès?
 ---
 
+
 ![Image de Martine Carol](https://upload.wikimedia.org/wikipedia/commons/1/13/Martine_Carol_1963.jpg)
 
 ###### Questions
 
 Dans quel film réalisé par [[Christian-Jaque]] en 1952, [[Martine Carol]] interprète-t-elle le rôle emblématique de [[Lola Montès]] ?
 
-Quel événement inattendu est survenu à [[Martine Carol]] lors du tournage de [[Lucrèce Borgia]] en 1953, la forçant à être temporairement remplacée ?
+Quel événement inattendu est survenu à [[Martine Carol]] lors du tournage de [[Lucrèce Borgia]] en 1953, la forçant à être temporairement remplacée ? <!-- score: 5 -->
 
 En 1959, dans quel pays [[Martine Carol]] a-t-elle été brièvement enlevée par des gangsters, avant d'être retrouvée saine et sauve ?
 
