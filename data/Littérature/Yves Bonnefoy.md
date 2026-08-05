@@ -24,17 +24,11 @@ questions:
  - Quel poète français disparu en 2016, auteur du recueil "Dans le leurre du seuil", a été professeur au Collège de France de 1981 à 1993?
 ---
 
-
 ![Image de Yves Bonnefoy](https://upload.wikimedia.org/wikipedia/commons/2/26/Yves_Bonnefoy_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel poète et traducteur français a remporté le [[Prix Goncourt]] de la poésie en 1987 pour l’ensemble de son œuvre ?
-
-Quel écrivain a été élu au prestigieux poste de [[Professeur de Poésie]] au [[Collège de France]] en 1981 ?
-
-Quel auteur a obtenu le [[Griffin Poetry Prize]] en 2011, l'une des récompenses les plus prestigieuses pour la poésie au niveau international ? <!-- score: 5 -->
-
+Quel poète et traducteur français prénommé Yves a remporté le [[Prix Goncourt]] de la poésie en 1987 pour l’ensemble de son œuvre ? <!-- score: 5 -->
 ###### Description
 
 [[Yves Bonnefoy]], né en 1923 à [[Tours]], est considéré comme l'un des plus grands poètes français contemporains, connu pour sa quête incessante du sens dans le langage et son exploration des thèmes de l'absence et de la présence. 
