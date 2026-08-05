@@ -24,11 +24,12 @@ questions:
  - A quel groupe californien formé en 1981, dont le nom dérive du mot métal, doit-on les tubes "Master of Puppets"...
 ---
 
+
 ![Image de Metallica](https://upload.wikimedia.org/wikipedia/commons/f/f8/James_Hetfield_with_Metallica_--_7_October_2004.jpg)
 
 ###### Questions
 
-Quel groupe de heavy metal a été le premier à se produire sur tous les continents, y compris en [[Antarctique]], lors de leur tournée mondiale en 2013 ?
+Quel groupe de heavy metal a été le premier à se produire sur tous les continents, y compris en [[Antarctique]], lors de leur tournée mondiale en 2013 ? <!-- score: 5 -->
 
 Quel groupe a remporté un [[Grammy Award]] pour la première fois en 1991 avec la chanson "[[One]]" ?
 
