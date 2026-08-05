@@ -24,17 +24,11 @@ questions:
  - En 2007, quel film de Julian Schnabel, dont le titre fait référence à un insecte, est tiré d'un livre de Jean-Dominique Bauby?
 ---
 
-
 ![Image de Le Scaphandre et le Papillon](https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Diving-Bell_and_the_Butterfly.jpg)
 
 ###### Questions
 
-Quel film, réalisé par [[Julian Schnabel]], raconte l'histoire de [[Jean-Dominique Bauby]], un rédacteur en chef de mode victime du syndrome d'enfermement, et est sorti en 2007 ?
-
-Dans quel film, l'acteur [[Mathieu Amalric]] incarne-t-il un personnage communiquant par clignements de paupières après avoir subi un accident vasculaire cérébral ?
-
-Quel long-métrage, basé sur un livre autobiographique publié en 1997, dépeint la vie de [[Jean-Dominique Bauby]] alors qu'il rédige ses mémoires enfermé dans son propre corps ? <!-- score: 5 -->
-
+En 2007 quel film, réalisé par [[Julian Schnabel]], raconte l'histoire de l'écrivain [[Jean-Dominique Bauby]], un rédacteur en chef de mode victime du syndrome d'enfermement, joué par [[Mathieu Amalric]] ? <!-- score: 5 -->
 ###### Description
 
 Le film [[Le Scaphandre et le Papillon]], réalisé par [[Julian Schnabel]], est sorti en 2007 et est basé sur le livre autobiographique de [[Jean-Dominique Bauby]], publié en 1997. 
