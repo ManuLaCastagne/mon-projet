@@ -26,12 +26,13 @@ questions:
  - De quel pays asiatique le roi Rama IX depuis 1946 est-il le souverain ?
 ---
 
-![Image de Thaïlande](https://upload.wikimedia.org/wikipedia/commons/d/d0/Trees_rising_out_of_Cheow_Lan_Lake%2C_blue_sky%2C_eternal_summer_in_Surat_Thani_edited.jpg)
 
-![[Carte_Thaïlande.png]]
+![Image de Thaïlande](https://upload.wikimedia.org/wikipedia/commons/d/d0/Trees_rising_out_of_Cheow_Lan_Lake%2C_blue_sky%2C_eternal_summer_in_Surat_Thani_edited.jpg)
+
+![[Carte_Thaïlande.png]]
 ###### Questions
 
-Quel pays est le seul au monde qui n'a jamais été colonisé par une puissance européenne, notamment pendant la période impérialiste du XIXe siècle ?
+Quel pays est le seul au monde qui n'a jamais été colonisé par une puissance européenne, notamment pendant la période impérialiste du XIXe siècle ? <!-- score: 5 -->
 
 Quelle nation asiatique est célèbre pour avoir inauguré le [[Festival des Singes]] à [[Lopburi]] en 1989 où des centaines de kilogrammes de fruits et légumes sont offerts aux singes chaque année ?
 
