@@ -22,13 +22,14 @@ indice_6:
   - Sous les ponts de Paris
 ---
 
+
 ![Image de Vincent Scotto](https://upload.wikimedia.org/wikipedia/commons/4/44/Vincent_Scotto_01.jpg)
 
 ###### Questions
 
 Qui a composé la célèbre chanson "[[Sous les ponts de Paris]]" ?
 
-A quel compositeur marseillais né en 1876 doit-on l'opérette "Violettes impériales" ?
+A quel compositeur marseillais né en 1876 doit-on l'opérette "Violettes impériales" ? <!-- score: 3 -->
 
 Quel compositeur célèbre, également connu pour ses opérettes, a contribué à populariser la [[Java (danse)]] avec la chanson "Viens poupoule" en 1917 ?
 
