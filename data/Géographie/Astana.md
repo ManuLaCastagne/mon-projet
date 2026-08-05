@@ -25,6 +25,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Astana](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Astana%2C_Kazakhstan_%28latin%29.svg)
 
 ![[Carte_Astana.png]]
