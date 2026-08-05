@@ -22,13 +22,14 @@ questions:
  - En 1918, quel officier français devient généralissime de toutes les armées alliées, quelques mois avant de signer l'armistice ?
 ---
 
+
 ![Image de Ferdinand Foch](https://upload.wikimedia.org/wikipedia/commons/a/ad/Ferdinand_Foch_by_Melcy%2C_1921.png)
 
 ###### Questions
 
 Quel célèbre [[Maréchal de France]], né en [[1851]], a signé l'[[armistice]] mettant fin à la [[Première Guerre mondiale]] le 11 novembre [[1918]] dans un wagon à [[Rethondes]] ? 
 
-Quel militaire français a été promu [[Commandant en Chef des Armées Alliées]] sur le front occidental pendant la [[Première Guerre mondiale]] en [[1918]] ?
+Quel militaire français a été promu [[Commandant en Chef des Armées Alliées]] sur le front occidental pendant la [[Première Guerre mondiale]] en [[1918]] ? <!-- score: 6 -->
 
 Quel stratège a vu sa statue érigée sur la place du [[Trocadéro]] à [[Paris]] en [[1936]] pour honorer son rôle clé dans la victoire des Alliés durant la [[Première Guerre mondiale]] ?
 
