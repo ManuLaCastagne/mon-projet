@@ -24,19 +24,11 @@ questions:
  - Dans le cycle la La Comédie humaine, quel écrivain est le créateur...
 ---
 
-
-
-
 ![Image de Honoré de Balzac](https://upload.wikimedia.org/wikipedia/commons/8/82/Honor%C3%A9_de_Balzac_%281842%29_detail.jpg)
 
 ###### Questions
 
-Quel auteur a consommé jusqu'à cinquante tasses de café par jour pour rester éveillé et écrire ses œuvres ? <!-- score: 3 -->
-
 Quel écrivain est mort en 1850 à l'âge de cinquante et un ans, laissant derrière lui l'œuvre monumentale intitulée [[La Comédie humaine]] ?
-
-Quel célèbre romancier français a élaboré la majeure partie de ses écrits durant la [[Restauration (France)]] et la [[Monarchie de Juillet]] ?
-
 ###### Description
 
 [[Honoré de Balzac]] est un écrivain français prolifique du XIXe siècle, né en 1799 et décédé en 1850, principalement célèbre pour son ensemble d'œuvres rassemblées sous le titre de "La Comédie humaine", une série monumentale qui vise à dépeindre la société française sous la [[Restauration]] et la [[Monarchie de Juillet]]. 
