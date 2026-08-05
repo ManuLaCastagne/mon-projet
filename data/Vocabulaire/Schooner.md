@@ -16,19 +16,11 @@ indice_6 :
   - clippers
 ---
 
-
-
-
 ![Image de Schooner](https://upload.wikimedia.org/wikipedia/commons/a/a2/2011-05-31_HELENA_-_IMO_5203683_in_Oslo%2C_Norway.jpg)
 
 ###### Questions
 
-Quel type de voilier, souvent utilisé pour le commerce et la pêche au XIXe siècle, est caractérisé par deux mâts ou plus et a été particulièrement populaire en [[Amérique du Nord]] ? <!-- score: 4 -->
-
-Comment appelle-t-on le type de verre souvent utilisé pour servir une grande portion de bière et qui porte le même nom qu'un voilier à deux mâts ?
-
-Quel type de bateau à voiles était couramment utilisé pour le commerce pendant l'[[âge d'or de la voile]], en particulier par les marins de [[Nouvelle-Angleterre]] pour les courses transatlantiques ?
-
+Quel type de voilier, nom local de la [[goélette]], souvent utilisé pour le commerce et la pêche au XIXe siècle, est caractérisé par deux mâts ou plus et a été particulièrement populaire en [[Amérique du Nord]] ? <!-- score: 4 -->
 ###### Description
 
 Le mot "schooner" désigne un type de voilier, généralement équipé de deux ou trois mâts, qui a été largement utilisé à partir du XVIIe siècle pour le transport de marchandises et la pêche. 
