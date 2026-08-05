@@ -24,6 +24,7 @@ questions:
  - Qui a repris en 1999 le tube "You Will Forget" d'Irma Jackson en 1979 ?
 ---
 
+
 ![Image de Larusso](https://upload.wikimedia.org/wikipedia/commons/b/b0/Larusso_en_2011.png)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quelle émission de télévision [[Larusso]] est-elle révélée au grand p
 
 Avec quelle chanson [[Larusso]] a-t-elle remporté l'émission [[Mask Singer]] en 2019, en étant déguisée en panthère ?
 
-Quelle place a atteint [[Larusso]] dans le classement du single "[[Tu m'oublieras]]" lors de sa sortie en 1999 en France ?
+Quelle place a atteint [[Larusso]] dans le classement du single "[[Tu m'oublieras]]" lors de sa sortie en 1999 en France ? <!-- score: 5 -->
 
 ###### Description
 
