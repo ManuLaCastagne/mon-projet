@@ -26,12 +26,13 @@ questions:
   - Depuis 1825, quelle commune  du Pas-de-Calais, avoisinant Saint-Omer...
 ---
 
+
 ![Image de Arques](https://upload.wikimedia.org/wikipedia/commons/5/5d/Arques-la-Bataille_stadhuis.jpg)
 
 ![[Carte_Arques.png]]
 ###### Questions
 
-Dans quelle ville située en France, le [[Château d'Arques]] datant du XIIIe siècle, est-il un exemple notable d'architecture médiévale avec sa tour maîtresse quadrangulaire ?
+Dans quelle ville située en France, le [[Château d'Arques]] datant du XIIIe siècle, est-il un exemple notable d'architecture médiévale avec sa tour maîtresse quadrangulaire ? <!-- score: 5 -->
 
 Quelle commune des [[Hauts-de-France]], connue pour son musée consacré à la verrerie, se trouve à proximité de [[Saint-Omer]] ?
 
