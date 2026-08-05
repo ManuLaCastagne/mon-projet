@@ -20,20 +20,13 @@ questions:
  - Dans la [[mythologie grecque]], quelle gigantesque créature de bronze est un automate chargé de garder la Crète?
 ---
 
-
-
-
-
 ![Image de Talos](https://upload.wikimedia.org/wikipedia/commons/6/68/Rim_8_talos_missle_udvar_hazy_20040710_150926_1.jpg)
 
 ###### Questions
 
-Quelle créature mythologique en bronze, considérée comme le premier robot de la mythologie, protégeait l'île de [[Crète]] en faisant le tour de ses rivages trois fois par jour ?
-
-Quel personnage mythologique, vulnérable à un unique point faible caché dans sa cheville, fut vaincu par [[Médée]] selon certains récits de la [[mythologie grecque]] ?
+Quel personnage mythologique, vulnérable à un unique point faible caché dans sa cheville (et non le talon d'[[Achille]] !), fut vaincu par [[Médée]] selon certains récits de la [[mythologie grecque]] ? <!-- score: 5 -->
 
 Quel gardien de l'île de [[Crète]], dont le nom signifie "soleil" en [[grec ancien]], est associé à l'histoire de [[Jason]] et des [[Argonautes]] lors de leur retour de la [[Toison d'Or]] ? <!-- score: 5 -->
-
 ###### Description
 
 Dans la [[mythologie grecque]], [[Talos]] est un géant de bronze, souvent considéré comme l'un des premiers automates ou robots. 
