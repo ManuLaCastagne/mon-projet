@@ -22,7 +22,6 @@ questions:
  - Dans quelle série télévisée créée en 1999, avec Jean-François Balmer dans le rôle du commandant Rovère, Anne Richard incarne-t-elle la juge Nadia Lintz?
 ---
 
-
 ![Image de Boulevard du Palais](https://upload.wikimedia.org/wikipedia/commons/2/2e/7_Boulevard_du_Palais_75004_Paris_France.jpg)
 
 ###### Questions
@@ -30,9 +29,6 @@ questions:
 Quelle série policière française, diffusée pour la première fois en [[1999]] sur [[France 2]], met en scène les enquêtes du juge [[Nicolas Rovère]] et de la lieutenant [[Chantal Lechat]] ?
 
 Quel programme télévisé a pour décor principal le [[Palais de Justice]] de [[Paris]] et a vu apparaitre son dernier épisode en [[2017]] après 18 ans de diffusion ?
-
-Quel titre de série fait référence à une célèbre artère parisienne, connue pour relier des bâtiments importants du système judiciaire français, et a été incarné à l'écran par des acteurs tels que [[Jean-François Balmer]] et [[Anne Richard]] ? <!-- score: 5 -->
-
 ###### Description
 
 [[Boulevard du Palais]] est une série télévisée policière française diffusée sur [[France 2]] de 1999 à 2017, mettant en scène le duo du juge [[Nadia Lintz]] et du légiste [[Philippe Rovère]]. 
