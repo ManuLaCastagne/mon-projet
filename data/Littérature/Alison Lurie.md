@@ -34,7 +34,7 @@ indice_6:
 
 ###### Questions
 
-En 1985, quelle romancière reçoit le prix Pulitzer pour "[[Liaisons étrangères]]" qui met en scène deux universitaires américains en congé à Londres? <!-- score: 3 -->
+En 1985, quelle romancière reçoit le prix Pulitzer pour "[[Liaisons étrangères]]" qui met en scène deux universitaires américains en congé à Londres? <!-- score: 2 -->
 
 Qui est l'auteure du livre intime de 1984, "[[The Truth About Lorin Jones]]", qui explore la vie d'une femme artiste fictive et a été salué pour son exploration des rôles de genre ?
 
