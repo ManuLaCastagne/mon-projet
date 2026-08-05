@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Philippe le Hardi](https://upload.wikimedia.org/wikipedia/commons/b/b6/Flemish_School_-_Lille_-_Philip_II%2C_Duke_of_Burgundy.jpg)
 
 ###### Questions
 
 Quel duc de [[Bourgogne]] a fondé l’[[Ordre de la Toison d’or]] en [[1430]] pour renforcer les liens de chevalerie dans ses territoires ?
 
-Quel frère du roi [[Charles V]] de France a signé en [[1364]] le traité de conscient au nom de son frère, obtenant ainsi le titre de duc de [[Bourgogne]] ? <!-- score: 3 -->
+Quel frère du roi [[Charles V]] de France a signé en [[1364]] le traité de conscient au nom de son frère, obtenant ainsi le titre de duc de [[Bourgogne]] ? <!-- score: 2 -->
 
 Quel membre de la dynastie [[Valois-Bourgogne]] a hérité du comté de [[Flandre]] en [[1384]] par son mariage avec [[Marguerite III de Flandre]] ?
 
