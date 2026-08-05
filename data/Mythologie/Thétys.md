@@ -18,32 +18,17 @@ indice_6:
   - mythe grec
 ---
 
-
-
-
-
-
-
 ![Image de Thétys](https://upload.wikimedia.org/wikipedia/commons/c/c3/Thetys_vagina_2709281.jpg)
 
 ###### Questions
 
-Quelle néréide a tenu son fils [[Achille]] par le talon lorsqu'elle l'a plongé dans le Styx pour le rendre insensible à toute blessure ?
-
-Quel personnage de la [[mythologie grecque]], mère du héros [[Achille]], a essayé de le rendre invulnérable en le plongeant dans les eaux du fleuve [[Styx]] ? 
+Quelle néréide a tenu son fils [[Achille]] par le talon lorsqu'elle l'a plongé dans le [[Styx]] pour le rendre insensible à toute blessure ? <!-- score: 5 -->
 
 Dans la [[mythologie grecque]], quelle Titanide, fille d'[[Ouranos]] et de [[Gaïa]], personnifie la fécondité de la mer ? <!-- score: 4 -->
 
 Quel personnage de la [[mythologie grecque]], une des [[Néréides]], a été mariée à [[Pélée]] au cours d'une union célébrée en grande pompe, occasion durant laquelle [[Éris]] a jeté la fameuse [[pomme de discorde]] ?
 
-Quel personnage mythologique, fille de [[Nérée]] et de [[Doris]], est connu pour avoir eu le pouvoir de métamorphose et pour avoir été à l'origine d'une prophétie concernant son fils, prédisant qu'il serait plus grand que son père ? <!-- score: 6 -->
-
 Quelle [[Titane]] de la [[mythologie grecque]], épouse de l'[[Océan]] et mère des [[Océanides]], partage son nom avec une lune de [[Saturne]] découverte en 1684 ? <!-- score: 3 -->
-
-Quel est le nom de la déesse marine grecque qui a été missionnée par [[Héra]] pour prendre soin d'[[Héphaïstos]] après sa chute du [[Mont Olympe]] ?
-
-Dans la [[mythologie grecque]], quelle [[Téthys]] est connue pour avoir refusé de céder son trône à son fils [[Zeus]], entraînant son emprisonnement au [[Tartare]] ?
-
 ###### Description
 
 [[Thétys]] est une [[Titanide]] dans la [[mythologie grecque]], fille d'[[Ouranos]] et de [[Gaïa]], et sœur épouse d'[[Océanos]]. 
