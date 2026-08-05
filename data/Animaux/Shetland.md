@@ -17,6 +17,7 @@ questions:
  - Quelle race de poney originaire d'une île au nord-est de l'Ecosse…
 ---
 
+
 ![Image de Shetland](https://upload.wikimedia.org/wikipedia/commons/0/0e/Adelie_penguins_in_the_South_Shetland_Islands.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quel groupe d'îles abrite des poneys connus pour leur taille réduite et leur r
 
 Dans quelle région du nord de l'[[Écosse]] trouve-t-on une race de moutons, les [[Shetland Sheepdog]], qui a été développée pour la première fois à la fin des années [[1800]] ?
 
-Quel archipel est le foyer d'une race de chiens, souvent utilisée pour la garde des troupeaux de moutons, dont le nom reprend celui de cet ensemble d'îles écossaises ?
+Quel archipel est le foyer d'une race de chiens, souvent utilisée pour la garde des troupeaux de moutons, dont le nom reprend celui de cet ensemble d'îles écossaises ? <!-- score: 4 -->
 
 ###### Description
 
