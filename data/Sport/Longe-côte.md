@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Longe-côte](https://upload.wikimedia.org/wikipedia/commons/b/b9/LL-Q150_%28fra%29-WikiLucas00-longe-c%C3%B4te.wav)
 
 ###### Questions
 
 Quel sport, inventé sur les plages de [[Dunkerque]] en [[2005]], consiste à marcher dans l'eau avec une pagaie pour se maintenir en équilibre ?
 
-Quel sport aquatique a vu la création de sa première fédération, la [[Fédération Française de Longe-Côte – Marche Aquatique]], en [[2012]] ?
+Quel sport aquatique a vu la création de sa première fédération, la [[Fédération Française de Longe-Côte – Marche Aquatique]], en [[2012]] ? <!-- score: 5 -->
 
 Quel sport, inscrit au patrimoine culturel immatériel français en [[2021]], est pratiqué dans l'eau jusqu'à la taille ou la poitrine ? <!-- score: 4 -->
 
