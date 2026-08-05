@@ -26,13 +26,14 @@ indice_6 :
 
 
 
+
 ![[Carte_Thury.png]]
 
 ###### Questions
 
 Dans quelle commune française, située dans le [[Calvados]] en [[Normandie]], peut-on découvrir le premier traceur historique du [[port de Caen-Ouistreham]], fondé en [[1857]] ? 
 
-Quel village de la région [[Bourgogne-Franche-Comté]] abrite un écomusée autour de l'ancienne mine de [[charbon de Blanzy]] ayant cessé ses activités en [[1877]] ? 
+Quel village de la région [[Bourgogne-Franche-Comté]] abrite un écomusée autour de l'ancienne mine de [[charbon de Blanzy]] ayant cessé ses activités en [[1877]] ? <!-- score: 5 -->
 
 Quelle commune fondée par les [[Thuréens]] en [[1024]] est réputée pour son patrimoine bâti et naturel dans le département de la [[Nièvre]] ? <!-- score: 2 -->
 
