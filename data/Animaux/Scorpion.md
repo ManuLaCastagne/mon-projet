@@ -17,13 +17,14 @@ questions:
  - Quittant la nuit les pierres ou les écorces sous lesquelles je me cache dans la journée, je pars alors chasser mes proies, que je saisis avec mes pinces. Arthropode dont la partie segmentée...
 ---
 
+
 ![Image de Scorpion](https://upload.wikimedia.org/wikipedia/commons/0/06/Buthus_ibericus.jpg)
 
 ###### Questions
 
 Quel animal possède une paire de pinces et une queue souvent utilisée pour injecter du venin, généralement utilisée pour la chasse et la défense ?
 
-Quel arthropode, connu pour sa capacité à survivre à de fortes radiations, a été découvert pour la première fois dans les fossiles datant de plus de [[435 millions d'années]] ?
+Quel arthropode, connu pour sa capacité à survivre à de fortes radiations, a été découvert pour la première fois dans les fossiles datant de plus de [[435 millions d'années]] ? <!-- score: 4 -->
 
 Quel membre du groupe des [[arachnides]], distinct par sa queue segmentée finissant par un aiguillon, est souvent associé à des mythes dans diverses cultures comme le signe du [[zodiaque]] ?
 
