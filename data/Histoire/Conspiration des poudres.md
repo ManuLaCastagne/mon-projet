@@ -22,18 +22,11 @@ questions:
  - En 1605, quel complot, organisé par des catholiques anglais dans le but de faire sauter le Parlement, fut déjoué ?
 ---
 
-
-
 ![Image de Conspiration des poudres](https://upload.wikimedia.org/wikipedia/commons/c/c2/Gunpowder_Plot_conspirators.jpg)
 
 ###### Questions
 
-Quel événement historique survenu en [[1605]] au [[Royaume-Uni]] visait à faire exploser la [[Chambre des lords]] pour tuer le roi [[Jacques Ier d'Angleterre]] ? <!-- score: 5 -->
-
-Quel complot a été découvert et déjoué la nuit du 4 au 5 novembre [[1605]], impliquant des conspirateurs catholiques menés par [[Robert Catesby]] ?
-
-Comment s'appelle l'événement commémoré chaque année lors de la [[Guy Fawkes Night]] au [[Royaume-Uni]], en mémoire d'un complot déjoué contre le Parlement anglais ?
-
+Quel événement historique fomenté par des catholiques menés par [[Robert Catesby]] est survenu la nuit du 4 au 5 novembre [[1605]] au [[Royaume-Uni]] et visait à faire exploser la [[Chambre des lords]] pour tuer le roi [[Jacques Ier d'Angleterre]] ? <!-- score: 5 -->
 ###### Description
 
 La [[Conspiration des poudres]], également connue sous le nom de la "Conspiration des poudres à canon", est une tentative échouée menée par un groupe de catholiques britanniques pour assassiner le roi [[Jacques Ier d'Angleterre]] en 1605. Le complot, orchestré par [[Robert Catesby]], avait pour objectif de faire exploser la [[Chambre des lords]] le 5 novembre, afin de rétablir un monarque catholique sur le trône.
