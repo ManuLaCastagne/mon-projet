@@ -20,6 +20,7 @@ indice_6 :
   - Office
 ---
 
+
 ![Image de Microsoft](https://upload.wikimedia.org/wikipedia/commons/3/30/Building92microsoft.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel géant de la technologie a établi un laboratoire de recherche en intellige
 
 Quel acteur majeur du secteur technologique a conçu le langage de programmation [[Q#]], utilisé pour la programmation quantique, lancé en [[2017]] ?
 
-Quelle entreprise a racheté la société de reconnaissance vocale [[Nuance Communications]] pour près de 20 milliards de dollars en [[2021]] ?
+Quelle entreprise a racheté la société de reconnaissance vocale [[Nuance Communications]] pour près de 20 milliards de dollars en [[2021]] ? <!-- score: 5 -->
 
 ###### Description
 
