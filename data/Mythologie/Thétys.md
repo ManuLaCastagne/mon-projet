@@ -23,6 +23,7 @@ indice_6:
 
 
 
+
 ![Image de Thétys](https://upload.wikimedia.org/wikipedia/commons/c/c3/Thetys_vagina_2709281.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quelle néréide a tenu son fils [[Achille]] par le talon lorsqu'elle l'a plong�
 
 Quel personnage de la [[mythologie grecque]], mère du héros [[Achille]], a essayé de le rendre invulnérable en le plongeant dans les eaux du fleuve [[Styx]] ? 
 
-Dans la [[mythologie grecque]], quelle Titanide, fille d'[[Ouranos]] et de [[Gaïa]], personnifie la fécondité de la mer ?
+Dans la [[mythologie grecque]], quelle Titanide, fille d'[[Ouranos]] et de [[Gaïa]], personnifie la fécondité de la mer ? <!-- score: 4 -->
 
 Quel personnage de la [[mythologie grecque]], une des [[Néréides]], a été mariée à [[Pélée]] au cours d'une union célébrée en grande pompe, occasion durant laquelle [[Éris]] a jeté la fameuse [[pomme de discorde]] ?
 
