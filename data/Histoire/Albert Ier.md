@@ -22,13 +22,14 @@ questions:
  - Quel roi des Belges, né en avril 1875, a été surnommé le Roi Chevalier pour s'être illustré lors de la 1re Guerre mondiale?
 ---
 
+
 ![Image de Albert Ier](https://upload.wikimedia.org/wikipedia/commons/c/ca/38_cours_Albert-Ier%2C_Paris_8e.jpg)
 
 ###### Questions
 
 Quel monarque a régné sur le [[Royaume de Belgique]] pendant la [[Première Guerre mondiale]] et est célèbre pour avoir résisté à l'invasion allemande en 1914 ?
 
-Quel prince de [[Monaco]], connu pour ses contributions à l'exploration océanographique, a fondé le Musée [[océanographique]] de Monaco en 1910 ?
+Quel prince de [[Monaco]], connu pour ses contributions à l'exploration océanographique, a fondé le Musée [[océanographique]] de Monaco en 1910 ? <!-- score: 3 -->
 
 Quel roi a participé aux négociations du traité de paix de Versailles en 1919 en tant que chef d'État belge ?
 
