@@ -22,6 +22,7 @@ indice_6:
   - Moon Safari
 ---
 
+
 ![Image de Air (groupe)](https://upload.wikimedia.org/wikipedia/commons/9/9d/Groupe_Royal_Air_Maroc.png)
 
 ###### Questions
@@ -30,7 +31,7 @@ En 2001, à quel duo de musique électronique, formé par les Versaillais Jean-B
 
 Quel duo français, formé de [[Nicolas Godin]] et [[Jean-Benoît Dunckel]], est connu pour avoir sorti l'album "Moon Safari" en 1998 ?
 
-Quel groupe musical a collaboré avec [[Charlotte Gainsbourg]] pour la bande originale du film "[[Virgin Suicides]]" en 1999 ?
+Quel groupe musical a collaboré avec [[Charlotte Gainsbourg]] pour la bande originale du film "[[Virgin Suicides]]" en 1999 ? <!-- score: 4 -->
 
 Quel groupe a représenté la France lors du festival de [[Coachella]] en 2004 et est connu pour son style [[électro|électronique]] et [[downtempo]] ?
 
