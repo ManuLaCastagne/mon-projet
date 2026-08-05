@@ -22,19 +22,11 @@ indice_6 :
   - Starfleet
 ---
 
-
-
-
 ![Image de Star Trek](https://upload.wikimedia.org/wikipedia/commons/1/16/The_Shuttle_Enterprise_-_GPN-2000-001363.jpg)
 
 ###### Questions
 
-Quel univers de science-fiction a introduit pour la première fois dans les années 1960 un dispositif de communication sans fil qui a inspiré les créateurs du téléphone portable moderne ?
-
-Quel film sorti en 1979 a marqué le début de la transition d'une série télévisée emblématique des années 1960 vers le grand écran, et a été réalisé par [[Robert Wise]] ? <!-- score: 2 -->
-
-Quelle franchise de science-fiction très populaire a pour la première fois en 1996 vu l'un de ses acteurs, [[William Shatner]], voler aux commandes d'un [[avion simulé]] dans l'espace lors d'un vol simulé de la [[NASA]] ?
-
+Quel film sorti en 1979 a marqué le début de la transition d'une série télévisée emblématique de science-fiction des années 1960 vers le grand écran, et a été réalisé par [[Robert Wise]] ? <!-- score: 2 -->
 ###### Description
 
 [[Star Trek]] est une franchise emblématique de science-fiction, née en 1966, avec la diffusion de la première série télévisée créée par [[Gene Roddenberry]]. 
