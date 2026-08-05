@@ -17,6 +17,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Hattéria](https://upload.wikimedia.org/wikipedia/commons/7/75/Sphenodon_punctatus_in_Waikanae%2C_New_Zealand.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Comment s'appelle le reptile endémique de [[Nouvelle-Zélande]] qui appartient 
   
 Quel est l'autre nom de l'espèce également connue sous le nom de [[Sphenodon]] ?  
   
-Quel est le seul représentant vivant actuel des [[Rhynchocephalia]], un ordre de reptiles préhistoriques ? <!-- score: 2 -->
+Quel est le seul représentant vivant actuel des [[Rhynchocephalia]], un ordre de reptiles préhistoriques ? <!-- score: 4 -->
 
 ###### Description
 
