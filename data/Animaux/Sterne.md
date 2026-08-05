@@ -17,19 +17,11 @@ questions:
  - Quel palmipède est aussi appelée "hirondelle de mer" ?
 ---
 
-
-
-
 ![Image de Sterne](https://upload.wikimedia.org/wikipedia/commons/c/c1/Maurice_Sterne_-_Salome_-_Apr_1923_Shadowland.jpg)
 
 ###### Questions
 
-Quel oiseau marin, connu pour ses migrations exceptionnelles, parcourt chaque année la distance la plus longue entre les régions arctiques et antarctiques ?
-
-Quel oiseau, particulièrement vénéré par les ornithologues, se distingue par sa capacité à parcourir plus de 70 000 km chaque année en suivant les saisons ?
-
-Quel oiseau, célèbre pour sa migration de longue distance documentée pour la première fois en [[1982]], peut vivre jusqu'à 34 ans dans des conditions optimales ? <!-- score: 5 -->
-
+Quel oiseau marin, connu pour ses migrations exceptionnelles, parcourt chaque année jusqu'à 70 000 km entre les régions arctiques et antarctiques, et peut vivre jusqu'à 34 ans ? <!-- score: 5 -->
 ###### Description
 
 Les sternes sont des oiseaux marins élégants appartenant à la famille des [[Laridae]], connues pour leurs longues ailes pointues et leurs longues queues fourchues. 
