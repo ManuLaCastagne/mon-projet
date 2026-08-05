@@ -24,18 +24,11 @@ questions:
  - Dans quelle chanson populaire, sur la route de quelle ville un cantonnier se promène ?
 ---
 
-
-
 ![Image de Sur la route de Louviers](https://upload.wikimedia.org/wikipedia/commons/0/0e/27375-Louviers-Sols.png)
 
 ###### Questions
 
-Dans quelle chanson de [[Guy Béart]], sortie en 1965, le protagoniste rencontre-t-il une série de personnages curieux en se promenant dans une ville française ?
-
-Quel titre a été rendu célèbre par [[Françoise Hardy]] en 1966, bien qu'il ait été écrit par [[Guy Béart]] initialement ?
-
-Quelle chanson humoristique décrit une série de situations insolites rencontrées lors d'une promenade fictive à [[Louviers]] dans les années 1960 ? <!-- score: 5 -->
-
+Dans quelle chanson de [[Guy Béart]], sortie en 1965 et rendue célèbre par [[Françoise Hardy]] en 1966, le protagoniste rencontre-t-il une série de personnages curieux en se promenant dans une ville française ? <!-- score: 5 -->
 ###### Description
 
 [[Sur la route de Louviers]] est une chanson publiée en 1962 par l'artiste français [[Gérard Bourgeois]], avec des paroles écrites par [[Jean-Max Rivière]]. 
