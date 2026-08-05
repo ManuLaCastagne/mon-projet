@@ -28,6 +28,7 @@ questions:
 ---
 
 
+
 ![Image de Noirmoutier](https://upload.wikimedia.org/wikipedia/commons/4/40/Noirmoutier_Island_SPOT_1275.jpg)
 
 ![[Carte_Noirmoutier.png]]
@@ -38,7 +39,7 @@ questions:
 
 Sur quelle [[île]] se trouve le site unique des marais salants utilisés depuis le [[VIe siècle]] où est récoltée la célèbre [[fleur de sel]] ?
 
-Quelle destination touristique possède la route submersible appelée [[Passage du Gois]], praticable uniquement à marée basse, reliant [[Beauvoir-sur-Mer]] et l'île depuis 1840 ? <!-- score: 2 -->
+Quelle destination touristique possède la route submersible appelée [[Passage du Gois]], praticable uniquement à marée basse, reliant [[Beauvoir-sur-Mer]] et l'île depuis 1840 ? <!-- score: 3 -->
 
 ###### Description
 
