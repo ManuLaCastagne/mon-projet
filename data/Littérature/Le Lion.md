@@ -20,13 +20,14 @@ indice_6 :
   - The Lion, the Witch and the Wardrobe
 ---
 
+
 ![Image de Le Lion](https://upload.wikimedia.org/wikipedia/commons/5/52/Lion_male.jpg)
 
 ###### Questions
 
 Quel est le titre du roman de [[Joseph Kessel]] publié en [[1958]] dans lequel une jeune fille vit une amitié particulière avec un animal en Afrique ?
 
-Quel animal est le sujet central du livre [[Le Lion]] de [[Joseph Kessel]], qui explore la relation entre une jeune fille et la faune sauvage dans le [[Kenya]] des années [[1950]] ?
+Quel animal est le sujet central du livre [[Le Lion]] de [[Joseph Kessel]], qui explore la relation entre une jeune fille et la faune sauvage dans le [[Kenya]] des années [[1950]] ? <!-- score: 5 -->
 
 Quel est le symbole de l'ouvrage publié par [[Joseph Kessel]] en [[1958]], qui représente la force et la liberté dans la savane africaine ?
 
