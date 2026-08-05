@@ -26,12 +26,13 @@ questions:
  - Où le mont Erebus culmine-t-il à 3794 m d'altitude?
 ---
 
+
 ![Image de Antarctique](https://upload.wikimedia.org/wikipedia/commons/e/e0/Antarctica_6400px_from_Blue_Marble.jpg)
 
 ![[Carte_Antarctique.png]]
 ###### Questions
 
-Quel continent a été le théâtre de l'expédition historique de [[Roald Amundsen]] en 1911, lorsqu'il est devenu le premier homme à atteindre le [[pôle Sud]] ?
+Quel continent a été le théâtre de l'expédition historique de [[Roald Amundsen]] en 1911, lorsqu'il est devenu le premier homme à atteindre le [[pôle Sud]] ? <!-- score: 6 -->
 
 Sur quel continent a été découverte en 1984 une météorite martienne nommée [[ALH 84001]], qui a alimenté des théories sur la vie sur [[Mars]] ?
 
