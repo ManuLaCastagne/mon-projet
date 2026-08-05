@@ -24,11 +24,12 @@ questions:
  - Pièce de théâtre créée en 1730, je commence par cette réplique de Sylvia à sa suivante Lisette  "Mais, encore une fois, de quoi vous mêlez-vous?  Pourquoi répondre de mes sentiments?"
 ---
 
+
 ![Image de Le Jeu de l'amour et du hasard](https://upload.wikimedia.org/wikipedia/commons/3/35/MarivauxGameLoveChance.jpg)
 
 ###### Questions
 
-Quelle pièce de théâtre écrite par [[Marivaux]] en 1730 explore les thèmes du travestissement et de l'amour à travers l'échange de rôles entre maîtres et valets ?
+Quelle pièce de théâtre écrite par [[Marivaux]] en 1730 explore les thèmes du travestissement et de l'amour à travers l'échange de rôles entre maîtres et valets ? <!-- score: 9 -->
 
 Quel chef-d'œuvre de la comédie française du [[XVIIIe siècle]], écrit par [[Marivaux]], met en scène les personnages de [[Dorante]], [[Silvia]], [[Arlequin]], et [[Lisette]] ?
 
