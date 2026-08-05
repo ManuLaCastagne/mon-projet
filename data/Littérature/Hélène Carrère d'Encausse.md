@@ -24,6 +24,7 @@ indice_6:
 ---
 
 
+
 ![Image de Hélène Carrère d'Encausse](https://upload.wikimedia.org/wikipedia/commons/2/24/H%C3%A9l%C3%A8ne_Carr%C3%A8re_d%E2%80%99Encausse_par_Claude_Truong-Ngoc_sept_2013.jpg)
 
 ###### Questions
