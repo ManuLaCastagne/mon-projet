@@ -20,19 +20,13 @@ questions:
  - Dans quelle forêt de l'Épire Zeus rendait-il ses oracles par l'intermédiaire des branches des chênes qui bruissaient ?
 ---
 
-
-
-
 ![Image de Forêt de Dodone](https://upload.wikimedia.org/wikipedia/commons/c/c6/La_Tailh%C3%A8de_-_De_la_m%C3%A9tamorphose_des_fontaines%2C_1895.djvu)
 
 ###### Questions
 
-Dans quelle [[forêt]] mythologique de la Grèce antique était situé l'un des plus anciens [[oracle]]s, connu pour ses prédictions faites par le bruit du vent dans les feuilles de chêne ? <!-- score: 3 -->
-
 Dans quel lieu mythologique [[Zeus]] était-il vénéré, notamment par des prêtres qui interprétaient le son du feuillage comme des messages divins ?
 
-Quelle célèbre [[forêt]] de la [[mythologie grecque]], mentionnée dès le VIIIe siècle av. J.-C. par [[Homère]] dans l'[[Iliade]], est associée à l'[[oracle]] de [[Dodone]] ? <!-- score: 5 -->
-
+Quelle célèbre [[forêt]] de la [[mythologie grecque]], mentionnée dès le VIIIe siècle av. J.-C. par [[Homère]] dans l'[[Iliade]], est associée à un oracle prédisant par le bruit du vent dans les feuilles de chêne ? <!-- score: 5 -->
 ###### Description
 
 La [[forêt de Dodone]], située en [[Épire]] dans l'actuelle Grèce, est célèbre pour avoir abrité l'un des plus anciens et vénérés sanctuaires dédiés à [[Zeus]]. 
