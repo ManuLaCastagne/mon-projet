@@ -16,6 +16,7 @@ indice_6 :
   - Bolivie
 ---
 
+
 ![Image de Quichua](https://upload.wikimedia.org/wikipedia/commons/7/78/JANETH_SALAZAR_GREFA_MUJER_KICHWA_AMAZONICA.jpg)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quelle langue indigène est parlée principalement en [[Équateur]] et dans cert
 
 Quel est le nom de la variante linguistique qui a des influences culturelles significatives chez les peuples autochtones vivant dans les Andes équatoriennes ?
 
-Quel terme est utilisé pour désigner l'une des langues officielles de plusieurs provinces de l'Équateur, héritée des cultures précolombiennes ?
+Quel terme est utilisé pour désigner l'une des langues officielles de plusieurs provinces de l'Équateur, héritée des cultures précolombiennes ? <!-- score: 4 -->
 
 ###### Description
 
