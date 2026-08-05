@@ -22,6 +22,7 @@ questions:
  - Quel homme politique a été interviewé, alors qu'il étudiait à l'ENA, 21 ans avant d'être nommé Premier ministre en 2017?
 ---
 
+
 ![Image de Edouard Philippe](https://upload.wikimedia.org/wikipedia/commons/4/4e/%C3%89douard_Philippe_2017.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel ancien Premier ministre français a été maire de [[Le Havre]] deux fois, 
 
 Quel homme politique a succédé à [[Bernard Cazeneuve]] dans ses fonctions, devenant Premier ministre de France sous la présidence de [[Emmanuel Macron]] en 2017 ?
 
-Qui est l'auteur du livre "Impressions et lignes claires" publié en 2021, un ouvrage qui partage ses réflexions sur sa période à [[Matignon]] ?
+Qui est l'auteur du livre "Impressions et lignes claires" publié en 2021, un ouvrage qui partage ses réflexions sur sa période à [[Matignon]] ? <!-- score: 5 -->
 
 ###### Description
 
