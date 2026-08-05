@@ -22,6 +22,7 @@ questions:
 
 
 
+
 ![Image de Forêt de Dodone](https://upload.wikimedia.org/wikipedia/commons/c/c6/La_Tailh%C3%A8de_-_De_la_m%C3%A9tamorphose_des_fontaines%2C_1895.djvu)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelle [[forêt]] mythologique de la Grèce antique était situé l'un des 
 
 Dans quel lieu mythologique [[Zeus]] était-il vénéré, notamment par des prêtres qui interprétaient le son du feuillage comme des messages divins ?
 
-Quelle célèbre [[forêt]] de la [[mythologie grecque]], mentionnée dès le VIIIe siècle av. J.-C. par [[Homère]] dans l'[[Iliade]], est associée à l'[[oracle]] de [[Dodone]] ? <!-- score: 4 -->
+Quelle célèbre [[forêt]] de la [[mythologie grecque]], mentionnée dès le VIIIe siècle av. J.-C. par [[Homère]] dans l'[[Iliade]], est associée à l'[[oracle]] de [[Dodone]] ? <!-- score: 5 -->
 
 ###### Description
 
