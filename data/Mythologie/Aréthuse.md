@@ -22,11 +22,12 @@ questions:
 
 
 
+
 ![Image de Aréthuse](https://upload.wikimedia.org/wikipedia/commons/c/c2/Ar%C3%A9thuse%2C_Legras.jpg)
 
 ###### Questions
 
-Quel personnage de la [[mythologie grecque]] a été poursuivi par le dieu-riverain [[Alphée]] à travers la mer Ionienne avant de se transformer en source en [[Sicile]]? <!-- score: 3 -->
+Quel personnage de la [[mythologie grecque]] a été poursuivi par le dieu-riverain [[Alphée]] à travers la mer Ionienne avant de se transformer en source en [[Sicile]]? <!-- score: 5 -->
 
 Quel nymphe a été transformée en source pour échapper à [[Apollon]] sur l'île d'[[Ortygie]]?
 
