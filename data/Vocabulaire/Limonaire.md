@@ -16,13 +16,14 @@ indice_6 :
   - automate musical
 ---
 
+
 ![Image de Limonaire]()
 
 ###### Questions
 
 Quel instrument musical mécanique décoratif était souvent utilisé dans les fêtes foraines et les carrousels au XIXe siècle pour créer une ambiance festive avec sa musique entraînante ?
 
-Quel est le nom de l'entreprise française fondée au XIXe siècle, célèbre pour avoir fabriqué des orgues mécaniques populaires dans les lieux publics de divertissement ?
+Quel est le nom de l'entreprise française fondée au XIXe siècle, célèbre pour avoir fabriqué des orgues mécaniques populaires dans les lieux publics de divertissement ? <!-- score: 4 -->
 
 Quel type d'orgue de foire, souvent associé aux [[fêtes foraines]] et aux carrousels, présente des figures animées et un riche décor orné pour attirer visuellement et auditivement le public ?
 
