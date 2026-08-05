@@ -25,6 +25,7 @@ questions:
  - On s'y promène, on y court.  Séparé des jardins de Kensington par le lac Serpentine et le Long Water, je suis…
 ---
 
+
 ![Image de Hyde Park](https://upload.wikimedia.org/wikipedia/commons/4/4d/London_Hyde_Park_riders-20130715-RM-130028.jpg)
 
 ![[Carte_Hyde Park.png]]
@@ -34,7 +35,7 @@ Quel parc a accueilli la première Exposition universelle, la [[Great Exhibition
 
 Dans quel parc se trouve la [[Serpentine Gallery]], inaugurée en 1970 ?
 
-Quel parc londonien a été le site du premier [[Grand Concert Proms]] en 1895 ?
+Quel parc londonien a été le site du premier [[Grand Concert Proms]] en 1895 ? <!-- score: 5 -->
 
 ###### Description
 
