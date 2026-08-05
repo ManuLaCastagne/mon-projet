@@ -19,6 +19,7 @@ questions:
 
 
 
+
 ![Image de Sterne](https://upload.wikimedia.org/wikipedia/commons/c/c1/Maurice_Sterne_-_Salome_-_Apr_1923_Shadowland.jpg)
 
 ###### Questions
@@ -27,7 +28,7 @@ Quel oiseau marin, connu pour ses migrations exceptionnelles, parcourt chaque an
 
 Quel oiseau, particulièrement vénéré par les ornithologues, se distingue par sa capacité à parcourir plus de 70 000 km chaque année en suivant les saisons ?
 
-Quel oiseau, célèbre pour sa migration de longue distance documentée pour la première fois en [[1982]], peut vivre jusqu'à 34 ans dans des conditions optimales ? <!-- score: 3 -->
+Quel oiseau, célèbre pour sa migration de longue distance documentée pour la première fois en [[1982]], peut vivre jusqu'à 34 ans dans des conditions optimales ? <!-- score: 5 -->
 
 ###### Description
 
