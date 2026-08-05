@@ -26,18 +26,14 @@ questions:
   - Depuis 1825, quelle commune  du Pas-de-Calais, avoisinant Saint-Omer...
 ---
 
-
 ![Image de Arques](https://upload.wikimedia.org/wikipedia/commons/5/5d/Arques-la-Bataille_stadhuis.jpg)
 
 ![[Carte_Arques.png]]
 ###### Questions
 
-Dans quelle ville située en France, le [[Château d'Arques]] datant du XIIIe siècle, est-il un exemple notable d'architecture médiévale avec sa tour maîtresse quadrangulaire ? <!-- score: 5 -->
+Dans quelle ville située dans les Hauts-de-France trouve-t-on un château datant du XIIIe siècle comme exemple notable d'architecture médiévale avec sa tour maîtresse quadrangulaire ? <!-- score: 5 -->
 
 Quelle commune des [[Hauts-de-France]], connue pour son musée consacré à la verrerie, se trouve à proximité de [[Saint-Omer]] ?
-
-En 1977, quelle ville a vu l'ouverture de la première usine française de production du [[Camembert Président]] par le groupe [[Lactalis]] ?
-
 ###### Description
 
 [[Géographie/Arques]], une commune située dans le département du [[Pas-de-Calais]], se distingue par sa proximité avec la majestueuse forêt d'[[Éperlecques]]. 
