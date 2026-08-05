@@ -21,6 +21,7 @@ indice_5:
 indice_6:
   - Sagaie et Feu
 ---
+
 ![[Pasted image 20260803213438.png]]
 ###### Questions
 
@@ -28,7 +29,7 @@ Dans quel film sorti en 1981, réalisé par [[Jean-Jacques Annaud]], les dialogu
 
 Quel film de 1981 est tiré d'un roman de [[J.-H. Rosny aîné]] se déroulant à l'époque préhistorique ?
 
-Dans quel film de Jean-Jacques Annaud [[Ron Perlman]] a fait ses débuts au cinéma en jouant le rôle d'un membre d'une tribu préhistorique ? <!-- score: 1 -->
+Dans quel film de Jean-Jacques Annaud [[Ron Perlman]] a fait ses débuts au cinéma en jouant le rôle d'un membre d'une tribu préhistorique ? <!-- score: 3 -->
 
 ###### Description
 
