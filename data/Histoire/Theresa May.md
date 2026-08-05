@@ -22,17 +22,11 @@ questions:
  - En juillet 2016, on est dans l'histoire très contemporaine, quelle femme politique succède à David Cameron au poste...
 ---
 
-
 ![Image de Theresa May](https://upload.wikimedia.org/wikipedia/commons/6/6f/Theresa_May_%282015%29_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel Premier ministre britannique a dansé sur scène au son de [[Dancing Queen]] d'[[ABBA]] lors d'une conférence du [[Parti conservateur britannique]] en [[2018]] ?
-
 Quelle Première ministre britannique a succédé à [[David Cameron]] après sa démission à la suite du référendum sur le [[Brexit]] en [[2016]] ? <!-- score: 2 -->
-
-Qui était à la tête du gouvernement britannique lors de la mise en œuvre officielle du [[Brexit]] le 29 mars [[2017]] en déclenchant l'article 50 du [[Traité sur l'Union européenne]] ?
-
 ###### Description
 
 [[Theresa May]] a été Première ministre du [[Royaume-Uni]] de 2016 à 2019, succédant à [[David Cameron]] après le référendum sur le Brexit. 
