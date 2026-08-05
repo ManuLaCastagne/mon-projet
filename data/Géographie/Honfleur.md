@@ -23,8 +23,6 @@ indice_6:
   - Côte Fleurie
 ---
 
-
-
 ![Image de Honfleur](https://upload.wikimedia.org/wikipedia/commons/e/e4/Looking_up_Rue_de_la_Chauss%C3%A9e_from_Rue_Notre-Dame%2C_Honfleur%2C_2024.jpg)
 
 ![[Carte_Honfleur.png]]
@@ -34,10 +32,7 @@ Quelle commune [[du Calvados]] abrite l'[[église Sainte-Catherine]], construite
 
 Quelle ville côtière est célèbre pour avoir abrité les peintres impressionnistes comme [[Claude Monet]] et [[Eugène Boudin]] et se trouve dans le département du [[Calvados]] ?
 
-Quel port historique est reconnu pour être le lieu d'où est parti [[Samuel de Champlain]] en 1608 pour fonder la ville de [[Québec]] ? <!-- score: 4 -->
-
-Quelle commune française a été un centre important pour le commerce de sel et de vins au XVIIe siècle, boostant ainsi son développement économique dans la région de [[Normandie]] ?
-
+Quel port historique de Normandie est reconnu pour être le lieu d'où est parti [[Samuel de Champlain]] en 1608 pour fonder la ville de [[Québec]] ? <!-- score: 4 -->
 ###### Description
 
 [[Honfleur]] est une charmante commune située dans le département du [[Calvados]], en [[Normandie]], à l'embouchure de la [[Seine]]. 
