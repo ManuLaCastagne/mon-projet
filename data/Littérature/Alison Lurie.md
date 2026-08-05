@@ -29,11 +29,12 @@ indice_6:
 
 
 
+
 ![Image de Alison Lurie](https://upload.wikimedia.org/wikipedia/en/1/15/Alison_Lurie%2C_1981.jpg)
 
 ###### Questions
 
-En 1985, quelle romancière reçoit le prix Pulitzer pour "[[Liaisons étrangères]]" qui met en scène deux universitaires américains en congé à Londres? <!-- score: 2 -->
+En 1985, quelle romancière reçoit le prix Pulitzer pour "[[Liaisons étrangères]]" qui met en scène deux universitaires américains en congé à Londres? <!-- score: 3 -->
 
 Qui est l'auteure du livre intime de 1984, "[[The Truth About Lorin Jones]]", qui explore la vie d'une femme artiste fictive et a été salué pour son exploration des rôles de genre ?
 
