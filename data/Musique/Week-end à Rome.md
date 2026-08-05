@@ -24,11 +24,12 @@ questions:
  - Qui apparaît en serveuse dans mon clip.  Evoquant "la douceur de vivre" et l'envie de "coincer la bulle dans ta bulle", je figure...
 ---
 
-![Image de Week-end à Rome](https://upload.wikimedia.org/wikipedia/commons/e/e7/The_comic_history_of_Rome_%28IA_comichistoryofro00berich%29.pdf)
+
+![Image de Week-end à Rome](https://upload.wikimedia.org/wikipedia/commons/e/e7/The_comic_history_of_Rome_%28IA_comichistoryofro00berich%29.pdf)
 
 ###### Questions
 
-Quel est le titre de la chanson interprétée par [[Etienne Daho]] sortie en 1984 qui évoque une escapade amoureuse dans la capitale italienne ?
+Quel est le titre de la chanson interprétée par [[Etienne Daho]] sortie en 1984 qui évoque une escapade amoureuse dans la capitale italienne ? <!-- score: 9 -->
 
 Dans quel morceau, publié en 1984, le chanteur français [[Etienne Daho]] souhaite-t-il passer un moment romantique dans une célèbre ville d'[[Italie]] ?
 
