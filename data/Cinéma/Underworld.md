@@ -23,11 +23,12 @@ indice_6:
 ---
 
 
+
 ![Image de Underworld](https://upload.wikimedia.org/wikipedia/commons/c/c4/Underworld_%28223233%29.jpg)
 
 ###### Questions
 
-Dans quelle série de films, dont le dernier en date est sorti en 2017, [[Kate Beckinsale]] incarne-t-elle une guerrière vampire luttant contre les Lycans ?
+Dans quelle série de films, dont le dernier en date est sorti en 2017, [[Kate Beckinsale]] incarne-t-elle une guerrière vampire luttant contre les Lycans ? <!-- score: 4 -->
 
 ###### Description
 
