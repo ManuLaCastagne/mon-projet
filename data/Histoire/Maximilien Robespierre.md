@@ -20,6 +20,7 @@ indice_6 :
   - Montagnard
 ---
 
+
 ![Image de Robespierre](https://upload.wikimedia.org/wikipedia/commons/0/05/L%27execution_de_Maximilien_de_Robespierre_a_la_guillotine.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel homme politique français, surnommé "[[l'Incorruptible]]", a joué un rôl
 
 Quel membre influent du [[Comité de salut public]] a été exécuté par ses pairs le 28 juillet [[1794]] ? 
 
-Quel avocat, né à [[Arras]] en [[1758]], est devenu une figure emblématique de la [[Révolution française]] avant de tomber en disgrâce ?
+Quel avocat, né à [[Arras]] en [[1758]], est devenu une figure emblématique de la [[Révolution française]] avant de tomber en disgrâce ? <!-- score: 5 -->
 
 ###### Description
 
