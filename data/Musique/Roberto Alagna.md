@@ -24,17 +24,13 @@ questions:
  - En 2018, quel ténor franco-italien a chanté sur scène avec sa femme...
 ---
 
-
 ![Image de Roberto Alagna](https://upload.wikimedia.org/wikipedia/commons/1/18/ALAGNA-24x30-2004b.jpg)
 
 ###### Questions
 
-Quelle célebration mondiale a vu [[Roberto Alagna]] chanter l'[[Ave Maria]] de [[Schubert]] dans la [[Basilique Saint-Pierre]] au [[Vatican]] en 1999 ? 
+Qui a chanté l'[[Ave Maria]] de [[Schubert]] dans la [[Basilique Saint-Pierre]] au [[Vatican]] en 1999 ? <!-- score: 5 -->
 
-Quel événement télévisé a propulsé [[Roberto Alagna]] sur le devant de la scène lorsqu'il a remporté le concours de [[Pavarotti International Voice Competition]] en 1988 ? <!-- score: 5 -->
-
-Dans quel opéra français [[Roberto Alagna]] a-t-il fait ses débuts à l'[[Opéra Bastille]] en incarnant [[Rodolpho]] dans [[La Bohème]] de [[Puccini]] en 1993 ?
-
+Quel ténor franco-italien a fait ses débuts à l'[[Opéra Bastille]] en incarnant [[Rodolpho]] dans [[La Bohème]] de [[Puccini]] en 1993 ? <!-- score: 5 -->
 ###### Description
 
 [[Roberto Alagna]], né en 1963 à Clichy-sous-Bois, est un célèbre ténor franco-italien qui a acquis une renommée internationale grâce à son timbre puissant et expressif. 
