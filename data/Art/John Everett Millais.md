@@ -26,13 +26,14 @@ questions:
 ---
 
 
+
 ![Image de John Everett Millais](https://upload.wikimedia.org/wikipedia/commons/7/7a/John_Everett_Millais_-_The_Blind_Girl%2C_1854-56.jpg)
 
 ###### Questions
 
 Quel peintre de l'époque victorienne, membre fondateur de la [[Confrérie Préraphaélite]] en 1848, est connu pour sa célèbre œuvre "Ophelia" ?
 
-Quel artiste, devenu le plus jeune étudiant de l'[[Académie Royale]] de Londres à l'âge de onze ans en 1838, a continué à marquer le mouvement artistique de son temps ? <!-- score: 4 -->
+Quel artiste, devenu le plus jeune étudiant de l'[[Académie Royale]] de Londres à l'âge de onze ans en 1838, a continué à marquer le mouvement artistique de son temps ? <!-- score: 5 -->
 
 Quel peintre, ayant ensuite reçu le titre de [[Baronnet]] en 1885, est aussi reconnu pour son influence sur l'[[art]] britannique par ses tableaux émouvants et détaillés ?
 
