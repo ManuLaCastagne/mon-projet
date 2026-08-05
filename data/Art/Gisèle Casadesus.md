@@ -25,13 +25,14 @@ questions:
  - Quelle comédienne, fille d'un compositeur et mère d'un chef d'orchestre, joue dans la pièce "Le jubilé d'Agathe" l'année de ses 100 ans ?
 ---
 
-![Image de Gisèle Casadesus](https://upload.wikimedia.org/wikipedia/commons/4/44/Gis%C3%A8le_Casadesus_Cabourg_2012.jpg)
+
+![Image de Gisèle Casadesus](https://upload.wikimedia.org/wikipedia/commons/4/44/Gis%C3%A8le_Casadesus_Cabourg_2012.jpg)
 
 ###### Questions
 
 Quelle actrice française, née en 1914, est devenue sociétaire honoraire de la [[Comédie-Française]] à l'âge de 100 ans ?
 
-Qui a reçu la [[Légion d'honneur]] à cent ans pour sa longue carrière dans le théâtre et le cinéma, recevant officiellement cette distinction en 2014 ?
+Qui a reçu la [[Légion d'honneur]] à cent ans pour sa longue carrière dans le théâtre et le cinéma, recevant officiellement cette distinction en 2014 ? <!-- score: 5 -->
 
 Quelle actrice a joué aux côtés de [[Gérard Depardieu]] dans le film "[[La Tête en friche]]" sorti en 2010, marquant l'un de ses rôles marquants de la fin de sa carrière ?
 
