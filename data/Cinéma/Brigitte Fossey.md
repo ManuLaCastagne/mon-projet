@@ -20,18 +20,13 @@ indice_6 :
   - Actrice
 ---
 
-
-
 ![Image de Brigitte Fossey](https://upload.wikimedia.org/wikipedia/commons/8/8e/Brigitte_Fossey_C%C3%A9sars.jpg)
 
 ###### Questions
 
-Quel enfant-acteur a joué dans le film de guerre français «[[Jeux interdits]]» réalisé par [[René Clément]] en [[1952]] ? <!-- score: 3 -->
+Quel jeune fille a joué dans le film de guerre français «[[Jeux interdits]]» réalisé par [[René Clément]] en [[1952]] ? <!-- score: 3 -->
 
 Quelle actrice française a pris part au film «[[La Boum]]» réalisé par [[Claude Pinoteau]] en [[1980]], incarnant le rôle de la mère de [[Sophie Marceau]] ?
-
-Qui a fait ses débuts au cinéma à l'âge de cinq ans et a reçu un prix d'interprétation collectif au [[Festival de Cannes]] en [[1952]] ?
-
 ###### Description
 
 [[Brigitte Fossey]] est née à [[Tourcoing]], dans le nord de la France, en 1946, et elle a commencé sa carrière très jeune dans le film iconique "Jeux interdits" en 1952, alors qu'elle avait seulement 6 ans. 
