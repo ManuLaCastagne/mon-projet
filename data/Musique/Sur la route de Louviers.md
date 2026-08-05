@@ -25,6 +25,7 @@ questions:
 ---
 
 
+
 ![Image de Sur la route de Louviers](https://upload.wikimedia.org/wikipedia/commons/0/0e/27375-Louviers-Sols.png)
 
 ###### Questions
@@ -33,7 +34,7 @@ Dans quelle chanson de [[Guy Béart]], sortie en 1965, le protagoniste rencontre
 
 Quel titre a été rendu célèbre par [[Françoise Hardy]] en 1966, bien qu'il ait été écrit par [[Guy Béart]] initialement ?
 
-Quelle chanson humoristique décrit une série de situations insolites rencontrées lors d'une promenade fictive à [[Louviers]] dans les années 1960 ? <!-- score: 4 -->
+Quelle chanson humoristique décrit une série de situations insolites rencontrées lors d'une promenade fictive à [[Louviers]] dans les années 1960 ? <!-- score: 5 -->
 
 ###### Description
 
