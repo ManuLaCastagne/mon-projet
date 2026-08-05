@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Mariologie](https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Mariologie.ogg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel domaine théologique, officiellement reconnu par l’Église catholique lor
 
 Quelle branche spécialisée de la théologie a été consolidée par l'encyclique mariale [[Ad Caeli Reginam]] publiée par le [[Pape Pie XII]] en [[1954]] ? 
 
-Quel est le terme désignant l’étude des dogmes liés à [[Marie]], tels que sa conception immaculée, proclamée par le [[Pape Pie IX]] en [[1854]] ?
+Quel est le terme désignant l’étude des dogmes liés à [[Marie]], tels que sa conception immaculée, proclamée par le [[Pape Pie IX]] en [[1854]] ? <!-- score: 8 -->
 
 ###### Description
 
