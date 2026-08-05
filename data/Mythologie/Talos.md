@@ -23,6 +23,7 @@ questions:
 
 
 
+
 ![Image de Talos](https://upload.wikimedia.org/wikipedia/commons/6/68/Rim_8_talos_missle_udvar_hazy_20040710_150926_1.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quelle créature mythologique en bronze, considérée comme le premier robot de 
 
 Quel personnage mythologique, vulnérable à un unique point faible caché dans sa cheville, fut vaincu par [[Médée]] selon certains récits de la [[mythologie grecque]] ?
 
-Quel gardien de l'île de [[Crète]], dont le nom signifie "soleil" en [[grec ancien]], est associé à l'histoire de [[Jason]] et des [[Argonautes]] lors de leur retour de la [[Toison d'Or]] ? <!-- score: 2 -->
+Quel gardien de l'île de [[Crète]], dont le nom signifie "soleil" en [[grec ancien]], est associé à l'histoire de [[Jason]] et des [[Argonautes]] lors de leur retour de la [[Toison d'Or]] ? <!-- score: 5 -->
 
 ###### Description
 
