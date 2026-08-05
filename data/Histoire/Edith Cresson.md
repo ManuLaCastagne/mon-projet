@@ -22,13 +22,14 @@ questions:
  - Je fais partie des 1ers députés européens élus au suffrage universel direct en 1979. Devenant députée de la Vienne puis maire de Châtellerault, je suis nommée ministre de l'Agriculture en 1981.
 ---
 
+
 ![Image de Edith Cresson](https://upload.wikimedia.org/wikipedia/commons/0/08/%C3%89dith_Cresson_-_1995_%28cropped%29.jpg)
 
 ###### Questions
 
 Quel [[Premier ministre]] de France a été la première femme à occuper ce poste, nommée en [[1991]] par le [[Président]] [[François Mitterrand]] ? 
 
-Quelle politique française, en fonction de [[1991]] à [[1992]], a été la première et seule femme à avoir dirigé le gouvernement français jusqu'à aujourd'hui ? 
+Quelle politique française, en fonction de [[1991]] à [[1992]], a été la première et seule femme à avoir dirigé le gouvernement français jusqu'à aujourd'hui ? <!-- score: 9 -->
 
 Qui a été [[Commissaire européen]] à la [[Recherche, Science et Développement technologique]] à partir de [[1995]] après avoir été la première femme [[Premier ministre]] en France ?
 
