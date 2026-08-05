@@ -24,13 +24,14 @@ questions:
  - Quel artiste interprète en 1987 "A la queue leu leu" ?
 ---
 
-![Image de Bézu](https://upload.wikimedia.org/wikipedia/commons/6/66/B%C3%A9zu-Saint-Germain_OSM_01.png)
+
+![Image de Bézu](https://upload.wikimedia.org/wikipedia/commons/6/66/B%C3%A9zu-Saint-Germain_OSM_01.png)
 
 ###### Questions
 
 Quel chanteur français, connu pour sa chanson "[[À la queue leu leu]]" de 1986, officiait également en tant que gendarme avant de se consacrer pleinement à la musique ?
 
-Quel artiste ayant fait partie du groupe [[Les Musclés]] est devenu célèbre pour ses tubes humoristiques dans les années 1980 et 1990 ?
+Quel artiste ayant fait partie du groupe [[Les Musclés]] est devenu célèbre pour ses tubes humoristiques dans les années 1980 et 1990 ? <!-- score: 4 -->
 
 Quel musicien s'est produit sur scène avec [[Carlos]] et a contribué à l'album "[[Nous c'est nous]]" en 1991 ?
 
