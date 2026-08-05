@@ -22,18 +22,11 @@ questions:
  - En 2021, en remportant le USPGA,  quel golfeur américain surnommé Lefty, a remporté le 6e tournoi du grand chelem de sa carrière? (A 50 ans, 11 mois et 8 jours,  il est devenu le vainqueur le plus âgé d'un tournoi majeur.)
 ---
 
-
-
 ![Image de Phil Mickelson](https://upload.wikimedia.org/wikipedia/commons/e/e0/Phil_Mickelson_14.jpg)
 
 ###### Questions
 
-Quel golfeur américain a remporté [[The Open Championship]] en [[2013]]?
-
-Quel joueur a remporté six fois le [[major]] du [[PGA Tour]] entre [[2004]] et [[2021]]? <!-- score: 5 -->
-
-Quel célèbre golfeur a intégré le [[World Golf Hall of Fame]] en [[2012]]?
-
+Quel golfeur né à [[San Diego]], surnommé [[Lefty]], a remporté six fois le [[major]] du [[PGA Tour]] entre [[2004]] et [[2021]]? <!-- score: 5 -->
 ###### Description
 
 [[Phil Mickelson]], né le 16 juin 1970 à [[San Diego]], est un golfeur professionnel américain renommé pour ses performances exceptionnelles sur le [[PGA Tour]].
