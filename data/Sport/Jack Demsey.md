@@ -22,13 +22,14 @@ questions:
  - De 1919 à 1926, quel boxeur américain a été champion du monde des poids lourds ?
 ---
 
+
 ![Image de Jack Demsey](https://upload.wikimedia.org/wikipedia/commons/e/e4/Jack_Demsey%27s_Restauant_as_it_appeared_in_2011.jpg)
 
 ###### Questions
 
 Quel célèbre boxeur américain a été champion du monde poids lourds de [[1919]] à [[1926]] ?  
 
-Quel boxeur a été protagoniste d'un des premiers combats de l'histoire diffusés à la radio en [[1923]] ?  
+Quel boxeur a été protagoniste d'un des premiers combats de l'histoire diffusés à la radio en [[1923]] ? <!-- score: 4 -->
 
 Quel sportif légendaire a combattu dans le "Combat du siècle" contre [[Gene Tunney]] en [[1926]] ?
 
