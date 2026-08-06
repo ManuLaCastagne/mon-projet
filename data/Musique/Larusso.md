@@ -24,11 +24,12 @@ questions:
  - Qui a repris en 1999 le tube "You Will Forget" d'Irma Jackson en 1979 ?
 ---
 
+
 ![Image de Larusso](https://upload.wikimedia.org/wikipedia/commons/b/b0/Larusso_en_2011.png)
 
 ###### Questions
 
-Quelle chanteuse est révélée au grand public en 1998 grâce à sa reprise du titre "[[Tu m'oublieras]]" ? <!-- score: 5 -->
+Quelle chanteuse est révélée au grand public en 1998 grâce à sa reprise du titre "[[Tu m'oublieras]]" ? <!-- score: 9 -->
 ###### Description
 
 [[Larusso]], de son vrai nom [[Laetitia Serero]], est une chanteuse française née en 1979 à [[Paris]]. 
