@@ -20,17 +20,11 @@ indice_6 :
   - animateur télé français
 ---
 
-
 ![Image de Yann Barthès](https://upload.wikimedia.org/wikipedia/commons/c/cc/Yann_Barth%C3%A8s.jpg)
 
 ###### Questions
 
 Quel journaliste a commencé comme stagiaire pour [[Canal+]] avant de devenir l'un des visages emblématiques de [[Le Grand Journal]] et de la [[télévision française]] en 2004 ?
-
-Quel animateur a lancé l'émission [[Quotidien]] sur [[TMC]] en 2016 après avoir animé pendant douze ans sur [[Canal+]] ?
-
-Quel présentateur a remporté le [[Globe de Cristal]] du meilleur journaliste, homme de télé ou radio, à plusieurs reprises grâce à son approche innovante et décalée de l'information ? <!-- score: 5 -->
-
 ###### Description
 
 [[Yann Barthès]] est une figure emblématique des médias français, principalement connu pour avoir présenté l'émission "Le Petit Journal" sur [[Canal+]] de 2004 à 2016. 
