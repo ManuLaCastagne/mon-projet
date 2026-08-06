@@ -24,13 +24,14 @@ questions:
  - Avec quel personnage de super-héros, chaussé de charentaises et coiffé d'un béret, Marcel Gotlib...
 ---
 
+
 ![Image de Superdupont](https://upload.wikimedia.org/wikipedia/commons/a/a9/Anti-France_%28logo%29.png)
 
 ###### Questions
 
 Quel super-héros parodique défendant [[la France]] a été créé en 1972 par [[Marcel Gotlib]], [[Jacques Lob]] et [[Alexis]] ? 
 
-Quel personnage apparu pour la première fois dans les pages du magazine [[Pilote]] est connu pour porter un béret et une ceinture tricolore et pour combattre un groupe nommé [[Anti-France]] ?
+Quel personnage apparu pour la première fois dans les pages du magazine [[Pilote]] est connu pour porter un béret et une ceinture tricolore et pour combattre un groupe nommé [[Anti-France]] ? <!-- score: 6 -->
 
 Quel héros de bande dessinée incarne une version stéréotypée et patriotique d'un Français et a été introduit dans le numéro 743 de [[Pilote]] en 1972 ?
 
