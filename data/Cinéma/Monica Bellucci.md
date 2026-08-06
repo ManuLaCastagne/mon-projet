@@ -24,6 +24,7 @@ questions:
  - Quelle actrice italienne, née en 1964 dans la région de Pérouse, s'est fait connaître en France avec des films comme "Doberman" et "Irréversible" ?
 ---
 
+
 ![Image de Monica Bellucci](https://upload.wikimedia.org/wikipedia/commons/3/31/Monica_Bellucci%2C_Women%27s_World_Awards_2009_b.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel film de [[Francis Ford Coppola]], sorti en 1992, [[Monica Bellucci]] a
 
 En quelle année [[Monica Bellucci]] est-elle devenue la première femme italienne à présenter la cérémonie des César, qui récompense le cinéma français ?
 
-Quel rôle reconnaissable dans [[James Bond]], sorti en 2015, a été interprété par [[Monica Bellucci]], faisant d'elle la plus âgée des "Bond girls" de la franchise ?
+Quel rôle reconnaissable dans [[James Bond]], sorti en 2015, a été interprété par [[Monica Bellucci]], faisant d'elle la plus âgée des "Bond girls" de la franchise ? <!-- score: 5 -->
 
 ###### Description
 
