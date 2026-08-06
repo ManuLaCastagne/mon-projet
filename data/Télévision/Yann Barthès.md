@@ -20,6 +20,7 @@ indice_6 :
   - animateur télé français
 ---
 
+
 ![Image de Yann Barthès](https://upload.wikimedia.org/wikipedia/commons/c/cc/Yann_Barth%C3%A8s.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel journaliste a commencé comme stagiaire pour [[Canal+]] avant de devenir l'
 
 Quel animateur a lancé l'émission [[Quotidien]] sur [[TMC]] en 2016 après avoir animé pendant douze ans sur [[Canal+]] ?
 
-Quel présentateur a remporté le [[Globe de Cristal]] du meilleur journaliste, homme de télé ou radio, à plusieurs reprises grâce à son approche innovante et décalée de l'information ?
+Quel présentateur a remporté le [[Globe de Cristal]] du meilleur journaliste, homme de télé ou radio, à plusieurs reprises grâce à son approche innovante et décalée de l'information ? <!-- score: 5 -->
 
 ###### Description
 
