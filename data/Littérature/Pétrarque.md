@@ -25,7 +25,8 @@ questions:
 ---
 
 
-![Image de Pétrarque](https://upload.wikimedia.org/wikipedia/commons/5/5f/Statue_of_Francesco_Petrarca-_Uffizi_Gallery.jpg)
+
+![Image de Pétrarque](https://upload.wikimedia.org/wikipedia/commons/5/5f/Statue_of_Francesco_Petrarca-_Uffizi_Gallery.jpg)
 
 ###### Questions
 
