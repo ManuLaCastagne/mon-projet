@@ -24,19 +24,13 @@ questions:
  - Entre 1863 et 1875, à quel écrivain doit-on "Les Habits noirs" en 8 volumes ?
 ---
 
-
-
-
 ![Image de Paul Féval](https://upload.wikimedia.org/wikipedia/commons/f/fe/Paul_F%C3%A9val.jpg)
 
 ###### Questions
 
-Quel auteur de [[littérature]] est né à [[Rennes]] en 1816 et est célèbre pour ses romans de [[cape et d'épée]] ?  
+Quel auteur de [[littérature]] est né à [[Rennes]] en 1816, célèbre pour ses romans de [[cape et d'épée]] et ses romans-feuilletons, est l'auteur du roman ''[[Le Chevalier Ténèbre]]'' ? <!-- score: 5 -->
 
 Quel écrivain français a créé le personnage du [[Bossu]], dans un roman publié pour la première fois en 1857 ?  
-
-Qui est l'auteur du roman ''[[Le Chevalier Ténèbre]]'', une œuvre populaire du milieu du XIXe siècle ? <!-- score: 3 -->
-
 ###### Description
 
 [[Paul Féval]] est un auteur français du XIXe siècle, né en 1816 et décédé en 1887, réputé pour ses romans populaires, notamment dans le genre du roman-feuilleton. 
