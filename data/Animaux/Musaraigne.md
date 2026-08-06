@@ -17,11 +17,12 @@ questions:
  - Quel est  ce petit mammifère devant son nom au latin pour "souris-araignée" et pourvu d'un museau  pointu ?
 ---
 
+
 ![Image de Musaraigne](https://upload.wikimedia.org/wikipedia/commons/1/1d/4_shrews.jpg)
 
 ###### Questions
 
-Quel petit mammifère insectivore,  souvent confondu avec un rongeur bien qu'il n'en soit pas un, a un cœur qui peut battre jusqu'à 1 200 fois par minute ? <!-- score: 3 -->
+Quel petit mammifère insectivore,  souvent confondu avec un rongeur bien qu'il n'en soit pas un, a un cœur qui peut battre jusqu'à 1 200 fois par minute ? <!-- score: 4 -->
 ###### Description
 
 La [[Musaraigne]] est un petit mammifère insectivore appartenant à l'ordre des [[Soricomorpha]] et à la famille des [[Soricidae]]. Son nom scientifique est généralement [[Sorex araneus]], et elle est plus communément connue sous le nom vernaculaire de "musaraigne" dans les régions francophones. Elle est présente principalement en [[Europe]], en [[Asie]] et en [[Amérique du Nord]]. 
