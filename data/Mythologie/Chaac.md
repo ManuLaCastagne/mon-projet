@@ -25,11 +25,12 @@ questions:
 
 
 
+
 ![Image de Chac](https://upload.wikimedia.org/wikipedia/commons/8/84/Chac_Mool%2C_Teotihuac%C3%A1n.JPG)
 
 ###### Questions
 
-Quel dieu de la pluie des [[Mayas]], également vénéré pour ses pouvoirs sur l'agriculture, est souvent représenté avec un grand nez et des écailles ? <!-- score: 2 -->
+Quel dieu de la pluie des [[Mayas]], également vénéré pour ses pouvoirs sur l'agriculture, est souvent représenté avec un grand nez et des écailles ? <!-- score: 3 -->
 
 Quel est le nom du dieu associé à la pluie et à l'éclair dans la mythologie classique des [[Mayas]], présent sur de nombreux monuments à partir de l'époque préclassique autour de 100 avant notre ère ?
 
