@@ -22,11 +22,12 @@ questions:
  - Quelle économiste engagée contre la dictature militaire de son pays dans les années 1960, devient présidente du Brésil en 2011 ?
 ---
 
+
 ![Image de Dilma Rousseff](https://upload.wikimedia.org/wikipedia/commons/3/39/Dilma_Rousseff_-_foto_oficial_2011-01-09_2_%28cropped%29.jpg)
 
 ###### Questions
 
-Quelle présidente brésilienne a été destituée en [[2016]] après un procès en destitution controversé concernant des manipulations budgétaires ?
+Quelle présidente brésilienne a été destituée en [[2016]] après un procès en destitution controversé concernant des manipulations budgétaires ? <!-- score: 4 -->
 
 Quelle figure politique a été la première femme à prendre la présidence du [[Brésil]], succédant à [[Luiz Inácio Lula da Silva]] en [[2011]] ?
 
