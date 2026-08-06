@@ -16,11 +16,12 @@ indice_6 :
   - artillerie lourde
 ---
 
+
 ![Image de Casemate](https://upload.wikimedia.org/wikipedia/commons/e/ee/Fort_Point%2C_September_2019-8795.jpg)
 
 ###### Questions
 
-Comment appelle-t-on une construction fortifiée, souvent souterraine, utilisée pour protéger les soldats pendant les combats dans les fortifications de [[Vauban]] ?
+Comment appelle-t-on une construction fortifiée, souvent souterraine, utilisée pour protéger les soldats pendant les combats dans les fortifications de [[Vauban]] ? <!-- score: 4 -->
 
 Quel est le terme utilisé pour désigner les abris souterrains renforcés souvent présents dans les fortifications de la [[Seconde Guerre mondiale]] pour protéger les armes et les troupes des bombardements ?
 
