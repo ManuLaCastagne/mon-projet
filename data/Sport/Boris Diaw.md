@@ -22,13 +22,14 @@ questions:
  - Quel joueur français, ayant mis un terme à sa carrière sportive en 2018, est le fils de l'ancienne internationale de basket Elisabeth Riffiod ?
 ---
 
+
 ![Image de Boris Diaw](https://upload.wikimedia.org/wikipedia/commons/6/69/Boris_Diaw%2C_France_-_Canada_July_2011.jpg)
 
 ###### Questions
 
 Quel joueur de basket-ball [[français]], équipé du numéro 13, a été capitaine de l'équipe nationale lors de son triomphe à l'[[EuroBasket 2013]] ?  
 
-Quel joueur de basket-ball, nommé MVP lors de l'[[EuroLigue des Junior 2000]], a commencé sa carrière professionnelle au [[Pau-Orthez]] avant de rejoindre la [[NBA]] ?  
+Quel joueur de basket-ball, nommé MVP lors de l'[[EuroLigue des Junior 2000]], a commencé sa carrière professionnelle au [[Pau-Orthez]] avant de rejoindre la [[NBA]] ? <!-- score: 4 -->
 
 Quel joueur de basket-ball est devenu président de l'équipe [[Les Metropolitans 92]] en [[2019]], après avoir pris sa retraite ?
 
