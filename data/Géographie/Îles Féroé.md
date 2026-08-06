@@ -23,12 +23,13 @@ indice_6:
 
 
 
+
 ![Image de Îles Féroé](https://upload.wikimedia.org/wikipedia/commons/c/cf/%C3%8Eles_F%C3%A9ro%C3%A9_L%C3%B8gting_2022.svg)
 
 ![[Carte_Îles Féroé.png]]
 ###### Questions
 
-Quel territoire autonome danois, situé dans l'Atlantique Nord, est composé de 18 îles volcaniques et est connu pour sa population de moutons, surpassant celle des habitants ? <!-- score: 2 -->
+Quel territoire autonome danois, situé dans l'Atlantique Nord, est composé de 18 îles volcaniques et est connu pour sa population de moutons, surpassant celle des habitants ? <!-- score: 3 -->
 
 Quel archipel danois autonome depuis 1948, situé au nord de l'Ecosse, a pour chef-lieu la ville de [[Torshavn]] ?
 
