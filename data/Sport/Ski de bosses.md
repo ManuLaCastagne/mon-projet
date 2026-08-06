@@ -22,11 +22,12 @@ questions:
  - Dans quelle discipline de ski acrobatique Edgar Grospiron a obtenu l'or olympique  en 1992 ?
 ---
 
+
 ![Image de Ski de bosses](https://upload.wikimedia.org/wikipedia/commons/9/94/Competitive_mogul_skiing.jpg)
 
 ###### Questions
 
-Quel sport a été introduit aux [[Jeux Olympiques d'Hiver]] pour la première fois en [[1992]] à [[Albertville]], dans lequel le Français [[Edgar Grospiron]] a remporté la médaille d'or ?
+Quel sport a été introduit aux [[Jeux Olympiques d'Hiver]] pour la première fois en [[1992]] à [[Albertville]], dans lequel le Français [[Edgar Grospiron]] a remporté la médaille d'or ? <!-- score: 6 -->
 
 Quel sport d'origine scandinave, popularisé dans les [[Années 1970]], se déroule sur une piste avec des pentes abruptes couvertes de bosses, et intègre des sauts acrobatiques ?
 
