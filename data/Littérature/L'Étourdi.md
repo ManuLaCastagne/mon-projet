@@ -20,13 +20,14 @@ indice_6:
   - 1655
 ---
 
+
 ![Image de L'Étourdi](https://upload.wikimedia.org/wikipedia/commons/7/71/Etourdi_Moliere.jpg)
 
 ###### Questions
 
 Dans quelle pièce représentée pour la première fois à Lyon en 1655 le jeune Léandre veut-il épouser une esclave prénommée Célie ?
 
-Dans quelle pièce écrite en 1655 par [[Molière]], personnage d'[[évasion]] et de [[roublardise]] est mis à l'honneur ? 
+Dans quelle pièce écrite en 1655 par [[Molière]], personnage d'[[évasion]] et de [[roublardise]] est mis à l'honneur ? <!-- score: 5 -->
 
 Quel est le titre de la première pièce de [[Molière]] jouée à [[Lyon]] en 1655, mettant en scène les aventures mouvementées de son héros principal ? 
 
