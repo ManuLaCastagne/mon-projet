@@ -21,6 +21,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Tantale (élément)](https://upload.wikimedia.org/wikipedia/commons/8/83/Tantalum_single_crystal_and_1cm3_cube.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel élément chimique, découvert par [[Anders Ekeberg]] en [[1802]], porte le
 
 Quel métal réfractaire utilisé dans les composants électroniques, et découvert au début du [[19ème siècle]], est souvent confondu avec le [[niobium]] en raison de leurs propriétés chimiques similaires ?
 
-Quel élément chimique, dont le symbole est [[Ta]], est essentielle à la fabrication de condensateurs électroniques modernes et fut isolé pour la première fois au début du [[19ème siècle]] ?
+Quel élément chimique, dont le symbole est [[Ta]], est essentielle à la fabrication de condensateurs électroniques modernes et fut isolé pour la première fois au début du [[19ème siècle]] ? <!-- score: 4 -->
 
 ###### Description
 
