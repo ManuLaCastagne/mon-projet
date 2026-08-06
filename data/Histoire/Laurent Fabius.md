@@ -22,17 +22,11 @@ questions:
  - En 1984, quel ancien élève de l'ENA devient, à 37 ans, le plus jeune Premier ministre de la Ve République?
 ---
 
-
 ![Image de Laurent Fabius](https://upload.wikimedia.org/wikipedia/commons/b/b6/Laurent_Fabius_%282001%29.jpg)
 
 ###### Questions
 
-Quel homme politique français a proclamé en 1985 que l'[[anticyclone]] causant une vague de froid en France portait son nom ?
-
 Qui a été nommé à l'âge de 37 ans, en 1984, devenant ainsi le plus jeune Premier ministre de la [[Ve République]] française ? <!-- score: 7 -->
-
-Quel homme a présidé la [[COP21]] en 2015, obtenant le consensus de l'[[Accord de Paris]] sur le climat ?
-
 ###### Description
 
 [[Laurent Fabius]] est un homme politique français né en [[1946]], qui a marqué l'histoire en devenant le plus jeune Premier ministre de la [[Cinquième République]], à seulement 37 ans, de [[1984]] à [[1986]].
