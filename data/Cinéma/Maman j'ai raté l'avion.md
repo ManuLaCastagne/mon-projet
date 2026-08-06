@@ -20,13 +20,14 @@ indice_6 :
   - Joe Pesci
 ---
 
+
 ![Image de Maman j'ai raté l'avion](https://upload.wikimedia.org/wikipedia/commons/1/1a/Home_Alone_house_-02-_%289807303134%29.jpg)
 
 ###### Questions
 
 Quel est le film de [[Noël]] sorti en [[1990]] qui met en scène un jeune garçon oublié par sa famille lors de leur départ en vacances ?
 
-Quel film réalisé par [[Chris Columbus]] devient un classique des fêtes de fin d'année depuis sa première projection en [[1990]] ?
+Quel film réalisé par [[Chris Columbus]] devient un classique des fêtes de fin d'année depuis sa première projection en [[1990]] ? <!-- score: 8 -->
 
 Quelle comédie familiale américaine, mettant en vedette [[Macaulay Culkin]] dans le rôle de [[Kevin McCallister]], a connu un succès retentissant à sa sortie en [[1990]] ?
 
