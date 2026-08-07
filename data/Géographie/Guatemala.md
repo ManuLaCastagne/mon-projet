@@ -24,12 +24,13 @@ indice_6 :
   - civilisation maya
 ---
 
+
 ![Image de Guatemala](https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg)
 
 ![[Carte_Guatemala.png]]
 ###### Questions
 
-Quelle nation d'Amérique centrale possède le site archéologique de [[Tikal]], célèbre pour ses pyramides mayas et déclarée patrimoine de l'humanité par l'[[UNESCO]] en 1979 ?
+Quelle nation d'Amérique centrale possède le site archéologique de [[Tikal]], célèbre pour ses pyramides mayas et déclarée patrimoine de l'humanité par l'[[UNESCO]] en 1979 ? <!-- score: 4 -->
 
 Quel pays a été le théâtre du séisme dévastateur en 1976, qui a causé la mort de plus de 23 000 personnes et entraîné d'importantes réparations infrastructurelles et humanitaires ?
 
