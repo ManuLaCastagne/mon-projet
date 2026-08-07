@@ -25,6 +25,7 @@ indice_6:
 
 
 
+
 ![Image de Khartoum](https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset_Khartoum.jpg)
 
 ![[Carte_Khartoum.png]]
