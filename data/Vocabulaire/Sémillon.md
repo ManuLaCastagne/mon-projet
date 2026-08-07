@@ -16,11 +16,12 @@ indice_6 :
   - Nouvelle-Zélande
 ---
 
+
 ![Image de Sémillon](https://upload.wikimedia.org/wikipedia/commons/e/ec/Harvesting_Semillon_grapes_at_Gisborne_Peak.jpg)
 
 ###### Questions
 
-Quel cépage est principalement cultivé dans les régions viticoles de [[Bordeaux]] et utilisé dans les [[vins liquoreux]] comme ceux de [[Sauternes]] ?
+Quel cépage est principalement cultivé dans les régions viticoles de [[Bordeaux]] et utilisé dans les [[vins liquoreux]] comme ceux de [[Sauternes]] ? <!-- score: 4 -->
 
 Quel raisin blanc, souvent assemblé avec le [[Sauvignon Blanc]], est connu pour produire des vins riches et opulents en [[Australie]] ?
 
