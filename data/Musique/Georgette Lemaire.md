@@ -24,17 +24,11 @@ questions:
  - En 1968, quelle chanteuse interprète le titre "Vous étiez belle, madame", signé par Jean Dellème, JJ Debout et Pascal Sevran ?
 ---
 
-
 ![Image de Georgette Lemaire](https://upload.wikimedia.org/wikipedia/commons/0/0f/Georgette_Lemaire%2C_chanteuse_fran%C3%A7aise.jpg)
 
 ###### Questions
 
-En quelle année [[Georgette Lemaire]] a-t-elle atteint la deuxième place du concours de la [[Chanson de Paris]] avec la chanson "Vous étiez belle madame" ? <!-- score: 5 -->
-
-Quel est le titre du disque couronné d'un [[Disque d'or]] qu'elle a sorti en 1974 et qui est l'une de ses œuvres les plus reconnues ?
-
-Dans quelle émission télévisée de [[Michel Drucker]], diffusée pour la première fois en 1970, [[Georgette Lemaire]] a-t-elle interprété l'une de ses chansons phares, marquant sa carrière ?
-
+Qui a atteint la deuxième place du concours de la [[Chanson de Paris]] avec la chanson "Vous étiez belle madame" ? <!-- score: 5 -->
 ###### Description
 
 [[Georgette Lemaire]], née en 1943, est une chanteuse française emblématique de la chanson réaliste des années 1960 et 1970. 
