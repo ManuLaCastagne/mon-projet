@@ -24,17 +24,11 @@ questions:
  - Au début des années 80, plusieurs de mes chansons figurent dans les BO de films, comme "A View To A Kill" dans le générique de "Dangereusement vôtre". Interprète des tubes "Notorious" et "The Reflex", mon chanteur est Simon Le Bon..
 ---
 
-
 ![Image de Duran Duran](https://upload.wikimedia.org/wikipedia/commons/5/5c/Carolus-Duran_-_Mrs._William_Astor_%28Caroline_Webster_Schermerhorn%2C_1831%E2%80%931908%29.jpg)
 
 ###### Questions
 
-Quel groupe a interprété la chanson "[[A View to a Kill]]" pour le film de [[James Bond]] en 1985 ?
-
 Quel groupe a été formé à [[Birmingham]], au [[Royaume-Uni]], en 1978 et est devenu emblématique de la [[New Wave]] des années 1980 ?
-
-Quel groupe a remporté deux [[Grammy Awards]] en 1984 grâce à leurs vidéos révolutionnaires ? <!-- score: 5 -->
-
 ###### Description
 
 [[Duran Duran]] est un groupe de musique britannique formé en 1978 à [[Birmingham]], connu pour avoir dominé la scène new wave durant les années 1980. 
