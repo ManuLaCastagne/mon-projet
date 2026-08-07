@@ -24,6 +24,7 @@ questions:
 
 
 
+
 ![Image de Marco Van Basten](https://upload.wikimedia.org/wikipedia/commons/2/24/Marco_van_Basten_%28ca_2006%29.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel joueur de football a remporté le Ballon d'Or trois fois, notamment en 1988
 
 Quel célèbre footballeur néerlandais a marqué un but exceptionnel lors de la finale du [[Championnat d'Europe]] [[UEFA]] [[1988]] contre l'Union soviétique ? 
 
-Quel ancien joueur de [[AC Milan]] et de l'[[Ajax Amsterdam]] a mis fin à sa carrière en [[1995]] à seulement 31 ans en raison de blessures récurrentes ? <!-- score: 2 -->
+Quel ancien joueur de [[AC Milan]] et de l'[[Ajax Amsterdam]] a mis fin à sa carrière en [[1995]] à seulement 31 ans en raison de blessures récurrentes ? <!-- score: 3 -->
 
 ###### Description
 
