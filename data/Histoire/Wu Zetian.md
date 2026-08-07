@@ -20,6 +20,7 @@ indice_6 :
   - Wu Zhao
 ---
 
+
 ![Image de Wu Zetian](https://upload.wikimedia.org/wikipedia/commons/2/25/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel est le nom de l'unique impératrice régnante de la [[Chine]] ayant fondé 
 
 Qui est la seule femme dans l'histoire de [[Chine]] à avoir assumé le titre impérial en 690 ?
 
-Quelle souveraine, née en 624, est restée au pouvoir jusqu'en 705 et a été la seule femme à gouverner seule dans l'histoire chinoise en tant qu'impératrice de [[Chine]] ?
+Quelle souveraine, née en 624, est restée au pouvoir jusqu'en 705 et a été la seule femme à gouverner seule dans l'histoire chinoise en tant qu'impératrice de [[Chine]] ? <!-- score: 3 -->
 
 ###### Description
 
