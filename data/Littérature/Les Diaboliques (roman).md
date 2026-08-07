@@ -24,13 +24,14 @@ questions:
  - Quel recueil de Barbey d'Aurevilly comprend les nouvelles "Le rideau cramoisi" et "Le bonheur dans le crime" ?
 ---
 
+
 ![Image de Les Diaboliques (roman)](https://upload.wikimedia.org/wikipedia/commons/5/55/Barbey_d%27Aurevilly-Les_diaboliques_%28Les_six_premi%C3%A8res%29-ed_Lemerre-1883.djvu)
 
 ###### Questions
 
 Quel roman de [[Julien Sarraute]] publié en 1952 a connu une adaptation célèbre en film sous le même titre ?
 
-Quel ouvrage littéraire coécrit par [[Pierre Boileau]] et [[Thomas Narcejac]] a inspiré le film mythique de [[Henri-Georges Clouzot]] ?
+Quel ouvrage littéraire coécrit par [[Pierre Boileau]] et [[Thomas Narcejac]] a inspiré le film mythique de [[Henri-Georges Clouzot]] ? <!-- score: 5 -->
 
 Quel roman a été conçu initialement pour être adapté à l’écran après que [[Alfred Hitchcock]] ait perdu les droits d’adaptation au profit de [[Henri-Georges Clouzot]] ?
 
