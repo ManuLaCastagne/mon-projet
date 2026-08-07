@@ -24,7 +24,8 @@ questions:
  - Ma vie mouvementée et mes fréquents séjours en prison m'ont inspiré des oeuvres telles que la "Ballade des pendus"…
 ---
 
-![Image de François Villon](https://upload.wikimedia.org/wikipedia/commons/a/a5/Francois_Villon_1489.jpg)
+
+![Image de François Villon](https://upload.wikimedia.org/wikipedia/commons/a/a5/Francois_Villon_1489.jpg)
 
 ###### Questions
 
@@ -32,7 +33,7 @@ Quel poète français du Moyen Âge a écrit le célèbre [[poème]] intitulé [
 
 Quel célèbre poète, né en 1431 à Paris, est connu pour son recueil intitulé [[Le Testament]], qui critique la société de son époque ?
 
-Quel écrivain français a mystérieusement disparu après 1463, année de sa dernière trace dans les documents historiques, laissant une aura d'énigme persistante ?
+Quel écrivain français a mystérieusement disparu après 1463, année de sa dernière trace dans les documents historiques, laissant une aura d'énigme persistante ? <!-- score: 5 -->
 
 ###### Description
 
