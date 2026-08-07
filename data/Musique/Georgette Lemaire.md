@@ -24,11 +24,12 @@ questions:
  - En 1968, quelle chanteuse interprète le titre "Vous étiez belle, madame", signé par Jean Dellème, JJ Debout et Pascal Sevran ?
 ---
 
+
 ![Image de Georgette Lemaire](https://upload.wikimedia.org/wikipedia/commons/0/0f/Georgette_Lemaire%2C_chanteuse_fran%C3%A7aise.jpg)
 
 ###### Questions
 
-En quelle année [[Georgette Lemaire]] a-t-elle atteint la deuxième place du concours de la [[Chanson de Paris]] avec la chanson "Vous étiez belle madame" ?
+En quelle année [[Georgette Lemaire]] a-t-elle atteint la deuxième place du concours de la [[Chanson de Paris]] avec la chanson "Vous étiez belle madame" ? <!-- score: 5 -->
 
 Quel est le titre du disque couronné d'un [[Disque d'or]] qu'elle a sorti en 1974 et qui est l'une de ses œuvres les plus reconnues ?
 
