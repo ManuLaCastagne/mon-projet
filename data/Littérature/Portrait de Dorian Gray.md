@@ -23,7 +23,6 @@ questions:
   - Son portrait vieillit à sa place alors que son visage garde sa jeunesse. Unique roman d'Oscar Wilde.
 ---
 
-
 ![Image de Portrait de Dorian Gray](https://upload.wikimedia.org/wikipedia/commons/8/89/Wilde_-_Le_portrait_de_Dorian_Gray%2C_1895.djvu)
 
 ###### Questions
@@ -31,9 +30,6 @@ questions:
 Dans quel roman publié en 1890, écrit par [[Oscar Wilde]], trouve-t-on un personnage dont le portrait vieillit à sa place ?
 
 Quel oeuvre littéraire, souvent associée à des controverses sur la morale victorienne, présente une exploration du thème de la jeunesse éternelle à travers un portrait enchanté ? <!-- score: 6 -->
-
-Quel livre d'[[Oscar Wilde]], ayant fait l’objet d’une adaptation cinématographique en 1945, raconte l’histoire d’un homme dont la corruption est reflétée par un tableau à son effigie ?
-
 ###### Description
 
 [[Le Portrait de Dorian Gray]] est un roman emblématique rédigé par [[Oscar Wilde]] et publié en 1890 dans le magazine Lippincott's Monthly Magazine avant d'être édité en volume l'année suivante. 
