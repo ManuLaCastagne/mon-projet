@@ -21,12 +21,13 @@ indice_5:
 indice_6:
   - Concord Massachusetts
 ---
+
 ![[Pasted image 20250421105146.png]]
 ###### Questions
 
 Dans quel roman Jo, le garçon manqué, rêve d'être écrivain ?
 
-Quel roman de [[Louisa May Alcott]], publié en 1868, raconte la vie de quatre sœurs pendant la [[Guerre de Sécession]] aux États-Unis ?  
+Quel roman de [[Louisa May Alcott]], publié en 1868, raconte la vie de quatre sœurs pendant la [[Guerre de Sécession]] aux États-Unis ? <!-- score: 4 -->
 
 Quel livre célèbre pour ses valeurs de famille et d'entraide est inspiré des propres expériences de son auteure Louisa avec ses sœurs dans le [[Massachusetts]] du 19e siècle ?
 
