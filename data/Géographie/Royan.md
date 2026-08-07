@@ -26,7 +26,6 @@ questions:
  - Capitale de la Côte de Beauté appréciée pour ma plage de la Grande-Conche, je suis établie sur la rive droite de l'estuaire de la Gironde, en face du Verdon. Station balnéaire de Charente-Maritime située au sud de Rochefort, je suis...
 ---
 
-
 ![Image de Royan](https://upload.wikimedia.org/wikipedia/commons/0/07/00_4632_Royan_-_Frankreich.jpg)
 
 ![[Carte_Royan.png]]
@@ -37,7 +36,6 @@ Quelle ville de [[Charente-Maritime]], en partie détruite lors des bombardement
 Dans quelle station balnéaire de la région [[Nouvelle-Aquitaine]] se trouve le célèbre [[Front de Mer]], un boulevard emblématique reconstruit dans les années 1950 et classé au patrimoine du [[XXe siècle]] en 2010 ? <!-- score: 3 -->
 
 Quel port du [[golfe de Gascogne]] est connu pour son phare historique, le [[Phare de Cordouan]], situé à l'embouchure de l'estuaire de la [[Gironde]], qui a été inscrit au [[patrimoine mondial de l'UNESCO]] en 2021 ?
-
 ###### Description
 
 [[Royan]] est une commune du Sud-Ouest de la France, située dans le département de la [[Charente-Maritime]] et la région [[Nouvelle-Aquitaine]], à l'embouchure de l'estuaire de la [[Gironde]]. 
