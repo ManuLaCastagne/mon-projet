@@ -26,6 +26,7 @@ questions:
  - Quelle capitale européenne est desservie par l'aéroport de Tegel ?
 ---
 
+
 ![Image de Berlin](https://upload.wikimedia.org/wikipedia/commons/3/3b/Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg)
 
 ![[Carte_Berlin.png]]
@@ -33,7 +34,7 @@ questions:
 
 Dans quelle ville d'[[Europe]], le [[Mur de Berlin]] a-t-il été construit en 1961 pour séparer l'[[Allemagne de l'Est]] de l'[[Allemagne de l'Ouest]] ?
 
-Quelle ville est la plus grande en superficie de [[l'Allemagne]], comprenant douze districts et couvrant environ 891,8 kilomètres carrés ?
+Quelle ville est la plus grande en superficie de [[l'Allemagne]], comprenant douze districts et couvrant environ 891,8 kilomètres carrés ? <!-- score: 5 -->
 
 Depuis 1999, quelle ville accueille la résidence du [[Bundestag]], le parlement national de la [[République fédérale d'Allemagne]] ?
 
