@@ -24,11 +24,12 @@ questions:
  - En 1971, quel film de Stanley Kubrick a pour héros Alex, un jeune délinquant obsédé...
 ---
 
-![Image de Orange Mécanique](https://upload.wikimedia.org/wikipedia/commons/3/37/Orange_m%C3%A9canique_logo.svg)
+
+![Image de Orange Mécanique](https://upload.wikimedia.org/wikipedia/commons/3/37/Orange_m%C3%A9canique_logo.svg)
 
 ###### Questions
 
-Quel film culte réalisé par [[Stanley Kubrick]] en 1971 a choqué le public par sa violence et son exploration de la délinquance juvénile, tout en mettant en scène le personnage d'[[Alex DeLarge]] ? 
+Quel film culte réalisé par [[Stanley Kubrick]] en 1971 a choqué le public par sa violence et son exploration de la délinquance juvénile, tout en mettant en scène le personnage d'[[Alex DeLarge]] ? <!-- score: 4 -->
 
 Quel est le titre du film adapté du roman de [[Anthony Burgess]], publié en 1962, qui explore des thèmes tels que le libre arbitre et le conditionnement psychologique ? 
 
