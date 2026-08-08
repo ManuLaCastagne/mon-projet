@@ -22,13 +22,14 @@ questions:
  - Quelle femme humoriste,  longtemps associée aux tenues rouges, a fait Sciences Po...
 ---
 
+
 ![Image de Anne Roumanoff](https://upload.wikimedia.org/wikipedia/commons/0/0a/Anne_Roumanoff_Lamballe.jpg)
 
 ###### Questions
 
 Quel nom d'humoriste française a animé une émission télévisée intitulée [[« Rien à cirer »]] sur [[France Inter]] à partir de [[1991]] ?  
 
-Quelle personnalité a fêté ses [[30 ans de carrière]] dans un spectacle diffusé en [[2017]] sur [[C8]] ?
+Quelle personnalité a fêté ses [[30 ans de carrière]] dans un spectacle diffusé en [[2017]] sur [[C8]] ? <!-- score: 5 -->
 
 Quel nom est associé à la chronique humoristique dans l'émission [[« Vivement Dimanche »]] présentée par [[Michel Drucker]] de [[1998]] à [[2005]] ?
 
