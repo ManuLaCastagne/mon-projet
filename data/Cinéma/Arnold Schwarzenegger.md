@@ -20,13 +20,14 @@ indice_6 :
   - True Lies
 ---
 
+
 ![Image de Arnold Schwarzenegger](https://upload.wikimedia.org/wikipedia/commons/e/ef/Gov._Arnold_Schwarzenegger.jpg)
 
 ###### Questions
 
 Quel acteur a joué le rôle de [[The Terminator]] dans le film éponyme de [[James Cameron]] sorti en [[1984]] ?
 
-Quel culturiste et acteur a interprété le personnage principal dans le film [[Predator]] sorti en [[1987]] ?
+Quel culturiste et acteur a interprété le personnage principal dans le film [[Predator]] sorti en [[1987]] ? <!-- score: 7 -->
 
 Quel acteur a reçu un [[Golden Globe]] du meilleur acteur dans un film musical ou une comédie pour son rôle dans [[Junior]] en [[1995]] ?
 
