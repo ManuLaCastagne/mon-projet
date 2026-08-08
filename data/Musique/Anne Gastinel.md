@@ -24,11 +24,12 @@ questions:
  - Quelle violoncelliste française ayant reçu une Victoire de la musique classique en 1994 qui doit son nom à un toponyme désignant une terre en friche ?
 ---
 
+
 ![Image de Anne Gastinel](https://upload.wikimedia.org/wikipedia/commons/8/8f/FolleJourn%C3%A9e2009_AnneGastinel.jpg)
 
 ###### Questions
 
-Quel violoncelliste française, née en 1971, a été la première musicienne à jouer l'intégralité des Suites pour violoncelle seul de [[Jean-Sébastien Bach]] sur un violoncelle de [[Matteo Goffriller]] datant de 1690 ? 
+Quel violoncelliste française, née en 1971, a été la première musicienne à jouer l'intégralité des Suites pour violoncelle seul de [[Jean-Sébastien Bach]] sur un violoncelle de [[Matteo Goffriller]] datant de 1690 ? <!-- score: 5 -->
 
 Qui a remporté le premier [[Victoires de la musique classique]] en tant que "Soliste instrumental de l'année" en 1994, après avoir succédé à des brillants musiciens comme [[Maurice André]] ou [[Paul Tortelier]] ?
 
