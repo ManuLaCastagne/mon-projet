@@ -22,13 +22,14 @@ questions:
  - Joueur surnommé "der Bomber" je suis...
 ---
 
+
 ![Image de Gerd Muller](https://upload.wikimedia.org/wikipedia/commons/3/35/Gerd_B._M%C3%BCller_%28September_2008%29.jpg)
 
 ###### Questions
 
 En quelle année [[Gerd Muller]], surnommé le "Bombardier", a-t-il marqué le but décisif qui a permis à l'équipe nationale d'[[Allemagne de l'Ouest]] de remporter la finale de la [[Coupe du Monde de la FIFA 1974]] ?
 
-[[Gerd Muller]] a été le premier joueur à dépasser le cap des 10 buts en une seule édition de la [[Coupe du Monde de la FIFA]]. Quelle était l'année de cette performance exceptionnelle ?
+[[Gerd Muller]] a été le premier joueur à dépasser le cap des 10 buts en une seule édition de la [[Coupe du Monde de la FIFA]]. Quelle était l'année de cette performance exceptionnelle ? <!-- score: 5 -->
 
 Quel joueur allemand a détenu le record du plus grand nombre de buts marqués en [[Bundesliga]] avant qu'il ne soit battu par [[Robert Lewandowski]] en 2021 ?
 
