@@ -22,6 +22,7 @@ questions:
  - Appareil électronique de sécurité, je suis notamment désigné par un nom déposé, apparu avant 1952, résultant de la contraction de 2 mots. Doté d'un haut-parleur et de touches, je permets de contrôler l'accès  à un lieu privé, grâce à l'ouverture à distance...
 ---
 
+
 ![Image de Interphone](https://upload.wikimedia.org/wikipedia/commons/2/27/Flat_intercom_system.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel appareil a été inventé en [[1894]] par [[Tivadar Puskás]] pour facilite
 
 Comment appelle-t-on le dispositif qui était initialement utilisé dans les années [[1930]] pour la communication interne des équipes de cinéma avant de devenir courant dans les immeubles d'habitation ? 
 
-Quel outil, breveté par [[George W. Coy]] en [[1878]], a évolué pour devenir un système de communication bidirectionnel employé dans les complexes résidentiels et professionnels modernes ?
+Quel outil, breveté par [[George W. Coy]] en [[1878]], a évolué pour devenir un système de communication bidirectionnel employé dans les complexes résidentiels et professionnels modernes ? <!-- score: 5 -->
 
 ###### Description
 
