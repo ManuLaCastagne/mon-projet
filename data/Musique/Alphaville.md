@@ -20,13 +20,14 @@ indice_6 :
   - Germany
 ---
 
+
 ![Image de Alphaville](https://upload.wikimedia.org/wikipedia/commons/1/12/Rua_do_B._Alphaville%2C_Tim%C3%B3teo_MG.JPG)
 
 ###### Questions
 
 Quel groupe formé en [[1982]] et originaire de [[Münster]], en [[Allemagne]], a connu un succès international avec le titre "[[Big in Japan]]" ?
 
-Quel groupe a sorti l'album "[[Forever Young]]" en [[1984]], dont le single éponyme est devenu un hymne des années 80 ?
+Quel groupe a sorti l'album "[[Forever Young]]" en [[1984]], dont le single éponyme est devenu un hymne des années 80 ? <!-- score: 3 -->
 
 ###### Description
 
