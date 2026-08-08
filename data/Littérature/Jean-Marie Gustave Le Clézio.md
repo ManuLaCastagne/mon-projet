@@ -25,7 +25,8 @@ questions:
 ---
 
 
-![Image de Jean-Marie Gustave Le Clézio](https://upload.wikimedia.org/wikipedia/commons/c/cf/Jean-Marie_Gustave_Le_Cl%C3%A9zio-press_conference_Dec_06th%2C_2008-2.jpg)
+
+![Image de Jean-Marie Gustave Le Clézio](https://upload.wikimedia.org/wikipedia/commons/c/cf/Jean-Marie_Gustave_Le_Cl%C3%A9zio-press_conference_Dec_06th%2C_2008-2.jpg)
 
 ###### Questions
 
