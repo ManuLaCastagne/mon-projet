@@ -22,13 +22,14 @@ indice_6:
   - Chevalier noir
 ---
 
+
 ![Image de Batman](https://upload.wikimedia.org/wikipedia/commons/e/e4/San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg)
 
 ###### Questions
 
 Quel film sorti en 1989 a été réalisé par [[Tim Burton]] et met en vedette [[Michael Keaton]] dans le rôle principal ?
 
-Quel personnage de [[DC Comics]], apparu pour la première fois dans le numéro [[27]] de [[Detective Comics]] en 1939, est connu sous le nom de [[Chevalier Noir]] ?
+Quel personnage de [[DC Comics]], apparu pour la première fois dans le numéro [[27]] de [[Detective Comics]] en 1939, est connu sous le nom de [[Chevalier Noir]] ? <!-- score: 4 -->
 
 Quel super-héros a été incarné à l'écran par des acteurs tels que [[Christian Bale]] dans [[The Dark Knight]] en 2008 et [[Ben Affleck]] dans [[Batman v Superman: L'Aube de la Justice]] en 2016 ?
 
