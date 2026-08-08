@@ -21,9 +21,6 @@ indice_6:
   - mer des Caraïbes
 ---
 
-
-
-
 ![Image de Caracas](https://upload.wikimedia.org/wikipedia/commons/9/95/El_Para%C3%ADso_tunnel_main_gate_of_Caracas.jpg)
 
 ![[Carte_Caracas.png]]
@@ -31,12 +28,7 @@ indice_6:
 
 Quelle est la capitale du [[Venezuela]], fondée en 1567 par [[Diego de Losada]] ?
 
-Quelle ville, dans laquelle est né Simon Bolivar en 1783, est la capitale du Venezuela ?
-
-Quelle ville, située au pied du [[Cerro El Ávila]], est connue pour être le centre culturel et économique du [[Venezuela]] ?
-
 Quelle ville était le lieu de naissance de [[Simon Bolivar]] en 1783, le libérateur d'une grande partie de l'Amérique du Sud ? <!-- score: 4 -->
-
 ###### Description
 
 [[Caracas]], la capitale du [[Venezuela]], est nichée dans une vallée pittoresque située à environ 900 mètres d'altitude dans la chaîne de montagnes côtières des [[Andes]]. 
