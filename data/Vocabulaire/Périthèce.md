@@ -16,11 +16,12 @@ indice_6 :
   - Bataille des éléphants
 ---
 
+
 ![Image de Périthèce]()
 
 ###### Questions
 
-Quel est l'organe fructifère fermé des [[ascomycètes]], semblable à une bouteille, qui permet la libération des ascospores par un orifice supérieur ?
+Quel est l'organe fructifère fermé des [[ascomycètes]], semblable à une bouteille, qui permet la libération des ascospores par un orifice supérieur ? <!-- score: 5 -->
 
 Quel type d'ascocarpe peut être observé comme de petits points ou pustules sous une loupe ou au microscope, souvent étudié dans le cadre des [[Sordariomycètes]] ?
 
