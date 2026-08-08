@@ -26,18 +26,12 @@ questions:
  - Quel archipel corallien de l'océan Indien dont la capitale est Malé...
 ---
 
-
 ![Image de Maldives](https://upload.wikimedia.org/wikipedia/commons/c/ce/Floatplane_at_Bathala_%28Maldives%29.jpg)
 
 ![[Carte_Maldives.png]]
 ###### Questions
 
-Quel pays insulaire a accueilli la première réunion du Cabinet du gouvernement sous l'eau en 2009 pour attirer l'attention sur le changement climatique?
-
-Quelle nation est connue pour être l'un des endroits les plus bas du monde, avec une altitude maximale d'environ 2,4 mètres au-dessus du niveau de la mer?
-
-Quel pays d'[[Asie du Sud]], composé de 26 atolls, est situé au sud-ouest de [[Sri Lanka]] et de [[l'Inde]] dans l'océan Indien? <!-- score: 5 -->
-
+Quel pays d'[[Asie du Sud]], composé de 26 atolls, est situé au sud-ouest de [[Sri Lanka]] et de [[l'Inde]] dans l'océan Indien et a pour capitale Malé ? <!-- score: 5 -->
 ###### Description
 
 Les [[Maldives]], situées dans l'océan [[Indien]], forment un archipel de 1 192 îles regroupées en 26 atolls, connu pour ses eaux cristallines et sa biodiversité marine exceptionnelle.
