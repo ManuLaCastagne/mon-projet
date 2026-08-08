@@ -24,11 +24,12 @@ questions:
  - En 1994, quelle actrice incarne l'amie d'Elsa Zylberstein dans le film "Mina Tannenbaum"...
 ---
 
+
 ![Image de Romane Bohringer](https://upload.wikimedia.org/wikipedia/commons/3/37/Romane_Bohringer_2009.jpg)
 
 ###### Questions
 
-Dans quel film sorti en 1992, [[Romane Bohringer]] interprète-t-elle le rôle de Lise aux côtés de [[Gérard Depardieu]] ?
+Dans quel film sorti en 1992, [[Romane Bohringer]] interprète-t-elle le rôle de Lise aux côtés de [[Gérard Depardieu]] ? <!-- score: 5 -->
 
 Dans quel film sorti en 2012, [[Romane Bohringer]] a-t-elle remporté un César de la meilleure actrice dans un second rôle ?
 
