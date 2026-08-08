@@ -24,17 +24,11 @@ questions:
  - En 2002, dans quel film se déroulant en 2054, Tom Cruise est-il un policier chargé d'arrêter de futurs meurtriers, ce qui pose une vraie question, arrêter un criminel avant qu'il ait commis son crime ?
 ---
 
-
 ![Image de Minority report](https://upload.wikimedia.org/wikipedia/commons/6/6e/Minority_Report_cast.jpg)
 
 ###### Questions
 
-[[Steven Spielberg]] a réalisé ce film en 2002, basé sur une nouvelle de [[Philip K. Dick]] publiée pour la première fois en 1956; quel est ce film?
-
-Quel film de science-fiction sorti en 2002 met en scène [[Tom Cruise]] dans le rôle d'une police du futur qui utilise des précogs pour prévenir les crimes avant qu'ils ne soient commis? <!-- score: 3 -->
-
-Dans quel film de 2002, la scène mémorable de [[Tom Cruise]] manipulant des écrans virtuels interactifs est devenue une icône pour les films de science-fiction?
-
+Quel film de science-fiction sorti en 2002, basé sur une nouvelle de [[Philip K. Dick]] publiée en 1956, met en scène [[Tom Cruise]] dans le rôle d'une police du futur qui utilise des précogs pour prévenir les crimes avant qu'ils ne soient commis? <!-- score: 3 -->
 ###### Description
 
 [[Minority Report]] est un film de science-fiction réalisé par [[Steven Spielberg]] et sorti en 2002, basé sur une nouvelle de l'auteur [[Philip K. Dick]] publiée en 1956. L'histoire se déroule en 2054 à [[Washington, D.C.]], où une unité spéciale de la police utilise des êtres appelés "précogs" pour arrêter les crimes avant qu'ils ne se produisent.
