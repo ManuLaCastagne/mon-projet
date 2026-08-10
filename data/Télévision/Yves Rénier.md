@@ -23,13 +23,14 @@ questions:
  - Qui a incarné le Commissaire Moulin à la TV, interprète le jeune André Bellegarde dans "Belphégor" ?
 ---
 
-![Image de Yves Rénier](https://upload.wikimedia.org/wikipedia/commons/1/1a/Yves_R%C3%A9nier_%28cropped%29.jpg)
+
+![Image de Yves Rénier](https://upload.wikimedia.org/wikipedia/commons/1/1a/Yves_R%C3%A9nier_%28cropped%29.jpg)
 
 ###### Questions
 
 Dans quelle série télévisée française diffusée à partir de [[1992]] [[Yves Régnier]] incarne-t-il le rôle principal du commissaire [[Jules Maigret]] sur [[TF1]] ?
 
-Qui a réalisé en [[2000]] l'adaptation du livre "[[Flic, tout simplement]]" en téléfilm, mettant en vedette [[Mathilde Seigner]] dans le rôle de [[Martine Monteil]] sur [[France 2]] ?
+Qui a réalisé en [[2000]] l'adaptation du livre "[[Flic, tout simplement]]" en téléfilm, mettant en vedette [[Mathilde Seigner]] dans le rôle de [[Martine Monteil]] sur [[France 2]] ? <!-- score: 5 -->
 
 Quel acteur a interprété le personnage de [[Vincent Bellini]] dans la série télévisée "[[Commissaire Moulin]]" diffusée entre [[1976]] et [[2006]] sur [[TF1]] ?
 
