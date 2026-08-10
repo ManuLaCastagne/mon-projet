@@ -22,6 +22,7 @@ questions:
 
 
 
+
 ![Image de Médée](https://upload.wikimedia.org/wikipedia/commons/f/f0/Medea_Cherubini_titelblad.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel personnage de la [[mythologie grecque]] a tué ses propres enfants pour se 
 
 Quel personnage mythologique grec offre à [[Jason]] une tunique empoisonnée destinée à [[Créuse]], causant ainsi sa mort le jour de son mariage ?
 
-Quel personnage de la [[mythologie grecque]] a quitté la [[Colchide]] avec [[Jason]] et les [[Argonautes]] après avoir trahi son père, le roi [[Æétès]] ? <!-- score: 3 -->
+Quel personnage de la [[mythologie grecque]] a quitté la [[Colchide]] avec [[Jason]] et les [[Argonautes]] après avoir trahi son père, le roi [[Æétès]] ? <!-- score: 4 -->
 
 ###### Description
 
