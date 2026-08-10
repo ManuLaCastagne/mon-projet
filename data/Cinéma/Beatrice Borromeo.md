@@ -24,6 +24,7 @@ indice_6:
 
 
 
+
 ![Image de Beatrice Borromeo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Beatrice_Borromeo_2017.jpg)
 
 ###### Questions
