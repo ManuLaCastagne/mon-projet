@@ -15,9 +15,10 @@ indice_5 :
 indice_6 : 
   - cépage
 ---
+
 ###### Questions
 
-Quel terme désigne le percepteur d'un [[impôt]] indirect sur certains produits de consommation en [[Belgique]] ?
+Quel terme désigne le percepteur d'un [[impôt]] indirect sur certains produits de consommation en [[Belgique]] ? <!-- score: 6 -->
 
 ###### Description
 
