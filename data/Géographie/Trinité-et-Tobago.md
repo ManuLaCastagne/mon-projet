@@ -26,12 +26,13 @@ questions:
  - Quel Etat des Antilles, formé de 2 îles, proche des côtes du Venezuela, a pour capitale Port of Spain?
 ---
 
-![Image de Trinité-et-Tobago](https://upload.wikimedia.org/wikipedia/commons/f/f0/Trinit%C3%A9-et-Tobago_Chambre_des_repr%C3%A9sentants_2020.svg)
 
-![[Carte_Trinité-et-Tobago.png]]
+![Image de Trinité-et-Tobago](https://upload.wikimedia.org/wikipedia/commons/f/f0/Trinit%C3%A9-et-Tobago_Chambre_des_repr%C3%A9sentants_2020.svg)
+
+![[Carte_Trinité-et-Tobago.png]]
 ###### Questions
 
-Dans quel pays le [[Pasea Road Mangrove Swamp]], une aire protégée de mangroves, est-il situé à proximité de la ville de [[Port-d'Espagne]] ?
+Dans quel pays le [[Pasea Road Mangrove Swamp]], une aire protégée de mangroves, est-il situé à proximité de la ville de [[Port-d'Espagne]] ? <!-- score: 4 -->
 
 Quel pays des [[Caraïbes]] possède une partie du [[Nariva Swamp]] qui abrite le préservé [[Bush Bush Wildlife Sanctuary]], renommé pour sa biodiversité exceptionnelle depuis 1968 ?
 
