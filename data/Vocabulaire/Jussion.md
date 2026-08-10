@@ -16,11 +16,12 @@ indice_6 :
   - Prédiction
 ---
 
+
 ![Image de Jussion](https://upload.wikimedia.org/wikipedia/commons/6/6e/LL-Q150_%28fra%29-LoquaxFR-jussion.wav)
 
 ###### Questions
 
-Quel est le nom donné à un décret pris par le roi de [[France]] pour ordonner aux parlements d'enregistrer une loi malgré leur opposition ?
+Quel est le nom donné à un décret pris par le roi de [[France]] pour ordonner aux parlements d'enregistrer une loi malgré leur opposition ? <!-- score: 5 -->
 
 Quel est le terme utilisé pour désigner l'injonction royale adressée au parlement sous l'[[Ancien Régime]] pour faire appliquer une loi ou un édit en cas de résistance ?
 
