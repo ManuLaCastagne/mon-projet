@@ -23,19 +23,15 @@ questions:
   - En 1964, quel réalisateur le met en scène dans "Pas de printemps "pour Marnie" ?
 ---
 
-
 ![Image de Hitchcock](https://upload.wikimedia.org/wikipedia/commons/9/94/Hitchcock%2C_Alfred_02.jpg)
 
 ###### Questions
 
 En 1964, quel réalisateur met en scène [[Sean Connery]] dans "[[Pas de printemps pour Marnie]]" ?
 
-Quel célèbre réalisateur britannique n'a gagné [[aucun Oscar]], malgré sa carrière prolifique et son influence durable sur l'industrie cinématographique, et dont la première nomination remonte à 1941 ?
-
 Quel cinéaste reconnu pour ses films à suspense a réalisé un film en 1960 qui a causé un tournant révolutionnaire dans l'utilisation de la musique de film, notamment par sa collaboration avec le compositeur [[Bernard Herrmann]] sur "[[Psychose]]" ? <!-- score: 8 -->
 
 Qui est le réalisateur qui a instauré la technique du [[caméo]] en apparaissant discrètement dans ses propres films, une tradition qui a commencé avec "[[The Lodger]]" en 1927 ?
-
 ###### Description
 
 [[Alfred Hitchcock]] est un maître du suspense, célèbre pour ses techniques cinématographiques innovantes qui ont marqué l'histoire du cinéma. 
