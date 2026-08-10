@@ -22,6 +22,7 @@ questions:
  - En 1919, comment a-t-on surnommé l'assemblée composée de députés français récemment élus ?
 ---
 
+
 ![Image de Chambre bleu horizon](https://upload.wikimedia.org/wikipedia/commons/7/7e/C%C3%B4t%C3%A9_-_Bleu%2C_blanc%2C_rouge%2C_1903.djvu)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quelle est la couleur associée au gouvernement d'union nationale mis en place e
 
 Quel est le nom donné à la composition du Parlement français avec une majorité de députés partis à la dérive après la [[Première Guerre mondiale]] lors des élections législatives de [[1919]] ?  
 
-Comment appelle-t-on la chambre du parlement français, élue en [[1919]], caractérisée par des députés vétérans de la [[Première Guerre mondiale]], évoquant la couleur de leur uniforme ?
+Comment appelle-t-on la chambre du parlement français, élue en [[1919]], caractérisée par des députés vétérans de la [[Première Guerre mondiale]], évoquant la couleur de leur uniforme ? <!-- score: 4 -->
 
 ###### Description
 
