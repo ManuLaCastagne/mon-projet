@@ -21,6 +21,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Ada Lovelace](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel pionnier de l'informatique a publié en [[1843]] un article qui est consid�
 
 Quelle mathématicienne et collaboratrice de [[Charles Babbage]] est reconnue pour sa contribution significative à la conception de la [[machine analytique]] ? <!-- score: 4 -->
 
-Quelle personnalité britannique née en [[1815]], fille du poète [[Lord Byron]], est souvent célébrée lors de la [[Journée Ada Lovelace]] pour son rôle dans l'avènement de l'informatique ?
+Quelle personnalité britannique née en [[1815]], fille du poète [[Lord Byron]], est souvent célébrée lors de la [[Journée Ada Lovelace]] pour son rôle dans l'avènement de l'informatique ? <!-- score: 5 -->
 
 ###### Description
 
