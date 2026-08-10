@@ -24,17 +24,11 @@ questions:
   - Quelle bataille de la Première Guerre mondiale en juillet 1916 doit son nom à un fleuve de Picardie ?
 ---
 
-
 ![Image de Bataille de la Somme](https://upload.wikimedia.org/wikipedia/commons/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg)
 
 ###### Questions
 
-Quel événement historique majeur de [[1916]] sur le front occidental durant la [[Première Guerre mondiale]] a vu l'introduction significative des tanks par l'armée britannique ?
-
-Durant quel affrontement de la [[Première Guerre mondiale]] a-t-on enregistré environ 1,5 million de pertes humaines, marquant un tournant en matière de guerre mécanisée et de stratégie militaire ? <!-- score: 5 -->
-
-Dans quelle bataille, principalement entre les forces [[britanniques]] et [[françaises]] contre l'[[Empire allemand]], a-t-on lancé une offensive le 1er juillet [[1916]] marquée par le plus grand nombre de pertes en une seule journée pour l'armée britannique ?
-
+Quel événement historique majeur du 1er juillet [[1916]] sur le front occidental durant la [[Première Guerre mondiale]] a vu l'introduction significative des tanks par l'armée britannique ? <!-- score: 5 -->
 ###### Description
 
 La [[Bataille de la Somme]] fut l'une des plus grandes offensives de la [[Première Guerre mondiale]], se déroulant de juillet à novembre [[1916]] sur le front occidental en France. 
