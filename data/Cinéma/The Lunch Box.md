@@ -24,11 +24,12 @@ questions:
  - En 2013, dans quel film se déroulant à Bombay un homme rencontre-t-il une femme qui lui fait parvenir par erreur un repas ?
 ---
 
+
 ![Image de The Lunch Box](https://upload.wikimedia.org/wikipedia/commons/2/2c/Roundhouse_wipers.jpg)
 
 ###### Questions
 
-Quel film indien de [[Ritesh Batra]], sorti en 2013, raconte l'échange inattendu de boîtes-repas entre une femme au foyer et un employé de bureau à [[Mumbai]] ?
+Quel film indien de [[Ritesh Batra]], sorti en 2013, raconte l'échange inattendu de boîtes-repas entre une femme au foyer et un employé de bureau à [[Mumbai]] ? <!-- score: 3 -->
 
 Quelle œuvre cinématographique, projetée notamment au Festival de Cannes dans la [[Semaine de la Critique]] en 2013, a marqué les esprits par sa représentation subtile du système de livraison de repas « dabba » ?
 
