@@ -24,16 +24,9 @@ questions:
  - En 2001, dans quelle comédie avec Robert De Niro rencontre-t-il les parents de sa petite amie ?
 ---
 
-
 ![Image de Beau-père et moi](https://upload.wikimedia.org/wikipedia/commons/e/e4/Tolsto%C3%AF_-_Le_P%C3%A8re_Serge_et_autres_contes.djvu)
 
 ###### Questions
-
-Dans quel film français de 2017 réalisé par [[Vincent Lobelle]] et [[Sebastien Thiery]], [[Benoît Poelvoorde]] joue-t-il le rôle d'un beau-père excentrique, lors d'une soirée qui tourne au cauchemar pour [[Sébastien]] ?
-
-Quel film, sorti exactement le 31 mai 2017, présente [[Bruno]], un personnage qui doit faire face à son futur beau-père envahissant et possessif, joué par [[Benoît Poelvoorde]] ? <!-- score: 5 -->
-
-Dans quelle comédie française, tournée en 2017, l'invité d'un dîner devient un cauchemar pour [[Stéphane]] et [[Suzanne]], interprétés respectivement par [[Arthur Dupont]] et [[Louise Bourgoin]] ?
 
 ###### Description
 
