@@ -17,11 +17,12 @@ questions:
  - Quelle race de chien, issue d'un croisement effectué au XIXe siècle par le capitaine Max von Stephanitz, est loué pour son intelligence?
 ---
 
+
 ![Image de Berger allemand](https://upload.wikimedia.org/wikipedia/commons/d/d7/Alwin_Berger_1906.jpg)
 
 ###### Questions
 
-Quel race de chien choisie par [[Max von Stephanitz]] en [[1899]] a été le premier à jouer le rôle de [[Rin Tin Tin]] dans les années [[1920]] ? <!-- score: 3 -->
+Quel race de chien choisie par [[Max von Stephanitz]] en [[1899]] a été le premier à jouer le rôle de [[Rin Tin Tin]] dans les années [[1920]] ? <!-- score: 4 -->
 ###### Description
 
 Le [[Berger allemand]], un chien domestique de la famille des [[Canidés]], porte le nom scientifique de ''Canis lupus familiaris''. 
