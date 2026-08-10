@@ -25,6 +25,7 @@ questions:
 ---
 
 
+
 ![Image de Petit Prince](https://upload.wikimedia.org/wikipedia/commons/1/16/Le_Petit_Journal_Balkan_Crisis_%281908%29.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel titre de l'album "Saint-Exupéry" de [[Oxmo Puccino]] sorti en 2002 fait r�
 
 Quel morceau du groupe [[IAM]] présent sur l'album "[[Arts Martiens]]" sorti en 2013 évoque un jeune personnage d'un roman de [[Saint-Exupéry]] ? <!-- score: 6 -->
 
-Quelle chanson du rappeur [[Alonzo]], extraite de son album "[[Capo dei Capi, Vol. II]]" en 2016, porte le nom d'un héros littéraire ?
+Quelle chanson du rappeur [[Alonzo]], extraite de son album "[[Capo dei Capi, Vol. II]]" en 2016, porte le nom d'un héros littéraire ? <!-- score: 5 -->
 
 ###### Description
 
