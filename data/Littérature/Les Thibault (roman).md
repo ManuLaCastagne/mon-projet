@@ -24,13 +24,14 @@ questions:
  - Quel cycle romanesque de Roger-Martin du Gard publié de 1922 à 1940 trace le portrait d'une famille bourgeoise ?
 ---
 
+
 ![Image de Les Thibault (roman)](https://upload.wikimedia.org/wikipedia/commons/3/32/Saint-Thibault-des-Vignes_-_Place_de_l%27%C3%89glise.jpg)
 
 ###### Questions
 
 Quel roman écrit par [[Roger Martin du Gard]] a remporté le [[Prix Nobel de Littérature]] en 1937 ?
 
-Dans quel ouvrage publié entre 1922 et 1940, les lecteurs suivent l'histoire de la famille [[Thibault]] à travers les bouleversements sociaux et politiques du début du XXe siècle ?
+Dans quel ouvrage publié entre 1922 et 1940, les lecteurs suivent l'histoire de la famille [[Thibault]] à travers les bouleversements sociaux et politiques du début du XXe siècle ? <!-- score: 4 -->
 
 Quel roman en plusieurs volumes, dont le premier a été publié en 1922, décrit la vie d'une famille bourgeoise parisienne et met en scène les personnages de [[Jacques]] et [[Antoine Thibault]] ?
 
