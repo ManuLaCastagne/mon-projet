@@ -24,6 +24,7 @@ questions:
  - Dans le film "Et la tendresse? Bordel!", quel comédien genevois incarne un séducteur misogyne directeur d'un club de rencontres?
 ---
 
+
 ![Image de Jean-Luc Bideau](https://upload.wikimedia.org/wikipedia/commons/8/84/Jean-Luc_Bideau_Cannes_2009.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel film de [[Bertrand Blier]] sorti en 1974, [[Jean-Luc Bideau]] joue-t-i
 
 Dans quel film suisse de 1995 réalisé par [[Jacqueline Veuve]], [[Jean-Luc Bideau]] incarne-t-il le personnage de [[Pierre Bovet]] ?
 
-[[Jean-Luc Bideau]] a remporté le [[Prix Suisse du cinéma]] pour sa performance dans quel film en 2011 ?
+[[Jean-Luc Bideau]] a remporté le [[Prix Suisse du cinéma]] pour sa performance dans quel film en 2011 ? <!-- score: 5 -->
 
 ###### Description
 
