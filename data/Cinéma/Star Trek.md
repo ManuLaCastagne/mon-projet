@@ -22,11 +22,12 @@ indice_6 :
   - Starfleet
 ---
 
+
 ![Image de Star Trek](https://upload.wikimedia.org/wikipedia/commons/1/16/The_Shuttle_Enterprise_-_GPN-2000-001363.jpg)
 
 ###### Questions
 
-Quel film sorti en 1979 a marqué le début de la transition d'une série télévisée emblématique de science-fiction des années 1960 vers le grand écran, et a été réalisé par [[Robert Wise]] ? <!-- score: 2 -->
+Quel film sorti en 1979 a marqué le début de la transition d'une série télévisée emblématique de science-fiction des années 1960 vers le grand écran, et a été réalisé par [[Robert Wise]] ? <!-- score: 3 -->
 ###### Description
 
 [[Star Trek]] est une franchise emblématique de science-fiction, née en 1966, avec la diffusion de la première série télévisée créée par [[Gene Roddenberry]]. 
