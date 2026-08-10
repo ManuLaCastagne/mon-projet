@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Georg Friedrich Haendel](https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg)
 
 ###### Questions
 
 Dans quelle ville [[Georg Friedrich Haendel]] a-t-il composé le célèbre [[Messie]] en 1741 ?
 
-Quel compositeur, né en 1685 et influent dans le développement de l'opéra [[baroque]], est aussi bien connu pour avoir acquis la citoyenneté britannique en 1727 ? <!-- score: 3 -->
+Quel compositeur, né en 1685 et influent dans le développement de l'opéra [[baroque]], est aussi bien connu pour avoir acquis la citoyenneté britannique en 1727 ? <!-- score: 4 -->
 
 Sous quel prince-électeur, qui deviendra plus tard [[George Ier]] du Royaume-Uni, [[Georg Friedrich Haendel]] a-t-il été nommé Directeur de la musique de la cour de [[Hanovre]] en 1710 ?
 
