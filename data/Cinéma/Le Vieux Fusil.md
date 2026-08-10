@@ -25,6 +25,7 @@ indice_6:
 
 
 
+
 ![[Pasted image 20250421192655.png]]
 ###### Questions
 
