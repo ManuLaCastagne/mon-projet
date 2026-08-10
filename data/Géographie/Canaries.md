@@ -26,9 +26,6 @@ questions:
  - Archipel constitué de 7 îles principales, j'étais habité par le peuple guanche, d'origine berbère, qui fut anéanti par les Espagnols au 15e siècle.
 ---
 
-
-
-
 ![Image de Canaries](https://upload.wikimedia.org/wikipedia/commons/0/02/Senecio_leucanthemifolius_on_the_beach_close_to_%C3%93rzola_on_Lanzarote%2C_June_2013_%284%29.jpg)
 
 ![[Carte_Canaries.png]]
@@ -37,9 +34,6 @@ questions:
 [[Quelle chaîne d'îles]], située à environ 100 kilomètres à l'ouest des côtes du [[Maroc]], fait partie de l'[[Espagne]] et est connue pour son climat doux toute l'année ?
 
 Quel archipel, dont l'île [[Tenerife]] est la plus grande, abrite le [[Pico del Teide]], le troisième plus haut volcan du monde mesuré depuis le fond de l'océan ?
-
-Quel groupe d'îles a été déclaré région ultrapériphérique de l'[[Union européenne]] le 1er janvier 1991 ? <!-- score: 5 -->
-
 ###### Description
 
 Les [[îles Canaries]], situées dans l'océan Atlantique, forment un archipel espagnol composé de sept îles principales, dont [[Tenerife]], [[Gran Canaria]] et [[Lanzarote]], chacune offrant un paysage unique et diversifié.
