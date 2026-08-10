@@ -20,6 +20,7 @@ indice_6 :
   - contenu humoristique et divertissant
 ---
 
+
 ![Image de Michou (vidéaste)](https://upload.wikimedia.org/wikipedia/commons/a/a6/Michou_2023.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Dans quelle émission diffusée en 2021 sur [[TF1]] le vidéaste [[Michou (vidé
 
 Quel vidéaste nommé [[Michou (vidéaste)]] a été choisi en 2022 pour prêter sa voix à un personnage dans le film d'animation [[Les Minions 2 : Il était une fois Gru]] ? 
 
-En quelle année [[Michou (vidéaste)]] a-t-il été invité à participer à l'émission télévisée [[Fort Boyard]], illustrant son succès en dehors de sa chaîne [[YouTube]] ?
+En quelle année [[Michou (vidéaste)]] a-t-il été invité à participer à l'émission télévisée [[Fort Boyard]], illustrant son succès en dehors de sa chaîne [[YouTube]] ? <!-- score: 5 -->
 
 ###### Description
 
