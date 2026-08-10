@@ -22,11 +22,12 @@ indice_6:
   - Influencés par le rock'n'roll
 ---
 
+
 ![Image de The Surfs](https://upload.wikimedia.org/wikipedia/commons/0/09/Les_Surfs_%281964%29.jpg)
 
 ###### Questions
 
-Quel groupe de musique, originaire de [[Madagascar]], a atteint la célébrité avec la chanson « [[Si j'avais un marteau]] » en 1963 ?
+Quel groupe de musique, originaire de [[Madagascar]], a atteint la célébrité avec la chanson « [[Si j'avais un marteau]] » en 1963 ? <!-- score: 4 -->
 
 Quel groupe formé par six frères et sœurs a connu un succès international avec des chansons en espagnol et en anglais dans les années 1960 ? <!-- score: 5 -->
 
