@@ -25,10 +25,6 @@ questions:
  - Quelle chanteuse, disparue en 1990, était surnommée la Divine?
 ---
 
-
-
-
-
 ![Image de Sarah Vaughan](https://upload.wikimedia.org/wikipedia/commons/9/92/Sarah_Vaughan_-_William_P._Gottlieb_-_No._1.jpg)
 
 ###### Questions
@@ -36,9 +32,6 @@ questions:
 Quel artiste emblématique du [[jazz]], surnommé "The Divine One", a remporté un [[Grammy Award]] en 1982 pour son album live "[[Gershwin Live!]]" ? <!-- score: 3 -->
 
 Qui a enregistré une collaboration célèbre avec [[Miles Davis]] en 1950, contribuant à façonner le son du [[bebop]] et à populariser le genre à l'international ?
-
-Quel chanteur a été intronisé au [[Jazz Hall of Fame]] en 1990 et est reconnu pour sa capacité vocale exceptionnelle et son influence durable sur le jazz ? <!-- score: 4 -->
-
 ###### Description
 
 [[Sarah Vaughan]], surnommée « Sassy » et « The Divine One », est une chanteuse de jazz américaine célèbre pour sa voix riche et expressive. 
