@@ -16,13 +16,14 @@ indice_6 :
   - vêtement couvrant
 ---
 
+
 ![Image de Sarrau](https://upload.wikimedia.org/wikipedia/commons/2/2c/Diego_Camacho_%28Abel_Paz%29_-_Liberto_Sarrau_-_Federico_Arcos.jpg)
 
 ###### Questions
 
 Quel est le vêtement traditionnel porté par les écoliers français au début du XXe siècle afin de protéger leurs vêtements ?
 
-Quel vêtement de protection est souvent porté par les professionnels travaillant en laboratoire pour éviter de tacher leurs vêtements ?
+Quel vêtement de protection est souvent porté par les professionnels travaillant en laboratoire pour éviter de tacher leurs vêtements ? <!-- score: 5 -->
 
 Comment appelle-t-on le vêtement blanc que l'on associe souvent au [[docteur]] ou au [[scientifique]] dans les films et séries ?
 
