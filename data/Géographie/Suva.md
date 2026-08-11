@@ -19,12 +19,13 @@ indice_5:
 indice_6:
 ---
 
+
 ![Image de Suva](https://upload.wikimedia.org/wikipedia/commons/8/85/Suva%2C_Fiji_52.jpg)
 
 ![[Carte_Suva.png]]
 ###### Questions
 
-Quelle est la capitale de [[Fidji]] qui a accueilli les [[Jeux du Pacifique Sud]] pour la première fois en 1963 ? 
+Quelle est la capitale de [[Fidji]] qui a accueilli les [[Jeux du Pacifique Sud]] pour la première fois en 1963 ? <!-- score: 5 -->
 
 Quelle ville abrite le [[Botanical Gardens]], un lieu célèbre pour sa collection impressionnante de plantes tropicales et ses bâtiments coloniaux historiques, depuis 1913 ?
 
