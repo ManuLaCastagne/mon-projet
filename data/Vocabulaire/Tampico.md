@@ -16,17 +16,11 @@ indice_6 :
   - Golfe du Mexique
 ---
 
-
 ![Image de Tampico](https://upload.wikimedia.org/wikipedia/commons/a/ae/Tampico%2C_Indiana.jpg)
 
 ###### Questions
 
-Quelle ville portuaire du [[Mexique]], située sur les rives du fleuve [[Pánuco]], est connue pour sa production de pétrole et son commerce maritime ?
-
-Quelle boisson fruitée, souvent associée aux agrumes et vendue dans de nombreuses régions du monde, partage son nom avec une ville mexicaine ? <!-- score: 5 -->
-
-Quel ancien centre de la culture [[Huastec]], situé sur la côte du [[Golfe du Mexique]], a été fondé en 1823 et est aujourd'hui une importante station balnéaire ?
-
+Quelle ville portuaire du [[Mexique]], située sur les rives du fleuve [[Pánuco]], a donné son nom à une fibre d'agave utilisée entre autre pour la confection de brosses ? <!-- score: 5 -->
 ###### Description
 
 Le terme "[[Tampico]]" fait généralement référence à une ville portuaire située sur la côte est du [[Mexique]], dans l'État de [[Tamaulipas]]. 
