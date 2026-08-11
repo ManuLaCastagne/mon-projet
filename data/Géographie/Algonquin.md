@@ -25,6 +25,7 @@ questions:
  - Quelle ethnie indienne, comptant entre autres les Crees et les Ojibwas, désignait le fleuve d'un nom signifiant le chemin qui marche?
 ---
 
+
 ![Image de Algonquin](https://upload.wikimedia.org/wikipedia/commons/9/9c/Port_Edwards_Seafood_Restaurant_Outdoor_Seating_-_panoramio.jpg)
 
 ![[Carte_Algonquin.png]]
@@ -34,7 +35,7 @@ Quelle forêt canadienne, située en [[Ontario]], a été créée en 1893 pour p
 
 Quel parc provincial, le plus ancien du [[Canada]], a joué un rôle clé dans l'inspiration des Groupes des Sept, un collectif de peintres canadiens célèbres ?
 
-Quel lac artificiel du nord de l'[[Illinois]] est parfois confondu avec le territoire des [[Algonquins]] en [[Québec]], bien qu'ils partagent un nom similaire ?
+Quel lac artificiel du nord de l'[[Illinois]] est parfois confondu avec le territoire des [[Algonquins]] en [[Québec]], bien qu'ils partagent un nom similaire ? <!-- score: 5 -->
 
 ###### Description
 
