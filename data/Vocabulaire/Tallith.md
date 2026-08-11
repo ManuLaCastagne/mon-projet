@@ -16,11 +16,12 @@ indice_6 :
   - tissu rectangulaire
 ---
 
+
 ![Image de Tallith](https://upload.wikimedia.org/wikipedia/commons/7/76/Prayer_Shawl.JPG)
 
 ###### Questions
 
-Quel est le vêtement rituel porté par les hommes juifs lors des prières, souvent caractérisé par des franges aux coins appelées [[tsitsit]] ?
+Quel est le vêtement rituel porté par les hommes juifs lors des prières, souvent caractérisé par des franges aux coins appelées [[tsitsit]] ? <!-- score: 4 -->
 
 Comment nomme-t-on le châle traditionnel utilisé dans le [[judaïsme]] pour les cérémonies religieuses, qui s'enroule généralement autour des épaules et est souvent fait de laine ?
 
