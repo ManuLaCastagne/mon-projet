@@ -22,22 +22,11 @@ indice_6:
   - né à Cuba
 ---
 
-
-
-
-
 ![Image de José-Maria de Heredia](https://upload.wikimedia.org/wikipedia/commons/2/20/Jos%C3%A9-Maria_de_Heredia_1896.jpg)
 
 ###### Questions
 
-En 1899, de quel poète [[parnassien]], auteur de "[[Les Trophées]]", l'écrivain [[Pierre Louys]] devient-il le gendre ?
-
-Qui fut élu à l'[[Académie française]] en 1894, un an seulement après la parution de son unique recueil "Les Trophées" ? <!-- score: 3 -->
-
-Quel poète cubano-français a publié le recueil de sonnets intitulé [[Les Trophées]] en 1893? <!-- score: 3 -->
-
-Quel écrivain a été nommé conservateur de la [[Bibliothèque de l'Arsenal]] en 1901?
-
+En 1899, de quel poète [[parnassien]] cubano-français, auteur de son unique recueil "[[Les Trophées]]" en 1893, l'écrivain [[Pierre Louys]] devient-il le gendre ? <!-- score: 5 -->
 ###### Description
 
 [[José-Maria de Heredia]], né en 1842 à [[La Fortuna]], près de [[Santiago]], est un poète français connu pour ses [[Sonnets (oeuvre)]] magnifiquement ciselés et regroupés dans le recueil intitulé "Les Trophées", publié en 1893. 
