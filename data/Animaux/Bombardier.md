@@ -16,13 +16,14 @@ indice_6:
 ---
 
 
+
 ![Image de Bombardier](https://upload.wikimedia.org/wikipedia/commons/f/f5/Bombardier_Plane.jpg)
 
 ###### Questions
 
 Quel insecte coléoptère doit son nom, évoquant un type d'avion, au gaz contenant de l'acide formique qu'il projette ?
 
-Quel insecte a été décrit pour la première fois en 1758 par [[Carl von Linné]] et est célèbre pour sa capacité à expulser des jets défensifs en créant une explosion dans son abdomen ? <!-- score: 4 -->
+Quel insecte a été décrit pour la première fois en 1758 par [[Carl von Linné]] et est célèbre pour sa capacité à expulser des jets défensifs en créant une explosion dans son abdomen ? <!-- score: 6 -->
 
 ###### Description
 
