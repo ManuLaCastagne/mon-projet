@@ -22,11 +22,12 @@ questions:
  - Sous quel nom de scène connaît-on mieux Gilles Benizio qui forme un duo comique avec son épouse, prénommée Corinne?
 ---
 
+
 ![Image de Shirley et Dino](https://upload.wikimedia.org/wikipedia/commons/5/52/Shirley_et_Dino_C%C3%A9sars.jpg)
 
 ###### Questions
 
-Quel duo comique a remporté le concours de [[Graine de Star]] en [[1997]] ?
+Quel duo comique a remporté le concours de [[Graine de Star]] en [[1997]] ? <!-- score: 6 -->
 
 Quel couple célèbre d'humoristes a animé et participé à de nombreux sketchs dans l'émission [[Le Plus Grand Cabaret du Monde]] de [[Patrick Sébastien]] au début des années [[2000]] ?
 
