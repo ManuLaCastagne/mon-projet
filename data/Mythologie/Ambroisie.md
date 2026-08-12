@@ -21,19 +21,11 @@ questions:
  - Selon les anciens Grecs, quelle substance à base de miel procurant l'immortalité, servait de nourriture aux dieux ?
 ---
 
-
-
-
 ![Image de Ambroisie](https://upload.wikimedia.org/wikipedia/commons/9/99/Ragweed_%28Ambrosia_artemisiifolia%29.jpg)
 
 ###### Questions
 
-Quel mets mythologique confère l'immortalité aux dieux de l'[[Olympe]] dans la mythologie [[grecque]] ? 
-
-Quel aliment était utilisé par [[Héra]] pour rendre la vie à [[Pelops]] dans les mythes antiques ? <!-- score: 4 -->
-
-Quel élixir divin est associé à l'ambroisie et est souvent servi par [[Hébé]], la déesse de la jeunesse, comme boisson dans la [[mythologie grecque]] ? <!-- score: 10 -->
-
+Quel mets mythologique confère l'immortalité et est souvent servi par [[Hébé]], la déesse de la jeunesse, aux dieux de l'[[Olympe]] dans la mythologie [[grecque]] ? <!-- score: 5 -->
 ###### Description
 
 Dans la [[mythologie grecque]], l'[[Ambroisie]] est souvent décrite comme la nourriture ou la boisson des dieux de l'[[Olympe]], leur conférant l'immortalité et une beauté éternelle. 
