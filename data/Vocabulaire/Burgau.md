@@ -16,11 +16,12 @@ indice_6 :
   - Village côtier
 ---
 
+
 ![Image de Burgau](https://upload.wikimedia.org/wikipedia/commons/7/7f/Burgau_Panorama.jpg)
 
 ###### Questions
 
-Quelle est la station balnéaire située dans la région de l'Algarve au sud du [[Portugal]]?
+Quelle est la station balnéaire située dans la région de l'Algarve au sud du [[Portugal]]? <!-- score: 5 -->
 
 Quel est le nom du petit village de pêcheurs connu pour ses plages pittoresques près de [[Lagos]]?
 
