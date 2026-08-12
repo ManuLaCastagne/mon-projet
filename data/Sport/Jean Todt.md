@@ -22,6 +22,7 @@ questions:
  - Qui fut nommé Président de la Fédération internationale de l'automobile en 2009 ?
 ---
 
+
 ![Image de Jean Todt](https://upload.wikimedia.org/wikipedia/commons/3/39/Jean_Todt_%28Official%29.png)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel dirigeant français a été président de la [[Fédération Internationale 
 
 Quel ancien copilote de rallye a contribué aux succès de l'écurie [[Ferrari]] en [[Formule 1]] dans les années [[1990]] et [[2000]] ?
 
-Qui a été le directeur de l'écurie [[Peugeot]] lorsqu'ils ont remporté le [[Championnat du Monde des Rallyes]] en [[1985]] et [[1986]] ?
+Qui a été le directeur de l'écurie [[Peugeot]] lorsqu'ils ont remporté le [[Championnat du Monde des Rallyes]] en [[1985]] et [[1986]] ? <!-- score: 5 -->
 
 ###### Description
 
