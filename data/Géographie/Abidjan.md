@@ -28,12 +28,13 @@ questions:
 
 
 
+
 ![Image de Abidjan](https://upload.wikimedia.org/wikipedia/commons/1/14/Abidjan_Collage.jpg)
 
 ![[Carte_Abidjan.png]]
 ###### Questions
 
-Dans quelle ville d'Afrique de l'Ouest se trouve le port qui était en 2022 le plus achalandé de toute la région ? <!-- score: 4 -->
+Dans quelle ville d'Afrique de l'Ouest se trouve le port qui était en 2022 le plus achalandé de toute la région ? <!-- score: 5 -->
 
 Quelle ville a été la capitale de la [[Côte d'Ivoire]] de 1933 à 1983 avant que [[Yamoussoukro]] ne la remplace officiellement ?
 
