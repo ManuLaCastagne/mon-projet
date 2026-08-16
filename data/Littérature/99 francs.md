@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - 99_francs
   - France
@@ -7,33 +7,28 @@ tags:
 date:
   - 2000/08/00
 debut: 2000
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Frédéric Beigbeder
-indice_2 : 
+indice_2:
   - monde de la publicité
-indice_3 : 
+indice_3:
   - Octave Parango
-indice_4 : 
+indice_4:
   - satire de la société de consommation
-indice_5 : 
+indice_5:
   - roman publié en 2000
-indice_6 : 
+indice_6:
   - critique du marketing
-questions:
- - Avant le passage à l'euro, sous quel titre a été publité le livre "14 euros 99" de Frédéric Beigbeder ?
 ---
-
-![Image de 99 francs](https://upload.wikimedia.org/wikipedia/commons/e/ec/Bergpark_Wilhelmsh%C3%B6he_-_Baum_99f_2021-02-22_d.JPG)
-
+![[Pasted image 20260816110720.png]]
 ###### Questions
 
-Quel est le titre du roman publié par [[Frédéric Beigbeder]] en 2000 qui critique la société de consommation et l'univers de la publicité ?
+Quel est le titre du roman publié par [[Frédéric Beigbeder]] en 2000 qui explore le monde impitoyable de la publicité à travers les yeux de son personnage principal, [[Octave Parango]] ?
 
-Quel roman, devenu un film en 2007, est une satire du monde publicitaire et a été écrit par l'auteur français [[Frédéric Beigbeder]] ?
+Avant le passage à l'euro, sous quel titre a été publité le livre "14 euros 99" de Frédéric Beigbeder ?
 
-Quel ouvrage de [[Frédéric Beigbeder]] propose une réflexion incisive sur l'impact médiatique et commercial, aboutissant à sa reconnaissance en tant que critique célèbre ?
-
+Quel livre de Beigbeder a été adapté au cinéma avec [[Jean Dujardin]] en rôle-titre ?
 ###### Description
 
 [[99 francs]] est un roman satirique publié en 2000 par [[Frédéric Beigbeder]], qui explore le monde impitoyable de la publicité à travers les yeux de son personnage principal, [[Octave Parango]]. 

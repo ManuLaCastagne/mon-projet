@@ -36,7 +36,7 @@ Quel membre de la [[Première Internationale]] s'est exilé à [[Londres]] aprè
 
 [[Jules Vallès]] est un écrivain et journaliste français né en 1832 et décédé en 1885, connu pour son engagement politique et social. 
 
-Il est célèbre pour sa trilogie autobiographique [["L'Enfant", "Le Bachelier" et "L'Insurgé"]], qui dépeint sa vie et ses convictions, notamment son rôle actif lors de la [[Commune de Paris]] en 1871. 
+Il est célèbre pour sa trilogie autobiographique [[L'Enfant, Le Bachelier et L'Insurgé]], qui dépeint sa vie et ses convictions, notamment son rôle actif lors de la [[Commune de Paris]] en 1871. 
 
 Fait étonnant, [[Jules Vallès]] a fondé le journal révolutionnaire "[[Le Cri du Peuple]]" en 1871, où il publia des articles défendant les idées de la Commune, défiant ouvertement le gouvernement en place. 
 
