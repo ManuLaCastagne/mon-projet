@@ -32,11 +32,9 @@ questions:
 
 ###### Questions
 
-Quel auteur de renommée internationale a été victime d'une [[fatwa]] en 1989 après la publication controversée de son roman [[Les Versets sataniques]] ? <!-- score: 2 -->
+Quel auteur britannique d'origine indienne a été victime d'une [[fatwa]] en 1989 après la publication controversée de son roman [[Les Versets sataniques]] ? <!-- score: 2 -->
 
 Quel écrivain anglo-indien, né en 1947 à [[Bombay]], a reçu le prestigieux [[Booker Prize]] en 1981 pour son œuvre [[Les Enfants de minuit]] ?
-
-Quel romancier a survécu à une attaque en 2022 alors qu'il s'apprêtait à donner une conférence à [[Chautauqua Institution]] aux [[États-Unis]] ?
 
 ###### Description
 
