@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Actors Studio.md",
+                "file": "Anatomie/La Gifle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Actors Studio"
+              "title": "Graphique de La Gifle"
             }
           },
           {
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Actors Studio.md",
+                "file": "Anatomie/La Gifle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actors Studio"
+              "title": "La Gifle"
             }
           },
           {
@@ -377,6 +377,7 @@
   "active": "2309c844cdff7643",
   "lastOpenFiles": [
     "attachments/Pasted image 20260816110720.png",
+    "Cinéma/Actors Studio.md",
     "Littérature/La Zone du Dehors.md",
     "Littérature/La Mystérieuse Affaire de Styles.md",
     "Littérature/La Horde du Contrevent.md",
@@ -390,7 +391,6 @@
     "Cinéma/Agnès Jaoui.md",
     "Cinéma/Le Goût des autres.md",
     "Culture générale/César du meilleur film.md",
-    "Cinéma/Actors Studio.md",
     "Géographie/Antony.md",
     "Cinéma/Adèle Exarchopoulos.md",
     "Cinéma/L'Amour Ouf.md",
@@ -411,7 +411,6 @@
     "attachments/Pasted image 20260803220027.png",
     "attachments/Pasted image 20260803215609.png",
     "attachments/Pasted image 20260803214246.png",
-    "attachments/Pasted image 20260803213438.png",
     "Culture générale/Sans titre 1.base",
     "Culture générale/Sans titre.base",
     "Frises/Base de données n°1.base",
