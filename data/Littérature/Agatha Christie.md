@@ -1,44 +1,42 @@
 ---
-tags: 
+tags:
   - Littérature
-  - Agatha_Christie
   - Auteur
   - Angleterre
+  - Certifié
 date:
   - 1890/09/15
 debut: 1890
 fin: 1976
-indice_1 : 
+indice_1:
   - Hercule Poirot
-indice_2 : 
+indice_2:
   - Miss Marple
-indice_3 : 
+indice_3:
   - Le crime de l'Orient-Express
-indice_4 : 
+indice_4:
   - Dix petits nègres
-indice_5 : 
+indice_5:
   - Reine du crime
-indice_6 : 
+indice_6:
   - Roman policier
-questions:
- - Quelle femme de lettres a vu ses romans policiers comme "Le Crime de l'Orient-Express" et "Mort sur le Nil"  être adaptés au cinéma?
 ---
 
-![Image de Agatha Christie](https://upload.wikimedia.org/wikipedia/commons/f/fe/Puerto_de_la_Cruz_-_A_Christie_monument.jpg)
+![Image de Agatha Christie](https://upload.wikimedia.org/wikipedia/commons/f/f7/Agatha_Christie_in_Nederland_%28detectiveschrijfster%29%2C_bij_aankomst_op_Schiphol_me%2C_Bestanddeelnr_916-8898_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ###### Questions
 
-Quel célèbre auteur de romans policiers, également connu sous le pseudonyme de [[Mary Westmacott]], a vendu plus de deux milliards d'exemplaires de ses ouvrages à travers le monde depuis sa première publication en 1920 ?
+Quelle femme de lettres née en 1890 a vu ses romans policiers comme "[[Le Crime de l'Orient-Express]]" et "[[Mort sur le Nil]]" être adaptés au cinéma?
 
-Quel écrivain britannique de romans policiers, né en 1890, détient le record de la série la plus traduite de tous les temps selon le [[Livre Guinness des records]] ?
+Quel célèbre autrice de romans policiers décédée en 1976 est également connue sous le pseudonyme de [[Mary Westmacott]] ?
 
-Quel auteur a inspiré une mystérieuse disparition en 1926, suscitant une recherche nationale au [[Royaume-Uni]], avant de réapparaître sans jamais expliquer ce qui s'était passé ?
+Qui est la Reine du crime ?
 
 ###### Description
 
-[[Agatha Christie]] est souvent surnommée la "Reine du crime", et pour cause, elle a écrit 66 romans policiers ainsi que 14 nouvelles, composant un vaste univers littéraire. 
+[[Agatha Christie]] est souvent surnommée la "[[Reine du crime]]", et pour cause, elle a écrit 66 romans policiers ainsi que 14 nouvelles, composant un vaste univers littéraire. 
 
-Son personnage le plus emblématique, [[Hercule Poirot]], apparaît pour la première fois en 1920 dans le roman "La Mystérieuse Affaire de Styles", marquant le début d'une série qui durera jusqu'en 1975. 
+Son personnage le plus emblématique, [[Hercule Poirot]], apparaît pour la première fois en 1920 dans le roman "[[La Mystérieuse Affaire de Styles]]", marquant le début d'une série qui durera jusqu'en 1975. 
 
 Un fait étonnant à son sujet : elle détient le record Guinness du livre le plus vendu de tous les temps pour une romancière, avec plus de deux milliards d'exemplaires de ses ouvrages vendus à travers le monde. 
 

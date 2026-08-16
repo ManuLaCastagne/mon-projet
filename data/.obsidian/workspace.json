@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Abbé Prévost.md",
+                "file": "Littérature/Alain Damasio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Abbé Prévost"
+              "title": "Graphique de Alain Damasio"
             }
           },
           {
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Abbé Prévost.md",
+                "file": "Littérature/Alain Damasio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abbé Prévost"
+              "title": "Alain Damasio"
             }
           }
         ],
@@ -363,6 +363,13 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
+    "Littérature/Agatha Christie.md",
+    "Culture générale/Reine du crime.md",
+    "Littérature/La Mystérieuse Affaire de Styles.md",
+    "Culture générale/Mary Westmacott.md",
+    "Littérature/Alain Damasio.md",
+    "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
+    "Littérature/Abbé Prévost.md",
     "Littérature/A la recherche du temps perdu.md",
     "Géographie/Combray.md",
     "Littérature/A Study in Scarlet.md",
@@ -370,7 +377,6 @@
     "attachments/Pasted image 20260816110720.png",
     "Littérature/37,2 le matin (roman).md",
     "Histoire/Jules Vallès.md",
-    "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
     "Littérature/Le Figaro (journal).md",
     "Littérature/Salman Rushdie.md",
     "Littérature/Yakari.md",
@@ -393,12 +399,6 @@
     "Vocabulaire/Wagage.md",
     "Vocabulaire/Ombudsman.md",
     "Vocabulaire/Médersa.md",
-    "Vocabulaire/Muqarnas.md",
-    "Vocabulaire/Konjac.md",
-    "Vocabulaire/Jiggeur.md",
-    "Sciences/Renault.md",
-    "Musique/hard bop.md",
-    "Musique/be-bop.md",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
     "Frises/Base de données n°1.base",

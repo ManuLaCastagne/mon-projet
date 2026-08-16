@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Alain_Damasio
   - France
@@ -7,30 +7,26 @@ tags:
 date:
   - 1969/08/01
 debut: 1969
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - La Horde du Contrevent
-indice_2 : 
+indice_2:
   - Les Furtifs
-indice_3 : 
+indice_3:
   - science-fiction française
-indice_4 : 
+indice_4:
   - auteur engagé
-indice_5 : 
+indice_5:
   - dystopie
-indice_6 : 
+indice_6:
   - imaginaire original
-questions:
- - En 2019, quel romancier français, auteur de "La Horde du contrevent" publie "Les Furtifs"?
 ---
 
 ![Image de Alain Damasio](https://upload.wikimedia.org/wikipedia/commons/f/fe/Alain_Damasio.jpg)
 
 ###### Questions
 
-Dans quel roman de [[Alain Damasio]], publié en 2004, trouve-t-on l'utilisation unique de trente-quatre types de vent pour structurer le récit et la langue ?
-
-Quel célèbre écrivain français, Alain Damasio, a grandement influencé la série d'animation [[Arcane]] avec ses idées et son approche narrative, bien qu'elle soit sortie des années après ses œuvres principales ?
+En 2019, quel romancier français, auteur de "La Horde du contrevent" publie "Les Furtifs" ?
 
 Quel auteur de science-fiction français, auteur de [[La Horde du Contrevent]], a également prêté sa voix en tant que doublage dans le jeu vidéo [[Remember Me]], sorti en 2013 ?
 
