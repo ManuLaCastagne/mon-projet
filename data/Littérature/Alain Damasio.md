@@ -1,9 +1,9 @@
 ---
 tags:
   - Littérature
-  - Alain_Damasio
   - France
   - Années_2000
+  - Certifié
 date:
   - 1969/08/01
 debut: 1969
@@ -26,9 +26,9 @@ indice_6:
 
 ###### Questions
 
-En 2019, quel romancier français, auteur de "La Horde du contrevent" publie "Les Furtifs" ?
+En 2019, quel romancier lyonnais, auteur de "La Horde du contrevent" publie "Les Furtifs" ?
 
-Quel auteur de science-fiction français, auteur de [[La Horde du Contrevent]], a également prêté sa voix en tant que doublage dans le jeu vidéo [[Remember Me]], sorti en 2013 ?
+Quel auteur de science-fiction lyonnais a publié son premier roman "[[La Zone du Dehors]]" en 1999, et explore des thèmes de liberté et d’oppression dans une société futuriste ?
 
 ###### Description
 

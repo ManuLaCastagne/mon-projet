@@ -1,38 +1,32 @@
 ---
-tags: 
+tags:
   - Littérature
-  - Alain_Rey
   - France
   - Années_1960
+  - Certifié
 date:
   - 1928/08/30
 debut: 1928
 fin: 2020
-indice_1 : 
+indice_1:
   - lexicographe
-indice_2 : 
+indice_2:
   - dictionnaire
-indice_3 : 
+indice_3:
   - Robert
-indice_4 : 
+indice_4:
   - philologue
-indice_5 : 
+indice_5:
   - histoire des mots
-indice_6 : 
+indice_6:
   - amoureux de la langue française
-questions:
- - Connaître du grand public avec mes chroniques malicieuses "Démo des mots" sur France 2...
 ---
 
 ![Image de Alain Rey](https://upload.wikimedia.org/wikipedia/commons/4/4c/Alain_Rey%2C_2014_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel célèbre lexicographe français, né en 1928, a consacré plus de cinquante ans de sa vie à travailler sur le célèbre dictionnaire [[Le Robert]] ?
-
-Quel amoureux des mots et figure emblématique de la linguistique, disparu en 2020, a popularisé de nombreux néologismes lors de sa participation à l'émission télévisée [[Les Mots de Minuit]] ?
-
-Quel directeur éditorial des [[dictionnaires Le Robert]] a publié en 2005 un ouvrage intitulé "[[Dictionnaire amoureux des dictionnaires]]" ?
+Quel célèbre lexicographe français, né en 1928 à Pont-du-Château, a consacré plus de cinquante ans de sa vie à travailler sur le célèbre dictionnaire [[Le Robert]] ?
 
 ###### Description
 
