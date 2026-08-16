@@ -32,7 +32,7 @@ Quel écrivain secret décrit les rapports de pouvoir de mon pays dans des oeuvr
 
 Quel auteur, la première personne à avoir reçu deux fois le [[Booker Prize]], l'a remporté pour les livres [[Disgrace]] (1999) et [[Life & Times of Michael K]] (1983) ?
 
-Quel écrivain, à qui l'Université [[d'Adélaïde]] a décerné le titre de professeur émérite en 2002, est également célèbre pour son engagement pour les droits des animaux et le végétarisme ?
+Quel écrivain sud-africain, à qui l'Université d'[[Adélaïde]] a décerné le titre de professeur émérite en 2002, est également célèbre pour son engagement pour les droits des animaux et le végétarisme ?
 
 ###### Description
 
