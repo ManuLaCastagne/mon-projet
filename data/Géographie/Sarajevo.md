@@ -31,7 +31,7 @@ questions:
 ![[Carte_Sarajevo.png]]
 ###### Questions
 
-Quel événement tragique s'est produit à [[Sarajevo]] le 28 juin 1914, déclenchant la Première Guerre mondiale ? <!-- score: 8 -->
+Le 28 juin 1914, dans quelle ville des Balkans 'archiduc d'Autriche [[François-Ferdinand de Habsbourg]] a été assassiné ?
 
 Dans quelle ville historique se sont tenus les [[Jeux olympiques d'hiver]] de 1984 ? <!-- score: 3 -->
 

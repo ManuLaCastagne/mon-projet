@@ -32,8 +32,7 @@ Quel poème célèbre de [[Arthur Rimbaud]], écrit en 1871, raconte le voyage i
 
 Quel texte, considéré comme une œuvre phare du mouvement [[Symbolisme]], a marqué la rupture du jeune poète [[Arthur Rimbaud]] avec les formes traditionnelles de la poésie en 1871 ? 
 
-Quelle œuvre poetique a été récité pour la première fois en public par [[Paul Verlaine]], lors d'une réunion des [[Vilains Bonshommes]] à [[Paris]], le 30 septembre 1871 ?
-
+Quelle œuvre poetique a été récité pour la première fois en public par [[Paul Verlaine]], lors d'une réunion des [[Vilains Bonshommes]] à [[Paris]], le 30 septembre 1871 ? <!-- score: 5 -->
 ###### Description
 
 [[Le Bateau ivre]], poème emblématique écrit par [[Arthur Rimbaud]] en 1871, est souvent considéré comme une révolution littéraire du XIXe siècle grâce à son style visionnaire et symboliste. 

@@ -16,18 +16,11 @@ indice_6 :
   - Tracer à la charrue
 ---
 
-
-
 ![Image de Pomoerium](https://upload.wikimedia.org/wikipedia/commons/3/32/Roma_quadrata_-_Palatina%2C_Vierregionenstadt_und_Servianische_Stadt.jpg)
 
 ###### Questions
 
-Quelle est la limite sacrée séparant la [[Rome antique]] de sa campagne environnante et définissant l'espace juridique de la ville? <!-- score: 3 -->
-
-Quel terme désigne la frontière symbolique dont le dépassement par un gouverneur romain avec ses troupes armées constituait un acte de rébellion?
-
-Comment s'appelle l'espace consacré par [[Romulus]] selon les légendes qui marquait la démarcation officielle du territoire religieux et politique de [[Rome]]?
-
+Quel terme [[latin]] désigne l'espace consacré par [[Romulus]] selon les légendes qui marquait la démarcation officielle du territoire religieux, politique et juridique de [[Rome]] ? <!-- score: 4 -->
 ###### Description
 
 Le terme "Pomoerium" fait référence à la limite sacrée de la ville de [[Rome]], à l'intérieur de laquelle aucune construction militaire n'était permise. 

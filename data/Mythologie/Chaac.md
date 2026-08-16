@@ -20,21 +20,11 @@ questions:
  - Chez les Mayas, quel nom donnait-on au dieu de la pluie, du vent et des éclairs ?
 ---
 
-
-
-
-
-
 ![Image de Chac](https://upload.wikimedia.org/wikipedia/commons/8/84/Chac_Mool%2C_Teotihuac%C3%A1n.JPG)
 
 ###### Questions
 
-Quel dieu de la pluie des [[Mayas]], également vénéré pour ses pouvoirs sur l'agriculture, est souvent représenté avec un grand nez et des écailles ? <!-- score: 2 -->
-
-Quel est le nom du dieu associé à la pluie et à l'éclair dans la mythologie classique des [[Mayas]], présent sur de nombreux monuments à partir de l'époque préclassique autour de 100 avant notre ère ?
-
-Dans la civilisation maya, qui est le dieu dont l'apparence a influencé de nombreux masques cérémoniels et statues, et qui est célébré pour son influence sur les récoltes ?
-
+Quel dieu de la pluie des [[Mayas]], également vénéré pour ses pouvoirs sur l'agriculture, est souvent représenté avec un grand nez et des écailles ? <!-- score: 3 -->
 ###### Description
 
 [[Chaac]] est le dieu de la pluie et de la fertilité dans la culture [[maya]], un rôle vital pour les civilisations qui dépendaient de l'agriculture. 

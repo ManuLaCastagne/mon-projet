@@ -22,16 +22,13 @@ questions:
  - En 1986, quel ancien entraîneur du RC Lens conduit le PSG à son 1er titre de champion de France?
 ---
 
-![Image de Gérard Houllier](https://upload.wikimedia.org/wikipedia/commons/7/76/G%C3%A9rard_Houllier_%28cropped%29.jpg)
+![Image de Gérard Houllier](https://upload.wikimedia.org/wikipedia/commons/7/76/G%C3%A9rard_Houllier_%28cropped%29.jpg)
 
 ###### Questions
 
 Quel entraîneur a mené le [[Paris Saint-Germain]] à remporter la [[Division 1]] en [[1986]] ?
 
-Quel directeur technique a été partagé entre la fonction de sélectionneur de l'[[équipe de France de football]] avec [[Roger Lemerre]] en [[1992]] avant de se concentrer uniquement sur son rôle de manager du [[RC Lens]] ?
-
-Quel entraîneur a permis au [[Liverpool FC]] de remporter cinq coupes, dont la [[Coupe de l'UEFA]] et la [[FA Cup]], lors de la saison [[2000-2001]] ?
-
+Quel directeur technique a été partagé entre la fonction de sélectionneur de l'[[équipe de France de football]] avec [[Roger Lemerre]] en [[1992]] avant de se concentrer uniquement sur son rôle de manager du [[RC Lens]] ? <!-- score: 4 -->
 ###### Description
 
 [[Gérard Houllier]] est né le 3 septembre 1947 à [[Thérouanne]], une petite commune du Pas-de-Calais, en [[France]]. 

@@ -20,12 +20,7 @@ indice_6 :
 
 ###### Questions
 
-Quel instrument musical mécanique décoratif était souvent utilisé dans les fêtes foraines et les carrousels au XIXe siècle pour créer une ambiance festive avec sa musique entraînante ?
-
-Quel est le nom de l'entreprise française fondée au XIXe siècle, célèbre pour avoir fabriqué des orgues mécaniques populaires dans les lieux publics de divertissement ?
-
-Quel type d'orgue de foire, souvent associé aux [[fêtes foraines]] et aux carrousels, présente des figures animées et un riche décor orné pour attirer visuellement et auditivement le public ?
-
+Quel est le nom de l'entreprise française fondée au XIXe siècle, qui a donné son nom à des orgues mécaniques populaires dans les foires ? <!-- score: 4 -->
 ###### Description
 
 Le mot "Limonaire" désigne un orgue mécanique de grande taille utilisé couramment dans les foires et les parcs d'attractions au XIXe et au début du XXe siècle. 

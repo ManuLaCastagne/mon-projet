@@ -24,8 +24,7 @@ questions:
  - Dans les "Sonnets" composés au XIVe siècle, quel poète italien pleure la mort de sa muse Laure et regrette  sa beauté disparue?
 ---
 
-
-![Image de Pétrarque](https://upload.wikimedia.org/wikipedia/commons/5/5f/Statue_of_Francesco_Petrarca-_Uffizi_Gallery.jpg)
+![Image de Pétrarque](https://upload.wikimedia.org/wikipedia/commons/5/5f/Statue_of_Francesco_Petrarca-_Uffizi_Gallery.jpg)
 
 ###### Questions
 
@@ -34,7 +33,6 @@ Quel poète italien du XIVe siècle, connu pour son œuvre "Le Canzoniere", est 
 Quel auteur a été couronné poète lauréat sur le Capitole de Rome en 1341, une cérémonie qui n'avait plus été organisée depuis l'époque de [[l'Empire romain]], marquant une reconnaissance majeure de son talent littéraire ?
 
 Quel écrivain est célèbre pour sa passion amoureuse pour [[Laura de Noves]] une femme qui l'a inspiré tout au long de sa vie, bien que leur première rencontre fortuite ait eu lieu à [[Avignon]] le [[6 avril 1327]] ?
-
 ###### Description
 
 [[Francesco Petrarca]], connu en français sous le nom de [[Pétrarque]], est un poète et érudit italien du XIVe siècle souvent considéré comme l'un des fondateurs de l'humanisme de la Renaissance. 

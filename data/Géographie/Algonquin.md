@@ -31,11 +31,6 @@ questions:
 ###### Questions
 
 Quelle forêt canadienne, située en [[Ontario]], a été créée en 1893 pour protéger les rivières des bassins versants mais est devenue un site populaire pour les campeurs et les amateurs de plein air ?
-
-Quel parc provincial, le plus ancien du [[Canada]], a joué un rôle clé dans l'inspiration des Groupes des Sept, un collectif de peintres canadiens célèbres ?
-
-Quel lac artificiel du nord de l'[[Illinois]] est parfois confondu avec le territoire des [[Algonquins]] en [[Québec]], bien qu'ils partagent un nom similaire ?
-
 ###### Description
 
 Le [[Parc provincial Algonquin]], établi en [[Ontario]] en 1893, est le plus ancien parc provincial du Canada, s'étendant sur une superficie de près de 7 653 km². 

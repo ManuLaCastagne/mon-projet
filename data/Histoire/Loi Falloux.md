@@ -22,17 +22,11 @@ questions:
  - Quel nom porte la loi de 1850 libérant les professeurs dans leur exercice ?
 ---
 
-
 ![Image de Loi Falloux](https://upload.wikimedia.org/wikipedia/commons/0/04/Alfred_de_Falloux_Disderi_BNF_Gallica.jpg)
 
 ###### Questions
 
-Quel texte législatif adopté en [[1850]] a permis la création d'écoles secondaires catholiques tout en augmentant l'influence de l'Église sur l'enseignement en France ?
-
-Quelle loi controversée, adoptée sous le gouvernement de [[Napoléon III]], a élargi le contrôle de l'enseignement supérieur et des établissements religieux en [[1850]] ? <!-- score: 4 -->
-
-Quel ensemble de dispositions législatives a joué un rôle majeur dans l'organisation du système éducatif français du milieu du XIXe siècle, marquant une étape importante avant les réformes de [[Jules Ferry]] ?
-
+Quel texte législatif controversé, adopté en [[1850]] sous le gouvernement de [[Napoléon III]], a permis la création d'écoles secondaires catholiques tout en augmentant l'influence de l'Église sur l'enseignement en France ? <!-- score: 5 -->
 ###### Description
 
 La [[Loi Falloux]], promulguée en [[1850]], sous la Deuxième République en France, est un ensemble de dispositions législatives visant à réorganiser le système éducatif français. 

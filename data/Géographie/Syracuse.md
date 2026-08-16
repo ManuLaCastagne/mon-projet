@@ -31,6 +31,7 @@ questions:
 
 
 
+
 ![Image de Syracuse](https://upload.wikimedia.org/wikipedia/commons/d/d7/Syracuse_NY.jpg)
 
 ![[Carte_Syracuse.png]]

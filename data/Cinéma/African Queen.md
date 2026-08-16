@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Royaume-Uni
   - Années_1950
@@ -7,21 +7,19 @@ tags:
 date:
   - 1951/07/20
 debut: 1951
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Bogart
-indice_2 : 
+indice_2:
   - Hepburn
-indice_3 : 
+indice_3:
   - bateau
-indice_4 : 
+indice_4:
   - Ouganda
-indice_5 : 
+indice_5:
   - rivière
-indice_6 : 
+indice_6:
   - aventure
-questions:
- - En 1952, dans quel film de John Huston dont l'action se déroule en Afrique, Humphrey Bogart incarne-t-il le capitaine d'un vieux bateau ?
 ---
 
 
@@ -31,7 +29,7 @@ questions:
 
 Quel film réalisé par [[John Huston]] en 1951 mettant en scène [[Humphrey Bogart]] et [[Katharine Hepburn]] a été tourné en grande partie en Afrique et raconte l'histoire d'un bateau naviguant sur une rivière africaine pendant la [[Première Guerre mondiale]] ?
 
-Quel est le nom du bateau utilisé par les personnages principaux dans le film [[African Queen]], qui a également donné son titre au film ?
+En 1952, dans quel film de John Huston dont l'action se déroule en [[Afrique]], Humphrey Bogart incarne-t-il le capitaine d'un vieux bateau ?
 
 Quel film centré sur l'odyssée d'un bateau à vapeur sur une rivière dans la jungle africaine a permis à [[Humphrey Bogart]] de remporter l'Oscar du meilleur acteur en 1952 ? <!-- score: 3 -->
 

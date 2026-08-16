@@ -24,6 +24,7 @@ questions:
  - En 2010, quel film de Xavier Beauvois, avec Lambert Wilson, évoque le destin tragique des moines de Tibhirine ?
 ---
 
+
 ![Image de Des Hommes et des dieux](https://upload.wikimedia.org/wikipedia/commons/2/27/Des_hommes_et_des_dieux_Cannes_2010.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel film, sorti en 2010, raconte l'histoire des moines français vivant en [[Al
 
 Quel est le titre du long métrage réalisé par [[Xavier Beauvois]] qui a remporté le [[Grand Prix]] au Festival de Cannes en 2010 ?
 
-Dans quel film retrouve-t-on l'acteur [[Lambert Wilson]] jouant le rôle du prieur chrétien dans un monastère cistercien en [[Algérie]] ?
+Dans quel film retrouve-t-on l'acteur [[Lambert Wilson]] jouant le rôle du prieur chrétien dans un monastère cistercien en [[Algérie]] ? <!-- score: 5 -->
 
 ###### Description
 

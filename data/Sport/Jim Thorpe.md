@@ -21,6 +21,7 @@ indice_6:
 ---
 
 
+
 ![Image de James Thorpe](https://upload.wikimedia.org/wikipedia/commons/7/71/James_Thorpe_-_90th_District_-_Ohio_House_of_Representatives_109th_General_Assembly_-_DPLA_-_5586be78567b1fe89fca76f0a79cfcb8_%28page_11%29_%28cropped%29.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel athlète américain a remporté les épreuves du pentathlon et du décathlo
 
 Quel athlète, aujourd'hui réhabilité, fut déchu en 1913 de son titre olympique de décathlon en raison d'une violation des règles d'amateurisme ?
 
-Quel joueur est reconnu comme étant le premier président de l'[[American Professional Football Association]], l'ancêtre de la [[NFL]], en [[1920]] ? <!-- score: 2 -->
+Quel joueur est reconnu comme étant le premier président de l'[[American Professional Football Association]], l'ancêtre de la [[NFL]], en [[1920]] ? <!-- score: 3 -->
 
 ###### Description
 

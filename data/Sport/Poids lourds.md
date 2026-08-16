@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Poids lourds](https://upload.wikimedia.org/wikipedia/commons/7/78/Le_Champion_des_poids_lourds_-_sc%C3%A9nario_-_btv1b6407706q_%282_of_2%29.jpg)
 
 ###### Questions
 
 Quel est le nom de la catégorie dans laquelle [[Mike Tyson]] a remporté son premier championnat mondial de boxe en [[1986]] ?  
 
-Dans quel type de catégorie de lutte [[André the Giant]] a-t-il principalement concouru au cours de sa carrière ? <!-- score: 4 -->
+Dans quel type de catégorie de lutte [[André the Giant]] a-t-il principalement concouru au cours de sa carrière ? <!-- score: 5 -->
 
 Quel est le terme utilisé pour décrire la division de boxe incluant les combattants pesant plus de 90,72 kg selon les règles de la [[World Boxing Association]] ?
 

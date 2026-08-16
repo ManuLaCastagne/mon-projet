@@ -26,12 +26,7 @@ questions:
 
 ###### Questions
 
-Quel homme politique français a proclamé en 1985 que l'[[anticyclone]] causant une vague de froid en France portait son nom ?
-
-Qui a été nommé à l'âge de 37 ans, en 1984, devenant ainsi le plus jeune Premier ministre de la [[Ve République]] française ?
-
-Quel homme a présidé la [[COP21]] en 2015, obtenant le consensus de l'[[Accord de Paris]] sur le climat ?
-
+Qui a été nommé à l'âge de 37 ans, en 1984, devenant ainsi le plus jeune Premier ministre de la [[Ve République]] française ? <!-- score: 7 -->
 ###### Description
 
 [[Laurent Fabius]] est un homme politique français né en [[1946]], qui a marqué l'histoire en devenant le plus jeune Premier ministre de la [[Cinquième République]], à seulement 37 ans, de [[1984]] à [[1986]].

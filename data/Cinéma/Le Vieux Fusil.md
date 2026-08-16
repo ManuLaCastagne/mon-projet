@@ -23,14 +23,12 @@ indice_6:
   - Robert Enrico
 ---
 
-
-
 ![[Pasted image 20250421192655.png]]
 ###### Questions
 
 Quel film ayant reçu le [[César]] du meilleur film lors de la première cérémonie des [[César du cinéma]] en 1976 est réalisé par [[Robert Enrico]] ?
 
-Quel film d’[[action]] et de [[drame]] a pour actrice principale [[Romy Schneider]], incarnant le personnage de [[Clara]], la femme d’un chirurgien aux événements tragiques ?
+Quel film a pour actrice principale [[Romy Schneider]], incarnant le personnage de [[Clara]], la femme d’un chirurgien aux événements tragiques ? <!-- score: 5 -->
 
 Dans quel long-métrage sorti en 1975, [[Philippe Noiret]] joue-t-il le rôle du docteur [[Julien Dandieu]] cherchant à venger la mort de sa famille pendant la Seconde Guerre mondiale ?
 

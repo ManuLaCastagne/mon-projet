@@ -25,20 +25,12 @@ questions:
  - Etat d'Europe culminant au Korab, j'ai été colonisé dans l'Antiquité par les Grecs puis les Romains, avant de passer sous la domination slave, puis ottomane avant mon indépendance en 1912.
 ---
 
-
-
-
 ![Image de Albanie](https://upload.wikimedia.org/wikipedia/commons/1/11/Gjipe_beach%2C_Albania.JPG)
 
 ![[Carte_Albanie.png]]
 ###### Questions
 
-Quelle est la seule nation en [[Europe]] à avoir choisi l'[[athéisme d'État]] dans sa constitution en 1967 ? <!-- score: 2 -->
-
 Quel pays est traversé par le fleuve [[Vjosë]], connu pour être l'un des derniers grands fleuves sauvages d'[[Europe]] ?
-
-Quelle nation possède une côte sur la mer [[Adriatique]] et est célèbre pour ses bunkers construits pendant la dictature d'[[Enver Hoxha]] ?
-
 ###### Description
 
 L'[[Albanie]] est un pays des [[Balkans]] qui se distingue par sa riche diversité géographique, comprenant des plages magnifiques, des montagnes escarpées et des lacs majestueux comme le [[lac de Shkodër]] à la frontière avec le [[Monténégro]]. 

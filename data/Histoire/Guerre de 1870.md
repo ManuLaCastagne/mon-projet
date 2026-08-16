@@ -24,13 +24,14 @@ questions:
 
 
 
+
 ![Image de Guerre de 1870](https://upload.wikimedia.org/wikipedia/commons/5/5c/Ulysses_S._Grant_1870-1880.jpg)
 
 ###### Questions
 
 Quel événement historique a conduit au siège de la ville fortifiée de [[Belfort]] entre novembre [[1870]] et février 1871 ? <!-- score: 6 -->
 
-Quel conflit oppose la France et la [[Prusse]] conduisant à la proclamation de l'[[Empire allemand]] dans la galerie des Glaces du château de [[Versailles]] en janvier [[1871]] ? <!-- score: 4 -->
+Quel conflit oppose la France et la [[Prusse]] conduisant à la proclamation de l'[[Empire allemand]] dans la galerie des Glaces du château de [[Versailles]] en janvier [[1871]] ? <!-- score: 5 -->
 
 Quel événement est déclenché par la dépêche d'[[Ems]] controversée en [[1870]] qui engendre la montée des tensions entre [[Napoléon III]] et le roi de [[Prusse]], [[Guillaume Ier]] ?
 

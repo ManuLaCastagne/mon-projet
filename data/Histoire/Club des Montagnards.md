@@ -18,19 +18,19 @@ indice_5:
   - Radicaux
 indice_6:
   - Révolution
-questions:
-  - Quel nom imagé a-t-on donné aux députés qui, sous la Convention, siégeaient sur les gradins les plus élevés?
 ---
 
 ![Image de Club des Montagnards](https://upload.wikimedia.org/wikipedia/commons/5/55/Propagande_du_club_des_Montagnards%2C_mars_1848%2C_ND8603.jpg)
 
 ###### Questions
 
-Quel groupe révolutionnaire, issu de l'aile la plus radicale de [[la Révolution française]], était associé aux idées de [[Robespierre]] et dominait la [[Convention nationale]] en 1793 ?
+Quel groupe révolutionnaire, issu de l'aile la plus radicale de [[la Révolution française]], était associé aux idées de [[Maximilien Robespierre]] et dominait la [[Convention nationale]] en 1793 ?
 
 Quel nom était donné aux membres de la faction politique qui ont soutenu la création du [[Comité de salut public]] et ont joué un rôle crucial durant la [[Terreur]] en France ?
 
-Quel club politique, influent pendant la [[Révolution française]], se réunissait à l'origine dans une salle située sur les hauteurs de [[Paris]], d'où son surnom, et a été dissous en 1794 après la chute de [[Robespierre]] ?
+Quel club politique, influent pendant la [[Révolution française]], se réunissait à l'origine dans une salle située sur les hauteurs de [[Paris]], d'où son surnom, et a été dissous en 1794 après la chute de [[Maximilien Robespierre]] ?
+
+Quel nom imagé a-t-on donné aux députés qui, sous la Convention, siégeaient sur les gradins les plus élevés ?
 
 ###### Description
 

@@ -28,12 +28,7 @@ questions:
 
 ###### Questions
 
-Quel groupe a interprété la chanson "[[A View to a Kill]]" pour le film de [[James Bond]] en 1985 ?
-
 Quel groupe a été formé à [[Birmingham]], au [[Royaume-Uni]], en 1978 et est devenu emblématique de la [[New Wave]] des années 1980 ?
-
-Quel groupe a remporté deux [[Grammy Awards]] en 1984 grâce à leurs vidéos révolutionnaires ?
-
 ###### Description
 
 [[Duran Duran]] est un groupe de musique britannique formé en 1978 à [[Birmingham]], connu pour avoir dominé la scène new wave durant les années 1980. 

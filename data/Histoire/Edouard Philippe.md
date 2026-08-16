@@ -26,12 +26,7 @@ questions:
 
 ###### Questions
 
-Quel ancien Premier ministre français a été maire de [[Le Havre]] deux fois, une première fois en 2010 puis réélu en 2020 ?
-
-Quel homme politique a succédé à [[Bernard Cazeneuve]] dans ses fonctions, devenant Premier ministre de France sous la présidence de [[Emmanuel Macron]] en 2017 ?
-
-Qui est l'auteur du livre "Impressions et lignes claires" publié en 2021, un ouvrage qui partage ses réflexions sur sa période à [[Matignon]] ?
-
+Quel homme politique auteur du livre "Impressions et lignes claires" publié en 2021 a succédé à [[Bernard Cazeneuve]] dans ses fonctions à Matignon ? <!-- score: 5 -->
 ###### Description
 
 [[Édouard Philippe]] est un homme politique français né en 1970 au [[Rouen|Rouen]], connu pour avoir été le Premier ministre sous la présidence d'[[Emmanuel Macron]] de 2017 à 2020. 

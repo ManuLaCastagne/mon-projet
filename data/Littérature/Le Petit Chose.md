@@ -24,6 +24,7 @@ questions:
  - En 1868, sous quel nom connaît-on mieux le jeune provincial Daniel Eyssett, héros d'un roman d'Alphonse Daudet?
 ---
 
+
 ![Image de Le Petit Chose](https://upload.wikimedia.org/wikipedia/commons/4/43/LePetitChoseTitleImage.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel ouvrage de [[Alphonse Daudet]], publié en 1868, les lecteurs peuvent-
 
 Quel est le titre du roman semi-autobiographique écrit par [[Alphonse Daudet]] qui a pour personnage principal un jeune garçon envoyé à [[Sarrebruck]] en 1868 ?
 
-Dans quel livre écrit en 1868, [[Alphonse Daudet]] décrit-il la vie tumultueuse d’un jeune homme devenu professeur avant de s’installer à [[Paris]] ?
+Dans quel livre écrit en 1868, [[Alphonse Daudet]] décrit-il la vie tumultueuse d’un jeune homme devenu professeur avant de s’installer à [[Paris]] ? <!-- score: 4 -->
 
 ###### Description
 

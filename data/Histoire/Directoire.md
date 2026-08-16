@@ -26,7 +26,7 @@ indice_6 :
 
 Quelle période de l'histoire de France a débuté en [[1795]] et s'est achevée en [[1799]], marquant la fin de la [[Convention nationale]] et précédant le [[Consulat]] ?
 
-Quel régime politique a été instauré après la chute de [[Robespierre]] et a duré jusqu'au coup d'État de [[Napoléon Bonaparte]] du [[18 Brumaire]] an VIII ?
+Quel régime politique a été instauré après la chute de [[Maximilien Robespierre]] et a duré jusqu'au coup d'État de [[Napoléon Bonaparte]] du [[18 Brumaire]] an VIII ?
 
 Quel gouvernement exécutif composé de cinq membres a été mis en place pour tenter de stabiliser la [[République française]] après les tumultes de la [[Terreur]] ?
 

@@ -22,17 +22,11 @@ questions:
  - Selon la légende, quel écrivain français du XIVe siècle serait parvenu à découvrir le secret de la pierre philosophale ?
 ---
 
-
 ![Image de Nicolas Flamel](https://upload.wikimedia.org/wikipedia/commons/7/73/Nicolas_Flamel_Histoire_critique.jpg)
 
 ###### Questions
 
-Quel alchimiste et écrivain public du XIVe siècle est souvent associé à la création de la [[pierre philosophale]] ?
-
-Quel célèbre personnage historique né en [[1330]] à [[Pontoise]] est souvent lié, à tort, à la découverte de l'élixir d'immortalité ?
-
-Quel érudit de la fin du Moyen Âge, décédé en [[1418]], est souvent cité dans les légendes entourant la transmutation des métaux en [[or]] ? <!-- score: 4 -->
-
+Quel alchimiste né en [[1330]] à [[Pontoise]] est associé à la création de la [[pierre philosophale]] et à la transmutation des métaux en [[or]] ? <!-- score: 4 -->
 ###### Description
 
 [[Nicolas Flamel]] est né en 1330 à [[Pontoise]], une commune située en Île-de-France. 

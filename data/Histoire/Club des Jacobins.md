@@ -28,7 +28,7 @@ Quel groupe influent s'est réuni entre [[1789]] et [[1794]] dans le couvent des
 
 Quelle organisation politique, fondée en [[1789]], a compté parmi ses membres des figures célèbres comme [[Maximilien de Robespierre]] et [[Georges Danton]] ?
 
-Quel club révolutionnaire a été fermé en [[1794]] après la chute de [[Robespierre]] et a largement influencé la politique de la [[Terreur]] ?
+Quel club révolutionnaire a été fermé en [[1794]] après la chute de [[Maximilien Robespierre]] et a largement influencé la politique de la [[Terreur]] ?
 
 ###### Description
 

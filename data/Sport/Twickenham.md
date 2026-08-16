@@ -22,6 +22,7 @@ questions:
  - Quel stade, situé au sud-ouest de Londres, accueille traditionnellement les rencontres de l'équipe d'Angleterre de rugby à 15 ?
 ---
 
+
 ![Image de Twickenham](https://upload.wikimedia.org/wikipedia/commons/a/ac/Twickenham_railway_station_MMB_03_450550_450558.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelle ville se trouve le stade où a eu lieu pour la première fois en 191
 
 Quel est le nom du stade ayant accueilli un concert des [[Rolling Stones]] en 2006 dans le cadre de leur tournée [[A Bigger Bang Tour]] ?
 
-Quelle est l'arène sportive située dans le sud-ouest de [[Londres]] connue pour accueillir chaque année le [[Tournoi des Six Nations]] ?
+Quelle est l'arène sportive située dans le sud-ouest de [[Londres]] connue pour accueillir chaque année le [[Tournoi des Six Nations]] ? <!-- score: 3 -->
 
 ###### Description
 

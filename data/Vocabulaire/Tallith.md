@@ -20,12 +20,7 @@ indice_6 :
 
 ###### Questions
 
-Quel est le vêtement rituel porté par les hommes juifs lors des prières, souvent caractérisé par des franges aux coins appelées [[tsitsit]] ?
-
-Comment nomme-t-on le châle traditionnel utilisé dans le [[judaïsme]] pour les cérémonies religieuses, qui s'enroule généralement autour des épaules et est souvent fait de laine ?
-
-Quel est l'accessoire religieux juif, souvent blanc avec des rayures bleues ou noires, utilisé pour recouvrir la tête pendant certaines prières et évoquant l'alliance avec [[Dieu]] ?
-
+Quel est le châle rituel porté par les hommes juifs lors des prières, souvent blanc avec des rayures bleues ou noires, utilisé pour recouvrir la tête, qui est souvent caractérisé par des franges aux coins appelées [[tsitsit]] ? <!-- score: 4 -->
 ###### Description
 
 Le "Tallith" est un vêtement rituel dans la tradition juive, souvent porté lors des prières du matin et des cérémonies religieuses. Il s'agit généralement d'un châle rectangulaire en laine ou en soie, orné de franges appelées "tzitzit", conformément au commandement biblique mentionné dans le Livre des [[Nombres]]. 

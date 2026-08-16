@@ -22,13 +22,11 @@ indice_6:
   - franchise cinématographique
 ---
 
-
 ![Image de Underworld](https://upload.wikimedia.org/wikipedia/commons/c/c4/Underworld_%28223233%29.jpg)
 
 ###### Questions
 
-Dans quelle série de films, dont le dernier en date est sorti en 2017, [[Kate Beckinsale]] incarne-t-elle une guerrière vampire luttant contre les Lycans ?
-
+Dans quelle série de films [[Kate Beckinsale]] incarne-t-elle une guerrière vampire luttant contre les Lycans ? <!-- score: 4 -->
 ###### Description
 
 [[Underworld]] est un film sorti en 2003, réalisé par [[Len Wiseman]], qui mêle habilement les genres de l'action et de l'horreur en explorant la rivalité millénaire entre [[vampires et lycans]]. 

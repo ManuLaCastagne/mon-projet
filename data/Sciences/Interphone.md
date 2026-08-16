@@ -26,12 +26,6 @@ questions:
 
 ###### Questions
 
-Quel appareil a été inventé en [[1894]] par [[Tivadar Puskás]] pour faciliter la communication entre différentes pièces d'un même bâtiment ? 
-
-Comment appelle-t-on le dispositif qui était initialement utilisé dans les années [[1930]] pour la communication interne des équipes de cinéma avant de devenir courant dans les immeubles d'habitation ? 
-
-Quel outil, breveté par [[George W. Coy]] en [[1878]], a évolué pour devenir un système de communication bidirectionnel employé dans les complexes résidentiels et professionnels modernes ?
-
 ###### Description
 
 L'[[Interphone]] a été inventé par [[George W. McNally]] en 1894 à [[Boston]], permettant la communication entre différentes pièces d'un bâtiment sans avoir besoin de déplacer physiquement les utilisateurs. 

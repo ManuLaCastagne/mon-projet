@@ -1,27 +1,25 @@
 ---
-tags: 
+tags:
   - Botanique
-indice_1 : 
+indice_1:
   - Ébénacées
-indice_2 : 
+indice_2:
   - Tropicale et subtropicale
-indice_3 : 
+indice_3:
   - Bois noir dense et dur
-indice_4 : 
+indice_4:
   - Printemps
-indice_5 : 
+indice_5:
   - Diospyros
-indice_6 : 
+indice_6:
   - Fabrication d'instruments de musique et meubles de luxe
-questions:
- - A quel bois, lourd et dur, issu d'un arbre tropical associe-t-on un noir éclatant et brillant ?
 ---
 
 ![Image de Ébène](https://upload.wikimedia.org/wikipedia/commons/7/7c/Gr%C3%A9goire_Massengo%2C_paire_de_bustes_en_%C3%A9b%C3%A8ne_noire.jpg)
 
 ###### Questions
 
-
+A quel bois, lourd et dur, issu d'un arbre tropical associe-t-on un noir éclatant et brillant ?
 
 ###### Description
 

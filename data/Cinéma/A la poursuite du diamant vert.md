@@ -1,34 +1,29 @@
 ---
-tags: 
+tags:
   - Cinéma
-  - A_la_poursuite_du_diamant_vert
   - Années_1980
   - XXe
 date:
   - 1984/03/30
 debut: 1984
-fin: 
-indice_1 : 
-  - Douglas
-indice_2 : 
-  - Michael
-indice_3 : 
-  - Turner
-indice_4 : 
+fin:
+indice_1:
+  - Michael Douglas
+indice_2:
+  - Kathleen Turner
+indice_3:
+  - Robert Zemeckis
+indice_4:
   - jungle
-indice_5 : 
+indice_5:
   - roman
-indice_6 : 
+indice_6:
   - aventure
-questions:
- - En 1984, dans quel film Kathleen Turner et Michael Douglas cherchent-ils une pierre précieuse en Colombie?
 ---
-
-![Image de A la poursuite du diamant vert](https://upload.wikimedia.org/wikipedia/commons/0/0e/Romancing_The_stone.jpg)
-
+![[Pasted image 20260803221325.png]]
 ###### Questions
 
-Quel film de [[Robert Zemeckis]] sorti en 1984 met en vedette [[Michael Douglas]] et [[Kathleen Turner]] dans une aventure autour d'un bijou précieux?
+Quel film de [[Robert Zemeckis]] sorti en 1984 met en vedette [[Michael Douglas]] et [[Kathleen Turner]] dans une aventure autour d'un bijou précieux ?
 
 Quelle œuvre cinématographique, récompensée par un [[Golden Globe]] et sortie en 1984, marque le début d'une série de collaborations fructueuses entre [[Michael Douglas]] et [[Kathleen Turner]]?
 

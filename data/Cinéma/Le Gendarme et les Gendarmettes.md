@@ -25,13 +25,14 @@ questions:
 ---
 
 
+
 ![Image de Le Gendarme et les Gendarmettes](https://upload.wikimedia.org/wikipedia/commons/f/fb/Film_Reel_-_Le_Gendarme_et_les_Gendarmettes.jpg)
 
 ###### Questions
 
 Dans quel film de [[Louis de Funès]], sorti en 1982, les gendarmes de [[Saint-Tropez]] se trouvent entourés de nouvelles recrues féminines?
 
-Quelle œuvre cinématographique, dernière de la série du [[Gendarme]], présente une apparition posthume du célèbre acteur [[Jean Lefebvre]]? <!-- score: 4 -->
+Quelle œuvre cinématographique, dernière de la série du [[Gendarme]], présente une apparition posthume du célèbre acteur [[Jean Lefebvre]]? <!-- score: 3 -->
 
 Quel film de la série du [[Gendarme]], bénéficiant de la réalisation de [[Jean Girault]] avant son décès, a été partiellement complété par [[Tony Aboyantz]]?
 

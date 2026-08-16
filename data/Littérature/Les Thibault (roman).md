@@ -28,12 +28,9 @@ questions:
 
 ###### Questions
 
-Quel roman écrit par [[Roger Martin du Gard]] a remporté le [[Prix Nobel de Littérature]] en 1937 ?
+Quel suite romanesque écrite par [[Roger Martin du Gard]] a remporté le [[Prix Nobel de Littérature]] en 1937 ? <!-- score: 5 -->
 
-Dans quel ouvrage publié entre 1922 et 1940, les lecteurs suivent l'histoire de la famille [[Thibault]] à travers les bouleversements sociaux et politiques du début du XXe siècle ?
-
-Quel roman en plusieurs volumes, dont le premier a été publié en 1922, décrit la vie d'une famille bourgeoise parisienne et met en scène les personnages de [[Jacques]] et [[Antoine Thibault]] ?
-
+Dans quel suite romanesque publiée entre 1922 et 1940, les lecteurs suivent l'histoire d'une famille bourgeoise parisienne à travers les bouleversements sociaux et politiques du début du XXe siècle ? <!-- score: 4 -->
 ###### Description
 
 La saga familiale [[Les Thibault]], écrite par [[Roger Martin du Gard]], est une série de huit tomes publiés entre 1922 et 1940, qui offre une plongée introspective et sociologique dans la société française du début du XXe siècle.

@@ -29,11 +29,7 @@ indice_6:
 
 En 2007, quel film d'Abdellatif Kechiche, ayant permis à Hafsia Herzi d'obtenir le César du Meilleur Espoir Féminin, a-t-il coproduit ?
 
-Quel film réalisé par [[Abdellatif Kechiche]] en 2007 a remporté quatre César, dont celui du meilleur film ?
-
 Quel long métrage explore le rêve d'un homme âgé de transformer un vieux bateau en restaurant de couscous à [[Sète]] ?
-
-Quelle œuvre cinématographique met en avant les talents d'actrice de [[Hafsia Herzi]], révélée pour son interprétation remarquable en 2007 ? <!-- score: 4 -->
 
 ###### Description
 

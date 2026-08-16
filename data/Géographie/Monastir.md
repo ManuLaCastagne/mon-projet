@@ -29,12 +29,7 @@ questions:
 ![[Carte_Monastir.png]]
 ###### Questions
 
-Dans quel ville de [[Tunisie]] le fondateur et président de la République, [[Habib Bourguiba]], est-il né en 1903 ?
-
-Quel aéroport [[Habib Bourguiba]] est situé dans la ville côtière de [[Monastir]], servant de porte d'entrée pour les voyageurs visitant la région ?
-
-Quel est le nom de la ville tunisienne réputée pour son [[ribat]] datant du [[VIIIe siècle]], servant historiquement de forteresse et de monastère ?
-
+Dans quelle ville côtière se situe un aéroport au nom de [[Habib Bourguiba]], sa ville de naissance en 1903 et célèbre pour son [[ribat]] ? <!-- score: 5 -->
 ###### Description
 
 [[Monastir]] est une ville côtière de [[Tunisie]], située sur le bord de la mer Méditerranée, à environ 162 kilomètres au sud de la capitale, [[Tunis]]. 

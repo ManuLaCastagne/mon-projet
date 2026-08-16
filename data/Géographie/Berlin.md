@@ -31,12 +31,7 @@ questions:
 ![[Carte_Berlin.png]]
 ###### Questions
 
-Dans quelle ville d'[[Europe]], le [[Mur de Berlin]] a-t-il été construit en 1961 pour séparer l'[[Allemagne de l'Est]] de l'[[Allemagne de l'Ouest]] ?
-
-Quelle ville est la plus grande en superficie de [[l'Allemagne]], comprenant douze districts et couvrant environ 891,8 kilomètres carrés ?
-
 Depuis 1999, quelle ville accueille la résidence du [[Bundestag]], le parlement national de la [[République fédérale d'Allemagne]] ?
-
 ###### Description
 
 [[Berlin]], la capitale de l'Allemagne, est située dans la partie nord-est du pays et s'étend le long des rives de la rivière [[Spree]]. Fondée au XIIIe siècle, elle est devenue une ville importante avec l'établissement de l'[[électorat de Brandebourg]] au XVIIe siècle. Après la chute du [[Mur de Berlin]] en 1989, qui avait divisé la ville pendant 28 ans, [[Berlin]] a retrouvé son statut de capitale allemande en 1990. Aujourd'hui, elle est connue pour ses sites emblématiques comme la [[Porte de Brandebourg]], son rôle en tant que centre culturel et son architecture innovante.

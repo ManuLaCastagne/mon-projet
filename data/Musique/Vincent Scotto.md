@@ -26,12 +26,7 @@ indice_6:
 
 ###### Questions
 
-Qui a composé la célèbre chanson "[[Sous les ponts de Paris]]" ?
-
-A quel compositeur marseillais né en 1876 doit-on l'opérette "Violettes impériales" ?
-
-Quel compositeur célèbre, également connu pour ses opérettes, a contribué à populariser la [[Java (danse)]] avec la chanson "Viens poupoule" en 1917 ?
-
+A quel compositeur marseillais né en 1876 doit-on l'opérette "Violettes impériales" ainsi que la composition de "[[Prosper (Yop la boum)]]" en 1935 interprété par [[Maurice Chevalier]] ? <!-- score: 3 -->
 ###### Description
 
 [[Vincent Scotto]] était un compositeur emblématique du répertoire musical français, ayant vu le jour à [[Marseille]] en 1874. 

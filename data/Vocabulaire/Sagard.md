@@ -11,9 +11,9 @@ indice_4:
 indice_5: 
 indice_6:
 ---
+
 ###### Questions
 
-Quel terme des [[Vosges]] désigne un scieur qui débite le bois en planches ?
-
+Quel terme des [[Vosges]] désigne un scieur qui débite le bois en planches ? <!-- score: 4 -->
 ###### Description
 

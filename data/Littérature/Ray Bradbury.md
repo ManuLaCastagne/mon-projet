@@ -31,9 +31,6 @@ questions:
 Quel auteur de science-fiction a brûlé son propre roman [[Fahrenheit 451]] dans un four à pizza pour tester sa résistance au feu en 1953 ?
 
 Quel célèbre écrivain, né en 1920 et auteur de la nouvelle « Un coup de tonnerre », est considéré comme un pionnier de l'usage du voyage dans le temps dans la littérature ?
-
-Quelle figure littéraire, ayant refusé de produire une licence pour une adaptation scénique de son œuvre « [[The Halloween Tree]] » à [[Disneyland]], a été intronisée au [[Science Fiction and Fantasy Hall of Fame]] en 1999 ?
-
 ###### Description
 
 [[Ray Bradbury]] a été un auteur américain prolifique, surtout connu pour ses œuvres de science-fiction et de fantastique. 

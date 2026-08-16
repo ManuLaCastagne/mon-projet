@@ -34,7 +34,7 @@ Quel archipel, situé au large de la côte ouest de la [[Écosse]], est connu po
 
 Quel groupe d'îles écossaises a été mentionné pour sa biodiversité unique et abrite certaines des plus anciennes structures préhistoriques d'[[Europe]], datant d'environ [[3500 avant J.-C.]] ?
 
-Quel ensemble insulaire en [[Atlantique]] a servi de décor naturel pour le tournage du film de science-fiction "[[2001, l'Odyssée de l'espace]]" en 1968 ?
+Quel ensemble insulaire en [[Atlantique]] a servi de décor naturel pour le tournage du film de science-fiction "[[2001 l'odyssée de l'espace]]" en 1968 ?
 
 ###### Description
 

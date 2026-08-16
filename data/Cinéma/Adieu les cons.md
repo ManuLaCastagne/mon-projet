@@ -21,16 +21,12 @@ indice_5 :
 indice_6 : 
   - infertilité et recherche de l'enfant
 ---
-
-![Image de Adieu les cons](https://upload.wikimedia.org/wikipedia/commons/4/41/Aux_Zouaves%2C_dernier_adieu_%28microforme%29_%28IA_cihm_07067%29.pdf)
-
+![[Pasted image 20260804075442.png]]
 ###### Questions
 
-Quel film réalisé par [[Albert Dupontel]] a remporté le [[César]] du meilleur film en 2021 ?
+En 2021, quel film réalisé par [[Albert Dupontel]] a remporté le [[César]] du meilleur film et a valu à [[Virginie Efira]] une nomination pour le [[César]] de la meilleure actrice ?
 
-Quelle œuvre cinématographique a valu à [[Virginie Efira]] une nomination pour le [[César]] de la meilleure actrice en 2021 ?
-
-Quel titre comique et dramatique sorti en 2020, mettant en scène [[Adèle Exarchopoulos]], a remporté sept [[César]] dont celui de la meilleure réalisation ?
+Dans quel long métrage Virginie Efira incarne-t-elle une femme gravement malade qui part à la recherche de l’enfant qu’elle a été contrainte d’abandonner à sa naissance, aidée par un informaticien joué par Albert Dupontel ?
 
 ###### Description
 
@@ -39,5 +35,3 @@ Quel titre comique et dramatique sorti en 2020, mettant en scène [[Adèle Exarc
 Le film met en scène [[Virginie Efira]], [[Albert Dupontel]] lui-même, et [[Nicolas Marié]] dans une quête rocambolesque alliant humour et drame. 
 
 Bien que sorti durant la période difficile de la pandémie de [[COVID-19]], [[Adieu les cons]] a réussi à récolter sept [[César]] en 2021, dont ceux du meilleur film, meilleur scénario original et meilleur réalisateur, égalant un record pour le plus grand nombre de trophées obtenus par un seul film lors de la cérémonie. 
-
-Un fait étonnant à propos du film est qu'il a été partiellement inspiré par le désir personnel de [[Dupontel]] de rendre hommage à l'esthétique des films des [[années 1970]], une influence qu'il considère comme centrale dans la construction de sa carrière cinématographique.

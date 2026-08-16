@@ -28,12 +28,9 @@ questions:
 
 ###### Questions
 
-Dans quel film de 1965, [[Omar Sharif]] joue-t-il le rôle du célèbre révolutionnaire bolchevique [[Youri Jivago]] ?
+Dans quel film de 1965, qui joue le rôle du célèbre révolutionnaire bolchevique [[Youri Jivago]] ? <!-- score: 5 -->
 
-En 1962, quel film épique [[David Lean]] a permis à [[Omar Sharif]] de se faire connaître internationalement grâce à son rôle du [[Sherif Ali]] ?
-
-En quelle année [[Omar Sharif]] a-t-il remporté le [[Golden Globe]] du meilleur acteur pour son rôle dans le film [[Monsieur Ibrahim]] et les fleurs du Coran ?
-
+En 1962, dans un film épique de [[David Lean]], qui joue le rôle du [[Sherif Ali]] ? <!-- score: 5 -->
 ###### Description
 
 [[Omar Sharif]], né en 1932 en [[Géographie/Égypte]], est une icône du cinéma international, notamment connu pour son rôle mémorable dans [[Lawrence d'Arabie]] en 1962, qui lui a valu une nomination aux Oscars. En 1965, il a également marqué l'histoire du cinéma en jouant le rôle-titre dans [[Docteur Jivago]], un film épique réalisé par [[David Lean]]. Tout au long de sa carrière, [[Omar Sharif]] a su charmer le public avec ses talents d'acteur et sa personnalité charismatique, travaillant aussi bien dans des productions hollywoodiennes que européennes. En plus de sa carrière cinématographique, il était aussi un joueur de bridge renommé, coécrivant plusieurs livres sur le jeu dans les années 1970.

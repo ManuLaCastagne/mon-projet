@@ -26,12 +26,9 @@ questions:
 
 ###### Questions
 
-Quel célèbre promoteur de boxe, connu pour sa coiffure distinctive, a organisé le légendaire combat "The Rumble in the Jungle" en [[1974]] ?
-
-Qui est le promoteur qui a joué un rôle clé dans le "Thrilla in Manila" entre [[Muhammad Ali]] et [[Joe Frazier]] en [[1975]] ?
+Qui est le promoteur qui a joué un rôle clé dans le "Thrilla in Manila" entre [[Muhammad Ali]] et [[Joe Frazier]] en [[1975]] ? <!-- score: 4 -->
 
 Quel personnage controversé, également promoteur de [[Mike Tyson]], a organisé plusieurs des combats les plus marquants de la boxe dans les années [[1980]] et [[1990]] ?
-
 ###### Description
 
 [[Don King]], né à [[Cleveland]] en 1931, est une figure emblématique du monde de la boxe grâce à ses talents de promoteur. 

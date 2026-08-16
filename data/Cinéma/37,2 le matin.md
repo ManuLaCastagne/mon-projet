@@ -1,34 +1,32 @@
 ---
-tags: 
+tags:
   - Cinéma
   - France
   - Années_1980
   - XXe
 debut: 1986
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Jean-Jacques Beineix
-indice_2 : 
+indice_2:
   - Béatrice Dalle
-indice_3 : 
+indice_3:
   - Jean-Hugues Anglade
-indice_4 : 
-  - Alexandre Arcady
-indice_5 : 
+indice_4:
+  - Température matinale
+indice_5:
   - Roman autobiographique
-indice_6 : 
+indice_6:
   - Yves Simon
 ---
-
-![Image de 37,2 le matin]()
-
+![[Pasted image 20260803215609.png]]
 ###### Questions
 
 Quel film réalisé par [[Jean-Jacques Beineix]] en [[1986]] est basé sur le roman de [[Philippe Djian]] du même nom ?
 
 Quel long-métrage, mettant en vedette [[Béatrice Dalle]] et [[Jean-Hugues Anglade]], a été nominé pour le [[César]] du meilleur film en [[1987]] ?
 
-Quel film dont le titre fait référence à une température matinale est devenu un symbole du cinéma français des [[années 1980]] ?
+Quel long métrage français, nommé à l’Oscar du meilleur film en langue étrangère en 1987, doit son titre à la température corporelle supposée de son héroïne Betty lorsqu’elle est amoureuse, selon une croyance évoquée dans le roman de Philippe Djian ?
 
 ###### Description
 

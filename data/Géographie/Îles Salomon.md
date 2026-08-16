@@ -26,12 +26,13 @@ questions:
  - Quel Etat insulaire d'Océanie, dont la capitale est Honoria, possède un triangle inférieur vert symbolisant la terre ?
 ---
 
-![Image de Îles Salomon](https://upload.wikimedia.org/wikipedia/commons/3/3c/%C3%8Ele_Diable_-_Salomon_Islands%2C_BIOT.svg)
 
-![[Carte_Îles Salomon.png]]
+![Image de Îles Salomon](https://upload.wikimedia.org/wikipedia/commons/3/3c/%C3%8Ele_Diable_-_Salomon_Islands%2C_BIOT.svg)
+
+![[Carte_Îles Salomon.png]]
 ###### Questions
 
-Quelle nation du [[Pacifique Sud]] a accueilli les [[Jeux du Pacifique]] pour la première fois en 1981 ?
+Quelle nation du [[Pacifique Sud]] a accueilli les [[Jeux du Pacifique]] pour la première fois en 1981 ? <!-- score: 5 -->
 
 Quel pays, ayant obtenu son indépendance du [[Royaume-Uni]] en 1978, se compose d'environ 900 îles ?
 

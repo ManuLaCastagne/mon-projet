@@ -28,11 +28,7 @@ questions:
 
 ###### Questions
 
-Quel établissement a été le lieu de tournage du film culte « [[La Nuit de l'Optique]] » sorti en 1987 avec [[Anna Belle]] et [[Vincent Morray]] ?
-
-Dans quel cinéma emblématique de Paris, inauguré en 1939, a eu lieu la première mondiale de « [[L'Invention des Ombres]] », un classique des années [[60]] ? <!-- score: 5 -->
-
-Quel cinéma a reçu en 1995 le prestigieux prix de « Meilleur Cinéma d'Art et Essai » décerné par l'[[Académie des Arts Cinématographiques]] ?
+Dans quel cinéma d'Art et Essai emblématique de Paris inauguré en 1939, au nom anglophone, a eu lieu la première mondiale de « [[L'Invention des Ombres]] » ? <!-- score: 5 -->
 ###### Description
 
 [[East Ledger Cinéma]] est une célèbre salle de cinéma inaugurée en 2005, située en plein cœur de Paris. Elle est réputée pour sa programmation éclectique, mêlant classiques du cinéma et films d'auteur récents, et a notamment organisé une rétrospective dédiée au réalisateur [[Jean-Luc Godard]] en 2012. Chaque année, en septembre, elle accueille le [[Festival International du Film de Paris]], un événement qui attire des milliers de cinéphiles du monde entier depuis sa première édition en 1998. East Ledger Cinéma se distingue également par son architecture moderne et son engagement envers des technologies de pointe, offrant l'une des premières projections en 4D en France dès 2014.

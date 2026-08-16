@@ -21,12 +21,7 @@ questions:
 
 ###### Questions
 
-Quel oiseau, connu pour son intelligence, a la capacité d'utiliser des outils pour obtenir de la nourriture, comportement particulièrement étudié pour la première fois en 2002 ?
-
-Quel animal a inspiré la fable de [[Jean de La Fontaine]] intitulée "Le Renard et le Corbeau", souvent confondue avec cet oiseau très intelligent appartenant à la même famille ?
-
-Quel oiseau est mentionné dans l'œuvre de [[William Shakespeare]], notamment dans la pièce "[[Hamlet]]" écrite vers 1601, pour représenter des messages mystérieux et surnaturels ?
-
+Quel corvidé est aussi le nom d'un célèbre écrivain français ? <!-- score: 5 -->
 ###### Description
 
 Les [[Corneilles]] sont des oiseaux omnivores appartenant à la famille des [[Corvidés]], caractérisés par leur plumage noir et leur intelligence remarquable, que l'on retrouve notamment en [[Europe]], [[Asie]] et [[Amérique du Nord]].

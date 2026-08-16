@@ -4,6 +4,7 @@ tags:
   - DCDL
 ---
 
+
 ![Image de Bichique](https://upload.wikimedia.org/wikipedia/commons/c/c2/Cotylopus_acutipinnis.jpg)
 
 ###### Questions
@@ -12,7 +13,7 @@ Quel poisson est particulièrement prisé dans la cuisine [[ réunionnaise ]] ?
 
 Quel petit poisson migrateur vivant dans les rivières de [[ La Réunion ]] est souvent cuisiné en "carri" ou frit ?
 
-Quel nom donne-t-on au poisson juvénile de l'espèce de [[ gobie ]] qui est très apprécié lors d'une pêche traditionnelle sur l'île de [[ La Réunion ]] ?
+Quel nom donne-t-on au poisson juvénile de l'espèce de [[ gobie ]] qui est très apprécié lors d'une pêche traditionnelle sur l'île de [[ La Réunion ]] ? <!-- score: 4 -->
 
 ###### Description
 

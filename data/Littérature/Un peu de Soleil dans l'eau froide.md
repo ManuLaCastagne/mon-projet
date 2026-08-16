@@ -24,6 +24,7 @@ questions:
  - Dans quel roman de Françoise Sagan, publié en 1969, un journaliste dépressif rencontre-t-il une femme qui tombe amoureuse de lui?
 ---
 
+
 ![Image de Un peu de Soleil dans l'eau froide](https://upload.wikimedia.org/wikipedia/commons/5/58/Maupassant_-_Sur_l%27eau%2C_1888.djvu)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel roman de [[Françoise Sagan]], publié en 1969, aborde des thèmes de dépr
 
 Dans quelle œuvre littéraire le personnage central voyage-t-il de [[Paris]] à [[Limoges]] pour se reconstruire émotionnellement ?
 
-Quel livre, adapté en téléfilm en 1971, met en scène l'histoire d'amour tourmentée entre [[Gilles Lantier]] et [[Nathalie Silvener]] et se déroule à la fin des [[années 1960]] ?
+Quel livre, adapté en téléfilm en 1971, met en scène l'histoire d'amour tourmentée entre [[Gilles Lantier]] et [[Nathalie Silvener]] et se déroule à la fin des [[années 1960]] ? <!-- score: 5 -->
 
 ###### Description
 

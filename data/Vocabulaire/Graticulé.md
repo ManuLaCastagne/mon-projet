@@ -17,13 +17,14 @@ indice_6 :
 ---
 
 
+
 ![Image de Graticulé](https://upload.wikimedia.org/wikipedia/commons/2/27/PSO-1_reticle_Romanian_2.JPG)
 
 ###### Questions
 
 Comment qualifie-t-on un document qui a été divisé selon un quadrillage représentant souvent les coordonnées géographiques, notamment dans le domaine de la cartographie ?
 
-Quel adjectif emploie-t-on en [[architecture]] et en [[géométrie]] pour décrire un système de lignes réglées servant à diviser un espace en sections égales ? <!-- score: 2 -->
+Quel adjectif emploie-t-on en [[architecture]] et en [[géométrie]] pour décrire un système de lignes réglées servant à diviser un espace en sections égales ? <!-- score: 4 -->
 
 ###### Description
 

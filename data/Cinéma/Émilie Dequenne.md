@@ -20,6 +20,7 @@ indice_6:
   - Maternelle
 ---
 
+
 ![Image de Émilie Dequenne](https://upload.wikimedia.org/wikipedia/commons/d/de/This_Is_Our_Land_-_IFFR_2017_%283%29.jpg)
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel actrice a joué dans le film [[Rosetta]] de [[Jean-Pierre et Luc Dardenne]]
 
 Quelle actrice belge a reçu le prix d'interprétation féminine de la section [[Un Certain Regard]] au [[Festival de Cannes]] [[2012]] pour son rôle dans le film [[À perdre la raison]] ?
 
-Qui a remporté le [[Magritte]] de la meilleure actrice en [[2016]] pour sa performance dans le film [[Pas son genre]] ?
+Qui a remporté le [[Magritte]] de la meilleure actrice en [[2016]] pour sa performance dans le film [[Pas son genre]] ? <!-- score: 4 -->
 
 ###### Description
 

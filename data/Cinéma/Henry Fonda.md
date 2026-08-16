@@ -22,7 +22,6 @@ indice_6:
   - père de Jane Fonda
 ---
 
-
 ![Image de Henry Fonda](https://upload.wikimedia.org/wikipedia/commons/0/0c/Henry_Fonda_in_Warlock.jpg)
 
 ###### Questions

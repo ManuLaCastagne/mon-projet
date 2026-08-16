@@ -33,7 +33,7 @@ Quelle mission est responsable de la première capture d'images en gros plan de 
 
 ###### Description
 
-Les sondes spatiales [[Voyager 1]] et [[Voyager 2]] ont été lancées respectivement en [[1977]] par la [[NASA]] depuis [[Cape Canaveral]], une ville située en [[Floride]], avec pour mission principale d'explorer les planètes extérieures de notre système solaire.
+Les sondes spatiales [[Voyager 1]] et [[Voyager 2]] ont été lancées respectivement en [[1977]] par la [[NASA]] depuis [[Cap Canaveral]], une ville située en [[Floride]], avec pour mission principale d'explorer les planètes extérieures de notre système solaire.
 
 Un fait étonnant est que [[Voyager 1]] est devenue la première sonde à entrer dans l'espace interstellaire en [[2012]], parcourant ainsi une distance si grande qu'elle est désormais l'objet le plus éloigné jamais envoyé par l'humanité.
 

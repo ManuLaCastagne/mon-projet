@@ -26,17 +26,16 @@ questions:
  - De quel pays asiatique le roi Rama IX depuis 1946 est-il le souverain ?
 ---
 
-![Image de Thaïlande](https://upload.wikimedia.org/wikipedia/commons/d/d0/Trees_rising_out_of_Cheow_Lan_Lake%2C_blue_sky%2C_eternal_summer_in_Surat_Thani_edited.jpg)
+![Image de Thaïlande](https://upload.wikimedia.org/wikipedia/commons/d/d0/Trees_rising_out_of_Cheow_Lan_Lake%2C_blue_sky%2C_eternal_summer_in_Surat_Thani_edited.jpg)
 
-![[Carte_Thaïlande.png]]
+![[Carte_Thaïlande.png]]
 ###### Questions
 
-Quel pays est le seul au monde qui n'a jamais été colonisé par une puissance européenne, notamment pendant la période impérialiste du XIXe siècle ?
+Quel pays d'Asie du Sud-Est est le seul qui n'a jamais été colonisé par une puissance européenne, notamment pendant la période impérialiste du XIXe siècle ? <!-- score: 5 -->
 
 Quelle nation asiatique est célèbre pour avoir inauguré le [[Festival des Singes]] à [[Lopburi]] en 1989 où des centaines de kilogrammes de fruits et légumes sont offerts aux singes chaque année ?
 
-Quel pays d'Asie du Sud-Est abrite l'ancienne capitale du royaume de [[Sukhothaï]], inscrite au [[patrimoine mondial de l'UNESCO]] depuis 1991 ?
-
+Quel pays d'Asie du Sud-Est, autrefois appelé [[Siam]], abrite l'ancienne capitale du royaume de [[Sukhothaï]], inscrite au [[patrimoine mondial de l'UNESCO]] depuis 1991 ? <!-- score: 5 -->
 ###### Description
 
 La [[Thaïlande]], connue pour ses paysages diversifiés, s'étend sur une superficie d'environ 513 120 km², positionnée au cœur de l'Asie du Sud-Est. 

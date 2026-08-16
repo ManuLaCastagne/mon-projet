@@ -16,6 +16,7 @@ indice_6 :
   - biométrie oculaire
 ---
 
+
 ![Image de Phacomètre](https://upload.wikimedia.org/wikipedia/commons/f/fa/De_l%27astigmatisme_%28electronic_resource%29_%28IA_b21634117%29.pdf)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quel outil ophtalmologique est utilisé pour mesurer la puissance des lentilles 
 
 Quel instrument trouve son utilité chez les professionnels de la vision pour vérifier la puissance de réfringence des lentilles dans un cadre clinique?
 
-Dans le domaine de l'ophtalmologie, quel appareil permet de comparer directement la puissance de deux verres correcteurs pour garantir leur précision?
+Dans le domaine de l'ophtalmologie, quel appareil permet de comparer directement la puissance de deux verres correcteurs pour garantir leur précision? <!-- score: 4 -->
 
 ###### Description
 

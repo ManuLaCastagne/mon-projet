@@ -26,8 +26,7 @@ indice_6 :
 
 Quel groupe formé en [[1982]] et originaire de [[Münster]], en [[Allemagne]], a connu un succès international avec le titre "[[Big in Japan]]" ?
 
-Quel groupe a sorti l'album "[[Forever Young]]" en [[1984]], dont le single éponyme est devenu un hymne des années 80 ?
-
+Quel groupe allemand a sorti l'album "[[Forever Young]]" en [[1984]], dont le single éponyme est devenu un hymne des années 80 ? <!-- score: 3 -->
 ###### Description
 
 Le groupe [[Alphaville]], formé dans la ville allemande de [[Münster]] en 1982, est connu pour son immense succès dans la musique new wave des années 1980. 

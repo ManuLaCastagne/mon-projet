@@ -24,11 +24,12 @@ questions:
  - En 1926, dans quel roman Georges Bernanos met-il en scène l'abbé Donissan et la jeune Mouchette?
 ---
 
+
 ![Image de Sous le soleil de Satan](https://upload.wikimedia.org/wikipedia/commons/5/59/Sous_le_soleil_de_Satan_1926.jpg)
 
 ###### Questions
 
-Quel [[roman]] publié en 1926 par [[Georges Bernanos]] raconte le combat spirituel d'un jeune prêtre nommé [[Donissan]] dans un village rural français?
+Quel [[roman]] publié en 1926 par [[Georges Bernanos]] raconte le combat spirituel d'un jeune prêtre nommé [[Donissan]] dans un village rural français? <!-- score: 4 -->
 
 Quelle œuvre majeure de la littérature française aborde les thèmes de la foi, de la tentation et du mal, et fut adaptée en 1987 au cinéma par [[Maurice Pialat]]?
 

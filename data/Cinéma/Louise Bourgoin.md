@@ -22,18 +22,15 @@ indice_6:
   - téléfilm La Reine et le Cardinal
 ---
 
-
-
 ![Image de Louise Bourgoin](https://upload.wikimedia.org/wikipedia/commons/5/54/Louise_Bourgoin_Cannes_2010.jpg)
 
 ###### Questions
 
 Quelle actrice à l'affiche du film "L'amour dure 3 ans" a présenté la météo de 2006 à 2008 ?
 
-Quelle actrice a remporté le [[César 2010]] du meilleur espoir féminin pour son rôle dans le film "[[La Fille de Monaco]]" sorti en 2008 ?
+Quelle actrice a remporté le César du meilleur espoir féminin pour son rôle dans le film "[[La Fille de Monaco]]" sorti en 2008 ? <!-- score: 5 -->
 
 Quelle actrice française a interprété le personnage d'[[Adèle Blanc-Sec]] dans le film "[[Les Aventures extraordinaires d'Adèle Blanc-Sec]]" réalisé par [[Luc Besson]] et sorti en 2010 ? <!-- score: 3 -->
-
 ###### Description
 
 [[Louise Bourgoin]], actrice française née le 28 novembre 1981 à [[Rennes]], s'est fait connaître grâce à son rôle d'animatrice télé avant de débuter une carrière dans le cinéma. 

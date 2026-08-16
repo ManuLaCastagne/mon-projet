@@ -19,11 +19,12 @@ indice_6:
   - Abbaye de Kells
 ---
 
+
 ![Image de Livre de Kells](https://upload.wikimedia.org/wikipedia/commons/8/8e/KellsFol292rIncipJohn.jpg)
 
 ###### Questions
 
-Quel manuscrit enluminé médiéval, créé vers l'an [[800]], est souvent considéré comme l'un des plus précieux trésors de [[l'Irlande]] et est conservé au [[Trinity College]] ?
+Quel manuscrit enluminé médiéval, créé vers l'an [[800]], est souvent considéré comme l'un des plus précieux trésors de [[l'Irlande]] et est conservé au [[Trinity College]] ? <!-- score: 6 -->
 
 Quel livre religieux, contenant les quatre [[Évangiles]] du [[Nouveau Testament]], est célèbre pour ses illustrations complexes et son origine dans le [[monastère de Kells]]?
 

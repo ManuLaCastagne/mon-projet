@@ -24,12 +24,7 @@ indice_6 :
 
 ###### Questions
 
-Dans quelle émission diffusée en 2021 sur [[TF1]] le vidéaste [[Michou (vidéaste)]] a-t-il participé en tant que candidat, devenant l'une des personnalités préférées du public ? 
-
-Quel vidéaste nommé [[Michou (vidéaste)]] a été choisi en 2022 pour prêter sa voix à un personnage dans le film d'animation [[Les Minions 2 : Il était une fois Gru]] ? 
-
-En quelle année [[Michou (vidéaste)]] a-t-il été invité à participer à l'émission télévisée [[Fort Boyard]], illustrant son succès en dehors de sa chaîne [[YouTube]] ?
-
+Quel vidéaste a été choisi en 2022 pour prêter sa voix à un personnage dans le film d'animation [[Les Minions 2 : Il était une fois Gru]] ? <!-- score: 5 -->
 ###### Description
 
 [[Michou (vidéaste)]], de son vrai nom [[Miguel Mattioli]], est un créateur de contenu français né le 2 octobre 2001 à [[Amiens]]. 

@@ -22,18 +22,11 @@ questions:
  - Jadis, quelle partie la plus sacrée du Temple de Jérusalem, n'était accessible qu'au seul grand prêtre, et seulement une fois par an ?
 ---
 
-
-
 ![Image de Saint des Saints](https://upload.wikimedia.org/wikipedia/commons/2/25/Procession_des_saints_de_Bretagne_-_dioc%C3%A8se_de_Saint-Malo%2C_cath%C3%A9drale_saint_Pierre%2C_Rennes%2C_France.jpg)
 
 ###### Questions
 
-Dans quelles parties du [[Temple de Jérusalem]] les [[Grands Prêtres]] entraient-ils une fois par an pendant le [[Yom Kippour]]?
-
-Quel espace du [[Premier Temple de Salomon]], considéré comme l'endroit le plus sacré, abritait l'[[Arche d'alliance]] avant sa destruction en [[586 av. J.-C.]]?
-
-Quel lieu, traduit en hébreu par le terme "[[Kodesh Hakodashim]]", se trouvait derrière le [[voile]] dans le sanctuaire central du [[Tabernacle]]? <!-- score: 3 -->
-
+Dans quelle partie du [[Temple de Jérusalem]] les [[Grands Prêtres]] entraient-ils une fois par an pendant le [[Yom Kippour]] et abritait l'[[Arche d'alliance]] avant sa destruction en [[586 av. J.-C.]] et se nomme en hébreu "[[Kodesh Hakodashim]]" ? <!-- score: 5 -->
 ###### Description
 
 Le "Saint des Saints", connu en hébreu sous le nom de [Kodesh HaKodashim], était la partie la plus sacrée du [[Temple de Jérusalem]] construite par le roi [[Salomon]] vers 957 avant J.-C. Situé dans l'ancienne ville de [[Jérusalem]], il abritait l'Arche de l'Alliance contenant les tables de la Loi reçues par [[Moïse]] sur le mont [[Sinaï]]. 

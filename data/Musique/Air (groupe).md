@@ -26,14 +26,11 @@ indice_6:
 
 ###### Questions
 
-En 2001, à quel duo de musique électronique, formé par les Versaillais Jean-Benoît Dunckel et Nicolas Godin doit-on l'album "Ten thousand hertz legend" ?
+En 2001, à quel duo de musique électronique de [[Versailles]] doit-on l'album "Ten thousand hertz legend" ? <!-- score: 5 -->
 
 Quel duo français, formé de [[Nicolas Godin]] et [[Jean-Benoît Dunckel]], est connu pour avoir sorti l'album "Moon Safari" en 1998 ?
 
-Quel groupe musical a collaboré avec [[Charlotte Gainsbourg]] pour la bande originale du film "[[Virgin Suicides]]" en 1999 ?
-
-Quel groupe a représenté la France lors du festival de [[Coachella]] en 2004 et est connu pour son style [[électro|électronique]] et [[downtempo]] ?
-
+Quel groupe musical composé de [[Nicolas Godin]] et [[Jean-Benoît Dunckel]] a collaboré avec [[Charlotte Gainsbourg]] pour la bande originale du film "[[Virgin Suicides]]" en 1999 ? <!-- score: 4 -->
 ###### Description
 
 [[Air]] est un duo de musique électronique français de [[Versailles]] formé en 1995, composé des talentueux musiciens [[Nicolas Godin]] et [[Jean-Benoît Dunckel]]. 

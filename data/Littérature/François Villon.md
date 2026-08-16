@@ -24,16 +24,11 @@ questions:
  - Ma vie mouvementée et mes fréquents séjours en prison m'ont inspiré des oeuvres telles que la "Ballade des pendus"…
 ---
 
-![Image de François Villon](https://upload.wikimedia.org/wikipedia/commons/a/a5/Francois_Villon_1489.jpg)
+![Image de François Villon](https://upload.wikimedia.org/wikipedia/commons/a/a5/Francois_Villon_1489.jpg)
 
 ###### Questions
 
-Quel poète français du Moyen Âge a écrit le célèbre [[poème]] intitulé [[Ballade des pendus]] tandis qu'il était en exil en 1462 ? 
-
-Quel célèbre poète, né en 1431 à Paris, est connu pour son recueil intitulé [[Le Testament]], qui critique la société de son époque ?
-
-Quel écrivain français a mystérieusement disparu après 1463, année de sa dernière trace dans les documents historiques, laissant une aura d'énigme persistante ?
-
+Quel célèbre poète, né en 1431 à Paris, est connu pour son recueil intitulé [[Le Testament]], qui critique la société de son époque et a écrit le [[poème]] intitulé [[Ballade des pendus]] tandis qu'il était en exil en 1462 ? <!-- score: 5 -->
 ###### Description
 
 [[François Villon]] est l'un des plus célèbres poètes français du Moyen Âge, connu pour ses œuvres empreintes de réalisme et d’humour noir. Né en 1431 à Paris, il est particulièrement célèbre pour ses écrits comme le "Grand Testament", rédigé en 1461, où il évoque ses réflexions sur la mort et la vieillesse avec une verve inimitable. 

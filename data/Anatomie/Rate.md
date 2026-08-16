@@ -1,4 +1,6 @@
+
+
+
 ###### Questions 
 
-Située dans l'angle supérieur gauche de l'abdomen…
-
+Quel organe est situé dans l'angle supérieur gauche de l'abdomen ? <!-- score: 3 -->

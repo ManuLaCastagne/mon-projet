@@ -24,12 +24,7 @@ indice_6 :
 
 ###### Questions
 
-Quel géant de la technologie a établi un laboratoire de recherche en intelligence artificielle en partenariat avec l'Université de Cambridge en [[2012]] ?
-
 Quel acteur majeur du secteur technologique a conçu le langage de programmation [[Q#]], utilisé pour la programmation quantique, lancé en [[2017]] ?
-
-Quelle entreprise a racheté la société de reconnaissance vocale [[Nuance Communications]] pour près de 20 milliards de dollars en [[2021]] ?
-
 ###### Description
 
 [[Microsoft]] est une entreprise multinationale fondée par [[Bill Gates]] et [[Paul Allen]] en 1975 à [[Albuquerque]], au [[Nouveau-Mexique]]. 

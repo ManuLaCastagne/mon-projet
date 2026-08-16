@@ -40,4 +40,4 @@ Né le 10 juin 1746, [[Fouquier-Tinville]] est tristement célèbre pour avoir o
 
 Un fait étonnant le concernant est qu'il se vantait d’avoir signé plus de 2 400 arrêtés de mise à mort en un temps record, ce qui montre l'intensité de la Terreur durant laquelle il opérait avec zèle. 
 
-Après la chute de [[Robespierre]], [[Fouquier-Tinville]] fut lui-même jugé et condamné à mort, terminant ainsi ses jours sur l'échafaud le 7 mai 1795.
+Après la chute de [[Maximilien Robespierre]], [[Fouquier-Tinville]] fut lui-même jugé et condamné à mort, terminant ainsi ses jours sur l'échafaud le 7 mai 1795.

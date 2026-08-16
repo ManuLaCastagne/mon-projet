@@ -1,32 +1,31 @@
 ---
-tags: 
+tags:
   - Télévision
   - Guadeloupe
   - Années_2010
   - XXIe
 debut: 1970
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - CNews
-indice_2 : 
+indice_2:
   - Balance ton post
-indice_3 : 
+indice_3:
   - journaliste
-indice_4 : 
+indice_4:
   - chroniqueuse
-indice_5 : 
+indice_5:
   - ancienne membre du CSA
-indice_6 : 
+indice_6:
   - auteur
-questions:
- - De 2009 à 2015, quelle journaliste d'origine antillaise, prénommée Christine, fait partie du CSA, Conseil supérieur de l'audiovisuel?
 ---
+
 
 ![Image de Christine Kelly](https://upload.wikimedia.org/wikipedia/commons/1/12/Christine_Kelly_en_2005_-_cropped.JPG)
 
 ###### Questions
 
-Quel membre du [[Conseil Supérieur de l'Audiovisuel]] a rejoint l'équipe de l'émission [[Touche pas à mon poste !]] en [[2014]] ? 
+Quel membre du [[Conseil Supérieur de l'Audiovisuel]] a rejoint l'équipe de l'émission [[Touche pas à mon poste !]] en [[2014]] ? <!-- score: 5 -->
 
 Qui a été la première femme à présenter l'émission [[La Grande Librairie]] sur [[France 5]] en [[2023]] ? 
 

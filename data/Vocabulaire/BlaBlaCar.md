@@ -26,11 +26,6 @@ indice_6 :
 ###### Questions
 
 Quel service inédit de [[covoiturage]] a été créé en 2006 par [[Frédéric Mazzella]], [[Francis Nappez]] et [[Nicolas Brusson]] en France ?
-
-Quel géant du transport collaboratif a racheté son rival [[Carpooling]] en 2015 pour s'étendre sur le marché allemand ?
-
-Quelle entreprise a atteint une valorisation de 1,6 milliard de dollars en 2019, devenant ainsi l'une des plus grandes plateformes de [[mobilité partagée]] au monde ?
-
 ###### Description
 
 [[BlaBlaCar]] est une plateforme de covoiturage créée en 2006 par [[Frédéric Mazzella]], [[Francis Nappez]] et [[Nicolas Brusson]]. 

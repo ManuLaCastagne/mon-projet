@@ -30,10 +30,7 @@ questions:
 
 Quel super-héros parodique défendant [[la France]] a été créé en 1972 par [[Marcel Gotlib]], [[Jacques Lob]] et [[Alexis]] ? 
 
-Quel personnage apparu pour la première fois dans les pages du magazine [[Pilote]] est connu pour porter un béret et une ceinture tricolore et pour combattre un groupe nommé [[Anti-France]] ?
-
-Quel héros de bande dessinée incarne une version stéréotypée et patriotique d'un Français et a été introduit dans le numéro 743 de [[Pilote]] en 1972 ?
-
+Quel personnage apparu pour la première fois en 1972 dans les pages du magazine [[Pilote]] est connu pour porter un béret et une ceinture tricolore et pour combattre un groupe nommé [[Anti-France]] ? <!-- score: 6 -->
 ###### Description
 
 [[Superdupont]] est un personnage de bande dessinée française, créé en 1972 par le dessinateur [[Marcel Gotlib]] et l'écrivain [[Jacques Lob]]. 

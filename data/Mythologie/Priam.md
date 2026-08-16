@@ -21,19 +21,15 @@ questions:
 ---
 
 
-
-
-
 ![Image de Priam](https://upload.wikimedia.org/wikipedia/commons/f/f9/Baby_tufted_gray_langur_%28Semnopithecus_priam%29.jpg)
 
 ###### Questions
 
 Quel roi troyen a dû racheter le corps de son fils [[Hector]] en offrant une rançon à [[Achille]] lors de la guerre de [[Troie]] décrite dans l'[[Iliade]] d'[[Homère]] ? <!-- score: 3 -->
 
-Quel personnage mythologique, roi de [[Troie]], a vu sa ville envahie et détruite par les [[Grecs]] lors de la célèbre guerre qui s'est déroulée autour de l'année 1184 avant J.-C. selon les estimations traditionnelles ? <!-- score: 1 -->
+Quel personnage mythologique, roi de [[Troie]], a vu sa ville envahie et détruite par les [[Grecs]] lors de la célèbre guerre qui s'est déroulée autour de l'année 1184 avant J.-C. selon les estimations traditionnelles ? <!-- score: 2 -->
 
 Quel roi est le père de cinquante fils dont [[Pâris]] et [[Hector]], impliqués dans les événements tragiques de la guerre de [[Troie]] ?
-
 ###### Description
 
 [[Priam]] est un personnage emblématique de la [[mythologie grecque]], connu pour être le dernier roi de [[Troie]] pendant la [[guerre de Troie]]. 

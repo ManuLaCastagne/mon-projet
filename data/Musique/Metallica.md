@@ -28,12 +28,7 @@ questions:
 
 ###### Questions
 
-Quel groupe de heavy metal a été le premier à se produire sur tous les continents, y compris en [[Antarctique]], lors de leur tournée mondiale en 2013 ?
-
-Quel groupe a remporté un [[Grammy Award]] pour la première fois en 1991 avec la chanson "[[One]]" ?
-
-Quel groupe de heavy metal a collaboré en 2011 avec l'ancien membre de [[Velvet Underground]], [[Lou Reed]], pour l'album "[[Lulu]]" ?
-
+Quel groupe de heavy metal a été le premier à se produire sur tous les continents, y compris en [[Antarctique]],et a collaboré en 2011 avec l'ancien membre de [[Velvet Underground]], [[Lou Reed]], pour l'album "[[Lulu]]" ? <!-- score: 5 -->
 ###### Description
 
 [[Metallica]] est un groupe de heavy metal américain formé en 1981 à [[Los Angeles]] par le chanteur et guitariste [[James Hetfield]] et le batteur [[Lars Ulrich]]. 

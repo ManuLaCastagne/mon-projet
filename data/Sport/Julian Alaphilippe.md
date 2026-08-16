@@ -22,6 +22,7 @@ questions:
  - En 2020 à Imola, quel cycliste devient le 9e...
 ---
 
+
 ![Image de Julian Alaphilippe](https://upload.wikimedia.org/wikipedia/commons/c/c7/LL-Q150_%28fra%29-WikiLucas00-Julian_Alaphilippe.wav)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel cycliste français a remporté le titre de [[champion du monde UCI]] sur ro
 
 Quel sportif a remporté l'étape de la [[Flèche Wallonne]] en [[2018]] en battant [[Alejandro Valverde]] au sommet du [[Mur de Huy]] ?
 
-Quel coureur a porté le maillot jaune du [[Tour de France]] en [[2019]] pendant 14 jours consécutifs, marquant l'histoire du cyclisme français ?
+Quel coureur a porté le maillot jaune du [[Tour de France]] en [[2019]] pendant 14 jours consécutifs, marquant l'histoire du cyclisme français ? <!-- score: 7 -->
 
 ###### Description
 

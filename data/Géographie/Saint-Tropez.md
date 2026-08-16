@@ -26,12 +26,11 @@ questions:
   - Je sers de port d'escale à des yachts luxueux et accueille des parties de pétanque sur ma place des Lys.
   - 1964, quelle station balnéaire de la côte varoise est le décor des films de Louis de Funès ?
 ---
+
 ![Image de Saint-Tropez](https://upload.wikimedia.org/wikipedia/commons/d/da/Bell_tower_of_the_church_Our_Lady_of_the_Assumption_in_Saint-Tropez%2C_France_%2852723273607%29.jpg)
 ###### Questions
-Je sers de port d'escale à des [[yachts luxueux]] et accueille des parties de pétanque sur ma [[place des Lys]]. <!-- score: 4 -->
-Quel festival créé en 2015 célèbre [[Saint-Tropez 1]] pour son rôle important dans le monde du [[cinéma]] ?
-Quel événement annuel rend hommage aux films tournés à [[Saint-Tropez 1]] et réunit des amateurs de [[cinéma]] et des célébrités à partir de l'année 2015 ?
-À quel événement culturel, lancé en 2015, doit-on la mise en avant des productions cinématographiques ayant choisi [[Saint-Tropez 1]] comme décor ?
+
+Quelle ville côtière française sert de port d'escale à des [[yachts luxueux]] et accueille des parties de pétanque sur sa [[place des Lys]] ? <!-- score: 4 -->
 ###### Description
 [[Saint-Tropez 1]], petite ville côtière du sud de la France, est mondialement reconnue pour son rôle emblématique dans le cinéma, particulièrement depuis le tournage du film "[[Et Dieu... créa la femme]]" en 1956, qui a propulsé [[Brigitte Bardot]] au rang de star internationale. 
 Le village a également servi de décor à la série de films humoristiques "Les gendarmes", débutant par "Le Gendarme de Saint-Tropez" sorti en 1964, avec [[Louis de Funès]] en tête d'affiche. 

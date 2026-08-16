@@ -26,15 +26,18 @@ questions:
 
 
 
+
+
+
 ![Image de Candice Renoir]()
 
 ###### Questions
 
-Dans quelle série de [[france.tv]] diffusée depuis [[2013]], une commandante de la police conjugue son rôle de chef avec sa vie de mère de quatre enfants ? <!-- score: 4 -->
+Dans quelle série de [[france.tv]] diffusée depuis [[2013]], une commandante de la police conjugue son rôle de chef avec sa vie de mère de quatre enfants ? <!-- score: 5 -->
 
 Quel personnage incarné par [[Cécile Bois]] revient à la vie professionnelle après dix ans d'absence dans la série créée par [[Solen Roy-Pagenault]], [[Robin Barataud]], et [[Brigitte Peskine]] ?
 
-Dans quelle série télévisée suit-on les enquêtes menées à [[Sète]] par la protagoniste principale en chef de la [[BSU]] ? <!-- score: 1 -->
+Dans quelle série télévisée suit-on les enquêtes menées à [[Sète]] par la protagoniste principale en chef de la [[BSU]] ? <!-- score: 3 -->
 
 ###### Description
 

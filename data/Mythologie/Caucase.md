@@ -20,17 +20,11 @@ questions:
  - Sur quelle chaîne de montagnes, où un aigle venait lui ronger le foie qui, sans cesse repoussait, Prométhée a-t-il été enchaîné ?
 ---
 
-
 ![Image de Caucase](https://upload.wikimedia.org/wikipedia/commons/1/1c/Zagedan_Ridge%2C_Zagedan_Valley%2C_Caucasus_Mountains%2C_Karachay-Cherkessia.jpg)
 
 ###### Questions
 
-Quel lieu légendaire de la [[mythologie grecque]], situé sur une montagne de la chaîne du [[Caucase]], fut le lieu où [[Prométhée]] fut enchaîné par [[Zeus]] pour avoir donné le feu aux hommes ?
-
-Dans quelle chaîne de montagnes, connue sous le nom de [[Caucase]], se situe le mythe selon lequel un aigle dévorait quotidiennement le foie de [[Prométhée]] ? <!-- score: 4 -->
-
-Quel est le nom de la région mythologique, positionnée dans le [[Caucase]], où [[Prométhée]] aurait été puni pour avoir défié [[Zeus]] selon les récits datant de VIIIe siècle avant J.-C.?
-
+Quel chaîne de montagnes légendaire de la [[mythologie grecque]] fut le lieu où [[Prométhée]] fut enchaîné par [[Zeus]] pour avoir donné le feu aux hommes ? <!-- score: 5 -->
 ###### Description
 
 [[Caucase]], une région réputée pour sa riche mosaïque culturelle, sert également de berceau à une mythologie foisonnante se distinguant par ses récits héroïques et ses créatures légendaires. 

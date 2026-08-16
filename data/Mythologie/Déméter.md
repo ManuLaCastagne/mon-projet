@@ -25,11 +25,6 @@ questions:
 ###### Questions
 
 Dans la [[mythologie grecque]], quelle déesse, représentée souvent avec des gerbes de blé, est associée à l'[[automne]] et à la moisson, et est la mère de [[Perséphone]] ?
-
-Quelle déesse grecque est principalement liée au mythe du [[Rapt de Perséphone]], un récit ayant une influence symbolique sur le changement des saisons, notamment en automne et en hiver ?
-
-Dans la [[mythologie grecque]], quelle déesse a institué les [[Mystères d'Éleusis]], des rituels initiatiques célébrés tous les cinq ans dans la ville d'[[Éleusis]], devenus très populaires dès le VIIe siècle avant [[Jésus]] ?
-
 ###### Description
 
 [[Déméter]] est une déesse de l'[[Olympien|Olympe]], connue dans la [[mythologie grecque]] comme la déesse de l'agriculture, des moissons et de la fertilité. 

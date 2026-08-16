@@ -24,6 +24,7 @@ indice_6 :
   - Gare Saint-Lazare
 ---
 
+
 ![[Carte_8e arrondissement (Paris).png]]
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quel arrondissement de Paris se trouve l'[[avenue des Champs-Élysées]], c
 
 Dans quel arrondissement de Paris le [[Palais de l'Élysée]], résidence officielle des présidents de la [[République française]] depuis [[1848]], est-il implanté?
 
-Quel arrondissement de Paris abrite le [[Grand Palais]], célèbre bâtiment en verre et acier construit pour l'[[Exposition Universelle]] de [[1900]]?
+Quel arrondissement de Paris abrite le [[Grand Palais]], célèbre bâtiment en verre et acier construit pour l'[[Exposition Universelle]] de [[1900]]? <!-- score: 3 -->
 
 ###### Description
 

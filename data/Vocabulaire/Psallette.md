@@ -19,6 +19,7 @@ indice_6 :
 
 
 
+
 ![Image de Psallette](https://upload.wikimedia.org/wikipedia/commons/3/3f/Nantes_La_Psallette_R01.jpg)
 
 ###### Questions
@@ -27,7 +28,7 @@ Quel est le nom qui désigne une école de chant rattachée à une [[cathédrale
   
 Quel mot désigne historiquement l'ensemble des chanteurs et musiciens attachés au service liturgique d'une église, formant une partie importante de la musique [[sacrée]] au Moyen Âge ?  
   
-Comment appelle-t-on l'institution où des jeunes garçons apprenaient autrefois la musique vocale et instrumentale pour animer les offices religieux dans l'[[église]] ? <!-- score: 2 -->
+Comment appelle-t-on l'institution où des jeunes garçons apprenaient autrefois la musique vocale et instrumentale pour animer les offices religieux dans l'[[église]] ? <!-- score: 3 -->
 
 ###### Description
 

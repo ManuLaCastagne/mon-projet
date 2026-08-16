@@ -30,21 +30,15 @@ questions:
   - Quel homme politique représente la France de Louis XVIII au Congrès de Vienne achevé en juin 1815 ?
 ---
 
-
-
-
 ![Image de Charles-Maurice de Talleyrand](https://upload.wikimedia.org/wikipedia/commons/6/61/Charles_Maurice_de_Talleyrand-P%C3%A9rigord_-_Pierre-Paul_Prud%27hon.jpg)
 
 ###### Questions
 
-Quel homme politique fut surnommé "[[le diable boiteux]]", qui a été nommé en 1797 Ministre des Affaires Extérieures de la France ?
+Quel diplomate fut surnommé "[[le diable boiteux]]", et a été nommé ministre des Affaires étrangères sous le [[Directoire]], le [[Consulat]], l'[[Empire]] et la [[Restauration]] entre 1797 et 1834 ? <!-- score: 5 -->
 
-Quel homme politique français, célèbre pour ses talents diplomatiques, a été ministre des Affaires étrangères sous le [[Directoire]], le [[Consulat]], l'[[Empire]] et la [[Restauration]] entre 1797 et 1834 ? <!-- score: 4 -->
+Quel diable boiteux a été nommé évêque d'[[Autun]] en 1788 avant de devenir un acteur clé lors du [[Congrès de Vienne]] en 1815 ? <!-- score: 2 -->
 
-Quel personnage historique a été nommé évêque d'[[Autun]] en 1788 avant de devenir un acteur clé lors du [[Congrès de Vienne]] en 1815 ? <!-- score: 2 -->
-
-Qui a vendu, pour le compte de [[Napoléon Bonaparte]], le territoire de la [[Louisiane]] aux [[États-Unis]] en 1803, doublant ainsi la taille de ce pays ?
-
+Quel diplomate a vendu, pour le compte de [[Napoléon Bonaparte]], le territoire de la [[Louisiane]] aux [[États-Unis]] en 1803, doublant ainsi la taille de ce pays ? <!-- score: 5 -->
 ###### Description
 
 [[Charles-Maurice de Talleyrand]], né en 1754 et décédé en 1838, est l'une des figures politiques les plus influentes de l'histoire de France, notamment pour son rôle de diplomate sous plusieurs régimes, y compris la Révolution française, le Consulat, l'Empire et la Restauration.

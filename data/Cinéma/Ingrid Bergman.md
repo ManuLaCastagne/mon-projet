@@ -24,11 +24,12 @@ questions:
  - Quelle actrice suédoise a tourné sous la direction de son homonyme  "Sonate d'automne"…
 ---
 
+
 ![Image de Ingrid Bergman](https://upload.wikimedia.org/wikipedia/commons/0/06/Rosa_Ingrid_Bergman_2018-07-16_6611.jpg)
 
 ###### Questions
 
-Quel célèbre film romantique de 1942 met en vedette [[Ingrid Bergman]] aux côtés de [[Humphrey Bogart]], tourné en pleine [[Seconde Guerre mondiale]] ?
+Quel célèbre film romantique de 1942 met en vedette [[Ingrid Bergman]] aux côtés de [[Humphrey Bogart]], tourné en pleine [[Seconde Guerre mondiale]] ? <!-- score: 10 -->
 
 Avec quel célèbre réalisateur [[Ingrid Bergman]] a-t-elle entretenu une relation professionnellement fructueuse et controversée qui a débuté avec le film [[Stromboli]] en 1950 ?
 

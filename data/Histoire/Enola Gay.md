@@ -21,11 +21,12 @@ indice_6 :
 ---
 
 
+
 ![Image de Enola Gay](https://upload.wikimedia.org/wikipedia/commons/7/70/B-29_Enola_Gay_w_Crews.jpg)
 
 ###### Questions
 
-Quel événement historique a été chanté par le groupe [[Orchestral Manoeuvres In The Dark]] ?
+Quel événement historique a été chanté par le groupe [[Orchestral Manoeuvres In The Dark]] ? <!-- score: 4 -->
 
 Quel est le nom du [[bombardier]] américain qui a largué la première [[bombe atomique]] sur [[Hiroshima]] le 6 août [[1945]] ?
 

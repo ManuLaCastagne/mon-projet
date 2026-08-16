@@ -1,32 +1,31 @@
 ---
-tags: 
+tags:
   - DCDL
   - Géographie
-indice_1 : 
+indice_1:
   - Tunguska
-indice_2 : 
+indice_2:
   - Sibérie
-indice_3 : 
+indice_3:
   - météorite
-indice_4 : 
+indice_4:
   - explosion
-indice_5 : 
+indice_5:
   - 1908
-indice_6 : 
+indice_6:
   - Énigme scientifique
-questions:
- - Quel groupe de langues de la famille altaïque, comptant notamment le manchou, est parlé par des peuples ayant occupé la Sibérie orientale?
 ---
+
 
 ![Image de Toungouse](https://upload.wikimedia.org/wikipedia/commons/3/3a/Manchu_people_%28No.3036%29.jpg)
 
 ###### Questions
 
-Quel événement cataclysmique en [[Sibérie]] en [[1908]] est associé à une explosion aérienne au-dessus de la [[forêt]] sans cratère visible ?
+Comment appelle-t-on le groupe ethnolinguistique dont est issue la dynastie mandchoue des [[Qing]], dernière dynastie impériale à avoir régné sur la Chine de 1644 à 1912 ?
 
-Quel terme désigne à la fois une hypothèse sur un phénomène naturel mystérieux et la région en [[Russie]] où cet événement s'est produit ?
+Quel groupe de langues de la famille altaïque, comptant notamment le [[mandchou]], est parlé par des peuples ayant occupé la Sibérie orientale ?
 
-Quel mot évoque une catastrophe naturelle qui a eu lieu près du [[fleuve Toungouse]], causant des dégâts considérables et fascinant les scientifiques depuis plus d'un siècle ?
+Le mot « [[chaman]] », largement utilisé aujourd’hui dans de nombreuses langues, provient de la langue de quel peuple de Sibérie ?
 
 ###### Description
 

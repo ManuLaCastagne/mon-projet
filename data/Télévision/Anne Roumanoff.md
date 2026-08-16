@@ -26,12 +26,7 @@ questions:
 
 ###### Questions
 
-Quel nom d'humoriste française a animé une émission télévisée intitulée [[« Rien à cirer »]] sur [[France Inter]] à partir de [[1991]] ?  
-
-Quelle personnalité a fêté ses [[30 ans de carrière]] dans un spectacle diffusé en [[2017]] sur [[C8]] ?
-
-Quel nom est associé à la chronique humoristique dans l'émission [[« Vivement Dimanche »]] présentée par [[Michel Drucker]] de [[1998]] à [[2005]] ?
-
+De 1991 à 1997, quelle humoriste participe tous les dimanches matin à l'émission [[Rien à cirer]] sur France Inter présentée par [[Laurent Ruquier]] aux côtés notamment de [[Laurent Gerra]] ? <!-- score: 5 -->
 ###### Description
 
 [[Anne Roumanoff]] est une humoriste et comédienne française très populaire, dont la carrière à la télévision a débuté dans les années 1980. 

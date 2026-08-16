@@ -26,12 +26,9 @@ questions:
 
 ###### Questions
 
-Quel duo comique a remporté le concours de [[Graine de Star]] en [[1997]] ?
+Quel duo comique a remporté le concours de [[Graine de Star]] en [[1997]] ? <!-- score: 6 -->
 
-Quel couple célèbre d'humoristes a animé et participé à de nombreux sketchs dans l'émission [[Le Plus Grand Cabaret du Monde]] de [[Patrick Sébastien]] au début des années [[2000]] ?
-
-Quel duo comique a conquis le public grâce à leurs spectacles humoristiques Marie et [[Bertrand Fournel]], dans les années [[2000]], en se produisant sous le pseudonyme [[Shirley et Dino]] ?
-
+Quel duo comique a conquis le public grâce à leurs spectacles humoristiques Marie et [[Bertrand Fournel]], dans les années [[2000]] ? <!-- score: 5 -->
 ###### Description
 
 [[Shirley et Dino]], de leurs vrais noms [[Corinne]] et [[Gilles Benizio]], sont un célèbre duo comique français qui s'est fait connaître au milieu des années 1990 grâce à leurs apparitions régulières dans l'émission de variétés "[[Le Plus Grand Cabaret du Monde]]" de [[Patrick Sébastien]].  

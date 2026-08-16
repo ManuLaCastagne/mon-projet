@@ -24,6 +24,7 @@ indice_6:
 
 
 
+
 ![Image de Claude Jade](https://upload.wikimedia.org/wikipedia/commons/3/3a/Claude_Jade.jpg)
 
 ###### Questions

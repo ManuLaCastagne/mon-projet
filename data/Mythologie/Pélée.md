@@ -20,18 +20,11 @@ questions:
  - Lors de son mariage avec Thétis, à quel roi Poséidon offre-t-il 2 chevaux immortels, nommés Balios et Xanthos?
 ---
 
-
-
 ![Image de Pélée](https://upload.wikimedia.org/wikipedia/commons/5/54/Wedding_of_Thetis_et_Pel%C3%A9e_1689_Illustration.jpg)
 
 ###### Questions
 
-Quel roi de [[Phthie]], père d'[[Achille]], a épousé la nymphe marine [[Thétis]], selon la [[mythologie grecque]] ?
-
-Quel personnage mythologique a découvert qu'il devait éviter de tuer ses proches à la suite d'une prophétie donnée par l'oracle de [[Delphes]] ? <!-- score: 3 -->
-
-Qui a participé à l'expédition des [[Argonautes]] pour récupérer la [[Toison d'or]] avec [[Jason]] en 1300 av. J.-C. ?
-
+Quel roi de [[Phthie]], père d'[[Achille]], a épousé la nymphe marine [[Thétys]], selon la [[mythologie grecque]] et a découvert qu'il devait éviter de tuer ses proches à la suite d'une prophétie donnée par l'oracle de [[Delphes]] ? <!-- score: 5 -->
 ###### Description
 
 [[Pélée]], roi des Myrmidons en [[Thessalie]], est une figure centrale de la [[mythologie grecque]], notamment en tant que père d'[[Achille]], conçu avec la nymphe [[Thétis]]. 

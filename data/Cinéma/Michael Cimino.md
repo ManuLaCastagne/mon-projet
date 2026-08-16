@@ -24,6 +24,7 @@ questions:
  - qui a réalisé le film "Voyage au bout de l'enfer" en 1978 ?
 ---
 
+
 ![Image de Michael Cimino](https://upload.wikimedia.org/wikipedia/commons/5/5a/Michael_Cimino_%28actor%29_-_2021_%28tqsZ0IXtcfM%29.jpg)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel réalisateur a remporté l'[[Oscar du meilleur film]] en 1979 pour [[Voyage
 
 Qui est le cinéaste derrière le film controversé [[La Porte du paradis]], dont l'échec financier en 1980 a changé la dynamique des studios d'[[Hollywood]] ?
 
-Quel réalisateur a connu des débuts fracassants avec le film [[Le Canardeur]] en 1974, aux côtés du célèbre acteur [[Clint Eastwood]] ?
+Quel réalisateur a connu des débuts fracassants avec le film [[Le Canardeur]] en 1974, aux côtés du célèbre acteur [[Clint Eastwood]] ? <!-- score: 4 -->
 
 ###### Description
 

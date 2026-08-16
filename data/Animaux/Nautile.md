@@ -17,13 +17,14 @@ questions:
  - Quel céphalopode des mers chaudes dont le nom provient de "Matelot" est reconnaissable à sa coquille spiralée ?
 ---
 
+
 ![Image de Nautile](https://upload.wikimedia.org/wikipedia/commons/8/8f/Nautile_et_Atalante_%28Ifremer_00542-65434_-_40437%29.jpg)
 
 ###### Questions
 
 Quel animal marin a survécu à plusieurs extinctions massives, y compris celle de la fin du [[Crétacé]] il y a environ 66 millions d'années, et possède une coquille en spirale distincte ?
 
-Quel céphalopode, découvert pour la première fois dans les fossiles du [[Paléozoïque]] et présent dans l'océan depuis environ 500 millions d'années, est connu pour vivre dans les eaux profondes de l'océan [[Indo-Pacifique]] ?
+Quel céphalopode, découvert pour la première fois dans les fossiles du [[Paléozoïque]] et présent dans l'océan depuis environ 500 millions d'années, est connu pour vivre dans les eaux profondes de l'océan [[Indo-Pacifique]] ? <!-- score: 4 -->
 
 Quel animal, souvent qualifié de "fossile vivant" en raison de son apparence inchangée depuis des centaines de millions d'années, appartient au groupe des [[Tétrabranchia]] et possède une coquille composée de loges visibles à l'œil nu ?
 

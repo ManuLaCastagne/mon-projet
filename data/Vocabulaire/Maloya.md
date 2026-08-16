@@ -16,13 +16,14 @@ indice_6 :
   - Instruments  roulèr et kayamb
 ---
 
+
 ![Image de Maloya](https://upload.wikimedia.org/wikipedia/commons/b/bd/Simangavol2.JPG)
 
 ###### Questions
 
 Quel genre musical traditionnel est étroitement lié à l'histoire et à la culture de l'île de [[La Réunion]] ?
 
-Quelle musique, dérivée des chants et danses des esclaves africains, joue un rôle important dans les cérémonies rituelles à [[La Réunion]] ?
+Quelle musique, dérivée des chants et danses des esclaves africains, joue un rôle important dans les cérémonies rituelles à [[La Réunion]] ? <!-- score: 4 -->
 
 ###### Description
 

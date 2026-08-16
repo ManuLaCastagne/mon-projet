@@ -16,13 +16,14 @@ indice_6 :
   - Monument funéraire
 ---
 
+
 ![Image de Tumulaire](https://upload.wikimedia.org/wikipedia/commons/e/ed/Tumulus_de_Conli%C3%A8ge.jpg)
 
 ###### Questions
 
 Quel est le mot utilisé pour décrire une dalle funéraire qui recouvre un sépulcre dans l'architecture [[funéraire]] ?
 
-Quel adjectif désigne quelque chose qui appartient à un monument funéraire près d'un [[tombeau]] ?
+Quel adjectif désigne quelque chose qui appartient à un monument funéraire près d'un [[tombeau]] ? <!-- score: 2 -->
 
 ###### Description
 

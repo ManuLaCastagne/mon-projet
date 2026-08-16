@@ -4,32 +4,31 @@ tags:
   - Europe
   - Années_2000
   - XXIe
+  - Certifié
 date: 2006-12-28
 debut: 2006
-fin: 
+fin:
 indice_1:
-  - 7
+  - Méchant de cinéma
 indice_2:
   - James Bond
 indice_3:
   - Nombre
 indice_4:
-  - Personnage célèbre
+  - Mads Mikkelsen
 indice_5:
-  - Agent secret
+  - Hémolacrie
 indice_6:
-  - Films d'action
+  - Casino Royale
 ---
-
-![Image de Le Chiffre](https://upload.wikimedia.org/wikipedia/commons/9/9b/Le_Chiffre_d%27Amour_MET_MM10595.jpg)
-
+![[Pasted image 20260803213024.png]]
 ###### Questions
 
 Quel est le surnom de l'antagoniste principal dans le film [[Casino Royale (2006)]], incarné par [[Mads Mikkelsen]], qui est un expert en mathématiques et statistiques ?
 
-Quelle est l'identité du personnage, appelé [[Le Chiffre]], qui se trouve être le banquier des terroristes internationaux dans le film de [[James Bond]] de 2006 ?
+Quel est le nom du personnage qui affronte [[James Bond]] dans une partie de poker au [[Casino Royale]], dans l'adaptation cinématographique de 2006 ? <!-- score: 4 -->
 
-Quel est le nom du personnage qui affronte [[James Bond]] dans une partie de poker au [[Casino Royale]], dans l'adaptation cinématographique de 2006 ?
+Quel méchant de James Bond souffre d'hémolacrie ?
 
 ###### Description
 

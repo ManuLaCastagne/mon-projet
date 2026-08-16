@@ -33,7 +33,7 @@ Quel est le titre de la composition musicale de [[Aram Khachaturian]], achevée 
 
 Quel morceau, extrait du ballet [[Gayane]] et composé par [[Aram Khachaturian]], est fréquemment utilisé dans les films et séries pour illustrer des scènes de tension ou de frénésie, depuis sa première représentation en 1942 ?
 
-Quelle œuvre musicale est souvent associée à des scènes de bataille et a été utilisée dans des productions aussi diverses que [[2001, l'Odyssée de l'espace]] et [[Californication]], et a été initialement composée par [[Aram Khachaturian]] en 1942 ?
+Quelle œuvre musicale est souvent associée à des scènes de bataille et a été utilisée dans des productions aussi diverses que [[2001 l'odyssée de l'espace]] et [[Californication]], et a été initialement composée par [[Aram Khachaturian]] en 1942 ?
 
 ###### Description
 

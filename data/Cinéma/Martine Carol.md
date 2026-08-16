@@ -28,12 +28,7 @@ questions:
 
 ###### Questions
 
-Dans quel film réalisé par [[Christian-Jaque]] en 1952, [[Martine Carol]] interprète-t-elle le rôle emblématique de [[Lola Montès]] ?
-
-Quel événement inattendu est survenu à [[Martine Carol]] lors du tournage de [[Lucrèce Borgia]] en 1953, la forçant à être temporairement remplacée ?
-
-En 1959, dans quel pays [[Martine Carol]] a-t-elle été brièvement enlevée par des gangsters, avant d'être retrouvée saine et sauve ?
-
+En 1952, qui interprète le rôle emblématique de [[Lola Montès]] dans le film réalisé par [[Christian-Jaque]] ? <!-- score: 5 -->
 ###### Description
 
 [[Martine Carol]], de son vrai nom [[Marie-Louise Jeanne Nicolle Mourer]], fut une actrice emblématique du cinéma français dans les années 1950. En 1952, elle atteint une grande renommée en incarnant le personnage principal dans le film "[[Caroline Chérie]]", réalisé par [[Richard Pottier]]. Sa carrière est souvent associée au réalisateur [[Christian-Jaque]], qu'elle épouse en 1954, et avec qui elle tourne plusieurs films, dont le célèbre "[[Lola Montès]]" en 1955, réalisé par [[Max Ophüls]]. Bien que sa popularité décline dans les années 1960, elle reste une figure emblématique du cinéma d'après-guerre, illustrant un pan glamour et tumultueux de cette époque.

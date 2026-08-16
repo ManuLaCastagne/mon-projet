@@ -24,12 +24,7 @@ indice_6 :
 
 ###### Questions
 
-Quel est le nom de l'unique impératrice régnante de la [[Chine]] ayant fondé sa propre dynastie, la [[dynastie Zhou]], au cours du VIIe siècle ?
-
-Qui est la seule femme dans l'histoire de [[Chine]] à avoir assumé le titre impérial en 690 ?
-
-Quelle souveraine, née en 624, est restée au pouvoir jusqu'en 705 et a été la seule femme à gouverner seule dans l'histoire chinoise en tant qu'impératrice de [[Chine]] ?
-
+Quel est le nom de l'unique impératrice régnante de la [[Chine]], née en 624, qui a fondé sa propre dynastie, la [[dynastie Zhou]], au cours du VIIe siècle ? <!-- score: 5 -->
 ###### Description
 
 [[Wu Zetian]], née à [[Guangyuan]] en 624, est la seule impératrice régnante de l'histoire chinoise, ayant gouverné sous la dynastie Tang puis en tant que souveraine éponyme de la dynastie Zhou de 690 à 705. 

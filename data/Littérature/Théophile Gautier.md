@@ -24,17 +24,13 @@ questions:
  - Vers le milieu du 19e siècle, quel écrivain français a publié "Constantinople" et "Le Roman de la momie" ?
 ---
 
-
 ![Image de Théophile Gautier](https://upload.wikimedia.org/wikipedia/commons/a/a9/Plaque_Th%C3%A9ophile_Gautier%2C_8_place_des_Vosges.JPG)
 
 ###### Questions
 
 Quel auteur du XIXe siècle a été nommé chef de file du mouvement littéraire [[Le Parnasse]] après la publication de son livre [[Émaux et Camées]] en 1852 ?
 
-Quel écrivain est connu pour avoir publié un texte influent intitulé [[Mademoiselle de Maupin]] qui explore des thèmes de bisexualité et de travestissement en 1835 ? <!-- score: 3 -->
-
-Quel poète et critique d'art a écrit en 1844 l'essai [[Le Roman de la momie]], inspiré par sa fascination pour l'[[Égypte ancienne]] ?
-
+Quel écrivain est connu pour avoir publié un texte influent intitulé [[Mademoiselle de Maupin]] qui explore des thèmes de bisexualité et de travestissement en 1835 ? <!-- score: 4 -->
 ###### Description
 
 [[Théophile Gautier]] est un écrivain et poète français né en 1811 à [[Tarbes]], connu pour ses œuvres influentes dans le courant du [[romantisme]] et plus tard dans le [[parnassien]].  

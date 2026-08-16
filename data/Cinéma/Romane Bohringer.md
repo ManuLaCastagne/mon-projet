@@ -28,12 +28,7 @@ questions:
 
 ###### Questions
 
-Dans quel film sorti en 1992, [[Romane Bohringer]] interprète-t-elle le rôle de Lise aux côtés de [[Gérard Depardieu]] ?
-
-Dans quel film sorti en 2012, [[Romane Bohringer]] a-t-elle remporté un César de la meilleure actrice dans un second rôle ?
-
-Quel film de 1998, mettant en vedette [[Romane Bohringer]], est une adaptation d'un roman de [[Pennac]] et a été réalisé par [[Claude Miller]] ?
-
+Dans [[Les Nuits fauves]] en 1992, qui interprète le rôle de Laura aux côtés de [[Cyril Collard]] ? <!-- score: 5 -->
 ###### Description
 
 [[Romane Bohringer]] est une actrice française, née le 14 août 1973 à [[Pointoise]]. Elle est la fille de [[Richard Bohringer]], ce qui l'a plongée dès son plus jeune âge dans le monde du cinéma. Elle a remporté le [[César du meilleur espoir féminin]] en 1993 pour son rôle dans le film "[[Les Nuits fauves]]" de [[Cyril Collard]]. En 1998, elle s'est illustrée dans "[[L'Amour flou]]", un film qui a marqué sa carrière et prouvé son talent polyvalent sur la scène cinématographique française.

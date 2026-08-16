@@ -1,32 +1,35 @@
 ---
-tags: 
+tags:
   - Musique
   - Oxford-Royaume-Uni
   - Années_1990
   - XXe
+  - Certifié
 date:
   - 1992/02/24
 debut: 1992
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Creep
-indice_2 : 
+indice_2:
   - Thom Yorke
-indice_3 : 
+indice_3:
   - OK Computer
-indice_4 : 
+indice_4:
   - Kid A
-indice_5 : 
+indice_5:
   - In Rainbows
-indice_6 : 
+indice_6:
   - The Bends
-questions:
- - En 1993, quel groupe de rock emmené par le chanteur Thom Yorke se fait connaître avec "Creep" ?
 ---
 
 ![Image de Radiohead](https://upload.wikimedia.org/wikipedia/commons/6/6c/Radiohead.jpg)
 
 ###### Questions
+
+Quel groupe a sorti les albums Pablo Honey et OK Computer, comprenant les titres Creep, No Surprises et Paranoid Android ?`
+
+En 1993, quel groupe de rock emmené par le chanteur Thom Yorke se fait connaître avec "Creep" ?
 
 Quel groupe britannique a sorti l'album révolutionnaire [[OK Computer]] en 1997 ?
 
@@ -41,5 +44,3 @@ Le groupe [[Radiohead]], formé à [[Oxford]] en 1985, est composé de cinq memb
 Leur troisième album, "OK Computer", sorti en 1997, a consolidé leur réputation internationale grâce à sa sonorité novatrice et ses thèmes dystopiques. 
 
 Fait étonnant : l'album "In Rainbows", lancé en 2007, a été l'un des premiers albums majeurs à être vendu selon un système de prix libre, permettant aux fans de décider combien ils voulaient payer. 
-
-En 2019, Radiohead a évité une cyberattaque en divulguant volontairement 18 heures de démos et d'enregistrements inédits, une démarche saluée pour sa transparence audacieuse.

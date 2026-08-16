@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Royaume-Uni
   - Années_2010
@@ -7,18 +7,18 @@ tags:
 date:
   - 1996/06/01
 debut: 1996
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Spider-Man
-indice_2 : 
+indice_2:
   - Danseur
-indice_3 : 
+indice_3:
   - Acteur Britannique
-indice_4 : 
-  - Lip Sync Battle
-indice_5 : 
+indice_4:
+  - Billy Elliot
+indice_5:
   - The Impossible
-indice_6 : 
+indice_6:
   - Marvel Cinematic Universe
 ---
 
@@ -26,11 +26,9 @@ indice_6 :
 
 ###### Questions
 
-Quel acteur britannique, connu pour son rôle de [[Spider-Man]] dans l'[[Univers cinématographique Marvel]], a fait ses débuts dans le [[West End]] en 2008 à l'âge de 12 ans dans la comédie musicale [[Billy Elliot]] ?  
+Quel acteur britannique, connu pour son rôle de [[Spider-Man]] dans l'[[Univers cinématographique Marvel]], a fait ses débuts dans le [[West End]] en 2008 à l'âge de 12 ans dans la comédie musicale [[Billy Elliot]] ? 
 
-Quel acteur né en 1996 a prêté sa voix au personnage principal dans le film d'animation de [[Pixar]] [[En avant]], aux côtés de [[Chris Pratt]] ?  
-
-Quel acteur a participé au [[Lip Sync Battle]] en 2017 où il a interprété "Umbrella" de [[Rihanna]], offrant une performance mémorable déguisé en elle ?
+Quel comédien anglais, ancien danseur formé à la BRIT School, a été révélé au grand public dans le film [[The Impossible]] (2012), aux côtés de [[Naomi Watts]] et [[Ewan McGregor]] ?
 
 ###### Description
 

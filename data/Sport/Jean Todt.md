@@ -26,12 +26,7 @@ questions:
 
 ###### Questions
 
-Quel dirigeant français a été président de la [[Fédération Internationale de l'Automobile]] de [[2009]] à [[2021]] ?
-
-Quel ancien copilote de rallye a contribué aux succès de l'écurie [[Ferrari]] en [[Formule 1]] dans les années [[1990]] et [[2000]] ?
-
-Qui a été le directeur de l'écurie [[Peugeot]] lorsqu'ils ont remporté le [[Championnat du Monde des Rallyes]] en [[1985]] et [[1986]] ?
-
+Quel dirigeant français a été président de la [[Fédération Internationale de l'Automobile]] de [[2009]] à [[2021]] et est un ancien copilote de rallye a contribué aux succès de l'écurie [[Ferrari]] en [[Formule 1]] dans les années [[1990]] et [[2000]] ? <!-- score: 5 -->
 ###### Description
 
 [[Jean Todt]] est né à [[Pierrefort]], en France, le 25 février 1946. 

@@ -22,6 +22,7 @@ indice_6:
   - Londres victorien
 ---
 
+
 ![Image de Sherlock Holmes](https://upload.wikimedia.org/wikipedia/commons/c/c6/Charles_Frohman_presents_William_Gillette_in_his_new_four_act_drama%2C_Sherlock_Holmes_%28LOC_var_1364%29_%28edit%29.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quelle nom de détective [[mnémotechnique]] contient les initiales des grands l
 
 Quel personnage littéraire créé par [[Arthur Conan Doyle]] a été introduit pour la première fois dans le roman publié en 1887, intitulé "[[A Study in Scarlet]]" ?
 
-Quel détective fictif partage une adresse emblématique au [[221B Baker Street]] à [[Londres]] avec son fidèle ami et biographe, le [[Dr Watson]] ?
+Quel détective fictif partage une adresse emblématique au [[221B Baker Street]] à [[Londres]] avec son fidèle ami et biographe, le [[Dr Watson]] ? <!-- score: 9 -->
 
 Quel personnage de fiction, connu pour sa logique déductive, a été "tué" par son créateur en 1893 dans "[[The Final Problem]]" avant de revenir par la demande populaire en 1903 dans "[[The Adventure of the Empty House]]" ?
 

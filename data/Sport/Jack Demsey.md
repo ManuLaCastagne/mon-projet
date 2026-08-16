@@ -26,12 +26,7 @@ questions:
 
 ###### Questions
 
-Quel célèbre boxeur américain a été champion du monde poids lourds de [[1919]] à [[1926]] ?  
-
-Quel boxeur a été protagoniste d'un des premiers combats de l'histoire diffusés à la radio en [[1923]] ?  
-
-Quel sportif légendaire a combattu dans le "Combat du siècle" contre [[Gene Tunney]] en [[1926]] ?
-
+Quel célèbre boxeur américain a été champion du monde poids lourds de [[1919]] à [[1926]]  a été protagoniste d'un des premiers combats de l'histoire diffusés à la radio en [[1923]] et a notamment affronté [[Georges Carpentier]] ? <!-- score: 5 -->
 ###### Description
 
 [[Jack Dempsey]], de son vrai nom [[William Harrison Dempsey]], est né à [[Manassa]], dans le [[Colorado]], en 1895. 

@@ -26,12 +26,7 @@ questions:
 
 ###### Questions
 
-Quelle présidente brésilienne a été destituée en [[2016]] après un procès en destitution controversé concernant des manipulations budgétaires ?
-
-Quelle figure politique a été la première femme à prendre la présidence du [[Brésil]], succédant à [[Luiz Inácio Lula da Silva]] en [[2011]] ?
-
-Quel ancien ministre de l'Énergie au [[Brésil]] a survécu à une épreuve de torture par le régime militaire dans les années [[1970]] avant de devenir présidente ?
-
+Quelle [[première femme]] présidente brésilienne a été destituée en [[2016]] après un procès en destitution controversé concernant des manipulations budgétaires, alors qu'elle avait succédé à [[Lula]] en 2011 ? <!-- score: 4 -->
 ###### Description
 
 [[Dilma Rousseff]] est née le 14 décembre 1947 à [[Belo Horizonte]], au [[Brésil]], et est devenue la [[première femme]] présidente de son pays, exerçant son mandat de 2011 à 2016. 

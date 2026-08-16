@@ -1,26 +1,25 @@
 ---
-tags: 
+tags:
   - Télévision
   - France
   - Années_2000
   - XXIe
 debut: 2004
 fin: 2017
-indice_1 : 
+indice_1:
   - Canal+
-indice_2 : 
+indice_2:
   - talk-show
-indice_3 : 
+indice_3:
   - Michel Denisot
-indice_4 : 
+indice_4:
   - Antoine de Caunes
-indice_5 : 
+indice_5:
   - émissions en clair
-indice_6 : 
+indice_6:
   - années 2000 et 2010
-questions:
- - Quelle émission, animée de 2004 à 2013 par Michel Denisot, s'installait tous les ans sur la Croisette, à l'occasion du Festival de Cannes?
 ---
+
 
 
 
@@ -31,8 +30,6 @@ questions:
 Quel programme télévisé français diffusé de [[2004]] à [[2015]] sur [[Canal+]] a été présenté par des animateurs comme [[Michel Denisot]], [[Maïtena Biraben]] et [[Antoine de Caunes]]? <!-- score: 4 -->
 
 Quel talk-show quotidien a été connu pour son segment humoristique "Le Petit Journal" avant qu'il ne devienne une émission à part entière en [[2011]]? <!-- score: 4 -->
-
-Quelle émission a connu une hausse significative de ses audiences après la célèbre prestation du pianiste [[André Manoukian]] rejouant la bande musicale à partir d'un baiser échangé en [[2013]]?
 
 ###### Description
 

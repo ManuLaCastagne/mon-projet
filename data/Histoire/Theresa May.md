@@ -26,12 +26,7 @@ questions:
 
 ###### Questions
 
-Quel Premier ministre britannique a dansé sur scène au son de [[Dancing Queen]] d'[[ABBA]] lors d'une conférence du [[Parti conservateur britannique]] en [[2018]] ?
-
-Quelle Première ministre britannique a succédé à [[David Cameron]] après sa démission à la suite du référendum sur le [[Brexit]] en [[2016]] ?
-
-Qui était à la tête du gouvernement britannique lors de la mise en œuvre officielle du [[Brexit]] le 29 mars [[2017]] en déclenchant l'article 50 du [[Traité sur l'Union européenne]] ?
-
+Quelle Première ministre britannique a succédé à [[David Cameron]] après sa démission à la suite du référendum sur le [[Brexit]] en [[2016]] ? <!-- score: 2 -->
 ###### Description
 
 [[Theresa May]] a été Première ministre du [[Royaume-Uni]] de 2016 à 2019, succédant à [[David Cameron]] après le référendum sur le Brexit. 

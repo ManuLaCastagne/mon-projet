@@ -24,12 +24,13 @@ indice_6 :
   - Mbare Musika Market
 ---
 
+
 ![Image de Harare](https://upload.wikimedia.org/wikipedia/commons/3/3b/Harare_montage.png)
 
 ![[Carte_Harare.png]]
 ###### Questions
 
-Quelle est la capitale de [[Zimbabwe]] qui a remplacé [[Salisbury]] en tant que nom officiel en 1982 ?
+Quelle est la capitale de [[Zimbabwe]] qui a remplacé [[Salisbury]] en tant que nom officiel en 1982 ? <!-- score: 4 -->
 
 Dans quelle ville a été inauguré le [[Freedom Arch]], symbole de l'indépendance du [[Zimbabwe]] acquise en 1980 ?
 

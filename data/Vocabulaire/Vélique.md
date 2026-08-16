@@ -18,11 +18,12 @@ indice_6 :
 
 
 
+
 ![Image de Vélique](https://upload.wikimedia.org/wikipedia/commons/1/1a/Forces_on_sails_for_three_points_of_sail.jpg)
 
 ###### Questions
 
-Quel est le terme utilisé pour qualifier ce qui est relatif à la [[navigation]] à voile ou à la [[voile]] elle-même, souvent employé en [[nautisme]]?
+Quel est le terme utilisé pour qualifier ce qui est relatif à la [[navigation]] à voile ou à la [[voile]] elle-même, souvent employé en [[nautisme]]? <!-- score: 3 -->
 
 Quel adjectif utilise-t-on dans le domaine des sports nautiques pour décrire ce qui concerne les caractéristiques ou les performances d'un [[bateau]] à voile?
 
