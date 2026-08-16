@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/99 francs.md",
+                "file": "Littérature/Abbé Prévost.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 99 francs"
+              "title": "Graphique de Abbé Prévost"
             }
           },
           {
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/99 francs.md",
+                "file": "Littérature/Abbé Prévost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "99 francs"
+              "title": "Abbé Prévost"
             }
           }
         ],
@@ -257,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "08fb69aeffa85077",
@@ -345,7 +345,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,6 +363,10 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
+    "Littérature/A la recherche du temps perdu.md",
+    "Géographie/Combray.md",
+    "Littérature/A Study in Scarlet.md",
+    "Littérature/99 francs.md",
     "attachments/Pasted image 20260816110720.png",
     "Littérature/37,2 le matin (roman).md",
     "Histoire/Jules Vallès.md",
@@ -383,7 +388,6 @@
     "attachments/Pasted image 20260803220027.png",
     "attachments/Pasted image 20260803215609.png",
     "attachments/Pasted image 20260803214246.png",
-    "attachments/Pasted image 20260803213438.png",
     "Vocabulaire/syzygie.md",
     "Vocabulaire/chaman.md",
     "Vocabulaire/Wagage.md",
@@ -395,9 +399,6 @@
     "Sciences/Renault.md",
     "Musique/hard bop.md",
     "Musique/be-bop.md",
-    "Musique/You Can Leave Your Hat On.md",
-    "Musique/Simple Minds.md",
-    "Musique/Jazz Messengers.md",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
     "Frises/Base de données n°1.base",
