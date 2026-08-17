@@ -22,13 +22,14 @@ questions:
  - Quel sport consistant à surfer sur la neige en étant mû par un cerf-volant porte un nom anglais qui est traduit par planche à neige tractée?
 ---
 
+
 ![Image de Snowkite](https://upload.wikimedia.org/wikipedia/commons/1/1e/Kite_boarding.jpg)
 
 ###### Questions
 
 Quel sport innovant, mêlant [[kite-surf]] et [[snowboard]], a été popularisé dans les années [[2010]] permettant aux amateurs de glisse de s'amuser sur la neige en utilisant le vent ?
 
-Quelle activité extérieure, nécessitant une aile de traction similaire à celle du [[kite-surf]], a gagné en popularité grâce à des champions tels que [[Guillaume Chastagnol]] dès l'année [[2005]] ?
+Quelle activité extérieure, nécessitant une aile de traction similaire à celle du [[kite-surf]], a gagné en popularité grâce à des champions tels que [[Guillaume Chastagnol]] dès l'année [[2005]] ? <!-- score: 4 -->
 
 Quel sport, permettant de profiter des paysages enneigés tout en surfant avec l'aide du vent, a organisé ses premiers championnats du monde en [[2009]] à [[Col du Lautaret]] en [[France]] ?
 
