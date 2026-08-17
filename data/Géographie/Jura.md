@@ -26,6 +26,7 @@ questions:
  - Quel département du centre-est de la France, dont la préfecture est Lons-le-Saunier abrite le village de Ney dont les habitants sont les Calins ?
 ---
 
+
 ![Image de Jura](https://upload.wikimedia.org/wikipedia/commons/0/09/Jura_l%C3%A9gislatives_1981.svg)
 
 ![[Carte_Jura.png]]
@@ -35,7 +36,7 @@ Quelle région montagneuse française abrite le célèbre massif où le ski de f
 
 Quel département français, créé en 1790, compte plusieurs sites classés au patrimoine mondial de l'[[UNESCO]], notamment grâce à ses paysages naturels remarquables comme ceux du [[Parc naturel régional du Haut-Jura]] ?
 
-Quel département est reconnu pour ses sites préhistoriques tels que les grottes d'[[Aven d'Orgnac]], et est traversé par la [[ligne des Hirondelles]], une voie ferrée inaugurée en 1864 ?
+Quel département est reconnu pour ses sites préhistoriques tels que les grottes d'[[Aven d'Orgnac]], et est traversé par la [[ligne des Hirondelles]], une voie ferrée inaugurée en 1864 ? <!-- score: 4 -->
 
 ###### Description
 
