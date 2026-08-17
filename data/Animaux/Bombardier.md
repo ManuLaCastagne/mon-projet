@@ -1,6 +1,7 @@
 ---
 tags:
   - Animaux
+  - Certifié
 indice_1:
   - Coléoptère
 indice_2:
@@ -15,7 +16,7 @@ indice_6:
   - Défense chimique spectaculaire
 ---
 
-![Image de Bombardier](https://upload.wikimedia.org/wikipedia/commons/f/f5/Bombardier_Plane.jpg)
+![Image de Bombardier](https://upload.wikimedia.org/wikipedia/commons/a/a3/Brachinus_spPCCA20060328-2821B.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ###### Questions
 
@@ -24,8 +25,4 @@ Quel insecte a été décrit pour la première fois en 1758 par [[Carl von Linn�
 
 Le [[Bombardier]], ou coléoptère bombardier, est un insecte fascinant qui appartient à la famille des carabidés. 
 
-Il doit son nom à sa capacité unique de projeter un liquide chaud et irritant pour se défendre contre ses prédateurs, une caractéristique qui en fait un spécimen redoutable dans le monde animal. 
-
-Un fait étonnant est que cette réaction chimique explosive se produit à une température pouvant atteindre 100°C, ce qui fait du bombardier l’insecte capable de produire le jet le plus chaud, un record peu connu. 
-
-Cet insecte surprenant a suscité l'intérêt des chercheurs en chimie et en biologie depuis le XIXe siècle, avec des études notables publiées dès les années [[1860]].
+Il doit son nom à sa capacité unique de projeter un liquide chaud et irritant pour se défendre contre ses prédateurs, une caractéristique qui en fait un spécimen redoutable dans le monde animal.

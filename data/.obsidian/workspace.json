@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anatomie/La Gifle.md",
+                "file": "Animaux/Nautile.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de La Gifle"
+              "title": "Graphique de Nautile"
             }
           },
           {
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomie/La Gifle.md",
+                "file": "Animaux/Nautile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Gifle"
+              "title": "Nautile"
             }
           },
           {
@@ -376,7 +376,22 @@
   },
   "active": "2309c844cdff7643",
   "lastOpenFiles": [
+    "Animaux/Musaraigne.md",
+    "Animaux/Murex.md",
+    "Animaux/Corneille.md",
+    "Animaux/Bombardier.md",
+    "Animaux/Berger allemand.md",
+    "Anatomie/Rate.md",
+    "Géographie/Thury.md",
+    "Cinéma/Agnès Varda.md",
+    "Cinéma/Abel Gance.md",
+    "Cinéma/8 femmes.md",
+    "Cinéma/Akira Kurosawa.md",
+    "Cinéma/Al Pacino.md",
+    "Cinéma/Adrian Lyne.md",
     "attachments/Pasted image 20260816110720.png",
+    "Cinéma/La Gifle 1.md",
+    "Cinéma/La Gifle.md",
     "Cinéma/Actors Studio.md",
     "Littérature/La Zone du Dehors.md",
     "Littérature/La Mystérieuse Affaire de Styles.md",
@@ -386,25 +401,11 @@
     "Culture générale/Reine du crime.md",
     "Culture générale/Mary Westmacott.md",
     "Cinéma/The Last Face.md",
-    "Cinéma/La Gifle.md",
-    "Anatomie/La Gifle.md",
     "Cinéma/Agnès Jaoui.md",
     "Cinéma/Le Goût des autres.md",
-    "Culture générale/César du meilleur film.md",
-    "Géographie/Antony.md",
-    "Cinéma/Adèle Exarchopoulos.md",
-    "Cinéma/L'Amour Ouf.md",
-    "Cinéma/Adolescentes.md",
     "attachments/Pasted image 20260804075735.png",
-    "Géographie/Brive-la-Gaillarde.md",
-    "Cinéma/Adieu les cons.md",
     "attachments/Pasted image 20260804075442.png",
-    "Cinéma/Adieu Berthe.md",
-    "Cinéma/37,2 le matin (film).md",
-    "Cinéma/120 battements par minute.md",
-    "Cinéma/Ad Astra.md",
     "attachments/Pasted image 20260804075041.png",
-    "Cinéma/Abel Gance.md",
     "attachments/Pasted image 20260803221325.png",
     "attachments/Pasted image 20260803220757.png",
     "attachments/Pasted image 20260803220309.png",

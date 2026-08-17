@@ -1,20 +1,20 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+indice_1:
   - Mollusque
-indice_2 : 
+indice_2:
   - Nautilus pompilius
-indice_3 : 
+indice_3:
   - Nautilida
-indice_4 : 
+indice_4:
   - Indo-Pacifique
-indice_5 : 
+indice_5:
   - Fossile vivant
-indice_6 : 
+indice_6:
   - Symbole de perfection géométrique
 questions:
- - Quel céphalopode des mers chaudes dont le nom provient de "Matelot" est reconnaissable à sa coquille spiralée ?
+  - Quel céphalopode des mers chaudes dont le nom provient de "Matelot" est reconnaissable à sa coquille spiralée ?
 ---
 
 

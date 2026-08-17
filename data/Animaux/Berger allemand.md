@@ -1,20 +1,19 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+  - Certifié
+indice_1:
   - Chien
-indice_2 : 
+indice_2:
   - Canis lupus familiaris
-indice_3 : 
-  - Carnivora
-indice_4 : 
+indice_3:
+  - Rin Tin Tin
+indice_4:
   - Allemagne
-indice_5 : 
+indice_5:
   - Chien de garde
-indice_6 : 
+indice_6:
   - Loyal compagnon
-questions:
- - Quelle race de chien, issue d'un croisement effectué au XIXe siècle par le capitaine Max von Stephanitz, est loué pour son intelligence?
 ---
 
 

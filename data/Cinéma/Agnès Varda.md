@@ -1,27 +1,26 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Belgique
   - Années_1950
   - XXe
+  - Certifié
 date:
   - 1928/05/30
 debut: 1928
 fin: 2019
-indice_1 : 
+indice_1:
   - Cléo de 5 à 7
-indice_2 : 
+indice_2:
   - La Pointe Courte
-indice_3 : 
+indice_3:
   - Les Plages d'Agnès
-indice_4 : 
+indice_4:
   - Documentariste renommée
-indice_5 : 
+indice_5:
   - Nouvelle Vague
-indice_6 : 
+indice_6:
   - César d'honneur
-questions:
- - Quelle réalisatrice française, décédée en 2019 à l'âge de 90 ans, a tourné plusieurs films en Sport/Californie, parmi lesquels "Documenteur"?
 ---
 
 
