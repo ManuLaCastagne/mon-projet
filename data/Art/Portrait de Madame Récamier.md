@@ -23,13 +23,14 @@ indice_6 :
   - musée du Louvre
 ---
 
+
 ![Image de Portrait de Madame Récamier](https://upload.wikimedia.org/wikipedia/commons/2/27/%28Venice%29_Portrait_of_Madame_R%C3%A9camier_after_Fran%C3%A7ois_G%C3%A9rard_-_Museo_Correr.jpg)
 
 ###### Questions
 
 Dans quel tableau célèbre, peint par [[Jacques-Louis David]] en 1800, une femme est-elle représentée assise sur un sofa élégant avec une robe blanche, illustrant le style néoclassique ?
 
-Quel chef-d'œuvre inachevé, commandé par [[Juliette Récamier]], a été interrompu en 1803 et montre l'épouse d'un banquier influent de la période napoléonienne ?
+Quel chef-d'œuvre inachevé, commandé par [[Juliette Récamier]], a été interrompu en 1803 et montre l'épouse d'un banquier influent de la période napoléonienne ? <!-- score: 4 -->
 
 Quelle peinture iconique, exposée au [[Louvre]], capture l'élégance et le charme d'une figure de la haute société française à l'orée du XIXe siècle, bien qu'elle ne fût jamais complètement terminée ?
 
