@@ -22,6 +22,7 @@ questions:
  - Aventurier sud-africain  ayant invité des célébrités  à repousser leurs limites dans "A l'état sauvage".
 ---
 
+
 ![Image de Mike Horn](https://upload.wikimedia.org/wikipedia/commons/4/44/DmitrySharomov20161208-4023.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Dans quelle émission diffusée en [[2019]] sur [[M6]], [[Mike Horn]] a-t-il par
 
 Quel explorateur célèbre, souvent accompagné par de jeunes personnalités, a animé une saison du programme "[[À l'état sauvage]]" en [[2017]] sur [[M6]] ?
 
-Dans quel programme télévisé des années [[2020]] [[Mike Horn]] a-t-il survécu à des terrains hostiles aux côtés de personnalités telles que [[Bixente Lizarazu]] ?
+Dans quel programme télévisé des années [[2020]] [[Mike Horn]] a-t-il survécu à des terrains hostiles aux côtés de personnalités telles que [[Bixente Lizarazu]] ? <!-- score: 5 -->
 
 ###### Description
 
