@@ -24,6 +24,7 @@ questions:
  - De quel linguiste suisse a-t-on publié en 1916 à titre posthume, le "Cours de linguistique générale" d'après des notes d'étudiants ?
 ---
 
+
 ![Image de Ferdinand de Saussure](https://upload.wikimedia.org/wikipedia/commons/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png)
 
 ###### Questions
