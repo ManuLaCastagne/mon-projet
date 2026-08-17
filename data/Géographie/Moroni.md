@@ -27,6 +27,7 @@ indice_6 :
 
 
 
+
 ![Image de Moroni](https://upload.wikimedia.org/wikipedia/commons/4/4f/Moroni_harbour_%282%29.jpg)
 
 ![[Carte_Moroni.png]]
@@ -36,7 +37,7 @@ Quelle est la capitale de l'archipel de [[Comores]] qui a obtenu son indépendan
 
 Quel est le nom de la ville où se déroule chaque année [[Mouloud (fête)]], célébrant la naissance du prophète [[Mahomet]] ?
 
-Quel est le nom de la ville située sur l'île de [[Grande Comore]], qui est aussi le lieu de l'un des plus anciens volcans actifs du monde, le [[Karthala]] ? <!-- score: 3 -->
+Quel est le nom de la ville située sur l'île de [[Grande Comore]], qui est aussi le lieu de l'un des plus anciens volcans actifs du monde, le [[Karthala]] ? <!-- score: 6 -->
 
 ###### Description
 
