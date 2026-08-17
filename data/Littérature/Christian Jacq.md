@@ -24,13 +24,14 @@ questions:
  - Dans les années 2000, quel écrivain publie "Les Mystères d'Osiris" ?
 ---
 
+
 ![Image de Christian Jacq](https://upload.wikimedia.org/wikipedia/commons/5/50/Christian_Jacq%2C_au_Salon_du_Livre_de_Paris_2013_%288594182587%29.jpg)
 
 ###### Questions
 
 Quel auteur, également égyptologue, a vendu plus de vingt-sept millions de livres de sa saga sur [[Ramsès II]], débutée en 1995 avec la sortie du premier volume ?
 
-Quel écrivain français, né en 1947, a fondé en 1984 l'association [[Institut Ramsès]], dédiée à la promotion de la civilisation égyptienne ?
+Quel écrivain français, né en 1947, a fondé en 1984 l'association [[Institut Ramsès]], dédiée à la promotion de la civilisation égyptienne ? <!-- score: 6 -->
 
 Quel auteur a remporté le prix [[Jean d'Heurs]] du roman historique en 1993 pour son livre "Le Juge d'Égypte" ?
 
