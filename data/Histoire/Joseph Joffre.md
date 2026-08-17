@@ -23,6 +23,7 @@ questions:
 ---
 
 
+
 ![Image de Joseph Joffre](https://upload.wikimedia.org/wikipedia/commons/e/ef/Joseph_Joffre_R.Melcy_1917.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel [[maréchal]] français a joué un rôle déterminant en tant que [[command
 
 Quel militaire français a occupé le rôle de [[chef d'état-major général]] de l'armée française durant les premières années de la [[Première Guerre mondiale]] ?
 
-Quel général français, né en [[1852]], est connu pour sa stratégie défensive pendant les premières années de la [[Grande Guerre]], ce qui lui a valu le surnom de "Papa Joffre" ? <!-- score: 5 -->
+Quel général français, né en [[1852]], est connu pour sa stratégie défensive pendant les premières années de la [[Grande Guerre]], ce qui lui a valu le surnom de "Papa Joffre" ? <!-- score: 8 -->
 
 ###### Description
 
