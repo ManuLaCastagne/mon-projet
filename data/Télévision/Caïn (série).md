@@ -22,17 +22,15 @@ questions:
  - Quel personnage d'une série TV sur la 2 est un policier paraplégique, cynique et séducteur ?
 ---
 
-
 ![Image de Caïn (série)](https://upload.wikimedia.org/wikipedia/commons/b/b3/Ca%C3%AFn_venant_de_tuer_son_fr%C3%A8re_Abel_by_Henri_Vidal%2C_Tuileries_Garden%2C_18_July_2017.jpg)
 
 ###### Questions
 
-Quelle série télévisée française diffusée initialement en [[2012]] sur [[France 2]] met en scène le capitaine de police [[Frédéric Caïn]], joué par [[Bruno Debrandt]], qui résout des enquêtes tout en se déplaçant en fauteuil roulant ? <!-- score: 3 -->
+Quelle série télévisée française diffusée initialement en [[2012]] sur [[France 2]] met en scène un capitaine de police joué par [[Bruno Debrandt]], qui résout des enquêtes tout en se déplaçant en fauteuil roulant ? <!-- score: 3 -->
 
 Quelle série policière française se distingue par un personnage principal incarnant un flic atypique en fauteuil roulant, qui a vu l'acteur [[Bruno Debrandt]] laisser sa place à [[Julien Baumgartner]] dans le rôle principal à partir de [[2018]] ?
 
 Quelle série télévisée, dont le titre évoque un personnage biblique, a été louée pour son traitement innovant du handicap et a rassemblé les téléspectateurs de [[France 2]] pendant huit saisons jusqu'en [[2020]] ?
-
 ###### Description
 
 [[Caïn (série)]] est une série télévisée française créée par [[Bertrand Arthuys]] et [[Bruno Debrandt]], diffusée pour la première fois en 2012 sur [[France 2]]. 
