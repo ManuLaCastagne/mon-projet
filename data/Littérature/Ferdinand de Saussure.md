@@ -31,8 +31,6 @@ questions:
 Quel linguiste suisse, né en 1857 à Genève, est considéré comme le père de la linguistique moderne grâce à son ouvrage posthume "Cours de linguistique générale" publié en 1916 ?
 
 Quel célèbre linguiste suisse a influencé les travaux de [[Roland Barthes]] et de [[Claude Lévi-Strauss]] avec ses théories structurales sur la langue et le langage ? <!-- score: 3 -->
-
-Quel intellectuel suisse est connu pour avoir révolutionné la manière dont les relations entre le signifiant et le signifié sont comprises dans la linguistique ?
 ###### Description
 
 [[Ferdinand de Saussure]], né le 26 novembre 1857 à Genève, est largement considéré comme le père de la linguistique moderne, notamment grâce à son œuvre majeure, le "Cours de linguistique générale", publié en 1916 après sa mort en 1913. 

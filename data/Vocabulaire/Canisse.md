@@ -16,13 +16,14 @@ indice_6 :
   - Clôture
 ---
 
+
 ![Image de Canisse](https://upload.wikimedia.org/wikipedia/commons/9/92/CANISSE_EN_CHAUME_DE_BAMBOU_PATINE_canisse_stem_bamboo_van_den_hende_alain_CC-BY-SA_4_0_01020.JPG)
 
 ###### Questions
 
 Quel type de matériau est souvent utilisé en jardinage pour créer des clôtures légères et naturelles souvent faites en roseaux ou bambous?
 
-Dans le domaine des aménagements extérieurs, comment appelle-t-on un brise-vue qui fait également office de protection solaire?
+Dans le domaine des aménagements extérieurs, comment appelle-t-on un brise-vue qui fait également office de protection solaire? <!-- score: 5 -->
 
 Par quel terme désigne-t-on une natte de branches, généralement en [[roseau]] ou [[osier]], utilisée pour protéger une terrasse ou un jardin?
 

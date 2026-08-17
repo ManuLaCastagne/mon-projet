@@ -23,13 +23,14 @@ questions:
 ---
 
 
+
 ![Image de Raymond Barre](https://upload.wikimedia.org/wikipedia/commons/1/1c/Alstom_Citadis_302_n%C2%B0807_TCL_Pont_Raymond_Barre_Halle_Tony_Garnier.jpg)
 
 ###### Questions
 
 Quel homme politique a été nommé [[Premier ministre]] de France par le président [[Valéry Giscard d'Estaing]] en [[1976]] ? <!-- score: 4 -->
 
-Quel célèbre économiste a été surnommé le "meilleur économiste de France" avant de devenir Premier ministre en [[1976]] ?
+Quel célèbre économiste a été surnommé le "meilleur économiste de France" avant de devenir Premier ministre en [[1976]] ? <!-- score: 3 -->
 
 Quel homme politique a concouru pour l'élection présidentielle française en [[1988]], terminant à la troisième place au premier tour ?
 

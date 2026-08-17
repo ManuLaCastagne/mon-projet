@@ -20,13 +20,14 @@ indice_6 :
   - collabore avec Marie-Antoinette
 ---
 
+
 ![Image de Christophe-Philippe Oberkampf](https://upload.wikimedia.org/wikipedia/commons/d/de/Christophe-Philippe_Oberkampf_%281738-1815%29.jpg)
 
 ###### Questions
 
 Quel industriel, d'origine allemande, a fondé en 1759 la manufacture de toile imprimée renommée de [[Jouy-en-Josas]] ?
 
-Quel inventeur a été anobli par [[Louis XVI]] en 1787 pour ses contributions remarquables à l'industrie textile française ?
+Quel inventeur a été anobli par [[Louis XVI]] en 1787 pour ses contributions remarquables à l'industrie textile française ? <!-- score: 4 -->
 
 Quel entrepreneur est à l'origine de la célébrité des toiles de [[Jouy]] au XVIIIe siècle grâce à ses innovations en matière de techniques d'impression ?
 

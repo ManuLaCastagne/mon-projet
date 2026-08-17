@@ -16,6 +16,7 @@ indice_6 :
   - Rubrique des potins
 ---
 
+
 ![Image de Échotier](https://upload.wikimedia.org/wikipedia/commons/e/ed/LL-Q150_%28fra%29-MrStrelok75-%C3%A9chotier.wav)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quel est le terme utilisé pour désigner un journaliste spécialisé dans les r
 
 Quel est le mot pour désigner un chroniqueur qui écrit dans une publication sur les potins de la société et les nouvelles diverses?
 
-Comment appelle-t-on un journaliste qui travaille principalement sur la colonne des bruits de couloir et des indiscrétions, souvent pour des journaux comme [[Le Canard enchaîné]]?
+Comment appelle-t-on un journaliste qui travaille principalement sur la colonne des bruits de couloir et des indiscrétions, souvent pour des journaux comme [[Le Canard enchaîné]]? <!-- score: 3 -->
 
 ###### Description
 

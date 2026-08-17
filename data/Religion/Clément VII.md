@@ -22,11 +22,12 @@ questions:
  - En 1527, quel pape se déguisa en commerçant pour sortir du château Saint-Ange où il était resté prisonnier pendant plusieurs mois?
 ---
 
-![Image de Clément VII](https://upload.wikimedia.org/wikipedia/commons/0/0e/D%27apr%C3%A8s_Sebastiano_del_Piombo_-_Cl%C3%A9ment_VII_-_MG_25_-_Museum_of_Grenoble.jpg)
+
+![Image de Clément VII](https://upload.wikimedia.org/wikipedia/commons/0/0e/D%27apr%C3%A8s_Sebastiano_del_Piombo_-_Cl%C3%A9ment_VII_-_MG_25_-_Museum_of_Grenoble.jpg)
 
 ###### Questions
 
-Quel pape a excommunié [[Henry VIII]] en [[1533]] après que ce dernier a demandé l'annulation de son mariage avec [[Catherine d'Aragon]]?
+Quel pape a excommunié [[Henry VIII]] en [[1533]] après que ce dernier a demandé l'annulation de son mariage avec [[Catherine d'Aragon]]? <!-- score: 4 -->
 
 Quel pape a connu le [[Sacco di Roma]], le sac de [[Rome]] par les troupes impériales de [[Charles Quint]], en [[1527]]?
 

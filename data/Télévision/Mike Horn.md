@@ -26,12 +26,7 @@ questions:
 
 ###### Questions
 
-Dans quelle émission diffusée en [[2019]] sur [[M6]], [[Mike Horn]] a-t-il participé à une aventure périlleuse dans le [[Grand Nord]] auprès d'un groupe de célébrités ?
-
 Quel explorateur célèbre, souvent accompagné par de jeunes personnalités, a animé une saison du programme "[[À l'état sauvage]]" en [[2017]] sur [[M6]] ?
-
-Dans quel programme télévisé des années [[2020]] [[Mike Horn]] a-t-il survécu à des terrains hostiles aux côtés de personnalités telles que [[Bixente Lizarazu]] ?
-
 ###### Description
 
 [[Mike Horn]] est un explorateur et animateur de télévision franco-sud-africain né en 1966 à [[Johannesburg]] qui s'est fait connaître grâce à ses impressionnantes expéditions autour du monde.

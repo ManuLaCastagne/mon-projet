@@ -24,13 +24,14 @@ questions:
  - En 1990, à quelle personnalité  du monde du sport, avec laquelle il chante en duo, Pierre Bachelet dédie-t-il le titre "Flo"?
 ---
 
+
 ![Image de Florence Arthaud](https://upload.wikimedia.org/wikipedia/commons/6/62/Florence_Arthaud_d%C3%A9dicace.JPG)
 
 ###### Questions
 
 Quel est le nom de la navigatrice qui a participé au clip de la chanson "[[Capitaine abandonné]]" du groupe [[Gold]] en 1985 dans un hommage à la voile ?
 
-Comment s'appelle la navigatrice reconnue qui a inspiré [[Bernard Lavilliers]] pour sa chanson "[[La grande marée]]" sortie en 1994 ? <!-- score: 3 -->
+Comment s'appelle la navigatrice reconnue qui a inspiré [[Bernard Lavilliers]] pour sa chanson "[[La grande marée]]" sortie en 1994 ? <!-- score: 4 -->
 ###### Description
 
 [[Florence Arthaud]], surnommée "la Petite Fiancée de l'Atlantique", est une navigatrice française célèbre pour avoir remporté la [[Route du Rhum]] en 1990, devenant ainsi la première femme à réaliser cet exploit. 

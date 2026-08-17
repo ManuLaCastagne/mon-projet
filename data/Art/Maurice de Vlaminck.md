@@ -25,6 +25,7 @@ questions:
  - Quel peintre français, disparu en 1958, à 82 ans, s'étant souvent vanté de n'avoir jamais suivi un cours de peinture, est l'un des maîtres du fauvisme?
 ---
 
+
 ![Image de Maurice de Vlaminck](https://upload.wikimedia.org/wikipedia/commons/3/3a/Derain_et_Vlaminck_en_1942.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Dans quel mouvement artistique, co-fondé par [[Maurice de Vlaminck]] en [[Mutin
 
 Quel célèbre tableau de [[Maurice de Vlaminck]], peint en 1906, est connu pour son utilisation audacieuse de couleurs primaires et est souvent considéré comme une icône du [[Fauvisme]]?
 
-En 1908, quel peintre français, connu pour son approche instinctive de la couleur et de la forme, a décidé de se distancier du [[Fauvisme]] pour expérimenter d'autres styles artistiques, y compris un retour à des formes plus réalistes?
+En 1908, quel peintre français, connu pour son approche instinctive de la couleur et de la forme, a décidé de se distancier du [[Fauvisme]] pour expérimenter d'autres styles artistiques, y compris un retour à des formes plus réalistes? <!-- score: 4 -->
 
 ###### Description
 

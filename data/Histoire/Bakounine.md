@@ -20,6 +20,7 @@ indice_6:
   - Opposition à l'État
 ---
 
+
 ![Image de Bakounine](https://upload.wikimedia.org/wikipedia/commons/6/6c/Bakunin_Nadar.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel penseur politique russe, né en [[1814]], est considéré comme le père fo
 
 Qui est l'auteur de l'œuvre intitulée "Dieu et l'État", publiée posthumément en [[1882]], qui critique la religion et l'autorité étatique ?
 
-Quel révolutionnaire a participé activement aux révolutions de [[1848]] en Europe, notamment à [[Dresde]] en [[1849]], avant d'être emprisonné et exilé en [[Sibérie]] ?
+Quel révolutionnaire a participé activement aux révolutions de [[1848]] en Europe, notamment à [[Dresde]] en [[1849]], avant d'être emprisonné et exilé en [[Sibérie]] ? <!-- score: 1 -->
 
 ###### Description
 

@@ -25,11 +25,12 @@ questions:
 ---
 
 
+
 ![Image de Spleen de Paris](https://upload.wikimedia.org/wikipedia/commons/0/09/Spleen_et_ideal-aquarell.jpg)
 
 ###### Questions
 
-Quel recueil d'œuvres poétiques de [[Charles Baudelaire]] a été publié à titre posthume en 1869 ? <!-- score: 4 -->
+Quel recueil d'œuvres poétiques de [[Charles Baudelaire]] a été publié à titre posthume en 1869 ? <!-- score: 2 -->
 
 Quel livre, comportant une série de poèmes en prose, a été inspiré par les expérimentations stylistiques du [[symbolisme]] au XIXe siècle ?
 

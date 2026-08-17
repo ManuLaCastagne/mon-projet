@@ -22,6 +22,7 @@ indice_6 :
 
 
 
+
 ![Image de Anthony Perkins](https://upload.wikimedia.org/wikipedia/commons/9/92/APerkinsPublicityStill.jpg)
 
 ###### Questions
@@ -30,7 +31,7 @@ Quel acteur américain, célèbre pour son rôle iconique dans le film [[Psycho]
 
 En 1961, quel acteur a été nommé pour l'[[Oscar]] du meilleur second rôle pour le film [[Feux de joie]], galvanisant ainsi sa carrière ?
 
-Quel acteur, connu pour son rôle dans [[The Trial]] d'[[Orson Welles]], sorti en 1962, est considéré comme une figure emblématique du cinéma hollywoodien ?
+Quel acteur, connu pour son rôle dans [[The Trial]] d'[[Orson Welles]], sorti en 1962, est considéré comme une figure emblématique du cinéma hollywoodien ? <!-- score: 3 -->
 
 ###### Description
 
