@@ -1,20 +1,18 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+indice_1:
   - Arachnide
-indice_2 : 
+indice_2:
   - Scorpiones
-indice_3 : 
+indice_3:
   - Scorpiones
-indice_4 : 
+indice_4:
   - Déserts
-indice_5 : 
+indice_5:
   - Empereur noir
-indice_6 : 
+indice_6:
   - Symbolique de la mort
-questions:
- - Quittant la nuit les pierres ou les écorces sous lesquelles je me cache dans la journée, je pars alors chasser mes proies, que je saisis avec mes pinces. Arthropode dont la partie segmentée...
 ---
 
 
@@ -22,7 +20,7 @@ questions:
 
 ###### Questions
 
-Quel animal possède une paire de pinces et une queue souvent utilisée pour injecter du venin, généralement utilisée pour la chasse et la défense ?
+Quelle espèce a pour plus toxique le [[Leiurus quinquestriatus]], dite à queue dorée ?
 
 Quel arthropode, connu pour sa capacité à survivre à de fortes radiations, a été découvert pour la première fois dans les fossiles datant de plus de [[435 millions d'années]] ? <!-- score: 4 -->
 
@@ -36,4 +34,4 @@ On les trouve principalement dans les régions chaudes et arides, et leur capaci
 
 Un fait étonnant à propos des [[scorpions]] est leur fluorescence sous la lumière ultraviolette : ils brillent d'une teinte bleue-verte, un phénomène découvert par hasard en 1947. 
 
-Il existe environ 2 500 espèces de [[scorpions]], mais seulement une vingtaine produisent un venin potentiellement mortel pour l'humain, le plus dangereux étant le [[Leiurus quinquestriatus]], communément appelé le scorpion à queue dorée.
+Il existe environ 2 500 espèces de [[scorpions]], mais seulement une vingtaine produisent un venin potentiellement mortel pour l'humain, le plus dangereux étant le [[Leiurus quinquestriatus]], communément appelé le [[scorpion à queue dorée]].
