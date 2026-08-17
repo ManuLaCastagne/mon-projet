@@ -23,7 +23,7 @@ indice_6:
 
 Quel groupe d'îles abrite des poneys connus pour leur taille réduite et leur résistance, animaux associés à cette région depuis au moins le [[VIIIe siècle]] ?
 
-Quel archipel est le foyer d'une race de chiens, souvent utilisée pour la garde des troupeaux de moutons, dont le nom reprend celui de cet ensemble d'îles écossaises ? <!-- score: 4 -->
+Quel archipel est le foyer d'une race de chiens appelée Sheepdogs, souvent utilisée pour la garde des troupeaux de moutons, dont le nom reprend celui de cet ensemble d'îles écossaises ? <!-- score: 4 -->
 
 ###### Description
 
