@@ -17,13 +17,14 @@ questions:
  - Quel carnivore d'Amérique à la queue rayée et à la tête marquée d'un masque noir...
 ---
 
+
 ![Image de Raton laveur](https://upload.wikimedia.org/wikipedia/commons/f/f7/Raton_laveur_DSCF0010.jpg)
 
 ###### Questions
 
 Quel animal a été envoyé par [[Clara Hoover]] à la [[Maison-Blanche]] pour être présenté comme le repas du [[Thanksgiving]] de 1926 ?
 
-Quel animal est connu pour ses mains avant aux doigts très sensibles, souvent comparées à celles des êtres humains, et pour laver sa nourriture avant de la manger ?
+Quel animal est connu pour ses mains avant aux doigts très sensibles, souvent comparées à celles des êtres humains, et pour laver sa nourriture avant de la manger ? <!-- score: 6 -->
 
 Quel mammifère, originaire d'[[Amérique du Nord]], a été introduit en [[Europe]] dans les années 1920 et est parfois considéré comme une espèce envahissante ?
 
