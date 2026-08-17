@@ -22,13 +22,14 @@ questions:
  - Quelle avocate et juge américaine née en 1933, a été membre de la cour suprême des Etats-Unis de 1993 à 2020, année de sa disparition?
 ---
 
+
 ![Image de Ruth Bader Ginsburg](https://upload.wikimedia.org/wikipedia/commons/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg)
 
 ###### Questions
 
 Quelle pionnière est devenue la deuxième femme à avoir été nommée à la [[Cour suprême des États-Unis]] en [[1993]] ?
 
-Quel membre influent de la [[Cour suprême]] a créé un célèbre collet de dentelle appelé "dissent collar" pour signaler son désaccord avec une décision de la Cour ?
+Quel membre influent de la [[Cour suprême]] a créé un célèbre collet de dentelle appelé "dissent collar" pour signaler son désaccord avec une décision de la Cour ? <!-- score: 4 -->
 
 Quelle figure emblématique de la justice a remporté une affaire historique devant la [[Cour suprême]] en [[1971]] qui a invalidé une loi discriminatoire en raison de son impact inégal sur les hommes et les femmes, ouvrant la voie à l'égalité des sexes ?
 
