@@ -30,7 +30,3 @@ Quel archipel est le foyer d'une race de chiens appelée Sheepdogs, souvent util
 Le [[Shetland]] est une race de poney originaire des [[îles Shetland]], en [[Écosse]], connue pour sa robuste constitution et sa capacité à supporter des climats rudes. C'est également une race de chiens, les [[Shetland Sheepdogs]].
 
 Ces poneys mesurent généralement moins de 107 cm au garrot, ce qui en fait l'une des plus petites races équines au monde, et ils sont souvent utilisés dans le cadre d'activités pour les enfants en raison de leur taille et de leur docilité. 
-
-Un fait étonnant sur le poney [[Shetland]] est qu'il détient le record du poney le plus longévif, avec certains individus atteignant l'âge avancé de 50 ans, un exploit remarquable dans le monde animal. 
-
-Les poneys [[Shetland]] ont été reconnus officiellement dès le milieu du XIXe siècle, avec le premier livre généalogique publié en 1890, ce qui illustre leur importance et leur popularité historique dans l'élevage équin.
