@@ -1,27 +1,26 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Japon
   - Années_1950
   - XXe
+  - Certifié
 date:
   - 1910/03/23
 debut: 1910
 fin: 1998
-indice_1 : 
+indice_1:
   - Sept Samouraïs
-indice_2 : 
+indice_2:
   - Japon
-indice_3 : 
+indice_3:
   - Rashomon
-indice_4 : 
+indice_4:
   - Ran
-indice_5 : 
+indice_5:
   - Yojimbo
-indice_6 : 
+indice_6:
   - réalisateur emblématique
-questions:
- - A quel cinéaste japonais doit- on "Les 7 samouraïs" en 1954...
 ---
 
 ![Image de Akira Kurosawa](https://upload.wikimedia.org/wikipedia/commons/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg)
@@ -29,10 +28,6 @@ questions:
 ###### Questions
 
 Quel cinéaste japonais a engagé les services du célèbre compositeur américain [[Fumio Hayasaka]], qui a collaboré avec lui sur plusieurs de ses films majeurs, notamment "[[Les Sept Samouraïs]]" sorti en 1954 ?
-
-Quel réalisateur a influencé des générations de cinéastes internationaux, dont [[George Lucas]] et [[Steven Spielberg]], avec son film "[[Rashomon]]" sorti en 1950, qui introduit le concept de narration à perspectives multiples ?
-
-Qui est le réalisateur du film "[[Dersou Ouzala]]" sorti en 1975, une coproduction soviéto-japonaise, qui lui a valu de remporter l'Oscar du meilleur film en langue étrangère en 1976 ?
 
 ###### Description
 

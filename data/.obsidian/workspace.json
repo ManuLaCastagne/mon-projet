@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Aki Kaurismaki.md",
+                "file": "Cinéma/Alain Corneau.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Aki Kaurismaki"
+              "title": "Graphique de Alain Corneau"
             }
           },
           {
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Aki Kaurismaki.md",
+                "file": "Cinéma/Alain Corneau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aki Kaurismaki"
+              "title": "Alain Corneau"
             }
           }
         ],
@@ -362,9 +362,11 @@
   },
   "active": "715d6a88ba6bebd3",
   "lastOpenFiles": [
-    "Cinéma/Adèle Exarchopoulos.md",
-    "Cinéma/Aki Kaurismaki.md",
+    "Cinéma/Alain Chabat.md",
+    "Cinéma/Al Pacino.md",
     "Cinéma/Akira Kurosawa.md",
+    "Cinéma/Aki Kaurismaki.md",
+    "Cinéma/Adèle Exarchopoulos.md",
     "Cinéma/Adieu ma concubine.md",
     "Animaux/Shetland.md",
     "Animaux/Shetland Sheepdogs.md",
@@ -384,11 +386,9 @@
     "Géographie/Thury.md",
     "Cinéma/Agnès Varda.md",
     "Cinéma/8 femmes.md",
-    "Cinéma/Al Pacino.md",
     "Cinéma/Adrian Lyne.md",
     "attachments/Pasted image 20260816110720.png",
     "Cinéma/La Gifle 1.md",
-    "Cinéma/La Gifle.md",
     "attachments/Pasted image 20260804075735.png",
     "attachments/Pasted image 20260804075442.png",
     "attachments/Pasted image 20260804075041.png",

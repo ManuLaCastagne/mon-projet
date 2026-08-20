@@ -4,6 +4,7 @@ tags:
   - France
   - Années_1970
   - XXe
+  - Certifié
 date:
   - 1943/08/07
 debut: 1943
@@ -29,10 +30,6 @@ indice_6:
 En 1981, à quel réalisateur français doit-on "[[Le Choix des armes]]" avec notamment [[Catherine Deneuve]] ?
 
 Quel réalisateur français a dirigé [[Gérard Depardieu]] et [[Patrick Dewaere]] dans le film [[Série noire]] sorti en 1979 ?
-
-Qui a remporté le [[César du meilleur réalisateur]] pour le film [[Tous les matins du monde]] en 1992 ?
-
-Quel réalisateur connu pour son film [[Le Deuxième Souffle]] de 2007, remake du film éponyme de [[Jean-Pierre Melville]], a une carrière marquée par l'écriture et la réalisation de polars ?
 
 ###### Description
 

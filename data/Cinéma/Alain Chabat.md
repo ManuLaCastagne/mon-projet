@@ -1,22 +1,23 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Oran_Algérie
   - Années_1990
   - XXe
+  - Certifié
 debut: 1958
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Astérix et Obélix  Mission Cléopâtre
-indice_2 : 
+indice_2:
   - Didier
-indice_3 : 
+indice_3:
   - Les Nuls
-indice_4 : 
+indice_4:
   - Burger Quiz
-indice_5 : 
+indice_5:
   - RRRrrrr!!!
-indice_6 : 
+indice_6:
   - La Cité de la peur
 ---
 

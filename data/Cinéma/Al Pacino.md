@@ -1,24 +1,25 @@
 ---
-tags: 
+tags:
   - Cinéma
   - New_York
   - Années_1970
   - XXe
+  - Certifié
 date:
   - 1940/04/25
 debut: 1940
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Le Parrain
-indice_2 : 
+indice_2:
   - Scarface
-indice_3 : 
+indice_3:
   - Tony Montana
-indice_4 : 
+indice_4:
   - Serpico
-indice_5 : 
+indice_5:
   - Michael Corleone
-indice_6 : 
+indice_6:
   - Un après-midi de chien
 ---
 
@@ -27,11 +28,11 @@ indice_6 :
 
 ###### Questions
 
-Dans quel film réalisé par [[Christopher Nolan]] en 2002, Al Pacino incarne-t-il un détective enquêtant en [[Alaska]] aux côtés de [[Robin Williams]] ?
+Quel acteur américain incarne [[Michael Corleone]] dans la trilogie [[Le Parrain]] de [[Francis Ford Coppola]], rôle qui l’a imposé comme l’une des grandes figures du cinéma des années 1970 ?
 
-Al Pacino a remporté un [[Oscar]] pour son rôle dans quel film de 1992, où il interprète un lieutenant-colonel aveugle ? <!-- score: 10 -->
+Quel acteur interprète le gangster cubain Tony Montana dans Scarface de [[Brian De Palma]] en 1983, personnage devenu célèbre notamment pour la réplique « Say hello to my little friend! » ?
 
-Quel célèbre rôle n'a-t-il jamais remporté un [[Oscar]], bien qu'il ait été nominé, dans une saga débutant en 1972 et mettant en vedette la famille [[Corleone]] ?
+Quel acteur, huit fois nommé à l’Oscar du meilleur acteur, a finalement remporté la statuette en 1993 pour son rôle de Frank Slade, lieutenant-colonel aveugle et irascible, dans Le Temps d’un week-end ([[Scent of a Woman]]) ?
 
 ###### Description
 
