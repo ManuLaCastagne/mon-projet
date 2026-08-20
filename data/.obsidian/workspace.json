@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Alain Corneau.md",
+                "file": "Cinéma/Alain Resnais.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Alain Corneau"
+              "title": "Graphique de Alain Resnais"
             }
           },
           {
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Alain Corneau.md",
+                "file": "Cinéma/Alain Resnais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alain Corneau"
+              "title": "Alain Resnais"
             }
           }
         ],
@@ -362,6 +362,9 @@
   },
   "active": "715d6a88ba6bebd3",
   "lastOpenFiles": [
+    "Cinéma/Alain Delon.md",
+    "Cinéma/Alain Resnais.md",
+    "Cinéma/Alain Corneau.md",
     "Cinéma/Alain Chabat.md",
     "Cinéma/Al Pacino.md",
     "Cinéma/Akira Kurosawa.md",
@@ -385,10 +388,7 @@
     "Anatomie/Rate.md",
     "Géographie/Thury.md",
     "Cinéma/Agnès Varda.md",
-    "Cinéma/8 femmes.md",
-    "Cinéma/Adrian Lyne.md",
     "attachments/Pasted image 20260816110720.png",
-    "Cinéma/La Gifle 1.md",
     "attachments/Pasted image 20260804075735.png",
     "attachments/Pasted image 20260804075442.png",
     "attachments/Pasted image 20260804075041.png",

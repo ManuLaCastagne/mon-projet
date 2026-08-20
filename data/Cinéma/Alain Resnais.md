@@ -4,6 +4,7 @@ tags:
   - France
   - Années_1950
   - XXe
+  - Certifié
 date:
   - 1922/06/03
 debut: 1922

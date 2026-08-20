@@ -1,24 +1,25 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Sceaux
   - Années_1960
   - XXe
+  - Certifié
 date:
   - 1935/11/08
 debut: 1935
-fin: 
-indice_1 : 
+fin: 2024
+indice_1:
   - La Piscine
-indice_2 : 
+indice_2:
   - Rocco et ses frères
-indice_3 : 
+indice_3:
   - Le Samouraï
-indice_4 : 
+indice_4:
   - Luchino Visconti
-indice_5 : 
+indice_5:
   - Jean-Pierre Melville
-indice_6 : 
+indice_6:
   - César d'honneur
 ---
 
@@ -26,11 +27,11 @@ indice_6 :
 
 ###### Questions
 
-Dans quel film de 1960 réalisé par [[René Clément]], [[Alain Delon]] incarne-t-il le personnage de [[Tom Ripley]] dans l'adaptation du roman "Monsieur Ripley" de [[Patricia Highsmith]] ?
+Quel acteur français incarne le tueur à gages Jef Costello dans [[Le Samouraï]] de [[Jean-Pierre Melville]] en 1967, l’un de ses rôles les plus emblématiques ?
 
-En quelle année [[Alain Delon]] remporte-t-il le [[César du meilleur acteur]] pour son rôle dans [[Notre histoire]], film réalisé par [[Bertrand Blier]] ?
+Quel acteur partage l’affiche avec Jean-Paul Belmondo dans [[Borsalino]] (1970), où les deux monstres sacrés du cinéma français incarnent des gangsters du Marseille des années 1930 ?
 
-Quel film culte de 1970, réalisé par [[Jean-Pierre Melville]], met en scène [[Alain Delon]] dans le rôle de [[Corey]], un gangster fraichement sorti de prison ?
+Quel acteur français, mort en août 2024 à 88 ans, a reçu la Palme d’honneur au Festival de Cannes en 2019 et a notamment tourné dans [[Plein Soleil]], [[Rocco et ses frères]], [[Le Guépard]] et [[La Piscine]] ?
 
 ###### Description
 
