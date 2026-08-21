@@ -4,6 +4,7 @@ tags:
   - Alan_Parker
   - Londres
   - Royaume-Uni
+  - Certifié
 date:
   - 1944/02/14
 debut: 1944
@@ -20,8 +21,6 @@ indice_5:
   - Mississippi Burning
 indice_6:
   - Bugsy Malone
-questions:
-  - En 1978, à quel réalisateur doit-on 'Midnight Express' se déroulant dans une prison d'Istanbul ?
 ---
 
 
@@ -31,6 +30,8 @@ questions:
 
 En 1978, à quel réalisateur doit-on 'Midnight Express' se déroulant dans une prison d'Istanbul ?
 
+En 1980, qui a réalisé [[Fame]], un film musical acclamé qui a même donné naissance à une série télévisée populaire ?
+
 Quel réalisateur britannique, connu pour son style visuel unique, a dirigé le film musical [[Pink Floyd: The Wall]] en 1982 ?
 
 Qui a réalisé le film dramatique [[Mississippi Burning]] en 1988, un film qui a reçu sept nominations aux Oscars ? <!-- score: 4 -->
@@ -39,7 +40,7 @@ Quel cinéaste a adapté la célèbre comédie musicale [[Evita]] en 1996, metta
 
 ###### Description
 
-[[Alan Parker]] était un réalisateur britannique de renom, particulièrement actif dans les années 1970 et 1980. Il a marqué le cinéma avec des films emblématiques tels que [[Bugsy Malone]] (1976), une comédie musicale parodiant l'univers des gangsters avec des enfants, et [[Midnight Express]] (1978), un drame palpitant sur l'incarcération en Turquie qui lui a valu six nominations aux Oscars.
+[[Alan Parker]] était un réalisateur britannique de renom, particulièrement actif dans les années 1970 et 1980 au [[Royaume-Uni]]. Il a marqué le cinéma avec des films emblématiques tels que [[Bugsy Malone]] (1976), une comédie musicale parodiant l'univers des gangsters avec des enfants, et [[Midnight Express]] (1978), un drame palpitant sur l'incarcération en Turquie qui lui a valu six nominations aux Oscars.
 
 En 1980, il a réalisé [[Fame]], un film musical acclamé qui a même donné naissance à une série télévisée populaire. 
 

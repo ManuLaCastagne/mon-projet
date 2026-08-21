@@ -3,6 +3,7 @@ tags:
   - Cinéma
   - Angleterre
   - Années_1950
+  - Certifié
 date:
   - 1914/04/02
 debut: 1914
@@ -19,8 +20,6 @@ indice_5:
   - Le Pont de la rivière Kwaï
 indice_6:
   - Le Bouc émissaire
-questions:
-  - En 1950, quel acteur interprète à lui tout seul toute une famille d'aristocrates dans le film "Noblesse oblige" ?
 ---
 
 ![Image de Alec Guinness](https://upload.wikimedia.org/wikipedia/commons/0/0b/Sir_Alec_Guinness_Allan_Warren.jpg)
