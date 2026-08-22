@@ -1,24 +1,25 @@
 ---
-tags: 
+tags:
   - Cinéma
   - Paris_France
   - Années_2000
   - XXIe
+  - Certifié
 date:
   - 1961/08/23
 debut: 1961
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Compositeur de musiques de film
-indice_2 : 
+indice_2:
   - Oscar de la meilleure musique de film
-indice_3 : 
+indice_3:
   - collaborations avec Wes Anderson
-indice_4 : 
+indice_4:
   - partitions de films Harry Potter
-indice_5 : 
+indice_5:
   - origines franco-grecques
-indice_6 : 
+indice_6:
   - musiques pour films français et internationaux
 ---
 
@@ -27,11 +28,9 @@ indice_6 :
 
 ###### Questions
 
-Quel compositeur a remporté l'[[Oscar]] de la meilleure musique de film en 2015 pour [[The Grand Budapest Hotel]] ?
+Quel compositeur franco-grec a remporté l'[[Oscar]] de la meilleure musique de film en 2015 pour [[The Grand Budapest Hotel]] ?
 
-Quel artiste a composé la bande originale du film [[Harry Potter et les Reliques de la Mort : Partie 2]], sorti en 2011 ? <!-- score: 4 -->
-
-Quel célèbre compositeur français a été élu à la présidence de la société des auteurs, compositeurs et éditeurs de musique ([[SACEM]]) en 2010 ?
+Quel artiste franco-grec a composé la bande originale du film [[Harry Potter et les Reliques de la Mort : Partie 2]], sorti en 2011 ? <!-- score: 4 -->
 
 ###### Description
 
