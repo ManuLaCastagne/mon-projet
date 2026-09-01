@@ -2,37 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Score automatiquement les fiches Markdown d'un coffre Obsidian
-selon leur intérêt pour un entraînement généraliste de culture générale.
-
-Fonctionnalités :
-- parcourt tous les .md du coffre ;
-- envoie les fiches par lots à l'API OpenAI ;
-- utilise des Structured Outputs (Pydantic) ;
-- sauvegarde chaque lot dans un cache JSONL ;
-- reprend automatiquement après interruption ;
-- exporte un CSV final ;
-- peut, en option, écrire le score dans le frontmatter YAML ;
-- ne dépend PAS des [[liens]] entre fiches.
-
-Installation :
-    python3 -m pip install -U openai pydantic
-
-Clé API :
-    export OPENAI_API_KEY="sk-..."
-
-Puis :
-    python3 score_culture_g.py
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
 Score automatiquement les fiches Markdown d'un coffre Obsidian.
 """
-
-from __future__ import annotations
 
 import csv
 import json
