@@ -45,11 +45,8 @@ from pydantic import BaseModel, Field
 # CONFIGURATION À MODIFIER
 # ============================================================
 
-# Exemple macOS / Obsidian iCloud :
-VAULT_PATH = Path(
-    "/Users/TON_UTILISATEUR/Library/Mobile Documents/"
-    "iCloud~md~obsidian/Documents/TON_COFFRE"
-)
+# Vault Path
+VAULT_PATH = Path(__file__).parent / "data"
 
 # Modèle conseillé :
 # - gpt-5.6-luna : économique, adapté à un gros volume

@@ -5,3 +5,13 @@ temp/
 /data/.DS_Store
 .obsidian
 /data/.obsidian
+
+# Secrets
+.env
+.env.*
+
+# Environnement Python
+.venv/
+
+# Résultats du scoring
+culture_g_scoring/
