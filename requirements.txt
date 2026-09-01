@@ -8,3 +8,4 @@ selenium
 scikit-learn
 spotipy
 pyvis
+pydantic
