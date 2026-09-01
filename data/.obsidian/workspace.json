@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Mafalda.md",
+                "file": "Cinéma/André Bazin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Mafalda.md",
+                "file": "Cinéma/André Bazin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mafalda"
+              "title": "André Bazin"
             }
           }
         ],
@@ -365,8 +365,8 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
-    "Littérature/Manolito.md",
     "Littérature/Mafalda.md",
+    "Littérature/Manolito.md",
     "Télévision/George Eddy.md",
     "Sport/Basket-ball.md",
     "Culture générale/James Naismith.md",
