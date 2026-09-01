@@ -198,9 +198,21 @@
               "icon": "lucide-file",
               "title": "Alain Robbe-Grillet"
             }
+          },
+          {
+            "id": "302e40bdcebf146c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notes de version 1.13.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,7 +232,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -361,7 +375,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "ba4d54f4a77e7b4b",
+  "active": "302e40bdcebf146c",
   "lastOpenFiles": [
     "attachments/Pasted image 20260822185959.png",
     "Télévision/Rin Tin Tin.md",
