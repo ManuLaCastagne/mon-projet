@@ -28,11 +28,7 @@ questions:
 
 ###### Questions
 
-Quel sport a été inventé par [[James Naismith]] en [[1891]] pour occuper les étudiants pendant l'hiver au [[YMCA]] de [[Springfield]] ?
-
-Quel sport a vu son premier match olympique officiel se dérouler lors des [[Jeux olympiques]] d'été de [[Berlin]] en [[1936]] ?
-
-Quel sport a vu la création en [[1946]] de la [[Basketball Association of America]] (BAA), qui a finalement fusionné avec la [[National Basketball League]] (NBL) pour former la [[NBA]] en [[1949]] ?
+Pour quel sport dans lequel il a eu une carrière professionnelle le journaliste franco-étasunien [[George Eddy]] commente-t-il les matchs sur Canal+ et Eurosport ?
 
 ###### Description
 
