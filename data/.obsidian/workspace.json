@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/André Bazin.md",
+                "file": "Sport/Char à voile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/André Bazin.md",
+                "file": "Sport/Char à voile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "André Bazin"
+              "title": "Char à voile"
             }
           }
         ],
@@ -365,6 +365,20 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
+    "Vocabulaire/speed sail.md",
+    "Sport/Char à voile.md",
+    "Botanique/Pariétaire.md",
+    "Architecture/Petit Trianon.md",
+    "Architecture/Place Vendôme.md",
+    "Architecture/Musée du Quai Branly.md",
+    "Architecture/Haussmann.md",
+    "Architecture/Grand Tinel.md",
+    "Architecture/Colonne de Trajan.md",
+    "Architecture/Colombages.md",
+    "Architecture/Château de Montségur.md",
+    "Architecture/Château de Frederiksborg.md",
+    "Architecture/Château de Vincennes.md",
+    "Cinéma/André Bazin.md",
     "Littérature/Mafalda.md",
     "Littérature/Manolito.md",
     "Télévision/George Eddy.md",
@@ -378,21 +392,7 @@
     "Animaux/Shetland Sheepdogs.md",
     "Littérature/Alain Rey.md",
     "Littérature/Alain Damasio.md",
-    "Littérature/La Zone du Dehors.md",
-    "Littérature/La Horde du Contrevent.md",
-    "Littérature/Agatha Christie.md",
-    "Culture générale/Reine du crime.md",
-    "Littérature/La Mystérieuse Affaire de Styles.md",
-    "Culture générale/Mary Westmacott.md",
-    "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
-    "Littérature/Abbé Prévost.md",
-    "Littérature/A la recherche du temps perdu.md",
-    "Géographie/Combray.md",
-    "Littérature/A Study in Scarlet.md",
-    "Littérature/99 francs.md",
     "attachments/Pasted image 20260816110720.png",
-    "Littérature/37,2 le matin (roman).md",
-    "Histoire/Jules Vallès.md",
     "attachments/Pasted image 20260804075735.png",
     "attachments/Pasted image 20260804075442.png",
     "attachments/Pasted image 20260804075041.png",
