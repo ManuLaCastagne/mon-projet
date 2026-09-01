@@ -25,6 +25,13 @@ Puis :
     python3 score_culture_g.py
 """
 
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Score automatiquement les fiches Markdown d'un coffre Obsidian.
+"""
+
 from __future__ import annotations
 
 import csv
@@ -37,8 +44,11 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
 
+from dotenv import load_dotenv
 from openai import OpenAI
 from pydantic import BaseModel, Field
+
+load_dotenv()
 
 
 # ============================================================
