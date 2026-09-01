@@ -115,6 +115,35 @@ BACKUP_DIR = OUTPUT_DIR / f"backup_markdown_{SCORING_VERSION}"
 MAX_RETRIES = 6
 RETRY_BASE_SECONDS = 2
 
+# ============================================================
+
+# RÉPERTOIRES À EXCLURE DE L'ANALYSE
+
+# ============================================================
+
+# Noms de dossiers à ignorer, où qu'ils se trouvent dans le coffre.
+
+# Exemple : toute fiche située dans "Frises" sera ignorée.
+
+EXCLUDED_DIRS = {
+
+    "Frises",
+    "Accroches personnelles",
+    "Templates",
+    "Culture Générale",
+    "attachments"
+
+}
+
+# Chemins précis à exclure, relativement à VAULT_PATH.
+
+# Utile si tu veux exclure un dossier uniquement à un emplacement donné.
+
+EXCLUDED_PATHS = {
+    # "Culture générale/Personnel",
+    # "Télévision/Archives",
+}
+
 
 # ============================================================
 # GRILLE DE NOTATION
@@ -731,10 +760,33 @@ def list_fiches(vault_path: Path) -> list[Fiche]:
             "Modifie VAULT_PATH en haut du script."
         )
 
+    def is_excluded(path: Path, vault_path: Path) -> bool:
+        relative = path.relative_to(vault_path)
+
+        # Exclusion par nom de répertoire, à n'importe quel niveau.
+        if any(part in EXCLUDED_DIRS for part in relative.parts[:-1]):
+            return True
+
+        # Exclusion par chemin précis.
+        relative_posix = relative.as_posix()
+
+        for excluded_path in EXCLUDED_PATHS:
+            excluded_path = excluded_path.strip("/")
+
+            if (
+                relative_posix.startswith(excluded_path + "/")
+                or relative_posix == excluded_path
+            ):
+                return True
+
+        return False
+
+
     paths = sorted(
         p
         for p in vault_path.rglob("*.md")
         if ".obsidian" not in p.parts
+        and not is_excluded(p, vault_path)
     )
 
     total_available = len(paths)

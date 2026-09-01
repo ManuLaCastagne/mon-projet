@@ -3,9 +3,16 @@ views:
     name: Tableau
   - type: table
     name: Vue
+    filters:
+      and:
+        - "!culture_g_score.isEmpty()"
     order:
       - file.name
       - culture_g_score
+      - file.backlinks
     sort:
       - property: culture_g_score
         direction: DESC
+    columnSize:
+      file.name: 253
+      note.culture_g_score: 56

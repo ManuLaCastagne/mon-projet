@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Frises/Notes.base",
+                "file": "Frises/Batailles - Gantt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,13 +189,14 @@
             "id": "ba4d54f4a77e7b4b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Frises/Notes.base",
-                "viewName": "Vue"
+                "file": "Frises/Batailles - Gantt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Notes"
+              "icon": "lucide-file",
+              "title": "Batailles - Gantt"
             }
           }
         ],
@@ -322,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frises/Notes.base",
+                "file": "Frises/Batailles - Gantt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -363,10 +364,17 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
-    "Culture générale/Ford T.md",
+    "Frises/Tout - Année.md",
+    "Frises/Musique - Année.md",
     "Frises/Notes.base",
     "Frises/Notes.md",
     "Frises/Base de données n°1.base",
+    "Frises/Histoire - Batailles.md",
+    "Frises/Cinéma - Année.md",
+    "Frises/Art - Gantt.md",
+    "Frises/Années 50 - Gantt.md",
+    "Cinéma/French.md",
+    "Culture générale/Ford T.md",
     "Littérature/Au Bonheur des Dames.md",
     "Sport/Char à voile.md",
     "Vocabulaire/speed sail.md",
@@ -384,14 +392,7 @@
     "Cinéma/André Bazin.md",
     "Littérature/Mafalda.md",
     "Littérature/Manolito.md",
-    "Télévision/George Eddy.md",
-    "Sport/Basket-ball.md",
-    "Culture générale/James Naismith.md",
-    "Littérature/Alain Robbe-Grillet.md",
     "attachments/Pasted image 20260822185959.png",
-    "Télévision/Rin Tin Tin.md",
-    "Géographie/îles Shetland.md",
-    "Culture générale/scorpion à queue dorée.md",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",
     "attachments/Pasted image 20260804075442.png",
