@@ -2,6 +2,7 @@
 tags:
   - Vocabulaire
   - Grèce
+culture_g_score: 60
 ---
 ###### Questions 
 

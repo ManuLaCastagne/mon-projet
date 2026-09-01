@@ -15,8 +15,8 @@ indice_6 :
   - Utilisée autrefois comme poison
 questions:
  - Devant mon nom au fait qu e  les belles Vénitiennes m'utilisaient pour rendre leurs yeux brillants.  Mes surnoms évoquent  ma toxicité.  "L'herbe au diable", "l'empoisonneuse", "la cerise empoisonnée" !
+culture_g_score: 64
 ---
-
 ![Image de Belladone](https://upload.wikimedia.org/wikipedia/commons/8/83/EB1911_Nightshade_-_Deadly_Nightshade.jpg)
 
 ###### Questions

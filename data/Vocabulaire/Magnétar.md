@@ -14,8 +14,8 @@ indice_5 :
   - Rotation rapide
 indice_6 : 
   - Rayons X
+culture_g_score: 40
 ---
-
 ![Image de Magnétar](https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Star_with_a_Secret_Identity.jpg)
 
 ###### Questions

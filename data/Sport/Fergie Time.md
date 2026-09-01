@@ -20,9 +20,8 @@ indice_6 :
   - Old Trafford
 questions:
  - Quel nom a-t-on donné au temps additionnel dans les matches de Man. U du temps d'Alex Ferguson ?
+culture_g_score: 40
 ---
-
-
 ![Image de Fergie Time](https://upload.wikimedia.org/wikipedia/commons/1/14/Alex_Ferguson.jpg)
 
 ###### Questions

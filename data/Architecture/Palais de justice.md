@@ -21,9 +21,8 @@ indice_5:
   - Dômes ou coupoles
 indice_6:
   - Statues allégoriques
+culture_g_score: 80
 ---
-
-
 ![Image de Palais de justice](https://upload.wikimedia.org/wikipedia/commons/0/09/Palais_de_justice_de_Carcassonne.jpg)
 
 ###### Questions

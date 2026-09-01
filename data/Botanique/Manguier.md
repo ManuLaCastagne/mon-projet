@@ -15,8 +15,8 @@ indice_6 :
   - Fruits comestibles et populaires en cuisine
 questions:
  - Arbre d'ornement apprécié pour mon bois, je suis surtout cultivé pour mes fruits...
+culture_g_score: 68
 ---
-
 ![Image de Manguier](https://upload.wikimedia.org/wikipedia/commons/2/25/Oriental_garden_lizard_%28Calotes_versicolor%29_in_a_mango_tree_in_Laos.jpg)
 
 ###### Questions

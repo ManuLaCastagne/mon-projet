@@ -15,8 +15,8 @@ indice_6 :
   - Production de pâte à papier
 questions:
  - Quel arbre, constituant la seule variété de peuplier forestier, doit son nom au fait que ses feuilles frissonnent au moindre vent ?
+culture_g_score: 44
 ---
-
 ![Image de Tremble](https://upload.wikimedia.org/wikipedia/commons/9/91/Writing_by_a_Parkinson%27s_disease_patient.png)
 
 ###### Questions

@@ -20,8 +20,8 @@ indice_5 :
   - années 1950-1960
 indice_6 : 
   - André Raimbourg
+culture_g_score: 84
 ---
-
 ![Image de Bourvil](https://upload.wikimedia.org/wikipedia/commons/d/d1/Identite-Bourvil-1965-Sacem.jpg)
 
 ###### Questions

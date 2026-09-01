@@ -18,8 +18,8 @@ indice_5 :
   - Lotus
 indice_6 : 
   - Quatre visages
+culture_g_score: 68
 ---
-
 ![Image de Brahma](https://upload.wikimedia.org/wikipedia/commons/1/1d/Cerverja_Brahma_%28tamanhos%29.JPG)
 
 ###### Questions

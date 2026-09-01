@@ -18,8 +18,8 @@ indice_5 :
   - Space Cowboys
 indice_6 : 
   - Lincoln
+culture_g_score: 84
 ---
-
 ![Image de Tommy Lee Jones](https://upload.wikimedia.org/wikipedia/commons/4/4f/Tommy_Lee_Jones_2017.jpg)
 
 ###### Questions

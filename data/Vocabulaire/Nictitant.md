@@ -14,8 +14,8 @@ indice_5 :
   - marginande
 indice_6 : 
   - amphibiens
+culture_g_score: 20
 ---
-
 ![Image de Nictitant](https://upload.wikimedia.org/wikipedia/commons/d/d0/Bird_blink-edit.jpg)
 
 ###### Questions

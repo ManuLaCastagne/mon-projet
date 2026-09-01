@@ -20,10 +20,8 @@ indice_6 :
   - voix off reconnaissable
 questions:
  - 2020, quel journaliste présente une spéciale de l'émission "Des trains pas comme les autres", depuis la Cité du Train de Mulhouse ?
+culture_g_score: 40
 ---
-
-
-
 ![Image de Philippe Gougler](https://upload.wikimedia.org/wikipedia/commons/a/a9/Philippe_Gougler.jpg)
 
 ###### Questions

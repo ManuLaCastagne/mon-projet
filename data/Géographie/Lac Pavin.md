@@ -24,8 +24,8 @@ indice_6 :
   - écosystème unique
 questions:
  - Quel lac du Massif central, situé près de Besse, à 1197 m d'altitude, est établi dans un cratère?
+culture_g_score: 40
 ---
-
 ![Image de Lac Pavin](https://upload.wikimedia.org/wikipedia/commons/d/de/Lac_Pavin_Vue_g%C3%A9n%C3%A9.JPG)
 
 ![[Carte_Lac Pavin.png]]

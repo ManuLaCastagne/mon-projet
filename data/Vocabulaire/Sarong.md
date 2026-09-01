@@ -14,8 +14,8 @@ indice_5 :
   - textile
 indice_6 : 
   - Asie du Sud-Est
+culture_g_score: 64
 ---
-
 ![Image de Sarong](https://upload.wikimedia.org/wikipedia/commons/9/9e/Traditional_worker_with_coconut_rope_%28edited%29.jpg)
 
 ###### Questions

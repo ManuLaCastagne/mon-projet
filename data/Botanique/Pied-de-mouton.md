@@ -15,8 +15,8 @@ indice_6:
   - Utilisé en cuisine pour ses qualités gustatives
 questions:
   - Quel nom désigne le champignon appelé hydne que l'on peut ramasser lors des balades en forêt ?
+culture_g_score: 44
 ---
-
 ![Image de Pied-de-mouton](https://upload.wikimedia.org/wikipedia/commons/4/44/HydnumRepandum.JPG)
 
 ###### Questions

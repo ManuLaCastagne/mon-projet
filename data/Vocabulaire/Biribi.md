@@ -14,8 +14,8 @@ indice_5 :
   - camps disciplinaires
 indice_6 : 
   - Pierre Mac Orlan
+culture_g_score: 31
 ---
-
 ![Image de Biribi](https://upload.wikimedia.org/wikipedia/commons/e/ec/Castellina_in_chianti%2C_borgo_di_fonterutoli%2C_villa%2C_interno%2C_camera_da_letto_con_arredi_d%27epoca_nepoleonica%2C_tavolo_con_gioco_del_biribissi.jpg)
 
 ###### Questions

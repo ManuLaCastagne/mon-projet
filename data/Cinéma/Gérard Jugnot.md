@@ -22,8 +22,8 @@ indice_6 :
   - comédies cultes
 questions:
  - Comédien et réalisateur ayant joué avec son fils dans "Meilleur Espoir Féminin", "Les Bronzé 3"...
+culture_g_score: 76
 ---
-
 ![Image de Gérard Jugnot](https://upload.wikimedia.org/wikipedia/commons/1/15/G%C3%A9rard_Jugnot_-_Avant_premi%C3%A8re_Rose_et_Noir_-_Montpellier.jpg)
 
 ###### Questions

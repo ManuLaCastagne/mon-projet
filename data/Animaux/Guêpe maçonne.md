@@ -15,8 +15,8 @@ indice_6 :
   - Prédateur de nuisibles
 questions:
  - Quelle guêpe solitaire est notamment dite potière parce que son nid, suspendu à une tige ou à une pierre ressemble à un pot d'argile?
+culture_g_score: 23
 ---
-
 ![Image de Guêpe maçonne](https://upload.wikimedia.org/wikipedia/commons/b/b2/Gu%C3%AApe_ma%C3%A7onne1.jpg)
 
 ###### Questions

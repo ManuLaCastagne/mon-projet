@@ -14,9 +14,8 @@ indice_5:
   - 1908
 indice_6:
   - Énigme scientifique
+culture_g_score: 51
 ---
-
-
 ![Image de Toungouse](https://upload.wikimedia.org/wikipedia/commons/3/3a/Manchu_people_%28No.3036%29.jpg)
 
 ###### Questions

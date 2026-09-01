@@ -15,8 +15,8 @@ indice_6 :
   - Fabrication de meubles et ébénisterie
 questions:
  - Quel arbre fruitier est également appelé "guignier sauvage" le feuillage se teinte de rouge à l'automne ?
+culture_g_score: 44
 ---
-
 ![Image de Merisier](https://upload.wikimedia.org/wikipedia/commons/1/11/Betula_alleghaniensis_000_2333_3466.jpg)
 
 ###### Questions

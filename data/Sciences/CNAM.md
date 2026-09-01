@@ -20,8 +20,8 @@ indice_6 :
   - Musée des Arts et Métiers
 questions:
  - Fondé par l'abbé Grégoire à Paris, je comprends aujourd'hui 28 centres régionaux et 150 centres d'enseignement organisant des formations tout au long de la vie et participant à la recherche technologique. Grand établissement...
+culture_g_score: 51
 ---
-
 ![Image de CNAM](https://upload.wikimedia.org/wikipedia/commons/c/c2/Mus%C3%A9e_des_arts_et_m%C3%A9tiers_-_%C3%A9chantillons_de_cl%C3%A9s_en_aluminium.jpg)
 
 ###### Questions

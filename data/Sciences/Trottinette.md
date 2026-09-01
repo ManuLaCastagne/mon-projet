@@ -4,6 +4,7 @@ tags:
   - XXe
   - Années_1900
 date: 1910
+culture_g_score: 51
 ---
 ###### Questions 
 

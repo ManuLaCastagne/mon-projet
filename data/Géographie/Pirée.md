@@ -24,8 +24,8 @@ indice_6 :
   - fondé au Ve siècle av. J.-C.
 questions:
  - J'occupe essentiellement le site grec de Kendriko Limani. Ouvert sur la Méditerranée, je suis un important…
+culture_g_score: 51
 ---
-
 ![Image de Pirée](https://upload.wikimedia.org/wikipedia/commons/b/be/Piraeus-collage-b.jpg)
 
 ![[Carte_Pirée.png]]

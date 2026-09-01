@@ -18,8 +18,8 @@ indice_5 :
   - gangs de contrebande
 indice_6 : 
   - Al Capone
+culture_g_score: 80
 ---
-
 ![Image de Prohibition](https://upload.wikimedia.org/wikipedia/commons/b/b5/Labor_unions_hold_anti-prohibition_meeting.jpg)
 
 ###### Questions

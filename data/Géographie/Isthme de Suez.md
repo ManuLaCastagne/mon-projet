@@ -18,8 +18,8 @@ indice_5:
   - raccourci maritime entre l'Europe et l'Asie
 indice_6:
   - site de nationalisation historique en 1956
+culture_g_score: 80
 ---
-
 ![Image de Isthme de Suez](https://upload.wikimedia.org/wikipedia/commons/7/76/Isthme_de_Suez_1862.jpg)
 
 ###### Questions

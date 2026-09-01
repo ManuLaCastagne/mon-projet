@@ -22,8 +22,8 @@ indice_6 :
   - Jeux tenus uniquement en Amérique du Nord pour la 5ème fois
 questions:
  - A quels JO Nadia Comaneci obtint-elle la note maximale ?
+culture_g_score: 80
 ---
-
 ![Image de Montréal 1976](https://upload.wikimedia.org/wikipedia/commons/4/4e/1976_Summer_Olympics_logo.svg)
 
 ###### Questions

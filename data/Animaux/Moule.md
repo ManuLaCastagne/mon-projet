@@ -15,9 +15,8 @@ indice_6 :
   - Symbole de la gastronomie belge et française
 questions:
  - Quel mollusque à coquille bivalve sombre, de la famille des mytilidés reste fixé à un rocher et est capable de résister à la privation d'oxygène ?
+culture_g_score: 64
 ---
-
-
 ![Image de Moule](https://upload.wikimedia.org/wikipedia/commons/e/e3/William_Moule%2C_1935.png)
 
 ###### Questions

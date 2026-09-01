@@ -15,8 +15,8 @@ indice_6 :
   - Utilisé comme plante médicinale et pour le fourrage
 questions:
  - Dont on essaie de se débarrasser, en général. Difficiles à arracher car ils peuvent être enfoncés profondément dans la terre, les rhizomes dont nous parlions. Mauvaise herbe des cultures et des pelouses, faisant de 40 à 150 cm de long, je suis…
+culture_g_score: 48
 ---
-
 ![Image de Chiendent](https://upload.wikimedia.org/wikipedia/commons/e/ef/Chiendent_patte-poule_%28Dactyloctenium_ctenoides%29.jpg)
 
 ###### Questions

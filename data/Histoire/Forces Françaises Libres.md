@@ -20,9 +20,8 @@ indice_6 :
   - France Libre
 questions:
  - Nom de l'ensemble des formations militaires françaises qui, en 1940, rejoignirent Londres  et continuèrent à combattre l'Allemagne et l'Italie ?
+culture_g_score: 80
 ---
-
-
 ![Image de Forces Françaises Libres](https://upload.wikimedia.org/wikipedia/commons/d/db/Monument_aux_Forces_Fran%C3%A7aises_Libres_de_Pointe-%C3%A0-Pitre.jpg)
 
 ###### Questions

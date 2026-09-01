@@ -3,6 +3,7 @@ tags:
   - Gastronomie
   - XIXe
 date: 1850
+culture_g_score: 64
 ---
 ###### Questions 
 

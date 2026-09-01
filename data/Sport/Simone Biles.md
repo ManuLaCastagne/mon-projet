@@ -20,9 +20,8 @@ indice_6 :
   - Championnats du monde
 questions:
  - En 2019, quelle sportive américaine décroche son 5e titre mondial depuis 2013 au concours général individuel des Mondiaux de gymnastique?
+culture_g_score: 80
 ---
-
-
 ![Image de Simone Biles](https://upload.wikimedia.org/wikipedia/commons/f/f6/Simone_Biles%2C_na_prova_final_da_trave_nos_Jogos_Ol%C3%ADmpicos_Rio_2016.jpg)
 
 ###### Questions

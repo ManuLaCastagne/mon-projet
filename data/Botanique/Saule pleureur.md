@@ -15,8 +15,8 @@ indice_6:
   - Indication 6 (Utilisation)  Ornementale dans les parcs et jardins
 questions:
   - Arbre ornemental dont un cultivar  dénommé Crispa est pourvu de feuilles enroulées en spirales, je m'étale beaucoup et suis facilement reconnaissable à mon port retombant.  Souvent planté au bord de l'eau, je suis caractérisé...
+culture_g_score: 68
 ---
-
 ![Image de Saule pleureur](https://upload.wikimedia.org/wikipedia/commons/1/11/Salix_babylonica_%28Saule_pleureur%29_-_20150810_10h23_%2811045%29.jpg)
 
 ###### Questions

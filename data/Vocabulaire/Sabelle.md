@@ -14,8 +14,8 @@ indice_5 :
   - 1980
 indice_6 : 
   - Album
+culture_g_score: 3
 ---
-
 ![Image de Sabelle](https://upload.wikimedia.org/wikipedia/commons/9/94/Sabella_pavonina_-_Hippocampus_hippocampus_-_Porto_Cesareo%2C_Italy_%28DSC2314M%29.jpg)
 
 ###### Questions

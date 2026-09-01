@@ -14,9 +14,8 @@ indice_5 :
   - Capivara
 indice_6 : 
   - Eau
+culture_g_score: 60
 ---
-
-
 ![Image de Cabiai](https://upload.wikimedia.org/wikipedia/commons/9/99/Capivara%28Hydrochoerus_hydrochaeris%29.jpg)
 
 ###### Questions

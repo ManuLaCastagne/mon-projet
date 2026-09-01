@@ -22,8 +22,8 @@ indice_6 :
   - Couteau
 questions:
  - En 1996, dans quel film de Wes Craven un tueur en série se déguise-t-il  afin de commettre ses meurtres?
+culture_g_score: 76
 ---
-
 ![Image de Scream](https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Scream_Pastel.jpg)
 
 ###### Questions

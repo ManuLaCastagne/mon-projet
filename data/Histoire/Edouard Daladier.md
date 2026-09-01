@@ -20,9 +20,8 @@ indice_6 :
   - Président du Conseil français
 questions:
  - En 1938, qui succède à Léon Blum ?
+culture_g_score: 64
 ---
-
-
 ![Image de Edouard Daladier](https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%89douard_Daladier.jpg)
 
 ###### Questions

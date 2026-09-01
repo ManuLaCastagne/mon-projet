@@ -24,8 +24,8 @@ indice_6 :
   - Rialto
 questions:
  - Dans quelle ville italienne sert-on, notamment dans le quartier de Dorsoduro, des amuse-bouches appelés "cichetti", dans des bars dits "bacari"?
+culture_g_score: 100
 ---
-
 ![Image de Venise](https://upload.wikimedia.org/wikipedia/commons/9/9c/Venise_%28Doubs%29_Rues_et_chemins_hdsr_VLux5_L1032803.jpg)
 
 ![[Carte_Venise.png]]

@@ -19,8 +19,8 @@ indice_5:
   - Polisse
 indice_6:
   - actrice française populaire
+culture_g_score: 64
 ---
-
 ![Image de Karin Viard](https://upload.wikimedia.org/wikipedia/commons/6/6e/Karin_Viard_Lumi%C3%A8res_2015.jpg)
 ###### Questions
 

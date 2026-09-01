@@ -18,8 +18,8 @@ indice_5 :
   - Saturn V
 indice_6 : 
   - Buzz Aldrin
+culture_g_score: 97
 ---
-
 ![Image de Apollo 11](https://upload.wikimedia.org/wikipedia/commons/7/7d/Apollo_11_Launch2.jpg)
 
 ###### Questions

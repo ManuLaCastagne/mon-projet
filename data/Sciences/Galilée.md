@@ -20,8 +20,8 @@ indice_6 :
   - Pisa
 questions:
  - Quel Italien découvrit les 4 principaux satellites de Jupiter à l'aide d'une lunette qui porte son nom ?
+culture_g_score: 100
 ---
-
 ![Image de Galilée](https://upload.wikimedia.org/wikipedia/commons/c/ce/Lower_Galilee_map.svg)
 
 ###### Questions

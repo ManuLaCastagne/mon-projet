@@ -22,8 +22,8 @@ indice_6 :
   - modernisation du commerce
 questions:
  - D'Emile Zola. Racontant l'extraordinaire développement d'un grand magasin qui fait péricliter les petites boutiques du quartier….
+culture_g_score: 68
 ---
-
 ![Image de Au Bonheur des Dames](https://upload.wikimedia.org/wikipedia/commons/d/d4/Au_Bonheur_des_Dames_manuscript.jpg)
 
 ###### Questions

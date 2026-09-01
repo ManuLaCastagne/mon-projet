@@ -14,8 +14,8 @@ indice_5 :
   - Chorée
 indice_6 : 
   - Dyskinésie
+culture_g_score: 24
 ---
-
 ![Image de Athétose](https://upload.wikimedia.org/wikipedia/commons/d/d5/Medical_diseases_of_infancy_and_childhood_%281900%29_%2814580019148%29.jpg)
 
 ###### Questions

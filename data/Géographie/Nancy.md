@@ -23,8 +23,8 @@ indice_6 :
   - Palais des ducs de Lorraine
 questions:
  - Quelle ville française abrite les places dites de la Carrière, d'Alliance et Stanislas classées...
+culture_g_score: 80
 ---
-
 ![[Carte_Nancy.png]]
 
 ###### Questions

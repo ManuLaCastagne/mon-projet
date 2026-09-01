@@ -19,9 +19,8 @@ indice_5 :
   - auteur de Le dictionnaire de ma vie
 indice_6 : 
   - a travaillé sur RTL et TF1
+culture_g_score: 80
 ---
-
-
 ![Image de Jean-Pierre Foucault](https://upload.wikimedia.org/wikipedia/commons/7/76/Jean-Pierre_Foucault_en_2018.jpg)
 
 ###### Questions

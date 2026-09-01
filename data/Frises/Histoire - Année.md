@@ -1,3 +1,7 @@
+---
+culture_g_score: 0
+---
+
 ```dataview
 table debut, fin, indice_1, indice_2
 from "Histoire"

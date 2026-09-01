@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Tableau
+  - type: table
+    name: Vue
+    order:
+      - file.name
+      - culture_g_score
+    sort:
+      - property: culture_g_score
+        direction: DESC

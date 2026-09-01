@@ -14,8 +14,8 @@ indice_5 :
   - mode médiévale
 indice_6 : 
   - noblesse européenne
+culture_g_score: 40
 ---
-
 ![Image de Bliaut](https://upload.wikimedia.org/wikipedia/commons/c/c3/Esculturas_de_Chartres_3_detail_bliaut.jpg)
 
 ###### Questions

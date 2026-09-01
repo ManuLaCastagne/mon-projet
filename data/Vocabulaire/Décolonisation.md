@@ -5,6 +5,7 @@ tags:
   - XXe
   - Années_1960
 date: 1836
+culture_g_score: 88
 ---
 ###### Questions 
 

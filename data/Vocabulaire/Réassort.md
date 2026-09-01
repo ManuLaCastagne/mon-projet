@@ -14,8 +14,8 @@ indice_5 :
   - Réapprovisionnement
 indice_6 : 
   - Gestion des stocks
+culture_g_score: 28
 ---
-
 ![Image de Réassort](https://upload.wikimedia.org/wikipedia/commons/7/79/LL-Q150_%28fra%29-Lepticed7-r%C3%A9assort.wav)
 
 ###### Questions

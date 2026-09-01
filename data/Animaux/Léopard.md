@@ -15,10 +15,8 @@ indice_6 :
   - Symbole de force et agilité
 questions:
  - Quelle panthère d'Afrique, au pelage jaune tacheté de noir, grimpe aux arbres...
+culture_g_score: 68
 ---
-
-
-
 ![Image de Léopard](https://upload.wikimedia.org/wikipedia/commons/0/03/Panthera_pardus_close_up.jpg)
 
 ###### Questions

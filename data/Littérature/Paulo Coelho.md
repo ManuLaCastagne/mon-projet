@@ -22,8 +22,8 @@ indice_6 :
   - succès international
 questions:
  - Quel écrivain brésilien est l'auteur du best-seller "L'Alchimiste"…
+culture_g_score: 72
 ---
-
 ![Image de Paulo Coelho](https://upload.wikimedia.org/wikipedia/commons/0/02/Paulo_Coelho%2C_June_2024.jpg)
 
 ###### Questions

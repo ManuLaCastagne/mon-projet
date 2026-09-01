@@ -22,8 +22,8 @@ indice_6 :
   - Godard
 questions:
  - En 2014, dans quel film Dujardin incarne-t-il un juge déterminé à s'attaquer à une mafia ?
+culture_g_score: 100
 ---
-
 ![Image de French]()
 
 ###### Questions

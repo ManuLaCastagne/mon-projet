@@ -22,8 +22,8 @@ indice_6 :
   - Baker Street
 questions:
  - Personnage incarné au cinéma par Alan Cox dans "Le secret de la pyramide" en 1986. Je m'installe à Londres après avoir servi en Afghanistan. Ancien médecin militaire,  je fais la connaissance d'un détective privé nommé Sherlock Holmes...
+culture_g_score: 73
 ---
-
 ![Image de John Watson](https://upload.wikimedia.org/wikipedia/commons/2/21/John_Watson_%282346102684%29.jpg)
 
 ###### Questions

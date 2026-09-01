@@ -14,10 +14,8 @@ indice_5:
   - Pourpre
 indice_6:
   - Production de teinture pourpre
+culture_g_score: 47
 ---
-
-
-
 ![Image de Murex](https://upload.wikimedia.org/wikipedia/commons/e/e2/Murex_pecten_001.JPG)
 
 ###### Questions

@@ -23,8 +23,8 @@ indice_6 :
   - Delta du fleuve
 questions:
  - Quel est ce fleuve couvrant 30% de la plaine russe, qui est le plus long d'Europe ?
+culture_g_score: 80
 ---
-
 ![Image de Volga](https://upload.wikimedia.org/wikipedia/commons/a/ae/Ilia_Efimovich_Repin_%281844-1930%29_-_Volga_Boatmen_%281870-1873%29.jpg)
 
 ![[Carte_Volga.png]]

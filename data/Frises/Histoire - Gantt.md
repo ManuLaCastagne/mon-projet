@@ -1,3 +1,7 @@
+---
+culture_g_score: 11
+---
+
 ```dataviewjs
 const personnages = dv.pages('"Histoire"')
 	.where(p => p.debut && p.debut >= 100 && p.debut <= 1500)

@@ -18,8 +18,8 @@ indice_5 :
   - présence marquante sur les réseaux sociaux
 indice_6 : 
   - contenu humoristique et divertissant
+culture_g_score: 44
 ---
-
 ![Image de Michou (vidéaste)](https://upload.wikimedia.org/wikipedia/commons/a/a6/Michou_2023.jpg)
 
 ###### Questions

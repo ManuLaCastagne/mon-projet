@@ -20,8 +20,8 @@ indice_6 :
   - proche de Mahatma Gandhi
 questions:
  - Ayant étudié en Grande-Bretagne, je milite au sein du parti du Congrès dont je deviens dirigeant...
+culture_g_score: 72
 ---
-
 ![Image de Nehru](https://upload.wikimedia.org/wikipedia/commons/5/5f/Jnehru.jpg)
 
 ###### Questions

@@ -24,8 +24,8 @@ indice_6 :
   - Reeperbahn
 questions:
  - Quelle grande ville allemande est surnommée la reine de la Hanse ?
+culture_g_score: 80
 ---
-
 ![Image de Hambourg](https://upload.wikimedia.org/wikipedia/commons/5/54/Landungsbr%C3%BCcken_Hamburg.jpg)
 
 ![[Carte_Hambourg.png]]

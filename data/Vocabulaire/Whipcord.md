@@ -14,8 +14,8 @@ indice_5 :
   - Textiles
 indice_6 : 
   - Art de la mode
+culture_g_score: 20
 ---
-
 ![Image de Whipcord](https://upload.wikimedia.org/wikipedia/commons/6/6e/Guido_Reni_-_Education_of_the_Virgin_-_WGA19315_%28cropped%29.jpg)
 
 ###### Questions

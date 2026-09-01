@@ -20,8 +20,8 @@ indice_6 :
   - Fête du 3 juillet
 questions:
  - Quel apôtre surnommé Didyme refuse de croire à la résurrection de Jésus avant d'avoir touché ses plaies ?
+culture_g_score: 84
 ---
-
 ![Image de Saint-Thomas](https://upload.wikimedia.org/wikipedia/commons/5/54/Six_tramway_en_parall%C3%A8le_%C3%A0_Reims_%28inauguration%29.JPG)
 
 ###### Questions

@@ -20,8 +20,8 @@ indice_6 :
   - diffusée sur TF1
 questions:
  - En 1996, quelle série avec Francis Huster raconte l'histoire de la famille Vallogne ?
+culture_g_score: 20
 ---
-
 ![Image de Terre indigo](https://upload.wikimedia.org/wikipedia/commons/6/6b/Amorpha_fruticosa_-_Amorpha_faux-Indigo.%28_False_Indigo_bush%29_%28NYPL_b14485031-1108898%29.tiff)
 
 ###### Questions

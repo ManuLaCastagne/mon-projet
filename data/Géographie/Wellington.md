@@ -24,8 +24,8 @@ indice_6 :
   - campagne de 1815
 questions:
  - Quel général britannique, ayant reçu le commandement de...
+culture_g_score: 60
 ---
-
 ![Image de Wellington](https://upload.wikimedia.org/wikipedia/commons/e/e9/Wellington_City_Night.jpg)
 
 ![[Carte_Wellington.png]]

@@ -18,12 +18,8 @@ indice_5 :
   - expert en comédie
 indice_6 : 
   - animateur d'émissions culturelles
+culture_g_score: 43
 ---
-
-
-
-
-
 ![Image de Alex Vizorek](https://upload.wikimedia.org/wikipedia/commons/7/7d/Alex_Vizorek_2015.jpg)
 
 ###### Questions

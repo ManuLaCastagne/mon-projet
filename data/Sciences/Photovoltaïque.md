@@ -18,9 +18,8 @@ indice_5:
   - Onduleur solaire
 indice_6:
   - Effet photovoltaïque
+culture_g_score: 80
 ---
-
-
 ![Image de Photovoltaïque](https://upload.wikimedia.org/wikipedia/commons/2/2a/Cambron-Casteau_%28Brugelette%29_-_Parking_photovolta%C3%AFque_de_Pairi_Daiza_%28A06%29.JPG)
 
 ###### Questions

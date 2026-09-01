@@ -15,6 +15,7 @@ indice_5:
   - Adaptation
 indice_6:
   - Seconde Guerre mondiale
+culture_g_score: 47
 ---
 ![[Pasted image 20250503094522.png]]
 ###### Questions

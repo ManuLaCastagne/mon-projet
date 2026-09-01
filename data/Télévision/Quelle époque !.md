@@ -20,8 +20,8 @@ indice_5 :
   - Guerre froide
 indice_6 : 
   - Renaissance
+culture_g_score: 40
 ---
-
 ![Image de Quelle époque !](https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Way_We_Live_Now.jpg)
 
 ###### Questions

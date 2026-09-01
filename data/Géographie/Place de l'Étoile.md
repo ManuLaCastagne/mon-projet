@@ -21,8 +21,8 @@ indice_5 :
   - Place Charles de Gaulle
 indice_6 : 
   - 8ème arrondissement de Paris
+culture_g_score: 77
 ---
-
 ![[Carte_Place de l'Étoile.png]]
 
 ###### Questions

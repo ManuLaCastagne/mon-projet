@@ -20,9 +20,8 @@ indice_6 :
   - mère de trois enfants
 questions:
  - Quelle actrice, à l'affiche de "Police de caractères" en 2020 sur France 3...
+culture_g_score: 51
 ---
-
-
 ![Image de Clémentine Célarié](https://upload.wikimedia.org/wikipedia/commons/d/d8/Cl%C3%A9mentine_C%C3%A9lari%C3%A9_Cannes.jpg)
 
 ###### Questions

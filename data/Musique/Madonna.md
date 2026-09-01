@@ -23,8 +23,8 @@ indice_6 :
 questions:
  - En 1997, quelle chanteuse et actrice incarne Eva Peron dans le film "Evita" d'Alan Parker?
  - En 1990, lors de sa tournée "Blond ambition tour", quelle chanteuse américaine se produit dans un corset à pointes signé Jean-Paul Gaultier ?
+culture_g_score: 96
 ---
-
 ![Image de Madonna](https://upload.wikimedia.org/wikipedia/commons/5/5f/Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg)
 
 ###### Questions

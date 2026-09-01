@@ -27,8 +27,8 @@ indice_6 :
   - grès nubien
 questions:
  - Près de quelle ville d'Egypte se trouve le plus grand barrage du Nil ?
+culture_g_score: 80
 ---
-
 ![Image de Assouan](https://upload.wikimedia.org/wikipedia/commons/3/3f/Panoramic_view_of_Aswan_2%2C_Egypt.jpg)
 
 ![[Carte_Assouan.png]]

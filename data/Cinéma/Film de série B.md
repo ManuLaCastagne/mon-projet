@@ -22,8 +22,8 @@ indice_6 :
   - Popularité culte
 questions:
  - Type de production cinématographique, je suis apparu avec la forte baisse de fréquentation des cinémas aux USA après 1929. A l'origine d'une durée de 60 à 70mn pour proposer au public un double programme afin de les faire revenir dans les salles, je suis tourné sans vedette, avec un budget limité et puise dans le cinéma...
+culture_g_score: 60
 ---
-
 ![Image de Film de série B](https://upload.wikimedia.org/wikipedia/commons/5/56/Le_Num%C3%A9ro_420._S%C3%A9rie_B_-_sc%C3%A9nario_-_btv1b53007613n_%281_of_2%29.jpg)
 
 ###### Questions

@@ -14,8 +14,8 @@ indice_5 :
   - Manuel Ier de Portugal
 indice_6 : 
   - Caravelles portugaises
+culture_g_score: 47
 ---
-
 ![Image de Manuélin](https://upload.wikimedia.org/wikipedia/commons/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg)
 
 ###### Questions

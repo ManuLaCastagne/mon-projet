@@ -22,10 +22,8 @@ indice_6 :
   - tragédie romanesque
 questions:
  - En 1954, dans quelle chanson en forme de complainte, conclut-elle chaque couplet par la phrase  "Sans amour on n'est rien du tout"?
+culture_g_score: 44
 ---
-
-
-
 ![Image de La Goualante du pauvre Jean](https://upload.wikimedia.org/wikipedia/commons/f/ff/La_Lanterne_de_Bruant_%28IA_lalanternedebrua130unse%29.pdf)
 
 ###### Questions

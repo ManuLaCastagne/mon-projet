@@ -22,9 +22,8 @@ indice_5 :
   - Vichy
 indice_6 : 
   - Cantal
+culture_g_score: 80
 ---
-
-
 ![[Carte_Auvergne.png]]
 
 ###### Questions

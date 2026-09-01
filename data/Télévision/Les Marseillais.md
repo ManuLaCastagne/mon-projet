@@ -19,8 +19,8 @@ indice_5 :
   - aventure et vacances
 indice_6 : 
   - accents chantants
+culture_g_score: 39
 ---
-
 ![Image de Les Marseillais](https://upload.wikimedia.org/wikipedia/commons/b/b0/19270612_L%C3%A9on_Daudet_dans_Le_Petit_Marseillais.png)
 
 ###### Questions

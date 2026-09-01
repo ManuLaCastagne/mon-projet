@@ -16,9 +16,8 @@ indice_5:
   - chérie par Zeus
 indice_6:
   - lien avec la prospérité
+culture_g_score: 51
 ---
-
-
 ![Image de Amalthée](https://upload.wikimedia.org/wikipedia/commons/7/75/Daphnis_et_Amalth%C3%A9e_pastorale_h%C3%A9ro%C3%AFque_Boulenger_page_titre.jpg)
 
 ###### Questions

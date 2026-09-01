@@ -14,8 +14,8 @@ indice_5 :
   - Griffes
 indice_6 : 
   - Kératine
+culture_g_score: 20
 ---
-
 ![Image de Unguis](https://upload.wikimedia.org/wikipedia/commons/8/8e/Aspergillus_unguis_meaox.png)
 
 ###### Questions

@@ -18,8 +18,8 @@ indice_5 :
   - Empire cosmétique
 indice_6 : 
   - Actions L'Oréal
+culture_g_score: 11
 ---
-
 ![Image de La Femme la plus riche du monde]()
 
 ###### Questions

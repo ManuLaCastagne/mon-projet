@@ -2,6 +2,7 @@
 tags:
   - Vocabulaire
   - Turquie
+culture_g_score: 64
 ---
 ###### Questions 
 

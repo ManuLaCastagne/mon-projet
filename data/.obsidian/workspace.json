@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sport/Char à voile.md",
+                "file": "Frises/Notes.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,14 +189,13 @@
             "id": "ba4d54f4a77e7b4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Sport/Char à voile.md",
-                "mode": "source",
-                "source": false
+                "file": "Frises/Notes.base",
+                "viewName": "Vue"
               },
-              "icon": "lucide-file",
-              "title": "Char à voile"
+              "icon": "lucide-table",
+              "title": "Notes"
             }
           }
         ],
@@ -323,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musique/Manureva.md",
+                "file": "Frises/Notes.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Manureva"
+              "title": "Plan"
             }
           },
           {
@@ -347,8 +346,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -365,8 +363,13 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
-    "Vocabulaire/speed sail.md",
+    "Culture générale/Ford T.md",
+    "Frises/Notes.base",
+    "Frises/Notes.md",
+    "Frises/Base de données n°1.base",
+    "Littérature/Au Bonheur des Dames.md",
     "Sport/Char à voile.md",
+    "Vocabulaire/speed sail.md",
     "Botanique/Pariétaire.md",
     "Architecture/Petit Trianon.md",
     "Architecture/Place Vendôme.md",
@@ -389,9 +392,6 @@
     "Télévision/Rin Tin Tin.md",
     "Géographie/îles Shetland.md",
     "Culture générale/scorpion à queue dorée.md",
-    "Animaux/Shetland Sheepdogs.md",
-    "Littérature/Alain Rey.md",
-    "Littérature/Alain Damasio.md",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",
     "attachments/Pasted image 20260804075442.png",
@@ -403,7 +403,6 @@
     "attachments/Pasted image 20260803215609.png",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
-    "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
 }

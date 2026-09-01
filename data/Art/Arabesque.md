@@ -23,8 +23,8 @@ indice_6 :
   - Absence de figures humaines
 questions:
  - En danse classique, quel nom porte la posture exécutée en appui sur une jambe, l'autre tendue en arrière ?
+culture_g_score: 83
 ---
-
 ![Image de Arabesque](https://upload.wikimedia.org/wikipedia/commons/0/01/Ferhat-Pasha_mosque_arabesque_%28Banja_Luka%2C_Republika_Srpska%29.jpg)
 
 ###### Questions

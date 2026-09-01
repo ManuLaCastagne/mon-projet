@@ -22,8 +22,8 @@ indice_6 :
   - Le cadre est souvent l'Australie
 questions:
  - En 1977, à quelle écrivaine australienne doit-on le best-seller "Les oiseaux se cachent pour mourir" ?
+culture_g_score: 40
 ---
-
 ![Image de Colleen McCullough](https://upload.wikimedia.org/wikipedia/commons/1/11/Colleen_McCullough_Robinson_headstone_%28closeup%29%2C_Norfolk_Island_Cemetery%2C_2015.JPG)
 
 ###### Questions

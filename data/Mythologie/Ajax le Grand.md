@@ -28,8 +28,8 @@ indice_6:
 questions:
   - Quel roi de Salamine, déçu de ne pas avoir obtenu les armes d'Achille, remises au plus vaillant des Grecs, se tue après un accès de folie?
   - Comme il se vantait d'avoir réchappé au naufrage de son navire au retour de la guerre de Troie, quel héros est précipité à la mer par Poséidon?
+culture_g_score: 60
 ---
-
 ![Image de Ajax le Grand](https://upload.wikimedia.org/wikipedia/commons/9/97/Ajax_with_spear_and_shield.jpg)
 
 [[Ajax le Grand]], également connu sous le nom d'[[Ajax fils de Télamon]], est l'un des héros de la [[mythologie grecque]], célèbre pour sa force et sa stature imposante, mesurant près de sept pieds de haut. En tant que l'un des principaux guerriers grecs ayant combattu pendant la guerre de [[Troie]], il se distingue par ses exploits aux côtés d'[[Achille]] et dans la défense des navires grecs. Bien que les récits mythologiques ne soient pas liés à des dates précises, la guerre de Troie est traditionnellement située entre 1194 et 1184 avant notre ère, une information souvent demandée dans des quiz télévisés.

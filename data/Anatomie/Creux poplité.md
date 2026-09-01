@@ -1,3 +1,7 @@
+---
+culture_g_score: 20
+---
+
 ###### Questions 
 
 [[Région]] anatomique en forme de losange désignée par une locution. Endroit du corps où le pouls est palpable. Zone du membre inférieur...

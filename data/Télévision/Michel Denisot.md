@@ -20,8 +20,8 @@ indice_6 :
   - intervieweur
 questions:
  - Quel journaliste et animateur, longtemps présentateur du "Le Grand Journal" a réalisé en 2019 son 1er film, "Toute ressemblance", avec Franck Dubosc, sur l'univers de la télévision ?
+culture_g_score: 60
 ---
-
 ![Image de Michel Denisot](https://upload.wikimedia.org/wikipedia/commons/b/b2/Michel_Denisot_%C3%A0_Cannes_en_2010_-_Extracted.JPG)
 
 ###### Questions

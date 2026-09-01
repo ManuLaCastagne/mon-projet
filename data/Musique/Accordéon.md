@@ -22,9 +22,8 @@ indice_6 :
   - soufflet
 questions:
  - Quel instrument, dont le soufflet est réalisé dans un carton appelé carte de Lyon, peut être diatonique ou chromatique?
+culture_g_score: 76
 ---
-
-
 ![Image de Accordéon](https://upload.wikimedia.org/wikipedia/commons/7/7d/Accord%C3%A9on_Norte%C3%B1o.png)
 
 ###### Questions

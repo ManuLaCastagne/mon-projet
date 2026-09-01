@@ -17,8 +17,8 @@ indice_5:
   - Osborne Road
 indice_6:
   - Osborne Village
+culture_g_score: 40
 ---
-
 ###### Questions
 
 Quel est le nom de la maison de campagne située sur l'île de [[Wight]], qui a été utilisée par la reine [[Victoria]] comme résidence d'été à partir de [[1845]] ? <!-- score: 4 -->

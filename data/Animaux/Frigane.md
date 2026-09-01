@@ -15,8 +15,8 @@ indice_6 :
   - Symbole de transformation et de légèreté
 questions:
  - Quel insecte se nommant également portebois est utilisé par les pêcheurs de truite ?
+culture_g_score: 23
 ---
-
 ![Image de Frigane](https://upload.wikimedia.org/wikipedia/commons/5/5e/Essais_entomologiques_%28IA_Essaisentomologno3Humm%29.pdf)
 
 ###### Questions

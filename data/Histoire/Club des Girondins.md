@@ -14,6 +14,7 @@ indice_3:
 indice_4:
 indice_5:
 indice_6:
+culture_g_score: 60
 ---
 ###### Questions
 

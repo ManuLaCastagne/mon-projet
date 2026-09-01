@@ -22,8 +22,8 @@ indice_6 :
   - Victoires de la Musique
 questions:
  - Quelle chanteuse française accompagnant souvent ses chansons au piano est l'auteure des albums "Douze fois par an" "L'eau" et "L'An 40" ?
+culture_g_score: 40
 ---
-
 ![Image de Jeanne Cherhal](https://upload.wikimedia.org/wikipedia/commons/b/bb/Jeanne_Cherhal_-_Le_Printemps_des_Fameuses_-_17_mars_2017_-_Nantes.jpg)
 
 ###### Questions

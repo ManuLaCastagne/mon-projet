@@ -22,8 +22,8 @@ indice_6 :
   - Personnage anthropomorphe avec un nez en forme de concombre
 questions:
  - Vivant avec mon ami Chourave des aventures que je ponctue d'interjections comme "Bretzel liquide"!, je suis une cucurbitacée créée par Mandryka...
+culture_g_score: 40
 ---
-
 ![Image de Concombre masqué](https://upload.wikimedia.org/wikipedia/commons/3/3c/Concombre-masque-48-01.gif)
 
 ###### Questions

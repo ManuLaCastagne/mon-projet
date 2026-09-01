@@ -20,8 +20,8 @@ indice_6 :
   - antifascisme
 questions:
  - En 1936, en Espagne, quelle formule signifiant "ils ne passeront pas", est lancée par la Pasionaria pour inciter le peuple à s'opposer aux nationalistes ?
+culture_g_score: 64
 ---
-
 ![Image de No pasaran !](https://upload.wikimedia.org/wikipedia/commons/5/53/Cartel-no-pasaran-madrid-cke.jpg)
 
 ###### Questions

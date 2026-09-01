@@ -24,11 +24,8 @@ indice_6 :
 questions:
  - Artiste auquel est consacré un musée à Albi, ma ville natale, Mathilde en parlait à l'instant, je suis…
  - Travaillant souvent sur un épais carton brun ou gris, je fréquente les cafés-concerts et les bals de Montmartre où je saisis d'un trait concis les expressions des chanteurs et des danseurs...
+culture_g_score: 84
 ---
-
-
-
-
 ![Image de Henri de Toulouse-Lautrec](https://upload.wikimedia.org/wikipedia/commons/b/b8/%28Albi%29_Proc%C3%A8s_Arton%2C_Arton_s%27expliquant_-_1896_-_Henri_de_Toulouse-Lautrec_-_Mus%C3%A9e_Toulouse-Lautrec.jpg)
 
 ###### Questions

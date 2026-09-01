@@ -22,8 +22,8 @@ indice_6 :
   - reprises
 questions:
  - Dans les années 50, quelle chanson d'amour des Platters, reprise notamment par François Deguelt, est devenue...
+culture_g_score: 64
 ---
-
 ![Image de Only you](https://upload.wikimedia.org/wikipedia/commons/2/26/You_need_only_one_soap%2C_Ivory_soap_-_Strobridge_%26_Co._Lith._-_Restoration_by_Adam_Cuerden.jpg)
 
 ###### Questions

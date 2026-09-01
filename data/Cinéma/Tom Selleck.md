@@ -18,8 +18,8 @@ indice_5 :
   - Blue Bloods
 indice_6 : 
   - Moustache
+culture_g_score: 80
 ---
-
 ![Image de Tom Selleck]()
 
 ###### Questions

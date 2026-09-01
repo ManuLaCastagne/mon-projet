@@ -103,7 +103,7 @@ CSV_FILE = OUTPUT_DIR / f"scores_culture_g_{SCORING_VERSION}.csv"
 ERROR_FILE = OUTPUT_DIR / f"erreurs_{SCORING_VERSION}.jsonl"
 
 # Par défaut : aucune fiche Markdown n'est modifiée.
-WRITE_SCORE_TO_YAML = False
+WRITE_SCORE_TO_YAML = True
 
 # Nom du champ ajouté au frontmatter YAML si activé.
 YAML_SCORE_FIELD = "culture_g_score"

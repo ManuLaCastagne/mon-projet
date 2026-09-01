@@ -13,8 +13,8 @@ indice_5:
   - Arbre à camphre
 indice_6:
   - Production de camphre utilisé en médecine et parfumerie
+culture_g_score: 40
 ---
-
 ![Image de Camphrier](https://upload.wikimedia.org/wikipedia/commons/a/a8/Cinnamomum_camphora_Vergelegen.jpg)
 
 ###### Questions

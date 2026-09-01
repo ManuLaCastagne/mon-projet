@@ -1,2 +1,6 @@
+---
+culture_g_score: 47
+---
+
 Question :  Reflétant la qualité de l'air, chargée en chlorure et en sodium au bord de la mer, je constitue une ressource naturelle et nécessaire...
 

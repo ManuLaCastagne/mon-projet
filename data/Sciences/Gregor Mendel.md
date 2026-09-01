@@ -20,8 +20,8 @@ indice_6 :
   - Hérédité
 questions:
  - Quel religieux et botaniste autrichien…
+culture_g_score: 80
 ---
-
 ![Image de Gregor Mendel](https://upload.wikimedia.org/wikipedia/commons/a/ab/Gregor_Mendel_with_cross.jpg)
 
 ###### Questions

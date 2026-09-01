@@ -20,8 +20,8 @@ indice_5 :
   - 29 médailles pour la Grande-Bretagne
 indice_6 : 
   - Michael Phelps record de médailles
+culture_g_score: 83
 ---
-
 ![Image de Londres 2012](https://upload.wikimedia.org/wikipedia/commons/3/3c/London_2012_Paralympic_Games_torch_relay.jpg)
 
 ###### Questions

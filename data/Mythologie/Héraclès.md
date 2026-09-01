@@ -18,8 +18,8 @@ indice_6 :
   - Déesse Athéna
 questions:
  - Quel héros épouse Déjanire après une lutte acharnée avec...
+culture_g_score: 97
 ---
-
 ![Image de Héraclès](https://upload.wikimedia.org/wikipedia/commons/a/af/Royal_Coat_of_Arms_of_Greece.svg)
 
 ###### Questions
