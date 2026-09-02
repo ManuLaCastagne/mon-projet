@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Frises/Scores Culture G.base",
+                "file": "Géographie/Argentine.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,13 +175,14 @@
             "id": "ba4d54f4a77e7b4b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Frises/Scores Culture G.base",
-                "viewName": "Tableau"
+                "file": "Géographie/Argentine.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Scores Culture G"
+              "icon": "lucide-file",
+              "title": "Argentine"
             }
           }
         ],
@@ -308,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frises/Scores Culture G.base",
+                "file": "Géographie/Argentine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -350,11 +351,13 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
+    "Culture générale/Nelson Mandela.md",
+    "Géographie/Argentine.md",
+    "Frises/Scores Culture G.base",
     "Vocabulaire/Douane.md",
     "Vocabulaire/Ontologie.md",
     "Sport/Alain Fabiani.md",
     "Listes/Moyens mnémotechniques - Orthographe.md",
-    "Frises/Scores Culture G.base",
     "Vocabulaire/Poliorcétique.md",
     "Cinéma/Sergueï Eisenstein.md",
     "Histoire/Charles Gordon.md",
@@ -375,8 +378,6 @@
     "Culture générale/Black Jacques Brel.md",
     "Cinéma/Février.md",
     "Vocabulaire/Troubleau.md",
-    "Vocabulaire/Sabelle.md",
-    "Vocabulaire/Avec un stylo.md",
     "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",

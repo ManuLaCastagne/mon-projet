@@ -4,22 +4,19 @@ latitude: -34.9964963
 longitude: -64.9672817
 superficie: 2780400
 location: -34.9964963,-64.9672817
-tags: 
-  - None
+tags:
   - Argentine
-  - None
-  - GPS_mano
-indice_1 : 
+indice_1:
   - Buenos Aires
-indice_2 : 
+indice_2:
   - Pampas
-indice_3 : 
+indice_3:
   - Patagonie
-indice_4 : 
+indice_4:
   - Cordillère des Andes
-indice_5 : 
+indice_5:
   - Iguazú
-indice_6 : 
+indice_6:
   - Ushuaïa
 ---
 
@@ -32,6 +29,8 @@ Dans quel pays peut-on explorer les [[glaciers]] de [[Patagonie]], comme le cél
 Quel pays possède le [[parc national]] de la [[Iguazú]] où se trouvent les spectaculaires [[chutes d'Iguazú]], partagées avec le [[Brésil]] et désignées [[merveille naturelle du monde]] en [[2011]] ?
 
 Dans quel pays peut-on visiter la célèbre ville d'[[Ushuaïa]], connue comme la ville la plus australe du monde, située en [[Terre de Feu]], à la pointe sud du [[continent américain]] ?
+
+Quel pays possède les villes de [[La Plata]], [[Rosario]] et [[Mendoza]], toutes parmi les plus grandes du pays ?
 
 ###### Description
 
