@@ -4,8 +4,8 @@ tags:
   - XIXe
   - France
 date: 1863
-culture_g_score: 69
-culture_g_justification: "Grand physiologiste français associé au foie, au glycogène et à la médecine expérimentale, régulièrement cité dans les quiz."
+culture_g_score: 80
+culture_g_justification: Grand physiologiste français associé au foie, au glycogène et à la médecine expérimentale, régulièrement cité dans les quiz.
 ---
 ###### Questions 
 

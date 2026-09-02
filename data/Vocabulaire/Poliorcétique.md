@@ -1,5 +1,5 @@
 ---
-culture_g_score: 44
+culture_g_score: 5
 ---
 
 ###### Questions 

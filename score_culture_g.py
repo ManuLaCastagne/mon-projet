@@ -130,6 +130,7 @@ EXCLUDED_DIRS = {
     "Accroches personnelles",
     "Templates",
     "attachments",
+    "Listes"
 }
 
 # ATTENTION :

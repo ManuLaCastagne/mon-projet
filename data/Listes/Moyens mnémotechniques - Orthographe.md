@@ -1,7 +1,3 @@
----
-culture_g_score: 44
-culture_g_justification: "Les règles orthographiques sont utiles pour quelques questions de langue, mais ce recueil concerne surtout des difficultés spécifiques."
----
 
 Accents
 - Chalon-sur-Saône : seule la Saône comporte un S et un accent circonflexe.
