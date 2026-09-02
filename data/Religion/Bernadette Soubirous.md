@@ -20,8 +20,9 @@ indice_6 :
   - Immaculée Conception
 questions:
  - Quelle jeune Française, canonisée en 1933, est à l'origine du pèlerinage de Lourdes, où la Vierge Marie lui est apparue dans une grotte ?
+culture_g_score: 77
+culture_g_justification: "Figure intimement liée à Lourdes, aux apparitions mariales et au catholicisme français, donc régulièrement présente dans les quiz."
 ---
-
 ![Image de Bernadette Soubirous](https://upload.wikimedia.org/wikipedia/commons/9/98/Bernadette_Soubirous.jpg)
 
 ###### Questions

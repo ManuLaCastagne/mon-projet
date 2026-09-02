@@ -22,8 +22,9 @@ indice_6 :
   - Birth of the Blues
 questions:
  - Quel chanteur et acteur afro-américain a imité sur scène de nombreux artistes dont Maurice Chevalier ?
+culture_g_score: 72
+culture_g_justification: "Membre du Rat Pack et artiste polyvalent, il permet des questions sur la musique, le cinéma, le spectacle et l'histoire culturelle afro-américaine."
 ---
-
 ![Image de Sammy Davis](https://upload.wikimedia.org/wikipedia/commons/e/eb/Sammy_Davis_Jnr_Allan_Warren.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Vedette des Looney Tunes
 questions:
  - Héros de dessin animé, j'ai fêté les 80 ans de ma création officielle le 27 juillet 2020. Ayant notamment pour ennemi Marvin le Martien et Sam le Pirate, je m'oppose dès le 1er épisode de ma série, intitulé "Un chasseur sachant chasser", à Elmer Fudd, que je surpasse en ingéniosité.
+culture_g_score: 93
+culture_g_justification: "Personnage mondialement célèbre de l’animation, exploitable via Warner, les courts métrages, les créateurs, les récompenses et la culture populaire."
 ---
-
-
 ![Image de Bugs Bunny](https://upload.wikimedia.org/wikipedia/commons/0/0d/Bugs_Bunny_statue_in_Butterfly_Park_Bangladesh_%2801%29.jpg)
 
 ###### Questions

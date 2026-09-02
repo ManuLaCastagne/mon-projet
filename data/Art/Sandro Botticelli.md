@@ -23,8 +23,9 @@ indice_6 :
   - Tondo
 questions:
  - Peintre italien, auteur des tableaux "La Naissance de Vénus" et "Le Printemps (peinture)"...
+culture_g_score: 97
+culture_g_justification: "Botticelli est un incontournable de la Renaissance grâce à La Naissance de Vénus, Le Printemps, Florence, les Médicis et la chapelle Sixtine."
 ---
-
 ![Image de Sandro Botticelli](https://upload.wikimedia.org/wikipedia/commons/f/f2/Sandro_Botticelli_046.jpg)
 
 ###### Questions

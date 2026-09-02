@@ -14,7 +14,8 @@ indice_5 :
   - Textiles
 indice_6 : 
   - Art de la mode
-culture_g_score: 20
+culture_g_score: 23
+culture_g_justification: "Type de tissu anglais très spécialisé, limité à quelques questions sur le textile ou l'habillement."
 ---
 ![Image de Whipcord](https://upload.wikimedia.org/wikipedia/commons/6/6e/Guido_Reni_-_Education_of_the_Virgin_-_WGA19315_%28cropped%29.jpg)
 

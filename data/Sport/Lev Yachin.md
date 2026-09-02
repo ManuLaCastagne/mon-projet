@@ -19,8 +19,9 @@ indice_5 :
   - Dynamo Moscou
 indice_6 : 
   - Coupe du Monde 1962
+culture_g_score: 80
+culture_g_justification: "Seul gardien Ballon d’or et légende du football, souvent utilisé comme repère dans les quiz sportifs internationaux."
 ---
-
 ![Image de Lev Yachin](https://upload.wikimedia.org/wikipedia/commons/0/09/Igor_Netto_and_Lev_Yashin_1961.jpg)
 
 ###### Questions

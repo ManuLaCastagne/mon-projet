@@ -22,8 +22,9 @@ indice_6 :
   - Essaie de donner vie à une famille française
 questions:
  - En 2019, quel roman de Leïla Slimani, prix Goncourt en 2016, a été adapté à l'écran dans un film avec Karin Viard et Leïla Bekhti?
+culture_g_score: 44
+culture_g_justification: "Adaptation d’un roman couronné par le Goncourt, ce qui lui donne quelques liens littéraires et cinématographiques, sans forte fréquence."
 ---
-
 ![Image de Chanson douce](https://upload.wikimedia.org/wikipedia/commons/f/fd/Chanson_douce_%28Le%C3%AFla_Slimani%29.png)
 
 ###### Questions

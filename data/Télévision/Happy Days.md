@@ -20,8 +20,9 @@ indice_6 :
   - sitcom américaine
 questions:
  - Quelle série américaine brossant le portrait de l'Amérique des années 50-60, met en scène la vie...
+culture_g_score: 80
+culture_g_justification: "Série américaine emblématique associée à Fonzie, aux années 1950 fantasmées et à l’expression « jump the shark »."
 ---
-
 ![Image de Happy Days](https://upload.wikimedia.org/wikipedia/commons/8/82/Happy_days_motorcycle_richie_fonzie_1977.JPG)
 
 ###### Questions

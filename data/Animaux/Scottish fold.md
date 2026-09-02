@@ -15,8 +15,9 @@ indice_6 :
   - Influence dans les réseaux sociaux
 questions:
  - Quelle race de chat originaire d'Écosse est représentée par des individus munis d'oreilles rabattues vers l'avant...
+culture_g_score: 44
+culture_g_justification: "Race féline populaire et reconnaissable, mais essentiellement limitée aux questions sur les animaux domestiques."
 ---
-
 ![Image de Scottish fold](https://upload.wikimedia.org/wikipedia/commons/2/2e/Purple-scottish-fold.png)
 
 ###### Questions

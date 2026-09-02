@@ -18,8 +18,9 @@ indice_5 :
   - Ennio Morricone
 indice_6 : 
   - Jacques Deray
+culture_g_score: 64
+culture_g_justification: "Film culte du cinéma français réunissant Belmondo et Delon, avec des liens utiles au polar, à Marseille et à la musique."
 ---
-
 ![Image de Borsalino](https://upload.wikimedia.org/wikipedia/commons/c/ce/Borsalino_fedora.jpg)
 
 ###### Questions

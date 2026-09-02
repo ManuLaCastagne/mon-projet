@@ -18,8 +18,9 @@ indice_5:
   - Scènes de la vie quotidienne
 indice_6:
   - trompe-l'œil
+culture_g_score: 48
+culture_g_justification: "Les Tableaux-pièges constituent un repère utile pour Daniel Spoerri, le Nouveau Réalisme et l’art conceptuel, mais restent une notion spécialisée."
 ---
-
 ![Image de Tableaux-pièges](https://upload.wikimedia.org/wikipedia/commons/6/63/Ress%C3%A9guier_-_Tableaux_po%C3%A9tiques%2C_1828.djvu)
 
 ###### Questions

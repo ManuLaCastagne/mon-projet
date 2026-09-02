@@ -22,8 +22,9 @@ indice_6 :
   - cheveux blonds iconiques
 questions:
  - Chanson sortie en France en 66 et dont seul le titre repris plusieurs fois dans le texte est en anglais, je suis le dernier morceau face A de mon premier 33 tours.
+culture_g_score: 56
+culture_g_justification: "Succès classique de Polnareff, utile pour la chanson française des années 1960, mais offrant peu d’angles indépendants."
 ---
-
 ![Image de Love me, please, love me](https://upload.wikimedia.org/wikipedia/commons/0/07/Neopithecops_zalmora_in_love_by_Kadavoor.JPG)
 
 ###### Questions

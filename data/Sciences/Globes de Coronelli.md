@@ -20,8 +20,9 @@ indice_6 :
   - Bibliothèque nationale de France
 questions:
  - Quel nom portent les 2 immenses globes, terrestre et céleste, conçus par un géographe italien né en 1650 pour Louis XIV ?
+culture_g_score: 31
+culture_g_justification: "Objets patrimoniaux remarquables mais très spécifiques, rarement interrogés en dehors de l’histoire de la cartographie."
 ---
-
 ![Image de Globes de Coronelli](https://upload.wikimedia.org/wikipedia/commons/2/2c/Coronelli_globe_celeste.jpg)
 
 ###### Questions

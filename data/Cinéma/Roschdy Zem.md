@@ -22,8 +22,9 @@ indice_6 :
   - acteur et réalisateur français
 questions:
  - En 2006, quel acteur réalise son 1er film intitulé "Mauvaise Foi", dans lequel il incarne le compagnon de Cécile de France?
+culture_g_score: 44
+culture_g_justification: "Acteur et réalisateur français récompensé, mais dont les repères restent surtout utiles dans le cadre du cinéma français contemporain."
 ---
-
 ![Image de Roschdy Zem](https://upload.wikimedia.org/wikipedia/commons/d/d3/Roschdy_Zem_2017_2.jpg)
 
 ###### Questions

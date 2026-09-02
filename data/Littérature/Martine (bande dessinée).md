@@ -22,9 +22,9 @@ indice_6 :
   - illustrateur belge
 questions:
  - Dans la littérature enfantine, de quelle petite fille créée par Marcel Marlier peut-on suivre les aventures "à la ferme"...
+culture_g_score: 64
+culture_g_justification: "Personnage majeur de la bande dessinée jeunesse francophone, utile pour des questions sur l’édition, l’illustration et la culture populaire, avec une portée néanmoins assez spécialisée."
 ---
-
-
 ![Image de Martine (bande dessinée)](https://upload.wikimedia.org/wikipedia/commons/b/b1/Sollies_Ville_-_Marcel_Marlier_-_P1200388.jpg)
 
 ###### Questions

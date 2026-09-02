@@ -20,8 +20,9 @@ indice_6 :
   - Record olympique
 questions:
  - Aux JO de 1980 à Lake Placid, quel champion américain remporte 5 médailles d'or en short-trail ?
+culture_g_score: 52
+culture_g_justification: "Exploit olympique exceptionnel et reconversion sportive intéressants, mais sujet moins fréquent que les grandes figures mondiales du sport."
 ---
-
 ![Image de Eric Heiden](https://upload.wikimedia.org/wikipedia/commons/7/7e/Eric_Heiden2.jpg)
 
 ###### Questions

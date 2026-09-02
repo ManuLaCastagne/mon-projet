@@ -20,8 +20,9 @@ indice_5 :
   - Michel Piccoli
 indice_6 : 
   - L'important c'est d'aimer
+culture_g_score: 84
+culture_g_justification: "Icône du cinéma européen, associée à Sissi, Visconti, Claude Sautet et de nombreux classiques français et internationaux."
 ---
-
 ![Image de Romy Schneider](https://upload.wikimedia.org/wikipedia/commons/7/74/Romy_Schneider_1973.jpg)
 
 ###### Questions

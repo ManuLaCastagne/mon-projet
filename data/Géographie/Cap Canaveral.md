@@ -21,8 +21,9 @@ indice_5:
   - Programme spatial américain
 indice_6:
   - NASA
+culture_g_score: 80
+culture_g_justification: "Lieu emblématique de la conquête spatiale, associé à la NASA, Apollo, Kennedy et aux premiers lancements américains."
 ---
-
 ![Image de Cap Canaveral](https://upload.wikimedia.org/wikipedia/commons/c/c2/Workers_at_Cape_Kennedy_watched_a_Saturn_1B_lift_off.jpg)
 
 ![[Carte_Cap Canaveral.png]]

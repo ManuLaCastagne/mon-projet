@@ -15,8 +15,9 @@ indice_6 :
   - Insecte nuisible aux cultures
 questions:
  - Quel insecte fouisseur, de la même famille que le grillon, peut commettre des dégâts en creusant des galeries dans les jardins?
+culture_g_score: 40
+culture_g_justification: "Insecte fouisseur original, mais son intérêt en quiz demeure principalement zoologique et occasionnel."
 ---
-
 ![Image de Taupe-grillon](https://upload.wikimedia.org/wikipedia/commons/c/cf/Gryllotalpa_gryllotalpa_01.JPG)
 
 ###### Questions

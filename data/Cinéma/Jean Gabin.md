@@ -22,8 +22,9 @@ indice_6 :
   - voix grave et charismatique
 questions:
  - "Avoir l'air d'un faux-jeton à ce point-là, j'te jure que c'est vraiment de la franchise". A qui doit-on cette réplique dans "Pépé le Moko" ?
+culture_g_score: 84
+culture_g_justification: "Monument du cinéma français, associé à de nombreux classiques, genres, réalisateurs et personnages mémorables."
 ---
-
 ![Image de Jean Gabin](https://upload.wikimedia.org/wikipedia/commons/7/7d/Jean_Gabin_1958.jpg)
 
 ###### Questions

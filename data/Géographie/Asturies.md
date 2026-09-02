@@ -24,8 +24,9 @@ indice_6 :
   - Picos de Europa
 questions:
  - De quelle communauté autonome du nord de l'Géographie/Espagne, et dont le nom est associé au titre de prince Oviedo était-elle la capitale ?
+culture_g_score: 60
+culture_g_justification: "Région espagnole dotée d’une histoire et d’un patrimoine identifiables, mais moins incontournable que les grandes communautés espagnoles."
 ---
-
 ![Image de Asturies](https://upload.wikimedia.org/wikipedia/commons/f/fa/General_Junta_of_the_Principality_of_Asturias_building%2C_Oviedo.jpg)
 
 ![[Carte_Asturies.png]]

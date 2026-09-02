@@ -20,8 +20,9 @@ indice_6 :
   - critiques littéraires
 questions:
  - Quelle formule latine, chère aux bibliophiles, a constitué le titre d'une ancienne émission littéraire...
+culture_g_score: 40
+culture_g_justification: "Émission littéraire française identifiable mais ancienne et nettement moins connue que les grands programmes de Bernard Pivot."
 ---
-
 ![Image de Ex libris (émission)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Stamp_of_Brazil_-_1981_-_Colnect_215166_-_Ex_libris.jpeg)
 
 ###### Questions

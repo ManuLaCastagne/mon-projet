@@ -20,8 +20,9 @@ indice_6 :
   - Ancienne policière devenue religieuse
 questions:
  - Dans quelle série française, créée en 2002, Dominique Lavanant, qui incarne une religieuse...
+culture_g_score: 53
+culture_g_justification: "Série policière française identifiable par Dominique Lavanant et son concept de religieuse enquêtrice, mais assez peu transversale."
 ---
-
 ![Image de Sœur Thèrèse com](https://upload.wikimedia.org/wikipedia/commons/7/76/Zola_-_Th%C3%A9r%C3%A8se_Raquin%2C_1886.djvu)
 
 ###### Questions

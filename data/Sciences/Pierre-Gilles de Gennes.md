@@ -20,8 +20,9 @@ indice_6 :
   - Enseignant au Collège de France
 questions:
  - Quel physicien français, disparu en 2007, a reçu le prix Nobel…
+culture_g_score: 56
+culture_g_justification: "Nobel français important en physique de la matière, mais sa spécialisation limite sa présence dans les quiz généralistes."
 ---
-
 ![Image de Pierre-Gilles de Gennes](https://upload.wikimedia.org/wikipedia/commons/1/1a/Pierre-Gilles_de_Gennes.jpg)
 
 ###### Questions

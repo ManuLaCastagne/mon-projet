@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée pour la décoration intérieure et extérieure
 questions:
  - Quelle plante des zones ombragées est reconnaissable à ses feuilles très découpées appelées frondes garnies de sporanges?
+culture_g_score: 48
+culture_g_justification: "La fougère est un végétal très reconnaissable utile pour les spores et l’évolution des plantes, mais rarement approfondi dans les quiz généralistes."
 ---
-
 ![Image de Fougère](https://upload.wikimedia.org/wikipedia/commons/0/01/Foug%C3%A8re_dans_la_for%C3%AAt_de_Missahoh%C3%A9.jpg)
 
 ###### Questions

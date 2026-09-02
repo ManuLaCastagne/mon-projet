@@ -22,8 +22,9 @@ indice_6 :
   - Tendre est la nuit
 questions:
  - Quel écrivain américain né en 1896 a écrit "Tendre est la nuit" ou "Gatsby le Magnifique" ?
+culture_g_score: 80
+culture_g_justification: "Fitzgerald est une référence importante de la littérature américaine, associée à Gatsby, aux Années folles, à Zelda et à la génération perdue."
 ---
-
 ![Image de Francis Scott Fitzgerald](https://upload.wikimedia.org/wikipedia/commons/2/25/Francis_Scott_Fitzgerald_1937_June_4_%284%29_%28photo_by_Carl_van_Vechten%29.jpg)
 
 ###### Questions

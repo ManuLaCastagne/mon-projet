@@ -22,8 +22,9 @@ indice_6 :
   - Combativité contre le crime organisé
 questions:
  - En 1931, quel policier, créé par Chester Gould, s'oppose à la pègre et à ses gangsters...
+culture_g_score: 51
+culture_g_justification: "Dick Tracy est un personnage historique des comics, mais ses apparitions dans les quiz généralistes restent occasionnelles."
 ---
-
 ![Image de Dick Tracy](https://upload.wikimedia.org/wikipedia/commons/9/95/Dick_Tracy.jpg)
 
 ###### Questions

@@ -29,8 +29,9 @@ indice_6:
   - capitale asiatique
 questions:
   - Ancienne capitale du Tonkin puis siège du gouvernement général de l'Indochine française, je suis la capitale du Viêt Nam.
+culture_g_score: 69
+culture_g_justification: "Capitale asiatique bien connue, régulièrement associée au Viêt Nam, à la guerre d'Indochine et à son patrimoine historique."
 ---
-
 ![Image de Hanoï](https://upload.wikimedia.org/wikipedia/commons/2/20/Sunset_over_Hanoi_After_the_Rain.jpg)
 
 ![[Carte_Hanoï.png]]

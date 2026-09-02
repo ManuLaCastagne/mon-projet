@@ -20,8 +20,9 @@ indice_5 :
   - mode
 indice_6 : 
   - Malcolm & Marie
+culture_g_score: 73
+culture_g_justification: "Personnalité contemporaine très visible grâce à Marvel, Euphoria et la musique, avec une forte probabilité de questions de culture populaire."
 ---
-
 ![Image de Zendaya](https://upload.wikimedia.org/wikipedia/commons/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - Forêts méditerranéennes
 questions:
  - Quel massif provençal, s'étendant sur le Var et les Alpes-Maritimes et bordant la Méditerranée, doit sa couleur rougeâtre à ses roches éruptives?
+culture_g_score: 60
+culture_g_justification: "Massif provençal très reconnaissable par ses roches rouges, son littoral et ses paysages, mais d’importance surtout régionale."
 ---
-
-
 ![Image de Esterel](https://upload.wikimedia.org/wikipedia/commons/c/cf/Esterel_QC_2.jpg)
 
 ![[Carte_Esterel.png]]

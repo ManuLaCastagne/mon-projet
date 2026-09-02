@@ -22,8 +22,9 @@ indice_6 :
   - temps et maladie
 questions:
  - Quel roman de Thomas Mann le jeune Hans Castorp rend-il visite à son cousin au sanatorium de Davos en Suisse ?
+culture_g_score: 71
+culture_g_justification: "La Montagne magique est un grand roman européen, utile pour Thomas Mann, le sanatorium, la maladie et les tensions intellectuelles d’avant-guerre."
 ---
-
 ![Image de La Montagne magique](https://upload.wikimedia.org/wikipedia/commons/e/ec/La_Montagne_magique_theatre.jpg)
 
 ###### Questions

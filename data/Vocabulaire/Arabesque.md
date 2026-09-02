@@ -2,6 +2,8 @@
 tags:
   - Vocabulaire
   - Danse
+culture_g_score: 61
+culture_g_justification: "Posture emblématique de la danse classique, connue et assez fréquente, mais limitée à quelques angles artistiques."
 ---
 ###### Questions 
 

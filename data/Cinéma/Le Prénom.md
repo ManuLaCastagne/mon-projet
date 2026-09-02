@@ -22,9 +22,9 @@ indice_6 :
   - Wall-E
 questions:
  - Me déroulant essentiellement dans l'appartement d'un couple, interprété par Valérie Benguigui et Charles Berling, je donne à Guillaume de...
+culture_g_score: 73
+culture_g_justification: "Comédie française très connue, associée à une pièce, à plusieurs acteurs et à un César, ce qui la rend souvent exploitable en quiz."
 ---
-
-
 ![Image de Le Prénom](https://upload.wikimedia.org/wikipedia/commons/0/05/Le_Pr%C3%A9nom_-_sc%C3%A9nario_-_btv1b53007692h_%285_of_9%29.jpg)
 
 ###### Questions

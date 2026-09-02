@@ -20,8 +20,9 @@ indice_6 :
   - vers 1300
 questions:
  - Au Moyen Age, quel terme  différent de joute désignait la fête au cours de laquelle les chevaliers s'affrontaient à cheval...
+culture_g_score: 64
+culture_g_justification: "Pratique médiévale bien identifiable, utile pour les questions sur la chevalerie, les armes, la noblesse et l’origine des compétitions sportives."
 ---
-
 ![Image de Tournoi](https://upload.wikimedia.org/wikipedia/commons/8/8e/Tournoi_de_cyclisme36.jpg)
 
 ###### Questions

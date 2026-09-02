@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Turquie
+culture_g_score: 64
+culture_g_justification: "Pâtisserie mondialement connue, exploitable en gastronomie et en culture méditerranéenne, sans être un marronnier majeur."
 ---
 ###### Questions 
 

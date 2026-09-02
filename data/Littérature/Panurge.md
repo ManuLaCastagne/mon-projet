@@ -22,8 +22,9 @@ indice_6 :
   - Gargantua et Pantagruel
 questions:
  - Associé à un épisode dans lequel je jette un mouton à la mer qui est suivi par le reste du troupeau…
+culture_g_score: 48
+culture_g_justification: "Personnage rabelaisien célèbre dans les études littéraires, mais offrant peu d’angles indépendants et restant moins fréquent que Rabelais ou ses œuvres principales."
 ---
-
 ![Image de Panurge](https://upload.wikimedia.org/wikipedia/commons/e/e5/Panurge_foireux.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Indicateur de marées
 questions:
  - Quel crustacé sauteur, également appelé puce de mer ou puce de sable, abonde sous les paquets d'algues sur les plages?
+culture_g_score: 20
+culture_g_justification: "Petit crustacé des plages, intéressant écologiquement mais très rarement demandé sous son nom précis."
 ---
-
 ![Image de Talitre](https://upload.wikimedia.org/wikipedia/commons/f/f2/Talitrus_saltator_2c.jpg)
 
 ###### Questions

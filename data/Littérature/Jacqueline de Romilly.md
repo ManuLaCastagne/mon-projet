@@ -22,8 +22,9 @@ indice_6 :
   - Première femme professeur au Collège de France
 questions:
  - Quelle helléniste, auteure de "Pourquoi la Grèce?"... Et reçue sous la Coupole en 1989, a préféré remplacer son épée par un sac à main brodé de palmes?
+culture_g_score: 51
+culture_g_justification: "Jacqueline de Romilly est une grande helléniste et académicienne, mais son profil demeure surtout pertinent pour des questions spécialisées."
 ---
-
 ![Image de Jacqueline de Romilly](https://upload.wikimedia.org/wikipedia/commons/5/5b/Signature_de_Jacqueline_de_Romilly_-_Archives_nationales_%28France%29.jpg)
 
 ###### Questions

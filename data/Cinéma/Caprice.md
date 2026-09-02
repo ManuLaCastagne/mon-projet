@@ -22,8 +22,9 @@ indice_6 :
   - réécritures de scénario
 questions:
  - En 2015, dans quel film Emmanuel Mouret se met-il en scène dans le rôle d'un instituteur amoureux d'une actrice jouée par Virginie Efira?
+culture_g_score: 27
+culture_g_justification: "Film français contemporain assez confidentiel, dont les possibilités de questions restent limitées."
 ---
-
 ![Image de Caprice](https://upload.wikimedia.org/wikipedia/commons/2/25/Caprice_%281967%29_Press_Photo_of_Irene_Tsu.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Chute de Napoléon
 indice_6 : 
   - Équilibre des puissances
+culture_g_score: 88
+culture_g_justification: "Événement diplomatique majeur de l'Europe post-napoléonienne, utile pour les frontières, la monarchie, les alliances et l'ordre européen."
 ---
-
 ![Image de Congrès de Vienne]()
 
 ###### Questions

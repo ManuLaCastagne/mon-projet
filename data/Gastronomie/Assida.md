@@ -2,6 +2,8 @@
 tags:
   - Religion
   - Tunisie
+culture_g_score: 31
+culture_g_justification: "Spécialité tunisienne intéressante culturellement, mais trop régionale pour être prioritaire."
 ---
 ###### Questions 
 

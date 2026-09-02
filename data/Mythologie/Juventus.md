@@ -16,9 +16,9 @@ indice_4:
 indice_5:
   - Club de foot
 indice_6:
+culture_g_score: 20
+culture_g_justification: "La déesse romaine Juventas reste très obscure en dehors de la mythologie spécialisée, indépendamment de l'homonyme sportif."
 ---
-
-
 ![Image de Juventus](https://upload.wikimedia.org/wikipedia/commons/9/94/Canova-Hebe_30_degree_view.jpg)
 
 ###### Questions

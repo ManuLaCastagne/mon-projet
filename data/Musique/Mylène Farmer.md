@@ -22,9 +22,9 @@ indice_6 :
   - Stade de France
 questions:
  - A quelle chanteuse doit-on les paroles d'Alizée en 2000…
+culture_g_score: 73
+culture_g_justification: "Grande figure de la chanson française, régulièrement interrogée pour ses albums, ses records et ses tubes, mais moins transversale qu'une figure historique majeure."
 ---
-
-
 ![Image de Mylène Farmer](https://upload.wikimedia.org/wikipedia/commons/d/d3/Myl%C3%A8ne_farmer_Live_2019_%28cropped%29.jpg)
 
 ###### Questions

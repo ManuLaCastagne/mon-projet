@@ -20,8 +20,9 @@ indice_6 :
   - Papin
 questions:
  - Footballeur français ayant enregistré la chanson "We've got a feeling" avec l'un de mes partenaires de club, j'ai terminé ma carrière en 1997 dans le club japonais des Urawa Red Diamonds.
+culture_g_score: 64
+culture_g_justification: "Footballeur associé à un but historique de la Ligue des champions, référence sportive française assez régulièrement exploitable."
 ---
-
 ![Image de Basile Boli](https://upload.wikimedia.org/wikipedia/commons/a/a7/Basile_Boli.jpg)
 
 ###### Questions

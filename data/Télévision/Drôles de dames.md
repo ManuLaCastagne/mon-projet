@@ -20,8 +20,9 @@ indice_6 :
   - Los Angeles
 questions:
  - Dans quelle série télévisée créée en 1976 Charlie, patron invisible, donnait ses instructions par téléphone aux 3 héroïnes ?
+culture_g_score: 76
+culture_g_justification: "Série culte associée à la télévision américaine des années 1970, à ses héroïnes, à ses adaptations et à la culture populaire."
 ---
-
 ![Image de Drôles de dames](https://upload.wikimedia.org/wikipedia/commons/8/84/Mis_Dolly_01348_Marcel_et_ses_droles_de_dames.JPG)
 
 ###### Questions

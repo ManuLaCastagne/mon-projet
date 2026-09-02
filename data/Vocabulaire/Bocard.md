@@ -14,8 +14,9 @@ indice_5 :
   - installation industrielle
 indice_6 : 
   - traitement de minéraux
+culture_g_score: 24
+culture_g_justification: "Machine historique de l’industrie minière, dont la connaissance reste très ponctuelle et spécialisée."
 ---
-
 ![Image de Bocard](https://upload.wikimedia.org/wikipedia/commons/5/5b/Savignac-L%C3%A9drier_forge_bocard_%282%29.jpg)
 
 ###### Questions

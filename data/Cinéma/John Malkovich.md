@@ -18,10 +18,9 @@ indice_5 :
   - Burn After Reading
 indice_6 : 
   - Les Infiltrés
+culture_g_score: 76
+culture_g_justification: "Acteur international reconnaissable par plusieurs rôles marquants, avec des liens au cinéma, au théâtre et aux adaptations littéraires."
 ---
-
-
-
 ![Image de John Malkovich](https://upload.wikimedia.org/wikipedia/commons/3/34/John_Malkovich_KVIFF.jpg)
 
 ###### Questions

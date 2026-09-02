@@ -18,8 +18,9 @@ indice_5 :
   - Guillaume Gallienne
 indice_6 : 
   - Emmanuelle Bercot
+culture_g_score: 44
+culture_g_justification: "Actrice césarisée et associée à L'Esquive et au Nom des gens, mais encore relativement secondaire dans les quiz généralistes."
 ---
-
 ![Image de Sara Forestier](https://upload.wikimedia.org/wikipedia/commons/9/96/Sara_Forestier_Cannes_2013.jpg)
 
 ###### Questions

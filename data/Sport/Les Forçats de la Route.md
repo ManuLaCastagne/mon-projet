@@ -20,8 +20,9 @@ indice_6 :
   - Lance Armstrong
 questions:
  - Quelle expression associée à Albert Londres est employée pour souligner la difficulté des cyclistes sur le Tour de France ?
+culture_g_score: 60
+culture_g_justification: "Titre journalistique classique lié à Albert Londres et à l’histoire du Tour de France, avec plusieurs angles culturels convergents."
 ---
-
 ![Image de Les Forçats de la Route](https://upload.wikimedia.org/wikipedia/commons/3/35/66188-Saint-Pierre-dels-Forcats-Routes-Hydro.png)
 
 ###### Questions

@@ -14,8 +14,9 @@ indice_5 :
   - Exemple parfait
 indice_6 : 
   - Quintessence
+culture_g_score: 44
+culture_g_justification: "Mot littéraire encore identifiable pour désigner un modèle parfait, mais moins fréquent et structurant que les grands synonymes courants."
 ---
-
 ![Image de Parangon](https://upload.wikimedia.org/wikipedia/commons/2/24/Ch%C3%A2teau_Parangon_-_Joinville-le-Pont_%28FR94%29_-_2021-02-25_-_3.jpg)
 
 ###### Questions

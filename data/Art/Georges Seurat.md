@@ -23,9 +23,9 @@ indice_6 :
   - célébrité posthume
 questions:
  - Quel peintre pointilliste réalisait des esquisses en plein air le matin avant de peindre en atelier "Un dimanche après-midi à la Grande Jatte"?
+culture_g_score: 80
+culture_g_justification: "Seurat est le principal repère du pointillisme et de la division des couleurs, avec une œuvre emblématique facilement mobilisable en quiz."
 ---
-
-
 ![Image de Georges Seurat](https://upload.wikimedia.org/wikipedia/commons/5/52/Georges-Pierre_Seurat_-_Honfleur%2C_un_soir%2C_embouchure_de_la_Seine_-_Google_Art_Project.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - The Holiday
 indice_6 : 
   - L'Enfer du dimanche
+culture_g_score: 73
+culture_g_justification: "Actrice populaire associée à plusieurs succès majeurs comme The Mask, Mary à tout prix et Shrek."
 ---
-
 ![Image de Cameron Diaz](https://upload.wikimedia.org/wikipedia/commons/4/4e/Cameron_Diaz_2016_%28cropped%29.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7gqVS7J2oyBd4F1UwiRrOY" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

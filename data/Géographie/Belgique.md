@@ -22,9 +22,9 @@ indice_5:
   - Flandre
 indice_6:
   - Ardennes
+culture_g_score: 84
+culture_g_justification: "Pays voisin et référence européenne majeure, très rentable pour l’histoire, les institutions, la géographie et la culture."
 ---
-
-
 ![[Carte_Belgique.png]]
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - possédait le château d'Anet
 questions:
  - De 19 ans mon cadet, au point d'éclipser sa femme, Catherine de Médicis.  Il s'en passait, des choses, à l'époque, quand même! Ayant poussé le roi à réprimer le protestantisme, je me retire dans mon Château d'Anet en 1559.
+culture_g_score: 72
+culture_g_justification: "Figure marquante de la Renaissance française, associée à Henri II, Diane de Poitiers, au château d'Anet et aux rivalités de cour."
 ---
-
 ![Image de Diane de Poitiers](https://upload.wikimedia.org/wikipedia/commons/5/56/East_entrance_to_the_Diane_de_Poitiers_at_the_Castle_of_Chenonceau.jpg)
 
 ###### Questions

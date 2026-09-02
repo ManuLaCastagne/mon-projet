@@ -15,9 +15,9 @@ indice_6 :
   - Symbole d'agilité et de vigueur
 questions:
  - Avec mon cousin pyrénéen et suis le plus petit représentant de la famille des caprinés. Vivant dans les alpages et les forêts d'altitude, mon pelage uniforme est brun pâle en été et plus sombre et laineux en hiver. Mammifère des montagnes d'Europe...
+culture_g_score: 51
+culture_g_justification: "Animal emblématique des Alpes, utile pour la faune européenne et la géographie montagnarde, mais de fréquence modérée."
 ---
-
-
 ![Image de Chamois](https://upload.wikimedia.org/wikipedia/commons/7/7b/012_Wild_Chamois_Riederalp_Photo_by_Giles_Laurent.jpg)
 
 ###### Questions

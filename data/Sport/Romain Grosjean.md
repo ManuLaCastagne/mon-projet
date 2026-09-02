@@ -20,8 +20,9 @@ indice_6 :
   - Andrétti Autosport
 questions:
  - Ayant inscrit 391 points  en 1910 saisons de championnat du monde. J'ai arrêté ma carrière  en décembre 2020 après cet accident  incroyable lors du grand prix de Bahreïn.
+culture_g_score: 60
+culture_g_justification: "Pilote connu pour son accident spectaculaire et sa carrière en Formule 1, avec une portée principalement sportive et médiatique."
 ---
-
 ![Image de Romain Grosjean](https://upload.wikimedia.org/wikipedia/commons/6/6d/Romain_Grosjean_at_Road_America_in_2021.png)
 
 ###### Questions

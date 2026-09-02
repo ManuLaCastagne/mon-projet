@@ -18,8 +18,9 @@ indice_5 :
   - Mobile
 indice_6 : 
   - Art abstrait
+culture_g_score: 68
+culture_g_justification: "Calder est une référence importante pour les mobiles, l’art cinétique et la sculpture moderne, avec plusieurs angles artistiques distincts."
 ---
-
 ![Image de Alexander Calder]()
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Wisteria
 indice_6:
   - Ornementale dans les jardins
+culture_g_score: 48
+culture_g_justification: "Plante ornementale très identifiable par ses grappes mauves, la glycine permet quelques questions de botanique et de culture visuelle mais reste secondaire."
 ---
-
 ![Image de Glycine](https://upload.wikimedia.org/wikipedia/commons/e/e1/Glycine_clandestina_1.jpg)
 
 ###### Questions

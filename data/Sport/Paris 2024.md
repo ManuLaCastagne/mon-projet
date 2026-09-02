@@ -20,9 +20,9 @@ indice_5 :
   - athlétisme
 indice_6 : 
   - village olympique
+culture_g_score: 88
+culture_g_justification: "Édition olympique française très médiatisée, permettant de nombreuses questions sur Paris, les sports, l’organisation et l’actualité récente."
 ---
-
-
 ![Image de Paris 2024](https://upload.wikimedia.org/wikipedia/commons/c/ca/Pan_Zhanle_%28%E6%BD%98%E5%B1%95%E4%B9%90%29_at_the_2024_Summer_Olympics_in_Paris_in_August_2024.jpg)
 
 ###### Questions

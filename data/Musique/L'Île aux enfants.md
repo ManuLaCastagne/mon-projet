@@ -22,8 +22,9 @@ indice_6 :
   - enfant
 questions:
  - Composée par Roger Pouly sur des paroles du créateur de programmes Christophe Izard, j'évoque un pays joyeux où vivent les monstres gentils.
+culture_g_score: 68
+culture_g_justification: "Émission culte de la télévision jeunesse française, utile pour Casimir, l’ORTF, les années 1970 et la mémoire populaire."
 ---
-
 ![Image de L'Île aux enfants](https://upload.wikimedia.org/wikipedia/commons/3/39/Lanh%C3%A9lin_-_Cobac_Parc_%28L%27%C3%8Ele_aux_enfants%29_01.jpg)
 
 ###### Questions

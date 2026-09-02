@@ -22,8 +22,9 @@ indice_6 :
   - pop rock des années 1980
 questions:
  - Quel groupe de la new wave britannique, formé en 1981, est interprète du tube "Shout" ?
+culture_g_score: 73
+culture_g_justification: "Groupe phare de la pop britannique des années 1980, régulièrement interrogé grâce à plusieurs tubes et à son influence musicale."
 ---
-
 ![Image de Tears for Fears](https://upload.wikimedia.org/wikipedia/commons/6/68/Tears_for_Fears_2008.jpg)
 
 ###### Questions

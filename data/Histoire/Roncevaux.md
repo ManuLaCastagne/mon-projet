@@ -20,9 +20,9 @@ indice_6 :
   - La Chanson de Roland
 questions:
  - Quel col pyrénéen, situé en...
+culture_g_score: 80
+culture_g_justification: "Épisode médiéval célèbre par la Chanson de Roland, permettant des liens entre Charlemagne, les Vascons et la littérature épique."
 ---
-
-
 ![Image de Roncevaux](https://upload.wikimedia.org/wikipedia/commons/2/21/Orreaga_-_centre.jpg)
 
 ###### Questions

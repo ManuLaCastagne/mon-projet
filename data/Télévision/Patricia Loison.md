@@ -20,8 +20,9 @@ indice_6 :
   - carrière internationale
 questions:
  - Quelle journaliste de télévision, ayant animé l'émission "Faut pas rêver" sur France 3, présente le journal du soir sur la chaîne France Info?
+culture_g_score: 40
+culture_g_justification: "Journaliste ayant occupé plusieurs postes visibles sur France Télévisions, mais avec une notoriété et une fréquence de quiz limitées."
 ---
-
 ![Image de Patricia Loison](https://upload.wikimedia.org/wikipedia/commons/8/8e/Patricia_Loison.jpg)
 
 ###### Questions

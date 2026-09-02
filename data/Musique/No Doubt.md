@@ -18,8 +18,9 @@ indice_5 :
   - Ska Punk
 indice_6 : 
   - Just a Girl
+culture_g_score: 53
+culture_g_justification: "Groupe pop-rock bien identifié grâce à Gwen Stefani et à quelques tubes, mais d'importance et d'usage relativement limités en culture générale."
 ---
-
 ![Image de No Doubt](https://upload.wikimedia.org/wikipedia/commons/6/6d/NO_DOUBT_327b_Brian_McCauley.jpg)
 
 ###### Questions

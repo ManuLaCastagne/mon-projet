@@ -20,8 +20,9 @@ indice_6 :
   - assassiné par Ravaillac
 questions:
  - Phrase qui aurait été prononcée après que le connétable de Châtillon eut dit "Qui a bon coeur trouve toujours "bon temps pour la bataille", on m'attribue à un roi de France surnommé le Roi trouvé. Liée aux préparatifs de la bataille du mont Cassel en 1328, je cherchais à convaincre ceux qui pensaient que la saison était trop avancée pour partir en campagne.  Phrase de Philippe VI...
+culture_g_score: 47
+culture_g_justification: "Expression connue et parfois interrogée sur son attribution historique, mais sa portée en culture générale reste limitée."
 ---
-
 ![Image de Qui m'aime me suive](https://upload.wikimedia.org/wikipedia/commons/5/5b/Qui_m%27aime_me_suive_-_estampe_-_btv1b53026584w.jpg)
 
 ###### Questions

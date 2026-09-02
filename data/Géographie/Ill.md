@@ -24,8 +24,9 @@ indice_6 :
   - océans
 questions:
  - Quelle rivière française affluent du Rhin, traverse la ville de Strasbourg ?
+culture_g_score: 40
+culture_g_justification: "Rivière alsacienne d'intérêt régional, susceptible d'apparaître occasionnellement mais avec peu d'angles généralistes."
 ---
-
 ![Image de Ill](https://upload.wikimedia.org/wikipedia/commons/5/50/Ill_seen_from_the_Illsteg_01.jpg)
 
 ![[Carte_Ill.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sciences/Charles Gordon.md",
+                "file": "Frises/Scores Culture G.base",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,77 +190,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Charles Gordon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Charles Gordon"
-            }
-          },
-          {
-            "id": "93afbda334fd23a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sport/Ianis Hagi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ianis Hagi"
-            }
-          },
-          {
-            "id": "dcf8f0216f2a5c4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulaire/Décolonisation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Décolonisation"
-            }
-          },
-          {
-            "id": "878d9cf6385b0ce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culture générale/désert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "désert"
-            }
-          },
-          {
-            "id": "d1e6e70a811d7109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culture générale/Louis de Montalte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Louis de Montalte"
-            }
-          },
-          {
-            "id": "4d4366008bc91803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sciences/Charles Gordon.md",
+                "file": "Histoire/Charles Gordon.md",
                 "mode": "source",
                 "source": false
               },
@@ -269,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -393,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sciences/Charles Gordon.md",
+                "file": "Frises/Scores Culture G.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -433,17 +363,18 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "4d4366008bc91803",
+  "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
-    "Religion/Golgotha.md",
-    "Sciences/Charles Gordon.md",
+    "Histoire/Charles Gordon.md",
+    "Culture générale/Comité de salut public.md",
     "Frises/Scores Culture G.base",
     "Sport/Ianis Hagi.md",
-    "Culture générale/Maradona des Carpates.md",
     "Vocabulaire/Décolonisation.md",
     "Culture générale/désert.md",
-    "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
     "Culture générale/Louis de Montalte.md",
+    "Religion/Golgotha.md",
+    "Culture générale/Maradona des Carpates.md",
+    "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
     "Sport/Emil Zatopek.md",
     "Culture générale/Locomotive tchèque.md",
     "Anatomie/Creux poplité.md",
@@ -462,7 +393,6 @@
     "Frises/Notes.md",
     "Frises/Histoire - Batailles.md",
     "Frises/Cinéma - Année.md",
-    "Frises/Art - Gantt.md",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",

@@ -25,8 +25,9 @@ indice_6 :
   - mont Vésuve
 questions:
  - Partie de la Méditerranée comprise entre la Corse,  la Sardaigne, la Sicile,  la péninsule italienne, aussi appelée la mer d'Etrurie.
+culture_g_score: 52
+culture_g_justification: "Mer méditerranéenne identifiable par ses rapports avec l'Italie, la Corse, la Sardaigne et la Sicile, mais d'usage quiz modéré."
 ---
-
 ![Image de Mer Tyrrhénienne](https://upload.wikimedia.org/wikipedia/commons/f/f0/Tyrrhenian_Sea_map.png)
 
 ![[Carte_Mer Tyrrhénienne.png]]

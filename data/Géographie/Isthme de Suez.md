@@ -19,6 +19,7 @@ indice_5:
 indice_6:
   - site de nationalisation historique en 1956
 culture_g_score: 80
+culture_g_justification: "Repère géographique et historique majeur, directement lié à l'Égypte, au canal de Suez et à la séparation Afrique-Asie."
 ---
 ![Image de Isthme de Suez](https://upload.wikimedia.org/wikipedia/commons/7/76/Isthme_de_Suez_1862.jpg)
 

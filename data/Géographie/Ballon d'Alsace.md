@@ -24,8 +24,9 @@ indice_6 :
   - sommet accessible par plusieurs routes
 questions:
  - Montagne française classée Grand Site National, je culmine à 1247 m d'altitude.  Sommet auquel on accède depuis Giromagny, j'offre une vue panoramique sur la trouée de Belfort et les Alpes...
+culture_g_score: 40
+culture_g_justification: "Sommet vosgien connu dans le cyclisme et la géographie française, mais rarement prioritaire hors de ces contextes."
 ---
-
 ![Image de Ballon d'Alsace](https://upload.wikimedia.org/wikipedia/commons/f/f0/Ballon_d%27Alsace_%40_Sud_01.jpg)
 
 ![[Carte_Ballon d'Alsace.png]]

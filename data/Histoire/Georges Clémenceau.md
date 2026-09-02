@@ -20,8 +20,9 @@ indice_6 :
   - né en Vendée en 1841
 questions:
  - En 1929, selon ses volontés, quel ancien président du Conseil est enterré avec des fleurs desséchées qui lui avaient été offertes par des poilus en 1918?
+culture_g_score: 80
+culture_g_justification: "Grande figure politique de la Troisième République, liée à la Première Guerre mondiale, à Clemenceau le Tigre et à l’affaire Dreyfus."
 ---
-
 ![Image de Georges Clémenceau](https://upload.wikimedia.org/wikipedia/commons/0/09/Maison_de_campagne_de_Georges_Clemenceau%2C_fa%C3%A7ade_sud-est%2C_Saint-Vincent-sur-Jard.jpg)
 
 ###### Questions

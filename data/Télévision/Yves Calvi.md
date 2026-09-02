@@ -20,8 +20,9 @@ indice_6 :
   - animateur
 questions:
  - Ayant commencé ma carrière à la radio sur RFI en 1986, j'ai animé pour France Télévisions les émissions "Mots croisés (émission)", "Le grand..."
+culture_g_score: 73
+culture_g_justification: "Journaliste associé à C dans l’air et à plusieurs émissions d’actualité, régulièrement mobilisable dans les questions médiatiques françaises."
 ---
-
 ![Image de Yves Calvi](https://upload.wikimedia.org/wikipedia/commons/4/41/CALVI_Yves-24x30-2010.jpg)
 
 ###### Questions

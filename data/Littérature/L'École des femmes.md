@@ -22,8 +22,9 @@ indice_6 :
   - pièce de théâtre
 questions:
  - On vient d'écouter un extrait de cette chanson très gaie de Renaud, "Le petit chat est mort", chanson extraite de son album "A la Belle de Mai" sorti en 1994. De quelle pièce de Molière est tirée la célèbre phrase "Le petit chat est mort", prononcée par Agnès?
+culture_g_score: 77
+culture_g_justification: "L’École des femmes est une pièce majeure de Molière, régulièrement mobilisée pour le théâtre classique, la satire sociale et les querelles littéraires."
 ---
-
 ![Image de L'École des femmes](https://upload.wikimedia.org/wikipedia/commons/d/da/A_woman_is_in_between_two_men%2C_one_has_his_face_covered_with_Wellcome_V0040656.jpg)
 
 ###### Questions

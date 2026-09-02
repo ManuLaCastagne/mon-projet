@@ -20,8 +20,9 @@ indice_6 :
   - cité ensevelie sous la cendre
 questions:
  - En l'an 79, avec Stabies, Oplontis, Pompéi, quelle autre cité de l'Italie ancienne fut ensevelie par l' éruption du Vésuve ?
+culture_g_score: 68
+culture_g_justification: "Site antique majeur souvent rapproché de Pompéi, mais offrant moins de questions indépendantes que sa voisine plus célèbre."
 ---
-
 ![Image de Herculanum](https://upload.wikimedia.org/wikipedia/commons/d/d9/Antigua_ciudad_de_Herculano%2C_Italia%2C_2023-03-27%2C_DD_141.jpg)
 
 ###### Questions

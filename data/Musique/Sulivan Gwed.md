@@ -20,8 +20,9 @@ indice_5 :
   - plus de 1 million d'abonnés
 indice_6 : 
   - nom de famille Gwed
+culture_g_score: 20
+culture_g_justification: "Créateur de contenu très spécialisé et contemporain, offrant peu de chances d'apparition dans un quiz généraliste."
 ---
-
 ![Image de Sulivan Gwed]()
 
 ###### Questions

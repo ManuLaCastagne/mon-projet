@@ -17,8 +17,9 @@ indice_5 :
   - Évasion dangereuse
 indice_6 : 
   - Steven Spielberg
+culture_g_score: 93
+culture_g_justification: "Blockbuster incontournable reliant Spielberg, les dinosaures, Michael Crichton, les effets spéciaux et la culture populaire."
 ---
-
 ![Image de Jurassic Park]()
 
 ###### Questions

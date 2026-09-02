@@ -20,8 +20,9 @@ indice_6 :
   - Québec
 questions:
  - Quel astrophysicien canadien, admis en 1965 au CNRS, est l'auteur d'ouvrages comme "Dernières Nouvelles du cosmos" ou "Patience dans l'azur"?
+culture_g_score: 64
+culture_g_justification: "Vulgarisateur francophone très identifié en astronomie et en écologie, mais sa fréquence reste inférieure à celle des grands scientifiques historiques."
 ---
-
 ![Image de Hubert Reeves](https://upload.wikimedia.org/wikipedia/commons/3/3c/Hubert_Reeves%2C_2010_%28cropped%29.jpg)
 
 ###### Questions

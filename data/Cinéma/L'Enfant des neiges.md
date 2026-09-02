@@ -20,8 +20,9 @@ indice_5 :
   - chiens de traîneau
 indice_6 : 
   - découvertes enneigées
+culture_g_score: 20
+culture_g_justification: "Film d’aventure de Nicolas Vanier peu présent dans la culture générale dominante et offrant peu de repères réutilisables."
 ---
-
 ![Image de L'Enfant des neiges](https://upload.wikimedia.org/wikipedia/commons/3/33/Sondernach_Emm_autel_ND_des_Neiges_02.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - The Elephant Man
 indice_6 : 
   - Lost Highway
+culture_g_score: 80
+culture_g_justification: "Cinéaste majeur associé à Twin Peaks, Blue Velvet, au surréalisme et à la musique, offrant de nombreux angles de quiz."
 ---
-
 ![Image de David Lynch](https://upload.wikimedia.org/wikipedia/commons/a/a9/David_Lynch_%281990%29.jpg)
 
 ###### Questions

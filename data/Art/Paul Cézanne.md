@@ -23,8 +23,9 @@ indice_6 :
   - précurseur du cubisme
 questions:
  - Qui a peint "La Sainte-Victoire", près d'Aix-en-Provence ?
+culture_g_score: 88
+culture_g_justification: "Cézanne est une figure fondamentale de la peinture moderne, fréquemment lié à Aix-en-Provence, à l’impressionnisme, au cubisme et à la montagne Sainte-Victoire."
 ---
-
 ![Image de Paul Cézanne](https://upload.wikimedia.org/wikipedia/commons/a/af/La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg)
 
 ###### Questions

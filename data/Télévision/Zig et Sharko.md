@@ -20,10 +20,9 @@ indice_6 :
   - humour slapstick
 questions:
  - Quelle série d'animation pour la jeunesse met en scène une hyène affamée, une belle sirène, un bernard-l'ermite et un requin?
+culture_g_score: 56
+culture_g_justification: "Série d’animation française populaire auprès du jeune public, mais encore peu installée comme référence classique de culture générale."
 ---
-
-
-
 ![Image de Zig et Sharko]()
 
 ###### Questions

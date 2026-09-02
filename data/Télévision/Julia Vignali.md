@@ -17,6 +17,8 @@ indice_4:
   - Présentatrice de Télématin
 indice_5: 
 indice_6:
+culture_g_score: 44
+culture_g_justification: "Animatrice connue par plusieurs émissions populaires, mais dont la notoriété et la fréquence de quiz restent modérées."
 ---
 ![[Pasted image 20250413222152.png]]
 ###### Questions

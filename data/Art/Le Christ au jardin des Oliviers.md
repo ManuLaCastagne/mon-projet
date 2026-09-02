@@ -21,9 +21,9 @@ indice_5 :
   - solitude nocturne
 indice_6 : 
   - sommeil des apôtres
+culture_g_score: 40
+culture_g_justification: "Tableau symboliste de Gauguin intéressant pour Pont-Aven et la peinture moderne, mais nettement moins incontournable que ses œuvres les plus célèbres."
 ---
-
-
 ![Image de Le Christ au jardin des Oliviers](https://upload.wikimedia.org/wikipedia/commons/8/86/Le_Christ_au_jardin_des_Oliviers_-_Quentin_Varin.jpg)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_6 :
   - travail manuel
 questions:
  - En 1857, sur quel tableau Jean-François Millet a-t-il représenté des femmes ramassant des épis de blé ?
+culture_g_score: 77
+culture_g_justification: "Œuvre majeure de Millet et du musée d’Orsay, Les Glaneuses permet des questions sur le réalisme, le monde rural et la condition sociale au XIXe siècle."
 ---
-
-
 ![Image de Les Glaneuses](https://upload.wikimedia.org/wikipedia/commons/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg)
 
 ###### Questions

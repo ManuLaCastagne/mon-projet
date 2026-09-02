@@ -22,8 +22,9 @@ indice_6 :
   - cinéma français
 questions:
  - Et "Disco". Interprétant un client amoureux dans "Vénus Beauté (Institut)", j'incarne un policier dans la série "Alex Hugo"...
+culture_g_score: 44
+culture_g_justification: "Acteur français surtout associé au Pacte des loups, avec une notoriété et une fréquence de quiz limitées."
 ---
-
 ![Image de Samuel le Bihan](https://upload.wikimedia.org/wikipedia/commons/e/e6/Samuel_Le_Bihan_2015.jpg)
 
 ###### Questions

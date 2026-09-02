@@ -18,8 +18,9 @@ indice_5 :
   - The Sands of Windee
 indice_6 : 
   - The Bone is Pointed
+culture_g_score: 27
+culture_g_justification: "Arthur Upfield est un auteur policier reconnu dans un cadre restreint, mais très rarement mobilisé dans les quiz francophones généralistes."
 ---
-
 ![Image de Arthur Upfield](https://upload.wikimedia.org/wikipedia/commons/a/af/Arthur_Upfield.jpg)
 
 ###### Questions

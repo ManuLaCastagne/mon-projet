@@ -19,8 +19,9 @@ indice_5:
   - ascétisme
 indice_6:
   - karma
+culture_g_score: 52
+culture_g_justification: "Religion indienne importante pour la non-violence et Mahavira, mais relativement occasionnelle dans les quiz généralistes."
 ---
-
 ![Image de Jaïnisme](https://upload.wikimedia.org/wikipedia/commons/7/71/Jain_monk.png)
 
 ###### Questions

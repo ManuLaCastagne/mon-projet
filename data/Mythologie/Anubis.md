@@ -16,9 +16,9 @@ indice_5:
   - guide des âmes
 indice_6:
   - fils d'Osiris et de Nephthys
+culture_g_score: 80
+culture_g_justification: "Divinité égyptienne très reconnaissable, régulièrement interrogée à travers la mort, la momification, les tombes et la mythologie."
 ---
-
-
 ![Image de Anubis](https://upload.wikimedia.org/wikipedia/commons/6/6d/Anubis_standing.svg)
 
 ###### Questions

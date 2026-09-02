@@ -18,8 +18,9 @@ indice_5 :
   - Sugar Ray Robinson
 indice_6 : 
   - Martin Scorsese
+culture_g_score: 63
+culture_g_justification: "Boxeur historique rendu très célèbre par Raging Bull, permettant des questions sur la boxe, le cinéma et la biographie."
 ---
-
 ![Image de Jake LaMotta](https://upload.wikimedia.org/wikipedia/commons/7/78/Jake_LaMotta_signed_photo_postcard_1952.JPG)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - Parallel Lines
 questions:
  - Je dois une grande partie de mon succès à ma chanteuse blonde Debbie Harry. Interprète de "Call Me", la chanson du film "American Gigolo"  et de "The Tide Is High".
+culture_g_score: 80
+culture_g_justification: "Groupe emblématique de la new wave, régulièrement interrogé grâce à Debbie Harry, Heart of Glass, Rapture, le rock et les croisements avec le hip-hop."
 ---
-
-
 ![Image de Blondie](https://upload.wikimedia.org/wikipedia/commons/8/85/Blondie%2C_circa_September_1978.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - uniforme bleu
 questions:
  - En 1964, dans quel film de Jean Girault se déroulant dans le Var Louis de Funès incarne-t-il...
+culture_g_score: 81
+culture_g_justification: "Classique populaire du cinéma comique français, fortement associé à Louis de Funès, à Cruchot et à une série de films célèbres."
 ---
-
 ![Image de Gendarme de Saint-Tropez](https://upload.wikimedia.org/wikipedia/commons/3/32/Le_Gendarme_de_Saint-Tropez_Logo.svg)
 
 ###### Questions

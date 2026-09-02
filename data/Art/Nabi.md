@@ -23,8 +23,9 @@ indice_6 :
   - dynastie Joseon
 questions:
  - Notre peinture, théorisée  par Maurice Denis, privilégie les aplats de couleurs pures et la suppression de la perspective. Associé à Paul Sérusier et à Pierre Bonnard, notre nom signifie prophète en hébreu. Nous sommes…
+culture_g_score: 64
+culture_g_justification: "Les Nabis fournissent un bon repère pour comprendre Gauguin, Sérusier, Bonnard, Vuillard et l’évolution de l’art moderne."
 ---
-
 ![Image de Nabi](https://upload.wikimedia.org/wikipedia/commons/c/ca/Siyer-i_Nebi_151b.jpg)
 
 ###### Questions

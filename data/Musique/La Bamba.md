@@ -22,8 +22,9 @@ indice_6 :
   - film biographique
 questions:
  - Chanson empruntée au folklore traditionnel du Mexique et remontant au XVIIe siècle, j'ai été reprise à la fin des années 50 par Richie Valens qui m'a transformée en un succès international.
+culture_g_score: 80
+culture_g_justification: "Chanson devenue classique international grâce à Ritchie Valens et Los Lobos, ouvrant sur le rock, le Mexique, le cinéma et les palmarès."
 ---
-
 ![Image de La Bamba](https://upload.wikimedia.org/wikipedia/commons/9/91/Bailando_la_bamba_en_el_museo_de_antropologia.webm)
 
 ###### Questions

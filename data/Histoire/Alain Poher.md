@@ -20,8 +20,9 @@ indice_6 :
   - figure politique de la Cinquième République
 questions:
  - De 1968 à 1992, quel homme d'Etat français est président du Sénat?
+culture_g_score: 43
+culture_g_justification: "Personnalité politique française utile pour l'intérim présidentiel et le Sénat, mais nettement moins connue que les grands dirigeants de la Ve République."
 ---
-
 ![Image de Alain Poher](https://upload.wikimedia.org/wikipedia/commons/2/2b/Alain_Poher_1969.jpg)
 
 ###### Questions

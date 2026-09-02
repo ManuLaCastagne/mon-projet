@@ -20,8 +20,9 @@ indice_6 :
   - Réforme des soins de santé
 questions:
  - Quelle infirmière britannique a créé la première école d'infirmière professionnelle en 1860 ?
+culture_g_score: 72
+culture_g_justification: "Figure pionnière des soins infirmiers, de la statistique et de la santé publique, offrant plusieurs repères historiques rentables."
 ---
-
 ![Image de Florence Nightingale](https://upload.wikimedia.org/wikipedia/commons/b/ba/Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg)
 
 ###### Questions

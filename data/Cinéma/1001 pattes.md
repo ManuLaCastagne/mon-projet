@@ -22,8 +22,9 @@ indice_6:
   - Aventure
 questions:
   - Formée d'une coccinelle, d'une chenille et d'autres petits animaux.  Film d'animation dans lequel Tilt, une fourmi maladroite, sauve sa colonie...
+culture_g_score: 44
+culture_g_justification: "Film Pixar connu du public familial, mais nettement moins incontournable que les principales œuvres du studio."
 ---
-
 ![Image de 1001 pattes](https://upload.wikimedia.org/wikipedia/commons/2/27/A_Bug_S_Life_%2886244933%29.jpeg)
 
 ###### Questions

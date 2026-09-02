@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Espagne
+culture_g_score: 57
+culture_g_justification: "Fromage espagnol assez connu et régulièrement mobilisable dans des questions sur l’Espagne et la gastronomie."
 ---
 ###### Questions 
 

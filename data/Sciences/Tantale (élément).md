@@ -18,10 +18,9 @@ indice_5 :
   - Alliages spéciaux
 indice_6 : 
   - Haute résistance
+culture_g_score: 52
+culture_g_justification: "Élément chimique utile pour des questions de symboles, de mythologie et d’électronique, sans constituer une priorité générale."
 ---
-
-
-
 ![Image de Tantale (élément)](https://upload.wikimedia.org/wikipedia/commons/8/83/Tantalum_single_crystal_and_1cm3_cube.jpg)
 
 ###### Questions

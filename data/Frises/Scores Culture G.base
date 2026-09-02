@@ -10,7 +10,7 @@ views:
       - culture_g_justification
     sort:
       - property: culture_g_score
-        direction: ASC
+        direction: DESC
     columnSize:
       file.name: 186
       note.culture_g_score: 49

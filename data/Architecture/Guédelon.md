@@ -22,8 +22,9 @@ indice_6:
   - Passion d'histoire
 questions:
   - quel est ce chantier de construction expérimental d'un château fort, débuté en 1997, selon les techniques et les matériaux utilisés au Moyen Âge ?
+culture_g_score: 44
+culture_g_justification: "Site pédagogique original sur le Moyen Âge, mais encore trop spécifique pour une priorité d’apprentissage généraliste."
 ---
-
 ![[Carte_Guédelon.png]]
 
 ###### Questions

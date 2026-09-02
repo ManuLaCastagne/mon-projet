@@ -20,8 +20,9 @@ indice_6 :
   - pionnière de l'aviation
 questions:
  - Qui est cette aviatrice seule l'Atlantique Sud en 1936 qui fut la 1re femme à devenir commandeur de la Légion d'honneur à titre militaire?
+culture_g_score: 52
+culture_g_justification: "Pionnière française de l’aviation et détentrice de records, utile pour l’histoire des femmes et de l’aéronautique."
 ---
-
 ![Image de Maryse Bastié](https://upload.wikimedia.org/wikipedia/commons/5/57/Maryse_bastie.jpg)
 
 ###### Questions

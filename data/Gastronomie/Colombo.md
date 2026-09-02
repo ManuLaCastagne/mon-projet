@@ -21,8 +21,9 @@ indice_6:
   - inspecteur Columbo
 questions:
   - Quelle épice constituée d'un mélange de plantes diverses doit son nom à une ville du Sri Lanka ?
+culture_g_score: 48
+culture_g_justification: "Mélange d’épices associé à la cuisine antillaise, intéressant en gastronomie et en histoire culturelle mais peu fréquent."
 ---
-
 ![Image de Colombo](https://upload.wikimedia.org/wikipedia/commons/3/30/Colombo2.jpg)
 
 ###### Questions

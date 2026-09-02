@@ -22,8 +22,9 @@ indice_6 :
   - Romans à suspense
 questions:
  - En publiant, en 1992, "Les Egouts de Los Angeles", quel écrivain américain a inauguré les enquêtes mettant en scène le policier Harry Bosch?
+culture_g_score: 47
+culture_g_justification: "Auteur policier reconnu pouvant servir pour quelques questions sur le roman noir américain, mais restant secondaire dans une culture générale large."
 ---
-
 ![Image de Michael Connelly](https://upload.wikimedia.org/wikipedia/commons/4/4a/Michael_connelly_2007.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5 :
   - Thulé
 indice_6 : 
   - Globetrotter
+culture_g_score: 39
+culture_g_justification: "Explorateur et ethnologue important pour l’Arctique et les Inuits, mais trop spécialisé pour être prioritaire en culture générale."
 ---
-
-
 ![Image de Knud Rasmussen](https://upload.wikimedia.org/wikipedia/commons/1/16/Knud_Rasmussen.jpg)
 
 ###### Questions

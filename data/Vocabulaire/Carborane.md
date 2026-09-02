@@ -14,9 +14,9 @@ indice_5 :
   - Polyédrique
 indice_6 : 
   - Cage moléculaire
+culture_g_score: 24
+culture_g_justification: "Composé de chimie très spécialisé, susceptible d’une question scientifique exceptionnelle mais peu rentable à apprendre en priorité."
 ---
-
-
 ![Image de Carborane](https://upload.wikimedia.org/wikipedia/commons/7/73/Carborane_figure.png)
 
 ###### Questions

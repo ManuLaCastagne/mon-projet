@@ -24,8 +24,9 @@ indice_6 :
 questions:
  - En 1932, quel photographe disparu en 2004 montre un homme sautant au-dessus d'une flaque d'eau reproduisant son ombre dans "Derrière la gare Saint-Lazare" ?
  - En 1944, quel photographe français fait le portrait du peintre Henri Matisse chez lui au milieu de ses colombes?
+culture_g_score: 80
+culture_g_justification: "Photographe incontournable du XXe siècle, Cartier-Bresson permet des questions sur Magnum, le photojournalisme, la photographie de rue et le « moment décisif »."
 ---
-
 ![Image de Henri Cartier-Bresson](https://upload.wikimedia.org/wikipedia/commons/d/df/Portrait_of_Henri_Cartier-Bresson_-_Paris_-_1954_-_Kimura_Ihei.png)
 
 ###### Questions

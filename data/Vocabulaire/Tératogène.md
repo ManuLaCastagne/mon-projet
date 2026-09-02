@@ -14,8 +14,9 @@ indice_5 :
   - Agent toxique
 indice_6 : 
   - Risque grossesse
+culture_g_score: 60
+culture_g_justification: "Notion médicale importante, notamment grâce à la thalidomide, reliant grossesse, toxicologie, embryologie et histoire de la médecine."
 ---
-
 ![Image de Tératogène](https://upload.wikimedia.org/wikipedia/commons/4/46/Nevelzwam_%28Clitocybe_nebularis%29_05-11-2020_%28d.j.b.%29_01.jpg)
 
 ###### Questions

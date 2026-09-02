@@ -18,9 +18,9 @@ indice_5:
   - NFL
 indice_6:
   - Gisele Bündchen
+culture_g_score: 80
+culture_g_justification: "Légende du football américain, fréquemment associée aux Patriots, aux Super Bowls et à sa carrière exceptionnelle."
 ---
-
-
 ![Image de Tom Brady](https://upload.wikimedia.org/wikipedia/commons/c/cb/Tom_Brady_2021.png)
 
 ###### Questions

@@ -15,10 +15,9 @@ indice_6 :
   - Plat festif
 questions:
  - Crustacé présent dans les anfractuosités rocheuses françaises, je suis caractérisé par une longue carapace bombée avec un abdomen segmenté pouvant se replier.
+culture_g_score: 64
+culture_g_justification: "Crustacé connu en gastronomie et souvent distingué du homard, avec quelques angles zoologiques et culturels."
 ---
-
-
-
 ![Image de Langouste](https://upload.wikimedia.org/wikipedia/commons/a/ac/Palinuridae_-_MBA.webm)
 
 ###### Questions

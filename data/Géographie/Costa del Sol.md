@@ -23,8 +23,9 @@ indice_6:
   - Torremolinos
 questions:
   - Quel nom signifiant "côte du Soleil" en espagnol…
+culture_g_score: 44
+culture_g_justification: "Littoral touristique célèbre, mais dont les questions restent principalement centrées sur le tourisme espagnol."
 ---
-
 ![Image de Costa del Sol](https://upload.wikimedia.org/wikipedia/commons/e/ed/Costadelsolmap.jpg)
 
 Questions

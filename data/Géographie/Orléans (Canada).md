@@ -24,9 +24,9 @@ indice_6 :
   - centres commerciaux populaires
 questions:
  - Quelle île établie au milieu du Saint-Laurent, près de la ville de Québec, porte un nom évoquant le chef-lieu...
+culture_g_score: 20
+culture_g_justification: "Banlieue d'Ottawa peu connue du public francophone, dont les possibilités de questions sont essentiellement locales."
 ---
-
-
 ![Image de Orléans (Canada)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Orl%C3%A9ans_Express_coach_bus_being_towed_on_Nicholas_street.jpg)
 
 ![[Carte_Orléans (Canada).png]]

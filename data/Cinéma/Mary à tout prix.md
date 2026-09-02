@@ -22,8 +22,9 @@ indice_6 :
   - gel pour cheveux
 questions:
  - En 1998, dans quel film incarne-t-il Ted qui essaie de retrouver son amour de jeunesse ?
+culture_g_score: 64
+culture_g_justification: "Comédie américaine connue pour ses scènes cultes, ses acteurs et les frères Farrelly, sans constituer un grand classique incontournable."
 ---
-
 ![Image de Mary à tout prix](https://upload.wikimedia.org/wikipedia/commons/0/09/Estampes_historiques_1500-1670_-_catalogue_%C3%A0_prix_marqu%C3%A9s_%28IA_estampeshistoriq00fred%29.pdf)
 
 ###### Questions

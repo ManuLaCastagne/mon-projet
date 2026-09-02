@@ -16,8 +16,9 @@ indice_6 :
 questions:
  - Quel animal de l'ordre des proboscidiens regroupés pour épargner les cultures fait notamment la réputation des réserves du Rua en Tanzanie ?
  - Organe d'un mammifère protégé dès 1931 dans un parc national à Addo, en Afrique du Sud, nous sommes au nombre de deux et sommes implantés...
+culture_g_score: 92
+culture_g_justification: "Animal culturellement incontournable, offrant de nombreux angles en zoologie, géographie, histoire, littérature et comportement."
 ---
-
 ![Image de Éléphant](https://upload.wikimedia.org/wikipedia/commons/d/d7/Elefantes_africanos_de_sabana_%28Loxodonta_africana%29%2C_Elephant_Sands%2C_Botsuana%2C_2018-07-28%2C_DD_114-117_PAN.jpg)
 
 ###### Questions

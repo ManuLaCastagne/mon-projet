@@ -2,6 +2,8 @@
 tags:
   - Vocabulaire
   - Italie
+culture_g_score: 68
+culture_g_justification: "Institution fondamentale du commerce international et des frontières, régulièrement utile en histoire, géographie et économie."
 ---
 ###### Questions 
 

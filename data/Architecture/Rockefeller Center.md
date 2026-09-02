@@ -21,8 +21,9 @@ indice_5:
   - NBC Studios
 indice_6:
   - Atlas Statue
+culture_g_score: 80
+culture_g_justification: "Complexe emblématique de New York, le Rockefeller Center ouvre des questions sur l’architecture, la Grande Dépression, Radio City et les traditions américaines."
 ---
-
 ![Image de Le Rockefeller Center](https://upload.wikimedia.org/wikipedia/commons/5/58/NYC_-_Rockfeller_Center_-_Atlas_Statue.JPG)
 
 ###### Questions

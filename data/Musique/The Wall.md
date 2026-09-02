@@ -22,8 +22,9 @@ indice_6 :
   - 1979
 questions:
  - Quel double album concept, sorti en 1979, les Pink Floyd ont-ils joué sur scène dans une scénographie grandiose comprenant un grand mur?
+culture_g_score: 97
+culture_g_justification: "Album conceptuel emblématique, très fréquent dans les quiz grâce à Pink Floyd, ses chansons, son film et ses thèmes historiques et culturels."
 ---
-
 ![Image de The Wall](https://upload.wikimedia.org/wikipedia/commons/4/40/Juggling_on_the_Berlin_Wall_1a.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Futur supernova
 questions:
  - Etoile géante de la constellation d'Orion. D'un diamètre 500 fois plus important que celui du Soleil.
+culture_g_score: 67
+culture_g_justification: "Étoile emblématique d’Orion souvent mobilisée en astronomie, mais sa connaissance reste moins fondamentale que celle des astres les plus célèbres."
 ---
-
-
 ![Image de Bételgeuse](https://upload.wikimedia.org/wikipedia/commons/5/50/Betelgeuse_AAVSO_2019.jpg)
 
 ###### Questions

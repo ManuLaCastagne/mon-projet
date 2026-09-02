@@ -22,8 +22,9 @@ indice_6 :
   - Adapté de Jean-Patrick Manchette
 questions:
  - Dans quel film, réalisé par Jacques Deray en 1980, Alain Delon interprète-t-il le rôle de Michel Gerfaut?
+culture_g_score: 44
+culture_g_justification: "Polar d'Alain Delon identifiable dans le cinéma français des années 1980, mais assez peu fréquent et peu transversal."
 ---
-
 ![Image de Trois Hommes à abattre](https://upload.wikimedia.org/wikipedia/commons/c/c0/Killer_stellen_sich_nicht_vor.svg)
 
 ###### Questions

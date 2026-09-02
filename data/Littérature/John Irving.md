@@ -22,9 +22,9 @@ indice_6 :
   - Style narratif complexe
 questions:
  - Auteur d'une oeuvre à la dimension tragi-comique s'inspirant parfois de mes souvenirs comme dans "Liberté pour les ours", mon 1er roman, je mets en scène des personnages excentriques comme dans "L'Epopée du buveur d'eau et "L'Hôtel New Hampshire". Auteur du "Le Monde selon Garp"...
+culture_g_score: 60
+culture_g_justification: "John Irving est un romancier reconnu, exploitable par quelques œuvres et par son lien avec le cinéma, sans être une référence incontournable."
 ---
-
-
 ![Image de John Irving](https://upload.wikimedia.org/wikipedia/commons/d/da/John_Irving_Hengelo_2.jpg)
 
 ###### Questions

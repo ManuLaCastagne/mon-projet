@@ -15,8 +15,9 @@ indice_6 :
   - Consommée comme fruit sec
 questions:
  - Quelle graine de couleur vert clair produite par un arbre  de la famille des anacardiacées est un ingrédient de base des pâtisseries orientales ?
+culture_g_score: 44
+culture_g_justification: "Fruit sec très courant pouvant être lié à l’alimentation et à la botanique, mais rarement interrogé pour lui-même."
 ---
-
 ![Image de Pistache](https://upload.wikimedia.org/wikipedia/commons/f/f7/Pistacia_lentiscus_002.jpg)
 
 ###### Questions

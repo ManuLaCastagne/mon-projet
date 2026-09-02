@@ -23,8 +23,9 @@ indice_6 :
   - Passionné de nautisme et de jardins
 questions:
  - En 1876, quel artiste français représente les transformations de Paris en réalisant notamment cette toile, "Le Pont de l'Europe"?
+culture_g_score: 60
+culture_g_justification: "Caillebotte est un peintre impressionniste et mécène important, mais moins connu et moins fréquemment interrogé que Monet, Renoir ou Manet."
 ---
-
 ![Image de Gustave Caillebotte](https://upload.wikimedia.org/wikipedia/commons/4/48/Martial_Caillebotte_-_Gustave_Caillebotte_et_Berg%C3%A8re_sur_la_place_du_Caroussel%2C_1892.jpg)
 
 ###### Questions

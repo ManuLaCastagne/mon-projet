@@ -20,10 +20,9 @@ indice_6 :
   - vie tragique
 questions:
  - En 1897, quelle jeune femme, née à Genève en 1877, se lance à la découverte de l'Algérie qu'elle parcourt à cheval habillée en cavalier arabe?
+culture_g_score: 43
+culture_g_justification: "Exploratrice et écrivaine fascinante mais relativement spécialisée, surtout rencontrée dans des questions sur le Sahara et l’Algérie coloniale."
 ---
-
-
-
 ![Image de Isabelle Eberhardt](https://upload.wikimedia.org/wikipedia/commons/9/95/Isabelle_Eberhardt.jpg)
 
 ###### Questions

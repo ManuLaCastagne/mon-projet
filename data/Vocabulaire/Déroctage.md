@@ -14,8 +14,9 @@ indice_5 :
   - Engins de chantier
 indice_6 : 
   - Terracement
+culture_g_score: 24
+culture_g_justification: "Opération technique liée au terrassement ou à l’exploitation du sol, très rarement interrogée précisément."
 ---
-
 ![Image de Déroctage](https://upload.wikimedia.org/wikipedia/commons/e/ec/D%C3%A9roctage_%C3%A0_l%E2%80%99anse_Figuier_par_les_troupes_du_1er_bataillon_du_SMA.jpg)
 
 ###### Questions

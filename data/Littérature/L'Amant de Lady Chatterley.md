@@ -22,8 +22,9 @@ indice_6 :
   - classe sociale anglaise
 questions:
  - En 1928, dans quel roman de David Herbert Lawrence une femme mariée devient-elle la maîtresse d'une garde-chasse ?
+culture_g_score: 80
+culture_g_justification: "L’Amant de Lady Chatterley est un roman classique fréquemment lié à la censure, à la sexualité, aux classes sociales et à D. H. Lawrence."
 ---
-
 ![Image de L'Amant de Lady Chatterley](https://upload.wikimedia.org/wikipedia/commons/1/14/Finhan_-_mairie_-_bo%C3%AEte_%C3%A0_livres.jpg)
 
 ###### Questions

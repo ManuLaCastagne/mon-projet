@@ -24,8 +24,9 @@ indice_6 :
   - Sambre
 questions:
  - 1891, dans quelle commune du Nord une grève ouvrière est-elle réprimée dans le sang ?
+culture_g_score: 40
+culture_g_justification: "Ville liée à un épisode important du mouvement ouvrier français, mais peu transversale et rarement interrogée autrement."
 ---
-
 ![[Carte_Fourmies.png]]
 
 ###### Questions

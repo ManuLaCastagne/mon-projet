@@ -20,8 +20,9 @@ indice_6 :
   - Canonisation 2018
 questions:
  - En 1965, quel pape a clos le 2e concile du Vatican ?
+culture_g_score: 64
+culture_g_justification: "Pape important de l'après-Concile Vatican II, surtout interrogé sur Humanae Vitae, les voyages pontificaux et les transformations de l'Église."
 ---
-
 ![Image de Paul VI](https://upload.wikimedia.org/wikipedia/commons/b/b0/Paulus_VI%2C_by_Fotografia_Felici%2C_1969.jpg)
 
 ###### Questions

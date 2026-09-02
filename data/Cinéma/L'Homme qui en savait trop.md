@@ -22,8 +22,9 @@ indice_6 :
   - Que Sera
 questions:
  - Dans quel film d'Hitchcock le compositeur Bernard Hermann joue-t-il son propre rôle dans une scène où un tueur est censé supprimer un homme politique?
+culture_g_score: 77
+culture_g_justification: "Classique d'Hitchcock régulièrement cité pour ses deux versions, son intrigue et la chanson de Doris Day, mais moins incontournable que ses plus grands chefs-d'œuvre."
 ---
-
 ![Image de L'Homme qui en savait trop](https://upload.wikimedia.org/wikipedia/commons/6/64/The_Man_Who_Knew_Too_Much_trailer_screenshot_Doris_Day_Que_Sera%2C_Sera.jpg)
 
 ###### Questions

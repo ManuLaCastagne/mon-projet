@@ -22,8 +22,9 @@ indice_6 :
   - William Wyler
 questions:
  - Comédie romantique américaine sortie en 1953, je raconte l'histoire d'amour éphémère nouée lors d'une courte escapade entre deux personnages qui taisent leur identité.
+culture_g_score: 97
+culture_g_justification: "Classique mondial de William Wyler, incontournable pour Audrey Hepburn, Rome, les Oscars et l'histoire du cinéma."
 ---
-
 ![Image de Vacances romaines](https://upload.wikimedia.org/wikipedia/commons/a/ae/Audrey_Hepburn_in_Roman_Holiday_%28cropped%29.jpg)
 
 ###### Questions

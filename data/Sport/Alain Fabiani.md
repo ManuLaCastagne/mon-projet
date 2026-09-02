@@ -20,8 +20,9 @@ indice_6 :
   - Championnat de France
 questions:
  - Quel volleyeur français né en 1958, ayant évolué à Cannes, à Parme, fut considéré comme l'un des meilleurs passeurs au monde ?
+culture_g_score: 11
+culture_g_justification: "Sportif français très confidentiel dont la connaissance repose essentiellement sur quelques faits biographiques."
 ---
-
 ![Image de Alain Fabiani](https://upload.wikimedia.org/wikipedia/commons/f/f9/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._38_%281899%29_%28IA_IlFriuli-38_1899%29.pdf)
 
 ###### Questions

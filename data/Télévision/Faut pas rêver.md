@@ -20,8 +20,9 @@ indice_6 :
   - exploration
 questions:
  - ur France 3, très belle chaîne de télévision, quelle émission de découverte et lancée en 1990, est aujourd'hui animée par Philippe Gougler, l'excellent, et Carolina de Salvo?
+culture_g_score: 56
+culture_g_justification: "Magazine de découverte durable de France 3, utile pour des questions de télévision, de voyages et de géographie."
 ---
-
 ![Image de Faut pas rêver](https://upload.wikimedia.org/wikipedia/commons/f/f6/%22Bananes_express%22%2C_reportage_de_%22Faut_pas_r%C3%AAver%22%2C_r%C3%A9alis%C3%A9_par_Jean-Claude_Morin_%281991%29.jpg)
 
 ###### Questions

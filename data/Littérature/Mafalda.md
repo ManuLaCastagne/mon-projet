@@ -21,8 +21,9 @@ indice_5:
   - années 1960
 indice_6:
   - vision du monde par un enfant
+culture_g_score: 80
+culture_g_justification: "Mafalda est une icône internationale de la bande dessinée, fréquemment liée à Quino, à l’Argentine, à la satire politique et à la société."
 ---
-
 ![Image de Mafalda](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mafalda_nos_saluda.JPG/1920px-Mafalda_nos_saluda.JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions

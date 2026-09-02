@@ -14,9 +14,9 @@ indice_5 :
   - Pélagique
 indice_6 : 
   - Scombridés
+culture_g_score: 31
+culture_g_justification: "Poisson proche de la bonite et du thon, intéressant en zoologie ou en gastronomie mais rarement rencontré dans les quiz."
 ---
-
-
 ![Image de Pélamyde](https://upload.wikimedia.org/wikipedia/commons/b/b4/LL-Q150_%28fra%29-Bananax47-p%C3%A9lamyde.wav)
 
 ###### Questions

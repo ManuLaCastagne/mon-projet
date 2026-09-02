@@ -23,8 +23,9 @@ indice_6 :
   - mètre
 questions:
  - Donnée géographique dont le nom,  emprunté au latin, a été employé en ce sens dès 1845, j'ai notamment été mesurée en France dans les années 60 lors de campagnes de gravimétrie. Indiquée sur certains repères de nivellement répartis à travers le pays, je peux être obtenue avec des GPS et suis re...
+culture_g_score: 68
+culture_g_justification: "Notion géographique fondamentale permettant de résoudre de nombreuses questions sur les reliefs, les villes et les records naturels."
 ---
-
 ![Image de Altitude](https://upload.wikimedia.org/wikipedia/commons/9/9f/Altitude_marker%2C_Lismore.jpg)
 
 ![[Carte_Altitude.png]]

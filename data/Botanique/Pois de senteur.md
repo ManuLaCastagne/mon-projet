@@ -15,8 +15,9 @@ indice_6 :
   - Ornemental et bouquets
 questions:
  - Quelle plante grimpante est aussi appelée gesse odorante et possède un parfum délicat ?
+culture_g_score: 27
+culture_g_justification: "Plante ornementale identifiable par son parfum, mais d’importance limitée et peu rentable pour un quiz généraliste."
 ---
-
 ![Image de Pois de senteur](https://upload.wikimedia.org/wikipedia/commons/e/ef/Pois_de_senteur_R%C3%A9s._4794_%282%29.jpg)
 
 ###### Questions

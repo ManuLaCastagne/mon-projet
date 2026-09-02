@@ -22,8 +22,9 @@ indice_6 :
   - 1846
 questions:
  - Roman constituant avec "La Petite Fadette" et "François le Champi" une trilogie que George Sand a intitulée "Les Veillées "du chanvreur", je suis…
+culture_g_score: 48
+culture_g_justification: "La Mare au diable est un roman connu de George Sand, mais ses possibilités de questions restent surtout limitées à l’œuvre et à son contexte rural."
 ---
-
 ![Image de La Mare au diable](https://upload.wikimedia.org/wikipedia/commons/a/a9/Mers-sur-Indre_La_Mare_au_Diable.jpg)
 
 ###### Questions

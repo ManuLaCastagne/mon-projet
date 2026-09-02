@@ -23,8 +23,9 @@ indice_6 :
   - danseuse professionnelle
 questions:
  - Quelle danseuse et chorégraphe, née à Dieppe, est connue pour avoir intégré, dès 2011, l'équipe de danseurs de l'émission télé "Danse avec les stars"?
+culture_g_score: 52
+culture_g_justification: "Figure populaire de Danse avec les stars, Fauve Hautot est utile pour la télévision et la danse mais possède une portée culturelle limitée."
 ---
-
 ![Image de Fauve Hautot](https://upload.wikimedia.org/wikipedia/commons/b/b0/Fauve_Hautot.jpg)
 
 ###### Questions

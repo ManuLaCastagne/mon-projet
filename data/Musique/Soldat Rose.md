@@ -22,8 +22,9 @@ indice_6 :
   - voix de Vanessa Paradis
 questions:
  - Dans quel conte musical, écrit notamment par Louis Chedid, un enfant se réfugie-t-il dans un magasin pour vivre avec les jouets?
+culture_g_score: 56
+culture_g_justification: "Projet musical familial connu du jeune public, exploitable en musique, chanson française et culture jeunesse, sans être une référence majeure."
 ---
-
 ![Image de Soldat Rose](https://upload.wikimedia.org/wikipedia/commons/e/e8/La_Cellette_-_le_soldat_rose_-_panoramio.jpg)
 
 ###### Questions

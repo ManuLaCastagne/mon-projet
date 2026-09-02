@@ -19,8 +19,9 @@ indice_5:
   - Solitaire du Figaro
 indice_6:
   - Skipper
+culture_g_score: 56
+culture_g_justification: "Skipper français lié au Vendée Globe et à des faits récents, avec une présence quiz correcte mais encore limitée dans le temps."
 ---
-
 ![Image de Charlie Dalin](https://upload.wikimedia.org/wikipedia/commons/8/88/Charlie_Dalin.jpg)
 
 ###### Questions

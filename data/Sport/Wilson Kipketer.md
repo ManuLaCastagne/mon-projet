@@ -20,9 +20,9 @@ indice_6 :
   - Jeux Olympiques
 questions:
  - Entre 95 et 99, quel athlète danois d'origine kenyane a remporté trois titres de champion du monde du 800m ?
+culture_g_score: 44
+culture_g_justification: "Coureur de 800 mètres important historiquement, mais connu surtout des amateurs d’athlétisme."
 ---
-
-
 ![Image de Wilson Kipketer](https://upload.wikimedia.org/wikipedia/commons/2/2f/Wilson_Kipketer_%282010%29.jpg)
 
 ###### Questions

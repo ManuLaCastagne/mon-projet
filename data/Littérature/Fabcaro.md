@@ -22,8 +22,9 @@ indice_6 :
   - dessinateur français
 questions:
  - J'ai rencontré le succès avec "Zaï zaï zaï zaï". Auteur en 2018 de la BD "Moins qu'hier, plus que demain"...
+culture_g_score: 47
+culture_g_justification: "Fabcaro est une figure contemporaine montante de la bande dessinée et du roman, mais encore peu classique dans les quiz généralistes."
 ---
-
 ![Image de Fabcaro](https://upload.wikimedia.org/wikipedia/commons/6/6e/Fabcaro_au_Festival_Le_Livre_%C3%A0_Metz.jpg)
 
 ###### Questions

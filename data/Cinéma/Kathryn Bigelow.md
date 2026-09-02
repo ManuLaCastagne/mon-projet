@@ -22,8 +22,9 @@ indice_6 :
   - cinéma d'action et de guerre
 questions:
  - En 2010, quelle cinéaste américaine est devenue la 1re femme de l'histoire à recevoir l'Oscar du meilleur réalisateur pour "Démineurs" ?
+culture_g_score: 64
+culture_g_justification: "Réalisatrice historiquement importante comme première femme oscarisée dans cette catégorie, avec plusieurs films connus."
 ---
-
 ![Image de Kathryn Bigelow](https://upload.wikimedia.org/wikipedia/commons/6/6c/Kathryn_Bigelow_by_David_Shankbone.jpg)
 
 ###### Questions

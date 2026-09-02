@@ -19,8 +19,9 @@ indice_5 :
   - animateur télé
 indice_6 : 
   - aventurier
+culture_g_score: 73
+culture_g_justification: "Animateur emblématique de Koh-Lanta, régulièrement associé à TF1, aux jeux télévisés et à Fort Boyard."
 ---
-
 ![Image de Denis Brogniart](https://upload.wikimedia.org/wikipedia/commons/0/0d/Denis_Brogniart_%282019%29-2.jpg)
 
 ###### Questions

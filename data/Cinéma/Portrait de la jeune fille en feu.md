@@ -18,8 +18,9 @@ indice_5 :
   - 2019
 indice_6 : 
   - Amour interdit
+culture_g_score: 64
+culture_g_justification: "Film français contemporain très reconnu, lié à Céline Sciamma, Cannes et aux débats sur le regard et l'homosexualité."
 ---
-
 ![Image de Portrait de la jeune fille en feu]()
 
 ###### Questions

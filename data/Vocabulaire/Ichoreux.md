@@ -14,8 +14,9 @@ indice_5 :
   - Zeus
 indice_6 : 
   - Immortalité
+culture_g_score: 20
+culture_g_justification: "Adjectif médical très rare, limité à un vocabulaire pathologique spécialisé."
 ---
-
 ![Image de Ichoreux](https://upload.wikimedia.org/wikipedia/commons/1/18/Histoire_de_la_vaccination_-_recherches_historiques_et_critiques_sur_les_divers_moyens_de_prophylaxie_th%C3%A9rapeutique_employ%C3%A9s_contre_la_variole_depuis_l%27origine_de_celle-ci_jusqu%27%C3%A0_nos_jours_%28IA_b24868838%29.pdf)
 
 ###### Questions

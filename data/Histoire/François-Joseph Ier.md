@@ -21,9 +21,9 @@ indice_6 :
 questions:
  - Confronté aux revendications des minorités nationales pendant mon long règne, je meurs en 1916 au château de Schoenbrunn, 2 ans avant l'effondrement de mon empire. Empereur d'Autriche et roi de Hongrie, époux d'Elisabeth de Wittelsbach, je suis...
  - Quel empereur d'Autriche, né en 1830, était le neveu et successeur de Ferdinand Ier?
+culture_g_score: 71
+culture_g_justification: "Souverain important de l’Autriche-Hongrie, mais moins fréquemment interrogé que les grandes figures des deux guerres mondiales."
 ---
-
-
 ![Image de François-Joseph Ier](https://upload.wikimedia.org/wikipedia/commons/2/23/Fran%C3%A7ois-Joseph_Ier%2C_empereur_d%E2%80%99Autriche%2C_roi_de_Hongrie.jpg)
 
 ###### Questions

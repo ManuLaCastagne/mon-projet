@@ -11,8 +11,8 @@ indice_3:
 indice_4:
 indice_5:
 indice_6:
-culture_g_score: 1
-culture_g_justification: Néologisme extrêmement obscur et dépourvu de référence culturelle générale solidement établie.
+culture_g_score: 3
+culture_g_justification: "Néologisme extrêmement obscur et dépourvu de référence culturelle générale solidement établie."
 ---
 ![Image de Troubleau](https://upload.wikimedia.org/wikipedia/commons/9/9f/A_simple_plankton_net.jpg)
 

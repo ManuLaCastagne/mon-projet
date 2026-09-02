@@ -22,8 +22,9 @@ indice_6 :
   - Scout Finch
 questions:
  - En 1961, quelle romancière reçoit le prix Pulitzer pour "Ne tirez pas sur l'oiseau moqueur", qui défend les droits civiques des Afro-américains?
+culture_g_score: 77
+culture_g_justification: "Harper Lee est fortement associée à un roman majeur, au prix Pulitzer, aux droits civiques et à Truman Capote."
 ---
-
 ![Image de Harper Lee](https://upload.wikimedia.org/wikipedia/commons/d/dd/Harper_Lee_Medal.jpg)
 
 ###### Questions

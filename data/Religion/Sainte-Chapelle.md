@@ -20,8 +20,9 @@ indice_6 :
   - Architecture gothique
 questions:
  - A Paris, quel sanctuaire, construit pour abriter les reliques de la couronne d'épines du Christ est célèbre pour les vitraux de sa chapelle haute?
+culture_g_score: 80
+culture_g_justification: "Monument parisien emblématique, rentable pour l'architecture gothique, Louis IX, les reliques et l'histoire de Paris."
 ---
-
 ![Image de Sainte-Chapelle](https://upload.wikimedia.org/wikipedia/commons/4/40/Paris_Sainte_Chapelle_East_View_02.JPG)
 
 ###### Questions

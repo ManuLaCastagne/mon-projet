@@ -21,8 +21,9 @@ indice_5:
   - Musée des Arts et Civilisations
 indice_6:
   - Quai Jacques Chirac
+culture_g_score: 64
+culture_g_justification: "Musée parisien identifiable par son architecture, ses collections et Jean Nouvel, mais moins incontournable que les grands monuments de la capitale."
 ---
-
 ![Image de Musée du Quai Branly](https://upload.wikimedia.org/wikipedia/commons/b/ba/Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_%2810629%29.jpg)
 
 ###### Questions

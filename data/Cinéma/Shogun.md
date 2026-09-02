@@ -22,8 +22,9 @@ indice_6 :
   - Edo
 questions:
  - Dans la série, quel nom porte la discothèque locale où les vacanciers passent leurs soirées?
+culture_g_score: 52
+culture_g_justification: "Adaptation historique connue de James Clavell, utile pour le Japon et les relations anglo-japonaises, mais peu fréquente hors des amateurs."
 ---
-
 ![Image de Shogun](https://upload.wikimedia.org/wikipedia/commons/7/77/Shogun-Hearing-in-Fukiage-by-Toyohara-Chikanobu-1889.png)
 
 ###### Questions

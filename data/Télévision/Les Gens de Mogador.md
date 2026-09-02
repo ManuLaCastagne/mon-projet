@@ -20,8 +20,9 @@ indice_6 :
   - Françoise Verny
 questions:
  - Quelle série télé des années 70, tirée d'une oeuvre d'Elisabeth Barbier, nous racontait les aventures de la famille Vernet?
+culture_g_score: 40
+culture_g_justification: "Feuilleton historique français reconnu par une génération de téléspectateurs, mais aujourd’hui peu fréquent dans les quiz."
 ---
-
 ![Image de Les Gens de Mogador](https://upload.wikimedia.org/wikipedia/commons/8/8f/Reine_Mazoyer_1970_pendant_le_tournage_%27%27_les_gens_de_Mogador.jpg)
 
 ###### Questions

@@ -19,9 +19,9 @@ indice_5 :
   - conseils culinaires
 indice_6 : 
   - transformation dramatique
+culture_g_score: 60
+culture_g_justification: "Émission très identifiable grâce à Philippe Etchebest et à son concept, mais d’importance culturelle générale limitée."
 ---
-
-
 ![Image de Cauchemar en cuisine](https://upload.wikimedia.org/wikipedia/commons/d/da/Marius-Ary_Leblond_-_En_France%2C_1909.djvu)
 
 ###### Questions

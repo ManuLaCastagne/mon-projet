@@ -18,9 +18,9 @@ indice_6 :
   - équivalent de Perséphone
 questions:
  - Honorée lors des jeux Tarentins, dont le but était d'apporter à la cité purification et prospérité, je suis la fille de Cérès.
+culture_g_score: 51
+culture_g_justification: "Équivalent romain de Perséphone, surtout utile pour le mythe des saisons et quelques références botaniques ou astronomiques."
 ---
-
-
 ![Image de Proserpine](https://upload.wikimedia.org/wikipedia/commons/d/d6/Proserpine_Collage.jpg)
 
 ###### Questions

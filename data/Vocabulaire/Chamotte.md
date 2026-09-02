@@ -14,8 +14,9 @@ indice_5 :
   - Argile réfractaire
 indice_6 : 
   - Matériau de construction
+culture_g_score: 27
+culture_g_justification: "Matériau utile en céramique et dans les constructions réfractaires, mais très peu connu hors des domaines techniques."
 ---
-
 ![Image de Chamotte]()
 
 ###### Questions

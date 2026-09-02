@@ -20,8 +20,9 @@ indice_6 :
   - Analyse mathématique
 questions:
  - Quel polytechnicien, dernier grand mathématicien universel, effectua des travaux considérés comme l'ébauche de la théorie de la relativité d'Einstein?
+culture_g_score: 59
+culture_g_justification: "Mathématicien français majeur reliant topologie, physique et théorie du chaos, mais peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Henri Poincaré](https://upload.wikimedia.org/wikipedia/commons/4/45/Henri_Poincar%C3%A9-2.jpg)
 
 ###### Questions

@@ -14,8 +14,9 @@ indice_5 :
   - Ontologie informatique
 indice_6 : 
   - Être
+culture_g_score: 68
+culture_g_justification: "Notion majeure de la métaphysique, reliée à de nombreux philosophes et débats sur l'être, la réalité et l'existence."
 ---
-
 ![Image de Ontologie](https://upload.wikimedia.org/wikipedia/commons/4/45/Go_graph.png)
 
 ###### Questions

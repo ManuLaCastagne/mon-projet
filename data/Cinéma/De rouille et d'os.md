@@ -18,6 +18,8 @@ indice_5:
   - Césars 2013
 indice_6:
   - Adaptation de Craig Davidson
+culture_g_score: 48
+culture_g_justification: "Film reconnu de Jacques Audiard et de Marion Cotillard, mais qui reste une référence relativement spécialisée du cinéma récent."
 ---
 ![[Pasted image 20250503093727.png]]
 ###### Questions

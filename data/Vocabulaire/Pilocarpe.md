@@ -14,8 +14,9 @@ indice_5 :
   - glaucome
 indice_6 : 
   - Jaborandi
+culture_g_score: 27
+culture_g_justification: "Genre végétal sud-américain associé au jaborandi et à la pharmacologie, mais très spécialisé et peu interrogé."
 ---
-
 ![Image de Pilocarpe](https://upload.wikimedia.org/wikipedia/commons/d/da/LL-Q150_%28fra%29-Bananax47-pilocarpe.wav)
 
 ###### Questions

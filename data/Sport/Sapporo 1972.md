@@ -17,8 +17,9 @@ indice_5:
   - patinage artistique
 indice_6:
   - hockey sur glace
+culture_g_score: 51
+culture_g_justification: "Premiers Jeux d’hiver en Asie, repère intéressant de l’histoire olympique mais généralement secondaire dans les quiz."
 ---
-
 ![Image de Sapporo 1972](https://upload.wikimedia.org/wikipedia/commons/8/82/1972_Winter_Olympics_torch.jpg)
 
 ###### Questions

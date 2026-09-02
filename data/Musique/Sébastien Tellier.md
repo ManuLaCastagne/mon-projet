@@ -22,9 +22,9 @@ indice_6 :
   - L'Incroyable Vérité premier album
 questions:
  - En 2008, quel chanteur français, portant barbe et lunettes noires, est critiqué pour avoir concouru à l'Eurovision avec une chanson en anglais?
+culture_g_score: 40
+culture_g_justification: "Artiste électronique français connu de quelques amateurs et de l'Eurovision, mais peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Sébastien Tellier](https://upload.wikimedia.org/wikipedia/commons/a/ac/S%C3%A9bastien_Tellier_au_Printemps_de_Bourges.jpg)
 
 ###### Questions

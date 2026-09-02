@@ -22,8 +22,9 @@ indice_5 :
   - Roland Garros
 indice_6 : 
   - Fondation Louis Vuitton
+culture_g_score: 60
+culture_g_justification: "Arrondissement parisien régulièrement associé à des lieux emblématiques, mais moins incontournable que Paris dans son ensemble."
 ---
-
 ![[Carte_16e arrondissement (Paris).png]]
 
 ###### Questions

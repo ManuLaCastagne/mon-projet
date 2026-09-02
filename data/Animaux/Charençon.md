@@ -13,8 +13,9 @@ indice_5:
   - Snuith
 indice_6:
   - Ravageur agricole
+culture_g_score: 44
+culture_g_justification: "Insecte nuisible connu dans l’agriculture, mais les questions portant précisément sur le charançon restent limitées."
 ---
-
 ![Image de Charençon](https://upload.wikimedia.org/wikipedia/commons/6/62/Weevil_September_2008-1.jpg)
 
 ###### Questions

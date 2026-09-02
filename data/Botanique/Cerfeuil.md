@@ -15,8 +15,9 @@ indice_6:
   - Assaisonnement en cuisine
 questions:
   - Quelle plante aromatique, au feuillage fin très découpé et à l'odeur anisée, est parfois appelée persil d'âne ?
+culture_g_score: 28
+culture_g_justification: "Herbe aromatique familière en cuisine, le cerfeuil est rarement la réponse d’un quiz généraliste au-delà de son identification."
 ---
-
 ![Image de Cerfeuil](https://upload.wikimedia.org/wikipedia/commons/9/96/Ammoides_pusilla_Enfoqueflores_2011-6-11_CampodeCalatrava.jpg)
 
 ###### Questions

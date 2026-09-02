@@ -2,6 +2,8 @@
 tags:
   - Vocabulaire
   - Latin
+culture_g_score: 32
+culture_g_justification: "Terme contemporain lié à l’épargne et à la retraite anticipée, encore trop niche pour être prioritaire."
 ---
 ###### Questions 
 

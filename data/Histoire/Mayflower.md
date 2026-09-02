@@ -20,8 +20,9 @@ indice_6 :
   - Angleterre vers Amérique
 questions:
  - Navire marchand de 180 tonneaux  commandé par le maître d'équipage Christopher Jones. J'ai récupéré les passagers du Speedwell, contraint d'abandonner son voyage. Ayant quitté Plymouth avec 102 passagers à bord, j'ai traversé l'Atlantique et atteint l'Amérique...
+culture_g_score: 77
+culture_g_justification: "Navire emblématique de la colonisation anglaise de l’Amérique, associé aux Pères pèlerins et au Mayflower Compact."
 ---
-
 ![Image de Mayflower](https://upload.wikimedia.org/wikipedia/commons/7/71/Mortagne-sur-Gironde_Civellier_Mayflowers_2013.jpg)
 
 ###### Questions

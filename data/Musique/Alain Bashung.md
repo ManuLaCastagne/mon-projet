@@ -22,8 +22,9 @@ indice_6 :
   - Figure du rock français
 questions:
  - En 1982, à quel chanteur doit-on le titre "C'est comment qu'on freine?", figurant sur l'album "Play blessures"?
+culture_g_score: 68
+culture_g_justification: "Grande figure de la chanson française, régulièrement associée à Fantaisie militaire, aux Victoires de la musique et au rock français, mais moins universelle que les monuments du genre."
 ---
-
 ![Image de Alain Bashung](https://upload.wikimedia.org/wikipedia/commons/5/54/BASHUNG_Alain-24x30-2007b.jpg)
 
 ###### Questions

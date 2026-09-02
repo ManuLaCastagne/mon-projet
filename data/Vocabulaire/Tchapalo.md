@@ -14,9 +14,9 @@ indice_5 :
   - Afrique de l'Ouest
 indice_6 : 
   - Sorgho
+culture_g_score: 27
+culture_g_justification: "Boisson traditionnelle ouest-africaine intéressante pour la géographie culturelle, mais rarement demandée en culture générale."
 ---
-
-
 ![Image de Tchapalo](https://upload.wikimedia.org/wikipedia/commons/4/46/Dolo_Moulin.jpg)
 
 ###### Questions

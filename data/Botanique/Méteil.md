@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé comme fourrage ou engrais vert
 questions:
  - En agriculture, comment appelle-t-on le mélange de seigle et de blé ?
+culture_g_score: 20
+culture_g_justification: "Terme agricole désignant un mélange de céréales, trop spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Méteil](https://upload.wikimedia.org/wikipedia/commons/7/77/Maslin-Beach-1302.jpg)
 
 ###### Questions

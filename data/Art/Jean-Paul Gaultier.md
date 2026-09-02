@@ -23,8 +23,9 @@ indice_6 :
   - Haute Couture
 questions:
  - Quel styliste français ayant présenté sa dernière collection haute couture en 2020, a appris à coudre avec sa grand-mère ?
+culture_g_score: 64
+culture_g_justification: "Créateur français mondialement identifié par la marinière, Madonna et Le Cinquième Élément, Jean-Paul Gaultier est surtout utile dans les thèmes mode et culture populaire."
 ---
-
 ![Image de Jean-Paul Gaultier](https://upload.wikimedia.org/wikipedia/commons/4/41/Jean_Paul_Gaultier_im_Schwuz_am_17-Mar-2015_arte_2.jpg)
 
 ###### Questions

@@ -21,10 +21,9 @@ indice_5:
   - célèbre pour le flamenco pop
 indice_6:
   - a chanté en duo avec Maître Gims
+culture_g_score: 56
+culture_g_justification: "Chanteur populaire aisément identifiable par The Voice, Andalouse et le style gipsy-pop, mais encore peu important dans une culture générale historique."
 ---
-
-
-
 ![Image de Kendji Girac](https://upload.wikimedia.org/wikipedia/commons/e/e2/Kendji_Girac_Belval_2016.jpg)
 
 ###### Questions

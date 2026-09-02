@@ -22,8 +22,9 @@ indice_6 :
   - voyage nocturne
 questions:
  - Quelle oeuvre de Kafka débute par  "Lorsque Gregor Samsa..."
+culture_g_score: 97
+culture_g_justification: "La Métamorphose est une œuvre mondiale de Kafka, immédiatement exploitable pour la littérature, l’absurde, l’aliénation et la culture européenne."
 ---
-
 ![Image de La Métamorphose](https://upload.wikimedia.org/wikipedia/commons/c/c6/La_Tailh%C3%A8de_-_De_la_m%C3%A9tamorphose_des_fontaines%2C_1895.djvu)
 
 ###### Questions

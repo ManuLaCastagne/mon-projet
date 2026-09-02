@@ -15,8 +15,9 @@ indice_5:
   - marié à Fabiola
 indice_6:
   - succédé par Albert II
+culture_g_score: 52
+culture_g_justification: "Roi des Belges du XXe siècle, utile pour l'histoire politique belge mais moins fréquent et transversal qu'un grand monarque européen."
 ---
-
 ![Image de Baudouin Ier](https://upload.wikimedia.org/wikipedia/commons/a/a4/32._Baudouin_Ier%2C_roi_de_J%C3%A9rusalem%2C_et_son_%C3%A9pouse_Constance_de_Sicile.jpg)
 
 ###### Questions

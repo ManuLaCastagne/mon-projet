@@ -18,8 +18,9 @@ indice_5:
   - site archéologique
 indice_6:
   - pyramides
+culture_g_score: 64
+culture_g_justification: "Site maya majeur associé à Pakal et au patrimoine mondial, mais moins incontournable que Chichén Itzá ou Tikal."
 ---
-
 ![Image de Palenque](https://upload.wikimedia.org/wikipedia/commons/8/8a/PalenqueLetters2020p2.jpg)
 
 ###### Questions

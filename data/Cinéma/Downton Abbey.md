@@ -22,9 +22,9 @@ indice_6 :
   - film de 2019
 questions:
  - Quelle série télévisée britannique, diffusée dès 2011 en France, met en scène la famille Crawley dans son château du Yorkshire?
+culture_g_score: 44
+culture_g_justification: "Film dérivé d’une série très connue, mais le long-métrage précis est moins fréquent et moins important que la série elle-même."
 ---
-
-
 ![Image de Downton Abbey](https://upload.wikimedia.org/wikipedia/commons/4/4f/Downton_Abbey_logo.png)
 
 ###### Questions

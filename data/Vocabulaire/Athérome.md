@@ -14,6 +14,8 @@ indice_5 :
   - Lipome
 indice_6 : 
   - Peau
+culture_g_score: 44
+culture_g_justification: "Notion médicale réelle et liée aux maladies cardiovasculaires, mais trop technique pour être souvent une réponse de quiz."
 ---
 ###### Questions
 

@@ -20,8 +20,9 @@ indice_6 :
   - né en 1971
 questions:
  - Quel Premier ministre du Canada, au pouvoir depuis 2015...
+culture_g_score: 64
+culture_g_justification: "Premier ministre canadien contemporain très connu, mais ses occurrences restent surtout liées à quelques faits politiques récents."
 ---
-
 ![Image de Justin Trudeau](https://upload.wikimedia.org/wikipedia/commons/3/32/Prime_Minister_Trudeau%27s_message_on_Christmas_2023_%280m29s%29_%28cropped%29.jpg)
 
 ###### Questions

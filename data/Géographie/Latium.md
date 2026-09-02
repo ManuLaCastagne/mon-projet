@@ -24,8 +24,9 @@ indice_6 :
   - Monts Sabins
 questions:
  - Par le Tibre et abrite la capitale  du pays, Rome.  Région désignée en français par un mot latin, je suis également connue en italien sous le nom de...
+culture_g_score: 68
+culture_g_justification: "Région essentielle pour comprendre Rome, l'Antiquité romaine et la géographie centrale de l'Italie."
 ---
-
 ![Image de Latium](https://upload.wikimedia.org/wikipedia/commons/8/88/Frontispiece_of_%E2%80%9CLatium%E2%80%9D_by_Athanasius_Kircher.jpg)
 
 ![[Carte_Latium.png]]

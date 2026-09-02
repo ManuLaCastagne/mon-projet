@@ -22,8 +22,9 @@ indice_6 :
   - abbaye de Thélème
 questions:
  - Avec le père, Grandgousier, de quel géant, fils de Gargantua, François Rabelais conte-t-il "les horribles et épouvantables faits et prouesses" dans son 1er roman?
+culture_g_score: 64
+culture_g_justification: "Personnage classique de Rabelais et de la littérature française, régulièrement associé à Gargantua, à l’humanisme et à la Renaissance, mais moins autonome que l’auteur."
 ---
-
 ![Image de Pantagruel](https://upload.wikimedia.org/wikipedia/commons/c/c1/Geboorte_van_Pantagruel_Avonturen_van_Gargantua_and_Pantagruel_%28serietitel%29%2C_RP-P-OB-52.015.jpg)
 
 ###### Questions

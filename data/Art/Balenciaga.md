@@ -23,8 +23,9 @@ indice_6 :
   - musées et expositions
 questions:
  - Je privilégiais les lignes épurées comme pour ma robe sac et la forme trapèze rendue célèbre par ma robe Art/Baby-Doll. Couturier espagnol...
+culture_g_score: 64
+culture_g_justification: "Maison de mode très connue, Balenciaga se retrouve dans des questions sur la haute couture, Cristóbal Balenciaga et la mode contemporaine."
 ---
-
 ![Image de Balenciaga](https://upload.wikimedia.org/wikipedia/commons/5/54/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Times_Square_mall_shop_June_2020_SS2_36.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Son utilisation  Agent pathogène causant des maladies
 questions:
  - En botanique, quelle maladie cryptogamique, atteignant notamment la pomme de terre et la vigne, apparaît sous forme de taches blanches duveteuses ?
+culture_g_score: 60
+culture_g_justification: "Le mildiou est régulièrement associé à la pomme de terre, à l’agriculture et à la famine irlandaise, ce qui lui donne plusieurs angles utiles."
 ---
-
 ![Image de Mildiou](https://upload.wikimedia.org/wikipedia/commons/7/74/Plasmopara_viticola_a1_%284%29.jpg)
 
 ###### Questions

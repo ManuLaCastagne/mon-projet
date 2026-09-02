@@ -20,8 +20,9 @@ indice_6 :
   - Athlète français
 questions:
  - Au JO de Rio 2 ans plus tard. Sacré champion du monde en 2017, j'ai battu en 2018 à Talence le record du monde du décathlon avec un total de 9126 points. Pascal? Grand décathlonien? Il a battu le record du monde du décathlon.
+culture_g_score: 64
+culture_g_justification: "Athlète français associé au décathlon et à un record du monde, référence sportive récente régulièrement mobilisable."
 ---
-
 ![Image de Kevin Mayer](https://upload.wikimedia.org/wikipedia/commons/b/be/Marathon_Toulouse_Kevin_Mayer_II.jpg)
 
 ###### Questions

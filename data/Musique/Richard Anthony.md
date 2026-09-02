@@ -22,8 +22,9 @@ indice_6 :
   - Aranjuez mon amour
 questions:
  - En 1962, quel chanteur rencontre le succès avec "J'entends siffler le train"?
+culture_g_score: 56
+culture_g_justification: "Chanteur très représentatif de la variété française des années 1960, mais principalement interrogé à travers quelques adaptations et tubes."
 ---
-
 ![Image de Richard Anthony](https://upload.wikimedia.org/wikipedia/commons/c/c9/Richard_Anthony_chevalier_des_Arts_et_des_Lettres.jpg)
 
 ###### Questions

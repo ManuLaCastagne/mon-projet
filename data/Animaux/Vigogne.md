@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de conservation de la biodiversité
 questions:
  - Quel est ce petit lama sauvage des hauts plateaux andins, plus montagnard que le guanaco, est doté d'un pelage fauve et blanc?
+culture_g_score: 52
+culture_g_justification: "Camélidé andin lié à la laine de luxe, à l’écologie et à la géographie sud-américaine, mais de fréquence moyenne."
 ---
-
 ![Image de Vigogne](https://upload.wikimedia.org/wikipedia/commons/7/7a/Vicu%C3%B1a_Vigogne_Lago_Chungar%C3%A0_4570m_Chile_Luca_Galuzzi_2006.jpg)
 
 ###### Questions

@@ -14,8 +14,9 @@ indice_5 :
   - Colorant naturel
 indice_6 : 
   - Nuance de bleu
+culture_g_score: 20
+culture_g_justification: "Ancien nom de pigment rouge aujourd'hui presque oublié, principalement réservé à des questions d'histoire des couleurs."
 ---
-
 ![Image de Sandyx](https://upload.wikimedia.org/wikipedia/commons/d/d2/Pompeii%2C_its_history%2C_buildings%2C_and_antiquities_-_an_account_of_the_destruction_of_the_city_with_a_full_description_of_the_remains%2C_and_of_the_recent_excavations%2C_and_also_an_itinerary_for_visitors_%2814779425444%29.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - marié à Marie de Médicis
 indice_6 : 
   - dynastie des Bourbons
+culture_g_score: 97
+culture_g_justification: "Roi de France extrêmement classique, associé aux guerres de Religion, à l’édit de Nantes, à Ravaillac et à la dynastie Bourbon."
 ---
-
 ![Image de Henri IV](https://upload.wikimedia.org/wikipedia/commons/1/17/Capitole_de_Toulouse_-_Cour_Henri_IV_-_Henri_IV_par_Thomas_Hurtamat_1607.jpg)
 
 ###### Questions

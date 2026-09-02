@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fidélité et de protection
 questions:
  - Animal chez qui l'incubation est assurée par le mâle, après que les oeufs ont été déposés dans sa..
+culture_g_score: 68
+culture_g_justification: "Animal très identifiable, associé à la reproduction des mâles, au camouflage marin et à plusieurs curiosités biologiques."
 ---
-
 ![Image de Hippocampe](https://upload.wikimedia.org/wikipedia/commons/7/79/Hippocampe_Fou.jpg)
 
 ###### Questions

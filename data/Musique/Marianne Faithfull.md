@@ -22,8 +22,9 @@ indice_6 :
   - Voix rauque et distinctive
 questions:
  - Petite amie de Mick Jagger, également actrice, à l'affiche de "Marie-Antoinette", de Sofia Coppola, j'ai sorti un album consacré aux poètes anglais en 2021.
+culture_g_score: 64
+culture_g_justification: "Figure marquante de la pop britannique et de la culture rock des années 1960, avec des liens à Jagger, aux Stones, au cinéma et à Broken English."
 ---
-
 ![Image de Marianne Faithfull](https://upload.wikimedia.org/wikipedia/commons/5/5e/Marianne_Faithfull_1966.jpg)
 
 ###### Questions

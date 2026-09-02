@@ -20,8 +20,9 @@ indice_6 :
   - Technique de franchissement
 questions:
  - Lors du 110 m haies, combien d'obstacles les athlètes doivent-ils franchir?
+culture_g_score: 64
+culture_g_justification: "Épreuve olympique classique permettant des questions sur l’athlétisme, ses records et ses champions, sans forte transversalité hors sport."
 ---
-
 ![Image de 110 mètres haies](https://upload.wikimedia.org/wikipedia/commons/c/c4/La_finale_du_110_m%C3%A8tres_haies_aux_Jeux_d%27Anvers_en_1920.jpg)
 
 ###### Questions

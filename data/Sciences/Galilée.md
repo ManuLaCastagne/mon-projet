@@ -21,6 +21,7 @@ indice_6 :
 questions:
  - Quel Italien découvrit les 4 principaux satellites de Jupiter à l'aide d'une lunette qui porte son nom ?
 culture_g_score: 100
+culture_g_justification: "Scientifique incontournable reliant astronomie, physique, révolution copernicienne, méthode expérimentale et histoire des idées."
 ---
 ![Image de Galilée](https://upload.wikimedia.org/wikipedia/commons/c/ce/Lower_Galilee_map.svg)
 

@@ -14,8 +14,9 @@ indice_5 :
   - Royaume africain
 indice_6 : 
   - Traite négrière transatlantique
+culture_g_score: 20
+culture_g_justification: "Régionalisme agricole ancien et local, dont la connaissance est très peu réutilisable dans des quiz généralistes."
 ---
-
 ![Image de Wagage]()
 
 ###### Questions

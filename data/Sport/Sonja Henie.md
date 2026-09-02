@@ -20,8 +20,9 @@ indice_6 :
   - Années 1930
 questions:
  - Entre 1928 et 1936, quel patineuse artistique norvégienne remporte l'or à trois reprises ?
+culture_g_score: 60
+culture_g_justification: "Grande championne olympique et figure historique du patinage, mais principalement mobilisée dans des questions sportives spécialisées."
 ---
-
 ![Image de Sonja Henie](https://upload.wikimedia.org/wikipedia/commons/a/ad/Sonja_Henie_1942.jpg)
 
 ###### Questions

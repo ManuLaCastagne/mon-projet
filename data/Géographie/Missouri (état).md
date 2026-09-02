@@ -24,8 +24,9 @@ indice_6:
   - frontière avec huit États
 questions:
   - Quel État américain abrite le [[Gateway Arch]], une icône architectural de 192 mètres de haut située dans la ville de [[St. Louis]] ?
+culture_g_score: 63
+culture_g_justification: "État américain utile pour des questions sur la guerre de Sécession, Saint-Louis, l'expansion vers l'Ouest et la géographie des États-Unis."
 ---
-
 ![Image de Missouri](https://upload.wikimedia.org/wikipedia/commons/7/75/Missouri_Secretary_of_State_Richard_Hanson_in_1994.jpg)
 
 ![[Carte_Missouri (état).png]]

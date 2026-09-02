@@ -14,9 +14,9 @@ indice_5 :
   - Langue classique
 indice_6 : 
   - Phrase latine
+culture_g_score: 32
+culture_g_justification: "Locution latine peu courante, susceptible d’une question lexicale ponctuelle mais offrant peu de rendement généraliste."
 ---
-
-
 ![Image de Ab Irato](https://upload.wikimedia.org/wikipedia/commons/a/a1/Ab_irato%2C_S.143_%28IA_imslp-irato-s143-liszt-franz%29.pdf)
 
 ###### Questions

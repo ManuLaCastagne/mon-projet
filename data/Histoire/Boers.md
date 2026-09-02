@@ -20,8 +20,9 @@ indice_6 :
   - Voortrekkers
 questions:
  - A quels colons de l'Afrique australe, d'origine néerlandaise, les Britanniques se sont-ils opposés lors d'un conflit ?
+culture_g_score: 68
+culture_g_justification: "Notion importante pour comprendre la colonisation de l'Afrique du Sud, les guerres anglo-boers et l'histoire de l'apartheid."
 ---
-
 ![Image de Boers](https://upload.wikimedia.org/wikipedia/commons/d/d2/Boerfamily1886.jpg)
 
 ###### Questions

@@ -14,8 +14,9 @@ indice_5 :
   - Espèces animales
 indice_6 : 
   - Rituel de cour
+culture_g_score: 40
+culture_g_justification: "Terme zoologique précis lié à la reproduction des oiseaux, pouvant donner quelques questions mais restant assez spécialisé."
 ---
-
 ![Image de Pariade](https://upload.wikimedia.org/wikipedia/commons/b/bf/LL-Q150_%28fra%29-Guilhelma-pariade.wav)
 
 ###### Questions

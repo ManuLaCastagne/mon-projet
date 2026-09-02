@@ -21,8 +21,9 @@ indice_5:
   - écrivain du XIXe siècle
 indice_6:
   - George Sand
+culture_g_score: 80
+culture_g_justification: "Musset est un classique du romantisme français, régulièrement associé à plusieurs œuvres, à George Sand et à l’histoire littéraire."
 ---
-
 ![Image de Alfred de Musset](https://upload.wikimedia.org/wikipedia/commons/2/29/Landelle%2C_Charles_-_Alfred_de_Musset_-_Mus%C3%A9e_d%27Orsay.png)
 
 ###### Questions

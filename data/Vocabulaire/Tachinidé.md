@@ -14,8 +14,9 @@ indice_5 :
   - Lutte biologique
 indice_6 : 
   - Entomologie
+culture_g_score: 27
+culture_g_justification: "Famille de mouches utile en lutte biologique, mais trop spécialisée pour être une connaissance prioritaire."
 ---
-
 ![Image de Tachinidé](https://upload.wikimedia.org/wikipedia/commons/5/52/Thomas_Bresson_-_Tachina_fera_%28by%29.JPG)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée pour fabriquer du savon
 questions:
  - Quelle plante rampante, s'épanouissant en fleurs rose vif ou blanches, est parfois surnommée herbe à savon?
+culture_g_score: 32
+culture_g_justification: "La saponaire possède un lien intéressant avec les usages traditionnels du savon, mais reste peu fréquente et assez étroite."
 ---
-
 ![Image de Saponaire](https://upload.wikimedia.org/wikipedia/commons/e/e2/Saponaire_jaune.jpg)
 
 ###### Questions

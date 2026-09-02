@@ -20,8 +20,9 @@ indice_6 :
   - Colbert
 questions:
  - Par son mariage en 1660 avec l'infante d'Espagne Marie-Thérèse, quel roi de France...
+culture_g_score: 100
+culture_g_justification: "Figure absolument incontournable de l’histoire de France, reliée à Versailles, l’absolutisme, les arts, les guerres et le Grand Siècle."
 ---
-
 ![Image de Louis XIV](https://upload.wikimedia.org/wikipedia/commons/5/5b/%28Toulouse%29_Louis_XIV_1674_-_Marc_Arcis_-_Mus%C3%A9e_des_Augustins_Joconde05620001877.jpg)
 
 ###### Questions

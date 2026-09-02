@@ -14,8 +14,9 @@ indice_5 :
   - Rackets
 indice_6 : 
   - Fruits comestibles
+culture_g_score: 43
+culture_g_justification: "Le genre du figuier de Barbarie peut apparaître en botanique, en géographie ou en alimentation, sans être une référence prioritaire."
 ---
-
 ![Image de Oponce](https://upload.wikimedia.org/wikipedia/commons/8/85/LL-Q150_%28fra%29-Renaud_%28WikiLucas00%29-oponce_stricte.wav)
 
 ###### Questions

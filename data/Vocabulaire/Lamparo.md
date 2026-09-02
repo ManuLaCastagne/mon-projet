@@ -14,8 +14,9 @@ indice_5 :
   - poisson
 indice_6 : 
   - technique traditionelle
+culture_g_score: 40
+culture_g_justification: "Terme de pêche méditerranéenne et référence culturelle ponctuelle, mais peu rentable hors de ces contextes."
 ---
-
 ![Image de Lamparo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Le_lamparo_DOMINICAIN_%288%29.JPG)
 
 ###### Questions

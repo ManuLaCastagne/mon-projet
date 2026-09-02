@@ -24,8 +24,9 @@ indice_6:
 questions:
   - En avril 1616, quel poète dramatique s'éteint dans sa ville natale de Stratford-on-Avon, en Angleterre?
   - A la fin du XVIe siècle, quel poète dramatique anglais signe notamment les pièces "La Mégère apprivoisée" et "Beaucoup de bruit pour rien" ?
+culture_g_score: 100
+culture_g_justification: "Dramaturge mondialement incontournable, interrogé sur ses pièces, ses personnages, la langue anglaise, l’époque élisabéthaine et son influence culturelle."
 ---
-
 ![Image de William Shakespeare](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)
 
 ###### Questions

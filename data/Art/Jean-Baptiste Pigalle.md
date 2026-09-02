@@ -23,9 +23,9 @@ indice_6 :
   - collaborateur de Jacques-Germain Soufflot
 questions:
  - A quel scuplteur français, dont le nom a été donné à un quartier parisien, doit-on notamment une statue de Voltaire et un buste de Diderot ?
+culture_g_score: 44
+culture_g_justification: "Sculpteur français notable du XVIIIe siècle et éponyme de la place Pigalle, il reste néanmoins une référence artistique assez spécialisée."
 ---
-
-
 ![Image de Jean-Baptiste Pigalle](https://upload.wikimedia.org/wikipedia/commons/7/7d/Roslin%2C_Marie-Suzanne_-_Jean-Baptiste_Pigalle_-_18th_century.jpg)
 
 ###### Questions

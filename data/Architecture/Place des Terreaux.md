@@ -22,8 +22,9 @@ indice_6:
   - Presqu'île
 questions:
   - Située au pied de la Croix-Rousse, mon nom se réfère à un terrain fait de terre de remblai.
+culture_g_score: 40
+culture_g_justification: "Place lyonnaise connue surtout pour la fontaine Bartholdi et son environnement urbain, avec une présence limitée dans les quiz généralistes."
 ---
-
 ![Image de Place des Terreaux](https://upload.wikimedia.org/wikipedia/commons/f/f3/Lyon_1er_-_Place_des_Terreaux_-_H%C3%B4tel_de_Ville%2C_vu_depuis_la_galerie_des_Terreaux.jpg)
 
 ![[Carte_Place des Terreaux.png]]

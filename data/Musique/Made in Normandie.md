@@ -22,8 +22,9 @@ indice_6 :
   - Supermen Lovers remixant Stuck
 questions:
  - Chanson de 1973 dont les paroles ont été écrites par Frank Thomas et Jean-Michel Rivat et la musique par l'un de mes 2 interprètes, je parle d'un soldat américain parachuté en 1944 sur un village français.  Evoquant dans mon refrain "les vaches rousses, blanches et noires sur lesquelles tombe la pluie"...
+culture_g_score: 44
+culture_g_justification: "Le titre désigne surtout une chanson populaire associée à la Normandie, mais son intérêt et sa fréquence restent limités à quelques questions musicales ou régionales."
 ---
-
 ![Image de Made in Normandie](https://upload.wikimedia.org/wikipedia/commons/3/31/Normandie_Express_in_Portsmouth_Harbour_-_geograph.org.uk_-_1969153.jpg)
 
 ###### Questions

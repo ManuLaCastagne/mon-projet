@@ -20,10 +20,9 @@ indice_6 :
   - Paris
 questions:
  - D'une jeune journaliste et de son meilleur ami homosexuel, j'ai mis en scène dans ma 1re saison Mélanie Doutey et Frédéric Diefenthal, remplacés… Dans ma 2e saison par Zoé Félix et Patrick Mille. Série portant le nom de mon héroïne...
+culture_g_score: 40
+culture_g_justification: "Série française remarquée à son lancement, mais son audience et ses références restent limitées."
 ---
-
-
-
 ![Image de Clara Sheller](https://upload.wikimedia.org/wikipedia/commons/e/e6/Horologica_clara_01.jpg)
 
 ###### Questions

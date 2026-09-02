@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de vigilance
 questions:
  - Animal aux yeux cerclés de noir et au front en saillie, au corps étiré et au pelage brun clair, je suis surnommé la sentinelle du désert…
+culture_g_score: 64
+culture_g_justification: "Animal rendu célèbre par Le Roi Lion, avec des liens à l’Afrique, au comportement social et à la zoologie."
 ---
-
 ![Image de Suricate](https://upload.wikimedia.org/wikipedia/commons/c/c4/Meerkat_%28Suricata_suricatta%29.jpg)
 
 ###### Questions

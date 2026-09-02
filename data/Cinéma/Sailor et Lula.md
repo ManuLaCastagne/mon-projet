@@ -20,8 +20,9 @@ indice_5:
   - film des années 90
 indice_6:
   - road movie
+culture_g_score: 68
+culture_g_justification: "Film culte de David Lynch et Palme d'or, exploitable par ses acteurs, son réalisateur et son esthétique, mais plutôt cinéphile."
 ---
-
 ![Image de Sailor et Lula](https://upload.wikimedia.org/wikipedia/commons/3/3f/Wild_At_Heart_%2852820104074%29.jpg)
 
 ###### Questions

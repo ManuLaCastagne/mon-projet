@@ -22,8 +22,9 @@ indice_6 :
   - Touch of Grey
 questions:
  - Quel groupe présent à Woodstock, pionnier du rock psychédélique, associe-t-on au guitariste Jerry Garcia?
+culture_g_score: 72
+culture_g_justification: "Groupe américain culte, intéressant pour le rock psychédélique, la contre-culture, Jerry Garcia et l'histoire des concerts."
 ---
-
 ![Image de The Grateful Dead](https://upload.wikimedia.org/wikipedia/commons/6/6b/Grateful_Dead_%281970%29.png)
 
 ###### Questions

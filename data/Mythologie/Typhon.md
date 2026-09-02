@@ -18,8 +18,9 @@ indice_6 :
   - [[mythologie grecque]]
 questions:
  - Est donné à un cyclone tropical très violent en Extrême-Orient.
+culture_g_score: 64
+culture_g_justification: "Monstre majeur de la mythologie grecque, régulièrement associé à Zeus, à Hésiode et à l'origine du terme typhon."
 ---
-
 ![Image de Typhon](https://upload.wikimedia.org/wikipedia/commons/9/93/Typhon_Staatliche_Antikensammlungen_596.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - commissaire et juge
 questions:
  - Dès 92, dans quelle série Pierre Mondy incarne-t-il un policier...
+culture_g_score: 53
+culture_g_justification: "Série policière française durablement connue, principalement utile pour son intrigue familiale, ses acteurs et sa diffusion sur TF1."
 ---
-
-
 ![Image de Les Cordier, juge et flic](https://upload.wikimedia.org/wikipedia/commons/b/b0/Neues_W%C3%B6rterbuch_der_franz%C3%B6sischen_und_deutschen_Sprache_.._%28IA_neueswrterbuchde00mola%29.pdf)
 
 ###### Questions

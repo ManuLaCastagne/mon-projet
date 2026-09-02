@@ -20,9 +20,9 @@ indice_6 :
   - histoires racontées uniquement par l'image
 questions:
  - Quelle ancienne émission télévisée, lancée par Solange Peter en 1964, présentait des films burlesques du cinéma muet américain?
+culture_g_score: 20
+culture_g_justification: "Programme canadien ancien et original, mais très peu connu du public francophone généraliste et rarement interrogé."
 ---
-
-
 ![Image de Histoire sans paroles](https://upload.wikimedia.org/wikipedia/commons/f/fc/Histoire_d%27amour_sans_paroles_-_expos%C3%A9_%C3%A0_la_biblioth%C3%A8que_Cond%C3%A9.JPG)
 
 ###### Questions

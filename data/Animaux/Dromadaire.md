@@ -15,8 +15,9 @@ indice_6 :
   - Monture des caravanes
 questions:
  - Mammifère dont le nom tiré du grec signifie coureur, j'ai été domestiqué vers 4000 av. J.-C. et ne vit plus du tout à l'état sauvage.
+culture_g_score: 80
+culture_g_justification: "Animal emblématique des déserts, du transport et des camélidés, souvent opposé au chameau dans les quiz."
 ---
-
 ![Image de Dromadaire](https://upload.wikimedia.org/wikipedia/commons/a/a1/Un_groupe_de_dromadaire_dans_le_desert_tunisien.jpg)
 
 ###### Questions

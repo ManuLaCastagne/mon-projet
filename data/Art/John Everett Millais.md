@@ -23,8 +23,9 @@ indice_6 :
   - Sir John Millais
 questions:
  - Quel peintre britannique, fondateur de la confrérie préraphaélite est l'auteur vers 1852 du tableau "Ophélie" aujourd'hui conservé à la Tate Britain?
+culture_g_score: 60
+culture_g_justification: "Millais est un repère du préraphaélisme, principalement grâce à Ophélie, mais demeure moins central que les grands peintres de la Renaissance ou de l’impressionnisme."
 ---
-
 ![Image de John Everett Millais](https://upload.wikimedia.org/wikipedia/commons/7/7a/John_Everett_Millais_-_The_Blind_Girl%2C_1854-56.jpg)
 
 ###### Questions

@@ -2,6 +2,8 @@
 tags:
   - Vocabulaire
   - Grèce
+culture_g_score: 92
+culture_g_justification: "Figure de style fondamentale, omniprésente dans les questions de langue, de littérature et d’analyse des textes."
 ---
 ###### Questions 
 

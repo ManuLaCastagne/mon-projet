@@ -22,8 +22,9 @@ indice_6:
   - Gustave Eiffel
 questions:
   - En 1925, quel célèbre monument est vendu par Victor Lustig, un escroc ?
+culture_g_score: 100
+culture_g_justification: "Emblème universel de Paris et de la France, la Tour Eiffel est un marronnier exceptionnellement transversal en histoire, architecture, ingénierie et tourisme."
 ---
-
 ![Image de Tour Eiffel](https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg)
 
 ![[Carte_Tour Eiffel.png]]

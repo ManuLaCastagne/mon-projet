@@ -20,8 +20,9 @@ indice_5 :
   - première diffusion en couleur
 indice_6 : 
   - Tommie Smith
+culture_g_score: 83
+culture_g_justification: "Édition olympique riche en repères sportifs, politiques, sociaux, technologiques et géographiques, fréquemment présente dans les quiz."
 ---
-
 ![Image de Mexico 1968](https://upload.wikimedia.org/wikipedia/commons/2/2a/Coat_of_arms_of_Mexico.svg)
 
 ###### Questions

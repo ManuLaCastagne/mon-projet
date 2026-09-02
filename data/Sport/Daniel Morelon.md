@@ -20,8 +20,9 @@ indice_6 :
   - Grenoble 1968
 questions:
  - Entre 1968 et 1972, quel cycliste français a été 3 fois champion olympique dans les épreuves de vitesse et de tandem?
+culture_g_score: 47
+culture_g_justification: "Grand champion français du cyclisme sur piste, mais connu principalement des amateurs de sport et de Jeux olympiques."
 ---
-
 ![Image de Daniel Morelon](https://upload.wikimedia.org/wikipedia/commons/e/ea/Daniel_Morelon.JPG)
 
 ###### Questions

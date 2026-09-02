@@ -22,8 +22,9 @@ indice_6 :
   - musique afro-américaine
 questions:
  - Quel procédé rythmique consiste à déplacer en le prolongeant un temps faible sur un temps fort?
+culture_g_score: 64
+culture_g_justification: "Notion musicale classique, utile pour comprendre de nombreux exemples en jazz, funk, musique savante et analyse du rythme."
 ---
-
 ![Image de Syncope](https://upload.wikimedia.org/wikipedia/commons/5/54/Pietro_Longhi_027.jpg)
 
 ###### Questions

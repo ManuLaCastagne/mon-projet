@@ -18,9 +18,9 @@ indice_5:
   - documentaires
 indice_6:
   - affaires judiciaires
+culture_g_score: 60
+culture_g_justification: "Journaliste associé à Faites entrer l’accusé et à plusieurs médias, avec une présence correcte mais surtout télévisuelle."
 ---
-
-
 ![Image de Christophe Hondelatte](https://upload.wikimedia.org/wikipedia/commons/4/41/Christophe_Hondelatte.jpg)
 
 ###### Questions

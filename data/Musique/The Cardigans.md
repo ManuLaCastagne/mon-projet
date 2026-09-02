@@ -22,8 +22,9 @@ indice_6:
   - pop rock
 questions:
   - Quel groupe a chanté en 1996 "Lovefool", figurant sur la BO de Roméo + Juliette de Baz Luhrmann ?
+culture_g_score: 53
+culture_g_justification: "Groupe suédois connu grâce à Lovefool et à quelques albums, mais d'importance et de transversalité modérées."
 ---
-
 ![Image de The Cardigans](https://upload.wikimedia.org/wikipedia/commons/2/20/TheCardigans.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - auteur-compositeur
 indice_6:
   - succès romantique
+culture_g_score: 36
+culture_g_justification: "Chanteur français surtout associé à un succès précis des années 1980, avec une présence assez occasionnelle dans les quiz."
 ---
-
 ![Image de Phil Barney](https://upload.wikimedia.org/wikipedia/commons/5/52/Phil_Barney_-_Juan-les-Pins.jpg)
 
 ###### Questions

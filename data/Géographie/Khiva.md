@@ -21,8 +21,9 @@ indice_5 :
   - Site du patrimoine mondial de l'UNESCO
 indice_6 : 
   - Route de la soie
+culture_g_score: 48
+culture_g_justification: "Ville historique remarquable de la route de la soie, surtout utile pour des questions sur l'Ouzbékistan et le patrimoine de l'UNESCO."
 ---
-
 ![[Carte_Khiva.png]]
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Premier groupe de rock français
 questions:
  - En 1961, à quel groupe de rock formé autour d'Eddy Mitchell, doit-on...
+culture_g_score: 60
+culture_g_justification: "Groupe fondateur du rock français, utile pour Eddy Mitchell, les débuts du rock hexagonal et l’histoire de l’Olympia, mais d’importance surtout nationale."
 ---
-
 ![Image de Les Chaussettes noires](https://upload.wikimedia.org/wikipedia/commons/c/c8/Flaubert_-_Par_les_champs_et_par_les_gr%C3%A8ves.djvu)
 
 ###### Questions

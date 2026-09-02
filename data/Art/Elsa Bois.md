@@ -21,8 +21,9 @@ indice_5:
   - TF1
 indice_6:
   - chorégraphies
+culture_g_score: 32
+culture_g_justification: "Danseuse surtout connue pour Danse avec les stars, Elsa Bois reste une personnalité récente et peu exploitable hors de cette émission."
 ---
-
 ![Image de Elsa Bois](https://upload.wikimedia.org/wikipedia/commons/3/35/Elsa_bois_%28cropped%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Karzai
 indice_6 : 
   - 2001
+culture_g_score: 72
+culture_g_justification: "Capitale d'un pays au cœur de nombreux conflits contemporains, avec des liens forts à l'Asie centrale, à l'islam et à la géopolitique."
 ---
-
 ![Image de Kaboul](https://upload.wikimedia.org/wikipedia/commons/1/14/Younes_Kaboul_cropped_Brighton_v_Spurs_Amex_Opening_30711.jpg)
 
 ![[Carte_Kaboul.png]]

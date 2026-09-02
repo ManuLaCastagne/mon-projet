@@ -22,8 +22,9 @@ indice_6 :
   - écran géant
 questions:
  - En 2009, dans quel film, avec Mélanie Laurent...
+culture_g_score: 35
+culture_g_justification: "Le concert cinéma relie musique et projection, mais reste un concept culturel assez marginal dans les quiz généralistes."
 ---
-
 ![Image de Le Concert](https://upload.wikimedia.org/wikipedia/commons/f/f0/Photo_-_Festival_de_Cornouaille_2012_-_Graeme_Allwright_en_concert_le_28_juillet_-_003.jpg)
 
 ###### Questions

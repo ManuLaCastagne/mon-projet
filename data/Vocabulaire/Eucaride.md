@@ -14,8 +14,9 @@ indice_5 :
   - Océan
 indice_6 : 
   - Appendices
+culture_g_score: 24
+culture_g_justification: "Groupe zoologique très spécialisé et peu susceptible d’être la réponse d’un quiz généraliste."
 ---
-
 ![Image de Eucaride](https://upload.wikimedia.org/wikipedia/commons/7/73/Green_garden_lizard_%28Calotes_calotes%29_juvenile_and_common_jezebel_%28Delias_eucharis%29_female.jpg)
 
 ###### Questions

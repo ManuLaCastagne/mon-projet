@@ -20,8 +20,9 @@ indice_5:
   - 1990s
 indice_6:
   - Claude M'Barali
+culture_g_score: 80
+culture_g_justification: "Pionnier majeur du rap français, régulièrement interrogé pour ses albums, ses samples, le jazz rap et l’histoire de la musique francophone."
 ---
-
 ![Image de MC Solaar](https://upload.wikimedia.org/wikipedia/commons/6/6e/MC_Solaar_Invit%C3%A9_du_RH_Factor.jpg)
 
 ###### Questions

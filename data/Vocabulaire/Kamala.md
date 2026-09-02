@@ -11,8 +11,9 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6:
+culture_g_score: 20
+culture_g_justification: "Dénomination botanique et tinctoriale très spécialisée, pratiquement absente des quiz généralistes."
 ---
-
 ![Image de Kamala](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Arboretum_Ellerhoop_-_Lotosbl%C3%BCte_im_Arboretum-See.jpg/1920px-Arboretum_Ellerhoop_-_Lotosbl%C3%BCte_im_Arboretum-See.jpg)
 
 ###### Questions

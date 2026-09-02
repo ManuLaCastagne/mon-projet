@@ -23,8 +23,9 @@ indice_6 :
   - deux tours
 questions:
  - Quel pont de Londres, comprenant deux tours qui se lèvent…
+culture_g_score: 84
+culture_g_justification: "Pont londonien mondialement reconnaissable, souvent opposé à London Bridge, il permet des questions sur Londres, la Tamise, son mécanisme et sa construction."
 ---
-
 ![Image de Tower Bridge](https://upload.wikimedia.org/wikipedia/commons/3/33/Tower_Bridge_Lights.jpg)
 
 ###### Questions

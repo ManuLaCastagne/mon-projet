@@ -20,8 +20,9 @@ indice_6 :
   - tournant de la Seconde Guerre mondiale
 questions:
  - Quelle bataille de la Seconde Guerre mondiale s'est achevée le 2 février 43 par la capitulation de la 6e armée allemande sur le front russe?
+culture_g_score: 100
+culture_g_justification: "Bataille décisive de la Seconde Guerre mondiale, omniprésente dans les quiz sur le nazisme, le front de l'Est et le tournant de la guerre."
 ---
-
 ![Image de Bataille de Stalingrad](https://upload.wikimedia.org/wikipedia/commons/6/69/Paris%2C_place_de_la_Bataille-de-Stalingrad%2C_mur_d%27enceinte_rappelant_celui_des_fermiers_g%C3%A9n%C3%A9raux_001.jpg)
 
 ###### Questions

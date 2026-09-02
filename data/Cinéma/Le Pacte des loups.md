@@ -22,8 +22,9 @@ indice_6 :
   - Monica Bellucci
 questions:
  - En 2001, dans quel film de Christophe Gans le marquis d'Apcher accueille-t-il le chevalier envoyé par le roi pour traquer la bête du Gévaudan?
+culture_g_score: 60
+culture_g_justification: "Film français populaire et identifiable par la Bête du Gévaudan, Christophe Gans et son mélange des genres, sans être incontournable."
 ---
-
 ![Image de Le Pacte des loups](https://upload.wikimedia.org/wikipedia/commons/0/01/Le_meneur_de_loups_%28IA_bub_gb_BhlMAAAAMAAJ%29.pdf)
 
 ###### Questions

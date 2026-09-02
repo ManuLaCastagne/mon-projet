@@ -23,8 +23,9 @@ indice_6 :
   - Le Destin
 questions:
  - Cinéaste engagé ayant dénoncé la corruption dans "Le moineau". Cinéaste égyptien auteur de "Adieu Bonaparte". J'ai lancé Omar Sharif et mis en scène Dalida.
+culture_g_score: 56
+culture_g_justification: "Cinéaste majeur du monde arabe, utile pour le cinéma égyptien, Cannes et la culture arabo-islamique, mais peu fréquent chez les généralistes."
 ---
-
 ![Image de Youssef Chahine](https://upload.wikimedia.org/wikipedia/commons/2/2a/Youssef_Chahine_in_Cairo_1986.jpg)
 
 ###### Questions

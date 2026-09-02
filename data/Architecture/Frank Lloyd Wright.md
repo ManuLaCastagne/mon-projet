@@ -23,8 +23,9 @@ indice_6 :
   - Robie House
 questions:
  - A quel architecte américain, maître du courant organique, doit-on le musée Guggenheim de New York?
+culture_g_score: 84
+culture_g_justification: "Architecte majeur du XXe siècle, associé à plusieurs bâtiments célèbres et à l’architecture organique américaine."
 ---
-
 ![Image de Frank Lloyd Wright](https://upload.wikimedia.org/wikipedia/commons/9/99/Frank_Lloyd_Wright_LC-USZ62-36384.jpg)
 
 ###### Questions

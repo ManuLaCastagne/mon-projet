@@ -20,8 +20,9 @@ indice_6 :
   - Double champion du monde
 questions:
  - Quel nageur américain est considéré comme le plus grand plongeur des années 1980 ?
+culture_g_score: 60
+culture_g_justification: "Plongeur olympique emblématique associé à des exploits, à une blessure célèbre et à la question du VIH dans le sport."
 ---
-
 ![Image de Greg Louganis](https://upload.wikimedia.org/wikipedia/commons/2/24/Greg_Louganis_%284226269508%29.jpg)
 
 ###### Questions

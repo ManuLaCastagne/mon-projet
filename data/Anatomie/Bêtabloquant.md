@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Grèce
+culture_g_score: 48
+culture_g_justification: "Classe médicamenteuse classique en santé, mais généralement limitée aux questions de pharmacologie et de cardiologie."
 ---
 ###### Questions 
 

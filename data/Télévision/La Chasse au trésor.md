@@ -20,8 +20,9 @@ indice_6 :
   - jeu d'aventure
 questions:
  - Dès 1981, dans quelle émission 2 candidats, devant résoudre une énigme, sur le plateau, guidaient à distance Philippe de Dieuleveult ?
+culture_g_score: 76
+culture_g_justification: "Émission française emblématique associée à Philippe de Dieuleveult, aux satellites, aux voyages et à l’histoire de la télévision."
 ---
-
 ![Image de La Chasse au trésor](https://upload.wikimedia.org/wikipedia/commons/d/d3/Chasse_au_tr%C3%A9sor.jpg)
 
 ###### Questions

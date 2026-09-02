@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Quel engin, formé d'un corps,  d'un col et d'une tête et utilisé par 2, est le plus ancien de la gymnastique rythmique? (les massues)
  - Engin de gymnastique rythmique formé d'une étroite bande de tissu d'environ 6 m de long. (ruban)
+culture_g_score: 64
+culture_g_justification: "Discipline olympique reconnaissable et liée à la danse, aux engins et aux Jeux, mais avec un nombre d’angles modéré."
 ---
-
 ![Image de Gymnastique rythmique](https://upload.wikimedia.org/wikipedia/commons/8/8f/Evgenia_Kanaeva_RUS_Olympiasiegerin.JPG)
 
 ###### Questions

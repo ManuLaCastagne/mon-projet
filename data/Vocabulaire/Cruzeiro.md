@@ -10,8 +10,9 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6:
+culture_g_score: 44
+culture_g_justification: "Ancienne monnaie brésilienne pouvant apparaître dans des questions d’histoire économique, mais peu fréquemment."
 ---
-
 ![Image de Cruzeiro](https://upload.wikimedia.org/wikipedia/commons/3/3d/Cidade_de_Cruzeiro_e_Serra_da_Mantiqueira.jpg)
 
 ###### Questions

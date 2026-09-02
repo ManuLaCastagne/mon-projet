@@ -20,8 +20,9 @@ indice_6 :
   - réformes modernisatrices
 questions:
  - Quel mot persan signifiant roi désigne le titre porté autrefois par les souverains d'Iran?
+culture_g_score: 72
+culture_g_justification: "Titre central de l’histoire perse et iranienne, utile pour relier monarchie iranienne, Révolution de 1979 et Mohammad Reza Pahlavi."
 ---
-
 ![Image de Shah](https://upload.wikimedia.org/wikipedia/commons/6/6a/Mohammad_Reza_Pahlavi.png)
 
 ###### Questions

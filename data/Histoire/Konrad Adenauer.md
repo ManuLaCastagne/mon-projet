@@ -20,8 +20,9 @@ indice_6 :
   - Premier chancelier de la République fédérale d'Allemagne
 questions:
  - En 1953, quel homme politique allemand est réélu de l'Allemagne fédérale ?
+culture_g_score: 68
+culture_g_justification: "Figure fondatrice de l’Allemagne fédérale, rentable pour les questions sur l’après-guerre, l’Europe et la reconstruction allemande."
 ---
-
 ![Image de Konrad Adenauer](https://upload.wikimedia.org/wikipedia/commons/6/6e/Antonio_Segni_and_Konrad_Adenauer_by_Giuseppe_Moro%2C_August_1959.jpg)
 
 ###### Questions

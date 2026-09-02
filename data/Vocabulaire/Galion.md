@@ -2,6 +2,8 @@
 tags:
   - Vocabulaire
   - Espagne
+culture_g_score: 68
+culture_g_justification: "Navire emblématique des explorations et empires maritimes, utile en histoire, géographie et histoire navale."
 ---
 ###### Questions 
 

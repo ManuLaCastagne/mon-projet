@@ -14,8 +14,9 @@ indice_5 :
   - Plantes aquatiques
 indice_6 : 
   - Terrain humide
+culture_g_score: 23
+culture_g_justification: "Plante des zones humides peu connue, surtout susceptible d'une question spécialisée de botanique ou d'écologie."
 ---
-
 ![Image de Sparganier](https://upload.wikimedia.org/wikipedia/commons/b/ba/Notes_sur_les_plantes_%28microforme%29_%28IA_cihm_51155%29.pdf)
 
 ###### Questions

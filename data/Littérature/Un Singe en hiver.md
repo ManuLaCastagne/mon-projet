@@ -22,8 +22,9 @@ indice_6 :
   - Plage de Tigzirt
 questions:
  - Quel livre d'Antoine Blondin évoque l'amitié sur fond d'ivresse entre un vieil hôtelier normand et un jeune homme de passage ?
+culture_g_score: 48
+culture_g_justification: "Roman français surtout retenu par son adaptation cinématographique avec Gabin et Belmondo, ce qui limite ses usages comme sujet littéraire autonome."
 ---
-
 ![Image de Un Singe en hiver](https://upload.wikimedia.org/wikipedia/commons/e/eb/Singe-en-hiver-04.JPG)
 
 ###### Questions

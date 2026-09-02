@@ -20,8 +20,9 @@ indice_6 :
   - Angelicum
 questions:
  - Dans la somme théologique, quel saint évoque la sagesse philosophique, théologique, et celle qui étonne ?
+culture_g_score: 84
+culture_g_justification: "Figure majeure de la scolastique, incontournable pour la théologie médiévale, Aristote, la philosophie et la pensée chrétienne."
 ---
-
 ![Image de Saint-Thomas-d'Aquin](https://upload.wikimedia.org/wikipedia/commons/e/ef/Wood_statue_of_Virgin_Mary_in_church_Saint-Thomas-d%27Aquin%2C_Qu%C3%A9bec%2C_Canada.jpg)
 
 ###### Questions

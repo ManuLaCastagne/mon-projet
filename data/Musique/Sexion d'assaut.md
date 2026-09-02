@@ -22,8 +22,9 @@ indice_6 :
   - rap français
 questions:
  - En 2013, quel groupe de rap chante "En direct de la Lune", tiré de l'album...
+culture_g_score: 53
+culture_g_justification: "Collectif majeur du rap français des années 2010, régulièrement associé à L'Apogée et à quelques titres emblématiques."
 ---
-
 ![Image de Sexion d'assaut](https://upload.wikimedia.org/wikipedia/commons/e/e8/SEXION_D%27ASSAUT-8.jpg)
 
 ###### Questions

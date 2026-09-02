@@ -21,6 +21,8 @@ indice_6:
   - frontière bilatérale
 questions:
   - Quel barrage américain construit sur le Parana par le Brésil et le Paraguay, fut mis en service en 1984 ?
+culture_g_score: 64
+culture_g_justification: "Grand ouvrage hydroélectrique régulièrement cité pour ses records, sa localisation et ses enjeux d’aménagement."
 ---
 ![Image de Barrage d'Itaïpu](https://upload.wikimedia.org/wikipedia/commons/9/9e/Itaipu_Dam%2C_aerial_photograph.jpg)
 ###### Questions

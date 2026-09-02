@@ -22,8 +22,9 @@ indice_6 :
   - interprète de personnages charismatiques et complexes
 questions:
  - En 1992, quel comédien gallois reçoit l'Oscar du meilleur acteur pour son interprétation d'Hannibal Lecter, dans "Le Silence des..."
+culture_g_score: 80
+culture_g_justification: "Acteur international associé à Hannibal Lecter, aux Oscars et à de nombreux films célèbres, donc régulièrement exploitable en quiz."
 ---
-
 ![Image de Anthony Hopkins](https://upload.wikimedia.org/wikipedia/commons/a/ab/Anthony_Hopkins-Tuscan_Sun_Festival.jpg)
 
 ###### Questions

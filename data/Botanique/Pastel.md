@@ -13,9 +13,9 @@ indice_5:
   - Guède
 indice_6:
   - Teinture naturelle bleue
+culture_g_score: 48
+culture_g_justification: "La plante tinctoriale relie botanique, histoire des techniques, textile et couleur, mais demeure une connaissance secondaire."
 ---
-
-
 ![Image de Pastel](https://upload.wikimedia.org/wikipedia/commons/8/84/Haltern_am_See%2C_Lavesum%2C_K%C3%BCnstlerhof%2C_Pastellkreide_--_2021_--_5719.jpg)
 
 ###### Questions

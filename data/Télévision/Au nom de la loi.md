@@ -20,8 +20,9 @@ indice_6 :
   - Wanted Dead or Alive
 questions:
  - En 1963, quelle série américaine met en scène Steve McQueen ?
+culture_g_score: 56
+culture_g_justification: "Série western associée à Steve McQueen et à un accessoire emblématique, avec quelques entrées classiques de quiz."
 ---
-
 ![Image de Au nom de la loi](https://upload.wikimedia.org/wikipedia/commons/1/1a/Rapport_fait_au_nom_de_la_Commission_charg%C3%A9e_de_l%27examen_du_projet_de_loi_tendant_%C3%A0_accorder_-_1%C2%B0_au_sieur_Daguerre%2C_une_pension_annuelle_et_viag%C3%A8re_de_6000_fr._%3B_2%C2%B0_au_sieur_Niepce_fils%2C_une_pension..._-_btv1b85936654_%2820_of_24%29.jpg)
 
 ###### Questions

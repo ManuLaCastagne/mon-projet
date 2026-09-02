@@ -14,8 +14,9 @@ indice_5 :
   - Guerre entre Sarrasins et Chrétiens
 indice_6 : 
   - Roland
+culture_g_score: 40
+culture_g_justification: "Personnage de l'Arioste à l'origine d'un terme littéraire français, utile en littérature mais assez périphérique."
 ---
-
 ![Image de Rodomont](https://upload.wikimedia.org/wikipedia/commons/5/52/Henry_Perronet_Briggs_%281791-1793-1844%29_-_The_Challenge_of_Rodomont_to_Rogero_-_1885P2536_-_Birmingham_Museums_Trust.jpg)
 
 ###### Questions

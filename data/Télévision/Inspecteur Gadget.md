@@ -18,10 +18,9 @@ indice_5:
   - Docteur Gang
 indice_6:
   - gadgets technologiques
+culture_g_score: 93
+culture_g_justification: "Héros d’animation mondialement reconnu, associé aux années 1980, aux gadgets, à son identité et à plusieurs adaptations."
 ---
-
-
-
 ![Image de Inspecteur Gadget](https://upload.wikimedia.org/wikipedia/commons/f/f2/Sergines-FR-89-carnaval_2017-char_Inspecteur_Gadget-03.jpg)
 
 ###### Questions

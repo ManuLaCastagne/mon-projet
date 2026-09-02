@@ -22,8 +22,9 @@ indice_5 :
   - fleuve Bouregreg
 indice_6 : 
   - médina
+culture_g_score: 72
+culture_g_justification: "Capitale marocaine classique, utile pour l'histoire du Maroc, l'architecture islamique, la diplomatie et la géographie nord-africaine."
 ---
-
 ![Image de Rabat](https://upload.wikimedia.org/wikipedia/commons/7/7c/Honor_guard_at_Mausoleum_of_Mohammed_V%2C_Rabat%2C_Morocco.jpg)
 
 ![[Carte_Rabat.png]]

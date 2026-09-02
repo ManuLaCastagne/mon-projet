@@ -20,8 +20,9 @@ indice_6 :
   - Golf professionnel
 questions:
  - Quel basketteur, détenant depuis 85 le record du nombre de points inscrit en un seul match avec l'équipe de France, a-t-on surnommé "Dub" ?
+culture_g_score: 40
+culture_g_justification: "Golfeur français notable dans les années 2010, mais dont les références restent cantonnées à quelques compétitions."
 ---
-
 ![Image de Dubuisson](https://upload.wikimedia.org/wikipedia/commons/0/06/Dubuisson_QC.JPG)
 
 ###### Questions

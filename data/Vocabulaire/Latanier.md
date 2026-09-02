@@ -14,8 +14,9 @@ indice_5 :
   - Toiture traditionnelle
 indice_6 : 
   - Fibres naturelles
+culture_g_score: 23
+culture_g_justification: "Palmier des Mascareignes peu connu, susceptible d'apparaître seulement dans des questions de botanique ou de géographie régionale."
 ---
-
 ![Image de Latanier](https://upload.wikimedia.org/wikipedia/commons/1/1d/Coccothrinax_dussiana.jpg)
 
 ###### Questions

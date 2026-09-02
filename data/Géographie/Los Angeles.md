@@ -24,8 +24,9 @@ indice_6 :
   - Dodgers Stadium
 questions:
  - Le musée Lacma de Renzo Piano ou encore le Walt Disney Concert Hall conçu par Frank Gehry.  Longtemps caractérisée par l'absence de gratte-ciel et de véritable centre-ville, j'ai...
+culture_g_score: 100
+culture_g_justification: "Métropole mondiale omniprésente dans les quiz grâce à Hollywood, au cinéma, à la culture populaire, à la géographie et au sport."
 ---
-
 ![Image de Los Angeles](https://upload.wikimedia.org/wikipedia/commons/6/68/Los_Angeles_%28California%2C_USA%29%2C_South_Olive_Street_--_2012_--_4847.jpg)
 
 ![[Carte_Los Angeles.png]]

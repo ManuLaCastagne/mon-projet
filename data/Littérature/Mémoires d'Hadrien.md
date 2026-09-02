@@ -18,8 +18,9 @@ indice_5 :
   - Antinoüs
 indice_6 : 
   - Rome antique
+culture_g_score: 68
+culture_g_justification: "Roman majeur du XXe siècle, utile pour Yourcenar, l’Antiquité romaine et la littérature française, mais dont les questions restent généralement centrées sur l’œuvre."
 ---
-
 ![Image de Mémoires d'Hadrien](https://upload.wikimedia.org/wikipedia/commons/2/2e/Adrian_pushkin.jpg)
 
 ###### Questions

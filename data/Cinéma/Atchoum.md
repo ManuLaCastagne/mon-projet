@@ -22,8 +22,9 @@ indice_6 :
   - Grimms
 questions:
  - Personnage d'un film d'animation dont la voix originale, en 1937, fut confiée à Billy Gilbert car il arrivait à produire un bruit de l'organisme, je suis barbu et cache mon crâne chauve sous un bonnet.  Travaillant dans une mine de diamants avec mes 6 frères, je crée des situations cocasses...
+culture_g_score: 57
+culture_g_justification: "Personnage immédiatement associé aux Sept Nains et à Disney, souvent utilisé comme indice, mais limité à quelques faits."
 ---
-
 ![Image de Atchoum](https://upload.wikimedia.org/wikipedia/commons/1/12/Atchoum_du_Marlet_mont%C3%A9_au_pas.jpg)
 
 ###### Questions

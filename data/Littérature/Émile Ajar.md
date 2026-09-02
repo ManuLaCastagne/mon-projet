@@ -23,8 +23,9 @@ indice_6 :
   - double identité
 questions:
  - Sous quel pseudonyme Romain Gary a-t-il publié le roman "La Vie devant soi", prix Goncourt en 1975 et adapté à l'écran 2 ans plus tard?
+culture_g_score: 61
+culture_g_justification: "Le pseudonyme est une connaissance très rentable pour relier Romain Gary, le prix Goncourt, la mystification littéraire et La Vie devant soi."
 ---
-
 ![[Pasted image 20250322112450.png]]
 
 ###### Questions

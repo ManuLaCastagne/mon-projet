@@ -23,8 +23,9 @@ indice_6 :
   - Art graphique
 questions:
  - Quel type de gravure venant du latin aqua fortis…
+culture_g_score: 64
+culture_g_justification: "Technique classique de gravure associée à Rembrandt, Goya et Picasso, l’eau-forte est rentable pour relier procédé, artistes et œuvres."
 ---
-
 ![Image de Eau-forte](https://upload.wikimedia.org/wikipedia/commons/d/d4/Schneider_Postrum_Fischhaus_Trier.jpg)
 
 ###### Questions

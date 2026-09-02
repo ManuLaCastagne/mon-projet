@@ -1,3 +1,8 @@
+---
+culture_g_score: 24
+culture_g_justification: "Ces moyens mnémotechniques animaliers peuvent aider ponctuellement, mais leur contenu est rarement directement interrogé dans les quiz généralistes."
+---
+
 [[Élan]] et [[Éland]] (ou grand koudou)
 Él**an**, cerf d'**A**mérique du **N**ord.  
 Élan**d**, bovi**d**é d'Afrique (antilope).  

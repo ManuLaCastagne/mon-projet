@@ -22,8 +22,9 @@ indice_6 :
   - Albertine
 questions:
  - Quel écrivain a été contraint de rester alité pour se consacrer, dès l'âge de 42 ans, à l'écriture de son oeuvre qui comporte le volume "La Prisonnière"?
+culture_g_score: 100
+culture_g_justification: "Proust est un incontournable de la littérature française, avec une œuvre, des personnages, des thèmes et des références culturelles abondamment interrogés."
 ---
-
 ![Image de Marcel Proust](https://upload.wikimedia.org/wikipedia/commons/b/b8/Marcel_Proust_1895.jpg)
 
 ###### Questions

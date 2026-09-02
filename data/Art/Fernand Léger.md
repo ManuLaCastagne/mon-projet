@@ -24,8 +24,9 @@ indice_6 :
 questions:
  - A quel peintre doit-on une version du tableau "Les Loisirs", où une femme tient un papier portant l'inscription "hommage  "à Louis David" ?
  - En 1914, quel peintre français, auteur notamment des "Constructeurs" en 50, exécute la toile "Le Réveil-matin" d'inspiration cubiste?
+culture_g_score: 72
+culture_g_justification: "Peintre majeur du cubisme et de la modernité, Fernand Léger relie peinture, sculpture, cinéma, arts décoratifs et histoire de l’art."
 ---
-
 ![Image de Fernand Léger](https://upload.wikimedia.org/wikipedia/commons/9/9e/Fernand_L%C3%A9ger_-_Grand_parade_with_red_background_%28mosaic%29_1958_made.jpg)
 
 ###### Questions

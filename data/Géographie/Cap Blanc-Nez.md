@@ -24,8 +24,9 @@ indice_6 :
   - site naturel protégé
 questions:
  - Falaise la plus septentrionale de France...
+culture_g_score: 40
+culture_g_justification: "Site naturel français assez connu mais offrant surtout des questions limitées au littoral du Pas-de-Calais."
 ---
-
 ![Image de Cap Blanc-Nez](https://upload.wikimedia.org/wikipedia/commons/3/34/Vue_du_Cap_Blanc-Nez.jpg)
 
 ![[Carte_Cap Blanc-Nez.png]]

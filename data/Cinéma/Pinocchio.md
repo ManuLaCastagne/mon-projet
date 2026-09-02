@@ -22,9 +22,9 @@ indice_6 :
   - baleine géante
 questions:
  - En partie sur l'île aux Plaisirs, je mets en scène le chat Figaro et le poisson rouge Cleo.
+culture_g_score: 100
+culture_g_justification: "Personnage mondialement incontournable, ouvrant sur la littérature italienne, Disney, le conte, l'animation et de nombreuses adaptations."
 ---
-
-
 ![Image de Pinocchio](https://upload.wikimedia.org/wikipedia/commons/6/6f/Le_avventure_di_Pinocchio-pag299.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - débat de souveraineté entre le Royaume-Uni et l'Argentine
 questions:
  - Quel archipel britannique de l'Atlantique, dont le chef-lieu est Stanley, est situé au large de l'Argentine ?
+culture_g_score: 77
+culture_g_justification: "Archipel fréquemment associé à la guerre des Malouines, aux tensions anglo-argentines et à la géographie de l'Atlantique Sud."
 ---
-
 ![Image de Malouines](https://upload.wikimedia.org/wikipedia/commons/3/3c/Falkland_Islands_Penguins_49.jpg)
 
 ![[Carte_Malouines.png]]
