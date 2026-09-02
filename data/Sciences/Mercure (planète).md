@@ -21,13 +21,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Planète classique des quiz, associée à sa proximité du Soleil, à son année courte, à Mariner 10 et à ses caractéristiques orbitales."
 ---
-![Image de Mercure (planète)](https://upload.wikimedia.org/wikipedia/commons/3/30/Mercury_in_color_-_Prockter07_centered.jpg)
+
+![Image de Mercure (planète)](https://upload.wikimedia.org/wikipedia/commons/3/30/Mercury_in_color_-_Prockter07_centered.jpg)
 
 ###### Questions
 
 Quelle planète a été survolée pour la première fois par la sonde Mariner 10 en 1974 ?
 
-Quelle planète du système solaire possède deux satellites, [[Phobos]] et [[Deimos]] ? Ces deux satellites portent les noms des dieux de la peur et de la terreur dans la mythologie grecque.
+Quelle planète du système solaire possède deux satellites, [[Phobos]] et [[Deimos]] ? Ces deux satellites portent les noms des dieux de la peur et de la terreur dans la mythologie grecque. <!-- score: 4 -->
 
 Quelle planète de notre système solaire possède une orbite tellement excentrique que sa distance minimale au Soleil est de 46 millions de kilomètres et sa distance maximale de 70 millions de kilomètres en [[2006]] ?
 
