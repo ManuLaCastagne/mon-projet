@@ -1,37 +1,30 @@
 ---
-tags: 
+tags:
   - Sport
-  - None
   - Années_1970
   - XXe
-debut: 
-fin: 
-indice_1 : 
+debut: 1958
+fin:
+indice_1:
   - handball
-indice_2 : 
+indice_2:
   - arbitre
-indice_3 : 
+indice_3:
   - France
-indice_4 : 
+indice_4:
   - compétitions internationales
-indice_5 : 
+indice_5:
   - Fédération Française de Handball
-indice_6 : 
+indice_6:
   - Championnat de France
-questions:
- - Quel volleyeur français né en 1958, ayant évolué à Cannes, à Parme, fut considéré comme l'un des meilleurs passeurs au monde ?
 culture_g_score: 11
-culture_g_justification: "Sportif français très confidentiel dont la connaissance repose essentiellement sur quelques faits biographiques."
+culture_g_justification: Sportif français très confidentiel dont la connaissance repose essentiellement sur quelques faits biographiques.
 ---
 ![Image de Alain Fabiani](https://upload.wikimedia.org/wikipedia/commons/f/f9/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._38_%281899%29_%28IA_IlFriuli-38_1899%29.pdf)
 
 ###### Questions
 
-Quel champion français de [[handball]] a décroché le titre de meilleur joueur du championnat de France en [[1975]] ?
- 
-Quel sportif a été l'un des premiers Français à mener l'équipe de [[France de handball]] aux Jeux olympiques de [[1972]] ?
-
-Qui a joué un rôle clé dans la victoire de [[l'US Ivry]] en championnat de France de [[handball]] en [[1963]] ?
+Quel volleyeur français né en 1958, ayant évolué à Cannes, à Parme, fut considéré comme l'un des meilleurs passeurs au monde ?
 
 ###### Description
 

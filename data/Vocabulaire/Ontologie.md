@@ -1,29 +1,27 @@
 ---
-tags: 
+tags:
   - DCDL
   - Sciences
-indice_1 : 
+indice_1:
   - Philosophie
-indice_2 : 
+indice_2:
   - Aristote
-indice_3 : 
+indice_3:
   - Méréologie
-indice_4 : 
+indice_4:
   - Métaphysique
-indice_5 : 
+indice_5:
   - Ontologie informatique
-indice_6 : 
+indice_6:
   - Être
-culture_g_score: 68
-culture_g_justification: "Notion majeure de la métaphysique, reliée à de nombreux philosophes et débats sur l'être, la réalité et l'existence."
+culture_g_score: 32
+culture_g_justification: Notion de la métaphysique, reliée à de nombreux philosophes et débats sur l'être, la réalité et l'existence.
 ---
-![Image de Ontologie](https://upload.wikimedia.org/wikipedia/commons/4/45/Go_graph.png)
+![Image de Ontologie](https://upload.wikimedia.org/wikipedia/commons/6/64/Heidegger_2_%281960%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 ###### Questions
 
 Quel est le domaine de la philosophie qui étudie la nature de l'être et l'existence, souvent associé au philosophe [[Martin Heidegger]]?
-
-Quel terme désigne la branche de la métaphysique qui tente de déterminer les catégories fondamentales de l'être et de la réalité?
 
 Dans quel champ philosophique [[Platon]] a-t-il contribué par ses concepts d'[[Idées]] ou de [[Formes]] en abordant la structure de la réalité?
 

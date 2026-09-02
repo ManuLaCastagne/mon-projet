@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Alexandre Nevski.md",
+                "file": "Sport/Alain Fabiani.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,46 +175,59 @@
             "id": "ba4d54f4a77e7b4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Cinéma/Sergueï Eisenstein.md",
-                "mode": "source",
-                "source": false
+                "file": "Frises/Scores Culture G.base",
+                "viewName": "Tableau"
               },
-              "icon": "lucide-file",
-              "title": "Sergueï Eisenstein"
+              "icon": "lucide-table",
+              "title": "Scores Culture G"
             }
           },
           {
-            "id": "6a88e6ad1f968656",
+            "id": "9c1a0b0498194fad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Charles Gordon.md",
+                "file": "Sport/Alain Fabiani.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Charles Gordon"
+              "title": "Alain Fabiani"
             }
           },
           {
-            "id": "aa77f45b432d384b",
+            "id": "7aee2f8f31ad4034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Alexandre Nevski.md",
+                "file": "Vocabulaire/Ontologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexandre Nevski"
+              "title": "Ontologie"
+            }
+          },
+          {
+            "id": "8ae8d9886d3a7813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulaire/Douane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Douane"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -338,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoire/Alexandre Nevski.md",
+                "file": "Sport/Alain Fabiani.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,11 +391,14 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "aa77f45b432d384b",
+  "active": "9c1a0b0498194fad",
   "lastOpenFiles": [
-    "Cinéma/Sergueï Eisenstein.md",
     "Frises/Scores Culture G.base",
+    "Vocabulaire/Ontologie.md",
+    "Vocabulaire/Douane.md",
+    "Cinéma/Sergueï Eisenstein.md",
     "Histoire/Charles Gordon.md",
+    "Histoire/Alexandre Nevski.md",
     "Culture générale/Comité de salut public.md",
     "Sport/Ianis Hagi.md",
     "Vocabulaire/Décolonisation.md",
@@ -404,10 +420,6 @@
     "Frises/Histoire - Année.md",
     "Frises/Base de données n°1.base",
     "Frises/Batailles - Gantt.md",
-    "Frises/Tout - Année.md",
-    "Frises/Musique - Année.md",
-    "Frises/Notes.md",
-    "Frises/Histoire - Batailles.md",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",

@@ -22,7 +22,7 @@ indice_6:
 culture_g_score: 64
 culture_g_justification: Prince russe important, associé à des batailles, à l’orthodoxie et aux œuvres d’Eisenstein et Prokofiev, mais moins fréquent que les grandes figures historiques.
 ---
-![Image de Alexandre Nevski](https://upload.wikimedia.org/wikipedia/commons/5/5e/RUS-2016-Aerial-SPB-Alexander_Nevsky_Lavra.jpg)
+![Image de Alexandre Nevski](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/AlexanderNevskyTitul.jpg/500px-AlexanderNevskyTitul.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
 ###### Questions
 
