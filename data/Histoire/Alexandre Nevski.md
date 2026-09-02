@@ -1,27 +1,26 @@
 ---
-tags: 
+tags:
   - Histoire
   - République_de_Novgorod
   - Années_1240
   - XIIIe
+  - Certifié
 debut: 1220
 fin: 1263
-indice_1 : 
+indice_1:
   - bataille de la Neva
-indice_2 : 
+indice_2:
   - chevaliers Teutoniques
-indice_3 : 
+indice_3:
   - prince de Novgorod
-indice_4 : 
+indice_4:
   - victoire sur les Suédois
-indice_5 : 
+indice_5:
   - défenseur de la Russie médiévale
-indice_6 : 
+indice_6:
   - canonisé par l'Église orthodoxe russe
-questions:
- - En 1242, quel prince de Novgorod bat les chevaliers Porte-Glaive sur les glaces du lac des Tchoudes?
 culture_g_score: 64
-culture_g_justification: "Prince russe important, associé à des batailles, à l’orthodoxie et aux œuvres d’Eisenstein et Prokofiev, mais moins fréquent que les grandes figures historiques."
+culture_g_justification: Prince russe important, associé à des batailles, à l’orthodoxie et aux œuvres d’Eisenstein et Prokofiev, mais moins fréquent que les grandes figures historiques.
 ---
 ![Image de Alexandre Nevski](https://upload.wikimedia.org/wikipedia/commons/5/5e/RUS-2016-Aerial-SPB-Alexander_Nevsky_Lavra.jpg)
 
@@ -32,6 +31,8 @@ Quel prince russe, devenu grand-duc de [[Vladimir]] en [[1252]], est connu pour 
 Quel personnage historique, vénéré comme saint dans l'[[Église orthodoxe russe]], a été immortalisé par le compositeur [[Sergueï Prokofiev]] dans une cantate en [[1939]] ?
 
 Qui a donné son nom à un célèbre film de propagande réalisé en [[1938]] par [[Sergueï Eisenstein]], illustrant sa défense de [[Novgorod]] contre les envahisseurs étrangers ?
+
+En 1242, quel prince de Novgorod bat les chevaliers Porte-Glaive sur les glaces du lac des Tchoudes ?
 
 ###### Description
 
