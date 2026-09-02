@@ -25,13 +25,14 @@ questions:
 culture_g_score: 73
 culture_g_justification: "Film de braquage très populaire, identifiable par son casting, son réalisateur, son intrigue et ses suites, ce qui le rend souvent exploitable en quiz."
 ---
+
 ![Image de Ocean's Eleven](https://upload.wikimedia.org/wikipedia/commons/a/a3/OceansElevenTimeline.png)
 
 ###### Questions
 
 Quel film réalisé par [[Steven Soderbergh]] en 2001 met en scène un groupe d'experts planifiant un vol simultané de trois casinos à [[Las Vegas]] ? <!-- score: 3 -->
 
-Dans quel film de braquage réunit-on des acteurs tels que [[George Clooney]], [[Brad Pitt]] et [[Matt Damon]] pour former une équipe de onze criminels talentueux ?
+Dans quel film de braquage réunit-on des acteurs tels que [[George Clooney]], [[Brad Pitt]] et [[Matt Damon]] pour former une équipe de onze criminels talentueux ? <!-- score: 1 -->
 
 Quel film a connu un tel succès à sa sortie en 2001 qu'il a donné naissance à deux suites, [[Ocean's Twelve]] et [[Ocean's Thirteen]] ?
 ###### Description
