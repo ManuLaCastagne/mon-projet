@@ -25,11 +25,12 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Prix Nobel et grand romancier allemand, utile pour des questions sur la littérature, l'exil, le nazisme et des œuvres comme Les Buddenbrook et La Montagne magique."
 ---
+
 ![Image de Thomas Mann](https://upload.wikimedia.org/wikipedia/commons/a/a6/Animated_phenakistiscope_disc_-_Running_rats_Fantascope_by_Thomas_Mann_Baynes_1833.gif)
 
 ###### Questions
 
-Quel auteur allemand, lauréat du prix Nobel de littérature en 1929, a écrit le roman célèbre [[La Montagne magique]], publié en 1924 ? <!-- score: 3 -->
+Quel auteur allemand, lauréat du prix Nobel de littérature en 1929, a écrit le roman célèbre [[La Montagne magique]], publié en 1924 ? <!-- score: 2 -->
 
 Quel écrivain, frère cadet de [[Heinrich Mann]], a été fortement influencé par la mort de son ami en 1896, événement qui a inspiré la création du personnage principal de son premier roman, [[Les Buddenbrook]] ?
 
