@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Argentine.md",
+                "file": "Frises/Scores Culture G.base",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,14 +175,13 @@
             "id": "ba4d54f4a77e7b4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Géographie/Argentine.md",
-                "mode": "source",
-                "source": false
+                "file": "Frises/Scores Culture G.base",
+                "viewName": "Tableau"
               },
-              "icon": "lucide-file",
-              "title": "Argentine"
+              "icon": "lucide-table",
+              "title": "Scores Culture G"
             }
           }
         ],
@@ -309,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie/Argentine.md",
+                "file": "Frises/Scores Culture G.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -351,8 +350,9 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
-    "Culture générale/Nelson Mandela.md",
+    "Frises/Base de données n°1.base",
     "Géographie/Argentine.md",
+    "Culture générale/Nelson Mandela.md",
     "Frises/Scores Culture G.base",
     "Vocabulaire/Douane.md",
     "Vocabulaire/Ontologie.md",
@@ -377,8 +377,6 @@
     "Culture générale/Dana Zátopková.md",
     "Culture générale/Black Jacques Brel.md",
     "Cinéma/Février.md",
-    "Vocabulaire/Troubleau.md",
-    "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",
