@@ -64,7 +64,7 @@ CONTEXT_CHARS = 700
 
 # 200 pour tester.
 # None pour traiter tout le coffre.
-MAX_FILES: Optional[int] = 200
+MAX_FILES: Optional[int] = 1000
 
 RANDOM_SAMPLE = True
 RANDOM_SEED = 42

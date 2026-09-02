@@ -1,38 +1,31 @@
 ---
-tags: 
+tags:
   - Sport
   - Roumanie
   - Années_2010
   - XXIe
 debut: 1998
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Glasgow Rangers
-indice_2 : 
+indice_2:
   - Roumanie
-indice_3 : 
+indice_3:
   - Milieu offensif
-indice_4 : 
-  - Gheorghe Hagi
-indice_5 : 
+indice_4:
+  - Hagi
+indice_5:
   - Football
-indice_6 : 
+indice_6:
   - Sélection nationale
-questions:
- - Quel ancien international roumain, surnommé le Maradona des Carpates, est le père de Ianis, qui évolue depuis 2020 aux Glasgow Rangers?
 culture_g_score: 27
-culture_g_justification: "Footballeur contemporain encore secondaire dans la culture générale et peu fréquent hors des quiz de football."
+culture_g_justification: Footballeur contemporain encore secondaire dans la culture générale et peu fréquent hors des quiz de football.
 ---
 ![Image de Ianis Hagi](https://upload.wikimedia.org/wikipedia/commons/d/db/Ianis_Hagi_-_Sweden_vs_Romania_23_March_2019_%28cropped%29.jpg)
 
 ###### Questions
 
-[[Ianis Hagi]] est l'ainé des enfants de [[Gheorghe Hagi]], l'un des meilleurs footballeurs roumains de tous les temps, qui a remporté la [[Coupe UEFA]] en [[2000]].
-
-Quel footballeur a marqué un but spectaculaire lors du match [[UEFA Europa League]] pour le [[Rangers Football Club]] contre [[Braga]] en [[2020]] ?
-
-Qui a été transféré au [[Rangers Football Club]] en [[2020]], après avoir été prêté par le [[KRC Genk]] ?
-
+Quel international roumain, fils du [[Maradona des Carpates]] Gheorghe, évolue depuis 2020 aux Glasgow Rangers?
 ###### Description
 
 [[Ianis Hagi]], né le 22 octobre 1998 à [[Constanța]], est un footballeur professionnel roumain évoluant au poste de milieu offensif. 

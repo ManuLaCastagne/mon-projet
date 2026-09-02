@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Frises/Scores Culture G.base",
+                "file": "Sciences/Charles Gordon.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,6 +185,34 @@
             }
           },
           {
+            "id": "6a88e6ad1f968656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sciences/Charles Gordon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Charles Gordon"
+            }
+          },
+          {
+            "id": "93afbda334fd23a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sport/Ianis Hagi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ianis Hagi"
+            }
+          },
+          {
             "id": "dcf8f0216f2a5c4b",
             "type": "leaf",
             "state": {
@@ -225,9 +253,23 @@
               "icon": "lucide-file",
               "title": "Louis de Montalte"
             }
+          },
+          {
+            "id": "4d4366008bc91803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sciences/Charles Gordon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Charles Gordon"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -351,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frises/Scores Culture G.base",
+                "file": "Sciences/Charles Gordon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -391,10 +433,14 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "ba4d54f4a77e7b4b",
+  "active": "4d4366008bc91803",
   "lastOpenFiles": [
-    "Vocabulaire/Décolonisation.md",
+    "Religion/Golgotha.md",
+    "Sciences/Charles Gordon.md",
     "Frises/Scores Culture G.base",
+    "Sport/Ianis Hagi.md",
+    "Culture générale/Maradona des Carpates.md",
+    "Vocabulaire/Décolonisation.md",
     "Culture générale/désert.md",
     "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
     "Culture générale/Louis de Montalte.md",
@@ -417,10 +463,6 @@
     "Frises/Histoire - Batailles.md",
     "Frises/Cinéma - Année.md",
     "Frises/Art - Gantt.md",
-    "Frises/Années 50 - Gantt.md",
-    "Cinéma/French.md",
-    "Culture générale/Ford T.md",
-    "Littérature/Au Bonheur des Dames.md",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",
