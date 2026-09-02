@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 84
 culture_g_justification: "Acteur central de la fin de la République romaine, relié à César, Cléopâtre, au triumvirat et à Actium."
 ---
+
 ![Image de Marc Antoine](https://upload.wikimedia.org/wikipedia/commons/0/04/Calmon%2C_Marc_Antoine%2C_par_Appert%2C_BNF_Gallica.jpg)
 
 ###### Questions
