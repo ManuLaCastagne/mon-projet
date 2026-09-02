@@ -13,7 +13,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 186
-      note.culture_g_score: 89
+      note.culture_g_score: 49
   - type: table
     name: Vue
     filters:
