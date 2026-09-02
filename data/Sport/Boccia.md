@@ -23,11 +23,12 @@ questions:
 culture_g_score: 48
 culture_g_justification: "Sport paralympique original et utile à connaître, mais encore peu fréquent dans les quiz généralistes."
 ---
+
 ![Image de Boccia](https://upload.wikimedia.org/wikipedia/commons/0/05/Boccia_Platz_%28Stadtpark_Deggendorf%29.jpg)
 
 ###### Questions
 
-Quel sport, inclus dans les [[Jeux Paralympiques]] depuis [[1984]], est pratiqué par des athlètes ayant un handicap moteur important?
+Quel sport, inclus dans les [[Jeux Paralympiques]] depuis [[1984]], est pratiqué par des athlètes ayant un handicap moteur important? <!-- score: 5 -->
 
 Quel sport de précision, jouable en individuel ou en équipe, a été inventé dans l'Italie du 4ème siècle avant notre ère mais est devenu une discipline paralympique moderne?
 
