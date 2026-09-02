@@ -24,8 +24,9 @@ indice_6 :
 questions:
  - En 1922, dans la toile "Au rendez-vous des amis", quel peintre allemand a inscrit les noms de plusieurs artistes...
  - En 1922, dans la toile "Au Rendez-vous des amis", quel peintre allemand figure différents artistes de son temps, tels André Breton ou Paul Eluard?
+culture_g_score: 67
+culture_g_justification: "Figure notable du dadaïsme et du surréalisme, offrant plusieurs liens artistiques mais restant moins incontournable que Dalí ou Picasso."
 ---
-
 ![Image de Max Ernst](https://upload.wikimedia.org/wikipedia/commons/8/87/Max_Ernst_1968.jpg)
 
 ###### Questions

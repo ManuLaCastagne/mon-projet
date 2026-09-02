@@ -20,8 +20,9 @@ indice_6 :
   - Sélection nationale
 questions:
  - Quel ancien international roumain, surnommé le Maradona des Carpates, est le père de Ianis, qui évolue depuis 2020 aux Glasgow Rangers?
+culture_g_score: 27
+culture_g_justification: "Footballeur contemporain encore secondaire dans la culture générale et peu fréquent hors des quiz de football."
 ---
-
 ![Image de Ianis Hagi](https://upload.wikimedia.org/wikipedia/commons/d/db/Ianis_Hagi_-_Sweden_vs_Romania_23_March_2019_%28cropped%29.jpg)
 
 ###### Questions

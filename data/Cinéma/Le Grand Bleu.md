@@ -20,8 +20,9 @@ indice_5 :
   - dauphins
 indice_6 : 
   - Enzo et Jacques
+culture_g_score: 76
+culture_g_justification: "Film culte du cinéma français, riche en liens avec Luc Besson, l'apnée, la musique, les acteurs et les lieux de tournage."
 ---
-
 ![Image de Le Grand Bleu](https://upload.wikimedia.org/wikipedia/commons/7/7f/Le_Grand_Bleu_Juneau.jpg)
 
 ###### Questions

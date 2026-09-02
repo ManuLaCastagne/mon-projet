@@ -20,8 +20,9 @@ indice_5:
   - Rouen
 indice_6:
   - Cathédrale
+culture_g_score: 100
+culture_g_justification: "Figure centrale de l'impressionnisme, liée à de nombreuses œuvres, lieux, techniques, influences et épisodes de l'histoire de l'art."
 ---
-
 ![Image de Claude Monet](https://upload.wikimedia.org/wikipedia/commons/1/1b/Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg)
 
 ###### Questions

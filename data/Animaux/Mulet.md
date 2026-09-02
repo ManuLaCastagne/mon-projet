@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de travail acharné
 questions:
  - Quel animal hybride est issu d'un âne et d'une jument ?
+culture_g_score: 64
+culture_g_justification: "Hybride animal classique, régulièrement mobilisé pour des questions de zoologie, d'agriculture et d'étymologie."
 ---
-
 ![Image de Mulet](https://upload.wikimedia.org/wikipedia/commons/5/54/Jaime_Mulet_%282018%29_4x3.jpg)
 
 ###### Questions

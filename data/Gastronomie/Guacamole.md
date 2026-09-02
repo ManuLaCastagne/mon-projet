@@ -1,3 +1,8 @@
+---
+culture_g_score: 68
+culture_g_justification: "Préparation mondialement connue, souvent reliée à l’avocat, au Mexique et aux habitudes alimentaires, mais rarement un marronnier majeur."
+---
+
 
 ###### Questions 
 

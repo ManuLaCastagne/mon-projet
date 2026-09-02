@@ -22,8 +22,9 @@ indice_6 :
   - Concord
 questions:
  - A quel écrivain américain du Culture_G/XIXe siècle, auteur de "Walden ou la Vie dans les bois", doit-on l'essai intitulé "De la marche"?
+culture_g_score: 68
+culture_g_justification: "Auteur central du transcendantalisme, rentable grâce à Walden, la désobéissance civile, l’écologie et l’influence politique de ses idées."
 ---
-
 ![Image de Henry David Thoreau](https://upload.wikimedia.org/wikipedia/commons/f/f0/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg)
 
 ###### Questions

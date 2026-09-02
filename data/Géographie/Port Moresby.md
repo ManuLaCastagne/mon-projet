@@ -22,8 +22,9 @@ indice_5 :
   - climat tropical avec une saison des pluies marquée
 indice_6 : 
   - célèbre pour ses marchés colorés et artisanat local
+culture_g_score: 48
+culture_g_justification: "Capitale d’un pays peu traité mais repérable par la Seconde Guerre mondiale et la géographie de l’Océanie."
 ---
-
 ![Image de Port Moresby](https://upload.wikimedia.org/wikipedia/commons/6/6a/Port_Moresby_Town2_Mschlauch.jpg)
 
 ![[Carte_Port Moresby.png]]

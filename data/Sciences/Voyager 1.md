@@ -18,8 +18,9 @@ indice_5 :
   - Vitesse de croisière
 indice_6 : 
   - Espace profond
+culture_g_score: 80
+culture_g_justification: "Sonde emblématique, rentable pour l’exploration spatiale, les planètes externes, l’espace interstellaire et le Golden Record."
 ---
-
 ![Image de Voyager 1](https://upload.wikimedia.org/wikipedia/commons/4/4f/Voyager_1_entering_heliosheath_region.jpg)
 
 ###### Questions

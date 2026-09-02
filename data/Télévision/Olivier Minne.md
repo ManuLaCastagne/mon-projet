@@ -19,8 +19,9 @@ indice_5 :
   - né en 1967
 indice_6 : 
   - Un safari de l'amour
+culture_g_score: 59
+culture_g_justification: "Animateur familier des jeux télévisés français, mais principalement pertinent dans un cadre médiatique assez étroit."
 ---
-
 ![Image de Olivier Minne](https://upload.wikimedia.org/wikipedia/commons/e/eb/Olivier_Minne_sur_Fort_Boyard_en_2007.jpg)
 
 ###### Questions

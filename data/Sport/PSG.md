@@ -20,8 +20,9 @@ indice_6 :
   - Paris Saint-Germain
 questions:
  - Après une longue domination de Montpellier, quel club a remporté 6 des 7 derniers titres de champion de France de handball masculin?
+culture_g_score: 92
+culture_g_justification: "Club français extrêmement médiatisé, régulièrement interrogé via son histoire, ses joueurs, ses titres et ses transferts."
 ---
-
 ![Image de PSG](https://upload.wikimedia.org/wikipedia/commons/3/3d/PSG-c.jpg)
 
 ###### Questions

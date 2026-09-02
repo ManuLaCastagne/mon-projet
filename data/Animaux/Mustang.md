@@ -15,10 +15,9 @@ indice_6 :
   - Symbole de liberté
 questions:
  - Quel cheval d'Amérique du Nord, descendant de chevaux espagnols, vivant de nos jours à l'état sauvage, fut un temps utilisé par les Indiens ?
+culture_g_score: 64
+culture_g_justification: "Cheval associé à l'Ouest américain et à l'histoire de la colonisation, avec plusieurs angles mais une fréquence modérée."
 ---
-
-
-
 ![Image de Mustang](https://upload.wikimedia.org/wikipedia/commons/3/3f/P-51_Mustang_edit1.jpg)
 
 ###### Questions

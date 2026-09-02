@@ -20,8 +20,9 @@ indice_6 :
   - canonisé par l'Église orthodoxe russe
 questions:
  - En 1242, quel prince de Novgorod bat les chevaliers Porte-Glaive sur les glaces du lac des Tchoudes?
+culture_g_score: 64
+culture_g_justification: "Prince russe important, associé à des batailles, à l’orthodoxie et aux œuvres d’Eisenstein et Prokofiev, mais moins fréquent que les grandes figures historiques."
 ---
-
 ![Image de Alexandre Nevski](https://upload.wikimedia.org/wikipedia/commons/5/5e/RUS-2016-Aerial-SPB-Alexander_Nevsky_Lavra.jpg)
 
 ###### Questions

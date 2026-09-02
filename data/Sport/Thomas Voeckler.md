@@ -20,9 +20,9 @@ indice_6 :
   - Commentateur TV
 questions:
  - Quel ancien cycliste a porté le maillot jaune pendant 10 jours sur le Tour de France en 2004 et 2011 ?
+culture_g_score: 73
+culture_g_justification: "Personnalité très rentable pour les questions françaises sur le Tour de France, le maillot jaune et le cyclisme."
 ---
-
-
 ![Image de Thomas Voeckler](https://upload.wikimedia.org/wikipedia/commons/9/99/Thomas_Voeckler_%282018%29.JPG)
 
 ###### Questions

@@ -14,8 +14,9 @@ indice_5 :
   - Écologie
 indice_6 : 
   - Nettoyage
+culture_g_score: 23
+culture_g_justification: "Verbe technique de gestion des plantes aquatiques, intéressant en vocabulaire mais très rarement interrogé."
 ---
-
 ![Image de Faucarder](https://upload.wikimedia.org/wikipedia/commons/f/fe/LL-Q150_%28fra%29-Lyoko%C3%AF-faucarder.wav)
 
 ###### Questions

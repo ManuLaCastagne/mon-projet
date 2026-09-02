@@ -22,8 +22,9 @@ indice_6 :
   - Les femmes de ses rêves
 questions:
  - Quels frères prénommé Bobby et Peter ont réalisé "Mary à tout prix", "Fous d'Irène" et "Les Femmes de ses rêves" ?
+culture_g_score: 60
+culture_g_justification: "Duo associé à plusieurs comédies célèbres et à un Oscar, avec une présence correcte mais non incontournable dans les quiz cinéma."
 ---
-
 ![Image de Frères Farrelly](https://upload.wikimedia.org/wikipedia/commons/b/b7/Peter_Farrelly_and_Bobby_Farrelly_at_the_2009_Tribeca_Film_Festival.jpg)
 
 ###### Questions

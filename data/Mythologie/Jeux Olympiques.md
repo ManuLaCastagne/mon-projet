@@ -18,9 +18,9 @@ indice_6:
   - Héros comme Héraclès étaient des participants légendaires
 questions:
   - Quel événement sportif a eu lieu pour la première fois au VIIIe siècle avant J.-C ?
+culture_g_score: 100
+culture_g_justification: "Institution sportive et historique absolument incontournable, couvrant l’Antiquité, le sport moderne, les pays, les champions et les symboles."
 ---
-
-
 ![Image de Jeux Olympiques](https://upload.wikimedia.org/wikipedia/commons/9/9b/Spyridis_-_Le_panorama_illustr%C3%A9_des_jeux_olympiques%2C_1895.png)
 
 ###### Questions

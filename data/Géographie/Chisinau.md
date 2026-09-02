@@ -22,9 +22,9 @@ indice_5 :
   - secteur vinicole important
 indice_6 : 
   - musée d'archéologie et d'histoire
+culture_g_score: 48
+culture_g_justification: "Capitale d’un État européen peu connu, utile pour les capitales et l’espace post-soviétique mais peu fréquente en dehors de ces thèmes."
 ---
-
-
 ![Image de Chisinau](https://upload.wikimedia.org/wikipedia/commons/5/5a/%D0%9C%D1%8D%D1%80%D0%B8%D1%8F%2C_%D0%9A%D0%B8%D1%88%D0%B8%D0%BD%D0%B5%D0%B2%2C_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D0%B0_Primaria%2C_Chisinau%2C_Republica_Moldova_City_Hall%2C_Chisinau%2C_Republic_of_Moldova_%2850714726236%29.jpg)
 
 ![[Carte_Chisinau.png]]

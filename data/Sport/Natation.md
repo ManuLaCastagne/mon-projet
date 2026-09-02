@@ -20,8 +20,9 @@ indice_6 :
   - piscine olympique
 questions:
  - J'ai été intégré dans les programmes scolaires. Considéré comme un sport complet qui fait travailler tous les muscles et qui s'avère utile à la rééducation, je peux nécessiter...
+culture_g_score: 92
+culture_g_justification: "Discipline olympique universellement connue, ouvrant sur les champions, les records, les techniques et l’histoire du sport."
 ---
-
 ![Image de Natation](https://upload.wikimedia.org/wikipedia/commons/e/e9/World_Aquatics_logo_2.svg)
 
 ###### Questions

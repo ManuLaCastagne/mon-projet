@@ -20,8 +20,9 @@ indice_6 :
   - Championnat du monde
 questions:
  - Dans quelle discipline Tony Estanguet est-il le seul français à avoir obtenu 3 médailles d'or dans 3 JO différents ?
+culture_g_score: 64
+culture_g_justification: "Sport olympique connu et régulièrement associé aux Jeux, mais moins central que les disciplines sportives majeures."
 ---
-
 ![Image de Canoë-kayak](https://upload.wikimedia.org/wikipedia/commons/b/bb/Aubeterre_16_Club_cano%C3%AB-kayak_2012.jpg)
 
 ###### Questions

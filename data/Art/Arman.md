@@ -24,9 +24,9 @@ indice_6 :
 questions:
  - Prenant la nationalité américaine en 1972, 12 ans après avoir été un des cofondateurs du groupe des Nouveaux Réalistes, mon pseudonyme est formé par mon prénom auquel j'ai ôté la lettre D. Auteur d'accumulations...
  - En 1982, quel artiste crée l'oeuvre "Long Term Parking", constituée d'automobiles empilées  sur 18 m de haut et prises dans du béton?
+culture_g_score: 47
+culture_g_justification: "Artiste important des Nouveaux Réalistes, mais relativement spécialisé et moins fréquent que les grandes figures de l'art moderne."
 ---
-
-
 ![Image de Arman](https://upload.wikimedia.org/wikipedia/commons/6/64/Arman_%281969%29.jpg)
 
 ###### Questions

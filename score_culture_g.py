@@ -8,12 +8,15 @@ en culture générale.
 
 Le script :
 - parcourt les fichiers Markdown du coffre ;
+- permet d'exclure certains dossiers ;
 - utilise le titre + un court extrait uniquement pour désambiguïser ;
 - demande à l'IA cinq sous-notes de 0 à 5 ;
 - calcule localement un score absolu sur 100 ;
 - conserve un cache permettant de reprendre après interruption ;
 - exporte un CSV trié par score ;
-- peut éventuellement écrire le score dans le frontmatter YAML.
+- peut écrire automatiquement le score + la justification
+  dans le frontmatter YAML de chaque fiche ;
+- sauvegarde les fichiers Markdown avant modification.
 
 IMPORTANT :
 Le score évalue le SUJET, pas la qualité ni la richesse de la fiche.
@@ -34,6 +37,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from pydantic import BaseModel, Field
 
+
 load_dotenv()
 
 
@@ -41,103 +45,98 @@ load_dotenv()
 # CONFIGURATION
 # ============================================================
 
-# Dossier contenant les fiches Markdown.
 VAULT_PATH = Path(__file__).parent / "data"
 
-# Modèle :
-# - gpt-5.6-luna  : économique, adapté aux gros volumes
-# - gpt-5.6-terra : compromis qualité / coût
-# - gpt-5.6-sol   : qualité maximale
 MODEL = "gpt-5.6-luna"
 
-# Numéro de version de la grille.
-#
-# IMPORTANT :
-# Si tu modifies fortement le prompt, les critères ou les pondérations,
-# change cette valeur (ex. "v3").
-#
-# Cela évite de mélanger dans le cache des scores provenant
-# d'anciennes méthodes de notation.
-SCORING_VERSION = "v2"
+# Change cette version dès que tu modifies fortement :
+# - le prompt
+# - les critères
+# - les pondérations
+SCORING_VERSION = "v3"
 
-# Nombre de fiches envoyées par appel API.
 BATCH_SIZE = 50
-
-# Nombre maximal de caractères de contexte pris dans chaque fiche.
-# Le contexte sert UNIQUEMENT à identifier précisément le sujet.
 CONTEXT_CHARS = 700
 
 # ============================================================
 # MODE TEST / ÉCHANTILLONNAGE
 # ============================================================
 
-# Pour tester :
-#   MAX_FILES = 200
-#
-# Pour traiter tout le coffre :
-#   MAX_FILES = None
+# 200 pour tester.
+# None pour traiter tout le coffre.
 MAX_FILES: Optional[int] = 200
 
-# Si True et MAX_FILES n'est pas None :
-# prend un échantillon aléatoire dans tout le coffre,
-# plutôt que les N premiers fichiers par ordre alphabétique.
-#
-# C'est fortement recommandé pour calibrer la grille.
 RANDOM_SAMPLE = True
-
-# Graine fixe afin que le même test de 200 fiches
-# retourne toujours les mêmes fichiers.
 RANDOM_SEED = 42
 
 
 # ============================================================
-# FICHIERS DE SORTIE
+# SORTIES
 # ============================================================
 
 OUTPUT_DIR = Path("culture_g_scoring")
 
-# On inclut la version dans les fichiers :
-# l'ancien cache ne sera donc PAS réutilisé avec la nouvelle grille.
-CACHE_FILE = OUTPUT_DIR / f"scores_cache_{SCORING_VERSION}.jsonl"
-CSV_FILE = OUTPUT_DIR / f"scores_culture_g_{SCORING_VERSION}.csv"
-ERROR_FILE = OUTPUT_DIR / f"erreurs_{SCORING_VERSION}.jsonl"
+CACHE_FILE = (
+    OUTPUT_DIR
+    / f"scores_cache_{SCORING_VERSION}.jsonl"
+)
 
-# Par défaut : aucune fiche Markdown n'est modifiée.
+CSV_FILE = (
+    OUTPUT_DIR
+    / f"scores_culture_g_{SCORING_VERSION}.csv"
+)
+
+ERROR_FILE = (
+    OUTPUT_DIR
+    / f"erreurs_{SCORING_VERSION}.jsonl"
+)
+
+
+# ============================================================
+# ÉCRITURE OBSIDIAN
+# ============================================================
+
 WRITE_SCORE_TO_YAML = True
 
-# Nom du champ ajouté au frontmatter YAML si activé.
 YAML_SCORE_FIELD = "culture_g_score"
 
-# Sauvegarde des Markdown avant modification.
-BACKUP_DIR = OUTPUT_DIR / f"backup_markdown_{SCORING_VERSION}"
+YAML_JUSTIFICATION_FIELD = (
+    "culture_g_justification"
+)
 
-# Nombre maximal de tentatives en cas d'erreur API.
+BACKUP_DIR = (
+    OUTPUT_DIR
+    / f"backup_markdown_{SCORING_VERSION}"
+)
+
+
+# ============================================================
+# API / RETRIES
+# ============================================================
+
 MAX_RETRIES = 6
 RETRY_BASE_SECONDS = 2
 
-# ============================================================
-
-# RÉPERTOIRES À EXCLURE DE L'ANALYSE
 
 # ============================================================
+# RÉPERTOIRES À EXCLURE
+# ============================================================
 
-# Noms de dossiers à ignorer, où qu'ils se trouvent dans le coffre.
-
-# Exemple : toute fiche située dans "Frises" sera ignorée.
+# Tout dossier portant exactement l'un de ces noms
+# sera ignoré, quel que soit son emplacement.
 
 EXCLUDED_DIRS = {
-
     "Frises",
     "Accroches personnelles",
     "Templates",
-    "Culture Générale",
-    "attachments"
-
+    "attachments",
 }
 
-# Chemins précis à exclure, relativement à VAULT_PATH.
+# ATTENTION :
+# Si tu ajoutes "Culture générale" ici,
+# TOUT ce dossier sera ignoré.
 
-# Utile si tu veux exclure un dossier uniquement à un emplacement donné.
+# Pour exclure uniquement un chemin précis :
 
 EXCLUDED_PATHS = {
     # "Culture générale/Personnel",
@@ -146,7 +145,7 @@ EXCLUDED_PATHS = {
 
 
 # ============================================================
-# GRILLE DE NOTATION
+# PROMPT
 # ============================================================
 
 SYSTEM_PROMPT = """
@@ -231,17 +230,11 @@ Il ne suffit pas que le mot soit compris ou que l'objet soit familier dans
 la vie quotidienne.
 
 0 = pratiquement inconnu hors d'un cercle extrêmement spécialisé
-
 1 = surtout connu des spécialistes ou des amateurs avertis
-
 2 = reconnaissable par une personne cultivée, mais peu connu du grand public
-
 3 = référence bien établie de culture générale
-
 4 = très grande référence, connue d'une large majorité du public
-
 5 = référence universellement célèbre et culturellement incontournable
-
 
 ATTENTION :
 
@@ -270,25 +263,12 @@ C'EST LE CRITERE LE PLUS IMPORTANT.
 Ne récompense PAS simplement la fréquence du domaine auquel appartient
 le sujet.
 
-Exemple :
-
-Le corps humain est un thème fréquent.
-
-Cela ne signifie pas que "artère fémorale", "péricarde", "pisiforme",
-"muscle soléaire" ou "creux poplité" soient des sujets fréquents.
-
 0 = pratiquement jamais rencontré dans un quiz généraliste
-
 1 = question très spécialisée ou exceptionnelle
-
 2 = peut apparaître occasionnellement
-
 3 = sujet assez classique des quiz de culture générale
-
 4 = revient régulièrement sous plusieurs formulations
-
 5 = marronnier majeur de culture générale, extrêmement fréquent
-
 
 La note 5 doit être réservée à une petite minorité de sujets réellement
 incontournables.
@@ -304,54 +284,18 @@ interrogé.
 Il faut compter des familles de questions réellement différentes,
 et non plusieurs variantes d'une même question.
 
-Exemples de portes d'entrée possibles :
-
-- histoire
-- géographie
-- littérature
-- cinéma
-- télévision
-- musique
-- sciences
-- politique
-- arts
-- sport
-- langue
-- étymologie
-- religion
-- mythologie
-- économie
-- société
-- inventions
-- biographies
-- œuvres
-- événements historiques
-- récompenses
-- culture populaire
-
-
 0 = pratiquement un seul fait ou une seule question possible
-
 1 = sujet extrêmement étroit
-
 2 = quelques questions ou angles proches
-
 3 = plusieurs angles réellement distincts
-
 4 = nombreuses portes d'entrée indépendantes
-
 5 = sujet exceptionnellement transversal permettant un très grand nombre
     de questions différentes
-
 
 ATTENTION :
 
 Plusieurs détails appartenant tous au même petit domaine ne constituent pas
 une forte transversalité.
-
-Par exemple, connaître l'emplacement, la fonction, la vascularisation et
-les pathologies d'un organe reste essentiellement un seul domaine :
-l'anatomie / médecine.
 
 
 ============================================================
@@ -361,32 +305,18 @@ CRITERE 4 — IMPORTANCE
 Évalue l'importance historique, scientifique, artistique, intellectuelle,
 géographique, politique, sportive ou culturelle intrinsèque du sujet.
 
-La question est :
-
-"Quelle place ce sujet occupe-t-il dans un socle solide de culture générale ?"
-
-
 0 = aucune importance générale identifiable
-
 1 = importance très locale, secondaire, anecdotique ou spécialisée
-
 2 = intérêt réel mais périphérique
-
 3 = sujet significatif dans son domaine et utile en culture générale
-
 4 = sujet majeur ayant laissé une trace importante
-
 5 = sujet fondamental dans l'histoire ou la culture générale mondiale
     ou francophone
-
 
 ATTENTION :
 
 Être extrêmement important dans une spécialité étroite ne suffit PAS
 à obtenir 5.
-
-Une structure anatomique essentielle à la survie humaine n'est pas
-automatiquement une connaissance fondamentale de culture générale.
 
 La note doit refléter la place du sujet dans une culture générale large.
 
@@ -398,32 +328,44 @@ CRITERE 5 — RENDEMENT_APPRENTISSAGE
 Évalue à quel point apprendre QUELQUES INFORMATIONS SIMPLES sur ce sujet
 permet ensuite de répondre à plusieurs questions différentes.
 
-Ce critère mesure le rendement du temps consacré à son apprentissage.
-
-
 0 = connaissance presque isolée, très peu réutilisable
-
 1 = rendement très faible ; essentiellement un fait précis
-
 2 = quelques utilisations possibles
-
 3 = apprentissage rentable
-
 4 = très rentable ; quelques repères permettent de résoudre de nombreuses
     questions
-
 5 = rendement exceptionnel ; sujet extrêmement structurant ouvrant l'accès
     à de très nombreuses connaissances
 
 
+============================================================
+REGLE DE DISCRIMINATION DES NOTES 4 ET 5
+============================================================
+
+Ne produis PAS mécaniquement des profils homogènes du type 4/4/4/4/4.
+
+Chaque critère doit être évalué indépendamment.
+
+La note 4 signifie déjà que le sujet se situe nettement au-dessus de la
+moyenne des connaissances de culture générale.
+
+Pour un coffre contenant plusieurs dizaines de milliers de sujets :
+
+- la majorité des sujets utiles doivent recevoir des 2 ou des 3 ;
+- 4 doit être réservé aux sujets clairement très forts sur le critère ;
+- 5 doit être exceptionnel.
+
+Un bon sujet classique de culture générale n'a PAS automatiquement 4 partout.
+
 Exemples :
 
-Un petit os, une artère précise ou un terme médical technique peut être
-scientifiquement parfaitement valide mais avoir un rendement de 0 ou 1.
-
-À l'inverse, connaître une grande personnalité historique, une grande œuvre,
-un pays, un mouvement artistique ou un événement majeur peut donner accès
-à de très nombreux repères et obtenir 4 ou 5.
+- une grande ville étrangère connue peut avoir une notoriété de 4 mais une
+  fréquence quiz de seulement 3 ;
+- un acteur connu peut avoir une notoriété de 4 mais une importance de 2 ou 3 ;
+- une édition précise des Jeux olympiques peut être intéressante mais sa
+  transversalité reste souvent limitée ;
+- un pays connu n'est pas automatiquement un sujet fréquent à 4 ;
+- une œuvre connue n'est pas automatiquement une œuvre majeure à 4.
 
 
 ============================================================
@@ -434,8 +376,6 @@ TU DOIS ETRE SEVERE.
 
 Les scores ne doivent surtout pas se concentrer artificiellement entre
 60 et 90.
-
-Repères intuitifs pour le score final qui sera calculé ensuite :
 
 90-100
 = connaissances absolument incontournables
@@ -457,26 +397,14 @@ Repères intuitifs pour le score final qui sera calculé ensuite :
 0-19
 = sujets très obscurs, anecdotiques ou extrêmement spécialisés
 
-
 Il doit être difficile d'atteindre 80.
 
 Il doit être EXCEPTIONNEL d'atteindre 90.
-
-Un sujet ne doit JAMAIS dépasser 90 simplement parce qu'il est :
-- scientifiquement fondamental ;
-- médicalement important ;
-- très connu dans la vie quotidienne ;
-- important dans sa spécialité ;
-- durable dans le temps ;
-- ou artificiellement raccordable à plusieurs thèmes.
 
 
 ============================================================
 EXEMPLES DE CALIBRATION
 ============================================================
-
-Ces exemples servent uniquement à comprendre l'échelle.
-Ils ne constituent pas des notes imposées.
 
 NAPOLEON BONAPARTE
 Sujet extrêmement célèbre, omniprésent dans les quiz, historique,
@@ -517,23 +445,15 @@ Sujet important et rentable, mais qui ne doit PAS automatiquement approcher
 
 HYPOPHYSE
 Notion classique de culture scientifique mais relativement spécialisée.
-Elle ne doit pas être notée comme une connaissance incontournable.
 
 ROTULE
-Terme connu du grand public et susceptible d'apparaître en anatomie ou en
-médecine, mais avec relativement peu d'angles indépendants.
-Une forte notoriété quotidienne ne suffit pas à produire un score élevé.
+Terme connu du grand public mais avec relativement peu d'angles indépendants.
 
 PERICARDE
 Terme anatomique utile mais spécialisé.
-Fréquence et rendement généraliste limités.
 
 PISIFORME
 Petit os du carpe très spécialisé.
-Faible priorité d'apprentissage généraliste.
-
-UN TERME MEDICAL EXTREMEMENT RARE
-Doit pouvoir obtenir des 0 et des 1 et finir très près du bas de l'échelle.
 
 
 ============================================================
@@ -556,30 +476,21 @@ en culture générale ?"
 
 
 ============================================================
-JUSTIFICATION
-============================================================
-
-Pour chaque sujet, donne UNE SEULE PHRASE très concise.
-
-Elle doit principalement expliquer :
-- pourquoi le sujet est rentable ou non ;
-- sa fréquence probable dans les quiz ;
-- ou ce qui limite sa note.
-
-La justification doit être factuelle.
-Elle ne doit pas simplement reformuler les cinq notes.
-
 REGLE SUR LES HOMONYMES ET TITRES AMBIGUS
+============================================================
 
 Évalue UNIQUEMENT le sujet identifié par le chemin et le contexte fournis.
 
 N'ajoute jamais des points grâce à d'autres sens du titre.
 
 Exemples :
+
 - une fiche intitulée "Wellington" ne doit pas cumuler automatiquement
-  la capitale de Nouvelle-Zélande, le duc de Wellington et le plat.
+  la capitale de Nouvelle-Zélande, le duc de Wellington et le plat ;
+
 - une fiche "French" située dans Cinéma doit être évaluée comme l'œuvre
-  précise identifiée par son contexte, pas comme l'ensemble du cinéma français.
+  précise identifiée par son contexte, pas comme l'ensemble du cinéma français ;
+
 - une fiche "Anne" ne doit pas être évaluée comme l'ensemble des personnes
   historiques portant ce prénom.
 
@@ -587,10 +498,28 @@ Si le contexte permet d'identifier une œuvre ou une personne précise,
 ignore complètement les homonymes.
 
 
+============================================================
+JUSTIFICATION
+============================================================
+
+Pour chaque sujet, donne UNE SEULE PHRASE très concise.
+
+Elle doit principalement expliquer :
+
+- pourquoi le sujet est rentable ou non ;
+- sa fréquence probable dans les quiz ;
+- ou ce qui limite sa note.
+
+La justification doit être factuelle.
+Elle ne doit pas simplement reformuler les cinq notes.
+
+
 IMPORTANT :
+
 Ne calcule PAS toi-même le score final sur 100.
 
 Retourne uniquement :
+
 - les cinq sous-notes entières de 0 à 5 ;
 - la justification.
 """
@@ -606,37 +535,26 @@ class SubjectScore(BaseModel):
     notoriete: int = Field(
         ge=0,
         le=5,
-        description="Notoriété comme référence de culture générale."
     )
 
     frequence_quiz: int = Field(
         ge=0,
         le=5,
-        description=(
-            "Probabilité que le sujet précis soit directement utile "
-            "dans un quiz généraliste."
-        )
     )
 
     transversalite: int = Field(
         ge=0,
         le=5,
-        description="Nombre d'angles indépendants de questionnement."
     )
 
     importance: int = Field(
         ge=0,
         le=5,
-        description="Importance dans un socle général de culture générale."
     )
 
     rendement_apprentissage: int = Field(
         ge=0,
         le=5,
-        description=(
-            "Rentabilité de l'apprentissage de quelques faits simples "
-            "sur ce sujet."
-        )
     )
 
     justification: str
@@ -647,7 +565,7 @@ class BatchScores(BaseModel):
 
 
 # ============================================================
-# TYPES INTERNES
+# TYPE INTERNE
 # ============================================================
 
 @dataclass
@@ -664,14 +582,16 @@ class Fiche:
 # ============================================================
 
 FRONTMATTER_RE = re.compile(
-    r"\A---\s*\n.*?\n---\s*(?:\n|$)",
+    r"\A---\s*\r?\n.*?\r?\n---\s*(?:\r?\n|$)",
     flags=re.DOTALL,
 )
 
 
 def read_text(path: Path) -> str:
     try:
-        return path.read_text(encoding="utf-8")
+        return path.read_text(
+            encoding="utf-8"
+        )
     except UnicodeDecodeError:
         return path.read_text(
             encoding="utf-8",
@@ -680,19 +600,20 @@ def read_text(path: Path) -> str:
 
 
 def strip_frontmatter(text: str) -> str:
-    return FRONTMATTER_RE.sub("", text, count=1)
+    return FRONTMATTER_RE.sub(
+        "",
+        text,
+        count=1,
+    )
 
 
-def clean_context(text: str, max_chars: int) -> str:
-    """
-    Produit un court extrait destiné UNIQUEMENT à identifier
-    ou désambiguïser le sujet.
+def clean_context(
+    text: str,
+    max_chars: int,
+) -> str:
 
-    La richesse de ce texte ne doit jamais influencer la note.
-    """
     text = strip_frontmatter(text)
 
-    # Retire les blocs de code.
     text = re.sub(
         r"```.*?```",
         " ",
@@ -700,29 +621,24 @@ def clean_context(text: str, max_chars: int) -> str:
         flags=re.DOTALL,
     )
 
-    # Retire les images Obsidian.
     text = re.sub(
         r"!\[\[[^\]]+\]\]",
         " ",
         text,
     )
 
-    # Retire les images Markdown.
     text = re.sub(
         r"!\[[^\]]*\]\([^)]+\)",
         " ",
         text,
     )
 
-    # Transforme [[Victor Hugo]] en Victor Hugo
-    # et [[Victor Hugo|Hugo]] en Hugo.
     text = re.sub(
         r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]",
         lambda m: m.group(2) or m.group(1),
         text,
     )
 
-    # Retire les titres Markdown.
     text = re.sub(
         r"^#+\s*",
         "",
@@ -730,14 +646,12 @@ def clean_context(text: str, max_chars: int) -> str:
         flags=re.MULTILINE,
     )
 
-    # Retire quelques marqueurs Markdown.
     text = re.sub(
         r"[*_>`~]",
         " ",
         text,
     )
 
-    # Compacte les espaces.
     text = re.sub(
         r"\s+",
         " ",
@@ -747,66 +661,105 @@ def clean_context(text: str, max_chars: int) -> str:
     return text[:max_chars]
 
 
-def list_fiches(vault_path: Path) -> list[Fiche]:
-    """
-    Liste les fichiers Markdown du coffre.
+# ============================================================
+# EXCLUSIONS
+# ============================================================
 
-    Si RANDOM_SAMPLE=True et MAX_FILES est renseigné,
-    tire un échantillon aléatoire reproductible dans tout le coffre.
-    """
-    if not vault_path.exists():
-        raise FileNotFoundError(
-            f"Le coffre n'existe pas : {vault_path}\n"
-            "Modifie VAULT_PATH en haut du script."
+def is_excluded(
+    path: Path,
+    vault_path: Path,
+) -> bool:
+
+    relative = path.relative_to(
+        vault_path
+    )
+
+    # Exclusion par nom de dossier.
+    if any(
+        part in EXCLUDED_DIRS
+        for part in relative.parts[:-1]
+    ):
+        return True
+
+    relative_posix = (
+        relative.as_posix()
+    )
+
+    # Exclusion par chemin précis.
+    for excluded_path in EXCLUDED_PATHS:
+
+        excluded_path = (
+            excluded_path.strip("/")
         )
 
-    def is_excluded(path: Path, vault_path: Path) -> bool:
-        relative = path.relative_to(vault_path)
-
-        # Exclusion par nom de répertoire, à n'importe quel niveau.
-        if any(part in EXCLUDED_DIRS for part in relative.parts[:-1]):
+        if (
+            relative_posix.startswith(
+                excluded_path + "/"
+            )
+            or relative_posix
+            == excluded_path
+        ):
             return True
 
-        # Exclusion par chemin précis.
-        relative_posix = relative.as_posix()
+    return False
 
-        for excluded_path in EXCLUDED_PATHS:
-            excluded_path = excluded_path.strip("/")
 
-            if (
-                relative_posix.startswith(excluded_path + "/")
-                or relative_posix == excluded_path
-            ):
-                return True
+# ============================================================
+# LISTE DES FICHES
+# ============================================================
 
-        return False
+def list_fiches(
+    vault_path: Path,
+) -> list[Fiche]:
 
+    if not vault_path.exists():
+        raise FileNotFoundError(
+            f"Le coffre n'existe pas : {vault_path}"
+        )
 
     paths = sorted(
         p
         for p in vault_path.rglob("*.md")
         if ".obsidian" not in p.parts
-        and not is_excluded(p, vault_path)
+        and not is_excluded(
+            p,
+            vault_path,
+        )
     )
 
     total_available = len(paths)
 
-    if MAX_FILES is not None and MAX_FILES < len(paths):
+    if (
+        MAX_FILES is not None
+        and MAX_FILES < len(paths)
+    ):
         if RANDOM_SAMPLE:
-            rng = random.Random(RANDOM_SEED)
-            paths = rng.sample(paths, MAX_FILES)
 
-            # On retrie ensuite pour garder un ordre stable
-            # dans les logs et les IDs.
+            rng = random.Random(
+                RANDOM_SEED
+            )
+
+            paths = rng.sample(
+                paths,
+                MAX_FILES,
+            )
+
             paths = sorted(paths)
+
         else:
             paths = paths[:MAX_FILES]
 
     fiches: list[Fiche] = []
 
     for i, path in enumerate(paths):
+
         text = read_text(path)
-        relative = str(path.relative_to(vault_path))
+
+        relative = (
+            path.relative_to(
+                vault_path
+            ).as_posix()
+        )
 
         fiches.append(
             Fiche(
@@ -822,32 +775,20 @@ def list_fiches(vault_path: Path) -> list[Fiche]:
         )
 
     print(
-        f"📚 {total_available} fichiers Markdown disponibles "
-        f"dans le coffre."
+        f"📚 {total_available} fichiers Markdown "
+        "disponibles après exclusions."
     )
 
     return fiches
 
 
 # ============================================================
-# CALCUL DU SCORE
+# SCORE FINAL
 # ============================================================
 
-def calculate_score(item: SubjectScore) -> int:
-    """
-    Calcule un score absolu sur 100.
-
-    Pondérations :
-
-    - notoriété                20 %
-    - fréquence quiz           40 %
-    - transversalité           15 %
-    - importance               20 %
-    - rendement apprentissage   5 %
-
-    La fréquence en quiz est volontairement dominante :
-    notre objectif est la rentabilité pour un joueur généraliste.
-    """
+def calculate_score(
+    item: SubjectScore,
+) -> int:
 
     weighted_0_to_5 = (
         item.notoriete * 0.20
@@ -857,20 +798,17 @@ def calculate_score(item: SubjectScore) -> int:
         + item.rendement_apprentissage * 0.05
     )
 
-    return round(weighted_0_to_5 * 20)
+    return round(
+        weighted_0_to_5 * 20
+    )
 
 
 # ============================================================
-# CACHE / REPRISE
+# CACHE
 # ============================================================
 
 def load_cache() -> dict[str, dict]:
-    """
-    Charge les résultats déjà calculés.
 
-    Le cache est indexé par chemin relatif et non par titre,
-    afin de gérer les éventuels doublons de noms.
-    """
     results: dict[str, dict] = {}
 
     if not CACHE_FILE.exists():
@@ -882,6 +820,7 @@ def load_cache() -> dict[str, dict]:
     ) as f:
 
         for line in f:
+
             line = line.strip()
 
             if not line:
@@ -890,22 +829,26 @@ def load_cache() -> dict[str, dict]:
             try:
                 row = json.loads(line)
 
-                # Protection supplémentaire :
-                # ignore une entrée provenant d'une autre grille.
-                if row.get("scoring_version") != SCORING_VERSION:
+                if (
+                    row.get(
+                        "scoring_version"
+                    )
+                    != SCORING_VERSION
+                ):
                     continue
 
-                results[row["relative_path"]] = row
+                results[
+                    row["relative_path"]
+                ] = row
 
             except Exception:
-                # Une dernière ligne partielle après crash
-                # ne bloque pas la reprise.
                 continue
 
     return results
 
 
 def append_cache(row: dict) -> None:
+
     with CACHE_FILE.open(
         "a",
         encoding="utf-8",
@@ -923,6 +866,7 @@ def append_cache(row: dict) -> None:
 
 
 def log_error(data: dict) -> None:
+
     with ERROR_FILE.open(
         "a",
         encoding="utf-8",
@@ -938,22 +882,24 @@ def log_error(data: dict) -> None:
 
 
 # ============================================================
-# APPEL API
+# API
 # ============================================================
 
-def build_batch_input(batch: list[Fiche]) -> str:
-    """
-    Prépare le lot envoyé au modèle.
-    """
+def build_batch_input(
+    batch: list[Fiche],
+) -> str:
+
     payload = []
 
     for fiche in batch:
+
         payload.append(
             {
                 "id": fiche.id,
                 "titre": fiche.title,
                 "chemin": fiche.relative_path,
-                "contexte_desambiguïsation": fiche.context,
+                "contexte_desambiguïsation":
+                    fiche.context,
             }
         )
 
@@ -977,28 +923,38 @@ def score_batch(
     batch: list[Fiche],
 ) -> list[SubjectScore]:
 
-    input_text = build_batch_input(batch)
+    input_text = build_batch_input(
+        batch
+    )
 
     expected_ids = {
         fiche.id
         for fiche in batch
     }
 
-    last_error: Optional[Exception] = None
+    last_error: Optional[
+        Exception
+    ] = None
 
     for attempt in range(
         1,
         MAX_RETRIES + 1,
     ):
+
         try:
-            response = client.responses.parse(
-                model=MODEL,
-                instructions=SYSTEM_PROMPT,
-                input=input_text,
-                text_format=BatchScores,
+
+            response = (
+                client.responses.parse(
+                    model=MODEL,
+                    instructions=SYSTEM_PROMPT,
+                    input=input_text,
+                    text_format=BatchScores,
+                )
             )
 
-            parsed = response.output_parsed
+            parsed = (
+                response.output_parsed
+            )
 
             if parsed is None:
                 raise RuntimeError(
@@ -1010,8 +966,15 @@ def score_batch(
                 for item in parsed.scores
             }
 
-            missing = expected_ids - returned_ids
-            extra = returned_ids - expected_ids
+            missing = (
+                expected_ids
+                - returned_ids
+            )
+
+            extra = (
+                returned_ids
+                - expected_ids
+            )
 
             if missing or extra:
                 raise RuntimeError(
@@ -1020,7 +983,10 @@ def score_batch(
                     f"supplémentaires={sorted(extra)}"
                 )
 
-            if len(parsed.scores) != len(returned_ids):
+            if (
+                len(parsed.scores)
+                != len(returned_ids)
+            ):
                 raise RuntimeError(
                     "La réponse contient des IDs dupliqués."
                 )
@@ -1028,32 +994,44 @@ def score_batch(
             return parsed.scores
 
         except Exception as exc:
+
             last_error = exc
 
-            if attempt == MAX_RETRIES:
+            if (
+                attempt
+                == MAX_RETRIES
+            ):
                 break
 
             wait = (
                 RETRY_BASE_SECONDS
-                * (2 ** (attempt - 1))
+                * (
+                    2
+                    ** (
+                        attempt - 1
+                    )
+                )
             )
 
             print(
                 f"  ⚠️ Échec API "
-                f"{attempt}/{MAX_RETRIES}: {exc}\n"
-                f"     Nouvelle tentative dans {wait}s..."
+                f"{attempt}/{MAX_RETRIES}: "
+                f"{exc}\n"
+                f"     Nouvelle tentative "
+                f"dans {wait}s..."
             )
 
             time.sleep(wait)
 
     raise RuntimeError(
-        f"Échec du lot après {MAX_RETRIES} tentatives : "
+        f"Échec du lot après "
+        f"{MAX_RETRIES} tentatives : "
         f"{last_error}"
     )
 
 
 # ============================================================
-# EXPORT CSV
+# CSV
 # ============================================================
 
 CSV_FIELDS = [
@@ -1069,6 +1047,19 @@ CSV_FIELDS = [
     "model",
     "scoring_version",
 ]
+
+
+def filter_results(
+    results: dict[str, dict],
+    allowed_paths: set[str],
+) -> dict[str, dict]:
+
+    return {
+        path: row
+        for path, row
+        in results.items()
+        if path in allowed_paths
+    }
 
 
 def export_csv(
@@ -1097,157 +1088,265 @@ def export_csv(
         writer.writeheader()
 
         for row in rows:
+
             writer.writerow(
                 {
-                    field: row.get(field, "")
-                    for field in CSV_FIELDS
+                    field: row.get(
+                        field,
+                        "",
+                    )
+                    for field
+                    in CSV_FIELDS
                 }
             )
 
 
 # ============================================================
-# ECRITURE YAML OPTIONNELLE
+# YAML / OBSIDIAN
 # ============================================================
 
-def set_yaml_scalar(
-    text: str,
-    field: str,
-    value: int,
+def yaml_string(
+    value: str,
 ) -> str:
-    """
-    Met à jour ou ajoute un champ YAML TOP-LEVEL simple.
 
-    Exemple :
-
-        culture_g_score: 82
-    """
-
-    field_re = re.compile(
-        rf"(?m)^{re.escape(field)}\s*:\s*.*$"
+    return json.dumps(
+        str(value),
+        ensure_ascii=False,
     )
+
+
+def update_frontmatter_fields(
+    path: Path,
+    score: int,
+    justification: str,
+) -> None:
+
+    text = read_text(path)
+
+    values = {
+        YAML_SCORE_FIELD:
+            str(int(score)),
+
+        YAML_JUSTIFICATION_FIELD:
+            yaml_string(
+                justification.strip()
+            ),
+    }
+
+    # --------------------------------------------------------
+    # Frontmatter existant
+    # --------------------------------------------------------
 
     if (
         text.startswith("---\n")
         or text.startswith("---\r\n")
     ):
+
         match = re.match(
-            r"\A---\s*\n(.*?)\n---\s*(\n|$)",
+            r"\A---\s*\r?\n"
+            r"(.*?)"
+            r"\r?\n---\s*"
+            r"(?:\r?\n|$)",
             text,
             flags=re.DOTALL,
         )
 
         if not match:
             raise ValueError(
-                "Frontmatter YAML mal formé."
+                f"Frontmatter YAML mal formé : "
+                f"{path}"
             )
 
-        yaml_body = match.group(1)
-        ending = match.group(2)
-
-        if field_re.search(yaml_body):
-            yaml_body = field_re.sub(
-                f"{field}: {value}",
-                yaml_body,
-            )
-
-        else:
-            if (
-                yaml_body
-                and not yaml_body.endswith("\n")
-            ):
-                yaml_body += "\n"
-
-            yaml_body += (
-                f"{field}: {value}"
-            )
-
-        rest = text[match.end():]
-
-        return (
-            f"---\n"
-            f"{yaml_body}\n"
-            f"---{ending}"
-            f"{rest}"
+        yaml_body = (
+            match.group(1)
         )
 
-    return (
-        f"---\n"
-        f"{field}: {value}\n"
-        f"---\n\n"
-        f"{text}"
+        rest = (
+            text[match.end():]
+        )
+
+        for (
+            field,
+            yaml_value,
+        ) in values.items():
+
+            field_re = re.compile(
+                rf"(?m)^"
+                rf"{re.escape(field)}"
+                rf"\s*:.*$"
+            )
+
+            new_line = (
+                f"{field}: "
+                f"{yaml_value}"
+            )
+
+            if field_re.search(
+                yaml_body
+            ):
+
+                yaml_body = (
+                    field_re.sub(
+                        lambda _:
+                            new_line,
+                        yaml_body,
+                    )
+                )
+
+            else:
+
+                if yaml_body:
+                    yaml_body += "\n"
+
+                yaml_body += new_line
+
+        new_text = (
+            "---\n"
+            f"{yaml_body}\n"
+            "---\n"
+        )
+
+        if rest:
+            new_text += (
+                rest.lstrip(
+                    "\r\n"
+                )
+            )
+
+    # --------------------------------------------------------
+    # Pas de frontmatter
+    # --------------------------------------------------------
+
+    else:
+
+        new_text = (
+            "---\n"
+            f"{YAML_SCORE_FIELD}: "
+            f"{int(score)}\n"
+            f"{YAML_JUSTIFICATION_FIELD}: "
+            f"{yaml_string(justification.strip())}\n"
+            "---\n\n"
+            f"{text}"
+        )
+
+    path.write_text(
+        new_text,
+        encoding="utf-8",
     )
 
 
 def write_scores_to_yaml(
-    fiches_by_relative_path: dict[str, Fiche],
     results: dict[str, dict],
 ) -> None:
 
-    print(
-        "\nÉcriture des scores "
-        "dans les fiches Markdown..."
+    if not WRITE_SCORE_TO_YAML:
+        return
+
+    BACKUP_DIR.mkdir(
+        parents=True,
+        exist_ok=True,
     )
 
-    for relative_path, row in results.items():
+    written = 0
+    errors = 0
 
-        fiche = fiches_by_relative_path.get(
-            relative_path
+    for (
+        relative_path,
+        row,
+    ) in results.items():
+
+        fiche_path = (
+            VAULT_PATH
+            / relative_path
         )
 
-        if fiche is None:
-            continue
+        if not fiche_path.exists():
 
-        source = fiche.path
-        backup = BACKUP_DIR / relative_path
-
-        backup.parent.mkdir(
-            parents=True,
-            exist_ok=True,
-        )
-
-        if not backup.exists():
-            shutil.copy2(
-                source,
-                backup,
+            print(
+                "⚠️ Fichier introuvable : "
+                f"{fiche_path}"
             )
 
-        original = read_text(source)
+            errors += 1
+            continue
 
-        modified = set_yaml_scalar(
-            original,
-            YAML_SCORE_FIELD,
-            int(row["score"]),
-        )
+        try:
 
-        if modified != original:
-            source.write_text(
-                modified,
-                encoding="utf-8",
+            # Backup original
+            backup_path = (
+                BACKUP_DIR
+                / relative_path
+            )
+
+            backup_path.parent.mkdir(
+                parents=True,
+                exist_ok=True,
+            )
+
+            if not backup_path.exists():
+
+                shutil.copy2(
+                    fiche_path,
+                    backup_path,
+                )
+
+            # Écriture
+            update_frontmatter_fields(
+                path=fiche_path,
+                score=int(
+                    row["score"]
+                ),
+                justification=row.get(
+                    "justification",
+                    "",
+                ),
+            )
+
+            written += 1
+
+        except Exception as exc:
+
+            errors += 1
+
+            print(
+                f"❌ Impossible de modifier "
+                f"{relative_path} : "
+                f"{exc}"
             )
 
     print(
-        "✅ Sauvegardes Markdown : "
+        f"\n📝 {written} fiches "
+        "mises à jour dans Obsidian."
+    )
+
+    print(
+        f"💾 Backups : "
         f"{BACKUP_DIR.resolve()}"
     )
 
+    if errors:
+
+        print(
+            f"⚠️ {errors} fiche(s) "
+            "non modifiée(s)."
+        )
+
 
 # ============================================================
-# STATISTIQUES FINALES
+# STATISTIQUES
 # ============================================================
 
 def print_score_distribution(
     results: dict[str, dict],
 ) -> None:
-    """
-    Affiche rapidement la distribution des scores.
-    Très utile pour vérifier que la grille n'est pas trop généreuse.
-    """
+
     if not results:
         return
 
     scores = [
         row["score"]
-        for row in results.values()
+        for row
+        in results.values()
     ]
 
     buckets = {
@@ -1262,32 +1361,50 @@ def print_score_distribution(
     for score in scores:
 
         if score >= 90:
-            buckets["90-100"] += 1
+            buckets[
+                "90-100"
+            ] += 1
 
         elif score >= 75:
-            buckets["75-89"] += 1
+            buckets[
+                "75-89"
+            ] += 1
 
         elif score >= 60:
-            buckets["60-74"] += 1
+            buckets[
+                "60-74"
+            ] += 1
 
         elif score >= 40:
-            buckets["40-59"] += 1
+            buckets[
+                "40-59"
+            ] += 1
 
         elif score >= 20:
-            buckets["20-39"] += 1
+            buckets[
+                "20-39"
+            ] += 1
 
         else:
-            buckets["0-19"] += 1
+            buckets[
+                "0-19"
+            ] += 1
 
-    print("\nDistribution des scores :")
+    print(
+        "\nDistribution des scores :"
+    )
 
     total = len(scores)
 
-    for label, count in buckets.items():
+    for (
+        label,
+        count,
+    ) in buckets.items():
+
         percentage = (
-            count / total * 100
-            if total
-            else 0
+            count
+            / total
+            * 100
         )
 
         print(
@@ -1297,11 +1414,13 @@ def print_score_distribution(
         )
 
     print(
-        f"\nScore minimum : {min(scores)}"
+        f"\nScore minimum : "
+        f"{min(scores)}"
     )
 
     print(
-        f"Score maximum : {max(scores)}"
+        f"Score maximum : "
+        f"{max(scores)}"
     )
 
     print(
@@ -1311,7 +1430,7 @@ def print_score_distribution(
 
 
 # ============================================================
-# PROGRAMME PRINCIPAL
+# MAIN
 # ============================================================
 
 def main() -> None:
@@ -1321,81 +1440,94 @@ def main() -> None:
         exist_ok=True,
     )
 
-    if WRITE_SCORE_TO_YAML:
-        BACKUP_DIR.mkdir(
-            parents=True,
-            exist_ok=True,
-        )
+    if not os.getenv(
+        "OPENAI_API_KEY"
+    ):
 
-    if not os.getenv("OPENAI_API_KEY"):
         raise RuntimeError(
             "OPENAI_API_KEY n'est pas défini.\n\n"
-            "Vérifie que ton fichier .env contient par exemple :\n"
+            "Vérifie ton fichier .env :\n"
             'OPENAI_API_KEY="sk-..."\n'
         )
 
-    print("==========================================")
-    print("SCORING CULTURE GENERALE")
-    print("==========================================")
-
     print(
-        f"Grille : {SCORING_VERSION}"
+        "=========================================="
     )
 
     print(
-        f"Modèle : {MODEL}"
+        "SCORING CULTURE GENERALE"
     )
 
-    print("\nLecture du coffre...")
+    print(
+        "=========================================="
+    )
+
+    print(
+        f"Grille : "
+        f"{SCORING_VERSION}"
+    )
+
+    print(
+        f"Modèle : "
+        f"{MODEL}"
+    )
+
+    print(
+        "\nLecture du coffre..."
+    )
 
     fiches = list_fiches(
         VAULT_PATH
     )
 
     if not fiches:
+
         print(
             "Aucune fiche Markdown trouvée."
         )
+
         return
 
     print(
         f"✅ {len(fiches)} fiches "
-        "sélectionnées pour ce lancement."
+        "sélectionnées."
     )
 
     if (
         MAX_FILES is not None
         and RANDOM_SAMPLE
     ):
+
         print(
-            "🎲 Échantillonnage aléatoire activé "
+            "🎲 Échantillonnage "
             f"(seed={RANDOM_SEED})."
         )
-
-    cache = load_cache()
-
-    print(
-        f"✅ {len(cache)} fiches déjà "
-        "présentes dans le cache de cette grille."
-    )
 
     selected_paths = {
         fiche.relative_path
         for fiche in fiches
     }
 
-    # On ne considère comme "faites" que les fiches
-    # appartenant à la sélection actuelle.
-    cached_selected = {
-        path: row
-        for path, row in cache.items()
-        if path in selected_paths
-    }
+    cache = load_cache()
+
+    cached_selected = (
+        filter_results(
+            cache,
+            selected_paths,
+        )
+    )
+
+    print(
+        f"✅ {len(cached_selected)} fiches "
+        "de cette sélection sont déjà "
+        "dans le cache."
+    )
 
     remaining = [
         fiche
         for fiche in fiches
-        if fiche.relative_path not in cache
+        if fiche.relative_path
+        not in cache
     ]
 
     print(
@@ -1408,188 +1540,253 @@ def main() -> None:
         f"{BATCH_SIZE}"
     )
 
-    client = OpenAI()
+    # --------------------------------------------------------
+    # Si tout est déjà en cache, inutile d'appeler l'API.
+    # --------------------------------------------------------
 
-    total_batches = (
-        len(remaining)
-        + BATCH_SIZE
-        - 1
-    ) // BATCH_SIZE
+    if remaining:
 
-    for batch_index, start in enumerate(
-        range(
-            0,
-            len(remaining),
-            BATCH_SIZE,
-        ),
-        start=1,
-    ):
+        client = OpenAI()
 
-        batch = remaining[
-            start:start + BATCH_SIZE
-        ]
+        total_batches = (
+            len(remaining)
+            + BATCH_SIZE
+            - 1
+        ) // BATCH_SIZE
 
-        print(
-            f"\nLot {batch_index}/{total_batches} "
-            f"({len(batch)} fiches)"
-        )
+        for (
+            batch_index,
+            start,
+        ) in enumerate(
+            range(
+                0,
+                len(remaining),
+                BATCH_SIZE,
+            ),
+            start=1,
+        ):
 
-        try:
-            scores = score_batch(
-                client,
-                batch,
+            batch = remaining[
+                start:
+                start + BATCH_SIZE
+            ]
+
+            print(
+                f"\nLot "
+                f"{batch_index}/"
+                f"{total_batches} "
+                f"({len(batch)} fiches)"
             )
 
-            fiches_by_id = {
-                fiche.id: fiche
-                for fiche in batch
-            }
+            try:
 
-            for item in scores:
+                scores = score_batch(
+                    client,
+                    batch,
+                )
 
-                fiche = fiches_by_id[
-                    item.id
-                ]
-
-                row = {
-                    "title": fiche.title,
-                    "relative_path": fiche.relative_path,
-                    "score": calculate_score(item),
-
-                    "notoriete": item.notoriete,
-                    "frequence_quiz": item.frequence_quiz,
-                    "transversalite": item.transversalite,
-                    "importance": item.importance,
-
-                    "rendement_apprentissage":
-                        item.rendement_apprentissage,
-
-                    "justification":
-                        item.justification.strip(),
-
-                    "model": MODEL,
-                    "scoring_version":
-                        SCORING_VERSION,
+                fiches_by_id = {
+                    fiche.id: fiche
+                    for fiche
+                    in batch
                 }
 
-                append_cache(row)
+                for item in scores:
 
-                cache[
-                    fiche.relative_path
-                ] = row
+                    fiche = (
+                        fiches_by_id[
+                            item.id
+                        ]
+                    )
 
-            # Régénère le CSV après chaque lot.
-            export_csv(cache)
+                    row = {
+                        "title":
+                            fiche.title,
 
-            done_selected = sum(
-                1
-                for fiche in fiches
-                if fiche.relative_path in cache
-            )
+                        "relative_path":
+                            fiche.relative_path,
 
-            print(
-                f"✅ Lot enregistré. "
-                f"{done_selected}/{len(fiches)} "
-                "fiches de la sélection scorées."
-            )
+                        "score":
+                            calculate_score(
+                                item
+                            ),
 
-        except KeyboardInterrupt:
+                        "notoriete":
+                            item.notoriete,
 
-            print(
-                "\n⏹️ Arrêt demandé. "
-                "Le cache est conservé."
-            )
+                        "frequence_quiz":
+                            item.frequence_quiz,
 
-            export_csv(cache)
-            return
+                        "transversalite":
+                            item.transversalite,
 
-        except Exception as exc:
+                        "importance":
+                            item.importance,
 
-            print(
-                f"❌ Lot impossible : {exc}"
-            )
+                        "rendement_apprentissage":
+                            item.rendement_apprentissage,
 
-            log_error(
-                {
-                    "batch_index":
-                        batch_index,
+                        "justification":
+                            item.justification.strip(),
 
-                    "files": [
+                        "model":
+                            MODEL,
+
+                        "scoring_version":
+                            SCORING_VERSION,
+                    }
+
+                    append_cache(row)
+
+                    cache[
                         fiche.relative_path
-                        for fiche in batch
-                    ],
+                    ] = row
 
-                    "error":
-                        str(exc),
+                # CSV uniquement avec
+                # la sélection actuelle.
+                export_csv(
+                    filter_results(
+                        cache,
+                        selected_paths,
+                    )
+                )
 
-                    "model":
-                        MODEL,
+                done_selected = sum(
+                    1
+                    for fiche
+                    in fiches
+                    if fiche.relative_path
+                    in cache
+                )
 
-                    "scoring_version":
-                        SCORING_VERSION,
-                }
-            )
+                print(
+                    f"✅ Lot enregistré. "
+                    f"{done_selected}/"
+                    f"{len(fiches)} fiches."
+                )
 
-            print(
-                "Le lot a été consigné dans "
-                f"{ERROR_FILE.name}. "
-                "Le script continue avec le lot suivant."
-            )
+            except KeyboardInterrupt:
 
-    export_csv(cache)
+                print(
+                    "\n⏹️ Arrêt demandé. "
+                    "Le cache est conservé."
+                )
 
-    # Statistiques uniquement sur les fiches
-    # correspondant au test / lancement actuel.
-    current_results = {
-        path: row
-        for path, row in cache.items()
-        if path in selected_paths
-    }
+                export_csv(
+                    filter_results(
+                        cache,
+                        selected_paths,
+                    )
+                )
+
+                return
+
+            except Exception as exc:
+
+                print(
+                    f"❌ Lot impossible : "
+                    f"{exc}"
+                )
+
+                log_error(
+                    {
+                        "batch_index":
+                            batch_index,
+
+                        "files": [
+                            fiche.relative_path
+                            for fiche
+                            in batch
+                        ],
+
+                        "error":
+                            str(exc),
+
+                        "model":
+                            MODEL,
+
+                        "scoring_version":
+                            SCORING_VERSION,
+                    }
+                )
+
+                print(
+                    "Le lot a été consigné "
+                    f"dans {ERROR_FILE.name}."
+                )
+
+    # --------------------------------------------------------
+    # Résultats actuels
+    # --------------------------------------------------------
+
+    current_results = (
+        filter_results(
+            cache,
+            selected_paths,
+        )
+    )
+
+    export_csv(
+        current_results
+    )
 
     print_score_distribution(
         current_results
     )
 
-    print("\n==========================================")
-    print("TERMINÉ")
-    print("==========================================")
-
-    print(
-        f"CSV   : {CSV_FILE.resolve()}"
-    )
-
-    print(
-        f"Cache : {CACHE_FILE.resolve()}"
-    )
-
-    if ERROR_FILE.exists():
-        print(
-            "Erreurs éventuelles : "
-            f"{ERROR_FILE.resolve()}"
-        )
+    # --------------------------------------------------------
+    # Injection Obsidian
+    # --------------------------------------------------------
 
     if WRITE_SCORE_TO_YAML:
 
-        fiches_by_relative_path = {
-            fiche.relative_path: fiche
-            for fiche in fiches
-        }
+        print(
+            "\nInjection dans les "
+            "fiches Obsidian..."
+        )
 
         write_scores_to_yaml(
-            fiches_by_relative_path,
-            current_results,
+            current_results
         )
 
     else:
+
         print(
             "\nLes fichiers Markdown "
             "n'ont PAS été modifiés."
         )
 
+    # --------------------------------------------------------
+    # Fin
+    # --------------------------------------------------------
+
+    print(
+        "\n=========================================="
+    )
+
+    print(
+        "TERMINÉ"
+    )
+
+    print(
+        "=========================================="
+    )
+
+    print(
+        f"CSV   : "
+        f"{CSV_FILE.resolve()}"
+    )
+
+    print(
+        f"Cache : "
+        f"{CACHE_FILE.resolve()}"
+    )
+
+    if ERROR_FILE.exists():
+
         print(
-            "Après contrôle du CSV, passe "
-            "WRITE_SCORE_TO_YAML = True "
-            "si tu veux injecter les scores."
+            "Erreurs éventuelles : "
+            f"{ERROR_FILE.resolve()}"
         )
 
 

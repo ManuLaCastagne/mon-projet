@@ -20,8 +20,9 @@ indice_5 :
   - 007
 indice_6 : 
   - Le Nom de la rose
+culture_g_score: 84
+culture_g_justification: "Interprète historique de James Bond et acteur oscarisé, offrant de nombreux angles sur le cinéma britannique et hollywoodien."
 ---
-
 ![Image de Sean Connery](https://upload.wikimedia.org/wikipedia/commons/d/d9/Sean_Connery_as_James_Bond_at_Switzerland_1964_%28two_thirds_crop%29.jpg)
 
 ###### Questions

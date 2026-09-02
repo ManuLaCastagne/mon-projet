@@ -13,8 +13,9 @@ indice_5:
   - Pin pignon
 indice_6:
   - Production de pignons comestibles
+culture_g_score: 47
+culture_g_justification: "Arbre méditerranéen reconnaissable et lié aux pignons, mais d'intérêt quiz assez limité."
 ---
-
 ![Image de Pin parasol](https://upload.wikimedia.org/wikipedia/commons/4/4c/Pin_parasol%26tuteur_FR_2012.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - né en 1922
 questions:
  - En 1995, littérature, quel écrivain portugais évoque un pays en proie à une épidémie foudroyante de cécité dans le roman "L'Aveuglement"?
+culture_g_score: 64
+culture_g_justification: "Prix Nobel portugais associé à plusieurs romans célèbres et à des débats religieux et politiques, mais moins fréquent dans les quiz généralistes."
 ---
-
 ![Image de José Saramago](https://upload.wikimedia.org/wikipedia/commons/5/5c/JSJoseSaramago.jpg)
 
 ###### Questions

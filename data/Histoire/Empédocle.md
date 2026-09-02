@@ -20,8 +20,9 @@ indice_6 :
   - a étudié la nature et le cosmos
 questions:
  - Au Ve siècle avant notre ère, quel philosophe grec né à Grigente décrivit le feu comme un des 4 éléments ?
+culture_g_score: 60
+culture_g_justification: "Présocratique classique, surtout mobilisé pour les quatre éléments, la transmigration des âmes et sa mort légendaire."
 ---
-
 ![Image de Empédocle](https://upload.wikimedia.org/wikipedia/commons/a/a6/Empedocles-4.jpg)
 
 ###### Questions

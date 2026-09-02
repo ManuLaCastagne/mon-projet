@@ -20,8 +20,9 @@ indice_6 :
   - Jeux Olympiques
 questions:
  - En 2004, quelle boxeuse française est la première à être championne du monde ?
+culture_g_score: 31
+culture_g_justification: "Pionnière importante de la boxe féminine française, mais très peu présente dans les quiz généralistes."
 ---
-
 ![Image de Myriam Lamare](https://upload.wikimedia.org/wikipedia/commons/7/7c/The_centurion%3B_a_romance_of_the_time_of_the_Messiah_.._%28IA_centurionromance00rout%29.pdf)
 
 ###### Questions

@@ -14,8 +14,9 @@ indice_5 :
   - Pyrénées-Atlantiques
 indice_6 : 
   - Côte basque
+culture_g_score: 23
+culture_g_justification: "Commune française secondaire, principalement pertinente pour une question de géographie locale ou de toponymie."
 ---
-
 ![Image de Boucau](https://upload.wikimedia.org/wikipedia/commons/3/3c/France_Boucau_Bois.jpg)
 
 ###### Questions

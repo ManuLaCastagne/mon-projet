@@ -24,8 +24,9 @@ indice_6 :
   - famille Borromeo
 questions:
  - Quel groupe de 4 îles situées sur le Lac Majeur au nord de l'Italie…
+culture_g_score: 40
+culture_g_justification: "Archipel touristique notable du lac Majeur, mais rarement interrogé au-delà de sa localisation et de l’Isola Bella."
 ---
-
 ![Image de Îles Borromées](https://upload.wikimedia.org/wikipedia/commons/0/00/Grand_Hotel_des_iles_borromees_Facciata_02.jpg)
 
 ![[Carte_Îles Borromées.png]]

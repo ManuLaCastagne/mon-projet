@@ -22,8 +22,9 @@ indice_6 :
   - comédie policière
 questions:
  - Compromis dans des trafics. J.-P. Belmondo y incarne un membre de la police des polices, aux méthodes spéciales.  Film dont le titre évoque...
+culture_g_score: 44
+culture_g_justification: "Film français populaire lié à Belmondo et Lautner, mais offrant peu d'angles indépendants hors du cinéma français."
 ---
-
 ![Image de Flic ou voyou](https://upload.wikimedia.org/wikipedia/commons/c/c5/FredUrbain_VFVV_cczero20151108.pdf)
 
 ###### Questions

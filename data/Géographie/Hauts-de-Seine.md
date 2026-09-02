@@ -24,9 +24,9 @@ indice_6 :
   - département 92
 questions:
  - De quel département français, dont le chef-lieu est Nanterre, les Altoséquanais sont les habitants ?
+culture_g_score: 52
+culture_g_justification: "Département francilien associé à La Défense, Nanterre et plusieurs repères architecturaux, mais d’importance générale intermédiaire."
 ---
-
-
 ![Image de Hauts-de-Seine](https://upload.wikimedia.org/wikipedia/commons/1/10/Hauts-de-Seine_l%C3%A9gislatives_1981.svg)
 
 ![[Carte_Hauts-de-Seine.png]]

@@ -19,8 +19,9 @@ indice_5:
 indice_6:
   - abolition des droits féodaux
 date: 1789-08-04
+culture_g_score: 77
+culture_g_justification: "Épisode central de la Révolution française, fréquemment demandé pour l’abolition des privilèges et des droits féodaux."
 ---
-
 ![Image de Nuit du 4 août](https://upload.wikimedia.org/wikipedia/commons/f/ff/Nuit_du_4_ao%C3%BBt_1789_abolition_of_the_privileges.jpg)
 
 ###### Questions

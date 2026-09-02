@@ -14,8 +14,9 @@ indice_5 :
   - Michel-Ange
 indice_6 : 
   - Rembrandt
+culture_g_score: 3
+culture_g_justification: "Néologisme extrêmement obscur et dépourvu de référence culturelle générale solidement établie."
 ---
-
 ![Image de Troubleau](https://upload.wikimedia.org/wikipedia/commons/9/9f/A_simple_plankton_net.jpg)
 
 ###### Questions

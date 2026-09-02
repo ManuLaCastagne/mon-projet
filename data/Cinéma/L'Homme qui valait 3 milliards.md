@@ -22,8 +22,9 @@ indice_6 :
   - homme bionique
 questions:
  - Quelle série américaine, diffusée en France dès 1975, mettait en scène un homme doté de prothèses bioniques nommé Steve Austin?
+culture_g_score: 60
+culture_g_justification: "Série de science-fiction télévisée emblématique, utile pour des questions sur la télévision, les personnages et la culture populaire."
 ---
-
 ![Image de L'Homme qui valait 3 milliards](https://upload.wikimedia.org/wikipedia/commons/d/d9/The_Six_Million_Dollar_Man_-_NBC_logo.svg)
 
 ###### Questions

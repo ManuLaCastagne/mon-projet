@@ -22,8 +22,9 @@ indice_5 :
   - Adriatique
 indice_6 : 
   - Mont Dajti
+culture_g_score: 64
+culture_g_justification: "Capitale européenne bien identifiable, utile pour les Balkans, l’histoire communiste et la géographie politique de l’Albanie."
 ---
-
 ![Image de Tirana](https://upload.wikimedia.org/wikipedia/commons/0/06/Torre_del_Reloj%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_08.JPG)
 
 ![[Carte_Tirana.png]]

@@ -19,8 +19,9 @@ indice_6 :
   - symbole de la guérison
 questions:
  - Quel dieu grec de la Médecine est le fils d'Apollon et de la nymphe Coronis?
+culture_g_score: 64
+culture_g_justification: "Figure majeure de la médecine mythologique, reliée à Apollon, Chiron, Épidaure, au Serpentaire et au symbole médical."
 ---
-
 ![Image de Asclépios](https://upload.wikimedia.org/wikipedia/commons/6/62/Asclepios_Logo_rond.png)
 
 ###### Questions

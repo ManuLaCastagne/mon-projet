@@ -20,8 +20,9 @@ indice_6 :
   - cuisine à domicile
 questions:
  - Emission diffusée pour la 1re fois le 21 mars 2020, je me déroule en direct pendant une cinquantaine de minutes. En grande partie tournée dans l'appartement de mon animateur, je montre en duplex des familles, des célébrités, et l'animateur Jérôme Anthony.
+culture_g_score: 57
+culture_g_justification: "Émission très associée au confinement et à Cyril Lignac, avec une fréquence correcte mais des angles limités."
 ---
-
 ![Image de Tous en cuisine](https://upload.wikimedia.org/wikipedia/commons/0/0a/Tous_en_cuisine_Reims_1552520.jpg)
 
 ###### Questions

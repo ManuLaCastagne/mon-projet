@@ -24,9 +24,9 @@ indice_6 :
   - ville de Lons-le-Saunier
 questions:
  - Quel département du centre-est de la France, dont la préfecture est Lons-le-Saunier abrite le village de Ney dont les habitants sont les Calins ?
+culture_g_score: 68
+culture_g_justification: "Nom à plusieurs dimensions géographiques et administratives, relié aux montagnes, au Comté, à l’histoire régionale et à la France."
 ---
-
-
 ![Image de Jura](https://upload.wikimedia.org/wikipedia/commons/0/09/Jura_l%C3%A9gislatives_1981.svg)
 
 ![[Carte_Jura.png]]

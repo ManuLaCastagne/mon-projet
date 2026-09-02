@@ -15,8 +15,9 @@ indice_6:
   - Décoration florale
 questions:
   - A mon coeur jaune et à mes nombreux pétales blancs, longs et étroits.
+culture_g_score: 51
+culture_g_justification: "Fleur extrêmement familière, mais sa notoriété quotidienne se traduit peu en questions de culture générale rentables."
 ---
-
 ![Image de Marguerite](https://upload.wikimedia.org/wikipedia/commons/1/12/Marguerite_Durand_1910_-_Restoration.jpg)
 
 ###### Questions

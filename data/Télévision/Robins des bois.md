@@ -18,6 +18,8 @@ indice_5 :
   - Canal+
 indice_6 : 
   - Kad et Olivier
+culture_g_score: 47
+culture_g_justification: "Troupe humoristique française connue des amateurs de télévision et de cinéma, mais désormais peu centrale dans les quiz."
 ---
 ![[Pasted image 20250531082855.png]]
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Éléments du groupe 18
 questions:
  - Quel gaz rare émet une couleur rougeâtre, largement utilisée pour les signes publicitaires lorsqu'il éclaire les tubes...
+culture_g_score: 77
+culture_g_justification: "Élément chimique très connu grâce aux enseignes lumineuses, aux gaz nobles et à son numéro atomique, avec plusieurs usages quiz."
 ---
-
 ![Image de Néon](https://upload.wikimedia.org/wikipedia/commons/4/46/Neon_discharge_tube.jpg)
 
 ###### Questions

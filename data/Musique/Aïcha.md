@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Tube français de l'année 96  composé par Jean-Jacques Goldman pour un autre artiste, j'ai connu des adaptations en polonais, en hébreu ou encore...
  - En 1996, quel prénom féminin arabe constituait le titre d'une chanson interprétée par Khaled?
+culture_g_score: 73
+culture_g_justification: "Chanson très connue reliant Khaled, Jean-Jacques Goldman, les Victoires de la musique et la musique populaire francophone."
 ---
-
 ![Image de Aïcha](https://upload.wikimedia.org/wikipedia/commons/9/95/Verant_Hof_V%C3%B6lser_Aicha_Eingangst%C3%BCr.jpg)
 
 ###### Questions

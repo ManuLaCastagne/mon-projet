@@ -22,9 +22,9 @@ indice_6 :
   - film musical
 questions:
  - En 1977, quel film avec John Travolta a popularisé la mode du disco…
+culture_g_score: 80
+culture_g_justification: "Film marquant du disco et de la culture populaire, reliant cinéma, musique, danse, John Travolta et les années 1970."
 ---
-
-
 ![Image de La Fièvre du Samedi Soir](https://upload.wikimedia.org/wikipedia/commons/c/c1/-SATURDAY_NIGHT_FEVER-_MIAMI_-_panoramio.jpg)
 
 ###### Questions

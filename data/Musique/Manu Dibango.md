@@ -22,8 +22,9 @@ indice_6 :
   - collaboration avec Michael Jackson
 questions:
  - En 1972, quel saxophoniste et chanteur camerounais contribue au développement de la world music avec le titre "Soul Makossa"?
+culture_g_score: 71
+culture_g_justification: "Musicien africain majeur, utile pour Soul Makossa, le saxophone, l’afro-jazz et l’influence exercée sur la pop internationale."
 ---
-
 ![Image de Manu Dibango](https://upload.wikimedia.org/wikipedia/commons/5/57/LesEscales2019ManuDibango_03_%28cropped%29.jpg)
 
 ###### Questions

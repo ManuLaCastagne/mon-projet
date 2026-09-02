@@ -20,8 +20,9 @@ indice_6 :
   - Hagar
 questions:
  - Dans la Bible, quel personnage, femme d'Abraham, devient mère à l'âge de 90 ans?
+culture_g_score: 88
+culture_g_justification: "Matriarche biblique incontournable, mobilisable dans la Genèse, les religions abrahamiques, Abraham et la naissance miraculeuse d’Isaac."
 ---
-
 ![Image de Sarah](https://upload.wikimedia.org/wikipedia/commons/7/76/Sarah_Abraham.jpg)
 
 ###### Questions

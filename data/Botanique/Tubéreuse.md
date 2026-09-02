@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée en parfumerie pour son parfum envoûtant
 questions:
  - Quelle plante à bulbe, dont le nom est issu du latin signifiant plein de bosses, est cultivée pour ses grappes de fleurs blanches à l'odeur pénétrante?
+culture_g_score: 43
+culture_g_justification: "Fleur intéressante pour la parfumerie et son origine, mais peu fréquente comme sujet autonome de quiz."
 ---
-
 ![Image de Tubéreuse](https://upload.wikimedia.org/wikipedia/commons/5/54/Tuberous_sclerosis_presentation.webp)
 
 ###### Questions

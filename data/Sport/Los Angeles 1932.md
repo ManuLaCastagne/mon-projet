@@ -20,11 +20,9 @@ indice_5 :
   - Grande Dépression impactant l'économie
 indice_6 : 
   - innovations technologiques et infrastructurelles
+culture_g_score: 60
+culture_g_justification: "Édition olympique marquée par la Grande Dépression et plusieurs innovations, mais moins incontournable que d’autres Jeux."
 ---
-
-
-
-
 ![Image de Los Angeles 1932](https://upload.wikimedia.org/wikipedia/commons/6/6b/The_Mummy_1932_film_poster.jpg)
 
 ###### Questions

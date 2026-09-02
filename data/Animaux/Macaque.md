@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de malice
 questions:
  - Mesurant environ 50 cm de long, je suis répandu en Asie, de l'Inde jusqu'au Géographie/Japon, ainsi qu'en Afrique du Nord. Vivant à la lisière… Des forêts, en société hiérarchisée, je suis représenté par une espèce dite rhésus…
+culture_g_score: 67
+culture_g_justification: "Primate connu grâce à plusieurs espèces et faits culturels ou comportementaux, mais moins prioritaire que les grands animaux emblématiques."
 ---
-
 ![Image de Macaque](https://upload.wikimedia.org/wikipedia/commons/1/16/SL_Bundala_NP_asv2020-01_img30.jpg)
 
 ###### Questions

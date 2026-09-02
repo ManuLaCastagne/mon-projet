@@ -20,8 +20,9 @@ indice_6 :
   - 16 août
 questions:
  - Quel Saint fêté le 16 août est invoqué contre les maladies contagieuses ?
+culture_g_score: 60
+culture_g_justification: "Saint populaire associé à la peste, Montpellier, son chien et les corporations médicales, mais d’importance surtout religieuse et légendaire."
 ---
-
 ![Image de Saint-Roch](https://upload.wikimedia.org/wikipedia/commons/b/bc/Man_walking_through_the_Saint_Roch_neighborhood%2C_Quebec_City%2C_Province_of_Quebec%2C_Canada.jpg)
 
 ###### Questions

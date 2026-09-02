@@ -20,8 +20,9 @@ indice_6 :
   - Santé intestinale
 questions:
  - Quelle bactérie, désignée par un mot latin signifiant fendu en 2...
+culture_g_score: 44
+culture_g_justification: "Terme connu par les produits laitiers et les probiotiques, mais relevant surtout d’une référence commerciale et biologique limitée."
 ---
-
 ![Image de Bifidus](https://upload.wikimedia.org/wikipedia/commons/3/35/Bifidobacterium_adolescentis_Gram.jpg)
 
 ###### Questions

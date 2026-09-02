@@ -20,8 +20,9 @@ indice_5 :
   - Very Bad Trip
 indice_6 : 
   - acteur et réalisateur américain
+culture_g_score: 64
+culture_g_justification: "Acteur populaire associé à plusieurs films à succès, mais sa place en culture générale reste surtout cinématographique."
 ---
-
 ![Image de Bradley Cooper](https://upload.wikimedia.org/wikipedia/commons/4/47/Bradley_Cooper_2023_%28cropped%29.jpg)
 
 ###### Questions

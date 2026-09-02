@@ -20,8 +20,9 @@ indice_6 :
   - proche de Napoléon Bonaparte
 questions:
  - Qui était surnommé "le brave des braves" en 1815 parce qu'il ne voulait pas qu'on bande ses yeux pendant son exécution ?
+culture_g_score: 72
+culture_g_justification: "Maréchal emblématique de Napoléon, régulièrement associé à la retraite de Russie, Waterloo et son exécution."
 ---
-
 ![Image de Michel Ney](https://upload.wikimedia.org/wikipedia/commons/3/30/Carri%C3%A8re_Michel_Ney_socle_statue.jpg)
 
 ###### Questions

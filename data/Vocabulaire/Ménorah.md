@@ -16,8 +16,9 @@ indice_6 :
   - Knesset
 questions:
  - Dites-moi maintenant par quel terme hébreu désigne-t-on le chandelier à 7 branches...Constituant l'un des principaux objets du culte hébraïque ?
+culture_g_score: 88
+culture_g_justification: "Symbole majeur du judaïsme et d’Israël, au croisement de la religion, de l’Antiquité, de l’histoire romaine et de l’art."
 ---
-
 ![Image de Ménorah](https://upload.wikimedia.org/wikipedia/commons/c/c7/Menorah_Drachten.jpg)
 
 ###### Questions

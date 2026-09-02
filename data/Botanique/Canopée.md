@@ -15,8 +15,9 @@ indice_6 :
   - Étude cruciale en écologie forestière
 questions:
  - Type d'écosystème auquel les scientifiques ont accès sur la station de recherche des Nouragues, en Guyane, grâce à l'équipement appelé COPAS, je forme une strate de plusieurs mètres d'épaisseur.  Très dense mais laissant parfois passer des arbres émergents, je suis en contact direct avec les rayons du soleil à plusieurs dizaines de mètres...
+culture_g_score: 52
+culture_g_justification: "Notion écologique connue et exploitable sur les forêts tropicales et la biodiversité, sans désigner une espèce précise."
 ---
-
 ![Image de Canopée](https://upload.wikimedia.org/wikipedia/commons/2/25/Canop%C3%A9e_%28ship%2C_2022%29.jpg)
 
 ###### Questions

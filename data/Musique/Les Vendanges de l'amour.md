@@ -22,8 +22,9 @@ indice_6 :
   - Chanson Française
 questions:
  - En allemand et en espagnol. Chanson de Marie Laforêt dont les paroles disent notamment  "Oui, la vie toujours rassemble malgré tout ceux qui se quittent un jour", je commence par les mots  "Nous les referons..."
+culture_g_score: 44
+culture_g_justification: "Succès ancien associé à Marie Laforêt, dont la notoriété ne se traduit que rarement par des questions variées."
 ---
-
 ![Image de Les Vendanges de l'amour](https://upload.wikimedia.org/wikipedia/commons/f/f5/Sade_-_Les_crimes_de_l%27amour%2C_Nouvelles_h%C3%A9ro%C3%AFques_et_tragiques%2C_tome_4%2C_1799.djvu)
 
 ###### Questions

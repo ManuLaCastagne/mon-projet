@@ -20,8 +20,9 @@ indice_6 :
   - années 1960
 questions:
  - Quel ancien international français et ancien consultant rugby à la télévision fut surnommé Monsieur Drop ou Bala ?
+culture_g_score: 48
+culture_g_justification: "Figure classique du rugby français et du commentaire sportif, mais à fréquence limitée dans les quiz généralistes."
 ---
-
 ![Image de Pierre Albaladejo](https://upload.wikimedia.org/wikipedia/commons/0/08/Pierre_Albaladejo_2015-04-04_002.jpg)
 
 ###### Questions

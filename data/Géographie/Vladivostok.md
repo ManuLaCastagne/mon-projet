@@ -23,8 +23,9 @@ indice_6 :
   - baie de l'Amour
 questions:
  - Quelle ville baignée par la mer du Japon, terminus du Transsibérien, est la plus importante...
+culture_g_score: 68
+culture_g_justification: "Ville russe emblématique par le Pacifique, le Transsibérien, la Flotte du Pacifique et sa proximité avec la Chine et la Corée."
 ---
-
 ![Image de Vladivostok](https://upload.wikimedia.org/wikipedia/commons/a/a9/Vladivostok_TSR.JPG)
 
 ![[Carte_Vladivostok.png]]

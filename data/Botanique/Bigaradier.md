@@ -15,8 +15,9 @@ indice_6:
   - Production d'huiles essentielles et de marmelade
 questions:
   - Quel arbre, ayant longtemps été le principal porte-greffe des différentes espèces d'agrumes, produit un fruit également appelé orange amère?
+culture_g_score: 40
+culture_g_justification: "Arbre utile pour distinguer orange amère, agrumes et fleur d'oranger, mais rarement prioritaire en botanique générale."
 ---
-
 ![Image de Bigaradier](https://upload.wikimedia.org/wikipedia/commons/2/2e/Citrus_aurantium.jpg)
 
 ###### Questions

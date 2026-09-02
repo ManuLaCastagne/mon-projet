@@ -17,8 +17,9 @@ indice_5 :
   - None
 indice_6 : 
   - None
+culture_g_score: 44
+culture_g_justification: "Actrice française reconnue et césarisée, mais principalement exploitable dans quelques questions de cinéma contemporain."
 ---
-
 ![Image de Léa Drucker]()
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Isabelle Adjani
 questions:
  - En 1994, quel film historique de Patrice Chéreau dans lequel Isabelle Adjani interprète le rôle-titre...
+culture_g_score: 71
+culture_g_justification: "Film français reconnu, intéressant à la croisée du cinéma, de Dumas et de l'histoire des guerres de Religion."
 ---
-
 ![Image de La Reine Margot](https://upload.wikimedia.org/wikipedia/commons/5/5f/La_Reine_Margot_%281914%29.jpg)
 
 ###### Questions

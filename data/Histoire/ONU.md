@@ -20,8 +20,9 @@ indice_6 :
   - Assemblée générale
 questions:
  - De quelle organisation internationale le Suédois Dag Hammarskjold...
+culture_g_score: 100
+culture_g_justification: "Institution internationale incontournable, présente dans d’innombrables questions sur la paix, les droits humains, les conflits et la géopolitique."
 ---
-
 ![Image de ONU](https://upload.wikimedia.org/wikipedia/commons/9/9f/Columns_in_Roman_gymnasium%2C_Salamis%2C_Northern_Cyprus.jpg)
 
 ###### Questions

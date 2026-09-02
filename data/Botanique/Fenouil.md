@@ -13,8 +13,9 @@ indice_5:
   - Foeniculum vulgare
 indice_6:
   - Aromate pour ses graines et son bulbe
+culture_g_score: 47
+culture_g_justification: "Plante alimentaire familière permettant quelques questions de botanique, de cuisine et de phytothérapie, sans grande priorité."
 ---
-
 ![Image de Fenouil](https://upload.wikimedia.org/wikipedia/commons/9/9f/Fenouil_en_jardini%C3%A8re_D160229.jpg)
 
 ###### Questions

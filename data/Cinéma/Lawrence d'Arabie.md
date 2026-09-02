@@ -20,8 +20,9 @@ indice_5 :
   - T.E. Lawrence
 indice_6 : 
   - bande-son Maurice Jarre
+culture_g_score: 100
+culture_g_justification: "Classique mondial du cinéma, abondamment interrogé par son réalisateur, ses acteurs, ses récompenses, son contexte historique et ses scènes célèbres."
 ---
-
 ![Image de Lawrence d'Arabie](https://upload.wikimedia.org/wikipedia/commons/f/f3/T.E._Lawrence_1.pdf)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_5 :
   - région du Bahr el-Ghazal
 indice_6 : 
   - population multiethnique
+culture_g_score: 44
+culture_g_justification: "Capitale d’un jeune État, utile dans les questions de géographie politique africaine mais peu rentable au-delà de ce repère."
 ---
-
 ![Image de Juba](https://upload.wikimedia.org/wikipedia/commons/d/d7/Juba_Sudan_aerial_view.jpg)
 
 ![[Carte_Juba.png]]
