@@ -30,12 +30,7 @@ culture_g_justification: "Figure fondamentale de la philosophie et de la médeci
 
 ###### Questions
 
-Dans quel ouvrage d'[[Avicenne]] trouve-t-on une description métaphorique de l'âme qui a influencé la littérature mystique du [[Moyen Âge]] ?
-
-Quelle œuvre poétique rédigée par [[Avicenne]] en 1023 est considérée comme l'un des premiers exemples de la littérature philosophique persane ? <!-- score: 5 -->
-
-Quel texte d'[[Avicenne]], écrit au début du [[11e siècle]], a eu une influence durable sur la littérature médicale européenne grâce à ses idées innovantes ?
-
+Qui a rédigé une œuvre poétique en 1023 qui est considérée comme l'un des premiers exemples de la littérature philosophique persane ? <!-- score: 5 -->
 ###### Description
 
 [[Avicenne]], né en 980 à [[Boukhara]], est un philosophe et médecin persan dont les travaux ont marqué la médecine médiévale. 
