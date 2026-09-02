@@ -22,8 +22,9 @@ indice_6 :
   - Nelson Mandela
 questions:
  - Chanteur ayant lutté contre l'apartheid, disparu en 2019…
+culture_g_score: 64
+culture_g_justification: "Artiste marquant du rapprochement entre musiques africaines et occidentales, régulièrement interrogé à propos de l’apartheid et de Mandela."
 ---
-
 ![Image de Johnny Clegg](https://upload.wikimedia.org/wikipedia/commons/9/94/Johnny-clegg-valenciennes-davidata-14_07_2009.jpg)
 
 ###### Questions

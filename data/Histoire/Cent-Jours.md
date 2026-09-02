@@ -20,8 +20,9 @@ indice_6 :
   - Louis XVIII
 questions:
  - Dans quelle période de l'histoire de France, comprise entre le 20 mars et le 22 juin 1815...
+culture_g_score: 97
+culture_g_justification: "Période incontournable de l’histoire napoléonienne, directement reliée à l’île d’Elbe, à Waterloo et à la Restauration."
 ---
-
 ![Image de Cent-Jours](https://upload.wikimedia.org/wikipedia/commons/7/77/Proclamation_du_ministere_de_la_guerre_1815.jpg)
 
 ###### Questions

@@ -20,7 +20,7 @@ indice_5:
 indice_6:
   - canonisé par l'Église orthodoxe russe
 culture_g_score: 64
-culture_g_justification: Prince russe important, associé à des batailles, à l’orthodoxie et aux œuvres d’Eisenstein et Prokofiev, mais moins fréquent que les grandes figures historiques.
+culture_g_justification: "Prince russe important, associé à des batailles, à l’orthodoxie et aux œuvres d’Eisenstein et Prokofiev, mais moins fréquent que les grandes figures historiques."
 ---
 ![Image de Alexandre Nevski](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/AlexanderNevskyTitul.jpg/500px-AlexanderNevskyTitul.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 

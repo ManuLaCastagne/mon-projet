@@ -20,9 +20,9 @@ indice_5 :
   - Laure Manaudou
 indice_6 : 
   - Matriochka
+culture_g_score: 24
+culture_g_justification: "Chanteur contemporain relativement secondaire, dont les principales occurrences concernent un duo et quelques émissions ou doublages."
 ---
-
-
 ![Image de Jérémy Frérot](https://upload.wikimedia.org/wikipedia/commons/6/6b/Festival_de_Bugu%C3%A9l%C3%A8s_2016_-_Fr%C3%A9ro_Delavega_01.jpg)
 
 ###### Questions

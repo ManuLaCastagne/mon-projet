@@ -23,8 +23,9 @@ indice_6 :
   - Jacques Grüber
 questions:
  - Quelle maison, dite villa Jika, fleuron de l'Art nouveau, est ornée de motifs floraux en fer forgé évoquant la monnaie-du-pape?
+culture_g_score: 52
+culture_g_justification: "Demeure emblématique de l’École de Nancy et de l’Art nouveau, mais surtout utile dans des questions spécialisées d’architecture française."
 ---
-
 ![Image de Villa Majorelle](https://upload.wikimedia.org/wikipedia/commons/8/8e/Villa_Majorelle_Nancy_vue_g%C3%A9n%C3%A9rale_de_la_fa%C3%A7ade_Nord_r%C3%A9nov%C3%A9e_2020.jpg)
 
 ###### Questions

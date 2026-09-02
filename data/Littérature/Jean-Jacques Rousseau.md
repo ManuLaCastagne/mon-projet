@@ -20,8 +20,9 @@ indice_5:
   - philosophe des Lumières
 indice_6:
   - rêveur solitaire
+culture_g_score: 100
+culture_g_justification: "Rousseau est une figure centrale des Lumières, de la philosophie politique, de la pédagogie, de l’autobiographie et de la Révolution française."
 ---
-
 ![Image de Jean-Jacques Rousseau](https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - androgyne
 questions:
  - D'Andy Warhol et surtout de Jean-Paul Goude, j'impose mon physique androgyne, ma coupe en brosse s'imposent dans les années 80 notamment au cinéma dans "James Bond  Dangereusement vôtre". Elle était géniale dans ce rôle.  Chanteuse devenue mondialement célèbre pour ma reprise disco de "La vie en rose", je suis...
+culture_g_score: 60
+culture_g_justification: "Artiste singulière reliant musique, mode, cinéma et culture pop, Grace Jones reste toutefois une référence de second rang dans les quiz généralistes."
 ---
-
 ![Image de Grace Jones](https://upload.wikimedia.org/wikipedia/commons/7/7f/Grace_Jones_at_Carriageworks_%28Vivid%29_-_1st_June_2015_08.jpg)
 
 ###### Questions

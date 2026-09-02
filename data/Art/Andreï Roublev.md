@@ -23,8 +23,9 @@ indice_6 :
   - école de Moscou
 questions:
  - Egalement appelé saint André l'Iconographe, auteur de l'icône de la Trinité, je suis…
+culture_g_score: 44
+culture_g_justification: "Figure majeure de l’iconographie orthodoxe russe, principalement utile pour quelques questions spécialisées sur l’art religieux."
 ---
-
 ![Image de Andreï Roublev](https://upload.wikimedia.org/wikipedia/commons/f/fb/-Clio_Team-_1405_Andrei_Roublev_Nativite_du_Christ%2C_detail_Ecole_de_Moscou_Moscou%2C_Galerie_Tretiakov_cdladk.jpg)
 
 ###### Questions

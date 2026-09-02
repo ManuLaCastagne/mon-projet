@@ -20,9 +20,9 @@ indice_5:
   - Festival Interfolk
 indice_6:
   - Statue Notre-Dame de France
+culture_g_score: 60
+culture_g_justification: "Ville de pèlerinage et de patrimoine religieux, régulièrement associée au chemin de Saint-Jacques mais peu au-delà."
 ---
-
-
 ![[Carte_Puy-en-Velay.png]]
 
 ###### Questions

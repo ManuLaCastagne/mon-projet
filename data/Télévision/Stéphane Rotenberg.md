@@ -19,8 +19,9 @@ indice_5 :
   - Visage emblématique de M6
 indice_6 : 
   - A travaillé sur Le Bachelor  Le gentleman célibataire
+culture_g_score: 56
+culture_g_justification: "Présentateur de plusieurs émissions françaises très connues, utile dans les quiz télévisuels mais peu important au-delà de ce domaine."
 ---
-
 ![Image de Stéphane Rotenberg](https://upload.wikimedia.org/wikipedia/commons/3/30/St%C3%A9phane_Rotenberg_%28recadr%C3%A9e%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - collaboration avec Chiara Mastroianni
 questions:
  - Quel chanteur a interprété avec Vanessa Paradis, dont il a partagé un temps la vie, des titres comme "Le rempart" et "Les roses roses"?
+culture_g_score: 60
+culture_g_justification: "Chanteur et producteur important de la chanson française contemporaine, régulièrement relié aux Victoires et à Henri Salvador."
 ---
-
 ![Image de Benjamin Biolay](https://upload.wikimedia.org/wikipedia/commons/a/a1/Benjamin_Biolay_at_Berlinale_2022_%28cropped%29.jpg)
 
 ###### Questions

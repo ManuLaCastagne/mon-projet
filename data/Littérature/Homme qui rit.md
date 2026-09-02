@@ -22,8 +22,9 @@ indice_6 :
   - Angleterre
 questions:
  - Quel roman de Littérature/Victor Hugo, se déroulant dans l'Angleterre du XVIIe-XVIIe, a pour héros un mutilé dans un rire permanent ?
+culture_g_score: 60
+culture_g_justification: "Roman de Victor Hugo moins central que ses grands classiques, mais exploitable via Gwynplaine, le théâtre, les adaptations et l'inspiration du Joker."
 ---
-
 ![Image de Homme qui rit](https://upload.wikimedia.org/wikipedia/commons/0/0d/Gwynplaine_character_from_the_Victor_Hugo_book_The_Man_Who_Laughs_or_L_Homme_Qui_Rit_as_imagined_by_anartist.png)
 
 ###### Questions

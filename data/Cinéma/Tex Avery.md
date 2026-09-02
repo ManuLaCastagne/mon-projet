@@ -20,9 +20,9 @@ indice_5:
   - Exagération cartoonesque
 indice_6:
   - Chasseur de rires
+culture_g_score: 68
+culture_g_justification: "Créateur essentiel de l'animation américaine, utile pour des questions sur Bugs Bunny, MGM, Droopy et l'histoire du cartoon."
 ---
-
-
 ![Image de Tex Avery](https://upload.wikimedia.org/wikipedia/commons/a/a5/Tex_Avery_yearbook_photo.png)
 
 ###### Questions

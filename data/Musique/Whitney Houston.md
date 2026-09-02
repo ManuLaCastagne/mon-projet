@@ -20,8 +20,9 @@ indice_5:
   - multiple Grammy Awards
 indice_6:
   - I Wanna Dance with Somebody
+culture_g_score: 100
+culture_g_justification: "Icône mondiale de la pop et du R&B, associée à des tubes, des records, The Bodyguard, les Grammy et l’histoire musicale."
 ---
-
 ![Image de Whitney Houston](https://upload.wikimedia.org/wikipedia/commons/5/52/Whitney_Houston_%28cropped3%29.JPEG)
 
 ###### Questions

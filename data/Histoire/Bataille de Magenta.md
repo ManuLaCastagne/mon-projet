@@ -18,8 +18,9 @@ indice_5:
   - royaume de Sardaigne
 indice_6:
   - victoire française
+culture_g_score: 61
+culture_g_justification: "Bataille secondaire mais rentable grâce à ses liens avec l’unification italienne, la couleur magenta et la géographie parisienne."
 ---
-
 ![Image de Bataille de Magenta](https://upload.wikimedia.org/wikipedia/commons/f/fa/Napol%C3%A9on_III_et_l%27Italie_-_Gerolamo_Induno_-_La_bataille_de_Magenta_-_001.jpg)
 
 ###### Questions

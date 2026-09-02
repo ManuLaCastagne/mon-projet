@@ -22,8 +22,9 @@ indice_6 :
   - Provence
 questions:
  - Dans quel film de Gérard Oury Smaïne est-il collant avec l'équipe du tournage d'un film ?
+culture_g_score: 64
+culture_g_justification: "Classique de Pagnol et de Fernandel, important dans le patrimoine cinématographique français mais à angles relativement limités."
 ---
-
 ![Image de Schpountz](https://upload.wikimedia.org/wikipedia/commons/a/ad/Recueil._%22_Le_Schpountz%22_film_de_Marcel_Pagnol_-_btv1b105075887_%2805_of_30%29.jpg)
 
 ###### Questions

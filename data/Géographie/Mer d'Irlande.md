@@ -21,14 +21,9 @@ indice_6:
   - Liverpool à l'ouest
 questions:
   - Quel bras de mer sépare la Grande-Bretagne à l'est de l'île dont elle porte le nom à l'ouest?
+culture_g_score: 52
+culture_g_justification: "Mer utile pour situer les îles Britanniques et l'Irlande, mais moins fréquente que les grandes mers européennes."
 ---
-
-
-
-
-
-
-
 ![Image de Mer d'Irlande](https://upload.wikimedia.org/wikipedia/commons/5/52/Photo_on_the_Irish_Sea_outside_Dublin.jpg)
 
 ![[Carte_Mer d'Irlande.png]]

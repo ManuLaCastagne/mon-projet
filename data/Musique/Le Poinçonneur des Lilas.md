@@ -22,8 +22,9 @@ indice_6 :
   - Album Du chant à la une !
 questions:
  - Chanson de 1958 constituant le 1er morceau du disque "Du chant à la une", j'ai été écrite par mon interprète avec des arrangements jazzy d'Alain Goraguer.
+culture_g_score: 77
+culture_g_justification: "Chanson fondatrice de Gainsbourg, ouvrant sur Paris, le métro, la chanson française et les débuts de l’artiste."
 ---
-
 ![Image de Le Poinçonneur des Lilas]()
 
 ###### Questions

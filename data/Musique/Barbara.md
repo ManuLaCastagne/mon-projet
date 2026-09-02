@@ -22,8 +22,9 @@ indice_6 :
   - Nantes
 questions:
  - C'est un extrait d'une chanson écrite par Georges Moustaki en 1967.  Mais quelle chanteuse est la "longue dame brune" pour qui G.Moustaki a "inventé une chanson au clair de la lune" ?
+culture_g_score: 80
+culture_g_justification: "Grande figure de la chanson française, régulièrement interrogée à travers ses chansons, sa vie et son rapport à la scène."
 ---
-
 ![Image de Barbara](https://upload.wikimedia.org/wikipedia/commons/1/14/Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947.jpg)
 
 ###### Questions

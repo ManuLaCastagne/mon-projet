@@ -22,8 +22,9 @@ indice_6 :
   - icône de la chanson française
 questions:
  - En 1982, quel prénom féminin constitue le titre d'un succès de Gérard Berliner, vendu à 1,5 millions d'exemplaires?
+culture_g_score: 20
+culture_g_justification: "Chanteuse contemporaine peu établie comme référence culturelle, dont l'identification offre très peu de rendement dans les quiz généralistes."
 ---
-
 ![Image de Louise](https://upload.wikimedia.org/wikipedia/commons/2/25/Louise_Redknapp.jpg)
 
 ###### Questions

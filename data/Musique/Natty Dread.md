@@ -22,8 +22,9 @@ indice_6 :
   - Rastafari
 questions:
  - Quel est le titre du 1er album que Bob Marley a enregistré en 1974, après que Peter Tosh et Bunny Wailer eurent quitté les Wailers ?
+culture_g_score: 57
+culture_g_justification: "Album important de Bob Marley contenant « No Woman, No Cry », mais moins rentable à apprendre que l’artiste ou ses chansons les plus célèbres."
 ---
-
 ![Image de Natty Dread](https://upload.wikimedia.org/wikipedia/commons/d/da/A_lot_of_natty_dread_under_that_hat_%282818257415%29.jpg)
 
 ###### Questions

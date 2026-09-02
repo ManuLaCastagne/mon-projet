@@ -22,8 +22,9 @@ indice_6 :
   - diplomate
 questions:
  - Quel écrivain déclare   "Dieu n'a pas prévu le bonheur pour ses créatures, il n'a prévu que des compensations" dans son œuvre "Intermezzo" ?
+culture_g_score: 64
+culture_g_justification: "Giraudoux est un dramaturge français important, surtout interrogé via La Guerre de Troie n’aura pas lieu, Ondine et son parcours diplomatique."
 ---
-
 ![Image de Jean Giraudoux](https://upload.wikimedia.org/wikipedia/commons/6/6c/Jean_Giraudoux_1927.jpg)
 
 ###### Questions

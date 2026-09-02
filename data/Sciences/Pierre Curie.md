@@ -20,8 +20,9 @@ indice_6 :
   - Magnétisme
 questions:
  - Physicien né en 1859 à Paris, je mets en évidence avec mon frère, Jacques, l'apparition de charges électriques à la surface de certains cristaux soumis à une contrainte. Auteur de plusieurs découvertes sur le magnétisme, je me joins aux travaux de ma femme née Maria Sklodowska...
+culture_g_score: 97
+culture_g_justification: "Figure scientifique mondialement connue, reliée à Marie Curie, à la radioactivité, à la piézoélectricité et au prix Nobel."
 ---
-
 ![Image de Pierre Curie](https://upload.wikimedia.org/wikipedia/commons/2/23/Nobel_Pierre_et_Marie_Curie_1.jpg)
 
 ###### Questions

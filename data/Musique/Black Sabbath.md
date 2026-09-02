@@ -18,8 +18,9 @@ indice_5:
   - War Pigs
 indice_6:
   - Birmingham
+culture_g_score: 84
+culture_g_justification: "Groupe fondateur du heavy metal, fréquemment cité pour Ozzy Osbourne, Paranoid et l’histoire du rock."
 ---
-
 ![Image de Black Sabbath](https://upload.wikimedia.org/wikipedia/commons/d/dc/Black_Sabbath_%281970%29.png)
 
 ###### Questions

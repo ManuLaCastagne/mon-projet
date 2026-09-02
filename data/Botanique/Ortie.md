@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée dans les tisanes et comme légume
 questions:
  - Plante comptant parmi mes 5 espèces présentes en France celles dites à pilules et à membranes, je pousse au voisinage des lieux habités par l'homme et les animaux domestiques. Ayant des feuilles dentelées, que l'on utilise en soupe et en infusion...
+culture_g_score: 80
+culture_g_justification: "Plante universellement identifiable par ses piqûres, avec des angles culinaires, médicinaux, écologiques et folkloriques."
 ---
-
 ![Image de Ortie](https://upload.wikimedia.org/wikipedia/commons/7/76/Brandnetel%2C_Urtica_dioica%2C_Locatie%2C_Famberhorst.jpg)
 
 ###### Questions

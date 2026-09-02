@@ -22,8 +22,9 @@ indice_6 :
   - Cadinot
 questions:
  - 1985, Claude Miller, Charlotte Gainsbourg, un piano…
+culture_g_score: 64
+culture_g_justification: "Film français classique associé à Claude Miller, Charlotte Gainsbourg et à l'adolescence, régulièrement exploitable dans les quiz francophones."
 ---
-
 ![Image de L'Effrontée](https://upload.wikimedia.org/wikipedia/commons/5/52/Hope_Benham._A_story_for_girls_%28IA_cu31924014492858%29.pdf)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5 :
   - 1997
 indice_6 : 
   - naufrage
+culture_g_score: 100
+culture_g_justification: "Phénomène cinématographique mondial et marronnier majeur, relié au naufrage, à Cameron, aux Oscars, au box-office et à ses acteurs."
 ---
-
-
 ![Image de Titanic](https://upload.wikimedia.org/wikipedia/commons/7/73/Titanic_paperboy_crop.jpg)
 
 ###### Questions

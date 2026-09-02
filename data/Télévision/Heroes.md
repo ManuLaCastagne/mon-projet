@@ -20,8 +20,9 @@ indice_6 :
   - Bennet
 questions:
  - Dans quelle série télé, créée en 2006, rencontre-t-on des personnages aux pouvoirs surnaturels dont Hiro Nakamura a inspiré la chanteuse très en vogue ?
+culture_g_score: 67
+culture_g_justification: "Série fantastique marquante des années 2000, utile pour ses personnages, sa formule et sa phrase culte, mais moins incontournable aujourd'hui."
 ---
-
 ![Image de Heroes](https://upload.wikimedia.org/wikipedia/commons/3/3e/Heroes_%28NBC_television_series%29_logo_%282%29.svg)
 
 ###### Questions

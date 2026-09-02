@@ -21,8 +21,9 @@ indice_5 :
   - Parc Astérix
 indice_6 : 
   - Aisne
+culture_g_score: 60
+culture_g_justification: "Ancienne région française utile pour Amiens, la Première Guerre mondiale, la cathédrale et la réforme territoriale, sans être incontournable."
 ---
-
 ![[Carte_Picardie.png]]
 
 ###### Questions

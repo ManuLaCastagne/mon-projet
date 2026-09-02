@@ -20,8 +20,9 @@ indice_6 :
   - Guyane
 questions:
  - Quelle roche sédimentaire rougeâtre, exploitée comme minerai d'aluminium doit son nom à la commune des Baux-de-Provence ?
+culture_g_score: 61
+culture_g_justification: "Minerai essentiel de l’aluminium, la bauxite apparaît régulièrement dans les questions de géologie, de chimie et d’industrie."
 ---
-
 ![Image de Bauxite](https://upload.wikimedia.org/wikipedia/commons/1/11/Bauxite_h%C3%A9rault.JPG)
 
 ###### Questions

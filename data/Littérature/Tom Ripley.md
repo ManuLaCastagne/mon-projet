@@ -22,9 +22,9 @@ indice_6 :
   - Patricia
 questions:
  - Héros qui, après avoir gagné la confiance de l'héritier, l'assassine et prend sa place.  Créé par Patricia Highsmith.
+culture_g_score: 76
+culture_g_justification: "Personnage de Patricia Highsmith renforcé par plusieurs adaptations cinématographiques, permettant des questions sur le roman noir, l'usurpation et le cinéma."
 ---
-
-
 ![Image de Tom Ripley](https://upload.wikimedia.org/wikipedia/commons/b/b3/Disneyland_Railroad_E.P._Ripley.jpg)
 
 ###### Questions

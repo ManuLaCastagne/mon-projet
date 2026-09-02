@@ -22,8 +22,9 @@ indice_6 :
   - Into My Arms
 questions:
  - Participant à la scène post-punk locale avec mes 1ers groupes, je m'installe en Europe en 1980 et fonde en 84 le groupe Bad Seeds.  Rocker australien dont Johnny Cash a repris le succès "The Mercy Seat"...
+culture_g_score: 51
+culture_g_justification: "Figure importante du rock indépendant et du post-punk, mais moins fréquente dans les quiz généralistes que les grandes stars du rock."
 ---
-
 ![Image de Nick Cave](https://upload.wikimedia.org/wikipedia/commons/3/37/Nick_Cave_1986.jpg)
 
 ###### Questions

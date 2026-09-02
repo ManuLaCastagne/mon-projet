@@ -20,8 +20,9 @@ indice_6 :
   - Fils de Philippe le Hardi
 questions:
  - En 1419, quel Duc de Bourgogne est assassiné lors d'une rencontre avec le futur Charles VII sur le pont de Montereau?
+culture_g_score: 67
+culture_g_justification: "Duc de Bourgogne central dans la guerre civile entre Armagnacs et Bourguignons, mais moins connu que les principales figures de la Guerre de Cent Ans."
 ---
-
 ![Image de Jean sans Peur](https://upload.wikimedia.org/wikipedia/commons/a/a6/John_duke_of_burgundy.jpg)
 
 ###### Questions

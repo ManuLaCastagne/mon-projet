@@ -24,8 +24,9 @@ indice_6 :
   - plages
 questions:
  - Quelle ville, devant son nom à saint Nazaire, a servi de refuge, à partir de 1933, à de nombreux intellectuels allemands fuyant le nazisme?
+culture_g_score: 32
+culture_g_justification: "Commune provençale associée à un épisode littéraire particulier, mais rarement interrogée en dehors de ce contexte."
 ---
-
 ![Image de Sanary-sur-Mer](https://upload.wikimedia.org/wikipedia/commons/a/a8/Sanary-sur-Mer.jpg)
 
 ![[Carte_Sanary-sur-Mer.png]]

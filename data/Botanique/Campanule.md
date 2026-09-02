@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée en massifs ou bordures dans les jardins
 questions:
  - Pour les bordures et les rocailles ainsi qu'en couvre-sol. Plante devant mon nom issu d'un mot latin à mes petites fleurs...
+culture_g_score: 27
+culture_g_justification: "Plante ornementale assez identifiable, mais rarement interrogée en dehors de questions botaniques spécialisées."
 ---
-
 ![Image de Campanule](https://upload.wikimedia.org/wikipedia/commons/d/d6/Campanule_U%26S_FR_2013.jpg)
 
 ###### Questions

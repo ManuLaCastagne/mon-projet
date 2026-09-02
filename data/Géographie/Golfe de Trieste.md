@@ -20,8 +20,9 @@ latitude: 45.638455
 longitude: 13.6005982
 superficie: 550
 location: 45.638455,13.6005982
+culture_g_score: 31
+culture_g_justification: "Golfe régional associé à Trieste et à l’Adriatique, dont la connaissance reste assez spécialisée."
 ---
-
 ![Image de Golfe de Trieste](https://upload.wikimedia.org/wikipedia/commons/e/e8/Golfe_de_Trieste_-_Trieste_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_AP62T158613.jpg)
 
 ![[Carte_Golfe de Trieste.png]]

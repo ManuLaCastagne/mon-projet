@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - En 1991, en remportant le 400m, quelle sportive apporte à la France sa première médaille d'or aux championnats du monde d'athlétisme ?
  - Quelle ancienne sportive guadeloupéenne est la seule athlète française à être devenue triple championne olympique?
+culture_g_score: 80
+culture_g_justification: "Une des plus grandes athlètes françaises, régulièrement mobilisée pour ses titres olympiques, le 400 mètres et la Guadeloupe."
 ---
-
 ![Image de Marie-Josée Pérec](https://upload.wikimedia.org/wikipedia/commons/0/01/Marie-Jos%C3%A9_P%C3%A9rec_Cannes_2016_2.jpg)
 
 ###### Questions

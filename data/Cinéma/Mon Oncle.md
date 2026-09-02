@@ -22,8 +22,9 @@ indice_6 :
   - satire de la société moderne
 questions:
  - En 1958, dans quelle comédie Jacques Tati évoque-t-il la complicité entre un personnage fantasque...
+culture_g_score: 80
+culture_g_justification: "Classique majeur de Jacques Tati, riche en questions sur Monsieur Hulot, l’Oscar, la modernité, le burlesque et le cinéma français."
 ---
-
 ![Image de Mon Oncle](https://upload.wikimedia.org/wikipedia/commons/f/f3/Homage_to_Mon_Oncle.jpg)
 
 ###### Questions

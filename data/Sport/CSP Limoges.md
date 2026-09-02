@@ -20,8 +20,9 @@ indice_6 :
   - Champion de France
 questions:
  - Quelle formation sportive fut le 1er club français à devenir champion d'Europe de basket-ball masculin ?
+culture_g_score: 60
+culture_g_justification: "Club français historique, surtout rentable pour les questions sur le basket national et son succès européen de 1993."
 ---
-
 ![Image de CSP Limoges](https://upload.wikimedia.org/wikipedia/commons/d/dd/Limoges_CSP_champion_1994.jpg)
 
 ###### Questions

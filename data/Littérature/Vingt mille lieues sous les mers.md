@@ -22,8 +22,9 @@ indice_6 :
   - Roman d'aventure
 questions:
  - En 1870, dans quel roman de Jules Verne trois naufragés sont-ils recueillis à bord du Nautilus ?
+culture_g_score: 84
+culture_g_justification: "Grand classique mondial de Jules Verne, exploitable via ses personnages, le Nautilus, la science-fiction et ses adaptations."
 ---
-
 ![Image de Vingt mille lieues sous les mers](https://upload.wikimedia.org/wikipedia/commons/5/59/Twenty_Thousand_Leagues_Under_the_Seas_library_catalog.jpg)
 
 ###### Questions

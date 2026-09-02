@@ -15,8 +15,9 @@ indice_6 :
   - Ornementation de jardins
 questions:
  - Quelle plante florale originaire d'Afrique tire son nom du latin signifiant petit glaive?
+culture_g_score: 47
+culture_g_justification: "Fleur de jardin reconnaissable et liée à l'étymologie du glaive, sans grande importance culturelle générale."
 ---
-
 ![Image de Glaïeul](https://upload.wikimedia.org/wikipedia/commons/d/d6/Gladiolus_red_02.jpg)
 
 ###### Questions

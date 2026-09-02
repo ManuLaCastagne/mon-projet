@@ -18,10 +18,9 @@ indice_5:
   - Cycliste irlandais
 indice_6:
   - Maillot Arc-en-ciel
+culture_g_score: 64
+culture_g_justification: "Cycliste notable grâce à son triplé exceptionnel de 1987, mais moins connu et moins souvent interrogé que les principales légendes du cyclisme."
 ---
-
-
-
 ![Image de Stephen Roche](https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_ROCHE.jpg)
 
 ###### Questions

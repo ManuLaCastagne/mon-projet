@@ -20,8 +20,9 @@ indice_6 :
   - fond sonore de synthétiseur
 questions:
  - Série animée dans laquelle les 2 animaux de compagnie Frégolo et Limaye se disputent à longueur de temps, je mets en scène les occupants du Cyberlabe, un vaisseau spatial.
+culture_g_score: 73
+culture_g_justification: "Dessin animé spatial très marquant pour plusieurs générations francophones, avec des liens utiles vers l’animation et la science-fiction."
 ---
-
 ![Image de Capitaine Flam](https://upload.wikimedia.org/wikipedia/commons/e/e9/Captain_Future_1940_Winter.jpg)
 
 ###### Questions

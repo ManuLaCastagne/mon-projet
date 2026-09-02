@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de renouveau et de printemps
 questions:
  - Quel petit passereau d'Eurasie, voisin du chardonneret, doit son nom à sa couleur vert et jaune?
+culture_g_score: 40
+culture_g_justification: "Le verdier d'Europe est un oiseau de jardin reconnaissable mais relativement secondaire dans les quiz de culture générale."
 ---
-
 ![Image de Verdier](https://upload.wikimedia.org/wikipedia/commons/3/3e/GraveMarieAntoinetteVerdier-CimetiereDesRoisGeneva_RomanDeckert31052022.jpg)
 
 ###### Questions

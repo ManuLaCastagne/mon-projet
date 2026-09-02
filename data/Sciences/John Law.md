@@ -20,8 +20,9 @@ indice_6 :
   - Inflation
 questions:
  - Quel écossais a mis au point un système financier qui a provoqué une crise lors de son effondrement en 1720?
+culture_g_score: 64
+culture_g_justification: "John Law est un sujet classique de l’histoire économique française grâce au papier-monnaie, à la Régence et à la banqueroute du Mississippi."
 ---
-
 ![Image de John Law](https://upload.wikimedia.org/wikipedia/commons/5/50/John_Law.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Bethléem
 questions:
  - Selon la Bible, quel descendant de David est un charpentier qui a épousé la Vierge Marie et a été...
+culture_g_score: 84
+culture_g_justification: "Le nom renvoie à deux figures bibliques majeures, Joseph fils de Jacob et Joseph époux de Marie, ce qui multiplie les usages en quiz."
 ---
-
 ![Image de Joseph](https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Joseph_stained_glass_window_in_the_Saint_Antony_church_in_St._Ulrich_in_Gr%C3%B6den.jpg)
 
 ###### Questions

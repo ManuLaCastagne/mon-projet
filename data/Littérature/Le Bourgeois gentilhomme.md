@@ -19,10 +19,9 @@ indice_5:
   - Noblesse
 indice_6:
   - Musique de Lully
+culture_g_score: 97
+culture_g_justification: "Comédie incontournable de Molière, exploitable par ses personnages, son contexte royal, sa forme de comédie-ballet et sa satire sociale."
 ---
-
-
-
 ![Image de Le Bourgeois gentilhomme](https://upload.wikimedia.org/wikipedia/commons/4/42/Le-bourgeois-gentilhomme.jpg)
 
 ###### Questions

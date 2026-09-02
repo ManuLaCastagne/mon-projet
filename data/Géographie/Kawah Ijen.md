@@ -23,8 +23,9 @@ indice_6 :
   - Mineurs de soufre
 questions:
  - quel volcan d'Indonésie est connu pour ses flammes bleues et son exploitation de soufre ?
+culture_g_score: 40
+culture_g_justification: "Site volcanique spectaculaire pouvant donner une question de curiosité naturelle, mais encore peu fréquent dans les quiz généralistes."
 ---
-
 ![[Carte_Kawah Ijen.png]]
 
 ###### Questions

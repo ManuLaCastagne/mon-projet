@@ -25,10 +25,9 @@ indice_6 :
   - Presqu'île de Guérande
 questions:
  - Quelle grande station balnéaire de la Loire-Atlantique, possède un nom est officiellement lié à celui d'Escoublac ?
+culture_g_score: 44
+culture_g_justification: "Station balnéaire française connue pour sa plage et son architecture, avec une portée de quiz principalement touristique."
 ---
-
-
-
 ![Image de Baule](https://upload.wikimedia.org/wikipedia/commons/6/6b/Eglise_de_Baule.jpg)
 
 ![[Carte_Baule.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - théâtre
 questions:
  - En 1981, quelle actrice est l'assistante sociale Joelle Mazard dans "Pause Café" ?
+culture_g_score: 44
+culture_g_justification: "Actrice populaire d'une génération et d'un feuilleton marquant, mais désormais moins fréquemment interrogée que les grandes vedettes françaises."
 ---
-
 ![Image de Véronique Jannot](https://upload.wikimedia.org/wikipedia/commons/e/e5/V%C3%A9ronique_Jannot_2012.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_6 :
   - Batailles éternelles
 questions:
  - Séjour éternel des guerriers morts en héros qui, réunis autour d'Odin, boivent l'hydromel et se préparent à de nouveaux combats.
+culture_g_score: 77
+culture_g_justification: "Le Walhalla est un symbole très fréquent de la mythologie nordique, de l'Odin et des guerriers morts, avec de nombreux prolongements culturels."
 ---
-
-
 ![Image de Walhalla](https://upload.wikimedia.org/wikipedia/commons/0/07/Oberlicht_in_der_Walhalla.jpg)
 
 ###### Questions

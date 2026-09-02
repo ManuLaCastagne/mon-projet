@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1960
 date: 1961
+culture_g_score: 81
+culture_g_justification: "Objet médical emblématique, fréquent dans les questions d'inventions, de médecine et de représentations culturelles."
 ---
 ###### Questions 
 

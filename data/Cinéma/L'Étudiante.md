@@ -20,8 +20,9 @@ indice_5 :
   - personnage de Valentine
 indice_6 : 
   - Claude Pinoteau
+culture_g_score: 60
+culture_g_justification: "Film très connu du public français grâce à Sophie Marceau et sa bande originale, mais d'importance artistique limitée."
 ---
-
 ![[Pasted image 20250323094142.png]]
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5C0DeiR3ZSuLq2huvYr7Fg" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

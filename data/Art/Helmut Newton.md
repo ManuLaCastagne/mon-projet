@@ -23,8 +23,9 @@ indice_6 :
   - années 1980
 questions:
  - Quel photographe de mode, né à Berlin en 1920 et installé en France en 1961, a réalisé des photos de nu sophistiquées et provocantes ?
+culture_g_score: 71
+culture_g_justification: "Newton est un grand nom de la photographie de mode, associé à Vogue, au noir et blanc, au glamour et à une esthétique provocatrice."
 ---
-
 ![Image de Helmut Newton](https://upload.wikimedia.org/wikipedia/commons/e/ec/Helmut_Newton_Grave_headshot_crop.jpg)
 
 ###### Questions

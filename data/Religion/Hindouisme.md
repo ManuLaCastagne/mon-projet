@@ -18,9 +18,9 @@ indice_5 :
   - Gange
 indice_6 : 
   - Karma
+culture_g_score: 92
+culture_g_justification: "Grande religion mondiale particulièrement rentable par ses doctrines, textes, divinités, fêtes, sociétés et références artistiques."
 ---
-
-
 ![Image de Hindouisme](https://upload.wikimedia.org/wikipedia/commons/d/db/Sri_Mariamman_Temple_Singapore_3_amk.jpg)
 
 ###### Questions

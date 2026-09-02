@@ -23,8 +23,9 @@ indice_6 :
   - façade avec trois portails
 questions:
  - Ouvrage majeur de l'art gothique, devant ma façade et mon chevet à l'abbé Suger, j'abrite plus de 70 gisants et tombeaux...
+culture_g_score: 84
+culture_g_justification: "La basilique de Saint-Denis est essentielle pour le gothique, la monarchie française, les sépultures royales et l’histoire de l’art."
 ---
-
 ![Image de Basilique de Saint-Denis](https://upload.wikimedia.org/wikipedia/commons/c/c9/Basilique_Saint-Denis_Louis_XII_Anne_de_Bretagne_tombeau.jpg)
 
 ###### Questions

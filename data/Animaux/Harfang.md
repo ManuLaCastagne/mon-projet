@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de sagesse
 questions:
  - Quelle grande chouette de l'Arctique est des neiges, qu'on appelle aussi la chouette blanche parfois ? La chouette d'Harry Potter !
+culture_g_score: 64
+culture_g_justification: "Oiseau très reconnaissable grâce à Harry Potter, au Québec et à l'Arctique, mais moins central que les grands symboles animaliers."
 ---
-
 ![Image de Harfang](https://upload.wikimedia.org/wikipedia/commons/a/af/B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG)
 
 ###### Questions

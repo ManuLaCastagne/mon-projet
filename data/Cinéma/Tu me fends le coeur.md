@@ -22,8 +22,9 @@ indice_6:
   - mélancolie
 questions:
   - Phrase du film "Marius" par laquelle Raimu indique à son partenaire, de façon pas très discrète d'ailleurs, quelle couleur de carte jouer, je suis…
+culture_g_score: 20
+culture_g_justification: "Cette réplique associée à un film français précis reste une référence cinématographique très spécialisée et peu rentable dans les quiz généralistes."
 ---
-
 ![Image de Tu me fends le coeur](https://upload.wikimedia.org/wikipedia/commons/a/a7/Le_coeur_et_l%27estomac_%28IA_b2486142x%29.pdf)
 
 ###### Questions

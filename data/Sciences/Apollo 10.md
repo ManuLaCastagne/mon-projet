@@ -18,8 +18,9 @@ indice_5 :
   - Farside
 indice_6 : 
   - Snoopy
+culture_g_score: 60
+culture_g_justification: "Mission spatiale classique surtout connue comme répétition d’Apollo 11, avec quelques repères techniques et astronautiques."
 ---
-
 ![Image de Apollo 10](https://upload.wikimedia.org/wikipedia/commons/b/b8/Apollo_10_Flown_Silver_Robbins_Medallion_%28SN-70%29.jpg)
 
 ###### Questions

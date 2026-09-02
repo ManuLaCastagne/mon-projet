@@ -24,9 +24,9 @@ indice_6 :
   - langue espagnole
 questions:
  - Sous quel nom connaît-on aujourd'hui la ville de Bahia qui fut la 1re capitale du Brésil de 1549 à 1763 ?
+culture_g_score: 60
+culture_g_justification: "Le Salvador constitue une référence géographique correcte, mais moins fréquente et structurante que les grands États."
 ---
-
-
 ![Image de Salvador](https://upload.wikimedia.org/wikipedia/commons/a/ad/Tomada_da_cidade_de_S%C3%A3o_Salvador_s%C3%A9culo_XVIII_%28panor%C3%A2mico%29.jpg)
 
 ![[Carte_Salvador.png]]

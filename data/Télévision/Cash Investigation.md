@@ -19,8 +19,9 @@ indice_5 :
   - sujets controversés
 indice_6 : 
   - transparence économique
+culture_g_score: 64
+culture_g_justification: "Émission d’investigation très identifiable, utile pour les médias et les affaires contemporaines, mais moins incontournable qu’un grand programme historique."
 ---
-
 ![Image de Cash Investigation](https://upload.wikimedia.org/wikipedia/commons/9/92/Xian_Feng_Zhong_Bao_%28%E5%92%B8%E8%B1%90%E9%87%8D%E5%AF%B6%29_-_50_Cash_%28Aksu_Mint%29%2C_Red_Cash_-_Scott_Semans.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Disney Channel
 questions:
  - Quelle chanteuse révélée par la série "Hannah Montana" évoque...
+culture_g_score: 64
+culture_g_justification: "Vedette pop connue pour Hannah Montana et plusieurs succès médiatisés, mais dont l’importance culturelle générale reste modérée."
 ---
-
 ![Image de Miley Cyrus](https://upload.wikimedia.org/wikipedia/commons/5/52/Miley_Cyrus_Primavera19_-226_%2848986293772%29_%28cropped%29.jpg)
 
 ###### Questions

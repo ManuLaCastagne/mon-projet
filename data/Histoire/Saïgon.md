@@ -20,8 +20,9 @@ indice_6 :
   - capitale du Sud-Vietnam
 questions:
  - En 1859, quelle ville asiatique est prise par des troupes franco-espagnoles avant de devenir le siège du gouvernement de la Cochinchine?
+culture_g_score: 72
+culture_g_justification: "Ville associée à la guerre du Viêt Nam, à l’Indochine française et à son changement de nom, offrant plusieurs repères historiques."
 ---
-
 ![Image de Saïgon](https://upload.wikimedia.org/wikipedia/commons/6/62/Adarga_%28Nymphaea_alba%29%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.jpg)
 
 ###### Questions

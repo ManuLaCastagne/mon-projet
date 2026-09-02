@@ -20,8 +20,9 @@ indice_5 :
   - Tonya
 indice_6 : 
   - Once Upon a Time in Hollywood
+culture_g_score: 73
+culture_g_justification: "Vedette internationale associée à Barbie, Scorsese, Moi Tonya et plusieurs succès récents, avec une forte présence dans les quiz contemporains."
 ---
-
 ![Image de Margot Robbie](https://upload.wikimedia.org/wikipedia/commons/9/98/Margot_Robbie_at_Somerset_House_in_2013_%28cropped%29.jpg)
 
 ###### Questions

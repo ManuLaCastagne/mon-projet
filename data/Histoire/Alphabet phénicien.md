@@ -20,8 +20,9 @@ indice_6 :
   - Moyen-Orient antique
 questions:
  - Quel alphabet, inventé vers 1100 av. J.-C., est l'ancêtre direct de tous les alphabets occidentaux?
+culture_g_score: 68
+culture_g_justification: "Comprendre son rôle d’ancêtre des alphabets grec et latin fournit des réponses en histoire, linguistique et civilisations antiques."
 ---
-
 ![Image de Alphabet phénicien](https://upload.wikimedia.org/wikipedia/commons/f/f6/Barth%C3%A9l%C3%A9my_Alphabet_ph%C3%A9nicien.jpg)
 
 ###### Questions

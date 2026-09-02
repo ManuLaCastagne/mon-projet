@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de l'adaptation au désert
 questions:
  - Quel petit rongeur de la famille des dipodidés, se déplaçant par bonds, se sert de ses oreilles pour réguler sa température corporelle?
+culture_g_score: 40
+culture_g_justification: "La gerboise est un rongeur désertique reconnaissable et liée à l'histoire nucléaire française, mais reste peu fréquente."
 ---
-
 ![Image de Gerboise](https://upload.wikimedia.org/wikipedia/commons/9/9a/Drawing_of_jerboa_in_the_desert.jpg)
 
 ###### Questions

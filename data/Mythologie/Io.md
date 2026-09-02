@@ -18,8 +18,9 @@ indice_6 :
   - Déesse égyptienne Isis
 questions:
  - Quelle jeune fille d'Argus fut réclamée en cadeau par Héra alors que Zeus lui avait donné l'apparence d'une génisse?
+culture_g_score: 60
+culture_g_justification: "Le mythe d’Io est classique et relié à Zeus, Héra, l’Égypte et la mer Ionienne, tout en restant moins fréquent que les grands héros grecs."
 ---
-
 ![Image de Io](https://upload.wikimedia.org/wikipedia/commons/7/7b/Io_highest_resolution_true_color.jpg)
 
 ###### Questions

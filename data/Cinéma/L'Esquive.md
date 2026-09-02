@@ -18,8 +18,9 @@ indice_5 :
   - Drame français
 indice_6 : 
   - Banlieue parisienne
+culture_g_score: 76
+culture_g_justification: "Film césarisé d'Abdellatif Kechiche, très utile pour le cinéma français, Marivaux, la banlieue et Sara Forestier."
 ---
-
 ![Image de L'Esquive'](https://upload.wikimedia.org/wikipedia/commons/b/bd/Manuel_de_la_boxe_fran%C3%A7aise_et_anglaise_-_m%C3%A9hode_Leboucher_%28IA_b22486197%29.pdf)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - attraction touristique
 questions:
  - Quelles chutes d'eau, d'environ 50 m de haut, sont situées à la frontière entre le Canada et les Etats-Unis?
+culture_g_score: 84
+culture_g_justification: "Site naturel mondialement célèbre, associé à la géographie, au Canada, aux États-Unis, à l'hydroélectricité et à de nombreuses anecdotes."
 ---
-
-
 ![Image de Niagara](https://upload.wikimedia.org/wikipedia/commons/2/2b/Niagara_Falls_-_ON_-_Niagaraf%C3%A4lle3.jpg)
 
 ![[Carte_Niagara.png]]

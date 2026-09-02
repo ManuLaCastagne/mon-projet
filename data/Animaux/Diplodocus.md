@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la préhistoire
 questions:
  - Quel dinosaure herbivore du jurassique, dont le cou et la queue était très allongés, porte un nom signifiant double poutre en grec ?
+culture_g_score: 64
+culture_g_justification: "Le diplodocus est un dinosaure très reconnaissable et classique, mais moins central et polyvalent que l'ensemble des dinosaures."
 ---
-
 ![Image de Diplodocus](https://upload.wikimedia.org/wikipedia/commons/4/44/SeismosaurusDB.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - West Coast
 questions:
  - Sous quel nom connaît-on mieux le rappeur américain Calvin Cordozar Broadus Jr., interprète en 2020 du titre "Nipsey Blue"?
+culture_g_score: 84
+culture_g_justification: "Snoop Dogg est une figure majeure du rap américain, reliée au gangsta rap, à Dr. Dre, à de nombreux tubes et à la culture populaire."
 ---
-
 ![Image de Snoop Dogg](https://upload.wikimedia.org/wikipedia/commons/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg)
 
 ###### Questions

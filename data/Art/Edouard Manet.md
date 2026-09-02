@@ -20,8 +20,9 @@ indice_5:
   - né à Paris en 1832
 indice_6:
   - mort en 1883
+culture_g_score: 100
+culture_g_justification: "Manet est central dans la naissance de la peinture moderne et permet de nombreuses questions sur l'impressionnisme, le Salon et ses œuvres majeures."
 ---
-
 ![Image de Edouard Manet](https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg)
 
 ###### Questions

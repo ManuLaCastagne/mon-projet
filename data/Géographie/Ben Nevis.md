@@ -21,8 +21,9 @@ indice_5 :
   - Plus haut sommet du Royaume-Uni
 indice_6 : 
   - Fort William
+culture_g_score: 60
+culture_g_justification: "Point culminant du Royaume-Uni, régulièrement interrogé dans les quiz de géographie britannique et de montagne."
 ---
-
 ![[Carte_Ben Nevis.png]]
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - absence de voitures à moteur
 questions:
  - Sur la Côte d'Azur, quelle île de 7km de long est la plus occidentale et la plus importante des îles d'Hyères ?
+culture_g_score: 64
+culture_g_justification: "Île méditerranéenne française emblématique pour son parc national et sa biodiversité, mais à fréquence quiz intermédiaire."
 ---
-
-
 ![Image de Porquerolles](https://upload.wikimedia.org/wikipedia/commons/9/9b/Porquerolles_1.JPG)
 
 ![[Carte_Porquerolles.png]]

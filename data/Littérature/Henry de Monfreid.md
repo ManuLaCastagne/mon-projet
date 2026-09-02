@@ -21,8 +21,9 @@ indice_5:
   - Ethiopie
 indice_6:
   - Secrets de la Mer Rouge
+culture_g_score: 40
+culture_g_justification: "Aventurier et écrivain associé à la mer Rouge, sujet pittoresque mais peu fréquent et faiblement structurant."
 ---
-
 ![Image de Henry de Monfreid](https://upload.wikimedia.org/wikipedia/commons/2/24/Henry_de_Monfreid_NYT_cropped.jpg)
 
 ###### Questions

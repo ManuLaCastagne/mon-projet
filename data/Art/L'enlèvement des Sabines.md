@@ -18,8 +18,9 @@ indice_5 :
   - tableau
 indice_6 : 
   - sculpture
+culture_g_score: 71
+culture_g_justification: "Le thème des Sabines traverse la mythologie romaine, la peinture et la sculpture, mais l’identification d’une œuvre précise reste variable."
 ---
-
 ![Image de L'enlèvement des Sabines](https://upload.wikimedia.org/wikipedia/commons/f/fb/Dijon_%28C%C3%B4te-d%27Or%29_-_Mus%C3%A9e_des_Beaux-Arts_-_L%27Enl%C3%A8vement_des_Sabines_%28Jean-Claude_Naigeon%29_%2811664255996%29.jpg)
 
 ###### Questions

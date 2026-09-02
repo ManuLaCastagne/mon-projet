@@ -18,8 +18,9 @@ indice_5 :
   - épouse Maxima Zorreguieta
 indice_6 : 
   - père de Catharina-Amalia
+culture_g_score: 51
+culture_g_justification: "Roi actuel des Pays-Bas identifiable dans l’actualité monarchique, mais encore peu central et peu rentable dans la culture générale historique."
 ---
-
 ![Image de Willem-Alexander](https://upload.wikimedia.org/wikipedia/commons/7/71/Zijne_Majesteit_Koning_Willem-Alexander_met_koningsmantel_april_2013_%28cropped%29.jpg)
 
 ###### Questions

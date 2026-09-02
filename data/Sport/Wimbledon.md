@@ -20,8 +20,9 @@ indice_6 :
   - Centre Court
 questions:
  - En 2010, en tennis, lors de quel tournoi du Grand Chelem Nicolas Mahut a-t-il établi...
+culture_g_score: 100
+culture_g_justification: "Tournoi mythique du Grand Chelem, incontournable pour ses records, ses traditions, ses champions et l’histoire du tennis."
 ---
-
 ![Image de Wimbledon](https://upload.wikimedia.org/wikipedia/commons/e/ea/Wimbledon%2C_North_Dakota_6-9-2008.jpg)
 
 ###### Questions

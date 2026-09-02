@@ -22,8 +22,9 @@ indice_5 :
   - Place Tian'anmen
 indice_6 : 
   - Stade national de Pékin
+culture_g_score: 100
+culture_g_justification: "Capitale mondiale majeure, indispensable pour la Chine, l’histoire impériale, la géopolitique, les Jeux olympiques et le patrimoine."
 ---
-
 ![Image de Pékin](https://upload.wikimedia.org/wikipedia/commons/1/1e/Beijing_national_stadium.jpg)
 
 ![[Carte_Pékin.png]]

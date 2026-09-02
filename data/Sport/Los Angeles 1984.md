@@ -20,8 +20,9 @@ indice_5 :
   - Michael Jordan
 indice_6 : 
   - Peter Ueberroth
+culture_g_score: 60
+culture_g_justification: "Édition olympique classique, utile pour quelques questions historiques, sportives et géographiques, mais moins incontournable que les Jeux les plus marquants."
 ---
-
 ![Image de Los Angeles 1984](https://upload.wikimedia.org/wikipedia/commons/0/0c/1984_Summer_Olympics_logo.svg)
 
 ###### Questions

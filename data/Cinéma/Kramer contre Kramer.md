@@ -22,8 +22,9 @@ indice_6 :
   - 1979
 questions:
  - Long métrage mettant en scène un publicitaire quitté par sa femme qui se retrouve seul pour élever son fils, je vois par la suite l'ex...
+culture_g_score: 80
+culture_g_justification: "Classique oscarisé offrant des questions sur le cinéma américain, Robert Benton, Dustin Hoffman, Meryl Streep et les récompenses."
 ---
-
 ![Image de Kramer contre Kramer](https://upload.wikimedia.org/wikipedia/commons/c/c9/1-02-14%2C_Carpentier_donne_le_d%C3%A9part_du_match_Friol_contre_Kramer_%28V%C3%A9lodrome_d%27hiver%29_-_photographie_de_presse_-_Agence_Rol_-_btv1b6928620q.jpg)
 
 ###### Questions

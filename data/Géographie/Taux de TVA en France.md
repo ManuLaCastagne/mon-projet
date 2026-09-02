@@ -17,8 +17,9 @@ indice_5 :
   - taux super réduit de 2,1% pour certains médias
 indice_6 : 
   - harmonisation au niveau européen
+culture_g_score: 65
+culture_g_justification: "Repère économique et civique utile en France, mais la valeur du sujet dépend de l'année et du taux considéré."
 ---
-
 ![Image de Taux de TVA en France](https://upload.wikimedia.org/wikipedia/commons/5/54/Taux_standard_de_TVA_dans_les_pays_europ%C3%A9ens.svg)
 
 ###### Questions

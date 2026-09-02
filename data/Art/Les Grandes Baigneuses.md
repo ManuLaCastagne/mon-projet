@@ -23,8 +23,9 @@ indice_6 :
   - Musée d'Orsay Paris
 questions:
  - Exécuté à Aix-en-Provence, je reprends le thème du nu dans un paysage en faisant disparaître la charge érotique propre à ce genre pictural. Toile de Paul Cézanne...
+culture_g_score: 72
+culture_g_justification: "Série majeure de Cézanne, utile pour le postimpressionnisme, la construction des formes, les baigneuses et l’influence sur l’art moderne."
 ---
-
 ![Image de Les Grandes Baigneuses](https://upload.wikimedia.org/wikipedia/commons/2/25/Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg)
 
 ###### Questions

@@ -19,9 +19,9 @@ indice_5 :
   - M6
 indice_6 : 
   - changement d'apparence
+culture_g_score: 36
+culture_g_justification: "Émission de relooking relativement récente, dont le concept est identifiable mais peu important ou fréquemment interrogé."
 ---
-
-
 ![Image de Incroyables transformations](https://upload.wikimedia.org/wikipedia/commons/b/b2/La_transformation_du_Chamane_%28exposition_%22Incroyables_C%C3%A9tac%C3%A9s_%21%22%29_%283161365340%29.jpg)
 
 ###### Questions

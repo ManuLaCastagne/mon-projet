@@ -18,10 +18,9 @@ indice_6 :
   - tensions entre Achille et Agamemnon
 questions:
  - Dans la [[mythologie grecque]], quelle jeune femme éprouve un immense chagrin à la mort d'Achille, son ravisseur ?
+culture_g_score: 60
+culture_g_justification: "Captive à l’origine de la querelle entre Achille et Agamemnon dans l’Iliade, référence classique mais assez étroite."
 ---
-
-
-
 ![Image de Briséis](https://upload.wikimedia.org/wikipedia/commons/e/e8/Briseis_Phoinix_Louvre_G152.jpg)
 
 ###### Questions

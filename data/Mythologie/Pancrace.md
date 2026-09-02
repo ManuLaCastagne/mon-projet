@@ -18,9 +18,9 @@ indice_6 :
   - protection divine durant les combats
 questions:
  - Quelle sorte de lutte autorisait tous les coups...
+culture_g_score: 20
+culture_g_justification: "Le sujet mêle un sport antique et des éléments mythologiques confus, mais le pancrace comme référence précise reste relativement rare dans les quiz généralistes."
 ---
-
-
 ![Image de Pancrace](https://upload.wikimedia.org/wikipedia/commons/e/ec/Pancrace_Bessa02.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Monument historique
 questions:
  - Quel est ce village de la Drôme, dominé par château du XVIe siècle, rendu célèbre par Madame de Sévigné et sa fille?
+culture_g_score: 48
+culture_g_justification: "Château français intéressant par son architecture et son lien avec Madame de Sévigné, mais assez rarement mobilisé dans les quiz généralistes."
 ---
-
 ![Image de Château de Grignan](https://upload.wikimedia.org/wikipedia/commons/3/34/Ch%C3%A2teau_de_Grignan_-_fa%C3%A7ade.jpg)
 
 ![[Carte_Château de Grignan.png]]

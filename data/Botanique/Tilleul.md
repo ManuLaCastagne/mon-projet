@@ -15,8 +15,9 @@ indice_6 :
   - Infusion, remède apaisant
 questions:
  - Quel arbre au bois blanc produit des bractées odorantes, récoltées généralement en juin et qui donne une infusion calmante et digestive?
+culture_g_score: 64
+culture_g_justification: "Arbre européen connu pour ses infusions, son parfum et son rôle culturel, avec plusieurs usages mais une fréquence modérée."
 ---
-
 ![Image de Tilleul](https://upload.wikimedia.org/wikipedia/commons/5/57/Sainghin-en-M%C3%A9lantois.-_La_ferme_du_Tilleul_en_2025.jpg)
 
 ###### Questions

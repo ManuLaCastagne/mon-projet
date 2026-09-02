@@ -20,9 +20,9 @@ indice_6 :
   - surnommé le Vieux Lion
 questions:
  - Lors d'un discours prononcé en mai 1940, quel 1er ministre britannique annonce-t-avoir n'à offrir que du sang, du labeur, des larmes et de la sueur ?
+culture_g_score: 100
+culture_g_justification: "Figure mondiale de la Seconde Guerre mondiale et de la politique britannique, offrant un très grand nombre d’angles historiques, littéraires et militaires."
 ---
-
-
 ![Image de Winston Churchill](https://upload.wikimedia.org/wikipedia/commons/f/f2/Joseph_Stalin%2C_Franklin_D_Roosevelt_and_Winston_Churchill%2C_in_Teheran%2C_1943%2C_edit.jpg)
 
 ###### Questions

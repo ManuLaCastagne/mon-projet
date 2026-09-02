@@ -20,8 +20,9 @@ indice_6 :
   - Démon à abattre
 questions:
  - Quelle série américaine, avec Alyssa Milano, a pour héroïnes les soeurs Halliwell luttant contre le mal ?
+culture_g_score: 73
+culture_g_justification: "Série fantastique très populaire, utile pour les personnages, les actrices et la culture télévisuelle des années 1990-2000."
 ---
-
 ![Image de Charmed](https://upload.wikimedia.org/wikipedia/commons/c/c7/House_at_1329_Carroll_Ave.%2C_Los_Angeles_%28Charmed_House%29.JPG)
 
 ###### Questions

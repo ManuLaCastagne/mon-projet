@@ -22,8 +22,9 @@ indice_6 :
   - horreur années 80
 questions:
  - Jouet possédé en réalité par l'esprit du tueur en série Charles Lee Ray, abattu peu avant, je suis une poupée diabolique qui va semer la mort. Surnommée la poupée de sang, je suis…
+culture_g_score: 73
+culture_g_justification: "Personnage emblématique de l’horreur populaire, associé à une franchise, une poupée célèbre et plusieurs adaptations."
 ---
-
 ![Image de Chucky](https://upload.wikimedia.org/wikipedia/commons/1/10/Chucky_9388_%285363882546%29.jpg)
 
 ###### Questions

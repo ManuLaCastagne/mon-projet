@@ -18,8 +18,9 @@ indice_5 :
   - Jennifer Grey
 indice_6 : 
   - Demi Moore
+culture_g_score: 73
+culture_g_justification: "La notoriété de Dirty Dancing et Ghost en fait une réponse fréquente, avec des liens utiles vers le cinéma populaire, la danse et les années 1980-1990."
 ---
-
 ![Image de Patrick Swayze](https://upload.wikimedia.org/wikipedia/commons/a/a1/Patrick_Swayze_-_1990_Grammy_Awards_%28cropped%29.jpg)
 
 ###### Questions

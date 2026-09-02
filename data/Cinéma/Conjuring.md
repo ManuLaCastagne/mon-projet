@@ -17,8 +17,9 @@ indice_5 :
   - enquête paranormale
 indice_6 : 
   - James Wan
+culture_g_score: 73
+culture_g_justification: "Succès majeur de l’horreur contemporaine, régulièrement mobilisable via James Wan, les Warren, la maison hantée et sa franchise."
 ---
-
 ![Image de Conjuring]()
 
 ###### Questions

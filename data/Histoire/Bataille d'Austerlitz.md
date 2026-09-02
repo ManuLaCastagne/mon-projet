@@ -20,9 +20,9 @@ indice_6 :
   - Russie
 questions:
  - Le 2 décembre 1805, quelle bataille Napoléon Bonaparte a-t-il gagnée contre l'armée austro-russe commandée par Alexandre Ier et François II d'Autriche?
+culture_g_score: 97
+culture_g_justification: "Grande victoire napoléonienne universellement classique, liée à Napoléon, aux coalitions européennes et à la tactique militaire."
 ---
-
-
 ![Image de Bataille d'Austerlitz](https://upload.wikimedia.org/wikipedia/commons/b/ba/La_bataille_d%27Austerlitz._2_decembre_1805_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg)
 
 ###### Questions

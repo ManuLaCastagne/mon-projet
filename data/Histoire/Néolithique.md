@@ -20,8 +20,9 @@ indice_6 :
   - premières communautés villageoises
 questions:
  - Constituant une véritable rupture comportementale, j'ai vu l'abandon du mode de vie nomade, la généralisation de l'utilisation de la céramique et du polissage de pierre pour fabriquer...
+culture_g_score: 88
+culture_g_justification: "Période fondamentale de la sédentarisation, de l’agriculture, de l’élevage et des premiers villages, très rentable en préhistoire."
 ---
-
 ![Image de Néolithique](https://upload.wikimedia.org/wikipedia/commons/8/8b/Hache_n%C3%A9olithique_des_R%C3%A9collets_MHNT.PRE.2011.0.450.jpg)
 
 ###### Questions

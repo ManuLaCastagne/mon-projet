@@ -18,8 +18,9 @@ indice_5 :
   - Jazz
 indice_6 : 
   - Satire sociale
+culture_g_score: 27
+culture_g_justification: "Ballet peu connu de Chostakovitch, susceptible d’apparaître dans des questions spécialisées sur le compositeur ou le ballet soviétique."
 ---
-
 ![Image de L'Age d'Or (Chostakovitch)](https://upload.wikimedia.org/wikipedia/commons/9/93/The_Golden_Age_Cook-Book_1898.png)
 
 ###### Questions

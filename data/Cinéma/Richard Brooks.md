@@ -18,8 +18,9 @@ indice_5 :
   - Scénariste
 indice_6 : 
   - Réalisateur
+culture_g_score: 47
+culture_g_justification: "Réalisateur américain respectable, surtout utile pour quelques adaptations et scénarios, mais rarement ciblé hors des quiz cinéphiles."
 ---
-
 ![Image de Richard Brooks](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/RichardBrooks45.JPG/500px-RichardBrooks45.JPG)
 
 ###### Questions

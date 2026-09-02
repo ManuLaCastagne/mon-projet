@@ -24,8 +24,9 @@ indice_6 :
   - Marmande
 questions:
  - Rattaché à la région Nouvelle-Aquitaine, je tire mon nom de la confluence d'un fleuve et d'une rivière. Producteur de vins comme le côte-de-duras et le buzet, j'abrite le château de Bonaguil et les villes de Nérac...
+culture_g_score: 40
+culture_g_justification: "Département identifiable par Agen, le pruneau et quelques sites patrimoniaux, mais rarement demandé comme connaissance autonome."
 ---
-
 ![Image de Lot-et-Garonne](https://upload.wikimedia.org/wikipedia/commons/b/b2/Lot-et-Garonne_l%C3%A9gislatives_1981.svg)
 
 ![[Carte_Lot-et-Garonne.png]]

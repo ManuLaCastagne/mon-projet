@@ -22,8 +22,9 @@ indice_6 :
   - influencée par l'exil et l'identité
 questions:
  - Quelle femme de lettres franco-égyptienne d'origine libanaise est l'auteure des romans "Le Sixième Jour" et "L'Enfant multiple"?
+culture_g_score: 52
+culture_g_justification: "Andrée Chedid est une autrice francophone importante, utile pour la poésie, la francophonie et sa famille, mais peu fréquente hors de ces angles."
 ---
-
 ![Image de Andrée Chedid](https://upload.wikimedia.org/wikipedia/commons/b/b0/Signature_of_Andree_Chedid.png)
 
 ###### Questions

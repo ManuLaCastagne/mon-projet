@@ -22,8 +22,9 @@ indice_6 :
   - Couleurs et détails artistiques
 questions:
  - En 1999, quelle écrivaine née à Culture_G/Washington rencontre le succès dès la parution de son 2e roman "La Jeune Fille à la perle"?
+culture_g_score: 60
+culture_g_justification: "Romancière connue surtout pour La Jeune Fille à la perle, qui permet des liens avec Vermeer, la peinture et le roman historique, mais reste assez ciblée."
 ---
-
 ![Image de Tracy Chevalier](https://upload.wikimedia.org/wikipedia/commons/a/aa/Tracy_Chevalier_tree.jpg)
 
 ###### Questions

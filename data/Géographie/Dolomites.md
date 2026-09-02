@@ -24,8 +24,9 @@ indice_6 :
   - Tre Cime di Lavaredo
 questions:
  - Massif italien devant mon nom au géologue français Déodat Gratet de Dolomieu qui m'a étudié.
+culture_g_score: 72
+culture_g_justification: "Massif italien très reconnaissable grâce à sa géologie, l’UNESCO, l’alpinisme, le tourisme et les combats de la Première Guerre mondiale."
 ---
-
 ![Image de Dolomites](https://upload.wikimedia.org/wikipedia/commons/d/df/Passo_Pordoi-bops_01.jpg)
 
 ![[Carte_Dolomites.png]]

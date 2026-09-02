@@ -22,10 +22,9 @@ indice_6 :
   - film français
 questions:
  - En 1981, dans quel film un détective privé fait-il équipe avec le malchanceux François Perrin afin de retrouver une jeune femme kidnappée?
+culture_g_score: 77
+culture_g_justification: "Comédie française très célèbre, rentable grâce au duo Richard-Depardieu, à Francis Veber et à son intrigue de malchance."
 ---
-
-
-
 ![Image de La Chèvre](https://upload.wikimedia.org/wikipedia/commons/3/3e/Arr%C3%AAt_La_Ch%C3%A8vre_vers_Terrasse.jpg)
 
 ###### Questions

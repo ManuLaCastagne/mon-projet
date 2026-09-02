@@ -20,12 +20,9 @@ indice_6 :
   - mode du XVIIIe siècle
 questions:
  - En France, au XVIIIe, quelle matière pulvérulente était utilisée par les élégantes de la cour pour recouvrir leurs cheveux ?
+culture_g_score: 35
+culture_g_justification: "Cosmétique historique liée à plusieurs traditions, mais rarement prioritaire dans les quiz généralistes."
 ---
-
-
-
-
-
 ![Image de Poudre de riz](https://upload.wikimedia.org/wikipedia/commons/2/2d/Henri_de_Toulouse-Lautrec_-_Young_woman_at_a_table%2C_%27Poudre_de_riz%27_-_Google_Art_Project.jpg)
 
 ###### Questions

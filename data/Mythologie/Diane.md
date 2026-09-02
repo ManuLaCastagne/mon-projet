@@ -15,11 +15,9 @@ indice_5:
   - Lune
 indice_6:
   - Artemis
+culture_g_score: 80
+culture_g_justification: "Déesse romaine majeure, identifiable par son équivalence avec Artémis et ses nombreux attributs mythologiques."
 ---
-
-
-
-
 ![Image de Diane](https://upload.wikimedia.org/wikipedia/commons/6/67/Boucher_Diane_sortant_du_bain_Louvre_2712.jpg)
 
 ###### Questions

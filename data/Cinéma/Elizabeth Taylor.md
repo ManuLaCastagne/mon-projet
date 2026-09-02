@@ -20,8 +20,9 @@ indice_6:
   - deux Oscars
 questions:
   - En 1972, à quelle actrice Richard Burton a-t-il offert un diamant pour ses 40 ans ?
+culture_g_score: 96
+culture_g_justification: "Icône hollywoodienne universelle, associée à Cléopâtre, Richard Burton, plusieurs Oscars et une carrière couvrant toute l’histoire du cinéma classique."
 ---
-
 ![Image de Elizabeth Taylor](https://upload.wikimedia.org/wikipedia/commons/f/f4/Elizabeth_Taylor%2C_late_1950s.jpg)
 
 ###### Questions

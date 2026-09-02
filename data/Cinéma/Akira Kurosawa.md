@@ -21,8 +21,9 @@ indice_5:
   - Yojimbo
 indice_6:
   - réalisateur emblématique
+culture_g_score: 100
+culture_g_justification: "Figure mondiale du cinéma, incontournable pour le cinéma japonais, les samouraïs, les festivals et l'influence sur Hollywood."
 ---
-
 ![Image de Akira Kurosawa](https://upload.wikimedia.org/wikipedia/commons/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg)
 
 ###### Questions

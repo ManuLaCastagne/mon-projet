@@ -22,8 +22,9 @@ indice_6 :
   - comédie légère
 questions:
  - En 1851, à quel auteur doit-on la pièce "Un Chapeau de paille d'Italie"?
+culture_g_score: 68
+culture_g_justification: "Grand auteur français du vaudeville, utile pour plusieurs pièces et pour l’histoire du théâtre, mais moins transversal que Molière ou Ionesco."
 ---
-
 ![Image de Eugène Labiche](https://upload.wikimedia.org/wikipedia/commons/c/cd/F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Labiche.jpg)
 
 ###### Questions

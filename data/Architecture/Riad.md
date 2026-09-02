@@ -23,8 +23,9 @@ indice_6 :
   - zellige
 questions:
  - Différente de la maison appelée "dar", je suis construite autour d'un patio orné de 4 parterres de jardin et au centre d'un bassin ou d'une fontaine. Habitation typique...
+culture_g_score: 60
+culture_g_justification: "Habitat traditionnel important de l'architecture islamique et marocaine, mais généralement interrogé sous quelques angles récurrents."
 ---
-
 ![Image de Riad](https://upload.wikimedia.org/wikipedia/commons/8/80/Mosqu%C3%A9_Riad_d%27OUJDA.jpg)
 
 ###### Questions

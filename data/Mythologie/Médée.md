@@ -18,11 +18,9 @@ indice_6 :
   - épouse de Jason
 questions:
  - Dans la [[mythologie grecque]], quelle magicienne s'enfuit à Athènes sur un char attelé de 2 dragons ailés, et épousa le roi Egée dont elle eut un fils?
+culture_g_score: 80
+culture_g_justification: "Médée est une héroïne majeure de la mythologie et du théâtre, avec des questions fréquentes sur Jason, les Argonautes, la vengeance et Euripide."
 ---
-
-
-
-
 ![Image de Médée](https://upload.wikimedia.org/wikipedia/commons/f/f0/Medea_Cherubini_titelblad.jpg)
 
 ###### Questions

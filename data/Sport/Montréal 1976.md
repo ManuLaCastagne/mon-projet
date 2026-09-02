@@ -23,6 +23,7 @@ indice_6 :
 questions:
  - A quels JO Nadia Comaneci obtint-elle la note maximale ?
 culture_g_score: 80
+culture_g_justification: "Les Jeux de Montréal sont un classique grâce à Nadia Comăneci, au boycott africain et à leur coût monumental."
 ---
 ![Image de Montréal 1976](https://upload.wikimedia.org/wikipedia/commons/4/4e/1976_Summer_Olympics_logo.svg)
 

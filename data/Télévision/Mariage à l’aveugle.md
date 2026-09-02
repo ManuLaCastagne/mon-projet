@@ -19,9 +19,9 @@ indice_5 :
   - relation inversée
 indice_6 : 
   - experts en compatibilité
+culture_g_score: 57
+culture_g_justification: "Format Netflix très connu et régulièrement identifiable par son concept, mais relevant surtout de la téléréalité récente."
 ---
-
-
 ![Image de Mariage à l’aveugle](https://upload.wikimedia.org/wikipedia/commons/d/da/Mareschal_-_La_S%C5%93ur_valeureuse%2C_ou_l%E2%80%99Aveugle_amante%2C_1634.djvu)
 
 ###### Questions

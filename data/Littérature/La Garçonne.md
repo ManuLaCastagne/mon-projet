@@ -22,9 +22,9 @@ indice_6 :
   - Livre interdit en France
 questions:
  - En 1922, quel roman de Victor Margueritte fait scandale en mettant en scène une jeune femme insoumise aux cheveux courts?
+culture_g_score: 60
+culture_g_justification: "Roman scandaleux de l’entre-deux-guerres, il apporte des repères sur Victor Margueritte, l’émancipation féminine et les débats sociaux."
 ---
-
-
 ![Image de La Garçonne](https://upload.wikimedia.org/wikipedia/commons/2/2f/Victor_Margueritte_-_La_Gar%C3%A7onne%2C_1922.djvu)
 
 ###### Questions

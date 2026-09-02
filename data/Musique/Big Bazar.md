@@ -22,10 +22,9 @@ indice_6 :
   - tube Chante... comme si tu devais mourir demain
 questions:
  - Pratiquant l'autogestion, je compte environ 11 musiciens ainsi que 15 chanteurs et danseurs qui privilégient des titres évoquant la fête.  Troupe créée par Michel Fugain, avec lequel...
+culture_g_score: 60
+culture_g_justification: "Formation française associée à Michel Fugain et à une chanson très connue, mais avec un nombre d’angles relativement limité."
 ---
-
-
-
 ![Image de Big Bazar](https://upload.wikimedia.org/wikipedia/commons/a/a5/Mirage_Retail_Group_logo.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Les Gardiens de la Galaxie
 questions:
  - En 2009, quel acteur, né à Porto Rico, incarne Ernesto Guevara dans un film en 2 parties réalisé par Steven Soderbergh? Il a incarné Guevara aussi.
+culture_g_score: 76
+culture_g_justification: "Acteur reconnu grâce à Traffic, Usual Suspects et Che, permettant des questions sur les Oscars, Soderbergh et le cinéma criminel."
 ---
-
 ![Image de Benicio Del Toro](https://upload.wikimedia.org/wikipedia/commons/3/32/Benicio_Del_Toro_-_Guardians_of_the_Galaxy_premiere_-_July_2014_%28cropped%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Neuralyzer
 questions:
  - Film américain de 1997 où l'on entend dans la version française la réplique "ah, ils l'ont dit à 'Questions pour un champion' hier soir, attends", je suis le 1er volet d'une série de films. Evoquant la menace constituée par Edgar le cafard, je raconte comment un duo protège...
+culture_g_score: 92
+culture_g_justification: "Film populaire et immédiatement identifiable, associé à la science-fiction, la comédie, ses acteurs et ses effets spéciaux."
 ---
-
 ![Image de Men in Black](https://upload.wikimedia.org/wikipedia/commons/8/83/Men_In_Black_%28film_franchise%29_logo.svg)
 
 ###### Questions

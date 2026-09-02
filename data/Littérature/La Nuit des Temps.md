@@ -22,8 +22,9 @@ indice_6 :
   - Éléa
 questions:
  - Dans quel roman à succès de René Barjavel des scientifiques découvrent-ils..
+culture_g_score: 64
+culture_g_justification: "Roman marquant de Barjavel et de la science-fiction française, connu pour son intrigue, mais moins incontournable que les grands classiques mondiaux du genre."
 ---
-
 ![Image de La Nuit des Temps](https://upload.wikimedia.org/wikipedia/commons/9/94/La_nuit_des_temps-Collectif_Serpent_Cosmique-Geneva_Lux-L1002787.jpg)
 
 ###### Questions

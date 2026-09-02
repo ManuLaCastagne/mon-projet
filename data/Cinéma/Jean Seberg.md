@@ -22,8 +22,9 @@ indice_6 :
   - relation avec la Black Panther Party
 questions:
  - Quelle actrice américaine né en 1938, a été mise en scène par Otto Preminger dans "Jeanne d'Arc" et "Bonjour tristesse", partenaire de Belmondo dans "À bout de souffle" et femme de Romain Gary ?
+culture_g_score: 72
+culture_g_justification: "Icône de la Nouvelle Vague associée à À bout de souffle, à Preminger et à une trajectoire politique et tragique marquante."
 ---
-
 ![Image de Jean Seberg](https://upload.wikimedia.org/wikipedia/commons/f/f3/Jean_Seberg_1969.jpg)
 
 ###### Questions

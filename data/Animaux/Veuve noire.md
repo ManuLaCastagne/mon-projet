@@ -15,8 +15,9 @@ indice_6:
   - symbolique de danger et de trahison
 questions:
   - Nom courant de l'araignée venimeuse américaine du genre Latrodectus dont la femelle...
+culture_g_score: 73
+culture_g_justification: "La veuve noire est une araignée très célèbre, mobilisable en zoologie, toxicologie, comportement animal et culture populaire."
 ---
-
 ![Image de Veuve noire](https://upload.wikimedia.org/wikipedia/commons/5/54/Latrodectus_mactans_eating.JPG)
 
 ###### Questions

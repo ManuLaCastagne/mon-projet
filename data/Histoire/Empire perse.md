@@ -18,8 +18,9 @@ indice_5 :
   - satrapies
 indice_6 : 
   - bataille de Marathon
+culture_g_score: 92
+culture_g_justification: "Ensemble central de l’histoire antique, ouvrant sur Cyrus, Darius, les guerres médiques, Alexandre et les civilisations du Proche-Orient."
 ---
-
 ![Image de Empire perse](https://upload.wikimedia.org/wikipedia/commons/9/98/Achaemenid_Empire_Uz.svg)
 
 ###### Questions

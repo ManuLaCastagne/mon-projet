@@ -22,8 +22,9 @@ indice_6 :
   - poète français
 questions:
  - Et écrit  les paroles du chant de "la Coupo". Auteur du poème épique "Mireille (compositrice)".
+culture_g_score: 71
+culture_g_justification: "Poète majeur de la Provence, associé au Félibrige, à la langue d’oc, à Mirèio et au prix Nobel."
 ---
-
 ![Image de Frédéric Mistral](https://upload.wikimedia.org/wikipedia/commons/9/97/Frederic_Mistral_portrait_photo.jpg)
 
 ###### Questions

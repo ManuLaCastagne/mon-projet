@@ -18,8 +18,9 @@ indice_5 :
   - allié de George Washington
 indice_6 : 
   - envoyé par le roi Louis XVI
+culture_g_score: 64
+culture_g_justification: "Général français décisif à Yorktown, utile pour les liens entre France, États-Unis, indépendance américaine et guerre du XVIIIe siècle."
 ---
-
 ![Image de Rochambeau](https://upload.wikimedia.org/wikipedia/commons/1/1b/Rochambeau_Statue_-_Washington_DC.jpg)
 
 ###### Questions

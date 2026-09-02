@@ -22,8 +22,9 @@ indice_6 :
   - Eywa
 questions:
  - Film américain de 2009, j'ai reçu 2 Golden Globes dont celui du meilleur film dramatique.  Tourné notamment en Nouvelle-Zélande, je suis situé en l'an 2154 et j'ai pour héros un ancien marine envoyé sur la planète Pandora où un groupe...
+culture_g_score: 93
+culture_g_justification: "Blockbuster incontournable, utile pour des questions sur Cameron, la 3D, Pandora, les effets spéciaux et les records commerciaux."
 ---
-
 ![Image de Avatar](https://upload.wikimedia.org/wikipedia/commons/6/68/Avatar_Flight_of_Passage_%2833825582954%29.jpg)
 
 ###### Questions

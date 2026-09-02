@@ -18,9 +18,9 @@ indice_5:
   - prolifique
 indice_6:
   - pseudonymes
+culture_g_score: 80
+culture_g_justification: "Auteur très connu grâce à Maigret, à sa production exceptionnelle et à sa place dans le roman policier francophone."
 ---
-
-
 ![Image de Georges Simenon](https://upload.wikimedia.org/wikipedia/commons/e/e3/Georges_Simenon_%281965%29.jpg)
 
 ###### Questions

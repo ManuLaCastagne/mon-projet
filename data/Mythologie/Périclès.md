@@ -18,9 +18,9 @@ indice_6 :
   - Parthénon
 questions:
  - A quel homme d'Etat athénien du Ve siècle avant notre ère attribue-t-on la phrase  "Il n'est point de bonheur sans liberté, ni de liberté sans courage"?
+culture_g_score: 88
+culture_g_justification: "Périclès est une figure majeure de l’Athènes classique, au croisement de la démocratie, du Parthénon, de la guerre et de l’âge d’or culturel grec."
 ---
-
-
 ![Image de Périclès](https://upload.wikimedia.org/wikipedia/commons/e/eb/P%C3%A9ricl%C3%A8s_Pantazis_%281876%29_-_Marine.jpg)
 
 ###### Questions

@@ -21,9 +21,9 @@ indice_5 :
   - désert de Sonora
 indice_6 : 
   - Las Vegas
+culture_g_score: 63
+culture_g_justification: "Désert nord-américain identifiable par la Vallée de la Mort, les Joshua trees, la Californie et les explorations de l’Ouest."
 ---
-
-
 ![[Carte_désert de Mojave.png]]
 
 ###### Questions

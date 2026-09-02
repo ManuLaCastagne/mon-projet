@@ -24,7 +24,8 @@ indice_6 :
   - Arménie
 questions:
  - haîne de montagnes divisée en 3 zones naturelles occupées, au nord, par le bassin du Kouban et, au sud, par celui du Rioni, je suis dominée par un volcan éteint, l'Elbrouz. Haute barrière abritant...
-culture_g_score: 80
+culture_g_score: 83
+culture_g_justification: "Région très transversale, utile pour la géographie Europe-Asie, les peuples, les conflits, les montagnes et la géopolitique postsoviétique."
 ---
 ![[Carte_Caucase.png]]
 

@@ -18,8 +18,9 @@ indice_5:
   - Belge
 indice_6:
   - journaliste
+culture_g_score: 56
+culture_g_justification: "Voix médiatique identifiable de la radio et de l’humour politique, mais encore moins canonique que les grandes figures historiques du média."
 ---
-
 ![Image de Charline Vanhoenacker](https://upload.wikimedia.org/wikipedia/commons/6/68/Charline_09124_Les_Nuits_de_Champagne.jpg)
 
 ###### Questions

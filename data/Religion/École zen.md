@@ -20,8 +20,9 @@ indice_6 :
   - Soto
 questions:
  - Quelle importante école bouddhiste introduite dès le 12e au Japon...
+culture_g_score: 60
+culture_g_justification: "Courant bouddhique assez connu, surtout interrogé à travers le zazen, le Japon, le chan et quelques figures fondatrices."
 ---
-
 ![Image de École zen](https://upload.wikimedia.org/wikipedia/commons/3/3a/Obaku_monks_and_priests.jpg)
 
 ###### Questions

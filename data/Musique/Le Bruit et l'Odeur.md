@@ -1,3 +1,8 @@
+---
+culture_g_score: 60
+culture_g_justification: "Référence politico-culturelle liée à une polémique de Chirac et à Zebda, intéressante mais principalement ancrée dans le contexte français."
+---
+
 ###### Questions
 
 Quel phrase prononcée par [[Jacques Chirac]] en 1991 alors qu'il était maire de Paris a été le nom d'un album de [[Zebda]] ?

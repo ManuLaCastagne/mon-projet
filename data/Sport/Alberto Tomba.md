@@ -20,8 +20,9 @@ indice_6 :
   - Années 1980-1990
 questions:
  - En 1988, lors des Jeux d'hiver, quel skieur italien était surnommé la Bomba ?
+culture_g_score: 77
+culture_g_justification: "Grand champion olympique de ski alpin, régulièrement associé à l’Italie, aux Jeux d’hiver et aux disciplines techniques."
 ---
-
 ![Image de Alberto Tomba](https://upload.wikimedia.org/wikipedia/commons/0/0e/Alberto_Tomba.jpg)
 
 ###### Questions

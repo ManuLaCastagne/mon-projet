@@ -20,8 +20,9 @@ indice_5 :
   - adaptation de livre
 indice_6 : 
   - année 2008
+culture_g_score: 80
+culture_g_justification: "Palme d’or française particulièrement rentable grâce à Laurent Cantet, François Bégaudeau, l’école et les récompenses internationales."
 ---
-
 ![Image de Entre les murs](https://upload.wikimedia.org/wikipedia/commons/2/20/Entre_les_murs_%282008_film%29_-_logo.png)
 
 ###### Questions

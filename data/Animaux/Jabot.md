@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de sagesse dans certaines cultures autochtones
 questions:
  - Chez les oiseaux, quelle poche, Renflement de l'oesophage, permet de stocker les aliments avant le passage dans l'estomac ?
+culture_g_score: 43
+culture_g_justification: "Notion anatomique aviaire utile pour quelques questions sur l'alimentation et les oiseaux, sans forte portée généraliste."
 ---
-
 ![Image de Jabot](https://upload.wikimedia.org/wikipedia/commons/2/26/Jabot.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - service militaire sous domination étrangère
 questions:
  - En 1857, quels soldats indiens engagés au service des Européens se révoltèrent dans les Indes britanniques ? A différencier des Boers.
+culture_g_score: 56
+culture_g_justification: "Terme utile pour comprendre la révolte indienne de 1857 et les armées coloniales, mais relativement spécialisé."
 ---
-
 ![Image de Cipaye](https://upload.wikimedia.org/wikipedia/commons/f/f7/Two_Seapoy_Officers%3B_A_Private_Seapoy.jpg)
 
 ###### Questions

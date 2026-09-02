@@ -15,8 +15,9 @@ indice_6 :
   - Symbole du patrimoine rural français
 questions:
  - Quel cheval de trait, léger, monté par les Dragons sous l'Empire, tient son nom de la Franche-Comté ?
+culture_g_score: 40
+culture_g_justification: "Race française de cheval de trait intéressante régionalement, mais peu fréquente et peu transversale dans les quiz généralistes."
 ---
-
 ![Image de Comtois](https://upload.wikimedia.org/wikipedia/commons/b/b6/Breton_x_Comtois_mare.jpg)
 
 ###### Questions

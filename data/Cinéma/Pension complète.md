@@ -22,8 +22,9 @@ indice_6 :
   - séjour tout compris
 questions:
  - En 2015, dans quel remake Franck Dubosc et Gérard Lanvin reprennent-ils les rôles tenus par Fernandel et Bourvil dans "La Cuisine au beurre" ?
+culture_g_score: 20
+culture_g_justification: "Le film précis est très peu connu et ne fournit qu'un nombre réduit de questions réellement probables en quiz généraliste."
 ---
-
 ![Image de Pension complète](https://upload.wikimedia.org/wikipedia/commons/2/25/Collage_French_Cuisine_by_User-EME.png)
 
 ###### Questions

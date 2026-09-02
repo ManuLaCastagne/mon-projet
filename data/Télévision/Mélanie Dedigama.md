@@ -19,8 +19,9 @@ indice_5 :
   - Jonathan Matijas
 indice_6 : 
   - Les Princes et les Princesses de l'Amour 4
+culture_g_score: 24
+culture_g_justification: "Candidate de téléréalité peu connue hors de son public spécialisé, avec une valeur quiz essentiellement biographique."
 ---
-
 ![Image de Mélanie Dedigama]()
 
 ###### Questions

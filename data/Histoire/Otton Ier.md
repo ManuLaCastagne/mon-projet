@@ -20,8 +20,9 @@ indice_6 :
   - père d'Otton II
 questions:
  - En l'an 962, quel roi de Germanie et d'Italie fonde le Saint Empire romain germanique?
+culture_g_score: 64
+culture_g_justification: "Souverain important de la formation du Saint-Empire, associé à Lechfeld et au couronnement impérial, mais moins fréquent que les grandes figures médiévales."
 ---
-
 ![Image de Otton Ier](https://upload.wikimedia.org/wikipedia/commons/f/f7/22._Henri_Ier%2C_duc_de_Lotharingie%2C_et_son_tuteur_Otton_de_Verdun_%28%3F%29.jpg)
 
 ###### Questions

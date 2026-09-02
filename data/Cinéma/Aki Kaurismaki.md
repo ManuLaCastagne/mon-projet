@@ -21,8 +21,9 @@ indice_5:
   - trilogie des prolétaires
 indice_6:
   - Le Havre
+culture_g_score: 51
+culture_g_justification: "Réalisateur finlandais reconnu à Cannes, mais son cinéma demeure relativement spécialisé pour le grand public."
 ---
-
 ![Image de Aki Kaurismaki](https://upload.wikimedia.org/wikipedia/commons/9/9e/Aki_Kaurism%C3%A4ki.jpg)
 
 ###### Questions

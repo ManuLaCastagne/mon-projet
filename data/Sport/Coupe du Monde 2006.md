@@ -20,8 +20,9 @@ indice_6 :
   - Stade olympique
 questions:
  - oyant le tenant du titre, le Brésil, se faire éliminer en quart de finale, mon match pour la troisième place a été remporté par l'Allemagne.
+culture_g_score: 80
+culture_g_justification: "Mondial marqué par la finale France-Italie, le geste de Zidane et de nombreuses références footballistiques et historiques."
 ---
-
 ![Image de Coupe du Monde 2006](https://upload.wikimedia.org/wikipedia/commons/1/16/Billets_d_entr%C3%A9e_coupe_du_monde_2006.png)
 
 ###### Questions

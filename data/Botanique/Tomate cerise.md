@@ -15,7 +15,8 @@ indice_6 :
   - Apéritifs et salades
 questions:
  - Fruit consommé comme légume et dont le nom figure en 2017 dans le titre d'un roman de Véronique de Bure, je suis un peu plus petit que celui qui est qualifié par le mot cocktail.
-culture_g_score: 35
+culture_g_score: 36
+culture_g_justification: "Aliment très familier, mais la variété tomate cerise elle-même constitue rarement une réponse de culture générale."
 ---
 ![Image de Tomate cerise](https://upload.wikimedia.org/wikipedia/commons/a/ac/Yellow_cherry_tomatoes.jpg)
 

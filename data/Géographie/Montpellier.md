@@ -24,8 +24,9 @@ indice_6 :
   - le quartier Antigone
 questions:
  - De champion de Pro D2. Possédant un logo orné d'une fleur de cyste, marqué par des joueurs comme Mamuka Gorgodze, Timoci Nagusa, Louis Picamoles et Fulgence Ouedraogo, mes joueurs évoluent dans un stade qui fut longtemps nommé Yves du Manoir.
+culture_g_score: 72
+culture_g_justification: "Grande ville française dotée de nombreux points d’entrée, notamment la médecine, l’histoire régionale et le patrimoine."
 ---
-
 ![Image de Montpellier](https://upload.wikimedia.org/wikipedia/commons/9/98/Montpellier_PhotoMontage_01.jpg)
 
 ![[Carte_Montpellier.png]]

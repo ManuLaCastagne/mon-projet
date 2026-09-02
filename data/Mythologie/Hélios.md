@@ -18,8 +18,9 @@ indice_6 :
   - frère de Séléné et Éos
 questions:
  - Frère d'Eos, je traverse le ciel sur un char d'or traîné par quatre chevaux.  Divinité personnifiant le soleil,  je suis…
+culture_g_score: 72
+culture_g_justification: "Personnification grecque du Soleil, reliée à Séléné, à Rhodes et au Colosse, avec plusieurs points d'entrée classiques."
 ---
-
 ![Image de Hélios](https://upload.wikimedia.org/wikipedia/commons/5/51/Emperor_caracalla_helios_statue_roman_north_carolina_museum_of_art.jpg)
 
 ###### Questions

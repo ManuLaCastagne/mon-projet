@@ -20,8 +20,9 @@ indice_6 :
   - Athlétisme
 questions:
  - En 1968, quel athlète américain réalise un bond à 8m90, établissant un nouveau record du monde ?
+culture_g_score: 77
+culture_g_justification: "Exploit olympique spectaculaire et durablement célèbre, fréquemment utilisé pour interroger le saut en longueur et Mexico 1968."
 ---
-
 ![Image de Bob Beamon](https://upload.wikimedia.org/wikipedia/commons/a/aa/1992_Bob_Beamon.JPG)
 
 ###### Questions

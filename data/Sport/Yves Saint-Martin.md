@@ -20,8 +20,9 @@ indice_6 :
   - France
 questions:
  - Quel jockey français, né en 1941, a remporté, pendant près de 30 ans, près de 3000 victoires dans les épreuves de galop du monde entier ?
+culture_g_score: 60
+culture_g_justification: "Jockey français historique associé au Prix de l’Arc de triomphe et aux grands palmarès hippiques."
 ---
-
 ![Image de Yves Saint-Martin](https://upload.wikimedia.org/wikipedia/commons/0/04/Yves_Saint-Martin.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Saut de cheval
 questions:
  - En 1984, quelle gymnaste a été sacrée championne aux JO ?
+culture_g_score: 60
+culture_g_justification: "Championne olympique américaine emblématique de 1984, surtout utile pour des questions sur la gymnastique et les Jeux de Los Angeles."
 ---
-
 ![Image de Marilou Retton]()
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - peu de routes
 questions:
  - Quelle île constituant une dépendance de la Guadeloupe devait son nom aux marins de Colomb soulagés en 1493 d'avoir enfin aperçu la terre ferme ?
+culture_g_score: 32
+culture_g_justification: "Île secondaire de l’archipel guadeloupéen, La Désirade apparaît surtout dans des questions de géographie antillaise très spécifiques."
 ---
-
-
 ![Image de La Désirade](https://upload.wikimedia.org/wikipedia/commons/9/98/Pano_D%C3%A9sirade.jpg)
 
 ![[Carte_La Désirade.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - proéminente dans le mouvement surréaliste
 questions:
  - Quel écrivaine américaine née en France raconte sa relation avec Henry Miller ?
+culture_g_score: 63
+culture_g_justification: "Anaïs Nin offre des liens avec les journaux intimes, la littérature érotique et Henry Miller, mais reste une figure de niche."
 ---
-
 ![Image de Anaïs Nin](https://upload.wikimedia.org/wikipedia/commons/6/6c/Anais_Nin.jpg)
 
 ###### Questions

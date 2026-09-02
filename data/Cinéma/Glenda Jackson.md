@@ -22,9 +22,9 @@ indice_6 :
   - A travaillé avec Ken Russell
 questions:
  - Quelle comédienne britannique née en 1936, 2 fois lauréate de l'Oscar de la meilleure actrice, s'est également engagée en politique?
+culture_g_score: 60
+culture_g_justification: "Actrice oscarisée et ancienne parlementaire britannique, mais relativement peu présente dans les quiz généralistes francophones."
 ---
-
-
 ![Image de Glenda Jackson](https://upload.wikimedia.org/wikipedia/commons/2/2c/Glenda_Jackson.JPG)
 
 ###### Questions

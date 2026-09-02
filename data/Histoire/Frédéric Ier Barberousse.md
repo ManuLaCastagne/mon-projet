@@ -20,9 +20,9 @@ indice_6 :
   - Noyade mystérieuse
 questions:
  - En 1190, quel empereur germanique se noie en Cilicie lors de la 3e croisade?
+culture_g_score: 80
+culture_g_justification: "Empereur médiéval fréquemment relié au Saint-Empire, aux villes lombardes et à la troisième croisade."
 ---
-
-
 ![Image de Frédéric Ier Barberousse](https://upload.wikimedia.org/wikipedia/commons/7/73/Arms_of_the_Holy_Roman_Emperor_%28Hohenstaufen%29.svg)
 
 ###### Questions

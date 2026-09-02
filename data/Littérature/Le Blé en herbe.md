@@ -22,8 +22,9 @@ indice_6 :
   - adolescence
 questions:
  - Quel roman de Colette, publié en 1923 et se déroulant à la fin d'un été, a pour héros deux adolescents ?
+culture_g_score: 51
+culture_g_justification: "Roman important de Colette sur l’adolescence et l’éveil amoureux, mais moins central dans les quiz que ses œuvres et sa biographie les plus connues."
 ---
-
 ![Image de Le Blé en herbe](https://upload.wikimedia.org/wikipedia/commons/8/8f/Colette_-_Le_Bl%C3%A9_en_herbe%2C_1923.djvu)
 
 ###### Questions

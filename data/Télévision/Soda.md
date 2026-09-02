@@ -20,8 +20,9 @@ indice_6 :
   - famille Fontella
 questions:
  - Série télévisée française diffusée dès 2011, j'ai vu la participation d'invitées vedettes comme Amel Bent ou La Fouine. Mettant en scène de façon humoristique la vie d'un lycéen entouré de ses amis...
+culture_g_score: 44
+culture_g_justification: "Série humoristique associée à Kev Adams, identifiable par le public français mais rarement indispensable dans les quiz."
 ---
-
 ![Image de Soda](https://upload.wikimedia.org/wikipedia/commons/1/1a/Soft_drink_shelf_2.jpg)
 
 ###### Questions

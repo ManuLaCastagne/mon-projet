@@ -24,8 +24,9 @@ indice_6 :
   - architecture nordique
 questions:
  - En 1975, dans quelle ville de Scandinavie est signé l'acte final de la conférence sur la sécurité et la coopération en Europe ?
+culture_g_score: 80
+culture_g_justification: "Capitale européenne classique, utile pour la Finlande, les Jeux olympiques, la mer Baltique, le design et l’histoire nordique."
 ---
-
 ![Image de Helsinki](https://upload.wikimedia.org/wikipedia/commons/e/e6/11-07-29-helsinki-by-RalfR-007.jpg)
 
 ![[Carte_Helsinki.png]]

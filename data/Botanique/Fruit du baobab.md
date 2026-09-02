@@ -13,8 +13,9 @@ indice_5:
   - Appellation  Pain de singe
 indice_6:
   - Utilisation  Consommé comme aliment et en médecine traditionnelle
+culture_g_score: 51
+culture_g_justification: "Fruit associé au baobab africain et au surnom pain de singe, intéressant surtout dans des questions de nature et de géographie."
 ---
-
 ![Image de Fruit du baobab](https://upload.wikimedia.org/wikipedia/commons/4/48/Un_fruit_du_Baobab_%28Adansonia_digitata%29.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_6:
   - célèbre pour vaincre les obstacles
 questions:
   - Quel dieu hindou ventru est monté sur un rat...
+culture_g_score: 80
+culture_g_justification: "Divinité hindoue immédiatement reconnaissable, fréquemment mobilisée par la mythologie, les fêtes, l’art et la culture indienne."
 ---
-
 ![Image de Ganesh](https://upload.wikimedia.org/wikipedia/commons/7/72/Hand_crafted_Ganesh_ji_at_Indian_Airport.jpg)
 
 ###### Questions

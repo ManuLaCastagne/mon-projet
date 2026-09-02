@@ -24,8 +24,9 @@ indice_6:
   - Penny Lane
 questions:
   - Dans quelle ville de GB située sur l'estuaire de la Mursay Phileas Fogg débarque-t-il ?
+culture_g_score: 80
+culture_g_justification: "Ville très rentable grâce aux Beatles, au patrimoine industriel et maritime, au football, à la littérature et à son rôle historique dans le commerce."
 ---
-
 ![[Carte_Liverpool.png]]
 
 ###### Questions

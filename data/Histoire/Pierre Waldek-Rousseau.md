@@ -20,9 +20,9 @@ indice_6 :
   - Affaire Dreyfus
 questions:
  - Je suis président du Conseil de 1899 à 1902 et constitue lors de l'agitation...
+culture_g_score: 65
+culture_g_justification: "Son association à la loi de 1901 en fait une référence rentable de l’histoire politique, juridique et laïque française."
 ---
-
-
 ![Image de Pierre Waldek-Rousseau](https://upload.wikimedia.org/wikipedia/commons/d/d9/Getty_Research_Institute_%28IA_gri_33125010851307%29.pdf)
 
 ###### Questions

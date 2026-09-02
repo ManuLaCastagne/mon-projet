@@ -18,8 +18,9 @@ indice_5 :
   - Radioactivité
 indice_6 : 
   - Industries batteries
+culture_g_score: 80
+culture_g_justification: "Élément historique et contemporain important, lié à la métallurgie, Rome, la toxicologie, l’essence et la réglementation environnementale."
 ---
-
 ![Image de Plomb](https://upload.wikimedia.org/wikipedia/commons/3/34/FranceNormandiePlombEglise.jpg)
 
 ###### Questions

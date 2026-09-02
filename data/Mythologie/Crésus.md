@@ -18,9 +18,9 @@ indice_6 :
   - chute du royaume
 questions:
  - Dans la [[mythologie grecque]], quel roi de Lydie est célèbre pour son extraordinaire richesse...
+culture_g_score: 68
+culture_g_justification: "Roi célèbre pour sa richesse et sa chute face à Cyrus, mais moins fréquent que les grandes figures de l'Antiquité."
 ---
-
-
 ![Image de Crésus](https://upload.wikimedia.org/wikipedia/commons/c/cd/Notodontid_Moth_%28Chliara_cresus%29_%2838299673425%29.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Matsya
 indice_6 : 
   - Garuda
+culture_g_score: 91
+culture_g_justification: "Divinité majeure de l’hindouisme, Vishnou permet d’aborder la Trimurti, les avatars, Krishna, les épopées et l’iconographie religieuse."
 ---
-
 ![Image de Vishnou](https://upload.wikimedia.org/wikipedia/commons/8/85/Trabala_vishnou_guttata_dorsal.jpg)
 
 ###### Questions

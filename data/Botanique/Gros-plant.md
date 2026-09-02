@@ -15,8 +15,9 @@ indice_6 :
   - Utilisation  production de vin blanc sec (Gros-Plant-du-Pays-Nantais)
 questions:
  - Quel cépage blanc cultivé près de Nantes est appelé "folle blanche" ?
+culture_g_score: 24
+culture_g_justification: "Dénomination viticole régionale du Pays nantais, trop étroite pour constituer une priorité généraliste."
 ---
-
 ![Image de Gros-plant](https://upload.wikimedia.org/wikipedia/commons/1/18/Pitcher_plants_Gros_Morne_NP.jpg)
 
 ###### Questions

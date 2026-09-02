@@ -20,8 +20,9 @@ indice_5:
   - collaboratrice de Burt Bacharach
 indice_6:
   - détentrice de cinq Grammy Awards
+culture_g_score: 72
+culture_g_justification: "Chanteuse importante de la pop et du jazz, notamment grâce à Bacharach-David, ses tubes et ses récompenses, mais moins incontournable qu’Ella Fitzgerald."
 ---
-
 ![Image de Dionne Warwick](https://upload.wikimedia.org/wikipedia/commons/2/28/Dionne_Warwick_2021.jpg)
 
 ###### Questions

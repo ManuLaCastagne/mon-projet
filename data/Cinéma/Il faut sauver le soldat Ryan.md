@@ -22,8 +22,9 @@ indice_6 :
   - Équipe de soldats
 questions:
  - Film de guerre posant la question du sacrifice, je mets en scène de manière réaliste un groupe de 8 soldats chargés...
+culture_g_score: 80
+culture_g_justification: "Grand film de guerre de Spielberg, exploitable par la Seconde Guerre mondiale, le Débarquement, les Oscars et ses acteurs."
 ---
-
 ![Image de Il faut sauver le soldat Ryan](https://upload.wikimedia.org/wikipedia/commons/a/ac/Saving-private-ryan-logo.svg)
 
 ###### Questions

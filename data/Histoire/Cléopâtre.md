@@ -18,8 +18,9 @@ indice_5 :
   - aspic
 indice_6 : 
   - Julius César
+culture_g_score: 100
+culture_g_justification: "Reine mondialement célèbre, au croisement de l’Égypte ptolémaïque, de Rome, de César, d’Antoine et de nombreuses œuvres culturelles."
 ---
-
 ![Image de Cléopâtre](https://upload.wikimedia.org/wikipedia/commons/f/fa/Cleopatre-darleux.jpg)
 
 ###### Questions

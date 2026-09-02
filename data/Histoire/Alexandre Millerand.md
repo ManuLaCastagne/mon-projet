@@ -20,9 +20,9 @@ indice_6 :
   - Léon Blum s'oppose à lui
 questions:
  - Cette année-là, quel homme politique, ministre du Commerce et de l'Industrie donne son nom à une loi réduisant la durée quotidienne du travail?
+culture_g_score: 48
+culture_g_justification: "Président français de l’après-Première Guerre mondiale, il est utile pour la IIIe République mais demeure une personnalité politique secondaire."
 ---
-
-
 ![Image de Alexandre Millerand](https://upload.wikimedia.org/wikipedia/commons/1/18/Alexandre_Millerand_%28cropped%29.jpg)
 
 ###### Questions

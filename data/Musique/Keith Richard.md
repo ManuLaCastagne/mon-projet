@@ -22,9 +22,9 @@ indice_6 :
   - légende du rock
 questions:
  - "As tears goes by", de Marianne Faithfull en 1964. Avec quel chanteur a-t-elle vécu une histoire d'amour ?
+culture_g_score: 84
+culture_g_justification: "Guitariste emblématique des Rolling Stones, avec de nombreux angles sur le rock, le groupe, sa légende personnelle et la culture populaire."
 ---
-
-
 ![Image de Keith Richard](https://upload.wikimedia.org/wikipedia/commons/e/e7/Richard_H._Keith_%281842%E2%80%931905%29.png)
 
 ###### Questions

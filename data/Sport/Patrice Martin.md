@@ -20,8 +20,9 @@ indice_6 :
   - France
 questions:
  - En 1979, à seulement 15 ans, quel sportif français était déjà champion d'Europe et champion du monde de figures en ski nautique?
+culture_g_score: 20
+culture_g_justification: "Champion majeur du ski nautique, mais personnalité très spécialisée et rarement mobilisée dans les quiz généralistes."
 ---
-
 ![Image de Patrice Martin](https://upload.wikimedia.org/wikipedia/commons/2/2f/Photo_Patrice_MARTIN_Portrait.jpg)
 
 ###### Questions

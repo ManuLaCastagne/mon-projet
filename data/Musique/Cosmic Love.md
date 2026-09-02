@@ -20,8 +20,9 @@ indice_5 :
   - horoscope
 indice_6 : 
   - affinités astrales
+culture_g_score: 40
+culture_g_justification: "Chanson appréciée des amateurs de Florence and the Machine, mais encore trop spécifique pour revenir souvent dans les quiz généralistes."
 ---
-
 ![Image de Cosmic Love](https://upload.wikimedia.org/wikipedia/commons/1/1a/Image_of_lungs_and_liver.jpg)
 
 ###### Questions

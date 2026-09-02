@@ -22,8 +22,9 @@ indice_5 :
   - Peinture de paysage
 indice_6 : 
   - Village d'artistes
+culture_g_score: 60
+culture_g_justification: "Village devenu une référence artistique grâce à l’École de Barbizon et à son lien avec la peinture paysagiste."
 ---
-
 ![[Carte_Barbizon.png]]
 
 ###### Questions

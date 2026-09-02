@@ -22,9 +22,9 @@ indice_6 :
   - Fusion avec pop et rock
 questions:
  - D'abord interprété par des orchestres de femmes, je suis peu à peu modernisé avant de connaître le succès dans les années 80.  Mêlant instruments traditionnels et modernes, je suis originaire de la ville algérienne d'Oran.  Popularisé en France par Khaled, j'accompagne également...
+culture_g_score: 60
+culture_g_justification: "Genre important de la culture musicale maghrébine et francophone, régulièrement associé à Oran, Khaled et aux circulations culturelles."
 ---
-
-
 ![Image de Raï](https://upload.wikimedia.org/wikipedia/commons/4/4b/Ra%C3%AF_ann%C3%A9es_80_%28Alg%C3%A9rie%29.jpg)
 
 ###### Questions

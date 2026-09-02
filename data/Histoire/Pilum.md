@@ -20,8 +20,9 @@ indice_6 :
   - employé avant le combat rapproché
 questions:
  - Quel lourd javelot, ayant une lame pyramidale de 60 cm de long environ, était l'une des armes offensives du légionnaire romain?
+culture_g_score: 60
+culture_g_justification: "Arme emblématique de la légion romaine, régulièrement questionnée dans les quiz antiques, mais avec des angles principalement militaires."
 ---
-
 ![Image de Pilum](https://upload.wikimedia.org/wikipedia/commons/d/d0/Bent_pilum_tip-transparent.png)
 
 ###### Questions

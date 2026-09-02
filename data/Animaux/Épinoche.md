@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de l'adaptabilité écologique
 questions:
  - Quel petit poisson, également appelé arselet, est reconnaissable à ses 3 rayons épineux et à sa coloration nuptiale rouge chez le mâle? 3 rayons épineux, ça peut vous mettre sur la voie.
+culture_g_score: 32
+culture_g_justification: "L’épinoche est un modèle scientifique intéressant, mais cette connaissance est rarement rentable hors de questions spécialisées."
 ---
-
 ![Image de Épinoche](https://upload.wikimedia.org/wikipedia/commons/f/f5/%C3%89pinoches_%C3%A0_3_%C3%A9pines_alevins_juillet_2017_Citadelle_Lille_03.jpg)
 
 ###### Questions

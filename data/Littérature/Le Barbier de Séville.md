@@ -18,8 +18,9 @@ indice_5 :
   - Beaumarchais
 indice_6 : 
   - Opéra-comique
+culture_g_score: 80
+culture_g_justification: "Œuvre classique associée à Beaumarchais, Figaro, Rossini et l’opéra, offrant de nombreuses entrées fréquentes en culture générale."
 ---
-
 ![Image de Le Barbier de Séville](https://upload.wikimedia.org/wikipedia/commons/7/77/Aveline_Desrais_Rosine_Le_barbier_de_S%C3%A9ville_Beaumarchais.jpg)
 
 ###### Questions

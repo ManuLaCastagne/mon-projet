@@ -22,8 +22,9 @@ indice_6 :
   - Mort à la Première Guerre mondiale
 questions:
  - Ecrivain mort en 1914 sur le front à Villeroi, je laisse une œuvre en prose engagée marquée par les convictions socialistes de mes débuts et une œuvre lyrique empreinte de spiritualité.
+culture_g_score: 64
+culture_g_justification: "Écrivain engagé et figure du catholicisme français, utile pour l’Affaire Dreyfus, la poésie et la Première Guerre mondiale, mais moins central que les grands classiques."
 ---
-
 ![Image de Charles Péguy](https://upload.wikimedia.org/wikipedia/commons/8/8a/Charles_peguy.jpg)
 
 ###### Questions

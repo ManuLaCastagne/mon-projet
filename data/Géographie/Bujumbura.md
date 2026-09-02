@@ -20,8 +20,9 @@ indice_5:
   - Afrique de l'Est
 indice_6:
   - Rumonge
+culture_g_score: 40
+culture_g_justification: "Ancienne capitale du Burundi, Bujumbura est surtout utile pour une question de géographie politique ou de changement de capitale."
 ---
-
 ![Image de Bujumbura](https://upload.wikimedia.org/wikipedia/commons/0/08/BUJUMBURA_MAIRIE_3.jpg)
 
 ![[Carte_Bujumbura.png]]

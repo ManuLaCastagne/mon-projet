@@ -24,6 +24,8 @@ indice_6:
 questions:
   - Quel photographe a pris en 1966 plus de 40 chanteurs yéyé désigné au journal SLC ?
   - En 1966, quel photographe prend un cliché regroupant 46 vedettes yé-yé, destiné à paraître dans un célèbre magazine de l'époque?
+culture_g_score: 55
+culture_g_justification: "Jean-Marie Périer est très utile pour la photographie des années yé-yé et Salut les copains, mais son champ reste principalement musical et générationnel."
 ---
 Question : Quel photographe a pris en 1966 plus de 40 chanteurs yéyé désigné au journal [[SLC]] ?
 

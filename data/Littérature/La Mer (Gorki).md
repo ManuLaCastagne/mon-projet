@@ -18,8 +18,9 @@ indice_5:
   - Natacha
 indice_6:
   - Géographie russe
+culture_g_score: 24
+culture_g_justification: "Œuvre peu connue de Gorki, susceptible d’une question spécialisée et offrant peu de repères réutilisables."
 ---
-
 ![Image de La Mer (Gorki)](https://upload.wikimedia.org/wikipedia/commons/7/7f/Gorki_-_Contes_d_Italie.djvu)
 
 ###### Questions

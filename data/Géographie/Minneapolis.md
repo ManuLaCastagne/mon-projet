@@ -21,8 +21,9 @@ indice_5 :
   - Guthrie Theater
 indice_6 : 
   - Minnehaha Falls
+culture_g_score: 60
+culture_g_justification: "Grande ville américaine liée à la musique, aux arts et au Minnesota, mais moins incontournable que les principales métropoles des États-Unis."
 ---
-
 ![[Carte_Minneapolis.png]]
 
 ###### Questions

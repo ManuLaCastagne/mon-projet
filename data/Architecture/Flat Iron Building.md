@@ -23,8 +23,9 @@ indice_6 :
   - façade Beaux-Arts
 questions:
  - En 1902, quel gratte-ciel new yorkais possède la forme d'un fer à repasser ?
+culture_g_score: 64
+culture_g_justification: "Le Flatiron Building est une icône architecturale new-yorkaise, surtout utile pour des questions de monument, d’urbanisme et de gratte-ciel."
 ---
-
 ![Image de Flat Iron Building](https://upload.wikimedia.org/wikipedia/commons/c/c3/Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg)
 
 ###### Questions

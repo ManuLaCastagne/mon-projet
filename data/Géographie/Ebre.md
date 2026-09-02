@@ -22,8 +22,9 @@ indice_6:
   - deuxième plus long fleuve d'Espagne
 questions:
   - Quel fleuve espagnol a un nom issu du latin "iberus" et traverse Logroño ?
+culture_g_score: 60
+culture_g_justification: "Grand fleuve espagnol utile pour l’histoire ibérique, la géographie de l’Espagne et l’écologie de son delta, avec une fréquence moyenne."
 ---
-
 ![Image de Ebre](https://upload.wikimedia.org/wikipedia/commons/7/7c/R%C3%ADo_Ebro_a_su_paso_por_Aldover%2C_comarca_Baix_Ebre.jpg)
 
 ![[Carte_Ebre.png]]

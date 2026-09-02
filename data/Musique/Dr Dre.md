@@ -22,8 +22,9 @@ indice_6 :
   - Death Row Records
 questions:
  - Quel bonheur de réécouter Charles Aznavour interpréter "Parce que tu crois", qui figurait en 1966 sur l'album "La Bohème". Question  quel rappeur américain, de son vrai nom Andre Young, a samplé cette chanson sur son titre "What's the difference" ?
+culture_g_score: 93
+culture_g_justification: "Producteur et rappeur central de l’histoire du hip-hop, lié à N.W.A., Eminem, Aftermath et plusieurs albums fondateurs."
 ---
-
 ![Image de Dr Dre](https://upload.wikimedia.org/wikipedia/commons/d/de/Dr._Dre_in_2011.jpg)
 
 ###### Questions

@@ -20,6 +20,8 @@ indice_5:
   - force colossale
 indice_6:
   - transformations rageuses
+culture_g_score: 93
+culture_g_justification: "Personnage mondialement célèbre permettant des questions sur Marvel, les comics, le cinéma, la télévision et ses interprètes."
 ---
 ![[Pasted image 20250627124856.png]]
 ###### Questions

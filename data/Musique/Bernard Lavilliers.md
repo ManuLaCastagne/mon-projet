@@ -22,8 +22,9 @@ indice_6 :
   - Nuit d'amour
 questions:
  - Citation et question.  "De n'importe quel pays, de n'importe quelle couleur", les paroles sont magnifiques, "la musique est un cri qui vient de l'intérieur". A quel chanteur stéphanois doit-on ces paroles qui figuraient dans le titre "Noir et Blanc" enregistré en 1986 avec le musicien congolais Nzongo Soul?
+culture_g_score: 80
+culture_g_justification: "Figure durable de la chanson française, interrogée à travers ses albums, ses engagements, ses voyages et ses influences musicales."
 ---
-
 ![Image de Bernard Lavilliers](https://upload.wikimedia.org/wikipedia/commons/d/d5/Festival_du_bout_du_Monde_2011_-_Bernard_Lavilliers_en_concert_le_6_ao%C3%BBt-_019.jpg)
 
 ###### Questions

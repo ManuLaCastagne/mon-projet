@@ -20,9 +20,9 @@ indice_6 :
   - Course transatlantique
 questions:
  - En 2007 et 2010, quelle prestigieuse course à la voile a eu lieu à Valence ?
+culture_g_score: 80
+culture_g_justification: "Compétition nautique historique et prestigieuse, exploitable par son ancienneté, ses trophées, ses nations et ses épisodes célèbres."
 ---
-
-
 ![Image de Coupe de l'America](https://upload.wikimedia.org/wikipedia/commons/d/d0/Coupe_de_l%27America_2007_-_BMW_Oracle_Racing.jpg)
 
 ###### Questions

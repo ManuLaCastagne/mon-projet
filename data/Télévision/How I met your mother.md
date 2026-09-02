@@ -19,8 +19,9 @@ indice_5 :
   - Marshall Eriksen
 indice_6 : 
   - Lily Aldrin
+culture_g_score: 76
+culture_g_justification: "Sitcom très populaire, facilement mobilisable grâce à ses personnages, sa narration, ses lieux, ses expressions cultes et sa longue diffusion."
 ---
-
 ![Image de How I met your mother](https://upload.wikimedia.org/wikipedia/commons/4/44/How_I_Met_Your_Mother_cast.jpg)
 
 ###### Questions

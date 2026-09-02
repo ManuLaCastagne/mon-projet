@@ -22,8 +22,9 @@ indice_6 :
   - Nos Batailles
 questions:
  - Acteur au physique juvénile, j'incarne une victime dans "Grâce à Dieu" de François Ozon, un cambrioleur dans "Un beau voyou" et un gendarme aux côtés de Fanny Ardant dans la comédie "Perdrix". Primé aux césars pour mon rôle dans "Petit Paysan", je suis...
+culture_g_score: 60
+culture_g_justification: "Acteur français récompensé et présent dans plusieurs films récents, mais encore peu incontournable hors du cinéma francophone contemporain."
 ---
-
 ![Image de Swan Arlaud](https://upload.wikimedia.org/wikipedia/commons/5/5e/Swann_Arlaud_janvier_2016.jpg)
 
 ###### Questions

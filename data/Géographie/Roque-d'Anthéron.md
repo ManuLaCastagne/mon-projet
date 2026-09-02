@@ -25,10 +25,9 @@ indice_6:
   - village célèbre pour la musique classique
 questions:
   - Chaque été, quelle commune des Bouches-du-Rhône, habitée par les Rocassiers, accueille un festival international de piano?
+culture_g_score: 40
+culture_g_justification: "La Roque-d’Anthéron est surtout connue pour son festival de piano et l’abbaye de Silvacane, des références culturelles assez spécialisées."
 ---
-
-
-
 ![Image de Roque-d'Anthéron](https://upload.wikimedia.org/wikipedia/commons/f/fd/Festival_La_Roque_d%27Anth%C3%A9ron_Sc%C3%A8ne_principale_2017.jpg)
 
 ![[Carte_Roque-d'Anthéron.png]]

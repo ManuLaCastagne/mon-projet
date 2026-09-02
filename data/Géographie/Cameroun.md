@@ -22,8 +22,9 @@ indice_5 :
   - Sanaga
 indice_6 : 
   - Bénoué
+culture_g_score: 63
+culture_g_justification: "Pays africain assez classique, utile pour sa géographie, son bilinguisme, ses ressources, son football et son histoire coloniale."
 ---
-
 ![[Carte_Cameroun.png]]
 
 ###### Questions

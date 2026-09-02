@@ -20,8 +20,9 @@ indice_6 :
   - littérature et arts
 questions:
  - Quelle émission culturelle de France 2 fut présentée par Laure Adler, Philippe Lefait, Michel Field ?
+culture_g_score: 43
+culture_g_justification: "Émission culturelle historique intéressante pour les médias français, mais aujourd’hui peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Le Cercle de minuit](https://upload.wikimedia.org/wikipedia/commons/3/35/Verhaeren_-_Contes_de_minuit%2C_1884.djvu)
 
 ###### Questions

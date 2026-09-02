@@ -20,8 +20,9 @@ indice_6 :
   - né dans une cabane en rondins du Kentucky
 questions:
  - Aux Etats-Unis, quel président élu en 1860 est célèbre pour son combat contre l'esclavage et figure sur les pièces de 1 cent  et sur les billets de 5 dollars ?
+culture_g_score: 100
+culture_g_justification: "Figure mondiale incontournable, permettant de couvrir la guerre de Sécession, l’abolition, la présidence américaine et l’histoire politique."
 ---
-
 ![Image de Abraham Lincoln](https://upload.wikimedia.org/wikipedia/commons/4/44/F-18F_after_launch_from_USS_Abraham_Lincoln_%28CVN-72%29.jpg)
 
 ###### Questions

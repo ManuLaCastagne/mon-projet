@@ -20,8 +20,9 @@ indice_5:
   - autrice américaine
 indice_6:
   - série à suspense
+culture_g_score: 47
+culture_g_justification: "Autrice populaire du roman policier, mais surtout utile dans le cadre spécialisé des séries médico-légales."
 ---
-
 ![Image de Patricia Cornwell](https://upload.wikimedia.org/wikipedia/commons/5/56/Patricia_Cornwell_2011_b.jpg)
 
 ###### Questions

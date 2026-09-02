@@ -15,8 +15,9 @@ indice_6:
   - Utilisation  certaines espèces utilisées pour produire des épices ou pour leur beauté ornementale
 questions:
   - Le safran cultivé est une espèce…
+culture_g_score: 64
+culture_g_justification: "Le lien direct avec le safran rend le crocus rentable pour des questions de botanique, d’épices et de culture méditerranéenne."
 ---
-
 ![Image de Crocus](https://upload.wikimedia.org/wikipedia/commons/a/ad/Crocus_cultivars-20210326-RM-123445.jpg)
 
 ###### Questions

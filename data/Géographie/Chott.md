@@ -24,8 +24,9 @@ indice_6 :
   - eau évaporée
 questions:
  - Quel nom portent les lacs salés occupant toute la largeur du pays entre la barrière montagneuse de Gavsa au nord et de Sahara tunisiens au sud ?
+culture_g_score: 43
+culture_g_justification: "Terme géographique spécialisé désignant des dépressions salées nord-africaines, avec quelques exemples classiques mais peu d’usages."
 ---
-
 ![Image de Chott](https://upload.wikimedia.org/wikipedia/commons/a/a9/Barque_sur_une_mer_de_sel_%C3%A0_Chott_Jrid.jpg)
 
 ![[Carte_Chott.png]]

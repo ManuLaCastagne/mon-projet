@@ -20,10 +20,9 @@ indice_6 :
   - nom japonais
 questions:
  - Quel mot japonais signifiant souverain désigne l'empereur du Japon?
+culture_g_score: 40
+culture_g_justification: "Référence familière de la confiserie et du jeu d’adresse, mais de portée culturelle et de fréquence quiz limitées."
 ---
-
-
-
 ![Image de Mikado](https://upload.wikimedia.org/wikipedia/commons/7/73/Syrmaticus_mikado_MHNT.jpg)
 
 ###### Questions

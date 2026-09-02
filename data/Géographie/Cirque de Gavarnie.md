@@ -22,8 +22,9 @@ indice_5 :
   - Gavarnie
 indice_6 : 
   - Parc national des Pyrénées
+culture_g_score: 68
+culture_g_justification: "Paysage pyrénéen très remarquable, lié à l’UNESCO, au glaciaire et au tourisme, mais moins fréquent que les grands monuments naturels mondiaux."
 ---
-
 ![[Carte_Cirque de Gavarnie.png]]
 
 ###### Questions

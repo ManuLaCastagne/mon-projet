@@ -20,8 +20,9 @@ indice_5 :
   - comédie dramatique
 indice_6 : 
   - Pinocchio
+culture_g_score: 80
+culture_g_justification: "La Vie est belle, ses Oscars et son parcours d'acteur-réalisateur en font une référence fréquente du cinéma international."
 ---
-
 ![Image de Roberto Benigni](https://upload.wikimedia.org/wikipedia/commons/e/e4/Roberto_Benigni-5274.jpg)
 
 ###### Questions

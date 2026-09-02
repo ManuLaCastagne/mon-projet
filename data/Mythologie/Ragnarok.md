@@ -18,8 +18,9 @@ indice_6 :
   - fin du monde
 questions:
  - Dans la mythologie nordique, quel terme issu du vieux scandinave désigne la légende cosmogonique décrivant la fin du monde?
+culture_g_score: 84
+culture_g_justification: "Apocalypse majeure de la mythologie nordique, le Ragnarök est très reconnaissable et fournit des questions sur les Eddas, Odin, Thor, Loki et la fin du monde."
 ---
-
 ![Image de Ragnarok](https://upload.wikimedia.org/wikipedia/commons/2/2e/Fenris_and_Odin_at_ragnar%C3%B6k.jpg)
 
 ###### Questions

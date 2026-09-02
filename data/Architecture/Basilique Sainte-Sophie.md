@@ -20,8 +20,9 @@ indice_5:
   - Mosaïques chrétiennes
 indice_6:
   - Minarets ottomans
+culture_g_score: 100
+culture_g_justification: "Sainte-Sophie est un monument exceptionnellement transversal, à la croisée des empires, religions, villes, arts et débats contemporains."
 ---
-
 ![Image de Basilique Sainte-Sophie](https://upload.wikimedia.org/wikipedia/commons/6/6c/Sainte-Sophie_-_vierge_%C3%A0_l%27enfant.jpg)
 
 ###### Questions

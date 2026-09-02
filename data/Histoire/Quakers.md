@@ -20,8 +20,9 @@ indice_6 :
   - Perfection intérieure
 questions:
  - Sous quel nom anglais signifiant "trembleur" connaît-on mieux les membres du mouvement protestant "la société des amis" ?
+culture_g_score: 63
+culture_g_justification: "Mouvement religieux associé au pacifisme, à la Pennsylvanie, à l’abolitionnisme et à l’aide humanitaire."
 ---
-
 ![Image de Quakers](https://upload.wikimedia.org/wikipedia/commons/0/0a/Quaker_badges%2C_Sept_2023.jpg)
 
 ###### Questions

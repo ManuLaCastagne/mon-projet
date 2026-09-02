@@ -22,8 +22,9 @@ indice_6 :
   - science-fiction
 questions:
  - En 1981, quel dessinateur de bande dessinée ayant publié sous les pseudonymes de Gir ou Moebius...
+culture_g_score: 80
+culture_g_justification: "Jean Giraud, alias Mœbius, est une figure majeure de la bande dessinée grâce à Blueberry, à son univers graphique et à ses liens avec la science-fiction."
 ---
-
 ![Image de Jean Giraud](https://upload.wikimedia.org/wikipedia/commons/5/56/Moebius_Lodz_2008.jpg)
 
 ###### Questions

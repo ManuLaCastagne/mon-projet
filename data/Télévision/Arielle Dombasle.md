@@ -20,8 +20,9 @@ indice_6 :
   - Danse avec les stars
 questions:
  - En 1993, quelle actrice portait une robe rose pâle très décolletée dans le dos lorsqu'elle s'est unie à Bernard-Henri Lévy?
+culture_g_score: 47
+culture_g_justification: "Personnalité médiatique connue pour ses activités de comédienne, chanteuse et jurée, mais peu centrale dans la culture générale."
 ---
-
 ![Image de Arielle Dombasle](https://upload.wikimedia.org/wikipedia/commons/7/74/DOMBASLE_Arielle-24x30-2006.jpg)
 
 ###### Questions

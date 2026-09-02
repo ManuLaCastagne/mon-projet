@@ -22,8 +22,9 @@ indice_6 :
   - La Mort du loup
 questions:
  - Quel poète dit dans "La mort du Loup"   "Seul le silcence est grand."
+culture_g_score: 67
+culture_g_justification: "Poète, dramaturge et romancier romantique, Vigny est important mais moins fréquemment mobilisé que les figures centrales du mouvement."
 ---
-
 ![Image de Alfred de Vigny](https://upload.wikimedia.org/wikipedia/commons/1/1d/F%C3%A9lix_Nadar_1820-1910_Alfred_de_Vigny.jpg)
 
 ###### Questions

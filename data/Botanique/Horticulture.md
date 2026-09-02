@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée pour l'embellissement et la production alimentaire
 questions:
  - Engagée au niveau supérieur à l'Agrocampus d'Angers, j'emploie des techniques telles que l'aéroponie, le forçage ou l'art topiaire.  Mise en oeuvre à des fins vivrières ou ornementales...
+culture_g_score: 55
+culture_g_justification: "Discipline assez large touchant agriculture, jardins, alimentation et environnement, sans être un marronnier fréquent."
 ---
-
 ![Image de Horticulture](https://upload.wikimedia.org/wikipedia/commons/7/7f/Horticulture_worker.jpg)
 
 ###### Questions

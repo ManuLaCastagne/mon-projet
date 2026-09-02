@@ -24,8 +24,9 @@ indice_6 :
   - Anse Vata
 questions:
  - Dans quelle ville peut-on flâner sur la place des Cocotiers ou faire ses courses dans le marché de Port Moselle ?
+culture_g_score: 48
+culture_g_justification: "Capitale de la Nouvelle-Calédonie mobilisable en géographie ultramarine, dans la culture kanak et pour le lagon, mais peu fréquente."
 ---
-
 ![Image de Nouméa](https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Noum%C3%A9a%2C_New_Caledonia.png)
 
 ![[Carte_Nouméa.png]]

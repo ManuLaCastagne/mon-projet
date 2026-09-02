@@ -24,8 +24,9 @@ indice_6 :
   - lac Paranoá
 questions:
  - Quelle ville, officiellement devenue la capitale d'un pays d'Amérique le 21 avril 1960 a été construite pour l'essentiel en 3 ans sur un site vierge?
+culture_g_score: 80
+culture_g_justification: "Capitale planifiée emblématique, Brasilia permet des questions sur le Brésil, l’urbanisme moderne, Niemeyer et l’UNESCO."
 ---
-
 ![Image de Brasilia](https://upload.wikimedia.org/wikipedia/commons/5/54/Montagem_Bras%C3%ADlia.jpg)
 
 ![[Carte_Brasilia.png]]

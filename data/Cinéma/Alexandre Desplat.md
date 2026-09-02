@@ -21,9 +21,9 @@ indice_5:
   - origines franco-grecques
 indice_6:
   - musiques pour films français et internationaux
+culture_g_score: 63
+culture_g_justification: "Compositeur de musique de film associé à de grandes productions et à plusieurs réalisateurs, mais encore relativement spécialisé."
 ---
-
-
 ![Image de Alexandre Desplat](https://upload.wikimedia.org/wikipedia/commons/8/86/AlexandreDesplat-gros-plan.jpg)
 
 ###### Questions

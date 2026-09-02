@@ -20,8 +20,9 @@ indice_6 :
   - The Reds
 questions:
  - Le 21 décembre 2019, quel club anglais de football remporte le Mondial des clubs en battant les Brésiliens du Flamengo en finale?
+culture_g_score: 97
+culture_g_justification: "Club mondialement emblématique, abondamment interrogé pour son histoire, Anfield, ses titres européens, ses joueurs et sa culture populaire."
 ---
-
 ![Image de Liverpool FC](https://upload.wikimedia.org/wikipedia/commons/d/d1/Liverpool_FC_crest%2C_Main_Stand.jpg)
 
 ###### Questions

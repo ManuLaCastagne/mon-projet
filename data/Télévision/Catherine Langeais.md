@@ -18,8 +18,9 @@ indice_5 :
   - épouse de Pierre Sabbagh
 indice_6 : 
   - présentatrice de variété
+culture_g_score: 48
+culture_g_justification: "Pionnière de la télévision française présentant un intérêt historique, mais désormais peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Catherine Langeais](https://upload.wikimedia.org/wikipedia/commons/5/5a/CatherineLangeais-1951-INA.png)
 
 ###### Questions

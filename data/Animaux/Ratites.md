@@ -13,8 +13,9 @@ indice_5 :
   - Le coursier du désert
 indice_6 : 
   - Symbole de rapidité dans diverses cultures
+culture_g_score: 52
+culture_g_justification: "Groupe utile pour relier plusieurs grands oiseaux coureurs, mais moins fréquent et moins connu que l’autruche ou l’émeu pris séparément."
 ---
-
 ![Image de Ratites](https://upload.wikimedia.org/wikipedia/commons/c/c5/Ratite_Diversity.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - scandale et romance
 questions:
   - Et toujours au Culture_G/XIXe, en 1955, vous l'avez passée tout de suite, dans quel film de Max Ophuls,  Martine Carol interprète-t-elle le rôle d'une danseuse et courtisane ?
+culture_g_score: 47
+culture_g_justification: "Film majeur de Max Ophüls mais surtout connu des cinéphiles et susceptible de questions relativement spécialisées."
 ---
-
 ![Image de Lola Montes](https://upload.wikimedia.org/wikipedia/commons/1/15/1919-01-08%2C_Mundo_Gr%C3%A1fico%2C_Lola_Montes%2C_Walken.jpg)
 
 ###### Questions

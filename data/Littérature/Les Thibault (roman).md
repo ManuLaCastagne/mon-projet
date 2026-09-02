@@ -22,8 +22,9 @@ indice_6 :
   - huit tomes
 questions:
  - Quel cycle romanesque de Roger-Martin du Gard publié de 1922 à 1940 trace le portrait d'une famille bourgeoise ?
+culture_g_score: 52
+culture_g_justification: "Saga importante de Martin du Gard, utile pour le Nobel et la littérature de l’entre-deux-guerres, mais peu présente dans les quiz grand public."
 ---
-
 ![Image de Les Thibault (roman)](https://upload.wikimedia.org/wikipedia/commons/3/32/Saint-Thibault-des-Vignes_-_Place_de_l%27%C3%89glise.jpg)
 
 ###### Questions

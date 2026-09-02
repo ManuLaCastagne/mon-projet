@@ -23,8 +23,9 @@ indice_6 :
   - Influence naïve
 questions:
  - A quel peintre naïf, célèbre pour ses tableaux d'inspiration exotique, doit-on la toile...
+culture_g_score: 80
+culture_g_justification: "Le Douanier Rousseau est une référence classique de la peinture naïve, des jungles imaginaires et de l'art moderne français."
 ---
-
 ![Image de Douanier Rousseau](https://upload.wikimedia.org/wikipedia/commons/4/40/Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg)
 
 ###### Questions

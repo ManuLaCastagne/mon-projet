@@ -20,8 +20,9 @@ indice_6 :
   - caractères mobiles
 questions:
  - A quel Allemand doit-on le premier... ?
+culture_g_score: 100
+culture_g_justification: "Gutenberg est une référence absolument incontournable, interrogée sur l’imprimerie, la diffusion des savoirs, la Renaissance, la Bible et l’histoire des techniques."
 ---
-
 ![Image de Johannes Gutenberg](https://upload.wikimedia.org/wikipedia/commons/4/40/Eltville_gutenberg.jpg)
 
 ###### Questions

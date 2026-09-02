@@ -22,8 +22,9 @@ indice_6 :
   - Chanteur américain
 questions:
  - Début 2015, quel jeune chanteur et musicien américain a rendu hommage à Marvin Gaye dans une chanson homonyme?
+culture_g_score: 53
+culture_g_justification: "Chanteur pop contemporain reconnaissable par See You Again et ses collaborations, mais encore limité comme référence historique de culture générale."
 ---
-
 ![Image de Charlie Puth](https://upload.wikimedia.org/wikipedia/commons/8/86/Charlie_Puth_2017_%28cropped%29.jpg)
 
 ###### Questions

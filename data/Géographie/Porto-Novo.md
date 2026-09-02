@@ -22,8 +22,9 @@ indice_5 :
   - population diverse
 indice_6 : 
   - architecture coloniale
+culture_g_score: 60
+culture_g_justification: "Capitale officielle du Bénin, utile pour l’histoire de l’Afrique de l’Ouest et la colonisation, malgré la prédominance de Cotonou."
 ---
-
 ![Image de Porto-Novo](https://upload.wikimedia.org/wikipedia/commons/0/08/Porto-Novo_vue.jpg)
 
 ![[Carte_Porto-Novo.png]]

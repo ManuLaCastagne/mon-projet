@@ -22,8 +22,9 @@ indice_5 :
   - Sur l'île de Saint-Christophe
 indice_6 : 
   - Volcan éteint Mount Liamuiga à proximité
+culture_g_score: 40
+culture_g_justification: "Capitale d’un micro-État caribéen, surtout utile pour une question de capitales ou de géographie politique."
 ---
-
 ![Image de Basseterre](https://upload.wikimedia.org/wikipedia/commons/0/06/Basseterre.jpeg)
 
 ![[Carte_Basseterre.png]]

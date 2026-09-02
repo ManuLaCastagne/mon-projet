@@ -20,9 +20,9 @@ indice_5:
   - Bonnie and Clyde
 indice_6:
   - Couleur café
+culture_g_score: 96
+culture_g_justification: "Gainsbourg est une référence incontournable de la chanson française, exploitable par ses œuvres, ses provocations, ses collaborations et son influence culturelle."
 ---
-
-
 ![Image de Serge Gainsbourg](https://upload.wikimedia.org/wikipedia/commons/9/9a/Serge_Gainsbourg_par_Claude_Truong-Ngoc_1981.jpg)
 
 ###### Questions

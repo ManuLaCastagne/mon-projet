@@ -20,8 +20,9 @@ indice_6 :
   - Framboisier
 questions:
  - Interprétant une bande d'amis dans 2 séries, car ils jouaient de la musique mais aussi dans des séries, dont "La croisière Foll'Amour", j'ai également connu le succès avec des titres tels que "La Fête au village" chanté par Framboisier. Groupe de 5 musiciens ayant accompagné le "Club Dorothée".
+culture_g_score: 60
+culture_g_justification: "Groupe emblématique du Club Dorothée et de la chanson populaire française, avec plusieurs repères télévisuels facilement réutilisables."
 ---
-
 ![Image de Les Musclés](https://upload.wikimedia.org/wikipedia/commons/5/50/Gros_level_ce_soir_pour_cette_session_Karaok%C3%A9_chez_%40elautju_%21%21_-Muscl%C3%A9s_-FeteAuVillage_%286976395764%29.jpg)
 
 ###### Questions

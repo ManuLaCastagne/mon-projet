@@ -20,9 +20,9 @@ indice_5 :
   - lutte des classes
 indice_6 : 
   - maison luxueuse
+culture_g_score: 92
+culture_g_justification: "Film historique des Oscars et de Cannes, relié à Bong Joon-ho, au cinéma sud-coréen et aux inégalités sociales, il est devenu un marronnier récent."
 ---
-
-
 ![Image de Parasite](https://upload.wikimedia.org/wikipedia/commons/a/a1/Entamoeba_histolytica_life_cycle-en.svg)
 
 ###### Questions

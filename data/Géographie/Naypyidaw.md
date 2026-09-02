@@ -22,8 +22,9 @@ indice_5 :
   - Large boulevards
 indice_6 : 
   - Résidence présidentielle
+culture_g_score: 49
+culture_g_justification: "Capitale atypique de la Birmanie, souvent citée pour son transfert récent et ses avenues désertes, mais offrant peu d'angles indépendants."
 ---
-
 ![Image de Naypyidaw](https://upload.wikimedia.org/wikipedia/commons/c/c1/20160808_Naypyidaw_9054.jpg)
 
 ![[Carte_Naypyidaw.png]]

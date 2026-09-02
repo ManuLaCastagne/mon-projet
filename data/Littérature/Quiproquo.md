@@ -22,8 +22,9 @@ indice_6 :
   - personnages échangés
 questions:
  - Procédé théâtral ayant donné son nom à une pièce de Charles Henri Ménival publiée en 2015, je suis employé depuis l'Antiquité grecque et romaine dans le genre comique.  Rendant le public complice d'une situation embrouillée, je permets à Molière dans "L'Avare" de jouer sur le sens des mots lorsque...
+culture_g_score: 76
+culture_g_justification: "Terme courant de narration et de théâtre, fréquemment défini ou illustré par des exemples de comédies classiques."
 ---
-
 ![Image de Quiproquo](https://upload.wikimedia.org/wikipedia/commons/0/06/Quiproquo_monumental_-_05.jpg)
 
 ###### Questions

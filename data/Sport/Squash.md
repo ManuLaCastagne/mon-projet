@@ -20,8 +20,9 @@ indice_6 :
   - British Open
 questions:
  - Obligeant mes joueurs, après chaque coup, à se replacer sur le T central de mon court, j'ai été affilié...
+culture_g_score: 60
+culture_g_justification: "Sport de raquette connu et identifiable par son terrain fermé, son histoire et ses compétitions, mais moins central que le tennis ou le badminton."
 ---
-
 ![Image de Squash](https://upload.wikimedia.org/wikipedia/commons/6/69/Cucurbita_2011_G1.jpg)
 
 ###### Questions

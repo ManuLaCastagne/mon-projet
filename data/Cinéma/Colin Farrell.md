@@ -22,8 +22,9 @@ indice_6 :
   - Golden Globe
 questions:
  - Je me fais connaître du grand public dès 2001 grâce à mes rôles dans "Tigerland" et "Phone Game". Opposé à Tom Cruise dans "Minority report" puis à Ben Affleck dans "Daredevil", je suis le héros des superproductions "Le Nouveau Monde".
+culture_g_score: 64
+culture_g_justification: "Acteur irlandais connu pour plusieurs productions internationales et ses Golden Globes, mais sans être une référence cinématographique incontournable."
 ---
-
 ![Image de Colin Farrell](https://upload.wikimedia.org/wikipedia/commons/d/d4/Colin_Farrell_by_Gage_Skidmore.jpg)
 
 ###### Questions

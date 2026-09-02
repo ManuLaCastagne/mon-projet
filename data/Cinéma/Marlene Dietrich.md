@@ -22,9 +22,9 @@ indice_6 :
   - A Foreign Affair
 questions:
  - En 1931, cinéma, quelle actrice allemande joue une passagère d'un train attaquée par des rebelles chinois dans le film "Shanghai Express" ?
+culture_g_score: 88
+culture_g_justification: "Icône internationale du cinéma, exploitable via Hollywood, l’Allemagne, la musique et l’histoire du XXe siècle."
 ---
-
-
 ![Image de Marlene Dietrich](https://upload.wikimedia.org/wikipedia/commons/2/2d/Marlene_Dietrich_in_No_Highway_%281951%29_%28Cropped%29.png)
 
 ###### Questions

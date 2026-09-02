@@ -15,8 +15,9 @@ indice_6 :
   - Parfumerie et aromathérapie
 questions:
  - Quelle plante à petites fleurs bleues dégage une odeur aromatique ?
+culture_g_score: 72
+culture_g_justification: "Plante emblématique de la Provence et de la parfumerie, exploitable en botanique, usages médicinaux, cuisine et culture."
 ---
-
 ![Image de Lavande](https://upload.wikimedia.org/wikipedia/commons/c/cb/Lavande_lavender_bouquet.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - 5 décembre 2016
 questions:
  - qui a réalisé le film "Voyage au bout de l'enfer" en 1978 ?
+culture_g_score: 67
+culture_g_justification: "Réalisateur important de l’histoire hollywoodienne, surtout grâce à Voyage au bout de l’enfer et La Porte du paradis."
 ---
-
-
 ![Image de Michael Cimino](https://upload.wikimedia.org/wikipedia/commons/5/5a/Michael_Cimino_%28actor%29_-_2021_%28tqsZ0IXtcfM%29.jpg)
 
 ###### Questions

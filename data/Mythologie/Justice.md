@@ -17,10 +17,9 @@ indice_5:
   - Némésis
 indice_6:
   - tribunal des dieux
+culture_g_score: 48
+culture_g_justification: "Justitia est surtout utile pour reconnaître l’allégorie romaine de la justice et ses attributs, avec peu d’angles mythologiques indépendants."
 ---
-
-
-
 ![Image de Justice](https://upload.wikimedia.org/wikipedia/commons/f/fe/Justice_Statue_Iran.jpg)
 
 ###### Questions

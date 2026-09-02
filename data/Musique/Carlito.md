@@ -20,8 +20,9 @@ indice_5 :
   - clip Je me souviens
 indice_6 : 
   - souvent associé à l'humour
+culture_g_score: 40
+culture_g_justification: "Personnalité connue du paysage YouTube français, mais principalement cantonnée à quelques questions sur McFly et Carlito et la culture web récente."
 ---
-
 ![Image de Carlito](https://upload.wikimedia.org/wikipedia/commons/6/68/Carlito_Colon_with_Fans.jpg)
 
 ###### Questions

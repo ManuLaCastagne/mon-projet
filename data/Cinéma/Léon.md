@@ -22,8 +22,9 @@ indice_6:
   - plante verte
 questions:
   - En 1994, dans quel film de Luc Besson un tueur à gages, incarné par Jean Reno...
+culture_g_score: 80
+culture_g_justification: "Thriller culte de Luc Besson, fréquemment associé à Jean Reno, Natalie Portman, Gary Oldman et au cinéma des années 1990."
 ---
-
 ![Image de Léon](https://upload.wikimedia.org/wikipedia/commons/2/28/Popularity_of_name_Leon.svg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - personnalité marquée par son franc-parler
 questions:
  - Quelle animatrice présente l'émission télévisée "Sous les jupons de l'histoire"...
+culture_g_score: 56
+culture_g_justification: "Animatrice populaire de plusieurs émissions, avec des liens vers l’humour et la télévision française, sans être une figure incontournable."
 ---
-
 ![Image de Christine Bravo](https://upload.wikimedia.org/wikipedia/commons/2/24/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-Christine_Bravo.wav)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de prospérité en Grèce
 questions:
  - Quel poisson grégaire de la famille des mulidés doit son nom au fait qu'il devient rouge hors de l'eau ?
+culture_g_score: 40
+culture_g_justification: "Poisson culinaire identifiable surtout dans le contexte méditerranéen, avec une fréquence de quiz modeste."
 ---
-
 ![Image de Rouget](https://upload.wikimedia.org/wikipedia/commons/c/c8/Rouget%2C_Georges%2C_par_Nadar%2C_BNF_Gallica.jpg)
 
 ###### Questions

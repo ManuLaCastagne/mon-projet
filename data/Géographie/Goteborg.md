@@ -24,8 +24,9 @@ indice_6 :
   - Volvo
 questions:
  - Quelle ville de Suède, située à mi-chemin entre Oslo et Copenhague, est la 2e ville et principal port du pays ?
+culture_g_score: 60
+culture_g_justification: "Deuxième ville de Suède, pertinente pour le port, l’industrie, la technologie et la culture scandinave, sans être incontournable."
 ---
-
 ![Image de Goteborg](https://upload.wikimedia.org/wikipedia/commons/f/f1/G%C3%B6teborgs_domkyrka_%28Gothenburg_Cathedral%29%2C_Gothenburg%2C_Sweden_-_20100924.jpg)
 
 ![[Carte_Goteborg.png]]

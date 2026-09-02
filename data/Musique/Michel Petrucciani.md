@@ -22,8 +22,9 @@ indice_6 :
   - collaboration avec Wayne Shorter
 questions:
  - De quel compositeur français de jazz, également pianiste virtuose malgré un lourd handicap ?
+culture_g_score: 64
+culture_g_justification: "Pianiste de jazz français marquant, souvent identifié par son handicap et ses collaborations, mais restant un sujet relativement spécialisé."
 ---
-
 ![Image de Michel Petrucciani](https://upload.wikimedia.org/wikipedia/commons/5/5b/Place_Michel_Petrucciani_Paris.jpg)
 
 ###### Questions

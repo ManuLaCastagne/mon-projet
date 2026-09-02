@@ -22,8 +22,9 @@ indice_6 :
   - bande dessinée
 questions:
  - Dans la bande dessinée d'Elzie Crisler Segar, comment se prénomme la fiancée de Popeye?
+culture_g_score: 85
+culture_g_justification: "Personnage mondialement célèbre de la bande dessinée et de l’animation, ouvrant sur Segar, les épinards et la culture populaire."
 ---
-
 ![Image de Popeye](https://upload.wikimedia.org/wikipedia/commons/2/26/Popeye_transparent.png)
 
 ###### Questions

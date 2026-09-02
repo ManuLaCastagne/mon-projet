@@ -20,8 +20,9 @@ indice_6 :
   - la fin justifie les moyens
 questions:
  - A quel écrivain italien de la Renaissance doit-on "Le Livre du courtisan", qui a servi de manuel de savoir-vivre dans les cours européennes?
+culture_g_score: 100
+culture_g_justification: "Machiavel est incontournable pour la Renaissance, la pensée politique, Florence, Le Prince et les notions de pouvoir et de raison d’État."
 ---
-
 ![Image de Machiavel](https://upload.wikimedia.org/wikipedia/commons/3/3a/Niccol%C3%B2_di_Bernardo_dei_Machiavelli_%28B%C3%BCste%29_%2810099793265%29.jpg)
 
 ###### Questions

@@ -21,9 +21,9 @@ indice_6 :
 questions:
  - Quel golfeur américain surnommé "l'ours doré" a gagné trois fois l'open britannique ainsi que quinze autres titres dans le GC américain ?
  - Quel golfeur américain, détenant le record de victoires...
+culture_g_score: 77
+culture_g_justification: "Détenteur emblématique du record de victoires en Majeurs, Nicklaus est une connaissance très rentable des quiz de golf."
 ---
-
-
 ![Image de Jack Nicklaus](https://upload.wikimedia.org/wikipedia/commons/6/68/Jack_Nicklaus_2019_Jenkins_Medal_Awards_%28cropped%29.jpg)
 
 ###### Questions

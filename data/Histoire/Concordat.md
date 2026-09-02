@@ -20,8 +20,9 @@ indice_6 :
   - culte légalisé en France
 questions:
  - Quelle convention signée en 1801 par le pape et Napoléon Bonaparte inscrit la Toussaint comme 4ème jour férié ?
+culture_g_score: 81
+culture_g_justification: "Notion historique et institutionnelle très rentable, surtout grâce au Concordat de 1801 et aux relations entre États et Église."
 ---
-
 ![Image de Concordat](https://upload.wikimedia.org/wikipedia/commons/5/58/MarrydelValpacelli.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Utilisation  Consommée en salade pour son goût piquant
 questions:
  - Quel jeune peuplement de futaies est désigné par un terme dérivé du mot "Gaule" ?
+culture_g_score: 23
+culture_g_justification: "Plante nord-américaine peu connue, dont les usages et le nom vernaculaire offrent très peu de rendement généraliste."
 ---
-
 ![Image de Gaulis](https://upload.wikimedia.org/wikipedia/commons/6/6e/Gauli_shield.png)
 
 ###### Questions

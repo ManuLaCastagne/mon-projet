@@ -23,8 +23,9 @@ indice_6:
   - Parc national du Simien
 questions:
   - Dans quel pays d'Afrique orientale utilise-t-on la farine de teff pour préparer une crêpe appelée injera consommée quotidiennement ?
+culture_g_score: 72
+culture_g_justification: "Pays important pour l’histoire africaine, Lucy, la Rift Valley, l’Union africaine et ses particularités religieuses et calendaires."
 ---
-
 ![[Carte_Éthiopie.png]]
 
 ###### Questions

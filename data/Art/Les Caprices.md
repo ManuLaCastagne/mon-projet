@@ -22,8 +22,9 @@ indice_6:
   - Art conceptuel
 questions:
   - Dans quel recueil  comprenant 80 gravures publié en 1799 le peintre Francisco de Goya la société de son temps?
+culture_g_score: 72
+culture_g_justification: "Série capitale de Goya, rentable pour l’art espagnol, la satire politique, le fantastique et la gravure, même si elle reste spécialisée."
 ---
-
 ![Image de Les Caprices](https://upload.wikimedia.org/wikipedia/commons/6/60/Hamelin_-_Les_caprices_de_Rouen_2025-03-22.jpg)
 
 ###### Questions

@@ -15,9 +15,9 @@ indice_6 :
   - Mascotte de Linux
 questions:
  - Quels oiseaux piscivores des régions antarctiques, aux ailes impropres au vol se rassemblent souvent par milliers sur la banquise ?
+culture_g_score: 80
+culture_g_justification: "Oiseau très classique des quiz, associé à l’Antarctique, à l’incapacité de voler, aux adaptations polaires et au cinéma documentaire."
 ---
-
-
 ![Image de Manchot](https://upload.wikimedia.org/wikipedia/commons/f/fc/Manchot_royal_-_King_Penguin.jpg)
 
 ###### Questions

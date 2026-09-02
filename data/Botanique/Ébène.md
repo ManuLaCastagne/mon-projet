@@ -13,8 +13,9 @@ indice_5:
   - Diospyros
 indice_6:
   - Fabrication d'instruments de musique et meubles de luxe
+culture_g_score: 61
+culture_g_justification: "Bois tropical noir très reconnaissable, associé à l'ébénisterie et à des questions de matériaux."
 ---
-
 ![Image de Ébène](https://upload.wikimedia.org/wikipedia/commons/7/7c/Gr%C3%A9goire_Massengo%2C_paire_de_bustes_en_%C3%A9b%C3%A8ne_noire.jpg)
 
 ###### Questions

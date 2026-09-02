@@ -22,8 +22,9 @@ indice_6 :
   - réalisé par Richard Curtis
 questions:
  - En 2003, dans quel film Hugh Grant joue le 1er ministre britannique ? (Une des célèbres scènes du film  se passe au 10 Downing Street, où il danse dans son escalier. Il joue quand même le 1er ministre de Grande-Bretagne. L'excellent Hugh Grant.)
+culture_g_score: 76
+culture_g_justification: "Comédie romantique devenue un classique de Noël, riche en questions sur son casting, ses scènes et sa musique."
 ---
-
 ![Image de Love Actually](https://upload.wikimedia.org/wikipedia/commons/0/00/Love_Actually_%282003%29_Interconnections_%28corrected%29.svg)
 
 ###### Questions

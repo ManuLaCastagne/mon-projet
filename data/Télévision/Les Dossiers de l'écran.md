@@ -18,8 +18,9 @@ indice_5 :
   - dossiers thématiques
 indice_6 : 
   - service public français
+culture_g_score: 64
+culture_g_justification: "Grande émission française associée à l'histoire de la télévision et aux débats de société, avec plusieurs animateurs et thèmes mémorables."
 ---
-
 ![Image de Les Dossiers de l'écran](https://upload.wikimedia.org/wikipedia/commons/5/53/Leroux_-_Rouletabille_chez_les_boh%C3%A9miens%2C_paru_dans_Le_Matin%2C_1922.djvu)
 
 ###### Questions

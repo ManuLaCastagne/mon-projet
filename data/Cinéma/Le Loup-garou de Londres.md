@@ -22,6 +22,8 @@ indice_6:
   - Londres la nuit
 questions:
   - En 1981, dans quel film de John Landis, se passant en Grande-Bretagne, un homme se transforme-t-il en un lycanthrope?
+culture_g_score: 76
+culture_g_justification: "Classique de l’horreur et du maquillage, relié à John Landis, Michael Jackson, la culture pop et le cinéma de genre."
 ---
 ![[Pasted image 20250419113452.png]]
 ###### Questions

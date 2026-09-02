@@ -20,8 +20,9 @@ indice_6 :
   - Gdansk
 questions:
  - Quel dissident polonais,  leader du mouvement Solidarnosc dans les années 80, a inspiré les paroles de la chanson "New year's day" à Bono?
+culture_g_score: 80
+culture_g_justification: "Lech Wałęsa relie Solidarność, la guerre froide, la chute du communisme, la Pologne et le prix Nobel de la paix."
 ---
-
 ![Image de Lech Walesa](https://upload.wikimedia.org/wikipedia/commons/b/be/Herb_Lech_Wa%C5%82%C4%99sa.svg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la persistance et de la découverte scientifique
 questions:
  - Poisson à la forte mâchoire hérissée de dents, je suis pourvu d'un poumon jouant le rôle d'une vessie natatoire. Considéré...
+culture_g_score: 80
+culture_g_justification: "Fossile vivant redécouvert au XXe siècle, très rentable pour les questions d’évolution, de zoologie et d’histoire des sciences."
 ---
-
 ![Image de Coelacanthe](https://upload.wikimedia.org/wikipedia/commons/f/fa/Latimeria_Chalumnae_-_Coelacanth_-_NHMW.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Records
 questions:
  - Rejoignant en 2008 le club de Marseille et l'entraîneur Romain Barnier, je bats l'année suivante les records de France sur 50m et 100m dos.
+culture_g_score: 57
+culture_g_justification: "Nageur français champion du monde et d'Europe, utile dans les quiz sportifs francophones mais limité à la natation."
 ---
-
 ![Image de Camille Lacourt](https://upload.wikimedia.org/wikipedia/commons/7/71/Camille_Lacourt.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Comédie dramatique
 questions:
  - Dans quelle comédie sortie en 1986, avec Mia Farrow, Woody Allen évoque-t-il les destins divergents de 3 soeurs?
+culture_g_score: 80
+culture_g_justification: "Film important de Woody Allen, oscarisé et riche en angles sur le cinéma américain, la famille, la philosophie et ses acteurs."
 ---
-
 ![Image de Hannah et ses soeurs](https://upload.wikimedia.org/wikipedia/commons/b/b8/Hannah_More_%28IA_hannahmore00harl%29.pdf)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Fibre végétale
 indice_6:
   - Fabrication de papier et textiles
+culture_g_score: 80
+culture_g_justification: "Notion centrale reliant biologie végétale, papier, textile, industrie et écologie, régulièrement exploitable en culture générale."
 ---
-
 ![Image de Cellulose](https://upload.wikimedia.org/wikipedia/commons/a/a4/Cellulose_strand.svg)
 
 ###### Questions

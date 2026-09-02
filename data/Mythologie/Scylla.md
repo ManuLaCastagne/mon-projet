@@ -18,8 +18,9 @@ indice_6 :
   - ancienne nymphe
 questions:
  - Dans la [[mythologie grecque]], dans le détroit de Messine, quel monstre est aussi redoutable pour les navigateurs que sa voisine...
+culture_g_score: 80
+culture_g_justification: "Monstre de l’Odyssée associé à Charybde, Scylla revient régulièrement dans les quiz de mythologie, de littérature, de géographie et de culture symbolique."
 ---
-
 ![Image de Scylla](https://upload.wikimedia.org/wikipedia/commons/a/a8/Scylla_Louvre_CA1341.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Académie Charles-Cros
 questions:
  - Quel écrivain, également inventeur et proche de Verlaine et de Villiers de L'Isle-Adam associe son poème "L'Heure verte" à l'absinthe?
+culture_g_score: 64
+culture_g_justification: "Sujet particulièrement rentable car Charles Cros relie poésie, photographie en couleurs et invention du phonographe, malgré une notoriété modérée."
 ---
-
 ![Image de Charles Cros](https://upload.wikimedia.org/wikipedia/commons/6/6b/Charles_Cros.jpg)
 
 ###### Questions

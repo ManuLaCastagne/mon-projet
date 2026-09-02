@@ -20,8 +20,9 @@ indice_6 :
   - héritage juridique
 questions:
  - Quelle loi rédigée au VIe siècle en latin et comptant de nombreux articles d'anciennes lois burgondes, est le code barbare le plus imprégné de droit romain?
+culture_g_score: 27
+culture_g_justification: "Texte juridique burgonde intéressant pour l’histoire du haut Moyen Âge, mais très rarement mobilisé en culture générale."
 ---
-
 ![Image de Loi gombette](https://upload.wikimedia.org/wikipedia/commons/1/1b/Anhang._Die_neueste_Ausgabe_der_lex_Burgundionum._Zur_Abwehr_%28IA_jstor-27591254%29.pdf)
 
 ###### Questions

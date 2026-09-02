@@ -20,8 +20,9 @@ indice_6 :
   - télé-réalité et divertissement
 questions:
  - Quelle chaîne, anciennement appelée NT1, diffuse des émissions de téléréalité comme "Mamans et célèbres" et "10 couples parfaits"?
+culture_g_score: 32
+culture_g_justification: "Chaîne de la TNT identifiable par son ancien nom NT1, mais peu importante et peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de TFX](https://upload.wikimedia.org/wikipedia/commons/d/d3/TFX_logo.svg)
 
 ###### Questions

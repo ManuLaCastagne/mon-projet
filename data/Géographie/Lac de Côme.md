@@ -24,11 +24,9 @@ indice_6 :
   - villas célèbres
 questions:
  - Quel est ce lac très touristique, 3e plus grand lac d'Italie, qui a été, dès la Renaissance, un lieu de villégiature des grandes familles milanaises ?
+culture_g_score: 64
+culture_g_justification: "Le lac de Côme est connu pour son paysage, ses célébrités et le cinéma, mais ses usages en quiz restent relativement circonscrits."
 ---
-
-
-
-
 ![Image de Lac de Côme](https://upload.wikimedia.org/wikipedia/commons/a/ad/Church_of_the_Ascension_%28Cadenabbia%29_Lac_de_C%C3%B4me_en_2018.jpg)
 
 ![[Carte_Lac de Côme.png]]

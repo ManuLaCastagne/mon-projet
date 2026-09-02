@@ -20,8 +20,9 @@ indice_6 :
   - 6. Petite-fille de Paul Rosenberg
 questions:
  - Célèbre animatrice de l'émission "7 sur 7" de 84 à 97…
+culture_g_score: 73
+culture_g_justification: "Grande figure du journalisme télévisé français, régulièrement associée à 7 sur 7, aux interviews politiques et à sa vie publique."
 ---
-
 ![Image de Anne Sinclair](https://upload.wikimedia.org/wikipedia/commons/f/f0/Anne_Sinclair_in_2020.png)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Pneu
 questions:
  - Quelle plante grimpante originaire d'Amérique du Sud ayant pour nom scientifique Ficus elastica, est cultivée en appartement?
+culture_g_score: 48
+culture_g_justification: "Arbre associé au latex et à l’histoire industrielle, mais rarement demandé précisément sous son identité botanique."
 ---
-
 ![Image de Caoutchouc](https://upload.wikimedia.org/wikipedia/commons/2/2e/Natural_rubber_tree.jpg)
 
 ###### Questions

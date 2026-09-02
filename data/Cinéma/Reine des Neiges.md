@@ -22,8 +22,9 @@ indice_6 :
   - Let It Go
 questions:
  - Racontant comment Kristoff et son renne Sven aident Anna à trouver la montagne du Nord, j'ai également pour héroïne Elsa, qui a plongé son royaume d'Arendelle dans un hiver éternel.  Film associé...
+culture_g_score: 92
+culture_g_justification: "Immense succès Disney, très fréquent grâce à ses personnages, sa chanson, Andersen, ses Oscars et son impact sur la culture populaire."
 ---
-
 ![Image de Reine des Neiges](https://upload.wikimedia.org/wikipedia/commons/2/27/Anna_-_La_Reine_des_neiges_-_20150803_16h44_%2810805%29.jpg)
 
 ###### Questions

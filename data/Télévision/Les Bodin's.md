@@ -20,8 +20,9 @@ indice_6 :
   - succès populaire en tournée
 questions:
  - Quel duo comique est formé de 2 comédiens dont l'un interprète une vieille fermière autoritaire...
+culture_g_score: 44
+culture_g_justification: "Duo comique populaire en France, mais principalement associé à quelques spectacles et à un registre humoristique régional."
 ---
-
 ![Image de Les Bodin's](https://upload.wikimedia.org/wikipedia/commons/6/6f/Les_Bodin%27s_au_Z%C3%A9nith_de_Nantes_le_jeudi_27_avril_2023.jpg)
 
 ###### Questions

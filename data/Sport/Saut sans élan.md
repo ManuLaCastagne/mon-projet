@@ -20,8 +20,9 @@ indice_6 :
   - Saut à ski
 questions:
  - Quel autre épreuve de saut était olympique…
+culture_g_score: 39
+culture_g_justification: "Ancienne épreuve olympique aujourd’hui disparue, surtout utile pour une question historique précise sur les Jeux et Ray Ewry."
 ---
-
 ![Image de Saut sans élan](https://upload.wikimedia.org/wikipedia/commons/9/9c/Emmanuel_Biron_%28saut_sans_%C3%A9lan%29.webm)
 
 ###### Questions

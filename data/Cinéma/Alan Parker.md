@@ -21,9 +21,9 @@ indice_5:
   - Mississippi Burning
 indice_6:
   - Bugsy Malone
+culture_g_score: 63
+culture_g_justification: "Cinéaste britannique lié à plusieurs films célèbres et à des genres variés, mais restant une référence surtout cinéphile."
 ---
-
-
 ![Image de Alan Parker](https://upload.wikimedia.org/wikipedia/commons/c/c8/Alan_Parker_%28Director%29%2C_London%2C_2012.jpg)
 
 ###### Questions

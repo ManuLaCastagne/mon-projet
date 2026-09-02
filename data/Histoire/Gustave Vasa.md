@@ -20,8 +20,9 @@ indice_6 :
   - dynastie Vasa
 questions:
  - Ce monarque du 16e siècle disciple de Martin Luther a introduit le luthéranisme en Suède...
+culture_g_score: 47
+culture_g_justification: "Fondateur de la Suède moderne et acteur de la Réforme scandinave, mais sujet peu fréquent hors des quiz d'histoire nordique."
 ---
-
 ![Image de Gustave Vasa](https://upload.wikimedia.org/wikipedia/commons/e/ef/Back_door_of_Gustaf_Vasa_Kyrka.jpg)
 
 ###### Questions

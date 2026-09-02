@@ -18,8 +18,9 @@ indice_5:
   - drapeau avec feuille d'érable
 indice_6:
   - bilinguisme anglais-français
+culture_g_score: 97
+culture_g_justification: "Grande puissance mondiale et vaste pays, très fréquent en géographie, histoire, politique, culture, nature et sport."
 ---
-
 ![Image de Canada](https://upload.wikimedia.org/wikipedia/commons/7/72/Canada_provinces_evolution.gif)
 
 ![[Carte_Canada.png]]

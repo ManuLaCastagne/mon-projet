@@ -24,8 +24,9 @@ indice_6 :
   - jeu de mots populaire avec son nom
 questions:
  - Quelle bourgade du Lot, devant son nom à son emplacement au sommet d'une colline, doit sa popularité à un arrêt de bus ?
+culture_g_score: 48
+culture_g_justification: "Village rendu célèbre par l’humour télévisuel, avec une notoriété supérieure à son importance culturelle réelle."
 ---
-
 ![Image de Montcuq](https://upload.wikimedia.org/wikipedia/commons/b/b3/Montcuq_%40_Chemin_de_Compostelle_01.jpg)
 
 ![[Carte_Montcuq.png]]

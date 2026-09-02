@@ -20,8 +20,9 @@ indice_6 :
   - Maillot jaune
 questions:
  - En 1996, quel coureur cycliste britannique, champion olympique de poursuite en 92, bat le record du monde de l'heure?
+culture_g_score: 60
+culture_g_justification: "Cycliste britannique marquant des années 1990, surtout interrogé sur le record de l'heure, la piste et les Jeux de Barcelone."
 ---
-
 ![Image de Chris Boardman](https://upload.wikimedia.org/wikipedia/commons/a/a5/2018_Tour_de_Yorkshire_-_Chris_Boardman.jpg)
 
 ###### Questions

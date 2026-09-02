@@ -18,9 +18,9 @@ indice_5 :
   - La Bombe Humaine
 indice_6 : 
   - Cendrillon
+culture_g_score: 84
+culture_g_justification: "Groupe fondateur du rock français, associé à de nombreux tubes, membres et repères culturels régulièrement interrogés."
 ---
-
-
 ![Image de Téléphone](https://upload.wikimedia.org/wikipedia/commons/5/58/Northern_Electric_N415H_02.jpg)
 
 ###### Questions

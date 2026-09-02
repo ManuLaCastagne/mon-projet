@@ -20,8 +20,9 @@ indice_6 :
   - Télévision américaine
 questions:
  - Et une stature imposante. Ayant un rôle plutôt comique, comme mon adjoint le caporal Reyes, je suis surpris dans le générique, de voir une lettre...
+culture_g_score: 44
+culture_g_justification: "Personnage comique identifiable de l’univers de Zorro, mais limité à quelques questions sur cette série et ses interprètes."
 ---
-
 ![Image de Sergent Garcia](https://upload.wikimedia.org/wikipedia/commons/1/16/2008_07_26_SergentGarcia_040.jpg)
 
 ###### Questions

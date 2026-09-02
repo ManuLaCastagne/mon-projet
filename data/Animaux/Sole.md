@@ -15,9 +15,9 @@ indice_6 :
   - Gastronomie française
 questions:
  - Quel poisson marin plat, a un nom qui signifie en latin sandale ?
+culture_g_score: 64
+culture_g_justification: "La sole est un poisson et un aliment bien connus, avec des liens utiles à la gastronomie, à la zoologie et à la culture française, mais peu d'angles majeurs."
 ---
-
-
 ![Image de Sole](https://upload.wikimedia.org/wikipedia/commons/5/52/Sole_of_foot_of_an_infant_held_between_the_middle_finger_and_the_ring_finger_of_an_adult_hand_for_size_comparison.jpg)
 
 ###### Questions

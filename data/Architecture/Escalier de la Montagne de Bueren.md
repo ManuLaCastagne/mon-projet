@@ -18,8 +18,9 @@ indice_5 :
   - escalier historique
 indice_6 : 
   - colline de la Citadelle
+culture_g_score: 40
+culture_g_justification: "Monument marquant de Liège, l’escalier de la Montagne de Bueren donne surtout lieu à une question géographique ou touristique ponctuelle."
 ---
-
 ![Image de Escalier de la Montagne de Bueren](https://upload.wikimedia.org/wikipedia/commons/4/42/Li%C3%A8ge%2C_vue_de_Montagne_de_Bueren_IMG_9576_2019-05-31_22.01.jpg)
 
 ###### Questions

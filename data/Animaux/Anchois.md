@@ -15,8 +15,9 @@ indice_6 :
   - Ingrédient de la pizza Napolitaine
 questions:
  - Dont Collioure s'est fait la spécialité, je suis…
+culture_g_score: 52
+culture_g_justification: "Poisson connu en gastronomie et en histoire alimentaire, mais rarement central dans les quiz généralistes."
 ---
-
 ![Image de Anchois](https://upload.wikimedia.org/wikipedia/commons/4/46/Anchois_commun_%28Engraulis_encrasicolus%29_%28Ifremer_00665-77738%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - Golden Globe
 questions:
   - Actrice principale de "Lola" de Jacques Demy, j'ai tourné dans 9 films de Claude Lelouch dont "Un homme et une femme" en 1966.
+culture_g_score: 71
+culture_g_justification: "Actrice française de premier plan liée à Fellini, Demy et Un homme et une femme, avec plusieurs références classiques."
 ---
-
 ![Image de Anouk Aimée](https://upload.wikimedia.org/wikipedia/commons/8/81/Anouk_Aim%C3%A9e_-_Otto.png)
 
 ###### Questions

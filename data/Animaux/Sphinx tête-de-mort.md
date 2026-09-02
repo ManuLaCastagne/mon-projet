@@ -15,8 +15,9 @@ indice_6 :
   - Symbolisme de mort et mystère
 questions:
  - Quel papillon de la famille des sphingidés, également appelé atropos, doit son nom au dessin ornant son thorax qui rappelle un crâne humain?
+culture_g_score: 56
+culture_g_justification: "Le sphinx tête-de-mort est une curiosité naturaliste reconnaissable et liée au cinéma et aux superstitions, mais reste un sujet relativement spécialisé."
 ---
-
 ![Image de Sphinx tête-de-mort](https://upload.wikimedia.org/wikipedia/commons/6/65/Acherontia_atropos_MHNT_Tete_de_mort.jpg)
 
 ###### Questions

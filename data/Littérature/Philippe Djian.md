@@ -20,9 +20,9 @@ indice_5:
   - inspiré par la musique
 indice_6:
   - incursion dans le cinéma
+culture_g_score: 64
+culture_g_justification: "Romancier français populaire grâce à 37,2 le matin, au cinéma, au prix Interallié et à ses collaborations musicales."
 ---
-
-
 ![Image de Philippe Djian](https://upload.wikimedia.org/wikipedia/commons/2/2e/Philippe_Djian_2009.jpg)
 
 ###### Questions

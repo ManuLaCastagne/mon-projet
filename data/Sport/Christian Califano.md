@@ -20,8 +20,9 @@ indice_6 :
   - Top 14
 questions:
  - Quel ancien joueur de rugby évoluant au poste de pilier était surnommé Cali ?
+culture_g_score: 60
+culture_g_justification: "Figure connue du rugby français, exploitable pour le XV de France, le Tournoi, les clubs et son parcours international."
 ---
-
 ![Image de Christian Califano](https://upload.wikimedia.org/wikipedia/commons/e/ee/Christian_Califano_2016-10-30.jpg)
 
 ###### Questions

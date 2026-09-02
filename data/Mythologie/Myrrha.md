@@ -18,8 +18,9 @@ indice_6 :
   - mythe gréco-romain
 questions:
  - Dans la [[mythologie grecque]],  quelle jeune femme, fille du roi de Chypre, Cinyras fut transformée en un arbre dont l'écorce se fendille pour donner naissance à Adonis ?
+culture_g_score: 43
+culture_g_justification: "Myrrha appartient à un récit tragique d’Ovide lié à Adonis, mais reste une figure relativement obscure hors des amateurs de mythologie."
 ---
-
 ![Image de Myrrha](https://upload.wikimedia.org/wikipedia/commons/a/ae/Myrrha_octodecimguttata_%28Linnaeus%2C_1758%29.png)
 
 ###### Questions

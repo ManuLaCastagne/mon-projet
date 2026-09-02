@@ -22,9 +22,9 @@ indice_6 :
   - Humour sur les enfants adultes restant chez leurs parents
 questions:
  - Sur l'affiche de quelle comédie, en 2001, d'Etienne Chatiliez...
+culture_g_score: 64
+culture_g_justification: "Comédie française populaire ayant donné son nom à un phénomène social, avec des angles liés au film, aux acteurs et à la société."
 ---
-
-
 ![Image de Tanguy](https://upload.wikimedia.org/wikipedia/commons/8/8c/Brest_-_Tour_Tanguy.jpg)
 
 ###### Questions

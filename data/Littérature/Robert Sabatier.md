@@ -22,8 +22,9 @@ indice_6 :
   - Le Livre de la déraison souriante
 questions:
  - En 1969, quel écrivain raconte les aventures du jeune Olivier dans le roman "Les Allumettes suédoises"?
+culture_g_score: 47
+culture_g_justification: "Auteur populaire surtout retenu pour Les Allumettes suédoises, avec une notoriété et une fréquence quiz intermédiaires."
 ---
-
 ![Image de Robert Sabatier](https://upload.wikimedia.org/wikipedia/commons/b/b1/Robert_Sabatier.JPG)
 
 ###### Questions

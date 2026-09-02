@@ -20,8 +20,9 @@ indice_6 :
   - Trophée
 questions:
  - Quelle est la récompense  décernée à l'équipe victorieuse du championnat de France de rugby à XV ?
+culture_g_score: 60
+culture_g_justification: "Trophée emblématique du rugby français, régulièrement interrogé dans les quiz francophones mais peu pertinent hors de ce cadre."
 ---
-
 ![Image de Bouclier de Brennus](https://upload.wikimedia.org/wikipedia/commons/6/6c/Patricio_Albacete_-_Brennus_-_2012-06-10.jpg)
 
 ###### Questions

@@ -14,7 +14,8 @@ indice_3:
 indice_4:
 indice_5:
 indice_6:
-culture_g_score: 60
+culture_g_score: 77
+culture_g_justification: "Faction essentielle pour comprendre les conflits politiques de la Révolution et la chute de la monarchie, avec des liens vers Brissot et la Terreur."
 ---
 ###### Questions
 

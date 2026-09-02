@@ -25,8 +25,9 @@ indice_6:
 questions:
   - Quel acteur américain, né en 1899 à New York, joue un journaliste sportif dans le film "Plus dure sera la chute" sorti en 1956?
   - En 1945, dans "Le Port de l'Angoisse" d'Howard Hawks, à quel acteur Lauren Bacall adresse-t-elle la réplique   "Si tu as besoin de moi, siffle" ?
+culture_g_score: 100
+culture_g_justification: "Icône absolue du cinéma américain, associée à de nombreux classiques, au film noir, à Hollywood et à l’histoire des Oscars."
 ---
-
 ![Image de Humphrey Bogart](https://upload.wikimedia.org/wikipedia/commons/8/84/Humphrey_Bogart_1940.jpg)
 
 ###### Questions

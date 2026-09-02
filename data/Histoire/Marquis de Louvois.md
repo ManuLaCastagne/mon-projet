@@ -20,8 +20,9 @@ indice_6 :
   - Création des manufactures royales
 questions:
  - A quel ministre de Louis XIV, organisateur de l'armée française, associe-t-on les dragonnades?
+culture_g_score: 64
+culture_g_justification: "Ministre essentiel de la centralisation militaire de Louis XIV, mais moins connu et transversal que le roi lui-même."
 ---
-
 ![Image de Marquis de Louvois](https://upload.wikimedia.org/wikipedia/commons/b/b9/Portrait_of_Fran%C3%A7ois-Michel_le_Tellier%2C_Marquis_de_Louvois_%281641%E2%80%931691%29%2C_by_After_Jacob_Ferdinand_Voet_-_Ch%C3%A2teau_de_Versailles.jpg)
 
 ###### Questions

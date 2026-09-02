@@ -22,8 +22,9 @@ indice_6:
   - Renée Zellweger
 questions:
   - En 2004, quel film d'Anthony Minghella met en scène Nicole Kidman et Jude Law pendant la Guerre de Sécession ?
+culture_g_score: 60
+culture_g_justification: "Drame historique reconnu grâce à son casting, ses Oscars et son cadre de guerre de Sécession, mais de portée plus limitée que les grands classiques."
 ---
-
 ![Image de Retour à Cold Mountain](https://upload.wikimedia.org/wikipedia/commons/7/78/Cold_Mountain-27527.jpg)
 
 ###### Questions

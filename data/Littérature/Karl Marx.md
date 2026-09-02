@@ -31,9 +31,9 @@ indice_6:
 questions:
   - Matérialiste. Directeur de la "Gazette rhénane", j'émigre à Paris en 1843 et rencontre Engels avec qui j'écrirai...
   - Quel théoricien révolutionnaire allemand était surnommé "Le Maure" pour son teint foncé et sa barbe fournie ?
+culture_g_score: 100
+culture_g_justification: "Figure fondamentale de la pensée politique et économique, omniprésente dans les questions sur le communisme, le capitalisme et l’histoire contemporaine."
 ---
-
-
 ![Image de Karl Marx](https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg)
 
 ###### Questions

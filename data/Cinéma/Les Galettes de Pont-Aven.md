@@ -22,8 +22,9 @@ indice_6 :
   - nus féminins
 questions:
  - Un film de Joël Séria où Jean-Pierre Marielle est représentant en parapluies.
+culture_g_score: 60
+culture_g_justification: "Comédie culte auprès des amateurs du cinéma français, surtout exploitable par Marielle, Joël Séria et sa dimension érotico-comique."
 ---
-
 ![Image de Les Galettes de Pont-Aven](https://upload.wikimedia.org/wikipedia/commons/f/fd/Galettes_bretonnes.jpg)
 
 ###### Questions

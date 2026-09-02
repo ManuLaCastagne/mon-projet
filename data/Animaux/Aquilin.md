@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de puissance et de liberté
 questions:
  - Quel adjectif dérivé du latin signifiant en général qui ressemble à l'aigle?
+culture_g_score: 40
+culture_g_justification: "Adjectif utile pour le nez ou le bec courbé, mais peu important comme référence autonome de culture générale."
 ---
-
 ![Image de Aquilin](https://upload.wikimedia.org/wikipedia/commons/a/a2/24371-Saint-Aquilin-Sols.png)
 
 ###### Questions

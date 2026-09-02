@@ -19,6 +19,8 @@ indice_5:
   - virus dévastateur
 indice_6:
   - boucle temporelle
+culture_g_score: 80
+culture_g_justification: "Thriller culte de Fincher, fréquemment questionné par son casting, ses sept péchés capitaux et sa place dans le cinéma policier."
 ---
 ![[Pasted image 20250323110854.png]]
 ###### Questions

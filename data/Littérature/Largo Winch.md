@@ -22,9 +22,9 @@ indice_6 :
   - Organisation secrète
 questions:
  - En 2008, quel personnage de BD créé par Jean Van Hamme a été incarné par Thomas Sisley ?
+culture_g_score: 68
+culture_g_justification: "Personnage majeur de la bande dessinée franco-belge, exploitable par ses auteurs, albums, adaptations et univers financier, sans atteindre les incontournables absolus."
 ---
-
-
 ![Image de Largo Winch](https://upload.wikimedia.org/wikipedia/commons/4/4d/Belgique_-_Louvain-la-Neuve_-_Place_des_Sciences_-_Largo_Winch_-_02.jpg)
 
 ###### Questions

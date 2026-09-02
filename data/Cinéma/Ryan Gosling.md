@@ -20,8 +20,9 @@ indice_5 :
   - membre du groupe Dead Man's Bones
 indice_6 : 
   - acteur canadien
+culture_g_score: 76
+culture_g_justification: "Vedette contemporaine reliée à Barbie, La La Land, Drive et à la culture populaire, avec une fréquence quiz élevée mais une importance artistique moindre."
 ---
-
 ![Image de Ryan Gosling](https://upload.wikimedia.org/wikipedia/commons/f/f6/Ryan_Gosling_in_2018.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5 :
   - Castille-La Manche
 indice_6 : 
   - Synagogue del Tránsito
+culture_g_score: 80
+culture_g_justification: "Tolède est une ville historique très rentable grâce à ses héritages chrétien, musulman et juif, ainsi qu’à l’École des traducteurs."
 ---
-
 ![[Carte_Tolède.png]]
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - rivière
 indice_6:
   - aventure
+culture_g_score: 80
+culture_g_justification: "Classique d'aventure hollywoodien porté par Bogart et Hepburn, fréquemment relié aux Oscars, à Huston et à l'Afrique."
 ---
-
-
 ![Image de African Queen](https://upload.wikimedia.org/wikipedia/commons/b/bd/African_Queen_-_Key_Largo.jpg)
 
 ###### Questions

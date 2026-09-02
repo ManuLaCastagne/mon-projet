@@ -24,8 +24,9 @@ indice_6 :
   - Cité de l'espace
 questions:
  - En 1996, quel club français  remporte la 1re édition de la Coupe d'Europe de rugby en battant le club de Cardiff en finale?
+culture_g_score: 80
+culture_g_justification: "Toulouse offre plusieurs entrées fréquentes par la géographie française, l’aéronautique, l’espace, le patrimoine et le Canal du Midi."
 ---
-
 ![Image de Toulouse](https://upload.wikimedia.org/wikipedia/commons/7/7a/Panorama_from_pont_Saint-Pierre_in_Toulouse_-_2012-08-31.jpg)
 
 ![[Carte_Toulouse.png]]

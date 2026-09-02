@@ -22,8 +22,9 @@ indice_6 :
   - L'As des As
 questions:
  - Quel acteur, né le 9 avril 1933, est à l'affiche de nombreux films à succès, comme "L'Homme de Rio" ou "L'As des as"?
+culture_g_score: 100
+culture_g_justification: "Monument du cinéma populaire français, couvrant Nouvelle Vague, films d’action, cascades, comédies et collaborations majeures."
 ---
-
 ![Image de Jean-Paul Belmondo](https://upload.wikimedia.org/wikipedia/commons/b/b2/Belmondo_1960.jpg)
 
 ###### Questions

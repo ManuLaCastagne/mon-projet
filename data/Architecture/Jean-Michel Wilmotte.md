@@ -20,8 +20,9 @@ indice_6 :
   - rénovations prestigieuses
 questions:
  - Quel designer et architecte français a notamment réaménagé le Grand Louvre et le musée d'Orsay à Paris?
+culture_g_score: 40
+culture_g_justification: "Jean-Michel Wilmotte est un architecte contemporain reconnu en France, mais sa fréquence et son importance restent limitées dans les quiz généralistes."
 ---
-
 ![Image de Jean-Michel Wilmotte](https://upload.wikimedia.org/wikipedia/commons/a/a5/Rijksmuseum_Amsterdam_-_Atrium_2013_by_Cruz_y_Ortiz_Arquitectos_and_Jean-Michel_Wilmotte.jpg)
 
 ###### Questions

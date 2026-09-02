@@ -22,8 +22,9 @@ indice_6 :
   - Ali
 questions:
  - En 2001, acteur à l'affiche de "Lara Croft   Tomb Raider" où joue sa fille Angelina Jolie.  Le papa d'A. Jolie ?
+culture_g_score: 60
+culture_g_justification: "Jon Voight est lié à plusieurs films oscarisés et à Angelina Jolie, mais il est moins central dans la culture générale actuelle."
 ---
-
 ![Image de Jon Voight](https://upload.wikimedia.org/wikipedia/commons/9/90/Jon_Voight_2011.jpg)
 
 ###### Questions

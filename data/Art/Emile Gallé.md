@@ -23,8 +23,9 @@ indice_6 :
   - marqueterie de verre
 questions:
  - Initiateur de l'école de Nancy, pionnier de l'Art nouveau.
+culture_g_score: 67
+culture_g_justification: "Émile Gallé est une figure importante de l'Art nouveau et de l'École de Nancy, avec des repères utiles sur le verre et les arts décoratifs."
 ---
-
 ![Image de Emile Gallé](https://upload.wikimedia.org/wikipedia/commons/2/27/%C3%89mile_Gall%C3%A9.jpg)
 
 ###### Questions

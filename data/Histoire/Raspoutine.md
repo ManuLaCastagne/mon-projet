@@ -20,9 +20,9 @@ indice_6 :
   - Tsar Nicolas II
 questions:
  - De 1905 à 1916, quel personnage exerça une puissante influence à la cour du tsar Nicolas II ?
+culture_g_score: 92
+culture_g_justification: "Figure mythifiée de la Russie impériale, très fréquente grâce à son influence sur les Romanov et à sa mort légendaire."
 ---
-
-
 ![Image de Raspoutine](https://upload.wikimedia.org/wikipedia/commons/c/ce/Cabaret-restaurant_le_Raspoutine_2013-09-22_16-35-53.jpg)
 
 ###### Questions

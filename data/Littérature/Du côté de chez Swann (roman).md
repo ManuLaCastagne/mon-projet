@@ -22,8 +22,9 @@ indice_6 :
   - Narrateur anonyme
 questions:
  - Menant une vie mondaine dans 2 milieux différents  chez les Guermantes et les Verdurin, j'épouse Odette de Crécy dont j'ai une fille prénommée Gilberte. Personnage de Marcel Proust dont le nom figure...
+culture_g_score: 84
+culture_g_justification: "Premier volume de Proust, régulièrement interrogé pour la madeleine, la mémoire involontaire et À la recherche du temps perdu."
 ---
-
 ![Image de Du côté de chez Swann (roman)](https://upload.wikimedia.org/wikipedia/commons/7/71/Un_amour_de_Swann_%28a%29.pdf)
 
 ###### Questions

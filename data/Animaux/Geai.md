@@ -15,8 +15,9 @@ indice_6 :
   - Symbole d'intelligence et de curiosité
 questions:
  - Quel petit corvidé dont les ailes présentent une tache bleu vif visite les jardins pour s'y nourrir de glands ?
+culture_g_score: 60
+culture_g_justification: "Le geai est un corvidé assez classique, intéressant pour sa mémoire, son mimétisme et son rôle écologique, sans être un grand marronnier."
 ---
-
 ![Image de Geai](https://upload.wikimedia.org/wikipedia/commons/7/72/John_Jay_%28Gilbert_Stuart_portrait%29.jpg)
 
 ###### Questions

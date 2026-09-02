@@ -20,8 +20,9 @@ indice_6:
   - Phileas Fogg
 questions:
   - Ecrivain français né le 8 février 1828, Ayant vu certains de mes romans publiés dans la revue "Le Magasin d'éducation et de récréation" de l'éditeur Hetzel, je fais découvrir le globe...
+culture_g_score: 100
+culture_g_justification: "Figure majeure de la littérature d’aventure et de l’anticipation, dont les romans, personnages, voyages et adaptations sont extrêmement interrogés."
 ---
-
 ![Image de Jules Verne](https://upload.wikimedia.org/wikipedia/commons/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg)
 
 ###### Questions

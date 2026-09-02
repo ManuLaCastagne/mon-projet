@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Latin
+culture_g_score: 64
+culture_g_justification: "La pâte à choux et ses pâtisseries sont classiques, mais le terme précis reste moins transversal que les desserts les plus célèbres."
 ---
 ###### Questions 
 

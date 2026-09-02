@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée en ornementation de jardins
 questions:
  - Quel arbuste originaire des montagnes d'Asie, voisin du rhododendron, cultive-t-on pour son abondante floraison...
+culture_g_score: 48
+culture_g_justification: "Fleur ornementale très reconnaissable, mais ses apparitions en culture générale restent surtout descriptives ou horticoles."
 ---
-
 ![Image de Azalée](https://upload.wikimedia.org/wikipedia/commons/b/b0/0_Rhododendron_-_Celles_%28Hainaut%29_3.JPG)
 
 ###### Questions

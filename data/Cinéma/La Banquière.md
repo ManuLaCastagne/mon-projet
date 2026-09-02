@@ -22,8 +22,9 @@ indice_6 :
   - Claude Brasseur
 questions:
  - En 1980, dans quel film de Francis Girod inspiré de l'affaire Marthe Hanau Romy Schneider est-elle à la tête…
+culture_g_score: 51
+culture_g_justification: "Film associé à Romy Schneider, Francis Girod et aux Années folles, mais moins présent dans les quiz que les grands classiques français."
 ---
-
 ![Image de La Banquière](https://upload.wikimedia.org/wikipedia/commons/3/30/Vue_du_village_de_Saint-Andr%C3%A9-de-la-Roche_travers%C3%A9_par_la_Banqui%C3%A8re_%282%29.JPG)
 
 ###### Questions

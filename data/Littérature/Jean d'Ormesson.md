@@ -22,8 +22,9 @@ indice_6 :
   - Jean qui pleure et Jean qui rit
 questions:
  - Quel écrivain et académicien est l'auteur de l'ouvrage "Un hosanna sans fin", achevé 2 jours avant sa disparition en 2017 et publié à titre posthume?
+culture_g_score: 60
+culture_g_justification: "Écrivain et académicien français très médiatisé, d’Ormesson peut apparaître dans des questions littéraires et institutionnelles, mais reste secondaire à l’échelle mondiale."
 ---
-
 ![Image de Jean d'Ormesson](https://upload.wikimedia.org/wikipedia/commons/1/1f/Jean_d%27Ormesson_italia.jpg)
 
 ###### Questions

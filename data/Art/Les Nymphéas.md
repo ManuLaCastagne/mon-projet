@@ -23,8 +23,9 @@ indice_6 :
   - étang avec des nénuphars
 questions:
  - Quelles peintures impressionnistes monumentales de Claude Monet sont exposées dans 2 salles du musée…
+culture_g_score: 100
+culture_g_justification: "Ensemble incontournable de Monet, particulièrement rentable pour l’impressionnisme, Giverny, la lumière, l’Orangerie et l’art monumental."
 ---
-
 ![Image de Les Nymphéas](https://upload.wikimedia.org/wikipedia/commons/2/29/Detail_of_%22The_Water-Lily_Pond%22_by_Claude_Monet_02.jpg)
 
 ###### Questions

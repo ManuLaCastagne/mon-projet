@@ -15,8 +15,9 @@ indice_6 :
   - Fromage Beaufort
 questions:
  - Race rustique, résistante, je suis dotée d'une robe fauve et uniforme. Je suis dotée d'un museau noir.
+culture_g_score: 40
+culture_g_justification: "La tarentaise est une race bovine surtout utile pour des questions sur l'élevage alpin et le Beaufort, domaine assez étroit."
 ---
-
 ![Image de Tarentaise](https://upload.wikimedia.org/wikipedia/commons/9/92/PNR-Pilat-Tarentaise.jpg)
 
 ###### Questions

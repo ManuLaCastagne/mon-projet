@@ -18,9 +18,9 @@ indice_5 :
   - Starman
 indice_6 : 
   - Concept Album
+culture_g_score: 80
+culture_g_justification: "Alter ego et album majeur de David Bowie, régulièrement interrogé via le rock, les personnages scéniques et l’histoire de la musique."
 ---
-
-
 ![Image de Ziggy Stardust](https://upload.wikimedia.org/wikipedia/commons/2/29/Ziggy_Stardust_black_plaque.jpg)
 
 ###### Questions

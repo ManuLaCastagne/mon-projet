@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de résilience alpine
 questions:
  - Quel coléoptère aux longues antennes est connu sous le nom de cérambyx ?
+culture_g_score: 40
+culture_g_justification: "Le Grand Capricorne est un coléoptère remarquable mais spécialisé, à distinguer du capricorne zodiacal ou de la chèvre."
 ---
-
 ![Image de Capricorne](https://upload.wikimedia.org/wikipedia/commons/3/3e/Sous_le_nuage_RADIOACTIF_on_filme_16_JUIN_1974_Moruroa_Capricorne_Dossier_JOYON_G.jpg)
 
 ###### Questions

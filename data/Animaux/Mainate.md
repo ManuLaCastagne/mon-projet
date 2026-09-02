@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de longévité en Asie
 questions:
  - Quel grand étourneau d'Asie méridionale, au plumage noir et au bec jaune, est capable d'imiter...
+culture_g_score: 40
+culture_g_justification: "Oiseau connu pour l’imitation de la voix humaine, mais dont les références générales restent limitées."
 ---
-
 ![Image de Mainate](https://upload.wikimedia.org/wikipedia/commons/6/69/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-mainate_du_pauvre.wav)
 
 ###### Questions

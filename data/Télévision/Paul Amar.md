@@ -20,8 +20,9 @@ indice_6 :
   - a animé Libre Cours sur France 3
 questions:
  - Lors de la campagne des élections européennes 94, quel journaliste fait scandale en proposant des gants de boxe aux participants...
+culture_g_score: 40
+culture_g_justification: "Journaliste surtout retenu pour l’épisode des gants de boxe, connaissance utile mais assez ponctuelle."
 ---
-
 ![Image de Paul Amar](https://upload.wikimedia.org/wikipedia/commons/f/f6/Maniesh_Paul_snapped_at_the_special_screening_of_Amar_Singh_Chamkila.jpg)
 
 ###### Questions

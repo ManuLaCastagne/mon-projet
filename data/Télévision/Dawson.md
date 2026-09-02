@@ -18,8 +18,9 @@ indice_5 :
   - The WB
 indice_6 : 
   - James Van Der Beek
+culture_g_score: 68
+culture_g_justification: "La série Dawson’s Creek est une référence de la culture télévisuelle des années 1990-2000, avec plusieurs personnages et repères exploitables."
 ---
-
 ![Image de Dawson](https://upload.wikimedia.org/wikipedia/commons/c/c6/Dawson_Yukon_June_07.jpg)
 
 ###### Questions

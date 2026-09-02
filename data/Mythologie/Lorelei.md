@@ -18,9 +18,9 @@ indice_6 :
   - légende romantique
 questions:
  - Héroïne de légende ayant inspiré à Franz Liszt un lied composé en 1841 sur un poème de Heinrich Heine, je suis présentée comme une femme dont la beauté irrésistible a fait le malheur. Imaginée ou popularisée au Culture_G/XIXe siècle par le poète allemand Klemens Brentano, je peignais mes longs cheveux...
+culture_g_score: 63
+culture_g_justification: "La Lorelei relie folklore allemand, Rhin, poésie et musique, mais demeure une référence moins incontournable que les grands mythes européens."
 ---
-
-
 ![Image de Lorelei](https://upload.wikimedia.org/wikipedia/commons/3/31/Loreleyblick_Maria_Ruh_2020.jpg)
 
 ###### Questions

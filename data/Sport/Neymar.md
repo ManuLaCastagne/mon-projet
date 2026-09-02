@@ -20,8 +20,9 @@ indice_6 :
   - Copa America
 questions:
  - Footballeur né le 5 février 92, j'ai marqué mon 1er but en professionnel en 2009, lors d'un match contre Mogi Mirim. Médaillé d'or, avec ma sélection nationale et meilleure buteur du tournoi olympique disputé à domicile en 2016, j'ai formé jusqu'en...
+culture_g_score: 88
+culture_g_justification: "Star mondiale du football, fréquemment interrogée pour ses transferts records, ses clubs, ses titres et sa carrière brésilienne."
 ---
-
 ![Image de Neymar](https://upload.wikimedia.org/wikipedia/commons/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg)
 
 ###### Questions

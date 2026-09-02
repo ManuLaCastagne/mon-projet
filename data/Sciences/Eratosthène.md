@@ -20,8 +20,9 @@ indice_6 :
   - Nombre premier
 questions:
  - Quel savant grec de l'école d'Alexandrie fut le premier à évaluer la circonférence de la Terre ?
+culture_g_score: 80
+culture_g_justification: "Savant antique très rentable grâce à ses travaux sur la Terre, les nombres premiers, la géographie et la bibliothèque d’Alexandrie."
 ---
-
 ![Image de Eratosthène](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
 
 ###### Questions

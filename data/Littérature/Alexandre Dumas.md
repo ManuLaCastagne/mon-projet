@@ -22,8 +22,9 @@ indice_6 :
   - écrivain de la période romantique
 questions:
  - Dans son "Grand Dictionnaire de cuisine", quel écrivain du Culture_G/XIXe siècle présente une quinzaine de recettes à base de pommes de terre?
+culture_g_score: 100
+culture_g_justification: "Dumas est un auteur mondialement célèbre, associé à plusieurs romans incontournables, au romantisme, à l'histoire et aux adaptations."
 ---
-
 ![Image de Alexandre Dumas](https://upload.wikimedia.org/wikipedia/commons/1/1b/Alexandre_Dumas_assis_Gustave_Dor%C3%A9.jpg)
 
 ###### Questions

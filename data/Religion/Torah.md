@@ -20,8 +20,9 @@ indice_6 :
   - Deutéronome
 questions:
  - En son sens premier, quel terme, équivalent au grec Pentateuque, désigne les 5 premiers livres de la Bible hébraïque?
+culture_g_score: 100
+culture_g_justification: "Texte fondateur du judaïsme et repère central des traditions abrahamiques, la Torah est incontournable dans de nombreux quiz religieux et historiques."
 ---
-
 ![Image de Torah](https://upload.wikimedia.org/wikipedia/commons/1/12/Hiddushei_ha-Torah_Lisbon_1489.jpg)
 
 ###### Questions

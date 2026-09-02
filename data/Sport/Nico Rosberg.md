@@ -20,8 +20,9 @@ indice_6 :
   - Michael Schumacher
 questions:
  - En 2016, quel pilote de formule 1 allemand a dû attendre le dernier Grand Prix de la saison pour être sacré champion du monde?
+culture_g_score: 72
+culture_g_justification: "Champion du monde de Formule 1 en 2016 et fils de Keke Rosberg, il constitue une référence régulière mais assez circonscrite."
 ---
-
 ![Image de Nico Rosberg](https://upload.wikimedia.org/wikipedia/commons/2/2a/Heidfeld_and_Rosberg_-_2008_Melb_GP.jpg)
 
 ###### Questions

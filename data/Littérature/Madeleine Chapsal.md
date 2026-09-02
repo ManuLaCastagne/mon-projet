@@ -18,8 +18,9 @@ indice_5 :
   - Prix littéraires
 indice_6 : 
   - Nouveau Roman
+culture_g_score: 31
+culture_g_justification: "Écrivaine et journaliste française contemporaine relativement peu présente dans les quiz généralistes malgré une œuvre abondante."
 ---
-
 ![Image de Madeleine Chapsal]()
 
 ###### Questions

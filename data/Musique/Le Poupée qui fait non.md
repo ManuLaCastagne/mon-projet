@@ -22,9 +22,9 @@ indice_6 :
   - chanson pop
 questions:
  - Comprenant les paroles "personne ne lui a jamais appris qu'on pouvait dire oui", j'ai été adaptée en anglais par Scott McKenzie sous le titre "No, no, no, no, no".
+culture_g_score: 73
+culture_g_justification: "Tube emblématique de Polnareff, fréquemment mobilisé via ses reprises, son refrain et l’histoire de la variété française."
 ---
-
-
 ![Image de Le Poupée qui fait non](https://upload.wikimedia.org/wikipedia/commons/0/04/Comment_on_fait_son_chemin_dans_le_monde_%28IA_commentonfaitso00sain%29.pdf)
 
 ###### Questions

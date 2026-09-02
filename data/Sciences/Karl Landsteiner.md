@@ -20,9 +20,9 @@ indice_6 :
   - Transfusion sanguine
 questions:
  - En 1930, quel médecin américain d'Autriche reçoit le prix Nobel pour sa découverte des groupes sanguins ?
+culture_g_score: 73
+culture_g_justification: "La découverte des groupes sanguins fait de Landsteiner un repère régulièrement exploité en médecine, biologie et histoire des Nobel."
 ---
-
-
 ![Image de Karl Landsteiner](https://upload.wikimedia.org/wikipedia/commons/a/aa/Karl_Landsteiner_%281868-1943%29%2C_bas-relief_%28bronze%29_in_the_Arkadenhof_of_the_University_of_Vienna-.jpg)
 
 ###### Questions

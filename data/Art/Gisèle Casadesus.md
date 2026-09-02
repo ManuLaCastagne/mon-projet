@@ -23,8 +23,9 @@ indice_6 :
   - famille de musiciens
 questions:
  - Quelle comédienne, fille d'un compositeur et mère d'un chef d'orchestre, joue dans la pièce "Le jubilé d'Agathe" l'année de ses 100 ans ?
+culture_g_score: 43
+culture_g_justification: "Actrice française très âgée et sociétaire de la Comédie-Française, elle fournit quelques questions de cinéma et de théâtre mais reste secondaire."
 ---
-
 ![Image de Gisèle Casadesus](https://upload.wikimedia.org/wikipedia/commons/4/44/Gis%C3%A8le_Casadesus_Cabourg_2012.jpg)
 
 ###### Questions

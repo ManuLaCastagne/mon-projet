@@ -20,8 +20,9 @@ indice_6 :
   - labyrinthe
 questions:
  - Décoré de plusieurs fresques dont notamment celle des dauphins située dans les appartements royaux, je suis un vaste complexe palatial  qui aurait été construit par le légendaire Dédale. Principale cité de la Crète antique associée au roi Minos, je suis...
+culture_g_score: 80
+culture_g_justification: "Knossos relie archéologie, civilisation minoenne, Crète, mythologie du Minotaure et monde égéen, ce qui en fait un site très rentable."
 ---
-
 ![Image de Knossos](https://upload.wikimedia.org/wikipedia/commons/0/04/The_%22cup_bearer%22_fresco_Knossos_Heraklion_museum_Crete_Greece.jpg)
 
 ###### Questions

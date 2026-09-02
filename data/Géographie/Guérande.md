@@ -21,8 +21,9 @@ indice_5 :
   - Ville médiévale
 indice_6 : 
   - Brittany Coast
+culture_g_score: 60
+culture_g_justification: "Ville et territoire français bien identifiés par les remparts, les marais salants, le sel et le patrimoine breton."
 ---
-
 ![[Carte_Guérande.png]]
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5:
   - Rogers Centre
 indice_6:
   - Toronto FC
+culture_g_score: 64
+culture_g_justification: "Grande ville canadienne offrant des entrées sportives variées, mais le contexte sportif ne suffit pas à lui donner la portée générale d’un sujet géographique complet."
 ---
-
 ![Image de Toronto](https://upload.wikimedia.org/wikipedia/commons/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg)
 
 ###### Questions

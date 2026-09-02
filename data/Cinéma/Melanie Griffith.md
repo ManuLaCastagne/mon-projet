@@ -20,8 +20,9 @@ indice_5 :
   - Les Griffes du passé
 indice_6 : 
   - Hollywood
+culture_g_score: 67
+culture_g_justification: "Actrice américaine célèbre surtout pour Working Girl, sa famille hollywoodienne et quelques succès des années 1980-1990."
 ---
-
 ![Image de Melanie Griffith](https://upload.wikimedia.org/wikipedia/commons/d/dc/Melanie_Griffith_2016_crop.jpg)
 
 ###### Questions

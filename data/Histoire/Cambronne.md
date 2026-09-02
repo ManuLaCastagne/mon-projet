@@ -20,8 +20,9 @@ indice_6 :
   - légion d'honneur
 questions:
  - Commandant une division de la vieille garde à la bataille de Waterloo, je refuse de me rendre aux Anglais, ce qui m'a valu l'attribution de la phrase "Culture_G/La garde meurt mais ne se rend pas", que je n'aurais...
+culture_g_score: 64
+culture_g_justification: "Général napoléonien connu surtout pour la réplique attribuée à Waterloo, ce qui limite la diversité des questions."
 ---
-
 ![Image de Cambronne](https://upload.wikimedia.org/wikipedia/commons/1/13/Cambronne_-_buste.jpg)
 
 ###### Questions

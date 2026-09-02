@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Italie
+culture_g_score: 60
+culture_g_justification: "Plat historique permettant de relier gastronomie, Napoléon et la bataille de Marengo, malgré une fréquence modérée."
 ---
 ###### Questions 
 

@@ -23,8 +23,9 @@ indice_6 :
   - Réalisme magique
 questions:
  - Quel écrivain argentin disparu en 1986 a écrit "L'Aleph" ?
+culture_g_score: 80
+culture_g_justification: "Écrivain majeur de la littérature mondiale, associé aux labyrinthes, aux bibliothèques, au fantastique et au réalisme magique."
 ---
-
 ![Image de Georges Luis Borgès](https://upload.wikimedia.org/wikipedia/commons/c/cf/Jorge_Luis_Borges_1951%2C_by_Grete_Stern.jpg)
 
 ###### Questions

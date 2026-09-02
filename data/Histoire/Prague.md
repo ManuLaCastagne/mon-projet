@@ -10,6 +10,8 @@ questions:
  - En 1618, quelle ville déclenche la Guerre de Trente ans ?
 questions:
  - En 1618, quelle ville déclenche la Guerre de Trente ans ?
+culture_g_score: 76
+culture_g_justification: "Capitale européenne mondialement connue, avec de nombreux repères historiques, culturels et géographiques."
 ---
 Question : En 1618, quelle ville déclenche la [[Guerre de Trente]] ans ?
 

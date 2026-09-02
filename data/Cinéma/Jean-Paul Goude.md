@@ -22,8 +22,9 @@ indice_6 :
   - styliste
 questions:
  - Quel réalisateur de films publicitaires, longtemps associé à l'actrice et chanteuse Grace Jones, a passé son enfance à Saint-Mandé?
+culture_g_score: 55
+culture_g_justification: "Artiste influent de la publicité, de la photographie et de la culture visuelle, mais moins central dans les quiz de cinéma."
 ---
-
 ![Image de Jean-Paul Goude](https://upload.wikimedia.org/wikipedia/commons/f/f3/Jean-Paul_Goude_IMG_0459.jpg)
 
 ###### Questions

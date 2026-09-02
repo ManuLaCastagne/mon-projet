@@ -20,8 +20,9 @@ indice_6 :
   - Halo derrière la tête
 questions:
  - En 1964, quelle série britannique met en scène Roger Moore dans le rôle de Simon Templar ?
+culture_g_score: 76
+culture_g_justification: "Série britannique classique, utile pour Roger Moore, Simon Templar, Leslie Charteris et l’histoire des fictions d’espionnage."
 ---
-
 ![Image de Le Saint](https://upload.wikimedia.org/wikipedia/commons/1/1f/Le_Saint_mairie.JPG)
 
 ###### Questions

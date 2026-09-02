@@ -22,8 +22,9 @@ indice_6 :
   - oeuvres traitant de la famille et de la société américaine
 questions:
  - En 2020, dans l'ouvrage "Et si on arrêtait de faire semblant?", quel écrivain américain, auteur des "Corrections", mêle récit personnel et réflexion sur la littérature et la société?
+culture_g_score: 48
+culture_g_justification: "Romancier américain reconnu, mais encore relativement spécialisé dans les quiz généralistes malgré quelques œuvres célèbres."
 ---
-
 ![Image de Jonathan Franzen](https://upload.wikimedia.org/wikipedia/commons/e/e6/Jonathan_Franzen_2011_Shankbone_2.JPG)
 
 ###### Questions

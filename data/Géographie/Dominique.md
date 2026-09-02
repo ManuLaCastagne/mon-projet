@@ -24,8 +24,9 @@ indice_6 :
   - ressources naturelles et paysages
 questions:
  - Quel Etat des Petites Antilles, dont le nom constitue également un prénom, est représenté par un drapeau orné d'un cercle portant un perroquet ?
+culture_g_score: 60
+culture_g_justification: "État insulaire classique des capitales et pays du monde, avec des repères naturels et coloniaux, mais une fréquence modérée."
 ---
-
 ![Image de Dominique](https://upload.wikimedia.org/wikipedia/commons/f/fd/Dominique_Malonga.jpg)
 
 ![[Carte_Dominique.png]]

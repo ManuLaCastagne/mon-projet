@@ -20,8 +20,9 @@ indice_6 :
   - berceau de la passementerie
 questions:
  - Quel actuel chef-lieu de la Loire a bénéficié, dès 1828, de l'ouverture d'une ligne de chemin de fer ?
+culture_g_score: 60
+culture_g_justification: "Ville industrielle française notable pour les mines, les armes et le chemin de fer, mais généralement peu transversale hors histoire régionale."
 ---
-
 ![Image de Sainte-Etienne](https://upload.wikimedia.org/wikipedia/commons/1/17/Henri_%C3%89tienne_Sainte-Claire_Deville%2C_MTA_eml%C3%A9kbesz%C3%A9dek%2C_1885.jpg)
 
 ###### Questions

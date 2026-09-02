@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé comme plante ornementale et parfois pour ses fibres textiles
 questions:
  - Quelle plante d'appartement au nom originaire d'Haïti, est appréciée pour ses hautes tiges à l'aspect de tronc ?
+culture_g_score: 64
+culture_g_justification: "Plante ornementale immédiatement identifiable, reliée aux déserts américains, aux jardins et à quelques usages traditionnels."
 ---
-
 ![Image de Yucca](https://upload.wikimedia.org/wikipedia/commons/1/11/Yucca_gloriosa_%28Yucca%29_-_83.jpg)
 
 ###### Questions

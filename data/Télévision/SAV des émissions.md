@@ -20,8 +20,9 @@ indice_6 :
   - programme court
 questions:
  - La décoration de l'émission. Mettant en scène des personnages comme Doudou, Tata Suzanne ou François le Français...
+culture_g_score: 56
+culture_g_justification: "Programme humoristique populaire de Canal+ reposant sur Omar et Fred, mais limité à l’histoire récente de la télévision comique."
 ---
-
 ![Image de SAV des émissions](https://upload.wikimedia.org/wikipedia/commons/b/bb/Comptes_rendus_hebdomadaires_des_s%C3%A9ances_de_l%E2%80%99Acad%C3%A9mie_des_sciences%2C_tome_083%2C_1876.djvu)
 
 ###### Questions

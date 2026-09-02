@@ -20,8 +20,9 @@ indice_6 :
   - spectacles musicaux
 questions:
  - Quel chorégraphe français, né en 1971, s'est fait connaître auprès du grand public en étant professeur de danse à la "Star Academy"?
+culture_g_score: 56
+culture_g_justification: "Chorégraphe fortement associé à Star Academy et aux spectacles musicaux, avec une présence régulière mais secondaire dans les quiz."
 ---
-
 ![Image de Kamel Ouali](https://upload.wikimedia.org/wikipedia/commons/5/52/Kamel_Ouali_donnant_des_cours_de_danse%2C_Neuch%C3%A2tel%2C_2016.png)
 
 ###### Questions

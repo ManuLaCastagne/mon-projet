@@ -21,8 +21,9 @@ indice_5:
   - acteur dans L'Homme qui murmurait à l'oreille des chevaux
 indice_6:
   - récompensé par un Oscar d'honneur
+culture_g_score: 88
+culture_g_justification: "Grande figure du cinéma américain, très souvent mobilisable par ses films cultes, le Sundance Festival et ses activités de réalisateur."
 ---
-
 ![Image de Robert Redford](https://upload.wikimedia.org/wikipedia/commons/2/2d/Robert_Redford_%28cropped%29.jpg)
 
 ###### Questions

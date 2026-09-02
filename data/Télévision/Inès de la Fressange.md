@@ -21,9 +21,9 @@ indice_6 :
 questions:
  - Quel mannequin français a été choisi par Karl Lagerfeld pour incarner la Coco Chanel des années 80 ?
  - A quelle ancienne mannequin star des années 80, ayant lancé sa propre griffe, doit-on les livres "Comment je m'habille aujourd'hui?" et "La Parisienne" ?
+culture_g_score: 67
+culture_g_justification: "Mannequin emblématique et référence de l'élégance française, mais ses liens avec la télévision restent secondaires par rapport à la mode."
 ---
-
-
 ![Image de Inès de la Fressange](https://upload.wikimedia.org/wikipedia/commons/a/a8/In%C3%A8s_de_la_Fressange.jpg)
 
 ###### Questions

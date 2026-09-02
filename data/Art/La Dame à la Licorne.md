@@ -23,9 +23,9 @@ indice_6 :
   - allégories des sens
 questions:
  - Quelle tapisserie au musée de Cluny du XVe siècle dont chaque pièce figure une jeune femme auprès d'un animal fabuleux ?
+culture_g_score: 68
+culture_g_justification: "La Dame à la Licorne est un ensemble majeur du patrimoine textile français, identifiable par ses six tapisseries et la symbolique des sens."
 ---
-
-
 ![Image de La Dame à la Licorne](https://upload.wikimedia.org/wikipedia/commons/6/6e/%28Toulouse%29_Mon_seul_d%C3%A9sir_%28La_Dame_%C3%A0_la_licorne%29_-_Mus%C3%A9e_de_Cluny_Paris_-_la_Dame.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - climat sahélien
 indice_6 : 
   - monuments historiques
+culture_g_score: 60
+culture_g_justification: "Capitale africaine régulièrement associée au Burkina Faso, au cinéma africain, à Thomas Sankara et à l’histoire ouest-africaine."
 ---
-
 ![Image de Ouagadougou](https://upload.wikimedia.org/wikipedia/commons/1/1c/Ouagadougou_place_nations_unies.JPG)
 
 ![[Carte_Ouagadougou.png]]

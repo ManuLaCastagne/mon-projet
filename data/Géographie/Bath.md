@@ -24,8 +24,9 @@ indice_6 :
   - Pulteney Bridge
 questions:
  - Cité élégante  inscrite au patrimoine mondial  de l'Unesco, ville thermale,  Bath. Remarquable  pour mes sources chaudes naturelles, je porte un nom signifiant "bain".
+culture_g_score: 77
+culture_g_justification: "Ville anglaise très classique grâce aux thermes romains, à l’architecture georgienne et au patrimoine de l’UNESCO."
 ---
-
 ![Image de Bath](https://upload.wikimedia.org/wikipedia/commons/9/91/Bathwick_Hill%2C_Bath%2C_Somerset%2C_UK_-_Diliff.jpg)
 
 ![[Carte_Bath.png]]

@@ -20,10 +20,9 @@ indice_6 :
   - Genèse
 questions:
  - Quel est ce personnage dans la Bible a qui on attribue 969 ans ?
+culture_g_score: 57
+culture_g_justification: "La longévité de 969 ans en fait une réponse classique, mais le personnage offre peu d'autres angles de culture générale."
 ---
-
-
-
 ![Image de Mathusalem](https://upload.wikimedia.org/wikipedia/commons/7/71/Methuselah_Tree.jpg)
 
 ###### Questions

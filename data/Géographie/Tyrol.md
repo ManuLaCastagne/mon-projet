@@ -22,8 +22,9 @@ indice_6 :
   - yodel
 questions:
  - Quel région de l'Ouest de l'Autriche a pour capitale Innsbruck ?
+culture_g_score: 60
+culture_g_justification: "Le Tyrol est un repère alpin classique, utile pour l’histoire austro-italienne, les paysages et les sports d’hiver."
 ---
-
 ![Image de Tyrol](https://upload.wikimedia.org/wikipedia/commons/2/2b/Galt%C3%BCr_-_Jamtal_01.jpg)
 
 ![[Carte_Tyrol.png]]

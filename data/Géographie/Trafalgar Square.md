@@ -21,8 +21,9 @@ indice_5 :
   - Queen Elizabeth II
 indice_6 : 
   - Pigeons
+culture_g_score: 80
+culture_g_justification: "Trafalgar Square est un repère londonien fréquent, associé à Nelson, à la National Gallery, aux cérémonies et à l’histoire britannique."
 ---
-
 ![[Carte_Trafalgar Square.png]]
 
 ###### Questions

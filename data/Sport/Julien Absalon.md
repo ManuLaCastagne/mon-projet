@@ -20,9 +20,9 @@ indice_6 :
   - Jeux Olympiques de Pékin 2008
 questions:
  - Entre 2004 et 2014, en VTT, quel cycliste a remporté 2 titres olympiques et 5 titres mondiaux de cross ?
+culture_g_score: 57
+culture_g_justification: "Champion olympique et mondial dominant du VTT, mais sujet relativement circonscrit à une discipline sportive spécialisée."
 ---
-
-
 ![Image de Julien Absalon](https://upload.wikimedia.org/wikipedia/commons/d/dc/Julien_Absalon_Schladming_2009.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de vitesse dans les cultures africaines
 questions:
  - Quel adjectif qualifie le mode de reproduction le plus courant chez les reptiles ?
+culture_g_score: 61
+culture_g_justification: "Notion biologique utile pour comparer les modes de reproduction de nombreux animaux, même si elle produit peu de questions autonomes."
 ---
-
 ![Image de Ovipare](https://upload.wikimedia.org/wikipedia/commons/8/8f/Egg_laying_position_of_Acraea_terpsicore_%28Linnaeus%2C_1758%29_%E2%80%93_Tawny_Coster_on_Turnera_ulmifolia_WLB.jpg)
 
 ###### Questions

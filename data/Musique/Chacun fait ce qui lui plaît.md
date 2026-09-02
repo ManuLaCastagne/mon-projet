@@ -22,10 +22,9 @@ indice_6 :
   - Born to Be Wild
 questions:
  - En 1981, dans cette chanson "Chacun fait ce qui lui plaît" du duo Chagrin, à quelle heure matinale l'interprète masculin a-t-il des frissons ?
+culture_g_score: 73
+culture_g_justification: "Tube français très mémorisable, régulièrement associé aux débuts du rap en France, aux années 1980 et au groupe Chagrin d’amour."
 ---
-
-
-
 ![Image de Chacun fait ce qui lui plaît](https://upload.wikimedia.org/wikipedia/commons/b/bc/Theologie_des_insectes%2C_ou%2C_Demonstration_des_perfections_de_Dieu_dans_tout_ce_qui_concerne_les_insectes_%28IA_theologiedesinse02less%29.pdf)
 
 ###### Questions

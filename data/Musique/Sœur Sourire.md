@@ -22,8 +22,9 @@ indice_6 :
   - 1963
 questions:
  - Sous quel nom de scène connaît-on la religieuse ayant atteint le sommet des hit-parades en 1960 ?
+culture_g_score: 60
+culture_g_justification: "Figure singulière de la chanson des années 1960, surtout connue grâce au succès international de «Dominique»."
 ---
-
 ![Image de Sœur Sourire](https://upload.wikimedia.org/wikipedia/commons/7/7c/Sor_Sonrisa.gif)
 
 ###### Questions

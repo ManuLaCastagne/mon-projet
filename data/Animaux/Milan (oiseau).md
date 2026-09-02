@@ -14,9 +14,9 @@ indice_5:
   - Milan royal
 indice_6:
   - Symbole de clairvoyance
+culture_g_score: 60
+culture_g_justification: "Rapace européen présentant plusieurs espèces et une étymologie intéressante, mais moins incontournable que les grands rapaces emblématiques."
 ---
-
-
 ![Image de Milan (oiseau)](https://upload.wikimedia.org/wikipedia/commons/2/28/Black_Kite_Left_IITMandi_Salgi_Mar20_D72_14357.jpg)
 
 ###### Questions

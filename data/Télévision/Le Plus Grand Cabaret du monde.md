@@ -20,8 +20,9 @@ indice_6 :
   - Show présent de 1998 à 2019
 questions:
  - Programme de divertissement  réalisé par Bernard Gonner, j'ai été conçu à l'origine comme une émission unique, diffusée le 26 décembre 1998. Durant environ 135 mn et réunissant des invités, je me conclus par un final en chanson. Diffusé un samedi soir par mois sur France 2 jusqu'en 2019, j'ai révélé au public Shirley et Dino et Jeff Panacloc.
+culture_g_score: 72
+culture_g_justification: "Émission populaire et durable, régulièrement associée à Patrick Sébastien, au cabaret, au cirque et au spectacle vivant."
 ---
-
 ![Image de Le Plus Grand Cabaret du monde](https://upload.wikimedia.org/wikipedia/commons/5/5f/Le_Plus_Grand_Cabaret_du_Monde.png)
 
 ###### Questions

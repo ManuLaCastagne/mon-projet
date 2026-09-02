@@ -20,9 +20,9 @@ indice_6 :
   - Championnat du monde
 questions:
  - Quel ancien sportif australien, surnommé Thorpedo, est le nageur ayant remporté...
+culture_g_score: 60
+culture_g_justification: "Grand nageur olympique identifiable, Ian Thorpe fournit plusieurs questions classiques de natation mais demeure spécialisé."
 ---
-
-
 ![Image de Ian Thorpe](https://upload.wikimedia.org/wikipedia/commons/2/27/Ian_Thorpe_2012.jpg)
 
 ###### Questions

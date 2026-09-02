@@ -18,8 +18,9 @@ indice_5 :
   - Charte constitutionnelle
 indice_6 : 
   - monarchie constitutionnelle
+culture_g_score: 76
+culture_g_justification: "Période classique de l’histoire française, utile pour relier monarchie, politique européenne, société et héritage napoléonien."
 ---
-
 ![Image de Restauration](https://upload.wikimedia.org/wikipedia/commons/b/b0/Returationen.jpg)
 
 ###### Questions

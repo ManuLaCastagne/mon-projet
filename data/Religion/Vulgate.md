@@ -20,8 +20,9 @@ indice_6 :
   - Édition critique
 questions:
  - Quel nom porte la traduction latine de la Bible réalisée par Saint-Jérôme à la fin du IVe siècle?
+culture_g_score: 72
+culture_g_justification: "La Vulgate est un repère important pour l’histoire de la Bible, du latin, de l’Église catholique et de la transmission des textes."
 ---
-
 ![Image de Vulgate](https://upload.wikimedia.org/wikipedia/commons/8/8c/Concordance_of_Stuttgart_Latin_Vulgate_Bible.jpg)
 
 ###### Questions

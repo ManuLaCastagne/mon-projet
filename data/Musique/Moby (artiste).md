@@ -22,8 +22,9 @@ indice_6 :
   - Go
 questions:
  - Quel artiste techno, auteur de l'album "Play" en 1999, doit son nom de scène à une oeuvre de son arrière-grand-oncle Herman Melville?
+culture_g_score: 67
+culture_g_justification: "Artiste électronique connu pour l’album Play, les musiques de médias et ses engagements, mais d’importance historique inférieure aux grandes figures de la pop."
 ---
-
 ![Image de Moby (artiste)](https://upload.wikimedia.org/wikipedia/commons/6/69/Curating_the_Library_%28programmaboekje%29.pdf)
 
 ###### Questions

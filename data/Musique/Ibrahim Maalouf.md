@@ -21,10 +21,9 @@ indice_5:
   - album Beirut
 indice_6:
   - collaboration avec Sting
+culture_g_score: 60
+culture_g_justification: "Trompettiste franco-libanais contemporain connu du public francophone, utile pour des questions musicales et cinématographiques mais encore peu incontournable."
 ---
-
-
-
 ![Image de Ibrahim Maalouf](https://upload.wikimedia.org/wikipedia/commons/2/2a/Ibrahim_Maalouf_-_Festival_du_Bout_du_Monde_2014_-_005_%28cropped%29.jpg)
 
 ###### Questions

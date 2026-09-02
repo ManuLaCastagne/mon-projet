@@ -22,8 +22,9 @@ indice_6 :
   - épouse
 questions:
  - A quelle femme, épouse de Molière, doit-on la création du personnage d'Elmire dans "Tartuffe"?
+culture_g_score: 31
+culture_g_justification: "Actrice liée à Molière, mais sa notoriété et sa fréquence quiz restent nettement inférieures à celles de son époux et de ses pièces."
 ---
-
 ![Image de Armande Béjart](https://upload.wikimedia.org/wikipedia/commons/8/84/Armande_B%C3%A9jart.jpg)
 
 ###### Questions

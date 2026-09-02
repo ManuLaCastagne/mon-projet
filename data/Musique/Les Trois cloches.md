@@ -22,8 +22,9 @@ indice_6 :
   - mariage
 questions:
  - En 1945, quelle chanson, évoquant la destinée d'un certain Jean-François Nicot, interprète-t-elle avec les Compagnons...
+culture_g_score: 60
+culture_g_justification: "Chanson franco-suisse durablement connue, exploitable par ses interprètes, ses reprises et son contexte historique, sans être un marronnier majeur."
 ---
-
 ![Image de Les Trois cloches](https://upload.wikimedia.org/wikipedia/commons/5/52/Saint-Gervais-les-Trois-Clochers_-_Le_lavoir.jpg)
 
 ###### Questions

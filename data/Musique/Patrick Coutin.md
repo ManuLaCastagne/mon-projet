@@ -22,8 +22,9 @@ indice_6 :
   - Influence new wave
 questions:
  - En 1981, quel chanteur évoque le plaisir qu'il prend à observer les filles ?
+culture_g_score: 44
+culture_g_justification: "Artiste surtout connu pour « J’aime regarder les filles », ce qui limite fortement le nombre de questions réutilisables."
 ---
-
 ![Image de Patrick Coutin](https://upload.wikimedia.org/wikipedia/commons/3/3b/History_of_Washington_County_-_from_its_first_settlement_to_the_present_time_..._%28IA_historyofwashing00creig%29.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Tournages épiques et audacieux
 questions:
  - Inspiré par une collaboration entre mes réalisateurs et le directeur de l'association "Le Silence des Justes", je réunis des adolescents de quartiers difficiles et des jeunes autistes. Film d'O. Nakache et E. Toledano avec Vincent Cassel.
+culture_g_score: 44
+culture_g_justification: "Film français contemporain identifiable par son thème de l’autisme, mais encore peu récurrent dans les quiz."
 ---
-
 ![Image de Hors normes](https://upload.wikimedia.org/wikipedia/commons/7/7b/Hors_normes_-_logo.png)
 
 ###### Questions

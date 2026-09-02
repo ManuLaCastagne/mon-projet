@@ -22,9 +22,9 @@ indice_5 :
   - côtes d'Afrique de l'Ouest
 indice_6 : 
   - nommé en l'honneur du président américain James Monroe
+culture_g_score: 52
+culture_g_justification: "Capitale du Liberia utile pour l’histoire de la colonisation afro-américaine, mais rarement interrogée seule."
 ---
-
-
 ![Image de Monrovia](https://upload.wikimedia.org/wikipedia/commons/c/c6/MonroviaLB14.png)
 
 ![[Carte_Monrovia.png]]

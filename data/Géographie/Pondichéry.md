@@ -24,8 +24,9 @@ indice_6 :
   - golfe du Bengale
 questions:
  - Donnant sur le golfe du Bengale au sud de Madras, disait la fin de la question, je suis connue pour avoir été l'ancien chef-lieu des établissements français en Inde.
+culture_g_score: 71
+culture_g_justification: "Ancien comptoir français très utile pour l’histoire coloniale, l’Inde et la culture franco-indienne, mais d’une fréquence modérée."
 ---
-
 ![Image de Pondichéry](https://upload.wikimedia.org/wikipedia/commons/4/47/En-us-Puducherry.oga)
 
 ![[Carte_Pondichéry.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - New Age et réincarnation
 questions:
  - En 1963, dans le film "Irma la Douce" de Billy Wilder, quelle actrice interprète le rôle-titre aux côtés de Jack Lemmon?
+culture_g_score: 60
+culture_g_justification: "Grande actrice hollywoodienne associée à plusieurs classiques et à un Oscar, mais moins incontournable que les figures majeures du cinéma."
 ---
-
 ![Image de Shirley MacLaine](https://upload.wikimedia.org/wikipedia/commons/1/1c/Shirley_MacLaine_1977.JPG)
 
 ###### Questions

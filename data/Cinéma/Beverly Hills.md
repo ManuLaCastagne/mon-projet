@@ -22,8 +22,9 @@ indice_6:
   - célébrités
 questions:
   - Dans une comédie policière sortie en 1985, dans quelle banlieue de Los Angeles l'inspecteur Foley, joué par Eddie Murphy...
+culture_g_score: 76
+culture_g_justification: "Référence culturelle américaine reconnaissable via Beverly Hills Cop, la série télévisée, Los Angeles et Pretty Woman."
 ---
-
 ![Image de Beverly Hills](https://upload.wikimedia.org/wikipedia/commons/0/04/Buildings_at_North_Rodeo_Drive%2C_Beverly_Hills%2C_West_view_20110806_1.jpg)
 
 ###### Questions

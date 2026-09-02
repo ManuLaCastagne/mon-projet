@@ -20,8 +20,9 @@ indice_6 :
   - Frontières fortifiées
 questions:
  - De septembre 1939 à mai 1940, quel nom a-t-on donné à la guerre d'escarmouches entre la France...
+culture_g_score: 77
+culture_g_justification: "Expression très classique de la Seconde Guerre mondiale, régulièrement reliée à 1939-1940, la ligne Maginot et la défaite française."
 ---
-
 ![Image de Drôle de guerre](https://upload.wikimedia.org/wikipedia/commons/c/c3/8inchHowitzerCamouflagedLaquielle20October1939.jpg)
 
 ###### Questions

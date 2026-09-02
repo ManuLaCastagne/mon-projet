@@ -22,8 +22,9 @@ indice_6 :
   - groupe musical
 questions:
  - En 1989, à quel groupe belge interprète de "Just a friend of mine" chante "Johnny" ?
+culture_g_score: 60
+culture_g_justification: "Groupe belge identifiable par plusieurs succès mêlant jazz, blues et soul, mais moins central que les grands groupes anglophones."
 ---
-
 ![Image de Vaya Con Dios](https://upload.wikimedia.org/wikipedia/commons/d/d2/Vaya_Con_Dios_in_Dordrecht.jpg)
 
 ###### Questions

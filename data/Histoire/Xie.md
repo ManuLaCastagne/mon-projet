@@ -20,8 +20,9 @@ indice_6 :
   - mentionnée dans les classiques anciens
 questions:
  - Siècle au cours duquel est monté sur le trône de France le roi Henri Ier en 1031.
+culture_g_score: 7
+culture_g_justification: "Figure légendaire très obscure de la Chine ancienne, dont l’identification est incertaine et l’utilité presque nulle pour un quiz généraliste."
 ---
-
 ![Image de Xie](https://upload.wikimedia.org/wikipedia/commons/5/5a/Xie_Jun_1993.jpg)
 
 ###### Questions

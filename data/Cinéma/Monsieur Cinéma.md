@@ -20,8 +20,9 @@ indice_5:
 indice_6:
   - acteurs
 questions: []
+culture_g_score: 52
+culture_g_justification: "Émission française liée à Pierre Tchernia et à la culture cinématographique télévisuelle, mais aujourd’hui surtout connue des amateurs."
 ---
-
 ![Image de Mr](https://upload.wikimedia.org/wikipedia/commons/0/08/Pierre_Tchernia_Cannes.jpg)
 
 ###### Questions

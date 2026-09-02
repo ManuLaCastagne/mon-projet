@@ -15,8 +15,9 @@ indice_6 :
   - Utilisation  Préparation de tisanes et remèdes naturels
 questions:
  - Production végétale me trouvant  au niveau du sol pendant l'hiver pour les plantes dites hémicryptophytes, je suis souvent protégée par des écailles imbriquées revêtues d'un enduit cireux. Pouvant être pointue et renflée, je m'épanouis au printemps...
+culture_g_score: 48
+culture_g_justification: "Structure végétale familière, mais rarement traitée comme sujet autonome et offrant peu d’angles de quiz indépendants."
 ---
-
 ![Image de Bourgeons](https://upload.wikimedia.org/wikipedia/commons/e/e5/Bloemknoppen_van_een_vlier_%28Sambucus_serenade%29._14-04-2021_%28actm.%29_01.jpg)
 
 ###### Questions

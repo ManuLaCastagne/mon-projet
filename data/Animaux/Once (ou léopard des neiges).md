@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la conservation de la faune en Asie centrale
 questions:
  - Quelle panthère, appelée irbis ou panthère des neiges, est dotée d'un pelage crème ou grisâtre en hiver qui lui permet de se confondre dans son habitat ?
+culture_g_score: 68
+culture_g_justification: "Félin emblématique de l’Himalaya, associé à la conservation, aux hautes altitudes et au surnom de fantôme des montagnes."
 ---
-
 ![Image de Once (ou léopard des neiges)](https://upload.wikimedia.org/wikipedia/commons/f/f5/Snow_leopard_portrait-2010-07-09.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - Ensemble de 1984
 indice_6 : 
   - Ennio Morricone
+culture_g_score: 71
+culture_g_justification: "Épopée criminelle importante de Sergio Leone, mais moins fréquemment interrogée que ses westerns les plus célèbres."
 ---
-
 ![Image de Il était une fois en Amérique](https://upload.wikimedia.org/wikipedia/commons/0/06/C%27era_una_volta_in_America_%28Once_Upon_a_Time_in_America%29_logo.png)
 
 ###### Questions

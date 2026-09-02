@@ -22,8 +22,9 @@ indice_6 :
   - rôle emblématique
 questions:
  - Et dans "Alice ou la dernière fugue" de Chabrol. Actrice néerlandaise ayant incarné le personnage d'"Emmanuelle", disparue en 2012...
+culture_g_score: 60
+culture_g_justification: "Actrice mondialement identifiée à Emmanuelle, sujet classique du cinéma érotique mais aux angles généraux assez limités."
 ---
-
 ![Image de Sylvia Kristel](https://upload.wikimedia.org/wikipedia/commons/c/c7/Sylvia_Kristel_%281973%29.jpg)
 
 ###### Questions

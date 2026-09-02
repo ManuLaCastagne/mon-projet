@@ -18,9 +18,9 @@ indice_5:
   - Record de longévité
 indice_6:
   - Championnats du monde
+culture_g_score: 64
+culture_g_justification: "Sprinteuse très décorée et durablement performante, utile pour l’athlétisme, la Jamaïque, la Slovénie et les Jeux olympiques."
 ---
-
-
 ![Image de Merlene Ottey](https://upload.wikimedia.org/wikipedia/commons/5/55/Ottey.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - Charlie Brown
 questions:
  - Dans la BD "Les Peanuts", quel chien, vivant sur le toit de sa niche, devient l'ami d'un oiseau nommé Woodstock?
+culture_g_score: 85
+culture_g_justification: "Personnage mondialement connu de Peanuts, exploitable en bande dessinée, culture populaire, adaptations et histoire de Schulz."
 ---
-
-
 ![Image de Snoopy](https://upload.wikimedia.org/wikipedia/commons/7/7a/Snoopy_Town_Yokohama.jpg)
 
 ###### Questions

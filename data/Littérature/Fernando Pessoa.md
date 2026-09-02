@@ -22,8 +22,9 @@ indice_6 :
   - Alvaro de Campos
 questions:
  - Quel poète écrivain portugais né en 1888 n'ayant quasiment jamais signé ses œuvres est l'auteur de "Odes de Ricardo Reis" ?
+culture_g_score: 80
+culture_g_justification: "Poète moderniste majeur, fréquemment interrogé pour ses hétéronymes, Le Livre de l’intranquillité et la littérature portugaise."
 ---
-
 ![Image de Fernando Pessoa](https://upload.wikimedia.org/wikipedia/commons/4/42/216_2310-Fernando-Pessoa.jpg)
 
 ###### Questions

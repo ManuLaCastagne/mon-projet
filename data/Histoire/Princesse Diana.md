@@ -18,8 +18,9 @@ indice_5 :
   - mariage en 1981
 indice_6 : 
   - activiste pour des œuvres de charité
+culture_g_score: 92
+culture_g_justification: "Figure mondiale de la monarchie britannique, liée à l’humanitaire, aux médias, au VIH et à la culture populaire."
 ---
-
 ![Image de Princesse Diana](https://upload.wikimedia.org/wikipedia/commons/a/a5/Place_princesse_Diana_Paris.jpg)
 
 ###### Questions

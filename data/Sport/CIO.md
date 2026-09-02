@@ -20,8 +20,9 @@ indice_6 :
   - Comité International Olympique
 questions:
  - Quel organisme sportif international Thomas Bach dirige-t-il depuis 2013 ?
+culture_g_score: 100
+culture_g_justification: "Institution centrale de l'olympisme, le CIO est un marronnier des quiz grâce à son histoire, son fonctionnement, ses dirigeants et ses Jeux."
 ---
-
 ![Image de CIO](https://upload.wikimedia.org/wikipedia/commons/e/e3/MTR_CIO_%287%29.JPG)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Ouchy
 questions:
  - Offrant de nombreux points de vue sur le lac Léman, j'abrite le siège du Conseil d'Etat dans le château fortifié Saint-Maire, le Musée Olympique dans le quartier d'Ouchy et le siège du CIO...
+culture_g_score: 72
+culture_g_justification: "Lausanne est utile pour le lac Léman, la Suisse, le mouvement olympique et les institutions internationales, avec plusieurs angles indépendants."
 ---
-
 ![Image de Lausanne](https://upload.wikimedia.org/wikipedia/commons/8/8e/2013_Longines_Global_Champions_-_Lausanne_-_14-09-2013_-_Evren_alam_et_Moritz_W.jpg)
 
 ![[Carte_Lausanne.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - Trophée des Championnes
 questions:
  - En 2020, quelle footballeuse martiniquaise, ayant remporté 7 Ligue des champions avec Lyon, a été désignée meilleure défenseuse de la saison...
+culture_g_score: 64
+culture_g_justification: "Capitaine emblématique du football féminin français et lyonnais, connue mais encore moins présente que les grandes vedettes masculines."
 ---
-
 ![Image de Wendie Renard](https://upload.wikimedia.org/wikipedia/commons/b/b5/Wendie_Renard_2018.jpg)
 
 ###### Questions

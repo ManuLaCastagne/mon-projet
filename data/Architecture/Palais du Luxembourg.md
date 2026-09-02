@@ -23,8 +23,9 @@ indice_6 :
   - Salomon de Brosse
 questions:
  - Quel palais parisien,  construit de 1615 à 1620 par Salomon de Brosse abrite aujourd'hui le Sénat?
+culture_g_score: 72
+culture_g_justification: "Palais parisien important, associé à Marie de Médicis, au Sénat, à la Révolution et aux jardins du Luxembourg."
 ---
-
 ![Image de Palais du Luxembourg](https://upload.wikimedia.org/wikipedia/commons/a/af/Palais_du_Luxembourg%2C_South_View_140116_1.jpg)
 
 ###### Questions

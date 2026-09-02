@@ -20,9 +20,9 @@ indice_6 :
   - Palais du Luxembourg
 questions:
  - Dans l'ordre de préséance en usage à Paris, quel personnage de l'Etat occupe le 3e rang, après le président et le Premier ministre?
+culture_g_score: 65
+culture_g_justification: "Fonction constitutionnelle française utile pour les successions présidentielles et plusieurs épisodes politiques précis."
 ---
-
-
 ![Image de Président du Sénat](https://upload.wikimedia.org/wikipedia/commons/e/e2/P._Doumer%2C_pr%C3%A9sident_du_S%C3%A9nat.jpg)
 
 ###### Questions

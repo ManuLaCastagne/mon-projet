@@ -13,8 +13,9 @@ indice_5:
   - Faucon aux pieds durs
 indice_6:
   - Symbole de vigilance et d’acuité visuelle
+culture_g_score: 48
+culture_g_justification: "Rapace identifiable de la faune européenne, l’épervier reste toutefois moins fréquent et moins transversal que les grands rapaces célèbres."
 ---
-
 ![Image de Épervier](https://upload.wikimedia.org/wikipedia/commons/2/29/Archives_SHDMR_MR_5_G_285_%C3%89pervier.jpg)
 
 ###### Questions

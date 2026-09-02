@@ -22,8 +22,9 @@ indice_6 :
   - Philosophie du concept
 questions:
  - A quel philosophe doit-on les ouvrages "L'Anti-Oedipe" en 1972 et "Nietzsche et la philosophie"...
+culture_g_score: 67
+culture_g_justification: "Philosophe majeur du XXe siècle, régulièrement interrogé via Guattari, l'Oulipo philosophique, le cinéma et ses concepts, mais exigeant à mémoriser."
 ---
-
 ![Image de Gilles Deleuze](https://upload.wikimedia.org/wikipedia/commons/0/0e/AVT_Gilles-Deleuze_6342.webp)
 
 ###### Questions

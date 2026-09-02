@@ -20,8 +20,9 @@ indice_6 :
   - Anneaux concentriques
 questions:
  - En 1969, dans quel château du Pays de Galles le prince Charles a-t-il été intronisé dans sa principauté ?
+culture_g_score: 52
+culture_g_justification: "Château médiéval gallois lié à Édouard Ier et à l’UNESCO, intéressant mais assez spécialisé pour un joueur francophone."
 ---
-
 ![Image de Château de Cernarfon]()
 
 ###### Questions

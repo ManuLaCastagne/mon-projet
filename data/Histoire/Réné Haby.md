@@ -20,8 +20,9 @@ indice_6 :
   - innovation pédagogique
 questions:
  - Quel ministre de l'Education nationale a été l'auteur, en 1975, d'une réforme du système éducatif dite du collège unique ?
+culture_g_score: 52
+culture_g_justification: "La loi Haby est une référence scolaire française identifiable, mais René Haby lui-même reste une personnalité politique peu transversale."
 ---
-
 ![Image de Réné Haby](https://upload.wikimedia.org/wikipedia/commons/3/35/The_Canadian_parliamentary_companion_%28microform%29_-_first_year_%28IA_cihm_32450%29.pdf)
 
 ###### Questions

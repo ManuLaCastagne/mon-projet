@@ -22,8 +22,9 @@ indice_6 :
   - Années 1940
 questions:
  - Dans quel film de 1946 Rita Hayworth interprète-t-elle un sensuel "Put the blame on Mame" dans une robe fourreau ?
+culture_g_score: 80
+culture_g_justification: "Classique du film noir lié à Rita Hayworth, à une scène culte, à la musique et à l’âge d’or hollywoodien."
 ---
-
 ![Image de Gilda](https://upload.wikimedia.org/wikipedia/commons/d/dd/Gilda_Lousek_by_Annemarie_Heinrich%2C_1963.jpg)
 
 ###### Questions

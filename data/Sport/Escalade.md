@@ -20,8 +20,9 @@ indice_6 :
   - Corde d'escalade
 questions:
  - Sport dont l'épreuve appelée combiné a été admise au programme olympique des Jeux de Tokyo en 2020, je suis apparu en France dans les années 70 et me suis démocratisé...
+culture_g_score: 80
+culture_g_justification: "Sport olympique désormais classique, l’escalade permet des questions sur les Jeux, les techniques, les sites naturels et la culture sportive."
 ---
-
 ![Image de Escalade](https://upload.wikimedia.org/wikipedia/commons/8/83/Cadillac_Escalade_2.jpg)
 
 ###### Questions

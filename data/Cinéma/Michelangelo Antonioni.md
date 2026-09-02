@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Je rencontre ma future épouse Enrica Fico sur le tournage  de "Identification d'une femme".  Réalisateur italien de "La Nuit" et de "Blow-Up" disparu en 2007.
  - Qui a tourné dans la Géographie/Vallée de la Mort|Vallée de la Mort au nord du désert Mohave, le drame "Zabriskie Point", sorti en 1970 ?
+culture_g_score: 68
+culture_g_justification: "Réalisateur central du cinéma moderne italien, ouvrant plusieurs angles sur Cannes, le cinéma d’auteur, ses films et ses collaborations musicales."
 ---
-
 ![Image de Michelangelo Antonioni](https://upload.wikimedia.org/wikipedia/commons/c/c0/Michelangelo_Antonioni_portrait_%28cropped%29.jpg)
 
 ###### Questions

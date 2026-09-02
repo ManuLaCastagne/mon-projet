@@ -20,8 +20,9 @@ indice_5:
   - Écrite principalement par [[Paul McCartney]]
 indice_6:
   - Ballade romantique des [[Beatles]]
+culture_g_score: 77
+culture_g_justification: "Chanson emblématique des Beatles, utile pour des questions sur le groupe, Paul McCartney, Rubber Soul et les récompenses musicales."
 ---
-
 ![Image de Michelle (Beatles)](https://upload.wikimedia.org/wikipedia/commons/2/20/The_Fabs.JPG)
 
 ###### Questions

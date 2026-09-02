@@ -15,8 +15,9 @@ indice_6 :
   - Fabrication de meubles et d'outils
 questions:
  - Dans le Midi, quel arbre de la même famille que les ormes, ne craignant pas la pollution, donne de petits fruits globuleux de couleur violet-noir?
+culture_g_score: 23
+culture_g_justification: "Arbre méditerranéen peu connu du grand public, susceptible d'apparaître seulement dans des questions botaniques spécialisées."
 ---
-
 ![Image de Micocoulier](https://upload.wikimedia.org/wikipedia/commons/c/c0/Celtis_timorensis.jpg)
 
 ###### Questions

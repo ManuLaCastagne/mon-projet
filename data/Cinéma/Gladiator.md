@@ -20,8 +20,9 @@ indice_5:
   - film de l'an 2000
 indice_6:
   - épique et combat
+culture_g_score: 93
+culture_g_justification: "Succès mondial et oscarisé, ce film fournit de nombreux repères sur le cinéma historique, Ridley Scott, Russell Crowe et la musique de film."
 ---
-
 ![Image de Gladiator](https://upload.wikimedia.org/wikipedia/commons/1/15/Gladiator_shin_guard_depicting_the_goddess_Athena_from_the_gladiator_barracks_in_Pompeii_1st_century_CE.jpg)
 
 ###### Questions

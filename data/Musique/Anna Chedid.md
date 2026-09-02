@@ -22,8 +22,9 @@ indice_6 :
   - Multinstrumentiste
 questions:
  - Quelle chanteuse, également connue sous le pseudonyme de Nach, est la plus jeune des 4 enfants de l'interprète de "Ainsi soit-il"?
+culture_g_score: 31
+culture_g_justification: "Anna Chedid, connue sous le nom de Nach, reste une artiste de la scène française contemporaine peu présente dans les quiz."
 ---
-
 ![Image de Anna Chedid](https://upload.wikimedia.org/wikipedia/commons/3/36/Ticket_Chedid_Nuits_de_Fourvi%C3%A8re_2015.jpg)
 
 ###### Questions

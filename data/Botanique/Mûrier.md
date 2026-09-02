@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé dans la production de soie et la fabrication de confitures
 questions:
  - Quel arbre est représenté par l'espèce dite blanc dont les feuilles nourrissent le ver à soie?
+culture_g_score: 72
+culture_g_justification: "Le mûrier relie botanique, alimentation et surtout histoire de la soie, ce qui en fait un sujet assez rentable malgré une fréquence modérée."
 ---
-
 ![Image de Mûrier](https://upload.wikimedia.org/wikipedia/commons/d/dd/Batteries_hautes_Murier_6960.JPG)
 
 ###### Questions

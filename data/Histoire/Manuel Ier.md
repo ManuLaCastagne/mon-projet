@@ -20,8 +20,9 @@ indice_6:
   - Renaissance Comnène
 questions:
   - Sur le nom de quel roi du Portugal du 16e siècle a-t-on formé celui d'un style architectural et décoratif...
+culture_g_score: 47
+culture_g_justification: "Empereur byzantin important, mais peu connu du grand public et rarement distingué des autres souverains de Byzance."
 ---
-
 ![Image de Manuel](https://upload.wikimedia.org/wikipedia/commons/1/1c/Manuel_Elkaslassy.jpg)
 
 ###### Questions

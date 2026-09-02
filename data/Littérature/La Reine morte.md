@@ -22,8 +22,9 @@ indice_6 :
   - Moyen Âge portugais
 questions:
  - En 1942, quel drame d'Henry de Montherlant évoque les amours d'Inès de Castro et de l'infant du Portugal ?
+culture_g_score: 60
+culture_g_justification: "Pièce reconnue de Montherlant sur Inês de Castro, mais qui reste une référence théâtrale secondaire dans les quiz généralistes."
 ---
-
 ![Image de La Reine morte](https://upload.wikimedia.org/wikipedia/commons/0/0d/Rue_Roger_Salengro_vers_Porte_de_la_Reine_%28Aigues-Mortes%29.jpg)
 
 ###### Questions

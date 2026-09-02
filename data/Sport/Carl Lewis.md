@@ -20,8 +20,9 @@ indice_6 :
   - Jesse Owens
 questions:
  - Quel athlète américain a remporté le 1er titre mondial sur 100 m lors des tout premiers mondiaux d'athlétisme organisés en 1983?
+culture_g_score: 97
+culture_g_justification: "Icône mondiale de l'athlétisme, Carl Lewis est omniprésent grâce à ses titres olympiques, ses records et ses exploits dans plusieurs épreuves."
 ---
-
 ![Image de Carl Lewis](https://upload.wikimedia.org/wikipedia/commons/8/81/Save_The_World_Awards_2009_show06_-_Carl_Lewis.jpg)
 
 ###### Questions

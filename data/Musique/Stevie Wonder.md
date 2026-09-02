@@ -22,9 +22,9 @@ indice_6 :
   - cherchez musicien America
 questions:
  - Quel chanteur américain, auteur des albums "Innervisions" et "Songs in the key of life", a reçu 25 Grammy Awards au cours de sa carrière ?
+culture_g_score: 100
+culture_g_justification: "Stevie Wonder est une légende mondiale de la soul et de la pop, abondamment interrogée pour ses chansons, Motown, ses récompenses et son handicap."
 ---
-
-
 ![Image de Stevie Wonder](https://upload.wikimedia.org/wikipedia/commons/8/8f/Stevie_Wonder_1994.jpg)
 
 ###### Questions

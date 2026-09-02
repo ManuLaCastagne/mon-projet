@@ -19,8 +19,9 @@ indice_5:
   - mode extravagante
 indice_6:
   - muscadins
+culture_g_score: 40
+culture_g_justification: "Groupe social caractéristique du Directoire, utile pour une question de vocabulaire historique mais offrant peu de réutilisations."
 ---
-
 ![Image de Incroyables](https://upload.wikimedia.org/wikipedia/commons/c/c9/Incroyable_et_Merveilleuse_2A.jpg)
 
 ###### Questions

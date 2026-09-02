@@ -20,8 +20,9 @@ indice_6 :
   - vizir
 questions:
  - En créant la pyramide à degrés de Djoser, à Saqqarah, quel architecte et ministre égyptien de l'Antiquité a inauguré l'architecture en pierre?
+culture_g_score: 80
+culture_g_justification: "Figure majeure de l’Égypte antique, associée à Djéser, à l’architecture, à la médecine et à la divinisation des savants."
 ---
-
 ![Image de Imhotep](https://upload.wikimedia.org/wikipedia/commons/6/6a/Imhotep_Family.png)
 
 ###### Questions

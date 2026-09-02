@@ -24,8 +24,9 @@ indice_6 :
   - quartier latin
 questions:
  - Mode de vie dont le nom figure dans le titre d'une nouvelle de Balzac parue fin 1844, je me suis épanoui dans le Paris des années 1830-1840. Associé à un certain romantisme, je me caractérise par le manque d'argent, des relations amoureuses irrégulières...
+culture_g_score: 68
+culture_g_justification: "Région historique majeure d’Europe centrale, la Bohême relie histoire tchèque, Saint-Empire, géographie et origine du terme bohémien."
 ---
-
 ![Image de Bohême](https://upload.wikimedia.org/wikipedia/commons/3/34/BOH%26MOR-1-Protectorate_of_Bohemia_and_Moravia-1_Koruna-%281939%29ND.jpg)
 
 ![[Carte_Bohême.png]]

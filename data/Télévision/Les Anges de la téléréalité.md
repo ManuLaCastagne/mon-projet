@@ -18,8 +18,9 @@ indice_5 :
   - Los Angeles
 indice_6 : 
   - musique
+culture_g_score: 40
+culture_g_justification: "Programme de téléréalité connu dans la culture populaire récente, mais peu rentable pour une culture générale large."
 ---
-
 ![Image de Les Anges de la téléréalité](https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_%C2%AB_Les_Anges_de_la_Telerealit%C3%A9_Kids_%C2%BB.jpg)
 
 ###### Questions

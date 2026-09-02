@@ -18,8 +18,9 @@ indice_5 :
   - Florentino Pérez
 indice_6 : 
   - El Clásico
+culture_g_score: 100
+culture_g_justification: "Club mondialement incontournable, ouvrant de nombreux angles sur le football, l’histoire européenne, ses joueurs et ses records."
 ---
-
 ![Image de Real Madrid](https://upload.wikimedia.org/wikipedia/commons/0/0e/Teatro_Real_de_Madrid_-_02.jpg)
 
 ###### Questions

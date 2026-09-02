@@ -20,8 +20,9 @@ indice_6 :
   - TF1
 questions:
  - Défenseur, vainqueur de la Ligue des champions. Gaucher d'origine basque, devenu consultant pour la télévision et animateur radio.
+culture_g_score: 64
+culture_g_justification: "Champion du monde 1998 et ancien joueur du Bayern, connu aussi comme consultant, mais moins central que les très grandes vedettes du football."
 ---
-
 ![Image de Bixente Lizarazu](https://upload.wikimedia.org/wikipedia/commons/9/98/Bixente_Lizarazu_%28cropped%29.jpg)
 
 ###### Questions

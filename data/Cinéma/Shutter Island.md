@@ -22,9 +22,9 @@ indice_6 :
   - île mystérieuse
 questions:
  - Dans quel film de Scorsese Di Caprio enquête dans un hôpital psychiatrique installé sur une île ?
+culture_g_score: 64
+culture_g_justification: "Film populaire de Scorsese avec DiCaprio, souvent reconnaissable grâce à son intrigue et son dénouement, mais pas un classique fondateur."
 ---
-
-
 ![Image de Shutter Island](https://upload.wikimedia.org/wikipedia/commons/a/aa/Shutter_Island.png)
 
 ###### Questions

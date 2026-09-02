@@ -20,8 +20,9 @@ indice_5:
   - Auteur du XXe siècle
 indice_6:
   - L'alouette pièce sur Jeanne d'Arc
+culture_g_score: 80
+culture_g_justification: "Dramaturge français classique des quiz, Anouilh est associé à Antigone, au théâtre du XXe siècle et à plusieurs pièces célèbres."
 ---
-
 ![Image de Jean Anouilh](https://upload.wikimedia.org/wikipedia/commons/0/07/GraveCatherineAndJeanAnouilhAndUrsulaWetzel-CimetiereDePully_RomanDeckert15012023.jpg)
 
 ###### Questions

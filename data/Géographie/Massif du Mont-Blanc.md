@@ -24,8 +24,9 @@ indice_6 :
   - Alpes françaises
 questions:
  - Traversé par un tunnel routier long de 11,6 km entre Chamonix et la ville italienne de Courmayeur, j'abrite notamment l'aiguille du Midi, les Grandes Jorasses et la Mer de Glace.
+culture_g_score: 88
+culture_g_justification: "Le massif du Mont-Blanc renvoie à un sommet emblématique, à l'alpinisme, aux frontières et à de nombreux repères géographiques."
 ---
-
 ![Image de Massif du Mont-Blanc](https://upload.wikimedia.org/wikipedia/commons/c/c5/Massif_du_Mont-Blanc_from_Lac_de_Joux_Plane_03.jpg)
 
 ![[Carte_Massif du Mont-Blanc.png]]

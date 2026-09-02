@@ -22,9 +22,9 @@ indice_6 :
   - Chapitres publiés dans la presse
 questions:
  - Quel genre de roman, très en vogue au Culture_G/XIXe siècle, est publié dans la presse par épisodes pour maintenir l'attention du lecteur?
+culture_g_score: 72
+culture_g_justification: "Genre littéraire classique souvent associé à Dumas, Sue et à l’essor de la presse au XIXe siècle."
 ---
-
-
 ![Image de Roman-feuilleton](https://upload.wikimedia.org/wikipedia/commons/1/1c/%27Black_Lives%27_Nov_1928%2C_%27The_Hollow_Temple%27_Dec_1928.pdf)
 
 ###### Questions

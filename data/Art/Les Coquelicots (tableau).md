@@ -23,8 +23,9 @@ indice_6 :
   - musée d'Orsay
 questions:
  - Figurant un paysage lumineux  d'une journée d'été, je représente des champs fleuris avec une butte parsemée de taches rouges.
+culture_g_score: 68
+culture_g_justification: "Tableau impressionniste populaire de Monet, mais généralement moins central dans les quiz que ses Nymphéas ou Impression, soleil levant."
 ---
-
 ![Image de Les Coquelicots (tableau)](https://upload.wikimedia.org/wikipedia/commons/e/e3/Poppy_Fields_near_Argenteuil_MET_DT1034.jpg)
 
 ###### Questions

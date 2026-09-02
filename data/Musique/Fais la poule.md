@@ -22,8 +22,9 @@ indice_6 :
   - cocorico
 questions:
  - En 2006, avec quelle chanson fantaisiste le chanteur Sébasto est-il révélé par l'émission "Incroyable talent"?
+culture_g_score: 24
+culture_g_justification: "Chanson humoristique surtout liée à un contexte télévisuel français précis, avec très peu de réutilisations en culture générale."
 ---
-
 ![Image de Fais la poule](https://upload.wikimedia.org/wikipedia/commons/4/4f/La_poule_et_ses_poussins%2C_com%C3%A9die_en_deux_actes_en_prose_%28IA_lapouleetsespous00naja%29.pdf)
 
 ###### Questions

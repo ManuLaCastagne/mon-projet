@@ -20,8 +20,9 @@ indice_6 :
   - Prince de Bénévent
 questions:
  - De 1808 à 1813, dans quel château du Berry, propriété de Talleyrand, Ferdinand VII d'Espagne a-t-il été assigné à résidence?
+culture_g_score: 40
+culture_g_justification: "Commune et château surtout associés à Talleyrand et Ferdinand VII, avec une présence limitée dans les quiz généralistes."
 ---
-
 ![Image de Valençay](https://upload.wikimedia.org/wikipedia/commons/6/61/Valen%C3%A7ay_19_09_2022_1493.jpg)
 
 ###### Questions

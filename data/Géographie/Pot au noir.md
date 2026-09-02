@@ -24,9 +24,9 @@ indice_6 :
   - marins historiques
 questions:
  - Des masses d'air chaudes et humides portées par les alizés des tropiques, je suis parsemée de foyers orageux et abordée avec...
+culture_g_score: 56
+culture_g_justification: "Terme géographique et maritime assez classique, permettant quelques questions sur les vents, la navigation et la météorologie tropicale."
 ---
-
-
 ![Image de Pot au noir](https://upload.wikimedia.org/wikipedia/commons/1/12/IntertropicalConvergenceZone-EO.jpg)
 
 ![[Carte_Pot au noir.png]]

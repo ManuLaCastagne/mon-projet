@@ -21,10 +21,9 @@ indice_5 :
   - Canal de Caronte
 indice_6 : 
   - La Venise Provençale
+culture_g_score: 44
+culture_g_justification: "Ville provençale connue pour ses canaux et quelques références cinématographiques, mais d'importance générale limitée."
 ---
-
-
-
 ![[Carte_Martigues.png]]
 
 ###### Questions

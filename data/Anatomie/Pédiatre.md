@@ -5,6 +5,8 @@ tags:
   - Années_1940
   - France
 date: 1947
+culture_g_score: 64
+culture_g_justification: "Spécialité médicale très connue, mais offrant moins d'angles de quiz qu'une notion médicale générale."
 ---
 ###### Questions 
 

@@ -15,8 +15,9 @@ indice_6:
   - Utilisé pour stabiliser les sols et comme plante ornementale
 questions:
   - Quel arbuste ornemental apprécié des papillons, également appelé séné d'Europe, avec des feuilles en forme de vessie, produit un fruit qui claque quand on le presse?
+culture_g_score: 20
+culture_g_justification: "Arbuste à gousses originales mais très peu connu, essentiellement réservé aux questions botaniques anecdotiques."
 ---
-
 ![Image de Baguenaudier](https://upload.wikimedia.org/wikipedia/commons/9/9a/Colutea_arborescens01.jpg)
 
 ###### Questions

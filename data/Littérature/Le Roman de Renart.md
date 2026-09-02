@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Dans quel ouvrage le loup bête et cruel Ysengrin s'oppose-t-il au goupil ?
  - Quelle parodie de chanson de geste écrite entre 1170 et 1250 conte les aventures de l'ours Brun ?
+culture_g_score: 80
+culture_g_justification: "Texte fondateur de la littérature médiévale française, exploitable par ses personnages, son genre, sa langue et son influence culturelle."
 ---
-
 ![Image de Le Roman de Renart](https://upload.wikimedia.org/wikipedia/commons/d/dc/Roman.de.renart.2.jpg)
 
 ###### Questions

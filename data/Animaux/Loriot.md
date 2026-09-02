@@ -15,8 +15,9 @@ indice_6 :
   - Messager du printemps
 questions:
  - Quel passereau jaune et noir, dit d'Europe, devant son nom au latin "aureolus", un passereau jaune et noir ?
+culture_g_score: 47
+culture_g_justification: "Oiseau européen reconnaissable par son plumage et son chant, avec quelques liens migratoires et littéraires."
 ---
-
 ![Image de Loriot](https://upload.wikimedia.org/wikipedia/commons/8/8d/Loriot_by_Philipp_von_Ostau.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - film
 questions:
  - Cinéma. En 1985, quelle lettre de l'alphabet est associée à un escalier dans le titre d'un film de Jean-Charles Tacchella, avec Robin Renucci, Claude Rich et Jacques Weber ?
+culture_g_score: 40
+culture_g_justification: "Film français identifiable dans l’histoire du cinéma national, mais relativement obscur et peu rentable hors de quelques références précises."
 ---
-
 ![Image de Escalier C](https://upload.wikimedia.org/wikipedia/commons/4/49/Chambord_Escalier_RdC.JPG)
 
 ###### Questions

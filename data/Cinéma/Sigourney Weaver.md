@@ -22,8 +22,9 @@ indice_6 :
   - Ghostbusters
 questions:
  - Entre 1979 et 1997, quelle actrice a incarné Helen Ripley dans "Alien" à quatre reprises ?
+culture_g_score: 76
+culture_g_justification: "L’interprétation de Ripley dans Alien et ses rôles dans Avatar ou Gorilles dans la brume rendent cette actrice très rentable en quiz."
 ---
-
 ![Image de Sigourney Weaver](https://upload.wikimedia.org/wikipedia/commons/c/cf/Sigourney_Weaver-1765.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - première civilisation
 questions:
  - Vers -3000, à quelle civilisation de la basse Mésopotamie associe-t-on les villes d'Our, Lagash, Mari ?
+culture_g_score: 84
+culture_g_justification: "Civilisation fondatrice de la Mésopotamie, régulièrement interrogée pour l’écriture, les cités, les mathématiques et les débuts de l’histoire."
 ---
-
 ![Image de Sumériens](https://upload.wikimedia.org/wikipedia/commons/9/93/Sumerian_Queen_Kubaba.jpg)
 
 ###### Questions

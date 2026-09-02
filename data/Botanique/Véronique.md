@@ -13,8 +13,9 @@ indice_5:
   - Pied de chat
 indice_6:
   - Utilisée en phytothérapie pour ses propriétés anti-inflammatoires et diurétiques
+culture_g_score: 47
+culture_g_justification: "La véronique offre un lien original entre botanique, prénom et tradition chrétienne, mais reste une plante secondaire."
 ---
-
 ![Image de Véronique](https://upload.wikimedia.org/wikipedia/commons/0/04/Veroniqueperse.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - commune française
 questions:
  - Quel nom, attribué à la ville abritant l'aéroport de Bordeaux, est également...
+culture_g_score: 44
+culture_g_justification: "Commune de la métropole bordelaise surtout connue pour son aéroport, avec peu d’angles de culture générale."
 ---
-
-
 ![Image de Mérignac](https://upload.wikimedia.org/wikipedia/commons/7/75/H%C3%B4tel_de_ville_de_M%C3%A9rignac_%28Gironde%29.JPG)
 
 ![[Carte_Mérignac.png]]

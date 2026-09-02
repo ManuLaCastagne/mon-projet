@@ -19,8 +19,9 @@ indice_5 :
   - Instagram
 indice_6 : 
   - Enfants
+culture_g_score: 24
+culture_g_justification: "Programme de téléréalité récent et très spécialisé, susceptible d'apparaître seulement dans des questions de télévision contemporaine."
 ---
-
 ![Image de JLC Family](https://upload.wikimedia.org/wikipedia/commons/e/e7/Public_notice-_Permit_application_no._SAJ-2018-01652%28SP-JLC%29_-_USACE-p16021coll7-14161.pdf)
 
 ###### Questions

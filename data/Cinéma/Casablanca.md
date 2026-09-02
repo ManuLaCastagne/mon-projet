@@ -22,8 +22,9 @@ indice_6 :
   - Here's looking at you
 questions:
  - Comprenant la scène où le pianiste Sam chante "As time goes by", je me déroule au Maroc, magnifique film, durant la 2de Guerre mondiale, je suis...
+culture_g_score: 100
+culture_g_justification: "Chef-d’œuvre universel du cinéma, extrêmement fréquent dans les quiz grâce à Bogart, la Seconde Guerre mondiale, ses répliques, ses Oscars et son histoire."
 ---
-
 ![Image de Casablanca](https://upload.wikimedia.org/wikipedia/commons/6/65/Dar_El-Beida%2C_Fez%2C_Marocco_%28%D8%A7%D9%84%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1%2C_%D9%81%D8%A7%D8%B3%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - Comédie-Française
 indice_6:
   - 1664
+culture_g_score: 100
+culture_g_justification: "Dramaturge français incontournable, dont les pièces, personnages, citations et liens avec le règne de Louis XIV alimentent de nombreux quiz."
 ---
-
 ![Image de Molière](https://upload.wikimedia.org/wikipedia/commons/2/28/Moli%C3%A8re_Mignard_Chantilly.jpg)
 
 ###### Questions

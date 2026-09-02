@@ -23,8 +23,9 @@ indice_6 :
   - Michel Colucci
 questions:
  - En 1969, dans quel café-théâtre, situé sous une ancienne fabrique de ventilateurs, dans le quartier Montparnasse, Coluche a-t-il fait ses débuts?
+culture_g_score: 60
+culture_g_justification: "Lieu fondateur du théâtre et de l’humour français, fréquemment relié à Coluche, Dewaere et plusieurs comédiens célèbres."
 ---
-
 ![Image de Café de la Gare](https://upload.wikimedia.org/wikipedia/commons/a/a9/Caf%C3%A9_de_la_Gare_Paris.jpg)
 
 ###### Questions

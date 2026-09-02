@@ -18,8 +18,9 @@ indice_5 :
   - assassinat aux ides de mars
 indice_6 : 
   - dictateur perpétuel
+culture_g_score: 100
+culture_g_justification: "Jules César est un pilier absolu des quiz, couvrant Rome, la République, la Gaule, le calendrier, la littérature, la guerre et l’assassinat politique."
 ---
-
 ![Image de Jules César](https://upload.wikimedia.org/wikipedia/commons/e/e8/C%C3%A9lestin_Nanteuil_-_Jules_Massenet_-_Don_C%C3%A9sar_de_Bazan.jpg)
 
 ###### Questions

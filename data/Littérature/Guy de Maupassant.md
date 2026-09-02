@@ -23,9 +23,9 @@ indice_6 :
   - XIXe siècle
 questions:
  - Quel auteur raconte l'ascension exceptionnelle du personnage de Georges Duroy dans le monde du journalisme?
+culture_g_score: 92
+culture_g_justification: "Auteur très fréquent des quiz grâce à Bel-Ami, aux nouvelles, au naturalisme, à Flaubert et à sa biographie marquée par la maladie."
 ---
-
-
 ![Image de Guy de Maupassant](https://upload.wikimedia.org/wikipedia/commons/9/9d/Paris_8e_-_Parc_Monceau_-_Monument_%C3%A0_Guy_de_Maupassant_%28Raoul_Verlet%29.jpg)
 
 ###### Questions

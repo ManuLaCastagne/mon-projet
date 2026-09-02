@@ -24,8 +24,9 @@ indice_6 :
   - Four Corners Monument
 questions:
  - La main repasse. Traversé du nord au sud par le Rio Grande, les Amérindiens tels les Pueblos...
+culture_g_score: 64
+culture_g_justification: "État américain rentable grâce à Trinity, Roswell, Santa Fe, aux paysages désertiques et aux cultures amérindiennes, malgré une fréquence moyenne."
 ---
-
 ![Image de Nouveau-Mexique](https://upload.wikimedia.org/wikipedia/commons/0/02/Phot._du_Nouveau-Mexique_et_de_l%27Arizona_-_btv1b53067264h_%2820_of_70%29.jpg)
 
 ![[Carte_Nouveau-Mexique.png]]

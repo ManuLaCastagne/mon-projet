@@ -22,8 +22,9 @@ indice_6 :
   - retranchement
 questions:
  - Tirée du poème "L'Isolement (poème)", dans lequel je suis précédée par le vers  "Fleuves, rochers, forêts, solitudes si chères", je fais allusion au désespoir provoqué chez mon auteur par la disparition de celle qu'il aime   "Un seul être vous manque, et tout est dépeuplé"
+culture_g_score: 57
+culture_g_justification: "Poème classique de Lamartine utile pour le romantisme et les Méditations poétiques, mais limité à quelques repères littéraires."
 ---
-
 ![Image de L'Isolement (poème)](https://upload.wikimedia.org/wikipedia/commons/d/d5/La_mort_de_Garin_le_Loherain%3B_po%C3%A8me_du_XIIe_si%C3%A8cle_%28IA_lamortdegarinlel00jean%29.pdf)
 
 ###### Questions

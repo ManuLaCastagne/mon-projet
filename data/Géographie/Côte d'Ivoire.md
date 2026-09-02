@@ -24,8 +24,9 @@ indice_6 :
   - montagnes du Tonkpi
 questions:
  - Comptant parmi les plus grands pays côtiers d'Afrique de l'Ouest, bordé au sud par le golfe de Guinée et au nord par le Mali et le Burkina Faso, mon économie est en grande partie basée sur les exportations de cacao. Dirigé de 1960 à 93 par Félix Houphouët-Boigny...
+culture_g_score: 80
+culture_g_justification: "Pays ouest-africain rentable grâce au cacao, à Yamoussoukro, à la biodiversité, à la colonisation et aux crises politiques."
 ---
-
 ![Image de Côte d'Ivoire](https://upload.wikimedia.org/wikipedia/commons/4/45/Ivory_Coast_-_Location_Map_%282013%29_-_CIV_-_UNOCHA.svg)
 
 ![[Carte_Côte d'Ivoire.png]]

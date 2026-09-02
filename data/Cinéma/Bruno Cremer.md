@@ -22,8 +22,9 @@ indice_6 :
   - Les Frères Gravet
 questions:
  - yant incarné le commissaire Maigret pour la télévision. Disparu en 2010.  Et il avait joué un professeur de philosophie dans "Noce blanche".
+culture_g_score: 67
+culture_g_justification: "Acteur français durablement identifié à Maigret et à plusieurs classiques, mais ses questions restent souvent liées à une filmographie spécialisée."
 ---
-
 ![Image de Bruno Cremer](https://upload.wikimedia.org/wikipedia/commons/8/83/Bruno_Cremer_tombe.jpg)
 
 ###### Questions

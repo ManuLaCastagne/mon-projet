@@ -23,8 +23,9 @@ indice_6:
   - membre de la Royal Academy
 questions:
   - En 1835, quel peintre britannique représente un ciel s'embrasant, dans le tableau "L'incendie du Parlement, 16 octobre 1834"?
+culture_g_score: 80
+culture_g_justification: "Turner est un peintre britannique majeur, fréquent dans les questions sur la lumière, le paysage, la Royal Academy et les précurseurs de l’impressionnisme."
 ---
-
 ![Image de Joseph Mallord William Turner](https://upload.wikimedia.org/wikipedia/commons/e/e5/Joseph_Mallord_William_Turner_-_The_Burning_of_the_Houses_of_Lords_and_Commons%2C_16_October_1834_-_1942.647_-_Cleveland_Museum_of_Art.jpg)
 
 ###### Questions

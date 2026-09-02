@@ -24,11 +24,9 @@ indice_6 :
   - Cocody
 questions:
  - Quelle ville et ancienne capitale de Côte d'Ivoire doit son nom à la tribu qui y vivait à l'origine ?
+culture_g_score: 64
+culture_g_justification: "Grande métropole et capitale économique ivoirienne, mobilisable en géographie, histoire coloniale et actualité africaine."
 ---
-
-
-
-
 ![Image de Abidjan](https://upload.wikimedia.org/wikipedia/commons/1/14/Abidjan_Collage.jpg)
 
 ![[Carte_Abidjan.png]]

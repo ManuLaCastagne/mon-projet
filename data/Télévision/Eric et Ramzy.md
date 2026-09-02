@@ -20,8 +20,9 @@ indice_6 :
   - Jamel Debbouze
 questions:
  - A quel duo comique associe-t-on les personnages d'Aimé et de Sabri dans la série télévisée "H"?
+culture_g_score: 76
+culture_g_justification: "Duo comique populaire associé à Canal+, H et plusieurs films, offrant de nombreux repères de culture audiovisuelle française."
 ---
-
 ![Image de Eric et Ramzy](https://upload.wikimedia.org/wikipedia/commons/a/ab/Eric_et_Ramzy.jpg)
 
 ###### Questions

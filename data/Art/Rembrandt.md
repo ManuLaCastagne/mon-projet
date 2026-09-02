@@ -21,10 +21,9 @@ indice_5:
   - Autoportraits célèbres
 indice_6:
   - Leçons d'anatomie
+culture_g_score: 100
+culture_g_justification: "Rembrandt est un maître universel de la peinture, abondamment interrogé à travers ses portraits, gravures, œuvres bibliques et son époque."
 ---
-
-
-
 ![Image de Rembrandt](https://upload.wikimedia.org/wikipedia/commons/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg)
 
 ###### Questions

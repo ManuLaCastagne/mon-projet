@@ -13,8 +13,9 @@ indice_5:
   - Gratte-cul
 indice_6:
   - Préparation de confitures et tisanes
+culture_g_score: 40
+culture_g_justification: "Fruit de l’églantier connu par ses surnoms amusants et ses usages alimentaires, surtout dans des questions lexicales."
 ---
-
 ![Image de Cynorodon](https://upload.wikimedia.org/wikipedia/commons/f/fd/Faux-fruits_du_rosier.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - The Lonely Shepherd
 questions:
  - En 2003, pour quel film avec Uma Thurman Quentin Tarantino a-t-il emprunté à Bernard Hermann...
+culture_g_score: 84
+culture_g_justification: "Film très célèbre de Tarantino, exploitable à travers le cinéma, sa bande originale, ses personnages, ses références et sa réalisation."
 ---
-
 ![Image de Kill Bill](https://upload.wikimedia.org/wikipedia/commons/5/5b/Killbill-vol1-logo.svg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6:
   - Symbole de royauté en Égypte
 questions:
   - Quel serpent venimeux, représenté par l'espèce communément appelée serpent à lunettes...
+culture_g_score: 76
+culture_g_justification: "Serpent emblématique associé au venin, à l’Inde, aux spectacles et aux symboles royaux, régulièrement exploité dans les quiz."
 ---
-
 ![Image de Cobra](https://upload.wikimedia.org/wikipedia/commons/d/d4/Naja_naja_cobra_a_lunettes_69.JPG)
 
 ###### Questions

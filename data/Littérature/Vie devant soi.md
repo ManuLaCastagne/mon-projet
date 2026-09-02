@@ -22,8 +22,9 @@ indice_6 :
   - Belleville
 questions:
  - Ayant fait l'objet de 2 adaptations cinématographiques, avec Simone Signoret  puis avec Sophia Lauren, je suis…
+culture_g_score: 77
+culture_g_justification: "Roman couronné par le Goncourt et associé à un pseudonyme célèbre, très rentable pour les questions de littérature française."
 ---
-
 ![Image de Vie devant soi](https://upload.wikimedia.org/wikipedia/commons/0/06/La_vie_hors_de_chez_soi_%28com%C3%A9die_de_notre_temps%29_-_l%27hiver%2C_le_printemps%2C_l%27%C3%A9t%C3%A9%2C_l%27automme_-_%C3%A9tudes_au_crayon_et_%C3%A0_la_plume_%28IA_laviehorsdechezs00bert%29.pdf)
 
 ###### Questions

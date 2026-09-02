@@ -24,9 +24,9 @@ indice_6 :
   - Région Auvergne-Rhône-Alpes
 questions:
  - Ville dans laquelle sont nés le cuisinier Georges Blanc et l'humoriste Laurent Gerra, je suis évoqué par Paul Nizan, qui y enseigna la philosophie, dans l'ouvrage "Présentation d'une ville".  Centre d'une région agricole située au nord-est de Lyon...
+culture_g_score: 44
+culture_g_justification: "Bourg-en-Bresse peut être retenue pour le monastère royal de Brou et la gastronomie de l’Ain, mais demeure une ville peu centrale."
 ---
-
-
 ![Image de Bourg-en-Bresse](https://upload.wikimedia.org/wikipedia/commons/b/b1/Plaque_M%C3%A9moire_Agents_SNCF_Tu%C3%A9s_WWII_Gare_Bourg_Bresse_-_Bourg-en-Bresse_%28FR01%29_-_2024-03-21_-_1.jpg)
 
 ![[Carte_Bourg-en-Bresse.png]]

@@ -21,9 +21,9 @@ indice_5:
   - Charles Gounod
 indice_6:
   - Nu couché
+culture_g_score: 100
+culture_g_justification: "Figure incontournable de l’impressionnisme, associée à de nombreuses œuvres, artistes, courants, techniques et repères historiques."
 ---
-
-
 ![Image de Auguste Renoir](https://upload.wikimedia.org/wikipedia/commons/b/b5/Renoir%2C_Pierre-Auguste%2C_by_Dornac%2C_BNF_Gallica.jpg)
 
 ###### Questions

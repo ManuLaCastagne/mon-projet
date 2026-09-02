@@ -20,8 +20,9 @@ indice_5:
   - Plage du Rouet
 indice_6:
   - Charles Trenet
+culture_g_score: 20
+culture_g_justification: "Station balnéaire locale surtout connue pour ses oursins et Fernandel, avec une très faible fréquence nationale."
 ---
-
 ![[Carte_Carry-le-Rouet.png]]
 
 ###### Questions

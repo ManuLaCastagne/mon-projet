@@ -22,8 +22,9 @@ indice_6 :
   - Oscar de la meilleure actrice 1965
 questions:
  - Actrice ayant notamment prêté ma voix de soprano à la comédie musicale "La Mélodie du bonheur".
+culture_g_score: 100
+culture_g_justification: "Mary Poppins, La Mélodie du bonheur, les Oscars et sa carrière musicale font de Julie Andrews une référence exceptionnellement transversale."
 ---
-
 ![Image de Julie Andrews](https://upload.wikimedia.org/wikipedia/commons/8/89/Julie_Andrews_Park_Hyatt%2C_Sydney%2C_Australia_2013.jpg)
 
 ###### Questions

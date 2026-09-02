@@ -22,8 +22,9 @@ indice_6 :
   - trois vœux
 questions:
  - Dans quelle fable de la Fontaine une carpe dit-elle "Un tiens vaut mieux se dit-on que deux tu l'auras" ?
+culture_g_score: 40
+culture_g_justification: "Conte de Pouchkine identifiable par sa morale sur l’avidité, mais peu connu et peu réutilisable hors de la littérature russe."
 ---
-
 ![Image de Petit Poisson et le Pêcheur](https://upload.wikimedia.org/wikipedia/commons/d/da/Rabier_-_Fables_de_La_Fontaine_-_Le_Petit_Poisson_et_le_P%C3%AAcheur.jpg)
 
 ###### Questions

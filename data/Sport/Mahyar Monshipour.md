@@ -20,8 +20,9 @@ indice_6 :
   - Champion de l'UNESCO
 questions:
  - De 2003 à 2006, quel boxeur français d'origine iranienne a été champion du monde WBA dans la catégorie super-coq ?
+culture_g_score: 40
+culture_g_justification: "Boxeur français titré et connu des amateurs de boxe, mais assez peu rentable pour une culture générale généraliste."
 ---
-
 ![Image de Mahyar Monshipour]()
 
 ###### Questions

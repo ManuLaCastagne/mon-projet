@@ -18,8 +18,9 @@ indice_5:
   - Allemagne
 indice_6:
   - Noir et blanc
+culture_g_score: 52
+culture_g_justification: "Film notable de François Ozon sur la mémoire de la Première Guerre mondiale, mais encore peu installé dans les marronniers de quiz."
 ---
-
 ![Image de Frantz](https://upload.wikimedia.org/wikipedia/commons/1/11/Frantz_avp_2016_2.jpg)
 
 ###### Questions

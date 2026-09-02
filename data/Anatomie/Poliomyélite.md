@@ -5,6 +5,8 @@ tags:
   - Années_1950
   - France
 date: 1957
+culture_g_score: 84
+culture_g_justification: "Maladie historique majeure liée à la vaccination, aux épidémies, à la médecine et à l'éradication des maladies."
 ---
 ###### Questions 
 

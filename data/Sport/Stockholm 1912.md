@@ -20,8 +20,9 @@ indice_5 :
   - pentathlon moderne
 indice_6 : 
   - athlétisme féminin non inclus
+culture_g_score: 63
+culture_g_justification: "Édition olympique classique, exploitable par plusieurs repères historiques et sportifs, mais moins incontournable que les éditions les plus célèbres."
 ---
-
 ![Image de Stockholm 1912](https://upload.wikimedia.org/wikipedia/commons/f/f7/Torsten_Schonberg%2C_illustrant_l%27affiche_des_comp%C3%A9titions_athl%C3%A9tiques_des_JO_de_1912.jpg)
 
 ###### Questions

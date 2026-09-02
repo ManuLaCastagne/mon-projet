@@ -22,8 +22,9 @@ indice_6 :
   - années 2000
 questions:
  - En 2001, dans quelle comédie romantique tirée d'un roman d'Helen Fielding Renée Zellweger incarne-t-elle une célibataire qui tombe amoureuse?
+culture_g_score: 76
+culture_g_justification: "Comédie romantique emblématique reliant littérature, cinéma britannique, culture populaire et plusieurs acteurs très connus."
 ---
-
 ![Image de Le Journal de Bridget Jones](https://upload.wikimedia.org/wikipedia/commons/5/5c/The_Art_journal_%28IA_artjournal6719unse%29.pdf)
 
 ###### Questions

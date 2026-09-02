@@ -22,8 +22,9 @@ indice_6 :
   - film Il y a longtemps que je t'aime
 questions:
  - En 2003, quel écrivain également réalisateur a réalisé les films "Tous les soleils" et "Il y a longtemps qu'je t'aime" et écrit "Les Ames grises" ?
+culture_g_score: 60
+culture_g_justification: "Auteur et réalisateur français associé aux Âmes grises, au Goncourt des lycéens et au cinéma, avec une portée généraliste moyenne."
 ---
-
 ![Image de Philippe Claudel](https://upload.wikimedia.org/wikipedia/commons/c/c9/Philippe-Claudel-Il-y-a-longtemps.JPG)
 
 ###### Questions

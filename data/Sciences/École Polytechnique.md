@@ -18,10 +18,9 @@ indice_5 :
   - Palaiseau
 indice_6 : 
   - Corps des Mines
+culture_g_score: 68
+culture_g_justification: "Grande institution française liée aux sciences, aux élites administratives et à la Révolution, mais moins universelle que les établissements les plus célèbres."
 ---
-
-
-
 ![Image de École Polytechnique](https://upload.wikimedia.org/wikipedia/commons/4/48/Ecole_Polytechnique_France_seen_from_lake_DSC03389.JPG)
 
 ###### Questions

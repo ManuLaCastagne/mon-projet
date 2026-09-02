@@ -22,8 +22,9 @@ indice_6 :
   - westerns et films de guerre
 questions:
  - Qui a réalisé en 1960 le western "Les Sept Mercenaires" avec Yul Brynner, Eli Wallach et Steve McQueen ?
+culture_g_score: 60
+culture_g_justification: "Les Sept Mercenaires et La Grande Évasion assurent à John Sturges une place identifiable, mais son œuvre demeure relativement ciblée."
 ---
-
 ![Image de John Sturges](https://upload.wikimedia.org/wikipedia/commons/1/1e/John_Sturge_1840.jpg)
 
 ###### Questions

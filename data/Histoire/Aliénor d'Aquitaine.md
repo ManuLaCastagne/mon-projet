@@ -18,8 +18,9 @@ indice_5:
   - mariage avec Henri II d'Angleterre
 indice_6:
   - influence médiévale
+culture_g_score: 80
+culture_g_justification: "Double reine de France et d’Angleterre, liée aux Plantagenêts, aux croisades et à la culture courtoise, Aliénor est une référence médiévale très rentable."
 ---
-
 ![Image de Aliénor d'Aquitaine](https://upload.wikimedia.org/wikipedia/commons/5/5a/Replica_effigy_of_Eleanor_of_Aquitaine%2C_V%26A_London_02.jpg)
 
 ###### Questions

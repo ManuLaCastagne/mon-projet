@@ -18,8 +18,9 @@ indice_5 :
   - Spectacle 100% Debbouze
 indice_6 : 
   - Humoriste français
+culture_g_score: 76
+culture_g_justification: "Humoriste et acteur très connu, relié à Canal+, à la série H, au cinéma et à la culture populaire française."
 ---
-
 ![Image de Jamel Debouzze]()
 
 ###### Questions

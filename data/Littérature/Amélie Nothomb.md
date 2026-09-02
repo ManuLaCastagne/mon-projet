@@ -22,8 +22,9 @@ indice_6 :
   - Personnage excentrique
 questions:
  - Quelle romancière belge ait sorti un roman par an depuis "Hygiène de l'assassin" paru en 1992 ?
+culture_g_score: 76
+culture_g_justification: "Nothomb est une autrice francophone très identifiable par ses romans, ses prix et son expérience japonaise, avec une portée surtout contemporaine."
 ---
-
 ![Image de Amélie Nothomb](https://upload.wikimedia.org/wikipedia/commons/9/91/Am%C3%A9lie_Nothomb_02828_G.Garitan.jpg)
 
 ###### Questions

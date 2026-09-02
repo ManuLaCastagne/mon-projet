@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la prudence
 questions:
  - Mammifère que le poète Maurice Carême compare "à un buisson qui marcherait sur des chaussons", je suis notamment caractérisé par un puissant muscle caudo-dorsal. Animal insectivore, solitaire et crépusculaire…
+culture_g_score: 64
+culture_g_justification: "Petit mammifère familier et sympathique, utile pour des questions de zoologie, d'écologie et de culture populaire."
 ---
-
 ![Image de Hérisson](https://upload.wikimedia.org/wikipedia/commons/8/83/H%C3%A9risson_-_Allier_021.JPG)
 
 ###### Questions

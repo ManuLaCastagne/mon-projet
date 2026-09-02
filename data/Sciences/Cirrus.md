@@ -20,8 +20,9 @@ indice_6 :
   - Fronts météorologiques
 questions:
  - Nuage désigné en abrégé par les lettres C.i dans le lexique météorologique, je suis…
+culture_g_score: 64
+culture_g_justification: "Le cirrus est un type de nuage classique en météorologie, avec quelques prolongements en climatologie et en culture populaire."
 ---
-
 ![Image de Cirrus](https://upload.wikimedia.org/wikipedia/commons/2/2e/CirrusField-color.jpg)
 
 ###### Questions

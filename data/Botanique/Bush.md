@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour la production de cynorhodons et de haies naturelles
 questions:
  - Quel mot anglais signifiant broussailles désigne la formation végétale d'Australie...
+culture_g_score: 11
+culture_g_justification: "Callicarpa est très peu connu sous l’appellation bush et ne constitue pratiquement jamais une réponse de quiz généraliste."
 ---
-
 ![Image de Bush](https://upload.wikimedia.org/wikipedia/commons/d/d4/George-W-Bush.jpeg)
 
 ###### Questions

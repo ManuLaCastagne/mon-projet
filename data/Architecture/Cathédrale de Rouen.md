@@ -21,8 +21,9 @@ indice_5:
   - Gothique flamboyant
 indice_6:
   - Tombeau de Richard Cœur de Lion
+culture_g_score: 80
+culture_g_justification: "Monument normand associé à Monet, à l’histoire médiévale et à un record architectural, offrant plusieurs entrées de quiz."
 ---
-
 ![Image de Cathédrale de Rouen](https://upload.wikimedia.org/wikipedia/commons/1/1a/Rouen_Cathedral_as_seen_from_Gros_Horloge_140215_4.jpg)
 
 ###### Questions

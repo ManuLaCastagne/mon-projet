@@ -1,3 +1,8 @@
+---
+culture_g_score: 26
+culture_g_justification: "Catégorie non spécifique rassemblant des anecdotes de fiabilité et d'intérêt très inégaux, sans constituer une référence culturelle précise."
+---
+
 🟥LE SAVIEZ-VOUS ⁉️
 1) Les oiseaux n'urinent pas.
 2) Les chevaux et les vaches dorment debout.

@@ -22,8 +22,9 @@ indice_6 :
   - tournées mondiales
 questions:
  - Quel chanteur et guitariste britannique, interprète des tubes "Sing" et "Thinking out loud", porte plus d'une centaine de tatouages sur le corps?
+culture_g_score: 80
+culture_g_justification: "Chanteur pop mondialement connu, fréquemment associé à «Shape of You», ses records, ses albums et ses distinctions."
 ---
-
 ![Image de Ed Sheeran](https://upload.wikimedia.org/wikipedia/commons/1/13/Ed_Sheeran_%288507731877%29.jpg)
 
 ###### Questions

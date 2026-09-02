@@ -18,11 +18,9 @@ indice_5:
   - première femme présidente du Chili
 indice_6:
   - Nations unies
+culture_g_score: 64
+culture_g_justification: "Première femme présidente du Chili et ancienne responsable de l’ONU, sujet utile mais surtout rattaché à l’histoire politique contemporaine chilienne."
 ---
-
-
-
-
 ![Image de Michelle Bachelet](https://upload.wikimedia.org/wikipedia/commons/0/02/Portrait_Michelle_Bachelet.jpg)
 
 ###### Questions

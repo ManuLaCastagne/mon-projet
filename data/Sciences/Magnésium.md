@@ -20,8 +20,9 @@ indice_6 :
   - Anti-stress
 questions:
  - En chimie, à quel métal blanc argenté brûlant à l'air avec une flamme blanche éblouissante...
+culture_g_score: 72
+culture_g_justification: "Élément abordable par la chimie, la biologie, la photosynthèse et les matériaux, sans être un marronnier majeur."
 ---
-
 ![Image de Magnésium](https://upload.wikimedia.org/wikipedia/commons/1/1d/Manganese_electrolytic_and_1cm3_cube.jpg)
 
 ###### Questions

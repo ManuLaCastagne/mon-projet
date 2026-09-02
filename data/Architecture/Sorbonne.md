@@ -23,10 +23,9 @@ indice_6 :
   - Historical monument
 questions:
  - Université du Quartier latin devant mon nom au théologien Robert de Sorbon, qui m'a fondée.
+culture_g_score: 84
+culture_g_justification: "Institution parisienne mondialement connue, fréquemment liée à l’histoire universitaire, aux sciences, aux lettres et au quartier Latin."
 ---
-
-
-
 ![Image de Sorbonne](https://upload.wikimedia.org/wikipedia/commons/6/6d/Cour_de_la_Sorbonne.jpg)
 
 ###### Questions

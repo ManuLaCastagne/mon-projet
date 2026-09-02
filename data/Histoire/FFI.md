@@ -20,8 +20,9 @@ indice_6 :
   - Maquisards
 questions:
  - Commandées depuis Londres par le général Koenig. Notamment composées de l'Armée secrète et des Francs-tireurs et Partisans, notre nom nous a été donné en 1944. Forces formées par l'unification des groupements de la Résistance intérieure..
+culture_g_score: 77
+culture_g_justification: "Organisation essentielle pour comprendre la Résistance intérieure et la Libération de la France, régulièrement interrogée sous son sigle."
 ---
-
 ![Image de FFI](https://upload.wikimedia.org/wikipedia/commons/b/bb/FFI_Hotel_des_Ambassadeurs%2C_Vichy.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - membre de la Génération de '27
 questions:
  - Quel écrivain surnommé "le Rossignol d'Andalousie" est l'un des plus célèbres poètes espagnols et fut fusillé par les franquistes ?
+culture_g_score: 80
+culture_g_justification: "Grande figure de la littérature espagnole, associée à la poésie, au théâtre, à la Guerre civile et à une mort devenue emblématique."
 ---
-
 ![Image de Federico Garcia Lorca](https://upload.wikimedia.org/wikipedia/commons/2/22/Federico_Garc%C3%ADa_Lorca._Huerta_de_San_Vicente%2C_Granada.jpg)
 
 ###### Questions

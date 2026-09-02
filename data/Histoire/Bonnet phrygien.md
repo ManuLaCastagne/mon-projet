@@ -20,8 +20,9 @@ indice_6 :
   - figure allégorique
 questions:
  - Objet que les galériens n'ont plus eu le droit de porter dès 1793 après que la Convention m'eut décrété "emblème du civisme et de la liberté", je figure au-dessus du faisceau des licteurs, alors symbole de la République.  Porté par Louis XVI en 1792 quand la foule envahit les Tuileries, j'ai...
+culture_g_score: 80
+culture_g_justification: "Symbole immédiatement associé à la Révolution française, à la liberté, à Marianne et à l’iconographie républicaine."
 ---
-
 ![Image de Bonnet phrygien](https://upload.wikimedia.org/wikipedia/commons/2/2b/Viry-Ch%C3%A2tillon_-_Bornes_%C3%A0_bonnet_phrygien.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - traité sur l'Antarctique
 questions:
  - Plus grande des terres australes et antarctiques françaises, j'occupe un segment triangulaire situé à l'est du continent antarctique. Découvert en janvier 1840, baptisée du prénom de la femme de mon découvreur,  Dumont d'Urville.
+culture_g_score: 44
+culture_g_justification: "Territoire antarctique français utile pour quelques questions d'exploration et de recherche scientifique, mais très spécialisé."
 ---
-
-
 ![Image de Terre Adélie](https://upload.wikimedia.org/wikipedia/commons/e/e2/Reconnaissance_de_la_Terre_Adelie%2C_le_20_Janvier_1840.jpg)
 
 ![[Carte_Terre Adélie.png]]

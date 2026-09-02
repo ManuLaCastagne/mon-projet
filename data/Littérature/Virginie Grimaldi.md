@@ -18,8 +18,9 @@ indice_5:
   - Quand nos souvenirs viendront danser
 indice_6:
   - Tu comprendras quand tu seras plus grande
+culture_g_score: 44
+culture_g_justification: "Romancière française populaire auprès du grand public, mais ses œuvres restent peu présentes dans les quiz de culture générale."
 ---
-
 ![Image de Virginie Grimaldi](https://upload.wikimedia.org/wikipedia/commons/c/c5/Virginie_Grimaldi_-_2018_%28cropped%29.png)
 
 ###### Questions

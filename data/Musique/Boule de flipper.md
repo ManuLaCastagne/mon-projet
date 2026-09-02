@@ -22,8 +22,9 @@ indice_6 :
   - années 80
 questions:
  - Tube français, sorti en 1986, j'ai été repris en duo en 2019 par Juliette Armanet et Christophe.  Chanson illustrée par un clip où l'on voit mon interprète, une actrice à l'affiche du film "La Chèvre"...
+culture_g_score: 44
+culture_g_justification: "Succès identifiable de la variété française des années 1980, mais trop ponctuel pour constituer une priorité élevée."
 ---
-
 ![Image de Boule de flipper](https://upload.wikimedia.org/wikipedia/commons/4/45/Visible_Pinball_III_-_Pacific_Pinball_Museum_cropped.jpg)
 
 ###### Questions

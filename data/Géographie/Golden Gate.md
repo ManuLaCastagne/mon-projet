@@ -23,8 +23,9 @@ indice_6:
   - ingénierie monumentale
 questions:
   - Dans des conditions difficiles. Construction de béton et d'acier ouverte à la circulation le 28 mai 1937, j'ai une longueur totale de 2737 m. Pont suspendu, longtemps le plus long du monde...
+culture_g_score: 97
+culture_g_justification: "Pont mondialement emblématique, immédiatement associé à San Francisco et exploitable en architecture, ingénierie, géographie et culture populaire."
 ---
-
 ![Image de Golden Gate](https://upload.wikimedia.org/wikipedia/commons/d/de/SF_Golden_Gate_Bridge_splash_CA.jpg)
 
 ![[Carte_Golden Gate.png]]

@@ -22,9 +22,9 @@ indice_6 :
   - période de rupture
 questions:
  - Dans ses magasins en 1901. Autobiographie en prose poétique, j'évoque la crise que le poète a connue dans des textes imagés. Composée après la rupture de mon auteur Arthur Rimbaud avec Paul Verlaine, je suis…
+culture_g_score: 68
+culture_g_justification: "Œuvre majeure de Rimbaud et de la poésie française, régulièrement citée mais moins incontournable que ses figures les plus célèbres."
 ---
-
-
 ![Image de Une Saison en enfer](https://upload.wikimedia.org/wikipedia/commons/8/8c/Rimbaud%27s_Saison_en_Enfer_1873.jpg)
 
 ###### Questions

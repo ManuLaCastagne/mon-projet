@@ -20,8 +20,9 @@ indice_6 :
   - Portillon de départ
 questions:
  - Quel mot norvégien désigne  l'épreuve de ski alpin consistant en une succession de virages imposés par des portes matérialisées par des piquets?
+culture_g_score: 80
+culture_g_justification: "Épreuve classique du ski alpin, fréquemment liée à Killy, Stenmark, aux Jeux olympiques et aux différentes variantes de slalom."
 ---
-
 ![Image de Slalom](https://upload.wikimedia.org/wikipedia/commons/4/43/Slalom_-_Vittorio_Gassman_e_Adolfo_Celi.png)
 
 ###### Questions

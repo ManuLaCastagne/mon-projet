@@ -20,10 +20,9 @@ indice_5 :
   - parcs à thème
 indice_6 : 
   - dessins animés classiques
+culture_g_score: 84
+culture_g_justification: "Classique mondial de Disney reliant animation, musique classique, innovation technique et histoire du cinéma."
 ---
-
-
-
 ![Image de Fantasia](https://upload.wikimedia.org/wikipedia/commons/0/09/Fantasia_theatrical_trailer.png)
 
 ###### Questions

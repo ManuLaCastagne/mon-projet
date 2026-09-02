@@ -15,8 +15,9 @@ indice_6 :
   - Emblème de la cuisine méditerranéenne
 questions:
  - Quel poisson de la famille des triglidés, devant son nom au grognement qu'il émet, est doté d'organes locomoteurs qui ressemblent à des doigts?
+culture_g_score: 23
+culture_g_justification: "Poisson côtier peu connu du grand public, dont les particularités offrent très peu de questions généralistes."
 ---
-
 ![Image de Rouget grondin](https://upload.wikimedia.org/wikipedia/commons/e/ec/Rouget-Grondin_-_estampe_-_JA_%28monogramme_de_l%27artiste%29_-_btv1b532681105.jpg)
 
 ###### Questions

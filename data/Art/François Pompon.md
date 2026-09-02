@@ -23,7 +23,8 @@ indice_6 :
   - Musée d'Orsay
 questions:
  - A quel artiste français, né en 1855 et connu pour ses sculptures animalières, doit-on une célèbre statuette en bronze figurant une panthère noire ?
-culture_g_score: 44
+culture_g_score: 40
+culture_g_justification: "Sculpteur animalier identifiable par l’Ours blanc, mais encore assez spécialisé dans les quiz généralistes."
 ---
 ![Image de François Pompon](https://upload.wikimedia.org/wikipedia/commons/9/9a/Musee_Francois_Pompon_in_Saulieu_%281%29.jpg)
 

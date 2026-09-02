@@ -22,9 +22,9 @@ indice_6:
   - Trésor architecture chinoise
 questions:
   - Site de forme rectangulaire d'environ 72 ha, édifié à partir de 1406, j'abrite de nombreux bâtiments et un jardin impérial au sein d'une haute muraille, entourée par un large fossé rempli d'eau.  Orné d'un décor de lions et de dragons, je suis doté d'une immense esplanade centrale...
+culture_g_score: 100
+culture_g_justification: "Monument impérial chinois incontournable, transversal en histoire, géographie, architecture, culture chinoise et patrimoine mondial."
 ---
-
-
 ![Image de Cité interdite](https://upload.wikimedia.org/wikipedia/commons/0/00/Sunset_of_the_Forbidden_City_2006.JPG)
 
 ###### Questions

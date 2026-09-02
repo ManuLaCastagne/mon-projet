@@ -25,8 +25,9 @@ indice_6 :
   - huile d'olive andalouse
 questions:
  - Fleuve long de 657km, dont le nom signifie "grand fleuve" en arabe, mon bassin s'étend sur 58 000km2.  Bordé sur l'une de mes rives par le parc national de Donana, classé en 94 au patrimoine mondial de l'Unesco, je nais dans la Sierra de Cazorla. Irriguant l'Andalousie...
+culture_g_score: 60
+culture_g_justification: "Fleuve majeur de l’Andalousie, utile pour des questions sur Séville, l’Espagne méridionale, l’Antiquité et la géographie fluviale."
 ---
-
 ![Image de Guadalquivir](https://upload.wikimedia.org/wikipedia/commons/7/73/Guadalquivir-Seville-February-2011.jpg)
 
 ![[Carte_Guadalquivir.png]]

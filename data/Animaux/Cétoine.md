@@ -14,8 +14,9 @@ indice_5:
   - Hanneton des roses
 indice_6:
   - Pollinisation
+culture_g_score: 40
+culture_g_justification: "Insecte remarquable par sa couleur métallique, mais généralement limité à une question d’identification zoologique."
 ---
-
 ![Image de Cétoine](https://upload.wikimedia.org/wikipedia/commons/e/e2/Rose_chafers_%28Cetonia_aurata%29_on_thistle_%28Carduus_sp.%29.jpg)
 
 ###### Questions

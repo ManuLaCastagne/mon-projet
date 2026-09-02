@@ -20,8 +20,9 @@ indice_6 :
   - Paris 1894
 questions:
  - Convaincu que le sport constitue le tremplin indispensable à une bonne énergie mentale...
+culture_g_score: 100
+culture_g_justification: "Fondateur des Jeux olympiques modernes, il constitue une référence exceptionnelle pour l’histoire, le sport et les symboles olympiques."
 ---
-
 ![Image de Pierre de Coubertin](https://upload.wikimedia.org/wikipedia/commons/e/ef/Baron_Pierre_de_Coubertin.jpg)
 
 ###### Questions

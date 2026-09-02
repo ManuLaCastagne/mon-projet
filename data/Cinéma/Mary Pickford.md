@@ -22,8 +22,9 @@ indice_6 :
   - Épouse de Douglas Fairbanks
 questions:
  - Sous quel nom connaît-on mieux l'actrice américaine Gladys Mary Smith, cofondatrice en 1919 des Artistes associés?
+culture_g_score: 87
+culture_g_justification: "Pionnière fondamentale du cinéma muet, liée à United Artists, Hollywood, la production et l’histoire des Oscars."
 ---
-
 ![Image de Mary Pickford](https://upload.wikimedia.org/wikipedia/commons/8/88/Mary_Pickford_cph.3c17995u.jpg)
 
 ###### Questions

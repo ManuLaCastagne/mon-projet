@@ -21,8 +21,9 @@ indice_6 :
   - multiple titres mondiaux
 questions:
  - Lors des championnats d'Europe de natation 2006 à Budapest, quelle nageuse française a remporté...
+culture_g_score: 77
+culture_g_justification: "Première championne olympique française de natation et personnalité médiatique, régulièrement citée dans les quiz sportifs français."
 ---
-
 ![Image de Laure Manaudou](https://upload.wikimedia.org/wikipedia/commons/e/e7/Laure_Manaudou_dsc03674.jpg)
 
 ###### Questions

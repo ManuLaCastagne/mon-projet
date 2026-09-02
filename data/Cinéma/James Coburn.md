@@ -22,8 +22,9 @@ indice_6 :
   - L'ouragan vient de Navarone
 questions:
  - Incarnant Pat Garrett dans l'un des 3 films que j'ai tournés sous la direction de Sam Peckinpah, dans "Les Sept Mercenaires" de John Sturges je suis Britt, le lanceur de couteaux. Révolutionnaire irlandais dans "Il était une fois la révolution"…
+culture_g_score: 52
+culture_g_justification: "Acteur américain associé à quelques classiques comme Les Sept Mercenaires et à un Oscar, mais de fréquence modérée."
 ---
-
 ![Image de James Coburn](https://upload.wikimedia.org/wikipedia/commons/9/9d/James_Coburn_The_Californians_1959.JPG)
 
 ###### Questions

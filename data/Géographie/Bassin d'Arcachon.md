@@ -24,8 +24,9 @@ indice_6 :
   - Ville d'Arcachon
 questions:
  - 170km2 à marée haute et 60km2 à marée basse. Abritant l'Ile aux Oiseaux, je suis partiellement fermé par la flèche sableuse...
+culture_g_score: 51
+culture_g_justification: "Site naturel et touristique français connu pour ses paysages et ses cabanes, mais d’importance quiz modérée."
 ---
-
 ![Image de Bassin d'Arcachon](https://upload.wikimedia.org/wikipedia/commons/9/9e/%28Albi%29_Vue_du_bassin_d%27Arcachon_prise_de_l%27avant_du_yacht_COCORICO_Toulouse-Lautrec_1889_MTL.129.jpg)
 
 ![[Carte_Bassin d'Arcachon.png]]

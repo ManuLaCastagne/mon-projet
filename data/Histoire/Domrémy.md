@@ -20,9 +20,9 @@ indice_6 :
   - héroïne française
 questions:
  - Dans quel village lorrain Jeanne d'Arc...
+culture_g_score: 61
+culture_g_justification: "Lieu directement associé à la naissance de Jeanne d’Arc, avec une bonne rentabilité mais des angles d’interrogation assez limités."
 ---
-
-
 ![Image de Domrémy](https://upload.wikimedia.org/wikipedia/commons/7/77/Domr%C3%A9my-la-Pucelle_%C3%89glise_Fonts_baptismaux.jpg)
 
 ###### Questions

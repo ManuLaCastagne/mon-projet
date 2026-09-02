@@ -13,8 +13,9 @@ indice_5:
   - Étoile des glaciers
 indice_6:
   - Symbole de montagne et utilisé dans les remèdes à base de plantes
+culture_g_score: 64
+culture_g_justification: "Plante emblématique des Alpes, souvent associée à la montagne et à la culture populaire, mais avec des angles de quiz limités."
 ---
-
 ![Image de Edelweiss](https://upload.wikimedia.org/wikipedia/commons/e/ee/CH_Leontopodium_alpinum_2.jpg)
 
 ###### Questions

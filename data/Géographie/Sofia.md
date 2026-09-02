@@ -22,8 +22,9 @@ indice_5 :
   - Lionbridge
 indice_6 : 
   - architecture néoclassique
+culture_g_score: 72
+culture_g_justification: "Capitale ancienne des Balkans, utile pour la Bulgarie, l’histoire européenne, la religion et la géographie régionale."
 ---
-
 ![Image de Sofia](https://upload.wikimedia.org/wikipedia/commons/1/16/Sofia_Massif_and_Sofia_Glacier%2C_Karachay-Cherkessia%2C_Caucasus_Mountains.jpg)
 
 ![[Carte_Sofia.png]]

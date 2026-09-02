@@ -22,8 +22,9 @@ indice_6 :
   - bande originale
 questions:
  - En 1980, dans quelle comédie de Claude Pinoteau...
+culture_g_score: 84
+culture_g_justification: "Grand classique populaire du cinéma français, incontournable pour Sophie Marceau, Claude Pinoteau, la chanson Reality et la culture adolescente des années 1980."
 ---
-
 ![Image de La Boum](https://upload.wikimedia.org/wikipedia/commons/e/e3/Medrano_Boum-Boum_-_le_cirque_de_Paris_-_Programme_-_du_7_au_20_septembre_1951_-_btv1b10117469p_%2812_of_24%29.jpg)
 
 ###### Questions

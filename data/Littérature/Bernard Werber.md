@@ -22,8 +22,9 @@ indice_6 :
   - Arbre des Possibles
 questions:
  - Passionné par la biologie, la spiritualité et la science-fiction, thèmes que je développe dans "Les Thanatonautes" ou "Le Livre du voyage", je suis devenu un écrivain à succès en 1991 avec la publication des "Fourmis".  Auteur de la trilogie "Le Cycle des dieux", j'ai publié en 2020 le roman "La Planète des chats", je suis...
+culture_g_score: 64
+culture_g_justification: "Auteur français très lu et reconnaissable par Les Fourmis, mais d’importance et de fréquence quiz inférieures aux grands classiques."
 ---
-
 ![Image de Bernard Werber](https://upload.wikimedia.org/wikipedia/commons/2/24/Bernard_WERBER_par_Michel_Restany.jpg)
 
 ###### Questions

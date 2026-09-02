@@ -20,8 +20,9 @@ indice_6 :
   - mort aux Philippines
 questions:
  - Menant avec 5 vaisseaux à partir de 1519 ce qui deviendra le 1er voyage maritime autour du monde...
+culture_g_score: 97
+culture_g_justification: "Figure incontournable des grandes découvertes, reliée à la circumnavigation, au Pacifique, à l’Espagne et au détroit qui porte son nom."
 ---
-
 ![Image de Fernando de Magellan](https://upload.wikimedia.org/wikipedia/commons/0/08/Fernando_de_Magallanes%2C_Andr%C3%A9_Thevet.jpg)
 
 ###### Questions

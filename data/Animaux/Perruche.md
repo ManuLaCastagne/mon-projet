@@ -15,10 +15,9 @@ indice_6 :
   - Symbole de l'éloquence
 questions:
  - Quel est cet oiseau  exotique, voisin du perroquet introduit en France par accident à partir des aéroports ?
+culture_g_score: 60
+culture_g_justification: "Oiseau domestique très reconnaissable, présent dans les anecdotes, les espèces invasives et la culture populaire."
 ---
-
-
-
 ![Image de Perruche](https://upload.wikimedia.org/wikipedia/commons/7/76/Melopsittacus_undulatus_-_Vogelpark_Steinen_01.jpg)
 
 ###### Questions

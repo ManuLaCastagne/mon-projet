@@ -21,8 +21,9 @@ indice_5 :
   - Plage de Sotavento
 indice_6 : 
   - Volcans de Fuerteventura
+culture_g_score: 60
+culture_g_justification: "Île canarienne assez connue, mobilisable en géographie, tourisme, sports nautiques et environnement."
 ---
-
 ![[Carte_Fuerteventura.png]]
 
 ###### Questions

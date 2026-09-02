@@ -22,8 +22,9 @@ indice_5 :
   - Alpilles
 indice_6 : 
   - Tarasque
+culture_g_score: 52
+culture_g_justification: "Ville provençale surtout rentable grâce au personnage de Tartarin, à son château et à quelques repères régionaux."
 ---
-
 ![[Carte_Tarascon.png]]
 
 ###### Questions

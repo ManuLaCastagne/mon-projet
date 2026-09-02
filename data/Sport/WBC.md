@@ -20,8 +20,9 @@ indice_6 :
   - Trophée Commissioner
 questions:
  - Avec la WBA, la WBO et l'IBF, quelle est l'autre principale fédération internationale de boxe? Fondée à Cinéma/Mexico en 1963.
+culture_g_score: 60
+culture_g_justification: "Organisation majeure de la boxe professionnelle, utile pour les questions de fédérations et de champions mais assez spécialisée."
 ---
-
 ![Image de WBC](https://upload.wikimedia.org/wikipedia/commons/a/a0/WBC_I_OMB_2014-01-17_17-19.jpg)
 
 ###### Questions

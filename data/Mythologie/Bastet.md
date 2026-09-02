@@ -18,8 +18,9 @@ indice_6 :
   - emblème du relâchement et de la joie
 questions:
  - Divinité de l'Egypte antique incarnant la féminité et constituant une forme adoucie de la déesse Sekhmet, on me célébrait lors de fêtes annuelles dans la ville de Boubastis.
+culture_g_score: 80
+culture_g_justification: "Déesse égyptienne à tête ou apparence féline, fréquemment interrogée via les chats, la protection et l’Égypte antique."
 ---
-
 ![Image de Bastet](https://upload.wikimedia.org/wikipedia/commons/3/31/Bastet_%28Goddess%29.png)
 
 ###### Questions

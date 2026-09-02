@@ -24,8 +24,9 @@ indice_6 :
   - destination touristique populaire
 questions:
  - Mon palais des Sénateurs, j'ai pour emblème la fontaine de l'Eléphant, faite de lave et de marbre.  Patrie du compositeur Bellini dont le nom a été donné à mon théâtre, je suis une ville de l'est de la Sicile, proche de la mer de Syracuse et bordée par la mer Ionienne.
+culture_g_score: 80
+culture_g_justification: "Grande ville sicilienne régulièrement associée à l’Etna, à l’Antiquité grecque, aux séismes et au patrimoine italien."
 ---
-
 ![Image de Catane](https://upload.wikimedia.org/wikipedia/commons/3/35/Catane_jud_Dolj.png)
 
 ![[Carte_Catane.png]]

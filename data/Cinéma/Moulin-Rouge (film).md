@@ -20,8 +20,9 @@ indice_5 :
   - comédie musicale
 indice_6 : 
   - Baz Luhrmann
+culture_g_score: 80
+culture_g_justification: "Musical très populaire et visuellement marquant, utile pour des questions sur Baz Luhrmann, les Oscars, Paris, ses acteurs et sa bande originale."
 ---
-
 ![Image de Moulin-Rouge (film)](https://upload.wikimedia.org/wikipedia/commons/7/70/De_Moulin_Rouge_in_Parijs_bij_avond%2C_Bestanddeelnr_254-5695.jpg)
 
 ###### Questions

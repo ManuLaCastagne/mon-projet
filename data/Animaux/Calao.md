@@ -15,8 +15,9 @@ indice_6 :
   - Messager dans les contes africains
 questions:
  - Quel est cet oiseau d'Afrique et d'Asie qui est caractérisé par bec épais surmonté d'un casque ?
+culture_g_score: 52
+culture_g_justification: "Oiseau tropical remarquable par son bec et son casque, mais rarement prioritaire hors des questions de biodiversité."
 ---
-
 ![Image de Calao](https://upload.wikimedia.org/wikipedia/commons/3/32/Calao_of_the_Island_of_Waigiou.jpg)
 
 ###### Questions

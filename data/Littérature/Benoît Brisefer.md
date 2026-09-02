@@ -23,8 +23,9 @@ indice_6 :
   - première apparition en 1960 dans Spirou
 questions:
  - Dans une BD de Peyo, quel prénom porte l'écolier nommé Brisefer ?
+culture_g_score: 40
+culture_g_justification: "Héros de bande dessinée belge apprécié des amateurs de Spirou, mais nettement moins central que les grandes figures franco-belges."
 ---
-
 ![Image de Benoît Brisefer](https://upload.wikimedia.org/wikipedia/commons/5/58/Steven_Sterk.jpg)
 
 ###### Questions

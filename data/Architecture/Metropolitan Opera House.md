@@ -23,8 +23,9 @@ indice_6 :
   - premières mondiales
 questions:
  - Quel opéra de New York est situé dans le Lincoln Center ?
+culture_g_score: 71
+culture_g_justification: "Institution lyrique majeure de New York, le Metropolitan Opera se prête à des questions sur l’opéra, les artistes et l’histoire culturelle."
 ---
-
 ![Image de Metropolitan Opera House](https://upload.wikimedia.org/wikipedia/commons/e/e5/Metropolitan_Opera_House%2C_a_concert_by_pianist_Josef_Hofmann_-_NARA_541890_-_Edit.jpg)
 
 ###### Questions

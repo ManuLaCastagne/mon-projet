@@ -20,8 +20,9 @@ indice_6 :
   - humour absurde
 questions:
  - Quelle troupe comique française associée au film "Babysitting"… (Composée notamment de Tarek Boudali, on évoque la troupe comique évoquée à l'instant, Julien Arruti et Philippe Lacheau) ?
+culture_g_score: 56
+culture_g_justification: "Collectif comique relié à Philippe Lacheau, au Grand Journal et au cinéma populaire, mais d'importance encore relativement récente."
 ---
-
 ![Image de La Bande à Fifi](https://upload.wikimedia.org/wikipedia/commons/5/5e/Detail_des_nouveaux_jardins_%C3%A0_la_mode_%28IA_gri_33125008481703%29.pdf)
 
 ###### Questions

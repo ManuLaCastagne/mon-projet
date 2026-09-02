@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Notamment celle des oies dans leur milieu naturel. Biologiste, zoologiste, lauréat du prix Nobel de médecine en 1973, je suis le fondateur de l'éthologie...
  - Quel scientifique autrichien a observé que l'oie cendrée adoptait des comportements proches de ceux des êtres humains ?
+culture_g_score: 64
+culture_g_justification: "Lorenz est un classique de l’éthologie grâce à l’empreinte et aux oies, mais son champ reste principalement biologique."
 ---
-
 ![Image de Konrad Lorenz](https://upload.wikimedia.org/wikipedia/commons/a/a1/Konrad_Lorenz.JPG)
 
 ###### Questions

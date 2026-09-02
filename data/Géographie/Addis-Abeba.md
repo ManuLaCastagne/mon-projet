@@ -24,8 +24,9 @@ indice_6 :
   - Union africaine
 questions:
  - Quelle ville d'Afrique orientale abrite le siège de l'Union africaine dans un bâtiment d'environ 100m de haut ?
+culture_g_score: 64
+culture_g_justification: "Capitale éthiopienne et siège de l'Union africaine, régulièrement utile pour l'histoire et la géopolitique africaines."
 ---
-
 ![Image de Addis-Abeba](https://upload.wikimedia.org/wikipedia/commons/3/38/Addis_abeba_meskele_square.jpg)
 
 ![[Carte_Addis-Abeba.png]]

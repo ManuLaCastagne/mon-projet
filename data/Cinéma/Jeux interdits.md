@@ -20,8 +20,9 @@ indice_5:
   - Michel Bouquet
 indice_6:
   - Brigitte Fossey
+culture_g_score: 68
+culture_g_justification: "Classique majeur du cinéma français sur l'enfance et la guerre, Jeux interdits est régulièrement mobilisable mais reste une œuvre précise."
 ---
-
 ![Image de Jeux interdits](https://upload.wikimedia.org/wikipedia/commons/3/33/Romance_An%C3%B3nimo_%28Jeux_interdits%29.ogg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5 :
   - Oscar du meilleur réalisateur
 indice_6 : 
   - Novecento
+culture_g_score: 80
+culture_g_justification: "Cinéaste italien important, relié à plusieurs œuvres célèbres, aux Oscars, au cinéma d'auteur et à la controverse."
 ---
-
-
 ![Image de Bernardo Bertolucci](https://upload.wikimedia.org/wikipedia/commons/c/c0/Bernardo_Bertolucci.jpg)
 
 ###### Questions

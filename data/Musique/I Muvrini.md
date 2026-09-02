@@ -22,9 +22,9 @@ indice_6 :
   - langue corse
 questions:
  - Groupe dont le dernier album a pour titre "Portu in Core", j'ai chanté avec des artistes tels que Sting ou Véronique Sanson. M'imposant au milieu des années 90...
+culture_g_score: 40
+culture_g_justification: "Groupe emblématique de la polyphonie corse, I Muvrini est pertinent pour la culture régionale mais peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de I Muvrini](https://upload.wikimedia.org/wikipedia/commons/b/bf/I_muvrini_summerlied.jpg)
 
 ###### Questions

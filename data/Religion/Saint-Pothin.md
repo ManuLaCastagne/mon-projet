@@ -18,8 +18,9 @@ indice_5 :
   - Claude
 indice_6 : 
   - Les Églises des Gaules
+culture_g_score: 27
+culture_g_justification: "Premier évêque de Lyon et martyr local, Saint-Pothin est une connaissance très spécialisée et peu rentable pour un quiz généraliste."
 ---
-
 ![Image de Saint-Pothin](https://upload.wikimedia.org/wikipedia/commons/2/2b/%C3%89glise_Saint-Pothin_%28Lyon%29_01.jpg)
 
 ###### Questions

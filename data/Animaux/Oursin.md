@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de protection dans certaines cultures
 questions:
  - Quel animal des fonds marins, doté d'un squelette calcaire appelé test se sert de ses nombreux piquants pour avancer ?
+culture_g_score: 48
+culture_g_justification: "Animal marin familier permettant plusieurs rappels d’anatomie et d’écologie, mais rarement prioritaire en quiz."
 ---
-
 ![Image de Oursin](https://upload.wikimedia.org/wikipedia/commons/f/f5/Lytechinus_variegatus.jpg)
 
 ###### Questions

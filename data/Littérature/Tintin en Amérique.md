@@ -22,8 +22,9 @@ indice_6 :
   - Syldavie
 questions:
  - En 1932, dans quel album, se passant en pleine prohibition, Tintin est-il confronté au mafioso Al Capone?
+culture_g_score: 84
+culture_g_justification: "Album très célèbre de Tintin, exploitable sur Hergé, les États-Unis, Al Capone, l'histoire éditoriale et la représentation du gangstérisme."
 ---
-
 ![Image de Tintin en Amérique](https://upload.wikimedia.org/wikipedia/commons/4/4f/Tintin_en_Amerique.png)
 
 ###### Questions

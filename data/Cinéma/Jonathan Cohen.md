@@ -22,8 +22,9 @@ indice_6 :
   - Coexister
 questions:
  - Débutant à l'écran dans un petit rôle de vendeur dans "Comme t'y es belle!", je tourne dans la série télé "Mafiosa" avant d'incarner Hassan dans "Les Invincibles". Enchaînant les comédies dont "Papa ou maman..."
+culture_g_score: 60
+culture_g_justification: "Figure importante de l'humour et des séries françaises récentes, Jonathan Cohen est rentable dans les quiz francophones contemporains mais encore récent."
 ---
-
 ![Image de Jonathan Cohen](https://upload.wikimedia.org/wikipedia/commons/1/14/Jonathan_Cohen_2013.jpg)
 
 ###### Questions

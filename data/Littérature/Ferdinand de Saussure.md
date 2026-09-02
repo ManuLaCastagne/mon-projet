@@ -22,8 +22,9 @@ indice_6 :
   - Genève
 questions:
  - De quel linguiste suisse a-t-on publié en 1916 à titre posthume, le "Cours de linguistique générale" d'après des notes d'étudiants ?
+culture_g_score: 68
+culture_g_justification: "Fondateur de la linguistique moderne, dont les notions de langue, parole et signe servent de repères dans plusieurs disciplines."
 ---
-
 ![Image de Ferdinand de Saussure](https://upload.wikimedia.org/wikipedia/commons/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png)
 
 ###### Questions

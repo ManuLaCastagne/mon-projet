@@ -20,8 +20,9 @@ indice_6 :
   - Saint patron
 questions:
  - Je fais partie des trois archanges avec saint Gabriel et saint Michel.
+culture_g_score: 64
+culture_g_justification: "L’archange Raphaël et la ville de Saint-Raphaël sont connus, mais les angles de question restent relativement limités."
 ---
-
 ![Image de Saint-Raphaël](https://upload.wikimedia.org/wikipedia/commons/e/eb/Saint-Rapha%C3%ABl_from_Cap_Dramont_01.jpg)
 
 ###### Questions

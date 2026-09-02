@@ -19,8 +19,9 @@ indice_5 :
   - influenceuse
 indice_6 : 
   - mariage à Chantilly
+culture_g_score: 72
+culture_g_justification: "Personnalité médiatique associée à une phrase devenue phénomène populaire, à la téléréalité et à plusieurs épisodes médiatiques."
 ---
-
 ![Image de Nabilla Benattia](https://upload.wikimedia.org/wikipedia/commons/1/15/Nabilla_Benattia_Cannes_2018.jpg)
 
 ###### Questions

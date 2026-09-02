@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de l'habileté de pêche
 questions:
  - Quel oiseau marin palmipède au plumage sombre, pouvant être notamment de Temminck ou de Socotra, est capable d'avaler son propre poids de poissons chaque jour ?
+culture_g_score: 60
+culture_g_justification: "Oiseau identifiable et associé à la pêche traditionnelle, aux Galápagos et à l’observation animale, sans être incontournable."
 ---
-
 ![Image de Cormoran](https://upload.wikimedia.org/wikipedia/commons/8/88/Cormoran-p677-20060523-028.jpg)
 
 ###### Questions

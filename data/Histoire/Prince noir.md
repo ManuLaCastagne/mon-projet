@@ -18,8 +18,9 @@ indice_5:
   - guerre de Cent Ans
 indice_6:
   - armure noire
+culture_g_score: 60
+culture_g_justification: "Surnom classique de la guerre de Cent Ans, associé à Édouard III, Poitiers, Crécy et Canterbury."
 ---
-
 ![Image de Prince noir](https://upload.wikimedia.org/wikipedia/commons/2/26/Monflanquin_-_Maison_du_Prince_Noir_-2.JPG)
 
 ###### Questions

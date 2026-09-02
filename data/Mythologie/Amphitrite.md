@@ -18,9 +18,9 @@ indice_6 :
   - représentée souvent sur un char marin
 questions:
  - Déesse de la [[mythologie grecque]], je suis la fille de Nérée et de Doris et la mère de Mythologie/Triton.  Ayant séduit mon futur compagnon en dansant sur l'île de Naxos...
+culture_g_score: 60
+culture_g_justification: "Épouse de Poséidon et mère de Triton, référence régulière mais secondaire dans la mythologie grecque."
 ---
-
-
 ![Image de Amphitrite](https://upload.wikimedia.org/wikipedia/commons/5/5f/Amphitrite_Penteskouphia_Louvre_MNC208.jpg)
 
 ###### Questions

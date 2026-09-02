@@ -20,8 +20,9 @@ indice_5 :
   - Bourvil
 indice_6 : 
   - Le Cerveau
+culture_g_score: 80
+culture_g_justification: "Réalisateur de grandes comédies françaises, notamment La Grande Vadrouille, offrant des liens avec les acteurs, le box-office et l’histoire du cinéma."
 ---
-
 ![Image de Gérard Oury](https://upload.wikimedia.org/wikipedia/commons/d/dc/G%C3%A9rard_Oury_Mich%C3%A8le_Morgan.jpg)
 
 ###### Questions

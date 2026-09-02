@@ -22,8 +22,9 @@ indice_6 :
   - auteur de livres sur le cinéma
 questions:
  - En 2018, quelle personnalité du monde du cinéma publie un "Dictionnaire amoureux du Festival de Cannes", qu'il a bien connu en tant que président?
+culture_g_score: 44
+culture_g_justification: "Figure importante du Festival de Cannes, mais ses ouvrages et son parcours restent peu fréquents dans les quiz généralistes."
 ---
-
 ![Image de Gilles Jacob](https://upload.wikimedia.org/wikipedia/commons/c/c0/Direction_du_Festival_de_Cannes_en_2009ds.jpg)
 
 ###### Questions

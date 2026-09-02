@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la liberté et de la vigilance
 questions:
  - Quel rapace, dit des palombes, répandu dans les zones tempérées de l'hémisphère nord, est un excellent chasseur?
+culture_g_score: 51
+culture_g_justification: "Rapace de chasse identifiable, mais le terme et ses espèces restent relativement peu fréquents dans les quiz."
 ---
-
 ![Image de Autour](https://upload.wikimedia.org/wikipedia/commons/d/d2/1894_-_Autour_D%27une_Cabine.webm)
 
 ###### Questions

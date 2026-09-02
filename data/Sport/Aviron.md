@@ -20,8 +20,9 @@ indice_6 :
   - Bateau long
 questions:
  - Sport dont la fédération française, créée en 1890, a modifié le nom en 2013, je fais travailler tous les muscles bien qu'on reste assis.  Associé aux termes "en pointe" ou "en couple" selon qu'on utilise une ou deux pelles.
+culture_g_score: 64
+culture_g_justification: "Sport olympique classique, lié à de grands champions, aux Jeux et à l’histoire des compétitions nautiques."
 ---
-
 ![Image de Aviron](https://upload.wikimedia.org/wikipedia/commons/5/5e/Aviron_mairie.jpg)
 
 ###### Questions

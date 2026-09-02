@@ -20,8 +20,9 @@ indice_6 :
   - Class40
 questions:
  - Type de bateau opposé aux différentes catégories de multicoques.
+culture_g_score: 40
+culture_g_justification: "Notion technique de voile et de construction navale, surtout utile dans des questions spécialisées sur les courses nautiques."
 ---
-
 ![Image de Monocoque](https://upload.wikimedia.org/wikipedia/commons/a/ac/Deperdussin-general-construction-monocoque-fuselage.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - pirates
 indice_6:
   - chansons de marins
+culture_g_score: 56
+culture_g_justification: "Soldat Louis est surtout connu dans l’espace francophone pour « Du rhum, des femmes », avec des liens régionaux et maritimes utiles mais circonscrits."
 ---
-
 ![Image de Soldat Louis](https://upload.wikimedia.org/wikipedia/commons/d/da/FIL_2024_-_Soldat_Louis_-_8Y4A3533.jpg)
 
 ###### Questions

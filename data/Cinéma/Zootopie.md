@@ -22,8 +22,9 @@ indice_6:
   - Walt Disney Animation Studios
 questions:
   - En 2016, dans quel film d'animation la jeune lapine Judy Hopps fait-elle son entrée dans la police ?
+culture_g_score: 80
+culture_g_justification: "Grand succès Disney récent, fréquemment interrogé via ses personnages, ses thèmes sociaux, ses récompenses et son animation."
 ---
-
 ![Image de Zootopie](https://upload.wikimedia.org/wikipedia/commons/6/6f/Zootopie_France_Sortie_DVD.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Film Stigmata
 questions:
  - Quelle comédienne américaine, prénommée Patricia, incarne le personnage...
+culture_g_score: 67
+culture_g_justification: "Actrice américaine liée à Lynch, Scorsese, Boyhood et aux Oscars, avec plusieurs repères utiles malgré une notoriété inférieure aux grandes stars."
 ---
-
 ![Image de Patricia Arquette](https://upload.wikimedia.org/wikipedia/commons/4/44/Patricia_Arquette_2015.jpg)
 
 ###### Questions

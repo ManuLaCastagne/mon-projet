@@ -20,8 +20,9 @@ indice_6 :
   - Pensée positive
 questions:
  - Fondé sur l'imagination qui doit s'allier à la volonté pour être dirigée comme on l'entend.
+culture_g_score: 52
+culture_g_justification: "La méthode Coué est une référence culturelle identifiable, mais son créateur apparaît assez rarement hors des questions sur l’autosuggestion."
 ---
-
 ![Image de Émile Coué](https://upload.wikimedia.org/wikipedia/commons/e/e8/%C3%89mile_Cou%C3%A9_3.jpg)
 
 ###### Questions

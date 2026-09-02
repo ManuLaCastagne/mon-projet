@@ -21,8 +21,9 @@ indice_6:
   - Chirac
 questions:
   - Comment surnomme-t-on l'A89 allant de Lyon à Libourne, parce qu'elle traverse les fiefs de VGE, Pompidou et Chirac ?
+culture_g_score: 19
+culture_g_justification: "Surnom local d’une autoroute française, correspondant à une question ponctuelle et offrant presque aucun réemploi."
 ---
-
 ![Image de Autoroute des Présidents](https://upload.wikimedia.org/wikipedia/commons/8/8d/Le_Pr%C3%A9sident_de_la_R%C3%A9publique_Emmanuel_Macron_%C3%A0_Moulins_dans_l%27Allier.webm)
 
 ###### Questions

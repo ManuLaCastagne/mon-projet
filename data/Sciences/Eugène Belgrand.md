@@ -20,8 +20,9 @@ indice_6 :
   - Ingénieur hydraulicien
 questions:
  - En 1854, à quel ingénieur de l'École Polytechnique le baron Haussmann a-t-il confié l'exécution d'un vaste système d'égout à Paris ?
+culture_g_score: 44
+culture_g_justification: "Ingénieur important dans l’histoire de Paris, mais principalement mobilisé par des questions locales sur l’eau et les égouts."
 ---
-
 ![Image de Eugène Belgrand](https://upload.wikimedia.org/wikipedia/commons/1/1c/Eug%C3%A8ne_Belgrand.jpg)
 
 ###### Questions

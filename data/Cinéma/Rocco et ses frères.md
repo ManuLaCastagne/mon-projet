@@ -22,8 +22,9 @@ indice_6 :
   - famille du Sud d'Italie
 questions:
  - En 1961, dans quel film de Luchino Visconti, avec Alain Delon, une mère et ses 4 fils...
+culture_g_score: 64
+culture_g_justification: "Classique important du néoréalisme italien et de la filmographie de Visconti, mais relativement spécialisé dans les quiz généralistes."
 ---
-
 ![Image de Rocco et ses frères](https://upload.wikimedia.org/wikipedia/commons/8/85/Alain_Delon_Rocco_et_ses_fr%C3%A8res_1.jpg)
 
 ###### Questions

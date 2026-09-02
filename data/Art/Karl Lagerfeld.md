@@ -23,8 +23,9 @@ indice_6 :
   - Choupette
 questions:
  - Styliste assistant chez Balmain…
+culture_g_score: 68
+culture_g_justification: "Lagerfeld est une figure très rentable pour les questions sur Chanel, Fendi, la mode contemporaine, la photographie et la culture médiatique."
 ---
-
 ![Image de Karl Lagerfeld](https://upload.wikimedia.org/wikipedia/commons/a/a0/Karl_Lagerfeld_2014.jpg)
 
 ###### Questions

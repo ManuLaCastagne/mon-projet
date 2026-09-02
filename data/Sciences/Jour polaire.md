@@ -20,8 +20,9 @@ indice_6 :
   - Inclinaison terrestre
 questions:
  - Phénomène lumineux aussi appelé soleil de minuit affectant le sommeil d'Al Pacino dans le film "Insomnia" de Christopher Nolan, ma durée augmente avec la latitude. Dû à l'inclinaison de l'axe de la Terre, je me produis dans...
+culture_g_score: 64
+culture_g_justification: "Phénomène géographique facilement interrogé via le soleil de minuit et les régions polaires, mais avec un nombre d’angles limité."
 ---
-
 ![Image de Jour polaire](https://upload.wikimedia.org/wikipedia/commons/7/7d/Oratunturi_central_summit_from_the_west_in_midnight%2C_Sodankyl%C3%A4%2C_Lapland%2C_Finland%2C_2019_June.jpg)
 
 ###### Questions

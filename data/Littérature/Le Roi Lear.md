@@ -22,8 +22,9 @@ indice_6 :
   - lignées royales
 questions:
  - Dans quel drame de William Shakespeare s'achevant sur les mots "nous ne vivrons jamais si longtemps", un vieux souverain provoque-t-il une guerre fratricide ?
+culture_g_score: 84
+culture_g_justification: "Tragédie shakespearienne majeure, fréquemment interrogée par ses personnages, son intrigue, ses thèmes et ses adaptations."
 ---
-
 ![Image de Le Roi Lear](https://upload.wikimedia.org/wikipedia/commons/b/bc/Le_roi_Lear_dans_la_temp%C3%AAte.JPG)
 
 ###### Questions

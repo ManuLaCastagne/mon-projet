@@ -21,9 +21,9 @@ indice_6 :
   - désert alentour
 questions:
  - Quelle capitale religieuse du Mahgreb abrite la grande mosquée de Sidi Okba dont les bâtiments comptent parmi les chefs-d'œuvres de l'art de l'islam ?
+culture_g_score: 64
+culture_g_justification: "Ville religieuse et historique majeure du Maghreb, régulièrement interrogée via sa mosquée, sa médina et son rôle dans l’islam."
 ---
-
-
 ![Image de Keirouan](https://upload.wikimedia.org/wikipedia/commons/8/8d/Illustrated_catalogue_of_the_art_and_literary_property_collected_by_the_late_Henry_G._Marquand_%281903%29_%2814781605085%29.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - Italie
 indice_6:
   - génie multitalentueux
+culture_g_score: 100
+culture_g_justification: "Figure universelle de la Renaissance, exceptionnellement transversale par ses peintures, inventions, sciences, cartes, anatomie et biographie."
 ---
-
-
 ![Image de Léonard de Vinci](https://upload.wikimedia.org/wikipedia/commons/c/c9/Da_Vinci_Studies_of_Embryos_Luc_Viatour.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - succès international
 questions:
  - Chanson dont la version anglaise est "Irresistible". Mon interprète a dû attendre d'avoir 21 ans pour que je sorte en 1986. Devant mon existence au producteur Yves Roze, composée par Romano Musumarra, j'ai été refusée par Jeanne Mas, Sheila avant qu'une princesse m'interprète.
+culture_g_score: 56
+culture_g_justification: "Tube très mémorable de la chanson française des années 1980, mais principalement exploitable par un nombre limité de faits."
 ---
-
 ![Image de Ouragan (Stéphanie de Monaco)](https://upload.wikimedia.org/wikipedia/commons/c/c5/Ouragan_Hatzerim_280404.jpg)
 
 ###### Questions

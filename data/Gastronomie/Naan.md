@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Inde
+culture_g_score: 65
+culture_g_justification: "Pain emblématique de l'Asie du Sud, utile pour des questions sur l'Inde, la cuisine mondiale et ses variantes au fromage."
 ---
 ###### Questions 
 

@@ -22,8 +22,9 @@ indice_6 :
   - Science-fiction
 questions:
  - En bande dessinée, quelle héroïne, créée par Emmanuel Guibert et Joann Sfar, combat Supermuscleman...
+culture_g_score: 40
+culture_g_justification: "Série de bande dessinée jeunesse reconnue mais relativement spécialisée et peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Sardine de l'Espace](https://upload.wikimedia.org/wikipedia/commons/0/0a/Actes_de_la_Soci%C3%A9t%C3%A9_linn%C3%A9enne_de_Bordeaux_%28IA_actesdelasocit610190560soci%29.pdf)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - quête de bonheur
 questions:
  - En 1982, dans quel film avec Patrick Dewaere Jacques Dutronc joue-t-il un médecin ayant mis au point un traitement rendant les gens heureux?
+culture_g_score: 40
+culture_g_justification: "Film d’Alain Jessua et de Patrick Dewaere intéressant pour le cinéma français, mais assez peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Paradis pour tous](https://upload.wikimedia.org/wikipedia/commons/8/80/Types_de_plumes._-_Larousse_pour_tous%2C_-1907-1910-.jpg)
 
 ###### Questions

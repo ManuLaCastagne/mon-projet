@@ -22,8 +22,9 @@ indice_5 :
   - altitude élevée
 indice_6 : 
   - centre historique colonial
+culture_g_score: 72
+culture_g_justification: "Capitale andine associée à l’Équateur, à l’altitude, à l’UNESCO et à l’histoire coloniale, offrant plusieurs angles classiques de quiz."
 ---
-
 ![Image de Quito](https://upload.wikimedia.org/wikipedia/commons/0/03/Museo_de_la_Catedral_de_Quito%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_94-96_HDR.JPG)
 
 ![[Carte_Quito.png]]

@@ -13,11 +13,9 @@ indice_5:
   - Capuche de moine
 indice_6:
   - Utilisé en médecine traditionnelle et parfois toxique
+culture_g_score: 60
+culture_g_justification: "Plante toxique reconnaissable et chargée de références mythologiques ou historiques, assez classique sans être prioritaire."
 ---
-
-
-
-
 ![Image de Aconit](https://upload.wikimedia.org/wikipedia/commons/f/ff/Aconitum_variegatum_110807f.jpg)
 
 ###### Questions

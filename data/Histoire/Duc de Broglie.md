@@ -20,9 +20,9 @@ indice_6 :
   - membre de l'Académie des sciences
 questions:
  - En 1877, homme politique rappelé par Mac Mahon à la tête du gouvernement pour faire  triompher la politique de l'ordre moral ?
+culture_g_score: 39
+culture_g_justification: "Titre nobiliaire surtout utile pour identifier Louis de Broglie, avec peu de valeur autonome en culture générale."
 ---
-
-
 ![Image de Duc de Broglie](https://upload.wikimedia.org/wikipedia/commons/a/a3/Atelier_Nadar_-_Victor%2C_duc_de_Broglie.jpg)
 
 ###### Questions

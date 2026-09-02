@@ -18,8 +18,9 @@ indice_6 :
   - Possède le don de prophétie
 questions:
  - Dans la [[mythologie grecque]], à quel dieu marin, surnommé le vieillard...
+culture_g_score: 40
+culture_g_justification: "Figure secondaire de la mythologie grecque, identifiable par son titre de « Vieil Homme de la Mer », mais peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Nérée](https://upload.wikimedia.org/wikipedia/commons/d/d9/%C3%89glise_Saint-N%C3%A9r%C3%A9e_de_Saint-N%C3%A9r%C3%A9e-de-Bellechasse_-_06.jpg)
 
 ###### Questions

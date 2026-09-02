@@ -24,8 +24,9 @@ indice_6 :
   - Hartford
 questions:
  - Le Massachusetts et le Vermont, je suis formée par les anciennes colonies anglaises...
+culture_g_score: 60
+culture_g_justification: "Région américaine classique pour Salem, Harvard, la colonisation et les paysages de Nouvelle-Angleterre, mais moins centrale qu'un État ou une ville majeure."
 ---
-
 ![Image de Nouvelle-Angleterre](https://upload.wikimedia.org/wikipedia/commons/3/35/S%C3%A9ismes._Nouvelle-Angleterre_%28dossier_36%29_-_btv1b10870475p_%28471_of_547%29.jpg)
 
 ![[Carte_Nouvelle-Angleterre.png]]

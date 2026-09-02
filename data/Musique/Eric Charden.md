@@ -22,8 +22,9 @@ indice_6 :
   - Le Prix des allumettes
 questions:
  - En 1967, à quel chanteur doit-on le titre "Le monde est gris, le monde est bleu"?
+culture_g_score: 44
+culture_g_justification: "Chanteur français surtout retenu pour le duo Stone et Charden et « L'Avventura », références assez occasionnelles."
 ---
-
 ![Image de Eric Charden](https://upload.wikimedia.org/wikipedia/commons/3/33/Eric_Charden.jpg)
 
 ###### Questions

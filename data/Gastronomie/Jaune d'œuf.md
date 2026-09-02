@@ -1,3 +1,8 @@
+---
+culture_g_score: 77
+culture_g_justification: "Élément alimentaire très courant et particulièrement rentable pour les recettes, la nutrition et la biologie de base."
+---
+
 
 ###### Questions 
 

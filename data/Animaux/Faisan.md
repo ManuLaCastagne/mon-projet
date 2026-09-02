@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la chasse
 questions:
  - Quel oiseau gallinacé, au plumage éclatant chez le mâle, porte un nom dérivé de celui d'un fleuve de Colchide nommé Phase?
+culture_g_score: 48
+culture_g_justification: "Le faisan est un oiseau assez connu, avec quelques liens historiques, cynégétiques et culturels, mais une fréquence de quiz modérée."
 ---
-
 ![Image de Faisan](https://upload.wikimedia.org/wikipedia/commons/1/14/El_Fais%C3%A1n_Dorado_-_P1630667.jpg)
 
 ###### Questions

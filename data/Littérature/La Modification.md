@@ -22,9 +22,9 @@ indice_6 :
   - Nouveau Roman
 questions:
  - Quel roman créé uniquement avec "vous" a valu le Renaudot à Michel Butor ?
+culture_g_score: 60
+culture_g_justification: "Roman classique du Nouveau Roman, régulièrement cité pour sa narration à la deuxième personne et son Prix Renaudot."
 ---
-
-
 ![Image de La Modification](https://upload.wikimedia.org/wikipedia/commons/f/fc/Second_thoughts_%288412413522%29.jpg)
 
 ###### Questions

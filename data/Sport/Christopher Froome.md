@@ -20,8 +20,9 @@ indice_6 :
   - Vuelta a España
 questions:
  - Entre 2013 et 2017, quel cycliste britannique né au Kenya remporte quatre fois le Tour de France ?
+culture_g_score: 80
+culture_g_justification: "Vainqueur de quatre Tours et des trois grands tours, il constitue une référence fréquente du cyclisme contemporain."
 ---
-
 ![Image de Christopher Froome](https://upload.wikimedia.org/wikipedia/commons/2/26/Christopher_Froome_%28cropped%29.jpg)
 
 ###### Questions

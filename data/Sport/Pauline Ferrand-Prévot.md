@@ -20,8 +20,9 @@ indice_6 :
   - Médailles
 questions:
  - En 2015, un an après son titre mondial sur route, quelle cycliste française remporte...
+culture_g_score: 60
+culture_g_justification: "Championne française de premier plan, utile pour les questions sur le cyclisme féminin et les titres mondiaux multisports."
 ---
-
 ![Image de Pauline Ferrand-Prévot](https://upload.wikimedia.org/wikipedia/commons/6/65/Pauline_Ferrand-Pr%C3%A9vot_2018.jpg)
 
 ###### Questions

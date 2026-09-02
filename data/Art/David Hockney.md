@@ -21,8 +21,9 @@ indice_5:
   - piscine californienne
 indice_6:
   - perspectives innovantes
+culture_g_score: 72
+culture_g_justification: "Hockney permet des questions sur le pop art, la Californie, le portrait et l'art numérique, même s'il reste moins fréquent que les maîtres classiques."
 ---
-
 ![Image de David Hockney](https://upload.wikimedia.org/wikipedia/commons/2/26/David_Hockney_2017_at_Flash_Expo.jpg)
 
 ###### Questions

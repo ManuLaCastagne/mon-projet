@@ -18,8 +18,9 @@ indice_5 :
   - Romeo Ferraris
 indice_6 : 
   - Alfasud
+culture_g_score: 64
+culture_g_justification: "Marque automobile connue, exploitable en sport automobile, design et industrie, mais moins centrale que les grandes références historiques de l’automobile."
 ---
-
 ![Image de Alpha Romeo]()
 
 ###### Questions

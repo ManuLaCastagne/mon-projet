@@ -20,8 +20,9 @@ indice_6 :
   - Grands Chelems
 questions:
  - Joueuse de tennis née en 1987, j'ai remporté mon premier tournoi sur le circuit WTA à Tokyo à l'âge de 16 ans. Ayant gagné Wimbledon l'année suivante en battant Serena Williams en finale, je suis devenue en 2005 la première Russe de l'histoire classée numéro 1 mondiale. Joueuse...
+culture_g_score: 80
+culture_g_justification: "Championne de tennis mondialement connue, associée à Wimbledon, au Grand Chelem en carrière, à sa biographie et à sa suspension."
 ---
-
 ![Image de Sharapova](https://upload.wikimedia.org/wikipedia/commons/1/10/Maria_Sharapova_at_2009_Roland_Garros%2C_Paris%2C_France.jpg)
 
 ###### Questions

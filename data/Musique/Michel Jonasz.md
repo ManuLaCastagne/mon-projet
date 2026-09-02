@@ -22,8 +22,9 @@ indice_6 :
   - Unis vers l'uni
 questions:
  - Chanteur français né en 1947,  je débute ma carrière au sein du groupe Le King Set, mais c'est en solo que je me fais connaître avec des chansons comme "J'veux pas qu'tu t'en ailles" ou "Dites-moi". Me tournant vers des influences jazz, blues ou même tziganes dans les années 80, je suis récompensé...
+culture_g_score: 60
+culture_g_justification: "Chanteur français durablement connu pour plusieurs standards et son activité d’acteur, mais d’importance surtout nationale."
 ---
-
 ![Image de Michel Jonasz](https://upload.wikimedia.org/wikipedia/commons/2/29/Michel_Jonasz_.jpg)
 
 ###### Questions

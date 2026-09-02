@@ -15,8 +15,9 @@ indice_6 :
   - Animal de compagnie
 questions:
  - Race de chat pouvant être himalayen, je possède un pelage fourni, long et soyeux sauf ma variété exotic shorthair au poil mi-long.  Race au tempérament à la fois doux et chasseur, très représentée dans les expositions, je suis le chat fétiche...
+culture_g_score: 48
+culture_g_justification: "Race de chat célèbre et visuellement identifiable, mais principalement limitée aux questions sur les animaux domestiques."
 ---
-
 ![Image de Persan](https://upload.wikimedia.org/wikipedia/commons/5/5e/Persan_%2895%29%2C_mairie%2C_avenue_Gaston-Vermeire_%281%29.jpg)
 
 ###### Questions

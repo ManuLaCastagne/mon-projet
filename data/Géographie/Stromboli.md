@@ -24,8 +24,9 @@ indice_6 :
   - Sciara del Fuoco
 questions:
  - Quel volcan culmine à 926 m  sur la plus septentrionale des îles Eoliennes?
+culture_g_score: 80
+culture_g_justification: "Île et volcan emblématiques, utiles en géographie, volcanologie, histoire des sciences et culture cinématographique."
 ---
-
 ![Image de Stromboli](https://upload.wikimedia.org/wikipedia/commons/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg)
 
 ![[Carte_Stromboli.png]]

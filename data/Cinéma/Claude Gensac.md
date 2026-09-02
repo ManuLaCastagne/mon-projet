@@ -22,8 +22,9 @@ indice_6 :
   - comédie française
 questions:
  - Actrice née en 1927, en 1960, j'incarne Mme de Montespan dans le téléfilm "Le Drame des poisons" de Stellio Lorenzi.  Ayant souvent joué à mes débuts des rôles de bourgeoise, j'ai incarné la grand-mère du film "Baden Baden", sorti l'année de ma disparition en 2016.  Célèbre pour avoir joué l'épouse de Louis de Funès dans plusieurs films à partir des années 60...
+culture_g_score: 56
+culture_g_justification: "Actrice populaire surtout grâce à ses rôles d’épouse de Louis de Funès, ce qui fournit plusieurs indices mais dans un périmètre étroit."
 ---
-
 ![Image de Claude Gensac](https://upload.wikimedia.org/wikipedia/commons/6/61/Claude_Gensac_%28cropped%29.jpg)
 
 ###### Questions

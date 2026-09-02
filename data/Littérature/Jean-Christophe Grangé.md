@@ -22,8 +22,9 @@ indice_6 :
   - journaliste
 questions:
  - En 1998, quel écrivain français publie son 2e roman intitulé "Les Rivières pourpres" ?
+culture_g_score: 60
+culture_g_justification: "Auteur français de thrillers à succès, Grangé est identifiable par Les Rivières pourpres et ses adaptations, mais sa portée culturelle demeure limitée."
 ---
-
 ![Image de Jean-Christophe Grangé](https://upload.wikimedia.org/wikipedia/commons/8/8f/Jean-Christophe_Grange5.jpg)
 
 ###### Questions

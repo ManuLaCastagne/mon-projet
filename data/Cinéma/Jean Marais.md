@@ -20,8 +20,9 @@ indice_5:
   - Le Capitan
 indice_6:
   - acteur et réalisateur français
+culture_g_score: 72
+culture_g_justification: "Figure majeure du cinéma fantastique et de cape et d’épée, liée à Cocteau, Fantômas et plusieurs classiques français."
 ---
-
 ![Image de Jean Marais](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flickr_-_%E2%80%A6trialsanderrors_-_Jean_Marais_by_Carl_Van_Vechten%2C_1949.jpg)
 
 ###### Questions

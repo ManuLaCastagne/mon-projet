@@ -19,9 +19,9 @@ indice_6 :
   - un mardi tire son nom de lui
 questions:
  - Quelle ville phénicienne, établie au sud de Beyrouth est aujourd'hui appelée Sour ?
+culture_g_score: 60
+culture_g_justification: "Týr est utile pour le sacrifice de sa main, Fenrir, la guerre et l'origine du mardi germanique, mais reste moins central que Thor ou Odin."
 ---
-
-
 ![Image de Tyr](https://upload.wikimedia.org/wikipedia/commons/1/18/Tyr_and_Fenrir-John_Bauer.jpg)
 
 ###### Questions

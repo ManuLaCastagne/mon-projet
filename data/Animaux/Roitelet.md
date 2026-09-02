@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de modestie et de ténacité
 questions:
  - Passereau  de la famille des Régulidés, je suis représenté par 6 espèces.
+culture_g_score: 40
+culture_g_justification: "Petit oiseau remarquable par sa taille, mais référence ornithologique assez étroite et peu récurrente."
 ---
-
-
 ![Image de Roitelet](https://upload.wikimedia.org/wikipedia/commons/d/d2/Rosa_%27Le_Roitelet%27_01.jpg)
 
 ###### Questions

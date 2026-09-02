@@ -22,9 +22,9 @@ indice_6 :
   - impressionnisme français
 questions:
  - après que Gene Kelly l'a vu se produire sur scène, pour quelle célèbre comédie musicale filmée de Vincente Minnelli, se déroulant également dans la capitale française, Georges Guétary a-t-il été engagé?
+culture_g_score: 80
+culture_g_justification: "Classique de la comédie musicale hollywoodienne, il permet d’aborder Gershwin, Gene Kelly, les Oscars, Paris et Vincente Minnelli."
 ---
-
-
 ![Image de Un Américain à Paris](https://upload.wikimedia.org/wikipedia/commons/f/f1/Un_Mariage_bien_am%C3%A9ricain_-_sc%C3%A9nario_%28r%C3%A9sum%C3%A9_conforme_%C3%A0_la_vue%29_avec_photogrammes_-_btv1b6404817x_%283_of_3%29.jpg)
 
 ###### Questions

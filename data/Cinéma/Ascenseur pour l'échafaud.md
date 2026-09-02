@@ -22,8 +22,9 @@ indice_6 :
   - Ascenseur bloqué dans un immeuble
 questions:
  - En 1958, quel film de Louis Malle doit son titre au fait qu'il met en scène un homme qui se retrouve bloqué dans un ascenseur après avoir commis un meurtre ?
+culture_g_score: 80
+culture_g_justification: "Classique français fréquemment relié à Louis Malle, Jeanne Moreau, Miles Davis et la Nouvelle Vague."
 ---
-
 ![Image de Ascenseur pour l'échafaud](https://upload.wikimedia.org/wikipedia/commons/2/22/Kinema-Junpo-1959-February-Special-4.jpg)
 
 ###### Questions

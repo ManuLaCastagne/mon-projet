@@ -19,9 +19,9 @@ indice_5 :
   - français d'origine grecque
 indice_6 : 
   - relation avec les médias
+culture_g_score: 20
+culture_g_justification: "Chroniqueur et influenceur récent principalement connu d'un public de téléréalité, avec une faible rentabilité en culture générale."
 ---
-
-
 ![Image de Hugo Manos]()
 
 ###### Questions

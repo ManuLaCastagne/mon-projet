@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Film sorti en 2017 ayant reçu 6 Oscar, j'ai été inspiré, selon mon réalisateur, par Jacques Demy et je dois ma BO à Justin Hurwitz. 
  - Débutant par une scène sur une autoroute dont la chorégraphie a exigé 3 mois de répétitions, je raconte la relation amoureuse, contrariée par leurs ambitions...
+culture_g_score: 80
+culture_g_justification: "Succès mondial associé à Chazelle, aux comédies musicales, à Los Angeles, aux Oscars et à la célèbre erreur de l'enveloppe."
 ---
-
 ![Image de La La land](https://upload.wikimedia.org/wikipedia/commons/1/17/La_La_Land_Logo.svg)
 
 ###### Questions

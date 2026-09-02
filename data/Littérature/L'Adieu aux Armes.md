@@ -22,10 +22,9 @@ indice_5:
   - roman d'amour
 indice_6:
   - ambulance
+culture_g_score: 80
+culture_g_justification: "Roman majeur d’Hemingway sur la Première Guerre mondiale, régulièrement interrogé par son auteur, ses personnages et ses adaptations."
 ---
-
-
-
 ![Image de Adieu aux Armes](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ErnestHemingway.jpg/1280px-ErnestHemingway.jpg)
 
 ###### Questions

@@ -22,10 +22,9 @@ indice_6 :
   - Variété rock
 questions:
  - Je prends pour prof de danse une chorégraphe argentine à qui je dédie le 1er tube de mon groupe. Chanteuse à la voix puissante, à forte personnalité. En 2011, je sors mon 1er album solo "Ring n'roll" 4 ans après la fin des Rita Mitsouko.
+culture_g_score: 60
+culture_g_justification: "Chanteuse emblématique des Rita Mitsouko, utile pour quelques questions sur le rock français, le duo et la scène alternative."
 ---
-
-
-
 ![Image de Catherine Ringer](https://upload.wikimedia.org/wikipedia/commons/f/fc/Les_Rita_Mitsouko_f7122439.jpg)
 
 ###### Questions

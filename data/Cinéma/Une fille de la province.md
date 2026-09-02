@@ -18,8 +18,9 @@ indice_5 :
   - Comédie romantique
 indice_6 : 
   - Années 1960
+culture_g_score: 44
+culture_g_justification: "Film hollywoodien de 1954 surtout utile pour Grace Kelly et son Oscar, mais rarement interrogé comme œuvre autonome."
 ---
-
 ![Image de Une fille de la province](https://upload.wikimedia.org/wikipedia/commons/3/3e/Grace_Kelly_1955.jpg)
 
 ###### Questions

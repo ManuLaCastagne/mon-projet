@@ -20,8 +20,9 @@ indice_5 :
   - espionnage
 indice_6 : 
   - 2006
+culture_g_score: 80
+culture_g_justification: "Épisode important de James Bond, rentable pour Daniel Craig, Ian Fleming, Vesper Lynd, le poker et le renouvellement de la franchise."
 ---
-
 ![Image de Casino Royale](https://upload.wikimedia.org/wikipedia/commons/d/dc/Casino_Royale_Hotel_%26_Casino.jpg)
 
 ###### Questions

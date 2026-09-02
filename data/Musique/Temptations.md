@@ -22,8 +22,9 @@ indice_6 :
   - soul music
 questions:
  - En 1972, quelle formation de soul music formée autour d'Otis Williams connaît le succès avec "Papa was a rolling stone"?
+culture_g_score: 80
+culture_g_justification: "Groupe phare de la Motown et de la soul, associé à des tubes, des membres célèbres et une histoire musicale riche."
 ---
-
 ![Image de Temptations](https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Temptations_on_the_Ed_Sullivan_Show.JPG)
 
 ###### Questions

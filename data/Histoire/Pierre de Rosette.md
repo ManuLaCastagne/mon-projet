@@ -20,8 +20,9 @@ indice_6 :
   - écriture démotique
 questions:
  - Objet en granodiorite d'environ 72cm sur 75 dans mes parties les plus grandes, j'ai notamment intéressé le scientifique Thomas Young quand j'ai été rapporté en Angleterre en 1801...
+culture_g_score: 100
+culture_g_justification: "Objet mondialement célèbre, au croisement de l’Égypte antique, de l’archéologie, de Champollion, des langues et de l’histoire napoléonienne."
 ---
-
 ![Image de Pierre de Rosette](https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG)
 
 ###### Questions

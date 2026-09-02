@@ -22,8 +22,9 @@ indice_6 :
   - années 1960
 questions:
  - Dans un ouvrage de Georges Chaulet.  Apparaissant dans 52 volumes de la Bibliothèque rose, je côtoie des adversaires tels que Bulldozer...
+culture_g_score: 60
+culture_g_justification: "Héroïne populaire de la littérature jeunesse française, identifiable par sa longue série, ses adaptations et son créateur."
 ---
-
 ![Image de Fantômette](https://upload.wikimedia.org/wikipedia/commons/a/ad/Pas_de_Fant%C3%B4mette_%283535045249%29.jpg)
 
 ###### Questions

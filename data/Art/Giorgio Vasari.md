@@ -23,8 +23,9 @@ indice_6 :
   - historien de l'art
 questions:
  - Quel artiste utilisait ce Schiste argileux se divisant en feuillets fins pour ses oeuvres ?
+culture_g_score: 71
+culture_g_justification: "Vasari est central pour l’histoire de l’art de la Renaissance, notamment par ses Vies, son activité d’architecte et la diffusion de la notion de Renaissance."
 ---
-
 ![Image de Giorgio Vasari](https://upload.wikimedia.org/wikipedia/commons/7/78/Giorgio_Vasari_-_Allegory_of_Justice_and_Truth_%281543%29_-_Google_Arts_and_Culture.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5 :
   - ingénieur
 indice_6 : 
   - Chrome
+culture_g_score: 56
+culture_g_justification: "Dirigeant reconnaissable de la technologie contemporaine, surtout interrogé pour Google, Alphabet, Chrome et son origine indienne."
 ---
-
-
 ![Image de Sundar Pichai](https://upload.wikimedia.org/wikipedia/commons/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg)
 
 ###### Questions

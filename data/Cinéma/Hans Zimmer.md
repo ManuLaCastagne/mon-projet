@@ -20,8 +20,9 @@ indice_5 :
   - Pirates des Caraïbes
 indice_6 : 
   - The Dark Knight
+culture_g_score: 96
+culture_g_justification: "Compositeur extrêmement fréquent en quiz, reliant musique de film, grands réalisateurs, blockbusters, Oscars et œuvres mondialement connues."
 ---
-
 ![Image de Hans Zimmer](https://upload.wikimedia.org/wikipedia/commons/2/2b/Hans-Zimmer-profile.jpg)
 
 ###### Questions

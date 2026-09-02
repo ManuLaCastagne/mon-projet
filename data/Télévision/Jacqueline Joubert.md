@@ -20,8 +20,9 @@ indice_6 :
   - a reçu le 7 d'or pour la meilleure productrice de l'année en 1986
 questions:
  - Le 25 mai 1949, quelle comédienne de formation, future épouse de Georges de Caunes, fait ses débuts de speakerine à la télévision?
+culture_g_score: 47
+culture_g_justification: "Pionnière de la télévision française, elle peut être citée dans quelques questions historiques sur l'audiovisuel, sans être une figure majeure du grand public."
 ---
-
 ![Image de Jacqueline Joubert](https://upload.wikimedia.org/wikipedia/commons/b/b7/JacquelineJoubert-1954-Harcourt.png)
 
 ###### Questions

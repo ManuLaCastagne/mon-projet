@@ -24,8 +24,9 @@ indice_6 :
   - ville fondée en 1634
 questions:
  - De quelle ville de la province de Québec, établie au confluent du Saint-Laurent et du Saint-Maurice, les habitants sont les Trifluviens?
+culture_g_score: 40
+culture_g_justification: "Trois-Rivières est une ville québécoise historique, mais sa rentabilité demeure régionale et ses angles de quiz sont peu nombreux."
 ---
-
 ![Image de Trois-Rivières](https://upload.wikimedia.org/wikipedia/commons/3/39/Ancien_march%C3%A9_de_Trois-rivi%C3%A8res_%28Guadeloupe%29.jpg)
 
 ![[Carte_Trois-Rivières.png]]

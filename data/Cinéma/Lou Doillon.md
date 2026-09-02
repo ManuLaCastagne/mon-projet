@@ -18,8 +18,9 @@ indice_5 :
   - Un enfant de toi
 indice_6 : 
   - Demi-sœur
+culture_g_score: 44
+culture_g_justification: "Actrice issue de la famille Birkin-Doillon, mais dont les références restent relativement limitées dans la culture générale."
 ---
-
 ![Image de Lou Doillon](https://upload.wikimedia.org/wikipedia/commons/a/a2/Lou_Doillon_Deauville_2013.jpg)
 
 ###### Questions

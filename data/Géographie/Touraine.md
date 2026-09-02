@@ -22,8 +22,9 @@ indice_5 :
   - Amboise
 indice_6 : 
   - Chenonceau
+culture_g_score: 60
+culture_g_justification: "La Touraine est une région culturelle et patrimoniale classique, surtout associée aux châteaux de la Loire et à son patrimoine historique."
 ---
-
 ![[Carte_Touraine.png]]
 
 ###### Questions

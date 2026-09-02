@@ -20,9 +20,9 @@ indice_6 :
   - Fédération internationale de gymnastique
 questions:
  - Agrès de gymnastique auquel sont associés les figures appelées Kovacs et Kolman, mes exercices sont constitués uniquement de mouvements d'élan sans arrêt... Pratiqué exclusivement par les hommes, je donne lieu, au plus haut niveau, à des envols et des lâchers pouvant être très spectaculaires...
+culture_g_score: 60
+culture_g_justification: "Agrès olympique identifiable et associé à des figures de gymnastique, mais limité au domaine gymnique."
 ---
-
-
 ![Image de Barre fixe](https://upload.wikimedia.org/wikipedia/commons/c/ce/Barre_fixe.svg)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - Brutus
 indice_6 : 
   - sabotage
+culture_g_score: 44
+culture_g_justification: "Jeu de stratégie récent bénéficiant d'une bonne visibilité française, mais encore peu installé dans les références classiques des quiz."
 ---
-
 ![Image de Les Traîtres](https://upload.wikimedia.org/wikipedia/commons/9/99/Traitors-gate.ogv)
 
 ###### Questions

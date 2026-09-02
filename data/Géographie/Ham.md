@@ -24,8 +24,9 @@ indice_6 :
   - viande fumée
 questions:
  - Quelle bourgade de la Somme est célèbre pour son fort d'où Louis-Napoléon Bonaparte...
+culture_g_score: 20
+culture_g_justification: "Petite commune de la Somme, très rarement interrogée hors de questions locales ou d’anecdotes historiques."
 ---
-
 ![Image de Ham](https://upload.wikimedia.org/wikipedia/commons/7/7b/Smoked_Ham_01.jpg)
 
 ![[Carte_Ham.png]]

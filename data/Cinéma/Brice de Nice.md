@@ -22,8 +22,9 @@ indice_6 :
   - je t'ai cassé
 questions:
  - En 2005, dans un film de James Huth dont l'action débute à Nice, quel prénom porte le surfeur...
+culture_g_score: 57
+culture_g_justification: "Comédie populaire française aux répliques célèbres, mais dont l’intérêt quiz reste surtout centré sur Jean Dujardin et quelques scènes cultes."
 ---
-
 ![Image de Brice de Nice](https://upload.wikimedia.org/wikipedia/commons/e/ed/People_cosplaying_%22Brice_de_Nice%22.jpg)
 
 ###### Questions

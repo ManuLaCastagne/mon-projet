@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Depuis 2014, quel sprinteur haut-savoyard, né en juin 1990, est l'athlète masculin le plus médaillé de l'histoire des Championnats d'Europe?
  - En 2010, à Barcelone, quel athlète français remporte 3 titres de champion d'Europe, bien sûr, à Barcelone, sur 100 m, 200 m et 4 x 100 m ?
+culture_g_score: 60
+culture_g_justification: "Sprinteur français associé à un record national, aux Championnats d'Europe 2010 et à une performance olympique notable."
 ---
-
 ![Image de Christophe Lemaître](https://upload.wikimedia.org/wikipedia/commons/4/4c/Men_100_m_French_Athletics_Championships_2013_t153458.jpg)
 
 ###### Questions

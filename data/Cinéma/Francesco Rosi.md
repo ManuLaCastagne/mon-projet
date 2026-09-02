@@ -22,8 +22,9 @@ indice_6 :
   - 1922-2015
 questions:
  - Et la mafia dans "Cadavres exquis" et "Oublier Palerme". Je suis...
+culture_g_score: 48
+culture_g_justification: "Réalisateur italien important pour le cinéma politique, mais relativement spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Francesco Rosi](https://upload.wikimedia.org/wikipedia/commons/c/c7/Francesco_Rosi_Cannes.jpg)
 
 ###### Questions

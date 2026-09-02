@@ -15,8 +15,9 @@ indice_6 :
   - Plante ornementale
 questions:
  - Quelle plante, devant son nom à un ancien gouverneur français, est représentée par l'espèce dite semperflorens qui produit de très petites graines?
+culture_g_score: 48
+culture_g_justification: "Fleur d’intérieur et de jardin très familière, mais ses questions restent principalement horticoles et peu transversales."
 ---
-
 ![Image de Bégonia](https://upload.wikimedia.org/wikipedia/commons/7/7b/Begonia_grandis_%27claret_jug%27_01.jpg)
 
 ###### Questions

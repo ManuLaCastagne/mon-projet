@@ -20,9 +20,9 @@ indice_5:
   - La vie en littérature sous le pseudonyme de Vernon Sullivan
 indice_6:
   - Engagé contre la censure et la guerre
+culture_g_score: 80
+culture_g_justification: "Figure française originale à la croisée de la littérature, du jazz, de la chanson et du cinéma, avec plusieurs œuvres très quizables."
 ---
-
-
 ![Image de Boris Vian](https://upload.wikimedia.org/wikipedia/commons/2/22/Boris_Vian_-_WIKI_retouched.jpg)
 
 ###### Questions

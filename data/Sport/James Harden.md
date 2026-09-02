@@ -20,8 +20,9 @@ indice_6 :
   - All-Star
 questions:
  - On cherche maintenant un basketteur américain, comptant parmi les meilleurs mrqueurs de la NBA, membre des Houston Rockets, surnommé "The Beard" ?
+culture_g_score: 73
+culture_g_justification: "Star contemporaine de la NBA, Harden revient par ses récompenses, ses équipes, ses records et ses transferts."
 ---
-
 ![Image de James Harden](https://upload.wikimedia.org/wikipedia/commons/a/a8/James_Harden_pregame.jpg)
 
 ###### Questions

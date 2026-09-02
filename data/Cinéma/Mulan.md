@@ -22,8 +22,9 @@ indice_6 :
   - chanson Réflexion
 questions:
  - En 2020, dans quel film, inspiré d'une légende chinoise, la fille d'un guerrier se déguise en homme pour prendre sa place au combat ?
+culture_g_score: 84
+culture_g_justification: "Classique Disney mondialement connu, permettant des questions sur l’animation, la légende chinoise, Disney et ses personnages."
 ---
-
 ![Image de Mulan](https://upload.wikimedia.org/wikipedia/commons/5/53/Mulan_Logo_Black.svg)
 
 ###### Questions

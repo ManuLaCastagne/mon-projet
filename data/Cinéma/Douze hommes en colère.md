@@ -18,8 +18,9 @@ indice_5 :
   - 1957
 indice_6 : 
   - Verdict unanime
+culture_g_score: 80
+culture_g_justification: "Grand classique judiciaire régulièrement interrogé à travers Sidney Lumet, Henry Fonda, le huis clos et les thèmes de la justice."
 ---
-
 ![Image de Douze hommes en colère]()
 
 ###### Questions

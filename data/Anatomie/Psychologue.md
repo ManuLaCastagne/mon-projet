@@ -2,6 +2,8 @@
 tags:
   - Santé
   - France
+culture_g_score: 68
+culture_g_justification: "Profession connue et interrogée sous des angles psychologiques, sociaux, professionnels et historiques."
 ---
 ###### Questions 
 

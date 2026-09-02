@@ -20,8 +20,9 @@ indice_6 :
   - films mythiques
 questions:
  - A quel groupe d'humoriste est attribuée la phrase de Groucho   "J'ai passé une excellente soirée… Mais ce n'était pas celle-ci."
+culture_g_score: 72
+culture_g_justification: "Collectif majeur de la comédie américaine, exploitable en cinéma, humour, télévision et histoire culturelle, sans être un marronnier francophone absolu."
 ---
-
 ![Image de Marx Brothers](https://upload.wikimedia.org/wikipedia/commons/b/b4/Marx_brothers_Tonight_Show.jpg)
 
 ###### Questions

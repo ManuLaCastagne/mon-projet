@@ -20,8 +20,9 @@ indice_5 :
   - comédienne américaine
 indice_6 : 
   - Le Lauréat
+culture_g_score: 71
+culture_g_justification: "Actrice majeure du cinéma américain, facilement associée à Mrs. Robinson, à l’Oscar et à Mel Brooks."
 ---
-
 ![Image de Anne Bancroft](https://upload.wikimedia.org/wikipedia/commons/7/79/Anne_Bancroft_Chrysler_Theatre_1964_%28cropped%29.jpg)
 
 ###### Questions

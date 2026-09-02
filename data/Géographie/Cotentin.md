@@ -24,9 +24,9 @@ indice_6 :
   - Barfleur
 questions:
  - Quelle presqu'île de la Normandie forme la majeure partie de la Manche ?
+culture_g_score: 60
+culture_g_justification: "Péninsule normande associée au débarquement, au nucléaire de La Hague et à quelques repères maritimes, mais pas omniprésente."
 ---
-
-
 ![Image de Cotentin](https://upload.wikimedia.org/wikipedia/commons/2/23/Cherbourg-en-Cotentin_OSM_01.png)
 
 ![[Carte_Cotentin.png]]

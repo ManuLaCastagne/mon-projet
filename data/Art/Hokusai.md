@@ -23,8 +23,9 @@ indice_6 :
   - Edo
 questions:
  - En 1831, dans l'estampe "La Grande Vague", quel artiste japonais représente une mer agitée ?
+culture_g_score: 92
+culture_g_justification: "Hokusai est universellement associé à La Grande Vague, aux estampes japonaises, au mont Fuji et à l’influence du japonisme."
 ---
-
 ![Image de Hokusai](https://upload.wikimedia.org/wikipedia/commons/1/1c/Hokusai_as_an_old_man.jpg)
 
 ###### Questions

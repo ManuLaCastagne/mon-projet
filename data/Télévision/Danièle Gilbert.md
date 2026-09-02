@@ -19,11 +19,9 @@ indice_5:
   - France
 indice_6:
   - sourire
+culture_g_score: 44
+culture_g_justification: "Animatrice populaire des années 1970, mais aujourd’hui surtout mobilisée dans des questions rétrospectives sur la télévision française."
 ---
-
-
-
-
 ![Image de Danièle Gilbert](https://upload.wikimedia.org/wikipedia/commons/4/46/Dani%C3%A8le_Gilbert_et_Fr%C3%A9d%C3%A9ric_Mitterrand_%28cropped%29.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Panacée
 indice_6 : 
   - Vol des troupeaux
+culture_g_score: 100
+culture_g_justification: "Grand dieu olympien aux fonctions multiples, omniprésent dans les mythes, les œuvres antiques et les questions de culture générale."
 ---
-
 ![Image de Hermès](https://upload.wikimedia.org/wikipedia/commons/e/e5/Exterior_view_of_the_illuminated_facade_of_Maison_Herm%C3%A8s%2C_Ginza%2C_Tokyo%2C_Japan.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - alliés contre Allemagne
 questions:
  - En avril-mai 1940, quel port norvégien est le théâtre de combats navals et terrestres entre Allemand et Franco-Britanniques ?
+culture_g_score: 48
+culture_g_justification: "Lieu important de la campagne de Norvège, mais généralement limité à une question spécialisée sur la Seconde Guerre mondiale."
 ---
-
 ![Image de Narvik](https://upload.wikimedia.org/wikipedia/commons/3/3b/Norway_Narvik_3.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - 2009
 questions:
  - Grandement inspiré par la BD "La Vie secrète des jeunes" que mon réalisateur, le dessinateur Riad Sattouf, publiait dans "Charlie Hebdo", j'ai révélé les acteurs Vincent Lacoste et Anthony Sonigo. Racontant la vie de 2 adolescents...
+culture_g_score: 48
+culture_g_justification: "Film marquant de Riad Sattouf et de Vincent Lacoste, utile surtout pour le cinéma français contemporain."
 ---
-
 ![Image de Les Beaux Gosses](https://upload.wikimedia.org/wikipedia/commons/b/b9/Les_beaux_gosses.jpg)
 
 ###### Questions

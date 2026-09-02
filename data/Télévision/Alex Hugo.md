@@ -20,8 +20,9 @@ indice_6 :
   - village de Lusagne
 questions:
  - Série avec Lionnel Astier et Samuel le Bihan.
+culture_g_score: 56
+culture_g_justification: "Série policière française durable et populaire, offrant quelques repères sur la fiction télévisée contemporaine."
 ---
-
 ![Image de Alex Hugo](https://upload.wikimedia.org/wikipedia/commons/8/8a/Alex_Thomson_%285%29.jpg)
 
 ###### Questions

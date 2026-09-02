@@ -22,8 +22,9 @@ indice_6 :
   - Fast & Furious
 questions:
  - Quel comédien britannique, à l'affiche de la série de films "Le Transporteur"...
+culture_g_score: 64
+culture_g_justification: "Vedette identifiable du cinéma d’action grâce au Transporteur et à plusieurs franchises, sans être une figure majeure de l’histoire du cinéma."
 ---
-
 ![Image de Jason Statham](https://upload.wikimedia.org/wikipedia/commons/d/d3/Jason_Statham_2018.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Ledra Street
 indice_6 : 
   - Sud grec et Nord turc
+culture_g_score: 60
+culture_g_justification: "Capitale de Chypre régulièrement associée à sa division, à la question chypriote et à la Méditerranée orientale, mais de portée limitée."
 ---
-
 ![Image de Nicosie](https://upload.wikimedia.org/wikipedia/commons/2/2c/Nicosia_01-2017_img23_View_from_Shacolas_Tower.jpg)
 
 ![[Carte_Nicosie.png]]

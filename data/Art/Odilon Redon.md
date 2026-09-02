@@ -23,9 +23,9 @@ indice_6 :
   - fleurs et papillons
 questions:
  - A la fin du XIXe siècle, à quel peintre prénommé Odilon doit-on un ensemble de fusains et de lithos appelé "Les Noirs" ?
+culture_g_score: 64
+culture_g_justification: "Redon est un représentant important du symbolisme, intéressant pour ses gravures, ses œuvres oniriques, les Nabis et le pastel."
 ---
-
-
 ![Image de Odilon Redon](https://upload.wikimedia.org/wikipedia/commons/9/94/Odilon_Redon_-_Buddha_-_Google_Art_Project.jpg)
 
 ###### Questions

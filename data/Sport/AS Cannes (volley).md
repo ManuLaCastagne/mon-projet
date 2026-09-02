@@ -20,9 +20,9 @@ indice_6 :
   - Trophées
 questions:
  - En 2021, quel club de volley-ball masculin du sud de la France a remporté son 10e sacre ?
+culture_g_score: 31
+culture_g_justification: "Club français historiquement notable dans le volley, mais très peu rentable pour un joueur généraliste hors de questions spécialisées."
 ---
-
-
 ![Image de AS Cannes (volley)](https://upload.wikimedia.org/wikipedia/commons/e/e9/Finale_coupe_de_france_de_volley_ball_f%C3%A9minin_2009_cannes_mulhouse.jpg)
 
 ###### Questions

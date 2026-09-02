@@ -22,8 +22,9 @@ indice_6 :
   - 2008
 questions:
  - En 2008, dans quelle comédie, réalisée par eux-mêmes, Eric et Ramzy se retrouvent-ils dans une ville de Paris vidée de ses habitants ?
+culture_g_score: 40
+culture_g_justification: "Comédie française connue surtout des amateurs d'Éric et Ramzy, avec une présence faible dans les quiz généralistes."
 ---
-
 ![Image de Seuls Two](https://upload.wikimedia.org/wikipedia/commons/4/40/Seuls_Two_-_logo.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - XVIIIe siècle
 questions:
  - Quel roman épistolaire de Jean-Jacques Rousseau décrit la passion amoureuse entre une jeune femme et son précepteur Saint-Preux ?
+culture_g_score: 80
+culture_g_justification: "Grand roman épistolaire de Rousseau, il est utile pour les Lumières, le préromantisme, l’histoire des idées et la littérature française."
 ---
-
 ![Image de La Nouvelle Héloïse](https://upload.wikimedia.org/wikipedia/commons/7/7f/RousseauJulie.jpg)
 
 ###### Questions

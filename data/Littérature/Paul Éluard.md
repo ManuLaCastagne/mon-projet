@@ -20,9 +20,9 @@ indice_5:
   - André Breton
 indice_6:
   - Écrire contre le silence
+culture_g_score: 80
+culture_g_justification: "Poète majeur du surréalisme et de la Résistance, particulièrement rentable grâce au poème Liberté et à ses engagements."
 ---
-
-
 ![Image de Paul Éluard](https://upload.wikimedia.org/wikipedia/commons/3/34/Paul_%C3%89luard.jpg)
 
 ###### Questions

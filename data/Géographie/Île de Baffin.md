@@ -22,8 +22,9 @@ indice_6:
   - fjords et montagnes
 questions:
   - Quelle île du Canada, appartenant à l'archipel arctique et également appelée Qikiqtaaluk, est séparée du Groenland par une mer portant son nom?
+culture_g_score: 47
+culture_g_justification: "Grande île arctique intéressante pour l’exploration et la géographie canadienne, mais rarement prioritaire pour un généraliste."
 ---
-
 ![Image de Île de Baffin](https://upload.wikimedia.org/wikipedia/commons/e/ef/Sea_Ice_off_Baffin_Island.jpg)
 
 ![[Carte_Île de Baffin.png]]

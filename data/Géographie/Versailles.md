@@ -25,8 +25,9 @@ indice_6 :
 questions:
  - De 1871 à 1879, dans quelle ville l'Assemblée Nationale a-t-elle siégé ?
  - En 1789, c'est de l'histoire, quelle ville de l'actuel département des Yvelines est rebaptisée "Berceau de la Liberté" ?
+culture_g_score: 100
+culture_g_justification: "Référence exceptionnelle reliant monarchie française, Louis XIV, architecture, diplomatie, histoire mondiale et patrimoine."
 ---
-
 ![[Carte_Versailles.png]]
 
 ###### Questions

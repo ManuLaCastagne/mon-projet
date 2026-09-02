@@ -20,8 +20,9 @@ indice_6 :
   - disparition mystérieuse
 questions:
  - Au matin du 8 mai 1927, à bord de quel biplan les aviateurs Nungesser et Coli s'envolent-ils...
+culture_g_score: 40
+culture_g_justification: "Épisode marquant de l’histoire de l’aviation française, mais essentiellement limité à la tentative de Nungesser et Coli en 1927."
 ---
-
 ![Image de Oiseau Blanc](https://upload.wikimedia.org/wikipedia/commons/d/d0/Carte_postale-Oiseau_blanc-1927.jpg)
 
 ###### Questions

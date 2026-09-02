@@ -22,8 +22,9 @@ indice_6 :
   - aveugle
 questions:
  - Dans quel roman d'André Gide, paru en 1919, une jeune non-voyante est-elle éduquée par un pasteur qui tombe amoureux d'elle ?
+culture_g_score: 60
+culture_g_justification: "Roman classique d’André Gide, régulièrement mobilisé autour du prix Nobel, de la morale et de l’adaptation cinématographique, sans être incontournable."
 ---
-
 ![Image de La Symphonie Pastorale](https://upload.wikimedia.org/wikipedia/commons/f/ff/Gide_-_La_Symphonie_pastorale.pdf)
 
 ###### Questions

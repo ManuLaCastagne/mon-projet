@@ -18,9 +18,9 @@ indice_6 :
   - couple âgé exemplaire
 questions:
  - Dans la [[mythologie grecque]], quel couple transformé par Zeus et Hermès en arbres mêlant leurs branches symbolise l'amour conjugal ?
+culture_g_score: 40
+culture_g_justification: "Mythe d’hospitalité présent notamment chez Ovide, Philémon et Baucis constituent toutefois un sujet étroit et occasionnel des quiz."
 ---
-
-
 ![Image de Philémon et Baucis](https://upload.wikimedia.org/wikipedia/commons/f/f8/Phil%C3%A9mon_et_Baucis_by_Gounod.png)
 
 ###### Questions

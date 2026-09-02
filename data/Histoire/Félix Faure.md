@@ -20,10 +20,9 @@ indice_6 :
   - membre du Parti républicain
 questions:
  - Quel président de la République  française est resté dans l'histoire pour être mort à l'Elysée d'épectase ?
+culture_g_score: 60
+culture_g_justification: "Président de la IIIe République surtout retenu pour sa mort scandaleuse et l’affaire Dreyfus, avec des angles relativement limités."
 ---
-
-
-
 ![Image de Félix Faure](https://upload.wikimedia.org/wikipedia/commons/4/43/President_F%C3%A9lix_Faure_%28cropped%29.jpg)
 
 ###### Questions

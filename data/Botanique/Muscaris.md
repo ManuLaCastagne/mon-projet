@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale dans les jardins
 questions:
  - Quelle plante voisine de la jacinthe, aux grappes de petites fleurs bleues, porte un nom issu du latin "musc" ?
+culture_g_score: 27
+culture_g_justification: "Bulbe printanier connu des jardiniers sous le nom de jacinthe à grappes, mais rarement retenu dans la culture générale large."
 ---
-
 ![Image de Muscaris](https://upload.wikimedia.org/wikipedia/commons/4/45/Muscari_armeniacum_im_Schnee_20220403_01.jpg)
 
 ###### Questions

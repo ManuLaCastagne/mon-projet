@@ -20,8 +20,9 @@ indice_6 :
   - Mort en 1743
 questions:
  - Quel prélat, précepteur de Histoire/Louis XV, a assumé les fonctions de ministre d'Etat en 1726, après le duc de Bourbon-Condé ?
+culture_g_score: 48
+culture_g_justification: "Conseiller principal de Louis XV, Fleury éclaire la régence et la politique française du XVIIIe siècle, mais reste une figure peu connue."
 ---
-
 ![Image de André Hercule de Fleury](https://upload.wikimedia.org/wikipedia/commons/8/80/16530714_France_Lod%C3%A8ve_Registre_de_bapt%C3%AAme_de_Andr%C3%A9_Hercule_de_Fleury_Lod%C3%A8ve.png)
 
 ###### Questions

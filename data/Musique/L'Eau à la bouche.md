@@ -22,8 +22,9 @@ indice_6 :
   - film de Jacques Doniol-Valcroze
 questions:
  - En 1960, quelle chanson Serge Gainsbourg composée pour le film homonyme de Jacques Doniol-Valcroze, avec Bernadette Lafont?
+culture_g_score: 51
+culture_g_justification: "Chanson de Gainsbourg liée à un film de la Nouvelle Vague, mais moins connue et moins fréquemment interrogée que ses grands classiques."
 ---
-
 ![Image de L'Eau à la bouche](https://upload.wikimedia.org/wikipedia/commons/f/f2/Chavagne-FR-35-commerce-L%27eau_%C3%A0_la_Bouche-1.jpg)
 
 ###### Questions

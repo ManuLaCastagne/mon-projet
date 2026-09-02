@@ -22,8 +22,9 @@ indice_6 :
   - Alcools
 questions:
  - Guillaume Apollinaire. "Vienne la nuit, sonne l'heure"…
+culture_g_score: 80
+culture_g_justification: "Référence littéraire et parisienne très rentable, liée à Apollinaire, au recueil Alcools et à un poème fréquemment cité."
 ---
-
 ![Image de Pont Mirabeau](https://upload.wikimedia.org/wikipedia/commons/4/4f/Pont_Mirabeau_from_Ballon_Generali%2C_Paris_7_August_2016.jpg)
 
 ###### Questions

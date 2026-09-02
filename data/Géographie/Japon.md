@@ -22,8 +22,9 @@ indice_6:
   - Hokkaido
 questions:
   - Pays spécialiste d'un pain de mie moelleux, le shokupan, fait à partir de farine de l'île d'Hokkaido ?
+culture_g_score: 100
+culture_g_justification: "Grande puissance mondiale dont l’histoire, la culture, la technologie, la géographie, les arts et les traditions fournissent d’innombrables questions."
 ---
-
 ![Image de Japon](https://upload.wikimedia.org/wikipedia/commons/a/ab/Soba-Noodles-Deliveryman-Tokyo-1935.png)
 
 ![[Carte_Japon.png]]

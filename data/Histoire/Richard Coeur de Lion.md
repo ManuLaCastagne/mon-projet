@@ -20,8 +20,9 @@ indice_6:
   - Saladin
 questions:
   - De quel roi d'Angleterre, mort à Châlus en 1199, a-t-on enterré...
+culture_g_score: 80
+culture_g_justification: "Roi croisé très connu, il ouvre des questions sur l’Angleterre médiévale, les Plantagenêts, les croisades et Aliénor d’Aquitaine."
 ---
-
 ![Image de Richard Coeur de Lion](https://upload.wikimedia.org/wikipedia/commons/a/a7/Richard_the_first.jpg)
 
 ###### Questions

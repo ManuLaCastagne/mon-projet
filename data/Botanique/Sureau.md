@@ -13,8 +13,9 @@ indice_5:
   - Sambucus
 indice_6:
   - Fabrication de sirops et infusions
+culture_g_score: 60
+culture_g_justification: "Le sureau est exploitable en botanique, cuisine, médecine traditionnelle et folklore, avec une fréquence occasionnelle assez réelle."
 ---
-
 ![Image de Sureau](https://upload.wikimedia.org/wikipedia/commons/e/e5/Bloemknoppen_van_een_vlier_%28Sambucus_serenade%29._14-04-2021_%28actm.%29_01.jpg)
 
 ###### Questions

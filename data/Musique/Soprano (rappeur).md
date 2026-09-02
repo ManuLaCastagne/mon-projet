@@ -22,9 +22,9 @@ indice_6:
   - Cosmo Tour
 questions:
   - En 2015, quel rappeur aux origines comoriennes apparaît dans le clip de la chanson "Mama" interprétée par ses frères Zack et Diego?
+culture_g_score: 76
+culture_g_justification: "Soprano est une figure très connue du rap français, exploitable par ses groupes, ses albums, Marseille et ses rôles télévisés."
 ---
-
-
 ![Image de Soprano (rappeur)](https://upload.wikimedia.org/wikipedia/commons/8/8d/Soprano_2011.jpg)
 
 ###### Questions

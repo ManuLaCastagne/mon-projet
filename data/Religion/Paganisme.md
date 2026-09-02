@@ -18,8 +18,9 @@ indice_5 :
   - Chamanisme
 indice_6 : 
   - Héritage viking
+culture_g_score: 67
+culture_g_justification: "Catégorie utile pour comprendre les religions préchrétiennes et le néopaganisme, mais trop générale et hétérogène pour être un marronnier majeur."
 ---
-
 ![Image de Paganisme](https://upload.wikimedia.org/wikipedia/commons/c/c6/Walpurgisnacht.jpg)
 
 ###### Questions

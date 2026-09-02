@@ -20,8 +20,9 @@ indice_6 :
   - participation à des jeux télévisés
 questions:
  - Si la chanson que vous venez d'entendre n'a pas connu un grand succès à sa sortie en 1984, et on se demande pourquoi d'ailleurs, son interprète en revanche est devenue une figure populaire de la télévision des années 80 et 90. Quelle est cette ancienne coco-girl, qui a été chroniqueuse  dans "Ciel mon mardi" et aussi animé "Maxi tête" ?
+culture_g_score: 32
+culture_g_justification: "Figure de la télévision française des années 1980-1990, aujourd’hui peu fréquente et surtout utile pour des questions rétrospectives."
 ---
-
 ![Image de Sophie Favier](https://upload.wikimedia.org/wikipedia/commons/4/47/Sophie_Favier.png)
 
 ###### Questions

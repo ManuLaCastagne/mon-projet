@@ -20,8 +20,9 @@ indice_6 :
   - Carabine
 questions:
  - Je deviens champion olympique dans cette même discipline, la descente, en 1960. Inventeur de la position dite de l'oeuf, permettant au skieur d'accroître sa vitesse, je disparais en 2017.
+culture_g_score: 60
+culture_g_justification: "Champion olympique français et acteur du développement d’Avoriaz, Vuarnet est une bonne connaissance du ski et de l’aménagement sportif."
 ---
-
 ![Image de Jean Vuarnet](https://upload.wikimedia.org/wikipedia/commons/b/b5/2017-01-08_-_France_d%C3%A9c%C3%A8s_du_skieur_Jean_Vuarnet.ogg)
 
 ###### Questions

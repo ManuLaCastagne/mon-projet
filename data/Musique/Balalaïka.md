@@ -22,8 +22,9 @@ indice_6 :
   - folklore russe
 questions:
  - Quel mot russe désigne l'instrument de musique, analogue au luth et à la mandoline, utilisé dans la musique populaire traditionnelle de la Russie?
+culture_g_score: 52
+culture_g_justification: "La balalaïka est un symbole musical russe reconnaissable, permettant quelques questions d’instrumentation, de culture et de cinéma."
 ---
-
 ![Image de Balalaïka](https://upload.wikimedia.org/wikipedia/commons/0/0a/Balalajka%2C_druga_polovina_20._veka.jpg)
 
 ###### Questions

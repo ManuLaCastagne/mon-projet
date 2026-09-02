@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de prospérité
 questions:
  - A quel animal associe-t-on la race pie rouge des plaines et rouge danoise?
+culture_g_score: 84
+culture_g_justification: "La vache est une référence fondamentale de l'agriculture, de l'alimentation, de l'économie et des traditions, avec de nombreux angles de quiz."
 ---
-
 ![Image de Vache](https://upload.wikimedia.org/wikipedia/commons/f/f2/Vache_et_v%C5%93ux_%C3%A0_Alasora_Madagascar_01.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - partenaire de Noah Baumbach
 indice_6 : 
   - réalisatrice américaine
+culture_g_score: 80
+culture_g_justification: "Réalisatrice et actrice contemporaine très connue, désormais exploitable à travers Lady Bird, Barbie, Frances Ha et les Oscars."
 ---
-
 ![Image de Greta Gerwig](https://upload.wikimedia.org/wikipedia/commons/1/1c/Greta_Gerwig_Berlinale_2018.jpg)
 
 ###### Questions

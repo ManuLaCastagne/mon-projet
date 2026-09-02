@@ -20,8 +20,9 @@ indice_6 :
   - 1598-1605
 questions:
  - Histoire, en 1598,  quel beau-frère du tsar Fiodor Ier se fit proclamer tsar à la mort de son proche  parent qui n'avait plus d'héritier légitime ?
+culture_g_score: 60
+culture_g_justification: "Tsar lié au Temps des Troubles et à un opéra célèbre, mais figure moins centrale que les grands souverains russes."
 ---
-
 ![Image de Boris Godounov](https://upload.wikimedia.org/wikipedia/commons/0/02/Boris_Godunov%60s_signature.png)
 
 ###### Questions

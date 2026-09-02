@@ -21,8 +21,9 @@ indice_5 :
   - Trafic fluvial
 indice_6 : 
   - Sentiers côtiers
+culture_g_score: 20
+culture_g_justification: "Petit territoire local dont les références historiques, cinématographiques et gastronomiques restent très spécialisées."
 ---
-
 ![[Carte_Île d'Arz.png]]
 
 ###### Questions

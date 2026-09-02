@@ -20,9 +20,9 @@ indice_5:
   - Hafsia Herzi
 indice_6:
   - couscous
+culture_g_score: 64
+culture_g_justification: "Film important de Kechiche, récompensé aux César et lié à la culture franco-maghrébine, mais d'une fréquence quiz seulement occasionnelle."
 ---
-
-
 ![Image de Graine et le mulet](https://upload.wikimedia.org/wikipedia/commons/f/f6/The_American_elevator_and_grain_trade_%28IA_CAT31053470175%29.pdf)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Appelé aussi chou brocoli
 indice_6:
   - Utilisé principalement en cuisine pour ses fleurs comestibles
+culture_g_score: 64
+culture_g_justification: "Légume très courant, associé à la cuisine, à la nutrition et à la botanique, avec une fréquence de quiz régulière sans être majeure."
 ---
-
 ![Image de Brocoli](https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg)
 
 ###### Questions

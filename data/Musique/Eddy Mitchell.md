@@ -19,8 +19,9 @@ indice_5:
   - Claude Moine
 indice_6:
   - La Dernière Séance
+culture_g_score: 80
+culture_g_justification: "Figure durable de la chanson et du rock français, exploitable via les Chaussettes Noires, ses tubes, le cinéma et «La Dernière Séance»."
 ---
-
 ![Image de Eddy Mitchell](https://upload.wikimedia.org/wikipedia/commons/0/0c/Eddy_Mitchell_avp_2014_2.jpg)
 
 ###### Questions

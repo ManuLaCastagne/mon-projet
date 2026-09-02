@@ -21,8 +21,9 @@ indice_6 :
   - temple de Tiwanaku
 questions:
  - Quel nom porte le dieu créateur de la civilisation Inca, également appelée Pachacamac sur les côtes du Pérou?
+culture_g_score: 60
+culture_g_justification: "Divinité majeure de la mythologie inca, utile pour les civilisations précolombiennes, mais moins fréquente que les grands repères aztèques ou mayas."
 ---
-
 ![Image de Viracocha](https://upload.wikimedia.org/wikipedia/commons/9/9d/Viracocha_%28porta_do_sol_-_detalhe%29.jpg)
 
 ###### Questions

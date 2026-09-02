@@ -22,8 +22,9 @@ indice_6 :
   - souvenir de Léopoldine
 questions:
  - Dans quel poème de Victor Hugo adresse-t-il à sa fille disparue "l'heure où blanchit la campagne" ?
+culture_g_score: 77
+culture_g_justification: "Poème très célèbre de Victor Hugo, régulièrement mobilisé autour du deuil, de Léopoldine et des Contemplations."
 ---
-
 ![Image de Demain dès l'aube](https://upload.wikimedia.org/wikipedia/commons/6/63/Manuscrit_%C2%AB_Demain_d%C3%A8s_l%27aube..._%C2%BB.jpg)
 
 ###### Questions

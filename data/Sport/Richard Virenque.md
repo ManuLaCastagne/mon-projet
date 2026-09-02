@@ -20,8 +20,9 @@ indice_6 :
   - Commentateur sportif
 questions:
  - En 2004, quel cycliste remporte pour la 7e fois le classement du meilleur grimpeur du Tour de France ?
+culture_g_score: 76
+culture_g_justification: "Personnage très identifiable du Tour de France, grâce au maillot à pois, à Festina et à sa forte présence médiatique."
 ---
-
 ![Image de Richard Virenque](https://upload.wikimedia.org/wikipedia/commons/6/64/Richard_VIRENQUE.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Minimalisme littéraire
 questions:
  - Dans son roman "Les Emotions", paru en 2020, quel écrivain belge retrouve le héros de "La Clé USB" un expert en prospective à la Commission européenne?
+culture_g_score: 40
+culture_g_justification: "Écrivain belge reconnu par les prix littéraires, Toussaint reste une référence contemporaine relativement étroite dans les quiz généralistes."
 ---
-
 ![Image de Jean-Philippe Toussaint](https://upload.wikimedia.org/wikipedia/commons/0/0d/Toussaint%2C_Jean-Philippe_01.jpg)
 
 ###### Questions

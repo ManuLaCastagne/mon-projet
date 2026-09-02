@@ -17,8 +17,9 @@ questions:
  - Quel ruminant, voisin du lama, forme domestiquée...
  - Avec le lama, quel autre ruminant était élevé par les Incas pour sa laine?
  - Quelle variété domestique du guanaco, proche du lama, est élevé dans les alpages des Andes pour sa laine douce, plus légère...
+culture_g_score: 64
+culture_g_justification: "Animal domestique populaire associé aux Andes, au lama et au textile, avec une présence régulière mais non centrale."
 ---
-
 ![Image de Alpaga](https://upload.wikimedia.org/wikipedia/commons/e/ed/Alpaga_ferme_exotique.jpg)
 
 ###### Questions

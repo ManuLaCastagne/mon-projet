@@ -22,8 +22,9 @@ indice_6 :
   - Bruce Willis
 questions:
  - Quelle actrice, qui joue la fille du personnage incarné par Bruce Willis dans "Armageddon" est la fille du chanteur d'Aerosmith ?
+culture_g_score: 60
+culture_g_justification: "Actrice surtout associée à Arwen et à Aerosmith, avec une présence régulière mais secondaire dans les quiz généralistes."
 ---
-
 ![Image de Liv Tyler](https://upload.wikimedia.org/wikipedia/commons/f/f8/Liv_Tyler_%282016%29.jpg)
 
 ###### Questions

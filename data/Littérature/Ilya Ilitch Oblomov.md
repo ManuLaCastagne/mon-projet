@@ -22,9 +22,9 @@ indice_6 :
   - critique de la noblesse
 questions:
  - Quel héros d'un roman d'Ivan Gontcha... Gontcharov paru en 1858 se caractérise par sa paresse quasi pathologique?
+culture_g_score: 49
+culture_g_justification: "Personnage classique de la littérature russe associé à la procrastination et à l’oblomovisme, mais susceptible d’apparaître dans peu de questions."
 ---
-
-
 ![Image de Ilya Ilitch Oblomov]()
 
 ###### Questions

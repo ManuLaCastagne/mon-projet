@@ -21,9 +21,9 @@ indice_6 :
 questions:
  - En 1066, quel duc de Normandie, vainqueur du roi Harold II à la bataille d'Hastings, est couronné roi d'Angleterre à l'abbaye de Westminster ?
  - Personnage historique mort en 1087 à Rouen, j'ai dû faire face à des rébellions telles que celle de mon fils Robert Courteheuse, ainsi qu'à des complots.
+culture_g_score: 97
+culture_g_justification: "Figure incontournable de 1066, de la conquête normande et de l'histoire anglaise, associée à Hastings, au Domesday Book et à la Tour de Londres."
 ---
-
-
 ![Image de Guillaume le Conquérant](https://upload.wikimedia.org/wikipedia/commons/1/14/Rue_Guillaume-le-Conqu%C3%A9rant_%28Rouen%29.jpg)
 
 ###### Questions

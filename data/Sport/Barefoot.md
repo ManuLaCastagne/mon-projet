@@ -20,8 +20,9 @@ indice_6 :
   - Christopher McDougall
 questions:
  - Quel sport de glisse, reconnu par la Fédération internationale de ski nautique, doit son nom anglais au fait qu'il se pratique pieds nus?
+culture_g_score: 23
+culture_g_justification: "Discipline ou pratique sportive marginale, susceptible de donner seulement des questions spécialisées."
 ---
-
 ![Image de Barefoot](https://upload.wikimedia.org/wikipedia/commons/8/83/Barefoot_hiking.jpg)
 
 ###### Questions

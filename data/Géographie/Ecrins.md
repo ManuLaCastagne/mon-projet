@@ -24,8 +24,9 @@ indice_6 :
   - randonnée pédestre
 questions:
  - Quel parc de haute montagne s'étendant sur une superficie de 91 800 hectares, est le plus grand parc national français ?
+culture_g_score: 60
+culture_g_justification: "Massif français classique grâce à son parc national, son sommet et l’alpinisme, mais d’une portée plus nationale que générale."
 ---
-
 ![Image de Ecrins](https://upload.wikimedia.org/wikipedia/commons/f/f1/Affluent_du_torrent_de_Vallonpierre_%28Parc_des_Ecrins%2C_Hautes_Alpes%2C_France%29_DSC_0686.jpg)
 
 ![[Carte_Ecrins.png]]

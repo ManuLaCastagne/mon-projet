@@ -18,8 +18,9 @@ indice_5 :
   - Cinéma français
 indice_6 : 
   - Actrice
+culture_g_score: 60
+culture_g_justification: "Actrice française surtout retenue pour Jeux interdits et La Boum, avec une présence régulière mais limitée dans les quiz généralistes."
 ---
-
 ![Image de Brigitte Fossey](https://upload.wikimedia.org/wikipedia/commons/8/8e/Brigitte_Fossey_C%C3%A9sars.jpg)
 
 ###### Questions

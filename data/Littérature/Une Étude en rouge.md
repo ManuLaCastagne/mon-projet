@@ -22,9 +22,9 @@ indice_6 :
   - crime
 questions:
  - Quel roman de Conan Doyle, dans le titre en français comporte le mot rouge...
+culture_g_score: 64
+culture_g_justification: "Premier roman de Sherlock Holmes, il fournit plusieurs repères sur Doyle et le personnage, sans être l’œuvre la plus connue du cycle."
 ---
-
-
 ![Image de Une Étude en rouge](https://upload.wikimedia.org/wikipedia/commons/2/25/The_Complete_Sherlock_Holmes_%28Volume_2%29.djvu)
 
 ###### Questions

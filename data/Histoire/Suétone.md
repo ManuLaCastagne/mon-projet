@@ -20,9 +20,9 @@ indice_6 :
   - historiographe de l'empereur Hadrien
 questions:
  - Selon quel historien latin, auteur des "Vies des douze Césars", Néron se serait-il écrié en mourant  "Quel artiste périt avec moi!"?
+culture_g_score: 64
+culture_g_justification: "Biographe romain classique, surtout rentable grâce aux Douze Césars et aux questions sur les empereurs de Rome."
 ---
-
-
 ![Image de Suétone](https://upload.wikimedia.org/wikipedia/commons/b/b3/Caius_Suetonius_Tranquillus.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - voie navigable
 questions:
  - Quel détroit, dont le nom est issu du grec signifiant passage du boeuf...
+culture_g_score: 80
+culture_g_justification: "Détroit stratégique et frontière entre Europe et Asie, le Bosphore intervient en géographie, histoire, mythologie et géopolitique."
 ---
-
 ![Image de Bosphore](https://upload.wikimedia.org/wikipedia/commons/e/ea/Istanbul_and_Bosporus_big.jpg)
 
 ![[Carte_Bosphore.png]]

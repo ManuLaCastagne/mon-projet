@@ -18,8 +18,9 @@ indice_5 :
   - restauration monarchique
 indice_6 : 
   - exil en France
+culture_g_score: 40
+culture_g_justification: "Figure secondaire de la Restauration, surtout mobilisée dans des questions précises sur les Bourbons et l’assassinat de 1820."
 ---
-
 ![Image de Charles-Ferdinand de Bourbon](https://upload.wikimedia.org/wikipedia/commons/d/d9/Charles-Ferdinand_d%27Artois%2C_duc_de_Berry.jpg)
 
 ###### Questions

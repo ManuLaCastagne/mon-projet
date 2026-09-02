@@ -20,8 +20,9 @@ indice_5 :
   - couple en crise
 indice_6 : 
   - grand classique du cinéma
+culture_g_score: 80
+culture_g_justification: "Drame américain classique fréquemment relié à Nichols, Albee, Taylor, Burton, aux Oscars et à l’histoire du cinéma."
 ---
-
 ![Image de Qui a peur de Virginia Woolf?](https://upload.wikimedia.org/wikipedia/commons/e/e4/Qui_a_peur_de_Virginia_Woolf_-_photographies_-_Roger_Pic_-_btv1b10603071p_%2801_of_83%29.jpg)
 
 ###### Questions

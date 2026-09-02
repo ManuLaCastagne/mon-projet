@@ -20,8 +20,9 @@ indice_6:
   - partenaire Micheline
 questions:
   - Dans les années 80, quelle ex-garde-barrière, de son vrai nom Marie-Thérèse Ordonez, a animé "La cuisine des mousquetaires" à la télévision?
+culture_g_score: 64
+culture_g_justification: "Personnalité emblématique de la télévision culinaire française, souvent reconnaissable dans les quiz mais avec un champ d'interrogation assez circonscrit."
 ---
-
 ![Image de Maïté](https://upload.wikimedia.org/wikipedia/commons/c/cc/Marie-Th%C3%A9r%C3%A8se_Ordonez.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6:
   - Voyages à travers l'Europe
 questions:
   - En 1799, de quelle femme a-t-on réclamé le retour en France, bien qu'elle ait exécuté plusieurs portraits de Marie-Antoinette?
+culture_g_score: 72
+culture_g_justification: "Portraitiste de Marie-Antoinette et femme artiste majeure du XVIIIe siècle, Vigée Le Brun offre des liens avec la Révolution et les cours européennes."
 ---
-
 ![Image de Elisabeth Vigée Le Brun](https://upload.wikimedia.org/wikipedia/commons/3/35/Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg)
 
 ###### Questions

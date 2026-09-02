@@ -18,8 +18,9 @@ indice_5 :
   - Broadway
 indice_6 : 
   - Marianna Weill
+culture_g_score: 67
+culture_g_justification: "Compositeur important du XXe siècle, à la croisée de l’opéra, du théâtre musical, de Brecht, de Broadway et de l’exil européen."
 ---
-
 ![Image de Kurt Weill](https://upload.wikimedia.org/wikipedia/commons/0/05/Bundesarchiv_Bild_146-2005-0119%2C_Kurt_Weill.jpg)
 
 ###### Questions

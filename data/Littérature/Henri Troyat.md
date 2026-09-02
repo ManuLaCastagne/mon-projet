@@ -22,8 +22,9 @@ indice_6 :
   - Les Eygletière
 questions:
  - A quel écrivain français d'origine russe doit-on les cycles "Tant que la terre durera" et "Les Moissons" ?
+culture_g_score: 51
+culture_g_justification: "Écrivain prolifique et académicien lié au prix Goncourt, mais rarement prioritaire dans les quiz généralistes contemporains."
 ---
-
 ![Image de Henri Troyat](https://upload.wikimedia.org/wikipedia/commons/5/5c/Henri_Troyat.jpg)
 
 ###### Questions

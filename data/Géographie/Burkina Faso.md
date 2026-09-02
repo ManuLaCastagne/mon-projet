@@ -24,9 +24,9 @@ indice_6 :
   - pays enclavé
 questions:
  - Quel Etat d'Afrique occidentale, enclavé au coeur du Sahel, portait le nom de Haute-Volta jusqu'en 1984?
+culture_g_score: 60
+culture_g_justification: "Le Burkina Faso est un pays africain régulièrement interrogé pour son ancien nom, sa capitale Ouagadougou et son histoire politique."
 ---
-
-
 ![Image de Burkina Faso](https://upload.wikimedia.org/wikipedia/commons/9/9e/Chondrite_meteorite._Gao%2C_Burkina_Faso-8939.jpg)
 
 ![[Carte_Burkina Faso.png]]

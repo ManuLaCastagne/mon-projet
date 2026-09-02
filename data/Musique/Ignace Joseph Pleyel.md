@@ -22,8 +22,9 @@ indice_6 :
   - influence sur la musique classique du XIXe siècle
 questions:
  - En 1808, quel compositeur autrichien fonde à Paris une fabrique de pianos?
+culture_g_score: 30
+culture_g_justification: "Compositeur, éditeur et facteur de pianos intéressant pour l’histoire musicale, mais trop spécialisé et rarement demandé comme référence autonome."
 ---
-
 ![Image de Ignace Joseph Pleyel](https://upload.wikimedia.org/wikipedia/commons/e/e7/Pleyel_after_Hardy.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Terre battue
 indice_6 : 
   - Guga
+culture_g_score: 80
+culture_g_justification: "Grande figure du tennis, fréquemment associée à Roland-Garros, au classement mondial, au Brésil et à son geste symbolique sur la terre battue."
 ---
-
 ![Image de Gustavo Kuerten](https://upload.wikimedia.org/wikipedia/commons/2/2c/Gustavo_Kuerten_%2849199755226%29.jpg)
 
 ###### Questions

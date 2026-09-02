@@ -20,9 +20,9 @@ indice_6 :
   - 1524
 questions:
  - En 1524, quel navigateur découvre New York et la baptise "Terre d'Angoulême", a également donné son nom à un pont ?
+culture_g_score: 40
+culture_g_justification: "Explorateur de la Renaissance surtout retenu par le pont Verrazzano, avec une présence assez ponctuelle dans les quiz."
 ---
-
-
 ![Image de Giovanni da Verazzano](https://upload.wikimedia.org/wikipedia/commons/6/68/RCT_Da_Verazzano_Fraccaroli_Allan_1968a.jpg)
 
 ###### Questions

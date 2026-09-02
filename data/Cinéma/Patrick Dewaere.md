@@ -22,8 +22,9 @@ indice_6 :
   - mort tragique
 questions:
  - Quel acteur français disparu en 1982 joue dans les films "Série noire" ou "Coup de tête" ?
+culture_g_score: 60
+culture_g_justification: "Acteur français marquant des années 1970, régulièrement cité pour Les Valseuses, sa carrière et sa mort tragique, mais moins incontournable que les très grandes figures du cinéma."
 ---
-
 ![Image de Patrick Dewaere](https://upload.wikimedia.org/wikipedia/commons/b/bc/Dewaere-portrait.jpg)
 
 ###### Questions

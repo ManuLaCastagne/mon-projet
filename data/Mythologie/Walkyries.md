@@ -18,9 +18,9 @@ indice_6 :
   - Ragnarök
 questions:
  - Quelles divinités guerrières de la mythologie nord-germanique, apparentées aux Nornes, conduisaient les héros morts...
+culture_g_score: 80
+culture_g_justification: "Les Walkyries relient mythologie nordique, Odin, Valhalla, bataille et opéra wagnérien, ce qui en fait un sujet régulièrement exploité."
 ---
-
-
 ![Image de Walkyries](https://upload.wikimedia.org/wikipedia/commons/f/f8/Valkyrie_%28Peter_Nicolai_Arbo%29_-_Nationalmuseum_-_18255.tif)
 
 ###### Questions

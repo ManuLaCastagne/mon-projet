@@ -15,8 +15,9 @@ indice_6 :
   - Gardien de la forêt
 questions:
  - Quel félin  de taille moyenne, parfois appelé loup-cervier, est doté de longues oreilles  prolongées par un pinceau de poils ?
+culture_g_score: 76
+culture_g_justification: "Félin bien connu offrant des angles zoologiques, géographiques, héraldiques et astronomiques, notamment dans les quiz francophones."
 ---
-
 ![Image de Lynx](https://upload.wikimedia.org/wikipedia/commons/d/d8/Lynx_lynx-4.JPG)
 
 ###### Questions

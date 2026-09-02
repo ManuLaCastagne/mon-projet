@@ -18,8 +18,9 @@ indice_5 :
   - instabilité politique
 indice_6 : 
   - Révolution française
+culture_g_score: 80
+culture_g_justification: "Régime incontournable de la Révolution française, ouvrant sur Bonaparte, la Constitution de l’an III et l’instabilité politique."
 ---
-
 ![Image de Directoire](https://upload.wikimedia.org/wikipedia/commons/5/55/Mitglied_des_franz%C3%B6sischen_Direktoriums_1799.jpg)
 
 ###### Questions

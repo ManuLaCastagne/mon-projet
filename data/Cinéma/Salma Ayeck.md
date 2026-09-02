@@ -22,8 +22,9 @@ indice_6 :
   - Hollywood
 questions:
  - Quelle mexicaine a été révélée en 1995 dans "Desperado" ?
+culture_g_score: 3
+culture_g_justification: "Sujet apparemment très obscur et dépourvu de référence cinématographique solidement établie dans la culture générale."
 ---
-
 ![Image de Salma Ayeck]()
 
 ###### Questions

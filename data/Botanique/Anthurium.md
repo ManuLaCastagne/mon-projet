@@ -15,8 +15,9 @@ indice_6 :
   - Plante d'intérieur décorative
 questions:
  - Quelle fleur des forêts de Colombie est caractérisée par une bractée rouge et luisante enveloppant un épi blanc ?
+culture_g_score: 44
+culture_g_justification: "Plante d’intérieur reconnaissable et décorative, mais principalement exploitable dans quelques questions d’horticulture."
 ---
-
 ![Image de Anthurium](https://upload.wikimedia.org/wikipedia/commons/0/06/Anthurium_obtusum_%28habitus%29.jpg)
 
 ###### Questions

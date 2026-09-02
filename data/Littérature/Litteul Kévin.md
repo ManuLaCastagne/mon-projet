@@ -22,8 +22,9 @@ indice_6 :
   - biker
 questions:
  - Dès 93, quel jeune héros de BD, vivant avec sa mère Sophie et son père motard, surnommé Chacal, est le héros de plusieurs albums publiés par Coyote?
+culture_g_score: 40
+culture_g_justification: "Série humoristique française identifiable chez les amateurs de BD, mais peu présente dans la culture générale large."
 ---
-
 ![Image de Litteul Kévin]()
 
 ###### Questions

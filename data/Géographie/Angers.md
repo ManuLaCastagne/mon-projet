@@ -24,8 +24,9 @@ indice_6 :
   - Cité angevine
 questions:
  - Ville comprenant un important secteur piétonnier autour de la Place du Ralliement où mon théâtre a été édifié en 1871, je suis associée à des matériaux tels que la pierre de tuffeau. Abritant l'ensemble de tapisseries dit du "Chant du monde", je conserve aussi la tenture de l'Apocalypse.
+culture_g_score: 60
+culture_g_justification: "Ville française associée à l’édit de Nantes, au château et à la tapisserie de l’Apocalypse, avec une bonne rentabilité patrimoniale."
 ---
-
 ![Image de Angers](https://upload.wikimedia.org/wikipedia/commons/9/93/Angers_collage.jpg)
 
 ![[Carte_Angers.png]]

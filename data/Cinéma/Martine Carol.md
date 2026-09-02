@@ -22,8 +22,9 @@ indice_6 :
   - Figure emblématique du cinéma en Technicolor
 questions:
  - Quelle actrice française, disparue en 1967, reste célèbre pour son rôle dans "Caroline chérie" et celui de Lola Montès?
+culture_g_score: 51
+culture_g_justification: "Star française des années 1950, aujourd’hui surtout mobilisée par quelques films patrimoniaux précis."
 ---
-
 ![Image de Martine Carol](https://upload.wikimedia.org/wikipedia/commons/1/13/Martine_Carol_1963.jpg)
 
 ###### Questions

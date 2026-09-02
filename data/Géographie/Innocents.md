@@ -22,8 +22,9 @@ indice_6 :
   - découvertes harmonieuses
 questions:
  - Dans le quartier des Halles à Paris…
+culture_g_score: 20
+culture_g_justification: "Le quartier ou lieu précis des Innocents constitue une référence géographique parisienne très marginale dans les quiz généralistes."
 ---
-
 ![Image de Innocents](https://upload.wikimedia.org/wikipedia/commons/1/18/Paris_Fontaine_Innocents_Nymphe1_2013.jpg)
 
 ![[Carte_Innocents.png]]

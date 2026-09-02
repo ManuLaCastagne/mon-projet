@@ -20,8 +20,9 @@ indice_6 :
   - responsabilités familiales
 questions:
  - Dans la Rome antique, quelle expression latine désignait le père de famille qui avait toute autorité...
+culture_g_score: 60
+culture_g_justification: "Notion classique de la société romaine, utile pour le droit, la famille et l’Antiquité, avec toutefois des possibilités d’interrogation limitées."
 ---
-
 ![Image de Pater familias](https://upload.wikimedia.org/wikipedia/commons/6/6a/The_Pater_Familias_-_Vanderbilt_Fine_Arts_Gallery_-_1979.0858P.tif)
 
 ###### Questions

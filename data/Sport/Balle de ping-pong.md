@@ -20,8 +20,9 @@ indice_6 :
   - Topspin
 questions:
  - Je peux être marqué de 1 à 3 étoiles. Ne pesant que quelques grammes, de couleur blanche...
+culture_g_score: 44
+culture_g_justification: "Objet familier associé au tennis de table et à quelques références culturelles, mais rarement interrogé pour lui-même."
 ---
-
 ![Image de Balle de ping-pong](https://upload.wikimedia.org/wikipedia/commons/9/93/2022-08-19_European_Championships_2022_%E2%80%93_Table_Tennis_by_Sandro_Halank%E2%80%93007.jpg)
 
 ###### Questions

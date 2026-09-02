@@ -22,8 +22,9 @@ indice_5 :
   - Union Station
 indice_6 : 
   - Musée d'Art de Denver
+culture_g_score: 64
+culture_g_justification: "Grande ville américaine identifiable par le Colorado et les Rocheuses, avec quelques repères classiques mais une portée culturelle moyenne."
 ---
-
 ![[Carte_Denver.png]]
 
 ###### Questions

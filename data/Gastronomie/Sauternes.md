@@ -1,3 +1,8 @@
+---
+culture_g_score: 77
+culture_g_justification: "Grand vin liquoreux de Bordeaux, associé à Yquem, au vignoble français et aux appellations viticoles."
+---
+
 
 ###### Questions 
 

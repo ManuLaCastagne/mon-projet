@@ -22,8 +22,9 @@ indice_6 :
   - créé par Anakin Skywalker
 questions:
  - Dans "Star Wars", quel droïde de protocole, très bavard...
+culture_g_score: 93
+culture_g_justification: "Personnage immédiatement identifiable de Star Wars, exploitable par des questions sur les droïdes, Anthony Daniels, Anakin et la saga entière."
 ---
-
 ![Image de C3-PO](https://upload.wikimedia.org/wikipedia/commons/2/20/France_PO-C3.jpg)
 
 ###### Questions

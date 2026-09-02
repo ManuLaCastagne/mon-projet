@@ -18,8 +18,9 @@ indice_5:
   - années 1960
 indice_6:
   - écrivain pour enfants
+culture_g_score: 60
+culture_g_justification: "Créatrice de Belle et Sébastien et de Poly, importante pour la télévision jeunesse française, mais moins connue que ses œuvres."
 ---
-
 ![Image de Cécile Aubry](https://upload.wikimedia.org/wikipedia/commons/3/34/C%C3%A9cile_Aubry_%281969%29.jpg)
 
 ###### Questions

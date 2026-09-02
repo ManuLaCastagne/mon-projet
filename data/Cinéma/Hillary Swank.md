@@ -20,9 +20,9 @@ indice_5:
   - P.S. I Love You
 indice_6:
   - The Core
+culture_g_score: 64
+culture_g_justification: "Actrice oscarisée connue pour deux films majeurs, mais moins transversale que les très grandes stars hollywoodiennes."
 ---
-
-
 ![Image de Hillary Swank](https://upload.wikimedia.org/wikipedia/commons/6/6e/Hilary_Swank_at_28th_Tokyo_International_Film_Festival.jpg)
 
 ###### Questions

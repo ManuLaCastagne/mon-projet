@@ -18,8 +18,9 @@ indice_5 :
   - 1980
 indice_6 : 
   - La Boum
+culture_g_score: 32
+culture_g_justification: "Film de Jacques Doillon relativement confidentiel, dont la place dans les quiz dépasse rarement la filmographie du réalisateur."
 ---
-
 ![Image de La Fille de 15 ans]()
 
 ###### Questions

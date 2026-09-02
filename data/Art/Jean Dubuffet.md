@@ -23,8 +23,9 @@ indice_6 :
   - Ami d'André Breton
 questions:
  - Quel peintre et sculpteur né au Havre en 1901,  s'étant, en partie, inspiré des dessins d'enfants pour ses oeuvres, a été le théoricien  de l'art brut ?
+culture_g_score: 71
+culture_g_justification: "Dubuffet est un repère important de l’art brut et de l’art contemporain français, avec des œuvres, concepts et controverses identifiables."
 ---
-
 ![Image de Jean Dubuffet](https://upload.wikimedia.org/wikipedia/commons/b/b0/Jean_Dubuffet%2C_1960_%28cropped%29.jpg)
 
 ###### Questions

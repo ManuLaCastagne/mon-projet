@@ -20,9 +20,9 @@ indice_6 :
   - a servi de 1993 à 2020
 questions:
  - Quelle avocate et juge américaine née en 1933, a été membre de la cour suprême des Etats-Unis de 1993 à 2020, année de sa disparition?
+culture_g_score: 80
+culture_g_justification: "Juriste et juge emblématique de l’égalité femmes-hommes, régulièrement interrogée sur la Cour suprême et les droits civiques américains."
 ---
-
-
 ![Image de Ruth Bader Ginsburg](https://upload.wikimedia.org/wikipedia/commons/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg)
 
 ###### Questions

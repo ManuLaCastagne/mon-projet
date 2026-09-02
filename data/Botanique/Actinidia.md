@@ -15,8 +15,9 @@ indice_6 :
   - Production de fruits comestibles
 questions:
  - Quel arbuste grimpant, de la famille des dilléniacées,  est cultivé pour son fruit, le kiwi?
+culture_g_score: 52
+culture_g_justification: "Le lien avec le kiwi rend le genre identifiable et utile, mais le terme botanique Actinidia lui-même reste peu interrogé."
 ---
-
 ![Image de Actinidia](https://upload.wikimedia.org/wikipedia/commons/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg)
 
 ###### Questions

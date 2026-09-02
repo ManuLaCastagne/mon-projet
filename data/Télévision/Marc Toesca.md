@@ -20,8 +20,9 @@ indice_6 :
   - vidéo musical,
 questions:
  - Dans les années 80, quel présentateur du "Top 50" avait l'habitude d'ouvrir l'émission en disant... "Salut les p'tits clous" ?
+culture_g_score: 64
+culture_g_justification: "Présentateur emblématique du Top 50, rentable pour les quiz sur la musique populaire, Canal+ et la télévision des années 1980."
 ---
-
 ![Image de Marc Toesca](https://upload.wikimedia.org/wikipedia/commons/6/64/M_Toesca_02.jpg)
 
 ###### Questions

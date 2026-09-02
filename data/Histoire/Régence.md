@@ -18,8 +18,9 @@ indice_5 :
   - monarchie française
 indice_6 : 
   - influence de la noblesse
+culture_g_score: 60
+culture_g_justification: "Notion utile pour l’histoire monarchique française et européenne, mais généralement limitée à quelques périodes de transition."
 ---
-
 ![Image de Régence](https://upload.wikimedia.org/wikipedia/commons/6/67/Philippe%2C_duc_d%27Orl%C3%A9ans%2C_r%C3%A9gent_de_France_%281674-1723%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - société française des années 80 et 90
 questions:
  - Quelle astrologue dont le nom évoque un astre, a animé de 1970 à 1993 l'horoscope sur une radio privée ?
+culture_g_score: 64
+culture_g_justification: "Figure médiatique française immédiatement associée à l'astrologie, à RTL, aux turbans et aux parodies des Inconnus."
 ---
-
 ![Image de Madame Soleil](https://upload.wikimedia.org/wikipedia/commons/a/a5/Recueil._%22Le_lever_du_soleil%22_de_Fran%C3%A7ois_Porch%C3%A9_et_Madame_Simone_-_btv1b10522583w_%2801_of_83%29.jpg)
 
 ###### Questions

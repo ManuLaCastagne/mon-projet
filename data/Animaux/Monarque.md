@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la migration et de la métamorphose
 questions:
  - Quel papillon, aux ailes orangées parcourues de nervures noires, se repère grâce au soleil quand il migre dans les territoires d'Amérique?
+culture_g_score: 64
+culture_g_justification: "Papillon migrateur emblématique, exploitable en zoologie, migration, écologie et Amérique du Nord."
 ---
-
 ![Image de Monarque](https://upload.wikimedia.org/wikipedia/commons/4/4f/Polistes_May_2013-2.jpg)
 
 ###### Questions

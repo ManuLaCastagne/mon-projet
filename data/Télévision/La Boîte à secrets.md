@@ -18,8 +18,9 @@ indice_5:
   - France 3
 indice_6:
   - souvenirs secrets
+culture_g_score: 36
+culture_g_justification: "Émission de divertissement contemporaine identifiable par Faustine Bollaert, mais peu susceptible de produire des questions variées."
 ---
-
 ![Image de La Boîte à secrets](https://upload.wikimedia.org/wikipedia/commons/a/ac/Bo%C3%AEte_de_fond_de_teint_Supracolor%2C_%C3%A0_l%E2%80%99usage_des_agents_de_la_Stasi.jpg)
 
 ###### Questions

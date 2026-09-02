@@ -20,8 +20,9 @@ indice_5 :
   - arcs et flèches
 indice_6 : 
   - agent du S.H.I.E.L.D.
+culture_g_score: 76
+culture_g_justification: "Personnage populaire du MCU, exploitable à travers les Avengers, Jeremy Renner, les comics et la série Disney+."
 ---
-
 ![Image de Hawkeye](https://upload.wikimedia.org/wikipedia/commons/c/c7/Grumman_E-2C_Hawkeyes_of_VAW-115_fly_past_Mount_Fuji_on_15_February_2007_%28070215-N-2604L-024%29.jpg)
 
 ###### Questions

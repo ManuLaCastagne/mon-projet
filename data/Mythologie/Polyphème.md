@@ -19,8 +19,9 @@ indice_6 :
   - Monstre mythologique
 questions:
  - Dans "l'Odyssée", de quel cyclope le retenant prisonnier Ulysse crève-t-il l'oeil afin de s'échapper?
+culture_g_score: 80
+culture_g_justification: "Adversaire célèbre d’Ulysse dans l’Odyssée, Polyphème est une figure mythologique très exploitable en littérature, arts, antiquité et récits de monstres."
 ---
-
 ![Image de Polyphème](https://upload.wikimedia.org/wikipedia/commons/e/e6/Paris_Jardin_Luxembourg_Polyph%C3%A8me_surprenant_A%26G_2014.jpg)
 
 ###### Questions

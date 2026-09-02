@@ -22,8 +22,9 @@ indice_6 :
   - comédie française
 questions:
  - Cinéastes nés en 1971  et en 73, nous commençons à écrire et à réaliser ensemble des courts-métrages tels que "Les petits souliers". Passant au long métrage avec "Je préfère qu'on reste amis", nous confions à Omar Sy...
+culture_g_score: 64
+culture_g_justification: "Duo de réalisateurs fortement associé à Intouchables et à plusieurs succès français, avec une bonne mais pas exceptionnelle rentabilité quiz."
 ---
-
 ![Image de Nakache et Toledano](https://upload.wikimedia.org/wikipedia/commons/c/c0/%C3%89ric_Toledano_et_Olivier_Nakache_2024.jpg)
 
 ###### Questions

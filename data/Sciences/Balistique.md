@@ -20,8 +20,9 @@ indice_6 :
   - Résistance de l'air
 questions:
  - Science dite intérieure, extérieure ou terminale. Mon nom est formé sur celui d'une machine de guerre de l'Antiquité.
+culture_g_score: 60
+culture_g_justification: "Domaine scientifique classique lié aux armes, à la physique et à la criminalistique, avec une fréquence correcte mais des angles assez regroupés."
 ---
-
 ![Image de Balistique](https://upload.wikimedia.org/wikipedia/commons/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg)
 
 ###### Questions

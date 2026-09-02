@@ -22,9 +22,9 @@ indice_6:
   - Voyages en Afrique
 questions:
   - Ecrivain né en 1854, je mène une scolarité brillante dans ma ville natale, où je me lie d'amitié avec mon professeur de rhétorique Georges Izambard. Remportant à 15 ans un concours...
+culture_g_score: 100
+culture_g_justification: "Poète incontournable, associé à Verlaine, au symbolisme, à plusieurs poèmes célèbres et à une biographie particulièrement quizable."
 ---
-
-
 ![Image de Arthur Rimbaud](https://upload.wikimedia.org/wikipedia/commons/b/bb/Charleroi_-_quai_Arthur_Rimbaud_8_-_2024-10-24_-_01.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - tyran
 questions:
  - Quel prince de Valachie, ayant vécu au XVe siècle et surnommé l'Empaleur, était un tyran qui a inspiré le personnage du comte Dracula?
+culture_g_score: 64
+culture_g_justification: "Personnage historique fortement relié à Dracula et à la Valachie, avec une fréquence de quiz surtout fondée sur cette association."
 ---
-
 ![Image de Vlad Tepes](https://upload.wikimedia.org/wikipedia/commons/8/8e/Vlad_the_Impaler_signature.svg)
 
 ###### Questions

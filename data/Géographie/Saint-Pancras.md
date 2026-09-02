@@ -24,8 +24,9 @@ indice_6 :
   - Architecture victorienne
 questions:
  - Depuis 2007, dans quelle gare londonienne les passagers du service de TGV appelé Eurostar arrivent-ils en provenance de Paris ?
+culture_g_score: 57
+culture_g_justification: "Gare londonienne célèbre par son architecture et l’Eurostar, offrant quelques questions classiques."
 ---
-
 ![Image de Saint-Pancras](https://upload.wikimedia.org/wikipedia/commons/8/86/2017-10_-_Betoncourt-Saint-Pancras_-_08.jpg)
 
 ![[Carte_Saint-Pancras.png]]

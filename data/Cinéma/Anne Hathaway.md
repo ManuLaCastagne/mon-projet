@@ -20,8 +20,9 @@ indice_5 :
   - Interstellar
 indice_6 : 
   - Batman  The Dark Knight Rises
+culture_g_score: 73
+culture_g_justification: "Actrice américaine très connue grâce à des films populaires, à un Oscar et à des rôles variés facilement réutilisables en quiz."
 ---
-
 ![Image de Anne Hathaway](https://upload.wikimedia.org/wikipedia/commons/3/35/Anne_Hathaway-68408.jpg)
 
 ###### Questions

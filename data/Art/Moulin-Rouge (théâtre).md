@@ -21,8 +21,9 @@ indice_5 :
   - French Cancan
 indice_6 : 
   - Nicole Kidman
+culture_g_score: 84
+culture_g_justification: "Le Moulin-Rouge est un symbole international de Paris, du cabaret, du cancan, de Toulouse-Lautrec et du cinéma."
 ---
-
 ![Image de Moulin-Rouge (théâtre)](https://upload.wikimedia.org/wikipedia/commons/6/65/Moulin_Rouge_UK.jpg)
 
 ###### Questions

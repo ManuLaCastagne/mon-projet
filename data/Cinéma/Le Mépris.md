@@ -22,11 +22,9 @@ indice_6 :
   - adaptation du roman d'Alberto Moravia
 questions:
  - En 1963, quel film de Godard réunit Cinéma/Brigitte Bardot et Michel Piccoli ?
+culture_g_score: 80
+culture_g_justification: "Classique majeur de Godard et de la Nouvelle Vague, associé à Bardot, Delerue, Capri, la littérature et l’histoire du cinéma."
 ---
-
-
-
-
 ![Image de Le Mépris](https://upload.wikimedia.org/wikipedia/commons/a/ad/Le_M%C3%A9pris.png)
 
 ###### Questions

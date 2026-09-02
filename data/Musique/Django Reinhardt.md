@@ -22,8 +22,9 @@ indice_6 :
   - trois doigts
 questions:
  - En octobre 40, à quel guitariste de jazz d'origine tzigane doit-on le titre "Nuages"?
+culture_g_score: 84
+culture_g_justification: "Figure fondatrice du jazz manouche, souvent citée pour son handicap, le Quintette du Hot Club de France, Grappelli et ses standards."
 ---
-
 ![Image de Django Reinhardt](https://upload.wikimedia.org/wikipedia/commons/f/f5/Django_Reinhardt_%28Gottlieb_07301%29.jpg)
 
 ###### Questions

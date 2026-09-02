@@ -18,8 +18,9 @@ indice_5 :
   - Abraham
 indice_6 : 
   - Noé
+culture_g_score: 100
+culture_g_justification: "L'Ancien Testament est un socle majeur de culture religieuse, littéraire et artistique, source de récits et de références extrêmement fréquents."
 ---
-
 ![Image de Ancien Testament](https://upload.wikimedia.org/wikipedia/commons/2/2e/Kinh_Thanh_Cuu_Uoc_Va_Tan_Uoc_1925.pdf)
 
 ###### Questions

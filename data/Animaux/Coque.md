@@ -15,8 +15,9 @@ indice_6 :
   - Source de protéines dans certaines cultures
 questions:
  - Mesurant entre 2 et 6 cm et ramassé à marée basse, je laisse apparaître 2 petits trous à la surface du sable. Mollusque bivalve, présentant un aspect bombé et cannelé et une couleur variant du blanchâtre au belge, récolté par un coquetier, je suis…
+culture_g_score: 40
+culture_g_justification: "La coque, entendue ici comme coquillage, peut apparaître dans des questions culinaires ou naturalistes mais reste peu prioritaire."
 ---
-
 ![Image de Coque](https://upload.wikimedia.org/wikipedia/commons/6/6d/Map_Coque_tram_stop.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Le Bison (et sa voisine Dorine)
 questions:
  - ...D'Amélie Poulain. A l'affiche des "Tuche", je joue l'avocate de la série télévisée "Munch", je suis?
+culture_g_score: 47
+culture_g_justification: "Actrice populaire surtout par quelques comédies françaises, mais avec une importance et une fréquence de quiz limitées."
 ---
-
 ![Image de Isabelle Nanty](https://upload.wikimedia.org/wikipedia/commons/1/1b/Isabelle_Nanty_2013.jpg)
 
 ###### Questions

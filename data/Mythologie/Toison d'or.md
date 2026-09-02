@@ -18,8 +18,9 @@ indice_6 :
   - Médée
 questions:
  - Dans la [[mythologie grecque]], de quel pelage merveilleux d'un bélier ailé Jason doit-il s'emparer en Colchide ?
+culture_g_score: 80
+culture_g_justification: "La Toison d'or est un objet mythique incontournable lié à Jason, aux Argonautes, à Médée, à la Colchide et à une grande quête héroïque."
 ---
-
 ![Image de Toison d'or](https://upload.wikimedia.org/wikipedia/commons/b/be/Reynoutria_japonica_%E2%80%93_Luxembourg_City_Toison_d%27Or_2018.jpg)
 
 ###### Questions

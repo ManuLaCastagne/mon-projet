@@ -22,8 +22,9 @@ indice_6 :
   - Best-seller français
 questions:
  - Professeur à l'université de Rouen, mon roman "Omaha Crimes" a été réédité en 2014 sous le titre "Gravé dans le sable". Figurant parmi les écrivains les plus lus en France, je suis…
+culture_g_score: 56
+culture_g_justification: "Romancier policier français très vendu, utile pour quelques questions sur le polar contemporain, la géographie et ses best-sellers."
 ---
-
 ![Image de Michel Bussi](https://upload.wikimedia.org/wikipedia/commons/0/07/Michel_Bussi_09417.JPG)
 
 ###### Questions

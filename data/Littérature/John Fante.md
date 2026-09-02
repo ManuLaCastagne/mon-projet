@@ -20,9 +20,9 @@ indice_5:
   - Le Vin de la jeunesse
 indice_6:
   - Demande à la poussière
+culture_g_score: 44
+culture_g_justification: "John Fante est influent dans la littérature américaine et auprès de Bukowski, mais reste peu connu et peu interrogé hors des amateurs spécialisés."
 ---
-
-
 ![Image de John Fante](https://upload.wikimedia.org/wikipedia/commons/d/d7/John_Fante_Square.jpg)
 
 ###### Questions

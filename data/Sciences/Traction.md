@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1950
 date: 1957
+culture_g_score: 48
+culture_g_justification: "Référence automobile française identifiable par la Traction Avant, mais le sujet précis offre peu d'angles au-delà de Citroën et de son histoire."
 ---
 ###### Questions 
 

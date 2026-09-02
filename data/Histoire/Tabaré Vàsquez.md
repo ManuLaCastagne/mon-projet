@@ -20,8 +20,9 @@ indice_6 :
   - profession médecin oncologue
 questions:
  - Fin 2014, quel homme politique uruguayen a été réélu à la tête de son pays ?
+culture_g_score: 31
+culture_g_justification: "Ancien président uruguayen peu connu du grand public francophone, principalement utile pour une question politique ponctuelle."
 ---
-
 ![Image de Tabaré Vàsquez](https://upload.wikimedia.org/wikipedia/commons/f/f9/Audiencia_con_el_Presidente_de_Uruguay_Tabar%C3%A9_V%C3%A1squez_%2823154907729%29.jpg)
 
 ###### Questions

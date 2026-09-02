@@ -21,8 +21,9 @@ indice_5:
   - Sūduva
 indice_6:
   - Žalgiris
+culture_g_score: 60
+culture_g_justification: "Deuxième ville de Lituanie et ancienne capitale provisoire, utile dans quelques questions baltes mais peu incontournable."
 ---
-
 ![Image de Kaunas](https://upload.wikimedia.org/wikipedia/commons/5/5e/Vytautas_the_Great_Bridge_from_hill%2C_Kaunas%2C_Lithuania_-_Diliff.jpg)
 
 ![[Carte_Kaunas.png]]

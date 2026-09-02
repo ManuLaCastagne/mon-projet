@@ -18,6 +18,8 @@ indice_5:
   - Roman autobiographique
 indice_6:
   - Yves Simon
+culture_g_score: 64
+culture_g_justification: "Film français culte des années 1980, régulièrement lié à Beineix, Béatrice Dalle et aux César."
 ---
 ![[Pasted image 20260803215609.png]]
 ###### Questions

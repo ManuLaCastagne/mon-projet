@@ -22,8 +22,9 @@ indice_6 :
   - concerto
 questions:
  - j'ai connu la gloire dans toute l'Europe et dans ma ville natale, Venise, avant de passer de mode à l'âge de 60 ans et d'être oublié durant un siècle et demi.  Compositeur surnommé le Prêtre roux, auteur de près de 470 concertos dont les célèbres "Quatre saisons".
+culture_g_score: 97
+culture_g_justification: "Vivaldi est un compositeur baroque incontournable, très fréquemment associé aux Quatre Saisons, au concerto et à Venise."
 ---
-
 ![Image de Antonio Vivaldi](https://upload.wikimedia.org/wikipedia/commons/0/0f/Vivaldi_-_Four_Seasons_3_Autumn_mvt_1_Allegro_-_John_Harrison_violin.oga)
 
 ###### Questions

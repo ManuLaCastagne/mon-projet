@@ -23,8 +23,9 @@ indice_6 :
   - Colline sacrée
 questions:
  - Par d'importantes murailles sur 3 de mes versants. Mon entrée monumentale est appelée Propylées. J'abrite d'anciens sanctuaires comme le temple d'Athéna Niké, l'Erechthéion et le Parthénon. Site sur un plateau rocheux dominant…
+culture_g_score: 100
+culture_g_justification: "L’Acropole, surtout par le Parthénon, est un incontournable de l’Antiquité, de l’architecture, de la Grèce et de l’histoire culturelle."
 ---
-
 ![Image de Acropole](https://upload.wikimedia.org/wikipedia/commons/5/59/Khartoum-AcropoleHotel-Lobby_RomanDeckert03112016.jpg)
 
 ###### Questions

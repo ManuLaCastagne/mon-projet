@@ -20,9 +20,9 @@ indice_6 :
   - Plancher damé
 questions:
  - Dans quelle discipline de ski acrobatique Edgar Grospiron a obtenu l'or olympique  en 1992 ?
+culture_g_score: 60
+culture_g_justification: "Épreuve olympique identifiable par ses bosses, ses sauts et Edgar Grospiron, mais restant plus spécialisée que les disciplines alpines majeures."
 ---
-
-
 ![Image de Ski de bosses](https://upload.wikimedia.org/wikipedia/commons/9/94/Competitive_mogul_skiing.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Bijouterie
 questions:
  - Pierre précieuse devant mon nom au latin "aqua marina", j'étais considérée autrefois comme protectrice des marins.
+culture_g_score: 44
+culture_g_justification: "Gemme identifiable par sa couleur et son appartenance au béryl, mais surtout limitée à des questions de minéralogie et de joaillerie."
 ---
-
 ![Image de Aigue-marine](https://upload.wikimedia.org/wikipedia/commons/6/63/Aigue_Marine.jpg)
 
 ###### Questions

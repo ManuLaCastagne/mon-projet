@@ -24,8 +24,9 @@ indice_6 :
   - longueur d'environ 1 012 km
 questions:
  - Fleuve au régime irrégulier, j'occupe un bassin couvrant un 1/5e du territoire français et traverse une vallée jalonnée de nombreux châteaux de la...
+culture_g_score: 80
+culture_g_justification: "Fleuve majeur de France, associé aux châteaux, aux vignobles, à la géographie nationale et à plusieurs départements, donc très rentable à apprendre."
 ---
-
 ![Image de Loire](https://upload.wikimedia.org/wikipedia/commons/6/62/Loire_river_near_Amboise_in_September._France.jpg)
 
 ![[Carte_Loire.png]]

@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Quelle chanteuse de scat est surnommée "the Divine one", et est considérée comme l'une des plus belles voix du jazz ?
  - Quelle chanteuse, disparue en 1990, était surnommée la Divine?
+culture_g_score: 67
+culture_g_justification: "Sarah Vaughan est une immense voix du jazz, utile pour les questions sur le bebop, les standards et les grandes chanteuses américaines, mais moins grand public."
 ---
-
 ![Image de Sarah Vaughan](https://upload.wikimedia.org/wikipedia/commons/9/92/Sarah_Vaughan_-_William_P._Gottlieb_-_No._1.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - port de pêche de grande importance
 questions:
  - En 1960, quelle ville marocaine fut en partie détruite par un séisme ?
+culture_g_score: 64
+culture_g_justification: "Ville marocaine connue pour le séisme de 1960, son littoral et son tourisme, avec une présence régulière mais non centrale."
 ---
-
-
 ![Image de Agadir](https://upload.wikimedia.org/wikipedia/commons/2/21/Agadir_Airport_2020.jpg)
 
 ![[Carte_Agadir.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - Entraîneur
 questions:
  - Quel ancien footballeur, membre du carré magique dans les années 80, est depuis 97 le propriétaire d'un domaine viticole, à Cassis?
+culture_g_score: 80
+culture_g_justification: "Membre du carré historique des Bleus de 1982-1986 et entraîneur titré, Tigana est une référence très rentable du football français."
 ---
-
 ![Image de Jean Tigana](https://upload.wikimedia.org/wikipedia/commons/5/59/Jean_Tigana_cropped.jpg)
 
 ###### Questions

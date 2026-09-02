@@ -22,7 +22,8 @@ indice_6 :
   - Évelyne et Éric
 questions:
  - En 1972, quel duo fait un succès avec "Il y a du soleil sur la France"?
-culture_g_score: 52
+culture_g_score: 56
+culture_g_justification: "Stone et Charden forment un duo populaire de la variété française, surtout retenu pour quelques tubes et pour l’histoire de la chanson des années 1970."
 ---
 ![Image de Stone et Charden](https://upload.wikimedia.org/wikipedia/commons/5/55/Stoneetcharden.jpg)
 

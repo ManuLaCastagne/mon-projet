@@ -18,8 +18,9 @@ indice_5 :
   - Angra Mainyu
 indice_6 : 
   - Dualisme
+culture_g_score: 59
+culture_g_justification: "Ancienne religion importante pour l'histoire perse et l'étude des monothéismes, mais relativement peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Mazdéisme](https://upload.wikimedia.org/wikipedia/commons/c/ce/Zoroastrian_Fire_Temple%2C_Yazd_03.jpg)
 
 ###### Questions

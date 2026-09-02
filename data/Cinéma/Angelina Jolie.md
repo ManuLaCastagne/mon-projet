@@ -20,8 +20,9 @@ indice_5:
   - Humanitaire
 indice_6:
   - Maléfique
+culture_g_score: 84
+culture_g_justification: "Star mondiale identifiable par ses films, son Oscar et son engagement humanitaire, offrant de nombreux angles de questions."
 ---
-
 ![Image de Angelina Jolie](https://upload.wikimedia.org/wikipedia/commons/0/0c/Angelina_Jolie_by_Gage_Skidmore.jpg)
 
 Questions

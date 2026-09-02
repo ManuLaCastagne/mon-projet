@@ -22,9 +22,9 @@ indice_6 :
   - roman de 1948
 questions:
  - Dans quel roman d'Hervé Bazin, la maman Folcoche n'est pas très sympa ?
+culture_g_score: 60
+culture_g_justification: "Roman français classique souvent identifié par Folcoche, mais dont les angles de quiz restent principalement littéraires."
 ---
-
-
 ![Image de Vipère au poing](https://upload.wikimedia.org/wikipedia/commons/f/f0/Onguent_contre_la_morsure_de_la_vip%C3%A8re_noire_%28IA_b22019972%29.pdf)
 
 ###### Questions

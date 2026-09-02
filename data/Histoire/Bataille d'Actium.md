@@ -20,8 +20,9 @@ indice_6 :
   - victoire romaine
 questions:
  - En 1931 av. J-C, quelle victoire navale d'Octave (empereur)...
+culture_g_score: 84
+culture_g_justification: "Affrontement décisif entre Octave, Antoine et Cléopâtre, central pour comprendre le passage de la République à l’Empire romain."
 ---
-
 ![Image de Bataille d'Actium](https://upload.wikimedia.org/wikipedia/commons/5/5a/Ch%C3%A2teau_de_Chambord_-_la_bataille_d%27Actium_-_001.jpg)
 
 ###### Questions

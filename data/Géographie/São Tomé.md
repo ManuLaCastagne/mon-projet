@@ -22,8 +22,9 @@ indice_5 :
   - indépendante en 1975
 indice_6 : 
   - capitale São Tomé
+culture_g_score: 40
+culture_g_justification: "Capitale d'un petit État insulaire, connue surtout dans les questions sur la lusophonie, le cacao et le golfe de Guinée."
 ---
-
 ![Image de São Tomé](https://upload.wikimedia.org/wikipedia/commons/a/a9/S%C3%A3o_Tom%C3%A9_malachite_kingfisher_%28Corythornis_cristatus_thomensis%29.jpg)
 
 ![[Carte_São Tomé.png]]

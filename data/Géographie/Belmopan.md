@@ -22,10 +22,9 @@ indice_5 :
   - construite après l'ouragan Hattie
 indice_6 : 
   - le nom vient de la rivière Belize et de Mopan
+culture_g_score: 40
+culture_g_justification: "Capitale d’un petit État d’Amérique centrale, surtout utile pour une question de capitale et de catastrophes naturelles."
 ---
-
-
-
 ![Image de Belmopan](https://upload.wikimedia.org/wikipedia/commons/c/c9/Belmopan_Parliament.jpg)
 
 ![[Carte_Belmopan.png]]

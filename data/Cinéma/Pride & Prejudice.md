@@ -17,8 +17,9 @@ indice_5 :
   - bal à Netherfield
 indice_6 : 
   - auteur Jane Austen
+culture_g_score: 77
+culture_g_justification: "Adaptation très connue de Jane Austen, exploitable par la littérature, le cinéma britannique, Joe Wright, Keira Knightley et les Oscars."
 ---
-
 ![Image de Pride & Prejudice]()
 
 ###### Questions

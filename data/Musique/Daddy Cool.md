@@ -22,8 +22,9 @@ indice_6 :
   - Frank Farian
 questions:
  - 1er succès international d'un groupe de disco jamaïco-antillais formé de 3 femmes et de Bobby Farrell, je suis suivi par d'autres tubes tels que "Ma Baker" et "Rivers of Babylon". Chanson du groupe...
+culture_g_score: 52
+culture_g_justification: "Tube disco très reconnaissable, mais les questions portent généralement sur le morceau lui-même plutôt que sur plusieurs angles distincts."
 ---
-
 ![Image de Daddy Cool](https://upload.wikimedia.org/wikipedia/commons/1/19/Daddy_Cool_-_geograph.org.uk_-_959776.jpg)
 
 ###### Questions

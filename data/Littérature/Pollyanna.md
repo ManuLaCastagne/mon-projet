@@ -18,8 +18,9 @@ indice_5 :
   - New England
 indice_6 : 
   - Avellaneda
+culture_g_score: 64
+culture_g_justification: "Roman jeunesse connu et à l’origine d’un terme désignant l’optimisme excessif, mais moins central dans les quiz francophones."
 ---
-
 ![Image de Pollyanna](https://upload.wikimedia.org/wikipedia/commons/6/6c/Pollyanna_poster.jpg)
 
 ###### Questions

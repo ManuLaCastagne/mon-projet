@@ -22,8 +22,9 @@ indice_6 :
   - ami de Toulouse-Lautrec
 questions:
  - En 1892, quel chansonnier est représenté avec son chapeau et son écharpe rouge par Toulous-Lautrec ?
+culture_g_score: 55
+culture_g_justification: "Aristide Bruant relie chanson réaliste, Montmartre, cabaret et Toulouse-Lautrec, mais reste une référence surtout historique et française."
 ---
-
 ![Image de Aristide Bruant](https://upload.wikimedia.org/wikipedia/commons/0/02/Aristide_Bruant_by_Nadar_ca._1898_bw_restored_cut.jpg)
 
 ###### Questions

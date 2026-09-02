@@ -20,8 +20,9 @@ indice_6 :
   - The Greatest
 questions:
  - 1960, lors du vol pour Rome, quel boxeur américain se fera appeler Ali ?
+culture_g_score: 97
+culture_g_justification: "Figure universelle de la boxe et de l'histoire contemporaine, régulièrement interrogée sous son nom, son parcours, ses combats et ses engagements."
 ---
-
 ![Image de Cassius Clay](https://upload.wikimedia.org/wikipedia/commons/8/89/Muhammad_Ali_NYWTS.jpg)
 
 ###### Questions

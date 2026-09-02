@@ -21,9 +21,9 @@ indice_6 :
   - Maroc
 questions:
  - Quelle place de Marrakech a été classée par l'Unesco en tant que patrimoine culturel immatériel de l'humanité, notamment pour ses conteurs ?
+culture_g_score: 68
+culture_g_justification: "Place emblématique de Marrakech, utile pour les questions sur le Maroc, l’UNESCO et les traditions populaires, sans être omniprésente."
 ---
-
-
 ![Image de Djema'a el-Fna]()
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - The Parisian Bitch
 indice_6 : 
   - Talents Cannes Adami 2013
+culture_g_score: 60
+culture_g_justification: "Actrice française contemporaine connue pour Connasse, Dix pour cent et quelques productions internationales, mais encore modérément présente dans les quiz."
 ---
-
 ![Image de Camille Cottin](https://upload.wikimedia.org/wikipedia/commons/e/ef/Camille_Cottin-64159.jpg)
 
 ###### Questions

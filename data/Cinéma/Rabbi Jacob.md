@@ -22,9 +22,9 @@ indice_6 :
   - comédie française
 questions:
  - En 1973, dans une célèbre comédie  de Gérard Oury, de quel rabbin Louis de Funès prend-il l'identité en se déguisant?
+culture_g_score: 92
+culture_g_justification: "Comédie culte de Louis de Funès, très fréquente dans les quiz francophones grâce à ses scènes, son réalisateur, son contexte et sa musique."
 ---
-
-
 ![Image de Rabbi Jacob](https://upload.wikimedia.org/wikipedia/commons/7/76/RabbiJacob-couleur.png)
 
 ###### Questions

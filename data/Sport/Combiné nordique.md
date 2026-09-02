@@ -20,9 +20,9 @@ indice_6 :
   - Coupe du monde
 questions:
  - Quelle compétition de ski nordique, dont le Français Fabrice Guy était un champion ?
+culture_g_score: 60
+culture_g_justification: "Discipline olympique clairement définie et classique des sports d'hiver, mais avec un nombre d'angles relativement limité."
 ---
-
-
 ![Image de Combiné nordique](https://upload.wikimedia.org/wikipedia/commons/2/26/2020-01-22_Ski_Jumping_Competition_Round_Nordic_Mixed_Team_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93166.jpg)
 
 ###### Questions

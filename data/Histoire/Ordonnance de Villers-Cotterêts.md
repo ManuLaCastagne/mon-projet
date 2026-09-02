@@ -18,8 +18,9 @@ indice_5:
   - enregistrement des actes civils
 indice_6:
   - uniformisation linguistique
+culture_g_score: 80
+culture_g_justification: "Texte majeur de François Ier, fréquemment interrogé pour l’usage du français, l’état civil et la centralisation administrative."
 ---
-
 ![Image de Ordonnance de Villers-Cotterêts](https://upload.wikimedia.org/wikipedia/commons/5/52/Ordonnance_de_Villers-Cotterets_%28Titre%29.png)
 
 ###### Questions

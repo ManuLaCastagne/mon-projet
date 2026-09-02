@@ -20,9 +20,9 @@ indice_6 :
   - commandait les navires La Boussole et L'Astrolabe
 questions:
  - A quel navigateur français du XVIIIe siècle associe-t-on les frégates "la Boussole" et "L'Astrolabe (bateau)" ?
+culture_g_score: 72
+culture_g_justification: "Grand explorateur français associé à Louis XVI, aux expéditions autour du monde et à une disparition devenue célèbre."
 ---
-
-
 ![Image de Comte de Lapérouse](https://upload.wikimedia.org/wikipedia/commons/c/c4/Lap%C3%A9rouse-IMG_8776-white.jpg)
 
 ###### Questions

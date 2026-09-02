@@ -20,9 +20,9 @@ indice_5 :
   - artistes indépendants
 indice_6 : 
   - plateforme française
+culture_g_score: 64
+culture_g_justification: "Entreprise française emblématique du streaming, utile pour des questions sur l’économie numérique et l’industrie musicale, mais encore peu transversale."
 ---
-
-
 ![Image de Deezer](https://upload.wikimedia.org/wikipedia/commons/0/0e/Deezer_New_Icon.svg)
 
 ###### Questions

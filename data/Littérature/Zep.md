@@ -22,8 +22,9 @@ indice_6 :
   - Le Guide du zizi sexuel
 questions:
  - En avril 2018, quel auteur de BD a publié l'album "The End", un thriller éloigné de Titeuf ?
+culture_g_score: 73
+culture_g_justification: "Créateur de Titeuf, Zep est une référence très identifiable de la bande dessinée francophone et de son histoire récente."
 ---
-
 ![Image de Zep](https://upload.wikimedia.org/wikipedia/commons/f/f1/Zep_2008.jpg)
 
 ###### Questions

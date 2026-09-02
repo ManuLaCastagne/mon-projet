@@ -20,8 +20,9 @@ indice_5 :
   - mari d'Elsa Pataky
 indice_6 : 
   - originaire de Melbourne
+culture_g_score: 73
+culture_g_justification: "Acteur très identifiable par Thor, Marvel et quelques franchises internationales, ce qui le rend régulièrement exploitable."
 ---
-
 ![Image de Chris Hemsworth](https://upload.wikimedia.org/wikipedia/commons/6/69/Chris_Hemsworth_by_Gage_Skidmore_3.jpg)
 
 ###### Questions

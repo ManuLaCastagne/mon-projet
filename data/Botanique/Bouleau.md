@@ -13,8 +13,9 @@ indice_5:
   - Arbre de la sagesse
 indice_6:
   - Contreplaqué
+culture_g_score: 64
+culture_g_justification: "Arbre très reconnaissable par son écorce blanche, associé aux paysages, aux usages du bois et aux peuples autochtones d’Amérique du Nord."
 ---
-
 ![Image de Bouleau](https://upload.wikimedia.org/wikipedia/commons/7/78/Illustration_Betula_pendula0.jpg)
 
 ###### Questions

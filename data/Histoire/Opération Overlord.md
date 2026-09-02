@@ -18,8 +18,9 @@ indice_5 :
   - armées alliées
 indice_6 : 
   - D-Day
+culture_g_score: 97
+culture_g_justification: "Nom de code incontournable du débarquement de Normandie, relié à la Seconde Guerre mondiale, aux plages et à la libération de l’Europe."
 ---
-
 ![Image de Opération Overlord](https://upload.wikimedia.org/wikipedia/commons/9/92/Crew_of_a_Sherman-tank_south_of_Vaucelles.jpg)
 
 ###### Questions

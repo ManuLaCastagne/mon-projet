@@ -18,8 +18,9 @@ indice_5 :
   - recherche médicale
 indice_6 : 
   - collecte de fonds
+culture_g_score: 92
+culture_g_justification: "Institution caritative française récurrente, fréquemment interrogée pour son histoire, ses animateurs, l'AFM et ses records de collecte."
 ---
-
 ![Image de Téléthon](https://upload.wikimedia.org/wikipedia/commons/a/a8/Rosa_%27T%C3%A9l%C3%A9thon%27_kz01.jpg)
 
 ###### Questions

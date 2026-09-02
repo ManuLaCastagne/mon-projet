@@ -22,8 +22,9 @@ indice_6 :
   - films pour enfants
 questions:
  - Dans quelle comédie de Chaplin Charlot recueille un orphelin ?
+culture_g_score: 20
+culture_g_justification: "Le sujet est difficile à identifier précisément et ne constitue pas une référence cinématographique clairement incontournable."
 ---
-
 ![Image de Kid](https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Kid_%281921%29.webm)
 
 ###### Questions

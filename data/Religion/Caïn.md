@@ -20,8 +20,9 @@ indice_6 :
   - Fratricide
 questions:
  - Dans la Genèse, à une question posée par Yahvé, quel fils d'Adam et Eve répond  "Suis-je le gardien de mon frère"?
+culture_g_score: 84
+culture_g_justification: "Personnage biblique universellement identifiable grâce au meurtre d’Abel, avec des prolongements religieux, moraux et culturels."
 ---
-
 ![Image de Caïn](https://upload.wikimedia.org/wikipedia/commons/b/b3/Ca%C3%AFn_venant_de_tuer_son_fr%C3%A8re_Abel_by_Henri_Vidal%2C_Tuileries_Garden%2C_18_July_2017.jpg)
 
 ###### Questions

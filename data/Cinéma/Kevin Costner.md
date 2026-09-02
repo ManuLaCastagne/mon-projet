@@ -20,8 +20,9 @@ indice_5 :
   - Les Incorruptibles
 indice_6 : 
   - Le Fugitif
+culture_g_score: 80
+culture_g_justification: "Acteur-réalisateur de Danse avec les loups, des Incorruptibles et de nombreux succès, Kevin Costner offre des repères cinématographiques variés."
 ---
-
 ![Image de Kevin Costner](https://upload.wikimedia.org/wikipedia/commons/9/9a/Kevin_Costner_2016.jpg)
 
 ###### Questions

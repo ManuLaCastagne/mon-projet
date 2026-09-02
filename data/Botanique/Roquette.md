@@ -15,8 +15,9 @@ indice_6 :
   - Salade
 questions:
  - Légume feuille de la famille des crucifères ayant pour nom scientifique Eruca Sativa, je suis rarement cultivé dans les jardins. Utilisé en salade, dans la composition du mesclun et parfois présent sur les pizzas...
+culture_g_score: 48
+culture_g_justification: "Plante alimentaire familière, mais son identification ou sa classification reste peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Roquette](https://upload.wikimedia.org/wikipedia/commons/3/30/Otto_Roquette_2.jpg)
 
 ###### Questions

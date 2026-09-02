@@ -22,8 +22,9 @@ indice_6 :
   - Musique classique autrichienne
 questions:
  - En 1867, à quel compositeur autrichien doit-on la valse "Le Beau Danube bleu"?
+culture_g_score: 80
+culture_g_justification: "Johann Strauss II et Le Beau Danube bleu sont des références classiques fréquentes liées à la valse, à Vienne et au XIXe siècle."
 ---
-
 ![Image de Johann Strauss](https://upload.wikimedia.org/wikipedia/commons/6/67/Johann_Strauss_II_by_Fritz_Luckhardt.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_6 :
   - Pâris et Ménélas
 questions:
  - Au cours de quelle discipline, assimilée à de la boxe, les mains des compétiteurs étaient-elles protégées par de longues lanières de cuir?
+culture_g_score: 60
+culture_g_justification: "Discipline des Jeux olympiques antiques et ancêtre de certains sports de combat, le pugilat est utile mais ses angles restent relativement limités."
 ---
-
 ![Image de Pugilat](https://upload.wikimedia.org/wikipedia/commons/3/32/Leather_wraps%2C_Ancient_Greece%2C_boxing_gloves.png)
 
 ###### Questions

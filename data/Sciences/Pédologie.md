@@ -20,8 +20,9 @@ indice_6 :
   - Structure du sol
 questions:
  - Quel terme issu du grec "pedon" désigne la géologie appliqué du sol ?
+culture_g_score: 48
+culture_g_justification: "Discipline utile pour les sols, l’agriculture et l’environnement, mais rarement ciblée dans les quiz généralistes."
 ---
-
 ![Image de Pédologie](https://upload.wikimedia.org/wikipedia/commons/f/f2/Angular_blocky_soil_structure.jpg)
 
 ###### Questions

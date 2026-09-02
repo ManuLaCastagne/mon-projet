@@ -15,8 +15,9 @@ indice_6 :
   - Plante médicinale
 questions:
  - Quelle plante est aussi appelée "herbe Saint-Jean" ?
+culture_g_score: 20
+culture_g_justification: "Plante sauvage discrète et très spécialisée, pratiquement absente des questions généralistes."
 ---
-
 ![Image de Gléchome](https://upload.wikimedia.org/wikipedia/commons/6/6e/Glechoma_hederacea_-_Keila.jpg)
 
 ###### Questions

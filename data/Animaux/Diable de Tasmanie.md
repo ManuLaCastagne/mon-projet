@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la conservation en Australie
 questions:
  - Quel marsupial carnivore au pelage noir rayé de blanc se nourrit de mammifères et d'oiseaux?
+culture_g_score: 64
+culture_g_justification: "Le diable de Tasmanie est une espèce emblématique de l'Australie, régulièrement associée aux marsupiaux et aux menaces d'extinction."
 ---
-
 ![Image de Diable de Tasmanie](https://upload.wikimedia.org/wikipedia/commons/4/43/Sarcophilus_harrisii_taranna.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - réforme judiciaire et législative
 questions:
  - En 1560, à quel homme politique, nommé chancelier de France, fait-elle appel pour tenter de réconcilier catholiques et protestants?
+culture_g_score: 47
+culture_g_justification: "Chancelier important des guerres de Religion, mais relativement spécialisé et moins fréquent que les grandes figures de cette période."
 ---
-
 ![Image de Michel de L'Hospital](https://upload.wikimedia.org/wikipedia/commons/7/7e/Michel_de_l%27Hospital_statue%2C_Louis-Pierre_Deseine%2C_Palais_Bourbon%2C_Paris%2C_2016.jpg)
 
 ###### Questions

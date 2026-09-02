@@ -22,8 +22,9 @@ indice_6 :
   - histoire des animaux
 questions:
  - 2007, quel historien spécialiste de la symbolique des couleurs publie l'ouvrage "L'Ours, histoire d'un roi déchu" ?
+culture_g_score: 52
+culture_g_justification: "Spécialiste reconnu des couleurs, de l’héraldique et du Moyen Âge, utile sur plusieurs thèmes mais encore peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Michel Pastoureau](https://upload.wikimedia.org/wikipedia/commons/4/4f/Michel_Pastoureau.png)
 
 ###### Questions

@@ -15,9 +15,9 @@ indice_6 :
   - Chien-guide
 questions:
  - Pour mon calme, mon bon caractère et mon attachement...
+culture_g_score: 80
+culture_g_justification: "Race canine mondialement connue et très présente dans les questions sur les animaux domestiques, le travail et les services."
 ---
-
-
 ![Image de Labrador](https://upload.wikimedia.org/wikipedia/commons/d/d8/Labrador-Region.PNG)
 
 ###### Questions

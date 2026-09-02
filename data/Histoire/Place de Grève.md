@@ -20,8 +20,9 @@ indice_6 :
   - symbolique de la mort
 questions:
  - Autrefois, sur quelle place de Paris les ouvriers en quête de reconnaissance manifestaient-ils ?
+culture_g_score: 51
+culture_g_justification: "Lieu parisien lié aux exécutions et à l’histoire populaire, mais moins fréquent et moins structurant que les grands monuments historiques."
 ---
-
 ![Image de Place de Grève](https://upload.wikimedia.org/wikipedia/commons/a/ad/Avenue_Victoria_and_Hotel_de_Ville%2C_Paris_2014.jpg)
 
 ###### Questions

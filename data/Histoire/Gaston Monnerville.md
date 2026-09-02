@@ -20,9 +20,9 @@ indice_6 :
   - défenseur de l'outre-mer
 questions:
  - En France, quel petit-fils d'esclaves a été président du Sénat pendant 22 ans, de 1947 à 1968 ?
+culture_g_score: 47
+culture_g_justification: "Homme politique anticolonialiste important mais discret dans la mémoire collective, principalement utile pour l’histoire du Sénat et de l’outre-mer."
 ---
-
-
 ![Image de Gaston Monnerville](https://upload.wikimedia.org/wikipedia/commons/6/6f/Gaston_Monnerville.jpg)
 
 ###### Questions

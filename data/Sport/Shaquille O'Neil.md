@@ -20,8 +20,9 @@ indice_6 :
   - Shaq
 questions:
  - Où je forme avec Kobe Bryant un des meilleurs duos de la NBA.  Pivot ayant fait une apparition dans le film "Scary Movie 4", j'arrête ma carrière en 2011 après une saison avec les Celtics de Boston.  Basketteur surnommé Shaq…
+culture_g_score: 88
+culture_g_justification: "Superstar mondiale de la NBA, facilement mobilisable grâce à ses titres, ses performances, sa carrière médiatique et son passage chez les Lakers."
 ---
-
 ![Image de Shaquille O'Neil](https://upload.wikimedia.org/wikipedia/commons/f/f6/Shaquille_O%27Neal_October_2017_%28cropped%29.jpg)
 
 ###### Questions

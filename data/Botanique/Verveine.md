@@ -15,8 +15,9 @@ indice_6 :
   - Utilisation  Infusions apaisantes et digestives
 questions:
  - Des huiles essentielles, du mucilage et des tanins. Cultivée par semis au printemps et en automne, j'ai des vertus à la fois digestives et apéritives. Appartenant à la famille des verbénacées?
+culture_g_score: 64
+culture_g_justification: "La verveine est bien implantée dans les boissons, la phytothérapie et les traditions populaires, sans être un marronnier majeur."
 ---
-
 ![Image de Verveine](https://upload.wikimedia.org/wikipedia/commons/e/e4/Macroglossum_stellatarum01%28js%29.jpg)
 
 ###### Questions

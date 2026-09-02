@@ -24,8 +24,9 @@ indice_6 :
   - Cure
 questions:
  - Comptant les villes de Sens, Tonnerre ainsi que la commune de Vézelay, j'ai pour chef-lieu Auxerre.
+culture_g_score: 43
+culture_g_justification: "Département français utile pour Auxerre, Vézelay, Chablis et le canal de Bourgogne, mais d’importance générale limitée."
 ---
-
 ![Image de Yonne](https://upload.wikimedia.org/wikipedia/commons/4/4f/Yonne_l%C3%A9gislatives_1981.svg)
 
 ![[Carte_Yonne.png]]

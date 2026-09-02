@@ -22,8 +22,9 @@ indice_6 :
   - Film Vice
 questions:
  - En 2019, de quel homme politique, vice-président des Etats-Unis à l'époque de George W.Bush, Adam McKay dresse-t-il un portrait dans "Vice"?
+culture_g_score: 72
+culture_g_justification: "Personnalité politique importante de l'administration Bush, interrogable par la présidence américaine, l'Irak et le film Vice."
 ---
-
 ![Image de Dick Cheney](https://upload.wikimedia.org/wikipedia/commons/2/2b/Richard_Cheney_2005_official_portrait.jpg)
 
 ###### Questions

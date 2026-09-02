@@ -24,8 +24,9 @@ indice_6 :
   - Mont Viso
 questions:
  - dans quel département est situé le village de Saint-Véran que vous apercevez ici et qui est situé à plus de 2000m d'altitude qui en fait...
+culture_g_score: 60
+culture_g_justification: "Département montagnard identifiable par les Écrins, les stations alpines et plusieurs repères sportifs et géographiques."
 ---
-
 ![Image de Hautes-Alpes](https://upload.wikimedia.org/wikipedia/commons/3/37/Passerelle_en_partie_d%C3%A9truite_sur_le_torrent_du_Sirac_%28Parc_des_Ecrins%2C_Hautes_Alpes%2C_France%29_20220820_165338.jpg)
 
 ![[Carte_Hautes-Alpes.png]]

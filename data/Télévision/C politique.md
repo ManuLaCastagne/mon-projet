@@ -19,8 +19,9 @@ indice_5 :
   - réformes
 indice_6 : 
   - président
+culture_g_score: 48
+culture_g_justification: "Émission politique connue des téléspectateurs de France 5, mais encore peu susceptible d’être une réponse classique de quiz généraliste."
 ---
-
 ![Image de C politique](https://upload.wikimedia.org/wikipedia/commons/1/16/Centerpartiets_partiledarval_2023.svg)
 
 ###### Questions

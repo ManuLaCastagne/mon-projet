@@ -20,9 +20,9 @@ indice_5 :
   - Infinity Stones
 indice_6 : 
   - Spider-Man
+culture_g_score: 96
+culture_g_justification: "Entreprise et marque centrales du cinéma contemporain, omniprésentes dans les questions sur les super-héros et Disney."
 ---
-
-
 ![Image de Marvel](https://upload.wikimedia.org/wikipedia/commons/d/d5/Norman_Saunders_-_cover_of_Marvel_Science_Stories_for_April-May_1939.jpg)
 
 ###### Questions

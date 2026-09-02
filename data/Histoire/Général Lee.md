@@ -18,8 +18,9 @@ indice_5 :
   - 1861-1865
 indice_6 : 
   - armée sudiste
+culture_g_score: 80
+culture_g_justification: "Commandant emblématique de la Confédération, Robert E. Lee est un repère fréquent pour les questions sur Lincoln, Gettysburg et la guerre de Sécession."
 ---
-
 ![Image de Général Lee](https://upload.wikimedia.org/wikipedia/commons/6/6a/Warner_Bros._Studios%2C_The_General_Lee_%286196872566%29.jpg)
 
 ###### Questions

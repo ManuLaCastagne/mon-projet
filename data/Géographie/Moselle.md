@@ -24,8 +24,9 @@ indice_6 :
   - Parc Naturel Régional de Lorraine
 questions:
  - Quelle rivière, née dans les Vosges, arrosant les villes d'Epinal, constitue la frontière entre le Luxembourg et l'Allemagne ?
+culture_g_score: 60
+culture_g_justification: "Sujet franco-germanique utile à la fois pour le fleuve, le département, les conflits territoriaux et l’histoire industrielle."
 ---
-
 ![Image de Moselle](https://upload.wikimedia.org/wikipedia/commons/8/80/Pont_ferroviaire_Moselle_Liverdun_DSCF1881.jpg)
 
 ![[Carte_Moselle.png]]

@@ -22,11 +22,9 @@ indice_6 :
   - années 1980 et 1990
 questions:
  - En 1980, quel chanteur britannique interprète "Every Kind of People" et "Johnny and Mary" ?
+culture_g_score: 64
+culture_g_justification: "Chanteur britannique identifiable par «Addicted to Love» et The Power Station, avec une fréquence de quiz réelle mais modérée."
 ---
-
-
-
-
 ![Image de Robert Palmer](https://upload.wikimedia.org/wikipedia/commons/7/7a/Robert-Palmer-Sunset-Strip-%28edit%29.jpg)
 
 ###### Questions

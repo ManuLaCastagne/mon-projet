@@ -23,8 +23,9 @@ indice_6 :
   - sculpture impressionniste
 questions:
  - A quel célèbre artiste français doit-on la sculpture en bronze intitulée "Les bourgeois de Calais" ?
+culture_g_score: 100
+culture_g_justification: "Sculpteur universellement célèbre, relié au Penseur, à Camille Claudel, à la sculpture moderne et à de nombreuses œuvres emblématiques."
 ---
-
 ![Image de Auguste Rodin](https://upload.wikimedia.org/wikipedia/commons/a/a6/Eternal_Spring_1884_bronze_by_August_Rodin_%28IMGP2712a%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - British pop
 questions:
  - Je me suis fait connaître en étant l'une des membres du groupe des Spice Girls..
+culture_g_score: 64
+culture_g_justification: "Notoriété très forte par les Spice Girls et la mode, mais son apport propre à la musique reste secondaire."
 ---
-
 ![Image de Victoria Beckham](https://upload.wikimedia.org/wikipedia/commons/a/a8/VictoriaBeckham2018-2-Crop.jpg)
 
 ###### Questions

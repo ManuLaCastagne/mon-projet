@@ -20,8 +20,9 @@ indice_6 :
   - acteur
 questions:
  - En 1996, quel ancien membre des Nuls réalise le film "Delphine 1, Yvan 0" ?
+culture_g_score: 68
+culture_g_justification: "Membre des Nuls et acteur du paysage audiovisuel français, il relie humour, télévision, cinéma et production."
 ---
-
 ![Image de Dominique Farrugia](https://upload.wikimedia.org/wikipedia/commons/f/f6/Dominique_farrugia_06-1999.jpg)
 
 ###### Questions

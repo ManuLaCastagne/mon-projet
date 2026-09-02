@@ -20,8 +20,9 @@ indice_6 :
   - Fin de vie stellaire
 questions:
  - De quelle étoile massive l'explosion rarement observée, se distingue-t-elle de celle d'une nova ?
+culture_g_score: 80
+culture_g_justification: "Phénomène astronomique spectaculaire et classique, ouvrant sur l'évolution stellaire, l'histoire de l'observation et la cosmologie."
 ---
-
 ![Image de Supernova](https://upload.wikimedia.org/wikipedia/commons/d/d4/Keplers_supernova.jpg)
 
 ###### Questions

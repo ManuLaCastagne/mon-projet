@@ -18,12 +18,9 @@ indice_5 :
   - 1949-2005
 indice_6 : 
   - transformation économique
+culture_g_score: 64
+culture_g_justification: "Prince monégasque connu surtout pour son mariage avec Grace Kelly et la modernisation de Monaco."
 ---
-
-
-
-
-
 ![Image de Rainier III](https://upload.wikimedia.org/wikipedia/commons/b/b6/Rainier_III.jpg)
 
 ###### Questions

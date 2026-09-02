@@ -22,8 +22,9 @@ indice_6 :
   - petit monstre
 questions:
  - Film américain de Joe Dante sorti en 1984, j'ai fait l'objet d'une suite en 1990. Mettant en scène des créatures capables de se multiplier très rapidement, j'ai pour héros...
+culture_g_score: 93
+culture_g_justification: "Film culte des années 1980, fréquemment mobilisé grâce à Gizmo, ses règles, Joe Dante, Spielberg et la classification PG-13."
 ---
-
 ![Image de Gremlins](https://upload.wikimedia.org/wikipedia/commons/8/82/Gremlins_Logo.png)
 
 ###### Questions

@@ -23,7 +23,8 @@ indice_6 :
 questions:
  - En 2019, quel chanteur, ayant choisi pour nom de scène un mot signifiant humilité en polonais en référence à ses origines, sort l'album "Pyramide"?
  - Sous quel pseudonyMe, dont la lettre initiale est un M, connaît-on le chanteur nommé Matthieu Tota a débuté au sein du groupe Linkup ?
-culture_g_score: 55
+culture_g_score: 60
+culture_g_justification: "Vedette populaire identifiable par Popstars, Danse avec les stars et plusieurs albums, mais d'importance culturelle générale encore modérée."
 ---
 ![Image de M Pokora](https://upload.wikimedia.org/wikipedia/commons/7/76/M_Pokora.png)
 

@@ -20,8 +20,9 @@ indice_5 :
   - New York
 indice_6 : 
   - comédie dramatique des années 80
+culture_g_score: 80
+culture_g_justification: "Comédie classique et très récompensée, souvent questionnée via Dustin Hoffman, Sydney Pollack, les Oscars et le travestissement."
 ---
-
 ![Image de Tootsie](https://upload.wikimedia.org/wikipedia/commons/8/81/Tootsie_-_plak%C3%A1t_Jan_Sarkandr_Tom%C3%A1nek.jpg)
 
 ###### Questions

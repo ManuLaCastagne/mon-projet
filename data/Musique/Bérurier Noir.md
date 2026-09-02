@@ -20,10 +20,9 @@ indice_5:
   - Années 1980
 indice_6:
   - François Bérurier
+culture_g_score: 60
+culture_g_justification: "Groupe culte du punk français, utile pour la scène alternative, ses chansons et le contexte social des années 1980."
 ---
-
-
-
 ![Image de Bérurier Noir](https://upload.wikimedia.org/wikipedia/commons/2/26/PH-BXN_Boeing_737_KLM_%288600409796%29.jpg)
 
 ###### Questions

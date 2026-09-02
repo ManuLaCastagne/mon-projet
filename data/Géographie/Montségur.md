@@ -24,8 +24,9 @@ indice_6 :
   - village fortifié
 questions:
  - Quelle forteresse située en Ariège fut un haut lieu du cattharysme, assailli et prise après 10 mois de siège ?
+culture_g_score: 64
+culture_g_justification: "Site majeur de l’histoire cathare, régulièrement associé à la croisade des Albigeois et au patrimoine médiéval."
 ---
-
 ![Image de Montségur](https://upload.wikimedia.org/wikipedia/commons/5/54/Montsegur.p%C3%B2g1.jpg)
 
 ![[Carte_Montségur.png]]

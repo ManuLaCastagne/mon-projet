@@ -22,8 +22,9 @@ indice_6 :
   - comédie romantique
 questions:
  - En 1990, quel réalisateur adapte "Cyrano de Bergerac" à l'écran, avec Gérard Depardieu dans le rôle principal?
+culture_g_score: 68
+culture_g_justification: "Réalisateur de Cyrano de Bergerac et du Hussard sur le toit, important pour le cinéma français mais à angles limités."
 ---
-
 ![Image de Jean-Paul Rappeneau](https://upload.wikimedia.org/wikipedia/commons/f/ff/Jean-Paul_Rappeneau_2022.jpg)
 
 ###### Questions

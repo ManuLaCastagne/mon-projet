@@ -18,8 +18,9 @@ indice_6 :
   - mythe grec
 questions:
  - Selon des sources de l'Antiquité,  quel dieu fleuve a parcouru la Grèce entière pour retrouver le ravisseur de sa fille Egine, enlevée par Zeus ?
+culture_g_score: 24
+culture_g_justification: "Divinité fluviale grecque très secondaire, susceptible d’apparaître seulement dans des questions mythologiques spécialisées."
 ---
-
 ![Image de Asopos](https://upload.wikimedia.org/wikipedia/commons/0/09/Asopos_River_at_AgiosThomasTanagras.jpg)
 
 ###### Questions

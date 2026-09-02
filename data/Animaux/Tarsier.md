@@ -13,8 +13,9 @@ indice_5:
   - Gremlin des Philippines
 indice_6:
   - Animal nocturne et mystérieux
+culture_g_score: 40
+culture_g_justification: "Le tarsier est une curiosité zoologique connue pour ses yeux et ses bonds, mais rarement central dans un quiz généraliste."
 ---
-
 ![Image de Tarsier](https://upload.wikimedia.org/wikipedia/commons/e/ec/Tarsier_Hugs_Mossy_Branch.jpg)
 
 ###### Questions

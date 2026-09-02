@@ -13,8 +13,9 @@ indice_5:
   - Tarsier
 indice_6:
   - Symbole de la biodiversité en Indonésie
+culture_g_score: 20
+culture_g_justification: "Le toupaye est un petit mammifère peu connu, susceptible d'apparaître seulement dans des questions zoologiques très spécialisées."
 ---
-
 ![Image de Toupaye](https://upload.wikimedia.org/wikipedia/commons/4/44/Tupaia_belangeri.JPG)
 
 ###### Questions

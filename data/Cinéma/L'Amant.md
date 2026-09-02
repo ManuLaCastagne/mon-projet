@@ -22,8 +22,9 @@ indice_6 :
   - Autobiographie
 questions:
  - En 1992, quel film de Jean-Jacques Annaud ayant pour cadre l'Indochine de années 20 raconte les amours d'une adolescente et d'un trentenaire ?
+culture_g_score: 71
+culture_g_justification: "Adaptation connue de Marguerite Duras, exploitable par la littérature, le cinéma français et le contexte colonial, mais pas omniprésente."
 ---
-
 ![Image de L'Amant](https://upload.wikimedia.org/wikipedia/commons/8/89/Marguerite_Duras_1993.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3LVdbwP9vLAeQt4nKykjdN" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -20,8 +20,9 @@ indice_6 :
   - Discours sur les révolutions de la surface du globe
 questions:
  - A quel zoologiste et paléontologue français, fondateur de l'anatomie comparée, doit-on une "Histoire naturelle des poissons" en 1828?
+culture_g_score: 67
+culture_g_justification: "Naturaliste majeur pour la paléontologie, l’extinction et l’anatomie comparée, mais moins fréquent que Darwin dans les quiz."
 ---
-
 ![Image de Georges Cuvier](https://upload.wikimedia.org/wikipedia/commons/7/78/Georges_Cuvier_3.jpg)
 
 ###### Questions

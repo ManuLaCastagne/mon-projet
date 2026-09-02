@@ -20,8 +20,9 @@ indice_6 :
   - Sortie en 2018
 questions:
  - Série télévisée créée en 2018,  la chanson de mon générique est interprétée par Talisco et je compte parmi mes interprètes Valérie Kaprisky, Gabrielle Lazure et Mélanie Maudran.
+culture_g_score: 60
+culture_g_justification: "Feuilleton quotidien important dans le paysage télévisuel récent, mais encore moins installé culturellement que les grands feuilletons historiques."
 ---
-
 ![Image de Un si grand soleil](https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_de_Un_si_grand_soleil.png)
 
 ###### Questions

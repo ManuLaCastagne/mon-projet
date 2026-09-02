@@ -18,8 +18,9 @@ indice_5 :
   - Espagne
 indice_6 : 
   - Pacifique
+culture_g_score: 97
+culture_g_justification: "Explorateur incontournable, associé à la première circumnavigation, aux Grandes Découvertes, au Pacifique et à l’histoire maritime."
 ---
-
 ![Image de Ferdinand Magellan](https://upload.wikimedia.org/wikipedia/commons/b/b6/Magellan_Railcar.JPG)
 
 ###### Questions

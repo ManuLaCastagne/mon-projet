@@ -22,8 +22,9 @@ indice_6 :
   - Acteur Gallois
 questions:
  - En 1963, quel acteur gallois incarne Marc Antoine, aux côtés de sa future femme, Liz Taylor, dans le film "Cléopâtre"?
+culture_g_score: 80
+culture_g_justification: "Grande figure du théâtre et du cinéma, régulièrement associée à Elizabeth Taylor, Cléopâtre, Shakespeare et ses nombreuses nominations aux Oscars."
 ---
-
 ![Image de Richard Burton](https://upload.wikimedia.org/wikipedia/commons/8/8e/Richard_Burton_-_The_Robe.jpg)
 
 ###### Questions

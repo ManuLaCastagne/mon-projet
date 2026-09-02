@@ -20,8 +20,9 @@ indice_6 :
   - Milanello
 questions:
  - J'ai remporté la Ligue des Champions en 2007 tout en devenant le meilleur buteur de cette compétition.  Champion du monde avec le Brésil en 2002, Ballon d'or 5 ans après...
+culture_g_score: 73
+culture_g_justification: "Ballon d’or brésilien et vedette du Milan, régulièrement interrogé dans les quiz de football des années 2000."
 ---
-
 ![Image de Kaka](https://upload.wikimedia.org/wikipedia/commons/f/f3/Adult-kaka-head-profile.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - A quitté la télévision pour se consacrer à l'écriture
 questions:
  - Animatrice née en 1976, j'ai exercé mon métier à la radio, où j'ai notamment animé "Petit dimanche entre amis", mais surtout à la télévision avec des émissions telles que "Classé confidentiel".  Ayant mis pendant 4 ans ma bonne humeur au service de "C à vous" puis de diverses émissions, je participe depuis quelques années à "Mask Singer" et à "C'est Canteloup".
+culture_g_score: 56
+culture_g_justification: "Animatrice connue de C à vous et de plusieurs programmes, avec une notoriété correcte mais une importance culturelle limitée."
 ---
-
 ![Image de Alessandra Sublet](https://upload.wikimedia.org/wikipedia/commons/1/1a/Alessandra_Sublet_in_2020.png)
 
 ###### Questions

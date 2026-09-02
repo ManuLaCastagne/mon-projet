@@ -22,8 +22,9 @@ indice_6 :
   - boulevard du Crime
 questions:
  - En 1945, quel drame romantique de Marcel Carné porte un titre comportant...
+culture_g_score: 84
+culture_g_justification: "Monument du cinéma français, particulièrement rentable par Carné, Prévert, l’Occupation, le théâtre et ses acteurs."
 ---
-
 ![Image de Les Enfants du paradis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Les_enfants_du_Paradis.jpg)
 
 ###### Questions

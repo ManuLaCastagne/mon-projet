@@ -20,8 +20,9 @@ indice_6 :
   - Autriche
 questions:
  - En 1791, quelle fille de Marie-Thérèse d'Autriche, épouse de Louis XVI...
+culture_g_score: 100
+culture_g_justification: "Figure mondialement célèbre de la monarchie française et de la Révolution, associée à de très nombreux repères historiques et culturels."
 ---
-
 ![Image de Marie-Antoinette](https://upload.wikimedia.org/wikipedia/commons/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg)
 
 ###### Questions

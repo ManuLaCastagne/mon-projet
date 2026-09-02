@@ -22,8 +22,9 @@ indice_6 :
   - écriture sanskrite
 questions:
  - Quel ouvrage de technique philosophico-érotique indien, attribué à Vatsyayana, porte un nom signifiant aphorismes sur le désir ?
+culture_g_score: 84
+culture_g_justification: "Texte mondialement connu, souvent associé à l’Inde ancienne, à la sexualité et au patrimoine de Khajuraho."
 ---
-
 ![Image de Kama-sutra](https://upload.wikimedia.org/wikipedia/commons/8/85/3rd_or_4th_century_CE_Kamasutra%2C_Vatsyayana%2C_13th-century_Jayamangala_commentary_of_Yashodhara%2C_Bendall_purchase_1885CE_in_Nepal%2C_Sanskrit%2C_Devanagari.jpg)
 
 ###### Questions

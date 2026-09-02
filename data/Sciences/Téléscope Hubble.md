@@ -18,8 +18,9 @@ indice_5 :
   - Edwin Hubble
 indice_6 : 
   - Images spectaculaires
+culture_g_score: 100
+culture_g_justification: "Observatoire spatial emblématique et omniprésent dans la vulgarisation, reliant astronomie, NASA, missions spatiales, découvertes et images célèbres."
 ---
-
 ![Image de Téléscope Hubble](https://upload.wikimedia.org/wikipedia/commons/5/5e/Messier83_-_Heic1403a.jpg)
 
 ###### Questions

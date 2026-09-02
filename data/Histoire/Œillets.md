@@ -20,8 +20,9 @@ indice_6 :
   - Chanson Grândola
 questions:
  - A quelles fleurs, portées à la boutonnière par les insurgés, la révolution qui débuta en 1974 au Portugal fait-elle référence ?
+culture_g_score: 55
+culture_g_justification: "La fleur est surtout rentable grâce à la Révolution des Œillets portugaise, les autres usages historiques étant plus marginaux."
 ---
-
 ![Image de Œillets](https://upload.wikimedia.org/wikipedia/commons/8/85/Poin%C3%A7onnage_%C3%A0_oeillets_03.jpg)
 
 ###### Questions

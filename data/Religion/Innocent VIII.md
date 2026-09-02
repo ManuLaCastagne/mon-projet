@@ -18,8 +18,9 @@ indice_5 :
   - 1484-1492
 indice_6 : 
   - Concordat de Tolentino
+culture_g_score: 43
+culture_g_justification: "Pape de la fin du XVe siècle associé à la sorcellerie et à quelques controverses, mais rarement prioritaire."
 ---
-
 ![Image de Innocent VIII](https://upload.wikimedia.org/wikipedia/commons/b/b2/Ritratto_di_papa_Innocenzo_VIII_%E2%80%93_Calvi_dell%27Umbria.jpg)
 
 ###### Questions

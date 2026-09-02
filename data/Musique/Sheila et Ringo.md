@@ -22,8 +22,9 @@ indice_6 :
   - Scopitone
 questions:
  - En 1973, année de leur mariage, quel couple de chanteurs a interprété le tube "Les gondoles à Venise"?
+culture_g_score: 44
+culture_g_justification: "Le duo Sheila-Ringo est surtout associé à « Les Gondoles à Venise » et à sa relation médiatisée, avec peu d’angles indépendants."
 ---
-
 ![Image de Sheila et Ringo](https://upload.wikimedia.org/wikipedia/commons/3/34/Dames_van_adel_wachten_op_een_gondel_in_Veneti%C3%AB_Comment_les_Femmes_Nobles_entrent_dans_les_Gondoles_%C3%A0_Venise_%28titel_op_object%29_Paleizen_en_monumenten_in_Veneti%C3%AB%2C_Livorno%2C_Napels_en_Rome_%28serietitel%29%2C_BI-1962-1072-46.jpg)
 
 ###### Questions

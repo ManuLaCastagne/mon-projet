@@ -22,8 +22,9 @@ indice_5 :
   - Atlas
 indice_6 : 
   - Méditerranée
+culture_g_score: 80
+culture_g_justification: "La Tunisie est un pays fréquent des quiz grâce à Carthage, l’Afrique du Nord, le monde arabe, le tourisme et son histoire contemporaine."
 ---
-
 ![[Carte_Tunisie.png]]
 
 ###### Questions

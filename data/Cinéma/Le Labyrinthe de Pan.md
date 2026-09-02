@@ -22,8 +22,9 @@ indice_6 :
   - Ofelia
 questions:
  - En 2006, dans quel film de Guillermo del Toro, se passant en 1944 en Culture_G/Espagne, une fillette découvre-t-elle...
+culture_g_score: 80
+culture_g_justification: "Œuvre majeure de Guillermo del Toro, à la croisée du fantastique, de l’histoire espagnole, des Oscars et du cinéma mondial."
 ---
-
 ![Image de Le Labyrinthe de Pan](https://upload.wikimedia.org/wikipedia/commons/5/5e/Le_Labyrinthe_de_Versailles%2C_LDUT724.jpg)
 
 ###### Questions

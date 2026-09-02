@@ -19,8 +19,9 @@ indice_5:
   - fleuve Guaire
 indice_6:
   - mer des Caraïbes
+culture_g_score: 72
+culture_g_justification: "Capitale régulièrement demandée, notamment via le Venezuela et Simón Bolívar, mais avec une portée culturelle plus limitée."
 ---
-
 ![Image de Caracas](https://upload.wikimedia.org/wikipedia/commons/9/95/El_Para%C3%ADso_tunnel_main_gate_of_Caracas.jpg)
 
 ![[Carte_Caracas.png]]

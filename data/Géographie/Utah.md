@@ -22,9 +22,9 @@ indice_6 :
   - Station de ski de Park City
 questions:
  - Regardez.  C'est Delicate Arch,  que l'on peut admirer dans le parc national américain des Arches. Quel Etat de l'ouest...
+culture_g_score: 80
+culture_g_justification: "L’Utah est rentable grâce à ses parcs nationaux, au Grand Lac Salé, aux Jeux olympiques et à la géographie de l’Ouest américain."
 ---
-
-
 ![Image de Utah](https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg)
 
 ![[Carte_Utah.png]]

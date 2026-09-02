@@ -22,9 +22,9 @@ indice_6 :
   - cloche
 questions:
  - A Londres, quelle horloge de Westminster devrait son surnom soit à Benjamin Hall, qui fut le 1er commissaire des travaux publics, soit à un ancien boxeur nommé Ben Caunt ?
+culture_g_score: 89
+culture_g_justification: "Big Ben est un symbole universel de Londres et revient très souvent dans les questions sur le Royaume-Uni et les monuments."
 ---
-
-
 ![Image de Big Ben](https://upload.wikimedia.org/wikipedia/commons/9/97/Big_Ben_at_sunset_-_2014-10-27_17-30.jpg)
 
 ###### Questions

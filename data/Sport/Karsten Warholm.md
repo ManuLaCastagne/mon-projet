@@ -20,8 +20,9 @@ indice_6 :
   - Athlétisme
 questions:
  - Quel athlète norvégien, champion du monde du 400 m haies en 2017 et 2019, s'est imposé comme l'une des stars actuelles de l'athlétisme?
+culture_g_score: 57
+culture_g_justification: "Champion et recordman du 400 mètres haies, mais encore moins installé dans la culture générale que les grandes stars historiques de l’athlétisme."
 ---
-
 ![Image de Karsten Warholm](https://upload.wikimedia.org/wikipedia/commons/1/15/2017-BG_Warholm_05.jpg)
 
 ###### Questions

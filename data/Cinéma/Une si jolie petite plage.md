@@ -22,8 +22,9 @@ indice_6 :
   - René Château
 questions:
  - En 1949, dans quel film d'Yves Allégret, Gérard Philipe revient-il dans un village du littoral du nord de la France où il a vécu dans son enfance?
+culture_g_score: 20
+culture_g_justification: "Ce titre renvoie à un drame français ancien et peu connu, dont les possibilités de questions restent très limitées."
 ---
-
 ![Image de Une si jolie petite plage](https://upload.wikimedia.org/wikipedia/commons/3/33/Recueil._%22Une_si_jolie_petite_plage%22_film_de_Yves_Allegret_-_btv1b10525922h_%2801_of_57%29.jpg)
 
 ###### Questions

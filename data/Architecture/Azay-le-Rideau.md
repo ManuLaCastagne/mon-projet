@@ -22,20 +22,9 @@ indice_5:
   - galerie ouverte
 indice_6:
   - charpente en bois
+culture_g_score: 48
+culture_g_justification: "Azay-le-Rideau est un château classique de la Renaissance française, mais ses possibilités de questions restent relativement limitées."
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![Image de Azay-le-Rideau](https://upload.wikimedia.org/wikipedia/commons/c/cf/00_2431_Azay-le-Rideau.jpg)
 
 ###### Questions

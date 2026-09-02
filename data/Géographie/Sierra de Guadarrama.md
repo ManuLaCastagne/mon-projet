@@ -22,8 +22,9 @@ indice_6:
   - Peñalara
 questions:
   - Quelle chaîne de montagne située entre le Tage et le Douro sépare la Nouvelle Castille de la Vieille Castille ?
+culture_g_score: 32
+culture_g_justification: "Massif espagnol d’intérêt régional, peu fréquent dans les quiz généralistes malgré son parc national."
 ---
-
 ![Image de Sierra de Guadarrama](https://upload.wikimedia.org/wikipedia/commons/d/d9/Ascendiendo_a_Pe%C3%B1alara_con_nieve._Sierra_de_Guadarrama._Espa%C3%B1a._Spain.jpg)
 
 ![[Carte_Sierra de Guadarrama.png]]

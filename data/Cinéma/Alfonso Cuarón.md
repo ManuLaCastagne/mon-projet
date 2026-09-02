@@ -20,10 +20,9 @@ indice_5 :
   - Oscar du meilleur réalisateur
 indice_6 : 
   - Harry Potter et le Prisonnier d'Azkaban
+culture_g_score: 80
+culture_g_justification: "Réalisateur international récompensé, lié à Harry Potter, Gravity et Roma, donc fréquemment exploitable sous plusieurs angles."
 ---
-
-
-
 ![Image de Alfonso Cuarón](https://upload.wikimedia.org/wikipedia/commons/0/00/Alfonso_Cuar%C3%B3n_%282013%29_cropped.jpg)
 
 ###### Questions

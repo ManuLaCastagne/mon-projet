@@ -24,9 +24,9 @@ indice_6:
   - Présence du Canal de Saint-Denis
 questions:
   - Dans quel parc de la commune de Seine-Saint-Denis se tient généralement la fête de l'Huma ?
+culture_g_score: 40
+culture_g_justification: "La Courneuve peut être interrogée pour le parc Georges-Valbon et la fête de l’Humanité, mais reste une commune de portée culturelle limitée."
 ---
-
-
 ![Image de Courneuve](https://upload.wikimedia.org/wikipedia/commons/e/e5/La_Courneuve_Moulin_Fayvon_-_AM_La_Courneuve_8Fi121.jpg)
 
 ![[Carte_La Courneuve.png]]

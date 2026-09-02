@@ -20,9 +20,9 @@ indice_6 :
   - Église catholique
 questions:
  - En 1527, quel pape se déguisa en commerçant pour sortir du château Saint-Ange où il était resté prisonnier pendant plusieurs mois?
+culture_g_score: 76
+culture_g_justification: "Son opposition à Henri VIII et le sac de Rome le rendent régulièrement utile pour la Réforme et l’histoire de l’Italie."
 ---
-
-
 ![Image de Clément VII](https://upload.wikimedia.org/wikipedia/commons/0/0e/D%27apr%C3%A8s_Sebastiano_del_Piombo_-_Cl%C3%A9ment_VII_-_MG_25_-_Museum_of_Grenoble.jpg)
 
 ###### Questions

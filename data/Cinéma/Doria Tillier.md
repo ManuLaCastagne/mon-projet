@@ -20,11 +20,9 @@ indice_5:
   - Monsieur & Madame Adelman
 indice_6:
   - César de la meilleure actrice
+culture_g_score: 40
+culture_g_justification: "Actrice et ancienne présentatrice météo identifiable, mais encore peu présente dans les quiz généralistes hors de quelques films récents."
 ---
-
-
-
-
 ![Image de Doria Tillier](https://upload.wikimedia.org/wikipedia/commons/b/b0/Doria_Tillier_Cabourg_2019_%28cropped%29.jpg)
 
 ###### Questions

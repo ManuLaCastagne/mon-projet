@@ -15,8 +15,9 @@ indice_6 :
   - Porteur de messages dans certaines cultures
 questions:
  - Quel échassier, dont l'espèce dite cendrée est appelé "bécasse de mer" ?
+culture_g_score: 40
+culture_g_justification: "Oiseau limicole identifiable par son long bec, mais relativement spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Courlis](https://upload.wikimedia.org/wikipedia/commons/0/0c/Whimbrel_Numenius_phaeopus.jpg)
 
 ###### Questions

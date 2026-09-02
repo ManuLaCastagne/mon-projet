@@ -22,8 +22,9 @@ indice_6 :
   - Représenté dans le film Les Enfants du Paradis
 questions:
  - En 1945, dans le film "Les Enfants du Paradis", à quel personnage incarné par Arletty doit-on la réplique  "vous avez la tête trop chaude pour moi, Pierre-François, et le coeur trop froid. Je crains les courants d'air." ?
+culture_g_score: 32
+culture_g_justification: "Le sujet désigne ici un élément précis lié au cinéma, trop ambigu et trop peu central pour constituer une priorité d'apprentissage."
 ---
-
 ![Image de Garance](https://upload.wikimedia.org/wikipedia/commons/4/40/Garance_2025-02-27_%28MODIS%29.jpg)
 
 ###### Questions

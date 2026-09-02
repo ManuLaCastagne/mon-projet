@@ -22,8 +22,9 @@ indice_6 :
   - inspiratrice de Freud
 questions:
  - Quelle femme de lettres allemande, née en 1861, a été l'amie de Nietzsche et de Rilke?
+culture_g_score: 55
+culture_g_justification: "Figure à la croisée de la littérature, de la psychanalyse et de Nietzsche, mais relativement peu connue hors des quiz spécialisés."
 ---
-
 ![Image de Lou Andreas-Salomé](https://upload.wikimedia.org/wikipedia/commons/b/be/Lou_Andreas-Salom%C3%A9_-_Foto_Atelier_Elvira.jpg)
 
 ###### Questions

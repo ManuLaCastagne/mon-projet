@@ -17,8 +17,9 @@ indice_5 :
   - réalisateur Alexandre Arcady
 indice_6 : 
   - règlement de comptes
+culture_g_score: 60
+culture_g_justification: "Film français marquant des années 1980, mais principalement mobilisé dans des questions de cinéma national et de gangster."
 ---
-
 ![Image de Le Grand Pardon]()
 
 ###### Questions

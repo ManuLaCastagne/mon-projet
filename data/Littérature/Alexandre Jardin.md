@@ -23,8 +23,9 @@ indice_6 :
   - écrivain français
 questions:
  - En 1995, dans "L'Ile des gauchers", quel romancier français  imagine une société où les droitiers ne sont plus que l'exception?
+culture_g_score: 40
+culture_g_justification: "Écrivain contemporain connu surtout pour Le Zèbre et quelques activités publiques, il offre un rendement généraliste limité."
 ---
-
 ![Image de Alexandre Jardin](https://upload.wikimedia.org/wikipedia/commons/d/d3/Alexandre_Jardin_2013_crop.jpg)
 
 ###### Questions

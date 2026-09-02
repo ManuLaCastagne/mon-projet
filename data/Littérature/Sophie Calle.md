@@ -22,8 +22,9 @@ indice_6 :
   - enquête photographique et littéraire
 questions:
  - Quelle artiste contemporaine française capte la vie privée de ses contemporains ou met en scène sa propre vie comme dans les oeuvres "Chambre avec vue" et "Prenez soin de vous" ?
+culture_g_score: 52
+culture_g_justification: "Artiste contemporaine connue pour ses dispositifs autobiographiques, à la croisée de l’art, de la photographie et de l’écriture."
 ---
-
 ![Image de Sophie Calle](https://upload.wikimedia.org/wikipedia/commons/6/62/Sophie_Calle_au_FILAF.jpg)
 
 ###### Questions

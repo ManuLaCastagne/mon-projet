@@ -16,8 +16,9 @@ indice_5:
   - Modernisation de l'État
 indice_6:
   - Ami de Voltaire
+culture_g_score: 80
+culture_g_justification: "Frédéric le Grand est une référence des monarchies éclairées, de la Prusse, de la guerre de Sept Ans et des arts."
 ---
-
 ![Image de Frédéric II](https://upload.wikimedia.org/wikipedia/commons/9/90/Friedrich_Zweite_Alt.jpg)
 
 ###### Questions

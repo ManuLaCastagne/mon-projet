@@ -15,8 +15,9 @@ indice_6:
   - Utilisées couramment en alimentation et médecine
 questions:
   - A quelle famille de plantes la tomate ou la patate appartiennent-elles ?
+culture_g_score: 72
+culture_g_justification: "Famille riche reliant tomate, pomme de terre, aubergine, tabac et plantes toxiques, ce qui offre plusieurs angles de culture générale."
 ---
-
 ![Image de Solanacées](https://upload.wikimedia.org/wikipedia/commons/8/8b/Brugmansia_lg.jpg)
 
 ###### Questions

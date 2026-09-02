@@ -23,8 +23,9 @@ indice_6 :
   - sculptures allégoriques
 questions:
  - Quel pont parisien inauguré en 1900, est le plus richement décoré de la capitale, avec pas moins de 22 sculptures et 32 candélabre ?
+culture_g_score: 68
+culture_g_justification: "Pont parisien très reconnaissable par l'Exposition de 1900, l'alliance franco-russe et ses ornements monumentaux."
 ---
-
 ![Image de Pont Alexandre-III](https://upload.wikimedia.org/wikipedia/commons/d/de/Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg)
 
 ###### Questions

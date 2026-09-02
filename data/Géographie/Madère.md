@@ -24,9 +24,9 @@ indice_6 :
   - montagnes et forêts verdoyantes
 questions:
  - De quel archipel portugais de l'Atlantique situé au large des côtes marocaines, la ville de Funchal en est la capitale ?
+culture_g_score: 64
+culture_g_justification: "Archipel connu pour Cristiano Ronaldo, Funchal, le vin, les fleurs et les découvertes portugaises, avec une fréquence quiz bonne mais ciblée."
 ---
-
-
 ![Image de Madère](https://upload.wikimedia.org/wikipedia/commons/5/53/Muri%C3%B3n_%28Gymnothorax_unicolor%29%2C_Madeira%2C_Portugal%2C_2019-05-31%2C_DD_49.jpg)
 
 ![[Carte_Madère.png]]

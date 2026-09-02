@@ -22,8 +22,9 @@ indice_6:
   - règne d'Elizabeth II
 questions:
   - Pour quelle série Olivia Colman incarne-t-elle incarne Elisabeth II...
+culture_g_score: 80
+culture_g_justification: "Série populaire et culturellement identifiable, offrant des entrées royales, historiques, télévisuelles et liées à Netflix."
 ---
-
 ![Image de The Crown](https://upload.wikimedia.org/wikipedia/commons/d/d9/Crown_of_the_Virgin_of_the_Immaculate_Conception%2C_known_as_the_Crown_of_the_Andes_MET_DP365520.jpg)
 
 ###### Questions

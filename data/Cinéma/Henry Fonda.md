@@ -20,8 +20,9 @@ indice_5:
   - Mon nom est Personne
 indice_6:
   - père de Jane Fonda
+culture_g_score: 100
+culture_g_justification: "Immense acteur américain associé à plusieurs classiques majeurs, dont Les Raisins de la colère, 12 Hommes en colère et Il était une fois dans l’Ouest."
 ---
-
 ![Image de Henry Fonda](https://upload.wikimedia.org/wikipedia/commons/0/0c/Henry_Fonda_in_Warlock.jpg)
 
 ###### Questions

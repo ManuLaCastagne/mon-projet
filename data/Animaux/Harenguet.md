@@ -15,8 +15,9 @@ indice_6 :
   - Alimentation traditionnelle en Scandinavie
 questions:
  - Poisson nordique, commun des Lofoten, jusqu'à l'embouchure de la Loire, je suis surtout pêché dans la Baltique, la mer du Nord et la Manche. Appelé "esprot"...
+culture_g_score: 3
+culture_g_justification: "Terme régional et historique désignant un jeune hareng, presque jamais utile hors d'une question lexicale spécialisée."
 ---
-
 ![Image de Harenguet](https://upload.wikimedia.org/wikipedia/commons/e/e1/LL-Q150_%28fra%29-Sagnamadr-harenguet.wav)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - faune et flore remarquables
 questions:
  - Quel mont porte le signal de Finiels qui, à 1699 m d'altitude, constitue le point culminant des Cévennes?
+culture_g_score: 40
+culture_g_justification: "Sommet régional utile pour la géographie française, mais rarement prioritaire dans les quiz généralistes."
 ---
-
 ![Image de Mont Lozère](https://upload.wikimedia.org/wikipedia/commons/0/0d/Mont_lozere.jpg)
 
 ![[Carte_Mont Lozère.png]]

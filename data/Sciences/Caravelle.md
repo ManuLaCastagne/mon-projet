@@ -20,8 +20,9 @@ indice_6 :
   - Christophe Colomb
 questions:
  - Avion que l'on voit atterrir dans un plan d'archive, au début du film "OSS 117 Le Caire, nid d'espions", je fus un des 1ers avions de ligne à réaction construits en série.
+culture_g_score: 60
+culture_g_justification: "La Caravelle aéronautique est un repère de l’histoire de l’aviation française, mais son usage en quiz reste assez ciblé."
 ---
-
 ![Image de Caravelle](https://upload.wikimedia.org/wikipedia/commons/a/a5/Sud-Aviation_SE_210_Caravelle_logo.svg)
 
 ###### Questions

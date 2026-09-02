@@ -24,8 +24,9 @@ indice_6 :
   - Yucatán
 questions:
  - En 1981, dans un film évoquant les aventures d'une célèbre automobile, dans quelle capitale latino-américaine 2 amis participent-ils à une course dans "La Coccinelle" ?
+culture_g_score: 100
+culture_g_justification: "Métropole mondiale liée aux Aztèques, aux Jeux olympiques, à la politique mexicaine et à une riche histoire urbaine."
 ---
-
 ![Image de Mexico](https://upload.wikimedia.org/wikipedia/commons/6/69/Iglesia_de_san_francisco_300_dpi.jpg)
 
 ![[Carte_Mexico.png]]

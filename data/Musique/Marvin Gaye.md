@@ -22,8 +22,9 @@ indice_6 :
   - I Heard It Through the Grapevine
 questions:
  - Choriste pour la compagnie Motown, je m'impose ensuite comme l'un des plus grands chanteurs de soul avec des tubes..
+culture_g_score: 80
+culture_g_justification: "Figure majeure de la soul et de Motown, reliée à des albums, chansons, enjeux sociaux et collaborations souvent interrogés."
 ---
-
 ![Image de Marvin Gaye](https://upload.wikimedia.org/wikipedia/commons/0/03/Marvin_Gaye_%281973_publicity_photo%29.jpg)
 
 ###### Questions

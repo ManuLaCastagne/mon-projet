@@ -22,8 +22,9 @@ indice_6:
   - architecture militaire
 questions:
   - Quel édifice officiel,  achevé en 1943 à Culture_G/Washington, abritant le secrétariat à la Défense…
+culture_g_score: 80
+culture_g_justification: "Bâtiment mondialement identifié au pouvoir militaire américain et aux attentats du 11 septembre, avec plusieurs angles historiques."
 ---
-
 ![Image de Pentagone](https://upload.wikimedia.org/wikipedia/commons/4/45/Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Bruxelles_-_Int%C3%A9rieur.jpg)
 
 ![[Carte_Pentagone.png]]

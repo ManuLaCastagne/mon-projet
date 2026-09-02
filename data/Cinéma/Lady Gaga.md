@@ -22,9 +22,9 @@ indice_6 :
   - Maison Gucci
 questions:
  - En 2018, dans le film "A Star is born" de Bradley Cooper, quelle artiste interprète une chanteuse passant de l'ombre à la lumière?
+culture_g_score: 80
+culture_g_justification: "Star mondiale de la musique et du cinéma, mobilisable via ses chansons, ses Oscars, ses rôles et la culture populaire contemporaine."
 ---
-
-
 ![Image de Lady Gaga](https://upload.wikimedia.org/wikipedia/commons/f/fd/Lady_Gaga_in_2023_%28cropped%29.jpg)
 
 ###### Questions

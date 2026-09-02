@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté et d'agilité
 questions:
  - Quel singe arboricole végétarien est caractérisé par la longueur de ses membres, aussi appelé "singe-araignée" ?
+culture_g_score: 52
+culture_g_justification: "Primate connu pour sa queue préhensile et ses comportements sociaux, mais d'apparition modérée dans les quiz."
 ---
-
 ![Image de Atèle](https://upload.wikimedia.org/wikipedia/commons/7/7a/Geoffroy%27s_spider_monkey_%28Ateles_geoffroyi_yucatanensis%29_Peten_2.jpg)
 
 ###### Questions

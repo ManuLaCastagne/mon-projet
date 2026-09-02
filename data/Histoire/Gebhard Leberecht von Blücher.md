@@ -20,8 +20,9 @@ indice_6 :
   - né en 1742
 questions:
  - Quel feld-maréchal prussien intervint de façon décisive à Bataille de Waterloo ?
+culture_g_score: 77
+culture_g_justification: "Général prussien incontournable pour Waterloo, Leipzig et les guerres napoléoniennes, malgré des angles surtout militaires."
 ---
-
 ![Image de Gebhard Leberecht von Blücher](https://upload.wikimedia.org/wikipedia/commons/0/0e/Bl%C3%BCcher-Denkmal_Bebelplatz_1961.jpg)
 
 ###### Questions

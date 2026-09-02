@@ -15,8 +15,9 @@ indice_6 :
   - Renforcement des liens sociaux
 questions:
  - A quel rituel, utile d'un point de vue hygiénique et appelé "grooming" en anglais, le chimpanzé s'adonne-t-il afin de renforcer le lien social?
+culture_g_score: 52
+culture_g_justification: "L’épouillage éclaire les comportements sociaux des primates et des oiseaux, sans être une réponse très fréquente."
 ---
-
 ![Image de Épouillage](https://upload.wikimedia.org/wikipedia/commons/7/7f/Fig.4.Louse_bites.jpg)
 
 ###### Questions

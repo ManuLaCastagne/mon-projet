@@ -22,8 +22,9 @@ indice_6 :
   - satire
 questions:
  - Formule par laquelle l'auteur nous invite à nous occuper des choses que l'on peut changer, à défaut de vivre dans "le meilleur des mondes possibles", je marque la fin de l'ouvrage après la phrase "Il faut cultiver notre jardin" par le héros de ce contre de Voltaire.
+culture_g_score: 100
+culture_g_justification: "Conte philosophique universellement célèbre, exploitable en littérature, philosophie, histoire des idées, personnages et expressions, et très fréquent dans les quiz."
 ---
-
 ![Image de Candide (roman)](https://upload.wikimedia.org/wikipedia/commons/1/16/Voltaire_-_Candide_-_Baquoy_-_Moreau.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Duke Ellington
 questions:
  - Quelle danse, désignée par un mot dérivé d'un verbe anglais signifiant tordre, était en vogue chez les yé-yé?
+culture_g_score: 83
+culture_g_justification: "Genre central de l'histoire du jazz et de la musique populaire, ouvrant de nombreux angles historiques et musicaux."
 ---
-
 ![Image de Le Swing](https://upload.wikimedia.org/wikipedia/commons/b/b4/Wooden_bench_swing_and_wicker_hammocks_on_a_bamboo_footbridge_in_paddy_fields_a_sunny_day_during_the_monsoon%2C_Vang_Vieng%2C_Laos.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - forêt atlantique
 questions:
  - Dans quel pays le Candomblé vénère-t-il les Orixàs…
+culture_g_score: 100
+culture_g_justification: "Le Brésil est un État majeur et extrêmement transversal, présent dans les quiz par sa géographie, son histoire, sa culture, son sport et son économie."
 ---
-
-
 ![Image de Brésil](https://upload.wikimedia.org/wikipedia/commons/e/e5/Reflection_of_Parque_Cultural_Paulista_building_in_Avenida_Paulista%2C_Brazil.jpg)
 
 ![[Carte_Brésil.png]]

@@ -19,8 +19,9 @@ indice_5 :
   - Marseillais vs Le Reste du Monde
 indice_6 : 
   - candidate emblématique
+culture_g_score: 24
+culture_g_justification: "Personnalité de téléréalité à notoriété limitée, surtout susceptible d'apparaître dans une question spécialisée sur ce genre télévisuel."
 ---
-
 ![Image de Milla Jasmine](https://upload.wikimedia.org/wikipedia/commons/c/ce/Wmf_AR12_v11_SHIP_2pp_hyper_14jan14.pdf)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - mer Méditerranée
 questions:
  - Quel château fort, construit sous François Ier sur un îlot calcaire de la Méditerranée, en face de Marseille...
+culture_g_score: 64
+culture_g_justification: "Monument marseillais classique, surtout interrogé par son rôle de prison et son lien avec Le Comte de Monte-Cristo."
 ---
-
 ![Image de Château d'If](https://upload.wikimedia.org/wikipedia/commons/7/70/Ch%C3%A2teau_d%27If_%40_Baie_de_Marseille_01.jpg)
 
 ![[Carte_Château d'If.png]]

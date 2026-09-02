@@ -24,9 +24,9 @@ indice_6 :
   - Asie centrale
 questions:
  - Quel pays d'Asie centrale abrite, dans sa capitale Astana, une pyramide haute de 62 m, abritant 4 lieux de culte dédiés au judaïsme, à l'islam, au christianisme et au bouddhisme?
+culture_g_score: 80
+culture_g_justification: "Grand pays d’Asie centrale fréquemment associé à Baïkonour, aux steppes, à la mer Caspienne et aux héritages soviétiques."
 ---
-
-
 ![Image de Kazakhstan](https://upload.wikimedia.org/wikipedia/commons/c/c8/Kazakhstan_Altay_2.jpg)
 
 ![[Carte_Kazakhstan.png]]

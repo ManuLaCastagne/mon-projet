@@ -20,8 +20,9 @@ indice_6 :
   - symbole du thé rouge
 questions:
  - Dans quelle série le héros incarné par Simon Baker se prénomme Patrick ?
+culture_g_score: 72
+culture_g_justification: "Série policière internationale très connue, dont le titre, le héros et l'acteur constituent plusieurs entrées classiques de quiz."
 ---
-
 ![Image de Mentalist](https://upload.wikimedia.org/wikipedia/commons/6/6c/Mentalist_Aathi.jpg)
 
 ###### Questions

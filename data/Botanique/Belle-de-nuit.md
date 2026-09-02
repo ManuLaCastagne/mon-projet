@@ -13,8 +13,9 @@ indice_5:
   - Merveille du Pérou
 indice_6:
   - Ornementale dans les jardins et utilisées en cosmétique pour ses propriétés aromatiques
+culture_g_score: 44
+culture_g_justification: "La floraison nocturne et le nom de merveille du Pérou donnent quelques questions typiques, mais le sujet reste étroit."
 ---
-
 ![Image de Belle-de-nuit](https://upload.wikimedia.org/wikipedia/commons/0/0f/Mirabilis_jalapa_%28Belle-de-nuit%29_-_470.jpg)
 
 ###### Questions

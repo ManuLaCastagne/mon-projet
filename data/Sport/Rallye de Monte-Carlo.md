@@ -20,8 +20,9 @@ indice_6 :
   - Rallye Automobile Club de Monaco
 questions:
  - Compétition sportive fondée en 1911 à l'initiative de Gabriel Vialon et Antony Noghès, j'étais alors financé par la société des Bains de Mers.
+culture_g_score: 77
+culture_g_justification: "Rallye automobile historique et prestigieux, régulièrement associé au championnat du monde, à Monaco et à Sébastien Loeb."
 ---
-
 ![Image de Rallye de Monte-Carlo](https://upload.wikimedia.org/wikipedia/commons/8/84/Rallye_Monte_Carlo_v_Dravogradu_1956.jpg)
 
 ###### Questions

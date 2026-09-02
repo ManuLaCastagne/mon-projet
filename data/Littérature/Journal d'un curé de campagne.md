@@ -22,8 +22,9 @@ indice_6 :
   - spiritualité
 questions:
  - On 1936, quel roman de Georges Bernanos débute par la phrase  "Ma paroisse est une paroisse comme les autres"?
+culture_g_score: 60
+culture_g_justification: "Roman classique de Bernanos, renforcé par l’adaptation de Bresson, mais dont les angles de quiz restent assez concentrés."
 ---
-
 ![Image de Journal d'un curé de campagne](https://upload.wikimedia.org/wikipedia/commons/0/0c/Journal_d%27un_cur%C3%A9_de_campagne%2C_texte_de_Georges_Bernanos_-_lot_de_photographies_-_de_l%27agence_Mar%C3%A9e-Breyer_-_btv1b106075677_%2853_of_53%29.jpg)
 
 ###### Questions

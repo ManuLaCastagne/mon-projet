@@ -20,9 +20,9 @@ indice_5:
   - Alias Herlock Sholmès
 indice_6:
   - Normandie
+culture_g_score: 96
+culture_g_justification: "Héros littéraire français emblématique, exploitable par ses romans, ses adaptations, Maurice Leblanc et la comparaison avec Sherlock Holmes."
 ---
-
-
 ![Image de Arsène Lupin](https://upload.wikimedia.org/wikipedia/commons/9/9e/Arsene_Lupin_art_Pierre_La_Fit.png)
 
 ###### Questions

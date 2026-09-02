@@ -20,8 +20,9 @@ indice_6 :
   - astuces de nettoyage
 questions:
  - Dans quelle émission télévisée lancée en 2005 Danielle et Béatrice venaient-elles au secours de gens ne pouvant assumer leurs tâches ménagères?
+culture_g_score: 40
+culture_g_justification: "Émission populaire de coaching domestique, mais son intérêt quiz et sa portée culturelle restent faibles."
 ---
-
 ![Image de C'est du propre !](https://upload.wikimedia.org/wikipedia/commons/5/57/C%27est_du_propre_%5E_-_panoramio.jpg)
 
 ###### Questions

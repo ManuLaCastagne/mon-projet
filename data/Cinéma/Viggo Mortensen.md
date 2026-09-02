@@ -18,8 +18,9 @@ indice_5 :
   - Eastern Promises
 indice_6 : 
   - Captain Fantastic
+culture_g_score: 76
+culture_g_justification: "Son interprétation d’Aragorn assure une forte présence en quiz, complétée par Captain Fantastic, Green Book et ses activités artistiques."
 ---
-
 ![Image de Viggo Mortensen](https://upload.wikimedia.org/wikipedia/commons/6/64/Viggo_Mortensen_B_%282020%29.jpg)
 
 ###### Questions

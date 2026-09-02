@@ -20,9 +20,9 @@ indice_6 :
   - Abraham
 questions:
  - Quel édifice cubique est situé au centre de la Mosquée al-Harâm ?
+culture_g_score: 97
+culture_g_justification: "Lieu central de l'islam et du pèlerinage à La Mecque, la Kaaba est un marronnier religieux et géographique majeur."
 ---
-
-
 ![Image de Kaaba](https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Kaaba_during_Hajj_-_edited.jpg)
 
 ###### Questions

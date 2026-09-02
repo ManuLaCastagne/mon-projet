@@ -23,8 +23,9 @@ indice_6 :
   - Ernst Ludwig Kirchner
 questions:
  - Quel groupe artistique, qui fut le creuset de l'expressionnisme allemand, a privilégié l'utilisation de couleurs violentes dès sa création en 1905?
+culture_g_score: 64
+culture_g_justification: "Die Brücke est un mouvement fondateur de l'expressionnisme allemand, classique en histoire de l'art mais peu transversal hors de ce domaine."
 ---
-
 ![Image de Die Brücke](https://upload.wikimedia.org/wikipedia/commons/9/9e/Ernst_Ludwig_Kirchner_-_Poster_for_the_exhibition_for_the_artists%27_group_%22Die_Br%C3%BCcke%22_at_the_Arnold_Gallery_Dresden_-_Google_Art_Project.jpg)
 
 ###### Questions

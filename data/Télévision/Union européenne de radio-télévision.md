@@ -20,15 +20,9 @@ indice_6 :
   - concours annuel de chanson
 questions:
  - En 1954, à quelle organisation nouvellement créée, regroupant différentes chaînes étrangères, la télévision française adhère-t-elle?
+culture_g_score: 68
+culture_g_justification: "Organisation moins connue sous son nom que l'Eurovision, mais très rentable grâce à ses liens avec la radio, la télévision et les échanges européens."
 ---
-
-
-
-
-
-
-
-
 ![Image de Union européenne de radio-télévision](https://upload.wikimedia.org/wikipedia/commons/e/ee/Batiment_de_l%27Union_europ%C3%A9enne_de_radio-t%C3%A9l%C3%A9vision_-_Le_Grand-Saconnex.jpg)
 
 ###### Questions

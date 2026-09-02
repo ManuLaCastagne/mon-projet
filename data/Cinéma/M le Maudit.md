@@ -22,8 +22,9 @@ indice_6 :
   - tueur en série
 questions:
  - Dans quel film de Fritz Lang parfois simplement désigné par la 13e lettre de l'alphabet, Peter Lorre incarne-t-il un tueur psychopathe?
+culture_g_score: 85
+culture_g_justification: "Chef-d’œuvre fondateur du cinéma parlant et allemand, particulièrement rentable pour Fritz Lang, Peter Lorre et l’histoire du cinéma."
 ---
-
 ![Image de M le Maudit](https://upload.wikimedia.org/wikipedia/commons/a/a7/Le_Moulin_maudit_%281909%29.webm)
 
 ###### Questions

@@ -18,10 +18,9 @@ indice_5 :
   - humour
 indice_6 : 
   - Les Guignols de l'info
+culture_g_score: 76
+culture_g_justification: "Animateur emblématique de Canal+, exploitable via plusieurs émissions, la radio, le cinéma et la culture télévisuelle française."
 ---
-
-
-
 ![Image de Antoine de Caunes](https://upload.wikimedia.org/wikipedia/commons/d/d0/Antoine_de_Caunes_2013.jpg)
 
 ###### Questions

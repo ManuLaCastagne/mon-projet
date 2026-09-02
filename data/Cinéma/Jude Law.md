@@ -22,9 +22,9 @@ indice_6:
   - Fantastic Beasts
 questions:
   - En 2000, quel acteur britannique au nom formé de 3 lettres incarne Dickie Greenleaf dans le film "Le Talentueux Mr Ripley"?
+culture_g_score: 76
+culture_g_justification: "Jude Law est associé à plusieurs films internationaux marquants et à des personnages facilement questionnables, malgré une importance culturelle modérée."
 ---
-
-
 ![Image de Jude Law](https://upload.wikimedia.org/wikipedia/commons/f/f6/Jude_Law-67896.jpg)
 
 ###### Questions

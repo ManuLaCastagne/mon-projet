@@ -20,8 +20,9 @@ indice_6 :
   - Collecte par le clergé
 questions:
  - Contribution rendue obligatoire par le capitulaire d'Herstal,  car certains refusaient de me payer. En principe prélevée sur tous les produits jusqu'à la Révolution.
+culture_g_score: 80
+culture_g_justification: "Notion importante de l’Ancien Régime et de la Révolution française, reliant fiscalité, Église, société rurale et abolition des privilèges."
 ---
-
 ![Image de Dîme](https://upload.wikimedia.org/wikipedia/commons/1/17/D%C3%AEme_Molsheim_09.jpg)
 
 ###### Questions

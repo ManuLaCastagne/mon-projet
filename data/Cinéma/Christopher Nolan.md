@@ -22,8 +22,9 @@ indice_6 :
   - réalisateur épique
 questions:
  - Révélé grâce au succès de "Memento", je ne sais pas si vous vous rappelez ce film avec les tatouages...
+culture_g_score: 84
+culture_g_justification: "Réalisateur contemporain de premier plan, fréquemment interrogé via Batman, Inception, Interstellar, Dunkerque et ses innovations techniques."
 ---
-
 ![Image de Christopher Nolan](https://upload.wikimedia.org/wikipedia/commons/9/95/Christopher_Nolan_Cannes_2018.jpg)
 
 ###### Questions

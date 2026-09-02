@@ -22,8 +22,9 @@ indice_5 :
   - Arc de Triomphe de Bucarest
 indice_6 : 
   - Révolution de 1989
+culture_g_score: 64
+culture_g_justification: "Capitale européenne connue notamment pour le palais du Parlement, Bucarest est un repère régulier de géographie et d’histoire contemporaine."
 ---
-
 ![Image de Bucarest](https://upload.wikimedia.org/wikipedia/commons/b/bf/Grave_of_the_P%C4%83unescu_and_Rotaru_Families_in_the_Bellu_Cemetery_in_Bucharest%2C_Romania_%2805%29.jpg)
 
 ![[Carte_Bucarest.png]]

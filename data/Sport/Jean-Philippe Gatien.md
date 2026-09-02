@@ -20,8 +20,9 @@ indice_6 :
   - Champion de France
 questions:
  - En 1993, quel Français devient champion du monde de tennis de table en simple ?
+culture_g_score: 60
+culture_g_justification: "Vice-champion olympique et champion du monde de tennis de table, Gatien est un classique sportif français sans grande transversalité."
 ---
-
 ![Image de Jean-Philippe Gatien](https://upload.wikimedia.org/wikipedia/commons/7/77/Mondial_Ping_-_Gatien-Saive_-_47.jpg)
 
 ###### Questions

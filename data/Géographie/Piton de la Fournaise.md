@@ -21,8 +21,9 @@ indice_5:
   - massif du sud-est de l'île
 indice_6:
   - paysage lunaire
+culture_g_score: 68
+culture_g_justification: "Volcan très actif et emblématique de La Réunion, régulièrement mobilisé en géographie et en sciences, avec des angles néanmoins limités."
 ---
-
 ![Image de Piton de la Fournaise](https://upload.wikimedia.org/wikipedia/commons/b/bf/Piton_de_la_Fournaise_BD-ORTHO.jpg)
 
 ![[Carte_Piton de la Fournaise.png]]

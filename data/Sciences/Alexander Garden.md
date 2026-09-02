@@ -18,8 +18,9 @@ indice_5:
   - Recherche en physique théorique
 indice_6:
   - Contributions à la science
+culture_g_score: 27
+culture_g_justification: "Botaniste surtout retenu pour le genre Gardenia, avec une présence très rare dans les quiz généralistes."
 ---
-
 ![Image de Alexander Garden](https://upload.wikimedia.org/wikipedia/commons/b/b7/Alexander_Garden_Gates.JPG)
 
 ###### Questions

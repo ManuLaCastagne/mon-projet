@@ -22,9 +22,9 @@ indice_6 :
   - drogues modifiant la perception
 questions:
  - En 1960, quel auteur américain de science-fiction publie le roman "Les Marteaux de Vulcain"?
+culture_g_score: 80
+culture_g_justification: "Auteur majeur de science-fiction, très rentable grâce à Blade Runner, Ubik, l’uchronie et ses réflexions sur la réalité."
 ---
-
-
 ![Image de Philippe K Dick](https://upload.wikimedia.org/wikipedia/commons/c/c7/Richard_Phillips_in_2024.jpg)
 
 ###### Questions

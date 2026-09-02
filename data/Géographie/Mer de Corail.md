@@ -24,10 +24,9 @@ indice_6 :
   - Grande Barrière de Corail
 questions:
  - Quelle mer, faisant partie de l'océan Pacifique, est située entre l'Australie et la Mélanésie?
+culture_g_score: 60
+culture_g_justification: "Mer connue surtout par la bataille de 1942 et la Grande Barrière de corail, avec plusieurs angles mais une fréquence modérée."
 ---
-
-
-
 ![Image de Mer de Corail](https://upload.wikimedia.org/wikipedia/commons/c/c9/Une_mer_de_corail_comme_un_tr%C3%A9sor_%C3%A0_pr%C3%A9server.jpg)
 
 ![[Carte_Mer de Corail.png]]

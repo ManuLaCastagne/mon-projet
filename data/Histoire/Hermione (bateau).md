@@ -20,8 +20,9 @@ indice_6 :
   - guerre d'indépendance américaine
 questions:
  - En 1780, à bord de quelle frégate le Marquis de Lafayette a-t-il embarqué pour son 2e voyage à destination de l'Amérique ?
+culture_g_score: 60
+culture_g_justification: "Navire associé à La Fayette et à la guerre d’Indépendance américaine, mais relativement peu fréquent hors des questions maritimes et historiques précises."
 ---
-
 ![Image de Hermione (bateau)](https://upload.wikimedia.org/wikipedia/commons/6/62/Hermione_voiles.JPG)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Théâtre et littérature
 questions:
  - En 1990, dans quel film de Christian Vincent, Fabrice Luchini séduit-il une femme...
+culture_g_score: 40
+culture_g_justification: "Film apprécié de la critique et lié à Luchini et aux César, mais trop confidentiel pour constituer une priorité généraliste."
 ---
-
 ![Image de La Discrète](https://upload.wikimedia.org/wikipedia/commons/f/f1/La_vie_devient_pr%C3%A9cieuse%2C_discr%C3%A8te%2C_from_the_album_Amour_MET_DP832926.jpg)
 
 ###### Questions

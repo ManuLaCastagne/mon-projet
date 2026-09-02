@@ -22,8 +22,9 @@ indice_6:
   - 1970s
 questions:
   - En 1973, à quel groupe de hard-rock doit-on la chanson "Smoke on the water"...
+culture_g_score: 80
+culture_g_justification: "Groupe majeur du hard rock, régulièrement interrogé via «Smoke on the Water», ses membres, ses albums et l’histoire du rock."
 ---
-
 ![Image de Deep Purple](https://upload.wikimedia.org/wikipedia/commons/b/b9/Deep_Purple_-_MN_Gredos_-_08.jpg)
 
 ###### Questions

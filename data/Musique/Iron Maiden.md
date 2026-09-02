@@ -21,8 +21,9 @@ indice_6:
   - Mascotte emblématique
 questions:
   - Quel groupe de hard britannique dont le chanteur est Bruce Dickinson porte un nom faisant référence à un instrument de torture médiéval?
+culture_g_score: 80
+culture_g_justification: "Groupe emblématique du heavy metal, exploitable par ses membres, sa mascotte Eddie, ses albums et l'histoire du genre."
 ---
-
 ![Image de Iron Maiden](https://upload.wikimedia.org/wikipedia/commons/e/e2/Iron_Maiden_2010.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Allium cepa
 indice_6:
   - Condiment et légume en cuisine
+culture_g_score: 84
+culture_g_justification: "Aliment universellement connu, présent en cuisine, agriculture, histoire et médecine populaire, donc très rentable dans de nombreux quiz."
 ---
-
 ![Image de Oignon](https://upload.wikimedia.org/wikipedia/commons/e/ef/Allium_cepa_viviparum_001.JPG)
 
 ###### Questions

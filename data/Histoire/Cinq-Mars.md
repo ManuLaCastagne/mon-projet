@@ -20,8 +20,9 @@ indice_6 :
   - conspiration aristocratique
 questions:
  - En 1642, quel favori de Louis XIII est décapité avec son complice...
+culture_g_score: 56
+culture_g_justification: "Favori de Louis XIII connu surtout pour sa conspiration contre Richelieu, ce qui limite ses usages à l’histoire politique du XVIIe siècle."
 ---
-
 ![Image de Cinq-Mars](https://upload.wikimedia.org/wikipedia/commons/1/19/%28Narbonne%29_Portait_d%27Henri_d%27Effiat%2C_Marquis_de_Cinq_Mars_-_Anonyme_-_Mus%C3%A9e_des_Beaux-Arts_de_Narbonne.jpg)
 
 ###### Questions

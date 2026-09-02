@@ -20,8 +20,9 @@ indice_6 :
   - élue députée en 1981
 questions:
  - En 1971, quelle avocate née en Tunisie, fonde avec notamment Simone de Beauvoir le mouvement Choisir la cause des femmes?
+culture_g_score: 80
+culture_g_justification: "Figure majeure du féminisme et de l'histoire judiciaire française, régulièrement mobilisée dans les quiz sur les droits des femmes, l'avortement et la guerre d'Algérie."
 ---
-
 ![Image de Gisèle Halimi](https://upload.wikimedia.org/wikipedia/commons/7/78/Gisele_Halimi_-_Huma-2008_2.jpg)
 
 ###### Questions

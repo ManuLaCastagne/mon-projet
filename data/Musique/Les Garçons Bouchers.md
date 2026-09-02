@@ -22,8 +22,9 @@ indice_6 :
   - Punk rock
 questions:
  - Quel groupe formé en 1985 autour de François Hadji-Lazaro, également membre du groupe Pigalle, doit-on les titres "Carnivore" ou "La Bière"?
+culture_g_score: 28
+culture_g_justification: "Groupe important pour la scène alternative française, mais relativement obscur du grand public et peu fréquent hors des questions musicales spécialisées."
 ---
-
 ![Image de Les Garçons Bouchers](https://upload.wikimedia.org/wikipedia/commons/c/ca/Les_Gar%C3%A7ons_bouchers_%C3%A0_la_f%C3%AAte_de_l%27Huma_en_1989.jpg)
 
 ###### Questions

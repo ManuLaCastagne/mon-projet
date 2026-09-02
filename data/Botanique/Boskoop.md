@@ -15,8 +15,9 @@ indice_6 :
   - Culinaire dans les pâtisseries et compotes
 questions:
  - Quelle variété de pomme à chair ferme, à la peau jaune et rouge, tire son nom d'une ville...
+culture_g_score: 20
+culture_g_justification: "Variété de pomme très spécifique, dont la connaissance sert presque uniquement à une question de vocabulaire ou d’horticulture."
 ---
-
 ![Image de Boskoop](https://upload.wikimedia.org/wikipedia/commons/d/dd/Raadhuis%2C_Boskoop._Glas-in-lood_ramen._Detail_02.jpg)
 
 ###### Questions

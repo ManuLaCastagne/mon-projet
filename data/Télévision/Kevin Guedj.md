@@ -19,8 +19,9 @@ indice_5 :
   - candidat historique
 indice_6 : 
   - Sud de la France
+culture_g_score: 24
+culture_g_justification: "Candidat de téléréalité principalement connu des amateurs du genre, sans réelle portée dans les quiz généralistes."
 ---
-
 ![Image de Kevin Guedj]()
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - père de la patrie corse
 questions:
  - Evincé des fonctions de gouverneur à l'initiative de la France, j'avais voulu  réformer l'économie et les institutions à Corte. Patriote corse ayant lutté contre les Génois et les Français…
+culture_g_score: 52
+culture_g_justification: "Leader majeur de l’histoire corse et précurseur du nationalisme, mais relativement périphérique dans la culture générale mondiale."
 ---
-
 ![Image de Pascal Paoli](https://upload.wikimedia.org/wikipedia/commons/0/0e/Mus%C3%A9e_de_Bastia_Pascal_Paoli_Varese_MEC_84_2_2.jpg)
 
 ###### Questions

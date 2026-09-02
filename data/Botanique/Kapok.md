@@ -15,9 +15,9 @@ indice_6:
   - Utilisé pour le rembourrage des coussins et matelas
 questions:
   - Quelle est la fibre végétale de l'arbre appelé fromager utilisé pour garnir les coussins ?
+culture_g_score: 44
+culture_g_justification: "Le kapok est une réponse classique mais ponctuelle sur les fibres végétales et le fromager."
 ---
-
-
 ![Image de Kapok](https://upload.wikimedia.org/wikipedia/commons/1/12/Kapok_seeds.jpg)
 
 ###### Questions

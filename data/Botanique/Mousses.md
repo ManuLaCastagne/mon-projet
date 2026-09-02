@@ -15,8 +15,9 @@ indice_6 :
   - Utilisées comme indicateur de la qualité de l'environnement et pour stabiliser le sol
 questions:
  - Je comprends la sphaigne, l'hypne ou le polytric, je suis…
+culture_g_score: 47
+culture_g_justification: "Les mousses sont familières et liées à l'écologie ou aux milieux forestiers, mais leur identification précise est peu fréquente en quiz."
 ---
-
 ![Image de Mousses](https://upload.wikimedia.org/wikipedia/commons/e/e3/White_chocolate_mousse.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Spectacles de lutte
 questions:
  - Quelle ville du Nevada abrite le Caesars Palace, connu pour avoir accueilli de grands combats comme celui ayant opposé...
+culture_g_score: 64
+culture_g_justification: "Hôtel-casino emblématique de Las Vegas associé à la boxe, à la Formule 1 et au poker, avec une fréquence quiz modérée."
 ---
-
 ![Image de Caesars Palace](https://upload.wikimedia.org/wikipedia/commons/b/bd/Bellagio_Las_Vegas_December_2013_panorama.jpg)
 
 ###### Questions

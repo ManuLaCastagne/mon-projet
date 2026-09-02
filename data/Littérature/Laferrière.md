@@ -22,8 +22,9 @@ indice_6 :
   - Autobiographie d'un écrivain
 questions:
  - En 2013, quel écrivain d'origine haïtienne, auteur de "L'Odeur du café"...
+culture_g_score: 60
+culture_g_justification: "Écrivain francophone contemporain particulièrement rentable pour les questions sur Haïti, l’exil et l’Académie française, avec une fréquence toutefois modérée."
 ---
-
 ![Image de Laferrière](https://upload.wikimedia.org/wikipedia/commons/1/16/Laferri%C3%A8re%2C_par_H._D%C3%A9mare._Paris_Mus%C3%A9es_20231010182600.jpg)
 
 ###### Questions

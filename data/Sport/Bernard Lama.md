@@ -20,8 +20,9 @@ indice_6 :
   - René Higuita
 questions:
  - De 93 à 2001, quel footballeur d'origine guyanaise évoluant au poste de gardien de but, a été 44 fois sélectionné en équipe de France ?
+culture_g_score: 64
+culture_g_justification: "Gardien des Bleus associé au Mondial 1998 et au PSG, régulièrement identifiable mais avec des angles surtout footballistiques."
 ---
-
 ![Image de Bernard Lama](https://upload.wikimedia.org/wikipedia/commons/2/29/Bernard_Lama.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - L'Académie française
 questions:
  - En 1957, dans quel roman, 2e tome des "Souvenirs d'enfance", Marcel Pagnol évoque-t-il le château de La Buzine?
+culture_g_score: 77
+culture_g_justification: "Classique très identifiable de Marcel Pagnol, régulièrement associé à l’autobiographie, à la Provence et aux adaptations cinématographiques."
 ---
-
-
 ![Image de Le Château de ma mère](https://upload.wikimedia.org/wikipedia/commons/7/7c/Delarue-Mardrus_-_La_m%C3%A8re_et_le_fils%2C1925.djvu)
 
 ###### Questions

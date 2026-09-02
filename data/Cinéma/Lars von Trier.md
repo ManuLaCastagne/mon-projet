@@ -22,8 +22,9 @@ indice_6 :
   - The House That Jack Built
 questions:
  - A quel réalisateur danois doit-on "Dogville", "Dancer in the Dark" ou "Melancholia" ?
+culture_g_score: 72
+culture_g_justification: "Réalisateur majeur du cinéma contemporain, utile pour Dogme 95, Cannes, ses films controversés et son style très identifiable."
 ---
-
 ![Image de Lars von Trier](https://upload.wikimedia.org/wikipedia/commons/6/61/Oliver_Mark_-_Lars_von_Trier%2C_Copenhagen_2003.jpg)
 
 ###### Questions

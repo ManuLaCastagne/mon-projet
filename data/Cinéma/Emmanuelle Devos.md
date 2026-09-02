@@ -22,8 +22,9 @@ indice_6 :
   - À l'origine
 questions:
  - A l'affiche des "Parfums" en 2020, j'ai incarné Simone Veil pour la télévision, je suis…
+culture_g_score: 60
+culture_g_justification: "Actrice importante du cinéma français, notamment grâce à Sur mes lèvres et aux César, mais moins connue du grand public que les grandes vedettes."
 ---
-
 ![Image de Emmanuelle Devos](https://upload.wikimedia.org/wikipedia/commons/7/7b/Emmanuelle_Devos_Cannes_2012.jpg)
 
 ###### Questions

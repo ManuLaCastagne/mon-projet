@@ -24,8 +24,9 @@ indice_6 :
   - plages et falaises
 questions:
  - Quel territoire insulaire, situé au large de la presqu'île de Quiberon et dont le chef-lieu est Le Palais, est la plus grande des îles bretonnes?
+culture_g_score: 51
+culture_g_justification: "Île française connue pour Vauban, Sarah Bernhardt et son patrimoine littoral, mais rarement prioritaire à l’échelle mondiale."
 ---
-
 ![Image de Belle-Ile-en-Mer](https://upload.wikimedia.org/wikipedia/commons/c/c6/Citroen-e-Mehari-av-Belle-Ile-en-Mer-byRundvald.jpg)
 
 ![[Carte_Belle-Ile-en-Mer.png]]

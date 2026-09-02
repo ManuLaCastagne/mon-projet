@@ -23,8 +23,9 @@ indice_6:
   - voie maritime artificielle
 questions:
   - Vous cherchez cet ouvrage de génie civil dont la capacité a été doublée en 1887. J'ai célébré en 2019 les 150 ans de mon inauguration. Voie de communication concentrant 10% du commerce maritime international...
+culture_g_score: 93
+culture_g_justification: "Ouvrage majeur du commerce mondial, régulièrement mobilisé dans les quiz de géographie, d’histoire, d’ingénierie et d’actualité."
 ---
-
 ![Image de Canal de Suez](https://upload.wikimedia.org/wikipedia/commons/8/8e/Suez_Canal_Bridge_%282008%29_04.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - XVIIIe siècle
 questions:
  - En mai 36, quelle formule, énonçant 3 revendications, constituait le slogan électoral du Front populaire?
+culture_g_score: 65
+culture_g_justification: "Slogan très utile pour comprendre la Révolution russe, les bolcheviks et les aspirations sociales de 1917."
 ---
-
 ![Image de Le pain, la paix, la liberté](https://upload.wikimedia.org/wikipedia/commons/6/6b/Le_Play_-_L%E2%80%99%C3%89cole_de_la_paix_sociale.djvu)
 
 ###### Questions

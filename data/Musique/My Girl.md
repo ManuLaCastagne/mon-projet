@@ -22,10 +22,9 @@ indice_6 :
   - My Girl
 questions:
  - En 1965, quelle chanson, interprétée par les Temptations et reprise par Otis Redding...
+culture_g_score: 77
+culture_g_justification: "Grand classique de la Motown, utile pour les Temptations, Smokey Robinson, la soul et l’histoire de la musique américaine."
 ---
-
-
-
 ![Image de My Girl](https://upload.wikimedia.org/wikipedia/commons/6/6e/Karen_Padaung_Girl_Portrait.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Répression tsariste
 questions:
  - Quel nom porte la journée de 1905 marquant le début de la révolution russe et durant laquelle une manifestation ouvrière a été violemment réprimée à Saint-Pétersbourg?
+culture_g_score: 64
+culture_g_justification: "Épisode important de la révolution russe de 1905, mais dont les occurrences restent généralement limitées aux quiz d’histoire approfondis."
 ---
-
 ![Image de Dimanche rouge](https://upload.wikimedia.org/wikipedia/commons/0/04/Vladimir_Makovsky_%E2%80%94_The_9th_of_January_1905_on_Vasilievsky_Island_%E2%80%94_Bloody_Sunday_%281905%29.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - massif du Jura
 questions:
  - 5e région administrative de France métropolitaine par ma superficie, je compte 2 800 000 habitants, et suis issue du rapprochement...
+culture_g_score: 52
+culture_g_justification: "Région française récente associée à la Bourgogne, au Jura, aux vins et à Dijon, elle est utile mais moins mémorable qu’une ancienne région."
 ---
-
 ![Image de Bourgogne-Franche-Comté](https://upload.wikimedia.org/wikipedia/commons/d/da/Bourgogne-Franche-Comt%C3%A9_Ic%C3%B4ne.png)
 
 ![[Carte_Bourgogne-Franche-Comté.png]]

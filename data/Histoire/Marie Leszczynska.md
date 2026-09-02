@@ -20,8 +20,9 @@ indice_6 :
   - XVIIIe siècle
 questions:
  - Quelle fille du roi de Pologne, ayant eu 10 enfants avec le roi Histoire/Louis XV, a eu plusieurs rivales...
+culture_g_score: 60
+culture_g_justification: "Reine de France utile pour Louis XV, la Pologne et la monarchie, mais moins incontournable que les grandes souveraines françaises."
 ---
-
 ![Image de Marie Leszczynska](https://upload.wikimedia.org/wikipedia/commons/8/8a/Carle_Van_Loo_-_Marie_Leszczinska%2C_reine_de_France_%281703-1768%29_-_Google_Art_Project.jpg)
 
 ###### Questions

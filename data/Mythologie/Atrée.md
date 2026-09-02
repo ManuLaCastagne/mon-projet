@@ -18,12 +18,9 @@ indice_6 :
   - banquet tragique
 questions:
  - n grand nombre d'épisodes sanglants, je dois à la malédiction de Tantale, évoquée par Germain, les déchirements et les crimes atroces qui ensanglantèrent ma lignée, les Atrides, jusqu'à la purification d'Mythologie/Oreste, je suis…
+culture_g_score: 60
+culture_g_justification: "Roi de Mycènes au cœur de la malédiction des Atrides, utile pour la mythologie et la tragédie grecque sans être incontournable."
 ---
-
-
-
-
-
 ![Image de Atrée](https://upload.wikimedia.org/wikipedia/commons/5/5f/Bananenfalter%2C_Caligo_atreus_dionysos_1.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - exécution pour sorcellerie
 questions:
  - Quelle dame de Florence (Italie) amie de Marie de Médicis passa quelques jours à la Bastille entre la mort de son mari et son exécution ?
+culture_g_score: 40
+culture_g_justification: "Personnage d’intrigue de la cour de Marie de Médicis, principalement exploitable dans quelques questions sur le début du règne de Louis XIII."
 ---
-
 ![Image de Galigaï](https://upload.wikimedia.org/wikipedia/commons/d/d9/Galiga%C3%AF_1617.jpg)
 
 ###### Questions

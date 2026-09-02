@@ -20,8 +20,9 @@ indice_5 :
   - acteur américain
 indice_6 : 
   - Saturday Night Live
+culture_g_score: 80
+culture_g_justification: "Acteur emblématique associé à Un jour sans fin, Ghostbusters, Lost in Translation et une importante carrière comique."
 ---
-
 ![Image de Bill Murray](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bill_Murray-8882.jpg)
 
 ###### Questions

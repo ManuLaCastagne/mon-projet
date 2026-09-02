@@ -20,8 +20,9 @@ indice_6 :
   - Droit de vote féminin
 questions:
  - Femmes qui, en 2015, inspirèrent un film à la réalisatrice Sarah Gavron, le mot qui nous désigne est apparu en France en 1907. Comptant parmi nos figures...
+culture_g_score: 88
+culture_g_justification: "Mouvement historique majeur, fréquemment associé au suffrage féminin, à Emmeline Pankhurst et aux droits civiques."
 ---
-
 ![Image de Suffragettes](https://upload.wikimedia.org/wikipedia/commons/d/da/Mrs_Emmeline_Pankhurst%2C_Leader_of_the_Women%27s_Suffragette_movement%2C_is_arrested_outside_Buckingham_Palace_while_trying_to_present_a_petition_to_King_George_V_in_May_1914._Q81486.jpg)
 
 ###### Questions

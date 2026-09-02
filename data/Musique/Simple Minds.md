@@ -19,6 +19,7 @@ indice_5 :
 indice_6 : 
   - New Wave
 culture_g_score: 64
+culture_g_justification: "Simple Minds bénéficie d’un tube mondial et d’un lien fort avec le cinéma, mais le groupe reste moins transversal que les grands ensembles pop historiques."
 ---
 ![Image de Simple Minds](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Simple_Minds_-_2016330230309_2016-11-25_Night_of_the_Proms_-_Sven_-_1D_X_-_0848_-_DV3P2988_mod.jpg/3840px-Simple_Minds_-_2016330230309_2016-11-25_Night_of_the_Proms_-_Sven_-_1D_X_-_0848_-_DV3P2988_mod.jpg)
 

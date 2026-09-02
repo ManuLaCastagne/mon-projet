@@ -18,8 +18,9 @@ indice_5 :
   - Prix Maison de la Presse
 indice_6 : 
   - Amour et hasard
+culture_g_score: 44
+culture_g_justification: "Romancière contemporaine à succès en France, mais encore peu installée dans le socle classique des quiz généralistes."
 ---
-
 ![Image de Valérie Perrin](https://upload.wikimedia.org/wikipedia/commons/9/93/Val%C3%A9rie_Perrin.jpg)
 
 ###### Questions

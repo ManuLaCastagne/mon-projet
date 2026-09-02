@@ -22,8 +22,9 @@ indice_5 :
   - Aéroport à Antigua
 indice_6 : 
   - Festival d'art et de musique au Canada
+culture_g_score: 40
+culture_g_justification: "Saint John’s est surtout la capitale d’un petit État antillais, un repère utile mais rarement central dans les quiz généralistes."
 ---
-
 ![Image de Saint John's](https://upload.wikimedia.org/wikipedia/commons/9/90/Saint_John%27s_Abbey_Church_St._Joseph_%282%29.jpg)
 
 ![[Carte_Saint John's.png]]

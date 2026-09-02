@@ -22,8 +22,9 @@ indice_5 :
   - langue lao
 indice_6 : 
   - Wat Si Saket
+culture_g_score: 60
+culture_g_justification: "Capitale du Laos utile pour la géographie de l’Asie du Sud-Est, le Mékong et la culture bouddhique, mais relativement spécialisée."
 ---
-
 ![Image de Vientiane](https://upload.wikimedia.org/wikipedia/commons/4/43/Illuminated_Ferris_wheel%2C_bouncing_castle_and_carousel_at_night_in_a_funfair_in_Vientiane%2C_Laos.jpg)
 
 ![[Carte_Vientiane.png]]

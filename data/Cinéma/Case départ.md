@@ -22,8 +22,9 @@ indice_6 :
   - introduction cinématographique
 questions:
  - En 2011, dans quelle comédie Fabrice Eboué et Thomas Ngijol sont-ils renvoyés en 1780 en pleine période esclavagiste?
+culture_g_score: 44
+culture_g_justification: "Comédie française connue pour son traitement humoristique de l’esclavage, mais offrant peu d’angles indépendants en culture générale."
 ---
-
 ![Image de Case départ](https://upload.wikimedia.org/wikipedia/commons/9/9b/167_Case_d%C3%A9part_Fr.jpg)
 
 ###### Questions

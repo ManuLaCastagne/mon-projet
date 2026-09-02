@@ -20,8 +20,9 @@ indice_6 :
   - Arbitre de ring
 questions:
  - Quel sport de combat, proche de la boxe américaine, se pratiquant pieds nus et avec des gants...
+culture_g_score: 72
+culture_g_justification: "Art martial mondialement diffusé, identifiable par ses techniques, ses origines thaïlandaises, ses champions et son histoire."
 ---
-
 ![Image de Boxe thaïe](https://upload.wikimedia.org/wikipedia/commons/b/b5/Apidej_Sit_Hirun.JPG)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Une fille de l'Est
 questions:
  - Chanteuse née en 1966, je remporte à 13 ans un concours me permettant de me produire dans un club appelé "Rumpelkammer".  Enregistrant en 85 le titre "Jalouse", 3 ans plus tard je sors un album  dont est extraite la chanson "Quand Jimmy dit".
+culture_g_score: 64
+culture_g_justification: "Chanteuse française à succès international, exploitable par ses albums, l’Eurovision, le cinéma et la chanson francophone."
 ---
-
 ![Image de Patricia Kaas](https://upload.wikimedia.org/wikipedia/commons/0/0e/Patricia_Kaas_%282009%29_%28cropped%29.jpg)
 
 ###### Questions

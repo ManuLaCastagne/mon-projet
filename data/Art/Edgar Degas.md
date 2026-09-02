@@ -23,8 +23,9 @@ indice_6 :
   - peintre français
 questions:
  - Au Salon de 1881, quel artiste présente la version définitive de sa sculpture "Petite Danseuse de 14 ans"...
+culture_g_score: 97
+culture_g_justification: "Degas est incontournable pour l'impressionnisme, les danseuses, les pastels, les courses hippiques et la modernité picturale."
 ---
-
 ![Image de Edgar Degas](https://upload.wikimedia.org/wikipedia/commons/a/a7/Edgar_Germain_Hilaire_Degas_021.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Ville avec un fort colonial britannique
 indice_6 : 
   - Film de 1980 avec Richard Gere
+culture_g_score: 60
+culture_g_justification: "Référence surtout utile pour le quartier et l’université de Washington, avec quelques prolongements cinématographiques et historiques."
 ---
-
 ![Image de Georgetown](https://upload.wikimedia.org/wikipedia/commons/e/e2/Georgetown_-_Bank_of_Georgetown.jpg)
 
 ![[Carte_Georgetown.png]]

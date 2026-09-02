@@ -20,8 +20,9 @@ indice_5 :
   - cinéaste canadien
 indice_6 : 
   - science-fiction
+culture_g_score: 80
+culture_g_justification: "Réalisateur contemporain majeur, particulièrement rentable grâce à Incendies, Arrival, Blade Runner 2049 et Dune."
 ---
-
 ![Image de Denis Villeneuve](https://upload.wikimedia.org/wikipedia/commons/6/66/Denis_Villeneuve_Cannes_2018.jpg)
 
 ###### Questions

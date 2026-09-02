@@ -13,8 +13,9 @@ indice_5:
   - Petunia x hybrida
 indice_6:
   - Plantes ornementales pour jardins et balcons
+culture_g_score: 44
+culture_g_justification: "Plante ornementale courante et visuellement reconnaissable, sans importance historique ou culturelle suffisamment forte."
 ---
-
 ![Image de Pétunia](https://upload.wikimedia.org/wikipedia/commons/5/58/Petunia_lavender_wave.jpg)
 
 ###### Questions

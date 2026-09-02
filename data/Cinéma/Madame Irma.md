@@ -22,8 +22,9 @@ indice_6 :
   - visions
 questions:
  - En 2006, dans quel film  Didier Bourdon interprète-t-il le rôle...
+culture_g_score: 27
+culture_g_justification: "Comédie française de 2006 peu marquante dans l’histoire du cinéma et rarement interrogée comme réponse principale."
 ---
-
 ![Image de Madame Irma](https://upload.wikimedia.org/wikipedia/commons/5/5b/Irma_Gramatica_1938.jpg)
 
 ###### Questions

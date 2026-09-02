@@ -22,8 +22,9 @@ indice_6 :
   - album de bande dessinée belge
 questions:
  - En 2020, quel duo de héros mène une nouvelle enquête dans l'album "Le Cri du Moloch", qui met également en scène le colonel Olrik?
+culture_g_score: 80
+culture_g_justification: "Série majeure de la bande dessinée franco-belge, exploitable par ses personnages, Edgar P. Jacobs, Tintin et la ligne claire."
 ---
-
 ![Image de Blake et Mortimer](https://upload.wikimedia.org/wikipedia/commons/5/55/Blake_et_Mortimer_Lombard_books_60_-_70_-_80.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - vie quotidienne
 indice_6:
   - fin de siècle
+culture_g_score: 64
+culture_g_justification: "Recueil important de Joyce, utile pour la littérature moderne irlandaise et la nouvelle, mais éclipsé par Ulysse dans les quiz."
 ---
-
 ![Image de Gens de Dublin](https://upload.wikimedia.org/wikipedia/commons/0/0a/Dead_Vlei_5.jpg)
 
 ###### Questions

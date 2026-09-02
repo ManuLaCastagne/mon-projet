@@ -22,10 +22,9 @@ indice_6 :
   - Wherever
 questions:
  - Nous sommes en 2001. Quelle chanteuse colombienne...
+culture_g_score: 92
+culture_g_justification: "Shakira est une vedette mondiale régulièrement interrogée à travers ses tubes, ses origines colombiennes, le football et sa carrière internationale."
 ---
-
-
-
 ![Image de Shakira](https://upload.wikimedia.org/wikipedia/commons/4/48/Shakira_-_Rock_in_Rio_2008_02.jpg)
 
 ###### Questions

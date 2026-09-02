@@ -15,8 +15,9 @@ indice_6 :
   - Base de la chaîne alimentaire marine
 questions:
  - Ensemble d'organismes appartenant à l'ordre des euphausiacés et désigné par un terme générique, je suis constitué de nombreuses espèces, comme Meganyctiphanes norvegica.  Composé de petits crustacés au corps translucide dont la densité peut atteindre jusqu'à...
+culture_g_score: 68
+culture_g_justification: "Organisme clé des écosystèmes marins, utile pour des questions sur les baleines, les chaînes alimentaires et le climat."
 ---
-
 ![Image de Krill](https://upload.wikimedia.org/wikipedia/commons/c/c7/Antarctic_krill_%28Euphausia_superba%29.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Hélianthe
 indice_6:
   - Production d'huile et ornementation
+culture_g_score: 80
+culture_g_justification: "Plante universellement reconnaissable, liée à l’agriculture, à l’huile, aux records de taille, à l’art et à la symbolique solaire."
 ---
-
 ![Image de Tournesol](https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg)
 
 ###### Questions

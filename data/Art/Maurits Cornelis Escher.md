@@ -23,8 +23,9 @@ indice_6 :
   - pavages géométriques
 questions:
  - Quel graveur et peintre néerlandais, maître de l'illusion optique, est connu pour ses jeux de perspectives d'architectures truquées?
+culture_g_score: 84
+culture_g_justification: "Escher est une référence très rentable grâce à ses illusions d'optique, ses œuvres célèbres, les mathématiques, la géométrie et les arts graphiques."
 ---
-
 ![Image de Maurits Cornelis Escher](https://upload.wikimedia.org/wikipedia/commons/b/be/Ambigram_Escher_and_tessellation_background_-_photomontage_with_reversible_hands.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Biodégradation dans les sols
 questions:
  - Quel animal du groupe des myriapodes peut posséder selon les espèces entre 20 et 752...
+culture_g_score: 23
+culture_g_justification: "Type de mille-pattes aux caractéristiques distinctives, mais connaissance très spécialisée et rarement interrogée."
 ---
-
 ![Image de Iule](https://upload.wikimedia.org/wikipedia/commons/d/df/Red-tailed_monkey_%28Cercopithecus_ascanius%29%2C_Semliki_Wildlife_Reserve.jpg)
 
 ###### Questions

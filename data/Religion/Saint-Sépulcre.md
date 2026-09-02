@@ -20,8 +20,9 @@ indice_6 :
   - Chrétienté
 questions:
  - Selon la tradition chrétienne, quel important sanctuaire de Jérusalem est considéré comme celui où Jésus fut enseveli ?
+culture_g_score: 84
+culture_g_justification: "Lieu central du christianisme et des croisades, le Saint-Sépulcre relie religion, Jérusalem, histoire, architecture et géopolitique."
 ---
-
 ![Image de Saint-Sépulcre](https://upload.wikimedia.org/wikipedia/commons/9/9d/La_Chapelle-Saint-S%C3%A9pulcre-FR-45-A09.jpg)
 
 ###### Questions

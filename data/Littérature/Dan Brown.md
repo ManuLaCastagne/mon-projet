@@ -22,8 +22,9 @@ indice_6 :
   - Thriller
 questions:
  - Créateur du personnage de Robert Langdon et auteur de 6 romans dont 3, "Anges et Démons", "Inferno" et "Da Vinci Code" ont été adaptés au cinéma, je suis...
+culture_g_score: 76
+culture_g_justification: "Auteur de best-sellers mondiaux très présents dans les quiz grâce à Da Vinci Code, ses intrigues, ses adaptations et ses controverses historiques, malgré une importance littéraire modérée."
 ---
-
 ![Image de Dan Brown](https://upload.wikimedia.org/wikipedia/commons/e/eb/Dan_Brown%2C_2006.jpg)
 
 ###### Questions

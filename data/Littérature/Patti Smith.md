@@ -22,8 +22,9 @@ indice_6 :
   - punk rock et littérature
 questions:
  - Dès la fin des années 60, quelle chanteuse de rock américaine, interprète de l'album "Horses", a inspiré le photographe Robert Mapplethorpe?
+culture_g_score: 72
+culture_g_justification: "Personnalité à la fois majeure du rock et de la littérature autobiographique, offrant de nombreux liens avec la culture new-yorkaise."
 ---
-
 ![Image de Patti Smith](https://upload.wikimedia.org/wikipedia/commons/8/80/Patti_Smith_performing_in_Finland%2C_2007.jpg)
 
 ###### Questions

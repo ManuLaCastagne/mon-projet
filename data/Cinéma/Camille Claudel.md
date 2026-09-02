@@ -22,8 +22,9 @@ indice_6 :
   - star française de la fin du XIXe siècle
 questions:
  - En 1988, quel film de Bruno Nuytten avec Isabelle Adjani évoque la passion amoureuse d'une artiste pour Auguste Rodin?
+culture_g_score: 60
+culture_g_justification: "Film français notable reliant Camille Claudel, Isabelle Adjani, Bruno Nuytten et l’histoire de la sculpture, sans être un incontournable absolu."
 ---
-
 ![Image de Camille Claudel](https://upload.wikimedia.org/wikipedia/commons/a/af/Camille_Claudel.-_La_Vague_1897-1903_sculpture_en_marbre%2C_onyx%2C_bronze.jpg)
 
 ###### Questions

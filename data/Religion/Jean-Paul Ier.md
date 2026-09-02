@@ -18,8 +18,9 @@ indice_5 :
   - 33 jours
 indice_6 : 
   - Vatican
+culture_g_score: 64
+culture_g_justification: "Pontificat très bref et mémorable, mais avec peu d’angles indépendants au-delà de sa durée et de son surnom."
 ---
-
 ![Image de Jean-Paul Ier](https://upload.wikimedia.org/wikipedia/commons/5/5f/D%C3%A9tail%2C_Fran%C3%A7ois_Ier_et_Marguerite_de_Navarre%2C_sa_s%C5%93ur%2C_visitent_l%E2%80%99imprimerie_de_Robert_Estienne%2C_Jean-Paul_Laurens.jpg)
 
 ###### Questions

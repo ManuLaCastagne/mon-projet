@@ -23,8 +23,9 @@ indice_6 :
   - école de Nancy
 questions:
  - Quelle famille de verriers lorrains est notamment connue pour ses lampes en forme de champignons ou de fleurs?
+culture_g_score: 47
+culture_g_justification: "La manufacture Daum est un repère utile de l’Art nouveau et de la verrerie de Nancy, mais reste moins fréquente que les grands noms du mouvement."
 ---
-
 ![Image de Frères Daum](https://upload.wikimedia.org/wikipedia/commons/f/f1/Daum-harrods07.png)
 
 ###### Questions

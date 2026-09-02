@@ -22,8 +22,9 @@ indice_6 :
   - Hunting High and Low
 questions:
  - En 1985, à quel groupe norvégien doit-on la chanson "Take on me", qui est restée classée plusieurs semaines parmi les meilleures ventes?
+culture_g_score: 64
+culture_g_justification: "A-ha est une référence pop internationale surtout interrogée à travers « Take on Me », son clip et James Bond."
 ---
-
 ![Image de A-ha](https://upload.wikimedia.org/wikipedia/commons/d/dd/A-haVistalegre19.JPG)
 
 ###### Questions

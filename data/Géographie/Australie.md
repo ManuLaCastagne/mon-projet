@@ -22,8 +22,9 @@ indice_5 :
   - Canberra
 indice_6 : 
   - Tasmanie
+culture_g_score: 100
+culture_g_justification: "Pays-continent incontournable pour la géographie, la faune, les peuples autochtones, l’exploration, le sport et les enjeux environnementaux."
 ---
-
 ![[Carte_Australie.png]]
 
 ###### Questions

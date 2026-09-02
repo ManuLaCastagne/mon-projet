@@ -18,8 +18,9 @@ indice_5:
   - ski alpin
 indice_6:
   - Allemagne
+culture_g_score: 60
+culture_g_justification: "Édition olympique utile pour les Jeux d'hiver, le contexte nazi et l'introduction du ski alpin, mais limitée à un événement précis."
 ---
-
 ![Image de Garmisch-Partenkirchen 1936](https://upload.wikimedia.org/wikipedia/commons/a/a4/Bronis%C5%82aw_Czech_Andrzej_Marusarz_Garmisch-Partenkirchen_1936-02.jpeg)
 
 ###### Questions

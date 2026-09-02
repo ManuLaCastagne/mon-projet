@@ -24,11 +24,9 @@ indice_6 :
   - espèces endémiques
 questions:
  - D'effondrement formé il y a 25 millions d'années, ce qui fait de moi le plus vieux lac du monde, je contiens une eau d'une extrême pureté. Long de 636 km, je constitue...
+culture_g_score: 77
+culture_g_justification: "Le Baïkal est un grand classique des records géographiques grâce à sa profondeur, son ancienneté et ses réserves d’eau douce."
 ---
-
-
-
-
 ![Image de Lac Baïkal](https://upload.wikimedia.org/wikipedia/commons/5/53/Lake_Baikal_in_winter.jpg)
 
 ![[Carte_Lac Baïkal.png]]

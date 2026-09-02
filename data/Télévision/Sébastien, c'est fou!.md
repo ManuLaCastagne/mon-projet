@@ -20,8 +20,9 @@ indice_6 :
   - Humoriste
 questions:
  - Dès 88, dans quelle émission un animateur demande-t-il à ses invités de se déguiser en star?
+culture_g_score: 27
+culture_g_justification: "Émission liée à Patrick Sébastien et à une période précise de la télévision, aujourd’hui trop obscure pour être rentable."
 ---
-
 ![Image de Sébastien, c'est fou!](https://upload.wikimedia.org/wikipedia/commons/2/2d/Mirbeau_-_S%C3%A9bastien_Roch%2C_1890.djvu)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_6 :
   - jeux de lumière et d'ombres
 questions:
  - Quel artiste américain, représentant souvent des personnages solitaires dans un univers urbain est l'auteur de la toile "Nighthawks"?
+culture_g_score: 80
+culture_g_justification: "Hopper est une référence majeure de la peinture américaine, associée à Nighthawks, à la solitude urbaine et à l'imaginaire des États-Unis."
 ---
-
-
 ![Image de Edward Hopper](https://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg)
 
 ###### Questions

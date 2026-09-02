@@ -22,8 +22,9 @@ indice_6:
   - récompensé par l'Oscar du Meilleur Film en Langue Étrangère
 questions:
   - Quel cinéaste dédie son film "Les Quatre Cents Coups" au critique de cinéma André Bazin, disparu quelques mois plus tôt, qui est un des fondateurs des "Cahiers du cinéma" ?
+culture_g_score: 100
+culture_g_justification: "Figure majeure de la Nouvelle Vague et du cinéma mondial, dont les films, écrits, critiques et collaborations ouvrent de nombreux angles."
 ---
-
 ![Image de François Truffaut](https://upload.wikimedia.org/wikipedia/commons/6/6e/Fran%C3%A7ois_Truffaut_%281965%29.jpg)
 
 ###### Questions

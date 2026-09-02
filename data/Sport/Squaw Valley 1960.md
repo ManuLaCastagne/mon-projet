@@ -20,8 +20,9 @@ indice_5:
   - patinage artistique
 indice_6:
   - Walter Siegenthaler
+culture_g_score: 44
+culture_g_justification: "Édition olympique d’hiver surtout retenue pour Walt Disney et quelques innovations, avec une rentabilité limitée hors histoire des Jeux."
 ---
-
 ![Image de Squaw Valley 1960](https://upload.wikimedia.org/wikipedia/commons/3/36/Squaw_Valley_Gondola.jpg)
 
 ###### Questions

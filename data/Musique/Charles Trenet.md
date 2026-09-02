@@ -22,8 +22,9 @@ indice_6:
   - musique française
 questions:
   - En 1995, quel artiste français se souvient avec nostalgie de son ami Johnny Hess, avec qui il a débuté dans la chanson "Johnny, tu me manques"?
+culture_g_score: 100
+culture_g_justification: "Figure fondamentale de la chanson française, liée à de nombreux standards, à l’histoire de la variété, au jazz et aux reprises internationales."
 ---
-
 ![Image de Charles Trenet](https://upload.wikimedia.org/wikipedia/commons/4/4f/Charles_Trenet_-_1951_-_1_%28cropped%29.jpg)
 
 ###### Questions

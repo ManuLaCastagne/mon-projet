@@ -22,8 +22,9 @@ indice_6 :
   - Boris Viande
 questions:
  - Dans les années 80, de la scène musicale de quelle ville bretonne Niagara s'est fait connaître comme Etienne Daho, Marquis de Sade ?
+culture_g_score: 67
+culture_g_justification: "Grande ville française exploitable par la Bretagne, l'histoire, la géographie et les Trans Musicales, sans être un marronnier musical majeur."
 ---
-
 ![Image de Rennes](https://upload.wikimedia.org/wikipedia/commons/6/6a/Procession_des_saints_de_Bretagne_-_dioc%C3%A8se_de_Rennes%2C_cath%C3%A9drale_saint_Pierre%2C_Rennes%2C_France.jpg)
 
 ###### Questions

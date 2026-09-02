@@ -20,10 +20,9 @@ indice_6 :
   - famille riche
 questions:
  - Créée par Fran Drescher et Peter Marc Jacobson, je fais souvent intervenir des célébrités comme Elizabeth Taylor, Elton John ou encore Whoopi Goldberg.
+culture_g_score: 73
+culture_g_justification: "Sitcom américaine populaire et largement exportée, régulièrement interrogée grâce à Fran Fine, Fran Drescher et son générique."
 ---
-
-
-
 ![Image de Nounou d'enfer](https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_Une_nounou_d%27enfer.png)
 
 ###### Questions

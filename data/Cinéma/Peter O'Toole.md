@@ -23,8 +23,9 @@ indice_6:
   - T.E. Lawrence
 questions:
   - Quel acteur célèbre, connu pour son rôle dans [[Lawrence d'Arabie]], a été nommé pour huit [[Oscars]] mais n'a jamais remporté la fameuse statuette pour ses performances entre 1962 et 2006 ?
+culture_g_score: 77
+culture_g_justification: "Son rôle dans Lawrence d'Arabie, ses nombreuses nominations aux Oscars et sa carrière théâtrale en font une grande référence du cinéma anglophone."
 ---
-
 ![Image de Peter O'Toole](https://upload.wikimedia.org/wikipedia/commons/8/8a/Peter_O%27Toole_--_LOA_trailer.jpg)
 
 ###### Questions

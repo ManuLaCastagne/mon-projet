@@ -18,11 +18,9 @@ indice_5 :
   - Charette de Pie
 indice_6 : 
   - Concile de Paris
+culture_g_score: 67
+culture_g_justification: "Son rapport conflictuel avec Napoléon, le Concordat et la restauration des Jésuites lui donnent plusieurs angles historiques rentables."
 ---
-
-
-
-
 ![Image de Pie VII](https://upload.wikimedia.org/wikipedia/commons/5/57/Portrait_de_Pie_VII_d%27apr%C3%A8s_David_-_Mus%C3%A9e_Cond%C3%A9.jpeg)
 
 ###### Questions

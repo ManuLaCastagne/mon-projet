@@ -22,9 +22,9 @@ indice_6 :
   - film de la série Contes des quatre saisons
 questions:
  - En 1996, dans quel film d'Eric Rohmer, Melvil Poupaud incarne-t-il un étudiant qui passe du temps sur la plage de Dinard?
+culture_g_score: 52
+culture_g_justification: "Film reconnu d'Éric Rohmer et des Contes des quatre saisons, mais assez rarement interrogé hors des quiz cinéphiles."
 ---
-
-
 ![Image de Conte d'été](https://upload.wikimedia.org/wikipedia/commons/1/1c/Shoeless_Joe_Jackson_by_Conlon%2C_1913.jpeg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - collaboration avec Billy Strayhorn
 questions:
  - Quel pianiste, compositeur et chef d'orchestre de jazz américain, ayant rendu célèbre le style jungle, était surnommé the Duke?
+culture_g_score: 92
+culture_g_justification: "Figure fondamentale du jazz, particulièrement rentable grâce à ses compositions, son orchestre, ses festivals, ses distinctions et son influence."
 ---
-
 ![Image de Duke Ellington](https://upload.wikimedia.org/wikipedia/commons/0/0f/Duke_Ellington_at_the_Hurricane_Club_1943.jpg)
 
 ###### Questions

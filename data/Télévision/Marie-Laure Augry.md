@@ -20,9 +20,9 @@ indice_6 :
   - productrice d'émissions culturelles
 questions:
  - En 1989, quelle femme journaliste proposait aux téléspectateurs de résoudre divers problèmes les concernant dans l'émission "Allô! Marie-Laure"?
+culture_g_score: 31
+culture_g_justification: "Figure du journal télévisé des années 1980 surtout utile pour quelques questions spécialisées sur la télévision française."
 ---
-
-
 ![Image de Marie-Laure Augry](https://upload.wikimedia.org/wikipedia/commons/0/01/Marie-Laure_Augry_Photo_Ph.BRIZARD.jpg)
 
 ###### Questions

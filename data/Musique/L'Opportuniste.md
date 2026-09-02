@@ -20,8 +20,9 @@ indice_5:
   - 1968
 indice_6:
   - guitariste et chanteur
+culture_g_score: 60
+culture_g_justification: "Chanson classique de Dutronc, utile pour les quiz sur la chanson française, Mai 68 et la satire politique."
 ---
-
 ![Image de Opportuniste](https://upload.wikimedia.org/wikipedia/commons/4/46/La_majorit%C3%A9_opportuniste_-_DPLA_-_e8baf7562b596149b4c17f6cd8453dea.jpg)
 
 ###### Questions

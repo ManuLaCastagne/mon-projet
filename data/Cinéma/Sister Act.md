@@ -22,8 +22,9 @@ indice_6 :
   - Dolores Van Cartier
 questions:
  - Film dans lequel W.Goldberg, chargée de la chorale de l'établissement religieux, lui donne un nouvel élan. Elle apporte tout plein d'énergie aux religieuses.
+culture_g_score: 73
+culture_g_justification: "Comédie musicale très populaire associée à Whoopi Goldberg, à des chansons connues et à une suite, donc fréquemment exploitable."
 ---
-
 ![Image de Sister Act](https://upload.wikimedia.org/wikipedia/commons/4/4c/Sister_Act_Barcelona_2015.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5cDiOWKrURRY7OvZ0dfYSy?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

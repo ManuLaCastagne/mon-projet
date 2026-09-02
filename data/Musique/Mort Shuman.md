@@ -22,9 +22,9 @@ indice_6 :
   - My Name is Mort Shuman
 questions:
  - C'est une adaptation anglaise de "La Chanson de Jacky" qui figurait dans une comédie musicale consacrée aux compositions de Jacques Brel, montée à New York en 1968.  Quel chanteur américain, prénommé Mortimer, est à l'origine de cette comédie musicale restée à l'affiche plusieurs années à Greenwich Village?
+culture_g_score: 52
+culture_g_justification: "Auteur-compositeur lié à Elvis Presley et à la chanson française, intéressant mais assez secondaire dans les quiz généralistes."
 ---
-
-
 ![Image de Mort Shuman](https://upload.wikimedia.org/wikipedia/commons/e/e5/ConcertgebouwMuseumpleinAmsterdam.jpg)
 
 ###### Questions

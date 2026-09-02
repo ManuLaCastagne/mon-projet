@@ -22,7 +22,8 @@ indice_5 :
   - Vichy
 indice_6 : 
   - Cantal
-culture_g_score: 80
+culture_g_score: 72
+culture_g_justification: "Région française fortement identifiable par ses volcans, ses paysages, sa gastronomie et son histoire, avec plusieurs angles de quiz."
 ---
 ![[Carte_Auvergne.png]]
 

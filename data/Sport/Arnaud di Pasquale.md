@@ -20,8 +20,9 @@ indice_6 :
   - carrière professionnelle
 questions:
  - Quel ancien joueur, médaillé de bronze en simple aux JO de Sydney, a été le DTN de la Fédération française de tennis de 2013 à 2017?
+culture_g_score: 40
+culture_g_justification: "Tennisman français médaillé olympique, utile pour quelques questions sur Sydney 2000 et la Fédération française de tennis."
 ---
-
 ![Image de Arnaud di Pasquale](https://upload.wikimedia.org/wikipedia/commons/f/f0/DiPasqualeJO2012.JPG)
 
 ###### Questions

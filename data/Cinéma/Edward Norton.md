@@ -22,8 +22,9 @@ indice_6 :
   - The Illusionist
 questions:
  - Dans ce film de David Fincher,  quel acteur américain incarne le narrateur qui deviendra membre du Fight club ?
+culture_g_score: 76
+culture_g_justification: "Acteur associé à plusieurs films très questionnés comme Fight Club, American History X et Moonrise Kingdom."
 ---
-
 ![Image de Edward Norton](https://upload.wikimedia.org/wikipedia/commons/3/35/Ed_Norton_Shankbone_Metropolitan_Opera_2009.jpg)
 
 ###### Questions

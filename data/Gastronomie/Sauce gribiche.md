@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Pays-Bas
+culture_g_score: 53
+culture_g_justification: "Sauce française classique pouvant être interrogée par sa composition et ses accompagnements, sans forte transversalité."
 ---
 ###### Questions 
 

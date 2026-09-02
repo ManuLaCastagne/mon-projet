@@ -24,8 +24,9 @@ indice_6 :
   - production laitière
 questions:
  - Quelle commune du Calvados,  traversée par l'Aure, est réputée pour son beurre et ses caramels ?
+culture_g_score: 40
+culture_g_justification: "Commune normande connue pour ses produits laitiers et une association étymologique avec Disney, mais rarement interrogée directement."
 ---
-
 ![Image de Isigny-sur-Mer](https://upload.wikimedia.org/wikipedia/commons/d/d0/Buste_Emile_Demagny_Isigny_sur_mer.jpg)
 
 ![[Carte_Isigny-sur-Mer.png]]

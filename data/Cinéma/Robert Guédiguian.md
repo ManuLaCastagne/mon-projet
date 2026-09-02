@@ -22,8 +22,9 @@ indice_6 :
   - La Villa
 questions:
  - En 2001, quel cinéaste situe à Marseille l'action de son film "La Ville est tranquille" avec Ariane Ascaride et Jean-Pierre Darroussin?
+culture_g_score: 60
+culture_g_justification: "Cinéaste français identifiable par Marseille, Ariane Ascaride et ses thèmes sociaux, mais surtout connu des amateurs du cinéma d’auteur."
 ---
-
 ![Image de Robert Guédiguian](https://upload.wikimedia.org/wikipedia/commons/9/9a/Robert_Gu%C3%A9diguian_Cannes_2015.jpg)
 
 ###### Questions

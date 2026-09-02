@@ -18,9 +18,9 @@ indice_5 :
   - visage de TF1 dans les années 2000
 indice_6 : 
   - auteure de livres autobiographiques
+culture_g_score: 60
+culture_g_justification: "Animatrice familière des années 2000, régulièrement identifiable par ses émissions de TF1, mais d’importance culturelle limitée."
 ---
-
-
 ![Image de Flavie Flament](https://upload.wikimedia.org/wikipedia/commons/4/46/Flavie_Flament.jpg)
 
 ###### Questions

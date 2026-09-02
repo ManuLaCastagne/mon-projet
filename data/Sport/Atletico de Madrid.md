@@ -20,9 +20,9 @@ indice_6 :
   - Luis Aragonés
 questions:
  - Quel club de football madrilène, dont les joueurs sont surnommés les Matelassiers, doit son maillot rouge et blanc au club de Southampton?
+culture_g_score: 77
+culture_g_justification: "Il s’agit du même grand club madrilène, fréquemment présent dans les questions sur la Liga, la Ligue Europa et ses stades."
 ---
-
-
 ![Image de Atletico de Madrid](https://upload.wikimedia.org/wikipedia/commons/1/16/Atletico_de_Madrid_Femenino_-_Reguero.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - roman français
 questions:
  - En 1996, quel roman de Marie Darrieussecq raconte la transformation de la narratrice en truie, qui va jusqu'à manger les fleurs qu'on lui offre ?
+culture_g_score: 60
+culture_g_justification: "Roman marquant de la rentrée littéraire des années 1990, utile pour Marie Darrieussecq, la métamorphose et les controverses littéraires, mais assez daté."
 ---
-
 ![Image de Truismes](https://upload.wikimedia.org/wikipedia/commons/9/93/Jenny_Holzer_Truisms.jpg)
 
 ###### Questions

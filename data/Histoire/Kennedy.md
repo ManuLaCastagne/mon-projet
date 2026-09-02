@@ -20,9 +20,9 @@ indice_6 :
   - successeur Lyndon B. Johnson
 questions:
  - En 1961, quel président en fonction depuis quelques mois est reçu au palais de Buckingham...
+culture_g_score: 100
+culture_g_justification: "Kennedy est un sujet extrêmement rentable grâce à son assassinat, la guerre froide, Apollo, Berlin, la famille Kennedy et les théories du complot."
 ---
-
-
 ![Image de Kennedy](https://upload.wikimedia.org/wikipedia/commons/2/21/John_F_Kennedy_Official_Portrait.jpg)
 
 ###### Questions

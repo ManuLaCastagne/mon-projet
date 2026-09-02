@@ -22,8 +22,9 @@ indice_6 :
   - Just me myself & moi-même
 questions:
  - En 2019, quelle chanteuse, dont le véritable nom est Charlotte Gonin, sur l'album intitulé "VersuS", en duo avec Slimane?
+culture_g_score: 73
+culture_g_justification: "Chanteuse populaire, liée à Diam’s, à Slimane et à plusieurs émissions et succès majeurs de la variété francophone."
 ---
-
 ![Image de Vitaa](https://upload.wikimedia.org/wikipedia/commons/4/42/Vitaa_BTS_%22Vivre%22_1.jpg)
 
 ###### Questions

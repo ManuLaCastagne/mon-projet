@@ -20,8 +20,9 @@ indice_5:
   - aviateur et réalisateur
 indice_6:
   - obsession et héritage
+culture_g_score: 60
+culture_g_justification: "Biopic reconnu, surtout utile pour relier Scorsese, DiCaprio, Howard Hughes, Hollywood et l'aviation."
 ---
-
 ![Image de Aviator](https://upload.wikimedia.org/wikipedia/commons/3/38/Lt_Mike_Hunter_1.jpg)
 
 ###### Questions

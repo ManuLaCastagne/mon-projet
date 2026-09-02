@@ -18,8 +18,9 @@ indice_5 :
   - Bérénice Bejo
 indice_6 : 
   - Oscar du meilleur réalisateur
+culture_g_score: 80
+culture_g_justification: "Cinéaste français bien établi grâce à The Artist, OSS 117, les Oscars et la renaissance du cinéma muet."
 ---
-
 ![Image de Michel Hazanvicius](https://upload.wikimedia.org/wikipedia/commons/0/0c/Michel_Hazanavicius_2024.jpg)
 
 ###### Questions

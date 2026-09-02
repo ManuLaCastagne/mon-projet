@@ -19,8 +19,9 @@ indice_5 :
   - participante à Pékin Express
 indice_6 : 
   - en couple avec un sportif
+culture_g_score: 40
+culture_g_justification: "Ancienne Miss France identifiable par son titre et quelques passages médiatiques, mais peu rentable au-delà de ces repères."
 ---
-
 ![Image de Rachel Legrain-Trapani](https://upload.wikimedia.org/wikipedia/commons/e/e8/Rachel_Legrain-Trapani.jpg)
 
 ###### Questions

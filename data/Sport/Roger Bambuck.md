@@ -20,8 +20,9 @@ indice_6 :
   - Athlétisme
 questions:
  - Quel athlète français termine 5ème de la finale du 100m remportée par Jim Hines à Cinéma/Mexico 1968 ?
+culture_g_score: 44
+culture_g_justification: "Athlète français important mais relativement spécialisé, surtout mobilisé dans des questions précises sur l’athlétisme et sa carrière politique."
 ---
-
 ![Image de Roger Bambuck](https://upload.wikimedia.org/wikipedia/commons/2/21/Roger_Bambuck.JPG)
 
 ###### Questions

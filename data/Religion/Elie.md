@@ -20,8 +20,9 @@ indice_6 :
   - Veuve de Sarepta
 questions:
  - Quel prophète biblique, originaire de Galaad, a été représenté montant au ciel sur un char de feu?
+culture_g_score: 72
+culture_g_justification: "Prophète biblique connu pour le char de feu et le mont Carmel, avec des liens au judaïsme, au christianisme et à l’islam."
 ---
-
 ![Image de Elie](https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg)
 
 ###### Questions

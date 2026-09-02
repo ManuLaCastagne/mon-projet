@@ -20,8 +20,9 @@ indice_6 :
   - Années 1980
 questions:
  - En 1982 et 1983, sous la conduite de quel entraîneur le PSG a-t-il remporté ses 2 premières Coupes de France?
+culture_g_score: 31
+culture_g_justification: "Ancien entraîneur du PSG relativement peu connu, dont les principaux angles se limitent à l'histoire du club au début des années 1980."
 ---
-
 ![Image de Georges Peyroche]()
 
 ###### Questions

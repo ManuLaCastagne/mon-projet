@@ -18,9 +18,9 @@ indice_5 :
   - dévastation de l'Allemagne
 indice_6 : 
   - implications pour la France et la Suède
+culture_g_score: 87
+culture_g_justification: "Conflit européen majeur reliant religion, rivalités dynastiques, dévastation démographique et traités de Westphalie."
 ---
-
-
 ![Image de guerre de Trente Ans](https://upload.wikimedia.org/wikipedia/commons/e/ed/Daudet_-_Trente_ans_de_Paris%2C_Flammarion%2C_1889.djvu)
 
 ###### Questions

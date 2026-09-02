@@ -20,8 +20,9 @@ indice_6 :
   - Oscar de la meilleure actrice
 questions:
  - En 2002, quelle actrice, ayant un temps été mannequin, devient la 1re comédienne noire à décrocher l'Oscar de la meilleure actrice dans "À l'ombre de la haine" ?
+culture_g_score: 84
+culture_g_justification: "Actrice hollywoodienne mondialement connue, particulièrement rentable grâce à l'Oscar, X-Men, ses rôles marquants et son parcours pionnier."
 ---
-
 ![Image de Halle Berry](https://upload.wikimedia.org/wikipedia/commons/5/56/Halle_Berry_by_Gage_Skidmore_2.jpg)
 
 ###### Questions

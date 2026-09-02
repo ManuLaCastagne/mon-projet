@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de prospérité
 questions:
  - Possédant un dos gris-bleu, je porte une tache noire bordée de rouge à l'opercule et une tache dorée sur le front. Constituant la 1re espèce d'aquaculture en Méditerranée, ma production...
+culture_g_score: 44
+culture_g_justification: "La dorade est familière dans la gastronomie et la pêche, mais offre peu d'angles de culture générale vraiment récurrents."
 ---
-
 ![Image de Dorade](https://upload.wikimedia.org/wikipedia/commons/0/01/Dorada_%28Sparus_aurata%29%2C_Cabo_de_Palos%2C_Espa%C3%B1a%2C_2022-07-14%2C_DD_14.jpg)
 
 ###### Questions

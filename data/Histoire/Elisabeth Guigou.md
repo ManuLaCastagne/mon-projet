@@ -20,8 +20,9 @@ indice_6 :
   - Née à Marrakech en 1946
 questions:
  - En 1997, quelle femme politique fut la première femme à devenir garde des Sceaux ?
+culture_g_score: 40
+culture_g_justification: "Ministre française notable pour la justice et la loi SRU, mais personnalité politique secondaire dans la culture générale."
 ---
-
 ![Image de Elisabeth Guigou](https://upload.wikimedia.org/wikipedia/commons/1/15/%C3%89lisabeth_Guigou%2C_Socialist_rally%2C_Z%C3%A9nith%2C_2007_05_29_n11.jpg)
 
 ###### Questions

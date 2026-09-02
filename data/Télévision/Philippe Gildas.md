@@ -18,8 +18,9 @@ indice_5 :
   - Style décontracté et humoristique
 indice_6 : 
   - Influence marquante sur la télévision française
+culture_g_score: 76
+culture_g_justification: "Figure centrale de Canal+ et de Nulle part ailleurs, liée à l’histoire de la télévision, de la radio et de l’humour."
 ---
-
 ![Image de Philippe Gildas](https://upload.wikimedia.org/wikipedia/commons/5/5a/PhilippeGildas.jpg)
 
 ###### Questions

@@ -22,10 +22,9 @@ indice_6 :
   - exil en Louisiane
 questions:
  - En 1731, de quelle héroïne le chevalier des Grieux s'éprend-il dans le roman éponyme de l'Abbé Prévost ?
+culture_g_score: 80
+culture_g_justification: "Grand classique du XVIIIe siècle, associé à l’abbé Prévost, à l’opéra, au mythe amoureux et au roman préromantique."
 ---
-
-
-
 ![Image de Manon Lescaut](https://upload.wikimedia.org/wikipedia/commons/6/61/Manon_Lescaut_Prevost_1753_page1.png)
 
 ###### Questions

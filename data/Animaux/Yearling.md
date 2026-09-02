@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté
 questions:
  - Par quel nom désigne-t-on un poulain de race avant ses 1 ans ?
+culture_g_score: 47
+culture_g_justification: "Yearling est surtout un terme hippique, avec une ouverture littéraire via le roman homonyme, mais une portée générale limitée."
 ---
-
 ![Image de Yearling](https://upload.wikimedia.org/wikipedia/commons/3/33/National_Yearling_Sales%2C_Trentham%2C_1967_%2811%29.jpg)
 
 ###### Questions

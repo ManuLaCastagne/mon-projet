@@ -22,8 +22,9 @@ indice_6 :
   - ascension sociale
 questions:
  - Dans quel roman de Stendhal le jeune Julien Sorel...
+culture_g_score: 80
+culture_g_justification: "Roman central de Stendhal, régulièrement mobilisé pour la Restauration, Julien Sorel, le réalisme et les thèmes de l’ambition."
 ---
-
 ![Image de Le Rouge et le noir](https://upload.wikimedia.org/wikipedia/commons/d/d7/Red_rose_with_black_background.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Celtic Revival
 indice_6 : 
   - Coole Park
+culture_g_score: 47
+culture_g_justification: "Actrice majeure de la Renaissance irlandaise et cofondatrice de l’Abbey Theatre, Gregory reste toutefois peu connue du joueur généraliste."
 ---
-
 ![Image de Isabella Augusta Gregory](https://upload.wikimedia.org/wikipedia/commons/f/f4/Lady_gregory.jpg)
 
 ###### Questions

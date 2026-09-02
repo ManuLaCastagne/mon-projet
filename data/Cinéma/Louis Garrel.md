@@ -20,9 +20,9 @@ indice_5:
   - acteur français
 indice_6:
   - son père est Philippe Garrel
+culture_g_score: 60
+culture_g_justification: "Acteur français reconnu du cinéma d’auteur et lié à plusieurs réalisateurs et films contemporains assez classiques."
 ---
-
-
 ![Image de Louis Garrel](https://upload.wikimedia.org/wikipedia/commons/3/39/Louis_Garrel_Cannes_2017.jpg)
 
 ###### Questions

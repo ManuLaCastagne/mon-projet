@@ -20,8 +20,9 @@ indice_6 :
   - Ancien Testament
 questions:
  - Quel roi d'Israël, à la sagesse proverbiale, a succédé à son père, David, à la place de son frère Adonias ?
+culture_g_score: 92
+culture_g_justification: "Roi biblique associé à la sagesse, au Temple de Jérusalem, à David, aux Proverbes et à de nombreuses traditions culturelles."
 ---
-
 ![Image de Salomon](https://upload.wikimedia.org/wikipedia/commons/f/fc/Salomon-1970s.jpg)
 
 ###### Questions

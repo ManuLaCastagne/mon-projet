@@ -21,8 +21,9 @@ indice_5:
   - château de Bruniquel
 indice_6:
   - Robert Enrico
+culture_g_score: 80
+culture_g_justification: "Grand succès du cinéma français, fréquemment associé aux César, à la Résistance, à Romy Schneider, Philippe Noiret et à la vengeance."
 ---
-
 ![[Pasted image 20250421192655.png]]
 ###### Questions
 

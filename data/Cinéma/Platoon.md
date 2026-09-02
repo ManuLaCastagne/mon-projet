@@ -22,8 +22,9 @@ indice_6 :
   - Palme d'or
 questions:
  - When a man loves a woman, Percy Sledge. ...  Je remerciais l'auteur d'une question tout à l'heure, je vais remercier l'auteur de la lumière car c'est magnifique. Ca, c'est "When a man loves a woman", célèbre tube de Percy Sledge, 1966, qu'il avait enregistré alors qu'il venait de perdre à la fois son travail et sa petite amie.  Vous imaginez l'humeur. En 1987, sur la bande originale de quel film d'Oliver Stone ayant pour cadre la guerre du Viêtnam...
+culture_g_score: 77
+culture_g_justification: "Grand film sur la guerre du Viêt Nam, fréquemment relié à Oliver Stone, aux Oscars, à l'histoire militaire et au cinéma américain."
 ---
-
 ![Image de Platoon](https://upload.wikimedia.org/wikipedia/commons/f/f2/Infantry_Platoon_Nato.svg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - script
 questions:
  - Sous quel nom connaît-on mieux l'acteur Simon Jacques Eugène Berryer ?
+culture_g_score: 43
+culture_g_justification: "Humoriste et acteur français connu surtout des amateurs de télévision ancienne, avec des angles de quiz assez limités."
 ---
-
 ![Image de Sim](https://upload.wikimedia.org/wikipedia/commons/a/a3/Sim_panorama.jpg)
 
 ###### Questions

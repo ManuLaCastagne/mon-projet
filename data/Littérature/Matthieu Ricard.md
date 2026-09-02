@@ -22,9 +22,9 @@ indice_6 :
   - Plaidoyer pour le bonheur
 questions:
  - En 2008, dans son livre "L'Art de la méditation", quel moine bouddhiste, né à Aix-les-Bains, montre comment progresser dans la maîtrise de soi?
+culture_g_score: 60
+culture_g_justification: "Personnalité médiatique associant bouddhisme, vulgarisation du bonheur, photographie et biologie, mais d’importance littéraire modérée."
 ---
-
-
 ![Image de Matthieu Ricard](https://upload.wikimedia.org/wikipedia/commons/4/4c/Portrait_de_Matthieu_Ricard.jpg)
 
 ###### Questions

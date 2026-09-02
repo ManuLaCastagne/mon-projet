@@ -22,8 +22,9 @@ indice_6 :
   - fusion
 questions:
  - Commandée par le chef d'orchestre Paul Whiteman, j'ai été orchestrée par Ferde Grofé et suis définie comme "un kaléidoscope musical de l'Amérique" par mon auteur George Gershwin. Oeuvre...
+culture_g_score: 80
+culture_g_justification: "Œuvre classique très célèbre pour sa fusion du jazz et de la musique savante, avec des entrées par Gershwin, New York, la publicité et l'histoire musicale."
 ---
-
 ![Image de Rhapsody in Blue](https://upload.wikimedia.org/wikipedia/commons/0/03/Rhapsody_%28ship%2C_1996%29%2C_S%C3%A8te_cf01.jpg)
 
 ###### Questions

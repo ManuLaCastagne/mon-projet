@@ -20,9 +20,9 @@ indice_5 :
   - science-fiction
 indice_6 : 
   - exploration sous-marine
+culture_g_score: 88
+culture_g_justification: "Réalisateur de Titanic, Avatar et Terminator, extrêmement rentable grâce à ses records, ses innovations et ses collaborations."
 ---
-
-
 ![Image de James Cameron](https://upload.wikimedia.org/wikipedia/commons/7/77/James_Cameron_October_2012.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - adaptions de romans de policiers
 questions:
  - Dans quelle série télévisée française diffusée dès 1992 Véronique Genest interprète-t-elle un commissaire de police?
+culture_g_score: 73
+culture_g_justification: "Série policière française extrêmement durable et populaire, fournissant des questions récurrentes sur la fiction télévisée."
 ---
-
-
 ![Image de Julie Lescaut](https://upload.wikimedia.org/wikipedia/commons/8/89/Julie_Lescaut_%C3%A9pisode_101.jpg)
 
 ###### Questions

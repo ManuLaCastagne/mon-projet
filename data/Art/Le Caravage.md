@@ -20,9 +20,9 @@ indice_5:
   - Italie
 indice_6:
   - Michelangelo Merisi
+culture_g_score: 87
+culture_g_justification: "Le Caravage est central pour le baroque et le clair-obscur, tout en ouvrant sur la peinture religieuse, la vie d’artiste et son influence européenne."
 ---
-
-
 ![Image de Le Caravage](https://upload.wikimedia.org/wikipedia/commons/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg)
 
 ###### Questions

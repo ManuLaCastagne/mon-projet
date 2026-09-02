@@ -22,9 +22,9 @@ indice_6:
   - Mary Magdalene
 questions:
   - Tournant dans des productions étrangères comme "L'Aigle de la Neuvième Légion" ou "Marie Madeleine", j'incarne en 2011 un jeune prince dans "Or noir" de Jean-Jacques Annaud. Récompensé en 2010 par 2 césars dont celui du meilleur acteur…
+culture_g_score: 76
+culture_g_justification: "Acteur français révélé par Un prophète et présent dans des productions internationales, avec plusieurs repères cinématographiques et télévisuels."
 ---
-
-
 ![Image de Tahar Rahim](https://upload.wikimedia.org/wikipedia/commons/e/e7/Tahar_Rahim_2012.jpg)
 
 ###### Questions

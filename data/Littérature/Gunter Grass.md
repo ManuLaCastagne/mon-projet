@@ -22,8 +22,9 @@ indice_6 :
   - réalisme magique
 questions:
  - A quel écrivain allemand, Prix Nobel de littérature en 1999, doit-on le roman "Le Tambour" qui a été adapté au cinéma par Volker Schlondorff ?
+culture_g_score: 71
+culture_g_justification: "Prix Nobel et auteur du Tambour, il ouvre des angles sur la littérature allemande, l'histoire du nazisme et les arts visuels."
 ---
-
 ![Image de Gunter Grass](https://upload.wikimedia.org/wikipedia/commons/a/a6/G%C3%BCnter_Grass%2C_2004.jpg)
 
 ###### Questions

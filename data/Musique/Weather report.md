@@ -22,8 +22,9 @@ indice_6 :
   - Heavy Weather
 questions:
  - C'est Wayne Shorter, un saxophoniste né en 1933 et considéré comme l'une des légendes du jazz. Quel groupe de jazz fusion, dont le nom anglais signifie bulletin météo W.Shorter a-t-il fondé en 1971 avec le claviériste Joe Zawinul?
+culture_g_score: 64
+culture_g_justification: "Formation majeure du jazz fusion, mais principalement utile aux joueurs déjà familiers de l’histoire du jazz."
 ---
-
 ![Image de Weather report](https://upload.wikimedia.org/wikipedia/commons/b/b8/Weather_Report_%28Jaco_Pastorius%29.jpg)
 
 ###### Questions

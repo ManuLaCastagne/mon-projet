@@ -20,8 +20,9 @@ indice_6 :
   - député de la Seine-Maritime
 questions:
  - En 1984, quel ancien élève de l'ENA devient, à 37 ans, le plus jeune Premier ministre de la Ve République?
+culture_g_score: 67
+culture_g_justification: "Laurent Fabius est un repère politique français utile pour la Ve République, Mitterrand, la COP21 et les institutions, mais moins central que les principaux présidents."
 ---
-
 ![Image de Laurent Fabius](https://upload.wikimedia.org/wikipedia/commons/b/b6/Laurent_Fabius_%282001%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Opéra
 questions:
  - A quel compositeur français doit-on la musique du ballet "Coppélia", créé en 1810...
+culture_g_score: 64
+culture_g_justification: "Compositeur français important grâce à Coppélia et Lakmé, mais moins transversal et moins fréquemment interrogé que les figures centrales du classique."
 ---
-
 ![Image de Léo Delibes](https://upload.wikimedia.org/wikipedia/commons/0/02/Leo_Delibes_1888_BNF_Gallica.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - plages tropicales
 questions:
  - Quel pays des grandes Antilles occupe la partie orientale de l'île d'Haïti?
+culture_g_score: 72
+culture_g_justification: "La République dominicaine est utile pour l’histoire des Amériques, Hispaniola, Christophe Colomb, les Caraïbes et la géographie touristique."
 ---
-
-
 ![Image de République Dominicaine](https://upload.wikimedia.org/wikipedia/commons/7/74/Place_R%C3%A9publique_Dominicaine_Paris_1.jpg)
 
 ![[Carte_République Dominicaine.png]]

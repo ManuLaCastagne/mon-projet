@@ -22,8 +22,9 @@ indice_6 :
   - Pearson family
 questions:
  - Dès 2016, quelle série américaine met en scène 2 frères et une soeur, tous nés le même jour et connus sous le nom de Big Three?
+culture_g_score: 63
+culture_g_justification: "Série américaine à succès offrant plusieurs angles sur la famille, ses acteurs et sa narration temporelle, sans être incontournable en francophonie."
 ---
-
 ![Image de This is us](https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_This_Is_Us.svg)
 
 ###### Questions

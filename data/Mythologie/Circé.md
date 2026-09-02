@@ -18,8 +18,9 @@ indice_6 :
   - Ulysse
 questions:
  - Dans "L'Odyssée", un peu de mythologie, quel nom porte cette magicienne qui transforme...
+culture_g_score: 80
+culture_g_justification: "Personnage emblématique de l'Odyssée, associé à la magie, aux métamorphoses et à plusieurs récits antiques."
 ---
-
 ![Image de Circé](https://upload.wikimedia.org/wikipedia/commons/d/d9/Circe_Offering_the_Cup_to_Odysseus.jpg)
 
 ###### Questions

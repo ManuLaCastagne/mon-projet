@@ -21,11 +21,9 @@ indice_5:
   - 1988
 indice_6:
   - Elfe nommé Willow
+culture_g_score: 60
+culture_g_justification: "Film de fantasy connu des amateurs de cinéma populaire, mais dont les possibilités de questions restent assez concentrées sur son univers et sa production."
 ---
-
-
-
-
 ![Image de Willow](https://upload.wikimedia.org/wikipedia/fr/0/07/Willow_1988.png)
 
 ###### Questions

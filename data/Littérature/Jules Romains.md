@@ -22,6 +22,8 @@ indice_6 :
   - XXe siècle
 questions:
  - A quel académicien français doit-on la fresque "Les Hommes de Bonne Volonté" ?
+culture_g_score: 60
+culture_g_justification: "Auteur de Knock et des Hommes de bonne volonté, suffisamment classique pour les quiz français mais moins incontournable que Molière."
 ---
 s
 ![Image de Jules Romain](https://upload.wikimedia.org/wikipedia/commons/8/82/Giulio_Romano_-_Meleager_et_Atalanta.jpg)

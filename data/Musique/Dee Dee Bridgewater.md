@@ -22,8 +22,9 @@ indice_6 :
   - Biloxi 1950
 questions:
  - Quelle chanteuse de jazz, interprète de l'album "J'ai deux amours", reprenant des classiques de la chanson française, a été la 1re Américaine à être membre du Haut Conseil de la francophonie?
+culture_g_score: 52
+culture_g_justification: "Chanteuse de jazz reconnue et récompensée, mais moins familière du grand public et moins fréquente que les grandes figures du genre."
 ---
-
 ![Image de Dee Dee Bridgewater](https://upload.wikimedia.org/wikipedia/commons/0/06/Dee_dee_bridgewater.jpg)
 
 ###### Questions

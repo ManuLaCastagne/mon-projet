@@ -22,8 +22,9 @@ indice_6 :
   - Comédie sociale
 questions:
  - Coincée, je la confronte à Fabrice Luchini, qui incarne son mari, un agent de change qui découvre la joie de vivre grâce à son employée de maison. Film de Philippe Le Guay...
+culture_g_score: 40
+culture_g_justification: "Comédie française connue mais relativement périphérique, offrant peu d'angles de quiz indépendants."
 ---
-
 ![Image de Femmes du 6e étage](https://upload.wikimedia.org/wikipedia/commons/a/ac/L%27Avenue_du_Maine_XIVe_Paris._vue_du_6e_%C3%A9tage_du_n%C2%BA42_de_la_rue_Gassendi%2C_D.4700.jpg)
 
 ###### Questions

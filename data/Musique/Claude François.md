@@ -18,8 +18,9 @@ indice_5 :
   - My Way (Comme d'habitude)
 indice_6 : 
   - Yéyé
+culture_g_score: 97
+culture_g_justification: "Icône incontournable de la variété française, associée à de nombreux tubes, à My Way, à son décès spectaculaire et à la culture populaire."
 ---
-
 ![Image de Claude François]()
 
 ###### Questions

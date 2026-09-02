@@ -22,8 +22,9 @@ indice_6 :
   - danger zone
 questions:
  - En 1986, dans quel film Tom Cruise  incarne-t-il un pilote de chasse...
+culture_g_score: 93
+culture_g_justification: "Film culte mondialement connu, exploitable autour de Tom Cruise, de l'aéronavale, de sa bande originale et de son influence populaire."
 ---
-
 ![Image de Top Gun](https://upload.wikimedia.org/wikipedia/commons/2/2a/Top_Gun_House_Oceanside_CA.jpg)
 
 ###### Questions

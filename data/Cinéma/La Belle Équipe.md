@@ -22,8 +22,9 @@ indice_6 :
   - music-hall
 questions:
  - Quel film de Duvivier avec Gabin comporte une fin optimiste en 1936 ?
+culture_g_score: 64
+culture_g_justification: "Classique du réalisme français associé à Duvivier, Gabin, au Front populaire et à ses deux fins, mais moins incontournable que les plus grands films."
 ---
-
 ![Image de La Belle Équipe](https://upload.wikimedia.org/wikipedia/commons/c/cc/Le_voilier_de_course_La_Belle_Equipe_2_%282%29.JPG)
 
 ###### Questions

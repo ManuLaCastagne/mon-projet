@@ -18,8 +18,9 @@ indice_5 :
   - artistes nationaux et internationaux
 indice_6 : 
   - retour sur de grandes chansons
+culture_g_score: 80
+culture_g_justification: "Émission musicale emblématique, fréquemment associée à Nagui, aux performances live, aux artistes internationaux et à la télévision française."
 ---
-
 ![Image de Taratata](https://upload.wikimedia.org/wikipedia/commons/7/7e/%C3%89tretat-112-Taratata-1981-gje.jpg)
 
 ###### Questions

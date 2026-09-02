@@ -24,8 +24,9 @@ indice_6 :
   - Nouméa
 questions:
  - J'ai créé dans les années 60 un mouvement indépendantiste dont les revendications ont mené aux accords de Matignon. Peuple de Nouvelle-Calédonie dont la population totale est estimée à environ 110 000 personnes.
+culture_g_score: 64
+culture_g_justification: "Peuple autochtone central dans l’histoire et la politique de la Nouvelle-Calédonie, mais peu présent hors des questions sur les territoires français."
 ---
-
 ![Image de Kanaks](https://upload.wikimedia.org/wikipedia/commons/4/49/MHNT-ETH.AC.NC.194_%28stack%29.jpg)
 
 ![[Carte_Kanaks.png]]

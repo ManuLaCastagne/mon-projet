@@ -22,8 +22,9 @@ indice_6 :
   - Irene Cara
 questions:
  - Célèbre pour la scène où de nombreux jeunes dansent dans la rue, j'ai révélé Irène Cara, qui interprète le tube de ma bande originale. Film musical d'Alan Parker... Sur le rêve de gloire d'apprentis artistes, je suis...
+culture_g_score: 60
+culture_g_justification: "Comédie musicale emblématique des années 1980, régulièrement mobilisable par son titre, sa chanson et son école artistique."
 ---
-
 ![Image de Fame](https://upload.wikimedia.org/wikipedia/commons/7/77/Aankomst_popgroepsterren_TV_film_Fame_op_Schiphol%2C_1983_-_22.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole d'émerveillement et de beauté
 questions:
  - Quel oiseau coloré de Nouvelle-Guinée est également appelé "Oiseau de Paradis" ?
+culture_g_score: 40
+culture_g_justification: "Groupe spectaculaire surtout mobilisé pour la Nouvelle-Guinée et les parades nuptiales, dans des questions assez spécialisées."
 ---
-
 ![Image de Paradisier](https://upload.wikimedia.org/wikipedia/commons/f/f8/Pl.07._Lesson_Pr%C3%AAtre_Oudart_-_Le_Paradisier_Rouge_male_adult_-_histoirenaturell00less_0_0323.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - LNV
 questions:
  - En 2021, en volley-ball féminin, quel club alsacien a été sacré champion de France...
+culture_g_score: 24
+culture_g_justification: "Club de volley-ball français relativement peu connu, surtout utile dans des questions sportives spécialisées."
 ---
-
 ![Image de ASPTT Mulhouse](https://upload.wikimedia.org/wikipedia/commons/e/e2/Asptt_MULHOUSE_VOLLEY_BALL_FEMININ_PRO_A_FRANCE.jpg)
 
 ###### Questions

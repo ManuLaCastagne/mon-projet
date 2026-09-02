@@ -22,8 +22,9 @@ indice_6 :
   - Riders on the Storm
 questions:
  - Quel groupe américain, mené par Jim Morrison, doit-on la chanson "Indian Summer" extraite de l'album "Morrison Hotel"?
+culture_g_score: 80
+culture_g_justification: "Groupe mythique du rock psychédélique, très exploitable grâce à Jim Morrison, ses chansons, ses albums et la contre-culture."
 ---
-
 ![Image de The Doors](https://upload.wikimedia.org/wikipedia/commons/3/36/Parked_bicycle_with_graffitied_building_facade_and_doors_in_Amsterdam.jpg)
 
 ###### Questions

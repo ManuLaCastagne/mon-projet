@@ -24,8 +24,9 @@ indice_6 :
   - Tramway
 questions:
  - Quelle ville de 120 000 habitants traversée par le Doubs...
+culture_g_score: 60
+culture_g_justification: "Ville française utile pour Victor Hugo, Vauban, l’horlogerie et son patrimoine, avec une fréquence régulière mais non exceptionnelle."
 ---
-
 ![Image de Besançon](https://upload.wikimedia.org/wikipedia/commons/f/f0/Besan%C3%A7on%2C_la_vieille_ville_vue_depuis_les_Glacis.jpg)
 
 ![[Carte_Besançon.png]]

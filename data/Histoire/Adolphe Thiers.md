@@ -18,8 +18,9 @@ indice_5:
   - répression de la Commune de Paris
 indice_6:
   - ministre sous Louis-Philippe
+culture_g_score: 67
+culture_g_justification: "Acteur majeur de la France du XIXe siècle, utile pour la Commune, la Troisième République et la politique nationale."
 ---
-
 ![Image de Adolphe Thiers](https://upload.wikimedia.org/wikipedia/commons/8/8a/Adolphe_Thiers_par_Nadar.jpg)
 
 ###### Questions

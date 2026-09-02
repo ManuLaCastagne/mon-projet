@@ -18,9 +18,9 @@ indice_6 :
   - Sphinx
 questions:
  - Quelle ville d'Egypte, sur la rive Est du Nil, occupe l'emplacement du faubourg méridional de la Thèbes des pharaons ?
+culture_g_score: 80
+culture_g_justification: "Louxor est une référence majeure de l’Égypte antique, associée aux temples, à Thèbes, aux pharaons et aux fêtes religieuses."
 ---
-
-
 ![Image de Louxor](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ob%C3%A9lisque_louqsor_concorde_vertical.jpg)
 
 ###### Questions

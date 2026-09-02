@@ -23,9 +23,9 @@ indice_6 :
   - artiste néerlandais
 questions:
  - Quel peintre néerlandais peint en 1930 "Compostion" avec rouge, bleu et jaune ?
+culture_g_score: 88
+culture_g_justification: "Mondrian est un pilier de l’abstraction et de De Stijl, avec des œuvres, un style et des influences fréquemment interrogés."
 ---
-
-
 ![Image de Piet Mondrian](https://upload.wikimedia.org/wikipedia/commons/8/83/Piet_Mondriaan.jpg)
 
 ###### Questions

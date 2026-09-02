@@ -18,8 +18,9 @@ indice_5 :
   - Batmobile
 indice_6 : 
   - Gotham City
+culture_g_score: 40
+culture_g_justification: "Film Batman célèbre surtout pour sa mauvaise réputation, avec une valeur de quiz limitée malgré ses acteurs et personnages."
 ---
-
 ![Image de Batman et Robin](https://upload.wikimedia.org/wikipedia/commons/0/02/Batmanrobin-title.png)
 
 ###### Questions

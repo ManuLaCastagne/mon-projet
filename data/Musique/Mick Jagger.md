@@ -22,9 +22,9 @@ indice_6 :
   - voix reconnaissable
 questions:
  - Coauteur de standards, ce sont des tubes, comme "Sympathy for the devil" ou "Paint it black", je suis…
+culture_g_score: 96
+culture_g_justification: "Chanteur central des Rolling Stones et symbole du rock, avec de nombreux liens vers la musique, la culture populaire et l’histoire du groupe."
 ---
-
-
 ![Image de Mick Jagger](https://upload.wikimedia.org/wikipedia/commons/b/bd/Mick_Jagger_Deauville_2014.jpg)
 
 ###### Questions

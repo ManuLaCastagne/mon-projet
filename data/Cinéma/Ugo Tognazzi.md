@@ -20,9 +20,9 @@ indice_5:
   - primé au Festival de Cannes en 1981
 indice_6:
   - père de l'actrice Maria Sole Tognazzi
+culture_g_score: 60
+culture_g_justification: "Acteur majeur de la commedia all’italiana, il est régulièrement relié à La Cage aux folles et à La Grande Bouffe, sans être une figure universelle."
 ---
-
-
 ![Image de Ugo Tognazzi](https://upload.wikimedia.org/wikipedia/commons/2/2b/Magnifico_cornuto_-_Ugo_Tognazzi_cropped.png)
 
 ###### Questions

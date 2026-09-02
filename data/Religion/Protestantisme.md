@@ -20,8 +20,9 @@ indice_6 :
   - Sola Scriptura
 questions:
  - Quel terme désigne la branche du christianisme constituée de l'ensemble des doctrines religieuses et des églises issues de la Réforme ?
+culture_g_score: 100
+culture_g_justification: "Mouvement majeur de l'histoire européenne, le protestantisme ouvre sur Luther, Calvin, les guerres de Religion, la politique et la modernité."
 ---
-
 ![Image de Protestantisme](https://upload.wikimedia.org/wikipedia/commons/4/49/Alpen%2C_Evangelische_Kirche%2C_2017-08_CN-02.jpg)
 
 ###### Questions

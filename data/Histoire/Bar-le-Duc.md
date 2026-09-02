@@ -20,8 +20,9 @@ indice_6 :
   - alliances matrimoniales avec le duché de Lorraine
 questions:
  - Sous la Révolution, quelle ville de l'actuel département de la Meuse avait été renommée Bar-sur-Ornain pour supprimer toute référence à un titre de noblesse ?
+culture_g_score: 40
+culture_g_justification: "Ville préfectorale française pouvant servir à quelques questions régionales, mais peu présente dans les quiz généralistes."
 ---
-
 ![Image de Bar-le-Duc](https://upload.wikimedia.org/wikipedia/commons/2/23/Bar-le-Duc_Place_Saint-Pierre.jpg)
 
 ###### Questions

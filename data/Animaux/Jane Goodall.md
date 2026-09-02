@@ -13,9 +13,9 @@ indice_5:
   - Dame des chimpanzés
 indice_6:
   - Conservation et protection des primates
+culture_g_score: 80
+culture_g_justification: "Grande figure de la primatologie, fréquemment liée aux chimpanzés, à l'Afrique, à l'éthologie et à la défense animale."
 ---
-
-
 ![Image de Jane Goodall](https://upload.wikimedia.org/wikipedia/commons/d/dc/Jane_Goodall_HK.jpg)
 
 ###### Questions

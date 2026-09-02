@@ -18,8 +18,9 @@ indice_5 :
   - Just Kids
 indice_6 : 
   - CBGB
+culture_g_score: 72
+culture_g_justification: "Figure fondatrice du punk, à la fois musicienne, poète et écrivaine, permettant des questions sur plusieurs pans de la culture contemporaine."
 ---
-
 ![Image de Patty Smith](https://upload.wikimedia.org/wikipedia/commons/8/80/Patti_Smith_performing_in_Finland%2C_2007.jpg)
 
 ###### Questions

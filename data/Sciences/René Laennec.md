@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Médecin né en 1781. J'étais en désaccord avec Broussais qui me traita de "cadavérique investigateur" alors qu'un de mes patients, Châteaubriand, également breton, vantait mes mérites...
  - Quel scientifique né en 1781 a inventé le stéthoscope ?
+culture_g_score: 77
+culture_g_justification: "Médecin célèbre associé à une invention emblématique, avec des questions récurrentes sur le stéthoscope, l’auscultation et la médecine."
 ---
-
 ![Image de René Laennec](https://upload.wikimedia.org/wikipedia/commons/e/e1/Quimper_-_Statue_de_Ren%C3%A9-Th%C3%A9ophile-Hyacinthe_Laennec.JPG)
 
 ###### Questions

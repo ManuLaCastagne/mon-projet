@@ -24,8 +24,9 @@ indice_6 :
   - pont de Brotonne
 questions:
  - Quelle forêt de Seine-Maritime, dont l'essence dominante est le hêtre, s'étend dans une boucle formée par le dernier méandre de la Seine?
+culture_g_score: 20
+culture_g_justification: "Forêt normande d’intérêt régional, trop spécifique pour offrir un rendement notable en culture générale."
 ---
-
 ![Image de Forêt de Brotonne](https://upload.wikimedia.org/wikipedia/commons/9/97/Brotonne2.JPG)
 
 ![[Carte_Forêt de Brotonne.png]]

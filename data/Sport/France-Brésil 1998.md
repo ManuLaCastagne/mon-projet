@@ -20,8 +20,9 @@ indice_6 :
   - 12 juillet 1998
 questions:
  - Rencontre arbitrée par Saïd Belqola, à laquelle ont notamment assisté Arnold Schwarzenegger, Bill Gates et Sting, j'ai donné lieu à la dernière sélection...
+culture_g_score: 97
+culture_g_justification: "Finale mythique de la Coupe du monde 1998, elle constitue un marronnier français reliant football, Zidane, histoire nationale et culture populaire."
 ---
-
 ![Image de France-Brésil 1998](https://upload.wikimedia.org/wikipedia/commons/8/8e/Tribune_pr%C3%A9sidentielle_finale_France_Br%C3%A9sil_football_12_juillet_1998.jpg)
 
 ###### Questions

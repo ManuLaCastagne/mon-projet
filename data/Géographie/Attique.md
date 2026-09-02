@@ -25,8 +25,9 @@ indice_6 :
   - Acropole
 questions:
  - Quelle péninsule venant du grec "promontoire", s'avance au sud-est de la Grèce ?
+culture_g_score: 64
+culture_g_justification: "Région historique d’Athènes et de la démocratie antique, importante mais souvent éclipsée par la notoriété de la ville elle-même."
 ---
-
 ![Image de Attique](https://upload.wikimedia.org/wikipedia/commons/f/f4/Attic_A-160_%28PSF%29.png)
 
 ![[Carte_Attique.png]]

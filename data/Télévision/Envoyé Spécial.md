@@ -19,8 +19,9 @@ indice_5 :
   - France 2
 indice_6 : 
   - magazine d'information
+culture_g_score: 80
+culture_g_justification: "Grande émission française d’investigation, fréquemment mobilisée par les questions sur les médias, les enquêtes et l’actualité."
 ---
-
 ![Image de Envoyé spécial](https://upload.wikimedia.org/wikipedia/commons/d/d7/Envoy%C3%A9_Sp%C3%A9cial_logo.svg)
 
 ###### Questions

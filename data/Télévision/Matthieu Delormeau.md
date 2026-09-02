@@ -19,8 +19,9 @@ indice_5 :
   - télévision réalité
 indice_6 : 
   - ancien agent immobilier
+culture_g_score: 35
+culture_g_justification: "Chroniqueur de téléréalité connu d'un public ciblé, dont les apparitions fournissent surtout des questions ponctuelles."
 ---
-
 ![Image de Matthieu Delormeau](https://upload.wikimedia.org/wikipedia/commons/a/ac/Matthieu_delormeau_boxeur.jpg)
 
 ###### Questions

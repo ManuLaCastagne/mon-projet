@@ -20,8 +20,9 @@ indice_5 :
   - Rakim Mayers
 indice_6 : 
   - F**kin' Problems
+culture_g_score: 47
+culture_g_justification: "Rappeur reconnu du XXIe siècle, A$AP Rocky reste une connaissance relativement spécialisée et peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de ASAP Rocky](https://upload.wikimedia.org/wikipedia/commons/2/2e/Castillo_de_Sagunto%2C_Valencia%2C_Espa%C3%B1a%2C_2015-01-03%2C_DD_09-11_HDR.JPG)
 
 ###### Questions

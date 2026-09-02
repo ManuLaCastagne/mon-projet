@@ -22,8 +22,9 @@ indice_5 :
   - Cathédrale Saint-Just-et-Saint-Pasteur
 indice_6 : 
   - Via Domitia
+culture_g_score: 52
+culture_g_justification: "Ville utile pour l'histoire romaine de la Gaule et la Via Domitia, mais dont les apparitions restent assez spécialisées et principalement régionales."
 ---
-
 ![[Carte_Narbonne.png]]
 
 ###### Questions

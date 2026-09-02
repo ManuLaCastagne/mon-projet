@@ -20,8 +20,9 @@ indice_6 :
   - 2020
 questions:
  - En 2020, quel pilote espagnol a été sacré champion du monde de MotoGP pour la 1re fois de sa carrière?
+culture_g_score: 60
+culture_g_justification: "Champion de MotoGP et de Moto3, Joan Mir est une référence contemporaine utile mais encore peu installée dans la culture générale."
 ---
-
 ![Image de Joan Mir](https://upload.wikimedia.org/wikipedia/commons/8/8f/Joan_Mir_2023_%28cropped%29.jpg)
 
 ###### Questions

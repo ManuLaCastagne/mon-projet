@@ -22,8 +22,9 @@ indice_5 :
   - capitale de la République centrafricaine
 indice_6 : 
   - rivière Ubangi
+culture_g_score: 40
+culture_g_justification: "Capitale d’un État peu traité dans les quiz, utile surtout pour les repères géographiques africains."
 ---
-
 ![Image de Bangui](https://upload.wikimedia.org/wikipedia/commons/b/b5/Bangui_collage.png)
 
 ![[Carte_Bangui.png]]

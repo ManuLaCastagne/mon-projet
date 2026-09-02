@@ -15,8 +15,9 @@ indice_6 :
   - Force dans la mythologie européenne
 questions:
  - Préparant pour mes nouveau-nés un abri appelé chaudron, je charge parfois préventivement les prédateurs de mes marcassins...
+culture_g_score: 32
+culture_g_justification: "Terme zoologique précis désignant la femelle du sanglier, principalement mobilisé dans des questions de vocabulaire animalier."
 ---
-
 ![Image de Laie](https://upload.wikimedia.org/wikipedia/commons/4/4e/Laie_Hawaii_Temple%2C_Oahu%2C_Hawaii%2C_USA.jpg)
 
 ###### Questions

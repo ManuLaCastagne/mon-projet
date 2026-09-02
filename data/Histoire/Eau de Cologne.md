@@ -20,8 +20,9 @@ indice_6 :
   - Cologne
 questions:
  - Au XVIIIe, quelle solution parfumée à base d'agrumes est élaborée par Jean-Marie Farina ?
+culture_g_score: 64
+culture_g_justification: "Produit culturel très connu, utile pour des questions sur la parfumerie, Cologne et Napoléon, mais d’importance historique limitée."
 ---
-
 ![Image de Eau de Cologne](https://upload.wikimedia.org/wikipedia/commons/6/60/2023_Woda_toaletowa_Paco_Rabanne_1_Million.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de pureté et de grâce
 questions:
  - Quelle sorte de héron blanc au bec noir long et effilé, peut notamment être garzette?
+culture_g_score: 51
+culture_g_justification: "Oiseau identifiable des zones humides, avec quelques liens à la mode et à la culture populaire."
 ---
-
 ![Image de Aigrette](https://upload.wikimedia.org/wikipedia/commons/9/95/Sous-marin_Aigrette.jpg)
 
 ###### Questions

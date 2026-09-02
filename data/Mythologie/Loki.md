@@ -18,11 +18,9 @@ indice_6 :
   - père de Fenrir
 questions:
  - Dans la mythologie nordique, quel géant malfaisant ennemi des dieux marié à Sygin associe-t-on aux mensonges et à la calomnie ?
+culture_g_score: 87
+culture_g_justification: "Loki est une figure nordique très célèbre, liée aux géants, à la ruse, à Baldr, au Ragnarök et à de nombreuses adaptations modernes."
 ---
-
-
-
-
 ![Image de Loki](https://upload.wikimedia.org/wikipedia/commons/c/cb/Louis_Huard_-_The_Punishment_of_Loki.jpg)
 
 ###### Questions

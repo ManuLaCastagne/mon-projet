@@ -20,8 +20,9 @@ indice_6 :
   - dernier supplice en place de Grève
 questions:
  - En 1757, quel domestique blesse Histoire/Louis XV dans ses jardins ?
+culture_g_score: 40
+culture_g_justification: "Son attentat contre Louis XV et son supplice constituent une question historique notable mais très ponctuelle."
 ---
-
 ![Image de Robert François Damiens](https://upload.wikimedia.org/wikipedia/commons/e/eb/Robert_Fran%C3%A7ois_Damiens%2C_G.24359.jpg)
 
 ###### Questions

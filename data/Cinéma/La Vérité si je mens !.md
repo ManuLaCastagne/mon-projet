@@ -20,8 +20,9 @@ indice_5 :
   - Yvan Attal
 indice_6 : 
   - comédie française
+culture_g_score: 72
+culture_g_justification: "Comédie française très populaire et régulièrement citée, mais ses principaux angles restent liés à son intrigue, ses personnages et au quartier du Sentier."
 ---
-
 ![Image de La Vérité si je mens !](https://upload.wikimedia.org/wikipedia/commons/b/bb/La_V%C3%A9rit%C3%A9_si_je_mens_3.jpg)
 
 ###### Questions

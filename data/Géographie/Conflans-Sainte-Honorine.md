@@ -24,8 +24,9 @@ indice_6 :
   - transport fluvial
 questions:
  - Quelle ville d'Ile-de-France située sur la Seine doit son nom à la proximité de son confluent avec l'Oise?
+culture_g_score: 40
+culture_g_justification: "Commune francilienne surtout connue pour la confluence Seine-Oise et la batellerie, avec une rentabilité limitée."
 ---
-
 ![Image de Conflans-Sainte-Honorine](https://upload.wikimedia.org/wikipedia/commons/9/93/Conflans-ste-honorine-mairie.jpg)
 
 ![[Carte_Conflans-Sainte-Honorine.png]]

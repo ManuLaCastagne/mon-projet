@@ -29,6 +29,7 @@ questions:
   - Quel roi de Salamine, déçu de ne pas avoir obtenu les armes d'Achille, remises au plus vaillant des Grecs, se tue après un accès de folie?
   - Comme il se vantait d'avoir réchappé au naufrage de son navire au retour de la guerre de Troie, quel héros est précipité à la mer par Poséidon?
 culture_g_score: 60
+culture_g_justification: "Héros majeur de la guerre de Troie, mais généralement moins interrogé que Achille, Ulysse ou Hector."
 ---
 ![Image de Ajax le Grand](https://upload.wikimedia.org/wikipedia/commons/9/97/Ajax_with_spear_and_shield.jpg)
 

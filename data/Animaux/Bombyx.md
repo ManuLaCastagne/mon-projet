@@ -15,8 +15,9 @@ indice_6 :
   - Production de soie
 questions:
  - Quel type de papillon, entourant son cocon de morceaux de feuilles et le fixant à une branche par un fil de soie, est connu par l'espèce dite du mûrier?
+culture_g_score: 72
+culture_g_justification: "Le ver à soie ouvre des questions sur la Chine, la soie, l’économie et l’histoire des techniques."
 ---
-
 ![Image de Bombyx](https://upload.wikimedia.org/wikipedia/commons/2/2e/Bombyx_mori_sul_bozzolo_01.jpg)
 
 ###### Questions

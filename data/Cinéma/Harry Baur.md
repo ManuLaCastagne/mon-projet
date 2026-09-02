@@ -22,8 +22,9 @@ indice_6:
   - années 1930 et 1940
 questions:
   - En 1941, quel acteur français incarne le père Cornusse dans "L'Assassinat du Père Noël" de Christian-Jaque ?
+culture_g_score: 64
+culture_g_justification: "Grande figure du cinéma français classique, utile pour le cinéma d’avant-guerre et la période de l’Occupation, mais moins connue aujourd’hui."
 ---
-
 ![Image de Harry Baur](https://upload.wikimedia.org/wikipedia/commons/5/56/Harry-Baur-in-the-movie-Cette-vieille-canaille-142441994951.jpg)
 
 ###### Questions

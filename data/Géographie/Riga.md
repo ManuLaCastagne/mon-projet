@@ -22,8 +22,9 @@ indice_5 :
   - Art nouveau
 indice_6 : 
   - Daugava
+culture_g_score: 68
+culture_g_justification: "Capitale lettone importante dans les questions sur les pays baltes, la Hanse, l’architecture et l’histoire de l’Europe du Nord."
 ---
-
 ![Image de Riga](https://upload.wikimedia.org/wikipedia/commons/a/a2/Riga_Cathedral_Nave%2C_Riga%2C_Latvia_-_Diliff.jpg)
 
 ![[Carte_Riga.png]]

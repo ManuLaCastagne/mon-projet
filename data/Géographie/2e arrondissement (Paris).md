@@ -24,8 +24,9 @@ indice_6 :
   - quartier des affaires
 questions:
  - Plus petit arrondissement de la capitale dans lequel se trouve le site historique de la Bibliothèque nationale de France...
+culture_g_score: 47
+culture_g_justification: "Arrondissement parisien lié à plusieurs lieux historiques, mais moins prioritaire que les arrondissements emblématiques."
 ---
-
 ![Image de 2e arrondissement (Paris)](https://upload.wikimedia.org/wikipedia/commons/a/a3/Passage_des_Princes%2C_Paris_2e.jpg)
 
 ![[Carte_2e arrondissement (Paris).png]]

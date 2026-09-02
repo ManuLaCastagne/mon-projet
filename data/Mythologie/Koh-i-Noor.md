@@ -18,11 +18,9 @@ indice_6 :
   - Royaume du Maharaja
 questions:
  - Selon une légende, quel diamant, désigné par un nom indien signifiant montagne de lumière, serait néfaste aux hommes qui le détiendraient ?
+culture_g_score: 72
+culture_g_justification: "Le Koh-i-Noor est un joyau historique très célèbre, exploitable dans des questions sur l’Inde, l’Empire britannique, les Mughal et les diamants."
 ---
-
-
-
-
 ![Image de Koh-i-Noor](https://upload.wikimedia.org/wikipedia/commons/8/84/Close_wing_position_of_Amathuxidia_amythaon_%28Doubleday%2C_1847%29_%E2%80%93_Koh-i-Noor.jpg)
 
 ###### Questions

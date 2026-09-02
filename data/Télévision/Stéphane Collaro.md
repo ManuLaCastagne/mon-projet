@@ -20,8 +20,9 @@ indice_6 :
   - années 1980
 questions:
  - Humoriste exerçant également à la radio, entre 1979 et 1987, je lance plusieurs shows télévisés où l'on retrouve mes compères Philippe Bruneau, Jean Roucas, Guy Montagné et Claire Nadeau entourés des célèbre "Coco Girls"...
+culture_g_score: 60
+culture_g_justification: "Animateur et humoriste marquant de la télévision française des années 1980, régulièrement mobilisable dans les questions sur les émissions cultes."
 ---
-
 ![Image de Stéphane Collaro](https://upload.wikimedia.org/wikipedia/commons/7/75/G%C3%A9rard_Majax%2C_17_d%C3%A9cembre_1975%2C_Fausses_Donnes.png)
 
 ###### Questions

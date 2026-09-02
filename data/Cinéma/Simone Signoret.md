@@ -22,8 +22,9 @@ indice_6 :
   - La Vie devant soi
 questions:
  - En 1973, dans "Les Granges brûlées",  actrice qui joue avec sa fille C. Allégret.
+culture_g_score: 80
+culture_g_justification: "Figure centrale du cinéma français, première Française oscarisée et épouse d’Yves Montand, elle offre de nombreux repères réutilisables."
 ---
-
 ![Image de Simone Signoret](https://upload.wikimedia.org/wikipedia/commons/0/0b/Simone_Signoret.jpg)
 
 ###### Questions

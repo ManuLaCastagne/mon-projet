@@ -21,9 +21,9 @@ indice_5:
   - Lac du Plessis
 indice_6:
   - Musée de la Mine
+culture_g_score: 31
+culture_g_justification: "Ancienne ville minière française surtout pertinente pour quelques questions locales sur le charbon et la paléontologie."
 ---
-
-
 ![Image de Montceau-les-Mines](https://upload.wikimedia.org/wikipedia/commons/8/86/H%C3%B4tel_ville_Montceau_Mines_22.jpg)
 
 ![[Carte_Montceau-les-Mines.png]]

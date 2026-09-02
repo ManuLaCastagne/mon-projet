@@ -20,8 +20,9 @@ indice_6 :
   - Prière
 questions:
  - Colline de la vieille ville de Jérusalem au pied de laquelle, dans le jardin de Gethsémani, Jésus alla prier la veille de sa mort, où il fut arrêté.
+culture_g_score: 71
+culture_g_justification: "Site religieux majeur lié à Jérusalem, à Jésus, à l'Ascension et à plusieurs traditions monothéistes, avec quelques prolongements historiques et artistiques."
 ---
-
 ![Image de Mont des Oliviers](https://upload.wikimedia.org/wikipedia/commons/6/69/Mont_des_Oliviers%2C_Molsheim.JPG)
 
 ###### Questions

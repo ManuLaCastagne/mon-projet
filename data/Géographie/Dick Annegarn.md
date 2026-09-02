@@ -24,8 +24,9 @@ indice_6 :
   - Bruxelles
 questions:
  - En 1973, quel artiste rend hommage à la capitale de la Belgique, dans une chanson débutant par  "Bruxelles, ma belle"?
+culture_g_score: 31
+culture_g_justification: "Chanteur francophone apprécié des amateurs, mais sa présence dans les quiz généralistes reste très occasionnelle."
 ---
-
 ![Image de Dick Annegarn](https://upload.wikimedia.org/wikipedia/commons/1/1b/Dick_Annegarn_annees_80_salle_des_fetes_mairie_de_paris_14e_photo_Olivier_Dumay.jpg)
 
 ![[Carte_Dick Annegarn.png]]

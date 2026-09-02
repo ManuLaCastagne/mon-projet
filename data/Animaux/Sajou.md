@@ -13,8 +13,9 @@ indice_5 :
   - Capucin moine
 indice_6 : 
   - Animal de compagnie dans les films et séries
+culture_g_score: 20
+culture_g_justification: "Primate sud-américain connu surtout sous d’autres appellations, avec une présence très rare dans les quiz généralistes."
 ---
-
 ![Image de Sajou](https://upload.wikimedia.org/wikipedia/commons/1/16/Sajou_m%C3%A2le.png)
 
 ###### Questions

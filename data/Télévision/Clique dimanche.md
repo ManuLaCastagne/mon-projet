@@ -20,8 +20,9 @@ indice_6 :
   - sujets de société
 questions:
  - En 2020, quel talk-show dominical, animé par Mouloud Achour, Catherine Ceylac rejoint-elle pour interroger un invité...
+culture_g_score: 27
+culture_g_justification: "Émission récente et relativement confidentielle, dont les possibilités de questions généralistes sont faibles."
 ---
-
 ![Image de Clique dimanche](https://upload.wikimedia.org/wikipedia/commons/5/52/Neuvaine_%C3%A0_l%27honneur_de_St._Fran%C3%A7ois_Xavier_%28microforme%29_-_avec_l%27ordinaire_de_la_messe%2C_pri%C3%A8res_pour_la_communion%2C_les_v%C3%AApres_du_dimanche_%26_les_complies_%28IA_cihm_38924%29.pdf)
 
 ###### Questions

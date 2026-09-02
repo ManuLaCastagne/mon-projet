@@ -15,8 +15,9 @@ indice_6 :
   - Cuisine et parfumerie
 questions:
  - Quel arbuste aromatique, donnant de petites fleurs bleues réunies en grappes, porte un nom emprunté au latin signifiant rosée de mer ?
+culture_g_score: 64
+culture_g_justification: "Herbe aromatique très courante, liée à la cuisine méditerranéenne, aux usages médicinaux et aux traditions."
 ---
-
 ![Image de Romarin](https://upload.wikimedia.org/wikipedia/commons/5/5f/Rosmarinus_officinalis133095382.jpg)
 
 ###### Questions

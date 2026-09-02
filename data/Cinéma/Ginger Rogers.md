@@ -22,8 +22,9 @@ indice_6 :
   - Top Hat
 questions:
  - Quelle danseuse blonde était la partenaire de Fred Astaire ?
+culture_g_score: 80
+culture_g_justification: "Figure majeure de la comédie musicale hollywoodienne, particulièrement rentable grâce à son duo avec Fred Astaire."
 ---
-
 ![Image de Ginger Rogers](https://upload.wikimedia.org/wikipedia/commons/3/3c/Ginger_Rogers_as_Roxie_Hart_1942.jpg)
 
 ###### Questions

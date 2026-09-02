@@ -18,8 +18,9 @@ indice_5 :
   - Escurial comme résidence royale
 indice_6 : 
   - Armada Invincible contre l'Angleterre
+culture_g_score: 84
+culture_g_justification: "Monarque central de l’Espagne impériale, relié à l’Armada, Charles Quint, l’Escurial, la religion et les conflits européens."
 ---
-
 ![Image de Philippe II d'Espagne](https://upload.wikimedia.org/wikipedia/commons/d/df/Philip_II.jpg)
 
 ###### Questions

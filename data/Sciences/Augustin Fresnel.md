@@ -20,8 +20,9 @@ indice_6 :
   - Théorie de la diffraction
 questions:
  - A quel physicien français doit-on la lentille à échelon pour les phares à la fin du XVIIIe ?
+culture_g_score: 64
+culture_g_justification: "Physicien majeur de l’optique ondulatoire et des lentilles de phare, mais moins fréquent que les figures scientifiques universellement connues."
 ---
-
 ![Image de Augustin Fresnel](https://upload.wikimedia.org/wikipedia/commons/6/69/Fresnel_-_%C5%92uvres_compl%C3%A8tes_d%27Augustin_Fresnel_tome_1_%28page_6_crop%29.jpg)
 
 ###### Questions

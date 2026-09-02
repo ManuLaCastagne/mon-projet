@@ -22,9 +22,9 @@ indice_6 :
   - obsession
 questions:
  - De quel conte d'Andersen, Marc Lavoine et Fabrice Aboulker se sont-ils inspirés pour créer en 2020 un spectacle musical?
+culture_g_score: 67
+culture_g_justification: "Chef-d’œuvre reconnu de Powell et Pressburger, à la croisée du cinéma, de la danse, de la musique et de Kate Bush."
 ---
-
-
 ![Image de Les Chaussons rouges](https://upload.wikimedia.org/wikipedia/commons/d/dc/Recueil._%22Les_chaussons_rouges%22_film_de_Michael_Powell_et_Emeric_Pressburger_-_btv1b10525950v_%2822_of_36%29.jpg)
 
 ###### Questions

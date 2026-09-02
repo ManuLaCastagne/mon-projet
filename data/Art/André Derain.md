@@ -23,8 +23,9 @@ indice_6 :
   - influence du cubisme
 questions:
  - A quel peintre fauviste doit-on le modèle blond conservé à l'Orangerie de Paris ?
+culture_g_score: 76
+culture_g_justification: "Cofondateur du fauvisme, il offre plusieurs liens utiles avec Matisse, les Ballets russes, la sculpture et l’histoire de l’art moderne."
 ---
-
 ![Image de André Derain](https://upload.wikimedia.org/wikipedia/commons/e/ef/Andr%C3%A9_Derain_1928.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_5 :
   - ville fondée par les Portugais en 1576
 indice_6 : 
   - surpopulation et embouteillages fréquents
+culture_g_score: 44
+culture_g_justification: "Capitale d’un pays pétrolier lusophone utile pour l’histoire coloniale et africaine, mais relativement peu présente dans les questions généralistes."
 ---
-
-
 ![Image de Luanda](https://upload.wikimedia.org/wikipedia/commons/b/b7/Luanda_feb09_ost01.jpg)
 
 ![[Carte_Luanda.png]]

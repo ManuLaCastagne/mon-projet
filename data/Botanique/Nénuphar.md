@@ -13,8 +13,9 @@ indice_5:
   - Également appelé lotus d'eau
 indice_6:
   - Utilisé pour orner les bassins et jardins aquatiques
+culture_g_score: 80
+culture_g_justification: "Plante emblématique des bassins, liée au lotus, à l'art et à la botanique, avec plusieurs indices et questions récurrentes."
 ---
-
 ![Image de Nénuphar](https://upload.wikimedia.org/wikipedia/commons/4/40/Dusky_Moorhen_Water_Lilies.jpg)
 
 ###### Questions

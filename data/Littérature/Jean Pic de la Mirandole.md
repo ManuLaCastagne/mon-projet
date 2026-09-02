@@ -21,8 +21,9 @@ indice_5:
   - 900 Thèses
 indice_6:
   - érudit
+culture_g_score: 67
+culture_g_justification: "Humaniste emblématique de la Renaissance, Pic de la Mirandole ouvre des questions sur la philosophie, les langues, les Médicis et la dignité humaine."
 ---
-
 ![Image de Jean Pic de la Mirandole](https://upload.wikimedia.org/wikipedia/commons/8/88/Portret_van_Pico_della_Mirandola%2C_Peter_Paul_Rubens%2C_schilderij%2C_Museum_Plantin-Moretus_%28Antwerpen%29_-_MPM_V_IV_061.jpg)
 
 ###### Questions

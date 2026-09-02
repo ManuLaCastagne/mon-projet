@@ -22,8 +22,9 @@ indice_6 :
   - Renaissance française
 questions:
  - Vers 1550, quel poète compose les vers du texte "Mignonne allons voir si la rose" ?
+culture_g_score: 80
+culture_g_justification: "Poète central de la Renaissance française, associé à la Pléiade, à la Défense de la langue française et à ses sonnets célèbres."
 ---
-
 ![Image de Pierre de Ronsard](https://upload.wikimedia.org/wikipedia/commons/9/94/Rose_P_de_Ronsard_FR_2014.jpg)
 
 ###### Questions

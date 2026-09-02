@@ -22,8 +22,9 @@ indice_6 :
   - Roselyne Bosch
 questions:
  - En 1989, dans quel film Michel Blanc, dans le rôle d'un célibataire solitaire, observe-t-il sa voisine, incarnée par Sandrine Bonnaire?
+culture_g_score: 52
+culture_g_justification: "Adaptation solide de Simenon avec Michel Blanc, utile pour le cinéma français et la littérature policière, mais rarement incontournable."
 ---
-
 ![Image de Monsieur Hire](https://upload.wikimedia.org/wikipedia/commons/8/86/Monsieur_Hire_-_panoramio.jpg)
 
 ###### Questions

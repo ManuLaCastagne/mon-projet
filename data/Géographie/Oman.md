@@ -24,8 +24,9 @@ indice_6 :
   - montagnes Hajar
 questions:
  - Quel sultanat, situé sur le 20e parallèle nord et occupant la corne orientale de la péninsule d'Arabie, a pour capitale Mascate ?
+culture_g_score: 68
+culture_g_justification: "Pays moyen-oriental important pour sa position stratégique, son histoire maritime, ses enclaves, ses paysages et le détroit d'Ormuz."
 ---
-
 ![Image de Oman](https://upload.wikimedia.org/wikipedia/commons/0/02/Nizwa_Fort_Detail.JPG)
 
 ![[Carte_Oman.png]]

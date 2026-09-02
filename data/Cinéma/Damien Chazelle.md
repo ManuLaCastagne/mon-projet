@@ -22,8 +22,9 @@ indice_6 :
   - Premier homme
 questions:
  - Quel cinéaste américain, fils d'un mathématicien et informaticien français, a reçu en 2018 l'oscar du meilleur réalisateur pour "La La land"?
+culture_g_score: 72
+culture_g_justification: "Réalisateur contemporain important, associé à Whiplash, La La Land et Babylon ainsi qu'à de nombreux records et récompenses."
 ---
-
 ![Image de Damien Chazelle](https://upload.wikimedia.org/wikipedia/commons/5/54/Damien_Chazelle_%28cropped%29.jpg)
 
 ###### Questions

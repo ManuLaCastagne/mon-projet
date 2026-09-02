@@ -22,8 +22,9 @@ indice_6 :
   - Hearst
 questions:
  - Quel drame, réalisé en 1941 par O.Welles, film mythique, a été désigné meilleur film américain de tous les temps par l'American Film Institute?
+culture_g_score: 100
+culture_g_justification: "Œuvre capitale du cinéma mondial, mobilisable sur Orson Welles, la narration, Hollywood, Hearst, les techniques et les classements."
 ---
-
 ![Image de Citizen Kane](https://upload.wikimedia.org/wikipedia/commons/3/34/Citizen-Kane-Welles-Podium.jpg)
 
 ###### Questions

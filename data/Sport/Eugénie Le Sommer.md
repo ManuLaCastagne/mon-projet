@@ -20,9 +20,9 @@ indice_6 :
   - Meilleure buteuse
 questions:
  - En septembre 2020, quelle footballeuse a battu le record de Marinette Pichon...
+culture_g_score: 60
+culture_g_justification: "Meilleure buteuse de l’équipe de France, elle est utile dans les quiz sur le football féminin, l’OL et les records nationaux."
 ---
-
-
 ![Image de Eugénie Le Sommer](https://upload.wikimedia.org/wikipedia/commons/7/71/Eug%C3%A9nie_Le_Sommer_Coupe_2018_cropped.jpg)
 
 ###### Questions

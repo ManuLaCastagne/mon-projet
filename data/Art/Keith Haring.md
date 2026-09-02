@@ -23,8 +23,9 @@ indice_6 :
   - Crack is Wack mural à New York
 questions:
  - Dans les années 80,  quel artiste américain reconnaissable à ses couleurs vives soulignées d'un trait noir a recouvert de graffitis  les panneaux du métro  de New York ?
+culture_g_score: 68
+culture_g_justification: "Haring est une figure très identifiable du street art, avec des liens rentables vers le métro new-yorkais, l’activisme et la culture populaire."
 ---
-
 ![Image de Keith Haring](https://upload.wikimedia.org/wikipedia/commons/d/dc/Keith_Haring_%281986%29.jpg)
 
 ###### Questions

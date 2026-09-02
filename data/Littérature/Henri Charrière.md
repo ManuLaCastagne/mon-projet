@@ -22,8 +22,9 @@ indice_6 :
   - livre publié en 1969
 questions:
  - Quel ancien forçat raconte son expérience du bagne dans "Papillons" ?
+culture_g_score: 60
+culture_g_justification: "Papillon et son adaptation cinématographique offrent plusieurs repères sur le bagne et l'aventure, malgré une notoriété discutée."
 ---
-
 ![Image de Henri Charrière](https://upload.wikimedia.org/wikipedia/commons/e/ed/Lanas_-_Cimeti%C3%A8re_-_Tombe_d%27Henri_Charri%C3%A8re_dit_Papillon.jpg)
 
 ###### Questions

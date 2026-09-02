@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de vitesse et d'agressivité dans certaines cultures
 questions:
  - Poissons marins de la famille des sphyrénidés, appelé bécune en Méditerranée, je suis présent dans presque toutes les mers et océans tropicaux et subtropicaux du globe. Poisson carnassier pouvant atteindre jusqu'à 2 m de long, mon corps fuselé, mon museau pointu...
+culture_g_score: 56
+culture_g_justification: "Poisson prédateur reconnaissable et lié à la chanson de Heart, mais d’importance culturelle limitée."
 ---
-
 ![Image de Barracuda](https://upload.wikimedia.org/wikipedia/commons/7/70/Bicudas_%28Sphyraena_viridensis%29%2C_Cabo_de_Palos%2C_Espa%C3%B1a%2C_2022-07-15%2C_DD_09.jpg)
 
 ###### Questions

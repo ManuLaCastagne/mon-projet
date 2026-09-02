@@ -18,10 +18,9 @@ indice_5 :
   - Errances de Corto Maltese
 indice_6 : 
   - Mer des Caraïbes
+culture_g_score: 80
+culture_g_justification: "Héros emblématique de la bande dessinée européenne, offrant des repères sur Hugo Pratt, l’aventure, l’histoire et de nombreux albums."
 ---
-
-
-
 ![Image de Corto Maltese](https://upload.wikimedia.org/wikipedia/commons/8/80/Corto_Maltese.JPG)
 
 ###### Questions

@@ -41,8 +41,9 @@ questions:
  - Et en 1949, quel pays d'Asie adopte un hymne dont les 1ers mots signifient "Debout! Nous qui refusons..."
 questions:
  - Et en 1949, quel pays d'Asie adopte un hymne dont les 1ers mots signifient "Debout! Nous qui refusons..."
+culture_g_score: 100
+culture_g_justification: "Civilisation et puissance mondiale incontournables, offrant un rendement exceptionnel en histoire, géographie, politique, sciences, arts et société."
 ---
-
 ![Image de Chine](https://upload.wikimedia.org/wikipedia/commons/e/e6/Chine_forming_on_soft_cliffs_at_Compton%2C_Isle_of_Wight.JPG)
 
 ![[Carte_Chine.png]]

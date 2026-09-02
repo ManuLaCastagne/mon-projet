@@ -15,8 +15,9 @@ indice_6 :
   - Poisson de pêche sportive
 questions:
  - Quel poisson d'eau douce, voisin de la perche et également appelé perche-brochet, est présent notamment dans le Marais poitevin?
+culture_g_score: 40
+culture_g_justification: "Poisson d’eau douce apprécié en gastronomie et en pêche, mais encore assez périphérique dans les quiz généralistes."
 ---
-
 ![Image de Sandre](https://upload.wikimedia.org/wikipedia/commons/6/63/Sander_lucioperca_1.jpg)
 
 ###### Questions

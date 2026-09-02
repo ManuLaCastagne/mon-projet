@@ -23,9 +23,9 @@ indice_6 :
   - Le Vampire
 questions:
  - A la ville d'Oslo, qui a créé un musée...
+culture_g_score: 97
+culture_g_justification: "L'auteur du Cri est une figure universelle de l'expressionnisme et de l'angoisse moderne, très fréquemment mobilisée en quiz."
 ---
-
-
 ![Image de Edvard Munch](https://upload.wikimedia.org/wikipedia/commons/a/ae/Edvard_Munch_-_Madonna_%281894-1895%29.jpg)
 
 ###### Questions

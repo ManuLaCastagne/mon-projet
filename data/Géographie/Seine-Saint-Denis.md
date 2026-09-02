@@ -21,8 +21,9 @@ indice_5 :
   - Cité des Sciences et de l'Industrie
 indice_6 : 
   - Aubervilliers
+culture_g_score: 60
+culture_g_justification: "Département francilien utile pour Saint-Denis, la basilique et quelques repères démographiques ou administratifs."
 ---
-
 ![[Carte_Seine-Saint-Denis.png]]
 
 ###### Questions

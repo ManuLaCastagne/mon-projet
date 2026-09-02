@@ -22,8 +22,9 @@ indice_6 :
   - années 1970
 questions:
  - Quel groupe interprète "The Magnificent Seven" en 1980 ?
+culture_g_score: 80
+culture_g_justification: "Groupe essentiel du punk britannique, régulièrement questionné pour «London Calling», ses membres, ses influences et son engagement."
 ---
-
 ![Image de The Clash](https://upload.wikimedia.org/wikipedia/commons/3/34/Clash_21051980_12_800.jpg)
 
 ###### Questions

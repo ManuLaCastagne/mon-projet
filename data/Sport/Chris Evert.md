@@ -18,9 +18,9 @@ indice_5:
   - Navratilova
 indice_6:
   - Reine de la terre battue
+culture_g_score: 80
+culture_g_justification: "Grande championne de tennis, régulièrement citée pour ses titres du Grand Chelem, sa rivalité avec Navrátilová et ses records sur terre battue."
 ---
-
-
 ![Image de Chris Evert](https://upload.wikimedia.org/wikipedia/commons/2/21/Chris_Evert.jpg)
 
 ###### Questions

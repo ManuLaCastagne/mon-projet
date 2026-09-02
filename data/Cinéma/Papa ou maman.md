@@ -20,11 +20,9 @@ indice_5:
   - humour décalé
 indice_6:
   - film sorti en 2015
+culture_g_score: 44
+culture_g_justification: "Comédie française populaire et reconnaissable par son duo d’acteurs, mais peu structurante et rarement prioritaire à apprendre."
 ---
-
-
-
-
 ![Image de Papa ou maman](https://upload.wikimedia.org/wikipedia/commons/b/bd/Papa_ou_Maman_%28s%C3%A9rie%29.png)
 
 ###### Questions

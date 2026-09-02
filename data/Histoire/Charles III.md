@@ -20,8 +20,9 @@ indice_6 :
   - surnommé Charles le Chauve
 questions:
  - Sous quel nom connaît-on aussi le Connétable de Bourbon, 8e duc de Bourbon, tué lors du siège de Rome en 1527?
+culture_g_score: 31
+culture_g_justification: "Sujet fortement ambigu entre plusieurs souverains nommés Charles III et, dans l’identification retenue, figure carolingienne peu connue."
 ---
-
 ![Image de Charles III](https://upload.wikimedia.org/wikipedia/commons/2/2d/Charles_III_of_Spain_high_resolution.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - cinéaste de la Nouvelle Vague
 questions:
  - En 1970, dans quel film d'Eric Rohmer, extrait des "Six Contes moraux", Jean-Claude Brialy...
+culture_g_score: 60
+culture_g_justification: "Film classique d'Éric Rohmer souvent associé aux Contes moraux, à Cannes et au cinéma français d'auteur."
 ---
-
 ![Image de Genou de Claire](https://upload.wikimedia.org/wikipedia/commons/8/85/Trait%C3%A9_pratique_du_pied-bot_-_de_la_fausse_ankylose_du_genou%2C_et_du_torticolis_%28IA_traitpratiqued00duva%29.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - inspiration de la vie de Julie d'Aubigny
 questions:
  - Quel œuvre de Théophile Gautier en 1835 a pour héros une jeune femme prénommée Madeleine qui se travestit en homme ?
+culture_g_score: 51
+culture_g_justification: "Roman notable de Théophile Gautier et du romantisme, mais nettement moins fréquent que les grandes œuvres canoniques du XIXe siècle."
 ---
-
 ![Image de Mademoiselle de Maupin](https://upload.wikimedia.org/wikipedia/commons/9/9d/Mademoiselle_Maupin_de_l%27Op%C3%A9ra_%28Julie_d%27Aubigny%29.jpg)
 
 ###### Questions

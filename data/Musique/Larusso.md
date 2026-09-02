@@ -22,9 +22,9 @@ indice_6 :
   - participation à Danse avec les stars
 questions:
  - Qui a repris en 1999 le tube "You Will Forget" d'Irma Jackson en 1979 ?
+culture_g_score: 40
+culture_g_justification: "Connue surtout pour un unique grand succès français, ce qui limite fortement sa fréquence et son rendement d’apprentissage."
 ---
-
-
 ![Image de Larusso](https://upload.wikimedia.org/wikipedia/commons/b/b0/Larusso_en_2011.png)
 
 ###### Questions

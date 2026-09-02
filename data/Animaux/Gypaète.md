@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de puissance et de liberté
 questions:
  - Quel grand vautour charognard des montagnes d'Europe, d'Asie et d'Afrique qualifie-t-on de barbu?
+culture_g_score: 40
+culture_g_justification: "Rapace remarquable et lié à des enjeux de conservation, mais sa présence dans les quiz reste occasionnelle."
 ---
-
-
 ![Image de Gypaète](https://upload.wikimedia.org/wikipedia/commons/2/23/Bartgeier_Gypaetus_barbatus_front_Richard_Bartz.jpg)
 
 ###### Questions

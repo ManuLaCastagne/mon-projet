@@ -22,8 +22,9 @@ indice_6 :
   - La question
 questions:
  - Chanteur et musicien français né en 1975, j'ai reçu le Goncourt de la nouvelle pour le recueil "Retourner à la mer" en 2017. Après avoir sorti mon 1er disque, "Hôtel de l'univers", j'accède à la notoriété grâce au duo "Sur la route" avec Jean-Louis Aubert.  Chanteur connu par mon seul prénom, récompensé...
+culture_g_score: 52
+culture_g_justification: "Chanteur français connu pour «Caravane», mais dont les repères restent moins fréquents et moins structurants que ceux des grandes figures musicales."
 ---
-
 ![Image de Raphaël](https://upload.wikimedia.org/wikipedia/commons/c/cb/Saint_Mary_Magdalene%29.jpeg)
 
 ###### Questions

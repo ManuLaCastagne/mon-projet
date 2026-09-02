@@ -20,8 +20,9 @@ indice_6 :
   - abolition de l'esclavage
 questions:
  - Sous quel régime politique, ayant succédé à la monarchie de Juillet, a-t-on confié à Jacques-Jean Barre l'exécution du grand sceau de France?
+culture_g_score: 80
+culture_g_justification: "Régime central de l’histoire politique française, associé à 1848, l’abolition de l’esclavage, suffrage universel et l’avènement de Napoléon III."
 ---
-
 ![Image de IIe République](https://upload.wikimedia.org/wikipedia/commons/1/10/IIe_R%C3%A9publique%2C_1849%2C_ND10264.jpg)
 
 ###### Questions

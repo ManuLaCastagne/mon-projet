@@ -20,8 +20,9 @@ indice_6 :
   - d'origine ivoirienne
 questions:
  - Actrice et humoriste née à Abidjan. Je rejoins le Jamel Comedy Club avant de collaborer avec Fabrice Eboué pour mon spectacle "Crazy". Interprétant au cinéma l'épouse d'un dictateur dans la comédie "Le Crocodile du Botswanga"...
+culture_g_score: 56
+culture_g_justification: "Humoriste et actrice populaire liée au Jamel Comedy Club et à plusieurs émissions, mais d’importance culturelle modérée."
 ---
-
 ![Image de Claudia Tagbo](https://upload.wikimedia.org/wikipedia/commons/0/09/Claudia_Tagbo_2012.jpg)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - N'oubliez pas les paroles
 indice_6 : 
   - producteur
+culture_g_score: 93
+culture_g_justification: "Animateur majeur de la télévision française, associé à Taratata, aux jeux et à une longue carrière très présente dans les quiz."
 ---
-
 ![Image de Nagui](https://upload.wikimedia.org/wikipedia/commons/0/0a/Nagui_Cannes_2019.jpg)
 
 ###### Questions

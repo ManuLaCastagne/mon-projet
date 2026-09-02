@@ -15,10 +15,9 @@ indice_6 :
   - Symbole de la faune pyrénéenne
 questions:
  - Le chamois des Pyrénées. Mammifère à cornes recourbées vers l'arrière, je suis…
+culture_g_score: 40
+culture_g_justification: "Animal emblématique des Pyrénées, pertinent pour la géographie régionale et la faune montagnarde mais assez limité."
 ---
-
-
-
 ![Image de Isard](https://upload.wikimedia.org/wikipedia/commons/e/e7/Isard_des_pyrenees_bigorre_2003.jpg)
 
 ###### Questions

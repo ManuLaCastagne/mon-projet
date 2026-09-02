@@ -22,8 +22,9 @@ indice_6 :
   - Michel Serrault
 questions:
  - 2e collaboration après "Garde à vue" entre Michel Serrault et Claude Miller, je suis…
+culture_g_score: 52
+culture_g_justification: "Thriller français reconnu associant Claude Miller, Michel Serrault et Isabelle Adjani, mais dont la fréquence reste modérée."
 ---
-
 ![Image de Mortelle randonnée](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mortelle_randonn%C3%A9e_%2852199781918%29.jpg)
 
 ###### Questions

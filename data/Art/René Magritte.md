@@ -23,8 +23,9 @@ indice_6 :
   - peintre belge
 questions:
  - A quel peintre et dessinateur belge, mort à Bruxelles, à qui on doit la toile surréaliste baptisée "Ceci n'est pas une pipe" ?
+culture_g_score: 88
+culture_g_justification: "Magritte est un représentant majeur du surréalisme, reconnaissable par plusieurs œuvres emblématiques et de nombreuses références culturelles."
 ---
-
 ![Image de René Magritte](https://upload.wikimedia.org/wikipedia/commons/f/f7/Le_Th%C3%A9rapeute_%281976%29_Ren%C3%A9_Magritte_-_TMoCA%2C_Tehran.jpg)
 
 ###### Questions

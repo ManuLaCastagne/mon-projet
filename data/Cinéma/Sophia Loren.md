@@ -22,8 +22,9 @@ indice_6 :
   - Mariage à l'italienne
 questions:
  - Quelle actrice, cinéma, on en parlait au début de l'émission, italienne a tourné une douzaine de films avec Marcello Mastroianni, notamment "Une journée particulière" d'Ettore Scola ?
+culture_g_score: 80
+culture_g_justification: "Icône internationale du cinéma italien, associée à un Oscar historique, à de grands réalisateurs et à une longue carrière."
 ---
-
 ![Image de Sophia Loren](https://upload.wikimedia.org/wikipedia/commons/e/e1/Sophia_Loren_62_Allan_Warren.jpg)
 
 ###### Questions

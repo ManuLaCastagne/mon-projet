@@ -20,8 +20,9 @@ indice_6 :
   - Olympique de Marseille
 questions:
  - Avec l'équipe de France olympique. Sélectionneur des Bleus, demi-finaliste de la Coupe du monde 1986, disparu en 2018...
+culture_g_score: 63
+culture_g_justification: "Footballeur puis sélectionneur français, utile pour les Bleus de 1986, les Jeux olympiques et ses expériences internationales, sans être une figure incontournable."
 ---
-
 ![Image de Henri Michel](https://upload.wikimedia.org/wikipedia/commons/5/50/Henri_Michel_%281976%29.png)
 
 ###### Questions

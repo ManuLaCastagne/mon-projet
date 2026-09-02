@@ -18,8 +18,9 @@ indice_5 :
   - Perle Noire
 indice_6 : 
   - Tortuga
+culture_g_score: 93
+culture_g_justification: "Franchise mondiale incontournable, mobilisable par Disney, Johnny Depp, les pirates, les attractions, les musiques et le cinéma à grand spectacle."
 ---
-
 ![Image de Pirates des Caraïbes](https://upload.wikimedia.org/wikipedia/commons/f/f2/AIRSTAR_lighting_balloons_Tournage_Pirates_Des_Cara%C3%AFbes_Mal%C3%A9diction_Black_Pearl.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Sydney 2000
 questions:
  - En 2000 à Sydney, quelle athlète vainqueur du 800m devient la première championne olympique mozambicaine ?
+culture_g_score: 47
+culture_g_justification: "Grande championne africaine du 800 mètres, intéressante pour l’athlétisme et le Mozambique, mais peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Maria Mutola](https://upload.wikimedia.org/wikipedia/commons/b/bc/Maria_Mutola_Valence_2008_cropped.jpg)
 
 ###### Questions

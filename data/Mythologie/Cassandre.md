@@ -18,8 +18,9 @@ indice_6 :
   - fille de Priam
 questions:
  - Dans la [[mythologie grecque]], quelle fille de Priam et d'Hécube possède le don de prophétie mais pas celui de la persuasion?
+culture_g_score: 92
+culture_g_justification: "Prophétesse troyenne emblématique, dont la malédiction est devenue une métaphore courante et une référence de quiz très fréquente."
 ---
-
 ![Image de Cassandre](https://upload.wikimedia.org/wikipedia/commons/3/32/Portret_van_A._M._Cassandre_in_Rijksacademie_in_Amsterdam%2C_1967.jpg)
 
 ###### Questions

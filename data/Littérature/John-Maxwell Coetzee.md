@@ -20,8 +20,9 @@ indice_5:
   - Elizabeth Costello
 indice_6:
   - En attendant les barbares
+culture_g_score: 68
+culture_g_justification: "Écrivain nobélisé et auteur de Disgrâce, important dans la littérature contemporaine mais moins fréquent que les figures classiques."
 ---
-
 ![Image de John-Maxwell Coetzee](https://upload.wikimedia.org/wikipedia/commons/5/5e/J._M._Coetzee_Nov_2023_headshot.jpg)
 
 ###### Questions

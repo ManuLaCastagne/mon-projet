@@ -20,8 +20,9 @@ indice_5:
   - Napolitain
 indice_6:
   - 1833
+culture_g_score: 60
+culture_g_justification: "Pièce connue de Musset, utile pour le théâtre romantique et ses personnages, mais moins incontournable que ses œuvres les plus étudiées."
 ---
-
 ![Image de Les Caprices de Marianne](https://upload.wikimedia.org/wikipedia/commons/9/9c/La_nuit_venitienne%2C_Fantasio%2C_Les_caprices_de_Marianne_-_Umberto_Brunelleschi_-_KW_KOOPM_K_42_-_Front.jpg)
 
 ###### Questions

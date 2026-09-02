@@ -20,11 +20,9 @@ indice_6 :
   - aventures en plein air
 questions:
  - Quel général anglais, ayant fondé le scoutisme en 1907, a instauré au sein de son organisation...
+culture_g_score: 68
+culture_g_justification: "Fondateur du scoutisme et ancien militaire, Baden-Powell permet des questions sur l’éducation, l’engagement associatif et l’histoire coloniale."
 ---
-
-
-
-
 ![Image de Baden-Powell](https://upload.wikimedia.org/wikipedia/commons/3/3b/Robert_Baden-Powell_in_South_Africa%2C_1896_%282%29.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Tihany
 questions:
  - Hongrie. Un lac qui s'étire sur 78 km entre les monts Baconi et Transdanubie et qui est le plus grand lac d'Europe centrale ?
+culture_g_score: 40
+culture_g_justification: "Lac important d’Europe centrale, surtout utile pour une question géographique ou touristique ponctuelle."
 ---
-
 ![Image de Balaton](https://upload.wikimedia.org/wikipedia/commons/2/2b/HUNGARY-Lake_Balaton_Region.jpg)
 
 ![[Carte_Balaton.png]]

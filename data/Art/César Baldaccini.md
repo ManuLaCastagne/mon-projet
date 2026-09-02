@@ -23,8 +23,9 @@ indice_6 :
   - œuvres monumentales
 questions:
  - A quel sculpteur né à Marseille en 1921, surnommé le Benvenuto Cellini de la ferraille doit-on l'exécution d'un "Le Pouce (sculpture)" géant en 1965?
+culture_g_score: 80
+culture_g_justification: "César est une figure identifiable du Nouveau Réalisme, de la sculpture et des récompenses cinématographiques, avec plusieurs repères rentables."
 ---
-
 ![Image de César Baldaccini](https://upload.wikimedia.org/wikipedia/commons/4/44/Sculpture_from_C%C3%A9sar_Baldaccini_in_Musee_d%27Art_Moderne_et_d%27Art_Contemporain_de_Nice.jpg)
 
 ###### Questions

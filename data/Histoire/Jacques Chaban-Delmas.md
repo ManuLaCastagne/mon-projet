@@ -20,9 +20,9 @@ indice_6 :
   - Candidat à l'élection présidentielle de 1974
 questions:
  - En août 1944, quel résistant participa activement à la Libération de Paris, ce qui lui valut le grade de général de brigade, avant de devenir maire de Bordeaux?
+culture_g_score: 64
+culture_g_justification: "Résistant, maire de Bordeaux, Premier ministre et candidat présidentiel, il possède plusieurs ancrages mais reste une figure secondaire du grand public."
 ---
-
-
 ![Image de Jacques Chaban-Delmas](https://upload.wikimedia.org/wikipedia/commons/4/43/Jacques_Chaban-Delmas.jpg)
 
 ###### Questions

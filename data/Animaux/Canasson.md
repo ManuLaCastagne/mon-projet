@@ -13,8 +13,9 @@ indice_5:
   - Destrier
 indice_6:
   - Symbole de liberté
+culture_g_score: 27
+culture_g_justification: "Terme familier désignant un cheval, mais connaissance lexicale isolée et peu utile en culture générale."
 ---
-
 ![Image de Canasson](https://upload.wikimedia.org/wikipedia/commons/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg)
 
 ###### Questions

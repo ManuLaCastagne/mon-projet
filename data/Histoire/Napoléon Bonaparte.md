@@ -18,8 +18,9 @@ indice_5 :
   - Joséphine de Beauharnais
 indice_6 : 
   - Empereur des Français
+culture_g_score: 100
+culture_g_justification: "Figure historique universelle permettant des questions sur la Révolution, l’Empire, les guerres, le droit, la géographie et la politique européenne."
 ---
-
 ![Image de Napoléon Bonaparte](https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg)
 
 ###### Questions

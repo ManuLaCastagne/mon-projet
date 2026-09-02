@@ -23,8 +23,9 @@ indice_6 :
   - Sierra Nevada
 questions:
  - Des monuments tels que la Mezquita de Cordoue ou l'Alhambra de Grenade.  Communauté autonome du sud de l'Espagne dont la capitale est Séville, je suis…
+culture_g_score: 80
+culture_g_justification: "Région espagnole très rentable grâce à l’Alhambra, au flamenco, à l’histoire musulmane, aux paysages et à plusieurs villes majeures."
 ---
-
 ![Image de Andalousie](https://upload.wikimedia.org/wikipedia/commons/8/88/Yves_Antoine_Ortega_-_Portrait_Andalousie.JPG)
 
 ![[Carte_Andalousie.png]]

@@ -22,9 +22,9 @@ indice_5:
   - forums romains
 indice_6:
   - SPQR
+culture_g_score: 100
+culture_g_justification: "Rome est un sujet exceptionnellement rentable, au carrefour de l’Antiquité, de l’Empire romain, de l’art, de la religion, de la politique et de la géographie."
 ---
-
-
 ![Image de Rome](https://upload.wikimedia.org/wikipedia/commons/0/02/Rome_%28Italy%29%2C_Piazza_della_Rotonda%2C_Hub_of_a_Coach_--_2013_--_10.jpg)
 
 ![[Carte_Rome.png]]

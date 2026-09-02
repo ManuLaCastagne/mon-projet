@@ -20,8 +20,9 @@ indice_6 :
   - disgrâce en 1770
 questions:
  - Sous Histoire/Louis XV, quel secrétaire d'Etat aux affaires étrangères, proche de Madame de Pompadour, réunit la Lorraine et la Corse à la France?
+culture_g_score: 60
+culture_g_justification: "Titre associé à un ministre important de Louis XV et à la diplomatie du XVIIIe siècle, mais relativement peu présent hors des quiz historiques."
 ---
-
 ![Image de Duc de Choiseul](https://upload.wikimedia.org/wikipedia/commons/d/d5/Lettre_du_Duc_de_Choiseul_%C3%A0_Th%C3%A9ophile_de_Bordeu_-_Choiseul%2C_Etienne_Fran%C3%A7ois_de%2C_duc_-_btv1b10582310r_%281_of_4%29.jpg)
 
 ###### Questions

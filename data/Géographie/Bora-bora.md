@@ -24,8 +24,9 @@ indice_6 :
   - hébergements sur pilotis
 questions:
  - Quelle île de la Polynésie française, surplombée par les monts Otemanu et Pahia, est désignée par le même nom redoublé?
+culture_g_score: 68
+culture_g_justification: "Île paradisiaque mondialement célèbre, Bora-Bora est fréquente dans les questions sur la Polynésie, le tourisme et la géographie insulaire."
 ---
-
 ![Image de Bora-bora](https://upload.wikimedia.org/wikipedia/commons/a/a8/Rosh_bora_03.jpg)
 
 ![[Carte_Bora-bora.png]]

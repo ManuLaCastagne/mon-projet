@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de résilience et ancienneté
 questions:
  - Quel arthropode marin, usuellement appelé crabe des Moluques, possède une carapace en forme de fer à cheval?
+culture_g_score: 68
+culture_g_justification: "Animal singulier et rentable grâce à son ancienneté, son sang bleu, ses usages biomédicaux et sa position parmi les arthropodes."
 ---
-
 ![Image de Limule](https://upload.wikimedia.org/wikipedia/commons/f/f4/Limules.jpg)
 
 ###### Questions

@@ -15,9 +15,9 @@ indice_5:
   - fils de Poséidon
 indice_6:
   - géants de la mythologie grecque
+culture_g_score: 80
+culture_g_justification: "Créatures très classiques, reliées à l'Odyssée, aux forges divines et à de nombreuses représentations artistiques."
 ---
-
-
 ![Image de Cyclopes](https://upload.wikimedia.org/wikipedia/commons/b/b4/Cyclopes_dorsalis_Gray_1865.png)
 
 ###### Questions

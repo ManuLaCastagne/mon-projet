@@ -22,8 +22,9 @@ indice_6 :
   - Saint-Pétersbourg
 questions:
  - Quel écrivain russe est l'auteur du roman "Taras Boulba" qui a donné son nom à une oeuvre de Janacek "Rhapsodie" ?
+culture_g_score: 80
+culture_g_justification: "Classique russe associé aux Âmes mortes, au Manteau et au Revizor, offrant des entrées littéraires, historiques et satiriques variées."
 ---
-
 ![Image de Nicolas Gogol](https://upload.wikimedia.org/wikipedia/commons/0/0a/GRW153_Gogol_signature.png)
 
 ###### Questions

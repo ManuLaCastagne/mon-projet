@@ -18,8 +18,9 @@ indice_5:
   - Ceinture noire
 indice_6:
   - International Judo Federation
+culture_g_score: 52
+culture_g_justification: "Judoka japonais exceptionnel et invaincu contre les étrangers, mais sujet surtout pertinent pour les amateurs de judo."
 ---
-
 ![Image de Yamashita Yasuhiro](https://upload.wikimedia.org/wikipedia/commons/8/82/Yasuhiro_Yamashita_2.jpg)
 
 ###### Questions

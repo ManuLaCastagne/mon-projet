@@ -22,9 +22,9 @@ indice_6 :
   - Actrice américaine
 questions:
  - Dans Roméo + Juliette de Baz Luhrmann, quelle actrice jouait Juliette avec DiCaprio ?
+culture_g_score: 56
+culture_g_justification: "Actrice connue pour Homeland, Roméo + Juliette et Angela, 15 ans, mais moins centrale dans la culture cinématographique générale."
 ---
-
-
 ![Image de Claire Danes](https://upload.wikimedia.org/wikipedia/commons/6/65/Claire_Danes.jpg)
 
 ###### Questions

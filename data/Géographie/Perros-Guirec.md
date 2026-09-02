@@ -24,8 +24,9 @@ indice_6 :
   - Archipel des 7 îles
 questions:
  - Quelle station balnéaire des Cotes-d'Armor vient de la fusion de tertre et d'un saint breton ?
+culture_g_score: 40
+culture_g_justification: "Station bretonne surtout connue pour la Côte de Granit Rose et les Sept-Îles, donc utile dans quelques questions touristiques régionales."
 ---
-
 ![Image de Perros-Guirec](https://upload.wikimedia.org/wikipedia/commons/b/bb/%C3%89glise_Saint-Jacques_-_int%C3%A9rieur_-_nef_%28Perros-Guirec%29.jpg)
 
 ![[Carte_Perros-Guirec.png]]

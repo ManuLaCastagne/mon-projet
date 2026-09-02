@@ -24,8 +24,9 @@ indice_6 :
   - phare de Biarritz
 questions:
  - Quelle ville, située sur le golfe de Gascogne, abrite l'ancienne villa Eugénie, construite à l'instigation de Napoléon III?
+culture_g_score: 64
+culture_g_justification: "Station balnéaire française connue pour l’impératrice Eugénie, le surf, la culture basque et le G7, sans portée universelle."
 ---
-
 ![Image de Biarritz](https://upload.wikimedia.org/wikipedia/commons/5/5d/Biarritz_%28View_from_the_Lighthouse%29.jpg)
 
 ![[Carte_Biarritz.png]]

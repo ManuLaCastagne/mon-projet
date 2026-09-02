@@ -20,8 +20,9 @@ indice_5:
   - Le Coeur innombrable
 indice_6:
   - mécène et salonnière influente
+culture_g_score: 32
+culture_g_justification: "Poétesse importante dans la littérature française du début du XXe siècle, mais peu mobilisée hors des questions spécialisées."
 ---
-
 ![Image de Anna de Noailles](https://upload.wikimedia.org/wikipedia/commons/3/32/Noailles_b_Meurisse_1922.jpg)
 
 ###### Questions

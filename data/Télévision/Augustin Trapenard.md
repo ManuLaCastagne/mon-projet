@@ -20,8 +20,9 @@ indice_6 :
   - 21 cm
 questions:
  - J'ai animé "Le cercle" puis "21 cm" jusqu'en 2020. Faisant entendre ma voix auprès des auditeurs de France Culture avec "Le carnet du libraire" et, depuis 2014, sur France Inter ou j'interviewe les invités de "Boomerang", je suis…
+culture_g_score: 48
+culture_g_justification: "Journaliste culturel contemporain identifiable par plusieurs émissions, mais encore peu fréquent comme sujet autonome de quiz."
 ---
-
 ![Image de Augustin Trapenard](https://upload.wikimedia.org/wikipedia/commons/f/fa/Augustin_Trapenard_2017.jpg)
 
 ###### Questions

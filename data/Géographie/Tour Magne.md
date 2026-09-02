@@ -25,8 +25,9 @@ indice_6 :
   - vestige du 1er siècle avant J.-C.
 questions:
  - Au sommet du Mont Cavalier à Nîmes, quelle tour…
+culture_g_score: 44
+culture_g_justification: "La Tour Magne est un vestige romain significatif, mais nettement moins fréquent et transversal que les grands monuments antiques."
 ---
-
 ![Image de Tour Magne](https://upload.wikimedia.org/wikipedia/commons/7/73/281_Tour_Magne_NIM_1008.jpg)
 
 ![[Carte_Tour Magne.png]]

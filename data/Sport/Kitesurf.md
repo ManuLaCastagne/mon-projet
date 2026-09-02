@@ -20,10 +20,9 @@ indice_6 :
   - Leash de sécurité
 questions:
  - Quel sport nautique consiste à surfer sur une planche tracté par un cerf-volant ?
+culture_g_score: 60
+culture_g_justification: "Discipline nautique reconnaissable et liée à l’évolution des sports de glisse, mais encore secondaire dans les quiz généralistes."
 ---
-
-
-
 ![Image de Kitesurf](https://upload.wikimedia.org/wikipedia/commons/7/71/Jesse_Richman_-_Pierre_Bouras_1.jpg)
 
 ###### Questions

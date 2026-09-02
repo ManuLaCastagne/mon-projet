@@ -15,8 +15,9 @@ indice_6:
   - Fabrication de meubles
 questions:
   - Quel arbre originaire d'Asie tropicale au nom d'origine tamoule fournit un bois imputrescible pour les terrasses ou les meubles de jardin ?
+culture_g_score: 64
+culture_g_justification: "Le teck est une référence classique du bois tropical, de l’Asie et de la construction navale ou extérieure."
 ---
-
 ![Image de Teck](https://upload.wikimedia.org/wikipedia/commons/d/d2/Wohngeb%C3%A4ude_R%C3%B6ntgenstra%C3%9Fe_Kirchheim-Teck_%282009%29.jpg)
 
 ###### Questions

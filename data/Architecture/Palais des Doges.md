@@ -23,8 +23,9 @@ indice_6 :
   - Pont des Soupirs
 questions:
  - A Venise,  quel célèbre palais relié aux anciennes prisons par le Pont des soupirs est également appelé palais ducal?
+culture_g_score: 80
+culture_g_justification: "Monument emblématique de Venise, régulièrement mobilisé via son histoire politique, son architecture, Casanova ou le tourisme."
 ---
-
 ![Image de Palais des Doges](https://upload.wikimedia.org/wikipedia/commons/1/19/%28Albi%29_Int%C3%A9rieur_du_Palais_des_Doges_%C3%A0_Venise_-_Jules-Romain_Joyant_1837_MTL.Inv.201.jpg)
 
 ###### Questions

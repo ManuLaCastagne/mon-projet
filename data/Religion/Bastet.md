@@ -20,8 +20,9 @@ indice_6 :
   - Mythe de Rê
 questions:
  - De quelle déesse à tête de chat le lieu de culte principal était-il la ville de Bubastis ?
+culture_g_score: 64
+culture_g_justification: "Déesse égyptienne assez connue et régulièrement mobilisée en mythologie, mais ses angles restent relativement limités."
 ---
-
 ![Image de Bastet](https://upload.wikimedia.org/wikipedia/commons/3/31/Bastet_%28Goddess%29.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - rectangles flous
 questions:
   - Artiste né en 1903 en Russie, j'émigre aux Etats-Unis à l'âge de 7 ans et fais des études d'art à Yale puis à New York. Cofondateur du groupe...
+culture_g_score: 80
+culture_g_justification: "Figure majeure de l’expressionnisme abstrait, régulièrement associée au Color Field, aux œuvres monumentales et aux records du marché de l’art."
 ---
-
 ![Image de Mark Rothko](https://upload.wikimedia.org/wikipedia/commons/e/ea/Consuelo_Kanaga%2C_Mark_Rothko%2C_Yorktown_Heights%2C_ca._1949.jpg)
 
 ###### Questions

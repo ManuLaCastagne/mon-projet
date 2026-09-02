@@ -20,8 +20,9 @@ indice_6 :
   - Inauguration 1972
 questions:
  - Stade du 16e arrondissement où le club parisien dispute ses rencontres à domicile, j'abrite les tribunes Borellli et Boulogne.
+culture_g_score: 77
+culture_g_justification: "Stade parisien majeur, associé au PSG, à l’équipe de France, à de grandes compétitions et à plusieurs événements culturels."
 ---
-
 ![Image de Parc des Princes](https://upload.wikimedia.org/wikipedia/commons/f/f4/Paris_Parc_des_Princes_1.jpg)
 
 ###### Questions

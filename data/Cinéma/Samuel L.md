@@ -22,8 +22,9 @@ indice_6 :
   - filmographie impressionnante
 questions:
  - Quel acteur afro-américain né en 1948, a tourné dans de nombreux films de Quentin Tarantino, notamment dans "Jackie Brown" et "Les Huit Salopards"?
+culture_g_score: 96
+culture_g_justification: "Même référence que Samuel L. Jackson, incontournable par Pulp Fiction, Marvel, son immense filmographie et ses records au box-office."
 ---
-
 ![Image de Samuel L](https://upload.wikimedia.org/wikipedia/commons/d/d5/Samuel_L._Jackson_-_Your_Action_Saves_Lives.ogv)
 
 ###### Questions

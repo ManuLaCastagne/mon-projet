@@ -22,8 +22,9 @@ indice_6 :
   - né en 1922
 questions:
  - Quel écrivain et chroniqueur sportif, auteur du roman "Un Singe en hiver", affirmait poétiquement que l'homme "descend du songe" ?
+culture_g_score: 43
+culture_g_justification: "Écrivain et chroniqueur sportif intéressant par ses liens avec les Hussards et le cyclisme, mais d’apparition limitée."
 ---
-
 ![Image de Antoine Blondin](https://upload.wikimedia.org/wikipedia/commons/1/1c/Antoine_Blondin_tombe.jpg)
 
 ###### Questions

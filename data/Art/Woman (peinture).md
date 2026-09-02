@@ -21,8 +21,9 @@ indice_5 :
   - musée
 indice_6 : 
   - artiste
+culture_g_score: 51
+culture_g_justification: "Tableau important de l’expressionnisme abstrait et du marché de l’art, mais moins fréquemment interrogé qu’une œuvre canonique plus célèbre."
 ---
-
 ![Image de Woman (peinture)](https://upload.wikimedia.org/wikipedia/commons/d/d9/Vermeer-Portrait_of_a_Young_Woman.jpg)
 
 ###### Questions

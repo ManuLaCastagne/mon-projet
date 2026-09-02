@@ -22,8 +22,9 @@ indice_6 :
   - personnage récurrent
 questions:
  - Qui a créé le personnage d'Harry Bosch ?
+culture_g_score: 60
+culture_g_justification: "Auteur important du polar contemporain, surtout connu par Harry Bosch et les adaptations de ses romans, mais de portée culturelle moyenne."
 ---
-
 ![Image de Michael Connely](https://upload.wikimedia.org/wikipedia/commons/a/a4/2022_Nebraska_gubernatorial_election_results_map_by_county.svg)
 
 ###### Questions

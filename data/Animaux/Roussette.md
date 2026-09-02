@@ -15,8 +15,9 @@ indice_6:
   - Mégachiroptère
 questions:
   - Quelle chauve-souris, pouvant atteindre 2 m, possédant un pelage roux, elle est considérée comme le plus gros mammifère volant ?
+culture_g_score: 40
+culture_g_justification: "Petit requin connu dans certains contextes culinaires et marins, mais largement secondaire en culture générale."
 ---
-
 ![Image de Roussette](https://upload.wikimedia.org/wikipedia/commons/9/9d/Altesse_savoie.jpg)
 
 ###### Questions

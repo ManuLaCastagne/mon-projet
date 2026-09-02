@@ -20,8 +20,9 @@ indice_6 :
   - Drapeau à damier
 questions:
  - Depuis 1911, dans quelle ville américaine se déroule, chaque année, la course automobile dite des 500 Miles...
+culture_g_score: 64
+culture_g_justification: "Grande ville américaine associée à l’Indianapolis 500, elle possède plusieurs entrées sportives mais une fréquence générale modérée."
 ---
-
 ![Image de Indianapolis](https://upload.wikimedia.org/wikipedia/commons/b/ba/Indianapolis_police_special_service_district.jpg)
 
 ###### Questions

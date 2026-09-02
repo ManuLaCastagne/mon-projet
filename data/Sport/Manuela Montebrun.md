@@ -20,8 +20,9 @@ indice_6 :
   - France
 questions:
  - En 2008 à Pékin, quelle athlète française remporte la médaille de bronze au lancer du marteau ?
+culture_g_score: 32
+culture_g_justification: "Athlète française performante dans une discipline peu médiatisée, rarement mobilisée hors des questions spécialisées d’athlétisme."
 ---
-
 ![Image de Manuela Montebrun](https://upload.wikimedia.org/wikipedia/commons/2/20/Manuela_Montebrun_close_up.JPG)
 
 ###### Questions

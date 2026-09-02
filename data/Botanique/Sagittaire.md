@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale pour bassins
 questions:
  - Quelle plante des eaux douces porte le même nom qu'un signe du zodiaque, est également appelée flèche d'eau ?
+culture_g_score: 27
+culture_g_justification: "Plante aquatique définie par une forme de feuille particulière, avec une présence très faible dans les quiz généralistes."
 ---
-
 ![Image de Sagittaire](https://upload.wikimedia.org/wikipedia/commons/b/bb/Sagittaire_M650_Katajanokka_04.JPG)
 
 ###### Questions

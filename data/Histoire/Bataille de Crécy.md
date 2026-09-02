@@ -20,8 +20,9 @@ indice_6 :
   - Philippe VI de Valois
 questions:
  - En 1346, un peu d'histoire,  lors de quelle bataille s'étant déroulée dans la Somme, les Anglais ont-ils dû leur victoire aux archers ?
+culture_g_score: 64
+culture_g_justification: "Épisode classique de la guerre de Cent Ans illustrant l’efficacité de l’arc long et le déclin de la chevalerie française."
 ---
-
 ![Image de Bataille de Crécy](https://upload.wikimedia.org/wikipedia/commons/a/a4/Bataille_de_Cr%C3%A9cy_26_ao%C3%BBt_1346.png)
 
 ###### Questions

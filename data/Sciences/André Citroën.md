@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - J'ai organisé des raids automobiles à travers l'Asie et l'Afrique. Constructeur ayant lancé la voiture à traction avant, le logo de mon entreprise est constitué de 2 chevrons, je suis…
  - En 1919, quel industriel et polytechnicien a introduit en France la fabrication de voitures en grande série avec sa célèbre marque aux chevrons?
+culture_g_score: 80
+culture_g_justification: "Industriel français lié à une marque emblématique, à l’automobile, à la publicité, à l’innovation et à l’histoire économique."
 ---
-
 ![Image de André Citroën](https://upload.wikimedia.org/wikipedia/commons/1/1e/Andr%C3%A9_Citro%C3%ABn_1932.jpg)
 
 ###### Questions

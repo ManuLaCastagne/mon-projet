@@ -22,8 +22,9 @@ indice_6:
   - pop-rock
 questions:
   - Quel acteur américain chante "Tell it like it is", classique du rythm and blues ?
+culture_g_score: 39
+culture_g_justification: "Acteur très célèbre grâce à «Deux flics à Miami», mais sa carrière musicale constitue un angle rare et peu rentable."
 ---
-
 ![Image de Don Johnson](https://upload.wikimedia.org/wikipedia/commons/b/b9/Don_Johnson_TIFF_2019.jpg)
 
 ###### Questions

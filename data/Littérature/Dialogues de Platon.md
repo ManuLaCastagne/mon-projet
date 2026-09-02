@@ -22,9 +22,9 @@ indice_6 :
   - allégorie de la caverne
 questions:
  - La nature des hommes ou la justice, sous forme d'entretiens entre Socrate et différents interlocuteurs.
+culture_g_score: 92
+culture_g_justification: "Corpus fondamental de la philosophie occidentale, reliant Socrate, l’éthique, la politique, la connaissance et de nombreuses œuvres célèbres."
 ---
-
-
 ![Image de Dialogues de Platon](https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
 
 ###### Questions

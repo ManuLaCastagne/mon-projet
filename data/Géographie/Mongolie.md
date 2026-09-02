@@ -24,8 +24,9 @@ indice_6 :
   - khanats
 questions:
  - Pays asiatique abritant le grand lac salé Uvs, je m'étends sur plus de 1 500 000 km2 autour des monts Khangaï et suis en partie couvert de steppes. Comprenant à l'ouest le point culminant de l'Altaï, je suis situé...
+culture_g_score: 80
+culture_g_justification: "Pays très rentable grâce à Gengis Khan, l’Empire mongol, le désert de Gobi et ses particularités géographiques."
 ---
-
 ![Image de Mongolie](https://upload.wikimedia.org/wikipedia/commons/9/90/Mongolie_Reserve_Khustain_Nuruu_National_Park_%283%29.jpg)
 
 ![[Carte_Mongolie.png]]

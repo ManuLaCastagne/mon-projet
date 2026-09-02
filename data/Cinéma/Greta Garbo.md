@@ -22,10 +22,9 @@ indice_6 :
   - retraite à 36 ans
 questions:
  - Quelle artiste suédoise est surnommée "la Divine", dont Fellini disait qu'elle était l'initiatrice d'une religion, le cinéma ?
+culture_g_score: 97
+culture_g_justification: "Mythe incontournable du cinéma muet et hollywoodien, associé à de nombreux films, surnoms, ruptures de carrière et repères historiques."
 ---
-
-
-
 ![Image de Greta Garbo](https://upload.wikimedia.org/wikipedia/commons/0/01/Greta_Garbo_in_Queen_Christina%2C_1933.jpg)
 
 ###### Questions

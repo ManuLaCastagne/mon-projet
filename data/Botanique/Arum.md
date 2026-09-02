@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé comme plante ornementale
 questions:
  - Quelle plante d'été à bulbe, désignée par un nom latin et pouvant être dite des fleuristes, reconnaît-on à sa grande fleur blanche en forme d'entonnoir évasé?
+culture_g_score: 44
+culture_g_justification: "Plante reconnaissable et liée à la toxicité, mais les questions restent généralement descriptives et spécialisées."
 ---
-
 ![Image de Arum](https://upload.wikimedia.org/wikipedia/commons/5/53/Arum_palaestinum_flower.jpg)
 
 ###### Questions

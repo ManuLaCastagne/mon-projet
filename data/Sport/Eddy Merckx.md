@@ -18,9 +18,9 @@ indice_5 :
   - Jeux Olympiques de Tokyo 1964
 indice_6 : 
   - Record de l'heure
+culture_g_score: 80
+culture_g_justification: "Le Cannibale est une référence majeure du cyclisme, régulièrement interrogée via le Tour, les Grands Tours, les records et les classiques."
 ---
-
-
 ![Image de Eddy Merckx](https://upload.wikimedia.org/wikipedia/commons/e/e8/Eddy_Merckx_Molteni_1973.jpg)
 
 ###### Questions

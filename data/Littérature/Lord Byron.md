@@ -20,8 +20,9 @@ indice_5:
   - Shelley et Keats
 indice_6:
   - Club des Quatre
+culture_g_score: 80
+culture_g_justification: "Grande figure du romantisme européen, interrogeable par sa poésie, son personnage, son engagement grec et son influence culturelle."
 ---
-
 ![Image de Lord Byron](https://upload.wikimedia.org/wikipedia/commons/f/f4/George_Gordon_Byron%2C_6th_Baron_Byron_by_Richard_Westall_%282%29.jpg)
 ###### Questions
 

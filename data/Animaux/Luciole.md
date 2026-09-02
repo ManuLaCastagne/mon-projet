@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la lumière et de la transformation
 questions:
  - Quel coléoptère des régions chaudes, voisin du lampyre, attire des partenaires potentiels...
+culture_g_score: 64
+culture_g_justification: "Insecte très connu pour sa bioluminescence, permettant des questions classiques de chimie, de biologie et de culture populaire."
 ---
-
 ![Image de Luciole](https://upload.wikimedia.org/wikipedia/commons/2/23/Luciole_9717.JPG)
 
 ###### Questions

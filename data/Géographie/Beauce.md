@@ -24,8 +24,9 @@ indice_6 :
   - vastes champs
 questions:
  - Dans quelle région agricole du Bassin parisien, couvrant 6640 km2 dans l'Orléanais, trouve-t-on...
+culture_g_score: 60
+culture_g_justification: "Région agricole française classique, surtout mobilisée autour du blé, de la géographie physique et de Chartres."
 ---
-
 ![Image de Beauce](https://upload.wikimedia.org/wikipedia/commons/b/ba/Vue_de_Lion-en-Beauce.jpg)
 
 ![[Carte_Beauce.png]]

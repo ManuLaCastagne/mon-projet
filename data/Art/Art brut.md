@@ -23,9 +23,9 @@ indice_6 :
   - auto-didactes
 questions:
  - Synonyme de spontané,  je dois mon nom à Jean Dubuffet qui répertoria mes productions.
+culture_g_score: 68
+culture_g_justification: "Notion bien identifiée de l’art moderne, reliée à Dubuffet, à l’autodidaxie, à la psychiatrie et aux formes marginales de création."
 ---
-
-
 ![Image de Art brut](https://upload.wikimedia.org/wikipedia/commons/f/f2/Art_Brut_biennale_Hengelo_2023.jpg)
 
 ###### Questions

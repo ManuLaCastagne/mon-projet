@@ -23,8 +23,9 @@ indice_6 :
   - Écologie et durabilité
 questions:
  - Cité monastique fondée par saint Athanase en Grèce.
+culture_g_score: 71
+culture_g_justification: "Les Météores associent paysage, architecture religieuse, histoire grecque et patrimoine mondial, ce qui leur donne plusieurs usages en quiz."
 ---
-
 ![Image de Météores](https://upload.wikimedia.org/wikipedia/commons/9/99/Meteor_Shower_Calendar-2021.png)
 
 ###### Questions

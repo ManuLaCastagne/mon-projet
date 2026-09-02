@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de force et de courage
 questions:
  - Quel porc sauvage de Malaisie, aux canines supérieures recourbées vient du malais 'cochon-cerf' ?
+culture_g_score: 31
+culture_g_justification: "Mammifère exotique aux défenses remarquables, surtout présent dans des quiz spécialisés sur la faune d'Indonésie."
 ---
-
 ![Image de Babiroussa](https://upload.wikimedia.org/wikipedia/commons/c/cd/Hirscheber1a.jpg)
 
 ###### Questions

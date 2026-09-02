@@ -18,9 +18,9 @@ indice_5:
   - siège
 indice_6:
   - capitulation britannique
+culture_g_score: 80
+culture_g_justification: "Victoire franco-américaine décisive de la guerre d’Indépendance, associée à Washington, Rochambeau et au traité de Paris."
 ---
-
-
 ![Image de Bataille de Yorktown](https://upload.wikimedia.org/wikipedia/commons/b/b4/Panoramic_View_of_the_Siege_of_Yorktown_by_Simeon_Fort.jpg)
 
 ###### Questions

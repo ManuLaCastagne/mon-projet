@@ -22,9 +22,9 @@ indice_6 :
   - Contre-histoire de la philosophie
 questions:
  - En 1996, dans le 1er tome de son "Journal hédoniste" intitulé "Le Désir d'être un volcan", quel philosophe consacre un chapitre à la gentillesse?
+culture_g_score: 47
+culture_g_justification: "Philosophe médiatique identifiable par quelques ouvrages et controverses, mais dont la présence dans les quiz généralistes reste modérée."
 ---
-
-
 ![Image de Michel Onfray](https://upload.wikimedia.org/wikipedia/commons/0/0b/Chain_ambigram_Michel_Onfray_-_fond_bleu.png)
 
 ###### Questions

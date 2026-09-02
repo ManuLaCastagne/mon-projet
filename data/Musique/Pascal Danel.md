@@ -22,8 +22,9 @@ indice_6 :
   - Les Neiges du Kilimandjaro
 questions:
  - En 1966, quel artiste français atteint le sommet des hit-parades avec la chanson "La plage aux romantiques"?
+culture_g_score: 44
+culture_g_justification: "Chanteur associé à un tube francophone identifiable, mais dont la carrière offre peu d’angles prioritaires pour la culture générale."
 ---
-
 ![Image de Pascal Danel](https://upload.wikimedia.org/wikipedia/commons/0/0f/Pascal_Danel_-_1967.jpg)
 
 ###### Questions

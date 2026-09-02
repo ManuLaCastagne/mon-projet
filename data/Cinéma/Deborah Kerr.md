@@ -20,8 +20,9 @@ indice_5:
   - Hollywood des années 50
 indice_6:
   - Actrice britannique
+culture_g_score: 72
+culture_g_justification: "Grande actrice britannique associée à plusieurs classiques, notamment Le Roi et moi, Tant qu'il y aura des hommes et Les Innocents."
 ---
-
 ![Image de Deborah Kerr](https://upload.wikimedia.org/wikipedia/commons/d/d2/Deborah_Kerr_8_Allan_Warren.jpg)
 
 ###### Questions

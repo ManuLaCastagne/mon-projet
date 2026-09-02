@@ -18,8 +18,9 @@ indice_5 :
   - Johnny Castle
 indice_6 : 
   - Time of My Life
+culture_g_score: 93
+culture_g_justification: "Film culte extrêmement populaire, avec chansons, répliques, chorégraphies, acteurs et scènes immédiatement reconnaissables."
 ---
-
 ![Image de Dirty Dancing](https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Dirty_Dancing.svg)
 
 ###### Questions

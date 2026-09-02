@@ -22,9 +22,9 @@ indice_6 :
   - Chanson emblématique
 questions:
  - A l'origine, interprétée par Fabienne Thibeault.
+culture_g_score: 73
+culture_g_justification: "Chanson incontournable de Starmania, fréquemment questionnée avec la comédie musicale, Fabienne Thibeault et la variété francophone."
 ---
-
-
 ![Image de Le Monde est stone](https://upload.wikimedia.org/wikipedia/commons/9/99/Le_monde_est_corrompu.jpg)
 
 ###### Questions

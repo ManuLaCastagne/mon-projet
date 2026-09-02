@@ -21,6 +21,7 @@ indice_6 :
 questions:
  - J'ai accueilli en 1991 mon 1er Grand Prix de France de Formule 1, je suis…
 culture_g_score: 40
+culture_g_justification: "Circuit français surtout connu des amateurs de Formule 1 et mobilisé dans un nombre limité de questions historiques."
 ---
 ![Image de Nevers Magny-Cours](https://upload.wikimedia.org/wikipedia/commons/2/27/French_FFSA_F4_Magny_Cours_%2827440085699%29.jpg)
 

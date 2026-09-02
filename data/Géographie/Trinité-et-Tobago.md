@@ -24,9 +24,9 @@ indice_6 :
   - Asie-Brésil de la géologie
 questions:
  - Quel Etat des Antilles, formé de 2 îles, proche des côtes du Venezuela, a pour capitale Port of Spain?
+culture_g_score: 51
+culture_g_justification: "Cet État caribéen peut être identifié par sa capitale, sa géographie et son patrimoine naturel, mais il reste peu fréquent dans les quiz."
 ---
-
-
 ![Image de Trinité-et-Tobago](https://upload.wikimedia.org/wikipedia/commons/f/f0/Trinit%C3%A9-et-Tobago_Chambre_des_repr%C3%A9sentants_2020.svg)
 
 ![[Carte_Trinité-et-Tobago.png]]

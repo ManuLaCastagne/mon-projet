@@ -20,8 +20,9 @@ indice_6 :
   - 52 av. J.-C.
 questions:
  - J'ai finalement été identifié  à Alise-Sainte-Reine en Bourgogne.
+culture_g_score: 77
+culture_g_justification: "Bataille emblématique de la guerre des Gaules, directement associée à César et Vercingétorix, très fréquente dans les quiz francophones."
 ---
-
 ![Image de Alésia](https://upload.wikimedia.org/wikipedia/commons/9/96/Al%C3%A9sia_%28m%C3%A9tro_Paris%29_MP59_n%C2%B0013_par_Cramos.JPG)
 
 ###### Questions

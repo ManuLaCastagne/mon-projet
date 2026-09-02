@@ -20,10 +20,9 @@ indice_6 :
   - meurtres anciens
 questions:
  - Quelle série policière américaine met en scène l'inspectrice Lilly Rush...
+culture_g_score: 60
+culture_g_justification: "Série policière populaire au concept immédiatement identifiable, mais moins centrale que les grands classiques du genre."
 ---
-
-
-
 ![Image de Cold Case](https://upload.wikimedia.org/wikipedia/commons/8/84/Cold_case_logo.svg)
 
 ###### Questions

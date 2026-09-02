@@ -18,10 +18,9 @@ indice_6 :
   - mythologie médiévale
 questions:
  - Quel animal fabuleux du bestiaire médiéval avait le pouvoir de purifier les eaux en y trempant son unique corne frontale?
+culture_g_score: 84
+culture_g_justification: "La licorne est une créature universellement connue, abordable par le folklore, l’art, la littérature, l’héraldique et les symboles culturels."
 ---
-
-
-
 ![Image de Licorne](https://upload.wikimedia.org/wikipedia/commons/4/4e/Corre-La_Licorne_1913_Tour_de_France.jpg)
 
 ###### Questions

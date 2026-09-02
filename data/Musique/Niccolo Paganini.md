@@ -22,8 +22,9 @@ indice_6 :
   - Influence sur Liszt
 questions:
  - Quel compositeur et virtuose italien né en 1782, auteur de "24 Caprices pour violon seul", a révolutionné l'art du violon?
+culture_g_score: 68
+culture_g_justification: "Grand virtuose du violon et compositeur romantique, souvent interrogé à travers ses Caprices, sa légende et son influence."
 ---
-
 ![Image de Niccolo Paganini](https://upload.wikimedia.org/wikipedia/commons/f/f7/NiccoloPaganini.jpeg)
 
 ###### Questions

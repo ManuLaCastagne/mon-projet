@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de prestige et de noblesse en équitation
 questions:
  - Quelle race de vache laitière, devant son nom à une région des Pays-Bas, se reconnaît à sa robe pie noir ?
+culture_g_score: 32
+culture_g_justification: "Le cheval frison est remarquable par son apparence et son origine, mais reste une race équestre de niche dans les quiz généralistes."
 ---
-
 ![Image de Frisonne](https://upload.wikimedia.org/wikipedia/commons/d/d8/West_Frisian_Wikipedia_-_Main_Page_%282024-11-29%29.png)
 
 ###### Questions

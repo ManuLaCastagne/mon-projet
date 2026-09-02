@@ -20,8 +20,9 @@ indice_5:
   - scène biblique
 indice_6:
   - fuite vers un lieu sûr
+culture_g_score: 51
+culture_g_justification: "Épisode biblique et motif artistique identifiable, mais nettement moins fréquent et transversal que les grands événements de la vie de Jésus."
 ---
-
 ![Image de La Fuite en Egypte](https://upload.wikimedia.org/wikipedia/commons/8/83/Vitrail_Notre-Dame_de_Paris_191208_04_Fuite_en_Egypte.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_6 :
   - arche
 questions:
  - Quel héros grec est, avec sa femme Pyrrha, le seul survivant d'un déluge déclenché par Zeus?
+culture_g_score: 60
+culture_g_justification: "Équivalent grec de Noé dans un mythe classique du déluge, mais moins souvent interrogé que les héros olympiens."
 ---
-
-
 ![Image de Deucalion](https://upload.wikimedia.org/wikipedia/commons/d/d0/Peter_Paul_Rubens_-_Deucalion_and_Pyrrha%2C_1636.jpg)
 
 ###### Questions

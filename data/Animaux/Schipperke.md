@@ -13,8 +13,9 @@ indice_5 :
   - Petit diable noir
 indice_6 : 
   - Chien de garde
+culture_g_score: 31
+culture_g_justification: "Race canine belge distinctive mais peu célèbre et peu rentable comparée aux grandes races classiques."
 ---
-
 ![Image de Schipperke](https://upload.wikimedia.org/wikipedia/commons/5/58/Schipperke0001.jpg)
 
 ###### Questions

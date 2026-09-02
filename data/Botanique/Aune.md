@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé en menuiserie et en ébénisterie
 questions:
  - Sur quelle arbre appelé "verne" les feuilles ovales restent vertes jusqu'à l'automne ?
+culture_g_score: 40
+culture_g_justification: "Arbre commun des zones humides avec un bois caractéristique, mais son nom botanique et ses faits associés sont peu interrogés."
 ---
-
 ![Image de Aune](https://upload.wikimedia.org/wikipedia/commons/d/d7/Wien%2C_Stephansdom%2C_Elle_--_2018_--_3297.jpg)
 
 ###### Questions

@@ -22,10 +22,9 @@ indice_6 :
   - revue littéraire
 questions:
  - Publication fondée à l'initiative  de personnalités comme Charles-Louis Philippe, mon 1er numéro officiel a paru le 1er février 1909. Ayant notamment compté Marcel Proust parmi mes nombreux collaborateurs  et j'ai été, dès 1911, la propriété exclusive de Gaston Gallimard. Revue littéraire...
+culture_g_score: 56
+culture_g_justification: "Revue centrale de la littérature française du XXe siècle, mais connaissance surtout utile dans les questions spécialisées sur l’édition et les écrivains."
 ---
-
-
-
 ![Image de Nouvelle Revue française](https://upload.wikimedia.org/wikipedia/commons/e/e0/NRF_Num%C3%A9ro_1_F%C3%A9vrier_1909.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Le Beau Tambour
 questions:
  - Artiste né en Suisse en 1940, j'ai débuté en interprétant des chansons de corps de garde et présenté mon pays à l'Eurovision 1970.
+culture_g_score: 60
+culture_g_justification: "Chanteur jeunesse très connu dans l’espace francophone, Henri Dès est utile pour quelques questions musicales et générationnelles, mais peu transversal."
 ---
-
 ![Image de Henri Dès](https://upload.wikimedia.org/wikipedia/commons/c/c0/Henri_D%C3%A8s.jpg)
 
 ###### Questions

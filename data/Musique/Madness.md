@@ -16,8 +16,9 @@ indice_4:
   - Our House
 indice_5: 
 indice_6:
+culture_g_score: 60
+culture_g_justification: "Groupe britannique de ska connu pour Our House et One Step Beyond, avec quelques repères musicaux et historiques mais une portée modérée."
 ---
-
 ![Image de Madness](https://upload.wikimedia.org/wikipedia/commons/5/5d/Madness_Wirral_Live.jpg)
 
 ###### Questions

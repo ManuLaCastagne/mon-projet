@@ -22,8 +22,9 @@ indice_6 :
   - Capote
 questions:
  - En 1958, qui écrit "Petit-déjeuner chez Tiffany" ?
+culture_g_score: 80
+culture_g_justification: "Écrivain américain majeur, rentable grâce à De sang-froid, à la non-fiction, à sa vie mondaine, au cinéma et à la culture populaire."
 ---
-
 ![Image de Truman Kapot](https://upload.wikimedia.org/wikipedia/commons/6/6c/Kickapoo_tales_%28IA_kickapootales09jonerich%29.pdf)
 
 ###### Questions

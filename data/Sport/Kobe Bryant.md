@@ -20,8 +20,9 @@ indice_6 :
   - Hall of Fame
 questions:
  - Basketteur nommé Black Mamba, comptant parmi les meilleurs marqueurs de l'histoire de la NBA, j'ai effectué toute ma carrière au sein de la franchise des Los Angeles Lakers. Quintuple champion NBA tragiquement disparu en janvier 2020, on se souvient de l'accident d'hélicoptère.
+culture_g_score: 97
+culture_g_justification: "Icône mondiale du basket, associée aux Lakers, à ses records, à son Oscar et à une carrière abondamment questionnée."
 ---
-
 ![Image de Kobe Bryant](https://upload.wikimedia.org/wikipedia/commons/4/4e/Kobe_Bryant_7144_adjusted.jpg)
 
 ###### Questions

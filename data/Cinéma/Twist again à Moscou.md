@@ -22,8 +22,9 @@ indice_6 :
   - choc des cultures
 questions:
  - En 1986, quelle comédie de Jean-Marie Poiré avec Christian Clavier et Philippe Noiret, se déroule dans la capitale de l'URSS ?
+culture_g_score: 40
+culture_g_justification: "Cette comédie française de Jean-Marie Poiré est identifiable par son casting et son contexte, mais reste nettement secondaire face à ses films les plus célèbres."
 ---
-
 ![Image de Twist again à Moscou](https://upload.wikimedia.org/wikipedia/commons/7/7c/The_costume_of_the_Russian_Empire%2C_illustrated_by_engravings_..._%28IA_b30454219%29.pdf)
 
 ###### Questions

@@ -4,6 +4,8 @@ tags:
   - XVIIe
   - Latin
 date: 1630
+culture_g_score: 64
+culture_g_justification: "Friandise emblématique d'Aix-en-Provence, régulièrement mobilisable dans des questions sur la gastronomie et les spécialités régionales."
 ---
 ###### Questions 
 

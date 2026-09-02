@@ -21,8 +21,9 @@ indice_5 :
   - surréalisme
 indice_6 : 
   - nu féminin
+culture_g_score: 71
+culture_g_justification: "Photographie surréaliste très reconnaissable, ouvrant sur Man Ray, Kiki de Montparnasse, Ingres, le surréalisme et la culture visuelle."
 ---
-
 ![Image de Le Violon d'Ingres](https://upload.wikimedia.org/wikipedia/commons/e/e5/Jean_Auguste_Dominique_Ingres_004.jpg)
 
 ###### Questions

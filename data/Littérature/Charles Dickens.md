@@ -22,8 +22,9 @@ indice_6 :
   - Grand écrivain anglais
 questions:
  - Quel écrivain anglais auteur de "David Copperfield", a laissé inachevé celui intitulé "Le Mystère d'Edwin Drood" ?
+culture_g_score: 100
+culture_g_justification: "Figure incontournable de la littérature mondiale, associée à de nombreux romans, personnages, enjeux sociaux et repères de l’époque victorienne."
 ---
-
 ![Image de Charles Dickens](https://upload.wikimedia.org/wikipedia/commons/b/b0/Bust_of_Charles_Dickens_by_Giovanni_Fontana.jpg)
 
 ###### Questions

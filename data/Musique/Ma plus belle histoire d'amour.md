@@ -22,8 +22,9 @@ indice_6 :
   - piano-voix
 questions:
  - Dans quelle chanson, Barbara dit-elle "le vent de décembre "me gelait au cou" ?
+culture_g_score: 60
+culture_g_justification: "Chanson emblématique de Barbara, utile pour la chanson française et la biographie de l'artiste, mais limitée en dehors de ces angles."
 ---
-
 ![Image de Ma plus belle histoire d'amour](https://upload.wikimedia.org/wikipedia/commons/1/14/Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947.jpg)
 
 ###### Questions

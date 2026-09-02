@@ -13,9 +13,9 @@ indice_5:
   - Arbre aux quarante écus
 indice_6:
   - Mémoire et circulation sanguine
+culture_g_score: 80
+culture_g_justification: "Arbre très classique des quiz grâce à son caractère de fossile vivant, sa longévité, sa forme et son histoire chinoise."
 ---
-
-
 ![Image de Gingko-biloba](https://upload.wikimedia.org/wikipedia/commons/1/19/Ginkgo_biloba_MHNT.BOT.2010.13.1.jpg)
 
 ###### Questions

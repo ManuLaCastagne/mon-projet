@@ -20,9 +20,9 @@ indice_6 :
   - Six Nations
 questions:
  - Quel stade, situé au sud-ouest de Londres, accueille traditionnellement les rencontres de l'équipe d'Angleterre de rugby à 15 ?
+culture_g_score: 77
+culture_g_justification: "Stade emblématique du rugby anglais, fréquemment associé aux Six Nations, à Londres et à de grands événements culturels."
 ---
-
-
 ![Image de Twickenham](https://upload.wikimedia.org/wikipedia/commons/a/ac/Twickenham_railway_station_MMB_03_450550_450558.jpg)
 
 ###### Questions

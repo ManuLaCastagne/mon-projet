@@ -22,8 +22,9 @@ indice_6 :
   - visage reconnaissable
 questions:
  - Quel acteur, né à Morlaix en 1928, incarne Jacques Tricatel dans "L'Aile..."
+culture_g_score: 40
+culture_g_justification: "Julien Guiomar est un second rôle apprécié du cinéma français, mais sa notoriété et ses possibilités de questions restent limitées."
 ---
-
 ![Image de Julien Guiomar](https://upload.wikimedia.org/wikipedia/commons/5/5a/JulienGuiomar-Italie-1973.png)
 
 ###### Questions

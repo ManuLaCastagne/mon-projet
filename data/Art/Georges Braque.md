@@ -22,8 +22,9 @@ indice_6:
   - Estaque
 questions:
   - De 1907 à 1914, avec quel peintre, rencontré grâce à Guillaume Apollinaire, Pablo Picasso participe-t-il à l'aventure...
+culture_g_score: 91
+culture_g_justification: "Cofondateur du cubisme avec Picasso, Braque ouvre de nombreuses questions sur l’art moderne, le collage, la peinture et la Première Guerre mondiale."
 ---
-
 ![Image de Georges Braque](https://upload.wikimedia.org/wikipedia/commons/e/e1/Georges_Braque%2C_1908%2C_photograph_published_in_Gelett_Burgess%2C_The_Wild_Men_of_Paris%2C_Architectural_Record%2C_May_1910.jpg)
 
 ###### Questions

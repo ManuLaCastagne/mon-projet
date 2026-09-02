@@ -20,9 +20,9 @@ indice_6 :
   - Maillot jaune
 questions:
  - En 2020 à Imola, quel cycliste devient le 9e...
+culture_g_score: 73
+culture_g_justification: "Cycliste français très médiatisé, associé au Tour de France, aux classiques et à deux titres mondiaux récents."
 ---
-
-
 ![Image de Julian Alaphilippe](https://upload.wikimedia.org/wikipedia/commons/c/c7/LL-Q150_%28fra%29-WikiLucas00-Julian_Alaphilippe.wav)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Ce qui nous lie
 questions:
  - En 2018, quel acteur d'origine alsacienne incarne Antoine, un homme injustement incarcéré, dans le film "En liberté!" de Pierre Salvadori?
+culture_g_score: 44
+culture_g_justification: "Acteur français apprécié et présent dans quelques succès récents, mais encore peu fréquent et peu structurant pour la culture générale."
 ---
-
 ![Image de Pio Marmaï](https://upload.wikimedia.org/wikipedia/commons/0/0f/Pio_Marma%C3%AF_Cannes_2018.jpg)
 
 ###### Questions

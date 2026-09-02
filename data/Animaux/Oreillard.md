@@ -15,8 +15,9 @@ indice_6 :
   - Symbolique de la sorcellerie
 questions:
  - Quelle petite chauve-souris, de la famille des vespertilionidés...
+culture_g_score: 32
+culture_g_justification: "Genre de chauves-souris caractérisé par ses grandes oreilles, mais sujet spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Oreillard](https://upload.wikimedia.org/wikipedia/commons/3/39/Plecotus_austriacus_%28cropped%29.jpg)
 
 ###### Questions

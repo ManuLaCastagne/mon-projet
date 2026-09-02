@@ -20,8 +20,9 @@ indice_6 :
   - Gaz naturel
 questions:
  - Quel hydrocarbure saturé, de formule CH4, c'est le méthane, bien joué, est le constituant essentiel du gaz naturel et du grisou.
+culture_g_score: 80
+culture_g_justification: "Gaz important dans les questions sur le climat, l’énergie, la chimie, les hydrates et l’astronomie planétaire."
 ---
-
 ![Image de Méthane](https://upload.wikimedia.org/wikipedia/commons/9/94/Methane_CH4.png)
 
 ###### Questions

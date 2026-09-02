@@ -22,8 +22,9 @@ indice_6 :
   - bande originale de John Williams
 questions:
  - En 1975, quel film de Steven Spielberg commence par une scène  où une jeune vacancière se fait happer par un requin...
+culture_g_score: 97
+culture_g_justification: "Film universellement célèbre de Spielberg, incontournable pour le blockbuster, les requins, la musique et l’histoire du cinéma."
 ---
-
 ![Image de Les Dents de la mer](https://upload.wikimedia.org/wikipedia/commons/4/44/Sont-ce_les_dents_de_la_mer_%3F.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Amoraim
 questions:
  - Dans le judaïsme, quel texte constitue la loi orale ?
+culture_g_score: 84
+culture_g_justification: "Texte fondamental du judaïsme rabbinique, le Talmud est utile pour les questions de religion, de droit, d’éthique et d’histoire intellectuelle."
 ---
-
 ![Image de Talmud](https://upload.wikimedia.org/wikipedia/commons/f/f2/First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg)
 
 ###### Questions

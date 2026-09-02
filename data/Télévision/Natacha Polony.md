@@ -20,8 +20,9 @@ indice_6 :
   - Critiques des politiques éducatives
 questions:
  - Quelle journaliste, ancienne chroniqueuse de l'émission "On n'est pas couché" est depuis 2018 la directrice de la rédaction de "Marianne (journal)"?
+culture_g_score: 55
+culture_g_justification: "Chroniqueuse médiatique identifiable par On n'est pas couché et Marianne, mais d'importance limitée dans une culture générale large."
 ---
-
 ![Image de Natacha Polony](https://upload.wikimedia.org/wikipedia/commons/7/76/Natacha_Polony_Cannes_2015.jpg)
 
 ###### Questions

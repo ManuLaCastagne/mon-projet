@@ -22,8 +22,9 @@ indice_6 :
   - danse Cakewalk
 questions:
  - Quelle musique de jazz, à l'origine écrite pour piano, est désignée par un nom anglais signifiant temps déchiqueté?
+culture_g_score: 60
+culture_g_justification: "Genre classique de l'histoire du jazz et de la musique américaine, surtout exploitable par Scott Joplin, la syncope et quelques morceaux célèbres."
 ---
-
 ![Image de Ragtime](https://upload.wikimedia.org/wikipedia/commons/c/cc/Sweet_Potatoes_A_Ragtime_March_1906.pdf)
 
 ###### Questions

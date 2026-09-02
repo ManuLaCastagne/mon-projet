@@ -22,9 +22,9 @@ indice_6 :
   - articles littéraires
 questions:
  - En 1994, quel quotidien régional a lancé une édition nationale, publiée sous le titre de "Aujourd'hui en France"?
+culture_g_score: 64
+culture_g_justification: "Quotidien largement connu en France, mais moins central dans les quiz de culture générale que les journaux de référence nationaux."
 ---
-
-
 ![Image de Le Parisien (journal)](https://upload.wikimedia.org/wikipedia/commons/4/41/Le_Parisien.jpg)
 
 ###### Questions

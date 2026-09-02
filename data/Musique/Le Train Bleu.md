@@ -22,9 +22,9 @@ indice_6 :
   - Un écrin de luxe
 questions:
  - Quel ballet mis en musique par Darius Milo sur un livret de Jean Cocteau doit son titre à un célèbre train des années 20 ?
+culture_g_score: 31
+culture_g_justification: "Ballet des Ballets russes associé à plusieurs artistes majeurs, mais lui-même très rarement demandé en culture générale."
 ---
-
-
 ![Image de Le Train Bleu](https://upload.wikimedia.org/wikipedia/commons/9/99/Le_Train_Bleu%2C_by_Vincent_van_Gogh%2C_from_C2RMF_cropped.jpg)
 
 ###### Questions

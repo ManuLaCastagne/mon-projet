@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la migration
 questions:
  - Quel canard est représenté par les espèces d'été et d'hiver ?
+culture_g_score: 40
+culture_g_justification: "Petit canard connu des ornithologues et des chasseurs, mais peu présent dans les questions de culture générale large."
 ---
-
 ![Image de Sarcelle](https://upload.wikimedia.org/wikipedia/commons/8/83/Sarcelle_cannelle_%28Spatula_cyanoptera%29.jpg)
 
 ###### Questions

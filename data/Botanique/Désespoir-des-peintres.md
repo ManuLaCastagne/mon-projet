@@ -13,8 +13,9 @@ indice_5:
   - Saxifrage
 indice_6:
   - Indice 6  Plante ornementale
+culture_g_score: 31
+culture_g_justification: "Surnom pittoresque d'une saxifrage, utile pour une question de vocabulaire botanique très ponctuelle."
 ---
-
 ![Image de Désespoir-des-peintres](https://upload.wikimedia.org/wikipedia/commons/e/e8/Saxifraga_x_urbium_02.JPG)
 
 ###### Questions

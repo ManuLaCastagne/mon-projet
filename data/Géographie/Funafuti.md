@@ -21,8 +21,9 @@ indice_5 :
   - île centrale
 indice_6 : 
   - océan Pacifique
+culture_g_score: 40
+culture_g_justification: "Capitale d’un micro-État souvent citée dans les quiz de géographie, mais offrant peu d’angles indépendants."
 ---
-
 ![Image de Funafuti](https://upload.wikimedia.org/wikipedia/commons/d/d4/Funafuti_township.jpg)
 
 ![[Carte_Funafuti.png]]

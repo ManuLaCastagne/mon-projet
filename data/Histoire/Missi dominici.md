@@ -20,8 +20,9 @@ indice_6 :
   - administration gouvernée
 questions:
  - Personnages historiques dont les fonctions ont été définies en 802, nous sommes des laïcs ou des ecclésiastiques, à l'exemple de Théodulfe d'Orléans et Leidrade. Nous nous déplaçons par 2 lors de missions de contrôle pour le compte des souverains carolingiens.
+culture_g_score: 52
+culture_g_justification: "Notion classique de l’administration carolingienne, souvent demandée dans des questions ciblées sur Charlemagne."
 ---
-
 ![Image de Missi dominici](https://upload.wikimedia.org/wikipedia/commons/b/bd/The_decline_of_the_missi_dominici_in_Frankish_Gaul_%28IA_declineofmissido00thomrich%29.pdf)
 
 ###### Questions

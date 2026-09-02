@@ -20,9 +20,9 @@ indice_6 :
   - Cyclisme
 questions:
  - En cyclisme, lors d'une étape de montagne, quel mot italien désigne le petit groupe de coureurs...
+culture_g_score: 40
+culture_g_justification: "Terme classique du cyclisme de montagne, utile dans quelques questions de vocabulaire du Tour mais peu transversal hors de ce contexte."
 ---
-
-
 ![Image de Gruppetto](https://upload.wikimedia.org/wikipedia/commons/8/89/Ornament_music.png)
 
 ###### Questions

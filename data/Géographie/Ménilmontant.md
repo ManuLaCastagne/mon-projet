@@ -24,8 +24,9 @@ indice_6 :
   - Saint-Fargeau
 questions:
  - Dans quel quartier du 20e arrondissement de Paris est-il né en 1888 ?
+culture_g_score: 60
+culture_g_justification: "Quartier parisien identifiable par le Père-Lachaise, la chanson et l’annexion de 1860, mais d’importance plus locale."
 ---
-
 ![Image de Ménilmontant](https://upload.wikimedia.org/wikipedia/commons/8/84/Paris%2C_Metro-Station_-M%C3%A9nilmontant-_--_2014_--_1382.jpg)
 
 ![[Carte_Ménilmontant.png]]

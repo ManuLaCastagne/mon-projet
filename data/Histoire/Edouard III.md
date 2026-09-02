@@ -19,8 +19,9 @@ indice_5:
   - fils d'Édouard II
 indice_6:
   - revendication du trône de France
+culture_g_score: 80
+culture_g_justification: "Roi central du déclenchement de la guerre de Cent Ans, de Crécy et de l’histoire monarchique anglaise."
 ---
-
 ![Image de Edouard III](https://upload.wikimedia.org/wikipedia/commons/e/ef/Edouard_III_et_Robert_III_d%27Artois.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Leia Organa
 questions:
  - En 1983, sous quel titre est sorti le volet de la saga "Star Wars" correspondant au 3e épisode de la trilogie...
+culture_g_score: 100
+culture_g_justification: "Épisode majeur de Star Wars, omniprésent dans les quiz grâce à son univers, ses personnages, son intrigue, ses créatures et son importance culturelle."
 ---
-
 ![Image de Retour du Jedi](https://upload.wikimedia.org/wikipedia/commons/3/31/La_Guerre_des_%C3%A9toiles_-_Le_Retour_du_Jedi_%28fond_noir%29%2C_Logo.png)
 
 ###### Questions

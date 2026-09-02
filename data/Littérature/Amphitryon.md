@@ -22,9 +22,9 @@ indice_6 :
   - Les Méprises
 questions:
  - De quel roi Zeus prend-il les traits pour séduire son épouse Alcmène?
+culture_g_score: 68
+culture_g_justification: "Amphitryon relie mythologie, naissance d'Héraclès et plusieurs adaptations théâtrales, notamment celle de Molière."
 ---
-
-
 ![Image de Amphitryon](https://upload.wikimedia.org/wikipedia/commons/1/1d/Juliette_Faber_-_Amphitryon_1946.jpg)
 
 ###### Questions

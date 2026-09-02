@@ -13,8 +13,9 @@ indice_5 :
   - Moutarde des champs
 indice_6 : 
   - Engrais vert
+culture_g_score: 60
+culture_g_justification: "Le sénevé est rentable grâce à son équivalence avec la moutarde et à la parabole biblique de la graine de moutarde."
 ---
-
 ![Image de Sénevé](https://upload.wikimedia.org/wikipedia/commons/7/76/Herik_17-10-2005_13.59.40.JPG)
 
 ###### Questions

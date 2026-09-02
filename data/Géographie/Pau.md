@@ -24,8 +24,9 @@ indice_6 :
   - Tour de France
 questions:
  - Ancienne capitale du Béarn puis des rois de Navarre, dominant le gave auquel mon nom...
+culture_g_score: 60
+culture_g_justification: "Ville française liée à Henri IV, aux Pyrénées, au Béarn et à un circuit automobile ancien, avec une rentabilité correcte mais limitée."
 ---
-
 ![Image de Pau](https://upload.wikimedia.org/wikipedia/commons/1/16/Montage_Pau_4.jpg)
 
 ![[Carte_Pau.png]]

@@ -24,8 +24,9 @@ indice_6 :
   - Broadway
 questions:
  - Sur quelle île de New York Central...
+culture_g_score: 96
+culture_g_justification: "Quartier mondialement célèbre, au croisement de l’histoire de New York, de la finance, de l’architecture, de l’immigration et de la culture populaire."
 ---
-
 ![Image de Manhattan](https://upload.wikimedia.org/wikipedia/commons/b/ba/Lower_Manhattan_from_Jersey_City_September_2020_panorama.jpg)
 
 ![[Carte_Manhattan.png]]

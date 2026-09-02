@@ -20,8 +20,9 @@ indice_6 :
   - scoliose
 questions:
  - Le 22 août 1485, quel roi d'Angleterre, ayant inspiré William Shakespeare, s'écria  "Un cheval! Un cheval! Mon royaume pour un cheval!" lors de la bataille de Bosworth?
+culture_g_score: 80
+culture_g_justification: "Souverain lié aux guerres des Deux-Roses, à Shakespeare et à la découverte de sa sépulture, avec plusieurs angles classiques de quiz."
 ---
-
 ![Image de Richard III](https://upload.wikimedia.org/wikipedia/commons/0/09/Richard_III_earliest_surviving_portrait.jpg)
 
 ###### Questions

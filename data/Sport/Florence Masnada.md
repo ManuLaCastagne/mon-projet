@@ -20,8 +20,9 @@ indice_6 :
   - Descente
 questions:
  - En 1992, aux JO d'Albertville, quelle Florence a été médaillée de bronze en combiné nordique ?
+culture_g_score: 40
+culture_g_justification: "Skieuse française médaillée olympique, elle peut apparaître dans des questions sur le ski alpin mais reste une référence secondaire."
 ---
-
 ![Image de Florence Masnada](https://upload.wikimedia.org/wikipedia/commons/c/cf/Florence_Masnada_-_Marraine_Odyssea_Chamb%C3%A9ry_2019_%28cropped%29.JPG)
 
 ###### Questions

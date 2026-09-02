@@ -22,9 +22,9 @@ indice_6 :
   - Whole Lotta Love
 questions:
  - Quel musicien, futur leader de Led Zeppelin, accompagnait E.Mitchell à la guitare, sur cette chanson?
+culture_g_score: 80
+culture_g_justification: "Guitariste fondateur de Led Zeppelin, il intervient dans de nombreuses questions sur le rock, les albums et l’histoire de la musique populaire."
 ---
-
-
 ![Image de Jimmy Page](https://upload.wikimedia.org/wikipedia/commons/9/9f/Jimmy_Page_at_the_Echo_music_award_2013.jpg)
 
 ###### Questions

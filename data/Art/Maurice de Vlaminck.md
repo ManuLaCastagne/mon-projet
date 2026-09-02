@@ -23,9 +23,9 @@ indice_6 :
   - Peintre français
 questions:
  - Quel peintre français, disparu en 1958, à 82 ans, s'étant souvent vanté de n'avoir jamais suivi un cours de peinture, est l'un des maîtres du fauvisme?
+culture_g_score: 52
+culture_g_justification: "Peintre fauve significatif mais moins incontournable que Matisse ou Derain, Vlaminck intervient surtout dans des questions sur le fauvisme."
 ---
-
-
 ![Image de Maurice de Vlaminck](https://upload.wikimedia.org/wikipedia/commons/3/3a/Derain_et_Vlaminck_en_1942.jpg)
 
 ###### Questions

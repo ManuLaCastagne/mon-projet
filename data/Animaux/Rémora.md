@@ -15,8 +15,9 @@ indice_6 :
   - Symbiose marine
 questions:
  - Poisson des mers tropicales et tempérées dont le nom signifie retardement en latin, je présente une particularité surprenante dont les peuples de l'océan Pacifique se servaient pour pêcher.  Poisson au corps fin et aérodynamique, je présente un exemple typique de commensalisme avec ma ventouse me permettant de me fixer sur les gros poissons...
+culture_g_score: 47
+culture_g_justification: "Poisson original par son disque ventouse et sa relation avec les requins, mais surtout mobilisé dans quelques questions zoologiques."
 ---
-
 ![Image de Rémora](https://upload.wikimedia.org/wikipedia/commons/a/ab/Remora_remora_2.jpg)
 
 ###### Questions

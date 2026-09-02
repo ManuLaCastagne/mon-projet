@@ -22,8 +22,9 @@ indice_6:
   - actrice américaine
 questions:
   - Apparaissant dans des films comme "Barb wire" et "Scary movie 3" et militant activement pour la défense de la cause animale, notamment lors d'un discours à l'Assemblée nationale en 2016, je participe 2 ans plus tard à l'émission télévisée "Danse avec les stars".  Actrice révélée par la série "Alerte à Malibu"...
+culture_g_score: 63
+culture_g_justification: "Personnalité très identifiable par Alerte à Malibu, Playboy et la culture populaire, mais d’importance artistique limitée."
 ---
-
 ![Image de Pamela Anderson](https://upload.wikimedia.org/wikipedia/commons/b/b0/Pamela_Anderson_2025_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Dignité épiscopale
 questions:
  - Dans le christianisme, quel mélange d'huile d'olive et de baume, béni par l'évêque le Jeudi saint...
+culture_g_score: 31
+culture_g_justification: "Élément liturgique catholique précis, le Saint Chrême reste une connaissance spécialisée et rarement décisive en quiz généraliste."
 ---
-
 ![Image de Saint Chrême](https://upload.wikimedia.org/wikipedia/commons/b/b9/Ampoule_Saint_Chr%C3%AAme.jpg)
 
 ###### Questions

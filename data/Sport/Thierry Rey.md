@@ -20,8 +20,9 @@ indice_6 :
   - Consultant sportif
 questions:
  - En 1980 à Moscou, quel judoka français remporte la médaille d'or des super-légers ?
+culture_g_score: 40
+culture_g_justification: "Champion olympique français de judo, mais référence ancienne et relativement secondaire dans les quiz généralistes."
 ---
-
 ![Image de Thierry Rey](https://upload.wikimedia.org/wikipedia/commons/6/69/Thierry_Rey%2C_french_judoka.jpg)
 
 ###### Questions

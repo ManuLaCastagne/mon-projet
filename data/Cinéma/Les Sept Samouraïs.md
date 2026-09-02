@@ -22,8 +22,9 @@ indice_6 :
   - Village assiégé
 questions:
  - Film en noir et blanc sorti en 1954, je suis resté longtemps le plus gros budget de l'histoire du cinéma de mon pays. Ayant contribué, plus que "Rashomon" à la notoriété de mon réalisateur  Akira Kurosawa, je fais revivre le Japon rural du XVIe siècle dans lequel de pauvres paysans, rançonnés par des brigands, recrutent des guerriers pour se défendre...
+culture_g_score: 87
+culture_g_justification: "Chef-d’œuvre mondial de Kurosawa, central pour le cinéma japonais, le western, les remakes, la mise en scène et l’influence cinématographique."
 ---
-
 ![Image de Sept Samouraïs](https://upload.wikimedia.org/wikipedia/commons/5/5c/Seven_Samurai_logo.jpg)
 
 ###### Questions

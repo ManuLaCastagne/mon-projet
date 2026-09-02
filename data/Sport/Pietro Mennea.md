@@ -20,8 +20,9 @@ indice_6 :
   - Mexico 1979
 questions:
  - Quel athlète italien fut détenteur du record du monde du 200 m de 79 à 96?
+culture_g_score: 60
+culture_g_justification: "Grand sprinteur italien, utile pour les questions sur le 200 mètres, les records et les Jeux de Moscou."
 ---
-
 ![Image de Pietro Mennea](https://upload.wikimedia.org/wikipedia/commons/6/62/Pietro_Mennea_1972.jpg)
 
 ###### Questions

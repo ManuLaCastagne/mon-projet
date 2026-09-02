@@ -13,8 +13,9 @@ indice_5:
   - Cobaye
 indice_6:
   - Animal de compagnie populaire
+culture_g_score: 64
+culture_g_justification: "Animal domestique classique, lié à l’expérimentation, à l’alimentation andine et à la vitamine C, avec plusieurs angles réutilisables."
 ---
-
 ![Image de Cochon d'Inde](https://upload.wikimedia.org/wikipedia/commons/a/af/Cochon_d%27Inde_%28Cavia_porcellus%29_%283%29.jpg)
 
 ###### Questions

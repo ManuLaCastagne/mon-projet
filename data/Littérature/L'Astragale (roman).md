@@ -23,8 +23,9 @@ indice_6 :
   - histoire d'amour clandestine
 questions:
  - Je dois mon titre à un petit os du pied que l'héroïne se brise en sautant du mur de sa prison.
+culture_g_score: 40
+culture_g_justification: "Roman autobiographique d’Albertine Sarrazin connu dans la littérature française, mais rarement décisif hors de quelques questions spécialisées."
 ---
-
 ![Image de L'Astragale (roman)](https://upload.wikimedia.org/wikipedia/commons/8/87/Astragal_przyk%C5%82ad_3.jpg)
 
 ###### Questions

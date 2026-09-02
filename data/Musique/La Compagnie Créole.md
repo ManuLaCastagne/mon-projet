@@ -22,8 +22,9 @@ indice_6 :
   - musique tropicale
 questions:
  - Groupe français dont le 1er disque est paru en 1976, je sors "Blogodo" en 82, album constitué de chansons traditionnelles. Composé de Clémence Bringtown, José Sébéloué, Guy Bevert, Julien Tarquin et Arthur Apatout, j'ai animé les fêtes des années 80 sur des rythmes de zouk et de biguine avec "Vive le douanier Rousseau"...
+culture_g_score: 53
+culture_g_justification: "Groupe très identifiable par ses tubes festifs et les Antilles, mais d’importance culturelle et de portée limitées."
 ---
-
 ![Image de La Compagnie Créole](https://upload.wikimedia.org/wikipedia/commons/5/5f/La_Compagnie_Creole.jpg)
 
 ###### Questions

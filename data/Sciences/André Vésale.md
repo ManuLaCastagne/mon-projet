@@ -20,8 +20,9 @@ indice_6 :
   - Père de l'anatomie moderne
 questions:
  - Quel médecin de Belgique né à Bruxelles en 1514 est considéré comme le fondateur de l'anatomie moderne ?
+culture_g_score: 67
+culture_g_justification: "Anatomiste fondateur de la médecine moderne, souvent cité avec Galien et la Renaissance, mais moins connu du grand public que les figures scientifiques majeures."
 ---
-
 ![Image de André Vésale](https://upload.wikimedia.org/wikipedia/commons/1/1d/Emile_Picault_-_Andr%C3%A9_V%C3%A9sale_02.jpg)
 
 ###### Questions

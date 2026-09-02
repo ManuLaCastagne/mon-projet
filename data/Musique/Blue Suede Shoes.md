@@ -22,8 +22,9 @@ indice_6 :
   - 1956
 questions:
  - En 1956, laquelle de ces chansons, évoquant des chaussures, commence par  "Well it's a one for the money, two for the show"?
+culture_g_score: 77
+culture_g_justification: "Grand classique du rock associé à la fois à Carl Perkins et Elvis Presley, avec des liens utiles vers le rockabilly."
 ---
-
 ![Image de Blue Suede Shoes](https://upload.wikimedia.org/wikipedia/commons/b/b7/Inspiration_for_the_song_%22Blue_Suede_Shoes%22.jpg)
 
 ###### Questions

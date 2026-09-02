@@ -21,8 +21,9 @@ indice_5 :
   - Halle de Milly-la-Forêt
 indice_6 : 
   - Conservatoire National des Plantes
+culture_g_score: 40
+culture_g_justification: "Commune surtout associée à Jean Cocteau et à quelques monuments locaux, donc peu prioritaire pour un généraliste."
 ---
-
 ![[Carte_Milly-la-Forêt.png]]
 
 ###### Questions

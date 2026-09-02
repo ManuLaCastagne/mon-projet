@@ -23,8 +23,9 @@ indice_6 :
   - Ballet national de Cuba
 questions:
  - Quelle danseuse et chorégraphe cubaine était quasiment aveugle depuis l'âge de 20 ans ?
+culture_g_score: 52
+culture_g_justification: "Grande figure du ballet cubain, utile pour la danse, Giselle et l’histoire culturelle de Cuba, mais relativement spécialisée dans les quiz."
 ---
-
 ![Image de Alicia Alonso](https://upload.wikimedia.org/wikipedia/commons/8/8f/Alicia_Alonso_by_Annemarie_Heinrich%2C_1958.jpg)
 
 ###### Questions

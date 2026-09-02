@@ -18,9 +18,9 @@ indice_5:
   - Augusta National
 indice_6:
   - Irlande du Nord
+culture_g_score: 68
+culture_g_justification: "Champion majeur du golf contemporain, régulièrement cité pour ses quatre Majeurs, la Ryder Cup et ses records de précocité."
 ---
-
-
 ![Image de Rory Mcllroy]()
 
 ###### Questions

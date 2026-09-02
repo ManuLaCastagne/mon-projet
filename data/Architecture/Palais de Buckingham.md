@@ -23,8 +23,9 @@ indice_6 :
   - grande salle de bal
 questions:
  - Palais comprenant 775 pièces dont à peine 19 servent aux réceptions. Ma 4e aile fut réalisée par Edward Blore, à partir de 1840, soit 3 ans après que je suis devenue une résidence officielle.
+culture_g_score: 88
+culture_g_justification: "Résidence emblématique de la monarchie britannique, Buckingham Palace revient dans les questions sur Londres, la royauté et l’histoire contemporaine."
 ---
-
 ![Image de Palais de Buckingham](https://upload.wikimedia.org/wikipedia/commons/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg)
 
 ###### Questions

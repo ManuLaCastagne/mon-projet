@@ -20,8 +20,9 @@ indice_5:
   - Raoul Cauvin
 indice_6:
   - Willy Lambil
+culture_g_score: 64
+culture_g_justification: "Série classique de la BD franco-belge, utile pour ses créateurs, ses héros et la guerre de Sécession, sans être un marronnier absolu."
 ---
-
 ![Image de Tuniques bleues](https://upload.wikimedia.org/wikipedia/commons/7/79/Les_tuniques_bleues_chez_Rombaldi.jpg)
 
 ###### Questions

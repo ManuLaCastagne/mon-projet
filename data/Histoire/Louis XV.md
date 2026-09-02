@@ -23,10 +23,9 @@ indice_6 :
 questions:
  - Intelligent mais velléitaire, mon long règne a connu les guerres de succession, la guerre de Sept Ans, l'opposition des parlements. Décédé en 1774, surnommé "le bien-aimé". Mon règne a débuté par la régence de Philippe d'Orléans.
  - En 1733, quel roi de France appuie son beau-père, Stanislas Leszczynski, lorsque la diète de Le Pianiste de Varsovie élit celui-ci roi de Pologne?
+culture_g_score: 80
+culture_g_justification: "Louis XV relie Ancien Régime, guerre de Sept Ans, Damiens, monarchie et histoire de Paris, avec une présence régulière en quiz."
 ---
-
-
-
 ![Image de Louis XV](https://upload.wikimedia.org/wikipedia/commons/c/c9/France_1717_2_Louis_d%E2%80%99or_%28Louis_XV%29.jpg)
 
 ###### Questions

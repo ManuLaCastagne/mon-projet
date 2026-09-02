@@ -18,8 +18,9 @@ indice_5 :
   - Gozer
 indice_6 : 
   - S.O.S. Fantômes
+culture_g_score: 93
+culture_g_justification: "Comédie fantastique emblématique des années 1980, exploitable à travers son casting, sa chanson, ses personnages et son succès."
 ---
-
 ![Image de Ghostbusters]()
 
 ###### Questions

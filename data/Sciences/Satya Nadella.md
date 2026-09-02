@@ -20,8 +20,9 @@ indice_5 :
   - indien
 indice_6 : 
   - transformation numérique
+culture_g_score: 60
+culture_g_justification: "Dirigeant technologique contemporain régulièrement cité, mais dont les angles de quiz restent surtout liés à Microsoft et à l'économie numérique."
 ---
-
 ![Image de Satya Nadella](https://upload.wikimedia.org/wikipedia/commons/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg)
 
 ###### Questions

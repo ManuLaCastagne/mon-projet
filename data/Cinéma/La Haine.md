@@ -22,9 +22,9 @@ indice_6 :
   - Noir et blanc
 questions:
  - En 1995, dans quel film Mathieu Kassovitz montre-t-il 24h de la vie de 3 copains dans leur quartier ?
+culture_g_score: 80
+culture_g_justification: "Film français majeur sur les banlieues et les tensions sociales, associé à Kassovitz, Cassel, Cannes et plusieurs références historiques contemporaines."
 ---
-
-
 ![Image de La Haine](https://upload.wikimedia.org/wikipedia/commons/b/bf/Sardou_-_La_haine.djvu)
 
 ###### Questions

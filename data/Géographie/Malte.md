@@ -22,8 +22,9 @@ indice_6 :
   - Membre de l'Union européenne depuis 2004
 questions:
  - Quel Etat et archipel de la Méditerranée, situé à 80 km au sud de la Sicile, occupe une superficie de 240 km2?
+culture_g_score: 80
+culture_g_justification: "État méditerranéen très rentable pour les chevaliers de Saint-Jean, l’histoire militaire, l’Union européenne, ses mégalithes et sa position stratégique."
 ---
-
 ![Image de Malte](https://upload.wikimedia.org/wikipedia/commons/a/a2/Schleswig%2C_Gedenktafel_f%C3%BCr_Malte_L.jpg)
 
 ![[Carte_Malte.png]]

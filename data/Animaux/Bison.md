@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la liberté dans le Far West
 questions:
  - Quel grand bovidé sauvage d'Amérique ou d'Europe possède un collier de fourrure laineuse et des cornes courtes ?
+culture_g_score: 88
+culture_g_justification: "Animal emblématique de l’Amérique du Nord, lié à l’histoire des peuples autochtones, à la conservation et à la géographie."
 ---
-
 ![Image de Bison](https://upload.wikimedia.org/wikipedia/commons/8/8d/American_bison_k5680-1.jpg)
 
 ###### Questions

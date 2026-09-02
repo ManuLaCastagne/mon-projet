@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la nuit
 questions:
  - Quel mammifère de l'ordre des chiroptères...
+culture_g_score: 88
+culture_g_justification: "Mammifère unique par le vol, associé à l’écholocation, aux écosystèmes, aux maladies et à de nombreuses questions scientifiques."
 ---
-
 ![Image de Chauve-souris](https://upload.wikimedia.org/wikipedia/commons/1/11/Cors%C3%A8que_23.jpg)
 
 ###### Questions

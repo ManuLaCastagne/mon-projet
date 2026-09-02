@@ -22,8 +22,9 @@ indice_6 :
   - Fathom
 questions:
  - En 1954, quelle actrice, en maillot de bain noir, échange un baiser passionné avec Burt Lancaster dans le film "Tant qu'il y aura des hommes"?
+culture_g_score: 64
+culture_g_justification: "Icône populaire du cinéma des années 1960, surtout connue pour quelques rôles et son image, avec une fréquence de quiz intermédiaire."
 ---
-
 ![Image de Raquel Welsh](https://upload.wikimedia.org/wikipedia/commons/3/35/Raquel_Welch_2000.jpg)
 
 ###### Questions

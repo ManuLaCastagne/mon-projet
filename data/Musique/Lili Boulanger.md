@@ -22,8 +22,9 @@ indice_6 :
   - Décédée à 24 ans
 questions:
  - Avant de mourir à 24 ans, quelle compositrice française dicte son œuvre "Pie Jesu" à sa sœur Nadia ?
+culture_g_score: 64
+culture_g_justification: "Compositrice française majeure et première femme lauréate du Prix de Rome, souvent mobilisée dans les questions sur la musique et la place des femmes."
 ---
-
 ![Image de Lili Boulanger](https://upload.wikimedia.org/wikipedia/commons/d/da/Lili_Boulanger_1.jpg)
 
 ###### Questions

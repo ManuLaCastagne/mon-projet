@@ -1,3 +1,8 @@
+---
+culture_g_score: 87
+culture_g_justification: "Œuvre majeure de Nietzsche, elle ouvre sur la philosophie, la musique, Kubrick et plusieurs concepts devenus classiques."
+---
+
 ###### Questions
 
 Quel ouvrage du philosophe allemand [[Friedrich Nietzsche]], publié entre 1883 et 1885, met en scène le prophète perse [[Zarathoustra]] pour exposer des concepts tels que le [[surhomme]], la volonté de puissance et l’[[éternel retour]] ?

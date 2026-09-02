@@ -21,8 +21,9 @@ indice_5 :
   - Lonja de la Seda
 indice_6 : 
   - Turia Gardens
+culture_g_score: 80
+culture_g_justification: "Valence est une grande ville espagnole fréquemment associée à la paella, aux Fallas, à Calatrava et à la Méditerranée."
 ---
-
 ![[Carte_Valencia.png]]
 ###### Questions
 

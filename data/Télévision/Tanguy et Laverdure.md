@@ -20,9 +20,9 @@ indice_6 :
   - mise en scène de la vie militaire aérienne
 questions:
  - Dans une série dont un des héros est le pilote de chasse Tanguy, quel personnage asperge de boue...
+culture_g_score: 44
+culture_g_justification: "Série française ancienne liée à la Guerre de Cent Ans et à la bande dessinée, intéressante mais rarement prioritaire."
 ---
-
-
 ![Image de Tanguy et Laverdure](https://upload.wikimedia.org/wikipedia/commons/4/47/Tanguy_et_Laverdure.jpg)
 
 ###### Questions

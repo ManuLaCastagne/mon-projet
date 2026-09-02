@@ -23,8 +23,9 @@ indice_6 :
   - Période bleue
 questions:
  - En 1905, à quel peintre espagnol doit-on la toile "Les Noces de Pierrette" réalisée pendant sa période bleue?
+culture_g_score: 100
+culture_g_justification: "Picasso est une figure universelle, exploitable en cubisme, peinture, guerre, biographies, périodes artistiques et culture du XXe siècle."
 ---
-
 ![Image de Pablo Picasso](https://upload.wikimedia.org/wikipedia/commons/b/b8/Portrait_de_Picasso%2C_1908.jpg)
 
 ###### Questions

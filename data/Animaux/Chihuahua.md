@@ -15,8 +15,9 @@ indice_6 :
   - Chien de compagnie
 questions:
  - Quel petit chien, descendant de l'ancien chien précolombien appelé téchichi, doit son nom à une région du Mexique?
+culture_g_score: 59
+culture_g_justification: "Race de chien très reconnaissable et parfois questionnée, mais d’importance culturelle et de rendement limités."
 ---
-
 ![Image de Chihuahua](https://upload.wikimedia.org/wikipedia/commons/b/be/Bandera_de_Chihuahua_M%C3%A9xico.png)
 
 ###### Questions

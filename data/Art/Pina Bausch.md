@@ -23,8 +23,9 @@ indice_6 :
   - Café Müller
 questions:
  - En 2007, quelle danseuse et chorégraphe allemande reçut le Lion d'or ?
+culture_g_score: 68
+culture_g_justification: "Pina Bausch est une grande figure de la danse contemporaine, mais ses questions concernent surtout un domaine culturel précis."
 ---
-
 ![Image de Pina Bausch](https://upload.wikimedia.org/wikipedia/commons/3/36/Wuppertal_Pina_Bausch_condolences_0003.jpg)
 
 ###### Questions

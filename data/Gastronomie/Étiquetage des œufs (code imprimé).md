@@ -20,8 +20,9 @@ indice_5 :
   - calibre de l'œuf
 indice_6 : 
   - traçabilité
+culture_g_score: 52
+culture_g_justification: "Dispositif réglementaire concret pouvant servir en gastronomie, consommation et traçabilité, sans être un marronnier."
 ---
-
 ![Image de Étiquetage des œufs (code imprimé)]()
 
 ###### Questions

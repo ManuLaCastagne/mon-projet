@@ -22,8 +22,9 @@ indice_6 :
   - Président de la République
 questions:
  - Inspiré des mémoires de mon héros et de la correspondance avec son épouse, je mêle vie privée et contexte historique et me conclus par le discours du 18 juin 1940.  Film historique réunissant Catherine Mouchet, Isabelle Carré et Lambert Wilson qui incarne donc de Gaulle
+culture_g_score: 32
+culture_g_justification: "Le titre renvoie ici au film biographique français de 2020, une œuvre récente dont la fréquence de quiz demeure faible."
 ---
-
 ![Image de De Gaulle](https://upload.wikimedia.org/wikipedia/commons/a/ac/31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg)
 
 ###### Questions

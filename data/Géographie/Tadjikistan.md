@@ -19,8 +19,9 @@ indice_5:
   - Haut-Badakhchan
 indice_6:
   - Tadjik
+culture_g_score: 52
+culture_g_justification: "État d'Asie centrale utile pour les questions de géographie post-soviétique, de montagnes et de frontières régionales."
 ---
-
 ![[Carte_Tadjikistan.png]]
 
 ###### Questions

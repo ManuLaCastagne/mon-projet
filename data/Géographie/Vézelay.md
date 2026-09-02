@@ -24,8 +24,9 @@ indice_6 :
   - village médiéval
 questions:
  - Quel village situé sur une haute colline dominant la Cure, est célèbre pour sa basilique romane ?
+culture_g_score: 67
+culture_g_justification: "Village patrimonial majeur, associé à l’UNESCO, à la basilique, aux croisades et aux chemins de Compostelle."
 ---
-
 ![Image de Vézelay](https://upload.wikimedia.org/wikipedia/commons/e/ed/V%C3%A9zelay_-_Enceinte_1.jpg)
 
 ![[Carte_Vézelay.png]]

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de puissance et de majesté
 questions:
  - Quel grand aigle des forêts tropicales d'Amérique centrale et méridionale doit son nom à un monstre fabuleux à tête de femme et au corps d'oiseau?
+culture_g_score: 60
+culture_g_justification: "Rapace spectaculaire associé à la mythologie, à l'Amérique du Sud et au Panama, avec plusieurs angles de quiz classiques."
 ---
-
 ![Image de Harpie](https://upload.wikimedia.org/wikipedia/commons/0/02/Lampadaire_Staatsoper_Vienne.jpg)
 
 ###### Questions

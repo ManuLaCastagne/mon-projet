@@ -20,9 +20,9 @@ indice_5:
   - Progressive rock
 indice_6:
   - David Gilmour
+culture_g_score: 100
+culture_g_justification: "Groupe incontournable du rock, associé à des albums, chansons, membres et innovations abondamment interrogés dans les quiz."
 ---
-
-
 ![Image de Pink Floyd](https://upload.wikimedia.org/wikipedia/commons/4/42/Montage_du_d%C3%B4me_Pink_Floyd_Dark_Side_of_the_Moon_360.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Séville
 questions:
  - Je séduis par mon charme les hommes qui me croisent, notamment le brigadier Don José.  Jeune cigarière créée par Prosper Mérimée et devenue l'héroïne d'un opéra de Georges Bizet, je finirai par mourir de la main du brigadier.
+culture_g_score: 68
+culture_g_justification: "Nouvelle classique à l’origine d’un opéra mondialement célèbre, offrant des liens littéraires et musicaux, mais le sujet précis du roman reste moins fréquent."
 ---
-
 ![Image de Carmen (roman)](https://upload.wikimedia.org/wikipedia/commons/7/7e/Santuario_de_Nuestra_Se%C3%B1ora_del_Carmen%2C_El_Carmen_de_Bol%C3%ADvar.jpg)
 
 ###### Questions

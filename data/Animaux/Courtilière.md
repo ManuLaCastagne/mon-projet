@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fertilité dans certaines cultures
 questions:
  - Quel est ce gros insecte des jardins, également appelé Taupe-grillon,  qui creuse des galeries à l'aide de ses pattes antérieures fouisseuses?
+culture_g_score: 40
+culture_g_justification: "Insecte original par ses pattes fouisseuses, mais rarement demandé en dehors de questions entomologiques spécialisées."
 ---
-
 ![Image de Courtilière](https://upload.wikimedia.org/wikipedia/commons/c/cf/Gryllotalpa_gryllotalpa_01.JPG)
 
 ###### Questions

@@ -20,12 +20,9 @@ indice_6 :
   - oppression des femmes
 questions:
  - Série américaine diffusée dès 2017, écrite par Bruce Miller, mes différentes catégories de personnages féminins comme les épouses et les Martha...
+culture_g_score: 80
+culture_g_justification: "Série contemporaine majeure, fréquemment citée pour son univers dystopique, Margaret Atwood, ses acteurs et ses récompenses."
 ---
-
-
-
-
-
 ![Image de La Servante écarlate](https://upload.wikimedia.org/wikipedia/commons/6/6e/The-handmaid-s-tale.png)
 
 ###### Questions

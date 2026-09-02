@@ -23,8 +23,9 @@ indice_6 :
   - XVIIIe siècle
 questions:
  - Ca, c'est une statue de Montesquieu érigée sur la place des Quinconces à Bordeaux. Quel roman philosophique prenant la forme d'une correspondance entre deux voyageurs qu'il fit paraître en 1721 ?
+culture_g_score: 80
+culture_g_justification: "Roman épistolaire classique de Montesquieu, riche en questions sur les Lumières, la satire, la tolérance et le regard étranger."
 ---
-
 ![Image de Lettres persanes](https://upload.wikimedia.org/wikipedia/commons/c/c4/Montesquieu_-_Lettres_persanes_II%2C_1873.djvu)
 
 ###### Questions

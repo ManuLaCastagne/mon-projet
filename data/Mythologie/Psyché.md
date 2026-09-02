@@ -19,9 +19,9 @@ indice_6 :
   - curiosité interdite
 questions:
  - Quelle très belle jeune femme couvre ses soeurs de cadeaux lorsqu'elles lui rendent visite dans le palais où elle vit avec Eros sans le savoir?
+culture_g_score: 72
+culture_g_justification: "Le récit de Psyché et Éros, transmis par Apulée, relie mythologie, littérature, symbolisme de l’âme et histoire de l’art, malgré une fréquence modérée."
 ---
-
-
 ![Image de Psyché](https://upload.wikimedia.org/wikipedia/commons/d/d5/Psych%C3%A9_de_C%C3%A9sar_Franck.jpg)
 
 ###### Questions

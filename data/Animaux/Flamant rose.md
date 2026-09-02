@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de grâce et d'élégance
 questions:
  - Quel grand échassier est représenté par l'espèce phoenicopterus roseus ?
+culture_g_score: 76
+culture_g_justification: "Le flamant rose est un animal très emblématique, souvent interrogé sur sa couleur, sa posture, son habitat et la Camargue."
 ---
-
-
 ![Image de Flamant rose](https://upload.wikimedia.org/wikipedia/commons/1/1f/Flamenco_com%C3%BAn_%28Phoenicopterus_roseus%29%2C_Walvis_Bay%2C_Namibia%2C_2018-08-05%2C_DD_30.jpg)
 
 ###### Questions

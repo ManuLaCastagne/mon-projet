@@ -20,8 +20,9 @@ indice_6 :
   - émission populaire
 questions:
  - Quel journaliste et pionnier de la télévision française, disparu en 2011, a animé de 1968 à 1975 l'émission "Les Dossiers de l'écran"?
+culture_g_score: 43
+culture_g_justification: "Journaliste et animateur de l'ancienne télévision française, susceptible d'apparaître ponctuellement mais peu incontournable."
 ---
-
 ![Image de Joseph Pasteur](https://upload.wikimedia.org/wikipedia/commons/2/27/Fran%C3%A7oise_Foliot_-_Mus%C3%A9e_Pasteur_-_Portrait_de_Jean-Joseph_Pasteur.jpg)
 
 ###### Questions

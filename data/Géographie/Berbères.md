@@ -20,9 +20,9 @@ indice_5:
   - Sahara
 indice_6:
   - Maghreb
+culture_g_score: 80
+culture_g_justification: "Peuple autochtone majeur du Maghreb, mobilisable en histoire, linguistique, géographie, colonisation et cultures nord-africaines."
 ---
-
-
 ![Image de Berbères](https://upload.wikimedia.org/wikipedia/commons/8/87/En-us-berbere.ogg)
 
 ![[Carte_Berbères.png]]

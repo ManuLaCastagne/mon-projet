@@ -24,9 +24,9 @@ indice_6 :
   - Haussmann
 questions:
  - Quelle avenue parisienne, appelée avenue de l'Impératrice lors de son ouverture en 1854, porte aujourd'hui le nom d'un maréchal de France?
+culture_g_score: 52
+culture_g_justification: "Avenue parisienne connue pour son prestige, l’Occupation et le Monopoly, mais dont les usages quiz restent relativement limités."
 ---
-
-
 ![Image de Avenue Foch](https://upload.wikimedia.org/wikipedia/commons/1/1c/Avenue_Foch_%28Luftaufnahme%29.JPG)
 
 ![[Carte_Avenue Foch.png]]

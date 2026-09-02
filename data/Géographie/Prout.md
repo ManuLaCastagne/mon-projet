@@ -22,8 +22,9 @@ indice_6 :
   - Latitudes
 questions:
  - Quelle rivière d'Europe orientale, constituant un affluent du Danube, porte un nom évoquant en français une onomatopée du langage enfantin?
+culture_g_score: 11
+culture_g_justification: "Le sujet identifié comme le Prout est obscur et ne fournit presque aucune connaissance fiable ou rentable pour un quiz généraliste."
 ---
-
 ![Image de Prout](https://upload.wikimedia.org/wikipedia/commons/5/5f/File-04-Maxates_fuscifimbria_%28Prout%29.jpg)
 
 ![[Carte_Prout.png]]

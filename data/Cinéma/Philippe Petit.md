@@ -22,8 +22,9 @@ indice_6 :
   - Oscar du meilleur film documentaire 2009
 questions:
  - En 2015, à quel funambule français, ayant évolué, en 74, entre les "twin towers" de New York, le film "The Walk  rêver plus haut"...
+culture_g_score: 73
+culture_g_justification: "L'exploit du World Trade Center, le funambulisme et les documentaires associés en font une référence très questionnable malgré un domaine étroit."
 ---
-
 ![Image de Philippe Petit](https://upload.wikimedia.org/wikipedia/commons/c/c8/PhilippePetitAAFeb09.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - événements littéraires
 questions:
  - Quel journal économique et financier, devenu quotidien en 1928, est issu d'un mensuel lancé 20 ans plus tôt?
+culture_g_score: 36
+culture_g_justification: "La section littéraire des Échos est un objet éditorial très précis, nettement moins rentable que le journal lui-même."
 ---
-
-
 ![Image de Les Échos](https://upload.wikimedia.org/wikipedia/commons/5/51/%C3%89chos_de_l%27Exportation.jpg)
 
 ###### Questions

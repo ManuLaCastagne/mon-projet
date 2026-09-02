@@ -24,8 +24,9 @@ indice_6 :
   - Université de Tours
 questions:
  - Quelle ville, appelée la "porte d'entrée de la Loire", abrite la cathédrale Saint-Gatien ?
+culture_g_score: 71
+culture_g_justification: "Tours est une ville française importante, liée à la Loire, à saint Martin, à la Renaissance et aux châteaux voisins, mais son interrogation est variable."
 ---
-
 ![Image de Tours](https://upload.wikimedia.org/wikipedia/commons/7/7e/Cath%C3%A9drale_Saint-Gatien_-_portail_%28Tours%29.jpg)
 
 ![[Carte_Tours.png]]

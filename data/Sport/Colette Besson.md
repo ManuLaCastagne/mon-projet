@@ -20,8 +20,9 @@ indice_6 :
   - Grenoble
 questions:
  - Quelle atthlète française a remporté la médaille d'or à Cinéma/Mexico en 1968 lors du 400 m ?
+culture_g_score: 60
+culture_g_justification: "Championne olympique française de 1968, surtout retenue pour sa victoire surprise et son duel mémorable sur 400 mètres."
 ---
-
 ![Image de Colette Besson](https://upload.wikimedia.org/wikipedia/commons/7/7f/Colette_Besson_1968.jpg)
 
 ###### Questions

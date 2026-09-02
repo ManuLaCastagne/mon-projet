@@ -24,8 +24,9 @@ indice_6 :
   - région agricole
 questions:
  - Quelle cathédrale du sud de l'Angleterre, dans le Kent, mélangeant le roman au gothique, abrite la plus riche collection de vitraux du Royaume-Uni?
+culture_g_score: 80
+culture_g_justification: "Ville très rentable grâce à sa cathédrale, Thomas Becket, le pèlerinage médiéval et les Contes de Chaucer."
 ---
-
 ![Image de Canterbury](https://upload.wikimedia.org/wikipedia/commons/a/a4/River_Stour_in_Canterbury%2C_England_-_May_08.jpg)
 
 ![[Carte_Canterbury.png]]

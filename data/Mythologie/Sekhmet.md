@@ -16,11 +16,9 @@ indice_5:
   - déesse du soleil
 indice_6:
   - protectrice des pharaons
+culture_g_score: 64
+culture_g_justification: "Déesse égyptienne à tête de lionne, Sekhmet est une divinité importante mais relativement spécialisée, connue surtout par quelques mythes et son iconographie."
 ---
-
-
-
-
 ![Image de Sekhmet](https://upload.wikimedia.org/wikipedia/commons/0/05/Sekhmet_%28Goddess%29.png)
 
 ###### Questions

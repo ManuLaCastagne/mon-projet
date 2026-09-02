@@ -23,7 +23,8 @@ indice_6 :
   - Poésie
 questions:
  - En 2020, de quel écrivain belge, prix Nobel en 1911, les oeuvres sont-elles tombées dans le domaine public, devenant ainsi libres de droits?
-culture_g_score: 64
+culture_g_score: 68
+culture_g_justification: "Lauréat du Nobel et représentant important du symbolisme, Maeterlinck relie littérature, théâtre, Belgique et imaginaire fantastique."
 ---
 ![Image de Maurice Maeterlinck](https://upload.wikimedia.org/wikipedia/commons/c/cf/Picture_of_Maurice_Maeterlinck.jpg)
 

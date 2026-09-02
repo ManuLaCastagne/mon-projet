@@ -18,8 +18,9 @@ indice_5 :
   - Docteur de l'Église
 indice_6 : 
   - Monastère de Basile
+culture_g_score: 48
+culture_g_justification: "Père de l’Église important, mais Saint-Basile reste une référence religieuse relativement spécialisée dans les quiz généralistes."
 ---
-
 ![Image de Saint-Basile](https://upload.wikimedia.org/wikipedia/commons/e/e2/Saint_basile-1.jpg)
 
 ###### Questions

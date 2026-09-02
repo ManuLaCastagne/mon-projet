@@ -22,9 +22,9 @@ indice_6 :
   - Edge City
 questions:
  - En 1994, dans quel film Jim Carrey interprète-t-il un employé de banque se transformant...
+culture_g_score: 73
+culture_g_justification: "Comédie emblématique des années 1990, rentable grâce à Jim Carrey, Cameron Diaz, Dark Horse et ses effets visuels."
 ---
-
-
 ![Image de The Mask](https://upload.wikimedia.org/wikipedia/commons/6/60/Apy%C3%A3wa_%28Tapirape%29_Mask_MHNT.ETH.AC.1732.jpg)
 
 ###### Questions

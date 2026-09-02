@@ -20,8 +20,9 @@ indice_6 :
   - Début de règne en 1952
 questions:
  - De quelle souveraine, fille du roi George VI, les prince William et prince Harry sont-ils les petits-fils ?
+culture_g_score: 96
+culture_g_justification: "Monarque britannique mondialement connue, offrant de nombreux repères sur la monarchie, le Commonwealth et l’histoire contemporaine."
 ---
-
 ![Image de Elizabeth II](https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg)
 
 ###### Questions

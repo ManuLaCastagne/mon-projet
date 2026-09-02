@@ -20,8 +20,9 @@ indice_6 :
   - déportée en Nouvelle-Calédonie
 questions:
  - Quelle institutrice et anarchiste française, surnommée...
+culture_g_score: 80
+culture_g_justification: "Louise Michel est une figure forte de la Commune, de l’anarchisme, du féminisme et de l’histoire sociale française."
 ---
-
 ![Image de Louise Michel](https://upload.wikimedia.org/wikipedia/commons/1/13/Louise_Michel%2C_grayscale.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6:
   - Multiplication végétale
 questions:
   - Quel opération en horticulture "en écusson" ou "en fente"…
+culture_g_score: 68
+culture_g_justification: "Technique horticole classique offrant des liens avec l'agriculture, la viticulture, les arbres fruitiers et le vocabulaire spécialisé."
 ---
-
 ![Image de Greffe](https://upload.wikimedia.org/wikipedia/commons/b/b8/Cherry_tree_grafting_3.jpg)
 
 ###### Questions

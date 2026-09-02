@@ -18,8 +18,9 @@ indice_5 :
   - Take Me Out
 indice_6 : 
   - Post-punk revival
+culture_g_score: 64
+culture_g_justification: "Groupe de rock des années 2000 connu pour « Take Me Out », mais encore moins transversal que les grandes formations historiques."
 ---
-
 ![Image de Franz Ferdinand](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/LesEscales2019FranzFerdinand_02.jpg/3840px-LesEscales2019FranzFerdinand_02.jpg)
 
 ###### Questions

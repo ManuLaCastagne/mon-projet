@@ -18,8 +18,9 @@ indice_6 :
   - atelier souterrain
 questions:
  - Ce dieu grec qui, durant la Gigantomachie, tue le géant Clytios.
+culture_g_score: 60
+culture_g_justification: "Dieu grec important mais moins incontournable que les grandes divinités olympiennes, surtout interrogé à travers la forge, le feu et les armes d’Achille."
 ---
-
 ![Image de Héphaïstos](https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0_%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D0%B0_2212_%28%D0%BD%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%29.png)
 
 ###### Questions

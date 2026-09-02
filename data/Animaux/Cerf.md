@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de noblesse
 questions:
  - Ruminant dont l'espèce dite du père David fut en partie sauvée grâce au 11e duc de Bedford, je suis généralement de grande taille et possède une robe de couleur jaune clair à brun foncé. Vivant seul ou en harde dans les forêts, doté de bois ramifiés...
+culture_g_score: 84
+culture_g_justification: "Animal emblématique de la forêt et de la chasse, relié à Bambi, à la littérature, à l’histoire et à la zoologie."
 ---
-
 ![Image de Cerf](https://upload.wikimedia.org/wikipedia/commons/c/c4/Vint_Cerf_in_Rome_%282014%29_26.jpg)
 
 ###### Questions

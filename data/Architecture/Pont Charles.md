@@ -23,8 +23,9 @@ indice_6 :
   - 30 mètres de haut
 questions:
  - Construit en blocs de grès, orné de 30 statues représentant des saints, je relie par 16 arches 2 rives. Pont de Prague nommé en l'honneur du roi qui me fit  construire dès 1357.
+culture_g_score: 80
+culture_g_justification: "Monument emblématique de Prague, exploitable par l'histoire de Charles IV, le gothique, les statues et le tourisme européen."
 ---
-
 ![Image de Pont Charles](https://upload.wikimedia.org/wikipedia/commons/c/c4/Seine_river_from_Pont_Charles-de-Gaulle_in_Paris.jpg)
 
 ###### Questions

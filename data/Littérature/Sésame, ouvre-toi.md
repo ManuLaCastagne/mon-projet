@@ -22,8 +22,9 @@ indice_6 :
   - formule magique
 questions:
  - Phrase d'abord prononcée par un homme qui se fait appeler Cogia Houssain à la fin d'un récit traduit par Antoine Galland, je suis ensuite reprise par le héros de l'histoire. Formule oubliée par le frère de ce dernier, qui ne peut sortir d'un lieu dans lequel...
+culture_g_score: 73
+culture_g_justification: "Formule immédiatement associée à Ali Baba et aux Mille et Une Nuits, offrant des entrées littéraires, culturelles et linguistiques fréquentes en quiz."
 ---
-
 ![Image de Sésame, ouvre-toi](https://upload.wikimedia.org/wikipedia/commons/7/74/Open_Sesame_Mem_Park_Cem_Memphis_TN_2.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Cinéma français contemporain
 questions:
  - A quel réalisateur français né en 1970 doit-on les films "Les Chansons d'amour", "La Belle Personne" et "Les Bien-aimés" ?
+culture_g_score: 51
+culture_g_justification: "Réalisateur important du cinéma français contemporain, mais encore relativement spécialisé dans les quiz généralistes."
 ---
-
 ![Image de Christophe Honoré](https://upload.wikimedia.org/wikipedia/commons/8/8e/Christophe_Honor%C3%A9.jpg)
 
 ###### Questions

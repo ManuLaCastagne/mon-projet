@@ -22,8 +22,9 @@ indice_6 :
   - Dr. Beat
 questions:
  - Quel groupe mené par Gloria Estefan chante "Conga" en 1985 ?
+culture_g_score: 48
+culture_g_justification: "Formation importante de la pop latino grâce à Gloria Estefan, mais moins connue comme sujet autonome dans les quiz généralistes."
 ---
-
 ![Image de Miami Sound Machine](https://upload.wikimedia.org/wikipedia/commons/c/c5/MSM_sunset_02.JPG)
 
 ###### Questions

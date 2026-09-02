@@ -21,6 +21,8 @@ indice_5:
   - histoire d'amour controversée
 indice_6:
   - lycéenne et professeur
+culture_g_score: 51
+culture_g_justification: "Film français connu pour Vanessa Paradis et son sujet controversé, mais qui fournit peu de connaissances réutilisables."
 ---
 ![[Pasted image 20260803212812.png]]
 ###### Questions

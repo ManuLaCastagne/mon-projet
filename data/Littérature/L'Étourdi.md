@@ -18,8 +18,9 @@ indice_5:
   - Valère
 indice_6:
   - 1655
+culture_g_score: 40
+culture_g_justification: "Pièce ancienne de Molière, elle est nettement moins connue et moins interrogée que ses grandes comédies."
 ---
-
 ![Image de L'Étourdi](https://upload.wikimedia.org/wikipedia/commons/7/71/Etourdi_Moliere.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - musique instrumentale
 indice_6 : 
   - années 1960
+culture_g_score: 61
+culture_g_justification: "Morceau facilement relié à Dick Dale, au surf rock, aux reprises et à Pulp Fiction, ce qui lui donne un bon rendement malgré son statut d’œuvre précise."
 ---
-
 ![Image de Misirlou](https://upload.wikimedia.org/wikipedia/commons/6/66/Miserlou_-_Strolling_Strings_-_United_States_Air_Force_Band.mp3)
 
 ###### Questions

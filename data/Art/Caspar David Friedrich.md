@@ -21,10 +21,9 @@ indice_5:
   - lumières et cieux
 indice_6:
   - introspection et solitude
+culture_g_score: 80
+culture_g_justification: "Grande figure du romantisme allemand, ses paysages et la notion de sublime sont des repères fréquents de l’histoire de l’art."
 ---
-
-
-
 ![Image de Caspar David Friedrich](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
 
 ###### Questions

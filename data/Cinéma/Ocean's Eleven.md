@@ -22,8 +22,9 @@ indice_6 :
   - remake d'un film de 1960
 questions:
  - En 2002, quel film de Steven Soderbergh évoque le cambriolage par 11 spécialistes du coffre-fort d'un casino de Las Vegas?
+culture_g_score: 73
+culture_g_justification: "Film de braquage très populaire, identifiable par son casting, son réalisateur, son intrigue et ses suites, ce qui le rend souvent exploitable en quiz."
 ---
-
 ![Image de Ocean's Eleven](https://upload.wikimedia.org/wikipedia/commons/a/a3/OceansElevenTimeline.png)
 
 ###### Questions

@@ -13,10 +13,9 @@ indice_5:
   - Antilope à nez tacheté
 indice_6:
   - Symbole de survie en milieu aride
+culture_g_score: 40
+culture_g_justification: "Antilope désertique remarquable mais rarement demandée hors des quiz spécialisés sur la faune africaine."
 ---
-
-
-
 ![Image de Addax](https://upload.wikimedia.org/wikipedia/commons/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg)
 
 ###### Questions

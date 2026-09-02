@@ -20,8 +20,9 @@ indice_6 :
   - armée prussienne
 questions:
  - Quel maréchal de France n'a pu empêcher la jonction entre...
+culture_g_score: 59
+culture_g_justification: "Général surtout retenu pour la controverse de Waterloo, sujet classique mais relativement étroit de l'histoire napoléonienne."
 ---
-
 ![Image de Grouchy](https://upload.wikimedia.org/wikipedia/commons/a/a2/Standbeeld_van_Jean_de_Grouchy_in_Harfleur%2C_RP-F-2007-66-13-1.jpg)
 
 ###### Questions

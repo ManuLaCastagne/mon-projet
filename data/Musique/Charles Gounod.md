@@ -22,8 +22,9 @@ indice_6 :
   - Mireille
 questions:
  - En 1859, musique,  à quel compositeur français doit-on l'opéra "Faust", célèbre...
+culture_g_score: 80
+culture_g_justification: "Compositeur français classique fréquemment associé à Faust, à l’Ave Maria, à la musique religieuse et au XIXe siècle."
 ---
-
 ![Image de Charles Gounod](https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Gounod_%281890%29_by_Nadar.jpg)
 
 ###### Questions

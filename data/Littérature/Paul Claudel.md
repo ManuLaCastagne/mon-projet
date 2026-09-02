@@ -22,8 +22,9 @@ indice_6 :
   - Diplomate et écrivain du XIXe et XXe siècle
 questions:
  - Le bonheur n'est pas le but, mais le moyen de la vie" dans "Le soulier de satin" ?
+culture_g_score: 67
+culture_g_justification: "Auteur, dramaturge, diplomate et académicien, souvent relié à Camille Claudel, au catholicisme et au théâtre français."
 ---
-
 ![Image de Paul Claudel](https://upload.wikimedia.org/wikipedia/commons/c/c5/Augustins_-_Paul_Claudel_%C3%A0_seize_ans_-_Camille_Claudel_RA_941.jpg)
 
 ###### Questions

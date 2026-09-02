@@ -20,8 +20,9 @@ indice_6 :
   - ambiance sombre et mystérieuse
 questions:
  - Une unité opérant dans des affaires de meurtres en série.  Série de Jean-Christophe Grangé avec Olivier Marchal dans le rôle du commissaire Niemans...
+culture_g_score: 44
+culture_g_justification: "Adaptation française connue d'un thriller littéraire, pouvant être interrogée avec Grangé et ses personnages mais assez rarement."
 ---
-
 ![Image de Les Rivières pourpres](https://upload.wikimedia.org/wikipedia/commons/5/56/Film_-_Les_Rivi%C3%A8res_Pourpres_-_Making_Of.webm)
 
 ###### Questions

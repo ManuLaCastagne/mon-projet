@@ -13,9 +13,9 @@ indice_5:
   - Fossile vivant
 indice_6:
   - Symbole de perfection géométrique
+culture_g_score: 72
+culture_g_justification: "Céphalopode à coquille très célèbre, utile pour des questions d’évolution, de paléontologie, de biologie marine et de fossiles vivants."
 ---
-
-
 ![Image de Nautile](https://upload.wikimedia.org/wikipedia/commons/d/d9/Nautilus_belauensis_profile.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ###### Questions

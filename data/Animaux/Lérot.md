@@ -15,8 +15,9 @@ indice_6 :
   - Personnage du folklore français
 questions:
  - Quel rongeur voisin du loir se reconnaît à son masque noir et à sa queue en pinceau ?
+culture_g_score: 32
+culture_g_justification: "Petit rongeur européen identifiable par quelques caractéristiques originales, mais très peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Lérot](https://upload.wikimedia.org/wikipedia/commons/2/2e/Eliomys_quercinus_MHNT.ZOO.2010.11.236.6.jpg)
 
 ###### Questions

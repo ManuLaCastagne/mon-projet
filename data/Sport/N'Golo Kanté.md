@@ -20,8 +20,9 @@ indice_6 :
   - Ballon d'Or
 questions:
  - Footballeur ayant inscrit mon 1er but en sélection nationale, le 29 mars 2016, jour de mon 25e anniversaire. J'ai commencé à l'US Boulogne. Double champion d'Angleterre.
+culture_g_score: 73
+culture_g_justification: "Champion du monde français très médiatisé, associé à Chelsea, Leicester et à plusieurs records de la Premier League."
 ---
-
 ![Image de N'Golo Kanté](https://upload.wikimedia.org/wikipedia/commons/0/05/N%27Golo_Kant%C3%A9_%28cropped%29.jpg)
 
 ###### Questions

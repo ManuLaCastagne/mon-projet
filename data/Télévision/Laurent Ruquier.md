@@ -19,8 +19,9 @@ indice_5 :
   - Originaire du Havre
 indice_6 : 
   - Compagnon de Benoît Petitjean
+culture_g_score: 76
+culture_g_justification: "Animateur, humoriste, auteur et figure radiophonique très présents dans les quiz consacrés aux médias français."
 ---
-
 ![Image de Laurent Ruquier](https://upload.wikimedia.org/wikipedia/commons/1/15/Casino_de_Paris_2013_-_Laurent_Ruquier.jpg)
 
 ###### Questions

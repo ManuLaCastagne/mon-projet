@@ -20,8 +20,9 @@ indice_6 :
   - massacres
 questions:
  - A quelle série de conflits qui, dès 1562, opposèrent catholiques et protestants...
+culture_g_score: 84
+culture_g_justification: "Épisode majeur de l'histoire de France, directement relié aux huguenots, à la Saint-Barthélemy, à Henri IV et à l'édit de Nantes."
 ---
-
 ![Image de Guerres de Religion](https://upload.wikimedia.org/wikipedia/commons/f/f0/Plan_de_Montpellier_avant_les_guerres_de_religion_%28vers_1737%29.JPG)
 
 ###### Questions

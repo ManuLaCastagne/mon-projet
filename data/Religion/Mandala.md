@@ -20,9 +20,9 @@ indice_6 :
   - Art sacré
 questions:
  - Quelle représentation géométrique, servant de support à la méditation dans le tantrisme hindou et bouddhique, porte un nom signifiant cercle en sanskrit ?
+culture_g_score: 72
+culture_g_justification: "Concept religieux et artistique reconnaissable, le mandala relie bouddhisme, hindouisme, symbolisme, méditation et culture populaire."
 ---
-
-
 ![Image de Mandala](https://upload.wikimedia.org/wikipedia/commons/0/01/Girl_with_mandala_in_backgound.jpg)
 
 ###### Questions

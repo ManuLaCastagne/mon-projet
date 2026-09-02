@@ -22,8 +22,9 @@ indice_6 :
   - thriller psychologique
 questions:
  - Dans quel thriller de David Lynch avec Naomi Watts et Laura Elena Harring, une femme amnésique se lie-t-elle d'amitié avec une starlette?
+culture_g_score: 80
+culture_g_justification: "Film culte de David Lynch, régulièrement interrogé pour Cannes, sa narration onirique, ses acteurs et son influence cinématographique."
 ---
-
 ![Image de Mulholland Drive](https://upload.wikimedia.org/wikipedia/commons/0/0a/Mulholland_Drive_%285465911964%29.jpg)
 
 ###### Questions

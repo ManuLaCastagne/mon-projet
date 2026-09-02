@@ -18,9 +18,9 @@ indice_5 :
   - Missi dominici
 indice_6 : 
   - Capitulaire de Villis
+culture_g_score: 100
+culture_g_justification: "Souverain fondamental du Moyen Âge européen, associé à l’Empire, à l’éducation, à l’Église, aux conquêtes et à la Renaissance carolingienne."
 ---
-
-
 ![Image de Charlemagne](https://upload.wikimedia.org/wikipedia/commons/d/d0/Charlemagne_Agostino_Cornacchini_Vatican_2.jpg)
 
 ###### Questions

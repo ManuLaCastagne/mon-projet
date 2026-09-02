@@ -18,8 +18,9 @@ indice_5 :
   - Surface
 indice_6 : 
   - Office
+culture_g_score: 85
+culture_g_justification: "Entreprise mondiale incontournable, permettant des questions sur l’informatique personnelle, Bill Gates, Windows, les logiciels et l’industrie technologique."
 ---
-
 ![Image de Microsoft](https://upload.wikimedia.org/wikipedia/commons/3/30/Building92microsoft.jpg)
 
 ###### Questions

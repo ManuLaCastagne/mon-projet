@@ -23,8 +23,9 @@ indice_6 :
   - UNESCO patrimoine mondial
 questions:
  - Quel phare établi à l'embouchure de l'estuaire de la Gironde...
+culture_g_score: 64
+culture_g_justification: "Phare français exceptionnel, utile pour le patrimoine maritime, l’architecture, la Gironde et le classement UNESCO."
 ---
-
 ![Image de Cordouan](https://upload.wikimedia.org/wikipedia/commons/7/79/Btv1b10572088s_phare_de_Cordouan_retouche.jpg)
 
 ###### Questions

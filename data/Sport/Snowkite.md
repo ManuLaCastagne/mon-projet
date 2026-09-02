@@ -20,9 +20,9 @@ indice_6 :
   - Harness
 questions:
  - Quel sport consistant à surfer sur la neige en étant mû par un cerf-volant porte un nom anglais qui est traduit par planche à neige tractée?
+culture_g_score: 27
+culture_g_justification: "Sport de glisse confidentiel, offrant quelques repères sur le kitesurf et les sports d’hiver mais très peu présent dans les quiz généralistes."
 ---
-
-
 ![Image de Snowkite](https://upload.wikimedia.org/wikipedia/commons/1/1e/Kite_boarding.jpg)
 
 ###### Questions

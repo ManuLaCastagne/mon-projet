@@ -20,8 +20,9 @@ indice_6 :
   - Office de Radiodiffusion-Télévision Française
 questions:
  - Quelle société chargée du service public de l'audiovisuel a décidé de dissoudre...
+culture_g_score: 73
+culture_g_justification: "Institution centrale de l’audiovisuel français, fréquemment liée à la télévision publique, à sa dissolution et à l’histoire des médias."
 ---
-
 ![Image de ORTF](https://upload.wikimedia.org/wikipedia/commons/a/a7/Affiche_ORTF-_Archives_nationales-_20160234-9.jpg)
 
 ###### Questions

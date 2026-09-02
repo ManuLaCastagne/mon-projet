@@ -20,8 +20,9 @@ indice_5 :
   - flamme olympique allumée par une flèche enflammée
 indice_6 : 
   - marathon remporté par le Sud-Coréen Hwang Young-cho
+culture_g_score: 80
+culture_g_justification: "Édition olympique très classique, liée au Dream Team, à l'histoire olympique, à plusieurs exploits sportifs et à la ville de Barcelone."
 ---
-
 ![Image de Barcelone 1992](https://upload.wikimedia.org/wikipedia/commons/7/71/1992_Barcelona_Olympic_Torch.jpg)
 
 ###### Questions

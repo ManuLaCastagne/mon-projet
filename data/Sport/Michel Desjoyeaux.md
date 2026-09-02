@@ -20,8 +20,9 @@ indice_6 :
   - Team Foncia
 questions:
  - Aux côtés d'Eric Tabarly avant de remporter la Solitaire du Figaro devant Jean Le Cam en 1992, je possède l'un des plus beaux palmarès de la voile avec plus de 25 victoires à mon actif. Seul navigateur à avoir remporté à 2 reprises le Vendée Globe...
+culture_g_score: 64
+culture_g_justification: "Grand navigateur français, régulièrement associé au Vendée Globe et à plusieurs courses majeures, mais dans un domaine spécialisé."
 ---
-
 ![Image de Michel Desjoyeaux](https://upload.wikimedia.org/wikipedia/commons/a/ac/Transat_Jacques_Vabre_2013_-_Michel_Desjoyeaux_05.JPG)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - Bel canto
 indice_6:
   - Festival de Salzbourg
+culture_g_score: 71
+culture_g_justification: "Soprano majeure rendue particulièrement mémorable par son duo avec Freddie Mercury, tout en restant une connaissance d’opéra relativement spécialisée."
 ---
-
-
 ![Image de Montserrat Caballé](https://upload.wikimedia.org/wikipedia/commons/9/9a/Montserrat_Caball%C3%A9_1971c.jpg)
 
 ###### Questions

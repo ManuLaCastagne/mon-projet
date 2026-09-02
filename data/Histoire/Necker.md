@@ -20,8 +20,9 @@ indice_6 :
   - renvoi après l'Assemblée des notables
 questions:
  - A quel hôpital parisien, fondé en 1778 par l'épouse d'un ministre de Louis XVI.
+culture_g_score: 64
+culture_g_justification: "Ministre des Finances de Louis XVI associé à la crise précédant la Révolution, mais parfois confondu avec l’hôpital homonyme."
 ---
-
 ![Image de Necker](https://upload.wikimedia.org/wikipedia/commons/8/81/Necker_-_Des_inhumations_pr%C3%A9cipit%C3%A9es%2C_1790.pdf)
 
 ###### Questions

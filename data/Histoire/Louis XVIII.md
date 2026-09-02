@@ -20,9 +20,9 @@ indice_6:
   - retour sur le trône en 1814 et 1815
 questions:
   - En 1823, quel roi de France annonce que 100 000 Français sont prêts à se rendre en Espagne pour rétablir Ferdinand VII dans la plénitude de ses pouvoirs?
+culture_g_score: 71
+culture_g_justification: "Louis XVIII est utile pour comprendre la Restauration et l’après-Napoléon, mais il est moins présent que les souverains révolutionnaires."
 ---
-
-
 ![Image de Louis XVIII](https://upload.wikimedia.org/wikipedia/commons/7/77/G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg)
 
 ###### Questions

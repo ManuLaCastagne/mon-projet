@@ -22,8 +22,9 @@ indice_6 :
   - Fils de réalisateur américain
 questions:
  - Qui chante en 1976  "Ca va pas changer le monde" ?
+culture_g_score: 73
+culture_g_justification: "Grande figure de la chanson francophone, régulièrement associée à plusieurs tubes et à ses origines franco-américaines."
 ---
-
 ![Image de Joe Dassin](https://upload.wikimedia.org/wikipedia/commons/c/c9/Joe_Dassin_1970.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_6 :
   - présentatrice
 questions:
  - Quel journaliste présente le magazine culturel "Le doc stupéfiant" sur France 5 lancé en 2016 sur France 2 sous le titre "Stupéfiant!" ?
+culture_g_score: 64
+culture_g_justification: "Journaliste et animatrice française très présente dans l'actualité audiovisuelle, avec plusieurs émissions et interlocuteurs récurrents."
 ---
-
 ![Image de Léa Salamé](https://upload.wikimedia.org/wikipedia/commons/a/a2/Fr-L%C3%A9a_Salam%C3%A9.ogg)
 
 ###### Questions

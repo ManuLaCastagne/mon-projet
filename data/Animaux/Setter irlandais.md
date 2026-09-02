@@ -15,8 +15,9 @@ indice_6 :
   - Chien de chasse
 questions:
  - Quel chien de chasse, auquel on donne parfois le surnom de Diable rouge, est très à l'aise dans les marais?
+culture_g_score: 44
+culture_g_justification: "Race canine connue pour sa robe rouge et la chasse, mais d’importance et de fréquence limitées en culture générale."
 ---
-
 ![Image de Setter irlandais](https://upload.wikimedia.org/wikipedia/commons/3/38/Setter_Irlandais_Rouge.jpg)
 
 ###### Questions

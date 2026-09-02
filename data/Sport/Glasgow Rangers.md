@@ -20,8 +20,9 @@ indice_6 :
   - Celtic FC
 questions:
  - Des joueurs comme John Greig, Ally McCoist et Brian Laudrup. 55 fois champion d'Écosse, je suis un club de Glasgow, grand rival...
+culture_g_score: 71
+culture_g_justification: "Club majeur du football britannique, utile pour ses records écossais, sa rivalité avec le Celtic et son épisode de liquidation."
 ---
-
 ![Image de Glasgow Rangers](https://upload.wikimedia.org/wikipedia/commons/e/e5/Rangers_7%E2%80%933_Northern_%28Greenock%29%2C_Glasgow_Herald_Mon_Mar_8_1886.jpg)
 
 ###### Questions

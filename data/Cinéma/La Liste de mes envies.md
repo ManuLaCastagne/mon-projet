@@ -20,6 +20,8 @@ indice_5:
   - contes de fées modernes
 indice_6:
   - adaptation d'un roman de Grégoire Delacourt
+culture_g_score: 44
+culture_g_justification: "Adaptation d'un roman à succès et comédie française connue, mais rarement prioritaire dans les questions de culture générale cinématographique."
 ---
 ![[Pasted image 20250503151456.png]]
 ###### Questions

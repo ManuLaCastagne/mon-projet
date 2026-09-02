@@ -18,8 +18,9 @@ indice_5 :
   - Marie-Antoinette
 indice_6 : 
   - guerre de succession d'Espagne
+culture_g_score: 92
+culture_g_justification: "Dynastie majeure de l'Europe, les Habsbourg relient Saint-Empire, Autriche, Espagne, mariages princiers, Marie-Antoinette et Première Guerre mondiale."
 ---
-
 ![Image de Habsbourg](https://upload.wikimedia.org/wikipedia/commons/e/ed/EB1911_House_of_Habsburg-Lorraine.jpg)
 
 ###### Questions

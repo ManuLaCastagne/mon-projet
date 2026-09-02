@@ -24,8 +24,9 @@ indice_6:
   - chaland
 questions:
   - En Loire-Atlantique, quelle grande plaine marécageuse est un parc naturel régional depuis 1970 ?
+culture_g_score: 43
+culture_g_justification: "La Brière est un espace naturel français identifiable par ses marais, son parc régional et ses paysages, mais d’importance quiz limitée."
 ---
-
 ![Image de Brière](https://upload.wikimedia.org/wikipedia/commons/9/9c/Marais_de_la_Grande_Bri%C3%A8re.jpg)
 
 ###### Questions

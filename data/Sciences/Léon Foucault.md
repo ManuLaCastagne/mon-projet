@@ -20,8 +20,9 @@ indice_6 :
   - Physicien français
 questions:
  - Scientifique qui détermina la vitesse de la lumière grâce à des miroirs tournants, je suis né à Paris en 1819. Utilisant, avec Hippolyte Fizeau, la photographie en astronomie, j'ai également perfectionné la technique de construction des télescopes.
+culture_g_score: 80
+culture_g_justification: "Physicien français associé au pendule de Foucault, à la vitesse de la lumière et au gyroscope, avec plusieurs entrées de quiz classiques."
 ---
-
 ![Image de Léon Foucault](https://upload.wikimedia.org/wikipedia/commons/9/9e/Foucault_portre_crop.jpg)
 
 ###### Questions

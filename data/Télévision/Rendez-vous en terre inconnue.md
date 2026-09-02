@@ -19,9 +19,9 @@ indice_5 :
   - rencontre culturelle
 indice_6 : 
   - découverte
+culture_g_score: 76
+culture_g_justification: "Programme durable et populaire, ouvrant sur les personnalités participantes, les peuples rencontrés, la géographie et le voyage."
 ---
-
-
 ![Image de Rendez-vous en terre inconnue](https://upload.wikimedia.org/wikipedia/commons/1/1f/Rendez-vous_en_terre_inconnue.png)
 
 ###### Questions

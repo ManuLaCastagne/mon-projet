@@ -22,9 +22,9 @@ indice_6 :
   - Camille Claudel 1915
 questions:
  - En 1997, quelle comédienne française a reçu l'Oscar de la meilleure actrice dans un second rôle pour son interprétation dans "Le patient anglais"?
+culture_g_score: 80
+culture_g_justification: "Juliette Binoche relie cinéma français et international, avec des récompenses majeures et de nombreux films susceptibles d'être interrogés."
 ---
-
-
 ![Image de Juliette Binoche](https://upload.wikimedia.org/wikipedia/commons/e/e6/Juliette_Binoche%2C_2022_%28cropped%29.jpg)
 
 ###### Questions

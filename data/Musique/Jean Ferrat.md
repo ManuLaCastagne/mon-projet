@@ -22,8 +22,9 @@ indice_6 :
   - Les poètes
 questions:
  - En 1961, quel chanteur interprète de chansons poétiques qui contient le titre "Deux enfants au soleil" ?
+culture_g_score: 80
+culture_g_justification: "Grande figure de la chanson engagée, régulièrement interrogée par ses œuvres, ses positions politiques et son parcours."
 ---
-
 ![Image de Jean Ferrat](https://upload.wikimedia.org/wikipedia/commons/9/99/Jean_Ferrat_%28chanteur%29.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - archipel insulaire
 questions:
  - Archipel du Pacifique compris entre la Nouvelle-Calédonie et la Polynésie française. Découvert en 1767...
+culture_g_score: 43
+culture_g_justification: "Collectivité française du Pacifique utile pour l’outre-mer et les statuts institutionnels, mais rarement interrogée précisément."
 ---
-
 ![Image de Wallis-et-Futuna](https://upload.wikimedia.org/wikipedia/commons/8/88/Wallis_vue_du_ciel.jpg)
 
 ![[Carte_Wallis-et-Futuna.png]]

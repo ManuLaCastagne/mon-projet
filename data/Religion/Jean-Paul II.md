@@ -18,8 +18,9 @@ indice_5 :
   - Années 1978-2005
 indice_6 : 
   - Canonisation
+culture_g_score: 100
+culture_g_justification: "Pape mondialement célèbre, lié à la guerre froide, à la Pologne, à l’attentat, au dialogue interreligieux et à l’histoire contemporaine."
 ---
-
 ![Image de Jean-Paul II](https://upload.wikimedia.org/wikipedia/commons/9/93/Rosa_%27Pope_John_Paul_II%27.jpg)
 
 ###### Questions

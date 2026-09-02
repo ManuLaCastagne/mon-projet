@@ -17,8 +17,9 @@ indice_5 :
   - Histoires d'amour
 indice_6 : 
   - Frères et sœurs
+culture_g_score: 64
+culture_g_justification: "Série historique très populaire auprès du public francophone, mais encore trop récente pour être un incontournable durable des quiz."
 ---
-
 ![Image de La Chronique des Bridgerton]()
 
 ###### Questions

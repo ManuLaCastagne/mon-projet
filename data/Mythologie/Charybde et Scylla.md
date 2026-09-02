@@ -18,9 +18,9 @@ indice_6 :
   - épopée grecque
 questions:
  - Un danger pour les mortels car si l'une de nous engloutit et rejette 3 fois par jour d'énormes quantités d'eau, l'autre dévore ceux qui ont changé de cap.
+culture_g_score: 80
+culture_g_justification: "Épisode majeur de l'Odyssée et expression passée dans la langue courante, offrant plusieurs angles littéraires et mythologiques."
 ---
-
-
 ![Image de Charybde et Scylla](https://upload.wikimedia.org/wikipedia/commons/e/e6/Renan%2C_Ary_Ernest_-_Charybde_et_Scylla_-_CSR_P_17_-_Mus%C3%A9e_de_la_Vie_romantique.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Courbe de Signes
 questions:
  - En 2015, quel circuit a accueilli la compétition motocycliste du Bol d'Or ?
+culture_g_score: 60
+culture_g_justification: "Circuit français important pour la Formule 1, le MotoGP et l'histoire automobile, mais d'intérêt principalement sportif."
 ---
-
 ![Image de Circuit du Castelet](https://upload.wikimedia.org/wikipedia/commons/0/07/Circuit_Paul_Ricard_CPR.jpg)
 
 ###### Questions

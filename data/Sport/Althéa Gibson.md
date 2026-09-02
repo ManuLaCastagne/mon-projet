@@ -20,8 +20,9 @@ indice_6 :
   - Championne
 questions:
  - En 1956, quel américaine s'impose à Roland-Garros est la première noire à s'imposer dans un GC ?
+culture_g_score: 64
+culture_g_justification: "Pionnière majeure du tennis et de la lutte contre la ségrégation, régulièrement citée dans les questions sur le sport et les discriminations."
 ---
-
 ![Image de Althéa Gibson](https://upload.wikimedia.org/wikipedia/commons/5/55/Althea_Gibson_in_1956_by_Fred_Palumbo_%28NYWTS%29.jpg)
 
 ###### Questions

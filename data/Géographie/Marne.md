@@ -24,8 +24,9 @@ indice_6 :
   - département 51
 questions:
  - Quel terme évoquant  des terrains tertiaires de la Gironde désigne un matériau employé pour les assises de chaussée ?
+culture_g_score: 60
+culture_g_justification: "Département lié au champagne, à Reims et à une rivière homonyme, offrant plusieurs repères classiques mais pas prioritaires."
 ---
-
 ![Image de Marne](https://upload.wikimedia.org/wikipedia/commons/7/7c/Pr%C3%A9fecture_de_la_Marne_%2851%29.jpg)
 
 ![[Carte_Marne.png]]

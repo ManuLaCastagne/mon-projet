@@ -20,8 +20,9 @@ indice_6 :
   - 1968
 questions:
  - En 1968, quel homme politique tchéquoslovaque associé au printemps de Prague est nommé 1er secrétaire du PC ?
+culture_g_score: 64
+culture_g_justification: "Figure emblématique du Printemps de Prague, il relie guerre froide, communisme et réformes politiques, avec une fréquence classique mais non constante."
 ---
-
 ![Image de Alexander Dubček](https://upload.wikimedia.org/wikipedia/commons/c/c2/Alexander_Dub%C4%8Dek%2C_1990_%28color%29.png)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Football
 questions:
  - A quel dirigeant, président de la FIFA, de 1921 à 1954, doit-on la création de la Coupe du Monde de football ?
+culture_g_score: 80
+culture_g_justification: "Son rôle dans la création de la Coupe du monde et le trophée qui porte son nom offrent de nombreux liens avec l’histoire du football."
 ---
-
-
 ![Image de Jules Rimet](https://upload.wikimedia.org/wikipedia/commons/3/38/Jules_Rimet_1933.jpg)
 
 ###### Questions

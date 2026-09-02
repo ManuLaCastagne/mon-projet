@@ -15,8 +15,9 @@ indice_6 :
   - Sujet de contes et légendes en Inde
 questions:
  - Quel ours possède une gueule adaptée à la capture des termites dont il est friand ?
+culture_g_score: 32
+culture_g_justification: "Espèce d’ours spécialisée, principalement pertinente pour des questions de zoologie ou de conservation assez rares."
 ---
-
 ![Image de Ours à longues lèvres](https://upload.wikimedia.org/wikipedia/commons/a/af/Sri_Lankan_sloth_bear_%28Melursus_ursinus_inornatus%29_male_head.jpg)
 
 ###### Questions

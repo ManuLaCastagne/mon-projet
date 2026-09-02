@@ -18,6 +18,8 @@ indice_5:
   - Meurtre
 indice_6:
   - Condamnation à mort
+culture_g_score: 68
+culture_g_justification: "Film français notable sur la peine de mort, porté par Gabin et Delon, mais moins fréquent que leurs œuvres les plus célèbres."
 ---
 ![[Pasted image 20250503173348.png]]
 ###### Questions

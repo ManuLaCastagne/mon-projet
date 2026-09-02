@@ -20,8 +20,9 @@ indice_6 :
   - influence sur les unités de cavalerie de plusieurs armées européennes
 questions:
  - Quel ordre religieux et militaire, fondé par des chevaliers allemands, a abandonné son but hospitalier  pour coloniser les marches de l'Est?
+culture_g_score: 40
+culture_g_justification: "Type de cavalerie historiquement réel mais spécialisé, surtout rencontré dans des questions militaires sur les guerres napoléoniennes."
 ---
-
 ![Image de Uhlans](https://upload.wikimedia.org/wikipedia/commons/6/67/U%C5%82ani_Ksi%C4%99stwa_Warszawskiego.JPG)
 
 ###### Questions

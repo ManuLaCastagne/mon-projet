@@ -21,8 +21,9 @@ indice_5:
   - Ally
 indice_6:
   - Oscar
+culture_g_score: 64
+culture_g_justification: "Remake récent très connu grâce à Lady Gaga, Bradley Cooper et la chanson « Shallow », mais moins incontournable historiquement."
 ---
-
 ![Image de A Star is born](https://upload.wikimedia.org/wikipedia/commons/6/6a/A_Star_Is_Born_-_Oscars_ceremony.jpg)
 
 ###### Questions

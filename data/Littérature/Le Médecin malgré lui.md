@@ -18,8 +18,9 @@ indice_5 :
   - Valère
 indice_6 : 
   - Théâtre français
+culture_g_score: 77
+culture_g_justification: "Comédie classique de Molière, souvent interrogée par son intrigue, ses personnages, son auteur et sa satire de la médecine."
 ---
-
 ![Image de Le Médecin malgré lui](https://upload.wikimedia.org/wikipedia/commons/e/e7/Gounod_-_Le_M%C3%A9decin_malgr%C3%A9_lui_-_title_page_of_the_libretto_-_Paris_1858.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Breathless
 questions:
  - Quel groupe pop rock irlandais comporte trois soeurs...
+culture_g_score: 47
+culture_g_justification: "Groupe irlandais populaire à l'international, mais généralement limité à des questions sur la pop des années 1990 et la famille Corr."
 ---
-
 ![Image de The Corrs](https://upload.wikimedia.org/wikipedia/commons/2/28/The_Corrs_%28Vienna%2C_2016%29_22.jpg)
 
 ###### Questions

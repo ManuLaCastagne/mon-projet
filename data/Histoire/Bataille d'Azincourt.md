@@ -20,8 +20,9 @@ indice_6 :
   - défaite française
 questions:
  - Le 25 octobre 1415, lors de quelle bataille de la guerre de Cent ans l'armée du roi de France a été battue par les Anglais, commandés par Henri V ?
+culture_g_score: 80
+culture_g_justification: "Bataille emblématique de la guerre de Cent Ans, des archers anglais, d’Henri V et de la littérature shakespearienne."
 ---
-
 ![Image de Bataille d'Azincourt](https://upload.wikimedia.org/wikipedia/commons/7/7a/Sch%C3%A9ma_bataille_d%27Azincourt_ca.svg)
 
 ###### Questions

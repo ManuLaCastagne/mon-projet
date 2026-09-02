@@ -20,8 +20,9 @@ indice_6 :
   - Monument à Rome
 questions:
  - Roi de Sardaigne considéré avec son ministre Cavour comme le créateur de l'unité italienne…
+culture_g_score: 67
+culture_g_justification: "Premier roi de l’Italie unifiée, utile pour le Risorgimento, la monarchie italienne et les figures de l’unification."
 ---
-
 ![Image de Victor-Emmanuel II](https://upload.wikimedia.org/wikipedia/commons/9/9e/Monument_to_Victor_Emmanuel_II_%28Venice%29.jpg)
 
 ###### Questions

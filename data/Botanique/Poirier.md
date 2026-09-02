@@ -15,8 +15,9 @@ indice_6 :
   - Consommation de fruits en frais ou en cidre
 questions:
  - Arbre fruitier pouvant être des variétés soldat laboureur et conseiller à la cour, je nécessite la présence d'autres variétés pollinisatrices à proximité car je suis généralement autostérile. Facilement greffé, notamment sur le cognassier, je peux être palissé contre un mur ou sur un...
+culture_g_score: 51
+culture_g_justification: "Arbre fruitier classique pouvant être relié à la botanique, à la cuisine et à l'ébénisterie, sans forte fréquence quiz."
 ---
-
 ![Image de Poirier](https://upload.wikimedia.org/wikipedia/commons/3/3e/Skate_Canada_2023_-_Gilles_%26_Poirier-RD_01.jpg)
 
 ###### Questions

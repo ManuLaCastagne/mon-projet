@@ -20,8 +20,9 @@ indice_6 :
   - familles Logan et Forrester
 questions:
  - Quelle série diffusée sur France 2 dès 9h35 en semaine raconte les histoires des Spencer ?
+culture_g_score: 57
+culture_g_justification: "Feuilleton international très connu, mais principalement exploitable par quelques repères sur sa longévité, ses familles et sa diffusion."
 ---
-
 ![Image de Amour, gloire et beauté](https://upload.wikimedia.org/wikipedia/commons/a/af/John_A._Logan_and_family%2C_circa_1870.jpg)
 
 ###### Questions

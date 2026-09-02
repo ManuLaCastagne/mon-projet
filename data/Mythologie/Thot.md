@@ -18,8 +18,9 @@ indice_6 :
   - Maât
 questions:
  - Quel dieu du panthéon égyptien est représenté avec une tête d'ibis ?
+culture_g_score: 80
+culture_g_justification: "Thot est un dieu égyptien majeur, relié à l'écriture, au savoir, à la Lune, au calendrier et à l'iconographie de l'ibis."
 ---
-
 ![Image de Thot](https://upload.wikimedia.org/wikipedia/commons/f/fa/Lune_Grand_Palais_-_St%C3%A8le_miniature_Paser_et_Thot_-_Louvre_AE_01.jpg)
 
 ###### Questions

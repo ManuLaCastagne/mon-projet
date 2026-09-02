@@ -22,8 +22,9 @@ indice_6 :
   - concours de chant
 questions:
  - Mon ouverture dure 14mn de Richard Wagner.
+culture_g_score: 80
+culture_g_justification: "Opéra classique de Wagner, utile pour les liens entre mythologie germanique, romantisme, scandale parisien et histoire de la musique."
 ---
-
 ![Image de Tannhauser](https://upload.wikimedia.org/wikipedia/commons/a/aa/Codex_Manesse_Tannh%C3%A4user.jpg)
 
 ###### Questions

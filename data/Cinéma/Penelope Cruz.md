@@ -22,8 +22,9 @@ indice_6 :
   - Volver
 questions:
  - En 2006, quelle actrice espagnole  partageait l'affiche du western "Bandidas"...
+culture_g_score: 73
+culture_g_justification: "Actrice internationale fréquemment associée à Almodóvar, Woody Allen et aux Oscars, avec une bonne rentabilité malgré une transversalité modérée."
 ---
-
 ![Image de Penelope Cruz](https://upload.wikimedia.org/wikipedia/commons/b/b7/Pen%C3%A9lope_Cruz_TIFF_2012.jpg)
 
 ###### Questions

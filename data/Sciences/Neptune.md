@@ -20,9 +20,9 @@ indice_6 :
   - Huitième planète
 questions:
  - Je mets 164 ans à contourner le Soleil. Découverte à l'issue d'un calcul mathématique qui cherchait à expliquer des perturbations près d'Uranus. 8e planète du système solaire.
+culture_g_score: 80
+culture_g_justification: "Planète classique associée à sa découverte mathématique, sa couleur, son climat et ses caractéristiques du système solaire."
 ---
-
-
 ![Image de Neptune](https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg)
 
 ###### Questions

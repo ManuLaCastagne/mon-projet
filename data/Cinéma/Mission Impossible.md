@@ -22,9 +22,9 @@ indice_6 :
   - générique culte
 questions:
  - Dans quelle série télé, diffusée en France dès 67, Jim Phelps et son équipe mènent-ils des opérations illégales et très dangereuses?
+culture_g_score: 76
+culture_g_justification: "Franchise d’espionnage très populaire, ouvrant des questions sur Tom Cruise, Lalo Schifrin, les cascades et plusieurs films célèbres."
 ---
-
-
 ![Image de Mission Impossible](https://upload.wikimedia.org/wikipedia/commons/7/78/Mission_Impossible_banner.jpg)
 
 ###### Questions

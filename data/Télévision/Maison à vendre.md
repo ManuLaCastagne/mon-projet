@@ -19,8 +19,9 @@ indice_5 :
   - émissions de télévision
 indice_6 : 
   - recherche d'acheteurs
+culture_g_score: 57
+culture_g_justification: "Émission populaire associée à Stéphane Plaza et à la rénovation immobilière, mais offrant un nombre d'angles culturels limité."
 ---
-
 ![Image de Maison à vendre](https://upload.wikimedia.org/wikipedia/commons/b/b1/Maison_%C3%A0_louer%2C_Cheval_et_Ch%C3%A8vre_%C3%A0_vendre%3B_and_Int%C3%A9rieur_d%E2%80%99un_habitation_de_Cigannos.jpg)
 
 ###### Questions

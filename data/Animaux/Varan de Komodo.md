@@ -13,8 +13,9 @@ indice_5:
   - Dragon de Komodo
 indice_6:
   - Symbole national de l'Indonésie
+culture_g_score: 77
+culture_g_justification: "Le varan de Komodo est un animal emblématique, régulièrement interrogé pour sa taille, son habitat insulaire, sa prédation et sa conservation."
 ---
-
 ![Image de Varan de Komodo](https://upload.wikimedia.org/wikipedia/commons/e/e8/Komodo_dragon_%28Varanus_komodoensis%29.jpg)
 
 ###### Questions

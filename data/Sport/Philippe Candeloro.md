@@ -20,8 +20,9 @@ indice_6 :
   - Albertville 1992
 questions:
  - Sportif ayant terminé à la 8e place de mes 1ers championnats d'Europe en 1990, je suis associé au geste technique de la pirouette sur les genoux. Longtemps rival d'Eric Millot...
+culture_g_score: 60
+culture_g_justification: "Patineur français très médiatique, régulièrement associé aux Jeux olympiques et à ses programmes spectaculaires."
 ---
-
 ![Image de Philippe Candeloro](https://upload.wikimedia.org/wikipedia/commons/a/a8/Philippe_Candeloro_2020_-2.jpg)
 
 ###### Questions

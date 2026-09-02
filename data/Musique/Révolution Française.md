@@ -22,8 +22,9 @@ indice_6 :
   - chants des sans-culottes
 questions:
  - Quel spectacle, conçu en 1973 par Alain Boublil, Claude-Michel Schoenberg et Jean-Max Rivière est considéré comme le 1er opéra rock français?
+culture_g_score: 100
+culture_g_justification: "Événement fondateur de l’histoire française et européenne, la Révolution française est un marronnier exceptionnellement transversal des quiz."
 ---
-
 ![Image de Révolution Française](https://upload.wikimedia.org/wikipedia/commons/7/75/Thiers%2C_Adolphe_-_Histoire_de_la_R%C3%A9volution_fran%C3%A7aise_t2_%281839%29.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - chanson River of No Return
 questions:
  - En 1954, quel western d'Otto Preminger. Dans lequel Robert Mitchum partage la vedette… avec Marilyn Monroe ?
+culture_g_score: 80
+culture_g_justification: "Western hollywoodien classique associant Marilyn Monroe, Robert Mitchum, Preminger, le CinemaScope et une chanson célèbre."
 ---
-
 ![Image de La Rivière sans retour](https://upload.wikimedia.org/wikipedia/commons/7/76/River_of_No_Return_Wilderness.jpg)
 
 ###### Questions

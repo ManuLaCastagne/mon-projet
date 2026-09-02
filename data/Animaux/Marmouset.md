@@ -9,8 +9,9 @@ indice_5:
 indice_6: 
 questions:
   - Par quel nom d'animal désigne-t-on un chenêt orné d'une figure ?
+culture_g_score: 32
+culture_g_justification: "Petit primate parfois confondu avec le ouistiti, mais le sujet précis reste peu fréquent et assez spécialisé."
 ---
-
 ![Image de Marmouset](https://upload.wikimedia.org/wikipedia/commons/c/ce/Marmouset_%284717846125%29.jpg)
 
 ###### Questions

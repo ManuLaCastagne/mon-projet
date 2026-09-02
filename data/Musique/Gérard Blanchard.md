@@ -21,4 +21,6 @@ indice_6:
   - collaborateur de grands orchestres
 questions:
   - En 1982, qui chante "Rockamadour" avec son accordéon ?
+culture_g_score: 20
+culture_g_justification: "Artiste de variété française peu présent dans la mémoire collective actuelle et offrant peu de connaissances réutilisables."
 ---

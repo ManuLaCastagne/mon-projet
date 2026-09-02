@@ -25,6 +25,7 @@ indice_6 :
 questions:
  - Quelle grande ville allemande est surnommée la reine de la Hanse ?
 culture_g_score: 80
+culture_g_justification: "Métropole allemande majeure, rentable pour son port, l’Elbe, la Hanse, l’histoire contemporaine et son architecture culturelle."
 ---
 ![Image de Hambourg](https://upload.wikimedia.org/wikipedia/commons/5/54/Landungsbr%C3%BCcken_Hamburg.jpg)
 

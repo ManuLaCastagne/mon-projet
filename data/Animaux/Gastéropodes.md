@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la lenteur
 questions:
  - A quelle classe de mollusques, comptant...
+culture_g_score: 52
+culture_g_justification: "Les gastéropodes regroupent des animaux familiers comme les escargots et les limaces, mais le terme scientifique reste modérément fréquent."
 ---
-
 ![Image de Gastéropodes](https://upload.wikimedia.org/wikipedia/commons/7/77/Mollusques_%28c%C3%A9phalopodes%2C_gast%C3%A9ropodes%29_%28IA_mollusquescpha00gran%29.pdf)
 
 ###### Questions

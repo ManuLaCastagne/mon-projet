@@ -15,8 +15,9 @@ indice_6 :
   - Symbolisme de la transformation
 questions:
  - Ou dans des zones de broussailles où j'aime me chauffer au soleil. Mesurant parfois 2 m, je suis considérée comme inoffensive. Serpent à pupille ronde.
+culture_g_score: 64
+culture_g_justification: "Serpent courant souvent opposé à la vipère, utile pour des questions de zoologie et de distinction des espèces, mais assez limité."
 ---
-
 ![Image de Couleuvre](https://upload.wikimedia.org/wikipedia/commons/7/79/Couleuvre_Mus%C3%A9e.jpg)
 
 ###### Questions

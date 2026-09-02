@@ -22,9 +22,9 @@ indice_5 :
   - Sharks
 indice_6 : 
   - José Antonio Alvarado
+culture_g_score: 60
+culture_g_justification: "Capitale du Costa Rica régulièrement utilisée pour les questions de géographie latino-américaine, avec quelques repères culturels."
 ---
-
-
 ![Image de San José](https://upload.wikimedia.org/wikipedia/commons/4/45/National_Theatre_of_Costa_Rica.jpg)
 
 ![[Carte_San José.png]]

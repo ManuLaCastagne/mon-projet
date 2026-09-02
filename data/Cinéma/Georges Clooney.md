@@ -20,9 +20,9 @@ indice_5 :
   - Amal Alamuddin
 indice_6 : 
   - réalisateurs comme Spielberg et Soderbergh
+culture_g_score: 76
+culture_g_justification: "Acteur et réalisateur très connu, associé à plusieurs films et séries célèbres, mais d’importance culturelle moindre que les figures historiques du cinéma."
 ---
-
-
 ![Image de Georges Clooney](https://upload.wikimedia.org/wikipedia/commons/8/8d/George_Clooney_2016.jpg)
 
 ###### Questions

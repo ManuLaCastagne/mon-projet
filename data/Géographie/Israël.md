@@ -22,8 +22,9 @@ indice_5 :
   - Mont Carmel
 indice_6 : 
   - Lac de Tibériade
+culture_g_score: 80
+culture_g_justification: "Sujet géopolitique et historique majeur, également exploitable par la religion, les sciences, les conflits et la géographie du Moyen-Orient."
 ---
-
 ![[Carte_Israël.png]]
 
 ###### Questions

@@ -20,6 +20,8 @@ indice_5:
   - Faisal Mosque
 indice_6:
   - Siège gouvernemental
+culture_g_score: 60
+culture_g_justification: "Capitale du Pakistan utile pour la géographie politique et quelques repères historiques, mais relativement peu transversale."
 ---
 ![Image de Islamabad](https://upload.wikimedia.org/wikipedia/commons/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg)
 

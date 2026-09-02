@@ -24,8 +24,9 @@ indice_6 :
   - le deuxième plus long fleuve d'Europe
 questions:
  - Quel fleuve d'Europe centrale et orientale né dans la Forêt-Noire forme de vastes marécages dans la plaine de Hongrie ?
+culture_g_score: 80
+culture_g_justification: "Grand fleuve européen fréquemment interrogé pour son parcours, ses pays traversés, son rôle historique et ses paysages."
 ---
-
 ![Image de Danube](https://upload.wikimedia.org/wikipedia/commons/6/64/Danube_in_Ritopek%2C_Serbia.jpg)
 
 ![[Carte_Danube.png]]

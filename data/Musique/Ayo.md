@@ -22,8 +22,9 @@ indice_6 :
   - Billie-Eve
 questions:
  - Quelle chanteuse germano-nigériane, révélée en 2006 par une chanson magnifique, "Down on my knees", porte un nom de scène qui signifie joie en dialecte yoruba ?
+culture_g_score: 31
+culture_g_justification: "Ayo bénéficie d’une certaine notoriété européenne, mais reste une chanteuse peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Ayo](https://upload.wikimedia.org/wikipedia/commons/9/93/Ayo_game.jpg)
 
 ###### Questions

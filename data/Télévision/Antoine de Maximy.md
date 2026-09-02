@@ -18,8 +18,9 @@ indice_5 :
   - rencontres insolites
 indice_6 : 
   - chemise rouge
+culture_g_score: 48
+culture_g_justification: "Personnalité identifiable grâce à J’irai dormir chez vous, mais ses autres angles restent moins fréquents dans les quiz généralistes."
 ---
-
 ![Image de Antoine de Maximy](https://upload.wikimedia.org/wikipedia/commons/7/7e/FIL_2013_-_Antoine_de_Maximy_06.JPG)
 
 ###### Questions

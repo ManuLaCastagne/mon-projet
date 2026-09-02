@@ -15,8 +15,9 @@ indice_6 :
   - Usage médicinal traditionnel
 questions:
  - Quelle plante commune, à latex orange et à fleurs jaunes, poussant près des murs, est appelée "grande éclair" et "herbe aux verrues" ?
+culture_g_score: 40
+culture_g_justification: "Son surnom d’herbe à verrues peut produire une question classique, mais la plante demeure globalement spécialisée."
 ---
-
 ![Image de Chélidoine](https://upload.wikimedia.org/wikipedia/commons/9/9e/Chelidonium_majus_2_RF.jpg)
 
 ###### Questions

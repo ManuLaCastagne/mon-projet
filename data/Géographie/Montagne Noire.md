@@ -24,10 +24,9 @@ indice_6 :
   - Source du Thoré
 questions:
  - De quelle montagne le Art/Canal du Midi prend-il sa source ?
+culture_g_score: 40
+culture_g_justification: "Massif français régional pouvant apparaître en géographie ou patrimoine, mais avec un rendement limité."
 ---
-
-
-
 ![Image de Montagne Noire](https://upload.wikimedia.org/wikipedia/commons/3/34/Montagne_Noire_from_Lagardiolle.jpg)
 
 ![[Carte_Montagne Noire.png]]

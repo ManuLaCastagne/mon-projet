@@ -22,8 +22,9 @@ indice_6 :
   - Les Feux de l'Éden
 questions:
  - Quel écrivain américain est l'auteur du "Cycle d'Hypérion" commencé en 1989?
+culture_g_score: 40
+culture_g_justification: "Auteur reconnu des amateurs de science-fiction grâce à Hypérion, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Dan Simmons](https://upload.wikimedia.org/wikipedia/commons/5/5e/Dan_Uggla_and_Andrelton_Simmons_%2814249672902%29.jpg)
 
 ###### Questions

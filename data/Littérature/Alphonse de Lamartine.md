@@ -22,8 +22,9 @@ indice_6 :
   - auteur du XIXe siècle
 questions:
  - Travaillant à mon "Histoire des Girondins" alors que je suis député, j'ai proclamé la République à l'Hôtel de Ville de Paris en 1848 en tant que membre du gouvernement provisoire.  Auteur du recueil des "Méditations poétiques" dans lequel figure le poème "Le Lac".
+culture_g_score: 80
+culture_g_justification: "Lamartine est un repère solide du romantisme français et de la vie politique de 1848, avec plusieurs œuvres et angles classiques."
 ---
-
 ![Image de Alphonse de Lamartine](https://upload.wikimedia.org/wikipedia/commons/9/99/Alphonse_de_Lamartine_1.jpg)
 
 ###### Questions

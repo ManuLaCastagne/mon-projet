@@ -19,8 +19,9 @@ indice_5 :
   - enquêtes et reportages
 indice_6 : 
   - 18h20
+culture_g_score: 64
+culture_g_justification: "Magazine d’actualité durablement installé dans le paysage télévisuel français, mais moins central que les grands journaux ou émissions politiques."
 ---
-
 ![Image de Sept à huit](https://upload.wikimedia.org/wikipedia/commons/2/2f/Huit_bons_pour_vingt%2C_quinze%2C_dix%2C_neuf%2C_huit%2C_sept%2C_six_et_cinq_sols%2C_payables_%C3%A0_vue_en_billets_patriotiques_de_dix_livres_par_la_Compagnie_de_Commission_rue_des_Bons-Enfans%2C_n%C2%B0_24_-_estampe_-_btv1b6944441h_%281_of_8%29.jpg)
 
 ###### Questions

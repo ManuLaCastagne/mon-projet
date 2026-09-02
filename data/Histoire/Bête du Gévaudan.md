@@ -18,8 +18,9 @@ indice_5 :
   - Attaques
 indice_6 : 
   - Légende
+culture_g_score: 64
+culture_g_justification: "Légende historique française très reconnaissable, généralement exploitée autour des attaques, de la Lozère et de Jean Chastel."
 ---
-
 ![Image de Bête du Gévaudan](https://upload.wikimedia.org/wikipedia/commons/6/67/B%C3%AAte_du_G%C3%A9vaudan_-_sculptures.jpg)
 
 ###### Questions

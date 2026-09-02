@@ -18,8 +18,9 @@ indice_5 :
   - Golden Globe
 indice_6 : 
   - Coco Hernandez
+culture_g_score: 64
+culture_g_justification: "Irene Cara est une figure très identifiable des bandes originales des années 1980, avec Fame et Flashdance comme principaux points d'entrée."
 ---
-
 ![Image de Irene Cara](https://upload.wikimedia.org/wikipedia/commons/e/e4/Irene_Cara_%281983%29.jpg)
 
 ###### Questions

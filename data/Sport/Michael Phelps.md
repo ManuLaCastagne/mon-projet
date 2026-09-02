@@ -20,8 +20,9 @@ indice_6 :
   - Athlète olympique
 questions:
  - Entre 2004 et 2016, quel nageur américain a établi un record en remportant 28 médailles...
+culture_g_score: 97
+culture_g_justification: "Détenteur de records olympiques historiques, il constitue un marronnier majeur des quiz sur la natation et les Jeux."
 ---
-
 ![Image de Michael Phelps](https://upload.wikimedia.org/wikipedia/commons/c/c6/Michael_Phelps_August_2016.jpg)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - auteur du livre Becoming
 questions:
  - En 2009, quelle avocate de formation devient officiellement la 1re First Lady afro-américain de l'histoire des Etats-Unis?
+culture_g_score: 76
+culture_g_justification: "Première dame américaine très célèbre, associée à la Maison-Blanche, à son autobiographie et à des campagnes de santé publique."
 ---
-
-
-
 ![Image de Michelle Obama](https://upload.wikimedia.org/wikipedia/commons/4/4b/Michelle_Obama_2013_official_portrait.jpg)
 
 ###### Questions

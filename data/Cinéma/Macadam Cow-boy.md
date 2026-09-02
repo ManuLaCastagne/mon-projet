@@ -22,6 +22,8 @@ indice_6:
   - John Schlesinger
 questions:
   - En 1969, dans quel drame de John Schlesinger Dustin Hoffmann incarne-t-il l'escroc Ratso Rizzo qui écume les bars et vit d'expédients?
+culture_g_score: 80
+culture_g_justification: "Classique oscarisé et historique du cinéma américain, associé à Schlesinger, Dustin Hoffman, Jon Voight et à la classification X."
 ---
 ![[Pasted image 20250419093220.png]]
 ###### Questions

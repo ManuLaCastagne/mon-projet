@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - France
+culture_g_score: 44
+culture_g_justification: "Pâtisserie familière et reconnaissable, sans être une référence culturelle particulièrement incontournable."
 ---
 ###### Questions 
 

@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de vitalité
 questions:
  - Primate faisant l'objet depuis 2012 d'un projet d'étude près du village de Bakoumba au Gabon, je vis en groupes importants dans les forêts d'Afrique centrale. Voisin du babouin, je présente un important dimorphisme sexuel avec un mâle...
+culture_g_score: 52
+culture_g_justification: "Primate spectaculaire par ses couleurs et sa morphologie, mais généralement limité à quelques questions de zoologie africaine."
 ---
-
-
 ![Image de Mandrill](https://upload.wikimedia.org/wikipedia/commons/9/93/Mandril.jpg)
 
 ###### Questions

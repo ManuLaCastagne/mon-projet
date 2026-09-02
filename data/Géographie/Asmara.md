@@ -22,8 +22,9 @@ indice_5 :
   - inscrite au patrimoine mondial de l'UNESCO
 indice_6 : 
   - altitude de 2 325 mètres
+culture_g_score: 40
+culture_g_justification: "Capitale érythréenne remarquable par son architecture moderniste, mais peu connue et rarement interrogée hors de l’Afrique contemporaine."
 ---
-
 ![Image de Asmara](https://upload.wikimedia.org/wikipedia/commons/3/34/Asmara_Logo_Flag.png)
 
 ![[Carte_Asmara.png]]

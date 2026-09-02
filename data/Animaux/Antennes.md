@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de coopération et de travail acharné
 questions:
  - Type d'organe pouvant être qualifié de géniculé ou de pectiné, je suis présent chez les péripates, les mille-pattes et les crustacés. Composé de plusieurs pièces articulées, je suis lamellé chez le hanneton, long et filiforme chez le longicorne...
+culture_g_score: 68
+culture_g_justification: "Organe sensoriel fondamental des insectes, mobilisable en zoologie, en comportement et en entomologie."
 ---
-
-
 ![Image de Antennes](https://upload.wikimedia.org/wikipedia/commons/a/a9/Elymnias_hypermnestra_male_by_kadavoor.jpg)
 
 ###### Questions

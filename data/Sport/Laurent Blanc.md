@@ -20,8 +20,9 @@ indice_6 :
   - Paris Saint-Germain
 questions:
  - Quel ancien champion du monde français surnommé le Président a entraîné...
+culture_g_score: 80
+culture_g_justification: "Sa carrière de joueur puis d’entraîneur, son rôle chez les Bleus et son but en 1998 offrent de nombreux angles classiques."
 ---
-
 ![Image de Laurent Blanc](https://upload.wikimedia.org/wikipedia/commons/b/be/Laurent_blanc_11_11_2013_reves_de_Clara.jpg)
 
 ###### Questions

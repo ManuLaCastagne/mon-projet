@@ -22,8 +22,9 @@ indice_6 :
   - tuner culture
 questions:
  - Quelle série de films avec Vin Diesel, comptant 9 longs-métrages en 2019, comporte...
+culture_g_score: 73
+culture_g_justification: "Franchise populaire et très rentable, souvent interrogée par ses épisodes, acteurs et origines, malgré une portée culturelle limitée."
 ---
-
 ![Image de Fast and Furious](https://upload.wikimedia.org/wikipedia/commons/2/29/223-2230554_dodge-clipart-fast-furious-fast-furious-logo.jpg)
 
 ###### Questions

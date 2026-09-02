@@ -22,10 +22,9 @@ indice_6 :
   - adaptation de roman
 questions:
  - 1983, quel drame de Jean Becker réunit Adjani et Souchon dans un village provençal ?
+culture_g_score: 80
+culture_g_justification: "Classique français fréquemment mobilisable grâce à Jean Becker, Isabelle Adjani, Alain Souchon, Sébastien Japrisot et ses César."
 ---
-
-
-
 ![Image de L'Été meurtrier](https://upload.wikimedia.org/wikipedia/commons/8/8a/Jean_Becker.jpg)
 
 ###### Questions

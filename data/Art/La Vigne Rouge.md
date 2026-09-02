@@ -23,8 +23,9 @@ indice_6 :
   - champ de vigne
 questions:
  - Quel est le seul tableau que Vincent Van Gogh a vendu de son vivant pour 400 francs ?
+culture_g_score: 48
+culture_g_justification: "La Vigne rouge est utile pour Van Gogh et Arles, mais reste une œuvre précise nettement moins incontournable que ses tableaux les plus célèbres."
 ---
-
 ![Image de La Vigne Rouge](https://upload.wikimedia.org/wikipedia/commons/1/11/Vincent_van_Gogh_-_Red_Vineyard_at_Arles_%281888%29.jpg)
 
 ###### Questions

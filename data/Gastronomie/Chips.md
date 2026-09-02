@@ -4,6 +4,8 @@ tags:
   - XIXe
   - États-Unis
 date: 1853
+culture_g_score: 77
+culture_g_justification: "Aliment mondialement familier, propice à des questions sur l'invention, la culture populaire et l'industrie alimentaire."
 ---
 ###### Questions 
 

@@ -18,9 +18,9 @@ indice_5:
   - Philosophiæ Naturalis Principia Mathematica
 indice_6:
   - Cambridge
+culture_g_score: 100
+culture_g_justification: "Newton est une figure absolument incontournable reliant gravitation, optique, mathématiques, astronomie et naissance de la science moderne."
 ---
-
-
 ![Image de Isaac Newton](https://upload.wikimedia.org/wikipedia/commons/f/fe/Sir_Isaac_Newton_bust_in_METU_Campus_Ankara_Turkey.jpg)
 
 ###### Questions

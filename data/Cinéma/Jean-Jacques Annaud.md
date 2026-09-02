@@ -22,8 +22,9 @@ indice_6 :
   - Deux frères
 questions:
  - En 2015, à quel réalisateur doit-on "Le dernier loup", son troisième film après "L'Ours" et "Deux frères" ?
+culture_g_score: 72
+culture_g_justification: "Réalisateur français associé à Le Nom de la rose, L’Ours et La Guerre du feu, avec plusieurs portes d’entrée internationales."
 ---
-
 ![Image de Jean-Jacques Annaud](https://upload.wikimedia.org/wikipedia/commons/d/d6/Jean-Jacques_Annaud_par_Claude_Truong-Ngoc_f%C3%A9vrier_2015.jpg)
 
 ###### Questions

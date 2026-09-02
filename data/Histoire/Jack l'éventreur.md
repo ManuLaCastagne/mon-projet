@@ -20,8 +20,9 @@ indice_6 :
   - tueur en série non identifié
 questions:
  - Comment a-t-on appelé le mystérieux meurtrier qui, en 1888, a assassiné plusieurs prostituées dans le quartier de Whitechapel à Londres ?
+culture_g_score: 80
+culture_g_justification: "Criminel mythique de l’histoire londonienne, fréquemment mobilisé dans les questions sur les crimes de Whitechapel, l’identité et la presse."
 ---
-
 ![Image de Jack l'éventreur](https://upload.wikimedia.org/wikipedia/commons/c/ca/Eric_Porter_%28DR_Pritchard%29_dans_La_fille_de_Jack_l%27%C3%A9ventreur_-1971.jpg)
 
 ###### Questions

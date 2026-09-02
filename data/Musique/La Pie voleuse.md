@@ -22,8 +22,9 @@ indice_6 :
   - La gazza ladra
 questions:
  - En 1817, dans quel opéra de Rossini une servante est-elle injustement accusée d'avoir dérobé un ustensile...
+culture_g_score: 60
+culture_g_justification: "Opéra de Rossini connu notamment pour son ouverture, avec des liens utiles entre opéra, musique instrumentale et culture italienne."
 ---
-
 ![Image de La Pie voleuse](https://upload.wikimedia.org/wikipedia/commons/3/31/Rue_de_la_Pie_voleuse.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Pont Neuf
 indice_6 : 
   - Marché aux Fleurs
+culture_g_score: 88
+culture_g_justification: "Lieu central de l’histoire de Paris, immédiatement relié à Notre-Dame, aux Parisii, aux Vikings et au patrimoine national."
 ---
-
 ![[Carte_île de la Cité.png]]
 
 ###### Questions

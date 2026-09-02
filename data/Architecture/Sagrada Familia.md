@@ -21,9 +21,9 @@ indice_5:
   - Tour de Jésus
 indice_6:
   - UNESCO
+culture_g_score: 97
+culture_g_justification: "Monument mondialement célèbre, très fréquent grâce à Gaudí, Barcelone, l'architecture religieuse, son inachèvement et ses façades."
 ---
-
-
 ![Image de Sagrada Familia](https://upload.wikimedia.org/wikipedia/commons/7/74/Sagrada_Familia_March_2015-10a.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - Patrick Bruel
 questions:
  - En 2000, quelle chanteuse canadienne connaît son plus gros succès en France avec le titre "Parle-moi"?
+culture_g_score: 44
+culture_g_justification: "Artiste francophone reconnue au Québec et en France, mais dont les références restent relativement limitées hors de la chanson."
 ---
-
-
 ![Image de Isabelle Boulay](https://upload.wikimedia.org/wikipedia/commons/6/67/Isabelle_Boulay.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - a contribué à la popularité du journal télévisé en France
 questions:
  - 76, quel journaliste obtient de Leonid Brejnev la toute première interview télévisée accordée à un étranger?
+culture_g_score: 72
+culture_g_justification: "Grand présentateur du journal télévisé français, associé à une période marquante de TF1, à des innovations médiatiques et à des événements historiques."
 ---
-
 ![Image de Yves Mourousi ](https://upload.wikimedia.org/wikipedia/commons/4/4e/YvesMourousi-Toulouse-1983.png)
 
 ###### Questions

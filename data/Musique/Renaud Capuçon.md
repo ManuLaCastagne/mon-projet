@@ -20,9 +20,9 @@ indice_5:
   - directeur artistique du Festival de Pâques d'Aix-en-Provence
 indice_6:
   - marié à Laurence Ferrari
+culture_g_score: 60
+culture_g_justification: "Violoniste français médiatique et reconnu, mais encore relativement spécialisé malgré ses liens avec l'opéra, les orchestres et la vie culturelle."
 ---
-
-
 ![Image de Renaud Capuçon](https://upload.wikimedia.org/wikipedia/commons/f/f1/Renaud_Capu%C3%A7on_2013.jpg)
 
 ###### Questions

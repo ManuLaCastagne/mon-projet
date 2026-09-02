@@ -19,8 +19,9 @@ indice_5 :
   - ancien grand reporter
 indice_6 : 
   - collaborateur de Cyril Hanouna
+culture_g_score: 24
+culture_g_justification: "Chroniqueur surtout associé à une émission précise et à une anecdote médiatique, ce qui offre un rendement culturel très faible."
 ---
-
 ![Image de Jean-Michel Maire](https://upload.wikimedia.org/wikipedia/commons/8/8b/Jean-Michel_Maire_in_2018.png)
 
 ###### Questions

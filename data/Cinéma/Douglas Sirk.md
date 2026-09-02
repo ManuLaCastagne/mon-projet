@@ -22,8 +22,9 @@ indice_6 :
   - Influences sur Fassbinder
 questions:
  - En 1958, quel réalisateur américain évoque l'amitié de 2 veuves,  une Blanche et une Noire, dans le film "Mirage de la vie"?
+culture_g_score: 48
+culture_g_justification: "Réalisateur important de l’âge d’or hollywoodien, mais relativement spécialisé malgré ses liens avec le mélodrame et l’influence de la critique moderne."
 ---
-
 ![Image de Douglas Sirk](https://upload.wikimedia.org/wikipedia/commons/c/cf/Douglas_Sirk_%281955%29.jpg)
 
 ###### Questions

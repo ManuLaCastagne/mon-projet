@@ -18,8 +18,9 @@ indice_5 :
   - XIXe siècle
 indice_6 : 
   - Comtesse de Lovelace
+culture_g_score: 80
+culture_g_justification: "Figure classique de l’histoire de l’informatique, avec des liens rentables vers Babbage, les mathématiques et le premier programme."
 ---
-
 ![Image de Ada Lovelace](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg)
 
 ###### Questions

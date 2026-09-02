@@ -22,10 +22,9 @@ indice_6 :
   - 1982
 questions:
  - Quel long-métrage de la série des "Gendarmes", sorti en 1982, est le dernier film tourné par Louis de Funès?
+culture_g_score: 64
+culture_g_justification: "Dernier volet d’une série populaire portée par Louis de Funès, mais moins central que les épisodes les plus emblématiques du Gendarme."
 ---
-
-
-
 ![Image de Le Gendarme et les Gendarmettes](https://upload.wikimedia.org/wikipedia/commons/f/fb/Film_Reel_-_Le_Gendarme_et_les_Gendarmettes.jpg)
 
 ###### Questions

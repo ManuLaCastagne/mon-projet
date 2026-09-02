@@ -22,8 +22,9 @@ indice_6 :
   - Les Mystères de Londres
 questions:
  - Entre 1863 et 1875, à quel écrivain doit-on "Les Habits noirs" en 8 volumes ?
+culture_g_score: 60
+culture_g_justification: "Auteur classique du roman-feuilleton, utile pour Le Bossu, Les Mystères de Londres et la littérature populaire du XIXe siècle."
 ---
-
 ![Image de Paul Féval](https://upload.wikimedia.org/wikipedia/commons/f/fe/Paul_F%C3%A9val.jpg)
 
 ###### Questions

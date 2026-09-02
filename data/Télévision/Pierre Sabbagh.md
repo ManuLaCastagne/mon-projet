@@ -20,8 +20,9 @@ indice_6 :
   - Télévision
 questions:
  - Quel journaliste, à l'origine du premier journal télévisé en France, a lancé en 66 l'émission "Au théâtre ce soir"?
+culture_g_score: 68
+culture_g_justification: "Pionnier de la télévision française, créateur du journal télévisé et d’Au théâtre ce soir, avec une forte valeur historique."
 ---
-
 ![Image de Pierre Sabbagh](https://upload.wikimedia.org/wikipedia/commons/8/83/Sabbagh_%28et_Pierre%29_Hirsch_%28joueurs_de_tennis%29_-_photographie_de_presse_-_Agence_Rol_-_btv1b530367985.jpg)
 
 ###### Questions

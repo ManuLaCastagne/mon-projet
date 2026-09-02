@@ -18,8 +18,9 @@ indice_5 :
   - Guillaume le Maréchal
 indice_6 : 
   - Victoire française
+culture_g_score: 64
+culture_g_justification: "Victoire majeure de Philippe Auguste, souvent associée à la consolidation de la monarchie française, mais à portée surtout médiévale et nationale."
 ---
-
 ![Image de bataille de Bouvines](https://upload.wikimedia.org/wikipedia/commons/0/08/Lieu_de_la_bataille_de_Bouvines_en_1214_%283%29.jpg)
 
 ###### Questions

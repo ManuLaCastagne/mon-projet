@@ -15,8 +15,9 @@ indice_6 :
   - Messager dans la littérature
 questions:
  - Quel corbeau, très proche de la corneille noire ont le nom scientifique est Corvus frugilegus possède un bec déplumé à la base ?
+culture_g_score: 32
+culture_g_justification: "Le freux est un corvidé distinct mais peu connu du grand public, rarement demandé en dehors de l'ornithologie."
 ---
-
 ![Image de Freux](https://upload.wikimedia.org/wikipedia/commons/9/98/Freu_eglijhe.jpg)
 
 ###### Questions

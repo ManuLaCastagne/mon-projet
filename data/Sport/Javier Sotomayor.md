@@ -20,8 +20,9 @@ indice_6 :
   - Championnats du monde
 questions:
  - En 1988, quel athlète cubain bat pour la 1re fois le record du monde de saut en hauteur avec un bond à 2,43 m ?
+culture_g_score: 64
+culture_g_justification: "Son record mondial toujours en vigueur fait de Sotomayor une question classique d’athlétisme, malgré une portée limitée."
 ---
-
 ![Image de Javier Sotomayor](https://upload.wikimedia.org/wikipedia/commons/8/81/Javier_Sotomayor_2009.jpg)
 
 ###### Questions

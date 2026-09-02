@@ -20,8 +20,9 @@ indice_6 :
   - Palmes interdites
 questions:
  - Technique ayant permis au Japonais Kosuke Kitajima de remporter 3 titres de champion du monde, ma 1re apparition aux jeux Olympiques date de 1896 à Athènes.  Discipline pratiquée sur le ventre, je me base sur les actions coordonnées et symétriques...
+culture_g_score: 64
+culture_g_justification: "Nage olympique très connue et régulièrement questionnée, avec des angles toutefois concentrés sur la natation."
 ---
-
 ![Image de Brasse](https://upload.wikimedia.org/wikipedia/commons/8/8f/Brasse_Br%C3%A4nnstr%C3%B6m_Lisebergsappl%C3%A5den_2013_2.jpg)
 
 ###### Questions

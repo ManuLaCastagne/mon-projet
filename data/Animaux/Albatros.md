@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté et d'endurance
 questions:
  - Parcourant de grandes distances dans les mers australes grâce à mon vol plané dynamique, je suis obligé de courir sur plusieurs mètres pour m'envoler du fait de mon envergure...
+culture_g_score: 80
+culture_g_justification: "Oiseau emblématique de la littérature, de la navigation et des records de vol, souvent exploitable sous plusieurs angles."
 ---
-
 ![Image de Albatros](https://upload.wikimedia.org/wikipedia/commons/2/2a/Albatros_Werke_GmbH.svg)
 
 ###### Questions

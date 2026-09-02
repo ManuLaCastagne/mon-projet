@@ -22,12 +22,9 @@ indice_5 :
   - Volcan Karthala à proximité
 indice_6 : 
   - Monnaie locale franc comorien
+culture_g_score: 40
+culture_g_justification: "Capitale d’un petit archipel africain, surtout utile pour quelques questions de géographie politique et volcanologique."
 ---
-
-
-
-
-
 ![Image de Moroni](https://upload.wikimedia.org/wikipedia/commons/4/4f/Moroni_harbour_%282%29.jpg)
 
 ![[Carte_Moroni.png]]

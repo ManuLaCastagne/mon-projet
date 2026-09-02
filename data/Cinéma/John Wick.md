@@ -18,8 +18,9 @@ indice_5 :
   - Parabellum
 indice_6 : 
   - Chien
+culture_g_score: 73
+culture_g_justification: "La franchise John Wick et Keanu Reeves sont des références contemporaines fréquentes, mais les angles restent principalement liés au cinéma d'action."
 ---
-
 ![Image de John Wick](https://upload.wikimedia.org/wikipedia/commons/4/4c/John_Wick_-_Lucca_2017.jpg)
 
 ###### Questions

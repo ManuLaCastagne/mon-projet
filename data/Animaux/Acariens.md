@@ -15,8 +15,9 @@ indice_6 :
   - Allergènes domestiques
 questions:
  - Animaux dont le nom est associé à l'adjectif rouge dans l'appellation courante de l'un de nos représentants. On comprend de nombreuses espèces classées parmi les arachnides. Utilisés pour façonner la croûte des fromages...
+culture_g_score: 64
+culture_g_justification: "Sujet fréquent autour des allergies, de la poussière et des arachnides, mais peu transversal au-delà de ces thèmes."
 ---
-
 ![Image de Acariens](https://upload.wikimedia.org/wikipedia/commons/6/6f/Acariens_3.jpg)
 
 ###### Questions

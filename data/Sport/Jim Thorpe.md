@@ -18,10 +18,9 @@ indice_5:
   - Sac et Fox Nation
 indice_6:
   - Football américain
+culture_g_score: 83
+culture_g_justification: "Champion olympique controversé, athlète polyvalent et pionnier du football américain, Jim Thorpe est particulièrement transversal."
 ---
-
-
-
 ![Image de James Thorpe](https://upload.wikimedia.org/wikipedia/commons/7/71/James_Thorpe_-_90th_District_-_Ohio_House_of_Representatives_109th_General_Assembly_-_DPLA_-_5586be78567b1fe89fca76f0a79cfcb8_%28page_11%29_%28cropped%29.jpg)
 
 ###### Questions

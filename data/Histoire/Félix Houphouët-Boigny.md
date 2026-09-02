@@ -20,8 +20,9 @@ indice_6 :
   - plantation de cacao
 questions:
  - Quel homme politique africain, plusieurs fois ministre en France, proclama en 1960 l'indépendance de la Côte d'Ivoire ?
+culture_g_score: 64
+culture_g_justification: "Fondateur de la Côte d’Ivoire indépendante et figure de l’Afrique francophone, utile mais moins central dans les quiz mondiaux."
 ---
-
 ![Image de Félix Houphouët-Boigny](https://upload.wikimedia.org/wikipedia/commons/7/76/F%C3%A9lix_Houphou%C3%ABt-Boigny_1962-07-16.jpg)
 
 ###### Questions

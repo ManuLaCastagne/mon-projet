@@ -22,9 +22,9 @@ indice_6:
   - connue pour son style visuel élégant
 questions:
   - Virgin Suicides, "Lost In Translation" et "Marie-Antoinette". Fille d'un célèbre cinéaste, réalisatrice de "On the Rocks" en 2020...
+culture_g_score: 80
+culture_g_justification: "Réalisatrice et scénariste reconnue, interrogée à la fois pour ses films, son Oscar, Cannes et sa filiation avec Coppola."
 ---
-
-
 ![Image de Sofia Coppola](https://upload.wikimedia.org/wikipedia/commons/5/5d/Sofia_Coppola_1999.jpg)
 
 ###### Questions

@@ -18,7 +18,8 @@ indice_6 :
   - Déesse Athéna
 questions:
  - Quel héros épouse Déjanire après une lutte acharnée avec...
-culture_g_score: 97
+culture_g_score: 100
+culture_g_justification: "Héraclès est l’un des héros mythologiques les plus incontournables, avec les Douze Travaux, de nombreux monstres et une large postérité culturelle."
 ---
 ![Image de Héraclès](https://upload.wikimedia.org/wikipedia/commons/a/af/Royal_Coat_of_Arms_of_Greece.svg)
 

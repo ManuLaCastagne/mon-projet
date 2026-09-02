@@ -18,8 +18,9 @@ indice_5 :
   - utilisation de la perspective
 indice_6 : 
   - Musée du Louvre
+culture_g_score: 32
+culture_g_justification: "Bataille surtout connue par les tableaux de Paolo Uccello, offrant peu de rendement historique autonome."
 ---
-
 ![Image de Bataille de San Romano](https://upload.wikimedia.org/wikipedia/commons/4/41/Paolo_di_Dono%2C_dit_Uccello_-_La_bataille_de_San_Romano_la_contre-attaque_de_Micheletto_da_Cotignola%2C_1455.jpg)
 
 ###### Questions

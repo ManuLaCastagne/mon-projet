@@ -23,8 +23,9 @@ indice_6 :
   - exilé à Bruxelles
 questions:
  - A quel peintre, grand ordonnateur des fêtes révolutionnaires, doit-on le tableau inachevé "Le Serment du Jeu de paume" ou le Portrait de Madame Récamier ?
+culture_g_score: 100
+culture_g_justification: "David est incontournable pour le néoclassicisme, la Révolution, Napoléon, la propagande politique et plusieurs tableaux majeurs."
 ---
-
 ![Image de Jacques-Louis David](https://upload.wikimedia.org/wikipedia/commons/f/fb/Jacques-Louis_David_-_Cupid_and_Psyche_-_1962.37_-_Cleveland_Museum_of_Art.tiff)
 
 ###### Questions

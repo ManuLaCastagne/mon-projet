@@ -18,8 +18,9 @@ indice_5 :
   - 1960s
 indice_6 : 
   - Wall of Sound
+culture_g_score: 60
+culture_g_justification: "Groupe féminin emblématique de la pop des années 1960, surtout grâce à «Be My Baby» et à Phil Spector."
 ---
-
 ![Image de The Ronettes](https://upload.wikimedia.org/wikipedia/commons/0/04/The_Ronettes.JPG)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Hyperréalisme
 questions:
  - Je sais que Jean-Julien est passionné par l'art.  Procédé artistique dont le nom  figure dans le titre d'une oeuvre de Louis Léopold Boilly représentée sur un guéridon, j'ai notamment été apprécié par l'art [[baroque]]. Jouant sur la perspective et créant le doute dans l'esprit du spectateur, je consiste par exemple à représenter...
+culture_g_score: 83
+culture_g_justification: "Notion artistique très fréquente et exploitable en peinture, architecture, décoration, perspective et histoire de l’art."
 ---
-
 ![Image de Trompe-l'œil](https://upload.wikimedia.org/wikipedia/commons/8/8b/Grad_Bre%C5%BEice%2C_%22Trompe-l%27%C5%93il%22_freska_nad_stopni%C5%A1%C4%8Dem.jpg)
 
 ###### Questions

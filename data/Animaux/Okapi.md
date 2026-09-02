@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la biodiversité congolaise
 questions:
  - Mammifère africain ayant fait l'objet dès 1987 d'un projet de conservation OCP, je suis un ruminant solitaire d'environ 200 kg doté d'une langue...
+culture_g_score: 68
+culture_g_justification: "Mammifère africain très reconnaissable par ses rayures et son aspect de mélange entre zèbre et girafe, avec des liens à la géographie et à la conservation."
 ---
-
 ![Image de Okapi](https://upload.wikimedia.org/wikipedia/commons/b/b6/Okapia_johnstoni_-Marwell_Wildlife%2C_Hampshire%2C_England-8a.jpg)
 
 ###### Questions

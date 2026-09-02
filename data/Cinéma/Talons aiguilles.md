@@ -22,8 +22,9 @@ indice_6 :
   - années 90
 questions:
  - En 1991, dans quel film de Pedro Almodovar, Victoria Abril joue-t-elle une présentatrice de journal télévisé?
+culture_g_score: 60
+culture_g_justification: "Film reconnu de Pedro Almodóvar, utile pour le cinéma espagnol et ses acteurs, mais moins incontournable que ses œuvres les plus célèbres."
 ---
-
 ![Image de Talons aiguilles](https://upload.wikimedia.org/wikipedia/commons/5/5f/1952_ad_for_stiletto_heels.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour parfumer l'air ambiant
 questions:
  - Quel locution désigne un ensemble de fleurs séchées et de plantes odorantes ?
+culture_g_score: 44
+culture_g_justification: "Objet traditionnel lié aux parfums et aux plantes séchées, mais dont les angles de culture générale sont peu nombreux."
 ---
-
 ![Image de Pot-pourri](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pot_Pourri_%281919%29_%2814596138067%29.jpg)
 
 ###### Questions

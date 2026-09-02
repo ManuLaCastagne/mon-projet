@@ -20,8 +20,9 @@ indice_6 :
   - capture du roi de France
 questions:
  - En 1525, à l'issue de quelle bataille François Ier est-il fait prisonnier par Charles Quint ?
+culture_g_score: 68
+culture_g_justification: "Épisode marquant des guerres d’Italie, surtout retenu pour la capture de François Ier par Charles Quint."
 ---
-
 ![Image de Bataille de Pavie](https://upload.wikimedia.org/wikipedia/commons/5/57/Battle_of_Pavia_tapestries-3.jpg)
 
 ###### Questions

@@ -20,12 +20,9 @@ indice_5:
   - Les années 80
 indice_6:
   - La chanson française
+culture_g_score: 40
+culture_g_justification: "Chanteur populaire des années 1970 identifiable par quelques titres, mais désormais peu transversal et peu prioritaire."
 ---
-
-
-
-
-
 ![Image de C Jérôme](https://upload.wikimedia.org/wikipedia/commons/f/fb/ANCExplorer_Clayton_C._Jerome_grave.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Vieux-Nice
 questions:
  - De quelle ville du sud de la France la socca, cette grande galette à base de farine de pois chiche, est-elle  une spécialité ?
+culture_g_score: 80
+culture_g_justification: "Grande ville française très rentable grâce à la Côte d'Azur, la Promenade des Anglais, le tourisme, l'art, l'histoire et le traité européen de Nice."
 ---
-
 ![Image de Nice](https://upload.wikimedia.org/wikipedia/commons/d/d3/0519_-France_-_Nice_-_Corner_Rue_de_l%27Abbaye_and_Rue_Saint_Vincent_-_looking_up_-_HDR_-_VP.jpg)
 
 ![[Carte_Nice.png]]

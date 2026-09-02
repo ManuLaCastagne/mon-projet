@@ -22,8 +22,9 @@ indice_6 :
   - XVIIe siècle
 questions:
  - Quelle pièce de Molière s'achève par la phrase "et moi, voir "ma chère cassette", prononcée par Harpagon ?
+culture_g_score: 97
+culture_g_justification: "Comédie incontournable de Molière, fréquemment interrogée à travers Harpagon, ses répliques, son intrigue et le théâtre classique."
 ---
-
 ![Image de L'Avare](https://upload.wikimedia.org/wikipedia/commons/9/9f/Moli%C3%A8re%2C_L%27Avare_%E2%80%94_Classiques_Illustr%C3%A9s_Vaubourdolle%2C_couverture.jpg)
 
 ###### Questions

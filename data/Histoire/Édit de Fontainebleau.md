@@ -20,8 +20,9 @@ indice_6 :
   - catholicisme renforcé
 questions:
  - En 1685, par quel acte politique Louis XIV met-il fin à l'existence légale du protestantisme en France?
+culture_g_score: 77
+culture_g_justification: "La révocation de l'édit de Nantes par Louis XIV est un repère fréquent sur la monarchie, les guerres de Religion et l'exil huguenot."
 ---
-
 ![Image de Édit de Fontainebleau](https://upload.wikimedia.org/wikipedia/commons/0/0f/Ch%C3%A2teau_de_Fontainebleau_%28Fontainebleau%29_edited_%282%29.jpg)
 
 ###### Questions

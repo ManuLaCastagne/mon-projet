@@ -20,8 +20,9 @@ indice_6 :
   - règne de 843 à 877
 questions:
  - Par le France signé en 840 avec ses frères, quel fils de Louis Ier le Pieux et de Judith de Bavière devient roi de la Francia Occidentalis ?
+culture_g_score: 52
+culture_g_justification: "Roi carolingien utile pour le traité de Verdun et la Francie occidentale, mais moins fréquent que Charlemagne ou les grands rois français."
 ---
-
 ![Image de Charles II le Chauve](https://upload.wikimedia.org/wikipedia/commons/f/f8/Charles_II_le_Chauve_-_2.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - ours en peluche nommé Teddy
 questions:
  - Quelle série humoristique diffusée en France dès 93 met en scène Rowan Atkinson dans le rôle-titre ?
+culture_g_score: 93
+culture_g_justification: "Personnage télévisuel mondialement célèbre, immédiatement associé à Rowan Atkinson, à la comédie britannique et à de nombreux éléments visuels."
 ---
-
 ![Image de Mister Bean](https://upload.wikimedia.org/wikipedia/commons/8/8e/Daniel_Colindres_-_2017.jpg)
 
 ###### Questions

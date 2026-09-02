@@ -20,10 +20,9 @@ indice_6 :
   - US Open
 questions:
  - En 2010, quel joueur de tennis espagnol apparaît dans le clip...
+culture_g_score: 100
+culture_g_justification: "Icône mondiale du tennis, omniprésente dans les quiz grâce à Roland-Garros, ses records, ses rivaux et ses titres olympiques."
 ---
-
-
-
 ![Image de Rafael Nadal](https://upload.wikimedia.org/wikipedia/commons/7/71/Rafael_Nadal_en_2024_%28cropped%29.jpg)
 
 ###### Questions

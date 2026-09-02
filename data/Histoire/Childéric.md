@@ -20,9 +20,9 @@ indice_6 :
   - tombeau riche en trésors
 questions:
  - Les Wisigoths aux côtés des armées romaines en Gaule (pays). Fils présumé du roi Mérovée, je séduis la femme du roi de Thuringe dont j'ai un fils, Clovis.
+culture_g_score: 60
+culture_g_justification: "Père de Clovis et figure mérovingienne associée à une découverte archéologique célèbre, mais moins central que son fils."
 ---
-
-
 ![Image de Childéric](https://upload.wikimedia.org/wikipedia/commons/3/36/Childeric_tomb_1.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - héritiers des Pays-Bas
 indice_6 : 
   - lignée dynastique européenne
+culture_g_score: 48
+culture_g_justification: "Dynastie essentielle pour l’histoire des Pays-Bas, mais moins fréquente et moins transversale que les grandes maisons européennes."
 ---
-
 ![Image de Orange-Nassau](https://upload.wikimedia.org/wikipedia/commons/7/73/Orange_Nassau_Grand_Officer.png)
 
 ###### Questions

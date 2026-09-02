@@ -18,8 +18,9 @@ indice_5:
   - dessins animés
 indice_6:
   - Casimir
+culture_g_score: 76
+culture_g_justification: "Émission jeunesse culte associée à Dorothée et à de nombreux dessins animés, fréquemment mobilisée dans les quiz nostalgiques."
 ---
-
 ![Image de Récré A2](https://upload.wikimedia.org/wikipedia/commons/7/71/Ambigram_Candy_-_animated.gif)
 
 ###### Questions

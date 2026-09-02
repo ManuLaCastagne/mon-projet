@@ -20,8 +20,9 @@ indice_6 :
   - auteur de plusieurs livres
 questions:
  - De 1991 à 2010, quel journaliste a présenté l'émission "Combien ça coûte ?"?
+culture_g_score: 77
+culture_g_justification: "Présentateur emblématique du 13 heures de TF1 pendant plus de trente ans, fréquemment mobilisable dans les questions sur les médias français."
 ---
-
 ![Image de Jean-Pierre Pernaut](https://upload.wikimedia.org/wikipedia/commons/4/42/Jean-Pierre_Pernaut_%28cropped%29.jpg)
 
 ###### Questions

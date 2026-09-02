@@ -20,9 +20,9 @@ indice_6 :
   - catégories multiples
 questions:
  - De 1985 à 2003 en France, quel trophée récompensait chaque année les meilleures émissions et les professionnels de la télévision ?
+culture_g_score: 60
+culture_g_justification: "Ancienne récompense majeure de la télévision française, utile pour les questions sur les cérémonies et l’histoire des médias."
 ---
-
-
 ![Image de Les 7 d'or](https://upload.wikimedia.org/wikipedia/commons/e/e9/Les_sables_d%27or_-_panoramio_%287%29.jpg)
 
 ###### Questions

@@ -21,9 +21,9 @@ indice_5 :
   - avant-gardiste
 indice_6 : 
   - collaboration artistique
+culture_g_score: 67
+culture_g_justification: "Diaghilev est très utile pour relier Ballets russes, Stravinsky, Nijinski, peinture moderne et diffusion culturelle européenne."
 ---
-
-
 ![Image de Diaghilev](https://upload.wikimedia.org/wikipedia/commons/1/1d/Sergei_Diaghilev_01.jpg)
 
 ###### Questions

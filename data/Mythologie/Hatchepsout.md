@@ -18,9 +18,9 @@ indice_6 :
   - fausse barbe royale
 questions:
  - Quelle reine d'Egypte ayant usurpé le pouvoir durant...
+culture_g_score: 80
+culture_g_justification: "Pharaon exceptionnel par son accession féminine au pouvoir, son expédition à Pount et ses monuments."
 ---
-
-
 ![Image de Hatchepsout](https://upload.wikimedia.org/wikipedia/commons/c/c1/Sphinx_of_Hatshepsut_c.jpg)
 
 ###### Questions

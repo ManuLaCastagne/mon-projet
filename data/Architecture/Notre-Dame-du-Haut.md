@@ -23,9 +23,9 @@ indice_6 :
   - mur aux formes courbes
 questions:
  - En 1955, quelle chapelle du Corbusier est achevée au sommet de Ronchamp en Haute-Saône ?
+culture_g_score: 56
+culture_g_justification: "Œuvre importante de Le Corbusier et du modernisme religieux, Notre-Dame-du-Haut reste toutefois une référence relativement spécialisée."
 ---
-
-
 ![Image de Notre-Dame-du-Haut](https://upload.wikimedia.org/wikipedia/commons/4/42/Notre_Dame_Paris_front_facade_lower.jpg)
 
 ###### Questions

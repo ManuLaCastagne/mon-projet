@@ -21,8 +21,9 @@ indice_5:
 indice_6:
   - films basés sur des livres
 questions: []
+culture_g_score: 40
+culture_g_justification: "Biopic assez secondaire sur Beatrix Potter, dont l’intérêt dépend surtout de la connaissance de Pierre Lapin et du cinéma familial."
 ---
-
 ![Image de Beatrix Potter](https://upload.wikimedia.org/wikipedia/commons/9/93/Beatrix_Potter_by_King_cropped.jpg)
 
 ###### Questions

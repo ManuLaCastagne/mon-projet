@@ -22,9 +22,9 @@ indice_6 :
   - Elle a animé 'Nouvelle Star'
 questions:
  - Donnant la réplique à François-Xavier Demaison dans "La Chance de ma vie", à Cinéma/Pierre Niney dans "20 ans d'écart", j'incarne une avocate dans "Victoria". Actrice franco-belge à l'affiche du "Le Grand bain" en 2018 et de "Police" en 2020, je suis…
+culture_g_score: 76
+culture_g_justification: "Actrice francophone très présente dans le cinéma contemporain, avec des liens exploitables vers Sciamma, Verhoeven, Triet et plusieurs succès récents."
 ---
-
-
 ![Image de Virginie Efira](https://upload.wikimedia.org/wikipedia/commons/8/82/Virginie_Efira_Portrait_2023_%281%29.jpg)
 
 ###### Questions

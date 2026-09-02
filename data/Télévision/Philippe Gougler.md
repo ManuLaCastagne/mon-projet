@@ -21,6 +21,7 @@ indice_6 :
 questions:
  - 2020, quel journaliste présente une spéciale de l'émission "Des trains pas comme les autres", depuis la Cité du Train de Mulhouse ?
 culture_g_score: 40
+culture_g_justification: "Animateur apprécié des émissions de voyage, mais principalement connu pour un nombre restreint de programmes."
 ---
 ![Image de Philippe Gougler](https://upload.wikimedia.org/wikipedia/commons/a/a9/Philippe_Gougler.jpg)
 

@@ -18,9 +18,9 @@ indice_5:
   - France
 indice_6:
   - ski alpin
+culture_g_score: 73
+culture_g_justification: "Édition fondatrice des Jeux olympiques d'hiver, fréquemment liée à Chamonix, à 1924 et à l'histoire olympique."
 ---
-
-
 ![Image de Chamonix 1924](https://upload.wikimedia.org/wikipedia/commons/5/5c/1924WOlympicPoster.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole des Andes
 questions:
  - Pouvant atteindre une envergure de plus de 3 m dans le cas de mon espèce la plus connue...
+culture_g_score: 71
+culture_g_justification: "Oiseau emblématique des Andes et de la conservation, souvent relié à la musique, aux cultures sud-américaines et à la zoologie."
 ---
-
 ![Image de Condor](https://upload.wikimedia.org/wikipedia/commons/b/b0/Leipzig_Halle_Airport_Condor_Airbus_A321-211%28WL%29_D-AIAF_%28DSC07782%29.jpg)
 
 ###### Questions

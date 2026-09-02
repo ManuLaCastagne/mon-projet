@@ -14,8 +14,9 @@ indice_5:
   - Navire du désert
 indice_6:
   - Symbole de résistance et d'endurance
+culture_g_score: 84
+culture_g_justification: "Animal universellement identifiable, lié à la Bible, aux déserts, aux transports, à l’adaptation et à la géographie."
 ---
-
 ![Image de Chameau](https://upload.wikimedia.org/wikipedia/commons/9/9b/Chameau_de_Bactriane_%28Camelus_bactrianus%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - virilité excessive
 questions:
  - En 2006, dans l'album intitulé "La Nouvelle Virilité", quel héros, créé par Riad Sattouf, croise la chanteuse Diam's?
+culture_g_score: 32
+culture_g_justification: "Personnage marquant de la bande dessinée contemporaine mais trop spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Pascal Brutal](https://upload.wikimedia.org/wikipedia/commons/b/b2/Pascal_-_Pens%C3%A9es%2C_%C3%A9d._Havet.djvu)
 
 ###### Questions

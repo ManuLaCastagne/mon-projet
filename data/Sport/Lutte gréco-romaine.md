@@ -20,9 +20,9 @@ indice_6 :
   - Ceinture rouge
 questions:
  - 1912, dans quel style de lutte Martin Clerc bat-il le Finlandais ?
+culture_g_score: 64
+culture_g_justification: "Discipline olympique ancienne et identifiable, permettant des questions sur les Jeux, les règles et l’histoire de la lutte."
 ---
-
-
 ![Image de Lutte gréco-romaine](https://upload.wikimedia.org/wikipedia/commons/8/8e/Wrestling_match_in_greco-roman_at_the_University_International_Sports_Festival.jpg)
 
 ###### Questions

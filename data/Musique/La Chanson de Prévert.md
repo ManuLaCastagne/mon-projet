@@ -22,8 +22,9 @@ indice_6 :
   - mélancolie
 questions:
  - En 1961, dans quel titre, débutant par  "Oh je voudrais tant que tu te souviennes", Gainsbourg cite-t-il le nom du compositeur Kosma?
+culture_g_score: 60
+culture_g_justification: "Titre notable de Gainsbourg reliant chanson française, poésie de Prévert et nostalgie, sans être un incontournable absolu."
 ---
-
 ![Image de La Chanson de Prévert](https://upload.wikimedia.org/wikipedia/commons/4/4f/Samuel_de_Champlain_%28microforme%29_%28IA_cihm_08877%29.pdf)
 
 ###### Questions

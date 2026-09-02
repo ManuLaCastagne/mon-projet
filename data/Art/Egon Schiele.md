@@ -23,8 +23,9 @@ indice_6 :
   - Figures controversées
 questions:
  - Disparu précocement à 28 ans, j'ai développé une oeuvre où dominent le portrait et le nu, mêlant érotisme et morbidité, exécutés d'un trait tourmenté. Considéré comme l'un des artistes majeurs de l'avant-garde viennoise, je suis avec Gustav Klimt le peintre...
+culture_g_score: 71
+culture_g_justification: "Schiele est un peintre expressionniste important, mais ses questions restent surtout centrées sur l'art viennois, la sexualité et sa mort précoce."
 ---
-
 ![Image de Egon Schiele](https://upload.wikimedia.org/wikipedia/commons/2/2c/Egon_Schiele_-_Eduard_Kosmack_-_4702_-_%C3%96sterreichische_Galerie_Belvedere.jpg)
 
 ###### Questions

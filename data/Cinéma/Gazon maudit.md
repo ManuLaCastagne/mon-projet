@@ -22,9 +22,9 @@ indice_6 :
   - Échange de maisons
 questions:
  - En 1995, dans quelle comédie Reine Victoria Abril lassée des infidélités de son mari Alain Chabat, comédie très drôle, a-t-elle une aventure avec une femme incarnée par Josiane Balasko?
+culture_g_score: 60
+culture_g_justification: "Comédie française populaire abordant des thèmes sociétaux identifiables, sans être un classique majeur du cinéma mondial."
 ---
-
-
 ![Image de Gazon maudit](https://upload.wikimedia.org/wikipedia/commons/3/3a/French_Twist_Caf%C3%A9_04.JPG)
 
 ###### Questions

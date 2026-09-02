@@ -22,9 +22,9 @@ indice_6 :
   - 1935
 questions:
  - En 1962, quel film avec Marlon Brando s'inspire d'une mutinerie survenue sur un bateau ?
+culture_g_score: 68
+culture_g_justification: "La mutinerie du Bounty est une référence historique et cinématographique, mais les différentes adaptations peuvent limiter la précision des questions."
 ---
-
-
 ![Image de Les Révoltés du Bounty](https://upload.wikimedia.org/wikipedia/commons/1/11/Verne_-_Les_Cinq_Cents_Millions_de_la_B%C3%A9gum_-_Les_R%C3%A9volt%C3%A9s_de_la_Bounty.djvu)
 
 ###### Questions

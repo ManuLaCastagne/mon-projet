@@ -22,8 +22,9 @@ indice_6 :
   - Alan Parsons
 questions:
  - En 1973, quel album des Pink Floyd, popularisé par le tube "Money"…
+culture_g_score: 97
+culture_g_justification: "Album mondialement célèbre, extrêmement fréquent en quiz grâce à sa pochette, Pink Floyd, ses thèmes, ses records et sa production."
 ---
-
 ![Image de Dark side of the Moon](https://upload.wikimedia.org/wikipedia/commons/2/2a/Moon_PIA00304.jpg)
 
 ###### Questions

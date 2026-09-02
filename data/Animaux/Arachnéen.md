@@ -15,8 +15,9 @@ indice_6 :
   - Tisserand de la nature
 questions:
  - Quel adjectif qualifie ce qui rapporte à l'araignée?
+culture_g_score: 23
+culture_g_justification: "Adjectif rare et peu interrogé, dont les usages métaphoriques restent limités."
 ---
-
 ![Image de Arachnéen](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tsuchigumo_no_soshi_emaki_-_Kamakura_-_part_14.jpg)
 
 ###### Questions

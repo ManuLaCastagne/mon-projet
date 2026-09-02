@@ -20,8 +20,9 @@ indice_6 :
   - LNB
 questions:
  - Quel basketteur français, ayant obtenu 8 titres de champion de France avec le CSP Limoges et un avec le PSG compte 160 sélections avec les Bleus ?
+culture_g_score: 44
+culture_g_justification: "Figure importante du basket français et de Limoges, mais peu connue hors des amateurs de basket national."
 ---
-
 ![Image de Richard Dacoury](https://upload.wikimedia.org/wikipedia/commons/b/bb/Richard_Dacoury_R%C3%A9ception_Limoges_CSP_1995_2_%28cropped%29.jpg)
 
 ###### Questions

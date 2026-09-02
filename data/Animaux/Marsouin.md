@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la liberté marine
 questions:
  - Quel cétacé, également appelé cochon de mer, se distingue du dauphin par sa tête plus courte et sans bec ?
+culture_g_score: 40
+culture_g_justification: "Cétacé connu surtout par opposition au dauphin, avec quelques questions possibles sur l’écholocation et les espèces marines."
 ---
-
 ![Image de Marsouin](https://upload.wikimedia.org/wikipedia/commons/9/91/Petit_Marsouin_p117.png)
 
 ###### Questions

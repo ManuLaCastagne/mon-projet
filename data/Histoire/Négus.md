@@ -18,8 +18,9 @@ indice_5 :
   - Négus Ménélik II
 indice_6 : 
   - Ras Tafari
+culture_g_score: 48
+culture_g_justification: "Titre historique éthiopien associé à Haïlé Sélassié, intéressant mais moins fréquent que la personnalité elle-même."
 ---
-
 ![Image de Négus]()
 
 ###### Questions

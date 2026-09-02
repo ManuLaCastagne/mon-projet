@@ -20,8 +20,9 @@ indice_5 :
   - cérémonie d'ouverture sans spectateurs
 indice_6 : 
   - médaille d'or en surf pour la France
+culture_g_score: 84
+culture_g_justification: "Édition olympique exceptionnelle par son report lié au Covid-19 et l’introduction de nouvelles disciplines, donc très exploitable en quiz."
 ---
-
 ![Image de Tokyo 2020](https://upload.wikimedia.org/wikipedia/commons/6/6d/2020_Summer_Olympics_text_logo.svg)
 
 ###### Questions

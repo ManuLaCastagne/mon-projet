@@ -22,7 +22,8 @@ indice_6 :
   - littérature française du XIXe siècle
 questions:
  - Quel bagnard inspira à Balzac le personnage de Vautrin ?
-culture_g_score: 63
+culture_g_score: 80
+culture_g_justification: "Personnage historique très rentable, à la croisée du banditisme, de la police, de la criminologie et de la littérature policière."
 ---
 ![Image de François Vidocq](https://upload.wikimedia.org/wikipedia/commons/f/f0/Eug%C3%A8ne-Fran%C3%A7ois_Vidocq.jpg)
 

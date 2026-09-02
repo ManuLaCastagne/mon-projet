@@ -23,8 +23,9 @@ indice_6 :
   - avenue Winston-Churchill
 questions:
  - Quel bâtiment, abritant le musée des Beaux-Arts de la Ville de Paris, a été construit sur un plan trapézoïdal entre les Champs-Elysées et la Seine?
+culture_g_score: 68
+culture_g_justification: "Musée parisien important et reconnaissable, mais nettement moins incontournable que les grands monuments et musées nationaux."
 ---
-
 ![Image de Petit Palais](https://upload.wikimedia.org/wikipedia/commons/b/b1/Petit_Palais_Paris_8e.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - best-seller international
 questions:
  - Quel est cet écrivain suisse, né en 1985, fondateur à 10 ans d'une gazette sur les animaux qui me vaudra de recevoir le prix Cunéo.
+culture_g_score: 56
+culture_g_justification: "Auteur contemporain très vendu et associé à Harry Quebert, mais encore limité en importance culturelle générale."
 ---
-
 ![Image de Joël Dicker](https://upload.wikimedia.org/wikipedia/commons/2/2c/Joel_Dicker_2016.jpg)
 
 ###### Questions

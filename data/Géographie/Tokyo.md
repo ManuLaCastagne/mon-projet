@@ -22,8 +22,9 @@ indice_5 :
   - sushi
 indice_6 : 
   - manga
+culture_g_score: 100
+culture_g_justification: "Tokyo est une métropole mondialement incontournable, présente dans des questions de géographie, d’histoire, de culture, d’économie et de sport."
 ---
-
 ![Image de Tokyo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Soba-Noodles-Deliveryman-Tokyo-1935.png)
 
 ![[Carte_Tokyo.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - manifestations de masse
 questions:
  - Quel nom porte le soulèvement pacifique de 1989 en Yougoslavie ?
+culture_g_score: 80
+culture_g_justification: "Épisode classique de la chute des régimes communistes, associé à 1989, Václav Havel et la transition démocratique tchécoslovaque."
 ---
-
 ![Image de Révolution de velours](https://upload.wikimedia.org/wikipedia/commons/4/42/1989_November_Prague_Velvet_Revolution_Wenceslas_Square_night_time_protest.jpg)
 
 ###### Questions

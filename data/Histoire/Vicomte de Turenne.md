@@ -20,8 +20,9 @@ indice_6 :
   - Maison de La Tour d'Auvergne
 questions:
  - En 1675, quel maréchal de France met en fuite l'ennemi à Turckheim ?
+culture_g_score: 64
+culture_g_justification: "Grand maréchal de Louis XIV utile pour l’histoire militaire française, mais moins fréquent et moins transversal que les figures royales de la période."
 ---
-
 ![Image de Vicomte de Turenne](https://upload.wikimedia.org/wikipedia/commons/d/de/Portrait_d%27Henri_de_la_Tour_d%27Auvergne%2C_vicomte_de_Turenne_%281611%E2%80%931675%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - American Dream
 questions:
  - Dans quel roman de Fitzgerald le narrateur est-il le cousin de David Buchanan ?
+culture_g_score: 80
+culture_g_justification: "Grand classique anglophone associé aux années folles, au rêve américain, à Fitzgerald et à de nombreux symboles littéraires."
 ---
-
 ![Image de Gatsby le Magnifique](https://upload.wikimedia.org/wikipedia/commons/6/6e/EdwardMoran-UnveilingTheStatueofLiberty1886Large.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - introspection cosmique
 questions:
  - En 2011, pour quel film le réalisateur américain Terrence Malick a-t-il reçu la Palme d'or du festival de Cannes?
+culture_g_score: 68
+culture_g_justification: "Film d'auteur récompensé à Cannes, utile pour Malick, Brad Pitt, la Palme d'or et ses thèmes philosophiques."
 ---
-
-
 ![Image de The Tree of life](https://upload.wikimedia.org/wikipedia/commons/d/de/Tree_of_life_by_Haeckel.jpg)
 
 ###### Questions

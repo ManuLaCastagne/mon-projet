@@ -20,8 +20,9 @@ indice_6 :
   - Parker Lewis
 questions:
  - Quelle série télé, dont le titre original est "The Pretender" a pour héros un surdoué...
+culture_g_score: 60
+culture_g_justification: "Série américaine connue des amateurs de télévision, avec quelques repères récurrents autour de Jarod, du Centre et de son concept."
 ---
-
 ![Image de Le Caméléon (série)](https://upload.wikimedia.org/wikipedia/commons/d/d1/Sydney_Harbour_Bridge_from_Circular_Quay.jpg)
 
 ###### Questions

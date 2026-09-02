@@ -18,8 +18,9 @@ indice_5 :
   - roman gothique
 indice_6 : 
   - portrait enchanté
+culture_g_score: 80
+culture_g_justification: "Classique mondial d’Oscar Wilde, fréquemment associé au fantastique, à l’esthétisme, à la décadence et à l’époque victorienne."
 ---
-
 ![Image de Le Portrait de Dorian Gray](https://upload.wikimedia.org/wikipedia/commons/8/89/Wilde_-_Le_portrait_de_Dorian_Gray%2C_1895.djvu)
 
 ###### Questions

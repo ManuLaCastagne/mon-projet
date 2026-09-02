@@ -24,8 +24,9 @@ indice_6 :
   - atoll
 questions:
  - Culminant au mont Orohena, je vis essentiellement de la pêche et du tourisme et abrite le musée Paul Gauguin.  Ile du Pacifique constituant le centre économique, politique, social et culturel de toute la Polynésie française, mon chef-lieu est Papeete. Je suis...
+culture_g_score: 72
+culture_g_justification: "Île emblématique de la Polynésie française, associée à Papeete, Gauguin, la colonisation et la géographie du Pacifique."
 ---
-
 ![Image de Tahiti](https://upload.wikimedia.org/wikipedia/commons/d/d9/La_pirogue_%C3%A0_balancier.jpg)
 
 ![[Carte_Tahiti.png]]

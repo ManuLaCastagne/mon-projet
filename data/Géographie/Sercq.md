@@ -23,7 +23,8 @@ indice_6:
   - Manoir de la Seigneurie
 questions:
   - Quel petite île anglo-normande située à l'est de Guernesey est gouvernée par un vassal de la Reine ?
-culture_g_score: 40
+culture_g_score: 44
+culture_g_justification: "Petite dépendance de la Couronne britannique intéressante pour ses particularités politiques et son histoire féodale."
 ---
 ![[Carte_Sercq.png]]
 ###### Questions

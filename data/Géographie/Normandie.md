@@ -21,8 +21,9 @@ indice_5 :
   - Rouen
 indice_6 : 
   - Plages du Débarquement
+culture_g_score: 100
+culture_g_justification: "Région incontournable grâce au Débarquement, au Mont-Saint-Michel, à l'impressionnisme, à l'histoire médiévale et au patrimoine français."
 ---
-
 ![[Carte_Normandie.png]]
 
 ###### Questions

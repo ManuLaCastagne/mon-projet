@@ -21,8 +21,9 @@ indice_5 :
   - Paris
 indice_6 : 
   - Vincent Lindon
+culture_g_score: 31
+culture_g_justification: "Comédie française identifiable par son casting, mais rarement nécessaire dans un quiz généraliste de haut niveau."
 ---
-
 ![Image de Les Sœurs Fâchées](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bouscaren_-_Les_Soeurs_de_lait.djvu)
 
 ###### Questions

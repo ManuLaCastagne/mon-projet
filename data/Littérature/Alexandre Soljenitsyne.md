@@ -22,9 +22,9 @@ indice_6 :
   - écrivain russe
 questions:
  - Auteur exilé du "Pavillon des cancéreux" et de "L'Archipel du goulag", je m'éteins en 2008 à l'âge de 89 ans, je suis…
+culture_g_score: 84
+culture_g_justification: "Soljenitsyne est un repère majeur pour le Goulag, la dissidence soviétique, le prix Nobel et l'histoire du XXe siècle."
 ---
-
-
 ![Image de Alexandre Soljenitsyne](https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_of_the_centre_culturel_alexandre_soljenitsyne_in_paris%2C_free_to_use.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Mammouth
 questions:
  - Cinéma, en 2004. Dans quelle comédie préhistorique Alain Chabat...
+culture_g_score: 44
+culture_g_justification: "Comédie française populaire auprès d’un certain public, mais offrant peu d’angles de quiz au-delà de son intrigue et de son réalisateur."
 ---
-
 ![Image de RRRrrrr !!!](https://upload.wikimedia.org/wikipedia/commons/5/5a/Cave_temples_in_Maharashtra.jpg)
 
 ###### Questions

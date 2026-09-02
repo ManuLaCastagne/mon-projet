@@ -25,8 +25,9 @@ indice_6:
   - Climat tropical avec des ouragans fréquents
 questions:
   - En 2019, dans quelle ville de Floride s'est tenue une foire d'art contemporain au cours de laquelle une banane a été vendue 120 000 dollars? Ville de Floride?
+culture_g_score: 80
+culture_g_justification: "Ville mondialement connue grâce à la Floride, Miami Vice, la culture cubaine, le tourisme et le sport."
 ---
-
 ![Image de Miami](https://upload.wikimedia.org/wikipedia/commons/7/77/Lifeguard_stand%2C_Miami_Beach.jpg)
 
 ![[Carte_Miami.png]]

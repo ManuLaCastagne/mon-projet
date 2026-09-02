@@ -20,9 +20,9 @@ indice_6 :
   - assassiné en 1968
 questions:
  - Le 28 août 1963 à Culture_G/Washington, quel pasteur noir...
+culture_g_score: 100
+culture_g_justification: "Figure universelle des droits civiques, immédiatement reliée à la ségrégation, au discours de 1963, au Nobel et à son assassinat."
 ---
-
-
 ![Image de Martin Luther King](https://upload.wikimedia.org/wikipedia/commons/1/15/Civil_Rights_March_on_Washington%2C_D.C._%28Dr._Martin_Luther_King%2C_Jr._and_Mathew_Ahmann_in_a_crowd.%29_-_NARA_-_542015_-_Restoration.jpg)
 
 ###### Questions

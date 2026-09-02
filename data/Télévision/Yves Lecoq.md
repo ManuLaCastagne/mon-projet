@@ -20,8 +20,9 @@ indice_6 :
   - satire politique
 questions:
  - Pendant une trentaine d'années, quel imitateur était l'une des voix des "Guignols", assurant celle de PPD ?
+culture_g_score: 64
+culture_g_justification: "Imitateur emblématique des Guignols de l'info, régulièrement utile pour des questions sur la satire et la télévision française."
 ---
-
 ![Image de Yves Lecoq](https://upload.wikimedia.org/wikipedia/commons/1/15/Yves_Lecoq.jpg)
 
 ###### Questions

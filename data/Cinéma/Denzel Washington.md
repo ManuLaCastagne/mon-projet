@@ -22,8 +22,9 @@ indice_6 :
   - John Q
 questions:
  - J'ai joué le rôle d'un avocat dans "Philadelphia", incarnant Malcom X dans le biopic de Spike Lee. Ce qui m'a valu le Golden Globe du meilleur acteur.
+culture_g_score: 93
+culture_g_justification: "Acteur mondialement célèbre, porté par de nombreux rôles historiques, films à succès, récompenses et références sociales."
 ---
-
 ![Image de Denzel Washington](https://upload.wikimedia.org/wikipedia/commons/4/40/Denzel_Washington_2018.jpg)
 
 ###### Questions

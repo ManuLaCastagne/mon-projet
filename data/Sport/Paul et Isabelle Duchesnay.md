@@ -20,7 +20,8 @@ indice_6 :
   - Frère et sœur
 questions:
  - Lors des JO de 92, quel couple de patineurs franco-canadien, composé de Paul et sa soeur Isabelle,  remporte la médaille d'argent  en danse sur glace ?
-culture_g_score: 47
+culture_g_score: 40
+culture_g_justification: "Duo important du patinage français, mais relativement peu connu en dehors des amateurs de sports d’hiver."
 ---
 ![Image de Paul et Isabelle Duchesnay](https://upload.wikimedia.org/wikipedia/commons/9/93/M%C3%A9moires_de_la_Soci%C3%A9t%C3%A9_historique_de_Montr%C3%A9al_%28microforme%29_%28IA_cihm_06281%29.pdf)
 

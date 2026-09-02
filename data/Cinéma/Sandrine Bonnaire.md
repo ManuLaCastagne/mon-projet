@@ -22,8 +22,9 @@ indice_6 :
   - Confidences pour confidences
 questions:
  - A quelle actrice  française doit-on le documentaire "Elle s'appelle Sabine" réalisé en 2008, et consacré à sa sœur ?
+culture_g_score: 71
+culture_g_justification: "Actrice française majeure révélée par Pialat et Varda, régulièrement associée aux César et au cinéma d'auteur."
 ---
-
 ![Image de Sandrine Bonnaire](https://upload.wikimedia.org/wikipedia/commons/1/16/Sandrine_Bonnaire_66%C3%A8me_Festival_de_Venise_%28Mostra%29_1_cropped.jpg)
 
 ###### Questions

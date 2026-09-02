@@ -18,8 +18,9 @@ indice_5 :
   - M6
 indice_6 : 
   - sketchs
+culture_g_score: 56
+culture_g_justification: "Acteur immédiatement associé à Caméra Café, avec quelques prolongements vers l'humour, l'animation et la télévision française."
 ---
-
 ![Image de Yvan Le Bolloc'h](https://upload.wikimedia.org/wikipedia/commons/e/eb/Yvan_le_Bolloch.jpg)
 
 ###### Questions

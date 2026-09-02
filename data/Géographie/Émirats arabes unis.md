@@ -19,8 +19,9 @@ indice_5:
   - Désert d'Arabie
 indice_6:
   - Golfe Persique
+culture_g_score: 64
+culture_g_justification: "Pays très visible par Dubaï et son développement récent, mais encore moins central que les grandes références géopolitiques."
 ---
-
 ![[Carte_Émirats arabes unis.png]]
 
 ###### Questions

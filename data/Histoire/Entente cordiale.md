@@ -20,8 +20,9 @@ indice_6 :
   - rivalité coloniale réduite
 questions:
  - Quel nom a-t-on donné au rapprochement entre la France et la Grande-Bretagne qui déboucha sur la signature d'accord, en avril 1904 ?
+culture_g_score: 77
+culture_g_justification: "Accord diplomatique classique expliquant le rapprochement franco-britannique avant 1914, avec des applications fréquentes en histoire européenne."
 ---
-
 ![Image de Entente cordiale](https://upload.wikimedia.org/wikipedia/commons/d/d0/Entente_Cordiale_dancing.jpg)
 
 ###### Questions

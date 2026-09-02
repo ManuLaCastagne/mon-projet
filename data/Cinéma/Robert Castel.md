@@ -22,8 +22,9 @@ indice_6 :
   - années 1970
 questions:
  - A l'affiche des "Saintes Chéries", mais aussi de "L'Insoumis", de "Dupont Lajoie", j'ai formé un tandem comique avec mon épouse, Lucette Sahuquet.  Acteur disparu en décembre 2020, je suis…
+culture_g_score: 31
+culture_g_justification: "Acteur et humoriste français secondaire, identifiable par quelques collaborations et rôles, mais peu rentable pour un quiz généraliste."
 ---
-
 ![Image de Robert Castel](https://upload.wikimedia.org/wikipedia/commons/2/2d/Robert_C._Castel.jpg)
 
 ###### Questions

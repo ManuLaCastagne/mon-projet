@@ -20,8 +20,9 @@ indice_6 :
   - années 1930
 questions:
  - En 1931, quelle aviatrice française accomplit seule un raid entre Paris et Ramadi, en Irak,  avant de conquérir 7 records mondiaux ?
+culture_g_score: 60
+culture_g_justification: "Pionnière française de l'aviation, régulièrement citée pour ses records, son décès précoce et la place des femmes dans le sport aérien."
 ---
-
 ![Image de Hélène Boucher](https://upload.wikimedia.org/wikipedia/commons/9/93/H%C3%A9l%C3%A8ne_Boucher_Aviatrice.jpg)
 
 ###### Questions

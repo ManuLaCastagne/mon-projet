@@ -23,8 +23,9 @@ indice_6 :
   - cathédrale forteresse
 questions:
  - Et suis surmontée d'un clocher formant une tour carrée. De style gothique méridional, je suis ornée de fresques à dominante bleue, et surmontée d'un clocher de style gothique méridional.
+culture_g_score: 68
+culture_g_justification: "Cathédrale française remarquable par sa brique, son histoire cathare et son classement UNESCO, mais moins fréquente que les monuments majeurs."
 ---
-
 ![Image de Sainte-Cécile d'Albi](https://upload.wikimedia.org/wikipedia/commons/b/ba/Albi_cathedral_-_choir_and_choir_screen.jpg)
 
 ###### Questions

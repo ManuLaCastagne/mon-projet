@@ -22,7 +22,8 @@ indice_6 :
   - Baker Street
 questions:
  - Personnage incarné au cinéma par Alan Cox dans "Le secret de la pyramide" en 1986. Je m'installe à Londres après avoir servi en Afghanistan. Ancien médecin militaire,  je fais la connaissance d'un détective privé nommé Sherlock Holmes...
-culture_g_score: 73
+culture_g_score: 93
+culture_g_justification: "Compagnon et narrateur de Sherlock Holmes, Watson est une réponse très fréquente offrant des angles sur Doyle, le personnage, les adaptations et le roman policier."
 ---
 ![Image de John Watson](https://upload.wikimedia.org/wikipedia/commons/2/21/John_Watson_%282346102684%29.jpg)
 

@@ -22,8 +22,9 @@ indice_6 :
   - pseudonyme
 questions:
  - Romancier dont l'un des ouvrages les plus célèbres est "L'espion qui venait du froid", disparu en décembre dernier.
+culture_g_score: 80
+culture_g_justification: "Grand auteur britannique de l’espionnage réaliste, régulièrement interrogé à travers ses romans, ses pseudonymes et leur adaptation au cinéma."
 ---
-
 ![Image de John le Carré](https://upload.wikimedia.org/wikipedia/commons/6/64/John_le_Carr%C3%A9_cropped.jpg)
 
 ###### Questions

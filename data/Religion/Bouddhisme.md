@@ -20,8 +20,9 @@ indice_6 :
   - Quatre Nobles Vérités
 questions:
  - A quelle religion originaire d'Asie associe-t-on les ordres monastiques populairement appelés bonnets jaunes et bonnets rouges?
+culture_g_score: 92
+culture_g_justification: "Grande religion mondiale ouvrant sur le Bouddha, les doctrines, l’Asie, l’art, l’histoire et de nombreux concepts classiques."
 ---
-
 ![Image de Bouddhisme](https://upload.wikimedia.org/wikipedia/commons/3/30/Large_Gautama_Buddha_statue_in_Buddha_Park_of_Ravangla%2C_Sikkim.jpg)
 
 ###### Questions

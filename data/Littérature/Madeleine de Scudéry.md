@@ -22,8 +22,9 @@ indice_6 :
   - Clélie
 questions:
  - Quelle femme de lettres du 17e siècle à qui l'on doit "La Carte du Tendre', publia le roman-fleuve "Artamène "ou le Grand Cyrus", dont la version originale comptait 13 000 pages ?
+culture_g_score: 47
+culture_g_justification: "Figure intéressante de la préciosité et des salons, mais surtout mobilisée dans des questions spécialisées sur la littérature du XVIIe siècle."
 ---
-
 ![Image de Madeleine de Scudéry](https://upload.wikimedia.org/wikipedia/commons/c/cf/Madeleine_de_Scud%C3%A9ry.png)
 
 ###### Questions

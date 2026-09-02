@@ -20,8 +20,9 @@ indice_6:
   - Yoda
 questions:
   - Dans quelle saga cinématographique, lancée en 1977 par George Lucas, la "prophétie de l'Elu" est-elle d'une grande importance?
+culture_g_score: 100
+culture_g_justification: "Saga cinématographique universellement célèbre, au croisement de la science-fiction, de la culture populaire, de la technique et de l’histoire du cinéma."
 ---
-
 ![Image de Star Wars](https://upload.wikimedia.org/wikipedia/commons/d/d0/Star_Wars_Blips_logo.png)
 
 ###### Questions

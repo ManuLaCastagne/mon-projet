@@ -21,8 +21,9 @@ indice_5:
   - années 1990
 indice_6:
   - lutte contre l'indifférence
+culture_g_score: 60
+culture_g_justification: "Film français récompensé à Cannes et associé à Act Up, au sida et au cinéma contemporain."
 ---
-
 ![Image de 120 battements par minute](https://upload.wikimedia.org/wikipedia/commons/9/9e/Cannes_2017_20.jpg)
 
 ###### Questions

@@ -3,6 +3,8 @@ tags:
   - Sciences
   - XIXe
 date: 1869
+culture_g_score: 87
+culture_g_justification: "Phénomène naturel et concept scientifique très large, reliant océanographie, météorologie, géologie, arts et culture populaire."
 ---
 ###### Questions 
 

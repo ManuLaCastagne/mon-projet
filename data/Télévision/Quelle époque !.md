@@ -20,7 +20,8 @@ indice_5 :
   - Guerre froide
 indice_6 : 
   - Renaissance
-culture_g_score: 40
+culture_g_score: 44
+culture_g_justification: "Talk-show contemporain connu du public français, mais encore trop récent pour être une référence très fréquente des quiz."
 ---
 ![Image de Quelle époque !](https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Way_We_Live_Now.jpg)
 

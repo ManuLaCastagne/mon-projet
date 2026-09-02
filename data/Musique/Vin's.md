@@ -22,8 +22,9 @@ indice_6 :
   - Brassens
 questions:
  - En 2019, quel rappeur du sud de la France, dont le véritable nom est Charlie Bouan, interprète la chanson intitulée "Fraternité"?
+culture_g_score: 20
+culture_g_justification: "Artiste de rap francophone émergent, encore trop peu établi dans les quiz généralistes pour constituer une priorité."
 ---
-
 ![Image de Vin's](https://upload.wikimedia.org/wikipedia/commons/4/4e/Schwappender_Wein.jpg)
 
 ###### Questions

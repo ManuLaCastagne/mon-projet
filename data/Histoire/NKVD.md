@@ -20,8 +20,9 @@ indice_6 :
   - Grandes Purges
 questions:
  - En 1934, quelle police politique soviétique désignée par un sigle de 4 lettres, remplace la Tchéka ?
+culture_g_score: 64
+culture_g_justification: "Organe central de la répression stalinienne, utile pour les questions sur les purges, les déportations et l’histoire soviétique."
 ---
-
 ![Image de NKVD](https://upload.wikimedia.org/wikipedia/commons/f/f1/%D0%92%D0%929.png)
 
 ###### Questions

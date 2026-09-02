@@ -20,8 +20,9 @@ indice_6 :
   - Auxiliaires sportifs
 questions:
  - Quel est ce sport apparenté à la pétanque et pouvant être pratiqué par des personnes valides aussi bien que par des personnes en situation de handicap avec des boules de cuir sur un terrain rectangulaire ?
+culture_g_score: 48
+culture_g_justification: "Sport paralympique original et utile à connaître, mais encore peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Boccia](https://upload.wikimedia.org/wikipedia/commons/0/05/Boccia_Platz_%28Stadtpark_Deggendorf%29.jpg)
 
 ###### Questions

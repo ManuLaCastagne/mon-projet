@@ -19,10 +19,9 @@ indice_6 :
   - renaissance annuelle
 questions:
  - Dans la [[mythologie grecque]], quel jeune et beau berger de Phrygie fut frappé de folie par la déesse Cybèle lorsqu'elle apprit qu'il s'était marié avec une nymphe?
+culture_g_score: 40
+culture_g_justification: "Divinité phrygienne liée à Cybèle et au cycle de renaissance, mais peu connue du public généraliste."
 ---
-
-
-
 ![Image de Attis](https://upload.wikimedia.org/wikipedia/commons/3/32/Statue_of_a_reclining_Attis_at_the_Shrine_of_Attis_2.jpg)
 
 ###### Questions

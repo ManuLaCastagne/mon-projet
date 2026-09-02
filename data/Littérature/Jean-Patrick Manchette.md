@@ -22,9 +22,9 @@ indice_6 :
   - adaptation cinématographique
 questions:
  - Mettant en scène dans mes polars des personnages d'anarchistes, de tiers-mondistes ou de cadres paumés, je condamne le terrorisme en 1972 dans "Nada".  Auteur de "La Position du tireur couché"..
+culture_g_score: 60
+culture_g_justification: "Figure fondatrice du néo-polar français, Manchette est utile pour le roman noir et ses adaptations, mais demeure une référence spécialisée."
 ---
-
-
 ![Image de Jean-Patrick Manchette](https://upload.wikimedia.org/wikipedia/commons/0/08/Cache_ta_joie_-_op%C3%A9ra-rock%2C_texte_de_Jean-Patrick_Manchette_-_lot_de_photographies_-_de_l%27agence_Mar%C3%A9e-Breyer_-_btv1b10605855c_%2808_of_63%29.jpg)
 
 ###### Questions

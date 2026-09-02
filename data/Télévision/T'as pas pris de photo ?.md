@@ -18,8 +18,9 @@ indice_5 :
   - gages et défis
 indice_6 : 
   - années 2000
+culture_g_score: 11
+culture_g_justification: "Titre d’émission très peu connu et difficilement exploitable dans des questions généralistes indépendantes."
 ---
-
 ![Image de T'as pas pris de photo ?](https://upload.wikimedia.org/wikipedia/commons/5/57/Colette_-_La_Fin_de_Ch%C3%A9ri%2C_1926.djvu)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - George R.R. Martin
 questions:
  - De 2011 à 2019, quelle série télévisée avec Peter Dinklage met en scène les luttes de plusieurs familles pour gouverner les 7 royaumes ?
+culture_g_score: 96
+culture_g_justification: "Phénomène mondial de la télévision, très présent dans les quiz grâce à son univers, ses personnages, ses acteurs, ses records et son origine littéraire."
 ---
-
 ![Image de Game of Thrones](https://upload.wikimedia.org/wikipedia/commons/4/4f/Disfraces%2C_Game_of_Thrones%2C_Comic_Con_2024.jpg)
 
 ###### Questions

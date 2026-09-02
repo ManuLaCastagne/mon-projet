@@ -13,8 +13,9 @@ indice_5:
   - Aussi appelé châtaignier d'Inde
 indice_6:
   - Utilisé pour ses propriétés médicinales
+culture_g_score: 64
+culture_g_justification: "Arbre très courant des parcs, associé à ses feuilles palmées, à ses marrons toxiques et à son origine orientale."
 ---
-
 ![Image de Marronnier](https://upload.wikimedia.org/wikipedia/commons/b/bd/Aesculus_glabra_USDA1.jpg)
 
 ###### Questions

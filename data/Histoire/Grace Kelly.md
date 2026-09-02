@@ -18,8 +18,9 @@ indice_5 :
   - mariage royal
 indice_6 : 
   - Alfred Hitchcock
+culture_g_score: 84
+culture_g_justification: "Icône mondiale du cinéma et de Monaco, Grace Kelly revient souvent via son Oscar, Hitchcock, son mariage princier et la principauté."
 ---
-
 ![Image de Grace Kelly](https://upload.wikimedia.org/wikipedia/commons/3/3a/Grace_Kelly_MGM_photo.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Policier M. Plod
 questions:
  - Héros de livres pour enfants créé en 1949, je suis apparu dans la collection de la Bibliothèque Rose en 62.  Appelé Noddy dans mon pays d'origine, la Grande-Bretagne, j'ai été créé par Enid Blyton pour les jeunes de 4 à 7 ans.
+culture_g_score: 64
+culture_g_justification: "Personnage emblématique de la littérature jeunesse, régulièrement mobilisé dans des questions sur Enid Blyton, les adaptations et l’enfance."
 ---
-
 ![Image de Oui-oui](https://upload.wikimedia.org/wikipedia/commons/c/c1/Stahlplastik_OUI_OUI_%28Reinhart_Morscher_2004%29_07.jpg)
 
 ###### Questions

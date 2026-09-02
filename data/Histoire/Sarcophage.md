@@ -20,8 +20,9 @@ indice_6 :
   - sépulture
 questions:
  - Type d'objet ancien, je suis représenté au musée national de Beyrouth par 31 spécimens phéniciens datant du VIe au IVe siècle avant notre ère, en marbre blanc. Objet dont le type primitif était creusé dans un tronc d'arbre...
+culture_g_score: 60
+culture_g_justification: "Objet archéologique classique, surtout utile pour l’Égypte ancienne, les pratiques funéraires et l’histoire de l’art."
 ---
-
 ![Image de Sarcophage](https://upload.wikimedia.org/wikipedia/commons/b/ba/Carcassonne_-_Sarcophage_09.jpg)
 
 ###### Questions

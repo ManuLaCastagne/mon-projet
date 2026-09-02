@@ -20,8 +20,9 @@ indice_6 :
   - Légende du rugby
 questions:
  - Quel rugbyman, star des All Blacks, inscrit 15 essais en deux finales de coupe du monde 1995 et 1999 ?
+culture_g_score: 77
+culture_g_justification: "Icône mondiale du rugby, associée à la Coupe du monde 1995, aux All Blacks et à un parcours personnel marquant."
 ---
-
 ![Image de Jonah Lomu](https://upload.wikimedia.org/wikipedia/commons/c/c6/Jonah_Lomu_%28cropped%29.jpg)
 
 ###### Questions

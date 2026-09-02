@@ -18,8 +18,9 @@ indice_5 :
   - After the Gold Rush
 indice_6 : 
   - Canadian singer-songwriter
+culture_g_score: 80
+culture_g_justification: "Grande figure du folk rock, offrant de nombreux repères sur ses albums, groupes, chansons et l’histoire musicale nord-américaine."
 ---
-
 ![Image de Neil Young](https://upload.wikimedia.org/wikipedia/commons/7/70/Neil_Young_Stavernfestivalen_2016_%28220929%29.jpg)
 
 ###### Questions

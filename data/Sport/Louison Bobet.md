@@ -20,8 +20,9 @@ indice_6 :
   - Équipe de France
 questions:
  - De 1953 à 1955, quel cycliste français a remporté 3 fois de suite le Tour de France ?
+culture_g_score: 64
+culture_g_justification: "Grand champion français du Tour de France, utile pour des questions de cyclisme et d’histoire du sport, sans être universellement connu."
 ---
-
 ![Image de Louison Bobet](https://upload.wikimedia.org/wikipedia/commons/a/a0/Louison_Bobet_%281951%29.jpg)
 
 ###### Questions

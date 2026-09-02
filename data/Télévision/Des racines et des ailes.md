@@ -18,9 +18,9 @@ indice_5 :
   - Présenté par Carole Gaessler
 indice_6 : 
   - Depuis 1997
+culture_g_score: 64
+culture_g_justification: "Émission patrimoniale très connue en France, mais principalement interrogée sous l’angle du patrimoine et de la télévision."
 ---
-
-
 ![Image de Des racines et des ailes](https://upload.wikimedia.org/wikipedia/commons/b/bf/Le_fort_Lib%C3%A9ria_-_Des_Racines_et_des_Ailes_-_YouTube.webm)
 
 ###### Questions

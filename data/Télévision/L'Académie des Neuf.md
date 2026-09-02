@@ -20,8 +20,9 @@ indice_6 :
   - questions-réponses avec des célébrités
 questions:
  - Dans quel jeu, ayant notamment été animé par Jean-Pierre Foucault et Benjamin Castaldi, des célébrités étaient-elles installées dans des cases?
+culture_g_score: 56
+culture_g_justification: "Jeu télévisé français ancien et identifiable par son format de grille et ses animateurs, mais moins incontournable que les grands jeux populaires."
 ---
-
 ![Image de L'Académie des Neuf](https://upload.wikimedia.org/wikipedia/commons/4/4a/HaroldKay-1953.png)
 
 ###### Questions

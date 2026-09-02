@@ -13,8 +13,9 @@ indice_5:
   - Quercus ilex
 indice_6:
   - Bois de chauffage et production de charbon de bois
+culture_g_score: 52
+culture_g_justification: "Arbre méditerranéen connu sous le nom d’yeuse, mais moins souvent interrogé que le chêne commun ou le chêne-liège."
 ---
-
 ![Image de Chêne vert](https://upload.wikimedia.org/wikipedia/commons/b/b0/Ch%C3%AAne_Vert_de_MOUDJ_-_panoramio.jpg)
 
 ###### Questions

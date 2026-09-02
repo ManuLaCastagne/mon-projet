@@ -18,8 +18,9 @@ indice_5 :
   - musique en direct
 indice_6 : 
   - invités célèbres
+culture_g_score: 60
+culture_g_justification: "Ancienne émission populaire associée à Johnny Hallyday et aux Beatles, utile dans les quiz sur la télévision et la variété françaises."
 ---
-
 ![Image de Télé-Dimanche](https://upload.wikimedia.org/wikipedia/commons/8/8b/Identite-RaymondMarcillac-1947.png)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - ancienne colonie britannique
 questions:
  - Quel Etat insulaire d'Océanie, dont la capitale est Honoria, possède un triangle inférieur vert symbolisant la terre ?
+culture_g_score: 43
+culture_g_justification: "État insulaire surtout associé à Guadalcanal et à la Seconde Guerre mondiale, avec peu d’autres entrées classiques."
 ---
-
-
 ![Image de Îles Salomon](https://upload.wikimedia.org/wikipedia/commons/3/3c/%C3%8Ele_Diable_-_Salomon_Islands%2C_BIOT.svg)
 
 ![[Carte_Îles Salomon.png]]

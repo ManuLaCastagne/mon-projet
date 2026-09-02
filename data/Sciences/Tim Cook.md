@@ -20,8 +20,9 @@ indice_5 :
   - Alabama
 indice_6 : 
   - 2011
+culture_g_score: 73
+culture_g_justification: "Dirigeant mondialement identifiable grâce à Apple et Steve Jobs, avec des questions récurrentes sur l'entreprise, l'innovation et son parcours."
 ---
-
 ![Image de Tim Cook](https://upload.wikimedia.org/wikipedia/commons/8/8e/Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg)
 
 ###### Questions

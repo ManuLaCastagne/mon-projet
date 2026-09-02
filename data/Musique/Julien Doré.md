@@ -22,8 +22,9 @@ indice_6 :
   - « Gagnant Nouvelle Star »
 questions:
  - Chanteur français né en 1982, je m'accompagne parfois à la guitare ou au piano, comme je l'ai fait pour la reprise d'"Aline" de Christophe et "Africa" de Rose Laurens...
+culture_g_score: 60
+culture_g_justification: "Artiste populaire de la chanson française contemporaine, mais principalement pertinent pour quelques repères de télévision et de discographie."
 ---
-
 ![Image de Julien Doré](https://upload.wikimedia.org/wikipedia/commons/2/25/DORE_Julien-24x30-2008.jpg)
 
 ###### Questions

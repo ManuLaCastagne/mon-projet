@@ -25,8 +25,9 @@ indice_6:
   - Les Noces
 questions:
   - A quel compositeur Serge de Diaghilev a-t-il commandé la partition du ballet "L'Oiseau de feu"...
+culture_g_score: 100
+culture_g_justification: "Compositeur fondamental du XXe siècle, Stravinsky est omniprésent grâce au Sacre du printemps, au ballet, au modernisme, au néoclassicisme et à son parcours international."
 ---
-
 ![Image de Igor Stravinsky](https://upload.wikimedia.org/wikipedia/commons/3/33/Igor_Stravinsky_LOC_32392u.jpg)
 
 ###### Questions

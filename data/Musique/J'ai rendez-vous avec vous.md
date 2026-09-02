@@ -20,9 +20,9 @@ indice_5:
   - guitare
 indice_6:
   - 1952
+culture_g_score: 48
+culture_g_justification: "Chanson classique de Brassens, mais nettement moins souvent questionnée que ses titres les plus célèbres."
 ---
-
-
 ![Image de J'ai rendez-vous avec vous](https://upload.wikimedia.org/wikipedia/commons/9/92/Rendez-vous_avec_le_navire_d%27Hurtigruten.jpg)
 
 ###### Questions

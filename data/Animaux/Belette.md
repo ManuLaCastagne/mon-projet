@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de ruse
 questions:
  - Quel mammifère carnassier a été introduite aux Antilles pour contrôler les populations...
+culture_g_score: 47
+culture_g_justification: "Petit mustélidé connu des naturalistes et utile dans quelques questions de zoologie, sans forte portée culturelle."
 ---
-
-
 ![Image de Belette](https://upload.wikimedia.org/wikipedia/commons/c/c9/Mustela-nivalis.jpg)
 
 ###### Questions

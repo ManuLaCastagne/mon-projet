@@ -18,9 +18,9 @@ indice_5 :
   - Bold and Bald
 indice_6 : 
   - I Do Not Want What I Haven't Got
+culture_g_score: 80
+culture_g_justification: "Sinéad O’Connor combine un tube mondial, une forte personnalité artistique et des épisodes politiques et religieux souvent exploités en quiz."
 ---
-
-
 ![Image de Sinéad O'Connor](https://upload.wikimedia.org/wikipedia/commons/2/2f/Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg)
 
 ###### Questions

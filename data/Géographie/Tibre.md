@@ -25,8 +25,9 @@ indice_6 :
   - traversée de la Cité du Vatican
 questions:
  - Quel fleuve d'Sport/Italie,  passant à Rome, se jette dans la partie de la Méditerranée appelée mer Tyrrhénienne ?
+culture_g_score: 64
+culture_g_justification: "Le fleuve de Rome est une référence géographique et historique classique, mais ses occurrences restent moins nombreuses que celles des grands fleuves mondiaux."
 ---
-
 ![Image de Tibre](https://upload.wikimedia.org/wikipedia/commons/6/69/Beaux-Arts_de_Carcassonne_-_Magasin_de_bl%C3%A9_au_bord_du_Tibre_-_Henry_d%27Arles_Joconde04400000527.jpg)
 
 ![[Carte_Tibre.png]]

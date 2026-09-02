@@ -20,8 +20,9 @@ indice_5:
   - Homogenic
 indice_6:
   - voix distincte
+culture_g_score: 71
+culture_g_justification: "Artiste islandaise majeure de la pop expérimentale, utile pour des questions sur la musique, le cinéma et l’avant-garde."
 ---
-
 ![Image de Bjork](https://upload.wikimedia.org/wikipedia/commons/c/cc/Bj%C3%B6rk_at_Cannes.jpg)
 
 ###### Questions

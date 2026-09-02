@@ -24,8 +24,9 @@ indice_6 :
   - Caen
 questions:
  - Département d'où est originaire Amandine Petit, Miss France 2021. Je compte 528 communes parmi lesquelles Houlgate, Vire, Lisieux.
+culture_g_score: 80
+culture_g_justification: "Département très rentable grâce au Débarquement, à Caen, à Guillaume le Conquérant, à Deauville et aux plages normandes."
 ---
-
 ![Image de Calvados](https://upload.wikimedia.org/wikipedia/commons/d/df/France%2C_Calvados%2C_Auquainville_%284%29.JPG)
 
 ![[Carte_Calvados.png]]

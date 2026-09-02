@@ -18,8 +18,9 @@ indice_5:
   - accompagne les infos de sa touche humoristique
 indice_6:
   - a commencé sa carrière dans des cabarets
+culture_g_score: 72
+culture_g_justification: "Imitateur très connu grâce aux Guignols et à C'est Canteloup, offrant plusieurs repères de télévision et de satire politique."
 ---
-
 ![Image de Nicolas Canteloup](https://upload.wikimedia.org/wikipedia/commons/5/56/Canteloup_stmalo.jpg)
 
 ###### Questions

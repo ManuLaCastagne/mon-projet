@@ -22,8 +22,9 @@ indice_6 :
   - Akela
 questions:
  - Surnommé la grenouille, j'ai survécu, alors que j'étais bébé, à l'attaque d'un campement de bûcherons par un tigre, avant d'être adopté par Raksha...
+culture_g_score: 100
+culture_g_justification: "Classique mondial de Kipling et de la culture enfantine, abondamment interrogé par ses personnages, ses adaptations, l’Inde et Mowgli."
 ---
-
 ![Image de Le Livre de la jungle](https://upload.wikimedia.org/wikipedia/commons/7/76/Personnage_Disney_-_Le_Roi_lion_-_20150802_16h49_%2810744%29.jpg)
 
 ###### Questions

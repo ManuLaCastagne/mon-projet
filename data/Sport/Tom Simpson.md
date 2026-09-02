@@ -20,8 +20,9 @@ indice_6 :
   - Team Sky
 questions:
  - En 1965, deux ans avant de trouver la mort à la suite d'une défaillance sur le Ventoux, est sacré champion du Tour ?
+culture_g_score: 60
+culture_g_justification: "Sa mort au mont Ventoux constitue un classique du cyclisme, mais limite principalement le sujet à quelques repères sportifs et historiques."
 ---
-
 ![Image de Tom Simpson](https://upload.wikimedia.org/wikipedia/commons/c/ca/Tom_Simpson_c1966.jpg)
 
 ###### Questions

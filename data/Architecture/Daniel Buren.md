@@ -23,8 +23,9 @@ indice_6 :
   - collaboration avec des architectes célèbres
 questions:
  - En 1986, à quel artiste doit-on  "Les Deux Plateaux", une œuvre constituée de colonnes aménagées dans la cour du Palais-Royal à Paris?
+culture_g_score: 60
+culture_g_justification: "Artiste français identifiable par ses rayures et les Colonnes de Buren, mais dont la portée reste surtout artistique et contemporaine."
 ---
-
 ![Image de Daniel Buren](https://upload.wikimedia.org/wikipedia/commons/e/e7/Daniel_Buren_au_FILAF_%28cropped%29.jpg)
 
 ###### Questions

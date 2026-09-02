@@ -23,9 +23,9 @@ indice_6 :
   - célébrités habillées sur-mesure
 questions:
  - D'une maison de haute couture depuis Yves Saint Laurent, j'ai réalisé en 2018 les costumes de la tournée de Beyoncé. Styliste français très actif sur les réseaux sociaux, ami notamment de Kim Kardashian, je suis à la tête de la maison Balmain, je suis...
+culture_g_score: 48
+culture_g_justification: "Rousteing est un créateur contemporain connu dans la mode populaire, mais son importance historique et sa fréquence de quiz restent modérées."
 ---
-
-
 ![Image de Olivier Rousteing](https://upload.wikimedia.org/wikipedia/commons/1/1e/Olivier_Rousteing.jpg)
 
 ###### Questions

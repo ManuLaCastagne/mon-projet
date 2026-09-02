@@ -20,8 +20,9 @@ indice_6 :
   - Fonction d'onde
 questions:
  - Théorie fondée sur une notion exprimée par un mot latin signifiant combien, j'ai généré diverses applications allant du laser...
+culture_g_score: 92
+culture_g_justification: "Révolution scientifique fondamentale, très rentable pour relier Planck, Einstein, Heisenberg, les particules, la technologie et la cosmologie."
 ---
-
 ![Image de Théorie quantique](https://upload.wikimedia.org/wikipedia/commons/7/74/Quantum_Theory_of_Color_Vision.pdf)
 
 ###### Questions

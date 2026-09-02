@@ -20,8 +20,9 @@ indice_6 :
   - période de la guerre froide
 questions:
  - En juin 1980, quels accords, limitant les missiles stratégiques, sont signés entre Leonid Brejnev et J.Carter?
+culture_g_score: 64
+culture_g_justification: "Repère significatif de la guerre froide et de la limitation nucléaire, mais moins fréquent que les grands traités effectivement ratifiés."
 ---
-
 ![Image de Accords Salt II](https://upload.wikimedia.org/wikipedia/commons/5/54/Naval_implications_of_the_Strategic_Arms_Limitation_Talks._%28IA_navalimplication00caug%29.pdf)
 
 ###### Questions

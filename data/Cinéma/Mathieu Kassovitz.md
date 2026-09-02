@@ -18,8 +18,9 @@ indice_5 :
   - Vincent Cassel
 indice_6 : 
   - Festival de Cannes
+culture_g_score: 80
+culture_g_justification: "Figure importante du cinéma français grâce à La Haine, ses rôles d’acteur et plusieurs réalisations marquantes."
 ---
-
 ![Image de Mathieu Kassovitz](https://upload.wikimedia.org/wikipedia/commons/5/54/Mathieu_Kassovitz_Cannes_2017.jpg)
 
 ###### Questions

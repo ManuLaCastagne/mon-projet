@@ -20,11 +20,9 @@ indice_6 :
   - secrets et mensonges
 questions:
  - Quelle série américaine, avec Reese Witherspoon, comporte dans son générique une chanson disant "You believe in you and I" ?
+culture_g_score: 60
+culture_g_justification: "Série populaire des années 2010, identifiable par Alison, le personnage de A et ses actrices, mais d’importance culturelle modérée."
 ---
-
-
-
-
 ![Image de Pretty little liars](https://upload.wikimedia.org/wikipedia/commons/d/d8/Pretty_Little_Liars_%2829163090770%29.jpg)
 
 ###### Questions

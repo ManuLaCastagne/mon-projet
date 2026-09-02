@@ -20,8 +20,9 @@ indice_6 :
   - Édith Stein
 questions:
  - Quel religieux de Pologne canonisé en 1982, est mort à Auschwitz en 1941où il s'est sacrifié à la place d'un camarade père de famille ?
+culture_g_score: 60
+culture_g_justification: "Son sacrifice à Auschwitz est une référence mémorielle forte, mais le sujet reste principalement limité à l’histoire religieuse et de la Shoah."
 ---
-
 ![Image de Saint-Maximilien Kolbe](https://upload.wikimedia.org/wikipedia/commons/2/23/%C3%89glise_Saint-Maximilien_Kolbe_01.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - création de l'Opritchnina
 questions:
  - Au 16e siècle,  quel grand prince de Russie, 1er...
+culture_g_score: 80
+culture_g_justification: "Premier tsar de Russie et figure emblématique du XVIe siècle, régulièrement interrogée sur la terreur, l’expansion et la dynastie russe."
 ---
-
 ![Image de Ivan le Terrible](https://upload.wikimedia.org/wikipedia/commons/7/71/Ivan_the_Terrible_and_Harsey.jpg)
 
 ###### Questions

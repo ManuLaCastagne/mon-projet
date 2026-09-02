@@ -20,8 +20,9 @@ indice_6 :
   - Serial killers
 questions:
  - D'une équipe de profilers du département des sciences du comportement du FBI.  Série policière comptant dans ma distribution Shemar Moore et Joe Mantegna, je suis...
+culture_g_score: 73
+culture_g_justification: "Série policière internationale très diffusée, régulièrement interrogée via ses profileurs, ses acteurs, ses personnages et ses intrigues."
 ---
-
 ![Image de Esprits criminels](https://upload.wikimedia.org/wikipedia/commons/6/68/Nos_criminels_%28microforme%29_-_un_mot_sur_la_potence_%28IA_cihm_04142%29.pdf)
 
 ###### Questions

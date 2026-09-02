@@ -24,8 +24,9 @@ indice_6 :
   - trekking
 questions:
  - Quelle région rocheuse et aride de Corse est située à l'ouest du golfe de Saint-Florent?
+culture_g_score: 40
+culture_g_justification: "Site naturel corse intéressant pour le tourisme et la géographie française, mais rarement demandé en dehors de questions régionales."
 ---
-
 ![Image de Désert des Agriates](https://upload.wikimedia.org/wikipedia/commons/c/c9/Paysage_%28d%C3%A9sert_des_Agriates%29_%285%29.jpg)
 
 ![[Carte_Désert des Agriates.png]]

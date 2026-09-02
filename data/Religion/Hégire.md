@@ -18,8 +18,9 @@ indice_5:
   - Danaïdes
 indice_6:
   - roi Proétos
+culture_g_score: 81
+culture_g_justification: "Événement fondateur de l’islam et origine du calendrier musulman, régulièrement interrogé dans les questions religieuses et historiques."
 ---
-
 ![Image de Égire](https://upload.wikimedia.org/wikipedia/commons/2/22/Aigeira-2003_PANO.jpg)
 
 ###### Questions

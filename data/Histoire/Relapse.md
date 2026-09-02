@@ -20,11 +20,9 @@ indice_6 :
   - influence du Dr. Dre
 questions:
  - Pour s'être rétractée, après avoir abjuré, sous quel chef d'accusation, signifiant qu'elle était retombée dans l'hérésie a-t-elle été condamnée?
+culture_g_score: 44
+culture_g_justification: "Album identifiable d’Eminem, mais connaissance musicale précise et peu rentable au-delà de quelques questions."
 ---
-
-
-
-
 ![Image de Relapse](https://upload.wikimedia.org/wikipedia/commons/2/28/Relapse-Rates-Comparison.jpg)
 
 ###### Questions

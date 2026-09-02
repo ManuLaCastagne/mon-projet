@@ -20,9 +20,9 @@ indice_6 :
   - Stade Français
 questions:
  - Quel ancien rugbyman, talonneur à Bègles et au Stade Français, est désormais un comédien qui anime...
+culture_g_score: 56
+culture_g_justification: "Son parcours de rugbyman, d’acteur et d’animateur offre plusieurs angles, surtout dans les quiz français."
 ---
-
-
 ![Image de Vincent Moscato](https://upload.wikimedia.org/wikipedia/commons/8/89/Vincent_Moscato_01-2009.jpg)
 
 ###### Questions

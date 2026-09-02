@@ -20,8 +20,9 @@ indice_5:
   - pseudonyme inspiré d'une expression signifiant braise
 indice_6:
   - auteur de L'Or
+culture_g_score: 51
+culture_g_justification: "Écrivain important de la poésie moderne et des récits de voyage, mais moins fréquent dans les quiz que les grandes figures littéraires françaises."
 ---
-
 ![Image de Blaise Cendrars](https://upload.wikimedia.org/wikipedia/commons/7/7c/Espace_Blaise_Cendrars_2005_2.JPG)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Système dynamique nonlinear
 questions:
  - Dans un article publié en 1972, quel mathématicien et météorologue américain expose une théorie qui sera vulgarisée sous le nom  d'"effet papillon" ?
+culture_g_score: 64
+culture_g_justification: "Scientifique associé à l’effet papillon et à la théorie du chaos, classique dans les quiz scientifiques mais relativement spécialisé."
 ---
-
-
 ![Image de Edward Lorenz](https://upload.wikimedia.org/wikipedia/commons/a/a0/Edward_Lorenz_%28-1917%29.jpg)
 
 ###### Questions

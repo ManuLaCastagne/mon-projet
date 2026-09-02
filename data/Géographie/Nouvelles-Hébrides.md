@@ -24,8 +24,9 @@ indice_6 :
   - Port-Vila
 questions:
  - Jusqu'en 1980, date de son indépendance, quel nom la République du Vanuatu portait-elle?
+culture_g_score: 36
+culture_g_justification: "Ancien nom du Vanuatu utile pour une question de décolonisation et de condominium franco-britannique, mais peu transversal."
 ---
-
 ![Image de Nouvelles-Hébrides](https://upload.wikimedia.org/wikipedia/commons/7/72/The_Landing_at_Tana_one_of_the_New_Hebrides%2C_by_William_Hodges.jpg)
 
 ![[Carte_Nouvelles-Hébrides.png]]

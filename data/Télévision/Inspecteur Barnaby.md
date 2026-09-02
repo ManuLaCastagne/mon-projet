@@ -20,8 +20,9 @@ indice_6 :
   - adaptation des romans de Caroline Graham
 questions:
  - Dans une série diffusée sur France 3 dès 2001, quel inspecteur enquête dans la région fictive du Midsomer?
+culture_g_score: 76
+culture_g_justification: "Longue série policière britannique bien implantée en francophonie, offrant des questions sur son comté fictif, ses enquêteurs et sa longévité."
 ---
-
 ![Image de Inspecteur Barnaby](https://upload.wikimedia.org/wikipedia/commons/2/23/Documents_de_la_session_de_la_Puissance_du_Canada-_1878%2C_%28Volume_11%2C_no.9%2C_Documents_de_la_session_11-15%29_%28IA_documents1115s1878cana%29.pdf)
 
 ###### Questions

@@ -21,9 +21,9 @@ indice_5 :
   - Maison du Faune
 indice_6 : 
   - Fresques de la Villa des Mystères
+culture_g_score: 97
+culture_g_justification: "Site archéologique universellement célèbre, à la croisée de l’Antiquité romaine, du volcanisme, de l’archéologie et de l’histoire quotidienne."
 ---
-
-
 ![[Carte_Pompéi.png]]
 
 ###### Questions

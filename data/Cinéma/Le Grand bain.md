@@ -22,9 +22,9 @@ indice_6 :
   - Benoît Poelvoorde
 questions:
  - Comédie dans laquelle des quadragénaires tentent de dépasser leurs problèmes personnels dans l'effort et le collectif, je suis réalisée par Gilles Lellouche. Montrant Philippe Katerine, Mathieu Amalric...
+culture_g_score: 52
+culture_g_justification: "Comédie française populaire et identifiable, mais encore relativement récente et limitée à quelques repères de cinéma."
 ---
-
-
 ![Image de Le Grand bain](https://upload.wikimedia.org/wikipedia/commons/6/60/Grand_H%C3%B4tel_%28Aix-les-Bains%29.JPG)
 
 ###### Questions

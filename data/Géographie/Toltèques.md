@@ -24,8 +24,9 @@ indice_6 :
   - guerriers Jaguars
 questions:
  - Vers le milieu du Xe, quel peuple indien dominera tout le Mexique central jusqu'à 1160 et s'installera au Nord de Géographie/Mexico ?
+culture_g_score: 60
+culture_g_justification: "Les Toltèques constituent une civilisation mésoaméricaine classique, mais leur usage en quiz reste plus limité que celui des Mayas ou des Aztèques."
 ---
-
 ![Image de Toltèques](https://upload.wikimedia.org/wikipedia/commons/f/f1/Atlante_Tolteca_-_Museo_Nacional_de_Antropolog%C3%ADa_%28M%C3%A9xico%29.jpg)
 
 ![[Carte_Toltèques.png]]

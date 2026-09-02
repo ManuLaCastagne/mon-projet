@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1920
 date: 1921
+culture_g_score: 52
+culture_g_justification: "Appareil célèbre dans la culture populaire et l’histoire judiciaire, mais à la portée thématique assez étroite."
 ---
 ###### Questions 
 

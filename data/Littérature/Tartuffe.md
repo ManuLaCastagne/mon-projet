@@ -22,8 +22,9 @@ indice_6 :
   - publié en 1664
 questions:
  - Dans quelle pièce de Molière, le héros avoue-t-il ses sentiments à Elmire ?
+culture_g_score: 97
+culture_g_justification: "Pièce et personnage de Molière absolument incontournables, interrogés sur le théâtre classique, la satire religieuse, la censure et l'hypocrisie."
 ---
-
 ![Image de Tartuffe](https://upload.wikimedia.org/wikipedia/commons/7/75/Monsiau_-_Moli%C3%A8re_Reading_Tartuffe_at_Ninon_de_Lenclos%27s.jpg)
 
 ###### Questions

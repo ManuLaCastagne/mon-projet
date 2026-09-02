@@ -22,9 +22,9 @@ indice_6 :
   - Le dramaturge américain
 questions:
  - En 1985, quel dramaturge américain Johnny Hallyday évoque-t-il dans "Quelque chose de Tennessee"?
+culture_g_score: 72
+culture_g_justification: "Dramaturge américain majeur, fréquemment relié à plusieurs pièces classiques, au cinéma et à la littérature anglophone."
 ---
-
-
 ![Image de Tennessee Williams](https://upload.wikimedia.org/wikipedia/commons/7/78/Tennessee_Williams_NYWTS.jpg)
 
 ###### Questions

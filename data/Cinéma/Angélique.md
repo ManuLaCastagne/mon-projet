@@ -22,8 +22,9 @@ indice_6 :
   - films d'époque
 questions:
  - Quelle héroïne du cinéma français, interprétée par Michèle Mercier est "merveilleuse" dans un film de 1964 et "indomptable" dans un film de 1967 ?
+culture_g_score: 56
+culture_g_justification: "Saga française connue de plusieurs générations, avec quelques repères sur ses acteurs, épisodes et adaptations, mais une portée limitée."
 ---
-
 ![Image de Angélique](https://upload.wikimedia.org/wikipedia/commons/9/96/Ang%C3%A9lique_Kidjo_Royal_Festival_Hall_London_2022.jpg)
 
 ###### Questions

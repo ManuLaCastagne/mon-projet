@@ -23,8 +23,9 @@ indice_6 :
   - promenade verdoyante
 questions:
  - A quel vaste espace vert situé sur une colline en plein cœur de Nîmes se compose d'un jardin…
+culture_g_score: 51
+culture_g_justification: "Le Jardin de la Fontaine relie Nîmes, les vestiges romains et l’histoire des jardins, mais reste un sujet patrimonial régional."
 ---
-
 ![Image de Jardin de la Fontaine](https://upload.wikimedia.org/wikipedia/commons/c/cc/Jardins_de_la_Fontaine_in_Nimes_05.jpg)
 
 ###### Questions

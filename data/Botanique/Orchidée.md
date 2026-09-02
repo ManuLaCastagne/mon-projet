@@ -13,8 +13,9 @@ indice_5:
   - Parfois appelée fleurs de paradis
 indice_6:
   - Utilisée pour la décoration intérieure et l'extraction de vanille
+culture_g_score: 84
+culture_g_justification: "Fleur mondialement reconnaissable, liée à l'horticulture, au commerce, à l'art et à de nombreuses questions botaniques."
 ---
-
 ![Image de Orchidée](https://upload.wikimedia.org/wikipedia/commons/a/a9/Bletilla_striata_Bletilla_pasiasta_2023-06-09_01.jpg)
 
 ###### Questions

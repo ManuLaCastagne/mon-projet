@@ -22,8 +22,9 @@ indice_6 :
   - The Voice
 questions:
  - En 1997, quelle chanteuse d'origine belge, qui a eu 50 ans l'année dernière, a été révélée en France grâce au tube "Je t'aime (Lara Fabian)"?
+culture_g_score: 60
+culture_g_justification: "Artiste francophone très populaire, utile pour l’Eurovision, la variété et quelques succès internationaux, sans portée historique majeure."
 ---
-
 ![Image de Lara Fabian](https://upload.wikimedia.org/wikipedia/commons/9/95/Lara_Fabian.png)
 
 ###### Questions

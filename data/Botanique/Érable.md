@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour produire du sirop ou pour le bois
 questions:
  - A partir de quel arbre, dit à sucre, obtient-on par chauffage de la sève un sirop épais, très apprécié en Amérique du Nord...
+culture_g_score: 64
+culture_g_justification: "Arbre associé aux couleurs d'automne, au Canada et au sirop d'érable, offrant plusieurs angles classiques."
 ---
-
 ![Image de Érable](https://upload.wikimedia.org/wikipedia/commons/f/fb/Bladknop_van_een_esdoorn_%28Acer%29._13-04-2023_%28d.j.b.%29_01.jpg)
 
 ###### Questions

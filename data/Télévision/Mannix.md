@@ -20,8 +20,9 @@ indice_6 :
   - musique de Lalo Schifrin
 questions:
  - C'est l'actrice Gail Fischer qui a reçu 2 Golden Globes dans les années 70.  Dans quelle série jouait-elle rôle de Peggy Fair, l'assistante d'un détective privé incarné par Mike Connors?
+culture_g_score: 47
+culture_g_justification: "Série policière américaine classique utile pour Mike Connors, Gail Fisher et les poursuites télévisuelles, mais assez datée et spécialisée."
 ---
-
 ![Image de Mannix](https://upload.wikimedia.org/wikipedia/commons/7/7e/Mike_Connors_Mannix_1968.JPG)
 
 ###### Questions

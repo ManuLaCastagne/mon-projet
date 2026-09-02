@@ -19,9 +19,9 @@ indice_5:
   - années 1960
 indice_6:
   - Baby Love
+culture_g_score: 80
+culture_g_justification: "Groupe féminin central de la Motown, relié à Diana Ross, à de nombreux tubes et à l'histoire de la pop américaine."
 ---
-
-
 ![Image de The Supremes](https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Supremes_1966.JPG)
 
 ###### Questions

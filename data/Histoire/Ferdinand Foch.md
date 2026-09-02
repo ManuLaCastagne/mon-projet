@@ -20,9 +20,9 @@ indice_6 :
   - Inhumé aux Invalides à Paris
 questions:
  - En 1918, quel officier français devient généralissime de toutes les armées alliées, quelques mois avant de signer l'armistice ?
+culture_g_score: 76
+culture_g_justification: "Maréchal central de la victoire alliée en 1918, régulièrement interrogé à propos de l’armistice et de la Première Guerre mondiale."
 ---
-
-
 ![Image de Ferdinand Foch](https://upload.wikimedia.org/wikipedia/commons/a/ad/Ferdinand_Foch_by_Melcy%2C_1921.png)
 
 ###### Questions

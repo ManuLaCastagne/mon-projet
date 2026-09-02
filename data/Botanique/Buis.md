@@ -15,8 +15,9 @@ indice_6 :
   - Horticulture et topiaire
 questions:
  - Quel arbuste au feuillage persistant dont l'espèce épanouissante en France est appelée buccus sempervirens est réputé pour son bois dur ?
+culture_g_score: 51
+culture_g_justification: "Le buis est lié aux jardins à la française, à la taille ornementale et aux traditions religieuses, mais reste un sujet secondaire."
 ---
-
 ![Image de Buis](https://upload.wikimedia.org/wikipedia/commons/0/00/Buck_Island_Reef_National_Monument_BUIS0648.jpg)
 
 ###### Questions

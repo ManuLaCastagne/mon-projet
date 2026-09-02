@@ -1,3 +1,8 @@
+---
+culture_g_score: 64
+culture_g_justification: "Confiserie emblématique du monde ottoman et méditerranéen, régulièrement mobilisée dans des questions de gastronomie et d'étymologie."
+---
+
 
 ###### Questions 
 

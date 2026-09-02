@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de la biodiversité amazonienne
 questions:
  - Type d'oiseaux dont le nom est d'origine amérindienne, je peux être des espèces hyacinthe ou militaire. Vivant dans les forêts tropicales d'Amérique centrale et d'Amérique du Sud, je me nourris de graines et de fruits...
+culture_g_score: 64
+culture_g_justification: "Perroquet très reconnaissable, présent dans la culture populaire et les questions sur les oiseaux tropicaux."
 ---
-
-
 ![Image de Ara](https://upload.wikimedia.org/wikipedia/commons/e/ec/Ara_ararauna_Luc_Viatour.jpg)
 
 ###### Questions

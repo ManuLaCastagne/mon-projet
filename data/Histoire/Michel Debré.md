@@ -20,9 +20,9 @@ indice_6 :
   - Gaulliste influent
 questions:
  - Quel homme politique, ayant joué un rôle prépondérant dans la Constitution de 1958, a été Premier Ministre sous Charles de Gaulle ?
+culture_g_score: 64
+culture_g_justification: "Figure importante de la fondation de la Ve République, régulièrement interrogée mais moins incontournable que les principaux chefs d’État français."
 ---
-
-
 ![Image de Michel Debré](https://upload.wikimedia.org/wikipedia/commons/8/84/Michel_Debr%C3%A9.jpg)
 
 ###### Questions

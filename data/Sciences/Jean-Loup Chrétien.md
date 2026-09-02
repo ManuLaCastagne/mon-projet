@@ -20,8 +20,9 @@ indice_6 :
   - Premier vol spatial 1982
 questions:
  - Quel spationaute français, ayant participé à 2 vols à destination de la station MIR fut également astronaute à la NASA de 1999 à 2001?
+culture_g_score: 60
+culture_g_justification: "Premier Français dans l’espace et pionnier des sorties extravéhiculaires, Chrétien est un repère spatial francophone assez classique."
 ---
-
 ![Image de Jean-Loup Chrétien](https://upload.wikimedia.org/wikipedia/commons/b/bc/Jean-Loup_Jacques_Marie_Chr%C3%A9tien%2C_French_Spationaut_%28NASA%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - introspection
 questions:
  - Ayant à l'origine trait à la volonté de pratiquer une écriture libre affranchie de tout style, j'ai été ensuite associé à des écrivains tels que Christine Angot. Mot désignant généralement un récit combinant la réalité vécue par l'auteur et son imaginaire...
+culture_g_score: 76
+culture_g_justification: "Notion littéraire contemporaine très présente dans les débats sur l’autobiographie, notamment grâce à Doubrovsky et Ernaux."
 ---
-
 ![Image de Autofiction](https://upload.wikimedia.org/wikipedia/commons/b/b5/Pr%C3%A9face._autofiction..jpg)
 
 ###### Questions

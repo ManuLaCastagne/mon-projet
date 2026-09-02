@@ -18,8 +18,9 @@ indice_5 :
   - Déluge de Noé
 indice_6 : 
   - Tour de Babel
+culture_g_score: 100
+culture_g_justification: "Premier livre de la Bible et source de récits fondateurs sur la création, les patriarches et les origines de l’humanité."
 ---
-
 ![Image de Genèse](https://upload.wikimedia.org/wikipedia/commons/8/8e/Genesis_1_Dead_Sea_Scroll_%28Cropped%29.jpg)
 
 ###### Questions

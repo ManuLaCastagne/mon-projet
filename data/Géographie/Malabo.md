@@ -22,8 +22,9 @@ indice_5 :
   - Proche du golfe de Guinée
 indice_6 : 
   - Héberge l'aéroport international de Bioko
+culture_g_score: 40
+culture_g_justification: "Capitale d’un petit État africain peu connu, principalement interrogée pour la Guinée équatoriale, Bioko et son passé colonial espagnol."
 ---
-
 ![Image de Malabo](https://upload.wikimedia.org/wikipedia/commons/6/6d/Calle_Santa_Isabel_in_Toledo._Spain.jpg)
 
 ![[Carte_Malabo.png]]

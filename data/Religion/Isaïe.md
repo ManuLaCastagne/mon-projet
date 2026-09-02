@@ -18,8 +18,9 @@ indice_5 :
   - Esaïe
 indice_6 : 
   - Royaume de Juda
+culture_g_score: 72
+culture_g_justification: "Prophète et livre biblique majeurs, souvent associés aux prophéties messianiques et aux références du christianisme."
 ---
-
 ![Image de Isaïe](https://upload.wikimedia.org/wikipedia/commons/2/2c/Les_Lucs_sur_Boulogne_-_Chapelle_%28Isa%C3%AFe%29.jpg)
 
 ###### Questions

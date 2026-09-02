@@ -18,8 +18,9 @@ indice_5 :
   - Judy Garland
 indice_6 : 
   - Bob Fosse
+culture_g_score: 80
+culture_g_justification: "Grande figure du cinéma et de la comédie musicale, reliée à Judy Garland, Cabaret, Scorsese et aux Oscars."
 ---
-
 ![Image de Liza Minelli](https://upload.wikimedia.org/wikipedia/commons/7/79/LIZA_MINELLI_1997.jpg)
 
 ###### Questions

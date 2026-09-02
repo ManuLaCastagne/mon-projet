@@ -22,8 +22,9 @@ indice_6 :
   - nain
 questions:
  - Quel acteur français, à l'affiche de "L'homme au pistolet d'or" a également incarné le personnage de Tattoo dans la série "L'île fantastique"?
+culture_g_score: 40
+culture_g_justification: "Acteur surtout associé à quelques rôles cultes, mais sa présence dans les quiz généralistes reste occasionnelle."
 ---
-
 ![Image de Hervé Villechaize](https://upload.wikimedia.org/wikipedia/commons/8/83/Herve_Villechaize_1977.jpg)
 
 ###### Questions

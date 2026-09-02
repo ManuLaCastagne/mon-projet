@@ -22,8 +22,9 @@ indice_6 :
   - Langage argotique
 questions:
  - Ma vie mouvementée et mes fréquents séjours en prison m'ont inspiré des oeuvres telles que la "Ballade des pendus"…
+culture_g_score: 68
+culture_g_justification: "Poète médiéval français majeur, régulièrement cité pour Le Testament et la Ballade des pendus, mais avec un champ d’interrogation assez littéraire."
 ---
-
 ![Image de François Villon](https://upload.wikimedia.org/wikipedia/commons/a/a5/Francois_Villon_1489.jpg)
 
 ###### Questions

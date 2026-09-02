@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Portugal
+culture_g_score: 48
+culture_g_justification: "Soupe emblématique du Portugal, utile pour quelques questions de gastronomie et de culture portugaise mais peu fréquente."
 ---
 ###### Questions 
 

@@ -15,8 +15,9 @@ indice_6 :
   - Ingrédient en cuisine asiatique
 questions:
  - Quel vertébré à corps mou et cylindrique peut mesurer 1 m dans les mers chaudes ?
+culture_g_score: 43
+culture_g_justification: "Animal marin original, lié à la régénération, à la médecine et à la cuisine asiatique, mais relativement secondaire."
 ---
-
 ![Image de Holothurie](https://upload.wikimedia.org/wikipedia/commons/a/ae/Periclimenes_imperator_%28Emperor_shrimp%29_on_Bohadschia_argus_%28Sea_cucumber%29.jpg)
 
 ###### Questions

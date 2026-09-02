@@ -23,8 +23,9 @@ indice_6 :
   - Louvre
 questions:
  - A quel sculpteur du XVIIIe siècle doit-on les "Chevaux de Marly" commandés par Louis XV?
+culture_g_score: 44
+culture_g_justification: "Coustou est un sculpteur français significatif surtout connu pour les Chevaux de Marly, ce qui limite le nombre d’angles fréquents."
 ---
-
 ![Image de Guillaume Coustou](https://upload.wikimedia.org/wikipedia/commons/7/74/Louis_XIII_Guillaume_Coustou_Notre-Dame_Paris.jpg)
 
 ###### Questions

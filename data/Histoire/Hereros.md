@@ -21,8 +21,9 @@ indice_6:
   - diaspora en Namibie
 questions:
   - En janvier 1904, quel peuple du Sud-Ouest africain, partagé entre les groupes oruzo et éanda, se révolte contre la colonisation allemande?
+culture_g_score: 55
+culture_g_justification: "Peuple directement lié au génocide colonial allemand en Namibie, sujet important mais relativement spécialisé dans l'histoire de la colonisation."
 ---
-
 ![Image de Hereros](https://upload.wikimedia.org/wikipedia/commons/7/71/Herero_women.jpg)
 
 ###### Questions

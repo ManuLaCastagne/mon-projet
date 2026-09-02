@@ -20,8 +20,9 @@ indice_6 :
   - bataille de Bouvines
 questions:
  - Quel roi, frère de Richard Coeur de Lion...
+culture_g_score: 80
+culture_g_justification: "Roi lié à la Magna Carta, à Aliénor d’Aquitaine, à Philippe Auguste et à la perte des possessions normandes, ce qui le rend très exploitable."
 ---
-
 ![Image de Jean sans Terre](https://upload.wikimedia.org/wikipedia/commons/2/21/Plaque_King_John_Waterford.png)
 
 ###### Questions

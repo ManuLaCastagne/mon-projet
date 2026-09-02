@@ -20,8 +20,9 @@ indice_6 :
   - père de deux filles
 questions:
  - Décembre 1936, sous quel nom le duc d'York accède-t-il au trône ?
+culture_g_score: 80
+culture_g_justification: "Roi associé à l’abdication d’Édouard VIII, à Churchill et à la Seconde Guerre mondiale, avec plusieurs repères historiques rentables."
 ---
-
 ![Image de George VI](https://upload.wikimedia.org/wikipedia/commons/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg)
 
 ###### Questions

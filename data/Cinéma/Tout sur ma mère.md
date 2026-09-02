@@ -22,9 +22,9 @@ indice_6 :
   - drame poignant
 questions:
  - En 1999, dans quel film de Pedro Almodovar le jeune Esteban disparaît-il brutalement après avoir entamé une nouvelle sur sa mère...
+culture_g_score: 80
+culture_g_justification: "Œuvre majeure d'Almodóvar, régulièrement mobilisée via l'Oscar, Penélope Cruz, ses thèmes et ses références théâtrales."
 ---
-
-
 ![Image de Tout sur ma mère](https://upload.wikimedia.org/wikipedia/commons/a/a9/Todo_sobre_mi_madre_%286931265504%29.jpg)
 
 ###### Questions

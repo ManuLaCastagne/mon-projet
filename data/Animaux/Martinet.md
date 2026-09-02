@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de liberté et de bonheur
 questions:
  - Quel passereau ressemblant à l'hirondelle niche en colonies sous les gouttières et les avant-toits ?
+culture_g_score: 60
+culture_g_justification: "Oiseau migrateur courant et remarquable par ses performances aériennes, régulièrement opposé à l’hirondelle."
 ---
-
-
 ![Image de Martinet](https://upload.wikimedia.org/wikipedia/commons/c/ce/Martinet_-_Le_parc_des_Ouches_et_l%27%C3%A9glise.JPG)
 
 ###### Questions

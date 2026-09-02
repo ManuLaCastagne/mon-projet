@@ -24,8 +24,9 @@ indice_6 :
   - sixième ville la plus peuplée d'Amérique du Nord
 questions:
  - Quelle ville abrite la franchise dite des Raptors, seule équipe de basket-ball canadienne à évoluer actuellement dans la NBA?
+culture_g_score: 80
+culture_g_justification: "Toronto revient régulièrement grâce à la Tour CN, au cinéma, au Canada et à son statut de grande métropole nord-américaine."
 ---
-
 ![Image de Toronto](https://upload.wikimedia.org/wikipedia/commons/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg)
 
 ![[Carte_Toronto.png]]

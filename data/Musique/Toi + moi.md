@@ -22,8 +22,9 @@ indice_6 :
   - paroles optimistes
 questions:
  - Fonctionnant comme une ritournelle qui incite à partager un moment d'insouciance, je dis "Tout est possible, tout est réalisable" et répète "Allez, venez et entrez dans la danse". Chanson de Grégoire dont le titre additionne...
+culture_g_score: 44
+culture_g_justification: "Tube francophone bien identifié, mais les questions sur cette chanson précise restent assez limitées."
 ---
-
 ![Image de Toi + moi](https://upload.wikimedia.org/wikipedia/commons/c/c4/Toi_%26_Moi_Cafe_in_Soho_2021-08-19.jpg)
 
 ###### Questions

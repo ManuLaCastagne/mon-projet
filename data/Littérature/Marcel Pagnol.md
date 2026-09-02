@@ -20,11 +20,9 @@ indice_5:
   - Jean de Florette
 indice_6:
   - trilogie marseillaise
+culture_g_score: 97
+culture_g_justification: "Figure incontournable de la culture française, à la fois écrivain, dramaturge, cinéaste et représentant de la Provence."
 ---
-
-
-
-
 ![Image de Marcel Pagnol](https://upload.wikimedia.org/wikipedia/commons/0/09/Marcel_Pagnol_1931.jpg)
 
 ###### Questions

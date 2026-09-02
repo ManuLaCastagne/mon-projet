@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour ses baies et ses feuilles en cuisine et parfumerie
 questions:
  - Quel arbuste aromatique, symbole de la virginité au Proche-Orient, peuple abondamment le maquis corse ?
+culture_g_score: 47
+culture_g_justification: "Le myrte possède des liens intéressants avec la Méditerranée, la mythologie et la parfumerie, mais apparaît peu dans les quiz généralistes."
 ---
-
 ![Image de Myrte](https://upload.wikimedia.org/wikipedia/commons/9/9c/Myrtus_communis.jpg)
 
 ###### Questions

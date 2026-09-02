@@ -18,8 +18,9 @@ indice_5:
   - Mohamed Ali
 indice_6:
   - Canal+
+culture_g_score: 43
+culture_g_justification: "Boxeur français connu pour ses combats contre Carlos Monzón et sa carrière médiatique, Bouttier reste relativement périphérique."
 ---
-
 ![Image de Jean-Claude Bouttier](https://upload.wikimedia.org/wikipedia/commons/1/1a/Jean-Claude_Bouttier_1972.jpg)
 
 ###### Questions

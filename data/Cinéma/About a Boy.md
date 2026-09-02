@@ -16,6 +16,8 @@ indice_5:
   - comédie dramatique
 indice_6:
   - Nick Hornby
+culture_g_score: 47
+culture_g_justification: "Comédie britannique connue grâce à Hugh Grant et Nick Hornby, mais d'importance limitée dans les quiz généralistes."
 ---
 ![[Pasted image 20260803214246.png]]
 ###### Questions

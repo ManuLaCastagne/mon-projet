@@ -22,8 +22,9 @@ indice_6 :
   - paquebot d'humour anglais
 questions:
  - En 1889, quel roman de l'humoriste anglais Jerome K. Jerome retrace les aventures de 3 amis partis naviguer sur la Tamise ?
+culture_g_score: 60
+culture_g_justification: "Classique humoristique anglophone régulièrement cité pour son auteur, son voyage sur la Tamise, son chien et sa satire des récits de voyage."
 ---
-
 ![Image de Trois hommes dans un bateau](https://upload.wikimedia.org/wikipedia/commons/8/8e/Jerome_-_Trois_hommes_dans_un_bateau_%28trad._Varlet%29%2C_1924.djvu)
 
 ###### Questions

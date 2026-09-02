@@ -18,8 +18,9 @@ indice_5:
   - humoriste noire
 indice_6:
   - réflexions sociales
+culture_g_score: 65
+culture_g_justification: "Humoriste contemporaine très identifiable par ses spectacles, son humour noir, ses récompenses et ses rôles télévisés."
 ---
-
 ![Image de Blanche Gardin](https://upload.wikimedia.org/wikipedia/commons/9/96/Blanche_Gardin.jpg)
 
 ###### Questions

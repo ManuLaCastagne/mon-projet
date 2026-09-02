@@ -22,8 +22,9 @@ indice_6 :
   - Richard Bach
 questions:
  - 1973. Film américain racontant l'histoire d'un oiseau voulant voler plus haut, d'après un livre de Richard Bach ?
+culture_g_score: 32
+culture_g_justification: "Le film Jonathan Livingston, le goéland est une adaptation identifiable d'un livre connu, mais demeure rarement interrogé en culture générale."
 ---
-
 ![Image de Jonathan Livingston, le goéland](https://upload.wikimedia.org/wikipedia/commons/4/4e/Allegorie_auf_die_Transzendenz_der_M%C3%B6we_Jonathan.jpg)
 
 ###### Questions

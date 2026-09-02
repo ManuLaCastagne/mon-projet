@@ -23,8 +23,9 @@ indice_6 :
   - critique de la société géorgienne
 questions:
  - A quel artiste, né en 1697 à Londres, doit-on de nombreuses scènes de la société anglaise comme sa série de tableaux intitulée "Mariage à la mode"?
+culture_g_score: 67
+culture_g_justification: "Artiste britannique important pour la satire sociale, la gravure et l’histoire du droit d’auteur, avec une fréquence quiz modérée."
 ---
-
 ![Image de William Hogarth](https://upload.wikimedia.org/wikipedia/commons/d/d0/William_Hogarth_-_Gin_Lane.jpg)
 
 ###### Questions

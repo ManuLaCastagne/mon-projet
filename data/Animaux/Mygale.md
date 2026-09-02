@@ -15,8 +15,9 @@ indice_6 :
   - Peur phobique
 questions:
  - A quel genre d'araignée s'apparente la matoutou falaise qui vit en Martinique ?
+culture_g_score: 60
+culture_g_justification: "Araignée associée aux tarentules, aux poils urticants et à quelques références culturelles, assez classique sans être prioritaire."
 ---
-
 ![Image de Mygale](https://upload.wikimedia.org/wikipedia/commons/9/9e/A_New_View_of_the_Tarantula_Nebula.jpg)
 
 ###### Questions

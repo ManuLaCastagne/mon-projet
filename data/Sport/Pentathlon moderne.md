@@ -18,8 +18,9 @@ indice_5 :
   - Course à pied
 indice_6 : 
   - Pierre de Coubertin
+culture_g_score: 69
+culture_g_justification: "Discipline olympique classique dont l’origine, les cinq épreuves et l’histoire reviennent régulièrement dans les quiz."
 ---
-
 ![Image de Pentathlon moderne](https://upload.wikimedia.org/wikipedia/commons/0/03/Laser_Pistols_%28UIPM_homologated%29_for_Modern_Penathlon%2C_Laser_Run_and_Triathle.jpg)
 
 ###### Questions

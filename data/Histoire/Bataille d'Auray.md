@@ -18,8 +18,9 @@ indice_5 :
   - victoire des Anglais
 indice_6 : 
   - Fin de la guerre de Succession en Bretagne
+culture_g_score: 32
+culture_g_justification: "Épisode important de l’histoire bretonne médiévale, mais rarement demandé dans un quiz généraliste."
 ---
-
 ![Image de Bataille d'Auray](https://upload.wikimedia.org/wikipedia/commons/6/62/Bataille_d%27Auray_-_Yoland.jpg)
 
 ###### Questions

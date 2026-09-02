@@ -22,8 +22,9 @@ indice_6 :
   - Comédie
 questions:
  - En 2008, quel acteur sort l'album On s'aime, 14 ans après avoir chanté La Carioca dans "La Cité de la peur"?
+culture_g_score: 64
+culture_g_justification: "Acteur populaire du cinéma français, surtout rentable par quelques comédies et rôles cultes plutôt que par une forte transversalité."
 ---
-
 ![Image de Gérard Darmon](https://upload.wikimedia.org/wikipedia/commons/b/b7/G%C3%A9rard_Darmon_Cannes_2011.jpg)
 
 ###### Questions

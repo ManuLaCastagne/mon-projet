@@ -22,10 +22,9 @@ indice_6 :
   - The Score
 questions:
  - En 1996, quel groupe, ayant repris le tube "Killing me softly"...
+culture_g_score: 64
+culture_g_justification: "Le groupe est fortement associé à «The Score», Lauryn Hill et «Killing Me Softly», offrant quelques repères très rentables."
 ---
-
-
-
 ![Image de The Fugees](https://upload.wikimedia.org/wikipedia/commons/9/93/Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg)
 
 ###### Questions

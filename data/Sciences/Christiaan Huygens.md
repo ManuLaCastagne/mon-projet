@@ -20,8 +20,9 @@ indice_6 :
   - Johannes Hudde
 questions:
  - Au XVIIe siècle, quel savant néerlandais a établi la théorie du pendule ?
+culture_g_score: 72
+culture_g_justification: "Huygens relie astronomie, mécanique, optique et horlogerie, mais demeure moins fréquent que les figures scientifiques les plus célèbres."
 ---
-
 ![Image de Christiaan Huygens](https://upload.wikimedia.org/wikipedia/commons/7/78/Christiaan_Huygens_Statue_Delft_1.jpg)
 
 ###### Questions

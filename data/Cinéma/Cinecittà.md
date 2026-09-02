@@ -22,8 +22,9 @@ indice_6 :
   - Décors gigantesques
 questions:
  - En 1937, quel complexe cinématographique, comptant 73 édifices dont 16 théâtres scéniques est inauguré à Rome?
+culture_g_score: 72
+culture_g_justification: "Lieu central de l’histoire du cinéma italien, relié à Rome, Mussolini, Fellini, les grandes productions et les studios."
 ---
-
 ![Image de Cinecittà](https://upload.wikimedia.org/wikipedia/commons/6/6e/Ingressostorico_cinecitta.jpg)
 
 ###### Questions

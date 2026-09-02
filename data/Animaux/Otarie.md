@@ -15,8 +15,9 @@ indice_6 :
   - Star de cirque
 questions:
  - Chez quel mammifère marin piscivore, voisin du phoque distingue-t-on les lions de mer des spécimens dits à fourrure ?
+culture_g_score: 64
+culture_g_justification: "Animal marin bien connu, exploitable en zoologie, comportement animal et culture populaire, sans être un marronnier majeur."
 ---
-
 ![Image de Otarie](https://upload.wikimedia.org/wikipedia/commons/7/7c/Zalophus_californianus_%28Otarie_de_Californie%29_-_422.jpg)
 
 ###### Questions

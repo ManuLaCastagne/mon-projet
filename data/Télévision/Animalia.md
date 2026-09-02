@@ -18,8 +18,9 @@ indice_5 :
   - Monde fantastique
 indice_6 : 
   - Hugo et Alex
+culture_g_score: 23
+culture_g_justification: "Série animée jeunesse peu connue du grand public et rarement susceptible d’être la réponse d’un quiz généraliste."
 ---
-
 ![Image de Animalia](https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg)
 
 ###### Questions

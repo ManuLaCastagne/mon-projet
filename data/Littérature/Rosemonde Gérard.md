@@ -22,8 +22,9 @@ indice_6 :
   - Membre de l'Académie Goncourt
 questions:
  - Quelle épouse d'Edmond Rostand dit dans son poème "L'éternelle chanson"   "Aujourd'hui plus qu'hier et bien moins de demain"
+culture_g_score: 31
+culture_g_justification: "Poétesse surtout connue par association avec Edmond Rostand, mais rarement interrogée en culture générale."
 ---
-
 ![Image de Rosemonde Gérard](https://upload.wikimedia.org/wikipedia/commons/4/4d/Rosemonde_G%C3%A9rard.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5:
 indice_6:
   - structure en spirale
 questions: []
+culture_g_score: 71
+culture_g_justification: "Le Guggenheim de Bilbao est un symbole de l’architecture contemporaine, utile pour des questions sur Gehry, l’Espagne et l’art moderne."
 ---
-
 ![Image de Guggenheim](https://upload.wikimedia.org/wikipedia/commons/5/5a/Solomon_R._Guggenheim_Museum_skylight.jpg)
 
 ###### Questions

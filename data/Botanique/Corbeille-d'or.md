@@ -13,8 +13,9 @@ indice_5:
   - Aussi appelée Alyssum
 indice_6:
   - Utilisée pour les bordures et rocailles dans les jardins
+culture_g_score: 20
+culture_g_justification: "Plante ornementale peu connue, susceptible de fournir une question de vocabulaire mais sans portée générale."
 ---
-
 ![Image de Corbeille-d'or](https://upload.wikimedia.org/wikipedia/commons/f/f3/Aurinia_saxatilis_TK_2021-04-22_4.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - tigre de Sumatra
 questions:
  - Quelle île indonésienne située à l'ouest de Java (danse) abrite les villes de Medan ?
+culture_g_score: 72
+culture_g_justification: "Grande île indonésienne associée au tsunami de 2004, au volcan Toba, aux orangs-outans et à une forte biodiversité."
 ---
-
 ![Image de Sumatra](https://upload.wikimedia.org/wikipedia/commons/3/37/Mud_Cow_Racing_-_Pacu_Jawi_-_West_Sumatra%2C_Indonesia.jpg)
 
 ![[Carte_Sumatra.png]]

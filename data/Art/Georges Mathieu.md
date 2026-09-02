@@ -23,9 +23,9 @@ indice_6 :
   - improvisation contrôlée
 questions:
  - Quel peintre français, auteur du sigle de la chaîne de télévision Antenne 2 en 1974, peignit des toiles immenses en misant sur l'impulsivité du geste?
+culture_g_score: 47
+culture_g_justification: "Mathieu est un représentant notable de l’abstraction lyrique, avec quelques repères originaux comme le billet de dix francs."
 ---
-
-
 ![Image de Georges Mathieu](https://upload.wikimedia.org/wikipedia/commons/4/42/FM-2019-1-6-4-47--Niggl-Radloff-B-Georges-Mathieu-ONLINE.jpg)
 
 ###### Questions

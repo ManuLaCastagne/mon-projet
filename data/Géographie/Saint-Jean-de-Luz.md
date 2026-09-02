@@ -21,8 +21,9 @@ indice_5:
   - plage de sable fin
 indice_6:
   - station balnéaire
+culture_g_score: 64
+culture_g_justification: "Saint-Jean-de-Luz est un repère historique et touristique solide grâce au mariage de Louis XIV, au traité des Pyrénées et au patrimoine basque."
 ---
-
 ![Image de Saint-Jean de Luz](https://upload.wikimedia.org/wikipedia/commons/0/00/Saint-Jean-Baptiste_Reredos.jpg)
 
 ![[Carte_Saint-Jean-de-Luz.png]]

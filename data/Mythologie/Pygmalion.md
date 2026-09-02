@@ -18,8 +18,9 @@ indice_6 :
   - métamorphose à Chypre
 questions:
  - Dans la [[mythologie grecque]] quel personnage avide de pouvoir, assassine alors Sychée (Sycharbas), son beau-frère et oncle maternel, pour s'emparer de ses richesses
+culture_g_score: 72
+culture_g_justification: "Le mythe de Pygmalion est une référence durable sur l’art et la création, notamment grâce à Ovide et à ses nombreuses reprises littéraires et artistiques."
 ---
-
 ![Image de Pygmalion](https://upload.wikimedia.org/wikipedia/commons/c/c8/Philaethria_pygmalion_MHNT.jpg)
 
 ###### Questions

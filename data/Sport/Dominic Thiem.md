@@ -20,8 +20,9 @@ indice_6 :
   - Rafael Nadal
 questions:
  - En 2020, quel joueur de tennis autrichien a remporté son premier GC ?
+culture_g_score: 60
+culture_g_justification: "Champion du Grand Chelem et finaliste de Roland-Garros, connu surtout dans les questions sur le tennis masculin contemporain."
 ---
-
 ![Image de Dominic Thiem](https://upload.wikimedia.org/wikipedia/commons/f/fa/Thiem_RG18_%2825%29_%2842260263644%29.jpg)
 
 ###### Questions

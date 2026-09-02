@@ -22,8 +22,9 @@ indice_6 :
   - Chanteuse et actrice
 questions:
  - Quelle ancienne membre du jury de l'émission "Nouvelle star" a interprété les chansons "La Ceinture" et "Comment t'appelles-tu ce matin" ?
+culture_g_score: 44
+culture_g_justification: "Candidate connue de la Star Academy, mais sa carrière offre peu d'angles récurrents dans les quiz généralistes."
 ---
-
 ![Image de Elodie Frégé](https://upload.wikimedia.org/wikipedia/commons/c/c8/Elodie_Fr%C3%A9g%C3%A9_Cabourg_2017.jpg)
 
 ###### Questions

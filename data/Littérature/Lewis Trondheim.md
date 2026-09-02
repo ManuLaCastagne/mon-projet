@@ -23,8 +23,9 @@ indice_6 :
   - éditeur L'Association
 questions:
  - En 2020, quel auteur de BD met en scène son personnage Lapinot...
+culture_g_score: 52
+culture_g_justification: "Auteur important de la bande dessinée indépendante française, mais moins fréquent dans les quiz généralistes que les grands noms populaires."
 ---
-
 ![Image de Lewis Trondheim](https://upload.wikimedia.org/wikipedia/commons/7/75/FIBD2015LewisTrondheim.jpg)
 
 ###### Questions

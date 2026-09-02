@@ -24,9 +24,9 @@ indice_6 :
   - zone mystérieuse
 questions:
  - Zone popularisée dès 1974 par un best-seller de Charles Berlitz, je ne suis pas indiquée sur les cartes officielles...
+culture_g_score: 67
+culture_g_justification: "Le Triangle des Bermudes est très connu et souvent cité, mais son importance repose largement sur un mythe peu structurant."
 ---
-
-
 ![Image de Triangle des Bermudes](https://upload.wikimedia.org/wikipedia/commons/d/d5/Triangle-des-bermudes-witch-s-hole-4.jpg)
 
 ![[Carte_Triangle des Bermudes.png]]

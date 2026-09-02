@@ -23,8 +23,9 @@ indice_6 :
   - hommage aux maîtres anciens
 questions:
  - Quel artiste colombien, né en 1932, est célèbre pour ses sculptures et ses peintures de personnages aux formes généreuses ?
+culture_g_score: 80
+culture_g_justification: "Botero est immédiatement identifiable par ses formes volumineuses et permet des questions sur la peinture, la sculpture et l'art latino-américain."
 ---
-
 ![Image de Fernando Botero](https://upload.wikimedia.org/wikipedia/commons/6/6a/Fernando_Botero_%282018%29.jpg)
 
 ###### Questions

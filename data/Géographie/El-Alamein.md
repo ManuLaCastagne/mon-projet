@@ -24,8 +24,9 @@ indice_6 :
   - Axis vs Allies
 questions:
  - Le 23 octobre 1942, dans quelle localité d'Egypte Montgomery lance-t-il  une contre-offensive victorieuse  contre les troupes de l'Afrikakorps ?
+culture_g_score: 72
+culture_g_justification: "Lieu associé à une bataille décisive de la Seconde Guerre mondiale, régulièrement interrogé dans les questions sur la campagne d’Afrique du Nord."
 ---
-
 ![Image de El-Alamein](https://upload.wikimedia.org/wikipedia/commons/5/50/Porto_Marina_%28El_Alamein%29.jpg)
 
 ![[Carte_El-Alamein.png]]

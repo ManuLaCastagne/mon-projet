@@ -18,8 +18,9 @@ indice_5:
   - Membre du Parti du peuple pakistanais
 indice_6:
   - Études à Harvard et Oxford
+culture_g_score: 68
+culture_g_justification: "Première femme Premier ministre d’un pays musulman, figure utile pour la politique pakistanaise, les femmes en politique et le terrorisme."
 ---
-
 ![Image de Benazir Bhutto](https://upload.wikimedia.org/wikipedia/commons/c/cf/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006.jpg)
 
 ###### Questions

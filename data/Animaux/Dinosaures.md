@@ -15,8 +15,9 @@ indice_6 :
   - Sujet de films et de documentaires
 questions:
  - Que nous nous tenons sur des membres verticaux, nous serions en fait les ancêtres des oiseaux.
+culture_g_score: 100
+culture_g_justification: "Les dinosaures constituent un marronnier exceptionnellement transversal, présent dans les quiz de sciences, d'histoire de la Terre, de paléontologie et de culture populaire."
 ---
-
 ![Image de Dinosaures](https://upload.wikimedia.org/wikipedia/commons/5/5e/Dino_City_Bad_Mergentheim_%283%29.jpg)
 
 ###### Questions

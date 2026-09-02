@@ -22,9 +22,9 @@ indice_6 :
   - Belle Époque
 questions:
  - En 1913, quel premier volume d'"A la recherche du temps perdu" de Proust débute par "longtemps...
+culture_g_score: 84
+culture_g_justification: "Premier volume de Proust, régulièrement interrogé pour la madeleine, la mémoire involontaire et À la recherche du temps perdu."
 ---
-
-
 ![Image de Du Côté de chez Swann](https://upload.wikimedia.org/wikipedia/commons/5/57/Du_c%C3%B4t%C3%A9_de_chez_Swann_%28c%29.pdf)
 
 ###### Questions

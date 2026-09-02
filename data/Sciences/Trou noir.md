@@ -20,8 +20,9 @@ indice_6 :
   - Effet de lentille gravitationnelle
 questions:
  - Type d'objet astronomique dont une première image de l'ombre a été réalisée en avril 2019, je suis une région de l'espace dont le champ de gravitation...
+culture_g_score: 100
+culture_g_justification: "Objet astrophysique universellement célèbre, central pour des questions de relativité, d'astronomie, de cosmologie et d'observations récentes."
 ---
-
 ![Image de Trou noir](https://upload.wikimedia.org/wikipedia/commons/3/30/Ambigramme_Trou_noir.png)
 
 ###### Questions

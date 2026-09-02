@@ -19,8 +19,9 @@ indice_5 :
   - pelle
 indice_6 : 
   - chantier
+culture_g_score: 20
+culture_g_justification: "Programme de rénovation peu connu du grand public et offrant très peu de possibilités d'interrogation indépendantes."
 ---
-
 ![Image de Mission : travaux](https://upload.wikimedia.org/wikipedia/commons/1/13/Travaux_et_fouilles_de_Tiahuanaco_-_Mission_scientifique_fran%C3%A7aise_en_Am%C3%A9rique_du_Sud_-_btv1b8451501w_%2815_of_70%29.jpg)
 
 ###### Questions

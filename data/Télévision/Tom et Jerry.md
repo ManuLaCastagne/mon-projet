@@ -20,8 +20,9 @@ indice_6 :
   - Metro-Goldwyn-Mayer
 questions:
  - Ou de nous allier temporairement pour faire face notamment au bouledogue Spike. Formant un duo d'animaux dont le plus petit...
+culture_g_score: 97
+culture_g_justification: "Duo d’animation mondialement célèbre, exploitable par ses créateurs, ses personnages, ses récompenses, ses films et l’histoire de l’animation."
 ---
-
 ![Image de Tom et Jerry](https://upload.wikimedia.org/wikipedia/commons/8/8c/Stamp_of_Albania_-_2005_-_Colnect_374064_-_Tom_and_Jerry.jpeg)
 
 ###### Questions

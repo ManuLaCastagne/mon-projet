@@ -18,8 +18,9 @@ indice_5 :
   - Caravanes
 indice_6 : 
   - Échanges culturels
+culture_g_score: 100
+culture_g_justification: "Grand thème historique mondial reliant commerce, géographie, empires, religions, échanges culturels et exploration."
 ---
-
 ![Image de Route de la Soie]()
 
 ###### Questions

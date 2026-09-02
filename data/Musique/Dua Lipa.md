@@ -20,8 +20,9 @@ indice_5 :
   - genre pop et dance-pop
 indice_6 : 
   - collaboratrice avec Elton John
+culture_g_score: 77
+culture_g_justification: "Star mondiale de la pop contemporaine, régulièrement citée pour ses tubes, ses récompenses, ses origines et ses collaborations."
 ---
-
 ![Image de Dua Lipa](https://upload.wikimedia.org/wikipedia/commons/f/f9/British_singer_and_songwriter_Dua_Lipa_at_the_SWR3_New_Pop_Festival_2016.jpg)
 
 ###### Questions

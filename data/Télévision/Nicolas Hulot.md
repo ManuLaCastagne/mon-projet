@@ -20,8 +20,9 @@ indice_6 :
   - préservation de l'environnement
 questions:
  - En 1987, quel homme de télévision présente le 1er numéro de l'émission "Ushuaïa"
+culture_g_score: 84
+culture_g_justification: "Présentateur d'Ushuaïa devenu une figure majeure de la sensibilisation environnementale et de la vie publique française."
 ---
-
 ![Image de Nicolas Hulot](https://upload.wikimedia.org/wikipedia/commons/b/b6/Nicolas_Hulot_-_Huma_2008%2C_6415_%28cropped%29.jpg)
 
 ###### Questions

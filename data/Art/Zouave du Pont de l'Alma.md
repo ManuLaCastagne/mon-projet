@@ -23,8 +23,9 @@ indice_6 :
   - uniforme traditionnel nord-africain
 questions:
  - J'ai été replacé dans les années 70 sur l'unique pile d'un pont métallique. Statut de soldat surveillé par les Parisiens pour voir si le niveau de la Seine monte...
+culture_g_score: 60
+culture_g_justification: "Repère parisien classique et indicateur des crues de la Seine, donnant plusieurs questions de patrimoine et d’histoire urbaine."
 ---
-
 ![Image de Zouave du Pont de l'Alma](https://upload.wikimedia.org/wikipedia/commons/5/50/Le_zouave_au_pont_de_l%27Alma_%C3%A0_Paris.JPG)
 
 ###### Questions

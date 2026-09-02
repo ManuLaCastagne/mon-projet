@@ -22,8 +22,9 @@ indice_6 :
   - Membre du groupe de la Résistance française
 questions:
  - Qui est cette femme de lettres, prix Goncourt en 1944 à propos de laquelle Louis Aragon écrivait que ses yeux rendaient "jaloux le ciel d'après la pluie" ?
+culture_g_score: 64
+culture_g_justification: "Écrivaine liée à Aragon, au Goncourt et à la Résistance, offrant plusieurs repères franco-russes malgré une notoriété modérée."
 ---
-
 ![Image de Elsa Triolet](https://upload.wikimedia.org/wikipedia/commons/7/7f/Elsa-triolet-1925.jpg)
 
 ###### Questions

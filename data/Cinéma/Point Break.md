@@ -20,11 +20,9 @@ indice_5:
   - Bodhi
 indice_6:
   - Johnny Utah
+culture_g_score: 73
+culture_g_justification: "Film culte associant surf, cambriolage, Keanu Reeves, Patrick Swayze et Kathryn Bigelow, avec plusieurs indices efficaces en quiz."
 ---
-
-
-
-
 ![Image de Point Break](https://upload.wikimedia.org/wikipedia/en/7/7e/Pointbreaktheatrical.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/20pRUfg97l53zVfBX0b8Ox" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

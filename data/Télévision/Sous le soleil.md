@@ -20,8 +20,9 @@ indice_6 :
   - longue diffusion
 questions:
  - A quelle série se déroulant à Saint-Tropez, avec Adeline Blondieau...
+culture_g_score: 64
+culture_g_justification: "Feuilleton français populaire et durable, régulièrement associé à Saint-Tropez, à ses personnages et à ses actrices principales."
 ---
-
 ![Image de Sous le soleil](https://upload.wikimedia.org/wikipedia/commons/4/46/Plateau_de_tournage_s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_en_2002_-_%22Sous_le_soleil%22_by_Mikani.jpg)
 
 ###### Questions

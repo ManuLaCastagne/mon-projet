@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de liberté
 questions:
  - Oiseau migrateur pouvant être de rivage, de rocher ou de cheminée...
+culture_g_score: 76
+culture_g_justification: "Oiseau très connu et symbolique, permettant des questions fréquentes sur migration, printemps, écologie et culture populaire."
 ---
-
-
 ![Image de Hirondelle](https://upload.wikimedia.org/wikipedia/commons/7/73/Hirondelle_rustique_Mejerda010.jpg)
 
 ###### Questions

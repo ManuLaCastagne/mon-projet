@@ -23,8 +23,9 @@ indice_6:
   - patrimoine mondial de l'UNESCO
 questions:
   - A la fois palais et monastère, situé en Espagne au pied de la sierra de Guadarrama, mon plan en forme de gril rappelle le martyr de saint Laurent. Palais construit sur les ordres de Philippe II au nord-ouest de Madrid. Je suis…
+culture_g_score: 64
+culture_g_justification: "L’Escurial est un grand site historique et architectural espagnol, régulièrement cité, mais avec un nombre d’angles indépendants modéré."
 ---
-
 ![Image de Escurial](https://upload.wikimedia.org/wikipedia/commons/d/d2/Monastery_of_El_Escorial_05.jpg)
 
 ###### Questions

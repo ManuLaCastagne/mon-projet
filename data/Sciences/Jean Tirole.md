@@ -20,8 +20,9 @@ indice_6 :
   - Monopoles
 questions:
  - Quel économiste français ayant étudié à l'École Polytechnique a reçu en 2014 le prix Nobel de sciences économiques ?
+culture_g_score: 51
+culture_g_justification: "Jean Tirole est un économiste français connu grâce au Nobel, mais ses thèmes restent moins fréquents et moins accessibles dans les quiz généralistes."
 ---
-
 ![Image de Jean Tirole](https://upload.wikimedia.org/wikipedia/commons/1/19/Jean_Tirole_2019.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - pièce de théâtre
 questions:
  - Quelle pièce de William Shakespeare commence par une sentinelle du château d'Elsinore   "Qui est là ?"
+culture_g_score: 100
+culture_g_justification: "Tragédie universelle de Shakespeare, riche en personnages, citations, thèmes, adaptations, histoire du théâtre et références culturelles."
 ---
-
 ![Image de Hamlet](https://upload.wikimedia.org/wikipedia/commons/4/4e/Bernhardt_Hamlet2.jpg)
 
 ###### Questions

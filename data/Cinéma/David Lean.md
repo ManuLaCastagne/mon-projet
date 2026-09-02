@@ -20,8 +20,9 @@ indice_5 :
   - grande fresque cinématographique
 indice_6 : 
   - épique et visuellement impressionnant
+culture_g_score: 84
+culture_g_justification: "David Lean est un cinéaste fondamental du grand spectacle, associé à Lawrence d'Arabie, Le Pont de la rivière Kwaï et Docteur Jivago."
 ---
-
 ![Image de David Lean](https://upload.wikimedia.org/wikipedia/commons/3/31/DavidLean1965.jpg)
 
 ###### Questions

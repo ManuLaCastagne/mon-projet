@@ -18,8 +18,9 @@ indice_5 :
   - Abductions extraterrestres
 indice_6 : 
   - Bureau des affaires non classées
+culture_g_score: 96
+culture_g_justification: "Série culte mondialement connue, riche en questions sur la science-fiction, les personnages, les complots, les acteurs et la télévision."
 ---
-
 ![Image de X-Files](https://upload.wikimedia.org/wikipedia/commons/8/8a/The_X-Files_Office.jpg)
 
 ###### Questions

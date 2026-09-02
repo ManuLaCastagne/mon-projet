@@ -22,9 +22,9 @@ indice_6 :
   - Écrivain français contemporain
 questions:
  - M'intéressant aux fêlures de l'existence et aux sujets de société comme dans "No et moi", je m'approprie les codes du polar dans "Les Enfants sont rois" paru en 2021 après m'être essayée au thriller psychologique avec "D'après une histoire vraie". Auteure de "Rien ne s'oppose à la nuit"...
+culture_g_score: 60
+culture_g_justification: "Romancière française connue pour plusieurs prix et des thèmes autobiographiques, mais sans statut de classique incontournable."
 ---
-
-
 ![Image de Delphine de Vigan](https://upload.wikimedia.org/wikipedia/commons/5/5e/Delphine_de_Vigan_-_Le_Livre_sur_la_Place_%2820740240153%29.jpg)
 
 ###### Questions

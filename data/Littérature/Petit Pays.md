@@ -22,9 +22,9 @@ indice_6 :
   - exil
 questions:
  - Roman français publié en 2016, j'ai reçu cette même année le prix Goncourt des lycéens. 1er roman d'un auteur-compositeur et rappeur, j'évoque l'enfance heureuse d'un petit garçon au Burundi, la séparation de ses parents, la menace de la guerre civile ainsi que le génocide des Tutsis au Rwanda. Roman de Gaël Faye, adapté au cinéma par Eric Barbier...
+culture_g_score: 60
+culture_g_justification: "Roman contemporain primé, utile pour Gaël Faye, le Burundi, les génocides et la littérature francophone récente."
 ---
-
-
 ![Image de Petit Pays](https://upload.wikimedia.org/wikipedia/commons/a/a9/Rabba_Rabbi.jpg)
 
 ###### Questions

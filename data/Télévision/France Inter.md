@@ -18,8 +18,9 @@ indice_5 :
   - fréquentation élevée
 indice_6 : 
   - médias francophones
+culture_g_score: 76
+culture_g_justification: "Station majeure du paysage radiophonique français, utile pour l’histoire des médias, les animateurs, les émissions et la vie culturelle."
 ---
-
 ![Image de France Inter](https://upload.wikimedia.org/wikipedia/commons/a/a0/France_Inter_logo_2021.svg)
 
 ###### Questions

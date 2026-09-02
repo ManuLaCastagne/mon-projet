@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté
 questions:
  - Quel passereau au bec de forme conique, couramment appelé pierrot...
+culture_g_score: 64
+culture_g_justification: "Oiseau urbain universellement familier, associé à des épisodes historiques, à la littérature et à l’écologie."
 ---
-
 ![Image de Moineau](https://upload.wikimedia.org/wikipedia/commons/e/e8/Moineau_domestique_%28Passer_domesticus%29_%2807%29.jpg)
 
 ###### Questions

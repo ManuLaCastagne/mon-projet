@@ -22,15 +22,9 @@ indice_5 :
   - destination touristique
 indice_6 : 
   - archipel du Pacifique Sud
+culture_g_score: 48
+culture_g_justification: "Capitale d’un petit État du Pacifique, généralement rencontrée dans des questions de capitales ou de décolonisation."
 ---
-
-
-
-
-
-
-
-
 ![Image de Port-Vila](https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Port_Vila_%282006-2020%29.svg)
 
 ![[Carte_Port-Vila.png]]

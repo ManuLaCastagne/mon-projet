@@ -20,8 +20,9 @@ indice_5:
   - années 1930
 indice_6:
   - Sous les ponts de Paris
+culture_g_score: 48
+culture_g_justification: "Compositeur très prolifique du patrimoine français, mais dont le nom demeure peu connu hors de quelques œuvres et films."
 ---
-
 ![Image de Vincent Scotto](https://upload.wikimedia.org/wikipedia/commons/4/44/Vincent_Scotto_01.jpg)
 
 ###### Questions

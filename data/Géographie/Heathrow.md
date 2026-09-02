@@ -21,8 +21,9 @@ indice_6:
   - Heathrow Express
 questions:
   - Quel aéroport devenu civil en 1946, et comptant parmi les plus fréquentés au monde, est situé dans la banlieue ouest de Londres ?
+culture_g_score: 73
+culture_g_justification: "Aéroport mondialement connu, fréquemment associé à Londres, au Concorde, à l’aviation et aux grands flux internationaux."
 ---
-
 ![Image de Heathrow](https://upload.wikimedia.org/wikipedia/commons/5/59/Middle_East_Airlines_A321-200_%28F-ORMF%29_landing_at_London_Heathrow_Airport.jpg)
 
 ![[Carte_Heathrow.png]]

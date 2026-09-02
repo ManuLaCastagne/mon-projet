@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de chance
 questions:
  - Quel petit coléoptère tient son nom du latin signifiant écarlate?
+culture_g_score: 76
+culture_g_justification: "Insecte très connu, utile pour des questions de zoologie, d’agriculture, de symbolique et de culture populaire."
 ---
-
 ![Image de Coccinelle](https://upload.wikimedia.org/wikipedia/commons/c/c9/Coccinelle_%28cropped%29.jpg)
 
 ###### Questions

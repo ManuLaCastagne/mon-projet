@@ -18,8 +18,9 @@ indice_6:
   - consort de Shiva
 questions:
   - Quelle divinité hindoue réputée pour sa férocité et dont le nom signifie "la noire", triompha du démon Raktabija ?
+culture_g_score: 67
+culture_g_justification: "Déesse hindoue visuellement emblématique, Kali revient surtout dans les questions sur l'hindouisme, Shiva, la destruction et la mythologie."
 ---
-
 ![Image de Kali](https://upload.wikimedia.org/wikipedia/commons/c/ce/Idol_of_goddess_Kali_kept_near_Nimtala_ghat_for_Visarjan_or_Immersion_in_the_waters_of_river_Hooghly.jpg)
 
 ###### Questions

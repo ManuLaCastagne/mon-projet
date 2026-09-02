@@ -15,8 +15,9 @@ indice_6 :
   - Architecte naturel
 questions:
  - Quel insecte social  des régions chaudes construit des nids en terre pouvant atteindre plusieurs mètres de haut?
+culture_g_score: 76
+culture_g_justification: "La termite est fréquemment mobilisée pour les insectes sociaux, les dégâts au bois, la symbiose et l'architecture biomimétique."
 ---
-
 ![Image de Termite](https://upload.wikimedia.org/wikipedia/commons/a/a4/Odontotermes_obesus_Termites_Isoptera_%281%29_03.jpg)
 
 ###### Questions

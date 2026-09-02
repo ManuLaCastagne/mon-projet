@@ -22,9 +22,9 @@ indice_6 :
   - John Sturges
 questions:
  - De "The Magnificent Seven", le western de John Sturges auquel cette chanson fait directement référence?
+culture_g_score: 80
+culture_g_justification: "Western classique très rentable grâce à Kurosawa, son casting, ses suites et le thème cinématographique du remake."
 ---
-
-
 ![Image de Sept Mercenaires](https://upload.wikimedia.org/wikipedia/commons/4/4e/Les_sept_mercenaires_%282%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - Cadres noirs
 questions:
   - En 2013, à quel écrivain a-t-on décerné le prix Goncourt pour son roman "Au revoir là-haut"?
+culture_g_score: 64
+culture_g_justification: "Écrivain contemporain récompensé par le Goncourt, utile surtout autour de ses romans les plus connus et de la littérature récente."
 ---
-
 ![Image de Pierre Lemaître](https://upload.wikimedia.org/wikipedia/commons/c/cc/Pierre_Lemaitre_%E2%80%94_Salon_du_livre_de_Paris_-_23_mars_2014_recadr%C3%A9e.jpg)
 
 ###### Questions

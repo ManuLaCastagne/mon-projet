@@ -23,9 +23,9 @@ indice_6 :
   - Lofoten
 questions:
  - En 2019, dans quel pays scandinave s'est ouvert le 1er restaurant sous-marin d'Europe, installé à 5 m de profondeur en mer du Nord?
+culture_g_score: 80
+culture_g_justification: "Pays européen très rentable grâce aux fjords, aux Vikings, au pétrole, aux explorateurs, au modèle nordique et à la géographie arctique."
 ---
-
-
 ![[Carte_Norvège.png]]
 
 ###### Questions

@@ -20,15 +20,9 @@ indice_6 :
   - série télévisée française
 questions:
  - Quelle série née en 2013 met en scène Cécile Bois dans le rôle d'un commandant de police ?
+culture_g_score: 44
+culture_g_justification: "Série policière française connue mais principalement limitée à son héroïne, son actrice, son décor et quelques éléments de diffusion."
 ---
-
-
-
-
-
-
-
-
 ![Image de Candice Renoir]()
 
 ###### Questions

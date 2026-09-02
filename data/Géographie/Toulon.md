@@ -24,8 +24,9 @@ indice_6 :
   - Provence-Alpes-Côte d'Azur
 questions:
  - Quel club de rugby français a placé sur son écusson un brin de muguet en l'honneur de Félix Mayol ?
+culture_g_score: 60
+culture_g_justification: "Toulon est un repère français utile pour la Marine nationale, la Méditerranée et la Provence, sans être une ville incontournable des quiz."
 ---
-
 ![Image de Toulon](https://upload.wikimedia.org/wikipedia/commons/a/ab/PlaceLiberteToulon.jpg)
 
 ![[Carte_Toulon.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - Fils d'Auguste Piccard
 questions:
  - Le 22 janvier 1960, quel océanographe Suisse descend à près de 11 000 m de profondeur dans la fosse des Mariannes ?
+culture_g_score: 60
+culture_g_justification: "Jacques Piccard est un repère classique de l’exploration des abysses, mais ses angles de questionnement restent relativement concentrés."
 ---
-
 ![Image de Jacques Piccard](https://upload.wikimedia.org/wikipedia/commons/6/6e/Jacques_Piccard_%281979%29.jpg)
 
 ###### Questions

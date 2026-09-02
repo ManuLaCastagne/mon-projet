@@ -22,8 +22,9 @@ indice_6 :
   - crimes résolus
 questions:
  - Quel célèbre détective a fait son apparition dans "La Mystérieuse Affaire de Styles", 1er roman d'Agatha Christie, publié en 1920 ?
+culture_g_score: 93
+culture_g_justification: "Détective emblématique d'Agatha Christie, dont les enquêtes, expressions, adaptations et caractéristiques fournissent de nombreux indices de quiz."
 ---
-
 ![Image de Hercule Poirot](https://upload.wikimedia.org/wikipedia/commons/7/72/Peter_Ustinov_in_Appointment_with_Death_%281988%29.jpg)
 
 ###### Questions

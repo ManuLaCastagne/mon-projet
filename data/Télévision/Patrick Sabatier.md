@@ -18,9 +18,9 @@ indice_5 :
   - Retour sur France 2 dans les années 2000
 indice_6 : 
   - Présentateur du talk-show Bonsoir
+culture_g_score: 56
+culture_g_justification: "Animateur populaire des jeux et divertissements des années 1980, régulièrement cité mais moins central que les grandes figures télévisuelles."
 ---
-
-
 ![Image de Patrick Sabatier](https://upload.wikimedia.org/wikipedia/commons/d/db/Villeneuve_d%27Ascq_Eglise_St_S%C3%A9bastien_dalle_fun%C3%A9raire_du_gouverneur_de_Lille_Jean_de_Robl%C3%A8s.jpg)
 
 ###### Questions

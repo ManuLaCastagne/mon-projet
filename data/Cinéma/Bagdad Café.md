@@ -22,10 +22,9 @@ indice_6 :
   - Film 1987
 questions:
  - En 1987, quel film de Percy Adlon avec Marianne Sagebrecht et Jack Palance se déroule dans un motel au bord de la route 66 aux Etats-Unis?
+culture_g_score: 52
+culture_g_justification: "Film culte mais relativement spécialisé, principalement exploitable via Percy Adlon, Calling You et son cadre désertique."
 ---
-
-
-
 ![Image de Bagdad Café](https://upload.wikimedia.org/wikipedia/commons/f/f0/Newberry_Springs_Bagdad_Cafe%3B_Avril_2012.jpg)
 
 ###### Questions

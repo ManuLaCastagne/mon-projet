@@ -21,8 +21,9 @@ indice_5:
   - Monument historique
 indice_6:
   - Bastion
+culture_g_score: 40
+culture_g_justification: "Forteresse française remarquable par sa conservation, mais de notoriété et de fréquence limitées dans les quiz généralistes."
 ---
-
 ![Image de Château de Bonaguil](https://upload.wikimedia.org/wikipedia/commons/3/37/Ch%C3%A2teau_de_Bonaguil_et_son_village.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5 :
   - Béline
 indice_6 : 
   - Comédie-ballet
+culture_g_score: 97
+culture_g_justification: "Comédie emblématique de Molière, très fréquemment questionnée pour Argan, la médecine, la mort de l’auteur et la comédie-ballet."
 ---
-
-
 ![Image de Le Malade imaginaire](https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Malade_imaginaire.jpg)
 
 ###### Questions

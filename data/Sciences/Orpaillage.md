@@ -2,6 +2,8 @@
 tags:
   - Sciences
   - France
+culture_g_score: 44
+culture_g_justification: "Activité identifiable par la ruée vers l’or et ses outils, mais peu rentable au-delà de quelques questions de vocabulaire ou d’histoire."
 ---
 ###### Questions 
 

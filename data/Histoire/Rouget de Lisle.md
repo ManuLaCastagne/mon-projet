@@ -18,8 +18,9 @@ indice_5 :
   - Chant de guerre pour l'armée du Rhin
 indice_6 : 
   - Strasbourg
+culture_g_score: 72
+culture_g_justification: "Son association avec La Marseillaise en fait une réponse classique sur la Révolution française et les symboles nationaux."
 ---
-
 ![Image de Rouget de Lisle](https://upload.wikimedia.org/wikipedia/commons/0/0b/Rouget_de_Lisle1.JPG)
 
 ###### Questions

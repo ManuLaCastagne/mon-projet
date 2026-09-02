@@ -20,8 +20,9 @@ indice_6 :
   - animateur de radio
 questions:
  - Quel animateur au prénom composé rare a présenté l'émission On ne peut pas plaire à tout le monde?
+culture_g_score: 64
+culture_g_justification: "Animateur et producteur important du paysage audiovisuel français, associé à plusieurs émissions d'interview et de débat."
 ---
-
 ![Image de Marc-Olivier Fogiel](https://upload.wikimedia.org/wikipedia/commons/0/01/Fabien_Pelous%2C_Julie_et_Marc-Olivier_Fogiel_%C3%A0_Toulouse_en_novembre_2009.jpg)
 
 ###### Questions

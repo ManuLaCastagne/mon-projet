@@ -24,8 +24,9 @@ indice_6 :
   - alpinisme
 questions:
  - Quels sommets du massif du Mont-Blanc situés à la frontière franco-italienne dérive du Jura ?
+culture_g_score: 40
+culture_g_justification: "Sommet alpin prestigieux mais spécialisé, surtout interrogé dans des questions de montagne ou d’alpinisme."
 ---
-
 ![Image de Grandes Jorasses](https://upload.wikimedia.org/wikipedia/commons/5/53/Grandes_Jorasses_%40_Lancebranlette.jpg)
 
 ![[Carte_Grandes Jorasses.png]]

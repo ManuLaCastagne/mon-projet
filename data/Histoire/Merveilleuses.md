@@ -20,8 +20,9 @@ indice_6 :
   - femmes influentes
 questions:
  - Quel nom a-t-on donné aux femmes élégantes...
+culture_g_score: 47
+culture_g_justification: "Groupe social emblématique du Directoire et de la mode postrévolutionnaire, mais sujet assez spécialisé et souvent confondu."
 ---
-
 ![Image de Merveilleuses](https://upload.wikimedia.org/wikipedia/commons/c/c9/Incroyable_et_Merveilleuse_2A.jpg)
 
 ###### Questions

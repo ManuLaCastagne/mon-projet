@@ -22,10 +22,9 @@ indice_6 :
   - Musique pour les feux d'artifice royaux
 questions:
  - En 1742, à quel compositeur allemand naturalisé britannique doit-on "L'Oratorio le Messie" ?
+culture_g_score: 84
+culture_g_justification: "Grand compositeur baroque, particulièrement rentable grâce au Messie, à l'opéra, à sa carrière britannique et à ses œuvres orchestrales."
 ---
-
-
-
 ![Image de Georg Friedrich Haendel](https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg)
 
 ###### Questions

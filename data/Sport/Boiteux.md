@@ -20,8 +20,9 @@ indice_6 :
   - Amputations
 questions:
  - 1952, quel nageur français voit son père sauter...
+culture_g_score: 12
+culture_g_justification: "Le sujet renvoie à une personnalité sportive peu connue et à des anecdotes trop spécifiques pour être prioritaire."
 ---
-
 ![Image de Boiteux](https://upload.wikimedia.org/wikipedia/commons/c/c7/Jean_Boiteux_1952.jpg)
 
 ###### Questions

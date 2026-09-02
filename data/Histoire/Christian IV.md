@@ -20,8 +20,9 @@ indice_6 :
   - dynastie Oldenbourg
 questions:
  - En 1624, quel roi de Danemark et de Norvège lance son pays dans la guerre de Trente Ans, d'où il sortira vaincu 5 ans plus tard?
+culture_g_score: 47
+culture_g_justification: "Monarque important de l’histoire danoise, mais rarement requis dans un quiz généraliste francophone hors de quelques questions scandinaves."
 ---
-
 ![Image de Christian IV](https://upload.wikimedia.org/wikipedia/commons/b/b3/Kristian_IV_av_Danmark%2C_malning_av_Pieter_Isaacsz_1611-1616.jpg)
 
 ###### Questions

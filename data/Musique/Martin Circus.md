@@ -22,8 +22,9 @@ indice_6 :
   - Gérard Blanc
 questions:
  - Groupe de rock français créé en 1969, je me fais d'abord remarquer avec des compositions originales fortement teintées de rock progressif et de blues.
+culture_g_score: 40
+culture_g_justification: "Groupe français populaire dans les années 1970 mais désormais assez secondaire et associé à un nombre limité de questions."
 ---
-
 ![Image de Martin Circus](https://upload.wikimedia.org/wikipedia/commons/3/37/Circus_cyaneus_MHNT.ZOO.2010.11.83.1.jpg)
 
 ###### Questions

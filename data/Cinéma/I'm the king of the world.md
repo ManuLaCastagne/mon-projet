@@ -22,8 +22,9 @@ indice_6 :
   - navire coulé
 questions:
  - Réplique d'un film américain de 97, je suis formée de 6 mots dits par le héros après que son ami Fabrizio De Rossi a déclaré déjà voir la statue de la Liberté. Ne comportant pas le mot "roi" en français, contrairement à la version originale. Je suis crié sur un paquebot.
+culture_g_score: 70
+culture_g_justification: "Réplique extrêmement célèbre de Titanic, très rentable pour identifier le film, mais offrant peu d’angles indépendants."
 ---
-
 ![Image de I'm the king of the world](https://upload.wikimedia.org/wikipedia/commons/5/58/%22I%27m_the_King_of_the_World%21%22_%287385029136%29.jpg)
 
 ###### Questions

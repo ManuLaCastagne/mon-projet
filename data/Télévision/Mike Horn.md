@@ -20,8 +20,9 @@ indice_6 :
   - survie en milieu hostile
 questions:
  - Aventurier sud-africain  ayant invité des célébrités  à repousser leurs limites dans "A l'état sauvage".
+culture_g_score: 64
+culture_g_justification: "Explorateur médiatique connu pour ses expéditions et émissions de survie, avec des passerelles utiles vers la géographie et l'aventure."
 ---
-
 ![Image de Mike Horn](https://upload.wikimedia.org/wikipedia/commons/4/44/DmitrySharomov20161208-4023.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Méditerranée
 questions:
  - Quel français surnommait-on "homme-dauphin" pour avoir franchi les 105 m en apnée en 1983 ?
+culture_g_score: 64
+culture_g_justification: "Célébrité de l’apnée rendue populaire par Le Grand Bleu, Mayol est mémorable mais son champ de questions reste limité."
 ---
-
 ![Image de Jacques Mayol](https://upload.wikimedia.org/wikipedia/commons/b/bd/Record_mondial_de_poids_constant_-_62_m_en_1989.png)
 
 ###### Questions

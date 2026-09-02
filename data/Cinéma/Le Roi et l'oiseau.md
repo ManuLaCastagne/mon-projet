@@ -22,8 +22,9 @@ indice_6 :
   - Bergame
 questions:
  - En 1980, quel dessin animé de Paul Grimault, auquel collabora Jacques Prévert met en scène un monarque et un volatile ?
+culture_g_score: 80
+culture_g_justification: "Chef-d’œuvre français de l’animation, relié à Prévert, Andersen, Grimault, l’histoire du cinéma et l’influence sur Miyazaki."
 ---
-
 ![Image de Le Roi et l'oiseau](https://upload.wikimedia.org/wikipedia/commons/2/22/Roi_et_l%27Oiseau_Bande_Originale.png)
 
 ###### Questions

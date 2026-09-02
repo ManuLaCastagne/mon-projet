@@ -18,8 +18,9 @@ indice_5 :
   - DNA structure discovery
 indice_6 : 
   - Cambridge Science Festival
+culture_g_score: 92
+culture_g_justification: "Institution mondiale majeure, riche en angles historiques, scientifiques, universitaires et biographiques, de Darwin à la découverte de l'ADN."
 ---
-
 ![Image de Université de Cambridge](https://upload.wikimedia.org/wikipedia/commons/8/8c/Cambridge_10_Years.png)
 
 ###### Questions

@@ -18,10 +18,9 @@ indice_5:
   - littoral
 indice_6:
   - climat
+culture_g_score: 44
+culture_g_justification: "La Rance est principalement connue pour son usine marémotrice et son estuaire breton, ce qui limite ses apparitions à quelques questions spécialisées."
 ---
-
-
-
 ![Image de Rance](https://upload.wikimedia.org/wikipedia/commons/f/f8/Rance_Tidal_Power_Station.jpg)
 
 ###### Questions

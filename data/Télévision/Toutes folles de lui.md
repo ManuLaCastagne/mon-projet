@@ -18,8 +18,9 @@ indice_5 :
   - série télévisée
 indice_6 : 
   - New York
+culture_g_score: 11
+culture_g_justification: "Programme de télé-réalité ou série très peu identifié, dont la connaissance n’apporte presque aucun avantage dans les quiz généralistes."
 ---
-
 ![Image de Toutes folles de lui](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tentateur%2C_Vierges_folles_et_Vierges_sages_%28mus%C3%A9e_de_l%27Oeuvre_Notre-Dame%2C_Strasbourg%29_%2836139954245%29.jpg)
 
 ###### Questions

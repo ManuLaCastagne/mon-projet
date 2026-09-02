@@ -18,9 +18,9 @@ indice_6 :
   - Mort par la main de Néoptolème
 questions:
  - Quel roi de Troie est l'époux d'Hécube?
+culture_g_score: 64
+culture_g_justification: "Roi de Troie et père d’Hector et Pâris, Priam est important dans l’Iliade mais ses questions restent concentrées sur la guerre de Troie."
 ---
-
-
 ![Image de Priam](https://upload.wikimedia.org/wikipedia/commons/f/f9/Baby_tufted_gray_langur_%28Semnopithecus_priam%29.jpg)
 
 ###### Questions

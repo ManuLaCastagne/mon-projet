@@ -22,8 +22,9 @@ indice_6 :
   - Apparition dans Perfectly Fit
 questions:
  - J'ai défilé pour les plus grands créateurs, comme Yves Saint Laurent, Gianni Versace ou Ralph Lauren. Mannequin allemand, égérie de Karl Lagerfeld, devenue en 1993 la mannequin la mieux payée au monde...
+culture_g_score: 60
+culture_g_justification: "Top model emblématique des années 1990, souvent questionnée sur la mode et quelques apparitions audiovisuelles, mais peu sur le cinéma."
 ---
-
 ![Image de Claudia Schiffer](https://upload.wikimedia.org/wikipedia/commons/e/ea/Claudia_Schiffer_20091006_Chanel_01.jpg)
 
 ###### Questions

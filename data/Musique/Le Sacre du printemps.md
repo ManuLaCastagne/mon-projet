@@ -22,8 +22,9 @@ indice_6 :
   - Choc musical
 questions:
  - Pourquoi ce scandale? Notamment à cause de mes danses rituelles. Ballet d'Igor Stravinsky célébrant l'arrivée d'une saison, je suis…
+culture_g_score: 92
+culture_g_justification: "Œuvre capitale de Stravinsky, célèbre pour son scandale fondateur et régulièrement interrogée dans les quiz d’art et de musique."
 ---
-
 ![Image de Le Sacre du printemps](https://upload.wikimedia.org/wikipedia/commons/7/78/The-rite-of-spring-1913.jpg%21PinterestLarge.jpg)
 
 ###### Questions

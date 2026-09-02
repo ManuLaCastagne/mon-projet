@@ -22,9 +22,9 @@ indice_6 :
   - Stephen Daldry
 questions:
  - En 2000, dans quel film britannique un jeune garçon préfère-t-il les cours de danse...
+culture_g_score: 80
+culture_g_justification: "Film marquant du cinéma britannique, exploitable via la danse, la grève des mineurs, Jamie Bell, les BAFTA et la comédie musicale."
 ---
-
-
 ![Image de Billy Elliot](https://upload.wikimedia.org/wikipedia/commons/e/e1/Billy_Elliot.png)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - ligne de l'équateur
 questions:
  - Quel Etat du centre de l'océan Pacifique, s'étendant sur près de 5 millions de kilomètres carrés, est représenté par un drapeau orné d'une frégate?
+culture_g_score: 60
+culture_g_justification: "Kiribati est un petit État peu connu, mais ses particularités de fuseau horaire, d’hémisphères et d’insularité sont des thèmes de quiz récurrents."
 ---
-
 ![Image de Kiribati](https://upload.wikimedia.org/wikipedia/commons/b/b4/Kiribati_w1_locator.svg)
 
 ![[Carte_Kiribati.png]]

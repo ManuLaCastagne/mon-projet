@@ -13,8 +13,9 @@ indice_5 :
   - Plante succulente
 indice_6 : 
   - Usage ornemental
+culture_g_score: 68
+culture_g_justification: "Sujet très reconnaissable permettant des questions sur les déserts, le Saguaro, les adaptations végétales, l’alimentation et les cultures américaines."
 ---
-
 ![Image de cactus](https://upload.wikimedia.org/wikipedia/commons/7/70/Pachycereus_pringlei_forest.jpg)
 
 ###### Questions

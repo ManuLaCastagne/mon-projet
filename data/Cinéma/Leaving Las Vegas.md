@@ -18,8 +18,9 @@ indice_5:
   - Ben Sanderson
 indice_6:
   - 1995
+culture_g_score: 64
+culture_g_justification: "Drame connu notamment pour l’Oscar de Nicolas Cage, mais son exploitation en quiz reste surtout limitée au cinéma américain des années 1990."
 ---
-
 ![Image de Leaving Las Vegas](https://upload.wikimedia.org/wikipedia/commons/2/28/Leaving_Las_Vegas_-_panoramio.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Ballon d'or Dream Team
 questions:
  - En 2009, après 25 ans passés dans le club de football du Milan AC, quel défenseur italien met un terme à sa carrière professionnelle?
+culture_g_score: 92
+culture_g_justification: "Défenseur emblématique et capitaine historique de l’AC Milan, fréquemment cité pour sa longévité, ses titres et les Coupes du monde."
 ---
-
 ![Image de Paolo Maldini](https://upload.wikimedia.org/wikipedia/commons/4/4a/Paolo_Maldini_press_conference_in_Tehran_%28cropped%29.jpg)
 
 ###### Questions

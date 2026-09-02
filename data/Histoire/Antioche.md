@@ -20,8 +20,9 @@ indice_6 :
   - siège 1097-1098
 questions:
  - En Turquie, dans quelle ancienne capitale du royaume séleucide aujourd'hui appelée Antakya, a-t-on trouvé de nombreuses mosaïques?
+culture_g_score: 59
+culture_g_justification: "Ancienne métropole hellénistique, romaine et chrétienne liée aux croisades, Antioche est importante mais relativement spécialisée dans les quiz."
 ---
-
 ![Image de Antioche](https://upload.wikimedia.org/wikipedia/commons/7/7d/Cargo_dans_la_brume_dans_le_Pertuis_d%27Antioche.JPG)
 
 ###### Questions

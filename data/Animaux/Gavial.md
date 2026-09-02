@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de sagesse en Inde
 questions:
  - Quel reptile crocodilien des fleuves de l'Inde a un museau effilé…
+culture_g_score: 49
+culture_g_justification: "Le gavial est un reptile remarquable et menacé, mais sa présence dans les quiz reste surtout zoologique et occasionnelle."
 ---
-
 ![Image de Gavial](https://upload.wikimedia.org/wikipedia/commons/a/a5/Gharial_%28Gavialis_gangeticus%29_female_head.jpg)
 
 ###### Questions

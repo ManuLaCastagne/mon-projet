@@ -22,8 +22,9 @@ indice_6 :
   - Metteur en scène et réalisateur français
 questions:
  - A quel metteur en scène et cinéaste français doit-on les films "Ceux qui m'aiment prendront le train" et "La Reine Margot"?
+culture_g_score: 72
+culture_g_justification: "Figure importante à la croisée du théâtre, de l’opéra et du cinéma français, notamment grâce à La Reine Margot et à la Comédie-Française."
 ---
-
 ![Image de Patrice Chéreau](https://upload.wikimedia.org/wikipedia/commons/6/69/Patrice_Ch%C3%A9reau_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg)
 
 ###### Questions

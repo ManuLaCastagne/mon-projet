@@ -20,8 +20,9 @@ indice_5 :
   - réalisateur Richard Donner
 indice_6 : 
   - années 80
+culture_g_score: 73
+culture_g_justification: "Personnage central d’une franchise policière très connue, avec une forte rentabilité autour de L’Arme fatale."
 ---
-
 ![Image de Martin Riggs](https://upload.wikimedia.org/wikipedia/commons/3/38/Burton_Riggs_Nature_Reserve_-_geograph.org.uk_-_2747604.jpg)
 
 ###### Questions

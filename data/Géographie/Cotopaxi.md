@@ -24,8 +24,9 @@ indice_6 :
   - deuxième plus haut sommet d'Équateur après le Chimborazo
 questions:
  - Quel volcan actif des Andes, culmine en Equateur ?
+culture_g_score: 60
+culture_g_justification: "Volcan équatorien célèbre par sa symétrie et son altitude, mais essentiellement mobilisé dans des questions de géographie spécialisée."
 ---
-
 ![Image de Cotopaxi](https://upload.wikimedia.org/wikipedia/commons/0/07/Cotopaxi_%2837399959476%29.jpg)
 
 ![[Carte_Cotopaxi.png]]

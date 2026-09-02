@@ -18,11 +18,9 @@ indice_6 :
   - prédictions apolliniennes
 questions:
  - Dans la [[mythologie grecque]], quel devin fut frappé de cécité par Héra après avoir révélé qu'en amour, la femme prenait plus de plaisir que l'homme ?
+culture_g_score: 80
+culture_g_justification: "Tirésias est un personnage très rentable grâce à ses prophéties, sa cécité, sa transformation, Thèbes et son rôle dans l'Odyssée."
 ---
-
-
-
-
 ![Image de Tirésias](https://upload.wikimedia.org/wikipedia/commons/5/5c/Pr%C3%A9sident_Tir%C3%A9sias_Simon_Sam.png)
 
 ###### Questions

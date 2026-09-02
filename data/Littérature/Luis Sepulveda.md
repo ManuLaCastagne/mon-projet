@@ -22,8 +22,9 @@ indice_6 :
   - Défenseur des droits de l'homme
 questions:
  - Sous le régime de Pinochet. Voyant ma peine commuée en exil, je deviens grand reporter avant d'entreprendre une oeuvre marquée par mon engagement politique et écologiste. Ecrivain chilien...
+culture_g_score: 60
+culture_g_justification: "Auteur latino-américain populaire grâce à quelques récits célèbres, mais d’importance et de fréquence intermédiaires."
 ---
-
 ![Image de Luis Sepulveda](https://upload.wikimedia.org/wikipedia/commons/2/24/Luis_Sep%C3%BAlveda_2014.jpg)
 
 ###### Questions

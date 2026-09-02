@@ -20,8 +20,9 @@ indice_6 :
   - papillon
 questions:
  - Lors des JO de 64 à Tokyo, quelle nageuse française décroche la médaille d'argent du 100m dos ?
+culture_g_score: 60
+culture_g_justification: "Nageuse française emblématique des années 1960, connue pour ses records, son surnom et sa médaille olympique."
 ---
-
 ![Image de Christine Caron](https://upload.wikimedia.org/wikipedia/commons/c/c6/Christine_Caron_1966b.jpg)
 
 ###### Questions

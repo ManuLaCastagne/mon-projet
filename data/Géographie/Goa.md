@@ -24,8 +24,9 @@ indice_6 :
   - épices
 questions:
  - Quel état de la côte occidentale de l'Inde, occupé par les Portugais, a pour capitale Panaji ?
+culture_g_score: 80
+culture_g_justification: "Territoire indien distinctif par son passé portugais, ses plages, sa culture, son histoire et son statut d’État."
 ---
-
 ![Image de Goa](https://upload.wikimedia.org/wikipedia/commons/f/f9/The_Terekhol_River_and_Querim_Beach%2C_panoramic_view%2C_Goa%2C_India.jpg)
 
 ![[Carte_Goa.png]]

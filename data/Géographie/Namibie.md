@@ -24,8 +24,9 @@ indice_6 :
   - Skeleton Coast
 questions:
  - Riche, notamment en diamants et en uranium. Délimité par l'Atlantique à l'ouest, par le Kalahari à l'est, je m'étends du nord au sud entre l'Angola et l'Afrique du Sud.  Abritant le désert du Namib, je suis…
+culture_g_score: 60
+culture_g_justification: "Pays assez classique des quiz, surtout associé au désert du Namib, aux dunes, à la faune et à l'Afrique australe, mais moins central que les grands États mondiaux."
 ---
-
 ![Image de Namibie](https://upload.wikimedia.org/wikipedia/commons/2/2a/Duna_en_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_002.jpg)
 
 ![[Carte_Namibie.png]]

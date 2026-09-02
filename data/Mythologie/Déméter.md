@@ -18,8 +18,9 @@ indice_6 :
   - rituels Eleusiniens
 questions:
  - Déesse olympienne, fille de Cronos et de Rhéa, j'ai parcouru tout le monde connu à la recherche de ma fille Perséphone, enlevée par Hadès.
+culture_g_score: 80
+culture_g_justification: "Déesse olympienne de l'agriculture, directement liée à Perséphone, aux saisons et aux mystères d'Éleusis."
 ---
-
 ![Image de Déméter](https://upload.wikimedia.org/wikipedia/commons/d/da/Demeter_of_Eleusis_statue_greece_04.jpg)
 
 ###### Questions

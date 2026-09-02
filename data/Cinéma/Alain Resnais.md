@@ -21,8 +21,9 @@ indice_5:
   - Je t'aime
 indice_6:
   - je t'aime
+culture_g_score: 72
+culture_g_justification: "Réalisateur majeur de la modernité cinématographique, associé à plusieurs œuvres classiques mais moins fréquent que les cinéastes les plus populaires."
 ---
-
 ![Image de Alain Resnais](https://upload.wikimedia.org/wikipedia/commons/9/90/Identite-AlainResnais-1959-Sacem.png)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2tFlpZhgNXVOhcedrGWKHN" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -20,8 +20,9 @@ indice_6 :
   - Commentateur TV
 questions:
  - Un an plus tard, je remporte en 1977 en Suède avec l'écurie Ligier la première de mes 6 victoires en 176 Grand Prix (formule 1). 4e du championnat du monde des pilotes à 3 reprises entre 1979 et 1981...
+culture_g_score: 60
+culture_g_justification: "Pilote français notable de Formule 1 et commentateur connu, Laffite offre plusieurs angles sportifs relativement classiques."
 ---
-
 ![Image de Jacques Laffite](https://upload.wikimedia.org/wikipedia/commons/d/d3/Jacques_Laffite_2015.jpg)
 
 ###### Questions

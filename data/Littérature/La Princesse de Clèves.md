@@ -22,8 +22,9 @@ indice_6 :
   - honnêteté et vertu
 questions:
  - En 1678, dans quel roman une jeune noble refuse de céder à sa passion pour le duc de Nemours ?
+culture_g_score: 88
+culture_g_justification: "Classique fondateur du roman français, La Princesse de Clèves est régulièrement reliée à Madame de La Fayette, la cour et l’analyse psychologique."
 ---
-
 ![Image de La Princesse de Clèves](https://upload.wikimedia.org/wikipedia/commons/e/e4/Laprincessedecleves1678.jpeg)
 
 ###### Questions

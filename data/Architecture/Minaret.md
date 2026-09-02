@@ -23,8 +23,9 @@ indice_6 :
   - Nombreux styles architecturaux
 questions:
  - Inspiré de constructions locales ayant précédé l'époque islamique et qui servait de tour de guet, désigné par un mot arabe.
+culture_g_score: 68
+culture_g_justification: "Le minaret est un repère architectural et religieux transversal, régulièrement utilisé pour interroger l’islam et les mosquées."
 ---
-
 ![Image de Minaret](https://upload.wikimedia.org/wikipedia/commons/6/67/View_from_Mardin_to_the_Mesopotamian_plains.jpg)
 
 ###### Questions

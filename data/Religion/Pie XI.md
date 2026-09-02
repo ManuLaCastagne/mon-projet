@@ -21,8 +21,9 @@ indice_6 :
   - opposition au nazisme
 questions:
  - Quel pape, ayant pour véritable nom Achille Ratti, disparaît le 10 février 1939 ?
+culture_g_score: 64
+culture_g_justification: "Pie XI est une référence importante de l'entre-deux-guerres grâce aux accords du Latran, à Mussolini et à Radio Vatican."
 ---
-
 ![Image de Pie XI](https://upload.wikimedia.org/wikipedia/commons/f/f0/Pie_XI_Tableau.JPG)
 
 ###### Questions

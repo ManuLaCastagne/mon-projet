@@ -22,8 +22,9 @@ indice_6 :
   - paroles de désillusion
 questions:
  - Où rien ne va. Repris avec succès en 2002 par la chanteuse belge Kate Ryan, je dis dans mon refrain...
+culture_g_score: 89
+culture_g_justification: "Tube majeur de Mylène Farmer et de la chanson française, extrêmement fréquent grâce à son succès, son clip et son album."
 ---
-
 ![Image de Désenchantée](https://upload.wikimedia.org/wikipedia/commons/e/ef/D%C3%A9senchant%C3%A9e_-_panoramio.jpg)
 
 ###### Questions

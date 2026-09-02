@@ -19,8 +19,9 @@ indice_5:
   - Assassinat d'Alexandre de Médicis
 indice_6:
   - Usurpation d'identité
+culture_g_score: 68
+culture_g_justification: "Drame majeur de Musset et du romantisme français, classique des quiz littéraires mais moins transversal qu’une œuvre théâtrale universelle."
 ---
-
 ![Image de Lorenzaccio](https://upload.wikimedia.org/wikipedia/commons/4/4a/Alfons_Mucha_-_1896_-_Lorenzaccio.jpg)
 
 ###### Questions

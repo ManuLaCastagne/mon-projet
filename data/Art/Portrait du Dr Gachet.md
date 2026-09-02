@@ -23,8 +23,9 @@ indice_6 :
   - mélancolie et tristesse
 questions:
  - Coiffé d'une casquette, vêtu de bleu, assis à une table, la tête appuyée sur le poing. J'ai été peint quelques semaines avant la mort de mon auteur...
+culture_g_score: 77
+culture_g_justification: "Le tableau combine van Gogh, l’histoire de l’art et un record d’enchères, ce qui le rend fréquemment exploitable en quiz."
 ---
-
 ![Image de Portrait du Dr Gachet](https://upload.wikimedia.org/wikipedia/commons/3/3c/Vincent_van_Gogh_-_Dr_Paul_Gachet_-_Google_Art_Project.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - liberté
 indice_6:
   - 1946
+culture_g_score: 80
+culture_g_justification: "Recueil majeur de Prévert, régulièrement interrogé à travers ses poèmes, la poésie française et la culture de l’après-guerre."
 ---
-
 ![Image de Paroles (roman)](https://upload.wikimedia.org/wikipedia/commons/3/37/Hugo_-_Actes_et_paroles_-_volume_6.djvu)
 
 ###### Questions

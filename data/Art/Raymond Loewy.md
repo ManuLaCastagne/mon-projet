@@ -23,8 +23,9 @@ indice_6 :
   - avion Concorde
 questions:
  - De la fonction utilitaire et de l'apparence parfaite dans "La Laideur se vend mal".  Pionnier de l'esthétique industrielle...
+culture_g_score: 64
+culture_g_justification: "Raymond Loewy est très rentable pour relier design industriel, logos, transports, marques et culture visuelle du XXe siècle."
 ---
-
 ![Image de Raymond Loewy](https://upload.wikimedia.org/wikipedia/commons/c/c4/Raymond_Loewy_LOC.png)
 
 ###### Questions

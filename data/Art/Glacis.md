@@ -23,9 +23,9 @@ indice_6 :
   - luminosité eloquente
 questions:
  - En art, quelle préparation peu chargée en pigments, destinée à harmoniser les teintes d'un tableau doit son nom à son aspect évoquant la glace?
+culture_g_score: 64
+culture_g_justification: "Le glacis est une technique picturale réutilisable dans des questions sur la Renaissance, l’huile, la lumière et des peintres célèbres."
 ---
-
-
 ![Image de Glacis](https://upload.wikimedia.org/wikipedia/commons/c/c2/Glacis.png)
 
 ###### Questions

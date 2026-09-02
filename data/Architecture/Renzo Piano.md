@@ -21,9 +21,9 @@ indice_5:
   - utilisation de la lumière naturelle
 indice_6:
   - influence italienne
+culture_g_score: 80
+culture_g_justification: "Architecte contemporain très identifiable par le Centre Pompidou, The Shard, le Pritzker et de nombreux projets internationaux."
 ---
-
-
 ![Image de Renzo Piano](https://upload.wikimedia.org/wikipedia/commons/0/0f/Renzo_Piano%2C_portrait.jpg)
 
 ###### Questions

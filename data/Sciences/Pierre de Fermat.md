@@ -20,9 +20,9 @@ indice_6 :
   - 17e siècle
 questions:
  - Scientifique français né  en 1601, on me doit un principe général de l'optique géométrique concernant le trajet de la lumière. Précurseur du calcul des probabilités, je suis l'un des créateurs du calcul différentiel et intégral.
+culture_g_score: 80
+culture_g_justification: "Mathématicien français classique, fréquemment associé au dernier théorème, aux probabilités, à Diophante et à Pascal."
 ---
-
-
 ![Image de Pierre de Fermat](https://upload.wikimedia.org/wikipedia/commons/6/6e/Capitole_Toulouse_-_Salle_Henri-Martin_-_Buste_de_Pierre_de_Fermat.jpg)
 
 ###### Questions

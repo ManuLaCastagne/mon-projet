@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Japon
+culture_g_score: 27
+culture_g_justification: "Préparation ou couche alimentaire originale mais spécialisée, rarement mobilisée comme connaissance généraliste."
 ---
 ###### Questions 
 

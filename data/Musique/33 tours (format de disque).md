@@ -22,8 +22,9 @@ indice_6 :
   - aiguilles phonographiques
 questions:
  - Quel format de disque, ayant remplacé le 78 tours...
+culture_g_score: 64
+culture_g_justification: "Format déterminant de l’histoire de l’industrie musicale, permettant des questions techniques et culturelles, mais rarement prioritaires."
 ---
-
 ![Image de 33 tours (format de disque)](https://upload.wikimedia.org/wikipedia/commons/f/f5/Le_Tour_du_monde_-_27.djvu)
 
 ###### Questions

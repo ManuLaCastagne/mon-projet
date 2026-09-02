@@ -22,8 +22,9 @@ indice_6 :
   - Jeux d’enfants
 questions:
  - A l'affiche de comédies comme "Retour chez ma mère" et "Chamboultout" d'Eric Lavaine en 2019...
+culture_g_score: 60
+culture_g_justification: "Actrice française populaire, surtout identifiable par Un gars, une fille et quelques comédies, avec une portée culturelle modérée."
 ---
-
 ![Image de Alexandra Lamy](https://upload.wikimedia.org/wikipedia/commons/0/00/Alexandra_Lamy%2C_Deauville_2014.jpg)
 
 ###### Questions

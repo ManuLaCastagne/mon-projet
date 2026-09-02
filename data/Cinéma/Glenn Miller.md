@@ -22,8 +22,9 @@ indice_6 :
   - jazz swing
 questions:
  - En 1954, dans le film d'Anthony Mann "Romance inachevée", quel chef d'un célèbre big band de jazz est incarné par James Stewart?
+culture_g_score: 80
+culture_g_justification: "Chef d’orchestre emblématique du swing, lié à des standards célèbres, à une disparition mystérieuse et à l’histoire musicale de la guerre."
 ---
-
 ![Image de Glenn Miller](https://upload.wikimedia.org/wikipedia/commons/1/1d/Glenn_Miller_Billboard.jpg)
 
 ###### Questions

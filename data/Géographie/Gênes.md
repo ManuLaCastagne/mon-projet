@@ -24,8 +24,9 @@ indice_6 :
   - Palazzo Ducale
 questions:
  - Dans quelle ville d'Italie est né Christophe Colomb ?
+culture_g_score: 72
+culture_g_justification: "Grande cité portuaire italienne associée à Christophe Colomb, aux républiques maritimes, au commerce et à un patrimoine artistique majeur."
 ---
-
 ![[Carte_Gênes.png]]
 
 ###### Questions

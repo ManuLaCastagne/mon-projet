@@ -18,8 +18,9 @@ indice_6:
   - Sonde MESSENGER
 questions:
   - Planète vers laquelle se dirige depuis 2018 la mission BepiColombo composée de deux orbiteurs scientifiques, j'ai été survolée pour la première fois par la sonde Mariner...
+culture_g_score: 80
+culture_g_justification: "Planète classique des quiz, associée à sa proximité du Soleil, à son année courte, à Mariner 10 et à ses caractéristiques orbitales."
 ---
-
 ![Image de Mercure (planète)](https://upload.wikimedia.org/wikipedia/commons/3/30/Mercury_in_color_-_Prockter07_centered.jpg)
 
 ###### Questions

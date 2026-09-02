@@ -20,8 +20,9 @@ indice_6 :
   - Luc Montagnier
 questions:
  - En 2008, quelle biologiste française a reçu, avec Luc Montagnier, le prix Nobel de médecine pour avoir découvert le virus responsable du SIDA ?
+culture_g_score: 64
+culture_g_justification: "Codécouvreuse du VIH et prix Nobel, importante pour l’histoire du sida et de la virologie mais relativement spécialisée."
 ---
-
 ![Image de Françoise Barré-Sinoussi](https://upload.wikimedia.org/wikipedia/commons/0/01/Fran%C3%A7oise_Barr%C3%A9-Sinoussi-press_conference_Dec_06th%2C_2008-1.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - années 80
 questions:
  - Pour quel film de Jean-Loup Hubert, sorti en 1987, Anémone et Richard Bohringer ont chacun obtenu un Cinéma/César ?
+culture_g_score: 60
+culture_g_justification: "Classique du cinéma français familial, souvent associé à Jean-Loup Hubert, Anémone et au thème de l’enfance."
 ---
-
 ![Image de Grand Chemin](https://upload.wikimedia.org/wikipedia/commons/f/fd/Chemin_Grand_Br%C3%BBlaz_Crottet_1.jpg)
 
 ###### Questions

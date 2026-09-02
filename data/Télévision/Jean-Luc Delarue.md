@@ -20,8 +20,9 @@ indice_6 :
   - lunettes et cheveux courts
 questions:
  - Emission télévisée d'environ 2 heures réalisée par Massimo Manganaro, j'ai été diffusée de 94 à 2009. Débutant par un générique dû au percussionniste Guem, j'ai reçu un Sept d'or dans la catégorie meilleure émission de société.
+culture_g_score: 76
+culture_g_justification: "Animateur et producteur associé à plusieurs émissions très connues, notamment Ça se discute et Toute une histoire."
 ---
-
 ![Image de Jean-Luc Delarue](https://upload.wikimedia.org/wikipedia/commons/b/b6/Tombe_de_Jean-Luc_DELARUE.jpg)
 
 ###### Questions

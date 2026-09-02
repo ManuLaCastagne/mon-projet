@@ -22,8 +22,9 @@ indice_6 :
   - Mystère et aventures
 questions:
  - Quel écrivain prénommé Paul-Jacques, est l'auteur d'oeuvres pour la jeunesse dont la série des "Six Compagnons"?
+culture_g_score: 40
+culture_g_justification: "Auteur connu des lecteurs de littérature jeunesse française, mais rarement mobilisé hors de la série Les Six Compagnons."
 ---
-
 ![Image de Paul-Jacques Bonzon](https://upload.wikimedia.org/wikipedia/commons/0/01/Paul_Jacques_Bonzon.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - The Byrds
 questions:
  - En 1965, quelle chanson de Bob Dylan évoque un instrument ?
+culture_g_score: 77
+culture_g_justification: "Classique de Bob Dylan et du folk rock, utile pour les reprises, les albums, les distinctions et l’histoire musicale américaine."
 ---
-
 ![Image de Mister Tambourine Man](https://upload.wikimedia.org/wikipedia/commons/0/0a/Mr_tambourine_man_the_byrds_original_US_single_side-A.png)
 
 ###### Questions

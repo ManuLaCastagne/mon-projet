@@ -22,8 +22,9 @@ indice_6 :
   - peintre et journaliste
 questions:
  - En 1940, quel écrivain italien met en scène un soldat attendant en vain l'arrivée d'ennemis dans "Le Désert des Tartares" ?
+culture_g_score: 68
+culture_g_justification: "Auteur majeur du XXe siècle italien grâce au Désert des Tartares et au K, avec des liens utiles vers le journalisme et le fantastique."
 ---
-
 ![Image de Dino Buzzati](https://upload.wikimedia.org/wikipedia/commons/2/28/Dino_Buzzati.jpg)
 
 ###### Questions

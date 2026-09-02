@@ -20,9 +20,9 @@ indice_6 :
   - Connu pour son autobiographie Baa Baa Black Sheep
 questions:
  - Des exploits de quel héros de la Seconde Guerre mondiale la série "Les Têtes brûlées" est-elle inspirée ?
+culture_g_score: 31
+culture_g_justification: "As de l'aviation connu surtout des amateurs de Seconde Guerre mondiale et de la série télévisée, avec une portée généraliste limitée."
 ---
-
-
 ![Image de Gregory Boyington](https://upload.wikimedia.org/wikipedia/commons/5/5f/Pappy_Boyington.jpg)
 
 ###### Questions

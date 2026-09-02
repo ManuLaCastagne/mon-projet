@@ -24,8 +24,9 @@ indice_6 :
   - casino
 questions:
  - Quelle station balnéaire et principal port de pêche de Belgique porte un nom d'origine flamande signifiant la fin de l'Est?
+culture_g_score: 44
+culture_g_justification: "Station balnéaire belge connue pour son port et son casino, mais dont les usages en quiz restent surtout locaux ou touristiques."
 ---
-
 ![Image de Ostende](https://upload.wikimedia.org/wikipedia/commons/6/65/Oostende_Europacentrum_01.jpg)
 
 ![[Carte_Ostende.png]]

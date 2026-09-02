@@ -24,8 +24,9 @@ indice_6 :
   - climat subpolaire océanique
 questions:
  - Une terre principale et près de 300 îles et îlots. Archipel de l'océan Indien. Faisant partie des Terres Australes et Antarctiques françaises, j'abrite...
+culture_g_score: 60
+culture_g_justification: "Archipel français atypique et régulièrement utilisé dans les questions sur les territoires ultramarins et les régions polaires, mais assez spécialisé."
 ---
-
 ![Image de Iles Kerguelen](https://upload.wikimedia.org/wikipedia/commons/c/c6/Kerguelen_topographic_map-fr.svg)
 
 ![[Carte_Iles Kerguelen.png]]

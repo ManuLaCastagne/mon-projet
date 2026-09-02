@@ -19,10 +19,9 @@ indice_5:
   - années 1970
 indice_6:
   - rock britannique
+culture_g_score: 56
+culture_g_justification: "Référence musicale identifiable liée à Bowie et à Starmania, mais nettement moins incontournable que Ziggy Stardust lui-même."
 ---
-
-
-
 ![Image de Ziggy](https://upload.wikimedia.org/wikipedia/commons/1/1e/David-Bowie_Early.jpg)
 
 ###### Questions

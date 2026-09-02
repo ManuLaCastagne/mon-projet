@@ -22,8 +22,9 @@ indice_6 :
   - La Dame de Shanghai
 questions:
  - En 1947, quelle actrice, moulée dans une robe fourreau noire, ôte sensuellement ses longs gants dans "Gilda" ?
+culture_g_score: 88
+culture_g_justification: "Icône majeure de l’âge d’or hollywoodien, particulièrement rentable grâce à Gilda, son image, ses partenaires et ses liens avec la culture populaire."
 ---
-
 ![Image de Rita Hayworth](https://upload.wikimedia.org/wikipedia/commons/3/33/Rita_Hayworth-publicity.JPG)
 
 ###### Questions

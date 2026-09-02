@@ -21,7 +21,8 @@ indice_5:
   - Dômes ou coupoles
 indice_6:
   - Statues allégoriques
-culture_g_score: 80
+culture_g_score: 71
+culture_g_justification: "Le Palais de Justice de Paris combine histoire monarchique, Révolution, institutions judiciaires et architecture contemporaine, sans être un marronnier absolu."
 ---
 ![Image de Palais de justice](https://upload.wikimedia.org/wikipedia/commons/0/09/Palais_de_justice_de_Carcassonne.jpg)
 

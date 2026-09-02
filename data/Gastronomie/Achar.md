@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Inde
+culture_g_score: 32
+culture_g_justification: "Condiment caractéristique de la cuisine indienne, intéressant mais trop spécialisé pour apparaître souvent dans les quiz généralistes."
 ---
 ###### Questions 
 

@@ -23,8 +23,9 @@ indice_6 :
   - chapelle Cornaro
 questions:
  - Quel sculpteur italien né en 1598 a réalisé le matelas sur lequel repose la sculpture représentant Hermaphrodite endormi ?
+culture_g_score: 88
+culture_g_justification: "Le Bernin est une figure fondamentale du baroque, à la fois sculpteur, architecte et urbaniste, avec de nombreuses œuvres emblématiques à Rome."
 ---
-
 ![Image de Le Bernin](https://upload.wikimedia.org/wikipedia/commons/d/d5/Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg)
 
 ###### Questions

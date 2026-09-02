@@ -20,8 +20,9 @@ indice_5:
   - Paul Verhoeven
 indice_6:
   - Golden Globe
+culture_g_score: 64
+culture_g_justification: "Actrice très connue grâce à Basic Instinct et Casino, régulièrement interrogée mais limitée principalement au cinéma."
 ---
-
 ![Image de Sharon Stone](https://upload.wikimedia.org/wikipedia/commons/1/18/Sharon_Stone-68391.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - valise mystérieuse
 questions:
  - Contenant la scène culte d'un concours de twist dansé sur le morceau "You never can tell" de Chuck Berry. Je réunis John Travolta et Uma Thurman. Film de Quentin Tarantino, Palme d'or au festival de Cannes.
+culture_g_score: 96
+culture_g_justification: "Film culte de Tarantino, très fréquent dans les quiz grâce à sa Palme d’or, son casting, ses scènes et sa narration non linéaire."
 ---
-
-
 ![Image de Pulp Fiction](https://upload.wikimedia.org/wikipedia/commons/2/24/Pulp_Fiction_Showing_%2816296612198%29.jpg)
 
 ###### Questions

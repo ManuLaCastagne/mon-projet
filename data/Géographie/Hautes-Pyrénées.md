@@ -24,8 +24,9 @@ indice_6 :
   - Col du Tourmalet
 questions:
  - Je comprends les sites naturels du cirque de Gavarnie et du pic du Midi de Bigorre, j'ai pour villes principales Lourdes et Tarbes, mon chef-lieu. Situé à la frontière avec l'Espagne, je suis…
+culture_g_score: 68
+culture_g_justification: "Département particulièrement rentable grâce à Lourdes, au Tourmalet, aux Pyrénées et au Pic du Midi."
 ---
-
 ![Image de Hautes-Pyrénées](https://upload.wikimedia.org/wikipedia/commons/6/66/Lac_du_Milieu_de_Bastan_Hautes_Pyr%C3%A9n%C3%A9es_02_BLS.JPG)
 
 ![[Carte_Hautes-Pyrénées.png]]

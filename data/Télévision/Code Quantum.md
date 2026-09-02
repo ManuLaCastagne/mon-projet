@@ -20,8 +20,9 @@ indice_6 :
   - hologramme
 questions:
  - Al Calavicci. Série dans laquelle Sam Beckett, joué par Scott Bakula, voyage dans le temps...
+culture_g_score: 76
+culture_g_justification: "Série de science-fiction très mémorable, offrant des entrées par le voyage temporel, ses acteurs et ses intrigues historiques."
 ---
-
 ![Image de Code Quantum](https://upload.wikimedia.org/wikipedia/commons/2/20/Dense_coding_quantum_circuit.svg)
 
 ###### Questions

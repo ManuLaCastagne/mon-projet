@@ -20,8 +20,9 @@ indice_6 :
   - Galatasaray
 questions:
  - Quel footballeur français, natif de Boulogne-sur-Mer...
+culture_g_score: 64
+culture_g_justification: "Footballeur français très connu, régulièrement associé au Bayern, à l'équipe de France et à plusieurs faits médiatiques, mais moins incontournable que les légendes historiques du football."
 ---
-
 ![Image de Franck Ribéry](https://upload.wikimedia.org/wikipedia/commons/b/bc/Franck_Ribery_2019_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - esthétique gothique
 indice_6:
   - Helena Bonham Carter
+culture_g_score: 96
+culture_g_justification: "Réalisateur mondialement identifiable dont les films, collaborateurs, personnages et univers visuel fournissent de nombreux sujets de quiz."
 ---
-
-
 ![Image de Tim Burton](https://upload.wikimedia.org/wikipedia/commons/9/95/Tim_Burton-63605.jpg)
 
 ###### Questions

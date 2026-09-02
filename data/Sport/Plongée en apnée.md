@@ -20,8 +20,9 @@ indice_6 :
   - Fosse Y-40
 questions:
  - Associée à Jacques Mayol ou Stéphane Mifsud, actuel recordman de statique  avec un temps de 11mn35.
+culture_g_score: 40
+culture_g_justification: "Discipline spectaculaire connue par quelques records et références cinématographiques, mais restant assez spécialisée."
 ---
-
 ![Image de Plongée en apnée](https://upload.wikimedia.org/wikipedia/commons/4/4c/Penguin_diving_statistics.svg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - censure
 questions:
  - En 1950, à quel écrivain américain doit-on le recueil de nouvelles "Chroniques Martiennes" ?
+culture_g_score: 89
+culture_g_justification: "Auteur incontournable de la science-fiction grâce à Fahrenheit 451, avec de nombreux liens vers la dystopie, l’anticipation et le cinéma."
 ---
-
 ![Image de Ray Bradbury](https://upload.wikimedia.org/wikipedia/commons/6/69/Ray_Bradbury_%281975%29_-cropped-.jpg)
 
 ###### Questions

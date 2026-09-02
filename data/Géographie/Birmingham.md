@@ -19,8 +19,9 @@ indice_5:
   - Birmingham Museum and Art Gallery
 indice_6:
   - University of Birmingham
+culture_g_score: 51
+culture_g_justification: "Grande ville industrielle britannique, Birmingham est utile pour la révolution industrielle et quelques repères culturels ou sportifs."
 ---
-
 ![[Carte_Birmingham.png]]
 
 ###### Questions

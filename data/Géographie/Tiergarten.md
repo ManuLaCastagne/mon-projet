@@ -24,8 +24,9 @@ indice_6 :
   - Jardin zoologique
 questions:
  - Quel parc de Berlin, constituant  une ancienne réserve de chasse des Hohenzollern, qui est le poumon vert le plus apprécié de la ville ?
+culture_g_score: 40
+culture_g_justification: "Ce parc emblématique de Berlin peut apparaître dans des questions sur la ville, mais demeure une connaissance géographique assez ciblée."
 ---
-
 ![Image de Tiergarten](https://upload.wikimedia.org/wikipedia/commons/4/4b/Potsdamer_Platz_vom_Reichstag_aus_2005.jpg)
 
 ![[Carte_Tiergarten.png]]

@@ -24,8 +24,9 @@ indice_6 :
   - villes comme Martigues et Istres
 questions:
  - Quel étang des Bouches-du-Rhône est relié à la Méditerranée  par le canal de Caronte?
+culture_g_score: 31
+culture_g_justification: "Plan d’eau régional surtout utile pour des questions locales sur la Provence, l’industrie ou les hydravions."
 ---
-
 ![Image de Étang de Berre](https://upload.wikimedia.org/wikipedia/commons/8/80/Map_of_the_%C3%89tang_de_Berre_es.svg)
 
 ![[Carte_Étang de Berre.png]]

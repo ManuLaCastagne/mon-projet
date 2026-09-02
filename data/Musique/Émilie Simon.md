@@ -22,8 +22,9 @@ indice_6 :
   - voix envoûtante
 questions:
  - Entre 2004 et 2007, quelle chanteuse a reçu 3 trophées dont un pour "La Marche de l'Empereur" ?
+culture_g_score: 43
+culture_g_justification: "Artiste française contemporaine identifiable par quelques bandes originales et récompenses, mais peu prioritaire en culture générale."
 ---
-
 ![Image de Émilie Simon](https://upload.wikimedia.org/wikipedia/commons/6/65/Emilie_Simon_2012.jpg)
 
 ###### Questions

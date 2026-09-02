@@ -20,8 +20,9 @@ indice_6 :
   - Athlétisme
 questions:
  - Quel athlète est célèbre pour avoir levé avec son compatriote John Carlos un poing ganté de noir sur le podium du 200 m des Jeux de 1968?
+culture_g_score: 80
+culture_g_justification: "Le geste de Mexico 1968 est une référence majeure à la fois sportive, historique et politique, souvent utilisée comme indice de quiz."
 ---
-
 ![Image de Tommie Smith](https://upload.wikimedia.org/wikipedia/commons/1/1a/Tommie_Smith_1968.jpg)
 
 ###### Questions

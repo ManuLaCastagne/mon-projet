@@ -20,9 +20,9 @@ indice_6 :
   - générique spatial
 questions:
  - De 1979 à 1987, quelle émission de vulgarisation scientifique a été présentée par les Frères Bogdanov?
+culture_g_score: 60
+culture_g_justification: "Émission pionnière de science-fiction et de vulgarisation technologique, devenue culte mais moins connue des générations récentes."
 ---
-
-
 ![Image de Temps X](https://upload.wikimedia.org/wikipedia/commons/e/e6/Igor_and_Grichka_Bogdanoff.jpg)
 
 ###### Questions

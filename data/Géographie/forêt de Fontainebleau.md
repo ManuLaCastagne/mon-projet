@@ -21,8 +21,9 @@ indice_5 :
   - Aiguille du Mont
 indice_6 : 
   - Peintres impressionnistes
+culture_g_score: 72
+culture_g_justification: "Forêt patrimoniale proche de Paris, associée à Fontainebleau, aux peintres, aux rochers et aux premières protections naturelles."
 ---
-
 ![[Carte_forêt de Fontainebleau.png]]
 
 ###### Questions

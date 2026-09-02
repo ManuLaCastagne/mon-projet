@@ -20,8 +20,9 @@ indice_6 :
   - Tube Geiger-Müller
 questions:
  - En 1913, quel scientifique allemand invente le compteur de particules qui porte son nom ?
+culture_g_score: 60
+culture_g_justification: "Le compteur Geiger fournit une référence scientifique assez classique, mais principalement limitée à la radioactivité et à la physique nucléaire."
 ---
-
 ![Image de Hans Geiger](https://upload.wikimedia.org/wikipedia/commons/a/ad/Hans_geiger.jpg)
 
 ###### Questions

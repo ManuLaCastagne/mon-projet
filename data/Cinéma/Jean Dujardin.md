@@ -20,8 +20,9 @@ indice_5 :
   - OSS 117
 indice_6 : 
   - Michel Hazanavicius
+culture_g_score: 77
+culture_g_justification: "Acteur français très rentable grâce à l’Oscar de The Artist, OSS 117, la télévision et plusieurs références populaires."
 ---
-
 ![Image de Jean Dujardin](https://upload.wikimedia.org/wikipedia/commons/9/96/Christophe_Lambert_et_Jean_Dujardin_%28Cropped%29.jpg)
 
 ###### Questions

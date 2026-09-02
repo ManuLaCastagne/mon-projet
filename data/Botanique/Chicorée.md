@@ -15,8 +15,9 @@ indice_6 :
   - Substitut de café
 questions:
  - Quelle variété sauvage d'une plante consommée en salade se reconnaît au bord des chemins à sa hautes tiges à fleurs bleues ?
+culture_g_score: 48
+culture_g_justification: "Plante liée au café, à la cuisine et aux fleurs sauvages, offrant quelques angles mais restant secondaire."
 ---
-
 ![Image de Chicorée](https://upload.wikimedia.org/wikipedia/commons/8/80/Cichorium_intybus-alvesgaspar1.jpg)
 
 ###### Questions

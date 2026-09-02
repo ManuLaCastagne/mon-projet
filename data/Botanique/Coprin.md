@@ -15,8 +15,9 @@ indice_6 :
   - Utilisation  Utilisé parfois en cuisine mais avec précaution (certains sont comestibles uniquement avant que les lames ne noircissent)
 questions:
  - A quel champignon, poussant à l'orée du bois ou dans les prés associe-t-on l'espèce comestible dite chevelu?
+culture_g_score: 40
+culture_g_justification: "Champignon reconnaissable à sa transformation en encre, mais principalement rencontré dans des questions mycologiques ponctuelles."
 ---
-
 ![Image de Coprin](https://upload.wikimedia.org/wikipedia/commons/c/cc/Coprinopsis_atramentaria%2C_Coprin_noir_d%27encre.jpg)
 
 ###### Questions

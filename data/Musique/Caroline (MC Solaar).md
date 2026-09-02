@@ -22,8 +22,9 @@ indice_6 :
   - album Qui sème le vent récolte le tempo
 questions:
  - Chanson française de 4 minutes 43 secondes de MC Solaar sortie en 1991 et devant ma musique à Jean-François Delfour, je commence par les mots  "J'étais cool assis sur un banc..."
+culture_g_score: 73
+culture_g_justification: "Titre phare du rap français, régulièrement utilisé pour interroger MC Solaar, ses albums, ses textes et les débuts du rap francophone."
 ---
-
 ![Image de Caroline (MC Solaar)](https://upload.wikimedia.org/wikipedia/commons/1/17/Caroline_Hill_as_Mirza_in_W._S._Gilbert%27s_The_Palace_of_Truth.jpg)
 
 ###### Questions

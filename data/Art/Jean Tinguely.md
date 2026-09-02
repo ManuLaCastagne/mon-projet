@@ -23,8 +23,9 @@ indice_6:
   - Ironie et humour
 questions:
   - Avec des machines délirantes dépourvues de toutes fonctions. Auteur avec ma femme, Niki de St-Phalle, de la fontaine Stravinsky près du centre Pompidou. Henri et Aurélien cherchent.
+culture_g_score: 67
+culture_g_justification: "Tinguely relie art cinétique, Nouveau Réalisme, machines, performances et œuvres monumentales, avec une présence régulière mais non incontournable."
 ---
-
 ![Image de Jean Tinguely](https://upload.wikimedia.org/wikipedia/commons/8/8a/Portrait_of_Jean_Tinguely%2C_1961.jpg)
 
 ###### Questions

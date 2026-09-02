@@ -20,8 +20,9 @@ indice_5 :
   - a commencé sa carrière dans le mannequinat à 16 ans
 indice_6 : 
   - a une sœur également mannequin nommée Immy Waterhouse
+culture_g_score: 36
+culture_g_justification: "Mannequin et actrice contemporaine encore peu structurante pour les quiz généralistes malgré quelques rôles et relations médiatisées."
 ---
-
 ![Image de Suki Waterhouse](https://upload.wikimedia.org/wikipedia/commons/d/d2/Suki_Waterhouse_%2835450919821%29_%28cropped%29.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Poitevin
 indice_6:
   - Symbole de la biodiversité locale
+culture_g_score: 32
+culture_g_justification: "Race d’âne française patrimoniale, intéressante pour la conservation mais rarement interrogée."
 ---
-
 ![Image de Baudet du Poitou](https://upload.wikimedia.org/wikipedia/commons/c/cd/Jielbeaumadier_baudets_du_poitou_culotte_st-martin-de-re_2013.jpeg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Budō
 questions:
  - Dans certains arts martiaux comme l'aïkido, comment appelle-t-on le pantalon large plissé  porté par les pratiquants?
+culture_g_score: 43
+culture_g_justification: "Vêtement japonais reconnaissable dans plusieurs arts martiaux, mais généralement traité comme une connaissance de détail plutôt que comme un sujet sportif majeur."
 ---
-
 ![Image de Hakama](https://upload.wikimedia.org/wikipedia/commons/8/86/HAKAMA_Inc._Logo.png)
 
 ###### Questions

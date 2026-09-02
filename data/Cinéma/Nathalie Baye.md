@@ -22,8 +22,9 @@ indice_6 :
   - François Truffaut
 questions:
  - Mère de l'actrice Laura Smet, à l'affiche de la série télé "Dix pour cent" et en 2020, du film "Garçon chiffon", je suis…
+culture_g_score: 64
+culture_g_justification: "Grande actrice française liée aux César, au cinéma de Truffaut et à Johnny Hallyday, mais moins universelle que les figures centrales du cinéma."
 ---
-
 ![Image de Nathalie Baye](https://upload.wikimedia.org/wikipedia/commons/8/80/BAYE_Nathalie-24x30-1994.jpg)
 
 ###### Questions

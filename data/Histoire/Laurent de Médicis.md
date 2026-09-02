@@ -20,9 +20,9 @@ indice_6 :
   - arts
 questions:
  - En 1486, à quel prince florentin le sultan d'Égypte envoya-t-il une girafe femelle de toute beauté ?
+culture_g_score: 84
+culture_g_justification: "Laurent le Magnifique est une figure majeure de la Renaissance, associée aux Médicis, à Florence, au mécénat, aux artistes et à la politique italienne."
 ---
-
-
 ![Image de Laurent de Médicis](https://upload.wikimedia.org/wikipedia/commons/8/8f/Portrait_of_Lorenzo_di_Medici.jpg)
 
 ###### Questions

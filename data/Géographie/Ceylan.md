@@ -24,8 +24,9 @@ indice_6 :
   - océan Indien
 questions:
  - Jusqu'en 1972, sous quel nom désignait-on le Sri Lanka?
+culture_g_score: 64
+culture_g_justification: "Ancien nom très connu du Sri Lanka, utile en géographie, histoire coloniale et culture du thé, mais moins fréquent aujourd’hui."
 ---
-
 ![Image de Ceylan](https://upload.wikimedia.org/wikipedia/commons/b/ba/Tea_plantation_Sri.jpg)
 
 ![[Carte_Ceylan.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - émancipation
 questions:
  - Quelle est la dernière chanson du dernier album de Bob Marley ?
+culture_g_score: 77
+culture_g_justification: "Chanson emblématique de Bob Marley, fréquemment citée pour ses thèmes politiques, ses reprises, l'album Uprising et le reggae."
 ---
-
 ![Image de Redemption song](https://upload.wikimedia.org/wikipedia/commons/1/1e/Laura_Facey_-_Redemption_song_003.jpg)
 
 ###### Questions

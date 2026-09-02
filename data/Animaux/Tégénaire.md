@@ -15,9 +15,9 @@ indice_6 :
   - Fait partie des légendes urbaines
 questions:
  - Quelle araignée  des maisons est issu du latin "teges", tisse une toile irrégulière dans les angles des murs, derrière les meubles ?
+culture_g_score: 56
+culture_g_justification: "La tégénaire est une araignée familière liée aux habitations et à quelques records de toiles, sans constituer une référence majeure."
 ---
-
-
 ![Image de Tégénaire](https://upload.wikimedia.org/wikipedia/commons/0/07/Tegenaria_parietina_MHNT.jpg)
 
 ###### Questions

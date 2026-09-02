@@ -22,8 +22,9 @@ indice_6 :
   - nickel
 questions:
  - Quelle collectivité française, située dans l'océan Pacifique...
+culture_g_score: 60
+culture_g_justification: "Territoire français important pour le Pacifique, le nickel, les Kanak et les récifs classés à l'UNESCO, avec une fréquence de quiz modérée."
 ---
-
 ![Image de Nouvelle-Calédonie](https://upload.wikimedia.org/wikipedia/commons/e/ea/2_gourdes_MHNT_ETH_AC_NC_85_Nouvelle_Cal%C3%A9donie_Sav%C3%A8s.jpg)
 
 ![[Carte_Nouvelle-Calédonie.png]]

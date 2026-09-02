@@ -18,8 +18,9 @@ indice_5 :
   - Bandes dessinées
 indice_6 : 
   - Ruses
+culture_g_score: 64
+culture_g_justification: "Série fondatrice de la bande dessinée française et source d’une expression courante, mais moins centrale que les grandes franchises franco-belges."
 ---
-
 ![Image de Les Pieds Nickelés](https://upload.wikimedia.org/wikipedia/commons/f/f9/Pieds_Nickel%C3%A9s_trio.jpg)
 
 ###### Questions

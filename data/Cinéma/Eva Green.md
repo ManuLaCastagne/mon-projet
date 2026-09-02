@@ -22,8 +22,9 @@ indice_6 :
   - The Dreamers
 questions:
  - James Bond girl dans "Casino Royale", je suis à l'affiche de "Proxima" en 2019. Fille de Marlène Jobert…
+culture_g_score: 76
+culture_g_justification: "Actrice française à carrière internationale, associée à Casino Royale, Tim Burton, Ridley Scott et plusieurs genres populaires."
 ---
-
 ![Image de Eva Green](https://upload.wikimedia.org/wikipedia/commons/5/59/Eva_Green_%28Headshot%29.jpg)
 
 ###### Questions

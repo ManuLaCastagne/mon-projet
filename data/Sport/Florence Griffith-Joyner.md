@@ -20,8 +20,9 @@ indice_6 :
   - États-Unis
 questions:
  - Depuis 1988, quelle sprinteuse américaine détient les records du monde en 100 m et 200 m ?
+culture_g_score: 80
+culture_g_justification: "Flo-Jo est une figure classique de l’athlétisme grâce à ses records mondiaux, ses médailles de 1988 et son surnom célèbre."
 ---
-
 ![Image de Florence Griffith-Joyner](https://upload.wikimedia.org/wikipedia/commons/8/89/Florence_Griffith_Joyner2.jpg)
 
 ###### Questions

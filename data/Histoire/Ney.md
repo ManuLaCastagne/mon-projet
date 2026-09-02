@@ -20,8 +20,9 @@ indice_6 :
   - né en 1769
 questions:
  - 1815, quel maréchal de France...
+culture_g_score: 68
+culture_g_justification: "Maréchal napoléonien associé à la retraite de Russie, à Waterloo et à son exécution, mais moins transversal que Napoléon lui-même."
 ---
-
 ![Image de Ney](https://upload.wikimedia.org/wikipedia/commons/7/71/KizNey.jpg)
 
 ###### Questions

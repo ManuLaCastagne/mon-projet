@@ -24,8 +24,9 @@ indice_6 :
   - Baffin Island
 questions:
  - Quel territoire du nord du Canada, créé en 1999 et dont le nom signifie notre terre est majoritairement peuplé d'Inuits?
+culture_g_score: 48
+culture_g_justification: "Vaste territoire canadien associé aux Inuits, à l'Arctique et à l'autonomie autochtone, mais peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Nunavut](https://upload.wikimedia.org/wikipedia/commons/f/f4/Grise_Fiord%2C_Nunavut_%282008%29.jpg)
 
 ![[Carte_Nunavut.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - équipe incluant Pierre Bonte
 questions:
  - En 1976, dans quelle émission Daniel Prévost propose-t-il un fameux reportage où il fait le "tour de Montcuq"?
+culture_g_score: 80
+culture_g_justification: "Émission satirique culte, particulièrement rentable pour ses créateurs, ses humoristes, l’histoire de la télévision et ses séquences célèbres."
 ---
-
 ![Image de Le Petit Rapporteur](https://upload.wikimedia.org/wikipedia/commons/6/68/Le_Petit_Journal%2C_10_d%C3%A9cembre_1893.djvu)
 
 ###### Questions

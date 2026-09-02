@@ -20,8 +20,9 @@ indice_6 :
   - exil en France
 questions:
  - Quel avocat et homme politique cofondateur du Parti socialiste, fut Président de la République portugaise de 1986 à 1996 ?
+culture_g_score: 64
+culture_g_justification: "Figure importante de la démocratisation portugaise, mais dont les questions restent surtout centrées sur la politique contemporaine du Portugal."
 ---
-
 ![Image de Mario Soares](https://upload.wikimedia.org/wikipedia/commons/0/03/M%C3%A1rio_Soares_%282003%29_portrait.jpg)
 
 ###### Questions

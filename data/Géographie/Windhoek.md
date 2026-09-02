@@ -22,8 +22,9 @@ indice_5 :
   - ancienne colonie allemande
 indice_6 : 
   - Parc national d'Etosha
+culture_g_score: 47
+culture_g_justification: "Capitale de la Namibie utile pour la géographie africaine et l’histoire coloniale, mais peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Windhoek](https://upload.wikimedia.org/wikipedia/commons/5/5e/Iglesia_de_Cristo%2C_Windhoek%2C_Namibia%2C_2018-08-04%2C_DD_02.jpg)
 
 ![[Carte_Windhoek.png]]

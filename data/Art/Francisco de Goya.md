@@ -21,8 +21,9 @@ indice_5 :
   - Les Peintures noires
 indice_6 : 
   - La Famille de Charles IV
+culture_g_score: 100
+culture_g_justification: "Goya est une figure fondamentale de la peinture européenne, de la cour d'Espagne, des guerres, de la gravure et des Peintures noires."
 ---
-
 ![Image de Francisco de Goya](https://upload.wikimedia.org/wikipedia/commons/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg)
 
 ###### Questions

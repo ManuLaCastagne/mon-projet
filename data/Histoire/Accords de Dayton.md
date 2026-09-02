@@ -20,8 +20,9 @@ indice_6 :
   - clochers de l'Ohio
 questions:
  - En 1995, quels accords de paix sur l'ex-Yougoslavie furent conclus dans une base militaire de l'Ohio ?
+culture_g_score: 76
+culture_g_justification: "Accord classique de l’histoire contemporaine, directement lié à la guerre de Bosnie, aux Balkans et aux négociations américaines."
 ---
-
 ![Image de Accords de Dayton](https://upload.wikimedia.org/wikipedia/commons/9/94/Dayton_Agreement%2C_24_November_1995_-_%28Bosnia_and_Herzegovina%29._LOC_2009584228.tif)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de dextérité musicale
 questions:
  - Nom imagé que l'on donne au passereau d'Australie ?
+culture_g_score: 52
+culture_g_justification: "Oiseau australien remarquable par son mimétisme vocal et sa parade, principalement mobilisé dans des questions de zoologie originale."
 ---
-
 ![Image de Oiseau-lyre](https://upload.wikimedia.org/wikipedia/commons/8/87/OiseauLyreKnip.jpg)
 
 ###### Questions

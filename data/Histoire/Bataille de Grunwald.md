@@ -20,9 +20,9 @@ indice_6 :
   - champs de Grunwald
 questions:
  - Le 15 juillet 1410, quelle bataille remportée par le roi de Pologne et le grand-duc de Lituanie met fin à la puissance des Chevaliers teutoniques ?
+culture_g_score: 52
+culture_g_justification: "Grande bataille médiévale polono-lituanienne, mais relativement peu connue dans les quiz francophones généralistes."
 ---
-
-
 ![Image de Bataille de Grunwald](https://upload.wikimedia.org/wikipedia/commons/a/a9/Grunwald_Giermek.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - son décès entraîne la guerre de Succession d'Espagne
 questions:
  - En 1700, quel roi d'Espagne n'ayant pas eu d'enfants, provoqua un conflit en reconnaissant pour successeur le futur Philippe V d'Espagne ?
+culture_g_score: 51
+culture_g_justification: "Dernier Habsbourg espagnol, surtout mobilisé autour de la consanguinité et de la Guerre de Succession d’Espagne."
 ---
-
 ![Image de Charles II d'Espagne](https://upload.wikimedia.org/wikipedia/commons/e/e6/H%C3%B4tel_de_ville_de_Bruxelles%2C_Galerie_Grang%C3%A9%2C_Portrait_de_Charles_II_d%27Espagne.jpg)
 
 ###### Questions

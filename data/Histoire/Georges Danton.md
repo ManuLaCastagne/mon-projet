@@ -18,8 +18,9 @@ indice_5:
   - exécuté en 1794
 indice_6:
   - parti des Indulgents
+culture_g_score: 96
+culture_g_justification: "Orateur majeur de la Révolution française, régulièrement interrogé sur la chute de la monarchie, la Terreur et son exécution."
 ---
-
 ![Image de Danton](https://upload.wikimedia.org/wikipedia/commons/3/3b/George_Siegmann_as_Georges_Danton_in_Scaramouche_%281923%29.jpg)
 
 ###### Questions

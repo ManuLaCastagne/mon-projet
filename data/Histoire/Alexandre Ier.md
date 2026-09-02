@@ -20,8 +20,9 @@ indice_6 :
   - décès à Taganrog
 questions:
  - En 1807, quel tsar Napoléon Bonaparte rencontre-t-il ?
+culture_g_score: 68
+culture_g_justification: "Acteur des guerres napoléoniennes et du Congrès de Vienne, il permet plusieurs questions sur la Russie et l’Europe postrévolutionnaire."
 ---
-
 ![Image de Alexandre Ier](https://upload.wikimedia.org/wikipedia/commons/b/b9/Passerelle_du_bv_Alexandre_Ier%2C_Vichy_3.jpg)
 
 ###### Questions

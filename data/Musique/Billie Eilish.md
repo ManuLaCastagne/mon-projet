@@ -20,8 +20,9 @@ indice_5 :
   - Grammy Awards
 indice_6 : 
   - When We All Fall Asleep
+culture_g_score: 80
+culture_g_justification: "Artiste contemporaine mondialement connue, rentable pour ses Grammy Awards, ses albums, James Bond et la pop actuelle."
 ---
-
 ![Image de Billie Eilish](https://upload.wikimedia.org/wikipedia/commons/3/39/Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2808%29_%28cropped%29.jpg)
 
 ###### Questions

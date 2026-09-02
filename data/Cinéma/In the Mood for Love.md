@@ -22,11 +22,9 @@ indice_6 :
   - romance
 questions:
  - En 2000, quel film de Wong Kar-wai se déroule en 1962 à Hong Kong évoque les sentiments entre Madame Chan et Mister Show ?
+culture_g_score: 71
+culture_g_justification: "Classique moderne du cinéma asiatique, utile pour Wong Kar-wai, Hong Kong, ses acteurs et l’esthétique cinématographique."
 ---
-
-
-
-
 ![Image de In the Mood for Love](https://upload.wikimedia.org/wikipedia/commons/c/c2/In_the_mood_for_love_%2830111112503%29.jpg)
 
 ###### Questions

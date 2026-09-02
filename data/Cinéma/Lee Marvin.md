@@ -22,8 +22,9 @@ indice_6 :
   - La poursuite impitoyable
 questions:
  - En 1984, quel acteur américain  incarne un gangster en cavale  dans le film d'Yves Boisset "Canicule" ?
+culture_g_score: 64
+culture_g_justification: "Acteur majeur du western et du cinéma de guerre, intéressant pour Cat Ballou et ses rôles de dur, mais moins incontournable qu’une star universelle."
 ---
-
 ![Image de Lee Marvin](https://upload.wikimedia.org/wikipedia/commons/8/88/Lee_marvin_1971.JPG)
 
 ###### Questions

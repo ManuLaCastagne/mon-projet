@@ -20,8 +20,9 @@ indice_6 :
   - Navires de recherche
 questions:
  - Mes propres engins et équipements de pointe pour explorer et observer le milieu marin. Institut chargé...
+culture_g_score: 47
+culture_g_justification: "Institut français identifiable dans les quiz sur l’océan et la recherche marine, mais peu fréquent dans la culture générale large."
 ---
-
 ![Image de Ifremer](https://upload.wikimedia.org/wikipedia/commons/a/a6/Si%C3%A8ge_social_de_l%27Ifremer.jpg)
 
 ###### Questions

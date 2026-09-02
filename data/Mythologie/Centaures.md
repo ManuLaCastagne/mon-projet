@@ -18,8 +18,9 @@ indice_6 :
   - immortelles dans les légendes
 questions:
  - Créatures de la [[mythologie grecque]], nées de l'union d'Ixion et d'Héra, nous vivons sur le mont Pélion et sommes généralement considérées comme des êtres sauvages, armés d'un arc ou d'une massue.  Représentées notamment par Pholos, Nessus ou Chiron...
+culture_g_score: 80
+culture_g_justification: "Créatures hybrides très célèbres, présentes dans de nombreux mythes, œuvres artistiques et questions sur Chiron ou la bataille des Lapithes."
 ---
-
 ![Image de Centaures](https://upload.wikimedia.org/wikipedia/commons/4/46/Centaur_mosaic_-_Google_Art_Project_retouched.jpeg)
 
 ###### Questions

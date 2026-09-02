@@ -17,8 +17,9 @@ indice_5:
   - Orgueil
 indice_6:
   - romance
+culture_g_score: 51
+culture_g_justification: "Joe Wright est un réalisateur reconnu pour quelques films marquants, mais il reste moins fréquent et moins transversal qu'une grande figure du cinéma."
 ---
-
 ![Image de Joe Wright](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Joe_Wright_by_Gage_Skidmore.jpg/1280px-Joe_Wright_by_Gage_Skidmore.jpg)
 
 ###### Questions

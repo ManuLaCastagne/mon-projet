@@ -20,8 +20,9 @@ indice_5:
   - skeleton
 indice_6:
   - hockey sur glace
+culture_g_score: 56
+culture_g_justification: "Les Jeux d’Innsbruck 1976 sont connus pour quelques faits marquants, mais leur potentiel de réutilisation reste restreint."
 ---
-
 ![Image de Innsbruck 1976](https://upload.wikimedia.org/wikipedia/commons/e/ed/1976_Winter_Olympics_torch.jpg)
 
 ###### Questions

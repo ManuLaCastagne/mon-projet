@@ -20,8 +20,9 @@ indice_6 :
   - célèbre pour sa phrase Je ne suis pas convaincu
 questions:
  - Quel producteur de comédies musicales, ancien membre du jury de l'émission "Nouvelle star", a également fait Polytechnique?
+culture_g_score: 48
+culture_g_justification: "Producteur associé à plusieurs comédies musicales et à Nouvelle Star, mais restant une personnalité relativement spécialisée."
 ---
-
 ![Image de Dove Attia](https://upload.wikimedia.org/wikipedia/commons/7/74/David_ban_au_concert_Mona_Fm_en_2017.jpg)
 
 ###### Questions

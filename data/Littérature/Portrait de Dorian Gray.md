@@ -21,8 +21,9 @@ indice_6:
   - pacte faustien
 questions:
   - Son portrait vieillit à sa place alors que son visage garde sa jeunesse. Unique roman d'Oscar Wilde.
+culture_g_score: 88
+culture_g_justification: "Grand classique d’Oscar Wilde, souvent mobilisé autour du fantastique, de la morale victorienne, de la beauté et de l’adaptation cinématographique."
 ---
-
 ![Image de Portrait de Dorian Gray](https://upload.wikimedia.org/wikipedia/commons/8/89/Wilde_-_Le_portrait_de_Dorian_Gray%2C_1895.djvu)
 
 ###### Questions

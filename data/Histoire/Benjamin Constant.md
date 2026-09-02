@@ -20,8 +20,9 @@ indice_6 :
   - homme politique
 questions:
  - A quel homme politique écrivain doit-on "Adolphe", rédaction de l'acte additionnel aux Constitutions de l'Empire ?
+culture_g_score: 55
+culture_g_justification: "Écrivain et penseur libéral franco-suisse, intéressant à la croisée de la littérature, de la politique et de Madame de Staël."
 ---
-
 ![Image de Benjamin Constant](https://upload.wikimedia.org/wikipedia/commons/1/16/%28Narbonne%29_Le_ca%C3%AFd_marocain_Tahamy_-_Jean_Joseph_Benjamin-Constant_-_Mus%C3%A9e_des_Beaux-Arts_de_Narbonne.jpg)
 
 ###### Questions

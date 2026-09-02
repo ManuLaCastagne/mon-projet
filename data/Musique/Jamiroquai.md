@@ -20,9 +20,9 @@ indice_5:
   - chapeau emblématique
 indice_6:
   - Cosmic Girl
+culture_g_score: 76
+culture_g_justification: "Groupe phare de l'acid jazz, facilement interrogé par ses tubes, Jay Kay, ses albums et son identité visuelle."
 ---
-
-
 ![Image de Jamiroquai](https://upload.wikimedia.org/wikipedia/commons/b/b4/Jamiroquai_2018_Coachella18W1-121_%2827188172187%29.jpg)
 
 ###### Questions

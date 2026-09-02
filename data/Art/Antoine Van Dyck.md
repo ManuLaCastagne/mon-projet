@@ -23,8 +23,9 @@ indice_6 :
   - Vénus au miroir
 questions:
  - Vers 1635, quel peintre flamand au service de la cour d'Angleterre représente le roi Charles Ier à la chasse dans un tableau conservé au Louvre ?
+culture_g_score: 64
+culture_g_justification: "Grand portraitiste flamand lié à Rubens et à la cour anglaise, utile en histoire de l’art mais moins transversal qu’un maître plus célèbre."
 ---
-
 ![Image de Antoine Van Dyck](https://upload.wikimedia.org/wikipedia/commons/6/6c/Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg)
 
 ###### Questions

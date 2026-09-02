@@ -20,8 +20,9 @@ indice_6 :
   - Années 1930
 questions:
  - De quel gaz à effet de serre, utilisé comme réfrigérant et aussi appelé chlorofluorocarbone, l'interdiction mondiale est-elle programmée d'ici 2040?
+culture_g_score: 77
+culture_g_justification: "Terme courant lié à la réfrigération et à la destruction de la couche d’ozone, ouvrant sur la chimie et l’environnement."
 ---
-
 ![Image de Fréon](https://upload.wikimedia.org/wikipedia/commons/3/38/Collins-Pigrim-Freon-P-LM01.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Théorème de Pythagore
 questions:
  - A quel mathématicien grec de l'Antiquité doit-on le traité intitulé "Eléments", qui fut une référence tout au long de l'histoire des mathématiques ?
+culture_g_score: 84
+culture_g_justification: "Figure fondatrice des mathématiques déductives, régulièrement associée aux Éléments, à la géométrie et à l’algorithme d’Euclide."
 ---
-
 ![Image de Euclide](https://upload.wikimedia.org/wikipedia/commons/8/8c/Euklid2.jpg)
 
 ###### Questions

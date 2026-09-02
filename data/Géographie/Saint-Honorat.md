@@ -24,8 +24,9 @@ indice_6 :
   - tourisme religieux
 questions:
  - Quelle île de l'archipel de Lérins doit son nom au moine futur évêque d'Arles qui a fondé un monastère en 410 ?
+culture_g_score: 47
+culture_g_justification: "L’île Saint-Honorat est un site monastique et viticole remarquable, mais son faible rayonnement limite fortement sa fréquence en quiz."
 ---
-
 ![Image de Saint-Honorat](https://upload.wikimedia.org/wikipedia/commons/b/b6/Saint_Honorat_d%27Arles.jpg)
 
 ![[Carte_Saint-Honorat.png]]

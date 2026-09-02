@@ -22,8 +22,9 @@ indice_6 :
   - satire de la bourgeoisie
 questions:
  - Je m'achève par l'échec d'un projet encyclopédique. Roman de Flaubert dont une 2e partie inachevée devait comprendre un dictionnaire des idées reçues.
+culture_g_score: 67
+culture_g_justification: "Œuvre significative de Flaubert, souvent citée pour sa satire de la connaissance, mais moins connue du grand public que Madame Bovary."
 ---
-
 ![Image de Bouvard et Pécuchet](https://upload.wikimedia.org/wikipedia/commons/6/63/Bouvard_et_P%C3%A9cuchet_1881_cover.png)
 
 ###### Questions

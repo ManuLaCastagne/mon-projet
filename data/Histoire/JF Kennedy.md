@@ -20,8 +20,9 @@ indice_6 :
   - frère de Robert Kennedy
 questions:
  - Quel président des Etats-Unis  a exercé le pouvoir durant 2 ans et 10 mois, de son investiture en 1961 à son assassinat en 63?
+culture_g_score: 100
+culture_g_justification: "Président américain universellement célèbre, au cœur de questions sur la guerre froide, l’espace, Dallas, Cuba, la politique et la culture américaine."
 ---
-
 ![Image de JF Kennedy](https://upload.wikimedia.org/wikipedia/commons/5/5c/JFK_limousine.png)
 
 ###### Questions

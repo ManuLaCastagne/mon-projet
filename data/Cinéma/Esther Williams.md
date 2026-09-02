@@ -22,8 +22,9 @@ indice_6 :
   - Million Dollar Mermaid
 questions:
  - En 1944, quelle championne américaine de natation, également actrice, joue dans "Le Bal des Sirènes" de Geogre Sydney ?
+culture_g_score: 63
+culture_g_justification: "Figure originale du cinéma musical hollywoodien, utile pour la MGM, la natation, les ballets aquatiques et les Jeux olympiques annulés."
 ---
-
 ![Image de Esther Williams](https://upload.wikimedia.org/wikipedia/commons/7/75/Esther_Williams_1951_crop.jpg)
 
 ###### Questions

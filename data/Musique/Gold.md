@@ -22,9 +22,9 @@ indice_6 :
   - seuil minimum de ventes
 questions:
  - Dans les années 80, à quel groupe musical, formé à Toulouse, doit-on les tubes...
+culture_g_score: 40
+culture_g_justification: "Le groupe français Gold est associé à quelques succès des années 1980, mais reste une référence secondaire et peu transversale."
 ---
-
-
 ![Image de Gold](https://upload.wikimedia.org/wikipedia/commons/d/d7/Gold-crystals.jpg)
 
 ###### Questions

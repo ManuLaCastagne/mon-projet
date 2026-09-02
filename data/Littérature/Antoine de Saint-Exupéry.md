@@ -22,8 +22,9 @@ indice_6 :
   - roses
 questions:
  - Dans l'ouvrage "Terre des Hommes (roman)" paru en 1939, quel homme de lettres et aviateur a écrit  "Aimer, ce n'est point nous regarder l'un l'autre, mais regarder ensemble dans la même direction"?
+culture_g_score: 100
+culture_g_justification: "Figure universelle associant Le Petit Prince, l’aviation, la littérature, la guerre et plusieurs œuvres incontournables."
 ---
-
 ![Image de Antoine de Saint-Exupéry](https://upload.wikimedia.org/wikipedia/commons/d/d4/Escatalens_-_Ecole_Publique_%27Antoine_de_Saint-Exup%C3%A9ry%27.jpg)
 
 ###### Questions

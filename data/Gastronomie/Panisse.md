@@ -1,3 +1,8 @@
+---
+culture_g_score: 44
+culture_g_justification: "Préparation provençale connue surtout par la cuisine régionale et le personnage de Pagnol, avec des angles limités."
+---
+
 
 ###### Questions 
 

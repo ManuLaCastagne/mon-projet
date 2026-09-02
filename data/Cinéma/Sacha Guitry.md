@@ -22,8 +22,9 @@ indice_6 :
   - célèbre pour ses pièces de théâtre
 questions:
  - En 1939, à quel comédien, cinéaste et dramaturge français doit-on le film "Ils étaient neuf célibataires"?
+culture_g_score: 87
+culture_g_justification: "Figure majeure réunissant théâtre, cinéma, écriture, mise en scène et histoire culturelle française, avec de nombreux angles de questionnement."
 ---
-
 ![Image de Sacha Guitry](https://upload.wikimedia.org/wikipedia/commons/3/35/Sacha_Guitry_incarn%C3%A9_par_Denis_Podalyd%C3%A8s_%C3%A0_la_Cin%C3%A9math%C3%A8que_fran%C3%A7aise.jpg)
 
 ###### Questions

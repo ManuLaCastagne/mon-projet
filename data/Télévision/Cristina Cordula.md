@@ -18,8 +18,9 @@ indice_5 :
   - ancienne mannequin
 indice_6 : 
   - phrase célèbre Magnifaïk
+culture_g_score: 69
+culture_g_justification: "Personnalité très reconnaissable de la télévision française, utile pour les émissions de mode, les expressions populaires et le parcours de mannequin."
 ---
-
 ![Image de Cristina Cordula](https://upload.wikimedia.org/wikipedia/commons/f/f6/20220614_114057_Cristina_C%C3%B3rdula.jpg)
 
 ###### Questions

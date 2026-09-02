@@ -22,8 +22,9 @@ indice_6 :
   - Écrivaine française contemporaine
 questions:
  - A quelle auteure française doit-on les romans "Le Marché des amants", "Un amour impossible" et "L'Inceste"...
+culture_g_score: 47
+culture_g_justification: "Écrivaine médiatique et controversée, identifiable par ses romans et ses apparitions télévisées, mais de rendement limité pour un entraînement généraliste."
 ---
-
 ![Image de Christine Angot](https://upload.wikimedia.org/wikipedia/commons/9/9d/Christine_Angot-67285.jpg)
 
 ###### Questions

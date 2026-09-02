@@ -24,9 +24,9 @@ indice_6:
   - Ibiza
 questions:
   - Quel pays d'Europe compte 50 provinces, dont celles de Soria et d'Ourense?
+culture_g_score: 92
+culture_g_justification: "Grande référence européenne, l’Espagne permet de répondre à de nombreuses questions historiques, artistiques, géographiques, politiques et culturelles."
 ---
-
-
 ![Image de Espagne](https://upload.wikimedia.org/wikipedia/commons/3/3c/Palacio_Real_de_Olite%2C_Navarra%2C_Espa%C3%B1a%2C_2015-01-06%2C_DD_07-09_HDR.JPG)
 
 ![[Carte_Espagne.png]]

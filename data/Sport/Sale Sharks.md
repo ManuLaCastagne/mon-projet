@@ -20,8 +20,9 @@ indice_6 :
   - The Sharks
 questions:
  - A quel faubourg de Manchester associe-t-on une équipe de rugby dont l'emblème est un requin ?
+culture_g_score: 40
+culture_g_justification: "Club anglais de rugby ayant remporté un titre national, mais assez peu connu du grand public et limité à quelques repères sportifs."
 ---
-
 ![Image de Sale Sharks](https://upload.wikimedia.org/wikipedia/commons/2/2e/USO-Sale_Sharks_-_20131205_-_Ballon_flottant.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - chant polyphonique de la Renaissance
 questions:
  - En littérature, quel terme issu de l'italien désigne une pièce galante en vers pour une femme ?
+culture_g_score: 64
+culture_g_justification: "Notion rentable reliant poésie et musique de la Renaissance, l’Italie, la polyphonie et des compositeurs comme Monteverdi."
 ---
-
 ![Image de Madrigal](https://upload.wikimedia.org/wikipedia/commons/2/24/Nielsen_Fonteiio_Libro_Madrigali.jpg)
 
 ###### Questions

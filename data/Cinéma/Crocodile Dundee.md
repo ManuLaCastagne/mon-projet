@@ -22,8 +22,9 @@ indice_6 :
   - Mick Dundee
 questions:
  - En 1987, quelle comédie met en scène Paul Hogan dans le rôle d'un aventurier du bush australien ?
+culture_g_score: 73
+culture_g_justification: "Comédie d'aventure très populaire, retenue pour Paul Hogan, son couteau culte, son succès et ses scènes emblématiques."
 ---
-
 ![Image de Crocodile Dundee](https://upload.wikimedia.org/wikipedia/commons/e/e3/2013_Z%C3%BCri_F%C3%A4scht_-_B%C3%BCrkliplatz_2013-07-05_18-43-58.JPG)
 
 ###### Questions

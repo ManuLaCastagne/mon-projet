@@ -23,8 +23,9 @@ indice_6 :
   - monuments
 questions:
  - A quel sculpteur originaire de Colmar doit-on la statue de la Liberté...
+culture_g_score: 77
+culture_g_justification: "Bartholdi est directement associé à la Statue de la Liberté et au Lion de Belfort, deux repères très rentables."
 ---
-
 ![Image de Bartholdi](https://upload.wikimedia.org/wikipedia/commons/3/3b/Bartholdi%2C_Auguste%2C_Nadar%2C_GALLICA.jpg)
 
 ###### Questions

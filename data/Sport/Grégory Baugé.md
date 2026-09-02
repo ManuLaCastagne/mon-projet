@@ -20,8 +20,9 @@ indice_6 :
   - Médaille d'or
 questions:
  - En 2021, quel cycliste français,  spécialiste de la piste...
+culture_g_score: 48
+culture_g_justification: "Champion français important du sprint sur piste, mais principalement mobilisé dans des questions spécialisées sur le cyclisme et ses palmarès."
 ---
-
 ![Image de Grégory Baugé](https://upload.wikimedia.org/wikipedia/commons/b/ba/Gr%C3%A9gory_Baug%C3%A9.jpg)
 
 ###### Questions

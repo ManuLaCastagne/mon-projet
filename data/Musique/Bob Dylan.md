@@ -20,9 +20,9 @@ indice_5:
   - folk-rock
 indice_6:
   - Mr. Tambourine Man
+culture_g_score: 100
+culture_g_justification: "Figure absolument incontournable, reliant chanson, littérature, protest song, histoire américaine, folk et rock."
 ---
-
-
 ![Image de Bob Dylan](https://upload.wikimedia.org/wikipedia/commons/3/33/Joan_Baez_Bob_Dylan.jpg)
 
 ###### Questions

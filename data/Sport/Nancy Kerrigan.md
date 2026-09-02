@@ -20,8 +20,9 @@ indice_6 :
   - États-Unis
 questions:
  - Quelle patineuse, double médaillée olympique est connue pour avoir subi une agression par Tonya Harding, à quelques semaines des Jeux d'hiver de 94?
+culture_g_score: 72
+culture_g_justification: "Son agression liée à l’affaire Tonya Harding et les Jeux de Lillehammer lui donnent une forte présence dans les quiz sportifs et médiatiques."
 ---
-
 ![Image de Nancy Kerrigan](https://upload.wikimedia.org/wikipedia/commons/8/86/Nancy_Kerrigan_1995.jpg)
 
 ###### Questions

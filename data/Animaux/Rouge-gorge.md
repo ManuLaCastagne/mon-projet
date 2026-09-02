@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de renouveau et de vitalité
 questions:
  - Quel petit passereau de la famille des turdidés à la poitrine tachée de rouge émet, quand il chante, une suite de notes sifflées et roulées ?
+culture_g_score: 64
+culture_g_justification: "Oiseau familier et symbolique, particulièrement exploitable dans des questions sur la faune européenne et les traditions britanniques."
 ---
-
 ![Image de Rouge-gorge](https://upload.wikimedia.org/wikipedia/commons/9/95/Rouge_gorge_familier_-_crop_%28WB_correction%29.jpg)
 
 ###### Questions

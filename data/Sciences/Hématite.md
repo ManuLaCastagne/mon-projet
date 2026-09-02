@@ -20,8 +20,9 @@ indice_6 :
   - bijoux en pierre polie
 questions:
  - A gris argenté, avec des reflets rouges caractéristiques. Principal minerai de fer dont le nom vient du grec "Hematites" signifiant "sanguin"...
+culture_g_score: 43
+culture_g_justification: "Minéral utile pour des questions de géologie, de pigments, d’archéologie et de Mars, mais restant une connaissance secondaire."
 ---
-
 ![Image de Hématite](https://upload.wikimedia.org/wikipedia/commons/a/ae/Hematite.jpg)
 
 ###### Questions

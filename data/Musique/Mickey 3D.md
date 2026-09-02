@@ -22,8 +22,9 @@ indice_6 :
   - Matthieu Chedid
 questions:
  - En 2004, quel groupe français rend hommage à l'ancien footballeur de l'AS Saint-Etienne Johnny Rep dans une chanson homonyme?
+culture_g_score: 44
+culture_g_justification: "Groupe français connu pour « Respire » et quelques récompenses, mais dont les possibilités de questions restent limitées."
 ---
-
 ![Image de Mickey 3D](https://upload.wikimedia.org/wikipedia/commons/0/05/Mickey_3d_-_Brest_2016_-_05.jpg)
 
 ###### Questions

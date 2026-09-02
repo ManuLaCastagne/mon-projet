@@ -24,8 +24,9 @@ indice_6 :
   - Musée Unterlinden
 questions:
  - Quelle ville du Haut-Rhin, dont le quartier de la Petite Venise...
+culture_g_score: 76
+culture_g_justification: "Ville alsacienne fréquemment reliée à Bartholdi, aux vins d’Alsace, au retable d’Issenheim et au tourisme patrimonial."
 ---
-
 ![Image de Colmar](https://upload.wikimedia.org/wikipedia/commons/2/24/Rue_des_Marchands_depuis_le_Ko%C3%AFfhus_%28Colmar%29_%284%29.jpg)
 
 ![[Carte_Colmar.png]]

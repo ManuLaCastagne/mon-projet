@@ -18,8 +18,9 @@ indice_5:
   - Mari délicieux
 indice_6:
   - Littérature américaine
+culture_g_score: 40
+culture_g_justification: "Best-seller récent de Freida McFadden, il peut être cité ponctuellement mais n’a pas encore une importance culturelle établie."
 ---
-
 ![Image de La Femme de ménage voit tout]()
 
 ###### Questions

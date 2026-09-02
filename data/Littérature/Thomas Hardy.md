@@ -20,9 +20,9 @@ indice_5:
   - naturalisme
 indice_6:
   - Far from the Madding Crowd
+culture_g_score: 80
+culture_g_justification: "Grand écrivain victorien, régulièrement rencontré grâce à Tess, Jude l'Obscur, la poésie et les adaptations, avec des liens historiques et sociaux."
 ---
-
-
 ![Image de Thomas Hardy](https://upload.wikimedia.org/wikipedia/commons/6/6e/Thomashardy_restored.jpg)
 
 ###### Questions

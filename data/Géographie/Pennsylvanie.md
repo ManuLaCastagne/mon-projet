@@ -22,9 +22,9 @@ indice_5 :
   - Université de Pennsylvanie
 indice_6 : 
   - Parc national de Valley Forge
+culture_g_score: 72
+culture_g_justification: "État fondateur des États-Unis associé à Philadelphie, à la Constitution, à la guerre d’indépendance, à l’industrie et à la culture populaire."
 ---
-
-
 ![[Carte_Pennsylvanie.png]]
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - tube de l'été
 questions:
  - Chanson de 1983 interprétée  en espagnol par 2 Italiens, je fus vendue à environ 3 millions d'exemplaires dans le monde et fut diffusée avec un clip aux couleurs fluorescentes.  Associée aux vacances au bord de la mer grâce à mon refrain entraînant, avec ses "oh oh..."
+culture_g_score: 52
+culture_g_justification: "Tube estival immédiatement reconnaissable, mais offrant peu d’angles indépendants au-delà de la pop des années 1980."
 ---
-
 ![Image de Vamos a la playa](https://upload.wikimedia.org/wikipedia/commons/2/25/Vamos_a_la_playa_-_santaolalla.jpg)
 
 ###### Questions

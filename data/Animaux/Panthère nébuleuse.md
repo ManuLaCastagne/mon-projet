@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de mysticisme et de discrétion
 questions:
  - Sous quel nom connaît-on également la panthère asiatique, dite longibande, dont la taille dépasse rarement 1m de long ?
+culture_g_score: 32
+culture_g_justification: "Félin peu connu du grand public et généralement limité à des questions spécialisées de zoologie."
 ---
-
 ![Image de Panthère nébuleuse](https://upload.wikimedia.org/wikipedia/commons/8/8b/Neofelis_nebulosa_in_Ouwehands_Dierenpark.jpg)
 
 ###### Questions

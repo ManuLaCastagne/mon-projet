@@ -21,8 +21,9 @@ indice_5 :
   - technique sfumato
 indice_6 : 
   - vente aux enchères Christie’s
+culture_g_score: 77
+culture_g_justification: "Le Salvator Mundi relie Léonard de Vinci, l’attribution controversée, la Renaissance et un record mondial d’enchères."
 ---
-
 ![Image de Salvator Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg)
 
 ###### Questions

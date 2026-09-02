@@ -20,8 +20,9 @@ indice_6 :
   - Belgique
 questions:
  - Le 18 juin 1815, quelle victoire décisive des Britanniques et des Prussiens sur Napoléon...
+culture_g_score: 100
+culture_g_justification: "Défaite finale de Napoléon et événement incontournable des quiz, ouvrant de nombreux angles militaires, politiques et européens."
 ---
-
 ![Image de Bataille de Waterloo](https://upload.wikimedia.org/wikipedia/commons/2/29/Bataille_Waterloo_1815_reconstitution_2011_cuirassier.jpg)
 
 ###### Questions

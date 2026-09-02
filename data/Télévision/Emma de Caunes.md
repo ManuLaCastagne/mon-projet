@@ -20,8 +20,9 @@ indice_6 :
   - Guillaume Canet
 questions:
  - En février dernier, dans la minisérie télévisée "Neuf meufs", quelle actrice et réalisatrice française dresse le portrait de 9 femmes vivant dans le même immeuble?
+culture_g_score: 48
+culture_g_justification: "Actrice et animatrice liée à Canal+ et à une famille médiatique célèbre, avec une présence modérée dans les quiz."
 ---
-
 ![Image de Emma de Caunes](https://upload.wikimedia.org/wikipedia/commons/2/21/Emma_de_Caunes_Cannes_2015.jpg)
 
 ###### Questions

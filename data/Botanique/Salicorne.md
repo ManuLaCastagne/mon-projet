@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée en cuisine, notamment en salade et condiments
 questions:
  - Quelle plante herbacée du littoral atlantique, de la famille des chénopodiacées, parfois utilisée comme condiment qu'on appelle aussi la corne salée ?
+culture_g_score: 51
+culture_g_justification: "Plante littorale originale liée aux marais salants et à la gastronomie, avec une fréquence quiz encore modérée."
 ---
-
 ![Image de Salicorne](https://upload.wikimedia.org/wikipedia/commons/6/6d/Salicornia_europaea_RF.jpg)
 
 ###### Questions

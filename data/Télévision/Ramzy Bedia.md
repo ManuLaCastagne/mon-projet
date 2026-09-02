@@ -18,8 +18,9 @@ indice_5 :
   - Platane
 indice_6 : 
   - Comédies télévisées
+culture_g_score: 76
+culture_g_justification: "Humoriste et acteur populaire, associé à Éric et Ramzy, H, Canal+ et plusieurs productions françaises."
 ---
-
 ![Image de Ramzy Bedia](https://upload.wikimedia.org/wikipedia/commons/a/a1/Ramzy_Bedia_Cannes_2012.jpg)
 
 ###### Questions

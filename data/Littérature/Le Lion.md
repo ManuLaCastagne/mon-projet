@@ -18,8 +18,9 @@ indice_5 :
   - Simba
 indice_6 : 
   - The Lion, the Witch and the Wardrobe
+culture_g_score: 64
+culture_g_justification: "Roman populaire de Joseph Kessel connu pour son cadre africain et sa relation entre l’enfant et l’animal, mais à la transversalité modérée."
 ---
-
 ![Image de Le Lion](https://upload.wikimedia.org/wikipedia/commons/5/52/Lion_male.jpg)
 
 ###### Questions

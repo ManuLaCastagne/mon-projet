@@ -20,8 +20,9 @@ indice_5 :
   - Trois Oscars du meilleur acteur
 indice_6 : 
   - Joker
+culture_g_score: 100
+culture_g_justification: "Légende du cinéma américain, associée à de nombreux classiques, aux Oscars, à Batman et à l’histoire de Hollywood."
 ---
-
 ![Image de Jack Nicholson](https://upload.wikimedia.org/wikipedia/commons/3/35/Jack_Nicholson_cropped_2010.jpg)
 
 ###### Questions

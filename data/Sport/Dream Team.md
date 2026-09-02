@@ -18,8 +18,9 @@ indice_5 :
   - Karl Malone
 indice_6 : 
   - Scottie Pippen
+culture_g_score: 93
+culture_g_justification: "La Dream Team de 1992 est un marronnier absolu des quiz, au croisement du basket, des Jeux olympiques et de la culture populaire."
 ---
-
 ![Image de Dream Team](https://upload.wikimedia.org/wikipedia/commons/a/a2/Elephants_Dream_%282006%29.webm)
 
 ###### Questions

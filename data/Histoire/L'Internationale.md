@@ -20,8 +20,9 @@ indice_6 :
   - symbole de la lutte des classes
 questions:
  - Quel chant révolutionnaire, que l'auteur de mots croisés Robert Scipion définissait comme "un tube de rouge", débute par les paroles "C'est la lutte finale!"?
+culture_g_score: 100
+culture_g_justification: "L’Internationale est un hymne mondial incontournable, à la croisée de la musique, de la Commune, du socialisme, du mouvement ouvrier et de la politique."
 ---
-
 ![Image de L'Internationale](https://upload.wikimedia.org/wikipedia/commons/c/ce/L%27Internationale.jpg)
 
 ###### Questions

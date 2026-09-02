@@ -22,8 +22,9 @@ indice_6 :
   - roman à succès
 questions:
  - En 2020, à quel écrivain,  président de l'Oulipo, le prix Goncourt a-t-il été décerné pour son roman "L'Anomalie"?
+culture_g_score: 60
+culture_g_justification: "Lauréat du Goncourt 2020 et membre de l'Oulipo, il est un repère récent utile pour la littérature française contemporaine."
 ---
-
 ![Image de Hervé le Tellier](https://upload.wikimedia.org/wikipedia/commons/d/d5/Herv%C3%A9_Le_Tellier_%282021%29.png)
 
 ###### Questions

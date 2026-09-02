@@ -21,8 +21,9 @@ indice_6 :
   - Udaipur
 questions:
  - Quel est cette région d'Inde du nord-ouest célèbre pour ses palais, de capitale Jaipur ?
+culture_g_score: 68
+culture_g_justification: "Le Rajasthan est un État indien emblématique, régulièrement associé aux palais, au désert du Thar, à Jaipur et au patrimoine religieux."
 ---
-
 ![Image de Rahjastan]()
 
 ###### Questions

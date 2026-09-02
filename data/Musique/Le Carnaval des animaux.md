@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Suite musicale composée en 1886, constituant l'oeuvre la plus populaire de mon auteur, j'ai inspiré à Francis Blanche des textes pouvant servir à ponctuer chacune de mes parties.
  - Dans "Le Carnaval des animaux" de Camille Saint-Saëns, quel palmipède est évoqué par un solo de violoncelle ?
+culture_g_score: 80
+culture_g_justification: "Suite très identifiable de Saint-Saëns, mobilisable en musique classique, en évocation des animaux et dans l’histoire de la composition."
 ---
-
 ![Image de Le Carnaval des animaux](https://upload.wikimedia.org/wikipedia/commons/7/7f/Camille_Saint-Sa%C3%ABns_-_The_Carnival_of_the_Animals.ogg)
 
 ###### Questions

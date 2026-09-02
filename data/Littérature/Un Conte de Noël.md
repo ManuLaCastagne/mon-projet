@@ -22,8 +22,9 @@ indice_6 :
   - Redemption de Noël
 questions:
  - dans la nuit du 24 décembre, des fantômes viennent tourmenter le vieil homme et lui montrent qu'il s'est un peu trompé toute sa vie, la vacuité de son existence.
+culture_g_score: 97
+culture_g_justification: "Conte de Dickens universellement célèbre, particulièrement rentable grâce à Scrooge, aux fantômes de Noël, à l'ère victorienne et aux adaptations."
 ---
-
 ![Image de Un Conte de Noël](https://upload.wikimedia.org/wikipedia/commons/4/46/Arnaud_Desplechin_2009.jpg)
 
 ###### Questions

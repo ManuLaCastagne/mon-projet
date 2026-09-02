@@ -20,8 +20,9 @@ indice_6 :
   - fusion avec la SFIC en 1920
 questions:
  - En avril 1905 en France, quel parti politique créé afin de réunir les différents courants socialistes ?
+culture_g_score: 64
+culture_g_justification: "Parti central de l’histoire de la gauche française et de la SFIO à la crise de Suez, mais moins connu du grand public."
 ---
-
 ![Image de SFIO](https://upload.wikimedia.org/wikipedia/commons/1/10/Solange_de_Mangel%2C_militante_socialiste_bless%C3%A9e_mortellement_lors_de_la_fusillade_de_Clichy.jpg)
 
 ###### Questions

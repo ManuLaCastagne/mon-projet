@@ -15,7 +15,8 @@ indice_6 :
   - Symbole de force et agilité
 questions:
  - Quelle panthère d'Afrique, au pelage jaune tacheté de noir, grimpe aux arbres...
-culture_g_score: 68
+culture_g_score: 80
+culture_g_justification: "Grand félin emblématique, exploitable en zoologie, art, préhistoire, symbolique et techniques de chasse, avec une bonne fréquence de quiz."
 ---
 ![Image de Léopard](https://upload.wikimedia.org/wikipedia/commons/0/03/Panthera_pardus_close_up.jpg)
 

@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - France
+culture_g_score: 60
+culture_g_justification: "Spécialité niçoise originale, utile pour relier gastronomie régionale, pois chiche et géographie méditerranéenne."
 ---
 ###### Questions 
 

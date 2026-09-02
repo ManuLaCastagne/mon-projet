@@ -22,8 +22,9 @@ indice_5:
   - Guérande
 indice_6:
   - Presqu'île de Guérande
+culture_g_score: 44
+culture_g_justification: "Station balnéaire française connue surtout pour sa plage et son architecture, La Baule offre des possibilités de quiz relativement limitées."
 ---
-
 ![Image de Baule](https://upload.wikimedia.org/wikipedia/commons/6/6b/Eglise_de_Baule.jpg)
 
 ###### Questions

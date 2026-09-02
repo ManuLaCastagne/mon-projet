@@ -25,6 +25,7 @@ indice_6 :
 questions:
  - Dans quelle ville italienne sert-on, notamment dans le quartier de Dorsoduro, des amuse-bouches appelés "cichetti", dans des bars dits "bacari"?
 culture_g_score: 100
+culture_g_justification: "Ville mondiale incontournable, exploitable en histoire, art, architecture, tourisme, géographie, commerce et culture italienne."
 ---
 ![Image de Venise](https://upload.wikimedia.org/wikipedia/commons/9/9c/Venise_%28Doubs%29_Rues_et_chemins_hdsr_VLux5_L1032803.jpg)
 

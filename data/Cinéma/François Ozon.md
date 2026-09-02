@@ -22,10 +22,9 @@ indice_6:
   - Grâce à Dieu
 questions:
   - A l'exemple du drame avec "Frantz", du thriller avec "Swimming pool" et de la comédie avec "Potiche". Ayant sorti en juillet 2020 "Eté 85"...
+culture_g_score: 80
+culture_g_justification: "Réalisateur français contemporain prolifique, identifiable par plusieurs genres, films connus, controverses et récompenses."
 ---
-
-
-
 ![Image de François Ozon](https://upload.wikimedia.org/wikipedia/commons/8/84/Fran%C3%A7ois_Ozon.jpg)
 
 ###### Questions

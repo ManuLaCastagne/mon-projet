@@ -20,8 +20,9 @@ indice_5:
   - Les Faux Monnayeurs
 indice_6:
   - voyage au Congo belge
+culture_g_score: 87
+culture_g_justification: "Gide est une figure majeure de la littérature française, du Nobel, de la NRF et des débats intellectuels du XXe siècle."
 ---
-
 ![Image de André Gide](https://upload.wikimedia.org/wikipedia/commons/9/93/Groupe_avec_Andr%C3%A9_Gide_vers_1880.jpg)
 
 ###### Questions

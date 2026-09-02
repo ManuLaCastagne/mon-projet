@@ -23,8 +23,9 @@ indice_6 :
   - Sails
 questions:
  - Quel bâtiment australien au toit en forme de coquilles ou de voiles...
+culture_g_score: 97
+culture_g_justification: "L’Opéra de Sydney est un symbole architectural mondial, extrêmement fréquent et rentable pour les questions sur l’Australie, l’UNESCO et l’architecture."
 ---
-
 ![Image de Opéra de Sydney](https://upload.wikimedia.org/wikipedia/commons/7/7c/Sydney_Opera_House_-_Dec_2008.jpg)
 
 ###### Questions

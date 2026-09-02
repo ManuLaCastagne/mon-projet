@@ -20,8 +20,9 @@ indice_6 :
   - NYC Marathon
 questions:
  - Quelle course de renommée mondiale, attirant chaque année des milliers de participants, a été organisée pour la 1re fois en 1970, dans les allées de Central Park?
+culture_g_score: 71
+culture_g_justification: "Course mondialement connue, utile pour des questions sur l’athlétisme, New York, les records et les grandes épreuves populaires."
 ---
-
 ![Image de Marathon de New York](https://upload.wikimedia.org/wikipedia/commons/3/35/New_York_marathon_Verrazano_bridge.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6:
   - Siècle des Lumières
 questions:
   - A quel maréchal de France doit-on les 12 sites, comptant la citadelle d'Arras, que l'Unesco...
+culture_g_score: 80
+culture_g_justification: "Grande figure de l’histoire militaire française, utile pour les fortifications, Louis XIV, l’ingénierie et plusieurs sites patrimoniaux."
 ---
-
-
 ![Image de Vauban](https://upload.wikimedia.org/wikipedia/commons/5/55/Vauban.jpg)
 
 ###### Questions

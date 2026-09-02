@@ -20,8 +20,9 @@ indice_6 :
   - forêt célèbre pour ses événements historiques
 questions:
  - Quelle forêt, située près de la gare de Rethondes, abrite une clairière où, le 22 juin…
+culture_g_score: 57
+culture_g_justification: "Lieu mémoriel associé aux deux armistices de 1918 et 1940, mais dont les usages quiz restent assez circonscrits."
 ---
-
 ![Image de Forêt de Compiègne](https://upload.wikimedia.org/wikipedia/commons/3/3b/Limenitis_populi_MHNT_Cut_2013_3_16_foret_de_Compiegne.jpg)
 
 ###### Questions

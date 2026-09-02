@@ -20,8 +20,9 @@ indice_6 :
   - Coupe Davis
 questions:
  - En 2010, quel tennisman français devient le seul joueur à avoir disputé des épreuves du Grand Chelem sur 4 décennies?
+culture_g_score: 60
+culture_g_justification: "Tennisman français original et durablement présent sur le circuit, il apparaît occasionnellement via ses surnoms, ses records et le double."
 ---
-
 ![Image de Fabrice Santoro](https://upload.wikimedia.org/wikipedia/commons/3/30/Santoro_Roland_Garros_2009_1.jpg)
 
 ###### Questions

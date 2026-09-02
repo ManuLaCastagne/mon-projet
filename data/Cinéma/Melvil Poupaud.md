@@ -18,8 +18,9 @@ indice_5 :
   - André Téchiné
 indice_6 : 
   - Laurent Cantet
+culture_g_score: 60
+culture_g_justification: "Acteur français estimé, utile par sa précocité, ses collaborations d’auteur et quelques rôles remarqués."
 ---
-
 ![Image de Melvil Poupaud]()
 
 ###### Questions

@@ -20,6 +20,8 @@ indice_5:
   - influence structuralisme
 indice_6:
   - autobiographie intellectuelle
+culture_g_score: 84
+culture_g_justification: "Œuvre majeure de Lévi-Strauss, très utile pour l'anthropologie, les sciences sociales, le récit de voyage, le Brésil et l'histoire intellectuelle du XXe siècle."
 ---
 ![[Pasted image 20250421191630.png]]
 ###### Questions

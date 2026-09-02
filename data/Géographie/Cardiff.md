@@ -23,8 +23,9 @@ indice_5 :
   - Millennium Stadium
 indice_6 : 
   - baie de Cardiff
+culture_g_score: 72
+culture_g_justification: "Capitale du pays de Galles, régulièrement associée au rugby, au stade Millennium, à la politique britannique et à la géographie du Royaume-Uni."
 ---
-
 ![Image de Cardiff](https://upload.wikimedia.org/wikipedia/commons/8/89/Cardiff_Castle_keep_2018.jpg)
 
 ![[Carte_Cardiff.png]]

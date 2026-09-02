@@ -23,8 +23,9 @@ indice_6 :
   - mont Ainslie
 questions:
  - apitale fédérale, j'abrite le lac Burley Griffin et suis traversée par la rivière Molonglo. Conçue dans un souci de respect de l'environnement, j'ai le surnom de capitale du bush.
+culture_g_score: 72
+culture_g_justification: "Capitale nationale régulièrement demandée, mais offrant moins d’angles culturels et historiques que Sydney ou Melbourne."
 ---
-
 ![Image de Canberra](https://upload.wikimedia.org/wikipedia/commons/0/02/ANZAC_Parade_from_the_Australian_War_Memorial%2C_Canberra_ACT.jpg)
 
 ![[Carte_Canberra.png]]

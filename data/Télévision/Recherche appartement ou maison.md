@@ -18,8 +18,9 @@ indice_5:
   - biens à rénover
 indice_6:
   - visites guidées
+culture_g_score: 60
+culture_g_justification: "Émission immobilière très reconnaissable grâce à Stéphane Plaza, mais avec une portée culturelle et des angles de quiz limités."
 ---
-
 ![Image de Recherche appartement ou maison](https://upload.wikimedia.org/wikipedia/commons/c/cd/%C3%89l%C3%A9onore_ou_l%E2%80%99Heureuse_personne%2C_1799.djvu)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Brazzaville Beach
 questions:
  - En 2021, à quel écrivain britannique, auteur de "Comme neige au soleil"  et "Un Anglais sous les tropiques", doit-on le roman "Trio" ?
+culture_g_score: 40
+culture_g_justification: "Écrivain et scénariste britannique reconnu, notamment pour Un Anglais sous les tropiques et James Bond, mais de notoriété limitée."
 ---
-
 ![Image de William Boyd](https://upload.wikimedia.org/wikipedia/commons/7/73/Hopalong_Cassidy_Returns_FilmPoster.jpeg)
 
 ###### Questions

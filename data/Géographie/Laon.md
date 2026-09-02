@@ -25,8 +25,9 @@ indice_6 :
   - ville fortifiée
 questions:
  - Quelle ville française, située sur une butte dominant la plaine environnante, est le chef-lieu du département de l'Aisne?
+culture_g_score: 52
+culture_g_justification: "Laon est surtout mobilisée pour sa cathédrale, ses fortifications et son rôle médiéval, ce qui en fait une connaissance française intermédiaire."
 ---
-
 ![Image de Laon](https://upload.wikimedia.org/wikipedia/commons/5/56/Laon_Cathedral_Interior_04.JPG)
 
 ![[Carte_Laon.png]]

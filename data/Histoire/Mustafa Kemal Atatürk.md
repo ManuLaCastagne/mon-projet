@@ -18,8 +18,9 @@ indice_5 :
   - guerre d'indépendance
 indice_6 : 
   - modernisation
+culture_g_score: 84
+culture_g_justification: "Fondateur de la Turquie moderne, lié à la guerre, aux réformes institutionnelles, à la laïcité et à l’alphabet latin."
 ---
-
 ![Image de Mustafa Kemal Atatürk](https://upload.wikimedia.org/wikipedia/commons/2/2e/Atat%C3%BCrk_Tokat%27ta_bir_vatanda%C5%9F%C4%B1_dinliyor_%281930%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Combustion et respiration
 questions:
  - A quel savant français du XVIIIe siècle doit-on la découverte de la composition de l'air et de l'eau?
+culture_g_score: 100
+culture_g_justification: "Père de la chimie moderne, incontournable pour la nomenclature, la conservation de la masse, la Révolution française et l’histoire scientifique."
 ---
-
 ![Image de Antoine de Lavoisier](https://upload.wikimedia.org/wikipedia/commons/4/4e/David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg)
 
 ###### Questions

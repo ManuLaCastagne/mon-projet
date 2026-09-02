@@ -18,8 +18,9 @@ indice_5:
   - New York
 indice_6:
   - Paris
+culture_g_score: 80
+culture_g_justification: "Lindbergh est un pionnier emblématique de l’aviation, régulièrement interrogé sur la traversée de l’Atlantique et l’histoire aéronautique."
 ---
-
 ![Image de Charles Lindbergh](https://upload.wikimedia.org/wikipedia/commons/d/d7/Charles_Lindbergh_%26_Maj._Thomas_McGuire.jpg)
 
 ###### Questions

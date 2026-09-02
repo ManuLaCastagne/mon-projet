@@ -22,8 +22,9 @@ indice_6 :
   - Vous étiez belle madame
 questions:
  - En 1968, quelle chanteuse interprète le titre "Vous étiez belle, madame", signé par Jean Dellème, JJ Debout et Pascal Sevran ?
+culture_g_score: 20
+culture_g_justification: "Chanteuse française relativement secondaire, dont la carrière fournit peu de points d’entrée dans un entraînement généraliste."
 ---
-
 ![Image de Georgette Lemaire](https://upload.wikimedia.org/wikipedia/commons/0/0f/Georgette_Lemaire%2C_chanteuse_fran%C3%A7aise.jpg)
 
 ###### Questions

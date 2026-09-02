@@ -20,8 +20,9 @@ indice_6 :
   - Scanner
 questions:
  - Système créé en 1914  par Masahiro Hara et son équipe pour des raisons logistiques, je suis désigné par un mot et par 2 lettres qui sont les initiales d'une expression signifiant réponse rapide.
+culture_g_score: 85
+culture_g_justification: "Technologie omniprésente, facilement reliée à l’informatique, au commerce, à l’automobile, à la pandémie et aux usages numériques."
 ---
-
 ![Image de QR code](https://upload.wikimedia.org/wikipedia/commons/a/a5/QR_Code_Structure_Example_2.svg)
 
 ###### Questions

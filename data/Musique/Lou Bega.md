@@ -22,9 +22,9 @@ indice_6 :
   - chanteur allemand
 questions:
  - En 1999, dans une reprise de "Mambo No 5", quel chanteur incite à danser...
+culture_g_score: 56
+culture_g_justification: "Artiste associé à un tube mondial immédiatement identifiable et à Pérez Prado, mais dont la portée culturelle dépasse peu ce succès."
 ---
-
-
 ![Image de Lou Bega](https://upload.wikimedia.org/wikipedia/commons/7/72/Lou_Bega_-_2018111210128_2018-04-21_30_Jahre_Radio_Regenbogen_-_Sven_-_1D_X_MK_II_-_0516_-_AK8I7268_%28cropped%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - obsession amoureuse
 questions:
  - En 1830, dans quelle symphonie de Berlioz le mouvement intitulé "Le Bal" constitue-t-il une valse ?
+culture_g_score: 100
+culture_g_justification: "Œuvre incontournable de Berlioz et du romantisme, très fréquente dans les questions de musique, de littérature et d'histoire culturelle."
 ---
-
 ![Image de Symphonie Fantastique](https://upload.wikimedia.org/wikipedia/commons/2/26/Symphonie_Fantastique.png)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1SHixA41Vy0TTlJJSX9Gbo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

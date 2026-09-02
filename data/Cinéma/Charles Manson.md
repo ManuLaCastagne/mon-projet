@@ -18,8 +18,9 @@ indice_5 :
   - Roman Polanski
 indice_6 : 
   - 1969
+culture_g_score: 75
+culture_g_justification: "Figure criminelle mondialement connue, exploitable en histoire contemporaine, faits divers, sectes et cinéma, mais moins centrale que les grands personnages historiques."
 ---
-
 ![Image de Charles Manson](https://upload.wikimedia.org/wikipedia/commons/6/65/Charles_Manson_2002.jpg)
 
 ###### Questions

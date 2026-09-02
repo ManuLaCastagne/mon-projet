@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la biodiversité atypique
 questions:
  - A pondre des oeufs. Animal à la fourrure abondante et serrée, ayant la particularité d'avoir un bec de canard...
+culture_g_score: 73
+culture_g_justification: "Animal emblématique et très singulier, régulièrement mobilisé dans les questions sur l’Australie, les mammifères et la zoologie."
 ---
-
 ![Image de Ornithorynque](https://upload.wikimedia.org/wikipedia/commons/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg)
 
 ###### Questions

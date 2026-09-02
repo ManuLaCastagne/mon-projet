@@ -20,9 +20,9 @@ indice_5:
   - Le Quatrième Mur
 indice_6:
   - Thèmes de la guerreและ de la trahison
+culture_g_score: 60
+culture_g_justification: "Écrivain et journaliste récompensé, connu par plusieurs romans liés à l’Irlande et à des prix littéraires français."
 ---
-
-
 ![Image de Sorj Chalandon](https://upload.wikimedia.org/wikipedia/commons/a/a7/Sorj_Chalandon.jpg)
 
 ###### Questions

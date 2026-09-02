@@ -22,9 +22,9 @@ indice_6 :
   - Le Racisme expliqué à ma fille
 questions:
  - Quel auteur marocain écrit "Eloge de l'amitié" 9 ans après après avoir reçu le Goncourt pour "La Nuit sacrée" ?
+culture_g_score: 68
+culture_g_justification: "Écrivain francophone majeur, lié au prix Goncourt, à la littérature maghrébine et aux thèmes de l'identité, mais moins central que les classiques nationaux."
 ---
-
-
 ![Image de Tahar Ben Jelloun](https://upload.wikimedia.org/wikipedia/commons/2/22/Tahar_Ben_Jelloun_par_Claude_Truong-Ngoc_sept_2013.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5 :
   - Mer Rouge
 indice_6 : 
   - Darfour
+culture_g_score: 80
+culture_g_justification: "Grand État africain fréquemment abordé par son histoire, le Nil, la Nubie, les pyramides et la partition de 2011."
 ---
-
 ![[Carte_Soudan.png]]
 
 ###### Questions

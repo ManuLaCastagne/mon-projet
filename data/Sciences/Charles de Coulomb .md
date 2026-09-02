@@ -20,8 +20,9 @@ indice_6 :
   - force de Coulomb
 questions:
  - Quel physicien français, né en 1736 a établi les lois du magnétisme ?
+culture_g_score: 73
+culture_g_justification: "Coulomb est un classique de physique grâce à son unité et à sa loi, même si les angles de questions restent principalement scientifiques."
 ---
-
 ![Image de Charles de Coulomb ](https://upload.wikimedia.org/wikipedia/commons/5/59/Charles_de_coulomb.jpg)
 
 ###### Questions

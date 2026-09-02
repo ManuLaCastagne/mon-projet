@@ -20,8 +20,9 @@ indice_6 :
   - Troisième ligne
 questions:
  - Rugbyman ayant évolué 14 saisons au Stade Français avant de rejoindre Toulon en 2019, aux 142 sélections avec l'Italie ?
+culture_g_score: 60
+culture_g_justification: "Capitaine et recordman de sélections de l’Italie, utile dans les quiz de rugby mais moins transversal que les grandes vedettes internationales."
 ---
-
 ![Image de Sergio Parisse](https://upload.wikimedia.org/wikipedia/commons/8/86/ST_vs_SF_-_Sergio_Parisse_1.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_6 :
   - Hibou
 questions:
  - Déesse romaine à laquelle des temples sur l'Aventin et l'Esquilin étaient consacrés,  j'étais célébrée par les musiciens, surtout les joueurs de flûte. Introduite dans la triade dite Capitolino aux côtés de Junon et Jupiter...
+culture_g_score: 72
+culture_g_justification: "Minerve est une divinité romaine importante, utile pour les équivalences avec Athéna et les thèmes de la sagesse, de la guerre et des arts."
 ---
-
 ![Image de Minerve](https://upload.wikimedia.org/wikipedia/commons/d/d1/Minerve%2C_France_-_panoramio_%287%29.jpg)
 
 ###### Questions

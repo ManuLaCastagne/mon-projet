@@ -20,9 +20,9 @@ indice_6 :
   - répliques cultes
 questions:
  - A quel humoriste, né en 1936, reconnaissable à son chapeau melon et à son accent yiddish disait "P't'être que ça marchera..." ou "On n'est pas des sauvages, tout d'même!" ?
+culture_g_score: 47
+culture_g_justification: "Humoriste français reconnaissable par son personnage de scène et quelques rôles, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Popeck](https://upload.wikimedia.org/wikipedia/commons/c/c4/Popeck_en_spectacle_au_CCMP_de_Bures_le_26_03_2010.JPG)
 
 ###### Questions

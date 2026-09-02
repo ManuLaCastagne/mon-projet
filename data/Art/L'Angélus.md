@@ -23,8 +23,9 @@ indice_6 :
   - Musée d'Orsay
 questions:
  - Tableau de Jean-François Millet figurant un couple de paysans en train de prier, je suis…
+culture_g_score: 68
+culture_g_justification: "L’Angélus est un tableau très connu de Millet, régulièrement associé au monde paysan, à Barbizon et à l’imaginaire français."
 ---
-
 ![Image de L'Angélus](https://upload.wikimedia.org/wikipedia/commons/5/57/Jean-Fran%C3%A7ois_Millet_Angelus.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Vltava
 questions:
  - Nous venons d'entendre un extrait des "Duos moraves", des oeuvres qu'Anton Dvorak a composées en s'inspirant de chants populaires de la région de Moravie. Dans la partie orientale de quel pays actuel...
+culture_g_score: 80
+culture_g_justification: "La République tchèque revient régulièrement grâce à Prague, la Révolution de velours, la séparation tchécoslovaque, la bière et l’histoire européenne."
 ---
-
 ![Image de République Tchèque](https://upload.wikimedia.org/wikipedia/commons/2/27/Czech_Republic_-_landscape_near_Kory%C4%8Dany.jpg)
 
 ![[Carte_République Tchèque.png]]

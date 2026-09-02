@@ -1,3 +1,8 @@
+---
+culture_g_score: 64
+culture_g_justification: "Aliment mondialement répandu offrant des liens avec les cuisines, les céréales et plusieurs références culturelles."
+---
+
 
 ###### Questions 
 

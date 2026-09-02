@@ -22,10 +22,9 @@ indice_6 :
   - hors-la-loi
 questions:
  - Et je mets notamment en scène des rhinocéros dans des rôles de soldats. Me déroulant dans la forêt de Sherwood, mon héros est...
+culture_g_score: 88
+culture_g_justification: "Figure légendaire abondamment exploitée par l'histoire, la littérature, le cinéma, l'animation et la culture populaire."
 ---
-
-
-
 ![Image de Robin des Bois](https://upload.wikimedia.org/wikipedia/commons/a/a2/Robin_des_Bois_%28com%C3%A9die_musicale%29_02.JPG)
 
 ###### Questions

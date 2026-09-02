@@ -20,11 +20,9 @@ indice_5:
   - Académie Goncourt
 indice_6:
   - Les Cabochards
+culture_g_score: 60
+culture_g_justification: "Écrivain associé aux Croix de bois et à l’anecdote de Boronali, références intéressantes mais relativement peu nombreuses."
 ---
-
-
-
-
 ![Image de Roland Dorgelès](https://upload.wikimedia.org/wikipedia/commons/b/bf/Roland_Dorgel%C3%A8s_b_Meurisse_1923.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Figure sur le billet de un dollar
 indice_6 : 
   - Inauguration en 1789
+culture_g_score: 100
+culture_g_justification: "Père fondateur et premier président des États-Unis, incontournable pour l’indépendance américaine, les institutions et la naissance de la république."
 ---
-
 ![Image de George Washington](https://upload.wikimedia.org/wikipedia/commons/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg)
 
 ###### Questions

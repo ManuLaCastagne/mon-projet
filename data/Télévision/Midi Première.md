@@ -20,8 +20,9 @@ indice_6 :
   - plateau avec des invités célèbres
 questions:
  - Quelle émission tournée en extérieur débutant en 1975 fut présentée le midi par Danièle Gilbert ?
+culture_g_score: 44
+culture_g_justification: "Ancienne émission de variétés associée à Danièle Gilbert, principalement utile dans des questions de nostalgie télévisuelle."
 ---
-
 ![Image de Midi Première](https://upload.wikimedia.org/wikipedia/commons/a/a7/DanieleGilbert-1981-Toulouse.png)
 
 ###### Questions

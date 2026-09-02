@@ -18,8 +18,9 @@ indice_5 :
   - Coulomb (unité)
 indice_6 : 
   - 18ème siècle
+culture_g_score: 73
+culture_g_justification: "Charles-Augustin de Coulomb est un classique de physique grâce à son unité et à sa loi, malgré une transversalité limitée."
 ---
-
 ![Image de Charles-Augustin de Coulomb](https://upload.wikimedia.org/wikipedia/commons/5/59/Charles_de_coulomb.jpg)
 
 ###### Questions

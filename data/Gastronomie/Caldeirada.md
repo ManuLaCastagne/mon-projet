@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Portugal
+culture_g_score: 40
+culture_g_justification: "Plat portugais identifiable, mais dont les apparitions restent occasionnelles et surtout centrées sur la cuisine lusitanienne."
 ---
 ###### Questions 
 

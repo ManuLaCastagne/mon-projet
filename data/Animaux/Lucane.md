@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de force
 questions:
  - De C qui vit dans les troncs en décomposition, je me nourris de sève, une fois adulte, dans les forêts de feuillus. Pourvu d'un corps robuste et luisant noir ou brun roussâtre, je peux mordre quand on m'attrape. Coléoptère dont le mâle porte des fortes mandibules...
+culture_g_score: 60
+culture_g_justification: "Coléoptère spectaculaire et emblématique des forêts européennes, avec des angles sur le dimorphisme, Darwin et la conservation."
 ---
-
-
 ![Image de Lucane](https://upload.wikimedia.org/wikipedia/commons/c/c4/Dolomiti_Lucane_tra_le_nubi.jpg)
 
 ###### Questions

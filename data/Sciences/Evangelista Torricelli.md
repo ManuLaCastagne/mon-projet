@@ -20,8 +20,9 @@ indice_6 :
   - Mesure de la pression atmosphérique
 questions:
  - En 1643, quel mathématicien et physicien italien met en évidence la pression atmosphérique au moyen d'un tube à mercure ?
+culture_g_score: 64
+culture_g_justification: "Physicien associé au baromètre, au vide et à une unité de pression, avec plusieurs entrées classiques mais spécialisées."
 ---
-
 ![Image de Evangelista Torricelli](https://upload.wikimedia.org/wikipedia/commons/3/35/Evangelista_Torricelli_by_Lorenzo_Lippi_%28circa_1647%2C_Galleria_Silvano_Lodi_%26_Due%29.jpg)
 
 ###### Questions

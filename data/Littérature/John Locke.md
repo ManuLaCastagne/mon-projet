@@ -18,8 +18,9 @@ indice_5 :
   - Empirisme
 indice_6 : 
   - Philosophe du Siècle des Lumières
+culture_g_score: 100
+culture_g_justification: "Locke est fondamental pour l’empirisme, la philosophie politique, les droits naturels, les Lumières et l’histoire intellectuelle des États-Unis."
 ---
-
 ![Image de John Locke](https://upload.wikimedia.org/wikipedia/commons/0/0f/John_Locke_by_John_Greenhill.jpg)
 
 ###### Questions

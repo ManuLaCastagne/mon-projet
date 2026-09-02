@@ -22,8 +22,9 @@ indice_5 :
   - Puget Sound
 indice_6 : 
   - Seattle Seahawks
+culture_g_score: 76
+culture_g_justification: "Grande ville américaine associée à Boeing, Starbucks, la Space Needle, la musique et la côte Pacifique."
 ---
-
 ![[Carte_Seattle.png]]
 
 ###### Questions

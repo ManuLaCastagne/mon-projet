@@ -20,8 +20,9 @@ indice_6 :
   - blocus naval
 questions:
  - Dès la 1ère guerre mondiale, quel sous-marin allemand attaqua les bateaux alliés qui traversaient l'Atlantique ?
+culture_g_score: 80
+culture_g_justification: "Les U-Boote sont un repère fréquent des deux guerres mondiales, de la guerre sous-marine et de la bataille de l’Atlantique."
 ---
-
 ![Image de U-boot](https://upload.wikimedia.org/wikipedia/commons/9/9e/U-Boot_Logo.svg)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_6 :
   - esthétique fonctionnelle
 questions:
  - En 1926 à Dessau, quel architecte allemand réalise le bâtiment de son école d'architecture école d'architecture et d'arts appliqués du Bauhaus ?
+culture_g_score: 85
+culture_g_justification: "Fondateur du Bauhaus et figure centrale de l’architecture moderne, ouvrant sur le design, l’enseignement, l’Allemagne et les États-Unis."
 ---
-
-
 ![Image de Walter Gropius](https://upload.wikimedia.org/wikipedia/commons/b/b5/WalterGropius-1919.jpg)
 
 ###### Questions

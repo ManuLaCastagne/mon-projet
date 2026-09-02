@@ -20,9 +20,9 @@ indice_6:
   - Médaillée olympique
 questions:
   - Quelle skieuse américain bat le nombre de victoires (63) du monde en remportant le Super G de 2015 ?
+culture_g_score: 77
+culture_g_justification: "Grande championne de ski alpin, régulièrement citée pour ses victoires olympiques, ses records et sa résilience face aux blessures."
 ---
-
-
 ![Image de Lindsay Vonn](https://upload.wikimedia.org/wikipedia/commons/7/73/Take_a_photo_with_me...Lindsay_Vonn_%2848711376592%29.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Symphonie en ut
 questions:
  - 1er grand prix de Rome en 1857, j'ai composé des oeuvres comme "Djamileh" et "Les pêcheurs de perles". Ayant le succès en 1872 avec "L'Arlésienne"…
+culture_g_score: 80
+culture_g_justification: "Compositeur de Carmen, œuvre lyrique majeure et très fréquente, Bizet ouvre plusieurs angles sur l’opéra, la musique française et le romantisme."
 ---
-
 ![Image de Georges Bizet](https://upload.wikimedia.org/wikipedia/commons/9/96/Georges_bizet.jpg)
 
 ###### Questions

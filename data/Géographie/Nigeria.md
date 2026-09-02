@@ -22,8 +22,9 @@ indice_6 :
   - Golfe de Guinée
 questions:
  - Dans quel pays, le plus peuplé d'Afrique, le yoruba est-il l'une des langues principales, parlée par plus de 25 millions de personnes?
+culture_g_score: 80
+culture_g_justification: "Pays majeur d'Afrique, fréquent dans les quiz pour sa population, son pétrole, ses villes, ses fleuves et son poids politique régional."
 ---
-
 ![Image de Nigeria](https://upload.wikimedia.org/wikipedia/commons/f/ff/Nigeria_w1_locator.svg)
 
 ![[Carte_Nigeria.png]]

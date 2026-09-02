@@ -22,9 +22,9 @@ indice_6 :
   - valet et servante
 questions:
  - Pièce de théâtre créée en 1730, je commence par cette réplique de Sylvia à sa suivante Lisette  "Mais, encore une fois, de quoi vous mêlez-vous?  Pourquoi répondre de mes sentiments?"
+culture_g_score: 80
+culture_g_justification: "Comédie classique très fréquente, permettant des questions sur Marivaux, le travestissement, les rapports sociaux et ses personnages emblématiques."
 ---
-
-
 ![Image de Le Jeu de l'amour et du hasard](https://upload.wikimedia.org/wikipedia/commons/3/35/MarivauxGameLoveChance.jpg)
 
 ###### Questions

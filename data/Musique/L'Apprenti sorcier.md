@@ -22,8 +22,9 @@ indice_6 :
   - Compositions
 questions:
  - Quel pièce instrumentale de Paul Dukas...
+culture_g_score: 81
+culture_g_justification: "Œuvre classique rendue mondialement mémorable par Fantasia, reliant Paul Dukas, Goethe, la musique symphonique et l’animation Disney."
 ---
-
 ![Image de Apprenti sorcier](https://upload.wikimedia.org/wikipedia/commons/f/ff/Peter_Grant_signing_%282460034252%29.jpg)
 
 ###### Questions

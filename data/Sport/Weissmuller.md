@@ -20,8 +20,9 @@ indice_6 :
   - Hollywood
 questions:
  - Quel ancien nageur américain, 5 fois champion olympique entre 1924 et 1928, a été l'interprète de Tarzan au cinéma?
+culture_g_score: 80
+culture_g_justification: "Figure à double ancrage, champion olympique de natation et interprète emblématique de Tarzan, souvent exploitable en quiz."
 ---
-
 ![Image de Weissmuller](https://upload.wikimedia.org/wikipedia/commons/6/6e/Johny_Weissmuller-publicity.JPG)
 
 ###### Questions

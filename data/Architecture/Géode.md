@@ -21,12 +21,9 @@ indice_5:
   - Structure géodésique
 indice_6:
   - Dôme argenté
+culture_g_score: 60
+culture_g_justification: "La Géode est un repère parisien original associé à l’IMAX et au cinéma immersif, mais ses possibilités de questions restent relativement limitées."
 ---
-
-
-
-
-
 ![Image de Géode](https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/La_G%C3%A9ode_-_La_Vilette_-_Paris.jpg/2560px-La_G%C3%A9ode_-_La_Vilette_-_Paris.jpg)
 
 ###### Questions

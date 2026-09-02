@@ -20,8 +20,9 @@ indice_6 :
   - Andrea Agnelli
 questions:
  - Depuis 2012, quel club de football a remporté les 9 derniers titres de champion d'Italie?
+culture_g_score: 80
+culture_g_justification: "Club emblématique du football italien, exploitable par son histoire, ses titres, ses joueurs, ses compétitions et le scandale Calciopoli."
 ---
-
 ![Image de Juventus](https://upload.wikimedia.org/wikipedia/commons/f/f8/Juventus_Football_Club_1962-1963.jpg)
 
 ###### Questions

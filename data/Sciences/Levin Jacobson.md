@@ -20,8 +20,9 @@ indice_6 :
   - Transitions de phase
 questions:
  - Quel anatomiste danois a donné son nom à l'organe chimio-sensible des serpents, situé dans la voûte du palais également appelé organe voméronasale ? Quetzal Di Natale ?
+culture_g_score: 0
+culture_g_justification: "Référence apparemment obscure et non établie de la culture scientifique généraliste, avec des usages quiz pratiquement inexistants."
 ---
-
 ![Image de Levin Jacobson](https://upload.wikimedia.org/wikipedia/commons/2/2b/Ludvig_Levin_Jacobson.jpg)
 
 ###### Questions

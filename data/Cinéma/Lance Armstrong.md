@@ -22,8 +22,9 @@ indice_6 :
   - The Armstrong Lie
 questions:
  - En 2004, quel champion cycliste américain Vince Vaughn rencontre-t-il dans une séquence de la comédie "Même pas mal! (Dodgeball)"?
+culture_g_score: 64
+culture_g_justification: "Personnalité sportive mondialement connue grâce au dopage et à sa chute, avec quelques prolongements cinématographiques, mais peu d’angles culturels indépendants."
 ---
-
 ![Image de Lance Armstrong](https://upload.wikimedia.org/wikipedia/commons/4/47/Lance_Armstrong_%28Tour_Down_Under_2009%29.jpg)
 
 ###### Questions

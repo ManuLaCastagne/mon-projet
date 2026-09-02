@@ -23,8 +23,9 @@ indice_6 :
   - Loisirs
 questions:
  - Quel parc de Moscou, dont le nom courant évoque celui d'un écrivain russe, accueille...
+culture_g_score: 52
+culture_g_justification: "Parc moscovite identifiable par son nom, son histoire soviétique et sa localisation, mais offrant peu d’angles indépendants."
 ---
-
 ![Image de Parc Gorki](https://upload.wikimedia.org/wikipedia/commons/b/b9/Moscow_Gorky_Park_main_portal_08-2016_img1.jpg)
 
 ![[Carte_Parc Gorki.png]]

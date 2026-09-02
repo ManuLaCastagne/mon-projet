@@ -18,9 +18,9 @@ indice_6 :
   - héros de la Grèce antique
 questions:
  - Quel athlète, originaire de Crotone, était un fameux lutteur, vainqueur à 6 reprises...
+culture_g_score: 48
+culture_g_justification: "Milon de Crotone est un classique des anecdotes sportives antiques, mais sa présence reste ponctuelle et centrée sur ses exploits de force."
 ---
-
-
 ![Image de Milon de Crotone](https://upload.wikimedia.org/wikipedia/commons/f/f4/Falconet_-_Milon_de_Crotone_02.jpg)
 
 ###### Questions

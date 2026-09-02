@@ -22,8 +22,9 @@ indice_6:
   - Tchécoslovaque
 questions:
   - Quel artiste tchèque, installé à Paris dès 1888, est connu pour ses affiche publicitaires ?
+culture_g_score: 80
+culture_g_justification: "Artiste emblématique de l’Art nouveau, associé aux affiches de Sarah Bernhardt, à Paris, aux arts décoratifs et à l’Épopée slave."
 ---
-
 ![Image de Alfons Mucha](https://upload.wikimedia.org/wikipedia/commons/2/29/Alfons_Mucha_LOC_3c05828u.jpg)
 
 ###### Questions

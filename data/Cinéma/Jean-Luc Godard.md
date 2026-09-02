@@ -20,8 +20,9 @@ indice_5:
   - influenceur du cinéma
 indice_6:
   - expérimentation visuelle
+culture_g_score: 100
+culture_g_justification: "Figure fondatrice de la Nouvelle Vague, dont les films, les innovations formelles et les collaborations sont des marronniers cinéphiles."
 ---
-
 ![Image de Jean-Luc Godard](https://upload.wikimedia.org/wikipedia/commons/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg)
 
 ###### Questions

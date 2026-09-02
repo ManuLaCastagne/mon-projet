@@ -20,8 +20,9 @@ indice_6 :
   - Spéléologue
 questions:
  - Formation minérale dont le nom, attesté dès 1718, sert également à désigner un motif décoratif en architecture, je suis composée de carbonate de calcium. Me constituant très lentement selon des contours variés, je prends des formes de draperies ou de tiges.
+culture_g_score: 56
+culture_g_justification: "Formation naturelle très reconnaissable et classique des questions de géologie, mais limitée à quelques distinctions et faits de spéléologie."
 ---
-
 ![Image de Stalactite](https://upload.wikimedia.org/wikipedia/commons/0/03/Thomas_Bresson_-_Creation-goutte-eau-redim_%28by%29.jpg)
 
 ###### Questions

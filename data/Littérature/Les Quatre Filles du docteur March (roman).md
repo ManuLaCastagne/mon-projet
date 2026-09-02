@@ -20,8 +20,9 @@ indice_5:
   - Amy
 indice_6:
   - Concord Massachusetts
+culture_g_score: 80
+culture_g_justification: "Grand classique de la littérature anglophone, régulièrement interrogé via ses quatre sœurs, son auteure, ses adaptations et son contexte historique."
 ---
-
 ![[Pasted image 20250421105146.png]]
 ###### Questions
 

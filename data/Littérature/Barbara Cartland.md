@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Quelle romancière, disparue en 2000 et auteure de plus de 700 livres traduits en une quarantaine de langues, était spécialiste du roman rose?
  - Quelle romancière britannique, disparu en 2000, s'habillait souvent en rose...
+culture_g_score: 44
+culture_g_justification: "Auteure très prolifique et connue dans le roman sentimental, mais sa portée culturelle et sa fréquence quiz restent limitées."
 ---
-
 ![Image de Barbara Cartland](https://upload.wikimedia.org/wikipedia/commons/e/ee/Dame_Barbara_Cartland_Allan_Warren.jpg)
 
 ###### Questions

@@ -18,15 +18,9 @@ indice_6 :
   - Lares et Pénates
 questions:
  - Dans le culte romain, quelles divinités domestiques présidaient, avec les lares, au maintien et à l'accroissement de la prospérité du foyer?
+culture_g_score: 40
+culture_g_justification: "Divinités domestiques romaines utiles pour distinguer les cultes du foyer, les Pénates restent néanmoins un sujet spécialisé et peu récurrent."
 ---
-
-
-
-
-
-
-
-
 ![Image de Pénates](https://upload.wikimedia.org/wikipedia/commons/a/ae/Mus%C3%A9e_Sainte-Menehould_P%C3%A9nates_29112014.jpg)
 
 ###### Questions

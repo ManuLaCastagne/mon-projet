@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Italie
+culture_g_score: 48
+culture_g_justification: "Légume très courant, mais le brocoli comme variété et son identification botanique sont peu questionnés."
 ---
 ###### Questions 
 

@@ -20,8 +20,9 @@ indice_6 :
   - programmes de proximité
 questions:
  - Notamment associé à un logo formé d'un hexagone enfermé entre 2 lignes courbes formant un oeil, j'étais constitué soit de 3 mots, soit de 3 lettres.
+culture_g_score: 72
+culture_g_justification: "Ancienne chaîne publique importante, utile pour des questions sur l’histoire de l’audiovisuel français, les régions et France 3."
 ---
-
 ![Image de FR3](https://upload.wikimedia.org/wikipedia/commons/2/29/Balduina_fr.JPG)
 
 ###### Questions

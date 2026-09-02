@@ -23,8 +23,9 @@ indice_6 :
   - martyrium
 questions:
  - A Rome, quel petit sanctuaire circulaire édifié par Bramante et connu aussi sous le nom de San Pietro in Montorio est entouré de colonnes?
+culture_g_score: 64
+culture_g_justification: "Édifice emblématique de la Renaissance italienne associé à Bramante, à Rome et aux principes classiques, mais de portée assez spécialisée."
 ---
-
 ![Image de Tempietto](https://upload.wikimedia.org/wikipedia/commons/7/71/Tempietto_di_Bramante02783.jpg)
 
 ###### Questions

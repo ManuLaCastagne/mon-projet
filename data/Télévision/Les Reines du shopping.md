@@ -19,8 +19,9 @@ indice_5 :
   - style vestimentaire
 indice_6 : 
   - compétition féminine
+culture_g_score: 40
+culture_g_justification: "Émission populaire liée à Cristina Cordula et à la mode, mais son intérêt culturel demeure principalement télévisuel."
 ---
-
 ![Image de Les Reines du shopping](https://upload.wikimedia.org/wikipedia/commons/f/f3/Ancienne_%22Pharmacie_du_Soleil%22_du_Putto_et_ses_chim%C3%A8res.jpg)
 
 ###### Questions

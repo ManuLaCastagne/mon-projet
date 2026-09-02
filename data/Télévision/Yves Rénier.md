@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Je me suis surtout fait connaître à la télévision dans "Belphégor" et "Les Globe-trotters" avant d'incarner le commissaire Moulin dans une série dont j'ai réalisé certains épisodes. Acteur disparu…
  - Qui a incarné le Commissaire Moulin à la TV, interprète le jeune André Bellegarde dans "Belphégor" ?
+culture_g_score: 64
+culture_g_justification: "Figure durable de la télévision française surtout connue pour Commissaire Moulin, avec quelques repères supplémentaires de réalisation et de cinéma."
 ---
-
 ![Image de Yves Rénier](https://upload.wikimedia.org/wikipedia/commons/1/1a/Yves_R%C3%A9nier_%28cropped%29.jpg)
 
 ###### Questions

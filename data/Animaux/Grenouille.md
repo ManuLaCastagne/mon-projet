@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de la métamorphose
 questions:
  - Quel amphibien sauteur et nageur, vivant au bord des étangs, est représenté par les espèces verte…
+culture_g_score: 84
+culture_g_justification: "La grenouille est une référence très connue, exploitable en zoologie, biologie, écologie, littérature et culture populaire."
 ---
-
-
 ![Image de Grenouille](https://upload.wikimedia.org/wikipedia/commons/c/c6/Golden-eyed_tree_frog_%28Agalychnis_annae%29.jpg)
 
 ###### Questions

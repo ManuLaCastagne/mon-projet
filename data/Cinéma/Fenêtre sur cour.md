@@ -22,8 +22,9 @@ indice_6 :
   - meurtre présumé
 questions:
  - Dans quel film d'Alfred Hitchcock James Stewart incarne-t-il un photographe...
+culture_g_score: 92
+culture_g_justification: "Classique incontournable d'Hitchcock, fréquemment utilisé pour ses acteurs, son intrigue, sa mise en scène et son réalisateur."
 ---
-
 ![Image de Fenêtre sur cour](https://upload.wikimedia.org/wikipedia/commons/b/bd/Fen%C3%AAtre_sur_cour_%284196645199%29.jpg)
 
 ###### Questions

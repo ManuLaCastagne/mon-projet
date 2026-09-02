@@ -22,8 +22,9 @@ indice_6 :
   - humour absurde et burlesque
 questions:
  - En 2011, quel film avec Alexandre Astier, Manu Payet et Jérémie Renier a pour cadre le royaume de France au XVIe siècle?
+culture_g_score: 20
+culture_g_justification: "Comédie française parodique peu connue, dont les possibilités de questions restent très limitées."
 ---
-
 ![Image de Les Aventures de Philibert, capitaine puceau]()
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6:
   - créé par David Morrell
 questions:
   - Quel nom porte le colonel incarné par Richard Crenna dans les 1ers films de la saga "Rambo" ?
+culture_g_score: 52
+culture_g_justification: "Personnage secondaire emblématique de Rambo, exploitable dans quelques questions de cinéma et de fiction."
 ---
-
 ![Image de Samuel Trautman](https://upload.wikimedia.org/wikipedia/commons/b/b9/Down_South%2C_or%2C_An_Englishman%27s_experience_at_the_seat_of_the_American_war_%28IA_downsoutheng01daysrich%29.pdf)
 
 ###### Questions

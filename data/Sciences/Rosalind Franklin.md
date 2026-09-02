@@ -18,8 +18,9 @@ indice_5 :
   - Cristallographie
 indice_6 : 
   - Double hélice
+culture_g_score: 80
+culture_g_justification: "Scientifique devenue incontournable dans les questions sur l’ADN, la cristallographie, la diffraction et la place des femmes en sciences."
 ---
-
 ![Image de Rosalind Franklin](https://upload.wikimedia.org/wikipedia/commons/9/97/Rosalind_Franklin.jpg)
 
 ###### Questions

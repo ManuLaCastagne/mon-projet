@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de grâce et liberté
 questions:
  - Quelle grande raie cornue de l'Atlantique tropical, parfois appelée diable des mers, est représentée par des individus atteignant 5 m d'envergure?
+culture_g_score: 64
+culture_g_justification: "Animal marin spectaculaire et assez connu, exploitable dans des questions sur la zoologie, les océans et la conservation."
 ---
-
 ![Image de Raie manta](https://upload.wikimedia.org/wikipedia/commons/f/fc/Giant_Manta_AdF.jpg)
 
 ###### Questions

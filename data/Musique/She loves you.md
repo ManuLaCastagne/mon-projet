@@ -22,8 +22,9 @@ indice_6 :
   - single le plus vendu au Royaume-Uni dans les années 60
 questions:
  - Dans quelle chanson des The Beatles entend-on "Yeah yeah yeah" ?
+culture_g_score: 92
+culture_g_justification: "« She Loves You » est l’un des grands symboles de la Beatlemania, régulièrement mobilisé pour les Beatles, la pop britannique et l’histoire des charts."
 ---
-
 ![Image de She loves you](https://upload.wikimedia.org/wikipedia/commons/3/36/The_Beatles_-_First_Pressings_-_She_Loves_You_%281963-08-23._Parlophone_R5055._SideB._I%E2%80%99ll_Get_You%29%2C_I_Want_To_Hold_Your_Hand_%281963-11-29._Parlophone_R5084._SideB._This_Boy%29_-_%28taken_on_2018-11-24_by_H._Michael_Karshis%29.jpg)
 
 ###### Questions

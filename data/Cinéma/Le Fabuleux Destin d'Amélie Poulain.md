@@ -22,9 +22,9 @@ indice_6 :
   - musique de Yann Tiersen
 questions:
  - Quelle héroïne, d'un film de Jean-Pierre Jeunet est incarnée par Audrey Tautou ?
+culture_g_score: 84
+culture_g_justification: "Film français mondialement identifiable, très rentable pour Jeunet, Tautou, Montmartre, Yann Tiersen et les Oscars."
 ---
-
-
 ![Image de Amélie Poulain](https://upload.wikimedia.org/wikipedia/commons/e/ef/Am%C3%A9lie_%28Piano_music_recording%2C_The_Fabulous_Destiny_of_Am%C3%A9lie_Poulai%29_played_in_the_real_piano_classroom_by_piano_teacher_Jason_M._C.%2C_Han_%28Jixun%29.wav)
 
 ###### Questions

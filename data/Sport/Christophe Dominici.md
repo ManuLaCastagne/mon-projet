@@ -20,8 +20,9 @@ indice_6 :
   - Légende du rugby français
 questions:
  - Ailier virevoltant, j'ai inscrit 25 essais avec l'équipe  de France, dont l'un mémorable contre les All Blacks en Coupe du monde en 99. Figure du Stade français, avec lequel j'ai  remporté 5 Boucliers de Brennus. Disparu tristement en 2020.
+culture_g_score: 60
+culture_g_justification: "Son essai en demi-finale de la Coupe du monde 1999 en fait une figure classique du rugby français."
 ---
-
 ![Image de Christophe Dominici](https://upload.wikimedia.org/wikipedia/commons/e/e7/Christophe_Dominici_%28cropped%29.JPG)
 
 ###### Questions

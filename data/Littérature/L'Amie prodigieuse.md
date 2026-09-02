@@ -22,8 +22,9 @@ indice_6 :
   - années 50
 questions:
  - J'évoque à différents âges de la ville l'amitié ambivalente de Rafaella et Elena, toutes 2 issues d'un quartier pauvre de Naples. Saga d'Elena Ferrante ayant fait l'objet d'une adaptation télévisée, je suis
+culture_g_score: 76
+culture_g_justification: "Premier tome d’une saga internationale et adaptée à la télévision, offrant plusieurs repères sur Elena Ferrante et Naples."
 ---
-
 ![Image de L'Amie prodigieuse](https://upload.wikimedia.org/wikipedia/commons/1/11/2019-09-17_My_Brilliant_Friend_%28TV_series%29_in_Piazza_dei_Cavalieri_07.jpg)
 
 ###### Questions

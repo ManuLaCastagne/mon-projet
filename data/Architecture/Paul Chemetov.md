@@ -23,8 +23,9 @@ indice_6:
   - Collaborations avec Borja Huidobro
 questions:
   - Quel architecte français s'est associé à Huidobro pour concevoir le siège du Ministère de l'Economie et des Finances à Paris ?
+culture_g_score: 47
+culture_g_justification: "Architecte français significatif surtout grâce à quelques réalisations institutionnelles, mais peu connu hors des amateurs d'architecture."
 ---
-
 ![Image de Paul Chemetov](https://upload.wikimedia.org/wikipedia/commons/e/e5/Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_Mars_2022.jpg)
 
 ###### Questions

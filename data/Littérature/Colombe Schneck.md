@@ -22,8 +22,9 @@ indice_6 :
   - Dix-sept ans
 questions:
  - En 2010, quelle écrivaine et animatrice radio raconte l'histoire de 2 journalistes dans le roman "Une femme célèbre"?
+culture_g_score: 31
+culture_g_justification: "Autrice et journaliste contemporaine relativement confidentielle, dont les œuvres offrent peu de prises aux quiz généralistes."
 ---
-
 ![Image de Colombe Schneck](https://upload.wikimedia.org/wikipedia/commons/6/6b/Colombe_Schneck_%C3%A0_la_foire_du_livre_2010_de_Brive_la_Gaillarde.JPG)
 
 ###### Questions

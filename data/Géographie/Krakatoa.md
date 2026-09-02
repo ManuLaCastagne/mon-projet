@@ -23,8 +23,9 @@ indice_6 :
   - Détroit de la Sonde
 questions:
  - quel volcan d'Indonésie a connu une violente explosion en 1883 ?
+culture_g_score: 77
+culture_g_justification: "L’éruption de 1883 fait du Krakatoa un volcan très fréquemment mobilisé dans les questions sur les catastrophes naturelles et le climat."
 ---
-
 ![[Carte_Krakatoa.png]]
 
 ###### Questions

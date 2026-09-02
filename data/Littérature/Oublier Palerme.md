@@ -20,8 +20,9 @@ indice_5:
   - années 1960
 indice_6:
   - Salvatore Dodo Modica
+culture_g_score: 40
+culture_g_justification: "Roman récompensé par le Goncourt et adapté au cinéma, mais aujourd’hui relativement peu connu et limité à quelques angles."
 ---
-
 ![Image de Oublier Palerme](https://upload.wikimedia.org/wikipedia/commons/e/ee/Du_climat_de_l%27Egypte_-_de_sa_valeur_dans_les_affections_de_la_poitrine%2C_comme_station_hibernale%2C_compar%C3%A9e_%C3%A0_celles_de_Mad%C3%A8re%2C_d%27Alger%2C_de_Palerme%2C_de_Naples%2C_de_Rome%2C_de_Venise_%28IA_duclimatdelegypt00schn%29.pdf)
 
 ###### Questions

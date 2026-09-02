@@ -20,9 +20,9 @@ indice_6 :
   - Matrice extracellulaire
 questions:
  - Dans le corps humain,  quelle protéine dont le nom est issu du grec signifiant "corne" est abondante  dans la couche superficielle  de l'épiderme ?
+culture_g_score: 64
+culture_g_justification: "La kératine est une notion scientifique familière liée aux cheveux, aux ongles et aux phanères, mais avec une portée culturelle limitée."
 ---
-
-
 ![Image de Kératine](https://upload.wikimedia.org/wikipedia/commons/8/85/Keratin.jpg)
 
 ###### Questions

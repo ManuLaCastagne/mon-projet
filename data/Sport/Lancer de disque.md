@@ -20,8 +20,9 @@ indice_6 :
   - Technique du moulinet
 questions:
  - Dans quelle discipline l'américain Hall Horter remporte-t-il à Cinéma/Mexico en 1968 sa 4ème médaille d'or olympique consécutive ?
+culture_g_score: 64
+culture_g_justification: "Épreuve olympique ancienne, liée à la Grèce antique, au Discobole et à l’athlétisme moderne."
 ---
-
 ![Image de Lancer de disque](https://upload.wikimedia.org/wikipedia/commons/d/d7/No%C3%ABl_%28lancer_de_disque%2C_athl%C3%A9tisme_%C3%A0_Stamford_Bridge_%29_%28CN%29_-_btv1b53231860j.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - soutien-gorge
 questions:
  - En 1889, à l'Exposition universelle, qui a révolutionné la lingerie féminine avec le soutien-gorge ?
+culture_g_score: 43
+culture_g_justification: "Cadolle constitue un repère original de l’histoire de la lingerie et de l’innovation vestimentaire, mais son usage en quiz est limité."
 ---
-
 ![Image de Herminie Cadolle](https://upload.wikimedia.org/wikipedia/commons/c/c9/Bien-%C3%AAtre_-_Herminie_Cadolle.png)
 
 ###### Questions

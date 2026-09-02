@@ -22,8 +22,9 @@ indice_5 :
   - Fondée en 1947
 indice_6 : 
   - Située en Afrique australe
+culture_g_score: 40
+culture_g_justification: "Capitale d’un pays africain relativement peu présent dans les quiz, avec quelques angles liés au Malawi, à l’agriculture et au lac Malawi."
 ---
-
 ![Image de Lilongwe](https://upload.wikimedia.org/wikipedia/commons/9/99/Lilongwe_Area_2.jpg)
 
 ![[Carte_Lilongwe.png]]

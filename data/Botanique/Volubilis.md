@@ -13,8 +13,9 @@ indice_5 :
   - Liseron bleu
 indice_6 : 
   - Plante ornementale pour couvrir les clôtures et pergolas
+culture_g_score: 44
+culture_g_justification: "Plante grimpante ornementale parfois connue sous le nom de liseron, mais de portée limitée en quiz généraliste."
 ---
-
 ![Image de Volubilis](https://upload.wikimedia.org/wikipedia/commons/d/d2/Volubilis_1990.jpg)
 
 ###### Questions

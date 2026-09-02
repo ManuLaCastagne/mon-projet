@@ -15,9 +15,9 @@ indice_6:
   - Construction de chalets
 questions:
   - Quel conifère de la famille des abiétacées à cime pyramidale et à branches pendantes a pour nom scientifique 'larix' ?
+culture_g_score: 60
+culture_g_justification: "Conifère distinctif par son caractère caduc, lié aux Alpes, au bois et à l'histoire architecturale, donc utile mais secondaire."
 ---
-
-
 ![Image de Mélèze](https://upload.wikimedia.org/wikipedia/commons/4/49/Zostera_marina_Shikoku_Aquarium.jpg)
 
 ###### Questions

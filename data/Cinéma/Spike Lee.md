@@ -22,8 +22,9 @@ indice_6 :
   - Blackkklansman
 questions:
  - En 1992, à quel réalisateur doit-on le film "Malcolm X" ?
+culture_g_score: 80
+culture_g_justification: "Réalisateur important du cinéma afro-américain, abordable par ses films, ses thèmes politiques, ses récompenses et son style visuel."
 ---
-
 ![Image de Spike Lee](https://upload.wikimedia.org/wikipedia/commons/e/e4/Spike_Lee_Cannes_2018.jpg)
 
 ###### Questions

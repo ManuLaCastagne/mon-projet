@@ -16,8 +16,9 @@ indice_6 :
 questions:
  - Quel serpent très venimeux d'Amérique, également appelé crotale, possède une queue formée d'écailles qu'il fait vibrer pour effrayer un intrus ?
  - Quel serpent de la famille des vipéridés dont l'espèce dite durisse figure parmi les plus dangereuses à cause de son venin, est aussi appelé "crotale" ?
+culture_g_score: 64
+culture_g_justification: "Reptile emblématique d’Amérique, facilement identifiable par sa sonnette et régulièrement utilisé dans les quiz animaliers."
 ---
-
 ![Image de Serpent à sonnette](https://upload.wikimedia.org/wikipedia/commons/b/b5/Le_Royer%2C_serpent_%C3%A0_sonnette_%28M%C3%A9nagerie_r%C3%A9publicaine%2C_26%29.jpg)
 
 ###### Questions

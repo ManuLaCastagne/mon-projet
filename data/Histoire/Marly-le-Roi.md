@@ -20,8 +20,9 @@ indice_6 :
   - siècle des Lumières
 questions:
  - Quel château commandé par Louis XIV associé à une machine a été démoli en 1806 par l'industriel qui l'avait acheté sous la Révolution ?
+culture_g_score: 51
+culture_g_justification: "Commune liée à Louis XIV, au château de Marly et à James Baldwin, mais sujet géographique et historique assez ponctuel."
 ---
-
 ![Image de Marly-le-Roi](https://upload.wikimedia.org/wikipedia/commons/5/52/Abreuvoir_de_Marly-le-Roi_001.JPG)
 
 ###### Questions

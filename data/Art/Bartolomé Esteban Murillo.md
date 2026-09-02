@@ -20,8 +20,9 @@ indice_5:
   - XVIIe siècle
 indice_6:
   - enfants mendiants
+culture_g_score: 64
+culture_g_justification: "Peintre représentatif du Siècle d’or espagnol, utile pour les scènes religieuses et de genre mais moins central que Velázquez ou Goya."
 ---
-
 ![Image de Bartolomé Esteban Murillo](https://upload.wikimedia.org/wikipedia/commons/1/18/The_Barber_Institute_of_Fine_Arts_-_Bartolom%C3%A9_Esteban_Murillo_-_The_Marriage_Feast_at_Cana.jpg)
 
 ###### Questions

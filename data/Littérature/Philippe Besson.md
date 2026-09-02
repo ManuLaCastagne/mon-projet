@@ -22,9 +22,9 @@ indice_6 :
   - Emmanuel Macron
 questions:
  - En 2021, écrivain qui évoque dans "Le Dernier Enfant" le déchirement d'une mère voyant son dernier fils partir ?
+culture_g_score: 47
+culture_g_justification: "Écrivain français contemporain identifiable par ses romans intimes et leurs adaptations, mais de fréquence modérée dans les quiz."
 ---
-
-
 ![Image de Philippe Besson](https://upload.wikimedia.org/wikipedia/commons/5/51/Philippe_Besson_2011_c.jpg)
 
 ###### Questions

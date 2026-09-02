@@ -18,8 +18,9 @@ indice_5 :
   - sécession
 indice_6 : 
   - Ojukwu
+culture_g_score: 67
+culture_g_justification: "Conflit africain important pour la décolonisation, les crises humanitaires et les sécessions, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de guerre civile nigériane]()
 
 ###### Questions

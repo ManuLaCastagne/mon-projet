@@ -20,8 +20,9 @@ indice_5:
   - thriller psychologique
 indice_6:
   - 1964
+culture_g_score: 71
+culture_g_justification: "Film important d’Hitchcock, exploitable par son intrigue, Tippi Hedren, Winston Graham et Bernard Herrmann, avec une fréquence classique mais non exceptionnelle."
 ---
-
 ![Image de Pas de printemps pour Marnie](https://upload.wikimedia.org/wikipedia/commons/a/a5/Alfred_Hitchcock%27s_Marnie_Trailer_-_Tippi_Hedren_%26_Sean_Connery_%281%29.png)
 
 ###### Questions

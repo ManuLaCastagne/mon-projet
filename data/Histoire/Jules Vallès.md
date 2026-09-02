@@ -18,8 +18,9 @@ indice_5:
   - fondateur du journal Le Cri du Peuple
 indice_6:
   - militant républicain et socialiste
+culture_g_score: 63
+culture_g_justification: "Jules Vallès permet de relier littérature, journalisme et Commune de Paris, mais reste une figure secondaire face aux grands écrivains français."
 ---
-
 ![Image de Jules Vallès](https://upload.wikimedia.org/wikipedia/commons/4/4d/Jules_Vall%C3%A8s_%282%29.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - képi blanc
 questions:
  - Quel corps militaire français, composé de volontaires étrangers a été créé par Louis-Philippe en 1831 ?
+culture_g_score: 93
+culture_g_justification: "La Légion étrangère est un emblème militaire français omniprésent dans les quiz, associé à Camerone, au recrutement étranger, aux traditions et aux opérations extérieures."
 ---
-
-
 ![Image de Légion étrangère](https://upload.wikimedia.org/wikipedia/commons/a/a3/Jean_Geiser_-_Colonne_de_marche_de_la_L%C3%A9gion_%C3%A9trang%C3%A8re.jpg)
 
 ###### Questions

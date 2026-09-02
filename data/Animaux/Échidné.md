@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de protection dans certaines cultures aborigènes
 questions:
  - Quel mammifère ovipare d'Australie possède un corps massif recouvert d'une épaisse fourrure mêlée à des piquants?
+culture_g_score: 49
+culture_g_justification: "L’échidné est une curiosité zoologique utile grâce aux monotrèmes et à l’Australie, mais reste peu fréquent."
 ---
-
 ![Image de Échidné](https://upload.wikimedia.org/wikipedia/commons/1/14/Ferocactus_echidne_01.jpg)
 
 ###### Questions

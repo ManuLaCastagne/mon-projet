@@ -20,8 +20,9 @@ indice_6 :
   - Amritsanskar
 questions:
  - Quelle religion de l'Inde, créée au XVIe siècle par le maître spirituel appelé Guru Nanak, prône la réconciliation entre hindouisme et islam ?
+culture_g_score: 63
+culture_g_justification: "Religion importante mais minoritaire, le sikhisme est utile pour ses fondateurs, ses symboles, ses textes et son implantation au Pendjab."
 ---
-
 ![Image de Sikhisme](https://upload.wikimedia.org/wikipedia/commons/4/41/Sikh_pilgrim_at_the_Golden_Temple_%28Harmandir_Sahib%29_in_Amritsar%2C_India.jpg)
 
 ###### Questions

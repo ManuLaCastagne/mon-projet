@@ -20,8 +20,9 @@ indice_6 :
   - point en relief
 questions:
  - Quel inventaire français, touché de cécité à 3 ans…
+culture_g_score: 97
+culture_g_justification: "Inventeur d’un système universellement connu, à la fois historique, scientifique, social et lié à l’accessibilité."
 ---
-
 ![Image de Louis Braille](https://upload.wikimedia.org/wikipedia/commons/9/92/Louis_Braille_by_%C3%89tienne_Leroux.jpg)
 
 ###### Questions

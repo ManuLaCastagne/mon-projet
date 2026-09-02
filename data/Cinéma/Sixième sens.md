@@ -22,8 +22,9 @@ indice_6 :
   - Fantômes
 questions:
  - C'est un psychologue pour enfants qui est agressé par un ancien patient.  C'est une scène forte du début du film. Film de M. Night Shyamalan avec Bruce Willis.
+culture_g_score: 80
+culture_g_justification: "Thriller très célèbre grâce à son retournement final, sa réplique culte, son réalisateur et ses nominations aux Oscars."
 ---
-
 ![Image de Sixième sens](https://upload.wikimedia.org/wikipedia/commons/c/ca/Top_view_of_the_rings_of_Saturn_by_Cassini_-_October_10%2C_2013.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - écriture
 questions:
  - Dans le roman Dracula de Bram Stoker, comment s'appelle sa femme ?
+culture_g_score: 32
+culture_g_justification: "Le personnage de Mina chez David Almond reste une référence de littérature jeunesse assez niche et peu présente dans les quiz généralistes."
 ---
-
 ![Image de Mina](https://upload.wikimedia.org/wikipedia/commons/8/8a/Mina_Mazzini_%26_George_Aghedo_1978.jpg)
 
 ###### Questions

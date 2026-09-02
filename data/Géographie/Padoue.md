@@ -24,8 +24,9 @@ indice_6 :
   - Église des Érémitiques
 questions:
  - Quelle ville italienne de la région de Vénétie et associée à saint Antoine abrite le plus vieux jardin botanique d'Europe ?
+culture_g_score: 60
+culture_g_justification: "Ville italienne classique grâce à son université, Giotto, saint Antoine et son patrimoine vénitien, mais moins incontournable que Rome ou Florence."
 ---
-
 ![Image de Padoue](https://upload.wikimedia.org/wikipedia/commons/7/79/Saint-Antoine-de-Padoue_-_%C3%89glise.JPG)
 
 ![[Carte_Padoue.png]]

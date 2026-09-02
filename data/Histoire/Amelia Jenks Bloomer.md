@@ -20,8 +20,9 @@ indice_6 :
   - abolitionniste
 questions:
  - Au XIXe siècle, quelle militante américaine a lancé des culottes bouffantes, portées sous une jupe courte, qui ont été jugées inconvenantes?
+culture_g_score: 43
+culture_g_justification: "Militante américaine à l’origine du terme « bloomer », elle offre un angle sur le féminisme et la mode mais reste peu prioritaire."
 ---
-
 ![Image de Amelia Jenks Bloomer](https://upload.wikimedia.org/wikipedia/commons/5/58/Life_And_Writings_Of_Amelia_Bloomer_%28IA_lifeandwritingso028876mbp%29.pdf)
 
 ###### Questions

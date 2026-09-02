@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - En 1511, quel humaniste hollandais publie "L'Eloge de la folie" ?
  - Qui est ce philosophe et humaniste hollandais né en 1469, auteur de l'"Eloge de la folie", qui est ici représenté par Hans Holbein ?
+culture_g_score: 84
+culture_g_justification: "Humaniste européen majeur, Érasme relie Renaissance, imprimerie, christianisme, critique sociale et prémices de la Réforme."
 ---
-
 ![Image de Érasme](https://upload.wikimedia.org/wikipedia/commons/d/dd/Metrostation_Erasmus_2023_1.jpg)
 
 ###### Questions

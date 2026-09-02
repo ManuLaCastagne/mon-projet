@@ -22,8 +22,9 @@ indice_6 :
   - Biutiful
 questions:
  - Quel comédien est le 1er acteur espagnol à avoir été nommé aux Oscars en 2001 pour son rôle dans "Avant la nuit" ?
+culture_g_score: 69
+culture_g_justification: "Acteur espagnol oscarisé, associé à plusieurs films internationaux et à une étape importante de la représentation espagnole aux Oscars."
 ---
-
 ![Image de Javier Bardem](https://upload.wikimedia.org/wikipedia/commons/f/f5/Premios_Goya_2018_-_Javier_Bardem.jpg)
 
 ###### Questions

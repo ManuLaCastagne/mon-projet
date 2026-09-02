@@ -20,8 +20,9 @@ indice_6 :
   - surnom The Great Communicator
 questions:
  - En juillet 1980, quel candidat est choisi par la convention nationale républicaine en vue de l'élection présidentielle de la fin de l'année?
+culture_g_score: 92
+culture_g_justification: "Président américain très fréquent, mobilisable sur la guerre froide, le cinéma, la politique intérieure, Berlin et les relations internationales."
 ---
-
 ![Image de Ronald Reagan](https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg)
 
 ###### Questions

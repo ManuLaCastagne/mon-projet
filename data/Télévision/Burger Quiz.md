@@ -21,8 +21,9 @@ indice_6 :
   - Burger de la mort
 questions:
  - Jeu ayant diffusé mon émission de Noël le 20 juin 2018, je suis apparu à l'écran la 1re fois en 2001 avec Gérard Darmon parmi mes candidats.
+culture_g_score: 73
+culture_g_justification: "Jeu télévisé culte d’Alain Chabat, fréquemment reconnu par son humour, ses règles, ses animateurs et son retour à l’antenne."
 ---
-
 ![Image de Burger Quiz](https://upload.wikimedia.org/wikipedia/commons/5/55/The_Bible_Quiz_in_Jerusalem_%28FL45958521%29.jpg)
 
 ###### Questions

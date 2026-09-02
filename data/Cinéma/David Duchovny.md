@@ -21,8 +21,9 @@ indice_6:
   - The X-Files Fight the Future
 questions:
   - En 2018, quel acteur américain, célèbre pour avoir incarné Fox Mulder dans la série télé "X-Files", sort l'album intitulé "Every Third Thought"?
+culture_g_score: 64
+culture_g_justification: "Acteur fortement identifiable par X-Files et Californication, mais avec une importance culturelle plus limitée hors télévision."
 ---
-
 ![Image de David Duchovny](https://upload.wikimedia.org/wikipedia/commons/b/bb/David_Duchovny_by_Gage_Skidmore.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2v4pLHpKG2c3HuY0Sv8xrq" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -20,10 +20,9 @@ indice_6 :
   - Stade Vélodrome
 questions:
  - En 1958, sur quel score la France s'impose-t-elle face à la RFA lors du match de classement de la Coupe du monde organisé en Suède?
+culture_g_score: 60
+culture_g_justification: "Match historique de la Coupe du monde 1958 associé à Just Fontaine, mais son intérêt quiz reste principalement sportif et ponctuel."
 ---
-
-
-
 ![Image de France-RFA 1958](https://upload.wikimedia.org/wikipedia/commons/7/76/M%C3%A9moires_de_la_Soci%C3%A9t%C3%A9_royale_des_sciences_de_Li%C3%A8ge_%28IA_moiresdelasociro2267soci%29.pdf)
 
 ###### Questions

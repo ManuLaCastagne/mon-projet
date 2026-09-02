@@ -22,9 +22,9 @@ indice_6 :
   - Lyon
 questions:
  - En 1868, sous quel nom connaît-on mieux le jeune provincial Daniel Eyssett, héros d'un roman d'Alphonse Daudet?
+culture_g_score: 48
+culture_g_justification: "Roman autobiographique classique de Daudet, identifiable en littérature française mais rarement indispensable hors de cet angle."
 ---
-
-
 ![Image de Le Petit Chose](https://upload.wikimedia.org/wikipedia/commons/4/43/LePetitChoseTitleImage.jpg)
 
 ###### Questions

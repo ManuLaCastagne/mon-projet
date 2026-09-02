@@ -21,8 +21,9 @@ indice_6 :
   - Disparition mystérieuse à 28 ans
 questions:
  - Quelle favorite de Charles VII surnommée "la Dame de Beauté" fut la première maîtresse officielle d'un roi de France ?
+culture_g_score: 48
+culture_g_justification: "Personnage identifiable de la cour de Charles VII, surtout grâce au statut de maîtresse royale et au surnom de Dame de Beauté."
 ---
-
 ![Image de Agnès Sorel](https://upload.wikimedia.org/wikipedia/commons/1/1f/Agn%C3%A8s_Sorel_-_portrait_anonyme_d%27apr%C3%A8s_Jean_Fouquet.jpg)
 
 ###### Questions

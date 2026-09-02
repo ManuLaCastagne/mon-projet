@@ -18,8 +18,9 @@ indice_5 :
   - Terreur
 indice_6 : 
   - liberté de la presse
+culture_g_score: 44
+culture_g_justification: "Publication liée à la Révolution française et à Desmoulins, mais rarement interrogée en dehors de questions spécialisées."
 ---
-
 ![Image de Le Vieux Cordelier](https://upload.wikimedia.org/wikipedia/commons/5/53/Desmoulins%2C_Camille_-_Le_Vieux_cordelier_%28n%C2%B01%29.pdf)
 
 ###### Questions

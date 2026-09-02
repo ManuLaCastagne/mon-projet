@@ -20,8 +20,9 @@ indice_6 :
   - Habitat for Humanity
 questions:
  - En 1977, lors d'une rencontre à Buckingham Palace, quel président américain fait fi du protocole en ne s'inclinant pas devant la reine ?
+culture_g_score: 80
+culture_g_justification: "Président américain lié aux crises énergétiques, aux accords de Camp David, au Nobel de la paix et à l’action humanitaire postprésidentielle."
 ---
-
 ![Image de Jimmy Carter](https://upload.wikimedia.org/wikipedia/commons/4/48/Jimmy_Carter_with_King_Hussein_of_Jordan_the_Shah_of_Iran_and_Shahbanou_of_Iran_-_NARA_-_177332_04.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - quête de pardon
 questions:
  - En 2014, quel film policier avec Vincent Lindon porte un titre reprenant une locution latine signifiant par ma faute?
+culture_g_score: 39
+culture_g_justification: "Thriller français identifiable mais peu marquant et offrant très peu d’angles de questions indépendants."
 ---
-
 ![Image de Mea Culpa](https://upload.wikimedia.org/wikipedia/commons/1/15/Manifesto_Mea_culpa_Summer_Tour.jpg)
 
 ###### Questions

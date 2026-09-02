@@ -20,8 +20,9 @@ indice_6 :
   - Royaume-Uni et France
 questions:
  - Quelle guerre, ayant débuté en 1756, aboutit notamment, par le traité de Paris, à la perte, côté français du Canada et de la Louisiane ?
+culture_g_score: 75
+culture_g_justification: "Guerre véritablement mondiale par ses théâtres et ses alliances, utile pour comprendre les rivalités franco-britanniques et l'ascension prussienne."
 ---
-
 ![Image de Guerre de Sept Ans](https://upload.wikimedia.org/wikipedia/commons/f/fe/1770_circa_Laurids_de_Therbu%2C_Les_Plans_De_la_guerre_de_Sept_ans%2C_Plan_de_Hannovre.jpg)
 
 ###### Questions

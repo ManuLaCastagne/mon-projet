@@ -18,8 +18,9 @@ indice_5 :
   - culture et entretiens
 indice_6 : 
   - France Inter
+culture_g_score: 63
+culture_g_justification: "Figure importante de la radio et de la télévision françaises, exploitable à travers plusieurs émissions emblématiques et le journalisme culturel."
 ---
-
 ![Image de Jacques Chancel](https://upload.wikimedia.org/wikipedia/commons/3/33/Jacques_Chancel.jpg)
 
 ###### Questions

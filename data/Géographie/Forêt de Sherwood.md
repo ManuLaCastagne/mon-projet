@@ -21,10 +21,9 @@ indice_6 :
   - comté anglais
 questions:
  - Alors peuplée de bouleaux, de fougères et de chênes. Forêt aujourd'hui largement défrichée, je reste associée...
+culture_g_score: 75
+culture_g_justification: "La légende de Robin des Bois en fait une référence quiz identifiable, même si le lieu lui-même reste moins important que le personnage."
 ---
-
-
-
 ![Image de Forêt de Sherwood](https://upload.wikimedia.org/wikipedia/commons/6/69/Peacock_-_Robin_Hood%2C_ou_La_for%C3%AAt_de_Sherwood%2C_1826.djvu)
 
 ###### Questions

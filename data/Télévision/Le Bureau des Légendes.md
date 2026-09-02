@@ -18,8 +18,9 @@ indice_5:
   - Paris
 indice_6:
   - Moule à Gaufres
+culture_g_score: 80
+culture_g_justification: "Série française de référence, utile pour des questions sur la DGSE, l’espionnage, Canal+, Éric Rochant et Mathieu Kassovitz."
 ---
-
 ![Image de Le Bureau des Légendes](https://upload.wikimedia.org/wikipedia/commons/1/13/Le_Bureau_des_L%C3%A9gendes.jpg)
 
 ###### Questions

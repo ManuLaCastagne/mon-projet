@@ -13,8 +13,9 @@ indice_5:
   - Asperge du pauvre
 indice_6:
   - Soupe et potage
+culture_g_score: 56
+culture_g_justification: "Légume courant et repère culinaire utile, mais son nom scientifique ou sa classification sont peu souvent demandés."
 ---
-
 ![Image de Poireau](https://upload.wikimedia.org/wikipedia/commons/9/97/Fleur_de_poireau_de_pr%C3%A8s.jpg)
 
 ###### Questions

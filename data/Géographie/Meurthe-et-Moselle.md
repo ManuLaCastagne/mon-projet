@@ -22,10 +22,9 @@ indice_5:
   - rivière Meurthe
 indice_6:
   - Château de Lunéville
+culture_g_score: 52
+culture_g_justification: "Département lié à Nancy, à la Lorraine et à quelques références culturelles, mais peu souvent demandé précisément."
 ---
-
-
-
 ![Image de Meurthe-et-Moselle](https://upload.wikimedia.org/wikipedia/commons/2/27/Ch%C3%A2teau_de_Fl%C3%A9ville_%28Meurthe-et-Moselle%29.jpg)
 
 ![[Carte_Meurthe-et-Moselle.png]]

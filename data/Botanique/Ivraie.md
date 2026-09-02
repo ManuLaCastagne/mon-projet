@@ -13,8 +13,9 @@ indice_5:
   - Zizanie
 indice_6:
   - Fourrage pour bétail
+culture_g_score: 43
+culture_g_justification: "Son intérêt vient principalement de l’expression biblique séparant l’ivraie du bon grain et de son statut de mauvaise herbe."
 ---
-
 ![Image de Ivraie](https://upload.wikimedia.org/wikipedia/commons/1/19/Lolium_perenne_Engels_raaigras_doorgeschoten_plant.jpg)
 
 ###### Questions

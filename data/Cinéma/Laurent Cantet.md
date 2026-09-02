@@ -20,10 +20,9 @@ indice_5:
   - adaptation de roman
 indice_6:
   - 2008
+culture_g_score: 60
+culture_g_justification: "Réalisateur français important, notamment grâce à la Palme d’or d’Entre les murs, mais dont la notoriété reste surtout cinéphile."
 ---
-
-
-
 ![Image de Laurent Cantet](https://upload.wikimedia.org/wikipedia/commons/4/4a/Laurent_Cantet_Cannes_2008.jpg)
 
 ###### Questions

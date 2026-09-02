@@ -6,6 +6,8 @@ tags:
   - France
   - Pologne
 date: 1973
+culture_g_score: 64
+culture_g_justification: "Pâtisserie française très identifiable, liée à Saint-Tropez et à l'histoire de la gastronomie médiatique."
 ---
 ###### Questions 
 

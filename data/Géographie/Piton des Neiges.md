@@ -25,8 +25,9 @@ indice_6 :
   - randonnée populaire
 questions:
  - Massif volcanique de 3071 m de haut, proche du Gros Morne et du grand Bénare, je suis entouré de 3 vastes cirques  Cilaos, Salazie et Mafate.  Au centre ouest d'une île de l'océan Indien...
+culture_g_score: 48
+culture_g_justification: "Point culminant de La Réunion, ce sommet fournit quelques repères géographiques mais demeure peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Piton des Neiges](https://upload.wikimedia.org/wikipedia/commons/7/71/R%C3%A9union_Piton_des_Neiges_Lune.JPG)
 
 ![[Carte_Piton des Neiges.png]]

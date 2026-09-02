@@ -20,9 +20,9 @@ indice_6 :
   - Boca Juniors
 questions:
  - 1986. Quel footballeur argentin...
+culture_g_score: 100
+culture_g_justification: "Légende universelle du football, abondamment interrogée pour 1986, l’Argentine, Naples, ses exploits et ses controverses."
 ---
-
-
 ![Image de Maradona](https://upload.wikimedia.org/wikipedia/commons/9/97/Maradona_at_2012_GCC_Champions_League_final.JPG)
 
 ###### Questions

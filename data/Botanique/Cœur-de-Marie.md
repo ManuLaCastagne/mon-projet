@@ -14,8 +14,9 @@ indice_5:
   - Cœur-saignant ou valentine
 indice_6:
   - Ornementale dans les jardins
+culture_g_score: 40
+culture_g_justification: "Fleur reconnaissable par sa forme de cœur et ses nombreux surnoms, mais principalement limitée à l’horticulture ornementale."
 ---
-
 ![Image de Cœur-de-Marie](https://upload.wikimedia.org/wikipedia/commons/9/96/Lamprocapnos_spectabilis_%281%29.jpg)
 
 ###### Questions

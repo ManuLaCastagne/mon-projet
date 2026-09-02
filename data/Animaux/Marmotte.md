@@ -15,8 +15,9 @@ indice_6 :
   - Messagère du changement climatique
 questions:
  - Quel rongeur de la famille des sciuridés, dont une espèce est dite des Alpes, recherche des pentes bien exposées au sud pour se chauffer au soleil?
+culture_g_score: 64
+culture_g_justification: "Rongeur très reconnaissable, associé à l’hibernation, aux montagnes et à une forte référence publicitaire française."
 ---
-
 ![Image de Marmotte](https://upload.wikimedia.org/wikipedia/commons/9/93/Marmotte_%28Montr%C3%A9al%29.jpg)
 
 ###### Questions

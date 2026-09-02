@@ -20,8 +20,9 @@ indice_5:
   - Tawaf
 indice_6:
   - Al Safa et Al Marwah
+culture_g_score: 92
+culture_g_justification: "Lieu central de l’islam abritant la Kaaba, la Mosquée al-Harâm ouvre de nombreux angles religieux, historiques, géographiques et architecturaux."
 ---
-
 ![Image de Grande Mosquée de La Mecque](https://upload.wikimedia.org/wikipedia/commons/3/3f/Great_Mosque_of_Mecca1.jpg)
 
 ###### Questions

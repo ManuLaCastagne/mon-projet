@@ -20,9 +20,9 @@ indice_6 :
   - réforme des corvées
 questions:
  - Quel contrôleur général des finances instaure pendant les Lumières la liberté du commerce ?
+culture_g_score: 64
+culture_g_justification: "Économiste et ministre important de l’Ancien Régime, surtout utile pour les réformes de Louis XVI et les débuts du libéralisme économique."
 ---
-
-
 ![Image de Turgot](https://upload.wikimedia.org/wikipedia/commons/f/fa/Turgot_map_of_Paris%2C_sheet_7_-_Norman_B._Leventhal_Map_Center.jpg)
 
 ###### Questions

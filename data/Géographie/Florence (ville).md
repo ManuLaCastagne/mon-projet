@@ -22,9 +22,9 @@ indice_5 :
   - David de Michel-Ange
 indice_6 : 
   - Piazza della Signoria
+culture_g_score: 100
+culture_g_justification: "Ville incontournable de la Renaissance, associée à de nombreux artistes, œuvres, monuments, personnages et événements historiques."
 ---
-
-
 ![[Carte_Florence (ville).png]]
 
 ###### Questions

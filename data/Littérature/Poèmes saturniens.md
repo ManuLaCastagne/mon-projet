@@ -22,8 +22,9 @@ indice_6 :
   - Saturne
 questions:
  - Le poème est magnifique, "Mon rêve familier", Paul Verlaine, et c'est Robert Hirsch qui vient de nous le dire, en plus. C'est le début du poème.  Dans quel recueil, le 1er publié par Verlaine en 1866 et dont le titre évoque une planète, ce poème figurait-il?
+culture_g_score: 60
+culture_g_justification: "Recueil fondateur de Verlaine utile pour le symbolisme et la poésie française, mais moins fréquent que ses poèmes isolés."
 ---
-
 ![Image de Poèmes saturniens](https://upload.wikimedia.org/wikipedia/commons/a/ae/Po%C3%A8mes_saturniens_page_quinze.jpg)
 
 ###### Questions

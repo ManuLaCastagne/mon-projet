@@ -20,8 +20,9 @@ indice_6 :
   - Italie
 questions:
  - Quel cycliste italien,  quintuple vainqueur du Giro, a remporté la 1re édition du championnat du monde sur route disputé en 1927?
+culture_g_score: 44
+culture_g_justification: "Champion historique du cyclisme italien, intéressant pour le Giro et les records mais peu fréquent hors des quiz spécialisés."
 ---
-
 ![Image de Alfredo Binda](https://upload.wikimedia.org/wikipedia/commons/1/13/Alfredo_Binda_1927.jpg)
 
 ###### Questions

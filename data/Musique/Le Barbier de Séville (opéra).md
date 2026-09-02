@@ -22,8 +22,9 @@ indice_6 :
   - 1816
 questions:
  - C'est Cecilia Bartoli. Elle interprète "Una voce poco fa" qui constitue un exemple célèbre de cavatine, c'est-à-dire un air d'opéra en un seul mouvement. Dans quel opéra de Rossini…
+culture_g_score: 80
+culture_g_justification: "Opéra très célèbre de Rossini, relié à Figaro, Beaumarchais, l’opéra-bouffe et plusieurs airs régulièrement questionnés."
 ---
-
 ![Image de Le Barbier de Séville (opéra)](https://upload.wikimedia.org/wikipedia/commons/a/a8/Le_barbier_de_S%C3%A9ville%2C_op%C3%A9ra-comique_en_4_actes%2C_d%27apr%C3%A8s_Beaumarchais%2C_musique_de_Paisiello_-_documents_iconographiques_-_btv1b8402887c_%287_of_7%29.jpg)
 
 ###### Questions

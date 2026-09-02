@@ -22,8 +22,9 @@ indice_6 :
   - Ours d'or Berlin
 questions:
  - Quel chef-d'œuvre du cinéma italien réalisé par Roberto Benigni en 1997 a remporté trois Oscars et raconte l'histoire d'un père qui utilise son imagination pour protéger son fils des horreurs d'un camp de concentration pendant la Seconde Guerre mondiale ?
+culture_g_score: 84
+culture_g_justification: "Succès mondial associé à la Shoah, à l’Italie, aux Oscars, à Benigni et à une scène culte, donc très rentable malgré une transversalité limitée au cinéma et à l’histoire."
 ---
-
 ![Image de La Vie est belle (Benigni)](https://upload.wikimedia.org/wikipedia/commons/8/8c/La_vita_%C3%A8_bella_%28film_1943%29.png)
 
 ###### Questions

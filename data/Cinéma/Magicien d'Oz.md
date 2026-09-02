@@ -20,6 +20,8 @@ indice_5:
   - Sorcière de l'Ouest
 indice_6:
   - Route de briques jaunes
+culture_g_score: 100
+culture_g_justification: "Classique universel du cinéma, extrêmement rentable grâce à Judy Garland, Technicolor, ses personnages, ses chansons et son influence culturelle."
 ---
 ![[Pasted image 20250505192621.png]]
 ###### Questions

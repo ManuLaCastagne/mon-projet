@@ -23,8 +23,9 @@ indice_6 :
   - Galerie
 questions:
  - J'ai pour spécialité la ferronnerie auquel restent attachés le nom de Gilbert Poillerat. J'ai connu un âge d'or au 18e siècle illustré par Jean Lamour.
+culture_g_score: 20
+culture_g_justification: "Acteur français principalement associé à quelques films, Pierre Boulanger est une référence de cinéma assez confidentielle."
 ---
-
 ![Image de Pierre Boulanger](https://upload.wikimedia.org/wikipedia/commons/b/b2/PierreBoulanger03.jpg)
 
 ###### Questions

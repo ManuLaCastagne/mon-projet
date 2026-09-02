@@ -4,7 +4,8 @@ tags:
   - XXe
   - Années_1900
 date: 1910
-culture_g_score: 51
+culture_g_score: 48
+culture_g_justification: "Objet du quotidien très connu, mais peu pertinent comme sujet de culture générale en dehors de son évolution et de sa version électrique."
 ---
 ###### Questions 
 

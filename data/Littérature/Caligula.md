@@ -22,9 +22,9 @@ indice_6 :
   - œuvre publiée en 1944
 questions:
  - Quelle pièce de Camus s'achève par "je suis encore vivant", prononcée par un empereur romain ?
+culture_g_score: 60
+culture_g_justification: "La pièce de Camus est un classique du théâtre de l’absurde, associé à l’Empire romain, à la tyrannie et à la philosophie, mais demeure moins fréquente que ses œuvres les plus connues."
 ---
-
-
 ![Image de Caligula](https://upload.wikimedia.org/wikipedia/commons/0/0e/Portrait_Head_of_Caligula_-_Getty_Museum_%2872.AA.155%29.jpg)
 
 ###### Questions

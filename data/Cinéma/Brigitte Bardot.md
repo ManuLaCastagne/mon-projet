@@ -24,8 +24,9 @@ indice_6:
 questions:
   - En 1957, quelle actrice incarnait la jeune et capricieuse Brigitte, l'héroïne de ce film "Une Parisienne" réalisé par Michel Boisrond?
   - En 1960, dans quelle chanson Dario Moreno dit-il   "Il aurait fallu t'inventer si tu n'avais pas existé" ?
+culture_g_score: 97
+culture_g_justification: "Icône mondiale du cinéma français, liée à Et Dieu créa la femme, à la culture populaire des années 1950-1960 et à la défense animale."
 ---
-
 ![Image de Brigitte Bardot](https://upload.wikimedia.org/wikipedia/commons/e/e1/Brigitte_Bardot_-_1962.jpg)
 
 ###### Questions

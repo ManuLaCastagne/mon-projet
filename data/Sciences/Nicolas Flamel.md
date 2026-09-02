@@ -20,8 +20,9 @@ indice_6 :
   - Immortalité légendaire
 questions:
  - Selon la légende, quel écrivain français du XIVe siècle serait parvenu à découvrir le secret de la pierre philosophale ?
+culture_g_score: 60
+culture_g_justification: "Personnage médiéval rendu célèbre par la légende alchimique et la culture populaire, mais d’importance historique limitée."
 ---
-
 ![Image de Nicolas Flamel](https://upload.wikimedia.org/wikipedia/commons/7/73/Nicolas_Flamel_Histoire_critique.jpg)
 
 ###### Questions

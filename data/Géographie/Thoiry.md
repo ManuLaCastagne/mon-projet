@@ -24,8 +24,9 @@ indice_6 :
   - Région Île-de-France
 questions:
  - Quel château privé des Yvelines est entouré d'un parc comportant un zoo ?
+culture_g_score: 44
+culture_g_justification: "Commune surtout connue pour son parc animalier et son château, avec une portée essentiellement touristique et locale."
 ---
-
 ![Image de Thoiry](https://upload.wikimedia.org/wikipedia/commons/3/32/Thoiry_%2801%29_-_Eglise_St-Maurice.JPG)
 
 ![[Carte_Thoiry.png]]

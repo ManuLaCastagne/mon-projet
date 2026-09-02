@@ -15,8 +15,9 @@ indice_6 :
   - Messager des dieux
 questions:
  - Quel oiseau au plumage noir, de la famille des corvidés, réputé pour son intelligence, est considéré comme le plus grand des passereaux?
+culture_g_score: 80
+culture_g_justification: "Oiseau très présent dans les mythologies et la littérature, également célèbre pour son intelligence et ses capacités techniques."
 ---
-
 ![Image de Corbeau](https://upload.wikimedia.org/wikipedia/commons/5/57/Flying_Corbeau_-_Bird%E2%80%99s_Kingdom.jpg)
 
 ###### Questions

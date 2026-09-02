@@ -13,8 +13,9 @@ indice_5:
   - Choisya
 indice_6:
   - Plante ornementale pour les jardins
+culture_g_score: 36
+culture_g_justification: "Arbuste ornemental dont le nom courant se déduit de son parfum, mais qui reste une référence botanique secondaire."
 ---
-
 ![Image de Oranger du Mexique](https://upload.wikimedia.org/wikipedia/commons/8/8a/Choisya_ternata_%28Oranger_du_Mexique%29_-_Jardin_priv%C3%A9_%C3%A0_St-Brieuc_02.jpg)
 
 ###### Questions

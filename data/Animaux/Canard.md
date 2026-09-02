@@ -13,8 +13,9 @@ indice_5:
   - Canard siffleur
 indice_6:
   - Symbole de résilience dans la littérature
+culture_g_score: 88
+culture_g_justification: "Animal universellement connu, ouvrant sur Disney, la zoologie, la culture populaire, la gastronomie et les expressions."
 ---
-
 ![Image de Canard](https://upload.wikimedia.org/wikipedia/commons/3/37/JAS-39_Gripen_down_under.JPG)
 
 ###### Questions

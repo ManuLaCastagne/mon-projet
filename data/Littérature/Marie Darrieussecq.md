@@ -20,8 +20,9 @@ indice_5:
   - enseigne Ghost Writing
 indice_6:
   - Prix Médicis 2013
+culture_g_score: 43
+culture_g_justification: "Autrice contemporaine connue pour Truismes et plusieurs prix littéraires, mais encore peu incontournable dans la culture générale large."
 ---
-
 ![Image de Marie Darrieussecq](https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Darrieussecq-Strasbourg_2011_%284%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - XV de France
 questions:
  - Manifestation sportive qui fut envisagée par le journaliste David Lord avant que l'IRB ne décide de ma création en 1985, j'ai été depuis organisée à 9 reprises.
+culture_g_score: 80
+culture_g_justification: "Compétition centrale du rugby international, régulièrement interrogée par ses éditions, vainqueurs, joueurs et moments historiques."
 ---
-
 ![Image de Coupe du Monde de rugby](https://upload.wikimedia.org/wikipedia/commons/6/66/Panneau_Coupe_du_monde_de_rugby_2007.JPG)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - traité de Verdun
 questions:
  - De quel royaume, situé au nord des Pyrénées, le futur Henri IV hérita-t-il par sa mère Jeanne d'Albret?
+culture_g_score: 60
+culture_g_justification: "Ancien royaume pyrénéen relié à l’histoire de France, d’Espagne et des Basques, avec plusieurs repères mais une portée modérée."
 ---
-
-
 ![Image de Navarre](https://upload.wikimedia.org/wikipedia/commons/3/3c/Palacio_Real_de_Olite%2C_Navarra%2C_Espa%C3%B1a%2C_2015-01-06%2C_DD_07-09_HDR.JPG)
 
 ###### Questions

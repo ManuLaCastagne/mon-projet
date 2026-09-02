@@ -24,13 +24,9 @@ indice_6 :
   - vins de Bordeaux
 questions:
  - Quel département du Sud-Ouest abrite, dans la région de l'Entre-deux-Mers, le village de Castelmoron-d'Albret, qui est la plus petite commune de France par sa superficie de 3,54 hectares ? (Approximativement la surface de la place Charles-De-Gaulle à Paris, pour se donner une petite idée.)
+culture_g_score: 80
+culture_g_justification: "Département très vaste et riche en repères géographiques, viticoles, maritimes, patrimoniaux et liés à Bordeaux."
 ---
-
-
-
-
-
-
 ![Image de Gironde](https://upload.wikimedia.org/wikipedia/commons/7/71/Mortagne-sur-Gironde_Civellier_Mayflowers_2013.jpg)
 
 ![[Carte_Gironde.png]]

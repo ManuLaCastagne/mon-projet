@@ -22,8 +22,9 @@ indice_6 :
   - Exploration de l'intime et de l'identité
 questions:
  - Pour Juliette Greco et Enzo Enzo.  Egalement romancière, j'ai publié en 2020 "Le Palais des orties". Fille d'un écrivain associé au mouvement des Hussards que j'évoque dans le livre  "La Reine du silence", Prix Médicis de 2004.
+culture_g_score: 31
+culture_g_justification: "Écrivaine reconnue dans le paysage littéraire français, mais peu fréquente dans les quiz généralistes hors de ses prix et de sa filiation."
 ---
-
 ![Image de Marie Nimier](https://upload.wikimedia.org/wikipedia/commons/0/08/Marie_Nimier_%C3%A0_la_foire_du_livre_de_Brive_la_Gaillarde.JPG)
 
 ###### Questions

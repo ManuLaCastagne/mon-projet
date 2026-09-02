@@ -18,8 +18,9 @@ indice_5 :
   - mission espagnole
 indice_6 : 
   - indépendance du Mexique
+culture_g_score: 80
+culture_g_justification: "Siège héroïsé de la révolution texane, relié à Davy Crockett, au Texas, au Mexique et à la culture populaire américaine."
 ---
-
 ![Image de Bataille de Fort Alamo](https://upload.wikimedia.org/wikipedia/commons/1/1e/Alamo_pano.jpg)
 
 ###### Questions

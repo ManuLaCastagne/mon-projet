@@ -19,9 +19,9 @@ indice_5:
   - Patrimoine mondial de l'UNESCO
 indice_6:
   - Livingston
+culture_g_score: 80
+culture_g_justification: "Merveille naturelle africaine fréquemment interrogée à travers la géographie, Livingstone, le Zambèze et les records de chutes."
 ---
-
-
 ![[Carte_chutes Victoria.png]]
 
 ###### Questions

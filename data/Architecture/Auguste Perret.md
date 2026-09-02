@@ -23,8 +23,9 @@ indice_6 :
   - pionnier moderne
 questions:
  - Quel architecte, secondé dans ses fonctions par ses frères Gustave et Claude, dirigea la reconstruction du Havre après 1945 ?
+culture_g_score: 56
+culture_g_justification: "Perret est un architecte français important pour le béton armé et la reconstruction, mais moins connu du grand public."
 ---
-
 ![Image de Auguste Perret](https://upload.wikimedia.org/wikipedia/commons/d/df/Auguste_Perret_architecte_1932.jpg)
 
 ###### Questions

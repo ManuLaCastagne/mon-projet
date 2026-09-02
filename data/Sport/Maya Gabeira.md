@@ -18,8 +18,9 @@ indice_5 :
   - Billabong XXL
 indice_6 : 
   - Nazaré
+culture_g_score: 40
+culture_g_justification: "Surfeuse connue pour ses records à Nazaré et un accident spectaculaire, mais sujet peu présent hors des quiz de sports extrêmes."
 ---
-
 ![Image de Maya Gabeira](https://upload.wikimedia.org/wikipedia/commons/1/13/Maya_Gabeira_%2814065821984%29_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Étapes
 questions:
  - Lors de quelle course à pied les concurrents doivent-ils parcourir plus de 240 km...
+culture_g_score: 44
+culture_g_justification: "Épreuve d’endurance spectaculaire et connue, mais ses occasions d’interrogation restent concentrées sur le sport extrême."
 ---
-
-
 ![Image de Marathon des Sables](https://upload.wikimedia.org/wikipedia/commons/a/a7/MARATHON_DES_SABLES_logo.png)
 
 ###### Questions

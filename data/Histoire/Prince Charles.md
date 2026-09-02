@@ -20,8 +20,9 @@ indice_6 :
   - investiture en tant que Prince de Galles
 questions:
  - En quelle année le mariage du Prince Charles et de Lady Diana est-il suivi par plus de 600 millions de téléspectateurs?
+culture_g_score: 84
+culture_g_justification: "Monarque britannique très célèbre, associé à la monarchie contemporaine, à la famille royale et à de nombreuses références médiatiques."
 ---
-
 ![Image de Prince Charles](https://upload.wikimedia.org/wikipedia/commons/f/fd/Elizabeth%2C_Philip%2C_Charles_and_Anne.jpg)
 
 ###### Questions

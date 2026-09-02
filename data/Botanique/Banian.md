@@ -13,8 +13,9 @@ indice_5:
   - Figuier étrangleur
 indice_6:
   - Arbre à caoutchouc
+culture_g_score: 52
+culture_g_justification: "Arbre spectaculaire lié à l’Inde, à l’hindouisme et aux racines aériennes, offrant plusieurs indices mais restant moins courant."
 ---
-
 ![Image de Banian](https://upload.wikimedia.org/wikipedia/commons/b/bc/Banian_du_Pacifique.jpg)
 
 ###### Questions

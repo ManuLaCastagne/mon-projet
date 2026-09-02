@@ -19,9 +19,9 @@ indice_5 :
   - Co-animateur avec Marina Carrère d'Encausse
 indice_6 : 
   - Émission Les Pouvoirs extraordinaires du corps humain
+culture_g_score: 73
+culture_g_justification: "Médecin médiatique associé à plusieurs émissions de santé très visibles, offrant des repères réutilisables entre télévision et vulgarisation médicale."
 ---
-
-
 ![Image de Michel Cymes](https://upload.wikimedia.org/wikipedia/commons/2/2d/Michel_Cymes_-_Le_Livre_sur_la_Place_%2820739021814%29.jpg)
 
 ###### Questions

@@ -13,12 +13,9 @@ indice_5:
   - Chien d'eau français
 indice_6:
   - Loyal compagnon
+culture_g_score: 32
+culture_g_justification: "Race canine française assez spécialisée, rencontrée surtout dans des questions sur les chiens de chasse."
 ---
-
-
-
-
-
 ![Image de Barbet](https://upload.wikimedia.org/wikipedia/commons/6/61/Lineated_barbet_%28Psilopogon_lineatus%29%2C_Bangladesh.jpg)
 
 ###### Questions

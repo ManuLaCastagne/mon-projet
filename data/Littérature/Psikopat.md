@@ -22,8 +22,9 @@ indice_6 :
   - Parodie littéraire
 questions:
  - En 2019, de quel magazine de bandes dessinées humoristiques, ayant été lancé par Carali au début des années 80, a-t-on arrêté la publication?
+culture_g_score: 32
+culture_g_justification: "Magazine satirique français connu surtout des amateurs de bande dessinée et rarement mobilisé dans les quiz généralistes."
 ---
-
 ![Image de Psikopat](https://upload.wikimedia.org/wikipedia/commons/f/f6/MRI_of_orbitofrontal_cortex.jpg)
 
 ###### Questions

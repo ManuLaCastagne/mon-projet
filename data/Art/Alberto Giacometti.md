@@ -21,8 +21,9 @@ indice_5 :
   - figures de bronze
 indice_6 : 
   - existentialisme
+culture_g_score: 80
+culture_g_justification: "Sculpteur majeur du XXe siècle, régulièrement interrogé via ses silhouettes, L’Homme qui marche, le marché de l’art et l’art moderne."
 ---
-
 ![Image de Alberto Giacometti](https://upload.wikimedia.org/wikipedia/commons/f/f3/Alberto_Giacometti_par_sa_femme_Annette_%C2%A9_Succession_Alberto_Giacometti_%28Fondation_Giacometti%2C_Paris_%2B_ADAGP%2C_Paris%29_2019.jpg)
 
 ###### Questions

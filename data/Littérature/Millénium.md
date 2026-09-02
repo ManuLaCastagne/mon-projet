@@ -22,9 +22,9 @@ indice_6 :
   - thriller suédois
 questions:
  - Dans quelle trilogie policière écrite par le Suédois Stieg Larsson, le héros fait-il...
+culture_g_score: 64
+culture_g_justification: "Trilogie policière au succès mondial, régulièrement citée avec Larsson, Salander et Blomkvist, mais plus limitée que les classiques littéraires."
 ---
-
-
 ![Image de Millénium](https://upload.wikimedia.org/wikipedia/commons/b/b9/MILL%C3%89NIUM_2000.jpg)
 
 ###### Questions

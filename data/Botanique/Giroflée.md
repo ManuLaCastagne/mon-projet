@@ -15,8 +15,9 @@ indice_6 :
   - Parfum en parfumerie
 questions:
  - De quel crucifère à fleurs jaunes tire-t-on une huile alimentaire ?
+culture_g_score: 31
+culture_g_justification: "Fleur ancienne et parfumée, mais peu connue et peu présente dans les quiz généralistes."
 ---
-
 ![Image de Giroflée](https://upload.wikimedia.org/wikipedia/commons/f/f2/Girofl%C3%A9e_mg_5498.jpg)
 
 ###### Questions

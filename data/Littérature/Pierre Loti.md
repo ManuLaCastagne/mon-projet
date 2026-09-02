@@ -20,9 +20,9 @@ indice_5:
   - Membre de l'Académie française
 indice_6:
   - Réside à Rochefort
+culture_g_score: 72
+culture_g_justification: "Écrivain voyageur et académicien associé à plusieurs classiques comme Pêcheur d’Islande et à une forte dimension historique et exotique."
 ---
-
-
 ![Image de Pierre Loti](https://upload.wikimedia.org/wikipedia/commons/c/cd/20110711_Pierre_Loti_hill_view_Istanbul_Turkey_Panorama.jpg)
 
 ###### Questions

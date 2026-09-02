@@ -15,8 +15,9 @@ indice_6 :
   - Bois utilisé pour fabriquer des manches d'outils et des meubles
 questions:
  - Quel grand arbre des forêts tempérées, du genre fraxinus, est aussi appelé quinquina d'Europe ?
+culture_g_score: 52
+culture_g_justification: "Arbre européen important pour son bois et présent dans la mythologie, mais moins fréquemment interrogé que le chêne ou l'olivier."
 ---
-
 ![Image de Frêne](https://upload.wikimedia.org/wikipedia/commons/9/9a/01373-Saint-Martin-du-Fr%C3%AAne-Hydro.png)
 
 ###### Questions

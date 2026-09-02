@@ -22,8 +22,9 @@ indice_6 :
   - artiste belge
 questions:
  - En 1995, dans l'album "A la française", à quelle partie du visage de sa mère Arno consacre-t-il une chanson?
+culture_g_score: 40
+culture_g_justification: "Titre reconnu dans la discographie d'Arno, mais sa fréquence et ses possibilités de réemploi restent limitées en culture générale."
 ---
-
 ![Image de Les Yeux de ma mère](https://upload.wikimedia.org/wikipedia/commons/8/8f/Deulin_-_Les_Contes_de_ma_m%C3%A8re_l%27Oye_avant_Perrault.djvu)
 
 ###### Questions

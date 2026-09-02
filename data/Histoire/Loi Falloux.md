@@ -20,8 +20,9 @@ indice_6 :
   - IIe République
 questions:
  - Quel nom porte la loi de 1850 libérant les professeurs dans leur exercice ?
+culture_g_score: 60
+culture_g_justification: "Loi classique de l’histoire scolaire et religieuse française, mais moins incontournable que les grandes lois républicaines."
 ---
-
 ![Image de Loi Falloux](https://upload.wikimedia.org/wikipedia/commons/0/04/Alfred_de_Falloux_Disderi_BNF_Gallica.jpg)
 
 ###### Questions

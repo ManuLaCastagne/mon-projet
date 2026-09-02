@@ -20,8 +20,9 @@ indice_6 :
   - Championnat de France
 questions:
  - Quel footballeur, ayant joué aux côtés de son frère Mentalist à Saint-Etienne dans les années 70, est le meilleur buteur de l'histoire de ce club?
+culture_g_score: 51
+culture_g_justification: "Ancien buteur important de Saint-Étienne et des Bleus, mais aujourd'hui principalement utile dans des questions spécialisées sur le football français ancien."
 ---
-
 ![Image de Hervé Revelli](https://upload.wikimedia.org/wikipedia/commons/6/6b/Herv%C3%A9_Revelli_%28en_1968%29.jpg)
 
 ###### Questions

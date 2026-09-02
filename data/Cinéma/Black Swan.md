@@ -18,8 +18,9 @@ indice_5 :
   - Aronofsky film
 indice_6 : 
   - Ballet
+culture_g_score: 80
+culture_g_justification: "Film marquant de Darren Aronofsky, régulièrement interrogé via Natalie Portman, le ballet, Tchaïkovski et la psychologie."
 ---
-
 ![Image de Black Swan](https://upload.wikimedia.org/wikipedia/commons/c/ce/Black_Swan_at_Martin_Mere.JPG)
 
 ###### Questions

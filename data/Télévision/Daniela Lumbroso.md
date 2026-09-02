@@ -20,8 +20,9 @@ indice_6 :
   - Projets liés à la chanson française
 questions:
  - Quelle journaliste a présenté les émissions "Chabada"...
+culture_g_score: 44
+culture_g_justification: "Animatrice de variétés connue du public français, mais dont la fréquence et la portée dépassent rarement le cadre télévisuel national."
 ---
-
 ![Image de Daniela Lumbroso](https://upload.wikimedia.org/wikipedia/commons/a/a7/Daniela_Lumbroso_Cannes.jpg)
 
 ###### Questions

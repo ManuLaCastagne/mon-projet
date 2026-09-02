@@ -20,9 +20,9 @@ indice_5 :
   - Les Héroïdes
 indice_6 : 
   - littérature antique
+culture_g_score: 88
+culture_g_justification: "Auteur majeur de l’Antiquité, incontournable pour les Métamorphoses, la mythologie, la poésie latine et son exil."
 ---
-
-
 ![Image de Ovide](https://upload.wikimedia.org/wikipedia/commons/9/97/Marie_Eustache_Ovide_Yencesse_1869-1947.jpg)
 
 ###### Questions

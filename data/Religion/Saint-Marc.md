@@ -20,8 +20,9 @@ indice_6 :
   - Martyr à Alexandrie
 questions:
  - En 1063, quelle basilique vénitienne emprunte le style des saints Apôtres de Constantinople ?
+culture_g_score: 80
+culture_g_justification: "Évangéliste associé au lion, à Venise et à Alexandrie, Saint-Marc possède plusieurs points d’entrée fréquents en quiz."
 ---
-
 ![Image de Saint-Marc](https://upload.wikimedia.org/wikipedia/commons/d/d0/Saint-Marc_Welcome_Sign_at_Frecyneau.jpg)
 
 ###### Questions

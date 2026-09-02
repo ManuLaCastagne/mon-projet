@@ -22,8 +22,9 @@ indice_6 :
   - roman
 questions:
  - En 2018, quel écrivain, prix Goncourt pour "Les noces barbares" publie "Le dictionnaire amoureux de la mer" ?
+culture_g_score: 40
+culture_g_justification: "Lauréat du Goncourt 1985, il constitue une connaissance littéraire utile mais relativement périphérique dans un entraînement généraliste."
 ---
-
 ![Image de Yann Queffélec](https://upload.wikimedia.org/wikipedia/commons/2/22/Yann_Queff%C3%A9lec_%282018%29.jpg)
 
 ###### Questions

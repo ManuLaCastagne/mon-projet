@@ -22,8 +22,9 @@ indice_6 :
   - voyage onirique
 questions:
  - dans un univers à mi-chemin entre le réel et le fantastique, j'ai été composé en 1871 par Arthur Rimbaud alors âgé de 17 ans. Débutant par le vers  "Comme je descendais des fleuves impassibles", je suis …
+culture_g_score: 80
+culture_g_justification: "Poème emblématique de Rimbaud, fréquemment lié au symbolisme, à Verlaine et au renouvellement de la poésie française."
 ---
-
 ![Image de Le Bateau ivre](https://upload.wikimedia.org/wikipedia/commons/9/95/Le_Bateau_ivre_manuscrit_Verlaine.jpg)
 
 ###### Questions

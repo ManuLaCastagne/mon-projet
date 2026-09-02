@@ -19,8 +19,9 @@ indice_5 :
   - père de Milann
 indice_6 : 
   - Les Anges de la télé-réalité 5
+culture_g_score: 24
+culture_g_justification: "Personnalité surtout connue à travers son couple avec Nabilla, avec une valeur culturelle et un rendement de mémorisation faibles."
 ---
-
 ![Image de Thomas Vergara](https://upload.wikimedia.org/wikipedia/commons/2/2d/Sant_Tom%C3%A0s_de_Villanueva_%28detall%29%2C_Ignasi_Vergara%2C_Museu_Hist%C3%B2ric_Municipal%2C_Val%C3%A8ncia.JPG)
 
 ###### Questions

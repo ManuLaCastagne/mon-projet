@@ -23,8 +23,9 @@ indice_6 :
   - Renaissance italienne
 questions:
  - Quelle villa italienne, près de Vincenze, fut construite par Andrea Palladio et doit son nom à la salle circulaire sous coupole qui en marque le centre ?
+culture_g_score: 68
+culture_g_justification: "Œuvre majeure de Palladio, fréquemment mobilisable pour la Renaissance, le classicisme, l’architecture résidentielle et l’influence internationale."
 ---
-
 ![Image de Villa Rotonda](https://upload.wikimedia.org/wikipedia/commons/8/86/07-Villa-Rotonda-Palladio.jpg)
 
 ###### Questions

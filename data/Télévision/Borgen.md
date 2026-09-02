@@ -20,9 +20,9 @@ indice_6 :
   - série danoise
 questions:
  - Quelle série télévisée danoise, diffusée sur Arte… Femme politique qui devient Premier ministre et qui crée son propre parti. Brigitte Nyborg, l'héroïne.
+culture_g_score: 68
+culture_g_justification: "Série politique internationale reconnue, offrant des angles sur le Danemark, les institutions, les médias et la représentation du pouvoir."
 ---
-
-
 ![Image de Borgen](https://upload.wikimedia.org/wikipedia/commons/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Numéro 1 mondial
 questions:
  - En 1982, quel tennisman suédois, âgé de 17 ans...
+culture_g_score: 60
+culture_g_justification: "Champion suédois classique du tennis, utile pour Roland-Garros, 1988 et les surfaces, mais moins incontournable que les légendes absolues."
 ---
-
-
 ![Image de Mats Wilander](https://upload.wikimedia.org/wikipedia/commons/7/7f/Mats_Wilander_%282023_US_Open%29_01_%28cropped%29.jpg)
 
 ###### Questions

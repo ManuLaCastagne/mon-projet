@@ -22,8 +22,9 @@ indice_6 :
   - Coco avant Chanel
 questions:
  - Quelle actrice a été révélée au grand public grâce à son rôle dans "Vénus Beauté..."
+culture_g_score: 73
+culture_g_justification: "Actrice française très identifiable grâce à Amélie, mais dont la portée culturelle reste moins large que celle des grandes icônes internationales."
 ---
-
 ![Image de Audrey Tautou](https://upload.wikimedia.org/wikipedia/commons/3/3b/Audrey_Tautou_janvier_2016.jpg)
 
 ###### Questions

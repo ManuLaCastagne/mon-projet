@@ -23,8 +23,9 @@ indice_6 :
   - Dolce Vita
 questions:
  - A Rome, dans quelle fontaine monumentale, adossée au palais Poli, les touristes jettent-ils une pièce en faisant un voeu?
+culture_g_score: 92
+culture_g_justification: "La fontaine de Trevi est un marronnier mondial des quiz grâce à Rome, au baroque, à la tradition des pièces et à La Dolce Vita."
 ---
-
 ![Image de Fontaine de Trevi](https://upload.wikimedia.org/wikipedia/commons/6/66/Fontaine_Trevi_-_Rome.jpg)
 
 ###### Questions

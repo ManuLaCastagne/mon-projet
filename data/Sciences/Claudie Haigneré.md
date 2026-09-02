@@ -20,8 +20,9 @@ indice_6 :
   - médecine aéronautique
 questions:
  - En 1996, quelle spationaute et médecin Française participe à la mission spatiale franco-russe Cassiopée, à bord de la station Mir ?
+culture_g_score: 60
+culture_g_justification: "Claudie Haigneré est un repère de l’astronautique française et européenne, mais ses questions restent principalement spatiales."
 ---
-
 ![Image de Claudie Haigneré](https://upload.wikimedia.org/wikipedia/commons/3/3a/HaignereClaudie.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Elle a écrit plus de 40 livres
 questions:
  - Le prix Vérité. Ecrivant également pour le théâtre, la radio et la télévision, on me doit 48 romans, dont "Dieu est en retard", "Toutes les chances plus une" et "Le Cavalier mongol". Disparue en 2015, j'ai été révélée par l'ouvrage "J'ai 15 ans et je ne veux pas mourir".
+culture_g_score: 40
+culture_g_justification: "Autrice franco-hongroise liée à un récit autobiographique de guerre connu, mais désormais peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Christine Arnothy](https://upload.wikimedia.org/wikipedia/commons/1/16/Christine_Arnothy01.JPG)
 
 ###### Questions

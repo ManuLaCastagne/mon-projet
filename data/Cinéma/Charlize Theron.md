@@ -22,8 +22,9 @@ indice_6 :
   - égérie de Dior
 questions:
  - Quelle actrice sud-africaine n'a pas hésité à prendre une quinzaine de kilos pour incarner une tueuse en série dans le film "Monster"?
+culture_g_score: 73
+culture_g_justification: "Actrice très connue grâce à Monster, Mad Max et Hollywood, avec plusieurs indices immédiatement rentables en quiz."
 ---
-
 ![Image de Charlize Theron](https://upload.wikimedia.org/wikipedia/commons/5/5d/Charlize-theron-IMG_6045.jpg)
 
 ###### Questions

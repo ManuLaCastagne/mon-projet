@@ -15,8 +15,9 @@ indice_6 :
   - Meilleur ami de l'homme
 questions:
  - Quel mot anglais, signifiant fameux, désigne un cheval de course exceptionnellement bon?
+culture_g_score: 20
+culture_g_justification: "Ce cheval de course précis est une référence hippique très spécialisée, sans forte réutilisation en culture générale."
 ---
-
 ![Image de Crack](https://upload.wikimedia.org/wikipedia/commons/1/19/Crack_climbing_in_Indian_Creek%2C_Utah.jpg)
 
 ###### Questions

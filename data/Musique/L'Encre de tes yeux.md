@@ -22,8 +22,9 @@ indice_6 :
   - Elle met de la magie
 questions:
  - 1980. Chanson de Francis Cabrel qui parle d'une partie du visage ?
+culture_g_score: 53
+culture_g_justification: "Chanson populaire de Francis Cabrel, utile pour quelques questions sur la variété française et sa discographie, sans forte transversalité."
 ---
-
 ![Image de L'Encre de tes yeux](https://upload.wikimedia.org/wikipedia/commons/f/f0/Le_soleil.._les_bleds.._tes_beaux_yeux.._ton.._tout_m%27enflamme%2C_il_%27y_a_pas_moyen_d%27%C3%A9chapper.._N%C2%B051._G.7972.jpg)
 
 ###### Questions

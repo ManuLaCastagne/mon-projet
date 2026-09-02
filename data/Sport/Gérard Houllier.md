@@ -20,8 +20,9 @@ indice_6 :
   - Reds manager
 questions:
  - En 1986, quel ancien entraîneur du RC Lens conduit le PSG à son 1er titre de champion de France?
+culture_g_score: 63
+culture_g_justification: "Entraîneur français connu pour ses passages au PSG, à Liverpool et en équipe de France, offrant plusieurs repères malgré une notoriété modérée."
 ---
-
 ![Image de Gérard Houllier](https://upload.wikimedia.org/wikipedia/commons/7/76/G%C3%A9rard_Houllier_%28cropped%29.jpg)
 
 ###### Questions

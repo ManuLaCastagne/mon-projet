@@ -22,8 +22,9 @@ indice_6 :
   - 1887
 questions:
  - Dans quel récit fantastique Guy de Maupassant raconte-t-il les hallucinations d'un homme soumis à la volonté d'un être surnaturel?
+culture_g_score: 77
+culture_g_justification: "Nouvelle fantastique classique de Maupassant, régulièrement questionnée pour la folie, le surnaturel, la forme du journal et le contexte littéraire."
 ---
-
 ![Image de Horla](https://upload.wikimedia.org/wikipedia/commons/3/3f/Guy_de_Maupassant_le_Horla-edition1908.jpg)
 
 ###### Questions

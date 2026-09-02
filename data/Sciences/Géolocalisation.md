@@ -5,6 +5,8 @@ tags:
   - Années_2010
   - France
 date: 2014
+culture_g_score: 68
+culture_g_justification: "Technologie très courante et interrogée sous des angles techniques, juridiques et pratiques, mais rarement comme grand repère historique."
 ---
 ###### Questions 
 

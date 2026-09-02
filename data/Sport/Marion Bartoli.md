@@ -20,8 +20,9 @@ indice_6 :
   - Simple dames
 questions:
  - En 2013, quelle joueuse de tennis remporte le tournoi de Wimbledon?
+culture_g_score: 64
+culture_g_justification: "Joueuse française connue grâce à Wimbledon 2013 et à sa retraite précoce, mais son importance reste principalement tennistique."
 ---
-
 ![Image de Marion Bartoli](https://upload.wikimedia.org/wikipedia/commons/1/18/Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Marion_Bartoli.jpg)
 
 ###### Questions

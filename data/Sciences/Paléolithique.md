@@ -20,10 +20,9 @@ indice_6 :
   - chasseurs-cueilleurs
 questions:
  - Quelle période s'étendant sur plusieurs millions d'années est la plus longue...
+culture_g_score: 84
+culture_g_justification: "Période majeure de la préhistoire, le Paléolithique revient souvent via les outils, l’art rupestre, les modes de vie et l’évolution humaine."
 ---
-
-
-
 ![Image de Paléolithique](https://upload.wikimedia.org/wikipedia/commons/3/3c/Nucleus_Brassempouy_Global_fond.jpg)
 
 ###### Questions

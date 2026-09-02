@@ -20,8 +20,9 @@ indice_6 :
   - Équivalent de comte
 questions:
  - Au Moyen Age, quel titre était donné aux princes germaniques possesseurs de terres relevant de l'empereur?
+culture_g_score: 43
+culture_g_justification: "Landgrave est un titre historique utile pour le Saint-Empire et les principautés allemandes, mais son usage est étroit et peu fréquent."
 ---
-
 ![Image de Landgrave](https://upload.wikimedia.org/wikipedia/commons/7/7f/Martin_van_Meytens_-_Portrait_Constantine_of_Hesse-Rheinfels-Rotenburg%2C_Landgrave_of_Hesse-Rotenburg.jpg)
 
 ###### Questions

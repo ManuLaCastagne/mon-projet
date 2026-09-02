@@ -22,8 +22,9 @@ indice_6 :
   - Cinq méditations sur la beauté
 questions:
  - En 1998, quel écrivain français d'origine chinoise reçoit le prix Fémina, à 69 ans, pour son 1er roman "Le Dit de Tianyi"?
+culture_g_score: 47
+culture_g_justification: "Écrivain et académicien important dans la littérature francophone, mais encore relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de François Cheng](https://upload.wikimedia.org/wikipedia/commons/2/2d/Fran%C3%A7ois_Cheng-FIG_2004.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5:
   - Long saut
 indice_6:
   - 100 mètres
+culture_g_score: 100
+culture_g_justification: "Jesse Owens est une figure universelle, au croisement de l’athlétisme, des Jeux de 1936, de l’histoire du nazisme et de la lutte contre le racisme."
 ---
-
 ![Image de Jesse Owens](https://upload.wikimedia.org/wikipedia/commons/1/19/Jesse_Owens_1936.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - groupes séparés abruptement
 questions:
  - En 1987, quel groupe féminin connaît le succès avec la chanson intitulée "Vélomoteur"?
+culture_g_score: 20
+culture_g_justification: "Groupe français de niche dont la notoriété et la présence dans les quiz généralistes restent très faibles."
 ---
-
 ![Image de Calamités](https://upload.wikimedia.org/wikipedia/commons/9/96/Calamites_fossils_kz01.jpg)
 
 ###### Questions

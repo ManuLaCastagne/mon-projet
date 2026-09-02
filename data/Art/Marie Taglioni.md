@@ -23,8 +23,9 @@ indice_6 :
   - Étoile
 questions:
  - Quelle grande danseuse italienne de l'époque romantique reste associée à la création, en 1832 à l'Opéra de Paris, de "La Sylphide"?
+culture_g_score: 64
+culture_g_justification: "Pionnière incontournable du ballet romantique et des pointes, utile pour La Sylphide et l’histoire de la danse, mais dans un domaine spécialisé."
 ---
-
 ![Image de Marie Taglioni](https://upload.wikimedia.org/wikipedia/commons/d/d5/Miss_Taglioni%2C_G.38956.jpg)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_6 :
   - recyclage artistique
 questions:
  - Ca, c'est la "Roue de bicyclette" et le "Porte-bouteilles" présentés par l'artiste Marcel Duchamp en 1913-1914. Par quelle locution anglaise a-t-on désigné ses oeuvres?
+culture_g_score: 80
+culture_g_justification: "Le ready-made est une notion centrale de l’art moderne, directement reliée à Duchamp, Dada, l’art conceptuel et plusieurs œuvres célèbres."
 ---
-
-
 ![Image de Ready-made](https://upload.wikimedia.org/wikipedia/commons/e/e7/%22SOS%22_Ready-made_%28c%29_Gerhard_Rossmann.gif)
 
 ###### Questions

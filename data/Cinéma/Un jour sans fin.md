@@ -22,8 +22,9 @@ indice_6 :
   - comédie romantique
 questions:
  - En 1993, dans quel film le personnage incarné par Bill Murray revit-il chaque jour...
+culture_g_score: 93
+culture_g_justification: "Comédie culte mondialement connue, associée à Bill Murray, à la Journée de la marmotte, à la boucle temporelle et à de nombreuses références culturelles."
 ---
-
 ![Image de Un jour sans fin](https://upload.wikimedia.org/wikipedia/commons/f/f3/Un_jour_sans_fin_logo.svg)
 
 ###### Questions

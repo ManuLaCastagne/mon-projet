@@ -22,8 +22,9 @@ indice_6 :
   - Chanteur lyrique
 questions:
  - Quel chanteur d'opéra italien, disparu en 1921...
+culture_g_score: 68
+culture_g_justification: "Ténor historique et pionnier de l'enregistrement, souvent cité en musique classique mais avec des angles relativement spécialisés."
 ---
-
 ![Image de Enrico Caruso](https://upload.wikimedia.org/wikipedia/commons/2/29/Enrico_Caruso%2C_George_Frideric_Handel%2C_Ombra_mai_fu_%28Serse%29.ogg)
 
 ###### Questions

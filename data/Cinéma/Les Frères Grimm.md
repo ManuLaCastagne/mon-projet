@@ -19,8 +19,9 @@ indice_5:
   - Hansel et Gretel
 indice_6:
   - La Belle au bois dormant
+culture_g_score: 40
+culture_g_justification: "Film fantastique de Terry Gilliam relativement secondaire, malgré son lien indirect avec les célèbres conteurs allemands."
 ---
-
 ![Image de Les Frères Grimm](https://upload.wikimedia.org/wikipedia/commons/b/b7/Les_fr%C3%A8res_Grimm%2C_leur_vie_et_leurs_travaux_%28IA_lesfrresgrimmleu00baud%29.pdf)
 
 ###### Questions

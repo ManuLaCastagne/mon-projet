@@ -14,8 +14,9 @@ indice_5:
 indice_6: 
 questions:
   - Quelle ville de Chine, également appelé Guangzhou...
+culture_g_score: 80
+culture_g_justification: "Grande métropole chinoise régulièrement liée au commerce, à la province du Guangdong, à l’histoire et aux événements sportifs."
 ---
-
 ![Image de Canton](https://upload.wikimedia.org/wikipedia/commons/2/2e/Canton%2C_Ohio_Fire_Department%2C_Oct._2%2C_1913.jpg)
 
 ![[Carte_Canton (Chine).png]]

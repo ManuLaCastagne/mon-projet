@@ -18,6 +18,8 @@ indice_5 :
   - Bel-Air
 indice_6 : 
   - DJ Jazzy Jeff
+culture_g_score: 76
+culture_g_justification: "Sitcom très connue, rentable par Will Smith, son générique, la culture populaire américaine et ses personnages."
 ---
 ![[Pasted image 20250505175330.png]]
 ###### Questions

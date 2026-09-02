@@ -23,8 +23,9 @@ indice_6 :
   - Jean-Marcel Auburtin
 questions:
  - En 2010, dans quelle salle de spectacle dans la rue du Faubourg Saint-Honoré a été donné le premier concert de musique électro de France, alors qu'elle était auparavant le temple de la musique classique ?
+culture_g_score: 51
+culture_g_justification: "Salle parisienne reconnue dans l'histoire musicale, mais son identification reste relativement spécialisée en culture générale."
 ---
-
 ![Image de Salle Pleyel](https://upload.wikimedia.org/wikipedia/commons/7/7f/Paris-Salle_Pleyel_P1260667.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5 :
   - Calton Hill
 indice_6 : 
   - Festival d'Édimbourg
+culture_g_score: 80
+culture_g_justification: "Capitale écossaise très classique, associée à l’histoire britannique, aux festivals, aux monuments et à la littérature."
 ---
-
 ![[Carte_Édimbourg.png]]
 
 ###### Questions

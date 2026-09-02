@@ -20,8 +20,9 @@ indice_6 :
   - Lancer de disque
 questions:
  - Disposé au-dessus d'un tapis. Agrès devant ma particularité aux 2 cercles de bois de 18 cm de diamètre tenus en main par le gymnaste lorsqu'il évolue, je suis…
+culture_g_score: 57
+culture_g_justification: "Épreuve olympique emblématique de gymnastique, mais offrant surtout des questions proches sur l’appareil et ses champions."
 ---
-
 ![Image de Anneaux](https://upload.wikimedia.org/wikipedia/commons/2/22/Les_Anneaux_%28Estuaire%2C_Nantes%29_%287717473276%29.jpg)
 
 ###### Questions

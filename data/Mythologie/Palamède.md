@@ -18,8 +18,9 @@ indice_6 :
   - accusé de trahison par Ulysse
 questions:
  - Avec Ménélas, quel héros grec, roi d'Eubée, contraint Ulysse à partir à la guerre en menaçant son fils?
+culture_g_score: 40
+culture_g_justification: "Héros grec associé à des inventions et à la guerre de Troie, Palamède reste une connaissance spécialisée et peu rentable hors de quelques questions précises."
 ---
-
 ![Image de Palamède](https://upload.wikimedia.org/wikipedia/commons/2/2f/Palam%C3%A8de_de_Forbin.JPG)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - métro moscovite
 indice_6 : 
   - rivière Moskova
+culture_g_score: 100
+culture_g_justification: "Capitale mondiale incontournable pour l’histoire russe, la politique, la guerre froide, l’architecture et la géographie."
 ---
-
 ![Image de Moscou](https://upload.wikimedia.org/wikipedia/commons/8/87/Novodevichy_Convent_Night.jpg)
 
 ![[Carte_Moscou.png]]

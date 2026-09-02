@@ -22,8 +22,9 @@ indice_6 :
   - exploration de la dualité humanité et spiritualité
 questions:
  - En 1927, à quel écrivain suisse d'origine allemande doit-on le roman "Le Loup des steppes"?
+culture_g_score: 80
+culture_g_justification: "Prix Nobel et auteur de Siddhartha et du Loup des steppes, mobilisable sur la littérature allemande, la spiritualité et la psychologie."
 ---
-
 ![Image de Hermann Hesse](https://upload.wikimedia.org/wikipedia/commons/d/da/Hermann_Hesse_2.jpg)
 
 ###### Questions

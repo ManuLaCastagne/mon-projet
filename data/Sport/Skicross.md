@@ -20,8 +20,9 @@ indice_6 :
   - Départs en masse
 questions:
  - Dans quelle discipline  olympique de ski free-style, les skieurs s'élancent-ils en même temps...
+culture_g_score: 40
+culture_g_justification: "Discipline spectaculaire du ski freestyle mais récente et relativement peu connue, apparaissant surtout dans des questions olympiques précises."
 ---
-
 ![Image de Skicross](https://upload.wikimedia.org/wikipedia/commons/c/c4/DavidContamines2010.jpg)
 
 ###### Questions

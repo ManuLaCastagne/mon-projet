@@ -22,8 +22,9 @@ indice_6 :
   - XIXe siècle
 questions:
  - En 1834, quel titre en forme de proverbe Alfred de Musset a-t-il donné à une pièce ?
+culture_g_score: 68
+culture_g_justification: "Pièce classique de Musset, souvent citée avec ses personnages et le romantisme, mais moins incontournable que les grands chefs-d’œuvre scolaires."
 ---
-
 ![Image de On ne badine pas avec l'amour](https://upload.wikimedia.org/wikipedia/commons/6/65/On_ne_badine_pas_avec_l%27amour_-_sc%C3%A9nario_-_btv1b6407911q_%282_of_2%29.jpg)
 
 ###### Questions

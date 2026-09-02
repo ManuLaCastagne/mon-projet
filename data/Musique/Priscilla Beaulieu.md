@@ -22,8 +22,9 @@ indice_6:
   - mannequin
 questions:
   - Le 1er mai 1967, quelle femme rencontrée lors de son service militaire qu'il épouse à Musique/Las Vegas en 1967 ?
+culture_g_score: 56
+culture_g_justification: "Sa relation avec Elvis Presley la rend régulièrement identifiable, mais son importance propre demeure secondaire dans la culture générale."
 ---
-
 ![Image de Priscilla Beaulieu](https://upload.wikimedia.org/wikipedia/commons/7/72/Priscilla_Presley_%282003%29.jpg)
 
 ###### Questions

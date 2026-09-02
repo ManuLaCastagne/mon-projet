@@ -24,8 +24,9 @@ indice_6 :
   - Courses de pierres mouvantes
 questions:
  - Site naturel américain abritant Zabriskie Point, célèbre grâce à un film d'Antonioni. Un des endroits les plus chauds du monde avec un record à 57 degrés.
+culture_g_score: 80
+culture_g_justification: "Lieu emblématique associé aux records de chaleur, au point le plus bas d’Amérique du Nord et à plusieurs curiosités naturelles."
 ---
-
 ![Image de Vallée de la Mort](https://upload.wikimedia.org/wikipedia/commons/2/2e/Death_Valley_exit_SR190_view_Panamint_Butt_flash_flood_2013.jpg)
 
 ![[Carte_Vallée de la Mort.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - style poétique et introspectif
 questions:
  - En 2016, dans "Le Grand Marin", quelle romancière évoque ses années de pêche en Alaska ?
+culture_g_score: 32
+culture_g_justification: "Autrice française contemporaine connue pour Le Grand Marin, mais encore peu présente dans les quiz généralistes."
 ---
-
 ![Image de Catherine Poulain](https://upload.wikimedia.org/wikipedia/commons/7/78/Catherine_Poulain_%282018%29.jpg)
 
 ###### Questions

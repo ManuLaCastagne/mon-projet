@@ -21,8 +21,9 @@ indice_5 :
   - Art déco
 indice_6 : 
   - bras ouverts vers le monde
+culture_g_score: 85
+culture_g_justification: "Le Christ Rédempteur est un monument mondialement emblématique, fréquemment associé à Rio, au Brésil, à son architecture et aux merveilles du monde."
 ---
-
 ![Image de Statue du Christ rédempteur](https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg)
 
 ###### Questions

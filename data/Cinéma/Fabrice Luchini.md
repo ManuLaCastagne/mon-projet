@@ -22,9 +22,9 @@ indice_6 :
   - Les Femmes du 6e étage
 questions:
  - Dans les années 90,  quel acteur français retrouvait-on à la fois à l'affiche des comédies "Rien sur Robert" et "Riens du tout" ?
+culture_g_score: 76
+culture_g_justification: "Acteur français très identifiable par son éloquence, la littérature, le théâtre et plusieurs comédies ou films d’auteur célèbres."
 ---
-
-
 ![Image de Fabrice Luchini](https://upload.wikimedia.org/wikipedia/commons/9/93/Fabrice_Luchini_2010.jpg)
 
 ###### Questions

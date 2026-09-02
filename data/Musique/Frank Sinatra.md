@@ -22,8 +22,9 @@ indice_6 :
   - Ol' Blue Eyes
 questions:
  - The Hoboken Four,  je suis bientôt recruté dans l'orchestre de Harry James puis dans celui de Tommy Dorsey dont je deviendrai la vedette. Egalement acteur, notamment dans "Tant qu'il y aura des hommes", j'ai interprété, entre autres, les chansons "Fly me to the moon"...
+culture_g_score: 100
+culture_g_justification: "Icône internationale du chant et du cinéma, incontournable pour le jazz vocal, Hollywood, les standards et l'histoire musicale du XXe siècle."
 ---
-
 ![Image de Frank Sinatra](https://upload.wikimedia.org/wikipedia/commons/c/c2/Frank_Sinatra_by_Gottlieb_c1947-_2.jpg)
 
 ###### Questions

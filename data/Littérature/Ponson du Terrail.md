@@ -20,9 +20,9 @@ indice_5:
   - Littérature de cape et d'épée
 indice_6:
   - Romans du XIXe siècle
+culture_g_score: 43
+culture_g_justification: "Auteur de littérature populaire surtout retenu pour Rocambole, référence utile mais assez secondaire dans la culture générale."
 ---
-
-
 ![Image de Ponson du Terrail](https://upload.wikimedia.org/wikipedia/commons/5/53/Ponson_du_Terrail_Nadar.jpg)
 
 ###### Questions

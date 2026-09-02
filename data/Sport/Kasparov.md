@@ -20,9 +20,9 @@ indice_6 :
   - Russie
 questions:
  - Homme célèbre dont le quotient intellectuel serait de 190, j'ai été consultant pour la série télévisée "Le jeu de la dame". Détenant de 1999 à 2013 le classement Elo le plus élevé, je suis devenu champion du monde après un 1er match interrompu l'année précédente, et détrônant...
+culture_g_score: 97
+culture_g_justification: "Figure incontournable des échecs, liée à Karpov, à Deep Blue, à l’URSS et à l’histoire de l’intelligence artificielle."
 ---
-
-
 ![Image de Kasparov](https://upload.wikimedia.org/wikipedia/commons/3/31/Garry_Kasparov_%2837097592314%29.jpg)
 
 ###### Questions

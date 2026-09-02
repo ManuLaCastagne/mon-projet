@@ -22,8 +22,9 @@ indice_6 :
   - Placido Domingo
 questions:
  - En 2018, quel ténor franco-italien a chanté sur scène avec sa femme...
+culture_g_score: 60
+culture_g_justification: "Ténor franco-italien reconnu dans l'opéra et les médias francophones, mais dont les questions restent relativement spécialisées."
 ---
-
 ![Image de Roberto Alagna](https://upload.wikimedia.org/wikipedia/commons/1/18/ALAGNA-24x30-2004b.jpg)
 
 ###### Questions

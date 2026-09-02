@@ -13,9 +13,9 @@ indice_5:
   - Sang-dragon
 indice_6:
   - Plante ornementale et extraction de colorant rouge
+culture_g_score: 51
+culture_g_justification: "Arbre exotique associé au sang-dragon et à quelques lieux célèbres, mais rarement interrogé précisément."
 ---
-
-
 ![Image de Dragonnier](https://upload.wikimedia.org/wikipedia/commons/9/9a/Dracaena_draco_6.jpg)
 
 ###### Questions

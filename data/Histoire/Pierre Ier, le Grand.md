@@ -20,9 +20,9 @@ indice_6 :
   - guerre du Nord
 questions:
  - De 1682 à 1696, quel tsar, ayant entrepris l'occidentalisation de la Russie, a régné...
+culture_g_score: 100
+culture_g_justification: "Pierre le Grand est une figure incontournable de l’histoire russe, des réformes, de l’expansion européenne et de la fondation de Saint-Pétersbourg."
 ---
-
-
 ![Image de Pierre Ier, le Grand](https://upload.wikimedia.org/wikipedia/commons/5/56/L%27Empire_russe_et_son_expansion_de_Pierre_Ier_le_Grand_%C3%A0_Nicolas_Ier_de_Russie_-_btv1b53136327k.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - plages de sable et de galets
 questions:
  - Quelle station balnéaire, située à l'ouest du Var, entre Saint-Cyr-sur-Mer et Sanary-sur-Mer, est réputée pour ses vins, pourvus d'une AOC depuis 1941 ?
+culture_g_score: 44
+culture_g_justification: "Station balnéaire française connue pour son vin, mais dont les possibilités de questions restent assez limitées."
 ---
-
 ![Image de Bandol](https://upload.wikimedia.org/wikipedia/commons/6/69/Bandol_vu_des_calanques_le_soir_en_%C3%A9t%C3%A9.jpg)
 
 ![[Carte_Bandol.png]]

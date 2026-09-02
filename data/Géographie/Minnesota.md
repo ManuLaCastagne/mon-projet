@@ -24,9 +24,9 @@ indice_6 :
   - 10 000 lacs
 questions:
  - Quel Etat étasunien a pour devise "L'étoile du Nord" ?
+culture_g_score: 68
+culture_g_justification: "État américain utile pour les Grands Lacs, la géographie du Midwest, les lacs et plusieurs repères culturels."
 ---
-
-
 ![Image de Minnesota](https://upload.wikimedia.org/wikipedia/commons/0/0a/Minnesota_Welcomes_You_sign.jpg)
 
 ![[Carte_Minnesota.png]]

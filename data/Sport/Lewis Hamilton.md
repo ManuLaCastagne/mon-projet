@@ -20,8 +20,9 @@ indice_6 :
   - Royaume-Uni
 questions:
  - En remportant un 7e titre de champion du monde de formule 1 en 2020, quel pilote britannique a égalé le record de...
+culture_g_score: 97
+culture_g_justification: "Septuple champion du monde et première grande star noire de la F1, avec de nombreux liens vers le sport, la société et la culture populaire."
 ---
-
 ![Image de Lewis Hamilton](https://upload.wikimedia.org/wikipedia/commons/a/ae/Lewis_Hamilton_Mercedes_W08%28Ank_Kumar%2C_Infosys_Limited%29_01.jpg)
 
 ###### Questions

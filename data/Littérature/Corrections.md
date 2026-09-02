@@ -22,8 +22,9 @@ indice_6 :
   - critique
 questions:
  - Dans quel roman de Jontahan Franzen paru en 2002 raconte-t-il l'histoire d'une famille américaine portant le nom de Lambert ?
+culture_g_score: 51
+culture_g_justification: "Roman important de la littérature américaine contemporaine, mais encore peu fréquent dans les quiz francophones généralistes."
 ---
-
 ![Image de Corrections](https://upload.wikimedia.org/wikipedia/commons/c/c7/Union_County_Sheriff%27s_Office_DOC_2021.png)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5:
   - Saül
 indice_6:
   - Actes des Apôtres
+culture_g_score: 100
+culture_g_justification: "Figure fondatrice du christianisme, liée aux Épîtres, à la conversion, aux voyages, à la théologie et à de nombreux repères historiques."
 ---
-
-
 ![Image de Saint-Paul](https://upload.wikimedia.org/wikipedia/commons/8/81/Saint_paul_mn.jpg)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_6 :
   - Inspiration néoclassique
 questions:
  - Quel peintre disparu en 2001 en Suisse, de son vrai nom Balthazar Klosowski de Rolla ?
+culture_g_score: 51
+culture_g_justification: "Peintre au style singulier et à la trajectoire institutionnelle notable, mais assez peu fréquent hors des quiz d’histoire de l’art."
 ---
-
-
 ![Image de Balthus](https://upload.wikimedia.org/wikipedia/commons/3/37/Oliver_Mark_-_Balthus%2C_Rossini%C3%A8re_2000_%282%29.jpg)
 
 ###### Questions

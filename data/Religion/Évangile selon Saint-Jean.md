@@ -20,10 +20,9 @@ indice_6 :
   - Bonne Nouvelle
 questions:
  - Le seul à relater les Noces de Cana et la résurrection de Lazare.
+culture_g_score: 80
+culture_g_justification: "Évangile majeur permettant des questions bibliques, théologiques, littéraires et iconographiques autour de nombreux épisodes célèbres."
 ---
-
-
-
 ![Image de Évangile selon Saint-Jean](https://upload.wikimedia.org/wikipedia/commons/c/c6/Papyrus_63_-_Staatliche_Museen_zu_Berlin_inv._11914_-_Gospel_of_John_3%2C14-18_4%2C9-10_-_verso.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Oscars
 questions:
  - Quel acteur incarne le roi Georges VI dans le "Discours d'un Roi" de Tom Hooper ?
+culture_g_score: 80
+culture_g_justification: "Acteur britannique très identifiable par Mr Darcy, Bridget Jones, Le Discours d’un roi et son Oscar."
 ---
-
 ![Image de Colin Frith](https://upload.wikimedia.org/wikipedia/commons/0/0b/Frith_Hill_-_geograph.org.uk_-_634593.jpg)
 
 ###### Questions

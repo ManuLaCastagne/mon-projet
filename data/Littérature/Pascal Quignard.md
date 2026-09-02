@@ -22,8 +22,9 @@ indice_6 :
   - Passion pour le violiste Marin Marais
 questions:
  - Quel écrivain auteur de "Tous les matins du monde" a dit   "Le silence est pour les oreilles ce que la nuit est pour les yeux" ?
+culture_g_score: 51
+culture_g_justification: "Écrivain français reconnu et lauréat du Goncourt, mais sa présence dans les questionnaires reste relativement occasionnelle."
 ---
-
 ![Image de Pascal Quignard](https://upload.wikimedia.org/wikipedia/commons/f/fe/Pascal_Quignard_le_5_avril_2013.jpg)
 
 ###### Questions

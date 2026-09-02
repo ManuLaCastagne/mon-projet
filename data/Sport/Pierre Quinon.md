@@ -20,8 +20,9 @@ indice_6 :
   - athlétisme
 questions:
  - Quel athlète français, disparu en 2011, remporte en 1984 à Los Angeles le titre olympique de saut à la perche ?
+culture_g_score: 40
+culture_g_justification: "Champion olympique français de la perche, surtout mobilisable pour quelques questions historiques d’athlétisme."
 ---
-
 ![Image de Pierre Quinon](https://upload.wikimedia.org/wikipedia/commons/2/27/Pierre_Quinon_en_1986.jpg)
 
 ###### Questions

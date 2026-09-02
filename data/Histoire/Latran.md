@@ -22,8 +22,9 @@ indice_6:
   - Signé au Palais du Latran
 questions:
   - Le 13 décembre 1545, dans quelle ville établie sur l'Adige le Concile de Trente s'est ouvert dans Saint-Virgile ?
+culture_g_score: 80
+culture_g_justification: "Le Latran permet de répondre à des questions sur la papauté, les conciles, Rome, le Vatican et les accords de 1929, avec une bonne transversalité."
 ---
-
 ![Image de Latran](https://upload.wikimedia.org/wikipedia/commons/4/40/%C4%8Cesk%C3%BD_Krumlov%2C_Latr%C3%A1n_%28145%29.JPG)
 
 ###### Questions

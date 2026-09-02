@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Quel ingénieur officier de marine et ethnologue, est le créateur en 1947 des expéditions polaires françaises ?
  - Quel prénom composé associe-t-on au patronyme Victor porté par un explorateur et ethnologue français disparu en 1995?
+culture_g_score: 60
+culture_g_justification: "Explorateur français classique, il apparaît dans des questions sur l’exploration polaire, le Groenland, les Inuits et la recherche scientifique."
 ---
-
 ![Image de Paul-Emile Victor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Pev_portrait.png)
 
 ###### Questions

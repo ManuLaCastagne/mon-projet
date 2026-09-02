@@ -18,14 +18,9 @@ indice_6 :
   - temple effondré
 questions:
  - Quel couple, évoqué dans la Bible, était formé par l'un des Juges d'Israël et une Philistine, qui lui ôta sa force en lui coupant la chevelure ?
+culture_g_score: 84
+culture_g_justification: "Récit biblique mondialement connu et abondamment adapté à l’opéra, au cinéma, à la peinture et à la littérature, Samson et Dalila est très rentable."
 ---
-
-
-
-
-
-
-
 ![Image de Samson et Dalila](https://upload.wikimedia.org/wikipedia/commons/6/66/Beaux-Arts_de_Carcassonne_-_Samson_et_Dalila_-_Antoine_Pesne_D.890.6.47_96x130.jpg)
 
 ###### Questions

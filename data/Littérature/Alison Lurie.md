@@ -20,16 +20,9 @@ indice_5:
   - The War Between the Tates
 indice_6:
   - enseignante à l'université de Cornell
+culture_g_score: 32
+culture_g_justification: "Romancière américaine récompensée par le Pulitzer, Alison Lurie reste une référence relativement spécialisée dans les quiz francophones."
 ---
-
-
-
-
-
-
-
-
-
 ![Image de Alison Lurie](https://upload.wikimedia.org/wikipedia/en/1/15/Alison_Lurie%2C_1981.jpg)
 
 ###### Questions

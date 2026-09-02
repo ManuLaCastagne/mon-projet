@@ -20,8 +20,9 @@ indice_5:
   - L'Œuvre au noir
 indice_6:
   - Mishima ou la Vision du vide
+culture_g_score: 84
+culture_g_justification: "Autrice majeure du XXe siècle, particulièrement utile pour Mémoires d’Hadrien, l’Académie française et la littérature historique."
 ---
-
 ![Image de Marguerite Yourcenar](https://upload.wikimedia.org/wikipedia/commons/7/71/Marguerite_Yourcenar-Bailleul-1982.10.04.Bernhard_De_Grendel_%2810%29.jpg)
 
 ###### Questions

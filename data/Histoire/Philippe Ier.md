@@ -18,8 +18,9 @@ indice_5 :
   - marié à Berthe de Hollande
 indice_6 : 
   - père de Louis VI
+culture_g_score: 51
+culture_g_justification: "Roi capétien utile pour la chronologie médiévale et les rapports avec l’Église, mais moins présent que les grands souverains français."
 ---
-
 ![Image de Philippe Ier](https://upload.wikimedia.org/wikipedia/commons/5/5b/Philippe_Ier_de_Savoie.png)
 
 ###### Questions

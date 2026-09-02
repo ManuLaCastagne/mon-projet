@@ -23,9 +23,9 @@ indice_6 :
 questions:
  - Ayant tour à tour été serviteur d'un cardinal italien, soldat lors de la bataille de Lépante et prisonnier au bagne d'Alger, quelle vie, je suis considéré comme la figure majeure de la littérature espagnole.  Ayant publié les "Nouvelles exemplaires" en 1613, je suis l'auteur de "Don Quichotte de la Manche", "Don Quixote de la Mancha".
  - Dans la pièce "La Vie est "un songe", quel auteur espagnol du 17e...
+culture_g_score: 97
+culture_g_justification: "Auteur de Don Quichotte, référence mondiale de la littérature, très fréquent dans les questions sur l’Espagne, le roman et le Siècle d’or."
 ---
-
-
 ![Image de Miguel de Cervantes](https://upload.wikimedia.org/wikipedia/commons/1/18/Monumento_a_Miguel_de_Cervantes_-_01.jpg)
 
 ###### Questions

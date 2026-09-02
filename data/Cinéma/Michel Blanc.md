@@ -22,8 +22,9 @@ indice_6 :
   - Le Père Noël est une ordure
 questions:
  - Dans "Marche à l'ombre", à Gérard Lanvin, qui exprime son avis sur une chambre, quel acteur répond, en parlant de la chambre  "elle donne vachement envie d'sortir!" ?
+culture_g_score: 93
+culture_g_justification: "Figure populaire du cinéma français, très rentable grâce aux Bronzés, au Splendid, à ses films et à ses César."
 ---
-
 ![Image de Michel Blanc](https://upload.wikimedia.org/wikipedia/commons/2/27/Michel_Blanc_2009.jpg)
 
 ###### Questions

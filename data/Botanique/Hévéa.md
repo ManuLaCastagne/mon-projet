@@ -15,8 +15,9 @@ indice_6 :
   - Production de latex pour caoutchouc
 questions:
  - De quel grand arbre, désigné par un nom issu du quechua, extrait-on un latex servant à la fabrication du caoutchouc?
+culture_g_score: 61
+culture_g_justification: "Le lien entre hévéa, latex et caoutchouc fournit plusieurs questions utiles en botanique, économie et industrie."
 ---
-
 ![Image de Hévéa](https://upload.wikimedia.org/wikipedia/commons/d/d2/Hevea_semillas2.jpg)
 
 ###### Questions

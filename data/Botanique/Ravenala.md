@@ -13,8 +13,9 @@ indice_5:
   - Autre appellation Arbre du voyageur
 indice_6:
   - Utilisation comme décoration pour jardins tropicaux
+culture_g_score: 60
+culture_g_justification: "L'arbre du voyageur est une curiosité botanique et un symbole de Madagascar régulièrement exploitable en quiz."
 ---
-
 ![Image de Ravenala](https://upload.wikimedia.org/wikipedia/commons/6/63/Ravenala_madagascariensis_plantae_1.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Entraîneur
 questions:
  - En 1992, quel skieur a remporté la première médaille d'or du ski acrobatique français dans les bosses ?
+culture_g_score: 57
+culture_g_justification: "Champion olympique français emblématique du ski de bosses, il fournit quelques questions classiques sur Albertville et le ski acrobatique."
 ---
-
 ![Image de Edgar Grospiron](https://upload.wikimedia.org/wikipedia/commons/b/bc/FIS_Moguls_World_Cup_2015_Finals_-_Meg%C3%A8ve_-_20150315_-_Edgar_Grospiron_1.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Guitariste
 indice_6 : 
   - Pionnier du Rock
+culture_g_score: 100
+culture_g_justification: "Pionnier incontournable du rock’n’roll, exploitable par Johnny B. Goode, les origines du rock, les influences musicales et Retour vers le futur."
 ---
-
 ![Image de Chuck Berry](https://upload.wikimedia.org/wikipedia/commons/7/7e/Los_Angeles_%28California%2C_USA%29%2C_Hollywood_Boulevard%2C_Chuck_Berry_--_2012_--_4996.jpg)
 
 ###### Questions

@@ -20,6 +20,8 @@ indice_5:
   - son aigu
 indice_6:
   - boucle audio
+culture_g_score: 56
+culture_g_justification: "Phénomène sonore reconnaissable et parfois associé à Bashung, offrant quelques angles de questions mais une importance limitée."
 ---
 ###### Questions
 

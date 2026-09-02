@@ -22,8 +22,9 @@ indice_6 :
   - Airwolf
 questions:
  - Quelle série américaine des années 80 met en scène le pilote Springfellow Hawke aux commandes d'un prototype d'hélicoptère suréquipé?
+culture_g_score: 56
+culture_g_justification: "Série d’action emblématique des années 1980, reconnaissable en France mais aujourd’hui d’importance culturelle secondaire."
 ---
-
 ![Image de Supercopter](https://upload.wikimedia.org/wikipedia/commons/e/ed/Full-size_replica_of_the_Airwolf.JPG)
 
 ###### Questions

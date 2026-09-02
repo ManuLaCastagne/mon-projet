@@ -18,10 +18,9 @@ indice_5 :
   - A Treatise Concerning the Principles of Human Knowledge
 indice_6 : 
   - Bishop of Cloyne
+culture_g_score: 67
+culture_g_justification: "Philosophe classique de l’empirisme, fréquemment associé à l’immatérialisme et à la formule « être, c’est être perçu »."
 ---
-
-
-
 ![Image de George Berkeley](https://upload.wikimedia.org/wikipedia/commons/3/32/George_Berkeley_by_John_Smibert.jpg)
 
 ###### Questions

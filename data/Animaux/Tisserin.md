@@ -13,8 +13,9 @@ indice_5 :
   - Tisserin gendarme
 indice_6 : 
   - Symbole de la coopération et de l'habileté artisanale
+culture_g_score: 40
+culture_g_justification: "Le tisserin est surtout une curiosité ornithologique centrée sur ses nids élaborés, avec une présence limitée dans les quiz généralistes."
 ---
-
 ![Image de Tisserin](https://upload.wikimedia.org/wikipedia/commons/c/cc/Baya_weaver_building_its_nest.jpg)
 
 ###### Questions

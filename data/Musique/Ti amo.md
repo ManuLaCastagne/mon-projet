@@ -22,7 +22,8 @@ indice_6 :
   - succès international
 questions:
  - En 1977, dans quelle chanson Umberto Tozzi répète-t-il 57 fois  la même déclaration d'amour  en italien?
-culture_g_score: 64
+culture_g_score: 73
+culture_g_justification: "Tube international d'Umberto Tozzi, régulièrement utilisé pour les questions de chanson italienne, de reprises et de succès multilingues."
 ---
 ![Image de Ti amo](https://upload.wikimedia.org/wikipedia/commons/2/2e/Ti_Amo%2C_Metropol_2009_%2826%29.jpg)
 

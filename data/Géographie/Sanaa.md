@@ -22,8 +22,9 @@ indice_5 :
   - Grande Mosquée al-Jamii
 indice_6 : 
   - artisanat traditionnel
+culture_g_score: 72
+culture_g_justification: "Capitale ancienne et patrimoniale du Yémen, utile en géographie, histoire, architecture et actualité internationale."
 ---
-
 ![Image de Sanaa](https://upload.wikimedia.org/wikipedia/commons/d/dd/Sanaa_HDR_%2816482367935%29.jpg)
 
 ![[Carte_Sanaa.png]]

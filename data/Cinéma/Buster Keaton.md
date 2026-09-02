@@ -22,8 +22,9 @@ indice_6 :
   - slapstick
 questions:
  - 1927, quel acteur et réalisateur américain surnommé "l'homme qui ne rit jamais", se met en scène dans le film "Le Mécano de la Générale" ?
+culture_g_score: 100
+culture_g_justification: "Pionnier incontournable du cinéma muet et du burlesque, permettant de nombreuses questions sur les cascades, la réalisation, les classiques et l’évolution du cinéma."
 ---
-
 ![Image de Buster Keaton](https://upload.wikimedia.org/wikipedia/commons/c/c2/Busterkeaton_edit.jpg)
 
 ###### Questions

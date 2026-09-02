@@ -20,8 +20,9 @@ indice_6 :
   - assassiné par sa quatrième épouse Agrippine
 questions:
  - omme un empereur de peu de prestance, soumis à l'influence de mes épouses Messaline puis Agrippine (Antiquité). Successeur de Caligula...
+culture_g_score: 84
+culture_g_justification: "Empereur romain majeur, associé à la conquête de la Bretagne, à l’administration impériale et à la dynastie julio-claudienne."
 ---
-
 ![Image de Claude (empereur)](https://upload.wikimedia.org/wikipedia/commons/0/02/D%C3%A9tail_de_Claude_nomm%C3%A9_empereur_---_MBALyon_2018.jpg)
 
 ###### Questions

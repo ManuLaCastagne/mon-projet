@@ -22,8 +22,9 @@ indice_6 :
   - écrivain francophone
 questions:
  - En 2002, quel écrivain algérien, ayant pour pseudonyme les prénoms de sa femme, c'est un homme qui écrit sous un nom de plume féminin, publie en 2002 "Les Hirondelles de Kaboul", c'est un grand écrivain ?
+culture_g_score: 60
+culture_g_justification: "Écrivain algérien connu pour son pseudonyme féminin et plusieurs romans sur l’Algérie, avec une présence correcte mais non centrale dans les quiz."
 ---
-
 ![Image de Yasmina Khadra](https://upload.wikimedia.org/wikipedia/commons/a/a2/Yasmina_Khadra_2014.jpg)
 
 ###### Questions

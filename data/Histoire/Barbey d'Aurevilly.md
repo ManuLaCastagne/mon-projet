@@ -20,8 +20,9 @@ indice_6 :
   - Une vieille maîtresse
 questions:
  - En 1864, quel écrivain publie le roman "Le Chevalier des Touches" inspiré de la vie d'un héros de la chouannerie?
+culture_g_score: 52
+culture_g_justification: "Écrivain français important du XIXe siècle, mais moins classique et moins fréquemment interrogé que les grandes figures littéraires."
 ---
-
 ![Image de Barbey d'Aurevilly](https://upload.wikimedia.org/wikipedia/commons/0/05/Barbey.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - totalitarisme
 questions:
  - M'inspirant de mes années dans la police en Asie pour "Une histoire birmane", je dénonce la situation politique en Russie dans "La Ferme des animaux".
+culture_g_score: 100
+culture_g_justification: "Auteur incontournable grâce à 1984 et La Ferme des animaux, qui relient littérature, politique, totalitarisme et histoire contemporaine."
 ---
-
 ![Image de George Orwell](https://upload.wikimedia.org/wikipedia/commons/7/7e/George_Orwell_press_photo.jpg)
 
 ###### Questions

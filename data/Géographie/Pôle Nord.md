@@ -21,8 +21,9 @@ indice_5 :
   - Groenland
 indice_6 : 
   - Expéditions polaires
+culture_g_score: 88
+culture_g_justification: "Repère géographique et symbolique mondial, fréquemment associé aux explorations, à l’Arctique, aux pôles et aux enjeux climatiques."
 ---
-
 ![[Carte_Pôle Nord.png]]
 
 ###### Questions

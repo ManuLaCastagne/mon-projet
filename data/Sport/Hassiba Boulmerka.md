@@ -20,8 +20,9 @@ indice_6 :
   - Athlétisme
 questions:
  - En 1992, un an après être devenue la 1re athlète africaine championne du monde, quelle Algérienne remporte le 1500 m olympique ?
+culture_g_score: 60
+culture_g_justification: "Championne algérienne marquante, utile pour les Jeux de 1992, l'athlétisme africain et l'histoire du 1 500 mètres, mais peu transversale."
 ---
-
 ![Image de Hassiba Boulmerka]()
 
 ###### Questions

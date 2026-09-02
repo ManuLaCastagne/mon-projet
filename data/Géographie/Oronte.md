@@ -24,8 +24,9 @@ indice_6 :
   - Antioche
 questions:
  - Quel fleuve du Proche-Orient nait au Liban dans la Bekaa, au nord du seuil de Baalbek, et se jette dans la Méditerranée en arrosant Antakya ?
+culture_g_score: 27
+culture_g_justification: "Fleuve historique du Proche-Orient, utile pour quelques questions régionales mais rarement central dans les quiz généralistes."
 ---
-
 ![Image de Oronte](https://upload.wikimedia.org/wikipedia/commons/3/3e/Orontes_River_in_Hama%2C_Syria.jpg)
 
 ![[Carte_Oronte.png]]

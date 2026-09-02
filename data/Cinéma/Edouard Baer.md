@@ -22,8 +22,9 @@ indice_6 :
   - Réalisateur de La Folle Histoire de Max et Léon
 questions:
  - Reconnu pour mon bagout, j'ai animé à plusieurs reprise la cérémonie des Cinéma/César ainsi que des émissions de télévision comme "Le Centre de visionnage". A l'affiche en 2020 du film "La Bonne..."
+culture_g_score: 56
+culture_g_justification: "Personnalité française connue pour Astérix, la télévision et les César, mais d’importance culturelle surtout nationale et modérée."
 ---
-
 ![Image de Edouard Baer](https://upload.wikimedia.org/wikipedia/commons/3/37/Edouard_Baer_Cabourg_2018.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - militant communiste
 questions:
  - A quel poète chilien né sous le signe du Cancer, Prix Nobel de littérature en 1971...
+culture_g_score: 80
+culture_g_justification: "Grand poète hispanophone et prix Nobel, fréquemment associé à la poésie amoureuse, au Chili et à l’engagement politique."
 ---
-
-
 ![Image de Pablo Neruda](https://upload.wikimedia.org/wikipedia/commons/f/f9/Busto_Pablo_Neruda.jpg)
 
 ###### Questions

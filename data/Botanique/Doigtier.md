@@ -15,9 +15,9 @@ indice_6:
   - Plante médicinale
 questions:
   - Quelle plante tombante en forme de doigts est aussi appelée "digitale" ?
+culture_g_score: 52
+culture_g_justification: "La digitale est identifiable par ses fleurs et son rôle médicinal, mais reste une connaissance botanique d'occurrence modérée."
 ---
-
-
 ![Image de Doigtier](https://upload.wikimedia.org/wikipedia/commons/6/6b/Digitalis_purpurea_220605.jpg)
 
 ###### Questions

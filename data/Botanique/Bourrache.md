@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée pour ses propriétés médicinales et culinaires
 questions:
  - Plante dont les feuilles velues dégagent une odeur de concombre, mes petites fleurs bleues en forme d'étoiles et à la saveur d'huître sont utilisées pour décorer les salades ou comme garniture sur les pâtisseries. Plante de la famille des boraginacées aux vertus sudorifiques et diurétiques, je suis...
+culture_g_score: 31
+culture_g_justification: "Plante médicinale et comestible aux fleurs bleues, intéressante mais trop spécialisée pour constituer une priorité généraliste."
 ---
-
 ![Image de Bourrache](https://upload.wikimedia.org/wikipedia/commons/5/54/Borago_officinalis_%28flower%29.jpg)
 
 ###### Questions

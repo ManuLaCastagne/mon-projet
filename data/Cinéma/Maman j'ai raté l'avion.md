@@ -18,9 +18,9 @@ indice_5 :
   - Chris Columbus
 indice_6 : 
   - Joe Pesci
+culture_g_score: 93
+culture_g_justification: "Classique familial et de Noël universellement reconnu, très fréquent dans les questions sur le cinéma populaire et Macaulay Culkin."
 ---
-
-
 ![Image de Maman j'ai raté l'avion](https://upload.wikimedia.org/wikipedia/commons/1/1a/Home_Alone_house_-02-_%289807303134%29.jpg)
 
 ###### Questions

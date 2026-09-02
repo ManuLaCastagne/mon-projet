@@ -20,8 +20,9 @@ indice_6 :
   - jeunes yéyés
 questions:
  - De 61 à 66, quelle émission, permettant aux idoles de la génération yé-yé a été présentée par Albert Raisner?
+culture_g_score: 64
+culture_g_justification: "Émission emblématique de la culture yé-yé, utile pour relier télévision, chanson française et années 1960."
 ---
-
 ![Image de Age tendre et tête de bois](https://upload.wikimedia.org/wikipedia/commons/4/47/Encyclop%C3%A9die_m%C3%A9thodique_-_For%C3%AAts_et_bois%2C_T1.djvu)
 
 ###### Questions

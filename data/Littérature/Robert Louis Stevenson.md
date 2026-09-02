@@ -22,9 +22,9 @@ indice_6 :
   - Samoa
 questions:
  - En 1878, quel écrivain britannique, auteur de "L'Île au trésor"...
+culture_g_score: 89
+culture_g_justification: "Auteur de deux classiques mondiaux, L’Île au trésor et Jekyll et Hyde, avec des liens supplémentaires vers les Cévennes et la littérature jeunesse."
 ---
-
-
 ![Image de Robert Louis Stevenson](https://upload.wikimedia.org/wikipedia/commons/7/7a/Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Utilisées dans les desserts et les plats salés
 questions:
  - En botanique, quel synonyme de pacane désigne la noix ovale à coque mince ?
+culture_g_score: 44
+culture_g_justification: "Fruit connu de la gastronomie et de la culture nord-américaine, mais rarement prioritaire dans les quiz francophones."
 ---
-
 ![Image de Noix de pécan](https://upload.wikimedia.org/wikipedia/commons/8/8e/Chocolate_pecan_tart_-_the_girl_%26_the_fig_-_2021-11-25_-_Sarah_Stierch.jpg)
 
 ###### Questions

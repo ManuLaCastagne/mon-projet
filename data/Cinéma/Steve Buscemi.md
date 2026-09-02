@@ -20,10 +20,9 @@ indice_5 :
   - acteur aux yeux globuleux
 indice_6 : 
   - Mr. Pink
+culture_g_score: 67
+culture_g_justification: "Acteur reconnaissable des films des frères Coen, de Monstres & Cie et des Soprano, avec une notoriété surtout cinéphile."
 ---
-
-
-
 ![Image de Steve Buscemi](https://upload.wikimedia.org/wikipedia/commons/3/34/Steve_Buscemi_crop.jpg)
 
 ###### Questions

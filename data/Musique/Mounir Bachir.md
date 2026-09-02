@@ -22,8 +22,9 @@ indice_6 :
   - Années 1970
 questions:
  - Quel artiste irakien a popularisé le luth oriental aussi appelé "Oud" ?
+culture_g_score: 36
+culture_g_justification: "Virtuose irakien majeur du oud, pertinent pour la culture musicale arabe mais trop spécialisé pour une priorité généraliste."
 ---
-
 ![Image de Mounir Bachir](https://upload.wikimedia.org/wikipedia/commons/2/2e/%D9%85%D9%86%D9%8A%D8%B1_%D8%A8%D8%B4%D9%8A%D8%B1_1958.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - culture celte
 questions:
  - A l'ouest de l'Ecosse, quel archipel a pour îles principales Lewis et Skye?
+culture_g_score: 47
+culture_g_justification: "Archipel écossais doté de repères préhistoriques et cinématographiques, mais de fréquence modeste dans les quiz généralistes."
 ---
-
 ![Image de Îles Hébrides](https://upload.wikimedia.org/wikipedia/commons/5/5a/South_over_the_Quiraing%2C_Isle_of_Skye_-_2.jpg)
 
 ![[Carte_Îles Hébrides.png]]

@@ -18,8 +18,9 @@ indice_5 :
   - Concile de Nicée
 indice_6 : 
   - Église russe
+culture_g_score: 80
+culture_g_justification: "Grande branche du christianisme, l'orthodoxie est fréquemment liée au schisme de 1054, à Byzance, à la Russie et aux calendriers."
 ---
-
 ![Image de Orthodoxie](https://upload.wikimedia.org/wikipedia/commons/9/9e/Orthodoxie_Kalk_3.JPG)
 
 ###### Questions

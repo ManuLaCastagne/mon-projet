@@ -20,8 +20,9 @@ indice_6 :
   - Championnat d'Europe
 questions:
  - Entre 1962 et 1965, quel coureur français de fond et de demi-fond bat 9 records ?
+culture_g_score: 64
+culture_g_justification: "Figure importante de l’athlétisme français, utile pour les records, le 1500 mètres et les championnats européens, sans être universelle."
 ---
-
 ![Image de Michel Jazy](https://upload.wikimedia.org/wikipedia/commons/d/d1/Michel_Jazy_1963.jpg)
 
 ###### Questions

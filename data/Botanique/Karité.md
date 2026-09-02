@@ -15,8 +15,9 @@ indice_6 :
   - Production de beurre corporel hydratant
 questions:
  - Je suis exploité pour les amandes de mes fruits, contenant une matière grasse utilisée en cuisine ou dans la fabrication de produits cosmétiques. Arbre également appelé...
+culture_g_score: 65
+culture_g_justification: "Le karité est une référence rentable grâce à ses usages cosmétiques, alimentaires et à son ancrage ouest-africain."
 ---
-
 ![Image de Karité](https://upload.wikimedia.org/wikipedia/commons/0/0c/Vitellaria_paradoxa_MS_6563.JPG)
 
 ###### Questions

@@ -18,11 +18,9 @@ indice_5 :
   - traité de Paris 1783
 indice_6 : 
   - commandant des forces britanniques
+culture_g_score: 60
+culture_g_justification: "Militaire britannique utile pour la guerre d’Indépendance américaine et l’histoire coloniale de l’Inde, mais rarement prioritaire."
 ---
-
-
-
-
 ![Image de Cornwallis](https://upload.wikimedia.org/wikipedia/commons/e/eb/First_Marquis_of_Cornwallis.jpg)
 
 ###### Questions

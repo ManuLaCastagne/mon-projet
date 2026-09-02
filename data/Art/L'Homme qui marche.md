@@ -23,8 +23,9 @@ indice_6 :
   - modernisme
 questions:
  - Série d'oeuvres dont le motif initial remontant à 1932 figurait une femme, j'ai été présentée dans une exposition qui s'est tenue en 2020 à Paris. Témoignant de la quête inlassable de mon auteur pour représenter l'essentiel de l'être humain, je compte 3 versions grandeur nature réalisées en 1960, dont 2 ont été fondues en bronze. Ensemble de sculptures filiformes d'Alberto Giacometti...
+culture_g_score: 68
+culture_g_justification: "L’Homme qui marche est une sculpture emblématique de Giacometti, souvent mobilisée pour l’art moderne, la sculpture et les records de vente."
 ---
-
 ![Image de L'Homme qui marche](https://upload.wikimedia.org/wikipedia/commons/e/e4/Auguste_Rodin_-_L%27Homme_qui_marche_-_3D_model_Thingiverse.stl)
 
 ###### Questions

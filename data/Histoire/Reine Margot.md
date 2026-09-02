@@ -20,8 +20,9 @@ indice_6 :
   - Catherine de Médicis
 questions:
  - Sous quel surnom connaît-on mieux Marguerite de France ou de Valois, devenue reine de Navarre par son mariage en 1572 avec le futur Henri IV ?
+culture_g_score: 80
+culture_g_justification: "Personnage historique et littéraire lié aux guerres de Religion, à Dumas, à la Saint-Barthélemy et au cinéma."
 ---
-
 ![Image de Reine Margot](https://upload.wikimedia.org/wikipedia/commons/5/5f/La_Reine_Margot_%281914%29.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de longévité
 questions:
  - Quel reptile à carapace osseuse...
+culture_g_score: 84
+culture_g_justification: "La tortue est une référence animale universelle, associée à la longévité, aux reptiles, aux espèces marines et à de nombreuses traditions culturelles."
 ---
-
 ![Image de Tortue](https://upload.wikimedia.org/wikipedia/commons/4/44/Rivi%C3%A8re_Tortue.jpg)
 
 ###### Questions

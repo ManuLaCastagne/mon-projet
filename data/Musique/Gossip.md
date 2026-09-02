@@ -22,8 +22,9 @@ indice_6 :
   - scandales
 questions:
  - I heard. Formé de 2 filles et un garçon, dont Hannah Billie à la batterie et Brace Paine à la guitare, je connais le succès avec l'album "Standing in the way of control" ainsi qu'avec le tube "Heavy cross". Groupe séparé depuis 2007...
+culture_g_score: 40
+culture_g_justification: "Groupe indie surtout connu pour quelques titres et pour Beth Ditto, avec une présence occasionnelle dans les quiz musicaux."
 ---
-
 ![Image de Gossip](https://upload.wikimedia.org/wikipedia/commons/0/04/TheGossipSBSR.jpg)
 
 ###### Questions

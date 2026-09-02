@@ -20,8 +20,9 @@ indice_6 :
   - Coureur cycliste néerlandais
 questions:
  - En 1985, quel cycliste surnommé "le hollandais de France", devient champion du monde à 39 ans ?
+culture_g_score: 44
+culture_g_justification: "Vainqueur du Tour et champion du monde, il demeure toutefois nettement moins fréquent que les grandes figures du cyclisme."
 ---
-
 ![Image de Joop Zoetemelk](https://upload.wikimedia.org/wikipedia/commons/b/bf/Joop_Zoetemelk_Gitane_1973_c.jpg)
 
 ###### Questions

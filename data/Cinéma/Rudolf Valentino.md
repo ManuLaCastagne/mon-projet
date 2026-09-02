@@ -22,8 +22,9 @@ indice_6 :
   - tango dans Les Quatre Cavaliers de l'Apocalypse
 questions:
  - En 1921, quel acteur coqueluche du cinéma américain, remporte un succès avec le film muet "Le Cheikh" ?
+culture_g_score: 71
+culture_g_justification: "Icône du cinéma muet et premier grand sex-symbol masculin, utile pour l'histoire d'Hollywood mais moins présente dans les quiz actuels."
 ---
-
 ![Image de Rudolf Valentino](https://upload.wikimedia.org/wikipedia/commons/1/11/Rudolph_Valentino.jpg)
 
 ###### Questions

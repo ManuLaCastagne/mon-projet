@@ -18,8 +18,9 @@ indice_5 :
   - Corsair F4U
 indice_6 : 
   - Commandant Pappy Boyington
+culture_g_score: 64
+culture_g_justification: "Série de guerre populaire associée à Robert Conrad, aux Corsair et au théâtre du Pacifique, avec une fréquence quiz modérée."
 ---
-
 ![Image de Les Têtes brûlées](https://upload.wikimedia.org/wikipedia/commons/b/ba/Dorothy-m-wheeler-baa-baa-black-sheep-1916.jpg)
 
 ###### Questions

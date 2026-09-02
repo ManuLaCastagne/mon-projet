@@ -24,8 +24,9 @@ indice_6 :
   - criques
 questions:
  - Quel littoral espagnol s'étend de la frontière française à l'embouchure du Rio Tordera ?
+culture_g_score: 60
+culture_g_justification: "Littoral touristique espagnol assez connu, surtout interrogé par sa localisation, ses stations balnéaires et son patrimoine méditerranéen."
 ---
-
 ![Image de Costa Brava](https://upload.wikimedia.org/wikipedia/commons/1/13/Martin_Helst%C3%A1b_on_the_Costa_Brava%2C_2018.jpg)
 
 ![[Carte_Costa Brava.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - équipe matinale
 questions:
  - Depuis 2017, quel journaliste né dans le Cher en 1961 a pris la suite de William Leymergie à la présentation de l'émission "Télématin"?
+culture_g_score: 32
+culture_g_justification: "Présentateur de télévision relativement connu, mais rarement une réponse prioritaire dans les quiz généralistes."
 ---
-
 ![Image de Laurent Bignolas](https://upload.wikimedia.org/wikipedia/commons/2/20/Laurent_Bignolas_T%C3%A9l%C3%A9matin_2018_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Ailier
 questions:
  - A quel ancien rugbyman français, prénommé Patrice, finaliste de la Coupe du monde en 1987...
+culture_g_score: 40
+culture_g_justification: "Ancien international français marquant, mais sa notoriété et ses apparitions dans les quiz restent limitées au rugby."
 ---
-
 ![Image de Patrice Lagisquet]()
 
 ###### Questions

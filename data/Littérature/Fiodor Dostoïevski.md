@@ -22,9 +22,9 @@ indice_6 :
   - 19ème siècle
 questions:
  - Ecrivain né en 1821. Je débute dans les lettres en traduisant "Eugénie Grandet", avant de publier en 1846 mon 1er roman "Les pauvres gens". Condamné à mort puis gracié, je passe plusieurs années au bagne en Sibérie avant d'écrire mes romans les plus célèbres tels que "L'idiot"...
+culture_g_score: 100
+culture_g_justification: "Écrivain mondialement incontournable, ouvrant de nombreuses questions sur ses romans, sa psychologie, sa vie et la littérature russe."
 ---
-
-
 ![Image de Fiodor Dostoïevski](https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg)
 
 ###### Questions

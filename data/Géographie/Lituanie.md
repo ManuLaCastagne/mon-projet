@@ -21,8 +21,9 @@ indice_5 :
   - Dzukija
 indice_6 : 
   - Courlande
+culture_g_score: 60
+culture_g_justification: "Pays balte régulièrement interrogé pour son indépendance vis-à-vis de l’URSS, Vilnius, son histoire médiévale et sa géographie européenne."
 ---
-
 ![[Carte_Lituanie.png]]
 
 ###### Questions

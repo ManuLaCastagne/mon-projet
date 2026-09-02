@@ -20,8 +20,9 @@ indice_6 :
   - Compétition olympique
 questions:
  - Le 16 janvier 2021, dans quelle discipline de saut le Burkinabé Hugues-Fabrice Zango a-t-il battu le record du monde en salle, du coup, on arrive à une distance de fou, 18,07 m ? (Il a amélioré la marque de 17,92 m, qui était détenue par un Français, Teddy Tamgho)
+culture_g_score: 77
+culture_g_justification: "Épreuve olympique classique, rentable grâce à son histoire, ses champions, ses records et sa présence dans l’athlétisme."
 ---
-
 ![Image de Triple saut](https://upload.wikimedia.org/wikipedia/commons/8/83/Men_triple_jump_French_Athletics_Championships_2013_t154029.jpg)
 
 ###### Questions

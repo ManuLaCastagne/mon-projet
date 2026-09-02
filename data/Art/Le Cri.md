@@ -23,8 +23,9 @@ indice_6 :
   - angoisse existentielle
 questions:
  - De quelle oeuvre d'Edvard Munch, l'une des 5 versions, une tempera sur carton, a-t-elle été volée en 1994, avant d'être retrouvée ?
+culture_g_score: 97
+culture_g_justification: "Icône mondiale de la peinture moderne, Le Cri revient très souvent dans les quiz par son auteur, son style, ses versions et ses célèbres cambriolages."
 ---
-
 ![Image de Le Cri](https://upload.wikimedia.org/wikipedia/commons/3/32/Ouverture_des_Cort%C3%A8s%2C_Madrid%2C_a_la_fin_du_discours_du_Roi%2C_les_d%C3%A9put%C3%A9s_poussent_le_cri_%C2%ABMort_aux_carlistes%C2%BB%2C_de_Vierge.jpg)
 
 ###### Questions

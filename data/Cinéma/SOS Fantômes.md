@@ -22,8 +22,9 @@ indice_6:
   - Manhattan
 questions:
   - Interprété par Ray Parker Junior. Comédie fantastique dans laquelle les héros s'opposent à "Gozer", un esprit...
+culture_g_score: 93
+culture_g_justification: "Comédie fantastique culte, identifiable par ses personnages, sa chanson, ses suites et son influence durable sur la culture populaire."
 ---
-
 ![Image de SOS Fantômes](https://upload.wikimedia.org/wikipedia/commons/5/57/Ghostbusters_%28franchise_text_logo%29.svg)
 
 ###### Questions

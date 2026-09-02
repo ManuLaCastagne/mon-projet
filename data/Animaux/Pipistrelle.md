@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la nuit
 questions:
  - Quelle espèce de chauve-souris de très petite taille, au nom d'origine italienne, vole dans les jardins au crépuscule?
+culture_g_score: 45
+culture_g_justification: "Chauve-souris commune utile pour des questions sur l’écholocation et la faune européenne, mais peu transversale."
 ---
-
 ![Image de Pipistrelle](https://upload.wikimedia.org/wikipedia/commons/1/19/Pipistrellus_pipistrellus_lateral.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - concerts
 questions:
  - Dans une chanson de 2006, pour quelle ville américaine Pascal Obispo prenait-il "un aller plein tarif, pour tout claquer"?
+culture_g_score: 88
+culture_g_justification: "Ville mondiale emblématique, très rentable pour les quiz sur les États-Unis, les casinos, le spectacle, la musique et la géographie."
 ---
-
 ![Image de Las Vegas](https://upload.wikimedia.org/wikipedia/commons/a/a1/Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6232.jpg)
 
 ###### Questions

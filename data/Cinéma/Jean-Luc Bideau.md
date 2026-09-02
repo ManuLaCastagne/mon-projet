@@ -22,8 +22,9 @@ indice_6 :
   - né en 1940
 questions:
  - Dans le film "Et la tendresse? Bordel!", quel comédien genevois incarne un séducteur misogyne directeur d'un club de rencontres?
+culture_g_score: 31
+culture_g_justification: "Acteur francophone surtout connu dans des cercles cinéphiles ou télévisuels, avec peu de questions généralistes récurrentes."
 ---
-
 ![Image de Jean-Luc Bideau](https://upload.wikimedia.org/wikipedia/commons/8/84/Jean-Luc_Bideau_Cannes_2009.jpg)
 
 ###### Questions

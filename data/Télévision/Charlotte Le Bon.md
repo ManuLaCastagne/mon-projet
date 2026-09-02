@@ -20,8 +20,9 @@ indice_6 :
   - animatrice télévision française
 questions:
  - En 2013, dans le film "La Stratégie de la poussette", quel ex-miss météo incarne une jeune femme que Raphaël Personnaz tente de reconquérir ?
+culture_g_score: 56
+culture_g_justification: "Actrice québécoise connue en France par la télévision et plusieurs films, offrant quelques repères cinématographiques rentables."
 ---
-
 ![Image de Charlotte Le Bon](https://upload.wikimedia.org/wikipedia/commons/e/e4/Charlotte_Le_Bon_2015.jpg)
 
 ###### Questions

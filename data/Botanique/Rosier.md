@@ -15,8 +15,9 @@ indice_6 :
   - Ornementation et parfumerie
 questions:
  - Pouvant être de type grimpant ou buisson, j'ai inspiré les pépiniéristes qui créent chaque année de nombreuses variétés...
+culture_g_score: 72
+culture_g_justification: "Le rosier est une référence culturelle majeure liée à l'amour, à la littérature, à l'histoire, à la parfumerie et à l'horticulture."
 ---
-
 ![Image de Rosier](https://upload.wikimedia.org/wikipedia/commons/5/51/Hotel_de_Rosier_in_Uzes_01.jpg)
 
 ###### Questions

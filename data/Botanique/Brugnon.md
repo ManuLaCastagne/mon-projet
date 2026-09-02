@@ -15,8 +15,9 @@ indice_6 :
   - Souvent consommé frais ou en dessert
 questions:
  - Mais fragile. Entouré d'une peau lisse souvent d'un rouge brillant, je pousse sur un arbre qui est probablement issu d'une mutation spontanée du...
+culture_g_score: 44
+culture_g_justification: "Fruit familier surtout intéressant pour la distinction avec la nectarine, ce qui limite son nombre d’utilisations."
 ---
-
 ![Image de Brugnon](https://upload.wikimedia.org/wikipedia/commons/9/9e/Autumn_Red_peaches.jpg)
 
 ###### Questions

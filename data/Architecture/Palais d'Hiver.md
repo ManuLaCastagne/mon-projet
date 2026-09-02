@@ -23,8 +23,9 @@ indice_6 :
   - Pierre le Grand
 questions:
  - On va à Saint-Pétersbourg. Quel palais, devant son nom à une saison, a été construit au XVIIIe siècle et abrite une partie des collections du musée de l'Ermitage ?
+culture_g_score: 88
+culture_g_justification: "Le Palais d’Hiver est un symbole de la Russie impériale et de la révolution de 1917, très rentable dans les quiz historiques et artistiques."
 ---
-
 ![Image de Palais d'Hiver](https://upload.wikimedia.org/wikipedia/commons/7/7c/Winter_Palace_Panorama_4.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Expériences sur les gaz
 questions:
  - En 1815, quel chimiste et physicien britannique invente une lampe de sûreté dédiée aux mineurs ?
+culture_g_score: 60
+culture_g_justification: "Chimiste important et associé à plusieurs découvertes célèbres, mais moins fréquent et moins transversal que les grandes figures scientifiques."
 ---
-
 ![Image de Sir Humphrey Davy](https://upload.wikimedia.org/wikipedia/commons/d/d5/Anonymous_-_Sir_Humphrey_Davy_-_B1977.14.9883_-_Yale_Center_for_British_Art.jpg)
 
 ###### Questions

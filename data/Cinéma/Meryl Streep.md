@@ -22,8 +22,9 @@ indice_6 :
   - polyvalente dans les genres
 questions:
  - Actrice américaine récompensée pour "Le Choix de Sophie" ou "La dame de fer" ?
+culture_g_score: 100
+culture_g_justification: "Actrice de référence mondiale, offrant une multitude d’entrées par ses films, ses Oscars, ses rôles et son parcours."
 ---
-
 ![Image de Meryl Streep](https://upload.wikimedia.org/wikipedia/commons/a/a3/Meryl_Streep_by_Jack_Mitchell.jpg)
 
 ###### Questions

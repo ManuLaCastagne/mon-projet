@@ -15,8 +15,9 @@ indice_6 :
   - Compagnon de famille
 questions:
  - Quel chien d'origine allemande, proche du griffon et dont le nom provient d'un terme signifiant gueule, peut-être géant, moyen ou nain?
+culture_g_score: 44
+culture_g_justification: "Race canine identifiable par sa barbe et ses trois tailles, mais de fréquence modérée dans les quiz généralistes."
 ---
-
 ![Image de Schnauzer](https://upload.wikimedia.org/wikipedia/commons/9/94/Schnauzer_%28PSF%29.png)
 
 ###### Questions

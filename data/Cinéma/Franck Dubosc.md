@@ -22,8 +22,9 @@ indice_6 :
   - Astérix aux Jeux Olympiques
 questions:
  - Acteur et humoriste né en 1963, élève au conservatoire de Rouen, j'obtiens en 85 le 1er rôle du film "A nous les garçons".
+culture_g_score: 60
+culture_g_justification: "Humoriste et acteur français populaire, régulièrement cité pour Camping et ses spectacles, mais d'importance culturelle plus limitée."
 ---
-
 ![Image de Franck Dubosc](https://upload.wikimedia.org/wikipedia/commons/7/7d/Franck_Dubosc_2012.JPG)
 
 ###### Questions

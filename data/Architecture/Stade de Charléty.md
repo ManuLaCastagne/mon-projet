@@ -21,8 +21,9 @@ indice_5:
   - René Allard
 indice_6:
   - Université de Paris
+culture_g_score: 31
+culture_g_justification: "Stade parisien secondaire, avec quelques liens à l’athlétisme et à l’histoire locale, mais une fréquence quiz très faible."
 ---
-
 ![Image de Stade de Charléty](https://upload.wikimedia.org/wikipedia/commons/e/eb/Paris_Stade_S%C3%A9bastien_Charl%C3%A9ty.jpg)
 
 ###### Questions

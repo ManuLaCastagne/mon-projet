@@ -20,8 +20,9 @@ indice_6 :
   - Cahier d'un retour au pays natal
 questions:
  - En 1947, quel écrivain et homme politique martiniquais popularise le concept de négritude, plus de doute possible, dans "Cahier d'un retour au pays natal" ?
+culture_g_score: 72
+culture_g_justification: "Poète, homme politique et théoricien de la négritude, Césaire offre plusieurs angles littéraires, anticoloniaux et francophones, malgré une fréquence modérée."
 ---
-
 ![Image de Aimé Césaire](https://upload.wikimedia.org/wikipedia/commons/0/04/Aime_Cesaire_2003.jpg)
 
 ###### Questions

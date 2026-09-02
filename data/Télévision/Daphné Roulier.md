@@ -20,8 +20,9 @@ indice_6 :
   - A travaillé pour I-Télé
 questions:
  - Quelle ancienne présentatrice de l'émission "L'effet papillon" a fait ses débuts en 1995 sur une chaîne...
+culture_g_score: 27
+culture_g_justification: "Journaliste connue principalement des amateurs de Canal+, avec une présence limitée dans les questions généralistes."
 ---
-
 ![Image de Daphné Roulier](https://upload.wikimedia.org/wikipedia/commons/2/23/Daphn%C3%A9_Roulier_8079.jpg)
 
 ###### Questions

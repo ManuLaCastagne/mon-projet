@@ -22,8 +22,9 @@ indice_6 :
   - minuit et trois messes
 questions:
  - En 1873, dans quel récit, extrait des "Contes du lundi", Alphonse Daudet raconte la nuit de Noël d'un révérend très gourmand ?
+culture_g_score: 60
+culture_g_justification: "Conte bien identifié des Lettres de mon moulin, offrant quelques questions classiques sur Daudet, Noël et la satire religieuse."
 ---
-
 ![Image de Les Trois Messes basses](https://upload.wikimedia.org/wikipedia/commons/9/93/Mont%C3%A9gut-1886-Les_trois_Messes_basses-04.jpg)
 
 ###### Questions

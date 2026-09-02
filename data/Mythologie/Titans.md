@@ -19,9 +19,9 @@ indice_6 :
   - Prométhée
 questions:
  - Contre quelles divinités grecques primitives, au nombre de 12, Zeus a-t-il lutté pour récupérer l'Olympe?
+culture_g_score: 80
+culture_g_justification: "Les Titans sont indispensables pour comprendre la succession des générations divines, Cronos, Zeus et la Titanomachie, avec de nombreux prolongements."
 ---
-
-
 ![Image de Titans](https://upload.wikimedia.org/wikipedia/commons/4/4c/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_65_%28Canto_XXXI_-_The_Titans%29.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - actrice française
 questions:
  - Dans la série de films, quelle actrice interprète le rôle de Laurette Pic, la femme de Jacky?
+culture_g_score: 51
+culture_g_justification: "Actrice populaire du cinéma français et de Fantômas, mais désormais moins fréquemment interrogée que les grandes vedettes de sa génération."
 ---
-
 ![Image de Mylène Demongeot](https://upload.wikimedia.org/wikipedia/commons/2/28/Mylene_Demongeot_au_festival_du_film_de_Waterloo_en_octobre_2014.jpg)
 
 ###### Questions

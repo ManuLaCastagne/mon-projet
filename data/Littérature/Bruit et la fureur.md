@@ -22,9 +22,9 @@ indice_6 :
   - monologue intérieur
 questions:
  - En 1929, quel roman de William Faulkner met en scène la famille Compson à travers les pensées de ses 3 fils?
+culture_g_score: 64
+culture_g_justification: "Roman majeur de Faulkner et classique du modernisme américain, régulièrement mobilisé en littérature mais moins incontournable que les très grands romans du canon."
 ---
-
-
 ![Image de Bruit et la fureur](https://upload.wikimedia.org/wikipedia/commons/c/c2/Luis_M._Garc%C3%ADa_Mainar_-_William_Faulkner%27s_The_Sound_and_the_Fury_-_the_status_of_the_popular_in_modernism.pdf)
 
 ###### Questions

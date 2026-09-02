@@ -13,8 +13,9 @@ indice_5:
   - Chêne à liège
 indice_6:
   - Fabrication de bouchons
+culture_g_score: 64
+culture_g_justification: "Arbre emblématique du liège, intéressant pour la Méditerranée, l’industrie et l’écologie, avec une fréquence correcte sans être élevée."
 ---
-
 ![Image de Chêne-liège](https://upload.wikimedia.org/wikipedia/commons/6/61/Quercus_suber_foliage_illustration.jpg)
 
 ###### Questions

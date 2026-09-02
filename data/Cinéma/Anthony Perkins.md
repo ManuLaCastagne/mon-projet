@@ -18,11 +18,9 @@ indice_5 :
   - Janet Leigh
 indice_6 : 
   - Bates Motel
+culture_g_score: 64
+culture_g_justification: "Acteur durablement associé à Norman Bates dans Psychose, mais dont les autres repères sont nettement moins incontournables."
 ---
-
-
-
-
 ![Image de Anthony Perkins](https://upload.wikimedia.org/wikipedia/commons/9/92/APerkinsPublicityStill.jpg)
 
 ###### Questions

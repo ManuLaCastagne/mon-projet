@@ -20,8 +20,9 @@ indice_6 :
   - 1495-1525
 questions:
  - Par La Monnoye, je perds la vie  lors de la bataille de Pavie en 1525. Maréchal de France dont le nom est de nos jours associé à un truisme…
+culture_g_score: 60
+culture_g_justification: "Maréchal de France surtout retenu pour Marignan et l’origine du mot lapalissade, avec quelques liens à la Renaissance militaire."
 ---
-
 ![Image de Jacques II de Chabannes, sire de La Palice](https://upload.wikimedia.org/wikipedia/commons/b/ba/Chants_et_chansons_populaires_de_la_France_%28IA_chantsetchansons03dume%29.pdf)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Quel terme de l'escrime désigne l'action défensive au cours de laquelle un des combattants écarte la lame… (parade)
  - Discipline sportive dont les 1res épreuves olympiques eurent lieu en 1900 sur la terrasse du Jeu de Paume à Paris, j'oppose 2 adversaires sur une piste mesurant 14 m de long en compétition. Me distinguant par le fait que l'ensemble du corps est considéré comme une surface valable, je suis pratiquée avec une arme de pointe... (épée)
+culture_g_score: 80
+culture_g_justification: "Discipline olympique ancienne et structurée, l’escrime est utile pour des questions sur les armes, les règles, l’histoire et les Jeux."
 ---
-
 ![Image de Escrime](https://upload.wikimedia.org/wikipedia/commons/2/25/Kovalev_v_Szilagyi_2013_Fencing_WCH_SMS-IN_t194135.jpg)
 
 ###### Questions

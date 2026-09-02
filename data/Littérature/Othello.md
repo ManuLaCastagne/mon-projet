@@ -22,8 +22,9 @@ indice_6 :
   - Iago
 questions:
  - Chantée par mon héroïne désespérée. Me déroulant lors de l'attaque de Chypre par les Turcs...
+culture_g_score: 100
+culture_g_justification: "Tragédie incontournable de Shakespeare, abondamment interrogée par ses personnages, sa jalousie, ses thèmes et son influence théâtrale."
 ---
-
 ![Image de Othello](https://upload.wikimedia.org/wikipedia/commons/1/14/Thomas_Keene_in_Othello_1884_Poster.JPG)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - surnommé le Rousseau du ruisseau
 questions:
  - En 1775, quel écrivain et imprimeur français publie "Le Paysan perverti"?
+culture_g_score: 35
+culture_g_justification: "Écrivain prolifique du XVIIIe siècle intéressant pour la littérature érotique et urbaine, mais rarement prioritaire pour un généraliste."
 ---
-
 ![Image de Restif de la Bretonne](https://upload.wikimedia.org/wikipedia/commons/3/3f/Restif_de_la_Bretonne_d%27apr%C3%A8s_L._Binet_1785.jpg)
 
 ###### Questions

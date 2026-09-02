@@ -22,8 +22,9 @@ indice_6 :
   - groupe formé en 1969
 questions:
  - Quel groupe de rock formé en 1969 autour de deux frères prénommés Duane et Gregg...
+culture_g_score: 67
+culture_g_justification: "Groupe fondateur du southern rock, utile pour le rock, le blues et l'histoire des performances live, mais moins grand public."
 ---
-
 ![Image de The Allman Brothers](https://upload.wikimedia.org/wikipedia/commons/7/7a/Allman_Brothers_Band_1969.jpg)
 
 ###### Questions

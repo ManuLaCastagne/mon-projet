@@ -20,8 +20,9 @@ indice_6 :
   - ambassadeur en Angleterre
 questions:
  - En 1635, quel homme politique, garde des sceaux depuis 2 ans, est nommé chancelier de France par le roi?
+culture_g_score: 31
+culture_g_justification: "Pierre Séguier possède une importance institutionnelle réelle, mais sa notoriété et sa fréquence dans les quiz restent faibles."
 ---
-
 ![Image de Séguier](https://upload.wikimedia.org/wikipedia/commons/a/a8/Porticus_Bibliothecae_illustriss._Seguierii_Galliae_Cancellarii._Ornamental_title_page_with_cartouche_supported_by_the_arts%2C_and_the_coat_of_arms_of_Chancellor_S%C3%A9guier%2C_PK-P-144.489.tiff)
 
 ###### Questions

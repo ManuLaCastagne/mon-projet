@@ -22,10 +22,9 @@ indice_6:
   - Renaissance italienne
 questions:
   - Toile de 1562 dans laquelle mon auteur s'est représenté en train de jouer de la viole, j'ai été commandée par des bénédictins pour orner leur réfectoire. Mélangeant les références bibliques et contemporaines, je montre 132 personnages attablés lors d'un repas de fête...
+culture_g_score: 88
+culture_g_justification: "Monument de la peinture vénitienne, très fréquemment lié à Véronèse, aux récits bibliques, au Louvre et à l’histoire napoléonienne."
 ---
-
-
-
 ![Image de Les Noces de Cana](https://upload.wikimedia.org/wikipedia/commons/9/95/%28Castres%29_Les_Noces_de_Cana_-_Ecole_espagnole_du_XVIIe_-_Mus%C3%A9e_Goya.jpg)
 
 ###### Questions

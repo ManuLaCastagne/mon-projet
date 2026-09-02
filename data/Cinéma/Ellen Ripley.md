@@ -20,8 +20,9 @@ indice_5 :
   - Weyland-Yutani
 indice_6 : 
   - science-fiction
+culture_g_score: 80
+culture_g_justification: "Héroïne emblématique de la saga Alien, régulièrement interrogée à travers Sigourney Weaver, la science-fiction et l’évolution des personnages féminins."
 ---
-
 ![Image de Ellen Ripley](https://upload.wikimedia.org/wikipedia/commons/d/d4/SDCC_2014_-_Ripley_%2814560009118%29.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Restauration au XIXe siècle
 questions:
  - Au jardin du Luxembourg, quelle fontaine est adossée à la fontaine du Regard ?
+culture_g_score: 60
+culture_g_justification: "La Fontaine Médicis est un monument parisien classique, associé au Luxembourg, à Marie de Médicis et à l’architecture renaissante, sans être incontournable."
 ---
-
 ![Image de Fontaine Médicis](https://upload.wikimedia.org/wikipedia/commons/5/59/Luxembourg_Gardens%2C_the_Medici_fountains%2C_Paris%2C_France%2C_ca._1890-1900.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - mesure environ 1 600 km du nord au sud
 questions:
  - Je suis une mer semi-fermée et très fréquentée, qui fait l'objet d'une surexploitation de ses ressources halieutiques. Mer d'Europe septentrionale à la faible...
+culture_g_score: 80
+culture_g_justification: "Mer bien identifiée d'Europe du Nord, liée à de nombreux pays, à la géopolitique, à l'environnement et à l'histoire."
 ---
-
 ![[Carte_Mer Baltique.png]]
 ###### Questions
 

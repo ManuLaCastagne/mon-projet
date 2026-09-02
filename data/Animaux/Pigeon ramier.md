@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de paix et d'amour
 questions:
  - Quelle espèce de pigeon à tête et à dos gris-bleu est également appelé...
+culture_g_score: 44
+culture_g_justification: "Oiseau européen courant et chassé, mais généralement cantonné à quelques questions d’ornithologie ou de nature."
 ---
-
 ![Image de Pigeon ramier](https://upload.wikimedia.org/wikipedia/commons/e/e9/Common_Wood_Pigeon_facing_left.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - née à San Candido en 1985
 indice_6:
   - mannequinat et mode
+culture_g_score: 27
+culture_g_justification: "Personnalité médiatique et documentariste surtout connue dans un cadre mondain ou spécialisé, rarement comme référence cinématographique."
 ---
-
 ![Image de Beatrice Borromeo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Beatrice_Borromeo_2017.jpg)
 
 ###### Questions

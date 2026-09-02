@@ -23,8 +23,9 @@ indice_6 :
   - roman
 questions:
  - Quel roman de François Mauriac porte un titre faisant allusion au coeur rempli de haine du narrateur, est comparé à un nid de serpents ?
+culture_g_score: 60
+culture_g_justification: "Roman important de Mauriac et classique de la littérature française, mais à la fréquence de quiz modérée."
 ---
-
 ![Image de Le Noeud de vipères](https://upload.wikimedia.org/wikipedia/commons/4/45/Sue_-_Kernok_le_pirate%2C_extrait_de_Le_Roman_no_697-706%2C_1880.djvu)
 
 ###### Questions

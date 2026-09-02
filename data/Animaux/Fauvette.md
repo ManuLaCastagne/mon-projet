@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté
 questions:
  - ourt et épais, une tête arrondie et un corps rondelet à l'exemple de mon espèce dite des jardins. Oiseau désigné par un diminutif formé sur un mot issu du latin "falvus"...
+culture_g_score: 28
+culture_g_justification: "La fauvette est un petit oiseau chanteur peu individualisé dans la culture générale et rarement ciblé par les quiz."
 ---
-
 ![Image de Fauvette](https://upload.wikimedia.org/wikipedia/commons/b/b8/Cin%C3%A9ma_Fauvette_Neuilly_Plaisance_6.jpg)
 
 ###### Questions

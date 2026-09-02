@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de loyauté
 questions:
  - Quel chien au museau aplati doit son nom d'origine anglaise au fait qu'il était utilisé, à l'époque élisabéthaine, dans des combats contre des taureaux?
+culture_g_score: 64
+culture_g_justification: "Chien très populaire associé à l’histoire des combats canins, aux races britanniques et à la culture populaire."
 ---
-
 ![Image de Bouledogue](https://upload.wikimedia.org/wikipedia/commons/6/6a/G%C3%A9ricault_-_T%C3%AAte_de_Bouledogue%2C_RF212.jpg)
 
 ###### Questions

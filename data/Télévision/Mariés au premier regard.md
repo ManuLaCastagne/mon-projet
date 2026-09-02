@@ -19,8 +19,9 @@ indice_5 :
   - expérience sociale
 indice_6 : 
   - experts en relations
+culture_g_score: 52
+culture_g_justification: "Programme de téléréalité bien identifié du paysage audiovisuel français, mais offrant peu d'angles de culture générale indépendants."
 ---
-
 ![Image de Mariés au premier regard](https://upload.wikimedia.org/wikipedia/commons/a/a1/Married_at_First_sight%2C_Jules_Robinson%2C_Cam_Chant_%2846881824094%29.jpg)
 
 ###### Questions

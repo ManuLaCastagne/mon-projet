@@ -21,8 +21,9 @@ indice_5:
   - La Moustache
 indice_6:
   - écrivain et réalisateur
+culture_g_score: 80
+culture_g_justification: "Écrivain français important, à la croisée de la littérature, du journalisme, du cinéma et de la biographie historique."
 ---
-
 ![Image de Emmanuel Carrère](https://upload.wikimedia.org/wikipedia/commons/f/ff/Emmanuel_Carr%C3%A8re_-_Livre_sur_la_Place_2014_%2815221395521%29_%28cropped%29.jpg)
 
 ###### Questions

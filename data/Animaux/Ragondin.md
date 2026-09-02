@@ -15,8 +15,9 @@ indice_6 :
   - Espèce invasive
 questions:
  - Quel animal d'Amérique est également appelé myocastor ?
+culture_g_score: 60
+culture_g_justification: "Rongeur invasif régulièrement associé aux milieux humides, à l’environnement et aux espèces introduites."
 ---
-
 ![Image de Ragondin](https://upload.wikimedia.org/wikipedia/commons/5/56/Ragondin_%28Myocastor_coypus%29_%2839%29.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Seconde Guerre mondiale
 questions:
  - Quel peintre surréaliste  français, disparu en 1987, est l'initiateur du dessin automatique et inventeur des "tableaux de sable".
+culture_g_score: 47
+culture_g_justification: "Peintre surréaliste et pionnier de l’automatisme, mais dont la notoriété et la fréquence restent celles d’un spécialiste."
 ---
-
 ![Image de André Masson](https://upload.wikimedia.org/wikipedia/commons/1/18/Andr%C3%A9_Masson%2C_Paris.jpg)
 
 ###### Questions

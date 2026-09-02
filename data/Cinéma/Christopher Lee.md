@@ -22,8 +22,9 @@ indice_6 :
   - acteur britannique
 questions:
  - Entre 1958 et 1976, quel acteur américain incarnait Dracula ?
+culture_g_score: 80
+culture_g_justification: "Acteur très reconnaissable grâce à Dracula, Saruman et de nombreux rôles fantastiques, avec des prolongements musicaux et historiques."
 ---
-
 ![Image de Christopher Lee](https://upload.wikimedia.org/wikipedia/commons/5/5a/Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg)
 
 ###### Questions

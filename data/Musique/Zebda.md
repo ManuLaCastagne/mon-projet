@@ -22,8 +22,9 @@ indice_6:
   - années 1990
 questions:
   - Mêlant rock, reggae et rap tout en assumant l'héritage occitan, j'ai signé des albums comme "Essence ordinaire", "Utopie d'occase" et "Comme des Cherokees". Formé notamment par les frères Amokrane et par Magyd Cherfi, on me doit les tubes "Le Bruit et l'odeur" et "Tomber la chemise"...
+culture_g_score: 80
+culture_g_justification: "Groupe français engagé et populaire, associé à Toulouse, à l’héritage occitan, au métissage musical et à plusieurs tubes."
 ---
-
 ![Image de Zebda](https://upload.wikimedia.org/wikipedia/commons/b/b3/Zebda_Laon_05689.JPG)
 
 ###### Questions

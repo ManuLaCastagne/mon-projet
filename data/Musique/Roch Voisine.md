@@ -22,8 +22,9 @@ indice_6 :
   - Variétés françaises
 questions:
  - En 1989, quel chanteur, ancien joueur de hockey sur glace, interprète...
+culture_g_score: 64
+culture_g_justification: "Chanteur très connu dans l'espace francophone grâce à «Hélène», mais principalement exploitable par quelques repères de variété et de télévision."
 ---
-
 ![Image de Roch Voisine](https://upload.wikimedia.org/wikipedia/commons/c/c2/FIL_2012_-_Roch_Voisine_3.JPG)
 
 ###### Questions

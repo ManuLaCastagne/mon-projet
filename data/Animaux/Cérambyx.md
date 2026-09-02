@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de longévité
 questions:
  - Chez quel insecte coléoptère de la famille des cérambycidés, pouvant être dit "du chêne",  les larves creusent-elles de grandes galeries dans les arbres ?
+culture_g_score: 27
+culture_g_justification: "Genre de coléoptères principalement réservé aux connaissances entomologiques, avec une présence très faible dans les quiz généralistes."
 ---
-
-
 ![Image de Cérambyx](https://upload.wikimedia.org/wikipedia/commons/1/11/Cerambyx_cerdo_%28couple%29.jpg)
 
 ###### Questions

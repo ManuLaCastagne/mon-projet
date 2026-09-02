@@ -20,8 +20,9 @@ indice_6 :
   - aventures aux alentours de 1900
 questions:
  - Dans quelle série française Jean-Claude Bouillon interprétait-il le commissaire Valentin?
+culture_g_score: 80
+culture_g_justification: "Série policière française culte, riche en repères historiques sur Clemenceau, la police scientifique et la télévision des années 1970."
 ---
-
 ![Image de Les Brigades du Tigre](https://upload.wikimedia.org/wikipedia/commons/5/5b/Tiger_Brigade_guardsmen_lay_Tiger_Dam_in_Terrebonne_DVIDS403558.jpg)
 
 ###### Questions

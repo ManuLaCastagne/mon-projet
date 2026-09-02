@@ -21,8 +21,9 @@ indice_6:
   - Patricia Kaas
 questions:
   - Chanson extraite de l'album "En flèche" paru en 1980, j'ai valu à une artiste québécoise le Félix de la meilleure chanson. Morceau dans lequel mon interprète...
+culture_g_score: 52
+culture_g_justification: "« Si j’étais un homme » est un succès francophone identifiable, mais les questions portent principalement sur cette chanson et Diane Tell."
 ---
-
 ![Image de Si j'étais un homme](https://upload.wikimedia.org/wikipedia/commons/2/2f/Beyonce_If_I_Were_a_Boy_2013.jpg)
 
 ###### Questions

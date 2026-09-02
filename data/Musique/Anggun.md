@@ -22,8 +22,9 @@ indice_6 :
   - jury The Masked Singer France
 questions:
  - Chanteuse, née le 29 avril 74, j'ai connu le succès, dans mon pays d'origine, avant de partir en Europe, en 94 et d'avoir la nationalité française, en 2000. J'ai représenté la France, en 2012, à l'Eurovision. Le tube "La Neige au Sahara" m'a révélée.
+culture_g_score: 47
+culture_g_justification: "Anggun est une chanteuse internationale identifiable par Snow on the Sahara et l’Eurovision, mais d’importance limitée en culture générale."
 ---
-
 ![Image de Anggun](https://upload.wikimedia.org/wikipedia/commons/7/72/Anggun_Hannover_2010.jpg)
 
 ###### Questions

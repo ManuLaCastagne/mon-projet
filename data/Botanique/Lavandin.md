@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé principalement pour la production d'huiles essentielles
 questions:
  - Dégageant une odeur camphrée, je donne des épis de fleurs allant du bleu pâle au violacé qui sont utilisés dans les produits d'entretien et dans les sachets destinés à parfumer le linge...
+culture_g_score: 32
+culture_g_justification: "Hybride de lavandes connu surtout dans la production d’huiles essentielles, donc assez spécialisé."
 ---
-
 ![Image de Lavandin](https://upload.wikimedia.org/wikipedia/commons/7/7d/Lavandula_multifida.jpg)
 
 ###### Questions

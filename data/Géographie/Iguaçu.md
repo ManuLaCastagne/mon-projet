@@ -24,8 +24,9 @@ indice_6 :
   - centaines de cascades
 questions:
  - Quelles immenses chutes d'eau, dont le nom signifie eau grande en indien guarani...
+culture_g_score: 60
+culture_g_justification: "Le fleuve Iguaçu est surtout connu à travers les chutes d’Iguazu et la géographie régionale, ce qui limite ses usages indépendants."
 ---
-
 ![Image de Iguaçu](https://upload.wikimedia.org/wikipedia/commons/4/43/Igua%C3%A7u_Velho_-_Ru%C3%ADnas_2.jpg)
 
 ![[Carte_Iguaçu.png]]

@@ -24,8 +24,9 @@ indice_6 :
   - reliefs et climats
 questions:
  - Spécialisée dans l'élevage des chevaux de trait au 19e siècle. Région dédiée depuis à l'élevage bovin…
+culture_g_score: 40
+culture_g_justification: "Ancienne région française intéressante pour son identité rurale, ses haras et son découpage administratif, mais peu fréquente hors quiz de géographie française."
 ---
-
 ![Image de Perche](https://upload.wikimedia.org/wikipedia/commons/5/55/CARTE_DE_LA_R%C3%89GION_NATURELLE_DU_PERCHE.png)
 
 ![[Carte_Perche.png]]

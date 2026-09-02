@@ -20,8 +20,9 @@ indice_6 :
   - exploit inspirant
 questions:
  - En 2010, quel athlète est devenu le premier homme quadri-amputé à effectuer la traversée de la Manche ?
+culture_g_score: 60
+culture_g_justification: "Son exploit de traverser la Manche amputé des quatre membres constitue une question marquante, mais assez ciblée."
 ---
-
 ![Image de Philippe Croizon](https://upload.wikimedia.org/wikipedia/commons/7/72/Dakar_2016_-_Conf%C3%A9rence_de_presse_-_20151118_-_134.jpg)
 
 ###### Questions

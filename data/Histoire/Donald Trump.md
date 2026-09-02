@@ -18,10 +18,9 @@ indice_5:
   - a lancé une guerre commerciale avec la Chine
 indice_6:
   - impliqué dans des controverses politiques et médiatiques
+culture_g_score: 92
+culture_g_justification: "Personnalité politique et médiatique omniprésente, permettant de nombreuses questions sur la présidence américaine et la politique contemporaine."
 ---
-
-
-
 ![Image de Donald Trump](https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg)
 
 ###### Questions

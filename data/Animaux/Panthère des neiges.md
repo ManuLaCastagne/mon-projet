@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de résilience
 questions:
  - Egalement appelé once, est parfois surnommé  le fantôme des montagnes car il est très difficile à observer en raison de l'inaccessibilité de son habitat ?
+culture_g_score: 64
+culture_g_justification: "Félin emblématique de l’Himalaya, présent dans la conservation, les documentaires et la géographie asiatique, mais pas omniprésent."
 ---
-
 ![Image de Panthère des neiges](https://upload.wikimedia.org/wikipedia/commons/f/f5/Snow_leopard_portrait-2010-07-09.jpg)
 
 ###### Questions

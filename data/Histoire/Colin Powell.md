@@ -20,8 +20,9 @@ indice_6 :
   - Vietnam
 questions:
  - Aux Etats-Unis, quel général et ancien secrétaire d'Etat, premier Afro-Américain à avoir occupé le poste de chef d'état-major des armées...
+culture_g_score: 72
+culture_g_justification: "Figure importante de la politique étrangère et de l’armée américaines, surtout utile pour la guerre du Golfe et l’administration Bush."
 ---
-
 ![Image de Colin Powell](https://upload.wikimedia.org/wikipedia/commons/2/22/Colin_Powell_official_Secretary_of_State_photo.jpg)
 
 ###### Questions

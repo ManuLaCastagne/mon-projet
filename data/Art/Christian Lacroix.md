@@ -20,8 +20,9 @@ indice_5:
   - Arles
 indice_6:
   - croix célèbres
+culture_g_score: 47
+culture_g_justification: "Couturier français reconnu, mais moins central et nettement moins fréquent que Chanel ou Dior dans la culture générale."
 ---
-
 ![Image de Christian Lacroix](https://upload.wikimedia.org/wikipedia/commons/f/fe/Christian_Lacroix_-_2018_%28cropped%29.jpg)
 
 ###### Questions

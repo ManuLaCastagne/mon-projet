@@ -25,10 +25,9 @@ indice_6 :
 questions:
  - Quelle île située au sud de l'estuaire de la Loire, est reliée au continent par une chaussée submersible appelée passage du Gois?
  - Sur quelle île de l'Atlantique, formant un canton de la Vendée, la variété de pomme de terre...
+culture_g_score: 40
+culture_g_justification: "Île touristique française identifiable par le passage du Gois et les marais salants, mais à faible fréquence dans les quiz nationaux."
 ---
-
-
-
 ![Image de Noirmoutier](https://upload.wikimedia.org/wikipedia/commons/4/40/Noirmoutier_Island_SPOT_1275.jpg)
 
 ![[Carte_Noirmoutier.png]]

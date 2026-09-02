@@ -20,8 +20,9 @@ indice_6 :
   - Royaume en Aquitaine
 questions:
  - Peuple germanique  étant une des branches des Goths,  j'ai eu pour roi Théodoric et Alaric.
+culture_g_score: 80
+culture_g_justification: "Peuple majeur des invasions barbares, associé à Alaric, au sac de Rome, à Andrinople et au royaume de Toulouse."
 ---
-
 ![Image de Wisigoths](https://upload.wikimedia.org/wikipedia/commons/b/b9/Orf%C3%A8vrerie_wisigoths_02.jpg)
 
 ###### Questions

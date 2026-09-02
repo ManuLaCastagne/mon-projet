@@ -25,8 +25,9 @@ indice_6 :
   - Tower Bridge
 questions:
  - Fleuve étranger ayant pour affluents les rivières Coln, Brent et Ock, je parcours environ 338 km d'ouest en est...
+culture_g_score: 100
+culture_g_justification: "Fleuve emblématique de Londres et du Royaume-Uni, omniprésent dans les questions d'histoire, de géographie, de littérature et de sport."
 ---
-
 ![Image de Tamise](https://upload.wikimedia.org/wikipedia/commons/7/76/Temse_kaai.jpg)
 
 ![[Carte_Tamise.png]]

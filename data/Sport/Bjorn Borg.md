@@ -20,8 +20,9 @@ indice_6 :
   - Années 1970-1980
 questions:
  - Son fameux revers à deux mains lifté. Suédois vainqueur de 11 titres du Grand Chelem, surnommé Iceman.
+culture_g_score: 80
+culture_g_justification: "Immense champion de tennis associé à Wimbledon, Roland-Garros et à une retraite précoce, avec de nombreux repères classiques."
 ---
-
 ![Image de Bjorn Borg](https://upload.wikimedia.org/wikipedia/commons/4/4d/Bjorn_Borg_en_2014.jpg)
 
 ###### Questions

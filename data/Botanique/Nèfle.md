@@ -13,8 +13,9 @@ indice_5:
   - Bibacier
 indice_6:
   - Confitures et gelées
+culture_g_score: 40
+culture_g_justification: "Fruit ancien associé à l'expression « cul-de-chien » et à la consommation blette, offrant quelques questions de vocabulaire ou de gastronomie."
 ---
-
 ![Image de Nèfle](https://upload.wikimedia.org/wikipedia/commons/f/fe/Mispel-Crataegus-germanica-002.jpg)
 
 ###### Questions

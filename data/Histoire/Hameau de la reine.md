@@ -20,8 +20,9 @@ indice_6 :
   - XVIIIe siècle
 questions:
  - A Versailles, quel nom a-t-on donné à l'ensemble de maisonnettes d'aspect rustique où Marie-Antoinette aimait venir s'isoler ?
+culture_g_score: 48
+culture_g_justification: "Lieu emblématique de Versailles associé à Marie-Antoinette, mais dont les questions restent principalement patrimoniales et anecdotiques."
 ---
-
 ![Image de Hameau de la reine](https://upload.wikimedia.org/wikipedia/commons/6/6d/Ch%C3%A2teau_de_Versailles_-_Le_Hameau_de_la_Reine_001.JPG)
 
 ###### Questions

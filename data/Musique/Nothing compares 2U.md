@@ -22,8 +22,9 @@ indice_6 :
   - Amour perdu
 questions:
  - Elle a la tête rasée.  Je parle de la souffrance causée par une rupture. Succès de Sinead O'Connor  dont le titre signifie  "Rien ne se compare à toi".
+culture_g_score: 77
+culture_g_justification: "Tube international associé à Prince, Sinéad O’Connor, un clip mémorable et un important succès dans les classements."
 ---
-
 ![Image de Nothing compares 2U](https://upload.wikimedia.org/wikipedia/commons/6/62/Studies_of_nature_%28Volume_1%29_%28IA_2571002RX1.nlm.nih.gov%29.pdf)
 
 ###### Questions

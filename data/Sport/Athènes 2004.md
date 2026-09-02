@@ -20,9 +20,9 @@ indice_5 :
   - Stade olympique
 indice_6 : 
   - Cérémonie d'ouverture
+culture_g_score: 60
+culture_g_justification: "Jeux d’Athènes marquants par leur dimension symbolique et l’introduction du taekwondo, mais moins centraux que les premières éditions."
 ---
-
-
 ![Image de Athènes 2004](https://upload.wikimedia.org/wikipedia/commons/b/b3/Ath%C3%A8nes_flamme_olympique_2004.JPG)
 
 ###### Questions

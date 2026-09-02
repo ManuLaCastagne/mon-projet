@@ -20,8 +20,9 @@ indice_6 :
   - leçons publiques gratuites
 questions:
  - Quel établissement d'enseignement et de recherche parisien, créé en 1530, a la particularité de dispenser des cours gratuits et accessibles à tous ?
+culture_g_score: 72
+culture_g_justification: "Institution française prestigieuse associée à François Ier, aux sciences humaines et à de grands intellectuels, mais moins souvent questionnée que l’université."
 ---
-
 ![Image de Collège de France](https://upload.wikimedia.org/wikipedia/commons/8/8b/Coll%C3%A8ge_de_France%2C_place_Marcelin-Berthelot%2C_Paris_5e.jpg)
 
 ###### Questions

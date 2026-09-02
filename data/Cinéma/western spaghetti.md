@@ -20,9 +20,9 @@ indice_5 :
   - duel au soleil couchant
 indice_6 : 
   - poncho et cigare
+culture_g_score: 80
+culture_g_justification: "Genre classique des quiz reliant cinéma italien, Sergio Leone, Clint Eastwood, musique et renouvellement du western."
 ---
-
-
 ![Image de western spaghetti](https://upload.wikimedia.org/wikipedia/commons/1/1f/Spaghetti_western_catalan.PNG)
 
 ###### Questions

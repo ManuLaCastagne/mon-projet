@@ -15,8 +15,9 @@ indice_6 :
   - Huiles essentielles et antiseptique
 questions:
  - Arbrisseau important dans la culture kanak utilisé dans les reboisements en Afrique tropicale sèche, il fournit une essence utilisée en pharmacie.
+culture_g_score: 31
+culture_g_justification: "Arbre associé à l'huile essentielle et à la Nouvelle-Calédonie, mais essentiellement réservé aux questions botaniques ou médicinales spécialisées."
 ---
-
 ![Image de Niaouli](https://upload.wikimedia.org/wikipedia/commons/5/53/Melaleuca-quinquenervia-SF24275-08.jpg)
 
 ###### Questions

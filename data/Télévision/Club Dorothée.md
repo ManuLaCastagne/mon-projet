@@ -20,8 +20,9 @@ indice_6 :
   - Les Chevaliers du Zodiaque
 questions:
  - De 87 à 97, quelle émission pour la jeunesse portait un nom comportant le pseudonyme de l'animatrice, Frédérique Hoschedé?
+culture_g_score: 84
+culture_g_justification: "Institution de la télévision jeunesse française ayant popularisé de nombreux anime et marqué durablement plusieurs générations."
 ---
-
 ![Image de Club Dorothée](https://upload.wikimedia.org/wikipedia/commons/c/c0/Doroth%C3%A9e_1992.jpg)
 
 ###### Questions

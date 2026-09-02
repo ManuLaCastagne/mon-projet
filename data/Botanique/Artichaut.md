@@ -13,8 +13,9 @@ indice_5:
   - Cynara scolymus
 indice_6:
   - Légume comestible dans des plats comme les salades
+culture_g_score: 64
+culture_g_justification: "Légume très connu, susceptible d’apparaître en cuisine, botanique ou alimentation, mais rarement comme sujet central majeur."
 ---
-
 ![Image de Artichaut](https://upload.wikimedia.org/wikipedia/commons/6/6a/Cynara_cardunculus_var._scolymus_in_Jardin_des_Plante_de_Paris.jpg)
 
 ###### Questions

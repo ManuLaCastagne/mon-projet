@@ -19,8 +19,9 @@ indice_5 :
   - a co-présenté La méthode Cauet
 indice_6 : 
   - spécialisée dans le divertissement
+culture_g_score: 40
+culture_g_justification: "Personnalité médiatique connue du public français, surtout pertinente pour des questions spécialisées sur les émissions de télévision récentes."
 ---
-
 ![Image de Valérie Bénaïm]()
 
 ###### Questions

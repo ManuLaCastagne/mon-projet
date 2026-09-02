@@ -20,8 +20,9 @@ indice_6 :
   - cheveux blancs iconiques
 questions:
  - Quelle est la seule femme américaine de l'histoire qui, de son vivant, a vu son mari, puis l'un de ses fils, investis...
+culture_g_score: 44
+culture_g_justification: "Première dame américaine connue surtout par sa place dans la dynastie Bush et son action contre l’illettrisme."
 ---
-
 ![Image de Barbara Bush](https://upload.wikimedia.org/wikipedia/commons/6/6c/GeorgeWBush1947.png)
 
 ###### Questions

@@ -24,10 +24,9 @@ indice_6 :
   - Indre-et-Loire
 questions:
  - En février 1429, quelle ville de Touraine, lieu de résidence...
+culture_g_score: 60
+culture_g_justification: "Ville historique utile pour Jeanne d’Arc, sa forteresse et le vin, mais dont les angles restent relativement concentrés."
 ---
-
-
-
 ![[Carte_Chinon.png]]
 
 ###### Questions

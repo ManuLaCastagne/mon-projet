@@ -20,8 +20,9 @@ indice_6 :
   - Lucy
 questions:
  - Science à laquelle est consacré un Institut français au Caire, j'ai passionné Heinrich Schliemann.  Fondée sur des recherches et des chantiers...
+culture_g_score: 87
+culture_g_justification: "Discipline très classique reliant civilisations anciennes, patrimoine, découvertes célèbres, méthodes scientifiques et géographie."
 ---
-
 ![Image de Archéologie](https://upload.wikimedia.org/wikipedia/commons/8/8a/Collection_de_la_revue_Arch%C3%A9ologie_M%C3%A9di%C3%A9vale.jpg)
 
 ###### Questions

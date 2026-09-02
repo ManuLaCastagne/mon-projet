@@ -22,8 +22,9 @@ indice_6 :
   - Survivant d'Auschwitz et Buchenwald
 questions:
  - En 1975, à quel écrivain hongrois, futur Prix Nobel de littérature, doit-on "Etre son destin"?
+culture_g_score: 64
+culture_g_justification: "Prix Nobel et témoin littéraire de la Shoah, Kertész est important mais reste moins fréquent dans les quiz généralistes que d’autres Nobel."
 ---
-
 ![Image de Imre Kertesz](https://upload.wikimedia.org/wikipedia/commons/8/87/Kert%C3%A9sz_Imre_%28Frankl_Aliona%29.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Quel pilote italien a été le premier à inscrire son nom au palmarès du championnat du monde de Formule 1?
  - En quelle année le premier championnat du monde de F1, remporté par Giuseppe Farina, a-t-il lieu ?
+culture_g_score: 60
+culture_g_justification: "Vainqueur du premier championnat du monde de Formule 1, il constitue un repère historique clair mais peu transversal au-delà des débuts de la discipline."
 ---
-
 ![Image de Giuseppe Farina](https://upload.wikimedia.org/wikipedia/commons/f/fc/NinoFarina.jpg)
 
 ###### Questions

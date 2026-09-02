@@ -21,9 +21,9 @@ indice_5:
   - refus de censure
 indice_6:
   - combat entre passion et raison
+culture_g_score: 32
+culture_g_justification: "Œuvre secondaire d’Alfred de Musset, surtout susceptible d’une question littéraire précise et rarement réutilisable."
 ---
-
-
 ![Image de La Coupe et les Lèvres](https://upload.wikimedia.org/wikipedia/commons/2/29/Landelle%2C_Charles_-_Alfred_de_Musset_-_Mus%C3%A9e_d%27Orsay.png)
 
 ###### Questions

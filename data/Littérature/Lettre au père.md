@@ -22,8 +22,9 @@ indice_6 :
   - écriture épistolaire
 questions:
  - En 1919, à quel membre de sa famille Franz Kafka écrit-il ?
+culture_g_score: 52
+culture_g_justification: "Texte personnel important pour comprendre Kafka, mais beaucoup moins fréquent dans les quiz que Le Procès ou La Métamorphose."
 ---
-
 ![Image de Lettre au père](https://upload.wikimedia.org/wikipedia/commons/c/c8/Lettre_au_p%C3%A8re_de_Kafka_%3B_Mise_en_sc%C3%A8ne_K%C3%A9vin_Martos_%3B_2020.png)
 
 ###### Questions

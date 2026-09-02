@@ -20,8 +20,9 @@ indice_6 :
   - sport d'hiver
 questions:
  - En 1960, à Vancouver, quel patineur est devenu le 1er Français à être sacré champion du monde de patinage artistique?
+culture_g_score: 24
+culture_g_justification: "Ancien champion de patinage artistique très spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Alain Giletti](https://upload.wikimedia.org/wikipedia/commons/2/26/Frank_Giletti_2024.jpg)
 
 ###### Questions

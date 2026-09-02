@@ -20,9 +20,9 @@ indice_6 :
   - Finale Coupe du Monde 2010
 questions:
  - Quel ailier néerlandais, réputé pour la précision de son pied gauche a remporté 7 titres de champion d'Allemagne avec le Bayern Munich?
+culture_g_score: 77
+culture_g_justification: "Star néerlandaise du football, régulièrement interrogée via le Bayern, les compétitions européennes et son style de jeu."
 ---
-
-
 ![Image de Arjen Robben](https://upload.wikimedia.org/wikipedia/commons/6/60/Arjen_Robben_2013.jpg)
 
 ###### Questions

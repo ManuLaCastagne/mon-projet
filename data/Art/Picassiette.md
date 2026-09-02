@@ -23,8 +23,9 @@ indice_6 :
   - céramique recyclée
 questions:
  - Sous quel nom connaît-on l'artiste naïf Raymond Isidore dont la maison, recouverte de vaisselle cassée, se visite à Chartres?
+culture_g_score: 40
+culture_g_justification: "Raymond Isidore et la Maison Picassiette constituent une curiosité d’art brut française, mais les questions restent assez spécialisées."
 ---
-
 ![Image de Picassiette](https://upload.wikimedia.org/wikipedia/commons/9/93/Chartres_Maison_Picassiette_2.jpg)
 
 ###### Questions

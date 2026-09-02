@@ -19,8 +19,9 @@ indice_5 :
   - championne de France de pole dance
 indice_6 : 
   - contenus sur le bien-être
+culture_g_score: 24
+culture_g_justification: "Influenceuse spécialisée dans le fitness et le développement personnel, très peu rentable pour la culture générale classique."
 ---
-
 ![Image de Juju Fitcats](https://upload.wikimedia.org/wikipedia/commons/6/6e/Juju_Fitcats_Brasier.png)
 
 ###### Questions

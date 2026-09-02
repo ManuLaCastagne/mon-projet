@@ -22,8 +22,9 @@ indice_6 :
   - Island Records
 questions:
  - Quelle formation, dont Bob Marley était le leader, Bob Marley a été élu meilleur dirigeant ?
+culture_g_score: 80
+culture_g_justification: "Groupe central de l’histoire du reggae, directement relié à Bob Marley, Peter Tosh, la Jamaïque et la musique populaire mondiale."
 ---
-
 ![Image de Wailers](https://upload.wikimedia.org/wikipedia/commons/2/24/Bob_Marley_%26_The_Wailing_Wailers_Z%C3%BCrich_Com_L29-0351-0004-0004.tif)
 
 ###### Questions

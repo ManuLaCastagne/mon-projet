@@ -24,8 +24,9 @@ indice_6 :
   - îles Égéennes
 questions:
  - Quel archipel grec de la mer Egée doit son nom au fait que les îles qui le composent forment un cercle...
+culture_g_score: 80
+culture_g_justification: "Archipel grec très connu, riche en repères touristiques, mythologiques, historiques et géographiques autour de Délos, Mykonos et Santorin."
 ---
-
 ![Image de Cyclades](https://upload.wikimedia.org/wikipedia/commons/9/9a/Cyclades-Satellite_GREEK.png)
 
 ![[Carte_Cyclades.png]]

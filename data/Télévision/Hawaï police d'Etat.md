@@ -20,9 +20,9 @@ indice_6 :
   - enquête policière
 questions:
  - En France, sous quel titre connaît-on la série policière américaine créée en 68 et intitulée "Hawaii Five-0" en version originale?
+culture_g_score: 73
+culture_g_justification: "Série policière classique reconnaissable par Hawaii Five-O, sa réplique culte, son décor et son remake moderne."
 ---
-
-
 ![Image de Hawaï police d'Etat](https://upload.wikimedia.org/wikipedia/commons/d/d6/Hawaii_Five-O_%281968%E2%80%931980%29_Press_Photo_of_Irene_Tsu.jpg)
 
 ###### Questions

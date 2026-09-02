@@ -22,8 +22,9 @@ indice_6 :
   - correspondance fictive
 questions:
  - Quel récit de Kressmann Taylor prend la forme d'une correspondance entre un allemand et un juif américain, sur fond de montée du nazisme ?
+culture_g_score: 60
+culture_g_justification: "Cette courte œuvre épistolaire sur la montée du nazisme constitue une référence utile, mais son champ de questions reste assez limité."
 ---
-
 ![Image de Inconnu à cette adresse](https://upload.wikimedia.org/wikipedia/commons/f/f0/Colonne_Morris_Inconnu_%C3%A0_cette_A.jpeg)
 
 ###### Questions

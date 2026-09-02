@@ -20,8 +20,9 @@ indice_6 :
   - Château de Malmaison
 questions:
  - Je ne peux donner d'héritier à Napoléon. Impératrice des Français ayant fini ma vie à la Malmaison, je suis…
+culture_g_score: 80
+culture_g_justification: "Joséphine de Beauharnais est une figure rentable de l’Empire, de la Révolution, de la monarchie napoléonienne et de l’histoire de la Martinique."
 ---
-
 ![Image de Joséphine de Beauharnais](https://upload.wikimedia.org/wikipedia/commons/0/02/Acte_de_bapt%C3%AAme_de_Jos%C3%A9phine_ANOM.jpg)
 
 ###### Questions

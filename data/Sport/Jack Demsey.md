@@ -20,8 +20,9 @@ indice_6 :
   - Gene Tunney
 questions:
  - De 1919 à 1926, quel boxeur américain a été champion du monde des poids lourds ?
+culture_g_score: 64
+culture_g_justification: "Champion poids lourds historique et adversaire de Carpentier, Dempsey constitue une bonne référence de l’histoire de la boxe."
 ---
-
 ![Image de Jack Demsey](https://upload.wikimedia.org/wikipedia/commons/e/e4/Jack_Demsey%27s_Restauant_as_it_appeared_in_2011.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - conte pour enfants
 questions:
  - Ayant pour héros une famille d'animaux vivants dans une forêt et une fillette qui fait irruption dans leur domicile, j'aborde la question de la place de l'enfant dans la fratrie et celle de...
+culture_g_score: 87
+culture_g_justification: "Personnage universel de la littérature enfantine, associé aux Trois Ours, au folklore et à de nombreuses variantes culturelles."
 ---
-
 ![Image de Boucle d'Or](https://upload.wikimedia.org/wikipedia/commons/9/9e/Deux_en-t%C3%AAte_de_factures_pour_Baumann%2C_Tourneur%2C_Rue_du_Temple_n%C2%B042_%28en_bas%29_et_Marie%2C_Fabrique_La_Boucle_d%27or%2C_d%27argent%2C_Paris_Mus%C3%A9es_20230904211326.jpg)
 
 ###### Questions

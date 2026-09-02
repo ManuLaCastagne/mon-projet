@@ -20,8 +20,9 @@ indice_6 :
   - Robinets
 questions:
  - Utilisé pour la fabrication d'instruments de précision, d'éléments décoratifs pour le mobilier, d'instruments de musique, de robinetterie et de serrurerie...
+culture_g_score: 52
+culture_g_justification: "Alliage courant dans l’histoire des techniques et l’artisanat, mais rarement central dans les quiz généralistes."
 ---
-
 ![Image de Laiton](https://upload.wikimedia.org/wikipedia/commons/9/95/Brass.jpg)
 
 ###### Questions

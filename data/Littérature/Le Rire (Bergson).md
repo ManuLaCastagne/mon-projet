@@ -22,8 +22,9 @@ indice_6 :
   - le rire social
 questions:
  - Examinant les différentes formes de comique, de situation, de mots et de caractère, j'en étudie la fonction sociale, que je considère comme un rappel à l'ordre de la société envers les distraits ou les originaux. Essai dans lequel Henri Bergson...
+culture_g_score: 64
+culture_g_justification: "Essai classique de Bergson sur le comique, utile en philosophie et en littérature mais moins fréquent qu’une œuvre littéraire narrative majeure."
 ---
-
 ![Image de Le Rire (Bergson)](https://upload.wikimedia.org/wikipedia/commons/5/53/Portada_Le_rire_Henri_Bergson_20a_ed_franc%C3%A9s_1920_biblioteca_Gustavo_Sandoval_L%C3%B3pez.jpg)
 
 ###### Questions

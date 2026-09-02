@@ -18,9 +18,9 @@ indice_5 :
   - a souvent reçu des personnalités du monde artistique
 indice_6 : 
   - a débuté sa carrière en tant que journaliste sportif
+culture_g_score: 93
+culture_g_justification: "Figure incontournable de la télévision française depuis les années 1960, associée à de nombreuses émissions et à une carrière exceptionnellement longue."
 ---
-
-
 ![Image de Michel Drucker](https://upload.wikimedia.org/wikipedia/commons/2/22/Salon_Du_Livre_2011_Michel_Drucker_2.jpg)
 
 ###### Questions

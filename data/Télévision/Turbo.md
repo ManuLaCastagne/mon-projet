@@ -20,8 +20,9 @@ indice_6 :
   - nouveautés automobiles
 questions:
  - En 1997, quelle émission Robert Chapatte présentait-il ?
+culture_g_score: 57
+culture_g_justification: "Émission automobile très durable et connue, mais principalement exploitable dans quelques questions liées à la télévision et à l'automobile."
 ---
-
 ![Image de Turbo](https://upload.wikimedia.org/wikipedia/commons/0/0a/Turbo_petholatus_Voavah.JPG)
 
 ###### Questions

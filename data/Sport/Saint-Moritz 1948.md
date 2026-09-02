@@ -20,8 +20,9 @@ indice_5:
   - patinage artistique
 indice_6:
   - ski alpin
+culture_g_score: 44
+culture_g_justification: "Jeux d’hiver historiques par leur retour après la guerre et quelques premières, mais leur édition précise apparaît peu dans les quiz généralistes."
 ---
-
 ![Image de Saint-Moritz 1948](https://upload.wikimedia.org/wikipedia/commons/4/42/The_British_Ladies%27_Ski_Team_at_the_1948_Winter_Olympics.png)
 
 ###### Questions

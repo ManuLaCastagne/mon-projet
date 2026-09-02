@@ -20,8 +20,9 @@ indice_5 :
   - collaborations avec Lars von Trier
 indice_6 : 
   - Platoon
+culture_g_score: 64
+culture_g_justification: "Acteur très identifiable grâce à Spider-Man, Platoon et de nombreux films d'auteur ou populaires, avec une fréquence de quiz régulière mais non incontournable."
 ---
-
 ![Image de Willem Dafoe](https://upload.wikimedia.org/wikipedia/commons/1/14/Willem_Dafoe_Cannes_2019.jpg)
 
 ###### Questions

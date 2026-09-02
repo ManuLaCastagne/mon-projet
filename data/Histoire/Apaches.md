@@ -20,8 +20,9 @@ indice_6 :
   - chevauchées dans le désert
 questions:
  - Dans la 2de partie du XIXe siècle. Vivant notamment de la chasse du bison et de la cueillette... Je n'avais pas d'organisation sociale centralisée mais reconnaissais des chefs tels que Cochise et Geronimo…
+culture_g_score: 60
+culture_g_justification: "Peuple amérindien associé à Geronimo et aux guerres de frontière, les Apaches sont connus mais permettent surtout des questions historiques ciblées."
 ---
-
 ![Image de Apaches](https://upload.wikimedia.org/wikipedia/commons/c/cd/Apache_portraits.jpg)
 
 ###### Questions

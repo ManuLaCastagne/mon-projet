@@ -20,9 +20,9 @@ indice_6 :
   - Paris
 questions:
  - Qui est une bonne série.  Et mère de famille débordée, et un médecin légiste doué et malicieux dont la compagne a été assassinée. Série avec Hélène de Fougerolles et Tomer Sisley...
+culture_g_score: 53
+culture_g_justification: "Série policière française populaire, mais ses possibilités de questions restent surtout limitées à ses personnages, acteurs et diffusion."
 ---
-
-
 ![Image de Balthazar (série)](https://upload.wikimedia.org/wikipedia/commons/8/88/GIAMELUCA_-_Tournage_Balthazar_-_S%C3%A9rie_TV.jpg)
 
 ###### Questions

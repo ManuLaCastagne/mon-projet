@@ -20,8 +20,9 @@ indice_6 :
   - Le Tréport
 questions:
  - Dans quelle série télévisée lancée en 2015 sur France 2 a-t-on pu voir Thierry Lhermitte dans le rôle d'un ancien policier de la PJ de Lille?
+culture_g_score: 31
+culture_g_justification: "Série policière française relativement connue des amateurs, mais trop récente et spécialisée pour être une priorité généraliste."
 ---
-
 ![Image de Témoins (série)](https://upload.wikimedia.org/wikipedia/commons/6/6c/Proc%C3%A8s_Bazaine._Quatri%C3%A8me_s%C3%A9rie_-_portraits_des_t%C3%A9moins_-_btv1b102134828.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6:
   - ascension classique depuis Bénasque
 questions:
   - Quel sommet, situé dans le massif espagnol de la Madaletta, est le point culminant des Pyrénées ?
+culture_g_score: 40
+culture_g_justification: "Plus haut sommet des Pyrénées, repère géographique réel mais trop précis et peu transversal dans les quiz généralistes."
 ---
-
 ![[Carte_Pic d'Aneto.png]]
 ![[Carte_Pic d'Aneto.png]]
 ###### Questions

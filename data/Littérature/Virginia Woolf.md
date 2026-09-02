@@ -20,9 +20,9 @@ indice_5:
   - Essai sur les droits des femmes
 indice_6:
   - Elle s’est suicidée en 1941
+culture_g_score: 80
+culture_g_justification: "Grande figure du modernisme anglophone, reliée à plusieurs romans, au groupe de Bloomsbury et à la réflexion féministe."
 ---
-
-
 ![Image de Virginia Woolf](https://upload.wikimedia.org/wikipedia/commons/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg)
 
 ###### Questions

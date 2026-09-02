@@ -15,8 +15,9 @@ indice_6 :
   - Chasseur de blaireaux
 questions:
  - Dotée d'un poil court, dur ou long, j'étais autrefois utilisée pour la chasse au renard ou au blaireau.
+culture_g_score: 60
+culture_g_justification: "Le teckel est une race très reconnaissable, liée à l'Allemagne, à la chasse et à la bande dessinée, mais son importance générale demeure modeste."
 ---
-
 ![Image de Teckel](https://upload.wikimedia.org/wikipedia/commons/1/17/Teckel_-_39.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5:
   - entourée par l'Espagne et la France
 indice_6:
   - abrite la Casa de la Vall
+culture_g_score: 52
+culture_g_justification: "Capitale d’un micro-État souvent interrogée, mais offrant peu d’angles indépendants au-delà de la géographie pyrénéenne et du tourisme."
 ---
-
 ![Image de Andorre-la-Vieille](https://upload.wikimedia.org/wikipedia/commons/c/c6/Santa_Coloma_Andorra.jpg)
 
 ![[Carte_Andorre-la-Vieille.png]]

@@ -21,8 +21,9 @@ questions:
 latitude: 48.22647
 longitude: 15.34996
 location: 48.226470,15.349960
+culture_g_score: 51
+culture_g_justification: "Monument baroque autrichien reconnu par l'UNESCO, utile en patrimoine et en littérature mais assez peu fréquent."
 ---
-
 ![Image de Abbaye de Melk](https://upload.wikimedia.org/wikipedia/commons/5/54/Stift_Melk_Nordseite_01.jpg)
 
 ###### Questions

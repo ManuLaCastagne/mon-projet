@@ -22,8 +22,9 @@ indice_6 :
   - Toulouse
 questions:
  - A quel artiste doit-on la chanson "Octobre", extraite de l'album "Samedi soir sur la Terre" ?
+culture_g_score: 80
+culture_g_justification: "Auteur-compositeur français très populaire, régulièrement interrogé par ses albums, ses chansons et ses influences folk."
 ---
-
 ![Image de Francis Cabrel](https://upload.wikimedia.org/wikipedia/commons/e/ef/Francis_Cabrel_Brussels.jpg)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_6 :
   - Musées de curiosités
 questions:
  - Quel imprésario et entrepreneur de spectacles américain est initiateur du cirque à triple piste ?
+culture_g_score: 80
+culture_g_justification: "Barnum est une figure classique du spectacle et de l'entrepreneuriat américain, associée au cirque, à la publicité et aux canulars."
 ---
-
-
 ![Image de Phineas Taylor Barnum](https://upload.wikimedia.org/wikipedia/commons/8/8c/Barnum_%26_Bailey_clowns_and_geese2.jpg)
 
 ###### Questions

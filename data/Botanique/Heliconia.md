@@ -13,8 +13,9 @@ indice_5:
   - Bec de perroquet
 indice_6:
   - Utilisée comme plante ornementale
+culture_g_score: 31
+culture_g_justification: "Plante tropicale spectaculaire mais peu connue du grand public et rarement interrogée hors d'une question d'identification."
 ---
-
 ![Image de Heliconia](https://upload.wikimedia.org/wikipedia/commons/2/23/Heliconia_latispatha_%28Starwiz%29.jpg)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - talents cachés
 indice_6 : 
   - Mika et Amel Bent
+culture_g_score: 76
+culture_g_justification: "Télé-crochet international très populaire, exploitable par son format, ses coachs, ses gagnants, ses artistes et son histoire française."
 ---
-
 ![Image de The Voice](https://upload.wikimedia.org/wikipedia/commons/e/e7/The_voice_12.jpg)
 
 ###### Questions

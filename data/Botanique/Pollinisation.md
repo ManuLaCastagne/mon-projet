@@ -15,8 +15,9 @@ indice_6 :
   - Essentiel pour la reproduction des plantes
 questions:
  - Processus visant au transport d'une partie d'un végétal, je concerne les plantes qualifiées...
+culture_g_score: 88
+culture_g_justification: "Processus fondamental reliant botanique, reproduction végétale, insectes, agriculture et écologie, très rentable dans les quiz."
 ---
-
 ![Image de Pollinisation](https://upload.wikimedia.org/wikipedia/commons/6/63/Bee_pollinating_a_rose.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Mystère de la patience
 indice_6 : 
   - Jostein Gaarder
+culture_g_score: 61
+culture_g_justification: "Le Monde de Sophie constitue un repère international rentable, mais la carrière de Gaarder offre peu d’autres angles très fréquents."
 ---
-
 ![Image de Jostein Gaarder](https://upload.wikimedia.org/wikipedia/commons/f/f0/Jostein_Gaarder_Leipziger_Buchmesse_2017_%28cropped%29.jpg)
 
 ###### Questions

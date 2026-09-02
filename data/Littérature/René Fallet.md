@@ -22,8 +22,9 @@ indice_6 :
   - Adaptations cinématographiques
 questions:
  - A quel écrivain français, auteur de "Banlieue sud-est" doit-on le roman "Paris au mois d'août"?
+culture_g_score: 47
+culture_g_justification: "Écrivain populaire associé à La Soupe aux choux et à quelques adaptations, mais de portée culturelle générale modérée."
 ---
-
 ![Image de René Fallet](https://upload.wikimedia.org/wikipedia/commons/3/3b/ReneFallet-1949.png)
 
 ###### Questions

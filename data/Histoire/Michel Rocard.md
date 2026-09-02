@@ -18,8 +18,9 @@ indice_5 :
   - Acte Unique Européen
 indice_6 : 
   - Jospin
+culture_g_score: 80
+culture_g_justification: "Ancien Premier ministre associé au RMI, aux accords de Matignon et à la gauche française, offrant plusieurs angles classiques de quiz."
 ---
-
 ![Image de Michel Rocard](https://upload.wikimedia.org/wikipedia/commons/1/1b/Michel_Rocard16.JPG)
 
 ###### Questions

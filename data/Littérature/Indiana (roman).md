@@ -18,10 +18,9 @@ indice_5 :
   - Ralph
 indice_6 : 
   - Société patriarcale
+culture_g_score: 48
+culture_g_justification: "Roman important de George Sand sur la condition féminine, mais nettement moins présent dans les quiz que ses autrices et œuvres les plus célèbres."
 ---
-
-
-
 ![Image de Indiana (roman)](https://upload.wikimedia.org/wikipedia/commons/7/76/Indiana_de_George_Sand%2C_page_de_titre_du_tome_1_de_la_premi%C3%A8re_%C3%A9dition_%281832%29.png)
 
 ###### Questions

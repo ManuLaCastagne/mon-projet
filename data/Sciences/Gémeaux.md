@@ -20,8 +20,9 @@ indice_6 :
   - Légende grecque
 questions:
  - Je dois mon nom à 2 étoiles brillantes, Castor et Pollux. Constellation dont l'abréviation est Gem, je suis…
+culture_g_score: 64
+culture_g_justification: "Référence connue de l’astrologie et de l’astronomie populaire, avec quelques passerelles culturelles mais une portée limitée."
 ---
-
 ![Image de Gémeaux](https://upload.wikimedia.org/wikipedia/commons/f/fc/%C3%89velyne_Audet_%28Prix_g%C3%A9meaux_2016%29.jpg)
 
 ###### Questions

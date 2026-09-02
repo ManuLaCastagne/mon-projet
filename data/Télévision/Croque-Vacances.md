@@ -20,8 +20,9 @@ indice_6 :
   - présentée par Claude Pierrard
 questions:
  - De 1980 à 1987, quelle émission Claude Pierrard présente-t-il, durant les vacances, accompagné...
+culture_g_score: 52
+culture_g_justification: "Émission jeunesse nostalgique de TF1, connue des générations concernées mais relativement limitée à l’histoire de la télévision pour enfants."
 ---
-
 ![Image de Croque-Vacances](https://upload.wikimedia.org/wikipedia/commons/c/ca/Almanach_du_Charivari_%28IA_almanachduchariv04unse%29.pdf)
 
 ###### Questions

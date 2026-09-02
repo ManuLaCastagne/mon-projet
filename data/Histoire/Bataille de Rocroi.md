@@ -20,8 +20,9 @@ indice_6 :
   - Louis II de Bourbon-Condé
 questions:
  - Bataille du XVIIe siècle ayant débuté un 18 mai dans laquelle se distinguent les carrés de fantassins appelés tercios, j'oppose les 28 000 hommes de l'armée espagnole à 23 000 soldats français. Bataille de la guerre de Trente Ans remportée par le duc d'Enghien dans le nord de la France en 1643...
+culture_g_score: 64
+culture_g_justification: "Victoire française célèbre contre les tercios espagnols, utile pour l’histoire militaire et l’affirmation de la France au XVIIe siècle."
 ---
-
 ![Image de Bataille de Rocroi](https://upload.wikimedia.org/wikipedia/commons/5/51/Bataille_de_Rocroi_en_1643_-_btv1b84443770.jpg)
 
 ###### Questions

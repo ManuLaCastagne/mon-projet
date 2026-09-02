@@ -20,8 +20,9 @@ indice_6 :
   - Marta Marrero
 questions:
  - Au milieu des vagues.  Permettant dans une variante de se propulser à genoux ou à plat ventre avec les bras, je consiste...
+culture_g_score: 56
+culture_g_justification: "Sport en forte croissance et souvent confondu avec le padel, utile pour des questions contemporaines mais encore peu structurant."
 ---
-
 ![Image de Paddle](https://upload.wikimedia.org/wikipedia/commons/3/32/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_9_%28Canto_III_-_Charon%29.jpg)
 
 ###### Questions

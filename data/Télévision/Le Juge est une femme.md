@@ -20,9 +20,9 @@ indice_5:
   - Série policière française
 indice_6:
   - Tribunal et justice
+culture_g_score: 53
+culture_g_justification: "Série policière française durable et identifiable par Alice Nevers, mais relativement limitée à l’univers des fictions judiciaires."
 ---
-
-
 ![Image de Le Juge est une femme](https://upload.wikimedia.org/wikipedia/commons/c/c1/Stevenson_-_Herminston%2C_le_juge_pendeur.djvu)
 
 ###### Questions

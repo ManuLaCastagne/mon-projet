@@ -24,8 +24,9 @@ indice_6 :
   - Limousin historique
 questions:
  - Département devant mon nom à un affluent de la Vienne, je comprends l'ancienne province de la Marche. Surtout rural et orienté vers l'élevage bovin, j'appartiens à la région Nouvelle-Aquitaine, et abrite la Cité internationale de la tapisserie à Aubusson.  Département le moins peuplé de France après la Lozère...
+culture_g_score: 60
+culture_g_justification: "Département français classique grâce à Aubusson, au lac de Vassivière et à ses repères administratifs, mais peu central."
 ---
-
 ![Image de Creuse](https://upload.wikimedia.org/wikipedia/commons/3/36/Gu%C3%A9ret_-_Pr%C3%A9fecture_de_la_Creuse.jpg)
 
 ![[Carte_Creuse.png]]

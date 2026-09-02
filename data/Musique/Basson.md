@@ -22,8 +22,9 @@ indice_6 :
   - registre grave
 questions:
  - Double, fixée au bout d'une tige appelée bocal. Fabriqué en palissandre ou en érable, long et lourd… Je suis constitué de 2 tubes  parallèles adaptés à une culasse qui les met en communication. Instrument formant dans l'orchestre la basse de la famille des bois...
+culture_g_score: 60
+culture_g_justification: "Instrument classique régulièrement utilisé dans les questions musicales et orchestrales, avec quelques repères techniques et historiques utiles."
 ---
-
 ![Image de Basson](https://upload.wikimedia.org/wikipedia/commons/b/b9/Moshe_Basson_Picking_Mushrooms.jpg)
 
 ###### Questions

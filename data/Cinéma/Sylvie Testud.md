@@ -22,8 +22,9 @@ indice_6 :
   - César de la meilleure actrice
 questions:
  - En 2001, quelle comédienne reçoit le césar du meilleur jeune espoir féminin pour son rôle de Christine Papin dans "Les Blessures assassines" de Jean-Pierre Denis?
+culture_g_score: 60
+culture_g_justification: "Actrice française récompensée et associée à quelques rôles marquants, mais de portée plus secondaire dans les quiz généralistes."
 ---
-
 ![Image de Sylvie Testud](https://upload.wikimedia.org/wikipedia/commons/2/2b/Sylvie_Testud_2011.jpg)
 
 ###### Questions

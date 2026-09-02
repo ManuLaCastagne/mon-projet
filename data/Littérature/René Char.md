@@ -22,8 +22,9 @@ indice_6 :
   - Influence sur la poésie moderne
 questions:
  - Poète,  résistant, auteur  du "Marteau sans maître", de "Fureur et mystère", cherchant l'accord entre forces naturelles et aspirations humaines, je suis…
+culture_g_score: 71
+culture_g_justification: "Poète majeur du XXe siècle, dont la Résistance, le surréalisme et Fureur et mystère offrent plusieurs points d’entrée classiques."
 ---
-
 ![Image de René Char](https://upload.wikimedia.org/wikipedia/commons/7/7f/C%C3%A9reste_R._C._et_son_chat_1941.jpg)
 
 ###### Questions

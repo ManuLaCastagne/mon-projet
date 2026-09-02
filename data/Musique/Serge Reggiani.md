@@ -22,8 +22,9 @@ indice_6 :
   - interprète de Boris Vian
 questions:
  - Au début des années 70, quel chanteur commence l'une de ses chansons aux accents autobiographiques par les mots  "C'est moi, c'est l'Italien"?
+culture_g_score: 63
+culture_g_justification: "Le double parcours d’acteur et de chanteur de Reggiani fournit plusieurs angles de quiz, sans atteindre la fréquence des figures françaises les plus centrales."
 ---
-
 ![Image de Serge Reggiani](https://upload.wikimedia.org/wikipedia/commons/8/82/Identite-SergeReggiani-1993-Sacem.png)
 
 ###### Questions

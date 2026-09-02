@@ -15,10 +15,9 @@ indice_6 :
   - Symbole de régénération
 questions:
  - Urodèle nocturne dont la queue est différente de celle du triton, je suis caractérisé par une peau luisante couverte d'un mucus venimeux.
+culture_g_score: 67
+culture_g_justification: "Amphibien connu à la fois par la mythologie, l’histoire de l’art, la zoologie et ses capacités de régénération."
 ---
-
-
-
 ![Image de Salamandre](https://upload.wikimedia.org/wikipedia/commons/4/49/Archives_SHDMR_MR_5_G_778_Salamandre.jpg)
 
 ###### Questions

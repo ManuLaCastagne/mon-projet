@@ -24,10 +24,9 @@ indice_6 :
   - Vieille Ville
 questions:
  - En 1618, quelle ville déclenche la Guerre de Trente ans ?
+culture_g_score: 84
+culture_g_justification: "Capitale européenne majeure, fréquemment interrogée pour son patrimoine, son histoire politique, sa géographie et sa culture."
 ---
-
-
-
 ![Image de Prague](https://upload.wikimedia.org/wikipedia/commons/2/2c/Prague_skyline_at_dawn.jpg)
 
 ![[Carte_Prague.png]]

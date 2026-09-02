@@ -22,8 +22,9 @@ indice_6 :
   - influence dance années 1980
 questions:
  - En 1979, quelle chanteuse, originaire de Memphis connaît le succès avec le titre "Ring my bell"?
+culture_g_score: 36
+culture_g_justification: "Anita Ward est presque exclusivement connue pour « Ring My Bell », ce qui limite fortement la transversalité du sujet."
 ---
-
 ![Image de Anita Ward](https://upload.wikimedia.org/wikipedia/commons/a/a9/Anita_Ward_%28cropped%29.jpg)
 
 ###### Questions

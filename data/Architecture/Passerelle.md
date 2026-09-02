@@ -23,8 +23,9 @@ indice_6 :
   - connexion entre bâtiments
 questions:
  - D'accès payant dans le cas de celui, inauguré en avril dernier, qui s'élève au-dessus de la rivière Paiva au Portugal, je permets de franchir un cours d'eau ou une voie de communication.
+culture_g_score: 32
+culture_g_justification: "Type d'ouvrage courant mais rarement traité comme réponse précise dans les quiz généralistes."
 ---
-
 ![Image de Passerelle](https://upload.wikimedia.org/wikipedia/commons/e/ed/Luxbg_Passerelle_Al_Br%C3%A9ck_01crop.jpg)
 
 ###### Questions

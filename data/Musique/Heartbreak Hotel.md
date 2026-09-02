@@ -22,8 +22,9 @@ indice_6 :
   - blues influencé
 questions:
  - En 1956, avec quelle chanson, inspirée d'un fait divers, Elvis Presley a-t-il réalisé la meilleure vente en 45 tours de l'année?
+culture_g_score: 77
+culture_g_justification: "Tube fondateur d’Elvis et du rock’n’roll, Heartbreak Hotel est une réponse fréquente reliant musique populaire, classements et histoire du rock."
 ---
-
 ![Image de Heartbreak Hotel](https://upload.wikimedia.org/wikipedia/commons/5/5e/Heartbreak_hotel_-_geograph.org.uk_-_3680324.jpg)
 
 ###### Questions

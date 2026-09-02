@@ -18,8 +18,9 @@ indice_5 :
   - Débarquement de Normandie
 indice_6 : 
   - Hiroshima et Nagasaki
+culture_g_score: 100
+culture_g_justification: "Conflit mondial incontournable, ouvrant sur de très nombreux thèmes militaires, politiques, génocidaires, diplomatiques et technologiques."
 ---
-
 ![Image de Seconde Guerre mondiale](https://upload.wikimedia.org/wikipedia/commons/7/7c/Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg)
 
 ###### Questions

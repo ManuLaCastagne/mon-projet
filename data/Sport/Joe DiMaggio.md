@@ -20,8 +20,9 @@ indice_6 :
   - Center fielder
 questions:
  - Quel ancien joueur de base-ball, connu pour avoir été marié à Marilyn Monroe, fut un joueur emblématique des Yankees de New York?
+culture_g_score: 80
+culture_g_justification: "Recordman mythique du baseball et époux de Marilyn Monroe, DiMaggio possède une forte visibilité sportive et culturelle."
 ---
-
 ![Image de Joe DiMaggio](https://upload.wikimedia.org/wikipedia/commons/1/1f/1939_Playball_Joe_Dimaggio_%28minus_halftone%29.jpg)
 
 ###### Questions

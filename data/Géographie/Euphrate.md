@@ -25,8 +25,9 @@ indice_6 :
   - Crucial pour l'agriculture locale
 questions:
  - Fleuve d'Asie occidentale, sur les rives duquel s'élevaient, en Mésopotamie, les villes de Sumer, Our ou encore Babylone, je suis…
+culture_g_score: 88
+culture_g_justification: "Fleuve fondateur de la Mésopotamie, l’Euphrate est très rentable pour les questions sur les civilisations antiques, la Bible et le Moyen-Orient."
 ---
-
 ![Image de Euphrate](https://upload.wikimedia.org/wikipedia/commons/5/5d/William_Webb_-_Euphrates_-_Google_Art_Project.jpg)
 
 ![[Carte_Euphrate.png]]

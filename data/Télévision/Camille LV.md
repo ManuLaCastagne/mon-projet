@@ -19,8 +19,9 @@ indice_5 :
   - stand-up
 indice_6 : 
   - breton
+culture_g_score: 3
+culture_g_justification: "Personnalité très obscure et sans ancrage culturel général identifiable, donc pratiquement inutilisable dans un entraînement généraliste."
 ---
-
 ![Image de Camille LV](https://upload.wikimedia.org/wikipedia/commons/e/e5/Camille_Krantz.jpg)
 
 ###### Questions

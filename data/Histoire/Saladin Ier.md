@@ -20,8 +20,9 @@ indice_6 :
   - adversaire de Richard Cœur de Lion
 questions:
  - Quel souverain musulman du XIIe siècle s'étant emparé de Jérusalem en 1187, est célèbre par ses luttes contre les croisés ?
+culture_g_score: 100
+culture_g_justification: "Figure mondiale des croisades, reliant Jérusalem, l’islam médiéval, Richard Cœur de Lion, la diplomatie et l’histoire du Moyen-Orient."
 ---
-
 ![Image de Saladin Ier](https://upload.wikimedia.org/wikipedia/commons/c/cc/Selahaddin_Eyyubi_El_Kurdi.jpg)
 
 ###### Questions

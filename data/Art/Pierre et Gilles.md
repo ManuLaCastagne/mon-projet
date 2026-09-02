@@ -23,8 +23,9 @@ indice_6 :
   - fusion entre peinture et photographie
 questions:
  - Depuis 1976, quel duo d'artistes contemporains français, influencé par le pop art et le style kitsch, mélange photographie et de peinture ?
+culture_g_score: 47
+culture_g_justification: "Le duo Pierre et Gilles possède une signature visuelle identifiable, mais reste une référence contemporaine assez spécialisée."
 ---
-
 ![Image de Pierre et Gilles](https://upload.wikimedia.org/wikipedia/commons/6/62/Pierre_et_Gilles_%C3%A0_Perpignan_dans_le_cadre_du_FILAF_2018.jpg)
 
 ###### Questions

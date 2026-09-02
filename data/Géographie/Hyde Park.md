@@ -23,9 +23,9 @@ indice_6 :
   - Marble Arch
 questions:
  - On s'y promène, on y court.  Séparé des jardins de Kensington par le lac Serpentine et le Long Water, je suis…
+culture_g_score: 80
+culture_g_justification: "Parc londonien emblématique, régulièrement interrogé pour son histoire royale, l’Exposition de 1851, ses monuments et sa vie culturelle."
 ---
-
-
 ![Image de Hyde Park](https://upload.wikimedia.org/wikipedia/commons/4/4d/London_Hyde_Park_riders-20130715-RM-130028.jpg)
 
 ![[Carte_Hyde Park.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - Inhumation de Jésus
 questions:
  - Quel notable juif, membre des pharisiens, Jésus retrouve-t-il en secret pour lui apprendre qu'il suffit de croire pour accéder au royaume de Dieu?
+culture_g_score: 40
+culture_g_justification: "Personnage du Nouveau Testament identifiable par quelques épisodes, mais rarement interrogé hors d’un contexte biblique précis."
 ---
-
 ![Image de Saint-Nicodème](https://upload.wikimedia.org/wikipedia/commons/6/65/%C3%89glise_de_Saint-Nicod%C3%A8me.JPG)
 
 ###### Questions

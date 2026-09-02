@@ -20,8 +20,9 @@ indice_6 :
   - gestion des terres et des ressources
 questions:
  - Porté à la prééminence par le sultan Ahmed III au XVIIIe siècle, sous le qualificatif de grand...
+culture_g_score: 84
+culture_g_justification: "Titre présent dans plusieurs grandes civilisations, particulièrement rentable pour relier Égypte ancienne, mondes islamique et ottoman."
 ---
-
 ![Image de Vizir](https://upload.wikimedia.org/wikipedia/commons/7/79/Le_Vizir_MDLA.JPG)
 
 ###### Questions

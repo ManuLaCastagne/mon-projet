@@ -15,8 +15,9 @@ indice_6 :
   - Utilisation  Plantes ornementales et fruit comestible
 questions:
  - Quel arbuste, également appelé épine-vinette, donne des fleurs jaune-orangé avant de produire de petites baies bleues?
+culture_g_score: 31
+culture_g_justification: "Arbuste à baies et à épines identifiable par quelques indices, mais rarement prioritaire en culture générale."
 ---
-
 ![Image de Berbéris](https://upload.wikimedia.org/wikipedia/commons/e/ef/Berberis_darwinii_%2831147629178%29.jpg)
 
 ###### Questions

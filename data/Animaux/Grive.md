@@ -15,8 +15,9 @@ indice_6 :
   - Messager du printemps
 questions:
  - Quel passereau proche du merle compte des individus de l'espèce litorne...
+culture_g_score: 28
+culture_g_justification: "La grive est un oiseau chanteur identifiable mais peu mis en avant comme réponse dans les quiz généralistes."
 ---
-
 ![Image de Grive](https://upload.wikimedia.org/wikipedia/commons/5/52/Roc_du_Grand_Renard_and_Aiguille_Grive%2C_with_TSF_Charmettoger_and_ski_slopes_in_the_foreground%2C_Les_Arcs%2C_2018.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - amitié avec Virginia Woolf
 questions:
  - En 1922, quelle femme de lettres  néo-zélandaise publie le recueil de nouvelles "La Garden-Party"?
+culture_g_score: 67
+culture_g_justification: "Grande nouvelliste moderniste, particulièrement utile pour The Garden Party et la littérature anglophone du début du XXe siècle."
 ---
-
 ![Image de Katherine Mansfield](https://upload.wikimedia.org/wikipedia/commons/5/5f/Katherine_Mansfield_%28no_signature%29.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Jardin ornemental
 questions:
  - Quelle plante originaire d'Amérique du Nord, formant des massifs de couleurs vives, porte un nom issu du grec signifiant flamme?
+culture_g_score: 27
+culture_g_justification: "Fleur ornementale relativement spécialisée, surtout susceptible d'une question botanique ponctuelle."
 ---
-
 ![Image de Phlox](https://upload.wikimedia.org/wikipedia/commons/e/e9/2020_year._Herbarium._Phlox_paniculata._img-017.jpg)
 
 ###### Questions

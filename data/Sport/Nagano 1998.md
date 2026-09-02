@@ -18,10 +18,9 @@ indice_5:
   - ski alpin
 indice_6:
   - cérémonie d'ouverture
+culture_g_score: 60
+culture_g_justification: "Édition olympique d’hiver identifiable par son lieu, le hockey féminin et Tara Lipinski, mais d’importance limitée par rapport aux éditions majeures."
 ---
-
-
-
 ![Image de Nagano 1998](https://upload.wikimedia.org/wikipedia/commons/e/e3/1998_Nagano_Winter_Olympics_opening_ceremony.jpg)
 
 ###### Questions

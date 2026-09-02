@@ -22,8 +22,9 @@ indice_6 :
   - Photographe de mariage
 questions:
  - En 2017, quelle comédie d'Eric Toledano et Olivier Nakache, avec Jean-Pierre Bacri...
+culture_g_score: 64
+culture_g_justification: "Comédie française connue grâce au duo d’Intouchables et à Bacri, mais moins incontournable et moins riche en angles que leurs grands succès."
 ---
-
 ![Image de Le Sens de la fête](https://upload.wikimedia.org/wikipedia/commons/0/01/Villemanoche-FR-89-fete_musique_2024-groupe_In_Can_D_Sens-01.jpg)
 
 ###### Questions

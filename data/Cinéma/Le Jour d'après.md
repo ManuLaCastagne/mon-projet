@@ -22,9 +22,9 @@ indice_6 :
   - tempête planétaire
 questions:
  - En 2004, dans quel film catastrophe de Roland Emmerich un changement climatique à l'échelle...
+culture_g_score: 68
+culture_g_justification: "Film catastrophe très reconnaissable, régulièrement associé à Roland Emmerich, au climat et à ses acteurs, mais d’importance culturelle limitée."
 ---
-
-
 ![Image de Le Jour d'après](https://upload.wikimedia.org/wikipedia/commons/a/a6/BORDEAUX_D%C3%89CONFIN%C3%89_LE_JOUR_D%27APR%C3%88S_%284K%29.webm)
 
 ###### Questions

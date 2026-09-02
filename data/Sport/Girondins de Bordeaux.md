@@ -20,8 +20,9 @@ indice_6 :
   - Willy Sagnol
 questions:
  - Club de football vainqueur de la coupe Gambardella en 1976 et 2013, j'ai remporté mon 6e et dernier titre de champion de France en 2009.  Club phare des années 80 avec des joueurs comme les frères Vujociv, Dieter Muller...
+culture_g_score: 60
+culture_g_justification: "Club français important, souvent présent dans les quiz de football via ses titres, Laurent Blanc, Bordeaux et son histoire récente mouvementée."
 ---
-
 ![Image de Girondins de Bordeaux](https://upload.wikimedia.org/wikipedia/commons/7/7d/Bordeaux_Girondins_R02.jpg)
 
 ###### Questions

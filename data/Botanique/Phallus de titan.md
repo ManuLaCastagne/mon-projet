@@ -13,8 +13,9 @@ indice_5 :
   - Arum titan
 indice_6 : 
   - Recherche botanique
+culture_g_score: 52
+culture_g_justification: "Cette plante spectaculaire est un classique des questions insolites sur les records naturels, mais offre peu d'angles indépendants."
 ---
-
 ![Image de Phallus de titan](https://upload.wikimedia.org/wikipedia/commons/3/30/Gazette_arch%C3%A9ologique%3B_recueil_de_monuments_pour_servir_%C3%A0_la_connaissance_%26_%C3%A0_l%27histoire_de_l%27art_dans_l%27antiquit%C3%A9_et_le_moyen-%C3%A2ge_%28IA_gazettearcheolog06unse%29.pdf)
 
 ###### Questions

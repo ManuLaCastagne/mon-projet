@@ -20,8 +20,9 @@ indice_6 :
   - conquête espagnole
 questions:
  - A quel empire précolombien associe-t-on les états de Tical et Palanque ?
+culture_g_score: 92
+culture_g_justification: "Civilisation précolombienne majeure, très rentable grâce à ses cités, son écriture, ses calendriers, ses mathématiques et son architecture."
 ---
-
 ![Image de Empire Maya](https://upload.wikimedia.org/wikipedia/commons/5/5b/2014_W6N_-_France_vs_Italy_-_Marjorie_Mayans_5992.jpg)
 
 ###### Questions

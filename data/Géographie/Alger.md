@@ -22,8 +22,9 @@ indice_5 :
   - Aéroport Houari Boumédiène
 indice_6 : 
   - Grand Poste d'Alger
+culture_g_score: 60
+culture_g_justification: "Capitale du Maghreb régulièrement mobilisée en géographie et en histoire coloniale, mais moins incontournable que les grandes capitales mondiales."
 ---
-
 ![Image de Alger](https://upload.wikimedia.org/wikipedia/commons/3/3f/Flag_of_Alger_County%2C_Michigan.svg)
 
 ![[Carte_Alger.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - voyage initiatique
 questions:
  - Dans quel roman de Cormac McCarthy, publié en France en 2008, un jeune garçon accompagne-t-il...
+culture_g_score: 80
+culture_g_justification: "Roman post-apocalyptique majeur de Cormac McCarthy, régulièrement identifié par le Pulitzer, son adaptation et son intrigue père-fils."
 ---
-
 ![Image de La Route](https://upload.wikimedia.org/wikipedia/commons/7/7a/Amboy_%28California%2C_USA%29%2C_Hist._Route_66_--_2012_--_1.jpg)
 
 ###### Questions

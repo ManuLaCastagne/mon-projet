@@ -22,8 +22,9 @@ indice_6 :
   - A joué dans Sept ans de réflexion
 questions:
  - Quelle star hollywoodienne disparue en 1962 avouait...
+culture_g_score: 100
+culture_g_justification: "Icône mondiale du cinéma et de la culture populaire, offrant des questions très fréquentes sur ses films, sa vie, son identité et Kennedy."
 ---
-
 ![Image de Marilyn Monroe](https://upload.wikimedia.org/wikipedia/commons/1/11/Marilyn_Monroe_photo_pose_Seven_Year_Itch%2C_edit.jpg)
 
 ###### Questions

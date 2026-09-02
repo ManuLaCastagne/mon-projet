@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Canada
+culture_g_score: 27
+culture_g_justification: "La plante et son nom littéraire sont peu mobilisés dans les quiz, malgré le double sens de « zizanie »."
 ---
 ###### Questions 
 

@@ -20,8 +20,9 @@ indice_6 :
   - portrait de la vie de famille française
 questions:
  - A partir de 65, quelle série française, avec Micheline Presle et Daniel Gélin, met en scène la famille Lagarde?
+culture_g_score: 44
+culture_g_justification: "Série familiale française historique et marquante pour la télévision, mais aujourd'hui moins fréquente que les grandes séries internationales."
 ---
-
 ![Image de Les Saintes Chéries](https://upload.wikimedia.org/wikipedia/commons/2/28/%C3%89glise_Ch%C3%A9ry_les_Pouilly.JPG)
 
 ###### Questions

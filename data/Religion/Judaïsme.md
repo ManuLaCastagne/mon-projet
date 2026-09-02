@@ -18,8 +18,9 @@ indice_5 :
   - Casher
 indice_6 : 
   - Menorah
+culture_g_score: 100
+culture_g_justification: "Grande religion mondiale, le judaïsme ouvre sur l'histoire, les textes, les fêtes, les croyances et les relations avec les autres monothéismes."
 ---
-
 ![Image de Judaïsme](https://upload.wikimedia.org/wikipedia/commons/a/a3/Paris_-_H%C3%B4tel_de_Saint-Aignan_-_Muse%C3%A9_du_Juda%C3%AFsme.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Sibérie de l'Ouest
 questions:
  - Communiquant avec la Méditerranée à travers la mer de Marmara par les détroits du Bosphore et des Dardanelles.
+culture_g_score: 80
+culture_g_justification: "Mer stratégique fréquemment liée à la géographie européenne, à la Russie, à la Crimée et à plusieurs conflits."
 ---
-
 ![Image de Mer Noire](https://upload.wikimedia.org/wikipedia/commons/f/fb/Black_Sea_Nasa_May_25_2004.jpg)
 
 ![[Carte_Mer Noire.png]]

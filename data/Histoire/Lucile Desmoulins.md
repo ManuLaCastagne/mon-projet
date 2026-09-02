@@ -20,10 +20,9 @@ indice_6 :
   - mère du fils de Camille Desmoulins
 questions:
  - Quelle épouse du fondateur du "Vieux Cordelier" prénommé Camille est condamnée pour avoir protesté ?
+culture_g_score: 39
+culture_g_justification: "Épouse de Camille Desmoulins et victime de la Terreur, Lucile reste une figure secondaire aux possibilités de question limitées."
 ---
-
-
-
 ![Image de Lucile Desmoulins](https://upload.wikimedia.org/wikipedia/commons/f/f4/LucileDesmoulins.jpg)
 
 ###### Questions

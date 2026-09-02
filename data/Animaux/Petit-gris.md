@@ -15,8 +15,9 @@ indice_6 :
   - Spécialité culinaire française
 questions:
  - Sous quel nom connaît-on mieux l'escargot appelé Helix pomatia qui est la plus grosse espèce de gastéropode ?
+culture_g_score: 44
+culture_g_justification: "Escargot associé à la gastronomie française et à la Bourgogne, avec une utilité culturelle assez circonscrite."
 ---
-
 ![Image de Petit-gris](https://upload.wikimedia.org/wikipedia/commons/e/e0/1914_Gris_Le_Petit_D%C3%A9jeuner.jpg)
 
 ###### Questions

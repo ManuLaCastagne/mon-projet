@@ -21,8 +21,9 @@ indice_5 :
   - Caprivi Strip
 indice_6 : 
   - Mozambique
+culture_g_score: 80
+culture_g_justification: "Fleuve africain très identifiable grâce aux chutes Victoria, à la Zambie, au Zimbabwe et à la géographie de l’Afrique australe."
 ---
-
 ![[Carte_Zambèze.png]]
 
 ###### Questions

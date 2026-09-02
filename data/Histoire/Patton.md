@@ -18,8 +18,9 @@ indice_5 :
   - chars d'assaut
 indice_6 : 
   - Opération Torch
+culture_g_score: 80
+culture_g_justification: "Général emblématique de la Seconde Guerre mondiale et héros d’un film oscarisé, permettant plusieurs entrées historiques, militaires et cinématographiques."
 ---
-
 ![Image de Patton]()
 
 ###### Questions

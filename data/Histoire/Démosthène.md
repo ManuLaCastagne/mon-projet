@@ -20,8 +20,9 @@ indice_6 :
   - rochers et galets pour s'entraîner
 questions:
  - Quel orateur athénien a surmonté ses difficultés d'élocution en plaçant des petits cailloux dans sa bouche ?
+culture_g_score: 71
+culture_g_justification: "Grand orateur athénien associé aux Philippiques et à l’opposition à la Macédoine, classique mais moins fréquent que les figures antiques majeures."
 ---
-
 ![Image de Démosthène](https://upload.wikimedia.org/wikipedia/commons/0/0e/Greece_from_the_Coming_of_the_Hellenes_to_AD._14%2C_page_219%2C_Demosthenes.jpg)
 
 ###### Questions

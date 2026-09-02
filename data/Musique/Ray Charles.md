@@ -22,9 +22,9 @@ indice_6 :
   - Premier artiste à mélanger gospel et rhythm and blues
 questions:
  - En 1955, avec la chanson "I Got A Woman", parlant de sexe sur un rythme liturgique, quel chanteur et pianiste provoque un énorme scandale?
+culture_g_score: 80
+culture_g_justification: "Ray Charles est une figure majeure du rhythm and blues et de la soul, avec des liens fréquents au jazz, au gospel, aux Grammy Awards et à l'histoire américaine."
 ---
-
-
 ![Image de Ray Charles](https://upload.wikimedia.org/wikipedia/commons/e/e8/Ray_Charles_classic_piano_pose.jpg)
 
 ###### Questions

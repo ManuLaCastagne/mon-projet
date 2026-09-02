@@ -18,8 +18,9 @@ indice_5 :
   - Paul Éluard
 indice_6 : 
   - La Révolution surréaliste
+culture_g_score: 88
+culture_g_justification: "Fondateur du surréalisme, il relie littérature, poésie, arts plastiques et histoire des avant-gardes, ce qui le rend très rentable."
 ---
-
 ![Image de André Breton](https://upload.wikimedia.org/wikipedia/commons/f/f2/Andr%C3%A9_Breton_-_photo_Henri_Manuel.jpg)
 
 ###### Questions

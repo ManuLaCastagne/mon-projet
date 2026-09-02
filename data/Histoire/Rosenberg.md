@@ -20,8 +20,9 @@ indice_6 :
   - Guerre froide
 questions:
  - Quel couple américain exécuté aux USA a été accusé d'avoir livré des secrets atomiques à l'URSS ?
+culture_g_score: 60
+culture_g_justification: "Le nom renvoie surtout à l’affaire Sacco et Vanzetti ou à Alfred Rosenberg, deux références historiques mais relativement distinctes et spécialisées."
 ---
-
 ![Image de Rosenberg](https://upload.wikimedia.org/wikipedia/commons/b/b4/Statue_of_Henry_Rosenberg_at_the_Rosenberg_Library%2C_Galveston.jpg)
 
 ###### Questions

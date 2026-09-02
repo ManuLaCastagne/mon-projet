@@ -18,8 +18,9 @@ indice_5 :
   - Tribu de Lévi
 indice_6 : 
   - Veau d'or
+culture_g_score: 80
+culture_g_justification: "Aaron est une figure biblique majeure, rentable pour l'Exode, Moïse, le sacerdoce hébraïque et l'épisode du Veau d'or."
 ---
-
 ![Image de Aaron](https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Prophet_Harun_%28Aaron_In_Islam%29.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - collaboré avec Jean Gabin
 questions:
  - Avec Rita Hayworth, j'ai dirigé à 7 reprises Cinéma/Jean Gabin, notamment dans "Pépé le Moko"...
+culture_g_score: 67
+culture_g_justification: "Julien Duvivier est une figure importante du cinéma français classique, associée au réalisme poétique, à Gabin et à plusieurs films célèbres."
 ---
-
 ![Image de Julien Duvivier](https://upload.wikimedia.org/wikipedia/commons/6/6c/Identite-JulienDuvivier-1932-Sacem.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - société Geugène Electro Stim
 questions:
  - Dans "Caméra Café", quel personnage de célibataire, travaillant au service archives, est incarnée par Armelle ?
+culture_g_score: 73
+culture_g_justification: "Série humoristique française culte, régulièrement interrogée pour son dispositif original, ses personnages, ses acteurs et son adaptation au cinéma."
 ---
-
 ![Image de Caméra Café](https://upload.wikimedia.org/wikipedia/commons/e/ed/Cam%C3%A9ra_Caf%C3%A9_Logo_%28Reproduction%29.png)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_5 :
   - Site archéologique
 indice_6 : 
   - Campanie
+culture_g_score: 44
+culture_g_justification: "Ville antique liée à l'éruption du Vésuve, mais nettement moins fréquente et célèbre que Pompéi ou Herculanum."
 ---
-
-
 ![[Carte_Stabies.png]]
 
 ###### Questions

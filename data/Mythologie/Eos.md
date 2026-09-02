@@ -18,9 +18,9 @@ indice_6 :
   - prologue de l'Iliade
 questions:
  - En mythologie, sous quel nom grec connaît-on la déesse de l'Aurore qui, chaque jour, sortait de l'océan et s'élevait dans le ciel...
+culture_g_score: 51
+culture_g_justification: "Déesse de l'aurore connue surtout par le mythe de Tithon, avec une présence modérée dans les quiz."
 ---
-
-
 ![Image de Eos](https://upload.wikimedia.org/wikipedia/commons/0/0f/Eos_utgjutande_morgondaggen%2C_Nordisk_familjebok.png)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5:
   - Iguazú
 indice_6:
   - Ushuaïa
+culture_g_score: 80
+culture_g_justification: "Grand pays sud-américain régulièrement interrogé pour sa géographie, son histoire, le football, le tango, la Patagonie et ses ressources."
 ---
-
 ![[Carte_Argentine.png]]
 
 ###### Questions

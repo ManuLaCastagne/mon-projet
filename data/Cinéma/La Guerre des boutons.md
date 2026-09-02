@@ -22,8 +22,9 @@ indice_6 :
   - bataille pour des boutons
 questions:
  - En 1961, dans quel film, adapté d'un roman de Louis Pergaud, Petit Gibus...
+culture_g_score: 84
+culture_g_justification: "Classique populaire français lié à Yves Robert, Louis Pergaud, l'école et plusieurs remakes, donc très rentable en quiz francophones."
 ---
-
 ![Image de La Guerre des boutons](https://upload.wikimedia.org/wikipedia/commons/8/8c/Pergaud_-_La_Guerre_des_boutons%2C_1912.djvu)
 
 ###### Questions

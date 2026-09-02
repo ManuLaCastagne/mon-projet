@@ -22,8 +22,9 @@ indice_6 :
   - Hard Rock
 questions:
  - Fin 2020, quel groupe de hard rock australien comprenant le fameux guitariste Angus Young a sorti l'album "Power up"?
+culture_g_score: 84
+culture_g_justification: "AC/DC est un groupe incontournable du rock, régulièrement associé à plusieurs tubes, albums et figures emblématiques."
 ---
-
 ![Image de AC DC](https://upload.wikimedia.org/wikipedia/commons/7/7f/AC_DC_at_London%27s_Olympic_Stadium.jpg)
 
 ###### Questions

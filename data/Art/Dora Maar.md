@@ -23,8 +23,9 @@ indice_6 :
   - Portraits
 questions:
  - Quelle femme, un temps compagne de Pablo Picasso, a prêté ses traits  au tableau "La femme qui pleure" ?
+culture_g_score: 68
+culture_g_justification: "Dora Maar relie photographie, surréalisme, Picasso et Guernica, ce qui offre plusieurs entrées malgré une notoriété inférieure à celle de Picasso."
 ---
-
 ![Image de Dora Maar](https://upload.wikimedia.org/wikipedia/commons/6/61/Dora_Maar.jpg)
 
 ###### Questions

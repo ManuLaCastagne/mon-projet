@@ -22,8 +22,9 @@ indice_6 :
   - wuxia
 questions:
  - En 2000, quel film de Ang Lee se déroulant dans la Chine ancienne met en scène Chow Yun-Fat et Michelle Yeo en virtuoses des arts martiaux?
+culture_g_score: 80
+culture_g_justification: "Grand succès international du cinéma asiatique, utile pour Ang Lee, le wuxia, les Oscars et ses acteurs."
 ---
-
 ![Image de Tigre et Dragon](https://upload.wikimedia.org/wikipedia/commons/5/52/Tigres_et_dragons_par_Kan%C5%8D_Sanraku.jpg)
 
 ###### Questions

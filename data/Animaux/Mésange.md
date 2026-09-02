@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté
 questions:
  - Quel petit oiseau de l'espèce Parus caeruleus, très familier de nos jardins, est reconnaissable à son poitrail jaune et à ses ailes bleues?
+culture_g_score: 64
+culture_g_justification: "Oiseau commun associé à l’apprentissage social, à l’écologie et aux observations comportementales classiques."
 ---
-
 ![Image de Mésange](https://upload.wikimedia.org/wikipedia/commons/3/31/M%C3%A9sange_bleue_DSCF6722.jpg)
 
 ###### Questions

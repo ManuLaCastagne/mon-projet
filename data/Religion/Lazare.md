@@ -20,9 +20,9 @@ indice_6 :
   - Tombeau de Lazare
 questions:
  - Quel nom porte le pauvre lépreux qui mendie à la table du riche dans une parabole biblique?
+culture_g_score: 80
+culture_g_justification: "Lazare est associé à un miracle central de Jésus, à une parabole célèbre et à des références chrétiennes et islamiques."
 ---
-
-
 ![Image de Lazare](https://upload.wikimedia.org/wikipedia/commons/e/ec/Gare_de_Paris-Saint-Lazare_001.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - jardin en terrasses
 questions:
  - Quel palais de Potsdam renferme la salle de marbre, qui est censée rappeler le Panthéon de Rome?
+culture_g_score: 68
+culture_g_justification: "Sans-Souci est un palais prussien important, surtout utile pour Frédéric II, Potsdam, l’architecture rococo et le patrimoine allemand."
 ---
-
 ![Image de Palais de Sans-Souci](https://upload.wikimedia.org/wikipedia/commons/0/0a/Palais_Sans-Souci%2C_Milot.jpg)
 
 ###### Questions

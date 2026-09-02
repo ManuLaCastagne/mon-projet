@@ -22,8 +22,9 @@ indice_6 :
   - forteresse de l'île Sainte-Marguerite
 questions:
  - En 1998, dans quel film de cape et d'épée, mettant en scène un mystérieux prisonnier au visage dissimulé, DiCaprio incarne-t-il le roi Louis XIV?
+culture_g_score: 72
+culture_g_justification: "Sujet associé à un mystère historique, à Alexandre Dumas, à Louis XIV et à de nombreuses adaptations cinématographiques."
 ---
-
 ![Image de Homme au masque de fer](https://upload.wikimedia.org/wikipedia/commons/0/0b/L%27HOMME_AU_MASQUE_DE_FER%2C_G.27780.jpg)
 
 ###### Questions

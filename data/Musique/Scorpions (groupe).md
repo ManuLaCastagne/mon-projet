@@ -22,8 +22,9 @@ indice_6 :
   - hard rock
 questions:
  - En 1984, quel groupe de hard-rock, dont le nom évoque des arthropodes, est la 1re formation musicale à se produire en vedette à Bercy?
+culture_g_score: 80
+culture_g_justification: "Scorpions est un groupe de rock international fréquemment associé à « Wind of Change », à l’Allemagne et à l’histoire de la guerre froide."
 ---
-
 ![Image de Scorpions (groupe)](https://upload.wikimedia.org/wikipedia/commons/d/d5/Scorpions_-_01.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - personnage journalistique
 questions:
  - En 2006, dans quel faux documentaire assiste-t-on à une scène de lutte d'anthologie entre un reporter kasakh nu et un producteur qui l'est également ?
+culture_g_score: 73
+culture_g_justification: "Personnage et film satirique très célèbres, fréquemment associés à Sacha Baron Cohen, au faux documentaire et aux polémiques."
 ---
-
-
 ![Image de Borat](https://upload.wikimedia.org/wikipedia/commons/4/42/Borat-design.svg)
 
 ###### Questions

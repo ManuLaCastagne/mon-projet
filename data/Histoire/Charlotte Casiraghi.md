@@ -19,8 +19,9 @@ indice_5:
   - philosophie
 indice_6:
   - Gucci
+culture_g_score: 39
+culture_g_justification: "Personnalité mondaine connue par son lien avec Monaco et Grace Kelly, mais peu importante et peu rentable hors de ces références."
 ---
-
 ![Image de Charlotte Casiraghi](https://upload.wikimedia.org/wikipedia/commons/e/e5/Charlotte_Casiraghi.jpg)
 
 ###### Questions

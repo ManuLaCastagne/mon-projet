@@ -18,8 +18,9 @@ indice_5 :
   - Consort de Gaozong
 indice_6 : 
   - Wu Zhao
+culture_g_score: 67
+culture_g_justification: "Unique impératrice régnante de Chine, elle constitue un repère notable de l’histoire chinoise malgré une fréquence moindre dans les quiz francophones."
 ---
-
 ![Image de Wu Zetian](https://upload.wikimedia.org/wikipedia/commons/2/25/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png)
 
 ###### Questions

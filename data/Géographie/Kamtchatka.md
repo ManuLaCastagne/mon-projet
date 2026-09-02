@@ -20,10 +20,9 @@ indice_5:
   - ours bruns
 indice_6:
   - Petropavlovsk-Kamchatski
+culture_g_score: 80
+culture_g_justification: "Péninsule russe spectaculaire, rentable pour les volcans, les explorations, la faune, la géographie et la culture populaire."
 ---
-
-
-
 ![Image de Kamtchatka](https://upload.wikimedia.org/wikipedia/commons/7/70/Tolbachik_volcano_1975_cone_pano_Kamchatka_on_2015-07-28.png)
 
 ![[Carte_Kamtchatka.png]]

@@ -24,8 +24,9 @@ indice_6 :
   - Sultans
 questions:
  - Istanbul, dans quel ancien palais des sultants ottomans peut-on admirer dans le harem le salon de Mourad III décoré de faïences d'Iznik ?
+culture_g_score: 68
+culture_g_justification: "Le palais de Topkapi est un monument ottoman majeur, mais il fournit surtout des questions patrimoniales et historiques assez spécialisées."
 ---
-
 ![Image de Topkapi](https://upload.wikimedia.org/wikipedia/commons/c/c5/Istanbul_asv2020-02_img19_Topkap%C4%B1_Palace.jpg)
 
 ![[Carte_Topkapi.png]]

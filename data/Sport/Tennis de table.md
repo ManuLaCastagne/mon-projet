@@ -18,8 +18,9 @@ indice_5 :
   - Service
 indice_6 : 
   - Table 18x9
+culture_g_score: 80
+culture_g_justification: "Sport mondial très reconnaissable, avec des angles historiques, olympiques, lexicaux et techniques fréquemment exploitables."
 ---
-
 ![Image de Tennis de table](https://upload.wikimedia.org/wikipedia/commons/8/88/Mondial_Ping_-_Men%27s_Doubles_-_Semifinals_-_34.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6:
   - Décoration de jardins et parfumerie
 questions:
   - Quelle plante à rhizome, dont les fleurs se composent notamment de 3 pétales dressés a donné son nom à la famille des iridacées ?
+culture_g_score: 64
+culture_g_justification: "Fleur très connue, avec des liens utiles vers la mythologie, l’héraldique, la parfumerie et la botanique."
 ---
-
 ![Image de Iris](https://upload.wikimedia.org/wikipedia/commons/0/03/Verschiedenfarbige_Schwertlilie_%28Iris_versicolor%29-20200603-RM-100257.jpg)
 
 ###### Questions

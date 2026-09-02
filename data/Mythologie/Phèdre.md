@@ -18,11 +18,9 @@ indice_6 :
   - Hippolyte
 questions:
  - Quelle héroïne d'une tragédie de Racine avoue l'amour qu'elle ressent pour son beau-fils ?
+culture_g_score: 80
+culture_g_justification: "Phèdre est à la fois une figure mythologique et le personnage d’une tragédie majeure de Racine, offrant des entrées solides en littérature, théâtre et antiquité."
 ---
-
-
-
-
 ![Image de Phèdre](https://upload.wikimedia.org/wikipedia/commons/9/9d/Phedre_hippolyte_1678_title_page.JPG)
 
 ###### Questions

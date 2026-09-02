@@ -22,8 +22,9 @@ indice_6 :
   - clochettes
 questions:
  - EvoquAnt sur un rythme joyeux et entraînant l'hiver et un phénomène atmosphérique, je dis dans mon refrain  "Boules de neige et jour de l'An et bonne année grand-mère". Célèbre chanson ayant été inspirée...
+culture_g_score: 77
+culture_g_justification: "Chanson de Noël omniprésente dans la culture francophone, permettant des questions sur Jingle Bells, l’adaptation et les fêtes."
 ---
-
 ![Image de Vive le vent](https://upload.wikimedia.org/wikipedia/commons/d/db/Vive_le_vent%2C_vive_le_vent%2C_vive_le_vandalisme_%28Dr%C3%B4me%2C_mai_2022%29.jpg)
 
 ###### Questions

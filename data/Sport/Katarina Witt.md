@@ -20,8 +20,9 @@ indice_6 :
   - Calgary 1988
 questions:
  - Quelle star allemande du patinage artistique a été championne olympique en 1984, 1988 ?
+culture_g_score: 77
+culture_g_justification: "Double championne olympique de la RDA, elle constitue une référence durable du patinage artistique et du sport est-allemand."
 ---
-
 ![Image de Katarina Witt](https://upload.wikimedia.org/wikipedia/commons/f/f3/14-01-10-tbh-260-katarina-witt.jpg)
 
 ###### Questions

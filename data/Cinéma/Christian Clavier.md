@@ -18,9 +18,9 @@ indice_5 :
   - Qu'est-ce qu'on a fait au Bon Dieu ?
 indice_6 : 
   - Les Couloirs du temps  Les Visiteurs 2
+culture_g_score: 76
+culture_g_justification: "Figure très présente du cinéma comique français, reliée au Splendid, aux Visiteurs, à Astérix et à plusieurs succès populaires."
 ---
-
-
 ![Image de Christian Clavier](https://upload.wikimedia.org/wikipedia/commons/7/72/Christian_Clavier_Cannes.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Paris et province
 questions:
  - Ensemble de romans dont 5 des personnages ont fait l'objet de sculptures installées dans les jardins de la préfecture d'Indre-et-Loire. Comptant plus de 2 000 personnages, ma 1re partie, "Etudes de moeurs"...
+culture_g_score: 92
+culture_g_justification: "Projet littéraire monumental de Balzac, La Comédie humaine relie de nombreux romans, personnages, périodes historiques et notions sur la société française."
 ---
-
 ![Image de La Comédie humaine](https://upload.wikimedia.org/wikipedia/commons/9/90/La_Com%C3%A9die_humaine_06.jpg)
 
 ###### Questions

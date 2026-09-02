@@ -22,8 +22,9 @@ indice_6 :
   - famille Serreau
 questions:
  - En 1996, 4 ans après "La Crise", à quel réalisatrice doit-on "La Belle Verte"?
+culture_g_score: 60
+culture_g_justification: "Réalisatrice française connue pour Trois hommes et un couffin et La Belle Verte, avec des liens au théâtre et à l’écologie."
 ---
-
 ![Image de Coline Serreau](https://upload.wikimedia.org/wikipedia/commons/8/8f/Coline_Serreau_on_Mouvement_Colibris.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Acides nucléiques
 questions:
  - Elément chimique découvert en 1669 par un alchimiste allemand, Hennig Brand. J'ai été le 1er élément isolé depuis l'Antiquité. Pouvant être qualifié de blanc, noir, violet ou rouge selon mes formes allotropiques, je sers à fabriquer les allumettes et les engrais.
+culture_g_score: 80
+culture_g_justification: "Élément chimique classique, associé à l’alchimie, au corps humain, aux engrais, aux phosphates et à l’histoire des sciences."
 ---
-
 ![Image de Phosphore](https://upload.wikimedia.org/wikipedia/commons/4/4d/Periodic_table_large.svg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6:
   - Fleur comestible
 questions:
   - Quel terme dérivé du mot "bleu" désigne la centaurée des moissons ?
+culture_g_score: 64
+culture_g_justification: "Fleur bleue emblématique et symbole français de mémoire de la Première Guerre mondiale, ce qui lui donne plusieurs angles classiques."
 ---
-
 ![Image de Bleuet](https://upload.wikimedia.org/wikipedia/commons/d/d2/Bleuet_de_France_circa_1950.jpg)
 
 ###### Questions

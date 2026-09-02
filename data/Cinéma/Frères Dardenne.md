@@ -18,8 +18,9 @@ indice_5:
   - Le Silence de Lorna
 indice_6:
   - Le Gamin au vélo
+culture_g_score: 80
+culture_g_justification: "Réalisateurs européens majeurs, fréquemment associés à Cannes, au cinéma social et à plusieurs œuvres reconnues."
 ---
-
 ![Image de Frères Dardenne](https://upload.wikimedia.org/wikipedia/commons/2/28/Fr%C3%A8res_Dardenne_Cannes.jpg)
 
 ###### Questions

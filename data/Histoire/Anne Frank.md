@@ -20,8 +20,9 @@ indice_6 :
   - Cachette
 questions:
  - Pendant la 2de Guerre mondiale, à Amsterdam, quelle jeune fille...
+culture_g_score: 97
+culture_g_justification: "Figure universelle de la Shoah, son journal et sa clandestinité constituent des repères extrêmement fréquents et immédiatement réutilisables."
 ---
-
 ![Image de Anne Frank](https://upload.wikimedia.org/wikipedia/commons/f/fe/Anne_Frank_lacht_naar_de_schoolfotograaf.jpg)
 
 ###### Questions

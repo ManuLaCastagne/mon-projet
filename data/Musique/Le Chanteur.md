@@ -22,8 +22,9 @@ indice_6 :
   - concert
 questions:
  - Chanson ayant lancé la carrière de mon auteur, compositeur et interprète en 1978, je suis inspirée du succès d'Aznavour "Je m'voyais déjà".
+culture_g_score: 73
+culture_g_justification: "Chanson majeure de Balavoine, fréquemment associée à la célébrité, à la variété française et à l’histoire musicale des années 1970."
 ---
-
 ![Image de Le Chanteur](https://upload.wikimedia.org/wikipedia/commons/8/82/Le_chanteur_r%C3%A9unionnais_Msylirik_%C3%A0_Paris.jpg)
 
 ###### Questions

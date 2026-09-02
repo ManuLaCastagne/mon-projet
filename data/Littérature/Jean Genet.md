@@ -22,8 +22,9 @@ indice_6 :
   - inspirateur du théâtre de l'absurde
 questions:
  - Quel écrivain français écrit en 1947 la pièce "Les Bonnes" inspirée de l'affaire des sœurs Papin ?
+culture_g_score: 71
+culture_g_justification: "Écrivain et dramaturge marquant par ses œuvres provocantes, son parcours carcéral et son influence culturelle, Genet reste néanmoins assez spécialisé."
 ---
-
 ![Image de Jean Genet](https://upload.wikimedia.org/wikipedia/commons/e/e3/JeanGenet-HansKoechler1983-cropped.jpg)
 
 ###### Questions

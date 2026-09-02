@@ -22,9 +22,9 @@ indice_6 :
   - village occitan médiéval
 questions:
  - En 1982, quel film de Daniel Vigne avec Gérard Depardieu et Nathalie Baye se déroule au début du XVIe ?
+culture_g_score: 80
+culture_g_justification: "Film français classique fondé sur un fait judiciaire historique, ouvrant sur l’imposture, le XVIe siècle, Depardieu et ses remakes."
 ---
-
-
 ![Image de Le Retour de Martin Guerre](https://upload.wikimedia.org/wikipedia/commons/f/f6/Harangve%2C_ov_remonstrance_faicte_a_Monseignevr_le_Dvc_de_Mayenne%2C_apres_le_retour_de_son_armee_%C3%A0_Paris%2C_au_conseil_de_l%27Vnion%2C_au_Preuost_des_Marchans_%26_Escheuins%2C_%28IA_harangveov00vara%29.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Butterfly Effect
 questions:
  - Quel roman d'Henri Charrière dont le titre animalier correspond au surnom que porta l'auteur ?
+culture_g_score: 71
+culture_g_justification: "Film carcéral marquant fondé sur une histoire vraie, associé à Steve McQueen, Dustin Hoffman et au bagne, avec plusieurs angles classiques."
 ---
-
 ![Image de Papillon](https://upload.wikimedia.org/wikipedia/commons/3/3b/Papillon-dog-black.jpg)
 
 ###### Questions

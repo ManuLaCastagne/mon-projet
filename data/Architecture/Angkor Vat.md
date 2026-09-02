@@ -20,9 +20,9 @@ indice_5:
   - Hindouisme
 indice_6:
   - Patrimoine mondial de l'UNESCO
+culture_g_score: 88
+culture_g_justification: "Angkor Vat est un monument mondialement emblématique, exploitable en histoire, religion, architecture, géographie et patrimoine."
 ---
-
-
 ![Image de Angkor Vat](https://upload.wikimedia.org/wikipedia/commons/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg)
 
 ###### Questions

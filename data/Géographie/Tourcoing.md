@@ -24,8 +24,9 @@ indice_6 :
   - métropole européenne de Lille
 questions:
  - Quelle ville du département du Nord, formant une conurbation avec Lille et Roubaix...
+culture_g_score: 31
+culture_g_justification: "Tourcoing possède un intérêt industriel et culturel réel, mais reste une commune rarement mobilisée dans les quiz généralistes."
 ---
-
 ![Image de Tourcoing](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tourcoing_hotel_ville_3-4.JPG)
 
 ![[Carte_Tourcoing.png]]

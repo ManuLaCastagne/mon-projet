@@ -21,8 +21,9 @@ indice_5:
   - Comédien
 indice_6:
   - Humour noir
+culture_g_score: 67
+culture_g_justification: "Acteur-réalisateur français identifiable par Bernie et Au revoir là-haut, avec une présence régulière mais non incontournable dans les quiz."
 ---
-
 ![Image de Albert Dupontel](https://upload.wikimedia.org/wikipedia/commons/0/08/Albert_Dupontel_%28c%29_Chistophe_Brachet.JPG)
 
 ###### Questions

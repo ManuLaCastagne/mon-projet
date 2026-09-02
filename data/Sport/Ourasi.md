@@ -20,9 +20,9 @@ indice_6 :
   - 1980
 questions:
  - Quel ancien crack, 4 fois vainqueur du Prix d'Amérique entre 1986 et 1990 surnomme-t-on "le roi fainéant" ?
+culture_g_score: 57
+culture_g_justification: "Cheval mythique du trot français, fréquemment cité pour ses quatre Prix d’Amérique mais dans un champ de questions étroit."
 ---
-
-
 ![Image de Ourasi](https://upload.wikimedia.org/wikipedia/commons/0/0c/Ourasi.JPG)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - ouvrage d'art moderne
 questions:
  - Ouvrage d'art mis en service en décembre 2004 après 14 ans d'études et 3 ans de travaux. Je décris une légère courbe dans un magnifique site naturel. Dessiné par Norman Foster, je suis constitué d'un tablier en acier...
+culture_g_score: 77
+culture_g_justification: "Pont français spectaculaire et souvent questionné pour ses records, ses concepteurs, sa localisation et l’ingénierie contemporaine."
 ---
-
 ![Image de Viaduc de Millau](https://upload.wikimedia.org/wikipedia/commons/0/0a/Panorama_de_la_vall%C3%A9e_de_Millau.jpg)
 
 ###### Questions

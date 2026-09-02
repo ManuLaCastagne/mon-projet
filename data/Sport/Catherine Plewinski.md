@@ -20,8 +20,9 @@ indice_6 :
   - championnats du monde
 questions:
  - En 1991 et 1993, quelle nageuse française championne d'Europe du 100 m papillon?
+culture_g_score: 40
+culture_g_justification: "Nageuse française médaillée olympique, principalement connue des amateurs de natation et des questions sportives spécialisées."
 ---
-
 ![Image de Catherine Plewinski]()
 
 ###### Questions

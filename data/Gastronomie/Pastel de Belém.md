@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Portugal
+culture_g_score: 61
+culture_g_justification: "Pâtisserie emblématique du Portugal, régulièrement associée à Lisbonne, mais avec des angles relativement concentrés."
 ---
 ###### Questions 
 

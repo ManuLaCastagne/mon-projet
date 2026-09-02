@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de force
 questions:
  - En assurant le nettoyage des carcasses et la dispersion des graines des fruits que je consomme. Plus grand mammifère sauvage d'Europe dont les spécimens d'origine slovène ont été introduits...
+culture_g_score: 88
+culture_g_justification: "Groupe animal mondialement connu, ouvrant de nombreuses questions sur les espèces, les mythes, la géographie, la culture et la conservation."
 ---
-
 ![Image de Ours](https://upload.wikimedia.org/wikipedia/commons/f/f9/Foot_US_-_Ours_vs_Kangourous_-_2013-03-02_-_20.jpg)
 
 ###### Questions

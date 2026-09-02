@@ -18,8 +18,9 @@ indice_5 :
   - Sculpture classique
 indice_6 : 
   - Plaque BA13
+culture_g_score: 65
+culture_g_justification: "Matériau courant et historiquement ancien, utile pour des questions sur la construction, la médecine, la sculpture et la photographie."
 ---
-
 ![Image de Plâtre](https://upload.wikimedia.org/wikipedia/commons/e/eb/Plaster_-_Putz_in_Pompeji.JPG)
 
 ###### Questions

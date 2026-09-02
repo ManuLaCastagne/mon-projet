@@ -19,9 +19,9 @@ indice_5:
   - cérémonie d'ouverture spectaculaire
 indice_6:
   - médailles d'or pour le Canada
+culture_g_score: 71
+culture_g_justification: "Jeux d’hiver marqués par un accident tragique et une finale de hockey mémorable, offrant plusieurs angles sans être incontournables."
 ---
-
-
 ![Image de Vancouver 2010](https://upload.wikimedia.org/wikipedia/commons/7/7b/Andrej_%C5%A0porn_at_the_2010_Winter_Olympic_downhill.jpg)
 
 ###### Questions

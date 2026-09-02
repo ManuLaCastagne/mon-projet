@@ -20,8 +20,9 @@ indice_6 :
   - échec militaire
 questions:
  - Quel nom porte la route courant sur les crêtes entre l'Aisne et l'Ailette en 1917 et 1918,  il a été le théâtre de violents combats ?
+culture_g_score: 57
+culture_g_justification: "Lieu emblématique de la Première Guerre mondiale et des mutineries de 1917, mais offrant un nombre d’angles relativement limité."
 ---
-
 ![Image de Chemin des Dames](https://upload.wikimedia.org/wikipedia/commons/d/da/Chemin_des_Dames_-_IMG_3136.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour produire de la farine et dans des plats comme les galettes bretonnes
 questions:
  - Quelle farine issue du buccaï donne une farine utilisée en Bretagne donnant une teinte foncée ?
+culture_g_score: 60
+culture_g_justification: "Le sarrasin est utile pour la Bretagne, l’alimentation et la distinction entre céréale et pseudo-céréale, avec une fréquence quiz moyenne."
 ---
-
 ![Image de Sarrasin](https://upload.wikimedia.org/wikipedia/commons/8/8c/Fagopyrum_esculentum_kz12.jpg)
 
 ###### Questions

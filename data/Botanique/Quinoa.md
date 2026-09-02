@@ -15,8 +15,9 @@ indice_6:
   - Consommée comme céréale
 questions:
   - ar quel mot quechua désigne-t-on la plante, parfois appelée riz des Incas,  cultivée pour ses graines riches en protéines et sans gluten?
+culture_g_score: 64
+culture_g_justification: "Le quinoa relie alimentation, Andes, civilisations précolombiennes et nutrition, ce qui lui assure une bonne rentabilité."
 ---
-
 ![Image de Quinoa](https://upload.wikimedia.org/wikipedia/commons/d/d0/Chenopodium_quinoa_-red_faro-_MHNT.BOT.2007.43.66.jpg)
 
 ###### Questions

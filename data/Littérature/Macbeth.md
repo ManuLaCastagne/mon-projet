@@ -22,8 +22,9 @@ indice_6 :
   - forêt de Birnam
 questions:
  - Vers 1605, dans quelle tragédie de William Shakespeare un personnage accède-t-il au trône d'Ecosse en assassinant le roi Duncan ?
+culture_g_score: 100
+culture_g_justification: "Tragédie universelle de Shakespeare, incontournable pour ses personnages, son intrigue, ses thèmes, ses citations et sa réception théâtrale."
 ---
-
 ![Image de Macbeth](https://upload.wikimedia.org/wikipedia/commons/2/2d/Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png)
 
 ###### Questions

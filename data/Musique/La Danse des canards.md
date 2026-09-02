@@ -22,8 +22,9 @@ indice_6 :
   - tubes dansants
 questions:
  - Dans les années 80, quelle chanson de Jean-Jacques Lionel, reprise en dansant dans les bals et les mariages, met à l'honneur des palmipèdes?
+culture_g_score: 56
+culture_g_justification: "Chanson extrêmement familière dans les fêtes et animations, mais offrant peu d’angles de culture générale indépendants."
 ---
-
 ![Image de La Danse des canards](https://upload.wikimedia.org/wikipedia/commons/5/58/Chicken_dance_02_-_Ballard_Seafood_Fest_2007.jpg)
 
 ###### Questions

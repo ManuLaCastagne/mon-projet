@@ -20,8 +20,9 @@ indice_6 :
   - Exil en Angleterre
 questions:
  - Quelle impératrice des Français, née en 1826 à Grenade (Espagne), calmait ses migraines avec une eau de Cologne créée pour elle?
+culture_g_score: 64
+culture_g_justification: "Impératrice du Second Empire souvent liée à Napoléon III, au canal de Suez et à l’histoire de la mode, mais moins incontournable que les grandes figures du régime."
 ---
-
 ![Image de Impératrice Eugénie](https://upload.wikimedia.org/wikipedia/commons/9/9e/Eug%C3%A9nie_de_Montijo%2C_Kejsarinna_av_Frankrike.jpg)
 
 ###### Questions

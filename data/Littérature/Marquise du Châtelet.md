@@ -23,8 +23,9 @@ indice_6 :
   - Institutions de physique
 questions:
  - Au XVIIIe siècle, auprès de quelle femme de lettres et de sciences Voltaire a-t-il cherché l'inspiration au château de Cirey?
+culture_g_score: 72
+culture_g_justification: "Personnalité des Lumières à la croisée de la littérature, de la philosophie, des sciences newtoniennes et de la relation avec Voltaire."
 ---
-
 ![Image de Marquise du Châtelet](https://upload.wikimedia.org/wikipedia/commons/8/8c/Inconnu%2C_portrait_de_madame_Du_Ch%C3%A2telet_%C3%A0_sa_table_de_travail%2C_d%C3%A9tail_%28ch%C3%A2teau_de_Breteuil%29_-002.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - auteurs Jean-Michel Charlier et Victor Hubinon
 questions:
  - Quelle série, créée par Troisfontaines, Charlier et Hubinon, compte l'album "Le Feu du ciel", paru en 1986, où apparaît le président Reagan?
+culture_g_score: 60
+culture_g_justification: "Série classique de bande dessinée franco-belge, utile pour la BD et l’aviation, mais moins universelle que les grandes séries populaires."
 ---
-
 ![Image de Les Aventures de Buck Danny](https://upload.wikimedia.org/wikipedia/commons/f/ff/Buck_Danny_-_logo_BD_1985.png)
 
 ###### Questions

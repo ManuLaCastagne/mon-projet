@@ -20,9 +20,9 @@ indice_6 :
   - Recrue de l'année
 questions:
  - Quel sportif québécois, considéré comme l'un des plus grands hockeyeurs de l'histoire, a-t-on surnommé le Magnifique ou Super Mario?
+culture_g_score: 71
+culture_g_justification: "Légende du hockey sur glace, associée aux Penguins, à des records spectaculaires et à une histoire originale de propriétaire de club."
 ---
-
-
 ![Image de Mario Lemieux](https://upload.wikimedia.org/wikipedia/commons/6/6a/Mario_Lemieux_2001.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Archipel de Stockholm
 questions:
  - Quel est cette sorte de gratin de pommes de terre aux anchois, plat suédois... (tentation de Jansson)
+culture_g_score: 88
+culture_g_justification: "Pays très rentable grâce à Stockholm, ABBA, IKEA, la Scandinavie, l'histoire européenne et de nombreux repères sociaux."
 ---
-
 ![[Carte_Suède.png]]
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - résistant durant la Seconde Guerre mondiale
 questions:
  - Quel juriste français prix Nobel de la Paix en 1968 fut le principal promoteur de la DUDH ?
+culture_g_score: 64
+culture_g_justification: "Figure majeure des droits de l’homme et de la construction juridique internationale, régulièrement mobilisée dans les quiz historiques."
 ---
-
 ![Image de René Cassin](https://upload.wikimedia.org/wikipedia/commons/d/d3/Ren%C3%A9_Cassin_nobel.jpg)
 
 ###### Questions

@@ -18,11 +18,9 @@ indice_6 :
   - Tolkien
 questions:
  - Quel génie du folklore scandinave symbolisant...
+culture_g_score: 68
+culture_g_justification: "Créatures très présentes dans l'imaginaire nordique et fantastique, mais leur statut mythologique varie selon les traditions."
 ---
-
-
-
-
 ![Image de Elfes](https://upload.wikimedia.org/wikipedia/commons/4/47/The_Elf%2C_by_Sir_William_Goscombe_John.jpg)
 
 ###### Questions

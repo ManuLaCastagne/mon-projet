@@ -22,8 +22,9 @@ indice_6 :
   - Wehrmacht
 questions:
  - Récit de Vercors traitant du silence…
+culture_g_score: 77
+culture_g_justification: "Récit majeur de la Résistance et de la littérature française, souvent associé à Vercors, à l’Occupation et aux Éditions de Minuit."
 ---
-
 ![Image de Le Silence de la mer](https://upload.wikimedia.org/wikipedia/commons/e/ef/Le_Silence_de_la_mer_1942.jpg)
 
 ###### Questions

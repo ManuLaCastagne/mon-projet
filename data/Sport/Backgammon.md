@@ -19,8 +19,9 @@ indice_5 :
   - barrière
 indice_6 : 
   - 24 triangles
+culture_g_score: 72
+culture_g_justification: "Jeu ancien et mondialement identifiable, permettant des questions sur l’histoire, les règles, la stratégie et la culture ludique."
 ---
-
 ![Image de Backgammon](https://upload.wikimedia.org/wikipedia/commons/2/25/Backgammon_study.jpg)
 
 ###### Questions

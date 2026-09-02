@@ -20,8 +20,9 @@ indice_6 :
   - Horde d'Or
 questions:
  - Personnage dont la tombe se trouverait, d'après l'archéologue Pierre-Henri Giscard sur le mont Burkhan Khaldun, je disparais en 1227 lors d'une campagne militaire.  Issu du clan des Bordjiguines, je suis reconnu roi universel en 1200...
+culture_g_score: 100
+culture_g_justification: "Conquérant mondialement célèbre, structurant pour l’histoire mongole, l’Asie, les empires et l’histoire militaire."
 ---
-
 ![Image de Gengis Khan](https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg)
 
 ###### Questions

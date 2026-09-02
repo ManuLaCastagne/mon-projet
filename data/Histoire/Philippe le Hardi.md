@@ -20,10 +20,9 @@ indice_6 :
   - influence dans les affaires politiques du royaume de France
 questions:
  - Quel Duc de Bourgogne est conservé à Dijon ?
+culture_g_score: 67
+culture_g_justification: "Fondateur de la puissance bourguignonne des Valois, il ouvre des liens vers la guerre de Cent Ans, la Flandre et l’histoire dynastique."
 ---
-
-
-
 ![Image de Philippe le Hardi](https://upload.wikimedia.org/wikipedia/commons/b/b6/Flemish_School_-_Lille_-_Philip_II%2C_Duke_of_Burgundy.jpg)
 
 ###### Questions

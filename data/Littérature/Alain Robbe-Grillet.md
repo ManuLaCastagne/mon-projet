@@ -22,8 +22,9 @@ indice_6 :
   - Le Labyrinthe
 questions:
  - Avec l'ouvrage "Pour un nouveau roman", quel auteur fut le théoricien d'un courant littéraire prônant l'abandon des conventions romanesques traditionnelles?
+culture_g_score: 67
+culture_g_justification: "Figure importante du Nouveau Roman et du cinéma moderne, avec plusieurs angles littéraires et cinématographiques, mais une notoriété limitée."
 ---
-
 ![Image de Alain Robbe-Grillet](https://upload.wikimedia.org/wikipedia/commons/6/6a/Alain_Robbe-Grillet.jpg)
 
 ###### Questions

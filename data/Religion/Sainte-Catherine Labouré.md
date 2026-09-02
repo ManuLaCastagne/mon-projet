@@ -20,8 +20,9 @@ indice_6 :
   - Incorruptibilité du corps
 questions:
  - Quelle religieuse française ayant eu des visions de la Vierge, à l'origine de la diffusion de la médaille miraculeuse, a été canonisée en 1947 ?
+culture_g_score: 48
+culture_g_justification: "Les apparitions de la rue du Bac et la Médaille miraculeuse fournissent quelques questions, mais le sujet reste spécialisé."
 ---
-
 ![Image de Sainte-Catherine Labouré](https://upload.wikimedia.org/wikipedia/commons/e/e8/Catherine-Labour%C3%A9-apparition_3.jpg)
 
 ###### Questions

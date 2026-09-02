@@ -20,8 +20,9 @@ indice_6 :
   - Skis
 questions:
  - Quel sportif norvégien, 8 fois médaillé d'or aux JO entre 98 et 2014, est considéré comme le plus grand champion de l'histoire du biathlon?
+culture_g_score: 64
+culture_g_justification: "Légende du biathlon et détenteur de records olympiques, régulièrement interrogé mais dans un domaine sportif relativement spécialisé."
 ---
-
 ![Image de Ole Einar Bjørndalen](https://upload.wikimedia.org/wikipedia/commons/6/6c/Biathlon_Sochi_2014.jpg)
 
 ###### Questions

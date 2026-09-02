@@ -13,8 +13,9 @@ indice_5:
   - Épine blanche
 indice_6:
   - Utilisée pour ses propriétés médicinales, notamment pour le cœur et la circulation
+culture_g_score: 47
+culture_g_justification: "L’arbuste aux cenelles et aux usages médicinaux offre quelques angles classiques, mais demeure une référence secondaire."
 ---
-
 ![Image de Aubépine](https://upload.wikimedia.org/wikipedia/commons/c/c6/Vruchten_van_een_meidoorn_%28Crataegus%29%2C_04-10-2024._%28d.j.b.%29_03.jpg)
 
 ###### Questions

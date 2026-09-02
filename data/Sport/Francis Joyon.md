@@ -20,9 +20,9 @@ indice_6 :
   - Voile en solitaire
 questions:
  - En 2017, quel navigateur français établit un nouveau record du tour du monde à la voile en équipage et s'empare du fameux trophée Jules Verne?
+culture_g_score: 60
+culture_g_justification: "Navigateur français de records et de transatlantiques, il fournit quelques questions classiques mais demeure peu transversal hors voile."
 ---
-
-
 ![Image de Francis Joyon](https://upload.wikimedia.org/wikipedia/commons/3/3b/Francis-Joyon.jpg)
 
 ###### Questions

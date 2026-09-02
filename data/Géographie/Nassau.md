@@ -22,8 +22,9 @@ indice_5 :
   - pirates
 indice_6 : 
   - plage
+culture_g_score: 56
+culture_g_justification: "Capitale des Bahamas apparaissant dans les questions sur les Caraïbes, la piraterie et les capitales, mais d'importance historique limitée."
 ---
-
 ![Image de Nassau](https://upload.wikimedia.org/wikipedia/commons/c/c2/American_Tourists_in_Nassau%2C_Bahamas%2C_1962.tif)
 
 ![[Carte_Nassau.png]]

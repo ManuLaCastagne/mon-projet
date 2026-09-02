@@ -22,8 +22,9 @@ indice_6 :
   - orchestre
 questions:
  - Ballet sur une partition  d'Igor Stravinsky, je suis inspiré d'un conte russe, j'ai pour héros le jeune Ivan qui sera sauvé d'un sorcier par un oiseau fabuleux.
+culture_g_score: 80
+culture_g_justification: "Ballet majeur de Stravinsky, régulièrement mobilisé autour des Ballets russes, de la musique moderne et de l’histoire de la danse."
 ---
-
 ![Image de L'Oiseau de feu](https://upload.wikimedia.org/wikipedia/commons/e/e9/L%27Oiseau_de_feu_by_V.Pleshakov_%281923%29_01.jpg)
 
 ###### Questions

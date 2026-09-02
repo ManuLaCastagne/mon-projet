@@ -20,8 +20,9 @@ indice_5 :
   - Crâne Rouge
 indice_6 : 
   - Marvel
+culture_g_score: 93
+culture_g_justification: "Super-héros majeur de Marvel, au croisement des comics, de la Seconde Guerre mondiale, du MCU, de Chris Evans et de la culture populaire."
 ---
-
 ![Image de Captain America](https://upload.wikimedia.org/wikipedia/commons/2/2d/Captain_America_at_Earl%27s_Court%2C_London_2014.jpg)
 
 ###### Questions

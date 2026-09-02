@@ -20,9 +20,9 @@ indice_6:
   - Cavalier
 questions:
   - Par Antoine Blondin. Ayant remporté en 1925 ans de compétition plus de 500 victoires, dont les Grand Prix de Rome et de Paris, j'ai été sacré champion du monde de jumping en individuel en 66.  Cavalier français le plus titré aux JO, cousin par alliance de l'escrimeur Christian d'Oriola...
+culture_g_score: 44
+culture_g_justification: "Cavalier français exceptionnel dans l’histoire olympique, mais relativement peu connu du grand public actuel."
 ---
-
-
 ![Image de Pierre Jonquères d'Oriola](https://upload.wikimedia.org/wikipedia/commons/f/ff/SIA_1957.Pierre_Jonqu%C3%A8re_Doriola_%28Champion_olympique_%C3%A0_Helsinski_en_1952%29_%C3%A0_gauche_Gilles_Delamare_%2C%C3%A0_droite_colette_Duval_%2827262837283%29.jpg)
 
 ###### Questions

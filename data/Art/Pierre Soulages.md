@@ -23,8 +23,9 @@ indice_6 :
   - Musée Soulages
 questions:
  - A quel peintre, né en 1919 à Rodez, associe-t-on le concept d'Outrenoir ?
+culture_g_score: 68
+culture_g_justification: "Figure majeure de l’art abstrait français, Soulages est connu grâce à l’Outrenoir mais ses angles de quiz restent relativement concentrés."
 ---
-
 ![Image de Pierre Soulages](https://upload.wikimedia.org/wikipedia/commons/b/b0/655446-artiste-pierre-soulages_%28cropped%29.jpg)
 
 ###### Questions

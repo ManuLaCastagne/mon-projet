@@ -22,8 +22,9 @@ indice_6 :
   - mer de Nantucket
 questions:
  - Quel roman publié en 1851, dont le narrateur est engagé à bord d'un baleinier, doit-on à Herman Melville ?
+culture_g_score: 100
+culture_g_justification: "Chef-d’œuvre mondial de Melville, permettant des questions sur la littérature américaine, Achab, la mer, la baleine et les symboles de l’obsession."
 ---
-
 ![Image de Moby Dick](https://upload.wikimedia.org/wikipedia/commons/c/cc/Moby_Dick_%28ship%2C_1976%29_005.JPG)
 
 ###### Questions

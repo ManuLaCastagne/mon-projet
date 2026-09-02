@@ -20,8 +20,9 @@ indice_6 :
   - guerre de la Ligue d'Augsbourg
 questions:
  - En 1694, c'est de l'histoire, après avoir attaqué un convoi hollandais de 130 bâtiments, quel corsaire dunkerquois est anobli par Louis XIV ?
+culture_g_score: 64
+culture_g_justification: "Corsaire emblématique de Dunkerque et de Louis XIV, principalement interrogé dans les questions sur la marine et les guerres françaises."
 ---
-
 ![Image de Jean Bart](https://upload.wikimedia.org/wikipedia/commons/9/94/Jean_Bart_mg_9487.jpg)
 
 ###### Questions

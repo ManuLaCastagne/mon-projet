@@ -22,8 +22,9 @@ indice_6 :
   - Both Sides of the Gun
 questions:
  - Quel chanteur  et guitariste américain, révélé par le disque "Welcome to the Cruel World" en 1994 a collaboré notamment avec The Innocent Criminals and the Blind Boys of Alabama ?
+culture_g_score: 48
+culture_g_justification: "Musicien reconnu pour ses fusions de genres et quelques collaborations, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Ben Harper](https://upload.wikimedia.org/wikipedia/commons/4/42/Ben_Harper_FIJM_2003.jpg)
 
 ###### Questions

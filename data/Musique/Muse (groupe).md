@@ -22,8 +22,9 @@ indice_6 :
   - Drones
 questions:
  - Proposant en 2006 l'album "Black holes and revelations" puis "The resistance" avec le titre "Uprising" je suis également associé au tube "Hysteria" et "Starlight". Groupe formé autour de Matthew Bellamy, c'est le leader, je suis…
+culture_g_score: 80
+culture_g_justification: "Groupe britannique très identifiable, associé au rock, aux Jeux olympiques, aux albums et à plusieurs repères de culture populaire."
 ---
-
 ![Image de Muse (groupe)](https://upload.wikimedia.org/wikipedia/commons/d/d9/Muse_2006_003.jpg)
 
 ###### Questions

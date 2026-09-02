@@ -22,9 +22,9 @@ indice_6 :
   - narration poétique
 questions:
  - Quel roman de Chateaubriand conte les amours de deux sauvages dans le désert ?
+culture_g_score: 51
+culture_g_justification: "Récit classique du romantisme français, utile pour Chateaubriand et le mythe du bon sauvage, mais d’une fréquence modérée."
 ---
-
-
 ![Image de Atala](https://upload.wikimedia.org/wikipedia/commons/9/96/Atala_-_tragedia_in_tre_parti_%28IA_atalatragediaint00sapi%29.pdf)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Démon de la cupidité
 questions:
  - Dans les Evangiles, quel terme araméen désigne l'argent qui corrompt le monde ?
+culture_g_score: 47
+culture_g_justification: "Personnification chrétienne de l'avidité, Mammon apparaît ponctuellement dans la Bible, la littérature et l'iconographie morale."
 ---
-
 ![Image de Mammon](https://upload.wikimedia.org/wikipedia/commons/6/61/Watts_%E2%80%93_Mammon.jpg)
 
 ###### Questions

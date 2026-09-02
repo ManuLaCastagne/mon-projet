@@ -19,8 +19,9 @@ indice_5:
   - Georgia Aquarium
 indice_6:
   - Martin Luther King Jr. National Historic Site
+culture_g_score: 77
+culture_g_justification: "Métropole américaine liée à la guerre de Sécession, aux droits civiques, aux Jeux de 1996 et à Coca-Cola."
 ---
-
 ![[Carte_Atlanta.png]]
 
 ###### Questions

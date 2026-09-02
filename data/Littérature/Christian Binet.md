@@ -23,8 +23,9 @@ indice_6 :
   - le créateur du personnage de Kador
 questions:
  - Du mensuel "Fluide Glacial" à partir de 77, j'ai abordé le monde politique dans "Monsieur le ministre" et suis le créateur du chien lecteur de Kant nommé Kador. Décrivant un univers quotidien et banal comme dans la série des "Les Bidochon"...
+culture_g_score: 57
+culture_g_justification: "Créateur des Bidochon, référence identifiable de la bande dessinée humoristique française, mais avec une portée et des angles relativement spécialisés."
 ---
-
 ![Image de Christian Binet](https://upload.wikimedia.org/wikipedia/commons/5/59/Christian_Binet.jpg)
 
 ###### Questions

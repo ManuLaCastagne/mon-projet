@@ -23,8 +23,9 @@ indice_6 :
   - Martin Luther
 questions:
  - Quel peintre allemand  né en 1472, a souvent représenté Eve nue ?
+culture_g_score: 64
+culture_g_justification: "Peintre majeur de la Renaissance allemande lié à Luther, Cranach est classique mais moins fréquent que les grandes figures de la peinture occidentale."
 ---
-
 ![Image de Cranach l'Aîné](https://upload.wikimedia.org/wikipedia/commons/3/3a/Catalogue_raisonne_de_la_bibliotheque_de_M._Lambertus_Vincentius_Ledeboer_BZn_%28IA_catalogueraisonn00lede%29.pdf)
 
 ###### Questions

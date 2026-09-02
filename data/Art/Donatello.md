@@ -23,8 +23,9 @@ indice_6 :
   - Saint Georges
 questions:
  - A quel sculpteur italien, protégé de Cosme de Médicis, doit-on cette statue équestre représentant le condottiere Gattamelata ?
+culture_g_score: 84
+culture_g_justification: "Donatello est un grand sculpteur de la Renaissance, associé à David, au relief et aux débuts de la sculpture moderne."
 ---
-
 ![Image de Donatello](https://upload.wikimedia.org/wikipedia/commons/9/95/Cinq_ma%C3%AEtres_de_la_Renaissance_florentine_Mus%C3%A9e_du_Louvre_Peintures_INV_267_-_Donatello.jpg)
 
 ###### Questions

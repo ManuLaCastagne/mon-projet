@@ -19,9 +19,9 @@ indice_5 :
   - mariage royal en 2018
 indice_6 : 
   - engagée dans des causes humanitaires
+culture_g_score: 84
+culture_g_justification: "Actrice de Suits devenue duchesse de Sussex, elle ouvre de nombreux angles médiatiques, royaux et people et revient fréquemment dans les quiz."
 ---
-
-
 ![Image de Meghan Markle](https://upload.wikimedia.org/wikipedia/commons/f/ff/Meghan_Markle_visits_Northern_Ireland_-_2018_%2841014635181%29.jpg)
 
 ###### Questions

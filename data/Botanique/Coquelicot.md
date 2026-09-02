@@ -15,8 +15,9 @@ indice_6 :
   - Extraction de pigments naturels
 questions:
  - Quelle plante de la famille des papavéracées, proche du pavot...
+culture_g_score: 80
+culture_g_justification: "Fleur emblématique, liée aux champs, aux symboles du souvenir et à l’histoire de la Première Guerre mondiale."
 ---
-
 ![Image de Coquelicot](https://upload.wikimedia.org/wikipedia/commons/d/d8/Papaver_Rhoeas_Far-gh_01.jpg)
 
 ###### Questions

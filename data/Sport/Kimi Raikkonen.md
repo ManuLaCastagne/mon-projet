@@ -20,8 +20,9 @@ indice_6 :
   - Finlande
 questions:
  - Quel pilote finlandais a été reconduit pour disputer en 2021 le Championnat du monde de formule 1, 20 ans après ses débuts dans cette discipline?
+culture_g_score: 77
+culture_g_justification: "Champion du monde de F1 et personnalité populaire, régulièrement interrogé pour Ferrari, son surnom et sa longévité."
 ---
-
 ![Image de Kimi Raikkonen](https://upload.wikimedia.org/wikipedia/commons/b/b5/Kimi_Raikkonen_Hockenheim_2004.jpg)
 
 ###### Questions

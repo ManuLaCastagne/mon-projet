@@ -20,6 +20,8 @@ indice_5:
   - Hémolacrie
 indice_6:
   - Casino Royale
+culture_g_score: 61
+culture_g_justification: "Antagoniste mémorable de Casino Royale, utile pour James Bond, Mads Mikkelsen et le poker, mais limité à un univers narratif précis."
 ---
 ![[Pasted image 20260803213024.png]]
 ###### Questions

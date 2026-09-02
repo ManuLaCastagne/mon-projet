@@ -20,10 +20,9 @@ indice_6 :
   - diffusée sur TF1
 questions:
  - Quelle série, diffusée de 87 à 91,  avait pour héros un couple  formé par un vétérinaire et une femme médecin, joués par Gérard Rinaldi et Julie Arnold?
+culture_g_score: 44
+culture_g_justification: "Série familiale française connue des téléspectateurs de l'époque, mais rarement prioritaire en dehors de l'histoire des sitcoms françaises."
 ---
-
-
-
 ![Image de Marc et Sophie](https://upload.wikimedia.org/wikipedia/commons/9/98/Jean-Marc_Nattier%2C_Madame_Sophie_de_France_%281748%29_-_01.jpg)
 
 ###### Questions

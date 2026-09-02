@@ -22,9 +22,9 @@ indice_6 :
   - Domaine viticole en Provence
 questions:
  - Dans quel roman d'Henri Bosco la vie de Pascal Deriva est-elle bouleversée par l'arrivée de sa cousine Geneviève ?
+culture_g_score: 20
+culture_g_justification: "Roman régionaliste de Henry Bordeaux aujourd’hui très peu connu et offrant peu d’angles de questionnement généraliste."
 ---
-
-
 ![Image de Mas Théotime](https://upload.wikimedia.org/wikipedia/commons/a/a2/Holy_Altar_and_Sacrifice_explained_in_some_familiar_dialogues_on_the_Mass_and_what_may_appertain_to_it_-_for_the_more_easy_information_..._%28IA_holyaltarsacrifi00barb%29.pdf)
 
 ###### Questions

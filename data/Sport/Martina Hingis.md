@@ -20,8 +20,9 @@ indice_6 :
   - Double mixte
 questions:
  - Victorieuse entre 1997 et 1999 de 5 tournois du Grand chelem,  dont 3 fois de suite à l'Open d'Australie, j'ai échoué 2 fois en finale de Roland-Garros avant d'arrêter ma carrière à 22 ans.  Joueuse suisse ayant effectué un retour sur le circuit professionnel en double de 2013 à 2017...
+culture_g_score: 71
+culture_g_justification: "Ancienne numéro un et prodige du tennis, utile pour des questions sur les records de précocité, les Grands Chelems et le double."
 ---
-
 ![Image de Martina Hingis](https://upload.wikimedia.org/wikipedia/commons/8/86/Hingis_RG16_%2810%29_%2827331857371%29.jpg)
 
 ###### Questions

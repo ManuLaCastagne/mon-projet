@@ -20,8 +20,9 @@ indice_6 :
   - suspect à identifier
 questions:
  - Quel jeu interactif, lancé fin 2020 et donnant au téléspectateur la possibilité de résoudre une enquête, a été créé par Christophe Dechavanne?
+culture_g_score: 20
+culture_g_justification: "Jeu policier télévisé éphémère et peu mémorable, quasiment absent des quiz généralistes."
 ---
-
 ![Image de A vous de trouver le coupable](https://upload.wikimedia.org/wikipedia/commons/c/c8/Lettres_a_une_amie_sur_le_moyen_de_trouver_le_bonheur_%28IA_lettresuneamiesu00np%29.pdf)
 
 ###### Questions

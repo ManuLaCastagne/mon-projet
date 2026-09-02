@@ -18,8 +18,9 @@ indice_5 :
   - Colonel commandant
 indice_6 : 
   - Formation scientifique
+culture_g_score: 48
+culture_g_justification: "Institution française historique identifiable, mais dont les questions restent principalement centrées sur l’éducation militaire et La Flèche."
 ---
-
 ![Image de Prytanée National Militaire](https://upload.wikimedia.org/wikipedia/commons/f/f9/Prytan%C3%A9e.jpg)
 
 ###### Questions

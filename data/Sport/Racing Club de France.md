@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - En 1882, quel club, associé aux couleurs bleu ciel et blanc est le 1er club d'athlétisme...
  - En 1987, lors de la finale du championnat de France de rugby, quelle était la couleur du nœud papillon arboré par les arrières du Racing club ?
+culture_g_score: 52
+culture_g_justification: "Ancien grand club omnisports parisien, intéressant pour plusieurs sports mais moins fréquent que les clubs de football majeurs."
 ---
-
 ![Image de Racing Club de France](https://upload.wikimedia.org/wikipedia/commons/e/ed/Le_Racing_Club_de_France_football_en_juillet_1897.jpg)
 
 ###### Questions

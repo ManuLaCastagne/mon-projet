@@ -24,8 +24,9 @@ indice_6 :
   - Nubie
 questions:
  - A quel site de Nubie associe-t-on deux temples rupestres, élevés sous Ramsès II et déplacés en raison du barrage d'Assouan ?
+culture_g_score: 88
+culture_g_justification: "Site pharaonique mondialement célèbre, lié à Ramsès II, à l'UNESCO, à l'archéologie et au barrage d'Assouan."
 ---
-
 ![Image de Abou Simbel](https://upload.wikimedia.org/wikipedia/commons/6/6b/Guardsman_of_Ramses._Abu_Simbel_temple%2C_Egypt.jpg)
 
 ![[Carte_Abou Simbel.png]]

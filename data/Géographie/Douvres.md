@@ -24,8 +24,9 @@ indice_6:
   - tunnel sous la Manche
 questions:
   - A quelle ville de la côte anglaise associe-t-on ces falaises de craie âgées d'environ 100 millions d'années ?
+culture_g_score: 72
+culture_g_justification: "Ville stratégique du détroit, de la Manche et de la Seconde Guerre mondiale, reconnaissable aussi par ses falaises et son château."
 ---
-
 ![Image de Douvres](https://upload.wikimedia.org/wikipedia/commons/1/12/Douvres.JPG)
 
 ![[Carte_Douvres.png]]

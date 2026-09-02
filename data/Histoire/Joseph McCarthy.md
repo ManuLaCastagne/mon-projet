@@ -20,8 +20,9 @@ indice_6 :
   - liste noire
 questions:
  - Quel sénateur américain s'est rendu célèbre dans les années 50 par ses campagnes anticommunistes?
+culture_g_score: 80
+culture_g_justification: "Le maccarthysme fait de Joseph McCarthy une référence récurrente sur la guerre froide, l’anticommunisme, les États-Unis et les libertés publiques."
 ---
-
 ![Image de Joseph McCarthy](https://upload.wikimedia.org/wikipedia/commons/f/fa/Joseph_McCarthy.jpg)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - Apparitions de Fatima
 questions:
  - Quel nom porte la théologie consacrée à la Vierge Marie ?
+culture_g_score: 31
+culture_g_justification: "Terme théologique précis, utile surtout pour les questions spécialisées sur les dogmes et le culte marial catholique."
 ---
-
-
-
 ![Image de Mariologie](https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Mariologie.ogg)
 
 ###### Questions

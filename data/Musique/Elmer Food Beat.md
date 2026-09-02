@@ -18,8 +18,9 @@ indice_5 :
   - La vie n'est pas une opérette
 indice_6 : 
   - Atlantique
+culture_g_score: 40
+culture_g_justification: "Groupe français surtout connu pour « Daniela », mais rarement interrogé au-delà de quelques repères sur le rock des années 1990."
 ---
-
 ![Image de Elmer Food Beat](https://upload.wikimedia.org/wikipedia/commons/d/d3/ElmerLive.jpg)
 
 ###### Questions

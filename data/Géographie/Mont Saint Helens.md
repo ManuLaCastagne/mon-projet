@@ -21,8 +21,9 @@ indice_6 :
   - cratère en forme de fer à cheval
 questions:
  - En 1980, quel volcan situé  dans l'Etat de Culture_G/Washington entre brusquement en éruption?
+culture_g_score: 64
+culture_g_justification: "Volcan associé à une éruption historique majeure, régulièrement utilisé en géographie et en sciences."
 ---
-
 ![Image de Mont Saint Helens](https://upload.wikimedia.org/wikipedia/commons/6/69/Mount_St_Helens_Summit_Pano_II.jpg)
 
 ###### Questions

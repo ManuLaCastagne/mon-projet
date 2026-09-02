@@ -15,9 +15,9 @@ indice_5:
   - Grande araignée de mer
 indice_6:
   - Spécialité culinaire en Bretagne
+culture_g_score: 44
+culture_g_justification: "Crustacé connu surtout dans la gastronomie et la faune littorale bretonne, avec peu d'applications générales."
 ---
-
-
 ![Image de Araignée de mer](https://upload.wikimedia.org/wikipedia/commons/a/a5/Spiny_Spider_Crab_releasing_newly_hatched_larvae.jpg)
 
 ###### Questions

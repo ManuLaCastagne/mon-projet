@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de jeu et de curiosité
 questions:
  - Je construis au bord des rivières un terrier bien dissimulé appelé catiche. Mustélidé appartenant à la sous-famille des lutrinés…
+culture_g_score: 76
+culture_g_justification: "Mammifère très apprécié, régulièrement interrogé pour ses outils, son adaptation aquatique, ses comportements sociaux et sa conservation."
 ---
-
 ![Image de Loutre](https://upload.wikimedia.org/wikipedia/commons/4/41/Loutre_d%27Europe_%28Lutra_lutra%29_%282%29.jpg)
 
 ###### Questions

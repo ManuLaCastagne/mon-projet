@@ -20,8 +20,9 @@ indice_6 :
   - invités politiques
 questions:
  - De 2002 à 2005 sur France 2, quel titre évoquant sa durée portait l'émission politique animé par Olivier Mazerolle et Alain Duhamel ?
+culture_g_score: 40
+culture_g_justification: "Émission politique française liée au début des années 2000, ponctuellement questionnable mais aujourd’hui peu marquante."
 ---
-
 ![Image de 100 minutes pour convaincre](https://upload.wikimedia.org/wikipedia/commons/4/46/Gagneur_-_Pour_etre_aimee.djvu)
 
 ###### Questions

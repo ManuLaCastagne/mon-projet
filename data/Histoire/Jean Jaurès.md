@@ -20,8 +20,9 @@ indice_6 :
   - Dreyfusard convaincu
 questions:
  - Quel homme politique français et pacifiste militant, fondateur en 1904 de "L'Humanité", fut assassiné à la veille de la 1re Guerre mondiale ?
+culture_g_score: 88
+culture_g_justification: "Grande figure du socialisme et du pacifisme français, associée à L’Humanité, à la SFIO et à son assassinat en 1914."
 ---
-
 ![Image de Jean Jaurès](https://upload.wikimedia.org/wikipedia/commons/2/2c/%28Castres%29_Jean_Jaur%C3%A8s_par_Gabriel_Pech.jpg)
 
 ###### Questions

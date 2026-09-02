@@ -22,12 +22,9 @@ indice_6 :
   - écrivain franco-italienne
 questions:
  - A quelle femme de lettres née vers 1365, dont l'oeuvre est marquée par la défense de la femme doit-on "La Cité des dames"?
+culture_g_score: 67
+culture_g_justification: "Pionnière de l’écriture féminine et figure du Moyen Âge français, utile pour la littérature, le féminisme historique et Jeanne d’Arc, sans être omniprésente."
 ---
-
-
-
-
-
 ![Image de Christine de Pisan](https://upload.wikimedia.org/wikipedia/commons/a/a6/Christine_de_Pisan_-_cathedra.jpg)
 
 ###### Questions

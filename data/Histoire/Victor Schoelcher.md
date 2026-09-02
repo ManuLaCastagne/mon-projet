@@ -20,8 +20,9 @@ indice_6 :
   - humanitaire et écrivain
 questions:
  - A quel homme politique, fils d'un fabricant de faïence alsacien, doit-on l'émancipation des esclaves des colonies françaises au XIXe ?
+culture_g_score: 73
+culture_g_justification: "Repère important de l’abolition de l’esclavage en France, souvent interrogé avec 1848, les colonies et la Seconde République."
 ---
-
 ![Image de Victor Schoelcher](https://upload.wikimedia.org/wikipedia/commons/1/14/Cayenne_Victor_Schoelcher_statue_by_Louis-Ernest_Barrias.jpg)
 
 ###### Questions

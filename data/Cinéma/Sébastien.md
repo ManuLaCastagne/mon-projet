@@ -22,8 +22,9 @@ indice_6 :
   - Intouchables
 questions:
  - Sur ma mère. Bravant des dangers pendant et après la 2de Guerre mondiale, j'habite dans le chalet alpin de César, mon père adoptif...
+culture_g_score: 0
+culture_g_justification: "Le titre générique ne permet pas d’identifier une référence culturelle précise et ne constitue pas en lui-même un sujet de quiz exploitable."
 ---
-
 ![Image de Sébastien](https://upload.wikimedia.org/wikipedia/commons/4/45/S%C3%A9bastien_Vincini.jpg)
 
 ###### Questions

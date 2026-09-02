@@ -15,8 +15,9 @@ indice_6 :
   - Symboles de sagesse et d'intelligence
 questions:
  - Ordre de mammifères issu du groupe des Anapidés, je compte une espèce ayant colonisé tous les milieux terrestres.
+culture_g_score: 72
+culture_g_justification: "Groupe central pour comprendre l’évolution, l’anatomie comparée, l’éthologie et la place de l’être humain dans le vivant."
 ---
-
 ![Image de Primates](https://upload.wikimedia.org/wikipedia/commons/7/78/Mountain_gorilla_%28Gorilla_beringei_beringei%29_yawn.jpg)
 
 ###### Questions

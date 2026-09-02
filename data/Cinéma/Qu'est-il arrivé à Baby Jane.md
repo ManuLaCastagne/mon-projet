@@ -22,8 +22,9 @@ indice_6 :
   - actrice déchue
 questions:
  - 63, film de Robert Aldrich dans lequel B. Davis et J. Crawford incarnent deux soeurs ?
+culture_g_score: 80
+culture_g_justification: "Classique de l’horreur psychologique porté par Davis et Crawford, souvent mobilisé autour de Hollywood, de ses acteurs et de sa production."
 ---
-
 ![Image de Qu'est-il arrivé à Baby Jane](https://upload.wikimedia.org/wikipedia/commons/1/1e/Joan_Crawford_in_Whatever_Happened_to_Baby_Jane_trailer2.jpg)
 
 ###### Questions

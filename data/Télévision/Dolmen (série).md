@@ -20,8 +20,9 @@ indice_6 :
   - meurtre et enquête policière
 questions:
  - En 2005, quel feuilleton  avec Ingrid Chauvin, dont le titre évoque un monument mégalithique,  se déroule sur une île bretonne fictive?
+culture_g_score: 44
+culture_g_justification: "Mini-série française à succès ponctuel, principalement utile pour des questions sur TF1, la Bretagne et ses acteurs."
 ---
-
 ![Image de Dolmen (série)](https://upload.wikimedia.org/wikipedia/commons/c/c8/Tella_-_Dolmen_de_Tella_06.jpg)
 
 ###### Questions

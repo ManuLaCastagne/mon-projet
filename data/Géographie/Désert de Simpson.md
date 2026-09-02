@@ -20,8 +20,9 @@ indice_6 :
   - Outback
 questions:
  - Quel désert d'Australie, constitué d'une succession de dunes fossilisées, s'étend sur environ 145 000 km2?
+culture_g_score: 40
+culture_g_justification: "Désert australien identifiable par ses dunes et son exploration, mais trop spécialisé pour constituer une priorité généraliste."
 ---
-
 ![Image de Désert de Simpson](https://upload.wikimedia.org/wikipedia/commons/b/b7/Desert_de_Simpson.jpg)
 
 ###### Questions

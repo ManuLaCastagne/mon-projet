@@ -23,8 +23,9 @@ indice_6 :
   - patrimoine mondial de l'UNESCO
 questions:
  - Je suis doté d'une ornementation dans le style manuélin. Monument de Lisbonne...
+culture_g_score: 80
+culture_g_justification: "Monument emblématique de Lisbonne et des Grandes Découvertes, associé au style manuélin, à Manuel Ier et à Vasco de Gama."
 ---
-
 ![Image de Tour de Belém](https://upload.wikimedia.org/wikipedia/commons/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg)
 
 ###### Questions

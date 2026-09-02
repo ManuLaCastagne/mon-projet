@@ -21,8 +21,9 @@ indice_5:
   - Afrique du Nord-Est
 indice_6:
   - désert
+culture_g_score: 64
+culture_g_justification: "Capitale du Soudan connue pour la confluence des deux Nil et quelques épisodes de l’histoire coloniale et contemporaine."
 ---
-
 ![Image de Khartoum](https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset_Khartoum.jpg)
 
 ![[Carte_Khartoum.png]]

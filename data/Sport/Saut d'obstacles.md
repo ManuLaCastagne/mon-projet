@@ -20,8 +20,9 @@ indice_6 :
   - Barre oxer
 questions:
  - Dans quelle épreuve équestre Patrice Delaveau remporta-t-il la médaille d'argent en 2014 ?
+culture_g_score: 60
+culture_g_justification: "Discipline équestre olympique identifiable par ses obstacles, ses compétitions et ses champions, mais relativement spécialisée."
 ---
-
 ![Image de Saut d'obstacles](https://upload.wikimedia.org/wikipedia/commons/c/c1/Hessischen_Ministerpr%C3%A4sidenten_Harrie_Smolders_auf_Exquis_Walnut_de_Muze_4_mk.jpg)
 
 ###### Questions

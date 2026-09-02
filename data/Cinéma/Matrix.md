@@ -18,8 +18,9 @@ indice_5 :
   - Réalité virtuelle
 indice_6 : 
   - Wachowski
+culture_g_score: 100
+culture_g_justification: "Film emblématique abordable par la science-fiction, la philosophie, les effets spéciaux, ses acteurs et ses répliques."
 ---
-
 ![Image de Matrix](https://upload.wikimedia.org/wikipedia/commons/2/23/Rhodochrosite_on_Matrix_-_Peru.jpg)
 
 ###### Questions

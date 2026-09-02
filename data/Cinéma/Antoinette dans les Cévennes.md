@@ -22,8 +22,9 @@ indice_6 :
   - amour et comédie
 questions:
  - En 2020, dans quel film  une institutrice, incarnée par Laure Calamy, enfile-t-elle une robe en lamé pour chanter avec ses élèves, à la fête de l'école?
+culture_g_score: 56
+culture_g_justification: "Comédie française connue portée par Laure Calamy et son âne, mais encore trop récente et circonscrite pour une priorité élevée."
 ---
-
 ![Image de Antoinette dans les Cévennes](https://upload.wikimedia.org/wikipedia/commons/0/09/Les_Pourtal%C3%A8s-_histoire_d%27une_famille_huguenote_des_C%C3%A9vennes%2C_1500-1860_%28IA_1964081.0001.001.umich.edu%29.pdf)
 
 ###### Questions

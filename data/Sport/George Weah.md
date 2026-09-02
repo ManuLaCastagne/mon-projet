@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Quel ancien Ballon d'or, devenu président de son pays, est le père d'un attaquant évoluant à Lille?
  - En 2017, quel ancien footballeur du PSG, 1er joueur africain à recevoir le Ballon d'or est élu président de son pays, le Libéria ?
+culture_g_score: 80
+culture_g_justification: "Sujet particulièrement rentable grâce au croisement entre football, Ballon d'or, histoire africaine et présidence du Liberia."
 ---
-
 ![Image de George Weah](https://upload.wikimedia.org/wikipedia/commons/3/39/George_Weah_in_2019_%28cropped%29.jpg)
 
 ###### Questions

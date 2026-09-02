@@ -18,8 +18,9 @@ indice_5 :
   - Édith Piaf
 indice_6 : 
   - réalisateur français
+culture_g_score: 44
+culture_g_justification: "Réalisateur surtout identifié à La Môme et à Édith Piaf, avec une notoriété concentrée sur quelques œuvres."
 ---
-
 ![Image de Olivier Dahan](https://upload.wikimedia.org/wikipedia/commons/7/7b/Olivier_Dahan.jpg)
 
 ###### Questions

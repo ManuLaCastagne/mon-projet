@@ -20,9 +20,9 @@ indice_5:
   - Survivor
 indice_6:
   - groupe féminin des années 2000
+culture_g_score: 72
+culture_g_justification: "Groupe R&B très célèbre grâce à Beyoncé et à plusieurs tubes, mais avec une portée historique et une transversalité modérées."
 ---
-
-
 ![Image de Destiny's Child](https://upload.wikimedia.org/wikipedia/commons/c/cc/Destiny_Child_at_Super_Bowl_XLVII_halftime_show.jpg)
 
 ###### Questions

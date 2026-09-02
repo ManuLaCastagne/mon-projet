@@ -22,8 +22,9 @@ indice_5 :
   - Place de l'Étoile
 indice_6 : 
   - Jean Chalgrin
+culture_g_score: 97
+culture_g_justification: "L’Arc de Triomphe est un symbole parisien et napoléonien omniprésent dans les questions d’histoire, de monuments et de commémoration."
 ---
-
 ![Image de Arc de Triomphe](https://upload.wikimedia.org/wikipedia/commons/c/c4/Arc_Triomphe.jpg)
 
 ###### Questions

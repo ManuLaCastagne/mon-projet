@@ -19,8 +19,9 @@ indice_5 :
   - influenceuse française
 indice_6 : 
   - participante à Danse avec les stars
+culture_g_score: 40
+culture_g_justification: "Youtubeuse pionnière et candidate de téléréalité connue, mais sa notoriété reste liée à la culture numérique récente."
 ---
-
 ![Image de EnjoyPhoenix](https://upload.wikimedia.org/wikipedia/commons/2/27/Marie_Lopez_Strasbourg_23_mai_2015.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_4:
 indice_5:
   - Ancien avocat
 indice_6:
+culture_g_score: 80
+culture_g_justification: "Nouvelle célèbre de Stefan Zweig, exploitable par les échecs, le nazisme, la psychologie, l’exil et la biographie de l’auteur."
 ---
-
 ![Image de Joueur d'échecs](https://upload.wikimedia.org/wikipedia/commons/4/4e/Stefan_Zweig2.png)
 
 ###### Questions

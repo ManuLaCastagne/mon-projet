@@ -20,8 +20,9 @@ indice_6 :
   - Rivalité avec Ayrton Senna
 questions:
  - Disputant ma 1re course au plus haut niveau le 13 janvier 1980 en Argentine, j'ai défendu pendant 3 ans les couleurs de Renault avant de rejoindre l'écurie Bruce McLaren en 84 et de m'imposer avec cette équipe comme l'un des plus grands pilotes de formule 1 de l'histoire. Quadruple champion du monde...
+culture_g_score: 93
+culture_g_justification: "Alain Prost est une référence incontournable de la Formule 1, avec de nombreux liens aux titres, écuries et rivalités célèbres."
 ---
-
 ![Image de Alain Prost](https://upload.wikimedia.org/wikipedia/commons/6/6f/Alain_Prost%2C_Nobuhiko_Kawamoto%2C_Pr%C3%A9sident_de_Honda_Motor_Co_et_Claude_Sage.jpg)
 
 ###### Questions

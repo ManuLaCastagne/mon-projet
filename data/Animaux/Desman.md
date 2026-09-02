@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de biodiversité en Europe
 questions:
  - Quel petit mammifère des Pyrénées, ressemblant à la taupe, se nourrit de petits vers et crustacés ?
+culture_g_score: 24
+culture_g_justification: "Le desman est un mammifère très peu connu, principalement mobilisé dans des questions de zoologie ou de conservation."
 ---
-
 ![Image de Desman](https://upload.wikimedia.org/wikipedia/commons/b/b0/Desman-drawing.jpg)
 
 ###### Questions

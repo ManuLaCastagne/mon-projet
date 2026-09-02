@@ -20,8 +20,9 @@ indice_5:
   - Best-sellers internationaux
 indice_6:
   - La Femme du Ve
+culture_g_score: 60
+culture_g_justification: "Romancier américain très lu dans l’espace francophone et souvent adapté, mais d’importance littéraire limitée face aux classiques majeurs."
 ---
-
 ![Image de Douglas Kennedy](https://upload.wikimedia.org/wikipedia/commons/6/65/Douglas_Kennedy_%C3%A0_l%27Universit%C3%A9_de_Lausanne.jpg)
 
 ###### Questions

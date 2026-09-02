@@ -22,8 +22,9 @@ indice_6 :
   - Science-fiction
 questions:
  - A quel nom de famille associe-t-on le réalisateur de la série Matrix ?
+culture_g_score: 80
+culture_g_justification: "Duo directement associé à Matrix, à la science-fiction, à la réalisation, à la transition de genre et à plusieurs œuvres connues."
 ---
-
 ![Image de Wachoswki]()
 
 ###### Questions

@@ -24,11 +24,9 @@ indice_6 :
   - cacao
 questions:
  - Quel pays d'Afrique autrefois appelé "côte de l'or" est bordé par l'Atlantique ?
+culture_g_score: 80
+culture_g_justification: "Pays africain classique, important pour la décolonisation, les Ashanti, le lac Volta et la géographie de l’Afrique de l’Ouest."
 ---
-
-
-
-
 ![Image de Ghana](https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg)
 
 ![[Carte_Ghana.png]]

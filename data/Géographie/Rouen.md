@@ -24,8 +24,9 @@ indice_6 :
   - Foire Saint-Romain
 questions:
  - Ville française conservant un ancien ossuaire à galeries dans l'aître Saint-Maclou, je suis célèbre pour ma cathédrale gothique Notre-Dame et pour mes nombreuses maisons à pans de bois. Construite...
+culture_g_score: 80
+culture_g_justification: "Rouen est une référence classique grâce à Jeanne d’Arc, sa cathédrale, Monet, Flaubert et son rôle dans l’histoire normande."
 ---
-
 ![Image de Rouen](https://upload.wikimedia.org/wikipedia/commons/1/1a/Rouen_Cathedral_as_seen_from_Gros_Horloge_140215_4.jpg)
 
 ![[Carte_Rouen.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - Entraîneurs
 questions:
  - En hippisme, quelle locution anglaise signifiant "course de clochers" désigne une course dans laquelle des chevaux doivent franchir des murs, des haies ?
+culture_g_score: 60
+culture_g_justification: "Épreuve olympique classique de l’athlétisme, reconnaissable par ses obstacles et ses origines hippiques, avec plusieurs angles historiques."
 ---
-
 ![Image de Steeple-chase](https://upload.wikimedia.org/wikipedia/commons/5/51/Blagueur_II%2C_winner_of_the_1911_Grand_Steeple-Chase_de_Paris.jpg)
 
 ###### Questions

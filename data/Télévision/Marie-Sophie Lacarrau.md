@@ -21,8 +21,9 @@ indice_6:
   - Récompensée par le prix Roland-Dorgelès en 2010
 questions:
   - Journaliste né à Villefranche-de-Rouergue, je rentre à France 3 Midi-Pyrénées en tant que reporter en 2002. Devenue la remplaçante de Carole Gaessler au 19/20 national en 2010, je succède à Elise Lucet à la présentation du 13 heures...
+culture_g_score: 64
+culture_g_justification: "Présentatrice du journal de 13 heures de TF1, elle peut être régulièrement questionnée dans l'actualité télévisuelle française récente."
 ---
-
 ![Image de Marie-Sophie Lacarrau](https://upload.wikimedia.org/wikipedia/commons/6/61/Marie-Sophie_Lacarrau_2014.jpg)
 
 ###### Questions

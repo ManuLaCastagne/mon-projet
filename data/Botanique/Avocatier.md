@@ -13,8 +13,9 @@ indice_5:
   - Graine d'avocat
 indice_6:
   - Utilisé pour réaliser des teintures naturelles
+culture_g_score: 64
+culture_g_justification: "L’avocatier se rattache à l’alimentation, à l’agriculture et à la géographie, avec des questions possibles sur le fruit et ses variétés."
 ---
-
 ![Image de Noyau d'avocat](https://upload.wikimedia.org/wikipedia/commons/9/94/Avocado_18.JPG)
 
 ###### Questions

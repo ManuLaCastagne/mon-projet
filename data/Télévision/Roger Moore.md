@@ -18,9 +18,9 @@ indice_5 :
   - années 60
 indice_6 : 
   - célèbre pour sa bague en forme de saint
+culture_g_score: 93
+culture_g_justification: "Interprète majeur de James Bond et du Saint, il permet de répondre à de nombreuses questions sur le cinéma, les séries et la culture populaire."
 ---
-
-
 ![Image de Roger Moore](https://upload.wikimedia.org/wikipedia/commons/a/a7/Sir_Roger_Moore_crop.jpg)
 
 ###### Questions

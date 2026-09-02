@@ -20,8 +20,9 @@ indice_6 :
   - Années 1920-1930
 questions:
  - Quel champion de tennis né en 1898, surnommé le Basque bondissant...
+culture_g_score: 67
+culture_g_justification: "Borotra combine tennis, Quatre Mousquetaires et épisodes de la Seconde Guerre mondiale, ce qui élargit nettement ses angles de quiz."
 ---
-
 ![Image de Jean Borotra](https://upload.wikimedia.org/wikipedia/commons/5/57/Bundesarchiv_Bild_102-10990%2C_Jean_Borotra.jpg)
 
 ###### Questions

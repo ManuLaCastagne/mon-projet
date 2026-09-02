@@ -20,8 +20,9 @@ indice_6 :
   - Tournoi des VI Nations
 questions:
  - Quel ancien sélectionneur de l'équipe de France et manager du club de Toulon est président de la FFR ?
+culture_g_score: 60
+culture_g_justification: "Figure connue du rugby français également liée à la politique, mais dont la fréquence reste principalement nationale et sportive."
 ---
-
 ![Image de Bernard Laporte](https://upload.wikimedia.org/wikipedia/commons/6/63/Jubil%C3%A9_Chabal-Nallet_-_20150604_-_Bernard_Laporte.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - La Moisson
 questions:
  - A partir de 2012, dans quelle série de films de science-fiction, avec Jennifer Lawrence, des...
+culture_g_score: 76
+culture_g_justification: "Saga populaire facilement interrogée par ses personnages, son univers dystopique, ses acteurs, ses livres et sa musique."
 ---
-
 ![Image de Hunger Games](https://upload.wikimedia.org/wikipedia/commons/7/79/The_hunger_games.svg)
 
 ###### Questions

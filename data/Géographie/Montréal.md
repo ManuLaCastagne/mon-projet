@@ -24,8 +24,9 @@ indice_6 :
   - Quartier des spectacles
 questions:
  - Quelle grande ville francophone abrite le vaste parc du Mont-Royal, qui permet notamment...
+culture_g_score: 80
+culture_g_justification: "Métropole canadienne fréquemment mobilisée pour les Jeux olympiques, le Québec, la francophonie et la géographie nord-américaine."
 ---
-
 ![Image de Montréal](https://upload.wikimedia.org/wikipedia/commons/5/5d/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-11%2C_DD_20-22_HDR.jpg)
 
 ![[Carte_Montréal.png]]

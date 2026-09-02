@@ -20,8 +20,9 @@ indice_6 :
   - Éléments de transition
 questions:
  - Pépites malléables et ductiles, je ne m'oxyde pas et ne suis pas normalement attaqué par les acides.  Pouvant être préparé par raffinage de métaux comme l'or, avec qui je partage le statut de métal...
+culture_g_score: 72
+culture_g_justification: "Métal précieux et élément chimique rentable grâce à ses liens avec la joaillerie, la monnaie, les catalyseurs, la métrologie et l’industrie."
 ---
-
 ![Image de Platine](https://upload.wikimedia.org/wikipedia/commons/2/2d/Mapa_platine_war.PNG)
 
 ###### Questions

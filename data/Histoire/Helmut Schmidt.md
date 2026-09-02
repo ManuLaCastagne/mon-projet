@@ -20,8 +20,9 @@ indice_6 :
   - défenseur d'une politique de détente pendant la Guerre froide
 questions:
  - Avec quel chancelier allemand a-t-il jeté les bases pour bâtir une monnaie commune ?
+culture_g_score: 67
+culture_g_justification: "Chancelier important de la RFA, associé au terrorisme de la RAF, à la crise pétrolière, à la construction européenne et à la culture musicale."
 ---
-
 ![Image de Helmut Schmidt](https://upload.wikimedia.org/wikipedia/commons/8/83/Bonn-helmut-schmidt-platz-arc-89-082017-03.jpg)
 
 ###### Questions

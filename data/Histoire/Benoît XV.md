@@ -20,8 +20,9 @@ indice_6 :
   - Giacomo della Chiesa
 questions:
  - En 1920, sous le pontificat de quel pape a-t-elle été canonisée?
+culture_g_score: 52
+culture_g_justification: "Pape de la Première Guerre mondiale connu pour ses appels à la paix, mais moins fréquemment cité que plusieurs autres papes."
 ---
-
 ![Image de Benoît XV](https://upload.wikimedia.org/wikipedia/commons/2/23/Pope_Benedict_XV_%28LOC%29_-_6288471009.jpg)
 
 ###### Questions

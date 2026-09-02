@@ -24,8 +24,9 @@ indice_6 :
   - Atlantique
 questions:
  - Capitale de la Côte de Beauté appréciée pour ma plage de la Grande-Conche, je suis établie sur la rive droite de l'estuaire de la Gironde, en face du Verdon. Station balnéaire de Charente-Maritime située au sud de Rochefort, je suis...
+culture_g_score: 52
+culture_g_justification: "Royan est un exemple notable de reconstruction et d’architecture balnéaire, mais sa présence dans les quiz reste relativement ponctuelle."
 ---
-
 ![Image de Royan](https://upload.wikimedia.org/wikipedia/commons/0/07/00_4632_Royan_-_Frankreich.jpg)
 
 ![[Carte_Royan.png]]

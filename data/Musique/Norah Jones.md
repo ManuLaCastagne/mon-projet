@@ -22,8 +22,9 @@ indice_6 :
   - jazz et folk
 questions:
  - En 2002, à quelle chanteuse américaine doit-on "Back to Manhattan" et "Come Away with Me" ?
+culture_g_score: 64
+culture_g_justification: "Artiste connue pour son succès précoce, ses Grammy Awards et sa filiation avec Ravi Shankar, mais aux angles surtout musicaux."
 ---
-
 ![Image de Norah Jones](https://upload.wikimedia.org/wikipedia/commons/c/c1/Norah_Jones_Cannes_1.jpg)
 
 ###### Questions

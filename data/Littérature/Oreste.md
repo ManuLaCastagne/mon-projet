@@ -22,8 +22,9 @@ indice_6 :
   - Mythologie grecque
 questions:
  - Ayant appris les circonstances de la mort de son père Agamemnon, quel personnage se vengea en tuant tua sa mère Clytemnestre  et son amant Egisthe ?
+culture_g_score: 87
+culture_g_justification: "Personnage central de la mythologie grecque et de la tragédie antique, relié à l’Orestie, Électre, le matricide et la justice athénienne."
 ---
-
 ![Image de Oreste](https://upload.wikimedia.org/wikipedia/commons/8/86/H%C3%A4ndel_-_Oreste_-_title_page_of_the_libretto%2C_London_1734.png)
 
 ###### Questions

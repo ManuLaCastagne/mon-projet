@@ -20,8 +20,9 @@ indice_6:
   - sang
 questions:
   - Dans quelle série policière américaine, diffusée en France à partir de 2007, le héros, lui-même tueur en série, est-il un expert en médecine légale?
+culture_g_score: 76
+culture_g_justification: "Série policière très connue dont le héros, les acteurs, l’univers et le concept reviennent régulièrement dans les quiz."
 ---
-
 ![Image de Dexter](https://upload.wikimedia.org/wikipedia/commons/e/e6/Dexter%2C_Minnesota.jpg)
 
 ###### Questions

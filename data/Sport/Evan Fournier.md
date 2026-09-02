@@ -20,9 +20,9 @@ indice_6 :
   - Olympiques de Tokyo 2020
 questions:
  - 3e champion du Championnat du monde avec les Bleus en 2014 et 2019, j'évolue au poste d'ailier ou d'arrière. Joueur de NBA transféré en mars aux Celtics.
+culture_g_score: 60
+culture_g_justification: "International français et joueur NBA, il est utile pour des questions sur le basket français, la NBA et les Jeux olympiques."
 ---
-
-
 ![Image de Evan Fournier](https://upload.wikimedia.org/wikipedia/commons/1/1c/Evan_Fournier_1.JPG)
 
 ###### Questions

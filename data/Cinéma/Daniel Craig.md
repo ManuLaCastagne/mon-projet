@@ -20,8 +20,9 @@ indice_5 :
   - Spectre
 indice_6 : 
   - Knives Out
+culture_g_score: 93
+culture_g_justification: "Interprète de James Bond depuis Casino Royale, Daniel Craig est une référence extrêmement rentable dans les quiz de cinéma populaire."
 ---
-
 ![Image de Daniel Craig](https://upload.wikimedia.org/wikipedia/commons/7/78/Daniel_Craig_McCallum_by_The_Brady_National_Photographic_Art_Gallery.jpg)
 
 ###### Questions

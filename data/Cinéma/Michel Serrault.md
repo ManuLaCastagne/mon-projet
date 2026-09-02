@@ -22,8 +22,9 @@ indice_6 :
   - acteur comique et dramatique
 questions:
  - Avec quel acteur Jean Poiret a-t-il longtemps formé un duo comique, notamment dans la pièce...
+culture_g_score: 68
+culture_g_justification: "Acteur très emblématique du cinéma français, fréquemment lié à La Cage aux folles, aux César et à des registres variés."
 ---
-
 ![Image de Michel Serrault](https://upload.wikimedia.org/wikipedia/commons/f/fb/Michel_Serrault_Cannes.jpg)
 
 ###### Questions

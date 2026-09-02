@@ -22,8 +22,9 @@ indice_6 :
   - parenthèses
 questions:
  - Je suis souvent limité au nom des personnages. Défini comme tout ce qui n'est pas du dialogue dans le texte d'une pièce  de théâtre...
+culture_g_score: 65
+culture_g_justification: "Terme théâtral classique et très réutilisable pour identifier la structure et les indications de mise en scène d’une pièce."
 ---
-
 ![Image de Didascalie](https://upload.wikimedia.org/wikipedia/commons/d/d8/Pri%C3%A8re_de_Manass%C3%A9_dans_la_Didascalie_grecque.jpg)
 
 ###### Questions

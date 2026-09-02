@@ -20,8 +20,9 @@ indice_6:
   - Conspirations
 questions:
   - Durant la Seconde Guerre mondiale, quelle machine, comprenant 26 câbles électriques...
+culture_g_score: 100
+culture_g_justification: "Sujet emblématique reliant Seconde Guerre mondiale, cryptographie, Alan Turing, Bletchley Park et histoire des technologies."
 ---
-
 ![Image de Enigma](https://upload.wikimedia.org/wikipedia/commons/f/f3/Enigma_rotor_exploded_view.png)
 
 ###### Questions

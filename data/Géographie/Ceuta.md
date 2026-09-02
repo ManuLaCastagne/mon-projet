@@ -24,8 +24,9 @@ indice_6 :
   - diversité culturelle avec influence espagnole et marocaine
 questions:
  - Quelle ville sur une presqu'île située en face de Gibraltar...
+culture_g_score: 60
+culture_g_justification: "Enclave espagnole régulièrement interrogée pour sa situation africaine, le détroit de Gibraltar et les relations avec le Maroc."
 ---
-
 ![Image de Ceuta](https://upload.wikimedia.org/wikipedia/commons/a/a8/Plaza_de_%C3%81frica%2C_Ceuta%2C_Espa%C3%B1a%2C_2015-12-10%2C_DD_02.JPG)
 
 ![[Carte_Ceuta.png]]

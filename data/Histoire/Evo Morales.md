@@ -20,10 +20,9 @@ indice_6 :
   - exil politique en Argentine
 questions:
  - Depuis 2005, quel homme politique premier amérindien a accéder à la tête de l'Etat dans son pays, est le président de la République bolivienne ?
+culture_g_score: 60
+culture_g_justification: "Président bolivien marquant par son origine indigène et ses politiques sociales, mais relativement périphérique dans les quiz généralistes."
 ---
-
-
-
 ![Image de Evo Morales](https://upload.wikimedia.org/wikipedia/commons/0/08/Evo_Morales_Ayma_%28cropped%29.jpg)
 
 ###### Questions

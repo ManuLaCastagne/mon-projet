@@ -18,9 +18,9 @@ indice_5:
   - Reine de 1960 à 1993
 indice_6:
   - Fête nationale belge 1961
+culture_g_score: 44
+culture_g_justification: "Reine belge identifiable dans quelques questions dynastiques ou biographiques, mais sa portée reste limitée."
 ---
-
-
 ![Image de Fabiola](https://upload.wikimedia.org/wikipedia/commons/5/5c/Fabiola_De_Clercq.jpg)
 
 ###### Questions

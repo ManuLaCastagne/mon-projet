@@ -13,8 +13,9 @@ indice_5:
   - Une autre appellation  Amanita muscaria
 indice_6:
   - Son utilisation  toxique, hallucinogène
+culture_g_score: 72
+culture_g_justification: "Champignon visuellement emblématique, fréquent dans les questions de toxicité, de contes, d’hallucination et d’identification."
 ---
-
 ![Image de Amanite tue-mouches](https://upload.wikimedia.org/wikipedia/commons/6/6c/Amanita_muscaria_tyndrum.jpg)
 
 ###### Questions

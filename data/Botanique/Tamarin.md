@@ -13,6 +13,8 @@ indice_5:
   - Tamaringue
 indice_6:
   - Utilisé pour son fruit comestible et en médecine traditionnelle
+culture_g_score: 52
+culture_g_justification: "Le tamarin est utile pour la cuisine, les fruits tropicaux et les échanges entre Afrique et Asie, mais reste peu fréquent."
 ---
 ![[Pasted image 20250419224829.png]]
 ###### Questions

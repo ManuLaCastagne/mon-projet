@@ -20,8 +20,9 @@ indice_5:
   - Oblivion
 indice_6:
   - compositeur argentin
+culture_g_score: 72
+culture_g_justification: "Piazzolla est une figure majeure du tango, rentable grâce à Libertango, au nuevo tango, au bandonéon et à ses liens avec Borges et Boulanger."
 ---
-
 ![Image de Astor Piazzolla](https://upload.wikimedia.org/wikipedia/commons/f/fd/Piazzolla_orquesta_canal13_1962-restored.jpg)
 
 ###### Questions

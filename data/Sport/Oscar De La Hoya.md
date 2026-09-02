@@ -20,11 +20,9 @@ indice_6 :
   - Promotions de boxe
 questions:
  - Et Manny Pacquiao. Américain d'origine mexicaine… Premier boxeur de l'histoire champion du monde dans six catégories de poids différents.  Surnommé le Golden Boy.
+culture_g_score: 80
+culture_g_justification: "Grand boxeur américain, champion dans six catégories et entrepreneur, régulièrement présent dans les questions sur la boxe et les Jeux."
 ---
-
-
-
-
 ![Image de Oscar De La Hoya](https://upload.wikimedia.org/wikipedia/commons/5/5e/Oscar_De_La_Hoya_2010.jpg)
 
 ###### Questions

@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Chine
+culture_g_score: 68
+culture_g_justification: "Grand classique de la cuisine chinoise, reconnaissable et assez fréquent dans les quiz sur les plats du monde."
 ---
 ###### Questions 
 

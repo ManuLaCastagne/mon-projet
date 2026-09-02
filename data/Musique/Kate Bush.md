@@ -18,8 +18,9 @@ indice_5 :
   - Cloudbusting
 indice_6 : 
   - This Woman's Work
+culture_g_score: 80
+culture_g_justification: "Artiste britannique singulière, associée à plusieurs chansons, à l’innovation pop et au regain de popularité de Running Up That Hill."
 ---
-
 ![Image de Kate Bush](https://upload.wikimedia.org/wikipedia/commons/e/ec/Kate_Bush_at_1986_Comic_Relief_%28cropped%29.png)
 
 ###### Questions

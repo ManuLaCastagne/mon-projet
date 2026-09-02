@@ -18,8 +18,9 @@ indice_5 :
   - vanité
 indice_6 : 
   - Baroque
+culture_g_score: 71
+culture_g_justification: "Tableau majeur de Poussin, exploitable pour le classicisme français, la mythologie pastorale, le latin et les réflexions sur la mort."
 ---
-
 ![Image de Les Bergers d'Arcadie](https://upload.wikimedia.org/wikipedia/commons/d/df/Nicolas_Poussin_-_Et_in_Arcadia_ego_%28deuxi%C3%A8me_version%29.jpg)
 
 ###### Questions

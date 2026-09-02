@@ -19,8 +19,9 @@ indice_5:
   - élégance intemporelle
 indice_6:
   - marque de luxe
+culture_g_score: 97
+culture_g_justification: "Coco Chanel est une figure incontournable de la mode, de la parfumerie, de l'émancipation vestimentaire et de la culture française."
 ---
-
 ![Image de Coco Chanel](https://upload.wikimedia.org/wikipedia/commons/2/22/Coco_Chanel_in_Los_Angeles%2C_1931_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Panneau de commande
 questions:
  - Appareil électronique de sécurité, je suis notamment désigné par un nom déposé, apparu avant 1952, résultant de la contraction de 2 mots. Doté d'un haut-parleur et de touches, je permets de contrôler l'accès  à un lieu privé, grâce à l'ouverture à distance...
+culture_g_score: 35
+culture_g_justification: "Objet quotidien compréhensible mais rarement réponse d’un quiz généraliste et porteur de très peu de repères réutilisables."
 ---
-
 ![Image de Interphone](https://upload.wikimedia.org/wikipedia/commons/2/27/Flat_intercom_system.jpg)
 
 ###### Questions

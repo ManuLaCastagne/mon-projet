@@ -20,8 +20,9 @@ indice_6 :
   - 7 millions d'années
 questions:
  - Quel fossile, datant de 7 milllions d'années et découvert en 2001, est considéré comme le représentant de l'une des premières espèces de la lignée humaine ?
+culture_g_score: 60
+culture_g_justification: "Fossile emblématique de la paléoanthropologie, régulièrement cité pour l'ancienneté de la lignée humaine et sa découverte au Tchad."
 ---
-
 ![Image de Toumaï](https://upload.wikimedia.org/wikipedia/commons/f/fc/Sahelanthropus_tchadensis_-_TM_266-01-060-1.jpg)
 
 ###### Questions

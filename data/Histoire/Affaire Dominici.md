@@ -20,8 +20,9 @@ indice_6 :
   - procès médiatisé
 questions:
  - Affaire portant sur l'assassinat d'une famille de touristes anglais en Provence.
+culture_g_score: 40
+culture_g_justification: "Affaire criminelle française célèbre dans l’histoire judiciaire, mais ses possibilités d’interrogation restent assez limitées."
 ---
-
 ![Image de Affaire Dominici](https://upload.wikimedia.org/wikipedia/commons/1/16/Affaire_Dominici-St%C3%A8le_aux_Drummond.JPG)
 
 ###### Questions

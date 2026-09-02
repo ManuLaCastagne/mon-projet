@@ -18,8 +18,9 @@ indice_5 :
   - Jean-Antoine Poisson
 indice_6 : 
   - guerre de Sept Ans
+culture_g_score: 80
+culture_g_justification: "Favorite de Louis XV, elle ouvre de nombreux angles sur Versailles, la politique, les arts et la société du XVIIIe siècle."
 ---
-
 ![Image de Madame de Pompadour](https://upload.wikimedia.org/wikipedia/commons/1/1b/Bidet_of_Madame_Pompadour_du_cabinet_des_D%C3%A9p%C3%AAches.jpg)
 
 ###### Questions

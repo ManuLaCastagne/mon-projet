@@ -18,8 +18,9 @@ indice_5 :
   - bataille de Cannes
 indice_6 : 
   - ennemi de Rome
+culture_g_score: 100
+culture_g_justification: "Figure légendaire de l'histoire militaire, Hannibal permet de répondre à de nombreuses questions sur Carthage, Rome, les Alpes et la bataille de Cannes."
 ---
-
 ![Image de Hannibal Barca](https://upload.wikimedia.org/wikipedia/commons/a/a8/Hannibal_Slodtz_Louvre_MR2093.jpg)
 
 ###### Questions

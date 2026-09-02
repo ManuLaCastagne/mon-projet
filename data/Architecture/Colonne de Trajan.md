@@ -23,8 +23,9 @@ indice_6 :
   - 113 après J.-C.
 questions:
  - A Rome, quelle colonne  de marbre, d'environ 38 m de haut, évoque par ses frises deux campagnes impériales contre les Daces ?
+culture_g_score: 64
+culture_g_justification: "Monument majeur de la Rome impériale, régulièrement associé à Trajan, aux guerres daciques et à la sculpture antique."
 ---
-
 ![Image de Colonne de Trajan](https://upload.wikimedia.org/wikipedia/commons/4/48/Colonne_de_Trajan_-_Rome_%281%29.JPG)
 
 ###### Questions

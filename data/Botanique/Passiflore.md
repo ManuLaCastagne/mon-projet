@@ -13,8 +13,9 @@ indice_5:
   - Fleur de la passion
 indice_6:
   - Utilisée pour ses propriétés médicinales et ses fruits comestibles
+culture_g_score: 67
+culture_g_justification: "Fleur très reconnaissable, riche en liens religieux, botaniques et médicinaux, mais moins incontournable que les grandes fleurs universelles."
 ---
-
 ![Image de Passiflore](https://upload.wikimedia.org/wikipedia/commons/d/d3/Passion_Vine_NBG_LR.jpg)
 
 ###### Questions

@@ -22,11 +22,9 @@ indice_6 :
   - ensemble de quatre parties
 questions:
  - Exécutée par 4 couples au moins qui se font face et qui évoluent en carré, d'où mon nom, je suis…
+culture_g_score: 40
+culture_g_justification: "Danse historique identifiable dans les quiz sur le XIXe siècle, mais son usage reste étroitement lié à l'histoire de la danse."
 ---
-
-
-
-
 ![Image de Quadrille](https://upload.wikimedia.org/wikipedia/commons/a/a3/02016_0423_Die_Saybuscher_Quadrille_%28Tanz%29.JPG)
 
 ###### Questions

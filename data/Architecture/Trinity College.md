@@ -22,8 +22,9 @@ indice_5:
   - Book of Kells
 indice_6:
   - Université dublinoise
+culture_g_score: 72
+culture_g_justification: "Université historique associée à Dublin, au Livre de Kells, à sa bibliothèque et à plusieurs figures littéraires célèbres."
 ---
-
 ![Image de Trinity College](https://upload.wikimedia.org/wikipedia/commons/8/8e/UK-2014-Oxford-Trinity_College_01.JPG)
 
 ###### Questions

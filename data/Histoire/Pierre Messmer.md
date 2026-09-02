@@ -18,9 +18,9 @@ indice_5 :
   - Discours de Bayeux
 indice_6 : 
   - Afrique-Équatoriale française
+culture_g_score: 60
+culture_g_justification: "Ancien Premier ministre et compagnon de la Libération, intéressant pour la Ve République, la décolonisation et la dissuasion nucléaire."
 ---
-
-
 ![Image de Pierre Messmer](https://upload.wikimedia.org/wikipedia/commons/a/a7/Pierre_Messmer01.JPG)
 
 ###### Questions

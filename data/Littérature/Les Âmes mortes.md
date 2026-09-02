@@ -22,8 +22,9 @@ indice_6 :
   - critique de la corruption
 questions:
  - En 1842, dans quel roman de Nicolas Gogol, le personnage de Tchitchikov cherche-t-il à valoriser ses terres  par le biais d'une escroquerie ?
+culture_g_score: 72
+culture_g_justification: "Œuvre majeure de Gogol, utile pour la littérature russe, la satire sociale, le servage et le personnage de Tchitchikov."
 ---
-
 ![Image de Les Âmes mortes](https://upload.wikimedia.org/wikipedia/commons/d/df/Les_%C3%A2mes_mortes%2C_texte_de_Micha%C3%AFl_A._Boulgakov_-_photographies_-_Roger_Pic_-_btv1b8426218v_%2802_of_16%29.jpg)
 
 ###### Questions

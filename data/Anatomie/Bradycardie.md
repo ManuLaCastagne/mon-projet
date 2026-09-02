@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Grèce
+culture_g_score: 48
+culture_g_justification: "Trouble cardiaque compréhensible et utile en médecine, mais nettement moins fréquent que les notions cardiovasculaires majeures."
 ---
 ###### Questions 
 

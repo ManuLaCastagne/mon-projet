@@ -20,8 +20,9 @@ indice_5:
   - western
 indice_6:
   - Fred Zinnemann
+culture_g_score: 97
+culture_g_justification: "Western classique incontournable, associé à Gary Cooper, Fred Zinnemann, aux Oscars, au compte à rebours et aux codes du genre."
 ---
-
 ![Image de Le Train sifflera trois fois](https://upload.wikimedia.org/wikipedia/commons/b/b8/Samuel_D._Ehrhart_-_An_International_High_Noon_Divorce_%281906%29.jpg)
 
 ###### Questions

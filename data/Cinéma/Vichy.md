@@ -22,8 +22,9 @@ indice_6 :
   - compétition cinématographique
 questions:
  - Quelle étoffe de coton Cinéma/Brigitte Bardot a-t-elle lancée la mode avec sa robe rose…
+culture_g_score: 20
+culture_g_justification: "La fiche concerne une salle de cinéma locale de Vichy, référence très étroite et pratiquement absente des quiz généralistes."
 ---
-
 ![Image de Vichy](https://upload.wikimedia.org/wikipedia/commons/6/64/Zone_urbaine_%28VICHY%2CFR03%29.jpg)
 
 ###### Questions

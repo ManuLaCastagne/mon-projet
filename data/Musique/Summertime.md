@@ -22,8 +22,9 @@ indice_6 :
   - composition 1935
 questions:
  - Célèbre chanson de "Porgy and Bess" de George Gershwin, reprise par Janis Joplin, notamment, j'évoque la vie insouciante que l'on mène en été.
+culture_g_score: 88
+culture_g_justification: "« Summertime » est un standard exceptionnellement transversal, reliant Gershwin, l’opéra, le jazz, les reprises et l’histoire musicale américaine."
 ---
-
 ![Image de Summertime](https://upload.wikimedia.org/wikipedia/commons/d/d8/Plectranthus_%27Summertime_Wine%27_Foliage.JPG)
 
 ###### Questions

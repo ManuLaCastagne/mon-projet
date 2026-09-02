@@ -20,8 +20,9 @@ indice_6 :
   - Attaquant
 questions:
  - Je retrouve la compéti tion  juste avant le Mondial, que je remporte avec l'Italie. Ballon d'or en 1982. Disparu en 2020.
+culture_g_score: 80
+culture_g_justification: "Héros italien de la Coupe du monde 1982, identifiable par son triplé contre le Brésil, son Soulier d’or et son Ballon d’or."
 ---
-
 ![Image de Paolo Rossi](https://upload.wikimedia.org/wikipedia/commons/7/75/Paolo_Rossi_Vicenza_%28cropped%29.jpg)
 
 ###### Questions

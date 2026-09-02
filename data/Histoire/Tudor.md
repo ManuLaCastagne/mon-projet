@@ -18,8 +18,9 @@ indice_5:
   - XVIe siècle
 indice_6:
   - guerre des Deux-Roses
+culture_g_score: 80
+culture_g_justification: "Dynastie anglaise très classique, ouvrant sur Henri VIII, la Réforme, Élisabeth Ire et les grandes transformations de l’Angleterre moderne."
 ---
-
 ![Image de Tudor](https://upload.wikimedia.org/wikipedia/commons/9/9e/Tudor_Flag.png)
 
 ###### Questions

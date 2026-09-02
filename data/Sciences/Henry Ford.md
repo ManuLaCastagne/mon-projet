@@ -20,8 +20,9 @@ indice_6 :
   - Dearborn
 questions:
  - En 1927, quel industriel américain, pionnier de la construction d'automobiles en série…
+culture_g_score: 80
+culture_g_justification: "Henry Ford est un classique des quiz sur l’automobile, l’industrie, le travail à la chaîne et le capitalisme américain."
 ---
-
 ![Image de Henry Ford](https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg)
 
 ###### Questions

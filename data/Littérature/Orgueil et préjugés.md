@@ -22,8 +22,9 @@ indice_6 :
   - relations de classes sociales
 questions:
  - Récit enseignant qu'il ne faut pas se fier aux apparences, je me déroule notamment au château de Pemberley et ai pour héros Elizabeth Bennet et Darcy…
+culture_g_score: 100
+culture_g_justification: "Roman universellement connu de Jane Austen, très fréquent grâce à ses personnages, son intrigue, ses thèmes sociaux et ses adaptations."
 ---
-
 ![Image de Orgueil et préjugés](https://upload.wikimedia.org/wikipedia/commons/b/b1/Recueil._%22Orgueil_et_pr%C3%A9jug%C3%A9s%22_film_de_Robert_Z._Leonard_-_btv1b10516265w_%2821_of_29%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - membre de la dynastie salomonienne
 questions:
  - Le 12 septembre 1974, quel empereur d'Éthiopie est écarté du pouvoir à la suite d'un coup d'Etat?
+culture_g_score: 72
+culture_g_justification: "Empereur éthiopien lié au rastafarisme, à la Société des Nations, à l'unité africaine et à la modernisation de l'Éthiopie."
 ---
-
 ![Image de Haïlé Sélassié](https://upload.wikimedia.org/wikipedia/commons/8/81/Haile_Selassie_in_full_dress.jpg)
 
 ###### Questions

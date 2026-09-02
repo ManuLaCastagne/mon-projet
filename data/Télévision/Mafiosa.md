@@ -20,8 +20,9 @@ indice_6 :
   - série française
 questions:
  - Série dans laquelle Hélène Fillières incarne une jeune femme à la tête d'un clan corse.
+culture_g_score: 44
+culture_g_justification: "Série française reconnue de Canal+ sur la mafia corse, mais sa fréquence et sa portée restent inférieures à celles des grandes séries internationales."
 ---
-
 ![Image de Mafiosa](https://upload.wikimedia.org/wikipedia/commons/a/a0/My_portrait_of_British_former_mobster_Patrick_Adams_in_Spain.jpg)
 
 ###### Questions

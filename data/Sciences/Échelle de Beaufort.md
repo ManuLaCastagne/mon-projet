@@ -20,8 +20,9 @@ indice_6 :
   - Effets sur la mer
 questions:
  - Quelle échelle graduée de 0 à 12, conçue par un amiral britannique, permet de mesurer la vitesse moyenne du vent?
+culture_g_score: 65
+culture_g_justification: "Échelle météorologique classique, fréquemment associée au vent, à la navigation et à l’histoire des sciences."
 ---
-
 ![Image de Échelle de Beaufort](https://upload.wikimedia.org/wikipedia/commons/b/b5/Beaufort_scale_12_notext.jpg)
 
 ###### Questions

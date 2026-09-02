@@ -4,6 +4,8 @@ tags:
   - XIXe
   - France
 date: 1888
+culture_g_score: 64
+culture_g_justification: "Figure emblématique du Mont-Saint-Michel, régulièrement associée à son auberge et à la célèbre omelette soufflée."
 ---
 ###### Questions 
 

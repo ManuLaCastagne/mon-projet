@@ -20,8 +20,9 @@ indice_6 :
   - Sport français
 questions:
  - De 2000 à 2016, quel ancien maire de la ville de Val-de-Reuil a présidé la Fédération française d'athlétisme?
+culture_g_score: 24
+culture_g_justification: "Dirigeant important dans l'athlétisme français mais peu connu du grand public et rarement demandé dans les quiz généralistes."
 ---
-
 ![Image de Bernard Amsalem](https://upload.wikimedia.org/wikipedia/commons/e/e9/Amsalem_Bernard.JPG)
 
 ###### Questions

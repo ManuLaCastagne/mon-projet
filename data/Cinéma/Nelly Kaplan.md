@@ -20,8 +20,9 @@ indice_5:
   - Réalisatrice et écrivaine
 indice_6:
   - Cinéma érotique et féministe
+culture_g_score: 35
+culture_g_justification: "Réalisatrice et écrivaine originale de l’histoire du cinéma français, mais sa faible notoriété limite fortement sa fréquence en quiz généralistes."
 ---
-
 ![Image de Nelly Kaplan](https://upload.wikimedia.org/wikipedia/commons/6/63/Nelly_Kaplan.jpg)
 
 ###### Questions

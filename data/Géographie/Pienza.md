@@ -23,8 +23,9 @@ indice_6:
   - Urbanisme planifié
 questions:
   - En Toscane, dans quelle cité idéale imaginée par Pie II a-t-on copié le palais de Florence ?
+culture_g_score: 32
+culture_g_justification: "Ville italienne remarquable pour l’urbanisme de la Renaissance, mais rarement interrogée hors de questions spécialisées."
 ---
-
 ![Image de Pienza](https://upload.wikimedia.org/wikipedia/commons/e/ea/Pienza_italy.jpg)
 
 ###### Questions

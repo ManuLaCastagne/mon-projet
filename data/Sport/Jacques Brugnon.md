@@ -20,8 +20,9 @@ indice_6 :
   - 1930s
 questions:
  - Parmi les 4 Mousquetaires du tennis français, lequel se prénommait Jacques?
+culture_g_score: 44
+culture_g_justification: "Membre des Quatre Mousquetaires, Brugnon est historiquement intéressant mais reste une figure assez spécialisée du tennis ancien."
 ---
-
 ![Image de Jacques Brugnon](https://upload.wikimedia.org/wikipedia/commons/0/02/Jacques_Brugnon_1920.jpg)
 
 ###### Questions

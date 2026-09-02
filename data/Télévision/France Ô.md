@@ -20,8 +20,9 @@ indice_6 :
   - diversité culturelle
 questions:
  - Chaîne publique ayant pour slogan "Regardons autrement". J'ai été créée en 2005 et j'ai rejoint la TNT en 2010. Programmant "Les petits plats de Babeth" ou la série "Les îles d'en face"...
+culture_g_score: 52
+culture_g_justification: "Chaîne publique liée à l’outre-mer et à sa disparition de la TNT, intéressante mais moins centrale que les principales chaînes nationales."
 ---
-
 ![Image de France Ô](https://upload.wikimedia.org/wikipedia/commons/4/46/France_%C3%94_2018.svg)
 
 ###### Questions

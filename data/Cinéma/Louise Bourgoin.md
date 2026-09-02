@@ -20,8 +20,9 @@ indice_5:
   - actrice française
 indice_6:
   - téléfilm La Reine et le Cardinal
+culture_g_score: 44
+culture_g_justification: "Actrice française identifiable par quelques comédies et par son passage à la télévision, mais peu centrale culturellement."
 ---
-
 ![Image de Louise Bourgoin](https://upload.wikimedia.org/wikipedia/commons/5/54/Louise_Bourgoin_Cannes_2010.jpg)
 
 ###### Questions

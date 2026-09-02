@@ -22,8 +22,9 @@ indice_6 :
   - Dream Pop
 questions:
  - Quel groupe français a composé la BO du film "Air (groupe)" de Christian Cantamessa sorti en 2015 ?
+culture_g_score: 48
+culture_g_justification: "Bande originale importante dans la carrière d’Air et de Sofia Coppola, mais sujet précis assez spécialisé."
 ---
-
 ![Image de Virgin Suicides](https://upload.wikimedia.org/wikipedia/commons/f/f5/Jeffrey_Eugenides_2017.jpg)
 
 ###### Questions

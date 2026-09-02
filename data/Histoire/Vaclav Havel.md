@@ -18,9 +18,9 @@ indice_5 :
   - Président
 indice_6 : 
   - révolution de Velours
+culture_g_score: 80
+culture_g_justification: "Dissident, dramaturge et président, Havel relie littérature, chute du communisme, Charte 77 et histoire de la Tchécoslovaquie."
 ---
-
-
 ![Image de Vaclav Havel](https://upload.wikimedia.org/wikipedia/commons/2/2c/V%C3%A1clav_Havel.jpg)
 
 ###### Questions

@@ -19,6 +19,8 @@ indice_5:
   - terrorisme
 indice_6:
   - Kiefer Sutherland
+culture_g_score: 80
+culture_g_justification: "Série américaine très populaire, identifiable par Jack Bauer, son format en temps réel et son influence sur la télévision policière."
 ---
 ![[Pasted image 20260411115209.png]]
 ###### Questions

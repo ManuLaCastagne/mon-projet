@@ -22,8 +22,9 @@ indice_6 :
   - icône du cinéma européen
 questions:
  - Quelle actrice italienne à l'affiche du "Guépard"...
+culture_g_score: 80
+culture_g_justification: "Grande actrice internationale reliée à Fellini, Leone, le western spaghetti et plusieurs chefs-d’œuvre du cinéma européen."
 ---
-
 ![Image de Claudia Cardinale](https://upload.wikimedia.org/wikipedia/commons/1/11/Claudia_Cardinale_1963.jpg)
 
 ###### Questions

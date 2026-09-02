@@ -20,8 +20,9 @@ indice_6 :
   - Fourche cassée
 questions:
  - En 1913, en réparant son vélo dans une forge de Sainte-Marie-de-Campan quel cycliste a fait de cette localité un lieu historique du Tour de France?
+culture_g_score: 40
+culture_g_justification: "Ancienne figure du Tour de France intéressante pour le maillot jaune et les anecdotes historiques, mais peu connue du grand public."
 ---
-
 ![Image de Eugène Christophe](https://upload.wikimedia.org/wikipedia/commons/e/e7/Eug%C3%A8ne_Christophe.jpg)
 
 ###### Questions

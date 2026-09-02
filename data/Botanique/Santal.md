@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé en parfumerie et médecine ayurvédique
 questions:
  - Egalement utilisé dans l'industrie de la parfumerie, sous forme de résinoïde ou d'huile essentielle. Appartenant à la famille des santala...
+culture_g_score: 52
+culture_g_justification: "Le bois de santal est connu pour la parfumerie, les religions et le commerce, mais l’arbre reste peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Santal](https://upload.wikimedia.org/wikipedia/commons/7/7d/Santhali_Dance.jpg)
 
 ###### Questions

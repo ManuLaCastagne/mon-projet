@@ -20,8 +20,9 @@ indice_6 :
   - diffusion européenne
 questions:
  - Quelle chaîne de télévision, opérationnelle depuis 1992, est issue...
+culture_g_score: 88
+culture_g_justification: "Chaîne franco-allemande incontournable, ouvrant sur la télévision, la culture européenne, les documentaires et les relations franco-allemandes."
 ---
-
 ![Image de Arte](https://upload.wikimedia.org/wikipedia/commons/8/82/ARTE_%28Association_Relative_%C3%A0_la_T%C3%A9l%C3%A9vision_Europ%C3%A9enne%29_-_panoramio.jpg)
 
 ###### Questions

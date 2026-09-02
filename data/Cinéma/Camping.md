@@ -22,8 +22,9 @@ indice_6 :
   - comédie française
 questions:
  - Dans quelle série de films, lancée en 2006, Franck Dubosc incarne-t-il Patrick Chirac ?
+culture_g_score: 73
+culture_g_justification: "Comédie française à grand succès, régulièrement questionnée via Patrick Chirac, Franck Dubosc, le camping et ses nombreuses entrées en salles."
 ---
-
 ![Image de Camping](https://upload.wikimedia.org/wikipedia/commons/7/79/Camping_moments.jpg)
 
 ###### Questions

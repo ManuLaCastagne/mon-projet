@@ -21,8 +21,9 @@ indice_5 :
   - Vallée de Frome
 indice_6 : 
   - Cheese and Grain
+culture_g_score: 20
+culture_g_justification: "Petite ville anglaise sans forte portée historique ou culturelle dans les quiz généralistes."
 ---
-
 ![[Carte_Frome.png]]
 
 ###### Questions

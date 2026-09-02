@@ -20,8 +20,9 @@ indice_6 :
   - Suisse
 questions:
  - En 2000, quel joueur de tennis français, au prénom composé qui remporte le tournoi junior de Roland-Garros en 2000 ?
+culture_g_score: 40
+culture_g_justification: "Tennisman français identifiable, mais son palmarès offre peu de repères véritablement incontournables."
 ---
-
 ![Image de Paul-Henri Mathieu](https://upload.wikimedia.org/wikipedia/commons/d/d1/Paul-Henri_Mathieu_%2814421402604%29.jpg)
 
 ###### Questions

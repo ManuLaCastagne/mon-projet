@@ -23,8 +23,9 @@ indice_6 :
   - Rejet des conventions du réalisme et de l'impressionnisme
 questions:
  - En art, quel style pictural baptisé par Louis Vosselle, exalte les couleurs vives et rejette le réalisme ?
+culture_g_score: 80
+culture_g_justification: "Le fauvisme est un mouvement classique, facile à relier à Matisse, Derain, la couleur pure et le Salon d'Automne."
 ---
-
 ![Image de Fauvisme](https://upload.wikimedia.org/wikipedia/commons/d/df/LL-Q150_%28fra%29-WikiLucas00-fauvisme.wav)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - élue Miss Solitude 2004
 questions:
  - Un père y confesse son inexpérience en matière de mots tendres...
+culture_g_score: 20
+culture_g_justification: "Album des L5 peu connu et offrant très peu d’angles indépendants en dehors d’une question discographique précise."
 ---
-
 ![Image de Laura](https://upload.wikimedia.org/wikipedia/commons/3/3b/Laura_Lobo.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - collection d'art
 questions:
  - Dans quel grand tableau de 1533 Hanz Holbein peint-il un crâne déformé entre deux hommes debout ?
+culture_g_score: 64
+culture_g_justification: "Tableau majeur de la Renaissance, régulièrement associé à Holbein et à l’anamorphose, mais ses angles de quiz restent surtout artistiques."
 ---
-
 ![Image de Ambassadeurs](https://upload.wikimedia.org/wikipedia/commons/c/cb/Fontaine_des_Ambassadeurs_Paris_8e_004.jpg)
 
 ###### Questions

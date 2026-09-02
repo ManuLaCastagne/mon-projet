@@ -22,8 +22,9 @@ indice_6 :
   - album vendu à des millions d'exemplaires
 questions:
  - Reprise en play-back par Marion Cotillard dans le film "Rock'n'roll" de Guillaume Canet, je suis une chanson d'amour comprenant les paroles  "J'irai chercher ton âme, dans les froids dans les flammes, je te jetterai des sorts". Succès de Céline...
+culture_g_score: 73
+culture_g_justification: "Tube francophone majeur de Céline Dion, régulièrement mobilisé via son interprète, son auteur, son album et son succès international."
 ---
-
 ![Image de Pour que tu m'aimes encore](https://upload.wikimedia.org/wikipedia/commons/6/6e/M%C3%A9moires_secrets_d%E2%80%99un_tailleur_pour_dames%2C_1880.djvu)
 
 ###### Questions

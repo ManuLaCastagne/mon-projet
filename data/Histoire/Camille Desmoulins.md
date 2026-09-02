@@ -20,9 +20,9 @@ indice_6 :
   - Discours de la Lanterne aux Parisiens
 questions:
  - Je m'éloigne ensuite de Robespierre et de sa politique de terreur.  Exposant mes idées dans le journal "Le Vieux Cordelier", je suis jugé avec Danton puis exécuté, comme beaucoup à cette époque, en 1794.
+culture_g_score: 72
+culture_g_justification: "Acteur de la Révolution française relié à la prise de la Bastille, au journalisme, à Danton et à la Terreur."
 ---
-
-
 ![Image de Camille Desmoulins](https://upload.wikimedia.org/wikipedia/commons/3/35/Camille_Desmoulins-1.jpg)
 
 ###### Questions

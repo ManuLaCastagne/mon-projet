@@ -20,8 +20,9 @@ indice_6 :
   - impeachment
 questions:
  - Elu attorney general en 1976, puis gouverneur de l'Arkansas à 4 reprises, j'ai été nommé émissaire spécial de l'Histoire/ONU pour Haïti en 2009.  Homme politique américain démocrate, époux de...
+culture_g_score: 71
+culture_g_justification: "Président américain très connu, exploitable via la politique américaine, les scandales, la diplomatie et la culture populaire, sans être un marronnier absolu."
 ---
-
 ![Image de Bill Clinton](https://upload.wikimedia.org/wikipedia/commons/d/d3/Bill_Clinton.jpg)
 
 ###### Questions

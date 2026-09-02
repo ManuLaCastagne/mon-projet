@@ -20,9 +20,9 @@ indice_5:
   - Oscar
 indice_6:
   - Actrice galloise
+culture_g_score: 64
+culture_g_justification: "Actrice internationale souvent associée à Zorro, Chicago et Michael Douglas, mais moins incontournable que les grandes figures du cinéma."
 ---
-
-
 ![Image de Catherine Zeta-Jones](https://upload.wikimedia.org/wikipedia/commons/1/10/Catherine_Zeta_Jones_Signature.png)
 
 ###### Questions

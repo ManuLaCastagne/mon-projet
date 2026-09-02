@@ -22,8 +22,9 @@ indice_6 :
   - caricaturiste
 questions:
  - Quel dessinateur de presse français, né à Tunis, était le scénariste de la BD "Paulette" ?
+culture_g_score: 64
+culture_g_justification: "Dessinateur emblématique de Charlie Hebdo et victime des attentats de 2015, souvent questionné dans le contexte de la satire française."
 ---
-
 ![Image de Wolinski](https://upload.wikimedia.org/wikipedia/commons/a/a7/Salon_du_livre_de_Paris_2011_-_Georges_Wolinski_-_007.JPG)
 
 ###### Questions

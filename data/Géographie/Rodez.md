@@ -21,8 +21,9 @@ indice_5 :
   - Village d'Espalion
 indice_6 : 
   - Viaduc de Millau
+culture_g_score: 52
+culture_g_justification: "Préfecture de l’Aveyron connue notamment pour le musée Soulages, Rodez reste toutefois une ville peu fréquente dans les quiz généralistes."
 ---
-
 ![[Carte_Rodez.png]]
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Beatrix Kiddo
 questions:
  - En 2003, quelle actrice incarne l'héroïne, experte dans le maniement des sabres, de "Kill Bill" ?
+culture_g_score: 76
+culture_g_justification: "Son rôle dans Pulp Fiction, ses collaborations avec Tarantino et sa carrière internationale offrent de nombreuses entrées classiques de quiz."
 ---
-
 ![Image de Uma Thurman](https://upload.wikimedia.org/wikipedia/commons/b/be/Uma_Thurman_2014_%28cropped%29.jpg)
 
 ###### Questions

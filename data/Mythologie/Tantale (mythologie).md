@@ -18,9 +18,9 @@ indice_6:
   - festin d'immortels
 questions:
   - Aux enfers, quel roi de Lydie ou de Phrygie fut condamné à ne pouvoir cueillir les fruits d'un arbre qui pendait au-dessus de sa tête ?
+culture_g_score: 60
+culture_g_justification: "Tantale est une figure mythologique assez classique, surtout rentable grâce à son supplice devenu une expression courante."
 ---
-
-
 ![Image de Tantale](https://upload.wikimedia.org/wikipedia/commons/8/83/Tantalum_single_crystal_and_1cm3_cube.jpg)
 
 ###### Questions

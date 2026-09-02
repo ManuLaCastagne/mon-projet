@@ -18,8 +18,9 @@ indice_5 :
   - Catéchisme romain
 indice_6 : 
   - Réforme du clergé
+culture_g_score: 84
+culture_g_justification: "Événement majeur de la Contre-Réforme, relié aux doctrines catholiques, aux guerres de religion et à l’histoire européenne."
 ---
-
 ![Image de Concile de Trente](https://upload.wikimedia.org/wikipedia/commons/b/b1/Histoire_du_Concile_de_Trente_Fleuron_T136587-2.png)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - Coupe du Monde 2018
 indice_6 : 
   - numéro 7
+culture_g_score: 73
+culture_g_justification: "Footballeur français très célèbre, lié à la Coupe du monde 2018, à l’Euro 2016 et à plusieurs clubs internationaux."
 ---
-
 ![Image de Antoine Griezmann](https://upload.wikimedia.org/wikipedia/commons/d/d2/Antoine_Griezmann_2018.jpg)
 
 ###### Questions

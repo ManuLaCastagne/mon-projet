@@ -20,8 +20,9 @@ indice_6 :
   - Manomètre
 questions:
  - Instrument dont un modèle est basé sur l'élasticité des métaux, je comprends une version anéroïde. Prenant la forme dans ma version analogique d'un boîtier dont le cadran gradué est muni d'une aiguille, je comprenais une colonne...
+culture_g_score: 77
+culture_g_justification: "Instrument classique de physique et de météorologie, souvent associé à Torricelli, Pascal, la pression atmosphérique et les prévisions."
 ---
-
 ![Image de Baromètre](https://upload.wikimedia.org/wikipedia/commons/2/25/Barom%C3%A8tre_-_mairie_d%27Irancy_%28Yonne%29.jpg)
 
 ###### Questions

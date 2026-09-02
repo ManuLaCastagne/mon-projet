@@ -22,8 +22,9 @@ indice_6 :
   - connu pour Nikita
 questions:
  - En 2011, quel réalisateur relate le parcours politique de la femme birmane Aung San Suu Kyi dans "The Lady" ?
+culture_g_score: 80
+culture_g_justification: "Réalisateur et producteur français associé à plusieurs succès populaires, à EuropaCorp et à des films très quizables."
 ---
-
 ![Image de Luc Besson](https://upload.wikimedia.org/wikipedia/commons/8/81/Luc_Besson_by_Gage_Skidmore.jpg)
 
 ###### Questions

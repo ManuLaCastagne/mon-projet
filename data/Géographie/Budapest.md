@@ -22,8 +22,9 @@ indice_5 :
   - Pont des Chaînes
 indice_6 : 
   - Goulasch
+culture_g_score: 88
+culture_g_justification: "Budapest est une grande capitale européenne très rentable grâce à son histoire, au Danube, aux bains, à l’architecture et à la musique."
 ---
-
 ![Image de Budapest](https://upload.wikimedia.org/wikipedia/commons/f/fd/20190502_Widok_na_Budapeszt_z_G%C3%B3ry_Gellerta_1651_2150_DxO.jpg)
 
 ![[Carte_Budapest.png]]

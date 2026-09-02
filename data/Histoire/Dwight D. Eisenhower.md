@@ -18,8 +18,9 @@ indice_5:
   - plan routier interstate
 indice_6:
   - Opération Overlord
+culture_g_score: 100
+culture_g_justification: "Chef du débarquement allié puis président américain, il ouvre de nombreux angles sur la Seconde Guerre mondiale et la guerre froide."
 ---
-
 ![Image de Eisenhower](https://upload.wikimedia.org/wikipedia/commons/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg)
 
 ###### Questions

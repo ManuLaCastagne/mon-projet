@@ -18,8 +18,9 @@ indice_5 :
   - Cabaret
 indice_6 : 
   - Chanson réaliste
+culture_g_score: 60
+culture_g_justification: "Interprète incontournable de Parlez-moi d'amour et de la chanson française ancienne, mais avec une notoriété plus limitée que les grandes vedettes nationales."
 ---
-
 ![Image de Lucienne Boyer](https://upload.wikimedia.org/wikipedia/commons/5/52/Lucienne_Boyer_%281945%29.jpg)
 
 ###### Questions

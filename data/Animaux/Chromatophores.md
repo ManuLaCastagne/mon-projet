@@ -15,8 +15,9 @@ indice_6 :
   - Camouflage dans l'art et la littérature
 questions:
  - Quelles cellules permettent aux céphalopodes de modifier la couleur de leur peau ?
+culture_g_score: 48
+culture_g_justification: "Notion scientifique utile pour comprendre le camouflage animal, mais trop spécialisée pour être très fréquente en quiz généraliste."
 ---
-
 ![Image de Chromatophores](https://upload.wikimedia.org/wikipedia/commons/6/67/Zfishchroma.jpg)
 
 ###### Questions

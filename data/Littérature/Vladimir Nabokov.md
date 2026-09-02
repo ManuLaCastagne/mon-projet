@@ -22,8 +22,9 @@ indice_6 :
   - Ada or Ardor
 questions:
  - Quel est cet écrivain américain décédé à Montreux en 1977 ? J'étais responsable dans les années 40 de la collection de lépidoptères du musée de zoologie comparative...
+culture_g_score: 80
+culture_g_justification: "Auteur de Lolita, également lié à la littérature russe et américaine, à l’entomologie et aux échecs, ce qui multiplie les angles de question."
 ---
-
 ![Image de Vladimir Nabokov](https://upload.wikimedia.org/wikipedia/commons/b/bf/Vladimir_Nabokov_-_Philipp_and_Alexander_Rukavishnikov_-_Montreux_01.jpg)
 
 ###### Questions

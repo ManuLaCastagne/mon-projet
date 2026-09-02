@@ -22,8 +22,9 @@ indice_6 :
   - trahison
 questions:
  - Se voit chargé d'assassiner  Hoederer, chef de la tendance majoritaire accusé de collaboration avec la droite par les minoritaires du parti.  Oeuvre de Jean-Paul Sartre, j'ai été adaptée au cinéma par Fernand Rivers en 1951...
+culture_g_score: 52
+culture_g_justification: "Pièce importante de Sartre, mais nettement moins fréquente et moins immédiatement identifiable que ses œuvres existentialistes les plus célèbres."
 ---
-
 ![Image de Les Mains sales](https://upload.wikimedia.org/wikipedia/commons/0/0f/Recueil._%22Les_mains_sales%22_de_Jean-Paul_Sartre_-_btv1b10525186r_%28033_of_202%29.jpg)
 
 ###### Questions

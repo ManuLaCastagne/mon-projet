@@ -22,9 +22,9 @@ indice_6 :
   - anti-héros
 questions:
  - En 1884, dans quel roman de Huysmans le duc des Esseintes tente-t-il de repousser ses hallucinations olfactives en créant des parfums à rebours ?
+culture_g_score: 60
+culture_g_justification: "Roman-clé du décadentisme, utile pour Huysmans, Dorian Gray et l’histoire des mouvements littéraires, mais relativement spécialisé."
 ---
-
-
 ![Image de À rebours](https://upload.wikimedia.org/wikipedia/commons/8/85/Huysmans_-_A_Rebours%2C_Cr%C3%A8s%2C_1922.djvu)
 
 ###### Questions

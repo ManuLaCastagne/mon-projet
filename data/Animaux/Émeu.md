@@ -13,8 +13,9 @@ indice_5:
   - Oiseau coureur
 indice_6:
   - Souverain des plaines
+culture_g_score: 61
+culture_g_justification: "L’émeu est connu notamment grâce à la guerre des émeus et à son statut d’oiseau australien incapable de voler."
 ---
-
 ![Image de Émeu](https://upload.wikimedia.org/wikipedia/commons/5/57/Dromaius_novaehollandiae_%28head%29_Battersea_Park_Children%27s_Zoo.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Église catholique
 questions:
  - Dans un traité publié en 1543, quel astronome polonais a émis l'hypothèse du mouvement de la Terre et des autres planètes autour du Soleil ?
+culture_g_score: 100
+culture_g_justification: "Figure fondatrice de la révolution scientifique, incontournable pour l’héliocentrisme, la Renaissance, l’astronomie et l’histoire des idées."
 ---
-
 ![Image de Nicolas Copernic](https://upload.wikimedia.org/wikipedia/commons/5/59/Rue_Nicolas_Copernic_-_Tremblay-en-France_%28FR93%29_-_2023-04-07_-_1.jpg)
 
 ###### Questions

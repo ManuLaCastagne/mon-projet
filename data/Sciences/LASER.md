@@ -20,8 +20,9 @@ indice_6 :
   - Monochromatic Light
 questions:
  - On cherche... ce dispositif pouvant être dit photonique. Ma puissance a été multipliée grâce au physicien Gérard Mourou, Nobel 2018. Reposant sur le principe d'émissions stimulées décrit par Einstein en 1917, j'amplifie la lumière et la rassemble en étroits faisceaux où ondes et photons associés se propagent.
+culture_g_score: 81
+culture_g_justification: "Notion technologique et scientifique très classique, également mobilisée en médecine, astronomie, industrie et culture populaire."
 ---
-
 ![Image de LASER](https://upload.wikimedia.org/wikipedia/commons/3/39/Fluorescence_in_calcite.jpg)
 
 ###### Questions

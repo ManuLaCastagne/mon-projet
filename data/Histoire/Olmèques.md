@@ -20,9 +20,9 @@ indice_6 :
   - Têtes colossales
 questions:
  - Peuple de la Mésoamérique dont l'apparition a précédé celle des Mayas...
+culture_g_score: 60
+culture_g_justification: "Civilisation précolombienne célèbre pour ses têtes colossales et son influence mésoaméricaine, mais moins incontournable que les Mayas ou les Aztèques."
 ---
-
-
 ![Image de Olmèques](https://upload.wikimedia.org/wikipedia/commons/7/7b/Olmecas4.png)
 
 ###### Questions

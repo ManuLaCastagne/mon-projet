@@ -20,8 +20,9 @@ indice_6 :
   - Inventions
 questions:
  - Quel physicien et naturaliste, né à La Rochelle en 1683,  qui montra la possibilité de transformer la fonte en acier ?
+culture_g_score: 51
+culture_g_justification: "Savant polyvalent associé à l’échelle Réaumur et à la métallurgie, mais aujourd’hui relativement périphérique dans les quiz."
 ---
-
 ![Image de Antoine Ferchault de Réaumur](https://upload.wikimedia.org/wikipedia/commons/6/62/Ren%C3%A9-Antoine_Ferchault_de_R%C3%A9aumur._Line_engraving_by_P._Simm_Wellcome_V0004955.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - recueil de poèmes
 indice_6 : 
   - évolution de l'humanité
+culture_g_score: 84
+culture_g_justification: "Grande œuvre poétique de Victor Hugo, elle fournit des repères solides sur la poésie, l’histoire, le progrès et la littérature française."
 ---
-
 ![Image de La Légende des Siècles](https://upload.wikimedia.org/wikipedia/commons/a/a4/La_L%C3%A9gende_des_si%C3%A8cles.jpg)
 
 ###### Questions

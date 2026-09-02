@@ -22,8 +22,9 @@ indice_6 :
   - décédé en 2021
 questions:
  - Quel musicien est depuis 1963, pour le plaisir, vous l'avez en plus, le batteur des Rolling Stones?
+culture_g_score: 76
+culture_g_justification: "Membre durable des Rolling Stones, régulièrement interrogé via le groupe, la batterie et son intérêt pour le jazz, avec une portée individuelle plus limitée."
 ---
-
 ![Image de Charlie Watts](https://upload.wikimedia.org/wikipedia/commons/d/df/Charlie_watts_en_1975.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - noir et blanc
 questions:
  - A partir de 1955, quelle émission télévisée humoristique est présentée notamment par Robert Rocca et Jacques Grello?
+culture_g_score: 20
+culture_g_justification: "Ancienne émission de télévision très peu connue, susceptible d'apparaître seulement dans des questions spécialisées sur les programmes historiques."
 ---
-
 ![Image de La Boîte à sel](https://upload.wikimedia.org/wikipedia/commons/0/0a/Cit%C3%A9_du_Train_-_plaque_de_constructeur_de_la_E_1_Bo%C3%AEte_%C3%A0_Sel_-_18_d%C3%A9cembre_2024.JPG)
 
 ###### Questions

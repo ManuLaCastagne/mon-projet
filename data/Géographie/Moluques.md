@@ -24,9 +24,9 @@ indice_6:
   - archipel
 questions:
   - Quel archipel d'Indonésie, abritant notamment les îles d'Halmahera et d'Amboine, porte en indonésien le nom de Maluku?
+culture_g_score: 52
+culture_g_justification: "Archipel classique de l’histoire des épices et des rivalités coloniales, mais peu fréquent hors de ces thèmes."
 ---
-
-
 ![[Carte_Moluques.png]]
 ###### Questions
 

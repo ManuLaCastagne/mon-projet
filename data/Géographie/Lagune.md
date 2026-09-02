@@ -24,8 +24,9 @@ indice_6 :
   - Écosystème fragile
 questions:
  - En géographie, quel nom, associé à la ville de Venise, désigne...
+culture_g_score: 64
+culture_g_justification: "Notion géographique applicable à Venise, aux littoraux, aux récifs et aux écosystèmes, la lagune possède un bon rendement conceptuel."
 ---
-
 ![Image de Lagune](https://upload.wikimedia.org/wikipedia/commons/9/91/Front_view_of_a_wooden_footbridge_over_a_lagoon%2C_trees_and_mountains_in_Vang_Vieng%2C_Laos.jpg)
 
 ![[Carte_Lagune.png]]

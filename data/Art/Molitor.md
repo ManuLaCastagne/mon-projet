@@ -23,10 +23,9 @@ indice_6 :
   - fresques
 questions:
  - Quelle piscine du 16e arrondissement de Paris inaugurée, disait la question, en 1929 par Johnny Weissmuller, célèbre pour son style Art déco ?
+culture_g_score: 47
+culture_g_justification: "Molitor est un lieu parisien célèbre pour sa piscine et son architecture, mais il offre peu d'usages récurrents en culture générale."
 ---
-
-
-
 ![Image de Molitor](https://upload.wikimedia.org/wikipedia/commons/c/c1/Piscine_Molitor%2C_Paris%2C_France.jpg)
 
 ###### Questions

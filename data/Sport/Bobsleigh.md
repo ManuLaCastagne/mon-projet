@@ -20,8 +20,9 @@ indice_6:
   - Coupe du monde de bobsleigh
 questions:
   - Lorsqu'il est pratiqué à 2, avec un pilote et un freineur, pour quel sport de...
+culture_g_score: 64
+culture_g_justification: "Sport olympique d'hiver très reconnaissable, mais dont les questions restent principalement descriptives et historiques."
 ---
-
 ![Image de Bobsleigh](https://upload.wikimedia.org/wikipedia/commons/b/bc/Bobsleigh_Nigloland.JPG)
 
 ###### Questions

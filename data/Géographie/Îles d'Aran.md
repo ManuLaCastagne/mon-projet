@@ -24,11 +24,9 @@ indice_6 :
   - vestiges celtiques
 questions:
  - Quel archipel d'Irlande est formé des îles d'Inis Mor, Inis Meain et Inis Oirr ?
+culture_g_score: 43
+culture_g_justification: "Archipel irlandais intéressant pour la culture gaélique, les forts préhistoriques et l’artisanat, mais peu incontournable."
 ---
-
-
-
-
 ![Image de Îles d'Aran](https://upload.wikimedia.org/wikipedia/commons/d/d3/Aran_Islands_locator.svg)
 
 ![[Carte_Îles d'Aran.png]]

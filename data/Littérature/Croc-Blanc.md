@@ -22,8 +22,9 @@ indice_6 :
   - adaptation à la vie humaine
 questions:
  - En 1905, quel roman de Jack London raconte...
+culture_g_score: 80
+culture_g_justification: "Classique très connu de Jack London, exploitable en littérature jeunesse, aventure, nature, Yukon et adaptations audiovisuelles."
 ---
-
 ![Image de Croc-Blanc](https://upload.wikimedia.org/wikipedia/commons/5/50/London_-_Croc-Blanc%2C_1923.djvu)
 
 ###### Questions

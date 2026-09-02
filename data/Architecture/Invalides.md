@@ -21,8 +21,9 @@ indice_5:
   - Paris
 indice_6:
   - Vauban
+culture_g_score: 100
+culture_g_justification: "Les Invalides cumulent Napoléon, l’histoire militaire, l’architecture parisienne, les institutions et plusieurs repères majeurs de culture générale."
 ---
-
 ![Image de Invalides](https://upload.wikimedia.org/wikipedia/commons/9/94/H%C3%B4tel_des_Invalides_-_20150801_16h09_%2810630%29.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - adaptations modernes des histoires de Sir Arthur Conan Doyle
 questions:
  - Série britannique lancée en 2010 et comptant 4 saisons, j'ai été créé par Steven Moffat et Mark Gatiss, qui ont adapté une oeuvre célèbre et l'ont transposée du Télévision/XIXe à l'époque actuelle. Alternant plans rapides et séquences plus longues, je mets en scène un ancien médecin militaire et un détective arrogant et hypermnésique, joués par Martin Freeman et Benedict Cumberbatch.
+culture_g_score: 80
+culture_g_justification: "Série britannique très reconnue, exploitable par ses personnages, ses acteurs, ses créateurs, son univers littéraire et son succès international."
 ---
-
-
 ![Image de Sherlock (série)](https://upload.wikimedia.org/wikipedia/commons/0/0f/Benedict_Cumberbatch_filming_Sherlock_cropped2.jpg)
 
 ###### Questions

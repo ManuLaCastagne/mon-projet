@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Italie
+culture_g_score: 48
+culture_g_justification: "Famille de fromages italiens assez connue, mais nettement moins incontournable que le parmesan."
 ---
 ###### Questions 
 

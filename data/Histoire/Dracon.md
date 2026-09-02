@@ -20,9 +20,9 @@ indice_6 :
   - code de lois
 questions:
  - Quel législateur athénien rédigea vers 621 avant notre ère un code des lois resté célèbre pour la rigueur des pénalités?
+culture_g_score: 60
+culture_g_justification: "Législateur antique associé à l’origine du terme « draconien », classique dans les questions sur Athènes et l’histoire du droit."
 ---
-
-
 ![Image de Dracon](https://upload.wikimedia.org/wikipedia/commons/5/5b/Dodona_dracon_395.png)
 
 ###### Questions

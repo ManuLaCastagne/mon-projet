@@ -20,7 +20,8 @@ indice_6 :
   - Bénédiction des automobiles
 questions:
  - Selon la légende, quel saint, fêté le 21 août, aurait porté l'Enfant Jésus sur ses épaules pour l'aider à traverser une rivière ?
-culture_g_score: 64
+culture_g_score: 60
+culture_g_justification: "Saint très identifiable grâce à sa légende et à son patronage des voyageurs, mais d’importance historique limitée."
 ---
 ![Image de Saint-Christophe](https://upload.wikimedia.org/wikipedia/commons/6/6a/Panor_st_christophe.tiff)
 

@@ -22,9 +22,9 @@ indice_6 :
   - jeunesse parisienne
 questions:
  - En 2007, quel groupe français est révélé par un 1er album intitulé "Blonde comme moi"?
+culture_g_score: 44
+culture_g_justification: "BB Brunes est un groupe français identifiable de la scène rock des années 2000, mais à la portée quiz relativement limitée."
 ---
-
-
 ![Image de BB Brunes](https://upload.wikimedia.org/wikipedia/commons/a/ad/BB_Brunes_-_Terre-Neuvas_2007.jpg)
 
 ###### Questions

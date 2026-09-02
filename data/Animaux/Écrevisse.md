@@ -13,8 +13,9 @@ indice_5:
   - Écrevisse à pieds rouges
 indice_6:
   - Symbole de résilience dans le folklore
+culture_g_score: 44
+culture_g_justification: "La forme et les usages culinaires de l’écrevisse sont connus, mais le sujet demeure assez périphérique en quiz."
 ---
-
 ![Image de Écrevisse](https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - Jutland
 questions:
  - Fondée au XIIe siècle par l'évêque Absalon, je suis située sur la côte orientale de l'île de Sjaelland sur la Baltique. Ville portuaire, dont la statue de la Petite Sirène constitue le symbole...
+culture_g_score: 80
+culture_g_justification: "Capitale européenne rentable grâce à la Petite Sirène, au Danemark, à son histoire, à son urbanisme et à ses institutions."
 ---
-
-
 ![Image de Copenhague](https://upload.wikimedia.org/wikipedia/commons/1/19/Cityscape_and_skyline_by_the_Copenhagen_Lakes%2C_Denmark_-_%2836018109956%29.jpg)
 
 ![[Carte_Copenhague.png]]

@@ -23,8 +23,9 @@ indice_6 :
   - quartier de la Bastille
 questions:
  - Quel théâtre lyrique parisien, créé par Carlos Ott, est accessible par un large escalier enjambé par un portique revêtu de marbre gris ?
+culture_g_score: 64
+culture_g_justification: "L’Opéra Bastille est un repère culturel parisien associé à l’architecture contemporaine, à l’opéra et au bicentenaire de 1989."
 ---
-
 ![Image de Opéra Bastille](https://upload.wikimedia.org/wikipedia/commons/c/c6/Side_View_of_the_Op%C3%A9ra_Bastille.jpg)
 
 ###### Questions

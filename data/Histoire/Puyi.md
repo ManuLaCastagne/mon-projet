@@ -20,8 +20,9 @@ indice_6 :
   - emprisonné après la Seconde Guerre mondiale
 questions:
  - Quel enfant, devenu empereur en 1908 à l'âge de 3 ans, a occupé le pouvoir en Chine jusqu'à la proclamation de la république, en 1912 ?
+culture_g_score: 80
+culture_g_justification: "Dernier empereur de Chine, il relie la fin de l’empire, la révolution chinoise, le Mandchoukouo et le cinéma."
 ---
-
 ![Image de Puyi](https://upload.wikimedia.org/wikipedia/commons/1/18/Emperor_puyi_relaxing.png)
 
 ###### Questions

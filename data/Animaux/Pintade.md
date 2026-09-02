@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fertilité
 questions:
  - Quel oiseau de basse-cour originaire d'Afrique, dont le nom d'origine portugaise signifie tachetée, possède un plumage sombre semé de tâches claires ?
+culture_g_score: 44
+culture_g_justification: "Volaille connue dans la gastronomie française, avec une présence limitée dans les quiz au-delà de l’élevage."
 ---
-
 ![Image de Pintade](https://upload.wikimedia.org/wikipedia/commons/7/76/Helmeted_guineafowl_%28Numida_meleagris_damarensis%29_head.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Continuum
 questions:
  - Quel mathématicien allemand, créateur avec Dedekind de la théorie des ensembles a dit  "l'essence des mathématiques, c'est la liberté!"?
+culture_g_score: 68
+culture_g_justification: "Fondateur de la théorie des ensembles, utile pour des questions sur l’infini et les fondements des mathématiques malgré une notoriété limitée."
 ---
-
 ![Image de Georg Cantor](https://upload.wikimedia.org/wikipedia/commons/e/e7/Georg_Cantor2.jpg)
 
 ###### Questions

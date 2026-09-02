@@ -20,9 +20,9 @@ indice_6:
   - chat noir
 questions:
   - En 1863, dans quel tableau Edouard Manet peint-il une femme nue allongée sur un lit, au côté d'une servante qui lui apporte des fleurs?
+culture_g_score: 97
+culture_g_justification: "Olympia est un tableau incontournable de Manet, central pour le scandale du Salon, la modernité picturale, le nu et l'histoire de l'art."
 ---
-
-
 ![Image de Olympia (peinture)](https://upload.wikimedia.org/wikipedia/commons/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg)
 
 ###### Questions

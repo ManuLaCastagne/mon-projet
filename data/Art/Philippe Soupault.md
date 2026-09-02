@@ -21,8 +21,9 @@ indice_5 :
   - collaboration avec André Breton
 indice_6 : 
   - influence dadaïste
+culture_g_score: 51
+culture_g_justification: "Soupault est important pour la naissance du surréalisme et l'écriture automatique, mais reste nettement moins connu que Breton ou Aragon."
 ---
-
 ![Image de Philippe Soupault](https://upload.wikimedia.org/wikipedia/commons/5/56/Robert_Delaunay_-_le_po%C3%A8te_Philippe_Soupault.jpg)
 
 ###### Questions

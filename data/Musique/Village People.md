@@ -22,8 +22,9 @@ indice_6 :
   - Macho Man
 questions:
  - Quel groupe de disco est célèbre pour avoir interprété les tubes "Macho Man", "YMCA" et "In the Navy", entre 77 et 80?
+culture_g_score: 76
+culture_g_justification: "Groupe disco mondialement reconnaissable grâce à YMCA, aux costumes, à la danse et à son iconographie culturelle."
 ---
-
 ![Image de Village People](https://upload.wikimedia.org/wikipedia/commons/9/9d/Village_People%27s_%22San_Francisco%22_music_video_behind_the_scenes.jpg)
 
 ###### Questions

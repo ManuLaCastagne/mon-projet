@@ -22,8 +22,9 @@ indice_6:
   - interprète emblématique d'une voix poignante
 questions:
   - Durant l'hiver 1967, avec quelle reprise d'une chanson de Berthe Silva le groupe "Les Sunlights" connait-il le succès ?
+culture_g_score: 40
+culture_g_justification: "Chanson patrimoniale de Berthe Sylva, identifiable dans des quiz sur la chanson française ancienne mais peu réutilisable au-delà de ce cadre."
 ---
-
 ![Image de Roses blanches](https://upload.wikimedia.org/wikipedia/commons/3/3d/Roses_blanches_-_Henri_Fantin-Latour.jpg)
 
 ###### Questions

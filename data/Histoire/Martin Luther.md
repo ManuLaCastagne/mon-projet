@@ -18,8 +18,9 @@ indice_5 :
   - traduction de la Bible en allemand
 indice_6 : 
   - excommunication par l'Église catholique
+culture_g_score: 100
+culture_g_justification: "Père de la Réforme protestante, il est incontournable pour l’histoire religieuse, politique, européenne, linguistique et intellectuelle."
 ---
-
 ![Image de Martin Luther](https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg)
 
 ###### Questions

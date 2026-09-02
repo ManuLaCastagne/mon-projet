@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale et symbolique pour ne pas oublier un être cher
 questions:
  - Quelle plante herbacée, aux petites fleurs souvent bleues à maturité, est également appelée ne-m'oubliez-pas...
+culture_g_score: 64
+culture_g_justification: "La fleur bleue associée à « ne m'oubliez pas » est une référence assez classique, avec des angles symboliques et botaniques."
 ---
-
 ![Image de Myosotis](https://upload.wikimedia.org/wikipedia/commons/0/06/Forget_me_not.jpg)
 
 ###### Questions

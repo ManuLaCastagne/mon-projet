@@ -20,7 +20,8 @@ indice_5 :
   - 29 médailles pour la Grande-Bretagne
 indice_6 : 
   - Michael Phelps record de médailles
-culture_g_score: 83
+culture_g_score: 80
+culture_g_justification: "Édition très connue grâce à Bolt, aux innovations et aux évolutions de la participation féminine et des disciplines."
 ---
 ![Image de Londres 2012](https://upload.wikimedia.org/wikipedia/commons/3/3c/London_2012_Paralympic_Games_torch_relay.jpg)
 

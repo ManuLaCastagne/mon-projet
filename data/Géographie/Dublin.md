@@ -24,8 +24,9 @@ indice_6 :
   - Guinness
 questions:
  - Au bord de la Liffey, je suis réputée pour mes pubs et mes promenades littéraires qui suivent le parcours du héros d'"Ulysse" de James Joyce.
+culture_g_score: 80
+culture_g_justification: "Capitale européenne classique, Dublin est interrogée via l’Irlande, les Vikings, la littérature, la musique, la culture et la géographie."
 ---
-
 ![Image de Dublin](https://upload.wikimedia.org/wikipedia/commons/4/49/Dublin_Stephen%27s_Green-44_edit.jpg)
 
 ![[Carte_Dublin.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - Dijon
 questions:
  - Quel compositeur met en musique une succession de tableaux exotiques dédiés à l'amour dans "Les Indes Galantes" ?
+culture_g_score: 80
+culture_g_justification: "Compositeur et théoricien majeur du baroque français, exploitable par ses opéras, ses écrits et la querelle des Bouffons."
 ---
-
 ![Image de Jean-Philippe Rameau](https://upload.wikimedia.org/wikipedia/commons/9/98/Attribu%C3%A9_%C3%A0_Joseph_Aved%2C_Portrait_de_Jean-Philippe_Rameau_%28vers_1728%29_-_001.jpg)
 
 ###### Questions

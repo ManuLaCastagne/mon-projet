@@ -15,9 +15,9 @@ indice_6 :
   - Pumbaa (Le Roi Lion)
 questions:
  - Mesurant environ 80 cm au garrot, j'aime me rouler dans la boue et la poussière et me nourris de graminées, de tubercules et de racines. Suidé voisin du sanglier..
+culture_g_score: 64
+culture_g_justification: "Animal fortement mémorisé grâce au Roi Lion, également exploitable en zoologie et en culture africaine."
 ---
-
-
 ![Image de Phacochère](https://upload.wikimedia.org/wikipedia/commons/c/c2/Warthogs_%28Phacochoerus_africanus%29_young_males_eyeballing.jpg)
 
 ###### Questions

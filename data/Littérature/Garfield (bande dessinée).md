@@ -22,8 +22,9 @@ indice_6 :
   - 19 juin 1978
 questions:
  - Animal de bande dessinée apparu en juin 78 dans la presse américaine, mes aventures paraissent en France un an plus tard dans "Nous deux". Créé par Jim Davis...
+culture_g_score: 84
+culture_g_justification: "Personnage de bande dessinée mondialement célèbre, exploitable via son auteur, ses traits caractéristiques, ses adaptations et ses records de diffusion."
 ---
-
 ![Image de Garfield (bande dessinée)](https://upload.wikimedia.org/wikipedia/commons/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg)
 
 ###### Questions

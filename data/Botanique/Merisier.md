@@ -15,7 +15,8 @@ indice_6 :
   - Fabrication de meubles et ébénisterie
 questions:
  - Quel arbre fruitier est également appelé "guignier sauvage" le feuillage se teinte de rouge à l'automne ?
-culture_g_score: 44
+culture_g_score: 40
+culture_g_justification: "Arbre fruitier et forestier utile pour distinguer la merise de la cerise cultivée, mais de portée limitée."
 ---
 ![Image de Merisier](https://upload.wikimedia.org/wikipedia/commons/1/11/Betula_alleghaniensis_000_2333_3466.jpg)
 

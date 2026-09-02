@@ -22,8 +22,9 @@ indice_6 :
   - 1914
 questions:
  - Dans quel roman d'André Gide Amédée Fleurissoir est venu au secours du pape et loge dans un hôtel louche au centre de Rome ?
+culture_g_score: 60
+culture_g_justification: "Roman important d’André Gide, notamment pour l’acte gratuit et le prix Nobel de son auteur, mais assez spécialisé."
 ---
-
 ![Image de Les Caves du Vatican](https://upload.wikimedia.org/wikipedia/commons/2/2d/Recueil.%22Les_caves_du_vatican%22_par_Jean_Meyer_d%27apr%C3%A8s_Andr%C3%A9_Gide_-_btv1b10535043p_%28080_of_109%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - Lucy
 indice_6 : 
   - Match Point
+culture_g_score: 80
+culture_g_justification: "Vedette internationale associée à Marvel, Woody Allen et de nombreux succès populaires, avec une forte présence dans les quiz contemporains."
 ---
-
 ![Image de Scarlett Johansson](https://upload.wikimedia.org/wikipedia/commons/5/57/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29_%28cropped%29.jpg)
 
 ###### Questions

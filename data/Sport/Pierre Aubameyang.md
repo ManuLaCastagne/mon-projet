@@ -20,8 +20,9 @@ indice_6 :
   - Transfert
 questions:
  - Quel attaquant gabonais d'Arsenal est le fils d'un ancien professionnel ayant notamment joué à Laval et au Havre?
+culture_g_score: 20
+culture_g_justification: "Ancien footballeur gabonais principalement connu par sa parenté avec Pierre-Emerick Aubameyang, donc très peu rentable isolément."
 ---
-
 ![Image de Pierre Aubameyang](https://upload.wikimedia.org/wikipedia/commons/f/f2/Pierre_Emerick_Aubameyang_2014.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Slalom géant
 questions:
  - En 1968 quel skieur français a remporté 3 médailles d'or à Grenoble ?
+culture_g_score: 80
+culture_g_justification: "Triple champion olympique à Grenoble puis responsable d’Albertville 1992, Killy est une figure majeure et très exploitable du sport français."
 ---
-
-
 ![Image de Jean-Claude Killy](https://upload.wikimedia.org/wikipedia/commons/0/08/1968_Killy%2C_Jean-Claude%2C_Porsche_911_Vortraining.jpg)
 
 ###### Questions

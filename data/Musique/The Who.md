@@ -22,8 +22,9 @@ indice_6 :
   - rock des années 60
 questions:
  - En 1965, quel groupe de rock britannique interprète le titre "My generation" ?
+culture_g_score: 80
+culture_g_justification: "Groupe majeur du rock britannique, exploitable par «Tommy», Woodstock, ses performances scéniques et ses membres emblématiques."
 ---
-
 ![Image de The Who](https://upload.wikimedia.org/wikipedia/commons/6/60/World_Health_Organisation_headquarters%2C_Geneva%2C_north_and_west_sides_2007.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - renonciation au trône de France
 indice_6 : 
   - traité d'Utrecht
+culture_g_score: 64
+culture_g_justification: "Premier Bourbon d’Espagne, utile pour la guerre de Succession et les relations entre monarchies française et espagnole, mais assez spécialisé."
 ---
-
 ![Image de Philippe V d'Espagne](https://upload.wikimedia.org/wikipedia/commons/a/ae/Recueil._Portraits_du_cardinal_Jules_Alberoni%2C_ministre_de_Philippe_V_d%27Espagne_-_btv1b8528029t_%2802_of_20%29.jpg)
 
 ###### Questions

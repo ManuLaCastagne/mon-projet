@@ -23,8 +23,9 @@ indice_6 :
   - L'Avare
 questions:
  - En 1976, dans "Le Juge et l'Assassin" de Bertrand Tavernier...
+culture_g_score: 84
+culture_g_justification: "Acteur très populaire en France, mémorable par Les Gendarmes, La Cage aux folles et une carrière extrêmement prolifique."
 ---
-
 ![Image de Michel Galabru](https://upload.wikimedia.org/wikipedia/commons/e/eb/Michel_Galabru.jpg)
 
 ###### Questions

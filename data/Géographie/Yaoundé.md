@@ -22,9 +22,9 @@ indice_5 :
   - sept collines
 indice_6 : 
   - siège des institutions administratives
+culture_g_score: 60
+culture_g_justification: "Capitale du Cameroun utile pour la géographie africaine, la francophonie et l’histoire politique régionale, mais relativement spécialisée."
 ---
-
-
 ![Image de Yaoundé](https://upload.wikimedia.org/wikipedia/commons/1/10/Yaound%C3%A9_1.jpg)
 
 ![[Carte_Yaoundé.png]]

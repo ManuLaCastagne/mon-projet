@@ -13,8 +13,9 @@ indice_5:
   - Arbre de feu
 indice_6:
   - Utilisé pour l'ornementation dans les jardins tropicaux
+culture_g_score: 44
+culture_g_justification: "Arbre tropical spectaculaire et associé à Madagascar, mais généralement limité à une question d'identification."
 ---
-
 ![Image de Flamboyant](https://upload.wikimedia.org/wikipedia/commons/d/d6/Flame_tree_mali.jpg)
 
 ###### Questions

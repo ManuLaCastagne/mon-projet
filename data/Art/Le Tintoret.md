@@ -23,9 +23,9 @@ indice_6 :
   - La Dernière Cène
 questions:
  - J'ai peint de nombreuses oeuvres religieuses dont "Le Martyre de sainte Catherine" et "Le Paradis", réalisées pour le Palais des Doges. Peintre vénitien devant mon surnom à la profession de teinturier...
+culture_g_score: 71
+culture_g_justification: "Peintre important de l’école vénitienne, utile pour la Renaissance, la Scuola di San Rocco et les innovations de composition et de lumière."
 ---
-
-
 ![Image de Le Tintoret](https://upload.wikimedia.org/wikipedia/commons/5/5e/Bemberg_Fondation_Toulouse_-_La_Pr%C3%A9sentation_au_Temple_-_Le_Tintoret_Inv.1051.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Les Nabis
 questions:
  - En 1888, à quel peintre français ayant constitué avec Maurice Denis le groupe des Nabi doit-on la toile "Le Talisman" ?
+culture_g_score: 64
+culture_g_justification: "Sérusier est un repère utile pour le mouvement nabi, Gauguin, Le Talisman et l'évolution de la peinture française moderne."
 ---
-
 ![Image de Paul Sérusier](https://upload.wikimedia.org/wikipedia/commons/c/ce/%28Albi%29_Pommes_et_%C3%A9cuelle_bleu_%281922%29_-_Paul_S%C3%A9rusier_MTL.inv.393.jpg)
 
 ###### Questions

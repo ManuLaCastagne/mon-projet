@@ -22,8 +22,9 @@ indice_6 :
   - rêve
 questions:
  - En 1945, quel film de Marcel Carné, avec Arletty, débute dans le Paris de la 1re moitié du Culture_G/XIXe siècle, boulevard du Temple?
+culture_g_score: 40
+culture_g_justification: "Série télévisée connue d'une génération mais aujourd'hui secondaire, offrant surtout des questions de titre et de casting."
 ---
-
 ![Image de Route du paradis](https://upload.wikimedia.org/wikipedia/commons/2/2f/L03_567_Route_du_Grand-Paradis%2C_Vi%C3%A8ze-Br%C3%BCcke.jpg)
 
 ###### Questions

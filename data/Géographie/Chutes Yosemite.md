@@ -24,8 +24,9 @@ indice_6 :
   - Granite
 questions:
  - Aux Etats-Unis, quelles chutes, alimentées par les glaciers de la Sierra Nevada, doivent leur nom au parc national de Californie où elles sont situées?
+culture_g_score: 68
+culture_g_justification: "Site naturel emblématique des États-Unis, régulièrement associé au parc de Yosemite et à Ansel Adams, mais avec des angles assez concentrés."
 ---
-
 ![Image de Chutes Yosemite](https://upload.wikimedia.org/wikipedia/commons/2/2f/Yosemite_Falls_from_trail%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg)
 
 ###### Questions

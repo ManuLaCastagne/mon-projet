@@ -20,8 +20,9 @@ indice_6 :
   - Blake et Krystle
 questions:
  - Série diffusée sur FR3 dès 1983, j'étais en 1985 le programme le plus regardé aux Etats-Unis  et j'ai fait l'objet d'une suite en 2017. Me déroulant à Denver, je mets en scène une famille ayant fait fortune dans le pétrole et composée notamment de Blake...
+culture_g_score: 76
+culture_g_justification: "Feuilleton emblématique des années 1980, régulièrement interrogé via ses familles, ses acteurs, ses intrigues et son esthétique."
 ---
-
 ![Image de Dynasty](https://upload.wikimedia.org/wikipedia/commons/d/d9/Chanda_name_plate.jpg)
 
 ###### Questions

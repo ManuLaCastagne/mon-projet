@@ -20,8 +20,9 @@ indice_6 :
   - Skieur de fond
 questions:
  - Quel skieur de fond norvégien a remporté un total de 12 médailles lors des JO d'hiver entre 92 et 98 ?
+culture_g_score: 60
+culture_g_justification: "L'un des grands champions du ski de fond olympique, mais sujet essentiellement limité à cette discipline."
 ---
-
 ![Image de Bjorn Daehlie](https://upload.wikimedia.org/wikipedia/commons/9/9c/Bj%C3%B8rn_D%C3%A6hlie_%28NOR%29_2011.jpg)
 
 ###### Questions

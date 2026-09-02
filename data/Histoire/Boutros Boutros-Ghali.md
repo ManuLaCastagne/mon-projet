@@ -20,9 +20,9 @@ indice_6 :
   - francophonie
 questions:
  - Quel ancien secrétaire général de l'ONU, né en Égypte, a aussi dirigé l'Organisation internationale de la francophonie, de 1998 à 2002 ?
+culture_g_score: 63
+culture_g_justification: "Diplomate important de l’ONU et de la Francophonie, mais dont la place reste secondaire dans les quiz généralistes."
 ---
-
-
 ![Image de Boutros Boutros-Ghali](https://upload.wikimedia.org/wikipedia/commons/7/7e/Boutros_Boutros_Ghali_%281993%29.jpg)
 
 ###### Questions

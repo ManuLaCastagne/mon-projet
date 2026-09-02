@@ -23,8 +23,9 @@ indice_6 :
   - Réserve indienne
 questions:
  - Quelle ethnie indienne, comptant entre autres les Crees et les Ojibwas, désignait le fleuve d'un nom signifiant le chemin qui marche?
+culture_g_score: 32
+culture_g_justification: "Parc canadien notable, mais référence assez spécialisée et rarement utilisée hors de questions géographiques ou environnementales."
 ---
-
 ![Image de Algonquin](https://upload.wikimedia.org/wikipedia/commons/9/9c/Port_Edwards_Seafood_Restaurant_Outdoor_Seating_-_panoramio.jpg)
 
 ![[Carte_Algonquin.png]]

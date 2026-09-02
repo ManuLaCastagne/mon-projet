@@ -21,8 +21,9 @@ indice_6:
   - Héritier supposé des Bourbons
 questions:
   - Venu en France en 1833, je suis expulsé après avoir assigné en justice la duchesse d'Angoulême pour revendiquer une part d'héritage. M'étant fait passer pour Louis XVII, le fils  de Louis XVI et de Marie-Antoinette, je suis...
+culture_g_score: 31
+culture_g_justification: "Naundorff relève surtout de l’énigme historique Louis XVII, une controverse originale mais trop spécialisée et rarement interrogée."
 ---
-
 ![Image de Karl-Wilhelm Naundorf](https://upload.wikimedia.org/wikipedia/commons/4/40/La_branche_a%C3%AEn%C3%A9e_des_Bourbons_%28IA_labrancheanedesb00grua%29.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Funk et soul bassiste virtuose
 questions:
  - Quelle technique, appelé "slapping" est  associée à ce musicien ?
+culture_g_score: 44
+culture_g_justification: "Bassiste funk influent, mais principalement pertinent pour des questions spécialisées sur le funk, le slap et Sly and the Family Stone."
 ---
-
 ![Image de Larry Graham](https://upload.wikimedia.org/wikipedia/commons/2/25/Larry_Graham.jpg)
 
 ###### Questions

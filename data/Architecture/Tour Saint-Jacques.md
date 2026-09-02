@@ -23,8 +23,9 @@ indice_6 :
   - ancienne église Saint-Jacques-la-Boucherie
 questions:
  - Tour du 4e arrondissement de Paris située près de la place du Châtelet, la tour Saint-Jacques. Elle a été ravalée.  Elle est magnifique.
+culture_g_score: 77
+culture_g_justification: "Monument parisien facilement interrogé via le gothique flamboyant, l’histoire religieuse, la Révolution et le chemin de Compostelle."
 ---
-
 ![Image de Tour Saint-Jacques](https://upload.wikimedia.org/wikipedia/commons/1/15/Tour_Saint-Jacques_au_cr%C3%A9puscule.jpg)
 
 ###### Questions

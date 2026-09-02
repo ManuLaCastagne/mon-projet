@@ -20,8 +20,9 @@ indice_6 :
   - Grand Tour
 questions:
  - En 2019 et 2020, le Slovène Primoz Roglic s'imposer, le leader de mon classement général revêt un maillot rouge.
+culture_g_score: 80
+culture_g_justification: "L’un des trois Grands Tours, fréquemment mobilisé dans les questions sur le cyclisme, l’Espagne et les palmarès sportifs."
 ---
-
 ![Image de Vuelta](https://upload.wikimedia.org/wikipedia/commons/0/0d/Vuelta_a_Espana_1935_Strecke.png)
 
 ###### Questions

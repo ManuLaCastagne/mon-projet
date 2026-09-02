@@ -24,8 +24,9 @@ indice_6 :
   - vent de tramontane
 questions:
  - Partie d'une mer ayant fait l'objet dès 2012 d'une campagne d'étude de mon écosystème appelée EcoPelGol, je suis peu profonde et caractérisée par un fond en pente douce.  Golfe présentant un rivage sablonneux et frangé de lagunes comme à Leucate...
+culture_g_score: 60
+culture_g_justification: "Golfe méditerranéen français identifiable par son littoral et ses vents, mais de portée quizique intermédiaire."
 ---
-
 ![Image de Golfe du Lion](https://upload.wikimedia.org/wikipedia/commons/4/4b/Crique_de_l%27Anau%2C_S%C3%A8te%2C_H%C3%A9rault_04.jpg)
 
 ![[Carte_Golfe du Lion.png]]

@@ -22,8 +22,9 @@ indice_5 :
   - Asie centrale
 indice_6 : 
   - architecture moderne
+culture_g_score: 57
+culture_g_justification: "Capitale du Kazakhstan souvent interrogée via ses changements de nom et son statut politique, mais peu riche en angles indépendants."
 ---
-
 ![Image de Astana](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Astana%2C_Kazakhstan_%28latin%29.svg)
 
 ![[Carte_Astana.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - 264 à 146 avant J.-C.
 questions:
  - Quel nom a-t-on donné aux conflits qui opposèrent Rome et Carthage entre 264 et 146 avant JC ?
+culture_g_score: 87
+culture_g_justification: "Référence majeure de l'Antiquité, ouvrant de nombreuses questions sur Rome, Carthage, Hannibal, les batailles et l'expansion romaine."
 ---
-
 ![Image de Guerres puniques](https://upload.wikimedia.org/wikipedia/commons/b/b5/D475-Th%C3%A9%C3%A2tre_des_guerres_puniques-Liv2-ch10.png)
 
 ###### Questions

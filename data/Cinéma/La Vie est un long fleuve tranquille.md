@@ -22,8 +22,9 @@ indice_6 :
   - années 1980
 questions:
  - En 1988, quel film d'Etienne Chatiliez dans lequel figure la réplique   "c'est lundi, c'est ravioli" met en scène les familles Le Quesnoy et Groseille ?
+culture_g_score: 77
+culture_g_justification: "Comédie française culte, souvent associée à Chatiliez, aux César, aux différences sociales et à plusieurs répliques ou chansons mémorables."
 ---
-
 ![Image de La Vie est un long fleuve tranquille](https://upload.wikimedia.org/wikipedia/commons/2/21/Life_Is_A_Long_Quiet_River_%2856571794%29.jpeg)
 
 ###### Questions

@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Grèce
+culture_g_score: 52
+culture_g_justification: "Instrument scientifique classique, mais son lien avec la gastronomie et les quiz généralistes demeure assez limité."
 ---
 ###### Questions 
 

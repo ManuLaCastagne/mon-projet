@@ -20,8 +20,9 @@ indice_6 :
   - Lyon
 questions:
  - Evénement survenu un 21 juin, durant la 2de Guerre mondiale. Fruit d'une accumulation d'imprudences et de contretemps. Fait résultant de manipulations et d'enquêtes de la police allemande, dans la banlieue de Lyon, dans la villa du Dr Dugoujon...
+culture_g_score: 64
+culture_g_justification: "Épisode majeur de la Résistance française, l’arrestation de Jean Moulin est classique mais correspond à un événement historique assez précis."
 ---
-
 ![Image de Arrestation de Jean Moulin](https://upload.wikimedia.org/wikipedia/commons/5/50/Enveloppe_du_courrier_de_Laure_Moulin_adress%C3%A9_%C3%A0_M._Edouard_Brottes%2C_2017.6.20.2.jpg)
 
 ###### Questions

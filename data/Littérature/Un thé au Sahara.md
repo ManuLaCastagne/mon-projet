@@ -22,9 +22,9 @@ indice_6 :
   - exploration existentielle
 questions:
  - En 1949, quel roman de Paul Bowles retrace, à partir de la ville d'Oran, la descente vers le Sahara de 3 jeunes Américains?
+culture_g_score: 72
+culture_g_justification: "Roman culte de Paul Bowles, permettant des questions sur la littérature américaine, le Sahara, le voyage, l'altérité et son adaptation cinématographique."
 ---
-
-
 ![Image de Un thé au Sahara](https://upload.wikimedia.org/wikipedia/commons/e/ed/Un_%C3%A9t%C3%A9_dans_le_Sahara_%28IA_untdanslesah00from%29.pdf)
 
 ###### Questions

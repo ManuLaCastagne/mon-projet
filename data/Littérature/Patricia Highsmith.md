@@ -22,8 +22,9 @@ indice_6 :
   - suspense psychologique
 questions:
  - Quelle femme de lettres américaine, disparue en 1995, est l'auteure des romans "Monsieur Ripley" et "L'Inconnu du Nord-Express" ?
+culture_g_score: 80
+culture_g_justification: "Figure importante du roman noir, reliée à Tom Ripley, Hitchcock, Carol et plusieurs adaptations cinématographiques."
 ---
-
 ![Image de Patricia Highsmith](https://upload.wikimedia.org/wikipedia/commons/3/3f/Highsmith_on_After_Dark.JPG)
 
 ###### Questions

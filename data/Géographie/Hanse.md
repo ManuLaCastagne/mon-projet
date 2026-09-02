@@ -22,8 +22,9 @@ indice_6 :
   - commerce de la mer du Nord
 questions:
  - Quelle association de villes marchandes de la Mer du Nord et de la Baltique connut son apogée au XIVe siècle ?
+culture_g_score: 68
+culture_g_justification: "Notion historique structurante pour comprendre le commerce médiéval, les villes du nord de l’Europe, la mer Baltique et l’essor urbain."
 ---
-
 ![Image de Hanse](https://upload.wikimedia.org/wikipedia/commons/8/86/Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg)
 
 ![[Carte_Hanse.png]]

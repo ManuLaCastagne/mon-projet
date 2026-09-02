@@ -20,8 +20,9 @@ indice_6 :
   - États-Unis
 questions:
  - En 1839, à quel inventeur américain doit-on la découverte de la vulcanisation du caoutchouc?
+culture_g_score: 52
+culture_g_justification: "Goodyear est surtout retenu pour la vulcanisation du caoutchouc, connaissance utile mais relativement unidimensionnelle."
 ---
-
 ![Image de Charles Goodyear](https://upload.wikimedia.org/wikipedia/commons/f/fc/Charles_Goodyear.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Le Temps retrouvé
 questions:
  - Quel réalisateur chilien réalise "Les Mystères de Lisbonne" avant de nous quitter en 2011 ?
+culture_g_score: 48
+culture_g_justification: "Cinéaste reconnu par les amateurs et important dans le cinéma chilien et français, mais rarement incontournable pour un généraliste."
 ---
-
 ![Image de Raoul Ruiz](https://upload.wikimedia.org/wikipedia/commons/1/15/Raul_Ruiz_Memoria_Chilena.jpg)
 
 ###### Questions

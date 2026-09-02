@@ -15,8 +15,9 @@ indice_6:
   - Utilisée en cuisine pour ses fleurs et feuilles comestibles
 questions:
   - Plante décorant les jardins et les terrasses, je possède des feuilles rondes… Et mes fleurs d'un jaune orangé  peuvent être dégustées en salade.
+culture_g_score: 47
+culture_g_justification: "Plante de jardin et fleur comestible offrant quelques questions de botanique et de cuisine, sans importance générale majeure."
 ---
-
 ![Image de Capucine](https://upload.wikimedia.org/wikipedia/commons/e/e6/Capucine_%281962%29.jpg)
 
 ###### Questions

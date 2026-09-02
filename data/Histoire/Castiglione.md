@@ -20,8 +20,9 @@ indice_6 :
   - Urbino
 questions:
  - A quel écrivain italien de la Renaissance doit-on "Le Livre du courtisan", qui a servi de manuel de savoir-vivre dans les cours européennes?
+culture_g_score: 60
+culture_g_justification: "Nom associé à une victoire importante de Napoléon en 1796, mais facilement confondu avec le courtisan et écrivain Baldassare Castiglione."
 ---
-
 ![Image de Castiglione](https://upload.wikimedia.org/wikipedia/commons/9/94/Baldassare_Castiglione%2C_by_Raffaello_Sanzio%2C_from_C2RMF_retouched.jpg)
 
 ###### Questions

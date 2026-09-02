@@ -20,8 +20,9 @@ indice_5 :
   - Le Cerveau
 indice_6 : 
   - Autant en emporte le vent
+culture_g_score: 64
+culture_g_justification: "Acteur britannique classique identifiable par La Panthère rose, Le Tour du monde en 80 jours et son Oscar, mais moins central aujourd'hui."
 ---
-
 ![Image de David Niven](https://upload.wikimedia.org/wikipedia/commons/5/55/David_Niven_Allan_Warren.jpg)
 
 ###### Questions

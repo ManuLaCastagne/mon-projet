@@ -24,8 +24,9 @@ indice_6 :
   - Terre de Feu à son extrême sud
 questions:
  - Région australe  d'Amérique du Sud, traversée par la cordillère des Andes et bordée par la Terre de Feu.
+culture_g_score: 80
+culture_g_justification: "Région spectaculaire et classique des quiz, associée à l’Argentine, au Chili, aux Andes, aux glaciers et à l’exploration australe."
 ---
-
 ![Image de Patagonie](https://upload.wikimedia.org/wikipedia/commons/7/7e/Carduelis_magellanica_MHNT228.jpg)
 
 ![[Carte_Patagonie.png]]

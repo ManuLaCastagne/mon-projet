@@ -20,8 +20,9 @@ indice_6 :
   - mari d'une reine d'Écosse
 questions:
  - Durant la minorité de quel fils, alors âgé de 9 ans, Catherine de Médicis assura-t-elle la régence?
+culture_g_score: 60
+culture_g_justification: "Roi de France au règne bref, surtout retenu pour Marie Stuart, les Valois et les débuts des guerres de Religion."
 ---
-
 ![Image de François II](https://upload.wikimedia.org/wikipedia/commons/d/d7/Jean-Fran%C3%A7ois_Millet_%28II%29_001.jpg)
 
 ###### Questions

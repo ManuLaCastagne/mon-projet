@@ -22,8 +22,9 @@ indice_6 :
   - aéroport international
 questions:
  - Quelle station balnéaire et touristique située sur le golfe d'Hamamet tient son nom du grec signifiant monastère ?
+culture_g_score: 40
+culture_g_justification: "Ville tunisienne identifiable par son ribat et son lien avec Bourguiba, mais d’importance quiz limitée."
 ---
-
 ![Image de Monastir](https://upload.wikimedia.org/wikipedia/commons/5/5a/View_of_Monastir_from_the_ribat_tower.jpg)
 
 ![[Carte_Monastir.png]]

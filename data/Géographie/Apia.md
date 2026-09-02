@@ -22,8 +22,9 @@ indice_5 :
   - nation insulaire
 indice_6 : 
   - Polynésie
+culture_g_score: 37
+culture_g_justification: "Capitale des Samoa utile dans les questions de capitales rares, mais très peu transversale et rarement récurrente."
 ---
-
 ![Image de Apia](https://upload.wikimedia.org/wikipedia/commons/b/b2/Samoa_-_Apia_Govt_buildings.jpg)
 
 ![[Carte_Apia.png]]

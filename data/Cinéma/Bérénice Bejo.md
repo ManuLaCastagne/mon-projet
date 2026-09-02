@@ -22,8 +22,9 @@ indice_6 :
   - nomination aux Oscars
 questions:
  - Quelle actrice, révélée en 2000 par son rôle dans "Meilleur Espoir Féminin" de Gérard Jugnot incarne une jeune femme qui veut devenir actrice mais son papa ne veut pas ?
+culture_g_score: 64
+culture_g_justification: "Actrice surtout connue pour The Artist et sa récompense cannoise, avec quelques liens utiles au cinéma français et international."
 ---
-
 ![Image de Bérénice Bejo](https://upload.wikimedia.org/wikipedia/commons/1/14/B%C3%A9r%C3%A9nice_Bejo_Cannes_2016.jpg)
 
 ###### Questions

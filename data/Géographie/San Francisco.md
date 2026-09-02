@@ -24,8 +24,9 @@ indice_6 :
   - Lombard Street
 questions:
  - Dans quelle ville de la Sport/Californie se trouve le quartier de Haight-Ashbury, connu...
+culture_g_score: 96
+culture_g_justification: "Métropole mondialement connue, exploitable en histoire, géographie, culture populaire, technologie et patrimoine."
 ---
-
 ![Image de San Francisco](https://upload.wikimedia.org/wikipedia/commons/c/ce/San_Francisco_Panorama_from_Twin_Peaks_2013.jpg)
 
 ![[Carte_San Francisco.png]]

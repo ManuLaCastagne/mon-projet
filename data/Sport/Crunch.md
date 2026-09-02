@@ -20,8 +20,9 @@ indice_6:
   - Trophée Giuseppe-Garibaldi
 questions:
   - Match m'étant déroulé pour la première fois le 22 mars 1906 et pour la centième fois le 15 août 2015, en 2020...
+culture_g_score: 57
+culture_g_justification: "Surnom classique de la rivalité France-Angleterre au rugby, mais limité à un affrontement et à quelques repères historiques."
 ---
-
 ![Image de Crunch](https://upload.wikimedia.org/wikipedia/commons/e/ef/Crunches-2.png)
 
 ###### Questions

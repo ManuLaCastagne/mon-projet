@@ -22,9 +22,9 @@ indice_6 :
   - chien Uggie
 questions:
  - Je mets en scène une star du cinéma muet que l'arrivée des films parlants va condamner au déclin. Film en noir et blanc de Michel Hazanavicius avec Bérénice Bejo…
+culture_g_score: 77
+culture_g_justification: "Film français exceptionnellement récompensé aux Oscars, souvent questionné via Hazanavicius, Dujardin, le muet et Hollywood."
 ---
-
-
 ![Image de The Artist](https://upload.wikimedia.org/wikipedia/commons/a/a6/Artist_busy_in_make_up_for_Dashavatara_folk_theatre.jpg)
 
 ###### Questions

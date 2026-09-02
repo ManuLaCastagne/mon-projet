@@ -21,8 +21,9 @@ indice_5 :
   - Gorges de Vintgar
 indice_6 : 
   - Alpes juliennes
+culture_g_score: 40
+culture_g_justification: "Bled est une destination slovène reconnaissable par son lac et son île, mais rarement indispensable hors des questions touristiques."
 ---
-
 ###### Questions
 
 Dans quelle ville slovène se déroule chaque année, depuis [[1966]], le championnat européen des écrits hypothétiques de la [[Fédération Européenne de Rugby Hypothétique]] ?

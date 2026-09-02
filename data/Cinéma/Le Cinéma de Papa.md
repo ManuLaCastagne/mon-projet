@@ -22,8 +22,9 @@ indice_6 :
   - Blier
 questions:
  - En 1971,  dans quel film autobiographique se met-il en scène face à Yves Robert qui incarne son père, artisan fourreur ?
+culture_g_score: 40
+culture_g_justification: "Film autobiographique d’Yves Robert relativement peu connu, avec quelques repères sur le réalisateur et le cinéma français des années 1970."
 ---
-
 ![Image de Le Cinéma de Papa](https://upload.wikimedia.org/wikipedia/commons/d/de/Henri_B%C3%A9raud_-_Le_Martyre_de_l%27ob%C3%A8se%2C_1922.djvu)
 
 ###### Questions

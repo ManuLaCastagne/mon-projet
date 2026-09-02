@@ -22,11 +22,9 @@ indice_6 :
   - Guitare
 questions:
  - En 2003, quelle artiste québécoise interpète "De tes rêves à mes rêves" extrait de l'album "Les Secrets des oiseaux" ?
+culture_g_score: 48
+culture_g_justification: "Chanteuse québécoise connue dans l'espace francophone, avec des repères sur la chanson et les récompenses, mais une portée générale modérée."
 ---
-
-
-
-
 ![Image de Linda Lemay](https://upload.wikimedia.org/wikipedia/commons/d/d7/Lynda_Lemay-Concert_Carcassonne04410.jpg)
 
 ###### Questions

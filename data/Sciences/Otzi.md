@@ -20,8 +20,9 @@ indice_6 :
   - 1991
 questions:
  - Quel surnom, faisant référence au massif où il a longtemps séjourné dans la glace, a-t-on donné à l'homme de la protohistoire, dont le corps…
+culture_g_score: 77
+culture_g_justification: "Momie préhistorique emblématique, régulièrement interrogée par son lieu, son âge, sa conservation et les circonstances de sa découverte."
 ---
-
 ![Image de Otzi](https://upload.wikimedia.org/wikipedia/commons/e/ee/Otzi-Quinson.jpg)
 
 ###### Questions

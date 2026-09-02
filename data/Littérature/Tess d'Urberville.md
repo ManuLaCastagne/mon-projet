@@ -20,8 +20,9 @@ indice_5:
   - personnage féminin
 indice_6:
   - injustice sociale
+culture_g_score: 68
+culture_g_justification: "Grand classique de Thomas Hardy, fréquemment associé aux injustices de l'époque victorienne et au destin tragique de son héroïne."
 ---
-
 ![Image de Tess d'Urberville](https://upload.wikimedia.org/wikipedia/commons/9/94/Recueil._%22Tess_d%27Urberville%22_de_Roger_Ferdinand_d%27apr%C3%A8s_Thomas_Hardy_-_btv1b10516269p_%2822_of_34%29.jpg)
 
 ###### Questions

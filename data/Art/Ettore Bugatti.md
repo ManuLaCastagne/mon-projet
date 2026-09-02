@@ -23,8 +23,9 @@ indice_6 :
   - Veyron
 questions:
  - Remportant de nombreuses compétitions, tous les indices dont Germain n'a pas eu besoin du tout, avec la Type 35, je fabrique également à Molsheim des modèles de prestige dont le bouchon de radiateur est orné d'un éléphant créé par mon frère sculpteur, prénommé Rembrandt. Constructeur d'origine italienne auquel on doit la mythique Royale, je suis...
+culture_g_score: 71
+culture_g_justification: "Ettore Bugatti relie automobile, ingénierie, design et famille d'artistes, mais les questions portent souvent davantage sur la marque que sur sa personne."
 ---
-
 ![Image de Ettore Bugatti](https://upload.wikimedia.org/wikipedia/commons/1/1c/Ettore_Bugatti_in_1932.jpg)
 
 ###### Questions

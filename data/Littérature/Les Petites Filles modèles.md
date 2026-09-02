@@ -22,8 +22,9 @@ indice_6 :
   - suite des Malheurs de Sophie
 questions:
  - Roman de la comtesse de Ségur, j'ai également pour héroïne Sophie, que l'on retrouve dans "Les Vacances"...
+culture_g_score: 60
+culture_g_justification: "Classique de la littérature jeunesse française, régulièrement associé à la Comtesse de Ségur et à la Bibliothèque rose."
 ---
-
 ![Image de Les Petites Filles modèles](https://upload.wikimedia.org/wikipedia/commons/8/80/La_Comtesse_de_S%C3%A9gur_-_Les_petites_filles_mod%C3%A8les%2C_Pr%C3%A9face.ogg)
 
 ###### Questions

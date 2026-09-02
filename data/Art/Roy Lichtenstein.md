@@ -21,8 +21,9 @@ indice_5 :
   - wham!
 indice_6 : 
   - couleurs vives
+culture_g_score: 80
+culture_g_justification: "Lichtenstein est un représentant majeur du Pop art, identifiable par la bande dessinée, les points Benday, Whaam! et la culture de masse."
 ---
-
 ![Image de Roy Lichtenstein](https://upload.wikimedia.org/wikipedia/commons/4/4f/Roy_Lichtenstein.jpg)
 
 ###### Questions

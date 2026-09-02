@@ -20,8 +20,9 @@ indice_6 :
   - Limousin
 questions:
  - Le 25 décembre 1977, quel cycliste français, âgé de 41 ans, encore 3e du Tour de France...
+culture_g_score: 92
+culture_g_justification: "Figure mythique du cyclisme français, très fréquente grâce au Tour de France, à son surnom et à ses rivalités."
 ---
-
 ![Image de Raymond Poulidor](https://upload.wikimedia.org/wikipedia/commons/7/79/Raymond_Poulidor_en_1968.jpg)
 
 ###### Questions

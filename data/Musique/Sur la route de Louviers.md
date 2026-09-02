@@ -22,8 +22,9 @@ indice_6 :
   - patrimoine culturel
 questions:
  - Dans quelle chanson populaire, sur la route de quelle ville un cantonnier se promène ?
+culture_g_score: 20
+culture_g_justification: "Chanson française ancienne et peu connue, offrant très peu d'angles de questionnement généraliste."
 ---
-
 ![Image de Sur la route de Louviers](https://upload.wikimedia.org/wikipedia/commons/0/0e/27375-Louviers-Sols.png)
 
 ###### Questions

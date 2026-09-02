@@ -22,8 +22,9 @@ indice_6 :
   - Star de l'âge d'or d'Hollywood
 questions:
  - Quel actrice décédée en 1993 est l'héroïne du film "Diamants sur canapé" de Blake Edwards ?
+culture_g_score: 100
+culture_g_justification: "Icône mondiale du cinéma, reliée à de nombreux films, personnages, Oscars, réalisateurs et références culturelles."
 ---
-
 ![Image de Audrey Hepburn](https://upload.wikimedia.org/wikipedia/commons/e/ea/Audrey_Hepburn_1956_%282%29.jpg)
 
 ###### Questions

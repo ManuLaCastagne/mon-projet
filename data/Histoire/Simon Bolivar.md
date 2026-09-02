@@ -18,9 +18,9 @@ indice_5:
   - a inspiré le nom de la Bolivie
 indice_6:
   - figure clé des indépendances sud-américaines
+culture_g_score: 84
+culture_g_justification: "Figure centrale des indépendances sud-américaines, fréquemment reliée à l’Espagne, au Venezuela, à la Grande Colombie et à l’histoire politique du continent."
 ---
-
-
 ![Image de Simon Bolivar](https://upload.wikimedia.org/wikipedia/commons/a/ac/Statue_Simon_Bolivar_Donaupark_Wien_DSC_8333w.jpg)
 
 ###### Questions

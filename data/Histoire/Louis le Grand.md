@@ -20,8 +20,9 @@ indice_6 :
   - centralisation du pouvoir
 questions:
  - Quel ancien collège fondé par les jésuites au cœur du quartier latin à Paris est une lycée ayant formé de nombreux représentants des élites ?
+culture_g_score: 100
+culture_g_justification: "Louis XIV est une figure centrale de l’histoire mondiale et française, associée à Versailles, l’absolutisme, les arts, les guerres et le plus long règne."
 ---
-
 ![Image de Louis le Grand](https://upload.wikimedia.org/wikipedia/commons/d/d8/Coats_of_arms_Louis_le_Grand_on_book.jpg)
 
 ###### Questions

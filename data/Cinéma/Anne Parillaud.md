@@ -23,8 +23,9 @@ indice_6 :
   - actrice française
 questions:
  - En 1990,  quelle actrice incarne une jeune droguée reconvertie en agent des services secrets dans 'Nikita' ?
+culture_g_score: 60
+culture_g_justification: "Actrice française fortement associée à Nikita et à son César, ce qui fournit quelques repères classiques mais assez concentrés."
 ---
-
 ![Image de Anne Parillaud](https://upload.wikimedia.org/wikipedia/commons/8/8c/Anne_Parillaud_Moli%C3%A8res_2018.jpg)
 
 ###### Questions

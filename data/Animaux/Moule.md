@@ -16,6 +16,7 @@ indice_6 :
 questions:
  - Quel mollusque à coquille bivalve sombre, de la famille des mytilidés reste fixé à un rocher et est capable de résister à la privation d'oxygène ?
 culture_g_score: 64
+culture_g_justification: "Mollusque courant, lié à l’alimentation, aux écosystèmes marins et au byssus, avec une fréquence de quiz moyenne."
 ---
 ![Image de Moule](https://upload.wikimedia.org/wikipedia/commons/e/e3/William_Moule%2C_1935.png)
 

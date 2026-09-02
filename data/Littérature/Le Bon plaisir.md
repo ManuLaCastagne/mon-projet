@@ -18,8 +18,9 @@ indice_5:
   - Marguerite Duras
 indice_6:
   - André Malraux
+culture_g_score: 31
+culture_g_justification: "Roman politique de Françoise Giroud intéressant pour ses adaptations et son contexte présidentiel, mais rarement interrogé en dehors de cet angle."
 ---
-
 ![Image de Le Bon plaisir](https://upload.wikimedia.org/wikipedia/commons/5/5f/Quand_les_enfants_ont_%C3%A9t%C3%A9_bien_sages_le_papa_les_m%C3%A8ne_au_bain_par_partie_de_plaisir_%28Alexis_ou_l%27Erreur_d%27un_bon_P%C3%A8re%29_-_Vanderbilt_Fine_Arts_Gallery_-_1973.020.tif)
 
 ###### Questions

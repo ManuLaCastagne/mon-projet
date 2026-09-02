@@ -20,8 +20,9 @@ indice_6 :
   - Abdelkrim al-Khattabi
 questions:
  - A partir de 1921, quel massif du nord du Maroc...
+culture_g_score: 47
+culture_g_justification: "Région importante pour l’histoire coloniale du Maroc et la guerre du Rif, mais relativement peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Rif](https://upload.wikimedia.org/wikipedia/commons/2/28/Chefchaouen%2C_Rif_Mountains%2C_Morocco%2C_Mosque_Sebbanin.jpg)
 
 ###### Questions

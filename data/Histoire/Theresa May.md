@@ -20,8 +20,9 @@ indice_6 :
   - Margaret Thatcher
 questions:
  - En juillet 2016, on est dans l'histoire très contemporaine, quelle femme politique succède à David Cameron au poste...
+culture_g_score: 64
+culture_g_justification: "Première ministre liée au Brexit et à la politique britannique contemporaine, mais moins incontournable que Thatcher ou Churchill."
 ---
-
 ![Image de Theresa May](https://upload.wikimedia.org/wikipedia/commons/6/6f/Theresa_May_%282015%29_%28cropped%29.jpg)
 
 ###### Questions

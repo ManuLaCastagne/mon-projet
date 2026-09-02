@@ -22,8 +22,9 @@ indice_6 :
   - pop rock américain
 questions:
  - En 1986, quel groupe de pop,  constitué de 4 filles, accède au sommet des hit-parades avec la chanson "Walk like an Egyptian"?
+culture_g_score: 60
+culture_g_justification: "Groupe pop-rock féminin associé à plusieurs tubes des années 1980, mais d'importance historique modérée."
 ---
-
 ![Image de The Bangles](https://upload.wikimedia.org/wikipedia/commons/f/fa/Bangles_in_green_and_orange.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Albert Uderzo
 indice_6 : 
   - Forces aériennes françaises
+culture_g_score: 44
+culture_g_justification: "Série française culte pour plusieurs générations, mais désormais assez spécialisée et peu fréquente hors des quiz consacrés à la télévision."
 ---
-
 ![Image de Les Chevaliers du ciel](https://upload.wikimedia.org/wikipedia/commons/2/28/Les_Chevaliers_du_ciel_%28%C3%89preuve_corrig%C3%A9e%29_-_btv1b108808206_%284_of_6%29.jpg)
 
 ###### Questions

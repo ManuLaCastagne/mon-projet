@@ -22,8 +22,9 @@ indice_6 :
   - cinéma français
 questions:
  - En 1994, dans le film "L'enfer" de Chabrol, quel acteur joue Paul, le mari jaloux du personnage interprété par Emmanuelle Béart ?
+culture_g_score: 73
+culture_g_justification: "Acteur français associé à Intouchables, à un César et à une filmographie variée, offrant plusieurs indices de quiz rentables."
 ---
-
 ![Image de François Cluzet](https://upload.wikimedia.org/wikipedia/commons/9/9c/Fran%C3%A7ois_Cluzet_11.6_avp.jpg)
 
 ###### Questions

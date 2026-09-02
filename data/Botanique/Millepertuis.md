@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé en phytothérapie pour ses propriétés antidépressives
 questions:
  - Quelle plante herbacée aux gleurs ordinairement jaunes poussant en buissons étoffés signifie mille trous ?
+culture_g_score: 40
+culture_g_justification: "Plante médicinale et herbe de la Saint-Jean identifiable, mais encore assez périphérique dans les quiz généralistes."
 ---
-
 ![Image de Millepertuis](https://upload.wikimedia.org/wikipedia/commons/f/f2/Vruchten_van_Hertshooi_%28Hypericum%29._27-07-2024_%28d.j.b.%29.jpg)
 
 ###### Questions

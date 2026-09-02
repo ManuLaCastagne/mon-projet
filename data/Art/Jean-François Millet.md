@@ -23,8 +23,9 @@ indice_6 :
   - 19ème siècle
 questions:
  - Quel peintre auteur du "Semeur" en 1851 s'est inspiré de son Cotentin natal ?
+culture_g_score: 80
+culture_g_justification: "Millet est fréquemment associé au réalisme rural, à Barbizon, aux Glaneuses, à L’Angélus et à son influence sur Van Gogh."
 ---
-
 ![Image de Jean-François Millet](https://upload.wikimedia.org/wikipedia/commons/5/57/Jean-Fran%C3%A7ois_Millet_Angelus.jpg)
 
 ###### Questions

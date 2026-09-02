@@ -24,8 +24,9 @@ indice_6 :
   - Clermont-Ferrand
 questions:
  - En 2018, avec la chaîne des Puys, quelle faille longue d'une trentaine de kilomètres a été inscrite au patrimoine mondial de l'Unesco en tant que haut lieu tectonique?
+culture_g_score: 44
+culture_g_justification: "Formation géologique française valorisée par l’UNESCO, mais trop spécialisée et peu fréquente dans les quiz généralistes."
 ---
-
 ![[Carte_Faille de Limagne.png]]
 
 ###### Questions

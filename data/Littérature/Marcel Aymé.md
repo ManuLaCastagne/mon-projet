@@ -22,9 +22,9 @@ indice_6 :
   - fantastique et réalisme
 questions:
  - En 1950, quel écrivain, auteur de "La Vouivre", décline l'invitation à rejoindre les Immortels, ne se sentant pas l'étoffe d'un académicien?
+culture_g_score: 60
+culture_g_justification: "Auteur français classique grâce au Passe-muraille et aux Contes du chat perché, avec des liens utiles vers le fantastique, Paris et le cinéma."
 ---
-
-
 ![Image de Marcel Aymé](https://upload.wikimedia.org/wikipedia/commons/e/ea/Marcel_Aym%C3%A9_1929.jpg)
 
 ###### Questions

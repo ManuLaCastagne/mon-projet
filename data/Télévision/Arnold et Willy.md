@@ -20,8 +20,9 @@ indice_6 :
   - Série des années 80
 questions:
  - Quel feuilleton américain, dont l'un des personnages est Philip Drummond, a un générique dans lequel on entend "acceptons les différences"?
+culture_g_score: 60
+culture_g_justification: "Sitcom américaine très reconnaissable en France, principalement interrogée sur son titre original, ses acteurs et ses thèmes sociaux."
 ---
-
 ![Image de Arnold et Willy](https://upload.wikimedia.org/wikipedia/commons/c/cf/On_the_set_of_Diff%27rent_Strokes_%2839256460980%29.jpg)
 
 ###### Questions

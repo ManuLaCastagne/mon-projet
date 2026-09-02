@@ -22,9 +22,9 @@ indice_6 :
   - réalisateur français
 questions:
  - En 1992, quel réalisteur met en scène Rochefort et Carmet dans "Le Bal des Casse-Pieds" ?
+culture_g_score: 72
+culture_g_justification: "Réalisateur et acteur populaire du cinéma français, utile pour les comédies, les adaptations de Pagnol et la carrière de Pierre Richard."
 ---
-
-
 ![Image de Yves Robert](https://upload.wikimedia.org/wikipedia/commons/9/94/Yves_Robert_%281979%29.jpg)
 
 ###### Questions

@@ -22,10 +22,9 @@ indice_6 :
   - différences culturelles et stéréotypes
 questions:
  - En 2017, dans quel film de Lucien Jean-Baptiste, ayant inspiré par la suite une série télévisée, un couple de Noirs adopte-t-il un enfant blanc?
+culture_g_score: 31
+culture_g_justification: "Comédie française à thème social identifiable, mais sa notoriété et sa fréquence dans les quiz restent faibles."
 ---
-
-
-
 ![Image de Il a déjà tes yeux](https://upload.wikimedia.org/wikipedia/commons/0/01/Il_a_d%C3%A9j%C3%A0_tes_yeux.png)
 
 ###### Questions

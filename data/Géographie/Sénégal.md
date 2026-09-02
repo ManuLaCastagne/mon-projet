@@ -22,8 +22,9 @@ indice_5 :
   - Saint-Louis
 indice_6 : 
   - Casamance
+culture_g_score: 72
+culture_g_justification: "Pays africain majeur, utile pour Dakar, l'histoire coloniale, la géographie ouest-africaine, Gorée et le rallye Paris-Dakar."
 ---
-
 ![[Carte_Sénégal.png]]
 
 ###### Questions

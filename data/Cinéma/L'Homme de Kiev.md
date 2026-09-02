@@ -21,8 +21,9 @@ indice_6:
   - Richard Katims
 questions:
   - En 1968, quel film, tiré d'un roman de Bernard Malamud se déroule dans la capitale actuelle de l'Ukraine au début du XXe ?
+culture_g_score: 36
+culture_g_justification: "Drame historique et littéraire sérieux, mais peu connu du grand public et rarement mobilisé dans les quiz généralistes."
 ---
-
 ![Image de L'Homme de Kiev](https://upload.wikimedia.org/wikipedia/commons/3/3a/Kiev%2C_la_m%C3%A8re_des_villes_russes._Vingt-quartre_gravures_hors_texte_%28IA_kievlameredesvil00baye%29.pdf)
 
 ###### Questions

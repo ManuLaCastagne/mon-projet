@@ -20,8 +20,9 @@ indice_6 :
   - Jamie Murray
 questions:
  - Joueur écossais, double vainqueur à Wimbledon et 2 fois médaillé d'or en simple messieurs aux JO de Londres et de Rio.
+culture_g_score: 80
+culture_g_justification: "Champion majeur du tennis britannique, exploitable via Wimbledon, les Jeux olympiques, les rivalités et l’histoire du sport britannique."
 ---
-
 ![Image de Andy Murray](https://upload.wikimedia.org/wikipedia/commons/0/09/2015_Australian_Open_-_Andy_Murray_3.jpg)
 
 ###### Questions

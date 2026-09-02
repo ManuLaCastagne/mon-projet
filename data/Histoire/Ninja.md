@@ -20,8 +20,9 @@ indice_6 :
   - clans de Koga et Iga
 questions:
  - Type de guerrier médiéval, aussi dénommé "rappa" ou "kusa", je n'étais pas assujetti au code d'honneur des samouraïs...
+culture_g_score: 71
+culture_g_justification: "Terme très connu lié au Japon médiéval et à la culture populaire, mais les questions historiques précises restent assez limitées."
 ---
-
 ![Image de Ninja](https://upload.wikimedia.org/wikipedia/commons/1/1b/Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.png)
 
 ###### Questions

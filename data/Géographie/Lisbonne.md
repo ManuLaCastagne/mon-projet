@@ -24,9 +24,9 @@ indice_6 :
   - Tour de Belém
 questions:
  - En 1755, quelle ville du Portugal est en partie détruite par un incendie, suite à un tremblement de terre ?
+culture_g_score: 80
+culture_g_justification: "Capitale européenne classique, fréquemment mobilisée pour le Portugal, le fado, les explorations, le séisme de 1755 et ses monuments."
 ---
-
-
 ![Image de Lisbonne](https://upload.wikimedia.org/wikipedia/commons/4/41/Lisbon_%2836831596786%29_%28cropped%29.jpg)
 
 ![[Carte_Lisbonne.png]]

@@ -20,9 +20,9 @@ indice_6 :
   - Pikes Peak International Hill Climb
 questions:
  - Quelle ancienne femme pilote automobile, née en juin 1951, célèbre pour avoir remporté 4 rallyes de Championnat...
+culture_g_score: 44
+culture_g_justification: "Figure importante du rallye féminin, mais principalement mobilisée dans quelques questions spécialisées sur le sport automobile."
 ---
-
-
 ![Image de Michèle Mouton](https://upload.wikimedia.org/wikipedia/commons/a/a4/Mich%C3%A8le_Mouton_in_2011.jpg)
 
 ###### Questions

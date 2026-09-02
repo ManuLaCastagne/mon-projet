@@ -18,8 +18,9 @@ indice_6 :
   - Trident
 questions:
  - Nocturne quand je suis terrestre, je gagne au printemps les mares et les étangs pour me reproduire. Ayant la capacité de régénérer...
+culture_g_score: 64
+culture_g_justification: "Triton est reconnaissable par sa conque, sa filiation avec Poséidon et ses représentations artistiques, notamment à la fontaine de Trevi."
 ---
-
 ![Image de Triton](https://upload.wikimedia.org/wikipedia/commons/0/00/1Triton-en.svg)
 
 ###### Questions

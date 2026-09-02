@@ -18,8 +18,9 @@ indice_5 :
   - Baptiste
 indice_6 : 
   - Ruy Blas
+culture_g_score: 59
+culture_g_justification: "Grande figure du théâtre et du cinéma français, particulièrement utile pour Les Enfants du paradis et l’histoire de la mise en scène."
 ---
-
 ![Image de Jean-Louis Barrault](https://upload.wikimedia.org/wikipedia/commons/8/87/Jean_Louis_Barrault_1952.jpg)
 
 ###### Questions

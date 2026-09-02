@@ -20,8 +20,9 @@ indice_6 :
   - France
 questions:
  - Lors des JO de 2010 à Vancouver, quel biathlète, champion olympique 4 ans plus tôt était le porte-drapeau de la délégation française?
+culture_g_score: 40
+culture_g_justification: "Biathlète français médaillé olympique, mais sa notoriété et ses possibilités de questionnement restent limitées."
 ---
-
 ![Image de Vincent Defrasne](https://upload.wikimedia.org/wikipedia/commons/5/55/Vincent_Defrasne.JPG)
 
 ###### Questions

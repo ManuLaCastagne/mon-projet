@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale dans les jardins
 questions:
  - Ne s'enchevêtrent. Grimpant le long d'un support grâce à des crampons, je donne en été de nombreuses fleurs en forme de trompette de 5 à 8 cm de long, de couleur orange ou...
+culture_g_score: 31
+culture_g_justification: "Plante grimpante ornementale peu connue sous ce nom, principalement susceptible d’une question botanique spécialisée."
 ---
-
 ![Image de Bignonia](https://upload.wikimedia.org/wikipedia/commons/a/ab/Bignonia_grandifolia_-_Curtis.jpg)
 
 ###### Questions

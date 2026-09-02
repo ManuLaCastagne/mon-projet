@@ -13,8 +13,9 @@ indice_5 :
   - Singe écureuil
 indice_6 : 
   - Mascotte de la biodiversité amazonienne
+culture_g_score: 32
+culture_g_justification: "Petit primate sud-américain reconnaissable sous le nom de singe-écureuil, mais rarement interrogé en dehors de la zoologie spécialisée."
 ---
-
 ![Image de Saïmiri](https://upload.wikimedia.org/wikipedia/commons/2/20/Saimiri_sciureus-1_Luc_Viatour.jpg)
 
 ###### Questions

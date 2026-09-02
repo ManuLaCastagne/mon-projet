@@ -18,8 +18,9 @@ indice_5 :
   - oncle Fétide
 indice_6 : 
   - Cousin Machin
+culture_g_score: 80
+culture_g_justification: "Famille emblématique de la culture populaire, abordable par la télévision, la bande dessinée, le cinéma, les personnages et sa musique."
 ---
-
 ![Image de La famille Addams](https://upload.wikimedia.org/wikipedia/commons/c/c4/Jane_Addams_-_Bain_News_Service.jpg)
 
 ###### Questions

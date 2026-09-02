@@ -20,10 +20,9 @@ indice_5:
   - Mort à 36 ans
 indice_6:
   - Journal intime Le Mausolée des amants
+culture_g_score: 47
+culture_g_justification: "Écrivain et photographe important pour la littérature autobiographique et la mémoire du sida, mais peu fréquent hors de ces angles."
 ---
-
-
-
 ![[Pasted image 20250505190944.png]]
 ###### Questions
 

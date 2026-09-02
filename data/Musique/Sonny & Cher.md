@@ -22,8 +22,9 @@ indice_6 :
   - pop-rock
 questions:
  - En 1965, quel duo américain remporte un succès fou avec "I Got You Babe" ?
+culture_g_score: 80
+culture_g_justification: "Sonny & Cher permettent des questions sur la pop des années 1960, la télévision américaine, « I Got You Babe » et la carrière politique de Sonny Bono."
 ---
-
 ![Image de Sonny & Cher](https://upload.wikimedia.org/wikipedia/commons/8/87/Sonny_%26_Cher_1973.JPG)
 
 ###### Questions

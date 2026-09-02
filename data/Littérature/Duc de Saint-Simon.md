@@ -20,9 +20,9 @@ indice_5:
   - aristocratie française
 indice_6:
   - jalousie envers le pouvoir royal
+culture_g_score: 68
+culture_g_justification: "Mémorialiste majeur pour la connaissance de la cour de Louis XIV, mais moins transversal qu’une grande figure politique ou littéraire."
 ---
-
-
 ![Image de Duc de Saint-Simon](https://upload.wikimedia.org/wikipedia/commons/8/84/Louis_de_Rouvroy_duc_de_Saint-Simon.jpg)
 
 ###### Questions

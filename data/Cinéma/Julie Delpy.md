@@ -22,8 +22,9 @@ indice_6 :
   - Trois couleurs Blanc
 questions:
  - En 2012, dans le film "Two days in New York" quelle actrice et réalisatrice française poursuit une histoire nommée "Two days in Paris" ?
+culture_g_score: 68
+culture_g_justification: "Actrice, scénariste et réalisatrice, Julie Delpy est liée à la trilogie Before et au cinéma franco-américain, offrant plusieurs angles utiles."
 ---
-
 ![Image de Julie Delpy](https://upload.wikimedia.org/wikipedia/commons/c/cf/Julie_Delpy_1991_-a.jpg)
 
 ###### Questions

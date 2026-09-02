@@ -22,8 +22,9 @@ indice_6 :
   - réalisateur américain d'origine gréco-turque
 questions:
  - Qui a réalisé "Le Dernier Nabab" adapté de Francis Scott Fitzgerald avec Jack Nicholson en guise de syndicaliste et Robert de Niro en puissant producteur hollywoodien ?
+culture_g_score: 80
+culture_g_justification: "Réalisateur majeur, utile pour le cinéma américain, le théâtre, Marlon Brando, les Oscars et la controverse du maccarthysme."
 ---
-
 ![Image de Elia Kazan](https://upload.wikimedia.org/wikipedia/commons/f/fe/Elia_Kazan.JPG)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé en médecine traditionnelle et en cuisine asiatique
 questions:
  - Végétal dont le nom figure dans le titre d'un livre de l'astrophysicien vietnamo-américain Trinh Xuan Thuan. J'appartiens au genre Nelumbo.  Plante aquatique dont les feuilles de forme arrondie et hydrofuges...
+culture_g_score: 84
+culture_g_justification: "Plante emblématique de l’Asie et des traditions religieuses, ouvrant sur botanique, symbolique, histoire et cuisine."
 ---
-
 ![Image de Lotus](https://upload.wikimedia.org/wikipedia/commons/e/e5/Nelumbo_nucifera%2C_also_known_as_Indian_lotus_in_bud_stage_%28Image_7_of_7%29.jpg)
 
 ###### Questions

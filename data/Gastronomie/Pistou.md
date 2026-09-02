@@ -6,6 +6,8 @@ tags:
   - France
   - Italie
 date: 1938
+culture_g_score: 48
+culture_g_justification: "Préparation provençale connue et rapprochée du pesto, mais moins souvent demandée que son équivalent italien."
 ---
 ###### Questions 
 

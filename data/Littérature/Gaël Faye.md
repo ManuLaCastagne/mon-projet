@@ -22,8 +22,9 @@ indice_6 :
   - Métissage culturel
 questions:
  - Dont l'idée est née dans ma ville natale de Bujumbura au Burundi, également écrivain,  récompensé pour mon ouvrage "Petit pays", qui a donné un film.
+culture_g_score: 60
+culture_g_justification: "Écrivain et musicien franco-rwandais connu pour Petit Pays et le Goncourt des lycéens, avec une présence croissante dans les quiz."
 ---
-
 ![Image de Gaël Faye](https://upload.wikimedia.org/wikipedia/commons/c/ce/Ga%C3%ABl_Faye_%28Milk_Coffee_and_Sugar%29.JPG)
 
 ###### Questions

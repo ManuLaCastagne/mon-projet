@@ -18,8 +18,9 @@ indice_5 :
   - créateur Claude Barma
 indice_6 : 
   - mystère à Paris
+culture_g_score: 64
+culture_g_justification: "Feuilleton français emblématique des années 1960, régulièrement cité pour Juliette Gréco, le Louvre et l’histoire de la télévision."
 ---
-
 ![Image de Belphégor](https://upload.wikimedia.org/wikipedia/commons/7/74/Belphegor.jpg)
 
 ###### Questions

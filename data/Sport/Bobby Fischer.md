@@ -20,8 +20,9 @@ indice_6 :
   - Game of the Century
 questions:
  - Quel ancien champion d'échecs d'origine américaine a conquis le titre mondial en 1972 en battant Boris Spassky ?
+culture_g_score: 80
+culture_g_justification: "Champion du monde d'échecs au parcours légendaire, lié à la guerre froide, à Spassky, aux records et à l'histoire du jeu."
 ---
-
 ![Image de Bobby Fischer](https://upload.wikimedia.org/wikipedia/commons/9/9d/Bobby_Fischer_1960_in_Leipzig_in_color.jpg)
 
 ###### Questions

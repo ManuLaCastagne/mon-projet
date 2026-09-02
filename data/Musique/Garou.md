@@ -22,8 +22,9 @@ indice_6 :
   - Chanteur québécois
 questions:
  - Sous quel nom connaît-on le chanteur québécois à la voix éraillée Pierre... Pierre Garand
+culture_g_score: 64
+culture_g_justification: "Chanteur francophone popularisé par Notre-Dame de Paris et The Voice, avec une notoriété forte mais des angles surtout médiatiques."
 ---
-
 ![Image de Garou](https://upload.wikimedia.org/wikipedia/commons/e/eb/Garou_%28Pierre_Garand%29_-_20090317-02.jpg)
 
 ###### Questions

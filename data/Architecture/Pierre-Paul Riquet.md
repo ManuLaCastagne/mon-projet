@@ -23,10 +23,9 @@ indice_6 :
   - ouvrage d'art hydraulique
 questions:
  - Quel ingénieur a construit le Art/Canal du Midi ?
+culture_g_score: 64
+culture_g_justification: "Figure classique de l'histoire technique française grâce au Canal du Midi, mais principalement cantonnée à cet accomplissement."
 ---
-
-
-
 ![Image de Pierre-Paul Riquet](https://upload.wikimedia.org/wikipedia/commons/9/95/Place_Roger-Salengro_%28Toulouse%29_-_N%C2%B01_immeuble_de_Pierre-Paul_Riquet_%282e_moiti%C3%A9_du_XVIIIe_si%C3%A8cle%29.jpg)
 
 ###### Questions

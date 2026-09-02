@@ -22,8 +22,9 @@ indice_6 :
   - Jean Cocteau
 questions:
  - En 1923, quel jeune auteur meurt à l'âge de 20 ans, l'année de la publication de son 1er roman "Le Diable au corps" ?
+culture_g_score: 60
+culture_g_justification: "Écrivain français surtout connu pour Le Diable au corps et sa mort précoce, avec une présence classique mais assez limitée."
 ---
-
 ![Image de Raymond Radiguet](https://upload.wikimedia.org/wikipedia/commons/3/32/Raymond_Radiguet.jpg)
 
 ###### Questions

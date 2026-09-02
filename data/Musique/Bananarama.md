@@ -22,8 +22,9 @@ indice_6 :
   - Venus
 questions:
  - Dans les années 80, quel trio féminin anglais connaît un succès international avec "Cruel Summer" et "Venus" ?
+culture_g_score: 64
+culture_g_justification: "Groupe féminin britannique très connu pour quelques tubes des années 1980, mais assez spécialisé dans la pop."
 ---
-
 ![Image de Bananarama](https://upload.wikimedia.org/wikipedia/commons/a/a3/Bananarama_crop.jpg)
 
 ###### Questions

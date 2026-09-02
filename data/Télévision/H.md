@@ -20,8 +20,9 @@ indice_6 :
   - David Simon
 questions:
  - Dans quelle série avec Jamel Debouzze et Ramzy Bedia...
+culture_g_score: 76
+culture_g_justification: "Série culte de Canal+ offrant plusieurs angles sur l'humour français, ses acteurs, ses personnages et sa période de diffusion."
 ---
-
 ![Image de H](https://upload.wikimedia.org/wikipedia/commons/b/b6/Redrosedust_wright_f2000.jpg)
 
 ###### Questions

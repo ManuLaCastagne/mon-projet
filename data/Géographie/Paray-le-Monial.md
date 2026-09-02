@@ -24,8 +24,9 @@ indice_6 :
   - rivière Bourbince
 questions:
  - Quelle localité de Saône-et-Loire, peuplée de Parodiens, doit une partie de son nom aux nombreuses communautés religieuses qui s'y sont établies?
+culture_g_score: 40
+culture_g_justification: "Ville française importante pour le Sacré-Cœur et l’art roman clunisien, mais trop spécialisée pour une priorité généraliste."
 ---
-
 ![Image de Paray-le-Monial](https://upload.wikimedia.org/wikipedia/commons/1/13/Bourbince_in_Paray-le-Monial_%282%29.jpg)
 
 ![[Carte_Paray-le-Monial.png]]

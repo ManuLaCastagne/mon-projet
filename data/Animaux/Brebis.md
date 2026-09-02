@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de l'innocence
 questions:
  - Pour mon lait, pour la production de viande et pour la laine...
+culture_g_score: 80
+culture_g_justification: "La brebis renvoie à Dolly, au Petit Prince, à l’élevage et au fromage, offrant plusieurs entrées classiques."
 ---
-
 ![Image de Brebis](https://upload.wikimedia.org/wikipedia/commons/2/20/20101020_Sheep_shepherd_at_Vistonida_lake_Glikoneri_Rhodope_Prefecture_Thrace_Greece.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Médersa Oulougbek
 indice_6 : 
   - Place centrale historique
+culture_g_score: 71
+culture_g_justification: "Ensemble monumental majeur de Samarcande, utile pour l'histoire timouride, l'islam, l'Ouzbékistan et l'architecture persane."
 ---
-
 ![Image de Registan]()
 
 ###### Questions

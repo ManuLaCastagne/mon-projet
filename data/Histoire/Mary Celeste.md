@@ -20,8 +20,9 @@ indice_6 :
   - légende maritime
 questions:
  - En 1872, quel bateau voguant à la dérive est mystérieusement retrouvé sans passager ni équipage au large du Portugal ?
+culture_g_score: 72
+culture_g_justification: "Mystère maritime très célèbre et fréquemment utilisé comme question de culture populaire, mais aux angles historiques limités."
 ---
-
 ![Image de Mary Celeste](https://upload.wikimedia.org/wikipedia/commons/9/92/Mary_Celeste_as_Amazon_in_1861.jpg)
 
 ###### Questions

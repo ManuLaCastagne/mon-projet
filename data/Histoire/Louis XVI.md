@@ -20,8 +20,9 @@ indice_6 :
   - monarchie absolue
 questions:
  - En 1791, quel roi de France échoue à Varennes dans sa tentative de quitter clandestinement le royaume, sous l'identité d'un certain M. Durand?
+culture_g_score: 100
+culture_g_justification: "Louis XVI est incontournable pour la Révolution française, la monarchie, l’indépendance américaine, les sciences et la chute de l’Ancien Régime."
 ---
-
 ![Image de Louis XVI](https://upload.wikimedia.org/wikipedia/commons/a/af/Mus%C3%A9e_Ingres-Bourdelle_-_Portrait_de_Louis_XVI_-_Joseph-Siffred_Duplessis_-_Joconde06070000102.jpg)
 
 ###### Questions

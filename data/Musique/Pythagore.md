@@ -22,8 +22,9 @@ indice_6 :
   - mathématiques
 questions:
  - Quel savant grec, né vers 580 avant notre ère à Samos, auteur d'un célèbre théorème, considérait la musique comme une science...
+culture_g_score: 92
+culture_g_justification: "Figure centrale de l'Antiquité, Pythagore ouvre des questions en mathématiques, philosophie, sciences, histoire et théorie musicale."
 ---
-
 ![Image de Pythagore](https://upload.wikimedia.org/wikipedia/commons/9/98/Pythagoras%27_Statue%2C_Samos_-_panoramio.jpg)
 
 ###### Questions

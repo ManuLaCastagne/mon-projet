@@ -18,8 +18,9 @@ indice_6 :
   - étoile à huit branches
 questions:
  - Dans les religions anciennes du Proche-Orient, quelle déesse de la fécondité et des combats est identifiée à la divinité sumérienne Inana ?
+culture_g_score: 68
+culture_g_justification: "Ishtar est une grande déesse mésopotamienne, reliée à Inanna, à Babylone, à la guerre et à l’amour, avec plusieurs angles de quiz."
 ---
-
 ![Image de Ishtar](https://upload.wikimedia.org/wikipedia/commons/5/5c/Ishtar_on_an_Akkadian_seal.jpg)
 
 ###### Questions

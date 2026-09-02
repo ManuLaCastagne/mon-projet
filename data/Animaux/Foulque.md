@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de persévérance
 questions:
  - Quel oiseau échassier, voisin de la poule d'eau est également appelé judelle ou macroule?
+culture_g_score: 40
+culture_g_justification: "La foulque est un oiseau aquatique reconnaissable mais peu célèbre, généralement limité aux questions d'ornithologie."
 ---
-
 ![Image de Foulque](https://upload.wikimedia.org/wikipedia/commons/a/a3/Fulko4Anjou.jpg)
 
 ###### Questions

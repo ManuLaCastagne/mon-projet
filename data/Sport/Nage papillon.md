@@ -20,8 +20,9 @@ indice_6 :
   - distance de 100m et 200m
 questions:
  - Technique sportive codifiée en 1953 par une fédération internationale, la FINA, 3 ans avant de devenir une discipline olympique, je nécessite une bonne coordination du corps, allongé sur le ventre. Faisant projeter les bras ensemble en avant au-dessus...
+culture_g_score: 60
+culture_g_justification: "Nage olympique classique permettant des questions sur les techniques, l’histoire de la natation et les grands champions."
 ---
-
 ![Image de Nage papillon](https://upload.wikimedia.org/wikipedia/commons/4/43/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Butterfly-9318.jpg)
 
 ###### Questions

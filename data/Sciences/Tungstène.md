@@ -20,8 +20,9 @@ indice_6 :
   - Métal de transition
 questions:
  - Elément chimique dont le nom est issu du suédois "lourde pierre", je suis un métal fondant à 3 410 degrés.
+culture_g_score: 60
+culture_g_justification: "Métal classique du tableau périodique, surtout utile pour ses propriétés, son symbole, ses usages industriels et les ampoules."
 ---
-
 ![Image de Tungstène](https://upload.wikimedia.org/wikipedia/commons/1/1a/Wolfram_evaporated_crystals_and_1cm3_cube.jpg)
 
 ###### Questions

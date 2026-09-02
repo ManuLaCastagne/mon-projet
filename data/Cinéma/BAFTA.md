@@ -22,8 +22,9 @@ indice_6 :
   - Remise des prix à Londres
 questions:
  - En 1988, quelle récompense britannique reçoit-il pour "Le Nom de la Rose" ?
+culture_g_score: 80
+culture_g_justification: "Grande récompense cinématographique britannique, régulièrement comparée aux Oscars et reliée au cinéma comme à la télévision."
 ---
-
 ![Image de BAFTA](https://upload.wikimedia.org/wikipedia/commons/6/61/BAFTA_Mask_at_Piccadilly_Circus_%282009%29_revised.jpg)
 
 ###### Questions

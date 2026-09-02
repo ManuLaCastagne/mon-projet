@@ -20,8 +20,9 @@ indice_6 :
   - Atlantic Rally for Cruisers
 questions:
  - Je suis ouverte aux multicoques et aux monocoques.  Seule course transatlantique sans escale en équipage à être disputée d'ouest en est, j'ai couronné des skippers comme Loïck Peyron ou Karine Fauconnier. Reliant tous les 4 ans le Canada aux côtes bretonnes, remportée en 2016 par Yann Guichard et Dona Bertarelli en multicoques Ultime, je suis... (Québec-Saint-Malo)
+culture_g_score: 40
+culture_g_justification: "Terme associé à diverses traversées et courses nautiques, mais trop générique et peu stabilisé comme référence précise de quiz."
 ---
-
 ![Image de Transatlantique](https://upload.wikimedia.org/wikipedia/commons/5/54/R%C3%A9clame_Compagnie_G%C3%A9n%C3%A9rale_Transatlantique-1921.jpg)
 
 ###### Questions

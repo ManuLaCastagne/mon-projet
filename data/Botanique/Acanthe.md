@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale
 questions:
  - Quelle plante, dont certaines espèces présentent des hampes florales s'élançant à plus de 1 m de hauteur porte un nom évoquant un ornement ?
+culture_g_score: 60
+culture_g_justification: "Plante utile à connaître surtout pour les chapiteaux corinthiens et l’Antiquité, avec quelques liens artistiques et botaniques."
 ---
-
 ![Image de Acanthe](https://upload.wikimedia.org/wikipedia/commons/4/49/Aspalathus_acanthes_Flipphi_1.jpg)
 
 ###### Questions

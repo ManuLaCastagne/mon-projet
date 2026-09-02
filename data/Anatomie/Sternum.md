@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Latin
+culture_g_score: 64
+culture_g_justification: "Os bien connu et régulièrement identifiable dans les questions d'anatomie, de thorax et de traumatologie."
 ---
 ###### Questions 
 

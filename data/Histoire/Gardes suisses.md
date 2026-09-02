@@ -20,9 +20,9 @@ indice_6 :
   - serments solennels
 questions:
  - Quels gardes engagés par la France furent massacrés en 1789 ?
+culture_g_score: 77
+culture_g_justification: "Corps militaire emblématique du Vatican et de la Révolution française, reconnaissable par son uniforme et sa longue histoire."
 ---
-
-
 ![Image de Gardes suisses](https://upload.wikimedia.org/wikipedia/commons/6/65/Swiss_Guard-_LobozPics.jpg)
 
 ###### Questions

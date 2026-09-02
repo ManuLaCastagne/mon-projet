@@ -20,8 +20,9 @@ indice_5 :
   - Journaliste et homme politique
 indice_6 : 
   - Peau irritée
+culture_g_score: 80
+culture_g_justification: "Révolutionnaire très identifiable par L’Ami du peuple, Charlotte Corday, la baignoire et le tableau de David."
 ---
-
 ![Image de Marat](https://upload.wikimedia.org/wikipedia/commons/a/aa/Death_of_Marat_by_David.jpg)
 
 ###### Questions

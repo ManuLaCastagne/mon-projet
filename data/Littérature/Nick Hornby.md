@@ -20,9 +20,9 @@ indice_5:
   - critique musicale
 indice_6:
   - style humoristique
+culture_g_score: 60
+culture_g_justification: "Auteur britannique identifiable par High Fidelity et About a Boy, avec des liens utiles au cinéma et à la musique populaire."
 ---
-
-
 ![Image de Nick Hornby](https://upload.wikimedia.org/wikipedia/commons/a/a2/Nick_Hornby_01_%28cropped%29.jpg)
 
 ###### Questions

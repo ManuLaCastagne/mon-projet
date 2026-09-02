@@ -20,8 +20,9 @@ indice_6 :
   - Vierge de miséricorde
 questions:
  - Quelle pécheresse repentante...
+culture_g_score: 84
+culture_g_justification: "Marie-Madeleine est une figure majeure des Évangiles, de la Passion, de l’art chrétien et de plusieurs traditions concernant les reliques."
 ---
-
 ![Image de Sainte-Madeleine](https://upload.wikimedia.org/wikipedia/commons/d/d7/%C3%89glise_Sainte-Marie-Madeleine_%28Lille%29_%2C_la_chapelle_transversale_nord_d%C3%A9di%C3%A9e_%C3%A0_la_Vierge-.jpg)
 
 ###### Questions

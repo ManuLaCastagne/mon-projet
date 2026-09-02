@@ -24,8 +24,9 @@ indice_6 :
   - patrimoine mondial de l'UNESCO
 questions:
  - Quel site des Pyrénées, ayant 3,5 km de développement à sa base, abrite la Grande Cascade ?
+culture_g_score: 80
+culture_g_justification: "Site naturel français emblématique, utile en géographie, patrimoine, pyrénéisme, tourisme et littérature."
 ---
-
 ![Image de Gavarnie](https://upload.wikimedia.org/wikipedia/commons/9/9d/Gavarnie_recti_small_Wikimedia_Commons.jpg)
 
 ![[Carte_Gavarnie.png]]

@@ -18,12 +18,9 @@ indice_5:
   - New York à Paris
 indice_6:
   - premier vol transatlantique en solitaire
+culture_g_score: 65
+culture_g_justification: "Nom emblématique de l’aviation grâce à l’exploit de Lindbergh, mais limité à quelques questions sur la traversée de l’Atlantique."
 ---
-
-
-
-
-
 ![Image de Spirit of Saint-Louis](https://upload.wikimedia.org/wikipedia/commons/5/59/Charles_Lindbergh_and_the_Spirit_of_Saint_Louis_%28Crisco_restoration%2C_with_wings%29.jpg)
 
 ###### Questions

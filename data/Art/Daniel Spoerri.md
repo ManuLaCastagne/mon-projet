@@ -20,8 +20,9 @@ indice_5:
   - détournement culinaire
 indice_6:
   - œuvre avec repas
+culture_g_score: 47
+culture_g_justification: "Les tableaux-pièges et les Nouveaux Réalistes offrent quelques angles classiques, mais Spoerri demeure peu connu du grand public."
 ---
-
 ![Image de Daniel Spoerri](https://upload.wikimedia.org/wikipedia/commons/6/6a/Daniel_Spoerri_Seggiano_Giardino_142-1-2.jpg)
 
 ###### Questions

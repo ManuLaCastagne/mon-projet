@@ -23,10 +23,9 @@ indice_6 :
   - Fondation Joan Miró à Barcelone
 questions:
  - En 1915, quel peintre espagnol, dont l'oeuvre fut marquée dès 1911 par le cubisme a exécuté les toiles "Nature morte dans un paysage" et "Le Petit Déjeuner"?
+culture_g_score: 83
+culture_g_justification: "Miró est une figure centrale de l’art moderne, exploitable via le surréalisme, la peinture, la sculpture, la céramique et l’art public."
 ---
-
-
-
 ![Image de Joan Miro](https://upload.wikimedia.org/wikipedia/commons/9/9b/Joan_Miro_-_Dona_i_ocell_%281%29.jpg)
 
 ###### Questions

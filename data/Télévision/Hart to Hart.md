@@ -20,8 +20,9 @@ indice_6 :
   - luxueuse Californie
 questions:
  - Quelle série américaine des années 80 décrit les aventures des justiciers milliardaires Jonathan et Jennifer Hart?
+culture_g_score: 60
+culture_g_justification: "Série policière américaine connue des amateurs de télévision classique, mais moins incontournable que les grandes séries internationales."
 ---
-
 ![Image de Hart to Hart](https://upload.wikimedia.org/wikipedia/commons/8/8a/Hart-Parr_30-60_%281916%29.jpg)
 
 ###### Questions

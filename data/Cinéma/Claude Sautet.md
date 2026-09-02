@@ -22,8 +22,9 @@ indice_6 :
   - maestro du cinéma collectif
 questions:
  - A quel cinéaste doit-on les films "Max et les ferrailleurs", "Nelly et monsieur Arnaud"...
+culture_g_score: 80
+culture_g_justification: "Cinéaste majeur du cinéma français, fréquemment associé aux Choses de la vie, aux acteurs français et à plusieurs classiques."
 ---
-
 ![Image de Claude Sautet](https://upload.wikimedia.org/wikipedia/commons/4/4c/Claude_Sautet_tombe.jpg)
 
 ###### Questions

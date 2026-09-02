@@ -22,8 +22,9 @@ indice_6 :
   - Humeur mélancolique
 questions:
  - En 1983, quelle chanson, débutant par  "Il se lève, c'est l'heure, écrase son mégot", est interprétée par Bernard Lavilliers et Nicoletta?
+culture_g_score: 20
+culture_g_justification: "Œuvre musicale précise et peu connue, dont l’identification est rarement nécessaire pour résoudre une question généraliste."
 ---
-
 ![Image de Idées noires](https://upload.wikimedia.org/wikipedia/commons/9/9c/LL-Q150_%28fra%29-DenisdeShawi-id%C3%A9es_noires.wav)
 
 ###### Questions

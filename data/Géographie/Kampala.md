@@ -24,8 +24,9 @@ indice_6 :
   - Ancienne colonie britannique
 questions:
  - Quelle ville située sur le lac Victoria, capitale de l'Ouganda ?
+culture_g_score: 60
+culture_g_justification: "Capitale africaine régulièrement interrogée dans les listes de capitales et les questions sur l’Ouganda, mais à transversalité modérée."
 ---
-
 ![Image de Kampala](https://upload.wikimedia.org/wikipedia/commons/b/b3/Y_Coetsee_Kampala_Road_Intersection_%282013%29.jpg)
 
 ![[Carte_Kampala.png]]

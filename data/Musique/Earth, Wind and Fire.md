@@ -22,8 +22,9 @@ indice_6 :
   - Hits disco
 questions:
  - Groupe de funk américain ayant sorti l'album "The Need of love" en 1971, je dois mon originalité à mon éclectisme et ma section de cuivres...
+culture_g_score: 80
+culture_g_justification: "Groupe essentiel du funk et de la soul, régulièrement interrogé à travers «September», Maurice White, ses albums et ses récompenses."
 ---
-
 ![Image de Earth, Wind and Fire](https://upload.wikimedia.org/wikipedia/commons/d/d1/Earth_Wind_and_Fire_1970s_press_photo.jpg)
 
 ###### Questions

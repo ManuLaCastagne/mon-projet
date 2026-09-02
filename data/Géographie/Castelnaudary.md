@@ -21,8 +21,9 @@ indice_5 :
   - Saint-Papoul
 indice_6 : 
   - Maison du Cassoulet
+culture_g_score: 40
+culture_g_justification: "Commune surtout connue pour le cassoulet et le canal du Midi, donnant quelques questions de patrimoine et de gastronomie."
 ---
-
 ![[Carte_Castelnaudary.png]]
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_5 :
   - auteur irlandais
 indice_6 : 
   - géant et nains
+culture_g_score: 92
+culture_g_justification: "Auteur incontournable de la satire et de la littérature anglophone, surtout associé aux Voyages de Gulliver et à de nombreux angles historiques et littéraires."
 ---
-
-
-
 ![Image de Jonathan Swift](https://upload.wikimedia.org/wikipedia/commons/4/4b/Jonathan_Swift_by_Charles_Jervas_detail.jpg)
 
 ###### Questions

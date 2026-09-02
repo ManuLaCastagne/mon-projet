@@ -18,8 +18,9 @@ indice_5 :
   - Éthiopie
 indice_6 : 
   - Squelette fossile
+culture_g_score: 80
+culture_g_justification: "Fossile emblématique de l’évolution humaine, relié à la paléontologie, à l’Éthiopie et à plusieurs références musicales et culturelles."
 ---
-
 ![Image de Lucy](https://upload.wikimedia.org/wikipedia/commons/3/3a/Popularity_of_name_Lucy.svg)
 
 ###### Questions

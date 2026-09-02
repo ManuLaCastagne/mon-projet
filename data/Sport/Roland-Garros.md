@@ -20,8 +20,9 @@ indice_6 :
   - Paris
 questions:
  - En 1995, quel tournoi de tennis du grand chelem sur terre battue Thomas Muster a-t-il gagné ?
+culture_g_score: 96
+culture_g_justification: "Tournoi du Grand Chelem majeur, omniprésent dans les quiz grâce à son histoire, ses champions, Paris, la terre battue et ses records."
 ---
-
 ![Image de Roland-Garros](https://upload.wikimedia.org/wikipedia/commons/1/12/Novak_Djokovic_-_Roland-Garros_-_28.05.2024_croped.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Assise
 questions:
  - Quel religieux italien fondateur de l'ordre des frères Mineur est connu pour avoir manifesté un grand attachement aux animaux ?
+culture_g_score: 92
+culture_g_justification: "Figure chrétienne mondialement connue, exploitable à travers l’histoire religieuse, les ordres monastiques, l’art, la paix et l’écologie."
 ---
-
 ![Image de Saint-François-d'Assise](https://upload.wikimedia.org/wikipedia/commons/a/a2/Saint_Fran%C3%A7ois_d%E2%80%98Assise_%28Pamplemousses%29%2C_March_2020.jpg)
 
 ###### Questions

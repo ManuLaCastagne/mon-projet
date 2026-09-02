@@ -18,9 +18,9 @@ indice_5 :
   - Brevet
 indice_6 : 
   - 1941
+culture_g_score: 60
+culture_g_justification: "Inventeur du Velcro, aisément mémorisable et utile pour des questions sur l’innovation, le biomimétisme et les objets du quotidien."
 ---
-
-
 ![Image de Georges de Mestral](https://upload.wikimedia.org/wikipedia/commons/6/64/Henri_Georges_de_Mestral_-_1854668981.jpg)
 
 ###### Questions

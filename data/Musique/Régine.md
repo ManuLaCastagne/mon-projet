@@ -22,8 +22,9 @@ indice_6 :
   - Mimi la twisteuse
 questions:
  - Quelle artiste, surnommée la Reine de la nuit...
+culture_g_score: 60
+culture_g_justification: "Régine constitue une référence de la chanson et de la vie nocturne françaises, mais ses apparitions restent surtout francophones et biographiques."
 ---
-
 ![Image de Régine](https://upload.wikimedia.org/wikipedia/commons/1/1e/R%C3%A9gine_Cannes.jpg)
 
 ###### Questions

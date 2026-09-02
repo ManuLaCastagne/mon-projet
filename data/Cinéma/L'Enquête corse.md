@@ -22,8 +22,9 @@ indice_6 :
   - humour corse
 questions:
  - En 2004, quelle comédie policière, dans laquelle Christian Clavier incarne Jack Palmer, constitue l'adaptation...
+culture_g_score: 60
+culture_g_justification: "Comédie française populaire liée à Jean Reno, Christian Clavier et à la Corse, mais d'importance culturelle relativement modeste."
 ---
-
 ![Image de L'Enquête corse](https://upload.wikimedia.org/wikipedia/commons/1/16/20180822_-_France_3_-_Qui_en_veut_aux_pompiers_de_Vero.webm)
 
 ###### Questions

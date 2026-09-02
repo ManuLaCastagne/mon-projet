@@ -22,8 +22,9 @@ indice_6 :
   - Tosca
 questions:
  - Sous quel nom connaît-on mieux la cantatrice Maria Kaloghéropoulos...
+culture_g_score: 88
+culture_g_justification: "La Divina est une figure mondiale de l'opéra, riche en questions sur les rôles, les compositeurs, sa carrière, Onassis et l'histoire du chant lyrique."
 ---
-
 ![Image de Maria Callas](https://upload.wikimedia.org/wikipedia/commons/9/9d/Ponte_Maria_Callas_%28Venice%29.jpg)
 
 ###### Questions

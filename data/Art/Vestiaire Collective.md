@@ -21,8 +21,9 @@ indice_5 :
   - communauté de mode circulaire
 indice_6 : 
   - fondée en France
+culture_g_score: 47
+culture_g_justification: "Entreprise française connue dans la mode circulaire, mais encore peu rentable dans un entraînement de culture générale classique."
 ---
-
 ![Image de Vestiaire Collective](https://upload.wikimedia.org/wikipedia/commons/f/fe/Un_vestiaire_-_estampe_-_JTJ_%28JJ_Tissot%29_-_btv1b105223762.jpg)
 
 ###### Questions

@@ -16,8 +16,9 @@ indice_5:
   - Haleine de l'Hydre
 indice_6:
   - Rajeunissement de Méduse
+culture_g_score: 68
+culture_g_justification: "L’immortalité constitue un motif transversal des mythologies et des récits littéraires, mais la notion reste moins souvent une réponse précise qu’un personnage ou une œuvre."
 ---
-
 ![Image de Immortalité](https://upload.wikimedia.org/wikipedia/commons/a/aa/Henri_Fantin-Latour_-_Immortalit%C3%A9_-_2014.695.c_-_Cleveland_Museum_of_Art.jpg)
 
 ###### Questions

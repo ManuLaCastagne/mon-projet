@@ -22,10 +22,9 @@ indice_5 :
   - fondée en 1792
 indice_6 : 
   - Krio
+culture_g_score: 60
+culture_g_justification: "Capitale africaine identifiable grâce à son histoire liée aux esclaves libérés, mais moins fréquente que les grandes capitales mondiales."
 ---
-
-
-
 ![Image de Freetown](https://upload.wikimedia.org/wikipedia/commons/6/62/MV_Karadeniz_Powership_Do%C4%9Fan_Bey%2C_Freetown%2C_Sierra_Leone.jpg)
 
 ![[Carte_Freetown.png]]

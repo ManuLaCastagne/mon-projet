@@ -20,8 +20,9 @@ indice_6 :
   - États-Unis
 questions:
  - Dans les années 90, quelle sprinteuse américaine fut deux fois médaille d'or aux JO sur 100 m était reconnaissable par ses ongles démesurés ?
+culture_g_score: 51
+culture_g_justification: "Athlète olympique et mondiale importante, mais son identification reste surtout liée au sprint et aux haies dans des questions relativement spécialisées."
 ---
-
 ![Image de Gail Devers](https://upload.wikimedia.org/wikipedia/commons/4/43/Devers2.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Cavaliers olympiques
 questions:
  - Après le dressage et le cross-country quel est la 3e épreuve du concours complet ?
+culture_g_score: 64
+culture_g_justification: "Discipline équestre olympique majeure, facilement interrogée par ses trois composantes et son histoire."
 ---
-
 ![Image de Concours complet d’équitation](https://upload.wikimedia.org/wikipedia/commons/c/c9/Blenheim_Horse_Trials_2.jpg)
 
 ###### Questions

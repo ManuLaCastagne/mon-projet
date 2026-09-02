@@ -24,8 +24,9 @@ indice_6 :
   - Hohneck
 questions:
  - Département français de 5874 km2, je promeus mon territoire avec une marque dont le nom évoque la chanson "La Vie en rose" d'Edith Piaf.  Département boisé et agricole, je m'étends, à l'est, sur le massif forestier qui m'a donné mon nom, et à l'ouest, sur le sud du plateau lorrain.
+culture_g_score: 80
+culture_g_justification: "Massif français important pour la géographie, l’histoire des frontières, le tourisme, les Vosges et le département homonyme."
 ---
-
 ![Image de Vosges](https://upload.wikimedia.org/wikipedia/commons/3/32/Vue_de_Grand_Ballon_vers_les_Alps.jpg)
 
 ![[Carte_Vosges.png]]

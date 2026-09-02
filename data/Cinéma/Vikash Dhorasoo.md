@@ -22,8 +22,9 @@ indice_6 :
   - Réalisateur
 questions:
  - En 2020, quel ancien footballeur international, ayant joué au Havre, a joué son propre rôle dans Tout simplement noir de Jean-Pascal Zadi ?
+culture_g_score: 31
+culture_g_justification: "Ancien footballeur français et sujet d’un documentaire original, il reste une connaissance très spécifique et peu rentable."
 ---
-
 ![Image de Vikash Dhorasoo](https://upload.wikimedia.org/wikipedia/commons/c/c8/Vikash_Dhorasoo_%28cropped%29.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5:
   - victoire prussienne décisive
 indice_6:
   - roi Guillaume Ier de Prusse
+culture_g_score: 56
+culture_g_justification: "Bataille décisive de l’unification allemande, mais son nom de Sadowa est moins fréquent que celui de Königgrätz."
 ---
-
 ![Image de Bataille de Sadowa](https://upload.wikimedia.org/wikipedia/commons/b/b3/115_-_Bataille_de_Sadowa_-_G%C3%A9ographie_historique._Le%C3%A7ons_en_regard_des_cartes.jpg)
 
 ###### Questions

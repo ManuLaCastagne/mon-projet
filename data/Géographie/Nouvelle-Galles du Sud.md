@@ -24,8 +24,9 @@ indice_6 :
   - patrimoine mondial de l'UNESCO
 questions:
  - Quel Etat d'Australie, situé sur le littoral oriental, a pour capitale la ville de Sydney?
+culture_g_score: 60
+culture_g_justification: "État australien surtout rentable grâce à Sydney, son Opéra, la colonisation britannique et les Blue Mountains."
 ---
-
 ![Image de Nouvelle-Galles du Sud](https://upload.wikimedia.org/wikipedia/commons/7/77/C%C3%A9sar_Moreau._Lettre_relative_au_voyage_de_Thomas_Jamison_en_Nouvelle-Galles_du_Sud%2C_Londres%2C_14_avril_1828_-_btv1b108747667_%282_of_2%29.jpg)
 
 ![[Carte_Nouvelle-Galles du Sud.png]]

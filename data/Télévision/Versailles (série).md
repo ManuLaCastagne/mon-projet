@@ -18,6 +18,8 @@ indice_5:
   - Période baroque
 indice_6:
   - Cour royale
+culture_g_score: 44
+culture_g_justification: "Série historique internationale identifiable par Louis XIV et Versailles, mais moins incontournable que les figures et événements historiques réels."
 ---
 ![[Pasted image 20250503103109.png]]
 ###### Questions

@@ -18,9 +18,9 @@ indice_5:
   - armada espagnole
 indice_6:
   - Renaissance anglaise
+culture_g_score: 100
+culture_g_justification: "Reine majeure de l’histoire anglaise, associée à l’Armada, à Shakespeare, à la religion et à l’essor de l’Angleterre."
 ---
-
-
 ![Image de Elisabeth Ire](https://upload.wikimedia.org/wikipedia/commons/7/76/En-Elizabeth_I_of_England-combined.ogg)
 
 ###### Questions

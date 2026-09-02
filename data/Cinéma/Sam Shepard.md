@@ -18,8 +18,9 @@ indice_5 :
   - Buried Child
 indice_6 : 
   - Jessica Lange
+culture_g_score: 67
+culture_g_justification: "Dramaturge récompensé par le Pulitzer et acteur reconnu, intéressant à l'intersection du théâtre, du cinéma et de la littérature américaine."
 ---
-
 ![Image de Sam Shepard](https://upload.wikimedia.org/wikipedia/commons/b/b2/Sam_Shepard_Stealth_crop.jpg)
 
 ###### Questions

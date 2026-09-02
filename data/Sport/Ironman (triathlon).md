@@ -20,8 +20,9 @@ indice_6 :
   - Ironman 70.3
 questions:
  - Triathlon de l'extrême, dont le nom anglais signifie homme de fer.
+culture_g_score: 73
+culture_g_justification: "L’Ironman est une épreuve d’endurance très connue, facilement interrogée par ses distances, son origine hawaïenne et le triathlon."
 ---
-
 ![Image de Ironman (triathlon)](https://upload.wikimedia.org/wikipedia/commons/9/98/Ironman_Frankfurt_2013_by_Moritz_Kosinsky8481.jpg)
 
 ###### Questions

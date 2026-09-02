@@ -18,7 +18,8 @@ indice_5 :
   - Blue Bloods
 indice_6 : 
   - Moustache
-culture_g_score: 80
+culture_g_score: 64
+culture_g_justification: "Acteur durablement identifié à Magnum et à quelques comédies populaires, mais moins transversal que les grandes stars de cinéma."
 ---
 ![Image de Tom Selleck]()
 

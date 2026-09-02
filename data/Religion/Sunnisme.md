@@ -20,8 +20,9 @@ indice_6 :
   - Quatre écoles fiqh
 questions:
  - Quel courant de l'Islam regroupe 90% des musulmans ?
+culture_g_score: 80
+culture_g_justification: "Branche majoritaire de l’islam, le sunnisme est fréquemment mobilisé dans les questions sur les courants religieux et l’histoire musulmane."
 ---
-
 ![Image de Sunnisme](https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B3%D9%85_%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1%D9%8A_%D9%84%D9%84%D9%81%D8%B8_%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%D8%A9_%D9%88%D9%85%D9%86_%D9%8A%D8%AC%D9%84%D9%87%D9%85_%D8%A3%D9%87%D9%84_%D8%A7%D9%84%D8%B3%D9%86%D8%A9.png)
 
 ###### Questions

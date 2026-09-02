@@ -19,8 +19,9 @@ indice_5 :
   - passionnée de mode et beauté
 indice_6 : 
   - a joué dans des comédies françaises
+culture_g_score: 44
+culture_g_justification: "YouTubeuse française populaire auprès d'un public récent, mais encore peu représentée dans les quiz généralistes traditionnels."
 ---
-
 ![Image de Natoo](https://upload.wikimedia.org/wikipedia/commons/a/ad/Natto_mixed.jpg)
 
 ###### Questions

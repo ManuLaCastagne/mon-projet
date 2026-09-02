@@ -15,8 +15,9 @@ indice_6 :
   - Sujet de films d'horreur
 questions:
  - Quel petit poisson des fleuves amazoniens...
+culture_g_score: 60
+culture_g_justification: "Poisson rendu célèbre par les représentations populaires, utile pour l’Amazonie et les idées reçues sur les animaux dangereux."
 ---
-
 ![Image de Piranhas](https://upload.wikimedia.org/wikipedia/commons/e/ec/Serrasalmus_nattereri_in_Ouwehands_Dierenpark.jpg)
 
 ###### Questions

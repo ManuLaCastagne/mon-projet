@@ -15,8 +15,9 @@ indice_6 :
   - Messager des dieux dans la mythologie nordique
 questions:
  - De quelles plumes, prélevées sur un grand rapace pouvant être dit impérial, étaient faites les coiffes réservées à certains guerriers sioux?
+culture_g_score: 28
+culture_g_justification: "Terme ornithologique précis désignant les plumes caudales, avec un nombre d’angles de question très restreint."
 ---
-
 ![Image de Rectrices](https://upload.wikimedia.org/wikipedia/commons/a/a1/Female_northern_pintail_in_flight-1827.jpg)
 
 ###### Questions

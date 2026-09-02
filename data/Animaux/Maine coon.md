@@ -15,8 +15,9 @@ indice_6 :
   - Mascotte de l'État du Maine
 questions:
  - De lynx. Chat de grand gabarit pesant de 6 à 9 kg, je peux mesurer plus d'un mètre de long.
+culture_g_score: 44
+culture_g_justification: "Race de chat populaire et distinctive, mais principalement utile pour quelques questions de zoologie ou de culture populaire."
 ---
-
 ![Image de Maine coon](https://upload.wikimedia.org/wikipedia/commons/5/57/Maine_Coon_male_NO_Sigdalskauen_Balder.jpg)
 
 ###### Questions

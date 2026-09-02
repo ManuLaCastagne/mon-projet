@@ -21,8 +21,9 @@ indice_5:
   - montagnes centrales
 indice_6:
   - économie technologique
+culture_g_score: 80
+culture_g_justification: "Territoire très présent dans les questions de géopolitique, de technologie, d'histoire chinoise et de culture populaire."
 ---
-
 ![Image de Taïwan](https://upload.wikimedia.org/wikipedia/commons/b/b7/Taipei_Taiwan_Red-House-Theater-01.jpg)
 
 ![[Carte_Taïwan.png]]

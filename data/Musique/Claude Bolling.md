@@ -22,8 +22,9 @@ indice_6 :
   - Les films de Jacques Tati
 questions:
  - Quel pianiste de jazz, compositeur de musique de films, disparu en décembre dernier, est à l'origine de la création des Parisiennes dans les anneés 60 ?
+culture_g_score: 47
+culture_g_justification: "Musicien français respecté pour le jazz et les musiques de film, mais relativement peu connu et peu rentable pour un généraliste."
 ---
-
 ![Image de Claude Bolling](https://upload.wikimedia.org/wikipedia/commons/6/69/ClaudeBolling-1953.png)
 
 ###### Questions

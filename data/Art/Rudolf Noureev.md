@@ -23,8 +23,9 @@ indice_6 :
   - L'après-midi d'un faune
 questions:
  - Quel danseur étoile des Ballets Russes de Diaghilev...
+culture_g_score: 84
+culture_g_justification: "Noureev est une icône mondiale de la danse, utile pour les Ballets, la défection soviétique, l’Opéra de Paris et la culture franco-russe."
 ---
-
 ![Image de Rudolf Noureev](https://upload.wikimedia.org/wikipedia/commons/1/12/Rudolf_Noureev_tombe.jpg)
 
 ###### Questions

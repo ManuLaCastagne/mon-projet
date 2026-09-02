@@ -20,8 +20,9 @@ indice_6 :
   - mariage royal
 questions:
  - A quel traité signé en 1659 associe-t-on une clause concernant le mariage de Louis XIV...
+culture_g_score: 64
+culture_g_justification: "Accord important de l’histoire franco-espagnole, utile pour Louis XIV, les frontières, le Roussillon et le mariage royal."
 ---
-
 ![Image de Traité des Pyrénées](https://upload.wikimedia.org/wikipedia/commons/b/b0/Allegory_Treaty_of_the_Pyrenees_Louvre.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - conspirations politiques
 questions:
  - Quel roman de Dumas père, paru en feuilleton dès 1854, met en scène le personnage appelé Salvator, qui s'oppose à la police de Charles X?
+culture_g_score: 32
+culture_g_justification: "Roman de Dumas relativement peu connu, dont les possibilités de questions restent limitées malgré son intérêt historique."
 ---
-
 ![Image de Les Mohicans de Paris](https://upload.wikimedia.org/wikipedia/commons/e/e5/Philippoteaux_-_Les_Mohicans_de_Paris_-_Monsieur_Jackal.jpg)
 
 ###### Questions

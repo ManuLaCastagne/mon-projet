@@ -18,8 +18,9 @@ indice_5 :
   - Lothaire de Segni
 indice_6 : 
   - Papauté médiévale
+culture_g_score: 67
+culture_g_justification: "Pape très puissant du Moyen Âge, utile pour les croisades, les conciles et les rapports entre Église et pouvoirs politiques."
 ---
-
 ![Image de Innocent III](https://upload.wikimedia.org/wikipedia/commons/e/ee/Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg)
 
 ###### Questions

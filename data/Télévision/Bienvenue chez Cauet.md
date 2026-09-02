@@ -20,8 +20,9 @@ indice_6 :
   - célébrités invitées
 questions:
  - De 2011 à 2013, dans une émission diffusée sur le câble et mentionnant son nom, quel animateur picard recevait des invités dans son appartement?
+culture_g_score: 40
+culture_g_justification: "Émission de divertissement liée à Cauet, connue des amateurs de télévision mais peu importante et peu transversale."
 ---
-
 ![Image de Bienvenue chez Cauet]()
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - colline d'argent
 indice_6 : 
   - Comayagüela
+culture_g_score: 44
+culture_g_justification: "Capitale du Honduras utile dans les questions de capitales, mais peu transversale et moins fréquente que les grandes métropoles régionales."
 ---
-
 ![Image de Tegucigalpa](https://upload.wikimedia.org/wikipedia/commons/a/a8/Tegucigalpa.JPG)
 
 ![[Carte_Tegucigalpa.png]]

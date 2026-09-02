@@ -23,8 +23,9 @@ indice_6 :
   - Fin XIXe siècle
 questions:
  - Quel peintre, membre du groupe des Nabi et prénommé Edouard  est l'auteur de la série des "Jardins publics" en 1894?
+culture_g_score: 47
+culture_g_justification: "Peintre notable des Nabis, Vuillard demeure cependant une connaissance spécialisée, avec une fréquence limitée dans les quiz généralistes."
 ---
-
 ![Image de Edouard Vuillard](https://upload.wikimedia.org/wikipedia/commons/0/07/%28Albi%29_Romain_Coolus_%281906%29_-_Edouard_Vuillard_-_Mus%C3%A9e_d%27Orsay.jpg)
 
 ###### Questions

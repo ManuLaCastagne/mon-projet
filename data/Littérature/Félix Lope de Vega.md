@@ -22,9 +22,9 @@ indice_6 :
   - Monstre de la nature
 questions:
  - Quel écrivain espagnol, surnommé le Phénix des esprits, a écrit plus de 1800 pièces, dont "L'Alcade de Zalamea" en 1600?
+culture_g_score: 67
+culture_g_justification: "Dramaturge central de l’âge d’or espagnol, dont l’œuvre permet des questions sur le théâtre, la poésie et l’Espagne baroque."
 ---
-
-
 ![Image de Félix Lope de Vega](https://upload.wikimedia.org/wikipedia/commons/7/79/LopedeVega.jpg)
 
 ###### Questions

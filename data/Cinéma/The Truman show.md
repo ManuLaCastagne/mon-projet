@@ -22,8 +22,9 @@ indice_6 :
   - faux monde
 questions:
  - En 1998, dans quel film Jim Carrey incarne-t-il un homme qui est filmé depuis le jour de sa naissance pour les besoins d'une émission ?
+culture_g_score: 93
+culture_g_justification: "Film très célèbre et conceptuellement marquant, fréquemment exploité autour de Jim Carrey, de la téléréalité et de la manipulation médiatique."
 ---
-
 ![Image de The Truman show](https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Truman_Show.png)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de mystère dans la culture populaire
 questions:
  - Quel poisson américain à longs barbillons, désigné par un nom composé, introduit en France en 1871, se serait évadé des bassins du Muséum d'histoire naturelle de Paris et aurait rejoint la Seine par les égouts ?
+culture_g_score: 48
+culture_g_justification: "Groupe de poissons diversifié permettant des questions sur les espèces, les records et les adaptations, sans forte centralité culturelle."
 ---
-
 ![Image de Poisson-chat](https://upload.wikimedia.org/wikipedia/commons/d/d2/Le_Chat_Apt_Poisson_frit_et_frites.jpg)
 
 ###### Questions

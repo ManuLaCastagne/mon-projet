@@ -21,9 +21,9 @@ indice_5:
   - Le Sampa
 indice_6:
   - humour musical
+culture_g_score: 52
+culture_g_justification: "Chanteur populaire français associé à quelques chansons humoristiques, mais d'importance et de transversalité limitées."
 ---
-
-
 ![Image de Richard Gotainer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Richard_gotainer.jpg)
 
 ###### Questions

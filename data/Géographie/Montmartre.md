@@ -24,8 +24,9 @@ indice_6 :
   - Quartier des artistes
 questions:
  - Célèbre quartier d'une ville française, je suis traversé par de nombreuses rues qui inspirèrent les peintres, telles que la rue...
+culture_g_score: 96
+culture_g_justification: "Quartier parisien incontournable permettant des questions sur l’art, le Sacré-Cœur, la Commune, la bohème et l’histoire de Paris."
 ---
-
 ![Image de Montmartre](https://upload.wikimedia.org/wikipedia/commons/7/78/L%27escalier_de_droite_menant_%C3%A0_la_Basilique_de_Montmartre_-_GT_03_-_2024.jpg)
 
 

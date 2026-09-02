@@ -22,9 +22,9 @@ indice_6 :
   - pari extravagant
 questions:
  - Quel nom porte l'inspecteur de police suit Phileas…
+culture_g_score: 56
+culture_g_justification: "Personnage mémorable du Tour du monde en quatre-vingts jours, mais limité à quelques questions sur ce roman de Jules Verne."
 ---
-
-
 ![Image de Fix (Verne)](https://upload.wikimedia.org/wikipedia/commons/9/98/Dorothy_Anstett%2C_Miss_USA%2C_1968-bluish_tint_fix_attempt.jpg)
 
 ###### Questions

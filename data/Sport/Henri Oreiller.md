@@ -20,8 +20,9 @@ indice_6 :
   - Médaille d'or
 questions:
  - En 1948, quelle skieur est devenu le premier français champion olympique lors des jeux de Saint-Moritz ?
+culture_g_score: 48
+culture_g_justification: "Premier grand champion olympique français de ski alpin, mais principalement mobilisé dans des questions historiques sur les Jeux de 1948."
 ---
-
 ![Image de Henri Oreiller](https://upload.wikimedia.org/wikipedia/commons/8/87/Henri_Oreiller_1948.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - L'Homme qui voulut être roi
 questions:
  - Ma fille Angelica dans "L'honneur des Prizzi" et "Gens de Dublin"...
+culture_g_score: 68
+culture_g_justification: "Réalisateur, scénariste et acteur de films majeurs, John Huston possède une carrière très riche, quoique moins connue du grand public francophone."
 ---
-
-
 ![Image de John Huston](https://upload.wikimedia.org/wikipedia/commons/8/80/John_Huston_-_publicity.JPG)
 
 ###### Questions

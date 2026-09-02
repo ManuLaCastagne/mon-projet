@@ -18,8 +18,9 @@ indice_5:
   - Torvill et Dean
 indice_6:
   - Vučko
+culture_g_score: 64
+culture_g_justification: "Jeux d’hiver marquants par leur organisation en Yougoslavie et leur contexte géopolitique, avec une fréquence de quiz classique mais modérée."
 ---
-
 ![Image de Sarajevo 1984](https://upload.wikimedia.org/wikipedia/commons/e/e8/1984_Winter_Olympics_logo.svg)
 
 ###### Questions

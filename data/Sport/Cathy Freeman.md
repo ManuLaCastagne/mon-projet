@@ -18,8 +18,9 @@ indice_5:
   - Athlétisme
 indice_6:
   - Aborigène australienne
+culture_g_score: 60
+culture_g_justification: "Championne olympique associée à Sydney 2000 et à la cause aborigène, ce qui lui donne plusieurs entrées classiques."
 ---
-
 ![Image de Cathy Freeman](https://upload.wikimedia.org/wikipedia/commons/e/e6/Cathy_Freeman_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - film de 2012
 indice_6 : 
   - Sam Mendes
+culture_g_score: 80
+culture_g_justification: "Épisode marquant de James Bond, associé à Adele, Daniel Craig, Javier Bardem et au cinquantenaire de la saga."
 ---
-
 ![Image de Skyfall](https://upload.wikimedia.org/wikipedia/commons/2/2e/Skyfall_script.png)
 
 ###### Questions

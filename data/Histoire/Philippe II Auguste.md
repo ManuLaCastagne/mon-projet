@@ -18,10 +18,9 @@ indice_5:
   - unification de la France
 indice_6:
   - rival de Jean sans Terre
+culture_g_score: 84
+culture_g_justification: "Roi majeur de l’histoire capétienne, associé à Bouvines, Jean sans Terre, la monarchie centralisée et la troisième croisade."
 ---
-
-
-
 ![Image de Philippe II Auguste](https://upload.wikimedia.org/wikipedia/commons/7/7d/Statue_de_Philippe_II_Auguste_-_J.L.Jaley.jpg)
 
 ###### Questions

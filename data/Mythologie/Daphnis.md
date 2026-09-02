@@ -18,8 +18,9 @@ indice_6 :
   - Idylle
 questions:
  - Selon la [[mythologie grecque]], quel berger légendaire de Sicile, fils d'Hermès et initié par Apollon à l'art de jouer de la flûte passe pour l'inventeur de la poésie bucolique?
+culture_g_score: 31
+culture_g_justification: "Figure pastorale et littéraire relativement spécialisée, rarement mobilisée dans les quiz généralistes."
 ---
-
 ![Image de Daphnis](https://upload.wikimedia.org/wikipedia/commons/e/ed/Daphnis%2C_Roman_copy_from_a_group_from_the_2nd_century_AD%2C_Cinquantenaire_Museum%2C_Brussels.jpg)
 
 ###### Questions

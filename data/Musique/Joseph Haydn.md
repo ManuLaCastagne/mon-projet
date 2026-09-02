@@ -22,9 +22,9 @@ indice_6:
   - service des Esterházy
 questions:
   - Quel compositeur autrichien réalisa la symphonie "Les Adieux" à la fin de laquelle les instrumentistes cessent de jouer les uns après les autres ?
+culture_g_score: 84
+culture_g_justification: "Compositeur classique fondamental, associé à la symphonie, au quatuor, à Mozart, à Beethoven et à plusieurs œuvres célèbres."
 ---
-
-
 ![Image de Joseph Haydn](https://upload.wikimedia.org/wikipedia/commons/3/3e/Haydn_Kaiserlied_Reinschrift.jpg)
 
 ###### Questions

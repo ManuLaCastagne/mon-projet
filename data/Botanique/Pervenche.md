@@ -13,8 +13,9 @@ indice_5:
   - Vinca
 indice_6:
   - Plante ornementale
+culture_g_score: 44
+culture_g_justification: "La pervenche est identifiable et liée à une couleur ainsi qu'à quelques usages médicinaux, sans être une référence majeure."
 ---
-
 ![Image de Pervenche](https://upload.wikimedia.org/wikipedia/commons/d/d8/Petite_pervenche_%28Vinca_minor%29_%282_dioptries%29.jpg)
 
 ###### Questions

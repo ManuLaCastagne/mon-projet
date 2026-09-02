@@ -18,8 +18,9 @@ indice_5:
   - sept joueurs
 indice_6:
   - 40x20 mètres
+culture_g_score: 80
+culture_g_justification: "Sport collectif olympique majeur en France et en Europe, riche en règles, compétitions, équipes nationales, joueurs et histoire."
 ---
-
 ![Image de Handball](https://upload.wikimedia.org/wikipedia/commons/b/bd/Albert_Rocas_Selecci%C3%B3n_2013.jpg)
 
 ###### Questions

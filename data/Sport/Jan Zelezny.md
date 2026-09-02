@@ -20,8 +20,9 @@ indice_6 :
   - Championnats du monde
 questions:
  - Quel athlète tchèque est le plus titré en javelot, dans les années 90 ?
+culture_g_score: 60
+culture_g_justification: "Détenteur durable du record mondial du javelot et triple champion olympique, Železný est une bonne référence d’athlétisme."
 ---
-
 ![Image de Jan Zelezny](https://upload.wikimedia.org/wikipedia/commons/a/a2/Jan_Zelezny.jpg)
 
 ###### Questions

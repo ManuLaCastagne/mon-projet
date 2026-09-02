@@ -21,8 +21,9 @@ indice_5 :
   - Musée national d'Alexandrie
 indice_6 : 
   - Jardins du Palais Montaza
+culture_g_score: 80
+culture_g_justification: "Grande cité antique associée à Alexandre le Grand, au phare, à la bibliothèque et à l’histoire méditerranéenne, donc très rentable en quiz."
 ---
-
 ![[Carte_Alexandrie.png]]
 
 ###### Questions

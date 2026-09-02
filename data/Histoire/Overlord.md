@@ -20,8 +20,9 @@ indice_6:
   - Forces alliées contre les forces allemandes
 questions:
   - Quel nom de code anglais a-t-on donné à l'opération ayant conduit au débarquement de Normandie le 6 juin 44 ?
+culture_g_score: 92
+culture_g_justification: "Nom de code incontournable du débarquement de Normandie, très fréquent et directement relié à la Seconde Guerre mondiale et à l’histoire militaire."
 ---
-
 ![Image de Overlord](https://upload.wikimedia.org/wikipedia/commons/4/4d/Overlord_logo.png)
 
 ###### Questions

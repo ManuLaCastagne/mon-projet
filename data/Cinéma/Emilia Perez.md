@@ -16,8 +16,9 @@ indice_5:
   - comédie musicale
 indice_6:
   - métamorphose personnelle
+culture_g_score: 60
+culture_g_justification: "Film récent fortement exposé par Jacques Audiard, Cannes et les Oscars, mais dont la notoriété et la stabilité culturelle restent en construction."
 ---
-
 ![Image de Emilia Perez](https://upload.wikimedia.org/wikipedia/commons/d/d4/Emilia_P%C3%A9rez_Cannes_2024.jpg)
 
 ###### Questions

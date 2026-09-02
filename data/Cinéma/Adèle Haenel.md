@@ -20,9 +20,9 @@ indice_5:
   - héroïne de films engagés
 indice_6:
   - actrice franco-allemande
+culture_g_score: 64
+culture_g_justification: "Actrice française primée et associée à plusieurs films marquants, avec une notoriété renforcée par son retrait du cinéma."
 ---
-
-
 ![Image de Adèle Haenel](https://upload.wikimedia.org/wikipedia/commons/c/cd/MERCI_ADELE_HAENEL.jpg)
 
 ###### Questions

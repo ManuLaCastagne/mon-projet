@@ -24,8 +24,9 @@ indice_6 :
   - randonnée
 questions:
  - Massif montagneux séparé des Vosges par la vallée du Rhin, je dois mon nom à l'aspect sombre...
+culture_g_score: 80
+culture_g_justification: "Massif allemand classique, exploitable en géographie, contes, tourisme, gastronomie et repères européens."
 ---
-
 ![Image de Forêt-Noire](https://upload.wikimedia.org/wikipedia/commons/9/9a/Schonach_-_Paradies_-_Sonnenaufgang.jpg)
 
 ![[Carte_Forêt-Noire.png]]

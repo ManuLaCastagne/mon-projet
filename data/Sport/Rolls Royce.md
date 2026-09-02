@@ -20,8 +20,9 @@ indice_6 :
   - Black Badge
 questions:
  - De quelle marque de luxe était le cabriolet Silver Cloud ayant appartenu à Aznavour, puis Bardot, vendue au Salon en 2014 ?
+culture_g_score: 7
+culture_g_justification: "Équipe anglaise de football australien très confidentielle, pratiquement absente des quiz généralistes francophones."
 ---
-
 ![Image de Rolls Royce](https://upload.wikimedia.org/wikipedia/commons/6/63/D%C3%BClmen%2C_Rolls-Royce_Phantom_II_--_2024_--_5841.jpg)
 
 ###### Questions

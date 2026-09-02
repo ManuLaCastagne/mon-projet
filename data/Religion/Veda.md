@@ -20,8 +20,9 @@ indice_6:
   - Upanishads
 questions:
   - Quel mot sanskrit, signifiant connaissance, désigne un ensemble de textes brahmaniques qui sont à la base des rites et des croyances de la société hindoue?
+culture_g_score: 71
+culture_g_justification: "Les Veda sont essentiels pour comprendre l’hindouisme et l’Inde ancienne, mais leur technicité limite leur fréquence auprès du grand public."
 ---
-
 ![Image de Veda](https://upload.wikimedia.org/wikipedia/commons/0/03/The_four_vedas_flowchart.jpg)
 
 ###### Questions

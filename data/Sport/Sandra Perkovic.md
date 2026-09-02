@@ -21,8 +21,9 @@ indice_6 :
   - domination en lancer
 questions:
  - Objet pesant 1kg  pour les compétitions d'athlétisme féminines, où excelle Sandra Perkovic, je pèse le double pour les hommes.
+culture_g_score: 44
+culture_g_justification: "Grande spécialiste du disque, importante en athlétisme croate mais peu fréquente dans les quiz généralistes hors questions spécialisées."
 ---
-
 ![Image de Sandra Perkovic](https://upload.wikimedia.org/wikipedia/commons/a/ab/Sandra_Perkovi%C4%87_Doha_2015.jpg)
 
 ###### Questions

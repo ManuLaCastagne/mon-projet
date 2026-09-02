@@ -22,8 +22,9 @@ indice_6 :
   - mensonge
 questions:
  - En 2000, dans quel roman inspiré d'un fait divers Emmanuel Carrère raconte l'histoire d'un homme dont toute la vie a été basée sur un mensonge ?
+culture_g_score: 60
+culture_g_justification: "Récit littéraire d’un fait divers français marquant, connu aussi par son adaptation, mais à la portée relativement circonscrite."
 ---
-
 ![Image de L'Adversaire](https://upload.wikimedia.org/wikipedia/commons/4/41/Relief_of_a_devil%27s_head_with_golden_horns_and_sharp_teeth_in_Rue_du_Grand_Hospice_Brussels_Belgium.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5:
   - guerre civile anglaise
 indice_6:
   - restauration de 1660
+culture_g_score: 72
+culture_g_justification: "Dynastie utile pour comprendre les monarchies britannique et écossaise, Marie Stuart, Charles Ier, Charles II et les conflits religieux."
 ---
-
 ![Image de Stuart](https://upload.wikimedia.org/wikipedia/commons/1/15/Gilbert_Stuart_Selfportrait.jpg)
 
 ###### Questions

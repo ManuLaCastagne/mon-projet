@@ -20,8 +20,9 @@ indice_6 :
   - Georgios Papadopoulos
 questions:
  - Système politique autoritaire sous lequel vécut la Grèce et dont la chute fut précipitée avec la crise de Chypre, je suis…
+culture_g_score: 60
+culture_g_justification: "Régime classique de l’histoire contemporaine grecque, utile pour les questions sur les dictatures militaires, Chypre et la Grèce moderne."
 ---
-
 ![Image de Dictature des colonels](https://upload.wikimedia.org/wikipedia/commons/3/36/GREEK_JUNTA_MAP_FLAG.png)
 
 ###### Questions

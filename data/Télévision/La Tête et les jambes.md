@@ -20,8 +20,9 @@ indice_6 :
   - épreuves sportives
 questions:
  - Dans quel jeu des années 60-70, animé notamment par Pierre Bellemare, un candidat en difficulté pouvait-il se faire aider par un sportif?
+culture_g_score: 43
+culture_g_justification: "Ancien jeu télévisé français intéressant pour l’histoire de la télévision, mais désormais peu connu du grand public."
 ---
-
 ![Image de La Tête et les jambes](https://upload.wikimedia.org/wikipedia/commons/f/fd/La_t%C3%AAte_et_les_jambes.png)
 
 ###### Questions

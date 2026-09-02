@@ -22,8 +22,9 @@ indice_6 :
   - écrivain français
 questions:
  - Quel grand écrivain du Culture_G/XIXe siècle  a publié son 1er roman "Armance" à l'âge de 44 ans, se prénomme en réalité Henri Beyle ?
+culture_g_score: 80
+culture_g_justification: "Grand romancier du XIXe siècle, associé au Rouge et le Noir, à La Chartreuse de Parme et au syndrome portant son nom."
 ---
-
 ![Image de Stendhal](https://upload.wikimedia.org/wikipedia/commons/3/3d/Stendhal.jpg)
 
 ###### Questions

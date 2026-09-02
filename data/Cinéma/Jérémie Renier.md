@@ -21,8 +21,9 @@ indice_6:
   - carrière commencée jeune avec La Promesse
 questions:
   - Acteur belge incarnant Pierre Berger dans "Saint Laurent", Claude François dans "Cloclo". Révélé par "La promesse".
+culture_g_score: 43
+culture_g_justification: "Jérémie Renier est reconnu dans le cinéma francophone et pour Cloclo, mais demeure une référence assez spécialisée pour un généraliste."
 ---
-
 ![Image de Jérémie Renier](https://upload.wikimedia.org/wikipedia/commons/a/a1/J%C3%A9r%C3%A9mie_Renier_%282020%29.jpg)
 
 ###### Questions

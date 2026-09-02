@@ -22,8 +22,9 @@ indice_5 :
   - Ville verte européenne en 2016
 indice_6 : 
   - Présence d'une université renommée
+culture_g_score: 60
+culture_g_justification: "Capitale slovène identifiable et utile pour la géographie européenne, l’architecture de Plečnik, l’histoire yougoslave et l’écologie urbaine."
 ---
-
 ![Image de Ljubljana](https://upload.wikimedia.org/wikipedia/commons/c/ca/Rifling_of_a_cannon_%28M75%3B_90mm%3B_y.1891%3B_Austro-Hungarian%3B_exposed_in_Ljubljana%2C_Slovenia%29.jpg)
 
 ![[Carte_Ljubljana.png]]

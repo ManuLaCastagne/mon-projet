@@ -22,9 +22,9 @@ indice_6 :
   - ballade romantique
 questions:
  - Chanson commençant par les mots "D'accord, il existait d'autres façons de se quitter", je suis sortie en 1997 en France en même temps que les titres "Tout" et "Humana".
+culture_g_score: 69
+culture_g_justification: "Tube majeur de Lara Fabian, souvent reconnaissable dans les quiz francophones, mais offrant peu d'angles indépendants."
 ---
-
-
 ![Image de Je t'aime (Lara Fabian)](https://upload.wikimedia.org/wikipedia/commons/1/10/Salammb%C3%B4_chez_M%C3%A2tho%2C_Je_t%27aime_Je_t%27aime%2C_d%27apr%C3%A8s_Salammb%C3%B4%2C_de_Gustave_Flaubert_%281862%29%2C_PPO726.jpg)
 
 ###### Questions

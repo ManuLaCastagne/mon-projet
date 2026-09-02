@@ -20,8 +20,9 @@ indice_6 :
   - Rubro-Negro
 questions:
  - Au Brésil, quel club de football carioca dispute le derby appelé Fla-Flu contre le club de Fluminense?
+culture_g_score: 80
+culture_g_justification: "Grand club brésilien régulièrement interrogé pour ses Libertadores, ses titres mondiaux, Rio et ses joueurs emblématiques."
 ---
-
 ![Image de Flamengo](https://upload.wikimedia.org/wikipedia/commons/0/09/Museu-do-flamengo-sala-de-trofeus.jpg)
 
 ###### Questions

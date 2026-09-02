@@ -22,8 +22,9 @@ indice_6 :
   - album 300 lésions
 questions:
  - Quel groupe de pop-rock français interprète de "Ton mec" et "Plan A" en 2017 doit son nom à un personnage du jeu vidéo "King of Fighter"?
+culture_g_score: 60
+culture_g_justification: "Groupe français très populaire dans les années 2000, surtout retenu pour Le Chemin, ses tubes et ses récompenses."
 ---
-
 ![Image de Kyo](https://upload.wikimedia.org/wikipedia/commons/b/b6/Kyo_logo.svg)
 
 ###### Questions

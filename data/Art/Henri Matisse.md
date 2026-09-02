@@ -23,10 +23,9 @@ indice_6:
   - Nice
 questions:
   - Quel peintre français auteur de "La Danse" a réalisé "Portes-fenêtres à Collioure" ?
+culture_g_score: 92
+culture_g_justification: "Matisse est une figure fondamentale de l’art moderne, avec le fauvisme, la peinture, les papiers découpés, Jazz et de nombreuses œuvres célèbres."
 ---
-
-
-
 ![Image de Henri Matisse](https://upload.wikimedia.org/wikipedia/commons/b/b1/Portrait_of_Henri_Matisse_1933_May_20.jpg)
 
 ###### Questions

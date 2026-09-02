@@ -22,9 +22,9 @@ indice_6 :
   - célébrité hollywoodienne
 questions:
  - Quelle actrice suédoise a tourné sous la direction de son homonyme  "Sonate d'automne"…
+culture_g_score: 97
+culture_g_justification: "Actrice universellement célèbre grâce à Casablanca, Hitchcock, ses Oscars et plusieurs classiques du cinéma mondial."
 ---
-
-
 ![Image de Ingrid Bergman](https://upload.wikimedia.org/wikipedia/commons/0/06/Rosa_Ingrid_Bergman_2018-07-16_6611.jpg)
 
 ###### Questions

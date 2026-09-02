@@ -21,6 +21,7 @@ indice_6 :
 questions:
  - Entre 1959 et 1969, quelle franchise de basket-ball a exercé une hégémonie sur la NBA, le championnat de basket américain, en remportant 10 des 11 titres mis en jeu?
 culture_g_score: 80
+culture_g_justification: "Franchise historique de la NBA, associée à Bill Russell, à ses nombreux titres et à plusieurs repères de l'histoire du basket."
 ---
 ![Image de Boston Celtics](https://upload.wikimedia.org/wikipedia/commons/1/1d/Allison_Feaster_at_the_Celtics%E2%80%99_Auerbach_Center%3B_Photograph_by_Stu_Rosner.jpg)
 

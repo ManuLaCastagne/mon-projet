@@ -20,9 +20,9 @@ indice_5 :
   - Peau d'Âne
 indice_6 : 
   - Les Parapluies de Cherbourg
+culture_g_score: 72
+culture_g_justification: "Grand réalisateur français associé à plusieurs classiques, aux comédies musicales et à la Nouvelle Vague, mais moins incontournable que les figures suprêmes du cinéma."
 ---
-
-
 ![Image de Jacques Demy](https://upload.wikimedia.org/wikipedia/commons/1/1f/Identite-Demy-1956-Sacem.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7g7rDLTaMOMFBMe0734uHo" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

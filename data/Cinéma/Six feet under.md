@@ -22,8 +22,9 @@ indice_6 :
   - Los Angeles
 questions:
  - Avant "Dexter", quelle autre série américaine, dans laquelle il jouait a révélé Michael C.Hall au grand public ?
+culture_g_score: 80
+culture_g_justification: "Série HBO majeure, identifiable par sa famille de thanatopracteurs, ses récompenses et ses thèmes de société."
 ---
-
 ![Image de Six feet under](https://upload.wikimedia.org/wikipedia/commons/6/6e/Six_Feet_Under_House.jpg)
 
 ###### Questions

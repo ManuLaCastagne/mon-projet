@@ -22,9 +22,9 @@ indice_6 :
   - Auteur de Le Petit Ami
 questions:
  - Quel écrivain français, auteur d'un "Journal littéraire" publié entre 1954 et 1966, a recueilli 300 chats et 150 chiens au cours de sa vie?
+culture_g_score: 40
+culture_g_justification: "Écrivain apprécié des connaisseurs pour son Journal et son anticonformisme, mais peu présent dans les quiz généralistes."
 ---
-
-
 ![Image de Paul Léautaud](https://upload.wikimedia.org/wikipedia/commons/a/ab/L%C3%A9autaud_en_1920.jpg)
 
 ###### Questions

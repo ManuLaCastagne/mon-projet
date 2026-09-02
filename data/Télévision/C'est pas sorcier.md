@@ -19,9 +19,9 @@ indice_5:
   - expérience scientifique
 indice_6:
   - simplification des concepts
+culture_g_score: 96
+culture_g_justification: "Émission éducative française incontournable, très rentable grâce à ses animateurs, ses thèmes scientifiques et sa forte présence dans les quiz."
 ---
-
-
 ![Image de C'est pas sorcier](https://upload.wikimedia.org/wikipedia/commons/1/17/C%27est_pas_sourc%C3%A9_2B.png)
 
 ###### Questions

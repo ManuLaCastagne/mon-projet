@@ -23,8 +23,9 @@ indice_6 :
   - post-impressionnisme
 questions:
  - En 1895, quel tableau de Paul Cézanne représente deux hommes devant une bouteille ?
+culture_g_score: 80
+culture_g_justification: "Série emblématique de Cézanne, fréquemment interrogée pour le postimpressionnisme, les collections de musées et le marché de l’art."
 ---
-
 ![Image de Les Joueurs de Cartes](https://upload.wikimedia.org/wikipedia/commons/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg)
 
 ###### Questions

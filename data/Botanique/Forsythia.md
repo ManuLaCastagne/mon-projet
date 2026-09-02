@@ -13,8 +13,9 @@ indice_5:
   - Aussi appelé mimosa de Paris
 indice_6:
   - Utilisé souvent en haies et massifs décoratifs
+culture_g_score: 44
+culture_g_justification: "Arbuste courant des jardins et reconnaissable à sa floraison jaune précoce, sans forte portée culturelle générale."
 ---
-
 ![Image de Forsythia](https://upload.wikimedia.org/wikipedia/commons/8/84/Forsythia_RF.jpg)
 
 ###### Questions

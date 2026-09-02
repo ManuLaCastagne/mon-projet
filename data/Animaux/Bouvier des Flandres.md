@@ -15,9 +15,9 @@ indice_6 :
   - Gardien de troupeau
 questions:
  - Intelligent, protecteur. Doté d'un poil sombre et rude de barbe, moustaches et sourcils lorsque je suis dit "des Flandres", tandis que j'ai une allure de nounours...
+culture_g_score: 32
+culture_g_justification: "Race de chien de travail historiquement utile, mais trop spécialisée pour être une priorité généraliste."
 ---
-
-
 ![Image de Bouvier des Flandres](https://upload.wikimedia.org/wikipedia/commons/7/7f/Bouvier.JPG)
 
 ###### Questions

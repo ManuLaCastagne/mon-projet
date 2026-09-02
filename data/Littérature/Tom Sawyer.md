@@ -22,8 +22,9 @@ indice_6 :
   - ville de Saint-Pétersbourg
 questions:
  - Personnage dont le nom est associé  au titre d'un ouvrage paru en 1876, j'apparais dans 4 romans. Vivant chez ma tante Polly dans un village au bord du Mississippi, amoureux en cachette de Becky Thatcher, je fais souvent l'école buissonnière...
+culture_g_score: 93
+culture_g_justification: "Héros universellement célèbre de Mark Twain, très rentable pour la littérature américaine, le Mississippi, l'enfance, les adaptations et les personnages associés."
 ---
-
 ![Image de Tom Sawyer](https://upload.wikimedia.org/wikipedia/commons/0/02/Tom_sawyer.png)
 
 ###### Questions

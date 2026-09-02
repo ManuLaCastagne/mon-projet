@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la nature sauvage
 questions:
  - Mammifère ayant donné mon nom courant à un documentaire d'Alastair Fothergill et Keith Scholey en 2014, je vis en solitaire dans les montagnes Rocheuses. Ursidé omnivore bien que je sois classé...
+culture_g_score: 68
+culture_g_justification: "Le grizzli est une figure forte de la faune nord-américaine, utile pour des questions sur les ours, les parcs et la nature sauvage."
 ---
-
 ![Image de Grizzli](https://upload.wikimedia.org/wikipedia/commons/8/84/Play_fight_IMG_3018.JPG)
 
 ###### Questions

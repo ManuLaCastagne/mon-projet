@@ -18,8 +18,9 @@ indice_5 :
   - 1964
 indice_6 : 
   - Oscar pour meilleure histoire originale
+culture_g_score: 80
+culture_g_justification: "Classique d'aventure français très rentable grâce à Belmondo, Philippe de Broca, Tintin, le Brésil et son influence sur Spielberg."
 ---
-
 ![Image de L'Homme de Rio](https://upload.wikimedia.org/wikipedia/commons/5/5e/Jean_Paul_Belmondo_em_O_Homem_no_Rio.tiff)
 
 ###### Questions

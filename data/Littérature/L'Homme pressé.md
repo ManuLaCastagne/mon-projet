@@ -20,14 +20,9 @@ indice_5:
   - publications en série
 indice_6:
   - auteur prolifique
+culture_g_score: 60
+culture_g_justification: "Roman de Paul Morand surtout rentable grâce à la chanson de Noir Désir et à son adaptation, avec une importance littéraire plus limitée."
 ---
-
-
-
-
-
-
-
 ![Image de Homme pressé](https://upload.wikimedia.org/wikipedia/commons/5/56/From_the_trailer_of_the_film_%22Un_homme_press%C3%A9%22_%28H._Mimran%2C_2018%29.jpg)
 
 ###### Questions

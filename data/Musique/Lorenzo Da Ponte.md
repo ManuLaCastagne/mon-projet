@@ -22,8 +22,9 @@ indice_6 :
   - opéra
 questions:
  - Quel librettiste italien a écrit plusieurs oeuvres pour Mozart dont "Les Noces de Figaro" ?
+culture_g_score: 65
+culture_g_justification: "Da Ponte est le librettiste de trois opéras majeurs de Mozart, ce qui le rend très rentable dans les questions croisées sur l'opéra et le XVIIIe siècle."
 ---
-
 ![Image de Lorenzo Da Ponte](https://upload.wikimedia.org/wikipedia/commons/6/64/Millstatt_Stiftgasse_Plastik_des_Lorenzo_da_Ponte_16082014_557.jpg)
 
 ###### Questions

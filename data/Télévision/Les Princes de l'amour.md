@@ -19,8 +19,9 @@ indice_5 :
   - quête de l'amour
 indice_6 : 
   - princes et princesses
+culture_g_score: 24
+culture_g_justification: "Programme de téléréalité identifiable dans son créneau, mais peu rentable pour un entraînement généraliste de haut niveau."
 ---
-
 ![Image de Les Princes de l'amour](https://upload.wikimedia.org/wikipedia/commons/3/3a/L%27Amour_a_L%27Espagnole_MET_DP829021.jpg)
 
 ###### Questions

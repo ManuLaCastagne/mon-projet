@@ -22,8 +22,9 @@ indice_6 :
   - collaborateur de Gustave Kervern
 questions:
  - Quel humoriste réalisateur, lié à Gustave Kervern, porte un nom évoquant à l'origine un lieu planté d'arbrisseaux piquants ou d'aubépines?
+culture_g_score: 40
+culture_g_justification: "Auteur-réalisateur français estimé, mais principalement pertinent pour les amateurs de satire et de cinéma indépendant."
 ---
-
 ![Image de Benoît Délépine](https://upload.wikimedia.org/wikipedia/commons/c/c2/Beno%C3%AEt_Del%C3%A9pine_-_2012-09-17.jpg)
 
 ###### Questions

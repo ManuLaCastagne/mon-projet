@@ -23,8 +23,9 @@ indice_6 :
   - Cadavre exquis
 questions:
  - Mouvement dont le nom fut choisi  notamment par Yvan Goll en 1924 comme titre d'une revue, j'ai été créé autour de poètes comme Benjamin Péret et Philippe Soupault…
+culture_g_score: 100
+culture_g_justification: "Le surréalisme est un mouvement fondamental et très transversal, reliant littérature, peinture, cinéma, poésie, histoire et culture populaire."
 ---
-
 ![Image de Surréalisme](https://upload.wikimedia.org/wikipedia/commons/c/c3/Exposition_internationale_du_surr%C3%A9alisme%2C_Paris_1938._Titelblatt.jpg)
 
 ###### Questions

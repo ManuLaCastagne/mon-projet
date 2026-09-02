@@ -22,9 +22,9 @@ indice_6 :
   - 1983
 questions:
  - Ecrite et composée par mon interprète, je suis basée sur des sonorités africaines et contiens des paroles en langue zouloue.  Tube engagé de Maxime Le Forestier évoquant les villes d'Alger, de Manille et de Paris, je débute...
+culture_g_score: 48
+culture_g_justification: "Chanson connue de Maxime Le Forestier portant un thème universel, mais rarement interrogée en dehors de la chanson française."
 ---
-
-
 ![Image de Né quelque part](https://upload.wikimedia.org/wikipedia/commons/5/51/Baillon_-_Moi_quelque_part%2C_1920.djvu)
 
 ###### Questions

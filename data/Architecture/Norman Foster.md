@@ -23,8 +23,9 @@ indice_6 :
   - Prix Pritzker 1999
 questions:
  - Quel architecte britannique, il est célèbre, ayant conçu le viaduc de Millau, a également réalisé l'aéroport international de Hong Kong?
+culture_g_score: 72
+culture_g_justification: "Architecte contemporain de premier plan, Norman Foster est relié à de nombreux bâtiments célèbres, à Londres, à l’ingénierie et à l’urbanisme."
 ---
-
 ![Image de Norman Foster](https://upload.wikimedia.org/wikipedia/commons/2/2f/190930_Bundeslatitude: 35.271886
 longitude: -97.4888134
 location: 35.271886,-97.4888134

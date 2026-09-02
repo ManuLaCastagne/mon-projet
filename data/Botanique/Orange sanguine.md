@@ -15,8 +15,9 @@ indice_6 :
   - Jus et zeste dans la cuisine
 questions:
  - Variété d'un fruit apparue en Europe vers 1850, je peux, selon les cas, être dite double fine, moro ou tarocco. Agrume principalement cultivé en Espagne, en Italie et en Afrique du Nord, je suis habituellement...
+culture_g_score: 44
+culture_g_justification: "Variété d'agrume connue pour sa chair rouge et ses usages culinaires, mais peu fréquente hors des questions alimentaires spécialisées."
 ---
-
 ![Image de Orange sanguine](https://upload.wikimedia.org/wikipedia/commons/2/2c/Blood_orange_slice.jpg)
 
 ###### Questions

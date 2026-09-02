@@ -22,8 +22,9 @@ indice_6 :
   - chanteur français
 questions:
  - Chanteur né en 1967 à La Réunion, j'ai reçu en 1995 la Victoire de la musique de la révélation variétés masculine grâce à mon 1er album "La Dernière Année". Ayant écrit la chanson "Marie" pour Johnny Hallyday, je dois à Jean-Jacques Goldman les paroles de "J'en rêve encore"...
+culture_g_score: 52
+culture_g_justification: "Chanteur français associé à plusieurs tubes et récompenses, mais dont l’intérêt quiz reste surtout centré sur la variété française des années 1990."
 ---
-
 ![Image de Gérald de Palmas](https://upload.wikimedia.org/wikipedia/commons/4/46/G%C3%A9rald_de_Palmas_par_Claude_Truong-Ngoc_juin_2014.jpg)
 
 ###### Questions

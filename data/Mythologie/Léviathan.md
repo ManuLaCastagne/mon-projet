@@ -16,9 +16,9 @@ indice_5:
   - symbolisme chrétien
 indice_6:
   - lutte avec Dieu
+culture_g_score: 80
+culture_g_justification: "Le Léviathan est une figure biblique et mythologique très exploitable dans les questions sur les monstres, le chaos, le judaïsme et la littérature."
 ---
-
-
 ![Image de Léviathan](https://upload.wikimedia.org/wikipedia/commons/9/9d/Destruction_of_Leviathan.png)
 
 ###### Questions

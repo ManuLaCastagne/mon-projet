@@ -20,8 +20,9 @@ indice_6 :
   - promotion des lois de décentralisation
 questions:
  - Quel homme politique, maire de Lille, devient son premier Premier ministre ?
+culture_g_score: 60
+culture_g_justification: "Premier ministre associé au tournant social de 1981 et à François Mitterrand, mais moins transversal que les grandes figures de la Ve République."
 ---
-
 ![Image de Pierre Mauroy](https://upload.wikimedia.org/wikipedia/commons/b/b1/Villeneuve_d%27Ascq_Construction_du_Grand_Stade_Lille_M%C3%A9tropole_08-04-2012.jpg)
 
 ###### Questions

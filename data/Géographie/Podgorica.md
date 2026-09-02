@@ -20,8 +20,9 @@ indice_5 :
   - siège du gouvernement monténégrin
 indice_6 : 
   - bibliothèque nationale du Monténégro
+culture_g_score: 60
+culture_g_justification: "Capitale des Balkans utile pour les questions sur le Monténégro et l’ex-Yougoslavie, mais peu présente dans les quiz courants."
 ---
-
 ![Image de Podgorica](https://upload.wikimedia.org/wikipedia/commons/3/3c/R%C3%ADo_Moraca%2C_norte_de_Podgorica%2C_Montenegro%2C_2014-04-14%2C_DD_09.JPG)
 
 ![[Carte_Podgorica.png]]

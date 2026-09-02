@@ -18,8 +18,9 @@ indice_5 :
   - The Gong Show
 indice_6 : 
   - sketchs comiques
+culture_g_score: 76
+culture_g_justification: "Acteur comique associé à Shrek, Austin Powers, Wayne's World et Saturday Night Live, offrant de nombreuses entrées dans la culture populaire."
 ---
-
 ![Image de Mike Myers](https://upload.wikimedia.org/wikipedia/commons/c/c9/Mike_Myers_2017_%2837220071326%29_%28cropped%29.jpg)
 
 ###### Questions

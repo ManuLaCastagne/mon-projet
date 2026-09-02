@@ -22,8 +22,9 @@ indice_6:
   - Le Jardin des supplices
 questions:
   - A quel écrivain sont empruntés les sujets des films "Les affaires sont les affaires" et "Le Journal d'une femme de chambre"?
+culture_g_score: 51
+culture_g_justification: "Écrivain engagé, dramaturge et critique d’art intéressant pour plusieurs références, mais relativement secondaire dans les quiz généralistes."
 ---
-
 ![Image de Octave Mirbeau](https://upload.wikimedia.org/wikipedia/commons/9/96/Octave_Mirbeau_portrait.jpg)
 
 ###### Questions

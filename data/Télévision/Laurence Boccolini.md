@@ -18,9 +18,9 @@ indice_5 :
   - France 2
 indice_6 : 
   - France Télévisions
+culture_g_score: 73
+culture_g_justification: "Animatrice très identifiable par Le Maillon faible, Mask Singer et plusieurs jeux télévisés français."
 ---
-
-
 ![Image de Laurence Boccolini](https://upload.wikimedia.org/wikipedia/commons/7/74/Portrait_de_Laurence_Boccolini%2C_par_l%27intelligence_artificielle_Grok_%282%29.jpg)
 
 ###### Questions

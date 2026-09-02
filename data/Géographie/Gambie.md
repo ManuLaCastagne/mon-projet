@@ -24,9 +24,9 @@ indice_6 :
   - océan Atlantique
 questions:
  - Quel Etat d'Afrique occidentale, dont la capitale est Banjul ne partage de frontière qu'avec le Sénégal, pays dans lequel il est enclavé ?
+culture_g_score: 80
+culture_g_justification: "Pays africain très caractéristique par sa forme enclavée dans le Sénégal, son histoire coloniale et le fleuve éponyme."
 ---
-
-
 ![Image de Gambie](https://upload.wikimedia.org/wikipedia/commons/8/86/Rivi%C3%A8re_de_Gambie_-_btv1b53153477m_%282_of_2%29.jpg)
 
 ![[Carte_Gambie.png]]

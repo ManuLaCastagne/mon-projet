@@ -20,8 +20,9 @@ indice_6 :
   - Serge Lebovici
 questions:
  - A quelle psychiatre et psychanalyste française, disparue en 1988, doit-on la formule   "On ne naît pas parent, on le devient" ? (Evidemment, un petit clin d'oeil à Simone de Beauvoir)
+culture_g_score: 77
+culture_g_justification: "Psychanalyste française très connue, régulièrement citée sur l’enfance, l’éducation, la parentalité et la vulgarisation psychologique."
 ---
-
 ![Image de Françoise Dolto](https://upload.wikimedia.org/wikipedia/commons/4/43/Revue_Approches%2C_num%C3%A9ro_sp%C3%A9cial_avec_Fran%C3%A7oise_Dolto.pdf)
 
 ###### Questions

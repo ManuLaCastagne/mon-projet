@@ -22,8 +22,9 @@ indice_6 :
   - école de composition
 questions:
  - Quelle famille française compte plusieurs célébrités, dont Béatrice, écrivain, Ariane, animatrice de télévision, Jules, compositeur et il y avait Béatrice, écrivain ?
+culture_g_score: 64
+culture_g_justification: "Compositeur français important de l’opéra, régulièrement associé à Manon, Thaïs et à la tradition musicale française."
 ---
-
 ![Image de Jules Massenet](https://upload.wikimedia.org/wikipedia/commons/8/80/Jules_Massenet_by_Eug%C3%A8ne_Pirou.jpg)
 
 ###### Questions

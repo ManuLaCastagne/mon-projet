@@ -24,8 +24,9 @@ indice_6 :
   - Trapani
 questions:
  - Le 11 mai 1860, dans quelle île Garibaldi débarque-t-il avec ses Chemises rouges, à la tête de l'expédition des Mille ?
+culture_g_score: 92
+culture_g_justification: "Grande île méditerranéenne, centrale pour l’Antiquité, les volcans, l’histoire italienne, la mafia et la géographie."
 ---
-
 ![Image de Sicile](https://upload.wikimedia.org/wikipedia/commons/8/84/P1140571_Paris_IV_rue_du_Roi-de-Sicile_rwk.jpg)
 
 ![[Carte_Sicile.png]]

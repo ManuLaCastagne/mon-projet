@@ -15,8 +15,9 @@ indice_6 :
   - symbole de clairvoyance
 questions:
  - Quel rapace diurne, du genre Buteo, très courant en Europe, peut être dit variable ou pattue?
+culture_g_score: 64
+culture_g_justification: "Rapace européen bien connu, lié à l’observation de la nature, aux expressions et aux chaînes alimentaires."
 ---
-
 ![Image de Buse](https://upload.wikimedia.org/wikipedia/commons/9/9c/Don_Buse_Evansville.jpg)
 
 ###### Questions

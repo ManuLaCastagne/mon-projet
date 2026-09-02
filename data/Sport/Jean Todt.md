@@ -20,8 +20,9 @@ indice_6 :
   - A.S.O.
 questions:
  - Qui fut nommé Président de la Fédération internationale de l'automobile en 2009 ?
+culture_g_score: 80
+culture_g_justification: "Son parcours de copilote, dirigeant de Ferrari et président de la FIA permet de nombreuses questions indépendantes sur le sport automobile."
 ---
-
 ![Image de Jean Todt](https://upload.wikimedia.org/wikipedia/commons/3/39/Jean_Todt_%28Official%29.png)
 
 ###### Questions

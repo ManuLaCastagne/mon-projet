@@ -22,8 +22,9 @@ indice_6 :
   - réalisateur
 questions:
  - En 1914, quel cinéaste américain réalise, avec Oscar Apfel, "Le Mari de l'Indienne", qui constitue le 1er long-métrage tourné à Hollywood?
+culture_g_score: 68
+culture_g_justification: "Pionnier majeur du cinéma hollywoodien, régulièrement mobilisable via les épopées, le cinéma muet, Ben-Hur et l’histoire des studios."
 ---
-
 ![Image de Cecil B](https://upload.wikimedia.org/wikipedia/commons/9/9f/Cecil_B_DeMille_1937.JPG)
 
 ###### Questions

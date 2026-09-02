@@ -21,8 +21,9 @@ indice_5 :
   - Observatoire d'Ulugh Beg
 indice_6 : 
   - Empire Timouride
+culture_g_score: 72
+culture_g_justification: "Ancienne étape majeure de la Route de la soie, connue pour le Registan et l’histoire savante de l’Asie centrale."
 ---
-
 ![[Carte_Samarcande.png]]
 
 ###### Questions

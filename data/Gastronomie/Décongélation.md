@@ -1,3 +1,8 @@
+---
+culture_g_score: 48
+culture_g_justification: "Notion pratique et liée à la sécurité alimentaire, mais rarement interrogée comme sujet autonome dans les quiz."
+---
+
 
 
 ###### Questions 

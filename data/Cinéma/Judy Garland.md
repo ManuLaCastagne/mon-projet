@@ -18,8 +18,9 @@ indice_5 :
   - A Star Is Born
 indice_6 : 
   - Dorothy Gale
+culture_g_score: 100
+culture_g_justification: "Judy Garland est une icône de Hollywood, du Magicien d'Oz, de la chanson et des comédies musicales, avec une rentabilité exceptionnelle."
 ---
-
 ![Image de Judy Garland](https://upload.wikimedia.org/wikipedia/commons/d/da/Judy_Garland_as_Veronica_Fisher.png)
 
 ###### Questions

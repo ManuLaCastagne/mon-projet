@@ -22,8 +22,9 @@ indice_6 :
   - Blind Couple
 questions:
  - En 2004, quel couple de musiciens et chanteurs maliens...
+culture_g_score: 48
+culture_g_justification: "Amadou et Mariam sont un duo africain reconnu, principalement mobilisé via Dimanche à Bamako, Manu Chao et la musique du monde."
 ---
-
 ![Image de Amadou et Mariam](https://upload.wikimedia.org/wikipedia/commons/a/a4/Amadou_et_Mariam_2009.jpg)
 
 ###### Questions

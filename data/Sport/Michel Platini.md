@@ -20,8 +20,9 @@ indice_6 :
   - Nancy
 questions:
  - Ayant inscrit 41 buts en 1972 sélections avec mon équipe nationale, j'ai été le 1er joueur à recevoir 3 fois de suite le ballon d'or. Champion de France avec Saint-Etienne et d'Europe avec les Bleus, j'ai marqué l'histoire de la Juventus Turin.
+culture_g_score: 100
+culture_g_justification: "Légende du football français, incontournable pour les Ballons d’or, l’Euro 1984, la Juventus, l’UEFA et les controverses."
 ---
-
 ![Image de Michel Platini](https://upload.wikimedia.org/wikipedia/commons/6/66/Michel_Platini_2010_%28cropped%29.jpg)
 
 ###### Questions

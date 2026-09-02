@@ -18,8 +18,9 @@ indice_5 :
   - Homère
 indice_6 : 
   - Parodie de la guerre de Troie
+culture_g_score: 60
+culture_g_justification: "Opérette célèbre d’Offenbach, permettant des questions sur la mythologie, le Second Empire et la musique française."
 ---
-
 ![Image de La Belle Hélène](https://upload.wikimedia.org/wikipedia/commons/8/8e/19.05.1972._La_Belle_H%C3%A9l%C3%A8ne._%281972%29_-_53Fi4224.jpg)
 
 ###### Questions

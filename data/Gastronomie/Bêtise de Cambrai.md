@@ -3,6 +3,8 @@ tags:
   - Gastronomie
   - XIXe
 date: 1889
+culture_g_score: 44
+culture_g_justification: "Confiserie française connue par son origine et son parfum de menthe, mais limitée à quelques questions patrimoniales."
 ---
 ###### Questions 
 

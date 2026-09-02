@@ -22,8 +22,9 @@ indice_6 :
   - évènement de 53 av. J.-C.
 questions:
  - Dans quelle forêt près d'Orléans les druides se réunissaient-ils ?
+culture_g_score: 44
+culture_g_justification: "Repère de l’histoire gauloise et des écrits de César, intéressant mais limité à quelques questions antiques et celtiques."
 ---
-
 ![Image de Forêt des Carnutes](https://upload.wikimedia.org/wikipedia/commons/9/9a/Revue_des_questions_historiques_%28IA_RevueDesQuestionsHistoriquesA3T5%29.pdf)
 
 ###### Questions

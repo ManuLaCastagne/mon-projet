@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de régénération
 questions:
  - Pouvant atteindre près de 100 dB, je suis émis par les anoures mâles, bouche et narines fermées, et peux être amplifié par un ou 2 sacs vocaux externes.  Emis en particulier pendant la période de reproduction près des étangs...
+culture_g_score: 44
+culture_g_justification: "Terme sonore facile à retenir mais limité à quelques questions de vocabulaire animal et de comportement des amphibiens."
 ---
-
 ![Image de Coassement](https://upload.wikimedia.org/wikipedia/commons/2/22/LL-Q150_%28fra%29-DenisdeShawi-coassement.wav)
 
 ###### Questions

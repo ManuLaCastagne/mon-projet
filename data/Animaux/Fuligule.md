@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de migration et d'adaptation
 questions:
  - A quel canard plongeur associe-t-on les espèces "milouin" et "morillon" ?
+culture_g_score: 23
+culture_g_justification: "Le fuligule est un genre de canards plongeurs peu connu, principalement utile dans des questions ornithologiques spécialisées."
 ---
-
 ![Image de Fuligule](https://upload.wikimedia.org/wikipedia/commons/c/c8/Aythya_novaeseelandiae%2C_Lake_Victoria%2C_Christchurch%2C_New_Zealand.jpg)
 
 ###### Questions

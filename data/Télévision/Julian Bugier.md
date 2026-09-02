@@ -20,8 +20,9 @@ indice_6 :
   - visage emblématique du 13 heures
 questions:
  - En janvier dernier, quel journaliste a succédé à Marie-Sophie Lacarrau...
+culture_g_score: 40
+culture_g_justification: "Présentateur de journaux télévisés connu du public français, mais encore peu installé comme référence de quiz généraliste."
 ---
-
 ![Image de Julian Bugier](https://upload.wikimedia.org/wikipedia/commons/1/1b/Julian_Bugier_%28Colmar%29_%281%29.jpg)
 
 ###### Questions

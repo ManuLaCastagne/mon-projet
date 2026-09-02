@@ -18,8 +18,9 @@ indice_5 :
   - Harpo
 indice_6 : 
   - Shug Avery
+culture_g_score: 80
+culture_g_justification: "Classique de Spielberg et adaptation littéraire majeure, mobilisable autour de la ségrégation, d'Alice Walker, de Whoopi Goldberg et des Oscars."
 ---
-
 ![Image de La Couleur pourpre]()
 
 ###### Questions

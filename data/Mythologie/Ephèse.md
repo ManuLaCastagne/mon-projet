@@ -18,9 +18,9 @@ indice_6 :
   - bibliothèque de Celsus
 questions:
  - Quelle ancienne ville d'Ionie située dans l'actuelle Turquie pour son temple d'Artémis…
+culture_g_score: 80
+culture_g_justification: "Grande cité antique et site du temple d'Artémis, mobilisable en histoire, archéologie, religion et géographie."
 ---
-
-
 ![Image de Ephèse](https://upload.wikimedia.org/wikipedia/commons/4/49/Ephesus_-_Prytaneion.jpg)
 
 ###### Questions

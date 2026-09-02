@@ -20,8 +20,9 @@ indice_6 :
   - suivi de germinal
 questions:
  - Et mars, j'étais le dernier de l'hiver et faisais suite à Nivôse et à Pluviôse... Mois du calendrier républicain dont le nom était formé sur un mot évoquant la présence de vent...
+culture_g_score: 56
+culture_g_justification: "Mois emblématique du calendrier révolutionnaire, mais principalement exploitable dans quelques questions de chronologie et de Révolution française."
 ---
-
 ![Image de Ventôse](https://upload.wikimedia.org/wikipedia/commons/0/01/Ventose.jpg)
 
 ###### Questions

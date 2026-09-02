@@ -24,8 +24,9 @@ indice_6:
   - France
 questions:
   - Quel édifice de Nîmes n'est pas carré, contrairement à son nom ?
+culture_g_score: 80
+culture_g_justification: "La Maison carrée est un monument romain exceptionnellement conservé, utile pour l’Antiquité, Nîmes, Auguste, l’épigraphie et l’influence architecturale."
 ---
-
 ![Image de Maison carrée](https://upload.wikimedia.org/wikipedia/commons/f/f9/Maison_Carree_in_Nimes_%2816%29.jpg)
 
 ![[Carte_Maison carrée.png]]

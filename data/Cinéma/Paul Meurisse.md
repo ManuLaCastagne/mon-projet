@@ -22,8 +22,9 @@ indice_6 :
   - Le Deuxième Souffle de Jean-Pierre Melville
 questions:
  - En 1955, quel acteur interprète l'époux de Véra Clouzot et l'amant de Simone Signoret dans le film "Les Diaboliques"?
+culture_g_score: 60
+culture_g_justification: "Acteur classique du cinéma français, notamment grâce aux Diaboliques et à sa carrière théâtrale, mais aujourd'hui moins connu du grand public."
 ---
-
 ![Image de Paul Meurisse](https://upload.wikimedia.org/wikipedia/commons/d/d3/Paul_Guichard_b_Meurisse_1918.jpg)
 
 ###### Questions

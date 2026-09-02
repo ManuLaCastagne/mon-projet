@@ -18,8 +18,9 @@ indice_5 :
   - France 3
 indice_6 : 
   - TF1
+culture_g_score: 32
+culture_g_justification: "Miss France 1998 et animatrice occasionnelle, connue mais peu centrale dans la culture générale télévisuelle."
 ---
-
 ![Image de Sophie Thalmann](https://upload.wikimedia.org/wikipedia/commons/3/3b/Sophie_Thalmann_2013_2.jpg)
 
 ###### Questions

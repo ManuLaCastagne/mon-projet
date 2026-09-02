@@ -22,8 +22,9 @@ indice_6 :
   - nom inspiré de Brigitte Bardot
 questions:
  - Quel prénom  féminin les chanteuses Aurélie Saada et Sylvie Hoarau ont-elles choisi...
+culture_g_score: 44
+culture_g_justification: "Duo français connu pour quelques titres et son esthétique rétro, mais relativement peu transversal en quiz généraliste."
 ---
-
 ![Image de Brigitte (groupe)](https://upload.wikimedia.org/wikipedia/commons/8/80/Festival_des_Vieilles_Charrues_2015_-_Brigitte_-_077.jpg)
 
 ###### Questions

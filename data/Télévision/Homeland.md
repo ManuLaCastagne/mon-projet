@@ -20,8 +20,9 @@ indice_6 :
   - espionnage
 questions:
  - Soupçonné par une agente de la CIA d'être passé à l'ennemi. Série avec Mandy Patinkin, Damian Lewis, Claire Danes.
+culture_g_score: 80
+culture_g_justification: "Thriller politique et d'espionnage primé, régulièrement interrogé à travers Claire Danes, la CIA, ses récompenses et son adaptation israélienne."
 ---
-
 ![Image de Homeland](https://upload.wikimedia.org/wikipedia/commons/2/26/Homeland_%28Showtime_TV_series%29_logo.svg)
 
 ###### Questions

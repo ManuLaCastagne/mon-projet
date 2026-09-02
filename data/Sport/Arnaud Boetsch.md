@@ -20,8 +20,9 @@ indice_6 :
   - Commentateur sportif
 questions:
  - En 1996, en finale de la Coupe Davis, quel joueur donne la victoire à la France après 4h47 d'un match remporté 10-8 au 5e et dernier set?
+culture_g_score: 40
+culture_g_justification: "Tennisman français associé à la Coupe Davis et à quelques performances nationales, mais rarement prioritaire."
 ---
-
 ![Image de Arnaud Boetsch](https://upload.wikimedia.org/wikipedia/commons/8/8d/Arnaud_Boetsch_RG_2005.jpg)
 
 ###### Questions

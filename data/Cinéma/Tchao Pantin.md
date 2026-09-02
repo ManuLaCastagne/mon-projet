@@ -22,8 +22,9 @@ indice_6 :
   - Lambert Wilson
 questions:
  - En 1984, grâce à quel film de Claude Berri Richard Anconina obtient-il deux césars dont celui du meilleur espoir masculin ?
+culture_g_score: 65
+culture_g_justification: "Film français important associé à Coluche, aux César et à un tournant notable du cinéma populaire des années 1980."
 ---
-
 ![Image de Tchao Pantin](https://upload.wikimedia.org/wikipedia/commons/7/74/Not_So_Long_Ago_%281925%29_-_1.jpg)
 
 ###### Questions

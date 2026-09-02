@@ -18,8 +18,9 @@ indice_5 :
   - Introduit le franc comme monnaie en France
 indice_6 : 
   - Rétablit l'autorité royale après la révolte de la Jacquerie
+culture_g_score: 80
+culture_g_justification: "Roi de France capturé à Poitiers, il permet d’aborder la Guerre de Cent Ans, la chevalerie, les Valois et les institutions monarchiques."
 ---
-
 ![Image de Jean le Bon](https://upload.wikimedia.org/wikipedia/commons/c/cc/France%2C_Gothic_period%2C_14th_century_-_Mouton_d%27Or_of_King_Jean_le_Bon_of_France%2C_1350-1364_-_1964.372_-_Cleveland_Museum_of_Art.jpg)
 
 ###### Questions

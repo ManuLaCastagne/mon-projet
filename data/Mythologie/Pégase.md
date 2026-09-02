@@ -18,8 +18,9 @@ indice_6 :
   - Envol vers l'Olympe
 questions:
  - Cheval ailé né du sang de Méduse et dompté par Bellérophon, qui me chevaucha pour combattre la Chimère, je suis…
+culture_g_score: 84
+culture_g_justification: "Cheval ailé universellement reconnaissable, Pégase est très présent dans les quiz grâce à Méduse, Bellérophon, la mythologie, les constellations et les arts."
 ---
-
 ![Image de Pégase](https://upload.wikimedia.org/wikipedia/commons/4/49/Mine_hunter_P%C3%A9gase_M644.jpg)
 
 ###### Questions

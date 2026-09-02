@@ -20,9 +20,9 @@ indice_6 :
   - Straddle
 questions:
  - Discipline de l'athlétisme dont le premier record officiel a été détenu par Marshall Brooks en 1874, je suis devenue olympique en 1928 pour les femmes.
+culture_g_score: 80
+culture_g_justification: "Épreuve classique de l’athlétisme, reliée aux Jeux olympiques, au Fosbury-flop, aux records et à plusieurs champions célèbres."
 ---
-
-
 ![Image de Saut en hauteur](https://upload.wikimedia.org/wikipedia/commons/2/2b/Nawal_Meniker_-_Saut_en_hauteur_f%C3%A9minin_-_Championnats_de_France_d%27athl%C3%A9tisme_en_salle_2015.jpg)
 
 ###### Questions

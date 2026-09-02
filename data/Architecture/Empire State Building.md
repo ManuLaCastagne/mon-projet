@@ -23,8 +23,9 @@ indice_6 :
   - King Kong
 questions:
  - Quel gratte-ciel new-yorkais de Manhattan, réalisé de 1930...
+culture_g_score: 84
+culture_g_justification: "Icône mondiale de New York, l’Empire State Building revient dans des questions d’architecture, de géographie, de cinéma et de culture populaire."
 ---
-
 ![Image de Empire State Building](https://upload.wikimedia.org/wikipedia/commons/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg)
 
 ###### Questions

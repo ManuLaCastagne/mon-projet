@@ -22,8 +22,9 @@ indice_6 :
   - Sans chemise
 questions:
  - Chanteuse née en 1938, j'arrive à Paris en 1960 où je fais la première partie de Jacques Brel à l'Olympia. Interprète israélienne...
+culture_g_score: 56
+culture_g_justification: "Figure connue de la chanson française ancienne, surtout grâce à «Casatschok» et à sa médiatisation autour de la médecine naturelle."
 ---
-
 ![Image de Rika Zaraï](https://upload.wikimedia.org/wikipedia/commons/4/4d/Rika_Zara%C3%AF_7_mars_1969.jpg)
 
 ###### Questions

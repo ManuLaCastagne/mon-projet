@@ -22,8 +22,9 @@ indice_6:
   - dôme de verre
 questions:
   - Depuis 1999, dans quel palais berlinois de style néoclassique, surmonté d'une coupole, est établi le Bundestag...
+culture_g_score: 96
+culture_g_justification: "Édifice central de l'histoire politique allemande, associé à l'incendie de 1933, à la réunification et à l'art contemporain."
 ---
-
 ![Image de Reichstag](https://upload.wikimedia.org/wikipedia/commons/c/c7/Reichstag_building_Berlin_view_from_west_before_sunset.jpg)
 
 ![[Carte_Reichstag.png]]

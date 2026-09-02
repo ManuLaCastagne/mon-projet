@@ -21,8 +21,9 @@ indice_6:
   - bataille de Hastings
 questions:
   - Brodée à l'aide de fils de laine sur une toile de lin mesurant près de 70 m de long...
+culture_g_score: 88
+culture_g_justification: "La Tapisserie de Bayeux est un artefact historique et artistique incontournable, lié à Guillaume le Conquérant, Hastings, la broderie et le patrimoine mondial."
 ---
-
 ![Image de Tapisserie de Bayeux](https://upload.wikimedia.org/wikipedia/commons/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg)
 
 ###### Questions

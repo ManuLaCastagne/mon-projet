@@ -22,8 +22,9 @@ indice_6 :
   - statue du Commandeur
 questions:
  - Quel personnage d'une comédie de Molière sous-titrée "Le Festin de Pierre" est un séducteur ?
+culture_g_score: 100
+culture_g_justification: "Personnage mythique transversal à la littérature, au théâtre, à l’opéra et à la poésie, très fréquent sous des formes variées."
 ---
-
 ![Image de Don Juan](https://upload.wikimedia.org/wikipedia/commons/8/8c/Don_Juan_by_Eug%C3%A8ne_Delacroix.jpg)
 
 ###### Questions

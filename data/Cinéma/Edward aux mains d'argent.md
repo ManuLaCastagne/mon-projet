@@ -20,6 +20,8 @@ indice_5 :
   - Winona Ryder
 indice_6 : 
   - suburbia américaine
+culture_g_score: 80
+culture_g_justification: "Film culte de Tim Burton ouvrant de nombreuses questions sur Johnny Depp, Danny Elfman, le fantastique et la représentation de la banlieue."
 ---
 ![[Pasted image 20250421194045.png]]
 ###### Questions

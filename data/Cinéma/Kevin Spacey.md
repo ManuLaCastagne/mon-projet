@@ -20,8 +20,9 @@ indice_5 :
   - Baby Driver
 indice_6 : 
   - L.A. Confidential
+culture_g_score: 76
+culture_g_justification: "Les Oscars, Usual Suspects, American Beauty et House of Cards rendent Kevin Spacey fréquemment identifiable, malgré une actualité controversée."
 ---
-
 ![Image de Kevin Spacey](https://upload.wikimedia.org/wikipedia/commons/4/49/Kevin_Spacey_in_2017.jpg)
 
 ###### Questions

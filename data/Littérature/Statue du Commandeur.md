@@ -22,8 +22,9 @@ indice_6 :
   - vengeance après la mort
 questions:
  - Dans Don Juan, quel personnage emmène le héros dans les enfers ?
+culture_g_score: 68
+culture_g_justification: "Figure mémorable de Dom Juan, utile pour Molière, le mythe de Don Juan et le thème du châtiment surnaturel."
 ---
-
 ![Image de Statue du Commandeur](https://upload.wikimedia.org/wikipedia/commons/b/b2/La_statue_du_commandeur_-_pantomime_en_3_actes_%281892%29_%2814776059755%29.jpg)
 
 ###### Questions

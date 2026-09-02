@@ -22,8 +22,9 @@ indice_6 :
   - histoires de divorces
 questions:
  - En 2020, dans quel film Arnaud Ducret joue-t-il un célibataire qui forme, avec d'autres hommes séparés comme lui, un groupe de divorcés?
+culture_g_score: 27
+culture_g_justification: "Comédie française contemporaine peu marquante, dont le titre et les principaux repères sont rarement sollicités en quiz."
 ---
-
 ![Image de Divorce Club](https://upload.wikimedia.org/wikipedia/commons/f/fd/Henry_K._Lattin_%281806-1894%29_divorce_in_the_Appleton_Post_of_Appleton%2C_Wisconsin_on_12_December_1878.jpg)
 
 ###### Questions

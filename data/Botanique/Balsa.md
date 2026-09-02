@@ -15,8 +15,9 @@ indice_6:
   - Fabrication de modèles réduits
 questions:
   - Donnez-moi ce bois, très léger, issu d'un arbre tropical employé pour des modèles réduits ?
+culture_g_score: 44
+culture_g_justification: "Le bois très léger est un indice de quiz identifiable et utile en matériaux, mais le sujet offre peu d’autres angles."
 ---
-
 ![Image de Balsa](https://upload.wikimedia.org/wikipedia/commons/9/9f/Ochroma_pyramidale_Costa_Rica_1.jpg)
 
 ###### Questions

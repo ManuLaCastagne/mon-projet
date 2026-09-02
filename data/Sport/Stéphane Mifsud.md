@@ -20,9 +20,9 @@ indice_6 :
   - Plongée libre
 questions:
  - En 2009, quel apnéiste français bat le record du monde d'apnée statique avec un temps de 11 minutes 35 secondes?
+culture_g_score: 20
+culture_g_justification: "Apnéiste détenteur d’un record remarquable, mais sujet très spécialisé et rarement mobilisé en quiz généraliste."
 ---
-
-
 ![Image de Stéphane Mifsud](https://upload.wikimedia.org/wikipedia/commons/5/57/St%C3%A9phane_Mifsud_-_Piscine.jpg)
 
 ###### Questions

@@ -16,9 +16,9 @@ indice_6:
   - Rivale de Mars
 questions:
   - Dans la [[mythologie grecque]], quelle divinité personnifiant la victoire, parfois assimilée à Athéna, a aidé Zeus à affronter les Titans?
+culture_g_score: 76
+culture_g_justification: "Niké est une déesse grecque classique, particulièrement rentable grâce à la Victoire de Samothrace, aux symboles de victoire et à son nom culturel."
 ---
-
-
 ![Image de Niké](https://upload.wikimedia.org/wikipedia/commons/0/0d/Nike_Vaporfly_Cut_in_Half.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Capitane du XV de France
 questions:
  - Quel joueur de rugby, 34 fois capitaine du XV de France, surnommait-on "Casque d'or" ?
+culture_g_score: 63
+culture_g_justification: "Capitaine emblématique du XV de France, double vainqueur du Grand Chelem et artiste, Rives offre plusieurs angles distincts."
 ---
-
 ![Image de Jean-Pierre Rives](https://upload.wikimedia.org/wikipedia/commons/8/80/Jean-Pierre_Rives_%281981%29.jpg)
 
 ###### Questions

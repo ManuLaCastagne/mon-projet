@@ -22,10 +22,9 @@ indice_6 :
   - réalisme poétique
 questions:
  - Dans quel roman de Louis Aragon le héros est-il attiré par Bérénice, la cousine de province de son ami Edmond ?
+culture_g_score: 51
+culture_g_justification: "Roman important d’Aragon sur l’amour et l’après-guerre, mais moins fréquent et moins transversal que ses références les plus célèbres."
 ---
-
-
-
 ![Image de Aurélien (roman)]()
 ###### Questions
 

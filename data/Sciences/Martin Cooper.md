@@ -20,10 +20,9 @@ indice_6 :
   - Ingénieur américain
 questions:
  - Quel est cet ingénieur, posant avec le 1er téléphone mobile de l'histoire à avoir émis un appel, hors téléphones de voiture. Cet appareil pesait plus de 1 kg.
+culture_g_score: 60
+culture_g_justification: "Inventeur du premier téléphone portable et du premier appel mobile, sujet classique mais centré sur une innovation précise."
 ---
-
-
-
 ![Image de Martin Cooper](https://upload.wikimedia.org/wikipedia/commons/1/1f/2007Computex_e21Forum-MartinCooper.jpg)
 
 ###### Questions

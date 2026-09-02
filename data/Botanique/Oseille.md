@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée dans les soupes et salades
 questions:
  - Quelle plante du genre humex, aux feuilles et au goût acide, rencontre-t-on dans les lieux herbeux ?
+culture_g_score: 44
+culture_g_justification: "Herbe culinaire connue pour son goût acide et ses appellations régionales, mais à fréquence limitée dans les quiz."
 ---
-
 ![Image de Oseille](https://upload.wikimedia.org/wikipedia/commons/a/a3/%28MHNT%29_Rumex_acetosa_-_Habit.jpg)
 
 ###### Questions

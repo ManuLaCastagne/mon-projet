@@ -24,9 +24,9 @@ indice_6 :
   - Monts d'Arrée
 questions:
  - Quel département français porte un nom d'origine latine signifiant "fin de la terre"?
+culture_g_score: 64
+culture_g_justification: "Département français bien identifiable, utile pour quelques repères bretons, géographiques et culturels, mais moins central que les grandes régions ou villes."
 ---
-
-
 ![Image de Finistère](https://upload.wikimedia.org/wikipedia/commons/4/4d/Finist%C3%A8re-Position.svg)
 
 ![[Carte_Finistère.png]]

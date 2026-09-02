@@ -22,8 +22,9 @@ indice_6 :
   - Paris sous tension
 questions:
  - En 1971, dans quel film de Pierre Granier-Deferre Jean Gabin, Simone Signoret incarnent-ils un vieux couple…
+culture_g_score: 60
+culture_g_justification: "Drame français reconnu de Granier-Deferre avec Gabin et Signoret, mais principalement exploité dans quelques questions de cinéma classique."
 ---
-
 ![Image de Le Chat](https://upload.wikimedia.org/wikipedia/commons/9/99/Th%C3%A9ophile-Alexandre_Steinlen_-_Tourn%C3%A9e_du_Chat_Noir_de_Rodolphe_Salis_%28Tour_of_Rodolphe_Salis%27_Chat_Noir%29_-_Google_Art_Project.jpg)
 
 ###### Questions

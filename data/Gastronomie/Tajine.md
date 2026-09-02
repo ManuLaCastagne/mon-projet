@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Maroc
+culture_g_score: 77
+culture_g_justification: "Plat emblématique du Maghreb, utile pour les questions de cuisine, de récipient et de culture marocaine."
 ---
 ###### Questions 
 

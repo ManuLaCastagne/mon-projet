@@ -15,8 +15,9 @@ indice_6 :
   - Symboles de travail acharné
 questions:
  - Insectes aux antennes coudées, pouvant être dites rouges ou noires...
+culture_g_score: 84
+culture_g_justification: "Les fourmis sont une référence zoologique et culturelle majeure, mobilisable sur la vie sociale, la communication, l'écologie et les records physiques."
 ---
-
 ![Image de Fourmis](https://upload.wikimedia.org/wikipedia/commons/1/1e/An_Ant_in_Colombian_amber.jpg)
 
 ###### Questions

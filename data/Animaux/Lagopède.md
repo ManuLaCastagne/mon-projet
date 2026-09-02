@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la résilience en milieu froid
 questions:
  - Quel gallinacé des hautes montagnes, également appelé perdrix ou poule des neiges, revêt un plumage blanc marqué de brun en été ?
+culture_g_score: 43
+culture_g_justification: "Oiseau arctique intéressant pour son camouflage et sa géographie, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Lagopède](https://upload.wikimedia.org/wikipedia/commons/5/52/Lagop%C3%A8de_Alpin_MHNT.jpg)
 
 ###### Questions

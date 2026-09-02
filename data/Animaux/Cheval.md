@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de liberté et de puissance
 questions:
  - Grand mammifère domestique pouvant être des races nonus, katyawari, mangalarga, je passe mon temps à brouter et suis capable de somnoler debout.
+culture_g_score: 100
+culture_g_justification: "Animal culturellement incontournable, présent dans l’histoire, la mythologie, le sport, les transports, la littérature et de très nombreux quiz."
 ---
-
-
 ![Image de Cheval](https://upload.wikimedia.org/wikipedia/commons/0/01/Statue_escalier_fer_%C3%A0_cheval_Fontainebleau.jpg)
 
 ###### Questions

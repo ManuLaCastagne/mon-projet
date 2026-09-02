@@ -18,8 +18,9 @@ indice_5 :
   - Trahison
 indice_6 : 
   - Prière
+culture_g_score: 68
+culture_g_justification: "Lieu majeur des derniers épisodes de la vie de Jésus, mais généralement limité aux questions sur la Passion."
 ---
-
 ![Image de Gethsémani](https://upload.wikimedia.org/wikipedia/commons/8/82/Gethsemani%2C_Mariapark_%28Lommel%29_02.jpg)
 
 ###### Questions

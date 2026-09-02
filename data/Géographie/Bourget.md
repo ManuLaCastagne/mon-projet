@@ -24,8 +24,9 @@ indice_6 :
   - Expositions internationales
 questions:
  - Dans quelle ville de la banlieue nord-est de Paris associée à un salon aéronautique...
+culture_g_score: 60
+culture_g_justification: "Le Bourget est régulièrement cité pour son aéroport, son musée aéronautique et son salon international de l’aéronautique."
 ---
-
 ![Image de Bourget](https://upload.wikimedia.org/wikipedia/commons/e/eb/Monument_Batailles_Bourget_Bourget_7.jpg)
 
 ![[Carte_Bourget.png]]

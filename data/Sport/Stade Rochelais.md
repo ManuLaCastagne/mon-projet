@@ -20,9 +20,9 @@ indice_6 :
   - Rochelais
 questions:
  - Quel club de rugby  a pour couleurs officielles le jaune et le noir ?
+culture_g_score: 60
+culture_g_justification: "Club français de rugby devenu important grâce à ses titres européens et à ses finales de Top 14, mais encore moins universellement connu."
 ---
-
-
 ![Image de Stade Rochelais](https://upload.wikimedia.org/wikipedia/commons/9/91/Entrance_La_Rochelle_old_harbor.jpg)
 
 ###### Questions

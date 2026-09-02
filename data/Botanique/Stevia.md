@@ -13,8 +13,9 @@ indice_5:
   - Sucre vert
 indice_6:
   - Édulcorant naturel
+culture_g_score: 64
+culture_g_justification: "Édulcorant contemporain bien connu, utile pour des questions de botanique, de nutrition et d’industrie alimentaire."
 ---
-
 ![Image de Stevia](https://upload.wikimedia.org/wikipedia/commons/2/26/Stevia_rebaudiana_flowers.jpg)
 
 ###### Questions

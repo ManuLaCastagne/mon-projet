@@ -20,8 +20,9 @@ indice_6 :
   - Roger Federer
 questions:
  - Au rugby, quel type d'arrêt un joueur...
+culture_g_score: 40
+culture_g_justification: "Geste technique sportif identifiable mais soumis à une confusion terminologique et à peu d’angles de quiz indépendants."
 ---
-
 ![Image de Arrêt de volée](https://upload.wikimedia.org/wikipedia/commons/6/6a/LL-Q150_%28fra%29-Fabricio_Cardenas_%28Culex%29-arr%C3%AAt_de_vol%C3%A9e.wav)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Rocher de Monaco
 indice_6 : 
   - dynastie européenne
+culture_g_score: 68
+culture_g_justification: "Dynastie emblématique de Monaco, régulièrement interrogée en histoire et géographie, mais offrant moins d'angles que les grandes maisons européennes."
 ---
-
 ![Image de Grimaldi](https://upload.wikimedia.org/wikipedia/commons/b/b0/Panorama_Grimaldi.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Compagnon royal
 questions:
  - Possède un long poil soyeux pouvant être ruby, noir et feu… Devant mon nom au roi d'Angleterre Charles II?
+culture_g_score: 44
+culture_g_justification: "Race canine identifiable par Charles II et la famille royale britannique, mais moins rentable que les races les plus célèbres."
 ---
-
 ![Image de King-Charles](https://upload.wikimedia.org/wikipedia/commons/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg)
 
 ###### Questions

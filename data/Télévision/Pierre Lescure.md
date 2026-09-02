@@ -18,8 +18,9 @@ indice_5 :
   - cofondateur de la chaîne cryptée
 indice_6 : 
   - parenthèse musicale Lescure et Simenon
+culture_g_score: 68
+culture_g_justification: "Acteur important de la création de Canal+ et des médias français, avec des liens vers la télévision, la radio et le cinéma."
 ---
-
 ![Image de Pierre Lescure](https://upload.wikimedia.org/wikipedia/commons/9/95/Pierre_Lescure_2012.jpg)
 
 ###### Questions

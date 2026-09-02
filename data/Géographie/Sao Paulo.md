@@ -22,8 +22,9 @@ indice_6 :
   - riche diversité culturelle
 questions:
  - Métropole d'Amérique latine, je suis reliée à mon aéroport par une route traversée par le tropique du Capricorne. Fondée en 1554, le jour de la fête du saint qui m'a donné son nom, j'ai connu une forte expansion...
+culture_g_score: 80
+culture_g_justification: "Immense métropole brésilienne, importante pour l’économie, la démographie, la culture et plusieurs repères nationaux."
 ---
-
 ![Image de Sao Paulo](https://upload.wikimedia.org/wikipedia/commons/f/fd/Municipal_Market_of_S%C3%A3o_Paulo_city.jpg)
 
 ![[Carte_Sao Paulo.png]]

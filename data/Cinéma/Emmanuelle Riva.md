@@ -20,8 +20,9 @@ indice_5 :
   - Alain Resnais
 indice_6 : 
   - Michael Haneke
+culture_g_score: 80
+culture_g_justification: "Carrière remarquable reliant Hiroshima mon amour, Marguerite Duras, Alain Resnais, Michael Haneke et un record aux Oscars."
 ---
-
 ![Image de Emmanuelle Riva](https://upload.wikimedia.org/wikipedia/commons/f/fb/Emmanuelle_Riva_Cannes_2012.jpg)
 
 ###### Questions

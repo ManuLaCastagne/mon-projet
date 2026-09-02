@@ -15,8 +15,9 @@ indice_6 :
   - Épice utilisée en cuisine, notamment dans le zaatar
 questions:
  - Quel mot, se terminant par un C, désigne un arbuste de la famille des anacardiacées, dont on tire des vernis, des laques et des tanins?
+culture_g_score: 48
+culture_g_justification: "Le sumac relie épice, tannage et plantes ornementales, mais reste une référence secondaire des quiz."
 ---
-
 ![Image de Sumac](https://upload.wikimedia.org/wikipedia/commons/e/e9/Yma_Sumac_in_Italy.jpg)
 
 ###### Questions

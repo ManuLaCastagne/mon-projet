@@ -20,8 +20,9 @@ indice_6 :
   - guerre de la Rochelle
 questions:
  - Quelle dame de France impose au XVIe le port du caleçon pour se promener à cheval ?
+culture_g_score: 80
+culture_g_justification: "Reine et régente de France, elle relie Henri IV, Louis XIII, la régence, le Luxembourg et Rubens."
 ---
-
 ![Image de Marie de Médicis](https://upload.wikimedia.org/wikipedia/commons/9/96/0_Marie_de_M%C3%A9dicis_-_Frans_Pourbus_le_Jeune_-_Louvre_%28INV1710%29_-_%282%29.JPG)
 
 ###### Questions

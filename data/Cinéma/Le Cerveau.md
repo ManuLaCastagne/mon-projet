@@ -20,9 +20,9 @@ indice_5:
   - Braquage
 indice_6:
   - Nice
+culture_g_score: 64
+culture_g_justification: "Comédie populaire de Gérard Oury réunissant Belmondo, Bourvil et David Niven, mais offrant surtout des angles liés à son intrigue et son casting."
 ---
-
-
 ![Image de Le Cerveau](https://upload.wikimedia.org/wikipedia/commons/8/8c/R%C3%A9plique_de_la_Statue_de_Libert%C3%A9_r%C3%A9alis%C3%A9e_pour_le_film_Le_Cerveau_%E2%80%94_Barentin%2C_2006.jpg)
 
 ###### Questions

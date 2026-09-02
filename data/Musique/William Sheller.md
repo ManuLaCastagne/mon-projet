@@ -22,8 +22,9 @@ indice_6 :
   - Les Filles de l'aurore
 questions:
  - Qui chantait "Darjeeling", chanson qui figurait sur l'album "Univers", paru en 1987 ?
+culture_g_score: 60
+culture_g_justification: "Chanteur français reconnu pour le croisement entre pop et classique, mais moins régulièrement mobilisé que les figures majeures."
 ---
-
 ![Image de William Sheller](https://upload.wikimedia.org/wikipedia/commons/b/b3/Identite-WilliamSheller-1976-Sacem.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - dystopie
 indice_6:
   - imaginaire original
+culture_g_score: 40
+culture_g_justification: "Auteur français de science-fiction reconnu, mais encore trop contemporain et spécialisé pour être une priorité généraliste."
 ---
-
 ![Image de Alain Damasio](https://upload.wikimedia.org/wikipedia/commons/f/fe/Alain_Damasio.jpg)
 
 ###### Questions

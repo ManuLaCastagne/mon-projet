@@ -20,9 +20,9 @@ indice_6 :
   - système continental
 questions:
  - Quel nom a-t-on donné aux mesures prises entre 1806 et 1808 par Napoléon Bonaparte, pour fermer au commerce britannique les ports du continent?
+culture_g_score: 77
+culture_g_justification: "Notion classique de l’histoire napoléonienne, régulièrement reliée au blocus britannique, aux guerres impériales et aux relations européennes."
 ---
-
-
 ![Image de Blocus continental](https://upload.wikimedia.org/wikipedia/commons/6/67/Napoleon%27s_navigation_system%3B_a_study_of_trade_control_during_the_continental_blockade_%28IA_cu31924030177855%29.pdf)
 
 ###### Questions

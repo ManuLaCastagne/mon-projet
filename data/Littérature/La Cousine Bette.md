@@ -22,8 +22,9 @@ indice_6 :
   - Houssiaux
 questions:
  - Quel roman de Balzac doit son nom à Lizbeth Fischer, cousine de la famille Hulot ?
+culture_g_score: 64
+culture_g_justification: "Roman important de Balzac et de La Comédie humaine, mais moins connu et moins transversal que les œuvres balzaciennes les plus célèbres."
 ---
-
 ![Image de La Cousine Bette](https://upload.wikimedia.org/wikipedia/commons/9/94/BalzacCousinBette01.jpg)
 
 ###### Questions

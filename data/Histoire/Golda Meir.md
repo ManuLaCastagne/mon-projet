@@ -18,8 +18,9 @@ indice_5:
   - socialisme
 indice_6:
   - 20ème siècle
+culture_g_score: 72
+culture_g_justification: "Première ministre israélienne très connue, utile pour les questions sur Israël, la guerre du Kippour, le sionisme et les femmes dirigeantes."
 ---
-
 ![Image de Golda Meir](https://upload.wikimedia.org/wikipedia/commons/6/6e/Golda_Meir_%281964%29.jpg)
 
 ###### Questions

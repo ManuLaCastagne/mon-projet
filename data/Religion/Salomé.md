@@ -20,8 +20,9 @@ indice_6 :
   - Tête sur un plateau
 questions:
  - Quelle princesse de la religion juive, poussée par sa mère Hérodiade, a obtenu de son beau-père, Hérode Antipas, la tête de Saint-Jean-Baptiste ?
+culture_g_score: 76
+culture_g_justification: "Salomé est une figure biblique très présente dans l’art, la littérature et l’imaginaire de la séduction, notamment grâce à Oscar Wilde."
 ---
-
 ![Image de Salomé](https://upload.wikimedia.org/wikipedia/commons/6/6a/Popzangeres_Salome_zal_Spanje_vertegenwoordigen_op_Euro_Songfestival_in_Madrid%2C_Bestanddeelnr_922-1722.jpg)
 
 ###### Questions

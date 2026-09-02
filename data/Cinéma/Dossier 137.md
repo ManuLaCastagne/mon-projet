@@ -16,8 +16,9 @@ indice_4:
   - IGPN
 indice_5:
 indice_6:
+culture_g_score: 24
+culture_g_justification: "Film très récent et encore peu connu, dont les rares questions relèvent surtout de son intrigue et de sa sélection cannoise."
 ---
-
 ![Image de Dossier 137](https://upload.wikimedia.org/wikipedia/commons/5/5c/L%C3%A9a_Drucker_2013.jpg)
 
 ###### Questions

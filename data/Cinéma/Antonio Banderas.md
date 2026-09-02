@@ -22,8 +22,9 @@ indice_6 :
   - Pain and Glory
 questions:
  - En 2019, quel acteur espagnol le prix d'interprétation  masculine à Cannes pour son rôle dans "Douleur et Gloire" de Pedro Almodovar ?
+culture_g_score: 80
+culture_g_justification: "Acteur international relié à Almodóvar, Hollywood, l’animation et plusieurs rôles populaires, offrant de nombreuses entrées de quiz."
 ---
-
 ![Image de Antonio Banderas](https://upload.wikimedia.org/wikipedia/commons/0/01/Antonio_Banderas-66031_%28cropped%29.jpg)
 
 ###### Questions

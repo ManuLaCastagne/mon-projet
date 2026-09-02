@@ -20,9 +20,9 @@ indice_5 :
   - cérémonie d'ouverture
 indice_6 : 
   - Brésil
+culture_g_score: 80
+culture_g_justification: "Premiers Jeux olympiques d’été organisés en Amérique du Sud, riches en repères sportifs, géographiques et historiques."
 ---
-
-
 ![Image de Rio de Janeiro 2016](https://upload.wikimedia.org/wikipedia/commons/3/37/Catedral_Presbiteriana_do_Rio_de_Janeiro.jpg)
 
 ###### Questions

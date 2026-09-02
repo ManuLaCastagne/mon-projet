@@ -15,8 +15,9 @@ indice_6:
   - Indice 6 Utilisé en cuisine pour son goût prononcé
 questions:
   - N'ayant pas de délimitation entre mon pied et mon chapeau, j'ai la forme d'un cornet creux et évasé dans le haut avec des bords ondulés. Champignon comestible...
+culture_g_score: 44
+culture_g_justification: "Champignon comestible connu des amateurs de cuisine et de mycologie, mais rarement prioritaire en culture générale."
 ---
-
 ![Image de Trompette-de-la-mort](https://upload.wikimedia.org/wikipedia/commons/6/62/0_Craterellus_cornucopioides_-_Trompette_de_la_mort_%281%29.JPG)
 
 ###### Questions

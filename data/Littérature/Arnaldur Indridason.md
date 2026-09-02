@@ -20,8 +20,9 @@ indice_5:
   - Ambiance sombre et glaciale
 indice_6:
   - Intrigues psychologiques profondes
+culture_g_score: 40
+culture_g_justification: "Romancier policier islandais traduit et reconnu, mais principalement utile dans des questions spécialisées sur le polar nordique."
 ---
-
 ![Image de Arnaldur Indridason](https://upload.wikimedia.org/wikipedia/commons/6/6d/Arnaldur_Indridason_%2818108659022%29.jpg)
 
 ###### Questions

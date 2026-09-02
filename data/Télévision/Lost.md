@@ -20,8 +20,9 @@ indice_6 :
   - Temps de voyage
 questions:
  - Quelle série américaine créée en 2004, avec Matthew Fox, met en scène..
+culture_g_score: 84
+culture_g_justification: "Série internationale majeure des années 2000, fréquemment citée pour son concept, sa narration, ses personnages et ses récompenses."
 ---
-
 ![Image de Lost](https://upload.wikimedia.org/wikipedia/commons/c/c9/0.mp4.jpg)
 
 ###### Questions

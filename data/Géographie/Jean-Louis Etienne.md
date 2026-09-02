@@ -24,8 +24,9 @@ indice_6 :
   - expédition sur le toit du monde
 questions:
  - En 1986, quel médecin et explorateur français est le 1er homme à atteindre le pôle Nord...
+culture_g_score: 60
+culture_g_justification: "Explorateur français classique des questions sur les pôles, mais sa notoriété et ses applications restent concentrées sur l’exploration."
 ---
-
 ![Image de Jean-Louis Etienne](https://upload.wikimedia.org/wikipedia/commons/e/e6/Jean-Louis_Etienne.jpg)
 
 ![[Carte_Jean-Louis Etienne.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - années 90
 questions:
  - C'est du cinéma. On est en 1994. Dans quel film avec Keanu Reeves, des personnes sont enfermées dans un bus ?
+culture_g_score: 64
+culture_g_justification: "Film d’action très connu qui a marqué Keanu Reeves et Sandra Bullock, mais dont les angles restent assez concentrés."
 ---
-
 ![Image de Speed](https://upload.wikimedia.org/wikipedia/commons/b/bc/DTM_Mercedes_W204_DiResta09_amk.jpg)
 
 ###### Questions

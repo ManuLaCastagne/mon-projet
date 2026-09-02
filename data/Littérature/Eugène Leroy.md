@@ -22,8 +22,9 @@ indice_6 :
   - Roman Le Planétarium
 questions:
  - Quel romancier né en 1836, a créé Jacquou le Croquant ?
+culture_g_score: 24
+culture_g_justification: "Peintre français reconnu des amateurs d’art, mais référence très spécialisée et rarement interrogée en quiz généraliste."
 ---
-
 ![Image de Eugène Leroy](https://upload.wikimedia.org/wikipedia/commons/2/2b/Place_Eug%C3%A8ne_Leroy_-_Valenton_%28FR94%29_-_2022-05-11_-_1.jpg)
 
 ###### Questions

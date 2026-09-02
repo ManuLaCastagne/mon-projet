@@ -21,6 +21,8 @@ indice_5:
   - pêche à la mouche
 indice_6:
   - Robert Redford
+culture_g_score: 60
+culture_g_justification: "Film américain reconnu reliant Robert Redford, Brad Pitt, le Montana et la pêche à la mouche, mais sans être un incontournable absolu."
 ---
 ![[Pasted image 20260227105330.png]]
 ###### Questions

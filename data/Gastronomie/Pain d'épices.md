@@ -1,3 +1,8 @@
+---
+culture_g_score: 64
+culture_g_justification: "Préparation familière liée à la pâtisserie, aux fêtes et à l'histoire parisienne, avec plusieurs usages de quiz."
+---
+
 
 
 

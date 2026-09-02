@@ -24,8 +24,9 @@ indice_6 :
   - source au lac Ladoga
 questions:
  - Quel fleuve de Russie fait dans le golfe de Finlande, arrose la ville de Saint-Pétersbourg ?
+culture_g_score: 48
+culture_g_justification: "Fleuve surtout connu par son lien avec Saint-Pétersbourg, la Russie et le golfe de Finlande, ce qui limite sa fréquence hors des questions géographiques."
 ---
-
 ![Image de Neva](https://upload.wikimedia.org/wikipedia/commons/6/6f/Infografika_Neva_river_Saint_Petersburg.jpg)
 
 ![[Carte_Neva.png]]

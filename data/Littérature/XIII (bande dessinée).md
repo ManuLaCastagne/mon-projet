@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Quel héros créé par Jean Van Hamme et dessiné par William Vance est un homme enquêtant sur son passé...
  - Quel héros, dessiné dès 84 par le Belge William Vance, est un homme traqué à la recherche de son identité?
+culture_g_score: 76
+culture_g_justification: "Série majeure de bande dessinée franco-belge, identifiable par l’amnésie, l’espionnage, Van Hamme et plusieurs adaptations."
 ---
-
 ![Image de XIII (bande dessinée)](https://upload.wikimedia.org/wikipedia/commons/4/40/Stripmuur_XIII.jpg)
 
 ###### Questions

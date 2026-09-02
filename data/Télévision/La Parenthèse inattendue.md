@@ -20,10 +20,9 @@ indice_6 :
   - soirée détente
 questions:
  - Dès 2012, dans quelle émission, tournée en partie en extérieur, Frédéric Lopez a-t-il invité 3 personnalités à la campagne pour évoquer leurs souvenirs?
+culture_g_score: 27
+culture_g_justification: "Programme apprécié mais éphémère et principalement associé à son concept d’interviews intimistes."
 ---
-
-
-
 ![Image de La Parenthèse inattendue](https://upload.wikimedia.org/wikipedia/commons/2/23/La_parenth%C3%A8se_inattendue.png)
 
 ###### Questions

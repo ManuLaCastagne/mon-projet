@@ -18,8 +18,9 @@ indice_5 :
   - Pacem in Terris
 indice_6 : 
   - Pape souriant
+culture_g_score: 80
+culture_g_justification: "Pape associé au concile Vatican II et à Pacem in Terris, deux repères récurrents de l’histoire contemporaine de l’Église."
 ---
-
 ![Image de Jean XXIII](https://upload.wikimedia.org/wikipedia/commons/0/0d/Lyon_8e_-_Station_V%C3%A9lo%27v_8015_boulevard_Jean_XXIII_1_%28mai_2019%29.jpg)
 
 ###### Questions

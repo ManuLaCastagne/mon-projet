@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de chasse
 questions:
  - Quel gallinacé au corps épais, nichant dans un creux du sol, peut être rouge au sud de la Loire?
+culture_g_score: 47
+culture_g_justification: "Oiseau de chasse et de folklore relativement connu, mais dont les questions restent surtout naturalistes ou régionales."
 ---
-
 ![Image de Perdrix](https://upload.wikimedia.org/wikipedia/commons/8/8c/Perdrix_rouge.jpg)
 
 ###### Questions

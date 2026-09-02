@@ -19,8 +19,9 @@ indice_5:
   - attentat à la bombe déjoué
 indice_6:
   - cérémonie d'ouverture par Harald V
+culture_g_score: 64
+culture_g_justification: "Jeux d’hiver connus pour Koss, Harding-Kerrigan et leur contexte post-réunification, avec une portée néanmoins événementielle."
 ---
-
 ![Image de Lillehammer 1994](https://upload.wikimedia.org/wikipedia/commons/3/32/1994_Lillehammer_Olympic_Torch.jpg)
 
 ###### Questions

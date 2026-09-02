@@ -20,9 +20,9 @@ indice_6 :
   - Orthose
 questions:
  - A l'aide de quelle échelle, conçue au XIXe siècle par un minéralogiste allemand pour mesurer la dureté des minéraux ?
+culture_g_score: 73
+culture_g_justification: "Échelle très classique, facilement mobilisée par des questions sur les minéraux, le talc et le diamant."
 ---
-
-
 ![Image de Mohs](https://upload.wikimedia.org/wikipedia/commons/2/2f/Mohs_ear.jpg)
 
 ###### Questions

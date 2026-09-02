@@ -18,9 +18,9 @@ indice_5:
   - Révolutionnaire
 indice_6:
   - Opposition à l'État
+culture_g_score: 68
+culture_g_justification: "Théoricien majeur de l’anarchisme, Bakounine est utile pour l’histoire des idées, les révolutions de 1848 et la Première Internationale."
 ---
-
-
 ![Image de Bakounine](https://upload.wikimedia.org/wikipedia/commons/6/6c/Bakunin_Nadar.jpg)
 
 ###### Questions

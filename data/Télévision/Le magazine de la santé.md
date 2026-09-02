@@ -19,8 +19,9 @@ indice_5 :
   - santé
 indice_6 : 
   - conseils pratiques
+culture_g_score: 60
+culture_g_justification: "Magazine de santé bien installé dans le paysage audiovisuel, mais surtout utile pour des questions sur France 5, ses animateurs et la médecine médiatique."
 ---
-
 ![Image de Le magazine de la santé](https://upload.wikimedia.org/wikipedia/commons/4/49/Alain-Fournier_%E2%80%93_Le_Miracle_des_trois_dames_de_village%2C_paru_dans_La_Grande_Revue%2C_1910.djvu)
 
 ###### Questions

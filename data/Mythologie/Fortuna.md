@@ -18,9 +18,9 @@ indice_6 :
   - allégories de l'instabilité
 questions:
  - Dans la [[mythologie romaine]], quelle déesse de la Chance et du Hasard, qui tient une corne d'abondance et un gouvernail ?
+culture_g_score: 72
+culture_g_justification: "Personnification romaine de la chance et du destin, riche en symboles et en prolongements historiques."
 ---
-
-
 ![Image de Fortuna](https://upload.wikimedia.org/wikipedia/commons/a/a1/2014-12-18_Fortuna%2C_Johannes_Benk_at_Neue_Burg%2C_Vienna_-hu-_6224.jpg)
 
 ###### Questions

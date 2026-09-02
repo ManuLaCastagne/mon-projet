@@ -22,8 +22,9 @@ indice_6 :
   - a fondé le label Barclay Records
 questions:
  - Sous quel pseudo connaît-on mieux Edouard Ruault, producteur de musique disparu en 2005, célèbre pour sa tenue blanche ?
+culture_g_score: 52
+culture_g_justification: "Producteur important de la chanson française et du disque, utile pour quelques questions historiques mais moins connu du grand public actuel."
 ---
-
 ![Image de Eddie Barclay](https://upload.wikimedia.org/wikipedia/commons/7/76/EddieBarclay-1954.png)
 
 ###### Questions

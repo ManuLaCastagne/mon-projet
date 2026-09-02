@@ -21,6 +21,8 @@ indice_6:
   - Bene Gesserit
 questions:
   - Qui est la seule à produire une substance appelée l'épice, prolongeant la vie et augmentant les capacités physiques.  Roman de Frank Herbert adapté au cinéma par David Lynch en 1985...
+culture_g_score: 100
+culture_g_justification: "Classique mondial de la science-fiction, particulièrement rentable grâce à ses adaptations, son univers politique et ses concepts emblématiques."
 ---
 ![[Pasted image 20250323183834.png]]
 ###### Questions

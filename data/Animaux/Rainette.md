@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la pluie dans certaines cultures
 questions:
  - Au bout de mes doigts, je ponds généralement mes oeufs dans l'eau. Grenouille dont une espèce d'un beau vert vif est présente en France, devant mon nom au latin "rana"…
+culture_g_score: 47
+culture_g_justification: "Amphibien familier et lié à plusieurs notions écologiques, mais le terme reste moins incontournable que grenouille ou crapaud."
 ---
-
 ![Image de Rainette](https://upload.wikimedia.org/wikipedia/commons/c/c1/Plaque_Rue_Rainette_-_Gournay-sur-Marne_%28FR93%29_-_2021-10-04_-_2.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - MVP EuroBasket 2005
 questions:
  - Quel joueur français, ayant mis un terme à sa carrière sportive en 2018, est le fils de l'ancienne internationale de basket Elisabeth Riffiod ?
+culture_g_score: 60
+culture_g_justification: "Joueur français passé par la NBA et champion d'Europe, assez rentable dans les quiz sportifs francophones sans être incontournable."
 ---
-
 ![Image de Boris Diaw](https://upload.wikimedia.org/wikipedia/commons/6/69/Boris_Diaw%2C_France_-_Canada_July_2011.jpg)
 
 ###### Questions

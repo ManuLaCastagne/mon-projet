@@ -20,8 +20,9 @@ indice_6 :
   - Athlétisme
 questions:
  - Quel est ce coureur de demi-fond britannique qui a brillé aux JO de 88 ?
+culture_g_score: 67
+culture_g_justification: "Champion olympique et dirigeant sportif, offrant des angles sur l’athlétisme, les Jeux et les institutions sportives."
 ---
-
 ![Image de Sébastian Coe](https://upload.wikimedia.org/wikipedia/commons/7/74/Lord_Coe_-_World_Economic_Forum_Annual_Meeting_2012_cropped.jpg)
 
 ###### Questions

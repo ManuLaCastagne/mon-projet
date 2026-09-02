@@ -22,8 +22,9 @@ indice_6 :
   - années 1990
 questions:
  - Film américain sorti en 2013, je suis adapté d'une autobiographie homonyme écrite par Jordan Belfort à sa sortie de prison. Donnant à Jean Dujardin le rôle d'un banquier genevois...
+culture_g_score: 76
+culture_g_justification: "Film très populaire permettant des questions sur Scorsese, DiCaprio, Wall Street, la finance et les excès des années 1990."
 ---
-
 ![Image de Le Loup de Wall Street](https://upload.wikimedia.org/wikipedia/commons/8/81/Le_Loup_de_Wall_Street_logo.svg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale dans les jardins
 questions:
  - Quelle petite renoncule à fleurs jaune vif des prés pousse fort au printemps ?
+culture_g_score: 44
+culture_g_justification: "Fleur des prairies connue par sa couleur et le test sous le menton, mais essentiellement cantonnée à la botanique populaire."
 ---
-
 ![Image de Bouton-d'or](https://upload.wikimedia.org/wikipedia/commons/2/24/Thricops_semicinereus_on_Ranunculus_acris.jpg)
 
 ###### Questions

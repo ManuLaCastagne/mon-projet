@@ -20,8 +20,9 @@ indice_6 :
   - Alexandre II a aboli le servage
 questions:
  - Quel titre a été porté par les souverains de Russie de 1547...
+culture_g_score: 80
+culture_g_justification: "Titre incontournable pour comprendre la monarchie russe, les Romanov et l’évolution politique de la Russie jusqu’en 1917."
 ---
-
 ![Image de Tsar](https://upload.wikimedia.org/wikipedia/commons/8/84/Prince_Rastislav.JPG)
 
 ###### Questions

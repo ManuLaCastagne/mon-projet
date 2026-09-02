@@ -18,8 +18,9 @@ indice_5 :
   - John Connor
 indice_6 : 
   - James Cameron
+culture_g_score: 93
+culture_g_justification: "Référence incontournable de la science-fiction populaire, ouvrant de nombreuses questions sur Cameron, Schwarzenegger, le voyage temporel et la saga."
 ---
-
 ![Image de Terminator](https://upload.wikimedia.org/wikipedia/commons/c/c0/Terminator_Skull_Head_Bust_from_Terminator_Salvation%2C_Earls_Court%2C_London_%28Ank_Kumar%2C_Infosys_Limited%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - couple de criminels célèbres
 questions:
  - En 1967, dans quel film d'Arthur Penn Warren Beatty et Faye Dunaway incarnent-ils...
+culture_g_score: 80
+culture_g_justification: "Classique du Nouvel Hollywood fréquemment associé à Arthur Penn, Faye Dunaway, Warren Beatty, la violence à l’écran et l’histoire du film de gangsters."
 ---
-
 ![Image de Bonnie and Clyde](https://upload.wikimedia.org/wikipedia/commons/7/7f/Bonnieclyde_f.jpg)
 
 ###### Questions

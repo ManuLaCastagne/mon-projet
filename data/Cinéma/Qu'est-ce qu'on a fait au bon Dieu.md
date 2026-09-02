@@ -22,8 +22,9 @@ indice_6 :
   - Gilles Lellouche
 questions:
  - En 2014, sur l'affiche de quelle comédie de Philippe de Chauveron...
+culture_g_score: 72
+culture_g_justification: "Grand succès populaire français régulièrement interrogé pour son casting, son box-office et son traitement comique de la diversité."
 ---
-
 ![Image de Qu'est-ce qu'on a fait au bon Dieu](https://upload.wikimedia.org/wikipedia/commons/b/b6/Philippe_de_Chauveron.JPG)
 
 ###### Questions

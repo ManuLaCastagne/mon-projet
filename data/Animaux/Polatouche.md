@@ -15,8 +15,9 @@ indice_6 :
   - symbolique de liberté dans certaines cultures amérindiennes
 questions:
  - Quel rongeur  également appelé écureuil volant...
+culture_g_score: 32
+culture_g_justification: "Rongeur planeur original mais peu connu, principalement rencontré dans des questions spécialisées sur la faune nordique."
 ---
-
 ![Image de Polatouche](https://upload.wikimedia.org/wikipedia/commons/1/1c/Pteromys_volans.jpg)
 
 ###### Questions

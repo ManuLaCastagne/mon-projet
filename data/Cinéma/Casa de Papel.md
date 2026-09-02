@@ -22,9 +22,9 @@ indice_6 :
   - Professeur
 questions:
  - Série lancée dans mon pays en 2017 et dont la 6e saison est présentée en septembre 2021, j'ai reçu un Emmy Award en 2018.
+culture_g_score: 76
+culture_g_justification: "Série internationale très populaire, régulièrement interrogée pour ses personnages, ses braquages, ses masques de Dalí et son succès Netflix."
 ---
-
-
 ![Image de Casa de Papel](https://upload.wikimedia.org/wikipedia/commons/6/6b/La_casa_de_papel_en_Halloween_cropped.jpg)
 
 ###### Questions

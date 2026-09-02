@@ -22,8 +22,9 @@ indice_6 :
   - influence précolombienne
 questions:
  - On cherche un écrivain mexicain, Prix Nobel de littérature en 1990. "Pierre de soleil" ?
+culture_g_score: 76
+culture_g_justification: "Prix Nobel mexicain, utile pour la poésie, l’identité latino-américaine, la diplomatie et les relations culturelles avec l’Inde."
 ---
-
 ![Image de Octavio Paz](https://upload.wikimedia.org/wikipedia/commons/e/e8/Octavio_Paz_1984.jpg)
 
 ###### Questions

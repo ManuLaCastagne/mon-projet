@@ -24,8 +24,9 @@ indice_6 :
   - Prix Nobel de la Paix
 questions:
  - Quelle capitale d'un Etat européen s'est appelée Christiania pendant 3 siècles, avant de reprendre son nom originel en 1925?
+culture_g_score: 80
+culture_g_justification: "Capitale européenne associée à la Norvège, aux explorations polaires, aux accords de paix et aux Jeux olympiques d’hiver."
 ---
-
 ![Image de Oslo](https://upload.wikimedia.org/wikipedia/commons/9/95/Oslo_palace1.jpg)
 
 ![[Carte_Oslo.png]]

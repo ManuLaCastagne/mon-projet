@@ -22,8 +22,9 @@ indice_6 :
   - Maheux
 questions:
  - En 1991, il joue le même personnage que son fils Guillaume dans...
+culture_g_score: 93
+culture_g_justification: "Gérard Depardieu est une figure incontournable du cinéma francophone, avec une filmographie immense et des rôles emblématiques comme Cyrano."
 ---
-
 ![Image de Depardieu](https://upload.wikimedia.org/wikipedia/commons/4/4c/Star_of_G%C3%A9rard_Depardieu_on_walk_of_Actor%27s_Fame_of_Vyborg.jpg)
 
 ###### Questions

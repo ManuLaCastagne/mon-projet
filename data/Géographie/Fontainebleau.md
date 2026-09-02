@@ -24,8 +24,9 @@ indice_6 :
   - École d'équitation réputée
 questions:
  - Quel château  de Seine-et-Marne reconstruit pour François Ier est à l'origine d'une école artistique ?
+culture_g_score: 80
+culture_g_justification: "Ville et château majeurs de l’histoire de France, également associés à une forêt, à l’art et à plusieurs épisodes politiques."
 ---
-
 ![Image de Fontainebleau](https://upload.wikimedia.org/wikipedia/commons/e/ef/Palace_of_Fontainebleau%2C_France_-_July_2011.jpg)
 
 ![[Carte_Fontainebleau.png]]

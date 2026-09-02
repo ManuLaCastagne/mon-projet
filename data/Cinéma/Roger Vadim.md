@@ -22,9 +22,9 @@ indice_6 :
   - cinéaste français
 questions:
  - Des années 50 à sa disparition en 2000, quel cinéaste français a fait tourner ses différentes compagnes  Catherine Deneuve, Jane Fonda ou encore Marie-Christine Barrault ?
+culture_g_score: 60
+culture_g_justification: "Réalisateur associé à Et Dieu… créa la femme et à Brigitte Bardot, avec une présence quiz réelle mais assez limitée."
 ---
-
-
 ![Image de Roger Vadim](https://upload.wikimedia.org/wikipedia/commons/3/35/Roger_Vadim_-_still.jpg)
 
 ###### Questions

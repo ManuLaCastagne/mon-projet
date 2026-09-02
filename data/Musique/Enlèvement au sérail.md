@@ -22,8 +22,9 @@ indice_6 :
   - sérail
 questions:
  - En 1782, quel opéra de Mozart raconte une évasion…
+culture_g_score: 64
+culture_g_justification: "Opéra classique régulièrement associé à Mozart, à l'opéra allemand et à l'orientalisme, mais moins incontournable que ses œuvres majeures."
 ---
-
 ![Image de Enlèvement au sérail](https://upload.wikimedia.org/wikipedia/commons/9/99/Eventail_pli%C3%A9_L%27enl%C3%A8vement_au_s%C3%A9rail%2C_1981.95.31.jpg)
 
 ###### Questions

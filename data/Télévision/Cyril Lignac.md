@@ -20,8 +20,9 @@ indice_6 :
   - émission culinaire
 questions:
  - Cuisinier né en 1977 à Rodez qui forme avec Mer...
+culture_g_score: 73
+culture_g_justification: "Chef et animateur très populaire, permettant des questions croisées sur la gastronomie, les émissions culinaires et la télévision française."
 ---
-
 ![Image de Cyril Lignac](https://upload.wikimedia.org/wikipedia/commons/3/3e/Salon_chocolat_Paris_2017_Cyril_Lignac_2949c.jpg)
 
 ###### Questions

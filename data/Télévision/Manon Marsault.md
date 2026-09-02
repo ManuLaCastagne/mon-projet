@@ -19,8 +19,9 @@ indice_5 :
   - Instagram
 indice_6 : 
   - famille Tanti
+culture_g_score: 24
+culture_g_justification: "Personnalité secondaire de la téléréalité française, dont la connaissance répond essentiellement à des questions biographiques ponctuelles."
 ---
-
 ![Image de Manon Marsault](https://upload.wikimedia.org/wikipedia/commons/2/25/Cr%C3%A9quy_-_Souvenirs%2C_tome_10.djvu)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - Parodies cinématographiques
 questions:
  - Auteur du film "Les Producteurs", dont un remake est sorti en 2006, je suis…
+culture_g_score: 80
+culture_g_justification: "Réalisateur majeur de la comédie américaine, exploitable par la satire, les parodies, les Oscars et ses films cultes."
 ---
-
-
 ![Image de Mel Brooks](https://upload.wikimedia.org/wikipedia/commons/8/87/Mel_Brooks_Daniela_Catelli.jpg)
 
 ###### Questions

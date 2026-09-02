@@ -22,9 +22,9 @@ indice_6 :
   - Let Me Be Your Hero
 questions:
  - J'enchaîne les succès avec des disques comme "Cosas del amor", "Seven" et "Insomniac" en 2007. Fils d'un célèbre chanteur de charme espagnol, j'ai sorti en 2014 l'album "Sex and love", je suis…
+culture_g_score: 64
+culture_g_justification: "Chanteur pop latino mondialement connu, surtout exploitable par ses tubes, ses récompenses et sa filiation avec Julio Iglesias."
 ---
-
-
 ![Image de Enrique Iglesias](https://upload.wikimedia.org/wikipedia/commons/1/16/Enrique_Iglesias_%286891751264%29.jpg)
 
 ###### Questions

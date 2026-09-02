@@ -22,8 +22,9 @@ indice_6 :
   - engagé socialement
 questions:
  - En 2018, quel humoriste d'origine iranienne découvert au "Jamel Comedy Club", se met en scène dans le film "Mauvaises Herbes"?
+culture_g_score: 48
+culture_g_justification: "Kheiron est connu dans l'humour et le cinéma français grâce à Nous trois ou rien, mais reste une référence récente et relativement ciblée."
 ---
-
 ![Image de Kheiron](https://upload.wikimedia.org/wikipedia/commons/1/11/Kheiron_janvier_2016.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Quel roi de France, fils de Charles VIII, dont le règne nous est connu par les écrits de Philippe de Comines, était appelé l'universelle Aragne ?
  - Quel roi de France, ayant régné de 1461 à...
+culture_g_score: 80
+culture_g_justification: "Louis XI est un souverain classique, utile pour la construction de l’État, la diplomatie, la poste et la fin du Moyen Âge."
 ---
-
 ![Image de Louis XI](https://upload.wikimedia.org/wikipedia/commons/8/83/Capitole_Toulouse_-_Salle_du_Conseil_municipal_-_Entr%C3%A9e_de_Louis_XI_%C3%A0_Toulouse_-_Andr%C3%A9_Roucolle_1908.jpg)
 
 ###### Questions

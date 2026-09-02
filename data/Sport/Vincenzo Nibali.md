@@ -20,8 +20,9 @@ indice_6 :
   - Squalo dello Stretto
 questions:
  - Entre 2013 et 2018. Vainqueur du Tour de France en 2014, je suis...
+culture_g_score: 64
+culture_g_justification: "Grand cycliste italien associé aux trois Grands Tours, régulièrement cité mais moins incontournable que les figures historiques du cyclisme."
 ---
-
 ![Image de Vincenzo Nibali](https://upload.wikimedia.org/wikipedia/commons/0/05/Vincenzo_Nibali_2011.jpg)
 
 ###### Questions

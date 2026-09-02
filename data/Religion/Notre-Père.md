@@ -20,8 +20,9 @@ indice_6 :
   - Ciel
 questions:
  - Prière récitée à la messe dans une version légèrement modifiée dès le 1er dimanche de l'Avent 2017, je correspondais jusque-là à une traduction oecuménique datant de 1966.
+culture_g_score: 97
+culture_g_justification: "Prière chrétienne universellement connue, le Notre-Père est un repère central pour les questions bibliques, liturgiques et linguistiques."
 ---
-
 ![Image de Notre-Père](https://upload.wikimedia.org/wikipedia/commons/9/9f/Saint-P%C3%A8re_Eglise_Notre_Dame.jpg)
 
 ###### Questions

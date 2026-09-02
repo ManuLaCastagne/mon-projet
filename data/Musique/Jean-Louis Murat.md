@@ -22,8 +22,9 @@ indice_6 :
   - Fort Alamo
 questions:
  - En 2020, quel chanteur auvergnat a sorti son 23e album ?
+culture_g_score: 47
+culture_g_justification: "Chanteur français respecté et lié à quelques collaborations célèbres, mais d'une fréquence modeste dans les quiz généralistes."
 ---
-
 ![Image de Jean-Louis Murat](https://upload.wikimedia.org/wikipedia/commons/6/61/Jean-Louis_Murat%2C_Villiers-sur-Marne.jpg)
 
 ###### Questions

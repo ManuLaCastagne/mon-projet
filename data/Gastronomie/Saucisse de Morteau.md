@@ -4,6 +4,8 @@ tags:
   - XXIe
   - Années_2010
 date: 2010
+culture_g_score: 57
+culture_g_justification: "Charcuterie française réputée et protégée, régulièrement associée à la Franche-Comté et au fumage."
 ---
 ###### Questions 
 

@@ -18,10 +18,9 @@ indice_6:
   - mari d'Isis
 questions:
   - Dieu de la Végétation et des Morts dans l'Egypte ancienne, selon la légende, j'aurais été tué par mon frère Seth...
+culture_g_score: 84
+culture_g_justification: "Dieu majeur de l’Égypte antique, Osiris est fréquemment interrogé à travers son meurtre, Isis, Horus, les morts, la fertilité et le cycle du Nil."
 ---
-
-
-
 ![Image de Osiris](https://upload.wikimedia.org/wikipedia/commons/c/cc/Standing_Osiris_edit1.svg)
 
 ###### Questions

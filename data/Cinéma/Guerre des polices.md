@@ -22,8 +22,9 @@ indice_6 :
   - affrontements entre policiers
 questions:
  - Quel film de Robin Davis, dans lequel il incarne un commissaire de la brigade antigang, lui a valu le César du meilleur acteur en 1980?
+culture_g_score: 40
+culture_g_justification: "Film policier français secondaire, susceptible d’une question ponctuelle mais offrant peu de réutilisations."
 ---
-
 ![Image de Guerre des polices](https://upload.wikimedia.org/wikipedia/commons/e/e1/Hennebert_-_Guerre_des_Communeux_de_Paris%2C_1871.pdf)
 
 ###### Questions

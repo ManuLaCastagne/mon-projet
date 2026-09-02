@@ -22,8 +22,9 @@ indice_6 :
   - La volupté de vivre
 questions:
  - Après avoir fréquenté l'atelier d'écriture de Jean-Marie Laclavetine, je suis distinguée par le prix Goncourt en 2016 avec mon 2e ouvrage "Chanson douce"...
+culture_g_score: 64
+culture_g_justification: "Écrivaine francophone contemporaine très médiatisée et lauréate du Goncourt, mais encore moins transversale que les grands classiques."
 ---
-
 ![Image de Leila Slimani](https://upload.wikimedia.org/wikipedia/commons/7/72/Le%C3%AFla_Slimani_%28cropped%29.jpg)
 
 ###### Questions

@@ -25,8 +25,9 @@ indice_6 :
 questions:
  - Quel Etat insulaire de l'océan Indien, d'une superficie de 2040 km2, a pour capitale la ville de Port-Louis?
  - Qui suis-je ? Etat insulaire de l'océan indien indépendant depuis 1968 ?
+culture_g_score: 60
+culture_g_justification: "État insulaire identifiable par le dodo, le tourisme, l’histoire coloniale et sa situation dans l’océan Indien."
 ---
-
 ![Image de Île Maurice](https://upload.wikimedia.org/wikipedia/commons/f/fb/St_Maurice_church_in_St-Maurice_Nievre%2819%29.jpg)
 
 ![[Carte_Île Maurice.png]]

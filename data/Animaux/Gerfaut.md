@@ -13,8 +13,9 @@ indice_5:
   - Faucon des neiges
 indice_6:
   - Symbole de puissance et de noblesse
+culture_g_score: 40
+culture_g_justification: "Le gerfaut est le plus grand des faucons, mais cette distinction zoologique demeure assez spécialisée."
 ---
-
 ![Image de Gerfaut](https://upload.wikimedia.org/wikipedia/commons/5/5b/Faucon_gerfaut_MHNT.jpg)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - Styracosaurus
 questions:
  - Comment appelle-t-on la dernière période de l'ère secondaire marquée par la disparition des dinosaures?
+culture_g_score: 80
+culture_g_justification: "Le Crétacé est une période géologique classique, fréquemment associée aux dinosaures, aux plantes à fleurs et à leur extinction."
 ---
-
-
-
 ![Image de Crétacé](https://upload.wikimedia.org/wikipedia/commons/1/19/Reconstruction_of_Marsupites_testudinarius.png)
 
 ###### Questions

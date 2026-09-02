@@ -24,9 +24,9 @@ indice_6 :
   - Route E69
 questions:
  - Quel promontoire de Norvèges situé dans le Finnmark est le point le plus septentrional d'Europe ?
+culture_g_score: 56
+culture_g_justification: "Site touristique norvégien connu pour sa position septentrionale, mais souvent confondu et relativement peu polyvalent."
 ---
-
-
 ![Image de Cap Nord](https://upload.wikimedia.org/wikipedia/commons/4/4e/De_Paris_au_Cap_Nord_1892_%28144392380%29.jpg)
 
 ![[Carte_Cap Nord.png]]

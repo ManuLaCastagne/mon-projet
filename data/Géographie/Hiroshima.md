@@ -24,8 +24,9 @@ indice_6 :
   - Parc du Mémorial de la Paix
 questions:
  - Quelle ville japonaise a inspiré à Georges Moustaki le titre d'une chanson sur la paix ?
+culture_g_score: 100
+culture_g_justification: "Référence historique mondiale absolument incontournable, au croisement de la Seconde Guerre mondiale, du nucléaire, du Japon et de la mémoire."
 ---
-
 ![Image de Hiroshima](https://upload.wikimedia.org/wikipedia/commons/d/d8/Hiroshima_montage2.jpg)
 
 ![[Carte_Hiroshima.png]]

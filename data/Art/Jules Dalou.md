@@ -23,8 +23,9 @@ indice_6 :
   - Cimetière du Père-Lachaise
 questions:
  - A quel artiste français doit-on le groupe sculpté "Le Triomphe de la République", qui figure au centre de la place de la Nation, à Paris?
+culture_g_score: 32
+culture_g_justification: "Sculpteur significatif de la Troisième République, Dalou est surtout utile pour quelques œuvres monumentales et l’histoire de la sculpture française."
 ---
-
 ![Image de Jules Dalou](https://upload.wikimedia.org/wikipedia/commons/7/7f/Peasant_by_Jules_Dalou_%28IMGP2748r1%29.jpg)
 
 ###### Questions

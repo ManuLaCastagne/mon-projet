@@ -18,9 +18,9 @@ indice_5 :
   - 1963
 indice_6 : 
   - Œuvre autobiographique
+culture_g_score: 71
+culture_g_justification: "Chef-d’œuvre de Fellini souvent cité en histoire du cinéma, avec des liens au cinéma italien, à la mise en scène et à Mastroianni."
 ---
-
-
 ![[Pasted image 20250421184110.png]]
 ###### Questions
 

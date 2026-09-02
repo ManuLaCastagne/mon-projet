@@ -20,8 +20,9 @@ indice_6 :
   - couleurs symboliques
 questions:
  - Au XVIIe, de quelle couleur était la chambre dans laquelle la marquise de Rambouillet recevait, allongée sur son lit, les grands noms de l'époque ?
+culture_g_score: 19
+culture_g_justification: "La fiche identifie ici une salle de Versailles, sujet très précis et peu rentable, malgré l’existence d’homonymes littéraire, pictural et cinématographique."
 ---
-
 ![Image de La Chambre bleue](https://upload.wikimedia.org/wikipedia/commons/0/0f/%28Barcelona%29_La_chambre_bleue_-_Suzanne_Valadon.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Village viticole renommé
 questions:
  - Quelle commune de Saône-et-Loire, située à 15 km de Mâcon, a donné son nom au plus septentrional des 10 crus du Beaujolais?
+culture_g_score: 20
+culture_g_justification: "Saint-Amour-Bellevue est un village viticole très spécialisé, dont l’intérêt en quiz se limite essentiellement à l’appellation Saint-Amour."
 ---
-
 ![Image de Saint-Amour-Bellevue](https://upload.wikimedia.org/wikipedia/commons/b/be/Mairie_St_Amour_Bellevue_1.jpg)
 
 ![[Carte_Saint-Amour-Bellevue.png]]

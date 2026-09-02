@@ -22,8 +22,9 @@ indice_6 :
   - Le cinéma européen
 questions:
  - Quel acteur suisse au nom formé de 4 lettres, disparu en 2019, est à l'affiche des films "Les Ailes du désir" et "La Chute"?
+culture_g_score: 80
+culture_g_justification: "Grand acteur européen régulièrement cité pour La Chute, Les Ailes du désir et le cinéma de Wenders et d’Angelopoulos."
 ---
-
 ![Image de Bruno Ganz](https://upload.wikimedia.org/wikipedia/commons/6/68/Bruno_Ganz_2011.jpg)
 
 ###### Questions

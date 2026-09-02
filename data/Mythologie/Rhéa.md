@@ -18,10 +18,9 @@ indice_6 :
   - sœur de Cronos
 questions:
  - Dans la [[mythologie grecque]], quelle Titanide, fille de Gaïa et d'Ouranos, était l'épouse de Cronos?
+culture_g_score: 80
+culture_g_justification: "Mère des grands dieux olympiens et épouse de Cronos, Rhéa est une figure classique permettant plusieurs questions sur la succession divine et la naissance des Olympiens."
 ---
-
-
-
 ![Image de Rhéa](https://upload.wikimedia.org/wikipedia/commons/a/ab/PIA07763_Rhea_full_globe5.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Cima Coppi
 questions:
  - En hommage à un cycliste disparu en 1960, dans quelle course à étapes donne-t-on le nom de Cima Coppi...
+culture_g_score: 80
+culture_g_justification: "L'une des trois grandes courses cyclistes, régulièrement interrogée sur le cyclisme italien, ses maillots, ses vainqueurs et son histoire."
 ---
-
 ![Image de Giro](https://upload.wikimedia.org/wikipedia/commons/8/89/Arnhem_Gelredome-traverse%2C_Giro_d%27Italia_IMG_0142_2016-05-07_12.26.jpg)
 
 ###### Questions

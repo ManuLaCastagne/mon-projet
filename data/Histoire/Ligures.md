@@ -20,8 +20,9 @@ indice_6 :
   - tribus montagnardes
 questions:
  - Quel peuple ancien de la côte méditerranéenne a donné son nom à une région de l'Italie dont le chef-lieu est Gênes?
+culture_g_score: 40
+culture_g_justification: "Peuple antique utile pour quelques questions sur l’Italie et la Gaule, mais peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Ligures](https://upload.wikimedia.org/wikipedia/commons/f/fb/Popolazioni_preromane_del_Piemonte.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - Maverick
 indice_6:
   - compétition aérienne
+culture_g_score: 76
+culture_g_justification: "Série télévisée emblématique des années 1980, fréquemment associée à Tom Selleck, Hawaï et à la culture populaire."
 ---
-
 ![Image de Magnum](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Magnum_scene.jpg/640px-Magnum_scene.jpg)
 
 ###### Questions

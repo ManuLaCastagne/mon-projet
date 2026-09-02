@@ -22,8 +22,9 @@ indice_6 :
   - Claude Chabrol
 questions:
  - Me servant de nouvelles techniques pour tourner en plein air afin d'être plus proche du réel, je choisis de jeunes acteurs comme Bernadette Lafont et Jean-Paul Belmondo...
+culture_g_score: 100
+culture_g_justification: "Mouvement majeur du cinéma français et mondial, la Nouvelle Vague ouvre des questions historiques, esthétiques, critiques, géographiques et liées à de nombreux films."
 ---
-
 ![Image de Nouvelle Vague](https://upload.wikimedia.org/wikipedia/commons/e/ee/Truffaut-BeauSerge.jpg)
 
 ###### Questions

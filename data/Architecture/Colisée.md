@@ -23,8 +23,9 @@ indice_6 :
   - spectacles antiques
 questions:
  - Inauguré en 1980, construit par l'empereur Vespasien à l'emplacement d'un lac du domaine du palais de Néron,  55 000 spectateurs assistaient à des combats de gladiateurs.
+culture_g_score: 100
+culture_g_justification: "Symbole universel de Rome et de l’Empire romain, omniprésent dans les questions d’histoire, d’architecture et de civilisation."
 ---
-
 ![Image de Colisée](https://upload.wikimedia.org/wikipedia/commons/3/36/Colis%C3%A9e_Pepsi-banni%C3%A8res.JPG)
 
 ###### Questions

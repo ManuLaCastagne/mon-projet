@@ -23,8 +23,9 @@ indice_6 :
   - Autobiographie
 questions:
  - Quel roman d'Henri Charrière dont le titre animalier correspond au surnom que porta l'auteur ?
+culture_g_score: 64
+culture_g_justification: "Best-seller international lié au bagne et au cinéma, mais principalement exploitable autour d’un récit et d’une controverse biographique."
 ---
-
 ![Image de Papillon (roman)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Libro_Papillon.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - bibliothèque d'Alexandrie
 questions:
  - Comment a-t-on appelé la période de la civilisation grecque allant de la conquête d'Alexandre à la domination romaine?
+culture_g_score: 83
+culture_g_justification: "Période structurante reliant l’héritage grec, les royaumes hellénistiques, les sciences et l’expansion romaine."
 ---
-
 ![Image de Période hellénistique](https://upload.wikimedia.org/wikipedia/commons/3/30/T%C3%AAte_de_femme_p%C3%A9riode_hellenistique_0995.jpg)
 
 ###### Questions

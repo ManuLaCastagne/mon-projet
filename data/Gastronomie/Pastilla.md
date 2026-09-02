@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Maroc
+culture_g_score: 48
+culture_g_justification: "Spécialité marocaine notable, susceptible d'apparaître dans les quiz culinaires mais peu transversale."
 ---
 ###### Questions 
 

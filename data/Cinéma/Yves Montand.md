@@ -22,9 +22,9 @@ indice_6 :
   - grand écran
 questions:
  - Dans un sketch de 1950, quel acteur dicte à une téléphoniste jouée par Simone Signoret un télégramme destiné à celle qu'il aime ?
+culture_g_score: 88
+culture_g_justification: "Grande figure franco-italienne reliant chanson, cinéma, théâtre, politique, Hollywood et plusieurs films français emblématiques."
 ---
-
-
 ![Image de Yves Montand](https://upload.wikimedia.org/wikipedia/commons/8/85/Yves_Montand_in_ons_land_voor_optreden_in_Koninklijke_Schouwburg_te_Den_Haag%2C_Bestanddeelnr_917-4144_%28cropped%29.jpg)
 
 ###### Questions

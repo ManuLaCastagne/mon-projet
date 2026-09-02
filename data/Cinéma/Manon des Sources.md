@@ -20,8 +20,9 @@ indice_5 :
   - Soubeyran
 indice_6 : 
   - film français années 80
+culture_g_score: 80
+culture_g_justification: "Classique du cinéma français adapté de Pagnol, rentable pour son diptyque, ses acteurs, la Provence et son intrigue de vengeance."
 ---
-
 ![Image de Manon des Sources](https://upload.wikimedia.org/wikipedia/commons/2/26/Texte-Manon-des-Sources-1952.png)
 
 ###### Questions

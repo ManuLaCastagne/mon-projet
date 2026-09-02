@@ -15,8 +15,9 @@ indice_6 :
   - Fertilité du sol
 questions:
  - Représentés par l'arénicole ou le lombric, nous devons notre nom à notre corps formé d'anneaux.
+culture_g_score: 60
+culture_g_justification: "Groupe zoologique utile pour les vers de terre, la décomposition et la biodiversité marine."
 ---
-
 ![Image de Annélides](https://upload.wikimedia.org/wikipedia/commons/d/d1/Annelida_collage_%282%29.png)
 
 ###### Questions

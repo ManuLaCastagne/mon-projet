@@ -25,8 +25,9 @@ indice_6 :
   - mer Méditerranée
 questions:
  - Du nom de quelle cité jadis fondée par les colons phéniciens venus de Culture_G/Tyr, a-t-on baptisé l'aéroport de Tunis ?
+culture_g_score: 92
+culture_g_justification: "Cité antique majeure et marronnier historique, indispensable pour les guerres puniques, Rome, la Méditerranée et l’Antiquité."
 ---
-
 ![Image de Carthage](https://upload.wikimedia.org/wikipedia/commons/2/24/Western_Mediterranean_territory%2C_150_BC.svg)
 
 ![[Carte_Carthage.png]]

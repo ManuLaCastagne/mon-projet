@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée comme amendement de sol et dans l'horticulture
 questions:
  - Quelle mousse des tourbières, emmagasinant l'eau comme le ferait une éponge, se range parmi les végétaux les plus acidophiles?
+culture_g_score: 48
+culture_g_justification: "La sphaigne permet des liens avec les tourbières, les sols et ses usages absorbants, mais demeure une notion de niche."
 ---
-
 ![Image de Sphaigne](https://upload.wikimedia.org/wikipedia/commons/a/a0/Sphagnum_rubellum_pendent_branch_tip.jpg)
 
 ###### Questions

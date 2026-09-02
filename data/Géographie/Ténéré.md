@@ -23,8 +23,9 @@ indice_6 :
   - aridité
 questions:
  - En 1983, dans quelle région du Sahara nigérien de nombreux pilotes se sont-ils perdus ?
+culture_g_score: 60
+culture_g_justification: "Le Ténéré est un désert saharien identifiable par l’Arbre du Ténéré et utile pour quelques questions de géographie, d’écologie et d’exploration."
 ---
-
 ![Image de Ténéré](https://upload.wikimedia.org/wikipedia/commons/c/c9/Fachi-Bilma-D%C3%BCnen.jpg)
 
 ![[Carte_Ténéré.png]]

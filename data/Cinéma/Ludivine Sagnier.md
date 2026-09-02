@@ -22,8 +22,9 @@ indice_6 :
   - actrice française
 questions:
  - En 2003, quelle actrice née en 1979 partage l'affiche du film "Swimming Pool" aux côtés de Charlotte Rampling ?
+culture_g_score: 47
+culture_g_justification: "Actrice française reconnue dans plusieurs films populaires et d’auteur, mais rarement prioritaire face aux grandes vedettes."
 ---
-
 ![Image de Ludivine Sagnier](https://upload.wikimedia.org/wikipedia/commons/1/1d/Ludivine_Sagnier_2013.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - mouvement post-punk
 indice_6:
   - MTV et clips vidéos
+culture_g_score: 72
+culture_g_justification: "Courant musical majeur des années 1980, régulièrement relié au rock, à la pop, aux synthétiseurs et à la culture visuelle."
 ---
-
 ![Image de New wave](https://upload.wikimedia.org/wikipedia/commons/6/6b/Beach%2C_New_Brighton%2C_New_Zealand_06.jpg)
 
 ###### Questions

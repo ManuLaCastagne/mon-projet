@@ -29,8 +29,9 @@ questions:
   - De quel écrivain, auteur de "Mort à crédit", Lucette Destouches, disparue en 2019 à l'âge de 107 ans, était-elle l'épouse?
   - Quel écrivain, ayant en 1912 devancé d'un an l'appel sous les drapeaux, raconte son expérience de la vie militaire dans le livre "Casse-pipe"?
   - A la fin des années 50, quel écrivain condamné à l'indignité nationale est interviewé par Francine Bloch...
+culture_g_score: 88
+culture_g_justification: "Auteur incontournable de la littérature française du XXe siècle, à la fois pour son style, ses romans majeurs et sa controverse politique."
 ---
-
 ![Image de Louis-Ferdinand Céline](https://upload.wikimedia.org/wikipedia/commons/5/50/L.-F._C%C3%A9line_b_Meurisse_1932.jpg)
 
 ###### Questions

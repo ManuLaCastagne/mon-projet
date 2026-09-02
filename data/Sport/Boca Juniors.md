@@ -20,9 +20,9 @@ indice_6 :
   - Diego Maradona
 questions:
  - En 1997, dans quel club, avec lequel il avait été champion d'Argentine...
+culture_g_score: 72
+culture_g_justification: "Club emblématique du football argentin, associé à Maradona, au Superclásico, à Buenos Aires et à la Copa Libertadores."
 ---
-
-
 ![Image de Boca Juniors](https://upload.wikimedia.org/wikipedia/commons/1/19/ESCUDO_BOCA_JUNIORS_1.jpg)
 
 ###### Questions

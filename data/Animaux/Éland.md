@@ -13,8 +13,9 @@ indice_5 :
   - Grand koudou
 indice_6 : 
   - Source de viande et de cuir
+culture_g_score: 28
+culture_g_justification: "L’éland est une antilope africaine assez spécialisée, rarement distinguée dans les questions de culture générale."
 ---
-
 ![Image de Éland](https://upload.wikimedia.org/wikipedia/commons/3/31/Taurotragus_oryx_-_young_bull_-_Etosha_2015.jpg)
 
 ###### Questions

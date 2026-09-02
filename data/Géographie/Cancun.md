@@ -24,9 +24,9 @@ indice_6 :
   - site archéologique de Tulum
 questions:
  - Quelle station balnéaire du Mexique, lancée à la fin des années 60, située au nord-est de la péninsule du Yucatan, connue pour ses eaux turquoise ?
+culture_g_score: 60
+culture_g_justification: "Destination touristique très connue, mais principalement interrogée sous les angles du tourisme, du Mexique et de la péninsule du Yucatán."
 ---
-
-
 ![Image de Cancun](https://upload.wikimedia.org/wikipedia/commons/a/af/Cancun_Beach.jpg)
 
 ![[Carte_Cancun.png]]

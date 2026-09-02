@@ -22,8 +22,9 @@ indice_6 :
   - Belle
 questions:
  - En octobre 2020, quel chanteur d'origine corse, ayant représenté la France lors du concours de l'Eurovision 1993, a sorti l'album "Un Air de famille"?
+culture_g_score: 60
+culture_g_justification: "Chanteur populaire associé à Notre-Dame de Paris, à l’Eurovision et aux télé-crochets, avec une importance culturelle toutefois modérée."
 ---
-
 ![Image de Patrick Fiori](https://upload.wikimedia.org/wikipedia/commons/8/87/Patrick_Fiori_t%C3%A9l%C3%A9vie_2014.jpg)
 
 ###### Questions

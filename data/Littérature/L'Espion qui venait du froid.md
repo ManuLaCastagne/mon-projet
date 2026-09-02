@@ -19,6 +19,8 @@ indice_5:
   - Checkpoint Charlie
 indice_6:
   - Guerre froide
+culture_g_score: 80
+culture_g_justification: "Classique majeur du roman d’espionnage, régulièrement associé à John le Carré, à la guerre froide et à son adaptation avec Richard Burton."
 ---
 ![[Pasted image 20260131112159.png]]
 ###### Questions

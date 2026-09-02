@@ -25,8 +25,9 @@ indice_6 :
   - site de Makhtesh Ramon
 questions:
  - Quel désert du Proche-Orient débouchant sur le golfe d'Aqaba occupe...
+culture_g_score: 60
+culture_g_justification: "Désert israélien utile pour la géographie du Proche-Orient, les paysages, les mines antiques et les sites de Beersheba et Mitzpe Ramon."
 ---
-
 ![Image de Néguev](https://upload.wikimedia.org/wikipedia/commons/5/54/Israel-2013-Aerial_09-Negev-Serpentine_Road.jpg)
 
 ![[Carte_Néguev.png]]

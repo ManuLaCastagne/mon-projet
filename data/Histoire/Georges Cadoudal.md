@@ -20,8 +20,9 @@ indice_6 :
   - Napoléon Bonaparte
 questions:
  - En 1804, quel chef chouan, natif du Morbihan, est exécuté après avoir organisé un complot contre le Premier consul?
+culture_g_score: 60
+culture_g_justification: "Chef chouan utile pour la Révolution, les complots contre Napoléon et l’histoire bretonne, mais d’importance surtout nationale."
 ---
-
 ![Image de Georges Cadoudal](https://upload.wikimedia.org/wikipedia/commons/a/a0/Georges_cadoudal.jpg)
 
 ###### Questions

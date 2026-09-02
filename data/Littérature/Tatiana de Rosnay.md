@@ -20,8 +20,9 @@ indice_5:
   - A écrit en anglais et en français
 indice_6:
   - Récompensée par des prix littéraires
+culture_g_score: 56
+culture_g_justification: "Romancière contemporaine associée à un best-seller sur la rafle du Vélodrome d'Hiver, utile pour quelques questions littéraires et historiques."
 ---
-
 ![Image de Tatiana de Rosnay](https://upload.wikimedia.org/wikipedia/commons/e/e0/Paris_-_Salon_du_livre_2013_-_Tatiana_de_Rosnay_001.jpg)
 
 ###### Questions

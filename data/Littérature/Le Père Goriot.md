@@ -22,10 +22,9 @@ indice_6 :
   - Liens familiaux et ambition
 questions:
  - Dans quel roman de Balzac Rastignac rencontre-t-il le père de Delphine de Nussinguen à la pension Vauquère ?
+culture_g_score: 80
+culture_g_justification: "Grand classique de Balzac, riche en personnages, thèmes sociaux et repères sur La Comédie humaine, donc très rentable en quiz."
 ---
-
-
-
 ![Image de Le Père Goriot](https://upload.wikimedia.org/wikipedia/commons/3/34/Le_P%C3%A8re_Goriot%2C_1er_Volume%2C_1835.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - BDSM
 questions:
  - En 2015, quel film américain, adapté d'un best-seller de la Britannique E.L.James, réunit Dakota Johnson et Jamie Dornan?
+culture_g_score: 60
+culture_g_justification: "Phénomène cinématographique et populaire très connu, mais d’importance artistique limitée et surtout utile par son succès commercial."
 ---
-
 ![Image de Cinquante nuances de Grey](https://upload.wikimedia.org/wikipedia/commons/d/dc/Nouvelles_illustrations_de_zoologie_-_contenant_cinquante_planches_enlumine%C3%A9s_d%27oiseaux_curieux%2C_et_qui_non_et%C3%A9s_jamais_descrits%2C_et_quelques_de_quadrupedes%2C_de_reptiles_et_d%27insectes%2C_avec_de_courtes_%2814563999218%29.jpg)
 
 ###### Questions

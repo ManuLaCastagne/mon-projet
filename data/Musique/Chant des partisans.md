@@ -18,8 +18,9 @@ indice_5:
   - Seconde Guerre mondiale
 indice_6:
   - Hymne de la Résistance
+culture_g_score: 97
+culture_g_justification: "Hymne incontournable de la Résistance française, au croisement de la Seconde Guerre mondiale, de la BBC, de la musique et de la mémoire nationale."
 ---
-
 ![Image de Chant des partisans]()
 
 ###### Questions

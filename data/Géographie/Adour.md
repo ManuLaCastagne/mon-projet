@@ -24,8 +24,9 @@ indice_6 :
   - influence le climat et l'économie régionale
 questions:
  - Quel fleuve, formé au pied des cols d'Aspin et du Tourmalet et passant à Bayonne se termine par un estuaire entre Anglet et Boucau?
+culture_g_score: 48
+culture_g_justification: "Fleuve important du Sud-Ouest français, mais relativement peu fréquent dans les quiz nationaux."
 ---
-
 ![Image de Adour](https://upload.wikimedia.org/wikipedia/commons/a/a3/Adour_escuymayres.jpg)
 
 ![[Carte_Adour.png]]

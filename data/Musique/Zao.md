@@ -20,8 +20,9 @@ indice_5 :
   - ndombolo
 indice_6 : 
   - chansons engagées
+culture_g_score: 40
+culture_g_justification: "Chanteur congolais respecté pour ses chansons satiriques, mais restant une référence de niche dans les quiz généralistes."
 ---
-
 ![Image de Zao](https://upload.wikimedia.org/wikipedia/commons/f/f5/Zao.jpg)
 
 ###### Questions

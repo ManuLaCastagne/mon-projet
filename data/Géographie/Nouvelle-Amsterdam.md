@@ -24,8 +24,9 @@ indice_6 :
   - 1624
 questions:
  - Quelle île française de l'océan Indien, abritant une station météorologique, porte un nom associant le mot nouvelle à celui d'une ville néerlandaise?
+culture_g_score: 60
+culture_g_justification: "Repère historique utile pour comprendre les origines de New York, la colonisation néerlandaise et la rivalité anglo-néerlandaise."
 ---
-
 ![Image de Nouvelle-Amsterdam](https://upload.wikimedia.org/wikipedia/commons/f/f4/Amsterdam_Island_Cattle.jpg)
 
 ![[Carte_Nouvelle-Amsterdam.png]]

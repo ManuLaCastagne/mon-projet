@@ -18,8 +18,9 @@ indice_5 :
   - célèbres jumeaux
 indice_6 : 
   - controverses scientifiques
+culture_g_score: 76
+culture_g_justification: "Duo emblématique de la télévision française, régulièrement associé à Temps X, à la vulgarisation scientifique et à plusieurs controverses."
 ---
-
 ![Image de Frères Bogdanov](https://upload.wikimedia.org/wikipedia/commons/1/1d/Pr%C3%A9sentation_%C3%A9quipe_DMBC%2C_10_septembre_2016_-_6.jpg)
 
 ###### Questions

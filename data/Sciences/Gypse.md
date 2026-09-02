@@ -20,8 +20,9 @@ indice_6 :
   - Évaporite
 questions:
  - Je suis de couleur blanche, grise, de faible dureté. Sulfate hydraté naturel de calcium produisant le plâtre après chauffage…
+culture_g_score: 48
+culture_g_justification: "Minéral lié au plâtre, aux cristaux géants et à quelques usages historiques, mais assez peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Gypse](https://upload.wikimedia.org/wikipedia/commons/b/bb/Gypse_Caresse.jpg)
 
 ###### Questions

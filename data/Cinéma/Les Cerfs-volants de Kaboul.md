@@ -22,8 +22,9 @@ indice_6 :
   - années 2000
 questions:
  - En 2008, quel film tiré d'un roman de Khaled Hosseini a pour cadre la capitale de l'Afghanistan ?
+culture_g_score: 60
+culture_g_justification: "Film connu grâce au roman de Khaled Hosseini et au contexte afghan, mais moins incontournable que les grands classiques du cinéma."
 ---
-
 ![Image de Les Cerfs-volants de Kaboul](https://upload.wikimedia.org/wikipedia/commons/a/ae/Kabul_kites_at_night.ogv)
 
 ###### Questions

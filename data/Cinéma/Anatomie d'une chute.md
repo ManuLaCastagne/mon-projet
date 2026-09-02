@@ -20,8 +20,9 @@ indice_5 :
   - enquête judiciaire
 indice_6 : 
   - vie privée dévoilée
+culture_g_score: 77
+culture_g_justification: "Palme d’or récente et film français marquant, fréquemment associé à Justine Triet, au procès et à ses récompenses."
 ---
-
 ![Image de Anatomie d'une chute](https://upload.wikimedia.org/wikipedia/commons/0/09/Anatomie_d%27une_chute_%28movie%29_Logo.png)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_6 :
   - Identifié à la constellation du Verseau
 questions:
  - Quel personnage de grande beauté fut capturé par Zeus qui secondait parfois Hébée en versant parfois l'ambroisie à l'assemblée des dieux ?
+culture_g_score: 63
+culture_g_justification: "Échanson de Zeus associé à la constellation du Verseau et à une lune de Jupiter, offrant plusieurs angles distincts."
 ---
-
 ![Image de Ganymède](https://upload.wikimedia.org/wikipedia/commons/f/f0/Ganymede_-_Perijove_34_Composite.jpg)
 
 ###### Questions

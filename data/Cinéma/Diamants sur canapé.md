@@ -22,10 +22,9 @@ indice_6 :
   - Henry Mancini
 questions:
  - Dans quel film, sorti en France en 1962, Audrey Hepburn regarde-t-elle avec envie les vitrines du joaillier Tiffany's?
+culture_g_score: 93
+culture_g_justification: "Classique mondial immédiatement associé à Audrey Hepburn, Moon River, Tiffany's, Truman Capote et de nombreuses scènes cultes."
 ---
-
-
-
 ![Image de Diamants sur canapé](https://upload.wikimedia.org/wikipedia/commons/0/0b/Breakfast-at-tiffany-s-official%C2%AE-trailer-hd.ogv)
 
 ###### Questions

@@ -21,6 +21,8 @@ indice_5:
   - Magie
 indice_6:
   - Comédie
+culture_g_score: 31
+culture_g_justification: "Comédie française appréciée mais relativement confidentielle, offrant peu de repères réutilisables."
 ---
 ###### Questions
 

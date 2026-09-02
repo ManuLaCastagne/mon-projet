@@ -20,9 +20,9 @@ indice_6:
   - Bassin versant
 questions:
   - Fleuve long de 3 780km, j'ai la particularité d'être plus court que mon affluent principal. Traversant du nord au sud un pays dont je draine un tiers de la superficie, j'ai été aménagé à partir de 1879. Fleuve né dans le Minnesota...
+culture_g_score: 64
+culture_g_justification: "État américain bien identifiable, mais moins central dans les quiz que les grands États et villes des États-Unis."
 ---
-
-
 ![[Carte_Mississipi.png]]
 ###### Questions
 

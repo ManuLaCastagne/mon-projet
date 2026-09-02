@@ -22,8 +22,9 @@ indice_6 :
   - Maecenas
 questions:
  - Un mécène, qui m'offrit une propriété. Auteur de "Satires", j'ai exposé ma conception de l'art dans l'"Art poétique"...
+culture_g_score: 80
+culture_g_justification: "Poète latin majeur, associé à Carpe diem, aux Odes, aux Satires, à Mécène et à la théorie classique de la poésie."
 ---
-
 ![Image de Horace](https://upload.wikimedia.org/wikipedia/commons/9/95/Quintus_Horatius_Flaccus.jpg)
 
 ###### Questions

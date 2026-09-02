@@ -21,9 +21,9 @@ indice_6 :
 questions:
  - En 2001, quel attaquant formé à Auxerre...
  - En 1995, quel footballeur français agresse un supporter...
+culture_g_score: 80
+culture_g_justification: "Footballeur charismatique, figure de Manchester United et acteur, fréquemment mobilisé dans les quiz sportifs et populaires."
 ---
-
-
 ![Image de Éric Cantona](https://upload.wikimedia.org/wikipedia/commons/f/f4/Eric_Cantona_Cannes_2009.jpg)
 
 ###### Questions

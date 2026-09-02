@@ -22,8 +22,9 @@ indice_6 :
   - égalité des sexes
 questions:
  - En 1792, quelle femme de lettres a écrit la "Déclaration  "des droits de la femme et de la citoyenne" ?
+culture_g_score: 84
+culture_g_justification: "Figure majeure de la Révolution française et de l’histoire du féminisme, fréquemment interrogée autour de sa Déclaration et de son exécution."
 ---
-
 ![Image de Olympe de Gouges](https://upload.wikimedia.org/wikipedia/commons/b/be/Montauban_-_Olympe_de_Gouges_theater.jpg)
 
 ###### Questions

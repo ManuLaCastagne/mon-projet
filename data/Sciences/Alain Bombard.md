@@ -20,8 +20,9 @@ indice_6 :
   - Chercheur en biologie
 questions:
  - Ayant une formation de médecin, j'ai créé un voilier-laboratoire, le Coryphène, pour étudier les pathologies du marin. Docteur spécialisé dans la survie en mer…
+culture_g_score: 51
+culture_g_justification: "Personnalité associée à une aventure célèbre de survie en mer, mais dont les usages en quiz restent assez limités."
 ---
-
 ![Image de Alain Bombard](https://upload.wikimedia.org/wikipedia/commons/d/dc/Alain_Bombard_1981.jpg)
 
 ###### Questions

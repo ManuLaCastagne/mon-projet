@@ -22,8 +22,9 @@ indice_6 :
   - écrivain français
 questions:
  - En 1970, quel écrivain se voit décerner le prix Goncourt à l'unanimité pour son roman "Le Roi des aulnes"?
+culture_g_score: 60
+culture_g_justification: "Écrivain français classique associé au Goncourt, à plusieurs romans connus et à la réécriture des mythes, avec une fréquence honorable mais limitée."
 ---
-
 ![Image de Michel Tournier](https://upload.wikimedia.org/wikipedia/commons/c/cb/Michel_Tournier.jpg)
 
 ###### Questions

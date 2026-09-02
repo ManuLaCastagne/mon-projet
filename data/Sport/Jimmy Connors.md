@@ -20,9 +20,9 @@ indice_6 :
   - Open Era
 questions:
  - Quel joueur de tennis américain, surnommé Jimbo...
+culture_g_score: 80
+culture_g_justification: "Légende du tennis américain, Connors est exploitable par ses titres, records de longévité, rivalités et performances en Grand Chelem."
 ---
-
-
 ![Image de Jimmy Connors](https://upload.wikimedia.org/wikipedia/commons/9/97/Jimmy_Conners_1994.jpg)
 
 ###### Questions

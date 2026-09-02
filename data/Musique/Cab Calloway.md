@@ -22,8 +22,9 @@ indice_6 :
   - swing
 questions:
  - Le succès grâce à mon style vocal burlesque mêlant argot et onomatopées, je suis l'interprète de "Minnie the Moocher" et "Jumping Jive". Portant dans mon pseudo l'abréviation de mon prénom Cabell...
+culture_g_score: 60
+culture_g_justification: "Figure notable du jazz et du swing, exploitable autour du scat, de Minnie the Moocher et de la culture afro-américaine, mais moins incontournable que les grands noms du genre."
 ---
-
 ![Image de Cab Calloway](https://upload.wikimedia.org/wikipedia/commons/a/a1/Cab_Calloway_Gottlieb.jpg)
 
 ###### Questions

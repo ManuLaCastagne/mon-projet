@@ -20,8 +20,9 @@ indice_6 :
   - Combats olympiques
 questions:
  - Quel sport de combat d'origine coréenne, voisin...
+culture_g_score: 80
+culture_g_justification: "Sport olympique mondialement identifié, permettant des questions sur la Corée, les arts martiaux, les règles et l’olympisme."
 ---
-
 ![Image de Taekwondo](https://upload.wikimedia.org/wikipedia/commons/f/f9/Taekwondo%26KoreanMartialArtsMagazine.jpg)
 
 ###### Questions

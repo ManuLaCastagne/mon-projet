@@ -15,8 +15,9 @@ indice_6:
   - Production d'huile utilisée en cosmétique et industrie
 questions:
   - De la famille du buis, je pousse dans les régions désertiques du Mexique où je supporte l'aridité grâce à mes longues racines. Arbuste cultivé pour mes graines dont on tire une cire dite huile.
+culture_g_score: 48
+culture_g_justification: "Arbuste associé aux régions désertiques et à la cire cosmétique, avec une fréquence de quiz seulement occasionnelle."
 ---
-
 ![Image de Jojoba](https://upload.wikimedia.org/wikipedia/commons/d/d3/Simmondsia_chinensis_male_flower.jpg)
 
 ###### Questions

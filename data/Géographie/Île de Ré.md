@@ -24,8 +24,9 @@ indice_6 :
   - villages pittoresques
 questions:
  - Quelle île française est reliée au continent par un pont de 3 km de long ?
+culture_g_score: 56
+culture_g_justification: "Île touristique française fréquemment reliée à La Rochelle, à son pont, à l’ornithologie et à la pomme de terre primeur."
 ---
-
 ![Image de Île de Ré](https://upload.wikimedia.org/wikipedia/commons/f/f8/Abbaye_Notre-Dame_de_R%C3%A9%2C_R%C3%A9_island%2C_Charente-Maritime%2C_France.jpg)
 
 ![[Carte_Île de Ré.png]]

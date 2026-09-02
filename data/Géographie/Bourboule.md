@@ -24,8 +24,9 @@ indice_6 :
   - bains thermaux
 questions:
  - Quelle station thermale du Puy-de-Dôme, dans les monts Dore...
+culture_g_score: 31
+culture_g_justification: "La Bourboule est une station thermale française de notoriété limitée, principalement interrogée dans des questions locales ou touristiques."
 ---
-
 ![Image de Bourboule](https://upload.wikimedia.org/wikipedia/commons/6/6f/La_Bourboule_pr%C3%A8s_du_terrain_de_foot.JPG)
 
 ![[Carte_Bourboule.png]]

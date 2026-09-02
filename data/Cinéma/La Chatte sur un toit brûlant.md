@@ -20,6 +20,8 @@ indice_5:
   - adaptation de pièce de théâtre
 indice_6:
   - chaleur étouffante
+culture_g_score: 80
+culture_g_justification: "Classique hollywoodien lié à Tennessee Williams, Elizabeth Taylor, Paul Newman et au théâtre américain, offrant plusieurs entrées de quiz."
 ---
 ![[Pasted image 20250530151048.png]]
 ###### Questions

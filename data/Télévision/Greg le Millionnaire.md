@@ -19,8 +19,9 @@ indice_5 :
   - Greg Basso
 indice_6 : 
   - ancienne villa
+culture_g_score: 52
+culture_g_justification: "Émission de téléréalité marquante du début des années 2000, mais offrant peu d'angles indépendants au-delà de son concept."
 ---
-
 ![Image de Greg le Millionnaire](https://upload.wikimedia.org/wikipedia/commons/6/62/Gr%C3%A9gory_Basso_Greg_le_millionnaire.jpg)
 
 ###### Questions

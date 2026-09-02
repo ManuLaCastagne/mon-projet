@@ -22,8 +22,9 @@ indice_6 :
   - Raid
 questions:
  - En 2016, dans quel film de et avec Dany Boon, Alice Pol incarne-t-elle une policière maladroite rêvant d'intégrer...
+culture_g_score: 36
+culture_g_justification: "Comédie populaire mais récente et peu structurante, généralement questionnée seulement par son intrigue, son casting ou son réalisateur."
 ---
-
 ![Image de Raid dingue](https://upload.wikimedia.org/wikipedia/commons/2/2c/RaidDingueBoon.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - entre Ajaccio et Calvi
 questions:
  - Quelles célèbres calanques corses sont notamment surmontées d'un promontoire en pierre appelé le château fort ?
+culture_g_score: 56
+culture_g_justification: "Les Calanques de Piana sont un site naturel corse emblématique, surtout mobilisé dans des questions de patrimoine et de paysages."
 ---
-
 ![Image de Calanques de Piana](https://upload.wikimedia.org/wikipedia/commons/5/54/02_Calanche_Piana.jpg)
 
 ![[Carte_Calanques de Piana.png]]

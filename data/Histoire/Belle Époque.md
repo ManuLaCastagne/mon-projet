@@ -20,8 +20,9 @@ indice_6 :
   - Moulin Rouge et Montmartre
 questions:
  - Et de joie de vivre. Période allant de l'Exposition universelle de Paris en 1900 à la 1re Guerre mondiale...
+culture_g_score: 83
+culture_g_justification: "Période très rentable reliant histoire sociale, arts, innovations, architecture, vie parisienne et contexte précédant 1914."
 ---
-
 ![Image de Belle Époque](https://upload.wikimedia.org/wikipedia/commons/5/52/Inner-city_architecture%2C_Manaus%2C_Brazil_17.jpg)
 
 ###### Questions

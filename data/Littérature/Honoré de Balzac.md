@@ -22,8 +22,9 @@ indice_6 :
   - écrivain du XIXe siècle
 questions:
  - Dans le cycle la La Comédie humaine, quel écrivain est le créateur...
+culture_g_score: 100
+culture_g_justification: "Monument de la littérature française, Balzac permet de relier romans, société du XIXe siècle, réalisme, histoire et personnages célèbres."
 ---
-
 ![Image de Honoré de Balzac](https://upload.wikimedia.org/wikipedia/commons/8/82/Honor%C3%A9_de_Balzac_%281842%29_detail.jpg)
 
 ###### Questions

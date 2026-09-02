@@ -22,8 +22,9 @@ indice_6 :
   - triangles amoureux
 questions:
  - En 2008, dans quel film,  adapté d'un roman de Marc Lévy, Vincent Lindon et Pascal Elbé incarnent-ils 2 pères divorcés et colocataires?
+culture_g_score: 27
+culture_g_justification: "Adaptation française peu marquante, rarement interrogée en dehors de son lien avec Marc Levy."
 ---
-
 ![Image de Mes amis, mes amours](https://upload.wikimedia.org/wikipedia/commons/5/58/Mes_amis%2C_mes_amours%2C_mes_emmerdes.png)
 
 ###### Questions

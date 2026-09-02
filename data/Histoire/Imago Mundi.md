@@ -20,8 +20,9 @@ indice_6 :
   - Jérusalem au centre
 questions:
  - Quel titre en latin portait l'atlas rédigé par le théologien Pierre d'Ailly annoté par Colomb lors de sa préparation ?
+culture_g_score: 27
+culture_g_justification: "Traité de cosmographie médiévale intéressant pour Colomb et l’histoire des découvertes, mais rarement interrogé en culture générale généraliste."
 ---
-
 ![Image de Imago Mundi](https://upload.wikimedia.org/wikipedia/commons/9/9c/Cantino_planisphere_%281502%29.jpg)
 
 ###### Questions

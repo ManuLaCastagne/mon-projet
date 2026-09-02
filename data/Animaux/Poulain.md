@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté et de jeunesse
 questions:
  - Qui se fait généralement au printemps.  Tétant régulièrement ma mère tout en broutant progressivement, je dors beaucoup et joue avec mes congénères en décochant par exemple des ruades. Petit du cheval âgé de moins de 3 ans...
+culture_g_score: 44
+culture_g_justification: "Terme courant désignant le jeune cheval, mais généralement limité à des questions de vocabulaire animalier."
 ---
-
 ![Image de Poulain](https://upload.wikimedia.org/wikipedia/commons/6/66/Martine_Poulain_-_L%C3%A9gion_d%27honneur_01.JPG)
 
 ###### Questions

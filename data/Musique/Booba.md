@@ -22,8 +22,9 @@ indice_6 :
   - OKLM
 questions:
  - Seul le palais omnisports de Bercy. Surnommé le Duc de Boulogne, j'ai sorti "Ultra" en mars 2021...
+culture_g_score: 73
+culture_g_justification: "Rappeur central du rap français, souvent interrogé pour Lunatic, ses albums, ses pseudonymes et son influence culturelle."
 ---
-
 ![Image de Booba](https://upload.wikimedia.org/wikipedia/commons/7/70/Booba_2009.jpg)
 
 ###### Questions

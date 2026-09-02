@@ -22,8 +22,9 @@ indice_6 :
   - maturité et éducation
 questions:
  - Dans quel roman publié vers 1850 Charles Dickens évoque-t-il sa jeunesse au travers  d'un personnage  placé entre les mains d'un tuteur cruel ?
+culture_g_score: 88
+culture_g_justification: "Grand classique de Dickens, fréquemment associé au roman moderne, à l’époque victorienne et à plusieurs personnages célèbres."
 ---
-
 ![Image de David Copperfield](https://upload.wikimedia.org/wikipedia/commons/8/85/Boys_and_Girls_of_Bookland_David_Copperfield_and_His_Mother.jpg)
 
 ###### Questions

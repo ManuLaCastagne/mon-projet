@@ -20,8 +20,9 @@ indice_6 :
   - marionnettes
 questions:
  - Lors des étés 93 et 94, dans quel jeu d'aventure 3 équipes devaient-elles retrouver un trésor dans un archipel des Caraïbes?
+culture_g_score: 20
+culture_g_justification: "Jeu télévisé ancien et aujourd'hui très marginal, offrant peu d'occasions de questions généralistes."
 ---
-
 ![Image de Trésor de Pago Pago](https://upload.wikimedia.org/wikipedia/commons/a/ad/Latini_-_Il_Tesoro%2C_1%2C_1878.djvu)
 
 ###### Questions

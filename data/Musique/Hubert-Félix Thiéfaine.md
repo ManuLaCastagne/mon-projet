@@ -22,8 +22,9 @@ indice_6 :
   - originaire de Besançon
 questions:
  - Chanteur né en 1948 à Dole, mon 1er disque avait pour titre "Tout corps vivant branché sur le secteur étant appelé à s'émouvoir".  Artiste aux textes insolents et surréalistes, j'ai publié 17 albums studio dont "Autorisation de délirer", "Alligators 427" et "Soleil cherche futur". Chanteur honoré par un double album hommage intitulé "Les fils du coupeur de joint" en référence...
+culture_g_score: 60
+culture_g_justification: "Auteur-compositeur français reconnu pour sa longévité et ses textes, Thiéfaine apparaît régulièrement mais reste une référence spécialisée de la chanson."
 ---
-
 ![Image de Hubert-Félix Thiéfaine](https://upload.wikimedia.org/wikipedia/commons/a/a4/Hubert_F%C3%A9lix_Thi%C3%A9faine%2C_24%C2%B0_Festival_chorus%2C_photo_F._Loock_%288%29.JPG)
 
 ###### Questions

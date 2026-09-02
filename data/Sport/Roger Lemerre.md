@@ -20,8 +20,9 @@ indice_6 :
   - Football
 questions:
  - Qui était sélectionneur de l'Equipe de France en 2000, vainqueure de l'Euro 2000 face à l'Italie ?
+culture_g_score: 60
+culture_g_justification: "Sélectionneur associé à l’Euro 2000 et à la CAN 2004, utile dans les quiz sportifs francophones mais moins célèbre que les grandes figures du football."
 ---
-
 ![Image de Roger Lemerre](https://upload.wikimedia.org/wikipedia/commons/8/8a/Morocco_vs_Gabon%2C_Roger_Lemerre%2C_March_28_2009.jpg)
 
 ###### Questions

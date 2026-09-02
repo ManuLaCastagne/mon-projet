@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de charité chrétienne
 questions:
  - Quel gros oiseau au long bec, pourvu d'une poche...
+culture_g_score: 64
+culture_g_justification: "Oiseau emblématique identifiable par son bec et présent dans des questions de zoologie, de nature et de culture populaire."
 ---
-
 ![Image de Pélican](https://upload.wikimedia.org/wikipedia/commons/3/39/Pelecanus_occidentalis_Caye_Caulker_03.JPG)
 
 ###### Questions

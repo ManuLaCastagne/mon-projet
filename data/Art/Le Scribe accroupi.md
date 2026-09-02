@@ -23,8 +23,9 @@ indice_6 :
   - sculpture polychrome
 questions:
  - Louvre, quel personnage de l'Egypte ancienne, sculpté assis en tailleur, est doté d'yeux en cristal de roche qui confèrent une présence au regard?
+culture_g_score: 81
+culture_g_justification: "Sculpture égyptienne emblématique du Louvre, très rentable pour les questions sur l’Antiquité, les scribes et le réalisme de l’art égyptien."
 ---
-
 ![Image de Le Scribe accroupi](https://upload.wikimedia.org/wikipedia/commons/6/6f/The_seated_scribe-E_3023-IMG_4267-gradient-contrast.jpg)
 
 ###### Questions

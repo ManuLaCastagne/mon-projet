@@ -22,8 +22,9 @@ indice_6 :
   - Amérique du Sud
 questions:
  - Dans quel roman de Georges Arnaud, Gérard Sturmer convoie-t-il un camion de nitroglycérine contre une importante somme d'argent?
+culture_g_score: 60
+culture_g_justification: "Roman connu surtout grâce au film de Clouzot, avec quelques liens utiles entre littérature, cinéma et aventure, sans être incontournable."
 ---
-
 ![Image de Le Salaire de la peur](https://upload.wikimedia.org/wikipedia/commons/a/a8/11-20-1953_11998_Tuschinski_%285230999471%29.jpg)
 
 ###### Questions

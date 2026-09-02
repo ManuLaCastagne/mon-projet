@@ -22,8 +22,9 @@ indice_6 :
   - feux d'artifice
 questions:
  - En 1984, quel film de Denys Granier-Deferre, avec Guy Bedos et Jean Rochefort se déroule la nuit du 31 décembre dans un immeuble de banlieue parisienne?
+culture_g_score: 15
+culture_g_justification: "Film français très obscur, susceptible de fournir au mieux une question isolée sur son titre, son casting ou son réalisateur."
 ---
-
 ![Image de Réveillon chez Bob]()
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - science et philosophie
 questions:
  - En 1998, quel roman de Michel Houellebecq, au titre évoquant les constituants fondamentaux de la...
+culture_g_score: 60
+culture_g_justification: "Roman emblématique de Houellebecq, utile pour la littérature contemporaine et les prix littéraires, mais encore relativement spécialisé."
 ---
-
 ![Image de Les Particules élémentaires](https://upload.wikimedia.org/wikipedia/commons/1/19/Les_Particules_%C3%A9l%C3%A9mentaires_%28fran%C3%A7ais%29%2C_Michel_Houellebecq.jpg)
 
 ###### Questions

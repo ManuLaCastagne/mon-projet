@@ -20,8 +20,9 @@ indice_6 :
   - Parc des Princes
 questions:
  - 2 entraîneurs allemands, c'est un joueur français, Kingsley Coman, qui a été mon unique buteur. M'étant déroulée à huis clos et ayant vu le 6e sacre d'un club bavarois...
+culture_g_score: 52
+culture_g_justification: "Affiche de football connue des amateurs et liée à quelques finales européennes, mais trop spécifique pour être très transversale."
 ---
-
 ![Image de Bayern-PSG](https://upload.wikimedia.org/wikipedia/commons/8/83/Match_Football_F%C3%A9minin_Paris_SG_x_FC_Bayern_Munich_-_Stade_Parc_Princes_-_Paris_XVI_%28FR75%29_-_2022-03-30_-_13.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Dieppe
 questions:
  - Dans quel département se situe la ville normande de Sur la route de Louviers ?
+culture_g_score: 44
+culture_g_justification: "Département français identifiable par Évreux et la Normandie, mais d’un intérêt surtout administratif et régional."
 ---
-
 ![Image de Eure](https://upload.wikimedia.org/wikipedia/commons/9/97/Eure_l%C3%A9gislatives_1981.svg)
 
 ![[Carte_Eure.png]]

@@ -6,6 +6,8 @@ tags:
   - France
 date: 2011-01-01
 annee: 2011
+culture_g_score: 56
+culture_g_justification: "Série américaine populaire, identifiable par Storybrooke et les contes de fées, mais moins incontournable que les grandes séries internationales."
 ---
 ![Image de Once upon a time](https://upload.wikimedia.org/wikipedia/commons/7/72/Once_upon_a_time_2022-Zeche_Zollern-WUS09752.jpg)
 

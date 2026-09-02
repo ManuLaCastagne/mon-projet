@@ -22,8 +22,9 @@ indice_6 :
   - orchestre
 questions:
  - Quel compositeur d'origine grecque a utilisé des procédés mathématiques pour composer son oeuvre "Metastasis"...
+culture_g_score: 51
+culture_g_justification: "Compositeur novateur à l’importance réelle en musique contemporaine et en architecture, mais trop spécialisé pour être fréquent dans les quiz généralistes."
 ---
-
 ![Image de Iannis Xenakis](https://upload.wikimedia.org/wikipedia/commons/3/31/Iannis_Xenakis_1975.jpg)
 
 ###### Questions

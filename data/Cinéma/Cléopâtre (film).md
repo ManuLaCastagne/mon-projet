@@ -20,8 +20,9 @@ indice_5 :
   - Jules César
 indice_6 : 
   - coût de production élevé
+culture_g_score: 84
+culture_g_justification: "Blockbuster historique mythique, régulièrement associé à Elizabeth Taylor, Mankiewicz, Burton, l’Égypte et ses problèmes de production."
 ---
-
 ![Image de Cléopâtre (film)](https://upload.wikimedia.org/wikipedia/commons/9/94/Cl%C3%A9op%C3%A2tre_-_film_de_Henri_Andreani_-_sc%C3%A9nario_-_btv1b6407715p_%282_of_2%29.jpg)
 
 ###### Questions

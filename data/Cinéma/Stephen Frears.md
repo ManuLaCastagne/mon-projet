@@ -18,8 +18,9 @@ indice_5 :
   - Florence Foster Jenkins
 indice_6 : 
   - High Fidelity
+culture_g_score: 63
+culture_g_justification: "Réalisateur britannique associé à plusieurs adaptations et films prestigieux, mais moins central que les grands noms du cinéma."
 ---
-
 ![Image de Stephen Frears](https://upload.wikimedia.org/wikipedia/commons/5/52/Stephen_Frears_01.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - Revolution
 questions:
   - Quel musicien et chanteur, né le 7 juin 1958 à Minneapolis et disparu à l'âge de 57 ans, s'est également fait appeler Love Symbol?
+culture_g_score: 100
+culture_g_justification: "Icône mondiale de la musique, Prince permet des questions fréquentes sur ses albums, chansons, cinéma, identité artistique et influence."
 ---
-
 ![[Pasted image 20250410120205.png]]
 ###### Questions
 

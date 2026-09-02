@@ -23,9 +23,9 @@ indice_6 :
   - fer puddlé
 questions:
  - Repeint en 1998 avec de la peinture rouge poinsettia ou rouge Gauguin, j'enjambe la...
+culture_g_score: 64
+culture_g_justification: "Ouvrage d’art notable associé à Gustave Eiffel et à l’ingénierie française, mais nettement moins fréquent que la tour qui porte son nom."
 ---
-
-
 ![Image de Viaduc de Garabit](https://upload.wikimedia.org/wikipedia/commons/f/f2/00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal%2C_Frankreich.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5 :
   - longtemps aux côtés de Léon Zitrone
 indice_6 : 
   - a débuté à Télé Monte Carlo
+culture_g_score: 44
+culture_g_justification: "Figure marquante des speakerines françaises, surtout susceptible d’apparaître dans des questions historiques sur la télévision."
 ---
-
-
 ![Image de Denise Fabre](https://upload.wikimedia.org/wikipedia/commons/3/3d/Denise_Fabre_par_Claude_Truong-Ngoc_juillet_2013.jpg)
 
 ###### Questions

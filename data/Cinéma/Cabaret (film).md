@@ -17,8 +17,9 @@ indice_5 :
   - Chorégraphies de Bob Fosse
 indice_6 : 
   - Musical dramatique
+culture_g_score: 80
+culture_g_justification: "Grand classique de la comédie musicale, particulièrement rentable pour les Oscars, Bob Fosse, Liza Minnelli et le contexte de la montée du nazisme."
 ---
-
 ![Image de Cabaret (film)]()
 
 ###### Questions

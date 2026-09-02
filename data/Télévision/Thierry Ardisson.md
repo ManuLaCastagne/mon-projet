@@ -20,9 +20,9 @@ indice_6 :
   - habitué des talk-shows
 questions:
  - A quel animateur, surnommé l'homme en noir associe-t-on les émissions télévisées "Tout le monde en parle" et "Salut les Terriens" ?
+culture_g_score: 80
+culture_g_justification: "Animateur central de la télévision française, associé à des émissions cultes, à des innovations d’interview et à une forte identité médiatique."
 ---
-
-
 ![Image de Thierry Ardisson](https://upload.wikimedia.org/wikipedia/commons/b/bb/Thierry_Ardisson_-_Extracted.JPG)
 
 ###### Questions

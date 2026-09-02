@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté et de puissance
 questions:
  - Organe de certains ophidiens  dont sont dépourvues les espèces dites aglyphes, je peux être unique ou double, et suis situé à la partie antérieure ou postérieure du maxillaire. Rabattu en arrière au repos, je suis relié à des glandes à venin parfois très volumineuses par rapport à la taille de l'animal...
+culture_g_score: 27
+culture_g_justification: "Structures animales trop vagues et peu stabilisées comme sujet autonome, ce qui limite fortement leur fréquence et leur rendement."
 ---
-
 ![Image de Crochets](https://upload.wikimedia.org/wikipedia/commons/f/f9/Leftie_crochet.jpg)
 
 ###### Questions

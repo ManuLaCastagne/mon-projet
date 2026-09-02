@@ -20,8 +20,9 @@ indice_6 :
   - Phoebe et Joey
 questions:
  - Dans le générique de quelle célèbre série américaine créée en 1994 peut-on voir 6 personnages danser autour d'une fontaine?
+culture_g_score: 96
+culture_g_justification: "Sitcom mondiale extrêmement fréquente, offrant de nombreux repères sur les personnages, acteurs, intrigues, lieux et records d'audience."
 ---
-
 ![Image de Friends](https://upload.wikimedia.org/wikipedia/commons/7/77/Friends_Towers%2C_Munich%2C_June_2019.jpg)
 
 ###### Questions

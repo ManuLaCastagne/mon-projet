@@ -20,8 +20,9 @@ indice_5:
   - succès Maldon
 indice_6:
   - trio originellement
+culture_g_score: 73
+culture_g_justification: "Groupe antillais emblématique, fréquemment associé au tube « Maldòn », au zouk et à la culture musicale francophone."
 ---
-
 ![Image de Zouk Machine](https://upload.wikimedia.org/wikipedia/commons/8/8e/United_States_Exports_Statistics_Under_the_Lend-Lease_Program_%28IA_unitedstatesexpo4251945unse%29.pdf)
 
 ###### Questions 

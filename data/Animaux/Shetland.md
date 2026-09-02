@@ -14,9 +14,9 @@ indice_5:
   - Sheepdogs
 indice_6:
   - Animal emblématique des îles
+culture_g_score: 40
+culture_g_justification: "Archipel et race de poney associés à l’Écosse, avec quelques angles géographiques et animaliers mais une portée limitée."
 ---
-
-
 ![Image de Shetland](https://upload.wikimedia.org/wikipedia/commons/0/03/Shetland_pony_%282%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Crassus
 questions:
  - Quel homme politique romain forme avec Cinéma/César et Crassus un célèbre triumvirat ?
+culture_g_score: 84
+culture_g_justification: "Grande figure de la République romaine, liée à César, au triumvirat, aux conquêtes et à la guerre civile."
 ---
-
-
 ![Image de Pompée](https://upload.wikimedia.org/wikipedia/commons/b/b6/Fran%C3%A7ois_Augustin_Pomp%C3%A9e_Hennet.jpg)
 
 ###### Questions

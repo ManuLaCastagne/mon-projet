@@ -20,8 +20,9 @@ indice_6 :
   - natation française
 questions:
  - En 1966,  quel nageur est le 1er Français à effectuer un 200 m nage libre en moins de 2 minutes ?
+culture_g_score: 24
+culture_g_justification: "Nageur français médaillé en 1968 mais désormais peu connu et rarement cité dans les quiz généralistes."
 ---
-
 ![Image de Alain Mosconi](https://upload.wikimedia.org/wikipedia/commons/b/ba/Alain_Mosconi_1966.jpg)
 
 ###### Questions

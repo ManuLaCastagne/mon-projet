@@ -13,8 +13,9 @@ indice_5:
   - Mouton de salon
 indice_6:
   - Symbole d'élégance
+culture_g_score: 64
+culture_g_justification: "Race très connue, associée à l’intelligence, au toilettage et à l’histoire canine, mais pas une référence majeure."
 ---
-
 ![Image de Caniche](https://upload.wikimedia.org/wikipedia/commons/6/6f/Toy_Poodle_wearing_clothes_in_Tokyo.jpg)
 
 ###### Questions

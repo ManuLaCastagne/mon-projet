@@ -24,8 +24,9 @@ indice_6 :
   - région du Kansai
 questions:
  - Au printemps,  dans quelle grande ville du Japon les habitants se réunissent-ils dans le parc Maruyama pour admirer les cerisiers en fleurs?
+culture_g_score: 100
+culture_g_justification: "Ancienne capitale impériale, haut lieu du patrimoine japonais et nom d’un protocole international, Kyoto est exceptionnellement rentable en culture générale."
 ---
-
 ![Image de Kyoto](https://upload.wikimedia.org/wikipedia/commons/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg)
 
 ![[Carte_Kyoto.png]]

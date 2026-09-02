@@ -22,8 +22,9 @@ indice_6 :
   - Années 1980
 questions:
  - En 1988, quel film de Jean-Jacques Annaud a pour personnages deux plantigrades poursuivis par deux chasseurs ?
+culture_g_score: 64
+culture_g_justification: "Film populaire de Jean-Jacques Annaud, mémorable par son ours, ses paysages et son adaptation littéraire, mais aux angles limités."
 ---
-
 ![Image de L'Ours](https://upload.wikimedia.org/wikipedia/commons/3/3d/Polar_Bear_AdF.jpg)
 
 ###### Questions

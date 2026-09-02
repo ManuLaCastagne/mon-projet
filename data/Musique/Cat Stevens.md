@@ -22,8 +22,9 @@ indice_6 :
   - British singer-songwriter
 questions:
  - Compositeur de la bande originale du film "Harold et Maude", j'ai reçu un disque d'or aux Etats-Unis pour l'album "Tea for the Tillerman" dont est extrait le tube "Wild World". Interprète de la chanson "My Lady D'Arbanville", ayant adopté le nom de Yusuf Islam en 1978, je suis...
+culture_g_score: 80
+culture_g_justification: "Grande figure de la folk-pop britannique, riche en questions sur ses chansons, sa conversion, son identité Yusuf et les années 1970."
 ---
-
 ![Image de Cat Stevens](https://upload.wikimedia.org/wikipedia/commons/9/93/Yusuf_Islam_%28Cat_Stevens%29.jpg)
 
 ###### Questions

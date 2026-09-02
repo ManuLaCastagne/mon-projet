@@ -24,8 +24,9 @@ indice_6 :
   - le Trégor
 questions:
  - Département côtier arrosé par l'Arguenon et le Leger, je suis constitué de bocages et de landes.
+culture_g_score: 60
+culture_g_justification: "Département breton identifiable par Saint-Brieuc, son littoral, la Rance et plusieurs sites historiques, sans être prioritaire."
 ---
-
 ![Image de Côtes-d'Armor](https://upload.wikimedia.org/wikipedia/commons/8/84/Pr%C3%A9fecture_des_C%C3%B4tes-d%27Armor_%C3%A0_Saint-Brieuc.jpg)
 
 ![[Carte_Côtes-d'Armor.png]]

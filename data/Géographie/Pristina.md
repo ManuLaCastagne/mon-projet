@@ -22,8 +22,9 @@ indice_5 :
   - siège du gouvernement kosovar
 indice_6 : 
   - université de Pristina
+culture_g_score: 56
+culture_g_justification: "Capitale du Kosovo régulièrement rencontrée dans l’actualité et la géopolitique balkanique, avec peu d’autres angles majeurs."
 ---
-
 ![Image de Pristina](https://upload.wikimedia.org/wikipedia/commons/d/d7/PRISHTINA_2013_%2813%29.jpg)
 
 ![[Carte_Pristina.png]]

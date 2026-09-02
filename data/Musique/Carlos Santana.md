@@ -22,9 +22,9 @@ indice_6 :
   - fusion rock et latin jazz
 questions:
  - A quel célèbre guitariste, né au Mexique en 1947, doit-on des tubes comme "Black Magic Woman" ou "Oye como va" ?
+culture_g_score: 80
+culture_g_justification: "Guitariste très célèbre, relié au rock latino, à Woodstock, aux Grammy Awards et à des tubes comme Smooth."
 ---
-
-
 ![Image de Carlos Santana](https://upload.wikimedia.org/wikipedia/commons/9/93/Carlos_Santana_2.jpg)
 
 ###### Questions

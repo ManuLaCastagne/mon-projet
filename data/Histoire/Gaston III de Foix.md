@@ -20,11 +20,9 @@ indice_6 :
   - Le Bon
 questions:
  - Au XIVe, quel comte de Foix devait son surnom de Phoebus à sa chevelure blonde évoquant le dieu solaire de l'Antiquité ?
+culture_g_score: 47
+culture_g_justification: "Seigneur médiéval connu des amateurs pour Gaston Fébus, ses châteaux et son Livre de la chasse, mais peu fréquent en quiz généraliste."
 ---
-
-
-
-
 ![Image de Gaston III de Foix](https://upload.wikimedia.org/wikipedia/commons/7/72/Gaston_III_de_Foix-B%C3%A9arn.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - statue dorée de la Vierge Marie
 questions:
  - Quelle basilique, consacrée en 1864 et souvent surnommée la Bonne Mère...
+culture_g_score: 68
+culture_g_justification: "La Bonne Mère est un symbole majeur de Marseille, utile en géographie, religion et architecture, avec une portée internationale limitée."
 ---
-
 ![Image de Notre-Dame-de-la-Garde](https://upload.wikimedia.org/wikipedia/commons/3/3c/La_chapelle_Notre-Dame-de-la-Garde_et_les_falaises_d%27Etretat.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Sun Studio
 questions:
  - Dans quelle vaste propriété d'Elvis Presley, située...
+culture_g_score: 80
+culture_g_justification: "Résidence emblématique d’Elvis et titre d’un album célèbre de Paul Simon, Graceland permet des questions musicales, historiques et patrimoniales variées."
 ---
-
 ![Image de Graceland](https://upload.wikimedia.org/wikipedia/commons/8/84/Graceland_front.jpg)
 
 ###### Questions

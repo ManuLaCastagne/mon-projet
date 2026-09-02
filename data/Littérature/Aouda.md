@@ -22,8 +22,9 @@ indice_6:
   - mariage au dernier chapitre
 questions:
   - Aux Indes, de quel jeune veuve d'un maharaja Phileas tombe-t-il amoureux ?
+culture_g_score: 44
+culture_g_justification: "Personnage identifiable d’un grand roman de Jules Verne, mais offrant peu d’angles indépendants au-delà de l’œuvre."
 ---
-
 ![Image de Aouda](https://upload.wikimedia.org/wikipedia/commons/c/ca/%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_33.jpg)
 
 ###### Questions

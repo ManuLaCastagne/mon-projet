@@ -20,8 +20,9 @@ indice_6 :
   - Ossements humains
 questions:
  - Dans quelle série américaine l'agent du FBI Seeley Booth travaille-t-il avec la docteure et anthropologue Temperance Brennan?
+culture_g_score: 60
+culture_g_justification: "Série policière américaine durable et connue, principalement interrogée sur Brennan, Booth, l’anthropologie judiciaire et ses acteurs."
 ---
-
 ![Image de Bones (série)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Bones_cast.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - cerf-volant
 questions:
  - En 1934, dans quel roman de Pamela Lyndon Traverse adapté 30 ans plus tard au cinéma des enfants ont-ils une gouvernante un peu sorcière ?
+culture_g_score: 93
+culture_g_justification: "Personnage mondialement célèbre de la littérature jeunesse, également relié au cinéma, aux chansons, à Londres et à la culture populaire."
 ---
-
 ![Image de Mary Poppins](https://upload.wikimedia.org/wikipedia/commons/8/8a/Personnage_Disney_-_Mary_Poppins_-_20150803_16h50_%2810868%29.jpg)
 
 ###### Questions

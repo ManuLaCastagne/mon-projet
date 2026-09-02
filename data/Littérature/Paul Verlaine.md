@@ -22,8 +22,9 @@ indice_6 :
   - Poèmes saturniens
 questions:
  - En 1881, dans un texte débutant par "Le ciel est par-dessus le toit", quel poète regarde le ciel "si bleu, si calme"?
+culture_g_score: 88
+culture_g_justification: "Poète incontournable de la littérature française, dont l’œuvre, le symbolisme et la relation avec Rimbaud fournissent de nombreux repères."
 ---
-
 ![Image de Paul Verlaine](https://upload.wikimedia.org/wikipedia/commons/5/5e/Paris_20130811_-_Paul_Verlaine_by_Auguste_de_Niederhausern.jpg)
 
 ###### Questions

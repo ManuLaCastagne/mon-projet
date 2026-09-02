@@ -18,8 +18,9 @@ indice_5 :
   - accusation de détournement de fonds
 indice_6 : 
   - arrestation par D'Artagnan
+culture_g_score: 80
+culture_g_justification: "Personnage classique du règne de Louis XIV, relié à Vaux-le-Vicomte, à la fiscalité, à d’Artagnan et à la disgrâce royale."
 ---
-
 ![Image de Nicolas Fouquet](https://upload.wikimedia.org/wikipedia/commons/4/46/Nicolas_Fouquet_Vaux.jpg)
 
 ###### Questions

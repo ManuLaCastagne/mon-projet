@@ -18,6 +18,8 @@ indice_5:
   - Mélange d'action et d'humour
 indice_6:
   - Chapeaux et art du combat
+culture_g_score: 80
+culture_g_justification: "Série britannique culte, riche en questions sur ses personnages, ses interprètes, ses remakes et l’histoire de la télévision."
 ---
 ![[Pasted image 20260131105947.png]]
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Travail de neuropsychiatre
 questions:
  - En 2019, pour 3 points, quel neuropsychiatre évoque l'enfance d'écrivains dans l'ouvrage "La nuit, j'écrirai des soleils", en se fondant sur le concept de résilience qu'il a popularisé?
+culture_g_score: 52
+culture_g_justification: "Cyrulnik est une référence francophone de la résilience, mais sa présence reste surtout liée à la psychologie et aux médias."
 ---
-
 ![Image de Boris Cyrulnik](https://upload.wikimedia.org/wikipedia/commons/c/ce/Boris_Cyrulnik_-_2011-11-01_-_cropped.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Posthume
 questions:
  - A quel écrivain suédois, disparu en 2004, doit-on...
+culture_g_score: 73
+culture_g_justification: "Auteur de Millénium, incontournable pour le thriller nordique, ses personnages et son parcours journalistique."
 ---
-
 ![Image de Stieg Larsson](https://upload.wikimedia.org/wikipedia/commons/1/14/LL-Q9027_%28swe%29-Moonhouse-Stieg_Larsson.wav)
 
 ###### Questions

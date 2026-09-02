@@ -19,8 +19,9 @@ indice_5:
   - sport d'hiver
 indice_6:
   - luge
+culture_g_score: 56
+culture_g_justification: "Édition identifiable des Jeux olympiques d’hiver, Innsbruck 1964 offre surtout des questions factuelles et limitées."
 ---
-
 ![Image de Innsbruck 1964](https://upload.wikimedia.org/wikipedia/commons/8/8f/1964_Winter_Olympics_logo.svg)
 
 ###### Questions

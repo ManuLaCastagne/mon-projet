@@ -22,8 +22,9 @@ indice_6 :
   - œuvres littéraires
 questions:
  - Collection de référence des Presses universitaires de France dont le logo est une boussole stylisée.
+culture_g_score: 88
+culture_g_justification: "Collection encyclopédique emblématique permettant de nombreuses questions sur les PUF, les auteurs, les disciplines et la vulgarisation."
 ---
-
 ![Image de Que sais-je](https://upload.wikimedia.org/wikipedia/commons/f/f6/Exemplaires_de_que_sais-je.jpg)
 
 ###### Questions

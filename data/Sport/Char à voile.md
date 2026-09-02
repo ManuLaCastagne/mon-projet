@@ -19,8 +19,9 @@ indice_5:
   - Buggy
 indice_6:
   - Régates
+culture_g_score: 40
+culture_g_justification: "Sport identifiable mais relativement marginal, donnant surtout lieu à des questions de définition ou de records."
 ---
-
 ![Image de Char à voile](https://upload.wikimedia.org/wikipedia/commons/4/4b/Quend-Plage%2C_Somme%2C_Fr%2C_char_%C3%A0_voile%2C_enfilade.jpg)
 
 ###### Questions

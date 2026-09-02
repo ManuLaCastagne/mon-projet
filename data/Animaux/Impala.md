@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de grâce
 questions:
  - Considéré comme appartenant à la famille des antilopes.  Animal pouvant atteindre 90 cm au garrot, je suis reconnaissable à mes touffes de poils noirs sur les talons et mon mâle porte des cornes en forme de lyre...
+culture_g_score: 40
+culture_g_justification: "Antilope connue surtout pour ses bonds et son lien automobile, mais peu fréquente comme sujet zoologique autonome."
 ---
-
 ![Image de Impala](https://upload.wikimedia.org/wikipedia/commons/a/a1/Aepyceros_melampus_petersi_female_8014.jpg)
 
 ###### Questions

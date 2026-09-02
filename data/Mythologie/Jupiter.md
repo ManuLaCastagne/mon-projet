@@ -18,10 +18,9 @@ indice_6 :
   - équivalent de Zeus
 questions:
  - Quelle divinité grecque, fils de Cronos et de Rhéa, est le père d'Apollon?
+culture_g_score: 80
+culture_g_justification: "Jupiter est le principal dieu romain et l’équivalent de Zeus, ce qui le rend fréquent dans les questions de mythologie et de religion antique."
 ---
-
-
-
 ![Image de Jupiter](https://upload.wikimedia.org/wikipedia/commons/7/75/Portrait_of_Jupiter_from_Cassini.jpg)
 
 ###### Questions

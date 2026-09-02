@@ -20,11 +20,9 @@ indice_6 :
   - banquier et fonctionnaire international
 questions:
  - Personnalité née en 1888 à Cognac. Figure du monde politique et économique, j'ai été Secrétaire général adjoint de la SDN de 1919 à 1923. Ayant servi la Grande-Bretagne comme diplomate lors de la Seconde Guerre mondiale. A la Libération…
+culture_g_score: 88
+culture_g_justification: "Père fondateur de la construction européenne, il ouvre sur la CECA, l’après-guerre, l’intégration européenne et la diplomatie économique."
 ---
-
-
-
-
 ![Image de Jean Monnet](https://upload.wikimedia.org/wikipedia/commons/f/f5/Jean_Monnet.jpg)
 
 ###### Questions

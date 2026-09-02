@@ -20,13 +20,9 @@ indice_5:
   - Le Guerrier solitaire
 indice_6:
   - Innan Frosten
+culture_g_score: 60
+culture_g_justification: "Auteur policier reconnu grâce à Kurt Wallander, mais essentiellement exploitable dans les questions sur le roman noir scandinave."
 ---
-
-
-
-
-
-
 ![Image de Henning Mankell](https://upload.wikimedia.org/wikipedia/commons/d/df/Henning_Mankell_3_2011_Shankbone.jpg)
 
 ###### Questions

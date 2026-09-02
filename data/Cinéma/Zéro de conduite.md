@@ -22,9 +22,9 @@ indice_6 :
   - pensionnat
 questions:
  - Radicale de toute autorité par la jeunesse. Moyen métrage de Jean Vigo mettant en scène des adolescents se rebellant contre les responsables d'un collège provincial.
+culture_g_score: 64
+culture_g_justification: "Œuvre importante de Jean Vigo et du cinéma français, régulièrement citée pour sa censure, sa rébellion et son influence sur la Nouvelle Vague."
 ---
-
-
 ![Image de Zéro de conduite](https://upload.wikimedia.org/wikipedia/commons/4/4f/Recueil._%22Z%C3%A9ro_de_conduite%22_film_de_Jean_Vigo_-_btv1b10520768c_%2824_of_28%29.jpg)
 
 ###### Questions

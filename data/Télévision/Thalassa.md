@@ -20,8 +20,9 @@ indice_6 :
   - exploration marine
 questions:
  - Depuis novembre 2020,  quel magazine de la mer, créé par Georges Pernoud, est présenté par Sabine Quindou ?
+culture_g_score: 80
+culture_g_justification: "Magazine français emblématique consacré à la mer, remarquable par sa longévité et régulièrement présent dans les questions sur la télévision."
 ---
-
 ![Image de Thalassa](https://upload.wikimedia.org/wikipedia/commons/a/a8/Thalassa_%28G%C3%B6ttin%29.jpg)
 
 ###### Questions

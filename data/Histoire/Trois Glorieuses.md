@@ -18,12 +18,9 @@ indice_5:
   - Révolution de Juillet
 indice_6:
   - Monarchie de Juillet
+culture_g_score: 64
+culture_g_justification: "Épisode classique de la Révolution de 1830, utile pour relier Charles X, Louis-Philippe et la monarchie de Juillet, mais aux angles limités."
 ---
-
-
-
-
-
 ![Image de Trois Glorieuses](https://upload.wikimedia.org/wikipedia/commons/b/bf/R%C3%A9volution_de_1830_-_Combat_de_la_rue_de_Rohan_-_29.07.1830.jpg)
 
 ###### Questions

@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Japon
+culture_g_score: 73
+culture_g_justification: "Spécialité japonaise très connue et fréquemment interrogée, avec des repères simples sur les brochettes et le poulet."
 ---
 ###### Questions 
 

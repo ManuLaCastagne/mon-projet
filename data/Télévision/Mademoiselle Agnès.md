@@ -18,9 +18,9 @@ indice_5 :
   - Fashion Week
 indice_6 : 
   - France
+culture_g_score: 44
+culture_g_justification: "Personnalité reconnue dans le journalisme de mode et les Guignols, mais trop spécialisée pour une priorité élevée."
 ---
-
-
 ![Image de Mademoiselle Agnès](https://upload.wikimedia.org/wikipedia/commons/6/66/Mademoiselle_Agn%C3%A8s_D%C3%AEner_C%C3%A9sars_2018.jpg)
 
 ###### Questions

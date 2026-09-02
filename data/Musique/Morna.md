@@ -22,8 +22,9 @@ indice_6:
   - saudade
 questions:
   - Quel genre musical cap-verdien, représenté par Cesaria Evora qu'on vient d'écouter, est inscrit depuis 2019 par l'Unesco…
+culture_g_score: 52
+culture_g_justification: "Genre cap-verdien utile pour l’UNESCO, Cesária Évora et la géographie culturelle, mais peu fréquent comme sujet autonome."
 ---
-
 ![Image de La Morna](https://upload.wikimedia.org/wikipedia/commons/c/cc/1932_Rallye_Automobile_Monte_Carlo_-_Morna_Vaughan.jpg)
 
 ###### Questions

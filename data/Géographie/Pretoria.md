@@ -22,9 +22,9 @@ indice_5 :
   - Union des républiques d'Afrique australe
 indice_6 : 
   - Jacarandas
+culture_g_score: 68
+culture_g_justification: "Capitale administrative sud-africaine importante pour la géographie et l’histoire du pays, mais moins centrale que l’Afrique du Sud elle-même."
 ---
-
-
 ![Image de Pretoria](https://upload.wikimedia.org/wikipedia/commons/b/b0/Montage_of_Pretoria.jpg)
 
 ![[Carte_Pretoria.png]]

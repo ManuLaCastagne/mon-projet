@@ -22,8 +22,9 @@ indice_6 :
   - récit d'un anti-héros irlandais au XVIIIe siècle
 questions:
  - Film d'époque dont certaines scènes, uniquement éclairées à la bougie, ont nécessité l'utilisation d'objectifs spéciaux, mon action se déroule au XVIIIe siècle durant la guerre de Sept Ans.  Drame avec Marisa Berenson réalisé par Stanley Kubrick...
+culture_g_score: 80
+culture_g_justification: "Classique majeur de Kubrick, fréquemment associé à la photographie, aux Oscars, à Thackeray et aux innovations de tournage."
 ---
-
 ![Image de Barry Lyndon](https://upload.wikimedia.org/wikipedia/commons/f/fa/Kubrick_on_the_set_of_Barry_Lyndon_%281975_publicity_photo%29_crop.jpg)
 
 ###### Questions

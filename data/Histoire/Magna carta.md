@@ -22,8 +22,9 @@ indice_6 :
   - charte médiévale
 questions:
  - De barons rebelles soucieux de limiter l'arbitraire royal, j'ai notamment inspiré la Constitution des Etats-Unis de 1787 et la Déclaration universelle des droits de l'homme de 1948.
+culture_g_score: 84
+culture_g_justification: "Texte fondateur de l’histoire politique et juridique occidentale, régulièrement mobilisé autour des libertés et des constitutions."
 ---
-
 ![Image de Magna carta](https://upload.wikimedia.org/wikipedia/commons/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - chambres législatives
 questions:
  - Quelle institution siège à Strasbourg dans un bâtiment dont la forme s'adapte à la courbe du canal de la Marne au Rhin ?
+culture_g_score: 72
+culture_g_justification: "Notion architecturale et politique vaste, permettant des questions sur de nombreux édifices parlementaires célèbres."
 ---
-
 ![Image de Parlement](https://upload.wikimedia.org/wikipedia/commons/f/f4/Parlement_d%27Aix.svg)
 
 ###### Questions

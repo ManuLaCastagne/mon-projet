@@ -22,8 +22,9 @@ indice_6 :
   - paroles sur la joie d'accueillir un enfant
 questions:
  - Chanson de 76 célébrant l'amour d'un père pour son enfant, je figure sur un disque du label Tamla qui, en 2020, a été classé à la 4e place des 500 meilleurs albums par le magazine "Rolling Stone". Tube de Stevie Wonder débutant par les cris d'un bébé...
+culture_g_score: 61
+culture_g_justification: "Grand classique de Stevie Wonder, identifiable par sa mélodie, son album et l'hommage à sa fille, mais à angles limités."
 ---
-
 ![Image de Isn't She Lovely](https://upload.wikimedia.org/wikipedia/commons/d/db/Dianthus_%27Adorables_-_Tess%27_-_2018-10-18_-_Andy_Mabbett.jpg)
 
 ###### Questions

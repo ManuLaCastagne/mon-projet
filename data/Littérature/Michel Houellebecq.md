@@ -22,8 +22,9 @@ indice_6 :
   - Soumission
 questions:
  - Quel écrivain français, prix Goncourt en 2010, évoque "Questions pour un champion" dans son livre "Plateforme"?
+culture_g_score: 64
+culture_g_justification: "Écrivain français contemporain très médiatisé, régulièrement interrogé pour ses romans, ses polémiques et le prix Goncourt, mais moins incontournable que les grands classiques."
 ---
-
 ![Image de Michel Houellebecq](https://upload.wikimedia.org/wikipedia/commons/8/84/Michel_Houellebecq_no_Fronteiras_do_Pensamento_Porto_Alegre_2016_%2830895029365%29_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Fédération internationale d'athlétisme
 questions:
  - Epreuve d'athlétisme dont la Polonaise Anita Wlodarczyk a battu le record du monde à 7 reprises...
+culture_g_score: 60
+culture_g_justification: "Discipline olympique identifiable par ses champions et ses records, mais moins fréquente que les grandes épreuves d’athlétisme."
 ---
-
 ![Image de Lancer de marteau](https://upload.wikimedia.org/wikipedia/commons/e/e0/Anvers%2C_Patrick_Ryan_%28lancer_de_marteau_en_ao%C3%BBt_1920_aux_Jeux_Olympiques%29_-_btv1b53055159z.jpg)
 
 ###### Questions

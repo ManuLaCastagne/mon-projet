@@ -22,9 +22,9 @@ indice_6:
   - généalogie complexe
 questions:
   - En 1967, dans quel roman de Gabrielle Garcia Marquez dans un village imaginaire de Colombie la famille Buendia…
+culture_g_score: 84
+culture_g_justification: "Chef-d’œuvre mondial du réalisme magique, fréquemment associé à García Márquez, à la littérature latino-américaine et au prix Nobel."
 ---
-
-
 ![Image de Cent Ans de solitude](https://upload.wikimedia.org/wikipedia/commons/1/14/Grandville_-_Cent_Proverbes%2C_1845.djvu)
 
 ###### Questions

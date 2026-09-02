@@ -20,8 +20,9 @@ indice_5 :
   - Vieux Tbilissi
 indice_6 : 
   - Funiculaire
+culture_g_score: 60
+culture_g_justification: "Capitale du Caucase utile pour la géographie, l'histoire soviétique, la Géorgie et les échanges entre Europe et Asie."
 ---
-
 ![Image de Tbilissi](https://upload.wikimedia.org/wikipedia/commons/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg)
 
 ![[Carte_Tbilissi.png]]

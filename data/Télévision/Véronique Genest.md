@@ -18,8 +18,9 @@ indice_5 :
   - série télévisée
 indice_6 : 
   - années 1990
+culture_g_score: 64
+culture_g_justification: "Actrice fortement associée à la longue série Julie Lescaut, ce qui la rend régulièrement exploitable dans les quiz de télévision française."
 ---
-
 ![Image de Véronique Genest](https://upload.wikimedia.org/wikipedia/commons/3/3f/Portrait_de_V%C3%A9ronique_Genest_2010.JPG)
 
 ###### Questions

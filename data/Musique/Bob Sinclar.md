@@ -22,8 +22,9 @@ indice_6 :
   - Rock This Party
 questions:
  - M'installant aux platines pour des clubs et des fêtes, notamment à Ibiza, j'ai rencontré le succès avec des titres tels que "Love generation" et "Rock this party"...
+culture_g_score: 56
+culture_g_justification: "DJ français connu internationalement pour quelques tubes house et remixes, mais d’importance culturelle générale limitée."
 ---
-
 ![Image de Bob Sinclar](https://upload.wikimedia.org/wikipedia/commons/1/18/Bob_Sinclar_2011.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Emblème du Kenya
 questions:
  - Quel grand rapace des savanes africaines, également appelé secrétaire, se nourrit surtout de serpents qu'il piétine avec ses pattes?
+culture_g_score: 52
+culture_g_justification: "Rapace africain très distinctif, intéressant pour la zoologie, la mythologie et la constellation homonyme, mais pas fréquent."
 ---
-
 ![Image de Serpentaire](https://upload.wikimedia.org/wikipedia/commons/a/af/Plaque_Place_Serpentaire_-_Rungis_%28FR94%29_-_2022-05-30_-_2.jpg)
 
 ###### Questions

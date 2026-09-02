@@ -23,8 +23,9 @@ indice_6 :
   - robe de la couleur du temps
 questions:
  - Dans quel conte de Perrault  une princesse glisse-t-elle une bague dans un gâteau qu'elle a préparé pour charmer un prince ?
+culture_g_score: 64
+culture_g_justification: "Conte classique de Perrault renforcé par le film de Jacques Demy, mais offrant moins d’angles que les contes les plus universels."
 ---
-
 ![Image de Peau d'âne](https://upload.wikimedia.org/wikipedia/commons/e/eb/Peau_d%27%C3%A2ne.jpg)
 
 ###### Questions

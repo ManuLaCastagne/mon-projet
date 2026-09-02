@@ -22,8 +22,9 @@ indice_6 :
   - Lowood
 questions:
  - En 1847, dans quel roman de Charlotte Brontë, publié sous le pseudonyme de Currer Bell une orpheline est-elle élevée par sa tante, Mrs Reed?
+culture_g_score: 88
+culture_g_justification: "Roman mondialement célèbre de Charlotte Brontë, Jane Eyre se prête à des questions littéraires, biographiques, thématiques et cinématographiques."
 ---
-
 ![Image de Jane Eyre](https://upload.wikimedia.org/wikipedia/commons/9/9b/Jane_Eyre_title_page.jpg)
 
 ###### Questions

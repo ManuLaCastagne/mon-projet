@@ -18,11 +18,9 @@ indice_5:
   - musée dans le 16e arrondissement
 indice_6:
   - a voyagé en Asie
+culture_g_score: 43
+culture_g_justification: "Fondateur du musée Guimet, Émile Guimet est utile pour l'histoire des collections et de l'art asiatique mais demeure spécialisé."
 ---
-
-
-
-
 ![Image de Emile Guimet ](https://upload.wikimedia.org/wikipedia/commons/c/c8/%C3%89mile_Guimet_1910.jpg)
 
 ###### Questions

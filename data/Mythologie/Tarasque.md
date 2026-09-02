@@ -18,9 +18,9 @@ indice_6 :
   - monstre apprivoisé
 questions:
  - onstre devenu l'emblème de la ville de Tarascon, j'ai été terrassée par sainte Marthe, ou la "bête faramine".
+culture_g_score: 60
+culture_g_justification: "La Tarasque est un emblème folklorique français associé à sainte Marthe et à Tarascon, mais sa portée reste principalement régionale et légendaire."
 ---
-
-
 ![Image de Tarasque](https://upload.wikimedia.org/wikipedia/commons/3/39/Tarasque_in_Tarascon_02.jpg)
 
 ###### Questions

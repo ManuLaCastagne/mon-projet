@@ -22,8 +22,9 @@ indice_6 :
   - 1969
 questions:
  - En 1969, dans quel film Alain Delon et Romy Schneider sont tous 2 en maillot de bain ?
+culture_g_score: 72
+culture_g_justification: "Film culte du cinéma français associé à Delon, Schneider, Deray et Saint-Tropez, régulièrement cité mais assez centré sur quelques repères."
 ---
-
 ![Image de La Piscine](https://upload.wikimedia.org/wikipedia/commons/4/4e/Girl_with_swimming_board.jpg)
 
 ###### Questions

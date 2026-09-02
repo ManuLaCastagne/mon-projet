@@ -17,8 +17,9 @@ indice_5:
   - Grand Condé
 indice_6:
   - siècle des Lumières
+culture_g_score: 59
+culture_g_justification: "Grand chef militaire français associé à Rocroi et à la Fronde, mais dont les occurrences restent surtout liées à quelques épisodes du XVIIe siècle."
 ---
-
 ![Image de Prince de Condé](https://upload.wikimedia.org/wikipedia/commons/8/8b/Entry_Mus%C3%A9e_Cond%C3%A9_Chantilly.jpg)
 
 ###### Questions

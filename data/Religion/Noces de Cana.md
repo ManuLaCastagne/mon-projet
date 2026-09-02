@@ -18,8 +18,9 @@ indice_5 :
   - Miracle
 indice_6 : 
   - Cana
+culture_g_score: 64
+culture_g_justification: "Épisode évangélique célèbre du premier miracle de Jésus, régulièrement utilisé en religion, en histoire de l'art et en iconographie."
 ---
-
 ![Image de Noces de Cana](https://upload.wikimedia.org/wikipedia/commons/9/95/%28Castres%29_Les_Noces_de_Cana_-_Ecole_espagnole_du_XVIIe_-_Mus%C3%A9e_Goya.jpg)
 
 ###### Questions

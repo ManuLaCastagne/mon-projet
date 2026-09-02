@@ -22,8 +22,9 @@ indice_6 :
   - Née en 1938
 questions:
  - Ecrivaine américaine auteur  des romans "Blonde" et "Les Mystères de Winterthurn".
+culture_g_score: 55
+culture_g_justification: "Écrivaine américaine très prolifique et reconnue, mais rarement prioritaire dans les quiz francophones généralistes."
 ---
-
 ![Image de Joyce Carol Oates](https://upload.wikimedia.org/wikipedia/commons/d/dd/Joyce_Carol_Oates%2C_Bokm%C3%A4ssan_2024%2C_P1270511.jpg)
 
 ###### Questions

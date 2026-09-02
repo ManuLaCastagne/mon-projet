@@ -20,9 +20,9 @@ indice_6 :
   - Rallye Dakar
 questions:
  - J'ai obtenu mon 1er titre mondial WRC en 2004 et dominé dès lors les rallyes, aussi bien sur asphalte que sur terre. Pilote alsacien, ayant réussi l'exploit de décrocher, entre 2004 et 2012, neuf titres consécutifs de champion du monde des rallyes.
+culture_g_score: 80
+culture_g_justification: "Recordman exceptionnel du rallye, régulièrement interrogé avec des entrées sur le WRC, le Dakar et les grandes courses automobiles."
 ---
-
-
 ![Image de Sébastien Loeb](https://upload.wikimedia.org/wikipedia/commons/1/15/2012_10_05_Rallye_France%2C_Parc_assistance_Colmar%2C_voitures_de_Mikko_Hirvonen_et_S%C3%A9bastien_Loeb.JPG)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de résistance et adaptabilité côtière
 questions:
  - Quel mollusque, doté d'une coquille conique, fermée grâce à un opercule, est appelé escargot de mer, vignot ou brelin selon les régions ?
+culture_g_score: 28
+culture_g_justification: "Mollusque courant sur les côtes et dans la cuisine régionale, mais très peu rentable hors de ces contextes."
 ---
-
 ![Image de Bigorneau](https://upload.wikimedia.org/wikipedia/commons/5/5d/Littorina_littorea_02.JPG)
 
 ###### Questions

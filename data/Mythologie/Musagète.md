@@ -18,9 +18,9 @@ indice_6 :
   - poésie
 questions:
  - Dans la [[mythologie grecque]], par quelle épithète le dieu Apollon a-t-il été qualifié par référence au fait qu'il précédait le cortège des Muses?
+culture_g_score: 24
+culture_g_justification: "Musagète est une épithète spécialisée d’Apollon, susceptible de produire une question lexicale mais peu rentable pour un généraliste."
 ---
-
-
 ![Image de Musagète](https://upload.wikimedia.org/wikipedia/commons/6/65/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%AD%D0%B9%D1%84%D0%BC%D0%B0%D0%BD._Boris_Eifman.jpg)
 
 ###### Questions

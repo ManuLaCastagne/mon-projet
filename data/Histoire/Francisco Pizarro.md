@@ -18,8 +18,9 @@ indice_5 :
   - fondation de Lima
 indice_6 : 
   - rivalité avec Diego de Almagro
+culture_g_score: 77
+culture_g_justification: "Conquistador associé à la chute de l’Empire inca, à Atahualpa et à la colonisation espagnole de l’Amérique du Sud."
 ---
-
 ![Image de Francisco Pizarro](https://upload.wikimedia.org/wikipedia/commons/e/ed/Portrait_of_Francisco_Pizarro_%28cropped%29.png)
 
 ###### Questions

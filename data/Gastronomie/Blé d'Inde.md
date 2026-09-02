@@ -1,3 +1,8 @@
+---
+culture_g_score: 24
+culture_g_justification: "Québécisme désignant le maïs, intéressant sur le plan linguistique mais très peu rentable en culture générale."
+---
+
 
 ###### Questions 
 

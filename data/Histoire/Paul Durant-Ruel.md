@@ -20,8 +20,9 @@ indice_6 :
   - soutien des artistes
 questions:
  - Quel grand marchand d'art né en 1831 fut le découvreur des impressionnistes et est considéré comme l'inventeur du marché de l'art moderne?
+culture_g_score: 48
+culture_g_justification: "Galeriste essentiel à la reconnaissance de l’impressionnisme, mais son nom reste spécialisé malgré des liens utiles avec l’histoire de l’art."
 ---
-
 ![Image de Paul Durant-Ruel](https://upload.wikimedia.org/wikipedia/commons/3/37/Claude_Monet_-_Springtime_-_Walters_3711.jpg)
 
 ###### Questions

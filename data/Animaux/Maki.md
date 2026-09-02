@@ -13,9 +13,9 @@ indice_5:
   - Maki catta ou lémur catta
 indice_6:
   - Animal emblématique de Madagascar
+culture_g_score: 64
+culture_g_justification: "Lémurien emblématique de Madagascar, exploitable en zoologie, géographie et culture populaire, sans être un incontournable absolu."
 ---
-
-
 ![Image de Maki](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Le_mococo.jpg/800px-Le_mococo.jpg)
 
 ###### Questions

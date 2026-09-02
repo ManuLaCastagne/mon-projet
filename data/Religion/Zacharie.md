@@ -20,8 +20,9 @@ indice_6 :
   - Visions apocalyptiques
 questions:
  - Dans la tradition chrétienne, à quel prêtre l'Ange Gabriel annonce-t-il la naissance de son fils Saint-Jean-Baptiste ?
+culture_g_score: 60
+culture_g_justification: "Le nom renvoie à deux figures bibliques et permet quelques questions sur les prophètes et Jean-Baptiste, sans forte transversalité."
 ---
-
 ![Image de Zacharie](https://upload.wikimedia.org/wikipedia/commons/a/a0/Zacharie_Vincent_and_his_son_Cyprien_by_Zacharie_Vincent_1852-1853.tif)
 
 ###### Questions

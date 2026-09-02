@@ -24,8 +24,9 @@ indice_6 :
   - parc naturel régional d'Armorique
 questions:
  - A quelle île du Finistère, rattachée au parc naturel d'Armorique, associe-t-on la ville de Lampaul et le phare du Créac'h?
+culture_g_score: 56
+culture_g_justification: "Île française identifiable par son extrême-ouest, ses phares, le parc marin d’Iroise et le mouton d’Ouessant."
 ---
-
 ![Image de Ouessant](https://upload.wikimedia.org/wikipedia/commons/3/37/Map_of_Ouessant-Br.svg)
 
 ![[Carte_Ouessant.png]]

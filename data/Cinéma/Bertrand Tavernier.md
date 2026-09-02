@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Président de l'institut Louis-Lumière de Lyon, j'ai été récompensé par 4 Cinéma/César durant ma carrière, dont 2 du meilleur réalisateur en 1976 pour "Que la fête commence..." et en 97 pour "Capitaine Conan". Réalisateur de "Coup de torchon", disparu en mars…
  - En 1984, réalisateur donnant à S. Azéma le rôle d'une femme libre...
+culture_g_score: 67
+culture_g_justification: "Réalisateur français majeur et historien du cinéma, utile via plusieurs films, Cannes, les César et la culture cinéphile."
 ---
-
 ![Image de Bertrand Tavernier](https://upload.wikimedia.org/wikipedia/commons/a/ab/Bertrand_Tavernier_Deauville_2017.jpg)
 
 ###### Questions

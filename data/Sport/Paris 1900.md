@@ -17,8 +17,9 @@ indice_5:
   - Art Nouveau
 indice_6:
   - première pierre du Petit Palais
+culture_g_score: 80
+culture_g_justification: "Année particulièrement rentable grâce au croisement entre Jeux olympiques, Exposition universelle, Belle Époque et débuts du métro parisien."
 ---
-
 ![Image de Paris 1900](https://upload.wikimedia.org/wikipedia/commons/0/09/JOParis_1900.jpg)
 
 ###### Questions

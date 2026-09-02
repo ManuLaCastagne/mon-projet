@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de puissance
 questions:
  - Mammifère carnivore, je suis qualifié de concolor dans mon nom scientifique.  Animal puissant pouvant atteindre 2 m de long avec la queue...
+culture_g_score: 68
+culture_g_justification: "Félin américain bien connu, permettant des questions sur la géographie, les adaptations, les records et les appellations zoologiques."
 ---
-
 ![Image de Puma](https://upload.wikimedia.org/wikipedia/commons/8/82/Puma_%28Puma_concolor%29_-_20191228.jpg)
 
 ###### Questions

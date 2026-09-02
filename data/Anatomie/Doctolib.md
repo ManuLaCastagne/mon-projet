@@ -19,8 +19,9 @@ indice_5 :
   - notification de RDV par SMS et email
 indice_6 : 
   - gestion des calendriers pour les professionnels de santé
+culture_g_score: 64
+culture_g_justification: "Entreprise française très connue et exploitable en économie numérique, santé et innovation, mais encore relativement récente dans les quiz."
 ---
-
 ![Image de Doctolib](https://upload.wikimedia.org/wikipedia/commons/1/15/Doctolib_Logo.svg)
 
 ###### Questions

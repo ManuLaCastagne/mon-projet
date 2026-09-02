@@ -7,6 +7,8 @@ indice_4:
 indice_5: 
 indice_6: 
 questions:
+culture_g_score: 80
+culture_g_justification: "Colline majeure de la Rome antique, liée à Jupiter, aux sept collines, à Michel-Ange et au Capitole américain."
 ---
 ![[Carte_Capitole.png]]
 ###### Questions

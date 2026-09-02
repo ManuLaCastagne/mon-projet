@@ -25,8 +25,9 @@ indice_6 :
   - City of Light
 questions:
  - En Inde, quelle ville sainte de l'hindouisme est également appelée Varanasi ?
+culture_g_score: 80
+culture_g_justification: "Bénarès est une cité religieuse et historique majeure, associée au Gange, à l’hindouisme, aux pèlerinages et à la civilisation indienne."
 ---
-
 ![Image de Bénarès](https://upload.wikimedia.org/wikipedia/commons/3/3a/Varanasi_Munshi_Ghat3.jpg)
 
 ![[Carte_Bénarès.png]]

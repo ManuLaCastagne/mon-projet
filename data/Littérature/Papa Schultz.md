@@ -22,8 +22,9 @@ indice_6 :
   - Humour et satire de la Seconde Guerre mondiale
 questions:
  - Quelle série télé diffusée en France à partir de 87 mettant en scène le colonel Klink  est aussi connue sous le nom de "Stalag 13" ?
+culture_g_score: 44
+culture_g_justification: "Série télévisée identifiable par son contexte historique et comique, mais nettement moins incontournable que les grandes séries généralistes."
 ---
-
 ![Image de Papa Schultz](https://upload.wikimedia.org/wikipedia/commons/7/7e/Aryan_empire_flag.png)
 
 ###### Questions

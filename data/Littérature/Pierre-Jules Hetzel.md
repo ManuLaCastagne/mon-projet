@@ -22,8 +22,9 @@ indice_6 :
   - Littérature jeunesse du XIXème siècle
 questions:
  - Quel éditeur et écrivain français fit paraître "Le Tour du monde en 80 jours" en 1973 ?
+culture_g_score: 68
+culture_g_justification: "Éditeur important pour Victor Hugo et surtout Jules Verne, permettant des liens rentables entre littérature, édition et aventure."
 ---
-
 ![Image de Pierre-Jules Hetzel](https://upload.wikimedia.org/wikipedia/commons/1/1b/Pierre-Jules_Hetzel_by_Nadar.png)
 
 ###### Questions

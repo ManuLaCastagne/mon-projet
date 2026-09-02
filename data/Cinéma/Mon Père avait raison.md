@@ -22,8 +22,9 @@ indice_6 :
   - adaptation cinématographique
 questions:
  - En 2007, dans quelle célèbre pièce de Sacha Guitry, mise en scène par Bernard Murat, donne-t-il la réplique à son fils, Alexandre?
+culture_g_score: 31
+culture_g_justification: "Œuvre de Sacha Guitry intéressante pour le théâtre et le cinéma français, mais trop spécifique pour constituer une priorité d’apprentissage."
 ---
-
 ![Image de Mon Père avait raison](https://upload.wikimedia.org/wikipedia/commons/0/09/Les_ombres_chinoises_de_mon_p%C3%A8re_%28IA_lesombreschinois00eude%29.pdf)
 
 ###### Questions

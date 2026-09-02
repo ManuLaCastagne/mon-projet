@@ -19,8 +19,9 @@ indice_5 :
   - lance des défis souvent farfelus
 indice_6 : 
   - a popularisé le darkas
+culture_g_score: 73
+culture_g_justification: "Animateur très médiatisé associé à une émission quotidienne majeure, avec de nombreuses entrées par la télévision et la polémique médiatique."
 ---
-
 ![Image de Cyril Hanouna](https://upload.wikimedia.org/wikipedia/commons/b/b0/Cyril_Hanouna_2010.jpg)
 
 ###### Questions

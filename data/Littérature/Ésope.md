@@ -22,9 +22,9 @@ indice_6 :
   - Antiquité grecque
 questions:
  - Fabuliste grec, inspirateur  des "Fables" de La Fontaine, je suis…
+culture_g_score: 80
+culture_g_justification: "Figure fondatrice de la fable, directement associée à des récits célèbres et à l’influence exercée sur La Fontaine."
 ---
-
-
 ![Image de Ésope](https://upload.wikimedia.org/wikipedia/commons/6/63/Aesop_pushkin01.jpg)
 
 ###### Questions

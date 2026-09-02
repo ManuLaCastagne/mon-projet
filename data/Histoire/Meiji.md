@@ -20,8 +20,9 @@ indice_6 :
   - ouverture du Japon à l'Occident
 questions:
  - Quelle ère, dont le nom signifie époque éclairée et qui symbolise la fin de la politique d'isolement du Géographie/Japon, fut inaugurée…
+culture_g_score: 80
+culture_g_justification: "L’ère Meiji est un repère majeur pour comprendre la modernisation du Japon, son industrialisation et son ouverture au monde."
 ---
-
 ![Image de Meiji](https://upload.wikimedia.org/wikipedia/commons/2/2c/Emperor-Meiji-Empress-Shoken-Meiji-Shrine-c1926.png)
 
 ###### Questions

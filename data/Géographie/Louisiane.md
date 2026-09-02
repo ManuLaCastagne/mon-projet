@@ -24,8 +24,9 @@ indice_6 :
   - Jazz
 questions:
  - Connaissiez-vous le zydeco?  Maintenant, vous connaissez car ce qu'on vient d'entendre, c'est un artiste américain qui s'appelle Clifton Chenier. Il chante un air de zydeco, qui est une musique née de la fusion du blues, du rhythm and blues et du folklore cajun d'origine française. C'est ce qu'on vient d'entendre.  Voici la question  dans quel Etat du sud...
+culture_g_score: 80
+culture_g_justification: "État américain très rentable grâce à la Louisiane française, l’achat de 1803, La Nouvelle-Orléans, le Mississippi, les bayous et la culture créole."
 ---
-
 ![Image de Louisiane](https://upload.wikimedia.org/wikipedia/commons/1/14/Fontainebleau_State_Park%2C_Louisiana_2019_01.jpg)
 
 ![[Carte_Louisiane.png]]

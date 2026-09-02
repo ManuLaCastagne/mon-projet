@@ -20,8 +20,9 @@ indice_6 :
   - Loi d'Arrhenius
 questions:
  - Par quel terme, issu du grec signifiant mobile, désigne-t-on l'étude de la vitesse des réactions chimiques?
+culture_g_score: 63
+culture_g_justification: "La cinétique intervient en physique, chimie et théorie des gaz, mais ses usages quiz restent souvent techniques."
 ---
-
 ![Image de Cinétique](https://upload.wikimedia.org/wikipedia/commons/6/61/Cin%C3%A9tique_sch%C3%A9ma.svg)
 
 ###### Questions

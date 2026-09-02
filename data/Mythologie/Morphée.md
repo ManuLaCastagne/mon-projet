@@ -19,8 +19,9 @@ indice_6 :
   - Divinité allégorique
 questions:
  - Quel dieu  ailé de la [[mythologie grecque]] effleure les mortels de sa fleur de pavot  pour les endormir ?
+culture_g_score: 76
+culture_g_justification: "Morphée est très reconnaissable grâce au sommeil et aux rêves, avec une forte présence dans les expressions françaises et la culture populaire."
 ---
-
 ![Image de Morphée](https://upload.wikimedia.org/wikipedia/commons/4/44/Morph%C3%A9e_%E2%80%93_Jean-Antoine_Houdon_%E2%80%93_Mus%C3%A9e_du_Louvre%2C_RF_3993_%E2%80%93_Q19404664.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - humour tendre
 questions:
  - Ayant notamment pour acteurs les jeunes Charles Vaillant et Victor Carles, mon interprète principal Maxime Gaudet, incarne un petit garçon malicieux créé en 1959 par René Goscinny et Jacques Sempé. Film de Laurent Tirard dans lequel Kad Merad joue le rôle du père et Valérie Lemercier celui de la mère, je suis...
+culture_g_score: 80
+culture_g_justification: "Personnage central de la culture française, reliant Goscinny, Sempé, littérature jeunesse, animation et adaptations cinématographiques."
 ---
-
 ![Image de Le Petit Nicolas](https://upload.wikimedia.org/wikipedia/commons/3/3f/Quay_Conti%2C_Left_Bank%2C_Paris_2014.jpg)
 
 ###### Questions

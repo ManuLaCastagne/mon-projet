@@ -22,8 +22,9 @@ indice_6 :
   - Style narratif vibrant
 questions:
  - Cultivant une image de dandy, on me doit "Un Homme, un vrai" et "Moi, Charlotte Simons". Disparu en 2018, je suis…
+culture_g_score: 71
+culture_g_justification: "Journaliste et romancier important du Nouveau journalisme américain, reconnaissable par son costume blanc, ses concepts sociaux et son roman new-yorkais majeur."
 ---
-
 ![Image de Tom Wolfe](https://upload.wikimedia.org/wikipedia/commons/c/c8/Wolfe_at_White_House.jpg)
 
 ###### Questions

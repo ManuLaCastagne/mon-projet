@@ -19,8 +19,9 @@ indice_5 :
   - Algérie
 indice_6 : 
   - vidéos comiques
+culture_g_score: 24
+culture_g_justification: "Créateur de contenu contemporain dont la notoriété reste principalement générationnelle et liée aux réseaux sociaux."
 ---
-
 ![Image de Just Riadh]()
 
 ###### Questions

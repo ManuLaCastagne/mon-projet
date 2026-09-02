@@ -20,8 +20,9 @@ indice_5:
   - biographie romancée de personnages historiques
 indice_6:
   - humour noir et décalé
+culture_g_score: 60
+culture_g_justification: "Auteur populaire identifiable par Le Magasin des suicides, Le Montespan et ses romans historiques, mais moins central que les grands classiques."
 ---
-
 ![Image de Jean Teulé](https://upload.wikimedia.org/wikipedia/commons/3/33/Jean_Teul%C3%A9_-_Salon_du_livre_de_Paris_2010_2.jpg)
 
 ###### Questions

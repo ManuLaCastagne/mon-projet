@@ -20,8 +20,9 @@ indice_6 :
   - Antenne 2
 questions:
  - En 1982, quelle émission fait scandale le jour où Michel Polac reçoit notamment l'équipe de "Charlie Hebdo" au grand complet?
+culture_g_score: 80
+culture_g_justification: "Émission française culte associée à Michel Polac, aux débats télévisés et à une controverse majeure de l’histoire des médias."
 ---
-
 ![Image de Droit de réponse](https://upload.wikimedia.org/wikipedia/commons/0/0b/NA_droit_de_r%C3%A9ponse_1.pdf)
 
 ###### Questions

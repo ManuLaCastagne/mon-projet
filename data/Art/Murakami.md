@@ -23,8 +23,9 @@ indice_6 :
   - oeuvres pop
 questions:
  - A quel plasticien japonais…
+culture_g_score: 55
+culture_g_justification: "Takashi Murakami est une figure notable de l'art contemporain et de la mode, mais encore relativement peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Murakami](https://upload.wikimedia.org/wikipedia/commons/4/41/Murakami_from_Oshiroyama.jpg)
 
 ###### Questions

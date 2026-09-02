@@ -23,8 +23,9 @@ indice_6 :
   - mosaïques traditionnelles
 questions:
  - Quelle mosquée de Casablanca achevée en 1993 abrite la Galerie des Femmes ?
+culture_g_score: 77
+culture_g_justification: "La mosquée Hassan II est un monument marocain très classique des quiz, grâce à Casablanca, à son minaret et à sa construction sur l’océan."
 ---
-
 ![Image de Hassan II](https://upload.wikimedia.org/wikipedia/commons/7/7a/Hassan_II_%281983%29.jpg)
 
 ###### Questions

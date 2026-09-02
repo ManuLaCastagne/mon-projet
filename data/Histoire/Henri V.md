@@ -18,8 +18,9 @@ indice_5 :
   - roi de 1413 à 1422
 indice_6 : 
   - traité de Troyes
+culture_g_score: 80
+culture_g_justification: "Roi anglais associé à Azincourt, au traité de Troyes et à la guerre de Cent Ans, avec plusieurs repères historiques et littéraires rentables."
 ---
-
 ![Image de Henri V](https://upload.wikimedia.org/wikipedia/commons/7/7f/Henri_V_comte_de_Chambord.jpg)
 
 ###### Questions

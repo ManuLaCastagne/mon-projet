@@ -20,11 +20,9 @@ indice_6 :
   - grosse cagnotte
 questions:
  - En septembre 1933, quel jeu est mis en place par l'Etat français?
+culture_g_score: 73
+culture_g_justification: "Jeu profondément ancré dans la culture populaire française, avec des repères historiques et institutionnels rentables."
 ---
-
-
-
-
 ![Image de Loto](https://upload.wikimedia.org/wikipedia/commons/f/f0/Lockout_tagout_hasp.svg)
 
 ###### Questions

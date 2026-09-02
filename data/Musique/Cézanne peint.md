@@ -18,8 +18,9 @@ indice_5:
 indice_6: 
 questions:
   - Chanson de 84, je finis par des coups de tonnerre faisant allusion à l'orage au cours duquel la personnalité que j'évoque contracta une pneumonie fatale.
+culture_g_score: 40
+culture_g_justification: "Chanson connue surtout dans le répertoire de France Gall, offrant peu d’angles indépendants au-delà de son lien avec Cézanne."
 ---
-
 ![Image de Cézanne peint](https://upload.wikimedia.org/wikipedia/commons/5/55/Autoportrait_avec_un_papier_peint_vert-olive%2C_par_Paul_C%C3%A9zanne.jpg)
 
 ###### Questions

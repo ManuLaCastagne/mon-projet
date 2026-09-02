@@ -15,8 +15,9 @@ indice_6 :
   - Souvent utilisé pour les compositions florales et en commémoration
 questions:
  - Plante hybride de a famille des composées,  je fais l'objet de grandes fêtes au Géographie/Japon lors de ma floraison. Mon nom signifie "fleur d'or". Plante associée à la Toussaint…
+culture_g_score: 64
+culture_g_justification: "Fleur très connue en France pour la Toussaint, avec des liens culturels et botaniques, mais une transversalité modérée."
 ---
-
 ![Image de Chrysanthème](https://upload.wikimedia.org/wikipedia/commons/7/7b/Chrysantheme_rot_tautropfen_-20191024-RM-102058.jpg)
 
 ###### Questions

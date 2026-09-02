@@ -18,12 +18,9 @@ indice_5:
   - Nelson
 indice_6:
   - HMS Victory
+culture_g_score: 84
+culture_g_justification: "Institution militaire majeure de l’histoire britannique, fréquemment associée aux guerres navales, à l’Empire, au scorbut et à l’Armada."
 ---
-
-
-
-
-
 ![Image de Royal Navy](https://upload.wikimedia.org/wikipedia/commons/8/87/Future_of_the_Royal_Navy_2025.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - signes et silences
 questions:
  - Quel écrivain a partagé en 2014 son quotidien de fille de parents sourds-muets ?
+culture_g_score: 31
+culture_g_justification: "Autrice identifiée principalement par un récit autobiographique singulier, encore très peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Véronique Poulain](https://upload.wikimedia.org/wikipedia/commons/3/31/Poulain-shagya.jpg)
 
 ###### Questions

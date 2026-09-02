@@ -23,8 +23,9 @@ indice_6 :
   - arcs gothiques
 questions:
  - Quel pont fortifié enjambe le Lot à Cahors ?
+culture_g_score: 51
+culture_g_justification: "Beau monument médiéval français connu des amateurs de patrimoine, mais assez rarement demandé dans les quiz généralistes."
 ---
-
 ![Image de Pont Valentré](https://upload.wikimedia.org/wikipedia/commons/c/c4/Cahors_-_Pont_Valentr%C3%A9_-_06.jpg)
 
 ###### Questions

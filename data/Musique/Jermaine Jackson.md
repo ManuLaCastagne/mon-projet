@@ -22,9 +22,9 @@ indice_6 :
   - producteur et chanteur
 questions:
  - En 1985, quel chanteur, frère de Michael Jackson, interprète en duo avec Pia Zadora "When the rain begins to fall"?
+culture_g_score: 47
+culture_g_justification: "Membre des Jackson 5 et frère de Michael Jackson, mais sa carrière propre reste peu fréquemment interrogée."
 ---
-
-
 ![Image de Jermaine Jackson](https://upload.wikimedia.org/wikipedia/commons/8/89/JermaineJackson2007%28cropped%29.jpg)
 
 ###### Questions

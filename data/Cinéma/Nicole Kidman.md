@@ -18,9 +18,9 @@ indice_5 :
   - Australie
 indice_6 : 
   - Big Little Lies
+culture_g_score: 80
+culture_g_justification: "Star internationale associée à de nombreux films, à l’Oscar et à des rôles très divers, elle constitue une connaissance cinématographique très rentable."
 ---
-
-
 ![Image de Nicole Kidman](https://upload.wikimedia.org/wikipedia/commons/c/c4/Nicole_Kidman_2_%2829900987478%29.jpg)
 
 ###### Questions

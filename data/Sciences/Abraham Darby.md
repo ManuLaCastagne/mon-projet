@@ -18,8 +18,9 @@ indice_5 :
   - Angleterre
 indice_6 : 
   - Shropshire
+culture_g_score: 44
+culture_g_justification: "Pionnier important de la métallurgie industrielle, mais principalement utile pour une question spécialisée sur le coke et la fonte."
 ---
-
 ![Image de Abraham Darby](https://upload.wikimedia.org/wikipedia/commons/1/17/Grave_of_Abraham_Darby_IV_-_geograph.org.uk_-_913960.jpg)
 
 ###### Questions

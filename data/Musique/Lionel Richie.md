@@ -18,8 +18,9 @@ indice_5 :
   - Three Times a Lady
 indice_6 : 
   - Endless Love
+culture_g_score: 76
+culture_g_justification: "Chanteur très célèbre grâce aux Commodores, à ses tubes solo, à l'Oscar et à We Are the World, avec de nombreux angles de quiz."
 ---
-
 ![Image de Lionel Richie](https://upload.wikimedia.org/wikipedia/commons/5/53/Lionel_Richie_2022_%2851930307118%29_%28cropped%29.jpg)
 
 ###### Questions

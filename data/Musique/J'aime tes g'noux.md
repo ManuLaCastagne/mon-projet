@@ -22,8 +22,9 @@ indice_6 :
   - Frère Jacques
 questions:
  - Sous quel titre Henri Salvador reprend-il "Shame Shame Shame" ?
+culture_g_score: 20
+culture_g_justification: "Titre humoristique très spécifique, principalement exploitable par une question de chanson française ancienne."
 ---
-
 ![Image de J'aime tes g'noux](https://upload.wikimedia.org/wikipedia/commons/2/2d/Desrousseaux_-_Chansons_et_pasquilles_lilloises%2C_Volume_2%2C_1869.djvu)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - conquêtes romaines
 questions:
  - A quel peuple de la Gaule (pays), ayant Gergovie pour capitale, l'Auvergne doit-elle son nom?
+culture_g_score: 60
+culture_g_justification: "Les Arvernes sont surtout connus par Vercingétorix, Gergovie et Alésia, ce qui leur assure une utilité réelle mais limitée."
 ---
-
 ![Image de Arvernes](https://upload.wikimedia.org/wikipedia/commons/e/ef/From_the_A_Train_td_%282018-12-13%29_096_-_Arverne_by_the_Sea.jpg)
 
 ###### Questions

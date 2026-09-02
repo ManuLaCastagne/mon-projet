@@ -23,9 +23,9 @@ indice_6 :
   - LHOOQ
 questions:
  - En 1919, quel artiste d'avant-garde réalise une version de la Joconde à laquelle il ajoute malicieusement une petite barbe ?
+culture_g_score: 100
+culture_g_justification: "Duchamp est central pour comprendre l’art moderne et contemporain, avec des entrées multiples sur les ready-mades, le dadaïsme et l’avant-garde."
 ---
-
-
 ![Image de Marcel Duchamp](https://upload.wikimedia.org/wikipedia/commons/e/e2/Marcel_Duchamp_01.jpg)
 
 ###### Questions

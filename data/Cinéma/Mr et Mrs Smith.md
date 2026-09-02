@@ -22,8 +22,9 @@ indice_6 :
   - 2005
 questions:
  - En 2005, dans quel film Brad Pitt forme-t-il, avec Angelina Jolie un couple d'agents travaillant pour des organisations secrètes rivales ?
+culture_g_score: 60
+culture_g_justification: "Succès populaire associé à Brad Pitt et Angelina Jolie, mais son importance artistique et historique demeure limitée."
 ---
-
 ![Image de Mr et Mrs Smith](https://upload.wikimedia.org/wikipedia/commons/c/c9/Mr._et_Mrs._Smith_%28film%2C_2005%29-_logo.png)
 
 ###### Questions

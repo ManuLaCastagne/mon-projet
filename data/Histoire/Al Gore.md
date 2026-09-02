@@ -20,7 +20,8 @@ indice_6 :
   - partisan de la lutte contre le réchauffement climatique
 questions:
  - En 2006, quel homme politique américain présente les dangers du réchauffement climatique dans le documentaire intitulé "Une vérité qui dérange" ?
-culture_g_score: 64
+culture_g_score: 68
+culture_g_justification: "Son rôle de vice-président, l’élection de 2000 et son engagement climatique fournissent plusieurs angles classiques, sans en faire une figure historique fondamentale."
 ---
 ![Image de Al Gore](https://upload.wikimedia.org/wikipedia/commons/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg)
 

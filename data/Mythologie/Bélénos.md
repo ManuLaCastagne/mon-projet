@@ -16,10 +16,9 @@ indice_5:
   - Gaulois
 indice_6:
   - fête de Beltaine
+culture_g_score: 44
+culture_g_justification: "Dieu celtique solaire et guérisseur comparable à Apollon, mais peu présent dans les quiz généralistes."
 ---
-
-
-
 ###### Questions
 
 Quel dieu gaulois, des sources, des sanctuaires prophétiques et de la médecine portait un nom signifiant puissant ou resplendissant?

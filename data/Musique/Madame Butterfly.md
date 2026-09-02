@@ -22,11 +22,9 @@ indice_6 :
   - Nagasaki
 questions:
  - Opéra créé à la Scala de Milan en 1904, j'ai été inspiré à mon auteur par une pièce de David Belasco. Mal reçu du public lors de ma première, je me déroule à Nagasaki.
+culture_g_score: 80
+culture_g_justification: "Opéra très célèbre de Puccini, exploitable par son intrigue, ses personnages, sa création mouvementée et le répertoire lyrique."
 ---
-
-
-
-
 ![Image de Madame Butterfly](https://upload.wikimedia.org/wikipedia/commons/e/e4/Leopoldo_Metlicovitz%2C_1904_-_Madama_Butterfly.jpg)
 
 ###### Questions

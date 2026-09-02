@@ -18,8 +18,9 @@ indice_5:
   - XVIIe siècle
 indice_6:
   - Jansénisme
+culture_g_score: 80
+culture_g_justification: "Moraliste majeur du XVIIe siècle, La Bruyère est régulièrement associé aux Caractères, à Louis XIV et à l’Académie française."
 ---
-
 ![Image de La Bruyère](https://upload.wikimedia.org/wikipedia/commons/4/41/Portrait_of_an_unknown_man%2C_Formerly_identified_as_Jean_de_La_Bruy%C3%A8re_-_Versailles.jpg)
 
 ###### Questions

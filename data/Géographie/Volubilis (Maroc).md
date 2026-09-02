@@ -25,8 +25,9 @@ indice_6:
   - monument historique
 questions:
   - Quel est ce site archéologique romain situé au nord du Maroc ?
+culture_g_score: 72
+culture_g_justification: "Site romain majeur du Maroc, fréquemment identifiable par ses mosaïques, son arc de triomphe et l’histoire de l’Afrique antique."
 ---
-
 ![Image de Volubilis](https://upload.wikimedia.org/wikipedia/commons/d/d2/Volubilis_1990.jpg)
 
 ![[Carte_Volubilis (Maroc).png]]

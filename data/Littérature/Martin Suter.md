@@ -20,8 +20,9 @@ indice_5:
   - Le diable de Milan
 indice_6:
   - Business class
+culture_g_score: 31
+culture_g_justification: "Romancier suisse germanophone reconnu, mais rarement mobilisé dans les quiz francophones généralistes."
 ---
-
 ![Image de Martin Suter](https://upload.wikimedia.org/wikipedia/commons/3/39/Martin_Suter_2012.jpg)
 
 ###### Questions

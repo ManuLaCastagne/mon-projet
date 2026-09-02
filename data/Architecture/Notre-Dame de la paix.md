@@ -23,8 +23,9 @@ indice_6 :
   - Félix Houphouët-Boigny
 questions:
  - Dans les années 80 à Yamoussoukro, quelle basilique, plus grand édifice chrétien au monde, suscite la polémique en raison de son luxe ostentatoire?
+culture_g_score: 51
+culture_g_justification: "La basilique de Yamoussoukro est remarquable par ses records et son contexte ivoirien, mais demeure une connaissance secondaire des quiz."
 ---
-
 ![Image de Notre-Dame de la paix](https://upload.wikimedia.org/wikipedia/commons/3/3c/%C3%89glise_Notre-Dame_de_la_Paix_%C3%A0_Viville_%28DSCF6498%29.jpg)
 
 ###### Questions

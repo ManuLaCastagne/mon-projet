@@ -15,8 +15,9 @@ indice_6 :
   - Ornementation des jardins
 questions:
  - Quelle plante herbacée aux fleurs pouvant être mauves, voisine de la violette, de l'espèce Viola tricolor lorsqu'elle est qualifiée de sauvage ?
+culture_g_score: 44
+culture_g_justification: "Fleur assez reconnaissable et parfois utilisée en botanique ou en symbolique, mais rarement centrale dans les quiz généralistes."
 ---
-
 ![Image de Pensée](https://upload.wikimedia.org/wikipedia/commons/d/dd/Pens%C3%A9e_Charleroi_M5_2025_01_10_2.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - classique du cinéma italien
 questions:
  - En 1945, dans quel long-métrage Roberto Rossellini filme-t-il de façon réaliste l'Italie de la fin de la 2de Guerre mondiale?
+culture_g_score: 67
+culture_g_justification: "Œuvre fondatrice du néoréalisme italien, fréquemment citée dans l'histoire du cinéma mais moins connue du grand public."
 ---
-
 ![Image de Rome, ville ouverte](https://upload.wikimedia.org/wikipedia/commons/3/34/Magnani_in_Roma_citt%C3%A0_aperta.jpg)
 
 ###### Questions

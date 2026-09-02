@@ -18,8 +18,9 @@ indice_5 :
   - Espagne
 indice_6 : 
   - 1992
+culture_g_score: 40
+culture_g_justification: "Film surtout utile pour les débuts de Bardem et de Cruz, avec une présence occasionnelle mais limitée dans les quiz."
 ---
-
 ![[Pasted image 20250503184452.png]]
 ###### Questions
 

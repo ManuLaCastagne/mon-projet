@@ -15,8 +15,9 @@ indice_6 :
   - Usage en médecine traditionnelle
 questions:
  - Quelle plante utilisée en sorcellerie est dotée d'une racine fourchue ?
+culture_g_score: 68
+culture_g_justification: "Sujet très exploitable grâce à ses mythes, sa littérature, ses propriétés toxiques et son histoire médicinale."
 ---
-
 ![Image de Mandragore](https://upload.wikimedia.org/wikipedia/commons/d/d7/Mandragora_officinarum_001.JPG)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - comédie
 questions:
  - Quelle comédienne, qui a fêté ses 50 ans en 2020, a incarné Fabienne Lepic dans la série "Fais pas ci, fais pas ça"?
+culture_g_score: 44
+culture_g_justification: "Actrice française reconnue grâce à plusieurs rôles, mais dont la présence dans les quiz généralistes reste occasionnelle."
 ---
-
-
 ![Image de Valérie Bonneton](https://upload.wikimedia.org/wikipedia/commons/4/45/Val%C3%A9rie_Bonneton_Deauville_2014.jpg)
 
 ###### Questions

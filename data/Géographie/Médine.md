@@ -21,6 +21,8 @@ indice_5 :
   - Hégire
 indice_6 : 
   - Province de Médine
+culture_g_score: 100
+culture_g_justification: "Ville sainte incontournable de l’islam, liée à Mahomet, à l’Hégire et à de nombreuses questions historiques et religieuses."
 ---
 ###### Questions
 

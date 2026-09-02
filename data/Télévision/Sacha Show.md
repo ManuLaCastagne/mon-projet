@@ -20,8 +20,9 @@ indice_6 :
   - chansons et sketches
 questions:
  - De 62 à 72, quelle émission de variété a été animée par Sacha Distel ?
+culture_g_score: 44
+culture_g_justification: "Émission de variétés associée à Sacha Distel, intéressante pour la télévision musicale mais rarement prioritaire dans les quiz."
 ---
-
 ![Image de Sacha Show](https://upload.wikimedia.org/wikipedia/commons/5/5b/Sacha_Cohen.jpg)
 
 ###### Questions

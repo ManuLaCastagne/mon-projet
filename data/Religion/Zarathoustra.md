@@ -18,8 +18,9 @@ indice_5 :
   - Perse antique
 indice_6 : 
   - Prophète iranien
+culture_g_score: 72
+culture_g_justification: "Fondateur du zoroastrisme et personnage de Nietzsche et de Richard Strauss, Zarathoustra possède plusieurs angles culturels distincts."
 ---
-
 ![Image de Zarathoustra](https://upload.wikimedia.org/wikipedia/commons/7/76/Zoroaster_1.jpg)
 
 ###### Questions

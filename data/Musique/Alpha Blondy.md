@@ -22,8 +22,9 @@ indice_6 :
   - Yitzhak Rabin
 questions:
  - Au début des années 80, en interprétant "Brigadier Sabari", quel chanteur ivoirien donne naissance au reggae africain?
+culture_g_score: 52
+culture_g_justification: "Alpha Blondy est une figure importante du reggae africain, mais sa notoriété et sa fréquence restent limitées dans les quiz généralistes."
 ---
-
 ![Image de Alpha Blondy](https://upload.wikimedia.org/wikipedia/commons/8/8b/Alpha_Blondy_-_F%C3%AAte_de_l%27Humanit%C3%A9_2014_-_050.jpg)
 
 ###### Questions

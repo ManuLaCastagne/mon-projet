@@ -20,8 +20,9 @@ indice_6 :
   - Caroline Garcia
 questions:
  - En 2019, quelle joueuse, affectueusement appelée Kiki, remporte avec Caroline...
+culture_g_score: 52
+culture_g_justification: "Joueuse française performante en double et en Fed Cup, mais moins incontournable que les principales stars du tennis."
 ---
-
 ![Image de Kristina Mladenovic](https://upload.wikimedia.org/wikipedia/commons/5/55/Kristina_Mladenovic.jpg)
 
 ###### Questions

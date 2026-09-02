@@ -20,8 +20,9 @@ indice_6 :
   - destituée en 2016
 questions:
  - Quelle économiste engagée contre la dictature militaire de son pays dans les années 1960, devient présidente du Brésil en 2011 ?
+culture_g_score: 60
+culture_g_justification: "Première présidente du Brésil et figure de l’impeachment, mais principalement pertinente dans l’histoire politique récente de ce pays."
 ---
-
 ![Image de Dilma Rousseff](https://upload.wikimedia.org/wikipedia/commons/3/39/Dilma_Rousseff_-_foto_oficial_2011-01-09_2_%28cropped%29.jpg)
 
 ###### Questions

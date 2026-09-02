@@ -22,8 +22,9 @@ indice_6 :
   - Shelby American
 questions:
  - Un film de James Mangold qui évoque la compétition automobile.
+culture_g_score: 64
+culture_g_justification: "Film récent et populaire, utile pour des questions sur Le Mans, Ford, Ferrari, le sport automobile et ses acteurs."
 ---
-
 ![Image de Le Mans 66](https://upload.wikimedia.org/wikipedia/commons/4/4a/Ford_v_Ferrari_LOGO.png)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5NFAE8XxEjBrpNu4tEvhqG" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

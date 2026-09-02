@@ -22,9 +22,9 @@ indice_5 :
   - Climat tropical semi-aride
 indice_6 : 
   - Site historique de la Mosquée Fakr ad-Din
+culture_g_score: 60
+culture_g_justification: "Capitale africaine surtout retenue pour la guerre civile somalienne et l’opération Restore Hope."
 ---
-
-
 ![Image de Mogadiscio](https://upload.wikimedia.org/wikipedia/commons/c/c8/Mogadishu.png)
 
 ![[Carte_Mogadiscio.png]]

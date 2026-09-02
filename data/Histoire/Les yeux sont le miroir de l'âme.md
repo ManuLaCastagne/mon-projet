@@ -20,8 +20,9 @@ indice_6 :
   - citation d'origine incertaine
 questions:
  - Au XVIIe siècle, dans le vocabulaire des Précieuses, quels organes du corps humain étaient considérés comme le miroir de l'âme?
+culture_g_score: 56
+culture_g_justification: "Proverbe très connu, mais offrant peu d’angles de quiz réellement indépendants."
 ---
-
 ![Image de Les yeux sont le miroir de l'âme](https://upload.wikimedia.org/wikipedia/commons/a/ac/Les_probl%C3%A8mes_de_l%27%C3%A2me_%28IA_b21927558%29.pdf)
 
 ###### Questions

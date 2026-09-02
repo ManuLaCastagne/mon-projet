@@ -22,8 +22,9 @@ indice_6 :
   - Joseph Weismann
 questions:
  - En 2010, quel film de Rose Bosch se déroulant dans la France occupée revient sur l'épisode tragique du Vel'd'Hiv'?
+culture_g_score: 80
+culture_g_justification: "Film populaire sur la rafle du Vél' d'Hiv', reliant cinéma, Shoah, histoire de France, Jean Reno et la responsabilité de l'État français."
 ---
-
 ![Image de La Rafle](https://upload.wikimedia.org/wikipedia/commons/e/e6/Colorado._Round_up_on_the_Cimarron.jpg)
 
 ###### Questions

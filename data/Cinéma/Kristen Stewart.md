@@ -18,8 +18,9 @@ indice_5 :
   - Seberg
 indice_6 : 
   - Adventureland
+culture_g_score: 64
+culture_g_justification: "Très connue pour Twilight, mais son intérêt quiz reste principalement centré sur sa carrière cinématographique."
 ---
-
 ![Image de Kristen Stewart](https://upload.wikimedia.org/wikipedia/commons/4/48/Kristen_Stewart.jpg)
 
 ###### Questions

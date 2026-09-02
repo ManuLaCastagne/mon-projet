@@ -18,9 +18,9 @@ indice_5:
   - Skank
 indice_6:
   - Madness
+culture_g_score: 80
+culture_g_justification: "Le ska est un genre structurant des musiques jamaïcaines, avec des liens clairs au rocksteady, au reggae, au jazz et au mouvement 2-tone."
 ---
-
-
 ![Image de Ska](https://upload.wikimedia.org/wikipedia/commons/9/93/SKA_Low_Frequency_Aperture_Array_%E2%80%93_Close_up_%E2%80%93_Australia.jpg)
 
 ###### Questions

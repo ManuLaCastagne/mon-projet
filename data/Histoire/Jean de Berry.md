@@ -22,8 +22,9 @@ indice_6 :
   - assassinat en 1416
 questions:
  - Pour quel duc les frères Linbourg réalisent-ils le manuscrit enluminé…
+culture_g_score: 67
+culture_g_justification: "Grand mécène princier du Moyen Âge, particulièrement utile pour les Très Riches Heures, l’art gothique et la famille royale française."
 ---
-
 ![Image de Duc de Berry](https://upload.wikimedia.org/wikipedia/commons/8/8b/Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_-_Janvier.jpg)
 
 ###### Questions

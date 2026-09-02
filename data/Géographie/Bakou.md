@@ -22,8 +22,9 @@ indice_5 :
   - flammes éternelles
 indice_6 : 
   - Eurovision 2012
+culture_g_score: 51
+culture_g_justification: "Capitale de l’Azerbaïdjan associée au pétrole, à la mer Caspienne et à la Formule 1, mais encore secondaire dans les quiz généralistes."
 ---
-
 ![Image de Bakou](https://upload.wikimedia.org/wikipedia/commons/3/32/Vista_de_Baku%2C_Azerbaiy%C3%A1n%2C_2016-09-26%2C_DD_138.jpg)
 
 ![[Carte_Bakou.png]]

@@ -22,9 +22,9 @@ indice_6 :
   - adaptation cinématographique en 1971
 questions:
  - Dans quel roman de Françoise Sagan, publié en 1969, un journaliste dépressif rencontre-t-il une femme qui tombe amoureuse de lui?
+culture_g_score: 60
+culture_g_justification: "Roman connu de Françoise Sagan, utile pour l'identification de l'autrice, ses thèmes sentimentaux et son adaptation, mais moins incontournable que Bonjour tristesse."
 ---
-
-
 ![Image de Un peu de Soleil dans l'eau froide](https://upload.wikimedia.org/wikipedia/commons/5/58/Maupassant_-_Sur_l%27eau%2C_1888.djvu)
 
 ###### Questions

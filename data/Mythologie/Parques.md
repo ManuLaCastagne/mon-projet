@@ -18,10 +18,9 @@ indice_6 :
   - [[mythologie grecque]]
 questions:
  - Quelles divinités romaines du destin identifiées avec les Moires de la [[mythologie grecque]], filaient, dévidaient et coupaient  le fil de la vie humaine ?
+culture_g_score: 60
+culture_g_justification: "Les Parques sont une référence classique du destin gréco-romain, mais leur emploi en quiz reste surtout limité à la mythologie et aux représentations du sort."
 ---
-
-
-
 ![Image de Parques](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tablero_de_parqu%C3%A9s.svg)
 
 ###### Questions

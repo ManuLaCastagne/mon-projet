@@ -20,9 +20,9 @@ indice_6 :
   - Médaillé d'or olympique
 questions:
  - Quel boxeur américain médaille d'or dans la catégorie lourds a battu le soviétique Jonas Sepulis à Cinéma/Mexico 68 ?
+culture_g_score: 80
+culture_g_justification: "Champion de boxe associé au Rumble in the Jungle, à Muhammad Ali, à ses deux règnes mondiaux et à son célèbre appareil de cuisine."
 ---
-
-
 ![Image de George Foreman](https://upload.wikimedia.org/wikipedia/commons/c/cb/George_Foreman_%281973%29.jpg)
 
 ###### Questions

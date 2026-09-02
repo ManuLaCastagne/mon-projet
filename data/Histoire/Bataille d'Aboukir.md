@@ -20,9 +20,9 @@ indice_6 :
   - Contre la flotte britannique
 questions:
  - En août 1798, lors de quelle bataille navale, disputée à proximité d'Alexandrie, l'escadre...
+culture_g_score: 52
+culture_g_justification: "Bataille napoléonienne identifiable, mais souvent éclipsée dans les quiz par la bataille navale d’Aboukir de 1798."
 ---
-
-
 ![Image de Bataille d'Aboukir](https://upload.wikimedia.org/wikipedia/commons/1/1e/Antoine-Jean_Gros_-_Bataille_d%27Aboukir%2C_25_juillet_1799_-_Google_Art_Project.jpg)
 
 ###### Questions

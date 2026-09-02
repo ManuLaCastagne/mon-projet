@@ -20,8 +20,9 @@ indice_6 :
   - Serena Williams
 questions:
  - Sur quel site new-yorkais se disputent les championnats internationaux de tennis des Etats-Unis ?
+culture_g_score: 60
+culture_g_justification: "Site associé à l’US Open et à New York, il est utile dans les questions de tennis et de géographie urbaine mais reste limité."
 ---
-
 ![Image de Flushing Meadow](https://upload.wikimedia.org/wikipedia/commons/0/0e/Flushing_Meadows%E2%80%93Corona_Park.jpg)
 
 ###### Questions

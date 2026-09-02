@@ -20,8 +20,9 @@ indice_6 :
   - Bart
 questions:
  - Désignée en 1999 par le "Time Magazine" comme la meilleure série du 20e siècle, je me déroule dans la ville de Springfield.
+culture_g_score: 96
+culture_g_justification: "Référence mondiale de l'animation et de la culture populaire, offrant une multitude de questions sur ses personnages, auteurs, épisodes et satire."
 ---
-
 ![Image de Les Simpson](https://upload.wikimedia.org/wikipedia/commons/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg)
 
 ###### Questions

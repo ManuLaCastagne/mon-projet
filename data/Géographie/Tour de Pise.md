@@ -24,8 +24,9 @@ indice_6 :
   - Piazza dei Miracoli
 questions:
  - Quel campanile, érigé  dans une ville de Toscane, à proximité de la cathédrale Notre-Dame de l'Assomption, est célèbre pour son inclinaison?
+culture_g_score: 96
+culture_g_justification: "La Tour de Pise est un monument universellement célèbre, reconnaissable par son inclinaison et exploitable en histoire de l’art, architecture et géographie."
 ---
-
 ![Image de Tour de Pise](https://upload.wikimedia.org/wikipedia/commons/6/66/Tour_de_Pise-2017.jpg)
 
 ![[Carte_Tour de Pise.png]]

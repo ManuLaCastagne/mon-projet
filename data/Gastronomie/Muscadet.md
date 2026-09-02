@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1930
 date: 1937
+culture_g_score: 64
+culture_g_justification: "Vin français classique, associé à la Loire-Atlantique, au melon de Bourgogne et aux fruits de mer."
 ---
 ###### Questions 
 

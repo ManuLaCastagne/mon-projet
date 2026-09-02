@@ -23,8 +23,9 @@ indice_6 :
   - mentor de Claude Monet
 questions:
  - En 1872, à quel peintre français, auteur de nombreuses marines, doit-on la toile "Port de Camaret" ?
+culture_g_score: 60
+culture_g_justification: "Précurseur de l'impressionnisme et mentor de Monet, Boudin est une connaissance classique mais secondaire de l'histoire de l'art."
 ---
-
 ![Image de Eugène Boudin](https://upload.wikimedia.org/wikipedia/commons/8/80/Bemberg_Fondation_Toulouse_-_Rotterdam%2C_Le_Pont_de_la_Bourse_-_Eug%C3%A8ne_Boudin_1876.jpg)
 
 ###### Questions

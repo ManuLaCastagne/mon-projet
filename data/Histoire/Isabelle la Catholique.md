@@ -20,8 +20,9 @@ indice_6 :
   - soutien à Christophe Colomb
 questions:
  - Par quelle reine Colomb a-t-il été mandaté en septembre 1493 ?
+culture_g_score: 84
+culture_g_justification: "Reine de Castille associée à Colomb, à la Reconquista, à l’unification espagnole et à l’Inquisition, ce qui la rend très rentable."
 ---
-
 ![Image de Isabelle la Catholique](https://upload.wikimedia.org/wikipedia/commons/3/37/Do%C3%B1a_Isabel_la_Cat%C3%B3lica_dictando_su_testamento_%28Rosales%29.jpg)
 
 ###### Questions

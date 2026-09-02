@@ -18,8 +18,9 @@ indice_6 :
   - Thermopyles
 questions:
  - Dans la [[mythologie grecque]], quelle région, dont les habitants étaient réputés pour la concision de leur langage, avait Sparte pour capitale Sparte pour capitale et Ménélas pour roi?
+culture_g_score: 48
+culture_g_justification: "La Laconie est surtout utile pour situer Sparte et certains mythes héroïques, mais son nom propre est peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Laconie](https://upload.wikimedia.org/wikipedia/commons/e/eb/Seal_of_Theopemptos%2C_Bishop_of_Lacedaemonia_%28Schlumberger%2C_1889%29.png)
 
 ###### Questions

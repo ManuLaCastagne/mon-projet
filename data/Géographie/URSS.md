@@ -21,9 +21,9 @@ indice_5 :
   - Mikhail Gorbatchev
 indice_6 : 
   - Guerre froide
+culture_g_score: 100
+culture_g_justification: "L’URSS est un sujet historique et géopolitique incontournable, ouvrant sur la guerre froide, l’espace, le communisme et la géographie mondiale."
 ---
-
-
 ![[Carte_URSS.png]]
 
 ###### Questions

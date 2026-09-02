@@ -22,9 +22,9 @@ indice_6 :
   - la Brute et le Truand
 questions:
  - Compositrice et interprète née à Paris en 1906, épouse du philosophe Emmanuel Berl, j'ai débuté à Londres à l'âge de 6 ans en interprétant dans un film un rôle de petit garçon.
+culture_g_score: 32
+culture_g_justification: "Compositrice et pédagogue française reconnue dans l’histoire de la chanson, mais rarement interrogée hors de questions spécialisées."
 ---
-
-
 ![Image de Mireille (compositrice)](https://upload.wikimedia.org/wikipedia/commons/1/16/Mireille_Soria_by_Gage_Skidmore.jpg)
 
 ###### Questions

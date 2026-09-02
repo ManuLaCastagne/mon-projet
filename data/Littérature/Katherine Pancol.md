@@ -22,8 +22,9 @@ indice_6 :
   - 2006
 questions:
  - En 2010, quelle romancière française publie "Les Ecureuils de Central Park sont tristes le lundi" ?
+culture_g_score: 44
+culture_g_justification: "Autrice de best-sellers français bien identifiés, mais dont l’importance et la fréquence dans les quiz généralistes restent limitées."
 ---
-
 ![Image de Katherine Pancol](https://upload.wikimedia.org/wikipedia/commons/a/a9/Katherine_Pancol_%282009%29.jpg)
 
 ###### Questions

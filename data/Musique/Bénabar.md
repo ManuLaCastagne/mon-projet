@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - En 2008, chanteur parlant du retour anticipé, le dimanche, à cause des bouchons, dans le titre "A la campagne".
  - En 2019, dans la comédie "Beaux-parents", quel chanteur et acteur incarne un gendre adoré par le père et la mère de sa compagne?
+culture_g_score: 60
+culture_g_justification: "Chanteur populaire de la chanson française, régulièrement associé aux Victoires, aux Enfoirés et à quelques albums connus."
 ---
-
 ![Image de Bénabar](https://upload.wikimedia.org/wikipedia/commons/e/e5/B%C3%A9nabar_2012.jpg)
 
 ###### Questions

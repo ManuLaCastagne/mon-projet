@@ -22,8 +22,9 @@ indice_6 :
   - adaptation cinématographique
 questions:
  - En 1963, quel écrivain français publie le roman de science-fiction "La Planète des singes"?
+culture_g_score: 60
+culture_g_justification: "Auteur français associé à deux adaptations cinématographiques célèbres, mais moins incontournable que les grands classiques littéraires."
 ---
-
 ![Image de Pierre Boulle](https://upload.wikimedia.org/wikipedia/commons/a/a7/Boulle_Cansado.png)
 
 ###### Questions

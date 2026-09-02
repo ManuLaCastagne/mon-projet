@@ -20,8 +20,9 @@ indice_6 :
   - Twist final surprenant
 questions:
  - Mon créateur Rod Serling présente mes 156 épisodes.  Mettant en scène des personnages ordinaires passant de l'autre côté de la réalité...
+culture_g_score: 80
+culture_g_justification: "Série culte, très classique des quiz, ouvrant sur la science-fiction, la télévision américaine, Rod Serling et de nombreux épisodes emblématiques."
 ---
-
 ![Image de La Quatrième dimension](https://upload.wikimedia.org/wikipedia/commons/4/4f/Voyage_au_pays_de_la_quatri%C3%A8me_dimension_-_cover.jpg)
 
 ###### Questions

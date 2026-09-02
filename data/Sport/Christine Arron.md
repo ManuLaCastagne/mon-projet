@@ -18,9 +18,9 @@ indice_5:
   - Guadeloupe
 indice_6:
   - Championnats du monde
+culture_g_score: 60
+culture_g_justification: "Son record d'Europe du 100 mètres et son titre continental en font une référence régulière de l'athlétisme français."
 ---
-
-
 ![Image de Christine Arron](https://upload.wikimedia.org/wikipedia/commons/4/41/Osaka07_D2M_Christine_Arron.jpg)
 
 ###### Questions

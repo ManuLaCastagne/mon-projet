@@ -15,8 +15,9 @@ indice_6 :
   - Études et recherches botaniques
 questions:
  - Comment appelle-t-on une collection de plantes séchées conservées dans un album entre des feuilles de papier ?
+culture_g_score: 52
+culture_g_justification: "Notion classique reliant botanique, histoire des sciences et conservation, mais assez peu souvent posée directement."
 ---
-
 ![Image de Herbier](https://upload.wikimedia.org/wikipedia/commons/4/47/Herbier_Picot_de_Lapeyrouse.jpg)
 
 ###### Questions

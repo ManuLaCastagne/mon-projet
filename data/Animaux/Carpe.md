@@ -15,8 +15,9 @@ indice_6 :
   - Porte-bonheur en Asie
 questions:
  - En Pologne, quel poisson d'étang pouvant atteindre 1 m de long, fait partie du menu traditionnel de Noël ?
+culture_g_score: 68
+culture_g_justification: "Poisson important pour la pêche, l’aquaculture et la culture japonaise, avec plusieurs repères facilement réutilisables."
 ---
-
 ![Image de Carpe](https://upload.wikimedia.org/wikipedia/commons/f/fd/Carpe_in_2019.jpg)
 
 ###### Questions

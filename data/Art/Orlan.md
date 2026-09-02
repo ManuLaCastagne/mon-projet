@@ -23,8 +23,9 @@ indice_6 :
   - identité culturelle
 questions:
  - Dans les années 90, quelle artiste stéphanoise fit de son corps le matériau de son travail à travers différentes opérations de chirurgie esthétique?
+culture_g_score: 48
+culture_g_justification: "Orlan est une artiste contemporaine marquante pour l'art corporel et la performance, mais demeure une référence spécialisée."
 ---
-
 ![Image de Orlan](https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_ORLAN.jpg)
 
 ###### Questions

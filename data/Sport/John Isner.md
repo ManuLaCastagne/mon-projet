@@ -18,8 +18,9 @@ indice_5 :
   - Nicolas Mahut
 indice_6 : 
   - ATP
+culture_g_score: 60
+culture_g_justification: "Isner est principalement retenu pour le plus long match de l’histoire contre Nicolas Mahut, ce qui limite sa transversalité."
 ---
-
 ![Image de John Isner](https://upload.wikimedia.org/wikipedia/commons/1/16/Isner_WM19_%2818%29_%2848522000702%29.jpg)
 
 ###### Questions

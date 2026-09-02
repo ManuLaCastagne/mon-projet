@@ -20,8 +20,9 @@ indice_6 :
   - siège de la commune de Paris
 questions:
  - Dans quelle basilique de la région parisienne est-elle inhumée, auprès de son époux?
+culture_g_score: 80
+culture_g_justification: "Ville et basilique majeures pour l’histoire de France, la monarchie, l’architecture gothique, la religion et le patrimoine."
 ---
-
 ![Image de Saint-Denis](https://upload.wikimedia.org/wikipedia/commons/a/af/Lustre-mairie-saint-denis.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - Golfe d'Aqaba
 indice_6:
   - biodiversité marine
+culture_g_score: 100
+culture_g_justification: "Mer incontournable reliant Afrique et Arabie, associée à la Bible, au canal de Suez, au commerce et à la géopolitique."
 ---
-
 ![[Carte_Mer Rouge.png]]
 ###### Questions
 

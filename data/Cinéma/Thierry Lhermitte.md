@@ -22,8 +22,9 @@ indice_6 :
   - Pierre Brochant
 questions:
  - En 1986, avec quel acteur Josiane Balasko partage-t-elle la vedette dans le film "Nuit d'ivresse"...
+culture_g_score: 76
+culture_g_justification: "Acteur très populaire en France, relié au Splendid, au Dîner de cons, à de nombreuses comédies et à la télévision."
 ---
-
 ![Image de Thierry Lhermitte](https://upload.wikimedia.org/wikipedia/commons/f/ff/Thierry_Lhermitte_2015.jpg)
 
 ###### Questions

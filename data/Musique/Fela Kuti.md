@@ -20,9 +20,9 @@ indice_5:
   - danse
 indice_6:
   - Kalakuta Republic
+culture_g_score: 72
+culture_g_justification: "Pionnier de l'afrobeat et opposant politique, il relie musique africaine, engagement, histoire du Nigeria et culture mondiale."
 ---
-
-
 ![Image de Fela](https://upload.wikimedia.org/wikipedia/commons/6/60/Fela_Kuti_record.jpg)
 
 ###### Questions

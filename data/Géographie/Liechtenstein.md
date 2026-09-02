@@ -25,8 +25,9 @@ indice_6 :
 questions:
  - Quel état a pour capitale la ville de Vaduz ?
  - Dans quel micro-état d'Europe centrale le chant patriotique est-il interprété sur la mélodie de l'hymne britannique?
+culture_g_score: 60
+culture_g_justification: "Petit État européen régulièrement interrogé pour sa capitale, sa situation enclavée, son histoire dynastique et son statut particulier, mais moins incontournable que ses voisins."
 ---
-
 ![Image de Liechtenstein](https://upload.wikimedia.org/wikipedia/commons/8/86/Liechtenstein_asv2022-10_img02_Vaduz_Aussicht_beim_Schloss.jpg)
 
 ![[Carte_Liechtenstein.png]]

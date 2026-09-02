@@ -16,9 +16,9 @@ indice_5:
   - tempête
 indice_6:
   - hébreu
+culture_g_score: 73
+culture_g_justification: "Figure biblique très reconnaissable, fréquemment mobilisée autour de Ninive, du grand poisson et de la fuite devant Dieu."
 ---
-
-
 ![Image de Jonas](https://upload.wikimedia.org/wikipedia/commons/2/25/Jonas_Avy%C5%BEius%2C_1973.jpg)
 
 ###### Questions

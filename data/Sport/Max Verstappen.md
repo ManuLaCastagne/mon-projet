@@ -18,8 +18,9 @@ indice_5 :
   - Pole position
 indice_6 : 
   - Checo Pérez
+culture_g_score: 80
+culture_g_justification: "Champion actuel de Formule 1, fréquemment interrogé pour ses records de précocité, ses titres et sa rivalité de 2021."
 ---
-
 ![Image de Max Verstappen](https://upload.wikimedia.org/wikipedia/commons/2/2a/Max_Verstappen_Puppetry.jpg)
 
 ###### Questions

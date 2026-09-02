@@ -14,7 +14,8 @@ indice_3:
 indice_4:
 indice_5:
 indice_6:
-culture_g_score: 30
+culture_g_score: 32
+culture_g_justification: "Film policier français relativement peu connu, offrant essentiellement un repère de casting et de date."
 ---
 ###### Questions
 

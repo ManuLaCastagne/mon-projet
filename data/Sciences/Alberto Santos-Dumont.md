@@ -20,9 +20,9 @@ indice_6 :
   - La Demoiselle
 questions:
  - En 1906, quel aviateur brésilien réalise le 1er...
+culture_g_score: 60
+culture_g_justification: "Pionnier de l’aviation intéressant pour les premiers vols, les dirigeables et l’histoire brésilienne, sans être une référence universelle."
 ---
-
-
 ![Image de Alberto Santos-Dumont](https://upload.wikimedia.org/wikipedia/commons/a/a6/Alberto_Santos-Dumont_by_Nadar.jpg)
 
 ###### Questions

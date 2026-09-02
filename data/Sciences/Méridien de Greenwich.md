@@ -18,8 +18,9 @@ indice_5 :
   - Fuseaux horaires
 indice_6 : 
   - Premier méridien
+culture_g_score: 97
+culture_g_justification: "Repère géographique et temporel mondial, central pour les coordonnées, les fuseaux horaires, la navigation et l’histoire des sciences."
 ---
-
 ![Image de Méridien de Greenwich](https://upload.wikimedia.org/wikipedia/commons/8/82/Le_m%C3%A9ridien_de_Greenwich_%D8%AE%D8%B7_%D8%BA%D8%B1%D9%8A%D9%86%D8%B4.jpg)
 
 ###### Questions

@@ -17,6 +17,8 @@ indice_5:
   - Wagadou
 indice_6:
   - Troisième volet
+culture_g_score: 44
+culture_g_justification: "Troisième épisode d’une série comique connue, mais nettement moins mémorable et moins interrogé que le premier film."
 ---
 ![[Pasted image 20260803212605.png]]
 ###### Questions

@@ -16,9 +16,9 @@ indice_5:
   - légendes arthuriennes
 indice_6:
   - enchantements
+culture_g_score: 80
+culture_g_justification: "Figure majeure du cycle arthurien, associée à Merlin, Avalon, Arthur et aux récits de magie médiévaux."
 ---
-
-
 ![Image de Fée Morgane](https://upload.wikimedia.org/wikipedia/commons/d/df/Dora_Curtis_-_Queen_Morgan_le_Fay%2C_1905.png)
 
 ###### Questions

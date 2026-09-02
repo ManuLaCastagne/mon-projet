@@ -22,8 +22,9 @@ indice_6 :
   - Le Neveu de Rameau
 questions:
  - En 1748, quel écrivain et philosophe publie anonymement "Les Bijoux Indiscrets" ?
+culture_g_score: 100
+culture_g_justification: "Figure centrale des Lumières, de l’Encyclopédie et de la philosophie française, offrant de très nombreux angles classiques."
 ---
-
 ![Image de Denis Diderot](https://upload.wikimedia.org/wikipedia/commons/f/fc/Denis_Diderot_by_Louis-Michel_van_Loo.jpg)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - manny
 questions:
  - Dans quelle série américaine Tony Miceli est-il engagé comme homme à tout faire...
+culture_g_score: 64
+culture_g_justification: "Sitcom américaine populaire en France, identifiable par Tony Danza, son titre original et son inversion des rôles familiaux."
 ---
-
-
-
 ![Image de Madame est servie](https://upload.wikimedia.org/wikipedia/commons/4/44/Madame_est_servie%2C_texte_de_Georges_de_Wissant_et_Jean_Kolb_-_btv1b106091519_%283_of_7%29.jpg)
 
 ###### Questions

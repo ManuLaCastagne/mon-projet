@@ -21,9 +21,9 @@ indice_5:
   - chantier naval
 indice_6:
   - Train de l'Escalette
+culture_g_score: 60
+culture_g_justification: "Connue pour l’Eden Théâtre et les projections des frères Lumière, La Ciotat constitue une bonne connaissance française mais assez spécialisée."
 ---
-
-
 ![Image de La Ciotat](https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Ciotat_Plan_1830.png)
 
 ![[Carte_La Ciotat.png]]

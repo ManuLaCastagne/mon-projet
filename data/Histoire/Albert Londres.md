@@ -20,8 +20,9 @@ indice_6 :
   - Terre d'ébène
 questions:
  - Quel grand reporter français,  auteur d'une enquête sur le bagne de Cayenne en 1923, est considéré comme un précurseur du journalisme d'investigation?
+culture_g_score: 52
+culture_g_justification: "Journaliste associé au prix Albert-Londres et aux grands reportages, il est pertinent pour l’histoire de la presse sans être très fréquent."
 ---
-
 ![Image de Albert Londres](https://upload.wikimedia.org/wikipedia/commons/3/38/Albert_Memorial%2C_Londres%2C_Inglaterra%2C_2022-11-25%2C_DD_93-95_HDR.jpg)
 
 ###### Questions

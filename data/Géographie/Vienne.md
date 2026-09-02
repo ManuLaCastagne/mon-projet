@@ -22,8 +22,9 @@ indice_5 :
   - Gustav Klimt
 indice_6 : 
   - Prater
+culture_g_score: 100
+culture_g_justification: "Grande capitale européenne au croisement de l’histoire des Habsbourg, de la musique, de la diplomatie, de l’art et du Danube."
 ---
-
 ![Image de Vienne](https://upload.wikimedia.org/wikipedia/commons/b/b4/Vienne_two_benchmarks.jpg)
 
 ![[Carte_Vienne.png]]

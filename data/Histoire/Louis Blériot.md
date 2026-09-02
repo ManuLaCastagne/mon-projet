@@ -20,8 +20,9 @@ indice_6 :
   - pionnier de l'aviation
 questions:
  - J'invente notamment un dispositif pour l'aviation appelé cloche. M'associant un temps avec Gabriel Voisin pour construire des avions, je réalise mon 1er exploit en volant à 20 m d'altitude sur un trajet de 14 km. Industriel et aviateur ayant été le 1er à traverser la Manche en aéroplane en 1909, je suis...
+culture_g_score: 80
+culture_g_justification: "La traversée de la Manche par Blériot est un grand classique reliant aviation, innovation, géographie et histoire contemporaine."
 ---
-
 ![Image de Louis Blériot](https://upload.wikimedia.org/wikipedia/commons/9/9c/Louis_Bleriot.jpg)
 
 ###### Questions

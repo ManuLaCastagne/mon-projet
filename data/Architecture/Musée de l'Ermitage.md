@@ -25,6 +25,8 @@ indice_6:
   - fleuve Neva
 questions:
   - Musée étranger dont le 1er bâtiment fut construit par le Français Vallin de la Mothe, je conserve notamment les 400 tableaux de la collection Crozat. Constitué sous l'impulsion d'une souveraine conseillée par Diderot, j'abrite le plus grand ensemble de peintures françaises hors de France. Musée comptant environ 350 salles...
+culture_g_score: 92
+culture_g_justification: "L’Ermitage est un musée mondial majeur, très rentable pour les questions d’art, de Russie, de collectionneurs et de patrimoine."
 ---
 Question : [[Musée étranger]] dont le 1er bâtiment fut construit par le [[Français]] [[Vallin de la Mothe]], je conserve notamment les 400 tableaux de la collection [[Crozat]]. Constitué sous l'impulsion d'une souveraine conseillée par [[Diderot]], j'abrite le plus grand ensemble de peintures françaises hors [[de France]]. Musée comptant environ 350 salles...
 

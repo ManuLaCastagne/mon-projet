@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Je réunis les personnages de Willow Rosenberg et Alexander Harris. Série avec Sarah Michelle Gellar qui incarne une lycéenne investie de la mission de débarrasser l'humanité des vampires.
  - Dans une série télé créée en 1997,  quelle jeune tueuse de vampires interprétée par Sarah Michelle Gellar ?
+culture_g_score: 96
+culture_g_justification: "Série culte et très transversale, régulièrement interrogée pour ses personnages, son univers fantastique, ses innovations narratives et son influence pop."
 ---
-
 ![Image de Buffy contre les vampires](https://upload.wikimedia.org/wikipedia/commons/a/a7/Torrance_First_Baptist_Church.jpg)
 
 ###### Questions

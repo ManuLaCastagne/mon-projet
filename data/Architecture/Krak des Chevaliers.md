@@ -23,8 +23,9 @@ indice_6 :
   - bastion défensif
 questions:
  - Quel ensemble fortifié de Syrie a été construit dès 1142 par l'ordre des chevaliers du Temple…
+culture_g_score: 64
+culture_g_justification: "Le Krak des Chevaliers est un exemple majeur d’architecture militaire des Croisades, mais reste moins fréquent que les grands monuments occidentaux."
 ---
-
 ![Image de Krak des Chevaliers](https://upload.wikimedia.org/wikipedia/commons/3/3b/Krak_des_Chevaliers_landscape_%28cropped%29.jpg)
 
 ###### Questions

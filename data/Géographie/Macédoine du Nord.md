@@ -22,8 +22,9 @@ indice_6 :
   - Pays des Balkans
 questions:
  - En 2019, pour régler un différend avec la Grèce et prétendre à l'adhésion à l'Union européenne, quel nom officiel la Macédoine a-t-elle pris?
+culture_g_score: 60
+culture_g_justification: "Pays balkanique régulièrement interrogé pour son changement de nom, son histoire yougoslave, Skopje et le lac Ohrid."
 ---
-
 ![Image de Macédoine du Nord](https://upload.wikimedia.org/wikipedia/commons/9/95/LL-Q150_%28fra%29-Didierwiki-Mac%C3%A9doine_du_Nord.wav)
 
 ![[Carte_Macédoine du Nord.png]]

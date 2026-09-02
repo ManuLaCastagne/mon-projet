@@ -20,8 +20,9 @@ indice_6 :
   - Né à Montpellier en 1753
 questions:
  - Ayant présidé l'Assemblée nationale sous la Convention, j'ai été choisi comme 2e consul par Napoléon Bonaparte, j'ai rédigé trois projets  de Code civil…
+culture_g_score: 68
+culture_g_justification: "Acteur majeur de la rédaction du Code civil et des institutions napoléoniennes, il est rentable pour l’histoire politique et juridique française."
 ---
-
 ![Image de Jean-Jacques-Régis de Cambacérès](https://upload.wikimedia.org/wikipedia/commons/4/4e/Jean-Jacques-R%C3%A9gis_de_Cambac%C3%A9r%C3%A8s.jpg)
 
 ###### Questions

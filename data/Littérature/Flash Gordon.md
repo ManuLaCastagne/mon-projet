@@ -22,7 +22,8 @@ indice_6 :
   - Alex Raymond créateur
 questions:
  - Quel héros d'une série de BD, créée en 1934 par Alex Raymond, est un pilote du futur également connu sous le nom de Guy l'Eclair en France ?
-culture_g_score: 67
+culture_g_score: 63
+culture_g_justification: "Héros fondateur de la bande dessinée de science-fiction, exploitable via les comics, les adaptations et son influence sur la culture populaire."
 ---
 ![Image de Flash Gordon](https://upload.wikimedia.org/wikipedia/commons/f/f4/Flash_Gordon_Strange_Adventures_December_1936.jpg)
 

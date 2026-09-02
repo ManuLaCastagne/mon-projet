@@ -20,8 +20,9 @@ indice_6 :
   - Evangile selon Luc
 questions:
  - Quel compagnon de Paul, auteur des Actes des Apôtres, privilégie dans le 3e Evangile le thème du renoncement à l'argent?
+culture_g_score: 80
+culture_g_justification: "Évangéliste, auteur traditionnel des Actes et patron des médecins, Saint-Luc revient dans plusieurs familles de questions classiques."
 ---
-
 ![Image de Saint-Luc](https://upload.wikimedia.org/wikipedia/commons/1/18/H%C3%B4tel_Weisshorn%2C_%282337m%29._Zicht_op_Saint-Luc_%281655m%29_in_Val_d%27Anniviers_01.JPG)
 
 ###### Questions

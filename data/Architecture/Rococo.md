@@ -23,8 +23,9 @@ indice_6 :
   - époque du XVIIIe siècle
 questions:
  - Architecture.  Quel mot dérivé de "rocaille" désigne le style en vogue au 18e  inspiré en partie du [[baroque]] italien ?
+culture_g_score: 80
+culture_g_justification: "Style artistique classique des quiz, reliant histoire de l'art, architecture, XVIIIe siècle, monarchie française et culture européenne."
 ---
-
 ![Image de Rococo](https://upload.wikimedia.org/wikipedia/commons/7/70/Rococo_Mirror_%28PSF%29.png)
 
 ###### Questions

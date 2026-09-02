@@ -19,8 +19,9 @@ indice_6:
   - Invasion russe en 2022
 questions:
   - n 2004, dans quel pays une élection contestée engendre-t-elle des manifestations populaires connues sous le nom de Révolution orange?
+culture_g_score: 100
+culture_g_justification: "L’Ukraine est un pays majeur des quiz contemporains et historiques, lié à Tchernobyl, à la Russie, à l’Europe orientale et aux conflits actuels."
 ---
-
 ![Image de Ukraine](https://upload.wikimedia.org/wikipedia/commons/9/96/Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg)
 
 ###### Questions

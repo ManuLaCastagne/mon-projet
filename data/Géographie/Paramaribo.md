@@ -22,8 +22,9 @@ indice_5 :
   - Hors des circuits touristiques classiques
 indice_6 : 
   - Située sur la côte nord-est de l'Amérique du Sud
+culture_g_score: 43
+culture_g_justification: "Capitale du Suriname permettant quelques questions sur l’Amérique du Sud néerlandophone, le patrimoine colonial et l’indépendance."
 ---
-
 ![Image de Paramaribo](https://upload.wikimedia.org/wikipedia/commons/d/de/Paramaribo_city_collage.png)
 
 ![[Carte_Paramaribo.png]]

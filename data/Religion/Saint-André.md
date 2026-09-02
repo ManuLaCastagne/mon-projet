@@ -20,9 +20,9 @@ indice_6 :
   - Évangile selon Jean
 questions:
  - Dans le Nouveau Testament, quel apôtre est l'un des 2 premiers à suivre Jésus, à qui il amène son frère Pierre?
+culture_g_score: 64
+culture_g_justification: "Apôtre lié à Pierre, à la croix en X et à l'Écosse, Saint-André fournit quelques repères classiques mais peu nombreux."
 ---
-
-
 ![Image de Saint-André](https://upload.wikimedia.org/wikipedia/commons/c/c9/Saint-Andr%C3%A9_en_Maurienne_un_matin_d%27hiver_%282020%29.JPG)
 
 ###### Questions

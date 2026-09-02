@@ -18,8 +18,9 @@ indice_6 :
   - île d'Erythie
 questions:
  - Au cours de l'un de ses travaux lui ayant permis de franchir l'océan, à quel géant Héraclès a-t-il dérobé un troupeau de boeufs?
+culture_g_score: 40
+culture_g_justification: "Adversaire d'Héraclès identifiable dans un seul de ses travaux, mais rarement prioritaire en culture générale."
 ---
-
 ![Image de Géryon](https://upload.wikimedia.org/wikipedia/commons/7/73/G%C3%A9ryon_%28L_1%29_-_2.JPG)
 
 ###### Questions

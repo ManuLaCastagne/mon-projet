@@ -22,8 +22,9 @@ indice_6 :
   - Rude Boy
 questions:
  - Connaissant le succès avec le single "Pon de replay", je m'impose avec mon 2e album, "A girl like me", qui contient les titre "S.O.S. et "Unfaithful".
+culture_g_score: 88
+culture_g_justification: "Vedette mondiale présente dans la musique, la mode, les affaires, la philanthropie et la culture populaire, avec de nombreux repères quiz."
 ---
-
 ![Image de Rihanna](https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png)
 
 ###### Questions

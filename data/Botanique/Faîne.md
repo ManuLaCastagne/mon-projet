@@ -15,8 +15,9 @@ indice_6 :
   - Utilisation  Aliment pour les animaux et anciennement pour l'huile
 questions:
  - Ressemblant à une petite châtaigne en forme de pyramide triangulaire, je suis contenu par un ou par 2 dans une cupule hérissée de piquants mous qui s'ouvre à maturité par 4 valves...
+culture_g_score: 40
+culture_g_justification: "Graine du hêtre pouvant apparaître dans une question de vocabulaire naturaliste, mais peu réutilisable."
 ---
-
 ![Image de Faîne](https://upload.wikimedia.org/wikipedia/commons/4/46/Faine_misto_2023.497.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Collaboration avec Vanessa Paradis
 questions:
  - Quel fils musicien a sorti 'Lady Luck' en 2015 ?
+culture_g_score: 28
+culture_g_justification: "Fils de Serge Gainsbourg connu surtout par sa filiation, mais sa carrière personnelle reste trop marginale pour un apprentissage prioritaire."
 ---
-
 ![Image de Lulu Gainsbourg]()
 
 ###### Questions

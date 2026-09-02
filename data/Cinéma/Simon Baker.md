@@ -19,8 +19,9 @@ indice_5:
   - Le Diable s'habille en Prada
 indice_6:
   - réalisateur de Breath
+culture_g_score: 56
+culture_g_justification: "Son rôle de Patrick Jane dans Mentalist est mémorable, mais sa portée culturelle reste surtout liée à une série."
 ---
-
 ![Image de Simon Baker](https://upload.wikimedia.org/wikipedia/commons/0/00/Simon_Baker_2013_4.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5 :
   - Thiérache
 indice_6 : 
   - Chemins des Dames
+culture_g_score: 47
+culture_g_justification: "Département français associé à Laon et à la Première Guerre mondiale, mais rarement prioritaire hors géographie nationale."
 ---
-
 ![[Carte_Aisne.png]]
 
 ###### Questions

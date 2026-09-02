@@ -22,8 +22,9 @@ indice_6 :
   - rencontre estivale
 questions:
  - En 2014, quel film d'Alain Guiraudi a permis à Pierre Deladonchamp de recevoir le césar du meilleur espoir ?
+culture_g_score: 51
+culture_g_justification: "Film d'auteur primé et discuté pour sa représentation de la sexualité, mais trop spécialisé pour une priorité généraliste."
 ---
-
 ![Image de L'Inconnu du Lac](https://upload.wikimedia.org/wikipedia/commons/d/df/L%27Inconnu_du_lac.jpg)
 
 ###### Questions

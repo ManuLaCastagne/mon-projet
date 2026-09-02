@@ -20,9 +20,9 @@ indice_5:
   - Opéra Garnier
 indice_6:
   - Galeries Lafayette
+culture_g_score: 44
+culture_g_justification: "Quartier parisien principalement identifié par l’église de la Madeleine et quelques commerces, avec une portée quiz limitée."
 ---
-
-
 ![[Carte_Quartier de la Madeleine.png]]
 
 ###### Questions

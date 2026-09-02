@@ -17,8 +17,9 @@ indice_5 :
   - Amour en zone de conflit
 indice_6 : 
   - Afrique subsaharienne
+culture_g_score: 23
+culture_g_justification: "Film peu mémorable et mal reçu, dont la présence en quiz généraliste demeure très improbable."
 ---
-
 ![Image de The Last Face]()
 
 ###### Questions

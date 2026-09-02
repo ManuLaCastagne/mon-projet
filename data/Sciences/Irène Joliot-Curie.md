@@ -20,8 +20,9 @@ indice_6 :
   - Sorbonne
 questions:
  - En 1935, quelle physicienne, fille de Pierre Curie et de Marie Curie, reçoit avec son mari le Nobel de chimie pour avoir découvert la radioactivité artificielle?
+culture_g_score: 80
+culture_g_justification: "Irène Joliot-Curie est rentable pour les questions sur la famille Curie, les Nobel, la radioactivité et l’histoire scientifique française."
 ---
-
 ![Image de Irène Joliot-Curie](https://upload.wikimedia.org/wikipedia/commons/3/3e/M%C3%A9morial_Ir%C3%A8ne_et_Fr%C3%A9d%C3%A9ric_Joliot-Curie_%28Ploubazlanec%29.jpg)
 
 ###### Questions

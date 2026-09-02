@@ -20,8 +20,9 @@ indice_6 :
   - Édom
 questions:
  - Quel personnage biblique vendit à son frère Jacob son droit d'aînesse...
+culture_g_score: 64
+culture_g_justification: "Personnage biblique mémorable par le plat de lentilles et son conflit avec Jacob, mais à la portée relativement circonscrite."
 ---
-
 ![Image de Esaü](https://upload.wikimedia.org/wikipedia/commons/4/47/Cast_Hall_Jacob_and_Esau_from_Ghiberti%27s_Gates_of_Paradise_%2895244%29.jpg)
 
 ###### Questions

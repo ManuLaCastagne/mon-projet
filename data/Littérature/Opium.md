@@ -22,8 +22,9 @@ indice_6 :
   - Drogue des artistes et écrivains
 questions:
  - En 2002, dans quel roman de Maxence Fermine un négociant se rend-il en Chine pour percer le secret de thés inconnus ?
+culture_g_score: 71
+culture_g_justification: "Substance à forte portée historique, coloniale, médicale et littéraire, mais dont les questions précises restent assez dispersées."
 ---
-
 ![Image de Opium](https://upload.wikimedia.org/wikipedia/commons/8/87/Opium_poppy.jpg)
 
 ###### Questions

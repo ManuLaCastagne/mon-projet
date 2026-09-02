@@ -18,8 +18,9 @@ indice_5 :
   - Tennis
 indice_6 : 
   - Grand Chelem
+culture_g_score: 60
+culture_g_justification: "Le plus long match de l’histoire de Wimbledon lui assure une bonne présence dans les quiz, malgré une notoriété plus limitée hors du tennis."
 ---
-
 ![Image de Nicholas Mahut](https://upload.wikimedia.org/wikipedia/commons/7/70/Mahut_RG16_%282%29_%2827331778371%29.jpg)
 
 ###### Questions

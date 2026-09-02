@@ -24,8 +24,9 @@ indice_6 :
   - 1er Arrondissement
 questions:
  - Dans quelle rue de Paris proche de la place de la Concorde Coco Chanel a-t-elle ouvert son premier magasin ?
+culture_g_score: 44
+culture_g_justification: "Adresse importante dans l'histoire de Chanel et de la mode, mais trop précise pour être souvent interrogée."
 ---
-
 ![[Carte_31 Rue Cambon.png]]
 
 ###### Questions

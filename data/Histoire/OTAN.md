@@ -20,11 +20,9 @@ indice_6 :
   - Pays membres majoritairement occidentaux
 questions:
  - En avril 1949, à quelle organisation, assurant aux Européens  l'alliance des Etats-Unis en cas d'agression ?
+culture_g_score: 100
+culture_g_justification: "Alliance militaire majeure de la guerre froide et de la géopolitique contemporaine, régulièrement interrogée sur ses membres, son traité et ses crises."
 ---
-
-
-
-
 ![Image de OTAN](https://upload.wikimedia.org/wikipedia/commons/c/c9/Nur_Otan_Astana.JPG)
 
 ###### Questions

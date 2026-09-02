@@ -21,9 +21,9 @@ indice_6:
 questions:
   - Miss Piggy ! Peggy, la cochonne,  la copine de Kermit la grenouille. Oui, c'est ça ! Personnage de cochonne aux yeux bleus du "Muppet Show".
   - Héroïne d'une série d'animation américaine. On m'a décerné, en 2015, le prix d'une fondation récompensant les femmes pionnières dans leur domaine. Doublée par Micheline Dax, je suis une marionnette.
+culture_g_score: 73
+culture_g_justification: "Personnage international emblématique des Muppets, fréquemment identifiable par Kermit, Frank Oz et ses apparitions à l’écran."
 ---
-
-
 ![Image de Piggy la cochonne](https://upload.wikimedia.org/wikipedia/commons/8/8c/Call_her_MISS_Piggy_%2837318368150%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - Les Aventures de Tintin  Le Secret de La Licorne
 questions:
   - En 2012, quel comédien et humoriste incarne un directeur de banque  sans scrupules, dans le film "Le Capital" de Costa-Gavras?
+culture_g_score: 73
+culture_g_justification: "Personnalité très connue de l'humour francophone, exploitable par ses spectacles, ses films, ses rôles et ses origines."
 ---
-
 ![Image de Gad Elmaleh](https://upload.wikimedia.org/wikipedia/commons/2/2d/Gad_Elmaleh_Cannes_2019.jpg)
 
 ###### Questions

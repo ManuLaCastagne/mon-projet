@@ -22,8 +22,9 @@ indice_6 :
   - roman maritime
 questions:
  - En 1849, quel écrivain américain, créateur du personnage du capitaine Achab qui évoque un archipel imaginaire dans son roman intitulé "Mardi" ?
+culture_g_score: 80
+culture_g_justification: "Auteur majeur de la littérature américaine, principalement associé à Moby-Dick mais aussi à Bartleby, à la mer et à la modernité littéraire."
 ---
-
 ![Image de Herman Melville](https://upload.wikimedia.org/wikipedia/commons/e/e8/Herman_Melville_by_Joseph_O_Eaton.jpg)
 
 ###### Questions

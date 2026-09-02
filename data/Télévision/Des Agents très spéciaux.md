@@ -20,8 +20,9 @@ indice_6 :
   - Robert Vaughn
 questions:
  - A quelle série d'espionnage, intitulée à l'origine "The Man from UNCLE" associe-t-on les agents Napoléon Solo et Illya Kuryakin?
+culture_g_score: 52
+culture_g_justification: "Série d’espionnage classique liée à la Guerre froide, mais moins fréquente que les grandes séries américaines emblématiques."
 ---
-
 ![Image de Des Agents très spéciaux](https://upload.wikimedia.org/wikipedia/commons/a/a4/Man_From_UNCLE_David_Mc_Callum.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Life's Too Good
 indice_6 : 
   - Alternative rock
+culture_g_score: 40
+culture_g_justification: "Groupe islandais important pour les débuts de Björk, mais rarement prioritaire dans un entraînement généraliste."
 ---
-
 ![Image de The Sugarcubes](https://upload.wikimedia.org/wikipedia/commons/2/27/Early_Bj%C3%B6rk_-_cropped.jpg)
 
 ###### Questions

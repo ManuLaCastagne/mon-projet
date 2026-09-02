@@ -24,8 +24,9 @@ indice_6 :
   - petite superficie
 questions:
  - Quelle île, fermant la rade de Dakar, a été inscrite au patrimoine mondial de l'Unesco en mémoire de son passé d'ancien centre de la traite d'esclaves ?
+culture_g_score: 64
+culture_g_justification: "Lieu majeur de mémoire de la traite atlantique, régulièrement associé à Dakar, à l’UNESCO et à l’histoire africaine."
 ---
-
 ![Image de Île de Gorée](https://upload.wikimedia.org/wikipedia/commons/4/4c/%C3%8Ele_De_Gor%C3%A9e_02.jpg)
 
 ![[Carte_Île de Gorée.png]]

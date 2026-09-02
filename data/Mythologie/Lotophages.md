@@ -18,10 +18,9 @@ indice_6:
   - peuple mythique
 questions:
   - Quel peuple, ayant donné asile à Ulysse et ses compagnons, leur offre le lotus...
+culture_g_score: 57
+culture_g_justification: "Les Lotophages sont un épisode identifiable de l’Odyssée, principalement utile pour le thème de l’oubli et des rencontres d’Ulysse."
 ---
-
-
-
 ![Image de Lotophages](https://upload.wikimedia.org/wikipedia/commons/2/26/Lotus-eaters.png)
 
 ###### Questions

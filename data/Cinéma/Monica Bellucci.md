@@ -22,8 +22,9 @@ indice_6 :
   - Actrice et mannequin
 questions:
  - Quelle actrice italienne, née en 1964 dans la région de Pérouse, s'est fait connaître en France avec des films comme "Doberman" et "Irréversible" ?
+culture_g_score: 64
+culture_g_justification: "Actrice internationale reconnaissable grâce à Malèna, Matrix et James Bond, avec une fréquence correcte mais une importance culturelle modérée."
 ---
-
 ![Image de Monica Bellucci](https://upload.wikimedia.org/wikipedia/commons/3/31/Monica_Bellucci%2C_Women%27s_World_Awards_2009_b.jpg)
 
 ###### Questions

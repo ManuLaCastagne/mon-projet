@@ -20,8 +20,9 @@ indice_6 :
   - persécution des protestants
 questions:
  - Quelle fille d'Henri VIII et cousine de Charles Quint, surnommée la Sanglante fut la 1re femme couronnée reine d'Angleterre ?
+culture_g_score: 80
+culture_g_justification: "Marie la Sanglante est un repère fréquent sur les Tudor, les conflits religieux et les relations anglo-espagnoles."
 ---
-
 ![Image de Marie Tudor](https://upload.wikimedia.org/wikipedia/commons/d/da/Marie_Tudor_Garland_with_Hope%2C_her_daughter.jpg)
 
 ###### Questions

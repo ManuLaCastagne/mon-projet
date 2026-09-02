@@ -18,8 +18,9 @@ indice_5 :
   - psychologie de l'enfant
 indice_6 : 
   - QI (Quotient Intellectuel)
+culture_g_score: 40
+culture_g_justification: "Sa collaboration avec Binet est significative en psychologie, mais constitue presque son unique point d'entrée généraliste."
 ---
-
 ![Image de Théodore Simon](https://upload.wikimedia.org/wikipedia/commons/b/be/Theodore_Simon_ACERVO_CDPHA.jpg)
 
 ###### Questions

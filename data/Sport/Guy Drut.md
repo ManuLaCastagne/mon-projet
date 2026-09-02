@@ -20,8 +20,9 @@ indice_6 :
   - France
 questions:
  - En 1976, quel athlète français devient le 1er Européen à être sacré champion olympique sur 110 m haies ?
+culture_g_score: 60
+culture_g_justification: "Champion olympique français et ancien responsable sportif, utile pour des questions d'athlétisme, de politique sportive et de Jeux de Montréal."
 ---
-
 ![Image de Guy Drut](https://upload.wikimedia.org/wikipedia/commons/1/11/Guy_Drut_1972.JPG)
 
 ###### Questions

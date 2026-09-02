@@ -21,9 +21,9 @@ indice_5:
   - Frédéric II et Christian IV
 indice_6:
   - riche décoration intérieure
+culture_g_score: 47
+culture_g_justification: "Palais danois majeur de la Renaissance, mais peu fréquent dans les quiz francophones en dehors de la culture nordique."
 ---
-
-
 ![Image de Château de Frederiksborg](https://upload.wikimedia.org/wikipedia/commons/6/62/Commission_scientifique_du_Nord_-_A._Mayer_-_Ch%C3%A2teau_de_Frederiksborg_%28vue_ouest%29.jpg)
 
 ###### Questions

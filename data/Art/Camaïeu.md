@@ -23,8 +23,9 @@ indice_6 :
   - Claude Monet
 questions:
  - En art, quel type de peinture, où l'on n'emploie qu'une seule couleur avec des tons différents, devrait son nom à l'arabe signifiant bourgeon?
+culture_g_score: 52
+culture_g_justification: "Technique picturale utile pour le vocabulaire artistique, mais peu souvent posée comme réponse précise dans les quiz généralistes."
 ---
-
 ![Image de Camaïeu](https://upload.wikimedia.org/wikipedia/commons/3/33/Angers_-_44b_boulevard_du_Mar%C3%A9chal_Foch_-_Cama%C3%AFeu_-_20230209_%281%29.jpg)
 
 ###### Questions

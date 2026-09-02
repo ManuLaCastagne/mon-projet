@@ -20,8 +20,9 @@ indice_5 :
   - océan Pacifique
 indice_6 : 
   - Betio
+culture_g_score: 40
+culture_g_justification: "Capitale et atoll du Pacifique liés à une bataille de 1943, mais demeurant très spécialisés en géographie."
 ---
-
 ![Image de Tarawa-Sud](https://upload.wikimedia.org/wikipedia/commons/8/8b/Teaoraereke%2C_South_Tarawa%2C_Kiribati.jpg)
 
 ![[Carte_Tarawa-Sud.png]]

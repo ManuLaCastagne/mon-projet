@@ -20,8 +20,9 @@ indice_6 :
   - scandales et secrets de famille
 questions:
  - Dans quelle saga télévisée diffusée pour la 1re fois le 4 janvier 1985, Chantal Nobel incarnait l'avocate Florence Berg, dont la famille s'oppose à la famille Kovalic ?
+culture_g_score: 56
+culture_g_justification: "Feuilleton français marquant des années 1980, mais aujourd’hui nettement moins présent que Dallas dans les quiz."
 ---
-
 ![Image de Châteauvallon](https://upload.wikimedia.org/wikipedia/commons/2/20/Amphith%C3%A9%C3%A2tre_de_Ch%C3%A2teauvallon%2C_vue_des_gradins.jpg)
 
 ###### Questions

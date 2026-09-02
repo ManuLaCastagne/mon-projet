@@ -22,8 +22,9 @@ indice_6 :
   - Nicolas
 questions:
  - Dans le tube de 76, quelle chanteuse pose la question  "Qu'est-ce qui fait pleurer les blondes"?
+culture_g_score: 80
+culture_g_justification: "Grande figure du yé-yé et de la chanson française, reliée à de nombreux artistes, émissions et succès."
 ---
-
 ![Image de Sylvie Vartan](https://upload.wikimedia.org/wikipedia/commons/b/bb/Vartan-Quaisse0847.jpg)
 
 ###### Questions

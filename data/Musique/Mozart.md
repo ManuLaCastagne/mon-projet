@@ -22,8 +22,9 @@ indice_6 :
   - Opéra de Vienne
 questions:
  - De 1782 à 1785, en écho à l'oeuvre de Joseph Haydn, qui était son ami, quel compositeur, né à Salzbourg, lui a dédié 6 quatuors?
+culture_g_score: 100
+culture_g_justification: "Compositeur universellement incontournable, permettant des questions sur le classicisme, les opéras, les œuvres, l’Europe et la biographie musicale."
 ---
-
 ![Image de Mozart](https://upload.wikimedia.org/wikipedia/commons/9/99/Wolfgang_Amadeus_Mozart_-_Symphony_40_g-moll_-_1._Molto_allegro.ogg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - début du XXe siècle
 questions:
  - Quel recueil de souvenirs  de Marcel Pagnol débute par  "Je suis né dans la ville d'Aubagne, sous le..."
+culture_g_score: 80
+culture_g_justification: "Classique autobiographique de Pagnol, il est fréquemment interrogé avec la Provence, l’enfance, le cinéma et les Souvenirs d’enfance."
 ---
-
 ![Image de La Gloire de mon Père](https://upload.wikimedia.org/wikipedia/commons/2/23/Restif_de_la_Bretonne_-_La_Vie_de_mon_p%C3%A8re%2C_%C3%A9d._d%E2%80%99Alm%C3%A9ras.djvu)
 
 ###### Questions

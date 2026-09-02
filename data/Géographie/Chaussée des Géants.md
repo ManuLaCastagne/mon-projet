@@ -20,8 +20,9 @@ indice_5:
   - causeway en anglais
 indice_6:
   - légende de Finn McCool
+culture_g_score: 77
+culture_g_justification: "Site naturel emblématique, régulièrement interrogé via l’Irlande du Nord, le volcanisme, l’UNESCO et la légende de Finn McCool."
 ---
-
 ![Image de Chaussée des Géants](https://upload.wikimedia.org/wikipedia/commons/d/d5/Giant%27s_Causeway_%2814%29.JPG)
 
 ![[Carte_Chaussée des Géants.png]]

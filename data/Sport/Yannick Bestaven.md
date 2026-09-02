@@ -20,8 +20,9 @@ indice_6 :
   - Voile
 questions:
  - En janvier dernier, quel marin a remporté pour la 1re fois la course à la voile autour du monde en solitaire du Vendée Globe? Il a franchi la ligne en 3e position derrière Charlie Dalin et Louis Burton mais grâce à la bonification. Il s'était détourné pour secourir Kevin Escoffier, il a eu une bonification de 10h15 et il a gagné la course.
+culture_g_score: 57
+culture_g_justification: "Vainqueur récent du Vendée Globe, régulièrement cité dans l’actualité sportive mais encore peu transversal."
 ---
-
 ![Image de Yannick Bestaven](https://upload.wikimedia.org/wikipedia/commons/0/05/Yannick_Bestaven.jpg)
 
 ###### Questions

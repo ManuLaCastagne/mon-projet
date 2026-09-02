@@ -20,9 +20,9 @@ indice_5 :
   - Née à Lille
 indice_6 : 
   - En scène dès l'adolescence
+culture_g_score: 47
+culture_g_justification: "Actrice française reconnue et césarisée, mais dont les références restent moins nombreuses et moins incontournables pour un généraliste."
 ---
-
-
 ![Image de Anaïs Demoustier](https://upload.wikimedia.org/wikipedia/commons/3/3e/Ana%C3%AFs_Demoustier_Cabourg_2018_%28cropped%29.jpg)
 
 ###### Questions

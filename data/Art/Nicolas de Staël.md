@@ -20,13 +20,9 @@ indice_5:
   - mort en 1955
 indice_6:
   - Le Concert
+culture_g_score: 52
+culture_g_justification: "Nicolas de Staël est un peintre important du XXe siècle, mais sa présence en quiz reste limitée à l'art moderne et à quelques œuvres."
 ---
-
-
-
-
-
-
 ![Image de Nicolas de Staël](https://upload.wikimedia.org/wikipedia/commons/7/70/Photographie_de_Nicolas_de_Sta%C3%ABl.jpg)
 
 ###### Questions

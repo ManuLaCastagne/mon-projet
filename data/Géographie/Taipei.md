@@ -22,8 +22,9 @@ indice_5 :
   - Musée national du Palais
 indice_6 : 
   - Chiang Kai-shek Memorial Hall
+culture_g_score: 80
+culture_g_justification: "Grande capitale asiatique, utile pour Taïwan, Taipei 101, la technologie, la géopolitique et la culture chinoise."
 ---
-
 ![Image de Taipei](https://upload.wikimedia.org/wikipedia/commons/e/e4/1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg)
 
 ![[Carte_Taipei.png]]

@@ -20,10 +20,9 @@ indice_5:
   - Kubilai Khan
 indice_6:
   - Le Devisement du Monde
+culture_g_score: 100
+culture_g_justification: "Explorateur universellement célèbre, mobilisable pour l’histoire médiévale, la Chine, la route de la soie, Venise et les récits de voyage."
 ---
-
-
-
 ![Image de Marco Polo](https://upload.wikimedia.org/wikipedia/commons/4/44/MarcoPoloStatueInHangzhou.JPG)
 
 ###### Questions

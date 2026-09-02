@@ -23,9 +23,9 @@ indice_6 :
   - Impressionnisme
 questions:
  - Dont les longues feuilles pointues...
+culture_g_score: 77
+culture_g_justification: "Œuvre très célèbre de van Gogh, régulièrement associée à son séjour à Saint-Rémy, à la couleur, aux fleurs et aux records de vente."
 ---
-
-
 ![Image de Les Iris](https://upload.wikimedia.org/wikipedia/commons/0/03/Verschiedenfarbige_Schwertlilie_%28Iris_versicolor%29-20200603-RM-100257.jpg)
 
 ###### Questions

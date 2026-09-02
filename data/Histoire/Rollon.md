@@ -20,8 +20,9 @@ indice_6 :
   - premier duc
 questions:
  - En 911, à Saint-Clair-sur-Epte, à quel chef viking Charles le Simple abandonne-t-il la région de Rouen, Evreux et Lisieux?
+culture_g_score: 76
+culture_g_justification: "Fondateur traditionnel de la Normandie, il relie histoire viking, monarchie capétienne, traité de Saint-Clair-sur-Epte et histoire régionale."
 ---
-
 ![Image de Rollon](https://upload.wikimedia.org/wikipedia/commons/4/49/Croix_Rollon_Heuland.JPG)
 
 ###### Questions

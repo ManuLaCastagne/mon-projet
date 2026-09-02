@@ -20,8 +20,9 @@ indice_5:
   - Yves Robert
 indice_6:
   - Amour et tromperies
+culture_g_score: 73
+culture_g_justification: "Comédie française populaire liée à Yves Robert, à son quatuor d’acteurs et à la crise de la quarantaine, ce qui la rend souvent exploitable."
 ---
-
 ![[Pasted image 20250503232734.png]]
 ###### Questions
 

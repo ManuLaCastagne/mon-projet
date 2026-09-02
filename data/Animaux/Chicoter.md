@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la forêt dense
 questions:
  - Quel verbe signifie pousser son cri en parlant de la souris?
+culture_g_score: 27
+culture_g_justification: "La guifette noire, identifiée ici par le contexte, est un oiseau peu connu et rarement mobilisé dans les quiz généralistes."
 ---
-
 ![Image de Chicoter](https://upload.wikimedia.org/wikipedia/commons/6/6c/LL-Q150_%28fra%29-Lyoko%C3%AF-chicoter.wav)
 
 ###### Questions

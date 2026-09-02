@@ -22,8 +22,9 @@ indice_6 :
   - mystérieuse soirée masquée
 questions:
  - En 1999, dans quel film de Kubrick Tom Cruise se déguise-t-il dans un lieu secret ?
+culture_g_score: 80
+culture_g_justification: "Dernier film de Kubrick, associé à Tom Cruise, Nicole Kidman, Schnitzler et une production particulièrement célèbre."
 ---
-
 ![Image de Eyes Wide Shut](https://upload.wikimedia.org/wikipedia/commons/d/da/Eyes_wide_shut_logo.jpg)
 
 ###### Questions

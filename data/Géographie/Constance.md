@@ -25,8 +25,9 @@ indice_6 :
   - climats
 questions:
  - Quelle ville constitue une enclave allemande sur la rive suisse du lac du Meinau appelé "Bodensee" en allemand ?
+culture_g_score: 52
+culture_g_justification: "Ville allemande et lac transfrontalier fournissent quelques repères européens, mais le sujet précis reste relativement secondaire."
 ---
-
 ![Image de Constance](https://upload.wikimedia.org/wikipedia/commons/e/e3/Lindau_Harbor_Lake_Constance_MS_Schwaben_01.jpg)
 
 ![[Carte_Constance.png]]

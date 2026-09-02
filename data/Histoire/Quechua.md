@@ -18,8 +18,9 @@ indice_5:
   - empire sud-américain
 indice_6:
   - textiles colorés
+culture_g_score: 64
+culture_g_justification: "Langue clé pour les questions sur les Incas et les cultures andines, encore parlée dans plusieurs pays."
 ---
-
 ![Image de Quechua](https://upload.wikimedia.org/wikipedia/commons/7/7c/Comparsa_mixta_copleando_en_quechua_y_espa%C3%B1ol.wav)
 
 ###### Questions

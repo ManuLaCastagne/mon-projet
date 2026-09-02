@@ -24,9 +24,9 @@ indice_6 :
   - frontière franco-belge
 questions:
  - Quel département de la région Grand Est abrite la commune de Sy, située à 30 km de Sedan ?
+culture_g_score: 60
+culture_g_justification: "Territoire franco-belge associé à la forêt, à la Meuse et à plusieurs épisodes militaires, mais d’importance modérée."
 ---
-
-
 ![Image de Ardennes](https://upload.wikimedia.org/wikipedia/commons/6/6d/Ardennais_-_dialecte_de_transition.png)
 
 ![[Carte_Ardennes.png]]

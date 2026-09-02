@@ -20,8 +20,9 @@ indice_6 :
   - Can-Am Series
 questions:
  - Quel coureur automobile néo-zélandais, vice-champion du monde en 1963...
+culture_g_score: 72
+culture_g_justification: "Pilote et fondateur de McLaren, il relie Formule 1, ingénierie, entrepreneuriat et histoire du sport automobile."
 ---
-
 ![Image de Bruce McLaren](https://upload.wikimedia.org/wikipedia/commons/c/cc/McLarenBruce19690801.jpg)
 
 ###### Questions

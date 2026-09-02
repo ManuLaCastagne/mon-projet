@@ -20,8 +20,9 @@ indice_6 :
   - rançon en or
 questions:
  - Que signifie l'exclamation latine "Vae Victis" lancée par le chef gaulois Brennus au moment où il négocie en vainqueur le départ de son armée de Rome ?
+culture_g_score: 60
+culture_g_justification: "Expression latine classique associée au sac de Rome, mais généralement limitée à quelques questions historiques ou linguistiques."
 ---
-
 ![Image de Malheur aux vaincus](https://upload.wikimedia.org/wikipedia/commons/7/75/Th%C3%A9odore_Barri%C3%A8re-_Malheur_aux_vaincus-_com%C3%A9die_en_5_actes_en_prose_avec_une_pr%C3%A9face_pi%C3%A8ce_..._%28IA_thodorebarrirem00barrgoog%29.pdf)
 
 ###### Questions

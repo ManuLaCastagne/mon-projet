@@ -22,8 +22,9 @@ indice_5 :
   - centre administratif et politique
 indice_6 : 
   - grand projet de modernisation infrastructurelle
+culture_g_score: 40
+culture_g_justification: "Capitale nationale pouvant tomber dans des questions de géographie africaine, mais nettement moins connue et récurrente que Dar es Salaam."
 ---
-
 ![Image de Dodoma](https://upload.wikimedia.org/wikipedia/commons/6/69/Dodoma_City_Flag.png)
 
 ![[Carte_Dodoma.png]]

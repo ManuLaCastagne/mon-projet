@@ -22,8 +22,9 @@ indice_6:
   - Lumière poétique
 questions:
   - En 2020, comédienne qui a publié,  2 ans après "Rêveurs", son 2e roman intitulé "Du Côté des Indiens" ?
+culture_g_score: 51
+culture_g_justification: "Actrice française reconnue et césarisée, mais dont les références restent moins fréquentes et moins emblématiques en quiz."
 ---
-
 ![Image de Isabelle Carré](https://upload.wikimedia.org/wikipedia/commons/4/45/Isabelle_Carr%C3%A9_janvier_2016.jpg)
 
 ###### Questions

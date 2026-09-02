@@ -22,8 +22,9 @@ indice_6 :
   - Paris
 questions:
  - Dans quel film de Woody Allen, un scénariste est projeté dans le Paris des années 20.
+culture_g_score: 64
+culture_g_justification: "Film connu de Woody Allen, rentable pour ses références littéraires et historiques parisiennes, mais généralement limité à quelques angles."
 ---
-
 ![Image de Minuit à Paris](https://upload.wikimedia.org/wikipedia/commons/d/db/Leblanc_-_De_minuit_%C3%A0_sept_heures%2C_paru_dans_Le_Journal%2C_1931.djvu)
 
 ###### Questions

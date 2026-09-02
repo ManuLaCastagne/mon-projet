@@ -13,8 +13,9 @@ indice_5:
   - Arbre de la mort
 indice_6:
   - Utilisé pour son bois en ébénisterie et en sculpture
+culture_g_score: 63
+culture_g_justification: "L’if est utile pour ses propriétés toxiques, son histoire, son bois et ses symboliques funéraires."
 ---
-
 ![Image de If](https://upload.wikimedia.org/wikipedia/commons/d/da/Intermittent_Fasting_01.svg)
 
 ###### Questions

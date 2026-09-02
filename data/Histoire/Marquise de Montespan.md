@@ -20,6 +20,8 @@ indice_6 :
   - née Françoise Athénaïs de Rochechouart de Mortemart
 questions:
  - En 1680, quelle marquise, favorite officielle de Louis XIV, est célèbre pour sa beauté et son esprit, est nommé surintendante de la maison de la Reine ?
+culture_g_score: 60
+culture_g_justification: "Favorite de Louis XIV associée à Versailles, à l’affaire des Poisons et à Maintenon, mais d’importance plus secondaire."
 ---
 ![Image de Marquise de Montespan](https://upload.wikimedia.org/wikipedia/commons/d/d2/Madame_de_Montespan_Pierre_Mignard_Studio.JPG)
 ###### Questions

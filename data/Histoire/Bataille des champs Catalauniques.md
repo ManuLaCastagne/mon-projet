@@ -20,8 +20,9 @@ indice_6 :
   - alliance romaine-germainique
 questions:
  - Lors de quelle bataille les Huns ont-ils été vaincus par les Romains alliés aux Wisigoths ?
+culture_g_score: 64
+culture_g_justification: "Affrontement classique de l’Antiquité tardive, utile pour Attila, les Huns et la fin de l’Empire romain d’Occident."
 ---
-
 ![Image de Bataille des champs Catalauniques](https://upload.wikimedia.org/wikipedia/commons/b/b0/Bataille_des_champs_Catalauniques_sr.svg)
 
 ###### Questions

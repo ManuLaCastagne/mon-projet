@@ -22,8 +22,9 @@ indice_6 :
   - roman publié en 1985
 questions:
  - En 1981, quel écrivain allemand a écrit la pièce "La contrebasse" ?
+culture_g_score: 77
+culture_g_justification: "Le Parfum est un repère littéraire international très fréquent, complété par une pièce et des adaptations célèbres."
 ---
-
 ![Image de Patrick Suskind](https://upload.wikimedia.org/wikipedia/commons/9/92/De-Patrick_S%C3%BCskind.ogg)
 
 ###### Questions

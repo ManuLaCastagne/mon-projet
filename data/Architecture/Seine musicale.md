@@ -22,10 +22,9 @@ indice_5:
   - auditorium
 indice_6:
   - Hauts-de-Seine
+culture_g_score: 32
+culture_g_justification: "Équipement culturel parisien récent, surtout susceptible d’une question ponctuelle sur son architecture ou sa localisation."
 ---
-
-
-
 ![Image de Seine musicale](https://upload.wikimedia.org/wikipedia/commons/8/88/La_Seine_musicale%2C_staircase.jpg)
 
 ###### Questions

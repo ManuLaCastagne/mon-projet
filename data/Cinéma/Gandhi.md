@@ -21,8 +21,9 @@ indice_6:
   - Mahatma Gandhi
 questions:
   - En 1983, dans quelle fresque historique, réalisée par Richard Attenborough, Ben Kingsley interprète-t-il le rôle-titre?
+culture_g_score: 80
+culture_g_justification: "Biopic oscarisé sur une figure historique mondiale, permettant des questions croisées sur Gandhi, Attenborough, Kingsley et les Oscars."
 ---
-
 ![Image de Gandhi](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg)
 
 ###### Questions

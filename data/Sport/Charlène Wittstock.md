@@ -18,8 +18,9 @@ indice_5 :
   - Albert II de Monaco
 indice_6 : 
   - Backstroke
+culture_g_score: 64
+culture_g_justification: "Son statut de princesse de Monaco assure une notoriété élevée, tandis que sa carrière de nageuse fournit quelques questions sportives."
 ---
-
 ![Image de Charlène Wittstock](https://upload.wikimedia.org/wikipedia/commons/8/8f/Charlene%2C_Princess_of_Monaco-4.jpg)
 
 ###### Questions

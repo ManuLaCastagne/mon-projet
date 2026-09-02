@@ -20,8 +20,9 @@ indice_6 :
   - Éxécution en 1918
 questions:
  - Sous quel nom connaît-on mieux la princesse Alice de Hesse-Darmstadt, épouse de Nicolas II?
+culture_g_score: 60
+culture_g_justification: "Épouse de Nicolas II et dernière impératrice russe, elle revient dans les questions sur les Romanov et la révolution de 1917, sans grande transversalité."
 ---
-
 ![Image de Alexandra Fedorovna](https://upload.wikimedia.org/wikipedia/commons/e/ed/Alexandra_Fedorovna_by_A.V._Makovskiy_%281914%2C_GIM%29_2.JPG)
 
 ###### Questions

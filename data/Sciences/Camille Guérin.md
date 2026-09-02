@@ -18,8 +18,9 @@ indice_5 :
   - Vaccination
 indice_6 : 
   - Immunologiste
+culture_g_score: 48
+culture_g_justification: "Co-inventeur du BCG, Camille Guérin est utile pour l’histoire de la médecine, mais reste moins connu que Calmette ou Pasteur."
 ---
-
 ![Image de Camille Guérin](https://upload.wikimedia.org/wikipedia/commons/6/67/Camille_Gu%C3%A9rin.jpg)
 
 ###### Questions

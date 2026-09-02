@@ -18,8 +18,9 @@ indice_5:
   - Extase mystique
 indice_6:
   - Réformatrice de l'ordre carmélitain
+culture_g_score: 72
+culture_g_justification: "Réformatrice du Carmel, mystique et auteure du Château intérieur, Thérèse d’Avila est une référence solide en religion, littérature et art."
 ---
-
 ![Image de Sainte-Thérèse-d'Avila](https://upload.wikimedia.org/wikipedia/commons/1/1d/%28Albi%29_Coll%C3%A9giale_Saint-Salvy_-_Statue_de_sainte_Th%C3%A9r%C3%A8se_d%27Avila_PalissyPM81000455.jpg)
 
 ###### Questions

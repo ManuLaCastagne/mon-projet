@@ -18,9 +18,9 @@ indice_5:
   - mai-juin 1940
 indice_6:
   - bataille contre l'Allemagne nazie
+culture_g_score: 97
+culture_g_justification: "Ville associée à l’opération Dynamo, à la bataille de France et à un film célèbre, avec une fréquence très élevée dans les quiz historiques."
 ---
-
-
 ![Image de Dunkerque](https://upload.wikimedia.org/wikipedia/commons/0/08/Panorama_Dunkerque_7601-07.jpg)
 
 ###### Questions

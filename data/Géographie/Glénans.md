@@ -21,9 +21,9 @@ indice_5:
   - îles
 indice_6:
   - stages
+culture_g_score: 59
+culture_g_justification: "Archipel breton associé à une célèbre école de voile, mais dont les usages en quiz restent principalement géographiques et nautiques."
 ---
-
-
 ![Image de Glénans](https://upload.wikimedia.org/wikipedia/commons/3/34/%22Cadillac%22_des_Gl%C3%A9nans.jpg)
 
 ![[Carte_Glénans.png]]

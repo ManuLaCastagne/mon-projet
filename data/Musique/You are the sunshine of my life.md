@@ -22,8 +22,9 @@ indice_6 :
   - tube emblématique
 questions:
  - En 1973, quelle chanson d'amour reprise par Sacha Distel, Stevie Wonder dédie-t-il à son épouse, Syretta Wright?
+culture_g_score: 77
+culture_g_justification: "Grand classique de Stevie Wonder, associé à Talking Book, aux Grammy et à la soul-pop internationale."
 ---
-
 ![Image de You are the sunshine of my life](https://upload.wikimedia.org/wikipedia/commons/d/d5/You_are_the_sunshine_of_my_life.ogg)
 
 ###### Questions

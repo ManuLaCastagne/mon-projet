@@ -18,8 +18,9 @@ indice_5 :
   - Folk Rock
 indice_6 : 
   - Déjà Vu
+culture_g_score: 80
+culture_g_justification: "Supergroupe emblématique du folk rock, associé à Woodstock, à plusieurs albums célèbres et à des événements historiques comme Kent State."
 ---
-
 ![Image de Crosby, Stills, Nash & Young](https://upload.wikimedia.org/wikipedia/commons/4/4c/Woodstock_by_crosby_stills_nash_young_US_single_variant_A.png)
 
 ###### Questions

@@ -17,8 +17,9 @@ indice_5:
   - Second Empire
 indice_6:
   - Perspectives urbaines
+culture_g_score: 80
+culture_g_justification: "Haussmann est une référence majeure pour comprendre la transformation de Paris, avec des liens fréquents vers Napoléon III, l’urbanisme et l’architecture."
 ---
-
 ![Image de Haussmann](https://upload.wikimedia.org/wikipedia/commons/3/3f/Haussmann_BNF_Gallica.jpg)
 
 ###### Questions

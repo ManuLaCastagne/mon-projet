@@ -22,8 +22,9 @@ indice_6 :
   - César du meilleur acteur
 questions:
  - Quel comédien, disparu en 2006, retrouve-t-on à l'affiche des films "Masques", "Le Vieux Fusil" ou "L'Horloger de Saint-Paul" ?
+culture_g_score: 80
+culture_g_justification: "Acteur français majeur, présent dans de nombreux classiques et dans Cinéma Paradiso, offrant plusieurs entrées par les César, le théâtre et le cinéma européen."
 ---
-
 ![Image de Philippe Noiret](https://upload.wikimedia.org/wikipedia/commons/9/9f/Philippe_Noiret_Cannes_1989_cropped.jpg)
 
 ###### Questions

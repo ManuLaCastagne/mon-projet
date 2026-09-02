@@ -21,8 +21,9 @@ indice_5 :
   - Indre-et-Loire
 indice_6 : 
   - Renaissance française
+culture_g_score: 60
+culture_g_justification: "Château de la Loire classique des quiz, identifiable par ses jardins, son architecture Renaissance et son patrimoine."
 ---
-
 ![[Carte_Villandry.png]]
 
 ###### Questions

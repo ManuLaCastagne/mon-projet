@@ -20,8 +20,9 @@ indice_6 :
   - Tahuantinsuyu
 questions:
  - Ecroulé en 1532 sous les coups du conquistador espagnol Francisco Pizarro. Empire de l'Amérique précolombienne dont le centre était Cuzco, je suis…
+culture_g_score: 92
+culture_g_justification: "Grande civilisation andine associée à Cusco, Machu Picchu, ses routes et la conquête de Pizarro."
 ---
-
 ![Image de Empire inca](https://upload.wikimedia.org/wikipedia/commons/2/26/Spanish_and_inca_empires_by_1531.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Inspiré par les voyages
 questions:
  - Quel écrivain auteur de 'l'homme pressé' disait de Coco (dessinatrice) qu'elle était l'ange exterminateur d'un style Culture_G/XIXe ?
+culture_g_score: 51
+culture_g_justification: "Écrivain et diplomate important des années 1920, mais son œuvre et son parcours restent des connaissances secondaires."
 ---
-
 ![Image de Paul Morand](https://upload.wikimedia.org/wikipedia/commons/0/01/Paul_Morand.jpg)
 
 ###### Questions

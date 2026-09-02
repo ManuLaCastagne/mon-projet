@@ -23,8 +23,9 @@ indice_6 :
   - blanc éclatant
 questions:
  - Couturier français qui révolutionne  la mode avec un style futuriste.
+culture_g_score: 60
+culture_g_justification: "Couturier français emblématique de la mode futuriste des années 1960, avec une présence correcte mais limitée dans les quiz généralistes."
 ---
-
 ![Image de André Courrèges](https://upload.wikimedia.org/wikipedia/commons/8/82/Andr%C3%A9_Courr%C3%A8ges.jpg)
 
 ###### Questions

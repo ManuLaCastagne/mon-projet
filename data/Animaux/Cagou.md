@@ -15,9 +15,9 @@ indice_6 :
   - Emblème national de la Nouvelle-Calédonie
 questions:
  - Quel oiseau inapte au vol tend à se raréfier en Nouvelle-Calédonie ?
+culture_g_score: 48
+culture_g_justification: "Oiseau-symbole de Nouvelle-Calédonie doté de traits mémorables, mais sujet géographiquement très spécialisé."
 ---
-
-
 ![Image de Cagou](https://upload.wikimedia.org/wikipedia/commons/a/a4/Rhynochetos_jubatus_MHNT.ZOO.2010.11.2.19.jpg)
 
 ###### Questions

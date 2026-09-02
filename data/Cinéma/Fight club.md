@@ -22,16 +22,9 @@ indice_6 :
   - David Fincher
 questions:
  - En 1999, dans quel film de David Fincher avec Edward Norton et Brad Pitt des hommes se battent dans un club pour se libérer de leurs pulsions violentes ?
+culture_g_score: 80
+culture_g_justification: "Film culte de Fincher, régulièrement interrogé pour ses acteurs, ses thèmes, ses répliques, son adaptation et sa réception."
 ---
-
-
-
-
-
-
-
-
-
 ![Image de Fight club](https://upload.wikimedia.org/wikipedia/commons/c/cf/Fight_Club_Soap_%286624162303%29.jpg)
 
 ###### Questions

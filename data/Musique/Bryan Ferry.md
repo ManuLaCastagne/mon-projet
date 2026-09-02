@@ -21,8 +21,9 @@ indice_6:
   - Glam Rock
 questions:
   - En 1985, quel ancien chanteur de Roxy Music fait un succès en solo avec "Slave to Love" ?
+culture_g_score: 71
+culture_g_justification: "Chanteur de Roxy Music et artiste solo important, avec des liens vers le glam, l’art rock et la pop britannique."
 ---
-
 ![Image de Bryan Ferry](https://upload.wikimedia.org/wikipedia/commons/c/cb/Bryan_ferry_VieillesCharrues2007.JPG)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7fDSexmvkpaHLPhOegELeX" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

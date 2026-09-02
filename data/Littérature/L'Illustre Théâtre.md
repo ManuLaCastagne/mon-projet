@@ -20,8 +20,9 @@ indice_5:
   - troupe de théâtre
 indice_6:
   - Sganarelle
+culture_g_score: 56
+culture_g_justification: "Repère biographique lié aux débuts de Molière, mais offrant peu d’angles indépendants en dehors de l’histoire du théâtre."
 ---
-
 ![Image de L'Illustre Théâtre](https://upload.wikimedia.org/wikipedia/commons/7/78/Atget_-_Porte_par_laquelle_entraient_Moli%C3%A8re_et_les_artistes_de_l%27Illustre_Th%C3%A9%C3%A2tre_rue_de_l%27Ave_Maria_15%2C_btv1b10517520g.jpeg)
 
 ###### Questions

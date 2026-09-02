@@ -20,9 +20,9 @@ indice_6 :
   - Philippe Gildas
 questions:
  - De 1988 à 2018, quelle émission initialement intitulée "les Arènes de l'info"...
+culture_g_score: 84
+culture_g_justification: "Institution de la satire française, exploitable sous les angles de la politique, des marionnettes, de Canal+ et de nombreuses imitations."
 ---
-
-
 ![Image de Les Guignols de l'info](https://upload.wikimedia.org/wikipedia/commons/8/8a/Guignols_logo1992.jpg)
 
 ###### Questions

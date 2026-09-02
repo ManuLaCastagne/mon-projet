@@ -20,9 +20,9 @@ indice_6 :
   - Architecture de Oscar Niemeyer
 questions:
  - En 1977, dans quel stade de Rio les Bleus tiennent-ils en échec le Brésil 2 à 2 grâce à des buts de Didier Six et Marius Trésor?
+culture_g_score: 80
+culture_g_justification: "Stade emblématique du football mondial, associé à la Coupe du monde de 1950, au Brésil, à Rio et à des records d’affluence."
 ---
-
-
 ![Image de Maracana](https://upload.wikimedia.org/wikipedia/commons/4/46/Maracana_Stadium.jpg)
 
 ###### Questions

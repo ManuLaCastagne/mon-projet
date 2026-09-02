@@ -24,8 +24,9 @@ indice_6 :
   - Place Bonnyaud
 questions:
  - De Chaminadour, dont le nom fait allusion à l'une de ses oeuvres.  Ancienne capitale du comté de la Marche, située au pied du signal de Maupuy, je compte environ 14 000 habitants. Ville de la région Nouvelle-Aquitaine, chef-lieu du département de la...
+culture_g_score: 20
+culture_g_justification: "Préfecture de la Creuse très peu connue, dont les possibilités de questions restent principalement administratives et locales."
 ---
-
 ![Image de Guéret](https://upload.wikimedia.org/wikipedia/commons/3/36/Gu%C3%A9ret_-_Pr%C3%A9fecture_de_la_Creuse.jpg)
 
 ![[Carte_Guéret.png]]

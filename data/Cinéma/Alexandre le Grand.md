@@ -18,8 +18,9 @@ indice_5:
   - 2004
 indice_6:
   - Conquête
+culture_g_score: 92
+culture_g_justification: "Figure historique mondiale incontournable, permettant de relier Antiquité, conquêtes, géographie, politique, culture et histoire militaire."
 ---
-
 ![Image de Alexandre le Grand](https://upload.wikimedia.org/wikipedia/commons/3/31/Le_Grand_Palais_depuis_le_pont_Alexandre_III_%C3%A0_Paris.jpg)
 
 ###### Questions

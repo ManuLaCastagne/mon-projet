@@ -20,8 +20,9 @@ indice_6 :
   - chroniqueuses célèbres
 questions:
  - Sous quel titre évoquant une attraction foraine et le nom de la châine qui la diffuse connait-on le débat animé par Laurence Ferrari ?
+culture_g_score: 40
+culture_g_justification: "Émission française relativement secondaire, susceptible d'apparaître dans quelques questions de télévision nostalgique mais peu réutilisable."
 ---
-
 ![Image de Grand Huit](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rosa_%27Grand_Huit%27%2C_Forest-Montiers.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Tokaj
 questions:
  - Pays dont la partie nord-ouest  comprend la région appelée Kisalfold. Mes touristes peuvent profiter de ma tradition des salons de thé, visiter les grottes d'Aggtelek, ou la cathédrale et la mosquée de la ville de Pécs...
+culture_g_score: 80
+culture_g_justification: "Pays européen classique, riche en repères liés à Budapest, au Danube, à l’empire austro-hongrois, aux bains et à l’histoire contemporaine."
 ---
-
 ![Image de Hongrie](https://upload.wikimedia.org/wikipedia/commons/a/ab/Esztergom_by_night_01_-_Simor_J%C3%A1nos_utca.jpg)
 
 ![[Carte_Hongrie.png]]

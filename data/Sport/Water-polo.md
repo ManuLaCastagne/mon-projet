@@ -20,8 +20,9 @@ indice_6 :
   - Championnat européen
 questions:
  - A quel sport collectif aquatique associe-t-on les Enfants de Neptune de Tourcoing, club comptant le plus de titres de champion de France, tous sports confondus?
+culture_g_score: 80
+culture_g_justification: "Sport olympique collectif classique permettant des questions sur les règles, l’histoire, les compétitions et les nations dominantes."
 ---
-
 ![Image de Water-polo](https://upload.wikimedia.org/wikipedia/commons/e/e5/WaterPolo.JPG)
 
 ###### Questions

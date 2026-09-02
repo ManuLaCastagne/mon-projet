@@ -22,8 +22,9 @@ indice_6 :
   - esprit populaire
 questions:
  - Dans quelle série d'ouvrages de Jean-Marie Gouriot constitués de phrases entendues dans les bars...
+culture_g_score: 44
+culture_g_justification: "Œuvre populaire de la culture française récente, mais ses apparitions en quiz restent assez ponctuelles et ses angles relativement limités."
 ---
-
 ![Image de Brèves de comptoir](https://upload.wikimedia.org/wikipedia/commons/5/58/Br%C3%A8ves_de_comptoir%2C_texte_de_Jean-Marie_Gourio._Paris._Th%C3%A9%C3%A2tre_Tristan_Bernard._1994_-_lot_de_photographies_-_de_l%27agence_Mar%C3%A9e-Breyer_-_btv1b106075783_%2811_of_24%29.jpg)
 
 ###### Questions

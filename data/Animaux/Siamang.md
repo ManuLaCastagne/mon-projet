@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la forêt tropicale asiatique
 questions:
  - Quel grand singe des montagnes d'Indonésie, proche du gibbon passe 5 à 9 heures par jour à manger, souvent suspendu par un bras?
+culture_g_score: 47
+culture_g_justification: "Gibbon distinctif par sa poche vocale et ses cris, intéressant en zoologie et en conservation mais peu fréquent."
 ---
-
 ![Image de Siamang](https://upload.wikimedia.org/wikipedia/commons/a/a8/Siamang_%28Symphalangus_syndactylus%29%2C_Tierpark_Hellabrunn%2C_M%C3%BAnich%2C_Alemania%2C_2012-06-17%2C_DD_07.JPG)
 
 ###### Questions

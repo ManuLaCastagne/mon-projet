@@ -22,9 +22,9 @@ indice_6 :
   - humour
 questions:
  - Dans quelle BD créée en 2005, quelle jeune héroïne vit à Abidjan un quartier populaire ?
+culture_g_score: 60
+culture_g_justification: "Bande dessinée francophone notable par son cadre ivoirien et son succès critique, mais encore moins incontournable que les grands classiques du genre."
 ---
-
-
 ![Image de Aya de Yopougon](https://upload.wikimedia.org/wikipedia/commons/f/f2/Panneau_explicatif_exposition_Marguerite_Abouet.jpg)
 
 ###### Questions

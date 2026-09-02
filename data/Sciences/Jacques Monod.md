@@ -20,8 +20,9 @@ indice_6 :
   - Biologie moléculaire
 questions:
  - Quel biologiste français, prix Nobel de médecine en 1965, est l'auteur de l'ouvrage "Le Hasard et la nécessité"?
+culture_g_score: 64
+culture_g_justification: "Biologiste français nobélisé et auteur influent, Monod est utile en génétique et en philosophie des sciences sans être omniprésent."
 ---
-
 ![Image de Jacques Monod](https://upload.wikimedia.org/wikipedia/commons/7/70/Jacques_Monod_nobel.jpg)
 
 ###### Questions

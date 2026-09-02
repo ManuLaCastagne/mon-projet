@@ -23,6 +23,7 @@ indice_6 :
 questions:
  - En 1996, dans quel film de Wes Craven un tueur en série se déguise-t-il  afin de commettre ses meurtres?
 culture_g_score: 76
+culture_g_justification: "Film culte du cinéma d'horreur, régulièrement interrogé grâce à Ghostface, Wes Craven, ses acteurs et son renouvellement du slasher."
 ---
 ![Image de Scream](https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Scream_Pastel.jpg)
 

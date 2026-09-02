@@ -22,9 +22,9 @@ indice_6 :
   - Inventeur du roman policier
 questions:
  - De quel écrivain américain Baudelaire a-t-il traduit certaines œuvres comme "Les Histoires Extraordianires" ?
+culture_g_score: 100
+culture_g_justification: "Écrivain universellement connu, à la fois fondateur du récit policier, maître du fantastique et figure de la culture américaine."
 ---
-
-
 ![Image de Edgar Allan Poe](https://upload.wikimedia.org/wikipedia/commons/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg)
 
 ###### Questions

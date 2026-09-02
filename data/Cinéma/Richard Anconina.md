@@ -22,8 +22,9 @@ indice_6 :
   - Tzigane à Paris
 questions:
  - Quel acteur français incarne le personnage d'Eddie Vuibert dans les 3 volets du film "La Vérité si je mens!"?
+culture_g_score: 56
+culture_g_justification: "Acteur français associé à plusieurs succès populaires et à un César, mais présentant une importance culturelle et une transversalité modérées."
 ---
-
 ![Image de Richard Anconina](https://upload.wikimedia.org/wikipedia/commons/3/36/ANCONINA_Richard-24x30-NCb.jpg)
 
 ###### Questions

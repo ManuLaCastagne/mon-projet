@@ -18,8 +18,9 @@ indice_5 :
   - Murales de Mansfield Place Church
 indice_6 : 
   - Symbolisme
+culture_g_score: 28
+culture_g_justification: "Traquair est une artiste Arts and Crafts intéressante mais très spécialisée, rarement mobilisée dans des quiz généralistes francophones."
 ---
-
 ![Image de Phoebe Anna Traquair](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Phoebe_Anna_Traquair_-_Self-portrait%2C_1911.jpg/1920px-Phoebe_Anna_Traquair_-_Self-portrait%2C_1911.jpg)
 
 ###### Questions

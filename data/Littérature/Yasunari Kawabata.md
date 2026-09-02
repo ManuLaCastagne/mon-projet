@@ -20,12 +20,9 @@ indice_5:
   - Pays de Neige
 indice_6:
   - 1968
+culture_g_score: 64
+culture_g_justification: "Premier Nobel japonais de littérature et auteur de Pays de neige, il est important mais moins immédiatement connu du grand public occidental."
 ---
-
-
-
-
-
 ![Image de Yasunari Kawabata](https://upload.wikimedia.org/wikipedia/commons/b/b5/Yasunari_Kawabata_1938.jpg)
 
 ###### Questions

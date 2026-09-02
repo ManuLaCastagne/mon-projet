@@ -22,8 +22,9 @@ indice_6 :
   - préciosité et élégance littéraire
 questions:
  - Ayant publié anonymement en 1678 "La Princesse de Clèves", qui est considéré comme le 1er roman d'analyse psychologique, je me nomme Marie-Madeleine Pioche de La Vergne…
+culture_g_score: 77
+culture_g_justification: "Grande autrice classique, régulièrement associée à La Princesse de Clèves, à la littérature du XVIIe siècle et à l’histoire du roman."
 ---
-
 ![Image de Madame de Lafayette](https://upload.wikimedia.org/wikipedia/commons/5/5f/Madame_de_La_Fayette.jpg)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - repas et animation
 indice_6 : 
   - voix off hilare
+culture_g_score: 69
+culture_g_justification: "Émission populaire au concept immédiatement reconnaissable, régulièrement citée dans les quiz de télévision et de cuisine."
 ---
-
 ![Image de Un dîner presque parfait](https://upload.wikimedia.org/wikipedia/commons/7/78/Poictevin_-_Presque%2C_1891.djvu)
 
 ###### Questions

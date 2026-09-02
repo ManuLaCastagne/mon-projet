@@ -22,8 +22,9 @@ indice_5 :
   - Davy Crockett
 indice_6 : 
   - Site historique
+culture_g_score: 77
+culture_g_justification: "Site emblématique de la révolution texane, fréquent dans les quiz historiques et américains, malgré un nombre d’angles relativement limité."
 ---
-
 ![[Carte_Fort Alamo.png]]
 
 ###### Questions

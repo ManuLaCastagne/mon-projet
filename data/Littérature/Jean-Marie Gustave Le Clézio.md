@@ -22,8 +22,9 @@ indice_6 :
   - Prix Renaudot 1963
 questions:
  - En 2008, quel écrivain français, auteur du "Procès-verbal" et de "Ourania" est récompensé par un Prix Nobel de littérature ?
+culture_g_score: 71
+culture_g_justification: "Prix Nobel et auteur de Désert, Le Clézio offre des liens avec la littérature francophone, l’exil et les cultures du monde, mais reste moins fréquent que les classiques."
 ---
-
 ![Image de Jean-Marie Gustave Le Clézio](https://upload.wikimedia.org/wikipedia/commons/c/cf/Jean-Marie_Gustave_Le_Cl%C3%A9zio-press_conference_Dec_06th%2C_2008-2.jpg)
 
 ###### Questions

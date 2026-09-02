@@ -22,6 +22,8 @@ indice_6 :
   - thriller psychologie
 questions:
  - En 2001, dans quel film de Jacques Audiard Emmanuelle Devos interprète-t-elle le rôle d'une secrétaire...
+culture_g_score: 60
+culture_g_justification: "Film français reconnu de Jacques Audiard, interrogeable par son intrigue, ses acteurs et ses nominations, mais relativement spécialisé."
 ---
 ![[Pasted image 20250323190121.png]]
 ###### Questions

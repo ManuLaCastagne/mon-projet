@@ -20,8 +20,9 @@ indice_6 :
   - Fosbury Flop
 questions:
  - Discipline de l'athlétisme dont la 1re médaille d'or féminine aux jeux Olympiques fut remportée en 1948 par Olga Gyarmati, je suis pratiquée avec une planche d'appel. Consistant à prendre de l'élan sur une piste d'une quarantaine de mètres, je nécessite d'effectuer une impulsion vers l'avant...
+culture_g_score: 80
+culture_g_justification: "Discipline olympique classique associée à Jesse Owens, Bob Beamon, Jackie Joyner-Kersee et à plusieurs records historiques."
 ---
-
 ![Image de Saut en longueur](https://upload.wikimedia.org/wikipedia/commons/3/3f/Saut_en_longueur_02557.JPG)
 
 ###### Questions

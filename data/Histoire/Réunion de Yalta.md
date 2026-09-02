@@ -20,8 +20,9 @@ indice_6 :
   - Crimée
 questions:
  - Réunion à visée géopolitique ayant eu lieu entre un 4 et un 11 février, j'ai été marquée par une déclaration prévoyant la formation...
+culture_g_score: 100
+culture_g_justification: "Conférence incontournable de la fin de la Seconde Guerre mondiale, ouvrant sur Roosevelt, Staline, Churchill, l’Europe et l’ONU."
 ---
-
 ![Image de Réunion de Yalta](https://upload.wikimedia.org/wikipedia/commons/0/05/Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg)
 
 ###### Questions

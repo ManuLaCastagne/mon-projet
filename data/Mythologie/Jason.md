@@ -18,8 +18,9 @@ indice_6 :
   - Colchide
 questions:
  - Quel héros s'est présenté devant son oncle Pélias avec un pied nu, après avoir perdu l'une de ses sandales en aidant Héra à traverser un cours d'eau?
+culture_g_score: 80
+culture_g_justification: "Jason est un héros classique, rentable pour les questions sur la Toison d’or, les Argonautes, l’Argo et Médée."
 ---
-
 ![Image de Jason](https://upload.wikimedia.org/wikipedia/commons/6/6a/Jason_Golden_Fleece_Altemps_Inv8647.jpg)
 
 ###### Questions

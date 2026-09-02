@@ -18,9 +18,9 @@ indice_5 :
   - César du meilleur acteur
 indice_6 : 
   - L'Italien
+culture_g_score: 64
+culture_g_justification: "Acteur populaire du cinéma français, régulièrement identifié par La Boum, les César et ses liens familiaux avec Odette Joyeux."
 ---
-
-
 ![Image de Claude Brasseur](https://upload.wikimedia.org/wikipedia/commons/6/61/Claude_Brasseur_Deauville_2011_2.jpg)
 
 ###### Questions

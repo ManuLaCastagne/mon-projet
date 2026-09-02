@@ -23,8 +23,9 @@ indice_6 :
   - Peintre belge
 questions:
  - A quel artiste né en 1860 à Ostende, considéré comme l'un des précurseurs de l'Art moderne, doit-on les tableaux "Carnaval sur la plage" et "Masques singuliers"?
+culture_g_score: 67
+culture_g_justification: "Ensor est un artiste belge important du symbolisme et de l’expressionnisme, reconnaissable par les masques, les squelettes et la satire."
 ---
-
 ![Image de James Ensor](https://upload.wikimedia.org/wikipedia/commons/1/1d/James_Ensor_%281938%29_Zelfportret.jpg)
 
 ###### Questions

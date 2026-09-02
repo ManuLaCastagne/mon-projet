@@ -20,8 +20,9 @@ indice_6 :
   - Géométrie
 questions:
  - Quel problème classique de géométrie consiste à construire un carré de même aire qu'un cercle donné avec une règle et un compas ?
+culture_g_score: 80
+culture_g_justification: "Problème mathématique historique très classique, associant géométrie, Antiquité, nombres transcendants et histoire des mathématiques."
 ---
-
 ![Image de Quadrature du cercle](https://upload.wikimedia.org/wikipedia/commons/e/ef/Recueil._%22_La_quadrature_du_cercle%22_de_Valentin_Kata%C3%AFev_-_btv1b10527231h_%2805_of_50%29.jpg)
 
 ###### Questions

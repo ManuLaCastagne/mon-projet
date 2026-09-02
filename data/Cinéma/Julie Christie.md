@@ -20,10 +20,9 @@ indice_5:
   - Beauté classique
 indice_6:
   - Actrice britannique
+culture_g_score: 64
+culture_g_justification: "Julie Christie est une actrice majeure du cinéma britannique, surtout mobilisée autour de quelques classiques comme Le Docteur Jivago et Fahrenheit 451."
 ---
-
-
-
 ![Image de Julie Christie](https://upload.wikimedia.org/wikipedia/commons/9/94/Julie_Christie_%281997%29_%282%29.jpg)
 
 ###### Questions

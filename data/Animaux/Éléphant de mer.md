@@ -15,8 +15,9 @@ indice_6 :
   - Sujet d'études sur la plongée en apnée
 questions:
  - Quel est ce phoque  des mers australes et antarctiques dont l'appendice nasal rappelle celui d'un gros animal terrestre ?
+culture_g_score: 48
+culture_g_justification: "L’éléphant de mer constitue une curiosité de zoologie marine, avec quelques questions sur la plongée et les régions polaires."
 ---
-
 ![Image de Éléphant de mer](https://upload.wikimedia.org/wikipedia/commons/6/68/Mirounga_leonina.jpg)
 
 ###### Questions

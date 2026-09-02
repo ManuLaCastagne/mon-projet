@@ -20,8 +20,9 @@ indice_6 :
   - audiovisuel français
 questions:
  - En 2015, quelle ancienne élève de Centrale est devenue présidente de France Télévisions?
+culture_g_score: 60
+culture_g_justification: "Présidente de France Télévisions et première femme à ce poste, elle fournit quelques repères institutionnels et médiatiques classiques."
 ---
-
 ![Image de Delphine Ernotte](https://upload.wikimedia.org/wikipedia/commons/b/b2/Delphine_Ernotte_Cunci.jpg)
 
 ###### Questions

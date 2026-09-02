@@ -22,8 +22,9 @@ indice_6 :
   - interprétation passionnée
 questions:
  - Et comprenant les titres "Paname" et "Les poètes". Evoquant avec des images un peu lestes une jeune fille libre, j'ai été reprise par Juliette Gréco qui m'a...
+culture_g_score: 57
+culture_g_justification: "Chanson reconnue du répertoire de Léo Ferré, mais offrant principalement des questions sur son interprète et son contexte musical."
 ---
-
 ![Image de Jolie môme](https://upload.wikimedia.org/wikipedia/commons/b/b4/Compagnie_Jolie_M%C3%B4me_-_%C3%80_contre-courant.jpg)
 
 ###### Questions

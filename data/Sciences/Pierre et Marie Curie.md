@@ -20,8 +20,9 @@ indice_6 :
   - Nobel
 questions:
  - Quel couple de scientifiques, entré au Panthéon en 1995, a repoussé cette distinction, jugeant notamment ne pas en voir la nécessité?
+culture_g_score: 97
+culture_g_justification: "Couple emblématique de l’histoire des sciences, ouvrant sur la radioactivité, les éléments chimiques, les Nobel, la médecine et le Panthéon."
 ---
-
 ![Image de Pierre et Marie Curie](https://upload.wikimedia.org/wikipedia/commons/2/23/Nobel_Pierre_et_Marie_Curie_1.jpg)
 
 ###### Questions

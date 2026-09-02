@@ -20,8 +20,9 @@ indice_6 :
   - voyage déguisé en musulman
 questions:
  - En 1828, quel voyageur solitaire est le 1er Français à pénétrer dans la ville interdite de Tombouctou ?
+culture_g_score: 40
+culture_g_justification: "Explorateur associé à un exploit emblématique sur Tombouctou, mais les questions le concernant restent assez spécialisées."
 ---
-
 ![Image de René Caillié](https://upload.wikimedia.org/wikipedia/commons/f/f9/Ren%C3%A9_Cailli%C3%A9.jpg)
 
 ###### Questions

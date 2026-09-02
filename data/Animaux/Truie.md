@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fertilité et de prospérité
 questions:
  - De reproduction, je mets bas, après une gestation qui dure en moyenne 115 jours, une portée d'une dizaine...
+culture_g_score: 48
+culture_g_justification: "La truie est un terme d'élevage courant, mais sa connaissance précise apporte peu de réponses variées dans les quiz généralistes."
 ---
-
 ![Image de Truie](https://upload.wikimedia.org/wikipedia/commons/7/7f/Scorpaena_scrofa_02.JPG)
 
 ###### Questions

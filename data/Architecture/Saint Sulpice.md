@@ -22,8 +22,9 @@ indice_5 :
   - Horloge solaire
 indice_6 : 
   - Delacroix chapelle des Saints-Anges
+culture_g_score: 60
+culture_g_justification: "Église parisienne connue pour Delacroix, son gnomon et sa présence dans Le Da Vinci Code, mais d'importance plus secondaire."
 ---
-
 ![Image de Saint Sulpice](https://upload.wikimedia.org/wikipedia/commons/f/f6/Saint-Sulpice%2C_Nave%2C_Paris_20140515_1.jpg)
 
 ###### Questions

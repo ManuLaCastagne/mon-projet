@@ -20,8 +20,9 @@ indice_6 :
   - Père de la taxonomie moderne
 questions:
  - Botaniste surnommé "le Pline du Nord". On me doit une nomenclature binominale des espèces végétales et animales.
+culture_g_score: 80
+culture_g_justification: "Linné est un incontournable de la classification du vivant, avec des liens fréquents entre biologie, histoire des sciences et nomenclature."
 ---
-
 ![Image de Carl von Linné](https://upload.wikimedia.org/wikipedia/commons/6/68/Carl_von_Linn%C3%A9.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - Voix sensuelle
 questions:
   - En 1978, quelle chanteuse évoque la disparition de Brian Jones, le guitariste des Rolling Stones, dans le titre "Ex-fan des sixties"?
+culture_g_score: 80
+culture_g_justification: "Personnalité franco-britannique très rentable grâce à Gainsbourg, au cinéma, à ses enfants et à plusieurs chansons célèbres."
 ---
-
 ![Image de Jane Birkin](https://upload.wikimedia.org/wikipedia/commons/2/28/Jane_birkin_1970.jpg)
 
 ###### Questions

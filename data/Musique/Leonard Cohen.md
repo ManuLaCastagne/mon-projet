@@ -22,8 +22,9 @@ indice_6 :
   - album Songs of Leonard Cohen
 questions:
  - Quel chanteur canadien de langue anglaise ne en 1934 chante "Suzanne", "Everybody knows" ?
+culture_g_score: 72
+culture_g_justification: "Grande figure de la chanson et de la poésie, régulièrement interrogée via ses œuvres, sa vie et son influence, même si elle reste moins incontournable que les artistes universels."
 ---
-
 ![Image de Leonard Cohen](https://upload.wikimedia.org/wikipedia/commons/f/fc/Leonard_Cohen_1_2013.jpg)
 
 ###### Questions

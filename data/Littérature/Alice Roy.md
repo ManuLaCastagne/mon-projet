@@ -22,8 +22,9 @@ indice_6 :
   - mystères à résoudre
 questions:
  - De quelle héroïne de la bibliothèque verte a-t-on publié les aventures ?
+culture_g_score: 60
+culture_g_justification: "Nancy Drew, connue en France sous le nom d'Alice Roy, est une héroïne durable de la littérature policière jeunesse."
 ---
-
 ![Image de Alice Roy](https://upload.wikimedia.org/wikipedia/commons/2/29/Nancy_Drew_1942_2.png)
 
 ###### Questions

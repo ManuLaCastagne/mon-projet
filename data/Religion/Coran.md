@@ -20,8 +20,9 @@ indice_6 :
   - Louanges
 questions:
  - Quel ouvrage est divisé en 114 chapitres appelés sourates ?
+culture_g_score: 100
+culture_g_justification: "Texte sacré central de l’islam, très fréquent dans les quiz et transversal par ses liens avec religion, langue, histoire et civilisation."
 ---
-
 ![Image de Coran](https://upload.wikimedia.org/wikipedia/commons/c/c7/Folio_from_a_Koran_%288th-9th_century%29.jpg)
 
 ###### Questions

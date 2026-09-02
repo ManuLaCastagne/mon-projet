@@ -21,8 +21,9 @@ indice_6 :
   - Paris
 questions:
  - Sportif français né le 7 avril 89, je suis rentré à l'Insep à 15 ans après avoir été repéré par Stéphane Traineau. Mesurant 2,04 m, j'ai obtenu le 1er de mes 10 titres mondiaux en 2007 et suis actuellement le champion le plus titré de l'histoire de mon sport.
+culture_g_score: 84
+culture_g_justification: "Judoka français extrêmement célèbre, associé à des records mondiaux, aux Jeux olympiques et à la réussite du sport français."
 ---
-
 ![Image de Teddy Riner](https://upload.wikimedia.org/wikipedia/commons/7/7f/Teddy_Riner_Cannes_2016.jpg)
 
 ###### Questions

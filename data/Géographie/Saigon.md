@@ -21,8 +21,9 @@ indice_5 :
   - Notre-Dame de Saïgon
 indice_6 : 
   - Marché Ben Thanh
+culture_g_score: 80
+culture_g_justification: "Saïgon est une référence fréquente de l’histoire de la guerre du Vietnam, de la colonisation française et de l’évolution politique vietnamienne."
 ---
-
 ![[Carte_Saigon.png]]
 
 ###### Questions

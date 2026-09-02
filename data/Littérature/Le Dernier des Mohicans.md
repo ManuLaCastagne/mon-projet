@@ -22,8 +22,9 @@ indice_6 :
   - Guerre de la Conquête
 questions:
  - 1826. Quel roman de James Fenimore Cooper se passant au 18e siècle en Amérique du Nord met en scène la jeune Alice Monro ?
+culture_g_score: 80
+culture_g_justification: "Classique américain connu par son contexte historique, ses adaptations, ses personnages et la représentation des peuples autochtones."
 ---
-
 ![Image de Le Dernier des Mohicans](https://upload.wikimedia.org/wikipedia/commons/3/30/Tony_Johannot_-_Le_Dernier_Des_Mohicans_-_B1998.14.66_-_Yale_Center_for_British_Art.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_4:
   - New York
 indice_5:
 indice_6:
+culture_g_score: 24
+culture_g_justification: "Film très récent et encore peu installé dans la mémoire collective, dont les occasions de questionnement généraliste sont limitées."
 ---
-
 ![Image de La Femme de ménage voit tout](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Paul_Feig_by_Gage_Skidmore.jpg/1280px-Paul_Feig_by_Gage_Skidmore.jpg)
 
 ###### Questions

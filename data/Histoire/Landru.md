@@ -20,8 +20,9 @@ indice_6 :
   - incinération
 questions:
  - De quel criminel surnommé le Barbe-Bleue...
+culture_g_score: 72
+culture_g_justification: "Landru est un criminel très présent dans la culture populaire et les quiz français, mais ses principaux angles relèvent d’un épisode criminel relativement circonscrit."
 ---
-
 ![Image de Landru](https://upload.wikimedia.org/wikipedia/commons/1/16/LANDRU_1.jpg)
 
 ###### Questions

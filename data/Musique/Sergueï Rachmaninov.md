@@ -22,9 +22,9 @@ indice_6 :
   - Préludes pour piano
 questions:
  - Quel compositeur et pianiste russe, directeur de l'orchestre du Bolchoï de 1904 à 1906, a été l'un des plus grands virtuoses de son temps?
+culture_g_score: 80
+culture_g_justification: "Rachmaninov est un compositeur-pianiste classique très exploitable grâce à ses concertos, à l’émigration russe et à son style romantique."
 ---
-
-
 ![Image de Sergueï Rachmaninov](https://upload.wikimedia.org/wikipedia/commons/8/86/Sergei_Rachmaninoff_LOC_30160_cropped.jpg)
 
 ###### Questions

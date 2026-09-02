@@ -18,10 +18,9 @@ indice_5 :
   - 1999
 indice_6 : 
   - André Dussollier
+culture_g_score: 47
+culture_g_justification: "Film populaire de Jean Becker avec des acteurs connus, mais dont les angles de quiz restent principalement cinématographiques."
 ---
-
-
-
 ![Image de Les Enfants du marais](https://upload.wikimedia.org/wikipedia/commons/2/2e/Le_Marais%2C_BAL96.14-6.jpg)
 
 ###### Questions

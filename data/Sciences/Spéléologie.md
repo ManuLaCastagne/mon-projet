@@ -20,8 +20,9 @@ indice_6 :
   - Spéléologue
 questions:
  - Discipline dont le nom est donné par Emile Rivière en 1890, j'acquière une dimension scientifique avec Edouard Martel. Utilisant notamment des cordes et des scaphandres, mes activités intéressent la géologie et la minéralogie. Faisant appel à des techniques proches de celle de l'alpinisme...
+culture_g_score: 52
+culture_g_justification: "Discipline identifiable liée aux grottes, aux explorations et à l'archéologie, mais seulement occasionnelle dans les quiz généralistes."
 ---
-
 ![Image de Spéléologie](https://upload.wikimedia.org/wikipedia/commons/d/d4/Caveman-ic.jpg)
 
 ###### Questions

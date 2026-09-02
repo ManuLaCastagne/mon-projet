@@ -20,8 +20,9 @@ indice_6 :
   - vernis
 questions:
  - De quel ester nitrique de la cellulose se sert-on pour fabriquer le colliodion et des poudres sans fumée ?
+culture_g_score: 52
+culture_g_justification: "Substance liée à la chimie, aux explosifs et aux premiers films, mais généralement réservée à des questions spécialisées."
 ---
-
 ![Image de Nitrocellulose](https://upload.wikimedia.org/wikipedia/commons/4/49/Cellulose_nitrate.svg)
 
 ###### Questions

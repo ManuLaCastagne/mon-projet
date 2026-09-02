@@ -21,8 +21,9 @@ indice_6:
   - conseils amoureux
 questions:
   - Sur les rives de la mer Noire. Ouvrage d'apparence didactique, je mêle expérience personnelle et références littéraires et mythologiques. Oeuvre d'Ovide...
+culture_g_score: 72
+culture_g_justification: "Œuvre classique d’Ovide, régulièrement associée à la poésie latine, à la mythologie et aux mœurs amoureuses de Rome."
 ---
-
 ![Image de L'Art d'aimer](https://upload.wikimedia.org/wikipedia/commons/3/33/%22L%27Art_d%27Aimer%22_MET_186666.jpg)
 
 ###### Questions

@@ -21,9 +21,9 @@ indice_6:
   - chroniqueur sur C8
 questions:
   - Quel animateur de télévision et de radio rend hommage à Simone Signoret et Yves Montand auprès desquels il a grandi, dans le livre "Je vous ai tant aimés..." paru en février 2021 ?
+culture_g_score: 69
+culture_g_justification: "Animateur très associé à la téléréalité française, Secret Story et Nouvelle Star, offrant plusieurs repères de télévision populaire."
 ---
-
-
 ![Image de Benjamin Castaldi](https://upload.wikimedia.org/wikipedia/commons/f/f3/Portrait_de_Benjamin_Castaldi%2C_par_l%27intelligence_artificielle_Grok.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Bionic
 questions:
  - Pour Noël 2019, quelle Américaine, interprète de la chanson "Hurt", a posté sur un réseau social une photo d'elle en robe longue devant un sapin?
+culture_g_score: 73
+culture_g_justification: "Grande chanteuse pop des années 2000, régulièrement interrogée par ses albums, ses chansons Disney, ses récompenses et ses débuts télévisés."
 ---
-
 ![Image de Christina Aguilera](https://upload.wikimedia.org/wikipedia/commons/3/33/Christina_Aguilera_%282006%29.jpg)
 
 ###### Questions

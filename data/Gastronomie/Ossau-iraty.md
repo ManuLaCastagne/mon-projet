@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1990
 date: 1996
+culture_g_score: 48
+culture_g_justification: "Fromage AOP français important régionalement, mais encore spécialisé pour un joueur généraliste."
 ---
 ###### Questions 
 

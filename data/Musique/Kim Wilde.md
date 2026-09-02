@@ -20,9 +20,9 @@ indice_5:
   - Cambodia
 indice_6:
   - sœur de Ricky Wilde
+culture_g_score: 64
+culture_g_justification: "Chanteuse pop britannique fortement associée aux années 1980 et à Kids in America, mais moins centrale que les très grandes icônes du genre."
 ---
-
-
 ![Image de Kim Wilde](https://upload.wikimedia.org/wikipedia/commons/1/11/Kim_Wilde_2021_%28328%29.jpg)
 
 ###### Questions

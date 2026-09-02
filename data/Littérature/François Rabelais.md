@@ -20,9 +20,9 @@ indice_5:
   - langue française riche
 indice_6:
   - père de l'humour satirique
+culture_g_score: 80
+culture_g_justification: "Grande figure de l’humanisme et de la Renaissance française, connue par Gargantua, Pantagruel, la satire et la médecine."
 ---
-
-
 ![Image de François Rabelais](https://upload.wikimedia.org/wikipedia/commons/3/3f/Statue_Rabelais_Louvre.jpg)
 
 ###### Questions

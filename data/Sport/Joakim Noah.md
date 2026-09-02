@@ -20,8 +20,9 @@ indice_6 :
   - France
 questions:
  - Les New York Knicks en 2016 avant de jouer pour les Memphis Grizzlies puis pour les Clippers de Los Angeles.  Fils d'un tennisman, évoluant au poste...
+culture_g_score: 60
+culture_g_justification: "Joakim Noah est un basketteur français-américain identifiable par la NBA, la NCAA, les Bulls et sa filiation avec Yannick Noah."
 ---
-
 ![Image de Joakim Noah](https://upload.wikimedia.org/wikipedia/commons/d/dd/Joakim_Noah_3.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Ombre de la Lune
 questions:
  - Phénomène ayant duré 2 heures 40 pour les points situés sur la ligne de centralité, je fus, dans ma forme dite totale, le dernier du 2e millénaire. Observable pleinement sur une bande de 110 km de large sur le nord de la France, je fus admiré par des personnes équipées de lunettes de protection.
+culture_g_score: 64
+culture_g_justification: "Événement astronomique marquant en France et en Europe, mais qui reste une date précise plutôt qu’un sujet très transversal."
 ---
-
 ![Image de Éclipse solaire de 1999](https://upload.wikimedia.org/wikipedia/commons/9/9f/Solar_eclips_1999_5.jpg)
 
 ###### Questions

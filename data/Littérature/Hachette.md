@@ -22,8 +22,9 @@ indice_6 :
   - publications en plusieurs langues
 questions:
  - A quel éditeur doit-on le lancement de la Bibliothèque rose, en 1856?
+culture_g_score: 72
+culture_g_justification: "Maison d'édition française très connue, reliée à l'histoire du livre, à la littérature jeunesse, aux classiques et au groupe Lagardère."
 ---
-
 ![Image de Hachette](https://upload.wikimedia.org/wikipedia/commons/1/1d/Hachette_Livre.png)
 
 ###### Questions

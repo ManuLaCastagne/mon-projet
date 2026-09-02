@@ -20,8 +20,9 @@ indice_6 :
   - a animé Sept à Huit
 questions:
  - Depuis 2006, quel journaliste présente l'émission télévisée dominicale "Sept à huit"?
+culture_g_score: 73
+culture_g_justification: "Journaliste français associé à un moment symbolique de l'histoire de TF1 et à plusieurs émissions d'information grand public."
 ---
-
 ![Image de Harry Roselmack](https://upload.wikimedia.org/wikipedia/commons/3/34/Harry_Roselmack_Cannes_2016_cr.jpg)
 
 ###### Questions

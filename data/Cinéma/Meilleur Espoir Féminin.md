@@ -22,8 +22,9 @@ indice_6 :
   - cérémonie
 questions:
  - En 2000, dans quel film Gérard Jugnot se met-il en scène dans le rôle d'un coiffeur qui se brouille avec sa fille voulant devenir comédienne ?
+culture_g_score: 39
+culture_g_justification: "Film français de notoriété limitée, à ne pas confondre avec la récompense homonyme des César."
 ---
-
 ![Image de Meilleur Espoir Féminin](https://upload.wikimedia.org/wikipedia/commons/b/b1/Van_Bever_-_Blasons_anatomiques_du_corps_f%C3%A9minin%2C_1907.djvu)
 
 ###### Questions

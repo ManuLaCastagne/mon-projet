@@ -20,8 +20,9 @@ indice_6 :
   - SolarCity
 questions:
  - En 2013, quel ingénieur et entrepreneur d'origine sud-africaine propose un projet de transport à grande vitesse connu sous le nom de Hyperloop ?
+culture_g_score: 84
+culture_g_justification: "Entrepreneur contemporain omniprésent dans les quiz sur Tesla, SpaceX, l’intelligence artificielle, les réseaux sociaux et l’innovation."
 ---
-
 ![Image de Elon Musk](https://upload.wikimedia.org/wikipedia/commons/f/f4/USAFA_Hosts_Elon_Musk_%28Image_1_of_17%29_%28cropped%29.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
 questions:
  - Quel peintre fraçais disparu en 1962 a donné son nom à un bleu…
  - Constituant, avec l'or et le rose, l'un des 3 tons de prédilection de mon auteur, je suis la couleur qui servit à réaliser certaines des oeuvres appelées "Anthropométries", dans lesquelles des modèles féminins enduits de peinture laissaient l'empreinte de leur corps sur une toile.
+culture_g_score: 71
+culture_g_justification: "Artiste contemporain français très identifiable par le bleu Klein, les monochromes, les performances et le Nouveau Réalisme."
 ---
-
 ![Image de Yves Klein](https://upload.wikimedia.org/wikipedia/commons/8/8a/Musiktheater_im_Revier.jpg)
 
 ###### Questions

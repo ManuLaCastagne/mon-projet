@@ -20,9 +20,9 @@ indice_5 :
   - impliquée dans des intrigues politiques
 indice_6 : 
   - figure de la décadence romaine
+culture_g_score: 60
+culture_g_justification: "Impératrice romaine célèbre pour sa réputation scandaleuse, avec quelques liens vers Claude, Néron et les intrigues impériales."
 ---
-
-
 ![Image de Messaline](https://upload.wikimedia.org/wikipedia/commons/0/0b/Messalina_carrying_Britannicus_-_MBA_Lyon_2018%2C_c%C3%B4t%C3%A9_droit.jpg)
 
 ###### Questions

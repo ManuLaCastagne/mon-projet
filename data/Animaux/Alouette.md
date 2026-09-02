@@ -15,8 +15,9 @@ indice_6 :
   - Sujet de chanson populaire française
 questions:
  - Lors d'un vol presque stationnaire, je me nourris d'insectes, de graines et de jeunes feuilles. Oiseau auquel une chanson enfantine se plaît à plumer...
+culture_g_score: 67
+culture_g_justification: "Oiseau lié à une chanson très connue et à plusieurs références culturelles, malgré une fréquence zoologique modérée."
 ---
-
 ![Image de Alouette](https://upload.wikimedia.org/wikipedia/commons/7/72/A%C3%A9rospatiale_Alouette_III_3-view_line_drawing.png)
 
 ###### Questions

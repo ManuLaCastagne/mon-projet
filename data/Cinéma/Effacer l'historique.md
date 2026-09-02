@@ -22,8 +22,9 @@ indice_6 :
   - addiction aux réseaux sociaux
 questions:
  - En 2020, dans quel film de Benoît Delépine et Gustave Kervern, avec Blanche Gardin, des voisins partent-ils en guerre contre les géants d'Internet?
+culture_g_score: 40
+culture_g_justification: "Comédie satirique française pertinente sur le numérique, mais trop récente et relativement peu connue pour être prioritaire."
 ---
-
 ![Image de Effacer l'historique](https://upload.wikimedia.org/wikipedia/commons/7/79/Del%26Undel_vs._RevDel-_RevDelete_History.png)
 
 ###### Questions

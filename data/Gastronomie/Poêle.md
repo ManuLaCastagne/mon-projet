@@ -3,6 +3,8 @@ tags:
   - Gastronomie
   - Malaisie
   - Japon
+culture_g_score: 57
+culture_g_justification: "Ustensile très familier et relié à plusieurs techniques culinaires, mais rarement une réponse culturelle centrale."
 ---
 ###### Questions 
 

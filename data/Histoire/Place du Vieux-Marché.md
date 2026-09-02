@@ -20,8 +20,9 @@ indice_6 :
   - procès
 questions:
  - Sur quelle place de Rouen a-t-elle été brûlée vive le 30 mai...
+culture_g_score: 56
+culture_g_justification: "Lieu mémorable par l’exécution de Jeanne d’Arc, généralement mobilisé dans une question unique d’histoire de France."
 ---
-
 ![Image de Place du Vieux-Marché](https://upload.wikimedia.org/wikipedia/commons/1/13/Lille-_Place_du_Vieux_March%C3%A9_aux_Chevaux_.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Garibaldi Red
 questions:
  - On change de sujet. Quel club de football britannique évoluant actuellement en 2e a remporté la Coupe d'Europe des clubs champions en 79 ? Ils ont gagné plus de Coupe des champions que de championnats nationaux.
+culture_g_score: 64
+culture_g_justification: "Club historiquement remarquable pour ses deux Coupes d’Europe sous Brian Clough, mais moins fréquent que les géants européens."
 ---
-
 ![Image de Nottingham Forest](https://upload.wikimedia.org/wikipedia/commons/a/a5/1886%E2%80%9387_Nottinghamshire_Senior_Cup_Final%2C_Nottingham_Forest_3%E2%80%930_Notts_Olympic%2C_Athletic_News%2C_26_April_1887.png)
 
 ###### Questions

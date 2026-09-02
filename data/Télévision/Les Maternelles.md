@@ -18,8 +18,9 @@ indice_5 :
   - conseils pour parents
 indice_6 : 
   - discussions avec experts
+culture_g_score: 44
+culture_g_justification: "Programme durable sur la parentalité, reconnaissable dans les quiz télévisuels mais rarement indispensable à la culture générale large."
 ---
-
 ![Image de Les Maternelles](https://upload.wikimedia.org/wikipedia/commons/a/ac/%C3%89cole_maternelle_Le_Ch%C3%AAne_sorcier%2C_Les_Clayes-sous-Bois%2C_Yvelines_2-1.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Vietnamisation
 questions:
  - Quel président des USA a parlé de majorité sliencieuse lors de son discours inaugural en 1968 ?
+culture_g_score: 92
+culture_g_justification: "Président américain incontournable, associé au Watergate, à la Chine, à la guerre froide et à de nombreux épisodes politiques."
 ---
-
 ![Image de Richard Nixon](https://upload.wikimedia.org/wikipedia/commons/b/b4/Letter_of_Resignation_of_Richard_M._Nixon%2C_1974.jpg)
 
 ###### Questions

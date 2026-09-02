@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de protection
 questions:
  - Quel mammifère rongeur, représenté en Amérique par le coendou, est couvert de longs piquants...
+culture_g_score: 64
+culture_g_justification: "Mammifère très identifiable par ses piquants, avec des liens à la zoologie, aux expressions et à la littérature."
 ---
-
 ![Image de Porc-épic](https://upload.wikimedia.org/wikipedia/commons/d/df/Porc-%C3%A9pic_%28Hystricidae%29.jpg)
 
 ###### Questions

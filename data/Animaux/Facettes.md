@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de transformation et résilience
 questions:
  - Quels triangles forment l'œil de la mouche ?
+culture_g_score: 23
+culture_g_justification: "Les facettes de l'œil composé relèvent d'une notion anatomique étroite et rarement demandée comme réponse autonome."
 ---
-
 ![Image de Facettes](https://upload.wikimedia.org/wikipedia/commons/a/a3/Elderly_Gambian_woman_face_portrait.jpg)
 
 ###### Questions

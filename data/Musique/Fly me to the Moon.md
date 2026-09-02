@@ -22,10 +22,9 @@ indice_6 :
   - standards américains
 questions:
  - Quel titre, enregistré en 1964 par Frank Sinatra et devenu un standard, signifie en français...
+culture_g_score: 80
+culture_g_justification: "Standard mondial associé à Frank Sinatra et à Apollo 11, permettant des questions musicales, spatiales et historiques."
 ---
-
-
-
 ![Image de Fly me to the Moon](https://upload.wikimedia.org/wikipedia/commons/e/eb/Fly_me_to_the_moon_%28%29.jpg)
 
 ###### Questions

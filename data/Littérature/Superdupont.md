@@ -22,7 +22,8 @@ indice_6 :
   - satire du chauvinisme
 questions:
  - Avec quel personnage de super-héros, chaussé de charentaises et coiffé d'un béret, Marcel Gotlib...
-culture_g_score: 40
+culture_g_score: 47
+culture_g_justification: "Personnage satirique emblématique de la bande dessinée française, mais à la portée culturelle et quiz limitée."
 ---
 ![Image de Superdupont](https://upload.wikimedia.org/wikipedia/commons/a/a9/Anti-France_%28logo%29.png)
 

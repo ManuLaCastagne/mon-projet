@@ -20,8 +20,9 @@ indice_6 :
   - record du monde
 questions:
  - En athlétisme maintenant, dans quelle épreuve de saut Jean Galfione est-il devenu en 99 le 1er Français à franchir la barre des 6 m ?
+culture_g_score: 80
+culture_g_justification: "Discipline d’athlétisme classique, fréquemment reliée à Duplantis, Bubka, Galfione, aux records et aux Jeux olympiques."
 ---
-
 ![Image de Saut à la perche](https://upload.wikimedia.org/wikipedia/commons/8/87/Garon%2C_saut_%C3%A0_la_perche_-_btv1b6917688q.jpg)
 
 ###### Questions

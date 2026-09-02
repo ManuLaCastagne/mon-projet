@@ -20,8 +20,9 @@ indice_5:
   - The Impossible
 indice_6:
   - Marvel Cinematic Universe
+culture_g_score: 73
+culture_g_justification: "Acteur très connu de la génération récente grâce à Spider-Man, Marvel, Billy Elliot et The Impossible."
 ---
-
 ![Image de Tom Holland](https://upload.wikimedia.org/wikipedia/commons/3/3c/Tom_Holland_by_Gage_Skidmore.jpg)
 
 ###### Questions

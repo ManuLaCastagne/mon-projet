@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de conservation en Asie du Sud-Est
 questions:
  - Quel singe de Bornéo doit son nom à son appendice nasal ?
+culture_g_score: 48
+culture_g_justification: "Primate de Bornéo immédiatement reconnaissable à son nez, mais offrant surtout quelques questions de zoologie régionale."
 ---
-
 ![Image de Nasique](https://upload.wikimedia.org/wikipedia/commons/7/78/Proboscis_monkey_%28Nasalis_larvatus%29_composite.jpg)
 
 ###### Questions

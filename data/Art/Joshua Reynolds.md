@@ -18,8 +18,9 @@ indice_5 :
   - English Painter
 indice_6 : 
   - Captain John Hamilton
+culture_g_score: 39
+culture_g_justification: "Premier président de la Royal Academy et portraitiste important, Reynolds reste toutefois peu connu du joueur généraliste."
 ---
-
 ![Image de Joshua Reynolds](https://upload.wikimedia.org/wikipedia/commons/1/12/Sir_Joshua_Reynolds_-_John_Murray%2C_4th_Earl_of_Dunmore_-_Google_Art_Project.jpg)
 
 ###### Questions

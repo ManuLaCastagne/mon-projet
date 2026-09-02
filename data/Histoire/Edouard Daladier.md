@@ -21,6 +21,7 @@ indice_6 :
 questions:
  - En 1938, qui succède à Léon Blum ?
 culture_g_score: 64
+culture_g_justification: "Personnalité significative de la Troisième République et des accords de Munich, avec une présence régulière mais non centrale dans les quiz."
 ---
 ![Image de Edouard Daladier](https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%89douard_Daladier.jpg)
 

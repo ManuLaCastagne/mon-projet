@@ -20,8 +20,9 @@ indice_6 :
   - décès à Vienne en 1793
 questions:
  - Quelle duchesse et amie de Marie-Antoinette a été contrainte à l'exil ?
+culture_g_score: 51
+culture_g_justification: "Figure identifiable de la cour de Marie-Antoinette, mais son intérêt demeure concentré sur la monarchie française finissante."
 ---
-
 ![Image de Duchesse de Polignac](https://upload.wikimedia.org/wikipedia/commons/1/1d/Portrait_de_la_duchesse_de_Polignac_par_%C3%89lisabeth_Vig%C3%A9e_Le_Brun._1782.jpg)
 
 ###### Questions

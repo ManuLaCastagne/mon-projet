@@ -24,8 +24,9 @@ indice_6 :
   - Alizés
 questions:
  - Quelle ville du Maroc, sur l'Atlantique, était autrefois appelée Mogador ?
+culture_g_score: 60
+culture_g_justification: "Ville marocaine patrimoniale associée à Mogador, à l’UNESCO, au cinéma et à la musique, avec une bonne mais limitée rentabilité."
 ---
-
 ![Image de Essaouira](https://upload.wikimedia.org/wikipedia/commons/9/97/Maroc_Essaouira_Luc_Viatour_4.JPG)
 
 ![[Carte_Essaouira.png]]

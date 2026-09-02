@@ -22,8 +22,9 @@ indice_6 :
   - chanteur français
 questions:
  - Chanteur né en 1945 au château de Bénouville alors transformé en maternité, j'écris à 12 ans ma 1re chanson, "Le vagabond", qui figure sur mon premier disque en 1967. Surnommé à mes débuts "le Petit prince de la chanson française", j'ai marqué les années 70 avec des titres comme "Voici les clés", "Michèle".
+culture_g_score: 60
+culture_g_justification: "Interprète de plusieurs tubes durables de la chanson française, Lenorman est un sujet classique mais de portée principalement nationale."
 ---
-
 ![Image de Gérard Lenorman](https://upload.wikimedia.org/wikipedia/commons/e/eb/Gerard_Lenorman.jpg)
 
 ###### Questions

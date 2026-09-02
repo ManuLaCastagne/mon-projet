@@ -19,9 +19,9 @@ indice_6 :
   - Jupiter
 questions:
  - Dans quelle chaîne de montagnes d'Asie Mineure la légende plaçait-elle le jugement de Mythologie/Pâris, qui mettait en compétition plusieurs déesses ?
+culture_g_score: 51
+culture_g_justification: "Le mont Ida intervient dans plusieurs récits grecs, mais la confusion entre ses différents sites et sa fréquence limitée réduisent sa priorité."
 ---
-
-
 ![Image de Mont Ida](https://upload.wikimedia.org/wikipedia/commons/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg)
 
 ###### Questions

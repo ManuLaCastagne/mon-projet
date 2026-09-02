@@ -22,8 +22,9 @@ indice_6 :
   - restaurateur
 questions:
  - En 1963, dans quel film de Gilles Grangier Fernandel et Bourvil incarnent-ils 2 cuisiniers?
+culture_g_score: 57
+culture_g_justification: "Duo Fernandel-Bourvil très identifiable dans une comédie populaire française, mais avec peu d'angles indépendants de questionnement."
 ---
-
 ![Image de La Cuisine au beurre](https://upload.wikimedia.org/wikipedia/commons/1/1f/Quimper_-_Rue_du_Sall%C3%A9_-_Cr%C3%AAperie_La_Krampouzerie_-_Cr%C3%AApe_Saint_Jacques_et_son_beurre_d%27oursin.jpeg)
 
 ###### Questions

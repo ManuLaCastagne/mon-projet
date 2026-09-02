@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de suicide de masse
 questions:
  - Mammifère dont une espèce dite variable est nommée "kilang miutak" par les Inuits, je vis dans les régions boréales de l'Amérique et de l'Eurasie.  Petit rongeur dont la population fluctue avec des pics de pullulation selon des cycles de 3 à 5 ans...
+culture_g_score: 56
+culture_g_justification: "Petit rongeur surtout rentable grâce au mythe du suicide collectif, aux fluctuations démographiques et à l'Arctique."
 ---
-
 ![Image de Lemming](https://upload.wikimedia.org/wikipedia/commons/a/a6/Lemming_%C3%A0_collerette_du_Labrador_ou_lemming_d%27Ungava.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - guillotiné en 1795
 questions:
  - Ayant la réputation d'une rigueur implacable, je dois mon surnom de pourvoyeur de la guillotine au grand nombre de personnes que je fis exécuter.
+culture_g_score: 60
+culture_g_justification: "Figure classique de la Terreur, mobilisable autour du Tribunal révolutionnaire, de la Révolution et du procès de Marie-Antoinette."
 ---
-
 ![Image de Fouquier-Tinville](https://upload.wikimedia.org/wikipedia/commons/d/de/Antoine_Quentin_Fouquier_de_Tinville.png)
 
 ###### Questions

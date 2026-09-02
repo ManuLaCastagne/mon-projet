@@ -20,8 +20,9 @@ indice_6 :
   - Frère de Jean-François Kahn
 questions:
  - Dans l'ouvrage "Pensées en chemin, ma France des Ardennes au Pays basque", quel généticien français évoque sa passion pour la marche?
+culture_g_score: 51
+culture_g_justification: "Généticien et vulgarisateur français notable, mais surtout utile pour quelques questions biographiques et de génétique contemporaine."
 ---
-
 ![Image de Axel Kahn](https://upload.wikimedia.org/wikipedia/commons/b/b6/Axel_Kahn_par_Claude_Truong-Ngoc_octobre_2015.jpg)
 
 ###### Questions

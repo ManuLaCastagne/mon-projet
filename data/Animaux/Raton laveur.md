@@ -15,9 +15,9 @@ indice_6 :
   - Personnage de contes amérindiens
 questions:
  - Quel carnivore d'Amérique à la queue rayée et à la tête marquée d'un masque noir...
+culture_g_score: 64
+culture_g_justification: "Mammifère très reconnaissable, présent dans des questions sur la faune, les espèces invasives et la culture nord-américaine."
 ---
-
-
 ![Image de Raton laveur](https://upload.wikimedia.org/wikipedia/commons/f/f7/Raton_laveur_DSCF0010.jpg)
 
 ###### Questions

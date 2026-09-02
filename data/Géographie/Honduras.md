@@ -24,8 +24,9 @@ indice_6 :
   - Mosquitia
 questions:
  - Un Etat d'Amérique centrale disposant de frontières avec le Guatemala, le Salvador et le Nicaragua.
+culture_g_score: 63
+culture_g_justification: "Pays d’Amérique centrale utile pour sa géographie, Copán, ses deux façades maritimes et son histoire politique."
 ---
-
 ![Image de Honduras](https://upload.wikimedia.org/wikipedia/commons/0/05/Honduras_Banco_TGU.jpg)
 
 ![[Carte_Honduras.png]]

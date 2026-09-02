@@ -19,8 +19,9 @@ indice_5 :
   - confessionnal
 indice_6 : 
   - candidats
+culture_g_score: 72
+culture_g_justification: "Grande émission française de télé-réalité, régulièrement reconnaissable grâce à son concept, ses candidats et sa chaîne de diffusion."
 ---
-
 ![Image de Secret Story](https://upload.wikimedia.org/wikipedia/commons/a/a5/Secret_Story_Logo.png)
 
 ###### Questions

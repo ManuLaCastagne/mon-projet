@@ -20,8 +20,9 @@ indice_6 :
   - Fibre synthétique
 questions:
  - Résultant des recherches d'un géant de la chimie…
+culture_g_score: 69
+culture_g_justification: "Matériau synthétique emblématique relié au textile, à la guerre, à DuPont et à l’histoire des innovations industrielles."
 ---
-
 ![Image de Nylon](https://upload.wikimedia.org/wikipedia/commons/e/e2/%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D1%87%D1%83%D0%BB%D0%BA%D0%B8.jpg)
 
 ###### Questions

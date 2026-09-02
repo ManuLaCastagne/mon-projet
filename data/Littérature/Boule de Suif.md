@@ -22,8 +22,9 @@ indice_6 :
   - sacrifice d'une prostituée
 questions:
  - Dans quelle nouvelle de Maupassant se déroulant durant la guerre franco-allemande les passagers d'une diligence descendent-ils à l'hôtel du Commerce ?
+culture_g_score: 80
+culture_g_justification: "Nouvelle emblématique de Maupassant, utile pour le naturalisme, la guerre de 1870, Les Soirées de Médan et la critique sociale."
 ---
-
 ![Image de Boule de Suif](https://upload.wikimedia.org/wikipedia/commons/d/d4/Beaux-Arts_de_Carcassonne_-_Boule_de_Suif_1884_-_Paul-%C3%89mile_Boutigny.jpg)
 
 ###### Questions

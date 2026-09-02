@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de changement et d'adaptation
 questions:
  - Animal dont l'espèce oustaleti peut atteindre 60 cm de long, je suis essentiellement présent dans les zones boisées d'Afrique et de Madagascar. Reptile...
+culture_g_score: 80
+culture_g_justification: "Animal mondialement associé au camouflage, à la langue et aux yeux indépendants, ce qui le rend très rentable en quiz."
 ---
-
 ![Image de Caméléon](https://upload.wikimedia.org/wikipedia/commons/e/e6/Cameleon_Tunisie.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6:
   - Duc de Polignac
 questions:
   - uel homme politique français, devenu en 1829, pour le plaisir, président du Conseil, s'est vite rendu impopulaire par sa politique réactionnaire?
+culture_g_score: 47
+culture_g_justification: "Polignac est principalement associé aux Ordonnances de 1830 et à la chute de Charles X, ce qui limite son intérêt à l’histoire de la Restauration."
 ---
-
 ![Image de Jules Polignac](https://upload.wikimedia.org/wikipedia/commons/b/b7/Jules_de_Polignac_par_Maurin_d%27apr%C3%A8s_Delpech.jpg)
 
 ###### Questions

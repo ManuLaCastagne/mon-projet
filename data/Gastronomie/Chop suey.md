@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Chine
+culture_g_score: 44
+culture_g_justification: "Plat sino-américain reconnaissable, mais assez peu fréquent et historiquement moins central que les grands classiques asiatiques."
 ---
 ###### Questions 
 

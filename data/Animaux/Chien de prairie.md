@@ -15,8 +15,9 @@ indice_6 :
   - Espèce clé de voûte
 questions:
  - Quel est cet animal vivant en colonies sur le continent américain, qui doit son nom au fait que son cri ressemble à un aboiement ?
+culture_g_score: 52
+culture_g_justification: "Rongeur nord-américain intéressant pour ses colonies et sa communication, mais encore peu fréquent dans les quiz francophones."
 ---
-
 ![Image de Chien de prairie](https://upload.wikimedia.org/wikipedia/commons/a/a9/Kissing_Prairie_dog_edit_3.jpg)
 
 ###### Questions

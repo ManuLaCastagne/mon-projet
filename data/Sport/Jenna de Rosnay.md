@@ -20,9 +20,9 @@ indice_6 :
   - glisse
 questions:
  - En 1988, quelle ancienne championne de planche à voile, également mannequin, crée sa 1re ligne de maillots de bain?
+culture_g_score: 40
+culture_g_justification: "Championne de funboard et personnalité médiatique, Jenna de Rosnay reste une connaissance spécialisée et rarement prioritaire."
 ---
-
-
 ![Image de Jenna de Rosnay]()
 
 ###### Questions

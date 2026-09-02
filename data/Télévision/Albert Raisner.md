@@ -18,8 +18,9 @@ indice_5 :
   - variétés musicales
 indice_6 : 
   - producteur
+culture_g_score: 60
+culture_g_justification: "Animateur et musicien associé à une émission yé-yé majeure, utile pour les questions sur la télévision musicale française."
 ---
-
 ![Image de Albert Raisner](https://upload.wikimedia.org/wikipedia/commons/8/8a/TrioRaisner-1953.png)
 
 ###### Questions

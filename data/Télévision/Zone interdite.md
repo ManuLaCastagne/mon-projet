@@ -21,8 +21,9 @@ indice_6:
   - sujets de société
 questions:
   - Emission de télévision française diffusée pour la 1re fois le 7 mars 1993 en soirée, je dois la musique de mon générique à Michel Jonasz.  M'intéressant tous les 15 jours, à des sujets de société à travers des reportages, j'ai été notamment animée par Mélissa Theuriau, depuis ma création par Patrick de Carolis...
+culture_g_score: 76
+culture_g_justification: "Magazine emblématique de M6, régulièrement interrogé pour ses présentateurs, son générique, sa longévité et ses sujets de société."
 ---
-
 ![Image de Zone interdite](https://upload.wikimedia.org/wikipedia/commons/9/93/Zone_interdite_2014.jpg)
 
 ###### Questions

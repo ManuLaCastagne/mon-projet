@@ -18,8 +18,9 @@ indice_5 :
   - Cambridge
 indice_6 : 
   - Theoretical physicist
+culture_g_score: 84
+culture_g_justification: "Physicien mondialement célèbre, exploitable en cosmologie, en vulgarisation scientifique, dans les médias et par son parcours personnel."
 ---
-
 ![Image de Stephen Hawking](https://upload.wikimedia.org/wikipedia/commons/0/08/Physicist_Stephen_Hawking_in_Zero_Gravity_NASA.jpg)
 
 ###### Questions

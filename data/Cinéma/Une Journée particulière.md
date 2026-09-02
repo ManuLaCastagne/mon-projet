@@ -18,8 +18,9 @@ indice_5 :
   - 1938
 indice_6 : 
   - Benito Mussolini
+culture_g_score: 80
+culture_g_justification: "Classique d’Ettore Scola porté par Loren et Mastroianni, il relie cinéma italien, fascisme, histoire et analyse sociale."
 ---
-
 ![Image de Une Journée particulière](https://upload.wikimedia.org/wikipedia/commons/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - En 2015, quel chanteur interprète le titre "L'Océan", extrait de l'album "Eléor"?
  - En 2020, quel artiste, dont le nom de scène est formé de son prénom suivi d'une lettre, sort 4 chansons réunies sous le titre "Le Silence ou tout comme" ?
+culture_g_score: 52
+culture_g_justification: "Artiste important de la nouvelle chanson française, mais principalement connu des amateurs du genre et peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Dominique A](https://upload.wikimedia.org/wikipedia/commons/5/53/Dominique_A-7_%28crop%29.JPG)
 
 ###### Questions

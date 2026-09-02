@@ -20,8 +20,9 @@ indice_6 :
   - résolution de crimes
 questions:
  - Quelle série télévisée américaine créée par Andy Breckman a pour personnage principal un ancien policier, tourmenté par des troubles obsessionnels...
+culture_g_score: 72
+culture_g_justification: "Série policière très connue des années 2000, fréquemment identifiable grâce à Adrian Monk, ses phobies et Tony Shalhoub."
 ---
-
 ![Image de Monk](https://upload.wikimedia.org/wikipedia/commons/a/ae/Vat_Pa_Phai_temple_with_a_Buddhist_monk%2C_orange_marigold%2C_clouds_and_blue_sky%2C_in_Luang_Prabang.jpg)
 
 ###### Questions

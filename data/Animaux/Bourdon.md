@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de travailleur
 questions:
  - Aux corolles profondes et à mon corps velu qui retient les grains de pollen, je suis un hyménoptère social, moins agressif...
+culture_g_score: 68
+culture_g_justification: "Insecte facilement identifiable, important pour la pollinisation et associé à une œuvre musicale célèbre."
 ---
-
 ![Image de Bourdon](https://upload.wikimedia.org/wikipedia/commons/9/90/Augustins_-_Le_Martyre_de_Saint_Andr%C3%A9_-_S%C3%A9bastien_Bourdon_2004_1_52.jpg)
 
 ###### Questions

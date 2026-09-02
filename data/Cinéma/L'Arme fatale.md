@@ -22,8 +22,9 @@ indice_6 :
   - buddy cop film
 questions:
  - De 23 ans, Shane Black, et rapporté près de 10 fois mon budget. Mêlant action et comédie, je mets en scène un tandem de policiers de Los Angeles, Roger Murtaugh et Martin Riggs, interprétés par Danny Glover et Mel Gibson...
+culture_g_score: 84
+culture_g_justification: "Franchise d'action très célèbre permettant des questions sur Mel Gibson, Danny Glover, Richard Donner, la musique et le cinéma des années 1980."
 ---
-
 ![Image de L'Arme fatale](https://upload.wikimedia.org/wikipedia/commons/a/ac/Lethal_Weapons_%28film_franchise_logo%29.svg)
 
 ###### Questions

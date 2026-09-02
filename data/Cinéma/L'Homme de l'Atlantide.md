@@ -23,6 +23,7 @@ indice_6 :
 questions:
  - Dans quelle série, diffusée en France dès la fin des années 70, Patrick Duffy incarnait-il le survivant d'une civilisation océanique disparue? (le maillot de bain jaune)
 culture_g_score: 44
+culture_g_justification: "Série de science-fiction télévisée identifiable par Patrick Duffy, mais aujourd'hui assez datée et peu transversale."
 ---
 ![Image de L'Homme de l'Atlantide](https://upload.wikimedia.org/wikipedia/commons/2/2e/L%27Homme_de_l%27Atlantide_by_Luk_Van_Soom_%28DSCF6790%29.jpg)
 

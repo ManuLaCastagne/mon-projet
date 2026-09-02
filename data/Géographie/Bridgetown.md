@@ -22,8 +22,9 @@ indice_5 :
   - Boucle nationale des musées
 indice_6 : 
   - Esplanade de Carlisle Bay
+culture_g_score: 60
+culture_g_justification: "Bridgetown est une capitale caribéenne classique, associée à la Barbade, au patrimoine colonial et à Rihanna."
 ---
-
 ![Image de Bridgetown](https://upload.wikimedia.org/wikipedia/commons/4/4f/Bridgetown_aerial.JPG)
 
 ![[Carte_Bridgetown.png]]

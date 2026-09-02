@@ -14,9 +14,9 @@ indice_5:
   - Chien de garde
 indice_6:
   - Loyal compagnon
+culture_g_score: 84
+culture_g_justification: "Race mondialement connue, très présente dans les questions sur les animaux, la police, le cinéma et les guerres."
 ---
-
-
 ![Image de Berger allemand](https://upload.wikimedia.org/wikipedia/commons/d/d7/Alwin_Berger_1906.jpg)
 
 ###### Questions

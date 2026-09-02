@@ -18,9 +18,9 @@ indice_5 :
   - Emma et Adèle
 indice_6 : 
   - Adaptation de Le bleu est une couleur chaude
+culture_g_score: 77
+culture_g_justification: "Palme d’or très connue, reliée à Kechiche, Cannes, l’adaptation littéraire et ses actrices, ce qui la rend rentable en quiz."
 ---
-
-
 ![Image de La Vie d'Adèle](https://upload.wikimedia.org/wikipedia/commons/c/c9/La_Vie_d%27Ad%C3%A8le_casting_Cannes_2013.jpg)
 
 ###### Questions

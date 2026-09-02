@@ -20,8 +20,9 @@ indice_6 :
   - patrimoine régional
 questions:
  - Emission de France 3 créée en septembre 2012, diffusée le samedi après-midi, je propose de partir à la rencontre des autres et de leur culture à travers la France.
+culture_g_score: 64
+culture_g_justification: "Émission durable et rentable pour relier gastronomie, régions françaises, patrimoine culinaire et Julie Andrieu."
 ---
-
 ![Image de Les Carnets de Julie](https://upload.wikimedia.org/wikipedia/commons/a/a7/Carnets_de_Traverse_est_pr%C3%AAte_pour_aller_travailler_dans_les_rizi%C3%A8res_du_delta_de_l%27Ebre_avec_Polet_%21_%2813736849733%29.jpg)
 
 ###### Questions

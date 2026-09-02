@@ -20,8 +20,9 @@ indice_6 :
   - France
 questions:
  - Quel ancien curé d'Ars, canonisé en 1925, a été proclamé patron des curées de paroisse ?
+culture_g_score: 51
+culture_g_justification: "Figure catholique française connue pour Ars et la confession, mais principalement utile dans des questions hagiographiques spécialisées."
 ---
-
 ![Image de Saint Jean-Marie Vianney](https://upload.wikimedia.org/wikipedia/commons/d/de/Statue_of_Jean-Marie_Vianney_at_Saint_Laurentius_Church%2C_Ename.jpg)
 
 ###### Questions

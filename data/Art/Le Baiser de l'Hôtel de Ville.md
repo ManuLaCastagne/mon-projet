@@ -23,8 +23,9 @@ indice_6 :
   - noir et blanc
 questions:
  - Répondant à la commande du magazine américain "Life" d'un reportage sur les amoureux de Paris, je ne fus pas, contrairement à la légende, prise sur le vif. Célèbre cliché...
+culture_g_score: 84
+culture_g_justification: "Photographie iconique de Doisneau, elle permet des questions fréquentes sur Paris, l’après-guerre, la photographie et la mise en scène."
 ---
-
 ![Image de Le Baiser de l'Hôtel de Ville](https://upload.wikimedia.org/wikipedia/commons/8/8a/Le_Cadran_de_la_volupt%C3%A9_ou_les_Aventures_de_Ch%C3%A9rubin.djvu)
 
 ###### Questions

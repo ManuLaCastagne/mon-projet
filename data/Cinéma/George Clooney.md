@@ -22,10 +22,9 @@ indice_6 :
   - Palme d'or
 questions:
  - En 2016, dans le film "Money Monster", quel acteur incarne un animateur de télévision pris en otage en direct  durant l'émission qu'il présente?
+culture_g_score: 93
+culture_g_justification: "Star internationale mobilisable par Urgences, ses films, sa réalisation, ses engagements et son activité entrepreneuriale."
 ---
-
-
-
 ![Image de George Clooney](https://upload.wikimedia.org/wikipedia/commons/7/73/George_Clooney_66%C3%A8me_Festival_de_Venise_%28Mostra%29_3Alt1.jpg)
 
 ###### Questions

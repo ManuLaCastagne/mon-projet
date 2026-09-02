@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Latin
+culture_g_score: 44
+culture_g_justification: "Bactérie rendue familière par les produits laitiers, mais donnant surtout quelques questions de microbiologie ou d'alimentation."
 ---
 ###### Questions 
 

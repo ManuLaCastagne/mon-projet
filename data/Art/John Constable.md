@@ -23,8 +23,9 @@ indice_6 :
   - Peintures de nuages
 questions:
  - Les paysages de son Suffolk natal doit-on ce tableau montrant le moulin à eau de son père dans la région de Dedham au début du XIXe ?
+culture_g_score: 52
+culture_g_justification: "Peintre britannique important pour le paysage et l’influence exercée sur l’impressionnisme, mais moins récurrent que Turner ou les grands peintres français."
 ---
-
 ![Image de John Constable](https://upload.wikimedia.org/wikipedia/commons/1/15/John_Constable_-_Wivenhoe_Park%2C_Essex_-_Google_Art_Project.jpg)
 
 ###### Questions

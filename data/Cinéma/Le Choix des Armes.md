@@ -18,8 +18,9 @@ indice_5:
   - 1981
 indice_6:
   - Polar français
+culture_g_score: 60
+culture_g_justification: "Polar français porté par un trio d’acteurs majeurs, intéressant pour Corneau et le cinéma policier mais moins incontournable que les grands classiques."
 ---
-
 ![[Pasted image 20250502173109.png]]
 ###### Questions
 

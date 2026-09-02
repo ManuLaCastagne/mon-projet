@@ -15,8 +15,9 @@ indice_6 :
   - Nuisible des jardins
 questions:
  - Quel papillon crépusculaire  est représenté par une espèce dite "du maïs", dont les larves font des dégâts  dans les cultures ?
+culture_g_score: 27
+culture_g_justification: "Insecte ravageur connu surtout dans des contextes agricoles ou environnementaux précis, avec peu de présence dans les quiz généralistes."
 ---
-
 ![Image de Pyrale](https://upload.wikimedia.org/wikipedia/commons/9/9e/Invasion_pyrale_2016_02.jpg)
 
 ###### Questions

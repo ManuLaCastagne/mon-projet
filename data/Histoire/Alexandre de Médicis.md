@@ -19,8 +19,9 @@ indice_5:
   - Premier duc de Florence
 indice_6:
   - Assassinat
+culture_g_score: 28
+culture_g_justification: "Duc de Florence au XVIe siècle, Alexandre de Médicis est surtout une figure spécialisée de l’histoire florentine."
 ---
-
 ![Image de Alexandre de Médicis](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Portrait_of_Duke_Alessandro_de%27_Medici_%281510-1537%29.jpg/1280px-Portrait_of_Duke_Alessandro_de%27_Medici_%281510-1537%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - maison hantée
 questions:
  - Dans quel film adapté d'une nouvelle d'Edgar Poe un homme accueille un ami dans sa maison lugubre ?
+culture_g_score: 48
+culture_g_justification: "Adaptation de Poe et film fantastique de Corman intéressants pour les cinéphiles, mais la référence précise reste relativement spécialisée."
 ---
-
 ![Image de La Chute de la maison Usher](https://upload.wikimedia.org/wikipedia/commons/d/d5/La_Chute_de_la_maison_Usher_%281928%29%2C_affiche.jpg)
 
 ###### Questions

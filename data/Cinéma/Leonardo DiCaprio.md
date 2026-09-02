@@ -20,8 +20,9 @@ indice_5 :
   - acteur américain
 indice_6 : 
   - environnementaliste
+culture_g_score: 96
+culture_g_justification: "Star mondiale offrant de très nombreux angles sur Titanic, Scorsese, les Oscars, Hollywood, ses réalisateurs et sa filmographie."
 ---
-
 ![Image de Leonardo DiCaprio](https://upload.wikimedia.org/wikipedia/commons/5/54/Leonardo_DiCaprio_crop.jpg)
 
 ###### Questions

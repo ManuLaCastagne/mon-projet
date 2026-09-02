@@ -20,11 +20,9 @@ indice_6 :
   - 6. mystère non résolu
 questions:
  - Quel animateur de télévision, disparu en 1985 lors d'une expédition sur le fleuve Zaïre (fleuve), a présenté...
+culture_g_score: 60
+culture_g_justification: "Animateur-aventurier marquant de La Chasse aux trésors, dont la disparition constitue un angle historique et médiatique notable."
 ---
-
-
-
-
 ![Image de Philippe de Dieuleveult](https://upload.wikimedia.org/wikipedia/commons/f/f3/Tombe_de_la_famille_De_Dieuleveult_au_Minihic-sur-Rance.jpg)
 
 ###### Questions

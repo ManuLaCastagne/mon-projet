@@ -23,8 +23,9 @@ indice_6 :
   - surréalisme et cubisme
 questions:
  - A quelle collectionneuse américaine associe-t-on le palais Venier dei Leoni de Venise dans lequel sont exposées les oeuvres qu'elle accumula?
+culture_g_score: 68
+culture_g_justification: "Peggy Guggenheim relie mécénat, avant-garde, exil durant la guerre, art moderne et artistes majeurs comme Pollock ou Picasso."
 ---
-
 ![Image de Peggy Guggenheim](https://upload.wikimedia.org/wikipedia/commons/6/66/Peggy%2C_Marseille37.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Réseau veineux
 questions:
  - Quel terme générique désigne  la technique d'analyse mathématique des caractéristiques biologiques de quelqu'un, notamment grâce à ses empreintes digitales ?
+culture_g_score: 72
+culture_g_justification: "La biométrie est une notion moderne et transversale, mobilisable en sciences, sécurité, informatique et vie quotidienne."
 ---
-
 ![Image de Biométrie](https://upload.wikimedia.org/wikipedia/commons/f/fc/IrisScanIraq.jpg)
 
 ###### Questions

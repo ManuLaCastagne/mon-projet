@@ -22,8 +22,9 @@ indice_6 :
   - album Led Zeppelin IV
 questions:
  - En 1969, quel groupe, créé par Robert Plant et Jimmy Page...
+culture_g_score: 100
+culture_g_justification: "Groupe fondamental de l’histoire du rock, omniprésent dans les quiz grâce à ses membres, ses albums, ses chansons et son influence."
 ---
-
 ![Image de Led Zeppelin](https://upload.wikimedia.org/wikipedia/commons/6/63/Led_Zeppelin_-_promotional_image_%281971%29.jpg)
 
 ###### Questions

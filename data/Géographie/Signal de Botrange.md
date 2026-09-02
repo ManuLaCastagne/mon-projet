@@ -21,9 +21,9 @@ indice_5:
   - Tour Baltia
 indice_6:
   - Ardenne
+culture_g_score: 40
+culture_g_justification: "Point culminant de la Belgique, utile pour une question de géographie nationale mais peu transversal."
 ---
-
-
 ![[Carte_Signal de Botrange.png]]
 
 ###### Questions

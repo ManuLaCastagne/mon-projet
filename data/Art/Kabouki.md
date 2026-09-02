@@ -23,10 +23,9 @@ indice_6:
   - Gestes codifiés
 questions:
   - Quel genre théâtral japonais, apparu au XVIIe…
+culture_g_score: 80
+culture_g_justification: "Le kabuki est un élément classique de la culture japonaise, interrogé sous les angles du théâtre, des traditions, des costumes et de l’UNESCO."
 ---
-
-
-
 ![Image de Kabouki](https://upload.wikimedia.org/wikipedia/commons/d/d0/Repr%C3%A9sentation_de_Harou%C3%A9_Azuma._26_mars_au_th%C3%A9%C3%A2tre_kabouki_%C3%A0_Osaka_-_affiche_-_non_identifi%C3%A9_-_btv1b53221602w.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Western
 indice_6 : 
   - Quatre Oscars du meilleur réalisateur
+culture_g_score: 84
+culture_g_justification: "John Ford est une figure fondamentale du western et de l'histoire du cinéma, associée à plusieurs classiques et à un record d'Oscars."
 ---
-
 ![Image de John Ford](https://upload.wikimedia.org/wikipedia/commons/0/04/John_Ford_1946.jpg)
 
 ###### Questions

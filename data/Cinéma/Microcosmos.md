@@ -22,8 +22,9 @@ indice_6 :
   - François Truffart
 questions:
  - En 1996, quel documentaire magnifique de Claude Nurissani est tourné dans une prairie de l'Aveyron ?
+culture_g_score: 52
+culture_g_justification: "Documentaire français original et primé, utile pour des questions de cinéma, de nature et de techniques de prise de vue, mais peu fréquent."
 ---
-
 ![Image de Microcosmos](https://upload.wikimedia.org/wikipedia/commons/1/1c/Iotula_microcosmos_%2810.3853-j.2201-4349.75.2023.1824%29_Figure_S3_%28cropped-B%29.png)
 
 ###### Questions

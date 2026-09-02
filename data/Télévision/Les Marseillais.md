@@ -19,7 +19,8 @@ indice_5 :
   - aventure et vacances
 indice_6 : 
   - accents chantants
-culture_g_score: 39
+culture_g_score: 40
+culture_g_justification: "Émission de téléréalité très identifiée dans la télévision française récente, mais d'importance culturelle et de portée limitées."
 ---
 ![Image de Les Marseillais](https://upload.wikimedia.org/wikipedia/commons/b/b0/19270612_L%C3%A9on_Daudet_dans_Le_Petit_Marseillais.png)
 

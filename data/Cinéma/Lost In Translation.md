@@ -19,8 +19,9 @@ indice_5:
   - hôtel Park Hyatt
 indice_6:
   - expatriés américains
+culture_g_score: 80
+culture_g_justification: "Film emblématique de Sofia Coppola, régulièrement associé à Bill Murray, Scarlett Johansson, Tokyo et sa bande originale."
 ---
-
 ![[Pasted image 20260113152243.png]]
 ###### Questions
 

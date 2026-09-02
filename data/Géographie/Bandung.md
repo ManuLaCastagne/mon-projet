@@ -24,9 +24,9 @@ indice_6 :
   - Parc national de Gunung Halu
 questions:
  - Quelle ville d'Indonésie est célèbre pour sa conférence ayant réuni 29 pays ?
+culture_g_score: 60
+culture_g_justification: "La conférence de 1955 en fait une référence historique et géopolitique utile, au-delà de sa simple dimension urbaine."
 ---
-
-
 ![Image de Bandung](https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandung_city_at_night_%282517163687%29.jpg)
 
 ![[Carte_Bandung.png]]

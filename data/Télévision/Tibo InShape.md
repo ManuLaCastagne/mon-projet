@@ -19,9 +19,9 @@ indice_5 :
   - accent du sud
 indice_6 : 
   - millions d'abonnés
+culture_g_score: 48
+culture_g_justification: "Youtubeur français très populaire dans son domaine, mais sa notoriété numérique ne se traduit pas encore par une forte fréquence en culture générale classique."
 ---
-
-
 ![Image de Tibo InShape](https://upload.wikimedia.org/wikipedia/commons/e/ed/Tibo_InShape_en_2021.png)
 
 ###### Questions

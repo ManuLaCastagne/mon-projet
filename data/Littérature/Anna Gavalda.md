@@ -22,8 +22,9 @@ indice_6 :
   - Des vies en mieux
 questions:
  - Quelle romancière confie à une jeune célibataire le rôle de la narratrice dans "Echappées belles" ?
+culture_g_score: 44
+culture_g_justification: "Écrivaine contemporaine assez connue en France, mais ses œuvres restent relativement peu fréquentes dans les quiz généralistes."
 ---
-
 ![Image de Anna Gavalda](https://upload.wikimedia.org/wikipedia/commons/6/6b/Anna_Gavalda_02.jpg)
 
 ###### Questions

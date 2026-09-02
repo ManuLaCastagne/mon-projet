@@ -21,8 +21,9 @@ indice_6:
   - actrice française
 questions:
   - A quelle actrice, ayant incarné Maria Callas dans un film de Zeffirelli, doit-on le long-métrage "Le Divan de Staline" sorti en France en 2017?
+culture_g_score: 64
+culture_g_justification: "Grande actrice du cinéma français associée à Truffaut et à plusieurs films connus, avec une fréquence de quiz régulière mais non massive."
 ---
-
 ![Image de Fanny Ardant](https://upload.wikimedia.org/wikipedia/commons/d/d2/FANNY_ARDANT_CESAR_2020.jpg)
 
 ###### Questions

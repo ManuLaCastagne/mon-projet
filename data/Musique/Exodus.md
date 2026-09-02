@@ -15,6 +15,8 @@ indice_5:
   - Jamming
 indice_6:
   - île de la Jamaïque
+culture_g_score: 77
+culture_g_justification: "Album emblématique de Bob Marley, régulièrement interrogé sur le reggae, la Jamaïque et la carrière de l'artiste."
 ---
 ###### Questions
 

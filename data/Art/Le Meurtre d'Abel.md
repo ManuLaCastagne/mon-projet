@@ -21,8 +21,9 @@ indice_5 :
   - sacrifice
 indice_6 : 
   - premier meurtre
+culture_g_score: 31
+culture_g_justification: "Œuvre secondaire de Titien, dont l’identification précise apparaît rarement en quiz généraliste malgré son sujet biblique."
 ---
-
 ![Image de Le Meurtre d'Abel](https://upload.wikimedia.org/wikipedia/commons/1/1a/%C3%89glise_Saint_Aloyse_le_meurtre_d%27Abel_par_Ca%C3%AFn.jpg)
 
 ###### Questions

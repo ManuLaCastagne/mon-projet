@@ -16,8 +16,9 @@ indice_5:
   - Richard Gere
 indice_6:
   - Folk rock
+culture_g_score: 52
+culture_g_justification: "Biopic récent de Bob Dylan utile par son sujet musical et son casting, mais encore moins installé dans les classiques des quiz."
 ---
-
 ![Image de A Complete Unknown](https://upload.wikimedia.org/wikipedia/commons/8/8b/Un_parfait_inconnu_avant-premi%C3%A8re.jpg)
 
 ###### Questions

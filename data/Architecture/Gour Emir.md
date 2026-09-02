@@ -22,8 +22,9 @@ indice_5 :
   - Tombe de Tamerlan
 indice_6 : 
   - Timourides
+culture_g_score: 47
+culture_g_justification: "Le Gour Emir est un remarquable mausolée timouride lié à Tamerlan, mais demeure une référence relativement spécialisée hors des quiz sur l’Asie centrale."
 ---
-
 ![Image de Gour Emir]()
 
 ###### Questions

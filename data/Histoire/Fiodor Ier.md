@@ -18,8 +18,9 @@ indice_5 :
   - surnommé le Béni
 indice_6 : 
   - dernier tsar de sa dynastie
+culture_g_score: 44
+culture_g_justification: "Tsar important pour l’histoire russe et le patriarcat de Moscou, mais nettement moins fréquent que les grands souverains russes."
 ---
-
 ![Image de Fiodor Ier](https://upload.wikimedia.org/wikipedia/commons/7/75/Feodor_I_of_Russia_%28late_copy_of_parsuna%2C_Kremlin_museum%29.jpg)
 
 ###### Questions

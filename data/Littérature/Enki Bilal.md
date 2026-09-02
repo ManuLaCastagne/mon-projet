@@ -20,8 +20,9 @@ indice_5:
   - dessinateur et scénariste
 indice_6:
   - dystopie
+culture_g_score: 80
+culture_g_justification: "Auteur central de la bande dessinée francophone, associé à la trilogie Nikopol, à la science-fiction et au prix d’Angoulême."
 ---
-
 ![Image de Enki Bilal](https://upload.wikimedia.org/wikipedia/commons/d/d3/Enki_Bilal_2009.jpg)
 
 ###### Questions

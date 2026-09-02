@@ -18,9 +18,9 @@ indice_6 :
   - bataille de Ragnarök
 questions:
  - Dans la mythologie germano-scandinave, dans quelle vaste demeure les guerriers morts en héros sont-ils amenés à s'abreuver d'hydromel?
+culture_g_score: 57
+culture_g_justification: "Valhöll est un lieu classique de la mythologie nordique, mais ses questions se recouvrent largement avec celles du Walhalla."
 ---
-
-
 ![Image de Valhöll](https://upload.wikimedia.org/wikipedia/commons/e/e2/Walhall_by_Emil_Doepler.jpg)
 
 ###### Questions

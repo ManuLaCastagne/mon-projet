@@ -18,8 +18,9 @@ indice_5:
   - Sophie Barjac
 indice_6:
   - Angleterre
+culture_g_score: 28
+culture_g_justification: "Comédie française connue surtout des amateurs du cinéma des années 1970, rarement prioritaire pour un joueur généraliste."
 ---
-
 ![Image de À nous les petites Anglaises](https://upload.wikimedia.org/wikipedia/commons/a/a4/Rabier_-_Les_Petites_Mis%C3%A8res_de_la_vie_des_animaux%2C_Garnier.djvu)
 
 ###### Questions

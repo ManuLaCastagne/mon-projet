@@ -20,8 +20,9 @@ indice_6 :
   - Suspension à grand débattement
 questions:
  - Quel modèle de voiture, présentée au Salon de l'auto en 1948, a notamment été surnommée deux-pattes et deudeuche?
+culture_g_score: 64
+culture_g_justification: "La Citroën 2CV est une automobile emblématique, mais les questions précises sur ce modèle restent relativement limitées."
 ---
-
 ![Image de Deux-chevaux](https://upload.wikimedia.org/wikipedia/commons/6/64/%28Albi%29_Deux_chevaux_et_groom_-_Toulouse-Lautrec_-_Mus%C3%A9e_Toulouse-Lautrec_d%27Albi.jpg)
 
 ###### Questions

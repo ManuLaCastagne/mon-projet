@@ -21,8 +21,9 @@ indice_6:
   - voix puissante
 questions:
   - Quelle chanteuse galloise a interprété les chansons des génériques des films "Goldfinger", "Les Diamants sont éternels" et "Moonraker"?
+culture_g_score: 80
+culture_g_justification: "Shirley Bassey est une grande interprète internationale, particulièrement rentable grâce aux films de James Bond, aux charts britanniques et à son statut de chanteuse galloise."
 ---
-
 ![Image de Shirley Bassey](https://upload.wikimedia.org/wikipedia/commons/0/0a/Shirley_Bassey_%281971%29.jpg)
 
 ###### Questions

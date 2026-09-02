@@ -20,8 +20,9 @@ indice_5:
   - rock français
 indice_6:
   - J'ai demandé à la lune
+culture_g_score: 77
+culture_g_justification: "Groupe majeur de la chanson et du rock français, régulièrement interrogé à travers ses tubes, albums et concerts."
 ---
-
 ![Image de Indochine](https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_indochine.png)
 
 ###### Questions

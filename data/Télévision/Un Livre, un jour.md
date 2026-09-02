@@ -20,8 +20,9 @@ indice_6 :
   - recommandation quotidienne
 questions:
  - Emission créée le 9 septembre 1991, j'ai été diffusée presque quotidiennement en fin d'après-midi sur France 3.  D'une durée de quelques minutes, je suis un magazine...
+culture_g_score: 45
+culture_g_justification: "Rendez-vous littéraire durable et identifiable, mais rarement mobilisé en dehors de questions sur la télévision et Olivier Barrot."
 ---
-
 ![Image de Un Livre, un jour](https://upload.wikimedia.org/wikipedia/commons/0/0c/Un_Livre_Un_Jour.jpg)
 
 ###### Questions

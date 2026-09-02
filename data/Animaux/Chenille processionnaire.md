@@ -15,8 +15,9 @@ indice_6 :
   - Menace écologique et sanitaire
 questions:
  - Quelle chenille est l'artisan des bourses de soie qui enveloppent les bouquets d'aiguilles de pin en automne et en hiver?
+culture_g_score: 60
+culture_g_justification: "Sujet assez classique des questions sur les nuisibles, les allergies et les écosystèmes forestiers, mais à la transversalité limitée."
 ---
-
 ![Image de Chenille processionnaire](https://upload.wikimedia.org/wikipedia/commons/1/14/%C3%89copi%C3%A8ge_%C3%A0_chenille_processionnaire.JPG)
 
 ###### Questions

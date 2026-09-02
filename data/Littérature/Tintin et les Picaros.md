@@ -22,8 +22,9 @@ indice_6 :
   - San Theodoros
 questions:
  - Montrant pour la 1re fois Tintin vêtu d'un jean, je raconte comment le jeune reporter se retrouve mêlé avec ses amis à une révolution menée par le général...
+culture_g_score: 64
+culture_g_justification: "Album connu de Tintin, mais moins central que les épisodes les plus célèbres et principalement utile pour quelques repères éditoriaux et narratifs."
 ---
-
 ![Image de Tintin et les Picaros](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tintin_et_les_picaros.png)
 
 ###### Questions

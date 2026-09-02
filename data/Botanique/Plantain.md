@@ -13,8 +13,9 @@ indice_5:
   - Herbe à cinq coutures
 indice_6:
   - Utilisée en médecine traditionnelle et pour ses vertus cicatrisantes
+culture_g_score: 47
+culture_g_justification: "Plante commune pouvant apparaître en botanique, alimentation animale ou médecine populaire, mais rarement comme réponse prioritaire."
 ---
-
 ![Image de Plantain](https://upload.wikimedia.org/wikipedia/commons/6/6a/Broadleaf_Plantain_Spike.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_6 :
   - divinité des bergers
 questions:
  - Lorsque son père Hermès l'a présenté aux divinités de l'Olympe, quel dieu a été la risée de tous à cause de ses pieds et de ses cornes de bouc?
+culture_g_score: 80
+culture_g_justification: "Pan est une figure reconnaissable de la mythologie grecque, utile pour des questions sur les bergers, la musique, la nature, les satyres et l’origine du mot panique."
 ---
-
 ![Image de Pan](https://upload.wikimedia.org/wikipedia/commons/8/8b/Common_chimpanzee_%28Pan_troglodytes_schweinfurthii%29_feeding.jpg)
 
 ###### Questions

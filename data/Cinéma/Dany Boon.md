@@ -20,8 +20,9 @@ indice_5 :
   - né à Armentières
 indice_6 : 
   - compagnon de Line Renaud dans La Ch'tite Famille
+culture_g_score: 73
+culture_g_justification: "Personnalité très connue en France grâce à Bienvenue chez les Ch'tis, à la fois humoriste, acteur et réalisateur."
 ---
-
 ![Image de Dany Boon](https://upload.wikimedia.org/wikipedia/commons/d/d1/Dany_Boon_Postier.JPG)
 
 ###### Questions

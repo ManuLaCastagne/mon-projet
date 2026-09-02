@@ -18,8 +18,9 @@ indice_5 :
   - Moscou
 indice_6 : 
   - Grande Armée
+culture_g_score: 68
+culture_g_justification: "Affrontement majeur de la campagne de Russie, utile pour les questions sur Napoléon et le front oriental, mais moins universel que Waterloo."
 ---
-
 ![Image de Bataille de Borodino](https://upload.wikimedia.org/wikipedia/commons/2/2b/La_Veille_de_la_Bataille_de_Borodino%2C_G.33724.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Corniche célèbre
 questions:
  - J'ai accueilli en 2006 un site de l'université Paris-Sorbonne et en 2017 une antenne du musée du Louvre.
+culture_g_score: 64
+culture_g_justification: "Capitale des Émirats arabes unis fréquemment reliée au Louvre, au pétrole, à l'architecture et à la Formule 1."
 ---
-
 ![Image de Abu Dhabi](https://upload.wikimedia.org/wikipedia/commons/9/91/13-08-06-abu-dhabi-airport-16.jpg)
 
 ![[Carte_Abu Dhabi.png]]

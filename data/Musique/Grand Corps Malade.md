@@ -22,8 +22,9 @@ indice_6 :
   - voix grave
 questions:
  - A quel chanteur français, spécialiste du slam, doit-on le titre "Les Voyages en train"?
+culture_g_score: 64
+culture_g_justification: "Figure importante de la popularisation du slam en France, connue par plusieurs chansons et collaborations mais encore limitée au champ francophone contemporain."
 ---
-
 ![Image de Grand Corps Malade](https://upload.wikimedia.org/wikipedia/commons/9/9c/Festival_du_Bout_du_Monde_2018_-_Grand_Corps_Malade_-_009.jpg)
 
 ###### Questions

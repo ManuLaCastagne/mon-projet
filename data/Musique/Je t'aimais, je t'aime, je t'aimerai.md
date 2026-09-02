@@ -22,8 +22,9 @@ indice_6 :
   - artiste français
 questions:
  - Chanson d'amour française sortie en 1994, reprise en 2018 par Nolwenn Leroy sur son album "Folk", je figurais sur l'album "Samedi soir sur la Terre".
+culture_g_score: 61
+culture_g_justification: "Chanson très connue de Cabrel et de la variété française, mais son potentiel de questions reste principalement musical."
 ---
-
 ![Image de Je t'aimais, je t'aime, je t'aimerai](https://upload.wikimedia.org/wikipedia/commons/5/57/Cabrel.jpg)
 
 ###### Questions

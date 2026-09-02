@@ -20,9 +20,9 @@ indice_6 :
   - Table de ping-pong
 questions:
  - Type de sportif désigné par un mot de 8 lettres, je suis notamment associé à la Française Prithika Pavade. Jouant des matchs d'une durée de 15 à 25 minutes, je dois faire montre d'une grande vitesse de réaction.
+culture_g_score: 40
+culture_g_justification: "Le terme désigne simplement un joueur de tennis de table et constitue une connaissance lexicale assez peu rentable."
 ---
-
-
 ![Image de Pongiste](https://upload.wikimedia.org/wikipedia/commons/6/6a/Wyle_Cop_and_Ditherington_B_Youth_Table_Tennis_Teams_%281470724%29.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Chien de garde
 questions:
  - Reconnaissable à mon poil court et lisse de couleur noir.  Je pèse jusqu'à 45kg et suis,  contrairement à ma mauvaise réputation, un chien fidèle...
+culture_g_score: 60
+culture_g_justification: "Le doberman est une race canine très connue, surtout utile pour des questions de cynologie, de sécurité et de culture populaire."
 ---
-
 ![Image de Doberman](https://upload.wikimedia.org/wikipedia/commons/c/cf/Dobermann_Pinscher_from_1915.JPG)
 
 ###### Questions

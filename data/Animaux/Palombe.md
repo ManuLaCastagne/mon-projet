@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de paix dans plusieurs cultures
 questions:
  - Dans le Sud-Ouest, sous quel autre nom connaît-on le pigeon ramier ?
+culture_g_score: 40
+culture_g_justification: "Nom régional du pigeon ramier surtout utile dans des questions sur la chasse et les migrations françaises."
 ---
-
-
 ![Image de Palombe](https://upload.wikimedia.org/wikipedia/commons/e/e9/Common_Wood_Pigeon_facing_left.jpg)
 
 ###### Questions

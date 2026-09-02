@@ -22,8 +22,9 @@ indice_6 :
   - Gilles Vigneault
 questions:
  - Quelle chanson de Raymond Lévesque, reprise par le trio Vigneault, Charlebois et Leclerc, évoque un monde sans guerre où "les soldats seront troubadours"?
+culture_g_score: 68
+culture_g_justification: "Chanson francophone engagée très connue, utile pour des questions sur Raymond Lévesque, la paix, le Québec et la Guerre d'Algérie."
 ---
-
 ![Image de Quand les hommes vivront d'amour](https://upload.wikimedia.org/wikipedia/commons/b/b9/Les_soir%C3%A9es_d%27Aix-les-Bains_%28IA_lessoiresdaixles00ratt%29.pdf)
 
 ###### Questions

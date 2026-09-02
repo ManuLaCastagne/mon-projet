@@ -18,8 +18,9 @@ indice_5 :
   - paysagiste
 indice_6 : 
   - émissions de loisirs
+culture_g_score: 45
+culture_g_justification: "Animateur fortement associé à une émission de jardinage connue, mais dont les possibilités de questions restent limitées."
 ---
-
 ![Image de Stéphane Marie](https://upload.wikimedia.org/wikipedia/commons/0/08/St%C3%A9phane-Marie_Saint-Pierre-d%27Arth%C3%A9glise3.jpg)
 
 ###### Questions

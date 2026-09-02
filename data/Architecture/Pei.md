@@ -23,8 +23,9 @@ indice_6 :
   - modernist architecture
 questions:
  - Quel architecte américain d'origine chinoise est l'auteur de la pyramide en verre du Louvre, construite dans la cour Napoléon?
+culture_g_score: 80
+culture_g_justification: "I. M. Pei est une figure classique de l'architecture moderne, associée notamment à la pyramide du Louvre et au prix Pritzker."
 ---
-
 ![Image de Pei](https://upload.wikimedia.org/wikipedia/commons/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg)
 
 ###### Questions

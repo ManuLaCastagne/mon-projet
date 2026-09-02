@@ -22,9 +22,9 @@ indice_6 :
   - Synthétiseur
 questions:
  - Interprète du célèbre morceau "Blue Monday".
+culture_g_score: 80
+culture_g_justification: "Groupe essentiel de la new wave et de la musique électronique, relié à Joy Division, « Blue Monday » et l’évolution du rock britannique."
 ---
-
-
 ![Image de New Order](https://upload.wikimedia.org/wikipedia/commons/3/38/New_Order%2C_Chile_2019_%2839751785423%29.jpg)
 
 ###### Questions

@@ -18,6 +18,8 @@ indice_5:
   - disparition
 indice_6:
   - traversée océans
+culture_g_score: 27
+culture_g_justification: "Aventurier et véliplanchiste pionnier dont les exploits sont originaux mais rarement interrogés."
 ---
 ![[Pasted image 20250503161730.png]]
 ###### Questions

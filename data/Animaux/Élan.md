@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la faune canadienne
 questions:
  - Je suis le plus grand des cervidés actuels. Vivant en Scandinavie....
+culture_g_score: 49
+culture_g_justification: "Grand cervidé emblématique de l’Amérique du Nord, l’élan est utile en faune et en géographie mais peu récurrent."
 ---
-
 ![Image de Élan](https://upload.wikimedia.org/wikipedia/commons/b/b5/Logis_abbatial_Elan_Ardennes_France.JPG)
 
 ###### Questions

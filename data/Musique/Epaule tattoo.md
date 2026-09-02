@@ -19,8 +19,9 @@ indice_5:
   - encre
 indice_6:
   - mélodie
+culture_g_score: 24
+culture_g_justification: "Chanson d'Étienne Daho identifiable dans quelques questions sur la pop française des années 1980, mais à faible portée générale."
 ---
-
 ![Image de Epaule tattoo](https://upload.wikimedia.org/wikipedia/commons/b/bf/EtienneDaho-StudioHarcourt-1987.png)
 
 ###### Questions

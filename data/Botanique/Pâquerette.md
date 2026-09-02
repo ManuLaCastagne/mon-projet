@@ -15,8 +15,9 @@ indice_6:
   - Utilisée en infusions ou pour décorer les plats
 questions:
   - 10 cm, me multipliant rapidement par émission de stolons dans les prairies.  Je fleuris presque toute l'année bien que mon nom courant...
+culture_g_score: 48
+culture_g_justification: "Fleur familière et associée à Pâques, mais son intérêt quiz demeure surtout celui d'une identification botanique."
 ---
-
 ![Image de Pâquerette](https://upload.wikimedia.org/wikipedia/commons/5/54/Bellis_perennis_full_plant.jpg)
 
 ###### Questions

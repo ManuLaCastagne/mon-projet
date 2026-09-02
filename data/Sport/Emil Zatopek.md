@@ -19,8 +19,9 @@ indice_5:
   - Courir sur place
 indice_6:
   - Olga Fikotová
+culture_g_score: 80
+culture_g_justification: "Son triplé olympique de 1952 et son surnom en font une figure classique de l’athlétisme et de l’histoire olympique."
 ---
-
 ![Image de Emil Zatopek](https://upload.wikimedia.org/wikipedia/commons/a/a0/Emil_Z%C3%A1topek_museum.JPG)
 
 ###### Questions

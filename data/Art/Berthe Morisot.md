@@ -20,8 +20,9 @@ indice_5:
   - Manet
 indice_6:
   - Danaé
+culture_g_score: 80
+culture_g_justification: "Peintre centrale de l’impressionnisme, elle permet des liens fréquents avec Manet, les expositions impressionnistes et la place des femmes dans l’art."
 ---
-
 ![Image de Berthe Morisot](https://upload.wikimedia.org/wikipedia/commons/d/d5/Bemberg_Fondation_Toulouse_-_Femme_au_jardin_%28Villa_Arnulphi_%C3%A0_Nice%29_-_Berthe_Morisot_1882_Inv.2113_56x33.jpg)
 
 ###### Questions

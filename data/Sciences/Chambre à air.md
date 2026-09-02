@@ -18,8 +18,9 @@ indice_5:
   - Crevaison
 indice_6:
   - Boyau vélo
+culture_g_score: 56
+culture_g_justification: "La chambre à air est familière et liée à l’histoire du vélo et des transports, mais fournit peu de questions généralistes distinctes."
 ---
-
 ![Image de Chambre à air](https://upload.wikimedia.org/wikipedia/commons/0/08/Etanch%C3%A9ification_de_la_valve_de_la_chambre_%C3%A0_air.JPG)
 
 ###### Questions

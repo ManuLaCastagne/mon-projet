@@ -23,8 +23,9 @@ questions:
  - Quelle côte bretonne située entre Morlaix et Brest, se compose de falaises granitiques déchiquetées ?
 
 Déchiqueté comme Léon
+culture_g_score: 27
+culture_g_justification: "Dénomination littorale bretonne très locale, rarement utilisée comme réponse autonome dans les quiz généralistes."
 ---
-
 ![Image de Côte du Léon](https://upload.wikimedia.org/wikipedia/commons/6/62/L%C3%A9hon_-_Ruines_-_AD22_-_16FI2311.jpg)
 
 ###### Questions

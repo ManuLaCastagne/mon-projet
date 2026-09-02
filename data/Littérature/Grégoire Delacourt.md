@@ -22,9 +22,9 @@ indice_6 :
   - explorateur des émotions humaines
 questions:
  - A quel écrivain et publicitaire français doit-on le roman "La Liste de mes envies" parue en 2012?
+culture_g_score: 44
+culture_g_justification: "Écrivain français contemporain connu pour quelques succès populaires, mais encore secondaire dans la culture générale classique."
 ---
-
-
 ![Image de Grégoire Delacourt](https://upload.wikimedia.org/wikipedia/commons/8/8d/Gregoire_Delacourt.jpg)
 
 ###### Questions

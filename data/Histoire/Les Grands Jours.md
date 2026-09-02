@@ -20,8 +20,9 @@ indice_6 :
   - États généraux
 questions:
  - Quelles assises extraordinaires d'une délégation du Parlement se sont tenues à Poitiers en 1519, à Angers en 1539 ?
+culture_g_score: 27
+culture_g_justification: "Épisode judiciaire régional de l’Ancien Régime, trop précis pour constituer une priorité généraliste."
 ---
-
 ![Image de Les Grands Jours](https://upload.wikimedia.org/wikipedia/commons/d/d8/Louis_XIV_-_Les_grands_jours%2C_1665%2C_PPM165%283%29.jpg)
 
 ###### Questions

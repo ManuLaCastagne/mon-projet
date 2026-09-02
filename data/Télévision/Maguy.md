@@ -20,9 +20,9 @@ indice_6 :
   - vie quotidienne d'une femme active
 questions:
  - A partir de 85, dans quelle série française, avec Jean-Marc Thibault et Marthe Villalonga, Rosy Varte...
+culture_g_score: 44
+culture_g_justification: "Sitcom française populaire des années 1980-1990, intéressante pour l'histoire télévisuelle mais devenue relativement secondaire."
 ---
-
-
 ![Image de Maguy](https://upload.wikimedia.org/wikipedia/commons/4/4b/Maguy_Marin.jpg)
 
 ###### Questions

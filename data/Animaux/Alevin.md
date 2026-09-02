@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de renouveau et de croissance
 questions:
  - Quel nom porte le jeune poisson n'ayant pas encore acquis les formes de l'adulte et qui vit des réserves de son sac vitellin ?
+culture_g_score: 53
+culture_g_justification: "Terme classique de zoologie et de pêche, mais limité aux stades juvéniles des poissons."
 ---
-
 ![Image de Alevin](https://upload.wikimedia.org/wikipedia/commons/d/da/Juvenile-copper-rockfish-Aquarium-of-the-Pacific.png)
 
 ###### Questions

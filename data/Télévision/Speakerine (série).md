@@ -20,10 +20,9 @@ indice_6 :
   - ambiance rétro
 questions:
  - En 2018, dans quelle série de France 2 Marie Gillain incarne une femme qui travaille dans les années 60 à la TV ?
+culture_g_score: 32
+culture_g_justification: "Série historique française récente au sujet intéressant, mais trop peu connue et trop rarement interrogée pour être prioritaire."
 ---
-
-
-
 ![Image de Speakerine (série)](https://upload.wikimedia.org/wikipedia/commons/d/d3/Speakerine.png)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - mariée à Maxime Chattam
 indice_6 : 
   - origine bretonne
+culture_g_score: 64
+culture_g_justification: "Animatrice populaire associée à Ça commence aujourd’hui et à plusieurs programmes, mais avec une portée surtout télévisuelle contemporaine."
 ---
-
 ![Image de Faustine Bollaert]()
 
 ###### Questions

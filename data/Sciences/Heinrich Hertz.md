@@ -18,8 +18,9 @@ indice_5:
   - 1857-1894
 indice_6:
   - Transmission sans fil
+culture_g_score: 80
+culture_g_justification: "Hertz est un repère fréquent reliant ondes électromagnétiques, physique, histoire des sciences et unité de fréquence."
 ---
-
 ![Image de Heinrich Hertz](https://upload.wikimedia.org/wikipedia/commons/3/30/HEINRICH_HERTZ.JPG)
 
 ###### Questions

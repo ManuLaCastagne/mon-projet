@@ -22,10 +22,9 @@ indice_6 :
   - clé ensanglantée
 questions:
  - Dans quel conte de Perrault une jeune femme prononce-t-elle ces mots  "Anne, ma soeur Anne, ne vois-tu rien venir"?
+culture_g_score: 100
+culture_g_justification: "Personnage de conte universel, relié à Perrault, au folklore, à la littérature jeunesse, à Gilles de Rais et à de nombreuses adaptations."
 ---
-
-
-
 ![Image de Barbe-Bleue](https://upload.wikimedia.org/wikipedia/commons/8/8c/Barbe_Bleue_ch%C3%A2teau_de_Breteuil.jpg)
 
 ###### Questions

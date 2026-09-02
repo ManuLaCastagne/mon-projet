@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de transformation
 questions:
  - Quel insecte de type pèlerin peut ravager des cultures...
+culture_g_score: 67
+culture_g_justification: "Insecte associé aux sauts, aux invasions agricoles, à la stridulation et à plusieurs références culturelles."
 ---
-
 ![Image de Criquet](https://upload.wikimedia.org/wikipedia/commons/7/7e/Cricket_match_and_Marina_Bay_Sands_Hotel_in_Singapore.jpg)
 
 ###### Questions

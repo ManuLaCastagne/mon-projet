@@ -20,9 +20,9 @@ indice_6 :
   - expansion territoriale russe
 questions:
  - En 1584, quel tsar de Russie, fils de Vassili III s'écroule mort au début d'une partie d'échecs ?
+culture_g_score: 80
+culture_g_justification: "Premier tsar de Russie, fréquemment associé à l’opritchnina, à l’expansion russe, à Kazan et à la légende de la violence politique."
 ---
-
-
 ![Image de Ivan le Terrible 1](https://upload.wikimedia.org/wikipedia/commons/7/71/Ivan_the_Terrible_and_Harsey.jpg)
 
 ###### Questions

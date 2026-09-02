@@ -23,8 +23,9 @@ indice_6 :
   - Lac Kunming
 questions:
  - A Pékin, quel palais, portant le nom d'une saison a été construit par l'impératrice Tseu-Hi à partir de 1886 ?
+culture_g_score: 72
+culture_g_justification: "Le Palais d’Été relie histoire impériale chinoise, jardins, architecture et patrimoine mondial, offrant plusieurs angles de culture générale."
 ---
-
 ![Image de Palais d'Eté](https://upload.wikimedia.org/wikipedia/commons/0/05/Lille._%E2%80%93_Palais_d%27%C3%89t%C3%A9.jpg)
 
 ###### Questions

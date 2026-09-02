@@ -22,8 +22,9 @@ indice_6 :
   - 1955
 questions:
  - Dans quel film de Billy Wilder Marilyn Monroe incarne-t-elle la jolie voisine d'un homme marié, resté seul à New York pour les vacances d'été?
+culture_g_score: 80
+culture_g_justification: "Comédie culte de Billy Wilder, fréquemment associée à Marilyn Monroe, à une scène iconique et à l'histoire du cinéma américain."
 ---
-
 ![Image de Sept ans de réflexion](https://upload.wikimedia.org/wikipedia/commons/1/11/Marilyn_Monroe_photo_pose_Seven_Year_Itch%2C_edit.jpg)
 
 ###### Questions

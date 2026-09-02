@@ -20,8 +20,9 @@ indice_5:
   - comédie française
 indice_6:
   - histoire de quiproquos
+culture_g_score: 60
+culture_g_justification: "Comédie française connue, exploitable via son casting, ses récompenses et ses thèmes de société, mais de portée limitée."
 ---
-
 ![Image de Pédale douce](https://upload.wikimedia.org/wikipedia/commons/a/a3/What_a_drag_DVIDS456908.jpg)
 
 ###### Questions

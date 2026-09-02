@@ -15,9 +15,9 @@ indice_6 :
   - Chien de chasse polyvalent
 questions:
  - En Allemagne.  Chien d'arrêt aux yeux ambrés, au poil de couleur gris argenté, je suis un braque dont le nom est associé à un grand-duché allemand.
+culture_g_score: 44
+culture_g_justification: "Race reconnaissable par sa robe et liée à William Wegman, mais rarement centrale dans les quiz."
 ---
-
-
 ![Image de Braque de Weimar](https://upload.wikimedia.org/wikipedia/commons/5/59/Weimaraner_Freika-2.jpg)
 
 ###### Questions

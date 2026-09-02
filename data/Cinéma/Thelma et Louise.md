@@ -22,8 +22,9 @@ indice_6 :
   - voiture en fuite
 questions:
  - Dans quel film de Ridley Scott, Susan Sarandon et Geena Davis...
+culture_g_score: 80
+culture_g_justification: "Film culte et durablement présent dans les quiz grâce à Ridley Scott, son duo d'actrices, son scénario et son dénouement."
 ---
-
 ![Image de Thelma et Louise](https://upload.wikimedia.org/wikipedia/commons/3/36/Thelma_Finlayson_%288057139373%29.jpg)
 
 ###### Questions

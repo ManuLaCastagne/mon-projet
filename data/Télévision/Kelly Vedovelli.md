@@ -19,8 +19,9 @@ indice_5 :
   - mannequin
 indice_6 : 
   - blonde
+culture_g_score: 24
+culture_g_justification: "Chroniqueuse de téléréalité et de télévision contemporaine, avec une faible importance et peu d'angles de quiz indépendants."
 ---
-
 ![Image de Kelly Vedovelli](https://upload.wikimedia.org/wikipedia/commons/3/32/The_automobile%2C_its_construction_and_management%3B_%28IA_automobileitscon00lave%29.pdf)
 
 ###### Questions

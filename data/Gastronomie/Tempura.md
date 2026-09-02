@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Japon
+culture_g_score: 73
+culture_g_justification: "Grand classique de la cuisine japonaise, fréquemment interrogé comme spécialité et comme technique culinaire."
 ---
 ###### Questions 
 

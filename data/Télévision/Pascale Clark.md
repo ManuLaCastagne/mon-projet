@@ -20,8 +20,9 @@ indice_6 :
   - émissions culturelles
 questions:
  - De 2001 à 2007, à la télévision, quel journaliste dialoguait avec son invité laissé seul dans un décor d'appartement dans "En Aparté" ?
+culture_g_score: 40
+culture_g_justification: "Journaliste française connue dans les médias, mais principalement interrogée sur quelques émissions radiophoniques et télévisées."
 ---
-
 ![Image de Pascale Clark](https://upload.wikimedia.org/wikipedia/commons/f/f7/Pascale_Clark%2C_France_Inter.jpg)
 
 ###### Questions

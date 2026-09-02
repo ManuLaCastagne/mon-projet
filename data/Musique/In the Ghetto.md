@@ -22,8 +22,9 @@ indice_6 :
   - lamentation sociale
 questions:
  - En 1969, dans quelle chanson, commençant par  "as the snow flies", Elvis Presley évoque-t-il la vie des quartiers pauvres américains?
+culture_g_score: 61
+culture_g_justification: "Chanson connue d'Elvis et facilement identifiable par son thème social, mais moins récurrente que ses plus grands tubes."
 ---
-
 ![Image de In the Ghetto](https://upload.wikimedia.org/wikipedia/commons/0/0b/Stroop_Report_-_Warsaw_Ghetto_Uprising_06b.jpg)
 
 ###### Questions

@@ -1,3 +1,8 @@
+---
+culture_g_score: 37
+culture_g_justification: "Poisson régional des zones tropicales, surtout pertinent pour quelques questions de zoologie ou de cuisine."
+---
+
 
 ###### Questions 
 

@@ -20,8 +20,9 @@ indice_6 :
   - Traducteur de la Bible King James
 questions:
  - En 1603, sous quel nom le roi d'Ecosse, Jacques VI, fils de Marie Stuart, monte-t-il sur le trône d'Angleterre ?
+culture_g_score: 68
+culture_g_justification: "Jacques VI d’Écosse et Ier d’Angleterre relie les Stuart, l’union des couronnes, les conflits religieux et la littérature jacobéenne."
 ---
-
 ![Image de Jacques Ier](https://upload.wikimedia.org/wikipedia/commons/1/10/Napol%C3%A9on_Ier%2C_d%C3%A9tail%2C_Jacques-Louis_David.jpg)
 
 ###### Questions

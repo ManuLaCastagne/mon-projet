@@ -22,8 +22,9 @@ indice_6 :
   - Zénaibia
 questions:
  - Quel écrivain égyptien, Prix Nobel de littérature en 1988 a évoqué en 1947 sa ville natale, Le Caire, dans "Passage des miracles"?
+culture_g_score: 84
+culture_g_justification: "Premier Nobel de littérature arabophone, associé à l’Égypte, à la trilogie du Caire et aux tensions entre littérature et intégrisme."
 ---
-
 ![Image de Naguib Mahfouz](https://upload.wikimedia.org/wikipedia/commons/3/3f/Naguib_Mahfouz_%28photo_improved_by_AI%29.jpg)
 
 ###### Questions

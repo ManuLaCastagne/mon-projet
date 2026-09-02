@@ -24,8 +24,9 @@ indice_6 :
   - patrimoine mondial de l'UNESCO
 questions:
  - En 1993, quel pont situé dans une ville de Bosnie-Herzégovine a été détruit...
+culture_g_score: 77
+culture_g_justification: "Ville fortement associée au Stari Most, à l’Empire ottoman et à la guerre de Bosnie, ce qui la rend très exploitable."
 ---
-
 ![Image de Mostar](https://upload.wikimedia.org/wikipedia/commons/d/d7/Mostar_Old_Town_Panorama_2007.jpg)
 
 ![[Carte_Mostar.png]]

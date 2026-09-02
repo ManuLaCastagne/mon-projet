@@ -18,8 +18,9 @@ indice_5:
   - Fashion Star
 indice_6:
   - Australia’s Next Top Model
+culture_g_score: 52
+culture_g_justification: "Top model mondialement célèbre, mais ses liens avec la télévision restent moins fréquemment quizés que sa carrière de mannequin."
 ---
-
 ![Image de Elle McFerson](https://upload.wikimedia.org/wikipedia/commons/e/e8/Elle_Macpherson%2C_Women%27s_World_Awards_2009_c.jpg)
 ###### Questions
 

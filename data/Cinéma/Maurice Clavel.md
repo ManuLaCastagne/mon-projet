@@ -20,8 +20,9 @@ indice_5:
   - Le mensonge cinématographique
 indice_6:
   - Télévision Ce Soir ou Jamais
+culture_g_score: 36
+culture_g_justification: "Intellectuel et journaliste important dans certains milieux, mais trop spécialisé pour les quiz généralistes fréquents."
 ---
-
 ![Image de Maurice Clavel](https://upload.wikimedia.org/wikipedia/commons/b/b5/Frontignan_plaque_Clavel.jpg)
 
 ###### Questions

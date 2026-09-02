@@ -20,8 +20,9 @@ indice_6 :
   - Record du monde
 questions:
  - En 2012, quelle nageuse remporte 3 médailles aux JO, dont une en or sur le 400 m nage libre?
+culture_g_score: 69
+culture_g_justification: "Championne olympique française de Londres 2012, sa carrière et sa disparition donnent plusieurs repères fortement mémorisables."
 ---
-
 ![Image de Camille Muffat](https://upload.wikimedia.org/wikipedia/commons/8/85/Camille_Muffat.jpg)
 
 ###### Questions

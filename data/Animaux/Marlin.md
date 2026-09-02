@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de vitesse et d'agilité
 questions:
  - Avec le voilier, quel autre grand poisson, voisin de l'espadon, est capable de pointes de vitesse à 110 km/h sur quelques dizaines de mètres?
+culture_g_score: 47
+culture_g_justification: "Poisson connu surtout par la pêche sportive et certaines références littéraires, mais peu central en culture générale."
 ---
-
 ![Image de Marlin](https://upload.wikimedia.org/wikipedia/commons/9/9a/1957-10-29._Marlin%2C_Texas%2C_Norbest_Turkey_Plant%2C_Historical_Photo.jpg)
 
 ###### Questions

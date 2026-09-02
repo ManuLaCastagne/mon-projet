@@ -22,8 +22,9 @@ indice_6 :
   - roman de La Comédie humaine
 questions:
  - Dans quel roman de Balzac, le héros Raphaël de Valentin reçoit d'un antiquaire un objet magique qui exauce ses voeux tout en raccourcissant sa vie?
+culture_g_score: 80
+culture_g_justification: "Roman majeur de Balzac, facilement mobilisable par son objet fantastique, ses thèmes et son rattachement à La Comédie humaine."
 ---
-
 ![Image de La Peau de chagrin](https://upload.wikimedia.org/wikipedia/commons/4/4e/BalzacMagicSkin01.jpg)
 
 ###### Questions

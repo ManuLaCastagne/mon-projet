@@ -24,8 +24,9 @@ indice_6 :
   - Boulogne-sur-Mer
 questions:
  - Département dont la région du Ternois abrite dix villages ayant reçus le label "Village Patrimoine". Je suis un des plus peuplés de France. Longé sur mon littoral par le sentier du GR 120 qui va de la Côte d'Opale à Berck.
+culture_g_score: 60
+culture_g_justification: "Département lié à Calais, au tunnel sous la Manche, au bassin minier et aux deux guerres mondiales, avec une utilité surtout française."
 ---
-
 ![Image de Pas-de-Calais](https://upload.wikimedia.org/wikipedia/commons/3/33/Mont_d%27Hubert_%C3%A0_Escalles_%28Pas-de-Calais%29.jpg)
 
 ![[Carte_Pas-de-Calais.png]]

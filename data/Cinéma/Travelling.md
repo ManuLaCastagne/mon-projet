@@ -22,8 +22,9 @@ indice_6 :
   - éclairage de film
 questions:
  - Procédé technique, je suis désigné par un mot anglais que Marcel Aymé a francisé en 1942 pour intituler un de ses romans...
+culture_g_score: 64
+culture_g_justification: "Terme technique classique du cinéma, utile pour comprendre des questions de mise en scène et de mouvements de caméra."
 ---
-
 ![Image de Travelling](https://upload.wikimedia.org/wikipedia/commons/5/54/1930s_Japan_Travel_Poster_-_01.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - tribus amazoniens
 questions:
  - Film de 94 dans lequel Dominique Besnehard incarne un maître de mystique orientale,  je raconte comment un courtier apprend...
+culture_g_score: 56
+culture_g_justification: "Comédie populaire française souvent reconnaissable par Thierry Lhermitte et Mimi-Siku, mais son importance culturelle reste modérée."
 ---
-
-
 ![Image de Un Indien dans la ville](https://upload.wikimedia.org/wikipedia/commons/b/bc/Combat-de-phelsumes-sur-un-bananier.JPG)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5:
   - miroirs et bijoux
 indice_6:
   - influence surréaliste
+culture_g_score: 27
+culture_g_justification: "Claude Lalanne reste une artiste de niche, principalement interrogée à travers quelques sculptures et sa collaboration avec les Lalanne."
 ---
-
 ![Image de Claude Lalanne](https://upload.wikimedia.org/wikipedia/commons/4/47/Claude_Lalanne_La_Pomme_de_Guillaume_Tell.jpg)
 
 ###### Questions

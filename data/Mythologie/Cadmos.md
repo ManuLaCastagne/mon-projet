@@ -18,10 +18,9 @@ indice_6 :
   - Mari d'Harmonie
 questions:
  - Quel personnage de la [[mythologie grecque]], fils d'Agénor, fonde la ville de Thèbes après avoir consulté l'oracle de Delphes ?
+culture_g_score: 80
+culture_g_justification: "Fondateur légendaire de Thèbes et introducteur de l’alphabet en Grèce, avec des liens forts entre mythologie et histoire de l’écriture."
 ---
-
-
-
 ![Image de Cadmos](https://upload.wikimedia.org/wikipedia/commons/3/38/Hendrick_Goltzius_Cadmus_Statens_Museum_for_Kunst_1183.jpg)
 
 ###### Questions

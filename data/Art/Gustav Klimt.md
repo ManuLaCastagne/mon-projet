@@ -23,8 +23,9 @@ indice_6 :
   - portraits féminins
 questions:
  - A quel peintre autrichien, fondateur en 1897 de la Sécession viennoise, doit-on les allégories "La Philosophie", "La Jurisprudence" et "La Médecine"?
+culture_g_score: 88
+culture_g_justification: "Klimt est une figure majeure de la Sécession viennoise et de l’Art nouveau, identifiable par l’or, les portraits féminins et Le Baiser."
 ---
-
 ![Image de Gustav Klimt](https://upload.wikimedia.org/wikipedia/commons/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg)
 
 ###### Questions

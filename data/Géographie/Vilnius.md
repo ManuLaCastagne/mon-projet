@@ -22,9 +22,9 @@ indice_6 :
   - capitale européenne
 questions:
  - Quelle ville, rattachée à la Pologne de 1920 à 1939, est l'actuelle capitale de la Lituanie?
+culture_g_score: 63
+culture_g_justification: "Capitale européenne utile pour la Lituanie, l’UNESCO, l’histoire soviétique et l’élargissement de l’Union européenne."
 ---
-
-
 ![Image de Vilnius](https://upload.wikimedia.org/wikipedia/commons/5/54/Vilnius_Modern_Skyline_At_Dusk%2C_Lithuania_-_Diliff.jpg)
 
 ![[Carte_Vilnius.png]]

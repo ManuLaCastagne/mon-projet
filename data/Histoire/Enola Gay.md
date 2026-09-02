@@ -18,10 +18,9 @@ indice_5 :
   - 6 août 1945
 indice_6 : 
   - Guerre mondiale
+culture_g_score: 76
+culture_g_justification: "Bombardier directement associé à Hiroshima, utile pour la Seconde Guerre mondiale et l’histoire nucléaire, mais limité à quelques angles."
 ---
-
-
-
 ![Image de Enola Gay](https://upload.wikimedia.org/wikipedia/commons/7/70/B-29_Enola_Gay_w_Crews.jpg)
 
 ###### Questions

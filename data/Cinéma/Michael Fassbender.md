@@ -22,8 +22,9 @@ indice_6 :
   - Alien Covenant
 questions:
  - Quel acteur incarne Steve Jobs dans le film éponyme ?
+culture_g_score: 67
+culture_g_justification: "Acteur international reconnu pour plusieurs films d’auteur et franchises, mais encore moins incontournable que les vedettes classiques."
 ---
-
 ![Image de Michael Fassbender](https://upload.wikimedia.org/wikipedia/commons/1/1a/Michael_Fassbender_Cannes_2009.jpg)
 
 ###### Questions

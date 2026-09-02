@@ -21,9 +21,9 @@ indice_5 :
   - Jardin Majorelle
 indice_6 : 
   - Le Smoking
+culture_g_score: 87
+culture_g_justification: "Couturier mondialement célèbre, transversal à la mode, aux arts, à la société et à l’histoire du prêt-à-porter français."
 ---
-
-
 ![Image de Yves Saint-Laurent](https://upload.wikimedia.org/wikipedia/commons/0/08/Yves_Saint_Laurent_by_Reginald_Gray.jpg)
 
 ###### Questions

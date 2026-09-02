@@ -20,8 +20,9 @@ indice_6 :
   - Équipe d'Argentine de Coupe Davis
 questions:
  - Je chute à la 259e place un an après, après une blessure. 2e joueur de tennis argentin à gagner un tournoi du Grand Chelem après Guillermo Vilas,  finaliste à l'US Open en 2018, je suis…
+culture_g_score: 60
+culture_g_justification: "Vainqueur surprise de l’US Open 2009 et médaillé olympique, mais avec une présence limitée hors du tennis contemporain."
 ---
-
 ![Image de Juan Martin del Potro](https://upload.wikimedia.org/wikipedia/commons/7/74/Juan_Martin_del_Potro_2011.jpg)
 
 ###### Questions

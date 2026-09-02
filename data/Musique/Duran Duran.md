@@ -22,8 +22,9 @@ indice_6 :
   - British band
 questions:
  - Au début des années 80, plusieurs de mes chansons figurent dans les BO de films, comme "A View To A Kill" dans le générique de "Dangereusement vôtre". Interprète des tubes "Notorious" et "The Reflex", mon chanteur est Simon Le Bon..
+culture_g_score: 80
+culture_g_justification: "Groupe emblématique de la new wave, régulièrement interrogé sur ses membres, ses tubes, James Bond et son succès des années 1980."
 ---
-
 ![Image de Duran Duran](https://upload.wikimedia.org/wikipedia/commons/5/5c/Carolus-Duran_-_Mrs._William_Astor_%28Caroline_Webster_Schermerhorn%2C_1831%E2%80%931908%29.jpg)
 
 ###### Questions

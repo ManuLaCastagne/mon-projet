@@ -20,9 +20,9 @@ indice_6 :
   - se déroule en région parisienne
 questions:
  - Quelle fête populaire organisée dès 1930, doit son nom à un quotidien communiste près de La Courneuve?
+culture_g_score: 60
+culture_g_justification: "Événement culturel et politique français identifiable par ses origines communistes, ses concerts et ses visiteurs célèbres."
 ---
-
-
 ![Image de Fête de l'Humanité](https://upload.wikimedia.org/wikipedia/commons/b/b0/BB_Brunes_-_F%C3%AAte_de_l%27Humanit%C3%A9_2012_-_022.jpg)
 
 ###### Questions

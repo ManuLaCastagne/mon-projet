@@ -20,8 +20,9 @@ indice_6 :
   - Entraîneur adjoint
 questions:
  - Que j'ai effectué l'essentiel de ma carrière et avec lequel j'ai remporté la Coupe de France en 1994.  Successeur de Joël Bats en équipe de France, devenu après ma retraite...
+culture_g_score: 52
+culture_g_justification: "Gardien français important des années 1980-1990, mais moins connu et moins souvent interrogé que les grandes vedettes des Bleus."
 ---
-
 ![Image de Bruno Martini](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bruno_Martini_football_Juillet_2015_Grammont.jpg)
 
 ###### Questions

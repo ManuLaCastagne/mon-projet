@@ -20,8 +20,9 @@ indice_6 :
   - sol
 questions:
  - Epreuve ayant permis à la française Mélanie de Jesus dos Santos de devenir championne d'Europe en 2018, je suis un exercice...
+culture_g_score: 40
+culture_g_justification: "Gymnaste française de premier plan mais encore récente et principalement interrogée dans le cadre de la gymnastique européenne."
 ---
-
 ![Image de Mélanie de Jesus dos Santos](https://upload.wikimedia.org/wikipedia/commons/b/b0/Melanie_De_Jesus_dos_Santos_at_WCC_Gym_in_Texas.jpg)
 
 ###### Questions

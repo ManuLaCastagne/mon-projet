@@ -21,9 +21,9 @@ indice_5:
   - Delft
 indice_6:
   - XVIIe siècle
+culture_g_score: 80
+culture_g_justification: "Vermeer est régulièrement associé à La Jeune Fille à la perle, La Laitière, l’âge d’or néerlandais et la peinture de genre."
 ---
-
-
 ![Image de Johannes Vermeer](https://upload.wikimedia.org/wikipedia/commons/6/66/Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg)
 
 ###### Questions

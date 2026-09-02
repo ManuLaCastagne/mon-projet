@@ -23,6 +23,7 @@ indice_6 :
 questions:
  - Vivant avec mon ami Chourave des aventures que je ponctue d'interjections comme "Bretzel liquide"!, je suis une cucurbitacée créée par Mandryka...
 culture_g_score: 40
+culture_g_justification: "Personnage original de la bande dessinée absurde française, mais trop spécialisé pour constituer une priorité généraliste."
 ---
 ![Image de Concombre masqué](https://upload.wikimedia.org/wikipedia/commons/3/3c/Concombre-masque-48-01.gif)
 

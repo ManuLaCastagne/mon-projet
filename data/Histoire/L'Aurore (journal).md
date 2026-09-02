@@ -20,8 +20,9 @@ indice_6 :
   - Claude Monet
 questions:
  - Journal de tendance républicaine socialiste, un article, paru en une du 13 janvier 1898, augmenta considérablement mes ventes. Quotidien dans lequel Emile Zola publia une lettre ouverte, le "J'accuse", à Félix Faure, intitulée "J'accuse", dans laquelle il s'indigne  de la condamnation d'Alfred Dreyfus, je suis ...
+culture_g_score: 64
+culture_g_justification: "L’Aurore est surtout rentable par son lien direct avec l’article « J’accuse…! » et l’affaire Dreyfus, sans beaucoup d’autres usages indépendants."
 ---
-
 ![Image de L'Aurore (journal)](https://upload.wikimedia.org/wikipedia/commons/6/6e/Journal_L%27Aurore_N%C2%B0_221_du_9_mai_1945%2C_2005.12.jpg)
 
 ###### Questions

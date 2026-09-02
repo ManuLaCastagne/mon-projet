@@ -22,8 +22,9 @@ indice_6 :
   - Académie Goncourt
 questions:
  - En janvier 2021, quel journaliste et homme de télévision, ancien président de l'Académie Goncourt, a publié l'ouvrage "... Mais la vie continue"?
+culture_g_score: 80
+culture_g_justification: "Animateur emblématique de la vie littéraire française, associé à Apostrophes, au Goncourt et à la célèbre dictée."
 ---
-
 ![Image de Bernard Pivot](https://upload.wikimedia.org/wikipedia/commons/3/37/Bernard_Pivot.jpg)
 
 ###### Questions

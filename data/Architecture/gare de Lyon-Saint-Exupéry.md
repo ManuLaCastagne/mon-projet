@@ -21,8 +21,9 @@ indice_5 :
   - style néofuturiste
 indice_6 : 
   - inaugurée en 1994
+culture_g_score: 48
+culture_g_justification: "Gare contemporaine reconnaissable par son architecture de Calatrava, mais rarement interrogée en dehors de questions spécialisées sur Lyon."
 ---
-
 ![Image de gare de Lyon-Saint-Exupéry](https://upload.wikimedia.org/wikipedia/commons/8/82/Rh%C3%B4nExpress_Stadler_Tango_n%C2%B0102_-_A%C3%A9roport_Lyon_Saint-Exup%C3%A9ry.JPG)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_6 :
   - ASVEL Basket
 questions:
  - Puis à l'INSEP avant de débuter en professionnel à Paris, j'étais durant ma carrière en NBA qui s'est terminée en 2019...
+culture_g_score: 84
+culture_g_justification: "Plus grand basketteur français de sa génération, très rentable pour les questions sur la NBA, la France et le sport contemporain."
 ---
-
 ![Image de Tony Parker](https://upload.wikimedia.org/wikipedia/commons/9/92/Tony_Parker_2011-01_%28cropped%29.jpg)
 
 ###### Questions

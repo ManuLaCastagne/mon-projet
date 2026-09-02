@@ -21,8 +21,9 @@ indice_5:
   - « L'Enlèvement des Sabines »
 indice_6:
   - Influencé par l'antiquité
+culture_g_score: 72
+culture_g_justification: "Poussin est un peintre majeur du classicisme français, régulièrement interrogé via ses tableaux, Louis XIII, Rome et l'histoire de l'art."
 ---
-
 ![Image de Nicolas Poussin](https://upload.wikimedia.org/wikipedia/commons/d/df/Nicolas_Poussin_-_Et_in_Arcadia_ego_%28deuxi%C3%A8me_version%29.jpg)
 
 ###### Questions

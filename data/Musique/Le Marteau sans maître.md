@@ -22,8 +22,9 @@ indice_6 :
   - Avant-garde musicale
 questions:
  - Faisant appel à une voix et à 6 instruments, dont un vibraphone et le xylorimba, je suis inspiré des poèmes de René Char eblématique de Pierre Boulez  et de la musique contemporaine européenne, je suis…
+culture_g_score: 44
+culture_g_justification: "Œuvre importante de la musique sérielle et de Boulez, mais trop spécialisée pour être une priorité généraliste."
 ---
-
 ![Image de Marteau sans maître](https://upload.wikimedia.org/wikipedia/commons/c/cf/Le_marteau_instrumentation.png)
 
 ###### Questions

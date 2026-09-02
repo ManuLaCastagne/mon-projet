@@ -18,8 +18,9 @@ indice_5:
   - Record personnel
 indice_6:
   - France
+culture_g_score: 57
+culture_g_justification: "Champion du monde français du 800 mètres, connu pour un exploit précis et un épisode médiatique marquant."
 ---
-
 ![Image de Pierre-Ambroise Bosse](https://upload.wikimedia.org/wikipedia/commons/2/24/Pierre-Ambroise_Bosse_Amsterdam_2016.jpg)
 
 ###### Questions

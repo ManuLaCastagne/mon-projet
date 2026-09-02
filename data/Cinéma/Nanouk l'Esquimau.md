@@ -22,8 +22,9 @@ indice_6 :
   - Arctique
 questions:
  - 1922, quel film tourné dans le Grand Nord canadien  est l'un des premiers films documentaires de long-métrage ?
+culture_g_score: 80
+culture_g_justification: "Documentaire fondateur de Robert Flaherty, incontournable pour l’histoire du cinéma, le documentaire et les représentations des peuples arctiques."
 ---
-
 ![Image de Nanouk l'Esquimau](https://upload.wikimedia.org/wikipedia/commons/0/08/Nanook_of_the_North.webm)
 
 ###### Questions

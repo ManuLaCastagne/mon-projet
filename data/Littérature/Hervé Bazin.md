@@ -22,9 +22,9 @@ indice_6 :
   - Les Bienheureux de la Désolation
 questions:
  - Qui s'inspire de sa mère pour écrire "Vipère au poing" en 1949 ?
+culture_g_score: 60
+culture_g_justification: "Auteur français associé à Vipère au poing et au personnage de Folcoche, repère classique mais relativement circonscrit."
 ---
-
-
 ![Image de Hervé Bazin](https://upload.wikimedia.org/wikipedia/commons/9/9b/Herv%C3%A9_Bazin_%C3%A0_Cunault_en_1993.jpg)
 
 ###### Questions

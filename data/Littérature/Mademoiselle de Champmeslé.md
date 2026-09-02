@@ -22,8 +22,9 @@ indice_6 :
   - Rouen
 questions:
  - Quelle tragédienne française, née à Rouen en 1642, a inspiré à Racine toutes les grandes héroïnes de ses pièces?
+culture_g_score: 31
+culture_g_justification: "Actrice importante dans l’histoire du théâtre racinien, mais son identification et ses rôles restent des connaissances assez spécialisées."
 ---
-
 ![Image de Mademoiselle de Champmeslé](https://upload.wikimedia.org/wikipedia/commons/a/ab/Marie_Champmesl%C3%A9.jpg)
 
 ###### Questions

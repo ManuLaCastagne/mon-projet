@@ -20,9 +20,9 @@ indice_6 :
   - Décède en 1810 à Londres
 questions:
  - Quel chevalier et agent de Louis XV est resté célèbre pour le mystère...
+culture_g_score: 68
+culture_g_justification: "Personnage singulier de l’espionnage, de la diplomatie et des questions de genre, régulièrement exploité pour son identité féminine."
 ---
-
-
 ![Image de Chevalier d'Éon](https://upload.wikimedia.org/wikipedia/commons/6/64/D%27Eon_de_Beaumont.jpg)
 
 ###### Questions

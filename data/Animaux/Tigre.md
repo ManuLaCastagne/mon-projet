@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de force et de courage
 questions:
  - Quel animal, considéré comme le plus gros des félins, peut peser jusqu'à 380 kg quand il est de Sibérie ?
+culture_g_score: 100
+culture_g_justification: "Le tigre est une figure zoologique et culturelle incontournable, exploitable en géographie, conservation, littérature, symbolique et histoire naturelle."
 ---
-
 ![Image de Tigre](https://upload.wikimedia.org/wikipedia/commons/a/a0/Argentina-01699_-_Buenos_Aires_Below...._%2849005476797%29.jpg)
 
 ###### Questions

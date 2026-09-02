@@ -22,8 +22,9 @@ indice_6 :
   - Célèbre ballade française
 questions:
  - Dans quelle chanson Yves Duteil décrit-il sa joie d'avoir adopté ?
+culture_g_score: 61
+culture_g_justification: "Chanson très mémorisée du répertoire français, mais principalement exploitable à travers quelques repères sur Yves Duteil et la chanson francophone."
 ---
-
 ![Image de Prendre un enfant par la main](https://upload.wikimedia.org/wikipedia/commons/8/88/Prendre_un_enfant_par_la_main_%2836979112523%29.jpg)
 
 ###### Questions

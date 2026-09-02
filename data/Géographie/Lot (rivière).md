@@ -22,8 +22,9 @@ indice_5 :
   - Aiguillon
 indice_6 : 
   - Quercy
+culture_g_score: 40
+culture_g_justification: "Rivière française associée à Cahors, au vignoble et à la navigation fluviale, mais trop spécifique pour constituer une priorité généraliste."
 ---
-
 ![[Carte_Lot (rivière).png]]
 
 ###### Questions

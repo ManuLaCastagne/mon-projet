@@ -18,8 +18,9 @@ indice_5 :
   - Bénévoles
 indice_6 : 
   - Festivals de Bretagne
+culture_g_score: 68
+culture_g_justification: "Grand festival français régulièrement cité pour son histoire, sa localisation et sa programmation, sans être un thème universel."
 ---
-
 ![Image de Vieilles Charrues](https://upload.wikimedia.org/wikipedia/commons/9/9d/Festival_des_Vieilles_Charrues_2014_-_Christophe_-_027.jpg)
 
 ###### Questions

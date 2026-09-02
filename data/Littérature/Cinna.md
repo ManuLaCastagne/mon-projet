@@ -22,9 +22,9 @@ indice_6 :
   - Amour et haine
 questions:
  - Quelle tragédie de Pierre Corneille est sous-titrée "La Clémence d'Auguste" ?
+culture_g_score: 64
+culture_g_justification: "Tragédie classique importante de Corneille, régulièrement interrogée avec Auguste, la clémence et le théâtre du XVIIe siècle, mais à champ limité."
 ---
-
-
 ![Image de Cinna](https://upload.wikimedia.org/wikipedia/commons/6/60/Cinna_arundinacea.jpg)
 
 ###### Questions

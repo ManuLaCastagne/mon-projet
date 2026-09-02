@@ -22,8 +22,9 @@ indice_6 :
   - Los Angeles
 questions:
  - De quel groupe, interprète en 1999 du tube "Californication"...
+culture_g_score: 80
+culture_g_justification: "Groupe populaire et durable, utile pour des questions sur le funk-rock, ses membres, ses albums à succès et le Rock and Roll Hall of Fame."
 ---
-
 ![Image de Red Hot Chili Peppers](https://upload.wikimedia.org/wikipedia/commons/5/5a/Red_Hot_Chili_Peppers_-_Rock_in_Rio_Madrid_2012_-_16.jpg)
 
 ###### Questions

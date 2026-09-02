@@ -24,8 +24,9 @@ indice_6 :
   - arts scéniques en Italie
 questions:
  - En 2003, après avoir été détruit par un incendie, quel théâtre de Venise a été reconstruit à l'identique ?
+culture_g_score: 64
+culture_g_justification: "Salle d’opéra vénitienne majeure, La Fenice est connue pour ses incendies et sa place dans l’histoire musicale, mais reste assez spécialisée."
 ---
-
 ![Image de Fenice](https://upload.wikimedia.org/wikipedia/commons/2/2e/Teatro_La_Fenice_%28Venice%29_-_Facade.jpg)
 
 ![[Carte_Fenice.png]]

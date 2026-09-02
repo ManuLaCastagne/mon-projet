@@ -22,8 +22,9 @@ indice_6 :
   - politicien américain et critique sociale
 questions:
  - Quel cinéaste a critiqué les travers de la politique américaine dans des films comme "Fahrenheit 9/11", "Bowling for Columbine" et "Where to invade next?" ?
+culture_g_score: 80
+culture_g_justification: "Documentariste très identifiable par Bowling for Columbine, Fahrenheit 9/11, les Oscars et ses engagements politiques."
 ---
-
 ![Image de Michael Moore](https://upload.wikimedia.org/wikipedia/commons/9/9c/Monte_Michael_Moore.jpg)
 
 ###### Questions

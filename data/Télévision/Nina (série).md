@@ -20,8 +20,9 @@ indice_6 :
   - diffusion sur France 2
 questions:
  - Dans quelle série de France 2 des infirmières...
+culture_g_score: 44
+culture_g_justification: "Série médicale française identifiable mais relativement récente et peu incontournable face aux grandes séries hospitalières internationales."
 ---
-
 ![Image de Nina (série)](https://upload.wikimedia.org/wikipedia/commons/4/43/Psyche_Leptosia_nina_mating_retouched.jpg)
 
 ###### Questions

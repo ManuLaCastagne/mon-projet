@@ -20,8 +20,9 @@ indice_6 :
   - Qui vous appelle ?
 questions:
  - Dans quelle série télévisée diffusée en France dans les années 70, Telly Savalas incarne un lieutenant de police chauve ayant en permanence une sucette ?
+culture_g_score: 73
+culture_g_justification: "Série policière classique immédiatement reconnaissable grâce à Telly Savalas, à la sucette et à son slogan célèbre."
 ---
-
 ![Image de Kojak](https://upload.wikimedia.org/wikipedia/commons/4/4a/Telly_Savalas_as_Kojak_1973.JPG)
 
 ###### Questions

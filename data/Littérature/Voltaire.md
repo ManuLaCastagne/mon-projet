@@ -18,8 +18,9 @@ indice_5 :
   - Zadig
 indice_6 : 
   - Lettres philosophiques
+culture_g_score: 100
+culture_g_justification: "Figure fondamentale des Lumières, associée à Candide, à la philosophie, aux combats politiques et à de nombreuses formules célèbres."
 ---
-
 ![Image de Voltaire](https://upload.wikimedia.org/wikipedia/commons/6/66/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_Mus%C3%A9e_Carnavalet_-_2.jpg)
 
 ###### Questions

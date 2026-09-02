@@ -21,8 +21,9 @@ indice_6:
   - épopée
 questions:
   - Quel film d'Abel Gance retraçant le parcours du futur empereur...
+culture_g_score: 64
+culture_g_justification: "Le sujet renvoie à plusieurs films consacrés à Napoléon, mais la référence reste moins incontournable que Napoléon Bonaparte lui-même."
 ---
-
 ![Image de Napoléon](https://upload.wikimedia.org/wikipedia/commons/3/31/Napoleon_I_of_France_by_Andrea_Appiani.jpg)
 
 ###### Questions

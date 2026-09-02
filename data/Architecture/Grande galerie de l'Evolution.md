@@ -23,9 +23,9 @@ indice_6 :
   - verrières spectaculaires
 questions:
  - Quelle locution désigne l'espace d'expositions permanentes du Muséum d'histoire naturelle...
+culture_g_score: 60
+culture_g_justification: "La Grande Galerie de l’Évolution est un musée parisien connu, utile pour croiser architecture, muséologie et sciences naturelles, sans être un incontournable mondial."
 ---
-
-
 ![Image de Grande galerie de l'Evolution](https://upload.wikimedia.org/wikipedia/commons/4/48/Paris_75005_Grande_Galerie_de_l%27Evolution_20070804.jpg)
 
 ###### Questions

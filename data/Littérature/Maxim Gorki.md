@@ -20,9 +20,9 @@ indice_6 :
   - L'Artamonov
 questions:
  - Quel écrivain de Russie, auteur de "La Mer (Gorki)", a dit "la sagesse de la vie est toujours "plus profonde et plus large que la sagesse des hommes ?
+culture_g_score: 80
+culture_g_justification: "Grand écrivain russe associé aux Bas-fonds, à La Mère, à la littérature soviétique et aux débats politiques du début du XXe siècle."
 ---
-
-
 ![Image de Maxim Gorki](https://upload.wikimedia.org/wikipedia/commons/5/5e/Maxim_Gorky_LOC_Restored_edit1.jpg)
 
 ###### Questions

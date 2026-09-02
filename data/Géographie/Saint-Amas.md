@@ -14,6 +14,8 @@ indice_3:
 indice_4:
 indice_5:
 indice_6:
+culture_g_score: 20
+culture_g_justification: "Saint-Amas est une commune très obscure, connue essentiellement pour un épisode précis de la Première Guerre mondiale."
 ---
 ###### Questions
 

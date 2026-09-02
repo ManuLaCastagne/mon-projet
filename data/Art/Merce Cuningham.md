@@ -22,14 +22,9 @@ indice_6:
   - Merce Cunningham Company
 questions:
   - Quel danseur et chorégraphe américain disparu en 2009 a initié un mouvement ouvrant la voie aux chorégraphes post-modernes ?
+culture_g_score: 56
+culture_g_justification: "Cunningham est central pour la danse contemporaine et ses collaborations avec Cage, mais demeure relativement spécialisé dans les quiz généralistes."
 ---
-
-
-
-
-
-
-
 ![Image de Merce Cuningham](https://upload.wikimedia.org/wikipedia/commons/c/ce/Catalogue_of_the_University_of_North_Carolina_at_Chapel_Hill_%281920-1921%29_%28IA_catalogueofunive186univ%29.pdf)
 
 ###### Questions

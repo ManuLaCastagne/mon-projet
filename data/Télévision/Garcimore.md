@@ -20,8 +20,9 @@ indice_6 :
   - émissions télévisées des années 80
 questions:
  - Déclenchant le rire de Denise Fabre, et ponctuant mes tours faussement ratés d'exclamations comme "Décontrachté" et "Y m'énerve"...
+culture_g_score: 76
+culture_g_justification: "Personnage télévisuel très marquant des années 1980, associé à la magie, à l'humour et à plusieurs émissions françaises cultes."
 ---
-
 ![Image de Garcimore](https://upload.wikimedia.org/wikipedia/commons/3/3f/Garcimore_au_Festival_de_l%27Ille.jpg)
 
 ###### Questions

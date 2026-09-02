@@ -22,8 +22,9 @@ indice_6 :
   - David O. Russell
 questions:
  - En 2013, quelle actrice, à l'affiche de "Hunger Games", a été récompensée aux Oscars  pour son rôle dans "Happiness Therapy" ?
+culture_g_score: 76
+culture_g_justification: "Grâce à Hunger Games, à son Oscar et à plusieurs succès populaires, Jennifer Lawrence fournit de nombreux repères de cinéma contemporain."
 ---
-
 ![Image de Jennifer Lawrence](https://upload.wikimedia.org/wikipedia/commons/9/9c/Jennifer_Lawrence_at_214._Wetten%2C_dass.._show_in_Graz%2C_8._Nov._2014_02.jpg)
 
 ###### Questions

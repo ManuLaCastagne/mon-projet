@@ -22,8 +22,9 @@ indice_6 :
   - Le Vent se lève
 questions:
  - En 2014, quel réalisateur britannique situe son film "Jimmy's Hole" en Irlande 10 ans après la fin de la guerre civile évoquée dans "Le Vent se lève" ?
+culture_g_score: 80
+culture_g_justification: "Deux fois palmé et associé à un cinéma social très identifiable, Ken Loach est une référence importante et régulièrement quizée."
 ---
-
 ![Image de Ken Loach](https://upload.wikimedia.org/wikipedia/commons/b/be/Ken_Loach_Cannes_2014.jpg)
 
 ###### Questions

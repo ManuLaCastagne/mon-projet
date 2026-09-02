@@ -22,8 +22,9 @@ indice_6:
   - Agnetha Fältskog
 questions:
   - Quel groupe de pop, fondé en 1972 et formé de 2 couples, a interprété de nombreux succès dont "Knowing me, knowing you" et "Fernando"?
+culture_g_score: 100
+culture_g_justification: "ABBA est un groupe mondialement incontournable, exploitable par ses chansons, ses membres, l’Eurovision, les records et la comédie musicale."
 ---
-
 ![Image de Abba](https://upload.wikimedia.org/wikipedia/commons/c/cb/ABBA_-_TopPop_1974_5.png)
 
 ###### Questions

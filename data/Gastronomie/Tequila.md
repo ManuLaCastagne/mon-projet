@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1950
 date: 1958
+culture_g_score: 84
+culture_g_justification: "Boisson mondialement connue offrant des liens fréquents avec le Mexique, les cocktails, la musique et les appellations."
 ---
 ###### Questions 
 

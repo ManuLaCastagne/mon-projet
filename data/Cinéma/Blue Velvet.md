@@ -22,9 +22,9 @@ indice_6 :
   - 1986
 questions:
  - En 1987, quel film de David Lynch commence par des images idylliques d'un quartier américain, avec ses maisons et ses jardins bien entretenus?
+culture_g_score: 68
+culture_g_justification: "Film emblématique de David Lynch, souvent cité pour son atmosphère et ses acteurs, mais restant relativement spécialisé dans les quiz généralistes."
 ---
-
-
 ![Image de Blue Velvet](https://upload.wikimedia.org/wikipedia/commons/5/5b/Blue_Velvet_Logo.svg)
 
 ###### Questions

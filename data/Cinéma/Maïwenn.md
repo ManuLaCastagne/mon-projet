@@ -20,16 +20,9 @@ indice_5:
   - ex-épouse de Luc Besson
 indice_6:
   - festival de Cannes
+culture_g_score: 80
+culture_g_justification: "Actrice et réalisatrice française régulièrement questionnée pour ses films, ses récompenses et son parcours singulier."
 ---
-
-
-
-
-
-
-
-
-
 ![Image de Maïwenn](https://upload.wikimedia.org/wikipedia/commons/1/1c/Ma%C3%AFwenn_Cannes_2011.jpg)
 
 ###### Questions

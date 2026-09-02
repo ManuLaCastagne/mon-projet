@@ -18,8 +18,9 @@ indice_5 :
   - prix par palier
 indice_6 : 
   - cible humaine
+culture_g_score: 40
+culture_g_justification: "Jeu de France 2 identifiable par Olivier Minne, mais sa diffusion limitée lui donne une fréquence modeste dans les quiz."
 ---
-
 ![Image de La Cible]()
 
 ###### Questions

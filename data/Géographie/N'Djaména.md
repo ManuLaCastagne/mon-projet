@@ -19,8 +19,9 @@ indice_5:
   - initialement appelée Fort-Lamy
 indice_6:
   - abrite l'aéroport international Hassan Djamous
+culture_g_score: 52
+culture_g_justification: "Capitale tchadienne utile pour la géographie de l’Afrique centrale et l’histoire coloniale, mais rarement interrogée seule."
 ---
-
 ![Image de N'Djaména](https://upload.wikimedia.org/wikipedia/commons/c/c6/Place_de_la_nation2_%28Tchad%29.jpg)
 
 ![[Carte_N'Djaména.png]]

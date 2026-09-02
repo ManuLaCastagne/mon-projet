@@ -22,8 +22,9 @@ indice_6 :
   - Adaptation de roman
 questions:
  - En 1971, quel film de Stanley Kubrick a pour héros Alex, un jeune délinquant obsédé...
+culture_g_score: 88
+culture_g_justification: "Chef-d’œuvre controversé de Kubrick, lié à Burgess, à la dystopie, à la musique et aux débats sur le libre arbitre, il est très rentable à apprendre."
 ---
-
 ![Image de Orange Mécanique](https://upload.wikimedia.org/wikipedia/commons/3/37/Orange_m%C3%A9canique_logo.svg)
 
 ###### Questions

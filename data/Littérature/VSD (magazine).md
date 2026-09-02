@@ -22,8 +22,9 @@ indice_6 :
   - reportages
 questions:
  - Quel magazine généraliste, fondé en 1977, est désigné par 3 initiales dont la 1re signifie vendredi ?
+culture_g_score: 27
+culture_g_justification: "Ancien magazine français relativement connu, mais devenu une référence de quiz rare et peu structurante."
 ---
-
 ![Image de VSD (magazine)](https://upload.wikimedia.org/wikipedia/commons/f/f2/Perimembraneous_VSD_E00684_%28CardioNetworks_ECHOpedia%29.jpg)
 
 ###### Questions

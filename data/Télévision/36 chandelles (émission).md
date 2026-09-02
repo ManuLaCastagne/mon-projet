@@ -20,8 +20,9 @@ indice_6:
   - divertissement en direct
 questions:
   - Dès 1952, quelle émission fut animée par Jean Nohain ?
+culture_g_score: 52
+culture_g_justification: "Programme pionnier de la variété télévisée française, surtout pertinent dans les questions historiques sur les débuts du petit écran."
 ---
-
 ![Image de 36 chandelles (émission)](https://upload.wikimedia.org/wikipedia/commons/8/8d/Journal_de_La_Haye_21-10-1847_%28IA_ddd_010258426_mpeg21%29.pdf)
 
 ###### Questions

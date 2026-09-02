@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de transformation
 questions:
  - Insecte dont l'espèce decticelle chagrinée est brunâtre et l'espèce conocéphale gracieux est souvent verte, je suis un prédateur nocturne lorsque je suis jeune. Chantant généralement le soir et la nuit en frottant mes ailes antérieures l'une contre l'autre, je suis reconnaissable à mes...
+culture_g_score: 64
+culture_g_justification: "Insecte familier associé aux bonds, aux chants et aux chaînes alimentaires, avec une fréquence correcte mais non incontournable."
 ---
-
 ![Image de Sauterelle](https://upload.wikimedia.org/wikipedia/commons/b/b5/Grande_sauterelle_verte_-_Portrait.jpg)
 
 ###### Questions

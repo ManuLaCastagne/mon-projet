@@ -22,8 +22,9 @@ indice_6 :
   - comédie
 questions:
  - En 2016, quelle comédie de Franck Gastambide, avec Ramzy Bedia, Gad Elmaleh, Anouar Toubali, a pour toile de fond un championnat de boxe thaïe...
+culture_g_score: 35
+culture_g_justification: "Comédie française connue du public récent, mais rarement mobilisée dans les quiz généralistes et d'importance culturelle limitée."
 ---
-
 ![Image de Pattaya](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pattaya_Bay%2C_Pattaya_Beach%2C_Thailand.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Reproductions grandeur nature
 questions:
  - Quel musée londonien, fondé en 1835, est réputé pour sa collection de figures de cire ?
+culture_g_score: 64
+culture_g_justification: "Personnage lié à un musée mondialement connu et à la Révolution française, mais moins important que l’institution qu’elle a fondée."
 ---
-
 ![Image de Madame Tussaud](https://upload.wikimedia.org/wikipedia/commons/9/9a/Wien_02_Prater_Madame_Tussauds_01.jpg)
 
 ###### Questions

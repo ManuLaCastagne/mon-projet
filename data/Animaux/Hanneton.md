@@ -15,8 +15,9 @@ indice_6 :
   - Symbole du printemps
 questions:
  - Insecte dont une espèce porte le nom scientifique de amphimallon solstitialis, je cause des dégâts en mangeant les racines des végétaux à l'état de larve, puis en dévorant...
+culture_g_score: 40
+culture_g_justification: "Insecte autrefois important pour l'agriculture et connu de la culture rurale, mais aujourd'hui peu fréquent dans les quiz."
 ---
-
 ![Image de Hanneton](https://upload.wikimedia.org/wikipedia/commons/1/14/R%C3%A9daction_du_Hanneton_%28Le_Hanneton%2C_1868-01-30%29.jpg)
 
 ###### Questions

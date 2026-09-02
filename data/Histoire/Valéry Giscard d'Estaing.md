@@ -20,8 +20,9 @@ indice_6 :
   - soutien à l'énergie nucléaire
 questions:
  - En 1974, la veille de Noël, quel président de la République française invite quelques éboueurs...
+culture_g_score: 80
+culture_g_justification: "Président français fréquemment cité pour la loi sur la majorité, les réformes sociétales, l’économie et la vie politique de la Ve République."
 ---
-
 ![Image de Valéry Giscard d'Estaing](https://upload.wikimedia.org/wikipedia/commons/5/5e/Val%C3%A9ry_Giscard_d%27Estaing_%281975%29.jpg)
 
 ###### Questions

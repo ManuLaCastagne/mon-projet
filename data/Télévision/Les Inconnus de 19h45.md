@@ -18,8 +18,9 @@ indice_5:
 indice_6: 
 questions:
   - Dès 1979, dans quelle émission d'access prime time, présentée par Patrick Sabatier, devait-on deviner l'identité de célébrités déguisées?
+culture_g_score: 20
+culture_g_justification: "Ancienne émission de divertissement peu connue, correspondant essentiellement à une question télévisuelle très précise."
 ---
-
 ![Image de Les Inconnus de 19h45]()
 
 ###### Questions

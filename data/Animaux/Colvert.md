@@ -13,8 +13,9 @@ indice_5:
   - Canard mallard
 indice_6:
   - Symbole de la chasse au gibier d'eau
+culture_g_score: 60
+culture_g_justification: "Canard très répandu et ancêtre des races domestiques, assez classique mais rarement prioritaire parmi les oiseaux."
 ---
-
 ![Image de Colvert](https://upload.wikimedia.org/wikipedia/commons/f/f3/Colvert_femelle.jpg)
 
 ###### Questions

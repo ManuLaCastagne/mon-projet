@@ -18,6 +18,8 @@ indice_5:
   - famille Beaumont
 indice_6:
   - saga familiale
+culture_g_score: 64
+culture_g_justification: "Série familiale française très durable et populaire, donnant surtout lieu à des questions sur TF1, sa longévité et sa distribution."
 ---
 ![[Pasted image 20250503172811.png]]
 ###### Questions

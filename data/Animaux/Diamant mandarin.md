@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fidélité en Asie
 questions:
  - Quel petit oiseau coloré est représenté par l'espèce "mandarin", originaire d'Australie, au mode de vie grégaire ?
+culture_g_score: 40
+culture_g_justification: "Le diamant mandarin possède quelques liens avec l'éthologie et l'aviculture, mais reste une référence assez spécialisée."
 ---
-
 ![Image de Diamant mandarin](https://upload.wikimedia.org/wikipedia/commons/8/8a/Pinz%C3%B3n_cebra_%28Taeniopygia_guttata%29%2C_Tierpark_Hellabrunn%2C_M%C3%BAnich%2C_Alemania%2C_2012-06-17%2C_DD_04.JPG)
 
 ###### Questions

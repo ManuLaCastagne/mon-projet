@@ -15,8 +15,9 @@ indice_6 :
   - Symbole d'innocence et de grâce
 questions:
  - Petit d'un animal des régions tempérées, mon nom, apparenté au mot foetus, désignait autrefois le petit de toute bête sauvage.  Echappant à mes nombreux prédateurs dans les 1ers temps de ma vie en restant dissimulé dans les...
+culture_g_score: 48
+culture_g_justification: "Le faon est un terme courant renforcé par Bambi, mais il correspond à peu d'angles de questions indépendants."
 ---
-
 ![Image de Faon](https://upload.wikimedia.org/wikipedia/commons/1/17/Faon_aux_oiseaux_detail.jpg)
 
 ###### Questions

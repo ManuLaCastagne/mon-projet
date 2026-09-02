@@ -18,8 +18,9 @@ indice_5 :
   - Ralph Lauren Home
 indice_6 : 
   - Polo Sport
+culture_g_score: 64
+culture_g_justification: "Ralph Lauren est une référence majeure de la mode et de la culture populaire américaine, mais ses questions restent surtout biographiques et commerciales."
 ---
-
 ![Image de Ralph Lauren](https://upload.wikimedia.org/wikipedia/commons/3/31/30th_St._Moritz_Polo_World_Cup_on_Snow_-_20140202_-_Cartier_vs_Ralph_Lauren_18.jpg)
 
 ###### Questions

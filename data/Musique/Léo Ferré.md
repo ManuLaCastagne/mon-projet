@@ -22,9 +22,9 @@ indice_6 :
   - Cheveux longs
 questions:
  - Quel chanteur déclare   "Avec le temps va, tout s'en va" ?
+culture_g_score: 80
+culture_g_justification: "Grande figure de la chanson française, à la fois poète, compositeur engagé et interprète de Baudelaire, Verlaine et Rimbaud."
 ---
-
-
 ![Image de Léo Ferré](https://upload.wikimedia.org/wikipedia/commons/8/8e/LeoFerre-Rome-1972.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Clairefontaine
 questions:
  - En 1978, avant un match de Coupe du monde de football, quelle équipe ayant oublié ses maillots bleus…
+culture_g_score: 100
+culture_g_justification: "L’équipe de France de football est une référence incontournable des quiz, avec des angles historiques, sportifs, tactiques, géographiques et culturels."
 ---
-
 ![Image de Equipe de France](https://upload.wikimedia.org/wikipedia/commons/1/1c/%C3%89quipe_fran%C3%A7aise-Tour_de_France_1932.JPG)
 
 ###### Questions

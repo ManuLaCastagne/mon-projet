@@ -15,8 +15,9 @@ indice_6 :
   - Aucune utilisation pratique ou commerciale
 questions:
  - Quelle... plante parasite, de l'archipel malais produit la plus grande fleur simple connue...
+culture_g_score: 64
+culture_g_justification: "La fleur géante et son odeur de cadavre en font une référence classique des records et curiosités naturelles."
 ---
-
 ![Image de Rafflesia](https://upload.wikimedia.org/wikipedia/commons/c/cd/Rafflesia_Arnoldii_Batang_Palupuah_Indonesia.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Appelé aussi manioc
 indice_6:
   - Utilisé pour préparer des perles alimentaires
+culture_g_score: 64
+culture_g_justification: "Le tapioca est une référence culinaire internationale reliant manioc, amidon et alimentation sans gluten."
 ---
-
 ![Image de Tapioca](https://upload.wikimedia.org/wikipedia/commons/c/c8/A_plate_of_Tapioca.jpg)
 
 ###### Questions

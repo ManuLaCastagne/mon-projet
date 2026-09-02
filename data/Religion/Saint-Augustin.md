@@ -18,8 +18,9 @@ indice_5 :
   - Manichéisme
 indice_6 : 
   - Grâce divine
+culture_g_score: 87
+culture_g_justification: "Père de l'Église et penseur majeur, Augustin relie christianisme, philosophie, autobiographie, histoire romaine et théologie occidentale."
 ---
-
 ![Image de Saint-Augustin](https://upload.wikimedia.org/wikipedia/commons/d/dd/Saint-Augustin_Church_Altar_1%2C_Paris%2C_France_-_Diliff.jpg)
 
 ###### Questions

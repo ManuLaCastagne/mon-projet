@@ -20,8 +20,9 @@ indice_5 :
   - Gert Fröbe
 indice_6 : 
   - Shirley Bassey
+culture_g_score: 93
+culture_g_justification: "L’un des James Bond les plus célèbres, associé à Sean Connery, Auric Goldfinger, Shirley Bassey et plusieurs scènes cultes."
 ---
-
 ![Image de Goldfinger](https://upload.wikimedia.org/wikipedia/commons/6/65/Goldfinger_set_3_from_trailer.jpg)
 
 ###### Questions

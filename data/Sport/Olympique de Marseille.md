@@ -20,8 +20,9 @@ indice_6 :
   - 1993
 questions:
  - Tout le monde a reconnu Van Halen, "Jump", je ne vous pose pas la question, c'est trop facile. C'est Van Halen, dont le guitariste Eddie Van Halen nous a quittés en octobre dernier. Voici la question. A partir de 1986...
+culture_g_score: 88
+culture_g_justification: "Club français incontournable grâce à sa victoire en Ligue des champions, sa rivalité avec Paris et son histoire nationale."
 ---
-
 ![Image de Olympique de Marseille](https://upload.wikimedia.org/wikipedia/commons/f/f0/Luan-peres-olympique-de-marseille-2021.png)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_6 :
   - Ricardo Bofill Taller de Arquitectura
 questions:
  - En 1963, quel architecte espagnol fonde à Barcelone un atelier regroupant plusieurs corps de métier ?
+culture_g_score: 52
+culture_g_justification: "Architecte postmoderne associé à plusieurs réalisations remarquables, mais encore relativement spécialisé pour le grand public."
 ---
-
-
 ![Image de Ricardo Bofill](https://upload.wikimedia.org/wikipedia/commons/9/91/Ricardo_bofill_levi.jpg)
 
 ###### Questions

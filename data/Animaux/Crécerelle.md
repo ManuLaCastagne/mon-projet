@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la vigilance et de la liberté
 questions:
  - Quel faucon à longue queue est le plus commun des rapaces diurnes en France?
+culture_g_score: 60
+culture_g_justification: "Petit rapace européen connu pour son vol stationnaire, utile en ornithologie mais moins incontournable que les grands rapaces emblématiques."
 ---
-
 ![Image de Crécerelle](https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg)
 
 ###### Questions

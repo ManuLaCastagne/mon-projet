@@ -21,8 +21,9 @@ indice_6 :
   - candidats
 questions:
  - Présentée par Stéphane Rotenberg, je demande de la créativité pour réussir des trompe-l'oeil ou des recettes à partir d'un ingrédient.
+culture_g_score: 76
+culture_g_justification: "Concours culinaire français très populaire, régulièrement interrogé par ses chefs, ses candidats, son animateur et son format."
 ---
-
 ![Image de Top Chef](https://upload.wikimedia.org/wikipedia/commons/a/a0/Chef_Pam_is_in_Top_Chef_Thailand_as_Judge.png)
 
 ###### Questions

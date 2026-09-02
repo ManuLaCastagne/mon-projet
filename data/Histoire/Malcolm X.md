@@ -22,8 +22,9 @@ indice_6 :
   - Islam et droits des Afro-Américains
 questions:
  - Le 21 février 1965, quel homme politique américain, ancien membre des Black Muslims est assassiné à New York?
+culture_g_score: 80
+culture_g_justification: "Figure majeure des droits civiques américains, exploitable par l’histoire, la politique, les discriminations et la religion."
 ---
-
 ![Image de Malcom X](https://upload.wikimedia.org/wikipedia/commons/c/cb/Malcolm_X_NYWTS_2a.jpg)
 
 ###### Questions

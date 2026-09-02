@@ -20,8 +20,9 @@ indice_6 :
   - Bibendum
 questions:
  - Wibault et nécessite de nombreux essieux… Retiré du service avant la Seconde Guerre mondiale, je peux offrir une cinquantaine de places assises et suis surmonté d'une cabine surélevée… De conduire dans les 2 sens. Autorail sur pneus...
+culture_g_score: 48
+culture_g_justification: "Innovation ferroviaire française originale, connue surtout par une question historique ou technologique spécifique."
 ---
-
 ![Image de Micheline (voiture)](https://upload.wikimedia.org/wikipedia/commons/2/24/Michelin-Inox_0009.jpg)
 
 ###### Questions

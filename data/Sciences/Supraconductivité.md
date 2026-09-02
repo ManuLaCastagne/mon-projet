@@ -20,10 +20,9 @@ indice_6 :
   - Transition de phase
 questions:
  - Quel phénomène quantique est expliqué par la théorie BCS ?
+culture_g_score: 67
+culture_g_justification: "Phénomène physique important et associé à plusieurs applications, mais encore relativement spécialisé dans les quiz généralistes."
 ---
-
-
-
 ![Image de Supraconductivité](https://upload.wikimedia.org/wikipedia/commons/7/7d/Magnet_4.jpg)
 
 ###### Questions

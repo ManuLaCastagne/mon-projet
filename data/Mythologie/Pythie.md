@@ -18,10 +18,9 @@ indice_6 :
   - inhalation de vapeurs
 questions:
  - A Delphes, quelle prophétesse de l'oracle d'Apollon, juchée sur un trépied, délivrait les messages divins dans un état de transe?
+culture_g_score: 88
+culture_g_justification: "Prêtresse emblématique de l’oracle de Delphes, la Pythie est un marronnier des quiz reliant Apollon, la Grèce antique, la divination et l’histoire religieuse."
 ---
-
-
-
 ![Image de Pythie](https://upload.wikimedia.org/wikipedia/commons/a/a3/Oracle_of_Delphi%2C_red-figure_kylix%2C_440-430_BC%2C_Kodros_Painter%2C_Berlin_F_2538%2C_141668.jpg)
 
 ###### Questions

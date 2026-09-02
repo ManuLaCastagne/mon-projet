@@ -15,8 +15,9 @@ indice_6 :
   - Emblème de Bretagne
 questions:
  - Mammifère associé au castor et au sanglier dans une fable de Florian, je suis un petit carnivore chasseur de campagnols, présent en France même si je suis difficile à observer.
+culture_g_score: 60
+culture_g_justification: "Animal associé à l'hiver, à l'héraldique bretonne et aux adaptations saisonnières, assez régulièrement exploitable en quiz."
 ---
-
 ![Image de Hermine](https://upload.wikimedia.org/wikipedia/commons/3/38/Hermine_Shone%2C_vaudeville_entertainer_%28SAYRE_8957%29.jpg)
 
 ###### Questions

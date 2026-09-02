@@ -20,10 +20,9 @@ indice_6 :
   - Lions britanniques et irlandais
 questions:
  - Quel rugbyman gallois, né en 1947, statufié de son vivant à Cardiff…
+culture_g_score: 64
+culture_g_justification: "Légende du rugby mondial, surtout mobilisée autour du rugby gallois, des Lions britanniques et de son essai emblématique de 1973."
 ---
-
-
-
 ![Image de Gareth Edwards](https://upload.wikimedia.org/wikipedia/commons/7/74/Gareth_Edwards_by_Gage_Skidmore.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Aerosmith
 questions:
  - En 1998, dans quel film catastrophe, avec B.Willis, un énorme astéroïde menace-t-il de s'écraser sur la Terre?
+culture_g_score: 69
+culture_g_justification: "Blockbuster très connu, associé à Michael Bay, Bruce Willis, l’astéroïde et sa bande originale, mais d’importance culturelle limitée."
 ---
-
 ![Image de Armageddon](https://upload.wikimedia.org/wikipedia/commons/0/06/Michael_Bay_%26_Jerry_Bruckheimer_-_Armageddon_%281998_film%29.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/71CjPODa65bRZGA8vwozzv?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

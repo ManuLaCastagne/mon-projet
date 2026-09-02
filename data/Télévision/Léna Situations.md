@@ -19,8 +19,9 @@ indice_5:
   - Vlogs
 indice_6:
   - créatrice de contenu
+culture_g_score: 40
+culture_g_justification: "Influenceuse française très visible auprès d'un public jeune, mais encore peu incontournable dans les quiz généralistes traditionnels."
 ---
-
 ![Image de Léna Situations](https://upload.wikimedia.org/wikipedia/commons/1/1b/L%C3%A9na_Situations_et_Seb_La_Frite.png)
 
 ###### Questions

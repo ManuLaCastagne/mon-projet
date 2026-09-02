@@ -20,8 +20,9 @@ indice_6 :
   - née en 1635
 questions:
  - Quelle 2de épouse de Louis XIV recommandait L'Eau de la Reine de Hongrie aux pensionnaires de Saint-Cyr pour ses pouvoirs revitalisants?
+culture_g_score: 80
+culture_g_justification: "Épouse secrète de Louis XIV, fondatrice de Saint-Cyr et ancienne gouvernante, elle revient dans plusieurs thèmes de la cour."
 ---
-
 ![Image de Marquise de Maintenon](https://upload.wikimedia.org/wikipedia/commons/a/ab/Pierre_Mignard_-_Fran%C3%A7oise_d%27Aubign%C3%A9%2C_marquise_de_Maintenon_%281694%29.jpg)
 
 ###### Questions

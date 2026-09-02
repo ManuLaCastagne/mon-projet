@@ -20,8 +20,9 @@ indice_6 :
   - exploration des capacités humaines
 questions:
  - Quelle mannequin d'origine tchécoslovaque, ayant étudié la médecine, participe depuis plusieurs années aux campagnes de la Croix-Rouge ?
+culture_g_score: 64
+culture_g_justification: "Personnalité médiatique connue reliant mannequinat, télévision et vie publique, mais sans importance culturelle majeure."
 ---
-
 ![Image de Adriana Karembeu](https://upload.wikimedia.org/wikipedia/commons/9/9e/Adriana_Sklenarikova_Karembeu_NRJ_Music_Awards_2012_%28cropped%29.jpg)
 
 ###### Questions

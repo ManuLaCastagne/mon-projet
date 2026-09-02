@@ -19,8 +19,9 @@ indice_6:
   - climats
 questions:
   - Quelle région du bassin parisien s'étend sur les département de l'Eure-et-Loir, le Loiret, est surnommé le grenier à blé de la France ?
+culture_g_score: 0
+culture_g_justification: "Le terme « Bausse » ne correspond pas clairement à une région géographique française reconnue et ne constitue pas une référence de quiz identifiable."
 ---
-
 ![[Carte_Bausse.png]]
 ###### Questions
 

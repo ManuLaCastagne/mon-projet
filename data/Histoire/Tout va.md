@@ -20,8 +20,9 @@ indice_6 :
   - États généraux
 questions:
  - Quelle est la suite de la célèbre phrase prononcée en 1850 par le député de la Creuse Martin Nadaud, qui débute par "quand "le bâtiment va"...
+culture_g_score: 20
+culture_g_justification: "Titre de journal, de pièce et de chanson très spécifique, offrant peu de rendement pour la culture générale généraliste."
 ---
-
 ![Image de Tout va](https://upload.wikimedia.org/wikipedia/commons/5/54/Jan-Wouter_Van_Gestel_-_tout_va_bien-1519515532.jpeg)
 
 ###### Questions

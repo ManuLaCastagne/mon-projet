@@ -15,8 +15,9 @@ indice_6 :
   - Parfumerie et ornements de jardin
 questions:
  - De quel arbuste aux grappes de fleurs odorantes, mauves ou blanches coupe-t-on les branches pour en faire des bouquets au printemps ?
+culture_g_score: 48
+culture_g_justification: "Arbuste fleuri très familier, mais généralement limité à des questions d’identification ou de symbolique."
 ---
-
 ![Image de Lilas](https://upload.wikimedia.org/wikipedia/commons/2/25/Plaque_Passage_Lilas_-_Les_Lilas_%28FR93%29_-_2021-05-01_-_1.jpg)
 
 ###### Questions

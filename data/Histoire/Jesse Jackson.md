@@ -20,8 +20,9 @@ indice_6 :
   - Conseiller de Martin Luther King
 questions:
  - Quel pasteur compagnon de lutte de MLK a été candidat à la présidence des USA en 1984 ?
+culture_g_score: 63
+culture_g_justification: "Leader afro-américain des droits civiques et candidat démocrate, il permet des liens avec Martin Luther King, la politique américaine et la lutte contre le racisme."
 ---
-
 ![Image de Jesse Jackson](https://upload.wikimedia.org/wikipedia/commons/5/59/Jesse_Jackson%2C_half-length_portrait_of_Jackson_seated_at_a_table%2C_July_1%2C_1983_edit.jpg)
 
 ###### Questions

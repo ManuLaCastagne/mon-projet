@@ -20,8 +20,9 @@ indice_6 :
   - membre de la cour des Tudors
 questions:
  - Dans la matinée du 19 mai 1536, quelle épouse d'Henri VIII d'Angleterre et mère de la future Elisabeth Ire est exécutée ?
+culture_g_score: 80
+culture_g_justification: "Son mariage avec Henri VIII, son exécution et son rôle dans la rupture avec Rome en font une figure très classique de l’histoire anglaise."
 ---
-
 ![Image de Anne Boleyn](https://upload.wikimedia.org/wikipedia/commons/f/f2/Anne_boleyn.jpg)
 
 ###### Questions

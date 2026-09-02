@@ -18,8 +18,9 @@ indice_5 :
   - Pourim
 indice_6 : 
   - Livre d'Esther
+culture_g_score: 72
+culture_g_justification: "Reine biblique liée à Pourim, à l’histoire perse et à la sauvegarde des Juifs, avec plusieurs angles classiques."
 ---
-
 ![Image de Esther](https://upload.wikimedia.org/wikipedia/commons/d/de/Esthermillais.jpg)
 
 ###### Questions

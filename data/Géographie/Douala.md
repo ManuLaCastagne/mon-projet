@@ -24,9 +24,9 @@ indice_6 :
   - aéroport international
 questions:
  - Quelle ville d'environ 3 millions d'habitants, située sur l'estuaire du Wouri, est le principal port du Cameroun et la capitale économique...
+culture_g_score: 47
+culture_g_justification: "Principale métropole économique du Cameroun, Douala intervient surtout dans quelques questions de géographie et d’histoire coloniale africaines."
 ---
-
-
 ![Image de Douala](https://upload.wikimedia.org/wikipedia/commons/9/99/Douala.JPG)
 
 ![[Carte_Douala.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - Sturm und Drang
 questions:
  - Quel roman de Goethe raconte les tourments...
+culture_g_score: 80
+culture_g_justification: "Classique de Goethe, précurseur du romantisme, fréquemment associé au Sturm und Drang et à son impact culturel."
 ---
-
 ![Image de Souffrances du jeune Werther](https://upload.wikimedia.org/wikipedia/commons/e/ee/Goethe_-_Werther%2C_1845%2C_trad._Leroux.djvu)
 
 ###### Questions

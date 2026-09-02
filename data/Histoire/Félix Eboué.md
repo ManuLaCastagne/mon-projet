@@ -20,8 +20,9 @@ indice_6 :
   - Né en Guyane française
 questions:
  - En août, quel administrateur français répond à l'appel du 18 juin et se fait l'artisan du ralliement de l'Afrique équatoriale française à la France libre ?
+culture_g_score: 64
+culture_g_justification: "Personnalité importante de la France libre, de la Résistance et de l’histoire coloniale, mais relativement peu fréquente hors des quiz francophones."
 ---
-
 ![Image de Félix Eboué](https://upload.wikimedia.org/wikipedia/commons/b/b3/F%C3%A9lix_%C3%89bou%C3%A9.jpg)
 
 ###### Questions

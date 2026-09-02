@@ -18,6 +18,8 @@ indice_5:
   - années 1980
 indice_6:
   - Moscou
+culture_g_score: 51
+culture_g_justification: "Film reconnu par Mikhalkov, Mastroianni et Tchekhov, mais relativement peu fréquent dans les quiz généralistes."
 ---
 ![[Pasted image 20250421150159.png]]
 ###### Questions

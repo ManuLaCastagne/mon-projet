@@ -24,8 +24,9 @@ indice_6 :
   - marché de l’Olive
 questions:
  - Dans quel arrondissement de Paris se trouve le boulevard Barbès, qui doit son nom à un révolutionnaire du 19e siècle ?
+culture_g_score: 64
+culture_g_justification: "Arrondissement associé à Montmartre, au Sacré-Cœur et au Moulin-Rouge, ce qui le rend régulièrement utile en quiz parisien."
 ---
-
 ![Image de 18e arrondissement](https://upload.wikimedia.org/wikipedia/commons/5/50/Town_hall_of_Paris_18e_arrondissement_at_night.jpg)
 
 ![[Carte_18e arrondissement.png]]

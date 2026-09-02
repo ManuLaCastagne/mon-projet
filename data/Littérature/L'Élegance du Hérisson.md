@@ -22,10 +22,9 @@ indice_6 :
   - Paris
 questions:
  - En 2006, quel best-seller de Muriel Barbery met en scène une concierge...
+culture_g_score: 56
+culture_g_justification: "Succès littéraire français identifiable par son intrigue et son adaptation, mais encore trop récent pour être une référence incontournable."
 ---
-
-
-
 ![Image de L'Élegance du Hérisson](https://upload.wikimedia.org/wikipedia/commons/c/cb/Types_du_r%C3%A8gne_animal._Buffon_en_estampes_%28IA_TypesdureYgnean00Trav%29.pdf)
 
 ###### Questions

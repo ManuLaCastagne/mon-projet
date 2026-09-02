@@ -20,9 +20,9 @@ indice_5 :
   - Victoire de la Musique
 indice_6 : 
   - Artiste franco-algérien
+culture_g_score: 60
+culture_g_justification: "Slimane est une personnalité populaire de la chanson et de la télévision françaises, mais son recul historique et sa transversalité restent encore modestes."
 ---
-
-
 ![Image de Slimane](https://upload.wikimedia.org/wikipedia/commons/1/1f/Slimane_Eurovision_Song_Contest_2024_semi_2_%28cropped%29.jpg)
 
 ###### Questions

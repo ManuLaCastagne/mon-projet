@@ -24,8 +24,9 @@ indice_6 :
   - Four Solaire d'Odeillo
 questions:
  - Quelle station des Pyrénées-Orientales située en Cerdagne abrite des établissements spécialisés dans le traitement des infections respiratoires ?
+culture_g_score: 44
+culture_g_justification: "Station pyrénéenne connue surtout pour les sports d’hiver et quelques particularités scientifiques ou sportives assez spécialisées."
 ---
-
 ![Image de Font-Romeu](https://upload.wikimedia.org/wikipedia/commons/2/24/Font-Romeu-Odeillo-Via_%2866%29.JPG)
 
 ![[Carte_Font-Romeu.png]]

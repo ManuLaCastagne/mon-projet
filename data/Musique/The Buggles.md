@@ -22,9 +22,9 @@ indice_6 :
   - new wave
 questions:
  - En 1979, quel duo, formé par Trevor Horn et Geoff Downes, a connu le succès avec le titre "Video killed the radio Star" ?
+culture_g_score: 57
+culture_g_justification: "La chanson liée au lancement de MTV rend le groupe mémorable, mais son répertoire et ses angles restent très limités."
 ---
-
-
 ![Image de The Buggles](https://upload.wikimedia.org/wikipedia/commons/3/32/Buggles_-_Video_killed_the_radio_star.jpg)
 
 ###### Questions

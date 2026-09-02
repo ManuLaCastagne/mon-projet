@@ -18,8 +18,9 @@ indice_5 :
   - comédien français
 indice_6 : 
   - rôle de policier
+culture_g_score: 55
+culture_g_justification: "Acteur français surtout retenu pour Taxi, avec quelques rôles télévisés, mais une portée culturelle et une réutilisation limitées."
 ---
-
 ![Image de Frédéric Diefenthal](https://upload.wikimedia.org/wikipedia/commons/d/d6/Frederic_Diefenthal_20100330_Salon_du_livre_de_Paris_2.jpg)
 
 ###### Questions

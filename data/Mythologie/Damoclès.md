@@ -18,12 +18,9 @@ indice_6 :
   - leçon de morale
 questions:
  - Objet ayant donné mon nom à un tableau de Félix Auvray de 2,61 m de large, je suis lié à une légende concernant le tyran de Syracuse, Denys l'Ancien, dont le sort était envié par un courtisan.
+culture_g_score: 80
+culture_g_justification: "L'expression de l'épée de Damoclès est un classique des quiz et de la langue française, avec une forte portée morale."
 ---
-
-
-
-
-
 ![Image de Damoclès](https://upload.wikimedia.org/wikipedia/commons/a/ae/Damocl%C3%A8s_%28Dubost%2C_1804%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - foi chrétienne
 questions:
  - Figurant l'année suivante sur l'album "No soucy" en même temps que "Le feu qui m'attise", je répète dans mon refrain "J'ai dans le coeur Cette force qui guide mes pas". Tube dans lequel Ophélie Winter...
+culture_g_score: 52
+culture_g_justification: "Tube français marquant des années 1990, mais principalement exploitable comme une question ponctuelle sur Ophélie Winter."
 ---
-
 ![Image de Dieu m'a donné la foi](https://upload.wikimedia.org/wikipedia/commons/f/f4/Guirlande_po%C3%A9tique_de_Dieu-Donn%C3%A9%2C_Duc_de_Bordeaux_%28IA_guirlandepoetiqu00chaa%29.pdf)
 
 ###### Questions

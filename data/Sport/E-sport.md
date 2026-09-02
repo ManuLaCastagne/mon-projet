@@ -20,9 +20,9 @@ indice_6 :
   - Call of Duty
 questions:
  - Discipline nouvelle dont les 1ers tournois officiels ont débuté en 1997 aux Etats-Unis, mon nom est entré dans l'édition 2018 du dictionnaire.
+culture_g_score: 68
+culture_g_justification: "Domaine contemporain en forte croissance, l’e-sport permet des questions sur les jeux vidéo, les compétitions, les joueurs et l’économie numérique."
 ---
-
-
 ![Image de E-sport](https://upload.wikimedia.org/wikipedia/commons/e/e6/Pronunciation_of_%22esports%22.ogg)
 
 ###### Questions

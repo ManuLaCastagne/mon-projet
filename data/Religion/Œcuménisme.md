@@ -20,9 +20,9 @@ indice_6 :
   - Assise
 questions:
  - Dans le Christianisme, quel mouvement préconise la réunification de toutes les églises chrétiennes ?
+culture_g_score: 52
+culture_g_justification: "Notion utile pour l’histoire contemporaine du christianisme, mais relativement spécialisée et moins fréquente que les confessions elles-mêmes."
 ---
-
-
 ![Image de Œcuménisme](https://upload.wikimedia.org/wikipedia/commons/c/c7/Kor-ger_ecumenism.jpg)
 
 ###### Questions

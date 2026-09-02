@@ -18,9 +18,9 @@ indice_5 :
   - tournoi fatal
 indice_6 : 
   - dynastie des Valois
+culture_g_score: 68
+culture_g_justification: "Roi de France de la Renaissance, surtout retenu pour son duel fatal, ses guerres contre les Habsbourg et son règne entre François Ier et les guerres de Religion."
 ---
-
-
 ![Image de Henri II](https://upload.wikimedia.org/wikipedia/commons/b/be/Henri_II_et_Catherine_de_M%C3%A9dicis_edit.JPG)
 
 ###### Questions

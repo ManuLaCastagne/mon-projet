@@ -15,8 +15,9 @@ indice_6 :
   - Symbole d'aventure et de mystère
 questions:
  - Cétacé dont le mâle est doté d'une dent en spirale de 2 à 3 m de long, qui lui a valu le surnom de licorne de mer.
+culture_g_score: 68
+culture_g_justification: "Cétacé emblématique de l’Arctique, célèbre par sa défense assimilée à une corne de licorne et par son histoire médiévale."
 ---
-
 ![Image de Narval](https://upload.wikimedia.org/wikipedia/commons/2/29/Submarine_Narval_-_Page%27s_Magazine_1902.png)
 
 ###### Questions

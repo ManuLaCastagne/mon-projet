@@ -20,9 +20,9 @@ indice_6 :
   - Change of base formula
 questions:
  - Ou népérien si ma base est le nombre e, je deviens décimal ou de Briggs  si j'ai pour base le nombre 10. Puissance à laquelle il faut...
+culture_g_score: 84
+culture_g_justification: "Concept mathématique classique reliant calcul, croissance, échelles, sciences et histoire des mathématiques."
 ---
-
-
 ![Image de Logarithme](https://upload.wikimedia.org/wikipedia/commons/c/c1/Ln%28x%29_ableiten_-_Logarithmusfunktionen_ableiten.webm)
 
 ###### Questions

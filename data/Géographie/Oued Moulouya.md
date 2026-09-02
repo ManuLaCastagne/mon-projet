@@ -24,8 +24,9 @@ indice_6 :
   - réserve naturelle de la Moulouya
 questions:
  - Quelle fleuve du Maroc, prenant sa source dans le moyen Santé/Atlas, se jette dans la Méditerrannée, près de la frontière algérienne ?
+culture_g_score: 27
+culture_g_justification: "Cours d’eau marocain pertinent pour la géographie nationale et l’écologie, mais très rarement demandé hors contexte spécialisé."
 ---
-
 ![Image de Oued Moulouya](https://upload.wikimedia.org/wikipedia/commons/e/eb/Moulouya_Marocco.jpg)
 
 ![[Carte_Oued Moulouya.png]]

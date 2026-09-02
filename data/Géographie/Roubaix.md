@@ -24,9 +24,9 @@ indice_6 :
   - canaux et rivières
 questions:
  - Quelle ville du nord de la France a dû son essor à une charte de 1469 l'autorisant à "faire licitement draps de toute laines"?
+culture_g_score: 60
+culture_g_justification: "Roubaix offre des repères sur l’industrie textile, la métropole lilloise et la culture, mais demeure une ville française de second rang dans les quiz."
 ---
-
-
 ![Image de Roubaix](https://upload.wikimedia.org/wikipedia/commons/1/17/Roubaix_-_Paris-Roubaix_juniors_%26_Paris-Roubaix%2C_9_avril_2017%2C_arriv%C3%A9e_%28A51%29.JPG)
 
 ![[Carte_Roubaix.png]]

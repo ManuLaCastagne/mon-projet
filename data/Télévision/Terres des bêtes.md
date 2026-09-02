@@ -18,8 +18,9 @@ indice_5 :
   - exploration
 indice_6 : 
   - écosystèmes
+culture_g_score: 12
+culture_g_justification: "Programme documentaire animalier obscur et peu identifiable, sans place notable dans les quiz généralistes."
 ---
-
 ![Image de Terres des bêtes](https://upload.wikimedia.org/wikipedia/commons/0/0f/L%27esprit_des_b%C3%AAtes_%28IA_lespritdesbetes00tous%29.pdf)
 
 ###### Questions

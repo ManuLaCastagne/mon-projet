@@ -20,9 +20,9 @@ indice_6 :
   - Années 1990
 questions:
  - Puisqu'on parle de vitesse, quel nageur russe a été quadruple champion olympique, excusez du peu,  sur 50 et 100 m nage libre, 92, 93 ?
+culture_g_score: 60
+culture_g_justification: "Nageur sprint russe très titré, régulièrement associé aux Jeux de 1992 et 1996 ainsi qu’à l’histoire de la natation."
 ---
-
-
 ![Image de Aleksandr Popov](https://upload.wikimedia.org/wikipedia/commons/f/fb/Russian_swimmer_Aleksandr_Vladimirovich_Popov_in_kremlin_%28central%29.jpg)
 
 ###### Questions

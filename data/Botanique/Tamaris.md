@@ -13,8 +13,9 @@ indice_5 :
   - Tamarix
 indice_6 : 
   - Fixation des dunes de sable
+culture_g_score: 32
+culture_g_justification: "Arbuste méditerranéen intéressant pour l’écologie des littoraux, mais rarement demandé dans un quiz généraliste."
 ---
-
 ![Image de Tamaris](https://upload.wikimedia.org/wikipedia/commons/b/b0/Vestiges_du_rempart_nord_des_Tamaris.jpg)
 
 ###### Questions

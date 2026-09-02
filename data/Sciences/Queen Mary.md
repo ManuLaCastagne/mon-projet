@@ -20,8 +20,9 @@ indice_6 :
   - Art déco
 questions:
  - En 1938, quel paquebot anglais détrône ses rivaux en devenant le plus rapide des transatlantiques ?
+culture_g_score: 48
+culture_g_justification: "Paquebot historique notable, mais sujet relativement étroit malgré ses liens avec les records maritimes, la guerre et le tourisme."
 ---
-
 ![Image de Queen Mary](https://upload.wikimedia.org/wikipedia/commons/d/dd/Hamburg%2C_Hafen%2C_Kreuzfahrtschiff_-Queen_Mary_2-_--_2016_--_3050.jpg)
 
 ###### Questions

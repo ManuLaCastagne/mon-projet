@@ -22,8 +22,9 @@ indice_6 :
   - membre de la Génération perdue
 questions:
  - En 1940, quelle romancière américaine devient célèbre avec son 1er roman, intitulé "Le coeur est un chasseur solitaire"?
+culture_g_score: 44
+culture_g_justification: "Romancière importante du Southern Gothic, mais relativement peu connue du grand public francophone et rarement interrogée hors de questions spécialisées."
 ---
-
 ![Image de Carson McCullers](https://upload.wikimedia.org/wikipedia/commons/2/2a/Carson_Mc_Cullers.jpg)
 
 ###### Questions

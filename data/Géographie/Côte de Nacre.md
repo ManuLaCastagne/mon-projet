@@ -26,11 +26,9 @@ indice_6 :
 questions:
  - Quel nom donne-t-on à la côte de Ouistreham à Courseulles-sur-Mer ?
 
+culture_g_score: 44
+culture_g_justification: "Littoral normand intéressant surtout par Juno Beach et le débarquement, mais le nom régional lui-même reste peu fréquent."
 ---
-
-
-
-
 ![Image de Côte de Nacre](https://upload.wikimedia.org/wikipedia/commons/d/dc/Festyland-La_C%C3%B4te_de_Nacre%282%29.jpg)
 
 ![[Carte_Côte de Nacre.png]]

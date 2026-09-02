@@ -20,9 +20,9 @@ indice_5 :
   - Roger Hodgson
 indice_6 : 
   - Goodbye Stranger
+culture_g_score: 69
+culture_g_justification: "Album majeur de Supertramp, utile pour plusieurs chansons, les classements et l’histoire du rock des années 1970."
 ---
-
-
 ![[Pasted image 20250323150844.png]]
 ###### Questions
 

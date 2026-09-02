@@ -20,8 +20,9 @@ indice_6 :
   - Générateur électrique
 questions:
  - En 1871, de quelle génératrice à courant continu fut créée par l'inventeur belge Zénobe Gramme ?
+culture_g_score: 68
+culture_g_justification: "Notion reliant électromagnétisme, production électrique et géophysique, avec plusieurs angles classiques de culture scientifique."
 ---
-
 ![Image de Dynamo](https://upload.wikimedia.org/wikipedia/commons/5/59/Steven_Frayne.jpg)
 
 ###### Questions

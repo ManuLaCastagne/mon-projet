@@ -20,9 +20,9 @@ indice_6 :
   - fondateur de l'Armée rouge
 questions:
  - En août, quelle grande figure de la révolution russe est assassinée au Mexique à l'instigation de Staline ?
+culture_g_score: 84
+culture_g_justification: "Trotski est une figure majeure de la Révolution russe, de l’Armée rouge, du marxisme et de la rivalité avec Staline."
 ---
-
-
 ![Image de Léon Trotski](https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%9B%D0%B5%D0%B2_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.jpg)
 
 ###### Questions

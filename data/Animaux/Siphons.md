@@ -15,8 +15,9 @@ indice_6 :
   - Inspirateur pour le camouflage militaire
 questions:
  - Quels organes en forme de cones permettent aux céphalopodes de se déplacer en projetant de l'eau ?
+culture_g_score: 23
+culture_g_justification: "Les siphons sont une notion anatomique zoologique spécialisée, rarement demandée hors de questions précises sur les mollusques et céphalopodes."
 ---
-
 ![Image de Siphons](https://upload.wikimedia.org/wikipedia/commons/e/e0/Clam_with_its_siphon_out_in_Boothbay_Maine.jpg)
 
 ###### Questions

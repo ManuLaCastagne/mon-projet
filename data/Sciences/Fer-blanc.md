@@ -20,8 +20,9 @@ indice_6 :
   - protection anticorrosion
 questions:
  - Comme appelle-t-on la tôle de Fer doux recouverte d'une couche d'étain ?
+culture_g_score: 40
+culture_g_justification: "Matériau courant dans l’emballage et l’industrie, mais rarement traité comme sujet autonome dans les quiz généralistes."
 ---
-
 ![Image de Fer-blanc](https://upload.wikimedia.org/wikipedia/commons/3/36/Weissblech_verpackungsstahl.jpg)
 
 ###### Questions

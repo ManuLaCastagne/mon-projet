@@ -23,8 +23,9 @@ indice_6 :
   - architecture victorienne
 questions:
  - Quel pavillon de verre consrtuit pour l'exposition universelle de Londres ?
+culture_g_score: 80
+culture_g_justification: "Bâtiment pionnier de l’architecture métallique et de verre, lié à l’Exposition universelle, à Paxton et à Londres."
 ---
-
 ![Image de Crystal Palace](https://upload.wikimedia.org/wikipedia/commons/e/e2/Crystal_Palace_South_transept_%26_south_tower_from_Water_Temple.jpg)
 
 ###### Questions

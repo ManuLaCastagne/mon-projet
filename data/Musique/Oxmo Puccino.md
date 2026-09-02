@@ -20,8 +20,9 @@ indice_5:
   - album L'arme de paix
 indice_6:
   - membre du collectif Time Bomb
+culture_g_score: 67
+culture_g_justification: "Rappeur français reconnu pour son écriture, ses albums, le collectif Time Bomb et ses liens avec la littérature et le cinéma."
 ---
-
 ![Image de Oxmo Puccino](https://upload.wikimedia.org/wikipedia/commons/2/25/Oxmo_Puccino_portrait.jpg)
 
 ###### Questions

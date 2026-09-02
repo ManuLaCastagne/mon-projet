@@ -23,9 +23,9 @@ indice_6 :
   - 1999
 questions:
  - Déclinée dans différentes versions  telle que celle exposée devant le Musée Guggenheim (Bilbao) à Bilbao. Je mesure 10 m de haut et suis un animal doté de 8 pattes portant sous l'abdomen  un sac rempli d'oeufs en marbre. Sculpture de L. Bourgeois nommée en hommage à sa mère.
+culture_g_score: 68
+culture_g_justification: "Sculpture contemporaine très reconnaissable, utile pour Louise Bourgeois, l’art public et le thème de l’araignée, mais à angles limités."
 ---
-
-
 ![Image de Maman (sculpture)](https://upload.wikimedia.org/wikipedia/commons/4/44/Maman_-_Louise_Bourgeois_-_03_%28Cropped%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - vie et mort
 questions:
  - Je raconte les étapes aboutissant à la transplantation d'un coeur. Roman de M. de Kerangal adapté au ciné...
+culture_g_score: 60
+culture_g_justification: "Roman contemporain récompensé et adapté au cinéma, mais dont les occasions d’interrogation restent modérées."
 ---
-
 ![Image de Réparer les vivants](https://upload.wikimedia.org/wikipedia/commons/6/67/R%C3%A9parer_les_vivants_au_cimeti%C3%A8re_%2830608901396%29.jpg)
 
 ###### Questions

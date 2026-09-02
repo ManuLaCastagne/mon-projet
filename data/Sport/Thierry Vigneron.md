@@ -20,8 +20,9 @@ indice_6 :
   - Années 1980
 questions:
  - En sport, quel ancien perchiste français, médaillé de bronze aux JO de 84, c'était avant tout ce que l'on évoque là, a battu à plusieurs reprises le record du monde de saut à la perche?
+culture_g_score: 44
+culture_g_justification: "Perchiste français important dans l’histoire de son épreuve, mais principalement connu des amateurs d’athlétisme."
 ---
-
 ![Image de Thierry Vigneron](https://upload.wikimedia.org/wikipedia/commons/9/9e/Thierry_Vigneron_Capitale_Perche_2012.png)
 
 ###### Questions

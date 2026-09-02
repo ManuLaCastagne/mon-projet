@@ -20,9 +20,9 @@ indice_6 :
   - exécuté en 1755
 questions:
  - Quel contrebandier français, condamné à mort en 1755 pour avoir volé les fonds des collecteur d'impôts pour les redistribuer aux pauvres, est devenu un héros populaire?
+culture_g_score: 60
+culture_g_justification: "Contrebandier légendaire de l’histoire française, Mandrin fournit quelques questions classiques mais peu d’usages transversaux."
 ---
-
-
 ![Image de Louis Mandrin](https://upload.wikimedia.org/wikipedia/commons/0/03/Louis_Mandrin_%281725-1755%29_07.jpg)
 
 ###### Questions

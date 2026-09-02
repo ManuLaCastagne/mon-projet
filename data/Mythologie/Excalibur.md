@@ -19,9 +19,9 @@ indice_6 :
   - légende arthurienne
 questions:
  - Jeté, selon certains dans un lac  par Badwyn à la demande d'un souverain mourant, puis saisi par la Dame du Lac...
+culture_g_score: 93
+culture_g_justification: "Épée emblématique de la légende arthurienne, très fréquente et immédiatement exploitable dans de nombreuses questions culturelles."
 ---
-
-
 ![Image de Excalibur](https://upload.wikimedia.org/wikipedia/commons/7/7f/Excalibur_replica.jpg)
 
 ###### Questions

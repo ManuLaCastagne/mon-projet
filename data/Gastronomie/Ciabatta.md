@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Italie
+culture_g_score: 44
+culture_g_justification: "Pain italien désormais courant mais encore peu présent comme réponse autonome dans les quiz généralistes."
 ---
 ###### Questions 
 

@@ -22,8 +22,9 @@ indice_6 :
   - Traité Torrijos-Carter
 questions:
  - En 1977, avec quel Etat J.Carter signe-t-il un traité prévoyant la restitution d'un canal reliant le Pacifique à l'Atlantique?
+culture_g_score: 88
+culture_g_justification: "Pays et canal constituent un repère majeur pour le commerce mondial, l’histoire américaine, la géopolitique et la géographie interocéanique."
 ---
-
 ![Image de Panama](https://upload.wikimedia.org/wikipedia/commons/e/e1/Panama_%28orthographic_projection%29.svg)
 
 ![[Carte_Panama.png]]

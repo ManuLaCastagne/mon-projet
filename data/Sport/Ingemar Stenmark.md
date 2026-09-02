@@ -18,9 +18,9 @@ indice_5:
   - Médailles olympiques
 indice_6:
   - Années 1970-1980
+culture_g_score: 60
+culture_g_justification: "Recordman historique du ski alpin, Stenmark est une référence utile des quiz sportifs sans être incontournable en culture générale."
 ---
-
-
 ![Image de Ingemar Stenmark](https://upload.wikimedia.org/wikipedia/commons/1/1d/Ingemar_Stenmark_%281979%29.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - planète Euphor
 questions:
  - A partir de 1978, quel célèbre robot géant de dessin animé piloté par Actarus…
+culture_g_score: 93
+culture_g_justification: "Icône majeure de la culture télévisuelle française, régulièrement interrogée sur l'animation japonaise, le robot et son phénomène générationnel."
 ---
-
-
 ![Image de Goldorak](https://upload.wikimedia.org/wikipedia/commons/5/54/Grendizer_U_Logo.png)
 
 ###### Questions

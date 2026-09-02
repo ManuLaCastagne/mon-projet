@@ -15,9 +15,9 @@ indice_6 :
   - Symbole d'harmonie et de paix
 questions:
  - Monogame dans les forêts tropicales dans les forêts d'Inde et d'Asie du Sud-Est, je me déplace en balançant mes longs bras d'une branche à l'autre...Dépourvu de queue, au pelage variant du noir au brun-roux, je fais partie de la superfamille des hominoïdes...
+culture_g_score: 52
+culture_g_justification: "Le gibbon offre des angles intéressants sur les primates, les vocalisations et la conservation, mais reste moins fréquent que les grands singes."
 ---
-
-
 ![Image de Gibbon](https://upload.wikimedia.org/wikipedia/commons/0/03/Hylobates_lar_-_Kaeng_Krachan_WB.jpg)
 
 ###### Questions

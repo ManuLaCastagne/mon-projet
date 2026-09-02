@@ -18,9 +18,9 @@ indice_6 :
   - Enfers
 questions:
  - Quel Troyen, fils d'Anchise et d'Aphrodite, est le héros d'un poème épique de Virgile ?
+culture_g_score: 80
+culture_g_justification: "Héros de l'Énéide et ancêtre légendaire des Romains, à la jonction de la guerre de Troie, de Virgile et de Rome."
 ---
-
-
 ![Image de Enée](https://upload.wikimedia.org/wikipedia/commons/b/b6/En%C3%A9e_%26_Anchise_Lepautre_Louvre_M.R.2028_noir.jpg)
 
 ###### Questions

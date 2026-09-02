@@ -22,8 +22,9 @@ indice_6 :
   - Actrice française
 questions:
  - Quelle actrice ayant été dirigée par son mari Jean Poiret dans le film "Le Zèbre", ayant reçu un Cinéma/César pour son rôle dans "L'Année des méduses" s'est éteinte fin 2020 à l'âge de 75 ans?
+culture_g_score: 47
+culture_g_justification: "Actrice française reconnue par les amateurs de cinéma et un César, mais dont les références restent trop spécifiques pour un apprentissage prioritaire."
 ---
-
 ![Image de Caroline Cellier](https://upload.wikimedia.org/wikipedia/commons/6/60/Caroline_Cellier.jpg)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - Entraîneur Andy Murray
 questions:
  - Joueur de tennis ayant fait évoluer le jeu de fond de court en étant plus offensif que mes prédécesseurs. En 84, je remporte la finale de Roland-Garros alors que j'étais mené 2 sets à zéro par John McEnroe. Tennisman d'origine tchèque...
+culture_g_score: 77
+culture_g_justification: "Lendl est une figure majeure du tennis, exploitable par ses records, ses titres du Grand Chelem et son rôle d’entraîneur."
 ---
-
-
-
 ![Image de Ivan Lendl](https://upload.wikimedia.org/wikipedia/commons/3/3b/Ivan_Lendl.jpg)
 
 ###### Questions

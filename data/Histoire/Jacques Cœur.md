@@ -22,8 +22,9 @@ indice_6 :
   - son emblème était un cœur avec trois coquillages
 questions:
  - Quel argentier du roi Charles VII de Bourges…
+culture_g_score: 60
+culture_g_justification: "Marchand et argentier de Charles VII, il fournit des repères sur la finance et la monarchie du XVe siècle sans être une référence incontournable."
 ---
-
 ![Image de Jacques Cœur](https://upload.wikimedia.org/wikipedia/commons/c/c2/Jacques_Coeur%2C_by_follower_of_Jean_Fouquet.jpg)
 
 ###### Questions

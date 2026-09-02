@@ -20,8 +20,9 @@ indice_6 :
   - imitation politique
 questions:
  - Quelle femme humoriste,  longtemps associée aux tenues rouges, a fait Sciences Po...
+culture_g_score: 60
+culture_g_justification: "Humoriste française populaire et reconnaissable, surtout interrogée sur ses émissions, ses spectacles et sa carrière médiatique."
 ---
-
 ![Image de Anne Roumanoff](https://upload.wikimedia.org/wikipedia/commons/0/0a/Anne_Roumanoff_Lamballe.jpg)
 
 ###### Questions

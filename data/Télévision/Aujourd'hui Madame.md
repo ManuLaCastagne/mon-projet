@@ -20,8 +20,9 @@ indice_6 :
   - Antenne 2
 questions:
  - Emission dont la musique du générique intitulée "Grand route" était composée par Jo Moutet, j'ai accueilli pour ma première diffusion en mai 70 l'actrice Françoise Rosay et la secrétaire d'Etat au tourisme. Présentée en alternance par Alain Jérôme et Nicole André...
+culture_g_score: 52
+culture_g_justification: "Émission historique liée aux femmes et aux évolutions sociales, intéressante mais rarement interrogée hors de quelques repères télévisuels."
 ---
-
 ![Image de Aujourd'hui Madame](https://upload.wikimedia.org/wikipedia/commons/6/6c/Hannet-Cl%C3%A9ry%2C_ancien_valet_de_chambre_de_Madame_Royale%2C_aujourd%27hui_Madame_la_Dauphine_n%C3%A9_en_1760._G.39891.jpg)
 
 ###### Questions

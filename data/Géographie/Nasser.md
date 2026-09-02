@@ -22,8 +22,9 @@ indice_6 :
   - désert du Sahara
 questions:
  - Quel immense lac artificiel, formé sur le Nil par le haut barrage d'Assouan, porte le nom d'un ancien chef d'Etat égyptien?
+culture_g_score: 60
+culture_g_justification: "Grand réservoir associé au barrage d'Assouan, à l'Égypte contemporaine et aux enjeux hydrauliques, avec des angles de quiz relativement circonscrits."
 ---
-
 ![Image de]
 ![[Carte_Nasser.png]]
 ###### Questions

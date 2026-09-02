@@ -22,8 +22,9 @@ indice_6 :
   - Podium
 questions:
  - Acteur et réalisateur né à Dunkerque en 1967, je débute dans une troupe de comédiens devant son nom au spectacle comique qui l'a révélé.  Ayant incarné le père d'Edith Piaf dans "La Môme" et Lucien Morisse dans le film "Dalida", j'ai également joué un sosie de Michel Polnareff...
+culture_g_score: 48
+culture_g_justification: "Acteur populaire identifié par quelques comédies françaises, mais relativement peu rentable au-delà de sa filmographie récente."
 ---
-
 ![Image de Jean-Paul Rouve](https://upload.wikimedia.org/wikipedia/commons/e/eb/Jean-Paul_Rouve_Cannes.jpg)
 
 ###### Questions

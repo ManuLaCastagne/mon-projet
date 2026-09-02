@@ -13,8 +13,9 @@ indice_5:
   - Cacahuète
 indice_6:
   - Consommée comme fruit sec et utilisée pour produire de l'huile
+culture_g_score: 64
+culture_g_justification: "La cacahuète est très familière et permet des questions de botanique, d'alimentation, d'agriculture et d'origine historique, sans être un marronnier majeur."
 ---
-
 ![Image de Arachide](https://upload.wikimedia.org/wikipedia/commons/4/46/Groundnuts_farm.jpg)
 
 ###### Questions

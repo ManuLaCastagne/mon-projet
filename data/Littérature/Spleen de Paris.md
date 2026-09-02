@@ -22,10 +22,9 @@ indice_6 :
   - mélancolie
 questions:
  - Quel recueil de Baudelaire, publié à titre posthume en 1869, réunit 50 petits poèmes rédigés à partir de 1857?
+culture_g_score: 64
+culture_g_justification: "Œuvre notable de Baudelaire et de la poésie en prose, mais moins incontournable que Les Fleurs du mal."
 ---
-
-
-
 ![Image de Spleen de Paris](https://upload.wikimedia.org/wikipedia/commons/0/09/Spleen_et_ideal-aquarell.jpg)
 
 ###### Questions

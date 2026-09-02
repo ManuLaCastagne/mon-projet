@@ -22,8 +22,9 @@ indice_6 :
   - années 1980
 questions:
  - En 1983, dans le film "Papy fait de la Résistance", quel acteur incarne le coiffeur se déguisant...
+culture_g_score: 55
+culture_g_justification: "Comédien français associé au Splendid et à quelques comédies populaires, sans portée culturelle très large."
 ---
-
 ![Image de Martin Lamotte](https://upload.wikimedia.org/wikipedia/commons/8/8d/Martin_Lamotte_-_Monte-Carlo_Television_Festival.jpg)
 
 ###### Questions

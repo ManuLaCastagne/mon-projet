@@ -18,8 +18,9 @@ indice_5 :
   - Christopher Nolan
 indice_6 : 
   - Mal Cobb
+culture_g_score: 84
+culture_g_justification: "Blockbuster contemporain très célèbre, souvent interrogé par Nolan, les rêves, Leonardo DiCaprio, Hans Zimmer et les Oscars."
 ---
-
 ![Image de Inception](https://upload.wikimedia.org/wikipedia/commons/2/2e/Inception-wordmark.svg)
 
 ###### Questions

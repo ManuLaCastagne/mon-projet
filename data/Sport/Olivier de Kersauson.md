@@ -20,8 +20,9 @@ indice_6 :
   - Mer
 questions:
  - En mai 1989, quel navigateur français, surnommé l'Amiral qui bat le record du monde en solitaire, à bord du trimaran "Un autre regard" ?
+culture_g_score: 60
+culture_g_justification: "Navigateur français médiatique et détenteur de records, pertinent pour la voile, les grandes courses et la culture radiophonique."
 ---
-
 ![Image de Olivier de Kersauson](https://upload.wikimedia.org/wikipedia/commons/5/5a/Olivier_de_Kersauson.jpg)
 
 ###### Questions

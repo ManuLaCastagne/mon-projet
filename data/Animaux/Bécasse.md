@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de patience et discrétion
 questions:
  - Me rend difficile à détecter.  Oiseau de la taille d'un pigeon...
+culture_g_score: 47
+culture_g_justification: "Oiseau de chasse et de littérature régionale, mais relativement peu présent dans les quiz généralistes."
 ---
-
 ![Image de Bécasse](https://upload.wikimedia.org/wikipedia/commons/f/f4/Scolopax_rusticola_rusticola_MHNT.ZOO.2010.11.116.8.jpg)
 
 ###### Questions

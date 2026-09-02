@@ -18,11 +18,9 @@ indice_6 :
   - Influence sur l'historiographie
 questions:
  - Ainsi que l'Egypte pour rédiger mes histoires. Qui constituent le plus ancien texte complet en prose. Considéré comme le père de l'Histoire, je suis…
+culture_g_score: 80
+culture_g_justification: "Considéré comme le père de l’histoire, Hérodote est fréquent dans les questions sur l’Antiquité grecque, les guerres médiques et les peuples anciens."
 ---
-
-
-
-
 ![Image de Hérodote](https://upload.wikimedia.org/wikipedia/commons/d/da/AGMA_H%C3%A9rodote.jpg)
 
 ###### Questions

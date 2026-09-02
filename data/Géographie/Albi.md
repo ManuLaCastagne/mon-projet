@@ -22,8 +22,9 @@ indice_5 :
   - Cité épiscopale
 indice_6 : 
   - Place du Vigan
+culture_g_score: 64
+culture_g_justification: "Ville patrimoniale française associée à l'UNESCO, à Toulouse-Lautrec et à la cathédrale Sainte-Cécile."
 ---
-
 ![[Carte_Albi.png]]
 
 ###### Questions

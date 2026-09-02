@@ -18,8 +18,9 @@ indice_6 :
   - ennemi des Asuras
 questions:
  - Quel est ce dieu indien, le plus grand de l'Inde védique ?
+culture_g_score: 56
+culture_g_justification: "Indra est une divinité majeure des Védas, mais sa fréquence reste limitée dans les quiz généralistes francophones hors questions sur l’hindouisme ancien."
 ---
-
 ![Image de Indra](https://upload.wikimedia.org/wikipedia/commons/f/f2/Open_wing_position_of_Ctenoptilum_vasava_Moore%2C_1865_%E2%80%93_Tawny_Angle.jpg)
 
 ###### Questions

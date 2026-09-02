@@ -24,8 +24,9 @@ indice_6 :
   - biodiversité
 questions:
  - Quel état du Brésil Occidental doit son nom portugais signifiant "grande forêt" ?
+culture_g_score: 52
+culture_g_justification: "État brésilien important pour le Pantanal, l'agriculture et la géographie du Brésil, mais peu fréquent en tant que réponse précise."
 ---
-
 ![Image de Mato Grosso](https://upload.wikimedia.org/wikipedia/commons/c/c0/Jabiru_Mato_Grosso_Pantanal_Brazil-3.jpg)
 
 ![[Carte_Mato Grosso.png]]

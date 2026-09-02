@@ -20,8 +20,9 @@ indice_5:
   - auteur de La Liberté ou l'amour !
 indice_6:
   - camp de Terezín
+culture_g_score: 72
+culture_g_justification: "Poète surréaliste et résistant associé à La Fourmi, à la déportation et à la poésie de la Résistance."
 ---
-
 ![Image de Robert Desnos](https://upload.wikimedia.org/wikipedia/commons/0/05/Robert_Desnos.jpg)
 
 ###### Questions

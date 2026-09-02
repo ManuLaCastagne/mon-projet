@@ -18,8 +18,9 @@ indice_5:
   - écrivain prolifique
 indice_6:
   - pionnière du journalisme moderne
+culture_g_score: 60
+culture_g_justification: "Journaliste et femme politique notable, utile pour l’histoire des médias et de la condition féminine mais peu incontournable."
 ---
-
 ![Image de Françoise Giroud](https://upload.wikimedia.org/wikipedia/commons/4/4b/FrancoiseGiroud-Milan-1974.png)
 
 ###### Questions

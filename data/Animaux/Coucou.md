@@ -15,8 +15,9 @@ indice_6 :
   - Messager du printemps
 questions:
  - Quel oiseau de l'ordre des cuculiformes est renommé pour déposer ses oeufs dans les nids...
+culture_g_score: 80
+culture_g_justification: "Oiseau célèbre pour son chant printanier, le parasitisme de couvée et ses références musicales et littéraires."
 ---
-
 ![Image de Coucou](https://upload.wikimedia.org/wikipedia/commons/9/97/Coucou_Bebe_portrait_1.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Roi Chevalier
 questions:
  - Quel roi des Belges, né en avril 1875, a été surnommé le Roi Chevalier pour s'être illustré lors de la 1re Guerre mondiale?
+culture_g_score: 52
+culture_g_justification: "Le « roi soldat » belge est utile pour la Première Guerre mondiale et l’histoire de la Belgique, mais reste une référence secondaire."
 ---
-
 ![Image de Albert Ier](https://upload.wikimedia.org/wikipedia/commons/c/ca/38_cours_Albert-Ier%2C_Paris_8e.jpg)
 
 ###### Questions

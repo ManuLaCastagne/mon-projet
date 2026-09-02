@@ -18,10 +18,9 @@ indice_6 :
   - métamorphose
 questions:
  - Dans la [[mythologie grecque]], quelle jeune fille, s'étant vantée de tisser mieux qu'Athéna, fut transformée en araignée ?
+culture_g_score: 60
+culture_g_justification: "Mythe clair et mémorable de rivalité avec Athéna, mais généralement limité à l’épisode de la métamorphose."
 ---
-
-
-
 ![Image de Arachnée](https://upload.wikimedia.org/wikipedia/commons/9/99/Tableaux_anciens_et_modernes_des_diff%C3%A9rents_%C3%A9coles_%28IA_frick-31072002173500%29.pdf)
 
 ###### Questions

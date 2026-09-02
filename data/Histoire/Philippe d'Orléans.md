@@ -20,8 +20,9 @@ indice_6 :
   - frondeur de la Fronde
 questions:
  - Quel neveu de Louis XIV a d'abord porté le titre de duc de Chartres avant d'être régent de France de 1715 à 1723?
+culture_g_score: 72
+culture_g_justification: "Le Régent est une figure importante de la transition entre Louis XIV et Louis XV, avec des liens à la Régence, aux Whigs et aux intrigues de cour."
 ---
-
 ![Image de Philippe d'Orléans](https://upload.wikimedia.org/wikipedia/commons/0/09/75_-_Mus%C3%A9e_du_Louvre_-_Ferdinand-Philippe_d%27Orl%C3%A9ans_par_Ingres_-_RF_2005-13.jpg)
 
 ###### Questions

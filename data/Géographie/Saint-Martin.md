@@ -24,8 +24,9 @@ indice_6 :
   - mer des Caraïbes
 questions:
  - Quelle île des Petites Antilles, ayant pour chef-lieu Marigot et Philipsburg, est partagée entre la France et les Pays-Bas?
+culture_g_score: 80
+culture_g_justification: "L’île de Saint-Martin est un cas géopolitique et géographique classique, connu pour son partage franco-néerlandais et son tourisme spectaculaire."
 ---
-
 ![Image de Saint-Martin](https://upload.wikimedia.org/wikipedia/commons/c/cf/%C3%89glise_Saint-Martin_de_Saint-Martin-de-Valamas_02.jpg)
 
 ![[Carte_Saint-Martin.png]]

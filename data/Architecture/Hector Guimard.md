@@ -23,8 +23,9 @@ indice_6 :
   - Hôtel Guimard
 questions:
  - En 1898, quel architecte intègre l'art nouveau à Paris avec le Castel Béranger ?
+culture_g_score: 80
+culture_g_justification: "Hector Guimard est fortement associé aux entrées du métro parisien et à l’Art nouveau, offrant plusieurs angles artistiques, urbains et architecturaux."
 ---
-
 ![Image de Hector Guimard](https://upload.wikimedia.org/wikipedia/commons/9/9f/Hector_Guimard_%28cropped%29.jpg)
 
 ###### Questions

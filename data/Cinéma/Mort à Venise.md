@@ -22,8 +22,9 @@ indice_6 :
   - Musique de Mahler
 questions:
  - En 1971, dans quel film de Luchino Visconti, un compositeur vieillissant...
+culture_g_score: 72
+culture_g_justification: "Grand film de Visconti, riche en liens avec Thomas Mann, Mahler, Venise, l’esthétique décadente et l’histoire du cinéma."
 ---
-
 ![Image de Mort à Venise](https://upload.wikimedia.org/wikipedia/commons/1/17/Mort_%C3%A0_Venise_photo_plateau.jpg)
 
 ###### Questions

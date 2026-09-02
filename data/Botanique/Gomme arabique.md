@@ -15,8 +15,9 @@ indice_6 :
   - Épaississant alimentaire
 questions:
  - Quelle substance provenant de l'exsudation d'arbres du genre acacia entre notamment dans la fabrication des pastels secs?
+culture_g_score: 72
+culture_g_justification: "Produit naturel important dans l'alimentation, les encres, les arts et l'économie sahélienne, donc assez rentable à apprendre."
 ---
-
 ![Image de Gomme arabique](https://upload.wikimedia.org/wikipedia/commons/e/e8/Gomme_arabique_2.jpg)
 
 ###### Questions

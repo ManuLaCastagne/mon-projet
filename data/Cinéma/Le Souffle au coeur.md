@@ -22,9 +22,9 @@ indice_6 :
   - Dijon
 questions:
  - En 1971, dans quel film de Louis Malle, avec Lea Massari, un jeune garçon a-t-il un problème cardiaque?
+culture_g_score: 60
+culture_g_justification: "Film important de Louis Malle, intéressant pour la censure, la société française et son thème controversé, mais peu fréquent en quiz généraliste."
 ---
-
-
 ![Image de Le Souffle au coeur](https://upload.wikimedia.org/wikipedia/commons/c/c8/Le_dernier_souffle%2C_au_coeur_de_l%27H%C3%B4tel-Dieu_de_Montr%C3%A9al_Affiche_Fr.jpg)
 
 ###### Questions

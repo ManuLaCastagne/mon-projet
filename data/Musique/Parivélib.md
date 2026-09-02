@@ -22,8 +22,9 @@ indice_6 :
   - abonnements
 questions:
  - En 2010, dans quelle chanson Philippe Katerine dit-il apprécier se promener la nuit, dans Paris, à vélo?
+culture_g_score: 3
+culture_g_justification: "Le sujet ne correspond pas à une référence musicale générale solidement établie et ne présente pratiquement aucun rendement quiz."
 ---
-
 ![Image de Parivélib]()
 
 ###### Questions

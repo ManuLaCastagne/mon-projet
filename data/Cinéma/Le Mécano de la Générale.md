@@ -22,8 +22,9 @@ indice_6 :
   - comédie burlesque
 questions:
  - Dans quel film, sorti en France en 1927, Buster Keaton a-t-il pris des risques importants pour assurer ses propres cascades?
+culture_g_score: 80
+culture_g_justification: "Chef-d’œuvre du cinéma muet, très rentable pour les questions sur Buster Keaton, le burlesque, le rail et la guerre de Sécession."
 ---
-
 ![Image de Le Mécano de la Générale](https://upload.wikimedia.org/wikipedia/commons/0/08/Cin%C3%A9-concert_-_Accompagnement_par_le_Quatuor_Prima_Vista_du_film_silencieux_%22Le_M%C3%A9cano_de_la_G%C3%A9n%C3%A9rale%22_%28The_General_%281926%29%29.jpg)
 
 ###### Questions

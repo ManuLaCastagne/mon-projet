@@ -23,8 +23,9 @@ indice_6 :
   - Himalaya
 questions:
  - Chef-d'oeuvre de l'architecture tibétaine classé au patrimoine mondial de l'Unesco,  situé dans la vallée de Lhassa, je suis…
+culture_g_score: 84
+culture_g_justification: "Monument majeur du Tibet, utile pour des questions sur le bouddhisme, les dalaï-lamas, la Chine, Lhassa et l'UNESCO."
 ---
-
 ![Image de Potala](https://upload.wikimedia.org/wikipedia/commons/1/19/Chinese_stone_lion_at_the_entrance_to_the_Potala_Pallace.jpg)
 
 ###### Questions

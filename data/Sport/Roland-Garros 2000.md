@@ -20,8 +20,9 @@ indice_6 :
   - Paris
 questions:
  - ayant vu Gustavo Kuerten s'imposer pour la 2e fois en simple, chez les dames, c'est Mary Pierce qui bat Conchita Martinez en finale. Ultime édition du 20e siècle du tournoi du Grand Chelem français, je suis…
+culture_g_score: 39
+culture_g_justification: "Édition précise de Roland-Garros pouvant fournir quelques questions sur ses vainqueurs, mais connaissance historique peu réutilisable."
 ---
-
 ![Image de Roland-Garros 2000](https://upload.wikimedia.org/wikipedia/commons/a/ad/Roland_Garros%2C_French_Open%2C_Paris_02.jpg)
 
 ###### Questions

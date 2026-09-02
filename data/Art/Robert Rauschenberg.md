@@ -22,8 +22,9 @@ indice_6:
   - Prix de l'artiste vivant le plus important en 1993
 questions:
   - En 1952, quel artiste américain, célèbre pour ses "combine paintings", participe au 1er happening historique au Black Mountain College ?
+culture_g_score: 67
+culture_g_justification: "Rauschenberg est une figure majeure de l’art contemporain américain, utile pour le Pop art, les Combine paintings et les avant-gardes."
 ---
-
 ![Image de Robert Rauschenberg](https://upload.wikimedia.org/wikipedia/commons/2/20/Robert_Rauschenberg_1999.jpg)
 
 ###### Questions

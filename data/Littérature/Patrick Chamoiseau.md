@@ -22,8 +22,9 @@ indice_6 :
   - Écriture antillaise
 questions:
  - En 2021, quel écrivain, prix Goncourt en 1992 pour son roman "Texaco",  explore la tradition des conteurs antillais dans son essai... ?
+culture_g_score: 67
+culture_g_justification: "Écrivain majeur de la littérature antillaise, utile pour le Goncourt, la créolité, la mémoire et l’histoire coloniale."
 ---
-
 ![Image de Patrick Chamoiseau](https://upload.wikimedia.org/wikipedia/commons/1/19/Patrick_Chamoiseau%282%29.jpg)
 
 ###### Questions

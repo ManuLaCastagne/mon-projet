@@ -20,8 +20,9 @@ indice_6 :
   - David et Goliath
 questions:
  - Par quel terme, issu du grec  signifiant livre, désigne-t-on l'ouvrage sacré du christianisme ?
+culture_g_score: 100
+culture_g_justification: "Texte fondateur de plusieurs traditions et source d’innombrables questions historiques, religieuses, littéraires et culturelles."
 ---
-
 ![Image de Bible](https://upload.wikimedia.org/wikipedia/commons/5/56/Gustave_Dor%C3%A9_-_The_Holy_Bible_-_Plate_I%2C_The_Deluge.jpg)
 
 ###### Questions

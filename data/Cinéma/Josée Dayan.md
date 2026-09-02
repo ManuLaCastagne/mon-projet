@@ -22,9 +22,9 @@ indice_6:
   - grandes productions télévisées
 questions:
   - Fut l'un des pionniers de la télévision locale. Ayant joué dans trois films dont "Akoibon" d'Edouard Baer, j'ai mis en scène Jeanne Moreau dans le rôle de Duras dans "Cet amour-là". Connue comme réalisatrice pour la télé, on me doit les séries   "Le Comte de Monte-Cristo", "Les Misérables" et "Capitaine Marleau".
+culture_g_score: 60
+culture_g_justification: "Josée Dayan est connue pour des adaptations télévisées et Capitaine Marleau, avec une fréquence correcte dans les quiz francophones mais une portée limitée."
 ---
-
-
 ![Image de Josée Dayan](https://upload.wikimedia.org/wikipedia/commons/e/ef/Nicole_Garcia%2C_Jeanne_Moreau%2C_Cyrille_Thouvenin_et_Jos%C3%A9e_Dayan_sur_le_tournage_des_%22Parents_Terribles%22_%282003%29.jpg)
 
 ###### Questions

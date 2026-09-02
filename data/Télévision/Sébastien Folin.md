@@ -20,8 +20,9 @@ indice_6 :
   - vous avez dit culte ?
 questions:
  - Quel animateur d'émissions télévisées a notamment présenté la météo, le jeu "Harry" et plus...
+culture_g_score: 32
+culture_g_justification: "Animateur et ancien présentateur météo identifiable par le public français, mais rarement une réponse prioritaire de quiz."
 ---
-
 ![Image de Sébastien Folin](https://upload.wikimedia.org/wikipedia/commons/d/d7/S%C3%A9bastien_Folin_Cannes_2017.jpg)
 
 ###### Questions

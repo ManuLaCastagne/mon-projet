@@ -15,8 +15,9 @@ indice_6 :
   - Tueur de serpents dans le folklore
 questions:
  - Quel petit mammifère carnivore d'Afrique et d'Asie méridionale affronte les serpents en hérissant son poil et en sautillant comme un boxeur ?
+culture_g_score: 60
+culture_g_justification: "Animal associé aux cobras, à Kipling et à certaines introductions biologiques, offrant plusieurs angles classiques mais non omniprésents."
 ---
-
 ![Image de Mangouste](https://upload.wikimedia.org/wikipedia/commons/8/81/Mongoose_pile.jpg)
 
 ###### Questions

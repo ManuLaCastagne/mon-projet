@@ -15,8 +15,9 @@ indice_6:
   - Bois utilisé en menuiserie et construction
 questions:
   - Près de Reims, à quelle variété d'arbres, au tronc et aux branches tortueux, associe-t-on les faux de Verzy célèbres pour leur grande longévité ?
+culture_g_score: 64
+culture_g_justification: "Arbre européen classique, associé au fayard, aux forêts et aux faux de Verzy, mais d’une portée limitée."
 ---
-
 ![Image de Hêtres](https://upload.wikimedia.org/wikipedia/commons/b/b1/Vrucht_van_een_beuk_%28Fagus_sylvatica%29_21-07-2023_%28d.j.b.%29.jpg)
 
 ###### Questions

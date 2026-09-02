@@ -22,9 +22,9 @@ indice_6 :
   - bande dessinée française
 questions:
  - Personnage de la série des "Astérix". Soeur d'Homéopatix, appelée Boapinta en portugais, Impedimenta en Angleterre.
+culture_g_score: 43
+culture_g_justification: "Personnage secondaire d’Astérix, reconnaissable par les lecteurs de la série mais offrant très peu d’angles indépendants."
 ---
-
-
 ![Image de Bonemine](https://upload.wikimedia.org/wikipedia/commons/9/9d/Agricultural_impedimenta_at_Drumreagh_-_geograph.org.uk_-_751924.jpg)
 
 ###### Questions

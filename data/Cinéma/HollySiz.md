@@ -22,8 +22,9 @@ indice_6 :
   - cinéma
 questions:
  - Sous quel nom l'actrice Cécile Cassel a-t-elle sorti l'album "My name is" en 2013 ?
+culture_g_score: 27
+culture_g_justification: "Artiste française de notoriété limitée dont les références cinématographiques et musicales restent peu sollicitées."
 ---
-
 ![Image de HollySiz](https://upload.wikimedia.org/wikipedia/commons/0/07/C%C3%A9cile_Cassel_2013_3.png)
 
 ###### Questions

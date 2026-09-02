@@ -24,8 +24,9 @@ indice_6 :
 questions:
  - Associés à des symboles de la société de consommation. Je signe SAMO mes graffitis...
  - Quel peintre aux origines haïtiennes est célèbre...
+culture_g_score: 72
+culture_g_justification: "Figure majeure de l’art contemporain, Basquiat revient dans les questions sur le street art, Warhol, le marché de l’art et les artistes afro-américains."
 ---
-
 ![Image de Jean-Michel Basquiat](https://upload.wikimedia.org/wikipedia/commons/d/db/Basquiat1984.tif)
 
 ###### Questions

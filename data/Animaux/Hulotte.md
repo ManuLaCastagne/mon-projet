@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de sagesse
 questions:
  - Quelle revue des amoureux de la nature créée par Pierre Déon a pour titre le nom d'un rapace également appelé "chat-huant" ?
+culture_g_score: 60
+culture_g_justification: "Chouette commune et culturellement identifiable, avec des angles sur les oiseaux nocturnes, les cris et la littérature naturaliste."
 ---
-
 ![Image de Hulotte](https://upload.wikimedia.org/wikipedia/commons/8/8e/Noctua_comes.01.jpg)
 
 ###### Questions

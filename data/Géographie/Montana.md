@@ -22,8 +22,9 @@ indice_6 :
   - frontières canadiennes
 questions:
  - Je suis dominé à l'ouest par les imposants sommets des montagnes Rocheuses. Situé entre le Canada et le Wyoming, je tire mon nom d'un mot espagnol signifiant montagneux…
+culture_g_score: 60
+culture_g_justification: "État américain connu pour ses grands espaces et le parc de Glacier, mais secondaire dans l’ensemble des quiz."
 ---
-
 ![Image de Montana](https://upload.wikimedia.org/wikipedia/commons/1/1e/Montana_Presidential_Election_Results_2020.svg)
 
 ![[Carte_Montana.png]]

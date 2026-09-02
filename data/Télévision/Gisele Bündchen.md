@@ -18,8 +18,9 @@ indice_5:
   - The Tonight Show
 indice_6:
   - Green Team
+culture_g_score: 68
+culture_g_justification: "Top-model mondialement célèbre, surtout rentable pour des questions sur la mode, Victoria's Secret et sa relation avec Tom Brady."
 ---
-
 ![Image de Gisele Bundchen](https://upload.wikimedia.org/wikipedia/commons/4/45/Gisele_Bundchen2.jpg)
 
 ###### Questions

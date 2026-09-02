@@ -20,8 +20,9 @@ indice_6 :
   - SJPF Meilleur entraîneur
 questions:
  - Milieu de terrain ayant été l'un des membres du carré magique des Bleus dans les années 80. Il formait le carré magique, avec Platini, Jean Tigana et Fernandez.
+culture_g_score: 77
+culture_g_justification: "Figure classique du football français, liée aux Girondins, au carré magique et à plusieurs compétitions internationales."
 ---
-
 ![Image de Alain Giresse](https://upload.wikimedia.org/wikipedia/commons/7/76/Morocco_vs_Gabon%2C_Alain_Giresse%2C_March_28_2009.jpg)
 
 ###### Questions

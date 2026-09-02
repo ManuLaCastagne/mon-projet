@@ -23,8 +23,9 @@ indice_6 :
   - culpabilité
 questions:
  - L'oeuvre de Fiodor Dostoïevski où Raskolnikov assassine une vieille usurière pour lui voler son argent?
+culture_g_score: 100
+culture_g_justification: "Chef-d’œuvre universel de Dostoïevski, extrêmement rentable pour la littérature russe, la psychologie, la philosophie, le crime et la notion de culpabilité."
 ---
-
 ![Image de Crime et châtiment](https://upload.wikimedia.org/wikipedia/commons/f/f0/Crime_et_ch%C3%A2timent%2C_texte_d%27apr%C3%A8s_F%C3%A9dor_Micha%C3%AFlovitch_Dosto%C3%AFevski_-_photographies_-_Roger_Pic_-_btv1b10601840b_%2802_of_17%29.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_5 :
   - côte atlantique
 indice_6 : 
   - capitale insulaire
+culture_g_score: 48
+culture_g_justification: "Capitale du Cap-Vert utile dans les questions de géographie africaine et lusophone, mais peu récurrente."
 ---
-
-
 ![Image de Praia](https://upload.wikimedia.org/wikipedia/commons/e/e5/Praia_coast_Cape_Verde.jpg)
 
 ![[Carte_Praia.png]]

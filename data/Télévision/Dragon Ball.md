@@ -20,8 +20,9 @@ indice_6 :
   - arts martiaux
 questions:
  - A quelle série animée créée par Akira Toriyama associe-t-on le personnage de Son Gokû?
+culture_g_score: 96
+culture_g_justification: "Franchise mondiale incontournable, ouvrant de très nombreux angles sur le manga, l’animation, les personnages et la culture populaire."
 ---
-
 ![Image de Dragon Ball](https://upload.wikimedia.org/wikipedia/commons/7/7d/Dragon_Ball_manga_1st_Japanese_edition_logo.svg)
 
 ###### Questions

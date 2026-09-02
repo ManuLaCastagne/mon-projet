@@ -21,8 +21,9 @@ indice_5:
   - Jean-Pierre Melville
 indice_6:
   - César d'honneur
+culture_g_score: 84
+culture_g_justification: "Grande figure du cinéma français et international, régulièrement mobilisée à travers ses films emblématiques, ses partenaires et les récompenses."
 ---
-
 ![Image de Alain Delon](https://upload.wikimedia.org/wikipedia/commons/c/c8/Alain_Delon_1961.jpg)
 
 ###### Questions

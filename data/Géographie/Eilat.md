@@ -24,9 +24,9 @@ indice_6 :
   - frontière avec la Jordanie
 questions:
  - Quelle station balnéaire d'Israël peuplée d'environ 50 000 habitants, dispose d'un débouché sur la mer Rouge par le golfe d'Agaba ?
+culture_g_score: 60
+culture_g_justification: "Station israélienne de la mer Rouge, utile pour la géographie du Proche-Orient, le tourisme et les récifs, mais peu transversale."
 ---
-
-
 ![Image de Eilat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Eilat_Dolphin_Reef_%283%29.jpg)
 
 ![[Carte_Eilat.png]]

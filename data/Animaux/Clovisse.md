@@ -15,8 +15,9 @@ indice_6 :
   - Ressource culinaire en Bretagne
 questions:
  - Pouvant être grise ou rose, ornée de stries concentriques...
+culture_g_score: 23
+culture_g_justification: "Mollusque comestible assez spécialisé, essentiellement rencontré dans des questions régionales, culinaires ou zoologiques."
 ---
-
 ![Image de Clovisse](https://upload.wikimedia.org/wikipedia/commons/c/ce/Clovis_I.jpg)
 
 ###### Questions

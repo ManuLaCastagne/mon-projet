@@ -20,8 +20,9 @@ indice_5:
   - Gong Li
 indice_6:
   - Palme d'Or (1993)
+culture_g_score: 80
+culture_g_justification: "Palme d'or chinoise majeure, permettant des questions sur Chen Kaige, l'opéra de Pékin, la Chine et Cannes."
 ---
-
 ![Image de Adieu ma concubine](https://upload.wikimedia.org/wikipedia/commons/a/ad/Beijing_Opera_Farewell_My_Concubine_Star_%288005251605%29.jpg)
 
 ###### Questions

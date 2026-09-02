@@ -20,8 +20,9 @@ indice_5 :
   - présence de Johnny Weissmuller
 indice_6 : 
   - première apparition des territoires britanniques en Afrique
+culture_g_score: 80
+culture_g_justification: "Les Jeux de Paris 1924 relient histoire olympique, sport français, culture des années 1920 et records de champions célèbres."
 ---
-
 ![Image de Paris 1924](https://upload.wikimedia.org/wikipedia/commons/1/10/Affiche_des_jeux_olympiques_de_Paris_de_1924.jpg)
 
 ###### Questions

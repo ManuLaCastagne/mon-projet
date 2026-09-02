@@ -19,9 +19,9 @@ indice_5:
 indice_6:
   - visage familier du JT du week-end
 debut: 1977
+culture_g_score: 44
+culture_g_justification: "Présentatrice connue du JT de TF1, mais correspondant surtout à une question biographique ou télévisuelle précise."
 ---
-
-
 ![Image de Anne-Claire Coudray](https://upload.wikimedia.org/wikipedia/commons/4/49/Lettres_de_madame_Swetchine_1%2C_1873.djvu)
 
 ###### Questions

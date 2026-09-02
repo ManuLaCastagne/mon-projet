@@ -23,8 +23,9 @@ indice_6 :
   - linteau
 questions:
  - De 2 piédroits soutenant un linteau, pourvu d'une plaque en fonte appelée contrecoeur, je suis un...
+culture_g_score: 52
+culture_g_justification: "Objet quotidien et motif artistique identifiable, mais son importance culturelle et sa fréquence comme réponse restent limitées."
 ---
-
 ![Image de Cheminée](https://upload.wikimedia.org/wikipedia/commons/5/53/Jean_Eric_Rehn_-_Chemin%C3%A9e_-_NMH_853-1995_-_Nationalmuseum.jpg)
 
 ###### Questions

@@ -22,6 +22,8 @@ indice_6 :
   - style innovant
 questions:
  - En 1932, quel roman de Céline n'obtient que trois voix…
+culture_g_score: 80
+culture_g_justification: "Roman majeur de Céline, fréquemment associé à son style, à Bardamu, à la guerre et à la littérature française du XXe siècle."
 ---
 ![Image de Voyage au bout de la nuit](https://upload.wikimedia.org/wikipedia/commons/5/59/Journey_to_the_End_of_the_Night_1932.jpg)
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Harmonies vocales
 questions:
  - Avec quel groupe californien, formé autour des frères Wilson, la bassiste Carol Kaye a-t-elle collaboré, notamment sur l'album "Pet Sounds"?
+culture_g_score: 80
+culture_g_justification: "Groupe majeur de la pop-rock américaine, exploitable par ses harmonies, ses albums novateurs, le surf rock et Brian Wilson."
 ---
-
 ![Image de Beach Boys](https://upload.wikimedia.org/wikipedia/commons/f/fc/The-Beach-Boys-Billboard-1971.jpg)
 ###### Questions
 

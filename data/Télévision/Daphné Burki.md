@@ -20,8 +20,9 @@ indice_6 :
   - journaliste
 questions:
  - De 2017 à 2020, sur France 2, quelle animatrice a présenté l'émission de télévision quotidienne portant sur l'amour intitulée…
+culture_g_score: 44
+culture_g_justification: "Présentatrice française identifiable, mais sa carrière offre relativement peu de points d’entrée dans les quiz généralistes."
 ---
-
 ![Image de Daphné Burki](https://upload.wikimedia.org/wikipedia/commons/4/4b/Daphn%C3%A9_Burki_Deauville_2012.jpg)
 
 ###### Questions

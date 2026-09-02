@@ -22,9 +22,9 @@ indice_6 :
   - transformation
 questions:
  - En 1982, dans quel film de Blake Edwards Julie Andrews se fait-elle passer pour un comte polonais  pour trouver le succès  au music-hall ?
+culture_g_score: 60
+culture_g_justification: "Comédie musicale reconnue de Blake Edwards, intéressante par Julie Andrews, les thèmes du genre et les Oscars, sans être incontournable."
 ---
-
-
 ![Image de Victor Victoria](https://upload.wikimedia.org/wikipedia/commons/d/d0/Victor-Victoria_%283640665919%29.jpg)
 
 ###### Questions

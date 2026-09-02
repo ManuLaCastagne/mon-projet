@@ -20,9 +20,9 @@ indice_5 :
   - Robert Downey Jr.
 indice_6 : 
   - super-héros Marvel
+culture_g_score: 93
+culture_g_justification: "Film fondateur de l’univers Marvel au cinéma, très fréquemment associé à Tony Stark, Robert Downey Jr. et la culture super-héroïque."
 ---
-
-
 ![Image de Iron Man](https://upload.wikimedia.org/wikipedia/commons/0/0b/Iron_Man_transparent_background.png)
 
 ###### Questions

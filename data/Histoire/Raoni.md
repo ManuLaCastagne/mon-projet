@@ -20,8 +20,9 @@ indice_6 :
   - coiffe traditionnelle en plume
 questions:
  - Quel grand chef des Indiens Kayapos, engagé...
+culture_g_score: 51
+culture_g_justification: "Chef autochtone associé à l’Amazonie et à l’écologie, intéressant mais relativement peu fréquent comme réponse de quiz."
 ---
-
 ![Image de Raoni](https://upload.wikimedia.org/wikipedia/commons/9/92/Cacique_Raoni_%282013%29.jpg)
 
 ###### Questions

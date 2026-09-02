@@ -15,8 +15,9 @@ indice_6 :
   - Consommé comme légume racine
 questions:
  - Récoltée en automne, je pousse dans un sol léger et ameublis et suis cultivée pour ma racine allongée, blanche, fondante...
+culture_g_score: 32
+culture_g_justification: "Légume ancien reconnaissable mais rarement interrogé en dehors de quelques questions botaniques ou culinaires."
 ---
-
 ![Image de Salsifis](https://upload.wikimedia.org/wikipedia/commons/8/8e/Salsifis_Vilmorin-Andrieux_1883.png)
 
 ###### Questions

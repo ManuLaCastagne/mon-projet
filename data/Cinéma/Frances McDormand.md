@@ -22,8 +22,9 @@ indice_6 :
   - Frances Louise McDormand
 questions:
  - Actrice fétiche  des frères Cohen à l'affiche de "Three billboards" en 2017…
+culture_g_score: 77
+culture_g_justification: "Actrice américaine majeure, connue pour plusieurs Oscars et films importants, avec de nombreux repères facilement réutilisables."
 ---
-
 ![Image de Frances McDormand](https://upload.wikimedia.org/wikipedia/commons/e/ed/Frances_McDormand_2015_%28cropped%29.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3YgkhUApzoeBzu5dEl24Bt" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

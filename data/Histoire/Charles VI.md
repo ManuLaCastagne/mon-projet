@@ -18,9 +18,9 @@ indice_5 :
   - Traité de Troyes
 indice_6 : 
   - bataille d'Azincourt
+culture_g_score: 80
+culture_g_justification: "Roi de France central dans la guerre de Cent Ans, le traité de Troyes et le conflit Armagnacs-Bourguignons."
 ---
-
-
 ![Image de Charles VI](https://upload.wikimedia.org/wikipedia/commons/7/7b/Charles_VI_le_Fou.jpg)
 
 ###### Questions

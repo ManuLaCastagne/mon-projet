@@ -18,8 +18,9 @@ indice_5 :
   - Farce à base de porc
 indice_6 : 
   - Street food
+culture_g_score: 32
+culture_g_justification: "Spécialité vietnamienne identifiable, mais encore relativement peu présente dans les quiz généralistes francophones."
 ---
-
 ![Image de Banh bao]()
 
 ###### Questions

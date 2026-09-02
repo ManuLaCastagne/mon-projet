@@ -22,8 +22,9 @@ indice_6 :
   - aventure et mystère
 questions:
  - Dans quelle BD créée par Fernand Dineur en 1938 retrouve-t-on deux partenaires ?
+culture_g_score: 44
+culture_g_justification: "Duo ancien de la bande dessinée belge, surtout utile pour des questions de création, d'auteurs et d'albums, avec une portée générale modeste."
 ---
-
 ![Image de Tif et Tondu](https://upload.wikimedia.org/wikipedia/commons/1/1f/Charleroi_-_station_Janson_-_Tif_et_Tondu_-_01.jpg)
 
 ###### Questions

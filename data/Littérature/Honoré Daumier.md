@@ -23,8 +23,9 @@ indice_6 :
   - journal Le Charivari
 questions:
  - Quand on lui a proposé cette distinction, quel célèbre caricaturiste du Culture_G/XIXe siècle a déclaré  "Je prie le gouvernement de me laisser tranquille!"?
+culture_g_score: 56
+culture_g_justification: "Caricaturiste et peintre majeur du XIXe siècle, utile pour la satire politique et la presse, mais peu pertinent comme sujet littéraire strict."
 ---
-
 ![Image de Honoré Daumier](https://upload.wikimedia.org/wikipedia/commons/a/a8/Bemberg_Fondation_Toulouse_-_Les_collectionneurs_d%27estampes_-_Honor%C3%A9_Daumier_Inv.2197.jpg)
 
 ###### Questions

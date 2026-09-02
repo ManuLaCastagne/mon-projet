@@ -22,8 +22,9 @@ indice_6 :
   - Paris
 questions:
  - En 2011, dans quel film comique Ramzy Bedia et Eric Judor incarnent-ils 2 policiers algériens enquêtant en France?
+culture_g_score: 40
+culture_g_justification: "Comédie policière française connue surtout des amateurs d’Éric et Ramzy, avec une faible fréquence dans les quiz généralistes."
 ---
-
 ![Image de Halal police d'Etat](https://upload.wikimedia.org/wikipedia/commons/9/93/Memoirs_of_Monsieur_Claude%2C_chief_of_police_under_the_Second_Empire_%28IA_cu31924030314672%29.pdf)
 
 ###### Questions

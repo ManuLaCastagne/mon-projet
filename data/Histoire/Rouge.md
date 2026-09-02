@@ -20,8 +20,9 @@ indice_6 :
   - Terreur rouge
 questions:
  - Quelle couleur présente le diamant contenant des traces d'azote, est très rare ?
+culture_g_score: 75
+culture_g_justification: "Couleur culturellement très symbolique et exploitable dans de nombreux domaines, mais le terme générique est rarement une réponse historique précise."
 ---
-
 ![Image de Rouge](https://upload.wikimedia.org/wikipedia/commons/7/70/De_Moulin_Rouge_in_Parijs_bij_avond%2C_Bestanddeelnr_254-5695.jpg)
 
 ###### Questions

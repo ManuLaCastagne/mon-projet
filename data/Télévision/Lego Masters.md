@@ -19,8 +19,9 @@ indice_5 :
   - animateurs célèbres
 indice_6 : 
   - défis de construction
+culture_g_score: 40
+culture_g_justification: "Émission récente et divertissante, mais encore peu incontournable et principalement liée au format international du concours de Lego."
 ---
-
 ![Image de Lego Masters](https://upload.wikimedia.org/wikipedia/commons/1/13/LeoCAD_Screenshot_Flyer_from_LEGO_Masters_DK_S01E07.png)
 
 ###### Questions

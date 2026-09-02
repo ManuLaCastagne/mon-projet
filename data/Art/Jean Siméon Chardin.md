@@ -23,8 +23,9 @@ indice_6 :
   - influence sur les impressionnistes
 questions:
  - Vers 1725, dans la toile "La Raie", quel peintre a représenté un chat, le poil hérissé...
+culture_g_score: 67
+culture_g_justification: "Chardin est un peintre français majeur des natures mortes et scènes de genre, utile pour le XVIIIe siècle et l’influence sur l’art moderne."
 ---
-
 ![Image de Chardin](https://upload.wikimedia.org/wikipedia/commons/4/4e/Beaux-Arts_de_Carcassonne_-_La_table_d%27office_ou_Les_appr%C3%AAts_d%27un_d%C3%A9jeuner_1756_-_Jean-Sim%C3%A9on_Chardin_-_Joconde04400000593.jpg)
 
 ###### Questions

@@ -7,6 +7,8 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6:
+culture_g_score: 40
+culture_g_justification: "Saint-Georges est une petite capitale caribéenne utile pour situer la Grenade, mais rarement interrogée au-delà de ce fait."
 ---
 ###### Questions
 

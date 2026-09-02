@@ -21,8 +21,9 @@ indice_5 :
   - Proche de la rivière Mbabane
 indice_6 : 
   - Située dans les montagnes du Dlangeni
+culture_g_score: 80
+culture_g_justification: "Détroit stratégique majeur du commerce pétrolier et des tensions du Golfe, régulièrement mobilisé dans les questions de géopolitique."
 ---
-
 ![Image de Mbabane](https://upload.wikimedia.org/wikipedia/commons/9/9d/Mbabane.jpg)
 
 ![[Carte_Mbabane.png]]

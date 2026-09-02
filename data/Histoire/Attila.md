@@ -22,8 +22,9 @@ indice_6 :
   - bataille des Champs Catalauniques
 questions:
  - Régnant seul sur mon peuple après avoir éliminé mon frère en 445, j'envahis les Balkans puis la Gaule (pays) avant d'être battu...
+culture_g_score: 80
+culture_g_justification: "Chef des Huns surnommé le Fléau de Dieu, Attila est un repère très classique des invasions barbares et de la fin de l’Empire romain."
 ---
-
 ![Image de Attila](https://upload.wikimedia.org/wikipedia/commons/9/9d/Caunter_-_Attila_-_from_Act_I_Scene_I.jpg)
 
 ###### Questions

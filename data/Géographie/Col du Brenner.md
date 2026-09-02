@@ -25,8 +25,9 @@ indice_6 :
   - corridor de transport
 questions:
  - Depuis 1919, quel col des Alpes marque la frontière entre l'Sport/Italie et l'Autriche ?
+culture_g_score: 67
+culture_g_justification: "Passage alpin important pour la géographie européenne, les transports et l’histoire militaire, mais rarement un incontournable autonome."
 ---
-
 ![Image de Col du Brenner](https://upload.wikimedia.org/wikipedia/commons/c/c2/Cippo_di_confine_Italia-Austria_al_Passo_del_Brennero.jpg)
 
 ![[Carte_Col du Brenner.png]]

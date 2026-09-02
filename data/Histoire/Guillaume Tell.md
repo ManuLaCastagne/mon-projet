@@ -18,8 +18,9 @@ indice_5 :
   - tyrannie
 indice_6 : 
   - liberté
+culture_g_score: 75
+culture_g_justification: "Légende suisse très reconnaissable, exploitée en histoire culturelle, littérature, musique et symbolique politique, malgré une historicité incertaine."
 ---
-
 ![Image de Guillaume Tell](https://upload.wikimedia.org/wikipedia/commons/1/1f/Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Guillaume_Tell_-_1-3._Laure_Cinti-Damoreau_as_Mathilde%2C_Adolphe_Nourrit_as_Arnold_Melchtal%2C_and_Nicolas_Levasseur_as_Walter_Furst.jpg)
 
 ###### Questions

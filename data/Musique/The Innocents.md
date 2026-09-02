@@ -22,8 +22,9 @@ indice_6 :
   - Le Tour d'écrou
 questions:
  - Groupe de pop français ayant adopté mon nom actuel en 1982 en hommage aux Clash, j'ai remporté le Bus d'Acier en 1992 et ai été récompensé à 4 reprises aux Victoires de la musique. Connaissant le succès en 89 avec le single "Jodie", j'ai par la suite enchaîné avec les tubes "L'autre Finistère" et "Mon dernier soldat"...
+culture_g_score: 60
+culture_g_justification: "Groupe français identifiable par «L'Autre Finistère» et les Victoires de la musique, mais à la portée culturelle modérée."
 ---
-
 ![Image de The Innocents](https://upload.wikimedia.org/wikipedia/commons/1/18/Paris_Fontaine_Innocents_Nymphe1_2013.jpg)
 
 ###### Questions

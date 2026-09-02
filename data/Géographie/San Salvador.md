@@ -24,8 +24,9 @@ indice_6 :
   - Archidiocèse catholique de San Salvador
 questions:
  - Quelle île des Bahamas, appelée à l'époque Guanahani par les indigènes, a été la première terre américaine atteinte par Colomb ?
+culture_g_score: 60
+culture_g_justification: "Capitale d’un pays d’Amérique centrale, liée à la guerre civile et aux accords de paix, mais d’importance limitée."
 ---
-
 ![Image de San Salvador](https://upload.wikimedia.org/wikipedia/commons/7/73/San_Salvador_Flag.png)
 
 ![[Carte_San Salvador.png]]

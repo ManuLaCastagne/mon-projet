@@ -23,8 +23,9 @@ indice_6 :
   - écrivain et scénariste français
 questions:
  - A quel écrivain doit-on le roman "La Dentellière", prix Goncourt en 1974 et adapté au cinéma par Claude Goretta 3 ans plus tard?
+culture_g_score: 52
+culture_g_justification: "Écrivain associé au prix Goncourt, à La Dentellière et à Isabelle Huppert, utile pour des croisements littérature-cinéma mais peu transversal au-delà."
 ---
-
 ![Image de Pascal Lainé](https://upload.wikimedia.org/wikipedia/commons/6/6f/Roland_Lehoucq_-_Sylvie_Lain%C3%A9_-_Samedi_-_Utopiales_2015_-_E96A1584.jpg)
 
 ###### Questions

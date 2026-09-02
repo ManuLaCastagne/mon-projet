@@ -15,8 +15,9 @@ indice_6:
   - Symbole de fertilité
 questions:
   - Un pelage gris-brun dessus  et plus pâle dessous.  Préférant les terrains sablonneux dans lesquels je creuse...
+culture_g_score: 68
+culture_g_justification: "Animal domestique très connu permettant des questions variées sur la biologie, la cuisine, l'expérimentation et la culture."
 ---
-
 ![Image de Lapin](https://upload.wikimedia.org/wikipedia/commons/3/39/Lapin_blanc.jpg)
 
 ###### Questions

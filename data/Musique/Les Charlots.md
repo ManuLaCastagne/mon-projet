@@ -22,9 +22,9 @@ indice_6 :
   - comédies musicales parodiques
 questions:
  - En 1983, quel groupe tourne en dérision la mode de l'aérobic avec le titre "L'Apérobic"?
+culture_g_score: 60
+culture_g_justification: "Les Charlots relient chanson populaire, humour et cinéma français, ce qui leur donne une présence correcte dans les quiz francophones."
 ---
-
-
 ![Image de Les Charlots](https://upload.wikimedia.org/wikipedia/commons/7/79/Les_Charlots_Sanremo_1974.jpg)
 
 ###### Questions

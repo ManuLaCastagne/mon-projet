@@ -24,8 +24,9 @@ indice_6 :
   - îles britanniques
 questions:
  - Quel petit archipel britannique est situé à 40 km au large du cap Land's End, entre l'entrée de la Manche et celle du canal de Bristol ?
+culture_g_score: 23
+culture_g_justification: "Archipel britannique très secondaire, principalement retenu pour son anecdote diplomatique et ses jardins."
 ---
-
 ![Image de Îles Scilly](https://upload.wikimedia.org/wikipedia/commons/0/03/Rye-%C3%AEles_Scilly_-_btv1b530105832.jpg)
 
 ![[Carte_Îles Scilly.png]]

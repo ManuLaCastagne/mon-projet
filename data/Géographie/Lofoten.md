@@ -22,9 +22,9 @@ indice_6:
   - cercle polaire arctique
 questions:
   - Quel archipel norvégien de 1425 km2, s'étant spécialisé dans la pêche à la morue, se trouve au large de la côte nord-ouest du pays?
+culture_g_score: 47
+culture_g_justification: "Archipel norvégien connu pour ses paysages et la pêche arctique, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Lofoten](https://upload.wikimedia.org/wikipedia/commons/8/8a/09556_NOR_Lofoten_Cruise_vessel_Le_Boreal_northbound_V-P.jpg)
 
 ![[Carte_Lofoten.png]]

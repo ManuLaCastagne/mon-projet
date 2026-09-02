@@ -20,8 +20,9 @@ indice_6 :
   - ITF
 questions:
  - Quel est le pendant féminin de la Coupe Davis ?
+culture_g_score: 60
+culture_g_justification: "Compétition majeure du tennis féminin par équipes, principalement connue grâce à son ancien nom et à Billie Jean King."
 ---
-
 ![Image de Coupe Billie Jean King](https://upload.wikimedia.org/wikipedia/commons/d/d3/Fed_Cup_Group_I_2012_Europe_Africa_day_3_Tsvetana_Pironkova_001.JPG)
 
 ###### Questions

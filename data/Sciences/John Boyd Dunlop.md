@@ -20,8 +20,9 @@ indice_6 :
   - Vélo
 questions:
  - En 1887, quel ingénieur écossais met au point le 1er pneumatique?
+culture_g_score: 60
+culture_g_justification: "Dunlop est une référence utile de l’histoire des transports et du pneumatique, mais généralement limitée à son invention."
 ---
-
 ![Image de John Boyd Dunlop](https://upload.wikimedia.org/wikipedia/commons/c/cb/John_Boyd_Dunlop.jpg)
 
 ###### Questions

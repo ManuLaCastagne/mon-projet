@@ -24,8 +24,9 @@ indice_6:
   - Culture persane influente
 questions:
   - En 1979, dans quelle ville d'Orient les membres de l'ambassade des Etats-Unis sont-ils pris en otages?
+culture_g_score: 80
+culture_g_justification: "Téhéran est une capitale fréquemment mobilisée pour l’Iran, la géopolitique du Moyen-Orient, l’histoire contemporaine et la culture."
 ---
-
 ![Image de Téhéran](https://upload.wikimedia.org/wikipedia/commons/6/6a/North_of_tehran.jpg)
 
 ![[Carte_Téhéran.png]]

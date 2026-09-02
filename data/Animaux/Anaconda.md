@@ -15,8 +15,9 @@ indice_6 :
   - Sujet de légendes et mythes amazoniens
 questions:
  - Peuplant les forêts tropicales d'Amérique du Sud, je chasse à l'affût au bord des cours d'eau et dans les marécages et me nourris de gros rongeurs comme le capybara, de caïmans et de poissons.
+culture_g_score: 72
+culture_g_justification: "Serpent très célèbre grâce à ses records, à l'Amazonie et au cinéma, mais aux angles relativement concentrés."
 ---
-
 ![Image de Anaconda](https://upload.wikimedia.org/wikipedia/commons/d/d1/Downtown_Anaconda%2C_Montana.JPG)
 
 ###### Questions

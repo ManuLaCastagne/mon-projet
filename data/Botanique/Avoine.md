@@ -15,8 +15,9 @@ indice_6:
   - Fabrication de flocons pour l'alimentation
 questions:
   - Quelle graminée est qualifiée de "folle" lorsqu'elle pousse spontanément dans les champs ?
+culture_g_score: 52
+culture_g_justification: "Céréale importante pour l’alimentation humaine et animale, mais moins centrale dans les quiz que le blé, le riz ou le maïs."
 ---
-
 ![Image de Avoine](https://upload.wikimedia.org/wikipedia/commons/9/9c/Cpa_chateau_avoines.jpg)
 
 ###### Questions

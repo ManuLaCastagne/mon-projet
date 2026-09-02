@@ -18,8 +18,9 @@ indice_5 :
   - Empire d'Autriche
 indice_6 : 
   - Henri Dunant
+culture_g_score: 68
+culture_g_justification: "Bataille importante du Risorgimento, particulièrement rentable grâce à ses liens avec Napoléon III, l’unification italienne et la naissance de la Croix-Rouge."
 ---
-
 ![Image de bataille de Solferino](https://upload.wikimedia.org/wikipedia/commons/1/10/Solferino_LCD.jpg)
 
 ###### Questions

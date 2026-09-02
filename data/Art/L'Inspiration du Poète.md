@@ -18,8 +18,9 @@ indice_5 :
   - Montmartre
 indice_6 : 
   - La Bohème
+culture_g_score: 31
+culture_g_justification: "Tableau classique de Poussin, L’Inspiration du Poète reste néanmoins une œuvre précise et peu sollicitée dans les quiz généralistes."
 ---
-
 ![Image de L'Inspiration du Poète](https://upload.wikimedia.org/wikipedia/commons/4/44/L%27Inspiration_du_po%C3%A8te_-_circa_1629_-_Nicolas_Poussin_-_Louvre_-_RF_1774.jpg)
 
 ###### Questions

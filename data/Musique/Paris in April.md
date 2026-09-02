@@ -22,8 +22,9 @@ indice_6:
   - printemps à Paris
 questions:
   - J'évoque le printemps et les marronniers en fleurs. Chanson dont le titre associe un mois de l'année à la capitale de la France, je suis…
+culture_g_score: 31
+culture_g_justification: "Standard de jazz lié à Paris et à de nombreux interprètes, mais le titre précis est peu fréquemment demandé."
 ---
-
 ![Image de Paris in April](https://upload.wikimedia.org/wikipedia/commons/f/f3/La_D%C3%A9fense%2C_Paris_April_2012.jpg)
 
 ###### Questions

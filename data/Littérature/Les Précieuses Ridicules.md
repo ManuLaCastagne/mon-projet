@@ -20,10 +20,9 @@ indice_5:
   - 17ème siècle
 indice_6:
   - mascarade amoureuse
+culture_g_score: 80
+culture_g_justification: "Comédie classique de Molière, fréquemment mobilisée pour le théâtre du XVIIe siècle, la satire sociale et l’histoire du français."
 ---
-
-
-
 ![Image de Les Précieuses Ridicules](https://upload.wikimedia.org/wikipedia/commons/d/d8/Frontispiece_Les_pr%C3%A9cieuses_ridicules_1682.jpg)
 
 ###### Questions

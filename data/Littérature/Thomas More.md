@@ -22,8 +22,9 @@ indice_6 :
   - critique sociale
 questions:
  - Quel humaniste et homme politique anglais est auteur de "L'Utopie" en 1516 ?
+culture_g_score: 84
+culture_g_justification: "Humaniste, chancelier et martyr anglais, Thomas More permet de relier Renaissance, politique d'Henri VIII, catholicisme et naissance de la notion d'utopie."
 ---
-
 ![Image de Thomas More](https://upload.wikimedia.org/wikipedia/commons/7/79/Portrait_of_Thomas_More_by_Hans_Holbein_d._J._in_the_Frick_Colllection.jpg)
 
 ###### Questions

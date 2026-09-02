@@ -22,8 +22,9 @@ indice_6 :
   - Grand-mère
 questions:
  - Quelle jeune héroïne de roman, créée en 1880 par Johanna Spyri, est une orpheline élevée par son grand-père dans les Alpes?
+culture_g_score: 81
+culture_g_justification: "Personnage mondialement célèbre de la littérature jeunesse, associé aux Alpes, à la Suisse, aux adaptations et à plusieurs personnages récurrents."
 ---
-
 ![Image de Heidi](https://upload.wikimedia.org/wikipedia/commons/1/1a/Spyri_Heidi_Cover_1887.jpg)
 
 ###### Questions

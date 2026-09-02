@@ -22,8 +22,9 @@ indice_6 :
   - Barranquilla
 questions:
  - Quel fleuve en 1968 des Balkans est cité dans une chanson de Sylvie Vartan ?
+culture_g_score: 43
+culture_g_justification: "Fleuve important des Balkans et frontière régionale, mais peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Maritza](https://upload.wikimedia.org/wikipedia/commons/5/59/2024_PASTORA_MARITZA_ALMADA_CANDIDATO_VICE-PREFEITO_RJ_NOVA_IGUACU_TSE_%28190002117265%29.jpg)
 
 ![[Carte_Maritza.png]]

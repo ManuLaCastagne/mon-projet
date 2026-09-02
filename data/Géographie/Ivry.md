@@ -24,8 +24,9 @@ indice_6 :
   - Proximité du périphérique
 questions:
  - En 1590, lors de quelle bataille Henri IV prévient-il ses troupes par ces mots   "Si vous perdez vos enseignes, ralliez-vous à mon panache blanc !" ?
+culture_g_score: 40
+culture_g_justification: "Commune de la proche banlieue parisienne pouvant apparaître via son cimetière ou son patrimoine, mais rarement comme réponse principale."
 ---
-
 ![Image de Ivry](https://upload.wikimedia.org/wikipedia/commons/2/27/Immeubles_place_Voltaire_Ivry_Seine_6.jpg)
 
 ![[Carte_Ivry.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - émissions de télévision
 questions:
  - Quel journaliste, ancien animateur de l'émission "Sex machine", est apparu dans le jury de la "Nouvelle star" avec ses indissociables lunettes noires?
+culture_g_score: 60
+culture_g_justification: "Critique rock reconnu, associé à Rock & Folk et à Nouvelle Star, avec des liens utiles vers la musique et la télévision."
 ---
-
 ![Image de Philippe Manoeuvre](https://upload.wikimedia.org/wikipedia/commons/5/5b/Philippe_Manoeuvre.jpg)
 
 ###### Questions

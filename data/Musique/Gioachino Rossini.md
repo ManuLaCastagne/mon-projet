@@ -20,8 +20,9 @@ indice_5:
   - bel canto
 indice_6:
   - Sémiramis
+culture_g_score: 80
+culture_g_justification: "Compositeur du Barbier de Séville et de Guillaume Tell, Rossini est un classique fréquent permettant d’aborder l’opéra, le bel canto et l’Italie."
 ---
-
 ![Image de Gioachino Rossini](https://upload.wikimedia.org/wikipedia/commons/f/f5/Composer_Rossini_G_1865_by_Carjat_-_Restoration.jpg)
 
 ###### Questions

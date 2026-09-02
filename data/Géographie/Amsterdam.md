@@ -24,8 +24,9 @@ indice_6 :
   - façades étroites
 questions:
  - Dans quelle ville des Pays-Bas le musée Nemo, consacré à la science, a-t-il été conçu par l'architecte Renzo Piano?
+culture_g_score: 84
+culture_g_justification: "Grande capitale européenne associée aux canaux, à l’âge d’or hollandais, à l’art, au commerce et à une architecture immédiatement reconnaissable."
 ---
-
 ![Image de Amsterdam](https://upload.wikimedia.org/wikipedia/commons/b/be/KeizersgrachtReguliersgrachtAmsterdam.jpg)
 
 ![[Carte_Amsterdam.png]]

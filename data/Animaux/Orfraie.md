@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de vision et de précision
 questions:
  - Quel terme, issu du latin signifiant qui brise les eaux, désigne l'oiseau de proie également appelé aigle de mer ou pygargue à queue blanche?
+culture_g_score: 44
+culture_g_justification: "Rapace identifiable et lié à quelques questions naturalistes, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Orfraie](https://upload.wikimedia.org/wikipedia/commons/8/83/Cochery%2C_orfraie_%28M%C3%A9nagerie_r%C3%A9publicaine%2C_18%29.JPEG)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Écrit sur la famille et l'amour
 questions:
  - En 2009, quelle fille d'écrivain publie "La Gaieté" ?
+culture_g_score: 40
+culture_g_justification: "Romancière contemporaine identifiable par quelques titres autobiographiques, mais peu présente dans la culture générale prioritaire."
 ---
-
 ![Image de Justine Lévy](https://upload.wikimedia.org/wikipedia/commons/3/30/Justine_Levy_02.JPG)
 
 ###### Questions

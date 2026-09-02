@@ -21,8 +21,9 @@ indice_6:
   - Fernando Rey
 questions:
   - Film franco-espagnol sorti en 1977, mon personnage féminin principal, nommé Conchita, est joué par 2 actrices différentes, Carole Bouquet et Angela Molina.  Dernier film de Luis Bunuel, je débute sur un quai de gare, où un quinquagénaire, joué par Fernando Rey, se met à raconter son histoire à ses compagnons de voyage, après avoir jeté un seau à la tête d'une femme. Adaptation de "La Femme et le pantin" de Pierre Louys, je suis...
+culture_g_score: 48
+culture_g_justification: "Film reconnu de Buñuel offrant plusieurs angles artistiques, mais réservé surtout aux quiz cinéphiles."
 ---
-
 ![Image de Obscur Objet du désir](https://upload.wikimedia.org/wikipedia/commons/0/0e/Cet_obscur_objet_du_d%C3%A9sir_white_logo.png)
 
 ###### Questions

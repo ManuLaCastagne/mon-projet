@@ -15,8 +15,9 @@ indice_6 :
   - Odeur désagréable comme mécanisme de défense
 questions:
  - En cas de menace, quel mustélidé d'Amérique, au pelage blanc...
+culture_g_score: 47
+culture_g_justification: "Mammifère nord-américain célèbre pour son mécanisme de défense et son équivalent de dessin animé, mais peu central."
 ---
-
 ![Image de Moufette](https://upload.wikimedia.org/wikipedia/commons/b/ba/L%E2%80%99%C3%A9cluse_%C3%A0_poissons_Moufette_%2835%29.JPG)
 
 ###### Questions

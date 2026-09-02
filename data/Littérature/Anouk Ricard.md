@@ -18,8 +18,9 @@ indice_5 :
   - Ronan Badel
 indice_6 : 
   - Illustratrice française
+culture_g_score: 23
+culture_g_justification: "Autrice de bande dessinée reconnue dans son milieu, mais encore trop spécialisée pour être prioritaire en culture générale."
 ---
-
 ![Image de Anouk Ricard](https://upload.wikimedia.org/wikipedia/commons/b/b7/Anouk_Ricard.jpg)
 
 ###### Questions

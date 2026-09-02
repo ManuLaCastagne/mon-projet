@@ -22,10 +22,9 @@ indice_6 :
   - Gene Hackman
 questions:
  - En 2002, dans quel film de Wes Anderson incarne-t-il le fils de Gene Hackman...
+culture_g_score: 60
+culture_g_justification: "Film caractéristique de Wes Anderson, utile pour des questions sur son casting et son style, mais d'importance générale limitée."
 ---
-
-
-
 ![Image de Famille Tenenbaum](https://upload.wikimedia.org/wikipedia/commons/e/e1/The_Royal_Tenenbaums_logo.png)
 
 ###### Questions

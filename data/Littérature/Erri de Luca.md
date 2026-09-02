@@ -22,8 +22,9 @@ indice_6 :
   - Naples
 questions:
  - Le 2 août 2020, quel écrivain italien, déjà auteur des romans "Montedidio" et "Noyau d'olive", a sorti celui intitulé "Impossible"?
+culture_g_score: 51
+culture_g_justification: "Écrivain italien engagé et polyvalent, mais référence relativement spécialisée malgré ses prix et son parcours singulier."
 ---
-
 ![Image de Erri de Luca](https://upload.wikimedia.org/wikipedia/commons/c/ce/Erri_De_Luca-Trento_Film_Festival.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - protection contre l'arbitraire
 questions:
  - En Angleterre, quelle loi garantissait au XVIIe siècle les libertés individuelles ?
+culture_g_score: 88
+culture_g_justification: "Principe juridique fondamental, utile dans de nombreux quiz sur les libertés publiques, le droit anglais, la Magna Carta et les États-Unis."
 ---
-
 ![Image de Habeas Corpus](https://upload.wikimedia.org/wikipedia/commons/0/00/Habeas_Corpus_33908_-_Beneficiado_Jo%C3%A3o_Caf%C3%A9_Filho%2C_coator_Nereu_Ramos.pdf)
 
 ###### Questions

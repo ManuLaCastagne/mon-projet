@@ -3,6 +3,8 @@ tags:
   - Santé
   - XIXe
 date: 1829
+culture_g_score: 32
+culture_g_justification: "Appellation courante des muscles abdominaux, surtout utile pour une question lexicale ou anatomique assez spécialisée."
 ---
 ###### Questions 
 

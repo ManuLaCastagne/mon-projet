@@ -24,9 +24,9 @@ indice_6 :
   - destination prisée des cyclistes et randonneurs
 questions:
  - Quelle île, la plus grande de l'archipel des Baléares, a pour capitale la ville de Palma?
+culture_g_score: 64
+culture_g_justification: "Île touristique majeure des Baléares, utile pour l’Espagne, Gaudí, Robert Graves et la Méditerranée, mais moins structurante qu’un pays ou une capitale."
 ---
-
-
 ![Image de Majorque](https://upload.wikimedia.org/wikipedia/commons/8/81/Rathaus_Palma_de_Mallorca_abends.jpg)
 
 ![[Carte_Majorque.png]]

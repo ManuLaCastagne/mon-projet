@@ -3,6 +3,8 @@ tags:
   - Gastronomie
   - Grèce
   - Turquie
+culture_g_score: 44
+culture_g_justification: "Spécialité méditerranéenne connue des amateurs de cuisine, mais relativement occasionnelle dans les quiz généralistes."
 ---
 ###### Questions 
 

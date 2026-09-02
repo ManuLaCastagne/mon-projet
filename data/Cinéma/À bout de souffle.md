@@ -22,8 +22,9 @@ indice_6 :
   - 1960
 questions:
  - En 1960, à propos de quel film avec Jean Seberg et Jean-Paul Belmondo l'agent de...
+culture_g_score: 80
+culture_g_justification: "Film emblématique de la Nouvelle Vague, très rentable pour les questions sur Godard, Belmondo, Jean Seberg et les innovations de montage."
 ---
-
 ![Image de À bout de souffle](https://upload.wikimedia.org/wikipedia/commons/d/da/%C3%80_bout_de_souffle_movie_logo.png)
 
 ###### Questions

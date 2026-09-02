@@ -18,8 +18,9 @@ indice_5 :
   - Bivouac
 indice_6 : 
   - Afrique
+culture_g_score: 80
+culture_g_justification: "Rallye-raid mondialement identifié, ouvrant sur Thierry Sabine, l’Afrique, les sports mécaniques, les risques et son déplacement en Arabie saoudite."
 ---
-
 ![Image de Paris-Dakar](https://upload.wikimedia.org/wikipedia/commons/a/a7/Rally_Dakar_2006_9-2.jpg)
 
 ###### Questions

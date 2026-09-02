@@ -20,8 +20,9 @@ indice_5 :
   - The Master
 indice_6 : 
   - films souvent acclamés par la critique
+culture_g_score: 60
+culture_g_justification: "Cinéaste américain important et associé à Boogie Nights, There Will Be Blood et Radiohead, mais encore relativement spécialisé pour les quiz généralistes."
 ---
-
 ![Image de Paul Thomas Anderson](https://upload.wikimedia.org/wikipedia/commons/d/d2/Paul_Thomas_Anderson_2022_%282%29_%28cropped%29.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - climat continental
 questions:
  - Sur quel plateau situé à 471 m d'altitude...
+culture_g_score: 52
+culture_g_justification: "Langres offre des liens intéressants avec Diderot, les fortifications et la géographie historique, mais reste une ville de quiz secondaire."
 ---
-
-
 ![Image de Langres](https://upload.wikimedia.org/wikipedia/commons/c/c2/Cath%C3%A9drale_Saint-Mamm%C3%A8s_%28Langres%29_%283%29.jpg)
 
 ![[Carte_Langres.png]]

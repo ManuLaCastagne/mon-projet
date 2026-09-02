@@ -22,8 +22,9 @@ indice_6 :
   - la perte de l'innocence
 questions:
  - A quel écrivain britannique prix Nobel de Littérature en 1983 doit-on "Sa Majesté des mouches" ?
+culture_g_score: 77
+culture_g_justification: "Sa Majesté des mouches et le prix Nobel en font une référence régulièrement mobilisée, avec une transversalité surtout littéraire."
 ---
-
 ![Image de William Golding](https://upload.wikimedia.org/wikipedia/commons/f/f9/William_Golding_1983.jpg)
 
 ###### Questions

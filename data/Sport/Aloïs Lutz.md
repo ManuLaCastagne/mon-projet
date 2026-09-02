@@ -18,8 +18,9 @@ indice_5:
   - Axel Paulsen
 indice_6:
   - Toe Loop
+culture_g_score: 24
+culture_g_justification: "Patineur ayant donné son nom au lutz, mais sa personne reste très obscure pour le grand public."
 ---
-
 ![Image de Aloïs Lutz](https://upload.wikimedia.org/wikipedia/commons/f/ff/Patrick_Chan_at_the_2010_World_Championships_%283%29.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - climat subpolaire
 questions:
  - J'abrite le cap Horn et la ville la plus australe du monde, Ushuaïa.
+culture_g_score: 72
+culture_g_justification: "Région australe emblématique, associée à Magellan, au cap Horn, à l'Argentine, au Chili et aux explorations."
 ---
-
 ![Image de Terre de Feu](https://upload.wikimedia.org/wikipedia/commons/d/d8/Recueil.%22Le_feu_sur_la_terre%22_de_Jean_Vernier_d%27apr%C3%A8s_Fran%C3%A7ois_Mauriac_-_btv1b10535027n_%28038_of_157%29.jpg)
 
 ![[Carte_Terre de Feu.png]]

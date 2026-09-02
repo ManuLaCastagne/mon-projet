@@ -20,8 +20,9 @@ indice_6 :
   - Acteur majeur de la décolonisation
 questions:
  - Avant d'accéder à la présidence de la République algérienne en 1963, quel homme politique fut l'un des leaders de l'insurrection de 1954 ?
+culture_g_score: 64
+culture_g_justification: "Figure majeure de l’indépendance algérienne, régulièrement mobilisée dans les questions sur la décolonisation, mais moins incontournable que les grands dirigeants mondiaux."
 ---
-
 ![Image de Ahmed Ben Bella](https://upload.wikimedia.org/wikipedia/commons/2/20/Ahmed_Ben_Bella%2C_Mohamed_Khider%2C_Hocine_A%C3%AFt_Ahmed.jpg)
 
 ###### Questions

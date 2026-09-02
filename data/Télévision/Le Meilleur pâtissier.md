@@ -20,8 +20,9 @@ indice_6 :
   - des amateurs passionnés de pâtisserie
 questions:
  - Dans quel concours culinaire les préparations sucrées sont-elles jugées par le chef Cyril Lignac et la blogueuse Mercotte ?
+culture_g_score: 68
+culture_g_justification: "Concours culinaire très populaire et fréquemment cité, mais d’importance culturelle plus limitée que les grandes émissions historiques."
 ---
-
 ![Image de Le Meilleur pâtissier](https://upload.wikimedia.org/wikipedia/commons/0/09/Le_Temps_retrouv%C3%A9_%28c%29.pdf)
 
 ###### Questions

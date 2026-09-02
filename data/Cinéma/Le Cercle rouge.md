@@ -22,8 +22,9 @@ indice_6 :
   - Lieu d'un hold-up
 questions:
  - En 1970, dans quel film de Jean-Pierre Melville, Alain Delon et Yves Montand dérobent-ils des bijoux chez un joaillier?
+culture_g_score: 80
+culture_g_justification: "Classique de Melville et du polar français, rentable grâce à son casting, son braquage muet, son style et son influence."
 ---
-
 ![Image de Le Cercle rouge](https://upload.wikimedia.org/wikipedia/commons/5/52/Le_Cercle_rouge_%28Le_Journal%2C_Annonce_19161103%29.jpg)
 
 ###### Questions

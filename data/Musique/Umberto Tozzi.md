@@ -22,8 +22,9 @@ indice_6 :
   - chanteur-compositeur
 questions:
  - En 1977, quel chanteur italien remporte un succès international avec le titre "Ti amo"?
+culture_g_score: 64
+culture_g_justification: "Chanteur italien très associé à Ti amo et à ses adaptations internationales, mais avec une transversalité relativement musicale."
 ---
-
 ![Image de Umberto Tozzi](https://upload.wikimedia.org/wikipedia/commons/3/34/Umberto_Tozzi_Wiener_Stadtfest_2014_08_%28cropped%29.jpg)
 
 ###### Questions

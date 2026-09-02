@@ -18,9 +18,9 @@ indice_6 :
   - punition
 questions:
  - Nymphe des sources et des forêts, condamnée à répéter les dernières paroles entendues et ayant donné mon nom à un phénomène acoustique...
+culture_g_score: 80
+culture_g_justification: "Mythe très reconnaissable associé à Narcisse, à Ovide et à l'origine légendaire de l'écho."
 ---
-
-
 ![Image de Echo](https://upload.wikimedia.org/wikipedia/commons/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg)
 
 ###### Questions

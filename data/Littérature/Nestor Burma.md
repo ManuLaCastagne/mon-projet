@@ -22,8 +22,9 @@ indice_6 :
   - Brouillard de Londres
 questions:
  - Quel détective a été créé par Hector Malet ?
+culture_g_score: 60
+culture_g_justification: "Détective français important du roman noir et associé à Paris, à Léo Malet et à des adaptations télévisées."
 ---
-
 ![Image de Nestor Burma](https://upload.wikimedia.org/wikipedia/commons/f/fc/Conspectus_of_the_Ornithology_of_India%2C_Burma%2C_and_the_Malayan_peninsula%2C_inclusive_of_Sindh%2C_Asam%2C_Ceylon%2C_and_the_Nicobar_islands_%28IA_biostor-140383%29.pdf)
 
 ###### Questions

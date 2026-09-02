@@ -20,8 +20,9 @@ indice_6 :
   - figure importante de la droite française
 questions:
  - Quel homme politique disparu en 2010, ancien maire d'Epinal, l'a refusée, estimant qu'elle aurait dû revenir à son père, mort au combat ?
+culture_g_score: 51
+culture_g_justification: "Personnalité importante de la droite française et des institutions, mais dont la fréquence reste surtout liée à la politique contemporaine française."
 ---
-
 ![Image de Philippe Séguin](https://upload.wikimedia.org/wikipedia/commons/7/73/Philippe_Seguin_2005.jpg)
 
 ###### Questions

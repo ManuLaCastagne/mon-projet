@@ -24,8 +24,9 @@ indice_6:
   - Aiguilles et crêtes
 questions:
   - L'arête des cosmiques. Relié à Chamonix par un téléphérique, j'ai été équipé en 2013 d'une cabine de verre, le Pas dans le vide.
+culture_g_score: 61
+culture_g_justification: "Site alpin français emblématique, surtout interrogé pour son altitude, son téléphérique et sa localisation dans le massif du Mont-Blanc."
 ---
-
 ![Image de Aiguille du midi](https://upload.wikimedia.org/wikipedia/commons/4/4c/Alpinistes_Aiguille_du_Midi_03.JPG)
 
 L'[[Aiguille du Midi]] est un sommet emblématique situé dans le [[massif du Mont-Blanc]] en France, culminant à 3 842 mètres. Le 1er juillet 1955, un téléphérique révolutionnaire a été inauguré, permettant aux visiteurs d'accéder facilement à ce site spectaculaire depuis [[Chamonix]]. L'[[Aiguille du Midi]] offre une vue panoramique incroyable sur les [[Alpes]], attirant chaque année des milliers de touristes et d'alpinistes.

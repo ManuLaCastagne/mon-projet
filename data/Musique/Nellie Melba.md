@@ -20,9 +20,9 @@ indice_5:
   - Née en 1861
 indice_6:
   - Nom de scène tiré de Melbourne
+culture_g_score: 51
+culture_g_justification: "Cantatrice australienne surtout rentable pour la Pêche Melba et quelques jalons de l’histoire de l’enregistrement et de l’opéra."
 ---
-
-
 ![Image de Nellie Melba](https://upload.wikimedia.org/wikipedia/commons/6/69/Enrico_Caruso_-_Nellie_Melba_-_La_boh%C3%A8me_-_O_soave_fanciulla_%28restored%29.ogg)
 
 ###### Questions

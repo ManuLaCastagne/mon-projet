@@ -24,8 +24,9 @@ indice_6 :
   - Navy Pier
 questions:
  - Quelle comédie musicale adaptée au cinéma avec RIchard Gere et Renée Zellweger porte le nom de la ville où elle se déroule ?
+culture_g_score: 100
+culture_g_justification: "Métropole mondiale extrêmement rentable, liée à l’architecture, l’histoire urbaine, le jazz, le sport, les États-Unis et les innovations."
 ---
-
 ![Image de Chicago](https://upload.wikimedia.org/wikipedia/commons/8/8e/Skyline_de_Chicago_desde_el_centro%2C_Illinois%2C_Estados_Unidos%2C_2012-10-20%2C_DD_06.jpg)
 
 ![[Carte_Chicago.png]]

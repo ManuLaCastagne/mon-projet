@@ -20,9 +20,9 @@ indice_5:
   - Bidon
 indice_6:
   - J'ai dix ans
+culture_g_score: 72
+culture_g_justification: "Alain Souchon est une figure importante de la chanson française, associée à de nombreux titres, albums et collaborations."
 ---
-
-
 ![Image de Alain Souchon](https://upload.wikimedia.org/wikipedia/commons/1/19/Alain_Souchon_2012.jpg)
 
 ###### Questions

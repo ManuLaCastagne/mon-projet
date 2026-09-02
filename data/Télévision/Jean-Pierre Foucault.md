@@ -19,7 +19,8 @@ indice_5 :
   - auteur de Le dictionnaire de ma vie
 indice_6 : 
   - a travaillé sur RTL et TF1
-culture_g_score: 80
+culture_g_score: 76
+culture_g_justification: "Animateur historique de radio et de télévision, associé à Qui veut gagner des millions ? et à plusieurs repères du divertissement français."
 ---
 ![Image de Jean-Pierre Foucault](https://upload.wikimedia.org/wikipedia/commons/7/76/Jean-Pierre_Foucault_en_2018.jpg)
 

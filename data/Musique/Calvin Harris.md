@@ -22,8 +22,9 @@ indice_6 :
   - Feel So Close
 questions:
  - La chanteuse britannique Dua Lipa qui interprète "One kiss", l'un des tubes de l'année 2018.  Avec quel DJ…
+culture_g_score: 73
+culture_g_justification: "Producteur et DJ très connu, régulièrement mobilisé par ses tubes, ses collaborations, ses records et la musique pop contemporaine."
 ---
-
 ![Image de Calvin Harris](https://upload.wikimedia.org/wikipedia/commons/0/02/Calvin_Harris_-_Rock_in_Rio_Madrid_2012_-_09.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - animatrice Agathe Lecaron
 questions:
  - Depuis 2016, sous quel titre connaît-on l'émission télévisée présentée par Agathe Lecaron et anciennement appelée "Les Maternelles" ?
+culture_g_score: 44
+culture_g_justification: "Émission française identifiable mais assez spécialisée dans la parentalité et peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de La Maison des maternelles](https://upload.wikimedia.org/wikipedia/commons/6/67/H%C3%BCe_-_Les_Maternelles%2C_1868.djvu)
 
 ###### Questions

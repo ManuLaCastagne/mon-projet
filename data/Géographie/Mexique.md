@@ -24,8 +24,9 @@ indice_6 :
   - plateau central mexicain
 questions:
  - Dans quel pays d'Amérique l'ancêtre sauvage du maïs a-t-il été domestiqué il y a 9 000 ans dans la Sierra Madre del Sur ?
+culture_g_score: 100
+culture_g_justification: "Grand pays incontournable des Amériques, très rentable en histoire, géographie, civilisations, culture et actualité."
 ---
-
 ![Image de Mexique](https://upload.wikimedia.org/wikipedia/commons/6/69/Iglesia_de_san_francisco_300_dpi.jpg)
 
 ![[Carte_Mexique.png]]

@@ -23,8 +23,9 @@ indice_6 :
   - piles de granite
 questions:
  - Je suis réalisé pour éviter  une asphyxie urbaine face au développement accéléré de la population new-yorkaise. Pont conçu par l'ingénieur...
+culture_g_score: 97
+culture_g_justification: "Icône mondiale de New York et de l'ingénierie, très fréquente grâce à son histoire, ses concepteurs, ses records et sa culture populaire."
 ---
-
 ![Image de Pont de Brooklyn](https://upload.wikimedia.org/wikipedia/commons/e/e2/Pont_de_Brooklyn_de_nuit_-_Octobre_2008_edit.jpg)
 
 ###### Questions

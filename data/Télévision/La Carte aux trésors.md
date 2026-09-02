@@ -20,8 +20,9 @@ indice_6 :
   - paysages spectaculaires
 questions:
  - Jeu dont les thèmes musicaux ont été composés par Jean-Marc Benaïs, j'ai été diffusé dès 1996 à certaines périodes de l'année avec une interruption. Proposant trois énigmes...
+culture_g_score: 76
+culture_g_justification: "Jeu populaire combinant patrimoine, géographie française, énigmes et animateurs successifs, ce qui le rend régulièrement exploitable en quiz."
 ---
-
 ![Image de La Carte aux trésors](https://upload.wikimedia.org/wikipedia/commons/c/c2/H%C3%A9licopt%C3%A8re_F-GMBL_pour_la_Carte_Aux_Tr%C3%A9sors_%C3%A0_Toulouse.jpg)
 
 ###### Questions

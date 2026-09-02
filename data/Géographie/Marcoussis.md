@@ -24,8 +24,9 @@ indice_6 :
   - sud de Paris
 questions:
  - Quelle commune de l'Essonne abrite le centre d'entraînement de l'équipe de France de rugby?
+culture_g_score: 40
+culture_g_justification: "Commune surtout connue pour le rugby français, ce qui limite son intérêt à quelques questions spécialisées."
 ---
-
 ![Image de Marcoussis](https://upload.wikimedia.org/wikipedia/commons/2/20/Mairie_Marcoussis.JPG)
 
 ![[Carte_Marcoussis.png]]

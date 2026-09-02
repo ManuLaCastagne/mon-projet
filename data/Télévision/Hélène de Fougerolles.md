@@ -18,8 +18,9 @@ indice_5 :
   - Partenaire de Jean Reno dans Jo
 indice_6 : 
   - Actrice dans Liens de Sang
+culture_g_score: 55
+culture_g_justification: "Actrice française reconnue pour Balthazar et quelques séries, mais encore peu incontournable et peu transversale dans les quiz."
 ---
-
 ![Image de Hélène de Fougerolles](https://upload.wikimedia.org/wikipedia/commons/9/9b/H%C3%A9l%C3%A8ne_de_Fougerolles_Cannes_2009.jpg)
 
 ###### Questions

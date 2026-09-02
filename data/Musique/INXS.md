@@ -22,8 +22,9 @@ indice_6 :
   - rock alternatif
 questions:
  - Groupe dans lequel le claviériste Andrew Farriss côtoie son frère guitariste Tim Farriss, j'ai été créé à Sydney en 1977.  Désigné par un nom fait de 4 initiales qui en anglais forme un jeu de mots...
+culture_g_score: 60
+culture_g_justification: "Groupe australien associé à plusieurs tubes internationaux et à Michael Hutchence, avec une utilité correcte mais non prioritaire."
 ---
-
 ![Image de INXS](https://upload.wikimedia.org/wikipedia/commons/3/3d/INXS.jpg)
 
 ###### Questions

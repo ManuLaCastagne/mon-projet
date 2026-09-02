@@ -21,10 +21,9 @@ indice_5 :
   - Sélestat Haut-Koenigsbourg
 indice_6 : 
   - Gare de Sélestat
+culture_g_score: 40
+culture_g_justification: "Ville alsacienne intéressante pour sa bibliothèque et l'histoire du sapin de Noël, mais rarement prioritaire."
 ---
-
-
-
 ![[Carte_Sélestat.png]]
 
 ###### Questions

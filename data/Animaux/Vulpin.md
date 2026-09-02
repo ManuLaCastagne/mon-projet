@@ -15,9 +15,9 @@ indice_6 :
   - Perspicacité et ruse dans les fables
 questions:
  - Quel adjectif dérive du latin signifiant renard?
+culture_g_score: 84
+culture_g_justification: "Le renard est une référence zoologique et symbolique majeure, présente dans les fables, les contes, l'écologie et de nombreux quiz."
 ---
-
-
 ![Image de Vulpin](https://upload.wikimedia.org/wikipedia/commons/a/a3/Alopecurus_aequalis_drawing.png)
 
 ###### Questions

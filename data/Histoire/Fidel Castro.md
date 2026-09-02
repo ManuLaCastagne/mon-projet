@@ -20,8 +20,9 @@ indice_6 :
   - premier secrétaire du Parti communiste cubain
 questions:
  - En 2009, quel dirigeant politique cubain est incarné par Demian Bichir ?
+culture_g_score: 96
+culture_g_justification: "Dirigeant majeur de la guerre froide et de la révolution cubaine, associé à de nombreux thèmes historiques et géopolitiques."
 ---
-
 ![Image de Fidel Castro](https://upload.wikimedia.org/wikipedia/commons/c/c5/Fidel_Castro_-_MATS_Terminal_Washington_1959.jpg)
 
 ###### Questions

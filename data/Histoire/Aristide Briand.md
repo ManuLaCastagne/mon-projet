@@ -20,8 +20,9 @@ indice_6 :
   - Pacte Briand-Kellogg
 questions:
  - En 1905, quel député et futur prix Nobel de la paix défend devant la Chambre la proposition...
+culture_g_score: 68
+culture_g_justification: "Homme d’État, président du Conseil à répétition et promoteur de la paix européenne, Briand est une figure importante de la IIIe République."
 ---
-
 ![Image de Aristide Briand](https://upload.wikimedia.org/wikipedia/commons/2/21/Avenue_Aristide_Briand_%C3%A0_Chartres.jpg)
 
 ###### Questions

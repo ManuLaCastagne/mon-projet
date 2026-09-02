@@ -21,8 +21,9 @@ indice_5 :
   - Palais Présidentiel
 indice_6 : 
   - Édifices gouvernementaux modernes
+culture_g_score: 32
+culture_g_justification: "Capitale très obscure des Palaos, principalement interrogée comme curiosité parmi les capitales les moins peuplées du monde."
 ---
-
 ![Image de Ngerulmud](https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_at_Melekeok%2C_Palau.jpg)
 
 ![[Carte_Ngerulmud.png]]

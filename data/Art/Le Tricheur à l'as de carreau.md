@@ -23,9 +23,9 @@ indice_6 :
   - tromperie
 questions:
  - Quel tableau de Georges de La Tour, dont il existe une variante dite  à l'as de trèfle, figure des joueurs de cartes dont les regards ne se rencontrent pas?
+culture_g_score: 68
+culture_g_justification: "Tableau classique du Louvre, utile pour Georges de La Tour, le clair-obscur, le caravagisme et les scènes de tromperie."
 ---
-
-
 ![Image de Le Tricheur à l'as de carreau](https://upload.wikimedia.org/wikipedia/commons/a/a4/Le_Tricheur_%C3%A0_l%27as_de_carreau_-_Georges_de_La_Tour_-_Mus%C3%A9e_du_Louvre_Peintures_RF_1972_8.jpg)
 
 ###### Questions

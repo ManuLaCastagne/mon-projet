@@ -20,9 +20,9 @@ indice_6 :
   - comédie dramatique
 questions:
  - Série qui réunit un curé et un élu municipal…
+culture_g_score: 36
+culture_g_justification: "Série française populaire mais relativement secondaire, généralement interrogée sur son duo de personnages et sa diffusion sur TF1."
 ---
-
-
 ![Image de Père et Maire](https://upload.wikimedia.org/wikipedia/commons/3/32/Valentin_p%C3%A8re_et_maire._50%2C_G.6117.jpg)
 
 ###### Questions

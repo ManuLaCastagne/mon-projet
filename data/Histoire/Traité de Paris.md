@@ -20,9 +20,9 @@ indice_6 :
   - paix
 questions:
  - Ayant mis fin à la guerre de Sept Ans en 1763, j'ai permis à la France de rentrer en possession de la Martinique et de la Guadeloupe mais je lui fis perdre la Louisiane et le Canada. Traité devant mon nom au fait que j'ai été signé dans la capitale française...
+culture_g_score: 71
+culture_g_justification: "Dénomination couvrant plusieurs accords majeurs, notamment l’indépendance américaine, mais son ambiguïté limite la précision de l’apprentissage."
 ---
-
-
 ![Image de Traité de Paris](https://upload.wikimedia.org/wikipedia/commons/b/bd/Trait%C3%A9_de_la_Police_-_3._Troisi%C3%A8me_plan_de_la_ville_de_Paris_-_Paris_Mus%C3%A9es.jpg)
 
 ###### Questions

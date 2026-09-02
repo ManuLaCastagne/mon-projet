@@ -22,8 +22,9 @@ indice_6 :
   - Scénariste de films
 questions:
  - Quel écrivain barcelonais a vendu plus de 12 millions d'exemplaires dans le monde de son roman "L'Ombre du vent", paru en 2001?
+culture_g_score: 60
+culture_g_justification: "Auteur contemporain associé à un best-seller international et à plusieurs séries romanesques, mais encore secondaire dans le canon généraliste."
 ---
-
 ![Image de Carlos Luis Zafon]()
 
 ###### Questions

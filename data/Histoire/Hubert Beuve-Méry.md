@@ -20,12 +20,9 @@ indice_6 :
   - journaliste
 questions:
  - Quel journaliste français, fondateur en 1944 du journal "Le Monde (journal)", y publia…
+culture_g_score: 44
+culture_g_justification: "Fondateur du Monde, il est utile pour l’histoire de la presse française mais offre peu d’angles indépendants dans un quiz généraliste."
 ---
-
-
-
-
-
 ![Image de Hubert Beuve-Méry](https://upload.wikimedia.org/wikipedia/commons/4/47/Place_Hubert_Beuve_M%C3%A9ry_-_Ivry-sur-Seine_%28FR94%29_-_2021-01-17_-_1.jpg)
 
 ###### Questions

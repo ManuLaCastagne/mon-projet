@@ -13,8 +13,9 @@ indice_5:
   - Cyparis
 indice_6:
   - Utilisé pour le bois et l'ornementation
+culture_g_score: 71
+culture_g_justification: "Conifère très identifiable, associé à la Méditerranée, aux cimetières, à la symbolique funéraire et aux paysages."
 ---
-
 ![Image de Cyprès](https://upload.wikimedia.org/wikipedia/commons/9/9d/Marling_Zypressen_bei_der_Schickenburg.jpg)
 
 ###### Questions

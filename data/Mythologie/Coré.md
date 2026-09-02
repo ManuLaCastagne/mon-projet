@@ -19,10 +19,9 @@ indice_6 :
   - saisons selon la [[mythologie grecque]]
 questions:
  - Quelle jeune fille Hadès épouse-t-il après l'avoir enlevée à sa mère Déméter?
+culture_g_score: 40
+culture_g_justification: "Nom archaïque de Perséphone, utile dans quelques questions spécialisées sur les cultes et la mythologie grecque."
 ---
-
-
-
 ![Image de Coré](https://upload.wikimedia.org/wikipedia/commons/0/07/Euploea_core-Kadavoor-2016-09-08-002.jpg)
 
 ###### Questions

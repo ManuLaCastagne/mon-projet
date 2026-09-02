@@ -20,8 +20,9 @@ indice_6 :
   - Ailes des Aigles
 questions:
  - Quel footballeur brésilien des années 50-60, dont le surnom fait référence à un petit oiseau local, était réputé pour son dribble déroutant?
+culture_g_score: 80
+culture_g_justification: "Légende brésilienne du football, fréquemment interrogée sur les Coupes du monde, le dribble, Botafogo et son surnom célèbre."
 ---
-
 ![Image de Garrincha](https://upload.wikimedia.org/wikipedia/commons/e/eb/MFdSantos-Garrincha.jpg)
 
 ###### Questions

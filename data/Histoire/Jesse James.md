@@ -20,8 +20,9 @@ indice_6 :
   - tué par Robert Ford
 questions:
  - Quel hors-la-loi, né en 1847, fut avec son frère Frank l'un des plus célèbres pilleurs de trains et de banques de l'Ouest américain ?
+culture_g_score: 67
+culture_g_justification: "Hors-la-loi mythifié de l’Ouest américain, régulièrement associé aux gangs, aux braquages et à sa mort provoquée par Robert Ford."
 ---
-
 ![Image de Jesse James](https://upload.wikimedia.org/wikipedia/commons/2/22/Jesse_james_portrait.jpg)
 
 ###### Questions

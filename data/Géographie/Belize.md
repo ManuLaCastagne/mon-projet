@@ -24,8 +24,9 @@ indice_6 :
   - la barrière de corail du Belize
 questions:
  - Quel pays d'Amérique Central a pour capitale Belmopan ?
+culture_g_score: 72
+culture_g_justification: "Petit État d’Amérique centrale très rentable grâce à son héritage britannique, sa barrière de corail et les Mayas."
 ---
-
 ![Image de Belize](https://upload.wikimedia.org/wikipedia/commons/0/09/Hypericum_terrae-firmae_Belize.jpg)
 
 ![[Carte_Belize.png]]

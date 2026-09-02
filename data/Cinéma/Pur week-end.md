@@ -22,8 +22,9 @@ indice_6 :
   - bande-annonce
 questions:
  - En 2007, quel film, avec Bruno Solo et Kad Merad, met en scène un groupe d'amis dont le séjour à la montagne se transforme en cavale?
+culture_g_score: 20
+culture_g_justification: "Référence télévisuelle française très secondaire, susceptible de produire peu de questions généralistes indépendantes."
 ---
-
 ![Image de Pur week-end](https://upload.wikimedia.org/wikipedia/commons/6/6e/Aviation_Week_1923-03-05.djvu)
 
 ###### Questions

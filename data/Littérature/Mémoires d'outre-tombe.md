@@ -22,9 +22,9 @@ indice_6 :
   - XIXe siècle
 questions:
  - Autobiographie en quatre parties, m'achevant par   "Il ne me reste qu'à m'asseoir  "au bord de ma fosse,  "après quoi je descendrai  "dans l'éternité." C'est Chateaubriand.
+culture_g_score: 80
+culture_g_justification: "Grande œuvre autobiographique de Chateaubriand, exploitable en littérature, romantisme, Révolution, Empire et histoire politique."
 ---
-
-
 ![Image de Mémoires d'outre-tombe](https://upload.wikimedia.org/wikipedia/commons/4/4f/M%C3%A9moires_d%27Outre-Tombe.png)
 
 ###### Questions

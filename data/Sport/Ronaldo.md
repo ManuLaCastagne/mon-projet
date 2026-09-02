@@ -20,8 +20,9 @@ indice_6 :
   - Manchester United
 questions:
  - Attaquant brésilien qui a joué au PSV Eindhoven, à l'Inter Milan, au Real Madrid...
+culture_g_score: 97
+culture_g_justification: "Immense figure du football mondial, exploitable à travers les Coupes du monde, le Ballon d’or, ses clubs, ses blessures et son surnom Il Fenomeno."
 ---
-
 ![Image de Ronaldo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Argentine_-_Portugal_-_Cristiano_Ronaldo.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Galata
 indice_6 : 
   - Corne d'Or
+culture_g_score: 100
+culture_g_justification: "Ville mondiale incontournable, riche en angles historiques, religieux, architecturaux, géopolitiques et géographiques entre Europe et Asie."
 ---
-
 ![[Carte_Istanbul.png]]
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Peinture à l'huile
 indice_6 : 
   - Publicité
+culture_g_score: 43
+culture_g_justification: "Elvgren est une référence de l’illustration pin-up et de la culture visuelle américaine, mais son domaine reste étroit."
 ---
-
 ![Image de Gil Elvgren](https://upload.wikimedia.org/wikipedia/commons/b/bd/Gil_Elvgren_-_The_Verdict_Was%2C_Wow%21_-_1947.jpg)
 
 ###### Questions

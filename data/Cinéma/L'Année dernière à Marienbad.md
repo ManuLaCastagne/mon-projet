@@ -22,10 +22,9 @@ indice_6 :
   - mémoire et temps
 questions:
  - En 1961, dans quel film d'Alain Resnais les personnages joués par Delphine Seyrig et Giorgio Albertazzi sont-ils désignés par les lettres A et X ?
+culture_g_score: 67
+culture_g_justification: "Film important de la modernité cinématographique, ouvrant sur Resnais, Robbe-Grillet, Venise, la mémoire et l'avant-garde."
 ---
-
-
-
 ![Image de L'Année dernière à Marienbad](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tables_%28la_premi%C3%A8re_des_noms_des_auteurs%2C_et_la_seconde_des_mati%C3%A8res%29_des_th%C3%A8ses_soutenues_%C3%A0_la_Facult%C3%A9_de_M%C3%A9decine_de_Paris%2C_pendant_l%27ann%C3%A9e_scolaire_1887-1888_%28IA_BIUSante_90973x1887_1888%29.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - spéculation sociale
 questions:
  - Quelle série, créée en 2011, et dont le titre évoque l'écran d'une télévision ou d'un smartphone, dénonce l'addiction aux nouvelles technologies?
+culture_g_score: 80
+culture_g_justification: "Série contemporaine devenue une référence sur la technologie, la dystopie, Netflix et la narration interactive."
 ---
-
 ![Image de Black Mirror](https://upload.wikimedia.org/wikipedia/commons/d/db/Black_Mirror_logo.svg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Annonay
 questions:
  - En 1783, quel industriel et inventeur français invente avec son frère Etienne le ballon à air chaud?
+culture_g_score: 76
+culture_g_justification: "Joseph Montgolfier est fréquemment associé à l’invention de la montgolfière, mais les questions restent centrées sur cet épisode."
 ---
-
 ![Image de Joseph Montfgolfier]()
 
 ###### Questions

@@ -4,6 +4,8 @@ tags:
   - XXIe
   - Années_2010
 date: 2018
+culture_g_score: 44
+culture_g_justification: "Terme courant de psychologie et de langage, mais son intérêt anatomique et quizique reste limité."
 ---
 ###### Questions 
 

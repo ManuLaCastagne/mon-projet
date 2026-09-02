@@ -18,8 +18,9 @@ indice_5 :
   - César du meilleur film
 indice_6 : 
   - Comédie dramatique française
+culture_g_score: 40
+culture_g_justification: "Film apprécié et récompensé du cinéma français récent, mais encore peu présent dans les quiz généralistes."
 ---
-
 ![Image de Les Combattants]()
 
 ###### Questions

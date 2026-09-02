@@ -24,13 +24,9 @@ indice_6 :
   - séismes fréquents
 questions:
  - Bordée au nord et au sud par la Turquie, sur laquelle se trouve une partie  de la ville d'Istanbul, je suis…
+culture_g_score: 60
+culture_g_justification: "Mer intérieure stratégique de Turquie, utile pour les détroits, Istanbul et la géopolitique, mais de portée moyenne."
 ---
-
-
-
-
-
-
 ![Image de Mer de Marmara](https://upload.wikimedia.org/wikipedia/commons/4/42/1915_-_Carte_pour_suivre_les_op%C3%A9rations_militaires_Dardanelles%2C_Mer_de_Marmara_et_Bosphore.jpg)
 
 ![[Carte_Mer de Marmara.png]]

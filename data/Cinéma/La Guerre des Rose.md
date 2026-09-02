@@ -18,6 +18,8 @@ indice_5:
   - Comédie noire
 indice_6:
   - Maison luxueuse
+culture_g_score: 60
+culture_g_justification: "Comédie noire connue pour son trio d'acteurs et sa guerre conjugale, mais moins essentielle que les grands classiques américains."
 ---
 ![[Pasted image 20260113162521.png]]
 ###### Questions

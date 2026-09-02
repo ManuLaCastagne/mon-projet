@@ -22,8 +22,9 @@ indice_6 :
   - Empire romain
 questions:
  - En 2021, dans l'album de BD "L'Oeil du Minotaure", de quel héros gaulois créé par Jacques Martin en 1948...
+culture_g_score: 76
+culture_g_justification: "Alix est un classique de la bande dessinée historique, particulièrement utile pour croiser Antiquité romaine, Jacques Martin et franco-belge."
 ---
-
 ![Image de Alix (bande dessinée)](https://upload.wikimedia.org/wikipedia/commons/a/aa/Bd_comic_strip_festivaL20230909_163742_Alix_Garin.jpg)
 
 ###### Questions

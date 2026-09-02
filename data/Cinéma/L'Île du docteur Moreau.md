@@ -22,8 +22,9 @@ indice_6 :
   - monstres
 questions:
  - En 1977, quel film fantastique de Don Taylor avec Michael York, Burt Lancaster est tiré d'un roman de H.G. Welles ?
+culture_g_score: 52
+culture_g_justification: "Adaptation connue de H. G. Wells surtout pour son tournage chaotique et Marlon Brando, mais peu importante comme œuvre."
 ---
-
 ![Image de L'Île du docteur Moreau](https://upload.wikimedia.org/wikipedia/commons/a/a3/Wells_Ile_du_Docteur_Moreau_1896.djvu)
 
 ###### Questions

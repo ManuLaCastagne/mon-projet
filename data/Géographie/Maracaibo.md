@@ -24,8 +24,9 @@ indice_6 :
   - pétrole
 questions:
  - Sous quel nom connaît-on la vaste lagune vénézuélienne...
+culture_g_score: 40
+culture_g_justification: "Grande ville vénézuélienne associée au lac et au pétrole, mais référence relativement secondaire des quiz francophones."
 ---
-
 ![Image de Maracaibo](https://upload.wikimedia.org/wikipedia/commons/b/b4/Fishmonger_smiling%2C_Maracaibo_street_market%2C_Venezuela.jpg)
 
 ![[Carte_Maracaibo.png]]

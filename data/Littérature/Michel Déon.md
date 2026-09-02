@@ -21,8 +21,9 @@ indice_5:
   - Auteur de la Nouvelle Revue française
 indice_6:
   - Évasion et voyage
+culture_g_score: 51
+culture_g_justification: "Écrivain des Hussards et membre de l’Académie française, mais moins fréquent et moins structurant que les grands romanciers français."
 ---
-
 ![Image de Michel Déon](https://upload.wikimedia.org/wikipedia/commons/c/c8/Michel_D%C3%A9on_au_salon_du_livre_de_Paris_2012.jpg)
 
 ###### Questions

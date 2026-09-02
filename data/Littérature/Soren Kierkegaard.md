@@ -22,8 +22,9 @@ indice_6 :
   - Critique de l'église établie
 questions:
  - Quel philosophe danois, auteur du "Journal d'un séducteur" en 1843, est considéré comme l'inspirateur du courant existentialiste ?
+culture_g_score: 72
+culture_g_justification: "Philosophe fondateur de l’existentialisme, régulièrement relié à l’angoisse, au désespoir et à Sartre."
 ---
-
 ![Image de Soren Kierkegaard](https://upload.wikimedia.org/wikipedia/commons/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg)
 
 ###### Questions

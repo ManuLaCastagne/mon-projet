@@ -22,9 +22,9 @@ indice_6 :
   - duo célèbre
 questions:
  - J'évoque sur une mélodie douce et sensuelle les sujets du racisme et de la haine. Comprenant des paroles en français, en anglais et en wolof, chantée en duo par Neneh Cherry et Youssou N'Dour, mon titre fait allusion...
+culture_g_score: 60
+culture_g_justification: "Tube international de Youssou N’Dour et Neneh Cherry, régulièrement identifiable en quiz musical mais avec peu d’enjeux transversaux."
 ---
-
-
 ![Image de 7 seconds](https://upload.wikimedia.org/wikipedia/commons/4/40/Seven_Seconds_On_The_Future_Loop_%287%29.jpg)
 
 ###### Questions

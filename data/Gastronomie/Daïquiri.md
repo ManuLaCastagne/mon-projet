@@ -3,6 +3,8 @@ tags:
   - Gastronomie
   - États-Unis
   - Cuba
+culture_g_score: 73
+culture_g_justification: "Cocktail mondialement reconnu, relié à Cuba, au rhum et à l'histoire des boissons, donc régulièrement exploitable."
 ---
 ###### Questions 
 

@@ -22,8 +22,9 @@ indice_6 :
   - Actrice et réalisatrice
 questions:
  - En 2019, à quelle cinéaste et actrice, auteure 8 ans auparavant de "La guerre est déclarée", vous l'avez? Doit-on le film "Notre Dame"?
+culture_g_score: 52
+culture_g_justification: "Réalisatrice française associée à La guerre est déclarée et à des films récents, mais encore modérément fréquente dans les quiz généralistes."
 ---
-
 ![Image de Valérie Donzelli](https://upload.wikimedia.org/wikipedia/commons/b/b8/Val%C3%A9rie_Donzelli.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - archipel Ogasawara
 questions:
  - En février 1945, quelle île située au nord des Mariannes, fut défendue jusqu'au dernier homme par les Japonais ?
+culture_g_score: 76
+culture_g_justification: "Île rendue célèbre par une bataille emblématique et une photographie de la Seconde Guerre mondiale, avec des angles surtout historiques."
 ---
-
 ![Image de Iwo Jima](https://upload.wikimedia.org/wikipedia/commons/9/9b/Raising_the_Flag_on_Iwo_Jima%2C_larger.jpeg)
 
 ![[Carte_Iwo Jima.png]]

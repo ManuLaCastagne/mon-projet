@@ -22,9 +22,9 @@ indice_6 :
   - Karen Blixen
 questions:
  - Dans quel récit de Karen Blixen, se déroulant en Sport/Norvège, une cuisinière française offre-t-elle un somptueux repas aux habitants d'un village ?
+culture_g_score: 60
+culture_g_justification: "Œuvre de Karen Blixen connue aussi par son adaptation oscarisée, mais moins incontournable que les grands classiques littéraires."
 ---
-
-
 ![Image de Festin de Babette](https://upload.wikimedia.org/wikipedia/commons/3/3a/Gabriel_Axel_%281959%29.jpg)
 
 ###### Questions

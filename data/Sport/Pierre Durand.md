@@ -20,11 +20,9 @@ indice_6 :
   - Saut d'obstacles
 questions:
  - En 1988, quel cavalier français a été sacré champion olympique avec Jappeloup ?
+culture_g_score: 60
+culture_g_justification: "Sa victoire olympique avec Jappeloup est mémorable et quizable, mais son champ d’utilisation reste essentiellement équestre."
 ---
-
-
-
-
 ![Image de Pierre Durand](https://upload.wikimedia.org/wikipedia/commons/f/f9/Pierre_Durand_-_Grosbois2016_-_01.jpg)
 
 ###### Questions

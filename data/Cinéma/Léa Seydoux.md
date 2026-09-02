@@ -22,8 +22,9 @@ indice_6 :
   - actrice française
 questions:
  - En 2015, dans le film 007 "Spectre", quelle actrice française...
+culture_g_score: 64
+culture_g_justification: "Actrice française internationale associée à James Bond, Tarantino, La Vie d’Adèle et plusieurs repères cinématographiques contemporains."
 ---
-
 ![Image de Léa Seydoux](https://upload.wikimedia.org/wikipedia/commons/0/08/L%C3%A9a_Seydoux_2024_%28cropped2%29.jpg)
 
 ###### Questions

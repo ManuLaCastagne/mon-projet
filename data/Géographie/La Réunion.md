@@ -22,8 +22,9 @@ indice_5 :
   - Grand Raid de La Réunion
 indice_6 : 
   - Vanilla Bourbon
+culture_g_score: 80
+culture_g_justification: "Département et île française connus pour leurs volcans, leurs reliefs, l’outre-mer et le Grand Raid, La Réunion offre de nombreux angles de quiz."
 ---
-
 ![[Carte_La Réunion.png]]
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5 :
   - Thomaskirche
 indice_6 : 
   - Gewandhaus
+culture_g_score: 72
+culture_g_justification: "Leipzig est liée à Bach, Wagner, aux guerres napoléoniennes, à l’histoire allemande et à la vie culturelle, ce qui la rend assez transversale."
 ---
-
 ![[Carte_Leipzig.png]]
 
 ###### Questions

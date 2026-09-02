@@ -19,8 +19,9 @@ indice_5 :
   - startup française
 indice_6 : 
   - solution numérique
+culture_g_score: 32
+culture_g_justification: "Entreprise française emblématique des start-up et des titres-restaurants, mais encore peu fréquente dans la culture générale classique."
 ---
-
 ![Image de Swile](https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_Swile.svg)
 
 ###### Questions

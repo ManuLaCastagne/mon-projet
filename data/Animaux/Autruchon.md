@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de vitesse
 questions:
  - Comment appelle-t-on le petit de l'autruche?
+culture_g_score: 20
+culture_g_justification: "Nom du petit de l'autruche, correspondant presque exclusivement à une question de vocabulaire animalier."
 ---
-
 ![Image de Autruchon](https://upload.wikimedia.org/wikipedia/commons/6/60/Autruchon_Eyquem.jpg)
 
 ###### Questions

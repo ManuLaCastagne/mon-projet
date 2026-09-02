@@ -22,8 +22,9 @@ indice_6:
   - Prix littéraires
 questions:
   - Quel quotidien du soir fut fondé par Hubert Beuve-Méry en 1944 ?
+culture_g_score: 80
+culture_g_justification: "Quotidien français de référence, régulièrement cité dans les quiz sur la presse, la politique, les affaires et l’actualité."
 ---
-
 ![Image de Le Monde (journal)](https://upload.wikimedia.org/wikipedia/commons/7/77/Le_Monde_illustr%C3%A9_bpt6k6248727b_16.jpg)
 
 ###### Questions

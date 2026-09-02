@@ -18,10 +18,9 @@ indice_6 :
   - couronne du Double Royaume
 questions:
  - Je suis considéré comme le premier ancêtre du pharaon qui porte mon nom durant plus de 3 000 ans. Dieu égyptien représenté avec une tête de faucon…
+culture_g_score: 88
+culture_g_justification: "Divinité égyptienne fondamentale, associée au pharaon, à Isis et Osiris, à Seth et à l'œil Oudjat."
 ---
-
-
-
 ![Image de Horus](https://upload.wikimedia.org/wikipedia/commons/c/c2/Horus_standing.svg)
 
 ###### Questions

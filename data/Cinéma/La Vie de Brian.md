@@ -22,8 +22,9 @@ indice_6 :
   - Always Look on the Bright Side of Life
 questions:
  - En 1980, quelle comédie des Monty Python retrace les péripéties d'un homme né le même jour que Jésus?
+culture_g_score: 80
+culture_g_justification: "Satire majeure des Monty Python, fréquemment citée pour la religion, la comédie britannique, la censure et sa chanson finale."
 ---
-
 ![Image de La Vie de Brian](https://upload.wikimedia.org/wikipedia/commons/c/ca/Brian_Pallister_-_2019_%2848002323306%29_%28cropped%29.jpg)
 
 ###### Questions

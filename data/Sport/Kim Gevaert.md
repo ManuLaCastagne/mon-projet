@@ -20,8 +20,9 @@ indice_6 :
   - Dix-sept médailles
 questions:
  - En 2006, quelle athlète belge réalise un doublé en remportant le 100 m et le 200 m lors des championnats d'Europe de Goteborg?
+culture_g_score: 44
+culture_g_justification: "Sprinteuse belge titrée au niveau européen, mais connaissance assez spécialisée et peu transversale en quiz généraliste."
 ---
-
 ![Image de Kim Gevaert](https://upload.wikimedia.org/wikipedia/commons/9/9d/Kim_Gevaert_28.JPG)
 
 ###### Questions

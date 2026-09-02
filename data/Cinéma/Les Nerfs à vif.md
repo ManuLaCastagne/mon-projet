@@ -20,8 +20,9 @@ indice_5 :
   - Max Cady
 indice_6 : 
   - Martin Scorsese
+culture_g_score: 60
+culture_g_justification: "Thriller connu grâce à Scorsese, De Niro, son remake et ses nominations, mais moins incontournable que ses œuvres majeures."
 ---
-
 ![Image de Les Nerfs à vif](https://upload.wikimedia.org/wikipedia/commons/e/eb/LL-Q150_%28fra%29-LoquaxFR-avoir_les_nerfs_%C3%A0_vif.wav)
 
 ###### Questions

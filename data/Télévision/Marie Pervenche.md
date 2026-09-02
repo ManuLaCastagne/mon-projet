@@ -20,8 +20,9 @@ indice_6 :
   - humour et quiproquos
 questions:
  - Comprenant dans mon premier générique les mots "un papillon par-ci, par-là dans le vent", je raconte les aventures d'une employée de la préfecture de police de Paris. Série dans laquelle Danièle Evenou...
+culture_g_score: 40
+culture_g_justification: "Série française nostalgique, identifiable par un public averti mais assez rarement interrogée hors des quiz sur la télévision des années 1980."
 ---
-
 ![Image de Marie Pervenche](https://upload.wikimedia.org/wikipedia/commons/6/64/Pervenche_de_Madagascar-Jardin_botanique_Jean-Marie_Pelt_%283%29.jpg)
 
 ###### Questions

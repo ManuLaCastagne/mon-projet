@@ -20,8 +20,9 @@ indice_6:
   - Club révolutionnaire
 questions:
   - En 1790 en France, quel club révolutionnaire est fondé par Danton sous le nom de Société des Amis des droits de l'homme et du citoyen? (Il y a les Club des Montagnards, les Club des Jacobins, les Club des Girondins…)
+culture_g_score: 60
+culture_g_justification: "Club révolutionnaire important et lié à Danton, mais généralement moins central dans les quiz que les Jacobins et les Girondins."
 ---
-
 ![Image de Club des Cordeliers](https://upload.wikimedia.org/wikipedia/commons/6/6e/Club_des_Cordeliers%2C_aujourd%27hui_Mus%C3%A9e_Dupuytren.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_6 :
   - îles enchantées
 questions:
  - Quels démons marins femelles, représentés sous forme d'oiseau ou de poisson…
+culture_g_score: 96
+culture_g_justification: "Créatures universellement célèbres, les Sirènes permettent des questions très fréquentes sur l’Odyssée, les monstres, les représentations artistiques et les confusions culturelles."
 ---
-
 ![Image de Sirènes](https://upload.wikimedia.org/wikipedia/commons/c/c3/Pentatonik_in_Debussy_Trois_Nocturnes%2C_Nuages.svg)
 
 ###### Questions

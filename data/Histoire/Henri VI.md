@@ -18,8 +18,9 @@ indice_5:
   - Bataille de Saint-Albans
 indice_6:
   - fils de Henri V
+culture_g_score: 67
+culture_g_justification: "Roi au destin exceptionnel entre France, Angleterre et guerre des Deux-Roses, mais moins mémorable et moins fréquent qu'Henri V ou Henri VIII."
 ---
-
 ![Image de Henri VI](https://upload.wikimedia.org/wikipedia/commons/9/90/Infante_Jaime_de_Borb%C3%B3n%2C_Duque_de_Segovia.jpg)
 
 ###### Questions

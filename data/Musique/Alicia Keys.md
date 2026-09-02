@@ -22,8 +22,9 @@ indice_6 :
   - Songs in A Minor est son premier album
 questions:
  - En 2002, quelle chanteuse, interprète de "Girl on fire", a écrit le titre "Impossible" pour Christina Aguilera?
+culture_g_score: 67
+culture_g_justification: "Alicia Keys est une chanteuse populaire associée à plusieurs tubes, albums et récompenses, avec une fréquence moyenne dans les quiz."
 ---
-
 ![Image de Alicia Keys](https://upload.wikimedia.org/wikipedia/commons/2/2a/AliciaKeys2013.jpg)
 
 ###### Questions

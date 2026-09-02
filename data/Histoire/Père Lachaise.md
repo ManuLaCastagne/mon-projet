@@ -20,9 +20,9 @@ indice_6 :
   - monument historique
 questions:
  - Et favorisé son mariage avec Madame de Maintenon.  Possédant une maison dont le domaine fut étendu et converti en 1884 en un célèbre cimetière parisien…
+culture_g_score: 84
+culture_g_justification: "Cimetière parisien emblématique, fréquemment associé à de nombreuses personnalités artistiques et historiques."
 ---
-
-
 ![Image de Père Lachaise](https://upload.wikimedia.org/wikipedia/commons/a/ad/Pere_lachaise_detail.jpg)
 
 ###### Questions

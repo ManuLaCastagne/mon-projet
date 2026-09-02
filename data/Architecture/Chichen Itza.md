@@ -21,8 +21,9 @@ indice_6:
   - cénotées
 questions:
   - C'est le temple pyramide de Kukulcan. Dans quelle cité maya...
+culture_g_score: 80
+culture_g_justification: "Grand site maya très fréquent dans les quiz sur les civilisations précolombiennes, l’archéologie, l’astronomie et les merveilles du monde."
 ---
-
 ![Image de Chichen Itza](https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg)
 
 ![[Carte_Chichen Itza.png]]

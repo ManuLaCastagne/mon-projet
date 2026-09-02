@@ -20,8 +20,9 @@ indice_6 :
   - AIDS activism
 questions:
  - Quel joueur de tennis américain, disparu en 1993, a laissé son nom au court central du tournoi de Flushing Meadows?
+culture_g_score: 80
+culture_g_justification: "Grand champion de tennis et figure des droits civiques, fréquemment exploitable dans des questions sportives et historiques."
 ---
-
 ![Image de Arthur Ashe](https://upload.wikimedia.org/wikipedia/commons/6/60/Arthur_Ashe_%28cropped%29.jpg)
 
 ###### Questions

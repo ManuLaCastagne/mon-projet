@@ -20,8 +20,9 @@ indice_6 :
   - Championnats du Monde
 questions:
  - En 2021, sport, quel skieur français a remporté le classement général de la Coupe du monde? (il a remporté le classement général de Coupe du monde, ce qui n'était pas arrivé depuis Luc Alphand et Jean-Claude Killy donc on est quand même avec des monstres !)
+culture_g_score: 60
+culture_g_justification: "Skieur français de premier plan, utile pour les questions sur la Coupe du monde, les Jeux d’hiver et le ski alpin contemporain."
 ---
-
 ![Image de Alexis Pinturault](https://upload.wikimedia.org/wikipedia/commons/1/1f/Alexis_Pinturault_Grandvalira_2023_SL_1st_run_%287%29.jpg)
 
 ###### Questions

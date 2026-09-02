@@ -22,8 +22,9 @@ indice_6 :
   - opéra
 questions:
  - En 1984, quel film de Milos Forman évoque la personnalité et la vie de Mozart, au cours du XVIIIe siècle?
+culture_g_score: 80
+culture_g_justification: "Film oscarisé et très classique, à la croisée du cinéma, de la musique, de l’histoire et de la figure de Mozart."
 ---
-
 ![Image de Amadeus](https://upload.wikimedia.org/wikipedia/commons/7/76/Amadeus_%28ship%2C_1910%29%2C_S%C3%A8te_cf01.jpg)
 
 ###### Questions

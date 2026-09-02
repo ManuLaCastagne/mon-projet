@@ -18,8 +18,9 @@ indice_5 :
   - marié à Marie de Bourgogne
 indice_6 : 
   - surnommé le dernier chevalier
+culture_g_score: 67
+culture_g_justification: "Empereur des Habsbourg utile pour les mariages dynastiques, la Renaissance et la formation de la puissance habsbourgeoise."
 ---
-
 ![Image de Maximilien Ier](https://upload.wikimedia.org/wikipedia/commons/9/94/Maximilien_Ier_Bernhard_Strigel.jpg)
 
 ###### Questions

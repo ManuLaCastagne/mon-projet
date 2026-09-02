@@ -18,9 +18,9 @@ indice_5 :
   - Dessinateur
 indice_6 : 
   - BD Franco-Belge
+culture_g_score: 60
+culture_g_justification: "Dessinateur d’Astérix depuis 2013, identifiable grâce à une franchise très fréquente, mais restant une figure contemporaine spécialisée."
 ---
-
-
 ![Image de Didier Conrad](https://upload.wikimedia.org/wikipedia/commons/8/81/Didier_Conrad_-_Lucca_Comics_%26_Games_2015.JPG)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_6 :
   - péché et punition
 questions:
  - Sur quelle autre ville, située au sud de la mer Morte, Dieu fait-il "pleuvoir du soufre et du feu" en guise de châtiment ?
+culture_g_score: 76
+culture_g_justification: "Référence biblique très connue, utile pour les récits religieux, la mer Morte et l’histoire ancienne, mais avec peu d’angles indépendants."
 ---
-
 ![Image de Gomorrhe](https://upload.wikimedia.org/wikipedia/commons/3/38/Recueil._%22Sodome_et_Gomorrhe%22_de_Jean_Giraudoux_-_btv1b10516042z_%2844_of_75%29.jpg)
 
 ###### Questions

@@ -13,9 +13,9 @@ indice_5:
   - Cygne tuberculé
 indice_6:
   - Symbole de pureté et de grâce
+culture_g_score: 84
+culture_g_justification: "Oiseau universellement reconnaissable, fortement présent dans la musique, la littérature, le ballet, les mythes et les expressions culturelles."
 ---
-
-
 ![Image de Cygne](https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg)
 
 ###### Questions

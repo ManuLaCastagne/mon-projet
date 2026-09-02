@@ -21,9 +21,9 @@ indice_5:
   - La flamme d'une chandelle
 indice_6:
   - Rêveries poétiques
+culture_g_score: 68
+culture_g_justification: "Philosophe des sciences et penseur de l’imaginaire, utile pour relier épistémologie, poésie, phénoménologie et culture intellectuelle française."
 ---
-
-
 ![Image de Gaston Bachelard](https://upload.wikimedia.org/wikipedia/commons/1/1d/Gaston_Bachelard.jpg)
 
 ###### Questions

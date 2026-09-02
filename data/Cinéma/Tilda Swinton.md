@@ -22,8 +22,9 @@ indice_6 :
   - actrice caméléon
 questions:
  - En 2020, quelle actrice, à l'affiche de 4 films de Jim Jarmusch dont "Broken Flowers", a reçu le Lion d'or de la...
+culture_g_score: 68
+culture_g_justification: "Actrice reconnue aux choix éclectiques, exploitable via Orlando, l'Oscar, Wes Anderson et les grandes franchises contemporaines."
 ---
-
 ![Image de Tilda Swinton](https://upload.wikimedia.org/wikipedia/commons/c/ca/Viennale_2018_Suspiria_14_Tilda_Swinton.jpg)
 
 ###### Questions

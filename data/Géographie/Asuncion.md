@@ -22,8 +22,9 @@ indice_5 :
   - Ñandutí
 indice_6 : 
   - Palacio de los López
+culture_g_score: 57
+culture_g_justification: "Capitale du Paraguay utile pour la géographie sud-américaine et l’histoire coloniale, mais peu transversale."
 ---
-
 ![Image de Asuncion](https://upload.wikimedia.org/wikipedia/commons/2/23/Asuncion_Montage.jpg)
 
 ![[Carte_Asuncion.png]]

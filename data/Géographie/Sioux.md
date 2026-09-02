@@ -25,8 +25,9 @@ indice_6 :
   - Tipis
 questions:
  - Peuple indien des grandes plaines d'Amérique du Nord, je compte environ 100 000 individus et me répartit en 43 groupes   santee, tetons, yankton.
+culture_g_score: 80
+culture_g_justification: "Peuple autochtone majeur de l’histoire nord-américaine, lié aux guerres, aux traités et aux Black Hills."
 ---
-
 ![Image de Sioux](https://upload.wikimedia.org/wikipedia/commons/2/22/Sioux_Indians_MET_DP115231.jpg)
 
 ![[Carte_Sioux.png]]

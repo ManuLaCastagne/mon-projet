@@ -22,8 +22,9 @@ indice_6 :
   - Germinal
 questions:
  - Quel cinéaste a réalisé le diptyque "Jean de Florette", "Manon des Sources" ?
+culture_g_score: 80
+culture_g_justification: "Figure très rentable du cinéma français grâce à Jean de Florette, Manon des Sources, la production et l’Oscar du Poulet."
 ---
-
 ![Image de Claude Berri](https://upload.wikimedia.org/wikipedia/commons/b/b7/Claude_Berri_1993.jpg)
 
 ###### Questions

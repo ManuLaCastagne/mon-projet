@@ -22,8 +22,9 @@ indice_6 :
   - Années 1950
 questions:
  - Personnage imaginé en 1946, je suis un ecclésiastique aux prises avec le maire communiste de mon village, interprété par Gino Cervi ?
+culture_g_score: 73
+culture_g_justification: "Personnage et série de films très ancrés dans la culture populaire francophone, avec des liens utiles entre cinéma, littérature et société italienne."
 ---
-
 ![Image de Don Camillo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Don_Camillo_und_Peppone_at_Theater_Purkersdorf_-_20.jpg)
 
 ###### Questions

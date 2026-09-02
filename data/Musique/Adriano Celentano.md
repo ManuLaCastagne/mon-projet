@@ -20,10 +20,9 @@ indice_5:
   - mélange de rock et musique italienne
 indice_6:
   - star du Sanremo Festival
+culture_g_score: 55
+culture_g_justification: "Celentano est une figure majeure de la culture populaire italienne, mais ses apparitions dans les quiz francophones restent occasionnelles."
 ---
-
-
-
 ![Image de Adriano Celentano](https://upload.wikimedia.org/wikipedia/commons/c/c1/Adriano_Celentano_1970.png)
 
 ###### Questions

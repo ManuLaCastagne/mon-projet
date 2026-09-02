@@ -20,8 +20,9 @@ indice_5:
   - scandale de dopage
 indice_6:
   - piste de bobsleigh
+culture_g_score: 60
+culture_g_justification: "Jeux d’hiver régulièrement cités pour le scandale du patinage artistique et leur contexte post-11 septembre, sans être une édition incontournable."
 ---
-
 ![Image de Salt Lake City 2002](https://upload.wikimedia.org/wikipedia/commons/d/d8/Andrea_Nahrgang_2002_Winter_Olympics.jpg)
 
 ###### Questions

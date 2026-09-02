@@ -20,8 +20,9 @@ indice_6 :
   - juriste et homme politique influent
 questions:
  - Quel légiste de Philippe IV le Bel, mort en 1313, a joué un rôle actif dans la disparition de l'ordre des Templiers?
+culture_g_score: 47
+culture_g_justification: "Conseiller important de Philippe le Bel, mais principalement utile pour quelques questions spécialisées sur Boniface VIII et les Templiers."
 ---
-
 ![Image de Guillaume de Nogaret](https://upload.wikimedia.org/wikipedia/commons/5/5f/Capitole_Toulouse_-_Grand_escalier_-_Guillaume_de_Nogaret.jpg)
 
 ###### Questions

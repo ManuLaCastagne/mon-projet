@@ -22,8 +22,9 @@ indice_6 :
   - aristocrate française d'origine russe
 questions:
  - A partir de 1856, quelle femme de lettres d'origine russe a publié à près de 60 ans ses 1ers ouvrages, comme "Les Petites Filles modèles"?
+culture_g_score: 80
+culture_g_justification: "La Comtesse de Ségur est une figure durable de la littérature jeunesse, fréquemment associée aux Malheurs de Sophie et à la Bibliothèque rose."
 ---
-
 ![Image de La Comtesse de Ségur](https://upload.wikimedia.org/wikipedia/commons/6/69/Comtesse_de_S%C3%A9gur_Jean_Boucher_Jardin_Luxembourg.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Son vrai nom était Doroteo Arango
 questions:
  - En 1910, quel révolutionnaire du Mexique recrute une armée de cavaliers surnommés les Dorados pour combattre la dictature de Porfirio Diaz ?
+culture_g_score: 72
+culture_g_justification: "Grande figure de la Révolution mexicaine, exploitable en histoire américaine, politique, armée et cinéma, mais moins fréquente en francophonie que les dirigeants mondiaux."
 ---
-
 ![Image de Pancho Villa](https://upload.wikimedia.org/wikipedia/commons/d/df/Pancho_villa_horseback.jpg)
 
 ###### Questions

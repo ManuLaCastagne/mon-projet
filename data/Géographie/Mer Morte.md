@@ -23,10 +23,9 @@ indice_6 :
   - évaporation importante
 questions:
  - Quelle mer fermée, située à la frontière entre Israël et la Jordanie se caractérise...
+culture_g_score: 93
+culture_g_justification: "Lieu mondialement célèbre pour sa salinité et son altitude, mobilisable en géographie, religion, histoire et environnement."
 ---
-
-
-
 ![Image de Mer Morte](https://upload.wikimedia.org/wikipedia/commons/f/fe/Saint-%C3%89tienne-de-Mer-Morte_-_Clocher_%26_%C3%A9glise.jpg)
 
 ![[Carte_Mer Morte.png]]

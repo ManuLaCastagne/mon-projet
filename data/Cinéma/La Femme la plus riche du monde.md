@@ -18,7 +18,8 @@ indice_5:
   - Empire cosmétique
 indice_6:
   - Actions L'Oréal
-culture_g_score: 21
+culture_g_score: 20
+culture_g_justification: "Production de 2025 inspirée d'une affaire connue, mais trop récente et trop peu établie pour être rentable dans un entraînement généraliste."
 ---
 ![Image de La Femme la plus riche du monde]()
 

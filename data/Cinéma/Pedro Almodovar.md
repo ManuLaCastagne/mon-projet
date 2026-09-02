@@ -22,8 +22,9 @@ indice_6 :
   - mélodrame
 questions:
  - En 2020, lors de la cérémonie des Goya, l'équivalent espagnol de nos Cinéma/César, quel cinéaste a reçu notamment le prix du meilleur réalisateur et du meilleur film pour "Douleur et gloire" ?
+culture_g_score: 80
+culture_g_justification: "Figure majeure du cinéma espagnol, régulièrement reliée aux Oscars, à Cannes, à ses actrices et à plusieurs films devenus classiques."
 ---
-
 ![Image de Pedro Almodovar](https://upload.wikimedia.org/wikipedia/commons/0/05/Pedro_Almod%C3%B3var_1988.jpg)
 
 ###### Questions

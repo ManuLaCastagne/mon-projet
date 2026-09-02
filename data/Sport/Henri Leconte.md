@@ -20,8 +20,9 @@ indice_6 :
   - Yannick Noah
 questions:
  - En 1984, c'est du sport, avec quel joueur Yannick Noah a-t-il remporté le double messieurs des Internationaux de France...
+culture_g_score: 60
+culture_g_justification: "Joueur français connu pour Roland-Garros 1988, Wimbledon et la Coupe Davis, mais dont la portée reste surtout centrée sur le tennis."
 ---
-
 ![Image de Henri Leconte](https://upload.wikimedia.org/wikipedia/commons/7/7f/Henri_Leconte_%287490786630%29.jpg)
 
 ###### Questions

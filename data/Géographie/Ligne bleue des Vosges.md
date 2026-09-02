@@ -25,8 +25,9 @@ indice_6 :
   - forêts denses
 questions:
  - Quelle expression faisant allusion au massif vosgien, est employée par Histoire/Jules Ferry pour parler de la frontière franco-allemande ?
+culture_g_score: 40
+culture_g_justification: "Expression patriotique liée à l’Alsace-Lorraine, intéressante en histoire française mais rarement demandée hors de quelques questions spécialisées."
 ---
-
 ![Image de Ligne bleue des Vosges](https://upload.wikimedia.org/wikipedia/commons/6/6c/Ligne_bleue_des_Vosges.jpg)
 
 ![[Carte_Ligne bleue des Vosges.png]]

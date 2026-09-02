@@ -20,8 +20,9 @@ indice_5 :
   - The Grand Budapest Hotel
 indice_6 : 
   - Thor Ragnarok
+culture_g_score: 73
+culture_g_justification: "Acteur immédiatement associé à Jurassic Park, Independence Day et La Mouche, avec une forte rentabilité dans les quiz de cinéma populaire."
 ---
-
 ![Image de Jeff Goldblum](https://upload.wikimedia.org/wikipedia/commons/0/09/Jeff_Goldblum_and_the_Mildred_Snitzer_Orchestra_West_Holts_Stage_Glastonbury_Festival_2019_-004.jpg)
 
 ###### Questions

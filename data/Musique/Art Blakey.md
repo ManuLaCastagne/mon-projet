@@ -20,8 +20,9 @@ indice_5:
   - Formation de nombreux jeunes talents
 indice_6:
   - Album Moanin'
+culture_g_score: 51
+culture_g_justification: "Art Blakey est un grand nom du jazz, principalement interrogé à travers les Jazz Messengers et ses musiciens associés."
 ---
-
 ![Image de Art Blakey](https://upload.wikimedia.org/wikipedia/commons/a/ac/Art_Blakey_and_the_Jazz_Messengers_in_the_Kurzaal_Concert_Hall_in_Den_Haag%2C_30.03.1963_-_10.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Anciennement connue sous le nom de Reval
 indice_6 : 
   - Centre historique classé au patrimoine mondial de l'UNESCO
+culture_g_score: 72
+culture_g_justification: "Capitale européenne intéressante par son patrimoine médiéval, son histoire estonienne, ses transports et ses festivals."
 ---
-
 ![Image de Tallinn](https://upload.wikimedia.org/wikipedia/commons/b/b7/Catedral_de_Alejandro_Nevsky%2C_Tallin%2C_Estonia%2C_2012-08-11%2C_DD_46.JPG)
 
 ![[Carte_Tallinn.png]]

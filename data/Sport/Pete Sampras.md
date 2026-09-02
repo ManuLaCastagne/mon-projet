@@ -20,8 +20,9 @@ indice_6 :
   - Service-volée
 questions:
  - Surnommé Pistol Pete, j'ai remporté 14 tournois du Grand Chelem.
+culture_g_score: 80
+culture_g_justification: "Grand champion de tennis souvent interrogé pour ses records, ses titres du Grand Chelem et sa rivalité avec Agassi."
 ---
-
 ![Image de Pete Sampras](https://upload.wikimedia.org/wikipedia/commons/8/8f/Pete_Sampras_%282008%29_1%2C_cropped.jpg)
 
 ###### Questions

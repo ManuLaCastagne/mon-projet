@@ -18,8 +18,9 @@ indice_5 :
   - Michel-Ange
 indice_6 : 
   - imprimerie
+culture_g_score: 100
+culture_g_justification: "Période fondamentale reliant arts, littérature, sciences, imprimerie, humanisme, histoire européenne et grandes figures culturelles."
 ---
-
 ![Image de Renaissance](https://upload.wikimedia.org/wikipedia/commons/f/f2/Sandro_Botticelli_046.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Compagnon fidèle dans la littérature et les arts
 questions:
  - Quelle maladie du muscle cardiaque, dite dilatée ou hypertrophique, qui peut toucher les chiens et les chats?
+culture_g_score: 24
+culture_g_justification: "Terme médical vétérinaire précis, principalement utile dans des questions spécialisées sur les maladies cardiaques animales."
 ---
-
 ![Image de Cardiomyopathie](https://upload.wikimedia.org/wikipedia/commons/1/1e/Idiopathic_cardiomyopathy%2C_gross_pathology_20G0018_lores.jpg)
 
 ###### Questions

@@ -18,11 +18,9 @@ indice_5:
   - Les Regrets
 indice_6:
   - l'Anjou
+culture_g_score: 60
+culture_g_justification: "Poète classique de la Pléiade, du Bellay est régulièrement associé aux Regrets et à la Défense de la langue française, avec une portée surtout littéraire."
 ---
-
-
-
-
 ![Image de Joachim du Bellay](https://upload.wikimedia.org/wikipedia/commons/a/a8/Joachim_du_Bellay_%281522-1560%29.jpg)
 
 ###### Questions

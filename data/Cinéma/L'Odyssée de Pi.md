@@ -20,8 +20,9 @@ indice_5:
   - bateau de sauvetage
 indice_6:
   - illusion et survie
+culture_g_score: 80
+culture_g_justification: "Succès international oscarisé, reliant Ang Lee, Yann Martel, l'Inde, le naufrage, les effets spéciaux et la littérature contemporaine."
 ---
-
 ![Image de Odyssée de Pi](https://upload.wikimedia.org/wikipedia/commons/9/94/Life_of_Pi._The_Pi_is_lonely._%288286241999%29.jpg)
 
 ###### Questions

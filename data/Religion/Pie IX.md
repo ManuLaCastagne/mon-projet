@@ -18,8 +18,9 @@ indice_5 :
   - Gian Maria Mastai-Ferretti
 indice_6 : 
   - Quanta Cura
+culture_g_score: 64
+culture_g_justification: "Pie IX est un pape historiquement important grâce à l'Immaculée Conception, Vatican I et la question des États pontificaux."
 ---
-
 ![Image de Pie IX](https://upload.wikimedia.org/wikipedia/commons/c/ca/17-08-07-Metro-Montreal-RalfR-DSC_3356.jpg)
 
 ###### Questions

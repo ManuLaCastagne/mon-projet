@@ -20,6 +20,8 @@ indice_5:
   - voyage interstellaire
 indice_6:
   - mystérieux signal
+culture_g_score: 47
+culture_g_justification: "Film de science-fiction récent identifiable par Brad Pitt et James Gray, mais encore peu classique dans les quiz."
 ---
 ![[Pasted image 20260804075041.png]]
 ###### Questions

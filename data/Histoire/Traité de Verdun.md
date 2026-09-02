@@ -18,6 +18,8 @@ indice_5:
   - Charlemagne
 indice_6:
   - Francs
+culture_g_score: 77
+culture_g_justification: "Repère fondamental de la formation politique de la France et de la division de l’Empire carolingien."
 ---
 ![France Image](https://upload.wikimedia.org/wikipedia/commons/2/28/Homme_statue_-_214.jpg)
 

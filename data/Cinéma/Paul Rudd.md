@@ -20,8 +20,9 @@ indice_5:
   - Scott Lang
 indice_6:
   - Clueless
+culture_g_score: 60
+culture_g_justification: "Sa présence dans Ant-Man et Friends le rend très reconnaissable, mais son importance culturelle et sa fréquence restent inférieures à celles des grandes vedettes historiques."
 ---
-
 ![Image de Paul Rudd](https://upload.wikimedia.org/wikipedia/commons/a/a6/Paul_Rudd%2C_Andres_Useche.jpg)
 
 ###### Questions

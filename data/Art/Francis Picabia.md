@@ -23,9 +23,9 @@ indice_6 :
   - Photomontage
 questions:
  - A quel peintre français de père cubain, proche du mouvement dada, doit-on le tableau "Danse de Saint-Guy" ?
+culture_g_score: 67
+culture_g_justification: "Picabia est une figure importante de Dada et des avant-gardes, mais ses références restent moins accessibles que celles de Duchamp ou Picasso."
 ---
-
-
 ![Image de Francis Picabia](https://upload.wikimedia.org/wikipedia/commons/e/e1/Francis_Picabia%2C_photograph_published_in_Les_Peintres_Cubistes%2C_1913.jpg)
 
 ###### Questions

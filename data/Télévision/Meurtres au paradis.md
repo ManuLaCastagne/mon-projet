@@ -20,8 +20,9 @@ indice_6:
   - soleil et plage
 questions:
   - En 2020, dans quelle série ayant pour cadre une île des Caraïbes l'inspecteur Neville Parker a-t-il remplacé l'inspecteur Jack Mooney?
+culture_g_score: 52
+culture_g_justification: "Série policière britannique durablement populaire, mais généralement limitée à quelques questions sur ses personnages et son décor caribéen."
 ---
-
 ![Image de Meurtres au paradis](https://upload.wikimedia.org/wikipedia/commons/c/c1/Discovrs_fait_av_roy_par_Mathavlt%2C_n%27aguieres_venu_de_Paradis._Au_Louure%2C_le_premier_iour_d%27Auril%2C_1605_..._%28IA_discovrsfaitavro00math%29.pdf)
 
 ###### Questions

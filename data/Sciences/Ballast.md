@@ -3,6 +3,8 @@ tags:
   - Sciences
   - XIXe
 date: 1840
+culture_g_score: 44
+culture_g_justification: "Terme technique connu dans les transports et la marine, mais rarement traité en dehors de questions de définition."
 ---
 ###### Questions 
 

@@ -24,9 +24,9 @@ indice_6 :
   - Monaco
 questions:
  - Quel terme italien désigne le littoral s'étendant entre Nice et la frontière italienne ?
+culture_g_score: 72
+culture_g_justification: "La Riviera est une région touristique et culturelle très connue, exploitable par la géographie, le tourisme, l’art et l’histoire mondaine."
 ---
-
-
 ![Image de Riviera](https://upload.wikimedia.org/wikipedia/commons/0/03/RIVIERA_CAMPECHE.pdf)
 
 ![[Carte_Riviera.png]]

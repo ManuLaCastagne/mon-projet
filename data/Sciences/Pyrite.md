@@ -20,8 +20,9 @@ indice_6 :
   - Cristaux jaunes
 questions:
  - Quel est ce minéral dont le nom vient du grec signifiant feu qui est parfois surnommé l'or des fous car les prospecteurs...
+culture_g_score: 64
+culture_g_justification: "Minéral célèbre par son surnom d’or des fous, avec quelques liens utiles à la géologie, la chimie, l’histoire et l’industrie."
 ---
-
 ![Image de Pyrite](https://upload.wikimedia.org/wikipedia/commons/9/91/Pyrite_-_Huanzala_mine%2C_Huallanca%2C_Bolognesi%2C_Ancash%2C_Peru.jpg)
 
 ###### Questions

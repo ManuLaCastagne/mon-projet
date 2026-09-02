@@ -22,8 +22,9 @@ indice_6 :
   - Années 1940
 questions:
  - Film français sorti en 2004 et récompensé en 2005 par les Cinéma/César de la meilleure musique et du meilleur son, j'ai été inspiré à mon réalisateur par le film "La cage aux rossignols".
+culture_g_score: 73
+culture_g_justification: "Succès majeur du cinéma français, fréquemment lié à la musique, aux enfants, aux César et au phénomène populaire du film."
 ---
-
 ![Image de Les Choristes](https://upload.wikimedia.org/wikipedia/commons/0/0a/Degas-Les_Choristes.jpg)
 
 ###### Questions

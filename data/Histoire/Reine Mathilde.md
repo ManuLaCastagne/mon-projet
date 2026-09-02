@@ -20,9 +20,9 @@ indice_6 :
   - couronne aristocratique anglaise
 questions:
  - A quelle reine d'Angleterre doit-on la tapisserie de Bayeux en 1053 ?
+culture_g_score: 63
+culture_g_justification: "Reine associée à Guillaume le Conquérant, à la conquête normande et à la tapisserie de Bayeux."
 ---
-
-
 ![Image de Reine Mathilde](https://upload.wikimedia.org/wikipedia/commons/a/a5/Paris_Jardins_Luxembourg_Reine_Mathilde_2014.jpg)
 
 ###### Questions

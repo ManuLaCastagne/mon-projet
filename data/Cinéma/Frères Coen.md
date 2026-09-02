@@ -22,7 +22,8 @@ indice_6 :
   - Joel
 questions:
  - A quels frères cinéastes  doit-on les films "The Big Lebowski", "Burn after reading" et "Ave, Cesar" ?
-culture_g_score: 80
+culture_g_score: 100
+culture_g_justification: "Duo incontournable du cinéma américain, associé à de nombreux classiques, genres, récompenses et collaborations."
 ---
 ![Image de Frères Coen](https://upload.wikimedia.org/wikipedia/commons/d/d8/Coen_Brothers_-_Movies_1984-2009.jpg)
 

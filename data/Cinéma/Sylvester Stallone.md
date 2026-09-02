@@ -17,9 +17,9 @@ indice_5:
   - Cobra
 indice_6:
   - Demolition Man
+culture_g_score: 96
+culture_g_justification: "Figure mondiale du cinéma populaire, immédiatement associée aux franchises Rocky et Rambo, à l’écriture, à la réalisation et à la culture des années 1980."
 ---
-
-
 ![Image de Sylvester Stallone](https://upload.wikimedia.org/wikipedia/commons/c/c2/Flickr_-_nicogenin_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29_-_Sylvester_Stallone_%2826%29.jpg)
 
 ###### Questions

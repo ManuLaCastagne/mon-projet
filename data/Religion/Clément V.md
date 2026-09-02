@@ -18,9 +18,9 @@ indice_5 :
   - Ordre des Templiers
 indice_6 : 
   - Première papauté d'Avignon
+culture_g_score: 67
+culture_g_justification: "Figure importante de la papauté d’Avignon et de la suppression des Templiers, avec plusieurs liens historiques mais une notoriété modérée."
 ---
-
-
 ![Image de Clément V](https://upload.wikimedia.org/wikipedia/commons/8/89/Cl%C3%A9ment_V_Rome_biblioth%C3%A8que_Palatine.jpg)
 
 ###### Questions

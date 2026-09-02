@@ -18,9 +18,9 @@ indice_5 :
   - Purusharthas
 indice_6 : 
   - Plaisir
+culture_g_score: 48
+culture_g_justification: "Notion hindoue réelle mais relativement spécialisée, principalement interrogée avec les purusharthas et le Kama-Sutra."
 ---
-
-
 ![Image de Kama](https://upload.wikimedia.org/wikipedia/commons/b/bd/Kama_River._Nizhnekamsk_Hydroelectric_Station._Gateway_canal_P6211279_2575.jpg)
 
 ###### Questions

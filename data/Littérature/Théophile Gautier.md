@@ -22,8 +22,9 @@ indice_6 :
   - critique d'art
 questions:
  - Vers le milieu du 19e siècle, quel écrivain français a publié "Constantinople" et "Le Roman de la momie" ?
+culture_g_score: 67
+culture_g_justification: "Auteur romantique et parnassien associé à l'art pour l'art, à Émaux et Camées et à Mademoiselle de Maupin, avec plusieurs angles littéraires."
 ---
-
 ![Image de Théophile Gautier](https://upload.wikimedia.org/wikipedia/commons/a/a9/Plaque_Th%C3%A9ophile_Gautier%2C_8_place_des_Vosges.JPG)
 
 ###### Questions
