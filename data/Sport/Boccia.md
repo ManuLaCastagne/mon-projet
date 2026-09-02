@@ -28,12 +28,7 @@ culture_g_justification: "Sport paralympique original et utile à connaître, ma
 
 ###### Questions
 
-Quel sport, inclus dans les [[Jeux Paralympiques]] depuis [[1984]], est pratiqué par des athlètes ayant un handicap moteur important? <!-- score: 5 -->
-
-Quel sport de précision, jouable en individuel ou en équipe, a été inventé dans l'Italie du 4ème siècle avant notre ère mais est devenu une discipline paralympique moderne?
-
 Quel jeu de balles, souvent comparé à la pétanque, a vu sa popularité croître grâce à sa présence aux [[Jeux Paralympiques]] et se joue sur un terrain rectangulaire?
-
 ###### Description
 
 La [[Boccia]] est un sport de précision semblable à la pétanque, qui se pratique principalement à l'intérieur et s'adresse aux personnes atteintes de handicaps physiques, notamment dans le cadre des compétitions paralympiques. Bien que ses origines remontent à la [[Grèce antique]], le sport tel qu'il est connu aujourd'hui a été officiellement intégré aux [[Jeux paralympiques]] en 1984 à [[New York]]. 
