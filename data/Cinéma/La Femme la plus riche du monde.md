@@ -1,24 +1,24 @@
 ---
-tags: 
+tags:
   - Cinéma
   - None
   - Années_1980
   - XXe
-debut: 
-fin: 
-indice_1 : 
+debut:
+fin:
+indice_1:
   - Françoise Bettencourt Meyers
-indice_2 : 
+indice_2:
   - L'Oréal
-indice_3 : 
+indice_3:
   - Héritière
-indice_4 : 
+indice_4:
   - Fortune
-indice_5 : 
+indice_5:
   - Empire cosmétique
-indice_6 : 
+indice_6:
   - Actions L'Oréal
-culture_g_score: 11
+culture_g_score: 21
 ---
 ![Image de La Femme la plus riche du monde]()
 
