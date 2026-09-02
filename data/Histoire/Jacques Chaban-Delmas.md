@@ -23,11 +23,12 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Résistant, maire de Bordeaux, Premier ministre et candidat présidentiel, il possède plusieurs ancrages mais reste une figure secondaire du grand public."
 ---
+
 ![Image de Jacques Chaban-Delmas](https://upload.wikimedia.org/wikipedia/commons/4/43/Jacques_Chaban-Delmas.jpg)
 
 ###### Questions
 
-Quel homme politique français, connu pour avoir été [[Premier ministre]] de 1969 à 1972 sous la présidence de [[Georges Pompidou]], a également été un résistant actif pendant la [[Seconde Guerre mondiale]] et a pris le pseudonyme de commandant [[Chaban]] ?
+Quel homme politique français, connu pour avoir été [[Premier ministre]] de 1969 à 1972 sous la présidence de [[Georges Pompidou]], a également été un résistant actif pendant la [[Seconde Guerre mondiale]] et a pris le pseudonyme de commandant [[Chaban]] ? <!-- score: 7 -->
 
 Quel ancien maire de [[Bordeaux]], en fonction de 1947 à 1995, a joué un rôle déterminant dans le développement urbain de la ville et était aussi un membre influent de l'[[Assemblée nationale française]] pendant plus de cinq décennies ?
 
