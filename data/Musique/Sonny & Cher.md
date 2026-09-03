@@ -25,11 +25,12 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Sonny & Cher permettent des questions sur la pop des années 1960, la télévision américaine, « I Got You Babe » et la carrière politique de Sonny Bono."
 ---
+
 ![Image de Sonny & Cher](https://upload.wikimedia.org/wikipedia/commons/8/87/Sonny_%26_Cher_1973.JPG)
 
 ###### Questions
 
-Quel célèbre duo formé par [[Sonny Bono]] et [[Cher]] a connu un immense succès avec le tube "[[I Got You Babe]]" en 1965 ?
+Quel célèbre duo formé par [[Sonny Bono]] et [[Cher]] a connu un immense succès avec le tube "[[I Got You Babe]]" en 1965 ? <!-- score: 9 -->
 
 Quel duo musical des années 1960 composé d'un couple marié a animé leur propre émission de télévision, "[[The Sonny & Cher Comedy Hour]]", débutant en 1971 ?
 
