@@ -23,13 +23,14 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Pilote et fondateur de McLaren, il relie Formule 1, ingénierie, entrepreneuriat et histoire du sport automobile."
 ---
+
 ![Image de Bruce McLaren](https://upload.wikimedia.org/wikipedia/commons/c/cc/McLarenBruce19690801.jpg)
 
 ###### Questions
 
 Quel pilote de course néo-zélandais a fondé l'écurie de [[Formule 1]] qui a remporté son premier Grand Prix en [[1966]] ? 
 
-Qui est le plus jeune pilote à avoir remporté une course de [[Grand Prix]] de Formule 1 à l'âge de 22 ans et 104 jours lors du [[Grand Prix des États-Unis]] en [[1959]] ? 
+Qui est le plus jeune pilote à avoir remporté une course de [[Grand Prix]] de Formule 1 à l'âge de 22 ans et 104 jours lors du [[Grand Prix des États-Unis]] en [[1959]] ? <!-- score: 4 -->
 
 Quelle légende du sport automobile, décédée en [[1970]] lors d'un accident sur le circuit de [[Goodwood]], a laissé un héritage durable dans le monde de la [[Formule 1]] grâce à l'écurie qui porte encore son nom aujourd'hui ?
 
