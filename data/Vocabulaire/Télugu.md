@@ -16,6 +16,7 @@ indice_6 :
   - Kuchipudi
 ---
 
+
 ![Image de Télugu](https://upload.wikimedia.org/wikipedia/commons/5/5d/Telugu.svg)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quelle est la langue parlée principalement dans l'État indien de [[l'Andhra Pr
 
 Quelle langue, écrite avec un alphabet du même nom, est utilisée par une communauté notable en [[Telangana]] et dans certaines régions du [[Tamil Nadu]] ?
 
-Quelle langue dravidienne est l'une des langues officielles de l'[[Inde]] et possède une riche tradition littéraire avec des œuvres remontant au XIᵉ siècle ?
+Quelle langue dravidienne est l'une des langues officielles de l'[[Inde]] et possède une riche tradition littéraire avec des œuvres remontant au XIᵉ siècle ? <!-- score: 4 -->
 
 ###### Description
 
