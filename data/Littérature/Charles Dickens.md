@@ -1,35 +1,34 @@
 ---
-tags: 
+tags:
   - Littérature
   - Charles_Dickens
   - Londres
   - Années_1830
+  - Certifié
 date:
   - 1812/02/07
 debut: 1812
 fin: 1870
-indice_1 : 
+indice_1:
   - Oliver Twist
-indice_2 : 
+indice_2:
   - Londres victorienne
-indice_3 : 
+indice_3:
   - David Copperfield
-indice_4 : 
+indice_4:
   - Époque victorienne
-indice_5 : 
+indice_5:
   - Un conte de deux villes
-indice_6 : 
+indice_6:
   - Grand écrivain anglais
-questions:
- - Quel écrivain anglais auteur de "David Copperfield", a laissé inachevé celui intitulé "Le Mystère d'Edwin Drood" ?
 culture_g_score: 100
-culture_g_justification: "Figure incontournable de la littérature mondiale, associée à de nombreux romans, personnages, enjeux sociaux et repères de l’époque victorienne."
+culture_g_justification: Figure incontournable de la littérature mondiale, associée à de nombreux romans, personnages, enjeux sociaux et repères de l’époque victorienne.
 ---
 ![Image de Charles Dickens](https://upload.wikimedia.org/wikipedia/commons/b/b0/Bust_of_Charles_Dickens_by_Giovanni_Fontana.jpg)
 
 ###### Questions
 
-Quel auteur célèbre, né en 1812, a failli être salarié d'une usine de cirage à l'âge de 12 ans à cause de la dette de son père ? 
+Quel écrivain anglais auteur de "David Copperfield", a laissé inachevé celui intitulé "Le Mystère d'Edwin Drood" ?
 
 Quel écrivain a créé un personnage appelé [[Tiny Tim]] dans son ouvrage publié pour la première fois en 1843, afin de sensibiliser à la pauvreté et aux inégalités sociales de l'époque victorienne ? 
 
