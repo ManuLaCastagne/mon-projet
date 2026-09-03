@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Frises/Scores Culture G.base",
+                "file": "Géographie/Kyoto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,13 +175,14 @@
             "id": "ba4d54f4a77e7b4b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Frises/Scores Culture G.base",
-                "viewName": "Tableau"
+                "file": "Géographie/Kyoto.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Scores Culture G"
+              "icon": "lucide-file",
+              "title": "Kyoto"
             }
           }
         ],
@@ -308,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frises/Scores Culture G.base",
+                "file": "Géographie/Kyoto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -332,8 +333,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,8 +350,10 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
-    "Histoire/JF Kennedy.md",
+    "Géographie/parc Maruyama.md",
+    "Géographie/Kyoto.md",
     "Frises/Scores Culture G.base",
+    "Histoire/JF Kennedy.md",
     "Histoire/Kennedy.md",
     "Frises/Base de données n°1.base",
     "Géographie/Argentine.md",
@@ -376,8 +378,6 @@
     "Culture générale/Locomotive tchèque.md",
     "Anatomie/Creux poplité.md",
     "Culture générale/fleur des fleurs.md",
-    "Culture générale/Dana Zátopková.md",
-    "Culture générale/Black Jacques Brel.md",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",

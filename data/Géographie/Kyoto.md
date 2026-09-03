@@ -9,23 +9,20 @@ tags:
   - Kansai
   - Japon
   - Préfecture_de_Kyoto
-
-indice_1 : 
+indice_1:
   - Japon
-indice_2 : 
+indice_2:
   - ancienne capitale
-indice_3 : 
+indice_3:
   - temples bouddhistes
-indice_4 : 
+indice_4:
   - patrimoine mondial
-indice_5 : 
+indice_5:
   - fleur de cerisier
-indice_6 : 
+indice_6:
   - région du Kansai
-questions:
- - Au printemps,  dans quelle grande ville du Japon les habitants se réunissent-ils dans le parc Maruyama pour admirer les cerisiers en fleurs?
 culture_g_score: 100
-culture_g_justification: "Ancienne capitale impériale, haut lieu du patrimoine japonais et nom d’un protocole international, Kyoto est exceptionnellement rentable en culture générale."
+culture_g_justification: Ancienne capitale impériale, haut lieu du patrimoine japonais et nom d’un protocole international, Kyoto est exceptionnellement rentable en culture générale.
 ---
 
 
@@ -35,6 +32,8 @@ culture_g_justification: "Ancienne capitale impériale, haut lieu du patrimoine 
 ###### Questions
 
 Dans quelle ville se trouve l'ancienne capitale impériale du Japon qui fut le centre culturel et politique du pays jusqu'en 1868 ?
+
+Au printemps, dans quelle grande ville du Japon les habitants se réunissent-ils dans le [[parc Maruyama]] pour admirer les cerisiers en fleurs ?
 
 Quelle ville abrite le célèbre [[Kinkaku-ji]], aussi connu sous le nom de [[Pavillon d'Or]], un temple bouddhiste construit en 1397 ?
 ###### Description
