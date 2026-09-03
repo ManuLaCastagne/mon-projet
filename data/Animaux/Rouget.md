@@ -18,11 +18,12 @@ questions:
 culture_g_score: 40
 culture_g_justification: "Poisson culinaire identifiable surtout dans le contexte méditerranéen, avec une fréquence de quiz modeste."
 ---
+
 ![Image de Rouget](https://upload.wikimedia.org/wikipedia/commons/c/c8/Rouget%2C_Georges%2C_par_Nadar%2C_BNF_Gallica.jpg)
 
 ###### Questions
 
-Quel poisson, souvent utilisé dans la cuisine méditerranéenne, est parfois appelé un "barbet" en raison de ses barbillons situés sous sa mâchoire inférieure ?
+Quel poisson, souvent utilisé dans la cuisine méditerranéenne, est parfois appelé un "barbet" en raison de ses barbillons situés sous sa mâchoire inférieure ? <!-- score: 5 -->
 
 Quel animal marin a été classé en 2011 comme espèce vulnérable par l'Union internationale pour la conservation de la nature à cause de sa surexploitation ?
 
