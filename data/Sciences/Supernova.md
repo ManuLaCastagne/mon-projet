@@ -23,6 +23,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Phénomène astronomique spectaculaire et classique, ouvrant sur l'évolution stellaire, l'histoire de l'observation et la cosmologie."
 ---
+
 ![Image de Supernova](https://upload.wikimedia.org/wikipedia/commons/d/d4/Keplers_supernova.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel phénomène astronomique, observé pour la première fois à l'œil nu en [
 
 Quel événement céleste exceptionnel visible en [[1987]], désigné sous le nom de [[SN 1987A]], a marqué la première observation de ce type de phénomène depuis l'invention du télescope?
 
-Quel processus cosmique implique une augmentation dramatique de la luminosité d'une étoile massive en fin de vie, comme ce fut le cas pour l'étoile [[Betelgeuse]], ce qui pourrait indiquer une "mort stellaire"?
+Quel processus cosmique implique une augmentation dramatique de la luminosité d'une étoile massive en fin de vie, comme ce fut le cas pour l'étoile [[Betelgeuse]], ce qui pourrait indiquer une "mort stellaire"? <!-- score: 6 -->
 
 ###### Description
 
