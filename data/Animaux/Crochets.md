@@ -1,28 +1,30 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+indice_1:
   - Oiseau
-indice_2 : 
+indice_2:
   - Ardeotis kori
-indice_3 : 
+indice_3:
   - Gruiformes
-indice_4 : 
+indice_4:
   - Afrique australe
-indice_5 : 
+indice_5:
   - Outarde kori
-indice_6 : 
+indice_6:
   - Symbole de liberté et de puissance
-questions:
- - Organe de certains ophidiens  dont sont dépourvues les espèces dites aglyphes, je peux être unique ou double, et suis situé à la partie antérieure ou postérieure du maxillaire. Rabattu en arrière au repos, je suis relié à des glandes à venin parfois très volumineuses par rapport à la taille de l'animal...
 culture_g_score: 27
-culture_g_justification: "Structures animales trop vagues et peu stabilisées comme sujet autonome, ce qui limite fortement leur fréquence et leur rendement."
+culture_g_justification: Structures animales trop vagues et peu stabilisées comme sujet autonome, ce qui limite fortement leur fréquence et leur rendement.
 ---
 ![Image de Crochets](https://upload.wikimedia.org/wikipedia/commons/f/f9/Leftie_crochet.jpg)
 
 ###### Questions
 
 Quel outil les [[geckos]] du Sud-Est asiatique utilisent-ils afin de grimper facilement aux parois lisses selon une étude de [[2002]] ?  
+
+De quel organe certains ophidiens sont dépourvues les espèces dites [[aglyphe]] ?
+
+Quel nom générique désigne la dent creuse des serpents venimeux, leur servant à injecter le venin ?
 
 Quelle structure originale est présente chez certaines espèces de serpents comme le [[boa constrictor]] et qui leur permet de s'agripper aux surfaces pour se déplacer, selon une observation détaillée en [[2005]] ?  
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/San Francisco.md",
+                "file": "Frises/Scores Culture G.base",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/San Francisco.md",
+                "file": "Géographie/Madère.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "San Francisco"
+              "title": "Madère"
             }
           },
           {
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -322,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie/San Francisco.md",
+                "file": "Frises/Scores Culture G.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -362,13 +362,19 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "ba4d54f4a77e7b4b",
+  "active": "b1baed5ddf7c43b2",
   "lastOpenFiles": [
+    "Culture générale/Sans titre.md",
+    "Frises/Scores Culture G.base",
+    "Géographie/Madère.md",
+    "Géographie/Funchal.md",
+    "Animaux/Crochets.md",
+    "Vocabulaire/aglyphe.md",
+    "Géographie/San Francisco.md",
     "Géographie/Norvège.md",
     "Sport/Jakob Ingebrigtsen.md",
     "Art/Edvard Munch.md",
     "Géographie/Kyoto.md",
-    "Frises/Scores Culture G.base",
     "Géographie/parc Maruyama.md",
     "Histoire/JF Kennedy.md",
     "Histoire/Kennedy.md",
@@ -385,13 +391,6 @@
     "Histoire/Alexandre Nevski.md",
     "Culture générale/Comité de salut public.md",
     "Sport/Ianis Hagi.md",
-    "Vocabulaire/Décolonisation.md",
-    "Culture générale/désert.md",
-    "Culture générale/Louis de Montalte.md",
-    "Religion/Golgotha.md",
-    "Culture générale/Maradona des Carpates.md",
-    "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
-    "Sport/Emil Zatopek.md",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",

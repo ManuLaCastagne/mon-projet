@@ -8,24 +8,21 @@ tags:
   - Géographie
   - Région_autonome_de_Madère
   - Portugal
-  - Pas_de_département_(Madère_est_une_région_autonome_et_n'a_pas_de_département)
-
-indice_1 : 
+  - Certifié
+indice_1:
   - île portugaise
-indice_2 : 
+indice_2:
   - Funchal
-indice_3 : 
+indice_3:
   - archipel dans l'océan Atlantique
-indice_4 : 
+indice_4:
   - climat subtropical
-indice_5 : 
+indice_5:
   - célèbre pour ses vins
-indice_6 : 
+indice_6:
   - montagnes et forêts verdoyantes
-questions:
- - De quel archipel portugais de l'Atlantique situé au large des côtes marocaines, la ville de Funchal en est la capitale ?
 culture_g_score: 64
-culture_g_justification: "Archipel connu pour Cristiano Ronaldo, Funchal, le vin, les fleurs et les découvertes portugaises, avec une fréquence quiz bonne mais ciblée."
+culture_g_justification: Archipel connu pour Cristiano Ronaldo, Funchal, le vin, les fleurs et les découvertes portugaises, avec une fréquence quiz bonne mais ciblée.
 ---
 ![Image de Madère](https://upload.wikimedia.org/wikipedia/commons/5/53/Muri%C3%B3n_%28Gymnothorax_unicolor%29%2C_Madeira%2C_Portugal%2C_2019-05-31%2C_DD_49.jpg)
 
@@ -33,6 +30,12 @@ culture_g_justification: "Archipel connu pour Cristiano Ronaldo, Funchal, le vin
 ###### Questions
 
 Dans quel territoire autonome du [[Portugal]] a été établie la première ligne de téléphérique en 1999, reliant Funchal à [[Monte]] ?
+
+De quel archipel est originaire [[Cristiano Ronaldo]] ?
+
+Quel archipel est situé à 100 km au nord des Canaries ?
+
+Quelle île appartenant au Portugal et ayant Funchal pour capitale a laissé son nom à un vin et à une sauce ?
 
 Quel archipel de l'[[océan Atlantique]] est reconnu comme étant le lieu de naissance du célèbre [[Football]]eur [[Cristiano Ronaldo]] en 1985 ? <!-- score: 4 -->
 
