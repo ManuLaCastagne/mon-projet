@@ -27,6 +27,7 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Toulon est un repère français utile pour la Marine nationale, la Méditerranée et la Provence, sans être une ville incontournable des quiz."
 ---
+
 ![Image de Toulon](https://upload.wikimedia.org/wikipedia/commons/a/ab/PlaceLiberteToulon.jpg)
 
 ![[Carte_Toulon.png]]
@@ -34,7 +35,7 @@ culture_g_justification: "Toulon est un repère français utile pour la Marine n
 
 Quelle ville française située sur la côte méditerranéenne abrite la base navale principale de la [[Marine nationale]] depuis 1774 ? <!-- score: 5 -->
 
-Quelle ville située dans la région [[Provence-Alpes-Côte d'Azur]] est reliée par [[autoroute A50]] à [[Marseille]] et joue un rôle clé dans la connexion entre la France et les îles de [[Corse]] ? <!-- score: 4 -->
+Quelle ville située dans la région [[Provence-Alpes-Côte d'Azur]] est reliée par [[autoroute A50]] à [[Marseille]] et joue un rôle clé dans la connexion entre la France et les îles de [[Corse]] ? <!-- score: 7 -->
 
 Dans quelle ville a été construite la célèbre [[Tour Royale]] au début du [[16ème siècle]], un édifice militaire destiné à protéger son port ? <!-- score: 5 -->
 ###### Description
