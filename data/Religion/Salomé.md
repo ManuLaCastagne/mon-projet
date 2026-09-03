@@ -23,11 +23,12 @@ questions:
 culture_g_score: 76
 culture_g_justification: "Salomé est une figure biblique très présente dans l’art, la littérature et l’imaginaire de la séduction, notamment grâce à Oscar Wilde."
 ---
-![Image de Salomé](https://upload.wikimedia.org/wikipedia/commons/6/6a/Popzangeres_Salome_zal_Spanje_vertegenwoordigen_op_Euro_Songfestival_in_Madrid%2C_Bestanddeelnr_922-1722.jpg)
+
+![Image de Salomé](https://upload.wikimedia.org/wikipedia/commons/6/6a/Popzangeres_Salome_zal_Spanje_vertegenwoordigen_op_Euro_Songfestival_in_Madrid%2C_Bestanddeelnr_922-1722.jpg)
 
 ###### Questions
 
-Dans le [[Nouveau Testament]], qui est la danseuse ayant demandé la tête de [[Jean le Baptiste]] sous l'influence de sa mère [[Hérodiade]] ?
+Dans le [[Nouveau Testament]], qui est la danseuse ayant demandé la tête de [[Jean le Baptiste]] sous l'influence de sa mère [[Hérodiade]] ? <!-- score: 4 -->
 
 Quelle figure biblique est devenue un symbole de séduction depuis le récit fait par [[Flavius Josèphe]] dans son œuvre « [[Antiquités juives]] » publiée en [[93]] ou [[94]] après Jésus-Christ ?
 
