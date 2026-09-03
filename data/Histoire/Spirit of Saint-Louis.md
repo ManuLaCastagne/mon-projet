@@ -21,6 +21,7 @@ indice_6:
 culture_g_score: 65
 culture_g_justification: "Nom emblématique de l’aviation grâce à l’exploit de Lindbergh, mais limité à quelques questions sur la traversée de l’Atlantique."
 ---
+
 ![Image de Spirit of Saint-Louis](https://upload.wikimedia.org/wikipedia/commons/5/59/Charles_Lindbergh_and_the_Spirit_of_Saint_Louis_%28Crisco_restoration%2C_with_wings%29.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel nom portait le petit avion à hélice à bord duquel Charles Lindbergh, év
 
 Quel est le nom de l'avion utilisé par [[Charles Lindbergh]] pour réaliser le premier vol transatlantique sans escale d'ouest en est en [[1927]] ? <!-- score: 3 -->
 
-Quelle est l'appellation du monoplan spécialement conçu pour traverser l'[[Atlantique]] sans escale, piloté par [[Charles Lindbergh]] lors de son vol historique de [[New York]] à [[Paris]] ?
+Quelle est l'appellation du monoplan spécialement conçu pour traverser l'[[Atlantique]] sans escale, piloté par [[Charles Lindbergh]] lors de son vol historique de [[New York]] à [[Paris]] ? <!-- score: 7 -->
 
 Comment s'appelle l'appareil qui a décollé de [[Roosevelt Field]] à [[Long Island]] et a atterri au [[Bourget]] en mai [[1927]], marquant un exploit dans l'aviation ?
 
