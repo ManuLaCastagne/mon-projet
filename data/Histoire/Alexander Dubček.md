@@ -23,22 +23,23 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Figure emblématique du Printemps de Prague, il relie guerre froide, communisme et réformes politiques, avec une fréquence classique mais non constante."
 ---
-![Image de Alexander Dubček](https://upload.wikimedia.org/wikipedia/commons/c/c2/Alexander_Dub%C4%8Dek%2C_1990_%28color%29.png)
+
+![Image de Alexander Dubček](https://upload.wikimedia.org/wikipedia/commons/c/c2/Alexander_Dub%C4%8Dek%2C_1990_%28color%29.png)
 
 ###### Questions
 
 Quel homme politique tchécoslovaque a dirigé la tentative de libéralisation du printemps de [[Prague]] en [[1968]] ?  
 
-Qui a été démis de ses fonctions en [[1969]] à la suite de l'invasion des troupes du [[Pacte de Varsovie]] en [[Tchécoslovaquie]] ?  
+Qui a été démis de ses fonctions en [[1969]] à la suite de l'invasion des troupes du [[Pacte de Varsovie]] en [[Tchécoslovaquie]] ? <!-- score: 2 -->
 
 Quel leader réformiste a été écarté de la scène politique après avoir tenté d'instaurer le « socialisme à visage humain » ?
 
 ###### Description
 
-[[Alexander Dubček]] était une figure emblématique du Printemps de Prague, un mouvement de réforme politique en [[Tchécoslovaquie]] en 1968, visant à instaurer le "socialisme à visage humain". 
+[[Alexander Dubček]] était une figure emblématique du Printemps de Prague, un mouvement de réforme politique en [[Tchécoslovaquie]] en 1968, visant à instaurer le "socialisme à visage humain". 
 
-Né en 1921, [[Dubček]] a passé une partie de son enfance en [[Union soviétique]], une expérience marquante qui l'a fortement influencé dans sa vision politique.
+Né en 1921, [[Dubček]] a passé une partie de son enfance en [[Union soviétique]], une expérience marquante qui l'a fortement influencé dans sa vision politique.
 
-Un fait étonnant sur [[Dubček]] est qu'il a survécu à un grave accident de voiture en 1992, non seulement choisissant de rester en [[Slovaquie]] même après sa réhabilitation politique, mais également devenant président du parlement fédéral peu de temps avant le démantèlement du pays en 1992.
+Un fait étonnant sur [[Dubček]] est qu'il a survécu à un grave accident de voiture en 1992, non seulement choisissant de rester en [[Slovaquie]] même après sa réhabilitation politique, mais également devenant président du parlement fédéral peu de temps avant le démantèlement du pays en 1992.
 
 Il est décédé la même année, le 7 novembre, peu avant la dissolution officielle de la [[Tchécoslovaquie]], marquant la fin d'une époque pour un homme ayant tant œuvré pour la réforme dans son pays natal.
