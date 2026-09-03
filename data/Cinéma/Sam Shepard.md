@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 67
 culture_g_justification: "Dramaturge récompensé par le Pulitzer et acteur reconnu, intéressant à l'intersection du théâtre, du cinéma et de la littérature américaine."
 ---
+
 ![Image de Sam Shepard](https://upload.wikimedia.org/wikipedia/commons/b/b2/Sam_Shepard_Stealth_crop.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel acteur a été nominé pour l'[[Oscar]] du meilleur acteur dans un second r
 
 Quel dramaturge a écrit la pièce célèbre intitulée "[[Buried Child]]" qui a remporté le [[Prix Pulitzer]] en [[1979]], avant de se faire un nom en tant qu'acteur ?
 
-Quel acteur et scénariste a collaboré en [[1984]] avec [[Robert Altman]] pour l'adaptation cinématographique de la pièce "[[Fool for Love]]", qu'il avait également écrite ?
+Quel acteur et scénariste a collaboré en [[1984]] avec [[Robert Altman]] pour l'adaptation cinématographique de la pièce "[[Fool for Love]]", qu'il avait également écrite ? <!-- score: 2 -->
 
 ###### Description
 
