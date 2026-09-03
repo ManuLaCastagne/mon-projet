@@ -25,6 +25,7 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Tragédie universelle de Shakespeare, incontournable pour ses personnages, son intrigue, ses thèmes, ses citations et sa réception théâtrale."
 ---
+
 ![Image de Macbeth](https://upload.wikimedia.org/wikipedia/commons/2/2d/Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel [[drame]] de [[William Shakespeare]], écrit autour de 1606, présente le t
 
 Quelle pièce, jouée pour la première fois en 1606, est connue pour sa malédiction dans le monde du théâtre, où certains acteurs évitent même de prononcer son nom?
 
-Dans quel [[tragédie]] shakespearienne, publiée dans le [[First Folio]] de 1623, trouve-t-on les personnages de [[Lady Macbeth]] et les célèbres [[trois sorcières]]?
+Dans quel [[tragédie]] shakespearienne, publiée dans le [[First Folio]] de 1623, trouve-t-on les personnages de [[Lady Macbeth]] et les célèbres [[trois sorcières]]? <!-- score: 9 -->
 
 ###### Description
 
