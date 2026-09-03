@@ -26,16 +26,13 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Le Douanier Rousseau est une référence classique de la peinture naïve, des jungles imaginaires et de l'art moderne français."
 ---
+
+
 ![Image de Douanier Rousseau](https://upload.wikimedia.org/wikipedia/commons/4/40/Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg)
 
 ###### Questions
 
-En quelle année [[Douanier Rousseau]] a-t-il exposé pour la première fois ses œuvres au [[Salon des Indépendants]] ?
-
 Quel ancien fonctionnaire des douanes a créé le célèbre tableau intitulé [[Le Rêve]] en 1910 ?
-
-Quel peintre autodidacte français a vu ses œuvres influencées par ses visites fréquentes au [[Jardin des Plantes]] à Paris ?
-
 ###### Description
 
 [[Henri Rousseau]], souvent appelé le [[Douanier Rousseau]], est un peintre français autodidacte né en 1844, qui est célèbre pour ses œuvres au style naïf et ses jungles exotiques. 
