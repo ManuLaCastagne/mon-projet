@@ -25,11 +25,12 @@ questions:
 culture_g_score: 89
 culture_g_justification: "Auteur incontournable de la science-fiction grâce à Fahrenheit 451, avec de nombreux liens vers la dystopie, l’anticipation et le cinéma."
 ---
+
 ![Image de Ray Bradbury](https://upload.wikimedia.org/wikipedia/commons/6/69/Ray_Bradbury_%281975%29_-cropped-.jpg)
 
 ###### Questions
 
-Quel auteur de science-fiction a brûlé son propre roman [[Fahrenheit 451]] dans un four à pizza pour tester sa résistance au feu en 1953 ?
+Quel auteur de science-fiction a brûlé son propre roman [[Fahrenheit 451]] dans un four à pizza pour tester sa résistance au feu en 1953 ? <!-- score: 4 -->
 
 Quel célèbre écrivain, né en 1920 et auteur de la nouvelle « Un coup de tonnerre », est considéré comme un pionnier de l'usage du voyage dans le temps dans la littérature ?
 ###### Description
