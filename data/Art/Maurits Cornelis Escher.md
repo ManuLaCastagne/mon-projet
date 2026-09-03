@@ -26,16 +26,17 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Escher est une référence très rentable grâce à ses illusions d'optique, ses œuvres célèbres, les mathématiques, la géométrie et les arts graphiques."
 ---
+
+
 ![Image de Maurits Cornelis Escher](https://upload.wikimedia.org/wikipedia/commons/b/be/Ambigram_Escher_and_tessellation_background_-_photomontage_with_reversible_hands.jpg)
 
 ###### Questions
 
-Dans quelle œuvre de [[Maurits Cornelis Escher]], publiée pour la première fois en 1960, peut-on observer une cascade d'eau illusoire formant un circuit perpétuel ?
+Qui a publié pour la première fois en 1960 une œuvre où l'on peut observer une cascade d'eau illusoire formant un circuit perpétuel ? <!-- score: 5 -->
 
 Quel artiste néerlandais, reconnu pour ses lithographies et gravures, a créé l'illustre œuvre intitulée [[Relativité]] en 1953, mettant en scène des escaliers défiant les lois de la gravité ?
 
 En 1935, quel artiste né aux [[Pays-Bas]] a conçu une illustration nommée [[Cycle]], qui représente des poissons et des oiseaux s'interpénétrant dans un motif récurrent ?
-
 ###### Description
 
 [[Maurits Cornelis Escher]], né en 1898 aux [[Pays-Bas]], est un artiste mondialement reconnu pour ses œuvres intrigantes de lithographies, gravures sur bois et mezzotintes. 
