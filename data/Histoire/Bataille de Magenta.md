@@ -21,13 +21,14 @@ indice_6:
 culture_g_score: 61
 culture_g_justification: "Bataille secondaire mais rentable grâce à ses liens avec l’unification italienne, la couleur magenta et la géographie parisienne."
 ---
+
 ![Image de Bataille de Magenta](https://upload.wikimedia.org/wikipedia/commons/f/fa/Napol%C3%A9on_III_et_l%27Italie_-_Gerolamo_Induno_-_La_bataille_de_Magenta_-_001.jpg)
 
 ###### Questions
 
 En juin 1859, durant la [[Campagne d'Italie]], quelle bataille les Français ont remporté sur les troupes autrichiennes ?
 
-Quel événement de [[1859]] a conduit à l'introduction d'un mot pour désigner une nouvelle teinture rouge-violet découverte après la [[bataille]] ?
+Quel événement de [[1859]] a conduit à l'introduction d'un mot pour désigner une nouvelle teinture rouge-violet découverte après la [[bataille]] ? <!-- score: 4 -->
 
 Quelle confrontation pendant la [[deuxième guerre d'indépendance italienne]] a vu les troupes [[françaises]] de [[Napoléon III]] et les forces [[sardes]] affronter l'armée [[autrichienne]] pour assurer la victoire contre l'[[Autriche]] ?
 
