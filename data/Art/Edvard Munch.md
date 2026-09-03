@@ -1,30 +1,28 @@
 ---
-tags: 
+tags:
   - Art
   - Norvège
   - Années_1890
   - XIXe
-  - QRDLL
+  - Certifié
 date:
   - 1863/12/12
 debut: 1863
 fin: 1944
-indice_1 : 
+indice_1:
   - Le Cri
-indice_2 : 
+indice_2:
   - expressionnisme
-indice_3 : 
+indice_3:
   - Norvège
-indice_4 : 
+indice_4:
   - La Madone
-indice_5 : 
+indice_5:
   - La Danse de la Vie
-indice_6 : 
+indice_6:
   - Le Vampire
-questions:
- - A la ville d'Oslo, qui a créé un musée...
 culture_g_score: 97
-culture_g_justification: "L'auteur du Cri est une figure universelle de l'expressionnisme et de l'angoisse moderne, très fréquemment mobilisée en quiz."
+culture_g_justification: L'auteur du Cri est une figure universelle de l'expressionnisme et de l'angoisse moderne, très fréquemment mobilisée en quiz.
 ---
 ![Image de Edvard Munch](https://upload.wikimedia.org/wikipedia/commons/a/ae/Edvard_Munch_-_Madonna_%281894-1895%29.jpg)
 

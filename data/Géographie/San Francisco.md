@@ -8,24 +8,21 @@ tags:
   - Géographie
   - Californie
   - États-Unis
-  - Aucun
-
-indice_1 : 
+  - Certifié
+indice_1:
   - Golden Gate Bridge
-indice_2 : 
+indice_2:
   - Alcatraz
-indice_3 : 
+indice_3:
   - Cable cars
-indice_4 : 
+indice_4:
   - Silicon Valley à proximité
-indice_5 : 
+indice_5:
   - Twin Peaks
-indice_6 : 
+indice_6:
   - Lombard Street
-questions:
- - Dans quelle ville de la Sport/Californie se trouve le quartier de Haight-Ashbury, connu...
 culture_g_score: 96
-culture_g_justification: "Métropole mondialement connue, exploitable en histoire, géographie, culture populaire, technologie et patrimoine."
+culture_g_justification: Métropole mondialement connue, exploitable en histoire, géographie, culture populaire, technologie et patrimoine.
 ---
 ![Image de San Francisco](https://upload.wikimedia.org/wikipedia/commons/c/ce/San_Francisco_Panorama_from_Twin_Peaks_2013.jpg)
 
@@ -34,7 +31,9 @@ culture_g_justification: "Métropole mondialement connue, exploitable en histoir
 
 Quelle [[ville]] a été le site de la découverte d'un gisement d'or déclenchant la célèbre [[Ruée vers l'or]] en [[Géographie/Californie]] en 1849 ?
 
-Quel est le lieu d'origine du sandwich [[Joe's Special]], un plat créé durant les années 1930 dans une ville de la [[Géographie/Californie]] ?
+Le 18 avril 1906, quelle grande ville côtière des Etats-Unis est détruite par un important un tremblement de terre ?
+
+Quel est le lieu d'origine du sandwich [[Joe's Special]], un plat créé durant les années 1930 dans une ville de la [[Californie]] ?
 
 Dans quelle ville, construite sur plus de 50 collines, se trouve la célèbre [[Lombard Street]], connue pour son tronçon en zigzag entre [[Hyde Street]] et [[Leavenworth Street]] ?
 

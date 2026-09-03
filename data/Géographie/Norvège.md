@@ -4,27 +4,22 @@ latitude: 64.5731537
 longitude: 11.5280364
 superficie: 385207
 location: 64.5731537,11.5280364
-tags: 
-  - Région_de_Norvège
-  - Pays_de_Norvège
-  - None
-  - GPS_mano
-indice_1 : 
+tags:
+  - Certifié
+indice_1:
   - Oslo
-indice_2 : 
+indice_2:
   - Fjords
-indice_3 : 
+indice_3:
   - Monts Scandinavie
-indice_4 : 
+indice_4:
   - Svalbard
-indice_5 : 
+indice_5:
   - Mer du Nord
-indice_6 : 
+indice_6:
   - Lofoten
-questions:
- - En 2019, dans quel pays scandinave s'est ouvert le 1er restaurant sous-marin d'Europe, installé à 5 m de profondeur en mer du Nord?
 culture_g_score: 80
-culture_g_justification: "Pays européen très rentable grâce aux fjords, aux Vikings, au pétrole, aux explorateurs, au modèle nordique et à la géographie arctique."
+culture_g_justification: Pays européen très rentable grâce aux fjords, aux Vikings, au pétrole, aux explorateurs, au modèle nordique et à la géographie arctique.
 ---
 ![[Carte_Norvège.png]]
 
@@ -32,9 +27,13 @@ culture_g_justification: "Pays européen très rentable grâce aux fjords, aux V
 
 [[Quel]] pays européen a offert à la ville de [[Londres]] un [[sapin de Noël]] chaque année depuis [[1947]] pour remercier [[Royaume-Uni]] de son soutien pendant [[Seconde Guerre mondiale]]? <!-- score: 4 -->
 
-Quel pays est le berceau de l'[[auteur]] du duo comique des livres pour enfants "[[Les Trois Brigands]]", publié en [[1962]], Tomi Ungerer?
+De quel pays est originaire [[Edvard Munch]], célèbre notamment pour son tableau "Le Cri" ?
 
-Quel pays a eu une guerre du beurre, appelée "[[Guerre du beurre]]" pendant l'année [[2004]], à cause d'une pénurie de beurre due à une augmentation imprévue de la consommation et à une mauvaise planification de la production laitière?
+De quel pays est originaire [[Jakob Ingebrigtsen]], septuple champion d'Europe et double champion olympique sur 1500 et 5000 mètres ?
+
+Quel pays est le berceau de l'[[auteur]] du duo comique des livres pour enfants "[[Les Trois Brigands]]", publié en [[1962]], [[Tomi Ungerer]] ?
+
+En 2019, dans quel pays scandinave s'est ouvert le 1er restaurant sous-marin d'Europe, installé à 5 m de profondeur en mer du Nord ?
 
 ###### Description
 

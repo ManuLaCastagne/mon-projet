@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Kyoto.md",
+                "file": "Géographie/San Francisco.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,12 +177,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Kyoto.md",
+                "file": "Géographie/San Francisco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kyoto"
+              "title": "San Francisco"
+            }
+          },
+          {
+            "id": "b1baed5ddf7c43b2",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Frises/Scores Culture G.base",
+                "viewName": "Tableau"
+              },
+              "icon": "lucide-table",
+              "title": "Scores Culture G"
             }
           }
         ],
@@ -309,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie/Kyoto.md",
+                "file": "Géographie/San Francisco.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -333,7 +346,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,9 +364,12 @@
   },
   "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
-    "Géographie/parc Maruyama.md",
+    "Géographie/Norvège.md",
+    "Sport/Jakob Ingebrigtsen.md",
+    "Art/Edvard Munch.md",
     "Géographie/Kyoto.md",
     "Frises/Scores Culture G.base",
+    "Géographie/parc Maruyama.md",
     "Histoire/JF Kennedy.md",
     "Histoire/Kennedy.md",
     "Frises/Base de données n°1.base",
@@ -375,9 +392,6 @@
     "Culture générale/Maradona des Carpates.md",
     "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
     "Sport/Emil Zatopek.md",
-    "Culture générale/Locomotive tchèque.md",
-    "Anatomie/Creux poplité.md",
-    "Culture générale/fleur des fleurs.md",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",
