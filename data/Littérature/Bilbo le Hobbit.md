@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Terre_du_Milieu
   - Années_1930
@@ -7,23 +7,23 @@ tags:
 date:
   - 1937/09/21
 debut: 1937
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - J.R.R. Tolkien
-indice_2 : 
+indice_2:
   - Smaug
-indice_3 : 
+indice_3:
   - la Comté
-indice_4 : 
+indice_4:
   - Gollum
-indice_5 : 
+indice_5:
   - Thorin Écu-de-Chêne
-indice_6 : 
+indice_6:
   - l'Anneau unique
 questions:
- - Personnage principal d'une oeuvre de fiction parue dès 1937, je suis le fils unique de Bungo Bessac et Belladonna Touc. Né en 1290, élevant mon neveu Frodon à la mort de ses parents, je pars de la Comté en compagnie de 13 nains et du seigneur Thorin qui m'a engagé...
-culture_g_score: 100
-culture_g_justification: "Roman fondateur de la fantasy moderne, relié à Tolkien, à la Terre du Milieu, au cinéma, aux dragons et à une culture populaire massive."
+  - Personnage principal d'une oeuvre de fiction parue dès 1937, je suis le fils unique de Bungo Bessac et Belladonna Touc. Né en 1290, élevant mon neveu Frodon à la mort de ses parents, je pars de la Comté en compagnie de 13 nains et du seigneur Thorin qui m'a engagé...
+culture_g_score: 90
+culture_g_justification: Roman fondateur de la fantasy moderne, relié à Tolkien, à la Terre du Milieu, au cinéma, aux dragons et à une culture populaire massive.
 ---
 ![Image de Bilbo le Hobbit](https://upload.wikimedia.org/wikipedia/commons/a/a6/TSF_Bilbo_le_Hobbit.jpg)
 

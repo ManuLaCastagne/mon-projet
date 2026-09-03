@@ -1,35 +1,36 @@
 ---
-tags: 
+tags:
   - Littérature
-  - Alexandre_Dumas
   - Villers-Cotterêts
   - Années_1840
 date:
   - 1802/07/24
 debut: 1802
 fin: 1870
-indice_1 : 
+indice_1:
   - Les Trois Mousquetaires
-indice_2 : 
+indice_2:
   - Le Comte de Monte-Cristo
-indice_3 : 
+indice_3:
   - père de personnage célèbre d'Arsène Lupin
-indice_4 : 
+indice_4:
   - La Reine Margot
-indice_5 : 
+indice_5:
   - collaborateur avec Auguste Maquet
-indice_6 : 
+indice_6:
   - écrivain de la période romantique
-questions:
- - Dans son "Grand Dictionnaire de cuisine", quel écrivain du Culture_G/XIXe siècle présente une quinzaine de recettes à base de pommes de terre?
 culture_g_score: 100
-culture_g_justification: "Dumas est un auteur mondialement célèbre, associé à plusieurs romans incontournables, au romantisme, à l'histoire et aux adaptations."
+culture_g_justification: Dumas est un auteur mondialement célèbre, associé à plusieurs romans incontournables, au romantisme, à l'histoire et aux adaptations.
 ---
 ![Image de Alexandre Dumas](https://upload.wikimedia.org/wikipedia/commons/1/1b/Alexandre_Dumas_assis_Gustave_Dor%C3%A9.jpg)
 
 ###### Questions
 
 Quel célèbre écrivain a écrit une trilogie connue sous les titres de [[Les Trois Mousquetaires]], [[Vingt ans après]] et [[Le Vicomte de Bragelonne]] publiée entre 1844 et 1850 ?
+
+Dans son "Grand Dictionnaire de cuisine", quel écrivain du XIXe siècle présente une quinzaine de recettes à base de pommes de terre ?
+
+Quel écrivain, fils du général [[Thomas Alexandre]] et père de l’auteur de [[La Dame aux camélias]], fit entrer ses cendres au [[Panthéon]] en 2002 ?
 
 Quel auteur a participé au mouvement littéraire du [[Romantisme français]] avec des œuvres majeures publiées au cours du milieu du [[XIXe siècle]] ?
 

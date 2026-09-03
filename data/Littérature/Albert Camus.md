@@ -1,26 +1,27 @@
 ---
-tags: 
+tags:
   - Littérature
   - Algérie
   - Années_1940
   - XXe
 debut: 1913
 fin: 1960
-indice_1 : 
+indice_1:
   - Mondovi (Algérie)
-indice_2 : 
+indice_2:
   - Années_1930-1960
-indice_3 : 
+indice_3:
   - XXe
-indice_4 : 
+indice_4:
   - Écrivain et philosophe
-indice_5 : 
+indice_5:
   - Prix Nobel de littérature 1957
-indice_6 : 
+indice_6:
   - Absurde
+culture_g_score: 100
 ---
 
-![Image de Albert Camus]()
+![Image de Albert Camus](https://upload.wikimedia.org/wikipedia/commons/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 ###### Questions
 
