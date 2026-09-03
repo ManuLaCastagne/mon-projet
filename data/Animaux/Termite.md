@@ -18,6 +18,7 @@ questions:
 culture_g_score: 76
 culture_g_justification: "La termite est fréquemment mobilisée pour les insectes sociaux, les dégâts au bois, la symbiose et l'architecture biomimétique."
 ---
+
 ![Image de Termite](https://upload.wikimedia.org/wikipedia/commons/a/a4/Odontotermes_obesus_Termites_Isoptera_%281%29_03.jpg)
 
 ###### Questions
@@ -26,7 +27,7 @@ Quel insecte social, capable de construire des structures plus hautes que celles
 
 Quel insecte peut consommer du bois et est capable de digérer la cellulose grâce à des micro-organismes symbiotiques appelés [[protozoaires]], information découverte en [[1921]] par le biologiste américain [[Cleveland]] ?
 
-Quel animal, souvent confondu à tort avec les fourmis, est capable de causer des dommages considérables aux structures en bois, phénomène qui a suscité l'intérêt lors des études sur leur impact économique dès les années [[1950]] ?
+Quel animal, souvent confondu à tort avec les fourmis, est capable de causer des dommages considérables aux structures en bois, phénomène qui a suscité l'intérêt lors des études sur leur impact économique dès les années [[1950]] ? <!-- score: 7 -->
 
 ###### Description
 
