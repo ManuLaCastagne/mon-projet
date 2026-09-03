@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Alexandre Dumas.md",
+                "file": "Littérature/La Dame aux Camélias.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,12 +218,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Alexandre Dumas.md",
+                "file": "Littérature/La Dame aux Camélias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexandre Dumas"
+              "title": "La Dame aux Camélias"
             }
           }
         ],
@@ -350,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Littérature/Alexandre Dumas.md",
+                "file": "Littérature/La Dame aux Camélias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -391,8 +391,9 @@
   },
   "active": "ede2e2dd04d741fb",
   "lastOpenFiles": [
-    "Culture générale/La Dame aux camélias.md",
     "Littérature/Alexandre Dumas.md",
+    "Littérature/La Dame aux Camélias.md",
+    "Culture générale/La Dame aux camélias.md",
     "Frises/Scores Culture G.base",
     "Littérature/Albert Camus.md",
     "Culture générale/Sans titre.md",
@@ -418,7 +419,6 @@
     "Vocabulaire/Poliorcétique.md",
     "Cinéma/Sergueï Eisenstein.md",
     "Histoire/Charles Gordon.md",
-    "Histoire/Alexandre Nevski.md",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",
