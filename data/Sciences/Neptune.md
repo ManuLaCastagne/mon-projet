@@ -23,13 +23,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Planète classique associée à sa découverte mathématique, sa couleur, son climat et ses caractéristiques du système solaire."
 ---
+
 ![Image de Neptune](https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg)
 
 ###### Questions
 
 Quelle planète a été découverte en [[1846]] grâce aux calculs mathématiques effectués par [[John Couch Adams]] et [[Urbain Le Verrier]] avant même d'être observée au télescope ?
 
-Quelle est la seule planète de notre système solaire qui dégage plus de chaleur qu'elle n'en reçoit du [[Soleil]], un phénomène attribué à la lente libération de chaleur issue de sa formation ? <!-- score: 4 -->
+Quelle est la seule planète de notre système solaire qui dégage plus de chaleur qu'elle n'en reçoit du [[Soleil]], un phénomène attribué à la lente libération de chaleur issue de sa formation ? <!-- score: 3 -->
 
 Quelle planète a le nom d'un dieu romain des mers, choisi en [[1846]] après sa découverte, en référence à sa couleur bleu profond évoquant l'océan ?
 
