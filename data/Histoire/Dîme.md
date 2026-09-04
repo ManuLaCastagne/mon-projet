@@ -23,11 +23,12 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Notion importante de l’Ancien Régime et de la Révolution française, reliant fiscalité, Église, société rurale et abolition des privilèges."
 ---
-![Image de Dîme](https://upload.wikimedia.org/wikipedia/commons/1/17/D%C3%AEme_Molsheim_09.jpg)
+
+![Image de Dîme](https://upload.wikimedia.org/wikipedia/commons/1/17/D%C3%AEme_Molsheim_09.jpg)
 
 ###### Questions
 
-Quel prélèvement obligatoire, représentant généralement un dixième de la récolte, était instauré au Moyen Âge en France pour financer l'[[Église]] catholique jusqu'à son abolition par l'Assemblée nationale constituante en [[1789]] ?
+Quel prélèvement obligatoire, représentant généralement un dixième de la récolte, était instauré au Moyen Âge en France pour financer l'[[Église]] catholique jusqu'à son abolition par l'Assemblée nationale constituante en [[1789]] ? <!-- score: 8 -->
 
 Quel impôt, aboli par la Révolution française et rétabli un court moment lors de la [[Restauration]] en [[1824]], visait à soutenir financièrement le clergé en lui versant une part des productions agricoles ?
 
