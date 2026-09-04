@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 93
 culture_g_justification: "Interprète majeur de James Bond et du Saint, il permet de répondre à de nombreuses questions sur le cinéma, les séries et la culture populaire."
 ---
+
 ![Image de Roger Moore](https://upload.wikimedia.org/wikipedia/commons/a/a7/Sir_Roger_Moore_crop.jpg)
 
 ###### Questions
 
-Quel acteur britannique est devenu célèbre en incarnant [[Simon Templar]] dans la série télévisée [[Le Saint]] diffusée de [[1962]] à [[1969]] ?
+Quel acteur britannique est devenu célèbre en incarnant [[Simon Templar]] dans la série télévisée [[Le Saint]] diffusée de [[1962]] à [[1969]] ? <!-- score: 3 -->
 
 Qui a incarné le personnage emblématique de [[James Bond]] dans la série de films à partir de [[1973]] avec [[Vivre et laisser mourir]] jusqu'à [[1985]] avec [[Dangereusement vôtre]] ? <!-- score: 4 -->
 
