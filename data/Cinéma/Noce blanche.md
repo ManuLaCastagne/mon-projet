@@ -24,10 +24,11 @@ indice_6:
 culture_g_score: 51
 culture_g_justification: "Film français connu pour Vanessa Paradis et son sujet controversé, mais qui fournit peu de connaissances réutilisables."
 ---
+
 ![[Pasted image 20260803212812.png]]
 ###### Questions
 
-En 1989, dans quel film de [[Jean-Claude Brisseau]] Vanessa Paradis incarne-t-elle une lycéenne qui tombe amoureuse de son professeur de philosophie, interprété par Bruno Cremer ?
+En 1989, dans quel film de [[Jean-Claude Brisseau]] Vanessa Paradis incarne-t-elle une lycéenne qui tombe amoureuse de son professeur de philosophie, interprété par Bruno Cremer ? <!-- score: 6 -->
 
 Quel long-métrage a valu à [[Vanessa Paradis]] le [[César du Meilleur Espoir Féminin]] en 1990 ? <!-- score: 2 -->
 
