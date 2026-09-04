@@ -26,12 +26,13 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Capitale des Émirats arabes unis fréquemment reliée au Louvre, au pétrole, à l'architecture et à la Formule 1."
 ---
+
 ![Image de Abu Dhabi](https://upload.wikimedia.org/wikipedia/commons/9/91/13-08-06-abu-dhabi-airport-16.jpg)
 
 ![[Carte_Abu Dhabi.png]]
 ###### Questions
 
-Quel est le lieu de la première ouverture du Louvre hors de France en 2017?
+Quel est le lieu de la première ouverture du Louvre hors de France en 2017? <!-- score: 4 -->
 
 Dans quelle ville est située la tour la plus inclinée du monde achevée en 2010, plus que la tour de [[Pise]]?
 
