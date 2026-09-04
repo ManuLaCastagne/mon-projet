@@ -22,13 +22,14 @@ indice_6 :
 culture_g_score: 76
 culture_g_justification: "Télé-crochet international très populaire, exploitable par son format, ses coachs, ses gagnants, ses artistes et son histoire française."
 ---
+
 ![Image de The Voice](https://upload.wikimedia.org/wikipedia/commons/e/e7/The_voice_12.jpg)
 
 ###### Questions
 
 Quel télé-crochet français, lancé en 2012, a popularisé le concept de "fauteuils retournés" pendant les auditions à l'aveugle et a contribué à relancer la carrière de [[Florent Pagny]] ? 
 
-Quel programme télévisé, connu pour avoir révélé des talents comme [[Slimane]] et [[Kendji Girac]], a vu [[Zazie]] et [[Mika]] siéger en tant que coachs dès 2015 ? 
+Quel programme télévisé, connu pour avoir révélé des talents comme [[Slimane]] et [[Kendji Girac]], a vu [[Zazie]] et [[Mika]] siéger en tant que coachs dès 2015 ? <!-- score: 9 -->
 
 Quelle émission à succès, importée des Pays-Bas et diffusée pour la première fois en France en 2012, est célèbre pour la devise « La plus belle voix » et a souvent changé de jury au fil des saisons ?
 
