@@ -25,13 +25,14 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Polar d'Alain Delon identifiable dans le cinéma français des années 1980, mais assez peu fréquent et peu transversal."
 ---
-![Image de Trois Hommes à abattre](https://upload.wikimedia.org/wikipedia/commons/c/c0/Killer_stellen_sich_nicht_vor.svg)
+
+![Image de Trois Hommes à abattre](https://upload.wikimedia.org/wikipedia/commons/c/c0/Killer_stellen_sich_nicht_vor.svg)
 
 ###### Questions
 
 Quel film français réalisé par [[Jacques Deray]], sorti en 1980, met en scène [[Alain Delon]] dans le rôle principal d'un homme traqué après avoir aidé une victime d'accident ?
 
-Quel thriller français est basé sur le roman "Le [[Fugitif]]" de [[Jean-Patrick Manchette]] et critique la société et les jeux de pouvoir ?
+Quel thriller français est basé sur le roman "Le [[Fugitif]]" de [[Jean-Patrick Manchette]] et critique la société et les jeux de pouvoir ? <!-- score: 2 -->
 
 Dans quel long-métrage peut-on voir une performance magistrale de [[Michel Auclair]] aux côtés de [[Dalila Di Lazzaro]], où les personnages sont impliqués dans une intrigue complexe ?
 
