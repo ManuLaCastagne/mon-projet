@@ -25,13 +25,14 @@ questions:
 culture_g_score: 68
 culture_g_justification: "Grand virtuose du violon et compositeur romantique, souvent interrogé à travers ses Caprices, sa légende et son influence."
 ---
+
 ![Image de Niccolo Paganini](https://upload.wikimedia.org/wikipedia/commons/f/f7/NiccoloPaganini.jpeg)
 
 ###### Questions
 
 Quel violoniste et compositeur italien du [[XIXe siècle]] était surnommé le "diable du violon" en raison de ses techniques de jeu incroyables et de sa légende entourant un pacte avec le diable, étant né en 1782 et mort en 1840 ?
 
-Quel musicien a révolutionné la technique du violon avec ses [[24 Caprices pour violon]] publiés en 1819, qui sont encore considérés comme l'une des œuvres les plus difficiles du répertoire violonistique ?
+Quel musicien a révolutionné la technique du violon avec ses [[24 Caprices pour violon]] publiés en 1819, qui sont encore considérés comme l'une des œuvres les plus difficiles du répertoire violonistique ? <!-- score: 8 -->
 
 Quel compositeur et violoniste a introduit l'idée de l'artiste virtuose moderne et a inspiré des compositeurs comme [[Franz Liszt]] et [[Frédéric Chopin]] avec ses performances spectaculaires et ses compositions innovantes ?
 
