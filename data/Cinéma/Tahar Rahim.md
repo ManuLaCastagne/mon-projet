@@ -25,13 +25,14 @@ questions:
 culture_g_score: 76
 culture_g_justification: "Acteur français révélé par Un prophète et présent dans des productions internationales, avec plusieurs repères cinématographiques et télévisuels."
 ---
+
 ![Image de Tahar Rahim](https://upload.wikimedia.org/wikipedia/commons/e/e7/Tahar_Rahim_2012.jpg)
 
 ###### Questions
 
 Tournant dans des productions étrangères comme "[[L'Aigle de la Neuvième Légion]]" ou "[[Marie Madeleine (film)]]", j'incarne en 2011 un jeune prince dans "[[Or noir]]" de [[Jean-Jacques Annaud]]. Récompensé en 2010 par 2 césars dont celui du meilleur acteur… <!-- score: 6 -->
 
-Quel acteur français a été révélé au grand public grâce à son rôle dans le film [[Un prophète]] réalisé par [[Jacques Audiard]] en 2009 ?
+Quel acteur français a été révélé au grand public grâce à son rôle dans le film [[Un prophète]] réalisé par [[Jacques Audiard]] en 2009 ? <!-- score: 7 -->
 
 Qui incarne le rôle principal de l'agent du FBI Douglas dans la série télévisée "[[The Looming Tower]]" diffusée en 2018 ?
 
