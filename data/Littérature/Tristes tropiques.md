@@ -23,10 +23,11 @@ indice_6:
 culture_g_score: 84
 culture_g_justification: "Œuvre majeure de Lévi-Strauss, très utile pour l'anthropologie, les sciences sociales, le récit de voyage, le Brésil et l'histoire intellectuelle du XXe siècle."
 ---
+
 ![[Pasted image 20250421191630.png]]
 ###### Questions
 
-Quel ouvrage publié en 1955 par [[Claude Lévi-Strauss]] commence par le célèbre incipit "[[Je hais les voyages et les explorateurs]]" ?
+Quel ouvrage publié en 1955 par [[Claude Lévi-Strauss]] commence par le célèbre incipit "[[Je hais les voyages et les explorateurs]]" ? <!-- score: 6 -->
 
 Quel livre de référence mêlant [[ethnologie]] et [[autobiographie]] a été publié dans la collection "[[Terre Humaine]]" chez [[Plon]] ?
 
