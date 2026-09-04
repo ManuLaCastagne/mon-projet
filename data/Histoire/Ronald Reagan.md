@@ -23,6 +23,7 @@ questions:
 culture_g_score: 92
 culture_g_justification: "Président américain très fréquent, mobilisable sur la guerre froide, le cinéma, la politique intérieure, Berlin et les relations internationales."
 ---
+
 ![Image de Ronald Reagan](https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel ancien acteur et 40e président des [[États-Unis]] a été victime d'une t
 
 Quel président des [[États-Unis]] a prononcé le célèbre discours "Mr. [[Gorbachev]], tear down this wall!" en [[1987]] devant la [[Porte de Brandebourg]] à [[Berlin-Ouest]] ?
 
-Quel homme politique américain a été gouverneur de l'État de [[Géographie/Californie]] avant de devenir président des [[États-Unis]] en [[1981]] ?
+Quel homme politique américain a été gouverneur de l'État de [[Géographie/Californie]] avant de devenir président des [[États-Unis]] en [[1981]] ? <!-- score: 2 -->
 
 ###### Description
 
