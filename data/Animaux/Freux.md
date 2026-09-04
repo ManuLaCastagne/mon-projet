@@ -18,16 +18,13 @@ questions:
 culture_g_score: 32
 culture_g_justification: "Le freux est un corvidé distinct mais peu connu du grand public, rarement demandé en dehors de l'ornithologie."
 ---
+
+
 ![Image de Freux](https://upload.wikimedia.org/wikipedia/commons/9/98/Freu_eglijhe.jpg)
 
 ###### Questions
 
-Dans quelle œuvre du compositeur [[Ralph Vaughan Williams]], créée en 1914, le [[freux]] est-il mentionné ?
-
-Quel oiseau, fréquemment étudié en raison de ses capacités cognitives impressionnantes, tire son nom scientifique d'un terme se rapportant au [[freux]] ?
-
-Quelle espèce d'oiseau, apparentée aux corneilles et vivant en Europe et en Asie, partage son nom avec le [[freux]] ?
-
+Quelle espèce d'oiseau, apparentée aux corneilles et vivant en Europe et en Asie, comporte 5 lettres ? <!-- score: 5 -->
 ###### Description
 
 Le [[Freux]], ou [[Corvus frugilegus]], est un oiseau de la famille des corvidés que l'on reconnaît à son plumage noir brillant légèrement violet sous la lumière. 
