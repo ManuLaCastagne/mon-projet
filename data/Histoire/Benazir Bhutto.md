@@ -21,13 +21,14 @@ indice_6:
 culture_g_score: 68
 culture_g_justification: "Première femme Premier ministre d’un pays musulman, figure utile pour la politique pakistanaise, les femmes en politique et le terrorisme."
 ---
+
 ![Image de Benazir Bhutto](https://upload.wikimedia.org/wikipedia/commons/c/cf/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006.jpg)
 
 ###### Questions
 
 [[Quelle femme]] [[politique]] fille d'un ancien premier ministre est devenue la [[première femme]] à diriger un [[pays musulman]] en tant que Premier ministre en [[1988]] ?
 
-[[Qui]] a été la première femme à exercer les fonctions de Premier ministre au [[Pakistan]] à deux reprises, d'abord de [[1988]] à [[1990]], puis de [[1993]] à [[1996]] ?
+[[Qui]] a été la première femme à exercer les fonctions de Premier ministre au [[Pakistan]] à deux reprises, d'abord de [[1988]] à [[1990]], puis de [[1993]] à [[1996]] ? <!-- score: 2 -->
 
 [[Quel]] Premier ministre a été [[assassiné]] lors d'un attentat-suicide en [[2007]] après avoir dirigé le [[Pakistan]] et avoir été chef de l'[[opposition]] ?
 
