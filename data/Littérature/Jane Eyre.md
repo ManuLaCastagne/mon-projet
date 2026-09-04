@@ -25,6 +25,8 @@ questions:
 culture_g_score: 88
 culture_g_justification: "Roman mondialement célèbre de Charlotte Brontë, Jane Eyre se prête à des questions littéraires, biographiques, thématiques et cinématographiques."
 ---
+
+
 ![Image de Jane Eyre](https://upload.wikimedia.org/wikipedia/commons/9/9b/Jane_Eyre_title_page.jpg)
 
 ###### Questions
@@ -32,9 +34,6 @@ culture_g_justification: "Roman mondialement célèbre de Charlotte Brontë, Jan
 Quel roman, publié en 1847, a été écrit par [[Charlotte Brontë]] sous le pseudonyme de [[Currer Bell]] ?
 
 Quel livre raconte l'histoire d'une gouvernante orpheline et de son amour pour [[Edward Rochester]], qui cache un sombre secret dans le manoir de [[Thornfield Hall]] ?
-
-Quel ouvrage est considéré comme un précurseur du roman féministe et a connu plusieurs adaptations cinématographiques et télévisées, notamment adaptée par la [[BBC]] en 2006 ?
-
 ###### Description
 
 [[Jane Eyre]], le célèbre roman de [[Charlotte Brontë]], a été publié pour la première fois en 1847 sous le pseudonyme masculin de **Currer Bell**. 
