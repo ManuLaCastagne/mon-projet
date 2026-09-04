@@ -21,6 +21,8 @@ indice_6 :
 culture_g_score: 80
 culture_g_justification: "Général emblématique de la Seconde Guerre mondiale et héros d’un film oscarisé, permettant plusieurs entrées historiques, militaires et cinématographiques."
 ---
+
+
 ![Image de Patton]()
 
 ###### Questions
@@ -29,7 +31,7 @@ Quel général américain a également participé aux Jeux olympiques modernes e
 
 Quel film biographique réalisé par [[Franklin J. Schaffner]] et sorti en 1970, a remporté sept [[Oscars]], dont celui du [[Meilleur film]], et met en vedette [[George C. Scott]] dans le rôle principal? 
 
-Quel était le nom de famille de [[George S. Patton]], général né en [[1885]] et connu pour ses stratégies militaires audacieuses et sa participation à la [[campagne d'Afrique du Nord]]?
+Quel était le nom de famille de George S., général né en [[1885]] et connu pour ses stratégies militaires audacieuses et sa participation à la [[campagne d'Afrique du Nord]]? <!-- score: 5 -->
 ###### Description
 
 [[George S. Patton]], né en 1885 à [[San Gabriel]], est l'un des généraux américains les plus célèbre de la Seconde Guerre mondiale. 
