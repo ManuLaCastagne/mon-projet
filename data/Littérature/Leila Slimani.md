@@ -25,16 +25,15 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Écrivaine francophone contemporaine très médiatisée et lauréate du Goncourt, mais encore moins transversale que les grands classiques."
 ---
+
+
 ![Image de Leila Slimani](https://upload.wikimedia.org/wikipedia/commons/7/72/Le%C3%AFla_Slimani_%28cropped%29.jpg)
 
 ###### Questions
 
 Quelle auteure franco-marocaine a remporté le [[Prix Goncourt]] en 2016 avec le roman « [[Chanson douce]] » ?
 
-Quel membre de la [[Commission consultative des droits de l'homme]] a été choisi par [[Emmanuel Macron]] comme représentante personnelle pour la francophonie en 2017 ?
-
 Quelle écrivaine, née à [[Rabat]] en 1981, est souvent saluée pour ses contributions à la représentation des femmes et des questions de liberté individuelle dans la littérature contemporaine ?
-
 ###### Description
 
 [[Leila Slimani]] est une écrivaine franco-marocaine née en 1981 à [[Rabat]]. 
