@@ -23,13 +23,14 @@ indice_6:
 culture_g_score: 68
 culture_g_justification: "Classique majeur du cinéma français sur l'enfance et la guerre, Jeux interdits est régulièrement mobilisable mais reste une œuvre précise."
 ---
+
 ![Image de Jeux interdits](https://upload.wikimedia.org/wikipedia/commons/3/33/Romance_An%C3%B3nimo_%28Jeux_interdits%29.ogg)
 
 ###### Questions
 
 Quel film, sorti en 1952, a remporté l'[[Oscar du meilleur film étranger]] lors de la 25ème cérémonie des Oscars ?
 
-Quel film réalisé par [[René Clément]] explore l'impact émotionnel de la guerre sur des enfants durant la période de la [[Seconde Guerre mondiale]] ?
+Quel film réalisé par [[René Clément]] explore l'impact émotionnel de la guerre sur des enfants durant la période de la [[Seconde Guerre mondiale]] ? <!-- score: 6 -->
 
 Quel long métrage emblématique mettant en vedette la jeune actrice de 5 ans [[Brigitte Fossey]] est connu pour sa scène poignante où des enfants font face à la mort de manière ludique ?
 
