@@ -28,17 +28,16 @@ culture_g_score: 100
 culture_g_justification: "Ville mondiale incontournable, exploitable en histoire, art, architecture, tourisme, géographie, commerce et culture italienne."
 ---
 
+
+
 ![Image de Venise](https://upload.wikimedia.org/wikipedia/commons/9/9c/Venise_%28Doubs%29_Rues_et_chemins_hdsr_VLux5_L1032803.jpg)
 
 ![[Carte_Venise.png]]
 ###### Questions
 
-Quel est le nom de la ville italienne qui a accueilli la première édition de la [[Biennale de l'art contemporain]] en 1895 ?
-
 Dans quelle ville se trouve la région de [[Cannaregio]], où [[Marco Polo]] serait né en 1254 ?
 
 À quelle ville associe-t-on le [[Pont des Soupirs]], construit en 1600 par [[Antonio Contin]] ? <!-- score: 9 -->
-
 ###### Description
 
 La ville de [[Venise]], située dans le nord-est de l'[[Italie]], est bâtie sur un ensemble de 118 petites îles reliées par plus de 400 ponts, un complexe uniquement accessible à pied ou en bateau. 
