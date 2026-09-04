@@ -24,6 +24,7 @@ indice_6 :
 culture_g_score: 100
 culture_g_justification: "L’URSS est un sujet historique et géopolitique incontournable, ouvrant sur la guerre froide, l’espace, le communisme et la géographie mondiale."
 ---
+
 ![[Carte_URSS.png]]
 
 ###### Questions
@@ -32,7 +33,7 @@ Quelle nation, dissoute en [[1991]], comprenait autrefois [[15 républiques]] et
 
 Quel pays a mené avec succès la mission de lancer le premier satellite artificiel, nommé [[Spoutnik]], dans l'espace le 4 octobre [[1957]] ? <!-- score: 5 -->
 
-Quelle entité géopolitique a occupé la totalité de l'[[Asie centrale]] et était entourée par des frontières avec 14 pays avant sa dissolution en [[1991]] ?
+Quelle entité géopolitique a occupé la totalité de l'[[Asie centrale]] et était entourée par des frontières avec 14 pays avant sa dissolution en [[1991]] ? <!-- score: 8 -->
 
 ###### Description
 
