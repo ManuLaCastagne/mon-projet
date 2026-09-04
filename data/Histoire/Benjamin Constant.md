@@ -23,6 +23,7 @@ questions:
 culture_g_score: 55
 culture_g_justification: "Écrivain et penseur libéral franco-suisse, intéressant à la croisée de la littérature, de la politique et de Madame de Staël."
 ---
+
 ![Image de Benjamin Constant](https://upload.wikimedia.org/wikipedia/commons/1/16/%28Narbonne%29_Le_ca%C3%AFd_marocain_Tahamy_-_Jean_Joseph_Benjamin-Constant_-_Mus%C3%A9e_des_Beaux-Arts_de_Narbonne.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quelle personnalité politique française et écrivain du XIXe siècle est cél�
 
 Quel auteur franco-suisse a eu une liaison passionnée et tumultueuse avec [[Madame de Staël]] de 1794 à 1806, influençant tant sa vie personnelle que son œuvre ?
 
-Quel écrivain et penseur politique du XIXe siècle est connu pour son roman psychologique intitulé ''[[Adolphe]]'', publié en 1816 et souvent considéré comme un reflet de ses propres expériences sentimentales ?
+Quel écrivain et penseur politique du XIXe siècle est connu pour son roman psychologique intitulé ''[[Adolphe]]'', publié en 1816 et souvent considéré comme un reflet de ses propres expériences sentimentales ? <!-- score: 8 -->
 
 ###### Description
 
