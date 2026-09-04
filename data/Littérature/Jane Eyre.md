@@ -1,39 +1,39 @@
 ---
-tags: 
+tags:
   - Littérature
   - Angleterre
   - Années_1840
   - XIXe
+  - Certifié
 date:
   - 1847/10/16
 debut: 1847
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Charlotte Brontë
-indice_2 : 
+indice_2:
   - Thornfield Hall
-indice_3 : 
+indice_3:
   - Rochester
-indice_4 : 
+indice_4:
   - gouvernante
-indice_5 : 
+indice_5:
   - roman gothique
-indice_6 : 
+indice_6:
   - Lowood
-questions:
- - En 1847, dans quel roman de Charlotte Brontë, publié sous le pseudonyme de Currer Bell une orpheline est-elle élevée par sa tante, Mrs Reed?
 culture_g_score: 88
-culture_g_justification: "Roman mondialement célèbre de Charlotte Brontë, Jane Eyre se prête à des questions littéraires, biographiques, thématiques et cinématographiques."
+culture_g_justification: Roman mondialement célèbre de Charlotte Brontë, Jane Eyre se prête à des questions littéraires, biographiques, thématiques et cinématographiques.
 ---
-
-
-![Image de Jane Eyre](https://upload.wikimedia.org/wikipedia/commons/9/9b/Jane_Eyre_title_page.jpg)
+![[Pasted image 20260904174035.png]]
 
 ###### Questions
 
-Quel roman, publié en 1847, a été écrit par [[Charlotte Brontë]] sous le pseudonyme de [[Currer Bell]] ?
+En 1847, dans quel roman de Charlotte Brontë, publié sous le pseudonyme masculin de [[Currer Bell]] une orpheline est-elle élevée par sa tante, Mrs Reed ?
+
+Dans quel film de 2006 adapté d'un roman de Charlotte Brontë [[Ruth Wilson]] joue-t-elle le rôle principal aux côté d'Edward Rochester joué par [[Toby Stephens]] ?
 
 Quel livre raconte l'histoire d'une gouvernante orpheline et de son amour pour [[Edward Rochester]], qui cache un sombre secret dans le manoir de [[Thornfield Hall]] ?
+
 ###### Description
 
 [[Jane Eyre]], le célèbre roman de [[Charlotte Brontë]], a été publié pour la première fois en 1847 sous le pseudonyme masculin de **Currer Bell**. 

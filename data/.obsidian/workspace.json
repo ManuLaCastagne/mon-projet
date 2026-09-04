@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Abu Dhabi.md",
+                "file": "Littérature/Jane Eyre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,12 +218,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Abu Dhabi.md",
+                "file": "Littérature/Jane Eyre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abu Dhabi"
+              "title": "Jane Eyre"
             }
           }
         ],
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie/Abu Dhabi.md",
+                "file": "Littérature/Jane Eyre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -392,6 +392,10 @@
   },
   "active": "0093fd40e5812c80",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260904174035.png",
+    "Littérature/Barbe-Bleue.md",
+    "Littérature/Jane Eyre.md",
+    "Géographie/Abu Dhabi.md",
     "Gastronomie/Cannelé.md",
     "Gastronomie/Étiquetage des œufs (code imprimé).md",
     "Cinéma/Tahar Rahim.md",
@@ -405,7 +409,6 @@
     "Littérature/Antoine de Saint-Exupéry.md",
     "Culture générale/La Dame aux camélias.md",
     "Frises/Scores Culture G.base",
-    "Littérature/Barbe-Bleue.md",
     "Culture générale/Anne, ma soeur Anne, ne vois-tu rien venir.md",
     "Littérature/Charles Dickens.md",
     "Littérature/Oliver Twist.md",
@@ -416,9 +419,6 @@
     "Culture générale/Sans titre.md",
     "Géographie/Madère.md",
     "Géographie/Funchal.md",
-    "Animaux/Crochets.md",
-    "Vocabulaire/aglyphe.md",
-    "Géographie/San Francisco.md",
     "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
