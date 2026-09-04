@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 44
 culture_g_justification: "Figure marquante des speakerines françaises, surtout susceptible d’apparaître dans des questions historiques sur la télévision."
 ---
+
 ![Image de Denise Fabre](https://upload.wikimedia.org/wikipedia/commons/3/3d/Denise_Fabre_par_Claude_Truong-Ngoc_juillet_2013.jpg)
 
 ###### Questions
 
-Quel est le nom de la célèbre speakerine qui a travaillé à [[TF1]] pendant plus de vingt ans et qui fut reconnue pour ses incroyables fous rires à l'antenne dans les années [[1970]] ?
+Quel est le nom de la célèbre speakerine qui a travaillé à [[TF1]] pendant plus de vingt ans et qui fut reconnue pour ses incroyables fous rires à l'antenne dans les années [[1970]] ? <!-- score: 3 -->
 
 Qui est la personnalité de la télévision française ayant reçu la médaille de [[l'Ordre national du Mérite]] en [[1994]], honorée pour sa contribution au paysage audiovisuel français ?
 
