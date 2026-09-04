@@ -25,15 +25,11 @@ questions:
 culture_g_score: 24
 culture_g_justification: "Chanson humoristique surtout liée à un contexte télévisuel français précis, avec très peu de réutilisations en culture générale."
 ---
+
+
 ![Image de Fais la poule](https://upload.wikimedia.org/wikipedia/commons/4/4f/La_poule_et_ses_poussins%2C_com%C3%A9die_en_deux_actes_en_prose_%28IA_lapouleetsespous00naja%29.pdf)
 
 ###### Questions
-
-Dans la chanson interprétée par [[Danièl Prévost]] en 1990, quel geste de l'animal est souvent imité par les enfants lors des fêtes ?
-
-Quel titre interprété par [[Jean-Yves Lafesse]] dans une émission de [[Patrick Sébastien]] en 1997 est devenu emblématique pour les karaokés et les mariages ?
-
-Dans le cadre de l'album de reprises humoristiques de [[Claude François]] réalisé par [[Les Enfoirés]] en 1993, quel titre farfelu est interprété avec l'accent toulousain ?
 
 ###### Description
 
