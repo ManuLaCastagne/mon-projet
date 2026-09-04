@@ -26,7 +26,8 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Couturier français emblématique de la mode futuriste des années 1960, avec une présence correcte mais limitée dans les quiz généralistes."
 ---
-![Image de André Courrèges](https://upload.wikimedia.org/wikipedia/commons/8/82/Andr%C3%A9_Courr%C3%A8ges.jpg)
+
+![Image de André Courrèges](https://upload.wikimedia.org/wikipedia/commons/8/82/Andr%C3%A9_Courr%C3%A8ges.jpg)
 
 ###### Questions
 
@@ -34,7 +35,7 @@ En quelle année [[André Courrèges]] a-t-il lancé sa célèbre collection de 
 
 Dans quel domaine [[André Courrèges]] est-il devenu célèbre en 1965 grâce à sa collection qui a popularisé l'utilisation des matériaux innovants comme le [[vinyle]] et le [[PVC]] dans le [[prêt-à-porter]] ?
 
-Quel créateur emblématique a été formé par le célèbre couturier [[Cristóbal Balenciaga]] avant de fonder sa propre maison de [[couture]] en 1961, aboutissant à une marque synonyme d'[[avant-garde]] et d'[[esthétique futuriste]] ?
+Quel créateur emblématique a été formé par le célèbre couturier [[Cristóbal Balenciaga]] avant de fonder sa propre maison de [[couture]] en 1961, aboutissant à une marque synonyme d'[[avant-garde]] et d'[[esthétique futuriste]] ? <!-- score: 3 -->
 
 ###### Description
 
