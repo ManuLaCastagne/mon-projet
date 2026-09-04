@@ -20,7 +20,7 @@ indice_6 :
   - Amour impossible
 ---
 
-![Image de La Dame aux Camélias]()
+![Image de La Dame aux Camélias](https://upload.wikimedia.org/wikipedia/commons/0/0b/LadyoftheCamellias.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 ###### Questions
 

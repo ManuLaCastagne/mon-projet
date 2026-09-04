@@ -13,12 +13,12 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Antoine de Saint-Exupéry.md",
+                "file": "Littérature/La Dame aux Camélias.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
-                  "localBacklinks": true,
+                  "localBacklinks": false,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
@@ -163,7 +163,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 1.103013479581718,
+                  "scale": 1.188263511808552,
                   "close": false
                 }
               },
@@ -204,12 +204,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Antoine de Saint-Exupéry.md",
+                "file": "Littérature/La Dame aux Camélias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antoine de Saint-Exupéry"
+              "title": "La Dame aux Camélias"
             }
           }
         ]
@@ -271,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb69aeffa85077",
@@ -335,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Littérature/Antoine de Saint-Exupéry.md",
+                "file": "Littérature/La Dame aux Camélias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -376,6 +377,8 @@
   },
   "active": "3b18be18a8a65fd7",
   "lastOpenFiles": [
+    "Littérature/Antoine de Saint-Exupéry.md",
+    "Culture générale/La Dame aux camélias.md",
     "Frises/Scores Culture G.base",
     "Littérature/Barbe-Bleue.md",
     "Culture générale/Anne, ma soeur Anne, ne vois-tu rien venir.md",
@@ -385,7 +388,6 @@
     "Littérature/La Dame aux Camélias.md",
     "Musique/La Traviata.md",
     "Littérature/Alexandre Dumas.md",
-    "Culture générale/La Dame aux camélias.md",
     "Littérature/Albert Camus.md",
     "Culture générale/Sans titre.md",
     "Géographie/Madère.md",
