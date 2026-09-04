@@ -23,11 +23,12 @@ indice_6:
 culture_g_score: 92
 culture_g_justification: "Lieu central de l’islam abritant la Kaaba, la Mosquée al-Harâm ouvre de nombreux angles religieux, historiques, géographiques et architecturaux."
 ---
+
 ![Image de Grande Mosquée de La Mecque](https://upload.wikimedia.org/wikipedia/commons/3/3f/Great_Mosque_of_Mecca1.jpg)
 
 ###### Questions
 
-Quel est le lieu de culte islamique qui a connu une rénovation majeure entre [[2011]] et [[2016]] pour accueillir plus de pèlerins lors du [[Hadj]] ?
+Quel est le lieu de culte islamique qui a connu une rénovation majeure entre [[2011]] et [[2016]] pour accueillir plus de pèlerins lors du [[Hadj]] ? <!-- score: 2 -->
 
 Quel édifice religieux, situé dans la ville sainte de [[La Mecque]], est reconnu pour abriter la [[Kaaba]] au sein de sa cour centrale ?
 
