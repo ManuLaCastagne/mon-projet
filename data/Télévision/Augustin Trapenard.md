@@ -23,11 +23,12 @@ questions:
 culture_g_score: 48
 culture_g_justification: "Journaliste culturel contemporain identifiable par plusieurs émissions, mais encore peu fréquent comme sujet autonome de quiz."
 ---
+
 ![Image de Augustin Trapenard](https://upload.wikimedia.org/wikipedia/commons/f/fa/Augustin_Trapenard_2017.jpg)
 
 ###### Questions
 
-Quel journaliste et animateur français a succédé à [[Laurence Boccolini]] à la présentation de l'émission [[Le Grand Echiquier]] sur [[France 2]] en 2023 ?
+Quel journaliste et animateur français a succédé à [[Laurence Boccolini]] à la présentation de l'émission [[Le Grand Echiquier]] sur [[France 2]] en 2023 ? <!-- score: 4 -->
 
 Qui a rejoint l'équipe de [[Canal+] en 2012 pour animer l'émission culturelle [[Le Cercle]] ?
 
