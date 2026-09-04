@@ -27,6 +27,7 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Ville mondiale incontournable, exploitable en histoire, art, architecture, tourisme, géographie, commerce et culture italienne."
 ---
+
 ![Image de Venise](https://upload.wikimedia.org/wikipedia/commons/9/9c/Venise_%28Doubs%29_Rues_et_chemins_hdsr_VLux5_L1032803.jpg)
 
 ![[Carte_Venise.png]]
@@ -36,7 +37,7 @@ Quel est le nom de la ville italienne qui a accueilli la première édition de l
 
 Dans quelle ville se trouve la région de [[Cannaregio]], où [[Marco Polo]] serait né en 1254 ?
 
-À quelle ville associe-t-on le [[Pont des Soupirs]], construit en 1600 par [[Antonio Contin]] ?
+À quelle ville associe-t-on le [[Pont des Soupirs]], construit en 1600 par [[Antonio Contin]] ? <!-- score: 9 -->
 
 ###### Description
 
