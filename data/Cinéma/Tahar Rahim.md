@@ -4,10 +4,11 @@ tags:
   - France
   - Années_2000
   - XXIe
+  - Certifié
 date:
   - 1981/07/04
 debut: 1981
-fin: 
+fin:
 indice_1:
   - Un Prophète
 indice_2:
@@ -20,10 +21,8 @@ indice_5:
   - Zodiaque
 indice_6:
   - Mary Magdalene
-questions:
-  - Tournant dans des productions étrangères comme "L'Aigle de la Neuvième Légion" ou "Marie Madeleine", j'incarne en 2011 un jeune prince dans "Or noir" de Jean-Jacques Annaud. Récompensé en 2010 par 2 césars dont celui du meilleur acteur…
 culture_g_score: 76
-culture_g_justification: "Acteur français révélé par Un prophète et présent dans des productions internationales, avec plusieurs repères cinématographiques et télévisuels."
+culture_g_justification: Acteur français révélé par Un prophète et présent dans des productions internationales, avec plusieurs repères cinématographiques et télévisuels.
 ---
 
 ![Image de Tahar Rahim](https://upload.wikimedia.org/wikipedia/commons/e/e7/Tahar_Rahim_2012.jpg)
@@ -33,10 +32,6 @@ culture_g_justification: "Acteur français révélé par Un prophète et présen
 Tournant dans des productions étrangères comme "[[L'Aigle de la Neuvième Légion]]" ou "[[Marie Madeleine (film)]]", j'incarne en 2011 un jeune prince dans "[[Or noir]]" de [[Jean-Jacques Annaud]]. Récompensé en 2010 par 2 césars dont celui du meilleur acteur… <!-- score: 6 -->
 
 Quel acteur français a été révélé au grand public grâce à son rôle dans le film [[Un prophète]] réalisé par [[Jacques Audiard]] en 2009 ? <!-- score: 7 -->
-
-Qui incarne le rôle principal de l'agent du FBI Douglas dans la série télévisée "[[The Looming Tower]]" diffusée en 2018 ?
-
-Quel acteur a reçu une nomination aux [[Golden Globes]] pour son rôle dans la série "[[The Mauritanian]]" en 2021 ?
 
 ###### Description
 

@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - France
   - Années_1960
@@ -7,23 +7,21 @@ tags:
 date:
   - 1963/10/29
 debut: 1963
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Jean-Luc Godard
-indice_2 : 
+indice_2:
   - Brigitte Bardot
-indice_3 : 
+indice_3:
   - 1963
-indice_4 : 
+indice_4:
   - film franco-italien
-indice_5 : 
+indice_5:
   - Villa Malaparte
-indice_6 : 
+indice_6:
   - adaptation du roman d'Alberto Moravia
-questions:
- - En 1963, quel film de Godard réunit Cinéma/Brigitte Bardot et Michel Piccoli ?
 culture_g_score: 80
-culture_g_justification: "Classique majeur de Godard et de la Nouvelle Vague, associé à Bardot, Delerue, Capri, la littérature et l’histoire du cinéma."
+culture_g_justification: Classique majeur de Godard et de la Nouvelle Vague, associé à Bardot, Delerue, Capri, la littérature et l’histoire du cinéma.
 ---
 
 ![Image de Le Mépris](https://upload.wikimedia.org/wikipedia/commons/a/ad/Le_M%C3%A9pris.png)

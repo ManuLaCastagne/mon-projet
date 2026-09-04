@@ -32,8 +32,6 @@ Quel est le lieu de culte islamique qui a connu une rénovation majeure entre [[
 
 Quel édifice religieux, situé dans la ville sainte de [[La Mecque]], est reconnu pour abriter la [[Kaaba]] au sein de sa cour centrale ?
 
-Quelle structure architecturale, notable pour son caractère sacré dans l'[[islam]], a une surface de plus de 350,000 mètres carrés et peut accueillir environ deux millions de fidèles ?
-
 ###### Description
 
 La [[Mosquée al-Harâm]], située dans la ville de [[La Mecque]], en [[Arabie saoudite]], est le plus grand lieu de culte musulman au monde. 
