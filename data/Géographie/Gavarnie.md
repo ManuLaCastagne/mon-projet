@@ -27,6 +27,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Site naturel français emblématique, utile en géographie, patrimoine, pyrénéisme, tourisme et littérature."
 ---
+
 ![Image de Gavarnie](https://upload.wikimedia.org/wikipedia/commons/9/9d/Gavarnie_recti_small_Wikimedia_Commons.jpg)
 
 ![[Carte_Gavarnie.png]]
@@ -34,7 +35,7 @@ culture_g_justification: "Site naturel français emblématique, utile en géogra
 
 Quel est le nom du village qui abrite le célèbre [[Cirque de Gavarnie]], un amphithéâtre naturel situé dans les [[Hautes-Pyrénées]] et inscrit au [[Patrimoine mondial de l'UNESCO]] depuis 1997 ?
 
-Quel est le point central de l'une des étapes mythiques du [[Tour de France]], atteignant une altitude de [[1 375 mètres]] et offrant une vue imprenable sur les monts environnants du [[Massif des Pyrénées]] ?
+Quel est le point central de l'une des étapes mythiques du [[Tour de France]], atteignant une altitude de [[1 375 mètres]] et offrant une vue imprenable sur les monts environnants du [[Massif des Pyrénées]] ? <!-- score: 4 -->
 
 Quelle est la commune où l'écrivain [[Victor Hugo]] a décrit le cirque comme "un colosseum de la nature" dans son ouvrage de 1843, [[Voyage dans les Pyrénées]] ?
 
