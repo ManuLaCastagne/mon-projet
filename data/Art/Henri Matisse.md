@@ -27,6 +27,7 @@ culture_g_score: 92
 culture_g_justification: "Matisse est une figure fondamentale de l’art moderne, avec le fauvisme, la peinture, les papiers découpés, Jazz et de nombreuses œuvres célèbres."
 ---
 
+
 ![Image de Henri Matisse](https://upload.wikimedia.org/wikipedia/commons/b/b1/Portrait_of_Henri_Matisse_1933_May_20.jpg)
 
 ###### Questions
@@ -35,7 +36,7 @@ Quel artiste a découvert l'[[art]] après avoir reçu un coffret de peintures p
 
 Quel peintre français a été l'un des principaux représentants du mouvement du [[Fauvisme]], courant artistique ayant émergé au début du [[XXe siècle]] ? <!-- score: 6 -->
 
-Quel célèbre artiste a réalisé d'importantes œuvres de découpage, dont la série "Jazz" publiée en 1947 ? <!-- score: 3 -->
+Quel célèbre artiste a réalisé d'importantes œuvres de découpage, dont la série "Jazz" publiée en 1947 ? <!-- score: 2 -->
 ###### Description
 
 [[Henri Matisse]] est un peintre et sculpteur français, considéré comme l'un des plus grands artistes du XXe siècle, né en 1869 à [[Cateau-Cambrésis]]. 
