@@ -23,11 +23,12 @@ indice_6 :
 culture_g_score: 52
 culture_g_justification: "Dispositif réglementaire concret pouvant servir en gastronomie, consommation et traçabilité, sans être un marronnier."
 ---
+
 ![Image de Étiquetage des œufs (code imprimé)]()
 
 ###### Questions
 
-Quel système réglementé en [[Europe]] indique le mode de production et la provenance des [[œufs]] grâce à un code imprimé sur la coquille ?
+Quel système réglementé en [[Europe]] indique le mode de production et la provenance des [[œufs]] grâce à un code imprimé sur la coquille ? <!-- score: 4 -->
 
 Quel processus, introduit en 1990 dans l'[[Union Européenne]], permet aux consommateurs de vérifier l'origine et la qualité des [[œufs]] en utilisant une série de chiffres et lettres ?
 
