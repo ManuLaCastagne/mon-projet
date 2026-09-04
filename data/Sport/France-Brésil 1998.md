@@ -23,13 +23,14 @@ questions:
 culture_g_score: 97
 culture_g_justification: "Finale mythique de la Coupe du monde 1998, elle constitue un marronnier français reliant football, Zidane, histoire nationale et culture populaire."
 ---
-![Image de France-Brésil 1998](https://upload.wikimedia.org/wikipedia/commons/8/8e/Tribune_pr%C3%A9sidentielle_finale_France_Br%C3%A9sil_football_12_juillet_1998.jpg)
+
+![Image de France-Brésil 1998](https://upload.wikimedia.org/wikipedia/commons/8/8e/Tribune_pr%C3%A9sidentielle_finale_France_Br%C3%A9sil_football_12_juillet_1998.jpg)
 
 ###### Questions
 
 Quel événement sportif marquant s'est déroulé au [[Stade de France]] le 12 juillet [[1998]] ?
 
-Lors de quelle rencontre de [[Coupe du Monde de la FIFA]] en [[1998]] l'équipe de [[France]] a-t-elle remporté son premier titre de champion du monde ?
+Lors de quelle rencontre de [[Coupe du Monde de la FIFA]] en [[1998]] l'équipe de [[France]] a-t-elle remporté son premier titre de champion du monde ? <!-- score: 9 -->
 
 Quel match a marqué l'histoire du football avec une victoire 3-0 grâce, entre autres, à deux buts de [[Zinédine Zidane]] le 12 juillet [[1998]] ?
 
