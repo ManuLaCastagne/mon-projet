@@ -28,6 +28,8 @@ questions:
 culture_g_score: 63
 culture_g_justification: "Principal fleuve de Pologne, utile pour situer Cracovie, Varsovie, la Baltique et l’histoire géographique du pays."
 ---
+
+
 ![Image de Vistule](https://upload.wikimedia.org/wikipedia/commons/b/b2/Wis%C5%82a_wczesnym_ranem_poni%C5%BCej_zapory_w_%C5%81%C4%85czanach_pod_Krakowem%2C_20250105_0832_6930.jpg)
 
 ![[Carte_Vistule.png]]
@@ -36,9 +38,6 @@ culture_g_justification: "Principal fleuve de Pologne, utile pour situer Cracovi
 Quel fleuve, traversant la [[Pologne]] et mesurant environ 1 047 km, est le plus long de ce pays ?
 
 Quel cours d'eau relie [[Cracovie]] et [[Varsovie]], jouant un rôle central dans l'économie et le transport depuis le Moyen Âge ?
-
-Quel fleuve a vu ses rives devenir un site important pour l'archéologie depuis la découverte, en 1961, d'artefacts datant de l'[[Âge du Bronze]] sur ses berges ?
-
 ###### Description
 
 La [[Vistule]], qui traverse la [[Pologne]], est le plus long fleuve du pays avec une longueur d'environ 1 047 kilomètres. 
