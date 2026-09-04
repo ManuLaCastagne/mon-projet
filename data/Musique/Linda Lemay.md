@@ -25,16 +25,13 @@ questions:
 culture_g_score: 48
 culture_g_justification: "Chanteuse québécoise connue dans l'espace francophone, avec des repères sur la chanson et les récompenses, mais une portée générale modérée."
 ---
+
+
 ![Image de Linda Lemay](https://upload.wikimedia.org/wikipedia/commons/d/d7/Lynda_Lemay-Concert_Carcassonne04410.jpg)
 
 ###### Questions
 
-Quel est le nom de l'artiste québécoise qui a publié son album [[Live]] enregistré au [[Québec]] en 2003?
-
-Quelle chanteuse a créé la chanson intitulée "[[La Centenaire]]" en l'honneur de sa grand-mère, née en 1907?
-
-Qui a remporté le [[Félix de l'auteur-compositeur de l'année]] lors du [[Gala de l'ADISQ]] en 1997? <!-- score: 4 -->
-
+Quelle chanteuse québécoise a créé la chanson intitulée "[[La Centenaire]]" en l'honneur de sa grand-mère, née en 1907? <!-- score: 5 -->
 ###### Description
 
 [[Linda Lemay]] est une auteure-compositrice-interprète québécoise, née en 1966, qui s'est fait connaître pour ses chansons aux paroles poignantes et souvent narratives. 
