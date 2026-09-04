@@ -23,11 +23,12 @@ indice_6:
 culture_g_score: 47
 culture_g_justification: "Autrice populaire du roman policier, mais surtout utile dans le cadre spécialisé des séries médico-légales."
 ---
+
 ![Image de Patricia Cornwell](https://upload.wikimedia.org/wikipedia/commons/5/56/Patricia_Cornwell_2011_b.jpg)
 
 ###### Questions
 
-Quel auteur de romans policiers a écrit son premier livre intitulé "[[Postmortem]]", publié en 1990, et est célèbre pour ses basés sur la médecine légale ?
+Quel auteur de romans policiers a écrit son premier livre intitulé "[[Postmortem]]", publié en 1990, et est célèbre pour ses basés sur la médecine légale ? <!-- score: 4 -->
 
 Quel écrivain a consacré une grande partie de sa carrière à explorer le personnage de la médecin légiste [[Kay Scarpetta]], apparaissant pour la première fois dans la littérature en 1990 ?
 
