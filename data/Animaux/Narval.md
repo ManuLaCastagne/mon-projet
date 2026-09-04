@@ -18,16 +18,15 @@ questions:
 culture_g_score: 68
 culture_g_justification: "Cétacé emblématique de l’Arctique, célèbre par sa défense assimilée à une corne de licorne et par son histoire médiévale."
 ---
+
+
 ![Image de Narval](https://upload.wikimedia.org/wikipedia/commons/2/29/Submarine_Narval_-_Page%27s_Magazine_1902.png)
 
 ###### Questions
 
 Quel animal possède une défense qui peut mesurer jusqu'à trois mètres de long, souvent comparée à une corne de licorne ?
 
-Quel animal marin, notamment étudié par les scientifiques pour comprendre l'adaptation aux environnements arctiques, a fait l'objet d'une expédition en [[2016]] pour mieux comprendre ses déplacements et son comportement ?
-
 Quel cétacé, vivant principalement dans les eaux froides de l'[[Arctique]], a été prisé pour ses longues défenses durant le Moyen Âge, souvent vendues comme des cornes de licorne miraculeuses ?
-
 ###### Description
 
 Le [[Narval]], aussi surnommé "licorne de mer", est un cétacé qui peuple les eaux froides de l'Arctique, notamment près du [[Groenland]] et de la [[Canada|Canada]]. 
