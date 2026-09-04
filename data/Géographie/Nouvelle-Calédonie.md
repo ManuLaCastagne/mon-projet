@@ -25,16 +25,17 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Territoire français important pour le Pacifique, le nickel, les Kanak et les récifs classés à l'UNESCO, avec une fréquence de quiz modérée."
 ---
-![Image de Nouvelle-Calédonie](https://upload.wikimedia.org/wikipedia/commons/e/ea/2_gourdes_MHNT_ETH_AC_NC_85_Nouvelle_Cal%C3%A9donie_Sav%C3%A8s.jpg)
 
-![[Carte_Nouvelle-Calédonie.png]]
+![Image de Nouvelle-Calédonie](https://upload.wikimedia.org/wikipedia/commons/e/ea/2_gourdes_MHNT_ETH_AC_NC_85_Nouvelle_Cal%C3%A9donie_Sav%C3%A8s.jpg)
+
+![[Carte_Nouvelle-Calédonie.png]]
 ###### Questions
 
 Quel territoire français d'outre-mer, situé dans l'océan Pacifique, a été désigné comme site du patrimoine mondial de l'UNESCO en 2008 en raison de ses récifs coralliens et divers écosystèmes aquatiques uniques ?
 
 Quelle collectivité spéciale de France, reconnue pour ses importantes réserves de nickel, possède la [[Province Sud]] où se trouve la capitale [[Nouméa]] ?
 
-Quel territoire d'outre-mer, découvert par [[James Cook]] en 1774, est connu pour son mélange unique de cultures kanak, mélamique et européenne ?
+Quel territoire d'outre-mer, découvert par [[James Cook]] en 1774, est connu pour son mélange unique de cultures kanak, mélamique et européenne ? <!-- score: 7 -->
 
 ###### Description
 
