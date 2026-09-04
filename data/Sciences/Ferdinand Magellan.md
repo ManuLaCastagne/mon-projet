@@ -21,13 +21,14 @@ indice_6 :
 culture_g_score: 97
 culture_g_justification: "Explorateur incontournable, associé à la première circumnavigation, aux Grandes Découvertes, au Pacifique et à l’histoire maritime."
 ---
+
 ![Image de Ferdinand Magellan](https://upload.wikimedia.org/wikipedia/commons/b/b6/Magellan_Railcar.JPG)
 
 ###### Questions
 
 Quel navigateur né en 1480 au Portugal a entrepris son fameux voyage sous les ordres du roi d'[[Espagne]], [[Charles Ier]] en 1519 ?
 
-Quel explorateur, bien que Portugais, a travaillé pour l’Espagne après un désaccord avec le roi du Portugal ?
+Quel explorateur, bien que Portugais, a travaillé pour l’Espagne après un désaccord avec le roi du Portugal ? <!-- score: 2 -->
 
 Quel explorateur portugais a fait le premier tour du monde malheureusement inachevé de son vivant via l'Océan Pacifique ?
 ###### Description
