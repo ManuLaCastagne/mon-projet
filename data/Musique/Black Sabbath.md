@@ -21,11 +21,12 @@ indice_6:
 culture_g_score: 84
 culture_g_justification: "Groupe fondateur du heavy metal, fréquemment cité pour Ozzy Osbourne, Paranoid et l’histoire du rock."
 ---
+
 ![Image de Black Sabbath](https://upload.wikimedia.org/wikipedia/commons/d/dc/Black_Sabbath_%281970%29.png)
 
 ###### Questions
 
-A quel groupe de hard-rock britannique, mené par John [[Ozzy Osbourne]], doit-on notamment l'album "Paranoid" en 1970?
+A quel groupe de hard-rock britannique, mené par John [[Ozzy Osbourne]], doit-on notamment l'album "Paranoid" en 1970? <!-- score: 3 -->
 
 Quel groupe est considéré comme l'un des pionniers du [[heavy metal]] avec la sortie de leur premier album éponyme en 1970 ?
 
