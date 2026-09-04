@@ -24,11 +24,12 @@ indice_6 :
 culture_g_score: 31
 culture_g_justification: "Comédie française identifiable par son casting, mais rarement nécessaire dans un quiz généraliste de haut niveau."
 ---
+
 ![Image de Les Sœurs Fâchées](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bouscaren_-_Les_Soeurs_de_lait.djvu)
 
 ###### Questions
 
-Dans quel film de 2004 réalisé par [[Alexandra Leclère]] deux sœurs que tout oppose se retrouvent pour un week-end et suscitent un grand nombre de tensions familiales et comiques ?
+Dans quel film de 2004 réalisé par [[Alexandra Leclère]] deux sœurs que tout oppose se retrouvent pour un week-end et suscitent un grand nombre de tensions familiales et comiques ? <!-- score: 4 -->
 
 Quelle œuvre cinématographique avec [[Isabelle Huppert]] et [[Catherine Frot]] explore la dynamique complexe entre deux sœurs aux personnalités radicalement différentes ?
 
