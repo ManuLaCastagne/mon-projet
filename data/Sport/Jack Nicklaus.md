@@ -24,11 +24,12 @@ questions:
 culture_g_score: 77
 culture_g_justification: "Détenteur emblématique du record de victoires en Majeurs, Nicklaus est une connaissance très rentable des quiz de golf."
 ---
+
 ![Image de Jack Nicklaus](https://upload.wikimedia.org/wikipedia/commons/6/68/Jack_Nicklaus_2019_Jenkins_Medal_Awards_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel golfeur américain a remporté un record de 18 tournois Majeurs dans sa carrière, établissant un standard encore inégalé à ce jour, avec sa dernière victoire à l’[[Open Championship]] en [[1986]] ? <!-- score: 4 -->
+Quel golfeur américain a remporté un record de 18 tournois Majeurs dans sa carrière, établissant un standard encore inégalé à ce jour, avec sa dernière victoire à l’[[Open Championship]] en [[1986]] ? <!-- score: 3 -->
 
 Quel grand champion a été le plus jeune à compléter le [[Grand Chelem]] en golf à l'âge de 26 ans en [[1966]], un exploit qui lui a alors permis de devancer [[Bobby Jones]] comme le plus jeune vainqueur de tous les Majeurs ?
 
