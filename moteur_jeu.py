@@ -45,7 +45,7 @@ REVISION_FLOOR = 0.5
 # Synchronisation GitHub :
 # les réponses sont écrites localement immédiatement,
 # puis regroupées avant envoi à GitHub.
-SYNC_EVERY_N_QUESTIONS = 10
+SYNC_EVERY_N_QUESTIONS = 25
 
 # Le cache global des questions est reconstruit périodiquement.
 # Dans la session en cours, les scores modifiés sont conservés
