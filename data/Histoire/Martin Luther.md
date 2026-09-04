@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 100
 culture_g_justification: "Père de la Réforme protestante, il est incontournable pour l’histoire religieuse, politique, européenne, linguistique et intellectuelle."
 ---
+
 ![Image de Martin Luther](https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel moine [[allemand]] a affiché ses [[95 thèses]] sur la porte de l'église 
 
 Qui est le réformateur protestant né en [[1483]] qui a traduit la [[Bible]] en [[allemand]] pour la première fois ?
 
-Quel théologien a été excommunié par le pape [[Léon X]] en [[1521]] après avoir défié l'autorité de l'Église [[catholique]] ?
+Quel théologien a été excommunié par le pape [[Léon X]] en [[1521]] après avoir défié l'autorité de l'Église [[catholique]] ? <!-- score: 4 -->
 
 ###### Description
 
