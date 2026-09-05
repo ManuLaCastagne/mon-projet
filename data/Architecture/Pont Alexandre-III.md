@@ -26,13 +26,14 @@ questions:
 culture_g_score: 68
 culture_g_justification: "Pont parisien très reconnaissable par l'Exposition de 1900, l'alliance franco-russe et ses ornements monumentaux."
 ---
+
 ![Image de Pont Alexandre-III](https://upload.wikimedia.org/wikipedia/commons/d/de/Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg)
 
 ###### Questions
 
 Quel pont parisien, inauguré lors de l'[[Exposition Universelle]] de 1900, symbolise l'amitié franco-russe entre [[la France]] et l'[[Empire russe]] grâce à son nom inspiré d'un tsar ?
 
-Quel ouvrage architectural de Paris est reconnu pour ses quatre sculptures de pégases dorés, considérées comme emblématiques de l'art décoratif du début du [[XXe siècle]] ?
+Quel ouvrage architectural de Paris est reconnu pour ses quatre sculptures de pégases dorés, considérées comme emblématiques de l'art décoratif du début du [[XXe siècle]] ? <!-- score: 3 -->
 
 Quel pont, traversant la [[Seine]], est classé monument historique depuis 1975 et est célèbre pour ses nombreux ornements de style Art Nouveau ?
 
