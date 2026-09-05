@@ -18,13 +18,14 @@ questions:
 culture_g_score: 52
 culture_g_justification: "L’épouillage éclaire les comportements sociaux des primates et des oiseaux, sans être une réponse très fréquente."
 ---
-![Image de Épouillage](https://upload.wikimedia.org/wikipedia/commons/7/7f/Fig.4.Louse_bites.jpg)
+
+![Image de Épouillage](https://upload.wikimedia.org/wikipedia/commons/7/7f/Fig.4.Louse_bites.jpg)
 
 ###### Questions
 
 Quel comportement social est observé chez les [[primates]] pour renforcer les liens sociaux et réduire le stress, ainsi qu'améliorer l'hygiène de la troupe?
 
-Quelle activité, observée chez les [[oiseaux]] notamment les [[corvidés]], consiste à éliminer les parasites et les plumes mortes à l'aide du bec?
+Quelle activité, observée chez les [[oiseaux]] notamment les [[corvidés]], consiste à éliminer les parasites et les plumes mortes à l'aide du bec? <!-- score: 4 -->
 
 Quel rituel de toilettage est largement pratiqué par les [[chimpanzés]], décrit pour la première fois par [[Jane Goodall]] en [[1960]] lors de ses études sur le terrain en [[Tanzanie]]?
 
