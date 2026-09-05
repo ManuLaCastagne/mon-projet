@@ -25,11 +25,12 @@ indice_6 :
 culture_g_score: 60
 culture_g_justification: "Grande ville américaine connue pour le jazz, les Chiefs et la Première Guerre mondiale, mais moins incontournable que les principales métropoles des États-Unis."
 ---
+
 ![[Carte_Kansas City.png]]
 
 ###### Questions
 
-Dans quelle ville du [[Missouri]] peut-on trouver l'une des plus grandes collections de fontaines en dehors de [[Rome]], avec plus de 200 fontaines, et qui est souvent appelée la "ville aux fontaines" depuis la première moitié du XXe siècle ?
+Dans quelle ville du [[Missouri]] peut-on trouver l'une des plus grandes collections de fontaines en dehors de [[Rome]], avec plus de 200 fontaines, et qui est souvent appelée la "ville aux fontaines" depuis la première moitié du XXe siècle ? <!-- score: 4 -->
 
 Quelle ville a accueilli la [[National World War I Museum and Memorial]], un mémorial national dédié à la Première Guerre mondiale, qui a ouvert ses portes pour la première fois en [[1926]] et est devenu un site historique national en [[2004]] ?
 
