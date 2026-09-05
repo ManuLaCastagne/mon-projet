@@ -4,4 +4,6 @@ culture_g_justification: "Batteur des Beatles et figure incontournable de la mus
 ---
 ###### Questions
 
-Avec [[John Lennon]], [[Paul McCartney]] et [[George Harrison]] quel était le nom du quatrième membre de [[the Beatles]] ? Toujours en vie il était le batteur du groupe et avait pour vrai nom [[Richard Starkey]].
+Avec [[John Lennon]], [[Paul McCartney]] et [[George Harrison]] quel était le nom du quatrième membre de [[the Beatles]] ? 
+
+Quel batteur des Beatles avait pour vrai nom [[Richard Starkey]] ?
