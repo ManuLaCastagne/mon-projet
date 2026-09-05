@@ -23,6 +23,7 @@ indice_6:
 culture_g_score: 80
 culture_g_justification: "Pionnier majeur du rap français, régulièrement interrogé pour ses albums, ses samples, le jazz rap et l’histoire de la musique francophone."
 ---
+
 ![Image de MC Solaar](https://upload.wikimedia.org/wikipedia/commons/6/6e/MC_Solaar_Invit%C3%A9_du_RH_Factor.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel artiste a utilisé [[Jazzmatazz]], projet de [[Guru]] lancé en 1993, pour 
 
 Quel chanteur, connu pour son titre [[Nouveau Western]], a collaboré avec [[Jimmy Jay]] et sorti son premier album en 1991 intitulé [[Qui sème le vent récolte le tempo]] ?
 
-Quel rappeur a été parmi les premiers artistes à utiliser des samples de [[Serge Gainsbourg]] dans ses morceaux, notamment dans son album paru en 1994, [[Prose Combat]] ?
+Quel rappeur a été parmi les premiers artistes à utiliser des samples de [[Serge Gainsbourg]] dans ses morceaux, notamment dans son album paru en 1994, [[Prose Combat]] ? <!-- score: 6 -->
 
 ###### Description
 
