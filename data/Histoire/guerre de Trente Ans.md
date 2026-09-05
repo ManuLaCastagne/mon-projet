@@ -22,13 +22,14 @@ culture_g_score: 87
 culture_g_justification: "Conflit européen majeur reliant religion, rivalités dynastiques, dévastation démographique et traités de Westphalie."
 ---
 
+
 ![Image de guerre de Trente Ans](https://upload.wikimedia.org/wikipedia/commons/e/ed/Daudet_-_Trente_ans_de_Paris%2C_Flammarion%2C_1889.djvu)
 
 ###### Questions
 
 Quel conflit, ayant duré de [[1618]] à [[1648]], a causé la dévastation de vastes régions du Saint-Empire romain germanique, entraînant une diminution significative de sa population ? 
 
-Quel événement historique a changé l'équilibre du pouvoir en Europe et a abouti à la signature des [[traités de Westphalie]] en [[1648]], établissant le principe de la souveraineté nationale moderne ? <!-- score: 4 -->
+Quel événement historique a changé l'équilibre du pouvoir en Europe et a abouti à la signature des [[traités de Westphalie]] en [[1648]], établissant le principe de la souveraineté nationale moderne ? <!-- score: 3 -->
 
 Quel conflit majeur, déclenché par la [[défenestration de Prague]] en [[1618]], a impliqué la plupart des pays européens et est considéré comme l'un des plus destructeurs de l'histoire pré-moderne du continent ? <!-- score: 4 -->
 
