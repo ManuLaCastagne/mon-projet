@@ -25,13 +25,14 @@ questions:
 culture_g_score: 47
 culture_g_justification: "Poète et traducteur francophone reconnu, mais principalement mobilisé dans des questions spécialisées de littérature contemporaine."
 ---
+
 ![Image de Philippe Jaccottet](https://upload.wikimedia.org/wikipedia/commons/7/77/Philippe_Jaccottet_%281991%29_by_Erling_Mandelmann.jpg)
 
 ###### Questions
 
 Quel poète et traducteur suisse a été le premier écrivain vivant à être publié dans la prestigieuse collection de la [[Bibliothèque de la Pléiade]] en 2014 ?
 
-Quel est le nom de l'auteur qui a traduit des œuvres majeures de [[Rainer Maria Rilke]] et [[Giuseppe Ungaretti]] en français, contribuant ainsi à leur diffusion dans le monde francophone ?
+Quel est le nom de l'auteur qui a traduit des œuvres majeures de [[Rainer Maria Rilke]] et [[Giuseppe Ungaretti]] en français, contribuant ainsi à leur diffusion dans le monde francophone ? <!-- score: 1 -->
 
 Quel poète, né en 1925 à [[Moudon]], a reçu le [[Grand Prix national de la poésie]] en 1988 pour l'ensemble de son œuvre poétique et ses traductions ?
 
