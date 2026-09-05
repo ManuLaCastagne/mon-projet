@@ -25,16 +25,13 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Groupe français très populaire dans les années 2000, surtout retenu pour Le Chemin, ses tubes et ses récompenses."
 ---
+
+
 ![Image de Kyo](https://upload.wikimedia.org/wikipedia/commons/b/b6/Kyo_logo.svg)
 
 ###### Questions
 
-Dans quelle chanson de [[Kyo]], sortie en 2003, peut-on entendre les paroles saisissantes "et je saigne encore"?
-
 Quel groupe français, formé en 1994, a remporté le [[NRJ Music Award]] de la révélation francophone de l'année en 2004?
-
-Quel est le nom du troisième album studio de [[Kyo]], qui a été certifié disque de diamant en 2004?
-
 ###### Description
 
 Le groupe de rock français [[Kyo]] a été fondé en 1994 par les frères [[Fabien]] et [[Florian Dubos]], ainsi que leurs amis d'enfance [[Nicolas Chassagne]] et [[Benoît Poher]].
