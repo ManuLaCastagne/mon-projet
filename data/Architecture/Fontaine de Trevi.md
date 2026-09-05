@@ -26,13 +26,14 @@ questions:
 culture_g_score: 92
 culture_g_justification: "La fontaine de Trevi est un marronnier mondial des quiz grâce à Rome, au baroque, à la tradition des pièces et à La Dolce Vita."
 ---
+
 ![Image de Fontaine de Trevi](https://upload.wikimedia.org/wikipedia/commons/6/66/Fontaine_Trevi_-_Rome.jpg)
 
 ###### Questions
 
 Dans quelle célèbre fontaine romaine restaurée en 2015 les visiteurs jettent-ils des pièces de monnaie, espérant ainsi assurer leur retour à [[Rome]] ?
 
-Quel chef-d'œuvre de l'[[architecture baroque]] construit sous la direction de [[Nicola Salvi]] entre 1732 et 1762 est considéré comme l'une des fontaines les plus emblématiques du monde ?
+Quel chef-d'œuvre de l'[[architecture baroque]] construit sous la direction de [[Nicola Salvi]] entre 1732 et 1762 est considéré comme l'une des fontaines les plus emblématiques du monde ? <!-- score: 6 -->
 
 Quelle fontaine iconique, située dans le quartier de [[Trevi]] à [[Rome]], a accueilli une scène mémorable du film [[La Dolce Vita]] de 1960 dirigé par [[Federico Fellini]] ?
 
