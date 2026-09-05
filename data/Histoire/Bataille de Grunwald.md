@@ -23,13 +23,14 @@ questions:
 culture_g_score: 52
 culture_g_justification: "Grande bataille médiévale polono-lituanienne, mais relativement peu connue dans les quiz francophones généralistes."
 ---
+
 ![Image de Bataille de Grunwald](https://upload.wikimedia.org/wikipedia/commons/a/a9/Grunwald_Giermek.png)
 
 ###### Questions
 
 Quel événement historique, survenu en [[1410]], a marqué une victoire décisive de la [[Pologne]] et de la [[Lituanie]] contre les [[Chevaliers teutoniques]] ?
 
-Quel affrontement est considéré comme l'une des plus grandes batailles de chevaliers en Europe médiévale, ayant eu lieu le 15 juillet [[1410]] ?
+Quel affrontement est considéré comme l'une des plus grandes batailles de chevaliers en Europe médiévale, ayant eu lieu le 15 juillet [[1410]] ? <!-- score: 3 -->
 
 Quel lieu est devenu le symbole de l'unité des forces alliées polono-lituaniennes face aux envahisseurs, résultant en une victoire lors de l'été [[1410]] ? <!-- score: 4 -->
 
