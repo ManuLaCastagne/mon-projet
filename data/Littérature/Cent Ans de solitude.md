@@ -25,6 +25,7 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Chef-d’œuvre mondial du réalisme magique, fréquemment associé à García Márquez, à la littérature latino-américaine et au prix Nobel."
 ---
+
 ![Image de Cent Ans de solitude](https://upload.wikimedia.org/wikipedia/commons/1/14/Grandville_-_Cent_Proverbes%2C_1845.djvu)
 
 ###### Questions
@@ -33,7 +34,7 @@ En 1967, dans quel roman de Gabriel Garcia Marquez est-on dans un village imagin
 
 Quel roman publié en 1967 par [[Gabriel García Márquez]] est considéré comme un chef-d'œuvre du [[Réalisme magique]] et a valu à son auteur le [[Prix Nobel de littérature]] en 1982 ?
 
-Quel ouvrage raconte la saga de la famille [[Buendía]] sur plusieurs générations dans le fictif village de [[Macondo]] et a été traduit dans de nombreuses langues depuis sa première publication ? <!-- score: 4 -->
+Quel ouvrage raconte la saga de la famille [[Buendía]] sur plusieurs générations dans le fictif village de [[Macondo]] et a été traduit dans de nombreuses langues depuis sa première publication ? <!-- score: 1 -->
 
 ###### Description
 
