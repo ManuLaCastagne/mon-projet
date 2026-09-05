@@ -21,13 +21,14 @@ indice_6:
 culture_g_score: 65
 culture_g_justification: "Humoriste contemporaine très identifiable par ses spectacles, son humour noir, ses récompenses et ses rôles télévisés."
 ---
+
 ![Image de Blanche Gardin](https://upload.wikimedia.org/wikipedia/commons/9/96/Blanche_Gardin.jpg)
 
 ###### Questions
 
 Quel artiste féminine née en 1977, diplômée de sociologie, j'ai travaillé comme scénariste sur la série télé "[[Parents mode d'emploi]]" ?
 
-Quel est le nom de la comédienne qui a remporté le [[Molière]] de l'humour en [[2018]] pour son spectacle "Je parle toute seule" ?
+Quel est le nom de la comédienne qui a remporté le [[Molière]] de l'humour en [[2018]] pour son spectacle "Je parle toute seule" ? <!-- score: 4 -->
 
 Quelle humoriste, née en [[1977]], est connue pour pousser les limites du politiquement correct dans ses spectacles et a joué dans la série [[Dix pour cent]] ?
 
