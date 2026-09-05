@@ -25,13 +25,14 @@ questions:
 culture_g_score: 92
 culture_g_justification: "Film populaire et immédiatement identifiable, associé à la science-fiction, la comédie, ses acteurs et ses effets spéciaux."
 ---
+
 ![Image de Men in Black](https://upload.wikimedia.org/wikipedia/commons/8/83/Men_In_Black_%28film_franchise%29_logo.svg)
 
 ###### Questions
 
 Dans quel film sorti en 1997, voit-on les agents J et K protéger la Terre des extraterrestres tout en effaçant la mémoire des témoins avec un dispositif nommé [[Neuralyzer]] ?
 
-Quelle œuvre cinématographique à succès avec [[Will Smith]] et [[Tommy Lee Jones]] a remporté l’Oscar des meilleurs maquillages en 1998 grâce à ses créatures extraterrestres ?
+Quelle œuvre cinématographique à succès avec [[Will Smith]] et [[Tommy Lee Jones]] a remporté l’Oscar des meilleurs maquillages en 1998 grâce à ses créatures extraterrestres ? <!-- score: 1 -->
 
 Quel film de science-fiction a inspiré la création d'une série d'attractions intitulée "[[Men in Black: Alien Attack]]" dans le parc d'attractions [[Universal Studios Florida]] en 2000 ?
 
