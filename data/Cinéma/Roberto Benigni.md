@@ -23,16 +23,16 @@ indice_6 :
 culture_g_score: 80
 culture_g_justification: "La Vie est belle, ses Oscars et son parcours d'acteur-réalisateur en font une référence fréquente du cinéma international."
 ---
+
+
+
 ![Image de Roberto Benigni](https://upload.wikimedia.org/wikipedia/commons/e/e4/Roberto_Benigni-5274.jpg)
 
 ###### Questions
 
-Dans quel film de [[Roberto Benigni]], sorti en 1997, un homme utilise l'humour pour protéger son fils des horreurs d'un camp de concentration pendant la [[Seconde Guerre mondiale]] ?
+Quel acteur italien a remporté l'[[Oscar]] du meilleur acteur en 1999 pour sa performance dans le film [[La Vie est belle]] ? <!-- score: 4 -->
 
-Quel acteur italien a remporté l'[[Oscar]] du meilleur acteur en 1999 pour sa performance dans le film [[La Vie est belle]] ?
-
-Qui est devenu la première personne à avoir reçu simultanément le [[Grand Prix de Cannes]] et l'[[Oscar]] du meilleur acteur pour le même film lors de la cérémonie des [[Oscars 1999]] ?
-
+Qui est devenu la première personne à avoir reçu simultanément le [[Grand Prix de Cannes]] et l'[[Oscar]] du meilleur acteur pour le même film lors de la cérémonie des [[Oscars 1999]] pour la Vie est Belle ? <!-- score: 5 -->
 ###### Description
 
 [[Roberto Benigni]] est un acteur et réalisateur italien né en 1952, célèbre notamment pour son film « La vie est belle » sorti en 1997, qui lui a valu une renommée internationale. 
