@@ -24,16 +24,13 @@ indice_6 :
 culture_g_score: 40
 culture_g_justification: "Commune surtout connue des amateurs de musique pour le Hellfest, avec quelques repères géographiques et patrimoniaux."
 ---
+
+
 ![[Carte_Clisson.png]]
 
 ###### Questions
 
-Quelle commune du [[Vignoble nantais]] est traversée par la [[Sèvre Nantaise]] et a connu des inondations historiques ?
-
-Dans quelle localité des [[Pays de la Loire]] le confluent de la [[Sèvre]] et de la [[Moine]] se trouve-t-il dans la vallée fluviale ?
-
-Quel territoire en [[Loire-Atlantique]] est desservi par les [[TER Pays de la Loire]] et se situe à environ 27 km au sud-est de [[Nantes]] ?
-
+Quel territoire en [[Loire-Atlantique]] est desservi par les [[TER Pays de la Loire]] et se situe à environ 27 km au sud-est de [[Nantes]] et héberge le Hellfest ? <!-- score: 5 -->
 ###### Description
 
 [[Clisson]] est une commune française située dans le département de la [[Loire-Atlantique]] en [[Pays de la Loire]], célèbre pour son architecture de style italien. 
