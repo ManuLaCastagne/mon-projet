@@ -16,11 +16,12 @@ indice_6 :
   - Palaeontologie
 ---
 
+
 ![Image de Créodonte](https://upload.wikimedia.org/wikipedia/commons/2/2a/Hyaenodon_Heinrich_Harder.jpeg)
 
 ###### Questions
 
-Quel groupe de mammifères carnivores a prospéré pendant l'ère de l'[[Éocène]] et s'est éteint il y a environ 23 millions d'années ?
+Quel groupe de mammifères carnivores a prospéré pendant l'ère de l'[[Éocène]] et s'est éteint il y a environ 23 millions d'années ? <!-- score: 4 -->
 ###### Description
 
 Le terme "Créodonte" désigne un ancien ordre de mammifères carnivores qui ont vécu principalement durant le [[Paléocène]] et l'[[Éocène]]. 
