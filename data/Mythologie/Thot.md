@@ -21,13 +21,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Thot est un dieu égyptien majeur, relié à l'écriture, au savoir, à la Lune, au calendrier et à l'iconographie de l'ibis."
 ---
+
 ![Image de Thot](https://upload.wikimedia.org/wikipedia/commons/f/fa/Lune_Grand_Palais_-_St%C3%A8le_miniature_Paser_et_Thot_-_Louvre_AE_01.jpg)
 
 ###### Questions
 
 Quel dieu égyptien est crédité d'avoir inventé l'écriture, permettant la communication et la transmission du savoir à partir du milieu du troisième millénaire avant [[Jésus]] ?
 
-Quel est le nom du dieu dans la [[mythologie égyptienne]] qui a été associé à la Lune et au calendrier, jouant un rôle crucial dans la régulation du temps et des saisons depuis environ [[3000 avant Jésus-Christ]] ?
+Quel est le nom du dieu dans la [[mythologie égyptienne]] qui a été associé à la Lune et au calendrier, jouant un rôle crucial dans la régulation du temps et des saisons depuis environ [[3000 avant Jésus-Christ]] ? <!-- score: 3 -->
 
 Dans la [[mythologie égyptienne]], qui est le dieu représenté avec une tête d'ibis, considéré comme le patron des scribes et des érudits, et vénéré dès l'époque de [[l'Ancien Empire égyptien]] ?
 
