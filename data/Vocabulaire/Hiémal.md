@@ -16,13 +16,14 @@ indice_6 :
   - None
 ---
 
+
 ![Image de Hiémal]()
 
 ###### Questions
 
 Quel est l'adjectif employé dans un contexte poétique ou scientifique pour décrire ce qui est lié à la saison froide, particulièrement en climatologie ou en botanique ?
 
-Dans la littérature, quel terme d'origine latine est utilisé pour évoquer un événement ou un phénomène qui se produit pendant la période la plus froide de l'année ?
+Dans la littérature, quel terme d'origine latine est utilisé pour évoquer un événement ou un phénomène qui se produit pendant la période la plus froide de l'année ? <!-- score: 3 -->
 
 Quel mot désigne un phénomène ou un climat spécifique de la saison opposée à celle souvent décrite par les termes [[estival]] ou [[estivale]] ?
 
