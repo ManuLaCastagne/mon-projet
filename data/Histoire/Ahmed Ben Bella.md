@@ -23,13 +23,14 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Figure majeure de l’indépendance algérienne, régulièrement mobilisée dans les questions sur la décolonisation, mais moins incontournable que les grands dirigeants mondiaux."
 ---
+
 ![Image de Ahmed Ben Bella](https://upload.wikimedia.org/wikipedia/commons/2/20/Ahmed_Ben_Bella%2C_Mohamed_Khider%2C_Hocine_A%C3%AFt_Ahmed.jpg)
 
 ###### Questions
 
 Quelle personnalité est devenue le premier président de l'[[Algérie]] indépendante en [[1963]] ?
 
-Qui a été emprisonné par les autorités coloniales françaises de [[1956]] à [[1962]] avant de jouer un rôle majeur dans l'histoire algérienne ?
+Qui a été emprisonné par les autorités coloniales françaises de [[1956]] à [[1962]] avant de jouer un rôle majeur dans l'histoire algérienne ? <!-- score: 2 -->
 
 Quel homme politique a cofondé le [[Front de Libération Nationale]] (FLN) en [[1954]] pour initier la guerre d'indépendance algérienne ?
 
