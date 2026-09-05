@@ -25,11 +25,12 @@ questions:
 culture_g_score: 68
 culture_g_justification: "Pièce classique de Musset, souvent citée avec ses personnages et le romantisme, mais moins incontournable que les grands chefs-d’œuvre scolaires."
 ---
+
 ![Image de On ne badine pas avec l'amour](https://upload.wikimedia.org/wikipedia/commons/6/65/On_ne_badine_pas_avec_l%27amour_-_sc%C3%A9nario_-_btv1b6407911q_%282_of_2%29.jpg)
 
 ###### Questions
 
-Quel est le titre de la pièce écrite par [[Alfred de Musset]] en 1834 où l'on explore les thèmes de l'amour et des conventions sociales ?
+Quel est le titre de la pièce écrite par [[Alfred de Musset]] en 1834 où l'on explore les thèmes de l'amour et des conventions sociales ? <!-- score: 6 -->
 
 Comment s'appelle la célèbre œuvre dramatique du [[XIXe siècle]] qui met en scène les personnages de [[Perdican]] et [[Camille]] ?
 
