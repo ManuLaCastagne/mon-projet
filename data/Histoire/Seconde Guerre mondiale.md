@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 100
 culture_g_justification: "Conflit mondial incontournable, ouvrant sur de très nombreux thèmes militaires, politiques, génocidaires, diplomatiques et technologiques."
 ---
+
 ![Image de Seconde Guerre mondiale](https://upload.wikimedia.org/wikipedia/commons/7/7c/Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel événement historique, qui a eu lieu de [[1939]] à [[1945]], est connu po
 
 Quelle période de conflit a été marquée par l'utilisation du [[Blitzkrieg]] par l'[[Allemagne nazie]] et a vu la première utilisation d'armes nucléaires en [[1945]] ?
 
-Quel conflit mondial a débuté par l'invasion de la [[Pologne]] par l'[[Allemagne]] en [[septembre 1939]] et a impliqué les puissances de l'[[Axe]] et des [[Alliés]] ?
+Quel conflit mondial a débuté par l'invasion de la [[Pologne]] par l'[[Allemagne]] en [[septembre 1939]] et a impliqué les puissances de l'[[Axe]] et des [[Alliés]] ? <!-- score: 9 -->
 
 ###### Description
 
