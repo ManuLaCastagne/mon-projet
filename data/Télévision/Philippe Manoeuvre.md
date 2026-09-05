@@ -23,16 +23,13 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Critique rock reconnu, associé à Rock & Folk et à Nouvelle Star, avec des liens utiles vers la musique et la télévision."
 ---
+
+
 ![Image de Philippe Manoeuvre](https://upload.wikimedia.org/wikipedia/commons/5/5b/Philippe_Manoeuvre.jpg)
 
 ###### Questions
 
-Quel critique musical est devenu juré emblématique de [[La Nouvelle Star]] lors de la saison 2008 ?
-
-Quelle personnalité, née en [[1954]], a participé au jeu télévisé [[Fort Boyard]] dans l'équipe de [[Bernard Montiel]] en [[1997]] ?
-
-Quel journaliste a présenté l'émission [[Rock & Folk Story]] sur [[France Inter]] de [[1982]] à [[1987]] ?
-
+Quel critique musical né en 1954 est devenu juré emblématique de [[La Nouvelle Star]] lors de la saison 2008 ? <!-- score: 5 -->
 ###### Description
 
 [[Philippe Manoeuvre]] est un critique musical et animateur de télévision français connu pour son rôle de juré dans l'émission "[[Nouvelle Star]]" de 2008 à 2010.  
