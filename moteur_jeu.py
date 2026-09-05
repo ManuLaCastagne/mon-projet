@@ -992,11 +992,6 @@ def poser_questions(
         f"{q['fiche_nom']}"
     )
 
-    # Image affichée immédiatement au moment où la réponse est révélée.
-    afficher_image_principale(
-        q["fichier"]
-    )
-
     st.caption(
         "Importance Culture G : "
         f"{q.get('culture_g_score', CULTURE_G_DEFAULT):g}/100"
@@ -1074,6 +1069,11 @@ def poser_questions(
         ] = q["fichier"]
 
         st.stop()
+
+    # Image affichée immédiatement au moment où la réponse est révélée.
+    afficher_image_principale(
+        q["fichier"]
+    )
 
     afficher_description(
         q["fichier"],
