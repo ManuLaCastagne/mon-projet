@@ -23,13 +23,14 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Figure classique de la Terreur, mobilisable autour du Tribunal révolutionnaire, de la Révolution et du procès de Marie-Antoinette."
 ---
+
 ![Image de Fouquier-Tinville](https://upload.wikimedia.org/wikipedia/commons/d/de/Antoine_Quentin_Fouquier_de_Tinville.png)
 
 ###### Questions
 
 Quel célèbre accusateur public a joué un rôle central pendant la [[Révolution française]] et a été impliqué dans la mise en place du [[Tribunal révolutionnaire]] en [[1793]] ? 
 
-Quel homme politique, connu pour son zèle à poursuivre les ennemis de l'État pendant la [[Terreur]], a été guillotiné en [[1795]] après avoir été lui-même décrété ennemi de la République ? 
+Quel homme politique, connu pour son zèle à poursuivre les ennemis de l'État pendant la [[Terreur]], a été guillotiné en [[1795]] après avoir été lui-même décrété ennemi de la République ? <!-- score: 1 -->
 
 Quel avocat est célèbre pour avoir préparé les réquisitoires dans de nombreux procès politiques, dont celui de [[Marie-Antoinette]], et a travaillé sur plus de 2 400 cas devant le Tribunal révolutionnaire ?
 
