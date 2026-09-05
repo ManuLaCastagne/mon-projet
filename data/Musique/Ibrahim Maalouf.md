@@ -24,6 +24,8 @@ indice_6:
 culture_g_score: 60
 culture_g_justification: "Trompettiste franco-libanais contemporain connu du public francophone, utile pour des questions musicales et cinématographiques mais encore peu incontournable."
 ---
+
+
 ![Image de Ibrahim Maalouf](https://upload.wikimedia.org/wikipedia/commons/2/2a/Ibrahim_Maalouf_-_Festival_du_Bout_du_Monde_2014_-_005_%28cropped%29.jpg)
 
 ###### Questions
@@ -31,11 +33,6 @@ culture_g_justification: "Trompettiste franco-libanais contemporain connu du pub
 Quel musicien né à [[Beyrouth]], premier trompettiste au monde à jouer une trompette à quart de ton, a été récompensé par le [[César]] de la meilleure musique originale pour le film [[Dans les forêts de Sibérie]] en 2017 ?
 
 Avec quel trompettiste, né en 1980 et connu pour mélanger les styles musicaux, le journaliste [[Mouloud Achour]] a-t-il une parfaite ressemblance ?
-
-Quel trompettiste est le neveu de l'écrivain auteur de "Léon l'Africain" ?
-
-Quel compositeur a collaboré avec [[Sting]] pour une reprise de « [[Sting - Shape of My Heart|Shape of My Heart]] » lors du festival [[Jazz à Vienne]] en 2017 ? <!-- score: 4 -->
-
 ###### Description
 
 [[Ibrahim Maalouf]] est un trompettiste et compositeur franco-libanais qui s'est forgé une réputation unique en combinant jazz, musique arabe et influences électroniques dans ses œuvres. 
