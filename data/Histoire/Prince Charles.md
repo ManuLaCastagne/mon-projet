@@ -23,13 +23,14 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Monarque britannique très célèbre, associé à la monarchie contemporaine, à la famille royale et à de nombreuses références médiatiques."
 ---
+
 ![Image de Prince Charles](https://upload.wikimedia.org/wikipedia/commons/f/fd/Elizabeth%2C_Philip%2C_Charles_and_Anne.jpg)
 
 ###### Questions
 
 Le 9 avril 2025, quel membre de la famille royale s'est remarié avec [[Camilla Parker-Bowles]] ?
 
-Quel membre de la famille royale britannique a été la première personne de cette famille à obtenir un diplôme universitaire, décroché à l'université de [[Cambridge]] en [[1970]] ?
+Quel membre de la famille royale britannique a été la première personne de cette famille à obtenir un diplôme universitaire, décroché à l'université de [[Cambridge]] en [[1970]] ? <!-- score: 6 -->
 
 Qui a fondé la [[Princes Trust]] en [[1976]], une organisation caritative aidant les jeunes défavorisés au [[Royaume-Uni]] ?
 
