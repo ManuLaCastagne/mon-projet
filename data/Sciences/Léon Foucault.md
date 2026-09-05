@@ -23,13 +23,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Physicien français associé au pendule de Foucault, à la vitesse de la lumière et au gyroscope, avec plusieurs entrées de quiz classiques."
 ---
-![Image de Léon Foucault](https://upload.wikimedia.org/wikipedia/commons/9/9e/Foucault_portre_crop.jpg)
+
+![Image de Léon Foucault](https://upload.wikimedia.org/wikipedia/commons/9/9e/Foucault_portre_crop.jpg)
 
 ###### Questions
 
 Quel scientifique a utilisé un pendule en 1851 pour démontrer la rotation de la [[Terre]] ?
 
-Quel physicien français a réalisé la première mesure de la vitesse de la [[lumière]] en 1862 ?
+Quel physicien français a réalisé la première mesure de la vitesse de la [[lumière]] en 1862 ? <!-- score: 1 -->
 
 Qui a inventé le gyroscope en 1852 et a contribué de manière significative à la compréhension du mouvement de rotation de la [[Terre]] ?
 
