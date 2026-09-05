@@ -26,16 +26,13 @@ questions:
 culture_g_score: 48
 culture_g_justification: "Orlan est une artiste contemporaine marquante pour l'art corporel et la performance, mais demeure une référence spécialisée."
 ---
+
+
 ![Image de Orlan](https://upload.wikimedia.org/wikipedia/commons/a/a8/Portrait_ORLAN.jpg)
 
 ###### Questions
 
-Dans quelle année l'artiste [[Orlan]] a-t-elle changé son apparence physique en intégrant des implants de silicone lors d'une série de performances chirurgicales pour son projet [[« Refiguration-Self Hybridisation »]] ?
-
-Avec quelle technologie l'artiste [[Orlan]] a-t-elle collaboré en 1981 pour réaliser son œuvre intitulée [[« L'Art Charnel »]], qui explore le corps et l'identité ?
-
-Quel célèbre musée a consacré une rétrospective à [[Orlan]] en 1996, soulignant son impact sur l'art contemporain avec ses œuvres provocatrices ?
-
+Quelle artiste a réalisé en 1981 son œuvre intitulée [[« L'Art Charnel »]], qui explore le corps et l'identité ? <!-- score: 5 -->
 ###### Description
 
 [[Orlan]] est une artiste française contemporaine, née en 1947, qui s'est fait connaître grâce à ses performances et ses œuvres provocatrices qui interrogent les normes esthétiques et culturelles. 
