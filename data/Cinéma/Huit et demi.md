@@ -21,10 +21,11 @@ indice_6 :
 culture_g_score: 71
 culture_g_justification: "Chef-d’œuvre de Fellini souvent cité en histoire du cinéma, avec des liens au cinéma italien, à la mise en scène et à Mastroianni."
 ---
+
 ![[Pasted image 20250421184110.png]]
 ###### Questions
 
-Quel est le titre du film réalisé par [[Federico Fellini]] en [[1963]], souvent considéré comme une œuvre maîtresse du cinéma italien ?
+Quel est le titre du film réalisé par [[Federico Fellini]] en [[1963]], souvent considéré comme une œuvre maîtresse du cinéma italien ? <!-- score: 3 -->
 
 Dans quel film trouve-t-on le personnage de [[Guido Anselmi]], un réalisateur en quête d'inspiration, interprété par [[Marcello Mastroianni]] ? <!-- score: 4 -->
 
