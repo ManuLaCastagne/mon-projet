@@ -21,6 +21,7 @@ indice_6:
 culture_g_score: 80
 culture_g_justification: "Repère géographique et historique majeur, directement lié à l'Égypte, au canal de Suez et à la séparation Afrique-Asie."
 ---
+
 ![Image de Isthme de Suez](https://upload.wikimedia.org/wikipedia/commons/7/76/Isthme_de_Suez_1862.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Par quel isthme long de 160 km situé entre la mer Rouge et la Méditerranée, l
 
 Quel passage terrestre a été traversé par l'expédition de [[Napoléon Bonaparte]] lors de sa campagne en [[Géographie/Égypte]] en 1798 ? 
 
-Quel est le nom de la bande de terre qui a été coupée par la construction du [[canal de Suez]] en 1869 pour relier la [[Méditerranée]] à la [[Mer Rouge]] ?
+Quel est le nom de la bande de terre qui a été coupée par la construction du [[canal de Suez]] en 1869 pour relier la [[Méditerranée]] à la [[Mer Rouge]] ? <!-- score: 7 -->
 
 Quel est l'étroit corridor terrestre qui sépare l'[[Afrique]] de l'[[Asie]], reliant l'Égypte continentale à la péninsule du [[Sinaï]] ?
 
