@@ -23,18 +23,13 @@ indice_6:
 culture_g_score: 60
 culture_g_justification: "Réalisateur français important, notamment grâce à la Palme d’or d’Entre les murs, mais dont la notoriété reste surtout cinéphile."
 ---
+
+
 ![Image de Laurent Cantet](https://upload.wikimedia.org/wikipedia/commons/4/4a/Laurent_Cantet_Cannes_2008.jpg)
 
 ###### Questions
 
-Quel réalisateur français a remporté la [[Palme d'or]] au Festival de Cannes en 2008 avec le film [[Entre les murs]] ? <!-- score: 3 -->
-
 En 2008, quel réalisateur reçoit la Palme d'or à Cannes pour son film "Entre les murs" adapté du livre de [[François Bégaudeau]] ?
-
-Quel réalisateur a signé le film [[Ressources humaines]], sorti en 1999, qui explore la relation complexe entre un père ouvrier et son fils devenu stagiaire dans une usine ?  
-
-Qui est le réalisateur de [[L'Atelier]], un film sorti en 2017 qui aborde des thèmes de dialogue social et de radicalisation dans la région de [[La Ciotat]] ?
-
 ###### Description
 
 [[Laurent Cantet]] est un réalisateur français acclamé, né le 15 juin 1961 à [[Melle]], dans le département des [[Deux-Sèvres]]. 
