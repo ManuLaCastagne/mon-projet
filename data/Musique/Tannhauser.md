@@ -25,16 +25,15 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Opéra classique de Wagner, utile pour les liens entre mythologie germanique, romantisme, scandale parisien et histoire de la musique."
 ---
+
+
 ![Image de Tannhauser](https://upload.wikimedia.org/wikipedia/commons/a/aa/Codex_Manesse_Tannh%C3%A4user.jpg)
 
 ###### Questions
 
-Quel opéra composé par [[Richard Wagner]] en 1845 est inspiré par les légendes de [[Tannhäuser]] et des [[Minnesänger]] ?
+Quel opéra composé par [[Richard Wagner]] en 1845 est inspiré par les légendes des [[Minnesänger]] ? <!-- score: 5 -->
 
-Dans quelle œuvre musicale de [[Richard Wagner]] présentée pour la première fois au [[Royal Theatre]] de [[Dresde]] retrouve-t-on le personnage de [[Vénus]] liée au mythe du [[Tannhäuser]] ?
-
-Quelle pièce lyrique controversée, à l'origine d'un scandale lors de sa représentation à l'[[Opéra de Paris]] en 1861, est une œuvre de [[Richard Wagner]] ?
-
+Dans quelle œuvre musicale de [[Richard Wagner]] présentée pour la première fois au [[Royal Theatre]] de [[Dresde]] retrouve-t-on le personnage de [[Vénus]] liée au mythe de mon personnage principal ? <!-- score: 4 -->
 ###### Description
 
 L'opéra [[Tannhäuser]] a été composé par [[Richard Wagner]] et sa première représentation a eu lieu à la Königliches Hoftheater de [[Dresde]] en 1845.
