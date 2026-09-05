@@ -25,16 +25,13 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Pièce absolument incontournable de Corneille, reliée au théâtre classique, à la Querelle du Cid, à l’Espagne et à une intrigue mémorable."
 ---
+
+
 ![Image de Le Cid](https://upload.wikimedia.org/wikipedia/commons/b/b2/Jules_Massenet_-_Le_Cid_2e_Acte%2C_3e_Tableau_-_L%27Illustration.jpg)
 
 ###### Questions
 
 Dans quelle pièce de [[Pierre Corneille]] publiée en 1637, le personnage de [[Don Rodrigue]] doit-il choisir entre l'amour et l'honneur après avoir tué le père de [[Chimène]] ?
-
-Quelle œuvre classique du [[XVIIe siècle]] a connu un grand succès malgré une querelle littéraire connue sous le nom de "Querelle du [[Cid]]" entre 1637 et 1638 ?
-
-Quel drame en vers est souvent associé à l'introduction de la tragi-comédie dans la littérature française et porte le nom d'un célèbre [[héros espagnol]] ?
-
 ###### Description
 
 [[Le Cid]], une tragédie en vers écrite par [[Pierre Corneille]], a été créée en 1637 et est devenue un pilier de la littérature française. 
