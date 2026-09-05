@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Architecture/Norman Foster.md",
+                "file": "Cinéma/David Lean.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,12 +218,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Norman Foster.md",
+                "file": "Cinéma/David Lean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Norman Foster"
+              "title": "David Lean"
             }
           }
         ],
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/Norman Foster.md",
+                "file": "Cinéma/David Lean.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -392,8 +392,8 @@
   },
   "active": "0093fd40e5812c80",
   "lastOpenFiles": [
-    "Architecture/Norman Foster Bridge.md",
     "Architecture/Norman Foster.md",
+    "Architecture/Norman Foster Bridge.md",
     "Animaux/Hérisson.md",
     "Animaux/Oreillard.md",
     "Culture générale/tenrec.md",
