@@ -16,6 +16,7 @@ indice_6 :
   - Organismes extrêmophiles
 ---
 
+
 ![Image de Hadal](https://upload.wikimedia.org/wikipedia/commons/a/aa/Schematic_representation_of_pelagic_and_benthic_zones.jpg)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quel est le nom de la zone océanique qui s'étend au-delà de 6 000 mètres de 
 
 Dans quelle zone des [[fonds marins]] peut-on trouver des créatures adaptées à une pression écrasante et à une obscurité totale ?
 
-Comment s'appelle la région la plus profonde de l'océan, qui abrite des fosses telles que la fameuse [[fosse des Mariannes]] ?
+Comment s'appelle la région la plus profonde de l'océan, qui abrite des fosses telles que la fameuse [[fosse des Mariannes]] ? <!-- score: 4 -->
 
 ###### Description
 
