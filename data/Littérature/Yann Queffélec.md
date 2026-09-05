@@ -25,13 +25,14 @@ questions:
 culture_g_score: 40
 culture_g_justification: "Lauréat du Goncourt 1985, il constitue une connaissance littéraire utile mais relativement périphérique dans un entraînement généraliste."
 ---
-![Image de Yann Queffélec](https://upload.wikimedia.org/wikipedia/commons/2/22/Yann_Queff%C3%A9lec_%282018%29.jpg)
+
+![Image de Yann Queffélec](https://upload.wikimedia.org/wikipedia/commons/2/22/Yann_Queff%C3%A9lec_%282018%29.jpg)
 
 ###### Questions
 
 Quel écrivain français, né à [[Paris]] en 1949, a remporté le [[Prix Goncourt]] en 1985 pour son roman "Les Noces barbares" ?
 
-Quel auteur, fils de l'écrivain parisien [[Henri Queffélec]], s'est distingué avec un style littéraire qui explore souvent les thèmes de la mer et de la Bretagne ?
+Quel auteur, fils de l'écrivain parisien [[Henri Queffélec]], s'est distingué avec un style littéraire qui explore souvent les thèmes de la mer et de la Bretagne ? <!-- score: 9 -->
 
 Quel écrivain a coécrit avec [[Didier Decoin]] le scénario du film "Don Bosco" en 1988, mettant en lumière son intérêt pour des personnages historiques inspirants ?
 
