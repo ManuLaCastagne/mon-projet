@@ -23,13 +23,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Compétition centrale du rugby international, régulièrement interrogée par ses éditions, vainqueurs, joueurs et moments historiques."
 ---
+
 ![Image de Coupe du Monde de rugby](https://upload.wikimedia.org/wikipedia/commons/6/66/Panneau_Coupe_du_monde_de_rugby_2007.JPG)
 
 ###### Questions
 
 Dans quel événement sportif [[Jonah Lomu]] s'est-il illustré en marquant quatre essais contre l'[[Angleterre]] en [[1995]] ?
 
-Quel tournoi a vu la victoire historique de l'[[Afrique du Sud]] sur la [[Nouvelle-Zélande]] lors de l'édition de [[1995]], symbolisant un moment clé de l'unité nationale post-apartheid ?
+Quel tournoi a vu la victoire historique de l'[[Afrique du Sud]] sur la [[Nouvelle-Zélande]] lors de l'édition de [[1995]], symbolisant un moment clé de l'unité nationale post-apartheid ? <!-- score: 5 -->
 
 À quel tournoi participe l'équipe des [[All Blacks]] dirigée par [[Richie McCaw]], remportant le titre en [[2011]] et en [[2015]] ?
 
