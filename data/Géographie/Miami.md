@@ -28,6 +28,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Ville mondialement connue grâce à la Floride, Miami Vice, la culture cubaine, le tourisme et le sport."
 ---
+
 ![Image de Miami](https://upload.wikimedia.org/wikipedia/commons/7/77/Lifeguard_stand%2C_Miami_Beach.jpg)
 
 ![[Carte_Miami.png]]
@@ -39,7 +40,7 @@ Quelle ville américaine a accueilli le premier [[vol direct]] entre les [[État
 
 Quelle ville a été le décor du générique de la célèbre série télévisée des années 1980 [[Miami Vice]] ?
 
-Dans quelle ville se trouve le quartier de [[Little Havana]], connu pour sa culture [[cubaine]] influente, ayant vu un important exode après 1959 ?
+Dans quelle ville se trouve le quartier de [[Little Havana]], connu pour sa culture [[cubaine]] influente, ayant vu un important exode après 1959 ? <!-- score: 3 -->
 
 ###### Description
 
