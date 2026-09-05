@@ -27,12 +27,13 @@ questions:
 culture_g_score: 92
 culture_g_justification: "Grande référence européenne, l’Espagne permet de répondre à de nombreuses questions historiques, artistiques, géographiques, politiques et culturelles."
 ---
+
 ![Image de Espagne](https://upload.wikimedia.org/wikipedia/commons/3/3c/Palacio_Real_de_Olite%2C_Navarra%2C_Espa%C3%B1a%2C_2015-01-06%2C_DD_07-09_HDR.JPG)
 
 ![[Carte_Espagne.png]]
 ###### Questions
 
-Quel pays abrite la seule véritable [[désert]] d'[[Europe]], le [[désert de Tabernas]], situé dans la province d'[[Almería]]?
+Quel pays abrite la seule véritable [[désert]] d'[[Europe]], le [[désert de Tabernas]], situé dans la province d'[[Almería]]? <!-- score: 4 -->
 
 Quelle nation possède l'[[île d'Alborán]], située dans la [[mer d'Alborán]], à mi-chemin entre l'[[Espagne]] et le [[Maroc]]?
 
