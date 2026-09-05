@@ -23,6 +23,7 @@ indice_6:
 culture_g_score: 68
 culture_g_justification: "Mémorialiste majeur pour la connaissance de la cour de Louis XIV, mais moins transversal qu’une grande figure politique ou littéraire."
 ---
+
 ![Image de Duc de Saint-Simon](https://upload.wikimedia.org/wikipedia/commons/8/84/Louis_de_Rouvroy_duc_de_Saint-Simon.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel mémorialiste, célèbre pour ses écrits décrivant la cour de [[Louis XIV
 
 Quel aristocrate français, né en 1675, a laissé derrière lui une œuvre majeure qui constitue une chronique détaillée de la vie à la cour de [[Versailles]]? <!-- score: 6 -->
 
-Qui a écrit une autobiographie intitulée "Mémoires", qui offre une critique acerbe et une observation minutieuse des personnalités sous le règne de [[Louis XIV]]?
+Qui a écrit une autobiographie intitulée "Mémoires", qui offre une critique acerbe et une observation minutieuse des personnalités sous le règne de [[Louis XIV]]? <!-- score: 4 -->
 
 Quel personnage historique, connu pour ses vues critiques sur les réformes de la [[Régence française]] sous [[Philippe d'Orléans]], est mort en [[1755]] après avoir influencé les idées politiques par ses observations perspicaces ?
 
