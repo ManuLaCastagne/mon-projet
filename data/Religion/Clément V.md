@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 67
 culture_g_justification: "Figure importante de la papauté d’Avignon et de la suppression des Templiers, avec plusieurs liens historiques mais une notoriété modérée."
 ---
+
 ![Image de Clément V](https://upload.wikimedia.org/wikipedia/commons/8/89/Cl%C3%A9ment_V_Rome_biblioth%C3%A8que_Palatine.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel pape, élu en [[1305]], fut le premier à s'installer en [[Avignon]], initi
 
 Quel pape a supprimé l'ordre des [[Templiers]] en [[1312]] sous la pression du roi de [[France]] [[Philippe IV le Bel]] ?
 
-Qui est devenu le premier pontife après avoir été élu hors des terres italiennes depuis des siècles, précisément en [[1305]] ?
+Qui est devenu le premier pontife après avoir été élu hors des terres italiennes depuis des siècles, précisément en [[1305]] ? <!-- score: 2 -->
 
 ###### Description
 
