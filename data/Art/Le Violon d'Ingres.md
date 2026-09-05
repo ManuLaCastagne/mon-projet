@@ -24,13 +24,14 @@ indice_6 :
 culture_g_score: 71
 culture_g_justification: "Photographie surréaliste très reconnaissable, ouvrant sur Man Ray, Kiki de Montparnasse, Ingres, le surréalisme et la culture visuelle."
 ---
+
 ![Image de Le Violon d'Ingres](https://upload.wikimedia.org/wikipedia/commons/e/e5/Jean_Auguste_Dominique_Ingres_004.jpg)
 
 ###### Questions
 
 Quel célèbre tableau, créé par [[Man Ray]] en 1924, montre une [[femme]] nue avec des [[ouïes]] de [[violon]] sur son dos, combinant la photographie surréaliste et la musique?
 
-Quelle œuvre d'art a été inspirée par le célèbre [[peintre français]] [[Jean-Auguste-Dominique Ingres]], en faisant référence à sa passion pour le [[violon]] au-delà de la peinture?
+Quelle œuvre d'art a été inspirée par le célèbre [[peintre français]] [[Jean-Auguste-Dominique Ingres]], en faisant référence à sa passion pour le [[violon]] au-delà de la peinture? <!-- score: 7 -->
 
 Pour quel célèbre cliché, mettant en scène [[Kiki de Montparnasse]], l'artiste [[Man Ray]] a-t-il utilisé l'expression française signifiant un passe-temps favori, associant deux concepts artistiques?
 
