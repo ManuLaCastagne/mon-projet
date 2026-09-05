@@ -23,6 +23,7 @@ questions:
 culture_g_score: 68
 culture_g_justification: "Son rôle de vice-président, l’élection de 2000 et son engagement climatique fournissent plusieurs angles classiques, sans en faire une figure historique fondamentale."
 ---
+
 ![Image de Al Gore](https://upload.wikimedia.org/wikipedia/commons/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel [[homme politique américain]], récompensé par le [[prix Nobel de la paix
 
 Quel ancien [[vice-président des États-Unis]] sous [[Bill Clinton]], a failli devenir président en perdant une élection controversée contre [[George W. Bush]] lors du scrutin de l'an [[2000]] ?
 
-Quel auteur de [[livres politiques et environnementaux]], cofondateur de la chaîne [[Current TV]] en [[2005]], a remporté un [[Emmy Award]] pour sa contribution à ce média innovant ?
+Quel auteur de [[livres politiques et environnementaux]], cofondateur de la chaîne [[Current TV]] en [[2005]], a remporté un [[Emmy Award]] pour sa contribution à ce média innovant ? <!-- score: 4 -->
 
 ###### Description
 
