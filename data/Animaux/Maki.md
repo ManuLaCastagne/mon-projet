@@ -16,6 +16,7 @@ indice_6:
 culture_g_score: 64
 culture_g_justification: "Lémurien emblématique de Madagascar, exploitable en zoologie, géographie et culture populaire, sans être un incontournable absolu."
 ---
+
 ![Image de Maki](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Le_mococo.jpg/800px-Le_mococo.jpg)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quel lémurien est une espèce endémique de Madagascar ?
 
 Quel primate originaire de [[Madagascar]] est connu pour sa queue annelée et sa sociabilité exceptionnelle ?
 
-Quel animal, mentionné dans le célèbre film d'animation [[Madagascar]] sorti en [[2005]], est souvent confondu avec un lémurien ?
+Quel animal, mentionné dans le célèbre film d'animation [[Madagascar]] sorti en [[2005]], est souvent confondu avec un lémurien ? <!-- score: 4 -->
 
 Quel animal diurne de la famille des lémuriens, dont le nom est associé à une variété de sushi, est considéré comme l'un des symboles emblématiques de [[Madagascar]] ? <!-- score: 6 -->
 
