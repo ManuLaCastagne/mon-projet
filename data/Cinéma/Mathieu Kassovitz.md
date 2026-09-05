@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 80
 culture_g_justification: "Figure importante du cinéma français grâce à La Haine, ses rôles d’acteur et plusieurs réalisations marquantes."
 ---
+
 ![Image de Mathieu Kassovitz](https://upload.wikimedia.org/wikipedia/commons/5/54/Mathieu_Kassovitz_Cannes_2017.jpg)
 
 ###### Questions
 
-Quel réalisateur a remporté le [[César du meilleur film]] et de la [[meilleure première œuvre]] avec le film "[[La Haine]]" en [[1996]] ? 
+Quel réalisateur a remporté le [[César du meilleur film]] et de la [[meilleure première œuvre]] avec le film "[[La Haine]]" en [[1996]] ? <!-- score: 6 -->
 
 Quel acteur incarne le personnage de [[Nino Quincampoix]] dans le film "[[Le Fabuleux Destin d'Amélie Poulain]]" réalisé par [[Jean-Pierre Jeunet]] en [[2001]] ? 
 
