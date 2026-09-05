@@ -23,16 +23,13 @@ questions:
 culture_g_score: 40
 culture_g_justification: "Ville préfectorale française pouvant servir à quelques questions régionales, mais peu présente dans les quiz généralistes."
 ---
+
+
 ![Image de Bar-le-Duc](https://upload.wikimedia.org/wikipedia/commons/2/23/Bar-le-Duc_Place_Saint-Pierre.jpg)
 
 ###### Questions
 
-Dans quelle ville a été signé en [[1919]] le traité mettant fin aux hostilités entre la [[Pologne]] et la [[République Socialiste Fédérative Soviétique de Russie]] ? 
-
 Quelle ville lorraine a vu naître en [[1511]] le célèbre humaniste [[Guillaume de Greef]], connu pour son influence durant la [[Renaissance]] ? 
-
-Quel est le chef-lieu de la [[Meuse]] qui, au début de la [[Première Guerre mondiale]], a subi de nombreux bombardements en [[1914]], devenant un symbole de la résistance française ?
-
 ###### Description
 
 [[Bar-le-Duc]], située dans la région du Grand Est en France, possède une riche histoire remontant au XIIe siècle en tant que capitale du comté de [[Bar]].  
