@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/David Lean.md",
+                "file": "Cinéma/Dick Cheney.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,12 +218,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/David Lean.md",
+                "file": "Cinéma/Dick Cheney.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "David Lean"
+              "title": "Dick Cheney"
             }
           }
         ],
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinéma/David Lean.md",
+                "file": "Cinéma/Dick Cheney.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -392,6 +392,8 @@
   },
   "active": "0093fd40e5812c80",
   "lastOpenFiles": [
+    "Littérature/Anaïs Nin.md",
+    "Cinéma/David Lean.md",
     "Architecture/Norman Foster.md",
     "Architecture/Norman Foster Bridge.md",
     "Animaux/Hérisson.md",
@@ -417,8 +419,6 @@
     "Architecture/Mosquée al-Harâm.md",
     "Animaux/Narval.md",
     "Culture générale/licorne de mer.md",
-    "Littérature/La Dame aux Camélias.md",
-    "Littérature/Antoine de Saint-Exupéry.md",
     "Frises/Scores Culture G.base",
     "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260822185959.png",
