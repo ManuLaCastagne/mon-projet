@@ -27,12 +27,13 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Toulouse offre plusieurs entrées fréquentes par la géographie française, l’aéronautique, l’espace, le patrimoine et le Canal du Midi."
 ---
+
 ![Image de Toulouse](https://upload.wikimedia.org/wikipedia/commons/7/7a/Panorama_from_pont_Saint-Pierre_in_Toulouse_-_2012-08-31.jpg)
 
 ![[Carte_Toulouse.png]]
 ###### Questions
 
-Dans quelle ville française peut-on admirer la [[Cité de l'espace]], un parc à thème dédié à l'exploration spatiale, ouvert en 1997 ?
+Dans quelle ville française peut-on admirer la [[Cité de l'espace]], un parc à thème dédié à l'exploration spatiale, ouvert en 1997 ? <!-- score: 7 -->
 
 [[Toulouse]] a été surnommée la "Ville Rose" en raison de la couleur de ses bâtiments construits en briques de terre cuite. Quelle est cette ville ?
 
