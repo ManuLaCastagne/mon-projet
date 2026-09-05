@@ -23,6 +23,7 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Alliance importante de l’Europe postnapoléonienne, utile pour le Congrès de Vienne et la restauration monarchique, mais moins incontournable."
 ---
+
 ![Image de Sainte Alliance](https://upload.wikimedia.org/wikipedia/commons/c/c9/Accession_de_la_France_%C3%A0_la_Sainte_Alliance%2C_novembre_1815%2C_ND4211%281%29.jpg)
 
 ###### Questions
