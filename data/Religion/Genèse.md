@@ -21,13 +21,14 @@ indice_6 :
 culture_g_score: 100
 culture_g_justification: "Premier livre de la Bible et source de récits fondateurs sur la création, les patriarches et les origines de l’humanité."
 ---
+
 ![Image de Genèse](https://upload.wikimedia.org/wikipedia/commons/8/8e/Genesis_1_Dead_Sea_Scroll_%28Cropped%29.jpg)
 
 ###### Questions
 
 Dans quel livre de la [[Bible hébraïque]] trouve-t-on l'histoire de [[Joseph]] vendue par ses frères en [[Égypte]] ?
 
-Quel est le premier livre du [[Pentateuque]] qui décrit la création du [[monde]] et de l'[[humanité]] par [[Dieu]] ?
+Quel est le premier livre du [[Pentateuque]] qui décrit la création du [[monde]] et de l'[[humanité]] par [[Dieu]] ? <!-- score: 8 -->
 
 Quel livre de la [[Torah]] présente les récits des [[Patriarches]] comme [[Abraham]], [[Isaac]], et [[Jacob]] ?
 
