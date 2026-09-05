@@ -25,6 +25,7 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Roman classique du Nouveau Roman, régulièrement cité pour sa narration à la deuxième personne et son Prix Renaudot."
 ---
+
 ![Image de La Modification](https://upload.wikimedia.org/wikipedia/commons/f/fc/Second_thoughts_%288412413522%29.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel est le roman écrit par [[Michel Butor]] en 1957, considéré comme un exem
 
 Quel ouvrage de [[Michel Butor]] explore le voyage intérieur d'un homme lors d'un trajet en train entre [[Paris]] et [[Rome]] ?
 
-Quel livre, publié en 1957, a valu à [[Michel Butor]] le [[Prix Renaudot]] pour sa structure et son style novateurs ? <!-- score: 6 -->
+Quel livre, publié en 1957, a valu à [[Michel Butor]] le [[Prix Renaudot]] pour sa structure et son style novateurs ? <!-- score: 7 -->
 
 ###### Description
 

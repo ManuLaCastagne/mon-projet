@@ -26,6 +26,7 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Architecte contemporain de premier plan, Norman Foster est relié à de nombreux bâtiments célèbres, à Londres, à l’ingénierie et à l’urbanisme."
 ---
+
 ![Image de Norman Foster](https://upload.wikimedia.org/wikipedia/commons/2/2f/190930_Bundeslatitude: 35.271886
 longitude: -97.4888134
 location: 35.271886,-97.4888134
@@ -40,7 +41,7 @@ Quel architecte britannique, qui a conçu en 1986 le célèbre siège de la banq
 
 Quel célèbre architecte, anobli en 1990 par [[la Reine Elizabeth II]], est mondialement reconnu pour avoir dessiné le [[Viaduc de Millau]], le pont le plus haut du monde, inauguré en 2004?
 
-Quel architecte, chargé de redessiner le [[Reichstag]] à [[Berlin]] dans les années 1990, est aussi responsable de la construction du [[30 St Mary Axe]], surnommé "le Gherkin", à [[Londres]] en 2003?
+Quel architecte, chargé de redessiner le [[Reichstag]] à [[Berlin]] dans les années 1990, est aussi responsable de la construction du [[30 St Mary Axe]], surnommé "le Gherkin", à [[Londres]] en 2003? <!-- score: 4 -->
 
 ###### Description
 

@@ -25,13 +25,14 @@ questions:
 culture_g_score: 40
 culture_g_justification: "Écrivain et scénariste britannique reconnu, notamment pour Un Anglais sous les tropiques et James Bond, mais de notoriété limitée."
 ---
+
 ![Image de William Boyd](https://upload.wikimedia.org/wikipedia/commons/7/73/Hopalong_Cassidy_Returns_FilmPoster.jpeg)
 
 ###### Questions
 
 Quel auteur britannique, connu pour ses nombreux [[romans]] et ses [[nouvelles]], a été choisi en 2012 pour écrire un nouvel opus des aventures de [[James Bond]], intitulé [[Solo]] ? 
 
-Qui est l'auteur de [[Un Anglais sous les tropiques]], un livre qui a remporté le [[Prix Femina étranger]] en 1991 ?
+Qui est l'auteur de [[Un Anglais sous les tropiques]], un livre qui a remporté le [[Prix Femina étranger]] en 1991 ? <!-- score: 3 -->
 
 Quel écrivain, également scénariste de films, a coécrit le scénario du film [[Chaplin (film)]] en 1992, réalisé par [[Richard Attenborough]] ?
 

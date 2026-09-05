@@ -24,22 +24,23 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Sprinteur français associé à un record national, aux Championnats d'Europe 2010 et à une performance olympique notable."
 ---
-![Image de Christophe Lemaître](https://upload.wikimedia.org/wikipedia/commons/4/4c/Men_100_m_French_Athletics_Championships_2013_t153458.jpg)
+
+![Image de Christophe Lemaître](https://upload.wikimedia.org/wikipedia/commons/4/4c/Men_100_m_French_Athletics_Championships_2013_t153458.jpg)
 
 ###### Questions
 
 Quel est le nom du premier athlète français à avoir couru le 100 mètres en moins de 10 secondes lors d'une compétition à [[Valence]] en [[2010]] ?
 
-Quel sprinteur a remporté trois médailles d'or aux [[Championnats d'Europe d'athlétisme]] à [[Barcelone]] en [[2010]] ?
+Quel sprinteur a remporté trois médailles d'or aux [[Championnats d'Europe d'athlétisme]] à [[Barcelone]] en [[2010]] ? <!-- score: 8 -->
 
 Qui est le premier athlète blanc à avoir franchi la barrière des 10 secondes au 100 mètres, marquant l'histoire de l'athlétisme en [[2010]] ?
 
 ###### Description
 
-[[Christophe Lemaître]] est un athlète français né le 11 juin 1990 à [[Annecy]], une ville située en [[Haute-Savoie]]. 
+[[Christophe Lemaître]] est un athlète français né le 11 juin 1990 à [[Annecy]], une ville située en [[Haute-Savoie]]. 
 
 Il est le premier sprinteur blanc à courir le 100 mètres en moins de 10 secondes, réalisant cet exploit le 9 juillet 2010 avec un temps de 9,98 secondes à [[Valence]], en [[Drôme]]. 
 
 En 2016, aux [[Jeux olympiques de Rio de Janeiro]], il a remporté la médaille de bronze au 200 mètres, devenant ainsi le premier sprinteur français à monter sur le podium olympique dans cette discipline depuis [[Abdoulaye Seye]] en 1960. 
 
-Un fait moins connu à propos de [[Christophe Lemaître]] est que, durant sa jeunesse, il était davantage passionné par le dessin que par l'athlétisme, sport dans lequel il a pourtant excellé au niveau international.
+Un fait moins connu à propos de [[Christophe Lemaître]] est que, durant sa jeunesse, il était davantage passionné par le dessin que par l'athlétisme, sport dans lequel il a pourtant excellé au niveau international.

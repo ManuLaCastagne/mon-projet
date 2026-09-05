@@ -25,16 +25,15 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Chef-d’œuvre mondial de Melville, permettant des questions sur la littérature américaine, Achab, la mer, la baleine et les symboles de l’obsession."
 ---
+
+
 ![Image de Moby Dick](https://upload.wikimedia.org/wikipedia/commons/c/cc/Moby_Dick_%28ship%2C_1976%29_005.JPG)
 
 ###### Questions
 
 Dans quel roman de [[Herman Melville]] publié en 1851 peut-on suivre les aventures du capitaine [[Achab]] en quête du célèbre cachalot blanc ?
 
-Quel ouvrage de la littérature américaine met en scène un narrateur nommé [[Ishmael]] et son voyage à bord du navire [[Pequod]] ?
-
-Quel livre est devenu un symbole majeur de la lutte et de l'obsession irrationnelle à travers l'histoire d'une chasse au grand cétacé blanc ?
-
+Quel ouvrage de la littérature américaine met en scène un narrateur nommé [[Ishmael]] et son voyage à bord du navire [[Pequod]] ? <!-- score: 4 -->
 ###### Description
 
 [[Moby Dick]], publié en 1851 par l'auteur américain [[Herman Melville]], est un roman emblématique de la littérature classique, relatant la quête obsessionnelle du capitaine [[Achab]] pour tuer un gigantesque cachalot blanc. 

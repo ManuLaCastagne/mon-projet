@@ -23,11 +23,12 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Texte fondateur de plusieurs traditions et source d’innombrables questions historiques, religieuses, littéraires et culturelles."
 ---
+
 ![Image de Bible](https://upload.wikimedia.org/wikipedia/commons/5/56/Gustave_Dor%C3%A9_-_The_Holy_Bible_-_Plate_I%2C_The_Deluge.jpg)
 
 ###### Questions
 
-Quel est le livre sacré qui contient le récit de la création du monde en sept jours tel que raconté dans le livre de la [[Genèse]] ?
+Quel est le livre sacré qui contient le récit de la création du monde en sept jours tel que raconté dans le livre de la [[Genèse]] ? <!-- score: 4 -->
 
 Quel est le texte religieux majeur comportant 66 livres canoniques pour les Protestants et contenant le célèbre [[Sermon sur la montagne]] de [[Jésus]] ?
 

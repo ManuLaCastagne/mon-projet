@@ -23,6 +23,7 @@ questions:
 culture_g_score: 97
 culture_g_justification: "Inventeur d’un système universellement connu, à la fois historique, scientifique, social et lié à l’accessibilité."
 ---
+
 ![Image de Louis Braille](https://upload.wikimedia.org/wikipedia/commons/9/92/Louis_Braille_by_%C3%89tienne_Leroux.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans quelle invention de 1824, développée par [[Louis Braille]], a-t-on créé
 
 Quel génie français, nommé [[Louis Braille]], a mis au point à l'âge de 15 ans un système de lecture adopté dans de nombreux pays pour aider les personnes déficientes visuelles ?
 
-Qui est l'inventeur, né en 1809, du système de lecture et d'écriture pour aveugles qui porte son nom et a transformé l'accès à l'information pour les non-voyants ?
+Qui est l'inventeur, né en 1809, du système de lecture et d'écriture pour aveugles qui porte son nom et a transformé l'accès à l'information pour les non-voyants ? <!-- score: 9 -->
 
 ###### Description
 

@@ -25,11 +25,12 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Drame historique reconnu grâce à son casting, ses Oscars et son cadre de guerre de Sécession, mais de portée plus limitée que les grands classiques."
 ---
-![Image de Retour à Cold Mountain](https://upload.wikimedia.org/wikipedia/commons/7/78/Cold_Mountain-27527.jpg)
+
+![Image de Retour à Cold Mountain](https://upload.wikimedia.org/wikipedia/commons/7/78/Cold_Mountain-27527.jpg)
 
 ###### Questions
 
-Dans quel film sorti en 2003 et mettant en vedette [[Nicole Kidman]], [[Jude Law]] et [[Renée Zellweger]], cette dernière a remporté l'Oscar de la meilleure actrice dans un second rôle ?
+Dans quel film sorti en 2003 et mettant en vedette [[Nicole Kidman]], [[Jude Law]] et [[Renée Zellweger]], cette dernière a remporté l'Oscar de la meilleure actrice dans un second rôle ? <!-- score: 2 -->
 
 Quel film réalisé par [[Anthony Minghella]] a été partiellement tourné dans les [[Carpates]] en [[Roumanie]] pour représenter la [[Caroline du Nord]] durant la [[Guerre de Sécession]] ?
 

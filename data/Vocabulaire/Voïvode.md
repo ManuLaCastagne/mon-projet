@@ -16,11 +16,12 @@ indice_6 :
   - Moyen Âge
 ---
 
+
 ![Image de Voïvode](https://upload.wikimedia.org/wikipedia/commons/4/48/Prsten_vojvode_Stepana.jpg)
 
 ###### Questions
 
-Quel terme, autre que [[boyard]], désigne un ancien seigneur de [[Russie]] ?
+Quel terme, autre que [[boyard]], désigne un ancien seigneur de [[Russie]] ? <!-- score: 4 -->
 
 Quel terme désigne un titre militaire et administratif historique en [[Europe de l'Est]], notamment utilisé en [[Pologne]], [[Roumanie]] et [[Serbie]] pour désigner des chefs de guerre ou gouverneurs ?
 

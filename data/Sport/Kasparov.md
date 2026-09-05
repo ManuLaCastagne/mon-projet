@@ -23,11 +23,12 @@ questions:
 culture_g_score: 97
 culture_g_justification: "Figure incontournable des échecs, liée à Karpov, à Deep Blue, à l’URSS et à l’histoire de l’intelligence artificielle."
 ---
+
 ![Image de Kasparov](https://upload.wikimedia.org/wikipedia/commons/3/31/Garry_Kasparov_%2837097592314%29.jpg)
 
 ###### Questions
 
-Quel joueur d'échecs a été le plus jeune champion mondial à l'âge de 22 ans en 1985, battant [[Anatoli Karpov]]? <!-- score: 4 -->
+Quel joueur d'échecs a été le plus jeune champion mondial à l'âge de 22 ans en 1985, battant [[Anatoli Karpov]]? <!-- score: 6 -->
 
 Quel célèbre joueur d'échecs a affronté l'ordinateur [[Deep Blue]] en 1997 dans un match qui a marqué l'histoire des échecs et de l'intelligence artificielle?
 

@@ -25,13 +25,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Satire majeure des Monty Python, fréquemment citée pour la religion, la comédie britannique, la censure et sa chanson finale."
 ---
+
 ![Image de La Vie de Brian](https://upload.wikimedia.org/wikipedia/commons/c/ca/Brian_Pallister_-_2019_%2848002323306%29_%28cropped%29.jpg)
 
 ###### Questions
 
 Quel film satirique des [[Monty Python]], sorti en 1979, a été vivement critiqué et interdit dans plusieurs pays en raison de son thème controversé sur la religion ?
 
-Dans quelle œuvre cinématographique, réalisée par [[Terry Jones]], le personnage principal, [[Brian Cohen]], naît-il le même jour que [[Jésus]] dans une étable voisine ?
+Dans quelle œuvre cinématographique, réalisée par [[Terry Jones]], le personnage principal, [[Brian Cohen]], naît-il le même jour que [[Jésus]] dans une étable voisine ? <!-- score: 2 -->
 
 Quel long-métrage humoristique parodie la vie de [[Jésus]], et présente une scène culte où les personnages chantent "Always Look on the Bright Side of Life" lors d'une crucifixion ?
 

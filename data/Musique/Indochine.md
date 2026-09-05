@@ -23,6 +23,7 @@ indice_6:
 culture_g_score: 77
 culture_g_justification: "Groupe majeur de la chanson et du rock français, régulièrement interrogé à travers ses tubes, albums et concerts."
 ---
+
 ![Image de Indochine](https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_indochine.png)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel groupe français formé en 1981 a vendu plus de 10 millions d'albums dans l
 
 Quelle formation musicale a été la première à remplir [[le Palais Omnisports de Paris-Bercy]] en 1987 avec un concert regroupant plus de 17 000 spectateurs ?
 
-Quel groupe a sorti l'album "[[L'Aventurier]]" en 1982, devenant rapidement un succès iconique de la [[New Wave]] française des années 80 ?
+Quel groupe a sorti l'album "[[L'Aventurier]]" en 1982, devenant rapidement un succès iconique de la [[New Wave]] française des années 80 ? <!-- score: 9 -->
 
 ###### Description
 

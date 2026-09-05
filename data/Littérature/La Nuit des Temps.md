@@ -25,13 +25,14 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Roman marquant de Barjavel et de la science-fiction française, connu pour son intrigue, mais moins incontournable que les grands classiques mondiaux du genre."
 ---
+
 ![Image de La Nuit des Temps](https://upload.wikimedia.org/wikipedia/commons/9/94/La_nuit_des_temps-Collectif_Serpent_Cosmique-Geneva_Lux-L1002787.jpg)
 
 ###### Questions
 
 Quel roman [[René Barjavel]] a-t-il publié en 1968 où des scientifiques découvrent sous la glace de l'[[Antarctique]] une civilisation d'il y a 900 000 ans ?
 
-Dans quel livre publié en 1968 un récit d'amour intemporel se mêle-t-il à une intrigue scientifique liant le passé et le présent, écrit par [[René Barjavel]] ?
+Dans quel livre publié en 1968 un récit d'amour intemporel se mêle-t-il à une intrigue scientifique liant le passé et le présent, écrit par [[René Barjavel]] ? <!-- score: 1 -->
 
 Quelle œuvre de [[René Barjavel]] contient une expédition scientifique qui mène à la découverte d'une capsule révélant une ancienne civilisation oubliée, publiée pour la première fois en 1968 ?
 

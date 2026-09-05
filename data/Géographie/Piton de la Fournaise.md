@@ -24,6 +24,8 @@ indice_6:
 culture_g_score: 68
 culture_g_justification: "Volcan très actif et emblématique de La Réunion, régulièrement mobilisé en géographie et en sciences, avec des angles néanmoins limités."
 ---
+
+
 ![Image de Piton de la Fournaise](https://upload.wikimedia.org/wikipedia/commons/b/bf/Piton_de_la_Fournaise_BD-ORTHO.jpg)
 
 ![[Carte_Piton de la Fournaise.png]]
@@ -32,11 +34,6 @@ culture_g_justification: "Volcan très actif et emblématique de La Réunion, r�
 Quel volcan actif de l'île de La Réunion, est surveillé par un observatoire depuis 79 ?
 
 Quel volcan actif, situé sur l'île de [[La Réunion]], est considéré comme l'un des plus actifs au monde avec plus de 150 éruptions enregistrées depuis le début du 20ème siècle ?
-
-Quel site, formé il y a environ 530 000 ans, est devenu un haut lieu scientifique et touristique connu pour sa dernière éruption en 2021 ?
-
-Quel volcan a été désigné comme réserve biologique intégrale par l'[[UNESCO]] en 2010, soulignant ainsi son importance à la fois pour la recherche scientifique et la préservation de l'environnement ?
-
 ###### Description
 
 Le [[Piton de la Fournaise]], [[volcan]] situé sur l'île de [[La Réunion]], est l'un des volcans les plus actifs au monde, avec une moyenne d'une éruption tous les neuf mois. 

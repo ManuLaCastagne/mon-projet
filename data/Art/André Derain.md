@@ -26,7 +26,8 @@ questions:
 culture_g_score: 76
 culture_g_justification: "Cofondateur du fauvisme, il offre plusieurs liens utiles avec Matisse, les Ballets russes, la sculpture et l’histoire de l’art moderne."
 ---
-![Image de André Derain](https://upload.wikimedia.org/wikipedia/commons/e/ef/Andr%C3%A9_Derain_1928.jpg)
+
+![Image de André Derain](https://upload.wikimedia.org/wikipedia/commons/e/ef/Andr%C3%A9_Derain_1928.jpg)
 
 ###### Questions
 
@@ -34,7 +35,7 @@ Quel artiste français, né en 1880, est considéré comme l'un des cofondateurs
 
 Quel peintre, qui a également travaillé comme sculpteur et théoricien de l'art, a réalisé des décors pour les ballets russes de [[Serge de Diaghilev]] dans les années 1910 ?
 
-Quel artiste a été cofondateur des [[Ateliers Lapina]], une entreprise de gravure, qui a apporté une contribution significative au domaine de la lithographie dans les années 1920 ?
+Quel artiste a été cofondateur des [[Ateliers Lapina]], une entreprise de gravure, qui a apporté une contribution significative au domaine de la lithographie dans les années 1920 ? <!-- score: 4 -->
 
 ###### Description
 

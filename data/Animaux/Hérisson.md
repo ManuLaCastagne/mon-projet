@@ -18,11 +18,12 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Petit mammifère familier et sympathique, utile pour des questions de zoologie, d'écologie et de culture populaire."
 ---
-![Image de Hérisson](https://upload.wikimedia.org/wikipedia/commons/8/83/H%C3%A9risson_-_Allier_021.JPG)
+
+![Image de Hérisson](https://upload.wikimedia.org/wikipedia/commons/8/83/H%C3%A9risson_-_Allier_021.JPG)
 
 ###### Questions
 
-Quel animal a donné son nom à un style de coiffure populaire dans les années [[1980]], toujours porté par le bassiste du groupe [[The Cure]], [[Simon Gallup]] ?
+Quel animal a donné son nom à un style de coiffure populaire dans les années [[1980]], toujours porté par le bassiste du groupe [[The Cure]], [[Simon Gallup]] ? <!-- score: 4 -->
 
 Quel petit mammifère recouvert de piquants fut envoyé dans l'espace par les scientifiques britanniques lors d'une expérience en [[2004]] pour étudier les effets de l'apesanteur sur le sommeil ?
 

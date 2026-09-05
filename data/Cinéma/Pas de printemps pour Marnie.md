@@ -23,11 +23,12 @@ indice_6:
 culture_g_score: 71
 culture_g_justification: "Film important d’Hitchcock, exploitable par son intrigue, Tippi Hedren, Winston Graham et Bernard Herrmann, avec une fréquence classique mais non exceptionnelle."
 ---
+
 ![Image de Pas de printemps pour Marnie](https://upload.wikimedia.org/wikipedia/commons/a/a5/Alfred_Hitchcock%27s_Marnie_Trailer_-_Tippi_Hedren_%26_Sean_Connery_%281%29.png)
 
 ###### Questions
 
-Quel film réalisé par [[Alfred Hitchcock]] en 1964 met en scène [[Tippi Hedren]] dans le rôle principal après son apparition dans [[Les Oiseaux]] ?
+Quel film réalisé par [[Alfred Hitchcock]] en 1964 met en scène [[Tippi Hedren]] dans le rôle principal après son apparition dans [[Les Oiseaux]] ? <!-- score: 4 -->
 
 En 1964, dans quel film d'Alfred Hitchcock l'héroïne, incarnée par Tippi Hedren, ne supporte-t-elle pas la vue du rouge?
 

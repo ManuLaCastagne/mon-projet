@@ -23,7 +23,8 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Reine et régente de France, elle relie Henri IV, Louis XIII, la régence, le Luxembourg et Rubens."
 ---
-![Image de Marie de Médicis](https://upload.wikimedia.org/wikipedia/commons/9/96/0_Marie_de_M%C3%A9dicis_-_Frans_Pourbus_le_Jeune_-_Louvre_%28INV1710%29_-_%282%29.JPG)
+
+![Image de Marie de Médicis](https://upload.wikimedia.org/wikipedia/commons/9/96/0_Marie_de_M%C3%A9dicis_-_Frans_Pourbus_le_Jeune_-_Louvre_%28INV1710%29_-_%282%29.JPG)
 
 ###### Questions
 
@@ -31,7 +32,7 @@ Quel personnage historique a inauguré en [[1616]] le [[Palais du Luxembourg]] �
 
 Qui a commandé la construction du [[Jardin du Luxembourg]] à partir de [[1612]] à [[Paris]] ?  
 
-Quel membre de la royauté a assumé un rôle de régence pour son fils [[Louis XIII]] de [[1610]] à [[1617]] ?
+Quel membre de la royauté a assumé un rôle de régence pour son fils [[Louis XIII]] de [[1610]] à [[1617]] ? <!-- score: 2 -->
 
 ###### Description
 

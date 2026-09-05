@@ -21,16 +21,13 @@ indice_6 :
 culture_g_score: 56
 culture_g_justification: "Animateur populaire des jeux et divertissements des années 1980, régulièrement cité mais moins central que les grandes figures télévisuelles."
 ---
+
+
 ![Image de Patrick Sabatier](https://upload.wikimedia.org/wikipedia/commons/d/db/Villeneuve_d%27Ascq_Eglise_St_S%C3%A9bastien_dalle_fun%C3%A9raire_du_gouverneur_de_Lille_Jean_de_Robl%C3%A8s.jpg)
 
 ###### Questions
 
-Dans quelle émission télévisée emblématique diffusée pour la première fois en [[1980]] sur [[TF1]], [[Patrick Sabatier]] offrait-il aux célébrités la possibilité de choisir leur remplaçant pour une journée ?
-
-Quel animateur a été suspendu des ondes de [[TF1]] en [[1993]] pour "manque de sincérité" dans son émission de jeux, ce qui a marqué un tournant surprenant dans sa carrière télévisuelle ? <!-- score: 4 -->
-
 Qui a effectué un retour médiatique notable en [[2009]] sur [[France 2]] avec l'émission de divertissement "Mot de passe", après une absence de près de vingt ans à la télévision française ?
-
 ###### Description
 
 [[Patrick Sabatier]] est un célèbre animateur et producteur de télévision français, né en [[1951]]. 

@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 80
 culture_g_justification: "Figure classique de l’histoire de l’informatique, avec des liens rentables vers Babbage, les mathématiques et le premier programme."
 ---
+
 ![Image de Ada Lovelace](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel pionnier de l'informatique a publié en [[1843]] un article qui est consid�
 
 Quelle mathématicienne et collaboratrice de [[Charles Babbage]] est reconnue pour sa contribution significative à la conception de la [[machine analytique]] ? <!-- score: 4 -->
 
-Quelle personnalité britannique née en [[1815]], fille du poète [[Lord Byron]], est connue pour son rôle dans l'avènement de l'informatique ? <!-- score: 5 -->
+Quelle personnalité britannique née en [[1815]], fille du poète [[Lord Byron]], est connue pour son rôle dans l'avènement de l'informatique ? <!-- score: 6 -->
 ###### Description
 
 [[Ada Lovelace]], née en [[1815]], est souvent reconnue comme la [[première femme]] programmeuse informatique au monde, bien qu'elle ait vécu bien avant l'invention des ordinateurs modernes. 

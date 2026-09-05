@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 64
 culture_g_justification: "Épisode évangélique célèbre du premier miracle de Jésus, régulièrement utilisé en religion, en histoire de l'art et en iconographie."
 ---
+
 ![Image de Noces de Cana](https://upload.wikimedia.org/wikipedia/commons/9/95/%28Castres%29_Les_Noces_de_Cana_-_Ecole_espagnole_du_XVIIe_-_Mus%C3%A9e_Goya.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel événement biblique est souvent considéré comme le premier miracle de [[
 
 Dans quelle scène décrite dans l'[[Évangile selon Jean]], le personnage central intervient lors d'une célébration nuptiale, soulignant l'importance des mariages dans la tradition chrétienne ?
 
-Quel épisode biblique célèbre regroupe [[Marie]] et [[Jésus]] dans un événement festif où Jésus réalise son premier miracle public au [[Ier siècle]] après Jésus-Christ ?
+Quel épisode biblique célèbre regroupe [[Marie]] et [[Jésus]] dans un événement festif où Jésus réalise son premier miracle public au [[Ier siècle]] après Jésus-Christ ? <!-- score: 2 -->
 
 ###### Description
 
