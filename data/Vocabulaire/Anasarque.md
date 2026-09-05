@@ -16,6 +16,7 @@ indice_6 :
   - trouble métabolique
 ---
 
+
 ![Image de Anasarque](https://upload.wikimedia.org/wikipedia/commons/1/14/Newborn_infant_with_severe_hemolytic_disease_%28erythroblastosis_foetalis%29_resulting_in_hydrops_foetalis.png)
 
 ###### Questions
@@ -24,7 +25,7 @@ Quel terme utilise-t-on en médecine pour décrire une accumulation généralis�
 
 Comment nomme-t-on l'état édémateux sévère souvent associé à des troubles cardiaques, rénaux ou hépatiques ?
 
-Quel mot désigne la condition caractérisée par une rétention excessive de liquide dans les tissus, entraînant un œdème généralisé ?
+Quel mot désigne la condition caractérisée par une rétention excessive de liquide dans les tissus, entraînant un œdème généralisé ? <!-- score: 2 -->
 
 ###### Description
 
