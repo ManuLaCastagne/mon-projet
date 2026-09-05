@@ -25,13 +25,14 @@ questions:
 culture_g_score: 48
 culture_g_justification: "Amadou et Mariam sont un duo africain reconnu, principalement mobilisé via Dimanche à Bamako, Manu Chao et la musique du monde."
 ---
+
 ![Image de Amadou et Mariam](https://upload.wikimedia.org/wikipedia/commons/a/a4/Amadou_et_Mariam_2009.jpg)
 
 ###### Questions
 
 Quel duo de musique malien a remporté le [[BBC Radio 3 Awards for World Music]] en 2006 ?
 
-Quel groupe, connu pour son album à succès "[[Dimanche à Bamako]]", a collaboré avec [[Manu Chao]] en 2004 ?
+Quel groupe, connu pour son album à succès "[[Dimanche à Bamako]]", a collaboré avec [[Manu Chao]] en 2004 ? <!-- score: 9 -->
 
 Quel couple de musiciens aveugles de [[Bamako]] s'est produit lors de la cérémonie d'ouverture de la [[Coupe du Monde FIFA]] en 2010 ?
 
