@@ -31,7 +31,7 @@ culture_g_justification: "Compositeur classique fondamental, associé à la symp
 
 Dans quel pays [[Joseph Haydn]] a-t-il composé la majorité de ses [[Symphonies de Londres]] en 1791 et 1792? <!-- score: 4 -->
 
-Quel compositeur classique, né en 1732, est souvent surnommé le « [[père de la symphonie]] » et a influencé des génies comme [[Mozart]] et [[Ludwig van Beethoven]]? 
+Quel compositeur classique, né en 1732, est souvent surnommé le « [[père de la symphonie]] » et a influencé des génies comme [[Wolfgang Amadeus Mozart]] et [[Ludwig van Beethoven]]? 
 
 Quel célèbre compositeur autrichien, mort en 1809, est connu pour sa vaste contribution au développement du [[quatuor à cordes]]?
 

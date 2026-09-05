@@ -1,35 +1,36 @@
 ---
-tags: 
+tags:
   - Musique
   - Salzbourg
   - Années_1770
   - XVIIIe
+  - Certifié
 date:
   - 1756/01/27
 debut: 1756
 fin: 1791
-indice_1 : 
+indice_1:
   - Requiem
-indice_2 : 
+indice_2:
   - La Flûte enchantée
-indice_3 : 
+indice_3:
   - Amadeus
-indice_4 : 
+indice_4:
   - Symphonie n°40
-indice_5 : 
+indice_5:
   - concerto pour piano
-indice_6 : 
+indice_6:
   - Opéra de Vienne
-questions:
- - De 1782 à 1785, en écho à l'oeuvre de Joseph Haydn, qui était son ami, quel compositeur, né à Salzbourg, lui a dédié 6 quatuors?
 culture_g_score: 100
-culture_g_justification: "Compositeur universellement incontournable, permettant des questions sur le classicisme, les opéras, les œuvres, l’Europe et la biographie musicale."
+culture_g_justification: Compositeur universellement incontournable, permettant des questions sur le classicisme, les opéras, les œuvres, l’Europe et la biographie musicale.
 ---
-![Image de Mozart](https://upload.wikimedia.org/wikipedia/commons/9/99/Wolfgang_Amadeus_Mozart_-_Symphony_40_g-moll_-_1._Molto_allegro.ogg)
+![Image de Mozart](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg/960px-The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions
 
 Quel compositeur surnommé [[l'enfant prodige de Salzbourg]] a composé sa première symphonie à l'âge de huit ans en 1764 ?
+
+De 1782 à 1785, en écho à l'oeuvre de [[Joseph Haydn]], qui était son ami, quel compositeur, né à Salzbourg, lui a dédié 6 quatuors ?
 
 Quel musicien célèbre, également connu pour son opéra [[La Flûte enchantée]], a été présenté par son père, [[Leopold Mozart]], à la cour impériale de [[Vienne]] en 1762 ?
 

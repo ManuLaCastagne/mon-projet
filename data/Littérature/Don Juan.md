@@ -4,6 +4,7 @@ tags:
   - Espagne
   - Années_1630
   - XVIIe
+  - Certifié
 date:
   - 1665/01/15
 debut: 1665
@@ -20,8 +21,6 @@ indice_5:
   - duel et conquêtes amoureuses
 indice_6:
   - statue du Commandeur
-questions:
-  - Quel personnage d'une comédie de Molière sous-titrée "Le Festin de Pierre" est un séducteur ?
 culture_g_score: 100
 culture_g_justification: Personnage mythique transversal à la littérature, au théâtre, à l’opéra et à la poésie, très fréquent sous des formes variées.
 ---
@@ -31,7 +30,11 @@ culture_g_justification: Personnage mythique transversal à la littérature, au 
 
 Quel personnage légendaire, réputé pour ses nombreuses conquêtes féminines, est repris et réinterprété dans l'opéra [[Don Giovanni]] de [[Wolfgang Amadeus Mozart]], créé en 1787 ?
 
-Dans quel poème épique inachevé, publié posthumement en 1824, [[Lord Byron]] narre-t-il les aventures et les charmes dévastateurs du personnage de [[Don Juan]] sous un jour satirique et critique ?
+En 1840, du naufrage de quel séducteur a peint par [[Eugène Delacroix]] ?
+
+Quel personnage d'une comédie de [[Molière]] sous-titrée "[[Le Festin de Pierre]]" est un séducteur ?
+
+Dans quel poème épique inachevé, publié posthumement en 1824, [[Lord Byron]] narre-t-il les aventures et les charmes dévastateurs de son personnage sous un jour satirique et critique ?
 
 ###### Description
 

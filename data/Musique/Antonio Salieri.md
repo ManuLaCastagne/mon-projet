@@ -33,7 +33,7 @@ Quel compositeur italien, rival de [[Wolfgang Amadeus Mozart]] selon certains r�
 
 Quel professeur influent a eu parmi ses élèves des musiciens célèbres tels que [[Ludwig van Beethoven]], [[Franz Schubert]] et [[Franz Liszt]] ?
 
-Quel compositeur a dirigé la première représentation de l'opéra "[[La Clémence de Titus]]" de [[Mozart]] en 1791 ?
+Quel compositeur a dirigé la première représentation de l'opéra "[[La Clémence de Titus]]" de [[Wolfgang Amadeus Mozart]] en 1791 ?
 
 ###### Description
 

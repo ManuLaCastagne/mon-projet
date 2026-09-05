@@ -22,7 +22,7 @@ indice_6 :
 
 Quel est le titre de la célèbre séquence chantée du [[Requiem]], utilisée souvent lors de la [[messe]] pour les morts en [[liturgie]] chrétienne ?
 
-Quel est le nom du poème médiéval latin traitant du [[jugement dernier]], parfois mis en musique par de nombreux compositeurs célèbres, dont [[Mozart]] et [[Giuseppe Verdi]] ?
+Quel est le nom du poème médiéval latin traitant du [[jugement dernier]], parfois mis en musique par de nombreux compositeurs célèbres, dont [[Wolfgang Amadeus Mozart]] et [[Giuseppe Verdi]] ?
 
 Comment appelle-t-on le passage du [[Requiem]] qui évoque la colère divine et le jour du jugement dans la [[tradition]] catholique ?
 

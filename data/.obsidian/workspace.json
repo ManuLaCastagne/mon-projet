@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Culture générale/Wolfgang Amadeus Mozart.md",
+                "file": "Littérature/Edgar Allan Poe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,17 +185,17 @@
             }
           },
           {
-            "id": "3c21ec961b4d796a",
+            "id": "ddb440d55fb8a4ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture générale/Wolfgang Amadeus Mozart.md",
+                "file": "Littérature/Edgar Allan Poe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wolfgang Amadeus Mozart"
+              "title": "Edgar Allan Poe"
             }
           },
           {
@@ -212,8 +212,7 @@
               "title": "Crime et châtiment"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -337,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture générale/Wolfgang Amadeus Mozart.md",
+                "file": "Littérature/Edgar Allan Poe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -376,12 +375,21 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "3c21ec961b4d796a",
+  "active": "3b18be18a8a65fd7",
   "lastOpenFiles": [
-    "Littérature/Don Juan.md",
-    "Culture générale/Wolfgang Amadeus Mozart.md",
+    "Culture générale/maître du macabre.md",
+    "Littérature/Edgar Allan Poe.md",
+    "Littérature/The Raven.md",
+    "Géographie/États-Unis.md",
     "Frises/Scores Culture G.base",
+    "Géographie/Boston.md",
     "Littérature/Crime et châtiment.md",
+    "Littérature/Don Juan.md",
+    "Musique/Lorenzo Da Ponte.md",
+    "Musique/Così fan tutte.md",
+    "Culture générale/Le Festin de Pierre.md",
+    "Musique/Wolfgang Amadeus Mozart.md",
+    "Musique/Mozart.md",
     "Littérature/Denis Diderot.md",
     "Littérature/Jean le Rond d'Alembert.md",
     "Littérature/Les Bijoux Indiscrets.md",
@@ -399,15 +407,6 @@
     "Géographie/Madère.md",
     "Littérature/La Dame aux Camélias.md",
     "Architecture/Pont Alexandre-III.md",
-    "Histoire/Dick Cheney.md",
-    "Cinéma/Adam McKay.md",
-    "Cinéma/Vice.md",
-    "Littérature/Anaïs Nin.md",
-    "Cinéma/David Lean.md",
-    "Architecture/Norman Foster.md",
-    "Architecture/Norman Foster Bridge.md",
-    "Animaux/Hérisson.md",
-    "Animaux/Oreillard.md",
     "attachments/Pasted image 20260904174035.png",
     "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260822185959.png",

@@ -43,4 +43,4 @@ Symbole de justice divine et de châtiment inexorable, cette statue prend vie po
 
 Fait étonnant, le rôle du [[Commandeur]] a souvent été interprété par des acteurs munis de mécanismes cachés permettant de faire bouger la statue, un exploit innovant pour l'époque qui a surpris et souvent terrifié les spectateurs du XVIIe siècle. 
 
-Ce personnage a inspiré de nombreuses adaptations et réinterprétations, influençant même [[Mozart]] qui intègre sa propre version dans l'opéra "Don Giovanni" en 1787, renforçant ainsi le mythe de la vengeance post-mortem à travers les siècles.
+Ce personnage a inspiré de nombreuses adaptations et réinterprétations, influençant même [[Wolfgang Amadeus Mozart]] qui intègre sa propre version dans l'opéra "Don Giovanni" en 1787, renforçant ainsi le mythe de la vengeance post-mortem à travers les siècles.

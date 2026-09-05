@@ -33,7 +33,7 @@ En 1762, quelle impératrice d'Autriche, mère de Marie-Antoinette, invite le je
 
 Quelle impératrice, née en 1717, a été l'épouse de l'empereur [[François Iᵉʳ de Lorraine]], et a par la suite influencé des compositions de [[Joseph Haydn]] ?
 
-Quelle souveraine du XVIIIe siècle, régnant de 1740 à 1780, est liée à [[Vienne]] et au dévelopement de la musique classique dans cette ville, notamment sous l'égide de [[Mozart]] ?
+Quelle souveraine du XVIIIe siècle, régnant de 1740 à 1780, est liée à [[Vienne]] et au dévelopement de la musique classique dans cette ville, notamment sous l'égide de [[Wolfgang Amadeus Mozart]] ?
 
 ###### Description
 

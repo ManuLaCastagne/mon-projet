@@ -43,4 +43,4 @@ Cet opéra est reconnu pour avoir mis en avant l'influence des styles musicaux o
 
 Fait étonnant, le soprano Ludovico [[Giuliani]] a été le premier chanteur à interpréter le rôle d'[[Osmin]] sur une scène étrangère, ce qui a conduit à une tournée européenne qui a débuté dès 1783. 
 
-À noter que c'est grâce à cet opéra que [[Mozart]] a réussi à impressionner l'empereur [[Joseph II]] à tel point qu'il a été commissionné pour créer de nouvelles œuvres, renforçant ainsi sa carrière à la cour impériale.
+À noter que c'est grâce à cet opéra que [[Wolfgang Amadeus Mozart]] a réussi à impressionner l'empereur [[Joseph II]] à tel point qu'il a été commissionné pour créer de nouvelles œuvres, renforçant ainsi sa carrière à la cour impériale.

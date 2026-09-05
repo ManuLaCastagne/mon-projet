@@ -29,7 +29,7 @@ culture_g_justification: "Compositeur, éditeur et facteur de pianos intéressan
 
 ###### Questions
 
-Quel compositeur autrichien, né en 1757, a fondé l'influente maison d'édition musicale à [[Paris]] dans les années 1790, qui a publié des œuvres de [[Mozart]] et [[Haydn]] ?
+Quel compositeur autrichien, né en 1757, a fondé l'influente maison d'édition musicale à [[Paris]] dans les années 1790, qui a publié des œuvres de [[Wolfgang Amadeus Mozart]] et [[Haydn]] ?
 
 Quel facteur de pianos, né à [[Ruppersthal]], est devenu célèbre en France pour ses instruments de musique, lesquels ont été joués par des artistes majeurs du XIXe siècle ?
 

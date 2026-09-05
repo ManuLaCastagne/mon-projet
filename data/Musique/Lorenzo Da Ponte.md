@@ -1,29 +1,28 @@
 ---
-tags: 
+tags:
   - Musique
   - Venise
   - Années_1780
   - XVIIIe
+  - Certifié
 date:
   - 1749/03/10
 debut: 1749
 fin: 1838
-indice_1 : 
+indice_1:
   - Mozart
-indice_2 : 
+indice_2:
   - librettiste
-indice_3 : 
+indice_3:
   - Les Noces de Figaro
-indice_4 : 
+indice_4:
   - Così fan tutte
-indice_5 : 
+indice_5:
   - Don Giovanni
-indice_6 : 
+indice_6:
   - opéra
-questions:
- - Quel librettiste italien a écrit plusieurs oeuvres pour Mozart dont "Les Noces de Figaro" ?
 culture_g_score: 65
-culture_g_justification: "Da Ponte est le librettiste de trois opéras majeurs de Mozart, ce qui le rend très rentable dans les questions croisées sur l'opéra et le XVIIIe siècle."
+culture_g_justification: Da Ponte est le librettiste de trois opéras majeurs de Mozart, ce qui le rend très rentable dans les questions croisées sur l'opéra et le XVIIIe siècle.
 ---
 ![Image de Lorenzo Da Ponte](https://upload.wikimedia.org/wikipedia/commons/6/64/Millstatt_Stiftgasse_Plastik_des_Lorenzo_da_Ponte_16082014_557.jpg)
 
@@ -33,7 +32,7 @@ Quel librettiste d'origine italienne, né en 1749, a collaboré avec [[Wolfgang 
 
 Quel écrivain et poète, devenu prêtre avant d'être excommunié, a émigré aux [[États-Unis]] en 1805 pour devenir professeur de littérature et apporta une contribution notable à l'opéra américain ?
 
-Qui est l'auteur du livret de l'opéra [[Le nozze di Figaro]], créé en 1786, et qui a également travaillé avec [[Antonio Salieri]] ?
+Qui est l'auteur du livret de l'opéra [[Les Noces de Figaro]], créé en 1786, et qui a également travaillé avec [[Antonio Salieri]] ?
 
 ###### Description
 

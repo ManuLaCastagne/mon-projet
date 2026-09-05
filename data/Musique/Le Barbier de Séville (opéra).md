@@ -33,7 +33,7 @@ En quelle année l'opéra [[Le Barbier de Séville]] de [[Gioachino Rossini]] a-
 
 Quel opéra composé par [[Gioachino Rossini]] s'inspire de la comédie du même nom écrite par [[Pierre-Augustin Caron de Beaumarchais]] ?
 
-Quel célèbre opéra de [[Gioachino Rossini]], créé en 1816, raconte les aventures de [[Figaro]], un personnage également présent dans [[Les Noces de Figaro]] de [[Mozart]] ?
+Quel célèbre opéra de [[Gioachino Rossini]], créé en 1816, raconte les aventures de [[Figaro]], un personnage également présent dans [[Les Noces de Figaro]] de [[Wolfgang Amadeus Mozart]] ?
 
 ###### Description
 
