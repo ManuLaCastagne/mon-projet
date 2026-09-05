@@ -18,13 +18,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Oiseau très présent dans les mythologies et la littérature, également célèbre pour son intelligence et ses capacités techniques."
 ---
+
 ![Image de Corbeau](https://upload.wikimedia.org/wikipedia/commons/5/57/Flying_Corbeau_-_Bird%E2%80%99s_Kingdom.jpg)
 
 ###### Questions
 
 Dans le mythe nordique, quel oiseau servait de messager à [[Odin]] grâce à [[Hugin]] et [[Munin]] ?
 
-Quel oiseau, appartenant à la famille des [[Corvidae]], est connu pour avoir montré une intelligence comparable à celle de certains primates dans une étude conduite en [[2004]] ?
+Quel oiseau, appartenant à la famille des [[Corvidae]], est connu pour avoir montré une intelligence comparable à celle de certains primates dans une étude conduite en [[2004]] ? <!-- score: 9 -->
 
 Quel genre d'oiseaux est capable de fabriquer des outils en utilisant des feuilles ou des branches en captivité, une compétence démontrée pour la première fois en [[1996]] ?
 
