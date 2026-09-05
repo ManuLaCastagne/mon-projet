@@ -23,11 +23,12 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Champion historique du cyclisme italien, intéressant pour le Giro et les records mais peu fréquent hors des quiz spécialisés."
 ---
+
 ![Image de Alfredo Binda](https://upload.wikimedia.org/wikipedia/commons/1/13/Alfredo_Binda_1927.jpg)
 
 ###### Questions
 
-Quel cycliste italien a remporté le [[Giro d'Italia]] à trois reprises avant 1930, marquant ainsi l'histoire du cyclisme avec des victoires en 1925, 1927 et 1928 ?
+Quel cycliste italien a remporté le [[Giro d'Italia]] à trois reprises avant 1930, marquant ainsi l'histoire du cyclisme avec des victoires en 1925, 1927 et 1928 ? <!-- score: 2 -->
 
 Quel coureur a été le tout premier à remporter cinq fois le [[Tour de Lombardie]] entre 1925 et 1931, un record qui n'a été égalé qu'en 1974 par [[Fausto Coppi]] ?
 
