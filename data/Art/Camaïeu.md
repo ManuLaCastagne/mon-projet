@@ -26,15 +26,11 @@ questions:
 culture_g_score: 52
 culture_g_justification: "Technique picturale utile pour le vocabulaire artistique, mais peu souvent posée comme réponse précise dans les quiz généralistes."
 ---
-![Image de Camaïeu](https://upload.wikimedia.org/wikipedia/commons/3/33/Angers_-_44b_boulevard_du_Mar%C3%A9chal_Foch_-_Cama%C3%AFeu_-_20230209_%281%29.jpg)
+
+
+![Image de Camaïeu](https://upload.wikimedia.org/wikipedia/commons/3/33/Angers_-_44b_boulevard_du_Mar%C3%A9chal_Foch_-_Cama%C3%AFeu_-_20230209_%281%29.jpg)
 
 ###### Questions
-
-En quelle année [[Nicolas Ledoux]] utilise-t-il la technique du [[camaïeu]] pour la première fois dans la décoration intérieure du [[Théâtre de Besançon]] ?
-
-Quel roman de [[Marcel Proust]] publié en 1913 évoque l'usage du [[camaïeu]] dans les descriptions des paysages de [[Combray]] ?
-
-Quel célèbre tableau de [[Edvard Munch]], exposé pour la première fois en 1893, utilise un [[camaïeu]] de teintes orangées et bleuâtres pour représenter le ciel et l'eau ?
 
 ###### Description
 
