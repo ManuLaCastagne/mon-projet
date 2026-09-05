@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Cent Ans de solitude.md",
+                "file": "Culture générale/Wolfgang Amadeus Mozart.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,17 +185,31 @@
             }
           },
           {
-            "id": "d0ed5510d2eeaef1",
+            "id": "3c21ec961b4d796a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Cent Ans de solitude.md",
+                "file": "Culture générale/Wolfgang Amadeus Mozart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cent Ans de solitude"
+              "title": "Wolfgang Amadeus Mozart"
+            }
+          },
+          {
+            "id": "0aa23229b4931f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Littérature/Crime et châtiment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crime et châtiment"
             }
           }
         ],
@@ -323,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Littérature/Cent Ans de solitude.md",
+                "file": "Culture générale/Wolfgang Amadeus Mozart.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -362,11 +376,26 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "d0ed5510d2eeaef1",
+  "active": "3c21ec961b4d796a",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260905164728.png",
+    "Littérature/Don Juan.md",
+    "Culture générale/Wolfgang Amadeus Mozart.md",
     "Frises/Scores Culture G.base",
+    "Littérature/Crime et châtiment.md",
+    "Littérature/Denis Diderot.md",
+    "Littérature/Jean le Rond d'Alembert.md",
+    "Littérature/Les Bijoux Indiscrets.md",
+    "Littérature/Jacques le Fataliste et son maître.md",
+    "attachments/Pasted image 20260905165459.png",
+    "attachments/Pasted image 20260905165455.png",
+    "Littérature/Raskolnikov.md",
+    "Histoire/George W. Bush.md",
+    "Listes/Président des États-Unis.md",
+    "Géographie/George H. W. Bush.md",
+    "Histoire/John Quincy Adams.md",
+    "Géographie/Connecticut.md",
     "Littérature/Cent Ans de solitude.md",
+    "attachments/Pasted image 20260905164728.png",
     "Géographie/Madère.md",
     "Littérature/La Dame aux Camélias.md",
     "Architecture/Pont Alexandre-III.md",
@@ -379,19 +408,7 @@
     "Architecture/Norman Foster Bridge.md",
     "Animaux/Hérisson.md",
     "Animaux/Oreillard.md",
-    "Culture générale/tenrec.md",
-    "Animaux/Freux.md",
-    "Musique/Ringo Starr.md",
-    "Géographie/Pologne.md",
-    "Géographie/Auschwitz-Birkenau.md",
-    "Littérature/Natacha.md",
-    "Sport/Saut en hauteur.md",
-    "Sport/Yaroslava Mahuchikh.md",
-    "Littérature/Jane Eyre.md",
     "attachments/Pasted image 20260904174035.png",
-    "Littérature/Barbe-Bleue.md",
-    "Géographie/Abu Dhabi.md",
-    "Gastronomie/Cannelé.md",
     "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
@@ -399,9 +416,6 @@
     "attachments/Pasted image 20260804075442.png",
     "attachments/Pasted image 20260804075041.png",
     "attachments/Pasted image 20260803221325.png",
-    "attachments/Pasted image 20260803220757.png",
-    "attachments/Pasted image 20260803220309.png",
-    "attachments/Pasted image 20260803220027.png",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
     "Sans titre.canvas"

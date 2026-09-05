@@ -1,26 +1,26 @@
 ---
-tags: 
+tags:
   - Histoire
-  - Texas
   - Années_2000
   - XXIe
+  - Certifié
 debut: 1946
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Crawford, Texas
-indice_2 : 
+indice_2:
   - Années_2001-2009
-indice_3 : 
+indice_3:
   - XXIe
-indice_4 : 
+indice_4:
   - Président des États-Unis
-indice_5 : 
+indice_5:
   - Attentats du 11 septembre 2001
-indice_6 : 
+indice_6:
   - Guerre contre le terrorisme
 ---
 
-![Image de George W. Bush]()
+![Image de George W. Bush](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/960px-George-W-Bush.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions
 

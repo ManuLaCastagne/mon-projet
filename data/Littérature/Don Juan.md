@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Espagne
   - Années_1630
@@ -7,29 +7,27 @@ tags:
 date:
   - 1665/01/15
 debut: 1665
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Mozart et Lorenzo Da Ponte
-indice_2 : 
+indice_2:
   - séducteur légendaire
-indice_3 : 
+indice_3:
   - Molière et sa pièce éponyme
-indice_4 : 
+indice_4:
   - femme de pierre
-indice_5 : 
+indice_5:
   - duel et conquêtes amoureuses
-indice_6 : 
+indice_6:
   - statue du Commandeur
 questions:
- - Quel personnage d'une comédie de Molière sous-titrée "Le Festin de Pierre" est un séducteur ?
+  - Quel personnage d'une comédie de Molière sous-titrée "Le Festin de Pierre" est un séducteur ?
 culture_g_score: 100
-culture_g_justification: "Personnage mythique transversal à la littérature, au théâtre, à l’opéra et à la poésie, très fréquent sous des formes variées."
+culture_g_justification: Personnage mythique transversal à la littérature, au théâtre, à l’opéra et à la poésie, très fréquent sous des formes variées.
 ---
 ![Image de Don Juan](https://upload.wikimedia.org/wikipedia/commons/8/8c/Don_Juan_by_Eug%C3%A8ne_Delacroix.jpg)
 
 ###### Questions
-
-Dans quelle œuvre théâtrale de [[Molière]], publiée en 1665, le personnage de [[Don Juan]] apparaît-il comme un libertin défiant les conventions sociales et religieuses de l'époque ?
 
 Quel personnage légendaire, réputé pour ses nombreuses conquêtes féminines, est repris et réinterprété dans l'opéra [[Don Giovanni]] de [[Wolfgang Amadeus Mozart]], créé en 1787 ?
 

@@ -4,6 +4,7 @@ tags:
   - Cent_Ans_de_solitude
   - Colombie
   - Années_1960
+  - Certifié
 date:
   - 1967/05/30
 debut: 1967
@@ -28,7 +29,9 @@ culture_g_justification: Chef-d’œuvre mondial du réalisme magique, fréquemm
 
 ###### Questions
 
-En 1967, dans quel roman de Gabriel Garcia Marquez est-on dans un village imaginaire de Colombie avec la famille Buendia ?
+En 1967, dans quel roman de Gabriel Garcia Marquez est-on dans un village imaginaire de [[Colombie]] avec la famille Buendia ?
+
+Quelle série télévisée colombienne de [[Netflix]], lancée en décembre 2024, adapte pour la première fois à l’écran le célèbre roman de [[Gabriel García Márquez]] consacré à la famille [[Buendía]] ?
 
 Quel roman publié en 1967 par [[Gabriel García Márquez]] est considéré comme un chef-d'œuvre du [[Réalisme magique]] et a valu à son auteur le [[Prix Nobel de littérature]] en 1982 ?
 
