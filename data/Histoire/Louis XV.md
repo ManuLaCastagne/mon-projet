@@ -26,6 +26,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Louis XV relie Ancien Régime, guerre de Sept Ans, Damiens, monarchie et histoire de Paris, avec une présence régulière en quiz."
 ---
+
 ![Image de Louis XV](https://upload.wikimedia.org/wikipedia/commons/c/c9/France_1717_2_Louis_d%E2%80%99or_%28Louis_XV%29.jpg)
 
 ###### Questions
@@ -34,7 +35,7 @@ En quelle année le roi [[Louis XV]] a-t-il survécu à la tentative d'assassina
 
 Quel monarque français a donné son nom à une des plus célèbres places de Paris, initialement appelée [[Place Louis XV]], avant d'être renommée [[Place de la Concorde]] en [[1795]] ? <!-- score: 10 -->
 
-Qui a été le roi de France pendant la [[Guerre de Sept Ans]], conflit majeur qui s'est déroulé entre [[1756]] et [[1763]] et qui a profondément influencé l'équilibre des puissances européennes ?
+Qui a été le roi de France pendant la [[Guerre de Sept Ans]], conflit majeur qui s'est déroulé entre [[1756]] et [[1763]] et qui a profondément influencé l'équilibre des puissances européennes ? <!-- score: 6 -->
 
 ###### Description
 
