@@ -23,13 +23,14 @@ questions:
 culture_g_score: 97
 culture_g_justification: "Icône mondiale du basket, associée aux Lakers, à ses records, à son Oscar et à une carrière abondamment questionnée."
 ---
+
 ![Image de Kobe Bryant](https://upload.wikimedia.org/wikipedia/commons/4/4e/Kobe_Bryant_7144_adjusted.jpg)
 
 ###### Questions
 
 Quel joueur légendaire de [[Basketball]] a remporté un [[Oscar]] en [[2018]] pour le court métrage d'animation "Dear Basketball" basé sur sa lettre de retraite ?
 
-Quel célèbre joueur de [[NBA]] a marqué 81 points dans un seul match contre les [[Toronto Raptors]] le 22 janvier [[2006]], réalisant ainsi la deuxième meilleure performance de l'histoire de la ligue ?
+Quel célèbre joueur de [[NBA]] a marqué 81 points dans un seul match contre les [[Toronto Raptors]] le 22 janvier [[2006]], réalisant ainsi la deuxième meilleure performance de l'histoire de la ligue ? <!-- score: 3 -->
 
 Quel athlète de [[Basketball]], également connu sous le surnom de "[[Black Mamba]]," a passé l'intégralité de ses 20 années de carrière aux [[Los Angeles Lakers]] avant de prendre sa retraite en [[2016]] ?
 
