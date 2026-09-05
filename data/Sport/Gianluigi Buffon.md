@@ -23,11 +23,12 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Gardien italien très célèbre, exploitable via la Coupe du monde 2006, la Juventus, les records et l'histoire des grands gardiens."
 ---
+
 ![Image de Gianluigi Buffon](https://upload.wikimedia.org/wikipedia/commons/5/54/Gianluigi_Buffon_%2831784615942%29_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel [[gardien de but]] a remporté la [[Coupe du Monde]] de football avec l'[[équipe nationale d'Italie]] en 2006 ?
+Quel [[gardien de but]] a remporté la [[Coupe du Monde]] de football avec l'[[équipe nationale d'Italie]] en 2006 ? <!-- score: 9 -->
 
 Quel joueur a intégré l'équipe de [[Juventus]] en 2001 pour un montant record pour un [[gardien de but]] à l'époque ?
 
