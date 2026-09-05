@@ -25,11 +25,12 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Compositeur français important grâce à Coppélia et Lakmé, mais moins transversal et moins fréquemment interrogé que les figures centrales du classique."
 ---
-![Image de Léo Delibes](https://upload.wikimedia.org/wikipedia/commons/0/02/Leo_Delibes_1888_BNF_Gallica.jpg)
+
+![Image de Léo Delibes](https://upload.wikimedia.org/wikipedia/commons/0/02/Leo_Delibes_1888_BNF_Gallica.jpg)
 
 ###### Questions
 
-Quel compositeur français a collaboré avec [[Jules Barbier]] et [[Michel Carré]] pour créer l'opéra comique [[Lakmé]], présenté pour la première fois en 1883 ?
+Quel compositeur français a collaboré avec [[Jules Barbier]] et [[Michel Carré]] pour créer l'opéra comique [[Lakmé]], présenté pour la première fois en 1883 ? <!-- score: 1 -->
 
 Quel créateur de musique de ballet a composé [[Coppélia]], une œuvre souvent louée pour son influence sur le monde du ballet et dont la première a eu lieu en 1870 ?
 
