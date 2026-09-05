@@ -6,4 +6,6 @@ culture_g_justification: "Batteur des Beatles et figure incontournable de la mus
 
 Avec [[John Lennon]], [[Paul McCartney]] et [[George Harrison]] quel était le nom du quatrième membre de [[the Beatles]] ? 
 
-Quel batteur des Beatles avait pour vrai nom [[Richard Starkey]] ?
+Quel musicien britannique, de son vrai nom [[Richard Starkey]], fut le batteur des [[Beatles]] à partir de 1962, en remplacement de [[Pete Best]] ?
+
+Quel batteur né à [[Liverpool]] en 1940 a également mené une carrière solo après la séparation des [[Beatles]], obtenant notamment des succès avec [[Photograph]] et [[You’re Sixteen]] ?

@@ -1,30 +1,31 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+  - Certifié
+indice_1:
   - Corvidé
-indice_2 : 
+indice_2:
   - Corvus frugilegus
-indice_3 : 
+indice_3:
   - Passeriformes
-indice_4 : 
+indice_4:
   - Europe
-indice_5 : 
+indice_5:
   - Corbeau freux
-indice_6 : 
+indice_6:
   - Messager dans la littérature
-questions:
- - Quel corbeau, très proche de la corneille noire ont le nom scientifique est Corvus frugilegus possède un bec déplumé à la base ?
 culture_g_score: 32
-culture_g_justification: "Le freux est un corvidé distinct mais peu connu du grand public, rarement demandé en dehors de l'ornithologie."
+culture_g_justification: Le freux est un corvidé distinct mais peu connu du grand public, rarement demandé en dehors de l'ornithologie.
 ---
 
 
-![Image de Freux](https://upload.wikimedia.org/wikipedia/commons/9/98/Freu_eglijhe.jpg)
+![Image de Freux](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Rook-Corvus_frugilegus.jpg/960px-Rook-Corvus_frugilegus.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions
 
 Quelle espèce d'oiseau, apparentée aux corneilles et vivant en Europe et en Asie, comporte 5 lettres ? <!-- score: 5 -->
+
+Quel corbeau, très proche de la [[corneille]] noire ont le nom scientifique est Corvus frugilegus possède un bec déplumé à la base ?
 ###### Description
 
 Le [[Freux]], ou [[Corvus frugilegus]], est un oiseau de la famille des corvidés que l'on reconnaît à son plumage noir brillant légèrement violet sous la lumière. 

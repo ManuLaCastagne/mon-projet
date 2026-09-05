@@ -1,33 +1,29 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+indice_1:
   - Mammifère
-indice_2 : 
+indice_2:
   - Erinaceus europaeus
-indice_3 : 
+indice_3:
   - Eulipotyphla
-indice_4 : 
+indice_4:
   - Europe
-indice_5 : 
+indice_5:
   - Picot
-indice_6 : 
+indice_6:
   - Symbole de la prudence
-questions:
- - Mammifère que le poète Maurice Carême compare "à un buisson qui marcherait sur des chaussons", je suis notamment caractérisé par un puissant muscle caudo-dorsal. Animal insectivore, solitaire et crépusculaire…
 culture_g_score: 64
-culture_g_justification: "Petit mammifère familier et sympathique, utile pour des questions de zoologie, d'écologie et de culture populaire."
+culture_g_justification: Petit mammifère familier et sympathique, utile pour des questions de zoologie, d'écologie et de culture populaire.
 ---
 
 ![Image de Hérisson](https://upload.wikimedia.org/wikipedia/commons/8/83/H%C3%A9risson_-_Allier_021.JPG)
 
 ###### Questions
 
-Quel animal a donné son nom à un style de coiffure populaire dans les années [[1980]], toujours porté par le bassiste du groupe [[The Cure]], [[Simon Gallup]] ? <!-- score: 4 -->
+Quel animal proche du [[tenrec]] a donné son nom à un style de coiffure populaire dans les années [[1980]], toujours porté par le bassiste du groupe [[The Cure]], [[Simon Gallup]] ? <!-- score: 4 -->
 
-Quel petit mammifère recouvert de piquants fut envoyé dans l'espace par les scientifiques britanniques lors d'une expérience en [[2004]] pour étudier les effets de l'apesanteur sur le sommeil ?
-
-Quel animal est traditionnellement associé à des pratiques de jardinage, connaissant une chute de sa population de plus de 70 % au [[Royaume-Uni]] depuis l'année [[2000]] ?
+Quel mammifère parfois dit [[oreillard]] que le poète [[Maurice Carême]] compare "à un buisson qui marcherait sur des chaussons", est notamment caractérisé par un puissant muscle caudo-dorsal ?
 
 ###### Description
 
