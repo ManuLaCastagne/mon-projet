@@ -23,11 +23,12 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Chef français mondialement reconnu, mobilisable en gastronomie, dans les distinctions culinaires et à la télévision."
 ---
+
 ![Image de Joël Robuchon](https://upload.wikimedia.org/wikipedia/commons/3/3a/Jo%C3%ABl_Robuchon.jpg)
 
 ###### Questions
 
-Quel chef cuisinier a lancé l'émission télévisée [[Bon Appétit Bien Sûr]] en [[2000]] ?
+Quel chef cuisinier a lancé l'émission télévisée [[Bon Appétit Bien Sûr]] en [[2000]] ? <!-- score: 6 -->
 
 Qui a remporté le titre de Meilleur Ouvrier de France en [[1976]] et est devenu une personnalité de la télévision française ?
 
