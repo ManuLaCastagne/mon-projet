@@ -24,13 +24,14 @@ questions:
 culture_g_score: 43
 culture_g_justification: "Jérémie Renier est reconnu dans le cinéma francophone et pour Cloclo, mais demeure une référence assez spécialisée pour un généraliste."
 ---
-![Image de Jérémie Renier](https://upload.wikimedia.org/wikipedia/commons/a/a1/J%C3%A9r%C3%A9mie_Renier_%282020%29.jpg)
+
+![Image de Jérémie Renier](https://upload.wikimedia.org/wikipedia/commons/a/a1/J%C3%A9r%C3%A9mie_Renier_%282020%29.jpg)
 
 ###### Questions
 
 En quel acteur belge, révélé par le film [[La Promesse]] sorti en 1996, retrouve-t-on une carrière prolifique dans le cinéma francophone, avec des collaborations fréquentes avec les [[Frères Dardenne]] ?
 
-Quel acteur a incarné le rôle principal dans le film biographique [[Cloclo]] en 2012, racontant la vie du célèbre chanteur [[Claude François]] ?
+Quel acteur a incarné le rôle principal dans le film biographique [[Cloclo]] en 2012, racontant la vie du célèbre chanteur [[Claude François]] ? <!-- score: 2 -->
 
 Quel acteur a reçu le César du meilleur acteur dans un second rôle en 2006 pour son rôle dans le film [[L'Enfant]] ?
 
