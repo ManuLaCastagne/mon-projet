@@ -21,11 +21,12 @@ indice_6:
 culture_g_score: 43
 culture_g_justification: "Fondateur du musée Guimet, Émile Guimet est utile pour l'histoire des collections et de l'art asiatique mais demeure spécialisé."
 ---
+
 ![Image de Emile Guimet ](https://upload.wikimedia.org/wikipedia/commons/c/c8/%C3%89mile_Guimet_1910.jpg)
 
 ###### Questions
 
-Quel industriel lyonnais, collectionneur d'objets d'art a donné son nom à un musée d'art asiatique transféré à Paris en 1885 ? <!-- score: 3 -->
+Quel industriel lyonnais, collectionneur d'objets d'art a donné son nom à un musée d'art asiatique transféré à Paris en 1885 ? <!-- score: 1 -->
 
 Quel industriel lyonnais a fondé en 1879 le [[musée]] portant son nom à Paris, consacré aux [[arts asiatiques]] ?
 
