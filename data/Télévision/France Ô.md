@@ -23,7 +23,8 @@ questions:
 culture_g_score: 52
 culture_g_justification: "Chaîne publique liée à l’outre-mer et à sa disparition de la TNT, intéressante mais moins centrale que les principales chaînes nationales."
 ---
-![Image de France Ô](https://upload.wikimedia.org/wikipedia/commons/4/46/France_%C3%94_2018.svg)
+
+![Image de France Ô](https://upload.wikimedia.org/wikipedia/commons/4/46/France_%C3%94_2018.svg)
 
 ###### Questions
 
@@ -31,7 +32,7 @@ Quelle chaîne de télévision, lancée en [[2005]], faisait partie du groupe [[
 
 Quel canal, reconnu pour avoir diffusé des programmes comme "Les Témoins d'Outre-mer" et "Archipels", a cessé d'émettre définitivement sur la TNT le 31 août [[2020]] ?
 
-Quel réseau de télévision français, symbolisé par une programmation visant à promouvoir les cultures des départements et territoires d'outre-mer, a été créé en [[2005]] et a tiré sa révérence au profit de contenus numériques sur le site du groupe [[France Télévisions]] ?
+Quel réseau de télévision français, symbolisé par une programmation visant à promouvoir les cultures des départements et territoires d'outre-mer, a été créé en [[2005]] et a tiré sa révérence au profit de contenus numériques sur le site du groupe [[France Télévisions]] ? <!-- score: 9 -->
 
 ###### Description
 
