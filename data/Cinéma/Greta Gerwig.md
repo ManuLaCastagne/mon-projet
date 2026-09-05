@@ -23,6 +23,7 @@ indice_6 :
 culture_g_score: 80
 culture_g_justification: "Réalisatrice et actrice contemporaine très connue, désormais exploitable à travers Lady Bird, Barbie, Frances Ha et les Oscars."
 ---
+
 ![Image de Greta Gerwig](https://upload.wikimedia.org/wikipedia/commons/1/1c/Greta_Gerwig_Berlinale_2018.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel est le nom de la réalisatrice qui a dirigé le film [[Lady Bird]], sorti e
 
 Quelle actrice et scénariste est également la coécrivaine du film [[Frances Ha]] de 2012, réalisé par son partenaire [[Noah Baumbach]]?
 
-Qui a été la première femme réalisatrice à voir son film, [[Barbie]], atteindre la barre du milliard de dollars au box-office mondial en 2023?
+Qui a été la première femme réalisatrice à voir son film, [[Barbie]], atteindre la barre du milliard de dollars au box-office mondial en 2023? <!-- score: 1 -->
 
 ###### Description
 
