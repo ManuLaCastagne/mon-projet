@@ -25,6 +25,8 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Maison d'édition française très connue, reliée à l'histoire du livre, à la littérature jeunesse, aux classiques et au groupe Lagardère."
 ---
+
+
 ![Image de Hachette](https://upload.wikimedia.org/wikipedia/commons/1/1d/Hachette_Livre.png)
 
 ###### Questions
@@ -32,9 +34,6 @@ culture_g_justification: "Maison d'édition française très connue, reliée à 
 Quelle maison d'édition, fondée en 1826, est l'une des plus anciennes et renommées en France, avec un vaste catalogue allant de la littérature jeunesse aux livres éducatifs ?
 
 Quel groupe d'édition, qui a absorbé la célèbre collection [[Bibliothèque Rose]] en 1856, est connu pour ses publications de classiques pour enfants, incluant les œuvres de la série [[Le Club des Cinq]] ?
-
-Quelle entreprise française, issue d'une librairie ouverte par [[Louis Hachette]], est devenue un acteur majeur de l'édition mondiale et a publié les livres de [[Jules Verne]] dans la célèbre série [[Voyages extraordinaires]] à partir de 1863 ?
-
 ###### Description
 
 [[Hachette Littérature]] est une branche de l'illustre maison d'édition française [[Hachette]], fondée en 1826 par [[Louis Hachette]]. 
