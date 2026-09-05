@@ -26,6 +26,7 @@ questions:
 culture_g_score: 88
 culture_g_justification: "Mondrian est un pilier de l’abstraction et de De Stijl, avec des œuvres, un style et des influences fréquemment interrogés."
 ---
+
 ![Image de Piet Mondrian](https://upload.wikimedia.org/wikipedia/commons/8/83/Piet_Mondriaan.jpg)
 
 ###### Questions
@@ -34,7 +35,7 @@ Quel peintre néerlandais, connu pour ses œuvres abstraites, a influencé de ma
 
 Quel artiste a créé la série d'œuvres intitulée "[[Composition]]" qui met en avant des lignes noires et des blocs de couleurs primaires, devenant une icône du style moderniste du [[20e siècle]] ?
 
-Quel peintre est célèbre pour avoir déménagé à [[New York]] en 1940, où il a été fortement influencé par la musique [[jazz]], ce qui a inspiré son œuvre "[[Broadway Boogie Woogie]]" en [[1942-1943]] ?
+Quel peintre est célèbre pour avoir déménagé à [[New York]] en 1940, où il a été fortement influencé par la musique [[jazz]], ce qui a inspiré son œuvre "[[Broadway Boogie Woogie]]" en [[1942-1943]] ? <!-- score: 3 -->
 
 ###### Description
 
