@@ -25,6 +25,7 @@ questions:
 culture_g_score: 61
 culture_g_justification: "Chanson très connue de Cabrel et de la variété française, mais son potentiel de questions reste principalement musical."
 ---
+
 ![Image de Je t'aimais, je t'aime, je t'aimerai](https://upload.wikimedia.org/wikipedia/commons/5/57/Cabrel.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quelle chanson de [[Francis Cabrel]], sortie en 1994, explore le thème de l'amo
 
 Quel titre emblématique de l'album [[Samedi soir sur la Terre]] a renforcé le statut de Francis Cabrel comme l'un des plus grands auteurs-compositeurs-interprètes français ?
 
-Quelle chanson de [[Francis Cabrel]] a été utilisée dans le film [[La Belle Verte]] de [[Coline Serreau]] en 1996 comme bande originale pour ses paroles émouvantes ?
+Quelle chanson de [[Francis Cabrel]] a été utilisée dans le film [[La Belle Verte]] de [[Coline Serreau]] en 1996 comme bande originale pour ses paroles émouvantes ? <!-- score: 4 -->
 
 ###### Description
 
