@@ -23,6 +23,7 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Émission de variétés associée à Sacha Distel, intéressante pour la télévision musicale mais rarement prioritaire dans les quiz."
 ---
+
 ![Image de Sacha Show](https://upload.wikimedia.org/wikipedia/commons/5/5b/Sacha_Cohen.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel programme de divertissement créé en [[1981]] par [[Sacha Distel]] a marqu
 
 Quelle émission diffusée sur [[Antenne 2]] offrait un mélange de variétés, de comédie, et de performances artistiques entre [[1981]] et [[1982]]?
 
-Quel show télévisé français est connu pour avoir accueilli des personnalités telles que [[Stevie Wonder]] et [[Julio Iglesias]] dans les années [[1980]]?
+Quel show télévisé français est connu pour avoir accueilli des personnalités telles que [[Stevie Wonder]] et [[Julio Iglesias]] dans les années [[1980]]? <!-- score: 3 -->
 
 ###### Description
 
