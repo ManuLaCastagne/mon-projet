@@ -23,11 +23,12 @@ questions:
 culture_g_score: 76
 culture_g_justification: "Maréchal central de la victoire alliée en 1918, régulièrement interrogé à propos de l’armistice et de la Première Guerre mondiale."
 ---
+
 ![Image de Ferdinand Foch](https://upload.wikimedia.org/wikipedia/commons/a/ad/Ferdinand_Foch_by_Melcy%2C_1921.png)
 
 ###### Questions
 
-Quel célèbre [[Maréchal de France]], né en [[1851]], a signé l'[[armistice]] mettant fin à la [[Première Guerre mondiale]] le 11 novembre [[1918]] dans un wagon à [[Rethondes]] ? 
+Quel célèbre [[Maréchal de France]], né en [[1851]], a signé l'[[armistice]] mettant fin à la [[Première Guerre mondiale]] le 11 novembre [[1918]] dans un wagon à [[Rethondes]] ? <!-- score: 6 -->
 
 Quel militaire français a été promu [[Commandant en Chef des Armées Alliées]] sur le front occidental pendant la [[Première Guerre mondiale]] en [[1918]] ? <!-- score: 6 -->
 
