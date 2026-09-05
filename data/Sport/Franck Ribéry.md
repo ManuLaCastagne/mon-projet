@@ -23,16 +23,15 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Footballeur français très connu, régulièrement associé au Bayern, à l'équipe de France et à plusieurs faits médiatiques, mais moins incontournable que les légendes historiques du football."
 ---
-![Image de Franck Ribéry](https://upload.wikimedia.org/wikipedia/commons/b/bc/Franck_Ribery_2019_%28cropped%29.jpg)
+
+
+![Image de Franck Ribéry](https://upload.wikimedia.org/wikipedia/commons/b/bc/Franck_Ribery_2019_%28cropped%29.jpg)
 
 ###### Questions
-
-Quel joueur français a remporté le prix de [[Meilleur joueur UEFA en Europe]] en [[2013]] ?
 
 Quel footballeur a été impliqué dans l'affaire médiatique connue sous le nom de [[l'affaire Zahia]] en [[2010]] ?
 
 Quel ancien ailier du [[FC Bayern Munich]] a remporté la [[Bundesliga]] huit fois entre [[2007]] et [[2019]] ?
-
 ###### Description
 
 [[Franck Ribéry]] est un footballeur français né à [[Boulogne-sur-Mer]], une ville côtière du nord de la France, le 7 avril 1983. 
