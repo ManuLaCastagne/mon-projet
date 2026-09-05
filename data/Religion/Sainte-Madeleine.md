@@ -23,13 +23,14 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Marie-Madeleine est une figure majeure des Évangiles, de la Passion, de l’art chrétien et de plusieurs traditions concernant les reliques."
 ---
+
 ![Image de Sainte-Madeleine](https://upload.wikimedia.org/wikipedia/commons/d/d7/%C3%89glise_Sainte-Marie-Madeleine_%28Lille%29_%2C_la_chapelle_transversale_nord_d%C3%A9di%C3%A9e_%C3%A0_la_Vierge-.jpg)
 
 ###### Questions
 
 Quel est le nom de l'église romaine construite en 1842, connue pour son façade de temple grec et située dans le 8ème arrondissement de [[Paris]] ?
 
-Quel est le nom de la fête religieuse célébrée le 22 juillet en l'honneur de [[Marie-Madeleine]], une figure importante du [[Nouveau Testament]] ? <!-- score: 5 -->
+Quel est le nom de la fête religieuse célébrée le 22 juillet en l'honneur de [[Marie-Madeleine]], une figure importante du [[Nouveau Testament]] ? <!-- score: 4 -->
 ###### Description
 
 [[Sainte-Madeleine]], également connue sous le nom de [[Marie-Madeleine]], est née dans la ville de [[Magdala]] en [[Palestine]]. 
