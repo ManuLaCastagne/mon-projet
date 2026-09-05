@@ -21,13 +21,14 @@ indice_6 :
 culture_g_score: 97
 culture_g_justification: "Figure incontournable de la Révolution française, associée à la Terreur, au Comité de salut public et à Thermidor."
 ---
+
 ![Image de Robespierre](https://upload.wikimedia.org/wikipedia/commons/0/05/L%27execution_de_Maximilien_de_Robespierre_a_la_guillotine.jpg)
 
 ###### Questions
 
 Quel homme politique français, surnommé "[[l'Incorruptible]]", a joué un rôle central dans la mise en place de la [[Terreur]] en [[1793]] ?
 
-Quel membre influent du [[Comité de salut public]] a été exécuté par ses pairs le 28 juillet [[1794]] ? 
+Quel membre influent du [[Comité de salut public]] a été exécuté par ses pairs le 28 juillet [[1794]] ? <!-- score: 1 -->
 
 Quel avocat, né à [[Arras]] en [[1758]], est devenu une figure emblématique de la [[Révolution française]] avant de tomber en disgrâce ? <!-- score: 5 -->
 ###### Description
