@@ -16,11 +16,12 @@ indice_6:
 culture_g_score: 84
 culture_g_justification: "Animal domestique universel, central pour l’alimentation, la domestication, l’élevage, la biologie et plusieurs anecdotes scientifiques."
 ---
+
 ![Image de Poule](https://upload.wikimedia.org/wikipedia/commons/8/8b/Poule_-_t%C3%AAte.jpg)
 
 ###### Questions
 
-Quel animal a été le premier à être cloné à partir de ses propres cellules en [[1952]] ? <!-- score: 5 -->
+Quel animal a été le premier à être cloné à partir de ses propres cellules en [[1952]] ? <!-- score: 4 -->
 
 Quel animal a été envoyé dans une mission de [[NASA]] pour étudier l'apesanteur à bord de la navette spatiale [[Columbia]] en [[1997]] ?
 
