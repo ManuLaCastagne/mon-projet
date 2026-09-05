@@ -18,16 +18,13 @@ questions:
 culture_g_score: 49
 culture_g_justification: "L’échidné est une curiosité zoologique utile grâce aux monotrèmes et à l’Australie, mais reste peu fréquent."
 ---
+
+
 ![Image de Échidné](https://upload.wikimedia.org/wikipedia/commons/1/14/Ferocactus_echidne_01.jpg)
 
 ###### Questions
 
-Quel mammifère pond des œufs, comme l'ornithorynque, et vit en [[Australie]] ainsi qu'en [[Nouvelle-Guinée]] ?
-
-Quel animal de la famille des [[Tachyglossidae]] est unique pour sa langue collante et extensible pouvant atteindre 18 centimètres afin de capturer sa nourriture ?
-
-Quel animal, présenté pour la première fois au [[Zoo de Londres]] en [[1825]], est connu pour avoir une température corporelle parmi les plus basses de tous les mammifères ?
-
+Quel mammifère à épines pond des œufs, comme l'ornithorynque, et vit en [[Australie]] ainsi qu'en [[Nouvelle-Guinée]] ? <!-- score: 5 -->
 ###### Description
 
 L'[[Échidné]] est un mammifère monotrème, c'est-à-dire qu'il fait partie des rares mammifères qui pondent des œufs, tout comme l'ornithorynque.  
