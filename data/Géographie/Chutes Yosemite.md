@@ -27,16 +27,13 @@ questions:
 culture_g_score: 68
 culture_g_justification: "Site naturel emblématique des États-Unis, régulièrement associé au parc de Yosemite et à Ansel Adams, mais avec des angles assez concentrés."
 ---
+
+
 ![Image de Chutes Yosemite](https://upload.wikimedia.org/wikipedia/commons/2/2f/Yosemite_Falls_from_trail%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg)
 
 ###### Questions
 
-Quelle merveille naturelle de [[Géographie/Californie]], située dans le [[Parc national de Yosemite]], est célèbre pour être l'un des plus grands ensembles de chutes d'eau d'Amérique du Nord, avec une hauteur totale de 739 mètres ?
-
-Quel site emblématique, visité par des millions de personnes chaque année depuis l'inauguration du [[Parc national de Yosemite]] en 1890, a été photographié pour la première fois par [[Ansel Adams]] dans les années 1930 ?
-
-Quelle cascade mythique, atteignant une hauteur totale impressionnante, a été observée pour la première fois par des explorateurs européens dans les années 1850, et est aujourd'hui l'une des attractions principales du [[Parc national de Yosemite]] ?
-
+Quelle cascade mythique, atteignant une hauteur totale impressionnante, a été observée pour la première fois par des explorateurs européens dans les années 1850, et est aujourd'hui l'une des attractions principales du [[Parc national de Yosemite]] ? <!-- score: 5 -->
 ###### Description
 
 Les [[Chutes Yosemite]], situées dans le [[Parc national de Yosemite]] en [[Géographie/Californie]], sont l'une des chutes d'eau les plus emblématiques du monde. 
