@@ -24,6 +24,7 @@ indice_6 :
 culture_g_score: 60
 culture_g_justification: "Département francilien utile pour Saint-Denis, la basilique et quelques repères démographiques ou administratifs."
 ---
+
 ![[Carte_Seine-Saint-Denis.png]]
 
 ###### Questions
@@ -32,7 +33,7 @@ Quelle est le département français ayant la densité de population la plus él
 
 Quel département de la région [[Île-de-France]] a été le premier à être créé par le décret du [[25 février 1790]] ?
 
-Dans quel département se trouve la célèbre [[Basilique de Saint-Denis]], site de sépulture de nombreux rois de France, depuis sa consécration en [[1144]] ?
+Dans quel département se trouve la célèbre [[Basilique de Saint-Denis]], site de sépulture de nombreux rois de France, depuis sa consécration en [[1144]] ? <!-- score: 9 -->
 
 ###### Description
 
