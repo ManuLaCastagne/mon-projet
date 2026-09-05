@@ -23,6 +23,7 @@ indice_6:
 culture_g_score: 64
 culture_g_justification: "Chanteuse pop britannique fortement associée aux années 1980 et à Kids in America, mais moins centrale que les très grandes icônes du genre."
 ---
+
 ![Image de Kim Wilde](https://upload.wikimedia.org/wikipedia/commons/1/11/Kim_Wilde_2021_%28328%29.jpg)
 
 ###### Questions
@@ -37,7 +38,7 @@ Quel artiste a remporté le [[BRIT Award]] du meilleur espoir féminin en 1983 ?
 
 Quelle chanteuse a fait une tournée avec le groupe [[Michael Jackson]] en 1988 lors du [[Bad World Tour]] ?
 
-Qui est l'interprète de la chanson "Kids in America" sortie en 1981 ?
+Qui est l'interprète de la chanson "Kids in America" sortie en 1981 ? <!-- score: 3 -->
 
 ###### Description
 
