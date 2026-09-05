@@ -25,11 +25,12 @@ questions:
 culture_g_score: 68
 culture_g_justification: "Film catastrophe très reconnaissable, régulièrement associé à Roland Emmerich, au climat et à ses acteurs, mais d’importance culturelle limitée."
 ---
+
 ![Image de Le Jour d'après](https://upload.wikimedia.org/wikipedia/commons/a/a6/BORDEAUX_D%C3%89CONFIN%C3%89_LE_JOUR_D%27APR%C3%88S_%284K%29.webm)
 
 ###### Questions
 
-Dans quel film catastrophe sorti en 2004 un climatologue nommé [[Jack Hall]] tente-t-il de sauver le monde d'une nouvelle ère glaciaire ?
+Dans quel film catastrophe sorti en 2004 un climatologue nommé [[Jack Hall]] tente-t-il de sauver le monde d'une nouvelle ère glaciaire ? <!-- score: 2 -->
 
 Quel film réalisé par [[Roland Emmerich]], explorant les conséquences désastreuses du changement climatique, a pour titre original [[The Day After Tomorrow]] ?
 
