@@ -16,16 +16,13 @@ indice_6 :
   - Poème médiéval latin
 ---
 
+
+
 ![Image de Dies Irae](https://upload.wikimedia.org/wikipedia/commons/5/59/Dies_Irae_band_05.jpg)
 
 ###### Questions
 
-Quel est le titre de la célèbre séquence chantée du [[Requiem]], utilisée souvent lors de la [[messe]] pour les morts en [[liturgie]] chrétienne ?
-
-Quel est le nom du poème médiéval latin traitant du [[jugement dernier]], parfois mis en musique par de nombreux compositeurs célèbres, dont [[Wolfgang Amadeus Mozart]] et [[Giuseppe Verdi]] ?
-
 Comment appelle-t-on le passage du [[Requiem]] qui évoque la colère divine et le jour du jugement dans la [[tradition]] catholique ?
-
 ###### Description
 
 "Dies Irae" est une séquence liturgique du [[Moyen Âge]] qui évoque le jour du Jugement dernier par des images fortes et redoutées. 
