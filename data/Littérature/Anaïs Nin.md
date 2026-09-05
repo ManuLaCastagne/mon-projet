@@ -1,7 +1,7 @@
 ---
 tags: 
   - Littérature
-  - Anaïs_Nin
+  - Anaïs_Nin
   - Écrivaine_franco-américaine
   - France
 date:
@@ -25,16 +25,15 @@ questions:
 culture_g_score: 63
 culture_g_justification: "Anaïs Nin offre des liens avec les journaux intimes, la littérature érotique et Henry Miller, mais reste une figure de niche."
 ---
-![Image de Anaïs Nin](https://upload.wikimedia.org/wikipedia/commons/6/6c/Anais_Nin.jpg)
+
+
+![Image de Anaïs Nin](https://upload.wikimedia.org/wikipedia/commons/6/6c/Anais_Nin.jpg)
 
 ###### Questions
 
-Quel auteur célèbre pour ses journaux intimes a entretenu une relation amoureuse avec [[Henry Miller]] dans les années 1930 ?
+Quel autrice célèbre pour ses journaux intimes a entretenu une relation amoureuse avec [[Henry Miller]] dans les années 1930 ? <!-- score: 5 -->
 
-Quel écrivain connu pour ses écrits érotiques a été le premier à publier un récit du point de vue féminin avec son ouvrage intitulé "[[Delta of Venus]]" en 1977 ?
-
-Quel auteur franco-américain a vu son œuvre, "[[The Diary of Anaïs Nin]]", publiée pour la première fois en 1966 et devenir une source d'inspiration littéraire et culturelle majeure ?
-
+Quel écrivaine connu pour ses écrits érotiques a été le premier à publier un récit du point de vue féminin avec son ouvrage intitulé "[[Delta of Venus]]" en 1977 ? <!-- score: 5 -->
 ###### Description
 
 [[Anaïs Nin]] était une écrivaine franco-américaine célèbre pour ses journaux intimes détaillés, qui offrent un aperçu profond et personnel de sa vie et de son environnement créatif. 
