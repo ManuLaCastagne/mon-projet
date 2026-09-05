@@ -23,11 +23,12 @@ questions:
 culture_g_score: 96
 culture_g_justification: "Monarque britannique mondialement connue, offrant de nombreux repères sur la monarchie, le Commonwealth et l’histoire contemporaine."
 ---
+
 ![Image de Elizabeth II](https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg)
 
 ###### Questions
 
-Quel monarque britannique a envoyé le premier courriel électronique en 1976 à partir de l'armée de l'air royale britannique de Malvern ?
+Quel monarque britannique a envoyé le premier courriel électronique en 1976 à partir de l'armée de l'air royale britannique de Malvern ? <!-- score: 6 -->
 
 Quel chef d'État a été le premier à inaugurer les Jeux olympiques en dehors de son pays lors des [[Jeux olympiques d'été de 1976]] à [[Montréal]] ?
 
