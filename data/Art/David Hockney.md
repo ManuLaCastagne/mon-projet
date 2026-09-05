@@ -24,13 +24,14 @@ indice_6:
 culture_g_score: 72
 culture_g_justification: "Hockney permet des questions sur le pop art, la Californie, le portrait et l'art numérique, même s'il reste moins fréquent que les maîtres classiques."
 ---
+
 ![Image de David Hockney](https://upload.wikimedia.org/wikipedia/commons/2/26/David_Hockney_2017_at_Flash_Expo.jpg)
 
 ###### Questions
 
 En 1967, quel artiste britannique représente un ciel bleu, parfaitement pur, dans la toile "[[A Bigger Splash]]"?
 
-Quel célèbre artiste a créé en 2012 une série d'œuvres d'art numériques à l'aide d'un [[iPad]], démontrant ainsi une intégration moderne de la technologie dans l'art ?
+Quel célèbre artiste a créé en 2012 une série d'œuvres d'art numériques à l'aide d'un [[iPad]], démontrant ainsi une intégration moderne de la technologie dans l'art ? <!-- score: 4 -->
 
 Quel peintre britannique est reconnu pour avoir transformé la représentation des paysages californiens à partir du début des années 1960, notamment avec son tableau emblématique "[[A Bigger Splash]]" créé en 1967 ?
 
