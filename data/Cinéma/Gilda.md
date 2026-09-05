@@ -25,13 +25,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Classique du film noir lié à Rita Hayworth, à une scène culte, à la musique et à l’âge d’or hollywoodien."
 ---
+
 ![Image de Gilda](https://upload.wikimedia.org/wikipedia/commons/d/dd/Gilda_Lousek_by_Annemarie_Heinrich%2C_1963.jpg)
 
 ###### Questions
 
 Dans quel film de 1946, réalisé par [[Charles Vidor]], l'actrice [[Rita Hayworth]] incarne-t-elle le rôle inoubliable d'une femme fatale devenue emblématique dans l'histoire du cinéma ?
 
-Quel film rendu célèbre par la scène où l'héroïne interprétée par [[Rita Hayworth]] retire un long gant noir lors d'une performance, a été une des influences de la création du personnage féminin dans le film d'animation [[Qui veut la peau de [[Roger Rabbit]]]] ?
+Quel film rendu célèbre par la scène où l'héroïne interprétée par [[Rita Hayworth]] retire un long gant noir lors d'une performance, a été une des influences de la création du personnage féminin dans le film d'animation [[Qui veut la peau de [[Roger Rabbit]]]] ? <!-- score: 6 -->
 
 Dans quel film la chanson intitulée "[[Put the Blame on Mame]]", interprétée par [[Rita Hayworth]], joue-t-elle un rôle crucial dans le développement de l'intrigue et dans la popularité du film ?
 
