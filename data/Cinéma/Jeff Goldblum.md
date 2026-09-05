@@ -23,13 +23,14 @@ indice_6 :
 culture_g_score: 73
 culture_g_justification: "Acteur immédiatement associé à Jurassic Park, Independence Day et La Mouche, avec une forte rentabilité dans les quiz de cinéma populaire."
 ---
+
 ![Image de Jeff Goldblum](https://upload.wikimedia.org/wikipedia/commons/0/09/Jeff_Goldblum_and_the_Mildred_Snitzer_Orchestra_West_Holts_Stage_Glastonbury_Festival_2019_-004.jpg)
 
 ###### Questions
 
 Dans quel film de [[David Cronenberg]] sorti en 1986, [[Jeff Goldblum]] incarne-t-il un scientifique dont l'expérience de téléportation tourne mal?
 
-Quel acteur, né en 1952 à [[Pittsburgh]], a joué dans des films emblématiques tels que [[Jurassic Park]] et [[Independence Day]]?
+Quel acteur, né en 1952 à [[Pittsburgh]], a joué dans des films emblématiques tels que [[Jurassic Park]] et [[Independence Day]]? <!-- score: 3 -->
 
 Dans quel long métrage de [[Wes Anderson]] sorti en 2014, [[Jeff Goldblum]] interprète-t-il le rôle de [[Kovacs]]?
 
