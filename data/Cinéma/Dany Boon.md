@@ -23,13 +23,14 @@ indice_6 :
 culture_g_score: 73
 culture_g_justification: "Personnalité très connue en France grâce à Bienvenue chez les Ch'tis, à la fois humoriste, acteur et réalisateur."
 ---
+
 ![Image de Dany Boon](https://upload.wikimedia.org/wikipedia/commons/d/d1/Dany_Boon_Postier.JPG)
 
 ###### Questions
 
 Quel acteur et réalisateur français a été nommé pour la première fois aux [[César du cinéma]] grâce au film [[Bienvenue chez les Ch'tis]] en 2009 ?
 
-Quel humoriste a fait une apparition dans le film [[Astérix aux Jeux Olympiques]] en 2008, où il incarne le personnage de [[Alafolix]] ?
+Quel humoriste a fait une apparition dans le film [[Astérix aux Jeux Olympiques]] en 2008, où il incarne le personnage de [[Alafolix]] ? <!-- score: 3 -->
 
 Quel artiste a vendu ses œuvres aux enchères pour récolter des fonds pour le personnel soignant pendant la pandémie de [[COVID-19]] en 2020 ?
 
