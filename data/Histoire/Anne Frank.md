@@ -23,16 +23,15 @@ questions:
 culture_g_score: 97
 culture_g_justification: "Figure universelle de la Shoah, son journal et sa clandestinité constituent des repères extrêmement fréquents et immédiatement réutilisables."
 ---
+
+
 ![Image de Anne Frank](https://upload.wikimedia.org/wikipedia/commons/f/fe/Anne_Frank_lacht_naar_de_schoolfotograaf.jpg)
 
 ###### Questions
 
-Dans quel pays se trouvait la cachette secrète où [[Anne Frank]] a écrit son célèbre journal pendant la [[Seconde Guerre mondiale]] ?
-
 Quel auteur a vu son journal publié pour la première fois en [[1947]] sous le titre original "[[Het Achterhuis]]" ?
 
 Quelle jeune fille d'origine allemande a partagé sa vie dans une annexe secrète à partir de [[1942]] avec sa famille à [[Amsterdam]] ?
-
 ###### Description
 
 [[Anne Frank]] est une jeune fille juive allemande, née le 12 juin 1929 à [[Francfort-sur-le-Main]], qui a passé une grande partie de sa vie à [[Amsterdam]], cachée avec sa famille pour échapper aux persécutions nazies pendant la Seconde Guerre mondiale. 
