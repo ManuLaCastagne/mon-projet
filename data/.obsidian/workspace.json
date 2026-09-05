@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Dick Cheney.md",
+                "file": "Littérature/Cent Ans de solitude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,20 +172,6 @@
             }
           },
           {
-            "id": "ba4d54f4a77e7b4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Géographie/Madère.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Madère"
-            }
-          },
-          {
             "id": "b1baed5ddf7c43b2",
             "type": "leaf",
             "state": {
@@ -199,35 +185,21 @@
             }
           },
           {
-            "id": "e01d5f82d854373c",
+            "id": "d0ed5510d2eeaef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/La Dame aux Camélias.md",
+                "file": "Littérature/Cent Ans de solitude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Dame aux Camélias"
-            }
-          },
-          {
-            "id": "0093fd40e5812c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cinéma/Dick Cheney.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dick Cheney"
+              "title": "Cent Ans de solitude"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -351,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinéma/Dick Cheney.md",
+                "file": "Littérature/Cent Ans de solitude.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -390,8 +362,17 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "0093fd40e5812c80",
+  "active": "d0ed5510d2eeaef1",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260905164728.png",
+    "Frises/Scores Culture G.base",
+    "Littérature/Cent Ans de solitude.md",
+    "Géographie/Madère.md",
+    "Littérature/La Dame aux Camélias.md",
+    "Architecture/Pont Alexandre-III.md",
+    "Histoire/Dick Cheney.md",
+    "Cinéma/Adam McKay.md",
+    "Cinéma/Vice.md",
     "Littérature/Anaïs Nin.md",
     "Cinéma/David Lean.md",
     "Architecture/Norman Foster.md",
@@ -411,15 +392,6 @@
     "Littérature/Barbe-Bleue.md",
     "Géographie/Abu Dhabi.md",
     "Gastronomie/Cannelé.md",
-    "Gastronomie/Étiquetage des œufs (code imprimé).md",
-    "Cinéma/Tahar Rahim.md",
-    "Cinéma/Noce blanche.md",
-    "Cinéma/Le Mépris.md",
-    "Art/Tableaux-pièges.md",
-    "Architecture/Mosquée al-Harâm.md",
-    "Animaux/Narval.md",
-    "Culture générale/licorne de mer.md",
-    "Frises/Scores Culture G.base",
     "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
