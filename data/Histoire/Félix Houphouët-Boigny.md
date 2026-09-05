@@ -23,7 +23,8 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Fondateur de la Côte d’Ivoire indépendante et figure de l’Afrique francophone, utile mais moins central dans les quiz mondiaux."
 ---
-![Image de Félix Houphouët-Boigny](https://upload.wikimedia.org/wikipedia/commons/7/76/F%C3%A9lix_Houphou%C3%ABt-Boigny_1962-07-16.jpg)
+
+![Image de Félix Houphouët-Boigny](https://upload.wikimedia.org/wikipedia/commons/7/76/F%C3%A9lix_Houphou%C3%ABt-Boigny_1962-07-16.jpg)
 
 ###### Questions
 
@@ -31,7 +32,7 @@ Quel homme politique [[ivoirien]], surnommé le "Sage d'[[Afrique]]", devint le 
 
 Qui fut le fondateur du [Rassemblement Démocratique Africain (RDA)]], un mouvement politique important pour l'indépendance en [[Afrique]] francophone, en 1946 ?
 
-Quel chef d'État offrit généreusement le [[basilique Notre-Dame de la Paix de Yamoussoukro]] au [[Vatican]] en 1989, devenant ainsi l'un des édifices religieux les plus grands au monde ?
+Quel chef d'État offrit généreusement le [[basilique Notre-Dame de la Paix de Yamoussoukro]] au [[Vatican]] en 1989, devenant ainsi l'un des édifices religieux les plus grands au monde ? <!-- score: 3 -->
 
 ###### Description
 
