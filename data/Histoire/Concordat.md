@@ -23,6 +23,7 @@ questions:
 culture_g_score: 81
 culture_g_justification: "Notion historique et institutionnelle très rentable, surtout grâce au Concordat de 1801 et aux relations entre États et Église."
 ---
+
 ![Image de Concordat](https://upload.wikimedia.org/wikipedia/commons/5/58/MarrydelValpacelli.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel accord signé en [[1801]] entre [[Napoléon Bonaparte]] et le pape [[Pie VI
 
 Comment appelle-t-on l'entente conclue en [[1803]] entre le gouvernement des États pontificaux et la [[République italienne]] qui a permis le retour des propriétés ecclésiastiques confisquées pendant la [[Révolution française]] ?
 
-Quel terme désigne également le document de [[1800]] qui a établi les relations religieuses et politiques entre le [[Saint-Siège]] et différents États allemands après la [[Révolution française]] ?
+Quel terme désigne également le document de [[1800]] qui a établi les relations religieuses et politiques entre le [[Saint-Siège]] et différents États allemands après la [[Révolution française]] ? <!-- score: 6 -->
 
 ###### Description
 
