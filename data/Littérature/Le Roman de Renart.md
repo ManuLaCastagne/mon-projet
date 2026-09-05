@@ -26,16 +26,15 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Texte fondateur de la littérature médiévale française, exploitable par ses personnages, son genre, sa langue et son influence culturelle."
 ---
+
+
 ![Image de Le Roman de Renart](https://upload.wikimedia.org/wikipedia/commons/d/dc/Roman.de.renart.2.jpg)
 
 ###### Questions
 
 Dans quelle œuvre littéraire du [[Moyen Âge]], datant de 1174, retrouve-t-on le personnage central d'un goupil rusé, inspirant le terme moderne de renard en français ?
 
-Quel recueil de récits animaliers satiriques, écrit en [[ancien français]] par plusieurs auteurs, a influencé de nombreux contes et fables à travers les siècles ?
-
-Quelle œuvre marquante de la littérature médiévale française, mettant en scène des animaux anthropomorphiques, a été source d'inspiration pour des écrivains tels que [[Chaucer]] et [[Johann Wolfgang von Goethe]] ?
-
+Quel recueil de récits animaliers satiriques de 1174, écrit en [[ancien français]] par plusieurs auteurs, a influencé de nombreux contes et fables à travers les siècles ? <!-- score: 5 -->
 ###### Description
 
 [[Le Roman de Renart]] est un recueil de récits animaliers allégoriques médiévaux principalement écrits en octosyllabes rimés, qui ont vu le jour entre 1171 et 1250. 
