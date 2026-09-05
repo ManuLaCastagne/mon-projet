@@ -23,12 +23,13 @@ indice_6:
 culture_g_score: 47
 culture_g_justification: "Écrivain et photographe important pour la littérature autobiographique et la mémoire du sida, mais peu fréquent hors de ces angles."
 ---
+
 ![[Pasted image 20250505190944.png]]
 ###### Questions
 
 A quel écrivain et photographe, disparu en 1991, doit-on les livres intitulés "La Mort propagande" et "A l'ami qui ne m'a pas sauvé la vie" ? <!-- score: 4 -->
 
-Quel écrivain français, ami de [[Michel Foucault]], est connu pour son roman autobiographique [[À l'ami qui ne m'a pas sauvé la vie]], publié en 1990, qui aborde la question du [[SIDA]] ?
+Quel écrivain français, ami de [[Michel Foucault]], est connu pour son roman autobiographique [[À l'ami qui ne m'a pas sauvé la vie]], publié en 1990, qui aborde la question du [[SIDA]] ? <!-- score: 2 -->
 
 Quel auteur, né en 1955 et décédé en 1991, a travaillé comme photographe pour le journal [[Le Monde (journal)]], tout en étant reconnu pour sa contribution à la littérature française ?
 
