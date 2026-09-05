@@ -25,13 +25,14 @@ questions:
 culture_g_score: 36
 culture_g_justification: "Virtuose irakien majeur du oud, pertinent pour la culture musicale arabe mais trop spécialisé pour une priorité généraliste."
 ---
+
 ![Image de Mounir Bachir](https://upload.wikimedia.org/wikipedia/commons/2/2e/%D9%85%D9%86%D9%8A%D8%B1_%D8%A8%D8%B4%D9%8A%D8%B1_1958.jpg)
 
 ###### Questions
 
 Quel joueur de oud irakien de renom, né en 1930 à [[Mossoul]], est souvent crédité d'avoir modernisé la musique traditionnelle arabe grâce à ses techniques novatrices ? 
 
-Qui a été membre de l'Orchestre de la Radio de [[Bagdad]] dès 1950, devenant ensuite une figure centrale de la musique irakienne moderne ? 
+Qui a été membre de l'Orchestre de la Radio de [[Bagdad]] dès 1950, devenant ensuite une figure centrale de la musique irakienne moderne ? <!-- score: 1 -->
 
 Quel virtuose a enregistré l'album "[[Makaam I]]" en 1971, un chef-d'œuvre qui a contribué à populariser le oud en dehors des frontières du [[Moyen-Orient]] ?
 
