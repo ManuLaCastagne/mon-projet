@@ -24,11 +24,12 @@ indice_6:
 culture_g_score: 100
 culture_g_justification: "Rembrandt est un maître universel de la peinture, abondamment interrogé à travers ses portraits, gravures, œuvres bibliques et son époque."
 ---
+
 ![Image de Rembrandt](https://upload.wikimedia.org/wikipedia/commons/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg)
 
 ###### Questions
 
-Quel peintre exécuta "[[La Fuite en Egypte]]" conservée au musée de Tours, quelques années avant sa "Ronde de Nuit" ? <!-- score: 5 -->
+Quel peintre exécuta "[[La Fuite en Egypte]]" conservée au musée de Tours, quelques années avant sa "Ronde de Nuit" ? <!-- score: 3 -->
 
 Quel artiste né en 1606 à [[Leyde]] a perdu la majorité de sa richesse malgré un succès considérable au cours de sa vie, en partie à cause de son goût pour les collections d'art hors de prix ?
 
