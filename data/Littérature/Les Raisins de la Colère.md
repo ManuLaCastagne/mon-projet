@@ -25,11 +25,12 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Chef-d’œuvre de Steinbeck et de la littérature sociale, lié à la Grande Dépression, au Dust Bowl, au Pulitzer et aux droits des travailleurs."
 ---
+
 ![Image de Les Raisins de la Colère](https://upload.wikimedia.org/wikipedia/commons/0/07/Recueil._%22Les_raisins_de_la_col%C3%A8re%22_film_de_John_Ford_-_btv1b10525528p_%2807_of_71%29.jpg)
 
 ###### Questions
 
-Quel roman écrit par [[John Steinbeck]] en 1939 raconte le périple des [[Joad]], une famille de fermiers ruinés durant la [[Grande Dépression]] aux [[États-Unis]] ?
+Quel roman écrit par [[John Steinbeck]] en 1939 raconte le périple des [[Joad]], une famille de fermiers ruinés durant la [[Grande Dépression]] aux [[États-Unis]] ? <!-- score: 6 -->
 
 Quelle œuvre a valu à [[John Steinbeck]] le [[Prix Pulitzer]] en 1940, décrivant l'exode vers la [[Sport/Californie]] des victimes du [[Dust Bowl]] ?
 
