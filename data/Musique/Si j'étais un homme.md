@@ -24,11 +24,12 @@ questions:
 culture_g_score: 52
 culture_g_justification: "« Si j’étais un homme » est un succès francophone identifiable, mais les questions portent principalement sur cette chanson et Diane Tell."
 ---
-![Image de Si j'étais un homme](https://upload.wikimedia.org/wikipedia/commons/2/2f/Beyonce_If_I_Were_a_Boy_2013.jpg)
+
+![Image de Si j'étais un homme](https://upload.wikimedia.org/wikipedia/commons/2/2f/Beyonce_If_I_Were_a_Boy_2013.jpg)
 
 ###### Questions
 
-Quelle chanson de [[Diane Tell]] sortie en 1980 imagine une vie différente dans ses paroles en explorant des thèmes de genre ?
+Quelle chanson de [[Diane Tell]] sortie en 1980 imagine une vie différente dans ses paroles en explorant des thèmes de genre ? <!-- score: 9 -->
 
 Quel titre emblématique de [[Diane Tell]] se concentre sur les réflexions d'une femme se mettant dans la peau d'un homme pour aborder sa condition ?
 
