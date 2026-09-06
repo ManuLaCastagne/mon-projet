@@ -24,13 +24,14 @@ indice_6:
 culture_g_score: 63
 culture_g_justification: "Cinéaste britannique lié à plusieurs films célèbres et à des genres variés, mais restant une référence surtout cinéphile."
 ---
+
 ![Image de Alan Parker](https://upload.wikimedia.org/wikipedia/commons/c/c8/Alan_Parker_%28Director%29%2C_London%2C_2012.jpg)
 
 ###### Questions
 
 En 1978, à quel réalisateur doit-on 'Midnight Express' se déroulant dans une prison d'Istanbul ?
 
-En 1980, qui a réalisé [[Fame]], un film musical acclamé qui a même donné naissance à une série télévisée populaire ?
+En 1980, qui a réalisé [[Fame]], un film musical acclamé qui a même donné naissance à une série télévisée populaire ? <!-- score: 2 -->
 
 Quel réalisateur britannique, connu pour son style visuel unique, a dirigé le film musical [[Pink Floyd: The Wall]] en 1982 ?
 
