@@ -1,30 +1,29 @@
 ---
-tags: 
+tags:
   - Art
   - Paris
   - Années_1930
   - XXe
-  - QRDLL
 date:
   - 1908/02/29
 debut: 1908
 fin: 2001
-indice_1 : 
+indice_1:
   - Peintre franco-polonais
-indice_2 : 
+indice_2:
   - Le Roi des chats
-indice_3 : 
+indice_3:
   - Thérèse rêvant
-indice_4 : 
+indice_4:
   - Atmosphère énigmatique
-indice_5 : 
+indice_5:
   - Influence du surréalisme
-indice_6 : 
+indice_6:
   - Inspiration néoclassique
 questions:
- - Quel peintre disparu en 2001 en Suisse, de son vrai nom Balthazar Klosowski de Rolla ?
+  - Quel peintre disparu en 2001 en Suisse, de son vrai nom Balthazar Klosowski de Rolla ?
 culture_g_score: 51
-culture_g_justification: "Peintre au style singulier et à la trajectoire institutionnelle notable, mais assez peu fréquent hors des quiz d’histoire de l’art."
+culture_g_justification: Peintre au style singulier et à la trajectoire institutionnelle notable, mais assez peu fréquent hors des quiz d’histoire de l’art.
 ---
 
 
