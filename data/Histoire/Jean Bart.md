@@ -23,13 +23,14 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Corsaire emblématique de Dunkerque et de Louis XIV, principalement interrogé dans les questions sur la marine et les guerres françaises."
 ---
+
 ![Image de Jean Bart](https://upload.wikimedia.org/wikipedia/commons/9/94/Jean_Bart_mg_9487.jpg)
 
 ###### Questions
 
 Quel célèbre corsaire français, né à [[Dunkerque]] en [[1650]], a été reconnu pour ses exploits lors de la [[Guerre de la Ligue d'Augsbourg]] et la [[Guerre de Neuf Ans]] ?
 
-Quel marin, souvent confondu avec un pirate, a été anobli par le roi [[Louis XIV]] en [[1694]] pour avoir sauvé une flotte française d'un blocus anglais ?
+Quel marin, souvent confondu avec un pirate, a été anobli par le roi [[Louis XIV]] en [[1694]] pour avoir sauvé une flotte française d'un blocus anglais ? <!-- score: 1 -->
 
 Quel héros maritime a joué un rôle crucial en 1694 lors de la bataille de [[Texel]], permettant à la France de recevoir d'importantes cargaisons de grain en pleine famine ?
 
