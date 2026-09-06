@@ -25,6 +25,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Classique oscarisé et historique du cinéma américain, associé à Schlesinger, Dustin Hoffman, Jon Voight et à la classification X."
 ---
+
 ![[Pasted image 20250419093220.png]]
 ###### Questions
 
@@ -32,7 +33,7 @@ Quel film de [[John Schlesinger]] a remporté l'Oscar du meilleur film en 1970, 
 
 Quelle œuvre cinématographique sortie en 1969 a révélé l'acteur [[Jon Voight]] dans le rôle d'un gigolo texan nommé [[Joe Buck]] ?
 
-Quel long métrage, basé sur un roman de [[James Leo Herlihy]], met en scène l'amitié entre un cowboy naïf et un arnaqueur de rue joué par [[Dustin Hoffman]] à New York pendant les années 1960 ?
+Quel long métrage, basé sur un roman de [[James Leo Herlihy]], met en scène l'amitié entre un cowboy naïf et un arnaqueur de rue joué par [[Dustin Hoffman]] à New York pendant les années 1960 ? <!-- score: 3 -->
 
 ###### Description
 
