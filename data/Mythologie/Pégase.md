@@ -21,6 +21,7 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Cheval ailé universellement reconnaissable, Pégase est très présent dans les quiz grâce à Méduse, Bellérophon, la mythologie, les constellations et les arts."
 ---
+
 ![Image de Pégase](https://upload.wikimedia.org/wikipedia/commons/4/49/Mine_hunter_P%C3%A9gase_M644.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel est le nom du cheval ailé qui aurait vu le jour lorsque le sang de [[Médu
 
 Quelle créature légendaire a été apprivoisée par [[Bellérophon]], avec l'aide d'une bride magique offerte par la déesse [[Athéna]], lui permettant ainsi de vaincre la [[Chimère]] ?
 
-Quel est le nom du cheval qui serait devenu une constellation après sa mort, et est souvent associé au [[Mont Hélicon]], où il a ouvert la source [[Hippocrène]] d'un coup de sabot ?
+Quel est le nom du cheval qui serait devenu une constellation après sa mort, et est souvent associé au [[Mont Hélicon]], où il a ouvert la source [[Hippocrène]] d'un coup de sabot ? <!-- score: 4 -->
 
 ###### Description
 
