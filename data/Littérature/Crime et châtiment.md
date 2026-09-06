@@ -2,36 +2,32 @@
 tags:
   - Littérature
   - Crime_et_châtiment
-  - Littérature
   - Russie
   - Années_1860
+  - Certifié
 date:
   - 1866/01/01
 debut: 1866
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Russie
-indice_2 : 
+indice_2:
   - Raskolnikov
-indice_3 : 
+indice_3:
   - Sonia
-indice_4 : 
+indice_4:
   - meurtre
-indice_5 : 
+indice_5:
   - Dostoevsky
-indice_6 : 
+indice_6:
   - culpabilité
-questions:
- - L'oeuvre de Fiodor Dostoïevski où Raskolnikov assassine une vieille usurière pour lui voler son argent?
 culture_g_score: 100
-culture_g_justification: "Chef-d’œuvre universel de Dostoïevski, extrêmement rentable pour la littérature russe, la psychologie, la philosophie, le crime et la notion de culpabilité."
+culture_g_justification: Chef-d’œuvre universel de Dostoïevski, extrêmement rentable pour la littérature russe, la psychologie, la philosophie, le crime et la notion de culpabilité.
 ---
-
-![Image de Crime et châtiment](https://upload.wikimedia.org/wikipedia/commons/f/f0/Crime_et_ch%C3%A2timent%2C_texte_d%27apr%C3%A8s_F%C3%A9dor_Micha%C3%AFlovitch_Dosto%C3%AFevski_-_photographies_-_Roger_Pic_-_btv1b10601840b_%2802_of_17%29.jpg)
-
+![[Pasted image 20260905165459.png]]
 ###### Questions
 
-Quel roman de [[Fiodor Dostoïevski]], publié en 1866, explore la psychologie de son protagoniste, [[Rodion Raskolnikov]], après un meurtre qu'il justifie par une théorie philosophique personnelle ? <!-- score: 4 -->
+Quel roman de [[Fiodor Dostoïevski]], publié en 1866, explore la psychologie de son protagoniste, [[Rodion Raskolnikov]], après un meurtre d'une vieille usurière qu'il justifie par une théorie philosophique personnelle ? <!-- score: 4 -->
 
 Dans quel ouvrage, se déroulant principalement à [[Saint-Pétersbourg]], un ancien étudiant lutte avec sa conscience après avoir commis un double meurtre censé prouver une théorie sur les « hommes extraordinaires » ?
 
