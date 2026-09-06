@@ -23,6 +23,7 @@ questions:
 culture_g_score: 71
 culture_g_justification: "Légende du hockey sur glace, associée aux Penguins, à des records spectaculaires et à une histoire originale de propriétaire de club."
 ---
+
 ![Image de Mario Lemieux](https://upload.wikimedia.org/wikipedia/commons/6/6a/Mario_Lemieux_2001.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel joueur légendaire de [[hockey sur glace]] a été propriétaire des [[Peng
 
 Quel ancien joueur de [[hockey]] a été intronisé au [[Temple de la renommée du hockey]] directement après sa première retraite en 1997, sans attendre la période habituelle de trois ans ? <!-- score: 6 -->
 
-Quel joueur des [[Penguins de Pittsburgh]] a réalisé l'exploit d'avoir marqué cinq types de buts différents (à égalité numérique, en supériorité numérique, en infériorité numérique, sur un tir de pénalité et dans un filet désert) lors d'un match contre les [[Devils du New Jersey]] en 1988 ?
+Quel joueur des [[Penguins de Pittsburgh]] a réalisé l'exploit d'avoir marqué cinq types de buts différents (à égalité numérique, en supériorité numérique, en infériorité numérique, sur un tir de pénalité et dans un filet désert) lors d'un match contre les [[Devils du New Jersey]] en 1988 ? <!-- score: 1 -->
 
 ###### Description
 
