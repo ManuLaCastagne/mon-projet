@@ -23,6 +23,7 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Figure importante du basket français et de Limoges, mais peu connue hors des amateurs de basket national."
 ---
+
 ![Image de Richard Dacoury](https://upload.wikimedia.org/wikipedia/commons/b/bb/Richard_Dacoury_R%C3%A9ception_Limoges_CSP_1995_2_%28cropped%29.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel joueur de [[Basketball]], ayant pris sa retraite en [[1998]], a remporté n
 
 Qui est cet ancien joueur de [[basket-ball]] français ayant été capitaine de l'équipe de [[Limoges CSP]] lors de leur victoire en [[Euroligue]] en [[1993]] ?
 
-Quel ancien joueur professionnel de [[Basketball]] a contribué à la victoire de l'équipe de [[France]] pour obtenir une médaille de bronze au championnat d'Europe en [[1984]] ?
+Quel ancien joueur professionnel de [[Basketball]] a contribué à la victoire de l'équipe de [[France]] pour obtenir une médaille de bronze au championnat d'Europe en [[1984]] ? <!-- score: 1 -->
 
 ###### Description
 
