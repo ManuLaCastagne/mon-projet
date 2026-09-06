@@ -25,16 +25,13 @@ questions:
 culture_g_score: 52
 culture_g_justification: "Acteur américain associé à quelques classiques comme Les Sept Mercenaires et à un Oscar, mais de fréquence modérée."
 ---
+
+
 ![Image de James Coburn](https://upload.wikimedia.org/wikipedia/commons/9/9d/James_Coburn_The_Californians_1959.JPG)
 
 ###### Questions
 
-Dans quel film de [[James Coburn]], sorti en 1997, a-t-il joué aux côtés de [[Mel Gibson]] et [[Julia Roberts]] ? 
-
-Dans quel film culte de 1960 [[James Coburn]] interprète-t-il le rôle de [[Britt]], un des [[Les Sept Mercenaires]] ?
-
-Quel acteur, [[James Coburn]], a gagné l'Oscar du [[Meilleur acteur dans un second rôle]] en 1999 pour le film [[Affliction]] ?
-
+Dans un film culte de 1960 qui interprète le rôle de [[Britt]], un des [[Les Sept Mercenaires]] ? <!-- score: 5 -->
 ###### Description
 
 [[James Coburn]] était un acteur américain reconnu pour sa voix grave et sa stature imposante, ayant marqué le cinéma hollywoodien. Né en 1928, il a fait ses débuts au cinéma dans les années 1960 et a remporté un Oscar du meilleur acteur dans un second rôle en 1999 pour sa performance dans "L'[[Ennemi public]]".
