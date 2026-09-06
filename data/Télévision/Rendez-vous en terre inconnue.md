@@ -22,16 +22,13 @@ indice_6 :
 culture_g_score: 76
 culture_g_justification: "Programme durable et populaire, ouvrant sur les personnalités participantes, les peuples rencontrés, la géographie et le voyage."
 ---
+
+
 ![Image de Rendez-vous en terre inconnue](https://upload.wikimedia.org/wikipedia/commons/1/1f/Rendez-vous_en_terre_inconnue.png)
 
 ###### Questions
 
-[[Quel]] programme télévisé, diffusé depuis 2004, envoie des célébrités dans des pays lointains pour découvrir des cultures méconnues ?
-
-Quel célèbre docu-réalité français a vu la participation de [[Clovis Cornillac]] en visiting chez le peuple [[Nénètses]] en 2014 ? <!-- score: 5 -->
-
-Dans quelle émission [[Mélanie Doutey]] a-t-elle rencontré la communauté [[Adivasi]] en [[Inde]] en 2017 ?
-
+[[Quel]] programme télévisé, diffusé depuis 2004, envoie des célébrités dans des pays lointains pour découvrir des cultures méconnues ? <!-- score: 5 -->
 ###### Description
 
 [[Rendez-vous en terre inconnue]] est une émission française de télévision qui a été diffusée pour la première fois en 2004 sur [[France 2]], à l'initiative de [[Frédéric Lopez]]. 
