@@ -26,16 +26,13 @@ questions:
 culture_g_score: 77
 culture_g_justification: "La mosquée Hassan II est un monument marocain très classique des quiz, grâce à Casablanca, à son minaret et à sa construction sur l’océan."
 ---
+
+
 ![Image de Hassan II](https://upload.wikimedia.org/wikipedia/commons/7/7a/Hassan_II_%281983%29.jpg)
 
 ###### Questions
 
-Dans quelle ville se trouve la [[Mosquée Hassan II]], célèbre pour son minaret de 210 mètres, considéré comme le plus haut du monde lors de son inauguration en 1993 ?
-
-Quel monument religieux, inauguré en 1993, est construit en partie sur l'océan Atlantique et constitue un élément emblématique de l'architecture de [[Casablanca]] ?
-
-Quel projet architectural, supervisé par le roi [[Hassan II]] et conçu par l'architecte [[Michel Pinseau]], est devenu un symbole iconique du Maroc moderne ?
-
+Quel dirigeant a donné son nom à un monument religieux, inauguré en 1993, est construit en partie sur l'océan Atlantique et constitue un élément emblématique de l'architecture de [[Casablanca]] ? <!-- score: 5 -->
 ###### Description
 
 [[Hassan II]], Roi du [[Maroc]] de 1961 à 1999, a été un fervent promoteur de l'architecture contemporaine au sein du pays.
