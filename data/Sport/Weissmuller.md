@@ -23,11 +23,12 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Figure à double ancrage, champion olympique de natation et interprète emblématique de Tarzan, souvent exploitable en quiz."
 ---
+
 ![Image de Weissmuller](https://upload.wikimedia.org/wikipedia/commons/6/6e/Johny_Weissmuller-publicity.JPG)
 
 ###### Questions
 
-Quel champion olympique de natation a remporté cinq médailles d'or aux [[Jeux olympiques]] de [[1924]] et [[1928]] avant de devenir acteur ?
+Quel champion olympique de natation a remporté cinq médailles d'or aux [[Jeux olympiques]] de [[1924]] et [[1928]] avant de devenir acteur ? <!-- score: 2 -->
 
 Quel acteur célèbre a incarné [[Tarzan]] dans douze films entre [[1932]] et [[1948]] et était connu pour son cri emblématique ?
 
