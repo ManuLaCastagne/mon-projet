@@ -25,6 +25,7 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Grande puissance mondiale dont l’histoire, la culture, la technologie, la géographie, les arts et les traditions fournissent d’innombrables questions."
 ---
+
 ![Image de Japon](https://upload.wikimedia.org/wikipedia/commons/a/ab/Soba-Noodles-Deliveryman-Tokyo-1935.png)
 
 ![[Carte_Japon.png]]
@@ -36,7 +37,7 @@ Quel [[Etat]] insulaire est célèbre pour sa production d'[[okiagari-koboshi]],
 
 Quel pays a accueilli en 1970 la première [[Exposition Universelle]] organisée en [[Asie]] ?
 
-Quel pays a vu son [[empereur]] actuel, [[Naruhito]], monter sur le trône en 2019 après l'abdication de son père [[Akihito]] ?
+Quel pays a vu son [[empereur]] actuel, [[Naruhito]], monter sur le trône en 2019 après l'abdication de son père [[Akihito]] ? <!-- score: 8 -->
 
 Quel pays possède l'[[île]] d'[[Honshu]], la [[7e]] plus grande île au monde par sa population ?
 
