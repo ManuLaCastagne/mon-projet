@@ -16,11 +16,12 @@ indice_6 :
   - Chincha
 ---
 
+
 ![Image de Viscache](https://upload.wikimedia.org/wikipedia/commons/4/42/Vizcacha_in_the_Atacama.jpg)
 
 ###### Questions
 
-Quel est le nom du petit rongeur d'Amérique du Sud qui ressemble à un lapin avec une longue queue, souvent associé aux Andes et membre de la famille des [[Chinchillidae]] ?
+Quel est le nom du petit rongeur d'Amérique du Sud qui ressemble à un lapin avec une longue queue, souvent associé aux Andes et membre de la famille des [[Chinchillidae]] ? <!-- score: 4 -->
 
 Quel animal sud-américain, souvent confondu avec le [[Chinchilla]], est connu pour ses capacités à bondir sur les rochers des montagnes ?
 
