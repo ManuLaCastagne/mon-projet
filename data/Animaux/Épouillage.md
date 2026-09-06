@@ -1,29 +1,28 @@
 ---
-tags: 
+tags:
   - Animaux
-indice_1 : 
+  - Certifié
+indice_1:
   - Primates
-indice_2 : 
+indice_2:
   - Allogrooming
-indice_3 : 
+indice_3:
   - Primates
-indice_4 : 
+indice_4:
   - Afrique et Asie
-indice_5 : 
+indice_5:
   - Toilettage social
-indice_6 : 
+indice_6:
   - Renforcement des liens sociaux
-questions:
- - A quel rituel, utile d'un point de vue hygiénique et appelé "grooming" en anglais, le chimpanzé s'adonne-t-il afin de renforcer le lien social?
 culture_g_score: 52
-culture_g_justification: "L’épouillage éclaire les comportements sociaux des primates et des oiseaux, sans être une réponse très fréquente."
+culture_g_justification: L’épouillage éclaire les comportements sociaux des primates et des oiseaux, sans être une réponse très fréquente.
 ---
 
-![Image de Épouillage](https://upload.wikimedia.org/wikipedia/commons/7/7f/Fig.4.Louse_bites.jpg)
+![Image de Épouillage](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Composite_image_of_male_chimpanzee_%28left%29_and_male_bonobo_%28right%29_%28CC_BY_version%29.png/1920px-Composite_image_of_male_chimpanzee_%28left%29_and_male_bonobo_%28right%29_%28CC_BY_version%29.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions
 
-Quel comportement social est observé chez les [[primates]] pour renforcer les liens sociaux et réduire le stress, ainsi qu'améliorer l'hygiène de la troupe?
+A quel rituel, utile d'un point de vue hygiénique et appelé "grooming" en anglais, le [[chimpanzé]] s'adonne-t-il afin de renforcer le lien social ?
 
 Quelle activité, observée chez les [[oiseaux]] notamment les [[corvidés]], consiste à éliminer les parasites et les plumes mortes à l'aide du bec? <!-- score: 4 -->
 
