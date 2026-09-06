@@ -23,15 +23,11 @@ questions:
 culture_g_score: 40
 culture_g_justification: "Émission littéraire française identifiable mais ancienne et nettement moins connue que les grands programmes de Bernard Pivot."
 ---
+
+
 ![Image de Ex libris (émission)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Stamp_of_Brazil_-_1981_-_Colnect_215166_-_Ex_libris.jpeg)
 
 ###### Questions
-
-Quel programme télévisé, diffusé à partir de [[1996]] sur [[France 3]], était animé par [[Patrick Poivre d'Arvor]] et mettait en avant les livres et la littérature ?
-
-Quelle émission culturelle française, initiée par [[Bernard Pivot]] en [[1993]], est connue pour ses débats littéraires et ses chroniques en direct sur [[France 3]] ?
-
-Quel show télévisé a reçu en [[2001]] un nouveau plateau et un format revisité, renforçant son engagement envers la promotion des nouveautés littéraires sous le nom d'[[Ex libris]] ?
 
 ###### Description
 
