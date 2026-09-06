@@ -25,16 +25,13 @@ questions:
 culture_g_score: 47
 culture_g_justification: "Actrice française reconnue par les amateurs de cinéma et un César, mais dont les références restent trop spécifiques pour un apprentissage prioritaire."
 ---
+
+
 ![Image de Caroline Cellier](https://upload.wikimedia.org/wikipedia/commons/6/60/Caroline_Cellier.jpg)
 
 ###### Questions
 
-Dans quel film de [[Claude Lelouch]], sorti en 1970, [[Caroline Cellier]] a-t-elle joué aux côtés de [[Jean-Louis Trintignant]] et [[Lea Massari]] ?
-
-Avec quel célèbre réalisateur français [[Caroline Cellier]] a-t-elle collaboré pour le film "La Controverse de [[Valladolid]]" en 1992 ?
-
-Quelle distinction prestigieuse [[Caroline Cellier]] a-t-elle remportée en 1985 pour son rôle dans le film "L'Année des méduses" ?
-
+Dans un film de [[Claude Lelouch]], sorti en 1970, quelle actrice a joué aux côtés de [[Jean-Louis Trintignant]] et [[Lea Massari]] ? <!-- score: 5 -->
 ###### Description
 
 [[Caroline Cellier]] était une actrice talentueuse du cinéma français, née le 7 août 1945 à [[Montpellier]]. Elle a remporté le [[César de la meilleure actrice dans un second rôle]] en 1985 pour son interprétation dans le film "[[L'année des méduses]]". 
