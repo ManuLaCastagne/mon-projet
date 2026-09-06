@@ -28,17 +28,14 @@ questions:
 culture_g_score: 52
 culture_g_justification: "Ville allemande et lac transfrontalier fournissent quelques repères européens, mais le sujet précis reste relativement secondaire."
 ---
+
+
 ![Image de Constance](https://upload.wikimedia.org/wikipedia/commons/e/e3/Lindau_Harbor_Lake_Constance_MS_Schwaben_01.jpg)
 
 ![[Carte_Constance.png]]
 ###### Questions
 
 Quel est le nom du plus grand lac de [[Suisse]] qui est partagé avec l'[[Allemagne]] et l'[[Autriche]] ?
-
-Quelle ville allemande, située sur les rives du lac de [[Constance]], est célèbre pour son université fondée en 1966 ?
-
-Quel est le nom de la région située autour du lac de [[Constance]] qui est partagée entre trois pays européens ?
-
 ###### Description
 
 [[Constance]], située dans le sud-ouest de l'[[Allemagne]], est une ville pittoresque nichée au bord du [[Lac de Constance]], qui est partagé avec l'[[Autriche]] et la [[Suisse]]. 
