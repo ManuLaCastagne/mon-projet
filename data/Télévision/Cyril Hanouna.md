@@ -22,11 +22,12 @@ indice_6 :
 culture_g_score: 73
 culture_g_justification: "Animateur très médiatisé associé à une émission quotidienne majeure, avec de nombreuses entrées par la télévision et la polémique médiatique."
 ---
+
 ![Image de Cyril Hanouna](https://upload.wikimedia.org/wikipedia/commons/b/b0/Cyril_Hanouna_2010.jpg)
 
 ###### Questions
 
-Quel animateur a remporté un [[7 d'or]] du meilleur animateur de divertissement en 2007 pour l'émission [[La Grosse Émission]] ?  
+Quel animateur a remporté un [[7 d'or]] du meilleur animateur de divertissement en 2007 pour l'émission [[La Grosse Émission]] ? <!-- score: 4 -->
 
 Quel animateur a succédé à l'émission [[Les Pieds dans le plat]] sur [[Europe 1]] en 2014 après l'arrêt de l'émission de [[Laurent Ruquier]] ?  
 
