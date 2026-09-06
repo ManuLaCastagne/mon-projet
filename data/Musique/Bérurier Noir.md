@@ -23,6 +23,7 @@ indice_6:
 culture_g_score: 60
 culture_g_justification: "Groupe culte du punk français, utile pour la scène alternative, ses chansons et le contexte social des années 1980."
 ---
+
 ![Image de Bérurier Noir](https://upload.wikimedia.org/wikipedia/commons/2/26/PH-BXN_Boeing_737_KLM_%288600409796%29.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel groupe de punk rock français, formé en 1983, est connu pour ses performan
 
 A quel groupe de rock alternatif des années 80, dont le nom fait référence à un personnage de San Antonio, doit-on "Salut à toi"? <!-- score: 3 -->
 
-Quel groupe a marqué les années 1980 en France avec son album "Macadam Massacre" sorti en 1984, contribuant à populariser la scène alternative ?
+Quel groupe a marqué les années 1980 en France avec son album "Macadam Massacre" sorti en 1984, contribuant à populariser la scène alternative ? <!-- score: 4 -->
 
 Quel groupe, dans l'histoire du punk français, a décidé de se séparer en 1989, malgré une popularité persistante, pour rester fidèle à ses principes anti-commerciaux ?
 
