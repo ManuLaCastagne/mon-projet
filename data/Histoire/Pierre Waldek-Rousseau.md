@@ -23,6 +23,7 @@ questions:
 culture_g_score: 65
 culture_g_justification: "Son association à la loi de 1901 en fait une référence rentable de l’histoire politique, juridique et laïque française."
 ---
+
 ![Image de Pierre Waldek-Rousseau](https://upload.wikimedia.org/wikipedia/commons/d/d9/Getty_Research_Institute_%28IA_gri_33125010851307%29.pdf)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel homme politique français, connu pour avoir établi la [[Loi sur les associ
 
 Quelle figure politique a joué un rôle clé dans la mise en œuvre de la [[Loi relative au contrat d'association]] sous la [[Troisième République]] en [[1901]] ?
 
-Quel Premier ministre français a été avocat avant sa carrière politique et a contribué à renforcer la [[laïcité]] à travers la loi de [[1901]] sur les associations en France ?
+Quel Premier ministre français a été avocat avant sa carrière politique et a contribué à renforcer la [[laïcité]] à travers la loi de [[1901]] sur les associations en France ? <!-- score: 1 -->
 
 ###### Description
 
