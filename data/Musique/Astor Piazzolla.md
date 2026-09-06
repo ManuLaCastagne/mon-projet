@@ -23,11 +23,12 @@ indice_6:
 culture_g_score: 72
 culture_g_justification: "Piazzolla est une figure majeure du tango, rentable grâce à Libertango, au nuevo tango, au bandonéon et à ses liens avec Borges et Boulanger."
 ---
+
 ![Image de Astor Piazzolla](https://upload.wikimedia.org/wikipedia/commons/f/fd/Piazzolla_orquesta_canal13_1962-restored.jpg)
 
 ###### Questions
 
-Quel compositeur et joueur de bandonéon argentin, disparu en 1992, a joué "[[Libertango]]" ?
+Quel compositeur et joueur de bandonéon argentin, disparu en 1992, a joué "[[Libertango]]" ? <!-- score: 2 -->
 
 Quel compositeur argentin est connu pour avoir révolutionné le tango grâce à l'introduction d'éléments de [[jazz]] et de [[musique classique]], et a notamment composé le célèbre morceau "Libertango" en 1974 ?
 
