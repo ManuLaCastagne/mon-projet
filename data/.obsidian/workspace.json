@@ -13,12 +13,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vocabulaire/Apartheid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
-                  "localBacklinks": false,
+                  "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
@@ -163,71 +162,44 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 1.188263511808552,
+                  "scale": 1.103013479581718,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphe local"
+              "title": "Vue graphique"
             }
           },
           {
-            "id": "b1baed5ddf7c43b2",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Frises/Scores Culture G.base",
-                "viewName": "Tableau"
-              },
-              "icon": "lucide-table",
-              "title": "Scores Culture G"
-            }
-          },
-          {
-            "id": "ddb440d55fb8a4ca",
+            "id": "ee901f8f7f9a514d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Edgar Allan Poe.md",
+                "file": "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edgar Allan Poe"
+              "title": "L'Enfant, Le Bachelier et L'Insurgé"
             }
           },
           {
-            "id": "0aa23229b4931f83",
+            "id": "ba4d54f4a77e7b4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Vocabulaire/Apartheid.md",
-                "mode": "source",
-                "source": false
+                "aFile": "data/Vocabulaire/Apartheid.md",
+                "bFile": "data/Vocabulaire/Apartheid.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Apartheid"
-            }
-          },
-          {
-            "id": "4f8a54204ada4b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Animaux/Maki.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maki"
+              "icon": "diff",
+              "title": "Diff: Apartheid"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,10 +218,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -350,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulaire/Apartheid.md",
+                "file": "Musique/Manureva.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Manureva"
             }
           },
           {
@@ -389,48 +359,49 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "0aa23229b4931f83",
+  "active": "ba4d54f4a77e7b4b",
   "lastOpenFiles": [
-    "Vocabulaire/apartheid.md",
-    "Art/Balthus.md",
-    "Animaux/Épouillage.md",
-    "Animaux/Échidné.md",
-    "Littérature/Crime et châtiment.md",
-    "attachments/Carte_16e arrondissement (Paris).png",
+    "Littérature/Alain Robbe-Grillet.md",
     "attachments/Pasted image 20260905165459.png",
-    "Animaux/Maki.md",
-    "Animaux/Corbeau.md",
-    "Animaux/Poule.md",
-    "Anatomie/Artère iliaque.md",
-    "Littérature/Edgar Allan Poe.md",
-    "Culture générale/maître du macabre.md",
-    "Littérature/The Raven.md",
-    "Géographie/États-Unis.md",
-    "Frises/Scores Culture G.base",
-    "Géographie/Boston.md",
-    "Littérature/Don Juan.md",
-    "Musique/Lorenzo Da Ponte.md",
-    "Musique/Così fan tutte.md",
-    "Culture générale/Le Festin de Pierre.md",
-    "Musique/Wolfgang Amadeus Mozart.md",
-    "Musique/Mozart.md",
-    "Littérature/Denis Diderot.md",
-    "Littérature/Jean le Rond d'Alembert.md",
-    "Littérature/Les Bijoux Indiscrets.md",
-    "Littérature/Jacques le Fataliste et son maître.md",
     "attachments/Pasted image 20260905165455.png",
-    "Littérature/Raskolnikov.md",
-    "Histoire/George W. Bush.md",
     "attachments/Pasted image 20260905164728.png",
     "attachments/Pasted image 20260904174035.png",
-    "Frises/Base de données n°1.base",
+    "Vocabulaire/aglyphe.md",
+    "Sport/Yaroslava Mahuchikh.md",
+    "Sport/Jakob Ingebrigtsen.md",
+    "Musique/Wolfgang Amadeus Mozart.md",
+    "Musique/La Traviata.md",
+    "Littérature/The Raven.md",
+    "Littérature/Raskolnikov.md",
+    "Littérature/Oliver Twist.md",
+    "Littérature/Natacha.md",
+    "Littérature/Les Bijoux Indiscrets.md",
+    "Littérature/La Dame aux Camélias.md",
+    "Littérature/Jean le Rond d'Alembert.md",
+    "Littérature/Jacques le Fataliste et son maître.md",
+    "Littérature/Alexandre Dumas fils.md",
+    "Histoire/John Quincy Adams.md",
+    "Histoire/George W. Bush.md",
+    "Histoire/Dick Cheney.md",
+    "Géographie/États-Unis.md",
+    "Géographie/parc Maruyama.md",
+    "Géographie/George H. W. Bush.md",
+    "Géographie/Funchal.md",
+    "Géographie/Connecticut.md",
+    "Géographie/Boston.md",
+    "Géographie/Auschwitz-Birkenau.md",
+    "Culture générale/tenrec.md",
+    "Frises/Scores Culture G.base",
+    "Frises/Notes.base",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",
     "attachments/Pasted image 20260804075442.png",
     "attachments/Pasted image 20260804075041.png",
+    "attachments/Pasted image 20260803221325.png",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
+    "Frises/Base de données n°1.base",
     "Sans titre.canvas"
   ]
 }
