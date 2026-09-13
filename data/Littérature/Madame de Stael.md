@@ -22,8 +22,9 @@ indice_6 :
   - Benjamin Constant
 questions:
  - Quelle romancière née en 1767, fille de Necker…
+culture_g_score: 80
+culture_g_justification: "Figure majeure des débuts du romantisme, utile pour des questions sur la littérature, Napoléon, la politique et les échanges culturels européens."
 ---
-
 ![Image de Madame de Stael](https://upload.wikimedia.org/wikipedia/commons/3/37/Delphine%2C_Madame_de_Sta%C3%ABl%2C_Paris%2C_1803_04.jpg)
 
 ###### Questions

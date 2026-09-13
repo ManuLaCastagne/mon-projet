@@ -20,6 +20,8 @@ indice_5:
   - roman publié en 2000
 indice_6:
   - critique du marketing
+culture_g_score: 56
+culture_g_justification: "Roman contemporain identifiable par Beigbeder, la publicité et son adaptation cinématographique, avec une portée culturelle toutefois moyenne."
 ---
 ![[Pasted image 20260816110720.png]]
 ###### Questions

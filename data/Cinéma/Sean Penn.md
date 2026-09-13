@@ -22,8 +22,9 @@ indice_6 :
   - réalisateur et acteur
 questions:
  - En 2008, à quel acteur américain doit-on le film "Into the wild" racontant l'histoire vraie d'un brillant diplômé qui quitte tout pour partir en Alaska?
+culture_g_score: 80
+culture_g_justification: "Acteur-réalisateur oscarisé, associé à des films majeurs, à l'engagement humanitaire et à plusieurs faits cinématographiques exploitables."
 ---
-
 ![Image de Sean Penn](https://upload.wikimedia.org/wikipedia/commons/6/67/Superpower_%282023%29-61147.jpg)
 
 ###### Questions

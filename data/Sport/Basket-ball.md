@@ -22,8 +22,9 @@ questions:
  - En 2014, dans quel sport l'Espagne organise-t-elle la Coupe du Monde ?
  - Dans le basket-ball européen, après combien de fautes, personnelles ou techniques... (cinq)
  - Hormis ceux présents sur le banc, de combien de joueurs se compose une équipe disputant une rencontre de basket-ball? (5)
+culture_g_score: 80
+culture_g_justification: "Sport mondial et olympique très présent dans les quiz grâce à son histoire, ses compétitions, ses règles et ses grandes figures."
 ---
-
 ![Image de Basket-ball](https://upload.wikimedia.org/wikipedia/commons/3/3c/Bouncing_ball_strobe_edit.jpg)
 
 ###### Questions

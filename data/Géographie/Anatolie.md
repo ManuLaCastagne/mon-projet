@@ -23,8 +23,9 @@ indice_6 :
   - célèbre pour ses paysages variés
 questions:
  - Quel nom, issu d'un terme grec signifiant le Levant, donne-t-on aujourd'hui à l'ensemble de la Turquie d'Asie?
+culture_g_score: 68
+culture_g_justification: "Région charnière de la Turquie, utile pour les civilisations antiques, les débuts de l’agriculture, la géographie et l’histoire du Proche-Orient."
 ---
-
 ![Image de Anatolie](https://upload.wikimedia.org/wikipedia/commons/7/7c/Anatolie_Sidorenko.jpg)
 
 ![[Carte_Anatolie.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - Années 1970
 questions:
  - Chanson qui, selon mon auteur, aurait été écrite chez lui, à Castelsarrasin, j'ai connu un grand succès à ma sortie en 1971...
+culture_g_score: 44
+culture_g_justification: "Chanson populaire de Pierre Perret, reconnaissable mais généralement limitée à des questions sur la chanson française."
 ---
-
 ![Image de La Cage aux oiseaux](https://upload.wikimedia.org/wikipedia/commons/5/5f/La_cage_aux_oiseaux.jpg)
 
 

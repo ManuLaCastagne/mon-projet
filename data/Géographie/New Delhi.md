@@ -22,8 +22,9 @@ indice_5 :
   - Rashtrapati Bhavan
 indice_6 : 
   - Lotus Temple
+culture_g_score: 80
+culture_g_justification: "Capitale de l'Inde fréquemment mobilisée en géographie, histoire coloniale, politique, institutions et événements internationaux."
 ---
-
 ![Image de New Delhi](https://upload.wikimedia.org/wikipedia/commons/7/7b/Pink_dress_with_embroidery%2C_detail%2C_Crafts_Museum%2C_New_Delhi.jpg)
 
 ![[Carte_New Delhi.png]]

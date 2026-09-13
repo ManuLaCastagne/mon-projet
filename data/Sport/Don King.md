@@ -20,8 +20,9 @@ indice_6 :
   - Evander Holyfield
 questions:
  - Quel promoteur de boxe américain, à la coiffure caractéristique...
+culture_g_score: 60
+culture_g_justification: "Promoteur marquant de la boxe moderne, il apparaît dans quelques questions liées à Ali, Tyson ou aux grands combats, mais reste spécialisé."
 ---
-
 ![Image de Don King](https://upload.wikimedia.org/wikipedia/commons/7/7e/Don_King_by_Gage_Skidmore.jpg)
 
 ###### Questions

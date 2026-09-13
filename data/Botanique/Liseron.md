@@ -15,8 +15,9 @@ indice_6 :
   - Parfois utilisé comme ornement ou couvre-sol
 questions:
  - Quelle plante volubile de la famille des convolvulacées est souvent appelée Volubilis ou belle de jour?
+culture_g_score: 40
+culture_g_justification: "Mauvaise herbe identifiable par ses fleurs et le nom belle-de-jour, avec peu d’autres usages quiz."
 ---
-
 ![Image de Liseron](https://upload.wikimedia.org/wikipedia/commons/c/ca/Convolvulus_arvenvis_with_mites.jpg)
 
 ###### Questions

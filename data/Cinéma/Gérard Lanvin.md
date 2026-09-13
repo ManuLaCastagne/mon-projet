@@ -20,9 +20,9 @@ indice_5:
   - Le Boulet
 indice_6:
   - Le Goût des autres
+culture_g_score: 64
+culture_g_justification: "Acteur français très identifié par plusieurs succès et César, mais moins transversal et fréquent que les grandes figures comiques."
 ---
-
-
 ![Image de Gérard Lanvin](https://upload.wikimedia.org/wikipedia/commons/8/89/G%C3%A9rard_Lanvin_Cannes.jpg)
 
 ###### Questions

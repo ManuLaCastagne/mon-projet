@@ -22,8 +22,9 @@ indice_6:
   - collaboration avec Luis Buñuel
 questions:
   - Actrice ayant été la James Bond girl de "Rien que pour vos yeux". Elle a joué pour Bunuel, B.Blier.
+culture_g_score: 64
+culture_g_justification: "Actrice française connue pour Buñuel, James Bond et Trop belle pour toi, avec une présence régulière mais pas centrale dans les quiz."
 ---
-
 ![Image de Carole Bouquet](https://upload.wikimedia.org/wikipedia/commons/4/4d/Carole_Bouquet_Cannes_2011.jpg)
 
 ###### Questions

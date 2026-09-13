@@ -22,8 +22,9 @@ indice_5 :
   - Église Saint-André
 indice_6 : 
   - Musée Hector-Berlioz
+culture_g_score: 28
+culture_g_justification: "La Côte-Saint-André est surtout utile pour une question sur la naissance de Berlioz et son festival, ce qui en fait un sujet très localisé."
 ---
-
 ![[Carte_La Côte-Saint-André.png]]
 
 ###### Questions

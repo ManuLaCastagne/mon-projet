@@ -18,8 +18,9 @@ indice_5 :
   - années 1970
 indice_6 : 
   - enquêtes
+culture_g_score: 56
+culture_g_justification: "Longue série policière française familière au public, mais offrant moins d’angles distincts que les grandes séries internationales."
 ---
-
 ![Image de Commissaire Moulin](https://upload.wikimedia.org/wikipedia/commons/f/f5/LL-Q150_%28fra%29-Le_Commissaire-Moulin_Rouge.wav)
 
 ###### Questions

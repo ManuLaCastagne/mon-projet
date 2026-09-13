@@ -22,8 +22,9 @@ indice_6 :
   - figure de l'absence
 questions:
  - En 2014, quel romancier français, prix Goncourt en 1978 pour "Rue des boutiques obscures"...
+culture_g_score: 80
+culture_g_justification: "Prix Nobel français fréquemment interrogé à travers ses romans, la mémoire de l’Occupation, le Goncourt et le cinéma."
 ---
-
 ![Image de Patrick Modiano](https://upload.wikimedia.org/wikipedia/commons/d/d1/Patrick_Modiano_6_dec_2014_-_22.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - Acteur et compositeur
 questions:
  - She, Elvis Costello. C'est une chanson qui figurait sur la bande originale du film "Coup de foudre à Notting Hill", qui a connu un succès international en 1999. Jean-François voulait me dire ça donc je l'ai interrompu car voici la question  En 74, quel grand nom de la chanson française a co-écrit et interprété ce titre pour la série britannique "Seven Faces of woman"?
+culture_g_score: 100
+culture_g_justification: "Monument de la chanson francophone et figure internationale, abondamment exploitable par ses chansons, ses origines, sa carrière et son rôle diplomatique."
 ---
-
-
 ![Image de Charles Aznavour](https://upload.wikimedia.org/wikipedia/commons/2/2b/2014.06.23._Charles_Aznavour_Fot_Mariusz_Kubik_01.jpg)
 
 ###### Questions

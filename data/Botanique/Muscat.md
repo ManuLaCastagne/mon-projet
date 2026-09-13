@@ -13,8 +13,9 @@ indice_5:
   - Raisin
 indice_6:
   - Consommation en fruit de table, production de vin et de jus
+culture_g_score: 64
+culture_g_justification: "Le muscat est un cépage et un vin connus, mobilisables en viticulture, gastronomie et géographie, sans atteindre le statut d'incontournable."
 ---
-
 ![Image de Muscat](https://upload.wikimedia.org/wikipedia/commons/1/1f/Muscat_blanc_et_Muscat_noir_by_JM_Rosier.jpg)
 
 ###### Questions

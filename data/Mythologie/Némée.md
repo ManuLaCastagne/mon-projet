@@ -18,6 +18,8 @@ indice_6:
   - strangulation
 questions:
   - Selon les récits mythologiques, quelle vallée de l'Argolide correspond à l'endroit où Héraclès a tué un lion ?
+culture_g_score: 43
+culture_g_justification: "Némée est surtout associée au lion d’Héraclès et aux Jeux néméens, ce qui en fait un lieu antique utile mais assez secondaire."
 ---
 ![Image de Némée](https://upload.wikimedia.org/wikipedia/commons/b/bb/Sacred_grove_of_cypress_trees_and_columns%2C_Nemea%2C_Neme465.jpg)
 ###### Questions

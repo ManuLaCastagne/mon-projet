@@ -18,8 +18,9 @@ indice_5 :
   - Gouvernement
 indice_6 : 
   - Diffusé sur LCP
+culture_g_score: 80
+culture_g_justification: "Rendez-vous institutionnel récurrent, utile pour les questions sur le Parlement, le gouvernement et le fonctionnement politique français."
 ---
-
 ![Image de Questions au gouvernement](https://upload.wikimedia.org/wikipedia/commons/6/67/Nathalie_Delattre_Questions_au_Gouvernement.jpg)
 
 ###### Questions

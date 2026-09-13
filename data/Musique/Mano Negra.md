@@ -22,9 +22,9 @@ indice_6 :
   - influences punk et flamenco
 questions:
  - Quel groupe emmené par Manu Chao tire son nom signifiant main noire d'une expression espagnole...
+culture_g_score: 60
+culture_g_justification: "Groupe important du rock alternatif francophone, relié à Manu Chao et au métissage musical, mais moins fréquent que les grandes formations internationales."
 ---
-
-
 ![Image de Mano Negra](https://upload.wikimedia.org/wikipedia/commons/8/81/Mano_negra._logo.jpg)
 
 ###### Questions

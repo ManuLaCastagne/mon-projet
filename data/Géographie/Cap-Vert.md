@@ -24,8 +24,9 @@ indice_6 :
   - ancienne colonie portugaise
 questions:
  - Quel Etat d'Afrique de l'Ouest aux 10 îles symbolisées par une couronne d'étoiles a été célébré par Cesaria Evora ?
+culture_g_score: 60
+culture_g_justification: "Pays africain identifiable par son archipel, son indépendance, Praia, Cesária Évora et la morna."
 ---
-
 ![Image de Cap-Vert](https://upload.wikimedia.org/wikipedia/commons/c/ca/Admiralty_Chart_No_1001_Cap_Vert_to_Cap_de_Naze%2C_Published_1916.jpg)
 
 ![[Carte_Cap-Vert.png]]

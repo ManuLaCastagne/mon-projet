@@ -23,8 +23,9 @@ indice_6 :
   - couleurs vives
 questions:
  - Qui a lancé la nuisette dans les années 50, aussi appelée baby-doll?
+culture_g_score: 0
+culture_g_justification: "Nancy Mecher ne correspond pas à une référence artistique identifiable et apparaît comme un sujet obscur ou possiblement fictif."
 ---
-
 ![Image de Nancy Mecher]()
 
 ###### Questions

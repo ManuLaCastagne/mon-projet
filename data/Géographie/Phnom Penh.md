@@ -22,9 +22,9 @@ indice_5 :
   - passé colonial français
 indice_6 : 
   - Angkor Wat à proximité
+culture_g_score: 60
+culture_g_justification: "Capitale du Cambodge associée au Mékong, aux Khmers rouges, à l’histoire coloniale et au bouddhisme, avec une fréquence intermédiaire."
 ---
-
-
 ![Image de Phnom Penh](https://upload.wikimedia.org/wikipedia/commons/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg)
 
 ![[Carte_Phnom Penh.png]]

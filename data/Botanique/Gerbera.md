@@ -15,8 +15,9 @@ indice_6:
   - Décoration florale et bouquets
 questions:
   - Quelle plante aux fleurs de couleurs vives, de la famille des composées, tient son nom du naturaliste du XVIIIe siècle...
+culture_g_score: 44
+culture_g_justification: "Fleur de bouquet assez reconnaissable, mais généralement cantonnée à une question d'identification ou d'étymologie."
 ---
-
 ![Image de Gerbera](https://upload.wikimedia.org/wikipedia/commons/4/44/Gerbera_flower_at_Bharat_Bhavan_garden.jpg)
 
 ###### Questions

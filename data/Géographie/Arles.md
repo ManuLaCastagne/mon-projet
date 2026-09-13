@@ -24,8 +24,9 @@ indice_6 :
   - Festival des Rencontres de la Photographie
 questions:
  - En 1888, dans quelle ville du Midi Van Gogh s'installe-t-il pour "La Maison Jaune" ?
+culture_g_score: 80
+culture_g_justification: "Ville française riche en angles antiques, artistiques, religieux, historiques et géographiques, notamment grâce à Van Gogh et la Camargue."
 ---
-
 ![Image de Arles](https://upload.wikimedia.org/wikipedia/commons/0/03/Arles_-_2017-05-24_-_Roman_Amphitheatre_-_3804.jpg)
 
 ![[Carte_Arles.png]]

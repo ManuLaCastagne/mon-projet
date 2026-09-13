@@ -23,8 +23,9 @@ indice_6 :
   - nu féminin
 questions:
  - Quel autre nom donne-t-on également au tableau de Gustave Courbet intitulé "La Rencontre (art)" qui représente le peintre croisant l'un de ses mécènes sur un chemin de campagne ?
+culture_g_score: 56
+culture_g_justification: "Tableau notable de Courbet et du réalisme, mais moins célèbre et moins transversal que L’Origine du monde ou Un enterrement à Ornans."
 ---
-
 ![Image de Bonjour Monsieur Courbet](https://upload.wikimedia.org/wikipedia/commons/9/93/Gustave_Courbet_-_Bonjour_Monsieur_Courbet_-_Mus%C3%A9e_Fabre.jpg)
 
 ###### Questions

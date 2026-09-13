@@ -20,10 +20,9 @@ indice_5:
   - Contrôle du cobra
 indice_6:
   - Art mystique
+culture_g_score: 60
+culture_g_justification: "Tableau identifiable d'Henri Rousseau et du musée d'Orsay, mais moins incontournable que ses œuvres les plus célèbres."
 ---
-
-
-
 ![Image de Charmeuse de serpents](https://upload.wikimedia.org/wikipedia/commons/b/bf/Rousseau_-_La_Charmeuse_de_serpents%2C_en_1907%2C_RF_1937_7.jpg)
 
 ###### Questions

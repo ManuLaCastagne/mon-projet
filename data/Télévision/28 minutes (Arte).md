@@ -20,8 +20,9 @@ indice_6 :
   - format 28 minutes
 questions:
  - Quelle émission, présentée sur Arte par Elisabeth Quin…
+culture_g_score: 60
+culture_g_justification: "Émission d’actualité durable d’Arte, utile pour des questions de télévision, de médias et de débat intellectuel."
 ---
-
 ![Image de 28 minutes (Arte)](https://upload.wikimedia.org/wikipedia/commons/d/d9/Museo_de_Arte_Africano_Arellano_Alonso_de_Valladolid_en_agosto_de_2022_28.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - membre de l'Académie française
 indice_6:
   - né à Cuba
+culture_g_score: 44
+culture_g_justification: "Poète parnassien important et académicien, mais principalement utile pour quelques questions spécialisées sur Les Trophées."
 ---
-
 ![Image de José-Maria de Heredia](https://upload.wikimedia.org/wikipedia/commons/2/20/Jos%C3%A9-Maria_de_Heredia_1896.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - années 1960-1970
 questions:
  - Quel photographe français, né de parents polonais et disparu en 2000, est célèbre pour avoir réalisé un cliché de Yves Saint-Laurent nu?
+culture_g_score: 32
+culture_g_justification: "Photographe reconnu dans les milieux artistiques, mais assez rarement mobilisé dans les quiz généralistes."
 ---
-
 ![Image de Jeanloup Sieff]()
 
 ###### Questions

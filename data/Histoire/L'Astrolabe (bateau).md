@@ -18,8 +18,9 @@ indice_5 :
   - compagnon de La Zélée
 indice_6 : 
   - découvertes scientifiques
+culture_g_score: 39
+culture_g_justification: "L’Astrolabe est identifiable dans l’histoire des explorations et de La Pérouse, mais le navire lui-même constitue une connaissance très spécialisée."
 ---
-
 ![Image de L'Astrolabe (bateau)](https://upload.wikimedia.org/wikipedia/commons/a/a8/Astrolabe_Zelee_Le_Breton.jpg)
 
 ###### Questions

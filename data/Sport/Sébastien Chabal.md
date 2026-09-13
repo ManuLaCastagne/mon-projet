@@ -20,8 +20,9 @@ indice_6 :
   - Clermont-Ferrand
 questions:
  - Quel ex-rugbyman, ayant disputé 62 matchs avec les Bleus a été surnommé l'anesthésiste ?
+culture_g_score: 64
+culture_g_justification: "Rugbyman français très médiatisé, identifiable par son surnom et la Coupe du monde 2007, mais d’importance surtout nationale."
 ---
-
 ![Image de Sébastien Chabal](https://upload.wikimedia.org/wikipedia/commons/1/11/Jubil%C3%A9_Chabal-Nallet_-_20150604_-_S%C3%A9bastien_Chabal_1.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Collaborations avec Stomy Bugsy
 questions:
  - En 1996, quel rappeur suscite une vive polémique en évoquant la disparition de Pierre Bérégovoy dans sa chanson "Nirvana"?
+culture_g_score: 64
+culture_g_justification: "Figure marquante du rap français, surtout mobilisée autour de «Première Consultation», du Secteur Ä et de ses engagements politiques."
 ---
-
 ![Image de Doc Gynéco](https://upload.wikimedia.org/wikipedia/commons/4/40/Doc_Gyn%C3%A9co_en_1996.jpg)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - épreuves sportives
 indice_6 : 
   - élimination quotidienne
+culture_g_score: 24
+culture_g_justification: "Émission de téléréalité récente et assez périphérique, susceptible d'apparaître surtout dans des questions liées à la télévision contemporaine."
 ---
-
 ![Image de Les Cinquante](https://upload.wikimedia.org/wikipedia/commons/4/4a/Ivoi_-_Les_Cinquante_%28page_358_crop%29.jpg)
 
 ###### Questions

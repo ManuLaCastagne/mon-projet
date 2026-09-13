@@ -22,8 +22,9 @@ indice_5 :
   - langue officielle le français
 indice_6 : 
   - île de Loos à proximité
+culture_g_score: 60
+culture_g_justification: "Capitale africaine classique à connaître, notamment pour la Guinée, son port et sa position sur une presqu’île, mais peu transversale."
 ---
-
 ![Image de Conakry](https://upload.wikimedia.org/wikipedia/commons/4/42/Un_aper%C3%A7u_de_la_ville_de_conakry.jpg)
 
 ![[Carte_Conakry.png]]

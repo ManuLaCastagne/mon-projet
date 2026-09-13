@@ -23,8 +23,9 @@ indice_6 :
   - Artiste allemand
 questions:
  - Quel artiste allemand, protagoniste majeur de l'avant-garde à partir de la fin des années 1950 a enveloppé de feutre un piano à queue en 1966?
+culture_g_score: 51
+culture_g_justification: "Beuys offre plusieurs angles sur Fluxus, la performance et l’art conceptuel, mais demeure une référence relativement spécialisée."
 ---
-
 ![Image de Joseph Beuys](https://upload.wikimedia.org/wikipedia/commons/0/0f/Beuys-Feldman-Gallery.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Grande Canarie
 questions:
  - Archipel constitué de 7 îles principales, j'étais habité par le peuple guanche, d'origine berbère, qui fut anéanti par les Espagnols au 15e siècle.
+culture_g_score: 80
+culture_g_justification: "Archipel touristique et géographique bien connu, associé à l’Espagne, au volcanisme, au Teide et à plusieurs îles célèbres."
 ---
-
 ![Image de Canaries](https://upload.wikimedia.org/wikipedia/commons/0/02/Senecio_leucanthemifolius_on_the_beach_close_to_%C3%93rzola_on_Lanzarote%2C_June_2013_%284%29.jpg)
 
 ![[Carte_Canaries.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - Slalom
 questions:
  - En 1984, quelle skieuse française a remporté une médaille d'argent et de bronze à Sarajevo ?
+culture_g_score: 40
+culture_g_justification: "Skieuse française médaillée olympique, dont la carrière demeure assez peu présente dans la culture générale large."
 ---
-
 ![Image de Perrine Pelen](https://upload.wikimedia.org/wikipedia/commons/1/1f/Perrine_Pelen_%281978%29.png)
 
 ###### Questions

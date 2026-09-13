@@ -22,8 +22,9 @@ indice_6 :
   - La Traversée de Paris
 questions:
  - Incarnant le Bombé dans "La Soupe aux choux"...
+culture_g_score: 68
+culture_g_justification: "Acteur populaire du cinéma français, associé à Bourvil, Audiard et de nombreux seconds rôles, mais avec des angles surtout nationaux."
 ---
-
 ![Image de Jean Carmet](https://upload.wikimedia.org/wikipedia/commons/d/d8/Jean_Carmet_C%C3%A9sars.jpg)
 
 ###### Questions

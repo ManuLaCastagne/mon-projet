@@ -20,8 +20,9 @@ indice_5 :
   - Les Grandes Gueules
 indice_6 : 
   - Jean-Paul Belmondo
+culture_g_score: 67
+culture_g_justification: "Réalisateur français important grâce au Vieux Fusil, aux Aventuriers et à son Oscar, avec une présence régulière mais non centrale dans les quiz."
 ---
-
 ![Image de Robert Enrico](https://upload.wikimedia.org/wikipedia/commons/6/62/Robert_Enrico_tombe.jpg)
 
 ###### Questions

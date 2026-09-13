@@ -19,8 +19,9 @@ indice_5:
   - Eric Heiden
 indice_6:
   - Lake Placid
+culture_g_score: 72
+culture_g_justification: "Les Jeux de Lake Placid sont très rentables grâce au Miracle on Ice, à Eric Heiden et à plusieurs repères olympiques."
 ---
-
 ![Image de Lake Placid 1980](https://upload.wikimedia.org/wikipedia/commons/d/db/Lake_Placid_1980_Winter_Olympics.jpg)
 
 ###### Questions

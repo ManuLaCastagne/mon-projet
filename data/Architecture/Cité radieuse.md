@@ -23,9 +23,9 @@ indice_6 :
   - toit-terrasse
 questions:
  - De 1947 à 1952, quelle unité d'habitation fortement décriée, surnommée la maison du fada, Le Corbusier construisit-il à Marseille?
+culture_g_score: 80
+culture_g_justification: "Œuvre emblématique de Le Corbusier, fréquemment interrogée à travers l’architecture moderne, Marseille et l’UNESCO."
 ---
-
-
 ![Image de Cité radieuse](https://upload.wikimedia.org/wikipedia/commons/8/8e/Appartement_t%C3%A9moin_cit%C3%A9_radieuse_%C3%A0_rez%C3%A9_02.jpg)
 
 ###### Questions

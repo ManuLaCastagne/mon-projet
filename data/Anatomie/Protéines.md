@@ -1,3 +1,8 @@
+---
+culture_g_score: 92
+culture_g_justification: "Notion biologique fondamentale, très transversale et fréquemment exploitable en alimentation, médecine et sciences."
+---
+
 ###### Questions 
 
 Formant de très longues chaînes d'acides aminés, attachées entre elles par liaison peptidique, je suis élaboré par les cellules à partir de ce même constituant présent dans les aliments. Provenant de sources végétales...

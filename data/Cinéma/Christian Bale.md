@@ -20,8 +20,9 @@ indice_5:
   - Méthode de l'Actor's Studio
 indice_6:
   - The Dark Knight
+culture_g_score: 80
+culture_g_justification: "Acteur majeur du cinéma contemporain, particulièrement rentable grâce à ses transformations, Batman, les Oscars et de nombreux films."
 ---
-
 ![Image de Christian Bale](https://upload.wikimedia.org/wikipedia/commons/0/0a/Christian_Bale-7837.jpg)
 
 ![[IMG_3362.jpeg]]

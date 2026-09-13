@@ -13,8 +13,9 @@ indice_5:
   - Canard colvert
 indice_6:
   - Symbole de la tranquillité
+culture_g_score: 48
+culture_g_justification: "Le duvet est un terme courant et utile pour quelques questions sur les plumes et l'isolation, mais constitue une référence zoologique limitée."
 ---
-
 ![Image de Duvet](https://upload.wikimedia.org/wikipedia/commons/4/4e/White-duvet.jpg)
 
 ###### Questions

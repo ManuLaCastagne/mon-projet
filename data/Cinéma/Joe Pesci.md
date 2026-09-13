@@ -20,9 +20,9 @@ indice_5 :
   - Martin Scorsese
 indice_6 : 
   - récompensé par un Oscar
+culture_g_score: 76
+culture_g_justification: "Ses rôles dans Les Affranchis, Casino et Maman, j'ai raté l'avion rendent Joe Pesci très identifiable et souvent interrogé."
 ---
-
-
 ![Image de Joe Pesci](https://upload.wikimedia.org/wikipedia/commons/3/37/JoePesci-2009.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Freestyle
 questions:
  - En 2018, à Pyeongchang, en ski acrobatique, quelle jeune skieuse française remporte l'or olympique ?
+culture_g_score: 57
+culture_g_justification: "Championne olympique française connue, mais principalement exploitable dans des questions sur le ski de bosses."
 ---
-
 ![Image de Perrine Laffont](https://upload.wikimedia.org/wikipedia/commons/d/d5/2018_PyeongChang_Perrine_Laffont.jpg)
 
 ###### Questions

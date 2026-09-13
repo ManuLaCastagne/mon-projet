@@ -20,8 +20,9 @@ indice_5:
   - cathédrale des idées
 indice_6:
   - membre du clergé révolutionnaire
+culture_g_score: 64
+culture_g_justification: "Figure significative de la Révolution française, de l’abolition des discriminations et de la protection du patrimoine, mais moins incontournable que les grands révolutionnaires."
 ---
-
 ![Image de Abbé Grégoire](https://upload.wikimedia.org/wikipedia/commons/5/56/Henri_Gregoire.jpg)
 
 ###### Questions

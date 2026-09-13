@@ -24,8 +24,9 @@ indice_6 :
   - paysages forestiers
 questions:
  - Chaîne de moyenne montagne parcouru sur environ 3 500km par un sentier de randonnée tracé de 1921 à 1937. Je suis couverte de végétation, notamment vers Stratton Mountain. Mon point culminant, le mont Mitchell.
+culture_g_score: 80
+culture_g_justification: "Grande chaîne montagneuse liée à la géographie nord-américaine, aux Appalaches culturelles, aux migrations et à l’histoire des États-Unis."
 ---
-
 ![Image de Appalaches](https://upload.wikimedia.org/wikipedia/commons/b/b3/Chaudiere-Appalaches_Localisation.svg)
 
 ![[Carte_Appalaches.png]]

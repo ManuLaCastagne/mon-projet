@@ -20,9 +20,9 @@ indice_5:
   - Actrice des années 60
 indice_6:
   - La Peau douce
+culture_g_score: 47
+culture_g_justification: "Actrice française surtout connue pour quelques collaborations et son lien avec Catherine Deneuve, ce qui limite sa fréquence de quiz."
 ---
-
-
 ![Image de Françoise Dorléac](https://upload.wikimedia.org/wikipedia/commons/3/35/Dorleac-Israel-1963-crop.png)
 
 ###### Questions

@@ -18,10 +18,9 @@ indice_5 :
   - Scénariste
 indice_6 : 
   - Réalisateur suédois
+culture_g_score: 91
+culture_g_justification: "Monument du cinéma mondial, associé à de nombreux films, à la condition humaine, au cinéma suédois et à la mise en scène."
 ---
-
-
-
 ![Image de Ingmar Bergman](https://upload.wikimedia.org/wikipedia/commons/f/f2/Ingmar_Bergman_%281966%29.jpg)
 
 ###### Questions

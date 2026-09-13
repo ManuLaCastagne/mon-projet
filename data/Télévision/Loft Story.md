@@ -18,8 +18,9 @@ indice_5:
   - Loana et Jean-Édouard
 indice_6:
   - Benjamin Castaldi
+culture_g_score: 93
+culture_g_justification: "Émission fondatrice de la téléréalité française, incontournable pour comprendre l'arrivée de Big Brother, le phénomène Loana et la télévision des années 2000."
 ---
-
 ![Image de Loft Story](https://upload.wikimedia.org/wikipedia/commons/d/d2/Loft_kichijoji.jpg)
 
 ###### Questions

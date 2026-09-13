@@ -19,8 +19,9 @@ indice_5 :
   - ancien membre actif de la famille royale
 indice_6 : 
   - livre Spare
+culture_g_score: 79
+culture_g_justification: "Personnalité royale très médiatisée, fréquemment mobilisée pour des questions sur la famille royale, l’armée et les Invictus Games."
 ---
-
 ![Image de Prince Harry](https://upload.wikimedia.org/wikipedia/commons/0/0e/Prince_Harry%2C_Duke_of_Sussex_2020_cropped_02.jpg)
 
 ###### Questions

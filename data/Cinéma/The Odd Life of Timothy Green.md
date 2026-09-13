@@ -20,8 +20,9 @@ indice_5 :
   - Disney
 indice_6 : 
   - Jennifer Garner et Joel Edgerton
+culture_g_score: 23
+culture_g_justification: "Production Disney peu marquante et rarement citée dans les quiz de culture générale."
 ---
-
 ![Image de The Odd Life of Timothy Green](https://upload.wikimedia.org/wikipedia/commons/d/db/Emmaus_Theater_4th_Street_Lehigh_Co_PA.JPG)
 
 ###### Questions

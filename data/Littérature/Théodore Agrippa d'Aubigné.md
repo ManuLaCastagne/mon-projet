@@ -22,8 +22,9 @@ indice_6 :
   - prose satirique
 questions:
  - Dans le poème intitulé "Jugement", quel écrivain disparu en 1630 et auteur des "Tragiques", évoque le Soleil qui "vêt de noir le bel or de ses feux" ?
+culture_g_score: 64
+culture_g_justification: "Poète engagé des guerres de Religion, important pour la littérature de la Renaissance et le protestantisme, mais relativement spécialisé."
 ---
-
 ![Image de Théodore Agrippa d'Aubigné](https://upload.wikimedia.org/wikipedia/commons/f/f8/Agrippa_d%27Aubign%C3%A9.jpg)
 
 ###### Questions

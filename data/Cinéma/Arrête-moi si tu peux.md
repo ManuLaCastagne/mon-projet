@@ -22,8 +22,9 @@ indice_6 :
   - années 60
 questions:
  - Dans quel film de Steven Spielberg DiCaprio incarne-t-il un escroc...
+culture_g_score: 80
+culture_g_justification: "Film populaire de Spielberg fondé sur une histoire vraie, permettant des questions sur le cinéma, l’imposture, DiCaprio et Hanks."
 ---
-
 ![Image de Arrête-moi si tu peux](https://upload.wikimedia.org/wikipedia/commons/2/21/Catch-Me-If-You-Can.jpg)
 
 ###### Questions

@@ -18,10 +18,9 @@ indice_5:
   - Paris-Dakar
 indice_6:
   - Vitesse
+culture_g_score: 60
+culture_g_justification: "Son double parcours en ski alpin et en rallye fournit plusieurs angles, mais il demeure une référence sportive secondaire."
 ---
-
-
-
 ![Image de Luc Alphand](https://upload.wikimedia.org/wikipedia/commons/8/81/Transat_Jacques_Vabre_-_20111029_Luc_Alphand_03_%28cropped%29.jpg)
 
 ###### Questions

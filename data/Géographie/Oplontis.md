@@ -22,8 +22,9 @@ indice_5 :
   - Site archéologique
 indice_6 : 
   - 79 après J.-C.
+culture_g_score: 27
+culture_g_justification: "Site archéologique romain intéressant mais nettement éclipsé dans les quiz par Pompéi et Herculanum."
 ---
-
 ![[Carte_Oplontis.png]]
 
 ###### Questions

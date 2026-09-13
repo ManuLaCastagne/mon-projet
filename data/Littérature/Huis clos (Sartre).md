@@ -22,8 +22,9 @@ indice_6 :
   - pièce en un acte
 questions:
  - A quelle pièce de Jean-Paul Sartre associe-t-on la phrase "l'enfer, c'est les autres" ?
+culture_g_score: 84
+culture_g_justification: "Pièce emblématique de Sartre, fréquemment citée grâce à son intrigue, ses personnages, l'existentialisme et la formule « l'enfer, c'est les autres »."
 ---
-
 ![Image de Huis clos (Sartre)](https://upload.wikimedia.org/wikipedia/commons/7/7a/Recueil._%22Huis-Clos%22_de_Jean-Paul_Sartre%2C_%22Une_balle_perdue%22_de_Marcel_Achard_-_btv1b10522591d_%2807_of_64%29.jpg)
 
 ###### Questions

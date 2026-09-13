@@ -15,8 +15,9 @@ indice_6 :
   - Symbole d'abondance et de retour
 questions:
  - Quel adjectif qualifie les mammifères, comme les cétacés, ayant la forme d'un poisson?
+culture_g_score: 20
+culture_g_justification: "Adjectif descriptif très spécialisé, rarement demandé comme réponse autonome dans un quiz généraliste."
 ---
-
 ![Image de Pisciforme](https://upload.wikimedia.org/wikipedia/commons/3/32/Fishtail-point-found-in-Montenegro.png)
 
 ###### Questions

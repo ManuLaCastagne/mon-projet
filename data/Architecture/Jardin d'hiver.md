@@ -23,8 +23,9 @@ indice_6 :
   - lumière naturelle
 questions:
  - Quelle locution, évoquant la saison froide, désigne une pièce munie de verrières...
+culture_g_score: 40
+culture_g_justification: "Le jardin d’hiver est une notion architecturale et horticole utile, mais trop générale et peu souvent attendue comme réponse précise."
 ---
-
 ![Image de Jardin d'hiver](https://upload.wikimedia.org/wikipedia/commons/b/ba/Castle_of_Chimay_-_Jardin_d%27hiver_03.JPG)
 
 ###### Questions

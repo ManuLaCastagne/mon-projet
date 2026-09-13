@@ -18,8 +18,9 @@ indice_5 :
   - Prolétariat
 indice_6 : 
   - Soviétiques
+culture_g_score: 100
+culture_g_justification: "Bouleversement mondial incontournable, couvrant la fin du tsarisme, Lénine, le communisme, la Première Guerre mondiale et l’URSS."
 ---
-
 ![Image de Révolution russe](https://upload.wikimedia.org/wikipedia/commons/d/d9/Anonyme_Considerations_sur_la_revolution_russe_1918.djvu)
 
 ###### Questions

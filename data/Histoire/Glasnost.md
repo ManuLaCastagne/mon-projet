@@ -20,8 +20,9 @@ indice_6 :
   - fin de la Guerre froide
 questions:
  - En URSS, quelle politique de transparence de la vie publique, ayant accompagné le changement d'orientation, a été conduite à partir de 1985?
+culture_g_score: 80
+culture_g_justification: "Terme incontournable de la fin de l'URSS, fréquemment associé à Gorbatchev, à la perestroïka et à la libéralisation politique."
 ---
-
 ![Image de Glasnost](https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Live_Ring_campaign_around_the_KGB_building_in_Moscow.jpg)
 
 ###### Questions

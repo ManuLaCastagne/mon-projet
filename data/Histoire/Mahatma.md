@@ -20,8 +20,9 @@ indice_6 :
   - leader spirituel
 questions:
  - Quel titre est donné en Inde à des personnalités spirituelles de 1er plan?
+culture_g_score: 57
+culture_g_justification: "Surnom indissociable de Gandhi et de l’indépendance indienne, mais moins souvent demandé seul que la personnalité elle-même."
 ---
-
 ![Image de Mahatma](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg)
 
 ###### Questions

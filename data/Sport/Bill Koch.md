@@ -20,8 +20,9 @@ indice_6 :
   - Voile
 questions:
  - Quel américain fut à l'origine du pas du patineur dans le ski de fond dans les années 80 ?
+culture_g_score: 27
+culture_g_justification: "Skieur américain pionnier du style libre, mais personnalité peu connue hors des amateurs de ski et de voile."
 ---
-
 ![Image de Bill Koch](https://upload.wikimedia.org/wikipedia/commons/8/81/Bill_Koch_Innsbruck_1976_PA-0797_U_8816_II_008_%28cropped%29.jpg)
 
 ###### Questions

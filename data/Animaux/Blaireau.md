@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de persévérance
 questions:
  - Quel mustélidé, question animaux, représenté par l'espèce Meles meles, est reconnaissable aux 2 bandes noires longitudinales qu'il porte sur le...
+culture_g_score: 64
+culture_g_justification: "Animal bien identifiable et présent dans la littérature ainsi que dans quelques références culturelles, mais pas incontournable."
 ---
-
 ![Image de Blaireau](https://upload.wikimedia.org/wikipedia/commons/d/da/European_Badger_-_Meles_meles_%2852261502699%29.jpg)
 
 ###### Questions

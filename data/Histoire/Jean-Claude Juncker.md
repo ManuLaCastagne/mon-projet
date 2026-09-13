@@ -20,8 +20,9 @@ indice_6 :
   - dirigeant européen influent
 questions:
  - De 2014 à 2019, quel ancien Premier ministre du Luxembourg a été président de la Commission européenne?
+culture_g_score: 63
+culture_g_justification: "Ancien Premier ministre luxembourgeois et président de la Commission européenne, il est utile pour l’Union européenne mais demeure une figure récente spécialisée."
 ---
-
 ![Image de Jean-Claude Juncker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Jean-Claude_Juncker_April_2019.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Nastasya Filippovna
 questions:
  - Roman de 1869, je m'ouvre  sur les confidences de 2 de mes personnages principaux au cours d'un voyage dont le terme est Saint-Pétersbourg. Oeuvre dont l'intrigue est organisée autour de la belle Nastasia Philipovna dont 3 hommes sont amoureux...
+culture_g_score: 89
+culture_g_justification: "Grand roman de Dostoïevski, fréquemment associé à la littérature russe, au prince Mychkine, à l’épilepsie et aux thèmes moraux."
 ---
-
 ![Image de L'Idiot](https://upload.wikimedia.org/wikipedia/commons/2/26/Recueil._%22L%27idiot%22_film_de_Georges_Lampin_-_btv1b10522632r_%28024_of_104%29.jpg)
 
 ###### Questions

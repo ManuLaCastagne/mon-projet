@@ -19,8 +19,9 @@ indice_6:
   - Loki
 questions:
   - Divinité populaire, décrite comme un personnage colossal, se déplaçant sur un char tiré par des chèvres, je suis dans la mythologie nordique le dieu du Tonnerre.
+culture_g_score: 84
+culture_g_justification: "Thor est une figure universellement connue de la mythologie nordique, renforcée par les Eddas, le marteau Mjöllnir, le Ragnarök et la culture populaire."
 ---
-
 ![Image de Thor](https://upload.wikimedia.org/wikipedia/commons/c/c0/Thor_%28Walhall%29.png)
 
 ###### Questions

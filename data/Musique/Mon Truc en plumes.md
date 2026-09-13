@@ -22,9 +22,9 @@ indice_6 :
   - Création costumée
 questions:
  - Je comprends les vers "Rien dans les mains, tout dans l'coup d'rein" ou encore  "Plumes de z'oiseaux, de z'animaux"…
+culture_g_score: 64
+culture_g_justification: "Numéro emblématique de Zizi Jeanmaire et du music-hall français, souvent reconnu mais limité à quelques angles culturels."
 ---
-
-
 ![Image de Mon Truc en plumes](https://upload.wikimedia.org/wikipedia/commons/d/d0/Mirbeau_-_Encore_mon_ami_Dupuy%2C_paru_dans_L%E2%80%99Aurore%2C_11_mars_1899.djvu)
 
 ###### Questions

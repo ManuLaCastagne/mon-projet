@@ -23,8 +23,9 @@ indice_6 :
   - espaces publics
 questions:
  - Quel peintre, né à Nice en 1942, est connu pour avoir collé sur le sol ou les murs des villes, des dessins et des sérigraphies en noir et blanc?
+culture_g_score: 47
+culture_g_justification: "Pionnier français de l'art urbain, Pignon-Ernest possède une importance réelle mais une présence encore limitée dans les quiz généralistes."
 ---
-
 ![Image de Ernest Pignon-Ernest](https://upload.wikimedia.org/wikipedia/commons/4/4f/Ernest_Pignon-Ernest_2014.jpg)
 
 ###### Questions

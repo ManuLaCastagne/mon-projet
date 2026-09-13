@@ -22,9 +22,9 @@ indice_6:
   - 1960
 questions:
   - En 1960, dans quel thriller d'Alfred Hitchcock Anthony Perkins incarne-t-il un célibataire schizophrène et meurtrier?
+culture_g_score: 100
+culture_g_justification: "Classique universel d’Hitchcock, associé à la scène de la douche, à la musique de Herrmann, au suspense et à l’histoire du cinéma."
 ---
-
-
 ![Image de Psychose](https://upload.wikimedia.org/wikipedia/commons/4/4f/Benighted_Coolness%27tival_2007_01.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - découverte en 1994
 questions:
  - D'une longueur d'environ 500 m, j'abrite d'extraordinaires peintures. Grotte associée au nom d'un des 3 spéléologues, c'est son nom, qui m'ont découverte aux environs de Vallon-Pont-d'Arc dans l'Ardèche, je suis...
+culture_g_score: 84
+culture_g_justification: "La grotte Chauvet est un site préhistorique français incontournable, mobilisable en art pariétal, archéologie, patrimoine et paléolithique."
 ---
-
 ![Image de Grotte Chauvet](https://upload.wikimedia.org/wikipedia/commons/7/7c/Owl_engraving%2C_Chauvet_Cave_%28museum_replica%29.jpg)
 
 ###### Questions

@@ -19,11 +19,9 @@ indice_5 :
   - Stormi
 indice_6 : 
   - Kylie Cosmetics
+culture_g_score: 60
+culture_g_justification: "Personnalité médiatique internationale associée aux Kardashian et à Kylie Cosmetics, mais d'importance culturelle générale limitée."
 ---
-
-
-
-
 ![Image de Kylie Jenner](https://upload.wikimedia.org/wikipedia/commons/9/9a/Kylie_Jenner_loves_finals_week_%2816810425244%29.jpg)
 
 ###### Questions

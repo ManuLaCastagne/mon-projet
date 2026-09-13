@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Sortant 7 disques jusqu'en 1979, dont "Band on the run" avec les Wings, je suis aussi l'auteur d'albums de musique expérimentale et classique.  Ayant signé 200 chanson avec John Lennon au sein des The Beatles...
  - En 2000, dans l'album "La Machination Voronov", de la série "Blake et Mortimer", quel futur membre des The Beatles fait la connaissance de John Lennon?
+culture_g_score: 100
+culture_g_justification: "Membre des Beatles et auteur de nombreux classiques, il ouvre des questions sur la musique, l’histoire culturelle, les collaborations et la société britannique."
 ---
-
 ![Image de Paul McCartney](https://upload.wikimedia.org/wikipedia/commons/6/61/The_Beatles_arrive_at_JFK_Airport.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Psaumes
 questions:
  - Egalement musicien et poète, à qui l'on a attribué les Psaumes, c'est ma passion pour Bethsabée qui me pousse sur la voie du péché. Vainqueur du géant philistin...
+culture_g_score: 88
+culture_g_justification: "Roi biblique emblématique associé à Goliath, Jérusalem, Israël et aux Psaumes, offrant de nombreux repères classiques."
 ---
-
-
 ![Image de David](https://upload.wikimedia.org/wikipedia/commons/c/c6/David_Self_Portrait.jpg)
 
 ###### Questions

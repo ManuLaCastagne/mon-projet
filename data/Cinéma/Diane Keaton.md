@@ -22,8 +22,9 @@ indice_6 :
   - actrice américaine
 questions:
  - A quelle actrice américaine, égérie de Woody Allen qui l'a mise en scène dans "Annie Hall", doit-on "Les Liens du souvenir" en 1995?
+culture_g_score: 80
+culture_g_justification: "Actrice majeure du cinéma américain, reliée au Parrain, à Annie Hall, à Woody Allen et à une carrière riche en récompenses."
 ---
-
 ![Image de Diane Keaton](https://upload.wikimedia.org/wikipedia/commons/b/bf/Diane_Keaton_2012-1_%28cropped%29.jpg)
 
 ###### Questions

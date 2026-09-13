@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Scientifique américaine née en 1932, je débute comme ergothérapeute pour enfants handicapés puis pars en Afrique après la lecture...
  - Quelle primatologue américaine étudia le gorille de montagnes au Rwanda ?
+culture_g_score: 77
+culture_g_justification: "Figure majeure de la primatologie et de la protection des gorilles, fréquemment associée à Gorilles dans la brume et au braconnage."
 ---
-
 ![Image de Dian Fossey](https://upload.wikimedia.org/wikipedia/commons/8/8c/Unterschrift_Dian_Fossey_amerikanische_Zoologin_und_Verhaltesforscherin.png)
 
 ###### Questions

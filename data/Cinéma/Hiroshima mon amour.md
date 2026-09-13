@@ -18,8 +18,9 @@ indice_5 :
   - Eiji Okada
 indice_6 : 
   - Festival de Cannes
+culture_g_score: 71
+culture_g_justification: "Œuvre majeure de Resnais et du cinéma moderne, exploitable par plusieurs angles historiques, littéraires et cinématographiques."
 ---
-
 ![Image de Hiroshima mon amour](https://upload.wikimedia.org/wikipedia/commons/e/e1/Plaque_Hiroshima_mon_amour-2.jpg)
 
 ###### Questions

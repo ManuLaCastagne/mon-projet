@@ -22,10 +22,9 @@ indice_6 :
   - challenge TikTok
 questions:
  - Sur quelle chanson des Sud-Africains Master KG et Nomcebo Zikode, sortie en 2019, a-t-on lancé de nombreux défis de danse ?
+culture_g_score: 61
+culture_g_justification: "Succès international emblématique de la période de pandémie, surtout exploitable par son interprète, son origine et son défi viral."
 ---
-
-
-
 ![Image de Jerusalema](https://upload.wikimedia.org/wikipedia/commons/7/7d/Jerusalema_Esperanto-grupo.jpg)
 
 ###### Questions

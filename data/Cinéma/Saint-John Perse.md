@@ -23,8 +23,9 @@ indice_6 :
   - Nobel de littérature 1960
 questions:
  - Quel poète et diplomate guadeloupéen de son vrai nom Alexis Léger est l'auteur des "Eloges" et "Anabase" ?
+culture_g_score: 67
+culture_g_justification: "Nobel de littérature et diplomate sous le nom d'Alexis Léger, sujet classique mais relativement spécialisé de la culture littéraire."
 ---
-
 ![Image de Saint-John Perse](https://upload.wikimedia.org/wikipedia/commons/1/10/Saint-John_Perse_1960.jpg)
 
 ###### Questions

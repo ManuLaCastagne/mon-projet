@@ -20,9 +20,9 @@ indice_5 :
   - franco-américain
 indice_6 : 
   - Le roi
+culture_g_score: 73
+culture_g_justification: "Acteur contemporain très exposé grâce à Dune, Marvel et Call Me by Your Name, mais dont l'importance historique reste limitée."
 ---
-
-
 ![Image de Timothée Chalamet](https://upload.wikimedia.org/wikipedia/commons/8/87/En-us-Timoth%C3%A9e_Chalamet.oga)
 
 ###### Questions

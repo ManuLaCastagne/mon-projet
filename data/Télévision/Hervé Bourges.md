@@ -20,8 +20,9 @@ indice_6 :
   - figure emblématique de l'audiovisuel français
 questions:
  - Quelle grande figure de l'audiovisuel français, disparue en 2020, a présidé le CSA...
+culture_g_score: 68
+culture_g_justification: "Responsable majeur de l'audiovisuel francophone, dont les directions de TF1, Antenne 2, RFI et du CSA offrent plusieurs angles solides."
 ---
-
 ![Image de Hervé Bourges](https://upload.wikimedia.org/wikipedia/commons/f/fc/Herv%C3%A9_Bourges_%28Photo-Philippe_Brizard%29.jpg)
 
 ###### Questions

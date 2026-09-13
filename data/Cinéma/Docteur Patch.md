@@ -22,8 +22,9 @@ indice_6 :
   - Comédie dramatique
 questions:
  - En 1999, dans quel film Robbie Williams incarne-t-il le rôle d'un étudiant en médecine prônant les vertus thérapeutiques du rire ?
+culture_g_score: 48
+culture_g_justification: "Film biographique populaire porté par Robin Williams et une approche médicale originale, mais de portée culturelle secondaire."
 ---
-
 ![Image de Docteur Patch](https://upload.wikimedia.org/wikipedia/commons/4/48/Ecuador_Patch_Adams_2014.jpg)
 
 ###### Questions

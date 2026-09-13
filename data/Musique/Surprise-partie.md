@@ -22,8 +22,9 @@ indice_6 :
   - Elvis Presley
 questions:
  - Dans l'une de ses chansons de 63, quel type de fête les parents de Sheila l'autorisent-ils à organiser pour la 1re fois?
+culture_g_score: 31
+culture_g_justification: "Titre et terme culturellement datés, dont la présence dans les quiz reste occasionnelle."
 ---
-
 ![Image de Surprise-partie](https://upload.wikimedia.org/wikipedia/commons/4/44/LL-Q150_%28fra%29-Poslovitch-surprise-partie.wav)
 
 ###### Questions

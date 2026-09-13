@@ -20,8 +20,9 @@ indice_6 :
   - Maastricht
 questions:
  - Quel leader du parti conservateur, 1er Ministre de GB de 1990 à 1997 ?
+culture_g_score: 51
+culture_g_justification: "John Major est utile pour l’histoire politique britannique et le traité de Maastricht, mais demeure nettement moins fréquent et transversal que Thatcher ou Churchill."
 ---
-
 ![Image de John Major](https://upload.wikimedia.org/wikipedia/commons/d/d1/Prime_Minister_John_Major_%28cropped%29.jpg)
 
 ###### Questions

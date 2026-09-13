@@ -20,8 +20,9 @@ indice_5 :
   - Chroniqueuse sur TF1
 indice_6 : 
   - reine de beauté
+culture_g_score: 60
+culture_g_justification: "Personnalité médiatique connue pour Miss France, Miss Univers et la télévision, mais dont l'importance culturelle demeure limitée."
 ---
-
 ![Image de Iris Mittenaere](https://upload.wikimedia.org/wikipedia/commons/9/9b/Iris_Mittenaere_2016.05.07_%28cropped%29.jpg)
 
 ###### Questions

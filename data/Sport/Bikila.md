@@ -20,8 +20,9 @@ indice_6 :
   - Éthiopie
 questions:
  - 1960, quel athlète éthiopien...
+culture_g_score: 77
+culture_g_justification: "Abebe Bikila est une figure olympique majeure, facilement interrogée autour de ses victoires, de sa course pieds nus et de son importance africaine."
 ---
-
 ![Image de Bikila](https://upload.wikimedia.org/wikipedia/commons/3/3b/Abebe_Bikila_1968c.jpg)
 
 ###### Questions

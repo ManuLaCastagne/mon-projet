@@ -18,8 +18,9 @@ indice_5 :
   - Vérité et Réconciliation
 indice_6 : 
   - Archevêque
+culture_g_score: 72
+culture_g_justification: "Grande figure de la lutte contre l’apartheid et du Nobel de la paix, utile dans plusieurs thèmes historiques et politiques."
 ---
-
 ![Image de Desmond Tutu](https://upload.wikimedia.org/wikipedia/commons/e/e4/Archbishop-Tutu-medium.jpg)
 
 ###### Questions

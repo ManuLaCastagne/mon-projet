@@ -22,8 +22,9 @@ indice_6 :
   - disco
 questions:
  - C'est aussi un excellent groupe de funk, effectivement. Je compose en 1976 l'hymne disco "Open sesame" qui figurera dans la bande-son du film "Saturday Night Fever". Auteur de tubes comme "Celebration", "Ladies night" ou...
+culture_g_score: 76
+culture_g_justification: "Groupe funk très présent grâce à Celebration et à son histoire, avec des liens vers le disco, la soul et la musique populaire américaine."
 ---
-
 ![Image de Kool and the Gang](https://upload.wikimedia.org/wikipedia/commons/d/df/Kool_%26_The_Gang.jpg)
 
 ###### Questions

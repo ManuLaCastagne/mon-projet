@@ -15,8 +15,9 @@ indice_6 :
   - Parasite de fin d'été
 questions:
  - Larve d'un arthropode de la famille des Trombididae dont un des noms est associé à l'été, je suis difficile à voir malgré...
+culture_g_score: 27
+culture_g_justification: "Acarien responsable de démangeaisons, très peu rentable en dehors de questions médicales spécialisées."
 ---
-
 ![Image de Aoûtat](https://upload.wikimedia.org/wikipedia/commons/f/fa/Ao%C3%BBtat.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de l'industrie et de la coopération
 questions:
  - Quel mot désigne, chez les insectes sociaux, l'ensemble des oeufs, des larves et des nymphes?
+culture_g_score: 48
+culture_g_justification: "Terme apicole utile pour comprendre le développement des abeilles, mais peu connu et peu fréquent hors des questions spécialisées."
 ---
-
 ![Image de Couvain](https://upload.wikimedia.org/wikipedia/commons/c/cc/Couvain_opercul%C3%A9_d%27abeille.JPG)
 
 ###### Questions

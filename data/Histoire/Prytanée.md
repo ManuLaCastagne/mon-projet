@@ -20,8 +20,9 @@ indice_6 :
   - formation civique
 questions:
  - A La Flèche, dans la Sarthe, quel collège  jésuite fondé en 1604 fut transformé en 1808 en académie militaire ?
+culture_g_score: 27
+culture_g_justification: "Institution de la cité grecque antique peu connue et généralement limitée à quelques questions d’histoire ancienne."
 ---
-
 ![Image de Prytanée](https://upload.wikimedia.org/wikipedia/commons/f/f9/Prytan%C3%A9e.jpg)
 
 ###### Questions

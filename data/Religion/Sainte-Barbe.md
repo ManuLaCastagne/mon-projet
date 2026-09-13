@@ -20,15 +20,9 @@ indice_6 :
   - fête le 4 décembre
 questions:
  - Quelle martyre chrétienne est la patronne de tous ceux qui travaillent avec le feu ?
+culture_g_score: 60
+culture_g_justification: "Sa légende, sa fête et son patronage des métiers du feu en font une question classique, sans être une figure religieuse centrale."
 ---
-
-
-
-
-
-
-
-
 ![Image de Sainte-Barbe](https://upload.wikimedia.org/wikipedia/commons/e/ee/Savigny_%E2%80%93_%C3%89glise_Notre-Dame-et-Sainte-Barbe_%E2%80%93_Abside_III_2023_08_14.jpg)
 
 ###### Questions

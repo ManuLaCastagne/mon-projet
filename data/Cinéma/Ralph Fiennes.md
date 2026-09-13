@@ -20,8 +20,9 @@ indice_5 :
   - acteur britannique
 indice_6 : 
   - Schindler's List
+culture_g_score: 80
+culture_g_justification: "Acteur très identifiable par Voldemort, Le Patient anglais et de nombreux rôles historiques, offrant plusieurs passerelles cinématographiques."
 ---
-
 ![Image de Ralph Fiennes](https://upload.wikimedia.org/wikipedia/commons/2/27/Ralph_Fiennes_2024.jpg)
 
 ###### Questions

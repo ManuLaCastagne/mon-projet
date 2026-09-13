@@ -18,9 +18,9 @@ indice_5 :
   - successeur d'Apostrophes
 indice_6 : 
   - plateaux culturels
+culture_g_score: 80
+culture_g_justification: "Émission culturelle majeure de Bernard Pivot, fréquemment citée en lien avec la littérature, les écrivains et la télévision française."
 ---
-
-
 ![Image de Bouillon de culture](https://upload.wikimedia.org/wikipedia/commons/f/fe/Distribution_du_bouillon_de_culture_dans_les_bouteilles_-_photographie_de_presse_-_Agence_Rol_-_btv1b53030839f.jpg)
 
 ###### Questions

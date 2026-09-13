@@ -20,8 +20,9 @@ indice_5 :
   - Mrs. Robinson
 indice_6 : 
   - 1967
+culture_g_score: 80
+culture_g_justification: "Classique américain incontournable, associé à Dustin Hoffman, Mike Nichols, Simon and Garfunkel et aux bouleversements des années 1960."
 ---
-
 ![Image de Le Lauréat](https://upload.wikimedia.org/wikipedia/commons/b/b8/Joachim_de_Laur%C3%A9at_Valli%C3%A8re.jpg)
 
 ###### Questions

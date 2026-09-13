@@ -22,8 +22,9 @@ indice_6 :
   - Policier tendre
 questions:
  - En 2012, quel comédien reçoit le César du meilleur espoir masculin pour son rôle dans "Angèle et Tony" ?
+culture_g_score: 40
+culture_g_justification: "Acteur français reconnu des amateurs de cinéma et de théâtre, mais encore trop peu incontournable pour un entraînement généraliste."
 ---
-
 ![Image de Grégory Gadebois](https://upload.wikimedia.org/wikipedia/commons/1/1d/Gr%C3%A9gory_Gadebois_2014.jpg)
 
 ###### Questions

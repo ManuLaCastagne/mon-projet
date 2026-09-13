@@ -22,8 +22,9 @@ indice_6 :
   - Utilisation de la psychologie dans la narration
 questions:
  - A quel écrivain norvégien Prix Nobel de littérature en 1920 et auteur de "La Faim"...
+culture_g_score: 67
+culture_g_justification: "Nobélisé et influent dans le roman moderne, mais sa sympathie pour le nazisme constitue l’un des rares angles vraiment récurrents."
 ---
-
 ![Image de Knut Hamsun](https://upload.wikimedia.org/wikipedia/commons/e/e2/1495._Knut_Hamsun_-_no-nb_digifoto_20150126_00002_bldsa_HA0239_%28cropped%29.jpg)
 
 ###### Questions

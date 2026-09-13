@@ -19,8 +19,9 @@ indice_5:
   - Quraysh
 indice_6:
   - Hijaz
+culture_g_score: 100
+culture_g_justification: "Centre spirituel majeur de l’islam et lieu de la Kaaba, La Mecque est une référence religieuse et historique absolument incontournable."
 ---
-
 ![[Carte_La Mecque.png]]
 
 ###### Questions

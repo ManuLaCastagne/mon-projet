@@ -20,7 +20,8 @@ indice_6 :
   - connue pour ses nombreuses apparitions à la télévision et dans les médias
 questions:
  - Je deviens à la fin des années 80 l'un des top-modèles les plus renommés. 1er modèle noir ayant fait la couverture du "Time" et du "Vogue" français...
-culture_g_score: 67
+culture_g_score: 75
+culture_g_justification: "Supermodèle mondialement célèbre, utile en mode, culture populaire et télévision, mais ses apparitions télévisuelles précises sont moins récurrentes."
 ---
 ![Image de Naomi Campbell](https://upload.wikimedia.org/wikipedia/commons/e/ef/Naomi_Campbell_Cannes_2017.jpg)
 

@@ -20,12 +20,9 @@ indice_5:
   - 1980
 indice_6:
   - film biographique
+culture_g_score: 84
+culture_g_justification: "Chef-d’œuvre de Scorsese et de De Niro, régulièrement interrogé pour la boxe, Jake LaMotta, les Oscars et le cinéma américain."
 ---
-
-
-
-
-
 ![[Pasted image 20250421155038.png]]
 ###### Questions
 

@@ -21,8 +21,9 @@ indice_6:
   - Oiseaux
 questions:
   - En 1964, quel réalisateur le met en scène dans "Pas de printemps "pour Marnie" ?
+culture_g_score: 100
+culture_g_justification: "Maître universellement célèbre du suspense, dont les films, techniques, acteurs et collaborations sont des marronniers de quiz."
 ---
-
 ![Image de Hitchcock](https://upload.wikimedia.org/wikipedia/commons/9/94/Hitchcock%2C_Alfred_02.jpg)
 
 ###### Questions

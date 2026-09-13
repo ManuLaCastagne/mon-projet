@@ -20,8 +20,9 @@ indice_6 :
   - Jean Richard
 questions:
  - Dans quelle série, tirée d'une oeuvre de Georges Simenon, Bruno Cremer incarne-t-il un commissaire de police ?
+culture_g_score: 72
+culture_g_justification: "Maigret est une figure policière littéraire majeure, et cette adaptation permet des liens avec Simenon, la télévision française et Bruno Cremer."
 ---
-
 ![Image de Maigret (série)](https://upload.wikimedia.org/wikipedia/commons/c/c8/Maigret%2C_Bestanddeelnr_920-0569.jpg)
 
 ###### Questions

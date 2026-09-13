@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de paix et de tranquillité
 questions:
  - Quel mammifère herbivore aquatique, placide et inoffensif est présent jusque dans les années 1920 en Guadeloupe, où une commune lui doit son nom ?
+culture_g_score: 60
+culture_g_justification: "Mammifère marin facilement identifiable, associé aux sirènes, à l'écologie tropicale et aux menaces liées aux bateaux."
 ---
-
 ![Image de Lamantin](https://upload.wikimedia.org/wikipedia/commons/b/b1/Manatee_photo.jpg)
 
 ###### Questions

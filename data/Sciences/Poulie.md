@@ -1,3 +1,8 @@
+---
+culture_g_score: 65
+culture_g_justification: "Machine simple classique, utile pour la mécanique, les machines élémentaires, la marine et l’histoire des techniques."
+---
+
 
 ###### Questions 
 

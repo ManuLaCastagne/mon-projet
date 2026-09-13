@@ -22,8 +22,9 @@ indice_6 :
   - Louis Hector
 questions:
  - Peu de temps après sa victoire à Denain en 1712 contre le prince Eugène, quel maréchal de France a soutenu la politique de rapprochement avec l'Espagne?
+culture_g_score: 47
+culture_g_justification: "Grand commandant de Louis XIV, mais connu surtout des amateurs d’histoire militaire et rarement demandé hors de ce cadre."
 ---
-
 ![Image de Maréchal de Villars](https://upload.wikimedia.org/wikipedia/commons/4/46/Allegory_of_the_Mar%C3%A9chal_de_Villars%E2%80%99s_Victory_at_Denain_MET_DP251949.jpg)
 
 ###### Questions

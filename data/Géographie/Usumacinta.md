@@ -21,8 +21,9 @@ indice_5 :
   - Chiapas
 indice_6 : 
   - Palenque
+culture_g_score: 47
+culture_g_justification: "L’Usumacinta est un fleuve important pour la Mésoamérique et les Mayas, mais son nom demeure spécialisé hors des quiz thématiques."
 ---
-
 ![[Carte_Usumacinta.png]]
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la forêt tropicale
 questions:
  - Quel oiseau d'Amérique du Sud de l'espèce toco se baigne dans l'eau restant dans le creux des troncs d'arbres ?
+culture_g_score: 64
+culture_g_justification: "Le toucan est très identifiable et relié aux forêts tropicales, à la publicité et à la biodiversité, mais ses questions restent assez prévisibles."
 ---
-
 ![Image de Toucan](https://upload.wikimedia.org/wikipedia/commons/6/6d/Grey-breasted_mountain_toucan_%28Andigena_hypoglauca%29_Caldas.jpg)
 
 ###### Questions

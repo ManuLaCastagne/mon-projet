@@ -22,8 +22,9 @@ indice_6 :
   - Clarisse McClellan
 questions:
  - Ce roman de science-fiction qui a été un film aussi. C'est affreux, d'ailleurs.  Où les pompiers, dans un futur hypothétique, sont chargés non pas d'éteindre les incendies mais de mettre le feu aux livres.
+culture_g_score: 80
+culture_g_justification: "Dystopie majeure de Bradbury, fréquemment associée à la censure, aux livres et à la science-fiction."
 ---
-
 ![Image de Fahrenheit 451](https://upload.wikimedia.org/wikipedia/commons/b/bf/FAHRENHEIT_451_by_Ray_Bradbury%2C_Corgi_1957._160_pages._Cover_by_John_Richards.jpg)
 
 ###### Questions

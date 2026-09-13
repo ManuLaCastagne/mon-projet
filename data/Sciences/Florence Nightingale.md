@@ -23,16 +23,15 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Figure pionnière des soins infirmiers, de la statistique et de la santé publique, offrant plusieurs repères historiques rentables."
 ---
+
+
 ![Image de Florence Nightingale](https://upload.wikimedia.org/wikipedia/commons/b/ba/Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg)
 
 ###### Questions
 
-En quelle année [[Florence Nightingale]] a-t-elle créé le premier programme de formation pour infirmières, posant ainsi les bases de la profession infirmière moderne au [[St Thomas' Hospital]] de [[Londres]] ?
+Quelle femme a créé le premier programme de formation pour infirmières, posant ainsi les bases de la profession infirmière moderne au [[St Thomas' Hospital]] de [[Londres]] ? <!-- score: 5 -->
 
 Quel est le nom de la femme qui a utilisé des méthodes statistiques innovantes, telles que le diagramme en rose, pour améliorer les conditions sanitaires des [[hôpitaux]] pendant la [[Guerre de Crimée]] de [[1853-1856]] ?
-
-Qui a été la première femme admise à la [[Royal Statistical Society]] en [[1858]], en reconnaissance de ses contributions significatives à la statistique et à la santé publique ?
-
 ###### Description
 
 [[Florence Nightingale]] est née le 12 mai 1820 à [[Florence]], en [[Italie]], et elle est largement reconnue comme la pionnière des soins infirmiers modernes. 

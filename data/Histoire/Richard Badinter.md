@@ -20,8 +20,9 @@ indice_6 :
   - Réforme judiciaire
 questions:
  - Quel avocat et garde des Sceaux...
+culture_g_score: 77
+culture_g_justification: "Robert Badinter est une référence fréquente grâce à l’abolition de la peine de mort, à la justice et à la politique française contemporaine."
 ---
-
 ![Image de Richard Badinter](https://upload.wikimedia.org/wikipedia/commons/d/d1/Robert_Badinter_on_demo.jpg)
 
 ###### Questions

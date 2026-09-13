@@ -21,8 +21,9 @@ indice_6:
   - années 60
 questions:
   - Dans quelle série télé américaine, diffusée dès 1966 en France, Jean-Pierre Stevens est-il souvent ensorcelé par sa belle-mère, Endora?
+culture_g_score: 84
+culture_g_justification: "Sitcom américaine emblématique, aisément interrogée par Samantha, Endora, son générique, ses acteurs et son concept de sorcière."
 ---
-
 ![Image de Ma sorcière bien-aimée](https://upload.wikimedia.org/wikipedia/commons/6/63/Bewitched_%281964_TV_series%29_logo.svg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Nuit
 questions:
  - Morceau de piano de caractère mélancolique évoquant l'atmosphère de la nuit.
+culture_g_score: 72
+culture_g_justification: "Forme musicale classique associée à Chopin et à plusieurs compositeurs, permettant des questions de vocabulaire, d’histoire et de répertoire."
 ---
-
 ![Image de Nocturne](https://upload.wikimedia.org/wikipedia/commons/2/27/Nocturne_Op._15_No._3.png)
 
 ###### Questions

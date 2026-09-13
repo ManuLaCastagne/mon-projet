@@ -20,9 +20,9 @@ indice_6 :
   - Grandes découvertes
 questions:
  - Quel siècle fut marqué par la signature de l'édit de Nantes par Henri IV, c'est bien le XVIe siècle, qui accorde la liberté de culte aux protestants, 1598 ?
+culture_g_score: 88
+culture_g_justification: "Siècle particulièrement structurant, regroupant Renaissance, Réforme, grandes découvertes, monarchies modernes et avancées scientifiques."
 ---
-
-
 ![Image de XVIe siècle](https://upload.wikimedia.org/wikipedia/commons/4/42/Ch%C3%A2teau_de_Chenonceau_-_ferme_du_XVIe_si%C3%A8cle_-_ch%C3%A2teau_d%27eau_%28Chenonceaux%29.jpg)
 
 ###### Questions

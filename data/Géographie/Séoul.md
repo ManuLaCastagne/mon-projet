@@ -20,8 +20,9 @@ indice_5 :
   - Palais Gyeongbokgung
 indice_6 : 
   - K-pop
+culture_g_score: 88
+culture_g_justification: "Capitale mondiale très connue, ouvrant sur la Corée, les Jeux de 1988, la géopolitique asiatique, la culture et l'économie."
 ---
-
 ![Image de Séoul](https://upload.wikimedia.org/wikipedia/commons/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg)
 
 ![[Carte_Séoul.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - Auteur contemporain
 questions:
  - En 2006, 4 ans après le roman "Expiation", quel écrivain britannique publie celui intitulé "Samedi"?
+culture_g_score: 60
+culture_g_justification: "Écrivain britannique reconnu, il peut être interrogé par ses romans et le prix Booker, mais demeure une référence relativement spécialisée."
 ---
-
 ![Image de Ian McEwan](https://upload.wikimedia.org/wikipedia/commons/1/14/Salon_du_livre_de_Paris_2011_-_Ian_McEwan_-_003.jpg)
 
 ###### Questions

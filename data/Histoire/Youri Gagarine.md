@@ -20,8 +20,9 @@ indice_6 :
   - Soviétique né en 1934
 questions:
  - Je dois ma gloire à un périple de 108 minutes à bord du vaisseau Vostok, en orbite autour de la Terre. Cosmonaute soviétique ayant été le 1er homme à effectuer un vol spatial en 61, je suis…
+culture_g_score: 97
+culture_g_justification: "Premier humain dans l’espace, Gagarine est un repère universel de la conquête spatiale, de la guerre froide et de l’histoire soviétique."
 ---
-
 ![Image de Youri Gagarine](https://upload.wikimedia.org/wikipedia/commons/e/e5/Yuri_Gagarin_%281961%29_-_Restoration.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Chef d'orchestre
 questions:
  - Chanson de 74,  je suis l'un des plus grands succès de mon auteur, inspiré par ses souvenirs d'enfance en Sologne. Titre dans lequel un homme avance dans les marais...
+culture_g_score: 52
+culture_g_justification: "Classique identifiable de Michel Delpech, mais dont les usages en quiz restent concentrés sur la chanson française."
 ---
-
 ![Image de Le Chasseur](https://upload.wikimedia.org/wikipedia/commons/1/15/Statue_Chasseur_crocodile_Arthur_Bourgeois_1886_JdP_Paris_22septembre2013.jpg)
 
 ###### Questions

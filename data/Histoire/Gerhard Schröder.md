@@ -18,9 +18,9 @@ indice_5 :
   - Nord Stream
 indice_6 : 
   - Agenda 2010
+culture_g_score: 60
+culture_g_justification: "Chancelier allemand associé à l’Agenda 2010, aux relations avec la Russie et à la transition vers Angela Merkel, mais assez spécialisé."
 ---
-
-
 ![Image de Gerhard Schröder](https://upload.wikimedia.org/wikipedia/commons/f/f5/Gerhard_Schr%C3%B6der_20160112_03_%28cropped%29.jpg)
 
 ###### Questions

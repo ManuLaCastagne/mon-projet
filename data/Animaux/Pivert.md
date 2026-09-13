@@ -13,8 +13,9 @@ indice_5:
   - Pic
 indice_6:
   - Symbole de persévérance
+culture_g_score: 60
+culture_g_justification: "Oiseau lié à la mythologie romaine, à la culture populaire et à des caractéristiques naturalistes facilement interrogées."
 ---
-
 ![Image de Pivert](https://upload.wikimedia.org/wikipedia/commons/c/cd/%D0%96%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%28Picus_viridis%29.jpg)
 
 ###### Questions

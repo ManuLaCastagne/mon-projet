@@ -22,8 +22,9 @@ indice_6 :
   - Colorado
 questions:
  - Film américain sorti en 1990,  j'ai valu à Kathy Bates l'Oscar de la meilleure actrice. Thriller débutant dans un paysage enneigé, je suis un huis clos mettant en scène un auteur à succès, Paul Sheldon, secouru...
+culture_g_score: 77
+culture_g_justification: "Adaptation marquante de Stephen King, très utile pour des questions sur Kathy Bates, les Oscars, Rob Reiner et le cinéma horrifique."
 ---
-
 ![Image de Misery](https://upload.wikimedia.org/wikipedia/commons/1/17/Misery_%282%29.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - membre de la Maison de Lorraine
 questions:
  - En 1576, quel est ce duc surnommé le balafré, chef de la ligue catholique ?
+culture_g_score: 60
+culture_g_justification: "Titre lié aux guerres de Religion et à Henri de Guise, intéressant mais surtout mobilisé dans des questions d’histoire moderne française."
 ---
-
 ![Image de Duc de Guise](https://upload.wikimedia.org/wikipedia/commons/e/e5/La_Rencontre_d%27Henri_III_et_du_duc_de_Guise_-_Pierre-Charles_Comte_-_MBA_Lyon_2014.jpg)
 
 ###### Questions

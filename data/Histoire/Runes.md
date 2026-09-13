@@ -20,8 +20,9 @@ indice_6 :
   - Symboles mystérieux
 questions:
  - Issu de l'ancien scandinave signifiant "écriture secrète", ce mot désigne les caractères de l'alphabet utilisé dans le Nord.
+culture_g_score: 60
+culture_g_justification: "Système d’écriture associé aux Vikings et aux peuples germaniques, utile en histoire et en archéologie mais assez circonscrit."
 ---
-
 ![Image de Runes](https://upload.wikimedia.org/wikipedia/commons/6/62/Runic_Square_Font.png)
 
 ###### Questions

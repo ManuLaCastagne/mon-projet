@@ -23,8 +23,9 @@ indice_6 :
   - luxe et raffinement
 questions:
  - Type d'objet décoratif précieux dont il existe une cinquantaine d'exemplaires créés entre 1885 et 1917...
+culture_g_score: 80
+culture_g_justification: "Les œufs de Fabergé sont des objets emblématiques liés à la joaillerie, aux tsars, à la Russie impériale et au luxe."
 ---
-
 ![Image de Oeufs de Fabergé](https://upload.wikimedia.org/wikipedia/commons/e/ec/Napoleonic_%28Faberg%C3%A9_egg%29_-_detail.jpg)
 
 ###### Questions

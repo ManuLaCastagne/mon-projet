@@ -19,8 +19,9 @@ indice_5:
   - Cro-Magnon
 indice_6:
   - art pariétal
+culture_g_score: 97
+culture_g_justification: "Lascaux est un incontournable de la préhistoire et de l’art pariétal, facilement mobilisable dans des questions sur l’archéologie, la Dordogne et les premières cultures humaines."
 ---
-
 ![Image de Lascaux](https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg)
 
 ###### Questions

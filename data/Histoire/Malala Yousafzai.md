@@ -18,10 +18,9 @@ indice_5 :
   - Moi
 indice_6 : 
   - Malala
+culture_g_score: 77
+culture_g_justification: "Militante, lauréate du Nobel et symbole de l’éducation des filles, elle revient régulièrement dans les quiz contemporains."
 ---
-
-
-
 ![Image de Malala Yousafzai](https://upload.wikimedia.org/wikipedia/commons/f/fe/Malala_Yousafzai_2015.jpg)
 
 ###### Questions

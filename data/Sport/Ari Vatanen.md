@@ -20,13 +20,15 @@ indice_6 :
   - Pikes Peak Hill Climb
 questions:
  - Quel pilote finlandais a pris 2 fois le départ du Dakar un 25 décembre...
+culture_g_score: 60
+culture_g_justification: "Pilote associé au rallye, au Paris-Dakar et à la politique européenne, avec une présence occasionnelle dans les quiz sportifs."
 ---
 
 ![Image de Ari Vatanen](https://upload.wikimedia.org/wikipedia/commons/a/a5/Ari_Vatanen_2012.jpg)
 
 ###### Questions
 
-Quel pilote finlandais a remporté le [[Championnat du monde des rallyes]] en [[1981]] ?
+Quel pilote finlandais a remporté le [[Championnat du monde des rallyes]] en [[1981]] ? <!-- score: 4 -->
 
 Quel pilote a été élu député européen sous l'étiquette du [[Parti populaire européen]] en [[1999]] ?
 

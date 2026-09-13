@@ -21,8 +21,9 @@ indice_6:
   - Vieille Ville
 questions:
   - Dans quel port du Pas-de-Calais a-t-on inauguré, en 1991, le Centre national de la mer baptisé Nausicaa?
+culture_g_score: 52
+culture_g_justification: "Ville portuaire et historique connue pour ses remparts, sa basilique et son rôle maritime, Boulogne-sur-Mer reste une référence régionale."
 ---
-
 ![Image de Boulogne-sur-Mer](https://upload.wikimedia.org/wikipedia/commons/1/18/Centurion_2_Boulogne_Luc_Viatour.jpg)
 
 ###### Questions

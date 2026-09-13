@@ -15,8 +15,9 @@ indice_6 :
   - Ornementation de pergolas et treillis
 questions:
  - Quelle plante grimpante, de la famille des renonculacées, est notamment représentée par la variété Elsa Spath aux fleurs bleu violacé ?
+culture_g_score: 44
+culture_g_justification: "Plante grimpante bien connue des jardiniers, mais offrant peu d’angles de culture générale réellement fréquents."
 ---
-
 ![Image de Clématite](https://upload.wikimedia.org/wikipedia/commons/1/19/Clematis_%27Parisienne%27_2019-05-29_09-20-43_%28C%29.jpg)
 
 ###### Questions

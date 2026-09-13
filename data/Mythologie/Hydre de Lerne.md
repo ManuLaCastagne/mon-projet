@@ -18,8 +18,9 @@ indice_6 :
   - Laboratoire d'Eurysthée
 questions:
  - Selon le mythe d'Héraclès, de quel serpent monstrueux, habitant le marais de Lerne...
+culture_g_score: 80
+culture_g_justification: "Monstre emblématique de l'un des douze travaux d'Héraclès, reconnaissable par ses têtes qui repoussent."
 ---
-
 ![Image de Hydre de Lerne](https://upload.wikimedia.org/wikipedia/commons/e/e1/Douze_Travaux_d%27Hercule%2C_Les%2C_Emile_Cohl%2C_1910%2C_hydre_de_Lerne.png)
 
 ###### Questions

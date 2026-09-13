@@ -18,9 +18,9 @@ indice_5:
   - ancienne membre du CSA
 indice_6:
   - auteur
+culture_g_score: 47
+culture_g_justification: "Journaliste et personnalité médiatique associée au CSA et à CNews, mais son intérêt quiz demeure assez contextuel."
 ---
-
-
 ![Image de Christine Kelly](https://upload.wikimedia.org/wikipedia/commons/1/12/Christine_Kelly_en_2005_-_cropped.JPG)
 
 ###### Questions

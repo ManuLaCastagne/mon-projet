@@ -22,8 +22,9 @@ indice_6 :
   - Reprises par de nombreux artistes
 questions:
  - Chanson composée en 1941 par la musicienne mexicaine Consuelito Velazquez, j'ai été interprétée aussi bien par les The Beatles ou Arielle Dombasle que par...
+culture_g_score: 84
+culture_g_justification: "Standard international exceptionnellement célèbre, ouvrant des questions sur la chanson hispanophone, ses reprises et son histoire."
 ---
-
 ![Image de Besame mucho](https://upload.wikimedia.org/wikipedia/commons/e/e5/Kiss_Me_My_Honey%2C_Kiss_Me_3.jpg)
 
 ###### Questions

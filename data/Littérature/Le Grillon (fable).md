@@ -22,9 +22,9 @@ indice_6 :
   - XVIIe siècle
 questions:
  - Qui, après avoir comparé son sort à celui d'un papillon en train de voltiger, voit ce dernier se faire capturer par des enfants et périr, je fais suite aux mots  "Combien je vais aimer ma retraite profonde!" Exprimant l'idée que le bonheur consiste en une vie simple et discrète   "Pour vivre heureux, vivons cachés"
+culture_g_score: 40
+culture_g_justification: "Fable de Florian intéressante pour les réécritures de la cigale et de la fourmi, mais nettement moins célèbre que les fables de La Fontaine."
 ---
-
-
 ![Image de Le Grillon (fable)](https://upload.wikimedia.org/wikipedia/commons/3/3d/Vignettes_Fables_de_La_Motte._Les_Grillons_%28Liv._II%2C_fable_19%29%2C_Paris_Mus%C3%A9es_20230621114544.jpg)
 
 ###### Questions

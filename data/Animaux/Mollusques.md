@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de lenteur
 questions:
  - Embranchement du règne animal dont on connaît environ 70 000 espèces, je compte notamment la bucarde et la doris.  Regroupant des espèces majoritairement aquatiques, mes représentants sont dotés d'un corps divisé en 3 régions  la tête, la masse viscérale et le pied, lequel permet notamment...
+culture_g_score: 75
+culture_g_justification: "Phylum majeur regroupant escargots, bivalves et céphalopodes, offrant de nombreux angles de zoologie, d’évolution et d’environnement."
 ---
-
 ![Image de Mollusques](https://upload.wikimedia.org/wikipedia/commons/4/4a/Mollusques_%28IA_mollusques00hup%29.pdf)
 
 ###### Questions

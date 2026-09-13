@@ -22,9 +22,9 @@ indice_6:
   - Folkestone
 questions:
   - Quel tunnel fini en 1994 relie Coquelles à Folkestone ?
+culture_g_score: 84
+culture_g_justification: "Le Tunnel sous la Manche est une réalisation européenne emblématique, régulièrement interrogée par ses dates, ses dimensions, ses pays et sa technique."
 ---
-
-
 ![Image de Tunnel sous la Manche](https://upload.wikimedia.org/wikipedia/commons/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg)
 
 ![[Carte_Tunnel sous la Manche.png]]

@@ -18,8 +18,9 @@ indice_5 :
   - White Oak Dance Project
 indice_6 : 
   - American Ballet Theatre
+culture_g_score: 80
+culture_g_justification: "Danseur mondialement célèbre, exploitable en danse, histoire soviétique, exil, cinéma et culture populaire."
 ---
-
 ![Image de Mikhail Barychnikov](https://upload.wikimedia.org/wikipedia/commons/7/7b/Mikhail_Baryshnikov.jpg)
 
 ###### Questions

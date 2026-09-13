@@ -15,11 +15,9 @@ indice_6:
   - Utilisé pour les haies et l'ornementation
 questions:
   - Voisin du cyprès, utilisé dans les jardins comme arbre d'ornement, j'ai une croissance rapide et suis planté pour former des haies de clôture et servir de coupe-vent.  Conifère...
+culture_g_score: 60
+culture_g_justification: "Conifère très reconnaissable des haies et des jardins, souvent interrogé par ses surnoms et ses usages ornementaux."
 ---
-
-
-
-
 ![Image de Thuya](https://upload.wikimedia.org/wikipedia/commons/6/6a/Mummy_mask_of_Thuya.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Roger Daltrey
 questions:
  - Sur quel double album en forme d'opéra rock les Who enregistrent-ils, en 69...
+culture_g_score: 80
+culture_g_justification: "Album majeur de The Who, régulièrement mobilisé autour du rock, de l’opéra-rock, du cinéma et de la musique britannique."
 ---
-
 ![Image de Tommy (album)](https://upload.wikimedia.org/wikipedia/commons/a/a5/Tommy_Makinson.jpg)
 
 ###### Questions

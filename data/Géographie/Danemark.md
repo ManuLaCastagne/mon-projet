@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Je suis une monarchie constitutionnelle dont la dynastie royale est la plus ancienne d'Europe.  Bordé par la mer du Nord et la mer Baltique et formé principalement de la péninsule du Jutland, mon drapeau national est le Danebrog.
  - En 2021, quelle nation a remporté pour la 2e fois de suite le championnat du monde de handball en battant son voisin suédois ?
+culture_g_score: 72
+culture_g_justification: "Pays européen classique des quiz, le Danemark ouvre sur la géographie nordique, les monarchies, l’Union européenne, l’histoire et les particularités culturelles."
 ---
-
 ![Image de Danemark](https://upload.wikimedia.org/wikipedia/commons/a/a3/Two_beached_fishing_vessels%2C_N%C3%B8rre_Vorup%C3%B8r%2C_Denmark%2C_2015-07-09-5588.jpg)
 
 ![[Carte_Danemark.png]]

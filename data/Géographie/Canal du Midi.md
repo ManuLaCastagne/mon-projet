@@ -24,9 +24,9 @@ indice_6 :
   - traverse Toulouse et Béziers
 questions:
  - En 1996, quelle voie d'eau artificielle, reliant la Méditerranée à la Garonne...
+culture_g_score: 80
+culture_g_justification: "Monument majeur du patrimoine français, exploitable via l’histoire des techniques, l’UNESCO, Riquet et la géographie régionale."
 ---
-
-
 ![Image de Canal du Midi](https://upload.wikimedia.org/wikipedia/commons/f/f3/Canal_du_Midi%2C_Vias_2018_%2805%29.jpg)
 
 ![[Carte_Canal du Midi.png]]

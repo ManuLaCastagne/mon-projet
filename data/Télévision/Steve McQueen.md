@@ -20,8 +20,9 @@ indice_6 :
   - amateur de courses de motos
 questions:
  - Quel acteur américain né le 24 mars 1930, est devenu célèbre en incarnant Josh Randall dans la série télévisée...
+culture_g_score: 84
+culture_g_justification: "Icône mondiale du cinéma dont la carrière, les rôles et les liens avec la télévision offrent de nombreux angles de quiz."
 ---
-
 ![Image de Steve McQueen](https://upload.wikimedia.org/wikipedia/commons/1/1d/Steve_McQueen.png)
 
 ###### Questions

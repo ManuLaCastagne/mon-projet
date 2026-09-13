@@ -20,8 +20,9 @@ indice_6 :
   - Dix épreuves
 questions:
  - Sport pratiqué en extérieur et associé aux champions Ashton Eaton et Roman Sebrle, je suis mis à l'honneur dans une manifestation se tenant à Talence. Comportant des épreuves se déroulant sur 2 jours, mes concurrents gagnent...
+culture_g_score: 80
+culture_g_justification: "Épreuve emblématique de l’athlétisme olympique, le décathlon fournit des questions variées sur ses disciplines, ses champions et ses records."
 ---
-
 ![Image de Décathlon](https://upload.wikimedia.org/wikipedia/commons/8/86/Decathlon_Kottayam.jpg)
 
 ###### Questions

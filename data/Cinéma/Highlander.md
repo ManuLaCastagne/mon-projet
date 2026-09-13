@@ -22,9 +22,9 @@ indice_6 :
   - guerres des immortels
 questions:
  - Film fantastique sorti en 1986, j'ai inspiré plusieurs suites, ainsi qu'une série télévisée. Réalisé par Russell Mulcahy, une de mes répliques majeures est  "Il ne peut en rester qu'un"...
+culture_g_score: 64
+culture_g_justification: "Film culte des années 1980, régulièrement identifiable par son slogan, ses personnages et sa saga dérivée."
 ---
-
-
 ![Image de Highlander](https://upload.wikimedia.org/wikipedia/commons/9/93/Guetteurs.jpg)
 
 ###### Questions

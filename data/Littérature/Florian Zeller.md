@@ -22,8 +22,9 @@ indice_6 :
   - Auteur dramatique français
 questions:
  - Auteur français le plus joué dans le monde, j'ai reçu en 2021 l'Oscar du meilleur scénario pour "The Father".
+culture_g_score: 60
+culture_g_justification: "Dramaturge contemporain distingué par The Father, mais dont la place dans les quiz généralistes reste encore modérée."
 ---
-
 ![Image de Florian Zeller](https://upload.wikimedia.org/wikipedia/commons/e/ea/Florian_Zeller.jpg)
 
 ###### Questions

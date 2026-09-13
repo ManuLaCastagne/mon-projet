@@ -21,10 +21,9 @@ indice_5:
   - Universal Studios
 indice_6:
   - Comté d'Orange
+culture_g_score: 73
+culture_g_justification: "Ville directement associée à Disney World, aux parcs à thèmes et à la Floride, ce qui en fait une réponse fréquente et rentable."
 ---
-
-
-
 ![Image de Orlando](https://upload.wikimedia.org/wikipedia/commons/e/e7/Disney_World%2C_Orlando_Florida.jpg)
 
 ![[Carte_Orlando.png]]

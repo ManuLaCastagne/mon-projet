@@ -20,8 +20,9 @@ indice_6 :
   - Joseph
 questions:
  - Quel nom du dernier des 12 fils du patriarche hébreu Jacob désigne le plus jeune enfant d'une famille?
+culture_g_score: 60
+culture_g_justification: "Personnage biblique identifiable par un public cultivé, mais rarement interrogé en dehors de sa filiation et de la tribu de Benjamin."
 ---
-
 ![Image de Benjamin](https://upload.wikimedia.org/wikipedia/commons/a/a3/Benjamin_Franklin_1767.jpg)
 
 ###### Questions

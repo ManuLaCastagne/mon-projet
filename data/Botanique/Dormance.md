@@ -13,8 +13,9 @@ indice_5:
   - État de repos
 indice_6:
   - Protection contre les conditions environnementales défavorables
+culture_g_score: 48
+culture_g_justification: "Notion utile pour comprendre le repos hivernal des plantes et quelques mécanismes biologiques, sans être un grand classique des quiz."
 ---
-
 ![Image de Dormance](https://upload.wikimedia.org/wikipedia/commons/1/11/Dormance_%28Jean-Loup_Trassard%29.jpg)
 
 ###### Questions

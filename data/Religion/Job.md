@@ -20,8 +20,9 @@ indice_6 :
   - Foi
 questions:
  - Quel personnage biblique, traditionnellement représenté sur un tas de fumier, incarne l'homme juste frappé par le malheur et la pauvreté ?
+culture_g_score: 80
+culture_g_justification: "Figure et livre bibliques classiques, utiles pour les thèmes de la souffrance, de la foi, de la justice divine et de la littérature religieuse."
 ---
-
 ![Image de Job](https://upload.wikimedia.org/wikipedia/commons/7/73/Izaut-de-l%27H%C3%B4tel_-_le_Job.jpg)
 
 ###### Questions

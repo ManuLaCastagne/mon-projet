@@ -20,8 +20,9 @@ indice_6 :
   - Antifasciste
 questions:
  - En juin 1936, quel homme politique français succède à Albert Sarraut à la présidence du Conseil?
+culture_g_score: 80
+culture_g_justification: "Léon Blum est une référence majeure du Front populaire, des réformes sociales, du socialisme français et de la Seconde Guerre mondiale."
 ---
-
 ![Image de Léon Blum](https://upload.wikimedia.org/wikipedia/commons/d/da/L%C3%A9on_Blum_Meurisse_b_1927.jpg)
 
 ###### Questions

@@ -19,9 +19,9 @@ indice_5:
   - Eddie The Eagle
 indice_6:
   - Katarina Witt
+culture_g_score: 60
+culture_g_justification: "Jeux olympiques liés à l'équipe jamaïcaine de bobsleigh et à plusieurs faits sportifs, mais moins incontournables que les éditions les plus célèbres."
 ---
-
-
 ![Image de Calgary 1988](https://upload.wikimedia.org/wikipedia/commons/3/3a/1988_Olympic_Winter_Games_medals.JPG)
 
 ###### Questions

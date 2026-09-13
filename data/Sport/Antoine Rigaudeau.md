@@ -18,6 +18,8 @@ indice_5:
   - Meneur de jeu
 indice_6:
   - Jeux Olympiques de Sydney 2000
+culture_g_score: 44
+culture_g_justification: "Grand basketteur français des années 1990-2000, surtout mobilisable pour les Jeux de Sydney et le basket européen."
 ---
 ![[Pasted image 20250503191055.png]]
 ###### Questions

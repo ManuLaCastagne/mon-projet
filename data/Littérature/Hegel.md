@@ -22,8 +22,9 @@ indice_6 :
   - Histoire de la philosophie
 questions:
  - De quel grand philosophe allemand, auteur de la "Phénoménologie de l'esprit", Mendelssohn a-t-il été l'élève?
+culture_g_score: 87
+culture_g_justification: "Philosophe fondamental de l'idéalisme allemand, régulièrement interrogé sur la dialectique, la Phénoménologie et son influence intellectuelle."
 ---
-
 ![Image de Hegel](https://upload.wikimedia.org/wikipedia/commons/b/bf/1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG)
 
 ###### Questions

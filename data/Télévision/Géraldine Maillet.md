@@ -19,9 +19,9 @@ indice_5 :
   - ancienne mannequin
 indice_6 : 
   - Une rose pour Manhattan
+culture_g_score: 43
+culture_g_justification: "Chroniqueuse de TPMP également romancière et réalisatrice, mais encore peu présente dans les références classiques de culture générale."
 ---
-
-
 ![Image de Géraldine Maillet](https://upload.wikimedia.org/wikipedia/commons/8/84/G%C3%A9raldine_Maillet_2013.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - lumière méditée
 questions:
  - Basilique dont la nef édifiée dès 1120 fut restaurée par Viollet-le-Duc,  j'accueille visiteurs et pèlerins de Compostelle par un narthex puis par un portail au tympan orné par un Christ aux bras ouverts.
+culture_g_score: 56
+culture_g_justification: "La basilique de Vézelay est un monument roman important, mais ses questions restent principalement historiques, religieuses et patrimoniales."
 ---
-
 ![Image de Notre-Dame de Vézelay](https://upload.wikimedia.org/wikipedia/commons/3/30/Saint-P%C3%A8re-sous-V%C3%A9zelay_%2889%29_%C3%89glise_Notre-Dame_-_Ext%C3%A9rieur_-_09.jpg)
 
 ###### Questions

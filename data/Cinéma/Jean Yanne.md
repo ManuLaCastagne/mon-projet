@@ -22,8 +22,9 @@ indice_6 :
   - Lauréat du Prix Jean Gabin en 1978
 questions:
  - Quel réalisateur chante dans son film en 1972 "Tout le monde il est beau, tout le monde il est gentil" ?
+culture_g_score: 72
+culture_g_justification: "Personnalité polyvalente du cinéma et de l’humour français, utile pour ses satires, ses films et ses collaborations."
 ---
-
 ![Image de Jean Yanne](https://upload.wikimedia.org/wikipedia/commons/f/fe/Identite-JeanYanne-1955-Sacem.jpg)
 
 ###### Questions

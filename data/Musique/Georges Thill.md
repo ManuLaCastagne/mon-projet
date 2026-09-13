@@ -22,8 +22,9 @@ indice_6 :
   - Interprétations de Puccini
 questions:
  - En 1939, quel ténor français ayant débuté à l'Opéra de Paris dans "Thais" de Massenet, est à l'affiche du film "Louise" d'Abel Gance?
+culture_g_score: 27
+culture_g_justification: "Ténor important dans l’histoire de l’opéra français, mais très peu connu du grand public et rarement mobilisé dans les quiz généralistes."
 ---
-
 ![Image de Georges Thill](https://upload.wikimedia.org/wikipedia/commons/a/a3/Georges_Thill%2C_exclusivit%C3%A9_Columbia_affiche%2C_non_identifi%C3%A9.jpg)
 
 ###### Questions

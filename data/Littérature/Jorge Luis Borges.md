@@ -18,8 +18,9 @@ indice_5 :
   - Labyrinthe
 indice_6 : 
   - Réalisme magique
+culture_g_score: 88
+culture_g_justification: "Écrivain mondialement influent, ouvrant de nombreuses questions sur la littérature argentine, les labyrinthes, le fantastique et ses œuvres majeures."
 ---
-
 ![Image de Jorge Luis Borges](https://upload.wikimedia.org/wikipedia/commons/c/cf/Jorge_Luis_Borges_1951%2C_by_Grete_Stern.jpg)
 
 ###### Questions

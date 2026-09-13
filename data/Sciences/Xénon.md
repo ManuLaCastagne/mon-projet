@@ -20,9 +20,9 @@ indice_6 :
   - Tube à décharge
 questions:
  - Quel corps simple, le plus lourd des gaz rares de l'atmosphère, a pour symbole Xe?
+culture_g_score: 52
+culture_g_justification: "Gaz noble utile pour des questions de chimie, d’éclairage et d’exploration spatiale, sans être une référence prioritaire."
 ---
-
-
 ![Image de Xénon](https://upload.wikimedia.org/wikipedia/commons/d/d7/Xenon_discharge_tube.jpg)
 
 ###### Questions

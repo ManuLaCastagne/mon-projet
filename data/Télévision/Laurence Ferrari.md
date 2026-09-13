@@ -20,8 +20,9 @@ indice_6 :
   - CNews
 questions:
  - En 2009, quelle journaliste et présentatrice portait une robe blanche arrivant au genou lors de son mariage avec le violoniste Renaud Capuçon?
+culture_g_score: 64
+culture_g_justification: "Journaliste française très connue, surtout interrogée pour le 20 Heures de TF1, ses émissions et son parcours médiatique."
 ---
-
 ![Image de Laurence Ferrari](https://upload.wikimedia.org/wikipedia/commons/e/e7/Laurence_Ferrari_Cannes_2008.jpg)
 
 ###### Questions

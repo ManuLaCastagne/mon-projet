@@ -16,10 +16,9 @@ indice_5:
   - siège du ciel
 indice_6:
   - forme de W
+culture_g_score: 80
+culture_g_justification: "Reine mythologique associée à une constellation très identifiable, au récit de Persée et à l’astronomie ancienne."
 ---
-
-
-
 ![Image de Cassiopée](https://upload.wikimedia.org/wikipedia/commons/a/a7/Cassiop%C3%A9e_au_festival_fiert%C3%A9_Montr%C3%A9al_2019.png)
 
 ###### Questions

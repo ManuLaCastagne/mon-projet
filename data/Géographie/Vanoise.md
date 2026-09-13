@@ -24,8 +24,9 @@ indice_6 :
   - connecté au parc national du Grand Paradis en Italie
 questions:
  - Quel massif savoyard, culminant à plus de 3800 m, entre les vallées de l'Arc (cristal) et de l'Isère, abrite un parc national...
+culture_g_score: 48
+culture_g_justification: "Massif associé au premier parc national français, aux Alpes et à la protection de la faune, avec une fréquence modérée."
 ---
-
 ![Image de Vanoise](https://upload.wikimedia.org/wikipedia/commons/a/aa/Mountain_massif_of_Fj%C3%B8lhaugen_at_Knutevika_in_Senja%2C_Troms%2C_Norway%2C_2015_September.jpg)
 
 ![[Carte_Vanoise.png]]

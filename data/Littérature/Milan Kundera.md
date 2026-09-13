@@ -22,8 +22,9 @@ indice_6 :
   - Le Livre du rire et de l'oubli
 questions:
  - En 1995, quel écrivain d'origine tchécoslovaque déplore la fascination de l'homme pour la vitesse, dans son roman "La Lenteur"?
+culture_g_score: 80
+culture_g_justification: "Grand romancier européen associé à L’Insoutenable Légèreté de l’être, à la Tchécoslovaquie et à l’exil, souvent exploitable sous plusieurs angles."
 ---
-
 ![Image de Milan Kundera](https://upload.wikimedia.org/wikipedia/commons/8/87/Milan_Kundera_redux.jpg)
 
 ###### Questions

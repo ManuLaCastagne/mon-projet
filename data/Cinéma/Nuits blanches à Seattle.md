@@ -22,8 +22,9 @@ indice_6 :
   - 1993
 questions:
  - En 1993, dans quelle comédie romantique Meg Ryan veut-elle connaître Tom Hanks après avoir entendu son fils à la radio?
+culture_g_score: 64
+culture_g_justification: "Classique de la comédie romantique associé à Tom Hanks, Meg Ryan et Nora Ephron, régulièrement reconnaissable mais pas incontournable."
 ---
-
 ![Image de Nuits blanches à Seattle](https://upload.wikimedia.org/wikipedia/commons/a/a3/%22Sleepless_in_Seattle%22_houseboat_%28217224278%29.jpg)
 
 ###### Questions

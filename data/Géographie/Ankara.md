@@ -24,8 +24,9 @@ indice_6 :
   - Bosphore
 questions:
  - Importante cité de l'empire hittite, puis capitale de la province romaine de Galatie, je suis située à 885 m d'altitude sur le plateau anatolien. Choisie par Mustapha Kemal Ataturk...
+culture_g_score: 77
+culture_g_justification: "Capitale turque fréquemment associée à Atatürk, à la fondation de la République et à la géographie de l’Anatolie."
 ---
-
 ![Image de Ankara](https://upload.wikimedia.org/wikipedia/commons/2/20/Ankara_asv2021-10_img73_Republic_Museum.jpg)
 
 ![[Carte_Ankara.png]]

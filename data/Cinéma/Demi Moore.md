@@ -22,9 +22,9 @@ indice_6 :
   - Bruce Willis
 questions:
  - En 1998, quelle actrice se rase le crâne pour interpréter "A armes égales". En fait, elle s'enrôle dans l'armée. Elle interprète un lieutenant de l'armée américaine. Et elle se rase la tête.
+culture_g_score: 64
+culture_g_justification: "Star très connue des années 1980-1990 grâce à Ghost, Striptease et sa vie médiatique, mais aux angles culturels relativement concentrés."
 ---
-
-
 ![[Pasted image 20250323110210.png]]
 
 ###### Questions

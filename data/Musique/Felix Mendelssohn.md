@@ -22,9 +22,9 @@ indice_6 :
   - Félix Bartholdy
 questions:
  - Qui était le frère de la compositrice du Culture_G/XIXe Fanny Mendelssohn pour laquelle son père dit   "Renonce à des triomphes qui ne conveinnent pas à ton sexe et cède la place à ton frère"
+culture_g_score: 72
+culture_g_justification: "Compositeur romantique régulièrement associé à Bach, au Songe d'une nuit d'été, à Leipzig et à plusieurs œuvres orchestrales."
 ---
-
-
 ![Image de Felix Mendelssohn](https://upload.wikimedia.org/wikipedia/commons/3/38/Felix_Mendelssohn_Bartholdy.jpg)
 
 ###### Questions

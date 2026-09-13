@@ -18,8 +18,9 @@ indice_5 :
   - Réforme liturgique
 indice_6 : 
   - Saint Pie V
+culture_g_score: 51
+culture_g_justification: "Pape utile pour la Réforme catholique, Lépante et les relations avec l'Angleterre, mais peu connu hors des quiz historiques spécialisés."
 ---
-
 ![Image de Pie V](https://upload.wikimedia.org/wikipedia/commons/0/0a/Pie_Town%2C_New_Mexico_-_PIE-O-NEER_Cafe%2C_January_2016_03.jpg)
 
 ###### Questions

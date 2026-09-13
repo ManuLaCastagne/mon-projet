@@ -22,8 +22,9 @@ indice_6 :
   - Les Grandes Blondes
 questions:
  - En 2020, quel écrivain français,  déjà auteur de "Cherokee" et de "Ravel", publie le roman "Vie de Gérard Fulmard"?
+culture_g_score: 60
+culture_g_justification: "Romancier français primé, Echenoz est une référence contemporaine utile, mais son apparition dans les quiz reste surtout littéraire et occasionnelle."
 ---
-
 ![Image de Jean Echenoz](https://upload.wikimedia.org/wikipedia/commons/7/76/Jean_Echenoz_%282016%29.png)
 
 ###### Questions

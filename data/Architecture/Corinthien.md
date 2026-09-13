@@ -20,8 +20,9 @@ indice_6 :
   - temples anciennes Grèce
 questions:
  - Ordre architectural dont Vitruve a dit en parlant des colonnes qu'elles avaient toute la grâce d'une jeune fille, je me suis constitué seulement...
+culture_g_score: 80
+culture_g_justification: "Ordre architectural classique fréquemment interrogé, reconnaissable à ses feuilles d’acanthe et réutilisable en histoire de l’art."
 ---
-
 ![Image de Corinthien](https://upload.wikimedia.org/wikipedia/commons/9/98/Grand_chapiteau_corinthien_1.jpg)
 
 ###### Questions

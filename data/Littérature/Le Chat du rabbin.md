@@ -22,8 +22,9 @@ indice_6 :
   - Philosophie
 questions:
  - Série de Joann Sfar, j'ai pour héros un félin domestique vivant dans la maison d'un religieux et qui acquiert la parole après avoir dévoré un perroquet.
+culture_g_score: 68
+culture_g_justification: "Bande dessinée contemporaine très connue, ouvrant sur Joann Sfar, l’Algérie, le judaïsme séfarade et l’adaptation animée."
 ---
-
 ![Image de Le Chat du rabbin](https://upload.wikimedia.org/wikipedia/commons/2/24/Le_triple_vocabulaire_infernal%2C_manuel_du_d%C3%A9monomane_ou_les_ruses_de_l%27enfer_d%C3%A9voil%C3%A9es_%28IA_BIUSante_73618%29.pdf)
 
 ###### Questions

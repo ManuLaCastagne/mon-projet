@@ -20,8 +20,9 @@ indice_6 :
   - dynastie Barcino
 questions:
  - De la dynastie des Orange-Nassau, j'ai accédé au trône en 1980 à la suite de l'abdication de ma mère Juliana, reine des Pays-Bas, ayant moi-même abdiqué en 2013, après 33 ans de règne, en faveur de mon fils  Willem-Alexander.
+culture_g_score: 31
+culture_g_justification: "Reine et impératrice médiévale intéressante, mais très rarement interrogée hors de l’histoire spécialisée de la Bourgogne et du Saint-Empire."
 ---
-
 ![Image de Béatrix 1re](https://upload.wikimedia.org/wikipedia/commons/d/dd/Faguet_-_Propos_litt%C3%A9raires%2C_1re_s%C3%A9rie%2C_1902.djvu)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - continent austral
 questions:
  - En 1962, dans quel film de Robert Stevenson, tiré d'un roman de Jules Verne, joue-t-il un professeur ?
+culture_g_score: 72
+culture_g_justification: "Roman d’aventures classique de Jules Verne, riche en repères géographiques, scientifiques et littéraires, mais moins fréquent que ses œuvres les plus célèbres."
 ---
-
 ![Image de Les Enfants du Capitaine Grant](https://upload.wikimedia.org/wikipedia/commons/f/fe/Les_enfants_du_capitaine_grant_18_verne.mp3)
 
 ###### Questions

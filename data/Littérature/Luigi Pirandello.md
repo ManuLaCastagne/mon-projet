@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Ecrivain dont la pièce  "Six personnages en quête d'auteur" explore le théâtre dans le théâtre.
  - A quel écrivain italien, né en Sicile au Culture_G/XIXe siècle, doit-on la pièce "6 personnages en quête d'auteur"...
+culture_g_score: 80
+culture_g_justification: "Dramaturge italien majeur, régulièrement questionné pour le Nobel, le théâtre moderne, l’identité et Six personnages en quête d’auteur."
 ---
-
 ![Image de Luigi Pirandello](https://upload.wikimedia.org/wikipedia/commons/1/17/Luigi_Pirandello_1932.jpg)
 
 ###### Questions

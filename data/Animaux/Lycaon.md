@@ -15,9 +15,9 @@ indice_6:
   - Symbole de solidarité sociale
 questions:
   - Quel canidé d'Afrique, également appelée loup peint, chasse au sein de groupes dont l'un des individus immobilise la proie qui sera dévorée?
+culture_g_score: 60
+culture_g_justification: "Canidé africain original, régulièrement mobilisé pour sa chasse en meute, son efficacité et ses enjeux de conservation."
 ---
-
-
 ![Image de Lycaon](https://upload.wikimedia.org/wikipedia/commons/a/af/African_wild_dog_%28Lycaon_pictus_pictus%29_head.jpg)
 
 ###### Questions

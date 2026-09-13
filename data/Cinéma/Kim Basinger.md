@@ -22,8 +22,9 @@ indice_6 :
   - Batman
 questions:
  - En 1986, quelle actrice et ancienne mannequin fait un strip-tease dans le film "Neuf semaines et demie"  sur "You can leave your hat on" de Joe Cocker ?
+culture_g_score: 64
+culture_g_justification: "Actrice américaine très connue, associée à Batman, L.A. Confidential et à un Oscar, mais relativement peu transversale hors du cinéma."
 ---
-
 ![Image de Kim Basinger](https://upload.wikimedia.org/wikipedia/commons/a/ae/Kim_Basinger_%282105860771%29_crop.JPG)
 
 ###### Questions

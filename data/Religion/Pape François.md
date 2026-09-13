@@ -18,8 +18,9 @@ indice_5 :
   - Encyclique Laudato Si'
 indice_6 : 
   - Synode des évêques
+culture_g_score: 84
+culture_g_justification: "Pape contemporain très médiatisé, associé à l'écologie, aux Jésuites, à l'Amérique latine et à plusieurs évolutions de l'Église."
 ---
-
 ![Image de Pape François](https://upload.wikimedia.org/wikipedia/commons/6/6c/Pape_Fran%C3%A7ois_Parlement_europ%C3%A9en_Strasbourg_25_nov_2014_15.jpg)
 
 ###### Questions

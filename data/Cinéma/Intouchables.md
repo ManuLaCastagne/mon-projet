@@ -22,9 +22,9 @@ indice_6 :
   - César du meilleur acteur
 questions:
  - Comédie sortie en 2011, je suis inspirée d'une histoire vraie racontée dans "A la vie, à la mort". Débutant par une scène où une Maserati file à vive allure dans Paris
+culture_g_score: 93
+culture_g_justification: "Immense succès francophone, très rentable par ses acteurs, son histoire vraie, son impact culturel et ses récompenses."
 ---
-
-
 ![Image de Intouchables](https://upload.wikimedia.org/wikipedia/commons/9/96/Ziemlich-beste-Freunde-Logo.svg)
 
 ###### Questions

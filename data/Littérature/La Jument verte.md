@@ -22,8 +22,9 @@ indice_6 :
   - village de Claquebue
 questions:
  - Quel roman de Marcel Aymé en 1933 décrit-il les habitants de Claquebu à travers les yeux d'un cheval ?
+culture_g_score: 60
+culture_g_justification: "Roman de Marcel Aymé connu pour sa satire rurale et son adaptation, mais moins central que ses contes et récits les plus célèbres."
 ---
-
 ![Image de La Jument verte](https://upload.wikimedia.org/wikipedia/commons/d/de/Early_Tang_-_Green_Marbled_Horse.JPG)
 
 ###### Questions

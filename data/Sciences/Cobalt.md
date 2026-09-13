@@ -16,8 +16,9 @@ indice_5:
   - Verrerie
 indice_6:
   - Pigment
+culture_g_score: 67
+culture_g_justification: "Le cobalt est un élément chimique connu, interrogé en chimie, métallurgie, batteries et géopolitique des ressources."
 ---
-
 ![Image de Cobalt](https://upload.wikimedia.org/wikipedia/commons/a/a8/Kobalt_electrolytic_and_1cm3_cube.jpg)
 
 ###### Questions

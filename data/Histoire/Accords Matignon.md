@@ -20,8 +20,9 @@ indice_6 :
   - Léon Blum
 questions:
  - Quels accords, conclus en 1936 entre le patronat français et la CGT furent complétés par des lois sociales fixant notamment la semaine de 40 heures ?
+culture_g_score: 68
+culture_g_justification: "Nom renvoyant à deux épisodes politiques et sociaux importants, les accords de 1936 et ceux de Nouvelle-Calédonie en 1988."
 ---
-
 ![Image de Accords Matignon](https://upload.wikimedia.org/wikipedia/commons/7/7f/Accords_de_Matignon_%28_7_-_8_juin_1936%29%2C_texte_complet.pdf)
 
 ###### Questions

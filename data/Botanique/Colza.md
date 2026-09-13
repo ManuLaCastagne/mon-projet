@@ -15,8 +15,9 @@ indice_6 :
   - Huile alimentaire
 questions:
  - Quelle plante fourragère à graines oléagineuses, à fleurs jaunes tient son nom du néerlandais signifiant "semence "de chou" ?
+culture_g_score: 72
+culture_g_justification: "Culture importante pour l’huile, l’agriculture, l’alimentation et les biocarburants, avec plusieurs angles de quiz."
 ---
-
 ![Image de Colza](https://upload.wikimedia.org/wikipedia/commons/7/70/Apis_mellifera_-_Brassica_napus_-_Valingu.jpg)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - Le Père Joffre
 questions:
  - Quel polytechnicien, devenu maréchal de France, a remporté la 1re victoire de la Marne, en septembre 1914?
+culture_g_score: 80
+culture_g_justification: "Joffre est fréquemment interrogé sur la Première Guerre mondiale et la bataille de la Marne, et quelques repères sur son rôle sont très réutilisables."
 ---
-
-
-
 ![Image de Joseph Joffre](https://upload.wikimedia.org/wikipedia/commons/e/ef/Joseph_Joffre_R.Melcy_1917.jpg)
 
 ###### Questions

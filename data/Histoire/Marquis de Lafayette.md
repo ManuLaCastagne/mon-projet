@@ -20,9 +20,9 @@ indice_6 :
   - intervenu dans la Révolution française
 questions:
  - En 1780... Histoire.  Quel jeune marquis français s'est embarqué pour l'Amérique afin de combattre au côté des insurgés à bord de l'"Hermione (bateau)" ?
+culture_g_score: 80
+culture_g_justification: "Héros franco-américain régulièrement interrogé à travers les deux révolutions, Washington et les débuts des États-Unis."
 ---
-
-
 ![Image de Marquis de Lafayette](https://upload.wikimedia.org/wikipedia/commons/6/6b/Galerie_Lafayette_Haussmann_Dome.jpg)
 
 ###### Questions

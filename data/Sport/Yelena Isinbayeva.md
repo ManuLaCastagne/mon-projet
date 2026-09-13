@@ -20,8 +20,9 @@ indice_6 :
   - Médaille d'or
 questions:
  - Quel athlète russe a été sacrée championne olympique du saut à la perche en 2004 et 2008?
+culture_g_score: 76
+culture_g_justification: "Légende du saut à la perche féminin et détentrice de records, souvent associée aux Jeux olympiques et à l’athlétisme."
 ---
-
 ![Image de Yelena Isinbayeva](https://upload.wikimedia.org/wikipedia/commons/5/51/Yelena_Isinbayeva_Doha_2010.jpg)
 
 ###### Questions

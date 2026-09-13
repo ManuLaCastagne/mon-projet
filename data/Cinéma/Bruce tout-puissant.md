@@ -21,8 +21,9 @@ indice_6:
   - Niagara Falls
 questions:
   - En 2003, dans quelle comédie, Jim Carrey incarne-t-il un reporter qui reçoit pour une semaine les pouvoirs de Dieu?
+culture_g_score: 68
+culture_g_justification: "Comédie très populaire de Jim Carrey, facilement interrogée via son casting et son principe fantastique, mais d’importance culturelle modérée."
 ---
-
 ![Image de Bruce tout-puissant](https://upload.wikimedia.org/wikipedia/commons/9/9c/Bruce_Almighty_logo.png)
 
 ###### Questions

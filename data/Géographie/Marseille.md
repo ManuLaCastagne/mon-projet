@@ -25,9 +25,9 @@ indice_6 :
   - Panier
 questions:
  - De 1720 à 1722, quelle ville française a perdu 40 000 de ses 75 000 habitants à cause de la peste ?
+culture_g_score: 100
+culture_g_justification: "Grande ville française incontournable, exploitable sous de nombreux angles historiques, géographiques, culturels et sportifs."
 ---
-
-
 ![Image de Marseille](https://upload.wikimedia.org/wikipedia/commons/b/ba/Marseille_Vieux_Port_Night.jpg)
 
 ![[Carte_Marseille.png]]

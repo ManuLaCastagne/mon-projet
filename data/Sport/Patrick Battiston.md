@@ -20,8 +20,9 @@ indice_6 :
   - FC Girondins de Bordeaux
 questions:
  - Lors d'un match du Mondial 1982, quel défenseur français...
+culture_g_score: 68
+culture_g_justification: "Sa collision avec Schumacher en 1982 en fait une réponse classique, même si le reste de sa carrière est moins transversal."
 ---
-
 ![Image de Patrick Battiston](https://upload.wikimedia.org/wikipedia/commons/c/c5/Pour_raviver_le_vert..._-_SIRO_-_bd6t5256130k.jpg)
 
 ###### Questions

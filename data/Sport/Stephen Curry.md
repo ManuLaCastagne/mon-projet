@@ -20,8 +20,9 @@ indice_6 :
   - Under Armour
 questions:
  - Surnommé the Baby-Faced Assassin, marqueur à 3 points qui marque très vite, je suis devenu en 2021 le meilleur  marqueur de l'histoire des Golden State Warriors, je suis…
+culture_g_score: 97
+culture_g_justification: "Superstar mondiale du basket, incontournable pour ses tirs à trois points, ses records, ses titres NBA et son influence sur le jeu moderne."
 ---
-
 ![Image de Stephen Curry](https://upload.wikimedia.org/wikipedia/commons/7/7a/Stephen_Curry_close_up.jpg)
 
 ###### Questions

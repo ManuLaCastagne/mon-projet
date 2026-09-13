@@ -20,8 +20,9 @@ indice_6 :
   - succède à Charles VIII
 questions:
  - En 1498, quel roi de France est sacré dans la cathédrale de Reims ?
+culture_g_score: 72
+culture_g_justification: "Louis XII permet d’aborder les guerres d’Italie, Anne de Bretagne, la Bretagne et la monarchie française de la Renaissance."
 ---
-
 ![Image de Louis XII](https://upload.wikimedia.org/wikipedia/commons/d/db/Voyage_G%C3%AAnes_Marot_Louis_XII.jpg)
 
 ###### Questions

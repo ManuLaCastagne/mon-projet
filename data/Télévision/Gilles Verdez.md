@@ -19,9 +19,9 @@ indice_5 :
   - Participation à Danse avec les stars
 indice_6 : 
   - Connu pour ses coups de gueule
+culture_g_score: 52
+culture_g_justification: "Chroniqueur connu du public de TPMP, mais sujet principalement limité à la télévision et à quelques faits biographiques."
 ---
-
-
 ![Image de Gilles Verdez](https://upload.wikimedia.org/wikipedia/commons/9/96/Gilles_Verdez.png)
 
 ###### Questions

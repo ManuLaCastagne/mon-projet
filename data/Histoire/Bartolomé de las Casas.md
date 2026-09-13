@@ -20,8 +20,9 @@ indice_6 :
   - La Très brève relation de la destruction des Indes
 questions:
  - En 1552, quel prélat espagnol dénonce l'oppression des conquistador en Amérique dans sa "Très brève relation de la destruction de l'empire des Indes" ?
+culture_g_score: 68
+culture_g_justification: "Figure majeure de la critique de la colonisation espagnole, exploitable en histoire, religion, droit et réflexion sur les droits des peuples."
 ---
-
 ![Image de Bartolomé de las Casas](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fray_Bartolom%C3%A9_de_las_Casas.jpg)
 
 ###### Questions

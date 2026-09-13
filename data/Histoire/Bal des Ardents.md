@@ -20,8 +20,9 @@ indice_6 :
   - survie miraculeuse du roi
 questions:
  - Quel nom porte le bal tragique qui a failli provoquer la mort du roi Charles VI ?
+culture_g_score: 40
+culture_g_justification: "Épisode pittoresque de la cour de Charles VI, mais assez rarement interrogé en dehors de l’histoire médiévale française."
 ---
-
 ![Image de Bal des Ardents](https://upload.wikimedia.org/wikipedia/commons/b/b1/Le_Bal_des_Ardents.jpg)
 
 ###### Questions

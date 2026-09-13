@@ -22,8 +22,9 @@ indice_6 :
   - vacances à la mer
 questions:
  - Film de 2002, dont la suite, "Voyez comme on danse" est sortie 16 ans plus tard, je suis adapté du roman "Vacances anglaises", de Joseph Connolly. Me déroulant principalement au Touquet, je mets en scène plusieurs couples et réunis Charlotte Rampling, Jacques Dutronc, Carole Bouquet... Comédie dans laquelle Michel Blanc, mon réalisateur, incarne un mari jaloux.
+culture_g_score: 40
+culture_g_justification: "Comédie dramatique française dotée d’un casting notable et d’un César, mais à la fréquence de quiz limitée."
 ---
-
 ![Image de Embrassez qui vous voudrez](https://upload.wikimedia.org/wikipedia/commons/8/86/Embrassez_qui_vous_voudrez.JPG)
 
 ###### Questions

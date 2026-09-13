@@ -13,8 +13,9 @@ indice_5:
   - Herbe des murailles
 indice_6:
   - Utilisée en phytothérapie pour ses propriétés diurétiques
+culture_g_score: 36
+culture_g_justification: "Ses surnoms casse-pierre et perce-muraille peuvent produire une question amusante, mais la plante demeure très spécialisée."
 ---
-
 ![Image de Pariétaire](https://upload.wikimedia.org/wikipedia/commons/a/ae/Parietaria_officinalis_kz13.jpg)
 
 ###### Questions

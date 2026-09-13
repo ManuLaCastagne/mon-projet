@@ -20,9 +20,9 @@ indice_5 :
   - créatrice de contenu sur YouTube
 indice_6 : 
   - collaboration avec des marques de mode
+culture_g_score: 27
+culture_g_justification: "Influenceuse contemporaine principalement connue d’un public jeune et spécialisé, avec une faible portée en culture générale classique."
 ---
-
-
 ![Image de Paola Locatelli](https://upload.wikimedia.org/wikipedia/commons/8/8b/Pelotas_Cathedral_%28inside%29_dome.JPG)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_6 :
   - Ragnarök
 questions:
  - Quel groupe de dieux de la mythologie scandinave séjournant dans l'Asgardr, constitue une communauté dont Odin est le chef ?
+culture_g_score: 60
+culture_g_justification: "Terme structurant de la mythologie nordique, utile pour distinguer les Ases des Vanes et identifier plusieurs dieux majeurs."
 ---
-
 ![Image de Ases](https://upload.wikimedia.org/wikipedia/commons/8/81/Roman_Coin%2C_As_of_Hadrian_%28FindID_622052%29.jpg)
 
 ###### Questions

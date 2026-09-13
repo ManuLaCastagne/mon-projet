@@ -23,8 +23,9 @@ indice_6 :
   - étoiles
 questions:
  - Nous sommes également montrées en répétition ou sur scène, notamment en train de faire des pointes. Ayant souvent servi de modèle à Edgar Degas, vêtues de tutus, nous sommes…
+culture_g_score: 40
+culture_g_justification: "Le thème des danseuses est familier en histoire de l'art, mais ce sujet générique ne renvoie pas à une référence unique incontournable."
 ---
-
 ![Image de Danseuses](https://upload.wikimedia.org/wikipedia/commons/5/55/Danseuse_ST_HIPPOLYTE_DU_FORT.jpg)
 
 ###### Questions

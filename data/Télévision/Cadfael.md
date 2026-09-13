@@ -20,8 +20,9 @@ indice_6 :
   - abbaye de Shrewsbury
 questions:
  - Dans quelle série lancée en 1994 un moine créé par Ellis Peters enquête-t-il sur des meurtres commis au 12e siècle ?
+culture_g_score: 48
+culture_g_justification: "Série policière historique appréciée et identifiable par son moine détective, mais relativement spécialisée dans l’ensemble des quiz."
 ---
-
 ![Image de Cadfael](https://upload.wikimedia.org/wikipedia/commons/e/ee/Rosa_Brother_Cadfael_2019-06-07_1277.jpg)
 
 ###### Questions

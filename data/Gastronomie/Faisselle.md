@@ -1,3 +1,8 @@
+---
+culture_g_score: 32
+culture_g_justification: "Le sujet identifié est le récipient de fromagerie, une notion concrète mais très étroite et peu interrogée."
+---
+
 
 ###### Questions 
 

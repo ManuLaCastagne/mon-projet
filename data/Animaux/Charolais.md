@@ -15,8 +15,9 @@ indice_6 :
   - Emblème de la gastronomie française
 questions:
  - Race d'un animal domestique descendant des bovins jurassiques qui peuplaient l'est de la France, je suis originaire de la vallée de l'Arconce. Me répandant dans la Nièvre, j'absorbe alors les variétés locales et obtiens en 1865 le 1er prix du concours...
+culture_g_score: 48
+culture_g_justification: "Race bovine française connue dans l’élevage et la gastronomie, mais rarement interrogée hors de ce cadre."
 ---
-
 ![Image de Charolais](https://upload.wikimedia.org/wikipedia/commons/c/cc/Charolais_cattle%2C_Sierra_Nevada%2C_Venezuela.jpg)
 
 ###### Questions

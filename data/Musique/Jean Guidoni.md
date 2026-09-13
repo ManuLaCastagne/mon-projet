@@ -20,8 +20,9 @@ indice_5:
   - chansons sombres et engagées
 indice_6:
   - collabore avec Serge Gainsbourg
+culture_g_score: 24
+culture_g_justification: "Chanteur à textes reconnu dans un cercle spécialisé, mais très peu présent dans les quiz généralistes."
 ---
-
 ![Image de Jean Guidoni](https://upload.wikimedia.org/wikipedia/commons/8/89/Michel_Guidoni_et_la_troupe_des_2_%C3%A2nes.jpeg)
 
 ###### Questions

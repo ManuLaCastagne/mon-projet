@@ -16,9 +16,9 @@ indice_5:
   - inondations saisonnières
 indice_6:
   - delta intérieur
+culture_g_score: 80
+culture_g_justification: "Cours d'eau et delta emblématiques, très rentables pour la géographie africaine, la biodiversité, le Botswana et les déserts."
 ---
-
-
 ![Image de Okavonga]()
 
 ###### Questions

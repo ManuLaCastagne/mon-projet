@@ -19,8 +19,9 @@ indice_5:
   - cinéma muet
 indice_6:
   - parisien
+culture_g_score: 96
+culture_g_justification: "Pionnier majeur du cinéma, Méliès permet de répondre à de nombreuses questions sur les débuts du septième art et les effets spéciaux."
 ---
-
 ![Image de Georges Méliès](https://upload.wikimedia.org/wikipedia/commons/a/a2/M%C3%A9li%C3%A8s_portrait_%28cropped%29.png)
 
 ###### Questions

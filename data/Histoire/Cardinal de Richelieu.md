@@ -20,8 +20,9 @@ indice_6 :
   - État centralisé
 questions:
  - Personnage historique né en 1585 à Paris, j'ai été plusieurs fois représenté en habit religieux par le peintre Philippe de Champaigne. Homme politique ayant constitué la plus grande collection française de sculptures antiques de mon époque...
+culture_g_score: 100
+culture_g_justification: "Figure majeure de la monarchie française, liée à Louis XIII, Richelieu, la centralisation, la guerre de Trente Ans et l’Académie française."
 ---
-
 ![Image de Cardinal de Richelieu](https://upload.wikimedia.org/wikipedia/commons/9/9a/Triple_Portrait_of_Cardinal_de_Richelieu_probably_1642%2C_Philippe_de_Champaigne.jpg)
 
 ###### Questions

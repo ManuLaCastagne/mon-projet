@@ -20,8 +20,9 @@ indice_6 :
   - Jean-Claude Killy
 questions:
  - Quelle station de sports d'hiver organise les championnats du monde de ski alpin sur les massifs savoyards de Solaise et Bellevarde ?
+culture_g_score: 60
+culture_g_justification: "Station française majeure du ski alpin, utile pour des questions de géographie et de compétitions, mais à portée limitée."
 ---
-
 ![Image de Val-d'Isère](https://upload.wikimedia.org/wikipedia/commons/e/e8/RGA_231.JPG)
 
 ###### Questions

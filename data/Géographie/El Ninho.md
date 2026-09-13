@@ -20,8 +20,9 @@ indice_6 :
   - Précipitations intenses
 questions:
  - Appliquée à un phénomène océanique créant des températures de surface très chaudes, j'ai inspiré un terme féminin désignant l'effet contraire. Mot que les pêcheurs sudaméricains associent...
+culture_g_score: 88
+culture_g_justification: "Phénomène climatique mondial très rentable, reliant météorologie, océans, agriculture, économie et événements extrêmes."
 ---
-
 ![Image de El Ninho](https://upload.wikimedia.org/wikipedia/commons/1/1e/Beijing_national_stadium.jpg)
 
 ###### Questions

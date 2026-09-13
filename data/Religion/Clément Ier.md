@@ -18,8 +18,9 @@ indice_5 :
   - Exil à Chersonèse
 indice_6 : 
   - Ancre
+culture_g_score: 51
+culture_g_justification: "Saint et ancien évêque de Rome associé à une épître célèbre, mais sujet assez rare et principalement ecclésiastique."
 ---
-
 ![Image de Clément Ier](https://upload.wikimedia.org/wikipedia/commons/d/d5/Clemens_Romanus.jpg)
 
 ###### Questions

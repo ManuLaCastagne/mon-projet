@@ -22,8 +22,9 @@ indice_6 :
   - Dona Flor et ses deux maris
 questions:
  - A quel écrivain brésilien, disparu en 2001, doit-on des romans comme "Bahia de tous les saints" et "Terre violente", mêlant critique sociale et folklore?
+culture_g_score: 52
+culture_g_justification: "Figure majeure de la littérature brésilienne, mais dont la présence dans les quiz généralistes reste relativement occasionnelle."
 ---
-
 ![Image de Jorge Amado](https://upload.wikimedia.org/wikipedia/commons/0/0a/Jorge_Amado%2C_gtfy.00010.jpg)
 
 ###### Questions

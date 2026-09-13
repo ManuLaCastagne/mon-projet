@@ -2,6 +2,8 @@
 tags:
   - Sciences
   - Grèce
+culture_g_score: 48
+culture_g_justification: "Solide géométrique classique permettant quelques questions de définition, de volume et de propriétés mathématiques."
 ---
 ###### Questions 
 

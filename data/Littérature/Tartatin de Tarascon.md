@@ -22,8 +22,9 @@ indice_6 :
   - aventures burlesques
 questions:
  - Quel personnage, créé par Alphonse Daudet en 1872, part chasser le lion en Afrique?
+culture_g_score: 60
+culture_g_justification: "Personnage emblématique de la littérature provençale et de l'œuvre de Daudet, régulièrement mobilisé autour de la fanfaronnade et des adaptations."
 ---
-
 ![Image de Tartatin de Tarascon]()
 
 ###### Questions

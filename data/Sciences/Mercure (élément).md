@@ -18,8 +18,9 @@ indice_5 :
   - Toxicité des vapeurs
 indice_6 : 
   - Rhombic relationships
+culture_g_score: 72
+culture_g_justification: "Élément reconnaissable par son état liquide et ses usages historiques, avec des liens à la chimie, la toxicologie et l’Antiquité."
 ---
-
 ![Image de Mercure (élément)](https://upload.wikimedia.org/wikipedia/commons/8/86/Mercury-element.jpg)
 
 ###### Questions

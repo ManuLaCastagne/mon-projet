@@ -20,8 +20,9 @@ indice_6:
   - Annecy
 questions:
   - Skieuse française ayant un père australien, qui a vécu à l'étranger, médaillée de bronze du parallèle lors des mondiaux de 2021…
+culture_g_score: 48
+culture_g_justification: "Skieuse française titrée, surtout utile pour quelques questions de ski alpin et de sport français."
 ---
-
 ![Image de Tessa Worley](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tessa_Worley_octobre_2017.jpg)
 
 ###### Questions

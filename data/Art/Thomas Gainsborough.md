@@ -21,10 +21,9 @@ indice_6:
   - aquarelle et huile sur toile
 questions:
   - En 1746, quel peintre anglais se représente avec sa femme, assis sur un banc, dans "Conversation dans un parc"?
+culture_g_score: 68
+culture_g_justification: "Gainsborough est un grand peintre britannique, utile pour les portraits, les paysages, la Royal Academy et quelques œuvres célèbres."
 ---
-
-
-
 ![Image de Thomas Gainsborough](https://upload.wikimedia.org/wikipedia/commons/3/3f/Thomas_Gainsborough_by_Thomas_Gainsborough.jpg)
 
 ###### Questions

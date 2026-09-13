@@ -20,8 +20,9 @@ indice_6 :
   - surnommée la Reine des routes
 questions:
  - Quelle voie romaine commencée vers 312 av. JC reliait Rome à Brindisi ?
+culture_g_score: 80
+culture_g_justification: "Voie romaine très célèbre, reliée à l’expansion de Rome, aux infrastructures antiques, à Spartacus et à la géographie italienne."
 ---
-
 ![Image de Via Appia](https://upload.wikimedia.org/wikipedia/commons/c/cd/Appian_Way.jpg)
 
 ###### Questions

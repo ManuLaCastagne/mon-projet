@@ -4,14 +4,13 @@ views:
     filters:
       and:
         - "!culture_g_score.isEmpty()"
+        - file.folder == "Littérature"
     order:
       - file.name
       - file.folder
       - culture_g_score
       - culture_g_justification
     sort:
-      - property: file.folder
-        direction: ASC
       - property: culture_g_score
         direction: DESC
     columnSize:

@@ -19,8 +19,9 @@ indice_5 :
   - icône des nuits parisiennes
 indice_6 : 
   - spectacles comprenant des imitations de célébrités
+culture_g_score: 64
+culture_g_justification: "Icône du cabaret parisien et de la culture transformiste, souvent questionnée en télévision et en spectacle mais moins transversalement qu'une grande figure nationale."
 ---
-
 ![Image de Michou]()
 ###### Questions
 

@@ -18,8 +18,9 @@ indice_5 :
   - Crucifixion
 indice_6 : 
   - Baptême
+culture_g_score: 100
+culture_g_justification: "Religion mondiale structurante pour l’histoire, l’art, la politique, la philosophie et la civilisation occidentale."
 ---
-
 ![Image de Christianisme](https://upload.wikimedia.org/wikipedia/commons/c/cd/G%C3%A9nie_du_christianisme%2C_tome_1_%281802%29_TP_-_HathiTrust.jpg)
 
 ###### Questions

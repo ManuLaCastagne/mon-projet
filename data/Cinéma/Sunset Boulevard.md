@@ -22,8 +22,9 @@ indice_6 :
   - 1950
 questions:
  - En 1950, quel film de Billy Wilder met en scèneGloria Swanson dans le rôle d'une star déchue du cinéma muet ?
+culture_g_score: 80
+culture_g_justification: "Grand classique de Billy Wilder, fréquemment associé à Norma Desmond, au cinéma muet, au film noir et à l’histoire des Oscars."
 ---
-
 ![Image de Sunset Boulevard](https://upload.wikimedia.org/wikipedia/commons/2/23/West_Sunset_Boulevard_in_July_2023.JPG)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - cercle arctique
 questions:
  - Quelle grande île, située au nord-est du Canada, porte un nom issu du vieux norrois signifiant le pays vert?
+culture_g_score: 80
+culture_g_justification: "Territoire très rentable à connaître pour sa géographie polaire, son statut politique, sa calotte glaciaire et son rattachement au Danemark."
 ---
-
 ![Image de Groenland](https://upload.wikimedia.org/wikipedia/commons/6/64/Kalaallit_Nunaat_low_arctic_tundra_map.svg)
 
 ![[Carte_Groenland.png]]

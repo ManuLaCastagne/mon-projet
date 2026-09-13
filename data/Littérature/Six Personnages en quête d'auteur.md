@@ -22,8 +22,9 @@ indice_6 :
   - Sicile
 questions:
  - Dans quelle pièce de Luigi Pirandello, créée en France en 1923, une troupe en pleine répétition est-elle dérangée par l'intrusion de plusieurs personnages?
+culture_g_score: 68
+culture_g_justification: "Pièce majeure de Pirandello, souvent mobilisée pour le théâtre moderne, la mise en abyme et la frontière entre fiction et réalité."
 ---
-
 ![Image de Six Personnages en quête d'auteur](https://upload.wikimedia.org/wikipedia/commons/0/0e/Recueil._%22Six_personnages_en_qu%C3%AAte_d%27auteur%22_de_Luigi_Pirandello_-_btv1b10501869x_%2848_of_50%29.jpg)
 
 ###### Questions

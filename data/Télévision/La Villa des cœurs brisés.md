@@ -19,8 +19,9 @@ indice_5 :
   - Candidats célèbres
 indice_6 : 
   - TFX
+culture_g_score: 24
+culture_g_justification: "Émission de téléréalité surtout connue d’un public spécialisé et offrant peu de réutilisations en culture générale."
 ---
-
 ![Image de La Villa des cœurs brisés](https://upload.wikimedia.org/wikipedia/commons/4/46/Ren%C3%A9_Le_Coeur_Lili%2C_1915.djvu)
 
 ###### Questions

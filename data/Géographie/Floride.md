@@ -22,8 +22,9 @@ indice_6 :
   - péninsule
 questions:
  - De quel Etat des Etats-Unis, abritant la ville d'Orlando est-il un des symboles officiels ?
+culture_g_score: 84
+culture_g_justification: "État américain très célèbre, régulièrement interrogé pour ses parcs, villes, activités spatiales, climat et culture populaire."
 ---
-
 ![Image de Floride](https://upload.wikimedia.org/wikipedia/commons/e/e9/Renault_Floride_S_%282009-10-13%29_Seite.jpg)
 
 ![[Carte_Floride.png]]

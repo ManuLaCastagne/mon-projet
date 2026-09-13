@@ -22,8 +22,9 @@ indice_6 :
   - Palmarès étoilé au César
 questions:
  - Quelle actrice franco-italienne s'est mise dans les films…
+culture_g_score: 52
+culture_g_justification: "Actrice-réalisatrice franco-italienne reconnue dans le cinéma d’auteur, elle reste cependant une référence assez spécialisée pour le grand public."
 ---
-
 ![Image de Valeria Bruni-Tedeschi](https://upload.wikimedia.org/wikipedia/commons/b/bd/Valeria_Bruni_Tedeschi_at_Berlinale_2022_%28cropped%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Ville fondée en 1878
 indice_6 : 
   - Utilisation du som comme monnaie
+culture_g_score: 40
+culture_g_justification: "Capitale d’un État peu connu, Bichkek apparaît surtout dans des questions de géographie politique ou d’Asie centrale."
 ---
-
 ![Image de Bichkek](https://upload.wikimedia.org/wikipedia/commons/6/64/Bishkek_Montage_2020.png)
 
 ![[Carte_Bichkek.png]]

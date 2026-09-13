@@ -20,8 +20,9 @@ indice_5 :
   - Angèle Van Laeken
 indice_6 : 
   - Tout oublié avec Roméo Elvis
+culture_g_score: 72
+culture_g_justification: "Angèle est une référence majeure de la pop francophone récente, régulièrement associée à Brol, ses tubes et sa famille artistique."
 ---
-
 ![Image de Angèle](https://upload.wikimedia.org/wikipedia/commons/9/9a/Ang%C3%A8le_Cannes_2019.jpg)
 
 ###### Questions

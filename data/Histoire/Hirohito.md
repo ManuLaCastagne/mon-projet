@@ -20,8 +20,9 @@ indice_6 :
   - capitulation du Japon
 questions:
  - En 1989, à quel empereur du Japon Akihito succède-t-il?
+culture_g_score: 80
+culture_g_justification: "Empereur du Japon pendant la Seconde Guerre mondiale, il relie histoire japonaise, capitulation, constitution et relations internationales."
 ---
-
 ![Image de Hirohito](https://upload.wikimedia.org/wikipedia/commons/4/44/Hirohito_in_dress_uniform.jpg)
 
 ###### Questions

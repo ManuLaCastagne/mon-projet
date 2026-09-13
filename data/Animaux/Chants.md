@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la poésie
 questions:
  - Quel mot, souvent employé au pluriel, désigne des sons mélodieux émis par les baleines pour communiquer?
+culture_g_score: 35
+culture_g_justification: "Thème transversal de communication animale, mais trop général et peu susceptible d’être une réponse précise."
 ---
-
 ![Image de Chants](https://upload.wikimedia.org/wikipedia/commons/1/11/Shout_Out_Out_Out_Out_%40_Bluesfest_%283731795135%29.jpg)
 
 ###### Questions

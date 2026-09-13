@@ -22,9 +22,9 @@ indice_6 :
   - pseudonyme littéraire
 questions:
  - Quel écrivain choisit Emile Ajar comme pseudo évoque sa mère ?
+culture_g_score: 100
+culture_g_justification: "Figure exceptionnelle de la littérature française, liée au double Goncourt, à Émile Ajar, à la guerre, au cinéma et à de nombreux romans."
 ---
-
-
 ![Image de Romain Gary](https://upload.wikimedia.org/wikipedia/commons/3/34/Romain_GARY_98A-11-81_1971_page-0001.jpg)
 
 ###### Questions

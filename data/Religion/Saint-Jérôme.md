@@ -18,8 +18,9 @@ indice_5 :
   - Moine chrétien
 indice_6 : 
   - 30 septembre
+culture_g_score: 72
+culture_g_justification: "La Vulgate fait de Saint-Jérôme une référence classique en histoire du christianisme, des langues et de la transmission biblique."
 ---
-
 ![Image de Saint-Jérôme](https://upload.wikimedia.org/wikipedia/commons/f/f4/%C3%89glise_Saint-J%C3%A9r%C3%B4me_de_Toulouse.jpg)
 
 ###### Questions

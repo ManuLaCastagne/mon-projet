@@ -20,8 +20,9 @@ indice_6 :
   - Lumière et matière
 questions:
  - En 1997, quel physicien français reçoit le prix Nobel pour ses travaux sur le refroidissement et le piégeage d'atomes par laser?
+culture_g_score: 52
+culture_g_justification: "Nobel français de physique, Cohen-Tannoudji est important en physique quantique mais reste peu connu du grand public."
 ---
-
 ![Image de Claude Cohen-Tannoudji](https://upload.wikimedia.org/wikipedia/commons/7/73/COHEN_TANNOUDJI_Claude-24x30-1999.jpg)
 
 ###### Questions

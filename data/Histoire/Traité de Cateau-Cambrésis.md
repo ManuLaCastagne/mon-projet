@@ -18,8 +18,9 @@ indice_5:
   - Henri II
 indice_6:
   - paix européenne
+culture_g_score: 44
+culture_g_justification: "Accord significatif de la Renaissance, surtout utile pour les guerres d’Italie et la diplomatie franco-espagnole."
 ---
-
 ![Image de Traité de Cateau-Cambrésis](https://upload.wikimedia.org/wikipedia/commons/8/8c/Trait%C3%A9_du_Cateau-Cambresis%2C_3_avril_1559.djvu)
 
 ###### Questions

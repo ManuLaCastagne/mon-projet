@@ -20,8 +20,9 @@ indice_6 :
   - double médaillé d'or
 questions:
  - J'ai été élu champion des champions français par le quotidien "L'Equipe" en 1988. Le dernier indice était  ayant occupé le poste de ministre des Sports de 2002 à 2007.
+culture_g_score: 63
+culture_g_justification: "Double champion olympique et ministre des Sports, Lamour relie escrime, Jeux olympiques et politique française."
 ---
-
 ![Image de Jean-François Lamour](https://upload.wikimedia.org/wikipedia/commons/2/24/Jean-Fran%C3%A7ois_Lamour_2010.jpg)
 
 ###### Questions

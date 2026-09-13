@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée dans la protection des côtes contre l'érosion
 questions:
  - Plante sous-marine dont les feuilles peuvent atteindre 1m20, je forme de vastes herbiers et suis aujourd'hui menacée par une algue tropicale. Indispensable à l'écosystème méditerranéen...
+culture_g_score: 64
+culture_g_justification: "Espèce emblématique de la Méditerranée et des écosystèmes marins, régulièrement mobilisable dans les questions environnementales."
 ---
-
 ![Image de Posidonie](https://upload.wikimedia.org/wikipedia/commons/5/50/Posidonia_oceanica_%28L%29.jpg)
 
 ###### Questions

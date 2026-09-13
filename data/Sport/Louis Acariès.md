@@ -20,8 +20,9 @@ indice_6:
   - France
 questions:
   - En France, à quelle famille associe-t-on Louis, ancien champion d'Europe dans les années 80 et Michel, promoteur de combats?
+culture_g_score: 28
+culture_g_justification: "Ancien boxeur français aux titres européens, mais sa présence dans les quiz généralistes reste très limitée."
 ---
-
 ![Image de Louis Acariès](https://upload.wikimedia.org/wikipedia/commons/f/f6/Ancistrus_sp.%2C_Glyptoperichthys_gibbiceps%2C_and_Hypancistrus_sp.%3F_%28Teffe%2C_Brazil%2C_August-September_1865%3B_5_fish%29.jpg)
 
 ###### Questions

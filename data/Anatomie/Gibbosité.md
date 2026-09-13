@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Grèce
+culture_g_score: 31
+culture_g_justification: "Terme médical précis et largement concurrencé par cyphose, donc rarement prioritaire dans un entraînement généraliste."
 ---
 ###### Questions 
 

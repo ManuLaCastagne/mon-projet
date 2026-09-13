@@ -20,8 +20,9 @@ indice_6 :
   - frère jumeau supposé du roi
 questions:
  - Au XVIIe, comment a-t-on appelé le mystérieux prisonnier au visage dissimulé, incarcéré à Pignerol ?
+culture_g_score: 72
+culture_g_justification: "Mystère historique et littéraire très populaire, généralement abordé autour de Louis XIV, de la Bastille et des hypothèses d’identité."
 ---
-
 ![Image de Masque de fer](https://upload.wikimedia.org/wikipedia/commons/7/74/Le_Masque_de_fer_-_Edmond_Ladoucette_%28affiche%29.jpg)
 
 ###### Questions

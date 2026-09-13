@@ -15,8 +15,9 @@ indice_6 :
   - Cuisine scandinave
 questions:
  - Poisson de l'ordre des clupéiformes, j'ai été pêché dans la Préhistoire, je suis d'une importance économique au Moyen-Âge où j'ai été recherché les jours maigres.
+culture_g_score: 52
+culture_g_justification: "Poisson important pour l'histoire maritime et l'alimentation, avec quelques angles biologiques et économiques classiques."
 ---
-
 ![Image de Hareng](https://upload.wikimedia.org/wikipedia/commons/c/c2/Larves_de_hareng_%28Clupea_harengus%29_%28Ifremer_00728-83996_-_37122%29.jpg)
 
 ###### Questions

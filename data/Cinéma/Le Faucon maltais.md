@@ -22,8 +22,9 @@ indice_6 :
   - détective privé
 questions:
  - Dans quel film de John Huston plusieurs chasseurs...
+culture_g_score: 92
+culture_g_justification: "Œuvre fondatrice du film noir, extrêmement structurante grâce à Huston, Bogart, Hammett, Sam Spade et l’histoire des genres cinématographiques."
 ---
-
 ![Image de Le Faucon maltais](https://upload.wikimedia.org/wikipedia/commons/b/b7/Recueil._%22Le_faucon_maltais%22_film_de_John_Huston_-_btv1b105226783_%2803_of_30%29.jpg)
 
 ###### Questions

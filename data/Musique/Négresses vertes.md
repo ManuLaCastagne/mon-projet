@@ -22,8 +22,9 @@ indice_6:
   - fusion rock et musique du monde
 questions:
   - En 1991, à quel groupe français  doit-on la chanson "Sous le soleil de Bodega" figurant sur l'album "Famille nombreuse" ?
+culture_g_score: 51
+culture_g_justification: "Groupe important de la scène alternative française, identifiable par son mélange de styles et quelques titres, mais assez spécialisé."
 ---
-
 ![Image de Négresses vertes](https://upload.wikimedia.org/wikipedia/commons/4/42/Festival_des_Vieilles_Charrues_2018_-_Les_N%C3%A9gresses_vertes_-_058.jpg)
 
 ###### Questions

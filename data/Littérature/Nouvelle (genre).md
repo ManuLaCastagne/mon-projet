@@ -22,8 +22,9 @@ indice_6 :
   - Edgar Allan Poe pionnier du genre
 questions:
  - Genre d'écrit faisant l'objet d'un prix annuel de l'Académie française attribué pour la 1re fois en 1971 à Daniel Boulanger, je suis apparu dans la littérature française au XVe siècle.
+culture_g_score: 84
+culture_g_justification: "Genre littéraire fondamental, permettant de relier de nombreux auteurs, œuvres, formes narratives, supports et périodes."
 ---
-
 ![Image de Nouvelle (genre)](https://upload.wikimedia.org/wikipedia/commons/a/a9/Trois_Amours_short_story_by_Adolphe_Duhart.png)
 
 ###### Questions

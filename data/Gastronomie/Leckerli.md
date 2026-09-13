@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Suisse
+culture_g_score: 20
+culture_g_justification: "Biscuit bâlois très local, dont la connaissance apporte peu de bénéfice dans un entraînement généraliste."
 ---
 ###### Questions 
 

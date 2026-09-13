@@ -20,8 +20,9 @@ indice_6 :
   - Le Cercle
 questions:
  - En 2002, quel romancier se montre nu à la télévision, tout comme ses invités, lors de son émission "Des livres et moi"?
+culture_g_score: 67
+culture_g_justification: "Écrivain médiatique connu pour 99 Francs et ses activités de critique, mais sa fréquence reste inférieure à celle des grandes figures littéraires."
 ---
-
 ![Image de Frédéric Beigbeder](https://upload.wikimedia.org/wikipedia/commons/7/73/Fr%C3%A9d%C3%A9ric-Beigbeder.jpg)
 
 ###### Questions

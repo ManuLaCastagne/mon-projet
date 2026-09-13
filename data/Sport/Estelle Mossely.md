@@ -21,9 +21,9 @@ indice_6:
   - Jeux Olympiques
 questions:
   - Compatriote Emma Gongora. 1re française devenue championne olympique de boxe en 2016, la même année que mon mari Tony Yoka, je suis...
+culture_g_score: 44
+culture_g_justification: "Première championne olympique française de boxe, elle fournit une question identifiable mais peu de réutilisations indépendantes."
 ---
-
-
 ![Image de Estelle Mossely](https://upload.wikimedia.org/wikipedia/commons/a/a2/Estelle_Mossely%2C_Championne_Olympique_de_Boxe_-_Zack_en_Roue_Libre_avec_Estelle_Mossely_%28S07E9%29.jpg)
 
 ###### Questions

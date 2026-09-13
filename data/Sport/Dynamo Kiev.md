@@ -20,8 +20,9 @@ indice_6 :
   - Couleurs bleu et blanc
 questions:
  - Des vainqueurs de coupes en 1975 puis en 1986 sous la conduite de mon entraîneur emblématique Valeri Lobanovski, j'ai eu pour joueurs Oleg Blokhine et Andreï...
+culture_g_score: 72
+culture_g_justification: "Club historique du football soviétique et ukrainien, il ouvre des questions sur Lobanovski, l’URSS, l’Europe et le football."
 ---
-
 ![Image de Dynamo Kiev](https://upload.wikimedia.org/wikipedia/commons/e/e2/Covers_of_the_SU_-_Shakhtyor_Stalino_v_Dynamo_Kiev_1960.jpg)
 
 ###### Questions

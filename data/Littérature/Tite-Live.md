@@ -18,8 +18,9 @@ indice_5 :
   - Auguste
 indice_6 : 
   - Patavium
+culture_g_score: 84
+culture_g_justification: "Historien fondateur pour la connaissance légendaire de Rome, incontournable sur l'Antiquité, les origines romaines, l'historiographie et l'influence politique."
 ---
-
 ![Image de Tite-Live](https://upload.wikimedia.org/wikipedia/commons/7/71/Titus_Livius.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Plaza de la Revolución
 indice_6 : 
   - Volcan Masaya
+culture_g_score: 60
+culture_g_justification: "Capitale d’Amérique centrale utile pour le Nicaragua, le séisme de 1972, le lac Managua et l’histoire politique régionale."
 ---
-
 ![Image de Managua](https://upload.wikimedia.org/wikipedia/commons/c/cf/Avenida_Bolivar_A_Chavez.jpg)
 
 ![[Carte_Managua.png]]

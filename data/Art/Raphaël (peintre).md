@@ -23,8 +23,9 @@ indice_6 :
   - fresques
 questions:
  - De quel célèbre peintre italien de la Renaissance, auteur de "La Belle Jardinière", Eugène Delacroix disait-il qu'il conversait avec les dieux ?
+culture_g_score: 100
+culture_g_justification: "Raphaël est l’un des maîtres incontournables de la Haute Renaissance, avec de multiples œuvres et liens vers l’histoire de l’art, le Vatican et l’Italie."
 ---
-
 ![Image de Raphaël (peintre)](https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
 
 ###### Questions

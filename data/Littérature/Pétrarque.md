@@ -22,8 +22,9 @@ indice_6 :
   - 14ème siècle
 questions:
  - Dans les "Sonnets" composés au XIVe siècle, quel poète italien pleure la mort de sa muse Laure et regrette  sa beauté disparue?
+culture_g_score: 76
+culture_g_justification: "Poète majeur de l’humanisme et de la Renaissance, associé à Laura, au Canzoniere et à l’influence européenne du pétrarquisme."
 ---
-
 ![Image de Pétrarque](https://upload.wikimedia.org/wikipedia/commons/5/5f/Statue_of_Francesco_Petrarca-_Uffizi_Gallery.jpg)
 
 ###### Questions

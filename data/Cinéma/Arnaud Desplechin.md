@@ -22,8 +22,9 @@ indice_6 :
   - une lumière (2019)
 questions:
  - A quel cinéaste français doit-on des films comme "Rois et reines", "Un conte de Noël" et "Roubaix, une lumière" en 2019?
+culture_g_score: 51
+culture_g_justification: "Cinéaste français important du cinéma d’auteur, mais relativement spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Arnaud Desplechin](https://upload.wikimedia.org/wikipedia/commons/8/88/ARNAUD_DESPLECHIN_CESAR_2020.jpg)
 
 ###### Questions

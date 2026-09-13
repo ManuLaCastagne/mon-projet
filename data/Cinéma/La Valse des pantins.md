@@ -20,8 +20,9 @@ indice_5 :
   - Jerry Lewis
 indice_6 : 
   - satire sociale
+culture_g_score: 60
+culture_g_justification: "Film important de Scorsese et de la filmographie de De Niro, offrant plusieurs repères cinématographiques mais restant relativement spécialisé."
 ---
-
 ![Image de La Valse des pantins](https://upload.wikimedia.org/wikipedia/commons/5/52/The_King_of_Comedy_Visits_Shanghai_-_%27Chaplin%27_at_the_docks.jpg)
 
 ###### Questions

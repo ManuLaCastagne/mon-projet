@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de transformation
 questions:
  - Quel amphibien de la famille des bufonidés, au corps massif et à la peau verruqueuse, profite des eaux marécageuses pour s'accoupler?
+culture_g_score: 64
+culture_g_justification: "Amphibien très connu, lié aux venins, aux contes et à la culture populaire, mais moins transversal que les grandes figures animales."
 ---
-
 ![Image de Crapaud](https://upload.wikimedia.org/wikipedia/commons/6/67/Route_13_in_Crapaud%2C_Prince_Edward_Island.jpg)
 
 ###### Questions

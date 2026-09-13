@@ -22,8 +22,9 @@ indice_6 :
   - Chanson 'Money for Nothing'
 questions:
  - En 1985, quel groupe britannique est fondé par Mark et Davis Knopfler ?
+culture_g_score: 84
+culture_g_justification: "Groupe de rock mondialement connu, régulièrement interrogé via Mark Knopfler, «Brothers in Arms», «Money for Nothing» et ses succès."
 ---
-
 ![Image de Dire Straits](https://upload.wikimedia.org/wikipedia/commons/a/a2/Dire_straits_22101985_23_800.jpg)
 
 ###### Questions

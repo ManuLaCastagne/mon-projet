@@ -22,8 +22,9 @@ indice_6 :
   - On va tous mourir
 questions:
  - Chanson française sortie en 1986, je figure dans la bande originale des films "Ma Saison préférée" d'André Téchiné, "Comme elle respire" de Pierre Salvadori. Ecrite en hommage à un personnage de BD, un chômeur au gros nez portant une casquette, je suis un des succès de l'album "No Comprendo" des Rita Mitsouko. Tube dont le titre est un prénom qui rime avec "dis-moi oui".
+culture_g_score: 27
+culture_g_justification: "« Andy » renvoie principalement à quelques références musicales ponctuelles et ne constitue pas une connaissance prioritaire."
 ---
-
 ![Image de Andy](https://upload.wikimedia.org/wikipedia/commons/0/09/Andy_Thomson_Italy.jpg)
 
 ###### Questions

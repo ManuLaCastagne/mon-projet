@@ -20,8 +20,9 @@ indice_6 :
   - échec
 questions:
  - Que par 3 routes traversant un marécage, je comprenais Playa Larga et Playa Giron, où arrivèrent des troupes d'exilés venus mettre fin à une révolution. Site de l'île de Géographie/Cuba...
+culture_g_score: 80
+culture_g_justification: "Échec militaire emblématique de la guerre froide, la Baie des Cochons relie Cuba, Kennedy, Castro et les tensions américano-soviétiques."
 ---
-
 ![Image de Baie des Cochons](https://upload.wikimedia.org/wikipedia/commons/b/b4/Baie_des_Cochons_locator_map.svg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Architecture gothique
 questions:
  - Dans quelle commune de la Haute-Loire, George Cziffra a-t-il créé un festival consacré à la musique sacrée ?
+culture_g_score: 40
+culture_g_justification: "Village auvergnat connu pour son abbaye et son festival musical, mais sujet principalement patrimonial et régional."
 ---
-
 ![Image de Chaise-Dieu](https://upload.wikimedia.org/wikipedia/commons/b/b5/La-Chaise-Dieu_JPG0_%287%29.JPG)
 
 ![[Carte_Chaise-Dieu.png]]

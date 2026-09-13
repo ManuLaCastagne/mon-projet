@@ -22,9 +22,9 @@ indice_6 :
   - compositeur français
 questions:
  - Qui a arrangé la Marseillaise en 1820 ?
+culture_g_score: 80
+culture_g_justification: "Compositeur majeur du romantisme français, Berlioz est interrogé sur la Symphonie fantastique, l’orchestration, la littérature et la direction."
 ---
-
-
 ![Image de Hector Berlioz](https://upload.wikimedia.org/wikipedia/commons/2/28/Berlioz_Petit_BNF_Gallica.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Les Temps Modernes
 questions:
  - Je suis devenu célèbre dans les années 1910 en créant un personnage de vagabond sensible et maladroit. Britannique auquel on doit les films "Le Kid", "Les Temps modernes" et "Le Dictateur", je suis…
+culture_g_score: 100
+culture_g_justification: "Figure universelle du cinéma, ouvrant sur le muet, la réalisation, les œuvres, la politique, Hollywood et l’histoire culturelle."
 ---
-
 ![Image de Charlie Chaplin](https://upload.wikimedia.org/wikipedia/commons/f/fe/Charlie_Chaplin_in_unknown_year.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - lutte contre les addictions
 questions:
  - Chanteuse, auteure et compositrice britannique née en 1983, je signe mon 1er contrat à 16 ans et sors 4 ans plus tard mon 1er album intitulé "Frank" en hommage à Sinatra.  Récompensée en Grande-Bretagne pour "Stronger than me", en 2006 je publie...
+culture_g_score: 84
+culture_g_justification: "Amy Winehouse est une icône musicale contemporaine régulièrement questionnée par ses albums, ses récompenses et sa disparition précoce."
 ---
-
-
 ![Image de Amy Winehouse](https://upload.wikimedia.org/wikipedia/commons/c/cf/Amy_Winehouse_f4962007_crop.jpg)
 
 ###### Questions

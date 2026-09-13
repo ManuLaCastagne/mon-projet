@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de sagesse dans certaines cultures polynésiennes
 questions:
  - Quel requin du genre Sphyrna porte d'énormes expansions latérales...
+culture_g_score: 64
+culture_g_justification: "Requin immédiatement identifiable et utile pour des questions sur l’évolution, les sens animaux et la conservation."
 ---
-
 ![Image de Requin-marteau](https://upload.wikimedia.org/wikipedia/commons/0/01/Sphyrna_mokarran_at_georgia.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Animal de légende biblique
 questions:
  - Quel animal rare proche de la marmotte peut-on rencontrer dans le parc du mont Kenya ?
+culture_g_score: 48
+culture_g_justification: "Petit mammifère intéressant pour l’évolution et ses adaptations, mais encore peu connu du grand public francophone."
 ---
-
 ![Image de Daman](https://upload.wikimedia.org/wikipedia/commons/4/4e/Daman_banner_mountain_view.png)
 
 ###### Questions

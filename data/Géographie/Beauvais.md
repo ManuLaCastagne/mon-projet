@@ -24,8 +24,9 @@ indice_6 :
   - Parc Marcel Dassault
 questions:
  - Dans quelle ville de l'Oise trouve-t-on la cathédrale Saint-Pierre, qui a le plus haut cœur gothique au monde?
+culture_g_score: 60
+culture_g_justification: "Ville française utile pour sa cathédrale, sa manufacture de tapisseries et son aéroport, mais d’importance intermédiaire."
 ---
-
 ![Image de Beauvais](https://upload.wikimedia.org/wikipedia/commons/a/a9/Beauvais_Cathedral_Exterior_1%2C_Picardy%2C_France_-_Diliff.jpg)
 
 ![[Carte_Beauvais.png]]

@@ -20,9 +20,9 @@ indice_5:
   - Les années 70 en France
 indice_6:
   - Saturnin dans *Tous les matins du monde*
+culture_g_score: 56
+culture_g_justification: "Acteur français très estimé et associé à quelques rôles cultes, mais rarement au centre des questions généralistes."
 ---
-
-
 ![Image de Jean-Pierre Marielle](https://upload.wikimedia.org/wikipedia/commons/8/82/Salon_du_livre_de_Paris_2011_-_Jean-Pierre_Marielle.jpg)
 
 ###### Questions

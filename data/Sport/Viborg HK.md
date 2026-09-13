@@ -20,8 +20,9 @@ indice_6 :
   - club danois
 questions:
  - En 2006, quel club danois remporte avec Valérie Nicolas le 1er de ses 3 titres de champion d'Europe ?
+culture_g_score: 24
+culture_g_justification: "Club féminin reconnu dans le handball européen, mais trop spécialisé et rarement interrogé dans les quiz généralistes."
 ---
-
 ![Image de Viborg HK](https://upload.wikimedia.org/wikipedia/commons/9/99/Viborg_HK_DM_vinder.jpg)
 
 ###### Questions

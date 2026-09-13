@@ -23,8 +23,9 @@ indice_6 :
   - exploration de la psychanalyse
 questions:
  - Epouse de l'historien d'art Robert Goldwater, je m'installe à New York et me consacre à la sculpture à partir de 1949. Ayant travaillé sur la féminité et la famille, thèmes que l'on retrouve dans la série d'oeuvres en forme d'araignées géantes...
+culture_g_score: 71
+culture_g_justification: "Artiste contemporaine majeure, surtout rentable grâce à Maman, au féminisme, à la sculpture et aux institutions artistiques internationales."
 ---
-
 ![Image de Louise Bourgeois](https://upload.wikimedia.org/wikipedia/commons/3/3d/Oliver_Mark_-_Louise_Bourgeois%2C_New_York_1996.jpg)
 
 ###### Questions

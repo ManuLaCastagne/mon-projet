@@ -20,8 +20,9 @@ indice_6 :
   - 1894-1921
 questions:
  - Dans les années 1920, quel boxeur français…
+culture_g_score: 60
+culture_g_justification: "Boxeur français historique, utile pour des questions sur la boxe, la Première Guerre mondiale, Jack Dempsey et les débuts de la radio sportive."
 ---
-
 ![Image de Georges Carpentier](https://upload.wikimedia.org/wikipedia/commons/2/29/Georges_Carpentier_1914.jpg)
 
 ###### Questions

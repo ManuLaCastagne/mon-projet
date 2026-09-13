@@ -22,8 +22,9 @@ indice_6 :
   - Seconde Guerre mondiale
 questions:
  - En 1969, dans quel de Jean-Pierre Melville Lino Ventura, Paul Meurisse et Simone Signoret oeuvrent-ils dans la Résistance?
+culture_g_score: 84
+culture_g_justification: "Chef-d'œuvre du cinéma français et référence sur la Résistance, reliant Melville, Joseph Kessel, la Seconde Guerre mondiale et l'histoire nationale."
 ---
-
 ![Image de L'Armée des ombres](https://upload.wikimedia.org/wikipedia/commons/a/a1/Dirty_Girl_2013_%289439306410%29.jpg)
 
 ###### Questions

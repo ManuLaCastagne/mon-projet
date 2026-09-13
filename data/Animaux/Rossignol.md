@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de poésie
 questions:
  - Quel passereau brun clair, de la famille des turdidés, est renommé pour son chant crépusculaire ?
+culture_g_score: 71
+culture_g_justification: "Oiseau culturellement très présent dans la poésie, la musique et les symboles du chant, malgré une portée zoologique limitée."
 ---
-
-
 ![Image de Rossignol](https://upload.wikimedia.org/wikipedia/commons/6/6d/Andr%C3%A9_Rossignol_dans_son_avion.jpg)
 
 ###### Questions

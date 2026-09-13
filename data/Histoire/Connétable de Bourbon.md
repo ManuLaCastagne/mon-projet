@@ -20,8 +20,9 @@ indice_6 :
   - siège de Rome
 questions:
  - Sous quel nom connaît-on aussi Charles III, 8e duc de Bourbon, tué lors du siège de Rome en 1527?
+culture_g_score: 60
+culture_g_justification: "Noble de la Renaissance associé à François Ier, Charles Quint et au sac de Rome, mais moins fréquent que les grands souverains de son époque."
 ---
-
 ![Image de Connétable de Bourbon](https://upload.wikimedia.org/wikipedia/commons/1/1c/BOYER_382_-_Le_conn%C3%A9table_de_Bourbon.tif)
 
 ###### Questions

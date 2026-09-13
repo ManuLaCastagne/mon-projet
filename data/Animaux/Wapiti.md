@@ -16,8 +16,9 @@ indice_6 :
 questions:
  - Quel grand cerf des plaines d'Amérique du Nord, très roche du cerf européen, est désigné par un terme d'origine algonquienne?
  - Herbivore dont 235 individus furent introduits au parc national de Banff de 1918 à 1920 en provenance du parc national de Yellowstone, je suis caractérisé par un pelage brun et une croupe de teinte crème.  Pesant généralement de 225 à 350 kg selon mon sexe, je porte des bois pouvant peser jusqu'à 18 kg...
+culture_g_score: 60
+culture_g_justification: "Le wapiti est un grand cervidé classique des questions sur l'Amérique du Nord, la faune et les introductions d'espèces, sans être incontournable."
 ---
-
 ![Image de Wapiti](https://upload.wikimedia.org/wikipedia/commons/4/4d/Cervus_canadensis_nannodes_at_Tomales_Point.jpg)
 
 ###### Questions

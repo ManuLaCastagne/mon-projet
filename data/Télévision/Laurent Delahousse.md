@@ -18,8 +18,9 @@ indice_5 :
   - a co-présenté Un jour
 indice_6 : 
   - un destin
+culture_g_score: 64
+culture_g_justification: "Visage important de l’information télévisée française, principalement mobilisé par ses journaux et ses émissions d’interview."
 ---
-
 ![Image de Laurent Delahousse](https://upload.wikimedia.org/wikipedia/commons/9/97/Portrait_de_Laurent_Delahousse.jpg)
 
 ###### Questions

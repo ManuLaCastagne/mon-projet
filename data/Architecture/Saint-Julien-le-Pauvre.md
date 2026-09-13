@@ -23,8 +23,9 @@ indice_6 :
   - Arbre de Jessé
 questions:
  - Quelle ancienne basilique mérovingienne est une église parisienne qui a été restaurée en 1889 et affectée au catholicisme oriental de rite...
+culture_g_score: 39
+culture_g_justification: "Église parisienne ancienne et singulière, mais trop locale et peu interrogée pour constituer une priorité d'apprentissage."
 ---
-
 ![Image de Saint-Julien-le-Pauvre](https://upload.wikimedia.org/wikipedia/commons/1/18/Saint_Julien_le_Pauvre_02.jpg)
 
 ###### Questions

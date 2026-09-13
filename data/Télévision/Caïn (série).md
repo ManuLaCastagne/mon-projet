@@ -20,8 +20,9 @@ indice_6 :
   - Charlotte
 questions:
  - Quel personnage d'une série TV sur la 2 est un policier paraplégique, cynique et séducteur ?
+culture_g_score: 44
+culture_g_justification: "Série policière française relativement connue, mais rarement prioritaire face aux grandes franchises télévisuelles."
 ---
-
 ![Image de Caïn (série)](https://upload.wikimedia.org/wikipedia/commons/b/b3/Ca%C3%AFn_venant_de_tuer_son_fr%C3%A8re_Abel_by_Henri_Vidal%2C_Tuileries_Garden%2C_18_July_2017.jpg)
 
 ###### Questions

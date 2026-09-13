@@ -22,8 +22,9 @@ indice_6 :
   - tube de l'été
 questions:
  - Du chef d'orchestre cubain Perez Prado. J'ai été doté de paroles dans lesquelles un séducteur cite les filles, Monica, Erica, Rita ou Tina, avec qui il flirte. Succès de Lou Bega...
+culture_g_score: 77
+culture_g_justification: "Tube mondial immédiatement reconnaissable, relié à Lou Bega, Pérez Prado et au mambo, même si ses angles culturels restent concentrés."
 ---
-
 ![Image de Mambo No 5](https://upload.wikimedia.org/wikipedia/commons/9/9e/Women_Astronauts_%28Nando_Mambo%2C_2016%29.jpg)
 
 ###### Questions

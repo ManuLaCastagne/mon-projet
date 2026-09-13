@@ -20,8 +20,9 @@ indice_6 :
   - situé à Paris
 questions:
  - A Paris, quel édifice orné d'un péristyle devient à partir de 1828 le siège des transactions financières ?
+culture_g_score: 51
+culture_g_justification: "Le Palais Brongniart est un repère de l’histoire économique et architecturale de Paris, mais sa fréquence reste modérée."
 ---
-
 ![Image de Palais Brogniart](https://upload.wikimedia.org/wikipedia/commons/5/5e/Ach%C3%A8vement_du_palais_de_la_Bourse_et_du_Tribunal_de_commerce_de_Paris%2C_1825%2C_ND4166.jpg)
 
 ###### Questions

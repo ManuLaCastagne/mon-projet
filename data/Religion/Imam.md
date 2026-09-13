@@ -20,8 +20,9 @@ indice_6 :
   - Leadership religieux
 questions:
  - Je remplis une fonction qui, chez les sunnites, peut être exercée par tout musulman sans considération de rang social. Personnage chargé de conduire la prière...
+culture_g_score: 72
+culture_g_justification: "Terme islamique courant et utile pour distinguer fonctions religieuses, courants de l’islam et histoire politique."
 ---
-
 ![Image de Imam](https://upload.wikimedia.org/wikipedia/commons/5/59/Imam_Reza_shrine.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Sedan en 1870
 questions:
  - Combien de présidents la IIe République a-t-elle comptés?
+culture_g_score: 80
+culture_g_justification: "Napoléon III est une figure très rentable pour l’histoire de France, la Deuxième République, le Second Empire et les relations européennes."
 ---
-
 ![Image de Seul (Louis Napoléon Bonaparte)](https://upload.wikimedia.org/wikipedia/commons/3/31/Bonaparte_-_R%C3%A9ponse_de_Louis-Napol%C3%A9on_Bonaparte_%C3%A0_M_Lamartine%2C_1848.djvu)
 
 ###### Questions

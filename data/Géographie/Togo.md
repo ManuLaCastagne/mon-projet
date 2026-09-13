@@ -24,8 +24,9 @@ indice_6 :
   - chaîne de l'Atakora
 questions:
  - Quel Etat d'Afrique occidentale, a pour capitale Lomé ?
+culture_g_score: 60
+culture_g_justification: "Le Togo est un pays africain régulièrement mobilisable pour sa capitale, sa géographie et son histoire de la décolonisation."
 ---
-
 ![Image de Togo](https://upload.wikimedia.org/wikipedia/commons/b/b5/INSTITUT_DE_RECHERCHES_DU_TOGO_-_Annuaire_Hydrologique_du_Togo_de_1961.pdf)
 
 ![[Carte_Togo.png]]

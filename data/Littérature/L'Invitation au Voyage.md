@@ -22,8 +22,9 @@ indice_6 :
   - évasion spirituelle
 questions:
  - Poème de Charles Baudelaire dans lequel l'auteur évoque un pays rêvé où "tout n'est qu'ordre et beauté, Luxe, calme et volupté", je suis...
+culture_g_score: 77
+culture_g_justification: "Poème très connu de Baudelaire, régulièrement interrogé par son titre, Les Fleurs du mal et ses thèmes de voyage idéal."
 ---
-
 ![Image de L'Invitation au Voyage](https://upload.wikimedia.org/wikipedia/commons/5/5a/L%27invitation_au_voyage_%281927%29.webm)
 
 ###### Questions

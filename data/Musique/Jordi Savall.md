@@ -22,8 +22,9 @@ indice_6 :
   - Compositeur et chef d'orchestre
 questions:
  - Quel gambiste espagnol se produisait avec sa femme et ses enfants chanteurs ?
+culture_g_score: 47
+culture_g_justification: "Musicien important de la musique ancienne et de la viole de gambe, mais relativement spécialisé dans les quiz généralistes."
 ---
-
 ![Image de Jordi Savall](https://upload.wikimedia.org/wikipedia/commons/f/f0/Jordi_Savall_a_Medalla_Or_Generalitat_2014_6946.jpg)
 
 ###### Questions

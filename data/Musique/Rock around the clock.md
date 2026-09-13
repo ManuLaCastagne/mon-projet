@@ -22,8 +22,9 @@ indice_6 :
   - douze mesures
 questions:
  - Dans quel tube des Comets  Bill Haley égraine-t-il les heures passées à danser le rock ?
+culture_g_score: 97
+culture_g_justification: "Titre fondateur et incontournable de l'histoire du rock'n'roll, relié à Bill Haley, au cinéma, aux classements et à la culture américaine."
 ---
-
 ![Image de Rock around the clock](https://upload.wikimedia.org/wikipedia/commons/a/a3/Rock_Around_the_Clock.jpg)
 
 ###### Questions

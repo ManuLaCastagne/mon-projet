@@ -22,8 +22,9 @@ indice_6 :
   - Pelléas et Mélisande
 questions:
  - Quel compositeur français dédie à sa fille en 1908, appelée affectueusement Chouchou, la suite de pièces pour piano "Children's corner"?
+culture_g_score: 100
+culture_g_justification: "Compositeur français fondamental, central pour l’impressionnisme musical, plusieurs œuvres célèbres, la modernité harmonique et l’histoire de la musique."
 ---
-
 ![Image de Claude Debussy](https://upload.wikimedia.org/wikipedia/commons/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg)
 
 ###### Questions

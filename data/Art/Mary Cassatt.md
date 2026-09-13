@@ -20,8 +20,9 @@ indice_5:
   - Scènes de vie quotidienne
 indice_6:
   - Influence du Japonisme
+culture_g_score: 71
+culture_g_justification: "Figure importante de l’impressionnisme, rentable pour les femmes artistes, Degas, la gravure et les scènes de la vie quotidienne."
 ---
-
 ![Image de Mary Cassatt](https://upload.wikimedia.org/wikipedia/commons/7/72/Mary_Cassatt_-_The_Child%27s_Bath_-_Google_Art_Project.jpg)
 
 ###### Questions

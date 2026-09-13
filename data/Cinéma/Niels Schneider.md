@@ -20,8 +20,9 @@ indice_5 :
   - frères acteurs Guillaume et Aliocha
 indice_6 : 
   - film Diamant Noir
+culture_g_score: 32
+culture_g_justification: "Acteur franco-canadien remarqué dans le cinéma québécois et français, mais encore trop spécialisé pour être fréquent dans les quiz généralistes."
 ---
-
 ![Image de Niels Schneider](https://upload.wikimedia.org/wikipedia/commons/2/2e/Niels_Schneider_2017.jpg)
 
 ###### Questions

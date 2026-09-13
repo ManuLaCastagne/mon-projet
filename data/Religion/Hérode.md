@@ -18,8 +18,9 @@ indice_5 :
   - Jésus de Nazareth
 indice_6 : 
   - Bethléem
+culture_g_score: 80
+culture_g_justification: "Roi de Judée lié à Jésus, au massacre des Innocents, au Temple de Jérusalem et à la domination romaine."
 ---
-
 ![Image de Hérode](https://upload.wikimedia.org/wikipedia/commons/1/1c/Hairan-Herodes.jpg)
 
 ###### Questions

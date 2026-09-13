@@ -22,9 +22,9 @@ indice_6 :
   - Légendes d'automne
 questions:
  - En 1997, dans "Sept ans au Tibet" de Jean-Jacques Annaud, quel acteur américain incarne un alpiniste autrichien réfugié à Lhassa durant la 2de Guerre mondiale?
+culture_g_score: 93
+culture_g_justification: "Star mondiale régulièrement interrogée à travers ses films cultes, ses collaborations, ses récompenses et son influence sur le cinéma populaire."
 ---
-
-
 ![Image de Brad Pitt](https://upload.wikimedia.org/wikipedia/commons/9/90/Brad_Pitt-69858.jpg)
 
 ###### Questions

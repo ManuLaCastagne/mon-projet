@@ -20,8 +20,9 @@ indice_6 :
   - Cordes d'Apollonius
 questions:
  - En géométrie, combien de côtés possède un chiliogone ?
+culture_g_score: 40
+culture_g_justification: "Le chiliogone est une curiosité géométrique et philosophique, mais il donne lieu à très peu de questions généralistes."
 ---
-
 ![Image de Chiliogone](https://upload.wikimedia.org/wikipedia/commons/b/b1/Polygon_1000.svg)
 
 ###### Questions

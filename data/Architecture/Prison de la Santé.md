@@ -23,8 +23,9 @@ indice_6 :
   - système panoptique
 questions:
  - Bâtiment abritant le seul pénitentiaire de Paris…
+culture_g_score: 51
+culture_g_justification: "Prison parisienne connue par quelques détenus célèbres et son histoire pénitentiaire, mais d'un rendement limité."
 ---
-
 ![Image de Prison de la Santé](https://upload.wikimedia.org/wikipedia/commons/a/a1/19110714_Lucien_Lacour_et_Gustave_Herv%C3%A9_emprisonn%C3%A9s_%C3%A0_la_prison_de_la_Sant%C3%A9.png)
 
 ###### Questions

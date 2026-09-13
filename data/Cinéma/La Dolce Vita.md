@@ -20,8 +20,9 @@ indice_5:
   - fontaine de Trevi
 indice_6:
   - film italien
+culture_g_score: 100
+culture_g_justification: "Chef-d'œuvre mondial de Fellini, associé à Cannes, Mastroianni, Anita Ekberg, Rome, les paparazzi et l'histoire du cinéma."
 ---
-
 ![Image de La Dolce Vita](https://upload.wikimedia.org/wikipedia/commons/c/c2/Tournage-DolceVita-1959-Rome.png)
 
 ###### Questions

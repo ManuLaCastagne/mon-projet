@@ -22,8 +22,9 @@ indice_6 :
   - réalisateur américain
 questions:
  - Abordant dans mes films le thème d'une Amérique malade, comme dans "Miracle en Alabama", on me doit des westerns au style très personnel comme "Le Gaucher" ou "Little Big Man".  Réalisateur de "Bonnie and Clyde" disparu en 2010...
+culture_g_score: 67
+culture_g_justification: "Réalisateur important du Nouvel Hollywood, principalement interrogé à travers Bonnie and Clyde et l’évolution du cinéma américain."
 ---
-
 ![Image de Arthur Penn](https://upload.wikimedia.org/wikipedia/commons/4/4d/Flickr_-_Siebbi_-_Dieter_Kosslick_%5E_Arthur_Penn.jpg)
 
 ###### Questions

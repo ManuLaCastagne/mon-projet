@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale dans les jardins
 questions:
  - Quelle plante bulbeuse, devant son nom au grec signifiant belle d'un jour, porte des fleurs jaunes ou orangées réunies en grappe?
+culture_g_score: 32
+culture_g_justification: "Plante ornementale identifiable par son surnom de lis d’un jour, mais rarement interrogée précisément."
 ---
-
 ![Image de Hémérocalle](https://upload.wikimedia.org/wikipedia/commons/2/23/Hemerocallis_fulva_2012_G1.jpg)
 
 ###### Questions

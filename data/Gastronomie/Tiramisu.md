@@ -4,6 +4,8 @@ tags:
   - XXIe
   - Années_2010
 date: 2011
+culture_g_score: 81
+culture_g_justification: "Dessert mondialement célèbre et très récurrent, avec des entrées italiennes, culinaires, lexicales et culturelles."
 ---
 ###### Questions 
 

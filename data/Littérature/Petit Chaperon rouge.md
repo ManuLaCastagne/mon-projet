@@ -22,8 +22,9 @@ indice_6 :
   - panier
 questions:
  - Dans quel conte peut-on lire la phrase  "Tire la chevillette..."
+culture_g_score: 84
+culture_g_justification: "Conte universel permettant des questions sur Perrault, les frères Grimm, le folklore, les adaptations et la littérature jeunesse."
 ---
-
 ![Image de Petit Chaperon rouge](https://upload.wikimedia.org/wikipedia/commons/7/70/Le_Petit_Chaperon_Rouge_apotheose.jpg)
 
 ###### Questions

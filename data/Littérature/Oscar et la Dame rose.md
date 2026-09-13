@@ -22,8 +22,9 @@ indice_6 :
   - petit Oscar
 questions:
  - Constitué de 14 lettres adressées à Dieu par cet enfant malade, j'explique comment une visiteuse d'hôpital âgée invente un jeu dans lequel chaque jour compte pour 10 ans.
+culture_g_score: 64
+culture_g_justification: "Roman très lu d’Éric-Emmanuel Schmitt, régulièrement lié à la maladie, à l’enfance et à son adaptation, sans être un classique mondial."
 ---
-
 ![Image de Oscar et la Dame rose](https://upload.wikimedia.org/wikipedia/commons/9/97/Oscar_and_the_Lady_in_Pink%2C_2010.1.jpg)
 
 ###### Questions

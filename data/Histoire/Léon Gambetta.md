@@ -20,10 +20,9 @@ indice_6 :
   - fondateur de la Ligue des patriotes
 questions:
  - En 1870, en France, après la défaite de Sedan, quel avocat quitte Paris en ballon, quelques semaines après avoir proclamé la République ?
+culture_g_score: 80
+culture_g_justification: "Gambetta est un personnage central de la naissance de la Troisième République, de la guerre de 1870 et de l’implantation républicaine."
 ---
-
-
-
 ![Image de Léon Gambetta](https://upload.wikimedia.org/wikipedia/commons/d/d0/%28Cahors%29_Portrait_de_L%C3%A9on_Gambetta_par_Bocquet_1865_-_Mus%C3%A9e_de_Cahors_Henri-Martin.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - Combray
 indice_6:
   - Narrateur
+culture_g_score: 92
+culture_g_justification: "Chef-d'œuvre mondial de Proust, cette œuvre fournit de nombreux repères littéraires, stylistiques, biographiques et culturels."
 ---
-
 ![Image de A la recherche du temps perdu](https://upload.wikimedia.org/wikipedia/commons/5/57/MS_A_la_recherche_du_temps_perdu.jpg)
 
 ###### Questions

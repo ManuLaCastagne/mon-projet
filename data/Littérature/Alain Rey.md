@@ -20,8 +20,9 @@ indice_5:
   - histoire des mots
 indice_6:
   - amoureux de la langue française
+culture_g_score: 48
+culture_g_justification: "Alain Rey est un repère utile pour la lexicographie et Le Robert, mais rarement interrogé au-delà de ce domaine."
 ---
-
 ![Image de Alain Rey](https://upload.wikimedia.org/wikipedia/commons/4/4c/Alain_Rey%2C_2014_%28cropped%29.jpg)
 
 ###### Questions

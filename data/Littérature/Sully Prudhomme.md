@@ -22,8 +22,9 @@ indice_6 :
   - Premier lauréat Nobel français
 questions:
  - En 1901, à quel poète français a-t-on attribué le 1er prix Nobel de littérature de l'histoire ?
+culture_g_score: 60
+culture_g_justification: "Premier lauréat du Nobel de littérature, repère classique mais auteur aujourd’hui nettement moins connu que les grands poètes français."
 ---
-
 ![Image de Sully Prudhomme](https://upload.wikimedia.org/wikipedia/commons/a/a4/Sully_Prudhomme%2C_Ren%C3%A9-Fran%C3%A7ois-Armand%2C_BNF_Gallica.jpg)
 
 ###### Questions

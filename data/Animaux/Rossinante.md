@@ -15,8 +15,9 @@ indice_6 :
   - Compagnon de Don Quichotte
 questions:
  - Par allusion au cheval qui accompagne Don Quichotte dans le roman de Miguel de Cervantes, quel terme désigne un cheval maigre et poussif?
+culture_g_score: 68
+culture_g_justification: "Cheval littéraire célèbre de Don Quichotte, principalement rentable pour les questions sur Cervantès et la littérature espagnole."
 ---
-
 ![Image de Rossinante](https://upload.wikimedia.org/wikipedia/commons/9/95/CavalloChishotte.jpg)
 
 ###### Questions

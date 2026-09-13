@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - A quelle actrice originaire de Dieppe doit-on la réalisation des films "Quadrille", "Le Derrière" et "Palais Royal!"?
  - En 1999, quelle humoriste se met en scène dans le film intitulé "Le Derrière", avec Claude Rich...
+culture_g_score: 76
+culture_g_justification: "Personnalité polyvalente du cinéma et de l’humour français, exploitable par Les Visiteurs, Aline, les César et sa carrière télévisuelle."
 ---
-
 ![Image de Valérie Lemercier](https://upload.wikimedia.org/wikipedia/commons/7/7c/Val%C3%A9rie_Lemercier_%28100%25_Cachemire%29.jpg)
 
 ###### Questions

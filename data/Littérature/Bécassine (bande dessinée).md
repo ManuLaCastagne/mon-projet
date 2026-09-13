@@ -22,9 +22,9 @@ indice_6 :
   - personnages muets
 questions:
  - Personnage créé en 1905 dessiné par Pinchon, mes albums furent interdits dès les premiers jours de l'Occupation. Côtoyant la famille Quillouch, je deviens nourrice de la petite Loulotte, confiée par ma maîtresse, la Marquise de Grand-Air.
+culture_g_score: 64
+culture_g_justification: "Personnage historique de la bande dessinée française, identifiable par plusieurs repères éditoriaux et culturels, sans être aussi incontournable que Tintin ou Astérix."
 ---
-
-
 ![Image de Bécassine (bande dessinée)](https://upload.wikimedia.org/wikipedia/commons/3/31/B%C3%A9cassine_cover_1920.jpg)
 
 ###### Questions

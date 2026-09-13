@@ -24,8 +24,9 @@ indice_6 :
   - Zone économique exclusive importante
 questions:
  - On voyage et on cherche cet archipel français formant une collectivité d'outre-mer près de la côte Est du Canada…
+culture_g_score: 61
+culture_g_justification: "Territoire français singulier, utile pour des questions d’outre-mer, de géographie et d’histoire coloniale."
 ---
-
 ![Image de Saint-Pierre-et-Miquelon](https://upload.wikimedia.org/wikipedia/commons/d/d7/Photo_Saint-Pierre%2C_Saint_Pierre_and_Miquelon.png)
 
 ![[Carte_Saint-Pierre-et-Miquelon.png]]

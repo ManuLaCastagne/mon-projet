@@ -22,8 +22,9 @@ indice_6:
   - évasion
 questions:
   - Premier vers du poème "Brise marine", faisant écho à l'allusion biblique "la chair est faible la chair est triste, hélas et j'ai lu tous les livres."...
+culture_g_score: 59
+culture_g_justification: "Poème classique de Mallarmé et du symbolisme, identifiable par un vers célèbre mais offrant un nombre d’angles limité."
 ---
-
 ![Image de Brise marine (poème)](https://upload.wikimedia.org/wikipedia/commons/a/a0/La_conqu%C3%AAte_des_%C3%A9toiles_-_po%C3%A8me_%C3%A9pique_%28IA_laconquetedeseto00mari_0%29.pdf)
 
 ###### Questions

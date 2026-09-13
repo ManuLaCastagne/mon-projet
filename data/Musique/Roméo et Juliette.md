@@ -22,8 +22,9 @@ indice_6 :
   - tragédie romantique
 questions:
  - Comédie musicale dont la première représentation a eu lieu le 19 janvier 2001 au Palais des Congrès de Paris, je dois mon livret à Gérard Presgurvic. Différencié de ma version 2010 par mon sous-titre "De la haine à l'amour", je suis associé aux chansons "Jean Cocteau"...
+culture_g_score: 44
+culture_g_justification: "Cette comédie musicale française est connue, mais reste nettement moins incontournable que la tragédie de Shakespeare dont elle s’inspire."
 ---
-
 ![Image de Roméo et Juliette](https://upload.wikimedia.org/wikipedia/commons/b/b6/Rom%C3%A9o_et_Juliette_2009.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Dent-de-lion
 indice_6:
   - Salade de feuilles
+culture_g_score: 64
+culture_g_justification: "Plante familière associée à la salade, à la botanique et à une devinette classique, sans atteindre le statut de marronnier majeur."
 ---
-
 ![Image de Pissenlit](https://upload.wikimedia.org/wikipedia/commons/d/d3/A_Taraxacum_Ruderalia_dandelion_clock.jpg)
 
 ###### Questions

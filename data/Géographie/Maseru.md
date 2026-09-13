@@ -22,9 +22,9 @@ indice_5 :
   - ville la plus peuplée du Lesotho
 indice_6 : 
   - palais royal du Lesotho
+culture_g_score: 57
+culture_g_justification: "Capitale d'un petit État africain, connaissance classique de géographie mais à faible diversité d'utilisation."
 ---
-
-
 ![Image de Maseru](https://upload.wikimedia.org/wikipedia/commons/0/09/Maseru_from_Parliament_Hill.jpg)
 
 ![[Carte_Maseru.png]]

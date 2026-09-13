@@ -18,7 +18,8 @@ indice_5 :
   - Lotus
 indice_6 : 
   - Quatre visages
-culture_g_score: 68
+culture_g_score: 72
+culture_g_justification: "Divinité majeure de l’hindouisme et de la Trimurti, utile pour plusieurs questions de mythologie comparée mais moins centrale que Shiva ou Vishnou."
 ---
 ![Image de Brahma](https://upload.wikimedia.org/wikipedia/commons/1/1d/Cerverja_Brahma_%28tamanhos%29.JPG)
 

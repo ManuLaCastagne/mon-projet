@@ -23,9 +23,9 @@ indice_6 :
   - œuvres humoristiques
 questions:
  - 1790, quel peintre italien figure dans "Vertumne" Rodolphe de Habsbourg avec divers végétaux, dont une poire ?
+culture_g_score: 77
+culture_g_justification: "Ses portraits composés de fruits et de légumes sont immédiatement reconnaissables et relient Renaissance, curiosité et surréalisme."
 ---
-
-
 ![Image de Arcimboldo](https://upload.wikimedia.org/wikipedia/commons/8/81/Giuseppe_Arcimboldo_-_Self_Portrait_-_Google_Art_Project.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - réforme sociale
 questions:
  - De réduire la surproduction agricole et instituai une assurance contre le chômage.  Politique économique menée par le président Roosevelt dès 1933...
+culture_g_score: 100
+culture_g_justification: "Programme emblématique de Roosevelt, incontournable pour comprendre la Grande Dépression, l’intervention de l’État et la société américaine."
 ---
-
 ![Image de New Deal](https://upload.wikimedia.org/wikipedia/commons/6/67/NewDeal.jpg)
 
 ###### Questions

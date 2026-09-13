@@ -13,8 +13,9 @@ indice_5:
   - Argan
 indice_6:
   - Huile précieuse cosmétique et culinaire
+culture_g_score: 60
+culture_g_justification: "L’arbre marocain et son huile fournissent plusieurs angles géographiques, économiques et botaniques classiques."
 ---
-
 ![Image de Arganier](https://upload.wikimedia.org/wikipedia/commons/1/10/Argania_spinosa_MHNT.BOT.2010.12.2.jpg)
 
 ###### Questions

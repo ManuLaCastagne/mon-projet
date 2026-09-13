@@ -20,8 +20,9 @@ indice_6 :
   - Période
 questions:
  - Dans quelle discipline les chercheuses Emmanuelle Charpentier et Jennifer Doudna ont-elles reçu le prix Nobel pour leurs travaux sur les ciseaux moléculaires ?
+culture_g_score: 92
+culture_g_justification: "La chimie est une discipline centrale de culture scientifique, ouvrant sur la matière, les éléments, les réactions, l’industrie et de nombreuses découvertes."
 ---
-
 ![Image de Chimie](https://upload.wikimedia.org/wikipedia/commons/1/17/Chimie_Organique.jpg)
 
 ###### Questions

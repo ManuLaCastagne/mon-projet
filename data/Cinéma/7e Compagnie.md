@@ -20,6 +20,8 @@ indice_5:
   - Ils sont fous ces Ritals
 indice_6:
   - Pierre Mondy
+culture_g_score: 72
+culture_g_justification: "Trilogie comique très populaire en France, souvent interrogée avec ses personnages, ses acteurs et la Seconde Guerre mondiale."
 ---
 ![[Pasted image 20260803220027.png]]
 ###### Questions

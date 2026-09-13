@@ -22,8 +22,9 @@ indice_6 :
   - Helen Fielding
 questions:
  - En 1996, dans un roman d'Helen Fielding, quelle jeune femme célibataire, vivant à Londres, raconte sa vie dans un journal, et elle a une vie mouvementée ?
+culture_g_score: 76
+culture_g_justification: "Personnage populaire relié à un best-seller, à Jane Austen, au cinéma et à la représentation de la célibataire contemporaine."
 ---
-
 ![Image de Bridget Jones](https://upload.wikimedia.org/wikipedia/commons/a/a6/Bridget_Kendall_and_Baroness_Neville-Jones_%289250331388%29.jpg)
 
 ###### Questions

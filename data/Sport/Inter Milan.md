@@ -20,8 +20,9 @@ indice_6 :
   - Derby della Madonnina
 questions:
  - En 2021, quel club de football entraîné par Antonio Conte...
+culture_g_score: 80
+culture_g_justification: "Club majeur du football italien et européen, l’Inter Milan revient fréquemment via son histoire, ses titres, ses joueurs et ses rivalités."
 ---
-
 ![Image de Inter Milan](https://upload.wikimedia.org/wikipedia/commons/c/c5/Flag_of_FC_Inter.svg)
 
 ###### Questions

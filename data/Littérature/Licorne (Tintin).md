@@ -22,8 +22,9 @@ indice_6 :
   - Rackham le Rouge
 questions:
  - Objet fictif figurant dans deux albums de bande dessinée publiés dès 1943, mon modèle s'inspirerait d'un vaisseau de la flotte de Louis XIV.
+culture_g_score: 61
+culture_g_justification: "Objet central d’un album très célèbre de Tintin, mais sujet précis offrant moins d’angles que la série ou ses personnages principaux."
 ---
-
 ![Image de Licorne (Tintin)](https://upload.wikimedia.org/wikipedia/commons/7/7f/The_adventures_of_tintin_logo.png)
 
 ###### Questions

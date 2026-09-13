@@ -15,8 +15,9 @@ indice_6 :
   - Symbole d'exotisme et de diversité avicole
 questions:
  - Quelle race de poule dépourvue de queue, originaire d'Amérique  du Sud, pond des oeufs bleus ?
+culture_g_score: 31
+culture_g_justification: "Race de poule originale par ses œufs colorés, mais très rarement rencontrée dans les quiz généralistes."
 ---
-
 ![Image de Araucana](https://upload.wikimedia.org/wikipedia/commons/3/3a/Araucana_hen_showing_ear_tufts.jpg)
 
 ###### Questions

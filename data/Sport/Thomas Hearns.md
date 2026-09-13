@@ -20,8 +20,9 @@ indice_6 :
   - Sugar Ray Leonard
 questions:
  - Quel boxeur américain surnommé le Hitman a été 6 fois champion du monde dans 5 catégories dans les années 1980-1990 ?
+culture_g_score: 67
+culture_g_justification: "Grand champion de boxe et adversaire de Sugar Ray Leonard, mais moins connu du grand public francophone que les figures les plus célèbres."
 ---
-
 ![Image de Thomas Hearns](https://upload.wikimedia.org/wikipedia/commons/1/18/Thomas_Hearns_2.jpg)
 
 ###### Questions

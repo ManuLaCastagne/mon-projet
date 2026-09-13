@@ -15,8 +15,9 @@ indice_6 :
   - Textile
 questions:
  - De quelle plante textile, dont le fruit forme une capsule blanche, des espèces différentes ont-elles été domestiquées en Inde et en Amérique du Sud?
+culture_g_score: 80
+culture_g_justification: "Plante et fibre essentielles à l’histoire industrielle, au commerce mondial, au textile et aux sociétés esclavagistes."
 ---
-
 ![Image de Coton](https://upload.wikimedia.org/wikipedia/commons/c/cf/Coton_The_Plough.jpg)
 
 ###### Questions

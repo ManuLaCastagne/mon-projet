@@ -22,9 +22,9 @@ indice_6 :
   - couple de petits bourgeois
 questions:
  - Quel couple de bandes dessinées, formé de Raymonde et Robert possède un chien grand lecteur de Kant prénommé Kador ?
+culture_g_score: 60
+culture_g_justification: "Série emblématique de la bande dessinée humoristique française, régulièrement identifiable mais avec des angles culturels assez circonscrits."
 ---
-
-
 ![Image de Les Bidochon](https://upload.wikimedia.org/wikipedia/commons/a/aa/Lancement_du_d%C3%A9fil%C3%A9_%22Les_Bidochons%22_en_vacances.jpg)
 
 ###### Questions

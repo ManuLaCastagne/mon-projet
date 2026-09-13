@@ -21,8 +21,9 @@ indice_6:
   - Noyade mystérieuse
 questions:
   - Charles Quint. Redouté dans toute la Méditerranée où j'ai pillé les navires et les côtes, je me suis emparé de Tunis et de la forteresse d'Alger.  Pirate et commandant de la flotte ottomane connu, comme mon frère...
+culture_g_score: 64
+culture_g_justification: "Corsaire ottoman emblématique, utile pour des questions sur la Méditerranée, l’Empire ottoman et l’Algérie."
 ---
-
 ![Image de Barberousse](https://upload.wikimedia.org/wikipedia/commons/4/49/Maison_Barberousse._%281%29.jpg)
 
 ###### Questions

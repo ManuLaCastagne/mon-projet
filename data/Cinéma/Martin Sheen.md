@@ -22,8 +22,9 @@ indice_6 :
   - généalogie irlandaise
 questions:
  - En 1988, dans "Wall Street", acteur qui joue un syndicaliste dont le fils, courtier d'une banque...
+culture_g_score: 67
+culture_g_justification: "Acteur connu notamment pour Apocalypse Now et The West Wing, mais moins central que les grandes vedettes hollywoodiennes."
 ---
-
 ![Image de Martin Sheen](https://upload.wikimedia.org/wikipedia/commons/2/25/Sheen%2C_Martin_%282008%29.jpg)
 
 ###### Questions

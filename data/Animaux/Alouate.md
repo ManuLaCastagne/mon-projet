@@ -15,8 +15,9 @@ indice_6:
   - Symbole de la voix puissante dans certaines cultures amérindiennes
 questions:
   - Quel singe de l'Amérique du Sud tropicale, dont les cris modulés, pouvant atteindre 140 dB, est également appelé alouate ?
+culture_g_score: 51
+culture_g_justification: "Singe hurleur reconnaissable par ses cris, mais peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Singe hurleur](https://upload.wikimedia.org/wikipedia/commons/e/e1/Alouatta_seniculus_5perspective.jpg)
 
 ###### Questions

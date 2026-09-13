@@ -15,8 +15,9 @@ indice_6 :
   - Revêtement de sol pour les jardins et terrains de sport
 questions:
  - Type de plantation, je porte un nom qui, chez les Francs, désignait la motte herbeuse offerte en symbole de la remise d'une terre.  Plantation dont les semis peuvent être distingués par un Label rouge, je suis composée d'espèces telles que l'agrostide, la fétuque, le pâturin des prés et le raygrass anglais...
+culture_g_score: 56
+culture_g_justification: "Élément quotidien lié aux jardins et aux sports, mais rarement traité comme réponse botanique précise dans les quiz."
 ---
-
 ![Image de Gazon](https://upload.wikimedia.org/wikipedia/commons/f/fa/Ga%C5%BEon.jpg)
 
 ###### Questions

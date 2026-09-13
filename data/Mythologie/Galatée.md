@@ -18,8 +18,9 @@ indice_6 :
   - mythe grec
 questions:
  - Quelle divinité marine de la [[mythologie grecque]], au corps blanc, a fait changer en fleuve son amant, le berger Acis, victime de la jalousie de Polyphème?
+culture_g_score: 60
+culture_g_justification: "Nom lié à la fois au mythe de Pygmalion et au récit de Polyphème, mais souvent source de confusion entre traditions."
 ---
-
 ![Image de Galatée](https://upload.wikimedia.org/wikipedia/commons/8/87/Bemberg_Fondation_Toulouse_-_Acis_et_Galat%C3%A9e_-_Luca_Giordano_%28ca1685%29_120%2C6x190%2C5_inv.1074.jpg)
 
 ###### Questions

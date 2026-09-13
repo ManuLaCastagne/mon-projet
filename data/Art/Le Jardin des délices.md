@@ -23,8 +23,9 @@ indice_6 :
   - vision fantastique
 questions:
  - Quel triptyque de Jérôme Bosch, exécuté vers 1500, présente...
+culture_g_score: 80
+culture_g_justification: "Chef-d’œuvre très singulier de Bosch, fréquemment mobilisé pour l’art flamand, le symbolisme religieux, le triptyque et le musée du Prado."
 ---
-
 ![Image de Le Jardin des délices](https://upload.wikimedia.org/wikipedia/commons/6/6d/The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg)
 
 ###### Questions

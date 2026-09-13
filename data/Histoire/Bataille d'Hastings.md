@@ -20,8 +20,9 @@ indice_6 :
   - bataille décisive pour le trône d'Angleterre
 questions:
  - En octobre 1066, quelle bataille Guillaume le Conquérant a-t-il remportée sur le roi des Anglo-Saxons Harold II?
+culture_g_score: 84
+culture_g_justification: "La bataille de 1066 est indispensable pour les liens entre Guillaume le Conquérant, la Normandie et l’histoire anglaise."
 ---
-
 ![Image de Bataille d'Hastings](https://upload.wikimedia.org/wikipedia/commons/2/29/H._Grobet_-_Guillaume_le_Conqu%C3%A9rant_%C3%A0_la_bataille_d%27Hastings_%281066%29.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale dans les jardins
 questions:
  - Quelle petite plante décorative, souvent plantée dans les rocailles, est également appelée gueule-de-loup?
+culture_g_score: 52
+culture_g_justification: "Le lien entre muflier et gueule-de-loup peut fournir une question classique, mais les autres angles restent limités."
 ---
-
 ![Image de Muflier](https://upload.wikimedia.org/wikipedia/commons/7/7c/Muflier_FR_2012.jpg)
 
 ###### Questions

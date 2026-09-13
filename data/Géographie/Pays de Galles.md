@@ -22,9 +22,9 @@ indice_6 :
   - rivière Severn
 questions:
  - Quelle équipe du tournoi des 6 nations possède un blason orné de 3 plumes d'autruche ?
+culture_g_score: 80
+culture_g_justification: "Nation constitutive du Royaume-Uni régulièrement associée au dragon, à Cardiff, au rugby, aux paysages et à la culture celte."
 ---
-
-
 ![Image de Pays de Galles](https://upload.wikimedia.org/wikipedia/commons/4/45/Wales%2C_Pays_de_Galles%2C_par_John_Speed%2C_1610%2C_BNF_Gallica.jpg)
 
 ![[Carte_Pays de Galles.png]]

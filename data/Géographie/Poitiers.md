@@ -22,8 +22,9 @@ indice_5 :
   - Parc Blossac
 indice_6 : 
   - Clain
+culture_g_score: 80
+culture_g_justification: "Ville française associée à Charles Martel, au Futuroscope, à l’université et à plusieurs repères historiques, ce qui la rend très rentable."
 ---
-
 ![[Carte_Poitiers.png]]
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6:
   - salle des glaces
 questions:
   - Près de Vienne, quelle résidence d'été des Habsbourg abrite dans son parc la fontaine de Neptune ?
+culture_g_score: 80
+culture_g_justification: "Palais impérial viennois très classique des quiz, ouvrant sur les Habsbourg, Marie-Thérèse, le baroque, Vienne et le Congrès de Vienne."
 ---
-
 ![Image de Schönbrunn](https://upload.wikimedia.org/wikipedia/commons/1/1b/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_10.jpg)
 
 ![[Pasted image 20250408225712.png]]

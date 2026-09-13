@@ -19,8 +19,9 @@ indice_5 :
   - ex-chroniqueuse Touche pas à mon sport
 indice_6 : 
   - documentaire Je ne suis pas une salope
+culture_g_score: 44
+culture_g_justification: "Journaliste et animatrice contemporaine relativement connue, mais encore peu installée comme référence récurrente de culture générale."
 ---
-
 ![Image de Marie Portolano](https://upload.wikimedia.org/wikipedia/commons/8/8d/Portolano_per_tutti_i_naviganti_%28IA_portolanopertutt00unse%29.pdf)
 
 ###### Questions

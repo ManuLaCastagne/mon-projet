@@ -22,8 +22,9 @@ indice_5 :
   - histoire ancienne
 indice_6 : 
   - mosquées
+culture_g_score: 72
+culture_g_justification: "Capitale historique et géopolitique du Moyen-Orient, Damas apparaît régulièrement dans les questions sur la Syrie, l’Antiquité et les civilisations anciennes."
 ---
-
 ![Image de Damas](https://upload.wikimedia.org/wikipedia/commons/5/52/Fallow_Deer_in_the_German_wood.jpg)
 
 ![[Carte_Damas.png]]

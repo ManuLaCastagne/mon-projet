@@ -20,8 +20,9 @@ indice_6:
   - porche orné
 questions:
   - Les vacances d'été, je donnais une impression de liberté à l'époque des appartements...
+culture_g_score: 60
+culture_g_justification: "La datcha est un symbole culturel russe identifiable et peut être interrogée en architecture, littérature et société, mais reste moins incontournable qu’un grand monument."
 ---
-
 ![Image de Datcha](https://upload.wikimedia.org/wikipedia/commons/7/70/Dacha_-_panoramio_%281%29.jpg)
 
 ###### Questions

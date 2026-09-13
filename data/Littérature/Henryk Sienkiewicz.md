@@ -22,8 +22,9 @@ indice_6 :
   - Les Chevaliers Teutoniques
 questions:
  - A quel écrivain polonais, né en 1846, sont empruntés les sujets des films "Le Déluge" et "Quo Vadis?"?
+culture_g_score: 64
+culture_g_justification: "Prix Nobel polonais et auteur de Quo Vadis, utile pour la littérature historique et l'identité polonaise, avec une fréquence modérée."
 ---
-
 ![Image de Henryk Sienkiewicz](https://upload.wikimedia.org/wikipedia/commons/7/7f/Henryk_Sienkiewicz_signature.svg)
 
 ###### Questions

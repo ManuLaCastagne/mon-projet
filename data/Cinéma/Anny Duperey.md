@@ -20,9 +20,9 @@ indice_5:
   - Le Grand Pardon
 indice_6:
   - Stavisky
+culture_g_score: 47
+culture_g_justification: "Actrice et écrivaine française populaire, mais principalement connue dans des contextes télévisuels et cinématographiques assez ciblés."
 ---
-
-
 ![Image de Anny Duperey](https://upload.wikimedia.org/wikipedia/commons/3/3c/ANNY_DUPEREY_2006.jpg)
 
 ###### Questions

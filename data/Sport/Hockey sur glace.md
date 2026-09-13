@@ -20,9 +20,9 @@ indice_6 :
   - Patinoire
 questions:
  - A quel sport associe-t-on la Coupe Stanley...
+culture_g_score: 80
+culture_g_justification: "Sport mondial majeur, riche en questions sur les règles, la NHL, la Coupe Stanley, les Jeux olympiques et Wayne Gretzky."
 ---
-
-
 ![Image de Hockey sur glace](https://upload.wikimedia.org/wikipedia/commons/8/87/Finale_de_la_coupe_de_France_de_Hockey_sur_glace_2014_-_092.jpg)
 
 ###### Questions

@@ -19,9 +19,9 @@ indice_5:
   - Vétéran buteur
 indice_6:
   - RWDM Brussels
+culture_g_score: 77
+culture_g_justification: "Figure emblématique du football africain, fréquemment associée à la Coupe du monde 1990, à ses records d’âge et à sa célébration devenue célèbre."
 ---
-
-
 ![Image de Roger Milla](https://upload.wikimedia.org/wikipedia/commons/9/9a/Milla2008cropped.jpg)
 
 ###### Questions

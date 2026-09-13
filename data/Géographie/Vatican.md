@@ -24,8 +24,9 @@ indice_6 :
   - résidence du Pape
 questions:
  - Site occupé par les jardins et les cirques de Néron, lieu de persécution des chrétiens dont Saint-Pierre.
+culture_g_score: 100
+culture_g_justification: "Micro-État universellement connu, central pour la papauté, le catholicisme, Rome, l’art et les institutions internationales."
 ---
-
 ![Image de Vatican](https://upload.wikimedia.org/wikipedia/commons/1/15/Vatican_City_map_EN.png)
 
 ![[Carte_Vatican.png]]

@@ -17,8 +17,9 @@ indice_5:
   - librement inspiré du roman Jackie Loves Johnser OK?
 indice_6:
   - Festival de Cannes 2024
+culture_g_score: 44
+culture_g_justification: "Succès français récent, encore trop contemporain et principalement cinématographique pour constituer une priorité générale."
 ---
-
 ![Image de L'Amour Ouf]()
 
 ###### Questions

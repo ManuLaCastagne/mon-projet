@@ -20,9 +20,9 @@ indice_6 :
   - opposition aux soviets
 questions:
  - En février 1921, quelle base navale russe de la Baltique est le théâtre d'une rébellion contre le pouvoir bolchevique ?
+culture_g_score: 59
+culture_g_justification: "Kronstadt est un repère important de la révolution russe et du pouvoir bolchevique, mais les questions restent concentrées sur quelques événements."
 ---
-
-
 ![Image de Kronstadt](https://upload.wikimedia.org/wikipedia/commons/e/e3/Naval_Cathedral_of_St_Nicholas_in_Kronstadt_02.jpg)
 
 ###### Questions

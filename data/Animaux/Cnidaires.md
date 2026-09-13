@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de régénération
 questions:
  - Comme le corail, à quel embranchement d'invertébrés aquatiques les méduses appartiennent-ils ?
+culture_g_score: 68
+culture_g_justification: "Groupe zoologique permettant de relier méduses, coraux, anémones et cnidocytes, avec un bon rendement scientifique."
 ---
-
 ![Image de Cnidaires](https://upload.wikimedia.org/wikipedia/commons/f/f9/Aurelia_aurita_%28Cnidaria%29_Luc_Viatour.jpg)
 
 ###### Questions

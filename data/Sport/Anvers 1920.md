@@ -20,8 +20,9 @@ indice_5 :
   - compétitions d’athlétisme
 indice_6 : 
   - présence de plusieurs nations après la Première Guerre mondiale
+culture_g_score: 63
+culture_g_justification: "Jeux d’Anvers importants dans l’histoire de l’olympisme, avec le drapeau, le serment et le contexte de l’après-guerre."
 ---
-
 ![Image de Anvers 1920](https://upload.wikimedia.org/wikipedia/commons/8/82/Spain_national_football_team_in_the_1920_Summer_Olympics_in_Antwerp.jpg)
 
 ###### Questions

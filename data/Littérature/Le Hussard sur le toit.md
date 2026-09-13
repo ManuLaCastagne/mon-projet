@@ -20,8 +20,9 @@ indice_5:
   - Provence
 indice_6:
   - aventure amoureuse et historique
+culture_g_score: 80
+culture_g_justification: "Roman majeur de Giono, régulièrement relié au choléra, à la Provence historique, à son héros Angelo et à l’adaptation de Rappeneau."
 ---
-
 ![Image de Le Hussard sur le toit](https://upload.wikimedia.org/wikipedia/commons/1/1c/Le_Correspondant_%28IA_lecorrespondant55unse%29.pdf)
 
 ###### Questions

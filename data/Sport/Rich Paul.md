@@ -19,8 +19,9 @@ indice_5 :
   - relation avec Adele
 indice_6 : 
   - Cleveland
+culture_g_score: 40
+culture_g_justification: "Agent sportif influent dans la NBA contemporaine, mais sujet récent et relativement spécialisé pour un quiz généraliste."
 ---
-
 ![Image de Rich Paul](https://upload.wikimedia.org/wikipedia/commons/9/98/Rich_Paul_NFL_Draft_Interview.png)
 
 ###### Questions

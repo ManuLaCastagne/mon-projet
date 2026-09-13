@@ -20,9 +20,9 @@ indice_5 :
   - Teddy Roosevelt
 indice_6 : 
   - pièce de théâtre
+culture_g_score: 80
+culture_g_justification: "Classique de la comédie noire hollywoodienne, associé à Capra, Cary Grant, une pièce de théâtre et une intrigue très reconnaissable."
 ---
-
-
 ![Image de Arsenic et vieilles dentelles](https://upload.wikimedia.org/wikipedia/commons/2/2b/Recueil._%22Arsenic_et_vieilles_dentelles%22_film_de_Franck_Capra_-_btv1b10522636j_%2845_of_50%29.jpg)
 
 ###### Questions

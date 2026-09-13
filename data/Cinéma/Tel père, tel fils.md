@@ -17,9 +17,9 @@ indice_3:
 indice_4:
 indice_5:
 indice_6: []
+culture_g_score: 48
+culture_g_justification: "Film reconnu de Kore-eda mais encore relativement peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Tel père, tel fils](https://upload.wikimedia.org/wikipedia/commons/4/42/TEL_PERE_TEL_FILS_2_%2848705748143%29.jpg)
 
 ###### Questions

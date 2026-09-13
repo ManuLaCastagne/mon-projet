@@ -22,8 +22,9 @@ indice_6 :
   - pièce en cinq actes
 questions:
  - Dans quel drame de Victor Hugo, se passant au XVIIe siècle à la cour d'Espagne, est-il dit   "quand la bouche dit  oui, le regard dit peut-être"?
+culture_g_score: 77
+culture_g_justification: "Grand drame romantique de Victor Hugo, régulièrement associé au théâtre, à l’auteur et à l’histoire littéraire."
 ---
-
 ![Image de Ruy Blas](https://upload.wikimedia.org/wikipedia/commons/3/3e/Ruy_Blas_%2811Jan09%2C_H121462%2C_copy_B%29.webm)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - UTWT
 questions:
  - Par quel sigle de 4 lettres désigne-t-on l'ultra-trail d'environ 170 km, disputé pour la 1re fois dans les Alpes...
+culture_g_score: 60
+culture_g_justification: "Course d’ultra-trail de renommée internationale, mais encore spécialisée par rapport aux grands événements sportifs généralistes."
 ---
-
 ![Image de UTMB](https://upload.wikimedia.org/wikipedia/commons/3/33/UTMB_2015.jpg)
 
 ###### Questions

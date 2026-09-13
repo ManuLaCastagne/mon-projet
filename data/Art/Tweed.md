@@ -23,9 +23,9 @@ indice_6 :
   - textile de luxe
 questions:
  - Quel tissu de laine que Coco Chanel confectionna venait d'Angleterre, d'Ecosse, pour donner son tailleur ?
+culture_g_score: 47
+culture_g_justification: "Textile associé à l’Écosse et à la mode, mais le nom précis est seulement occasionnellement mobilisé dans les quiz généralistes."
 ---
-
-
 ![Image de Tweed](https://upload.wikimedia.org/wikipedia/commons/0/03/Tweed_fabric.jpg)
 
 ###### Questions

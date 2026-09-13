@@ -18,10 +18,9 @@ indice_6 :
   - Asgard
 questions:
  - Quelle grande divinité du panthéon nord-germanique est le dieu de la Guerre et du Savoir?
+culture_g_score: 100
+culture_g_justification: "Dieu central de la mythologie nordique, Odin revient très souvent via les mythes, les Eddas, Thor, Valhalla, les runes et la culture populaire."
 ---
-
-
-
 ![Image de Odin](https://upload.wikimedia.org/wikipedia/commons/6/66/S.M._K%C3%BCstenpanzerschiff_Odin_im_Salut_-_restoration.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Film sorti en 2010
 questions:
  - En 2010, dans quel film Guillaume Canet met-il en scène un groupe d'amis se rendant au Cap-Ferret pour les vacances?
+culture_g_score: 60
+culture_g_justification: "Succès populaire du cinéma français associé à Guillaume Canet et à un casting célèbre, mais d'importance culturelle modérée."
 ---
-
 ![Image de Petits Mouchoirs](https://upload.wikimedia.org/wikipedia/commons/7/74/Little_White_Lies_3_%285412251409%29.jpg)
 
 ###### Questions

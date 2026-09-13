@@ -20,8 +20,9 @@ indice_5 :
   - Japon
 indice_6 : 
   - Anneau olympique en or
+culture_g_score: 72
+culture_g_justification: "Premiers Jeux en Asie et symbole du retour du Japon, avec des liens utiles entre histoire, technologie et sport."
 ---
-
 ![Image de Tokyo 1964](https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Soviet_Union_1964_CPA_3086_souvenir_sheet_%281964_Summer_Olympics%2C_Tokyo._Woman_gymnast_and_stadium%29.png)
 
 ###### Questions

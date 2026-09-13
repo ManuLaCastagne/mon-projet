@@ -20,8 +20,9 @@ indice_6:
   - utilise la livre mannoise
 questions:
   - Quelle île de la mer d'Irlande est une dépendance de la Couronne britannique administrée par une assemblée appelée Tynwald?
+culture_g_score: 60
+culture_g_justification: "Territoire utile pour le Tourist Trophy, son statut constitutionnel original et le Tynwald, malgré une portée géographique étroite."
 ---
-
 ![Image de Île de Man](https://upload.wikimedia.org/wikipedia/commons/a/a1/%C3%8Ele_de_Man_Chambre_des_Clefs_2011.svg)
 
 ![[Carte_Île de Man.png]]

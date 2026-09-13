@@ -23,8 +23,9 @@ indice_6 :
   - Cloisonnisme
 questions:
  - Artiste peignant à la campagne, le dimanche  quand il était employé, avant ses séjours à Pont-Aven, en Polynésie ?
+culture_g_score: 89
+culture_g_justification: "Gauguin est incontournable pour le postimpressionnisme, Tahiti, les voyages, les œuvres célèbres et les débats sur la modernité artistique."
 ---
-
 ![Image de Paul Gauguin](https://upload.wikimedia.org/wikipedia/commons/9/9d/Paul_Gauguin_-_Fatata_te_Miti_%28By_the_Sea%29_-_Google_Art_Project.jpg)
 
 ###### Questions

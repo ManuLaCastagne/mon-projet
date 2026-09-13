@@ -23,8 +23,9 @@ indice_6 :
   - Sites archéologiques
 questions:
  - Quelle vallée, abritant notamment le site de Histoire/Lascaux, a vu ses nombreuses grottes préhistoriques classées en 1979?
+culture_g_score: 64
+culture_g_justification: "Important foyer de préhistoire et d’art pariétal, notamment grâce à Lascaux, avec une fréquence correcte dans les questions patrimoniales."
 ---
-
 ![Image de Vallée de la Vézère](https://upload.wikimedia.org/wikipedia/commons/f/fd/P%C3%A9rim%C3%A8tre_RNR_Haute_vall%C3%A9e_de_la_V%C3%A9z%C3%A8re_rnr306.png)
 
 ###### Questions

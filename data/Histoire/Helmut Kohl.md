@@ -20,8 +20,9 @@ indice_6 :
   - années 1980 et 1990
 questions:
  - Le soir de la chute du Mur de Berlin, quel chancelier de la RFA interrompt un voyage pour tenir un discours devant l'hôtel de ville de Berlin-Ouest?
+culture_g_score: 80
+culture_g_justification: "Chancelier central de la réunification allemande, régulièrement mobilisé dans les quiz sur la guerre froide, l'Europe et l'Allemagne contemporaine."
 ---
-
 ![Image de Helmut Kohl](https://upload.wikimedia.org/wikipedia/commons/8/85/Helmut_Kohl_%281996%29_cropped.tif)
 
 ###### Questions

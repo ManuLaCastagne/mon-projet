@@ -21,8 +21,9 @@ indice_5 :
   - Tsim Sha Tsui
 indice_6 : 
   - Central District
+culture_g_score: 96
+culture_g_justification: "Territoire mondialement incontournable pour la rétrocession, la Chine, la finance, la densité urbaine, les gratte-ciels et la géopolitique."
 ---
-
 ![[Carte_Hong Kong.png]]
 
 ###### Questions

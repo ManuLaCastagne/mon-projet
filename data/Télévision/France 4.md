@@ -20,8 +20,9 @@ indice_6 :
   - programmes éducatifs
 questions:
  - Quelle chaîne du groupe France Télévisions, appelée Festival jusqu'en 2005…
+culture_g_score: 44
+culture_g_justification: "Chaîne publique destinée principalement à la jeunesse, avec une place limitée dans les références télévisuelles généralistes."
 ---
-
 ![Image de France 4](https://upload.wikimedia.org/wikipedia/commons/3/3b/France_4_2018.svg)
 
 ###### Questions

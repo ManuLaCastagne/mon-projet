@@ -23,13 +23,15 @@ indice_6:
   - Parc national du Simien
 questions:
   - Dans quel pays d'Afrique orientale utilise-t-on la farine de teff pour préparer une crêpe appelée injera consommée quotidiennement ?
+culture_g_score: 72
+culture_g_justification: "Pays important pour l’histoire africaine, Lucy, la Rift Valley, l’Union africaine et ses particularités religieuses et calendaires."
 ---
 
 ![[Carte_Éthiopie.png]]
 
 ###### Questions
 
-Quel est le seul pays d'[[Afrique]] à avoir échappé à la colonisation durant le [[Partage de l'Afrique]] au XIXe siècle et qui a brièvement été occupé par l'[[Italie]] de 1936 à 1941 ?
+Quel est le seul pays d'[[Afrique]] à avoir échappé à la colonisation durant le [[Partage de l'Afrique]] au XIXe siècle et qui a brièvement été occupé par l'[[Italie]] de 1936 à 1941 ? <!-- score: 2 -->
 
 Quel pays africain a adopté un nouveau calendrier basé sur l'ancien calendrier [[copte]] égyptien, décalé de sept à huit ans par rapport au calendrier grégorien ?
 

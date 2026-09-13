@@ -20,8 +20,9 @@ indice_6 :
   - Nike Gold Shoes
 questions:
  - Lors des championnats du monde d'athlétisme à Séville en 1999, quel athlète américain bat le record du 400 m ?
+culture_g_score: 80
+culture_g_justification: "Grand sprinteur américain, régulièrement cité pour ses doublés, ses records et ses titres olympiques et mondiaux."
 ---
-
 ![Image de Michael Johnson](https://upload.wikimedia.org/wikipedia/commons/a/aa/Michael_Johnson_corner.jpg)
 
 ###### Questions

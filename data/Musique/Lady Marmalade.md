@@ -22,8 +22,9 @@ indice_6 :
   - Marmelade
 questions:
  - Dans quel tube disco des années 70 Patti LaBelle demande-t-elle   "voulez-vous coucher avec moi ce soir ?" ?
+culture_g_score: 73
+culture_g_justification: "Grand standard disco connu par plusieurs versions, le cinéma, les classements américains et son refrain français."
 ---
-
 ![Image de Lady Marmalade](https://upload.wikimedia.org/wikipedia/commons/0/08/LL-Q150_%28fra%29-Lunagrouh-Voulez-vous_coucher_avec_moi_%28ce_soir%29_%3F.wav)
 
 ###### Questions

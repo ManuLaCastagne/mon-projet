@@ -20,6 +20,8 @@ indice_5:
   - Beth
 indice_6:
   - Amy
+culture_g_score: 65
+culture_g_justification: "Adaptation d’un grand classique littéraire, connue à travers plusieurs versions, ses personnages et des actrices comme Winona Ryder."
 ---
 ![[Pasted image 20250421105152.png]]
 ###### Questions

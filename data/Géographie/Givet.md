@@ -19,8 +19,9 @@ indice_5:
   - Ardennes
 indice_6:
   - Hainaut
+culture_g_score: 20
+culture_g_justification: "Petite commune frontalière d’intérêt historique local, rarement interrogée dans un cadre généraliste."
 ---
-
 ![[Carte_Givay.png]]
 
 ###### Questions

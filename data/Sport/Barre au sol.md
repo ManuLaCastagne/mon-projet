@@ -20,8 +20,9 @@ indice_6 :
   - Étirements
 questions:
  - Discipline ayant pour origine une idée du maître de ballet Boris Kniaseff, je suis constituée d'une série d'exercices destinés à développer la souplesse du corps. Pratiquée en position assise ou couchée sur le sol, je reprends des mouvements de danse sans les contraintes de la pesanteur.
+culture_g_score: 28
+culture_g_justification: "Entraînement lié à la danse classique, connu des amateurs mais très rarement mobilisé en culture générale généraliste."
 ---
-
 ![Image de Barre au sol](https://upload.wikimedia.org/wikipedia/commons/6/6b/Stade_Elysabeth_%28i._e._Elisabeth%29%2C_13-3-27_%28femmes_gymnastes%2C_exercices_au_sol_et_%C3%A0_la_barre_fixe%29_-_btv1b531745233.jpg)
 
 ###### Questions

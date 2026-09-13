@@ -25,8 +25,9 @@ indice_6 :
   - destination touristique populaire
 questions:
  - Destination touristique importante avec mes temples, tels que celui de Besakih, et mes rizières en terrasse, c'est magnifique, en espalier.  La ville de Denpasar, la capitale, en général on n'y reste pas, faisant partie des petites îles de la Sonde, je suis réputée pour mon théâtre traditionnel dansé et masqué.
+culture_g_score: 64
+culture_g_justification: "Île touristique très connue, associée à l’Indonésie, à l’hindouisme, aux volcans et à la culture balinaise."
 ---
-
 ![Image de Bali](https://upload.wikimedia.org/wikipedia/commons/8/88/Bali%2C_Rice_fields%2C_Rice_terraces_in_East_Bali%2C_Indonesia.jpg)
 
 ![[Carte_Bali.png]]

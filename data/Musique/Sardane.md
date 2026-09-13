@@ -22,8 +22,9 @@ indice_6 :
   - Provence et Pyrénées-Orientales
 questions:
  - Exécutée en cercle sous forme de ronde en se tenant la main, bras baissés ou levés, je suis traditionnellement pratiquée sur les places publiques, chaussés d'espadrilles à lacets.  Danse catalane dont la ville de Perpignan a été la capitale en 2019.
+culture_g_score: 60
+culture_g_justification: "Danse emblématique de la Catalogne, la sardane relie traditions régionales, musique, patrimoine et identité culturelle, avec un champ de questions limité."
 ---
-
 ![Image de Sardane](https://upload.wikimedia.org/wikipedia/commons/0/04/Sardanes_a_la_pla%C3%A7a_Molina_-_20240526_132212.jpg)
 
 ###### Questions

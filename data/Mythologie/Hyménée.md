@@ -18,8 +18,9 @@ indice_6 :
   - couronne de fleurs
 questions:
  - Dans la mythologie, quel dieu du Mariage est représenté sous les traits d'un jeune homme blond, couronné de roses…
+culture_g_score: 43
+culture_g_justification: "Figure spécialisée des cérémonies nuptiales grecques, dont le nom survit surtout dans des termes et chants rituels."
 ---
-
 ![Image de Hyménée](https://upload.wikimedia.org/wikipedia/commons/0/0a/Recueil_sur_%22Hym%C3%A9n%C3%A9e%22_d%27Edouard_Bourdet_-_btv1b105091422_%2832_of_40%29.jpg)
 
 ###### Questions

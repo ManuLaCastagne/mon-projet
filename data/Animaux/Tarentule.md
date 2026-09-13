@@ -15,8 +15,9 @@ indice_6 :
   - Effroi dans les films d'horreur
 questions:
  - Animal devant mon nom à une ville de la région des Pouilles, je mesure environ 3 cm de long et me nourris d'insectes et d'autres petits invertébrés.
+culture_g_score: 56
+culture_g_justification: "La tarentule est très reconnaissable et associée à la zoologie, à la peur et à la fiction, mais sa portée culturelle reste limitée."
 ---
-
 ![Image de Tarentule](https://upload.wikimedia.org/wikipedia/commons/f/f3/Tarantella_%28Athanasius_Kircher%29.jpg)
 
 ###### Questions

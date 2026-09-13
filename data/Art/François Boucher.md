@@ -20,9 +20,9 @@ indice_5:
   - peintre de Louis XV
 indice_6:
   - scènes galantes et mythologiques
+culture_g_score: 60
+culture_g_justification: "Peintre rococo français classique, régulièrement associé à Boucher, Pompadour, Fragonard et à plusieurs œuvres célèbres."
 ---
-
-
 ![Image de François Boucher](https://upload.wikimedia.org/wikipedia/commons/9/9c/Mus%C3%A9e_Ingres-Bourdelle_-_Pastorale_-_Fran%C3%A7ois_Boucher_-_Joconde06070000064.jpg)
 ###### Questions
 

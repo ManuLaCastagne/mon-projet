@@ -20,8 +20,9 @@ indice_6 :
   - Résidence impériale
 questions:
  - En juillet 1858, dans quelle station thermale des Vosges Napoléon III a-t-il rencontré secrètement le comte de Cavour?
+culture_g_score: 40
+culture_g_justification: "Ville thermale surtout connue pour les accords de Plombières, mais rarement interrogée en dehors de cet épisode diplomatique."
 ---
-
 ![Image de Plombières-les-Bains](https://upload.wikimedia.org/wikipedia/commons/f/fc/Plombieres_les_bains_vueOuest.jpg)
 
 ###### Questions

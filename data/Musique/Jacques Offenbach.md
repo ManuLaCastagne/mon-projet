@@ -22,9 +22,9 @@ indice_6 :
   - Violoncelliste allemand-français
 questions:
  - Menant une brillante carrière  marquée par la gaieté de mes oeuvres, j'obtiens mes plus  grands succès sous le 2d Empire. Compositeur français d'origine allemande dont "Les Contes d'Hoffmann" ont été créés après ma mort.
+culture_g_score: 80
+culture_g_justification: "Compositeur majeur de l'opérette française, associé au can-can, à Orphée aux Enfers et aux Contes d'Hoffmann."
 ---
-
-
 ![Image de Jacques Offenbach](https://upload.wikimedia.org/wikipedia/commons/c/c1/Jacques_Offenbach_by_Nadar.jpg)
 
 ###### Questions

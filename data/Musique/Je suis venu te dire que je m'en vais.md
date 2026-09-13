@@ -22,9 +22,9 @@ indice_6 :
   - mélancolie
 questions:
  - Titre de Serge Gainsbourg comprenant les paroles "Comme dit si bien Verlaine au vent mauvais", je suis…
+culture_g_score: 69
+culture_g_justification: "Classique de Gainsbourg régulièrement identifiable par son titre, sa date et son contexte sentimental, malgré des angles limités."
 ---
-
-
 ![Image de Je suis venu te dire que je m'en vais](https://upload.wikimedia.org/wikipedia/commons/e/e0/Leblanc_-_Les_troix_yeux%2C_paru_dans_Je_sais_tout%2C_1919.djvu)
 
 ###### Questions

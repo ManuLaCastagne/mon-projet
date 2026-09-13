@@ -25,8 +25,9 @@ indice_6 :
   - origine des vins de Porto
 questions:
  - Quel fleuve d'Géographie/Espagne et du Portugal, né en Vieille-Castille s'étendant sur 850 km de long, se jette dans l'océan Atlantique près de Porto ?
+culture_g_score: 60
+culture_g_justification: "Fleuve associé à Porto, au vin et aux paysages viticoles classés, avec une utilité correcte mais surtout concentrée sur le Portugal."
 ---
-
 ![Image de Douro](https://upload.wikimedia.org/wikipedia/commons/d/df/Douro_%28fleuve%29.png)
 
 ![[Carte_Douro.png]]

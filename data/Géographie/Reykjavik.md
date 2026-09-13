@@ -24,9 +24,9 @@ indice_6 :
   - colline d'Öskjuhlíð
 questions:
  - Quelle ville dont le nom signifie "baie des fumées", est la capitale de l'Islande ?
+culture_g_score: 64
+culture_g_justification: "Capitale de l’Islande facilement identifiable, Reykjavik est surtout interrogée pour sa position septentrionale, l’Althing et son contexte nordique."
 ---
-
-
 ![Image de Reykjavik](https://upload.wikimedia.org/wikipedia/commons/9/9a/Reykjavik_Main_Image.jpg)
 
 ![[Carte_Reykjavik.png]]

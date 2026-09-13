@@ -24,9 +24,9 @@ indice_6 :
   - marché traditionnel
 questions:
  - C'est la tour Fenestrelle,  unique exemple en France de campanile rond. Dans quelle ville du Gard peut-on admirer...
+culture_g_score: 60
+culture_g_justification: "Uzès est une ville patrimoniale utile par son duché, sa tour Fenestrelle et son lien avec l’aqueduc du Pont du Gard."
 ---
-
-
 ![Image de Uzès](https://upload.wikimedia.org/wikipedia/commons/7/7a/Uz%C3%A8s_hdsr_A80_IMG_3718.jpg)
 
 ![[Carte_Uzès.png]]

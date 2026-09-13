@@ -20,8 +20,9 @@ indice_6 :
   - Attaquant
 questions:
  - Footballeur né le 21 juillet 2000 à Leeds où jouait mon père également footballeur, j'ai été formé à Bryne où j'ai débuté en professionnel...
+culture_g_score: 73
+culture_g_justification: "Star mondiale du football actuel, Haaland est fréquemment interrogé pour ses records, ses clubs, sa nationalité et ses performances."
 ---
-
 ![Image de Erling Haaland](https://upload.wikimedia.org/wikipedia/commons/e/ee/Molde-Zenit_%282%29_Erling_Braut_H%C3%A5land_2018-8-30.jpg)
 
 ###### Questions

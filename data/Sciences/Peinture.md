@@ -1,3 +1,8 @@
+---
+culture_g_score: 52
+culture_g_justification: "Produit quotidien bien connu, mais relativement peu central dans les quiz et limité à des angles matériels, industriels ou artistiques."
+---
+
 
 ###### Questions 
 

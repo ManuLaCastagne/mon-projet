@@ -20,8 +20,9 @@ indice_6 :
   - Real Betis
 questions:
  - Quel ancien milieu de terrain du club était l'entraîneur du PSG lors de sa victoire en Coupe d'Europe des vainqueurs de coupe en 1996?
+culture_g_score: 80
+culture_g_justification: "Figure importante du football français, exploitable via l’équipe de France, le PSG, sa carrière de joueur et son parcours d’entraîneur."
 ---
-
 ![Image de Luis Fernandez](https://upload.wikimedia.org/wikipedia/commons/f/f4/Luis_Fernandez.jpg)
 
 ###### Questions

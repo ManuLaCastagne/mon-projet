@@ -22,9 +22,9 @@ indice_6 :
   - Lambert Wilson
 questions:
  - En 2010, quel film de Xavier Beauvois, avec Lambert Wilson, évoque le destin tragique des moines de Tibhirine ?
+culture_g_score: 77
+culture_g_justification: "Film français primé et inspiré d'un fait réel marquant, reliant cinéma, religion, Algérie, terrorisme et histoire contemporaine."
 ---
-
-
 ![Image de Des Hommes et des dieux](https://upload.wikimedia.org/wikipedia/commons/2/27/Des_hommes_et_des_dieux_Cannes_2010.jpg)
 
 ###### Questions

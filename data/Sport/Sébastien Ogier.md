@@ -20,8 +20,9 @@ indice_6 :
   - Co-pilote Julien Ingrassia
 questions:
  - En décembre 2020, c'est du sport, quel pilote automobile français a remporté avec son copilote J.Ingrassia son 7e titre de champion du monde des rallyes ?
+culture_g_score: 68
+culture_g_justification: "L’un des plus grands pilotes de rallye, mais moins transversal et moins fréquemment cité que Loeb dans les quiz généralistes."
 ---
-
 ![Image de Sébastien Ogier](https://upload.wikimedia.org/wikipedia/commons/8/84/ADAC_Rallye_Deutschland_2013_-_Empfang_der_Stadt_K%C3%B6ln_-_S%C3%A9bastien_Ogier-4533.jpg)
 
 ###### Questions

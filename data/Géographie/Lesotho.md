@@ -22,8 +22,9 @@ indice_6 :
   - Aucune façade maritime
 questions:
  - Etat d'Afrique australe indépendant depuis le 4 octobre 1966, je m'étends sur 30 355 km2 et compte un peu plus de 2 millions d'habitants. Dirigé par le roi Letsie III depuis 96, je suis un ancien protectorat britannique connu alors sous le nom de Basutholand...
+culture_g_score: 60
+culture_g_justification: "Le Lesotho est un pays classique des quiz grâce à son enclavement, son altitude exceptionnelle et sa situation au sein de l’Afrique du Sud."
 ---
-
 ![Image de Lesotho](https://upload.wikimedia.org/wikipedia/commons/6/62/Lesotho_adm_location_map.svg)
 
 ![[Carte_Lesotho.png]]

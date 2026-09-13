@@ -22,8 +22,9 @@ indice_6:
   - Amazing Grace
 questions:
   - En 1989, à Paris, quelle soprano noire américaine interprète...
+culture_g_score: 68
+culture_g_justification: "Grande soprano du XXe siècle, particulièrement rentable pour l'opéra, la Marseillaise du bicentenaire et les distinctions américaines."
 ---
-
 ![Image de Jessye Norman](https://upload.wikimedia.org/wikipedia/commons/a/a2/Jessye_Norman-_In_Conversation_with_Tom_Hall_%2815977754135%29_%28cropped%29.jpg)
 
 ###### Questions

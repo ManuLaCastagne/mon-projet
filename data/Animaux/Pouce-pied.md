@@ -15,8 +15,9 @@ indice_6 :
   - Délice gastronomique
 questions:
  - Quel crustacé voisin de l'anatife vit sur les roches battus par les vagues ?
+culture_g_score: 23
+culture_g_justification: "Crustacé gastronomique régional, intéressant mais très peu rentable pour un entraînement généraliste."
 ---
-
 ![Image de Pouce-pied](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pollicipes_pollicipes.jpg)
 
 ###### Questions

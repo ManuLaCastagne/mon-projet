@@ -24,8 +24,9 @@ indice_6 :
   - océan
 questions:
  - M'étendant sur la majeure partie du Berry et sur une partie de la Sologne, j'abrite les communes de Sancerre, Vierzon et Bourges, mon chef-lieu. Traversé...
+culture_g_score: 43
+culture_g_justification: "Département français secondaire, utile surtout pour Bourges, Sancerre et quelques repères géographiques ou culturels."
 ---
-
 ![Image de Cher](https://upload.wikimedia.org/wikipedia/commons/b/bb/Cher_in_2019_cropped.jpg)
 
 ![[Carte_Cher.png]]

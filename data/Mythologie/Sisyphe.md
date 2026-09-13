@@ -18,8 +18,9 @@ indice_6 :
   - damnation éternelle
 questions:
  - Personnage de la [[mythologie grecque]]. Fondateur de Corinthe. J'ai développé la navigation et le commerce et institué les jeux isthmiques...
+culture_g_score: 93
+culture_g_justification: "Le châtiment du rocher de Sisyphe est un marronnier absolu des quiz et a donné une expression courante, avec des liens à la mythologie, à la philosophie et à la littérature."
 ---
-
 ![Image de Sisyphe](https://upload.wikimedia.org/wikipedia/commons/4/43/Punishment_sisyph.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - FC Porto
 questions:
  - En 1998, quel entraîneur portugais, déjà champion de France avec le PSG en 94, reprend les rênes du club?
+culture_g_score: 44
+culture_g_justification: "Entraîneur vainqueur de la Coupe des clubs champions avec Porto, mais personnalité peu transversale hors du football."
 ---
-
-
 ![Image de Artur Jorge](https://upload.wikimedia.org/wikipedia/commons/1/16/Artur_jorge_06_2023.png)
 
 ###### Questions

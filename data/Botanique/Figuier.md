@@ -15,8 +15,9 @@ indice_6 :
   - Consommé pour ses fruits, les figues
 questions:
  - Quel arbre du genre ficus carica est apprécié pour ses fruits dans les pays humides méditerranéens où il pousse librement ?
+culture_g_score: 72
+culture_g_justification: "Arbre méditerranéen très anciennement cultivé, présent dans la Bible, l'alimentation, l'histoire et la botanique."
 ---
-
 ![Image de Figuier](https://upload.wikimedia.org/wikipedia/commons/5/59/Porte_du_Figuier_01.jpg)
 
 ###### Questions

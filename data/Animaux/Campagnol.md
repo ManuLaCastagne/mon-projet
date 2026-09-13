@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de prolifération
 questions:
  - Je suis caractérisé par une queue courte et velue. Mon espèce terrestre est redoutée des agriculteurs et creuse des galeries...
+culture_g_score: 32
+culture_g_justification: "Rongeur utile pour l’écologie des populations, mais peu connu comme référence autonome de quiz."
 ---
-
 ![Image de Campagnol](https://upload.wikimedia.org/wikipedia/commons/2/2c/Claudia-Campagnol_DSC05513.jpg)
 
 ###### Questions

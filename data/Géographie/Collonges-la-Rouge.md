@@ -22,8 +22,9 @@ indice_5 :
   - Grès rouge
 indice_6 : 
   - Plus beaux villages de France
+culture_g_score: 57
+culture_g_justification: "Village français très identifiable par son grès rouge et le label des Plus Beaux Villages de France, mais aux usages quiz assez spécialisés."
 ---
-
 ![[Carte_Collonges-la-Rouge.png]]
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - exploration des rêves
 questions:
  - En 2016, quel film d'Houda Benyamina, ayant pour cadre la banlieue parisienne, met en scène la jeune Dounia et son amie Maimouna?
+culture_g_score: 60
+culture_g_justification: "Film français primé à Cannes et aux César, utile pour le cinéma social et Houda Benyamina, mais encore relativement récent."
 ---
-
 ![Image de Divines](https://upload.wikimedia.org/wikipedia/commons/2/24/C%C3%A9sars_2017_9.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - École de Pont-Aven
 indice_6 : 
   - Moulin à beurre
+culture_g_score: 60
+culture_g_justification: "Lieu classique de l’histoire de l’art grâce à Gauguin et à l’école de Pont-Aven, avec une portée surtout artistique et régionale."
 ---
-
 ![[Carte_Pont-Aven.png]]
 
 ###### Questions

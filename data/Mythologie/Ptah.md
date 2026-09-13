@@ -18,9 +18,9 @@ indice_6 :
   - mari de Sekhmet
 questions:
  - Dans le panthéon égyptien, quel dieu de Memphis, patron des artisans, est considéré comme le créateur du monde ?
+culture_g_score: 64
+culture_g_justification: "Dieu créateur et patron des artisans à Memphis, Ptah est important pour l’égyptologie mais reste moins connu et moins transversal que les grandes divinités égyptiennes."
 ---
-
-
 ![Image de Ptah](https://upload.wikimedia.org/wikipedia/commons/b/bc/King_Ramesses_II_and_the_God_Ptah%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen%2C_20220618_1031_6995.jpg)
 
 ###### Questions

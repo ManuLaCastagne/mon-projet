@@ -22,8 +22,9 @@ indice_6 :
   - Mammy
 questions:
  - Cinéma. En 1927, quel film dans lequel Al Jolson chante "Blue Skies", est considéré comme le 1er long-métrage parlant de l'histoire du cinéma ?
+culture_g_score: 84
+culture_g_justification: "Repère fondateur de l’histoire du cinéma parlant, fréquemment questionné pour sa date, sa technique, Al Jolson et la transition du muet."
 ---
-
 ![Image de Le Chanteur de Jazz](https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Jazz_Singer.gif)
 
 ###### Questions

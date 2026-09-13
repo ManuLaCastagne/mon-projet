@@ -20,8 +20,9 @@ indice_6 :
   - Prix Nobel de Physiologie ou Médecine
 questions:
  - En 1928, quel médecin britannique découvre la pénicilline ?
+culture_g_score: 97
+culture_g_justification: "Découvreur de la pénicilline, il constitue un marronnier scientifique et médical aux applications et repères historiques multiples."
 ---
-
 ![Image de Alexander Fleming](https://upload.wikimedia.org/wikipedia/commons/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg)
 
 ###### Questions

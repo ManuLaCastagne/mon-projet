@@ -26,8 +26,9 @@ indice_6:
 questions:
   - Film de 1983 dans lequel le dialoguiste et acteur Didier Kaminka incarne le cousin Paul, je me termine par une scène de mariage en pleine mer. Mettant en scène l'employé d'une société d'assistance qui cache à sa fiancée qu'il voyage...
   - En 1983, dans quel film Coluche incarne-t-il un employé de la société Planète Assistance ?
+culture_g_score: 44
+culture_g_justification: "Comédie française populaire liée à Coluche et Claude Zidi, mais offrant peu d'angles réellement prioritaires."
 ---
-
 ![Image de Banzaï !](https://upload.wikimedia.org/wikipedia/en/2/20/Banzai.jpg)
 
 Dans quel film de [[Claude Zidi]] sorti en 1983 les personnages principaux voyagent-ils au [[Japon]] pour une mission commerciale qui tourne rapidement au désastre comique ?

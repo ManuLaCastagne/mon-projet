@@ -22,8 +22,9 @@ indice_6 :
   - personnage maladroit
 questions:
  - En 1953, dans quel film réalisé par lui-même, Jacques Tati incarne-t-il un personnage...
+culture_g_score: 80
+culture_g_justification: "Classique incontournable de Jacques Tati, riche en questions sur le burlesque, Monsieur Hulot, le son et le cinéma français."
 ---
-
 ![Image de Les Vacances de Monsieur Hulot](https://upload.wikimedia.org/wikipedia/commons/d/d0/Les_Vacances_de_Monsieur_Hulot_title.jpg)
 
 ###### Questions

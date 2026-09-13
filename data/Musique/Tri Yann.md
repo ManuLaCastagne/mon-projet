@@ -22,8 +22,9 @@ indice_6 :
   - 1970s
 questions:
  - Quel groupe de musique celtique fondé en 1970, est l'interprète des chansons "Dans les prisons de Nantes" ?
+culture_g_score: 60
+culture_g_justification: "Groupe emblématique de la musique bretonne, intéressant pour les cultures régionales et la chanson française, mais de portée limitée."
 ---
-
 ![Image de Tri Yann](https://upload.wikimedia.org/wikipedia/commons/6/63/Tri_yann.jpg)
 
 ###### Questions

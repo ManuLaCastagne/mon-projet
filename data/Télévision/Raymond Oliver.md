@@ -20,8 +20,9 @@ indice_6 :
   - pionnier de l'émission culinaire
 questions:
  - De 1954 à 1968, à la télévision, quel chef réputé présentait "Art et magie de la cuisine" aux côtés de Catherine Langeais ?
+culture_g_score: 64
+culture_g_justification: "Pionnier de la cuisine télévisée et grand chef français, intéressant à la croisée de la gastronomie et de l’histoire des médias."
 ---
-
 ![Image de Raymond Oliver](https://upload.wikimedia.org/wikipedia/commons/e/ec/Flying_Officer_Raymond_Oliver_Worthington.jpg)
 
 ###### Questions

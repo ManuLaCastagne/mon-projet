@@ -19,8 +19,9 @@ indice_5 :
   - a co-animé « Téléthon »
 indice_6 : 
   - journaliste et écrivain
+culture_g_score: 64
+culture_g_justification: "Animatrice française très connue, associée à plusieurs émissions populaires, mais dont la portée reste surtout télévisuelle."
 ---
-
 ![Image de Sophie Davant](https://upload.wikimedia.org/wikipedia/commons/8/8a/Rosa_%27Beverly%27_%28d.j.b%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - Fête du Saint-Flour
 indice_6:
   - Région d'Auvergne
+culture_g_score: 23
+culture_g_justification: "Saint-Flour est une ville locale peu connue, avec quelques repères patrimoniaux mais une très faible fréquence dans les quiz généralistes."
 ---
-
 ![[Carte_Saint-Flour.png]]
 
 ###### Questions

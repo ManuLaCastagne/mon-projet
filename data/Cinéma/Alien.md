@@ -20,6 +20,8 @@ indice_5:
   - Invasion
 indice_6:
   - Étrangers intergalactiques
+culture_g_score: 100
+culture_g_justification: "Classique mondial de la science-fiction et de l’horreur, régulièrement interrogé par son réalisateur, ses personnages, sa créature et sa franchise."
 ---
 ![[Pasted image 20260822185959.png]]
 ###### Questions

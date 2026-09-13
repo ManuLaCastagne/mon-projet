@@ -18,8 +18,9 @@ indice_5 :
   - Oscar du meilleur acteur
 indice_6 : 
   - Birdman of Alcatraz
+culture_g_score: 80
+culture_g_justification: "Grande star du cinéma américain et européen, utile pour l’Oscar, Le Guépard, le film noir, le western et l’histoire des studios."
 ---
-
 ![Image de Burt Lancaster](https://upload.wikimedia.org/wikipedia/commons/5/56/Burt_Lancaster.jpg)
 
 ###### Questions

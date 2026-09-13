@@ -22,8 +22,9 @@ indice_6 :
   - Les Années
 questions:
  - A quelle femme de lettres, dont l'oeuvre est pour l'essentiel autobiographique, doit-on les ouvrages intitulés "La Place" et "Mémoire de fille"?
+culture_g_score: 80
+culture_g_justification: "Prix Nobel récent et autrice française majeure, régulièrement interrogée à travers ses œuvres, l’autobiographie et les adaptations."
 ---
-
 ![Image de Annie Ernaux](https://upload.wikimedia.org/wikipedia/commons/b/b6/Annie_Ernaux_in_2022_%282_av_11%29.jpg)
 
 ###### Questions

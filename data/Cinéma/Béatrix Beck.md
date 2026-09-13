@@ -20,8 +20,9 @@ indice_5 :
   - Écriture intime
 indice_6 : 
   - Adaptation cinématographique
+culture_g_score: 39
+culture_g_justification: "Écrivaine lauréate du Goncourt et liée à Léon Morin, prêtre, mais sa place dans les quiz généralistes demeure limitée."
 ---
-
 ![Image de Béatrix Beck](https://upload.wikimedia.org/wikipedia/commons/3/3c/Taleofsquirrelnu00pottuoft.djvu)
 
 ###### Questions

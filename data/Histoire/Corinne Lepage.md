@@ -20,8 +20,9 @@ indice_6:
   - candidate à l'élection présidentielle de 2002
 questions:
   - Quelle avocate française, soucieuse des questions écologiques, a été ministre de l'Environnement de 1995 à 1997 ?
+culture_g_score: 43
+culture_g_justification: "Ancienne ministre et militante écologiste identifiable dans la politique française, mais peu centrale dans la culture générale internationale."
 ---
-
 ![Image de Corinne Lepage](https://upload.wikimedia.org/wikipedia/commons/1/1b/Lepage%2C_Corinne-2493.jpg)
 
 ###### Questions

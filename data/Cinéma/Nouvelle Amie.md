@@ -22,10 +22,9 @@ indice_6:
   - liens indéfectibles
 questions:
   - Dans quel drame de François Ozon Anaïs Demoustier découvre-t-elle le secret de Romain Duris, un veuf qui aime se travestir en femme ?
+culture_g_score: 43
+culture_g_justification: "Film d’Ozon utile pour des questions sur le réalisateur, ses acteurs et l’identité de genre, mais d’impact général limité."
 ---
-
-
-
 ![Image de Nouvelle Amie](https://upload.wikimedia.org/wikipedia/commons/0/04/Une_nouvelle_amie_avp_2014.jpg)
 
 ###### Questions

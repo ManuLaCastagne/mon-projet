@@ -20,8 +20,9 @@ indice_6 :
   - années 2000
 questions:
  - Quel titre en forme de jeu de mots, incluant le nom de l'animateur Michel Field a-t-on donné à une ancienne émission littéraire?
+culture_g_score: 27
+culture_g_justification: "Émission culturelle relativement confidentielle, susceptible de produire surtout une question télévisuelle spécialisée."
 ---
-
 ![Image de Au Field de la nuit](https://upload.wikimedia.org/wikipedia/commons/8/89/La_nuit_du_9_au_10_thermidor_an_II_%28tableau_recadr%C3%A9%29.jpg)
 
 ###### Questions

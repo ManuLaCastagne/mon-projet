@@ -22,8 +22,9 @@ indice_6 :
   - Tri Yann
 questions:
  - Au début des années 70, à quel défenseur de la culture bretonne doit-on le titre "La blanche hermine"...
+culture_g_score: 43
+culture_g_justification: "Artiste emblématique de la culture bretonne, mais dont la présence dans les quiz reste occasionnelle et surtout régionale."
 ---
-
 ![Image de Gilles Servat](https://upload.wikimedia.org/wikipedia/commons/e/e8/Gilles_servat.jpg)
 
 ###### Questions

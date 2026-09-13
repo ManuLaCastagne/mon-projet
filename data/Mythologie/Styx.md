@@ -18,9 +18,9 @@ indice_6 :
   - fleuve infernal
 questions:
  - Cours d'eau de la [[mythologie grecque]] portant le nom d'une nymphe, mère de Zélos Nikê, Bia et Cratos...
+culture_g_score: 73
+culture_g_justification: "Le Styx est un repère classique de la mythologie grecque, exploitable à travers les Enfers, Charon, les serments divins et plusieurs références culturelles."
 ---
-
-
 ![Image de Styx](https://upload.wikimedia.org/wikipedia/commons/4/45/Acherontia_styx_styx_MHNT_CUT_2010_0_36_Cambodge_male_ventral.jpg)
 
 ###### Questions

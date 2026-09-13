@@ -22,8 +22,9 @@ indice_6 :
   - acteur silencieux
 questions:
  - Quel acteur comique français ayant connu le succès dès les années 1910, a rejoint Cinéma/Hollywood, y tournant notamment "L'Etroit Mousquetaire", en un seul mot, étroit, en 1922?
+culture_g_score: 56
+culture_g_justification: "Pionnier essentiel du cinéma comique muet, mais son identification relève davantage de l’histoire du cinéma que de la littérature."
 ---
-
 ![Image de Max Linder](https://upload.wikimedia.org/wikipedia/commons/d/d4/Max_Linder_c1917.jpg)
 
 ###### Questions

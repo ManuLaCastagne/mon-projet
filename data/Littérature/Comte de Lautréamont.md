@@ -22,8 +22,9 @@ indice_6 :
   - influencé par le romantisme noir
 questions:
  - Sous quel nom connaît-on mieux Isidore Ducasse, auteur des "Les Chants de Maldoror" en 1869 ?
+culture_g_score: 64
+culture_g_justification: "Figure culte de la poésie moderne et du surréalisme, fréquemment reliée aux Chants de Maldoror, mais peu connue au-delà des amateurs de littérature."
 ---
-
 ![Image de Comte de Lautréamont](https://upload.wikimedia.org/wikipedia/commons/e/e3/Lautr%C3%A9amont.jpg)
 
 ###### Questions

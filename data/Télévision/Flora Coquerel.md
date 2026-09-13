@@ -20,8 +20,9 @@ indice_6 :
   - engagée dans des actions caritatives
 questions:
  - En 2014, à quelle ancienne Miss Orléanais, élue Miss France fin 2013, le chanteur Matt Houston a-t-il consacré une chanson?
+culture_g_score: 44
+culture_g_justification: "Miss France et candidate de concours ou de divertissement, principalement utile pour quelques questions de beauté et de télévision."
 ---
-
 ![Image de Flora Coquerel](https://upload.wikimedia.org/wikipedia/commons/1/11/Flora_Coquerel_NRJ_2014_2.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - Enquête policière
 indice_6:
   - Londres victorien
+culture_g_score: 96
+culture_g_justification: "Personnage littéraire universellement célèbre, mobilisable à travers Doyle, les intrigues, les adaptations et la culture populaire."
 ---
-
-
 ![Image de Sherlock Holmes](https://upload.wikimedia.org/wikipedia/commons/c/c6/Charles_Frohman_presents_William_Gillette_in_his_new_four_act_drama%2C_Sherlock_Holmes_%28LOC_var_1364%29_%28edit%29.jpg)
 
 ###### Questions

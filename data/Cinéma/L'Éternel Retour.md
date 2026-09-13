@@ -22,8 +22,9 @@ indice_6 :
   - Histoire de Punxsutawney
 questions:
  - En 1943, quel film inspiré du mythe de Tristan et Yseult réunit Jean Marais et Madeleine Sologne ?
+culture_g_score: 51
+culture_g_justification: "Œuvre notable du cinéma français sous l'Occupation, intéressante pour Cocteau, le mythe d'Orphée et Jean Marais, mais peu fréquente."
 ---
-
 ![Image de Éternel Retour](https://upload.wikimedia.org/wikipedia/commons/a/a7/S%C3%A9r%C3%A9nit%C3%A9_d%27un_%C3%A9ternel_retour_du_m%C3%AAme.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - tradition
 questions:
  - Terme court qui définit le théâtre japonais…
+culture_g_score: 68
+culture_g_justification: "Le théâtre nô est une forme majeure du patrimoine japonais, exploitable en théâtre, rituel, musique, masques et histoire culturelle."
 ---
-
 ![Image de No (théâtre)](https://upload.wikimedia.org/wikipedia/commons/6/6e/Sheldonian_Theatre_Interior%2C_Oxford%2C_UK_-_Diliff.jpg)
 
 ###### Questions

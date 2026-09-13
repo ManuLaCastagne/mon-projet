@@ -22,8 +22,9 @@ indice_6 :
   - voix douce et distincte
 questions:
  - Admirant Django Reinhardt, j'ai écrit l'album "Eternels, jusqu'à demain", plus pop. J'ai repris en 2020 des classiques de la chanson française, dans "Frenchy". Révélé par "Comme un Manouche sans guitare".
+culture_g_score: 44
+culture_g_justification: "Chanteur français connu notamment par sa filiation et le jazz manouche, mais encore peu central dans les quiz généralistes."
 ---
-
 ![Image de Thomas Dutronc](https://upload.wikimedia.org/wikipedia/commons/9/96/Thomas_Dutronc_2011_a.jpg)
 
 ###### Questions

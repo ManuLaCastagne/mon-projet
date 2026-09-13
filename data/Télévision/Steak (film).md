@@ -21,8 +21,9 @@ indice_6 :
   - esthétique rétrofuturiste
 questions:
  - En 2007, dans quel film Eric et Ramzy évoluent-ils dans une société où la chirurgie esthétique est devenue la norme...
+culture_g_score: 31
+culture_g_justification: "Comédie absurde de Quentin Dupieux appréciée des cinéphiles, mais trop spécialisée pour offrir un rendement généraliste élevé."
 ---
-
 ![Image de Steak (film)](https://upload.wikimedia.org/wikipedia/commons/5/53/Quentin_Dupieux.jpg)
 
 ###### Questions

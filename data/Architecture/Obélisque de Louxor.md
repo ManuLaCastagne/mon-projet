@@ -23,8 +23,9 @@ indice_6 :
   - Ramsès II
 questions:
  - Monument parisien qualifié par Pétrus Borel de hochet de granit dans un pamphlet, j'étais autrefois installé à l'entrée d'un temple avec un autre monument semblable. Ayant effectué un voyage de deux ans et neuf mois avant d'être installé...
+culture_g_score: 77
+culture_g_justification: "L’Obélisque de Louxor est un monument parisien très identifiable, à la croisée de l’Égypte antique, de l’histoire franco-égyptienne et de Paris."
 ---
-
 ![Image de Obélisque de Louxor](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ob%C3%A9lisque_louqsor_concorde_vertical.jpg)
 
 ###### Questions

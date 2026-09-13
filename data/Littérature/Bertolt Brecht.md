@@ -18,8 +18,9 @@ indice_5 :
   - Verfremdungseffekt
 indice_6 : 
   - Mère Courage et ses enfants
+culture_g_score: 87
+culture_g_justification: "Dramaturge mondialement important, associé au théâtre épique, à Kurt Weill, à l’engagement politique et à plusieurs pièces classiques."
 ---
-
 ![Image de Bertolt Brecht](https://upload.wikimedia.org/wikipedia/commons/f/f8/Bundesarchiv_Bild_183-W0409-300%2C_Bertolt_Brecht.jpg)
 
 ###### Questions

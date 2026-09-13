@@ -22,8 +22,9 @@ indice_6 :
   - double album
 questions:
  - En 1970, sur quel double disque, dont le titre est formé de 2 mots commençant par la lettre A, Léo Ferré a-t-il enregistré "Poète, vos papiers"?
+culture_g_score: 48
+culture_g_justification: "Amour Anarchie est un album important de Léo Ferré, mais son identification constitue une connaissance assez spécialisée."
 ---
-
 ![Image de Amour Anarchie](https://upload.wikimedia.org/wikipedia/commons/2/26/Colet_-_La_Verite_sur_l_anarchie_des_esprits.djvu)
 
 ###### Questions

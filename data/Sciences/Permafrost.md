@@ -18,8 +18,9 @@ indice_5 :
   - Séquestration du carbone
 indice_6 : 
   - Climat Arctique
+culture_g_score: 65
+culture_g_justification: "Terme scientifique international du pergélisol, utile surtout pour les questions sur l’Arctique, le climat et les gaz à effet de serre."
 ---
-
 ![Image de Permafrost](https://upload.wikimedia.org/wikipedia/commons/6/6f/Permafrost_in_Herschel_Island_006.jpg)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_6 :
   - histoire de Paolo et Francesca
 questions:
  - Je figurais à l'origine Paolo et Francesca, deux amants de "La Divine comédie" de Dante Alighieri. Oeuvre d'Auguste Rodin représentant un homme et une femme enlacés.
+culture_g_score: 84
+culture_g_justification: "Le Baiser est l’une des sculptures les plus reconnaissables de Rodin, avec des liens forts vers Dante, la sculpture moderne et l’art romantique."
 ---
-
-
 ![Image de Le Baiser (sculpture)](https://upload.wikimedia.org/wikipedia/commons/d/d4/Mus%C3%A9e_Ingres-Bourdelle_-_Le_Baiser_-_Marbre_-_Antoine_Bourdelle_MID_99.3.1.jpg)
 
 ###### Questions

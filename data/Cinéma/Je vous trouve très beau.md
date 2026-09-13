@@ -22,8 +22,9 @@ indice_6 :
   - comédie romantique
 questions:
  - En 2005, dans quel film d'Isabelle Mergault, Michel Blanc incarne-t-il un agriculteur veuf qui trouve une compagne grâce à une agence matrimoniale?
+culture_g_score: 32
+culture_g_justification: "Comédie française identifiable par son titre et Michel Blanc, mais peu fréquente et peu structurante dans les quiz."
 ---
-
 ![Image de Je vous trouve très beau](https://upload.wikimedia.org/wikipedia/commons/0/04/You_are_so_beautiful..._-_panoramio.jpg)
 
 ###### Questions

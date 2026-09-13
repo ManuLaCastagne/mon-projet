@@ -20,8 +20,9 @@ indice_6 :
   - Arvor 29
 questions:
  - En 2021, quel club breton de handball féminin a remporté son 2e titre de champion...
+culture_g_score: 40
+culture_g_justification: "Club français récent du handball féminin, surtout utile dans des questions spécialisées sur les compétitions européennes."
 ---
-
 ![Image de BBH (Brest)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Ana_Gros%2C_Brest_Bretagne_Handball.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Porteños
 indice_6 : 
   - Obélisque
+culture_g_score: 92
+culture_g_justification: "Buenos Aires est une capitale majeure, ouvrant sur l’Argentine, le tango, l’immigration, la littérature, le football et l’histoire sud-américaine."
 ---
-
 ![Image de Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/a/a9/199_-_Buenos_Aires_-_A%C3%A9roport_international_Ezeiza_-_Janvier_2010.jpg)
 
 ![[Carte_Buenos Aires.png]]

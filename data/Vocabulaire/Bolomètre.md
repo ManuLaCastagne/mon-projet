@@ -16,11 +16,12 @@ indice_6 :
   - instrument de mesure
 ---
 
+
 ![Image de Bolomètre](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bolometer_for_terahertz_radiation_detection.jpg)
 
 ###### Questions
 
-Quel instrument détecte les intensités du rayonnement ?
+Quel instrument détecte les intensités du rayonnement ? <!-- score: 2 -->
 
 ###### Description
 

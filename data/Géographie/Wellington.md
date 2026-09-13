@@ -25,6 +25,7 @@ indice_6 :
 questions:
  - Quel général britannique, ayant reçu le commandement de...
 culture_g_score: 60
+culture_g_justification: "Capitale néo-zélandaise identifiable par sa géographie, son statut politique et son rôle culturel, mais moins centrale que les grandes capitales mondiales."
 ---
 ![Image de Wellington](https://upload.wikimedia.org/wikipedia/commons/e/e9/Wellington_City_Night.jpg)
 

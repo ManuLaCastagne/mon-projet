@@ -18,8 +18,9 @@ indice_5 :
   - Syllogisme
 indice_6 : 
   - Physique
+culture_g_score: 100
+culture_g_justification: "Philosophe central de la pensée occidentale, présent en philosophie, sciences naturelles, logique, politique, éthique et histoire antique."
 ---
-
 ![Image de Aristote](https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg)
 
 ###### Questions

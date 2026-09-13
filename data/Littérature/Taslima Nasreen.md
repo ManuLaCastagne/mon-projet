@@ -22,8 +22,9 @@ indice_6 :
   - Lajja
 questions:
  - En 2008, quelle femme de lettres, engagée pour la cause des femmes au Bangladesh, est faite citoyenne d'honneur de la Ville de Paris?
+culture_g_score: 52
+culture_g_justification: "Figure littéraire et militante liée aux droits des femmes, à la liberté d'expression et aux controverses religieuses, mais assez rarement questionnée."
 ---
-
 ![Image de Taslima Nasreen](https://upload.wikimedia.org/wikipedia/commons/3/30/Taslima_Nasrin_par_Claude_Truong-Ngoc_novembre_2013.jpg)
 
 ###### Questions

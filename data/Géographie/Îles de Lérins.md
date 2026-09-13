@@ -24,11 +24,9 @@ indice_6 :
   - Méditerranée
 questions:
  - Quel est ce groupe d'îles au large de Cannes qui est principalement composé des îles Saint-Honorat et Sainte-Marguerite, que l'on aperçoit ici respectivement aux 1er et 2e plan?
+culture_g_score: 60
+culture_g_justification: "Archipel associé au Masque de fer, à Napoléon et au patrimoine religieux, ce qui lui donne plusieurs entrées classiques."
 ---
-
-
-
-
 ![Image de Îles de Lérins](https://upload.wikimedia.org/wikipedia/commons/c/ce/Aerial_view_of_%C3%8Eles_de_L%C3%A9rins_%28cropped%29.jpg)
 
 ![[Carte_Îles de Lérins.png]]

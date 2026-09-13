@@ -20,8 +20,9 @@ indice_5:
   - La Magnifique
 indice_6:
   - Sous le Volcan
+culture_g_score: 51
+culture_g_justification: "Actrice britannique ayant joué dans plusieurs films connus, mais dont la place dans les quiz généralistes demeure secondaire."
 ---
-
 ![Image de Jacqueline Bisset](https://upload.wikimedia.org/wikipedia/commons/f/fa/Jacqueline_Bisset_Cannes_2017_2.jpg)
 
 ###### Questions

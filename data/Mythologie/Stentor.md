@@ -19,10 +19,9 @@ indice_6 :
 questions:
  - Personnage mythologique  sous les traits duquel Junon apparaît dans l'Iliade lors de la guerre de Troie pour animer le courage des combattants, je perdis la vie, selon d'autres sources, pour avoir voulu me mesurer à Hermès.
  - Durant la guerre de Troie, quel attribut a fait la renommée du guerrier grec Stentor ?
+culture_g_score: 40
+culture_g_justification: "Stentor est surtout connu par l'expression « voix de Stentor » et par un épisode secondaire de l'Iliade."
 ---
-
-
-
 ![Image de Stentor](https://upload.wikimedia.org/wikipedia/commons/5/58/Stentor_coeruleus.png)
 
 ###### Questions

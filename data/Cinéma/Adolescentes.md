@@ -21,6 +21,8 @@ indice_5:
   - protagonistes féminines
 indice_6:
   - expériences adolescentes
+culture_g_score: 44
+culture_g_justification: "Documentaire récompensé aux César, mais son sujet reste limité au cinéma français contemporain."
 ---
 ![[Pasted image 20260804075735.png]]
 ###### Questions

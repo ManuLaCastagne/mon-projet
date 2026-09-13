@@ -13,8 +13,9 @@ indice_5:
   - Astrakan
 indice_6:
   - Symbole de richesse textile
+culture_g_score: 23
+culture_g_justification: "Race ovine spécialisée surtout connue pour l'astrakan, avec une probabilité très faible dans les quiz généralistes."
 ---
-
 ![Image de Caracul](https://upload.wikimedia.org/wikipedia/commons/6/6d/Karakul_sheep_in_Akron_Zoo.jpg)
 
 ###### Questions

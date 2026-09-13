@@ -23,8 +23,9 @@ indice_6 :
   - héritier de Khéops
 questions:
  - Nous allons en Egypte. Avec Kheops et Mykerinos, quelle autre pyramide constitue l'ensemble funéraire de Gizeh?
+culture_g_score: 97
+culture_g_justification: "La pyramide de Khéphren est un monument mondial incontournable, directement lié à Gizeh, à l’Égypte antique et au Sphinx."
 ---
-
 ![Image de Kephren](https://upload.wikimedia.org/wikipedia/commons/9/98/IAM_%C3%A0_l%27Olympia_de_Montr%C3%A9al.jpg)
 
 ###### Questions

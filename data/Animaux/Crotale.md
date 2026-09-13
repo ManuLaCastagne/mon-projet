@@ -15,8 +15,9 @@ indice_6:
   - Symbole de danger et avertissement
 questions:
   - Serpent venimeux d'Amérique possédant une queue...
+culture_g_score: 76
+culture_g_justification: "Serpent emblématique reconnaissable à sa sonnette, fréquemment associé au venin, aux Amériques et à des faits zoologiques classiques."
 ---
-
 ![Image de Crotale](https://upload.wikimedia.org/wikipedia/commons/7/77/Crotale_NG_P1220851.jpg)
 
 ###### Questions

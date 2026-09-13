@@ -22,8 +22,9 @@ indice_5 :
   - centre culturel
 indice_6 : 
   - place de l'Indépendance
+culture_g_score: 80
+culture_g_justification: "Capitale européenne régulièrement interrogée, notamment pour la Biélorussie, la Seconde Guerre mondiale et sa reconstruction."
 ---
-
 ![Image de Minsk](https://upload.wikimedia.org/wikipedia/commons/b/bd/Mi%C5%84sk_Mazowiecki_Pa%C5%82ac_Derna%C5%82owicz%C3%B3w_2012.jpg)
 
 ![[Carte_Minsk.png]]

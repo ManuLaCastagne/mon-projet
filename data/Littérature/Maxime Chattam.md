@@ -20,9 +20,9 @@ indice_5:
   - L'Âme du Mal
 indice_6:
   - Romans à suspense
+culture_g_score: 47
+culture_g_justification: "Auteur populaire du thriller français, identifiable par La Trilogie du mal, mais encore peu central dans la culture générale classique."
 ---
-
-
 ![Image de Maxime Chattam](https://upload.wikimedia.org/wikipedia/commons/e/e1/Maxime_Chattam.JPG)
 
 ###### Questions

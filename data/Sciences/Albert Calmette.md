@@ -18,9 +18,9 @@ indice_5 :
   - Louis Pasteur
 indice_6 : 
   - BCG
+culture_g_score: 64
+culture_g_justification: "Médecin important par le BCG et le sérum antivenimeux, mais principalement mobilisé dans quelques questions d’histoire médicale."
 ---
-
-
 ![Image de Albert Calmette](https://upload.wikimedia.org/wikipedia/commons/4/40/Albert_Calmette.jpg)
 
 ###### Questions

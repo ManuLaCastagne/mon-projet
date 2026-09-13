@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la renaissance
 questions:
  - Par quel mot désigne-t-on un jeune serpent ?
+culture_g_score: 20
+culture_g_justification: "Terme désignant un jeune serpent et essentiellement limité au vocabulaire zoologique ou à une référence chansonnière."
 ---
-
 ![Image de Serpenteau](https://upload.wikimedia.org/wikipedia/commons/a/a4/Serpenteau%2C_gagnant_du_Prix_Le_Gourzy%2C_Auteuil%2C_16-4-11_%28course_de_chevaux%29_-_photographie_de_presse_-_Agence_Rol_-_btv1b69159973.jpg)
 
 ###### Questions

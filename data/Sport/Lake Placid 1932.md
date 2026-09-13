@@ -18,8 +18,9 @@ indice_5:
   - sports d'hiver
 indice_6:
   - février 1932
+culture_g_score: 44
+culture_g_justification: "Édition historique des Jeux d’hiver, mais généralement réduite à quelques repères sur le lieu et la période."
 ---
-
 ![Image de Lake Placid 1932](https://upload.wikimedia.org/wikipedia/commons/8/82/Olympic_Bobsled_Run_Lake_Placid2.jpg)
 
 ###### Questions

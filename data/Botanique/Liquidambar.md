@@ -15,8 +15,9 @@ indice_6 :
   - Usage ornemental et production de résine
 questions:
  - Quel arbre, dont le nom signifie ambre liquide est apprécié pour son feuillage qui passe à l'automne du doré à l'écarlate puis au pourpre violacé ?
+culture_g_score: 32
+culture_g_justification: "Arbre remarquable par ses couleurs automnales et sa résine, mais peu présent dans les quiz généralistes."
 ---
-
 ![Image de Liquidambar](https://upload.wikimedia.org/wikipedia/commons/3/39/Amberboom_%28Liquidambar_styraciflua%29._Detail._31-03-2020_%28d.j.b.%29.jpg_07.jpg)
 
 ###### Questions

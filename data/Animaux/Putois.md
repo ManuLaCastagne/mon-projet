@@ -15,8 +15,9 @@ indice_6 :
   - Symbole d'indépendance
 questions:
  - Quel mustélidé d'Europe porte un nom tiré de l'ancien français signifiant puant…
+culture_g_score: 47
+culture_g_justification: "Mustélidé identifiable par son odeur et ses références à la culture populaire, mais rarement prioritaire en quiz généraliste."
 ---
-
 ![Image de Putois](https://upload.wikimedia.org/wikipedia/commons/c/c1/%D0%A2%D1%85%D1%96%D1%80_%D0%BB%D1%96%D1%81%D0%BE%D0%B2%D0%B8%D0%B9.jpg)
 
 ###### Questions

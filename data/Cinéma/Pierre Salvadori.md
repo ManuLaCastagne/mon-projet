@@ -22,8 +22,9 @@ indice_6 :
   - Hors de prix
 questions:
  - En 1992, quel réalisateur français donne à Jean Rochefort le rôle d'un tueur professionnel dans "Cible émouvante"?
+culture_g_score: 60
+culture_g_justification: "Réalisateur régulier de la comédie française, associé à plusieurs acteurs connus et à quelques films reconnus, mais sans statut incontournable."
 ---
-
 ![Image de Pierre Salvadori](https://upload.wikimedia.org/wikipedia/commons/d/da/Pierre_Salvadori_Cabourg_2014.jpg)
 
 ###### Questions

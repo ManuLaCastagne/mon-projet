@@ -24,8 +24,9 @@ indice_6 :
   - traversée de villes industrielles
 questions:
  - Quelle rivière de France et de Belgique arrose Maubeuge puis Charleroi avant de confluer à Namur avec la Meuse?
+culture_g_score: 40
+culture_g_justification: "Rivière franco-belge pouvant donner quelques questions régionales ou historiques, mais restant secondaire."
 ---
-
 ![Image de Sambre](https://upload.wikimedia.org/wikipedia/commons/1/1b/SamberMerbesleCh%C3%A2teau.jpg)
 
 ![[Carte_Sambre.png]]

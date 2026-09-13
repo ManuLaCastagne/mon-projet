@@ -18,8 +18,9 @@ indice_5 :
   - Songkran
 indice_6 : 
   - Ramadan
+culture_g_score: 79
+culture_g_justification: "Célébration universelle ouvrant sur les calendriers, les traditions religieuses, les cultures nationales et l'histoire des sociétés."
 ---
-
 ![Image de Nouvel an]()
 
 ###### Questions

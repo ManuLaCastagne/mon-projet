@@ -18,10 +18,9 @@ indice_6 :
   - protectrice des marginaux
 questions:
  - Dans la [[mythologie grecque]], quelle déesse représentée avec 3 corps ou avec 3 têtes préside à la magie et aux enchantements?
+culture_g_score: 60
+culture_g_justification: "Déesse grecque identifiable par la magie, les carrefours et ses représentations triples, mais de fréquence moyenne."
 ---
-
-
-
 ![Image de Hécate](https://upload.wikimedia.org/wikipedia/commons/2/2d/Estatua_de_Diana_como_H%C3%A9cate%2C_British_Museum.jpg)
 
 ###### Questions

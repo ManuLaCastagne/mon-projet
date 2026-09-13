@@ -20,8 +20,9 @@ indice_6 :
   - Résurrection
 questions:
  - Constitué des 4 évangiles, des actes des apôtres, des épîtres et de l'Apocalypse de Jean, je constitue avec l'Ancien Testament la Bible des chrétiens.
+culture_g_score: 100
+culture_g_justification: "Texte fondateur du christianisme, le Nouveau Testament permet d'aborder les Évangiles, les apôtres, la théologie, l'histoire et l'art."
 ---
-
 ![Image de Nouveau Testament](https://upload.wikimedia.org/wikipedia/commons/f/f7/Darby_-_Le_Nouveau_Testament_1859.djvu)
 
 ###### Questions

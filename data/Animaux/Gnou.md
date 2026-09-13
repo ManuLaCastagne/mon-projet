@@ -15,8 +15,9 @@ indice_6 :
   - Migration annuelle
 questions:
  - Quelle antilope d'Afrique à tête chevaline, ça a une tête un peu étrange, ornée d'une barbe et d'une crinière, effectue des migrations saisonnières en troupeaux immenses?
+culture_g_score: 60
+culture_g_justification: "Le gnou est une figure classique de la migration du Serengeti et de la faune africaine, avec plusieurs angles mais une portée modérée."
 ---
-
 ![Image de Gnou](https://upload.wikimedia.org/wikipedia/commons/6/60/Gnou_bleu_%28Connochaetes_taurinus%29.jpg)
 
 ###### Questions

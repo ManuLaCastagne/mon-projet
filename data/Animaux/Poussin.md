@@ -15,10 +15,9 @@ indice_6 :
   - Symbole de l'innocence
 questions:
  - Petit d'un animal domestique  devant mon nom au mot latin "pullicenus", je pèse environ 40 g à la naissance mais double mon poids en quelques jours. Me nourrissant de graines et des vers que je picore à l'aide de mon bec, je possède 2 pattes pourvues de 4 doigts et suis recouvert d'un duvet le plus souvent...
+culture_g_score: 48
+culture_g_justification: "Jeune de la poule extrêmement familier, mais surtout utile dans des questions de vocabulaire ou de culture enfantine."
 ---
-
-
-
 ![Image de Poussin](https://upload.wikimedia.org/wikipedia/commons/d/df/Nicolas_Poussin_-_Et_in_Arcadia_ego_%28deuxi%C3%A8me_version%29.jpg)
 
 ###### Questions

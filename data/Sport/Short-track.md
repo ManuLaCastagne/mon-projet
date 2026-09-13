@@ -20,8 +20,9 @@ indice_6 :
   - Coupes du Monde
 questions:
  - Lors des JO d'hiver 2002, dans quelle discipline l'Australien Steven Bradbury s'impose-t-il grâce à la chute de ses adversaires ?
+culture_g_score: 60
+culture_g_justification: "Discipline olympique d’hiver reconnaissable par ses courses en peloton, ses chutes spectaculaires et son anneau court, avec une fréquence modérée."
 ---
-
 ![Image de Short-track](https://upload.wikimedia.org/wikipedia/commons/8/81/Patins_de_short-track_sur_un_aff%C3%BBteur.jpg)
 
 ###### Questions

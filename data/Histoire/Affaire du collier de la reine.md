@@ -20,8 +20,9 @@ indice_6 :
   - scandale de la Cour de France
 questions:
  - Causé par le souhait du cardinal de Rohan d'améliorer ses relations avec la reine, je contribuai à déconsidérer Marie-Antoinette. Affaire d'escroquerie, ayant eu pour objet une parure de diamants, je suis…
+culture_g_score: 80
+culture_g_justification: "Affaire très classique, à la croisée de Marie-Antoinette, de la monarchie, de l’opinion publique et des causes de la Révolution."
 ---
-
 ![Image de Affaire du collier de la reine](https://upload.wikimedia.org/wikipedia/commons/0/05/Planche_de_portraits_de_personnages_m%C3%AAl%C3%A9s_%C3%A0_l%27%22Affaire_du_Collier_de_la_Reine%22_-_estampe_-_non_identifi%C3%A9_-_btv1b8410504q.jpg)
 
 ###### Questions

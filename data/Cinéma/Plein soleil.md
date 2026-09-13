@@ -22,9 +22,9 @@ indice_6 :
   - thriller adaptatif
 questions:
  - En 1960, dans quel film de René Clément Alain Delon incarne-t-il Tom Ripley aux côtés de Maurice Ronet?
+culture_g_score: 77
+culture_g_justification: "Classique fondateur de la carrière d'Alain Delon, associé à René Clément, Patricia Highsmith, Nino Rota et au thriller européen."
 ---
-
-
 ![Image de Plein soleil](https://upload.wikimedia.org/wikipedia/commons/8/88/Delon-Laforet-Italie-1959.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_5 :
   - Bekaa
 indice_6 : 
   - Baalbek
+culture_g_score: 80
+culture_g_justification: "Le Liban est fréquemment mobilisé pour son histoire levantine, ses sites antiques, ses cèdres, ses religions et ses enjeux géopolitiques."
 ---
-
-
 ![[Carte_Liban.png]]
 
 ###### Questions

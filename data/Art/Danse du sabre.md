@@ -23,8 +23,9 @@ indice_6 :
   - spectacle culturel
 questions:
  - Quelle danse, composée par Katchatourian qui doit son nom à une arme blanche ?
+culture_g_score: 64
+culture_g_justification: "Morceau très reconnaissable de Khatchatourian, fréquemment utilisé dans la culture populaire, mais aux angles principalement musicaux."
 ---
-
 ![Image de Danse du sabre](https://upload.wikimedia.org/wikipedia/commons/c/c4/Danse_du_sabre._%28Exposition%29_-_photographie%2C_tirage_de_d%C3%A9monstration_-_Atelier_Nadar_-_btv1b53107926t.jpg)
 
 ###### Questions

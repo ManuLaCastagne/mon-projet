@@ -20,8 +20,9 @@ indice_6 :
   - FC Porto
 questions:
  - Le fils d'un ancien gardien de but international de foot. Adjoint de Bobby Robson puis de Luis Vangal au FC Barcelone...
+culture_g_score: 80
+culture_g_justification: "Entraîneur très médiatisé, rentable grâce à ses clubs, ses titres européens, ses rivalités et ses multiples étapes en Europe."
 ---
-
 ![Image de José Mourinho](https://upload.wikimedia.org/wikipedia/commons/e/e0/Jos%C3%A9_Mourinho_2020_%28cropped%29.jpg)
 
 ###### Questions

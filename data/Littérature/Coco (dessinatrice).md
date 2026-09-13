@@ -23,8 +23,9 @@ indice_6 :
   - adaptation littéraire
 questions:
  - Depuis le 1er avril 2021, quelle dessinatrice de "Charlie Hebdo" est devenue la caricaturiste du quotidien "Libération" à la place de Willem ?
+culture_g_score: 64
+culture_g_justification: "Dessinatrice devenue très connue par l’attentat de Charlie Hebdo, mais ses repères artistiques propres restent moins souvent questionnés."
 ---
-
 ![Image de Coco (dessinatrice)](https://upload.wikimedia.org/wikipedia/commons/9/92/FIBD2022RencontreCocoBoucq_03.jpg)
 
 ###### Questions

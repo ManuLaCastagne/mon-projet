@@ -22,8 +22,9 @@ indice_6 :
   - Exils
 questions:
  - En 2005, quel acteur incarne un agent immobilier véreux voulant devenir pianiste dans "De battre mon cœur s'est arrêté" de Jacques Audiard ?
+culture_g_score: 60
+culture_g_justification: "Acteur français identifiable par L'Auberge espagnole et plusieurs succès nationaux, mais rarement incontournable au-delà du cinéma français."
 ---
-
 ![Image de Romain Duris](https://upload.wikimedia.org/wikipedia/commons/5/50/Romain_Duris_2014.jpg)
 
 ###### Questions

@@ -24,7 +24,8 @@ indice_6 :
   - écosystème unique
 questions:
  - Quel lac du Massif central, situé près de Besse, à 1197 m d'altitude, est établi dans un cratère?
-culture_g_score: 40
+culture_g_score: 32
+culture_g_justification: "Lac volcanique français doté de quelques particularités géologiques et légendaires, le lac Pavin demeure un sujet régional."
 ---
 ![Image de Lac Pavin](https://upload.wikimedia.org/wikipedia/commons/d/de/Lac_Pavin_Vue_g%C3%A9n%C3%A9.JPG)
 

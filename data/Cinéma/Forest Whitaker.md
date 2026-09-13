@@ -22,8 +22,9 @@ indice_6 :
   - rôle dans The Butler
 questions:
  - En 2013, dans le film "Le Majordome", magnifique, quel acteur incarne un domestique discret qui a servi 7 présidents américains ?
+culture_g_score: 64
+culture_g_justification: "Acteur oscarisé associé à quelques rôles marquants, mais moins transversal et incontournable que les très grandes stars américaines."
 ---
-
 ![Image de Forest Whitaker](https://upload.wikimedia.org/wikipedia/commons/4/4b/Forest_Whitaker_by_Gage_Skidmore.jpg)
 
 ###### Questions

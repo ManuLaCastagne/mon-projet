@@ -15,8 +15,9 @@ indice_6 :
   - Inspirateur de Moby Dick
 questions:
  - Cétacé sécrétant l'ambre gris dans mes intestins, je suis…
+culture_g_score: 88
+culture_g_justification: "Cétacé emblématique de Moby Dick et de Jules Verne, avec des records biologiques qui alimentent de nombreuses questions."
 ---
-
 ![Image de Cachalot](https://upload.wikimedia.org/wikipedia/commons/b/b1/Mother_and_baby_sperm_whale.jpg)
 
 ###### Questions

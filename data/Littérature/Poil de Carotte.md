@@ -22,8 +22,9 @@ indice_6 :
   - personnage principal
 questions:
  - En 1894, dans quel récit, inspiré de son enfance, Jules Renard met-il en scène...
+culture_g_score: 68
+culture_g_justification: "Classique scolaire et populaire de Jules Renard, fréquemment reconnaissable par son personnage et ses adaptations."
 ---
-
 ![Image de Poil de Carotte](https://upload.wikimedia.org/wikipedia/commons/7/7f/Renard_-_Poil_de_Carotte%2C_1902-195.jpg)
 
 ###### Questions

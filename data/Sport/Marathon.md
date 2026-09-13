@@ -20,8 +20,9 @@ indice_6 :
   - Record du monde
 questions:
  - Sur quelle épreuve d'athlétisme le vainqueur est-il disqualifié pour utilisation d'une auto ?
+culture_g_score: 84
+culture_g_justification: "Épreuve sportive et notion historique très connues, reliant Jeux olympiques, Grèce antique, distance et course à pied."
 ---
-
 ![Image de Marathon](https://upload.wikimedia.org/wikipedia/commons/e/e2/Human_running_gait_-_terminal_swing_to_heel_strike_%28runner_with_Asics_Metaspeed_Edge_%22Paris%22%3B_2024_Ljubljana_Marathon%29.jpg)
 
 ###### Questions

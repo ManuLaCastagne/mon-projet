@@ -21,8 +21,9 @@ indice_6 :
   - Stéphane Rotenberg
 questions:
  - Emission de télé-réalité diffusée dès 2006, avec des sous-titres différents à chaque saison, je fais appel à la débrouillardise et à la rapidité des candidats pour se qualifier et obtenir...
+culture_g_score: 76
+culture_g_justification: "Émission d’aventure durable et très connue, ouvrant sur les animateurs, les pays traversés, les règles et les stratégies."
 ---
-
 ![Image de Pékin Express](https://upload.wikimedia.org/wikipedia/commons/c/ca/P%C3%A9kin_Express_S14_%28Gr%C3%A8ce%29.png)
 
 ###### Questions

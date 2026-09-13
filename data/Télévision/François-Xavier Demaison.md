@@ -20,8 +20,9 @@ indice_6 :
   - participation à On n'est pas couché
 questions:
  - Quel ancien étudiant de Sciences Po a fait une carrière dans la fiscalité internationale ?
+culture_g_score: 43
+culture_g_justification: "Acteur et humoriste français identifiable par quelques rôles et émissions, mais peu incontournable dans les quiz généralistes."
 ---
-
 ![Image de François-Xavier Demaison](https://upload.wikimedia.org/wikipedia/commons/f/ff/Fran%C3%A7ois-Xavier_Demaison_2010.jpg)
 
 ###### Questions

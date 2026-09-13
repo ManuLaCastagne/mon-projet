@@ -20,8 +20,9 @@ indice_6 :
   - voyage chez l'habitant
 questions:
  - Dans quelle émission télé, diffusée sur France 5, l'aventurier Antoine de Maximy...
+culture_g_score: 56
+culture_g_justification: "Émission française identifiable et régulièrement interrogée, mais ses angles restent surtout liés à la télévision et au voyage."
 ---
-
 ![Image de J'irai dormir chez vous](https://upload.wikimedia.org/wikipedia/commons/8/84/Gouges_-_Moli%C3%A8re_chez_Ninon%2C_ou_Le_si%C3%A8cle_des_grands_hommes%2C_1788.djvu)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Rigoberta Menchú
 questions:
  - En 1992, quelle femme politique guatémaltèque, militant pour les droits des populations indigènes de son pays, a reçu le prix Nobel de la paix?
+culture_g_score: 64
+culture_g_justification: "Prix Nobel de la paix et figure des peuples autochtones, connue surtout à travers l’histoire contemporaine de l’Amérique latine."
 ---
-
 ![Image de Rigoberta Menchu](https://upload.wikimedia.org/wikipedia/commons/1/1f/Rigoberta_Menchu_2009_cropped.jpg)
 
 ###### Questions

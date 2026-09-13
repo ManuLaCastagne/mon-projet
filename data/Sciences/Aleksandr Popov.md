@@ -20,8 +20,9 @@ indice_6 :
   - physique des particules
 questions:
  - En 1895, quel ingénieur russe invente l'antenne radioélectrique ?
+culture_g_score: 51
+culture_g_justification: "Précurseur de la radio d’importance historique, mais concurrencé par des figures plus connues comme Marconi et Hertz."
 ---
-
 ![Image de Aleksandr Popov](https://upload.wikimedia.org/wikipedia/commons/f/fb/Russian_swimmer_Aleksandr_Vladimirovich_Popov_in_kremlin_%28central%29.jpg)
 
 ###### Questions

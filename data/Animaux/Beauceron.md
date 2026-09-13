@@ -15,8 +15,9 @@ indice_6 :
   - Chien de berger
 questions:
  - Quel le chien de berger français a-t-on appelé bas-rouge...
+culture_g_score: 44
+culture_g_justification: "Chien de travail français identifiable par le nom Bas-Rouge, mais relativement secondaire en culture générale."
 ---
-
 ![Image de Beauceron](https://upload.wikimedia.org/wikipedia/commons/3/31/BeauceronStand.jpg)
 
 ###### Questions

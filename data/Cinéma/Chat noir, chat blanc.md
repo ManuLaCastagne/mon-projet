@@ -22,8 +22,9 @@ indice_6 :
   - film de 1998
 questions:
  - En 1998, quel film magnifique d'Emir Kusturica a pour héros est un gitan ?
+culture_g_score: 48
+culture_g_justification: "Film connu de Kusturica dans les cercles cinéphiles, avec quelques questions sur son réalisateur, ses récompenses et sa musique."
 ---
-
 ![[Pasted image 20250323112753.png]]
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4P4azrM6KsoPhlIp3mbcsV" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

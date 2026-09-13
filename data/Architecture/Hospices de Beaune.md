@@ -23,8 +23,9 @@ indice_6 :
   - fondation philanthropique en 1443
 questions:
  - Polychromes à motifs géométriques typiques de la Bourgogne. Ancien établissement hospitalier...
+culture_g_score: 80
+culture_g_justification: "Les Hospices de Beaune sont un monument français très rentable grâce à leur architecture, leur histoire hospitalière, leur vin et le polyptyque de Van der Weyden."
 ---
-
 ![Image de Hospices de Beaune](https://upload.wikimedia.org/wikipedia/commons/a/a1/Beaune_H%C3%B4tel-Dieu_Tenture_d%27Isaac_et_Jacob.jpg)
 
 ###### Questions

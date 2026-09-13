@@ -18,8 +18,9 @@ indice_5 :
   - séparation de l'Église catholique
 indice_6 : 
   - dynastie Tudor
+culture_g_score: 97
+culture_g_justification: "Roi anglais incontournable, associé à ses six épouses, la Réforme anglicane, Thomas More, la dissolution des monastères et Élisabeth Ire."
 ---
-
 ![Image de Henri VIII](https://upload.wikimedia.org/wikipedia/commons/c/c7/Hans_Holbein%2C_the_Younger%2C_Around_1497-1543_-_Portrait_of_Henry_VIII_of_England_-_Google_Art_Project.jpg)
 
 ###### Questions

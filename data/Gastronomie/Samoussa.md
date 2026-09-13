@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Inde
+culture_g_score: 73
+culture_g_justification: "Beignet très identifiable de la cuisine indienne et asiatique, régulièrement utilisé dans les quiz gastronomiques."
 ---
 ###### Questions 
 

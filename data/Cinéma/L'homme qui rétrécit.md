@@ -13,8 +13,9 @@ indice_4:
   - Film
 indice_5:
 indice_6:
+culture_g_score: 31
+culture_g_justification: "Film récent encore peu installé dans la mémoire collective, dont les occasions de questionnement restent très limitées."
 ---
-
 ![Image de L'homme qui rétrécit]()
 
 ###### Questions

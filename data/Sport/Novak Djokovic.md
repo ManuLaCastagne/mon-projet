@@ -19,8 +19,9 @@ indice_5 :
   - numéro un mondial
 indice_6 : 
   - surnommé Djoker
+culture_g_score: 100
+culture_g_justification: "L’un des plus grands joueurs de tennis de l’histoire, offrant de nombreux repères sur les records, les Grands Chelems et le circuit mondial."
 ---
-
 ![Image de Novak Djokovic](https://upload.wikimedia.org/wikipedia/commons/1/12/Novak_Djokovic_-_Roland-Garros_-_28.05.2024_croped.jpg)
 
 ###### Questions

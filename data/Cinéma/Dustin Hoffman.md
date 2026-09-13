@@ -22,8 +22,9 @@ indice_6 :
   - Lenny
 questions:
  - En 1982, dans "Tootsie" de Pollack, quel acteur incarne un comédien qui se déguise en femme afin de trouver un emploi ?
+culture_g_score: 96
+culture_g_justification: "Acteur mondialement reconnu, associé à de nombreux classiques, récompenses et registres cinématographiques très variés."
 ---
-
 ![Image de Dustin Hoffman](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dustin_Hoffman_Quartet_avp_2013_2.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5y788ya4NvwhBznoDIcXwK" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -28,8 +28,9 @@ indice_6:
 questions:
   - Quel homme politique fut surnommé "le diable boiteux", qui a été nommé en 1797 Ministre des Affaires Extérieures de la France ?
   - Quel homme politique représente la France de Louis XVIII au Congrès de Vienne achevé en juin 1815 ?
+culture_g_score: 96
+culture_g_justification: "Acteur majeur de la Révolution, de l’Empire et de la diplomatie européenne, très fréquemment interrogé sous de nombreux angles."
 ---
-
 ![Image de Charles-Maurice de Talleyrand](https://upload.wikimedia.org/wikipedia/commons/6/61/Charles_Maurice_de_Talleyrand-P%C3%A9rigord_-_Pierre-Paul_Prud%27hon.jpg)
 
 ###### Questions

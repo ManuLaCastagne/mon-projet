@@ -15,8 +15,9 @@ indice_6 :
   - Ornementation et production de bois
 questions:
  - Quel conifère originaire du Chili est couramment appelé 'désespoir des singes' à cause de ses feuilles acérées ?
+culture_g_score: 40
+culture_g_justification: "Arbre spectaculaire associé au Chili et au surnom de désespoir des singes, mais rarement interrogé hors des quiz de botanique."
 ---
-
 ![Image de Araucaria](https://upload.wikimedia.org/wikipedia/commons/d/d2/Araucaria_araucana_by_Scott_Zona_-_003.jpg)
 
 ###### Questions

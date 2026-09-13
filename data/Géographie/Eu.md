@@ -16,8 +16,9 @@ indice_3:
 indice_4:
 indice_5:
 indice_6:
+culture_g_score: 31
+culture_g_justification: "Petite commune normande connue pour quelques épisodes historiques, mais quasiment absente des quiz généralistes."
 ---
-
 ![[Carte_Eu.png]]
 ###### Questions
 

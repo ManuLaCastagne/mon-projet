@@ -19,8 +19,9 @@ indice_5 :
   - Thomas Harris
 indice_6 : 
   - prison
+culture_g_score: 84
+culture_g_justification: "Personnage majeur de la culture populaire, régulièrement interrogé via Thomas Harris, Anthony Hopkins, Le Silence des agneaux et le cinéma."
 ---
-
 ![Image de Hannibal Lecter](https://upload.wikimedia.org/wikipedia/commons/5/54/London_Film_Museum_-_Hannibal_%285755433470%29.jpg)
 
 ###### Questions

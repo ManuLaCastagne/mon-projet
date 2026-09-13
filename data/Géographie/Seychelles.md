@@ -24,8 +24,9 @@ indice_6 :
   - plages de sable blanc
 questions:
  - Quel Etat insulaire d'Afrique, dont la capitale est Reine Victoria, est un archipel de l'océan Indien dont l'île principale est Mahé?
+culture_g_score: 73
+culture_g_justification: "Archipel touristique très connu, régulièrement interrogé sur l’Afrique, les îles, la biodiversité et l’indépendance."
 ---
-
 ![Image de Seychelles](https://upload.wikimedia.org/wikipedia/commons/3/30/Grand_Anse-La_Digue-Seychellen.jpg)
 
 ![[Carte_Seychelles.png]]

@@ -22,9 +22,9 @@ indice_6 :
   - grande-figure-du-romantisme
 questions:
  - En 1843, le compositeur allemand qui dédie sa symphonie dite écossaise à la reine Reine Victoria, qu'il avait rencontrée lors d'un voyage à Londres?
+culture_g_score: 72
+culture_g_justification: "Compositeur romantique connu pour Bach, La Grotte de Fingal, Le Songe d'une nuit d'été et le conservatoire de Leipzig."
 ---
-
-
 ![Image de Félix Mendelssohn](https://upload.wikimedia.org/wikipedia/commons/3/38/Felix_Mendelssohn_Bartholdy.jpg)
 
 ###### Questions

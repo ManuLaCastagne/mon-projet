@@ -22,8 +22,9 @@ indice_6 :
   - années 1970
 questions:
  - Quel hapax, mot employé une unique fois dans un corpus, débute l'œuvre de Raymond Queneau dans "Zazie dans le métro" ?
+culture_g_score: 36
+culture_g_justification: "Mot d’ouverture célèbre parmi les lecteurs de Zazie dans le métro, mais connaissance très ponctuelle et peu réutilisable."
 ---
-
 ![Image de Doukipuddonktan]()
 
 ###### Questions

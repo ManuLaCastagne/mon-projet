@@ -22,8 +22,9 @@ indice_6 :
   - 1990s
 questions:
  - Foo Fighters, et leur leader, Dave Grohl, qui, en 2008, a remporté un Grammy Awards. De quel groupe de rock était-il le batteur ?
+culture_g_score: 84
+culture_g_justification: "Groupe emblématique du grunge et de la musique populaire, fréquemment interrogé à travers Cobain, ses albums et ses chansons."
 ---
-
 ![Image de Nirvana](https://upload.wikimedia.org/wikipedia/commons/1/19/Nirvana_around_1992.jpg)
 
 ###### Questions

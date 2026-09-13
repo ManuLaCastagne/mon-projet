@@ -15,8 +15,9 @@ indice_6 :
   - Modèle de recherche scientifique
 questions:
  - Quelle petite mouche de couleur rougeâtre, également appelée mouche du vinaigre, est utilisée en génétique pour les recherches...
+culture_g_score: 80
+culture_g_justification: "La drosophile est un modèle majeur de la génétique et du développement, souvent citée dans les quiz scientifiques pour plusieurs découvertes historiques."
 ---
-
 ![Image de Drosophile](https://upload.wikimedia.org/wikipedia/commons/2/22/Drosophila.jpg)
 
 ###### Questions

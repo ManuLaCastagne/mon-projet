@@ -18,8 +18,9 @@ indice_5 :
   - London
 indice_6 : 
   - Father of English Literature
+culture_g_score: 67
+culture_g_justification: "Père de la littérature anglaise, surtout interrogé à travers Les Contes de Canterbury, l’anglais médiéval et l’histoire littéraire."
 ---
-
 ![Image de Geoffrey Chaucer](https://upload.wikimedia.org/wikipedia/commons/c/c7/Hengwrt_Chaucer_%28f.2.r%29_title_page.jpg)
 
 ###### Questions

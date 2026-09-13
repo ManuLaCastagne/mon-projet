@@ -22,8 +22,9 @@ indice_6 :
   - Nelson Mandela
 questions:
  - Je suis régulièrement associée à des challenges sur les réseaux sociaux où des anonymes dansent généralement en ligne. Tube sud-africain de Master KG et Nomcebo Zikode...
+culture_g_score: 61
+culture_g_justification: "Chanson mondiale liée à un phénomène viral de danse, mais son potentiel de quiz reste concentré sur quelques faits récents."
 ---
-
 ![Image de Jerulasema]()
 
 ###### Questions

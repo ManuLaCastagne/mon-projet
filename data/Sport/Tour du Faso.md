@@ -18,9 +18,9 @@ indice_5 :
   - maillot jaune
 indice_6 : 
   - compétiteurs africains
+culture_g_score: 27
+culture_g_justification: "Course importante à l’échelle ouest-africaine, mais très rarement interrogée dans un quiz généraliste francophone."
 ---
-
-
 ![Image de Tour du Faso](https://upload.wikimedia.org/wikipedia/commons/9/9c/5_km_mark_on_road_in_the_Tour_du_Faso%2C_2009.jpg)
 
 ###### Questions

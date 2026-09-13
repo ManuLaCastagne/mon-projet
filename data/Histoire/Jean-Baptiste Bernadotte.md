@@ -20,8 +20,9 @@ indice_6 :
   - a régné de 1818 à 1844
 questions:
  - Quel maréchal de France régna sous le nom de Charles XIV, fondateur de l'actuelle dynastie de Suède ?
+culture_g_score: 68
+culture_g_justification: "Maréchal napoléonien devenu roi de Suède, il relie l’Empire, les successions monarchiques et la dynastie Bernadotte toujours régnante."
 ---
-
 ![Image de Jean-Baptiste Bernadotte](https://upload.wikimedia.org/wikipedia/commons/c/c7/Jean-Baptiste-Jules_Bernadotte%2C_Prince_de_Ponte-Corvo%2C_roi_de_Su%C3%A8de%2C_Mar%C3%A9chal_de_France_%281763-1844%29.jpg)
 
 ###### Questions

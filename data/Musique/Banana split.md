@@ -22,9 +22,9 @@ indice_6 :
   - tube intemporel
 questions:
  - Chanson sortie en 1979 en Belgique, écrite et composée par Jay Alanski et Jacques Duvall, je commence par les mots  "Ca me déplairait pas que tu m'embrasses".  1er tube d'une jeune chanteuse qui m'interprète, dans un clip, vêtue d'une combinaison rose, je joue sur le double sens...
+culture_g_score: 53
+culture_g_justification: "« Le Banana Split » est un succès marquant de Lio, assez classique des quiz musicaux francophones malgré ses angles limités."
 ---
-
-
 ![Image de Banana split](https://upload.wikimedia.org/wikipedia/commons/9/9f/Traditional_Banana_Boat.jpg)
 
 ###### Questions

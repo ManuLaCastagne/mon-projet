@@ -20,8 +20,9 @@ indice_6 :
   - Amedeo Avogadro
 questions:
  - Scientifique ayant obtenu le titre de docteur en droit ecclésiastique en 1796 avant de m'intéresser aux mathématiques et à la physique, j'ai introduit le système métrique au Piémont. Chimiste italien ayant étudié les lois de combinaison des gaz...
+culture_g_score: 80
+culture_g_justification: "Son nom est un repère classique de chimie et de physique, associé à la mole, aux gaz et au nombre d’Avogadro."
 ---
-
 ![Image de Avogadro](https://upload.wikimedia.org/wikipedia/commons/1/1e/Avogadro_LRO_WAC.jpg)
 
 ###### Questions

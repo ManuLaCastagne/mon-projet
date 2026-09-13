@@ -25,9 +25,9 @@ indice_6 :
   - forêt de Rambouillet
 questions:
  - Jusqu'au début du XXe siècle, quelle petite rivière, prenant sa source au hameau de Bouvier à Guyancourt, traversait, à l'air libre, les 5e et 13e arrondissements de Paris ?
+culture_g_score: 43
+culture_g_justification: "La Bièvre offre des angles parisiens, historiques et environnementaux, mais reste une rivière de portée limitée dans les quiz."
 ---
-
-
 ![Image de Bièvre](https://upload.wikimedia.org/wikipedia/commons/d/da/Bi%C3%A8vre_050422.JPG)
 
 ![[Carte_Bièvre.png]]

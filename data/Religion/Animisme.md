@@ -20,8 +20,9 @@ indice_6 :
   - Monde spirituel
 questions:
  - Quelle forme de religion  attribue une âme aux animaux...
+culture_g_score: 52
+culture_g_justification: "L'animisme est une notion anthropologique utile pour les religions et sociétés autochtones, mais rarement la réponse centrale d'un quiz généraliste."
 ---
-
 ![Image de Animisme](https://upload.wikimedia.org/wikipedia/commons/0/00/Rising_Star_Cave_%22Cave_of_Bones%22_Panel_B_Elephants%2C_South_Africa.jpg)
 
 ###### Questions

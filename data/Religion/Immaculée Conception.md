@@ -20,8 +20,9 @@ indice_6 :
   - Encyclique Ineffabilis Deus
 questions:
  - Quelle locution prononcée par Pie IX désigne la Vierge Marie comme préservée du pêché originel ?
+culture_g_score: 77
+culture_g_justification: "Dogme catholique fréquemment confondu avec la conception virginale et relié à Pie IX, Marie et la fête du 8 décembre."
 ---
-
 ![Image de Immaculée Conception](https://upload.wikimedia.org/wikipedia/commons/1/1b/Immacul%C3%A9e_conception_09810.JPG)
 
 ###### Questions

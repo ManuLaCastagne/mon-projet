@@ -20,8 +20,9 @@ indice_6 :
   - liquides parfumés
 questions:
  - Au XIIe, à quelle corporation le roi Philippe II Auguste accorde-t-il le droit de vendre des eaux de senteurs ?
+culture_g_score: 27
+culture_g_justification: "Ancienne corporation très spécialisée, susceptible d’une question historique ou lexicale mais peu rentable à apprendre en priorité."
 ---
-
 ![Image de Gantiers de parfumeurs](https://upload.wikimedia.org/wikipedia/commons/9/9d/Affiche_publicitaire_de_Gervais%2C_marchand_gantier%2C_parfumeur_et_mercier_A_la_cloche_d%27argent%2C_rue_Saint-Martin._G.23425.jpg)
 
 ###### Questions

@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Allemagne
+culture_g_score: 40
+culture_g_justification: "Préparation d'Europe centrale identifiable dans quelques questions culinaires, mais globalement peu fréquente."
 ---
 ###### Questions 
 

@@ -15,10 +15,9 @@ indice_6 :
   - Animal de compagnie
 questions:
  - Dans les déserts de Mongolie, quel petit rongeur de la famille des muridés et de la taille d'une souris peut se contenter de 4 ml d'eau par jour?
+culture_g_score: 28
+culture_g_justification: "La gerbille est surtout connue comme animal de compagnie ou modèle de laboratoire, ce qui limite son intérêt généraliste."
 ---
-
-
-
 ![Image de Gerbille](https://upload.wikimedia.org/wikipedia/commons/5/53/Meriones_unguiculatus_-_Wilhelma.jpg)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_5:
   - Leslie Nielsen
 indice_6:
   - scène du pilote automatique gonflable
+culture_g_score: 77
+culture_g_justification: "Comédie culte très régulièrement citée pour son humour absurde, l'équipe ZAZ, ses acteurs et ses parodies de films catastrophes."
 ---
-
-
-
 ![Image de Y a-t-il un pilote dans l'avion](https://upload.wikimedia.org/wikipedia/commons/e/ea/Koyaike_Park_from_airplane_window.jpg)
 
 ###### Questions

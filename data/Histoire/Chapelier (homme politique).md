@@ -20,8 +20,9 @@ indice_6 :
   - Bataille de Waterloo
 questions:
  - En 1791, quel homme politique donne son nom à la loi limitant les droits d'association qui constitua l'une des bases du capitalisme libéral ?
+culture_g_score: 51
+culture_g_justification: "Son nom est surtout retenu par la loi Le Chapelier, connaissance utile mais attachée à un épisode législatif précis."
 ---
-
 ![Image de Chapelier (homme politique)](https://upload.wikimedia.org/wikipedia/commons/7/71/Ren%C3%A9_Guy_Le_Chapelier._G.42453.jpg)
 
 ###### Questions

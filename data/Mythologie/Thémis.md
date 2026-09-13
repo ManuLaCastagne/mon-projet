@@ -1,3 +1,8 @@
+---
+culture_g_score: 60
+culture_g_justification: "Thémis est une figure classique pour la justice divine et la mythologie des Titans, mais demeure moins fréquente que les grandes divinités olympiennes."
+---
+
 ###### Questions
 
 Quelle déesse [[titanide]] symbolise l'équité dans la [[mythologie grecque]] ? 

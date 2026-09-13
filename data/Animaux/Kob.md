@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de grâce et de rapidité
 questions:
  - Quelle Antilope d'Afrique, désignée par un mot wolof, compte des individus dotés de sabots lui permettant de patauger en terrain marécageux?
+culture_g_score: 20
+culture_g_justification: "Antilope africaine peu connue du grand public et offrant très peu d'angles indépendants en culture générale."
 ---
-
 ![Image de Kob](https://upload.wikimedia.org/wikipedia/commons/3/37/Ugandan_kobs_%28Kobus_kob_thomasi%29_female_and_calf.jpg)
 
 ###### Questions

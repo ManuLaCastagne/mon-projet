@@ -22,8 +22,9 @@ indice_6 :
   - paroles sur un lieu pour se ressourcer et socialiser
 questions:
  - En 1978, avec quel tube, ayant pour titre un sigle de 4 lettres, le groupe Village People...
+culture_g_score: 93
+culture_g_justification: "Hymne disco universellement reconnaissable, exploitable via Village People, la danse, la culture LGBT et les événements populaires."
 ---
-
 ![Image de YMCA](https://upload.wikimedia.org/wikipedia/commons/f/fa/Fargo-Moorhead_YMCA_Sign.jpg)
 
 ###### Questions

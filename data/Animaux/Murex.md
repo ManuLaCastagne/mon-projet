@@ -14,7 +14,8 @@ indice_5:
   - Pourpre
 indice_6:
   - Production de teinture pourpre
-culture_g_score: 47
+culture_g_score: 48
+culture_g_justification: "Genre de mollusques surtout intéressant par son lien avec la pourpre de Tyr et l’histoire des teintures."
 ---
 ![Image de Murex](https://upload.wikimedia.org/wikipedia/commons/e/e2/Murex_pecten_001.JPG)
 

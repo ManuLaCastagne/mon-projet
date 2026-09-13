@@ -20,8 +20,9 @@ indice_6 :
   - témoin de la vie royale
 questions:
  - Quelle épouse de Philippe d'Orléans était surnommée la bonne grosse Allemande ?
+culture_g_score: 52
+culture_g_justification: "Témoin important de la cour de Louis XIV grâce à sa correspondance, mais personnalité moins connue du grand public."
 ---
-
 ![Image de Princesse Palatine](https://upload.wikimedia.org/wikipedia/commons/7/78/Statue_Princesse_Palatine_Place_Princesse_Palatine_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-06_-_2.jpg)
 
 ###### Questions

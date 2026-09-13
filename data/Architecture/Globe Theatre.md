@@ -21,8 +21,9 @@ indice_5 :
   - Londres élisabéthaine
 indice_6 : 
   - théâtre de Shakespeare
+culture_g_score: 80
+culture_g_justification: "Le Globe Theatre relie Shakespeare, Londres, le théâtre élisabéthain, l’histoire culturelle et sa reconstruction, ce qui le rend très rentable."
 ---
-
 ![Image de Globe Theatre](https://upload.wikimedia.org/wikipedia/commons/2/2c/Old_Globe_Theatre%2C_San_Diego.jpg)
 
 ###### Questions

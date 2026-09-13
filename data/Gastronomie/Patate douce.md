@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Portugal
+culture_g_score: 64
+culture_g_justification: "Aliment mondialement répandu offrant des liens avec l'agriculture, la botanique, la nutrition et les échanges historiques."
 ---
 ###### Questions 
 

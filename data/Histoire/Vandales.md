@@ -20,8 +20,9 @@ indice_6 :
   - roi Genséric
 questions:
  - Au Ve siècle, quel peuple germanique mené par le roi Geiséric met la ville de Rome à sac et commet des actes de piraterie dans toute la Méditerranée?
+culture_g_score: 80
+culture_g_justification: "Peuple germanique incontournable de l’Antiquité tardive, associé au sac de Rome, à l’Afrique du Nord et à l’origine du terme « vandalisme »."
 ---
-
 ![Image de Vandales](https://upload.wikimedia.org/wikipedia/commons/1/1e/02019_1730_The_Vandals_in_the_basin_of_San.jpg)
 
 ###### Questions

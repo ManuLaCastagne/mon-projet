@@ -22,8 +22,9 @@ indice_6 :
   - comédie
 questions:
  - En 2018, dans quel film, avec Adèle Haenel dans le rôle d'une inspectrice de police, interprète-t-elle la femme de Pio Marmaï?
+culture_g_score: 40
+culture_g_justification: "Comédie française estimée et récompensée, mais encore trop récente et peu emblématique pour constituer une priorité."
 ---
-
 ![Image de En Liberté !](https://upload.wikimedia.org/wikipedia/commons/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg)
 
 ###### Questions

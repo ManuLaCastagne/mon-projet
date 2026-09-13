@@ -22,8 +22,9 @@ indice_6 :
   - célébrités internationales
 questions:
  - Ayant révélé au grand public  des oeuvres comme "Little Odessa" ou "Little Miss Sunshine", je comprends plusieurs sections dont "Les docs de l'oncle..."
+culture_g_score: 44
+culture_g_justification: "Festival français identifiable mais nettement moins central et moins fréquent dans les quiz que Cannes ou les grands festivals internationaux."
 ---
-
 ![Image de Festival du film américain de Deauville](https://upload.wikimedia.org/wikipedia/commons/2/28/Harrison_Ford_at_the_2009_Deauville_American_Film_Festival%2C_cropped.jpg)
 
 ###### Questions

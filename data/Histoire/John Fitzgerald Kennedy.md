@@ -20,8 +20,9 @@ indice_6 :
   - discours Ich bin ein Berliner
 questions:
  - En 1992, dans quel film d'Oliver Stone Kevin Costner incarne le procureur Garrison, qui enquête  sur l'assassinat du président américain ?
+culture_g_score: 100
+culture_g_justification: "Kennedy est un marronnier majeur grâce à la guerre froide, la crise de Cuba, l’assassinat, Berlin, la conquête spatiale et la politique américaine."
 ---
-
 ![Image de John Fitzgerald Kennedy](https://upload.wikimedia.org/wikipedia/commons/2/21/John_F_Kennedy_Official_Portrait.jpg)
 
 ###### Questions

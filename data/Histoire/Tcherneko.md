@@ -20,8 +20,9 @@ indice_6 :
   - prédécesseur de Gorbatchev
 questions:
  - En 1985, quel homme politique soviétique, successeur de Iouri Andropov à la tête de l'URSS, disparaît au terme de 13 mois d'exercice du pouvoir?
+culture_g_score: 57
+culture_g_justification: "Dirigeant soviétique classique des quiz sur la succession d’Andropov et la période précédant Gorbatchev, mais à mandat très bref."
 ---
-
 ![Image de Tcherneko]()
 
 ###### Questions

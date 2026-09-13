@@ -23,8 +23,9 @@ indice_6 :
   - Célébrités entartées
 questions:
  - Personnalité révélée en 1969 en Belgique, je m'inspire des gags du cinéma muet. Provocateur humoristique inspiré par le théoricien Jean-Pierre Bouyxou, auteur de "Ode à l'attentat pâtissier", je cible avec l'aide de mon organisation ceux que je surnomme...
+culture_g_score: 47
+culture_g_justification: "Noël Godin constitue une curiosité médiatique belge identifiable, mais l’entartage offre peu de rendement au-delà de quelques anecdotes."
 ---
-
 ![Image de L'Entarteur]()
 
 ###### Questions

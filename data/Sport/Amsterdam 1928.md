@@ -20,8 +20,9 @@ indice_5 :
   - Athlétisme
 indice_6 : 
   - Anneaux olympiques
+culture_g_score: 63
+culture_g_justification: "Jeux d’Amsterdam associés à plusieurs évolutions olympiques, notamment la participation féminine et les cérémonies."
 ---
-
 ![Image de Amsterdam 1928](https://upload.wikimedia.org/wikipedia/commons/c/cc/IXe_Olympiade.jpg)
 
 ###### Questions

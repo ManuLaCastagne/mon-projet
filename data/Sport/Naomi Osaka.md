@@ -20,8 +20,9 @@ indice_6 :
   - Mental Health
 questions:
  - En 2020, quelle joueuse de tennis japonaise a remporté l'US Open pour la 2e fois de sa carrière ?
+culture_g_score: 73
+culture_g_justification: "Championne de tennis contemporaine associée à Serena Williams, aux tournois du Grand Chelem et à des enjeux médiatiques et sociaux."
 ---
-
 ![Image de Naomi Osaka](https://upload.wikimedia.org/wikipedia/commons/f/f2/Naomi_Osaka_2017_Wimbledon.jpg)
 
 ###### Questions

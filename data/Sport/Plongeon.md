@@ -20,9 +20,9 @@ indice_6 :
   - Plateforme
 questions:
  - Lors des épreuves olympiques de plongeon, quelle est la hauteur maximale... (10 m)
+culture_g_score: 69
+culture_g_justification: "Discipline olympique classique associée aux tremplins, aux plateformes et à des champions comme Greg Louganis."
 ---
-
-
 ![Image de Plongeon](https://upload.wikimedia.org/wikipedia/commons/8/8b/Augustus-le-plongeon-photo_%28smial%29.jpg)
 
 ###### Questions

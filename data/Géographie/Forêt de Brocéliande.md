@@ -24,8 +24,9 @@ indice_6 :
   - Paimpont
 questions:
  - J'abrite la fontaine magique de Barenton. Forêt des légendes arthuriennes...
+culture_g_score: 75
+culture_g_justification: "Lieu très associé aux légendes arthuriennes et à la culture bretonne, avec plusieurs indices mythologiques récurrents mais une importance historique limitée."
 ---
-
 ![Image de Forêt de Brocéliande](https://upload.wikimedia.org/wikipedia/commons/0/03/La-For%C3%AAt-de-Broceliande-Octobre-2020.jpg)
 
 ![[Carte_Forêt de Brocéliande.png]]

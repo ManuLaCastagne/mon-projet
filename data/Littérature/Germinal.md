@@ -22,10 +22,9 @@ indice_6 :
   - grève
 questions:
  - En 1885, quel roman d'Emile Zola, 13e du cycle des Rougon-Macquart...
+culture_g_score: 100
+culture_g_justification: "Roman incontournable de Zola, mobilisable sur le naturalisme, le monde ouvrier, les grèves, l’histoire sociale et ses adaptations."
 ---
-
-
-
 ![Image de Germinal](https://upload.wikimedia.org/wikipedia/commons/e/ec/Germinal.jpg)
 
 ###### Questions

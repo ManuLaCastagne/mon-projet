@@ -20,8 +20,9 @@ indice_5:
   - 173 volumes
 indice_6:
   - humour noir
+culture_g_score: 60
+culture_g_justification: "Auteur français très prolifique, surtout connu par le pseudonyme San-Antonio et une importante tradition de romans populaires."
 ---
-
 ![Image de Frédéric Dard](https://upload.wikimedia.org/wikipedia/commons/0/03/Fr%C3%A9d%C3%A9ric_Dard_%281992%29_by_Erling_Mandelmann.jpg)
 
 ###### Questions

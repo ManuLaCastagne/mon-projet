@@ -20,8 +20,9 @@ indice_6 :
   - fondateur du journal Il Risorgimento
 questions:
  - Au cours du 19e siècle, quel homme d'Etat italien fondateur du journal Caserio (journal), fut le principal artisan de l'unité italienne ?
+culture_g_score: 84
+culture_g_justification: "Architecte essentiel de l’unité italienne, fréquemment associé à Garibaldi, Victor-Emmanuel II, Napoléon III et au Risorgimento."
 ---
-
 ![Image de Comte de Cavour](https://upload.wikimedia.org/wikipedia/commons/c/c2/Camillo_Benso_Cavour_di_Ciseri.jpg)
 
 ###### Questions

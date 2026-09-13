@@ -22,8 +22,9 @@ indice_6:
   - acteur et réalisateur américain-australien
 questions:
   - En 2011, dans le film "Le Complexe du castor", quel acteur incarne un homme qui utilise une marionnette...
+culture_g_score: 84
+culture_g_justification: "Acteur et réalisateur mondialement connu grâce à L’Arme fatale, Braveheart et La Passion du Christ."
 ---
-
 ![Image de Mel Gibson](https://upload.wikimedia.org/wikipedia/commons/9/95/Mel_Gibson_Cannes_2016_2.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - comédien
 questions:
  - Quel acteur et humoriste s'est fait connaître grâce au stand-up avant de réaliser "Case départ" et "Le Crocodile du Botswanga" avec Thomas Ngijol?
+culture_g_score: 56
+culture_g_justification: "Humoriste et réalisateur connu pour Case départ, Coexister et Barbaque, avec une portée surtout populaire et francophone."
 ---
-
 ![Image de Fabrice Eboué](https://upload.wikimedia.org/wikipedia/commons/3/33/Fabrice_Ebou%C3%A9_Deauville_2012.jpg)
 
 ###### Questions

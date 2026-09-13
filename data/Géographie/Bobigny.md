@@ -24,8 +24,9 @@ indice_6 :
   - Parc Départemental de la Bergère
 questions:
  - Chef-lieu de la Seine-Saint-Denis, dont les habitants sont les Balbyniens.
+culture_g_score: 40
+culture_g_justification: "Bobigny est surtout connue comme préfecture de la Seine-Saint-Denis et pour quelques repères locaux ou judiciaires."
 ---
-
 ![Image de Bobigny](https://upload.wikimedia.org/wikipedia/commons/5/52/Bobigny_-_L_Illustration_01.jpg)
 
 ![[Carte_Bobigny.png]]

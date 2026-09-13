@@ -23,9 +23,9 @@ indice_6 :
   - couleurs pastel
 questions:
  - Quelle peintre, amie de Guillaume Apollinaire, le représenta à l'aquarelle avec ses amis ?
+culture_g_score: 51
+culture_g_justification: "Artiste française importante du début du XXe siècle, mais moins fréquemment interrogée que les grandes figures de l’impressionnisme et du cubisme."
 ---
-
-
 ![Image de Marie Laurencin](https://upload.wikimedia.org/wikipedia/commons/e/ee/Marie_Laurencin%2C_c.1912%2C_Paris.jpg)
 
 ###### Questions

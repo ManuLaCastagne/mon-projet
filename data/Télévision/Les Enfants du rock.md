@@ -20,8 +20,9 @@ indice_6 :
   - émissions diffusées sur Antenne 2
 questions:
  - Quelle émission musicale associe-t-on à Philippe Manoeuvre et Antoine de Caunes ?
+culture_g_score: 44
+culture_g_justification: "Émission musicale emblématique des années 1980, utile pour la culture télévisuelle et rock française mais d'un usage limité."
 ---
-
 ![Image de Les Enfants du rock](https://upload.wikimedia.org/wikipedia/commons/1/10/Logotype-Les-Enfants-du-Rock-Robial.jpg)
 
 ###### Questions

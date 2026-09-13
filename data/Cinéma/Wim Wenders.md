@@ -22,8 +22,9 @@ indice_6 :
   - Le Sel de la Terre
 questions:
  - En 1973, quel réalisateur allemand met en scène une fillette confiée par sa mère à un journaliste dans "Alice dans les villes"?
+culture_g_score: 68
+culture_g_justification: "Figure importante du cinéma allemand et d'auteur, ouvrant sur Berlin, Paris, Texas, le documentaire et les récompenses internationales."
 ---
-
 ![Image de Wim Wenders](https://upload.wikimedia.org/wikipedia/commons/2/2b/Wim_Wenders_Cannes_2013.jpg)
 
 ###### Questions

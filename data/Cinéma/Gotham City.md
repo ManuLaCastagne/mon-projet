@@ -22,8 +22,9 @@ indice_6 :
   - Gotham City
 questions:
  - Ville fictive où se situe le film "Birds of Prey" en 2020. Imaginée en 1941 par les auteurs de BD Bob Kane et Bill Finger. Cité dont les gratte-ciel sont ornés de détails néogothiques.
+culture_g_score: 96
+culture_g_justification: "Lieu fictif central de l’univers Batman, transversal entre comics, cinéma, super-héros, personnages et culture populaire."
 ---
-
 ![Image de Gotham City](https://upload.wikimedia.org/wikipedia/commons/9/95/Batman_moto%2C_MA_Paris_2022_-_Dark_Knight_-_Gotham_City_-_0067.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - guerre franco-prussienne
 indice_6 : 
   - chute après Sedan
+culture_g_score: 80
+culture_g_justification: "Régime central de l’histoire française, reliant Napoléon III, l’industrialisation, la politique extérieure et la transformation de Paris."
 ---
-
 ![Image de Second Empire](https://upload.wikimedia.org/wikipedia/commons/a/a0/Second_Empire_Victorian_house_Princeton_New_Jersey_1978_a.jpg)
 
 ###### Questions

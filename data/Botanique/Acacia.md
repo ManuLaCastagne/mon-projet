@@ -15,8 +15,9 @@ indice_6:
   - Utilisé pour son bois et en parfumerie
 questions:
   - Quel arbre d'Australie à fleurs jaunes est représenté par des espèces produisant la gomme arabique ?
+culture_g_score: 64
+culture_g_justification: "Arbre connu pour ses fleurs, la gomme arabique et ses confusions avec le mimosa, offrant quelques angles classiques."
 ---
-
 ![Image de Acacia](https://upload.wikimedia.org/wikipedia/commons/9/9e/2020_year._Herbarium._Acacia._img-002.jpg)
 
 ###### Questions

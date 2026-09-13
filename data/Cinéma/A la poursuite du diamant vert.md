@@ -19,6 +19,8 @@ indice_5:
   - roman
 indice_6:
   - aventure
+culture_g_score: 64
+culture_g_justification: "Film d'aventure populaire associé à Zemeckis, Michael Douglas, Kathleen Turner et au cinéma des années 1980."
 ---
 ![[Pasted image 20260803221325.png]]
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - couleurs vives et dynamiques
 questions:
  - Quelle artiste française d'origine russe disparue en 1979 a comme son mari Robert mené des recherches sur la couleur pure et les rythmes en peinture ?
+culture_g_score: 67
+culture_g_justification: "Sonia Delaunay offre des liens rentables avec l’abstraction, l’Orphisme, la couleur, la mode et les Ballets russes."
 ---
-
 ![Image de Sonia Delaunay](https://upload.wikimedia.org/wikipedia/commons/1/15/Sonia_Delaunay_portrait_photograph.jpg)
 
 ###### Questions

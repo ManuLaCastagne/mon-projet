@@ -22,9 +22,9 @@ indice_6 :
   - 1897
 questions:
  - J'ai travaillé de nombreuses années sur mon oeuvre majeure, inspirée par l'histoire de Vlad Tepès, un prince de Valachie du XVe siècle. Auteur de "Dracula"...
+culture_g_score: 88
+culture_g_justification: "Auteur presque indissociable de Dracula, marronnier des quiz grâce à la littérature gothique, au vampirisme et à Vlad l’Empaleur."
 ---
-
-
 ![Image de Bram Stoker](https://upload.wikimedia.org/wikipedia/commons/3/34/Bram_Stoker_1906.jpg)
 
 ###### Questions

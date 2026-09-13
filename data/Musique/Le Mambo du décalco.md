@@ -18,8 +18,9 @@ indice_5:
   - Rythmes latins
 indice_6:
   - Papillons autocollants
+culture_g_score: 27
+culture_g_justification: "Chanson humoristique de Gotainer surtout connue d’un public français spécifique, avec une faible probabilité d’apparition en quiz généraliste."
 ---
-
 ![Image de Le Mambo du décalco]()
 
 ###### Questions

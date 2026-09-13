@@ -20,8 +20,9 @@ indice_6 :
   - Loi salique
 questions:
  - Quel roi de France disparu en 1328 sans héritier mâle à l'âge de 34 ans, fut le dernier représentant des capétiens ?
+culture_g_score: 51
+culture_g_justification: "Dernier Capétien direct, repère utile de la succession dynastique française mais rarement interrogé pour lui-même."
 ---
-
 ![Image de Charles IV le Bel](https://upload.wikimedia.org/wikipedia/commons/d/d9/Hommage_d%27%C3%89douard_III_%C3%A0_Charles_IV_le_Bel.png)
 
 ###### Questions

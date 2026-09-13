@@ -13,8 +13,9 @@ indice_5:
   - Aussi appelé Lawsonia inermis
 indice_6:
   - Utilisé pour la teinture naturelle des cheveux et du corps
+culture_g_score: 80
+culture_g_justification: "Le henné relie botanique, teintures, tatouages traditionnels, pratiques culturelles et cosmétique, ce qui le rend très rentable."
 ---
-
 ![Image de Henné](https://upload.wikimedia.org/wikipedia/commons/a/a8/Lawsonia_inermis_%28Mehndi%29_in_Hyderabad%2C_AP_W_IMG_0524.jpg)
 
 ###### Questions

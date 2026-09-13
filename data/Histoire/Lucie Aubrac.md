@@ -20,8 +20,9 @@ indice_6 :
   - épouse de Raymond Aubrac
 questions:
  - Le 21 octobre 1943, quelle résistante française fait évader son mari, Raymond, alors détenu par les...
+culture_g_score: 77
+culture_g_justification: "Lucie Aubrac est une référence fréquente de la Résistance française, particulièrement rentable grâce à son parcours et à ses actions clandestines."
 ---
-
 ![Image de Lucie Aubrac](https://upload.wikimedia.org/wikipedia/commons/0/06/Lucie_aubrac.jpg)
 
 ###### Questions

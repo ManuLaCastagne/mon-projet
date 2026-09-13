@@ -18,7 +18,8 @@ indice_5 :
   - 1958
 indice_6 : 
   - Chess Records
-culture_g_score: 80
+culture_g_score: 84
+culture_g_justification: "Classique absolu du rock, relié à Chuck Berry, à Retour vers le futur, aux débuts du rock et au disque des sondes Voyager."
 ---
 ![Image de Johnny B Goode](https://upload.wikimedia.org/wikipedia/commons/8/89/Johnny_B_Goode_by_Chuck_Berry_US_single_side-A.png)
 

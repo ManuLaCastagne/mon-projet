@@ -15,8 +15,9 @@ indice_6 :
   - Condiment dans les salades et plats
 questions:
  - Quels boutons floraux produits par un arbuste de la famille...
+culture_g_score: 60
+culture_g_justification: "Condiment courant dont le statut de bouton floral constitue un fait classique, avec des liens culinaires et botaniques."
 ---
-
 ![Image de Câpres](https://upload.wikimedia.org/wikipedia/commons/c/c1/Capparis_spinosa_Ichkeul_National_Parc.jpg)
 
 ###### Questions

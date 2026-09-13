@@ -23,8 +23,9 @@ indice_6 :
   - costumes variés
 questions:
  - Statue de 55cm de haut dont on voit une copie depuis 1965. Enlevé par des soldats français en 1747, décoré par Histoire/Louis XV pour apaiser la population.
+culture_g_score: 80
+culture_g_justification: "Symbole touristique mondial de Bruxelles, régulièrement demandé en géographie culturelle, même si ses angles historiques restent peu nombreux."
 ---
-
 ![Image de Manneken Pis](https://upload.wikimedia.org/wikipedia/commons/6/64/Bruxelles_Manneken_Pis.jpg)
 
 ###### Questions

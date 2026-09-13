@@ -20,9 +20,9 @@ indice_6 :
   - Time trial
 questions:
  - En 1983, quel cycliste devient le 1er américain champion du monde sur route ?
+culture_g_score: 64
+culture_g_justification: "Cycliste historique associé au Tour de France, à l'aérodynamisme et à un retour spectaculaire, mais moins connu du grand public que les champions les plus célèbres."
 ---
-
-
 ![Image de Greg LeMond](https://upload.wikimedia.org/wikipedia/commons/9/93/Greg-LeMond-2010.jpg)
 
 ###### Questions

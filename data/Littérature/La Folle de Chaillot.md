@@ -22,8 +22,9 @@ indice_6 :
   - comtesse d'une grande excentricité
 questions:
  - A quelle pièce de Jean Giraudoux en 1945 associe-t-on le monologue d'Irma Lambert ?
+culture_g_score: 60
+culture_g_justification: "Pièce connue de Giraudoux, utile pour le théâtre français et la satire politique, sans être aussi incontournable que ses œuvres les plus étudiées."
 ---
-
 ![Image de La Folle de Chaillot](https://upload.wikimedia.org/wikipedia/commons/f/fd/Madame_Lucia_Sturdza_Bulandra_in_La_Folle_de_Chaillot.jpg)
 
 ###### Questions

@@ -23,10 +23,9 @@ indice_6 :
   - Photographies de mode
 questions:
  - égérie de plusieurs marques, ayant fait plus de 300 couvertures, je défile, malgré ma taille d'environ 1,70m. Elle n'a pas le gabarit du mannequin, surnommée "La Brindille"...
+culture_g_score: 60
+culture_g_justification: "Kate Moss est une icône médiatique de la mode, mais son importance culturelle générale et ses angles de quiz restent relativement limités."
 ---
-
-
-
 ![Image de Kate Moss](https://upload.wikimedia.org/wikipedia/commons/1/18/KateMoss.jpg)
 
 ###### Questions

@@ -22,6 +22,8 @@ indice_6 :
   - Nouvelle-Galles du Sud
 questions:
  - Quel DJ et danseur d'origine antillaise est devenu le 1er animateur noir de la télévision française dans HIP HOP?
+culture_g_score: 64
+culture_g_justification: "Sidney est une figure pionnière du hip-hop français, utile pour relier télévision, danse, rap et histoire culturelle des années 1980."
 ---
 ![[Pasted image 20250410115502.png]]
 ###### Questions

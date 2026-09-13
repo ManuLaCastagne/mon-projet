@@ -23,8 +23,9 @@ indice_6 :
   - Toulouse School of Economics
 questions:
  - A quel architecte et designer américano-canadien doit-on la construction du musée Guggenheim...
+culture_g_score: 80
+culture_g_justification: "Frank Gehry est un architecte contemporain très identifiable grâce à Bilbao, à la Fondation Louis Vuitton et à ses formes déconstructivistes."
 ---
-
 ![Image de Frank Gehry](https://upload.wikimedia.org/wikipedia/commons/f/f1/Frank_O._Gehry_-_Parc_des_Ateliers_%28cropped%29.jpg)
 
 ###### Questions

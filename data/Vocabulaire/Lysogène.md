@@ -16,11 +16,12 @@ indice_6 :
   - Intégration génomique
 ---
 
+
 ![Image de Lysogène](https://upload.wikimedia.org/wikipedia/commons/a/a1/Lysogene_faagcyclus.jpeg)
 
 ###### Questions
 
-Quel type de cycle viral décrit une intégration du génome viral dans le chromosome de la cellule hôte, notamment étudié dans les cours de [[microbiologie]] ?
+Quel type de cycle viral décrit une intégration du génome viral dans le chromosome de la cellule hôte, notamment étudié dans les cours de [[microbiologie]] ? <!-- score: 4 -->
 
 Quel terme scientifique est utilisé pour décrire le processus par lequel l'ADN du [[bactériophage]] est incorporé dans l'ADN de l'hôte sans provoquer de lyse immédiate ?
 

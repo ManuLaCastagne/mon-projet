@@ -20,8 +20,9 @@ indice_6 :
   - Biologiste américain
 questions:
  - En 1956, quel médecin américain crée la pilule contraceptive ?
+culture_g_score: 44
+culture_g_justification: "Chercheur important dans l’histoire de la contraception, mais nettement moins connu et moins interrogé que la pilule elle-même."
 ---
-
 ![Image de Gregory Pincus](https://upload.wikimedia.org/wikipedia/commons/6/6f/GGP%EF%BC%8C%E4%B8%80%E4%BD%8D%E7%BE%8E%E5%9B%BD%E7%8A%B9%E5%A4%AA%E7%94%B7%E5%AD%90.jpg)
 
 ###### Questions

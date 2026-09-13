@@ -19,6 +19,8 @@ indice_5 :
   - pression sociale
 indice_6 : 
   - quête de popularité
+culture_g_score: 36
+culture_g_justification: "Programme culturel contemporain identifiable par Mouloud Achour, mais encore peu installé dans le patrimoine des quiz."
 ---
 ###### Questions
 

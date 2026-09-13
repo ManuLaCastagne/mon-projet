@@ -20,9 +20,9 @@ indice_6 :
   - Oxyde de fer
 questions:
  - Employée depuis l'époque préhistorique comme pigment pour les peintures rupestres, je suis toujours utilisée pour réaliser des enduits de façade résistants dont la teinte chaude donne aux murs un caractère...
+culture_g_score: 68
+culture_g_justification: "Pigment ancien associé à la préhistoire, à Lascaux, à la géologie, à l’art et aux techniques de coloration."
 ---
-
-
 ![Image de Ocre](https://upload.wikimedia.org/wikipedia/commons/5/55/Bruoux_Galerie.jpg)
 
 ###### Questions

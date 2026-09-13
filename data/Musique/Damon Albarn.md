@@ -22,8 +22,9 @@ indice_6 :
   - The Good the Bad & the Queen
 questions:
  - Leader notamment de Blur.
+culture_g_score: 67
+culture_g_justification: "Artiste important de la pop britannique grâce à Blur et Gorillaz, mais ses activités parallèles restent moins classiques en quiz."
 ---
-
 ![Image de Damon Albarn](https://upload.wikimedia.org/wikipedia/commons/1/1a/Damon_Albarn_mg_6633.jpg)
 
 ###### Questions

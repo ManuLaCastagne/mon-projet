@@ -22,8 +22,9 @@ indice_6 :
   - Comédie
 questions:
  - Fin 2017, quel ancien sociétaire de la Comédie-Française, distingué par un Molière du meilleur comédien pour sa prestation dans la pièce "Le père" en 2014, s'est éteint à 92 ans ?
+culture_g_score: 51
+culture_g_justification: "Acteur majeur du théâtre français et présent dans quelques films connus, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Robert Hirsch](https://upload.wikimedia.org/wikipedia/commons/9/91/RobertHirsch-1954-Harcourt.jpg)
 
 ###### Questions

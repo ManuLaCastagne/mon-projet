@@ -21,9 +21,9 @@ indice_5:
   - archipel des îles d'Hyères
 indice_6:
   - base militaire
+culture_g_score: 40
+culture_g_justification: "Île méditerranéenne connue pour le naturisme et son histoire militaire, mais rarement interrogée hors de la géographie régionale."
 ---
-
-
 ![Image de Île du Levant](https://upload.wikimedia.org/wikipedia/commons/4/41/%C3%8Ele_du_levant_17.jpg)
 
 ![[Carte_Île du Levant.png]]

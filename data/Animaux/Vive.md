@@ -15,8 +15,9 @@ indice_6 :
   - Danger des plages
 questions:
  - Quel poisson, aussi appelé épine de Judas, vivant enfoui dans les fonds sablonneux de faible profondeur est pourvu d'épines venimeuses dont la piqûre est très douloureuse ?
+culture_g_score: 44
+culture_g_justification: "La vive est surtout connue pour ses épines venimeuses et ses piqûres, ce qui en fait un sujet marin utile mais assez limité."
 ---
-
 ![Image de Vive](https://upload.wikimedia.org/wikipedia/commons/a/ad/HTC_Vive_Virtual_Reality_Headset_and_Controllers.jpg)
 
 ###### Questions

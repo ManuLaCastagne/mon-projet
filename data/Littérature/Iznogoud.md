@@ -22,9 +22,9 @@ indice_6 :
   - Série de bande dessinée française
 questions:
  - Héros de BD dont le nom figure sur la couverture d'un album en 1966, 4 ans après mon apparition comme personnage secondaire dans le magazine Record. Créé par René Goscinny et Jean Tabary. Faisant preuve de méchanceté qui se retourne contre moi. Je suis assisté par Dilat Laraht...
+culture_g_score: 73
+culture_g_justification: "Personnage emblématique de la bande dessinée francophone, Iznogoud est régulièrement associé à Goscinny, à son expression culte et à ses adaptations."
 ---
-
-
 ![Image de Iznogoud](https://upload.wikimedia.org/wikipedia/commons/d/dd/Parc_Galiffe-02-Iznogoud.jpg)
 
 ###### Questions

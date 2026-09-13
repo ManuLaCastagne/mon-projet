@@ -23,8 +23,9 @@ indice_6 :
   - œuvres conservées au Louvre
 questions:
  - En 1814, quel peintre a allongé le dos de "La Grande Odalisque" ?
+culture_g_score: 91
+culture_g_justification: "Ingres est incontournable pour le néoclassicisme, le dessin, La Grande Odalisque, les portraits et la rivalité avec Delacroix."
 ---
-
 ![Image de Jean-Auguste-Dominique Ingres](https://upload.wikimedia.org/wikipedia/commons/e/ed/Mus%C3%A9e_Ingres-Bourdelle_-_la_Femme_aux_trois_bras_-_Jean-Auguste-Dominique_Ingres_-_Joconde06070007977.jpg)
 
 ###### Questions

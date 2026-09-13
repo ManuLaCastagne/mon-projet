@@ -22,8 +22,9 @@ indice_6 :
   - Transitions du cinéma muet au parlant
 questions:
  - Quelle comédie musicale de Stanley Donen et Gene Kelly comporte une scène dans laquelle ce dernier chante...
+culture_g_score: 100
+culture_g_justification: "Film musical mondialement incontournable, offrant de nombreuses entrées par Hollywood, Gene Kelly, les chansons, la danse et l’histoire du cinéma."
 ---
-
 ![Image de Chantons sous la pluie](https://upload.wikimedia.org/wikipedia/commons/c/c0/Singin_floribunda_rose.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Consommé comme légume
 questions:
  - Dont le petit provençal et le téléphone, je peux être dit fin ou extrafin…
+culture_g_score: 64
+culture_g_justification: "Aliment très courant pouvant être interrogé en botanique, alimentation ou histoire agricole, mais rarement comme sujet incontournable."
 ---
-
 ![Image de Petit pois](https://upload.wikimedia.org/wikipedia/commons/e/e8/The_Soviet_Union_1964_CPA_3059_stamp_%28Agricultural_Crops_of_the_USSR._Pea_or_field_pea_%27ramonsky_77%27_%28Pisum_sativum_sativum%29%29.png)
 
 ###### Questions

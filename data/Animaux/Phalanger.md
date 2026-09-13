@@ -15,8 +15,9 @@ indice_6 :
   - Symbolique de la beauté dans les cultures autochtones
 questions:
  - Quel mammifère marsupial, ressemblant au renard ou à la sarigue est également appelé opossum d'Australie?
+culture_g_score: 32
+culture_g_justification: "Marsupial australien peu connu, surtout pertinent dans des questions spécialisées sur la faune d’Océanie."
 ---
-
 ![Image de Phalanger](https://upload.wikimedia.org/wikipedia/commons/f/f6/Ground_Cuscus_cotswoldwildlifepark.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - prémices en 1999
 questions:
  - Dans quelle série télévisée créée en 1999, avec Jean-François Balmer dans le rôle du commandant Rovère, Anne Richard incarne-t-elle la juge Nadia Lintz?
+culture_g_score: 44
+culture_g_justification: "Série policière française de longue durée, mais essentiellement exploitable par son titre, ses personnages et son cadre judiciaire."
 ---
-
 ![Image de Boulevard du Palais](https://upload.wikimedia.org/wikipedia/commons/2/2e/7_Boulevard_du_Palais_75004_Paris_France.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - duo de frère et sœur
 questions:
  - Chanson de 2018, constituant le 4e titre du 1er album de mon interprète Angèle (chanteuse) dans Brol, je suis illustrée par un clip qui a remporté une Victoire de la musique…
+culture_g_score: 56
+culture_g_justification: "Chanson populaire d’Angèle, utile pour la pop francophone récente, mais encore peu structurante en culture générale."
 ---
-
 ![Image de Tout Oublier](https://upload.wikimedia.org/wikipedia/commons/3/37/Ce_qu%27il_ne_faut_pas_oublier._Tout_brute%21_Laissez_moi_sauver_mon_enfant._Vous_voulez_donc_que_la_guerre_doze_dix_ans%3F_LCCN2015648493.tif)
 
 ###### Questions

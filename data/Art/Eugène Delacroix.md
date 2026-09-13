@@ -23,8 +23,9 @@ indice_6 :
   - influence de Rubens
 questions:
  - A quel peintre français né en 1798, chef de file du romantisme, Baudelaire avait-il beaucoup d'admiration ?
+culture_g_score: 97
+culture_g_justification: "Delacroix est incontournable pour le romantisme, La Liberté guidant le peuple, l'orientalisme et l'histoire culturelle française."
 ---
-
 ![Image de Eugène Delacroix](https://upload.wikimedia.org/wikipedia/commons/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg)
 
 ###### Questions

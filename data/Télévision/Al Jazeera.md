@@ -20,8 +20,9 @@ indice_6 :
   - médias internationaux
 questions:
  - Quelle chaîne qatarie de langue arabe, créée en 1996 et diffusée dans de nombreux pays, est parfois surnommée la CNN arabe ?
+culture_g_score: 80
+culture_g_justification: "Média international majeur, associé au Qatar, au monde arabe, au Printemps arabe et aux enjeux géopolitiques de l’information."
 ---
-
 ![Image de Al Jazeera](https://upload.wikimedia.org/wikipedia/commons/5/57/Al_Jazeera_News_Loop_1996.jpg)
 
 ###### Questions

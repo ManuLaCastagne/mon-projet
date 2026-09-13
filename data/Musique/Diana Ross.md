@@ -22,8 +22,9 @@ indice_6 :
   - Upside Down
 questions:
  - Chanteuse avec The Supremes de "Baby love" et "Stop in the name of love".
+culture_g_score: 80
+culture_g_justification: "Grande chanteuse américaine liée aux Supremes, au disco et au cinéma, offrant plusieurs angles classiques de questions musicales."
 ---
-
 ![Image de Diana Ross](https://upload.wikimedia.org/wikipedia/commons/2/21/Diana_Ross_%281982%29.jpg)
 
 ###### Questions

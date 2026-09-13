@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de liberté et de puissance
 questions:
  - Quelle race de chevaux amérindiens avec une robe tachetée, provient d'un troupeau sélectionné par les Indiens Nez-Percés?
+culture_g_score: 44
+culture_g_justification: "Race équine reconnaissable par sa robe tachetée, mais rarement interrogée hors de la connaissance animale."
 ---
-
-
 ![Image de Appaloosa](https://upload.wikimedia.org/wikipedia/commons/9/93/Appaloosa_stallion.JPG)
 
 ###### Questions

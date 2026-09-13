@@ -15,8 +15,9 @@ indice_6 :
   - Parfum en parfumerie et décoration florale
 questions:
  - Quelle plante originaire d'Afrique du Sud donnant des fleurs en grappes  dressées en trompettes doit son nom à un médecin allemand ?
+culture_g_score: 44
+culture_g_justification: "Fleur appréciée en horticulture et en parfumerie, avec une notoriété correcte mais peu d'angles indépendants."
 ---
-
 ![Image de Freesia](https://upload.wikimedia.org/wikipedia/commons/4/48/Flowers_February_2009-1.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Patrimoine culturel d'Amérique du Sud
 questions:
  - Quel outil, composé de cordelettes à noeuds, permettait aux fonctionnaires inca d'enregistrer les recensements...
+culture_g_score: 60
+culture_g_justification: "Système inca original et régulièrement cité, mais concentré sur quelques questions d’archéologie et de civilisation andine."
 ---
-
 ![Image de Quipu](https://upload.wikimedia.org/wikipedia/commons/a/a7/Inca_Quipu.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - chevaliers alignés
 questions:
  - Quel tableau, représentant Justin de Nassau aux côtés d'Ambrogio Spinola, constitue la plus grande peinture de Diego Vélasquez qui a été conservée?
+culture_g_score: 60
+culture_g_justification: "Chef-d’œuvre de Vélasquez, la Reddition de Breda est une référence classique mais principalement limitée à la peinture espagnole et à un épisode historique."
 ---
-
 ![Image de Reddition de Breda](https://upload.wikimedia.org/wikipedia/commons/8/8e/Velazquez-The_Surrender_of_Breda.jpg)
 
 ###### Questions

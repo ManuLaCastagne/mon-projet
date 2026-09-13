@@ -22,8 +22,9 @@ indice_6 :
   - Déjeuner en paix
 questions:
  - Chanson sortie en 1991 sur le même 45 tours que "Baudelaire's Waltz", j'ai ensuite figuré sur un album, resté longtemps en tête du hit-parade suisse. Née, comme le titre "Pas d'amis (comme toi)"...
+culture_g_score: 72
+culture_g_justification: "Chanson francophone très connue de Stephan Eicher, classique des quiz musicaux mais limitée à quelques repères liés à son auteur et son album."
 ---
-
 ![Image de Déjeuner en paix](https://upload.wikimedia.org/wikipedia/commons/e/e3/La_caricature_de_la_%22Conf%C3%A9rence_de_la_paix%22_%28IA_lacaricaturedela00inte%29.pdf)
 
 ###### Questions

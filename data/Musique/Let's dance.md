@@ -18,9 +18,9 @@ indice_5:
   - Valse
 indice_6:
   - Breakdance
+culture_g_score: 80
+culture_g_justification: "Album et tube majeurs de Bowie, ouvrant sur la pop des années 1980, Nile Rodgers, les classements et la carrière de l'artiste."
 ---
-
-
 ![Image de Let's dance](https://upload.wikimedia.org/wikipedia/commons/d/d6/David_Bowie_%281987%29.jpg)
 
 ###### Questions

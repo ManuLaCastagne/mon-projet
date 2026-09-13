@@ -18,8 +18,9 @@ indice_6 :
   - Mythe grec
 questions:
  - Quelle reine des Amazones, fille d'Arès, vient avec un contingent...
+culture_g_score: 40
+culture_g_justification: "Reine des Amazones liée à la guerre de Troie, Penthésilée peut apparaître dans des questions mythologiques ou artistiques, mais reste peu fréquente."
 ---
-
 ![Image de Penthésilée](https://upload.wikimedia.org/wikipedia/commons/3/3e/Penthesilea_as_one_of_the_Nine_Female_Worthie.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Acteur suédois
 indice_6 : 
   - Star Wars  Le Réveil de la Force
+culture_g_score: 80
+culture_g_justification: "Grand acteur international associé à Bergman, L’Exorciste, Flash Gordon et de nombreuses œuvres patrimoniales."
 ---
-
 ![Image de Max von Sydow](https://upload.wikimedia.org/wikipedia/commons/d/d4/Max_von_Sydow_Cannes_2016.jpg)
 
 ###### Questions

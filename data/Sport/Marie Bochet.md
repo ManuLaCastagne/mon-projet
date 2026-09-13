@@ -20,8 +20,9 @@ indice_6 :
   - France
 questions:
  - Quelle skieuse handisport a remporté 8 titres paralympiques  4 aux Jeux de Sotchi en 2014, les 4 autres à Pyeongchang en 2018 ?
+culture_g_score: 44
+culture_g_justification: "Championne française majeure du ski paralympique, mais sujet relativement spécialisé et peu transversal hors du handisport."
 ---
-
 ![Image de Marie Bochet](https://upload.wikimedia.org/wikipedia/commons/3/38/IPC_Alpine_2013_SuperG_awards_3_%28cropped02%29.JPG)
 
 ###### Questions

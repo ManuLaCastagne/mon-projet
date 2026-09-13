@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de symbiose
 questions:
  - Quels sont ces oiseaux africains, qui se perchent sur certains grands mammifères...
+culture_g_score: 40
+culture_g_justification: "Oiseau intéressant par sa relation avec les grands mammifères africains, mais principalement sujet de zoologie spécialisée."
 ---
-
 ![Image de Pique-bœuf](https://upload.wikimedia.org/wikipedia/commons/d/d5/Red-billed_oxpecker_%28Buphagus_erythrorhynchus%29_on_impala_%28Aepyceros_melampus%29.jpg)
 
 ###### Questions

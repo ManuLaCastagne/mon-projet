@@ -22,8 +22,9 @@ indice_6 :
   - Album Zen
 questions:
  - Sous quel pseudonyme connaît-on mieux la chanteuse Isabelle de Truchis de Varennes, interprète des tubes...
+culture_g_score: 76
+culture_g_justification: "Chanteuse et autrice française très connue, exploitable via ses albums, ses textes, les Victoires et The Voice."
 ---
-
 ![Image de Zazie](https://upload.wikimedia.org/wikipedia/commons/d/d6/Zazie_%C3%A0_Lille_en_mai_2011.jpg)
 
 ###### Questions

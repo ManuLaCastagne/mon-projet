@@ -20,8 +20,9 @@ indice_6 :
   - documentaires provocateurs
 questions:
  - Sous quel nom anglais connait-on le duo d'activistes spécialisé dans le canular dénonçant le libéralisme ?
+culture_g_score: 27
+culture_g_justification: "Collectif activiste et satirique contemporain très niche, principalement mobilisé dans quelques questions sur les médias et la critique des entreprises."
 ---
-
 ![Image de Yesmen](https://upload.wikimedia.org/wikipedia/commons/5/5c/The_Yes_Men_at_re-publica_2014.jpg)
 
 ###### Questions

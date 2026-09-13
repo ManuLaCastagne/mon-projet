@@ -18,6 +18,8 @@ indice_5 :
   - Ferdinand Griffon
 indice_6 : 
   - Nouvelle Vague
+culture_g_score: 80
+culture_g_justification: "Film majeur de Godard et de la Nouvelle Vague, questionnable par son casting, ses références littéraires, son style et son influence cinématographique."
 ---
 ![[Pasted image 20250505171752.png]]
 ###### Questions

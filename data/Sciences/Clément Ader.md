@@ -18,8 +18,9 @@ indice_5:
   - Ingénieur français
 indice_6:
   - Pionnier aéronautique
+culture_g_score: 68
+culture_g_justification: "Clément Ader est un pionnier important de l’aviation française, utile pour plusieurs questions historiques et technologiques."
 ---
-
 ![Image de Clément Ader](https://upload.wikimedia.org/wikipedia/commons/9/91/Cl%C3%A9ment_Ader_en_1910.jpg)
 
 ###### Questions

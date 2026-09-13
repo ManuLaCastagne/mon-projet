@@ -25,8 +25,9 @@ indice_6:
   - modèle vivant
 questions:
   - En 1991, dans quel film de Jacques Rivet Piccoli incarne-t-il un peintre avec Emmanuelle Béart ?
+culture_g_score: 59
+culture_g_justification: "Œuvre importante de Jacques Rivette ouvrant sur Balzac, la peinture, la création artistique et Cannes, mais destinée surtout aux cinéphiles."
 ---
-
 ![Image de La Belle Noiseuse](https://upload.wikimedia.org/wikipedia/commons/9/9c/La_belle_noiseuse_%284189844555%29.jpg)
 
 ###### Questions

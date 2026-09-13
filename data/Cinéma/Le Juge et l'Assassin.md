@@ -22,8 +22,9 @@ indice_6 :
   - Michel Galabru
 questions:
  - Film français inspiré de faits réels sorti en 1976, j'ai pour cadre la campagne ardéchoise, je retrace la cavale sanguinaire de Joseph Bouvier à la fin du XIXe.
+culture_g_score: 60
+culture_g_justification: "Film reconnu de Bertrand Tavernier, intéressant pour le cinéma français, les faits divers historiques et la représentation de la justice."
 ---
-
 ![Image de Le Juge et l'Assassin](https://upload.wikimedia.org/wikipedia/commons/8/84/Banc_place_du_Foiral_-_Privas_-_Ard%C3%A8che_F%C3%A9vrier_2024.jpg)
 
 ###### Questions

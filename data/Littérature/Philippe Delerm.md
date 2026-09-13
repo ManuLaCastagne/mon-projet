@@ -22,8 +22,9 @@ indice_6 :
   - bonheur simple
 questions:
  - Quel écrivain, affectionnant les textes courts sur les bonheurs du quotidien a publié "La Vie en relief" et "La Première Gorgée de bière" ?
+culture_g_score: 64
+culture_g_justification: "Auteur d’un livre très connu sur les plaisirs quotidiens, souvent interrogé aussi via son lien familial avec Vincent Delerm."
 ---
-
 ![Image de Philippe Delerm](https://upload.wikimedia.org/wikipedia/commons/1/19/Paris_-_Salon_du_livre_2012_-_Philippe_Delerm_-_002.jpg)
 
 ###### Questions

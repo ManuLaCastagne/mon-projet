@@ -22,8 +22,9 @@ indice_6 :
   - roman de Thomas Harris
 questions:
  - Quel film tiré d'un roman de Thomas Harris est une préquelle de Le Silence des agneaux ?
+culture_g_score: 60
+culture_g_justification: "Thriller connu grâce à Hannibal Lecter et Thomas Harris, mais nettement moins incontournable que Le Silence des agneaux."
 ---
-
 ![Image de Dragon rouge (film)](https://upload.wikimedia.org/wikipedia/commons/5/51/Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg)
 
 ###### Questions

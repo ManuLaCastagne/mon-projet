@@ -24,8 +24,9 @@ indice_6 :
   - partition nord-sud
 questions:
  - Avec Malte, quel Etat insulaire de la Méditerranée orientale a changé sa devise officielle et a adopté l'euro en 2008 ?
+culture_g_score: 80
+culture_g_justification: "Pays méditerranéen très rentable à connaître grâce à sa division politique, Nicosie, l’Union européenne, Aphrodite et ses enjeux énergétiques."
 ---
-
 ![Image de Chypre](https://upload.wikimedia.org/wikipedia/commons/7/7f/Coast_with_Dome_Hotel%2C_Kyrenia%2C_Northern_Cyprus_03.jpg)
 
 ![[Carte_Chypre.png]]

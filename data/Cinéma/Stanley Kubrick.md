@@ -20,9 +20,9 @@ indice_5 :
   - réalisateur visionnaire
 indice_6 : 
   - perfectionnisme légendaire
+culture_g_score: 88
+culture_g_justification: "Cinéaste mondialement reconnu, auteur de plusieurs œuvres canoniques couvrant la science-fiction, l’horreur, la guerre et la satire."
 ---
-
-
 ![Image de Stanley Kubrick](https://upload.wikimedia.org/wikipedia/commons/8/8b/Stanley_Kubrick_2.jpg)
 
 ###### Questions

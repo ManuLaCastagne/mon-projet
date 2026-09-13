@@ -22,9 +22,9 @@ indice_6 :
   - crues saisonnières
 questions:
  - Fleuve d'Asie long de 2 900km, je prends ma source au nord de l'Himalaya près du mont Kailash à environ 5 300m d'altitude. Fleuve puissant aux crues fertiles mais dévastatrices, je traverse le Tibet puis l'Inde, où j'arrose la vallée de l'Assam avant d'atteindre le Bangladesh...
+culture_g_score: 80
+culture_g_justification: "Grand fleuve asiatique lié au Tibet, au Gange, aux inondations et au Bangladesh, le Brahmapoutre est un excellent repère géographique."
 ---
-
-
 ![Image de Brahmapoutre](https://upload.wikimedia.org/wikipedia/commons/f/f8/Brahmapoutre.png)
 
 ###### Questions

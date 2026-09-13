@@ -23,8 +23,9 @@ indice_6 :
   - musée Figueres
 questions:
  - En 1944, quelle actrice et sex-symbol américain, célèbre pour son rôle provoquant dans "Lady Lou" inspire les courbes du flacon d'un parfum?
+culture_g_score: 64
+culture_g_justification: "Icône du cinéma américain et source de références artistiques célèbres, mais sa portée en culture générale reste surtout cinématographique."
 ---
-
 ![Image de Mae West](https://upload.wikimedia.org/wikipedia/commons/4/49/HVB-Tower_and_Mae_West%2C_Munich%2C_June_2017_-02.jpg)
 
 ###### Questions

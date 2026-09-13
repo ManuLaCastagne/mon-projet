@@ -13,8 +13,9 @@ indice_5:
   - Aussi appelé Tilia tomentosa
 indice_6:
   - Utilisé pour ses propriétés apaisantes et médicinales
+culture_g_score: 32
+culture_g_justification: "Variété précise de tilleul, surtout pertinente pour une identification botanique ponctuelle."
 ---
-
 ![Image de Tilleul argenté](https://upload.wikimedia.org/wikipedia/commons/6/6b/Tilia_tomentosa_Lipa_srebrzysta_2021-10-02_02.jpg)
 
 ###### Questions

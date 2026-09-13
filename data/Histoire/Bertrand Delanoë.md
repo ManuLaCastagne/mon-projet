@@ -20,8 +20,9 @@ indice_6 :
   - Nuits blanches
 questions:
  - Quel homme politique né en 1950 en Tunisie, alors sous protectorat français, a été maire de Paris de 2001 à 2014 ?
+culture_g_score: 47
+culture_g_justification: "Ancien maire de Paris associé au Vélib’ et à une évolution sociétale notable, mais d’importance nationale limitée."
 ---
-
 ![Image de Bertrand Delanoë](https://upload.wikimedia.org/wikipedia/commons/d/d7/Socialist_rally_Zenith_2007_05_29_n7.jpg)
 
 ###### Questions

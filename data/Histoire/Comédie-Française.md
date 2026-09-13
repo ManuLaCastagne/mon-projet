@@ -20,8 +20,9 @@ indice_6 :
   - Paris
 questions:
  - Quelle prestigieuse institution théâtrale française composée de pensionnaires et de sociétaires, a été créée en 1680?
+culture_g_score: 89
+culture_g_justification: "Institution théâtrale française incontournable, liée à Molière, au théâtre classique, aux comédiens et à l’histoire culturelle nationale."
 ---
-
 ![Image de Comédie-Française](https://upload.wikimedia.org/wikipedia/commons/e/eb/Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg)
 
 ###### Questions

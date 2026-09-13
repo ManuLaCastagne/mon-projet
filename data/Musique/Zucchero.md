@@ -22,10 +22,9 @@ indice_6 :
   - Diamante
 questions:
  - Quel chanteur italien, interprète "Diavolo in Me" et en duo "Senza una Donna" avec Paul Young ?
+culture_g_score: 60
+culture_g_justification: "Chanteur italien connu pour ses collaborations et son succès international, mais seulement occasionnel dans les quiz généralistes."
 ---
-
-
-
 ![Image de Zucchero](https://upload.wikimedia.org/wikipedia/commons/5/5f/Zucchero_03.JPG)
 
 ###### Questions

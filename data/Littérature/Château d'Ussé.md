@@ -22,8 +22,9 @@ indice_6 :
   - patrimoine historique
 questions:
  - Lieu d'un conte de fées intitulé "Dornroschen" dans la version des frères Grimm, j'ai été représenté par Banksy dans une exposition temporaire en forme de parc d'attractions.  Inspiré à Charles Perrault  par le château d'Ussé, mes occupants sont plongés...
+culture_g_score: 48
+culture_g_justification: "Château ligérien pittoresque associé à La Belle au bois dormant, mais cette association fournit peu d’angles indépendants en quiz."
 ---
-
 ![Image de Château d'Ussé](https://upload.wikimedia.org/wikipedia/commons/1/15/Reminiscence._Ch%C3%A2teau_d%27Uss%C3%A9_-_The_Sleeping_Beauty_Castle._France.jpg)
 
 ###### Questions

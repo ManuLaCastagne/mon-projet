@@ -20,8 +20,9 @@ indice_6 :
   - Deuxième guerre punique
 questions:
  - En 202 avant J.-C., quelle bataille, longtemps indécise, remportée par Scipion l'Africain sur Hannibal Lecter, mit fin...
+culture_g_score: 84
+culture_g_justification: "Défaite d’Hannibal face à Scipion, repère majeur de la deuxième guerre punique et de l’expansion romaine."
 ---
-
 ![Image de Bataille de Zama](https://upload.wikimedia.org/wikipedia/commons/2/2e/La_Bataille_de_Zama_Jules_Romain_1688_1690.jpg)
 
 ###### Questions

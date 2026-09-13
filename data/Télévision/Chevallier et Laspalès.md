@@ -20,9 +20,9 @@ indice_6 :
   - Philippe Chevallier et Régis Laspalès
 questions:
  - Duo comique ayant joué dans la pièce "Ma femme s'appelle Maurice",  nous restons associés à la réplique "C'est vous qui voyez!"
+culture_g_score: 56
+culture_g_justification: "Duo comique français bien connu avec des sketches, films et émissions, mais d’importance culturelle surtout nationale et secondaire."
 ---
-
-
 ![Image de Chevallier et Laspalès](https://upload.wikimedia.org/wikipedia/commons/2/2e/Chevallier_et_Laspal%C3%A8s_%C3%A0_la_Cit%C3%A9_des_Congr%C3%A8s_de_Nantes_en_novembre_2006.jpg)
 
 ###### Questions

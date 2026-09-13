@@ -15,8 +15,9 @@ indice_6 :
   - Jus et zestes utilisés en cuisine
 questions:
  - Arbre fruitier à croissance rapide, pouvant être des variétés Verna et Eureka, je suis caractérisé par des grandes feuilles luisantes parfumées.  Très décoratif car je porte en même temps des fleurs blanches odorantes et des fruits verts ou mûrs, je donne...
+culture_g_score: 72
+culture_g_justification: "Arbre fruitier très familier, relié à la cuisine, à la vitamine C, aux agrumes et à l’histoire des échanges."
 ---
-
 ![Image de Citronnier](https://upload.wikimedia.org/wikipedia/commons/e/e4/Lemon.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6:
   - Catalogne Nord
 questions:
   - Dans quel département français le village espagnol de Llivia est-il enclavé?
+culture_g_score: 60
+culture_g_justification: "Département français doté de repères culturels, ferroviaires et scientifiques connus, mais rarement prioritaire à l’échelle nationale."
 ---
-
 ![Image de Pyrénées-orientales](https://upload.wikimedia.org/wikipedia/commons/3/3a/La_Coumasse-Pyr%C3%A9n%C3%A9es_Orientales-Frankreich.jpg)
 
 ![[Carte_Pyrénées-orientales.png]]

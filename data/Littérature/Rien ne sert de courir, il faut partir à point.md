@@ -22,9 +22,9 @@ indice_6 :
   - temps
 questions:
  - Morale ouvrant la 10e fable du livre 6 des "Fables" de La Fontaine, je suis illustrée par le comportement opposé de 2 animaux ayant fait un pari qui semble perdu d'avance pour l'un d'entre eux.
+culture_g_score: 90
+culture_g_justification: "Morale proverbiale extrêmement fréquente et immédiatement reliée à La Fontaine, même si elle offre peu d’angles véritablement distincts."
 ---
-
-
 ![Image de Rien ne sert de courir, il faut partir à point](https://upload.wikimedia.org/wikipedia/commons/d/de/LL-Q150_%28fra%29-R%C3%A9sidente_1_%28Lyoko%C3%AF%29-rien_ne_sert_de_courir_il_faut_partir_%C3%A0_point.wav)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_6 :
   - Poméranie
 questions:
  - En 1980, dans quelle ville de Pologne les ouvriers du chantier naval élisent-ils Lech Walesa président du Comité de grève ?
+culture_g_score: 80
+culture_g_justification: "Ville polonaise importante pour la Seconde Guerre mondiale, la Hanse, la Baltique, l’histoire politique et le patrimoine."
 ---
-
-
 ![[Carte_Gdansk.png]]
 
 ###### Questions

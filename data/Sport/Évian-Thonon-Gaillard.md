@@ -20,8 +20,9 @@ indice_6 :
   - Khelifa
 questions:
  - En 2013, pour quelle équipe de Ligue 1 Sabel Khalifa a-t-il inscrit un but de plus de 60m ?
+culture_g_score: 39
+culture_g_justification: "Club français au parcours atypique, mais sa disparition du football professionnel en fait une référence de portée limitée."
 ---
-
 ![Image de Évian-Thonon-Gaillard](https://upload.wikimedia.org/wikipedia/commons/c/c9/Lens_-_Evian_%2829-02-2016%29_60.JPG)
 
 ###### Questions

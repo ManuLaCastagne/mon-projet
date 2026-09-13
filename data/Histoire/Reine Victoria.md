@@ -20,8 +20,9 @@ indice_6:
   - Empire colonial
 questions:
   - Lors de son règne, entre 1837 et 1901...
+culture_g_score: 88
+culture_g_justification: "Monarque centrale de l’histoire britannique et de l’ère industrielle, avec de nombreux liens politiques, impériaux et culturels."
 ---
-
 ![Image de Victoria](https://upload.wikimedia.org/wikipedia/commons/4/45/British_Columbia_Parliament_Building_in_Victoria%2C_British_Columbia%2C_Canada_07.jpg)
 
 ###### Questions

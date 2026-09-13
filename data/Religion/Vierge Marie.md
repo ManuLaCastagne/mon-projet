@@ -20,9 +20,9 @@ indice_6 :
   - Magnificat
 questions:
  - Selon le Coran, quelle femme aurait accouché près d'un tronc de palmier tandis que la Bible situe cet événement dans une étable?
+culture_g_score: 100
+culture_g_justification: "Figure centrale du christianisme, la Vierge Marie intervient dans la Bible, les dogmes, les fêtes, les pèlerinages, l’art et l’histoire religieuse."
 ---
-
-
 ![Image de Vierge Marie](https://upload.wikimedia.org/wikipedia/commons/9/9e/Vierge_Marie_-_20150714_13h51_%2810354%29.jpg)
 
 ###### Questions

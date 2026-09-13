@@ -20,8 +20,9 @@ indice_5 :
   - Les Incorruptibles
 indice_6 : 
   - Kevin Costner
+culture_g_score: 80
+culture_g_justification: "Figure liée à la prohibition, à Al Capone et aux Incorruptibles, permettant des questions historiques, policières et cinématographiques."
 ---
-
 ![Image de Eliot Ness](https://upload.wikimedia.org/wikipedia/commons/b/b1/Eliotness.jpg)
 
 ###### Questions

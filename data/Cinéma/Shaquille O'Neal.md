@@ -22,8 +22,9 @@ indice_6 :
   - films comiques
 questions:
  - En 2006, quel célèbre basketteur américain de 2,16 m, peu ou prou ma taille, pour ceux qui cherchent une échelle, apparaît au début du film parodique "Scary Movie 4"?
+culture_g_score: 75
+culture_g_justification: "Immense figure du basket mondial également présente au cinéma, mais ses références cinématographiques restent secondaires face à sa carrière sportive."
 ---
-
 ![Image de Shaquille O'Neal](https://upload.wikimedia.org/wikipedia/commons/e/e1/Shaquille_O%27Neal.JPG)
 
 ###### Questions

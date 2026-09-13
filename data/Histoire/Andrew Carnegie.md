@@ -20,9 +20,9 @@ indice_6 :
   - Auteur de l'essai The Gospel of Wealth
 questions:
  - Philanthropique. A l'origine de nombreuses fondations, j'ai créé aux Etats-Unis quelque 2500 bibliothèques ainsi que la salle de concert new-yorkaise dite hall, qui porte mon nom. Je suis...
+culture_g_score: 72
+culture_g_justification: "Magnat de l’acier et grand philanthrope, Carnegie relie industrialisation, richesse, bibliothèques et capitalisme américain."
 ---
-
-
 ![Image de Andrew Carnegie](https://upload.wikimedia.org/wikipedia/commons/0/09/Andrew_Carnegie%2C_three-quarter_length_portrait%2C_seated%2C_facing_slightly_left%2C_1913-crop.jpg)
 
 ###### Questions

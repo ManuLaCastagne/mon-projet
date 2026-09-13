@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Dans quel générique de feuilleton dit-on qu'une ville américaine "glorifie la loi du plus fort"?
  - Quelle famille comprenant J.R. Ewing et Bobby Ewing...
+culture_g_score: 93
+culture_g_justification: "Feuilleton mondialement emblématique, extrêmement fréquent dans les quiz grâce à ses personnages, ses intrigues, son succès et la télévision des années 1980."
 ---
-
 ![Image de Dallas (série)](https://upload.wikimedia.org/wikipedia/commons/e/e9/Dallas_tv_panel_gcc_2022.jpg)
 
 ###### Questions

@@ -25,8 +25,9 @@ indice_6 :
   - Campanie
 questions:
  - Ville d'Europe ayant inspiré un guide insolite à Véronique Bruez, j'aurais été fondé par les Grecs au 7ème siècle avant notre ère sous le nom de Parthénopnée.
+culture_g_score: 80
+culture_g_justification: "Ville majeure d'Italie, très rentable grâce à Pompéi, au Vésuve, à la pizza, à l'histoire antique et à la culture napolitaine."
 ---
-
 ![Image de Naples](https://upload.wikimedia.org/wikipedia/commons/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg)
 
 ![[Carte_Naples.png]]

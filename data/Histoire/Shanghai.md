@@ -20,8 +20,9 @@ indice_6 :
   - Révolution culturelle
 questions:
  - Dans quelle ville portuaire de Chine, le Parti communiste chinois est-il fondé...
+culture_g_score: 72
+culture_g_justification: "Grande métropole chinoise associée à l’histoire coloniale, à la Révolution culturelle, à la diplomatie et à l’essor économique contemporain."
 ---
-
 ![Image de Shanghai](https://upload.wikimedia.org/wikipedia/commons/d/df/Pudong_Shanghai_November_2017_panorama.jpg)
 
 ###### Questions

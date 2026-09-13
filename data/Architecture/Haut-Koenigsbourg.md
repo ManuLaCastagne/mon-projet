@@ -22,8 +22,9 @@ indice_6:
   - tourisme historique
 questions:
   - Quelle forteresse de grès rose construite sur un piton vosgien et remaniée au XVe siècle, est située à l'ouest de Sélestat et domine la plaine d'Alsace?
+culture_g_score: 60
+culture_g_justification: "Le Haut-Koenigsbourg est un château français classique des quiz patrimoniaux, intéressant pour l’Alsace, Guillaume II et la restauration médiévalisante."
 ---
-
 ![Image de Haut-Koenigsbourg](https://upload.wikimedia.org/wikipedia/commons/c/ce/Station_de_pompage_du_Haut-Koenigsbourg.jpg)
 
 ![[Carte_Haut-Koenigsbourg.png]]

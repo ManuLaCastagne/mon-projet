@@ -22,8 +22,9 @@ indice_6:
   - Prénom Annie
 questions:
   - Artiste ayant été la 2e Française à réussir à se classer au Billboard américain après Edith Piaf, j'ai débuté dans les années 1960 au sein du groupe Guitar Brothers. Repérée par Claude Carrère qui me donne mon nom de scène, j'enchaîne les tubes lors des années yé-yé...
+culture_g_score: 76
+culture_g_justification: "Sheila est une figure importante de la variété française, interrogée sur ses tubes, sa période disco et son évolution de carrière."
 ---
-
 ![Image de Sheila](https://upload.wikimedia.org/wikipedia/commons/2/22/Popularity_of_name_Sheila.svg)
 
 ###### Questions

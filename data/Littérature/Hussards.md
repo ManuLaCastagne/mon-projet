@@ -18,8 +18,9 @@ indice_5:
   - Le Hussard bleu
 indice_6:
   - École littéraire
+culture_g_score: 43
+culture_g_justification: "Courant littéraire français identifiable par Nimier, Blondin, Laurent et Déon, mais rarement interrogé en dehors de l'histoire littéraire spécialisée."
 ---
-
 ![Image de Hussards](https://upload.wikimedia.org/wikipedia/commons/5/54/French_warship_%27Hussard.%27_%27Infanta_Ysabel.%27_%2815054984015%29.jpg)
 
 ###### Questions

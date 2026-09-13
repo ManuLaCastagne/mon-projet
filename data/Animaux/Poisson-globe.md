@@ -15,10 +15,9 @@ indice_6 :
   - Spécialité culinaire japonaise
 questions:
  - Quel nom composé donne-t-on au tétrodon, un poisson capable de se gonfler brutalement...
+culture_g_score: 73
+culture_g_justification: "Poisson très mémorable grâce au gonflement et au fugu, régulièrement utilisé pour des questions de zoologie, de toxicologie et de gastronomie."
 ---
-
-
-
 ![Image de Poisson-globe](https://upload.wikimedia.org/wikipedia/commons/2/2a/Poisson_-_Recherches_sur_la_probabilit%C3%A9_des_jugements_en_mati%C3%A8re_criminelle_et_en_mati%C3%A8re_civile%2C_1837.djvu)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - No Mas
 questions:
  - Remarquable puncheur, ce qui m'a valu le surnom de Manos de piedra, c'est-à-dire mains de pierre, j'ai disputé des matchs...
+culture_g_score: 68
+culture_g_justification: "Grande figure de la boxe mondiale, identifiable par ses titres, son surnom et le combat emblématique contre Sugar Ray Leonard, mais moins incontournable que les plus grands noms du sport."
 ---
-
-
 ![Image de Roberto Duran](https://upload.wikimedia.org/wikipedia/commons/e/e9/Roberto-Duran-1994_%28cropped%29.png)
 
 ###### Questions

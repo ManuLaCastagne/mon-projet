@@ -20,8 +20,9 @@ indice_6 :
   - humanisme
 questions:
  - Avec Dante Alighieri et Pétrarque, quel écrivain du XIVe écrivit le "Décaméron" porte les trois couronnes de Florence (ville) ?
+culture_g_score: 72
+culture_g_justification: "Grand écrivain italien associé au Décaméron, à la peste noire, à Pétrarque et aux débuts de l’humanisme."
 ---
-
 ![Image de Boccace](https://upload.wikimedia.org/wikipedia/commons/d/db/Boccaccio_by_Morghen.jpg)
 
 ###### Questions

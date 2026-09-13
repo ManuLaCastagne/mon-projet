@@ -24,8 +24,9 @@ indice_6 :
   - Mont des Oliviers
 questions:
  - Ville sainte d'Israël, disait la fin de la question, lieu de pèlerinage pour les 3 religions monothéistes abritant le Mur des lamentations, je suis…
+culture_g_score: 100
+culture_g_justification: "Ville universellement célèbre, au croisement de l’histoire, des religions, de l’archéologie et de la géopolitique contemporaine."
 ---
-
 ![Image de Jérusalem](https://upload.wikimedia.org/wikipedia/commons/f/fa/Stoa_royale_basilique_H%C3%A9rode_Jerusalem_-_restitution_3D.jpg)
 
 ![[Carte_Jérusalem.png]]

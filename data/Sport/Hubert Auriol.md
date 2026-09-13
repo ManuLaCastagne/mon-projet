@@ -20,8 +20,9 @@ indice_6 :
   - Afrique
 questions:
  - Découvrant la moto trial et m'engageant dans la compétition dès 73, j'ai été le premier pilote à remporter le Paris-Dakar...
+culture_g_score: 60
+culture_g_justification: "Figure historique du Paris-Dakar, exploitable via ses victoires en moto et en auto ainsi que sa direction du rallye."
 ---
-
 ![Image de Hubert Auriol](https://upload.wikimedia.org/wikipedia/commons/2/2d/Festival_automobile_international_2012_-_Photocall_-_Hubert_Auriol_-_010.jpg)
 
 ###### Questions

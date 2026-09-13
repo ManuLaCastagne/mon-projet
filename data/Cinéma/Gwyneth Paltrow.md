@@ -23,8 +23,9 @@ indice_6 :
   - The Talented Mr. Ripley
 questions:
  - Quelle actrice joue aux côtés de Johnny Depp le rôle de l'épouse d'un marchand d'art escroc occasionnel dans "Charlie Mortdecai" en 2015 ?
+culture_g_score: 76
+culture_g_justification: "Actrice oscarisée et figure de Marvel, offrant des angles variés entre cinéma, séries, célébrité et culture contemporaine."
 ---
-
 ![Image de Gwyneth Paltrow](https://upload.wikimedia.org/wikipedia/commons/b/b4/Gwyneth_Paltrow_avp_Iron_Man_3_Paris.jpg)
 
 ###### Questions

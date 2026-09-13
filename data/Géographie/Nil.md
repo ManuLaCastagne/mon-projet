@@ -24,8 +24,9 @@ indice_6 :
   - source au lac Victoria
 questions:
  - Fleuve évoqué en 2012 dans le titre d'un roman du scoliastique Mukassonga, j'étais mentionné au Ve siècle avant notre ère par Hérodote.
+culture_g_score: 100
+culture_g_justification: "Fleuve fondamental de la géographie et de l'histoire mondiale, incontournable pour l'Égypte antique, l'Afrique, les civilisations et les grands fleuves."
 ---
-
 ![Image de Nil](https://upload.wikimedia.org/wikipedia/commons/0/05/Nile_R02.jpg)
 
 ![[Carte_Nil.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - critique des mœurs et classes sociales
 questions:
  - A quel écrivain français du XVIIIe siècle doit-on la comédie en 3 actes intitulée "La Surprise de l'amour"?
+culture_g_score: 89
+culture_g_justification: "Dramaturge incontournable des quiz littéraires, associé au marivaudage, aux comédies classiques et à l’analyse des sentiments."
 ---
-
 ![Image de Marivaux](https://upload.wikimedia.org/wikipedia/commons/1/10/Pierre_Carlet_de_Chamblain_de_Marivaux_-_Versailles_MV_2985.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6:
   - construction fortifiée
 questions:
   - Type de bâtiment ayant donné mon nom en 1955 à un roman de Jean-Paul Clébert, j'ai été par exemple édifié en 1915 près de la chapelle Saint-Albin dans l'Oise.  Généralement construit en béton armé avec peu d'ouvertures, avant d'être camouflé, je servais d'abri...
+culture_g_score: 60
+culture_g_justification: "Le blockhaus est un repère courant de la Seconde Guerre mondiale et du mur de l’Atlantique, mais ses angles restent limités."
 ---
-
 ![Image de Blockhaus](https://upload.wikimedia.org/wikipedia/commons/9/9c/Dresden_Germany_Blockhaus-Neust%C3%A4dter-Wache-01.jpg)
 
 ###### Questions

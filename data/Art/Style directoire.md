@@ -21,8 +21,9 @@ indice_6:
   - Époque post-révolutionnaire
 questions:
   - Quel style de mobilier également appelé style Messidor était en vogue de 1795 à 1799 ? Ce style de mobilier est considéré comme un prolongement du style Louis XVI, dans sa période néoclassique
+culture_g_score: 52
+culture_g_justification: "Le style Directoire est utile pour les repères historiques et décoratifs français, mais demeure moins fréquent que les grands styles artistiques."
 ---
-
 ![Image de Style directoire](https://upload.wikimedia.org/wikipedia/commons/4/40/Aft_Salon_in_Directoire_style.jpg)
 
 ###### Questions

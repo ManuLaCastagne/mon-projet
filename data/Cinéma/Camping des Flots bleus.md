@@ -22,8 +22,9 @@ indice_6 :
   - Comédie française
 questions:
  - Quel nom porte le camping de la station balnéaire...
+culture_g_score: 53
+culture_g_justification: "Lieu fictif très associé à la série de films Camping, utile pour quelques questions de cinéma populaire mais peu transversal en lui-même."
 ---
-
 ![Image de Camping des Flots bleus](https://upload.wikimedia.org/wikipedia/commons/d/df/Du_Camp_-_Les_Convictions%2C_1858.djvu)
 
 ###### Questions

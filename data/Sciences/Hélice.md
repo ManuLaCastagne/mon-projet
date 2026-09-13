@@ -5,6 +5,8 @@ tags:
   - Iran
   - Chine
 date: 1753
+culture_g_score: 63
+culture_g_justification: "L’hélice relie navigation, aéronautique, mécanique et énergie, mais les questions portent plus souvent sur ses applications que sur le terme seul."
 ---
 ###### Questions 
 

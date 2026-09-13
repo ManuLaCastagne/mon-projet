@@ -22,8 +22,9 @@ indice_6 :
   - Rantanplan
 questions:
  - Quel personnage de bande dessinée, créé en 1946, est présenté comme l'homme qui tire plus vite...
+culture_g_score: 96
+culture_g_justification: "Personnage incontournable de la BD francophone, offrant une multitude de questions sur Morris, Goscinny, les albums, les Dalton et l’Ouest américain."
 ---
-
 ![Image de Lucky Luke](https://upload.wikimedia.org/wikipedia/commons/f/f6/Lucky_Luke_lookalike_in_Gouda.jpg)
 
 ###### Questions

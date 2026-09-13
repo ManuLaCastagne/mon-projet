@@ -18,8 +18,9 @@ indice_5 :
   - Processions religieuses
 indice_6 : 
   - Mawlid
+culture_g_score: 48
+culture_g_justification: "Fête musulmane identifiable mais d'importance et de fréquence variables selon les pays, offrant peu d'angles indépendants."
 ---
-
 ![Image de Mouloud (fête)](https://upload.wikimedia.org/wikipedia/commons/9/98/Grande_Mosqu%C3%A9e_de_Kiota.jpg)
 
 ###### Questions

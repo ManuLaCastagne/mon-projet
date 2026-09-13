@@ -23,8 +23,9 @@ indice_6 :
   - collaboration avec Picasso
 questions:
  - Troupe de danseurs fondée par Diaghilev et dont firent partie Anna Pavlova, Serge Lifar et Vaslav Nijinski...
+culture_g_score: 88
+culture_g_justification: "Les Ballets russes relient danse, musique, peinture, mode et avant-garde grâce à Diaghilev et à de nombreuses collaborations célèbres."
 ---
-
 ![Image de Ballets Russes](https://upload.wikimedia.org/wikipedia/commons/8/8a/Daphnis_et_Chloe-_Pirates.png)
 
 ###### Questions

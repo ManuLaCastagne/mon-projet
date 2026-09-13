@@ -22,8 +22,9 @@ indice_6 :
   - exil en France
 questions:
  - Quel essayiste et moraliste d'origine roumaine a dit  "S'il y a quelqu'un qui doit tout à Bach, c'est bien Dieu"?
+culture_g_score: 71
+culture_g_justification: "Philosophe moraliste très identifiable par son style pessimiste et ses aphorismes, mais moins fréquent que les grandes figures philosophiques."
 ---
-
 ![Image de Emil Cioran](https://upload.wikimedia.org/wikipedia/commons/d/de/Cioran_in_Romania.jpg)
 
 ###### Questions

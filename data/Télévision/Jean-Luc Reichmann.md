@@ -19,8 +19,9 @@ indice_5 :
   - humoriste
 indice_6 : 
   - jeux télévisés
+culture_g_score: 73
+culture_g_justification: "Animateur durable d'un jeu télévisé quotidien majeur, avec des liens supplémentaires vers la fiction et les records télévisuels."
 ---
-
 ![Image de Jean-Luc Reichmann](https://upload.wikimedia.org/wikipedia/commons/d/d4/Jean-Luc_Reichmann.jpg)
 
 ###### Questions

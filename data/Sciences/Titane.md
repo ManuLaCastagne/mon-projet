@@ -20,8 +20,9 @@ indice_6 :
   - Implant médical
 questions:
  - Métal principalement obtenu à partir de minerais de rutile et d'ilménite, je suis très utilisé dans l'industrie en raison de ma résistance à la corrosion et de ma légèreté.
+culture_g_score: 72
+culture_g_justification: "Élément important et assez connu, offrant des liens utiles entre chimie, industrie, aéronautique, médecine et propriétés des matériaux."
 ---
-
 ![Image de Titane](https://upload.wikimedia.org/wikipedia/commons/d/db/Titan-crystal_bar.JPG)
 
 ###### Questions

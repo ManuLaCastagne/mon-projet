@@ -18,9 +18,9 @@ indice_5 :
   - Fils de Pierre-Auguste Renoir
 indice_6 : 
   - La Bête humaine
+culture_g_score: 100
+culture_g_justification: "Auteur de La Grande Illusion et de La Règle du jeu, figure fondamentale du cinéma mondial et de l’histoire culturelle française."
 ---
-
-
 ![Image de Jean Renoir](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gabrielle_et_Jean%2C_by_Pierre-Auguste_Renoir%2C_from_C2RMF_cropped.jpg)
 
 ###### Questions

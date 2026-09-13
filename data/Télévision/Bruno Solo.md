@@ -20,9 +20,9 @@ indice_6 :
   - sitcom française
 questions:
  - Participant au succès de la comédie "La vérité si je mens", je joue avec Yvan Le Bolloc'h...
+culture_g_score: 60
+culture_g_justification: "Acteur populaire surtout grâce à Caméra Café et au cinéma comique, avec une fréquence correcte mais une importance culturelle limitée."
 ---
-
-
 ![Image de Bruno Solo](https://upload.wikimedia.org/wikipedia/commons/5/53/Bruno_Solo_2010.jpg)
 
 ###### Questions

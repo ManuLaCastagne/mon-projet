@@ -22,8 +22,9 @@ indice_6 :
   - Astérix et Obélix
 questions:
  - En 2019, dans le film "Au nom de la terre" d'Edouard Bergeon, quel acteur incarne un agriculteur qui peine à faire vivre son exploitation?
+culture_g_score: 76
+culture_g_justification: "Acteur-réalisateur français populaire, associé à plusieurs succès, au cinéma contemporain et aux 24 Heures du Mans."
 ---
-
 ![Image de Guillaume Canet](https://upload.wikimedia.org/wikipedia/commons/8/87/Guillaume_Canet.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Influence de la musique classique sur ses compositions
 questions:
  - A quel Bernard compositeur américain doit-on les musiques des films d'Alfred Hitchcock...
+culture_g_score: 80
+culture_g_justification: "Compositeur majeur de musiques de films, particulièrement rentable grâce à Hitchcock, Citizen Kane, Taxi Driver et la scène de la douche."
 ---
-
 ![Image de Bernard Herrmann](https://upload.wikimedia.org/wikipedia/commons/e/ec/Bernard-Herrmann.jpg)
 
 ###### Questions

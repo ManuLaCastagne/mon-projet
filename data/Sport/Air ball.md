@@ -15,10 +15,9 @@ indice_5:
   - Rater le panier
 indice_6:
   - NBA
+culture_g_score: 40
+culture_g_justification: "Terme courant du basketball mais limité à quelques questions de vocabulaire sportif."
 ---
-
-
-
 ![Image de Air ball](https://upload.wikimedia.org/wikipedia/commons/3/3c/Bouncing_ball_strobe_edit.jpg)
 
 ###### Questions

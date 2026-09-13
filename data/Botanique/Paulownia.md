@@ -15,8 +15,9 @@ indice_6:
   - Utilisé pour son bois léger et résistant, souvent en menuiserie et ébénisterie
 questions:
   - Quel arbre devant son nom à la fille du tsar Paul Ier constitue un bel arbre d'ornement avec ses fleurs bleues violacées et ses grandes feuilles ?
+culture_g_score: 47
+culture_g_justification: "Arbre ornemental identifiable par ses grandes fleurs et son étymologie impériale, mais peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Paulownia](https://upload.wikimedia.org/wikipedia/commons/c/c4/Paulownia_imperialis_leaf_345.jpg)
 
 ###### Questions

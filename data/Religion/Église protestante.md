@@ -18,10 +18,9 @@ indice_5 :
   - Lutherans
 indice_6 : 
   - Huguenots
+culture_g_score: 80
+culture_g_justification: "Grande tradition chrétienne fréquemment associée à Luther, aux guerres de Religion, à la musique et à l’histoire européenne."
 ---
-
-
-
 ![Image de Église protestante](https://upload.wikimedia.org/wikipedia/commons/f/f7/%C3%89glise_protestante_%28Guebwiller%29.jpg)
 
 ###### Questions

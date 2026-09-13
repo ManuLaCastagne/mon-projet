@@ -1,3 +1,8 @@
+---
+culture_g_score: 81
+culture_g_justification: "Grand classique de la cuisine française, régulièrement lié à la Bourgogne, au vin et à l’histoire gastronomique régionale."
+---
+
 
 ###### Questions 
 

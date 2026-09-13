@@ -22,8 +22,9 @@ indice_6 :
   - Académie française
 questions:
  - De quel poète dramatique s'est-il entouré pour écrire la tragédie-ballet "Psyché" en 1671 ?
+culture_g_score: 97
+culture_g_justification: "Figure majeure du théâtre classique français, régulièrement interrogée à travers Le Cid, ses tragédies et le Grand Siècle."
 ---
-
 ![Image de Pierre Corneille](https://upload.wikimedia.org/wikipedia/commons/2/2a/Pierre_Corneille_2.jpg)
 
 ###### Questions

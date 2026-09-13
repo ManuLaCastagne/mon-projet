@@ -24,8 +24,9 @@ indice_6:
   - Lac Anosy
 questions:
   - Quelle ville située sur le plateau d'Imerina est la capitale de Madagascar ?
+culture_g_score: 57
+culture_g_justification: "Capitale de Madagascar utile pour les capitales, l’histoire malgache et la géographie de l’océan Indien, mais peu transversale."
 ---
-
 ![Image de Antananarivo](https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg)
 
 ![[Carte_Antananarivo.png]]

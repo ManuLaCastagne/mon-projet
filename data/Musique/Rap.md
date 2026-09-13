@@ -22,8 +22,9 @@ indice_6 :
   - mixtape
 questions:
  - Quel genre musical reprend les codes vestimentaires du hip-hop dont il est une composante ?
+culture_g_score: 100
+culture_g_justification: "Genre musical et mouvement culturel mondial, le rap permet des questions nombreuses sur ses origines, artistes, œuvres, société et évolution."
 ---
-
 ![Image de Rap](https://upload.wikimedia.org/wikipedia/commons/9/93/Rap_in_Arabic.wav)
 
 ###### Questions

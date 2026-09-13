@@ -23,8 +23,9 @@ indice_6 :
   - ruralité
 questions:
  - Joué par Michel Serrault, qui profite de sa ressemblance avec un homme disparu pour fuir son quotidien, j'exalte les joies du terroir. Film d'Etienne Chatiliez avec Eddy Mitchell et Sabine Azéma…
+culture_g_score: 64
+culture_g_justification: "Comédie française populaire de Chatiliez, utile pour les César, ses acteurs et la satire sociale, sans atteindre le rang des classiques mondiaux."
 ---
-
 ![Image de Le Bonheur est dans le pré](https://upload.wikimedia.org/wikipedia/commons/e/e3/Rosa_Bonheur%2C_sa_vie%2C_son_oeuvre_-_ouvrage_orn%C3%A9_de_22_gravures_hors_texte_et_de_54_gravures_dans_le_texte_%28IA_rosabonheursavie00roge%29.pdf)
 
 ###### Questions

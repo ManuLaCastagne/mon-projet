@@ -22,8 +22,9 @@ indice_6 :
   - Heroin
 questions:
  - Quel groupe, composé notamment de Lou Reed et de John Cale, doit son nom à un livre consacré aux perversions sexuelles aux Etats-Unis?
+culture_g_score: 80
+culture_g_justification: "Groupe influent du rock expérimental, relié à Andy Warhol, Lou Reed, au Velvet Underground et à l’histoire de l’avant-garde."
 ---
-
 ![Image de Velvet Underground](https://upload.wikimedia.org/wikipedia/commons/b/b1/Velvet_Underground_1968_by_Billy_Name.png)
 
 ###### Questions

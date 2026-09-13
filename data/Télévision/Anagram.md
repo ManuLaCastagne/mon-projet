@@ -20,8 +20,9 @@ indice_6 :
   - années 90
 questions:
  - Quel jeu télévisé lancé en 1985 et d'abord animé par Michel Constantin, Daniel Prévost présenta-t-il une banane dans l'oreille et avec une cravate poissons rouges également ?
+culture_g_score: 57
+culture_g_justification: "Notion classique des jeux de lettres, utile dans plusieurs questions de vocabulaire et de télévision, sans grande portée culturelle propre."
 ---
-
 ![Image de Anagram](https://upload.wikimedia.org/wikipedia/commons/3/33/Anagram_Listen_%3D_Silent.gif)
 
 ###### Questions

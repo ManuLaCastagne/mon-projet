@@ -22,8 +22,9 @@ indice_6 :
   - film basé sur des faits réels
 questions:
  - En 1990, dans quel film inspiré de faits réels Michel Serrault incarne-t-il un médecin accusé de meurtre pendant l'occupation ?
+culture_g_score: 32
+culture_g_justification: "Film français consacré à un criminel historique connu, mais l'œuvre précise est peu présente dans les quiz généralistes."
 ---
-
 ![Image de Docteur Petiot](https://upload.wikimedia.org/wikipedia/commons/0/05/Docteur_Petiot_proc%C3%A8s_1946.jpg)
 
 ###### Questions

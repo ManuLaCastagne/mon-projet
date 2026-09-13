@@ -20,8 +20,9 @@ indice_6 :
   - retraite en 2017
 questions:
  - Servant dès 1939 dans la Royal Navy, je participe à la guerre après avoir rencontré à 18 ans ma future femme, la fille de George VI, que j'épouse en 1947.
+culture_g_score: 64
+culture_g_justification: "Époux d’Élisabeth II et figure durable de la monarchie britannique, mais aux angles historiques plus limités."
 ---
-
 ![Image de Prince Philip](https://upload.wikimedia.org/wikipedia/commons/e/e2/Duke_of_Edinburgh_33_Allan_Warren.jpg)
 
 ###### Questions

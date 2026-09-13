@@ -22,8 +22,9 @@ indice_6 :
   - Texas
 questions:
  - En 2020, quelle comédienne américaine a reçu l'oscar de la meilleure actrice pour le film "Judy" ?
+culture_g_score: 76
+culture_g_justification: "Actrice populaire identifiable par Bridget Jones, Chicago et ses Oscars, offrant plusieurs repères de cinéma américain contemporain."
 ---
-
 ![Image de Renée Zellweger](https://upload.wikimedia.org/wikipedia/commons/4/4b/Ren%C3%A9e_Zellweger_Berlinale_2010_%28cropped%29.jpg)
 
 ###### Questions

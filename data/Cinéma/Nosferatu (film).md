@@ -22,8 +22,9 @@ indice_6 :
   - film muet
 questions:
  - Quel film muet, réalisé en 1922 par Friedrich Wilhelm Murnau...
+culture_g_score: 84
+culture_g_justification: "Classique fondateur de l’horreur et de l’expressionnisme, lié à Murnau, Dracula et au comte Orlok, il offre de nombreux repères de quiz."
 ---
-
 ![Image de Nosferatu (film)](https://upload.wikimedia.org/wikipedia/commons/e/e1/Nosferatu_title.jpg)
 
 ###### Questions

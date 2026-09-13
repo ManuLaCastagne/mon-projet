@@ -17,9 +17,9 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6:
+culture_g_score: 40
+culture_g_justification: "Capitale d'un petit État du Pacifique, principalement utile pour une question de capitales ou de géographie océanienne."
 ---
-
-
 ![Image de Suva](https://upload.wikimedia.org/wikipedia/commons/8/85/Suva%2C_Fiji_52.jpg)
 
 ![[Carte_Suva.png]]

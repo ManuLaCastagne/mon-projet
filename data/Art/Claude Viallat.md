@@ -23,8 +23,9 @@ indice_6 :
   - exploration des matériaux
 questions:
  - Quel peintre, né à Nîmes en 1936, procède par variations de couleurs et de techniques à partir d'un motif en forme d'osselet, répété sur différents supports?
+culture_g_score: 27
+culture_g_justification: "Figure importante de Supports/Surfaces, mais trop spécialisée pour constituer une priorité d'apprentissage généraliste."
 ---
-
 ![Image de Claude Viallat](https://upload.wikimedia.org/wikipedia/commons/8/8a/Vitraux_aigues_mortes.jpg)
 
 ###### Questions

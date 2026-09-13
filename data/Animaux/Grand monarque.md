@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la migration
 questions:
  - Quel papillon aux ailes orangées  parcourues de nervures noires se repère grâce au soleil quand il migre du Canada vers le Mexique ?
+culture_g_score: 60
+culture_g_justification: "Le grand monarque est un papillon classique grâce à sa migration spectaculaire, mais ses angles restent principalement naturalistes."
 ---
-
 ![Image de Grand monarque](https://upload.wikimedia.org/wikipedia/commons/2/28/Narcissus_Grand_Monarque_0zz.jpg)
 
 ###### Questions

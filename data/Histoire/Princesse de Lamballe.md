@@ -20,8 +20,9 @@ indice_6 :
   - Décapitée pendant la Révolution française
 questions:
  - Quelle princesse, amie de Marie-Antoinette, gagna l'Angleterre en 1791 avant de revenir en France et de périr tragiquement en septembre 1792 ?
+culture_g_score: 40
+culture_g_justification: "Proche de Marie-Antoinette principalement connue pour sa mort lors des massacres de Septembre, ce qui limite ses usages."
 ---
-
 ![Image de Princesse de Lamballe](https://upload.wikimedia.org/wikipedia/commons/0/02/Madame_la_princesse_de_Lamballe_by_Antoine-Fran%C3%A7ois_Callet_%28circa_1776%2C_Callet%29.jpg)
 
 ###### Questions

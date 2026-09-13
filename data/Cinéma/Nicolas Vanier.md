@@ -23,8 +23,9 @@ indice_6 :
   - adaptation de romans
 questions:
  - A quel aventurier, écrivain et réalisateur, portant un nom de métier lié à la fabrication d'objets tressés...
+culture_g_score: 48
+culture_g_justification: "Réalisateur-aventurier français reconnaissable par ses films animaliers et ses expéditions, mais d’importance et de fréquence limitées."
 ---
-
 ![Image de Nicolas Vanier](https://upload.wikimedia.org/wikipedia/commons/f/fd/Nicolas_Vanier_-_052.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - créateur de L'Enragé
 questions:
  - De Jean-Christophe Averty, puis "Merci Bernard" de Jean-Michel Ribes, je me suis mis en scène dans mes fameuses "Fiches bricolage". Créateur avec Cavanna du journal satirique "Hara-Kiri", père de l'humoriste Michèle Bernier…
+culture_g_score: 68
+culture_g_justification: "Figure importante de la presse satirique française, liée à Hara-Kiri, Charlie Hebdo, Téléchat et l’humour provocateur."
 ---
-
 ![Image de Professeur Choron](https://upload.wikimedia.org/wikipedia/commons/8/81/Le_Professeur_Choron_%281996%29.jpg)
 
 ###### Questions

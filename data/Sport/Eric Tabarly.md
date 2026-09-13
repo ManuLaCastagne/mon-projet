@@ -20,9 +20,9 @@ indice_6 :
   - Océanographe
 questions:
  - En 1980, en voile, quel navigateur français établit un nouveau record…
+culture_g_score: 80
+culture_g_justification: "Pionnier français de la voile, Tabarly revient régulièrement dans les questions sur les records, les transatlantiques et la navigation."
 ---
-
-
 ![Image de Eric Tabarly](https://upload.wikimedia.org/wikipedia/commons/d/da/Eric_Tabarly_en_1975.jpg)
 
 ###### Questions

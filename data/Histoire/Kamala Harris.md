@@ -20,8 +20,9 @@ indice_6 :
   - Joe Biden
 questions:
  - Elue procureure du district de San Francisco en 2003, je deviens sénatrice démocrate en 2017. Femme politique aux origines indiennes et jamaïcaines, colistière de Joe Biden pour l'élection présidentielle de 2020…
+culture_g_score: 80
+culture_g_justification: "Kamala Harris est une figure politique contemporaine très connue, régulièrement associée à la vice-présidence américaine, à Biden et aux enjeux de représentation."
 ---
-
 ![Image de Kamala Harris](https://upload.wikimedia.org/wikipedia/commons/d/d6/Kamala_Harris_official_photo.jpg)
 
 ###### Questions

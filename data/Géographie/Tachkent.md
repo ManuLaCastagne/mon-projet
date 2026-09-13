@@ -20,8 +20,9 @@ indice_5 :
   - aéroport international Tashkent
 indice_6 : 
   - grand centre économique et culturel
+culture_g_score: 60
+culture_g_justification: "Capitale d'Asie centrale classique, associée à la route de la soie, à l'Union soviétique et à la géographie de l'Ouzbékistan."
 ---
-
 ![Image de Tachkent](https://upload.wikimedia.org/wikipedia/commons/3/33/Tashkent_skyline_2019.jpg)
 
 ![[Carte_Tachkent.png]]

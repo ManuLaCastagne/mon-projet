@@ -22,18 +22,15 @@ indice_6 :
   - 980-1037
 questions:
  - A quel médecin et philosophe iranien du Moyen Age doit-on le "Canon de la médecine" ?
+culture_g_score: 84
+culture_g_justification: "Figure fondamentale de la philosophie et de la médecine médiévales, dont le Canon ouvre de nombreux liens historiques et scientifiques."
 ---
 
 ![Image de Avicenne](https://upload.wikimedia.org/wikipedia/commons/4/43/Avicenne-Livre_II_du_Canon-%C3%A9dition_1609.jpg)
 
 ###### Questions
 
-Dans quel ouvrage d'[[Avicenne]] trouve-t-on une description métaphorique de l'âme qui a influencé la littérature mystique du [[Moyen Âge]] ?
-
-Quelle œuvre poétique rédigée par [[Avicenne]] en 1023 est considérée comme l'un des premiers exemples de la littérature philosophique persane ?
-
-Quel texte d'[[Avicenne]], écrit au début du [[11e siècle]], a eu une influence durable sur la littérature médicale européenne grâce à ses idées innovantes ?
-
+Qui a rédigé une œuvre poétique en 1023 qui est considérée comme l'un des premiers exemples de la littérature philosophique persane ? <!-- score: 5 -->
 ###### Description
 
 [[Avicenne]], né en 980 à [[Boukhara]], est un philosophe et médecin persan dont les travaux ont marqué la médecine médiévale. 

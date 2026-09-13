@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de renaissance et d'immortalité dans l'Égypte antique
 questions:
  - Comment nomme-t-on les petites lames minces et plates, juxtaposés ou imbriqués, qui recouvrent le corps de la plupart des...
+culture_g_score: 68
+culture_g_justification: "Les écailles permettent des questions variées sur les poissons, reptiles, arthropodes, la kératine et les adaptations animales."
 ---
-
 ![Image de Écailles](https://upload.wikimedia.org/wikipedia/commons/b/b2/Grande_%C3%89caille_%40_T%C3%AAte_Sud_des_Fours.jpg)
 
 ###### Questions

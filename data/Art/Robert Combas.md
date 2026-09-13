@@ -23,9 +23,9 @@ indice_6 :
   - art contemporain français
 questions:
  - M'imposant sur le marché de l'art  avec des toiles labyrinthiques inspirées de la BD et du rock, je joue  avec la figure de Mickey.  Représentant de la figuration libre, je suis…
+culture_g_score: 43
+culture_g_justification: "Robert Combas est important pour la Figuration Libre, mais reste une figure contemporaine relativement spécialisée du paysage artistique français."
 ---
-
-
 ![Image de Robert Combas](https://upload.wikimedia.org/wikipedia/commons/7/79/L%27artiste_Combas_avec_Jean-Pierre_Lorriaux_devant_la_Galerie_Laurent_Strouk_-_IMGP9851.JPG)
 
 ###### Questions

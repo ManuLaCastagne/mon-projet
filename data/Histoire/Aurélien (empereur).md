@@ -20,9 +20,9 @@ indice_6 :
   - titre de Restitutor Orbis
 questions:
  - Quel empereur du IIIe siècle fit construire des murs autour de Rome ?
+culture_g_score: 48
+culture_g_justification: "Empereur ayant restauré l’unité romaine et fait construire le mur d’Aurélien, il reste une connaissance spécialisée de l’Empire romain."
 ---
-
-
 ![Image de Aurélien (empereur)](https://upload.wikimedia.org/wikipedia/commons/5/58/Aurelian_frontispiece.jpg)
 
 ###### Questions

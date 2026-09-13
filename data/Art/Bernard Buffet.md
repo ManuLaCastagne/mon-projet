@@ -23,8 +23,9 @@ indice_6 :
   - grand succès dans les années 1950
 questions:
  - A quel peintre doit-on "Le cirque" ?
+culture_g_score: 60
+culture_g_justification: "Peintre français très populaire au XXe siècle, notamment pour ses clowns, mais de portée historique et transversale modérée."
 ---
-
 ![Image de Bernard Buffet](https://upload.wikimedia.org/wikipedia/commons/8/8b/023-_Bernard_Buffet_dans_son_atelier_du_Domaine_de_la_Baume_%C3%A0_Tourtour_pour_l%27exposition_20_000_lieux_sous_les_mers_1989-_%C2%A9photo_Danielle_Buffet.tif)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - co-président de l'UDI
 questions:
  - En 1987, quel maire d'Issy-les-Moulineaux connu pour ses bons mots est nommé ministre délégué ?
+culture_g_score: 32
+culture_g_justification: "Élu local et ancien ministre surtout connu pour Issy-les-Moulineaux, André Santini a une rentabilité limitée en culture générale nationale."
 ---
-
-
-
 ![Image de André Santini](https://upload.wikimedia.org/wikipedia/commons/b/ba/A._Santini.jpg)
 
 ###### Questions

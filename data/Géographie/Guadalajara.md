@@ -23,9 +23,9 @@ indice_6 :
   - Hospicio Cabañas
 questions:
  - En 1986, dans quelle ville mexicaine la France élimine-t-elle le Brésil de la Coupe du monde de football à l'issue des tirs au but?
+culture_g_score: 47
+culture_g_justification: "Grande ville mexicaine identifiable par Jalisco, le mariachi et le patrimoine local, mais moins prioritaire que les principales capitales et métropoles mondiales."
 ---
-
-
 ![[Carte_Guadalajara.png]]
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - code d'Hammurabi
 questions:
  - Dans quelle région de l'Orient ancien, établie entre 2 fleuves, a-t-on utilisé des sceaux en forme de cylindre...
+culture_g_score: 100
+culture_g_justification: "Région fondatrice des premières villes, de l’écriture et de grands États antiques, très fréquemment mobilisée sous des angles variés."
 ---
-
-
-
 ![Image de Mésopotamie](https://upload.wikimedia.org/wikipedia/commons/f/f8/N-Mesopotamia_and_Syria_%28Indonesian_version%29.svg)
 
 ###### Questions

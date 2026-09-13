@@ -18,8 +18,9 @@ indice_5:
   - Navigation maritime
 indice_6:
   - Conformité des angles
+culture_g_score: 80
+culture_g_justification: "Mercator est un classique des questions de cartographie, de géographie, de navigation et de Renaissance."
 ---
-
 ![Image de Gérard Mercator](https://upload.wikimedia.org/wikipedia/commons/f/f7/Mercator.jpg)
 
 ###### Questions

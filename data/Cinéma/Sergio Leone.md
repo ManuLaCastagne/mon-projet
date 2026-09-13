@@ -21,9 +21,9 @@ indice_6:
   - Il était une fois dans l'Ouest
 questions:
   - comme assistant réalisateur sur des films américains tournés à Cinecittà... Avant de réaliser, à la place de Mario Bonnard, "Les Derniers Jours de Pompéi". Auteur par la suite de westerns à la violence stylisée, j'ai notamment permis à Clint Eastwood de se faire connaître auprès du grand public. Maître du western spaghetti, on me doit en 1969 "Il était une fois dans l'Ouest"...
+culture_g_score: 80
+culture_g_justification: "Réalisateur central du western spaghetti, relié à Leone, Eastwood, Morricone et à plusieurs films durablement cultes."
 ---
-
-
 ![Image de Sergio Leone](https://upload.wikimedia.org/wikipedia/commons/5/55/Sergio_Leone.jpg)
 
 ###### Questions

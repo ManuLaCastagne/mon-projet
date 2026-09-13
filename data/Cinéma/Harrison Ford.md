@@ -19,8 +19,9 @@ indice_5:
   - Star Wars
 indice_6:
   - acteur américain
+culture_g_score: 100
+culture_g_justification: "Acteur incontournable grâce à Han Solo et Indiana Jones, avec une carrière offrant un très grand nombre de questions indépendantes."
 ---
-
 ![Image de Harrison Ford](https://upload.wikimedia.org/wikipedia/commons/2/28/Harrison_Ford_at_the_2009_Deauville_American_Film_Festival%2C_cropped.jpg)
 
 ###### Questions

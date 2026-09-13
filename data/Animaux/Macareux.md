@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de l'Île de Skellig Michael
 questions:
  - Quel oiseau pélagique, qui doit aux couleurs vives de son bec d'être surnommé clown de mer...
+culture_g_score: 64
+culture_g_justification: "Oiseau marin très reconnaissable et associé à l’Atlantique Nord, pouvant inspirer des questions de zoologie et de géographie."
 ---
-
 ![Image de Macareux](https://upload.wikimedia.org/wikipedia/commons/7/77/Papageitaucher_Fratercula_arctica_02.jpg)
 
 ###### Questions

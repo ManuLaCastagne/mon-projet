@@ -20,8 +20,9 @@ indice_5:
   - Le Sens de la vie
 indice_6:
   - acteur et réalisateur américain naturalisé britannique
+culture_g_score: 80
+culture_g_justification: "Figure très identifiable grâce aux Monty Python et à plusieurs films cultes comme Brazil et L'Armée des douze singes."
 ---
-
 ![Image de Terry Gilliam](https://upload.wikimedia.org/wikipedia/commons/7/72/Terry_Gilliam_%2832703418337%29_CROPPED.jpg)
 
 ###### Questions

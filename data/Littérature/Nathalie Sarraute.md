@@ -22,8 +22,9 @@ indice_6 :
   - Suspicion
 questions:
  - A quelle femme de lettres, née en Russie le 18 juillet 1900, doit-on "Enfance" et "Tropisme"?
+culture_g_score: 64
+culture_g_justification: "Figure majeure du Nouveau Roman, utile pour les mouvements littéraires et ses œuvres, mais moins connue du grand public."
 ---
-
 ![Image de Nathalie Sarraute](https://upload.wikimedia.org/wikipedia/commons/5/5a/Nathalie_Sarraute_%28cropped%29.jpg)
 
 ###### Questions

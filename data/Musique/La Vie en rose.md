@@ -22,8 +22,9 @@ indice_6 :
   - célèbre dans le monde entier
 questions:
  - Dans quelle chanson d'E.Piaf, reprise par Grace Jones, entend-on...
+culture_g_score: 100
+culture_g_justification: "Chanson universellement célèbre, au croisement de Piaf, de la chanson française, des reprises internationales et de l’identité culturelle française."
 ---
-
 ![Image de La Vie en rose](https://upload.wikimedia.org/wikipedia/commons/1/18/Rosa_%27La_Vie_en_Rose%27_at_Ishida_Rose_Garden_in_Odate%2C_Akita%2C_Japan%27.jpg)
 
 ###### Questions

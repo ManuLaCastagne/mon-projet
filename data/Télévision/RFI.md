@@ -20,8 +20,9 @@ indice_6 :
   - journaliste en direct
 questions:
  - Radio, créée en 1975, pour offrir des programmes quotidiens aux pays francophones…
+culture_g_score: 80
+culture_g_justification: "Média international majeur de la francophonie, relié à la radio, à France Médias Monde, aux langues et à l’actualité mondiale."
 ---
-
 ![Image de RFI](https://upload.wikimedia.org/wikipedia/commons/a/ab/APV_Rfi_9R2.jpg)
 
 ###### Questions

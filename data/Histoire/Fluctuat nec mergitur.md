@@ -20,8 +20,9 @@ indice_6 :
   - tempête
 questions:
  - Quelle devise latine, conçue au XVIe siècle par la compagnie des marchands de l'eau de Paris, devint officiellement celle de la ville en 1853 ?
+culture_g_score: 73
+culture_g_justification: "Devise emblématique de Paris, utile dans les questions sur la capitale, l’héraldique, la langue latine et les attentats."
 ---
-
 ![Image de Fluctuat nec mergitur](https://upload.wikimedia.org/wikipedia/commons/d/dd/Fluctuat_Nec_Mergitur_%28bis%29.jpg)
 
 ###### Questions

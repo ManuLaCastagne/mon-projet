@@ -23,8 +23,9 @@ indice_6 :
   - situé dans le Péloponnèse
 questions:
  - Le fleuve qui a donné son nom à cette chanson de S.Reggiani dans laquelle il évoque notamment sa source située au mont Gerbier-de-Jonc, ça rappelle des souvenirs d'école. En Grèce, quel théâtre a été construit en hémicycle autour d'une scène circulaire près d'un sanctuaire dédié à Asclépios au IVe siècle avant notre ère ?
+culture_g_score: 77
+culture_g_justification: "Théâtre antique grec classique des quiz, associé à l’acoustique, à l’architecture, à Asclépios et au patrimoine de la Grèce."
 ---
-
 ![Image de Théâtre d'Epidaure](https://upload.wikimedia.org/wikipedia/commons/3/30/Th%C3%A9%C3%A2tre_d%27Epidaure_Gr%C3%A8ce.jpg)
 
 ###### Questions

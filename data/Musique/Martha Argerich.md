@@ -22,8 +22,9 @@ indice_6 :
   - maîtrise du répertoire romantique
 questions:
  - Quelle femme pianiste, née à Buenos Aires en 1941, devient célèbre avec l'enregistrement du 3e concerto de Prokofiev avec Claudio Abbado?
+culture_g_score: 64
+culture_g_justification: "Grande pianiste classique, fréquemment citée dans les questions musicales spécialisées, avec des liens utiles vers Chopin et le piano moderne."
 ---
-
 ![Image de Martha Argerich](https://upload.wikimedia.org/wikipedia/commons/5/5b/Martha_Argerich_NYWTS.jpg)
 
 ###### Questions

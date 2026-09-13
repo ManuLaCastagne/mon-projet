@@ -22,8 +22,9 @@ indice_6 :
   - Quai de Seine
 questions:
  - En 2021, quel chanteur interprète le titre "Bateaux-Mouches", inspiré d'un travail qu'il a fait...
+culture_g_score: 44
+culture_g_justification: "Artiste contemporain identifiable par «The Cure» et son mélange de rap et de chanson, mais encore peu installé dans les quiz classiques."
 ---
-
 ![Image de Eddy de Pretto](https://upload.wikimedia.org/wikipedia/commons/e/ef/Eddy_de_Pretto_en_concert_au_Botanique_%C3%A0_Bruxelles_le_5_mai_2018_-_39.jpg)
 
 ###### Questions

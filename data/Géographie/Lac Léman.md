@@ -22,8 +22,9 @@ indice_5 :
   - Yvoire
 indice_6 : 
   - Vevey
+culture_g_score: 72
+culture_g_justification: "Grand lac franco-suisse lié à Genève, Lausanne, aux Alpes, à la navigation et à la culture, le Léman permet plusieurs types de questions."
 ---
-
 ![[Carte_Lac Léman.png]]
 
 ###### Questions

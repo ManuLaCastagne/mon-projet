@@ -22,9 +22,9 @@ indice_6 :
   - 1997
 questions:
  - Personnage féminin d'un film sorti en 1997, dont l'action se déroule au 23e siècle. Je parle une langue inventée par le réalisateur. Héroïne dotée d'étonnantes facultés seules capables de sauver le monde du mal.
+culture_g_score: 73
+culture_g_justification: "Personnage emblématique du Cinquième Élément, rentable pour Luc Besson, Milla Jovovich et la science-fiction française, mais limité à une œuvre."
 ---
-
-
 ![Image de Leeloo](https://upload.wikimedia.org/wikipedia/commons/d/df/Stone_of_the_Fifth_Element.jpg)
 
 ###### Questions

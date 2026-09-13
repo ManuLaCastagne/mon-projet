@@ -20,9 +20,9 @@ indice_6 :
   - Moyen Âge européen
 questions:
  - J'étais lié par une déclaration faite agenouillée, tête nue et sans armes...
+culture_g_score: 80
+culture_g_justification: "Notion structurante du système féodal, fréquemment utilisée pour interroger les liens de dépendance, l’hommage et la société médiévale."
 ---
-
-
 ![Image de Vassal](https://upload.wikimedia.org/wikipedia/commons/1/1f/Lacaton_Vassal_Lecture_at_Columbia_GSAPP_cropped.png)
 
 ###### Questions

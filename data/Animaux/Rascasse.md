@@ -15,8 +15,9 @@ indice_6 :
   - Animal vénéneux marin
 questions:
  - Quel poisson à tête épineuse et à écailles rouges, est également appelé crapaud de mer ou scorpion de mer?
+culture_g_score: 44
+culture_g_justification: "Poisson méditerranéen associé à la pêche et à la cuisine, avec une portée quiz relativement limitée."
 ---
-
 ![Image de Rascasse](https://upload.wikimedia.org/wikipedia/commons/7/7f/Scorpaena_scrofa_02.JPG)
 
 ###### Questions

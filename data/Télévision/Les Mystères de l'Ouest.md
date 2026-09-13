@@ -20,8 +20,9 @@ indice_6 :
   - Technologie rétro-futuriste
 questions:
  - Avec James West et Artemuse Gordon. Je mets en scène des personnages étonnants comme le nain Miguelito Loveless.  Série dont les héros sont les agents secrets A.Gordon et J.West, je suis…
+culture_g_score: 64
+culture_g_justification: "Classique américain mêlant western et espionnage, régulièrement mobilisé dans les quiz sur les séries et leurs acteurs."
 ---
-
 ![Image de Les Mystères de l'Ouest](https://upload.wikimedia.org/wikipedia/commons/4/4c/Les_myst%C3%A8res_de_l%27ouest_-exploreyukon_-explorecanada_%2814434034609%29.jpg)
 
 ###### Questions

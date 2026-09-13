@@ -20,9 +20,9 @@ indice_5 :
   - rébellion contre l'Angleterre
 indice_6 : 
   - bataille de Stirling Bridge
+culture_g_score: 76
+culture_g_justification: "Succès historique et oscarisé souvent questionné via William Wallace, Mel Gibson, l’Écosse et sa bande originale, malgré ses libertés historiques."
 ---
-
-
 ![Image de Braveheart](https://upload.wikimedia.org/wikipedia/commons/e/e2/Mel_Gibson_on_the_set_of_Braveheart%2C_1995.jpg)
 
 ###### Questions

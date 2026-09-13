@@ -24,8 +24,9 @@ indice_6 :
   - festival international de vitrail
 questions:
  - Dans quelle ville du département d'Eure-et-Loire peut-on visiter la maison Picassiette ?
+culture_g_score: 80
+culture_g_justification: "Ville patrimoniale majeure grâce à sa cathédrale gothique, au pèlerinage marial et à l’histoire religieuse médiévale."
 ---
-
 ![Image de Chartres](https://upload.wikimedia.org/wikipedia/commons/b/b8/Chartres_RosetteNord_121_DSC08241.jpg)
 
 ![[Carte_Chartres.png]]

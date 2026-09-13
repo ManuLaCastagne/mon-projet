@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Dans quel livre de Paul Féval, le chevalier de Lagardère prononce-t-il "Et si tu ne viens pas à Lagardère, Lagardère ira à toi" ?
  - Pour héros un chevalier qui prend l'apparence d'un infirme, le Bossu, pour mieux démasquer le traître Gonzague qui convoite, pas très sympa, la fortune de la jeune Aurore de Nevers. Roman de cape et d'épée de Paul Féval dont Lagardère est le héros, je suis...
+culture_g_score: 68
+culture_g_justification: "Grand roman d’aventures français associé à Lagardère, au roman-feuilleton, aux adaptations et à une réplique célèbre."
 ---
-
 ![Image de Le Bossu](https://upload.wikimedia.org/wikipedia/commons/a/a0/F%C3%A9val_-_Le_Bossu_%281857%29_vol_1-3.djvu)
 
 ###### Questions

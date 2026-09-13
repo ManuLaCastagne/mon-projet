@@ -18,9 +18,9 @@ indice_5:
   - Espagne
 indice_6:
   - NKVD
+culture_g_score: 60
+culture_g_justification: "Assassin de Trotski identifié par un épisode spectaculaire de la guerre froide, mais personnage historiquement assez spécialisé."
 ---
-
-
 ![Image de Ramon Mercader](https://upload.wikimedia.org/wikipedia/commons/7/79/Ramon_mercader_grave.jpeg)
 
 ###### Questions

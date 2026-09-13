@@ -22,9 +22,9 @@ indice_6 :
   - exil en Louisiane
 questions:
  - En 1731, de quelle héroïne le chevalier des Grieux s'éprend-il dans le roman éponyme de l'Abbé Prévost ?
+culture_g_score: 80
+culture_g_justification: "Grand classique du XVIIIe siècle, associé à l’abbé Prévost, à l’opéra, au mythe amoureux et au roman préromantique."
 ---
-
-
 
 ![Image de Manon Lescaut](https://upload.wikimedia.org/wikipedia/commons/6/61/Manon_Lescaut_Prevost_1753_page1.png)
 
@@ -34,7 +34,7 @@ Quel roman du XVIIIe siècle, publié en 1731 par l'[[abbé Prévost]], raconte 
 
 Dans quel roman l'héroïne rencontre-t-elle son destin lors de sa déportation en [[Louisiane]], événement marquant qui illustre les thèmes de passion et fatalité abordés par l'[[abbé Prévost]] ? <!-- score: 3 -->
 
-Quel personnage, objet d'une opéra en 1893 par le compositeur [[Giacomo Puccini]], est tiré d'un roman français illustrant la déchéance et l'amour impossible ?
+Quel personnage, objet d'une opéra en 1893 par le compositeur [[Giacomo Puccini]], est tiré d'un roman français illustrant la déchéance et l'amour impossible ? <!-- score: 4 -->
 
 ###### Description
 

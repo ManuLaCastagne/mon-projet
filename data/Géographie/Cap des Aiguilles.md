@@ -25,8 +25,9 @@ indice_6 :
   - Latitude 34°49′S
 questions:
  - Quel cap, le plus méridional d'Afrique, sépare l'Atlantique de l'Indien ?
+culture_g_score: 56
+culture_g_justification: "Repère géographique classique de l’Afrique australe, principalement interrogé sur sa position et la rencontre des océans."
 ---
-
 ![Image de Cap des Aiguilles](https://upload.wikimedia.org/wikipedia/commons/6/60/Southernmost_tip_of_Africa.JPG)
 
 ![[Carte_Cap des Aiguilles.png]]

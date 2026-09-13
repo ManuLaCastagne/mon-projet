@@ -22,8 +22,9 @@ indice_6 :
   - Francis Veber
 questions:
  - Mettant en scène le personnage de Pignon, je raconte comment un tueur à gages est dérangé dans sa mission par un représentant suicidaire. Réunissant J.Brel et L.Ventura, je vous laisse deviner qui jouait le représentant suicidaire, je suis
+culture_g_score: 72
+culture_g_justification: "Comédie française très identifiable par le duo Ventura-Brel, Molinaro et son remake, ce qui la rend rentable dans les quiz francophones."
 ---
-
 ![Image de L'Emmerdeur](https://upload.wikimedia.org/wikipedia/commons/3/36/LL-Q1860_%28eng%29-Flame%2C_not_lame-pain_in_one%27s_ass.wav)
 
 ###### Questions

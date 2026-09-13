@@ -20,8 +20,9 @@ indice_5 :
   - sorcière dans Stardust
 indice_6 : 
   - Le Mystère de l'Étoile
+culture_g_score: 64
+culture_g_justification: "Actrice américaine très connue grâce à Scarface, Batman Returns et plusieurs nominations aux Oscars, sans être une référence absolument incontournable."
 ---
-
 ![Image de Michelle Pfeiffer](https://upload.wikimedia.org/wikipedia/commons/7/70/Michelle_Pfeiffer_2007.jpg)
 
 ###### Questions

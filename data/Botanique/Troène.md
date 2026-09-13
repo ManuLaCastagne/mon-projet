@@ -13,8 +13,9 @@ indice_5:
   - Aussi appelé Ligustrum
 indice_6:
   - Utilisé pour faire des haies
+culture_g_score: 44
+culture_g_justification: "Arbuste courant des haies, identifiable par ses baies noires, mais offrant peu d’angles de questions."
 ---
-
 ![Image de Troène](https://upload.wikimedia.org/wikipedia/commons/9/9c/%E1%83%99%E1%83%95%E1%83%98%E1%83%93%E1%83%9D_Ligustrum_vulgare_Common_Privet_%282%29.JPG)
 
 ###### Questions

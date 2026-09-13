@@ -13,8 +13,9 @@ indice_5:
   - Pou de plante
 indice_6:
   - Infestation des cultures agricoles
+culture_g_score: 65
+culture_g_justification: "Ravageur très courant, utile pour des questions sur les plantes, les chaînes écologiques, les fourmis et la parthénogenèse."
 ---
-
 ![Image de Puceron](https://upload.wikimedia.org/wikipedia/commons/8/88/Lasius_niger_y_Cinara_tujafilina_en_Thuja_orientalis.jpg)
 
 ###### Questions

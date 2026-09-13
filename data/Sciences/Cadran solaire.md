@@ -20,10 +20,9 @@ indice_6 :
   - Heure solaire
 questions:
  - Instrument ayant donné mon nom  à une Commission de la Société Astronomique de France créée en 1972, je peux être horizontal ou vertical. Pouvant également avoir une fonction décorative, je suis présent dans les jardins,  sur les façades des églises ou des maisons et porte des divisions...
+culture_g_score: 72
+culture_g_justification: "Le cadran solaire relie histoire des sciences, mesure du temps, astronomie et navigation, avec une fréquence classique mais non omniprésente."
 ---
-
-
-
 ![Image de Cadran solaire](https://upload.wikimedia.org/wikipedia/commons/3/3c/Cadran_solaire_%28Herrlisheim-pr%C3%A8s-Colmar%29.jpg)
 
 ###### Questions

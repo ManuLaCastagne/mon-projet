@@ -19,8 +19,9 @@ indice_6 :
   - Gardien des troupeaux marins
 questions:
  - Dans la [[mythologie grecque]], quel dieu marin reçut le don de changer de forme à volonté et de prédire l'avenir?
+culture_g_score: 40
+culture_g_justification: "Divinité marine connue pour ses métamorphoses et ses prophéties, Protée fournit quelques questions classiques mais demeure assez spécialisé."
 ---
-
 ![Image de Protée](https://upload.wikimedia.org/wikipedia/commons/7/77/Plaque_m%C3%A9moire_France_Libre_-_sous-marin_Prot%C3%A9e_%281943%29_%C3%A0_Cassis.jpg)
 
 ###### Questions

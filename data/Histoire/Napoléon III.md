@@ -18,8 +18,9 @@ indice_5 :
   - modernisation de Paris
 indice_6 : 
   - Guerre franco-prussienne
+culture_g_score: 80
+culture_g_justification: "Empereur du Second Empire associé à Sedan, à Haussmann, à la modernisation économique et à la politique française du XIXe siècle."
 ---
-
 ![Image de Napoléon III](https://upload.wikimedia.org/wikipedia/commons/c/c0/Napoleon_III_by_Mayer_%26_Pierson_c1860_%28cropped%29.png)
 
 ###### Questions

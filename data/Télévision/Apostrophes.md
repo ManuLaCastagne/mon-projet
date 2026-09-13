@@ -20,8 +20,9 @@ indice_6 :
   - débats littéraires
 questions:
  - En 1978, dans quelle émission, diffusée en direct, Charles Bukowski quitte-t-il le plateau dans un état d'ébriété avancé ?
+culture_g_score: 97
+culture_g_justification: "Émission littéraire française incontournable, fréquemment citée à travers Bernard Pivot, ses écrivains invités et son rôle culturel."
 ---
-
 ![Image de Apostrophes](https://upload.wikimedia.org/wikipedia/commons/9/9d/Apostrophe.svg)
 
 ###### Questions

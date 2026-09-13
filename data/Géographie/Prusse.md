@@ -18,8 +18,9 @@ indice_5:
   - Baltique
 indice_6:
   - Hohenzollern
+culture_g_score: 84
+culture_g_justification: "Entité historique centrale dans la formation de l’Allemagne, fréquemment liée à Bismarck, au militarisme et aux guerres européennes."
 ---
-
 ![[Carte_Prusse.png]]
 
 ###### Questions

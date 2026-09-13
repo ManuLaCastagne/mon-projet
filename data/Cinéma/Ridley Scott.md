@@ -20,9 +20,9 @@ indice_5 :
   - réalisateur britannique
 indice_6 : 
   - science-fiction et épopées historiques
+culture_g_score: 100
+culture_g_justification: "Réalisateur incontournable lié à Alien, Blade Runner, Gladiator et à de nombreux genres, ce qui en fait un sujet exceptionnellement rentable."
 ---
-
-
 ![Image de Ridley Scott](https://upload.wikimedia.org/wikipedia/commons/5/5c/Ridley_Scott_by_Gage_Skidmore.jpg)
 
 ###### Questions

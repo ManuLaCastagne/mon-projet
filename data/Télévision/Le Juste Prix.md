@@ -20,9 +20,9 @@ indice_6 :
   - animateur télévisé
 questions:
  - de Poing et le Tyrolien. Tourné dans un décor comportant des vitrines et une grande roue que les candidats faisaient tourner...
+culture_g_score: 73
+culture_g_justification: "Jeu télévisé très connu, régulièrement interrogé par son concept, ses animateurs, TF1 et son adaptation de The Price Is Right."
 ---
-
-
 ![Image de Le Juste Prix](https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_TF1%2B.svg)
 
 ###### Questions

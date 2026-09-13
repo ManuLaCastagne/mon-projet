@@ -21,8 +21,9 @@ indice_6:
   - Cry-Baby
 questions:
   - Dans les 4 premières saisons de la série "21 Jump Street", quel acteur américain incarne l'officier Tom Hanson?
+culture_g_score: 88
+culture_g_justification: "Johnny Depp, ses rôles chez Tim Burton et le personnage de Jack Sparrow en font une réponse très fréquente des quiz de cinéma populaire."
 ---
-
 ![Image de Johnny Depp](https://upload.wikimedia.org/wikipedia/commons/b/b1/Johnny_Depp-2821.jpg)
 
 ###### Questions

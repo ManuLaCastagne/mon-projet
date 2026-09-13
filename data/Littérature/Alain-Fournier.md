@@ -22,8 +22,9 @@ indice_6 :
   - roman d'apprentissage
 questions:
  - Dans "Le Grand Meaulnes"…
+culture_g_score: 60
+culture_g_justification: "Alain-Fournier est fortement associé au Grand Meaulnes et à la Première Guerre mondiale, ce qui offre quelques repères classiques."
 ---
-
 ![Image de Alain-Fournier](https://upload.wikimedia.org/wikipedia/commons/d/dd/Alain-Fournier_in_1905.jpg)
 
 ###### Questions

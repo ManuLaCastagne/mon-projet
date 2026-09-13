@@ -22,8 +22,9 @@ indice_6 :
   - Life in Cartoon Motion
 questions:
  - Rencontrant le succès avec mon 1er album "Life in cartoon motion", j'utilise ma voix pouvant monter...
+culture_g_score: 64
+culture_g_justification: "Chanteur pop international associé à « Grace Kelly », à la télévision française et à une carrière identifiable, sans être un incontournable historique."
 ---
-
 ![Image de Mika](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mika_H%C3%A4kkinen_%283016446539%29.jpg)
 
 ###### Questions

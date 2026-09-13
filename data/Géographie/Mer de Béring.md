@@ -24,8 +24,9 @@ indice_6 :
   - climat subarctique
 questions:
  - Quelle mer de l'océan Pacifique communique par le détroit du même nom avec l'océan Arctique?
+culture_g_score: 72
+culture_g_justification: "Mer associée à Béring, au détroit entre Asie et Amérique, aux explorations et aux ressources halieutiques."
 ---
-
 ![Image de Mer de Béring](https://upload.wikimedia.org/wikipedia/commons/b/b6/Mouillages_de_la_mer_de_B%C3%A9ring_-_btv1b53160812p.jpg)
 
 ![[Carte_Mer de Béring.png]]

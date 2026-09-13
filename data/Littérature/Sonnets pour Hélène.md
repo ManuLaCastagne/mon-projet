@@ -22,9 +22,9 @@ indice_6 :
   - Deuxième moitié du XVIe siècle
 questions:
  - Quel ouvrage de Ronsard contient le vers  "Cueillez dès aujourd'hui les roses de la vie"?
+culture_g_score: 60
+culture_g_justification: "Recueil important de Ronsard, intéressant pour la Pléiade et la poésie de la Renaissance mais assez spécialisé."
 ---
-
-
 ![Image de Sonnets pour Hélène](https://upload.wikimedia.org/wikipedia/commons/6/65/Ronsard_-_Sonnets_pour_H%C3%A9l%C3%A8ne_-_1921.djvu)
 
 ###### Questions

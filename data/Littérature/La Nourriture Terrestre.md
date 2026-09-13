@@ -20,8 +20,9 @@ indice_5:
   - hédonisme
 indice_6:
   - Afrique du Nord
+culture_g_score: 60
+culture_g_justification: "Œuvre importante d’André Gide et du symbolisme, mais moins connue du grand public que ses romans les plus célèbres."
 ---
-
 ![Image de La Nourriture Terrestre](https://upload.wikimedia.org/wikipedia/commons/8/8c/Les_sans_pagEs_%C3%A0_la_Gait%C3%A9_Lyrique_16_mars_2019_-_Computer_Grrrls_11.jpg)
 
 ###### Questions

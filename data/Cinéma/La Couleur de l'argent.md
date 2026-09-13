@@ -18,8 +18,9 @@ indice_5 :
   - Suite du Flambeur
 indice_6 : 
   - Oscar du meilleur acteur
+culture_g_score: 64
+culture_g_justification: "Film de Scorsese et Oscar de Paul Newman, utile pour le cinéma américain et le billard, mais moins incontournable que ses grands classiques."
 ---
-
 ![Image de La Couleur de l'argent](https://upload.wikimedia.org/wikipedia/commons/0/08/Vill%C3%A9v%C3%AAque_-_De_la_situation_des_gens_de_couleur_libres_aux_Antilles_francaises%2C_1823.djvu)
 
 ###### Questions

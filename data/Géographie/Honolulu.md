@@ -24,8 +24,9 @@ indice_6 :
   - Pearl Harbor
 questions:
  - Quelle ville, dont le nom signifie la rade calme en polynésien, est la capitale des îles Hawaï ?
+culture_g_score: 80
+culture_g_justification: "Capitale d’Hawaï fréquemment associée à Obama, Pearl Harbor, Waikiki, au Pacifique et à l’histoire américaine."
 ---
-
 ![Image de Honolulu](https://upload.wikimedia.org/wikipedia/commons/5/5f/Honolulu%2C_Hawaii_city.jpg)
 
 ![[Carte_Honolulu.png]]

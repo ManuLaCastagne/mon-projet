@@ -20,8 +20,9 @@ indice_5:
   - littérature révolutionnaire
 indice_6:
   - engagé politiquement
+culture_g_score: 56
+culture_g_justification: "Poète majeur du futurisme russe et de la révolution, important historiquement mais moins fréquent dans les quiz francophones généralistes."
 ---
-
 ![Image de Vladimir Maïakovski](https://upload.wikimedia.org/wikipedia/commons/5/50/Majakovszkij.jpg)
 
 ###### Questions

@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de liberté et de protection des marins
 questions:
  - Quel cétacé pouvant être à bec étroit a la particularité de ne dormir que d'un demi-cerveau à la fois?
+culture_g_score: 84
+culture_g_justification: "Mammifère marin emblématique, le dauphin revient souvent dans les quiz grâce à son intelligence, son écholocation et ses nombreuses représentations culturelles."
 ---
-
-
 ![Image de Dauphin](https://upload.wikimedia.org/wikipedia/commons/3/3d/2009-0520--Watson_Arts_Centre-Dauphin.jpg)
 
 ###### Questions

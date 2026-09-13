@@ -22,8 +22,9 @@ indice_6 :
   - rock alternatif
 questions:
  - En 1973, quel artiste américain évoque James Dean dans sa chanson "Walk on the wild side"?
+culture_g_score: 80
+culture_g_justification: "Figure centrale du rock, exploitable par Velvet Underground, Andy Warhol, ses albums et ses chansons, avec une forte récurrence dans les quiz musicaux."
 ---
-
 ![Image de Lou Reed](https://upload.wikimedia.org/wikipedia/commons/3/3d/Lou_Reed_at_the_Hop_Farm_Music_Festival.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2jHHz6VZ3wyVpAEDxMEX2q" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

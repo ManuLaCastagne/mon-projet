@@ -24,8 +24,9 @@ indice_6 :
   - carnaval coloré
 questions:
  - Sur le bord de mer appelé Malecon. Voisine des communes de Saint-Joseph et du Lamentin, j'abrite le fort Saint-Louis et la bibliothèque Schoelcher. Chef-lieu de la Martinique, anciennement appelé...
+culture_g_score: 60
+culture_g_justification: "Capitale ultramarine classique, utile pour la géographie française, l’histoire coloniale et quelques références culturelles martiniquaises."
 ---
-
 ![Image de Fort-de-France](https://upload.wikimedia.org/wikipedia/commons/3/35/Multilingual_sign_on_a_dock_in_Fort-de-France.jpg)
 
 ![[Carte_Fort-de-France.png]]

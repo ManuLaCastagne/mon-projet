@@ -16,8 +16,9 @@ indice_5:
   - sœur de Cronos
 indice_6:
   - mythe grec
+culture_g_score: 44
+culture_g_justification: "Thétys est une Titanide utile pour distinguer plusieurs figures homonymes, mais elle reste très spécialisée dans la mythologie grecque."
 ---
-
 ![Image de Thétys](https://upload.wikimedia.org/wikipedia/commons/c/c3/Thetys_vagina_2709281.jpg)
 
 ###### Questions

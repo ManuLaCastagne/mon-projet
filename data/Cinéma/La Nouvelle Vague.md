@@ -20,8 +20,9 @@ indice_5 :
   - Les Quatre Cents Coups
 indice_6 : 
   - Années 1960
+culture_g_score: 100
+culture_g_justification: "Mouvement fondateur du cinéma français, ouvrant sur Truffaut, Godard, les Cahiers du cinéma, Varda et une multitude d'œuvres et de notions."
 ---
-
 ![Image de La Nouvelle Vague](https://upload.wikimedia.org/wikipedia/commons/e/ee/Truffaut-BeauSerge.jpg)
 
 ###### Questions

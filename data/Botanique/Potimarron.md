@@ -13,8 +13,9 @@ indice_5:
   - Courge douce
 indice_6:
   - Purée, soupes, gratins et desserts
+culture_g_score: 44
+culture_g_justification: "Courge devenue courante en cuisine, surtout susceptible d'une question alimentaire ou de vocabulaire régional."
 ---
-
 ![Image de Potimarron](https://upload.wikimedia.org/wikipedia/commons/4/44/Cucurbita_2018_G1.jpg)
 
 ###### Questions

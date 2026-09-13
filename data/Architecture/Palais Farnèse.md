@@ -20,9 +20,9 @@ indice_6 :
   - édifice du XVIème siècle
 questions:
  - Question d'architecture   à Rome, quel palais du 16e siècle est siège  de l'ambassade de France et de l'Ecole française de Rome ?
+culture_g_score: 56
+culture_g_justification: "Le Palais Farnèse est un chef-d’œuvre important de la Renaissance romaine, surtout mobilisé dans des questions d’art, d’architecture et de diplomatie."
 ---
-
-
 ![Image de Palais Farnèse](https://upload.wikimedia.org/wikipedia/commons/b/ba/Palais_Farnese.jpg)
 
 ###### Questions

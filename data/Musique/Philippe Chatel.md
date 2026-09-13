@@ -22,8 +22,9 @@ indice_6 :
   - auteur-compositeur-interprète français
 questions:
  - Ayant débuté comme coursier d'Henri Salvador, c'est à partir du milieu des années 70 que je rencontre le succès avec des titres comme "Ma lycéenne", "Mister Hyde" et surtout "J't'aime bien Lili".  Créateur du conte musical dédié à ma fille "Emilie Jolie", disparu en février...
+culture_g_score: 60
+culture_g_justification: "Auteur d’Émilie Jolie, conte musical français très connu des générations précédentes et régulièrement mobilisé dans les quiz francophones."
 ---
-
 ![Image de Philippe Chatel](https://upload.wikimedia.org/wikipedia/commons/6/6f/Philippe_CHATEL_Paris_1985.jpg)
 
 ###### Questions

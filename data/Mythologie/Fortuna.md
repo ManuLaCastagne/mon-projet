@@ -18,6 +18,8 @@ indice_6 :
   - allégories de l'instabilité
 questions:
  - Dans la [[mythologie romaine]], quelle déesse de la Chance et du Hasard, qui tient une corne d'abondance et un gouvernail ?
+culture_g_score: 72
+culture_g_justification: "Personnification romaine de la chance et du destin, riche en symboles et en prolongements historiques."
 ---
 
 
@@ -28,9 +30,6 @@ questions:
 Dans la [[mythologie romaine]], quel est le nom de la déesse associée à la chance et au destin, souvent représentée tenant une roue symbolisant l'instabilité de la fortune ?
 
 Quelle déesse de la [[mythologie romaine]], souvent considérée comme l'équivalente de la déesse [[Tyché]] dans la [[mythologie grecque]], était vénérée pour influencer la richesse et le succès individuel ?
-
-Quel est le nom de la déesse, honorée dans le temple de [[Fortuna]] Primigenia à [[Palestrina]], dont les origines remontent à environ 241 av. J.-C., et qui avait une influence significative sur les entreprises commerciales et militaires dans la Rome antique ? <!-- score: 4 -->
-
 ###### Description
 
 [[Fortuna]], déesse de la chance et du hasard dans la mythologie [[romaine]], était souvent représentée avec une roue symbolisant l'instabilité de la fortune. 

@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - César
+culture_g_score: 73
+culture_g_justification: "Condiment mondialement diffusé, souvent associé à Worcestershire, au Bloody Mary, à la salade César et au welsh."
 ---
 ###### Questions 
 

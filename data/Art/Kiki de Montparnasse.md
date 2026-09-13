@@ -23,8 +23,9 @@ indice_6 :
   - Artiste et chanteuse
 questions:
  - Je pose pour le "Nu couché à la toile de Jouy" peint par Foujita. Modèle que Man Ray photographia de dos pour "Le Violon d'Ingres", la fameuse photo de Man Ray.
+culture_g_score: 52
+culture_g_justification: "Kiki de Montparnasse relie Man Ray, le surréalisme, le Paris artistique des années 1920 et la photographie emblématique."
 ---
-
 ![Image de Kiki de Montparnasse](https://upload.wikimedia.org/wikipedia/commons/9/96/%28Castres%29_Kiki_de_Montparnasse_par_Pablo_Gargallo_-_Mus%C3%A9e_Goya.jpg)
 
 ###### Questions

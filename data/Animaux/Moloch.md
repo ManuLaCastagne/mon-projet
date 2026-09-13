@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de survie dans le désert
 questions:
  - Quel lézard des déserts australiens de la famille des agamidés possède un corps aplati et trapu recouvert d'énormes épines ?
+culture_g_score: 32
+culture_g_justification: "Lézard australien aux adaptations étonnantes, mais très niche dans les quiz généralistes."
 ---
-
 ![Image de Moloch](https://upload.wikimedia.org/wikipedia/commons/7/7c/Thorny_devil_pale.jpg)
 
 ###### Questions

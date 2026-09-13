@@ -22,9 +22,9 @@ indice_6 :
   - Académie française
 questions:
  - A quel philosophe et historien des sciences, dont le nom constitue un palindrome, doit-on l'ouvrage intitulé   "C'était mieux avant!" ?
+culture_g_score: 71
+culture_g_justification: "Philosophe et académicien très connu en France, exploitable en philosophie, sciences, éducation et technologie, sans être un marronnier majeur."
 ---
-
-
 ![Image de Michel Serres](https://upload.wikimedia.org/wikipedia/commons/5/50/16_Michel_Serres_librairie_Dialogues_30_octobre_2014.JPG)
 
 ###### Questions

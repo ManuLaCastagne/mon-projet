@@ -20,8 +20,9 @@ indice_6 :
   - couronné à Noyon
 questions:
  - Roi de France ayant succédé à Louis V le Fainéant, mon accession au pouvoir fut soutenue par l'évêque Adalbéron devant les Grands du royaume. M'appuyant sur le clergé afin d'asseoir mon autorité...
+culture_g_score: 77
+culture_g_justification: "Roi associé à 987 et à l’origine de la dynastie capétienne, il revient régulièrement dans l’histoire de France médiévale."
 ---
-
 ![Image de Hugues Capet](https://upload.wikimedia.org/wikipedia/commons/f/fd/Coronation_of_Hugues_Capet_2.jpg)
 
 ###### Questions

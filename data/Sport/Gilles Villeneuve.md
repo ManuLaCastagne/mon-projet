@@ -20,8 +20,9 @@ indice_6 :
   - 1982
 questions:
  - Quel pilote automobile canadien, vainqueur de 6 Grands Prix de Formule 1 et accidentellement disparu en 1982, se prénommait Gilles?
+culture_g_score: 68
+culture_g_justification: "Pilote mythique de Ferrari, connu pour sa rivalité avec Pironi, ses performances spectaculaires et sa mort tragique, mais moins fréquent que les champions titrés."
 ---
-
 ![Image de Gilles Villeneuve](https://upload.wikimedia.org/wikipedia/commons/1/14/Jacques_Villeneuve_Sr_070615.jpg)
 
 ###### Questions

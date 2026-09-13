@@ -18,8 +18,9 @@ indice_5:
   - Musée du Quai Branly
 indice_6:
   - Tour Agbar
+culture_g_score: 80
+culture_g_justification: "Jean Nouvel est un architecte contemporain très rentable grâce au prix Pritzker et à plusieurs bâtiments emblématiques en France et à l’étranger."
 ---
-
 ![Image de Jean Nouvel](https://upload.wikimedia.org/wikipedia/commons/8/8a/Jean_Nouvel_2009_Vienna.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - série Catherine et Liliane
 indice_6 : 
   - Canal+
+culture_g_score: 68
+culture_g_justification: "Artiste polyvalent connu pour Catherine, ses sketches et le film Guy, avec plusieurs entrées entre télévision, cinéma et humour."
 ---
-
 ![Image de Alex Lutz](https://upload.wikimedia.org/wikipedia/commons/1/10/Alex_Lutz_par_Claude_Truong-Ngoc_avril_2015.jpg)
 
 ###### Questions

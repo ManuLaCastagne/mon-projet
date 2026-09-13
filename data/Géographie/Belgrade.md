@@ -22,8 +22,9 @@ indice_5 :
   - Forteresse de Kalemegdan
 indice_6 : 
   - Nikola Tesla
+culture_g_score: 72
+culture_g_justification: "Capitale balkanique riche en repères historiques, géopolitiques et culturels, notamment autour de la Yougoslavie et du Danube."
 ---
-
 ![Image de Belgrade](https://upload.wikimedia.org/wikipedia/commons/c/cf/Church_of_Saint_Sava_%28Belgrade%2C_Serbia%29.jpg)
 
 ![[Carte_Belgrade.png]]

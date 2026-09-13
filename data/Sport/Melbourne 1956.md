@@ -20,9 +20,9 @@ indice_5 :
   - cérémonie de clôture innovante
 indice_6 : 
   - union soviétique dominante
+culture_g_score: 67
+culture_g_justification: "Jeux olympiques marqués par l’hémisphère sud, les boycotts et des innovations sportives, offrant plusieurs angles historiques."
 ---
-
-
 ![Image de Melbourne 1956](https://upload.wikimedia.org/wikipedia/commons/f/f2/1956_Summer_Olympics_%28Melbourne%29_boycotting_countries_%28blue%29.png)
 
 ###### Questions

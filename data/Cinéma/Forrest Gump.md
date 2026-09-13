@@ -20,8 +20,9 @@ indice_5 :
   - course à pied
 indice_6 : 
   - années 60-70
+culture_g_score: 92
+culture_g_justification: "Film mondialement célèbre, riche en questions sur Tom Hanks, l'histoire américaine, ses récompenses, son adaptation et ses répliques."
 ---
-
 ![Image de Forrest Gump](https://upload.wikimedia.org/wikipedia/commons/6/60/Forrest_Gump_Point_Monument_Valley_November_2018_001.jpg)
 
 ###### Questions

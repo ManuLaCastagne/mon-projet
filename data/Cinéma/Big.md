@@ -22,8 +22,9 @@ indice_6 :
   - réalisateur
 questions:
  - En 1988, dans quel film de Penny Marshall un enfant se métamorphose-t-il en un adulte incarné par Tom Hanks?
+culture_g_score: 76
+culture_g_justification: "Comédie populaire portée par Tom Hanks, avec des angles sur l'enfance, Broadway, Zoltar et le cinéma américain."
 ---
-
 ![Image de Big](https://upload.wikimedia.org/wikipedia/commons/9/9a/Big_Mac_hamburger.jpg)
 
 ###### Questions

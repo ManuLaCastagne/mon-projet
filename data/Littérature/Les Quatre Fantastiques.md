@@ -22,8 +22,9 @@ indice_6 :
   - Mr Fantastique
 questions:
  - Dans une série de BD de Stan Lee et Jack Kirby, quel groupe de 4 superhéros est notamment formé par la Femme invisible...
+culture_g_score: 80
+culture_g_justification: "Équipe majeure de Marvel, exploitable par ses personnages, sa création, ses adaptations et son rôle dans l’histoire des comics."
 ---
-
 ![Image de Les Quatre Fantastiques](https://upload.wikimedia.org/wikipedia/commons/2/2b/Modification_de_Jessica_Alba_at_Fantastic_Four-_Rise_London_Premiere.jpg)
 
 ###### Questions

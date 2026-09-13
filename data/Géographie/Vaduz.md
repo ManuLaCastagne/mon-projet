@@ -24,8 +24,9 @@ indice_6 :
   - rive du Rhin
 questions:
  - omptant  5 000 habitants.  Place financière internationale dominée par le château de ma famille princière, capitale du Géographie/Liechtenstein.
+culture_g_score: 57
+culture_g_justification: "Vaduz est une capitale européenne classique des quiz, mais sa petite taille limite les angles indépendants et l’importance générale."
 ---
-
 ![Image de Vaduz](https://upload.wikimedia.org/wikipedia/commons/8/86/Liechtenstein_asv2022-10_img02_Vaduz_Aussicht_beim_Schloss.jpg)
 
 ![[Carte_Vaduz.png]]

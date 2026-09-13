@@ -20,8 +20,9 @@ indice_5 :
   - LGBTQ+
 indice_6 : 
   - YouTuber
+culture_g_score: 52
+culture_g_justification: "Personnalité médiatique française liée à l’Eurovision et aux débats de société, mais encore peu structurante en culture générale."
 ---
-
 ![Image de Bilal Hassani](https://upload.wikimedia.org/wikipedia/commons/0/0c/Bilal_hassani_NRJ_Reims_79785.jpg)
 
 ###### Questions

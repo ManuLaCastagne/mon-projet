@@ -21,8 +21,9 @@ indice_6:
   - It's a Wonderful Life
 questions:
   - Quel film de Roberto Benigni sorti en 1998 a reçu 3 Oscars ?
+culture_g_score: 72
+culture_g_justification: "Classique de Capra et du cinéma de Noël, exploitable par ses acteurs, son réalisateur, son influence et ses thèmes moraux."
 ---
-
 ![Image de Vie est belle](https://upload.wikimedia.org/wikipedia/commons/2/21/La_vie_est_belle%2C_Monsieur_Drouillard_02.jpg)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - icône de la culture pop française
 questions:
  - Constituant le prolongement  d'une émission radiophonique homonyme, mit à honneur les chanteurs yé-yé?
+culture_g_score: 80
+culture_g_justification: "Émission radiophonique fondatrice de la culture yé-yé, liée à Europe 1, aux vedettes françaises et au magazine jeunesse homonyme."
 ---
-
-
-
 ![Image de Salut les copains](https://upload.wikimedia.org/wikipedia/commons/8/87/Le_Petit_Prince_SLC.jpg)
 
 ###### Questions

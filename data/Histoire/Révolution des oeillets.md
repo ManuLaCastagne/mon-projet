@@ -20,8 +20,9 @@ indice_6 :
   - MFA (Mouvement des Forces Armées)
 questions:
  - Lors d'une révolution ayant eu lieu en 1974, au Portugal...
+culture_g_score: 80
+culture_g_justification: "Révolution majeure de l’histoire portugaise, utile pour la dictature, la décolonisation, l’armée et la démocratisation européenne."
 ---
-
 ![Image de Révolution des oeillets](https://upload.wikimedia.org/wikipedia/commons/f/fa/Plaque_rue_de_la_R%C3%A9volution_des_%C5%92illets%2C_Nantes.jpg)
 
 ###### Questions

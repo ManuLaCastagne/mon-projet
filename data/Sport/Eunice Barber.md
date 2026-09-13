@@ -18,8 +18,9 @@ indice_5:
   - Sierra Leone
 indice_6:
   - Athlétisme
+culture_g_score: 52
+culture_g_justification: "Championne du monde dans deux épreuves d’athlétisme, elle est significative mais moins fréquente que les grandes figures olympiques mondiales."
 ---
-
 ![Image de Eunice Barber](https://upload.wikimedia.org/wikipedia/commons/c/cc/Osaka07_D3M_Eunice_Barber.jpg)
 
 ###### Questions

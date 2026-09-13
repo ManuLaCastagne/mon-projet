@@ -24,8 +24,9 @@ indice_6 :
   - Cuzco
 questions:
  - Au XVIIIe siècle, dans quel pays un descendant des Incas du nom de Tupac Amaru II, est-il devenu l'une des figures emblématiques de la résistance aux colons espagnols?
+culture_g_score: 80
+culture_g_justification: "Pays sud-américain très rentable grâce à Machu Picchu, aux Incas, aux Andes, au lac Titicaca et à la géographie du Pacifique."
 ---
-
 ![Image de Pérou](https://upload.wikimedia.org/wikipedia/commons/b/bb/Plaza_Rep%C3%BAblica_del_Per%C3%BA_%28Buenos_Aires%29_.jpg)
 
 ![[Carte_Pérou.png]]

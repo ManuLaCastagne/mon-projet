@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de la résilience arctique
 questions:
  - De quel canard marin, au nom d'origine islandaise...
+culture_g_score: 32
+culture_g_justification: "L'eider est surtout connu des amateurs d'oiseaux ou par son duvet, ce qui le rend peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Eider](https://upload.wikimedia.org/wikipedia/commons/7/79/Somateria_mollissima_MHNT.ZOO.2010.11.26.1.jpg)
 
 ###### Questions

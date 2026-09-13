@@ -21,8 +21,9 @@ indice_5 :
   - Camp Nou
 indice_6 : 
   - Barceloneta
+culture_g_score: 96
+culture_g_justification: "Grande ville européenne omniprésente grâce à Gaudí, aux Jeux de 1992, à la Catalogne, à l’architecture et au tourisme."
 ---
-
 ![[Carte_Barcelone.png]]
 
 ###### Questions

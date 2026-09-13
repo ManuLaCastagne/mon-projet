@@ -18,8 +18,9 @@ indice_4:
   - Nombre
 indice_5: 
 indice_6:
+culture_g_score: 64
+culture_g_justification: "Trente est surtout rentable grâce au Concile de Trente, repère majeur de la Contre-Réforme, mais la ville reste secondaire en géographie."
 ---
-
 ![[Carte_Trente.png]]
 ###### Questions
 

@@ -18,8 +18,9 @@ indice_5:
   - sanctum sanctorum
 indice_6:
   - Cape de lévitation
+culture_g_score: 76
+culture_g_justification: "Film Marvel important pour l'introduction de Doctor Strange, les acteurs, les pouvoirs et la continuité de l'univers partagé."
 ---
-
 ![Image de Docteur Strange](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Docteur_strange_%28cropped%29.jpg/1280px-Docteur_strange_%28cropped%29.jpg)
 
 ###### Questions

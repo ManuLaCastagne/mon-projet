@@ -18,8 +18,9 @@ indice_5:
   - intervention en Irak
 indice_6:
   - accords du Vendredi saint
+culture_g_score: 71
+culture_g_justification: "Premier ministre britannique très identifiable, associé au New Labour, à l’Irak, à l’Europe et à la politique contemporaine."
 ---
-
 ![Image de Tony Blair](https://upload.wikimedia.org/wikipedia/commons/8/8e/Tony_Blair_2010_%28cropped%29.jpg)
 
 ###### Questions

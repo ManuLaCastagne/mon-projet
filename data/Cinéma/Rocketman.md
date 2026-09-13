@@ -22,8 +22,9 @@ indice_6 :
   - Bohemian Rhapsody comparaison
 questions:
  - En 2019, quel film de Dexter Fletcher raconte la vie d'Elton John?
+culture_g_score: 60
+culture_g_justification: "Biopic connu d'Elton John, utile pour quelques questions de cinéma et de musique, sans être une œuvre incontournable."
 ---
-
 ![Image de Rocketman](https://upload.wikimedia.org/wikipedia/commons/e/e7/Elton_John_Rocketman_premiere_2019.jpg)
 
 ###### Questions

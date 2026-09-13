@@ -16,8 +16,9 @@ indice_6:
   - Gare maritime de Cherbourg
 questions:
   - Quel port militaire de la Manche, doté de la plus grande rade artificielle d'Europe, est dominé par le fort du Roule et est situé à l'extrémité de la presqu'île du Cotentin ?
+culture_g_score: 76
+culture_g_justification: "Port normand connu pour son rôle militaire et maritime, la Cité de la Mer, le Titanic et la Seconde Guerre mondiale."
 ---
-
 ![Image de Cherbourg](https://upload.wikimedia.org/wikipedia/commons/e/e8/Cherbourg-Octeville_OSM_01.png)
 
 ###### Questions

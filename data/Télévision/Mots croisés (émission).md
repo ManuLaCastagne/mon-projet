@@ -18,8 +18,9 @@ indice_5 :
   - talk-show
 indice_6 : 
   - années 2000
+culture_g_score: 60
+culture_g_justification: "Émission de débat politique durablement identifiée à France 2, utile pour la télévision et la vie publique mais sans portée exceptionnelle."
 ---
-
 ![Image de Mots croisés (émission)](https://upload.wikimedia.org/wikipedia/commons/5/57/Journal_de_La_Haye_15-02-1847_%28IA_ddd_010258215_mpeg21%29.pdf)
 
 ###### Questions

@@ -21,9 +21,9 @@ indice_5:
   - Région du Kanto
 indice_6:
   - Osaka
+culture_g_score: 60
+culture_g_justification: "Grande île japonaise utile pour situer Tokyo, Kyoto, le mont Fuji et le cœur historique et démographique du Japon."
 ---
-
-
 ![Image de Honshu](https://upload.wikimedia.org/wikipedia/commons/7/71/Satellite_image_of_Honshu_in_May_2003.png)
 
 ![[Carte_Honshu.png]]

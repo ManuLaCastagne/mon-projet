@@ -21,8 +21,9 @@ indice_6:
   - Umeå
 questions:
   - Quel golfe de l'Europe du Nord est situé entre la Suède et la Finlande?
+culture_g_score: 40
+culture_g_justification: "Repère géographique baltique utile pour situer la Suède et la Finlande, mais peu fréquent et peu transversal."
 ---
-
 ![Image de Golfe de Botnie](https://upload.wikimedia.org/wikipedia/commons/c/c3/Carte_de_la_c%C3%B4te_Est_du_golfe_de_Botnie_-_btv1b53146264t.jpg)
 
 ![[Carte_Golfe de Botnie.png]]

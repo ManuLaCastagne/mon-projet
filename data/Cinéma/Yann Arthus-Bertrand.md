@@ -21,9 +21,9 @@ indice_5:
   - vue aérienne spectaculaire
 indice_6:
   - Human 2015
+culture_g_score: 68
+culture_g_justification: "Personnalité française identifiable à la fois par la photographie aérienne, Home, l'écologie et la fondation GoodPlanet."
 ---
-
-
 ![Image de Yann Arthus-Bertrand](https://upload.wikimedia.org/wikipedia/commons/9/9c/Yann_Arthus-Bertrand%2C_2009_%28cropped%29.jpg)
 
 ###### Questions

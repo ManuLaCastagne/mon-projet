@@ -22,8 +22,9 @@ indice_6 :
   - Le Grand Pouvoir du Chninkel
 questions:
  - 2021, quel scénariste de BD belge  a publié, avec Philippe Berthet, le 1er tome de "La Fortune "des Winczlav", racontant l'histoire de la famille dont Largo Winch est devenu l'héritier ?
+culture_g_score: 80
+culture_g_justification: "Scénariste majeur de la bande dessinée francophone, Van Hamme est très rentable grâce à XIII, Thorgal, Largo Winch et leurs adaptations."
 ---
-
 ![Image de Jean Van Hamme](https://upload.wikimedia.org/wikipedia/commons/9/99/Jean_Van_Hamme.jpg)
 
 ###### Questions

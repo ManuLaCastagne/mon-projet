@@ -20,8 +20,9 @@ indice_6 :
   - mort en -30 av. J.-C.
 questions:
  - Fait rapporté par Plutarque dans son ouvrage "Les Vies parallèles", j'ai été provoqué par le suicide d'Antoine, après sa défaite face à Octave (empereur) à Bataille d'Actium.  Episode au cours duquel la reine d'Égypte, pour échapper à la captivité, se serait empoisonnée...
+culture_g_score: 80
+culture_g_justification: "Épisode célèbre de l’Antiquité, très lié à Cléopâtre, Marc Antoine, Octave et la fin de l’Égypte ptolémaïque."
 ---
-
 ![Image de Suicide de Cléopâtre](https://upload.wikimedia.org/wikipedia/commons/d/da/Du_suicide_et_de_la_folie_suicide_-_consid%C3%A9r%C3%A9s_dans_leur_rapports_avec_la_statistique%2C_La_m%C3%A9decine_et_la_philosophie_%28IA_dusuicideetdelaf00br%29.pdf)
 
 ###### Questions

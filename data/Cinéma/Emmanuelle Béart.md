@@ -22,8 +22,9 @@ indice_6 :
   - Mission  Impossible
 questions:
  - Quelle actrice française retrouve-t-on à l'affiche des films de Claude Sautet  "Nelly et Monsieur Arnaud" et "Un coeur en hiver". Magnifique film avec Daniel Auteuil ?
+culture_g_score: 64
+culture_g_justification: "Actrice française très connue, utile pour Manon des sources, Mission impossible et le cinéma d’auteur, mais avec un nombre d’angles limité."
 ---
-
 ![Image de Emmanuelle Béart](https://upload.wikimedia.org/wikipedia/commons/7/71/Emmanuelle_B%C3%A9art_2004.jpg)
 
 ###### Questions

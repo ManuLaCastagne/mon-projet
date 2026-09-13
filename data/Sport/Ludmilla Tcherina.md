@@ -20,8 +20,9 @@ indice_6 :
   - Festival de Cannes
 questions:
  - En 1945, quelle Française d'origine russe, danseuse des Nouveaux Ballets russes de Monte-Carlo rejoint  les ballets des Champs-Elysées de Roland Petit?
+culture_g_score: 32
+culture_g_justification: "Personnalité surtout connue pour la danse et le cinéma, avec un lien sportif trop marginal pour être très rentable."
 ---
-
 ![Image de Ludmilla Tcherina](https://upload.wikimedia.org/wikipedia/commons/3/3f/Ludmilla_Tcherina_1955_Frankfurt_airport_%28cropped%29.jpg)
 
 ###### Questions

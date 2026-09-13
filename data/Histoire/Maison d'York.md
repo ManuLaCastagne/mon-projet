@@ -18,11 +18,9 @@ indice_5:
   - rivalité avec les Lancastre
 indice_6:
   - emblème de la rose blanche
+culture_g_score: 60
+culture_g_justification: "Repère classique de la guerre des Deux-Roses, avec quelques liens utiles vers les dynasties et Richard III."
 ---
-
-
-
-
 ![Image de Maison d'York](https://upload.wikimedia.org/wikipedia/commons/9/9c/York_Minster_Chapter_House_Ceiling.jpg)
 
 ###### Questions

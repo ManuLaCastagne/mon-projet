@@ -18,8 +18,9 @@ indice_5 :
   - Lycée
 indice_6 : 
   - Infiltration
+culture_g_score: 64
+culture_g_justification: "Série connue pour avoir révélé Johnny Depp et pour son concept policier, mais d’importance télévisuelle modérée."
 ---
-
 ![Image de 21 Jump Street](https://upload.wikimedia.org/wikipedia/commons/e/e8/21_Jump_Street.svg)
 
 ###### Questions

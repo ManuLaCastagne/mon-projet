@@ -18,8 +18,9 @@ indice_5 :
   - Ministre des Affaires étrangères
 indice_6 : 
   - Plan Schuman
+culture_g_score: 84
+culture_g_justification: "Père fondateur de l’Europe, directement associé à la déclaration Schuman, à la CECA et à la réconciliation franco-allemande."
 ---
-
 ![Image de Robert Schuman](https://upload.wikimedia.org/wikipedia/commons/6/6d/Bassenheim_Adenauer-Schuman-Gedenkzeichen_%282015_Sp%29.JPG)
 
 ###### Questions

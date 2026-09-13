@@ -23,8 +23,9 @@ indice_6 :
   - dictionnaire raisonné de l'architecture française
 questions:
  - Architecte né en 1814, auteur du "Dictionnaire raisonné de l'architecture française du XIe au XVIe siècle", j'emploie souvent un décor floral de motifs des arts nouveaux.
+culture_g_score: 80
+culture_g_justification: "Viollet-le-Duc est une figure centrale du patrimoine français, exploitable via ses restaurations, le néogothique, Notre-Dame et l’histoire de l’architecture."
 ---
-
 ![Image de Eugène Viollet-le-Duc](https://upload.wikimedia.org/wikipedia/commons/0/03/Eug%C3%A8ne_Viollet-le-Duc_buste_Hiolle_Ch%C3%A2teau_de_Pierrefonds_Oise.jpg)
 
 ###### Questions

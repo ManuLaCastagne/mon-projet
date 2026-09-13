@@ -20,8 +20,9 @@ indice_5 :
   - Jor-El dans Superman
 indice_6 : 
   - On the Waterfront
+culture_g_score: 100
+culture_g_justification: "Acteur absolument incontournable, associé à des films, Oscars, personnages et enjeux culturels très fréquemment questionnés."
 ---
-
 ![Image de Marlon Brando](https://upload.wikimedia.org/wikipedia/commons/5/53/Marlon_Brando_publicity_for_One-Eyed_Jacks.png)
 
 ###### Questions

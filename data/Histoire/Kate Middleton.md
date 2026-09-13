@@ -19,8 +19,9 @@ indice_5 :
   - Louis et Charlotte
 indice_6 : 
   - Mariage en 2011
+culture_g_score: 63
+culture_g_justification: "Kate Middleton est très célèbre dans l’actualité monarchique, mais sa connaissance apporte relativement peu d’éléments structurants en culture générale."
 ---
-
 ![Image de Kate Middleton](https://upload.wikimedia.org/wikipedia/commons/b/bf/Princess_of_Wales_in_2023_%28cropped%2903.JPG)
 
 ###### Questions

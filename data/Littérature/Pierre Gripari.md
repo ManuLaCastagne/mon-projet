@@ -22,9 +22,9 @@ indice_6 :
   - marionnettes
 questions:
  - Dans le recueil intitulé "Contes de la rue Broca", quel écrivain raconte l'histoire d'un jeune diable qui a le malheur de ne pas être méchant?
+culture_g_score: 48
+culture_g_justification: "Auteur jeunesse identifiable grâce aux Contes de la rue Broca, mais d’importance et de fréquence limitées dans les quiz généralistes."
 ---
-
-
 ![Image de Pierre Gripari](https://upload.wikimedia.org/wikipedia/commons/0/0e/Pierre_Gripari.jpg)
 
 ###### Questions

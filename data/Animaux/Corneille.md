@@ -14,8 +14,9 @@ indice_5:
   - Corbeau
 indice_6:
   - Symbole de la sagesse
+culture_g_score: 67
+culture_g_justification: "Corvidé courant et intelligent, utile pour distinguer plusieurs espèces et aborder des questions de comportement animal."
 ---
-
 ![Image de Corneille](https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_Corneille_Lemaire_Louvre.jpg)
 
 ###### Questions

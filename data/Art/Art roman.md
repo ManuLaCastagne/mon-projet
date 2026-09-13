@@ -23,8 +23,9 @@ indice_6 :
   - abbayes médiévales
 questions:
  - Caractérisée par l'adoption dans l'architecture religieuse… A l'Occident chrétien entre le 10e et le 12e siècle.
+culture_g_score: 88
+culture_g_justification: "Style architectural et artistique majeur du Moyen Âge, exploitable à travers les églises, les pèlerinages, la sculpture et l’histoire européenne."
 ---
-
 ![Image de Art roman](https://upload.wikimedia.org/wikipedia/commons/f/f9/Roman_sarcophagus_of_Aurelia_Kyrilla%2C_Rome%2C_c._300_AD%2C_Ny_Carlsberg_Glyptothek%2C_Copenhagen%2C_20220618_1042_7011.jpg)
 
 ###### Questions

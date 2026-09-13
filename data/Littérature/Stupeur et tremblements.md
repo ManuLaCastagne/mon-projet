@@ -22,8 +22,9 @@ indice_6 :
   - réussite et humiliation
 questions:
  - En 1999, quel roman d'Amélie Nothomb retrace la vie difficile d'une jeune européenne dans une entreprise japonaise ?
+culture_g_score: 64
+culture_g_justification: "Roman très connu d’Amélie Nothomb, régulièrement associé au Japon, à l’entreprise et au Grand Prix de l’Académie française."
 ---
-
 ![Image de Stupeur et tremblements](https://upload.wikimedia.org/wikipedia/commons/7/74/Fear_and_trembling_-_the_sickness_unto_death.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Guilotine
 questions:
  - Art martial dont la première école français à ouvert en 1905, j'étais pratiqué par des samouraïs avant d'être utilisé par des bandits.
+culture_g_score: 80
+culture_g_justification: "Le jiu-jitsu relie arts martiaux japonais, jiu-jitsu brésilien, famille Gracie et naissance du MMA moderne."
 ---
-
 ![Image de Jiu-jitsu](https://upload.wikimedia.org/wikipedia/commons/0/07/Ali_Akbarpour_Gold_Medal_Jiu-Jitsu.jpg)
 
 ###### Questions

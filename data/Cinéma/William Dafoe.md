@@ -18,8 +18,9 @@ indice_5 :
   - Nomination Oscars
 indice_6 : 
   - Green Goblin
+culture_g_score: 64
+culture_g_justification: "Il s'agit du même acteur que Willem Dafoe, connu pour plusieurs rôles majeurs mais moins souvent mobilisé que les vedettes les plus célèbres."
 ---
-
 ![Image de William Dafoe](https://upload.wikimedia.org/wikipedia/commons/1/14/Willem_Dafoe_Cannes_2019.jpg)
 
 ###### Questions

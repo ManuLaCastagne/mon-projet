@@ -20,8 +20,9 @@ indice_6 :
   - Coureuse automobile
 questions:
  - En 1957, quelle pilote automobile est la 1re Française à remporter le titre de championne de France des rallyes?
+culture_g_score: 27
+culture_g_justification: "Sportive française polyvalente et pionnière, mais trop peu connue pour constituer une priorité généraliste."
 ---
-
 ![Image de Annie Soisbault]()
 
 ###### Questions

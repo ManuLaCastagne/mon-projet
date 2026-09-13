@@ -21,8 +21,9 @@ indice_5 :
   - jeu d'enfants
 indice_6 : 
   - Jean-Honoré Fragonard
+culture_g_score: 68
+culture_g_justification: "La Balançoire est une œuvre très reconnaissable de Fragonard, utile pour le rococo, l’Ancien Régime et la peinture galante."
 ---
-
 ![Image de La Balançoire](https://upload.wikimedia.org/wikipedia/commons/2/26/Swing-Renoir.jpeg)
 
 ###### Questions

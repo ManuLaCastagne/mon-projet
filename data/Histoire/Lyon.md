@@ -20,8 +20,9 @@ indice_6 :
   - patrimoine mondial de l'UNESCO depuis 1998
 questions:
  - De quelle ville, saint Gébuin, primat des gaules en 1079, est-il...
+culture_g_score: 92
+culture_g_justification: "Lyon est une grande ville historique et culturelle, utile pour des questions sur la Gaule romaine, la Résistance, la soierie, la gastronomie et la géographie."
 ---
-
 ![Image de Lyon](https://upload.wikimedia.org/wikipedia/commons/e/ee/Plaque_%C3%A0_Roger_Violi_Rue_Garibaldi_%28Lyon%29.jpg)
 
 ###### Questions

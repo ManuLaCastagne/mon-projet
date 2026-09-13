@@ -20,8 +20,9 @@ indice_6 :
   - incendie
 questions:
  - Le 6 mai 1937, quel dirigeable est détruit par un incendie lors de son atterrissage à Lakehurst en 1937, dans le New Jersey ?
+culture_g_score: 73
+culture_g_justification: "Le dirigeable et sa catastrophe constituent un classique des quiz, avec quelques prolongements historiques liés à l’Allemagne nazie et à Hindenburg président."
 ---
-
 ![Image de Hindenburg](https://upload.wikimedia.org/wikipedia/commons/c/cf/Zabrze_-_Poczta_G%C5%82%C3%B3wna_01.jpg)
 
 ###### Questions

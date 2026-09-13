@@ -23,8 +23,9 @@ indice_6 :
   - influencé par la peinture flamande
 questions:
  - A quel peintre français du XVIIIe, principalement animalier, doit-on des tableaux comme "Le Canard blanc" ou "Le Cerf se mirant dans l'eau"?
+culture_g_score: 47
+culture_g_justification: "Oudry est un peintre animalier et décorateur royal important, mais son identification repose surtout sur quelques œuvres et fonctions."
 ---
-
 ![Image de Jean-Baptiste Oudry](https://upload.wikimedia.org/wikipedia/commons/0/09/%28Agen%29_Nature_morte_avec_trois_oiseaux_morts%2C_des_groseilles%2C_des_cerises_et_des_insectes_-_Jean-Baptiste_Oudry_-_Mus%C3%A9e_des_Beaux-Arts_d%27Agen.jpg)
 
 ###### Questions

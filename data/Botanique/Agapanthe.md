@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale dans les jardins
 questions:
  - Quelle plante également appelée tubéreuse bleue et lis du Nil produit des feuilles rubanées d'où jaillissent de longues hampes florales?
+culture_g_score: 31
+culture_g_justification: "Plante ornementale identifiable, mais son nom et ses caractéristiques sont rarement mobilisés hors des questions botaniques spécialisées."
 ---
-
 ![Image de Agapanthe](https://upload.wikimedia.org/wikipedia/commons/6/63/Agapanthe_%28Agapanthus%29.jpg)
 
 ###### Questions

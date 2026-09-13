@@ -23,8 +23,9 @@ indice_6 :
   - Afrique du Sud
 questions:
  - Dans quel roman d'Agatha Christie, dont le titre évoque la couleur marron, une jeune fille est-elle témoin de la mort d'un homme dans le métro?
+culture_g_score: 60
+culture_g_justification: "Roman d’Agatha Christie identifiable par son mélange d’aventure et de mystère, mais moins incontournable que ses grandes enquêtes."
 ---
-
 ![Image de L'Homme au complet marron](https://upload.wikimedia.org/wikipedia/commons/f/f2/LL-Q150_%28fra%29-Fhala.K-L%27Homme_au_complet_marron.wav)
 
 ###### Questions

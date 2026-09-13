@@ -21,9 +21,9 @@ indice_5:
   - César du Meilleur Espoir Masculin
 indice_6:
   - Décédé en 2008
+culture_g_score: 60
+culture_g_justification: "Acteur français identifiable par sa filiation, ses César et sa carrière tragiquement interrompue, mais de portée limitée."
 ---
-
-
 ![Image de Guillaume Depardieu](https://upload.wikimedia.org/wikipedia/commons/b/b5/DEPARDIEU_Guillaume-24x30-2005b.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Marquise de Valromey
 questions:
  - A partir de 1607, quel écrivain français publie le roman pastoral "L'Astrée", qui est considéré comme une oeuvre majeure du XVIIe siècle?
+culture_g_score: 47
+culture_g_justification: "L'Astrée est un jalon important du roman pastoral français, mais Honoré d'Urfé reste peu connu du grand public."
 ---
-
 ![Image de Honoré d'Urfé](https://upload.wikimedia.org/wikipedia/commons/1/1b/Honor%C3%A9_d%27Urf%C3%A9_01.jpg)
 
 ###### Questions

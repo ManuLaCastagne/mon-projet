@@ -22,8 +22,9 @@ indice_6 :
   - Private Dancer
 questions:
  - En 1966, quelle chanteuse et danseuse interprète "River Deep Moutain High" avec son mari Ike est surnommée la "grand-mère de la soul music" ?
+culture_g_score: 92
+culture_g_justification: "Icône mondiale du rock et de la pop, fréquemment interrogée pour sa carrière avec Ike Turner, ses tubes et son parcours personnel."
 ---
-
 ![Image de Tina Turner](https://upload.wikimedia.org/wikipedia/commons/d/d9/Ike_%26_Tina_Turner%2C_Bestanddeelnr_924-2170_-_Restoration.jpg)
 
 ###### Questions

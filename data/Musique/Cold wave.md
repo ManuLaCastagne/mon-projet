@@ -22,8 +22,9 @@ indice_6 :
   - atmosphère sombre
 questions:
  - Au début des années 80, à quel genre musical issu de la new wave The Cure...
+culture_g_score: 60
+culture_g_justification: "Genre identifiable de la scène post-punk, utile pour quelques questions sur les années 1980 et ses groupes associés, mais assez spécialisé."
 ---
-
 ![Image de Cold wave](https://upload.wikimedia.org/wikipedia/commons/0/08/January_2022_Cold_Wave_2022-1-19.png)
 
 ###### Questions

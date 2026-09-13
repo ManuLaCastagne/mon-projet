@@ -20,8 +20,9 @@ indice_5:
   - Robert Smith
 indice_6:
   - rock alternatif
+culture_g_score: 80
+culture_g_justification: "Groupe majeur de la new wave et du rock gothique, associé à Robert Smith, à plusieurs tubes et à des albums classiques."
 ---
-
 ![Image de Cure](https://upload.wikimedia.org/wikipedia/commons/0/09/Robert_Smith_of_The_Cure_live_in_Singapore_1_August_2007.jpg)
 
 ###### Questions

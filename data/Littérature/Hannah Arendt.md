@@ -22,8 +22,9 @@ indice_6 :
   - Controverses sur le procès Eichmann
 questions:
  - En 2013, quel philosophe juive allemande, auteure des "Origines du totalitarisme", est l'héroïne d'un film de Margarethe von Trotta ?
+culture_g_score: 87
+culture_g_justification: "Penseuse majeure du XXe siècle, fréquemment mobilisée sur le totalitarisme, Eichmann, la banalité du mal, la politique et la philosophie."
 ---
-
 ![Image de Hannah Arendt](https://upload.wikimedia.org/wikipedia/commons/1/12/Hannah_Arendt_B%C3%BCste%2C_2021_R%C3%A1kospalota.jpg)
 
 ###### Questions

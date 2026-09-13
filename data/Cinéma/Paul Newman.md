@@ -18,8 +18,9 @@ indice_5 :
   - Road to Perdition
 indice_6 : 
   - L'Héritière
+culture_g_score: 85
+culture_g_justification: "Immense acteur américain associé à de nombreux classiques, à l'Oscar, à la philanthropie et au sport automobile, offrant un excellent rendement de mémorisation."
 ---
-
 ![Image de Paul Newman](https://upload.wikimedia.org/wikipedia/commons/6/67/Paul_Newman_-_1958.jpg)
 
 ###### Questions

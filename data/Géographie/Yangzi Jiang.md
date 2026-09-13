@@ -24,8 +24,9 @@ indice_6 :
   - célèbre pour le Barrage des Trois Gorges
 questions:
  - En Chine, quel fleuve, autrefois appelé fleuve Bleu, est la principale...
+culture_g_score: 80
+culture_g_justification: "Grand fleuve asiatique associé à la Chine, au barrage des Trois-Gorges, aux grandes villes et aux enjeux environnementaux."
 ---
-
 ![Image de Yangzi Jiang](https://upload.wikimedia.org/wikipedia/commons/4/4b/Qutang_Gorge_on_Changjiang.jpg)
 
 ![[Carte_Yangzi Jiang.png]]

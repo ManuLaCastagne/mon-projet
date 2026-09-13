@@ -20,8 +20,9 @@ indice_6 :
   - 13e président de la France
 questions:
  - En mai 1931, quel homme politique est élu président de la République française?
+culture_g_score: 52
+culture_g_justification: "Président de la IIIe République associé à son assassinat et à l’Indochine, mais globalement moins prioritaire que les chefs d’État plus marquants."
 ---
-
 ![Image de Paul Doumer](https://upload.wikimedia.org/wikipedia/commons/7/79/Paul_Doumer_in_1931_%28cropped%29.jpg)
 
 ###### Questions

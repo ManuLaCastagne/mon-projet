@@ -18,8 +18,9 @@ indice_5 :
   - Hallie Kate Eisenberg
 indice_6 : 
   - Peter Hedges
+culture_g_score: 60
+culture_g_justification: "Film apprécié notamment pour le rôle de Leonardo DiCaprio, mais dont les occurrences en quiz restent relativement limitées."
 ---
-
 ![Image de Gilbert Grape](https://upload.wikimedia.org/wikipedia/commons/b/bf/T.S._Hubbard_Company_-_grape_vine_specialists_%28IA_CAT31285173%29.pdf)
 
 ###### Questions

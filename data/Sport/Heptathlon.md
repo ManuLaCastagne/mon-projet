@@ -20,8 +20,9 @@ indice_6 :
   - Lancer de javelot
 questions:
  - Quelle épreuve féminine combine 7 courses ou concours dont le saut en longueur?
+culture_g_score: 60
+culture_g_justification: "Épreuve d'athlétisme classique et identifiable par ses sept disciplines, ses championnes et son histoire olympique."
 ---
-
 ![Image de Heptathlon](https://upload.wikimedia.org/wikipedia/commons/5/56/Osaka07_D2A_Heptathlon_Final.jpg)
 
 ###### Questions

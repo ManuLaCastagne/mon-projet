@@ -23,8 +23,9 @@ indice_6 :
   - Noir et blanc
 questions:
  - A quel photographe parisien doit-on "Le baiser de l'Hôtel de ville" ?
+culture_g_score: 84
+culture_g_justification: "Doisneau est une référence incontournable de la photographie française, associée à des images, des lieux et des thèmes sociaux facilement mobilisables."
 ---
-
 ![Image de Robert Doisneau](https://upload.wikimedia.org/wikipedia/commons/4/41/Robert_Doisneau_photographed_by_Bracha_L._Ettinger_in_his_studio_in_Montrouge%2C_1992.jpg)
 
 ###### Questions

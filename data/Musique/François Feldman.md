@@ -22,8 +22,9 @@ indice_6 :
   - chanteur des années 80 et 90
 questions:
  - A quel chanteur, au sommet  de sa notoriété dans les années 80 et 90, associe-t-on des tubes comme "Joue pas" et "Les valses de Vienne"?
+culture_g_score: 44
+culture_g_justification: "Chanteur populaire des années 1980-1990, principalement retenu pour quelques tubes et collaborations."
 ---
-
 ![Image de François Feldman](https://upload.wikimedia.org/wikipedia/commons/d/d1/Fran%C3%A7ois_Feldman_2013_4.jpg)
 
 ###### Questions

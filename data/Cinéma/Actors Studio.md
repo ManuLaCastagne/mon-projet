@@ -21,8 +21,9 @@ indice_5:
   - improvisation
 indice_6:
   - New York
+culture_g_score: 68
+culture_g_justification: "Institution emblématique du théâtre et du method acting, reliée à de nombreux acteurs américains célèbres."
 ---
-
 ![Image de Actors Studio](https://upload.wikimedia.org/wikipedia/commons/4/46/7th_Associate_Presbyterian_Church_%28Manhattan%292.jpg)
 
 ###### Questions

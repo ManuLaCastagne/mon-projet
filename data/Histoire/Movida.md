@@ -20,8 +20,9 @@ indice_6 :
   - Pedro Almodóvar
 questions:
  - En 1980, quel nom a-t-on donné au mouvement en Espagne après la mort de Franco ?
+culture_g_score: 60
+culture_g_justification: "Mouvement culturel emblématique de l’Espagne post-franquiste, associé à Madrid, Almodóvar et la libération des mœurs."
 ---
-
 ![Image de Movida](https://upload.wikimedia.org/wikipedia/commons/3/33/Paolo_Monti_-_Servizio_fotografico_-_BEIC_6333091.jpg)
 
 ###### Questions

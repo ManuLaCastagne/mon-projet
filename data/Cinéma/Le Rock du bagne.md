@@ -22,8 +22,9 @@ indice_6 :
   - réalisateur Richard Thorpe
 questions:
  - Dans quel film de Richard Thorpe incarne-t-il Vince Everett, jeune homme condamné à séjourner en prison pour homicide involontaire ?
+culture_g_score: 76
+culture_g_justification: "Film étroitement associé à Elvis Presley et à un numéro musical mythique, avec des liens vers le rock et la culture populaire."
 ---
-
 ![Image de Le Rock du bagne](https://upload.wikimedia.org/wikipedia/commons/c/cb/Jailhouse_Rock_%281957%29_Trailer.ogv)
 
 ###### Questions

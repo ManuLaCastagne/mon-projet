@@ -16,11 +16,12 @@ indice_6 :
   - Paysage côtier
 ---
 
+
 ![Image de Ganivelle](https://upload.wikimedia.org/wikipedia/commons/a/a6/Sand_fence_-_S%C3%A8te_-_01.jpg)
 
 ###### Questions
 
-Quel dispositif en lattes de bois sert à délimiter des parcours sur les plages tout en étant respectueux de l'environnement, notamment utilisé en [[Bretagne]] et en [[Vendée]] ?
+Quel dispositif en lattes de bois sert à délimiter des parcours sur les plages tout en étant respectueux de l'environnement, notamment utilisé en [[Bretagne]] et en [[Vendée]] ? <!-- score: 4 -->
 
 ###### Description
 

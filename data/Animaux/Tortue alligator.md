@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de résilience
 questions:
  - Quelle tortue, capturant des poissons leurrés par l'appendice en forme de ver qui s'agite au bout de sa langue, qui porte un nom évoquant un reptile crocodilien ?
+culture_g_score: 44
+culture_g_justification: "La tortue alligator est un reptile spectaculaire pouvant donner quelques questions de zoologie, mais elle reste une espèce de niche."
 ---
-
-
 ![Image de Tortue alligator](https://upload.wikimedia.org/wikipedia/commons/5/56/Alligator_snapping_turtle_yawning.jpg)
 
 ###### Questions

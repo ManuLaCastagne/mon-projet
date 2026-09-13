@@ -21,8 +21,9 @@ indice_6 :
   - remplaçant de Laurent Delahousse au 20h de France 2
 questions:
  - Je rejoins France 2 où je présente "Complément d'enquête". Remplaçant de Laurent Delahousse pour le "Journal" du dimanche, je suis…
+culture_g_score: 44
+culture_g_justification: "Journaliste et animateur contemporain reconnaissable dans les médias français, mais encore peu incontournable dans les quiz."
 ---
-
 ![Image de Thomas Sotto](https://upload.wikimedia.org/wikipedia/commons/a/a8/ThomasSottoEurope1.png)
 
 ###### Questions

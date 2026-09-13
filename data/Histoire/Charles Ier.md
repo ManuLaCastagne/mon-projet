@@ -20,8 +20,9 @@ indice_6 :
   - Stuart
 questions:
  - En janvier 1649, près de 4 ans après avoir été battu par les troupes de Oliver Cromwell, à Naseby, quel roi d'Angleterre, d'Ecosse et d'Irlande est exécuté?
+culture_g_score: 71
+culture_g_justification: "Roi anglais exécuté pendant la guerre civile, utile pour l’histoire britannique, la monarchie Stuart et les débuts de la science moderne."
 ---
-
 ![Image de Charles Ier](https://upload.wikimedia.org/wikipedia/commons/d/d8/Charles_Ier_et_d%27Agn%C3%A8s.png)
 
 ###### Questions

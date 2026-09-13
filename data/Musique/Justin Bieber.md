@@ -22,8 +22,9 @@ indice_6 :
   - Justice
 questions:
  - En 2020, à  quel chanteur canadien doit-on le titre "Holy", dans lequel figure Chance the Rapper qui cite Lionel Messi?
+culture_g_score: 77
+culture_g_justification: "Vedette mondiale de la pop, régulièrement interrogée sur YouTube, ses tubes, ses albums et les évolutions de la musique contemporaine."
 ---
-
 ![Image de Justin Bieber](https://upload.wikimedia.org/wikipedia/commons/d/da/Justin_Bieber_in_2015.jpg)
 
 ###### Questions

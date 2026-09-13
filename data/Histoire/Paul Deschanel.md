@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - En 1920, quel président français, connu pour être tombé d'un train...
  - Le 21 septembre 1920, quel président de la République française, élu quelques mois plus tôt, doit démissionner pour raisons de santé?
+culture_g_score: 60
+culture_g_justification: "Président français surtout retenu pour les épisodes insolites de son bref mandat, ce qui le rend quizable mais peu structurant."
 ---
-
 ![Image de Paul Deschanel](https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_of_M._Paul_Deschanel_by_Aim%C3%A9_Nicolas_Morot.jpg)
 
 ###### Questions

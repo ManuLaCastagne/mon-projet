@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté
 questions:
  - Quel palmipède est aussi appelée "hirondelle de mer" ?
+culture_g_score: 40
+culture_g_justification: "La sterne, surtout la sterne arctique, fournit une question classique sur les migrations, mais demeure peu connue du grand public."
 ---
-
 ![Image de Sterne](https://upload.wikimedia.org/wikipedia/commons/c/c1/Maurice_Sterne_-_Salome_-_Apr_1923_Shadowland.jpg)
 
 ###### Questions

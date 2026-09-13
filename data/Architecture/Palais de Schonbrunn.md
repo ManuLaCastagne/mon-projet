@@ -20,8 +20,9 @@ indice_6 :
   - jardin à la française
 questions:
  - A Vienne, dans quelle ancienne résidence impériale d'été peut-on admirer la salle du Vieux-Laque, décorée de panneaux laqués japonais?
+culture_g_score: 88
+culture_g_justification: "Schönbrunn est un symbole des Habsbourg et de Vienne, fréquemment interrogé en histoire, architecture, monarchie et patrimoine."
 ---
-
 ![Image de Palais de Schonbrunn](https://upload.wikimedia.org/wikipedia/commons/5/5a/Schoenbrunn_Palace_as_seen_from_Neptune_Fountain%2C_September_2016.jpg)
 
 ###### Questions

@@ -22,10 +22,9 @@ indice_6 :
   - héritage du meunier
 questions:
  - Dans quel conte de Perrault un animal rusé fait-il passer son maître pour le marquis de Carabas?
+culture_g_score: 93
+culture_g_justification: "Conte universel de Perrault, abondamment réutilisé par les adaptations, les personnages merveilleux et les références populaires."
 ---
-
-
-
 ![Image de Le Chat botté](https://upload.wikimedia.org/wikipedia/commons/5/58/%C3%89dition_Curmer_%281843%29_-_Le_Chat_bott%C3%A9_-_1.png)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Affaire Dreyfus
 indice_6 : 
   - lois Jules Ferry
+culture_g_score: 100
+culture_g_justification: "Régime central de l’histoire politique française, associé à de nombreux événements, institutions, crises et réalisations culturelles."
 ---
-
 ![Image de Troisième République](https://upload.wikimedia.org/wikipedia/commons/3/34/5_fr_French_Third_Republic_-_1876.png)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - Harry Potter et la Coupe de feu
 questions:
  - The Lost City of Z, je joue aux côtés de John David Washington dans "Tenet" en 2020.  Héros de la saga "Twilight" que j'ai marquée en jeune vampire...
+culture_g_score: 76
+culture_g_justification: "Acteur mondialement connu pour Twilight et Batman, avec plusieurs passerelles vers Harry Potter et le cinéma contemporain."
 ---
-
-
 ![Image de Robert Pattinson](https://upload.wikimedia.org/wikipedia/commons/d/df/MJK_08789_Robert_Pattinson_%28Damsel%2C_Berlinale_2018%29_%28cropped%29.jpg)
 
 ###### Questions

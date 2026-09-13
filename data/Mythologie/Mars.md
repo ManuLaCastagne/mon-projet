@@ -18,8 +18,9 @@ indice_6 :
   - Romulus et Rémus
 questions:
  - Voyant mes amours avec Vénus chantées par Lucrèce au début de son poème "De La Nature", je suis fêté au printemps…
+culture_g_score: 80
+culture_g_justification: "Mars est le dieu romain de la guerre et le père légendaire de Romulus et Rémus, ce qui le rend fréquent dans les questions sur Rome antique."
 ---
-
 ![Image de Mars](https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg)
 
 ###### Questions

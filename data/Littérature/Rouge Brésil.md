@@ -22,8 +22,9 @@ indice_6 :
   - roman historique
 questions:
  - En 2001, pour quel roman se passant en Amérique du Sud, à l'époque de la Renaissance, a permis à Rufin de recevoir le Goncourt en 2001 ?
+culture_g_score: 40
+culture_g_justification: "Roman récompensé et lié à l’histoire coloniale française, mais encore assez périphérique dans les quiz généralistes."
 ---
-
 ![Image de Rouge Brésil](https://upload.wikimedia.org/wikipedia/commons/1/1f/Mapa_da_Fran%C3%A7a_Ant%C3%A1rtica_%28Rio_de_Janeiro%29_da_d%C3%A9cada_de_1660_baseado_nos_relatos_relatos_de_L%C3%A9ry_da_d%C3%A9cada_1550.jpg)
 
 ###### Questions

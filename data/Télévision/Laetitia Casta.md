@@ -18,10 +18,9 @@ indice_5:
   - Alain Delon
 indice_6:
   - Sylvie Tellier
+culture_g_score: 64
+culture_g_justification: "Célébrité française bien identifiée grâce au mannequinat, au cinéma et à Marianne, sans être une figure incontournable."
 ---
-
-
-
 ![Image de Laetitia Casta](https://upload.wikimedia.org/wikipedia/commons/5/54/Laetitia_Casta_Cannes_2015.jpg)
 
 ###### Questions

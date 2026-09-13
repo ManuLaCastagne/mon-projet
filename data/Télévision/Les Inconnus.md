@@ -18,8 +18,9 @@ indice_5 :
   - Bernard Campan
 indice_6 : 
   - Didier Bourdon
+culture_g_score: 84
+culture_g_justification: "Trio comique majeur de la culture populaire française, associé à la télévision, au cinéma, aux sketches et à de nombreuses répliques."
 ---
-
 ![Image de Les Inconnus](https://upload.wikimedia.org/wikipedia/commons/1/18/Les_Inconnus.jpg)
 
 ###### Questions

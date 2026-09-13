@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Lors du siège de Paris, en 1870, quel maire de la capitale, chargé de son ravitaillement, s'est rendu impopulaire en imposant des restrictions alimentaires?
  - Dans le testament de quel homme politique français, mort en 1893, trouve-t-on pour la 1re fois l'expression "la ligne bleue des Vosges"?
+culture_g_score: 80
+culture_g_justification: "Jules Ferry est une référence récurrente sur l’école républicaine, la laïcité, la Troisième République et la colonisation française."
 ---
-
 ![Image de Jules Ferry](https://upload.wikimedia.org/wikipedia/commons/c/c5/Jules_Ferry_signature.jpg)
 
 ###### Questions

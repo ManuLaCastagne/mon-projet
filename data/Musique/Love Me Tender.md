@@ -22,9 +22,9 @@ indice_6 :
   - paroles tendres
 questions:
  - En 1956, dans quelle ballade constituant la chanson titre d'un western, Elvis Presley dit-il  "Love me sweet, never let me go"?
+culture_g_score: 80
+culture_g_justification: "Grand standard d'Elvis lié à sa carrière musicale, au cinéma et à la chanson Aura Lee, avec une présence régulière dans les quiz."
 ---
-
-
 ![Image de Love Me Tender](https://upload.wikimedia.org/wikipedia/commons/3/36/Love_me_tender_Shop_-_panoramio.jpg)
 
 ###### Questions

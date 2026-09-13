@@ -22,8 +22,9 @@ indice_6 :
   - Cheveux noirs et blonds
 questions:
  - En 1985, quelle chanteuse française connaît le succès avec le titre "Johnny Johnny"...
+culture_g_score: 53
+culture_g_justification: "Ses tubes des années 1980 sont des repères efficaces de la variété française, même si sa portée culturelle reste limitée."
 ---
-
 ![Image de Jeanne Mas](https://upload.wikimedia.org/wikipedia/commons/5/5e/Jeanne_Mas_en_concert_%C3%A0_Carquefou_le_14_mai_2022.jpg)
 
 ###### Questions

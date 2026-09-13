@@ -15,9 +15,9 @@ indice_6:
   - Symbole de force et de grâce
 questions:
   - Quelle est cette antilope du sud et de l'est de l'Afrique dont les cornes spiralées du mâle peuvent atteindre 1,80 m?
+culture_g_score: 40
+culture_g_justification: "Le grand koudou est une antilope spectaculaire, mais il demeure une connaissance de zoologie africaine relativement spécialisée."
 ---
-
-
 ![Image de Grand koudou](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tragelaphus_strepsiceros_%E2%99%82_%28head%29.jpg)
 
 ###### Questions

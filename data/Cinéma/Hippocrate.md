@@ -22,8 +22,9 @@ indice_6 :
   - hôpital
 questions:
  - Homme de science né vers 460 av. J.-C., appartenant par ma famille à l'école des Asclépiades de Cos, je produis avec mes disciples...
+culture_g_score: 44
+culture_g_justification: "Film français apprécié et identifiable par son sujet médical, mais encore peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Hippocrate](https://upload.wikimedia.org/wikipedia/commons/e/e5/Peyron_-_L%27Entretien_de_D%C3%A9mocrite_avec_Hippocrate_%281812%29.png)
 
 ###### Questions

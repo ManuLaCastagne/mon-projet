@@ -20,8 +20,9 @@ indice_5:
   - guerre secrète
 indice_6:
   - franchise cinématographique
+culture_g_score: 44
+culture_g_justification: "Franchise fantastique identifiable par Kate Beckinsale, les vampires et les Lycans, mais peu centrale dans la culture cinématographique générale."
 ---
-
 ![Image de Underworld](https://upload.wikimedia.org/wikipedia/commons/c/c4/Underworld_%28223233%29.jpg)
 
 ###### Questions

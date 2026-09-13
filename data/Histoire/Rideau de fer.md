@@ -20,8 +20,9 @@ indice_6 :
   - Winston Churchill
 questions:
  - A partir du discours de Fulton en 1946…
+culture_g_score: 93
+culture_g_justification: "Concept central de la guerre froide, fréquemment interrogé avec Churchill, la division de l’Europe et l’affrontement Est-Ouest."
 ---
-
 ![Image de Rideau de fer](https://upload.wikimedia.org/wikipedia/commons/8/8c/Degas_-_Derri%C3%A8re_le_rideau_de_fer%2C_btv1b104620439.jpeg)
 
 ###### Questions

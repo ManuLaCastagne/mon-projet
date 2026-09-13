@@ -23,8 +23,9 @@ indice_6 :
   - contemporain de Picasso
 questions:
  - Quel peintre, d'origine japonaise, figure majeure de l'Ecole de Paris aux côtés de Modigliani et de Soutine, a souvent représenté des chats?
+culture_g_score: 67
+culture_g_justification: "Foujita relie art japonais, bohème parisienne, peinture, gravure et identité franco-japonaise, avec une fréquence moyenne dans les quiz."
 ---
-
 ![Image de Foujita](https://upload.wikimedia.org/wikipedia/commons/a/af/1930_Tsuguharu_Fujita.jpg)
 
 ###### Questions

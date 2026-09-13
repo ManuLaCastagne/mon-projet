@@ -18,9 +18,9 @@ indice_5:
   - Loi sur l'IVG en 1975
 indice_6:
   - Académicienne française
+culture_g_score: 88
+culture_g_justification: "Personnalité française incontournable, associée à la loi sur l’IVG, à la déportation, à l’Europe et aux droits des femmes."
 ---
-
-
 ![Image de Simone Veil](https://upload.wikimedia.org/wikipedia/commons/e/e0/Simone_Veil_bij_uitreiking_Four_Freedoms_Awards_in_Middelburg%2C_Bestanddeelnr_933-0124_-_Restoration.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Protège les côtes de l'érosion et sert d'habitat pour la faune marine
 questions:
  - Quel arbre des mangroves tropicales est caractérisé par des racines aériennes ancrées dans la vase ?
+culture_g_score: 60
+culture_g_justification: "Le palétuvier est une référence utile sur les mangroves, les littoraux tropicaux et l'écologie, mais reste moins connu que la mangrove elle-même."
 ---
-
 ![Image de Palétuvier](https://upload.wikimedia.org/wikipedia/commons/2/25/Detail_of_mangrove_roots.jpg)
 
 ###### Questions

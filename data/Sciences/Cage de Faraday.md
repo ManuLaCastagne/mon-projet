@@ -20,8 +20,9 @@ indice_6 :
   - Effet de protection
 questions:
  - Grâce à quel dispositif,  associé à un physicien britannique, est-on protégé de la foudre lorsqu'on est placé à l'intérieur d'une voiture?
+culture_g_score: 72
+culture_g_justification: "La cage de Faraday est un exemple célèbre d’électromagnétisme, souvent réutilisable dans des questions de physique et de technologie."
 ---
-
 ![Image de Cage de Faraday](https://upload.wikimedia.org/wikipedia/commons/c/c0/Cage_de_Faraday.jpg)
 
 ###### Questions

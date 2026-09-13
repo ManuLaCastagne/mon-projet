@@ -20,8 +20,9 @@ indice_6 :
   - Titre sans souveraineté
 questions:
  - Quel titre porte généralement le mari de la reine notamment en Grande-Bretagne et aux Pays-Bas?
+culture_g_score: 52
+culture_g_justification: "Notion monarchique utile pour comprendre le statut de plusieurs conjoints royaux, mais peu fréquente comme réponse autonome."
 ---
-
 ![Image de Prince consort](https://upload.wikimedia.org/wikipedia/commons/3/3f/London_-_Prince_Consort_Road.jpg)
 
 ###### Questions

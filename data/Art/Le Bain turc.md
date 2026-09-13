@@ -23,9 +23,9 @@ indice_6 :
   - Odalisque
 questions:
  - Chef-d'oeuvre de Jean-Auguste-Dominique Ingres, montrant une scène de harem, d'où l'impératrice choquée évoquée au début de la question.
+culture_g_score: 68
+culture_g_justification: "Le Bain turc est une œuvre notable d’Ingres, régulièrement liée à l’orientalisme, au nu et aux collections du Louvre."
 ---
-
-
 ![Image de Le Bain turc](https://upload.wikimedia.org/wikipedia/commons/a/a9/Le_Bain_turc_-_F%C3%A9lix_Edouard_Vallotton.jpg)
 
 ###### Questions

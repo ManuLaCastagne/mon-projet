@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de vitesse
 questions:
  - Quel félin d'Afrique, d'Asie et du Proche-Orient, capable de courir à plus de 100 km/h ?
+culture_g_score: 77
+culture_g_justification: "Grand félin emblématique, régulièrement interrogé pour sa vitesse, sa biologie, sa conservation et son habitat africain."
 ---
-
 ![Image de Guépard](https://upload.wikimedia.org/wikipedia/commons/2/2c/Cheetah_%28Acinonyx_jubatus%29_cub.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - Los Angeles
 questions:
  - Localité dont le nom est mentionné pour la 1re fois en 1886, je suis devenue une ville en 1903 avant d'être annexée à une autre 7 ans plus tard.  Lieu de tournage de "The Law of the range" puis de "The Squaw man", je vois alors l'installation de nombreux studios de cinéma et connais mon âge d'or des années 30 aux années 50.
+culture_g_score: 100
+culture_g_justification: "Lieu culturel mondialement incontournable, associé au cinéma, à Los Angeles, aux studios, aux célébrités et à l’histoire de la culture populaire."
 ---
-
 ![[Carte_Hollywood.png]]
 
 ###### Questions

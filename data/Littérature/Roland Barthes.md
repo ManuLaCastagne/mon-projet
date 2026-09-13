@@ -18,8 +18,9 @@ indice_5 :
   - Sur Racine
 indice_6 : 
   - Fragments d'un discours amoureux
+culture_g_score: 75
+culture_g_justification: "Penseur majeur de la sémiologie et de la critique culturelle, exploitable par Mythologies, la photographie, le structuralisme et le Collège de France."
 ---
-
 ![Image de Roland Barthes](https://upload.wikimedia.org/wikipedia/commons/3/3f/Roland_Barthes_1969.jpg)
 
 ###### Questions

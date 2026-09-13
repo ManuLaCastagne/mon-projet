@@ -3,6 +3,8 @@ tags:
   - Santé
   - XIXe
 date: 1875
+culture_g_score: 24
+culture_g_justification: "Instrument dentaire très spécifique, essentiellement susceptible d'une question technique isolée."
 ---
 ###### Questions 
 

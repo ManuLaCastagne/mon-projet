@@ -22,8 +22,9 @@ indice_6 :
   - Casablanca
 questions:
  - Quelle ville du Maroc, en 1983, inspire à Alain Souchon le titre d'une chanson qui évoque un célèbre film de Michael Curtiz?
+culture_g_score: 28
+culture_g_justification: "Chanson secondaire d’Alain Souchon, dont les possibilités de questions restent limitées malgré sa référence au film Casablanca."
 ---
-
 ![Image de Casablanca (Souchon)](https://upload.wikimedia.org/wikipedia/commons/2/28/19220406_Le_Petit_Parisien.djvu)
 
 ###### Questions

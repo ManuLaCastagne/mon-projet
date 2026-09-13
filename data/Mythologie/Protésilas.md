@@ -18,8 +18,9 @@ indice_6 :
   - Mort par Hector
 questions:
  - Lors de la guerre de Troie, quel héros thessalien a touché le sol le 1er, bien que l'oracle ait prédit que le 1er Grec débarqué serait tué?
+culture_g_score: 20
+culture_g_justification: "Héros grec surtout connu pour sa mort à l’arrivée à Troie, Protésilas correspond à une question très précise et peu rentable."
 ---
-
 ![Image de Protésilas](https://upload.wikimedia.org/wikipedia/commons/8/8c/Silver_drachma_or_tetrobol%2C_Thebes%2C_302-286_BC.jpg)
 
 ###### Questions

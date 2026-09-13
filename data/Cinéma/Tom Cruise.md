@@ -20,8 +20,9 @@ indice_5:
   - Acteur américain
 indice_6:
   - Blockbuster
+culture_g_score: 93
+culture_g_justification: "Star internationale omniprésente dans les quiz grâce à Mission: Impossible, ses cascades, ses films majeurs et sa vie publique."
 ---
-
 ![Image de Tom Cruise](https://upload.wikimedia.org/wikipedia/commons/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/15MJ5NThPjj6xhPcts8MiY" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

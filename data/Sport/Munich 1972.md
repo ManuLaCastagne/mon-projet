@@ -20,8 +20,9 @@ indice_5 :
   - Onze athlètes israéliens
 indice_6 : 
   - Black September
+culture_g_score: 92
+culture_g_justification: "Les Jeux de Munich sont incontournables en raison de la prise d’otages, de Mark Spitz, d’Olga Korbut et du contexte historique."
 ---
-
 ![Image de Munich 1972](https://upload.wikimedia.org/wikipedia/commons/b/b9/Olympic_Roof_Munich%2C_July_2018_-02.jpg)
 
 ###### Questions

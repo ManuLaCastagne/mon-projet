@@ -20,8 +20,9 @@ indice_5 :
   - activiste des droits civiques
 indice_6 : 
   - La Couleur pourpre
+culture_g_score: 64
+culture_g_justification: "Danny Glover est surtout exploitable par L'Arme fatale et La Couleur pourpre, mais reste moins transversal qu'une grande star internationale."
 ---
-
 ![Image de Danny Glover](https://upload.wikimedia.org/wikipedia/commons/e/e3/Danny_Glover_portrait%2C_January_14%2C_2008.jpg)
 
 ###### Questions

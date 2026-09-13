@@ -22,9 +22,9 @@ indice_5 :
   - Centre financier du Moyen-Orient
 indice_6 : 
   - Située dans le golfe Persique
+culture_g_score: 52
+culture_g_justification: "Capitale du Bahreïn surtout connue pour la Formule 1, le Golfe et la finance, avec une portée culturelle et historique assez limitée."
 ---
-
-
 ![Image de Manama](https://upload.wikimedia.org/wikipedia/commons/f/f2/Bahrain_World_trade_Center_.jpg)
 
 ![[Carte_Manama.png]]

@@ -24,8 +24,9 @@ indice_6 :
   - glace et toundra
 questions:
  - Quel archipel des terres arctiques de la Russie porte un nom signifiant nouvelle Terre en russe?
+culture_g_score: 36
+culture_g_justification: "Archipel arctique surtout rencontré à propos des essais nucléaires soviétiques et de la Tsar Bomba, avec une portée très spécialisée."
 ---
-
 ![Image de Nouvelle-Zemble](https://upload.wikimedia.org/wikipedia/commons/8/83/Nouvelle-Zemble_%28Yuzhny_Island%29.png)
 
 ![[Carte_Nouvelle-Zemble.png]]

@@ -18,9 +18,9 @@ indice_5:
   - Droitière, jeu à deux mains
 indice_6:
   - République tchèque
+culture_g_score: 84
+culture_g_justification: "Légende mondiale du tennis, particulièrement rentable pour Wimbledon, la rivalité avec Evert, les Grands Chelems et son parcours politique."
 ---
-
-
 ![Image de Martina Navratilova](https://upload.wikimedia.org/wikipedia/commons/6/67/Martina_Navratilova_%287490733436%29.jpg)
 
 ###### Questions

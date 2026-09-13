@@ -22,8 +22,9 @@ indice_5 :
   - Alpes Mancelles
 indice_6 : 
   - Château du Lude
+culture_g_score: 60
+culture_g_justification: "Département français identifiable par Le Mans et les 24 Heures, mais aux applications générales limitées."
 ---
-
 ![[Carte_Sarthe.png]]
 ###### Questions
 

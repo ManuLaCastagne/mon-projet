@@ -22,9 +22,9 @@ indice_6 :
   - Hispaniola
 questions:
  - Dans quel roman de Robert Louis Stevenson, Durisdeer réclame-t-il toujours de l'argent...
+culture_g_score: 80
+culture_g_justification: "Grand classique du roman d’aventures, il est régulièrement reconnu par Stevenson, Jim Hawkins, Long John Silver et ses adaptations."
 ---
-
-
 ![Image de L'Île au trésor](https://upload.wikimedia.org/wikipedia/commons/2/25/Stevenson_-_L%27%C3%8Ele_au_tr%C3%A9sor%2C_trad._Savine-Lieutaud.pdf)
 
 ###### Questions

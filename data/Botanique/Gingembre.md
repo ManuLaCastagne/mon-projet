@@ -13,8 +13,9 @@ indice_5:
   - Zingiber officinale
 indice_6:
   - Épice et plante médicinale
+culture_g_score: 68
+culture_g_justification: "Épice et rhizome très courant, mobilisable en cuisine, médecine traditionnelle, commerce et géographie asiatique."
 ---
-
 ![Image de Gingembre](https://upload.wikimedia.org/wikipedia/commons/e/ec/Zingiber_officinale_Blanco1.131.png)
 
 ###### Questions

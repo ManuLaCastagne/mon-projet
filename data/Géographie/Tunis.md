@@ -22,8 +22,9 @@ indice_5 :
   - Souk el-Attarine
 indice_6 : 
   - Avenue Habib Bourguiba
+culture_g_score: 71
+culture_g_justification: "Tunis est une capitale historique du Maghreb, exploitable en histoire, géographie, civilisation islamique et politique contemporaine."
 ---
-
 ![Image de Tunis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Super_moon_over_Medina_of_Tunis.jpg)
 
 ![[Carte_Tunis.png]]

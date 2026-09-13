@@ -22,8 +22,9 @@ indice_6 :
   - Grammy Awards
 questions:
  - En 1988, quelle chanteuse américaine influencée par la musique folk est révélée par le titre "Talkin' about a revolution" ?
+culture_g_score: 80
+culture_g_justification: "Artiste internationale associée à Fast Car, aux chansons engagées et à la scène musicale de la fin des années 1980."
 ---
-
 ![Image de Tracy Chapman](https://upload.wikimedia.org/wikipedia/commons/5/5e/Tracy_Chapman_3.jpg)
 
 ###### Questions

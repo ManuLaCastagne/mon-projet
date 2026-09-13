@@ -24,8 +24,9 @@ indice_6 :
   - Spree
 questions:
  - Quelle capitale européenne est desservie par l'aéroport de Tegel ?
+culture_g_score: 100
+culture_g_justification: "Capitale incontournable de l’Europe, centrale pour les questions sur la Prusse, le nazisme, la guerre froide, le Mur et la culture."
 ---
-
 ![Image de Berlin](https://upload.wikimedia.org/wikipedia/commons/3/3b/Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg)
 
 ![[Carte_Berlin.png]]

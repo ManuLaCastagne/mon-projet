@@ -20,8 +20,9 @@ indice_6 :
   - Sibérie
 questions:
  - Comment appelle-t-on le sous-sol des régions froides ?
+culture_g_score: 65
+culture_g_justification: "Notion importante du changement climatique, mobilisable en géographie, climatologie, environnement et cycle du carbone."
 ---
-
 ![Image de Pergélisol](https://upload.wikimedia.org/wikipedia/commons/6/6f/Permafrost_in_Herschel_Island_006.jpg)
 
 ###### Questions

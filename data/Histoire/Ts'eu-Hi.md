@@ -20,8 +20,9 @@ indice_6 :
   - Régnait sur l'empire
 questions:
  - En 1875, en Chine,  quelle ancienne concubine de l'empereur Xianfeng est devenue impératrice douairière à la mort de son fils, Tongzhi?
+culture_g_score: 67
+culture_g_justification: "Figure importante de la fin de la Chine impériale, régulièrement mobilisée pour les Qing, les réformes et les rivalités de cour, mais moins connue en France."
 ---
-
 ![Image de Ts'eu-Hi](https://upload.wikimedia.org/wikipedia/commons/b/b6/Empress_Dowager_Cixi_%28c._1890%2C_small_version%29_-_02.jpg)
 
 ###### Questions

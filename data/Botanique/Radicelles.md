@@ -15,8 +15,9 @@ indice_6 :
   - Indice 6 Absorption des nutriments et de l'eau
 questions:
  - Quel nom donne-t-on au ramifications de la racine d'une plante ?
+culture_g_score: 31
+culture_g_justification: "Structure botanique utile pour comprendre les racines, mais trop spécialisée pour être prioritaire en culture générale."
 ---
-
 ![Image de Radicelles](https://upload.wikimedia.org/wikipedia/commons/4/4d/Aval_moyenne_De%C3%BBle%2C_radicelles_juin_2014_8.JPG)
 
 ###### Questions

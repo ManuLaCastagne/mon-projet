@@ -22,8 +22,9 @@ indice_6 :
   - Claude Klotz
 questions:
  - En 1977, littérature, quel écrivain, ancien professeur de français,  est l'auteur du roman "E = mc2, mon amour"?
+culture_g_score: 47
+culture_g_justification: "Auteur populaire associé à E=mc² mon amour et au cinéma français, mais de portée culturelle relativement limitée."
 ---
-
 ![Image de Patrick Cauvin](https://upload.wikimedia.org/wikipedia/commons/7/74/Poems%2C_chiefly_in_the_Scottish_dialect_%28IA_poemschieflyinsc03burn%29.pdf)
 
 ###### Questions

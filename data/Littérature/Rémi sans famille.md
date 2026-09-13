@@ -22,8 +22,9 @@ indice_6 :
   - En famille
 questions:
  - En 1878, littérature, dans quel ouvrage de Hector Malot un jeune orphelin courageux est-il le héros ?
+culture_g_score: 80
+culture_g_justification: "Classique de la littérature jeunesse française, connu par son intrigue, ses adaptations et son auteur Hector Malot."
 ---
-
 ![Image de Rémi sans famille](https://upload.wikimedia.org/wikipedia/commons/7/73/Basilique_Saint-Remi_de_Reims_Exterior_1%2C_Reims%2C_France_-_Diliff.jpg)
 
 ###### Questions

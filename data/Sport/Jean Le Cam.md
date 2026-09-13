@@ -20,8 +20,9 @@ indice_6 :
   - Solitaire du Figaro
 questions:
  - Triple vainqueur de la Solitaire du Figaro entre 94 et 99, j'ai participé pour la 5e fois au Vendée Globe en 2020, où j'ai obtenu la 4e place à bord d'un monocoque plaisamment baptisé "Yes, We Cam".
+culture_g_score: 60
+culture_g_justification: "Skipper emblématique du Vendée Globe, Jean Le Cam est régulièrement cité dans la voile française mais reste peu transversal."
 ---
-
 ![Image de Jean Le Cam](https://upload.wikimedia.org/wikipedia/commons/9/90/Jean_Le_Cam_VG2012_%282%29.jpg)
 
 ###### Questions

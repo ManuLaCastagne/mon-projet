@@ -24,9 +24,9 @@ indice_6 :
   - John Muir Trail
 questions:
  - Quel massif du sud de l'Espagne culmine à 3478 m à Mulhassen ?
+culture_g_score: 80
+culture_g_justification: "Chaîne américaine associée à Yosemite, au mont Whitney et au lac Tahoe, offrant plusieurs repères géographiques classiques."
 ---
-
-
 ![Image de Sierra Nevada](https://upload.wikimedia.org/wikipedia/commons/0/01/Sierra_Nevada_Brewery%2C_Chico%2C_during_blue_hour.jpg)
 
 ![[Carte_Sierra Nevada.png]]

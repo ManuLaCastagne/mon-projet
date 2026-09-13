@@ -22,8 +22,9 @@ indice_6 :
   - Paris
 questions:
  - En 1975, dans quel film le commissaire Letellier, incarné par Jean-Paul Belmondo...
+culture_g_score: 60
+culture_g_justification: "Polar français classique régulièrement relié à Belmondo, Verneuil, Morricone et à une cascade célèbre, sans être un incontournable absolu."
 ---
-
 ![Image de Peur sur la ville](https://upload.wikimedia.org/wikipedia/commons/b/b3/P1080370_Paris_VII-XV-XVI_pont_de_Bir_Hakeim_rwk.JPG)
 
 ###### Questions

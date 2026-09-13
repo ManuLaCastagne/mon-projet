@@ -18,8 +18,9 @@ indice_5 :
   - Vendredi soir
 indice_6 : 
   - Repos du septième jour
+culture_g_score: 80
+culture_g_justification: "Pratique fondamentale du judaïsme, le Shabbat ouvre des questions sur la Bible, les rites, le calendrier et la vie religieuse."
 ---
-
 ![Image de Shabbat](https://upload.wikimedia.org/wikipedia/commons/3/3c/Title_page_of_Tractate_Shabbat-Hebrew-Latin_Mishnah-Amsterdam-1698-1702-JNL.jpg)
 
 ###### Questions

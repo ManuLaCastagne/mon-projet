@@ -22,8 +22,9 @@ indice_6 :
   - Église
 questions:
  - Quelle chanson des The Beatles dont le titre est un nom inventé évoque la tristesse, la solitude ?
+culture_g_score: 97
+culture_g_justification: "Chanson incontournable des Beatles, très fréquente grâce à son histoire, son écriture, son arrangement classique et l’album Revolver."
 ---
-
 ![Image de Eleanor Rigby](https://upload.wikimedia.org/wikipedia/commons/c/c3/Eleanor_Rigby_2018-1.jpg)
 
 ###### Questions

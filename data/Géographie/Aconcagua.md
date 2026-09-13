@@ -24,8 +24,9 @@ indice_6:
   - conditions extrêmes
 questions:
   - Quel sommet des Andes, s'élevant à 6000…
+culture_g_score: 68
+culture_g_justification: "Sommet majeur des Andes et des Seven Summits, utile en géographie et en alpinisme sans être omniprésent."
 ---
-
 ![Image de Aconcagua](https://upload.wikimedia.org/wikipedia/commons/c/c0/Aconcagua_Provincial_Park_04.jpg)
 
 ###### Questions

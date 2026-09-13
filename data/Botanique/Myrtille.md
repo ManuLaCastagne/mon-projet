@@ -15,8 +15,9 @@ indice_6:
   - Ingrédient en pâtisserie et confitures
 questions:
   - Globuleux, mesurant 6 à 10mm de diamètre, couvert d'une fine pruine. Je renferme de nombreux pépins dans ma chair violacée. Baie de teinte noire...
+culture_g_score: 64
+culture_g_justification: "Fruit très connu, exploitable en botanique, alimentation et vocabulaire régional, mais moins central que les grands fruits universels."
 ---
-
 ![Image de Myrtille](https://upload.wikimedia.org/wikipedia/commons/d/d9/Common_Bilberry_%28Vaccinium_myrtillus%29_-_Bergen%2C_Norway_2021-07-31_%2803%29.jpg)
 
 ###### Questions

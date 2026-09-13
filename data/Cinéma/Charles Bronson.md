@@ -22,8 +22,9 @@ indice_6 :
   - Un Justicier dans la ville
 questions:
  - Interprète de l'homme à l'harmonica dans "Il était une fois dans l'Ouest" disparu en 2003…
+culture_g_score: 64
+culture_g_justification: "Star populaire du cinéma d’action et du western, identifiable par Death Wish et quelques classiques, avec une portée culturelle limitée."
 ---
-
 ![Image de Charles Bronson](https://upload.wikimedia.org/wikipedia/commons/9/98/Charles_Bronson_Cannes.jpg)
 
 ###### Questions

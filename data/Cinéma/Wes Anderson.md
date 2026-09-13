@@ -20,8 +20,9 @@ indice_5 :
   - Humour décalé
 indice_6 : 
   - Mondes fictifs détaillés
+culture_g_score: 80
+culture_g_justification: "Réalisateur contemporain très identifiable par son style, ses acteurs, ses films singuliers, l’animation et sa place dans les festivals."
 ---
-
 ![Image de Wes Anderson](https://upload.wikimedia.org/wikipedia/commons/e/e9/MJK_08478_Wes_Anderson_%28Opening_Gala_Berlinale_2018%29.jpg)
 
 ###### Questions

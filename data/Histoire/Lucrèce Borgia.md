@@ -20,9 +20,9 @@ indice_6 :
   - empoisonnements présumés
 questions:
  - Fille du cardinal Lenzuoli, le pape Alexandre VI, j'ai été immortalisée par Victor Hugo dans un drame...
+culture_g_score: 71
+culture_g_justification: "Lucrèce Borgia est une figure célèbre de la Renaissance, exploitable en histoire politique, papauté, Italie et littérature, mais souvent entourée de mythes."
 ---
-
-
 ![Image de Lucrèce Borgia](https://upload.wikimedia.org/wikipedia/commons/4/4d/Lucr%C3%A8ce_Borgia%2C_par_Victor_Hugo%2C_2969.jpg)
 
 ###### Questions

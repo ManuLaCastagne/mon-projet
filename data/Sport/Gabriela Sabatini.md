@@ -20,8 +20,9 @@ indice_6 :
   - Jeux Olympiques 1988
 questions:
  - Quelle joueuse de tennis Argentine, née en 1970, a remporté l'US Open en 1990...
+culture_g_score: 60
+culture_g_justification: "Grande joueuse de tennis des années 1990, utile pour des questions sur l'US Open, les Jeux olympiques et les rivalités du tennis féminin."
 ---
-
 ![Image de Gabriela Sabatini](https://upload.wikimedia.org/wikipedia/commons/4/4d/Gabriela_Sabatini_US_Embassy_in_Argentina_cropped.jpg)
 
 ###### Questions

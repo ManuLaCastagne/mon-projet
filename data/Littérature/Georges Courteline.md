@@ -22,8 +22,9 @@ indice_6 :
   - Académie Goncourt
 questions:
  - Avec des comédies comme "Boubouroche", "Messieurs les ronds-de-cuir" ou "La Paix chez soi", quel écrivain a présenté avec ironie l'absurdité de la vie bourgeoise et administrative?
+culture_g_score: 51
+culture_g_justification: "Auteur satirique français classique, mais moins fréquent que les grandes figures théâtrales et littéraires du XIXe siècle."
 ---
-
 ![Image de Georges Courteline](https://upload.wikimedia.org/wikipedia/commons/0/0c/Georges_Courteline_1921.jpg)
 
 ###### Questions

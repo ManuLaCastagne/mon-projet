@@ -22,8 +22,9 @@ indice_6 :
   - garage rock
 questions:
  - En 2003, à quel duo de rock américain formé de Meg et Jack White doit-on "Seven Nation Army" ?
+culture_g_score: 73
+culture_g_justification: "Duo immédiatement reconnaissable grâce à «Seven Nation Army», à son esthétique et à son rôle dans le renouveau du rock garage."
 ---
-
 ![Image de The White Stripes](https://upload.wikimedia.org/wikipedia/commons/c/cb/Jack_%26_Meg%2C_The_White_Stripes.jpg)
 
 ###### Questions

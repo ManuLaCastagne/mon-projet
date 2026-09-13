@@ -20,10 +20,9 @@ indice_6 :
   - exécuté en 1794
 questions:
  - A la victoire de Fleurus,  j'étais notamment surnommé l'archange de la Terreur, admirateur inconditionnel de Robespierre, avec lequel j'ai été guillotiné en 1794.
+culture_g_score: 80
+culture_g_justification: "Figure marquante de la Révolution française, fréquemment associée à la Terreur, au Comité de salut public et à Robespierre."
 ---
-
-
-
 ![Image de Saint-Just](https://upload.wikimedia.org/wikipedia/commons/c/c4/Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg)
 
 ###### Questions

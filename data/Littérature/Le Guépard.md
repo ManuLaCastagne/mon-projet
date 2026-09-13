@@ -20,8 +20,9 @@ indice_5:
   - déclin d'une famille aristocratique
 indice_6:
   - Risorgimento
+culture_g_score: 80
+culture_g_justification: "Chef-d’œuvre littéraire et cinématographique associé au Risorgimento, à la Sicile, à Lampedusa, à Visconti et au prince Salina."
 ---
-
 ![Image de Le Guépard](https://upload.wikimedia.org/wikipedia/commons/5/5c/Cheetah_Brothers_AdF.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5 :
   - John McVie
 indice_6 : 
   - Mick Fleetwood
+culture_g_score: 80
+culture_g_justification: "Groupe majeur du rock britannique, riche en questions sur Rumours, ses membres, ses tubes et ses changements de formation."
 ---
-
-
 ![Image de Fleetwood Mac](https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg)
 
 ###### Questions

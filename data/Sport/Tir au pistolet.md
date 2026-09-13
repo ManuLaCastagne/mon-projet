@@ -20,8 +20,9 @@ indice_6 :
   - Tir de précision
 questions:
  - En 2008, aux Jeux de Pékin, dans quel sport les médaillées russe et géorgienne ont-elles partagé une accolade alors que leur pays était en guerre?
+culture_g_score: 60
+culture_g_justification: "Discipline olympique classique permettant quelques questions sur les Jeux, les épreuves et les champions, sans être un thème majeur."
 ---
-
 ![Image de Tir au pistolet](https://upload.wikimedia.org/wikipedia/commons/c/ce/Atelier_de_tir_au_pistolet_%C3%A0_silex.jpg)
 
 ###### Questions

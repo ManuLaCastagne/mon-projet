@@ -20,10 +20,9 @@ indice_6 :
   - exilé après la Révolution de 1830
 questions:
  - Quel petit-fils de Louis XV fit un unique mariage avec Marie-Thérèse de Savoie ?
+culture_g_score: 71
+culture_g_justification: "Dernier Bourbon régnant en France, repère important de la Restauration et des Trois Glorieuses, sans être un sujet omniprésent."
 ---
-
-
-
 ![Image de Charles X](https://upload.wikimedia.org/wikipedia/commons/b/b0/Charles_X_%281757%E2%80%931836%29%2C_King_of_France%2C_after_G%C3%A9rard_MET_ep24.80.523.R.jpg)
 
 ###### Questions

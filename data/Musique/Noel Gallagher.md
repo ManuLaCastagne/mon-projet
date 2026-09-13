@@ -21,9 +21,9 @@ indice_5:
   - frère de Liam
 indice_6:
   - rock alternatif
+culture_g_score: 64
+culture_g_justification: "Membre central d’Oasis et auteur de nombreux tubes, mais principalement pertinent dans l’histoire du rock britannique des années 1990."
 ---
-
-
 ![Image de Noel Gallagher](https://upload.wikimedia.org/wikipedia/commons/6/6e/Noel_Gallagher_2019.jpg)
 
 ###### Questions

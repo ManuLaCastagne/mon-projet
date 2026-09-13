@@ -22,8 +22,9 @@ indice_6 :
   - Promesse à un ami
 questions:
  - En 2005, dans quel film Tommy Lee Jones se met-il en scène dans le rôle d'un homme enquêtant sur le meurtre d'un paysan mexicain?
+culture_g_score: 68
+culture_g_justification: "Film cannois important, exploitable via Tommy Lee Jones, Guillermo Arriaga, le western et ses récompenses."
 ---
-
 ![Image de Trois Enterrements](https://upload.wikimedia.org/wikipedia/commons/b/ba/Tommy_Lee_Jones_1_%287271615272%29.jpg)
 
 ###### Questions

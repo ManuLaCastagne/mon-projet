@@ -22,9 +22,9 @@ indice_6 :
   - Décédée tragiquement en hélicoptère
 questions:
  - En 1990, à quelle personnalité  du monde du sport, avec laquelle il chante en duo, Pierre Bachelet dédie-t-il le titre "Flo"?
+culture_g_score: 72
+culture_g_justification: "Navigatrice française emblématique, utile pour la voile, la Route du Rhum, les femmes dans le sport et la culture populaire."
 ---
-
-
 ![Image de Florence Arthaud](https://upload.wikimedia.org/wikipedia/commons/6/62/Florence_Arthaud_d%C3%A9dicace.JPG)
 
 ###### Questions

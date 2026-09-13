@@ -20,8 +20,9 @@ indice_6 :
   - a été emprisonné et s'est échappé pour finir sa vie en exil
 questions:
  - A quel marchand et financier du XVe siècle, argentier du roi Charles VII, associe-t-on la devise  "A coeur vaillant rien d'impossible"?
+culture_g_score: 60
+culture_g_justification: "Marchand et financier emblématique du règne de Charles VII, utile pour la Guerre de Cent Ans et l’histoire économique mais assez spécialisé."
 ---
-
 ![Image de Jacques Coeur](https://upload.wikimedia.org/wikipedia/commons/c/c2/Jacques_Coeur%2C_by_follower_of_Jean_Fouquet.jpg)
 
 ###### Questions

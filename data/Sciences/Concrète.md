@@ -5,5 +5,5 @@ culture_g_justification: "Terme de vocabulaire physico-chimique très précis, s
 
 ###### Questions 
 
-Par opposition à fluide, comment appelle-t-on une huile qui se solidifie à température ambiante ?
+Par opposition à fluide, comment appelle-t-on une huile qui se solidifie à température ambiante ? <!-- score: 7 -->
 

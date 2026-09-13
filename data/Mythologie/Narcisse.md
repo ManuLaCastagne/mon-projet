@@ -18,8 +18,9 @@ indice_6 :
   - rivage d'un lac
 questions:
  - Fils d'une nymphe à laquelle le devin Tirésias prédit que son enfant vivrait vieux s'il respecte l'interdit. Je finis par dépérir...
+culture_g_score: 88
+culture_g_justification: "Narcisse est un mythe extrêmement connu, rentable pour Ovide, Écho, la fleur et le concept psychologique de narcissisme."
 ---
-
 ![Image de Narcisse](https://upload.wikimedia.org/wikipedia/commons/d/d5/Saint-Narcisse_%28Qu%C3%A9bec%29-%C3%89glise-Chaire-2022-10-01.jpg)
 
 ###### Questions

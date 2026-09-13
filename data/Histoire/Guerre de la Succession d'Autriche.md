@@ -18,8 +18,9 @@ indice_5 :
   - guerre englobant plusieurs participants européens
 indice_6 : 
   - Traité d'Aix-la-Chapelle
+culture_g_score: 51
+culture_g_justification: "Guerre européenne significative autour de Marie-Thérèse et de la Silésie, mais moins fréquente et moins structurante que les grands conflits voisins."
 ---
-
 ![Image de guerre de la Succession d'Autriche](https://upload.wikimedia.org/wikipedia/commons/f/fc/Th%C3%A9%C3%A2tre_des_guerres_-_guerre_de_la_succession_d%27Autriche%2C_camp_d%27Oggersheim%2C_1744_-_Camp_d%27Ogersheim_le_28_juin_au_2_juillet_1744_-_btv1b84463232_%281_of_2%29.jpg)
 
 ###### Questions

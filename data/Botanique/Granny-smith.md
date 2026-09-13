@@ -13,8 +13,9 @@ indice_5:
   - Pomme verte
 indice_6:
   - Tartes et salades
+culture_g_score: 57
+culture_g_justification: "Variété de pomme mondialement reconnaissable et utile pour quelques questions d'agriculture, d'origine et de gastronomie."
 ---
-
 ![Image de Granny-smith](https://upload.wikimedia.org/wikipedia/commons/d/d7/Granny_smith_and_cross_section.jpg)
 
 ###### Questions

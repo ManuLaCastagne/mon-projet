@@ -20,9 +20,9 @@ indice_6 :
   - Genèse
 questions:
  - Dans la Bible, après le déluge,  quel patriarche envoie une colombe qui rapporte sur l'arche un rameau d'olivier, signe que les eaux ont reflué?
+culture_g_score: 97
+culture_g_justification: "Figure mondiale du Déluge et de l'arche, Noé est un incontournable des traditions abrahamiques, de la mythologie comparée et de l'art."
 ---
-
-
 ![Image de Noé](https://upload.wikimedia.org/wikipedia/commons/b/bd/Ville_de_No%C3%A9.JPG)
 
 ###### Questions

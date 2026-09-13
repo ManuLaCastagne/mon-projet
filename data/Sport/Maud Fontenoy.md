@@ -20,8 +20,9 @@ indice_6 :
   - Bateau à rames
 questions:
  - En 2005, quelle navigatrice française traverse l'océan Pacifique à la rame?
+culture_g_score: 51
+culture_g_justification: "Aventurière française associée à plusieurs traversées à la rame, mais ses exploits restent surtout cantonnés aux questions d’aventure."
 ---
-
 ![Image de Maud Fontenoy](https://upload.wikimedia.org/wikipedia/commons/e/ee/Maud_Fontenoy_2008.jpg)
 
 ###### Questions

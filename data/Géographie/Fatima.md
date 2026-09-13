@@ -22,8 +22,9 @@ indice_6 :
   - îles de Lérins
 questions:
  - Ville du Portugal  qui est un important lieu de pèlerinage depuis que 3 bergers affirmaient en 1917 y avoir vu la Vierge ?
+culture_g_score: 68
+culture_g_justification: "Lieu de pèlerinage catholique international, Fatima revient dans les questions sur les apparitions, le Portugal et l’histoire religieuse."
 ---
-
 ![Image de Fatima](https://upload.wikimedia.org/wikipedia/commons/7/7d/One_of_the_iwan_ceilings_of_Fatima_Masumeh_Shrine_in_atabki_sahn%2C_Qom%2C_Iran.jpg)
 
 ![[Carte_Fatima.png]]

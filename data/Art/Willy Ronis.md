@@ -23,8 +23,9 @@ indice_6 :
   - scènes de la vie quotidienne
 questions:
  - Quel photographe, disparu en 2009 à l'âge de 99 ans, a rendu hommage à Paris, sa ville natale, dans des ouvrages comme "Mon Paris"?
+culture_g_score: 51
+culture_g_justification: "Photographe humaniste français reconnu, mais ses œuvres et repères biographiques apparaissent relativement peu hors des quiz spécialisés."
 ---
-
 ![Image de Willy Ronis](https://upload.wikimedia.org/wikipedia/commons/4/4d/02-01-20_16-53-07-Willy-Ronis.jpg)
 
 ###### Questions

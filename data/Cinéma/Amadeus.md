@@ -22,8 +22,9 @@ indice_6 :
   - opéra
 questions:
  - En 1984, quel film de Milos Forman évoque la personnalité et la vie de Mozart, au cours du XVIIIe siècle?
+culture_g_score: 80
+culture_g_justification: "Film oscarisé et très classique, à la croisée du cinéma, de la musique, de l’histoire et de la figure de Mozart."
 ---
-
 ![Image de Amadeus](https://upload.wikimedia.org/wikipedia/commons/7/76/Amadeus_%28ship%2C_1910%29%2C_S%C3%A8te_cf01.jpg)
 
 ###### Questions
@@ -36,6 +37,6 @@ Quel film basé sur la pièce de [[Peter Shaffer]] explore la rivalité entre [[
 
 ###### Description
 
-Le film [[Amadeus]], réalisé par [[Milos Forman]] et sorti en 1984, est une adaptation de la pièce de théâtre éponyme de [[Peter Shaffer]]. Il met en lumière la rivalité musicale entre [[Wolfgang Amadeus Mozart]] et [[Antonio Salieri]] dans la Vienne du XVIIIe siècle, un thème qui a fasciné les cinéphiles et les amateurs d'histoire. Lauréat de huit Oscars, dont ceux du [[Meilleur Film]] et du [[Meilleur Réalisateur]], ce chef-d'œuvre a marqué l'industrie cinématographique par son interprétation mémorable de [[Mozart]] par [[Tom Hulce]] et celle de [[Salieri]] par [[F. Murray Abraham]], qui a également remporté l'[[Oscar du Meilleur Acteur]].
+Le film [[Amadeus]], réalisé par [[Milos Forman]] et sorti en 1984, est une adaptation de la pièce de théâtre éponyme de [[Peter Shaffer]]. Il met en lumière la rivalité musicale entre [[Wolfgang Amadeus Mozart]] et [[Antonio Salieri]] dans la Vienne du XVIIIe siècle, un thème qui a fasciné les cinéphiles et les amateurs d'histoire. Lauréat de huit Oscars, dont ceux du [[Meilleur Film]] et du [[Meilleur Réalisateur]], ce chef-d'œuvre a marqué l'industrie cinématographique par son interprétation mémorable de [[Wolfgang Amadeus Mozart]] par [[Tom Hulce]] et celle de [[Salieri]] par [[F. Murray Abraham]], qui a également remporté l'[[Oscar du Meilleur Acteur]].
 
-La musique dans [[Amadeus]], principalement composée par [[Mozart]] lui-même, joue un rôle central dans le récit et demeure une raison majeure de son succès, offrant au public moderne une immersion sans précédent dans le monde du grand compositeur.
+La musique dans [[Amadeus]], principalement composée par [[Wolfgang Amadeus Mozart]] lui-même, joue un rôle central dans le récit et demeure une raison majeure de son succès, offrant au public moderne une immersion sans précédent dans le monde du grand compositeur.

@@ -22,8 +22,9 @@ indice_6 :
   - danse en groupe
 questions:
  - Dans quel tube de 1991 Y.Noah évoque-t-il la danse appelée assiko et rend-il hommage aux footballeurs camerounais des Lions Indomptables?
+culture_g_score: 52
+culture_g_justification: "« Saga Africa » est un tube francophone très identifiable, mais l’apprentissage reste principalement lié à une chanson et à son interprète."
 ---
-
 ![Image de Saga Africa](https://upload.wikimedia.org/wikipedia/commons/e/ea/DLM_Saga_Gorou_2.jpg)
 
 ###### Questions

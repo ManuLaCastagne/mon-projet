@@ -20,9 +20,9 @@ indice_5 :
   - acteur américain
 indice_6 : 
   - Avengers
+culture_g_score: 93
+culture_g_justification: "Vedette mondiale grâce à Iron Man et Marvel, mais aussi intéressante pour Chaplin, sa carrière et son retour au premier plan."
 ---
-
-
 ![Image de Robert Downey Jr](https://upload.wikimedia.org/wikipedia/commons/9/94/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg)
 
 ###### Questions

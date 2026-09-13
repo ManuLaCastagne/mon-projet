@@ -22,8 +22,9 @@ indice_6 :
   - personnages complexes et intrigues
 questions:
  - Drame de Luis Bunuel, avec Jeanne Moreau…
+culture_g_score: 52
+culture_g_justification: "Les adaptations de Journal d'une femme de chambre permettent des liens avec Buñuel et la littérature, mais le titre reste une question relativement spécialisée."
 ---
-
 ![Image de Journal d'une femme de chambre](https://upload.wikimedia.org/wikipedia/commons/e/ea/191_Journal_d%27une_femme_de_chambre_Fr.jpg)
 
 ###### Questions

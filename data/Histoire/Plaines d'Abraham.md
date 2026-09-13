@@ -20,8 +20,9 @@ indice_6 :
   - conquête britannique
 questions:
  - En 1759, quelle bataille qui marqua la fin de la domination française au Canada vit périr les Français ?
+culture_g_score: 64
+culture_g_justification: "Site associé à une bataille décisive de la guerre de Sept Ans, utile pour l’histoire franco-britannique et du Québec, mais de portée limitée."
 ---
-
 ![Image de Plaines d'Abraham](https://upload.wikimedia.org/wikipedia/commons/b/b0/Plaines_d%27Abraham%2C_pr%C3%A8s_de_Qu%C3%A9bec.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5 :
   - Christianisme médiéval
 indice_6 : 
   - Patrimoine mondial de l'UNESCO
+culture_g_score: 40
+culture_g_justification: "Petite ville surtout connue comme lieu associé au Livre de Kells, la notoriété de la ville restant inférieure à celle du manuscrit."
 ---
-
 ![[Carte_Kells.png]]
 
 ###### Questions

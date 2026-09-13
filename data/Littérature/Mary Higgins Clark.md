@@ -22,8 +22,9 @@ indice_6 :
   - Elle a reçu de nombreux prix littéraires
 questions:
  - En 2014, dans "Le Bleu de tes yeux", quelle reine du suspense américaine raconte...
+culture_g_score: 60
+culture_g_justification: "Reine populaire du suspense, identifiable par ses best-sellers et son succès commercial, mais d’importance culturelle limitée."
 ---
-
 ![Image de Mary Higgins Clark](https://upload.wikimedia.org/wikipedia/commons/f/fa/Mary_Higgins_Clark_%2810649%29.jpg)
 
 ###### Questions

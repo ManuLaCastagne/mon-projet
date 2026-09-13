@@ -22,8 +22,9 @@ indice_6 :
   - chanson sur une île tropicale
 questions:
  - Quel musique espagnole de Madonna sortie en single en 1987 est samplé sur "Mamacita" des Black Eyed Peas ?
+culture_g_score: 73
+culture_g_justification: "Tube international de Madonna, exploitable pour la pop, les classements, l’album True Blue et les influences latines."
 ---
-
 ![Image de La Isla Bonita](https://upload.wikimedia.org/wikipedia/commons/c/cc/Madonna-la-isla-bonita-sire-4.jpg)
 
 ###### Questions

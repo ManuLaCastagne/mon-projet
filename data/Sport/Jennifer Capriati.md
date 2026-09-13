@@ -20,9 +20,9 @@ indice_6 :
   - Come-back 2001
 questions:
  - En 2001, quelle joueuse de tennis américaine, ayant arrêté sa carrière de 93 à 96, remporte l'Open d'Australie...
+culture_g_score: 60
+culture_g_justification: "Ses débuts précoces, son titre olympique et ses Grands Chelems fournissent plusieurs questions classiques de tennis."
 ---
-
-
 ![Image de Jennifer Capriati](https://upload.wikimedia.org/wikipedia/commons/6/6f/Jennifer_Capriati_Wimbledon_2004.jpg)
 
 ###### Questions

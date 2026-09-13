@@ -15,8 +15,9 @@ indice_6 :
   - Consommation humaine et animale
 questions:
  - En botanique, quel nom donne-t-on à la gousse renfermant les graines de certaines légumineuses...
+culture_g_score: 36
+culture_g_justification: "Le terme désigne surtout une enveloppe végétale ou la fève dans ce contexte, avec quelques usages culinaires mais peu d’angles."
 ---
-
 ![Image de Cosse](https://upload.wikimedia.org/wikipedia/commons/d/de/J%C3%BCrgen_Cosse_%282021%29.jpg)
 
 ###### Questions

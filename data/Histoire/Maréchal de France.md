@@ -20,8 +20,9 @@ indice_6 :
   - Charles de Gaulle
 questions:
  - Dignité d'Etat instituée par Philippe II Auguste en 1185, j'étais occupé par un corps de 20 personnes sous Louis XIV.
+culture_g_score: 72
+culture_g_justification: "Grade majeur de l’histoire militaire française, utile pour de nombreux maréchaux et épisodes des guerres contemporaines."
 ---
-
 ![Image de Maréchal de France](https://upload.wikimedia.org/wikipedia/commons/e/ec/Quai_Mar%C3%A9chal_de_Lattre_de_Tassigny%2C_S%C3%A8te_02.jpg)
 
 ###### Questions

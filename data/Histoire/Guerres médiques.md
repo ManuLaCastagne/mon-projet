@@ -20,8 +20,9 @@ indice_6 :
   - Victoire grecque déterminante
 questions:
  - Comment nomme-t-on les guerres ayant opposé les Grecs à l'Empire perse au cours du Ve siècle avant notre ère?
+culture_g_score: 83
+culture_g_justification: "Ensemble de conflits très rentable grâce à Marathon, Thermopyles, Salamine, Athènes, Sparte et aux guerres médiques contre la Perse."
 ---
-
 ![Image de Guerres médiques](https://upload.wikimedia.org/wikipedia/commons/6/64/Map_Greco-Persian_Wars-ar.png)
 
 ###### Questions

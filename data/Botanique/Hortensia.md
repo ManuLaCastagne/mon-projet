@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale dans les jardins
 questions:
  - Quel arbrisseau du genre hydrangea, donne de grosses fleurs...
+culture_g_score: 48
+culture_g_justification: "Arbuste ornemental connu du public, mais offrant peu d’angles de questions réellement classiques."
 ---
-
 ![Image de Hortensia](https://upload.wikimedia.org/wikipedia/commons/f/f4/Hortensia-1.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Père de Jacob et Ésaü
 questions:
  - Dans la Genèse, à quel fils unique d'Abraham, qui devait être sacrifié ?
+culture_g_score: 72
+culture_g_justification: "Patriarche biblique commun aux traditions abrahamiques, relié à Abraham, Jacob, Ésaü et au sacrifice évité."
 ---
-
 ![Image de Isaac](https://upload.wikimedia.org/wikipedia/commons/4/49/Mus%C3%A9e_Unterlinden_-_chapiteau_de_l%27%C3%A9glise_abbatiale_d%27Alspach_-_les_Justes_dans_le_sein_d%27Abraham_%28XIIe_si%C3%A8cle%29.jpg)
 
 ###### Questions

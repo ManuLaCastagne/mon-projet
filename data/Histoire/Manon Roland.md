@@ -20,9 +20,9 @@ indice_6 :
   - exécutée en 1793
 questions:
  - En 1793, quelle femme politique aurait dit devant l'échafaud   "O liberté, que de crimes on commet en ton nom !"
+culture_g_score: 60
+culture_g_justification: "Personnalité notable des Girondins et de la Révolution, surtout interrogée à travers son salon et sa citation célèbre."
 ---
-
-
 ![Image de Manon Roland](https://upload.wikimedia.org/wikipedia/commons/5/57/Mme_Roland%2C_1772.png)
 
 ###### Questions

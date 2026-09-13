@@ -20,8 +20,9 @@ indice_5:
   - résistant pendant la Seconde Guerre mondiale
 indice_6:
   - Grands Prix Goncourt
+culture_g_score: 87
+culture_g_justification: "Malraux relie littérature, guerre, politique, art, archéologie et gaullisme, ce qui en fait une référence très transversale."
 ---
-
 ![Image de André Malraux](https://upload.wikimedia.org/wikipedia/commons/e/e9/Andr%C3%A9_Malraux%2C_Pic%2C_22.jpg)
 
 ###### Questions

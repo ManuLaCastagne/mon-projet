@@ -22,9 +22,9 @@ indice_6 :
   - Bam Bam
 questions:
  - En 2019, quelle chanteuse cubano-américaine collabore avec Shawn Mendes pour interpréter "Senorita", avant de former un couple avec lui dans la vie?
+culture_g_score: 73
+culture_g_justification: "Chanteuse pop largement connue grâce à Fifth Harmony, Havana et plusieurs collaborations, avec une fréquence de quiz notable mais une importance historique limitée."
 ---
-
-
 ![Image de Camilla Cabello](https://upload.wikimedia.org/wikipedia/commons/2/25/Camila_Cabello_Grammys_2017.png)
 
 ###### Questions

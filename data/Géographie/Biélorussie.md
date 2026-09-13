@@ -24,8 +24,9 @@ indice_6 :
   - langue biélorusse
 questions:
  - Bordé au sud par les marais de Polésie, arrosé par les fleuves Niémen et Dniepr, je suis...
+culture_g_score: 60
+culture_g_justification: "Pays européen associé à Loukachenko, à l’espace post-soviétique et à la géopolitique régionale, la Biélorussie est assez classique."
 ---
-
 ![Image de Biélorussie](https://upload.wikimedia.org/wikipedia/commons/8/88/Satellite_image_of_Belarus_in_December_2002.jpg)
 
 ![[Carte_Biélorussie.png]]

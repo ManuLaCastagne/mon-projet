@@ -18,8 +18,9 @@ indice_5 :
   - série télévisée
 indice_6 : 
   - tenue étoilée
+culture_g_score: 64
+culture_g_justification: "Actrice durablement associée à Wonder Woman, référence de la culture super-héroïque et de la télévision américaine classique."
 ---
-
 ![Image de Lynda Carter](https://upload.wikimedia.org/wikipedia/commons/4/48/Lynda_Carter2.jpg)
 
 ###### Questions

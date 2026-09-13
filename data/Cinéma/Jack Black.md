@@ -22,8 +22,9 @@ indice_6 :
   - Tropic Thunder
 questions:
  - En 2005, dans le "King Kong" de Peter Jackson, quel acteur incarne le réalisateur Carl Denham, qui désire tourner sur la mystérieuse île Skull Island ?
+culture_g_score: 76
+culture_g_justification: "Acteur très identifiable par ses comédies, Kung Fu Panda, School of Rock et son activité musicale avec Tenacious D."
 ---
-
 ![Image de Jack Black](https://upload.wikimedia.org/wikipedia/commons/e/ee/Jack_Black_-_Your_Actions_Save_Lives.ogv)
 
 ###### Questions

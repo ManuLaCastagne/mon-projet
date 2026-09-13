@@ -18,8 +18,9 @@ indice_5 :
   - Rover
 indice_6 : 
   - Je ne suis pas un numéro, je suis un homme libre !
+culture_g_score: 80
+culture_g_justification: "Série britannique culte et intellectuellement marquante, fréquemment mobilisée pour ses thèmes, son univers et son personnage Numéro 6."
 ---
-
 ![Image de Le Prisonnier](https://upload.wikimedia.org/wikipedia/commons/6/6f/Le_prisonnier_de_Chillon_%28BM_1880%2C0710.53%29.jpg)
 
 ###### Questions

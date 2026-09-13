@@ -21,8 +21,9 @@ indice_5:
   - Scènes religieuses
 indice_6:
   - Couleurs vives
+culture_g_score: 47
+culture_g_justification: "Jordaens est un peintre baroque flamand significatif, mais nettement moins fréquent que Rubens ou Van Dyck."
 ---
-
 ![Image de Jacob Jordaens](https://upload.wikimedia.org/wikipedia/commons/1/19/P%C3%AAche_miraculeuse_-_Jacob_Jordaens.jpg)
 
 ###### Questions

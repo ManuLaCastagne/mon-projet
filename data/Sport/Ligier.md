@@ -18,12 +18,9 @@ indice_5 :
   - Grand Prix de Formule 1
 indice_6 : 
   - Ligier JS P2
+culture_g_score: 64
+culture_g_justification: "Constructeur français lié à la F1, aux 24 Heures du Mans et à l’automobile sans atteindre la fréquence des marques dominantes."
 ---
-
-
-
-
-
 ![Image de Ligier](https://upload.wikimedia.org/wikipedia/commons/1/11/Ligier-logo-1920x1080.png)
 
 ###### Questions

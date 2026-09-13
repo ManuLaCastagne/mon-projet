@@ -20,8 +20,9 @@ indice_6 :
   - Grandes Jorasses
 questions:
  - Le titre de son livre est beau. "Danseuse de roc". J'ai ouvert en 1991 une voie dans la face sud-ouest des Drus qui porte désormais mon nom  dans le Mont-Blanc. Seule femme ayant vaincu en solitaire et en hiver les sommets alpins de l'Eiger, du Cervin,  des Grandes Jorasses ?
+culture_g_score: 52
+culture_g_justification: "Catherine Destivelle est une figure importante de l’alpinisme français, mais ses questions restent principalement sportives et spécialisées."
 ---
-
 ![Image de Catherine Destivelle](https://upload.wikimedia.org/wikipedia/commons/6/65/Catherine_Destivelle_in_Meteora.jpg)
 
 ###### Questions

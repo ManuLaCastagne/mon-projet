@@ -22,10 +22,9 @@ indice_6 :
   - livre de Roberto Saviano
 questions:
  - En 2008, quel film de Matteo Garrone raconte la Camorra au sein de la Campanie ?
+culture_g_score: 64
+culture_g_justification: "Œuvre importante sur la Camorra et le crime organisé italien, mais d’usage plus spécialisé dans les quiz de cinéma."
 ---
-
-
-
 ![Image de Gommora](https://upload.wikimedia.org/wikipedia/commons/3/33/Il_Paese_-_giornale_della_Democrazia_friulana_n._37_%281911%29_%28IA_IlPaese-37-1911%29.pdf)
 
 ###### Questions

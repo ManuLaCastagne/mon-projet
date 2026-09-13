@@ -24,8 +24,9 @@ indice_6 :
   - Vieux-Port
 questions:
  - Avenue d'une ville française,  j'ai été tracée sur le parcours d'un ruisseau, le Jarret. Devenant au XVIIIe siècle une promenade où se retrouve la bonne société, je connais mon âge d'or au Culture_G/XIXe siècle avec mes grands magasins, cafés et hôtels prestigieux.
+culture_g_score: 56
+culture_g_justification: "Artère emblématique de Marseille, assez classique en géographie urbaine et culture française mais limitée à quelques repères."
 ---
-
 ![Image de Canebière](https://upload.wikimedia.org/wikipedia/commons/7/7d/Canebi%C3%A8re_-_Marseille_I_%28FR13%29_-_2023-07-22_-_1.jpg)
 
 ![[Carte_Canebière.png]]

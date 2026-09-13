@@ -20,8 +20,9 @@ indice_6 :
   - Exploration martienne
 questions:
  - En 2013, quel robot lancé par la NASA a démontré que le sol martien a autrefois constitué un milieu habitable pour les micro-organismes ?
+culture_g_score: 77
+culture_g_justification: "Rover martien très connu, régulièrement mobilisé dans les quiz sur l’espace, la NASA et l’exploration planétaire."
 ---
-
 ![Image de Curiosity](https://upload.wikimedia.org/wikipedia/commons/d/de/Curiosity_-_Robot_Geologist_and_Chemist_in_One%21.jpg)
 
 ###### Questions

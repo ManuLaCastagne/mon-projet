@@ -22,10 +22,9 @@ indice_6 :
   - parodie de héros
 questions:
  - Dans quelle BD un voisin hargneux est nommé Hilarion Lefuneste ?
+culture_g_score: 56
+culture_g_justification: "Personnage classique de la bande dessinée franco-belge, utile pour Greg et Pilote, mais à portée culturelle relativement circonscrite."
 ---
-
-
-
 ![Image de Achille Talon](https://upload.wikimedia.org/wikipedia/commons/7/71/Fr-talon-Achille.ogg)
 
 ###### Questions

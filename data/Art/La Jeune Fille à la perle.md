@@ -23,8 +23,9 @@ indice_6 :
   - perle accrochée à son oreille
 questions:
  - Quel célèbre tableau de Johannes Vermeer, réalisé vers 1662...
+culture_g_score: 92
+culture_g_justification: "Tableau mondialement identifiable, La Jeune Fille à la perle revient très souvent via Vermeer, le cinéma, la littérature et les musées."
 ---
-
 ![Image de La Jeune Fille à la perle](https://upload.wikimedia.org/wikipedia/commons/e/ee/La_jeune_fille_%C3%A0_la_perle_-_Vermeer_-_d%C3%A9tail_de_la_perle.png)
 
 ###### Questions

@@ -13,6 +13,8 @@ indice_5:
   - Roi des arbres
 indice_6:
   - Fabrication de meubles
+culture_g_score: 51
+culture_g_justification: "Bois tropical connu en ébénisterie et en construction navale, mais généralement limité à des questions de matériaux."
 ---
 ![[Pasted image 20250419180839.png]]
 ###### Questions

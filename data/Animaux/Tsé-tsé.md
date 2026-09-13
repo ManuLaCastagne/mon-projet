@@ -15,8 +15,9 @@ indice_6 :
   - Transmission de la maladie du sommeil
 questions:
  - Quelle mouche africaine du genre glossine est connue par certaines de ses espèces qui propagent la maladie du sommeil?
+culture_g_score: 77
+culture_g_justification: "La mouche tsé-tsé est une référence sanitaire classique, directement liée à l'Afrique, à la maladie du sommeil et aux parasites."
 ---
-
 ![Image de Tsé-tsé](https://upload.wikimedia.org/wikipedia/commons/5/58/La_Mosca_Ts%C3%A9_Ts%C3%A9_logo.png)
 
 ###### Questions

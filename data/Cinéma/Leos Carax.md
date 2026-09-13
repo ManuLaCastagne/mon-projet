@@ -22,9 +22,9 @@ indice_6 :
   - Annette avec Adam Driver et Marion Cotillard
 questions:
  - A quel réalisateur français  doit-on le film "Holly Motors", "Les Amants du Pont-Neuf" le film maudit avec des retards, "Mauvais Sang", et "Boy Meets Girl" avec Juliette Binoche ?
+culture_g_score: 52
+culture_g_justification: "Réalisateur français reconnu des cinéphiles, mais sa filmographie expérimentale reste peu fréquente dans les quiz généralistes."
 ---
-
-
 ![Image de Leos Carax](https://upload.wikimedia.org/wikipedia/commons/f/f0/Leos_Carax_Cannes_2012.jpg)
 
 ###### Questions

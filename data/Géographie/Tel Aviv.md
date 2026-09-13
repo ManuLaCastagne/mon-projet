@@ -21,9 +21,9 @@ indice_5 :
   - Musée d'Art de Tel Aviv
 indice_6 : 
   - Boulevard Rothschild
+culture_g_score: 67
+culture_g_justification: "Ville israélienne connue pour la technologie, le Bauhaus, la vie culturelle et la géopolitique, sans être un repère historique central."
 ---
-
-
 ![[Carte_Tel Aviv.png]]
 
 ###### Questions

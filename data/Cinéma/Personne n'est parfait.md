@@ -22,8 +22,9 @@ indice_6 :
   - Gaffes de tournage
 questions:
  - Dans le film "Certains l'aiment chaud", en réponse à la phrase  "Je suis un homme" prononcée par Jack Lemmon, quelle réplique emblématique constitue la dernière phrase du film?
+culture_g_score: 61
+culture_g_justification: "Réplique finale emblématique de Certains l'aiment chaud, souvent citée, mais correspondant surtout à un fait cinématographique précis."
 ---
-
 ![Image de Personne n'est parfait](https://upload.wikimedia.org/wikipedia/commons/a/af/Gautier_Parfait_-_La_Juive_de_Constantine.djvu)
 
 ###### Questions

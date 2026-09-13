@@ -20,9 +20,9 @@ indice_6 :
   - Chorégraphie
 questions:
  - Quel patineur artistique né à Poitiers en 1984 a été sacré trois fois champion d'Europe et une fois champion du monde ?
+culture_g_score: 57
+culture_g_justification: "Champion français de patinage artistique identifiable par son titre mondial, mais à la portée surtout nationale et spécialisée."
 ---
-
-
 ![Image de Brian Joubert](https://upload.wikimedia.org/wikipedia/commons/2/2a/Jielbeaumadier_Joubert_Pechalat_Bourzat_Amodio_WFSC_Nice_2012.jpg)
 
 ###### Questions

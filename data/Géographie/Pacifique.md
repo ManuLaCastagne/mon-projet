@@ -24,9 +24,9 @@ indice_6 :
   - Micronésie
 questions:
  - Dans quel océan le point Nemo...
+culture_g_score: 100
+culture_g_justification: "Le plus vaste océan est un marronnier exceptionnel reliant géographie, exploration, climat, biodiversité, îles et grands reliefs sous-marins."
 ---
-
-
 ![Image de Pacifique](https://upload.wikimedia.org/wikipedia/commons/4/48/Pacifique_de_Valigny.jpg)
 
 ![[Carte_Pacifique.png]]

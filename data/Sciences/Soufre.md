@@ -18,8 +18,9 @@ indice_5 :
   - Pierre de combustion
 indice_6 : 
   - Vulcanisation
+culture_g_score: 72
+culture_g_justification: "Élément ancien et bien connu, utile pour des questions variées de chimie, de volcanologie, d'agriculture, d'industrie et d'environnement."
 ---
-
 ![Image de Soufre](https://upload.wikimedia.org/wikipedia/commons/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg)
 
 ###### Questions

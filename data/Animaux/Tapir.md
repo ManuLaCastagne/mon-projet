@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la forêt tropicale
 questions:
  - Quel mammifère ongulé, désigné par un mot tupi, est doté d'une courte trompe avec laquelle il porte à sa bouche les végétaux dont il se nourrit ?
+culture_g_score: 60
+culture_g_justification: "Le tapir est un animal emblématique des quiz de zoologie et de conservation, avec quelques repères géographiques et évolutifs rentables."
 ---
-
 ![Image de Tapir](https://upload.wikimedia.org/wikipedia/commons/6/6c/Tapiridae.png)
 
 ###### Questions

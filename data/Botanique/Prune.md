@@ -13,8 +13,9 @@ indice_5:
   - Drupe
 indice_6:
   - Utilisée en confiture ou séchée comme fruit sec
+culture_g_score: 64
+culture_g_justification: "Fruit très connu offrant des liens avec la cuisine, les variétés et l'origine de la couleur prune, avec une fréquence moyenne."
 ---
-
 ![Image de Prune](https://upload.wikimedia.org/wikipedia/commons/9/97/Rosales_-_Dried_Prunus_domestica_d.jpg)
 
 ###### Questions

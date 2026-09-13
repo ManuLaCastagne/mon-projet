@@ -22,8 +22,9 @@ indice_6 :
   - exil
 questions:
  - Quelle chanteuse sud-africaine, disparue en 2008, s'est fait connaître dans le monde entier avec le tube "Pata Pata", à l'origine interprété en zoulou?
+culture_g_score: 72
+culture_g_justification: "« Mama Africa » permet des questions sur la musique africaine, l’apartheid, les droits civiques et la world music."
 ---
-
 ![Image de Miriam Makeba](https://upload.wikimedia.org/wikipedia/commons/3/3d/Miriam_makeba_01.jpg)
 
 ###### Questions

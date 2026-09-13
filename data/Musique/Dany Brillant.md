@@ -22,8 +22,9 @@ indice_6 :
   - Paris
 questions:
  - En 2007, quel chanteur français reprend "Histoire d'un amour" sur son album consacré aux danses de couple?
+culture_g_score: 55
+culture_g_justification: "Chanteur français identifiable par «Suzette» et ses influences rétro, mais d’importance et de fréquence limitées dans la culture générale."
 ---
-
 ![Image de Dany Brillant](https://upload.wikimedia.org/wikipedia/commons/8/89/Dany_Brillant_2012.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - œuvre majeure Le Cornet à dés
 questions:
  - Ecrivain, auteur du "Laboratoire central", Pablo Picasso était ami ?
+culture_g_score: 55
+culture_g_justification: "Poète et artiste lié à Picasso, au cubisme, à Montparnasse et à la persécution des Juifs, mais moins fréquent que les grandes figures littéraires."
 ---
-
 ![Image de Max Jacob](https://upload.wikimedia.org/wikipedia/commons/7/7b/Jacob%2C_Max_%281876-1944%29_-_1934_-_Foto_Carl_van_Vechten%2C_Library_of_Congress.jpg)
 
 ###### Questions

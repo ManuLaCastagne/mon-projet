@@ -20,8 +20,9 @@ indice_6 :
   - Calendrier chargé
 questions:
  - Par quel anglicisme désigne-t-on la journée du Championnat de foot anglais se déroulant le 26 décembre, en référence à une tradition de Noël?
+culture_g_score: 64
+culture_g_justification: "Tradition britannique connue reliant calendrier, société, commerce et football, mais moins incontournable que les grandes fêtes et événements sportifs."
 ---
-
 ![Image de Boxing Day](https://upload.wikimedia.org/wikipedia/commons/6/6e/Boxing_Day_countries.png)
 
 ###### Questions

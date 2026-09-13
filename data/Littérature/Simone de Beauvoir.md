@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Publiant dans les années 40 les romans "L'Invitée", "Le Sang des autres", je sors en 1954 "Les Mandarins" qui sera couronné par le prix Goncourt.  Philosophe théoricienne du féminisme auteure de la phrase "On ne naît pas femme, on le devient" dans "Le Deuxième Sexe", je suis...
  - En 1929, alors que Jean-Paul Sartre est reçu 1er à l'agrégation de philosophie, quelle femme de lettres finissa derrière lui, surnommée "Le Castor" ?
+culture_g_score: 100
+culture_g_justification: "Figure centrale de la littérature, de la philosophie et du féminisme, associée à Sartre et au Deuxième Sexe."
 ---
-
 ![Image de Simone de Beauvoir](https://upload.wikimedia.org/wikipedia/commons/c/c1/Simone_de_Beauvoir2.png)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Herbe de Saint-Guillaume
 indice_6:
   - Utilisée en phytothérapie pour ses propriétés anti-inflammatoires et digestives
+culture_g_score: 20
+culture_g_justification: "Herbacée médicinale peu connue, susceptible d’une question de botanique mais d’un rendement d’apprentissage très faible."
 ---
-
 ![Image de Aigremoine](https://upload.wikimedia.org/wikipedia/commons/5/5e/Agrimonia_eupatoria_kz03.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Hakama
 questions:
  - Quel est cet art martial japonais développé dans les années 30 et  basé sur des mouvements de défense ?
+culture_g_score: 60
+culture_g_justification: "Art martial japonais connu et associé à une philosophie distinctive, mais moins fréquent et moins compétitif que le judo ou le karaté."
 ---
-
 ![Image de Aïkido](https://upload.wikimedia.org/wikipedia/commons/e/e3/Shihonage.jpg)
 
 ###### Questions

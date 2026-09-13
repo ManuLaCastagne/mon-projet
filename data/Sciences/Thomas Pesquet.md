@@ -20,8 +20,9 @@ indice_6 :
   - Spationaute français
 questions:
  - Quel spationaute est devenu le 10e Français à partir dans l'espace en décollant de Baïkonour en novembre 2016 ?
+culture_g_score: 73
+culture_g_justification: "Astronaute français très médiatisé et régulièrement interrogé, avec des repères faciles à réutiliser sur l'ISS et l'exploration spatiale."
 ---
-
 ![Image de Thomas Pesquet](https://upload.wikimedia.org/wikipedia/commons/8/83/Thomas_Pesquet%2C_official_portrait_%282%29.jpg)
 
 ###### Questions

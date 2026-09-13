@@ -22,8 +22,9 @@ indice_6 :
   - Sada Abe
 questions:
  - En 1976, quel film japonais d'Oshima a été censuré avec la passion d'un homme et d'une servante à Tokyo ?
+culture_g_score: 60
+culture_g_justification: "Film marquant du cinéma japonais et de la censure, mais sa notoriété repose surtout sur un sujet cinéphile et controversé."
 ---
-
 ![Image de L'Empire des Sens](https://upload.wikimedia.org/wikipedia/commons/5/5e/D%C3%A9crets_des_sens_sanctionn%C3%A9s_par_la_volupt%C3%A9%2C_1793.djvu)
 
 ###### Questions

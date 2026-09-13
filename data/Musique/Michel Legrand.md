@@ -22,8 +22,9 @@ indice_6 :
   - collaborations avec Jacques Demy
 questions:
  - Auteur de la musique des films "Les parapluies de Cherbourg" et "Peau d'Ane", disparu en 2019, il n'y a pas longtemps, je suis…
+culture_g_score: 80
+culture_g_justification: "Compositeur, arrangeur et figure majeure de la musique de film, relié à des œuvres françaises et à plusieurs récompenses internationales."
 ---
-
 ![Image de Michel Legrand](https://upload.wikimedia.org/wikipedia/commons/7/7a/Michel_Legrand_Cabourg_2015.jpg)
 
 Questions

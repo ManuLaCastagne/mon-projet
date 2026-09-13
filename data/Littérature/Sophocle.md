@@ -22,8 +22,9 @@ indice_6 :
   - Jocaste
 questions:
  - A quel poète tragique grec doit-on l'adaptation du mythe d'Œdipe dans la pièce "Œdipe roi" ?
+culture_g_score: 84
+culture_g_justification: "L’un des trois grands tragiques grecs, directement associé à Antigone, Œdipe Roi et à l’histoire du théâtre."
 ---
-
 ![Image de Sophocle](https://upload.wikimedia.org/wikipedia/commons/1/19/Sophocles_pushkin.jpg)
 
 ###### Questions

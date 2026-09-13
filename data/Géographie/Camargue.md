@@ -24,8 +24,9 @@ indice_6 :
   - Parc naturel régional
 questions:
  - Dans quelle région française retrouve-t-on des taureaux ?
+culture_g_score: 80
+culture_g_justification: "Territoire emblématique de la géographie française, mobilisable via le Rhône, la biodiversité, les flamants, les chevaux et la culture provençale."
 ---
-
 ![Image de Camargue](https://upload.wikimedia.org/wikipedia/commons/8/82/017_Greater_flamingo_drinking_in_the_Camargue_Photo_by_Giles_Laurent.jpg)
 
 ![[Carte_Camargue.png]]

@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé en phytothérapie contre la toux
 questions:
  - Quelle plante herbacée, devant son nom au latin "senex", produit des aigrettes d'un blanc duveteux qui évoquent la chevelure d'un vieillard ?
+culture_g_score: 32
+culture_g_justification: "Genre botanique assez vaste mais peu identifié par le grand public, malgré quelques questions sur sa toxicité."
 ---
-
 ![Image de Séneçon](https://upload.wikimedia.org/wikipedia/commons/1/19/Senecio_vulgaris_kz10.jpg)
 
 ###### Questions

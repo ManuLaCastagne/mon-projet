@@ -22,8 +22,9 @@ indice_6 :
   - Paris des années 30
 questions:
  - En 1978, dans quel film de Claude Chabrol, Isabelle Huppert est-elle une jeune femme acccusée de parricide ?
+culture_g_score: 60
+culture_g_justification: "Film de Chabrol fondé sur une affaire criminelle célèbre, utile par Huppert, le fait divers et le cinéma français, mais de portée limitée."
 ---
-
 ![Image de Violette Nozière](https://upload.wikimedia.org/wikipedia/commons/6/64/Violette_Nozi%C3%A8re_%281915-1966%29_%28A05%29.jpg)
 
 ###### Questions

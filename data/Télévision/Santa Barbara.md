@@ -20,8 +20,9 @@ indice_6 :
   - relations amoureuses complexes
 questions:
  - Dans le générique de quelle série télévisée avec Robin Wright pose-t-on la question   "Qui me dira pourquoi j'ai le mal de vivre?" ?
+culture_g_score: 47
+culture_g_justification: "Feuilleton américain emblématique de la télévision quotidienne, mais aujourd’hui assez secondaire dans les quiz généralistes."
 ---
-
 ![Image de Santa Barbara](https://upload.wikimedia.org/wikipedia/commons/5/5e/Santa_Barbara_2012_7.jpg)
 
 ###### Questions

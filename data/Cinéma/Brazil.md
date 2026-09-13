@@ -18,8 +18,9 @@ indice_5:
   - Ministère des Informations
 indice_6:
   - Dystopie bureaucratique
+culture_g_score: 71
+culture_g_justification: "Film dystopique culte de Terry Gilliam, pertinent pour le cinéma, l’univers kafkaïen et les conflits de production, mais moins fréquent que les classiques absolus."
 ---
-
 ###### Questions
 
 Dans quel film de [[Terry Gilliam]], sorti en [[1985]], un employé de bureau fait des escapades dans ses rêves pour échapper à une société dystopique?

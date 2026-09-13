@@ -22,8 +22,9 @@ indice_6 :
   - Nagini
 questions:
  - Dans "Harry Potter et les reliques de la mort", quels objets maléfiques au nombre de sept contenant l'âme de Voldemort…
+culture_g_score: 73
+culture_g_justification: "Notion centrale de Harry Potter, fréquemment mobilisée dans les quiz de culture populaire et rentable pour comprendre la saga."
 ---
-
 ![Image de Horcruxes](https://upload.wikimedia.org/wikipedia/commons/4/49/Tom_Riddle%27s_Diary.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - succède au NKVD
 questions:
  - Organisme étranger créé  en mars 1954, j'avais les troupes frontalières sous ma responsabilité et contrôlais les autorisations d'emplois et de voyages.  Luttant également contre ceux qui étaient considérés comme des dissidents, j'étais chargé du renseignement et du contre-espionnage...
+culture_g_score: 100
+culture_g_justification: "Le KGB est une référence incontournable de la guerre froide, de l’espionnage, de l’URSS, de la sécurité d’État et des relations internationales."
 ---
-
 ![Image de KGB](https://upload.wikimedia.org/wikipedia/commons/5/5e/KGB_Espionage_Museum_logo.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Île Verte
 questions:
  - est restée célèbre pour le court-métrage des frères Lumière...
+culture_g_score: 60
+culture_g_justification: "La Ciotat est une référence utile pour les débuts du cinéma et l’histoire industrielle des chantiers navals, sans être omniprésente."
 ---
-
 ![[Carte_La Ciotat 1.png]]
 
 ###### Questions

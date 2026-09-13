@@ -22,8 +22,9 @@ indice_6 :
   - cordes frottées
 questions:
  - Qu'est-ce qu'on attend pour être heureux?, Paul Misraki. ...  Tout le monde a reconnu cet air. C'est "Qu'est-ce qu'on attend pour être heureux?", composé par P.Misraki. Quel célèbre violoniste de jazz français...
+culture_g_score: 80
+culture_g_justification: "Grappelli est une référence majeure du jazz français, associée à Django Reinhardt, au Quintette du Hot Club de France et au violon jazz."
 ---
-
 ![Image de Stéphane Grappelli](https://upload.wikimedia.org/wikipedia/commons/8/8a/Stephane_Grappelli_Allan_Warren.jpg)
 
 ###### Questions

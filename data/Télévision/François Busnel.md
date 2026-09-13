@@ -20,8 +20,9 @@ indice_6 :
   - connu pour ses interviews d'écrivains
 questions:
  - Depuis 2008, quel ancien directeur de la rédaction du magazine "Lire" présente "La grande librairie" sur France 5?
+culture_g_score: 60
+culture_g_justification: "Animateur littéraire bien identifié en France, mais surtout interrogé à travers La Grande Librairie et quelques entretiens célèbres."
 ---
-
 ![Image de François Busnel](https://upload.wikimedia.org/wikipedia/commons/a/a1/Fran%C3%A7ois_Busnel_-_Rencontres_nationales_de_la_librairie_fran%C3%A7aise_%2848178461296%29.jpg)
 
 ###### Questions

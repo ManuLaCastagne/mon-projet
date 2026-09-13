@@ -20,8 +20,9 @@ indice_5 :
   - rôle dans Ceci n'est pas un exercice de Philip K. Dick
 indice_6 : 
   - co-vedette avec Pierre Niney dans Ce qui nous lie
+culture_g_score: 60
+culture_g_justification: "Acteur français contemporain en vue, utile pour quelques films et séries populaires mais encore moins incontournable historiquement."
 ---
-
 ![Image de François Civil](https://upload.wikimedia.org/wikipedia/commons/d/dd/Fran%C3%A7ois_Civil_%282024%29.png)
 
 ###### Questions

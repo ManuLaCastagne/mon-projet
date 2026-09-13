@@ -15,9 +15,9 @@ indice_6:
   - Indice 6 Consommé comme champignon comestible
 questions:
   - Egalement comestible, je suis identifiable aux plis de la face inférieure de mon chapeau en forme de calice et à ma couleur jaune orangé plus ou moins pâle.  Champignon très parfumé du genre Cantharellus, très apprécié...
+culture_g_score: 72
+culture_g_justification: "Champignon comestible très connu sous le nom de girolle, fréquemment mobilisé dans les quiz de nature et de gastronomie."
 ---
-
-
 ![Image de Chanterelle](https://upload.wikimedia.org/wikipedia/commons/f/f5/Cantharellus_cibarius_-hym%C3%A9nium_fausses_lamelles.jpg)
 
 ###### Questions

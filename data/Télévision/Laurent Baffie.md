@@ -20,8 +20,9 @@ indice_6 :
   - A longtemps travaillé sur Ciel mon Mardi !
 questions:
  - Quel humoriste, auteur de la pièce "Sexe, magouilles et culture générale"  a  utilisé son sens de la répartie, si quelqu'un en a, c'est bien lui, aux côtés de Thierry Ardisson ?
+culture_g_score: 47
+culture_g_justification: "Humoriste et chroniqueur identifiable dans plusieurs émissions, mais d’importance culturelle et de fréquence quiz limitées."
 ---
-
 ![Image de Laurent Baffie](https://upload.wikimedia.org/wikipedia/commons/0/04/BAFFIE_Laurent-24x30-2001.jpg)
 
 ###### Questions

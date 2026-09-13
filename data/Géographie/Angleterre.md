@@ -24,8 +24,9 @@ indice_6 :
   - Oxford
 questions:
  - A quel pays, en guerre avec la France, la campagne d'Egypte avait-elle pour but de couper la route des Indes?
+culture_g_score: 100
+culture_g_justification: "Nation majeure de l’histoire mondiale, de la monarchie, de la littérature, des sciences, du sport, de la politique et de la culture populaire."
 ---
-
 ![[Carte_Angleterre.png]]
 
 ###### Questions

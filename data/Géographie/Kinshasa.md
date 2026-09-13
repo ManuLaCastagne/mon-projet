@@ -22,8 +22,9 @@ indice_5 :
   - stade des Martyrs
 indice_6 : 
   - quartier de la Gombe
+culture_g_score: 80
+culture_g_justification: "Grande capitale africaine francophone, Kinshasa est liée à la RDC, au fleuve Congo, à la musique et au célèbre combat Ali-Foreman."
 ---
-
 ![Image de Kinshasa](https://upload.wikimedia.org/wikipedia/commons/e/e0/Kinshasa_%26_Brazzaville_-_ISS007-E-6305_lrg.jpg)
 
 ![[Carte_Kinshasa.png]]

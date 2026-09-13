@@ -23,8 +23,9 @@ indice_6 :
   - auteur de roman
 questions:
  - A quel écrivain italien disparu en 2019 doit-on le roman "Le Manège des erreurs",  paru en France en 2020  et mettant en scène le commissaire Montalbano ?
+culture_g_score: 60
+culture_g_justification: "Camilleri est surtout rentable pour la littérature policière italienne et le commissaire Montalbano, avec une portée transversale modérée."
 ---
-
 ![Image de Andrea Camilleri](https://upload.wikimedia.org/wikipedia/commons/5/5d/Andrea_Camilleri%2C_Premio_Chiara_2010.jpg)
 
 ###### Questions

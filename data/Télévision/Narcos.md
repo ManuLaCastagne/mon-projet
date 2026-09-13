@@ -20,8 +20,9 @@ indice_6 :
   - Netflix
 questions:
  - Quelle série réalisée par José Padilha, diffusée sur une plate-forme numérique depuis 2015, évoque la lutte contre Pablo Escobar et le cartel...
+culture_g_score: 73
+culture_g_justification: "Série internationale très connue, rentable grâce à ses liens avec Pablo Escobar, la Colombie, le narcotrafic et Netflix."
 ---
-
 ![Image de Narcos](https://upload.wikimedia.org/wikipedia/commons/0/09/Narcos-logo-png-transparent.png)
 
 ###### Questions

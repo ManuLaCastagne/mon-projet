@@ -24,8 +24,9 @@ indice_6 :
   - montagne enneigée proche de l'équateur
 questions:
  - Massif dont on peut faire l'ascension par plusieurs itinéraires dont ceux appelés "Shira route" ou "Marangu route", je suis situé dans un parc national classé par l'Unesco.  Composé de 3 principaux cônes volcaniques, mon sommet est recouvert de neiges éternelles...
+culture_g_score: 77
+culture_g_justification: "Sommet emblématique de l’Afrique, le Kilimandjaro revient régulièrement dans les questions de géographie, d’exploration et de records naturels."
 ---
-
 ![Image de Kilimandjaro](https://upload.wikimedia.org/wikipedia/commons/9/91/Mount_Kilimanjaro.jpg)
 
 ![[Carte_Kilimandjaro.png]]

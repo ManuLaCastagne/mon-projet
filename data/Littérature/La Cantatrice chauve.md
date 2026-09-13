@@ -22,9 +22,9 @@ indice_6 :
   - Non-sens linguistique
 questions:
  - Quelle pièce de Ionesco représentée dès 1950, se termine par ces cris, "c'est pas par là, c'est par ici".
+culture_g_score: 80
+culture_g_justification: "Pièce fondatrice du théâtre de l’absurde, elle est une référence fréquente par Ionesco, sa création et ses dialogues célèbres."
 ---
-
-
 ![Image de La Cantatrice chauve](https://upload.wikimedia.org/wikipedia/commons/d/d7/Chauve_Noctambule.jpg)
 
 ###### Questions

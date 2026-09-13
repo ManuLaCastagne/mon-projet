@@ -22,8 +22,9 @@ indice_6 :
   - 90's
 questions:
  - Quel chanteur se déclare issu d'un peuple qui a beaucoup souffert dans "Peuple du monde" ?
+culture_g_score: 60
+culture_g_justification: "Figure connue du reggae français grâce à plusieurs tubes et à des bandes originales, mais d’importance principalement nationale."
 ---
-
 ![Image de Tonton David](https://upload.wikimedia.org/wikipedia/commons/a/a1/Tonton-david.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - usage controversé dans les documents administratifs
 questions:
  - Titre dont le dictionnaire de Furetière indique, en 1690, qu'il est donné à l'épouse d'un simple gentilhomme, je suis apparu au 15e siècle.  Associé à l'adjectif "grande". Pour la duchesse de Montpensier.  Titre employé au théâtre.
+culture_g_score: 48
+culture_g_justification: "Titre et usage social intéressants, mais les questions historiques précises sur ce vocable restent occasionnelles."
 ---
-
 ![Image de Mademoiselle](https://upload.wikimedia.org/wikipedia/commons/9/9d/Mademoiselle_Maupin_de_l%27Op%C3%A9ra_%28Julie_d%27Aubigny%29.jpg)
 
 ###### Questions

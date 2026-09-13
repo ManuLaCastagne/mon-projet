@@ -20,8 +20,9 @@ indice_5 :
   - réalisateur américain
 indice_6 : 
   - Catch-22
+culture_g_score: 68
+culture_g_justification: "Réalisateur important à la fois au cinéma, au théâtre et dans la comédie, avec plusieurs œuvres et récompenses fréquemment exploitables."
 ---
-
 ![Image de Mike Nichols](https://upload.wikimedia.org/wikipedia/commons/c/ca/Mike_Nichols.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - Ennio Morricone
 questions:
  - Connue du grand public pour mes rôles dans "The Rocky Horror Picture Show", "Les Sorcières d'Eastwick" et "Thelma et Louise", road-movie, avec la belle scène à la fin.
+culture_g_score: 80
+culture_g_justification: "Actrice américaine liée à Thelma et Louise, Dead Man Walking et Rocky Horror, offrant plusieurs références cinématographiques solides."
 ---
-
-
 ![Image de Susan Sarandon](https://upload.wikimedia.org/wikipedia/commons/a/a1/Susan_Sarandon%2C_Festival_de_Sitges_2017_%28cropped%29.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_5 :
   - Théâtre Mariinsky
 indice_6 : 
   - Palais d'Hiver
+culture_g_score: 100
+culture_g_justification: "Grande ville historique mondiale, liée à la Russie impériale, aux révolutions, à l’art et à de nombreux monuments."
 ---
-
-
 ![[Carte_Saint-Pétersbourg.png]]
 
 ###### Questions

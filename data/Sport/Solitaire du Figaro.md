@@ -20,8 +20,9 @@ indice_6 :
   - Épreuve nautique
 questions:
  - A quel quotidien national français associe-t-on une course à la voile en solitaire ?
+culture_g_score: 60
+culture_g_justification: "Course française importante dans la voile, connue pour révéler des navigateurs et constituer une référence de la course en solitaire, mais assez spécialisée."
 ---
-
 ![Image de Solitaire du Figaro](https://upload.wikimedia.org/wikipedia/commons/2/24/2018_Village_d%C3%A9part_de_la_Solitaire_du_Figaro_au_Havre.jpg)
 
 ###### Questions

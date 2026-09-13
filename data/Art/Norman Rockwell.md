@@ -23,8 +23,9 @@ indice_6 :
   - Triple autoportrait
 questions:
  - Quel peintre américain, né en 1894, traduisait, à travers ses couvertures pour le "Saturday evening post", un certain idéal du rêve américain?
+culture_g_score: 68
+culture_g_justification: "Rockwell est une référence notable de l'illustration américaine, de la société des États-Unis, des magazines et de la Seconde Guerre mondiale."
 ---
-
 ![Image de Norman Rockwell](https://upload.wikimedia.org/wikipedia/commons/7/77/Norman_Rockwell_Pardon_Me.jpg)
 
 ###### Questions

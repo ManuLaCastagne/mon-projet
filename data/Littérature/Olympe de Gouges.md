@@ -22,6 +22,8 @@ indice_6 :
   - égalité des sexes
 questions:
  - En 1792, quelle femme de lettres a écrit la "Déclaration  "des droits de la femme et de la citoyenne" ?
+culture_g_score: 84
+culture_g_justification: "Figure majeure de la Révolution française et de l’histoire du féminisme, fréquemment interrogée autour de sa Déclaration et de son exécution."
 ---
 
 ![Image de Olympe de Gouges](https://upload.wikimedia.org/wikipedia/commons/b/be/Montauban_-_Olympe_de_Gouges_theater.jpg)
@@ -30,7 +32,7 @@ questions:
 
 Quelle auteure a publié en 1791 la "[[Déclaration des droits de la femme et de la citoyenne]]" en réponse à la [[Déclaration des droits de l'homme et du citoyen]] ?
 
-Quel est le nom de plume de [[Marie Gouze]], une femme de lettres et pamphlétaire française ayant participé activement aux débats révolutionnaires à la fin du [[XVIIIe siècle]] ?
+Quel est le nom de plume de [[Marie Gouze]], une femme de lettres et pamphlétaire française ayant participé activement aux débats révolutionnaires à la fin du [[XVIIIe siècle]] ? <!-- score: 3 -->
 
 Quelle pionnière du [[féminisme]] a été exécutée par la guillotine en 1793 pour ses écrits et son engagement politique durant la [[Révolution française]] ?
 

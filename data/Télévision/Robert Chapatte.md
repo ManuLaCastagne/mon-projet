@@ -20,8 +20,9 @@ indice_6 :
   - Le Sport en questions
 questions:
  - En 1975, quel ancien coureur cycliste professionnel, devenu journaliste sportif, lance l'émission télévisée "Stade 2"?
+culture_g_score: 64
+culture_g_justification: "Pionnier du commentaire cycliste et du journalisme sportif, utile pour les questions sur le Tour de France et la télévision sportive."
 ---
-
 ![Image de Robert Chapatte](https://upload.wikimedia.org/wikipedia/commons/b/bd/S%C3%A9pulture_de_Robert_Chapatte.jpg)
 
 ###### Questions

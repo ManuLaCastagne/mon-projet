@@ -24,8 +24,9 @@ indice_6 :
   - Colline Verte
 questions:
  - Quelle ville du nord de la Bavière, célèbre pour son festival, abrite un opéra de style [[baroque]], inscrit depuis 2012 au patrimoine mondial de l'Unesco?
+culture_g_score: 64
+culture_g_justification: "Ville devenue une référence culturelle grâce au festival consacré à Wagner, à son opéra et à l’histoire de la musique."
 ---
-
 ![[Carte_Bayreuth.png]]
 
 ###### Questions

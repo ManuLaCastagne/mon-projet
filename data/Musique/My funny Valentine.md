@@ -23,12 +23,9 @@ indice_6 :
 questions:
  - Ce qu'on vient d'entendre, c'est le pianiste Bill Evans et le guitariste Jim Hall interpréter la musique d'une chanson composée par Richard Rodgers en 1937 qui est devenue un standard du jazz.
  - quel est le titre anglais de cette chanson dont la dernière phrase évoque la fête de la Saint-Valentin?
+culture_g_score: 80
+culture_g_justification: "Standard durable du jazz et de la comédie musicale, abondamment repris et relié à Rodgers, Hart et de nombreux interprètes."
 ---
-
-
-
-
-
 ![Image de My funny Valentine](https://upload.wikimedia.org/wikipedia/commons/f/fd/Valentine_Vox-_the_ventriloquist._His_life_and_adventures_%28IA_cu31924013464874%29.pdf)
 
 ###### Questions

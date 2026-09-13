@@ -15,8 +15,9 @@ indice_6 :
   - Héraut des saisons
 questions:
  - Principalement en Europe du Nord. Doté d'un bec et de pattes rose orangé et d'un plumage gris-brun et blanc, je suis l'ancêtre des oies domestiques de notre continent et la plus grosse...
+culture_g_score: 52
+culture_g_justification: "Oiseau important dans les travaux de Konrad Lorenz et présent dans une œuvre littéraire célèbre, mais peu fréquent comme sujet autonome."
 ---
-
 ![Image de Oie cendrée](https://upload.wikimedia.org/wikipedia/commons/3/3d/Graugans_Anser_Anser.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Scudetto
 questions:
  - En 1991, lors d'une rencontre face à l'Olympique de Marseille, quelle équipe italienne refuse de reprendre le match, arrêté à la suite d'une panne...
+culture_g_score: 80
+culture_g_justification: "Grand club européen régulièrement cité pour ses victoires en Ligue des champions, ses joueurs, ses entraîneurs et son histoire italienne."
 ---
-
 ![Image de Milan AC](https://upload.wikimedia.org/wikipedia/commons/7/7e/AC_Milan_tifo.png)
 
 ###### Questions

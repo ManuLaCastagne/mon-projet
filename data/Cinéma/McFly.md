@@ -20,8 +20,9 @@ indice_5 :
   - hoverboard
 indice_6 : 
   - Marty McFly
+culture_g_score: 47
+culture_g_justification: "Créateur de contenu connu du public récent, mais encore peu rentable dans la culture générale classique."
 ---
-
 ![Image de McFly](https://upload.wikimedia.org/wikipedia/commons/5/5e/Mcfly-all.jpg)
 
 ###### Questions

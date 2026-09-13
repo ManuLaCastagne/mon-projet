@@ -20,9 +20,9 @@ indice_6 :
   - Pallas
 questions:
  - Quelle voiture française, commercialisée dès 1955 dessinée par l'Italien Flaminio Bertoni, était réputée pour sa suspension hydropneumatique ?
+culture_g_score: 80
+culture_g_justification: "La Citroën DS est une icône automobile française, fréquemment liée au design, à l’innovation technique et à l’histoire politique."
 ---
-
-
 ![Image de Citroën DS](https://upload.wikimedia.org/wikipedia/commons/3/38/12-03-01-autostadtr-by-RalfR-25_6_7_8_9_fused_edit.jpg)
 
 ###### Questions

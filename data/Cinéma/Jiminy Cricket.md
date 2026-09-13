@@ -22,8 +22,9 @@ indice_6 :
   - animation
 questions:
  - Personnage apparu en 1940 dans un dessin animé des studios Disney, je suis pauvrement vêtu et coiffé d'un chapeau. Interprétant au début du film la chanson "Quand on prie la bonne étoile", j'entre un soir dans l'atelier d'un vieux...
+culture_g_score: 64
+culture_g_justification: "Personnage emblématique de Pinocchio et de Disney, Jiminy Cricket est une réponse classique mais limitée à quelques références d'animation."
 ---
-
 ![Image de Jiminy Cricket](https://upload.wikimedia.org/wikipedia/commons/0/0b/Jiminy_Cricket_%28cropped%29.png)
 
 ###### Questions

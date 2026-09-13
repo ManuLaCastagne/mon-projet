@@ -18,8 +18,9 @@ indice_5 :
   - bataille de la Somme
 indice_6 : 
   - armistice de Compiègne
+culture_g_score: 100
+culture_g_justification: "Conflit mondial incontournable, reliant histoire politique, militaire, diplomatique, géographique et sociale."
 ---
-
 ![Image de Première Guerre mondiale](https://upload.wikimedia.org/wikipedia/commons/7/7c/Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg)
 
 ###### Questions

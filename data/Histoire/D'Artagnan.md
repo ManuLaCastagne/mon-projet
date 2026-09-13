@@ -20,9 +20,9 @@ indice_6 :
   - Louis XIII
 questions:
  - J'ai arrêté Nicolas Fouquet. Officier de mousquetaire ayant inspiré Alexandre Dumas.
+culture_g_score: 93
+culture_g_justification: "Personnage littéraire et historique extrêmement célèbre, ouvrant sur Dumas, les mousquetaires, Louis XIII et la culture populaire."
 ---
-
-
 ![Image de D'Artagnan](https://upload.wikimedia.org/wikipedia/commons/7/7f/D%27Artagnan_statue_Dumas_Gustave_Dor%C3%A9.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Représentations dans l'art africain
 questions:
  - Primate pouvant être dit jaune ou olive en Afrique. Je vis en troupe mixte, dormant la nuit dans les arbres et me déplaçant le jour sur...
+culture_g_score: 64
+culture_g_justification: "Primate bien connu, associé à l'Afrique, aux sociétés animales et à quelques observations comportementales."
 ---
-
 ![Image de Babouin](https://upload.wikimedia.org/wikipedia/commons/e/e9/Papio_papio_and_juvenile_Port_Lympne_Wild_Animal_Park.jpg)
 
 ###### Questions

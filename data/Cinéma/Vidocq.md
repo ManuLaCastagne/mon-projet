@@ -20,8 +20,9 @@ indice_5:
 indice_6:
   - ancien bagnard devenu enquêteur
 questions: []
+culture_g_score: 60
+culture_g_justification: "Film français de genre identifiable par Depardieu, Pitof, les effets numériques et la figure historique de Vidocq, mais à fréquence modérée."
 ---
-
 ![Image de Vidocq](https://upload.wikimedia.org/wikipedia/commons/f/f0/Eug%C3%A8ne-Fran%C3%A7ois_Vidocq.jpg)
 
 ###### Questions

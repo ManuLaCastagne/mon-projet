@@ -20,8 +20,9 @@ indice_5 :
   - scénario
 indice_6 : 
   - années 1930
+culture_g_score: 52
+culture_g_justification: "Œuvre de Kazan reliant Fitzgerald, Hollywood et Robert De Niro, mais moins connue du grand public et peu fréquente en quiz."
 ---
-
 ![Image de Le Dernier Nabab](https://upload.wikimedia.org/wikipedia/commons/5/55/Navire_LAST_TYCOON_en_mer_%282%29.jpg)
 
 ###### Questions

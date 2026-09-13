@@ -22,8 +22,9 @@ indice_6 :
   - Adaptation de roman de Pierre Pelot
 questions:
  - En 1986, dans quel film de Gérard Krawscyk avec Pauline Laffont, Jean-Pierre Bacri et Jacques Villeret…
+culture_g_score: 40
+culture_g_justification: "Film dramatique français connu surtout des amateurs du cinéma des années 1980, avec peu d’angles récurrents pour un généraliste."
 ---
-
 ![Image de Un été en pente douce](https://upload.wikimedia.org/wikipedia/commons/1/19/Un_%C3%A9t%C3%A9_en_Am%C3%A9rique_de_l%27Atlantique_aux_montagnes_Rocheuses_%28microforme%29_%28IA_cihm_04565%29.pdf)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6JrJpqRzy6cmrDd4Kwuzcq" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

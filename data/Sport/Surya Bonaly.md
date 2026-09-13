@@ -20,8 +20,9 @@ indice_6 :
   - Jeux Olympiques
 questions:
  - En 1994, lors des Mondiaux de patinage artistique, quelle Française refuse de monter sur le podium...
+culture_g_score: 64
+culture_g_justification: "Figure française reconnaissable grâce à son geste olympique singulier, mais avec un nombre d’angles de quiz relativement limité."
 ---
-
 ![Image de Surya Bonaly](https://upload.wikimedia.org/wikipedia/commons/6/66/Surya_Bonaly%2C_2010.jpg)
 
 ###### Questions

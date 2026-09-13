@@ -22,8 +22,9 @@ indice_6 :
   - duo interprète
 questions:
  - De mai 68 et devient un tube. Citée par Jean-Pierre Bacri dans la bande-annonce d'"On connaît la chanson", j'évoque un jeune villageois qui attend en vain une bergère avec un bouquet d'églantines.
+culture_g_score: 56
+culture_g_justification: "Tube durable de Joe Dassin, « Siffler sur la colline » est reconnaissable mais offre peu d’angles au-delà de l’interprète et de l’adaptation."
 ---
-
 ![Image de Siffler sur la colline](https://upload.wikimedia.org/wikipedia/commons/d/d5/Dissertation_sur_la_vip%C3%A8re._%28IA_BIUSante_TPAR1822x162%29.pdf)
 
 ###### Questions

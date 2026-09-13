@@ -20,9 +20,9 @@ indice_5:
   - précurseur du romantisme
 indice_6:
   - ministre des Affaires étrangères de Louis XVIII
+culture_g_score: 80
+culture_g_justification: "Grande figure du romantisme français, également écrivain politique et diplomate, offrant de nombreux repères littéraires et historiques."
 ---
-
-
 ![Image de Châteaubriand](https://upload.wikimedia.org/wikipedia/commons/5/55/Chateaubriand_by_Aim%C3%A9_Millet.JPG)
 
 ###### Questions

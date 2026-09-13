@@ -19,9 +19,9 @@ indice_5:
   - roman publié en 1932
 indice_6:
   - exploration de l'usage des technologies
+culture_g_score: 80
+culture_g_justification: "Huxley est une référence durable grâce au Meilleur des Mondes, à la dystopie et à plusieurs liens avec la culture scientifique et populaire."
 ---
-
-
 ![Image de Aldous Huxley](https://upload.wikimedia.org/wikipedia/commons/0/0a/Aldous_Huxley_1947.png)
 
 ###### Questions

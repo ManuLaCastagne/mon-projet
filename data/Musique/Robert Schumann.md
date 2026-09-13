@@ -22,8 +22,9 @@ indice_6 :
   - Dichterliebe Opus 48
 questions:
  - En 1818, quel compositeur allemand écrivit à sa bien-aimée Clara que sa fantaisie était un long cri d'amour vers elle ?
+culture_g_score: 80
+culture_g_justification: "Compositeur romantique majeur, utile pour des questions sur Clara Schumann, le piano, les œuvres musicales et son parcours biographique."
 ---
-
 ![Image de Robert Schumann](https://upload.wikimedia.org/wikipedia/commons/1/12/Robert-schumann.jpg)
 
 ###### Questions

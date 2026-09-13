@@ -20,8 +20,9 @@ indice_6 :
   - Spa-Francorchamps
 questions:
  - Quel pilote de formule 1 normand, né en 1996, a terminé l'année 2020 à la 12e place du Championnat du monde des conducteurs?
+culture_g_score: 53
+culture_g_justification: "Pilote français ayant remporté un Grand Prix, il peut apparaître dans les quiz de Formule 1 mais reste une personnalité récente et spécialisée."
 ---
-
 ![Image de Esteban Ocon](https://upload.wikimedia.org/wikipedia/commons/7/79/Esteban_Ocon_2017_Malaysia_1.jpg)
 
 ###### Questions

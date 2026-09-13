@@ -20,8 +20,9 @@ indice_6 :
   - origine américaine
 questions:
  - Jeu télévisé lancé en France le 5 janvier 1987, ma diffusion précédait alors celle de la série américaine "Santa Barbara".
+culture_g_score: 64
+culture_g_justification: "Jeu télévisé français très connu, mais ses apparitions en quiz restent surtout liées à son concept et à ses animateurs."
 ---
-
 ![Image de La Roue de la fortune](https://upload.wikimedia.org/wikipedia/commons/f/f0/MANNapoli_109982_roue_de_la_fortune_memento_mori.jpg)
 
 ###### Questions

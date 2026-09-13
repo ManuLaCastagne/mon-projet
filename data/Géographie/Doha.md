@@ -22,8 +22,9 @@ indice_5 :
   - Musée d'Art Islamique
 indice_6 : 
   - Aspire Zone
+culture_g_score: 67
+culture_g_justification: "Capitale du Qatar, Doha est utile pour les questions sur le Golfe, le pétrole, les événements sportifs et l’urbanisme contemporain."
 ---
-
 ![Image de Doha](https://upload.wikimedia.org/wikipedia/commons/3/3a/Doha_MIA_Park_Skyline_View_12.jpg)
 
 ![[Carte_Doha.png]]

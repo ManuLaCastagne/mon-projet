@@ -18,9 +18,9 @@ indice_5:
   - baie de New York
 indice_6:
   - Staten Island et Brooklyn
+culture_g_score: 60
+culture_g_justification: "Pont new-yorkais notable par sa portée et son nom, mais moins fréquent et moins emblématique que le pont de Brooklyn."
 ---
-
-
 ![Image de Pont di Verrazano](https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Verrazano-Narrows_bridge_barely_visible_through_heavy_wildfire_smoke_juxtaposed_by_a_nearby_pole.jpg)
 
 ###### Questions

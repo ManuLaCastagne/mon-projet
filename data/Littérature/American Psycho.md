@@ -22,8 +22,9 @@ indice_6 :
   - Bret Easton Ellis
 questions:
  - En 1991, quel roman de Bret Easton Ellis a pour héros un yuppie new-yorkais devenu psychopathe ?
+culture_g_score: 76
+culture_g_justification: "Roman controversé de Bret Easton Ellis, American Psycho est rentable grâce à son adaptation, son personnage et sa critique de la société de consommation."
 ---
-
 ![Image de American Psycho](https://upload.wikimedia.org/wikipedia/commons/6/6c/American_Psycho_Title.jpg)
 
 ###### Questions

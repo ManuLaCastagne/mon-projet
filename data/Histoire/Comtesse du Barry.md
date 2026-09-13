@@ -20,8 +20,9 @@ indice_6 :
   - dernier amour du roi Louis XV
 questions:
  - Je contribue notamment à la disgrâce du duc de Choiseul. Retirée au Château de Louveciennes en 1774...
+culture_g_score: 72
+culture_g_justification: "Favorite célèbre de Louis XV et victime de la Révolution, elle revient régulièrement dans les questions sur Versailles et la cour royale."
 ---
-
 ![Image de Comtesse du Barry](https://upload.wikimedia.org/wikipedia/commons/c/ca/S%C3%A8vres_-_Magot_-_Pajou%2C_buste_de_Madame_du_Barry_08.jpg)
 
 ###### Questions

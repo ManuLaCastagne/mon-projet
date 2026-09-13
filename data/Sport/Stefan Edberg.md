@@ -20,8 +20,9 @@ indice_6 :
   - Numéro 1 mondial
 questions:
  - En mon honneur son prix de la sportivité. Grand spécialiste du double, considéré comme un des meilleurs joueurs de volée de l'histoire, j'ai remporté 6 tournois du Grand Chelem et suis devenu numéro 1 mondial en 90. Vainqueur avec la Suède...
+culture_g_score: 68
+culture_g_justification: "Ancien numéro un mondial et double vainqueur de Wimbledon, classique des quiz de tennis mais moins présent que les très grandes légendes."
 ---
-
 ![Image de Stefan Edberg](https://upload.wikimedia.org/wikipedia/commons/c/cd/Stefan_Edberg_2012-04-25_001.jpg)
 
 ###### Questions

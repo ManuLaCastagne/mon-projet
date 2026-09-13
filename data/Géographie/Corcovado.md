@@ -23,8 +23,9 @@ indice_6 :
   - Patrimoine mondial de l'UNESCO
 questions:
  - Sommet offrant une vue privilégiée sur Rio de Janeiro et sa baie, et dont le nom signifie bossu en portugais, je suis…
+culture_g_score: 80
+culture_g_justification: "Montagne de Rio immédiatement associée au Christ Rédempteur, à la géographie brésilienne, au tourisme et au patrimoine mondial."
 ---
-
 ![Image de Corcovado](https://upload.wikimedia.org/wikipedia/commons/3/3a/Unique_Moment_with_the_Moon_and_Christ_the_Redeemer_3.jpg)
 
 ![[Carte_Corcovado.png]]

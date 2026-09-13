@@ -24,9 +24,9 @@ indice_6 :
   - tourisme important
 questions:
  - Voyageons et trouvons  ce territoire insulaire situé à l'entrée du golfe de Gabès, relié au continent par une route. La plus grande île de Tunisie.
+culture_g_score: 68
+culture_g_justification: "Île tunisienne associée à l’Odyssée, à Star Wars, au tourisme et au patrimoine religieux, offrant plusieurs indices mémorisables."
 ---
-
-
 ![Image de Djerba la Douce](https://upload.wikimedia.org/wikipedia/commons/d/d9/Djerba_la_douce_2.jpg)
 
 ![[Carte_Djerba la Douce.png]]

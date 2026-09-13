@@ -20,8 +20,9 @@ indice_5:
   - Ski alpin
 indice_6:
   - Cérémonie d'ouverture
+culture_g_score: 52
+culture_g_justification: "Jeux d’hiver identifiables et utiles pour quelques repères olympiques, mais l’édition reste secondaire dans les quiz."
 ---
-
 ![Image de Turin 2006](https://upload.wikimedia.org/wikipedia/commons/9/96/P8160018.JPG)
 
 ###### Questions

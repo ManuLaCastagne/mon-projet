@@ -21,8 +21,9 @@ indice_5 :
   - Île-aux-Moines
 indice_6 : 
   - Golfe du Morbihan
+culture_g_score: 60
+culture_g_justification: "Département breton identifiable par Carnac, Vannes et son nom breton, avec une fréquence correcte mais non majeure."
 ---
-
 ![[Carte_Morbihan.png]]
 
 ###### Questions

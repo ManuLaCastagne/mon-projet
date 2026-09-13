@@ -22,8 +22,9 @@ indice_6 :
   - Écrivain en détresse
 questions:
  - Quel roman de Stephen King dans les Rocheuses, un hôtel est-il coupé du monde…
+culture_g_score: 77
+culture_g_justification: "Roman majeur de Stephen King, renforcé par l’adaptation culte de Kubrick et plusieurs personnages devenus célèbres."
 ---
-
 ![Image de Shining](https://upload.wikimedia.org/wikipedia/commons/2/23/Knight-in-Shining-Armour.jpg)
 
 ###### Questions

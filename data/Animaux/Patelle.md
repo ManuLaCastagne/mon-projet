@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de persévérance
 questions:
  - Quel mollusque gastéropode à coquille conique est également appelé "bernicle" ou "chapeau chinois" ?
+culture_g_score: 32
+culture_g_justification: "Mollusque côtier intéressant pour la biomimétique et l’écologie, mais rarement rencontré dans les quiz généralistes."
 ---
-
 ![Image de Patelle](https://upload.wikimedia.org/wikipedia/commons/3/32/Saltwater_Limpet_Diagram-en.svg)
 
 ###### Questions

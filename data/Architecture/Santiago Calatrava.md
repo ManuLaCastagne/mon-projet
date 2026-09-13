@@ -18,10 +18,9 @@ indice_5:
   - City of Arts and Sciences
 indice_6:
   - architecte espagnol
+culture_g_score: 72
+culture_g_justification: "Architecte contemporain reconnaissable grâce à plusieurs bâtiments emblématiques, reliant architecture, ingénierie, urbanisme et géographie européenne."
 ---
-
-
-
 ![Image de Calatrava](https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Calatrava%2C_Romblon.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Terrasse de Saint-Germain-en-Laye
 indice_6 : 
   - Yvelines
+culture_g_score: 64
+culture_g_justification: "Saint-Germain-en-Laye est une ville historique importante grâce à Louis XIV, son château, les traités et l’exil de Jacques II."
 ---
-
 ![[Carte_Saint-Germain-en-Laye.png]]
 
 ###### Questions

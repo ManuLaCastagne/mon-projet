@@ -2,6 +2,8 @@
 tags:
   - Santé
   - France
+culture_g_score: 72
+culture_g_justification: "Notion médicale, sociale, juridique et éthique régulièrement mobilisée dans les quiz contemporains."
 ---
 ###### Questions 
 

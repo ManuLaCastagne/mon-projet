@@ -25,8 +25,9 @@ indice_6 :
 questions:
  - Quelle célèbre baie du Golfe du Tonkin est caractérisée par la présence de 2000 îlots rocheux au Vietnam ?
  - Quelle baie située au nord-est d'Hai Phong protégée au Viet Nam...
+culture_g_score: 56
+culture_g_justification: "Site naturel emblématique du Vietnam et de l’UNESCO, principalement interrogé sous l’angle géographique et touristique."
 ---
-
 ![Image de Baie d'Along](https://upload.wikimedia.org/wikipedia/commons/2/2d/Halong_Bay_in_Vietnam.jpg)
 
 ![[Carte_Ha Long.png]]

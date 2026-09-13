@@ -19,8 +19,9 @@ indice_5:
   - Michael Johnson double champion
 indice_6:
   - première apparition du beach-volley
+culture_g_score: 60
+culture_g_justification: "Jeux d’Atlanta associés à plusieurs faits mémorables, mais leur rendement reste limité à l’histoire olympique récente."
 ---
-
 ![Image de Atlanta 1996](https://upload.wikimedia.org/wikipedia/commons/e/ea/Tito_Puentes_band_at_the_1996_Olympics_Atlanta_GA_by_Don_Ramey_Logan.jpg)
 
 ###### Questions

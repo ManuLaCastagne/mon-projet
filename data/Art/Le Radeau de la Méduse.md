@@ -21,8 +21,9 @@ indice_5 :
   - musée du Louvre
 indice_6 : 
   - romantisme
+culture_g_score: 97
+culture_g_justification: "Chef-d’œuvre incontournable du romantisme français, au croisement de l’art, de l’histoire maritime, de la critique politique et du Louvre."
 ---
-
 ![Image de Le Radeau de la Méduse](https://upload.wikimedia.org/wikipedia/commons/8/87/Mus%C3%A9e_Ingres-Bourdelle_-_Etude_de_dos_pour_Le_Radeau_de_La_M%C3%A9duse_%28d%27apr%C3%A8s_le_mod%C3%A8le_Joseph%29_1818-1819_-_Th%C3%A9odore_G%C3%A9ricault_MID.55.4.1_Jodonde06070001419.jpg)
 
 ###### Questions

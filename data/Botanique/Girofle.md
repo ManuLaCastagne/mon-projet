@@ -15,8 +15,9 @@ indice_6 :
   - Épice pour aromatiser
 questions:
  - Quels boutons floraux séchés, utilisés comme épice sont fournis par un arbre de la famille des myrtacées?
+culture_g_score: 65
+culture_g_justification: "Épice mondiale dont les clous sont des boutons floraux, avec des usages culinaires, médicaux et historiques bien réutilisables."
 ---
-
 ![Image de Girofle](https://upload.wikimedia.org/wikipedia/commons/d/d0/Girofl%C3%A9-Girofla._1922.jpg)
 
 ###### Questions

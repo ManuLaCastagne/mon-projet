@@ -18,8 +18,9 @@ indice_5 :
   - Thomas le photographe
 indice_6 : 
   - Mystère d'une photo
+culture_g_score: 67
+culture_g_justification: "Œuvre importante d’Antonioni et du cinéma moderne, mobilisable autour de la Palme d’or, du Swinging London et de son intrigue photographique."
 ---
-
 ![Image de Blow-Up](https://upload.wikimedia.org/wikipedia/commons/3/31/Close-up_of_Chrysomya_%28Old_World_blow_fly%29_on_a_green_leaf.jpg)
 
 ###### Questions

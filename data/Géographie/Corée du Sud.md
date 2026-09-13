@@ -22,8 +22,9 @@ indice_5 :
   - Gyeongbokgung
 indice_6 : 
   - DMZ (Zone Coréenne Démilitarisée)
+culture_g_score: 84
+culture_g_justification: "Pays majeur d’Asie orientale, très rentable par la guerre de Corée, les Jeux olympiques, Séoul, l’économie et la culture populaire."
 ---
-
 ![[Carte_Corée du Sud.png]]
 
 ###### Questions

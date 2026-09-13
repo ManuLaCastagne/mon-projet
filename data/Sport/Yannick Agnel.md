@@ -20,8 +20,9 @@ indice_6 :
   - Team Lagardère
 questions:
  - En 2012, aux Jeux de Londres, quel nageur français a été médaillé d'or sur 200 m nage libre et avec le relais 4 x 100 m nage libre?
+culture_g_score: 57
+culture_g_justification: "Champion olympique français facilement rattachable à Londres 2012, mais offrant peu d’angles indépendants hors natation."
 ---
-
 ![Image de Yannick Agnel](https://upload.wikimedia.org/wikipedia/commons/3/33/YANNICK_AGNEL_a.jpg)
 
 ###### Questions

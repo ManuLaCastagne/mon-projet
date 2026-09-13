@@ -18,8 +18,9 @@ indice_5 :
   - Prix Goncourt
 indice_6 : 
   - Histoire de France
+culture_g_score: 80
+culture_g_justification: "Auteur des Rois maudits et du Chant des Partisans, utile pour la littérature, la Résistance, la politique culturelle et l’Académie française."
 ---
-
 ![Image de Maurice Druon](https://upload.wikimedia.org/wikipedia/commons/9/99/Maurice_Druon_2003_Orenburg_crop.jpg)
 
 ###### Questions

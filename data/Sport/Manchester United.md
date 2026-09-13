@@ -20,10 +20,9 @@ indice_6 :
   - Cristiano Ronaldo
 questions:
  - Dans quel club évoluait Éric Cantona ?
+culture_g_score: 97
+culture_g_justification: "Club mondialement célèbre, véritable marronnier sportif grâce à son histoire, ses titres, ses joueurs, Ferguson et la Premier League."
 ---
-
-
-
 ![Image de Manchester United](https://upload.wikimedia.org/wikipedia/commons/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg)
 
 ###### Questions

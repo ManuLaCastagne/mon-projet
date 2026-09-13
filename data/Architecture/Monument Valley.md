@@ -24,10 +24,9 @@ indice_6:
   - Paysage désertique
 questions:
   - Quel site naturel du nord de l'Arizona, visible dans "La Charge héroïque" de John Ford, est un territoire sacré pour les Indiens...
+culture_g_score: 71
+culture_g_justification: "Site naturel et cinématographique iconique, Monument Valley apparaît dans des questions de géographie, de paysages et de cinéma."
 ---
-
-
-
 ![Image de Monument Valley](https://upload.wikimedia.org/wikipedia/commons/6/62/John_Ford%27s_Point_Monument_Valley_Luca_Galuzzi_2007.jpg)
 
 ###### Questions

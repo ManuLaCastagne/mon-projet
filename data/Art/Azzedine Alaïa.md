@@ -23,8 +23,9 @@ indice_6 :
   - influence artistique
 questions:
  - Quel couturier, né en Tunisie, était connu pour ses modèles  réalisés dans  des tissus révolutionnaires comme la maille Relax ?
+culture_g_score: 51
+culture_g_justification: "Créateur important de la mode contemporaine, mais principalement utile pour quelques questions sur le stretch et l’avant-garde parisienne."
 ---
-
 ![Image de Azzedine Alaïa](https://upload.wikimedia.org/wikipedia/commons/a/a7/AzzedineAlaia_Beaux_Arts_Tunis.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - mer des Caraïbes
 questions:
  - Quel est ce département français d'outre-mer où l'on peut photographier la cascade des Ecrevisses, dans l'île de Basse-Terre?
+culture_g_score: 72
+culture_g_justification: "Territoire français et caribéen important pour l’esclavage, la volcanologie, l’outre-mer, la géographie et l’histoire coloniale."
 ---
-
 ![Image de Guadeloupe](https://upload.wikimedia.org/wikipedia/commons/3/31/Satellite_photo_of_Guadeloupe.jpg)
 
 ![[Carte_Guadeloupe.png]]

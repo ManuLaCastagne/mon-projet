@@ -22,8 +22,9 @@ indice_6 :
   - Voldemort
 questions:
  - Héros de fiction que ma créatrice a fait naître le même jour qu'elle, un 31 juillet, je grandis chez mon oncle et ma tante au 4, Privet Drive après avoir perdu mes parents.
+culture_g_score: 96
+culture_g_justification: "Saga littéraire et phénomène culturel mondial, offrant une multitude de questions sur les personnages, l'intrigue, les objets et les adaptations."
 ---
-
 ![Image de Harry Potter](https://upload.wikimedia.org/wikipedia/commons/c/c4/Wizarding_World_of_Harry_Potter_Castle.jpg)
 
 ###### Questions

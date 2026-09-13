@@ -22,8 +22,9 @@ indice_6 :
   - féminisme
 questions:
  - Quelle dessinatrice est l'auteure de la BD "Culottées", adaptée en 2020 en série animée par France Télévisions…
+culture_g_score: 64
+culture_g_justification: "Autrice contemporaine populaire grâce à Culottées et Joséphine, avec une présence quiz réelle mais encore limitée par son actualité."
 ---
-
 ![Image de Pénélope Bagieu](https://upload.wikimedia.org/wikipedia/commons/a/a7/P%C3%A9n%C3%A9lope_Bagieu.jpg)
 
 ###### Questions

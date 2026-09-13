@@ -22,8 +22,9 @@ indice_6:
   - Spirited Away
 questions:
   - En 2009, à quel réalisateur japonais doit-on le film d'animation "Ponyo sur la falaise"...
+culture_g_score: 100
+culture_g_justification: "Maître mondial de l’animation, associé à Ghibli, à de nombreux films cultes, aux Oscars et à la culture japonaise."
 ---
-
 ![Image de Miyazaki](https://upload.wikimedia.org/wikipedia/commons/4/4e/Miyazaki_Montage.jpg)
 
 ###### Questions

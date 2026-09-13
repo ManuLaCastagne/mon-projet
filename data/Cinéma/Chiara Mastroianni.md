@@ -21,8 +21,9 @@ indice_5:
   - le maire et la médiathèque
 indice_6:
   - Les Bien-Aimés
+culture_g_score: 47
+culture_g_justification: "Actrice surtout utile par sa filiation avec Deneuve et Mastroianni et ses collaborations avec Honoré, mais rarement incontournable."
 ---
-
 ![Image de Chiara Mastroianni](https://upload.wikimedia.org/wikipedia/commons/3/38/Chiara_Mastroianni_Cannes_2011.jpg)
 
 ###### Questions

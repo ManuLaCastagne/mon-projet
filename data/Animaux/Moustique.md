@@ -15,9 +15,9 @@ indice_6 :
   - Transmetteur de maladies
 questions:
  - Insecte dont une espèce nommée stegomya pia a été découverte à Mayotte en 2013, je compte environ 3 500 espèces dans le monde. Mesurant entre 0,5 et 1,5cm de long, pourvu d'un rostre et de longues pattes grêles, je suis appelé maringouin au Québec.
+culture_g_score: 80
+culture_g_justification: "Insecte mondialement connu et très rentable grâce à ses liens avec les maladies, l’écologie, la biologie et la santé publique."
 ---
-
-
 ![Image de Moustique](https://upload.wikimedia.org/wikipedia/commons/6/68/Rivi%C3%A8re_Moustique_%28Sainte-Rose%29.jpg)
 
 ###### Questions

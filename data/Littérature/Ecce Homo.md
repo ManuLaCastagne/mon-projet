@@ -22,8 +22,9 @@ indice_6 :
   - identité et existence
 questions:
  - Quelle œuvre autobiographique de Nietzsche a pour titre un phrase que Ponce Pilate prononça pour montrer Jésus à la foule ?
+culture_g_score: 64
+culture_g_justification: "Ouvrage important pour comprendre Nietzsche et son autobiographie intellectuelle, mais moins fréquent que ses concepts et œuvres les plus célèbres."
 ---
-
 ![Image de Ecce Homo](https://upload.wikimedia.org/wikipedia/commons/4/44/Melker_Altar_-_Ecce_homo.JPG)
 
 ###### Questions

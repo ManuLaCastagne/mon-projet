@@ -22,8 +22,9 @@ indice_6 :
   - masques
 questions:
  - Quel film de 2014 d'Albert Dupontel a été adapté du Goncourt 2013 ?
+culture_g_score: 60
+culture_g_justification: "Film français reconnu et régulièrement mobilisable via Dupontel, le prix Goncourt, l'après-guerre et les gueules cassées."
 ---
-
 ![Image de Au revoir là-haut](https://upload.wikimedia.org/wikipedia/commons/9/92/Au-Revoir-La-Haut-Film-Cinema.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - mission en Syrie
 questions:
  - En 2001, quel haut fonctionnaire, né en avril 1938 au Ghana et nommé secrétaire général de l'ONU...
+culture_g_score: 80
+culture_g_justification: "Kofi Annan est une référence fréquente sur l’ONU, la diplomatie, le Nobel de la paix, l’Afrique et les relations internationales contemporaines."
 ---
-
 ![Image de Koffi Annan](https://upload.wikimedia.org/wikipedia/commons/7/72/Kofi_Annan_2012_%28cropped%29.jpg)
 
 ###### Questions

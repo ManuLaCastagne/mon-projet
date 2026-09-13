@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de grâce et de hauteur
 questions:
  - Grand mammifère dont le nom d'espèce est camello pardalis, je dois ma particularité physique d'avoir un cœur 20 fois plus lourd que mon cerveau.
+culture_g_score: 84
+culture_g_justification: "La girafe est universellement identifiable et revient souvent grâce à sa morphologie, son habitat, son comportement et les enjeux de conservation."
 ---
-
 ![Image de Girafe](https://upload.wikimedia.org/wikipedia/commons/2/2f/006_Giraffe_portrait_in_the_Lake_Manyara_National_Park_Photo_by_Giles_Laurent.jpg)
 
 ###### Questions

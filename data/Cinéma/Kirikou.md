@@ -22,9 +22,9 @@ indice_6 :
   - village africain
 questions:
  - Dans un film d'animation de Michel Ocelot, quel enfant délivre la sorcière Karaba de sa méchanceté, grâce aux sages de la Montagne interdite?
+culture_g_score: 64
+culture_g_justification: "Personnage emblématique de l'animation française, régulièrement associé à Michel Ocelot, mais avec un nombre d'angles limité."
 ---
-
-
 ![Image de Kirikou](https://upload.wikimedia.org/wikipedia/commons/1/1a/Kirikou_et_la_Sorci%C3%A8re_logo.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Triple médaillé d'or
 questions:
  - Quel haltérophile turque d'origine bulgare, disparu en 2017, surnommé l'Hercule de poche en raison de sa petite taille, a remporté 7 titres mondiaux?
+culture_g_score: 60
+culture_g_justification: "L’un des haltérophiles les plus titrés, régulièrement cité pour ses trois titres olympiques et son surnom spectaculaire."
 ---
-
 ![Image de Naim Suleymanoglu](https://upload.wikimedia.org/wikipedia/commons/c/c3/Grave_of_Naim_S%C3%BCleymano%C4%9Flu.jpg)
 
 ###### Questions

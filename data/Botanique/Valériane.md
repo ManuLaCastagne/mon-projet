@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée en phytothérapie pour ses propriétés sédatives
 questions:
  - Groupées en corymbes. Plante devant mon nom d'herbe aux chats, au fait que mon odeur attire ces animaux  qui se frottent sur mes tiges…
+culture_g_score: 64
+culture_g_justification: "La valériane est une référence classique des plantes médicinales, du sommeil et de l’herbe aux chats."
 ---
-
 ![Image de Valériane](https://upload.wikimedia.org/wikipedia/commons/9/90/Valeriana_officinalis_-_Niitv%C3%A4lja.jpg)
 
 ###### Questions

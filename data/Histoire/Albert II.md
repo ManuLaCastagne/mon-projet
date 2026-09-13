@@ -20,8 +20,9 @@ indice_5 :
   - rocher
 indice_6 : 
   - environnement
+culture_g_score: 44
+culture_g_justification: "Prince souverain de Monaco connu surtout pour quelques repères institutionnels et sportifs, avec une portée limitée en culture générale."
 ---
-
 ![Image de Prince Albert II](https://upload.wikimedia.org/wikipedia/commons/d/d5/Prince_Albert_II_2016.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Tom Brady
 questions:
  - Au football américain, quel anglicisme désigne le joueur qui effectue une passe à son receveur, après avoir reçu le ballon du joueur de centre? (kicker)
+culture_g_score: 80
+culture_g_justification: "Sport majeur aux États-Unis, le football américain permet des questions sur le Super Bowl, la NFL, les règles, les équipes et la culture américaine."
 ---
-
-
 ![Image de Football américain](https://upload.wikimedia.org/wikipedia/commons/7/78/Villeurbanne_-_Football_am%C3%A9ricain%2C_Gones_de_Lyon_%28%C3%89veil_de_Lyon%29.jpg)
 
 ###### Questions

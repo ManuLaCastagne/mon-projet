@@ -22,8 +22,9 @@ indice_5 :
   - Pyrénées
 indice_6 : 
   - Gaudí
+culture_g_score: 80
+culture_g_justification: "Région européenne fréquemment mobilisée par son autonomie, Barcelone, sa langue, son art et les tensions indépendantistes."
 ---
-
 ![[Carte_Catalogne.png]]
 
 ###### Questions

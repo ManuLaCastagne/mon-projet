@@ -23,8 +23,9 @@ indice_6 :
   - Jean Plantureux
 questions:
  - Dessinateur né à Paris en 1951, j'ai collaboré dans les années 80 à la revue "Sciences/Phosphore" et participé à l'émission "Droit de réponse".  Recevant le prix du scoop au festival d'Angers en 1991 pour un dessin sur lequel Yasser Arafat a dessiné l'étoile...
+culture_g_score: 64
+culture_g_justification: "Dessinateur de presse très identifiable par Le Monde et Cartooning for Peace, mais dans un champ de questions relativement spécialisé."
 ---
-
 ![Image de Plantu](https://upload.wikimedia.org/wikipedia/commons/e/ea/Jean_Plantu.jpg)
 
 ###### Questions

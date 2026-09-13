@@ -3,7 +3,8 @@ tags:
   - Gastronomie
   - XIXe
 date: 1850
-culture_g_score: 64
+culture_g_score: 61
+culture_g_justification: "Produit laitier très familier en France, souvent associé à la gastronomie quotidienne et à son histoire commerciale."
 ---
 ###### Questions 
 

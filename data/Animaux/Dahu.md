@@ -15,9 +15,9 @@ indice_6 :
   - Légende alpine
 questions:
  - Aux pattes  de longueurs  inégales, envoie-t-on  une personne crédule ?
+culture_g_score: 55
+culture_g_justification: "Créature folklorique française assez connue, utile pour le folklore et les canulars, mais sans importance générale majeure."
 ---
-
-
 ![Image de Dahu](https://upload.wikimedia.org/wikipedia/commons/9/96/Dahu_by_Philippe_Semeria.jpg)
 
 ###### Questions

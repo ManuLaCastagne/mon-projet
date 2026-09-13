@@ -22,8 +22,9 @@ indice_5:
   - Peter Tosh
 indice_6:
   - dancehall
+culture_g_score: 73
+culture_g_justification: "Capitale jamaïcaine associée à Bob Marley et au reggae, Kingston possède de nombreuses entrées musicales et géographiques dans les quiz."
 ---
-
 ![Image de Kingston](https://upload.wikimedia.org/wikipedia/commons/e/ed/St_Raphael%27s_Interior_1%2C_Kingston%2C_Surrey%2C_UK_-_Diliff.jpg)
 
 ###### Questions

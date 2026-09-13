@@ -20,8 +20,9 @@ indice_6 :
   - drame médical
 questions:
  - Quelle série télévisée met en scène des internes du Seattle Grace Hospital et évoque  dans son titre le nom d'un personnage incarné par Ellen Pompeo ?
+culture_g_score: 80
+culture_g_justification: "Série médicale internationale très connue, régulièrement mobilisée pour ses personnages, sa créatrice, ses acteurs, ses récompenses et sa longévité."
 ---
-
 ![Image de Grey's Anatomy](https://upload.wikimedia.org/wikipedia/commons/f/fb/Grey%27s_Anatomy_Logo.svg)
 
 ###### Questions

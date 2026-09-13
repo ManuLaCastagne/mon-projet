@@ -15,8 +15,9 @@ indice_6 :
   - Indicateur écologique
 questions:
  - Petit crustacé dont le patrimoine  génétique a été décrypté lors d'une étude faite sur mon espèce la plus commune qualifiée de pulex, je suis recouvert d'une carapace mesurant au maximum 4 mm de long, je me déplace en effectuant une suite...
+culture_g_score: 48
+culture_g_justification: "Crustacé planctonique utile pour les notions d’écotoxicologie et de parthénogenèse, mais trop spécialisé pour une priorité élevée."
 ---
-
 ![Image de Daphnie](https://upload.wikimedia.org/wikipedia/commons/8/89/Ebakiivrik.jpg)
 
 ###### Questions

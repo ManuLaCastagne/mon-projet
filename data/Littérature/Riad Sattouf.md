@@ -18,8 +18,9 @@ indice_5 :
   - Retour au collège
 indice_6 : 
   - Le Petit Nicolas
+culture_g_score: 80
+culture_g_justification: "Auteur contemporain très connu pour L’Arabe du futur, à la croisée de la bande dessinée, de l’autobiographie, du cinéma et de la Syrie."
 ---
-
 ![Image de Riad Sattouf](https://upload.wikimedia.org/wikipedia/commons/7/71/Riad_Sattouf%2C_2017.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - origines italiennes
 questions:
  - Quelle chanteuse, de son vrai nom Yolanda Gigliotti…
+culture_g_score: 84
+culture_g_justification: "Grande icône de la chanson francophone, fréquemment associée à ses tubes, son parcours international, ses origines et sa carrière d’actrice."
 ---
-
 ![Image de Dalida](https://upload.wikimedia.org/wikipedia/commons/0/0b/Lettre_de_Dalida.png)
 
 ###### Questions

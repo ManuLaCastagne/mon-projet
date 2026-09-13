@@ -22,8 +22,9 @@ indice_6 :
   - Maurice Cuvillier
 questions:
  - Dans quelle bande dessinée, créée en 1941 par Maurice Cuvillier, 2 enfants, frère et soeur, ont-ils pour ennemis un loup, un ours, un renard, un sanglier ?
+culture_g_score: 40
+culture_g_justification: "Série classique de la bande dessinée jeunesse française, identifiable par quelques questions sur sa création et ses personnages, mais d'importance limitée."
 ---
-
 ![Image de Sylvain et Sylvette](https://upload.wikimedia.org/wikipedia/commons/8/81/49_Juvardeil_plaque_de_rue_Sylvain_et_Sylvette.jpg)
 
 ###### Questions

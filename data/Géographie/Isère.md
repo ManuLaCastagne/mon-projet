@@ -24,9 +24,9 @@ indice_6 :
   - Rhône-Alpes
 questions:
  - Département français divisé en 1913 territoires dont ceux du Trièves, de l'Oisans, du Grésivaudan, organisant le festival Berlioz à La Côte-St-André...
+culture_g_score: 60
+culture_g_justification: "Département alpin identifiable par Grenoble, les Jeux de 1968 et plusieurs sites montagnards, mais d’intérêt surtout régional."
 ---
-
-
 ![Image de Isère](https://upload.wikimedia.org/wikipedia/commons/4/47/Panorama_sur_Quaix_et_le_N%C3%A9ron.jpg)
 
 ![[Carte_Isère.png]]

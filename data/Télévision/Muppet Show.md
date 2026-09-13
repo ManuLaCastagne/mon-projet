@@ -18,8 +18,9 @@ indice_5 :
   - Jim Henson
 indice_6 : 
   - Sketchs et variété
+culture_g_score: 96
+culture_g_justification: "Programme international majeur de Jim Henson, ouvrant des questions sur les marionnettes, la télévision, l'humour, les invités et Kermit."
 ---
-
 ![Image de Muppet Show](https://upload.wikimedia.org/wikipedia/commons/e/e7/The_Muppet_Show_logo.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Récurrence
 questions:
  - Curiosité mathématique,  j'ai inspiré une oeuvre de l'artiste Mario Merz en 1994. Apparue en 1202 dans un problème proposé dans l'ouvrage...
+culture_g_score: 80
+culture_g_justification: "Notion mathématique très populaire, reliant nombres, histoire des sciences, nature, art et modélisation dans de nombreux quiz."
 ---
-
 ![Image de Suite de Fibonacci](https://upload.wikimedia.org/wikipedia/commons/e/e6/Quadratum_lungum_and_fibonacci_sequence.png)
 
 ###### Questions

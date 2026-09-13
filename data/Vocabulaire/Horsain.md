@@ -16,13 +16,14 @@ indice_6 :
   - Carentan
 ---
 
+
 ![Image de Horsain](https://upload.wikimedia.org/wikipedia/commons/8/87/LL-Q150_%28fra%29-Lyoko%C3%AF-horsain.wav)
 
 ###### Questions
 
 Dans le contexte culturel [[normand]], quel terme est utilisé pour désigner une personne qui vient de l'extérieur de la région ?
 
-Quel mot d'origine normande décrit un étranger ou un voyageur qui n'est pas natif de [[Rouen]] ?
+Quel mot d'origine normande décrit un étranger ou un voyageur qui n'est pas natif de [[Rouen]] ? <!-- score: 1 -->
 
 Dans les [[arts]] et la [[littérature]] française, comment appelle-t-on communément quelqu'un qui n'est pas d'une localité donnée ?
 

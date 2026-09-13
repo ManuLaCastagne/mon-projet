@@ -20,9 +20,9 @@ indice_6 :
   - Œuf pourri
 questions:
  - Quel gaz de formule H2S est toxique par inhalation…
+culture_g_score: 52
+culture_g_justification: "Gaz chimiquement et écologiquement intéressant, mais généralement cantonné aux questions sur sa toxicité, son odeur et les milieux anoxiques."
 ---
-
-
 ![Image de Sulfure d'hydrogène](https://upload.wikimedia.org/wikipedia/commons/1/15/Pvs_sulfure_d%27hydrog%C3%A8ne.svg)
 
 ###### Questions

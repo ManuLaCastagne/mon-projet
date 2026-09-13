@@ -22,8 +22,9 @@ indice_6 :
   - film français
 questions:
  - En 2011, dans quel film, adapté d'un roman de David Foenkinos, joue-t-elle une veuve...
+culture_g_score: 47
+culture_g_justification: "Film français identifiable par Audrey Tautou et son adaptation littéraire, sans être un classique majeur du cinéma."
 ---
-
 ![Image de Délicatesse](https://upload.wikimedia.org/wikipedia/commons/6/62/D%C3%A9licatesse%2C_PPD5465.jpg)
 
 ###### Questions

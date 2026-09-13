@@ -20,9 +20,9 @@ indice_6 :
   - présidence de 1974 à 1977
 questions:
  - En 1976, l'été, quel Président des États-Unis est son cavalier sur la piste de danse lors d'une réception à la Maison-Blanche ?
+culture_g_score: 60
+culture_g_justification: "Président américain atypique de l’après-Watergate, surtout interrogé pour sa grâce à Nixon et son accession sans élection présidentielle."
 ---
-
-
 ![Image de Gerald Ford](https://upload.wikimedia.org/wikipedia/commons/d/db/Gerald_Ford_hearing2.jpg)
 
 ###### Questions

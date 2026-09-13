@@ -18,9 +18,9 @@ indice_5:
   - Nos Patriotes
 indice_6:
   - Maternelle
+culture_g_score: 52
+culture_g_justification: "Actrice belge remarquée dès Rosetta et associée à plusieurs récompenses, mais dont la notoriété reste surtout cinéphile et francophone."
 ---
-
-
 ![Image de Émilie Dequenne](https://upload.wikimedia.org/wikipedia/commons/d/de/This_Is_Our_Land_-_IFFR_2017_%283%29.jpg)
 
 ###### Questions

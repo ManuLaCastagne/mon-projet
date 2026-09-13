@@ -22,8 +22,9 @@ indice_6 :
   - Anthony Hopkins
 questions:
  - En 1991, dans quel film de Jonathan Demme avec Jodie Foster, Anthony Hopkins incarne-t-il l'inquiétant Hannibal Lecter?
+culture_g_score: 100
+culture_g_justification: "Classique universel du thriller, incontournable pour les Oscars, Hannibal Lecter, Jodie Foster, Anthony Hopkins et le cinéma policier."
 ---
-
 ![Image de Le Silence des agneaux](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jaloux_-_Le_reste_est_silence%2C_1910.djvu)
 
 ###### Questions

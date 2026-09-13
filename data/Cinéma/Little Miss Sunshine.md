@@ -22,8 +22,9 @@ indice_6 :
   - chorégraphie sur Super Freak
 questions:
  - En 2006, dans quelle comédie américaine la famille Woover accompagne-t-elle la petite Olive en Sport/Californie à un concours de beauté ?
+culture_g_score: 64
+culture_g_justification: "Film indépendant devenu un classique contemporain, régulièrement mobilisé pour ses acteurs, ses Oscars et son intrigue familiale."
 ---
-
 ![Image de Little Miss Sunshine](https://upload.wikimedia.org/wikipedia/commons/2/2b/Little_Miss_Sunshine_%2826522982130%29.jpg)
 
 ###### Questions

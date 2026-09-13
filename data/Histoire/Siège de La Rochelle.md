@@ -22,8 +22,9 @@ indice_6:
   - port de l'Atlantique
 questions:
   - De la population.  Ayant donné lieu à la fortification de 12km de long et à celle d'une digue... J'ai permis au Cardinal de Richelieu de soumettre une ville en majorité protestante.
+culture_g_score: 68
+culture_g_justification: "Épisode classique du règne de Louis XIII, éclairant Richelieu, les huguenots et la centralisation monarchique."
 ---
-
 ![Image de Siège de La Rochelle](https://upload.wikimedia.org/wikipedia/commons/3/3c/Plan_La_Rochelle_et_environs%2C_1773%2C_Nicolas_Chalmandrier%2C_BNF_Gallica.jpg)
 
 ###### Questions

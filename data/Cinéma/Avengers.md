@@ -22,8 +22,9 @@ indice_6:
   - Infinity Stones
 questions:
   - En 2012, dans quel film avec Robert Downey Jr et Scarlett Johansson des superhéros s'unissent-ils pour sauver la planète?
+culture_g_score: 76
+culture_g_justification: "Premier grand rassemblement Marvel, fréquemment interrogé via ses héros, son antagoniste, sa production et son succès commercial."
 ---
-
 ![Image de Avengers](https://upload.wikimedia.org/wikipedia/commons/f/fd/En-us-avengers.oga)
 
 ###### Questions

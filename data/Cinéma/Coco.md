@@ -22,8 +22,9 @@ indice_6 :
   - jungle animée
 questions:
  - Depuis le 1er avril 2021, quelle dessinatrice de "Charlie Hebdo" est devenue la caricaturiste du quotidien "Libération" à la place de Willem ?
+culture_g_score: 80
+culture_g_justification: "Film Pixar très connu, rentable grâce à ses liens avec l’animation, le Mexique, la musique, les Oscars et Día de los Muertos."
 ---
-
 ![Image de Coco](https://upload.wikimedia.org/wikipedia/commons/4/42/Lucca_Comics_%26_Games_2019_-_Cosplay_Coco.jpg)
 
 ###### Questions

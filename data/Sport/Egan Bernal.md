@@ -20,8 +20,9 @@ indice_6 :
   - Grimpeur
 questions:
  - En 2021, sport, 2 ans après sa victoire dans le Tour de France, quel cycliste colombien a remporté le Giro ?
+culture_g_score: 60
+culture_g_justification: "Ses victoires dans le Tour et le Giro en font une référence récente du cyclisme, mais encore moins installée que les grands champions historiques."
 ---
-
 ![Image de Egan Bernal](https://upload.wikimedia.org/wikipedia/commons/7/70/Egan_Bernal_KOERS_2019_uitsnede.jpg)
 
 ###### Questions

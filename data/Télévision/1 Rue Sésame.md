@@ -20,8 +20,9 @@ indice_6:
   - éducatif pour les enfants
 questions:
   - Dans une émission de télévision pour la jeunesse, diffusée en France dès les années 70, quelle rue était associée  au numéro 1?
+culture_g_score: 48
+culture_g_justification: "Adaptation française d’une franchise éducative mondiale, mais nettement moins connue que Sesame Street elle-même."
 ---
-
 ![Image de 1 Rue Sésame](https://upload.wikimedia.org/wikipedia/commons/5/55/Ruskin_-_S%C3%A9same_et_les_lys.djvu)
 
 ###### Questions

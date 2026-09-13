@@ -16,8 +16,9 @@ indice_5:
   - Lisbonne
 indice_6:
   - expéditions maritimes
+culture_g_score: 88
+culture_g_justification: "Explorateur incontournable des grandes découvertes, de la route maritime vers l’Inde et de l’expansion portugaise."
 ---
-
 ![Image de Vasco de Gama](https://upload.wikimedia.org/wikipedia/commons/2/28/Ponte_Vasco_da_Gama_25.jpg)
 
 ![[Carte_Vasco de Gama.png]]

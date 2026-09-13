@@ -20,8 +20,9 @@ indice_6 :
   - 1959
 questions:
  - Entre 1954 et 1964, quel cycliste espagnol surnommé l'Aigle de Tolède a remporté à 6 reprises le classement du meilleur grimpeur du Tour de France?
+culture_g_score: 60
+culture_g_justification: "Grand grimpeur du Tour de France, Bahamontes est une référence historique du cyclisme mais demeure moins fréquent que les champions les plus célèbres."
 ---
-
 ![Image de Federico Bahamontes](https://upload.wikimedia.org/wikipedia/commons/6/66/Federico_Bahamontes_%281962%29.jpg)
 
 ###### Questions

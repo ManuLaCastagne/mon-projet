@@ -22,9 +22,9 @@ indice_6 :
   - Alain Chabat fan
 questions:
  - Quel héros de bande dessinée, apparu en 1969, est un fils des âges farouches...
+culture_g_score: 64
+culture_g_justification: "Héros marquant de la bande dessinée française et de Pif Gadget, mais avec des angles de quiz relativement circonscrits."
 ---
-
-
 ![Image de Rahan](https://upload.wikimedia.org/wikipedia/commons/5/58/Becans_Bridge_on_the_Grand_Canal_near_Rahan%2C_Co._Offaly_-_geograph.org.uk_-_3071408.jpg)
 
 ###### Questions

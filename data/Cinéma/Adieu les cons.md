@@ -20,6 +20,8 @@ indice_5 :
   - satire sociale
 indice_6 : 
   - infertilité et recherche de l'enfant
+culture_g_score: 51
+culture_g_justification: "Film récent récompensé aux César, susceptible d'apparaître ponctuellement dans les quiz de cinéma français."
 ---
 ![[Pasted image 20260804075442.png]]
 ###### Questions

@@ -21,9 +21,9 @@ indice_5 :
   - mouvement tourbillonnant
 indice_6 : 
   - Pays-Bas
+culture_g_score: 96
+culture_g_justification: "La Ronde de Nuit est un chef-d’œuvre universel de Rembrandt, fréquemment interrogé par son auteur, son musée, sa composition et son histoire."
 ---
-
-
 ![Image de Ronde de Nuit](https://upload.wikimedia.org/wikipedia/commons/a/a6/La_ronde_de_nuit_1923_%28141636928%29.jpg)
 
 ###### Questions

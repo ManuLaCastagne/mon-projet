@@ -23,8 +23,9 @@ indice_5 :
   - Socrate
 indice_6 : 
   - Platon
+culture_g_score: 100
+culture_g_justification: "Ville fondatrice de la civilisation grecque classique, de la démocratie, de la philosophie, des arts et des Jeux olympiques modernes."
 ---
-
 ![Image de Athènes](https://upload.wikimedia.org/wikipedia/commons/1/12/Attica_06-13_Athens_28_Academy_of_Athens.jpg)
 
 ![[Carte_Athènes.png]]

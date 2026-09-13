@@ -18,8 +18,9 @@ indice_5 :
   - comédie marseillaise
 indice_6 : 
   - années 1930
+culture_g_score: 64
+culture_g_justification: "Acteur français classique fortement associé à Pagnol et à la trilogie marseillaise, mais à la portée surtout nationale."
 ---
-
 ![Image de Raimu](https://upload.wikimedia.org/wikipedia/commons/6/61/Raimu_-_photo_Henri_Manuel.jpg)
 
 ###### Questions

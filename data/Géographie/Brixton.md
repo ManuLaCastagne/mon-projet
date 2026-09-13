@@ -20,8 +20,9 @@ indice_5:
   - Brockwell Park
 indice_6:
   - Black Cultural Archives
+culture_g_score: 60
+culture_g_justification: "Quartier londonien associé aux émeutes de 1981, à la culture afro-caribéenne et à David Bowie, Brixton offre plusieurs angles classiques."
 ---
-
 ![[Carte_Brixton.png]]
 
 ###### Questions

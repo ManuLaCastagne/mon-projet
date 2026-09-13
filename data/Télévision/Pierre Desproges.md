@@ -20,8 +20,9 @@ indice_6 :
   - chroniqueur télé
 questions:
  - En 1975 pour "Le Petit Rapporteur", quel humoriste interviewe Françoise Sagan en lui demandant   "Comment ça va, la petite santé ?"
+culture_g_score: 80
+culture_g_justification: "Humoriste majeur de la télévision et de la langue française, régulièrement interrogé sur ses émissions, citations et collaborations."
 ---
-
 ![Image de Pierre Desproges](https://upload.wikimedia.org/wikipedia/commons/0/06/Pierre_Desproges17.jpg)
 
 ###### Questions

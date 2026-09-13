@@ -18,8 +18,9 @@ indice_5 :
   - arrestation 1307
 indice_6 : 
   - dissolution par le pape Clement V
+culture_g_score: 84
+culture_g_justification: "Ordre emblématique des Croisades, des légendes médiévales et de l'histoire de France, très régulièrement mobilisé dans les quiz."
 ---
-
 ![Image de ordre des Templiers](https://upload.wikimedia.org/wikipedia/commons/d/dc/Verlinghem_La_ferme_des_Templiers_en_2021_%283%29.JPG)
 
 ###### Questions

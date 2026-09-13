@@ -22,8 +22,9 @@ indice_6 :
   - Adèle Blanc-Sec
 questions:
  - En refusant la rosette, quel auteur de bandes dessinées, créateur d'Adèle Blanc-Sec...
+culture_g_score: 7
+culture_g_justification: "Cette référence littéraire apparaît extrêmement obscure et ne constitue pas une connaissance rentable pour un entraînement généraliste."
 ---
-
 ![Image de Jacques Tardy](https://upload.wikimedia.org/wikipedia/commons/2/2e/The_Confessions_of_Jean-Jacques_Rousseau%2C_Aldus%2C_1903%2C_v._1.pdf)
 
 ###### Questions

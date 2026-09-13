@@ -15,8 +15,9 @@ indice_6 :
   - Chien de chasse
 questions:
  - Quel chien robuste à la robe blanche, créé en 1910 en Argentine, est employé pour chasser le puma et le sanglier à la campagne?
+culture_g_score: 32
+culture_g_justification: "Le dogue argentin est une race notable mais relativement niche, apparaissant rarement hors des questions spécialisées sur les chiens."
 ---
-
 ![Image de Dogue argentin](https://upload.wikimedia.org/wikipedia/commons/9/97/Dogue_argentin_et_les_enfants.jpg)
 
 ###### Questions

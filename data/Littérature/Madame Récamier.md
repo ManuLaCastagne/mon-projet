@@ -21,8 +21,9 @@ indice_6:
   - épouse de banquier
 questions:
   - Dans la 1re moitié du Culture_G/XIXe siècle, quelle femme de lettres, originaire de Lyon, est devenue la muse et la confidente de Chateaubriand?
+culture_g_score: 64
+culture_g_justification: "Salonnière et muse emblématique de la France napoléonienne, surtout rentable pour ses relations littéraires et le portrait de David."
 ---
-
 ![Image de Madame Récamier](https://upload.wikimedia.org/wikipedia/commons/2/27/%28Venice%29_Portrait_of_Madame_R%C3%A9camier_after_Fran%C3%A7ois_G%C3%A9rard_-_Museo_Correr.jpg)
 
 ###### Questions

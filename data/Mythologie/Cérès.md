@@ -18,8 +18,9 @@ indice_6 :
   - moissons et récoltes
 questions:
  - Quelle est la déesse romaine des moissons ?
+culture_g_score: 68
+culture_g_justification: "Équivalent romain de Déméter, avec quelques prolongements astronomiques et religieux, mais une fréquence modérée."
 ---
-
 ![Image de Cérès](https://upload.wikimedia.org/wikipedia/commons/3/37/Ceres_Blender_render.webp)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Maison-Blanche
 questions:
  - Le 20 janvier 2017, quelle ancienne mannequin, née en Slovénie en 1970, devient la 47e Première Dame des Etats-Unis?
+culture_g_score: 59
+culture_g_justification: "Première dame contemporaine très connue, mais sa portée historique et son rendement culturel général restent limités."
 ---
-
 ![Image de Melania Trump](https://upload.wikimedia.org/wikipedia/commons/4/4c/Melania_Trump_2011.jpg)
 
 ###### Questions

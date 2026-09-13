@@ -20,8 +20,9 @@ indice_5 :
   - La Madeleine à la veilleuse
 indice_6 : 
   - Saint Joseph charpentier
+culture_g_score: 67
+culture_g_justification: "Peintre classique des scènes nocturnes à la bougie, il se rattache à la peinture française, au clair-obscur et à la redécouverte des maîtres anciens."
 ---
-
 ![Image de Georges de La Tour](https://upload.wikimedia.org/wikipedia/commons/f/f5/%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg)
 
 ###### Questions

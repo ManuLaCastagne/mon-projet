@@ -23,8 +23,9 @@ indice_6 :
   - marbre
 questions:
  - De quel sculpteur italien, né en 1757, Louvre conserve-t-il les statues "L'Amour et Psyché" ainsi que "Psyché ranimée par le baiser de l'Amour" ?
+culture_g_score: 80
+culture_g_justification: "Principal sculpteur du néoclassicisme, associé à Napoléon, au Louvre et à plusieurs œuvres très célèbres comme Psyché et Cupidon."
 ---
-
 ![Image de Antonio Canova](https://upload.wikimedia.org/wikipedia/commons/b/b8/Artgate_Fondazione_Cariplo_-_Canova_Antonio%2C_Allegoria_della_Giustizia.jpg)
 
 ###### Questions

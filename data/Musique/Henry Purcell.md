@@ -22,9 +22,9 @@ indice_6 :
   - Orphée britannique
 questions:
  - A quel compositeur anglais doit-on en 1689 l'opéra "Didon et Enée" ?
+culture_g_score: 67
+culture_g_justification: "Purcell est un compositeur baroque majeur, notamment grâce à Didon et Énée, mais demeure moins fréquent que Bach, Mozart ou Haendel."
 ---
-
-
 ![Image de Henry Purcell](https://upload.wikimedia.org/wikipedia/commons/a/a9/Henry_Purcell.png)
 
 ###### Questions

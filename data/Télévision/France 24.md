@@ -20,8 +20,9 @@ indice_6 :
   - financée par la France
 questions:
  - Reçu par 355 millions de foyers sur les 5 continents, j'émets en 4 langues, l'anglais, l'arabe, l'espagnol et le français.
+culture_g_score: 64
+culture_g_justification: "Chaîne internationale française importante pour les questions sur les médias, la francophonie et la communication publique."
 ---
-
 ![Image de France 24](https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - 1972
 questions:
  - De 2 inconnus, incarnés par Maria Schneider et Marlon...
+culture_g_score: 80
+culture_g_justification: "Film sulfureux et durablement célèbre de Bertolucci, exploitable par son casting, sa polémique, sa musique et son histoire de réception."
 ---
-
 ![Image de Dernier Tango à Paris](https://upload.wikimedia.org/wikipedia/commons/1/1a/Ultimo_tango_a_Parigi_-_wikillustrazione_1.jpg)
 
 ###### Questions

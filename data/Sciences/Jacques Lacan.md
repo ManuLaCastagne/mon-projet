@@ -20,9 +20,9 @@ indice_6 :
   - L'imaginaire, le symbolique et le réel
 questions:
  - Quel psychanalyste, fondateur en 1964 de l'Ecole freudienne de Paris, considérait que l'inconscient devait s'interpréter comme un langage ?
+culture_g_score: 71
+culture_g_justification: "Lacan est une référence importante de la psychanalyse et de la pensée française, mais ses concepts restent relativement exigeants et spécialisés."
 ---
-
-
 ![Image de Jacques Lacan](https://upload.wikimedia.org/wikipedia/commons/0/04/Lacan_interne_c._1928.png)
 
 ###### Questions

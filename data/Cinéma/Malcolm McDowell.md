@@ -20,9 +20,9 @@ indice_5:
   - carrière prolifique
 indice_6:
   - Star Trek Generations
+culture_g_score: 64
+culture_g_justification: "Acteur durablement identifié à Alex dans Orange mécanique, avec quelques rôles secondaires utiles mais une portée limitée."
 ---
-
-
 ![Image de Malcolm McDowell](https://upload.wikimedia.org/wikipedia/commons/b/b7/Malcolm_McDowell_LF.JPG)
 
 ###### Questions

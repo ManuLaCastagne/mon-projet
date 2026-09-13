@@ -19,8 +19,9 @@ indice_5 :
   - franchisé d'agences immobilières
 indice_6 : 
   - sa passion pour le théâtre
+culture_g_score: 60
+culture_g_justification: "Animateur populaire et immédiatement associé à l’immobilier télévisé, avec une notoriété supérieure à son importance culturelle intrinsèque."
 ---
-
 ![Image de Stéphane Plaza](https://upload.wikimedia.org/wikipedia/commons/5/5f/St%C3%A9phane_Plaza_en_2019.png)
 
 ###### Questions

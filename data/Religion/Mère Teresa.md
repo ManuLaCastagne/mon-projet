@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - En 2016, quelle religieuse d'origine albanaise, fut prix Nobel de la paix en 79 ?
  - A quelle religieuse originaire des Balkans doit-on ces mots, "la vie est un défi à relever, un bonheur à mériter, une aventure "à tenter" ?
+culture_g_score: 84
+culture_g_justification: "Personnalité religieuse et humanitaire mondialement connue, associée à Calcutta, au Nobel, aux Missionnaires de la Charité et à la canonisation."
 ---
-
 ![Image de Mère Teresa](https://upload.wikimedia.org/wikipedia/commons/7/78/Rue_M%C3%A8re_Teresa_-_Sevran_%28FR93%29_-_2023-05-27_-_1.jpg)
 
 ###### Questions

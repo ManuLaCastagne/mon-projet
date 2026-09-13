@@ -20,8 +20,9 @@ indice_6 :
   - Rumble in the Jungle
 questions:
  - En 2007, quel boxeur, né à Pointe-à-Pitre en 1972, réunifie une nouvelle fois les titres de champion du monde des lourds-légers WBA et WBC?
+culture_g_score: 60
+culture_g_justification: "Champion du monde français des lourds-légers, Mormeck est une référence de boxe identifiable mais d’audience limitée."
 ---
-
 ![Image de Jean-Marc Mormeck](https://upload.wikimedia.org/wikipedia/commons/8/87/Mormeckhead.jpg)
 
 ###### Questions

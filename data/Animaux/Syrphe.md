@@ -15,10 +15,9 @@ indice_6 :
   - Pollinisateur important
 questions:
  - Quel insecte, dont une espèce est dite ceinturé, est une mouche ressemblant à une guêpe?
+culture_g_score: 44
+culture_g_justification: "Le syrphe est utile pour distinguer un pollinisateur d'une abeille et aborder la lutte biologique, mais sa fréquence reste modérée."
 ---
-
-
-
 ![Image de Syrphe](https://upload.wikimedia.org/wikipedia/commons/5/5a/Hoverfly_cockade_stack-20190809-RM-064310.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Des chiffres et des lettres
 indice_6 : 
   - pionnier de la télévision française
+culture_g_score: 48
+culture_g_justification: "Producteur important de la télévision française, utile pour quelques émissions majeures mais rarement connu comme réponse autonome."
 ---
-
 ![Image de Armand Jammot]()
 
 ###### Questions

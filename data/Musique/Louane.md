@@ -23,8 +23,9 @@ indice_6:
   - Avenir
 questions:
   - Les tubes "Jour 1", "Avenir", jouant la jeune Paula dans la comédie "La Famille Bélier", j'ai sorti mon 3e album en 2020, je suis…
+culture_g_score: 64
+culture_g_justification: "Personnalité très connue de la chanson et du cinéma français contemporain, mais encore moins structurante que les grandes figures historiques de la musique."
 ---
-
 ![Image de Louane](https://upload.wikimedia.org/wikipedia/commons/6/66/Louane-0699.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - Un air de famille
 questions:
   - En 2004, dans "Les Sœurs Fâchées" d'Alexandra Leclerc, quelle actrice incarne la sœur d'Isabelle Huppert ?
+culture_g_score: 64
+culture_g_justification: "Actrice française connue pour plusieurs comédies et son César, notamment dans Marguerite, mais à la portée quiz plus limitée que les grandes vedettes nationales."
 ---
-
 ![Image de Catherine Frot](https://upload.wikimedia.org/wikipedia/commons/d/d9/Catherine_Frot_C%C3%A9sars_2009.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/32jlifDfBSg1MlaVmZ14RT" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

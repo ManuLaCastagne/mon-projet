@@ -22,8 +22,9 @@ indice_6 :
   - Sénéchal
 questions:
  - Héros de BD apparu dans le magazine "Tintin" le 16 avril 1968, mes aventures rencontrent un succès tel qu'en 1989, mon éditeur donne mon nom à un nouveau bimestriel. Gros chien blanc débonnaire dont le maître, dénommé Sémaphore, est un ancien marin, j'ai pour ennemi le chat Sénéchal. Evoluant dans un univers...
+culture_g_score: 60
+culture_g_justification: "Personnage durable de la bande dessinée belge, régulièrement identifiable dans les quiz BD, mais avec une portée culturelle plus limitée."
 ---
-
 ![Image de Cubitus](https://upload.wikimedia.org/wikipedia/commons/f/ff/Belgique_-_Brabant_wallon_-_Limal_-_Cubitus_-_01.jpg)
 
 ###### Questions

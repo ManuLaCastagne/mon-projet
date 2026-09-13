@@ -23,8 +23,9 @@ indice_6 :
   - Ballet impérial russe
 questions:
  - De 1869 à 1904, quel danseur et chorégraphe français fut maître de ballet au Théâtre impérial de Saint-Pétersbourg ?
+culture_g_score: 84
+culture_g_justification: "Chorégraphe fondamental du ballet classique, directement relié à plusieurs ballets célèbres, à la Russie impériale et au répertoire mondial."
 ---
-
 ![Image de Marius Petipa](https://upload.wikimedia.org/wikipedia/commons/f/fe/Marius_Petipa_-1898.jpg)
 
 ###### Questions

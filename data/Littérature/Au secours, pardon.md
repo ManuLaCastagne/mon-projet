@@ -22,8 +22,9 @@ indice_6 :
   - critique de la société de consommation
 questions:
  - En 2007, quel roman de Frédéric Beigbeder débute par  "C'est l'année de mes 40 ans que je suis devenu complètement fou"?
+culture_g_score: 27
+culture_g_justification: "Suite identifiable de 99 francs, mais œuvre relativement secondaire et peu rentable hors de l’univers de Beigbeder."
 ---
-
 ![Image de Au secours, pardon](https://upload.wikimedia.org/wikipedia/commons/c/c8/Cadoret_-_Pardon_Itron-Varia_Wir-Zikour%2C_1912.djvu)
 
 ###### Questions

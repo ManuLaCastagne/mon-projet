@@ -18,6 +18,8 @@ indice_5 :
   - Adolescence
 indice_6 : 
   - Glénat
+culture_g_score: 44
+culture_g_justification: "BD contemporaine populaire liée à Riad Sattouf et à la société française, mais encore peu fréquente dans les quiz classiques."
 ---
 ![[Pasted image 20250503121148.png]]
 ###### Questions

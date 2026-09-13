@@ -18,8 +18,9 @@ indice_5 :
   - Adrian Pennino
 indice_6 : 
   - Mickey Goldmill
+culture_g_score: 96
+culture_g_justification: "Film emblématique lié au sport, aux Oscars, à Stallone et à une franchise très présente dans la culture populaire."
 ---
-
 ![Image de Rocky (film)](https://upload.wikimedia.org/wikipedia/commons/7/71/Rocky_Logo.svg)
 
 ###### Questions

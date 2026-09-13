@@ -1,3 +1,8 @@
+---
+culture_g_score: 73
+culture_g_justification: "Comédie très connue, rentable pour Meryl Streep, la mode, Anna Wintour et la culture populaire, malgré une importance intrinsèque modérée."
+---
+
 ###### Questions
 
 Dans quel film [[Meryl Streep]] est la rédactrice en chef du magazine [[Runway]] ?

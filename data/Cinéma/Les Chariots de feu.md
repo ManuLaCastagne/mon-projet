@@ -22,8 +22,9 @@ indice_6 :
   - médaille d'or
 questions:
  - En 1981, dans quel film  de Hugh Hudson la musique de Vangelis accompagne-t-elle une scène où des sportifs courent le long d'une plage?
+culture_g_score: 80
+culture_g_justification: "Classique sportif britannique très rentable par ses Oscars, Vangelis, les Jeux de 1924 et son thème du dépassement de soi."
 ---
-
 ![Image de Chariots de feu](https://upload.wikimedia.org/wikipedia/commons/8/87/Les_filles_du_feu_by_Nerval%2C_G%C3%A9rard_de.pdf)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6GxhckZeqoWNF9n9XS91HS" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

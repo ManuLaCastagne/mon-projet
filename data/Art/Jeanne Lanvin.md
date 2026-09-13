@@ -23,8 +23,9 @@ indice_6:
   - années 1920
 questions:
   - En 1893, quelle couturière française ouvre sa maison de couture rue Faubourg Saint-Honoré à Paris ?
+culture_g_score: 52
+culture_g_justification: "Jeanne Lanvin est une référence de l’histoire de la mode, surtout utile pour la haute couture, les parfums et les maisons de luxe françaises."
 ---
-
 ![Image de Jeanne Lanvin](https://upload.wikimedia.org/wikipedia/commons/a/af/Jeanne_Lanvin_Harcourt.jpg)
 
 ###### Questions

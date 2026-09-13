@@ -20,8 +20,9 @@ indice_6 :
   - Chevaux arabes
 questions:
  - A quelle milice d'élite, ayant joué un grand rôle en Égypte, appartenaient les cavaliers vaincus aux Pyramides ?
+culture_g_score: 68
+culture_g_justification: "Sujet utile pour relier esclavage militaire, Égypte, monde islamique, Mongols et expansion ottomane."
 ---
-
 ![Image de Mamelouks](https://upload.wikimedia.org/wikipedia/commons/1/19/Carle-vernet-retraite-de-mameluck-%28engraved-by-debucourt%29.jpg)
 
 ###### Questions

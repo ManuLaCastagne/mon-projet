@@ -22,8 +22,9 @@ indice_6 :
   - Le Ciel sur la tête
 questions:
  - En 2011, quel acteur français incarne le fils d'un vigneron joué par Niels Arestrup dans "Tu seras mon fils"?
+culture_g_score: 40
+culture_g_justification: "Acteur français identifiable par quelques films et son livre sur Paris, mais à la rentabilité limitée."
 ---
-
 ![Image de Lorànt Deutsch](https://upload.wikimedia.org/wikipedia/commons/9/90/Lorant_Deutsch_2014.jpg)
 
 ###### Questions

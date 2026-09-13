@@ -21,9 +21,9 @@ indice_6 :
 questions:
  - J'ai effectué ma dernière mission à l'âge de 96 ans dans l'Adrar de Mauritanie, que j'appelais mon diocèse. Naturaliste spécialiste du désert, je suis…
  - On vient d'entendre "Et si en plus y a personne", chanson d'Alain Souchon, qui figurait sur un album paru en 2005 intitulé "La Vie Théodore". A quel naturaliste français...
+culture_g_score: 52
+culture_g_justification: "Naturaliste et explorateur français important, surtout utile pour des questions sur le Sahara, l'Afrique et l'écologie."
 ---
-
-
 ![Image de Théodore Monod](https://upload.wikimedia.org/wikipedia/commons/f/f5/Theodore_Monod_-_Adrar_de_Mauritanie_-_Oued_Akerdil_-_D%C3%A9cembre_1998.jpg)
 
 ###### Questions

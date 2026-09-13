@@ -24,8 +24,9 @@ indice_6:
   - bord de la rivière Hlaing
 questions:
   - Comptant beaucoup d'édifices coloniaux, en Asie du Sud-Est…
+culture_g_score: 60
+culture_g_justification: "Ancienne capitale birmane, Rangoun se rencontre dans les questions sur le Myanmar, la pagode Shwedagon et la guerre d’indépendance."
 ---
-
 ![Image de Rangun](https://upload.wikimedia.org/wikipedia/commons/5/53/2016_Rangun%2C_Pagoda_Szwedagon_%28143%29.jpg)
 
 ![[Carte_Rangun.png]]

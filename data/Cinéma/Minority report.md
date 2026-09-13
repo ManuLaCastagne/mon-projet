@@ -22,9 +22,9 @@ indice_6 :
   - prédictions futures
 questions:
  - En 2002, dans quel film se déroulant en 2054, Tom Cruise est-il un policier chargé d'arrêter de futurs meurtriers, ce qui pose une vraie question, arrêter un criminel avant qu'il ait commis son crime ?
+culture_g_score: 64
+culture_g_justification: "Film de Spielberg souvent cité pour sa science-fiction, Philip K. Dick et ses technologies de surveillance, mais moins incontournable que ses grands classiques."
 ---
-
-
 ![Image de Minority report](https://upload.wikimedia.org/wikipedia/commons/6/6e/Minority_Report_cast.jpg)
 
 ###### Questions

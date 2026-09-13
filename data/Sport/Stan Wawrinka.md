@@ -18,8 +18,9 @@ indice_5:
   - Roger Federer
 indice_6:
   - terre battue
+culture_g_score: 77
+culture_g_justification: "Tennisman suisse plusieurs fois vainqueur en Grand Chelem, régulièrement interrogé pour ses victoires contre les membres du Big Three."
 ---
-
 ![Image de Stan Wawrinka](https://upload.wikimedia.org/wikipedia/commons/f/fe/Stan_Wawrinka_%2849985471396%29_%28cropped%29.jpg)
 
 ###### Questions

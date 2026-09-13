@@ -22,8 +22,9 @@ indice_6 :
   - festival
 questions:
  - En 2015, quel long-métrage du cinéaste mauritanien Abderrahmane Sissako, mettant en scène un éleveur touareg, est récompensé par 7 césars dont ceux du meilleur film et du meilleur réalisateur?
+culture_g_score: 65
+culture_g_justification: "Film français majeur sur un sujet contemporain, régulièrement associé à Sissako, aux César, aux Oscars et au Mali."
 ---
-
 ![Image de Timbuktu](https://upload.wikimedia.org/wikipedia/commons/b/b2/Djinguereber_Mosque%2C_Timbuktu%2C_Mali.jpg)
 
 ###### Questions

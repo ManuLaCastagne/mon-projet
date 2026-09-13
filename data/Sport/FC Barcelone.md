@@ -20,8 +20,9 @@ indice_6 :
   - Johan Cruyff
 questions:
  - Dans quel grand club espagnol, 10 fois champion d'Europe...
+culture_g_score: 96
+culture_g_justification: "Club mondialement célèbre, le Barça est un sujet extrêmement rentable grâce à son histoire, ses joueurs, ses titres, sa ville et sa culture."
 ---
-
 ![Image de FC Barcelone](https://upload.wikimedia.org/wikipedia/commons/2/2d/Le_FC_Barcelone_en_juin_1905.jpg)
 
 ###### Questions

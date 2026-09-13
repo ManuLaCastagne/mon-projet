@@ -15,8 +15,9 @@ indice_6 :
   - Utilisation  Consommé comme un mets délicat
 questions:
  - Quel champignon, également appelé oronge vraie porte un nom rappelant qu'il constituait autrefois un mets très apprécié des empereurs romains ?
+culture_g_score: 40
+culture_g_justification: "Champignon comestible au nom pittoresque et à quelques références historiques, mais rarement utile au-delà de son identification."
 ---
-
 ![Image de Amanite des Césars](https://upload.wikimedia.org/wikipedia/commons/0/0c/Amanite_des_C%C3%A9sars_sauce_verte.jpg)
 
 ###### Questions

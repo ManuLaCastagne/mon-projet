@@ -20,8 +20,9 @@ indice_6 :
   - Torjäger
 questions:
  - Joueur surnommé "der Bomber" je suis...
+culture_g_score: 80
+culture_g_justification: "Buteur emblématique de l'Allemagne, fréquemment associé à la finale de 1974, aux records de buts et à l'histoire du Bayern."
 ---
-
 ![Image de Gerd Muller](https://upload.wikimedia.org/wikipedia/commons/3/35/Gerd_B._M%C3%BCller_%28September_2008%29.jpg)
 
 ###### Questions

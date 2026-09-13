@@ -22,8 +22,9 @@ indice_5 :
   - Cigares et rhum
 indice_6 : 
   - Musique salsa et mambo
+culture_g_score: 84
+culture_g_justification: "Capitale emblématique de Cuba, La Havane est fréquemment associée à la révolution, au Malecón, à l’architecture et à la culture latino-américaine."
 ---
-
 ![Image de La Havane](https://upload.wikimedia.org/wikipedia/commons/3/34/La_Havane_cathedrale_face.JPG)
 
 ![[Carte_La Havane.png]]

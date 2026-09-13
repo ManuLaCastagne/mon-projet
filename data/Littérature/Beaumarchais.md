@@ -22,8 +22,9 @@ indice_6 :
   - soutien à la Révolution américaine
 questions:
  - En 1777, quel écrivain ayant pour prénom Pierre-Augustin Caron et auteur dramatique français a fondé la 1re société de protection des droits des auteurs?
+culture_g_score: 80
+culture_g_justification: "Dramaturge classique associé à deux pièces incontournables, à la Révolution française, aux Lumières et à l’histoire américaine."
 ---
-
 ![Image de Beaumarchais](https://upload.wikimedia.org/wikipedia/commons/a/ae/D%27apr%C3%A8s_Jean-Marc_Nattier%2C_Portrait_de_Pierre-Augustin_Caron_de_Beaumarchais_%28Biblioth%C3%A8que-mus%C3%A9e_de_la_Com%C3%A9die-Fran%C3%A7aise%29_-001.jpg)
 
 ###### Questions

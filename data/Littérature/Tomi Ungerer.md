@@ -22,8 +22,9 @@ indice_6 :
   - auteur et dessinateur engagé
 questions:
  - Quel écrivain alsacien a écrit "Maître des Brumes" et "Trois Brigands" ?
+culture_g_score: 72
+culture_g_justification: "Illustrateur alsacien reconnu internationalement, utile pour la littérature jeunesse, l'illustration satirique, Jean de la Lune et la culture strasbourgeoise."
 ---
-
 ![Image de Tomi Ungerer](https://upload.wikimedia.org/wikipedia/commons/3/35/Tomi_Ungerer_par_Claude_Truong-Ngoc_mars_2014.jpg)
 
 ###### Questions

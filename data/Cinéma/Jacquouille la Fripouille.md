@@ -22,8 +22,9 @@ indice_6 :
   - comédie française
 questions:
  - Personnage des "Visiteurs", écuyer de Godefroy de Montmirail, dont l'un des descendants a pour nom Jacquart, j'ai été incarné à 3 reprises par Christian Clavier, je suis…
+culture_g_score: 64
+culture_g_justification: "Personnage comique emblématique des Visiteurs, régulièrement identifiable par Christian Clavier et la culture populaire française."
 ---
-
 ![Image de Jacquouille la Fripouille](https://upload.wikimedia.org/wikipedia/commons/3/34/Les_Visiteurs%2C_La_R%C3%A9volution_-_Logo.png)
 
 ###### Questions

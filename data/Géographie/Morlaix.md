@@ -21,9 +21,9 @@ indice_5 :
   - Musée des Jacobins
 indice_6 : 
   - Place des Otages
+culture_g_score: 40
+culture_g_justification: "Ville bretonne patrimoniale pouvant être interrogée sur son viaduc et son architecture, mais de portée limitée."
 ---
-
-
 ![[Carte_Morlaix.png]]
 
 ###### Questions

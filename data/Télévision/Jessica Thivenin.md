@@ -19,8 +19,9 @@ indice_5 :
   - Influenceuse
 indice_6 : 
   - Chirurgie esthétique
+culture_g_score: 24
+culture_g_justification: "Star de téléréalité connue surtout dans la culture médiatique récente, avec une faible fréquence dans les quiz généralistes."
 ---
-
 ![Image de Jessica Thivenin](https://upload.wikimedia.org/wikipedia/commons/e/e7/Con_Jessica_Garcia.jpg)
 
 ###### Questions

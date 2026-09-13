@@ -20,8 +20,9 @@ indice_6 :
   - Trotteur
 questions:
  - Début 2019, dans le monde des courses hippiques, quel driver reçoit, pour la 20e fois de sa carrière, la récompense…
+culture_g_score: 40
+culture_g_justification: "Figure importante du trot français, Bazire reste un sujet très spécialisé et peu rentable hors des quiz hippiques."
 ---
-
 ![Image de Jean-Michel Bazire](https://upload.wikimedia.org/wikipedia/commons/1/1d/Jean-Michel_BAZIRE.JPG)
 
 ###### Questions

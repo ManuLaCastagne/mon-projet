@@ -24,8 +24,9 @@ indice_6 :
   - abbaye de Beauport
 questions:
  - Quelle commune des Côtes-d'Armor est associée à une variété de haricot demi-sec de type coco...
+culture_g_score: 40
+culture_g_justification: "Port breton associé à La Paimpolaise et aux chants marins, avec une portée principalement régionale et touristique."
 ---
-
 ![Image de Paimpol](https://upload.wikimedia.org/wikipedia/commons/b/bd/Paimpol_2012.JPG)
 
 ![[Carte_Paimpol.png]]

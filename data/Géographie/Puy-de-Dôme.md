@@ -24,8 +24,9 @@ indice_6 :
   - Limagnes
 questions:
  - Département français dont, depuis 2006, la mascotte est une loutre, j'abrite à l'ouest les plateaux cristallins de Combraille et granitiques d'Artense. Formé de 5 arrondissements dont Issoire et Ambert sont des chefs-lieux, je suis entouré…
+culture_g_score: 60
+culture_g_justification: "Département français identifiable par Clermont-Ferrand et le volcan homonyme, avec une utilité surtout géographique et régionale."
 ---
-
 ![Image de Puy-de-Dôme](https://upload.wikimedia.org/wikipedia/commons/3/35/Puy_de_D%C3%B4me_-_136.jpg)
 
 ![[Carte_Puy-de-Dôme.png]]

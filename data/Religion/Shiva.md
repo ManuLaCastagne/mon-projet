@@ -20,8 +20,9 @@ indice_6:
   - Destructeur
 questions:
   - Quelle divinité du panthéon hindou est doté d'un 3ème œil fermé…
+culture_g_score: 91
+culture_g_justification: "Grande divinité hindoue, Shiva permet d’aborder la Trimurti, la mythologie, l’iconographie, la danse cosmique et les pratiques religieuses."
 ---
-
 ![Image de Shiva](https://upload.wikimedia.org/wikipedia/commons/2/26/Little_Shiva_edited.jpg)
 
 ###### Questions

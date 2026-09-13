@@ -22,8 +22,9 @@ indice_6 :
   - Qu'est-ce qu'on attend pour être heureux ?
 questions:
  - En 1936, quel chef d'orchestre des "Collégiens" apparaît dans le film "Tout va très bien, madame la marquise", dont le titre reprend l'un de ses succès?
+culture_g_score: 51
+culture_g_justification: "Figure notable de la chanson et du cinéma français d’avant-guerre, mais désormais assez spécialisée et peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Ray Ventura](https://upload.wikimedia.org/wikipedia/commons/6/60/Ray_Ventura.jpg)
 
 ###### Questions

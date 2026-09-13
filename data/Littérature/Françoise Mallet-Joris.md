@@ -22,8 +22,9 @@ indice_6 :
   - 1930
 questions:
  - Membre de l'académie Goncourt et de l'Académie royale de Belgique, j'ai reçu en 1958 le prix Femina pour le roman "L'Empire céleste".  Auteure d'une trentaine de livres, dont "Le Rempart des Béguines", qui fit scandale à sa parution…
+culture_g_score: 31
+culture_g_justification: "Romancière belge reconnue dans le monde littéraire, mais peu présente dans les questions généralistes hors de quelques œuvres précises."
 ---
-
 ![Image de Françoise Mallet-Joris](https://upload.wikimedia.org/wikipedia/commons/6/6d/Fran%C3%A7oise_Mallet-Joris.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Couronne d'Aragon
 questions:
  - Quel empereur germanique, né en 1500, hérita par sa mère Jeanne la Folle de la Castille, de l'Aragon...
+culture_g_score: 100
+culture_g_justification: "Souverain central de la Renaissance européenne, reliant Espagne, Habsbourg, Saint-Empire, Réforme, guerres et rivalité avec François Ier."
 ---
-
 ![Image de Charles Quint](https://upload.wikimedia.org/wikipedia/commons/5/5d/Maison_Charles_Quint_Bonifacio.JPG)
 
 ###### Questions

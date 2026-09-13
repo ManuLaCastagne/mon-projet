@@ -24,8 +24,9 @@ indice_6 :
   - Le delta du Niger est une région pétrolière importante
 questions:
  - Quel Etat fédéral constituant le pays le plus peuplé d'Afrique est représenté par un drapeau vert et blanc adopté en 1960 ?
+culture_g_score: 80
+culture_g_justification: "Même sujet que le Nigeria : un grand pays africain très rentable par sa démographie, ses ressources, son histoire et son rôle régional."
 ---
-
 ![Image de Nigéria](https://upload.wikimedia.org/wikipedia/commons/d/df/Consulate_General_of_the_Federal_Republic_of_Nigeria_Frankfurt_Am_Main.jpg)
 
 ![[Carte_Nigéria.png]]

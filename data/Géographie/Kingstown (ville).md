@@ -9,9 +9,9 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6:
+culture_g_score: 32
+culture_g_justification: "Capitale d’un petit État caribéen, Kingstown reste une référence géographique assez rarement interrogée."
 ---
-
-
 ![Image de Kingstown](https://upload.wikimedia.org/wikipedia/commons/c/cb/St._Vincent%2C_Karibik_-_Kingstown_City_-_panoramio.jpg)
 
 ###### Questions

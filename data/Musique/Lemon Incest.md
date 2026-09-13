@@ -22,9 +22,9 @@ indice_6 :
   - relation provocante
 questions:
  - En 1984, pour quelle chanson, interprétée en duo avec sa fille Charlotte Gainsbourg, revisite-t-il une étude de Chopin?
+culture_g_score: 52
+culture_g_justification: "Chanson controversée de Gainsbourg régulièrement citée pour sa polémique et Charlotte Gainsbourg, mais à portée culturelle limitée."
 ---
-
-
 ![Image de Lemon Incest](https://upload.wikimedia.org/wikipedia/commons/5/5e/The_real_Charlotte_%28IA_realcharlotte03somerich%29.pdf)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_5:
   - Le Crime de l'Orient-Express
 indice_6:
   - Serpico
+culture_g_score: 67
+culture_g_justification: "Réalisateur majeur du cinéma américain associé à plusieurs films classiques et à des acteurs célèbres."
 ---
-
-
-
 ![Image de Sydney Lumet](https://upload.wikimedia.org/wikipedia/commons/e/e4/SidneyLumet07TIFF.jpg)
 
 ###### Questions

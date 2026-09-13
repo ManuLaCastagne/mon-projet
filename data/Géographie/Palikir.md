@@ -20,9 +20,9 @@ indice_5:
   - Climat équatorial
 indice_6:
   - Habitée par les États fédérés de Micronésie
+culture_g_score: 20
+culture_g_justification: "Capitale d’un petit État insulaire du Pacifique, principalement utile pour une question de capitales très spécialisée."
 ---
-
-
 ![Image de Palikir](https://upload.wikimedia.org/wikipedia/commons/2/26/Palikir.JPG)
 
 ![[Carte_Palikir.png]]

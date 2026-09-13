@@ -20,9 +20,9 @@ indice_6 :
   - santé publique
 questions:
  - Quel mot anglais désigne le mélange de brouillard et de fumées issues de la combustion du charbon qui a pollué Londres ?
+culture_g_score: 64
+culture_g_justification: "Notion environnementale connue, surtout rentable pour les épisodes de pollution urbaine, Londres, Los Angeles et l’étymologie anglaise."
 ---
-
-
 ![Image de Smog](https://upload.wikimedia.org/wikipedia/commons/c/c1/2017_Smog_nad_Now%C4%85_Rud%C4%85.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - comédie policière britannique
 questions:
  - En 2007, dans quelle comédie Simon Pegg incarne-t-il un excellent policier muté dans un village...
+culture_g_score: 52
+culture_g_justification: "Comédie britannique culte chez les cinéphiles, avec plusieurs liens au cinéma de genre, mais une fréquence généraliste modérée."
 ---
-
 ![Image de Hot Fuzz](https://upload.wikimedia.org/wikipedia/commons/2/24/Hot_fuzz_logo_%28only_text%29.svg)
 
 ###### Questions

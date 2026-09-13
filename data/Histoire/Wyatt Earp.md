@@ -20,9 +20,9 @@ indice_6 :
   - Hors-la-loi
 questions:
  - Quel légende de l'Ouest ayant été marshall de Dodge City, s'illustre dans un règlement de compte avec ses frères à OK Corral ?
+culture_g_score: 75
+culture_g_justification: "Figure mythique du Far West, fréquemment associée à OK Corral et aux représentations du western, mais d’importance historique limitée."
 ---
-
-
 ![Image de Wyatt Earp](https://upload.wikimedia.org/wikipedia/commons/6/6c/Wyatt_Earp_portrait.png)
 
 ###### Questions

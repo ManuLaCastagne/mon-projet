@@ -18,8 +18,9 @@ indice_5 :
   - Russie impériale
 indice_6 : 
   - Natache Rostov
+culture_g_score: 100
+culture_g_justification: "Chef-d’œuvre mondial de Tolstoï, mobilisable en littérature, histoire, Russie, guerres napoléoniennes et culture artistique."
 ---
-
 ![Image de Guerre et Paix](https://upload.wikimedia.org/wikipedia/commons/c/c3/Fine_Art%2C_War_and_peace_%28Honorable_Mention%29_141202-F-PO994-001.jpg)
 
 ###### Questions

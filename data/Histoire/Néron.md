@@ -20,8 +20,9 @@ indice_6 :
   - Domus Aurea
 questions:
  - Vous venez d'entendre un extrait du "Couronnement de Poppée", la dernière oeuvre attribuée au compositeur italien du XVIIe siècle Monteverdi.  Après la répudiation d'Octavie, de quel empereur romain Poppée a-t-elle été l'épouse?
+culture_g_score: 96
+culture_g_justification: "Empereur romain universellement connu, associé à l’incendie de Rome, aux persécutions, à la culture et aux crises de l’Empire."
 ---
-
 ![Image de Néron](https://upload.wikimedia.org/wikipedia/commons/b/b0/Eglise_Saint-L%C3%A9ger_de_N%C3%A9ron%2C_Eure-et-Loir_%28France%29.JPG)
 
 ###### Questions

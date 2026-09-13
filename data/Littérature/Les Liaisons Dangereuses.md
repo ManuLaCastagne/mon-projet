@@ -22,9 +22,9 @@ indice_6 :
   - XVIIIe siècle
 questions:
  - En 1782, dans quel roman le vicomte de Valmont et la marquise de Merteuil...
+culture_g_score: 84
+culture_g_justification: "Grand classique du roman français, régulièrement interrogé par son auteur, ses personnages, son genre et ses nombreuses adaptations."
 ---
-
-
 ![Image de Liaisons Dangereuses](https://upload.wikimedia.org/wikipedia/commons/6/6f/Choderlos_de_Laclos_-_Les_Liaisons_dangereuses%2C_1869%2C_Tome_1.djvu)
 
 ###### Questions

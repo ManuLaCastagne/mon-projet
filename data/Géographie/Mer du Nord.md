@@ -24,8 +24,9 @@ indice_6 :
   - houle
 questions:
  - Associée dans la météo marine aux zones appelées Dogger et Fischer, j'abrite quelques-uns des plus grands ports d'Europe et suis séparée de la Manche par le détroit...
+culture_g_score: 80
+culture_g_justification: "Mer majeure d'Europe du Nord, importante pour les échanges, les ressources, les guerres et les enjeux énergétiques."
 ---
-
 ![Image de Mer du Nord](https://upload.wikimedia.org/wikipedia/commons/6/6b/Norderney%2C_Nordsee_am_Oststrand_--_2016_--_5167_%28bw%29_-_2.jpg)
 
 ![[Carte_Mer du Nord.png]]

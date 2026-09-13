@@ -22,8 +22,9 @@ indice_6 :
   - Dupuis
 questions:
  - Personnage dont les droits appartiennent, non à mon créateur Rob-Vel, mais à une maison d'édition, j'ai été réinterprété par de nombreux dessinateurs dont Franquin, le créateur de Marsupilami. Jeune groom...
+culture_g_score: 80
+culture_g_justification: "Héros majeur de la bande dessinée franco-belge, associé à Spirou, Fantasio, de nombreux auteurs et plusieurs adaptations."
 ---
-
 ![Image de Spirou](https://upload.wikimedia.org/wikipedia/commons/6/63/BD_Comic_Strip_Festival_stand53_Circus_Spirou_20240908_104018.jpg)
 
 ###### Questions

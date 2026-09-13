@@ -20,8 +20,9 @@ indice_6 :
   - Répondait devant le roi de France
 questions:
  - Par quelle locution a-t-on désigné le chef de la municipalité de Paris à partir du 14e ?
+culture_g_score: 48
+culture_g_justification: "Ancienne fonction municipale parisienne intéressante pour l’histoire de la capitale, mais rarement interrogée au niveau généraliste."
 ---
-
 ![Image de Prévôt des marchands](https://upload.wikimedia.org/wikipedia/commons/5/5f/BOYER_281_-_Armand_J%C3%A9r%C3%B4me_Bignon_Pr%C3%A9v%C3%B4t_des_Marchands_%281764-1771%29.jpg)
 
 ###### Questions

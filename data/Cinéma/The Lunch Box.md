@@ -22,8 +22,9 @@ indice_6 :
   - Ritesh Batra
 questions:
  - En 2013, dans quel film se déroulant à Bombay un homme rencontre-t-il une femme qui lui fait parvenir par erreur un repas ?
+culture_g_score: 43
+culture_g_justification: "Film indien apprécié des cinéphiles, mais encore trop spécialisé pour constituer une priorité généraliste."
 ---
-
 ![Image de The Lunch Box](https://upload.wikimedia.org/wikipedia/commons/2/2c/Roundhouse_wipers.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - épreuves controversées
 indice_6 : 
   - médailles en or
+culture_g_score: 59
+culture_g_justification: "Édition olympique connue pour ses anomalies et son marathon légendaire, mais relativement ancienne et moins rentable que les Jeux les plus célèbres."
 ---
-
 ![Image de Saint-Louis 1904](https://upload.wikimedia.org/wikipedia/commons/2/24/Carte_Marathon_St-Louis-1904_EN.svg)
 
 ###### Questions

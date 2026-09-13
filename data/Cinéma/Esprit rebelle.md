@@ -22,8 +22,9 @@ indice_6 :
   - La Fureur de Vivre
 questions:
  - En 1996, dans quel film américain Michelle Pfeiffer accepte-t-elle d'enseigner dans un collège sulfureux ?
+culture_g_score: 56
+culture_g_justification: "Film connu grâce à Michelle Pfeiffer et Gangsta’s Paradise, mais son importance cinématographique demeure secondaire."
 ---
-
 ![Image de Esprit rebelle](https://upload.wikimedia.org/wikipedia/commons/c/c9/Trobriand_-_Le_rebelle%2C_1842.djvu)
 
 ###### Questions

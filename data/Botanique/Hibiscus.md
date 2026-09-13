@@ -13,8 +13,9 @@ indice_5:
   - Appelé aussi Rose de Chine
 indice_6:
   - Utilisé en tisane ou infusion
+culture_g_score: 60
+culture_g_justification: "Fleur très reconnaissable, susceptible d’apparaître via ses noms, ses usages et ses caractéristiques botaniques."
 ---
-
 ![Image de Hibiscus](https://upload.wikimedia.org/wikipedia/commons/d/d2/Hibiscus_fragilis-IMG_5863.jpg)
 
 ###### Questions

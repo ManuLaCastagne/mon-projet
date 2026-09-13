@@ -22,8 +22,9 @@ indice_5 :
   - Université de Valladolid
 indice_6 : 
   - Cathédrale de Valladolid
+culture_g_score: 59
+culture_g_justification: "Ville historique espagnole utile pour Colomb, Philippe III et l’université, mais moins fréquente que les grandes capitales européennes."
 ---
-
 ![[Carte_Valladolid.png]]
 
 ###### Questions

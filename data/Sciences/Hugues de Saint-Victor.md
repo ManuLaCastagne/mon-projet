@@ -18,8 +18,9 @@ indice_5 :
   - Eruditio Didascalia
 indice_6 : 
   - École de Saint-Victor
+culture_g_score: 27
+culture_g_justification: "Érudit médiéval important dans l’histoire de l’éducation chrétienne, mais très rarement mobilisé hors des questions spécialisées."
 ---
-
 ![Image de Hugues de Saint-Victor](https://upload.wikimedia.org/wikipedia/commons/e/eb/Hugues_de_Saint-Victor_%28mignature_anglaise_anonyme%2C_XIIIe_si%C3%A8cle%29.png)
 
 ###### Questions

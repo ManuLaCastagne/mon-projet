@@ -22,7 +22,8 @@ indice_6 :
   - Romantisme
 questions:
  - En 1823, quel écrivain écossais publie "Quentin Durvard" et ivanhoe ?
-culture_g_score: 80
+culture_g_score: 72
+culture_g_justification: "Pionnier du roman historique, associé à Waverley, Ivanhoé et à l’histoire littéraire européenne, malgré une présence modérée dans les quiz."
 ---
 ![Image de Walter Scott](https://upload.wikimedia.org/wikipedia/commons/c/c7/Dalziel_Brothers_-_Sir_Walter_Scott_-_Rob_Roy_in_the_Crypt_of_Glasgow_Cathedral.jpg)
 

@@ -22,8 +22,9 @@ indice_6 :
   - Humour burlesque
 questions:
  - Au cinéma, quel inspecteur tombe dans un escalier après s'être exercé aux barres parallèles dans le film "Quand la panthère rose s'emmêle"?
+culture_g_score: 80
+culture_g_justification: "Personnage comique très connu, permettant des questions sur Peter Sellers, Blake Edwards et la série de La Panthère rose."
 ---
-
 ![Image de Inspecteur Clouseau](https://upload.wikimedia.org/wikipedia/commons/8/8e/Pop_%27Ruige_Rus%27_van_het_Haagse_poppentheater_Poepee_de_la_Hee%2C_asset_A29VVVVVadaOdZVAAQ0uXJ9C.tif)
 
 ###### Questions

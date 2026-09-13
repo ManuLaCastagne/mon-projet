@@ -22,8 +22,9 @@ indice_6 :
   - El Zorzal Criollo
 questions:
  - Sous quel nom connaît-on mieux le chanteur Charles Gardés, né à Toulouse en 1890 et qui a popularisé le tango dans le monde entier?
+culture_g_score: 80
+culture_g_justification: "Icône mondiale du tango, utile pour des questions de musique latino-américaine, d'Argentine, de chansons célèbres et de destin tragique."
 ---
-
 ![Image de Carlos Gardel](https://upload.wikimedia.org/wikipedia/commons/a/a5/Carlos_Gardel_signature.svg)
 
 ###### Questions

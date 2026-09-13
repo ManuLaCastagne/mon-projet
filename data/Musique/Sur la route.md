@@ -22,8 +22,9 @@ indice_6:
   - années 60
 questions:
   - Chanson pour laquelle mon interprète a reçu la Victoire de la musique de la révélation masculine en 1995, je figure sur son 1er album, intitulé "La Dernière année". Evoquant l'erreur commise par un homme pressé et toujours absent, j'exprime son regret par la phrase  "Je n'ai pas vu le doute en toi..."
+culture_g_score: 44
+culture_g_justification: "Succès identifiable de Gérald de Palmas, mais référence limitée à la chanson française des années 1990."
 ---
-
 ![Image de Sur la route](https://upload.wikimedia.org/wikipedia/commons/0/03/Seligman.-_Snow_car%2C_sur_la_Route_66.jpg)
 
 ###### Questions

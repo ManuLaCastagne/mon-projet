@@ -20,8 +20,9 @@ indice_6 :
   - adaptation cinématographique de Voyage en barbarie
 questions:
  - De 1999 à 2009, quel journaliste et documentariste a animé l'émission de débats politiques et sociaux intitulée "Ripostes" sur France 5?
+culture_g_score: 52
+culture_g_justification: "Journaliste et réalisateur lié à l’histoire de la télévision politique française, avec une présence toutefois assez spécialisée dans les quiz."
 ---
-
 ![Image de Serge Moati](https://upload.wikimedia.org/wikipedia/commons/1/15/Salon_du_livre_de_Paris_2011_-_Serge_Moati_-_001bis.jpg)
 
 ###### Questions

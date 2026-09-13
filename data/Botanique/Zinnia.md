@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée pour l'ornementation des jardins
 questions:
  - Quelle est cette plante aux fleurs ornementales de la famille des composées originaire du Mexique et qui doit son nom à un botaniste allemand?
+culture_g_score: 36
+culture_g_justification: "Fleur de jardin connue pour ses couleurs et ses papillons, mais peu présente dans les quiz généralistes."
 ---
-
 ![Image de Zinnia](https://upload.wikimedia.org/wikipedia/commons/d/d7/Zinnia_elegans_with_Bombus_01.JPG)
 
 ###### Questions

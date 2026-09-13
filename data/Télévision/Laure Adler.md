@@ -20,8 +20,9 @@ indice_6 :
   - émission Hors Champs
 questions:
  - Journaliste et productrice française ayant grandi en Afrique. Titulaire d'une maîtrise de philo et d'un doctorat en histoire, j'entre à France Culture en 1974 comme journaliste. Je présente "Le Cercle de minuit".
+culture_g_score: 52
+culture_g_justification: "Figure reconnue du journalisme culturel et de la radio, mais surtout pertinente dans des questions spécialisées sur les médias français."
 ---
-
 ![Image de Laure Adler](https://upload.wikimedia.org/wikipedia/commons/2/2b/Laure_Adler_IMG_2768.JPG)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Malin et rusé
 questions:
  - Quel animal, qualifié de roux et dont le nom scientifique est Vulpes vulpes, cherche à hypnotiser sa proie en tournoyant, la queue dans sa gueule?
+culture_g_score: 87
+culture_g_justification: "Animal très célèbre, riche en références littéraires, folkloriques, scientifiques et environnementales, et fréquent dans les quiz."
 ---
-
 ![Image de Renard](https://upload.wikimedia.org/wikipedia/commons/1/17/Renard_mort.jpg)
 
 ###### Questions

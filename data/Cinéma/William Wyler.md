@@ -22,8 +22,9 @@ indice_6:
   - trois Oscars du meilleur réalisateur
 questions:
   - Quel réalisateur révèle Audrey Hepburn dans "Vacances romaines" ?
+culture_g_score: 68
+culture_g_justification: "Grand réalisateur hollywoodien, utile pour relier Ben-Hur, les Oscars, Audrey Hepburn, Bette Davis et l'âge d'or du cinéma américain."
 ---
-
 ![Image de William Wyler](https://upload.wikimedia.org/wikipedia/commons/c/cd/William_Wyler_portrait.jpg)
 
 ###### Questions

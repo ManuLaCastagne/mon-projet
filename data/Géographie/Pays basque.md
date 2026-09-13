@@ -24,9 +24,9 @@ indice_6 :
   - Biarritz
 questions:
  - De quelle région française la croix appelée "lauburu" est-elle l'emblème ?
+culture_g_score: 80
+culture_g_justification: "Région transfrontalière fréquemment abordée par son identité, sa langue, Guernica, Picasso, le rugby et les relations franco-espagnoles."
 ---
-
-
 ![Image de Pays basque](https://upload.wikimedia.org/wikipedia/commons/7/7b/Pays_Basque_-_Christopher_Richard_Wynne_Nevinson_-_ABDAG002902.jpg)
 
 ![[Carte_Pays basque.png]]

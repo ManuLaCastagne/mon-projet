@@ -24,9 +24,9 @@ indice_6 :
   - passionné de volcanisme
 questions:
  - Quel géologue français d'origine russe spécialiste des volcans, fut secrétaire d'Etat chargé de la prévention des risques naturels majeurs ?
+culture_g_score: 60
+culture_g_justification: "Volcanologue français connu du grand public et utile pour des questions sur les volcans, les documentaires et l’exploration scientifique."
 ---
-
-
 ![Image de Haroun Tazieff](https://upload.wikimedia.org/wikipedia/commons/b/ba/Haroun_Tazieff-FIG_1990_%286%29.jpg)
 
 ![[Carte_Haroun Tazieff.png]]

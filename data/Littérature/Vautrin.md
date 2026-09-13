@@ -21,10 +21,9 @@ indice_6:
   - société élitiste
 questions:
   - Quel héros de Balzac, de son vrai nom Jacques Collin, vole aux riches pour donner aux pauvres ?
+culture_g_score: 64
+culture_g_justification: "Personnage récurrent et important de Balzac, intéressant pour La Comédie humaine mais limité au domaine littéraire."
 ---
-
-
-
 ![Image de Vautrin](https://upload.wikimedia.org/wikipedia/commons/f/fd/BalzacSplendorsMiseries02.jpg)
 
 ###### Questions

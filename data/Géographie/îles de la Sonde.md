@@ -21,9 +21,9 @@ indice_5 :
   - Bornéo
 indice_6 : 
   - Timor
+culture_g_score: 67
+culture_g_justification: "Ensemble géographique permettant de relier Indonésie, Krakatoa, Bali, Java, Sumatra et l’histoire de l’Insulinde."
 ---
-
-
 ![[Carte_îles de la Sonde.png]]
 
 ###### Questions

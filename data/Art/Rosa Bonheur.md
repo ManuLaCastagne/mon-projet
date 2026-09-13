@@ -23,8 +23,9 @@ indice_6 :
   - inspiration de Lascaux
 questions:
  - Quelle femme peintre du XIXe siècle, auteur du "Marché aux chevaux" est célèbre pour avoir multiplié les scènes animalières?
+culture_g_score: 68
+culture_g_justification: "Rosa Bonheur est une artiste française importante, particulièrement rentable pour la peinture animalière, les femmes artistes et l’histoire sociale."
 ---
-
 ![Image de Rosa Bonheur](https://upload.wikimedia.org/wikipedia/commons/2/2a/Anna_Klumpke_-_Portrait_of_Rosa_Bonheur_%281898%29.jpg)
 
 ###### Questions

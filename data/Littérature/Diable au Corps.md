@@ -22,8 +22,9 @@ indice_6 :
   - roman classique français
 questions:
  - Dans quelle œuvre de Raymond Radiguet Marthe s'éprend d'un jeune homme alors que le sien est au front ?
+culture_g_score: 60
+culture_g_justification: "Roman court et classique de la littérature française, régulièrement associé à Radiguet, à l’adultère et à la Première Guerre mondiale."
 ---
-
 ![Image de Diable au Corps](https://upload.wikimedia.org/wikipedia/commons/3/3f/Nerciat_-_Le_Diable_au_corps%2C_1803.djvu)
 
 ###### Questions

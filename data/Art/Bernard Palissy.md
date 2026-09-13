@@ -19,9 +19,9 @@ indice_6:
   - Recherché par François Ier
 questions:
   - Quel céramiste, né vers 1510 brûla ses meubles et son plancher pour entretenir son four afin de découvrir le secret de la composition des émaux ?
+culture_g_score: 60
+culture_g_justification: "Céramiste de la Renaissance rendu mémorable par ses expériences sur les émaux, mais surtout dans des questions d’histoire de l’art françaises."
 ---
-
-
 ![Image de Bernard Palissy](https://upload.wikimedia.org/wikipedia/commons/5/5b/Bernard_Palissy_Memorial-2.jpg)
 
 ###### Questions

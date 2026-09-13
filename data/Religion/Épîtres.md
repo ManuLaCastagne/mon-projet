@@ -20,8 +20,9 @@ indice_6 :
   - Romains
 questions:
  - Comment appelle-t-on les 14 textes de Saint-Paul figurant dans le Nouveau Testament ?
+culture_g_score: 60
+culture_g_justification: "Catégorie importante du Nouveau Testament, mais généralement moins directement interrogée que les grandes figures et récits bibliques."
 ---
-
 ![Image de Épîtres](https://upload.wikimedia.org/wikipedia/commons/0/0e/Epistle_to_Galatians_Illuminated.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - communisme
 questions:
  - Par quelle locution péjorative désignait-t-on le Mur de Berlin?
+culture_g_score: 60
+culture_g_justification: "Surnom connu du mur de Berlin, mais qui ouvre peu d’angles indépendants au-delà de la guerre froide et de la division allemande."
 ---
-
 ![Image de Mur de la honte](https://upload.wikimedia.org/wikipedia/commons/2/29/Mary_-_Roger-la-Honte%2C_1887.djvu)
 
 ###### Questions

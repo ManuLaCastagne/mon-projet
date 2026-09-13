@@ -20,8 +20,9 @@ indice_5:
   - exploration spatiale
 indice_6:
   - 1968
+culture_g_score: 100
+culture_g_justification: "Chef-d'œuvre universel de Kubrick, incontournable pour le cinéma, la science-fiction, la musique et l'histoire des techniques."
 ---
-
 ![Image de 2001, l'odyssée de l'espace](https://upload.wikimedia.org/wikipedia/commons/f/f0/Odyss%C3%A9e_de_l%27Espace_2001.jpg)
 
 ###### Questions

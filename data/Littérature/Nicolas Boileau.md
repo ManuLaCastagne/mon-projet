@@ -20,9 +20,9 @@ indice_5:
   - Protégé de Louis XIV
 indice_6:
   - Critique littéraire
+culture_g_score: 64
+culture_g_justification: "Poète et critique majeur du classicisme français, fréquemment associé à L’Art poétique, aux moralistes et à la querelle littéraire."
 ---
-
-
 ![Image de Nicolas Boileau](https://upload.wikimedia.org/wikipedia/commons/2/25/Nicolas_Boileau.PNG)
 
 ###### Questions

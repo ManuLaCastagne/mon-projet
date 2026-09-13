@@ -20,8 +20,9 @@ indice_6 :
   - 2.31 meters
 questions:
  - En 1998, quel basketteur roumain s'est reconverti dans le cinéma ?
+culture_g_score: 44
+culture_g_justification: "Sa taille exceptionnelle et son passage en NBA permettent quelques questions originales, mais le sujet reste très secondaire en culture sportive."
 ---
-
 ![Image de Gheorghe Muresan](https://upload.wikimedia.org/wikipedia/commons/1/1d/Gheorghe_Muresan_%2815833043052%29.jpg)
 
 ###### Questions

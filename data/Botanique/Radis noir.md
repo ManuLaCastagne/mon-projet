@@ -15,8 +15,9 @@ indice_6 :
   - Consommé cru ou cuit en cuisine
 questions:
  - Quelle racine noire à chair blanche, parfois piquante, est une brassicacée du genre Raphanus ?
+culture_g_score: 36
+culture_g_justification: "Légume connu et associé à quelques usages médicinaux, mais très rarement ciblé par une question généraliste."
 ---
-
 ![Image de Radis noir](https://upload.wikimedia.org/wikipedia/commons/5/53/Adolphe_Millot_radis_noir.jpg)
 
 ###### Questions

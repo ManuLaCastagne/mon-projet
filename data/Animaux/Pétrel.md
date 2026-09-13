@@ -15,9 +15,9 @@ indice_6 :
   - Messager des tempêtes
 questions:
  - Quel oiseau marin des régions froides, de l'ordre des procellariiformes et voisin des puffins, vole à la surface de l'eau pour pêcher le plancton ?
+culture_g_score: 32
+culture_g_justification: "Oiseau marin intéressant pour ses migrations et son écologie, mais trop spécialisé pour être fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Pétrel](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lorraine_Petrel_675hp_L%27Aerophile_January_1942.jpg)
 
 ###### Questions

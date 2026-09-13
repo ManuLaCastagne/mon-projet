@@ -22,8 +22,9 @@ indice_5 :
   - Forteresse de Skopje
 indice_6 : 
   - Place de Macédoine
+culture_g_score: 60
+culture_g_justification: "Capitale balkanique pouvant être interrogée sur la Macédoine du Nord, son histoire et le séisme de 1963."
 ---
-
 ![Image de Skopje](https://upload.wikimedia.org/wikipedia/commons/0/0e/Stone_Bridge_Skopje_4.jpg)
 
 ![[Carte_Skopje.png]]

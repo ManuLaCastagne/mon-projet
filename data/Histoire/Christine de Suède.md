@@ -20,9 +20,9 @@ indice_6 :
   - elle s'est convertie au catholicisme
 questions:
  - Quelle souveraine, ayant régné sur la Suède de 1632…
+culture_g_score: 68
+culture_g_justification: "Reine atypique par son abdication, sa conversion et son mécénat, permettant des questions historiques, religieuses et intellectuelles."
 ---
-
-
 ![Image de Christine de Suède](https://upload.wikimedia.org/wikipedia/commons/f/fc/Christine%2C_reine_de_Su%C3%A8de_MET_DP832698.jpg)
 
 ###### Questions

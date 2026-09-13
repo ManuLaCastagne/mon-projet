@@ -20,8 +20,9 @@ indice_6 :
   - Ange messager
 questions:
  - Dans les Evangiles, quel ange messager de Dieu annonce à Zacharie...
+culture_g_score: 92
+culture_g_justification: "Archange transversal aux trois grandes religions abrahamiques, associé à l’Annonciation, au Coran et à plusieurs récits bibliques."
 ---
-
 ![Image de Gabriel](https://upload.wikimedia.org/wikipedia/commons/b/b1/Pesenbach_Kirche_Hochaltar_Predella_Verk%C3%BCndigung_Gabriel_01.jpg)
 
 ###### Questions

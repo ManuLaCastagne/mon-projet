@@ -20,8 +20,9 @@ indice_6 :
   - Météorologie
 questions:
  - Quels nuages formant une couche sombre, uniforme et basse donnent de la bruine en plaine et du brouillard en altitude?
+culture_g_score: 60
+culture_g_justification: "Type de nuage classique des questions de météorologie, mais nettement moins transversal que les notions atmosphériques majeures."
 ---
-
 ![Image de Stratus](https://upload.wikimedia.org/wikipedia/commons/7/71/Stratus_-_Seattle_01.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Euro 2016
 questions:
  - Footballeur français dont les deux frères Parfait et Riffi sont également footballeurs professionnels et occupent le même poste que moi, j'ai débuté en Ligue 1 en 2007.
+culture_g_score: 72
+culture_g_justification: "Gardien français très identifié par l’Olympique de Marseille et les Bleus, avec une bonne fréquence de quiz mais une importance internationale limitée."
 ---
-
 ![Image de Steve Mandanda](https://upload.wikimedia.org/wikipedia/commons/d/df/Steve_Mandanda_2018.jpg)
 
 ###### Questions

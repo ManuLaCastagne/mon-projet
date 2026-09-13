@@ -18,8 +18,9 @@ indice_5 :
   - Décapitation
 indice_6 : 
   - Précurseur
+culture_g_score: 88
+culture_g_justification: "Personnage biblique majeur, lié au baptême de Jésus, aux Évangiles, aux fêtes populaires et à de nombreuses représentations artistiques."
 ---
-
 ![Image de Saint-Jean-Baptiste](https://upload.wikimedia.org/wikipedia/commons/0/00/Saint-Jean-Baptiste_Reredos.jpg)
 
 ###### Questions

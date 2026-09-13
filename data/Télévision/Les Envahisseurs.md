@@ -20,9 +20,9 @@ indice_6 :
   - vaisseaux spatiaux
 questions:
  - Série américaine créée en 1967, je compte 43 épisodes dont le générique comprend un texte d'introduction dit par Jean Berger dans ma version française.
+culture_g_score: 64
+culture_g_justification: "Classique de la science-fiction télévisée, fréquemment identifiable par David Vincent et son intrigue d'invasion extraterrestre."
 ---
-
-
 ![Image de Les Envahisseurs](https://upload.wikimedia.org/wikipedia/commons/f/f4/Les_Envahisseurs_The_Invaders_%284692784535%29.jpg)
 
 ###### Questions

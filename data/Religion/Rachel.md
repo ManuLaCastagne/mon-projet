@@ -20,8 +20,9 @@ indice_6 :
   - Ancien Testament
 questions:
  - Quel personnage biblique féminin représentant l'épouse préférée de Jacob porte un nom issu de l'hébreu signifiant "brebis" ?
+culture_g_score: 64
+culture_g_justification: "Épouse de Jacob et mère de Joseph et Benjamin, Rachel est une figure biblique classique mais aux possibilités de questionnement limitées."
 ---
-
 ![Image de Rachel](https://upload.wikimedia.org/wikipedia/commons/3/37/Collection_Motais_de_Narbonne_-_Jacob_et_Rachel_au_puits_%281720%29_-_Fran%C3%A7ois_Lemoyne_%2871%29.jpg)
 
 ###### Questions

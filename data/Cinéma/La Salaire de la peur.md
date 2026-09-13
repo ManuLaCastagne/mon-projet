@@ -22,8 +22,9 @@ indice_6 :
   - village en Amérique centrale
 questions:
  - En 1950, quel roman de Georges Arnaud, adapté à l'écran par Henri-Georges Clouzot, relate le convoyage d'un chargement de nitroglycérine en Amérique latine, film mythique ?
+culture_g_score: 72
+culture_g_justification: "Grand classique du cinéma français, régulièrement mobilisable grâce à Clouzot, Cannes, la guerre, le suspense et ses acteurs célèbres."
 ---
-
 ![Image de La Salaire de la peur](https://upload.wikimedia.org/wikipedia/commons/8/84/Dictionnaire_de_la_Bible_-_F._Vigouroux_-_Tome_IV.djvu)
 
 ###### Questions

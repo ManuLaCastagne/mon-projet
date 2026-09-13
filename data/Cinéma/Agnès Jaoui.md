@@ -20,8 +20,9 @@ indice_5:
   - Réalisatrice
 indice_6:
   - Comédies dramatiques françaises
+culture_g_score: 64
+culture_g_justification: "Figure importante du cinéma français, exploitable par ses films, ses César et sa collaboration avec Jean-Pierre Bacri."
 ---
-
 ![Image de Agnès Jaoui](https://upload.wikimedia.org/wikipedia/commons/5/58/Agn%C3%A8s_Jaoui_Cannes.jpg)
 
 ###### Questions

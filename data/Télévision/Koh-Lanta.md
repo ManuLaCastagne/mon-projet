@@ -19,8 +19,9 @@ indice_5 :
   - feu
 indice_6 : 
   - élimination
+culture_g_score: 84
+culture_g_justification: "Marronnier majeur de la télévision française, identifiable par Denis Brogniart, les poteaux, les équipes et les nombreuses saisons."
 ---
-
 ![Image de Koh-Lanta](https://upload.wikimedia.org/wikipedia/commons/5/58/1062-mu-koh-lanta-national-park-05.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Mémorialiste du XVIIe siècle
 questions:
  - En 1669, quelle courtisan amibtieux fut emprisonné à la Bastille pour avoir brisé son épée devant Louis XIV ?
+culture_g_score: 40
+culture_g_justification: "Noble de la cour de Louis XIV connu pour quelques épisodes pittoresques, mais rarement indispensable dans un quiz généraliste."
 ---
-
 ![Image de Duc de Lauzin](https://upload.wikimedia.org/wikipedia/commons/6/69/Rochegude_-_Promenades_dans_toutes_les_rues_de_Paris%2C_19.djvu)
 
 ###### Questions

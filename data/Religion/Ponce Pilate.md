@@ -20,8 +20,9 @@ indice_6 :
   - Nouveau Testament
 questions:
  - Quel procurateur romain de Judée a confirmé la condamnation à mort de Jésus de Nazareth décidée par le tribunal du sanhédrin?
+culture_g_score: 97
+culture_g_justification: "Personnage central du récit de la Passion, Ponce Pilate relie Bible, histoire romaine, judaïsme, christianisme et expressions culturelles célèbres."
 ---
-
 ![Image de Ponce Pilate](https://upload.wikimedia.org/wikipedia/commons/e/e7/Recueil._%22A_souffert_sous_Ponce_Pilate%22_de_Paul_Raynal_-_btv1b10507543b_%2846_of_60%29.jpg)
 
 ###### Questions

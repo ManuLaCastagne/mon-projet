@@ -18,8 +18,9 @@ indice_5 :
   - Radio Londres pendant la Seconde Guerre mondiale
 indice_6 : 
   - Malheur aux Barbus
+culture_g_score: 72
+culture_g_justification: "Grande figure de l’humour absurde, de la radio et de la Résistance, offrant plusieurs angles littéraires, historiques et médiatiques."
 ---
-
 ![Image de Pierre Dac](https://upload.wikimedia.org/wikipedia/commons/7/7b/%28Toulouse%29_-_Immeuble_42_Boulevard_de_Strasbourg_-_Pierre_Dac_-_Plaque.jpg)
 
 ###### Questions

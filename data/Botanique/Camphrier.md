@@ -14,6 +14,7 @@ indice_5:
 indice_6:
   - Production de camphre utilisé en médecine et parfumerie
 culture_g_score: 40
+culture_g_justification: "Le lien avec le camphre fournit quelques questions classiques, mais l’arbre lui-même reste peu connu du grand public."
 ---
 ![Image de Camphrier](https://upload.wikimedia.org/wikipedia/commons/a/a8/Cinnamomum_camphora_Vergelegen.jpg)
 

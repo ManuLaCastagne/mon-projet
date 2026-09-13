@@ -22,8 +22,9 @@ indice_6 :
   - Mano Negra
 questions:
  - Quel artiste évoque l'exil et la fuite dans "Desaparecido" et dans mon titre éponyme, et a fait un 1er album solo "Clandestino" après la Mano Negra en 2019 ?
+culture_g_score: 80
+culture_g_justification: "Artiste francophone majeur, exploitable par Mano Negra, Clandestino, le métissage musical, ses engagements et plusieurs tubes."
 ---
-
 ![Image de Manu Chao](https://upload.wikimedia.org/wikipedia/commons/e/e6/Manu_Chau_45.jpg)
 
 ###### Questions

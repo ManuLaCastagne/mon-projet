@@ -18,8 +18,9 @@ indice_5 :
   - Les Tribulations d'une caissière
 indice_6 : 
   - Mademoiselle Chambon
+culture_g_score: 40
+culture_g_justification: "Actrice récompensée et liée à quelques films français connus, mais sa présence dans la culture générale reste limitée."
 ---
-
 ![Image de Déborah François](https://upload.wikimedia.org/wikipedia/commons/6/65/D%C3%A9borah_Fran%C3%A7ois_at_the_2009_Deauville_American_Film_Festival-01.jpg)
 
 ###### Questions

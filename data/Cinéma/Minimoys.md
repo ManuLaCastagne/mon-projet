@@ -22,8 +22,9 @@ indice_6 :
   - adaptation animée
 questions:
  - Personnages considérés par les Bogo Matassalai comme des frères, nous apparaissons notamment dans un film de 2006, mêlant des images en 3D et des prises de vues réelles.
+culture_g_score: 44
+culture_g_justification: "Univers associé à Arthur et les Minimoys, connu du public familial mais peu rentable au-delà de quelques questions sur Luc Besson."
 ---
-
 ![Image de Minimoys](https://upload.wikimedia.org/wikipedia/commons/0/0a/Minimoys_040418.jpg)
 
 ###### Questions

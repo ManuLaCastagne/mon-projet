@@ -18,10 +18,9 @@ indice_5 :
   - visage emblématique de l'information sur M6
 indice_6 : 
   - formation de journaliste à l'ISCPA
+culture_g_score: 28
+culture_g_justification: "Journaliste et animateur identifiable sur M6, mais encore peu susceptible d'être une réponse prioritaire dans un quiz généraliste."
 ---
-
-
-
 ![Image de Xavier de Moulins](https://upload.wikimedia.org/wikipedia/commons/4/46/Paris_-_Salon_du_livre_2012_-_Xavier_de_Moulins_-_005.jpg)
 
 ###### Questions

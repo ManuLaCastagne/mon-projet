@@ -19,9 +19,9 @@ indice_5:
   - Nicole Warren
 indice_6:
   - Roman tragique
+culture_g_score: 64
+culture_g_justification: "Roman important de Fitzgerald, permettant des questions sur la littérature américaine, les Années folles et la psychiatrie, mais moins célèbre que Gatsby."
 ---
-
-
 ![Image de Tendre est la nuit](https://upload.wikimedia.org/wikipedia/commons/1/1f/F._Scott_Fitzgerald_%281934_author_portrait_-_Tender_Is_the_Night%29.jpg)
 
 ###### Questions

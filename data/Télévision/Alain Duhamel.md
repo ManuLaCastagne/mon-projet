@@ -18,8 +18,9 @@ indice_5 :
   - souvent invité sur les plateaux de débats
 indice_6 : 
   - connu pour ses analyses politiques
+culture_g_score: 72
+culture_g_justification: "Grande figure du journalisme politique français, régulièrement reliée aux médias, aux élections et à la vie politique contemporaine."
 ---
-
 ![Image de Alain Duhamel](https://upload.wikimedia.org/wikipedia/commons/1/12/Alain_Duhamel_14_mars_2009.jpg)
 
 ###### Questions

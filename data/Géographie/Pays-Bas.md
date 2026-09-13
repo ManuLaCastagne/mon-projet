@@ -22,9 +22,9 @@ indice_6 :
   - delta du Rhin
 questions:
  - Quel pays porte un nom provenant d'une langue germanique qui traduit sa situation géographique par rapport au niveau de la mer?
+culture_g_score: 96
+culture_g_justification: "Pays européen incontournable, très rentable grâce à Amsterdam, aux polders, aux tulipes, aux moulins, à la monarchie et à l’histoire maritime."
 ---
-
-
 ![Image de Pays-Bas](https://upload.wikimedia.org/wikipedia/commons/c/c8/Karakteristieke_boerderij%2C_Aldlansdyk_in_Cornjum_02.jpg)
 
 ![[Carte_Pays-Bas.png]]

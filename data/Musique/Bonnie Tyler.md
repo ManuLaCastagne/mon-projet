@@ -22,10 +22,9 @@ indice_6 :
   - Welsh singer
 questions:
  - En 1977, quelle chanteuse galloise connaît le succès avec le titre "It's a heartache"?
+culture_g_score: 64
+culture_g_justification: "Chanteuse identifiée par plusieurs tubes internationaux, mais dont les autres angles restent relativement limités."
 ---
-
-
-
 ![Image de Bonnie Tyler](https://upload.wikimedia.org/wikipedia/commons/b/b9/Bonnie_Tyler%2C_ESC2013_press_conference_02_%28cropped%29.jpg)
 
 ###### Questions

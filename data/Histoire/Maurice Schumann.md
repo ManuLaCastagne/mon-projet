@@ -20,8 +20,9 @@ indice_6 :
   - ministre des Affaires étrangères
 questions:
  - Quel homme politique français, né en 1911, a été de 1940 à 1944 le porte-parole des FFL à Londres ?
+culture_g_score: 47
+culture_g_justification: "Résistant et ministre de la Ve République, il fournit quelques repères sur la France libre mais reste une figure secondaire."
 ---
-
 ![Image de Maurice Schumann](https://upload.wikimedia.org/wikipedia/commons/3/33/Maurice_Schumann_%281969%29.jpg)
 
 ###### Questions

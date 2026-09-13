@@ -22,8 +22,9 @@ indice_6 :
   - Pianiste juif
 questions:
  - En 1956, quelle ville d'Europe orientale Gilbert Bécaud évoque-t-il dans une chanson parlant d'un pianiste?
+culture_g_score: 80
+culture_g_justification: "Film majeur de Polanski, rentable pour les quiz sur la Seconde Guerre mondiale, le cinéma, la Shoah, Varsovie et les Oscars."
 ---
-
 ![Image de Le Pianiste de Varsovie](https://upload.wikimedia.org/wikipedia/commons/f/f2/Le_M%C3%A9nestrel_-_1937_-_n%C2%B012.pdf)
 
 ###### Questions

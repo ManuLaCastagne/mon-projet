@@ -20,8 +20,9 @@ indice_6 :
   - centenaire
 questions:
  - Quel centenaire, disparu en mars 2008 à 110 ans, restera dans l'histoire comme le dernier soldat de la grande guerre ayant combattu pour la France?
+culture_g_score: 57
+culture_g_justification: "Figure mémorielle de la Première Guerre mondiale, assez classique en quiz français mais limitée à quelques repères biographiques."
 ---
-
 ![Image de Lazare Ponticelli](https://upload.wikimedia.org/wikipedia/commons/1/1f/LazarePonticelli.jpg)
 
 ###### Questions

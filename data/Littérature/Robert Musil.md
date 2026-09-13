@@ -22,9 +22,9 @@ indice_6 :
   - né en 1880 à Klagenfurt
 questions:
  - A quel écrivain autrichien doit-on le roman "L'Homme sans qualités" paru en deux volumes de 1930 à 1933 ?
+culture_g_score: 59
+culture_g_justification: "Grand romancier moderniste auteur de L’Homme sans qualités, mais relativement exigeant et peu fréquent pour un public généraliste."
 ---
-
-
 ![Image de Robert Musil](https://upload.wikimedia.org/wikipedia/commons/1/1b/Robert_Musil_1900.jpg)
 
 ###### Questions

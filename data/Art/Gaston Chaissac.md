@@ -23,8 +23,9 @@ indice_6 :
   - collages et assemblages
 questions:
  - A quel artiste français, disparu en 1964 à La Roche-sur-Yon, figure importante de l'art brut, doit-on des "Totems" en bois peint?
+culture_g_score: 27
+culture_g_justification: "Figure originale de l’art brut, Chaissac reste une référence de niche, surtout mobilisée dans des questions spécialisées."
 ---
-
 ![Image de Gaston Chaissac](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gaston_Chaissac._Autoportrait._1938._Huile_sur_panneau%2C_27x21cm.jpg)
 
 ###### Questions

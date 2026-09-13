@@ -24,9 +24,9 @@ indice_6:
   - climat subarctique
 questions:
   - Quelle vaste baie du nord-est du Canada, d'une superficie d'environ 1 million de kilomètres carrés, est prise par les glaces 7 mois par an ?
+culture_g_score: 68
+culture_g_justification: "Grande baie canadienne liée à l’exploration, à la géographie arctique et à la Compagnie de la Baie d’Hudson."
 ---
-
-
 ![Image de Baie d'Hudson](https://upload.wikimedia.org/wikipedia/commons/5/5f/D%27Iberville_dans_la_baie_d%27Hudson_face_%C3%A0_trois_vaisseaux_anglais_en_1697.jpg)
 
 ![[Carte_Baie d'Hudson.png]]

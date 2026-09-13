@@ -20,8 +20,9 @@ indice_5 :
   - D'origine cubaine
 indice_6 : 
   - Mannequin et ambassadrice de mode
+culture_g_score: 44
+culture_g_justification: "Actrice américaine identifiable par quelques films et sa relation avec Ryan Gosling, mais peu centrale dans la culture générale cinématographique."
 ---
-
 ![Image de Eva Mendes](https://upload.wikimedia.org/wikipedia/commons/1/11/Eva_Mendes_2009.jpg)
 
 ###### Questions

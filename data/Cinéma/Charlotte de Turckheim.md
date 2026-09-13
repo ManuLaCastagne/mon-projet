@@ -22,8 +22,9 @@ indice_6 :
   - humour et personnalité pétillante
 questions:
  - En 2015, quelle comédienne réalise le film "Qui c'est les plus forts?", qui met en scène 2 amies sans emploi souhaitant acheter un bar?
+culture_g_score: 47
+culture_g_justification: "Personnalité française identifiable dans la comédie et la réalisation, mais de portée et de fréquence quiz secondaires."
 ---
-
 ![Image de Charlotte de Turckheim](https://upload.wikimedia.org/wikipedia/commons/1/19/Charlotte_de_Turckheim_2011.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Finlande
 questions:
  - Quel phénomène lumineux, durant lequel le soleil est visible 24h/24 est obsvervable dans les régions au-delà du cercle polaire arctique ?
+culture_g_score: 64
+culture_g_justification: "Phénomène géographique facilement identifiable et assez classique, mais offrant un nombre limité d'angles indépendants."
 ---
-
 ![Image de Soleil de minuit](https://upload.wikimedia.org/wikipedia/commons/8/84/Anders_Fredrik_Skj%C3%B6ldebrand_-_Le_Cap_Nord_au_Soleil_de_Minuit_-_NMH_A_20-1971-46_-_Nationalmuseum.jpg)
 
 ###### Questions

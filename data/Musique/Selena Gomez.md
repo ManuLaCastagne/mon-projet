@@ -22,8 +22,9 @@ indice_6 :
   - ancienne membre des Selena Gomez & the Scene
 questions:
  - Quelle jeune actrice et chanteuse américaine, née le 22 juillet 92, a été révélée grâce au succès de la série "Hannah Montana"?
+culture_g_score: 67
+culture_g_justification: "Selena Gomez est une célébrité très connue à la croisée de la musique, de la télévision et de la culture numérique, mais encore relativement contemporaine."
 ---
-
 ![Image de Selena Gomez](https://upload.wikimedia.org/wikipedia/commons/3/34/Selena_Gomez_at_White_House.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5cqAYWX1QuisMmulKnXqLT" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

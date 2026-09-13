@@ -20,9 +20,9 @@ indice_6 :
   - Anthrax
 questions:
  - En 1882, quel médecin allemand découvrit le bacille de la tuberculose...
+culture_g_score: 84
+culture_g_justification: "Pionnier fondamental de la microbiologie, relié à la tuberculose, au choléra, à l’anthrax, aux microbes et au Nobel."
 ---
-
-
 ![Image de Robert Koch](https://upload.wikimedia.org/wikipedia/commons/5/55/Robert_Koch.jpg)
 
 ###### Questions

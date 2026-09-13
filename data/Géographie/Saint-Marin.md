@@ -20,9 +20,9 @@ indice_5 :
   - membre des Nations Unies
 indice_6 : 
   - micro-État en Europe
+culture_g_score: 80
+culture_g_justification: "Saint-Marin est un sujet très rentable de micro-État, associé à son ancienneté, son enclavement, ses institutions et sa relation avec l’Italie."
 ---
-
-
 ![Image de Saint-Marin](https://upload.wikimedia.org/wikipedia/commons/e/ef/Carte_Saint-Marin_FR.png)
 
 ![[Carte_Saint-Marin.png]]

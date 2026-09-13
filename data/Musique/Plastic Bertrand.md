@@ -22,8 +22,9 @@ indice_6 :
   - Roger Jouret
 questions:
  - Chanteur et auteur-compositeur né en 1954 à Bruxelles, je deviens une star des hit-parades en 77 avec un tube qui sera repris sur scène par les Red Hot Chili Peppers.
+culture_g_score: 52
+culture_g_justification: "Plastic Bertrand est bien identifié grâce à «Ça plane pour moi», mais sa carrière offre relativement peu d'angles de culture générale."
 ---
-
 ![Image de Plastic Bertrand](https://upload.wikimedia.org/wikipedia/commons/4/4c/Plastic-bertrand.jpg)
 
 ###### Questions

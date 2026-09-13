@@ -18,8 +18,9 @@ indice_5:
   - Prêtres des Missions
 indice_6:
   - Œuvres de miséricorde
+culture_g_score: 72
+culture_g_justification: "Figure majeure de la charité française, liée aux Lazaristes, aux Filles de la Charité et à l’action sociale du XVIIe siècle."
 ---
-
 ![Image de Saint-Vincent de Paul](https://upload.wikimedia.org/wikipedia/commons/3/3d/Cath%C3%A9drale_Saint-%C3%89tienne_de_Toulouse_-_Saint_Vincent_de_Paul_instituant_des_filles_de_la_charit%C3%A9_PM31001542.jpg)
 
 ###### Questions

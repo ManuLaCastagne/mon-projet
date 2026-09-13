@@ -21,9 +21,9 @@ indice_5 :
   - Château de Sales
 indice_6 : 
   - Vignobles
+culture_g_score: 32
+culture_g_justification: "Libourne est une ville viticole et historique intéressante, mais ses références spécifiques apparaissent rarement dans les quiz généralistes."
 ---
-
-
 ![[Carte_Libourne.png]]
 
 ###### Questions

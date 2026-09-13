@@ -20,8 +20,9 @@ indice_5:
   - Parachutes
 indice_6:
   - A Head Full of Dreams
+culture_g_score: 84
+culture_g_justification: "Groupe britannique mondialement célèbre, régulièrement interrogé par ses albums, ses membres, ses tubes et ses apparitions publiques."
 ---
-
 ![Image de Coldplay](https://upload.wikimedia.org/wikipedia/commons/e/e8/Coldplay_and_Becca_Hatch.jpg)
 
 ###### Questions

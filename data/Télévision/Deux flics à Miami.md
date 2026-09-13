@@ -20,8 +20,9 @@ indice_6 :
   - esthétique influencée par la culture pop et la mode de la décennie
 questions:
  - Dans les années 80, dans quelle série se déroulant en Floride, Don Johnson et Philip Michael Thomas jouent deux policiers ?
+culture_g_score: 80
+culture_g_justification: "Série emblématique des années 1980, exploitable via ses acteurs, ses personnages, son esthétique, sa musique et son influence télévisuelle."
 ---
-
 ![Image de Deux flics à Miami](https://upload.wikimedia.org/wikipedia/commons/c/c1/Pop_Culture_by_Movie_Cars_Central_-_12.jpg)
 
 ###### Questions

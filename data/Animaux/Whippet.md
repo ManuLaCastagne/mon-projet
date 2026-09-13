@@ -15,8 +15,9 @@ indice_6 :
   - Course de chiens
 questions:
  - Quel nom porte ce lévrier créé à la fin du XIXe pour sa petite taille et pour la chasse au lapin ?
+culture_g_score: 44
+culture_g_justification: "Le whippet est une race canine identifiable par sa vitesse et son histoire britannique, mais peu prioritaire pour un généraliste."
 ---
-
 ![Image de Whippet](https://upload.wikimedia.org/wikipedia/commons/4/42/Fireworks_Whippets.jpg)
 
 ###### Questions

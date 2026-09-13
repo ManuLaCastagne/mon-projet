@@ -17,8 +17,9 @@ indice_5:
   - Symbole du corbeau
 indice_6:
   - Relié au soleil et à la lumière
+culture_g_score: 48
+culture_g_justification: "Lug est une divinité celtique intéressante pour la mythologie irlandaise et Lughnasadh, mais peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Lug](https://upload.wikimedia.org/wikipedia/commons/9/9b/2012_Pf%C3%A4lzerwald_298_H%C3%BChnerstein_Panorama_Lug.JPG)
 
 ###### Questions

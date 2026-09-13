@@ -20,9 +20,9 @@ indice_6 :
   - rivière Marne
 questions:
  - Le 13 septembre 1914, quelle bataille pour la victoire des armées franco-britanniques dirigées par Joseph Joffre sur les troupes allemandes de Moltke?
+culture_g_score: 88
+culture_g_justification: "Bataille fondatrice de la Première Guerre mondiale, connue pour l’arrêt de l’offensive allemande et l’épisode des taxis parisiens."
 ---
-
-
 ![Image de Bataille de la Marne](https://upload.wikimedia.org/wikipedia/commons/7/7e/Chasseur_d%27Afrique%2C_bataille_de_la_Marne_1914.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Le Mari de la coiffeuse
 questions:
  - A quel cinéaste doit-on les longs-métrages "Ridicule" et "Tandem"...
+culture_g_score: 72
+culture_g_justification: "Réalisateur français très connu, interrogable à travers le cinéma, ses œuvres, ses acteurs et son parcours sportif atypique."
 ---
-
 ![Image de Patrice Leconte](https://upload.wikimedia.org/wikipedia/commons/e/e4/Patrice_Leconte_FICM.jpg)
 
 ###### Questions

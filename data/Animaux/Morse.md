@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la fonte des glaces
 questions:
  - Quel mammifère marin du genre Odobenus, dont les canines supérieures...
+culture_g_score: 61
+culture_g_justification: "Mammifère arctique très reconnaissable par ses défenses, mais ses angles de questions restent relativement concentrés."
 ---
-
 ![Image de Morse](https://upload.wikimedia.org/wikipedia/commons/5/53/Samuel_Morse_with_his_Recorder_by_Brady%2C_1857.png)
 
 ###### Questions

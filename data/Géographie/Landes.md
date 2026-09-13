@@ -24,8 +24,9 @@ indice_6 :
   - Marquèze
 questions:
  - Département abritant les réserves naturelles d'Orx et d'Arjuzanx. Mon littoral de plus de 100 km est jalonné par 15 stations balnéaires parmi lesquelles Vieux-Boucau.
+culture_g_score: 68
+culture_g_justification: "Les Landes renvoient à un département français identifiable par sa forêt, ses plages, la dune du Pilat et les stations thermales voisines."
 ---
-
 ![Image de Landes](https://upload.wikimedia.org/wikipedia/commons/6/67/Pref_Landes_MDM.JPG)
 
 ![[Carte_Landes.png]]

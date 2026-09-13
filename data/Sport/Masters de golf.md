@@ -20,8 +20,9 @@ indice_6 :
   - Tiger Woods
 questions:
  - En avril 2021, quel célèbre tournoi de golf se déroulant à Augusta Hideki Matsuyama a-t-il remporté?
+culture_g_score: 80
+culture_g_justification: "Un des quatre tournois majeurs de golf, identifiable par Augusta, la veste verte, Tiger Woods et l’Amen Corner."
 ---
-
 ![Image de Masters de golf](https://upload.wikimedia.org/wikipedia/commons/b/b6/AugustaNationalMastersLogoFlowers.jpg)
 
 ###### Questions

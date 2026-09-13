@@ -15,8 +15,9 @@ indice_6 :
   - Tisane apaisante
 questions:
  - Plante médicinale de la famille des astéracées, mon nom désigne 2 espèces distinctes, aux propriétés à l'apparence semblables  Anthemis nobilis et Matricaria recutita.  Petite plante aux feuilles très fines, mes fleurs ressemblent à de petites marguerites à l'odeur caractéristique.
+culture_g_score: 48
+culture_g_justification: "Très connue pour les infusions, la camomille apparaît parfois en botanique ou en médecine populaire, sans être une référence majeure de quiz."
 ---
-
 ![Image de Camomille](https://upload.wikimedia.org/wikipedia/commons/a/a7/Chamomile%40original_size.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Ehpad
 questions:
  - Quel est le prénom de la septuagénaire devenue célèbre pour avoir été la 1re Française vaccinée contre le covid 19, fin 2020?
+culture_g_score: 40
+culture_g_justification: "Son identification comme première vaccinée en France est mémorable, mais correspond à un fait ponctuel de l’actualité sanitaire."
 ---
-
-
 ![Image de Mauricette](https://upload.wikimedia.org/wikipedia/commons/a/a3/Amandine_Mauricette_and_Pauline_Soullard.jpg)
 
 ###### Questions

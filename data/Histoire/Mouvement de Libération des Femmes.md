@@ -18,9 +18,9 @@ indice_5 :
   - L'assemblée des femmes
 indice_6 : 
   - Droit à l'avortement
+culture_g_score: 71
+culture_g_justification: "Mouvement majeur du féminisme français, relié à l’avortement, au manifeste des 343 et aux transformations sociales des années 1970."
 ---
-
-
 ![Image de Mouvement de Libération des Femmes](https://upload.wikimedia.org/wikipedia/commons/a/ac/Rosangela_Gramoni_MLF_Gen%C3%A8ve.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Améthyste
 questions:
  - Quelle silice cristallisée, présente dans de nombreuses roches, est le plus souvent constitutive des grains de sable?
+culture_g_score: 84
+culture_g_justification: "Minéral très connu et rentable grâce à ses liens avec la géologie, l’horlogerie, la piézoélectricité, l’électronique et le silicium."
 ---
-
 ![Image de Quartz](https://upload.wikimedia.org/wikipedia/commons/1/14/Quartz%2C_Tibet.jpg)
 
 ###### Questions

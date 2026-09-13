@@ -22,8 +22,9 @@ indice_6 :
   - Victoires de la musique
 questions:
  - En 1993, à quelle chanteuse doit-on le titre "Avant qu'il ne soit trop tard" ?
+culture_g_score: 40
+culture_g_justification: "Chanteuse française associée à quelques succès des années 1990, mais peu prioritaire face aux grandes figures de la chanson."
 ---
-
 ![Image de Jil Caplan](https://upload.wikimedia.org/wikipedia/commons/6/6a/Caplan_Marchet_1554336_%28Jil_Caplan%29.jpg)
 
 ###### Questions

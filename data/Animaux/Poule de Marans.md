@@ -15,8 +15,9 @@ indice_6 :
   - Œufs extra-roux prisés des chefs cuisiniers
 questions:
  - Quelle race de poules, portant le nom d'une commune de Charente-Maritime, donne de gros oeufs de couleur roux foncé?
+culture_g_score: 24
+culture_g_justification: "Race de poule française connue surtout des éleveurs et amateurs de gastronomie, avec une fréquence quiz très faible."
 ---
-
 ![Image de Poule de Marans](https://upload.wikimedia.org/wikipedia/commons/9/9e/Poule_de_Marans_SDA.jpg)
 
 ###### Questions

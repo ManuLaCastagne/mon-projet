@@ -20,8 +20,9 @@ indice_6 :
   - Hallucinations visuelles
 questions:
  - Série télévisée américaine apparue sur les écrans français en 1998, je dois mon existence au producteur David E.Kelley.
+culture_g_score: 65
+culture_g_justification: "Série américaine très identifiée des années 1990, régulièrement mobilisée pour ses personnages, sa musique et son style, mais d’importance culturelle limitée."
 ---
-
 ![Image de Ally McBeal](https://upload.wikimedia.org/wikipedia/commons/3/39/Ally_McBeal_white_title_logo.svg)
 
 ###### Questions

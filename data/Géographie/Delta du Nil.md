@@ -21,8 +21,9 @@ indice_6 :
   - civilisation ancienne
 questions:
  - A partir du Caire, dans quelle vaste plaine alluviale, éminemment fertile, le fleuve entre-t-il...
+culture_g_score: 68
+culture_g_justification: "Lieu fondamental de la géographie et de l’histoire de l’Égypte, mais générant un nombre d’angles de quiz relativement limité."
 ---
-
 ![Image de Delta du Nil](https://upload.wikimedia.org/wikipedia/commons/c/cc/Nile_delta_landsat_false_color.jpg)
 
 ###### Questions

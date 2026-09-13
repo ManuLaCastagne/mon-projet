@@ -13,8 +13,9 @@ indice_5:
   - Érable
 indice_6:
   - Bois utilisé en ébénisterie et menuiserie
+culture_g_score: 52
+culture_g_justification: "Arbre lié à l’Antiquité, à la Bible et à la géographie du Proche-Orient, mais souvent confondu avec d’autres sycomores."
 ---
-
 ![Image de Sycomore](https://upload.wikimedia.org/wikipedia/commons/b/b8/Ficus_sycomorus_fruits_MHNT.jpg)
 
 ###### Questions

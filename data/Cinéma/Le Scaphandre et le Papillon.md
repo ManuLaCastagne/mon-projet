@@ -22,8 +22,9 @@ indice_6 :
   - Cannes 2007
 questions:
  - En 2007, quel film de Julian Schnabel, dont le titre fait référence à un insecte, est tiré d'un livre de Jean-Dominique Bauby?
+culture_g_score: 68
+culture_g_justification: "Drame biographique marquant, utile pour Schnabel, Bauby, le locked-in syndrome et les récompenses, mais peu transversal au-delà de ces repères."
 ---
-
 ![Image de Le Scaphandre et le Papillon](https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Diving-Bell_and_the_Butterfly.jpg)
 
 ###### Questions

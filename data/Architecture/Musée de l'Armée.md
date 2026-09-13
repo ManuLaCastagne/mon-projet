@@ -23,8 +23,9 @@ indice_6 :
   - hôtel des Invalides
 questions:
  - Situé dans l'hôtel des Invalides, je suis ?
+culture_g_score: 72
+culture_g_justification: "Le Musée de l’Armée permet des questions sur l’histoire militaire française, les Invalides, Napoléon et les conflits mondiaux."
 ---
-
 ![Image de Musée de l'Armée](https://upload.wikimedia.org/wikipedia/commons/c/c4/Mus%C3%A9e_de_l%27Arm%C3%A9e%2C_Paris_4_May_2019.jpg)
 
 ###### Questions

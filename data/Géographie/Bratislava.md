@@ -22,8 +22,9 @@ indice_5 :
   - centre historique médiéval
 indice_6 : 
   - fusion des cultures européenne centrale
+culture_g_score: 72
+culture_g_justification: "Capitale danubienne chargée d’histoire, Bratislava est utile pour la Slovaquie, l’Empire austro-hongrois, la géographie européenne et les frontières."
 ---
-
 ![Image de Bratislava](https://upload.wikimedia.org/wikipedia/commons/b/b4/View_of_Bratislava_from_Nov%C3%BD_most%2C_20210727_1012_0262.jpg)
 
 ![[Carte_Bratislava.png]]

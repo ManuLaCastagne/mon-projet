@@ -13,8 +13,9 @@ indice_5:
   - Punaise rouge
 indice_6:
   - Symbole de la persistance dans les jardins
+culture_g_score: 40
+culture_g_justification: "Le gendarme est un insecte familier en France, mais ses usages en quiz demeurent limités à l'identification et à quelques particularités."
 ---
-
 ![Image de Gendarme](https://upload.wikimedia.org/wikipedia/commons/6/6a/Pyrrhocoris_apterus_%28punaise_rouge%29.JPG)
 
 ###### Questions

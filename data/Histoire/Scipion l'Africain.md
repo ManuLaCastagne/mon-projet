@@ -20,8 +20,9 @@ indice_6:
   - général romain
 questions:
   - Qui mit fin à la 2e guerre punique grâce à sa victoire de Zama sur Hannibal ?
+culture_g_score: 64
+culture_g_justification: "Général romain important, principalement connu par la deuxième guerre punique, Hannibal et la bataille de Zama."
 ---
-
 ![Image de Scipion l'Africain](https://upload.wikimedia.org/wikipedia/commons/f/f0/Recueil._%22Scipion_l%27Africain%22_film_de_Carmine_Gallone_-_btv1b105075976_%2811_of_29%29.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5 :
   - Coureur des savanes
 indice_6 : 
   - Symbole de vitesse
+culture_g_score: 76
+culture_g_justification: "Animal très connu grâce à sa taille, sa vitesse, ses œufs et ses comportements réputés, offrant de nombreux indices de quiz."
 ---
-
 ![Image de Autruche](https://upload.wikimedia.org/wikipedia/commons/f/fa/Autruche_d%27Afrique_%28Struthio_camelus%29_%282%29.jpg)
 
 ###### Questions

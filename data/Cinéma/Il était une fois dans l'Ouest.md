@@ -22,8 +22,9 @@ indice_6 :
   - Harmonica
 questions:
  - En 1969, quel western de Sergio Leone débute par une longue scène au cours de laquelle des tueurs attendent l'arrivée d'un train en gare?
+culture_g_score: 80
+culture_g_justification: "Western majeur de Sergio Leone, régulièrement relié à Morricone, Henry Fonda, au western spaghetti et au cinéma américain."
 ---
-
 ![Image de Il était une fois dans l'Ouest](https://upload.wikimedia.org/wikipedia/commons/5/57/Charles_Dubois_dans_le_r%C3%B4le_du_chasseur_de_prime_dans_%22Il_%C3%A9tait_une_fois_dans_l%27Ouest_de_la_Corse%22.JPG)
 
 ###### Questions

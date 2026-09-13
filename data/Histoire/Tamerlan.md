@@ -20,8 +20,9 @@ indice_6 :
   - bossu
 questions:
  - Quel homme de guerre d'origine mongole né en 1336 près de Samarcande…
+culture_g_score: 71
+culture_g_justification: "Conquérant majeur de l’Asie centrale, utile pour l’histoire mongole, l’Inde, Samarcande et les empires médiévaux."
 ---
-
 ![Image de Tamerlan](https://upload.wikimedia.org/wikipedia/commons/8/81/Timur_seated_%28earliest_known_portrait%29%2C_Timurid_genealogy%2C_1405-1409%2C_Samarkand_%28TSMK%2C_H2152%29.jpg)
 
 ###### Questions

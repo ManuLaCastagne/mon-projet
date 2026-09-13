@@ -20,8 +20,9 @@ indice_6 :
   - fin de la Guerre Froide
 questions:
  - En 1991, quel dirigeant soviétique a reçu les membres du groupe Scorpions au Kremlin ?
+culture_g_score: 96
+culture_g_justification: "Dernier dirigeant soviétique, central pour la perestroïka, la glasnost et la fin de la guerre froide, avec de nombreux angles de questions."
 ---
-
 ![Image de Mikhaïl Gorbatchev](https://upload.wikimedia.org/wikipedia/commons/2/28/Mikha%C3%AFl_Gorbatchev_place_de_la_Bastille_1985.tif)
 
 ###### Questions

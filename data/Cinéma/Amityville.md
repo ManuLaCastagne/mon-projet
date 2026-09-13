@@ -22,8 +22,9 @@ indice_6 :
   - faits réels
 questions:
  - En 1980, quel film d'horreur américain, sous-titré "La Maison du diable", a pour cadre une demeure où se déroulent d'étranges phénomènes? Film d'horreur?
+culture_g_score: 56
+culture_g_justification: "Référence connue de l’horreur et du paranormal, mais principalement exploitable autour d’un lieu, d’une histoire et d’une franchise."
 ---
-
 ![Image de Amityville](https://upload.wikimedia.org/wikipedia/commons/5/5d/AmityvilleVillageHall.jpg)
 
 ###### Questions

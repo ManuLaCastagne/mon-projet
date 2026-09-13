@@ -13,8 +13,9 @@ indice_5:
   - Etoile de Noël
 indice_6:
   - Décoration de Noël
+culture_g_score: 57
+culture_g_justification: "Plante immédiatement associée à Noël et au Mexique, avec une bonne présence dans les questions saisonnières et culturelles."
 ---
-
 ![Image de Poinsettia](https://upload.wikimedia.org/wikipedia/commons/b/ba/Euphorbia_pulcherrima_0111.jpg)
 
 ###### Questions

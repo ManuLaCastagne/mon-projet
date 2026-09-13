@@ -22,8 +22,9 @@ indice_6 :
   - De Asse et Partibus Eius
 questions:
  - Quel humaniste français auteur des "Commentaires sur la langue grecque" est  à l'origine de la fondation du Collège de France ?
+culture_g_score: 39
+culture_g_justification: "Humaniste important de la Renaissance française, mais surtout rencontré dans des questions spécialisées sur l'érudition et les institutions."
 ---
-
 ![Image de Guillaume Budé](https://upload.wikimedia.org/wikipedia/commons/5/50/Guillaume_Bud%C3%A9%2C_by_Jean_Clouet.jpg)
 
 ###### Questions

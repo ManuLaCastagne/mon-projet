@@ -22,8 +22,9 @@ indice_6 :
   - existentialisme
 questions:
  - Quel dramaturge irlandais...
+culture_g_score: 80
+culture_g_justification: "Figure majeure du théâtre de l’absurde, associée à En attendant Godot, au Nobel et à la Résistance."
 ---
-
 ![Image de Samuel Beckett](https://upload.wikimedia.org/wikipedia/commons/0/09/Samuel_Beckett%2C_Pic%2C_1.jpg)
 
 ###### Questions

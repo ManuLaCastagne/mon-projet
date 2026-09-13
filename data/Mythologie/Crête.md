@@ -19,11 +19,9 @@ indice_6 :
   - Pasiphaé
 questions:
  - Sexuel secondaire, plus développée chez le mâle que chez la femelle, je jouerais un rôle dans la thermorégulation de l'animal et aurais des fonctions immunitaires. Excroissance charnue rouge dentelée...
+culture_g_score: 72
+culture_g_justification: "Île centrale de plusieurs mythes grecs, notamment autour de Zeus, Minos, Thésée et du Minotaure."
 ---
-
-
-
-
 ![Image de Crête](https://upload.wikimedia.org/wikipedia/commons/c/ca/Venetian_Fortress_of_Koules_in_Heraklion%2C_Crete_003.jpg)
 
 ###### Questions

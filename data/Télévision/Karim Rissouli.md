@@ -20,8 +20,9 @@ indice_6 :
   - débats d'actualité
 questions:
  - Depuis janvier 2021 sur France 5, quel journaliste présente en semaine l'émission "C ce soir, le débat", en plus de "C politique" le dimanche?
+culture_g_score: 40
+culture_g_justification: "Journaliste politique identifiable par quelques émissions de France 5, mais encore peu incontournable dans la culture générale."
 ---
-
 ![Image de Karim Rissouli](https://upload.wikimedia.org/wikipedia/commons/c/c9/Karim_Rissouli.jpg)
 
 ###### Questions

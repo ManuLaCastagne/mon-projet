@@ -22,8 +22,9 @@ indice_6 :
   - Château d'Argol
 questions:
  - Quel écrivain français, de son vrai nom Louis Poirier et auteur du "Rivage des Syrtes" a toujours refusé d'être édité ?
+culture_g_score: 64
+culture_g_justification: "Auteur reconnu du XXe siècle, notamment pour son refus du Goncourt et son style onirique, avec une fréquence de quiz modérée."
 ---
-
 ![Image de Julien Gracq](https://upload.wikimedia.org/wikipedia/commons/2/24/Signature_julien_gracq.png)
 
 ###### Questions

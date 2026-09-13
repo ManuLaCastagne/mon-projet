@@ -18,8 +18,9 @@ indice_5 :
   - territoires en Belgique
 indice_6 : 
   - Guerre de Cent Ans
+culture_g_score: 67
+culture_g_justification: "Titre lié à plusieurs figures et à la rivalité franco-bourguignonne, mais nécessitant des connaissances médiévales assez spécialisées."
 ---
-
 ![Image de Duc de Bourgogne](https://upload.wikimedia.org/wikipedia/commons/d/d0/Launching_of_the_French_ship%22_Duc_de_Bourgogne%22_%281752%29.jpg)
 
 ###### Questions

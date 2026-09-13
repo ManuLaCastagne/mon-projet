@@ -23,6 +23,7 @@ indice_6 :
 questions:
  - En 1985, dans quel film de Dino Risi interprète-t-il son dernier rôle?
 culture_g_score: 40
+culture_g_justification: "Film de guerre satirique surtout retenu pour le rôle inhabituel de Coluche, avec une fréquence et une portée généraliste limitées."
 ---
 ![Image de Le Fou de guerre](https://upload.wikimedia.org/wikipedia/commons/b/b9/Le_Puy_du_Fou_spectacle_de_la_Cinescenie_%281%29.jpg)
 

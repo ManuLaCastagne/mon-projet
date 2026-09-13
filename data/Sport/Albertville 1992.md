@@ -19,10 +19,9 @@ indice_5:
   - patinage artistique
 indice_6:
   - cinq anneaux olympiques
+culture_g_score: 80
+culture_g_justification: "Édition française marquante des Jeux d’hiver, utile pour des questions sur l’olympisme, les sites et les innovations sportives."
 ---
-
-
-
 ![Image de Albertville 1992](https://upload.wikimedia.org/wikipedia/commons/d/da/1992_Winter_Olympics_Albertville_monument.JPG)
 
 ###### Questions

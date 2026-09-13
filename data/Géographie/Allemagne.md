@@ -14,8 +14,9 @@ indice_5:
   - Brandebourg
 indice_6:
   - Alpes bavaroises
+culture_g_score: 100
+culture_g_justification: "Puissance européenne centrale dont l’histoire, la politique, la géographie, les sciences, la culture et le sport fournissent d’innombrables questions."
 ---
-
 ![Image de Allemagne](https://upload.wikimedia.org/wikipedia/commons/2/25/Fleury-sur-orne-mars2006.jpg)
 
 ![[Carte_Allemagne.png]]

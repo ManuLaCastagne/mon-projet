@@ -15,8 +15,9 @@ indice_6 :
   - Met favori des fruits de mer en Europe
 questions:
  - Doté de cinq paires de pattes, dont l'une forme deux grosses pinces robustes à bout noir. Je suis reconnaissable à ma carapace ovale, lisse...
+culture_g_score: 44
+culture_g_justification: "Le tourteau est connu dans la gastronomie et la pêche européennes, mais il possède peu d'angles indépendants en culture générale."
 ---
-
 ![Image de Tourteau](https://upload.wikimedia.org/wikipedia/commons/e/e8/Tourteau_fromager_entier.jpg)
 
 ###### Questions

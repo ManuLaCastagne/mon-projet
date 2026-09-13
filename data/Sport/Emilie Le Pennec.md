@@ -20,8 +20,9 @@ indice_6 :
   - Championne olympique
 questions:
  - A Debrecen, j'ai remporté un an plus tôt mon plus beau titre à Athènes 2004 en bénéficiant notamment d'une chute de la favorite Svetlana Khorkina aux barres asymétriques. Seule gymnaste française championne...
+culture_g_score: 57
+culture_g_justification: "Première championne olympique française de gymnastique individuelle, elle constitue une question classique mais assez ponctuelle."
 ---
-
 ![Image de Emilie Le Pennec](https://upload.wikimedia.org/wikipedia/commons/6/6e/%C3%89milie_Le_Pennec%2C_2005_%28portrait%29.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - Trieste
 questions:
  - Je suis reliée à la mer Ionienne par le canal d'Otrante. Partie de la Méditerranée, je présente un contraste entre mes 2 rives, droite et continue sur la côte italienne, abrupte et découpée sur la côte balkanique.
+culture_g_score: 72
+culture_g_justification: "Mer européenne importante pour la géographie méditerranéenne, les Balkans, les échanges et l'histoire maritime."
 ---
-
-
 ![Image de Mer Adriatique](https://upload.wikimedia.org/wikipedia/commons/e/ec/Mer_Adriatique_Cr%C3%A9puscule.jpg)
 
 ![[Carte_Mer Adriatique.png]]

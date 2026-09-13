@@ -22,8 +22,9 @@ indice_6 :
   - relation intergénérationnelle
 questions:
  - 67. Dans quel film  de Claude Berri Michel Simon  joue-t-il...
+culture_g_score: 64
+culture_g_justification: "Classique français sur l’Occupation, utile pour Claude Berri, Michel Simon, la Shoah et l’amitié intergénérationnelle."
 ---
-
 ![Image de Le Vieil homme et l'enfant](https://upload.wikimedia.org/wikipedia/commons/5/5d/Solitude_pan-pjt.jpg)
 
 ###### Questions

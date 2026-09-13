@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de paix et d'harmonie
 questions:
  - Quel chimpanzé nain, vivant dans les forêts de l'ex-Zaïre, est le primate dont le comportement ressemble le plus à celui de l'homme?
+culture_g_score: 68
+culture_g_justification: "Grand singe important pour l’évolution et l’éthologie, mais moins fréquent et moins connu que le chimpanzé."
 ---
-
 ![Image de Bonobo](https://upload.wikimedia.org/wikipedia/commons/2/27/Pan_paniscus_%28female%29.jpg)
 
 ###### Questions

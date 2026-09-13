@@ -20,8 +20,9 @@ indice_6 :
   - hydroptère
 questions:
  - Muni d'un foc et d'une grand-voile, je suis constitué de 2 coques accouplées parallèlement, entre lesquelles est tendu un trampoline. Voilier ayant pour exemple le Tornado, qui a longtemps été utilisé aux JO et le Hobie 16, je suis…
+culture_g_score: 48
+culture_g_justification: "Embarcation facilement identifiable et utile dans quelques questions de navigation, mais rarement centrale dans les quiz généralistes."
 ---
-
 ![Image de Catamaran](https://upload.wikimedia.org/wikipedia/commons/c/cb/Catamaran_pirogue_transporting_people_on_the_Mekong_in_Don_Det%2C_Laos.jpg)
 
 ###### Questions

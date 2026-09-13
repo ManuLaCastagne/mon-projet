@@ -20,8 +20,9 @@ indice_6 :
   - Impératif catégorique
 questions:
  - En 1781, au XVIIIe siècle, quel philosophe allemand définit...
+culture_g_score: 92
+culture_g_justification: "Philosophe fondamental, interrogé à travers la connaissance, la morale, les Lumières, la métaphysique et l’histoire des idées."
 ---
-
 ![Image de Emmanuel Kant](https://upload.wikimedia.org/wikipedia/commons/7/79/Immanuel_Kant_-_Gemaelde_1.jpg)
 
 ###### Questions

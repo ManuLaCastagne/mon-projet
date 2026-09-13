@@ -20,8 +20,9 @@ indice_6 :
   - Sceau postal
 questions:
  - Type de service auquel l'Histoire/ONU consacre chaque 9 octobre une journée mondiale, je suis considéré par l'UE comme un service économique d'intérêt général.
+culture_g_score: 72
+culture_g_justification: "Institution familière et historiquement structurante, interrogeable par le courrier, l’État, les réformes et le timbre."
 ---
-
 ![Image de Poste](https://upload.wikimedia.org/wikipedia/commons/6/66/Saint-Paul-en-Chablais-74-Calvaire-Ancien-Presbytere-Mairie-LaPoste-byRundvald.jpg)
 
 ###### Questions

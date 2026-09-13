@@ -22,8 +22,9 @@ indice_6 :
   - Disco and pop genre
 questions:
  - Quelle chanteuse australienne est l'interprète des tubes "Can't get you out of my head" et "I should be so lucky" ?
+culture_g_score: 76
+culture_g_justification: "Icône internationale de la pop, régulièrement interrogée sur ses tubes, l’Australie, les classements et sa longévité artistique."
 ---
-
 ![Image de Kylie Minogue](https://upload.wikimedia.org/wikipedia/commons/d/d7/Kylie_Minogue_performing_in_2024.png)
 
 ###### Questions

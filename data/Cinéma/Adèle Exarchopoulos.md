@@ -21,8 +21,9 @@ indice_5:
   - Collaborations avec Abdellatif Kechiche
 indice_6:
   - César du Meilleur espoir féminin
+culture_g_score: 64
+culture_g_justification: "Actrice française très médiatisée, notamment grâce à La Vie d'Adèle et à plusieurs films et récompenses."
 ---
-
 ![Image de Adèle Exarchopoulos](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ad%C3%A8le_Exarchopoulos_%282024%29.png)
 
 ###### Questions

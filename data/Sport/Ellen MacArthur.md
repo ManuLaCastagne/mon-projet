@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - En 2002, quelle navigatrice britannique remporte La Route Rhum et a été anoblie par la Reine ?
  - En 2005, année de son record du tour du monde à la voile en solitaire, quelle navigatrice a été anoblie par la reine Elizabeth II ?
+culture_g_score: 60
+culture_g_justification: "Navigatrice connue pour son record du tour du monde et sa fondation, offrant des angles sportifs et environnementaux sans être incontournable."
 ---
-
 ![Image de Ellen MacArthur](https://upload.wikimedia.org/wikipedia/commons/7/7f/Ellen_McArthur%2C_2010_%28cropped%29.jpg)
 
 ###### Questions

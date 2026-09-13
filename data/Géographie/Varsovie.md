@@ -24,8 +24,9 @@ indice_6 :
   - château royal
 questions:
  - En 1956, quelle ville d'Europe orientale Gilbert Bécaud évoque-t-il dans une chanson parlant d'un pianiste?
+culture_g_score: 83
+culture_g_justification: "Capitale polonaise très rentable pour l’histoire contemporaine, la Seconde Guerre mondiale, Chopin, la politique et la géographie européenne."
 ---
-
 ![Image de Varsovie](https://upload.wikimedia.org/wikipedia/commons/a/ae/Warsaw_07-13_img29_View_from_Palace_of_Culture_and_Science.jpg)
 
 ![[Carte_Varsovie.png]]

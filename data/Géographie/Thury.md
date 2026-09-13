@@ -21,8 +21,9 @@ indice_5 :
   - Thury-Bury
 indice_6 : 
   - Thury département de l'Yonne
+culture_g_score: 12
+culture_g_justification: "Petite commune française sans notoriété générale, dont les rares questions possibles sont très locales."
 ---
-
 ![[Carte_Thury.png]]
 
 ###### Questions

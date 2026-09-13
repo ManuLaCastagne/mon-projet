@@ -22,9 +22,9 @@ indice_6:
   - plus grande bataille de chars
 questions:
   - En juillet 1943, quelle immense bataille de chars, se soldant par une victoire soviétique sur la Wehrmacht, est un tournant décisif de la guerre?
+culture_g_score: 80
+culture_g_justification: "Bataille emblématique de la Seconde Guerre mondiale, célèbre pour l’opération Citadelle, les chars et le front de l’Est."
 ---
-
-
 ![Image de Bataille de Koursk](https://upload.wikimedia.org/wikipedia/commons/c/c0/Bataille_de_Koursk-es.svg)
 
 ###### Questions

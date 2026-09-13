@@ -22,8 +22,9 @@ indice_6 :
   - Azzurro
 questions:
  - M'accompagnant au piano, on me doit le titre le titre "Gelato al limone" et les tubes "Via con me" et "Come di".
+culture_g_score: 56
+culture_g_justification: "Auteur-compositeur italien original, reconnu pour son croisement entre chanson, jazz et blues, mais relativement peu fréquent en quiz francophones."
 ---
-
 ![Image de Paolo Conte](https://upload.wikimedia.org/wikipedia/commons/a/a9/Paolo_Conte_02.jpg)
 
 ###### Questions

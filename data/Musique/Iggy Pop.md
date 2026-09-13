@@ -22,8 +22,9 @@ indice_6 :
   - Raw Power
 questions:
  - A quel chanteur américain, ancien leader des Stooges, surnommé l'iguane doit-on notamment le tube "The Passenger" ?
+culture_g_score: 80
+culture_g_justification: "Figure majeure du punk et des Stooges, Iggy Pop ouvre de nombreux angles sur le rock, les collaborations et le cinéma."
 ---
-
 ![Image de Iggy Pop](https://upload.wikimedia.org/wikipedia/commons/7/73/Iggy_Pop_%284%29.jpg)
 
 ###### Questions

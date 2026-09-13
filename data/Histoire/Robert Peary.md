@@ -20,8 +20,9 @@ indice_6 :
   - controverses sur ses revendications
 questions:
  - Quel explorateur américain atteignit le Pôle Nord en 1909 accompagné de Matthew Handson ?
+culture_g_score: 60
+culture_g_justification: "Explorateur polaire célèbre pour sa revendication controversée du pôle Nord, sujet classique mais limité à quelques angles."
 ---
-
 ![Image de Robert Peary](https://upload.wikimedia.org/wikipedia/commons/1/15/Peary.jpg)
 
 ###### Questions

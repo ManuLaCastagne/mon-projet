@@ -20,8 +20,9 @@ indice_5:
   - années 1960
 indice_6:
   - Ang Lee
+culture_g_score: 80
+culture_g_justification: "Film majeur du cinéma contemporain, régulièrement interrogé pour Ang Lee, les Oscars, la représentation LGBT et ses acteurs."
 ---
-
 ![[Pasted image 20250629095237.png]]
 ###### Questions
 

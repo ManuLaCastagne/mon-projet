@@ -16,8 +16,9 @@ indice_6 :
 questions:
  - Quel grand mammifère est dit noir lorsqu'il est de l'espèce diceros bicornis observable en République Centrafricaine ?
  - Simum et en un seul exemplaire chez 2 de mes 3 espèces asiatiques. Constituée de kératine, je suis dotée dans la pharmacopée asiatique...
+culture_g_score: 71
+culture_g_justification: "Grand mammifère emblématique relié à la préhistoire, à la conservation, à la géographie et aux arts."
 ---
-
 ![Image de Rhinocéros](https://upload.wikimedia.org/wikipedia/commons/4/45/Indian_rhinoceros_%28Rhinoceros_unicornis%29_6.jpg)
 
 ###### Questions

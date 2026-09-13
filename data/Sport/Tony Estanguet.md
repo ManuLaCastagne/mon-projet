@@ -20,8 +20,9 @@ indice_6 :
   - Sportif de haut niveau
 questions:
  - Entre 2000 et 2012, en 4 participations aux JO, quel Français a remporté 3 titres olympiques dans l'épreuve de slalom du canoë monoplace?
+culture_g_score: 80
+culture_g_justification: "Triple champion olympique devenu responsable de Paris 2024, il relie résultats sportifs, olympisme et actualité française."
 ---
-
 ![Image de Tony Estanguet](https://upload.wikimedia.org/wikipedia/commons/c/c6/Tony_Estanguet.jpg)
 
 ###### Questions

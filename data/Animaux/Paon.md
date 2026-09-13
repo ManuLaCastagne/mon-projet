@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de beauté et de fierté
 questions:
  - Quel gallinacé mâle porte une livrée bleutée à effet métallique...
+culture_g_score: 64
+culture_g_justification: "Oiseau très reconnaissable, avec des liens à l’Inde, à la mythologie et aux symboles culturels, mais une fréquence modérée."
 ---
-
 ![Image de Paon](https://upload.wikimedia.org/wikipedia/commons/a/a7/Pavo_cristatus_-_Maroparque_01.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - laboratoire secret
 indice_6:
   - film fantastique
+culture_g_score: 80
+culture_g_justification: "Film oscarisé et Lion d'or, fréquemment questionné par son réalisateur, ses récompenses, son univers fantastique et ses acteurs."
 ---
-
-
 ![[Pasted image 20250421160524.png]]
 ###### Questions
 

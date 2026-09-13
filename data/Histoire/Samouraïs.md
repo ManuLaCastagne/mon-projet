@@ -20,8 +20,9 @@ indice_6 :
   - ère Edo
 questions:
  - Dès la fin du XIIe siècle, quels guerriers, au service du daïmio ou du shogun...
+culture_g_score: 88
+culture_g_justification: "Sujet très connu et transversal, ouvrant sur le Japon féodal, le shogunat, le bushido, les arts martiaux et la modernisation de Meiji."
 ---
-
 ![Image de Samouraïs](https://upload.wikimedia.org/wikipedia/commons/7/7c/Samurai_with_sword.jpg)
 
 ###### Questions

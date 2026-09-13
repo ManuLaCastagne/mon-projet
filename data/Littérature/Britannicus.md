@@ -22,8 +22,9 @@ indice_6 :
   - Rome antique
 questions:
  - Quelle tragédie de Racine se termine par "plut aux dieux "que ce fut le dernier de ses crimes" ?
+culture_g_score: 79
+culture_g_justification: "Tragédie classique importante de Racine, utile pour la littérature, l’histoire romaine et les rivalités autour de Néron."
 ---
-
 ![Image de Britannicus](https://upload.wikimedia.org/wikipedia/commons/8/87/Britannicus-Louvre.jpg)
 
 ###### Questions

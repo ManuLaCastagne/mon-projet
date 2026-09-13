@@ -19,8 +19,9 @@ indice_5:
   - Exilé au Mexique pendant la guerre civile
 indice_6:
   - Maître du surréalisme au cinéma
+culture_g_score: 87
+culture_g_justification: "Maître du surréalisme et du cinéma mondial, ouvrant sur Dalí, l’Espagne, le Mexique, Deneuve et de nombreux films majeurs."
 ---
-
 ![Image de Luis Buñuel](https://upload.wikimedia.org/wikipedia/commons/1/1e/Luis_Bunuel.jpg)
 
 ###### Questions

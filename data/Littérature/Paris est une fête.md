@@ -22,8 +22,9 @@ indice_6 :
   - expatriés américains
 questions:
  - Quel ouvrage d'Ernest Hemingway, paru...
+culture_g_score: 68
+culture_g_justification: "Récit très connu d’Hemingway, utile pour la littérature américaine, Paris et la vie intellectuelle des années 1920."
 ---
-
 ![Image de Paris est une fête](https://upload.wikimedia.org/wikipedia/commons/e/e5/Ville_de_Paris_F%C3%AAte_des_Municipalit%C3%A9s%2C_Paris_Mus%C3%A9es_20231012232956.jpg)
 
 ###### Questions

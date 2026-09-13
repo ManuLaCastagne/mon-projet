@@ -22,8 +22,9 @@ indice_6 :
   - révolution anglaise
 questions:
  - A sa mort, en 1658, quel homme d'Etat anglais...
+culture_g_score: 84
+culture_g_justification: "Figure majeure de la guerre civile anglaise et de l’abolition de la monarchie, ouvrant sur la politique, la religion et l’histoire britannique."
 ---
-
 ![Image de Oliver Cromwell](https://upload.wikimedia.org/wikipedia/commons/e/e2/Oliver_Cromwell_statue%2C_Wythenshawe_Park%2C_March_2016_027.jpg)
 
 ###### Questions

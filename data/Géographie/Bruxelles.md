@@ -22,8 +22,9 @@ indice_5 :
   - Parlement européen
 indice_6 : 
   - gaufres
+culture_g_score: 100
+culture_g_justification: "Bruxelles est une capitale incontournable, à la fois centre européen et belge, riche en institutions, histoire, patrimoine, gastronomie et culture."
 ---
-
 ![Image de Bruxelles](https://upload.wikimedia.org/wikipedia/commons/e/e0/Royal_Palace_in_Brussels.JPG)
 
 ![[Carte_Bruxelles.png]]

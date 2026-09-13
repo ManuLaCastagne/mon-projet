@@ -18,8 +18,9 @@ indice_6 :
   - fils d'Athéna
 questions:
  - Personnage de la [[mythologie grecque]], mentionné par Ovide dans le 8e livre des "Métamorphoses". Je suis le fils d'Eupalamos et d'Alcippé. J'ai tué mon neveu Talos par jalousie et inspiré à Ariane la ruse qui sauva Thésée.
+culture_g_score: 80
+culture_g_justification: "Architecte du Labyrinthe et père d'Icare, au cœur de plusieurs récits mythologiques extrêmement connus."
 ---
-
 ![Image de Dédale](https://upload.wikimedia.org/wikipedia/commons/3/36/%28Agen%29_D%C3%A9dale_et_Pasipha%C3%A9_-_Jean_Lemaire_-_Mus%C3%A9e_des_Beaux-Arts_d%27Agen.jpg)
 
 ###### Questions

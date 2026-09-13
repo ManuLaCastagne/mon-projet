@@ -18,8 +18,9 @@ indice_6 :
   - Crète
 questions:
  - Fille de Minos et de Pasiphaé, je suis…
+culture_g_score: 80
+culture_g_justification: "Figure centrale du mythe du Minotaure, reliée à Thésée, au labyrinthe, à Naxos et à une constellation."
 ---
-
 ![Image de Ariane](https://upload.wikimedia.org/wikipedia/commons/a/ae/Ariane_Sorriso.jpg)
 
 ###### Questions

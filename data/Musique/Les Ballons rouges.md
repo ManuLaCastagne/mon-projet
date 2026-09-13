@@ -17,11 +17,9 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6:
+culture_g_score: 40
+culture_g_justification: "Chanson française connue des amateurs de Serge Lama, mais trop spécifique et peu récurrente dans les quiz généralistes."
 ---
-
-
-
-
 ![Image de Les Ballons rouges](https://upload.wikimedia.org/wikipedia/commons/f/f6/TL31-Les_ballons_rouges-4.png)
 
 ###### Questions

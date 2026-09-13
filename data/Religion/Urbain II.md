@@ -18,8 +18,9 @@ indice_5 :
   - Réforme grégorienne
 indice_6 : 
   - Appel à la croisade
+culture_g_score: 64
+culture_g_justification: "Le lancement de la première croisade rend Urbain II important en histoire médiévale, mais sa notoriété reste inférieure à celle des grands papes."
 ---
-
 ![Image de Urbain II](https://upload.wikimedia.org/wikipedia/commons/2/20/Fruit_urbain_II-Vincent_Du_Bois-Carouge-L1001647.jpg)
 
 ###### Questions

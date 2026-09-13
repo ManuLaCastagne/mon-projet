@@ -15,7 +15,8 @@ indice_6 :
   - Épuration des eaux
 questions:
  - Quelle petite plante des étangs, dite d'eau, aux feuilles bombées ou trilobées est également appelée lenticule ?
-culture_g_score: 31
+culture_g_score: 32
+culture_g_justification: "Petite plante aquatique intéressante écologiquement, mais rarement une réponse de quiz généraliste."
 ---
 ![Image de Lentille d'eau](https://upload.wikimedia.org/wikipedia/commons/c/c7/Conche_avec_lentilles_d%27eau_de_la_Venise_Verte.jpg)
 

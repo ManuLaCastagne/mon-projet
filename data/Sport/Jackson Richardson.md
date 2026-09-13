@@ -20,8 +20,9 @@ indice_6 :
   - Barjots
 questions:
  - Demi-centre réunionnais, élu meilleur joueur du monde en 1995, ce n'est pas rien, je suis considéré comme l'un des meilleurs handballeurs français de l'histoire.
+culture_g_score: 60
+culture_g_justification: "Symbole du handball français et ancien meilleur joueur mondial, Richardson est régulièrement mobilisable dans les questions sportives françaises."
 ---
-
 ![Image de Jackson Richardson](https://upload.wikimedia.org/wikipedia/commons/3/38/Jackson_Richardson_01.jpg)
 
 ###### Questions

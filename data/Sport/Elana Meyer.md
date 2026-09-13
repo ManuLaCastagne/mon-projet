@@ -18,8 +18,9 @@ indice_5 :
   - Course de fond
 indice_6 : 
   - Records du monde
+culture_g_score: 32
+culture_g_justification: "Athlète importante dans l’histoire sportive sud-africaine, mais rarement interrogée hors de quelques questions sur l’apartheid et les Jeux de 1992."
 ---
-
 ![Image de Elana Meyer](https://upload.wikimedia.org/wikipedia/commons/c/cb/Elana_Meyers_Taylor_%28USA%29.png)
 
 ###### Questions

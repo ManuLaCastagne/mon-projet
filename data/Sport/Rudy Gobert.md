@@ -20,8 +20,9 @@ indice_6 :
   - Basket-ball
 questions:
  - En 2020, quel joueur de basket-ball des Utah Jazz, est devenu le 3e Français de l'histoire, après Joakim Noah et Tony Parker, à participer au All-Star Game ?
+culture_g_score: 60
+culture_g_justification: "Basketteur français reconnu en NBA et en équipe nationale, mais dont les occurrences restent surtout liées à ses récompenses défensives et aux Jeux olympiques."
 ---
-
 ![Image de Rudy Gobert](https://upload.wikimedia.org/wikipedia/commons/3/31/Rudy_Gobert.jpg)
 
 ###### Questions

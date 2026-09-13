@@ -18,8 +18,9 @@ indice_5 :
   - Algérie
 indice_6 : 
   - Drame familial
+culture_g_score: 31
+culture_g_justification: "Film récent de Maïwenn, connu surtout dans le cinéma français et rarement requis en culture générale large."
 ---
-
 ![Image de ADN (film)]()
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - mort mystérieuse dans le lac de Starnberg
 questions:
  - Roi de Bavière retrouvé  mort dans le lac de Starnberg le lendemain de mon arrestation au château  de Neuschwanstein…
+culture_g_score: 72
+culture_g_justification: "Louis II associe monarchie bavaroise, Neuschwanstein, Wagner, romantisme et mort mystérieuse, malgré une fréquence modérée."
 ---
-
 ![Image de Louis II de Bavière](https://upload.wikimedia.org/wikipedia/commons/d/d0/33_phot._des_ch%C3%A2teaux_favoris_de_Louis_II_de_Bavi%C3%A8re_par_Hugues_Krafft%2C_donateur_en_1887_-_btv1b85537713_%2807_of_33%29.jpg)
 
 ###### Questions

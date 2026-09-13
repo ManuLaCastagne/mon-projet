@@ -22,8 +22,9 @@ indice_6 :
   - roman épique sur la Russie du XXe siècle
 questions:
  - En 1914, quel écrivain russe, futur auteur du "Docteur Jivago", publie son 1er recueil de poésie intitulé "Un jumeau dans les nuées"?
+culture_g_score: 84
+culture_g_justification: "Grand écrivain russe associé au Docteur Jivago, au Nobel et aux rapports entre littérature et pouvoir soviétique."
 ---
-
 ![Image de Boris Pasternak](https://upload.wikimedia.org/wikipedia/commons/4/4e/Boris_Pasternak_1959_photo.jpg)
 
 ###### Questions

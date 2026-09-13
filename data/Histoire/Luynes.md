@@ -20,8 +20,9 @@ indice_6 :
   - conseiller de Louis XIII
 questions:
  - En 1617, quel favori de Louis XIII pousse au meurtre de Concini et exila Marie de Médicis sa mère  ?
+culture_g_score: 23
+culture_g_justification: "Commune et titre nobiliaire relativement secondaires, Luynes apparaît surtout dans des questions locales ou spécialisées."
 ---
-
 ![Image de Luynes](https://upload.wikimedia.org/wikipedia/commons/f/fa/LuynesFromAbove.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - 16e siècle
 questions:
  - En 2019, dans quelle prestigieuse collection le roman "Dracula" est-il publié avec d'autres écrits vampiriques, dans de nouvelles traductions?
+culture_g_score: 72
+culture_g_justification: "Collection littéraire prestigieuse souvent interrogée pour Gallimard, son format et son lien avec la Pléiade de la Renaissance."
 ---
-
 ![Image de Pléiade](https://upload.wikimedia.org/wikipedia/commons/9/9f/Baudelaire%2C_Biblioth%C3%A8que_de_la_Pl%C3%A9iade%2C_%C5%92uvres_compl%C3%A8tes%2C_volume_I%2C_dos_et_jaquette.jpg)
 
 ###### Questions

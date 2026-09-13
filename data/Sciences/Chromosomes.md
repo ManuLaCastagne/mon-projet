@@ -20,8 +20,9 @@ indice_6 :
   - X et Y
 questions:
  - En médecine, quels éléments du noyau des cellules, formés d'une longue molécule d'ADN, sont au nombre de 23 paires chez l'homme ?
+culture_g_score: 80
+culture_g_justification: "Les chromosomes sont une notion fondamentale de biologie, mobilisable en génétique, hérédité, médecine et évolution."
 ---
-
 ![Image de Chromosomes](https://upload.wikimedia.org/wikipedia/commons/0/0b/Chromosome.svg)
 
 ###### Questions

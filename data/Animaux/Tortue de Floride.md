@@ -15,8 +15,9 @@ indice_6 :
   - Espèce invasive en Europe
 questions:
  - Tortue aquatique identifiable à mon plastron jaune tacheté de noir.
+culture_g_score: 56
+culture_g_justification: "La tortue de Floride est un exemple classique d'espèce invasive, utile en environnement et en réglementation, malgré une notoriété modérée."
 ---
-
 ![Image de Tortue de Floride](https://upload.wikimedia.org/wikipedia/commons/4/44/Trachemys_scripta_elegans_partially_submerged.jpg)
 
 ###### Questions

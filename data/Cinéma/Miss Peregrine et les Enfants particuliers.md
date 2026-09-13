@@ -22,8 +22,9 @@ indice_6 :
   - roman de Ransom Riggs
 questions:
  - En 2016, dans quel film de Tim Burton Eva Green incarne-t-elle la directrice d'un pensionnat qui a la capacité de se transformer en faucon?
+culture_g_score: 44
+culture_g_justification: "Film fantastique identifiable par Tim Burton et Eva Green, mais d’importance et de fréquence limitées dans les quiz généralistes."
 ---
-
 ![Image de Miss Peregrine et les Enfants particuliers](https://upload.wikimedia.org/wikipedia/commons/c/c7/Miss_Peregrine%27s_Home_for_Peculiar_Children.png)
 
 ###### Questions

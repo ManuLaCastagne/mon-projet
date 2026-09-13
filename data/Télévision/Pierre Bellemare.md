@@ -18,10 +18,9 @@ indice_5:
   - Les Enquêtes Impossibles
 indice_6:
   - pionnier du télé-achat
+culture_g_score: 80
+culture_g_justification: "Pionnier français de la radio, de la télévision et du téléachat, associé à de nombreuses émissions et à l’histoire des médias."
 ---
-
-
-
 ![Image de Pierre Bellemare](https://upload.wikimedia.org/wikipedia/commons/0/00/Pierre_Bellemare_-_For%C3%AAt_des_Livres_2014_%2814918171007%29.jpg)
 
 ###### Questions

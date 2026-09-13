@@ -20,9 +20,9 @@ indice_6 :
   - animation franco-japonaise
 questions:
  - Dans quelle ancienne série d'animation retrouvait-on le perroquet vert Pichu, qui avait coutume de donner l'alerte dès qu'un danger se présentait?
+culture_g_score: 84
+culture_g_justification: "Dessin animé culte de la francophonie, ouvrant sur l'animation, l'Amérique précolombienne, le Japon et la télévision jeunesse."
 ---
-
-
 ![Image de Les Mystérieuses cités d'or](https://upload.wikimedia.org/wikipedia/commons/5/51/Les_Myst%C3%A9rieuses_Cit%C3%A9s_d%27or_2012.png)
 
 ###### Questions

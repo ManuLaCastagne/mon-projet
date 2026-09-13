@@ -22,8 +22,9 @@ indice_6 :
   - année 1992
 questions:
  - Film de Paul Verhoeven avec Sharon Stone et Michael Douglas.
+culture_g_score: 73
+culture_g_justification: "Thriller très connu et souvent questionné pour Verhoeven, Sharon Stone, sa scène célèbre et la controverse sexuelle."
 ---
-
 ![Image de Basic Instinct](https://upload.wikimedia.org/wikipedia/commons/2/20/Basic_Instinct_Cannes_1992.jpg)
 
 ###### Questions

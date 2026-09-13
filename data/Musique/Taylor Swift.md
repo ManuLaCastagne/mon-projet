@@ -20,8 +20,9 @@ indice_5 :
   - folklore
 indice_6 : 
   - Grammy Awards
+culture_g_score: 84
+culture_g_justification: "Artiste contemporaine mondialement célèbre, fréquemment citée pour ses albums, records, récompenses et évolutions musicales."
 ---
-
 ![Image de Taylor Swift](https://upload.wikimedia.org/wikipedia/commons/d/d7/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_4.png)
 
 ###### Questions

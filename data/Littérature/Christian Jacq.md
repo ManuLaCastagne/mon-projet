@@ -22,9 +22,9 @@ indice_6 :
   - sagas historiques
 questions:
  - Dans les années 2000, quel écrivain publie "Les Mystères d'Osiris" ?
+culture_g_score: 48
+culture_g_justification: "Auteur très vendu associé à l’Égypte ancienne, mais principalement utile pour quelques repères de littérature populaire et d’égyptologie."
 ---
-
-
 ![Image de Christian Jacq](https://upload.wikimedia.org/wikipedia/commons/5/50/Christian_Jacq%2C_au_Salon_du_Livre_de_Paris_2013_%288594182587%29.jpg)
 
 ###### Questions

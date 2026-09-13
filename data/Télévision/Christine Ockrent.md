@@ -20,8 +20,9 @@ indice_6 :
   - 20 heures
 questions:
  - Au début des années 80,  quelle journaliste belge, surnommée la reine Christine...
+culture_g_score: 68
+culture_g_justification: "Pionnière majeure du journal télévisé français, intéressante pour l’histoire des médias et la place des femmes à la télévision."
 ---
-
 ![Image de Christine Ockrent](https://upload.wikimedia.org/wikipedia/commons/a/a4/Christine_Ockrent.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Pollinisation et production de miel
 questions:
  - Dans une société d'insectes, quel mot, issu du portugais, désigne les individus exerçant les mêmes fonctions?
+culture_g_score: 44
+culture_g_justification: "Notion utile pour comprendre les sociétés d’insectes, mais peu fréquente et assez spécialisée en quiz généralistes."
 ---
-
 ![Image de Caste](https://upload.wikimedia.org/wikipedia/commons/1/13/Basor_Dalit_caste.jpg)
 
 ###### Questions

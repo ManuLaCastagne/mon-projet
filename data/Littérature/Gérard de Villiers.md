@@ -22,8 +22,9 @@ indice_6 :
   - série d'anticipation
 questions:
  - Ecrivain dont les romans constitueraient une véritable mine d'informations géopolitiques pour les diplomates, on me doit la série des "S.A.S" dont le héros... Est un prince autrichien surnommé Malko Linge.
+culture_g_score: 52
+culture_g_justification: "Créateur de SAS et figure populaire du roman d'espionnage, mais principalement utile pour quelques questions sur cette série."
 ---
-
 ![Image de Gérard de Villiers](https://upload.wikimedia.org/wikipedia/commons/6/6b/Gerard_de_Villiers_carte_journaliste_1970.png)
 
 ###### Questions

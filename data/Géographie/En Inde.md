@@ -24,8 +24,9 @@ indice_6 :
   - Assam
 questions:
  - Dans quel pays est située la ville de Darjeeling ?
+culture_g_score: 100
+culture_g_justification: "Pays incontournable des quiz, offrant une exceptionnelle densité de questions sur l’histoire, les religions, la géographie, les arts, la politique et la culture."
 ---
-
 ![Image de En Inde](https://upload.wikimedia.org/wikipedia/commons/9/9c/Inde_bondo8658a.jpg)
 
 ![[Carte_En Inde.png]]

@@ -24,12 +24,9 @@ questions:
  - Quel écrivain français, dont les cendres sont au Panthéon, s'exila à Jersey, puis à Guernesey ?
  - Quel écrivain français, né à Besançon en 1802, commence l'un de ses poèmes par  "Jeanne était au pain sec dans le cabinet noir"?
  - Le premier juin 1885, quel écrivain a eu droit à des funérailles nationales marquées au matin par le tir de...
+culture_g_score: 100
+culture_g_justification: "Figure incontournable de la littérature, de l’histoire politique et de la culture françaises, avec une œuvre abondamment interrogée."
 ---
-
-
-
-
-
 ![Image de Victor Hugo](https://upload.wikimedia.org/wikipedia/commons/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg)
 
 ###### Questions

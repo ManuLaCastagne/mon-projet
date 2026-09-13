@@ -18,11 +18,9 @@ indice_6 :
   - Ovide a raconté son histoire
 questions:
  - Dans la [[mythologie grecque]], après une chasse, quelle nymphe fut métamorphosée en fontaine pour échapper aux avances du dieu-fleuve Alphée?
+culture_g_score: 40
+culture_g_justification: "Nymphe liée à la source de Syracuse et au mythe d’Alphée, sujet précis et peu fréquent hors des quiz spécialisés."
 ---
-
-
-
-
 ![Image de Aréthuse](https://upload.wikimedia.org/wikipedia/commons/c/c2/Ar%C3%A9thuse%2C_Legras.jpg)
 
 ###### Questions

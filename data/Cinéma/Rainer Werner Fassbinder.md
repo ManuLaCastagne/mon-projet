@@ -22,9 +22,9 @@ indice_6 :
   - Querelle
 questions:
  - En 1979, quel cinéaste allemand réalise "Le Mariage de Maria Braun" avec Hanna Schygulla ?
+culture_g_score: 68
+culture_g_justification: "Figure majeure du Nouveau cinéma allemand, utile pour ses films, sa prolificité et les courants du cinéma européen, malgré une notoriété grand public modérée."
 ---
-
-
 ![Image de Rainer Werner Fassbinder](https://upload.wikimedia.org/wikipedia/commons/0/0c/Rainer_Werner_Fassbinder_1980.jpg)
 
 ###### Questions

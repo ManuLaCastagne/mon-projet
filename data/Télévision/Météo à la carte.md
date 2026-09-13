@@ -20,8 +20,9 @@ indice_6 :
   - découvertes culinaires
 questions:
  - Emission créée le 3 septembre 2012 sur France 3. Je propose une recette de cuisine liée à la saison avant des reportages régionaux.
+culture_g_score: 52
+culture_g_justification: "Émission quotidienne de France 3 assez connue, mais ses angles restent limités à la météo, aux régions et à la cuisine."
 ---
-
 ![Image de Météo à la carte](https://upload.wikimedia.org/wikipedia/commons/2/2f/Carte_zone_Iroise_de_M%C3%A9t%C3%A9o_France.png)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Paris
 questions:
  - C'est un extrait du célèbre "Requiem" de Fauré. En 1924, à l'occasion de funérailles nationales organisées pour Gabriel Fauré, dans quelle église parisienne ayant l'aspect d'un temple grec, ce requiem a-t-il été joué?
+culture_g_score: 80
+culture_g_justification: "Monument parisien classique, fréquemment associé à Napoléon, au néoclassicisme, aux cérémonies célèbres et à l’histoire de Paris."
 ---
-
 ![Image de Église de la Madeleine](https://upload.wikimedia.org/wikipedia/commons/3/3a/Madeleine_Paris.jpg)
 
 ###### Questions

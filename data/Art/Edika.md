@@ -21,8 +21,9 @@ indice_5:
   - gags visuels
 indice_6:
   - style graphique unique
+culture_g_score: 40
+culture_g_justification: "Auteur apprécié de Fluide Glacial, Édika reste une référence de bande dessinée humoristique assez limitée et peu fréquente."
 ---
-
 ![Image de Edika](https://upload.wikimedia.org/wikipedia/commons/8/85/Roquebrune_sur_Argens_-_Edika_-_P1200783.jpg)
 
 ###### Questions

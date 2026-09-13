@@ -15,8 +15,9 @@ indice_6 :
   - Consommée entière, en huile ou en lait
 questions:
  - Avec sa coque  gris vert. Ou très verte selon le degré de maturité. Renfermant deux graines comestibles dont l'une est souvent avortée sauf dans le cas où elles sont "philippines".
+culture_g_score: 64
+culture_g_justification: "Aliment très courant avec des liens à l’amandier, à la cuisine et aux cultures méditerranéennes, mais peu d’angles spécifiquement botaniques."
 ---
-
 ![Image de Amande](https://upload.wikimedia.org/wikipedia/commons/9/91/Almond_shell.jpg)
 
 ###### Questions

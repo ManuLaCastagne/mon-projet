@@ -20,8 +20,9 @@ indice_6 :
   - Adolf Hitler
 questions:
  - En 1938, quel nom a-t-on donné à l'annexion de l'Autriche par l'Allemagne?
+culture_g_score: 80
+culture_g_justification: "Terme central de l’expansion nazie et de la marche vers la Seconde Guerre mondiale, l’Anschluss revient sous de nombreuses formulations."
 ---
-
 ![Image de Anschluss](https://upload.wikimedia.org/wikipedia/commons/a/a2/Bundesarchiv_Bild_137-049278%2C_Anschluss_%C3%96sterreich.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - film français
 questions:
  - Comédie récompensée en 2000 par le César du meilleur film, je me passe essentiellement dans un magasin dirigé par Nadine, interprétée par Bulle Augier. Montrant le quotidien des employées...
+culture_g_score: 60
+culture_g_justification: "Film français récompensé, utile pour Tonie Marshall, les César et son casting, mais moins central que les grands classiques du cinéma."
 ---
-
 ![Image de Vénus Beauté (Institut)](https://upload.wikimedia.org/wikipedia/commons/f/ff/Recueil_de_m%C3%A9moires%2C_rapports_et_documents_relatifs_%C3%A0_l%27observation_du_passage_de_V%C3%A9nus_sur_le_soleil._Tome_III%2C_1re_partie.pdf)
 
 ###### Questions

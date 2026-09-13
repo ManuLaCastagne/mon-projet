@@ -20,8 +20,9 @@ indice_5 :
   - Harvard
 indice_6 : 
   - Léon
+culture_g_score: 76
+culture_g_justification: "Actrice très connue, associée à des films populaires, à un Oscar et à des réalisateurs majeurs, elle revient régulièrement dans les quiz cinématographiques."
 ---
-
 ![Image de Natalie Portman](https://upload.wikimedia.org/wikipedia/commons/d/d3/Natalie_Portman_%2848470988352%29_%28cropped%29.jpg)
 
 ###### Questions

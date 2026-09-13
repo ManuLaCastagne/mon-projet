@@ -22,9 +22,9 @@ indice_6 :
   - Sibyl
 questions:
  - En 2009, après avoir dirigé Virginie Efira 3 ans plus tôt dans le film "Reine Victoria", quelle réalisatrice la met à nouveau en scène dans "Sibyl"?
+culture_g_score: 60
+culture_g_justification: "La Palme d'or d'Anatomie d'une chute rend Justine Triet actuelle et quizable, mais sa carrière reste encore relativement courte."
 ---
-
-
 ![Image de Justine Triet](https://upload.wikimedia.org/wikipedia/commons/6/64/Justine_Triet_2017.jpg)
 
 ###### Questions

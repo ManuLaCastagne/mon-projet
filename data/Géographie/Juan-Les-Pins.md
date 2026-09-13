@@ -24,8 +24,9 @@ indice_6 :
   - Alpes-Maritimes
 questions:
  - Qui fait construire le palace Le Provençal.  Accueillant dès lors l'élite intellectuelle...
+culture_g_score: 40
+culture_g_justification: "Station balnéaire identifiable par son festival de jazz et quelques références artistiques, mais secondaire dans la culture générale."
 ---
-
 ![Image de Juan-Les-Pins](https://upload.wikimedia.org/wikipedia/commons/4/4e/Juan-Les-Pins_-_Boulevard_du_Mar%C3%A9chal_Juin_-_ICE_Fisheye_View_NNW_on_Golfe_Juan.jpg)
 
 ![[Carte_Juan-Les-Pins.png]]

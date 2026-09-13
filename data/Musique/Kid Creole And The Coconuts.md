@@ -18,8 +18,9 @@ indice_5 :
   - Annie
 indice_6 : 
   - Coati Mundi
+culture_g_score: 40
+culture_g_justification: "Groupe original des années 1980, identifiable par son mélange de styles et quelques tubes, mais assez secondaire en culture générale."
 ---
-
 ![Image de Kid Creole And The Coconuts](https://upload.wikimedia.org/wikipedia/commons/0/00/Kid_Creole_and_the_Coconuts_Ascot_%282747837623%29.jpg)
 
 ###### Questions

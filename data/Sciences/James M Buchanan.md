@@ -20,8 +20,9 @@ indice_6 :
   - George Mason University
 questions:
  - En 1986, quel Américain reçoit le prix Nobel d'économie pour avoir développé la théorie du choix public?
+culture_g_score: 47
+culture_g_justification: "Économiste nobélisé important pour la théorie des choix publics, Buchanan reste surtout mobilisé dans des questions économiques spécialisées."
 ---
-
 ![Image de James M Buchanan](https://upload.wikimedia.org/wikipedia/commons/1/11/James_Buchanan_by_Atlas_network.jpg)
 
 ###### Questions

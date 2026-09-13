@@ -24,8 +24,9 @@ indice_6 :
   - mer entre deux grandes îles
 questions:
  - Quel mer australienne doit son nom à un navigateur ?
+culture_g_score: 47
+culture_g_justification: "Étendue maritime identifiable entre Australie et Nouvelle-Zélande, mais peu présente hors de questions géographiques spécialisées."
 ---
-
 ![Image de Mer de Tasman](https://upload.wikimedia.org/wikipedia/commons/2/25/Aurora_Australis_Over_the_Tasman_Sea_from_SouthWest_National_Park.jpg)
 
 ![[Carte_Mer de Tasman.png]]

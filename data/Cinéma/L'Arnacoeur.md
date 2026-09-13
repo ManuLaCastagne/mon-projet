@@ -22,8 +22,9 @@ indice_6 :
   - 2010
 questions:
  - En 2010, dans quelle comédie Romain Duris...
+culture_g_score: 60
+culture_g_justification: "Comédie romantique française populaire, utile pour ses acteurs, son réalisateur et quelques scènes célèbres, mais d'importance culturelle limitée."
 ---
-
 ![Image de L'Arnacoeur](https://upload.wikimedia.org/wikipedia/commons/3/38/Hemerocallis_%27River%27s_a_Heartbreaker%27.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Cubique
 indice_6 : 
   - Covalente
+culture_g_score: 84
+culture_g_justification: "Minéral mondialement célèbre, ouvrant sur la chimie du carbone, la géologie, la joaillerie, l’industrie et les records de dureté."
 ---
-
 ![Image de Diamant](https://upload.wikimedia.org/wikipedia/commons/f/f0/BDWM_ABe_4-8_5002_Bremgarten_270812_S17_540.jpg)
 
 ###### Questions

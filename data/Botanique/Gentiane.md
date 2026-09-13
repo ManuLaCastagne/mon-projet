@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée en phytothérapie et pour produire des liqueurs amères
 questions:
  - Je pousse dans le Jura et les Alpes et ma racine sert à une liqueur apéritive.
+culture_g_score: 52
+culture_g_justification: "Plante de montagne connue pour son amertume, ses liqueurs et ses usages médicinaux, avec une fréquence modérée."
 ---
-
 ![Image de Gentiane](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rue_Gentiane%2C_Nantes.jpg)
 
 ###### Questions

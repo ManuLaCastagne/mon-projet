@@ -22,9 +22,9 @@ indice_6 :
   - Emir Kusturica
 questions:
  - Quel musicien  né à Sarajevo a composé la bande originale de ce film, "Le Temps des Gitans" ou "Chat noir, chat blanc"
+culture_g_score: 60
+culture_g_justification: "Compositeur reconnu pour ses bandes originales et ses collaborations avec Kusturica, il offre plusieurs angles mais demeure moins central que les grands compositeurs de cinéma."
 ---
-
-
 ![Image de Goran Bregović](https://upload.wikimedia.org/wikipedia/commons/4/4c/20220710-Rudolstadt-Festival-2022-Goran-Bregovic-7849_%28cropped%29.jpg)
 
 ###### Questions

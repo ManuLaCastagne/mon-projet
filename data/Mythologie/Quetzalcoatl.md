@@ -18,8 +18,9 @@ indice_6 :
   - rivalité avec Tezcatlipoca
 questions:
  - Quelle divinité du panthéon de l'ancien Mexique a été représentée par les Aztèques sous la forme d'un serpent recouvert de plumes?
+culture_g_score: 72
+culture_g_justification: "Grande divinité mésoaméricaine, Quetzalcoatl est utile pour les civilisations précolombiennes, les conquistadors, les symboles et l’histoire des religions."
 ---
-
 ![Image de Quetzalcoatl](https://upload.wikimedia.org/wikipedia/commons/f/fe/Quetzalcoatl_art_in_Gallup%2C_New_Mexico.jpg)
 
 ###### Questions

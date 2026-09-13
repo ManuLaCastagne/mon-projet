@@ -18,9 +18,9 @@ indice_5 :
   - Sorbonne
 indice_6 : 
   - Radium
+culture_g_score: 100
+culture_g_justification: "Figure scientifique et historique universelle, liée à la radioactivité, aux prix Nobel, au couple Curie et à l’histoire des femmes dans les sciences."
 ---
-
-
 ![Image de Marie Curie](https://upload.wikimedia.org/wikipedia/commons/c/c8/Marie_Curie_c._1920s.jpg)
 
 ###### Questions

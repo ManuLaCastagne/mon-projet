@@ -22,8 +22,9 @@ indice_6 :
   - duo d'acteurs
 questions:
  - Sous quel nom le champion de natation italien des années 50 Carlo Pedersoli a formé plus tard un célèbre duo de cinéma avec Terence Hill ?
+culture_g_score: 73
+culture_g_justification: "Vedette populaire du cinéma italien et du duo avec Terence Hill, avec des passerelles vers la natation, le western comique et sa biographie atypique."
 ---
-
 ![Image de Bud Spencer](https://upload.wikimedia.org/wikipedia/commons/4/44/Carlo_Pedersoli.jpg)
 
 ###### Questions

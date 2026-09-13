@@ -22,6 +22,8 @@ indice_5 :
   - Bastide
 indice_6 : 
   - Collégiale Notre-Dame
+culture_g_score: 27
+culture_g_justification: "Bastide historique de l’Aveyron au patrimoine intéressant, mais très rarement nécessaire dans un quiz généraliste."
 ---
 ![[Carte_Villefranche-de-Rouergue.png]]
 ###### Questions

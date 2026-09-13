@@ -22,8 +22,9 @@ indice_6 :
   - Great American Songbook
 questions:
  - Ayant incorporé à mes improvisations le scat, une forme de jazz vocal utilisant des onomatopées, surnommée The First lady of swing...
+culture_g_score: 89
+culture_g_justification: "L’une des plus grandes voix du jazz, très rentable grâce à ses standards, ses collaborations, ses Grammy Awards et son histoire musicale."
 ---
-
 ![Image de Ella Fitzgerald](https://upload.wikimedia.org/wikipedia/commons/a/a1/Ella_Fitzgerald_%28Gottlieb_02871%29.jpg)
 
 ###### Questions

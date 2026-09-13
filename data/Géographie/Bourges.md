@@ -24,8 +24,9 @@ indice_6 :
   - palais Jacques-Cœur du XVe siècle
 questions:
  - Ville définitivement intégrée au royaume de France en 1101, lieu de naissance de Histoire/Louis XI en 1423, je suis dotée d'une université dès le XVe siècle. Ancienne capitale historique du Berry, célèbre pour ma cathédrale...
+culture_g_score: 60
+culture_g_justification: "Bourges est un repère français grâce à sa cathédrale, au palais Jacques-Cœur et à son patrimoine médiéval."
 ---
-
 ![Image de Bourges](https://upload.wikimedia.org/wikipedia/commons/2/20/Kathedrale_Bourges_v2.jpg)
 
 ![[Carte_Bourges.png]]

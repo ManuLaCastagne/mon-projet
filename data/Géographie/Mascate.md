@@ -22,8 +22,9 @@ indice_5 :
   - souks traditionnels
 indice_6 : 
   - Grande Mosquée du Sultan Qaboos
+culture_g_score: 60
+culture_g_justification: "Capitale d'Oman associée au golfe d'Oman, au commerce maritime et à la modernisation du sultanat."
 ---
-
 ![Image de Mascate](https://upload.wikimedia.org/wikipedia/commons/9/98/A_Pedlar%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg)
 
 ![[Carte_Mascate.png]]

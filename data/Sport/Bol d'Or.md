@@ -19,9 +19,9 @@ indice_5 :
   - compétition annuelle
 indice_6 : 
   - motos de différentes catégories
+culture_g_score: 48
+culture_g_justification: "Course française historique connue des amateurs de sports mécaniques, mais ses occurrences restent relativement spécialisées."
 ---
-
-
 ![Image de Bol d'Or](https://upload.wikimedia.org/wikipedia/commons/f/fd/D%C3%A9part_de_Greg_Junod_lors_du_Bol_d%27or_2013.jpg)
 
 ###### Questions

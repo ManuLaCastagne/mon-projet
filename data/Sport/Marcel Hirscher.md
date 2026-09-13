@@ -20,8 +20,9 @@ indice_6 :
   - Retraite en 2019
 questions:
  - Quel skieur autrichien détient le record du nombre de victoires au classement général de la Coupe du monde...
+culture_g_score: 60
+culture_g_justification: "Champion autrichien exceptionnel, utile pour le ski alpin et ses records, mais encore moins transversal que les grandes figures olympiques."
 ---
-
 ![Image de Marcel Hirscher](https://upload.wikimedia.org/wikipedia/commons/8/83/Marcel_Hirscher_Gala_Nacht_des_Sports_%C3%96sterreich_2015_1.jpg)
 
 ###### Questions

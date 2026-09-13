@@ -18,8 +18,9 @@ indice_6 :
   - Feu divin
 questions:
  - Sur quelle chaîne de montagnes, où un aigle venait lui ronger le foie qui, sans cesse repoussait, Prométhée a-t-il été enchaîné ?
+culture_g_score: 56
+culture_g_justification: "Montagne mythique du supplice de Prométhée, mais le sujet précis offre peu d’angles indépendants dans les quiz."
 ---
-
 ![Image de Caucase](https://upload.wikimedia.org/wikipedia/commons/1/1c/Zagedan_Ridge%2C_Zagedan_Valley%2C_Caucasus_Mountains%2C_Karachay-Cherkessia.jpg)
 
 ###### Questions

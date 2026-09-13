@@ -20,8 +20,9 @@ indice_6 :
   - Guerre du sel
 questions:
  - Homme célèbre dont Louis XVI demanda des nouvelles avant d'être conduit à l'échafaud. Je suis né en 1741 près d'Albi. Entré dans la marine en 1756...
+culture_g_score: 51
+culture_g_justification: "Ville italienne historiquement intéressante, mais moins fréquemment interrogée que les grandes capitales et cités artistiques du pays."
 ---
-
 ![Image de Pérouse](https://upload.wikimedia.org/wikipedia/commons/a/a1/Perouse-90.JPG)
 
 ###### Questions

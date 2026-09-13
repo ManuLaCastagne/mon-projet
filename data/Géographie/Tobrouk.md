@@ -24,10 +24,9 @@ indice_6 :
   - siège de Tobrouk
 questions:
  - En janvier 1941,  quelle ville située sur la côte orientale de la Cyrénaïque est enlevée par les Australiens au cours de la campagne de Lybie ?
+culture_g_score: 60
+culture_g_justification: "Tobrouk est un repère classique de la guerre du désert, mais son intérêt général repose surtout sur quelques épisodes militaires."
 ---
-
-
-
 ![Image de Tobrouk](https://upload.wikimedia.org/wikipedia/commons/2/28/Tobrouk_01.jpg)
 
 ![[Carte_Tobrouk.png]]

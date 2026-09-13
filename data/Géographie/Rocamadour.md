@@ -24,8 +24,9 @@ indice_6 :
   - pèlerinage sur le chemin de Saint-Jacques-de-Compostelle
 questions:
  - Quelle cité touristique du Lot, bâtie sur un rocher dominant la gorge de l'Alzou, doit son nom à un ermite nommé Amadour?
+culture_g_score: 72
+culture_g_justification: "Site médiéval et pèlerin majeur, Rocamadour permet des questions sur le patrimoine, la religion, la géographie, la préhistoire et le fromage."
 ---
-
 ![Image de Rocamadour](https://upload.wikimedia.org/wikipedia/commons/a/ae/Rocamadour_AOC.jpg)
 
 ![[Carte_Rocamadour.png]]

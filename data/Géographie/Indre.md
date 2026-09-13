@@ -21,8 +21,9 @@ indice_5 :
   - Argenton-sur-Creuse
 indice_6 : 
   - Berry
+culture_g_score: 23
+culture_g_justification: "Département français très périphérique, principalement interrogé à travers quelques communes ou sites touristiques précis."
 ---
-
 ![[Carte_Indre.png]]
 
 ###### Questions

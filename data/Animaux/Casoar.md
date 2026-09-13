@@ -15,8 +15,9 @@ indice_6 :
   - Gardien de la forêt tropicale
 questions:
  - Quel oiseau d'Australie, au nom malais, possède un casque osseux coloré sur le dessus de la tête ?
+culture_g_score: 52
+culture_g_justification: "Oiseau spectaculaire et dangereux, associé aux ratites, à l’Australie et à la dispersion des graines."
 ---
-
 ![Image de Casoar](https://upload.wikimedia.org/wikipedia/commons/0/04/Antonio_Casoar_Katherine_Casoar_Married_1967.jpg)
 
 ###### Questions

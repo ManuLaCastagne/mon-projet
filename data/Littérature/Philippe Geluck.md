@@ -22,8 +22,9 @@ indice_6 :
   - bandes dessinées
 questions:
  - Créateur en 1983 d'un antihéros de BD, gras, imbu de lui-même et donnant son avis sur tout, on me doit des albums comme "Le Docteur G répond à vos questions" ou "Et vous, chat va?". Créateur belge du personnage...
+culture_g_score: 64
+culture_g_justification: "Créateur belge du Chat, régulièrement présent dans les questions de bande dessinée, d’humour et de culture francophone."
 ---
-
 ![Image de Philippe Geluck](https://upload.wikimedia.org/wikipedia/commons/7/7f/Philippe_Geluck_on_26_April_2024_-_2_%28cropped%29.jpg)
 
 ###### Questions

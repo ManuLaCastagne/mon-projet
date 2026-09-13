@@ -20,8 +20,9 @@ indice_6 :
   - Route du Rhum
 questions:
  - En 2017, quel navigateur français remporte la 8e édition du Vendée Globe et améliore le record de l'épreuve, en un peu plus de 74 jours?
+culture_g_score: 60
+culture_g_justification: "Vainqueur français du Vendée Globe et détenteur de records nautiques, utile surtout dans les questions de voile et de courses océaniques."
 ---
-
 ![Image de Armel Le Cléac'h](https://upload.wikimedia.org/wikipedia/commons/6/64/Armel_Le_Cl%C3%A9ac%27h.jpg)
 
 ###### Questions

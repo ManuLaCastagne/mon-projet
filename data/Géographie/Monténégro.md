@@ -22,10 +22,9 @@ indice_6 :
   - frontière commune avec la Croatie et la Serbie
 questions:
  - Etat de la péninsule balkanique, je suis bordé par la mer Adriatique et possède une frontière commune notamment avec l'Albanie et la Bosnie-Herzégovine...
+culture_g_score: 67
+culture_g_justification: "Petit pays balkanique utile pour les questions de géopolitique européenne, de relief, d’indépendance et d’UNESCO."
 ---
-
-
-
 ![Image de Monténégro](https://upload.wikimedia.org/wikipedia/commons/a/a9/Monasterio_de_San_Jorge%2C_Perast%2C_Bah%C3%ADa_de_Kotor%2C_Montenegro%2C_2014-04-19%2C_DD_21.JPG)
 
 ![[Carte_Monténégro.png]]

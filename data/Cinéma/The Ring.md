@@ -22,8 +22,9 @@ indice_6 :
   - film d'horreur japonais
 questions:
  - En 2003, quel film d'horreur de Gore Verbinski avec Naomi Watts a pour point de départ une cassette vidéo qui fait mourir celui qui la visionne ?
+culture_g_score: 73
+culture_g_justification: "Film d'horreur populaire facilement interrogé via son remake, Naomi Watts, la cassette maudite et le cinéma japonais."
 ---
-
 ![Image de The Ring](https://upload.wikimedia.org/wikipedia/commons/4/42/Lens-ring-gaskets-01.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Madeleine
 indice_6 : 
   - Temps retrouvé
+culture_g_score: 77
+culture_g_justification: "Incipit emblématique de Proust, souvent demandé directement et ouvrant sur À la recherche du temps perdu et la mémoire littéraire."
 ---
-
 ![Image de Longtemps je me suis couché de bonne heure]()
 
 ###### Questions

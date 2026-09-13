@@ -22,8 +22,9 @@ indice_6 :
   - hautboïste
 questions:
  - Quel instrument à vent, dont le tuyau légèrement conique se termine par un pavillon peu évasé, donne le la ?
+culture_g_score: 60
+culture_g_justification: "Instrument classique identifiable grâce à son anche double et son timbre, utile pour quelques questions d’organologie et de musique."
 ---
-
 ![Image de Hautbois](https://upload.wikimedia.org/wikipedia/commons/4/4f/Oboe_modern.jpg)
 
 ###### Questions

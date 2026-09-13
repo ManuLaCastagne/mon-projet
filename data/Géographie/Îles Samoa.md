@@ -20,8 +20,9 @@ indice_5 :
   - Upolu et Savai'i
 indice_6 : 
   - population polynésienne
+culture_g_score: 43
+culture_g_justification: "Sujet de curiosités géographiques autour de la ligne de changement de date et de la conduite à gauche, mais peu fréquent."
 ---
-
 ![Image de Îles Samoa](https://upload.wikimedia.org/wikipedia/commons/5/58/Pelagothuria_natatrix_Samoa_2.jpg)
 
 ![[Carte_Îles Samoa.png]]

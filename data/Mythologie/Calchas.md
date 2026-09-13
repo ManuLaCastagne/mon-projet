@@ -18,8 +18,9 @@ indice_6 :
   - fils de Thestor
 questions:
  - Dans la [[mythologie grecque]], quel devin conseillait aux Grecs de construire le cheval de bois de Troie ?
+culture_g_score: 60
+culture_g_justification: "Devin de la guerre de Troie associé à Achille et au sacrifice d’Iphigénie, mais personnage secondaire du cycle grec."
 ---
-
 ![Image de Calchas](https://upload.wikimedia.org/wikipedia/commons/5/55/Mimosa_skipper_%28Cogia_calchas%29_Tobago.jpg)
 
 ###### Questions

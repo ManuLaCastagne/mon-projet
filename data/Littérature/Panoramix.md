@@ -22,8 +22,9 @@ indice_6 :
   - bandes dessinées
 questions:
  - Dans le 1er album des aventures d'Astérix paru en 1961, quel personnage n'habite pas dans le...
+culture_g_score: 84
+culture_g_justification: "Personnage central d’Astérix, très rentable pour les questions sur la bande dessinée franco-belge, la Gaule et la potion magique."
 ---
-
 ![Image de Panoramix](https://upload.wikimedia.org/wikipedia/commons/3/3a/Framasphere_Framapiaf_CC_BY_Peha_2017-pt.png)
 
 ###### Questions

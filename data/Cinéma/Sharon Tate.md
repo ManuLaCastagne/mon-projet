@@ -18,8 +18,9 @@ indice_5 :
   - Cielo Drive
 indice_6 : 
   - Actrice américaine
+culture_g_score: 60
+culture_g_justification: "Sa carrière et son assassinat lié à la famille Manson fournissent plusieurs angles classiques, sans en faire une figure incontournable."
 ---
-
 ![Image de Sharon Tate](https://upload.wikimedia.org/wikipedia/commons/c/c1/Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg)
 
 ###### Questions

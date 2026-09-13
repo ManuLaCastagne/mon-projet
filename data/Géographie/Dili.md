@@ -22,8 +22,9 @@ indice_5 :
   - langue officielle le tétoum
 indice_6 : 
   - ancienne colonie portugaise
+culture_g_score: 44
+culture_g_justification: "Capitale d’un jeune État fréquemment mobilisée dans les questions sur le Timor oriental, mais à faible transversalité."
 ---
-
 ![Image de Dili](https://upload.wikimedia.org/wikipedia/commons/7/73/Dili_and_Atauro_Island.jpg)
 
 ![[Carte_Dili.png]]

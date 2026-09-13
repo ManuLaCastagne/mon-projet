@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - A partir de 1951, quel écrivain américain d'origine russe publie le cycle de science-fiction "Fondation"?
  - Ecrivain américain d'origine russe, on me doit notamment le cycle intitulé "Fondation", que j'ai voulu comme "un roman historique du futur", je suis…
+culture_g_score: 83
+culture_g_justification: "Figure centrale de la science-fiction, Asimov permet des questions sur les robots, les lois de la robotique, Fondation, la science et le cinéma."
 ---
-
 ![Image de Isaac Asimov](https://upload.wikimedia.org/wikipedia/commons/3/34/Isaac.Asimov01.jpg)
 
 ###### Questions

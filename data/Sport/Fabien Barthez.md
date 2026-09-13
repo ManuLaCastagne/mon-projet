@@ -20,8 +20,9 @@ indice_6 :
   - Gardien de but
 questions:
  - En football, quel gardien de but gaucher a été champion d'Europe avec l'Olympique de Marseille en 93 et champion du monde avec la France, 5 ans...
+culture_g_score: 80
+culture_g_justification: "Gardien de la France championne du monde et d’Europe, Barthez revient régulièrement dans les questions sur le football français."
 ---
-
 ![Image de Fabien Barthez](https://upload.wikimedia.org/wikipedia/commons/f/f5/Fabien_Barthez_at_OM.jpg)
 
 ###### Questions

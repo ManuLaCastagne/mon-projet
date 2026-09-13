@@ -24,8 +24,9 @@ indice_6 :
   - renommée pour le parc national de la Lopé
 questions:
  - Quelle ville du Gabon doit son nom au fait qu'elle a été créée en 1849 pour accueillir des esclaves libérés ?
+culture_g_score: 60
+culture_g_justification: "Capitale du Gabon, Libreville est une connaissance africaine classique pouvant être reliée à la colonisation, au littoral et aux ressources du pays."
 ---
-
 ![Image de Libreville](https://upload.wikimedia.org/wikipedia/commons/5/54/Libreville1.jpg)
 
 ![[Carte_Libreville.png]]

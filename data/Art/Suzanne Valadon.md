@@ -23,8 +23,9 @@ indice_6 :
   - Mère de Maurice Utrillo
 questions:
  - Quelle artiste, première femme admise à la Société nationale des beaux-arts en 1894 était la mère du peintre Maurice Utrillo ?
+culture_g_score: 67
+culture_g_justification: "Suzanne Valadon est une artiste importante pour l’histoire de l’art moderne, les femmes artistes, Montmartre et le lien avec Utrillo."
 ---
-
 ![Image de Suzanne Valadon](https://upload.wikimedia.org/wikipedia/commons/1/11/%28Barcelona%29_Autoretrat_al_mirall_-_by_Suzanne_Valadon.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6:
   - art contemporain
 questions:
   - Quel doigt de la main a été représenté par César Baldaccini dans une sculpture haute de 12 m exposée dans le quartier de la Défense à Paris ?
+culture_g_score: 48
+culture_g_justification: "Œuvre publique reconnaissable de César, mais principalement utile pour une question sur l’art contemporain français ou La Défense."
 ---
-
-
 ![Image de Le Pouce (sculpture)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pouce-derdaumen.JPG/1024px-Pouce-derdaumen.JPG)
 
 ###### Questions

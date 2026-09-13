@@ -13,8 +13,9 @@ indice_5:
   - Prunus armeniaca
 indice_6:
   - Consommé sous forme de fruit, de confiture ou séché
+culture_g_score: 51
+culture_g_justification: "Arbre fruitier familier et associé à quelques repères agronomiques ou régionaux, mais son nom précis est peu fréquent en quiz."
 ---
-
 ![Image de Abricotier](https://upload.wikimedia.org/wikipedia/commons/c/cf/Prunus_armeniaca_in_Donetsk.jpg)
 
 ###### Questions

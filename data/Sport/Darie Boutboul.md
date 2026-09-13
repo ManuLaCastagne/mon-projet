@@ -20,8 +20,9 @@ indice_6 :
   - Haras des Rouges Terres
 questions:
  - En 1980, quelle jeune femme Jockey accède à la notoriété en remportant un tiercé ?
+culture_g_score: 40
+culture_g_justification: "Pionnière des courses hippiques féminines en France, mais sujet surtout anecdotique et médiatique."
 ---
-
 ![Image de Darie Boutboul]()
 
 ###### Questions

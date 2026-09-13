@@ -20,10 +20,9 @@ indice_6 :
   - natif de Saint-Denis de La Réunion
 questions:
  - Ayant mené une politique de rigueur afin de redresser la situation économique du pays, j'ai exercé les fonctions de ministre de l'Economie et des Finances de 76 à 78, tout en étant Premier ministre.  Longtemps député du Rhône et maire de Lyon...
+culture_g_score: 60
+culture_g_justification: "Premier ministre et économiste français classique, principalement mobilisé dans les questions sur la Ve République et Giscard."
 ---
-
-
-
 ![Image de Raymond Barre](https://upload.wikimedia.org/wikipedia/commons/1/1c/Alstom_Citadis_302_n%C2%B0807_TCL_Pont_Raymond_Barre_Halle_Tony_Garnier.jpg)
 
 ###### Questions

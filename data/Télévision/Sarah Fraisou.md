@@ -19,8 +19,9 @@ indice_5 :
   - réseaux sociaux
 indice_6 : 
   - influenceuse
+culture_g_score: 24
+culture_g_justification: "Personnalité de télé-réalité connue d’un public ciblé, dont les références offrent peu d’utilité au-delà de sa biographie."
 ---
-
 ![Image de Sarah Fraisou]()
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Alimentation humaine et animale
 questions:
  - Quel terme générique désigne un fruit charnu à noyau, tel que la cerise ou l'abricot?
+culture_g_score: 64
+culture_g_justification: "Terme botanique réutilisable pour de nombreux fruits courants et assez rentable dans les questions de vocabulaire scientifique et alimentaire."
 ---
-
 ![Image de Drupe](https://upload.wikimedia.org/wikipedia/commons/3/33/Drupe_fruit_diagram-hi.png)
 
 ###### Questions

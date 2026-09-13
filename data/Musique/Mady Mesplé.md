@@ -22,8 +22,9 @@ indice_6 :
   - années 1960-1970
 questions:
  - Quelle cantatrice française, disparue en 2020, qui a étudié le chant au conservatoire de Toulouse...
+culture_g_score: 44
+culture_g_justification: "Soprano française estimée du répertoire lyrique, mais sujet relativement spécialisé et peu transversal pour un joueur généraliste."
 ---
-
 ![Image de Mady Mesplé](https://upload.wikimedia.org/wikipedia/commons/8/8c/10.10.1975._Mady_Mespl%C3%A9_chez_Pierre_Privat._%281975%29_-_53Fi2754_%28cropped%29.jpg)
 
 ###### Questions

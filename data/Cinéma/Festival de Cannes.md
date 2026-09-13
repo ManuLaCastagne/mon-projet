@@ -1,3 +1,8 @@
+---
+culture_g_score: 100
+culture_g_justification: "Institution mondiale du cinéma, mobilisable par son histoire, ses récompenses, ses personnalités, ses films et son influence culturelle."
+---
+
 ###### Questions
 
 Quel festival de cinéma a été fondé en 1946 par Jean Zay ?

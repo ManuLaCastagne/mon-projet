@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Le 21 novembre 1991, quel navigateur français termine sa traversée de l'Océan Pacifique à la rame ?
  - En 1991, quelques années après avoir réalisé la traversée de l'Atlantique à la rame, quel navigateur breton réussit celle du Pacifique?
+culture_g_score: 60
+culture_g_justification: "Aventurier français associé à deux traversées océaniques à la rame, sujet mémorable mais cantonné à l'histoire des exploits sportifs."
 ---
-
 ![Image de Gérard D'Aboville](https://upload.wikimedia.org/wikipedia/commons/3/31/Gerard-d-Aboville-on-living-deck-of-PlanetSolar.JPG)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Studios d’enregistrement légendaires
 questions:
  - Sur la pochette de quelle album 4 musiciens traversent un passage piéton sur la route menant à un studio d'enregistrement londonien ?
+culture_g_score: 88
+culture_g_justification: "Abbey Road est un album mythique des Beatles, très rentable grâce à sa pochette, ses chansons, son histoire et ses studios."
 ---
-
 ![Image de Abbey Road](https://upload.wikimedia.org/wikipedia/commons/8/8a/Abbey_Road_DLR_Station_Beatles_Sign.jpg)
 
 ###### Questions

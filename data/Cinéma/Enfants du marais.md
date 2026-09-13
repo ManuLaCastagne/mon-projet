@@ -22,8 +22,9 @@ indice_6 :
   - Gabriel et Amédée
 questions:
  - En 1999, dans quel film de Jean Becker, se déroulant à la campagne, Jacques Gamblin et Jacques Villeret sont-ils amis?
+culture_g_score: 48
+culture_g_justification: "Film populaire de Jean Becker porté par un casting connu, mais ses possibilités de questions restent essentiellement cinématographiques et limitées."
 ---
-
 ![Image de Enfants du marais](https://upload.wikimedia.org/wikipedia/commons/3/35/Marais_-_La_Carriere_amoureuse.djvu)
 
 ###### Questions

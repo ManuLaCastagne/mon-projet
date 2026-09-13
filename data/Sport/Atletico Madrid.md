@@ -20,8 +20,9 @@ indice_6 :
   - Copa del Rey
 questions:
  - Club de football fondé le 26 avril 1903 dont les joueurs évoluent dans le stade Wanda Metropolitano. Créé par trois étudiants...
+culture_g_score: 80
+culture_g_justification: "Grand club espagnol, régulièrement interrogé via ses rivalités, ses titres européens, ses finales et ses joueurs emblématiques."
 ---
-
 ![Image de Atletico Madrid](https://upload.wikimedia.org/wikipedia/commons/b/ba/Madrid_-_Estadio_Wanda_Metropolitano_25.jpg)
 
 ###### Questions

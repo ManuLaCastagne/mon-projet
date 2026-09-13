@@ -22,9 +22,9 @@ indice_5 :
   - Asie centrale
 indice_6 : 
   - indépendance de 1991
+culture_g_score: 44
+culture_g_justification: "Capitale originale par son architecture et son marbre blanc, mais peu présente dans les quiz généralistes."
 ---
-
-
 ![Image de Achgabat](https://upload.wikimedia.org/wikipedia/commons/e/ea/Neutrality-Road-Ashgabat-2015.JPG)
 
 ![[Carte_Achgabat.png]]

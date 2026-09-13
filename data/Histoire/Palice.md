@@ -20,8 +20,9 @@ indice_6 :
   - jardin d'Acclimatation
 questions:
  - A quel maréchal de France, à propos duquel une chanson disait "qu'un quart d'heure avant sa mort..."
+culture_g_score: 60
+culture_g_justification: "La Palice fournit une référence classique mêlant histoire militaire, bataille de Pavie et expression proverbiale, sans être un sujet majeur."
 ---
-
 ![Image de Palice](https://upload.wikimedia.org/wikipedia/commons/b/b9/Palik%C3%A8.JPG)
 
 ###### Questions

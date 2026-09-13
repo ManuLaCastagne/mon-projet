@@ -20,8 +20,9 @@ indice_6 :
   - Giro d'Italia
 questions:
  - En 2020, quel cycliste aptonyme a remporté son 3ème titre de champion de France sur route ?
+culture_g_score: 51
+culture_g_justification: "Coureur français reconnu pour ses victoires au sprint, mais encore peu récurrent dans les quiz généralistes."
 ---
-
 ![Image de Arnaud Démare](https://upload.wikimedia.org/wikipedia/commons/3/36/Arnaud_D%C3%A9mare%2C_2021_Paris-Nice.jpg)
 
 ###### Questions

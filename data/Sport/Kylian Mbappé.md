@@ -19,8 +19,9 @@ indice_5 :
   - Meilleur buteur de Ligue 1
 indice_6 : 
   - AS Monaco
+culture_g_score: 92
+culture_g_justification: "Vedette mondiale du football et champion du monde français, très fréquent dans les questions sur le PSG, les Bleus et les records de jeunesse."
 ---
-
 ![Image de Kylian Mbappé](https://upload.wikimedia.org/wikipedia/commons/e/e5/Kylian_Mbapp%C3%A9_2018.jpg)
 
 ###### Questions

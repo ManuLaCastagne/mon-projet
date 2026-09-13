@@ -20,9 +20,9 @@ indice_6 :
   - 90 kilomètres
 questions:
  - Ravitaillant mes quelque 15 000 participants avec de la soupe de myrtillesje me déroule sur 90 km de pistes enneigées, c'est du ski de fond, entre Salen et Mora.
+culture_g_score: 52
+culture_g_justification: "Course historique de ski de fond connue en Scandinavie, mais rarement nécessaire dans un entraînement généraliste francophone."
 ---
-
-
 ![Image de Vasaloppet](https://upload.wikimedia.org/wikipedia/commons/b/b8/J%C3%B8rgen_Aukland_Vasaloppet_2013_001.jpg)
 
 ###### Questions

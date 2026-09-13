@@ -13,9 +13,9 @@ indice_5:
   - Rossolis
 indice_6:
   - Utilisée en médecine traditionnelle pour traiter la toux et les infections respiratoires
+culture_g_score: 52
+culture_g_justification: "Plante carnivore assez mémorable, offrant des liens avec la botanique et l'écologie, mais peu fréquente hors de ces thèmes."
 ---
-
-
 ![Image de Droséra](https://upload.wikimedia.org/wikipedia/commons/0/06/Drosera_rotundifolia_leaf1.jpg)
 
 ###### Questions

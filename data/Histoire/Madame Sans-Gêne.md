@@ -20,8 +20,9 @@ indice_6 :
   - pièce de théâtre
 questions:
  - Au XIXe siècle, sous quel nom, évoquant ses manières directes et son franc-parler, la femme du maréchal Lefebvre a été popularisée dans une pièce de Victorien Sardou ?
+culture_g_score: 44
+culture_g_justification: "Figure historique et personnage de théâtre connus, mais assez peu fréquents dans les quiz généralistes."
 ---
-
 ![Image de Madame Sans-Gêne](https://upload.wikimedia.org/wikipedia/commons/8/8c/Madame_Sans-G%C3%AAne_%281925_trailer%29.webm)
 
 ###### Questions

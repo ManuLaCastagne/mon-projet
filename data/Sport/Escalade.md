@@ -20,6 +20,8 @@ indice_6 :
   - Corde d'escalade
 questions:
  - Sport dont l'épreuve appelée combiné a été admise au programme olympique des Jeux de Tokyo en 2020, je suis apparu en France dans les années 70 et me suis démocratisé...
+culture_g_score: 80
+culture_g_justification: "Sport olympique désormais classique, l’escalade permet des questions sur les Jeux, les techniques, les sites naturels et la culture sportive."
 ---
 
 ![Image de Escalade](https://upload.wikimedia.org/wikipedia/commons/8/83/Cadillac_Escalade_2.jpg)
@@ -30,7 +32,7 @@ questions:
 
 {{Quelle discipline sportive a fait ses débuts olympiques lors des [[Jeux olympiques de Tokyo 2020]], initialement prévus pour 2020 mais tenus en 2021 ?}}
 
-{{Quel sport extrême est présenté dans le documentaire intitulé [[The Dawn Wall]], sorti en 2017, qui relate l'ascension incroyable du mur de l'aube dans [[El Capitan]], situé dans le [[Parc national de Yosemite]] ?}}
+{{Quel sport extrême est présenté dans le documentaire intitulé [[The Dawn Wall]], sorti en 2017, qui relate l'ascension incroyable du mur de l'aube dans [[El Capitan]], situé dans le [[Parc national de Yosemite]] ?}} <!-- score: 4 -->
 
 ###### Description
 

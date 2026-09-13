@@ -20,9 +20,9 @@ indice_6 :
   - Monterrey
 questions:
  - En 1998, neuf ans après sa première victoire, quelle joueuse de tennis espagnole a remporté RG ?
+culture_g_score: 7
+culture_g_justification: "Athlète mexicaine très confidentielle, sans présence notable dans les quiz généralistes francophones."
 ---
-
-
 ![Image de Aranza Sanchez](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tour_f%C3%A9minin_international_de_l%27Ard%C3%A8che_2016_-_stage_3_-_Aranza_Valentina_Villalon_Sanchez.jpg)
 
 ###### Questions

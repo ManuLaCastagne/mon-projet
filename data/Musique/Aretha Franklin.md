@@ -22,8 +22,9 @@ indice_6 :
   - Grammy Awards
 questions:
  - Quelle chanteuse américaine surnommée "Lady Soul" débute dans la chorale de son père révérend Baptiste à Détroit ?
+culture_g_score: 91
+culture_g_justification: "Aretha Franklin est une figure fondamentale de la soul et de la musique populaire, exploitable par ses chansons, records, distinctions et engagements."
 ---
-
 ![Image de Aretha Franklin](https://upload.wikimedia.org/wikipedia/commons/5/51/Aretha_Franklin_-_Marco_Zeno_-_Montreux_01.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - natif d'Alabama
 questions:
  - En 1937, quel boxeur américain, surnommé le Bombardier noir, devient champion du monde toutes catégories?
+culture_g_score: 71
+culture_g_justification: "Grande figure de la boxe mondiale, Joe Louis relie sport, histoire des États-Unis, ségrégation et affrontement symbolique avec Max Schmeling."
 ---
-
 ![Image de Joe Louis](https://upload.wikimedia.org/wikipedia/commons/3/30/Joe_Louis_by_van_Vechten.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - scène
 questions:
  - En 1983, dans quelle comédie de Claude Sautet, Yves Montand interprète-t-il le rôle d'un chef de rang dans une brasserie parisienne?
+culture_g_score: 48
+culture_g_justification: "Film français de Claude Sautet identifiable par son acteur principal, mais relativement peu fréquent et peu transversal en quiz."
 ---
-
 ![Image de Garçon!](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pierre_Gar%C3%A7on_VOA.jpg)
 
 ###### Questions

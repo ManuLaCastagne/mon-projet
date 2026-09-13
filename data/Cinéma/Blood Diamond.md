@@ -20,8 +20,9 @@ indice_5:
   - guerre civile
 indice_6:
   - Jennifer Connelly
+culture_g_score: 47
+culture_g_justification: "Film connu lié aux diamants de la guerre et à Leonardo DiCaprio, mais généralement limité à quelques questions de cinéma et de géopolitique."
 ---
-
 ![Image de Blood Diamond](https://upload.wikimedia.org/wikipedia/commons/1/18/Blood-Diamond-Child-Labor-Amnesty-Game-fiend.jpg)
 
 ###### Questions

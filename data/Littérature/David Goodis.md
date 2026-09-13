@@ -20,9 +20,9 @@ indice_5:
   - années 1940-1950
 indice_6:
   - style sombre et mélancolique
+culture_g_score: 40
+culture_g_justification: "Figure du roman noir surtout utile par ses adaptations cinématographiques, avec une présence limitée dans les quiz généralistes."
 ---
-
-
 ![Image de David Goodis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Of_Missing_Persons_by_David_Goodis_-_Illustration_by_Ray_App_-_Pocket_Book_833_1951.jpg)
 
 ###### Questions

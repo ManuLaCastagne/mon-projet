@@ -18,8 +18,9 @@ indice_5:
   - archéologie
 indice_6:
   - destruction
+culture_g_score: 84
+culture_g_justification: "L'éruption de 79, Pompéi et Pline le Jeune forment un ensemble extrêmement célèbre de l'histoire antique et des catastrophes naturelles."
 ---
-
 ![Image de Éruption du Vésuve](https://upload.wikimedia.org/wikipedia/commons/4/4a/Johan_Christian_Dahl_-_%C3%89ruption_du_V%C3%A9suve_-_NG.K%26H.B.01691_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - a joué dans Peau d'âne
 questions:
  - Quel acteur, producteur et cinéaste français a coréalisé les documentaires "Le Peuple migrateur" et "Océans"?
+culture_g_score: 72
+culture_g_justification: "Figure polyvalente du cinéma français, à la fois acteur, producteur et réalisateur de documentaires très connus."
 ---
-
 ![Image de Jacques Perrin](https://upload.wikimedia.org/wikipedia/commons/c/c7/Jacques_Perrin_2009_%28cropped%29.jpg)
 
 ###### Questions

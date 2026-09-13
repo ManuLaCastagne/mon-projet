@@ -22,8 +22,9 @@ indice_6 :
   - Star Wars
 questions:
  - Réplique prononcée immédiatement après l'adverbe non, je n'ai été intégrée qu'en postproduction, ne figurant pas sur le scénario de tournage remis aux acteurs. Enregistrée par le comédien James Earl Jones et connue pendant longtemps des seuls Irvin Kershner et George Lucas...
+culture_g_score: 92
+culture_g_justification: "Réplique et révélation parmi les plus célèbres du cinéma, directement liées à l’univers incontournable de Star Wars."
 ---
-
 ![Image de Je suis ton père](https://upload.wikimedia.org/wikipedia/commons/c/c9/Delacroix_-_Je_suis_l%27esprit_de_ton_p%C3%A8re_%21%2C_btv1b10461829v.jpeg)
 
 ###### Questions

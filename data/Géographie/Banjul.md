@@ -22,8 +22,9 @@ indice_5 :
   - indépendance en 1965
 indice_6 : 
   - population d'environ 31 000 habitants
+culture_g_score: 40
+culture_g_justification: "Capitale d’un petit pays ouest-africain, principalement interrogée dans les questions de capitales et d’histoire coloniale."
 ---
-
 ![Image de Banjul](https://upload.wikimedia.org/wikipedia/commons/f/ff/Banjul_King_Fahad_Mosque.jpg)
 
 ![[Carte_Banjul.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - Police Story
 questions:
  - Quel acteur hongkongais interprète le rôle de l'inspecteur Lee dans la série de films "Rush Hour" ?
+culture_g_score: 96
+culture_g_justification: "Star mondiale du cinéma d’action, très rentable par ses cascades, ses arts martiaux, Hong Kong, Hollywood et sa longue carrière."
 ---
-
 ![Image de Jackie Chan](https://upload.wikimedia.org/wikipedia/commons/8/8b/Jackie_Chan_July_2016.jpg)
 
 ###### Questions

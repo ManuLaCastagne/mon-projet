@@ -22,8 +22,9 @@ indice_6 :
   - Écrivain américain
 questions:
  - En 1993, quel écrivain américain est récompensé par le Prix Médicis étranger pour son roman "Léviathan"?
+culture_g_score: 71
+culture_g_justification: "Écrivain américain reconnu, utile pour la littérature postmoderne, New York, le cinéma et les thèmes du hasard et de l’identité."
 ---
-
 ![Image de Paul Auster](https://upload.wikimedia.org/wikipedia/commons/e/e4/Paul_Auster_BBF_2010_Shankbone.jpg)
 
 ###### Questions

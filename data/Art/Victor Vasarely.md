@@ -23,8 +23,9 @@ indice_6 :
   - Zebra 1937
 questions:
  - M'installant à Paris en 1931, je travaille comme graphiste avant de me tourner vers une création picturale abstraite et de participer en 55 à l'exposition "Le Mouvement" avec Jean Tinguely et Calder. Maître de l'art cinétique ayant ma fondation...
+culture_g_score: 63
+culture_g_justification: "Figure classique de l’Op Art, offrant des liens avec les illusions optiques, le design et l’art contemporain, sans être incontournable."
 ---
-
 ![Image de Victor Vasarely](https://upload.wikimedia.org/wikipedia/commons/b/b2/Victor_Vasarely.jpg)
 
 ###### Questions

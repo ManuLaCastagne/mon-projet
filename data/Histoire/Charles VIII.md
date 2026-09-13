@@ -18,8 +18,9 @@ indice_5 :
   - fils de Louis XI
 indice_6 : 
   - mort accidentelle à Amboise
+culture_g_score: 60
+culture_g_justification: "Roi associé au déclenchement des guerres d’Italie et à une mort insolite, mais moins incontournable que d’autres Valois."
 ---
-
 ![Image de Charles VIII](https://upload.wikimedia.org/wikipedia/commons/3/33/Tomb_of_the_children_of_Charles_VIII_Tours_2.jpg)
 
 ###### Questions

@@ -23,9 +23,9 @@ indice_5 :
   - Al-Masmak
 indice_6 : 
   - ville moderne
+culture_g_score: 68
+culture_g_justification: "Capitale saoudienne incontournable pour situer le pays et aborder son développement politique et urbain, mais moins fréquente que les grandes capitales mondiales."
 ---
-
-
 ![Image de Riyad](https://upload.wikimedia.org/wikipedia/commons/2/20/Riyadh_Skyline.jpg)
 
 ![[Carte_Riyad.png]]

@@ -19,8 +19,9 @@ indice_5:
   - 19e siècle
 indice_6:
   - surréalisme
+culture_g_score: 64
+culture_g_justification: "Œuvre singulière de Lautréamont, souvent citée pour le surréalisme et son influence, mais peu familière au grand public."
 ---
-
 ![Image de Les Chants de Maldoror](https://upload.wikimedia.org/wikipedia/commons/a/a7/Editions_Chants_de_Maldoror.png)
 
 ###### Questions

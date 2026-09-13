@@ -22,8 +22,9 @@ indice_6 :
   - Influence d'Amy Winehouse
 questions:
  - De soul pop, auteur de "George" dédié au père de ma chanteuse et de "I'm sorry", je reprends dans l'album "Chapter One" "Smile", qui fut popularisée par Nat King Cole. En 2021, ma chanteuse sort sous mon nom l'album "Out", comprenant "Back on my feet".
+culture_g_score: 24
+culture_g_justification: "Groupe français émergent dont les repères sont principalement liés à quelques émissions et distinctions récentes."
 ---
-
 ![Image de Kimberose](https://upload.wikimedia.org/wikipedia/commons/7/7a/Festival_du_Bout_du_Monde_2019_-_Kimberose_-_014.jpg)
 
 ###### Questions

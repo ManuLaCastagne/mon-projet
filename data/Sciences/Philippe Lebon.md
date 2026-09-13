@@ -20,8 +20,9 @@ indice_6 :
   - Prix Montyon
 questions:
  - A quel ingénieur français, né en 1767, doit-on l'invention de l'éclairage au gaz provenant de la distillation du bois ?
+culture_g_score: 44
+culture_g_justification: "Inventeur français intéressant pour l’histoire du gaz et des moteurs, mais rarement requis hors de questions spécialisées."
 ---
-
 ![Image de Philippe Lebon](https://upload.wikimedia.org/wikipedia/commons/6/6b/Philippe_Lebon.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - explosion culinaire
 questions:
  - Je fais une critique féroce de la société de consommation. Comédie de Marco Ferreri avec Marcello Mastroianni, Ugo Tognazzi, Philippe Noiret...
+culture_g_score: 80
+culture_g_justification: "Œuvre scandaleuse et emblématique du cinéma européen, exploitable par Ferreri, Cannes, la satire sociale et son prestigieux casting."
 ---
-
 ![Image de Grande Bouffe](https://upload.wikimedia.org/wikipedia/commons/b/b2/Leidseplein%2C_La_Grande_Bouffe_-_panoramio.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Qu'est-ce qu'elle est belle, cette chanson. "Fais-moi une place", 1990, qui a remporté l'année suivante la Victoire de la chanson de l'année. C'était mérité. Alors que la musique a été composée par Julien Clerc, quelle chanteuse, révélée dans les années 60, a écrit les paroles de ce tube?
  - En 1986, quelle chanteuse française, interprète de "Message personnel", publie l'ouvrage "L'Astrologie universelle"?
+culture_g_score: 80
+culture_g_justification: "Icône de la chanson française, liée aux yé-yé, à Jacques Dutronc, à ses succès internationaux et à plusieurs repères culturels."
 ---
-
 ![Image de Françoise Hardy](https://upload.wikimedia.org/wikipedia/commons/9/92/Fran%C3%A7oise_Hardy_2012_c.jpg)
 
 ###### Questions

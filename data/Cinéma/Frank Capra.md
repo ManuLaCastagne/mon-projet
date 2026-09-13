@@ -22,8 +22,9 @@ indice_6:
   - réalisateur américain célèbre
 questions:
   - Dans les années 1940, quel cinéaste américain réalise les comédies "La Vie est belle" et "Arsenic et vieilles dentelles" ?
+culture_g_score: 80
+culture_g_justification: "Grand réalisateur de l'âge d'or hollywoodien, associé à plusieurs classiques, aux Oscars et à un style de comédie reconnaissable."
 ---
-
 ![Image de Frank Capra](https://upload.wikimedia.org/wikipedia/commons/7/77/Frank_Capra.jpg)
 
 ###### Questions

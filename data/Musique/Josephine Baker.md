@@ -22,8 +22,9 @@ indice_6 :
   - Résistante française
 questions:
  - Dans les années 20, quelle artiste de music-hall originaire du Missouri apparaissait sur scène avec une ceinture de bananes autour des hanches?
+culture_g_score: 92
+culture_g_justification: "Figure mondiale et francophone exceptionnelle, à la fois artiste, résistante, personnalité antiraciste et symbole culturel du XXe siècle."
 ---
-
 ![Image de Josephine Baker](https://upload.wikimedia.org/wikipedia/commons/5/59/Jos%C3%A9phine_Baker_par_Jean_Chassaing.jpg)
 
 ###### Questions

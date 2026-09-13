@@ -20,8 +20,9 @@ indice_6 :
   - réhabilitation posthume
 questions:
  - Quel évêque de Beauvais présidait le tribunal...
+culture_g_score: 60
+culture_g_justification: "Son rôle dans le procès de Jeanne d’Arc est un repère classique, mais sa notoriété dépend largement de cet épisode unique."
 ---
-
 ![Image de Cauchon](https://upload.wikimedia.org/wikipedia/commons/5/52/SULTE%281882%29_6.285_JOSEPH-EDOUARD_CAUCHON_%28Lieut-Gouverneur_de_Manitoba%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - habitat des anguilles
 indice_6 : 
   - remous océaniques
+culture_g_score: 67
+culture_g_justification: "Mer sans rivages célèbre pour ses algues, les Bermudes et les récits maritimes, offrant une bonne question de géographie originale."
 ---
-
 ![Image de Mer des Sargasses](https://upload.wikimedia.org/wikipedia/commons/b/b4/Sargasso.png)
 
 Questions

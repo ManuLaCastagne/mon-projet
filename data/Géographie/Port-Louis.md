@@ -22,8 +22,9 @@ indice_5 :
   - marché central
 indice_6 : 
   - Blue Penny Museum
+culture_g_score: 64
+culture_g_justification: "Capitale de l’île Maurice utile pour la géographie, l’histoire coloniale et le Commonwealth, sans être une capitale très fréquente."
 ---
-
 ![Image de Port-Louis](https://upload.wikimedia.org/wikipedia/commons/e/e3/Evening_Port_Louis.jpg)
 
 ![[Carte_Port-Louis.png]]

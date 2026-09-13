@@ -15,8 +15,9 @@ indice_6 :
   - Fertilité en folklore européen
 questions:
  - Petit rongeur de couleur sombre  de la famille des muridés, dont une espèce est dite à collier ou à gorge jaune, je vis dans les bois et les plaines d'Europe et d'Asie.  Mesurant de 15 à 30 cm de long en comptant ma queue écailleuse, je peux être de l'espèce sylvestre, très prolifique, qui...
+culture_g_score: 32
+culture_g_justification: "Petit rongeur souvent confondu avec la souris, mais rarement demandé comme référence précise de culture générale."
 ---
-
 ![Image de Mulot](https://upload.wikimedia.org/wikipedia/commons/e/e8/Mulot_%26_Petitjean_03.JPG)
 
 ###### Questions

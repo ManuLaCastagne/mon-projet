@@ -20,8 +20,9 @@ indice_6 :
   - médaille d'or
 questions:
  - Sportif de haut niveau également employé de La Poste, je suis l'actuel détenteur du record du monde du 50 km marche.
+culture_g_score: 57
+culture_g_justification: "Marcheur français champion d’Europe et détenteur d’un record mondial, sujet classique mais assez étroit."
 ---
-
 ![Image de Yohann Diniz](https://upload.wikimedia.org/wikipedia/commons/7/7a/Yohann_Diniz_Zurich_2014_%28cropped%29.jpg)
 
 ###### Questions

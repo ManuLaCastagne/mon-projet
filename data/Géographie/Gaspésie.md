@@ -24,8 +24,9 @@ indice_6 :
   - Ville de Gaspé
 questions:
  - De Restigouche. Région touristique riche en milieux naturels exceptionnels,  je suis bordée au sud par la baie des Chaleurs et au nord par le Saint-Laurent.
+culture_g_score: 47
+culture_g_justification: "Région québécoise intéressante pour la géographie, l’histoire de Cartier et la littérature, mais secondaire dans les quiz généralistes."
 ---
-
 ![Image de Gaspésie](https://upload.wikimedia.org/wikipedia/commons/1/12/Jardins_de_M%C3%A9tis%2C_Quebec_Canada.jpg)
 
 ![[Carte_Gaspésie.png]]

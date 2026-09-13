@@ -19,6 +19,7 @@ indice_5 :
 indice_6 : 
   - Buzz Aldrin
 culture_g_score: 97
+culture_g_justification: "Premier alunissage habité, événement universellement célèbre et extrêmement rentable pour les questions d’histoire, de technologie et d’espace."
 ---
 ![Image de Apollo 11](https://upload.wikimedia.org/wikipedia/commons/7/7d/Apollo_11_Launch2.jpg)
 

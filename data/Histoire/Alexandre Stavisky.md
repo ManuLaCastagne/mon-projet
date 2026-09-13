@@ -20,8 +20,9 @@ indice_6 :
   - émeutes à Paris en 1934
 questions:
  - Dans les années 30, en France, quel escroc s'est retrouvé au coeur d'un scandale financier ayant abouti à la chute du ministère Chautemps ?
+culture_g_score: 48
+culture_g_justification: "L’affaire Stavisky est un repère de la crise de la IIIe République, mais le personnage lui-même est peu connu hors des quiz historiques."
 ---
-
 ![Image de Alexandre Stavisky](https://upload.wikimedia.org/wikipedia/commons/6/6c/Alexandre_Stavisky_1926.jpg)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_6 :
   - mythologie nordique
 questions:
  - Dans les légendes scandinaves, quel monstre de très grande taille, doté de nombreux tentacules, est capable d'arrêter et de faire chavirer les navires?
+culture_g_score: 76
+culture_g_justification: "Le Kraken est une créature légendaire très reconnaissable, présente dans le folklore nordique, la littérature, le cinéma et la culture populaire."
 ---
-
 ![Image de Kraken](https://upload.wikimedia.org/wikipedia/commons/9/9d/Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg)
 
 ###### Questions

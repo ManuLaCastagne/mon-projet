@@ -22,8 +22,9 @@ indice_6 :
   - Écrivaine américaine
 questions:
  - En 2005, quelle écrivaine américaine, décédée à New York, auteur du roman "Dernier recours", est inhumée à Paris ?
+culture_g_score: 67
+culture_g_justification: "Intellectuelle américaine majeure, utile pour les essais, la critique culturelle, la photographie et les débats sur l’art."
 ---
-
 ![Image de Susan Sontag](https://upload.wikimedia.org/wikipedia/commons/f/f2/Susan_Sontag_1979_%C2%A9Lynn_Gilbert_%28headshot%29.jpg)
 
 ###### Questions

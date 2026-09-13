@@ -23,8 +23,9 @@ indice_6 :
   - Marianne
 questions:
  - Célèbre tableau ornant la pochette du 4e album studio du groupe Coldplay, je suis conservé au Louvre. Huile sur toile de 2,60 m sur 3,25 m présentée au salon de 1831, j'ai pour sujet un événement contemporain et mes personnages centraux, juchés sur une barricade...
+culture_g_score: 96
+culture_g_justification: "Icône de la peinture française et de la Révolution de Juillet, l’œuvre est un marronnier reliant Delacroix, République, symboles et histoire de France."
 ---
-
 ![Image de La Liberté guidant le peuple](https://upload.wikimedia.org/wikipedia/commons/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg)
 
 ###### Questions

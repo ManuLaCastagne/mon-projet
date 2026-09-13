@@ -22,8 +22,9 @@ indice_6 :
   - carrière controversée
 questions:
  - Quel chanteur de rock, interprète de "The Great Balls of Fire", martelait les touches de son piano avec ses coudes et pieds ?
+culture_g_score: 80
+culture_g_justification: "Pionnier majeur du rock'n'roll, régulièrement questionné par ses tubes, son piano, ses performances et sa carrière mouvementée."
 ---
-
 ![Image de Jerry Lee Lewis](https://upload.wikimedia.org/wikipedia/commons/e/ef/Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg)
 
 ###### Questions

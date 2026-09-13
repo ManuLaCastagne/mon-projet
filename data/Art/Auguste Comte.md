@@ -23,8 +23,9 @@ indice_6 :
   - influence sur les intellectuels du XIXe siècle
 questions:
  - Quel philosophe à l'origine du positivisme...
+culture_g_score: 76
+culture_g_justification: "Fondateur du positivisme, il constitue une référence importante en philosophie, sociologie et histoire des idées, même si le lien avec l’art est secondaire."
 ---
-
 ![Image de Auguste Comte](https://upload.wikimedia.org/wikipedia/commons/b/b9/Auguste_Comte%281%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Antonioni
 questions:
  - Ecrivain étranger né en 1907, j'ai exprimé dans un style sobre, allant à l'essentiel, les difficultés de mes personnages à s'insérer dans la réalité sociale, notamment dans "La Désobéissance".  Ayant contribué à l'adaptation au cinéma de certains...
+culture_g_score: 67
+culture_g_justification: "Moravia est un écrivain italien important, exploitable via plusieurs romans, le fascisme, le cinéma et les thèmes de la guerre."
 ---
-
 ![Image de Alberto Moravia](https://upload.wikimedia.org/wikipedia/commons/b/b9/Paolo_Monti_-_Servizio_fotografico_-_BEIC_6361580_%28cropped%29.jpg)
 
 ###### Questions

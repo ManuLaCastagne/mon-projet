@@ -20,8 +20,9 @@ indice_6 :
 questions:
  - Dans quel poème, se rattachant au cycle de la guerre de Troie, Homère raconte-t-il les dangers qu'Ulysse a dû affronter sur mer...
  - Dans quel livre raconte-t-on qu'Ulysse est resté 20 ans...
+culture_g_score: 100
+culture_g_justification: "Épopée fondamentale de la littérature mondiale, l’Odyssée ouvre de nombreux angles sur Homère, Ulysse, la mythologie, les voyages et les expressions culturelles."
 ---
-
 ![Image de Odyssée]()
 
 L'[[Odyssée]], écrite par [[Homère]] aux alentours du [[VIIIe siècle av. J.-C.]], est une épopée grecque qui raconte le périple du roi d'[[Ithaque]], [[Ulysse]], de retour de la guerre de [[Troie]]. Durant son voyage, qui dure dix ans, [[Ulysse]] rencontre de nombreuses figures mythologiques, telles que le cyclope [[Polyphème]] et la magicienne [[Circé]]. La narration de l'[[Odyssée]] s'articule autour des thèmes de la ruse, de la persévérance et des épreuves divines, offrant un aperçu fascinant de la mythologie et des valeurs de la Grèce antique.

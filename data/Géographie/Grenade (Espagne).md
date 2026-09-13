@@ -21,8 +21,9 @@ indice_5 :
   - Cathédrale de Grenade
 indice_6 : 
   - Sacromonte
+culture_g_score: 80
+culture_g_justification: "Ville incontournable grâce à l’Alhambra, à la Reconquista, à l’héritage musulman espagnol et au patrimoine de l’Andalousie."
 ---
-
 ![[Carte_Grenade (Espagne).png]]
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Constantine
 questions:
  - Acteur américain né le 2 septembre 1964, j'ai prêté mon visage barbu au héros du jeu vidéo "Cyberpunk 2077", sorti en 2020. N'ayant jamais remporté d'Oscar malgré une filmographie diversifiée, j'ai incarné le chevalier Danceny dans "Les Liaisons dangereuses" et Siddhartha dans "Little Buddha".
+culture_g_score: 93
+culture_g_justification: "Matrix, John Wick et Point Break font de Keanu Reeves une star mondiale dont quelques repères permettent de résoudre de nombreuses questions."
 ---
-
 ![Image de Keanu Reeves](https://upload.wikimedia.org/wikipedia/commons/3/33/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%2846806576944%29_%28cropped%29.jpg)
 
 ###### Questions

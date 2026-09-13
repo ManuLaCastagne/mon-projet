@@ -20,8 +20,9 @@ indice_6 :
   - abc
 questions:
  - Dans quelle série, diffusée en France dès 2010, un écrivain à succès mène-t-il des enquêtes aux côtés d'une policière ? Drôle de duo, ils se chamaillent toujours. Avec cette policière incarnée par Stana Katic.
+culture_g_score: 60
+culture_g_justification: "Série policière internationale populaire et associée à un duo original, avec une fréquence correcte mais une importance culturelle modérée."
 ---
-
 ![Image de Castle (série)](https://upload.wikimedia.org/wikipedia/commons/1/13/Castle%2C_Morestel.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Ville la plus peuplée de Mauritanie
 indice_6 : 
   - Climat désertique
+culture_g_score: 40
+culture_g_justification: "Capitale de la Mauritanie utile pour les questions sur les États africains et le Sahara, mais rarement interrogée sous des angles variés."
 ---
-
 ![Image de Nouakchott](https://upload.wikimedia.org/wikipedia/commons/7/70/Fish_market_in_Nouakchott_-_Mauritania.jpg)
 
 ![[Carte_Nouakchott.png]]

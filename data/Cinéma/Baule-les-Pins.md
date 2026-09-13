@@ -22,8 +22,9 @@ indice_6 :
   - Côte d'Amour
 questions:
  - En 1990, quel film de D.Kurys réunit sur une plage de Loire-Atlantique Nathalie Baye et Zabou Breitman?
+culture_g_score: 20
+culture_g_justification: "Sujet cinématographique très obscur et peu susceptible de fournir plusieurs réponses dans un quiz généraliste."
 ---
-
 ![Image de Baule-les-Pins](https://upload.wikimedia.org/wikipedia/commons/b/b3/Gare_de_La_Baule-Les_Pins_02.JPG)
 
 ###### Questions

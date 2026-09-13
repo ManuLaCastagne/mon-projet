@@ -20,9 +20,9 @@ indice_6 :
   - Voyageur infatigable
 questions:
  - Quel empereur romain, successeur de Trajan, protège l'Empire contre les barbares à l'aide de fortifications continues ?
+culture_g_score: 80
+culture_g_justification: "Empereur romain classique, identifiable par le mur d'Hadrien, ses voyages, la consolidation des frontières et le conflit autour de Jérusalem."
 ---
-
-
 ![Image de Hadrien](https://upload.wikimedia.org/wikipedia/commons/f/f6/Hadrien_France-Lanord.jpg)
 
 ###### Questions

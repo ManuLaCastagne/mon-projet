@@ -23,8 +23,9 @@ indice_6 :
   - course de trot
 questions:
  - Hippodrome parisien spécialisé dans les épreuves de trot, à différencier de l'hippodrome de Longchamp pour le galop…
+culture_g_score: 60
+culture_g_justification: "L’hippodrome de Vincennes est un repère sportif français associé au trot et au Prix d’Amérique, avec une rentabilité correcte mais sectorielle."
 ---
-
 ![Image de Hippodrome de Vincennes](https://upload.wikimedia.org/wikipedia/commons/9/96/Hippodrome_de_Vincennes_-_Restaurant.jpg)
 
 ###### Questions

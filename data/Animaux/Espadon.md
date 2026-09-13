@@ -15,8 +15,9 @@ indice_6 :
   - Symbolisme de force et agilité
 questions:
  - Vivant entre 200 et 600 m de profondeur, je peux atteindre 90 km/h  en fendant l'eau avec aisance.
+culture_g_score: 64
+culture_g_justification: "L'espadon est un poisson marin très identifiable, exploitable dans des questions de zoologie, de pêche et de records, sans être incontournable."
 ---
-
 ![Image de Espadon](https://upload.wikimedia.org/wikipedia/commons/3/39/Espadon-coque.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5 :
   - Bête à bon Dieu
 indice_6 : 
   - Symbole de chance
+culture_g_score: 84
+culture_g_justification: "Ordre d’insectes immensément diversifié, central pour de nombreuses questions de zoologie et particulièrement rentable à apprendre."
 ---
-
 ![Image de Coléoptère](https://upload.wikimedia.org/wikipedia/commons/c/ca/SNECMA_Col%C3%A9opt%C3%A8re_on_ramp_1959.jpg)
 
 ###### Questions

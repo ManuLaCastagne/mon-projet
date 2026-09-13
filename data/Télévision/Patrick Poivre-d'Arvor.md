@@ -20,8 +20,9 @@ indice_6 :
   - figure emblématique de la télévision française
 questions:
  - Quel ancien présentateur  du "20 heures" a également animé les émissions littéraires "Ex libris (émission)" et "Vol de nuit" ?
+culture_g_score: 76
+culture_g_justification: "Figure majeure du journal télévisé français, également liée à la littérature, aux interviews et à l’histoire de TF1."
 ---
-
 ![Image de Patrick Poivre-d'Arvor](https://upload.wikimedia.org/wikipedia/commons/a/a5/Patrick_Poivre_d%27Arvor_Cannes_3.jpg)
 
 ###### Questions

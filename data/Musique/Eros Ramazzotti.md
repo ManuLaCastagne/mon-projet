@@ -22,9 +22,9 @@ indice_6 :
   - voix nasale
 questions:
  - A quel artiste, considéré comme l'un des plus grands chanteurs à succès de la musique italienne, doit-on "Una storia importante"...
+culture_g_score: 64
+culture_g_justification: "Vedette italienne bien connue dans l'espace francophone, mais principalement interrogée à travers quelques succès de pop internationale."
 ---
-
-
 ![Image de Eros Ramazzotti](https://upload.wikimedia.org/wikipedia/commons/4/4b/Eros_Ramazzotti_%2821738687382%29_%28cropped%29.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5:
   - Forward
 indice_6:
   - Indiana State University
+culture_g_score: 85
+culture_g_justification: "Légende des Celtics et de la NBA, exploitable par ses titres, rivalités, records, fonctions dirigeantes et place dans l’histoire du basket."
 ---
-
 ![Image de Larry Bird](https://upload.wikimedia.org/wikipedia/commons/b/bb/Larrybird.jpg)
 
 ###### Questions

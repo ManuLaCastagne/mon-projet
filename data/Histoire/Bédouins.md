@@ -18,8 +18,9 @@ indice_5 :
   - Tribu Quraish
 indice_6 : 
   - Oasis
+culture_g_score: 59
+culture_g_justification: "Peuple fortement associé aux déserts arabes, au nomadisme et à l’histoire du Moyen-Orient, mais peu souvent réponse précise d’un quiz."
 ---
-
 ![Image de Bédouins]()
 
 ###### Questions

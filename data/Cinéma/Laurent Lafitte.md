@@ -18,9 +18,9 @@ indice_5 :
   - Elle l'adore
 indice_6 : 
   - Un héros très discret
+culture_g_score: 47
+culture_g_justification: "Acteur français identifiable par la Comédie-Française et quelques films populaires, mais rarement une réponse prioritaire de quiz."
 ---
-
-
 ![Image de Laurent Lafitte](https://upload.wikimedia.org/wikipedia/commons/6/63/Laurent_Lafitte_C%C3%A9sar_2018.jpg)
 
 ###### Questions

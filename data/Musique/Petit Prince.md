@@ -22,8 +22,9 @@ indice_6 :
   - baobabs
 questions:
  - Quel spectacle musical,  composé par Richard Cocciante et mis en scène en 2002 au Casino de Paris, adapte un célèbre conte de Saint-Exupéry?
+culture_g_score: 89
+culture_g_justification: "Œuvre littéraire mondialement incontournable, donnant accès à des questions de littérature, d’auteur, d’illustration, d’adaptations et de culture populaire."
 ---
-
 ![Image de Petit Prince](https://upload.wikimedia.org/wikipedia/commons/1/16/Le_Petit_Journal_Balkan_Crisis_%281908%29.jpg)
 
 ###### Questions

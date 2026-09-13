@@ -22,9 +22,9 @@ indice_6 :
   - faux distributeur automatique d'hosties
 questions:
  - En 1963, dans quel film de Jean-Pierre Mocky Bourvil pille-t-il les troncs des églises?
+culture_g_score: 48
+culture_g_justification: "Comédie française appréciée et portée par Bourvil, mais son titre et ses références restent relativement secondaires dans les quiz."
 ---
-
-
 ![Image de Drôle de paroissien](https://upload.wikimedia.org/wikipedia/commons/d/d7/Heaven_Sent_Gaming.png)
 
 ###### Questions

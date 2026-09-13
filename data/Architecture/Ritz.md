@@ -23,8 +23,9 @@ indice_6 :
   - Belle Époque
 questions:
  - Dans quel palace parisien situé Place Vendôme Coco Chanel a-t-elle vécu et donné son nom à une suite ?
+culture_g_score: 81
+culture_g_justification: "Hôtel parisien légendaire, très présent dans les quiz grâce au luxe, à Coco Chanel, Hemingway, Ritz et la place Vendôme."
 ---
-
 ![Image de Ritz](https://upload.wikimedia.org/wikipedia/commons/c/c6/Azulejo_-_The_Ritz_-_Funchal_04.jpg)
 
 ###### Questions

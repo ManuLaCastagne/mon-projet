@@ -24,8 +24,9 @@ indice_6 :
   - grottes de Postojna
 questions:
  - Au handball masculin, de quel pays le club du RK Celje, champion d'Europe en 2004, a été 23 fois champion national?
+culture_g_score: 72
+culture_g_justification: "État européen classique des quiz, associé à l’ex-Yougoslavie, aux Alpes, à Ljubljana et à un patrimoine naturel notable."
 ---
-
 ![Image de Slovénie](https://upload.wikimedia.org/wikipedia/commons/2/28/Fire_salamander_%28Salamandra_Salamandra%29.jpg)
 
 ![[Carte_Slovénie.png]]

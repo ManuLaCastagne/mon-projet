@@ -18,10 +18,9 @@ indice_5:
   - répertoire classique
 indice_6:
   - Deutsche Grammophon
+culture_g_score: 51
+culture_g_justification: "Anne-Sophie Mutter est une grande violoniste classique, mais ses occurrences concernent surtout un public mélomane averti."
 ---
-
-
-
 ![Image de Anne-Sophie Mutter](https://upload.wikimedia.org/wikipedia/commons/0/0b/Anne-Sophie_Mutter_B10-13_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - durée de 20 minutes
 questions:
  - Quelle émission de jeux télévisés, lancée en 1976 animée notamment par Maître Capello, était programmée à l'heure des JT du soir?
+culture_g_score: 60
+culture_g_justification: "Jeu populaire de la télévision française, utile pour des questions sur les émissions anciennes, les animateurs et la culture télévisuelle."
 ---
-
 ![Image de Jeux de 20 heures](https://upload.wikimedia.org/wikipedia/commons/4/4a/HaroldKay-1953.png)
 
 ###### Questions

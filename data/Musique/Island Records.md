@@ -22,8 +22,9 @@ indice_6 :
   - Chris Blackwell
 questions:
  - De quel label, spécialisé à l'origine dans le reggae, a-t-il été l'artiste phare dans les années 70 ?
+culture_g_score: 60
+culture_g_justification: "Label important de l'histoire du reggae et de la pop internationale, notamment grâce à Bob Marley et U2."
 ---
-
 ![Image de Island Records](https://upload.wikimedia.org/wikipedia/commons/b/bc/Ellis_Island_hospital_window_mural_%2801897%29.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5:
   - Radicaux
 indice_6:
   - Révolution
+culture_g_score: 77
+culture_g_justification: "Faction centrale de la Convention et de la Terreur, régulièrement interrogée en opposition aux Girondins et autour de Robespierre."
 ---
-
 ![Image de Club des Montagnards](https://upload.wikimedia.org/wikipedia/commons/5/55/Propagande_du_club_des_Montagnards%2C_mars_1848%2C_ND8603.jpg)
 
 ###### Questions

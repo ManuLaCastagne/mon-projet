@@ -20,8 +20,9 @@ indice_6 :
   - Redistribution des richesses
 questions:
  - En 2015, quel économiste, auteur du "Capital au XXIe siècle", l'a refusée...
+culture_g_score: 60
+culture_g_justification: "Économiste français connu pour ses travaux sur les inégalités, mais ses questions restent principalement liées à un ouvrage et à la macroéconomie."
 ---
-
 ![Image de Thomas Piketty](https://upload.wikimedia.org/wikipedia/commons/1/19/Thomas_Piketty2.jpg)
 
 ###### Questions

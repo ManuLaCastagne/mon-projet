@@ -23,8 +23,9 @@ indice_6 :
   - personnages multiples
 questions:
  - Quel artiste transformiste italien né en 1957…
+culture_g_score: 60
+culture_g_justification: "Artiste de spectacle très identifiable par le transformisme et ses records, mais offrant peu d’angles en dehors du divertissement."
 ---
-
 ![Image de Arturo Brachetti](https://upload.wikimedia.org/wikipedia/commons/e/e2/Arturo_Brachetti_Mus%C3%A9e_Gr%C3%A9vin_Montr%C3%A9al.JPG)
 
 ###### Questions

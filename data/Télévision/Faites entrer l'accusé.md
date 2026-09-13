@@ -20,8 +20,9 @@ indice_6 :
   - reconstitutions d'enquêtes
 questions:
  - Quelle émission retraçant des affaires criminelles Christophe Hondelatte a-t-il présentée jusqu'en 2011, puis il a été remplacé, dans un bureau sombre tapissé de photos ?
+culture_g_score: 73
+culture_g_justification: "Émission française très connue consacrée aux faits divers, régulièrement citée avec ses animateurs et ses affaires criminelles."
 ---
-
 ![Image de Faites entrer l'accusé](https://upload.wikimedia.org/wikipedia/commons/4/45/Annales_du_crime_et_de_l%27innocence%2C_ou_choix_de_causes_c%C3%A9l%C3%A8bres%2C_anciennes_et_modernes%2C_r%C3%A9duites_aux_faites_historiques_%28IA_b22019741_0007%29.pdf)
 
 ###### Questions

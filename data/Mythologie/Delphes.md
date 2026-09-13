@@ -18,8 +18,9 @@ indice_6 :
   - Omphalos
 questions:
  - Dans quelle ville de Phocide, où un temple lui était dédié, Apollon rendait-il…
+culture_g_score: 96
+culture_g_justification: "Site majeur de l'Antiquité, incontournable pour l'oracle, Apollon, la Pythie, l'omphalos et le monde grec."
 ---
-
 ![Image de Delphes](https://upload.wikimedia.org/wikipedia/commons/a/ac/Aurige._Mus%C3%A9e_Delphes._Gr%C3%A8ce.png)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - fresque
 questions:
  - A quel grand artiste  de la Renaissance doit-on les marbres "L'Esclave rebelle" et "L'Esclave mourant" ?
+culture_g_score: 100
+culture_g_justification: "Michel-Ange est une figure absolument incontournable, exploitable en peinture, sculpture, architecture, Renaissance, Rome et histoire de l'art."
 ---
-
 ![Image de Michel-Ange](https://upload.wikimedia.org/wikipedia/commons/8/8a/%28Castres%29_Michel-Ange_Houasse_La_Sainte_famille_-_Mus%C3%A9e_Goya.jpg)
 
 ###### Questions

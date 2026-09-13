@@ -20,8 +20,9 @@ indice_6 :
   - engagé contre le nazisme
 questions:
  - Quel syndicaliste français d'origine polonaise a été le secrétaire général...
+culture_g_score: 47
+culture_g_justification: "Henri Krasucki est utile pour l’histoire sociale française, la CGT, la Résistance et le communisme, mais reste peu connu hors de ces thèmes."
 ---
-
 ![Image de Krasucki](https://upload.wikimedia.org/wikipedia/commons/6/6a/Henri_Krasucki_tombe.jpg)
 
 ###### Questions

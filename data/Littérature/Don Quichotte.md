@@ -22,8 +22,9 @@ indice_6 :
   - La Mancha
 questions:
  - Qui se bat en vain contre des moulins à vent dans un roman de Cervantès ?
+culture_g_score: 100
+culture_g_justification: "Chef-d’œuvre universel associé au premier roman moderne, à Cervantès, aux moulins à vent et à l’histoire de la littérature."
 ---
-
 ![Image de Don Quichotte](https://upload.wikimedia.org/wikipedia/commons/2/27/Georges_Rochegrosse%27s_poster_for_Jules_Massenet%27s_Don_Quichotte.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Le Couperet
 questions:
  - En 1965, quel cinéaste français d'origine grecque connaît le succès avec "Compartiment tueurs", son premier film ?
+culture_g_score: 80
+culture_g_justification: "Costa-Gavras est une référence majeure du cinéma politique, associée à plusieurs films classiques comme Z et Missing."
 ---
-
 ![Image de Costa-Gavras](https://upload.wikimedia.org/wikipedia/commons/c/c9/Costa-Gavras_C%C3%A9sar_2018.jpg)
 
 ###### Questions

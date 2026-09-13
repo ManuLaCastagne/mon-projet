@@ -24,8 +24,9 @@ indice_6 :
   - passage maritime
 questions:
  - Quel détroit sépare les deux îles de la Nouvelle-Zélande ?
+culture_g_score: 51
+culture_g_justification: "Repère géographique classique de la Nouvelle-Zélande, mais moins fréquent et moins transversal que les grands détroits mondiaux."
 ---
-
 ![Image de Détroit de Cook](https://upload.wikimedia.org/wikipedia/commons/1/12/Earth_from_Space-_Cook_Strait%2C_New_Zealand_ESA24912671.tiff)
 
 ![[Carte_Détroit de Cook.png]]

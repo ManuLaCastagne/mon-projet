@@ -22,8 +22,9 @@ indice_6 :
   - Ziggy
 questions:
  - En 1984, dans sa chanson "Une colombe", quelle star canadienne dit de cet oiseau qu'il "porte son message..."
+culture_g_score: 92
+culture_g_justification: "Vedette internationale incontournable, fréquemment interrogée à travers ses chansons, albums, récompenses et performances vocales."
 ---
-
 ![Image de Céline Dion](https://upload.wikimedia.org/wikipedia/commons/f/f5/C%C3%A9line_Dion_2012.jpg)
 
 ###### Questions

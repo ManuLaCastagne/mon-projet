@@ -18,8 +18,9 @@ indice_5 :
   - série télévisée
 indice_6 : 
   - Moyen Âge
+culture_g_score: 52
+culture_g_justification: "Série française populaire de la télévision des années 1960, utile pour croiser histoire, fiction et culture audiovisuelle patrimoniale."
 ---
-
 ![Image de Thierry La Fronde](https://upload.wikimedia.org/wikipedia/commons/5/59/Annales_de_la_Soci%C3%A9t%C3%A9_historique_et_arch%C3%A9ologique_de_Ch%C3%A2teau-Thierry_%28IA_annalesdelasoci1901soci%29.pdf)
 
 ###### Questions

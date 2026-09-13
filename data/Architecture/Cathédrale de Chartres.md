@@ -23,8 +23,9 @@ indice_6 :
   - portail royal sculpté
 questions:
  - Quelle cathédrale Charles Péguy évoque-t-il en écrivant "votre tour beauceronne, c'est l'épi le plus dur qui soit jamais monté vers le ciel"?
+culture_g_score: 80
+culture_g_justification: "Chef-d’œuvre gothique français très classique, exploitable par l’histoire, l’architecture, le patrimoine UNESCO et les vitraux."
 ---
-
 ![Image de Cathédrale de Chartres](https://upload.wikimedia.org/wikipedia/commons/3/31/Chartres_-_cath%C3%A9drale_-_rosace_nord.jpg)
 
 ###### Questions

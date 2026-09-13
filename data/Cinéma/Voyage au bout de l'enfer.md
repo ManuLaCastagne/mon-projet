@@ -20,8 +20,9 @@ indice_5 :
   - Roulette russe
 indice_6 : 
   - Michael Cimino
+culture_g_score: 80
+culture_g_justification: "Classique de Cimino et du cinéma sur le Viêt Nam, fréquemment relié à ses acteurs, aux Oscars, à la roulette russe et à l’histoire américaine."
 ---
-
 ![Image de Voyage au bout de l'enfer](https://upload.wikimedia.org/wikipedia/commons/7/70/Deer_hunter_with_killed_deer_Liechtenstein_1923.png)
 
 ###### Questions

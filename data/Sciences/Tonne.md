@@ -1,3 +1,8 @@
+---
+culture_g_score: 65
+culture_g_justification: "Unité de masse courante et utile dans plusieurs contextes économiques, industriels et scientifiques, sans être un grand marronnier spécialisé."
+---
+
 
 ###### Questions 
 

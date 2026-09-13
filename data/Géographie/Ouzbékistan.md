@@ -21,8 +21,9 @@ indice_5 :
   - Coupe de Bicharin
 indice_6 : 
   - Navruz
+culture_g_score: 64
+culture_g_justification: "Pays d’Asie centrale très utile pour la mer d’Aral, la Route de la soie, Samarcande, Tachkent et l’héritage soviétique."
 ---
-
 ![[Carte_Ouzbékistan.png]]
 
 ###### Questions

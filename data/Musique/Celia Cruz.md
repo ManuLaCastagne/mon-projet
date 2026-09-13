@@ -22,8 +22,9 @@ indice_6 :
   - La voix de l'exil
 questions:
  - Quelle chanteuse cubaine disparue en 2003, ayant enregistré 8 albums avec Tito Puente, a été  la reine de la salsa ?
+culture_g_score: 80
+culture_g_justification: "Icône internationale de la salsa, permettant des questions sur Cuba, les musiques latines, ses chansons et son surnom de Reine de la salsa."
 ---
-
 ![Image de Celia Cruz](https://upload.wikimedia.org/wikipedia/commons/7/75/Celia_Cruz_1.jpg)
 
 ###### Questions

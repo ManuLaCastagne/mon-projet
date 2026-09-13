@@ -20,8 +20,9 @@ indice_6 :
   - Basilique de la Nativité
 questions:
  - Dans quelle ville la Vierge Marie a vu la naissance de Jésus ?
+culture_g_score: 88
+culture_g_justification: "Lieu emblématique du christianisme, fréquemment lié à Jésus, Noël, la Bible et au conflit israélo-palestinien."
 ---
-
 ![Image de Bethléem](https://upload.wikimedia.org/wikipedia/commons/5/5b/Int%C3%A9rieur_chapelle_de_Bethl%C3%A9em_ouest_2024.jpg)
 
 ###### Questions

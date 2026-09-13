@@ -22,8 +22,9 @@ indice_6 :
   - carrière de 60 ans
 questions:
  - En 1936, dans le film "Sylvia Scarlett", quelle actrice américaine incarne une jeune femme qui se déguise en homme pour échapper à la police?
+culture_g_score: 100
+culture_g_justification: "Détentrice du record de quatre Oscars de la meilleure actrice, Katharine Hepburn est une icône incontournable de l'histoire du cinéma."
 ---
-
 ![Image de Katharine Hepburn](https://upload.wikimedia.org/wikipedia/commons/8/89/Katharine_Hepburn_publicity_photograph.jpg)
 
 ###### Questions

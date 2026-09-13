@@ -22,7 +22,8 @@ indice_6 :
   - modernisation du commerce
 questions:
  - D'Emile Zola. Racontant l'extraordinaire développement d'un grand magasin qui fait péricliter les petites boutiques du quartier….
-culture_g_score: 68
+culture_g_score: 80
+culture_g_justification: "Roman majeur de Zola, très rentable pour la littérature, le naturalisme, la société industrielle et l’histoire des grands magasins."
 ---
 ![Image de Au Bonheur des Dames](https://upload.wikimedia.org/wikipedia/commons/d/d4/Au_Bonheur_des_Dames_manuscript.jpg)
 

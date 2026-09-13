@@ -22,6 +22,8 @@ indice_6 :
   - Guerre de la Conquête
 questions:
  - 1826. Quel roman de James Fenimore Cooper se passant au 18e siècle en Amérique du Nord met en scène la jeune Alice Monro ?
+culture_g_score: 80
+culture_g_justification: "Classique américain connu par son contexte historique, ses adaptations, ses personnages et la représentation des peuples autochtones."
 ---
 
 ![Image de Le Dernier des Mohicans](https://upload.wikimedia.org/wikipedia/commons/3/30/Tony_Johannot_-_Le_Dernier_Des_Mohicans_-_B1998.14.66_-_Yale_Center_for_British_Art.jpg)
@@ -32,7 +34,7 @@ Quel roman écrit par [[James Fenimore Cooper]] en 1826 a pour protagoniste prin
 
 De quel livre adapté au cinéma en 1992 avec [[Daniel Day-Lewis]] parle-t-on lorsqu'on évoque la confrontation entre colons européens et tribus amérindiennes pendant la [[Guerre de Sept Ans]] ?
 
-Quel classique de la littérature américaine se déroule en 1757, pendant le conflit entre [[Français]] et [[Anglais]] en [[Amérique du Nord]], et est souvent associé à la disparition d'une culture amérindienne ?
+Quel classique de la littérature américaine se déroule en 1757, pendant le conflit entre [[Français]] et [[Anglais]] en [[Amérique du Nord]], et est souvent associé à la disparition d'une culture amérindienne ? <!-- score: 1 -->
 
 ###### Description
 

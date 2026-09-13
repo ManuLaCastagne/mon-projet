@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la biodiversité amazonienne
 questions:
  - Quel est l'oiseau d'Amazonie le plus bruyant du monde, pouvant atteindre 113 décibels ?
+culture_g_score: 40
+culture_g_justification: "Oiseau remarquable par son cri record, mais encore trop spécialisé pour constituer une priorité."
 ---
-
 ![Image de Araponga blanc](https://upload.wikimedia.org/wikipedia/commons/7/74/Procnias_albus_-_White_bellbird_%28male%29.JPG)
 
 ###### Questions

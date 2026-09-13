@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de force et de patience
 questions:
  - Animal mâle non castré  auquel est associé la race française INRA 95 qui a été officiellement reconnue en 2020...
+culture_g_score: 84
+culture_g_justification: "Le taureau est une référence très rentable grâce à la tauromachie, l'astrologie, la finance, la mythologie et de nombreuses représentations culturelles."
 ---
-
 ![Image de Taureau](https://upload.wikimedia.org/wikipedia/commons/b/b7/%27Taureau%27_by_Francis_ANDRE_%281982%29.jpg)
 
 ###### Questions

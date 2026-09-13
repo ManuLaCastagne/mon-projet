@@ -20,8 +20,9 @@ indice_5:
   - adaptation de roman
 indice_6:
   - 1961
+culture_g_score: 47
+culture_g_justification: "Film reconnu de Melville, utile pour croiser littérature et cinéma, mais trop spécialisé pour être une priorité générale."
 ---
-
 ![Image de Léon Morin, prêtre](https://upload.wikimedia.org/wikipedia/commons/c/ce/The_passionate_hearts_%28IA_passionatehearts00macm%29.pdf)
 
 ###### Questions

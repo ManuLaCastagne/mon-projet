@@ -22,8 +22,9 @@ indice_6 :
   - Cannes
 questions:
  - En 2009, quel réalisateur italien évoque la vie privée de Mussolini dans "Vincere"?
+culture_g_score: 67
+culture_g_justification: "Cinéaste italien important et engagé, mais surtout présent dans les quiz de cinéma d’auteur et d’histoire du cinéma."
 ---
-
 ![Image de Marco Bellochio](https://upload.wikimedia.org/wikipedia/commons/9/99/Marco_Bellocchio_FCI_Tokyo_2010.jpg)
 
 ###### Questions

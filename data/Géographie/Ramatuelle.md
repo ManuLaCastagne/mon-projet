@@ -21,8 +21,9 @@ indice_5 :
   - Var
 indice_6 : 
   - Cimetière marin
+culture_g_score: 40
+culture_g_justification: "Village touristique proche de Saint-Tropez, Ramatuelle est surtout retenu pour son festival et la plage de Pampelonne, avec peu d’usages indépendants."
 ---
-
 ![[Carte_Ramatuelle.png]]
 
 ###### Questions

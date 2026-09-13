@@ -20,9 +20,9 @@ indice_5 :
   - Amour et cinéma
 indice_6 : 
   - caméra à la main
+culture_g_score: 80
+culture_g_justification: "Réalisateur français très connu, exploitable via Un homme et une femme, Cannes, les Oscars, ses méthodes de tournage et sa filmographie."
 ---
-
-
 ![Image de Claude Lelouch](https://upload.wikimedia.org/wikipedia/commons/0/0d/Claude_Lelouch_Deauville_2019.jpg)
 
 ###### Questions

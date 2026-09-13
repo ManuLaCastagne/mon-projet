@@ -20,9 +20,9 @@ indice_5 :
   - décathlon remporté par Bob Mathias
 indice_6 : 
   - Paavo Nurmi enflamme la vasque olympique
+culture_g_score: 63
+culture_g_justification: "Édition olympique notable pour Zatopek, la première participation soviétique et le contexte de la guerre froide, avec plusieurs angles historiques."
 ---
-
-
 ![Image de Helsinki 1952](https://upload.wikimedia.org/wikipedia/commons/f/f3/Olympia-1952.jpg)
 
 ###### Questions

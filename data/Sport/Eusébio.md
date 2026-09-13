@@ -20,8 +20,9 @@ indice_6 :
   - Attaquant
 questions:
  - Quel attaquant portugais disparu en 2014, surnommé la Panthère noire et Ballon d'or en 65, a terminé meilleur buteur de la Coupe du monde l'année suivante ?
+culture_g_score: 80
+culture_g_justification: "Légende mondiale du football, Eusébio permet des questions sur le Portugal, Benfica, la Coupe du monde 1966 et les récompenses individuelles."
 ---
-
 ![Image de Eusébio](https://upload.wikimedia.org/wikipedia/commons/c/c9/Placa_Huellas_Eus%C3%A9bio_A74277220241123.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - Comte écrivain
 questions:
  - De quel écrivain russe les réalisateurs des films "Anna Karénine" et "Guerre et Paix"...
+culture_g_score: 100
+culture_g_justification: "Un des piliers universels de la littérature mondiale, exploitable par ses romans, ses idées, la Russie et son influence sur la non-violence."
 ---
-
-
 ![Image de Léon Tolstoï](https://upload.wikimedia.org/wikipedia/commons/6/66/Leo_Tolstoy_1897%2C_black_and_white%2C_37767u.jpg)
 
 ###### Questions

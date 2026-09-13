@@ -20,8 +20,9 @@ indice_5 :
   - Épreuves d'athlétisme et gymnastique
 indice_6 : 
   - Athlètes de 14 pays
+culture_g_score: 97
+culture_g_justification: "Première édition des Jeux olympiques modernes, incontournable pour l’histoire de l’olympisme et la culture générale mondiale."
 ---
-
 ![Image de Athènes 1896](https://upload.wikimedia.org/wikipedia/commons/0/07/1896_Summer_olympics_team_numbers.png)
 
 ###### Questions

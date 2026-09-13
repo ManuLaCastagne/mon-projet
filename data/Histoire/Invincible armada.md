@@ -20,8 +20,9 @@ indice_6 :
   - défaite espagnole
 questions:
  - Sous quel nom connaît-on la flotte de guerre espagnole ?
+culture_g_score: 84
+culture_g_justification: "Épisode classique de l’affrontement anglo-espagnol, reliant Philippe II, Élisabeth Ire, stratégie navale et expansion maritime."
 ---
-
 ![Image de Invincible armada](https://upload.wikimedia.org/wikipedia/commons/1/17/Invincible_Armada.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - Le Pont de la rivière Kwaï
 indice_6:
   - Le Bouc émissaire
+culture_g_score: 80
+culture_g_justification: "Acteur britannique associé à Star Wars, au Pont de la rivière Kwaï et à Noblesse oblige, offrant plusieurs entrées classiques de quiz."
 ---
-
 ![Image de Alec Guinness](https://upload.wikimedia.org/wikipedia/commons/0/0b/Sir_Alec_Guinness_Allan_Warren.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - permet aux navires d'éviter de contourner le Péloponnèse
 questions:
  - Quel canal de Grèce, permettant aux navires de petit tonnage...
+culture_g_score: 60
+culture_g_justification: "Ouvrage célèbre de la géographie grecque et de l’ingénierie, donnant quelques questions classiques mais assez ciblées."
 ---
-
-
 ![Image de Canal de Corinthe](https://upload.wikimedia.org/wikipedia/commons/5/5f/Corinth_Canal_bridge.jpg)
 
 ![[Carte_Canal de Corinthe.png]]

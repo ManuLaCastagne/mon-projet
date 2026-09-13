@@ -22,10 +22,9 @@ indice_6 :
   - Jurassic Park
 questions:
  - A quel compositeur doit-on la musique de Star Wars ?
+culture_g_score: 100
+culture_g_justification: "Compositeur de Star Wars, Jaws, E.T. et de nombreux thèmes célèbres, John Williams est un incontournable transversal des quiz musicaux et cinématographiques."
 ---
-
-
-
 ![Image de John Williams](https://upload.wikimedia.org/wikipedia/commons/a/a4/John_Williams_2024.jpg)
 
 ###### Questions

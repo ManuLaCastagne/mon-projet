@@ -20,9 +20,9 @@ indice_6 :
   - Asefa Estudiantes
 questions:
  - En 2021, quel club évoluant dans l'élite du basket français a remporté le 1er trophée européen de son histoire en battant Kazan en finale de l'Eurocoupe?
+culture_g_score: 48
+culture_g_justification: "Club de basket devenu visible grâce à ses succès européens récents, mais encore peu incontournable dans les quiz généralistes."
 ---
-
-
 ![Image de AS Monaco (basket)](https://upload.wikimedia.org/wikipedia/commons/b/b9/Anadolu_Efes_S.K._vs_AS_Monaco_Basket_-_Bormio_-_25_agosto_2019_-_27.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5 :
   - Buckeye State
 indice_6 : 
   - Akron
+culture_g_score: 60
+culture_g_justification: "État américain identifiable par le lac Érié, les frères Wright, Cleveland, l'industrie et plusieurs repères historiques, sans être prioritaire."
 ---
-
 ![[Carte_Ohio.png]]
 
 ###### Questions

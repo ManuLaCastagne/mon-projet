@@ -20,11 +20,9 @@ indice_6 :
   - Débarquement victorieux à Leyte
 questions:
  - En 1942, quel général américain déclare   "Je reviendrai", après avoir quitté les Philippines occupées par le Japon ?
+culture_g_score: 80
+culture_g_justification: "MacArthur est un grand classique de la Seconde Guerre mondiale et de la guerre de Corée, avec plusieurs repères militaires et politiques réutilisables."
 ---
-
-
-
-
 ![Image de MacArthur](https://upload.wikimedia.org/wikipedia/commons/0/0e/Douglas_MacArthur_lands_Leyte1.jpg)
 
 ###### Questions

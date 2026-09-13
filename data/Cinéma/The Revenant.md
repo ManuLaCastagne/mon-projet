@@ -22,8 +22,9 @@ indice_6 :
   - ours brutalement réaliste
 questions:
  - En 2016, pour quel film d'Alejandro Gonzalez Inarritu...
+culture_g_score: 80
+culture_g_justification: "Succès important associé à DiCaprio, Iñárritu, aux Oscars, à Hugh Glass et au thème de la survie."
 ---
-
 ![Image de The Revenant](https://upload.wikimedia.org/wikipedia/commons/8/87/For%C3%AAt_de_Cr%C3%A9cy_%28Somme%29_Le_Revenant_%282%29.JPG)
 
 ###### Questions

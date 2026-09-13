@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de mystère et d'intelligence
 questions:
  - Quel mollusque céphalopode, aux 8 bras munis de ventouses, se cache dans le creux des rochers pour surprendre ses proies?
+culture_g_score: 80
+culture_g_justification: "Animal marin mondialement célèbre pour son intelligence, son camouflage et ses particularités anatomiques, très rentable en quiz."
 ---
-
 ![Image de Pieuvre](https://upload.wikimedia.org/wikipedia/commons/3/32/Octopus_vulgaris_Merculiano.jpg)
 
 ###### Questions

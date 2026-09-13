@@ -13,8 +13,9 @@ indice_5:
   - Pain-de-pourceau
 indice_6:
   - Plante d'intérieur et ornementale
+culture_g_score: 44
+culture_g_justification: "Plante ornementale familière et associée à l’hiver, mais rarement interrogée sous des angles indépendants nombreux."
 ---
-
 ![Image de Cyclamen](https://upload.wikimedia.org/wikipedia/commons/c/c9/Cyclamen_coum_%28d.j.b.%29_02.jpg)
 
 ###### Questions

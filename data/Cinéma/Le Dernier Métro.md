@@ -22,8 +22,9 @@ indice_6 :
   - théâtre à Paris
 questions:
  - On vient d'entendre Rina Ketty  interpréter "Sombrero et mantilles", l'un de ses plus grands succès. En 1980, dans quel film de François Truffaut se déroulant pendant l'occupation et récompensé par 10 Cinéma/César,  pouvait-on entendre cette chanson?
+culture_g_score: 80
+culture_g_justification: "Film majeur de Truffaut, riche en repères sur l’Occupation, le théâtre, les César, Deneuve et l’histoire du cinéma français."
 ---
-
 ![Image de Le Dernier Métro](https://upload.wikimedia.org/wikipedia/commons/8/89/Battling_Butler_%281926%29.webm)
 
 ###### Questions

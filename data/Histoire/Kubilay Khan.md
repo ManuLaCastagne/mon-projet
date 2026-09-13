@@ -20,9 +20,9 @@ indice_6 :
   - capital à Khanbalik (Pékin)
 questions:
  - En 1275, devant quel empereur mongol Marco Polo s'incline-t-il lors de son voyage en Chine?
+culture_g_score: 71
+culture_g_justification: "Kubilay Khan permet d’aborder l’empire mongol, la Chine des Yuan, Marco Polo et les invasions du Japon, avec une fréquence toutefois inférieure à celle de Gengis Khan."
 ---
-
-
 ![Image de Kubilay Khan](https://upload.wikimedia.org/wikipedia/commons/8/8c/Burgos_De_Burt%2C_Carmen_-_4-21-1948_-_DPLA_-_8fb4ad1964991339cd877b3c81b10cd9.jpg)
 
 ###### Questions

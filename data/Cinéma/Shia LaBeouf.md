@@ -18,8 +18,9 @@ indice_5 :
   - American Honey
 indice_6 : 
   - Fury
+culture_g_score: 56
+culture_g_justification: "Acteur identifiable par Transformers et quelques films indépendants, mais d’importance culturelle encore modérée."
 ---
-
 ![Image de Shia LaBeouf](https://upload.wikimedia.org/wikipedia/commons/b/b3/Shia_Labeouf_2014.jpg)
 
 ###### Questions

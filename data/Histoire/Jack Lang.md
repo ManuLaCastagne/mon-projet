@@ -20,8 +20,9 @@ indice_6 :
   - président de l'Institut du monde arabe
 questions:
  - Homme politique 2 fois ministre de la Culture a été l'initiateur de la fête de la musique ?
+culture_g_score: 68
+culture_g_justification: "Personnalité française reliant politique, culture, Fête de la Musique et éducation nationale, avec une bonne réutilisabilité en quiz francophones."
 ---
-
 ![Image de Jack Lang](https://upload.wikimedia.org/wikipedia/commons/3/37/Jack_Lang_1946.jpg)
 
 ###### Questions

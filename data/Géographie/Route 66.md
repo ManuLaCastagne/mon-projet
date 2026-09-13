@@ -22,9 +22,9 @@ indice_6 :
   - Route mythique des États-Unis
 questions:
  - En 1955, sur quelle route mythique des Etats-Unis a-t-on inauguré, à hauteur d'Oklahoma City, un musée retraçant l'épopée de la conquête de l'Ouest?
+culture_g_score: 84
+culture_g_justification: "La Route 66 est une icône mondiale de la culture américaine, utile pour des questions de géographie, d’histoire, de migration et de culture populaire."
 ---
-
-
 ![Image de Route 66](https://upload.wikimedia.org/wikipedia/commons/7/7a/Amboy_%28California%2C_USA%29%2C_Hist._Route_66_--_2012_--_1.jpg)
 
 ![[Carte_Route 66.png]]

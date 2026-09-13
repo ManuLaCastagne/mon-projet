@@ -20,8 +20,9 @@ indice_6 :
   - franc fort
 questions:
  - Quel homme politique, disparu à Saint-Chamond en 1994 à presque 103 ans, a institué le franc lourd...
+culture_g_score: 48
+culture_g_justification: "Ancien président du Conseil et promoteur de l’emprunt Pinay, il est utile pour la IVe République mais reste peu mémorable."
 ---
-
 ![Image de Antoine Pinay](https://upload.wikimedia.org/wikipedia/commons/e/e9/Antoine_Pinay_1969.jpg)
 
 ###### Questions

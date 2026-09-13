@@ -22,8 +22,9 @@ indice_6 :
   - Les Lyonnais
 questions:
  - En 2011, à quel réalisateur et ancien policier doit-on le film "Les Lyonnais", inspiré de la véritable histoire du gang des Lyonnais ?
+culture_g_score: 52
+culture_g_justification: "Ancien policier devenu réalisateur, associé au polar français et à 36 Quai des Orfèvres, mais encore relativement périphérique en culture générale."
 ---
-
 ![Image de Olivier Marchal](https://upload.wikimedia.org/wikipedia/commons/d/d0/Olivier_Marchal_1.jpg)
 
 ###### Questions

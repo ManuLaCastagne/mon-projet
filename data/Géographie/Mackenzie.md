@@ -22,8 +22,9 @@ indice_6 :
   - Mont Logan
 questions:
  - En 1789, quel explorateur écossais découvre le fleuve du Canada qui porte désormais son nom?
+culture_g_score: 40
+culture_g_justification: "Grand fleuve canadien utile pour la géographie de l’Arctique et l’exploration, mais nettement moins fréquent que les grands fleuves mondiaux."
 ---
-
 ![Image de Mackenzie](https://upload.wikimedia.org/wikipedia/commons/6/62/Mackenzie_River_Outflow.jpg)
 
 ![[Carte_Mackenzie.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - Air
 questions:
  - Morceau de musique électronique figurant sur l'album "Discovery", modifié par le logiciel AutoTune...
+culture_g_score: 68
+culture_g_justification: "Titre emblématique de Daft Punk et de la French Touch, utile pour des questions sur l’électronique, l’album Discovery et le cinéma."
 ---
-
 ![Image de One More Time](https://upload.wikimedia.org/wikipedia/commons/7/79/Geological_time_spiral.png)
 
 ###### Questions

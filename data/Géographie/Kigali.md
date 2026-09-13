@@ -21,8 +21,9 @@ indice_5 :
   - développement rapide
 indice_6 : 
   - aéroport international
+culture_g_score: 60
+culture_g_justification: "Capitale du Rwanda régulièrement associée au génocide de 1994, à la reconstruction et à la géographie des Grands Lacs."
 ---
-
 ![Image de Kigali](https://upload.wikimedia.org/wikipedia/commons/1/1f/My_city_kigali.jpg)
 
 ![[Carte_Kigali.png]]

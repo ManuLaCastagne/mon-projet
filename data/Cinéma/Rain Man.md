@@ -18,8 +18,9 @@ indice_5 :
   - Hans Zimmer
 indice_6 : 
   - Las Vegas
+culture_g_score: 92
+culture_g_justification: "Succès mondial associé aux Oscars, à Dustin Hoffman, à Tom Cruise et à la représentation de l’autisme, ce qui le rend très quizable."
 ---
-
 ![Image de Rain Man](https://upload.wikimedia.org/wikipedia/commons/b/b2/Let_it_rain_on_me.jpg)
 
 ###### Questions

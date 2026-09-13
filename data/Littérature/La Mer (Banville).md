@@ -18,8 +18,9 @@ indice_5:
   - Deuil
 indice_6:
   - Prix Booker
+culture_g_score: 40
+culture_g_justification: "Roman distingué par le Booker Prize, mais John Banville et cette œuvre restent relativement peu connus du public francophone généraliste."
 ---
-
 ![Image de La Mer (roman)](https://upload.wikimedia.org/wikipedia/commons/7/78/Joseph_Defour_et_Cie_-_Les_Sauvages_de_la_Mer_Pacifique.jpg)
 
 ###### Questions

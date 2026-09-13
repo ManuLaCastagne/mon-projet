@@ -20,8 +20,9 @@ indice_6 :
   - Pape émérite
 questions:
  - En 2005, sous quel nom le cardinal Joseph Ratzinger devient-il pape?
+culture_g_score: 80
+culture_g_justification: "Pape contemporain très connu, associé à sa démission exceptionnelle, à Jean-Paul II et à plusieurs enjeux de l’Église moderne."
 ---
-
 ![Image de Benoît XVI](https://upload.wikimedia.org/wikipedia/commons/f/f9/CoA_Benedict_XVI_Florence.jpg)
 
 ###### Questions

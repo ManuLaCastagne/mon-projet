@@ -22,8 +22,9 @@ indice_6 :
   - Unchain My Heart
 questions:
  - Quel chanteur britannique à la voix rocailleuse, disparu en 2014, est l'interprète des tubes "You Can Leave Your Hat On" et "Unchain my heart" ?
+culture_g_score: 64
+culture_g_justification: "Chanteur très identifiable par Woodstock et plusieurs reprises célèbres, mais d’importance et de transversalité limitées au domaine musical."
 ---
-
 ![Image de Joe Cocker](https://upload.wikimedia.org/wikipedia/commons/3/39/Joe_Cocker_1.jpg)
 
 ###### Questions

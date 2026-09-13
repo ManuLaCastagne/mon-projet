@@ -13,8 +13,9 @@ indice_5:
   - Chien de Saint-Hubert
 indice_6:
   - Chien de chasse
+culture_g_score: 60
+culture_g_justification: "Race célèbre pour son flair exceptionnel, utile dans les questions sur les chiens, la chasse et les recherches de personnes."
 ---
-
 ![Image de Saint-Hubert](https://upload.wikimedia.org/wikipedia/commons/f/fe/Chapelle_Saint-Hubert_de_Bouvines_en_2014.jpg)
 
 ###### Questions

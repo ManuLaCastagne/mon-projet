@@ -22,8 +22,9 @@ indice_6 :
   - colorature
 questions:
  - En 2014, dans l'album "Saint-Petersburg", quelle mezzo-soprano italienne interprète des oeuvres jadis commandées par des impératrices?
+culture_g_score: 51
+culture_g_justification: "Mezzo-soprano majeure du répertoire baroque et bel canto, mais surtout connue des amateurs d’opéra et peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Cecilia Bartoli](https://upload.wikimedia.org/wikipedia/commons/c/c1/Cecilia_Bartoli_at_BOZAR_2007_Cropped.jpg)
 
 ###### Questions

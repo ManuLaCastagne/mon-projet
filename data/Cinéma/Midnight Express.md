@@ -22,9 +22,9 @@ indice_6 :
   - incarcération injuste
 questions:
  - En 1978, quel film d'Alan Parker avec Brad Davis ?
+culture_g_score: 77
+culture_g_justification: "Classique très identifiable du cinéma des années 1970, mobilisable sur Alan Parker, Oliver Stone, les Oscars, la Turquie et sa musique."
 ---
-
-
 ![Image de Midnight Express](https://upload.wikimedia.org/wikipedia/commons/2/29/The_Midnight_Express_1988.png)
 
 ###### Questions

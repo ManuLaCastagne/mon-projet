@@ -20,9 +20,9 @@ indice_6 :
   - Paris-Roubaix
 questions:
  - Quel cycliste néerlandais, petit-fils de Raymond Poulidor, a remporté un 4e titre mondial de cyclo-cross?
+culture_g_score: 60
+culture_g_justification: "Cycliste contemporain polyvalent et lié à la famille Poulidor, mais sa place dans la culture générale reste encore en construction."
 ---
-
-
 ![Image de Mathieu van der Poel](https://upload.wikimedia.org/wikipedia/commons/c/cc/Mathieu_van_der_Poel_%282016%29.jpg)
 
 ###### Questions

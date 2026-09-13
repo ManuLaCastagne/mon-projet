@@ -22,8 +22,9 @@ indice_5 :
   - stupas
 indice_6 : 
   - temples bouddhistes
+culture_g_score: 80
+culture_g_justification: "Capitale himalayenne fréquemment associée au Népal, à l’Everest, au bouddhisme, à l’hindouisme et au séisme de 2015."
 ---
-
 ![Image de Katmandou](https://upload.wikimedia.org/wikipedia/commons/c/c8/Kathmandu_Avion_01.JPG)
 
 ![[Carte_Katmandou.png]]

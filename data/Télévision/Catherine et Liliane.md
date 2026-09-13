@@ -20,8 +20,9 @@ indice_6 :
   - Costumes flamboyants
 questions:
  - Dans quel programme court humoristique des années 2010 Alex Lutz et Bruno Sanches...
+culture_g_score: 52
+culture_g_justification: "Duo humoristique identifiable de Canal+, avec quelques entrées par la satire et ses interprètes, mais une portée limitée."
 ---
-
 ![Image de Catherine et Liliane](https://upload.wikimedia.org/wikipedia/commons/4/4a/Catherine-liliane-dov1.jpg)
 
 ###### Questions

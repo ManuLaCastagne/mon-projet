@@ -20,8 +20,9 @@ indice_6 :
   - Château de Versailles
 questions:
  - Quel ancien journaliste sportif préside le Tour de France en 2014 ?
+culture_g_score: 56
+culture_g_justification: "Directeur du Tour de France identifiable dans le cyclisme francophone, mais moins important et transversal qu'un grand champion."
 ---
-
 ![Image de Christian Prudhomme](https://upload.wikimedia.org/wikipedia/commons/6/60/Christian_Prudhomme_%28Tour_de_l%27Avenir_2013%29.JPG)
 
 ###### Questions

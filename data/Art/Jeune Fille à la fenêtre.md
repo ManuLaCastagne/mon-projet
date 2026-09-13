@@ -23,9 +23,9 @@ indice_6 :
   - Gala vu de dos
 questions:
  - En 1925, dans quel tableau Salvador Dali représente-t-il sa soeur, de dos, regardant le ciel gris de Cadaqués qui surplombe la mer?
+culture_g_score: 31
+culture_g_justification: "Tableau intéressant de la période pré-surréaliste de Dalí, mais trop précis et peu fréquent en dehors des quiz spécialisés."
 ---
-
-
 ![Image de Jeune Fille à la fenêtre](https://upload.wikimedia.org/wikipedia/commons/a/a3/%22Jeune_fille_%C3%A0_la_fen%C3%AAtre%22.jpg)
 
 ###### Questions

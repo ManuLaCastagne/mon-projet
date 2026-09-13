@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de curiosité et vivacité
 questions:
  - Quel petit singe d'Amérique tropicale, voisin du tamarin…
+culture_g_score: 44
+culture_g_justification: "Petit primate reconnaissable et présent dans quelques questions animalières, mais assez peu central."
 ---
-
 ![Image de Ouistiti](https://upload.wikimedia.org/wikipedia/commons/9/9d/Callithrix_penicillata_-_Maroparque_02.jpg)
 
 ###### Questions

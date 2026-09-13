@@ -23,8 +23,9 @@ indice_6 :
   - isolation thermique naturelle
 questions:
  - De quel grand conifère, le seul des montagnes d'Europe à se dénuder en hiver, utilise-t-on le bois imputrescible pour la construction?
+culture_g_score: 36
+culture_g_justification: "Le mélèze est un matériau utile en architecture et en botanique, mais il constitue rarement une réponse de quiz généraliste."
 ---
-
 ![Image de Mélèze](https://upload.wikimedia.org/wikipedia/commons/4/49/Zostera_marina_Shikoku_Aquarium.jpg)
 
 ###### Questions

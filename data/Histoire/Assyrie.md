@@ -20,13 +20,9 @@ indice_6 :
   - écriture cunéiforme
 questions:
  - Quel empire mésopotmamien fut dirigé par Hannibal Lecter ?
+culture_g_score: 68
+culture_g_justification: "Empire majeur du Proche-Orient ancien, associé à Ninive, Assurbanipal et aux conquêtes, l’Assyrie est une connaissance antique assez rentable."
 ---
-
-
-
-
-
-
 ![Image de Assyrie](https://upload.wikimedia.org/wikipedia/commons/8/87/Assyrie_general_en.jpg)
 
 ###### Questions

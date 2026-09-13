@@ -22,8 +22,9 @@ indice_6:
 questions:
   - Dans quel roman de Victor Hugo un ancien bagnard...
   - Dans quel roman de Victor Hugo Fantine tombée malade à force de misère, est la mère de la jeune Cosette ?
+culture_g_score: 100
+culture_g_justification: "Roman mondialement incontournable, exploitable en littérature, histoire, société, personnages, adaptations et comédie musicale."
 ---
-
 ![Image de Les Misérables](https://upload.wikimedia.org/wikipedia/commons/c/c0/Les_Mis%C3%A9rables_-_titre.jpg)
 
 ###### Questions

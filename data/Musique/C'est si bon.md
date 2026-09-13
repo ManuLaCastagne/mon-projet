@@ -22,8 +22,9 @@ indice_6 :
   - Henri Betti
 questions:
  - En 1948, dans quelle chanson d'Yves Montand pour Louis Armstrong entend-on "bras dessus, bras dessous" ?
+culture_g_score: 77
+culture_g_justification: "Standard français et jazz international, régulièrement interrogé par son interprète, ses auteurs, ses reprises et son histoire."
 ---
-
 ![Image de C'est si bon](https://upload.wikimedia.org/wikipedia/commons/0/07/C%27est_Si_Bon_on_Palmetto_Ave.jpg)
 
 ###### Questions

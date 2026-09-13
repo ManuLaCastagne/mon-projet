@@ -22,8 +22,9 @@ indice_6 :
   - premier Africain à recevoir le Nobel de littérature
 questions:
  - En 1986, quel est cet écrivain nigérian, auteur de "Il te faudra partir à l'aube", 1er auteur africain à recevoir le Prix Nobel de littérature ?
+culture_g_score: 64
+culture_g_justification: "Premier écrivain africain nobélisé, il relie littérature, théâtre, histoire du Nigeria et guerre du Biafra, mais reste relativement spécialisé."
 ---
-
 ![Image de Wole Soyinka](https://upload.wikimedia.org/wikipedia/commons/f/f7/Wole_Soyinka_in_2018.jpg)
 
 ###### Questions

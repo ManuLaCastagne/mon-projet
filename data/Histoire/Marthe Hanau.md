@@ -20,8 +20,9 @@ indice_6 :
   - emprisonnée pour escroquerie
 questions:
  - Quelle femme d'affaires est inculpée pour escroquerie trois ans après avoir fondé "La Gazette du Franc et des Nations" ?
+culture_g_score: 40
+culture_g_justification: "Son scandale financier illustre l’histoire économique française, mais constitue un sujet de niche peu récurrent."
 ---
-
 ![Image de Marthe Hanau](https://upload.wikimedia.org/wikipedia/commons/d/d3/Marthe_Hanau_1935.png)
 
 ###### Questions

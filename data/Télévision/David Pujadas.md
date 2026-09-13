@@ -18,8 +18,9 @@ indice_5 :
   - a travaillé pour LCI
 indice_6 : 
   - né en 1964
+culture_g_score: 73
+culture_g_justification: "Ancien présentateur du journal de France 2, régulièrement interrogé à travers l’actualité, les médias et les émissions politiques."
 ---
-
 ![Image de David Pujadas](https://upload.wikimedia.org/wikipedia/commons/3/37/David_Pujadas_USA.jpg)
 
 ###### Questions

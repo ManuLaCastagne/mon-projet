@@ -21,8 +21,9 @@ indice_6:
   - 1869
 questions:
   - En 1871, qui a inventé la dynamo ?
+culture_g_score: 48
+culture_g_justification: "Inventeur important de la dynamo, mais principalement mobilisé dans des questions spécialisées d’histoire des techniques."
 ---
-
 ![Image de Zénobe Gramme](https://upload.wikimedia.org/wikipedia/commons/8/88/Z%C3%A9nobe_Gramme_1893.jpg)
 
 ###### Questions

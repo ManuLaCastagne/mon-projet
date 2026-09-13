@@ -20,12 +20,9 @@ indice_5:
   - adaptation séries télévisées
 indice_6:
   - analyse des relations conjugales
+culture_g_score: 67
+culture_g_justification: "Œuvre majeure de Bergman sur le couple et le divorce, offrant des liens avec le cinéma, la télévision et la psychologie des relations."
 ---
-
-
-
-
-
 ![Image de Scènes de la vie conjugale](https://upload.wikimedia.org/wikipedia/commons/e/e4/Sc%C3%A8nes_de_la_vie_priv%C3%A9e_des_animaux_%281900%29.pdf)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - chroniqueuse sur TPMP
 indice_6 : 
   - autobiographie Ma vie en réalité
+culture_g_score: 24
+culture_g_justification: "Personnalité récente de l'influence et de la téléréalité, dont la notoriété médiatique ne se traduit pas encore par une forte rentabilité quiz."
 ---
-
 ![Image de Magali Berdah](https://upload.wikimedia.org/wikipedia/commons/c/c5/Magali_Berdah%2C_December_2019-3.jpg)
 
 ###### Questions

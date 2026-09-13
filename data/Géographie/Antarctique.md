@@ -24,9 +24,9 @@ indice_6 :
   - krill
 questions:
  - Où le mont Erebus culmine-t-il à 3794 m d'altitude?
+culture_g_score: 100
+culture_g_justification: "Continent polaire incontournable pour l’exploration, le climat, les sciences, les records géographiques et les enjeux environnementaux."
 ---
-
-
 ![Image de Antarctique](https://upload.wikimedia.org/wikipedia/commons/e/e0/Antarctica_6400px_from_Blue_Marble.jpg)
 
 ![[Carte_Antarctique.png]]

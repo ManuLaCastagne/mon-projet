@@ -18,8 +18,9 @@ indice_6 :
   - associé à la [[mythologie grecque]]
 questions:
  - Quel héros crétois, réputé pour sa sagesse et sa justice devint après sa mort l'un des juges des enfers aux côtés d'Eaque et de Minos?
+culture_g_score: 40
+culture_g_justification: "Juge des Enfers grec associé à Minos et Éaque, Rhadamante est une figure intéressante mais trop spécialisée pour être prioritaire."
 ---
-
 ![Image de Rhadamante](https://upload.wikimedia.org/wikipedia/commons/5/5d/Rhadamante-Marionnette.jpg)
 
 ###### Questions

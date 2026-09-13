@@ -22,8 +22,9 @@ indice_6 :
   - Phil et Alan
 questions:
  - En 2009, pour quel film évoquant un enterrement de vie de garçon, avec Bradley Cooper...
+culture_g_score: 73
+culture_g_justification: "Comédie populaire mondiale facilement mobilisable par son casting, Las Vegas, Mike Tyson, son succès et ses récompenses."
 ---
-
 ![Image de Very Bad Trip](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bastiaan_has_a_bad_trip_after_drinking_DXM_-_Drugslab.webm)
 
 ###### Questions

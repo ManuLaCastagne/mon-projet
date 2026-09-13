@@ -23,8 +23,9 @@ indice_6 :
   - d'origine anglaise
 questions:
  - A quel peintre impressionniste britannique mort en 1899 doit-on "La Neige à Louveciennes" ?
+culture_g_score: 60
+culture_g_justification: "Impressionniste classique surtout connu pour ses paysages, mais moins célèbre et moins transversal que Monet, Renoir ou Degas."
 ---
-
 ![Image de Alfred Sisley](https://upload.wikimedia.org/wikipedia/commons/4/48/Bemberg_Fondation_Toulouse_-_Le_canal_du_Loing_-_Alfred_Sisley_1884_Inv.2086_38x55.jpg)
 
 ###### Questions

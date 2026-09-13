@@ -24,8 +24,9 @@ indice_6 :
   - climat équatorial
 questions:
  - Quelle ville située sur la côte nord-ouest de Java est la capitale  de l'Indonésie ?
+culture_g_score: 77
+culture_g_justification: "Capitale d’un grand pays asiatique, régulièrement mobilisée par la géographie, la démographie, l’histoire de l’Indonésie et les risques urbains."
 ---
-
 ![Image de Jakarta](https://upload.wikimedia.org/wikipedia/commons/2/21/Jakarta_old_football.jpg)
 
 ![[Carte_Jakarta.png]]

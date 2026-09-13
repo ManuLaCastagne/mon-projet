@@ -20,9 +20,9 @@ indice_6 :
   - Années 1980
 questions:
  - Golfeur espagnol comptant 94 victoires chez les professionnels, surnommé Seve, disparu en 2011...
+culture_g_score: 68
+culture_g_justification: "Légende du golf européen, associée aux Majeurs et à la Ryder Cup, mais moins fréquente dans les quiz généralistes que les figures anglo-américaines."
 ---
-
-
 ![Image de Severiano Ballesteros](https://upload.wikimedia.org/wikipedia/commons/1/1c/Seve_Ballesteros_by_Joe_Austen.JPG)
 
 ###### Questions

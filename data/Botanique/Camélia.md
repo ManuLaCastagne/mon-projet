@@ -15,8 +15,9 @@ indice_6:
   - Ornementales dans les jardins
 questions:
   - Arbuste dont les variétés Nicky Crips et Paolina Guichardini fleurissent vers le mois de février, je me plais dans les terres acides et riches en humus. Appartenant à la famille des théacées, je suis caractérisé par des feuilles...
+culture_g_score: 44
+culture_g_justification: "Arbuste ornemental connu et associé à la littérature ou au jardinage, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Camélia](https://upload.wikimedia.org/wikipedia/commons/a/a5/Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_%28actm.%29_01.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - animatrice de Téléshopping
 questions:
  - Qui comme Pierre Dhostel a animé le Téléachat ?
+culture_g_score: 28
+culture_g_justification: "Ancienne animatrice et Miss France, aujourd'hui relativement périphérique dans la culture générale et les quiz télévisés."
 ---
-
 ![Image de Valérie Pascale](https://upload.wikimedia.org/wikipedia/commons/d/d4/Val%C3%A9rie_Pascal_Miss-France_1986_%28cropped%29.jpg)
 
 ###### Questions

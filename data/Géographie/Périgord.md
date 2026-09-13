@@ -21,8 +21,9 @@ indice_5 :
   - Truffes noires
 indice_6 : 
   - Vallée de la Vézère
+culture_g_score: 71
+culture_g_justification: "Région française très riche en histoire, préhistoire, gastronomie et patrimoine, mais moins fréquemment ciblée qu’une grande ville ou un pays."
 ---
-
 ![[Carte_Périgord.png]]
 
 ###### Questions

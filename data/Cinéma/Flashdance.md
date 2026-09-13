@@ -20,9 +20,9 @@ indice_5:
   - Alex Owens
 indice_6:
   - concours de danse
+culture_g_score: 64
+culture_g_justification: "Film musical emblématique des années 1980, retenu pour sa chanson et son esthétique, mais d'importance cinématographique modérée."
 ---
-
-
 ![Image de Flashdance](https://upload.wikimedia.org/wikipedia/commons/8/87/Jan_delay_2013-6.jpg)
 
 ###### Questions

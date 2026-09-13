@@ -20,9 +20,9 @@ indice_6 :
   - Deuxième Guerre mondiale
 questions:
  - Elu président de la République l'année suivante après l'assassinat de Paul Doumer, je suis réélu en 1939 mais me retire après l'armistice et la formation du gouvernement de Vichy...
+culture_g_score: 56
+culture_g_justification: "Dernier président de la IIIe République, il apparaît dans les questions sur 1939-1940, mais sa notoriété personnelle demeure faible."
 ---
-
-
 ![Image de Albert Lebrun](https://upload.wikimedia.org/wikipedia/commons/5/5c/Albert_Lebrun_1937.jpg)
 
 ###### Questions

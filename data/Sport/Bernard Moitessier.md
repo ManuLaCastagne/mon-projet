@@ -20,9 +20,9 @@ indice_6 :
   - Tahiti
 questions:
  - En 1969, quel navigateur français renonce à la victoire alors qu'il est en tête de la 1re course autour du monde en solitaire sans escale?
+culture_g_score: 52
+culture_g_justification: "Navigateur rendu célèbre par son abandon du Golden Globe Challenge et son récit, sujet marquant mais relativement spécialisé."
 ---
-
-
 ![Image de Bernard Moitessier](https://upload.wikimedia.org/wikipedia/commons/4/49/Bernard_Moitessier_and_William_Rodarmor_on_Moitissier%27s_boat_Joshua_in_Tahiti_in_1971.jpg)
 
 ###### Questions

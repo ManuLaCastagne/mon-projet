@@ -20,8 +20,9 @@ indice_6 :
   - Attaquant
 questions:
  - Meilleur buteur de l'histoire de l'équipe nationale polonaise. Champion d'Europe 2020 avec le Bayern de Munich...
+culture_g_score: 77
+culture_g_justification: "Buteur polonais aux records spectaculaires, régulièrement interrogé sur la Bundesliga, le Bayern et les distinctions individuelles."
 ---
-
 ![Image de Lewandowski](https://upload.wikimedia.org/wikipedia/commons/a/ad/Robert_Lewandowski_2018_%28cropped%29.jpg)
 
 ###### Questions

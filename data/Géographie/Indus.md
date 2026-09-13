@@ -22,8 +22,9 @@ indice_6 :
   - cours sinueux
 questions:
  - Quel fleuve du monde indien donne son nom à une civilisation ancienne à laquelle appartient le site de Harappa ?
+culture_g_score: 68
+culture_g_justification: "Grand fleuve associé à la civilisation de l’Indus, au Pakistan, au Pendjab et à plusieurs repères historiques et géographiques."
 ---
-
 ![Image de Indus](https://upload.wikimedia.org/wikipedia/commons/b/b4/Indus_Valley_near_Leh.jpg)
 
 ![[Carte_Indus.png]]

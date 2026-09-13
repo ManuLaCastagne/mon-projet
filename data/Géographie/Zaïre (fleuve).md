@@ -21,8 +21,9 @@ indice_5 :
   - République démocratique du Congo
 indice_6 : 
   - Afrique centrale
+culture_g_score: 47
+culture_g_justification: "Ancienne appellation du Congo liée à Mobutu et à l’histoire du Zaïre, mais le nom précis du fleuve est peu fréquent."
 ---
-
 ![[Carte_Zaïre (fleuve).png]]
 
 ###### Questions

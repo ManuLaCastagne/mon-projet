@@ -22,8 +22,9 @@ indice_6 :
   - Pavane pour une infante défunte
 questions:
  - En 1930, quel compositeur français achève le "Concerto pour la main gauche", commandé par un pianiste invalide de guerre?
+culture_g_score: 88
+culture_g_justification: "Compositeur français incontournable, associé au Boléro, à l’orchestration, à la musique classique et à plusieurs repères biographiques."
 ---
-
 ![Image de Maurice Ravel](https://upload.wikimedia.org/wikipedia/commons/d/d6/Maurice_Ravel_-_Th%C3%A9r%C3%A8se_Dussaut_-_Pavane_pour_une_infante_d%C3%A9funte.ogg)
 
 ###### Questions

@@ -20,10 +20,9 @@ indice_6 :
   - 44 av. J.-C.
 questions:
  - Des grands familles menacées dans leurs privilèges. M'étant déroulé le 15 mars 44 avant notre ère et organisé par Cassius et Brutus.
+culture_g_score: 97
+culture_g_justification: "Événement emblématique de la Rome antique, les Ides de Mars et Brutus en font un marronnier majeur aux multiples prolongements historiques et culturels."
 ---
-
-
-
 ![Image de Assassinat de César](https://upload.wikimedia.org/wikipedia/commons/0/0a/Vincenzo_Camuccini%2C_The_Death_of_Julius_Caesar_%28detail%29.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - canaux navigables
 questions:
  - Dans les années 60, quelle station balnéaire a été construite par l'architecte François Spoerry à l'emplacement de marais et de dunes?
+culture_g_score: 51
+culture_g_justification: "Cité lacustre originale de la Côte d’Azur, principalement interrogée sous l’angle touristique et architectural."
 ---
-
 ![Image de Port-Grimaud](https://upload.wikimedia.org/wikipedia/commons/2/25/La_cit%C3%A9_lacustre_de_Port_Grimaud_%28Grimaud%2C_Var%29.jpg)
 
 ![[Carte_Port-Grimaud.png]]

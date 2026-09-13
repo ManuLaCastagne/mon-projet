@@ -22,9 +22,9 @@ indice_6 :
   - film de Dany Boon
 questions:
  - En 2016, dans quel film Dany Boon incarne-t-il un violoniste, dont le quotidien est soudain bouleversé par l'arrivée de sa fille dont je crois, il ne connaissait pas l'existence ?
+culture_g_score: 36
+culture_g_justification: "Comédie française récente surtout identifiable par Dany Boon et son thème de l’avarice, avec une portée quiz assez limitée."
 ---
-
-
 ![Image de Radin !](https://upload.wikimedia.org/wikipedia/commons/4/42/Andrea_Radin_%28Legavolley_2019%29.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - France 19e siècle
 questions:
  - Au XIXe, quelle expression imagée désignait les trains qui reliaient Paris à la mer du Nord ?
+culture_g_score: 40
+culture_g_justification: "Phénomène social intéressant de la révolution industrielle, mais peu connu et rarement exploitable au-delà de quelques questions."
 ---
-
-
 ![Image de Trains de plaisir](https://upload.wikimedia.org/wikipedia/commons/b/b9/Les_trains_de_plaisir.png)
 
 ###### Questions

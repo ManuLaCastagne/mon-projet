@@ -24,9 +24,9 @@ indice_6 :
   - capitale des Highlands
 questions:
  - Quelle ville d'Ecosse, capitale des highlands, est située au nord du Gridland près du débouché du Loch Ness ?
+culture_g_score: 60
+culture_g_justification: "Ville écossaise connue par les Highlands, le loch Ness voisin et la bataille de Culloden, mais d’importance internationale limitée."
 ---
-
-
 ![Image de Inverness](https://upload.wikimedia.org/wikipedia/commons/6/61/Shore_at_Longman_Point%2C_Inverness_-_geograph.org.uk_-_6725891.jpg)
 
 ![[Carte_Inverness.png]]

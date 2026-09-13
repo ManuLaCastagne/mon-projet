@@ -22,8 +22,9 @@ indice_6 :
   - Ascenseur de verre
 questions:
  - Roman publié en Angleterre en 1967, je mets en scène un jeune garçon pauvre nommé Bucket et sa famille. Récit dans lequel le héros, après avoir trouvé un ticket en or caché dans une confiserie, réalise son rêve de visiter une fabrique de chocolat...
+culture_g_score: 80
+culture_g_justification: "Classique mondial de la littérature jeunesse, renforcé par deux adaptations cinématographiques célèbres et de nombreux personnages distinctifs."
 ---
-
 ![Image de Charlie et la chocolaterie](https://upload.wikimedia.org/wikipedia/commons/7/71/Charlie_and_the_Chocolate_Factory_%281964%29_front_cover%2C_first_US_edition.jpg)
 
 ###### Questions

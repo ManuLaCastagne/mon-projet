@@ -23,8 +23,9 @@ indice_6 :
   - Académie royale de peinture et de sculpture
 questions:
  - Quel peintre qui a été le conservateur du Louvre sous le Directoire associe-t-on des tableaux sur lesquels figurent  des monuments en ruine ?
+culture_g_score: 47
+culture_g_justification: "Hubert Robert est un peintre français notable, surtout interrogé à travers ses ruines, Rome, la Révolution et le Louvre."
 ---
-
 ![Image de Hubert Robert](https://upload.wikimedia.org/wikipedia/commons/e/e2/Bemberg_Fondation_-_Paysage_au_pont_-_Hubert_ROBERT_44.5x54_Inv.1105.jpg)
 
 ###### Questions

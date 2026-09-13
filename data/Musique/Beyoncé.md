@@ -20,8 +20,9 @@ indice_5 :
   - Queen B
 indice_6 : 
   - Coachella
+culture_g_score: 84
+culture_g_justification: "Vedette mondiale régulièrement interrogée pour sa musique, Destiny’s Child, le cinéma, les récompenses et son influence culturelle."
 ---
-
 ![Image de Beyoncé](https://upload.wikimedia.org/wikipedia/commons/1/17/Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png)
 
 ###### Questions

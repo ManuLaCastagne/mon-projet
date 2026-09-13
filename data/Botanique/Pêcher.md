@@ -16,8 +16,9 @@ indice_6 :
 questions:
  - Quel arbre aux fleurs roses paraissant avant les feuilles, et dont le nom scientifique est Prunus persica, donne des fruits à la peau duveteuse?
  - Fruit d'un arbre pouvant être des variétés belle des Croix Rouges ou Fayette, je suis disponible sur les marchés essentiellement du mois de juin au mois d'août. Renfermant un noyau...
+culture_g_score: 56
+culture_g_justification: "Arbre fruitier connu, intéressant pour ses origines chinoises, sa culture et son fruit, mais modérément fréquent en quiz."
 ---
-
 ![Image de Pêcher](https://upload.wikimedia.org/wikipedia/commons/3/31/Prunus_persica_Bl%C3%BCten_20220327_01.jpg)
 
 ###### Questions

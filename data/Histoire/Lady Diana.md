@@ -20,8 +20,9 @@ indice_6 :
   - icône de mode
 questions:
  - En 1981, quelle Anglaise portait une robe à manches bouffantes assortie d'une très longue traîne lorsqu'elle a épousé le prince Charles?
+culture_g_score: 92
+culture_g_justification: "Lady Diana est une figure mondialement connue, fréquemment interrogée sur la monarchie britannique, l’humanitaire, les médias et sa mort à Paris."
 ---
-
 ![Image de Lady Diana](https://upload.wikimedia.org/wikipedia/commons/f/f3/Diana%2C_Princess_of_Wales_1997_%282%29_%28cropped%29.jpg)
 
 ###### Questions

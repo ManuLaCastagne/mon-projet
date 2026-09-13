@@ -20,11 +20,9 @@ indice_5:
   - surréalisme
 indice_6:
   - écrivain et cinéaste
+culture_g_score: 83
+culture_g_justification: "Artiste polyvalent lié à la poésie, au théâtre, au cinéma, à l’opéra et aux arts visuels, Cocteau offre de nombreux angles de questions."
 ---
-
-
-
-
 ![Image de Jean Cocteau](https://upload.wikimedia.org/wikipedia/commons/a/ae/Jean_Cocteau_b_Meurisse_1923.jpg)
 
 ###### Questions

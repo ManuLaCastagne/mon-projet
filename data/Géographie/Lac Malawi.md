@@ -21,8 +21,9 @@ indice_5 :
   - Cichlidés
 indice_6 : 
   - Rift est-africain
+culture_g_score: 52
+culture_g_justification: "Important lac du rift africain connu pour sa biodiversité et ses trois pays riverains, le lac Malawi reste toutefois peu fréquent dans les quiz généralistes."
 ---
-
 ![[Carte_Lac Malawi.png]]
 
 ###### Questions

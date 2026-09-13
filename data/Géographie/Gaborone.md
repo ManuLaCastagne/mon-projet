@@ -22,9 +22,9 @@ indice_5 :
   - près de la frontière sud-africaine
 indice_6 : 
   - rivière Notwane
+culture_g_score: 60
+culture_g_justification: "Capitale africaine utile pour situer le Botswana et quelques institutions régionales, sans être une référence mondiale majeure."
 ---
-
-
 ![Image de Gaborone](https://upload.wikimedia.org/wikipedia/commons/e/e8/Gaborone_Main_Mall_20200211.jpg)
 
 ![[Carte_Gaborone.png]]

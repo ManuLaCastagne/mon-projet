@@ -20,8 +20,9 @@ indice_6 :
   - Normandie
 questions:
  - Dans le Yorkshire.  Rattachée à la 3e armée du général Patton, j'ai pour insigne une croix de Lorraine sur la carte de France. Unité militaire française commandée par le général Leclerc, j'ai...
+culture_g_score: 77
+culture_g_justification: "Unité emblématique de la France libre et de la Libération, régulièrement interrogée à travers Leclerc, Paris, Strasbourg et la Seconde Guerre mondiale."
 ---
-
 ![Image de Deuxième division blindée](https://upload.wikimedia.org/wikipedia/commons/b/bd/All%C3%A9e_Deuxi%C3%A8me_Division_Blind%C3%A9e_-_Paris_XV_%28FR75%29_-_2021-08-01_-_4.jpg)
 
 ###### Questions

@@ -23,6 +23,7 @@ indice_6 :
 questions:
  - Quelle violoncelliste française ayant reçu une Victoire de la musique classique en 1994 qui doit son nom à un toponyme désignant une terre en friche ?
 culture_g_score: 31
+culture_g_justification: "Anne Gastinel est une interprète reconnue du violoncelle français, mais son profil demeure très spécialisé."
 ---
 ![Image de Anne Gastinel](https://upload.wikimedia.org/wikipedia/commons/8/8f/FolleJourn%C3%A9e2009_AnneGastinel.jpg)
 

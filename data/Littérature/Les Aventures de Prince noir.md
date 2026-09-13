@@ -22,8 +22,9 @@ indice_6 :
   - narrateur équin
 questions:
  - Racontant à la première personne la vie d'un animal, je relate les épreuves d'un poulain qui, en grandissant, doit notamment conduire un fiacre londonien. Roman ayant pour héros un cheval...
+culture_g_score: 60
+culture_g_justification: "Classique durable de la littérature jeunesse et de la cause animale, mais d’une portée quiz plus limitée que les grands romans anglophones."
 ---
-
 ![Image de Les Aventures de Prince noir](https://upload.wikimedia.org/wikipedia/commons/8/8a/Le_Cadran_de_la_volupt%C3%A9_ou_les_Aventures_de_Ch%C3%A9rubin.djvu)
 
 ###### Questions

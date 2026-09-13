@@ -22,9 +22,9 @@ indice_6 :
   - adaptation de roman
 questions:
  - Marqué par l'effondrement d'un téléphérique destiné à exploiter une mine de lignite en Crète, je dois mon titre au personnage exubérant interprété par Anthony Quinn. Film de Michael Cacoyannis pour lequel fut inventé le sirtaki que les 2 héros dansent à la fin dans une scène mythique.
+culture_g_score: 80
+culture_g_justification: "Classique international lié à Anthony Quinn, au sirtaki, à la Grèce, à Kazantzákis et à une musique célèbre."
 ---
-
-
 ![Image de Zorba le Grec](https://upload.wikimedia.org/wikipedia/commons/3/38/Headshot_of_the_actor_Sir_Alan_Bates_%281960s%29.jpg)
 
 ###### Questions

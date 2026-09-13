@@ -20,9 +20,9 @@ indice_5:
   - Le Tout Nouveau Testament
 indice_6:
   - acteur belge
+culture_g_score: 76
+culture_g_justification: "Acteur belge très identifiable par C'est arrivé près de chez vous, ses comédies françaises et son registre iconoclaste."
 ---
-
-
 ![Image de Benoît Poelvoorde](https://upload.wikimedia.org/wikipedia/commons/5/57/Beno%C3%AEtPoelvoorde.jpg)
 
 ###### Questions

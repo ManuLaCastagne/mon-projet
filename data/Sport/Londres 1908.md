@@ -20,9 +20,9 @@ indice_5 :
   - Edward VII
 indice_6 : 
   - drapeau olympique absents
+culture_g_score: 64
+culture_g_justification: "Édition olympique marquante pour le marathon et le tir à la corde, mais moins connue que les grands Jeux contemporains."
 ---
-
-
 ![Image de Londres 1908](https://upload.wikimedia.org/wikipedia/commons/2/2b/JO_Londres_1908_-_m%C3%A9daille_d%27argent.jpg)
 
 ###### Questions

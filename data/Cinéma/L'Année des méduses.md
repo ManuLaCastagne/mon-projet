@@ -22,6 +22,8 @@ indice_6:
   - musique de Pierre Bachelet
 questions:
   - Quel film de 1984 de Christopher Frank avec Bernard Giraudeau et Caroline Cellier sur une belle plage de la Côte d'Azur ?
+culture_g_score: 31
+culture_g_justification: "Drame français connu surtout des cinéphiles et associé à quelques acteurs et à une controverse, avec un rendement quiz faible."
 ---
 ![[Pasted image 20250416133556.png]]
 ###### Questions

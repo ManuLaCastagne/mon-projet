@@ -22,8 +22,9 @@ indice_5 :
   - Ventnor Botanic Garden
 indice_6 : 
   - Solent
+culture_g_score: 60
+culture_g_justification: "Île anglaise régulièrement associée à Victoria, au festival musical de 1970 et à ses découvertes paléontologiques."
 ---
-
 ![[Carte_île de Wight.png]]
 
 ###### Questions

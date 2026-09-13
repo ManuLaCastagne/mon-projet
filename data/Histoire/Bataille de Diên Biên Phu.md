@@ -20,8 +20,9 @@ indice_6 :
   - fin colonisation française
 questions:
  - Bataille ayant débuté un 13 mars  et m'étant achevée un 7 mai, j'ai vu la capture de 10 300 soldats français.  Suivie par les accords de Genève, j'ai mis aux prises les forces du colonel de Castries et celles du général Vô Nguyên Giap. Bataille livrée en 1954...
+culture_g_score: 80
+culture_g_justification: "Défaite française décisive en Indochine, directement liée à la décolonisation, à Giáp et aux accords de Genève."
 ---
-
 ![Image de Bataille de Diên Biên Phu](https://upload.wikimedia.org/wikipedia/commons/6/6f/Bataille_Dien_bien_phu_05769.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Course au large
 questions:
  - En 2015, quel navigateur français remporte pour la 3e fois la Solitaire du Figaro ?
+culture_g_score: 40
+culture_g_justification: "Navigateur français connu dans le milieu de la course au large, avec une présence limitée dans les quiz généralistes."
 ---
-
 ![Image de Yann Eliès](https://upload.wikimedia.org/wikipedia/commons/3/3d/Yann_Eli%C3%A8s_Figaro_2012_Paimpol.JPG)
 
 ###### Questions

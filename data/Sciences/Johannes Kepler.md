@@ -20,8 +20,9 @@ indice_6 :
   - Harmonices Mundi
 questions:
  - Scientifique allemand connu pour avoir donné mon nom aux 3 lois fondamentales qui régissent le mouvement des planètes...
+culture_g_score: 84
+culture_g_justification: "Kepler est un grand classique de l’astronomie et de la révolution scientifique grâce à ses lois, Tycho Brahe et les orbites elliptiques."
 ---
-
 ![Image de Johannes Kepler](https://upload.wikimedia.org/wikipedia/commons/d/d4/Keplers_supernova.jpg)
 
 ###### Questions

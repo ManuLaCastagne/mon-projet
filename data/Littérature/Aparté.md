@@ -22,8 +22,9 @@ indice_6 :
   - fiction
 questions:
  - Procédé théâtral utilisé par Marivaux à la fin de l'acte 2 de "La Surprise de l'amour" quand Colombine dit  "Oh! Notre amour se fait grand", j'étais fréquent chez les auteurs classiques.
+culture_g_score: 65
+culture_g_justification: "Terme théâtral classique et utile pour reconnaître des procédés de dramaturgie, sans être un marronnier majeur."
 ---
-
 ![Image de Aparté](https://upload.wikimedia.org/wikipedia/commons/7/7c/PtoAparte_El_Trebol.jpg)
 
 ###### Questions

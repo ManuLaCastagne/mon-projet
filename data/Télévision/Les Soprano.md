@@ -20,8 +20,9 @@ indice_6 :
   - HBO
 questions:
  - Quelle série télévisée américaine  lancée en France en 1999 met en scène un parrain de la mafia qui suit une psychanalyse ?
+culture_g_score: 88
+culture_g_justification: "Série majeure de l'histoire de la télévision, incontournable pour la fiction américaine, la mafia, HBO, ses acteurs et sa fin célèbre."
 ---
-
 ![Image de Les Soprano](https://upload.wikimedia.org/wikipedia/commons/3/3d/Grace_Le_Page%2C_soprano.png)
 
 ###### Questions

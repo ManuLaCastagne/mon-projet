@@ -23,9 +23,9 @@ indice_6 :
   - carrière internationale
 questions:
  - Ayant incarné Basilio dans le ballet "Don Quichotte" et Vaslav Nijinski dans une création de John Neumeier, j'ai eu notamment pour partenaire Sylvie Guillem et Marie-Claude...
+culture_g_score: 52
+culture_g_justification: "Patrick Dupond est une figure reconnue de la danse française et de la télévision, mais son intérêt quiz reste assez circonscrit."
 ---
-
-
 ![Image de Patrick Dupond](https://upload.wikimedia.org/wikipedia/commons/b/b0/DUPOND_Patrick-24x30-1994.jpg)
 
 ###### Questions

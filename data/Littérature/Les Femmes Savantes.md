@@ -22,8 +22,9 @@ indice_6 :
   - pièce de théâtre
 questions:
  - Lorsqu'elle est congédiée pour avoir malmené la grammaire. Me moquant des prétentions au savoir incohérentes de Philaminte.
+culture_g_score: 77
+culture_g_justification: "Comédie classique de Molière régulièrement citée pour sa satire sociale, ses personnages et le théâtre du XVIIe siècle."
 ---
-
 ![Image de Les Femmes Savantes](https://upload.wikimedia.org/wikipedia/commons/8/8a/LesFemmesSavantes.jpg)
 
 ###### Questions

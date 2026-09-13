@@ -22,8 +22,9 @@ indice_6 :
   - écrivain contemporain
 questions:
  - A quel écrivain japonais, auteur de "Kafka sur le rivage", doit-on le roman "Au sud de la frontière, à l'ouest du soleil"...
+culture_g_score: 68
+culture_g_justification: "Écrivain japonais mondialement reconnu, utile pour la littérature contemporaine, le réalisme magique, la traduction et la culture japonaise."
 ---
-
 ![Image de Haruki Murakami](https://upload.wikimedia.org/wikipedia/commons/e/ee/Haruki_Murakami_2018.jpg)
 
 ###### Questions

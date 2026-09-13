@@ -18,8 +18,9 @@ indice_5 :
   - conversion au christianisme
 indice_6 : 
   - épouse Clotilde
+culture_g_score: 97
+culture_g_justification: "Fondateur symbolique de la monarchie française, Clovis est incontournable pour la conversion des Francs, les Mérovingiens et la formation du royaume."
 ---
-
 ![Image de Clovis](https://upload.wikimedia.org/wikipedia/commons/6/67/Aerial_view_of_Clovis%2C_New_Mexico_skyline.jpg)
 
 ###### Questions

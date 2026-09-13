@@ -20,8 +20,9 @@ indice_6 :
   - Hall of Fame
 questions:
  - Quel golfeur australien, né en 1955, vainqueur à 2 reprises du British Open, a été surnommé le Grand Requin blanc ?
+culture_g_score: 51
+culture_g_justification: "Golfeur australien de premier plan, surtout interrogé sur le Masters 1996, le British Open et son surnom, avec une portée généraliste limitée."
 ---
-
 ![Image de Greg Norman](https://upload.wikimedia.org/wikipedia/commons/d/dc/Greg_Norman%2C_Open_2008_%282%29.jpg)
 
 ###### Questions

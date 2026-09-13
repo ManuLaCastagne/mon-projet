@@ -22,8 +22,9 @@ indice_6 :
   - 24 heures
 questions:
  - En 1997, dans quelle comédie Jim Carrey incarne-t-il un avocat qui cesse de mentir pendant 24h ?
+culture_g_score: 72
+culture_g_justification: "Comédie très connue de Jim Carrey, mais dont les questions restent principalement centrées sur son intrigue et sa distribution."
 ---
-
 ![Image de Menteur menteur](https://upload.wikimedia.org/wikipedia/commons/6/6d/Corneille-Le_Menteur_Illustration.jpg)
 
 ###### Questions

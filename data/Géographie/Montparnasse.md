@@ -21,8 +21,9 @@ indice_5 :
   - Fondation Cartier pour l'art contemporain
 indice_6 : 
   - Le Dôme Café
+culture_g_score: 80
+culture_g_justification: "Quartier parisien très rentable grâce à sa tour, sa gare, son cimetière et son rôle dans la vie artistique et littéraire."
 ---
-
 ![[Carte_Montparnasse.png]]
 
 ###### Questions

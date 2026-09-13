@@ -24,14 +24,9 @@ indice_6 :
   - cathédrale de Syracuse
 questions:
  - n 63, quelle chanson de Bernard Dimey, interprétée notamment par Henri Salvador, a pour titre une ville de Sicile?
+culture_g_score: 80
+culture_g_justification: "Grande cité grecque puis romaine, fréquemment reliée à Archimède, à la Sicile, à l'Antiquité et au patrimoine de l'UNESCO."
 ---
-
-
-
-
-
-
-
 ![Image de Syracuse](https://upload.wikimedia.org/wikipedia/commons/d/d7/Syracuse_NY.jpg)
 
 ![[Carte_Syracuse.png]]

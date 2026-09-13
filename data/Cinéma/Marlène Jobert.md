@@ -22,8 +22,9 @@ indice_6 :
   - film Le hasard et la violence
 questions:
  - Fin 2020, quelle actrice a revisité l'histoire de "La Belle et la Bête", dans un livre audio enregistré avec sa fille Eva Green?
+culture_g_score: 60
+culture_g_justification: "Actrice française populaire, surtout utile par quelques films, sa carrière d’autrice et sa famille artistique."
 ---
-
 ![Image de Marlène Jobert](https://upload.wikimedia.org/wikipedia/commons/b/bb/MarleneJobert-Italie-1978.png)
 
 ###### Questions

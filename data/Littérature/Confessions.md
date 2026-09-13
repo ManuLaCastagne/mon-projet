@@ -22,8 +22,9 @@ indice_6 :
   - IVe siècle
 questions:
  - Evoque l'abandon de ses enfants. Première grande autobiographie des temps modernes, oeuvre de Jean-Jacques Rousseau, où il évoque l'abandon de ses enfants.
+culture_g_score: 89
+culture_g_justification: "Texte fondateur de l’autobiographie moderne, très rentable pour Rousseau, les Lumières, la philosophie et l’histoire littéraire."
 ---
-
 ![Image de Confessions](https://upload.wikimedia.org/wikipedia/commons/c/ce/Basel%2C_Universit%C3%A4tsbibliothek%2C_A_IV_4%2C_f._1r_%E2%80%93_Aurelius_Augustinus%2C_Confessiones.JPG)
 
 ###### Questions

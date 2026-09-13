@@ -20,8 +20,9 @@ indice_6 :
   - Seconde loi de la thermodynamique
 questions:
  - Quel physicien français, né en 1796, a laissé son nom à un principe constituant le 2e principe de la thermodynamique?
+culture_g_score: 80
+culture_g_justification: "Physicien classique de l’histoire des sciences, fréquemment associé à la thermodynamique, aux machines à vapeur et au cycle de Carnot."
 ---
-
 ![Image de Sadi Carnot](https://upload.wikimedia.org/wikipedia/commons/3/33/Tramway_Marseille_Sadi_Carnot_1.JPG)
 
 ###### Questions

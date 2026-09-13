@@ -23,10 +23,9 @@ indice_6:
 questions:
   - Film français sorti en 1938,  adapté d'un roman d'Eugène Dabit, j'ai été tourné dans un décor reconstitué en studio. 
   - Débutant par un repas de communion et l'histoire d'amour impossible entre 2 jeunes gens, je me déroule principalement dans un immeuble du canal Saint-Martin, à Paris.
+culture_g_score: 68
+culture_g_justification: "Classique du réalisme poétique français, surtout connu par Arletty, Marcel Carné et sa réplique emblématique."
 ---
-
-
-
 ![Image de Hôtel du Nord](https://upload.wikimedia.org/wikipedia/commons/7/7f/H%C3%B4tel_du_Nord_19_January_2013.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5IT0Tv2f4WZcbjdUJtbkNb" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

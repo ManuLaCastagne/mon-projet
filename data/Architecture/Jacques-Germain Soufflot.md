@@ -23,8 +23,9 @@ indice_6 :
   - influence de l'Italie
 questions:
  - A partir de 1764 à Paris, quel architecte né près d'Auxerre entreprend la construction de l'église Sainte-Geneviève, futur Panthéon ?
+culture_g_score: 77
+culture_g_justification: "Soufflot est solidement associé au Panthéon et au néoclassicisme français, ce qui en fait un nom régulièrement exploitable dans les quiz."
 ---
-
 ![Image de Jacques-Germain Soufflot](https://upload.wikimedia.org/wikipedia/commons/8/82/Jacques-Germain_Soufflot_%281713_-1780%29.jpg)
 
 ###### Questions

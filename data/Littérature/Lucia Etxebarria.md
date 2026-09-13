@@ -22,9 +22,9 @@ indice_6 :
   - féminisme
 questions:
  - En 2017, quelle femme de lettres espagnole a publié "Le Don empoisonné de la folie", 20 ans après "Amour, Prozac et autre curiosités"?
+culture_g_score: 32
+culture_g_justification: "Romancière espagnole contemporaine reconnue dans son pays, mais peu rentable dans un entraînement généraliste francophone."
 ---
-
-
 ![Image de Lucia Etxebarria](https://upload.wikimedia.org/wikipedia/commons/4/40/Lucia_Etxebarria1.jpg)
 
 ###### Questions

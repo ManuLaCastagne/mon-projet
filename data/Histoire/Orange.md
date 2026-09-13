@@ -20,8 +20,9 @@ indice_6 :
   - Roi des Pays-Bas
 questions:
  - En 2004, quelle couleur est devenue le symbole de la révolution ukrainienne...
+culture_g_score: 60
+culture_g_justification: "Ville française connue pour son théâtre antique et son héritage romain, avec une présence régulière mais modérée dans les quiz."
 ---
-
 ![Image de Orange](https://upload.wikimedia.org/wikipedia/commons/e/e3/Oranges_-_whole-halved-segment.jpg)
 
 ###### Questions

@@ -21,6 +21,7 @@ indice_6:
 culture_g_score: 64
 culture_g_justification: "Site maya majeur associé à Pakal et au patrimoine mondial, mais moins incontournable que Chichén Itzá ou Tikal."
 ---
+
 ![Image de Palenque](https://upload.wikimedia.org/wikipedia/commons/8/8a/PalenqueLetters2020p2.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ En 1952, dans quelle cité maya Alberto Ruz Lhuillier découvre-t-il la chambre 
 
 Quel site archéologique [[maya]] a révélé la tombe du roi [[Pakal]], découverte en [[1952]], dans le [[Temple des Inscriptions]] ?
 
-Quelle cité-état [[maya]], située dans l'actuel [[Chiapas]], a été l'une des plus puissantes pendant la période [[classique]] entre [[600]] et [[750]] apr. J.-C. ?
+Quelle cité-état [[maya]], située dans l'actuel [[Chiapas]], a été l'une des plus puissantes pendant la période [[classique]] entre [[600]] et [[750]] apr. J.-C. ? <!-- score: 4 -->
 
 Quel ancien site culturel a été intégré à la liste du [[patrimoine mondial]] de l'[[UNESCO]] en [[1987]], notamment célèbre pour ses sculptures et architectures complexes ?
 

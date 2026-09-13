@@ -22,10 +22,9 @@ indice_5 :
   - Plage de Ker Châlon
 indice_6 : 
   - Saint-Sauveur
+culture_g_score: 40
+culture_g_justification: "Île française identifiable par Pétain et quelques repères historiques ou géographiques, sans forte fréquence de quiz."
 ---
-
-
-
 ![[Carte_Île d'Yeu.png]]
 
 ###### Questions

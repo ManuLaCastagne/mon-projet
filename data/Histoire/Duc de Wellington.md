@@ -20,8 +20,9 @@ indice_6 :
   - Iron Duke
 questions:
  - Je suis connu pour avoir remporté la bataille de Waterloo contre Napoléon.
+culture_g_score: 97
+culture_g_justification: "Vainqueur de Waterloo, général majeur des guerres napoléoniennes et Premier ministre britannique, il est extrêmement rentable à connaître."
 ---
-
 ![Image de Duc de Wellington](https://upload.wikimedia.org/wikipedia/commons/8/83/Portrait_of_Le_Duc_de_Wellington_%284672136%29.jpg)
 
 ###### Questions

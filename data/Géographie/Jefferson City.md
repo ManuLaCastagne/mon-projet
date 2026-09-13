@@ -22,9 +22,9 @@ indice_5 :
   - Cole County
 indice_6 : 
   - Midwest
+culture_g_score: 40
+culture_g_justification: "Capitale administrative du Missouri utile pour une question de capitales américaines, mais très peu connue et peu transversale."
 ---
-
-
 ![[Carte_Jefferson City.png]]
 
 ###### Questions

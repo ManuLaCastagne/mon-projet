@@ -20,9 +20,9 @@ indice_6 :
   - chaîne Antenne 2
 questions:
  - De 80 à 98, quelle émission, intégrant "Incroyable mais vrai", associait, dans son titre, un jour de la semaine au nom de son animateur?
+culture_g_score: 52
+culture_g_justification: "Émission familiale importante dans l’histoire de la télévision française, mais aujourd’hui surtout connue pour des repères rétrospectifs."
 ---
-
-
 ![Image de Dimanche Martin](https://upload.wikimedia.org/wikipedia/commons/0/04/Le_Gaulois_du_dimanche%2C_6e_ann%C3%A9e%2C_N%C2%B0239%2C_15-16_f%C3%A9vrier_1902%2C_2017.0.3902%282%29.jpg)
 
 ###### Questions

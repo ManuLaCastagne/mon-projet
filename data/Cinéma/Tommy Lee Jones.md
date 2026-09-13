@@ -18,7 +18,8 @@ indice_5 :
   - Space Cowboys
 indice_6 : 
   - Lincoln
-culture_g_score: 84
+culture_g_score: 80
+culture_g_justification: "Acteur majeur associé à Men in Black, Le Fugitif, aux Oscars et à plusieurs films américains emblématiques."
 ---
 ![Image de Tommy Lee Jones](https://upload.wikimedia.org/wikipedia/commons/4/4f/Tommy_Lee_Jones_2017.jpg)
 

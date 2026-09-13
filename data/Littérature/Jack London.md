@@ -20,8 +20,9 @@ indice_5 :
   - écrivain américain
 indice_6 : 
   - ruée vers l'or
+culture_g_score: 80
+culture_g_justification: "Auteur de L’Appel de la forêt et de Croc-Blanc, Jack London ouvre des questions sur l’aventure, le Klondike, le socialisme et la littérature américaine."
 ---
-
 ![Image de Jack London](https://upload.wikimedia.org/wikipedia/commons/2/2d/Jack_London_young.jpg)
 
 ###### Questions

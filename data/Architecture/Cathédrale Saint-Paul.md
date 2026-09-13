@@ -23,8 +23,9 @@ indice_6 :
   - trois tours
 questions:
  - Quelle cathédrale, dominant dès 1710 la City de Londres, est surmontée d'un dôme ceinturé d'une colonnade?
+culture_g_score: 77
+culture_g_justification: "Monument majeur de Londres associé à Wren, à l’histoire britannique et à plusieurs événements célèbres."
 ---
-
 ![Image de Cathédrale Saint-Paul](https://upload.wikimedia.org/wikipedia/commons/7/7d/Cath%C3%A9drale_Saint-Paul-Aur%C3%A9lien_Saint-Pol-de-L%C3%A9on.jpg)
 
 ###### Questions

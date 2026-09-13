@@ -20,8 +20,9 @@ indice_6 :
   - Monfils
 questions:
  - Wimbledon, où j'ai été le 1er Français à disputer une finale depuis 1946 donc ça n'est pas rien. J'ai également gagné 2 fois la Coupe Davis. Ayant mis un terme à ma carrière en 2002…
+culture_g_score: 60
+culture_g_justification: "Tennisman français régulièrement cité pour ses deux finales de Grand Chelem et ses succès en Coupe Davis."
 ---
-
 ![Image de Cédric Pioline](https://upload.wikimedia.org/wikipedia/commons/0/0f/C%C3%A9dric_Pioline_at_the_2010_US_Open_02.jpg)
 
 ###### Questions

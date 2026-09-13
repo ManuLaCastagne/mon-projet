@@ -24,8 +24,9 @@ indice_6 :
   - arcades élégantes
 questions:
  - Quelle place, anciennement appelée place royale, inaugurée...
+culture_g_score: 68
+culture_g_justification: "Monument urbain parisien majeur, lié à l’histoire royale, à l’architecture et à Victor Hugo, mais d’usage quiz relativement ciblé."
 ---
-
 ![Image de Place des Vosges](https://upload.wikimedia.org/wikipedia/commons/8/82/Place_des_Vosges%2C_Paris%2C_porte_du_n%C2%B0_15.JPG)
 
 ![[Carte_Place des Vosges.png]]

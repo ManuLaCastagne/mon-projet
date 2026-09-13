@@ -22,8 +22,9 @@ indice_6 :
   - Ang Lee
 questions:
  - Et le cottage de Barton. Avec Emma Thompson et Kate Winslet, je montre les réactions différentes de 2 soeurs, Elinor et Marianne Dashwood, face à l'amour. Film d'Ang Lee adapté d'un roman...
+culture_g_score: 80
+culture_g_justification: "Adaptation prestigieuse de Jane Austen, exploitable via Ang Lee, Emma Thompson, Kate Winslet, les Oscars et la littérature anglaise."
 ---
-
 ![Image de Raison et sentiments](https://upload.wikimedia.org/wikipedia/commons/9/96/SenseAndSensibilityTitlePage.jpg)
 
 ###### Questions

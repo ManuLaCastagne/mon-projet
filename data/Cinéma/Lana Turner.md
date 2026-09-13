@@ -20,9 +20,9 @@ indice_5:
   - actrice des années 1940 et 1950
 indice_6:
   - scandale avec Johnny Stompanato
+culture_g_score: 71
+culture_g_justification: "Grande actrice hollywoodienne liée au film noir, à Bogart et à un fait divers célèbre, mais moins centrale que les icônes absolues du cinéma."
 ---
-
-
 ![Image de Lana Turner](https://upload.wikimedia.org/wikipedia/commons/7/76/Lana_Turner_1940s_portrait.jpg)
 
 ###### Questions

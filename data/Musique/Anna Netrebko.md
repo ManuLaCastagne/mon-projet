@@ -22,9 +22,9 @@ indice_6 :
   - carrière internationale
 questions:
  - En 2020, aux Victoires de la musique classique, à quelle soprano russe a-t-on décerné une victoire d'honneur pour l'ensemble...
+culture_g_score: 51
+culture_g_justification: "Anna Netrebko est une soprano importante de l’opéra contemporain, mais sa spécialisation limite sa fréquence généraliste."
 ---
-
-
 ![Image de Anna Netrebko](https://upload.wikimedia.org/wikipedia/commons/4/4f/Anna_Netrebko_-_Romy_2013_a.jpg)
 
 ###### Questions

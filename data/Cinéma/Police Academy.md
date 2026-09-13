@@ -22,8 +22,9 @@ indice_6 :
   - série de films des années 80
 questions:
  - En 1984, dans quelle comédie américaine suit-on les aventures du turbulent Carey Mahoney, dans une école destinée à former de futurs policiers?
+culture_g_score: 73
+culture_g_justification: "Série de comédies très connue, régulièrement interrogée par ses personnages, ses acteurs, ses suites et son succès populaire."
 ---
-
 ![Image de Police Academy](https://upload.wikimedia.org/wikipedia/commons/7/73/Philippine_National_Police_Academy_Logo.png)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Tournoi de judo de Paris
 questions:
  - En 2011, dans quel quartier de Paris, abritant également le ministère de l'Economie, sont organisés les championnats d'Europe en salle?
+culture_g_score: 60
+culture_g_justification: "Grande salle parisienne associée à plusieurs événements sportifs et culturels, sans être une référence incontournable."
 ---
-
-
 ![Image de Bercy](https://upload.wikimedia.org/wikipedia/commons/6/65/Pont_de_Bercy%2C_Paris_23_December_2021.jpg)
 
 ###### Questions

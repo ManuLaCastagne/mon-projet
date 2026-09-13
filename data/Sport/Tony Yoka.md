@@ -19,8 +19,9 @@ indice_5 :
   - médaillé d'or à Rio
 indice_6 : 
   - surnommé La Conquête
+culture_g_score: 44
+culture_g_justification: "Champion olympique français médiatisé, mais dont les occurrences de quiz restent concentrées sur la boxe et Rio 2016."
 ---
-
 ![Image de Tony Yoka](https://upload.wikimedia.org/wikipedia/commons/a/a6/Tony_Yoka_Gold.jpg)
 
 ###### Questions

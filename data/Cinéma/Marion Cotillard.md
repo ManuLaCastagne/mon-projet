@@ -19,8 +19,9 @@ indice_5:
   - Guillaume Canet
 indice_6:
   - Deux jours
+culture_g_score: 80
+culture_g_justification: "Actrice française oscarisée et internationale, très rentable pour La Môme, Nolan, Hollywood et les récompenses."
 ---
-
 ![Image de Marion Cotillard](https://upload.wikimedia.org/wikipedia/commons/5/59/Marion_Cotillard_at_2019_Cannes.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - best-sellers mondiaux
 questions:
  - En 1990, quel écrivain né à Cardiff acquiert une renommée internationale grâce à la fresque historique intitulée "Les Piliers de la terre"?
+culture_g_score: 76
+culture_g_justification: "Auteur international de thrillers et de romans historiques, rentable grâce à plusieurs séries et best-sellers très connus."
 ---
-
 ![Image de Ken Follett](https://upload.wikimedia.org/wikipedia/commons/4/4c/Ken_Follett_official.jpg)
 
 ###### Questions

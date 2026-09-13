@@ -22,8 +22,9 @@ indice_6 :
   - Vanda Maria Ribeiro Furtado Tavares de Vasconcelos
 questions:
  - Artiste incarnant Cendrillon  dans le clip de la chanson homonyme du groupe Téléphone, j'ai joué mon propre rôle dans le film "Star 80". Ayant rencontré le succès en 1979 à 16 ans en interprétant une chanson vendue à plus de 2 millions d'exemplaires...
+culture_g_score: 56
+culture_g_justification: "Lio est une figure identifiable de la pop francophone grâce à plusieurs tubes et à sa carrière d'actrice, malgré une importance culturelle limitée."
 ---
-
 ![Image de Lio](https://upload.wikimedia.org/wikipedia/commons/9/9a/Lio_2009.jpg)
 
 ###### Questions

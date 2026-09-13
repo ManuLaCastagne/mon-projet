@@ -22,9 +22,9 @@ indice_6 :
   - Balkans
 questions:
  - Dans son livre "L'Usage du monde" paru en 1963, quel écrivain suisse retrace le voyage qu'il a entrepris jusqu'en Afghanistan ?
+culture_g_score: 52
+culture_g_justification: "Référence importante du récit de voyage francophone, surtout liée à L’Usage du monde, mais peu présente hors de ce domaine."
 ---
-
-
 ![Image de Nicolas Bouvier](https://upload.wikimedia.org/wikipedia/commons/2/2e/Nicolas_Bouvier_%281987%29_by_Erling_Mandelmann.jpg)
 
 ###### Questions

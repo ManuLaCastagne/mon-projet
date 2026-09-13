@@ -22,8 +22,9 @@ indice_6 :
   - L'univers post-apocalyptique
 questions:
  - En 1973, à quel écrivain britannique doit-on le roman "Crash!", dans lequel un homme...
+culture_g_score: 67
+culture_g_justification: "Ballard est identifiable par Crash, L’Empire du Soleil, la science-fiction et l’adaptation de Cronenberg, mais reste une figure d’érudition littéraire."
 ---
-
 ![Image de James Graham Ballard](https://upload.wikimedia.org/wikipedia/commons/3/3f/Grave_of_J._G._Ballard_in_Kensal_Green_Cemetery.jpg)
 
 ###### Questions

@@ -15,10 +15,9 @@ indice_6 :
   - Symbole de sagesse
 questions:
  - Espèce menacée, reconnaissable à mes grandes aigrettes en V ouvert, je vis en solitaire dans les falaises.
+culture_g_score: 60
+culture_g_justification: "Grand rapace nocturne européen, utile pour des questions de zoologie, de conservation et d'identification."
 ---
-
-
-
 ![Image de Hibou grand-duc](https://upload.wikimedia.org/wikipedia/commons/5/56/Bubo_bubo_sibiricus_-_01.JPG)
 
 ###### Questions

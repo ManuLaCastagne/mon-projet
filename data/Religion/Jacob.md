@@ -20,8 +20,9 @@ indice_6 :
   - Douze tribus d'Israël
 questions:
  - Quel patriarche biblique, crédité de l'invention de l'alphabet, est connu des musulmans sous le nom d'Idris ?
+culture_g_score: 88
+culture_g_justification: "Patriarche fondateur d’Israël, au centre de nombreux récits bibliques sur les douze tribus, l’échelle et la lutte avec l’ange."
 ---
-
 ![Image de Jacob](https://upload.wikimedia.org/wikipedia/commons/d/d2/Jacob_%28Israel%29.jpg)
 
 ###### Questions

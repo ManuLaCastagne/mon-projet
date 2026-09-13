@@ -20,9 +20,9 @@ indice_6 :
   - ministre de plusieurs gouvernements
 questions:
  - Et député, j'ai contribué au regroupement de la gauche face au bloc national et me suis abstenu lors du vote des pleins pouvoirs au Maréchal Pétain. Président de l'Assemblée nationale de 47 à 54, maire de Lyon...
+culture_g_score: 60
+culture_g_justification: "Figure politique et maire emblématique de Lyon, utile pour l’histoire de la République mais moins rentable à l’échelle mondiale."
 ---
-
-
 ![Image de Edouard Herriot](https://upload.wikimedia.org/wikipedia/commons/5/5f/Edouard_Herriot_signature.svg)
 
 ###### Questions

@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de force et de résistance
 questions:
  - Ayant de longues cornes arquées, je fournis de la viande, du lait et du beurre lorsque je suis domestiqué.  Ruminant voisin du boeuf, je suis pourvu d'une bosse dorsale et d'une épaisse toison à poils longs...
+culture_g_score: 68
+culture_g_justification: "Le yack est une référence utile sur l'Himalaya, le Tibet, l'élevage et les hautes altitudes, avec une fréquence de quiz intermédiaire."
 ---
-
-
 ![Image de Yack](https://upload.wikimedia.org/wikipedia/commons/3/3a/Bos_grunniens_at_Yundrok_Yumtso_Lake.jpg)
 
 ###### Questions

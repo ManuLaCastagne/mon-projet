@@ -22,8 +22,9 @@ indice_6 :
   - adaptation littéraire
 questions:
  - En 1953, dans quel film de Max Ophuls, Danielle Darrieux…
+culture_g_score: 67
+culture_g_justification: "Film important d’Ophüls, intéressant pour ses liens avec Danielle Darrieux, Louise de Vilmorin et le cinéma français classique."
 ---
-
 ![Image de Madame de…](https://upload.wikimedia.org/wikipedia/commons/a/a4/Beaux-Arts_de_Carcassonne_-_Portrait_de_Madame_Cormon_%281887%29_-_Fernand_Cormon.jpg)
 
 ###### Questions

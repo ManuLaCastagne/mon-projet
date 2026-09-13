@@ -24,8 +24,9 @@ indice_6 :
   - lac Ypacaraí
 questions:
  - Quel pays porte le même nom qu'une rivière née au Brésil, bordant sa capitale   Asuncion ?
+culture_g_score: 64
+culture_g_justification: "Pays sud-américain utile pour le guarani, son enclavement, la guerre de la Triple Alliance, Asunción et les bassins fluviaux."
 ---
-
 ![Image de Paraguay](https://upload.wikimedia.org/wikipedia/commons/3/36/Paraguay_Map_with_Capital_-_South_America.png)
 
 ![[Carte_Paraguay.png]]

@@ -18,9 +18,9 @@ indice_5:
   - Crise des missiles de Cuba
 indice_6:
   - Discours à l'ONU avec une chaussure
+culture_g_score: 80
+culture_g_justification: "Dirigeant soviétique associé à la déstalinisation, à la crise de Cuba, à Berlin et à des anecdotes célèbres de la guerre froide."
 ---
-
-
 ![Image de Nikita Khrouchtchev](https://upload.wikimedia.org/wikipedia/commons/f/fe/Nikita_Khrouchtchev_NASA.jpg)
 
 ###### Questions

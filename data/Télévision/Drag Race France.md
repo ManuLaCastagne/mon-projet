@@ -19,8 +19,9 @@ indice_5 :
   - maquillage
 indice_6 : 
   - défilé de mode
+culture_g_score: 48
+culture_g_justification: "Émission récente et culturellement visible, mais encore moins installée dans les références classiques des quiz généralistes."
 ---
-
 ![Image de Drag Race France](https://upload.wikimedia.org/wikipedia/commons/0/00/Drag_Race_France_logo.png)
 
 ###### Questions

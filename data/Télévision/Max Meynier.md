@@ -20,9 +20,9 @@ indice_6 :
   - Carrière dans la chanson et la radio
 questions:
  - Quel animateur de radio disparu en 2006 animait "Les Routiers sont sympas" en nocturne ?
+culture_g_score: 40
+culture_g_justification: "Animateur populaire d'une génération précédente, principalement utile pour des questions nostalgiques de radio et de télévision."
 ---
-
-
 ![Image de Max Meynier](https://upload.wikimedia.org/wikipedia/commons/a/ad/Dictionary_of_painters_and_engravers%2C_biographical_and_critical_%28IA_cu31924092716962%29.pdf)
 
 ###### Questions

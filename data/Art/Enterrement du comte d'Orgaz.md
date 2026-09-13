@@ -23,8 +23,9 @@ indice_6 :
   - Anachronisme
 questions:
  - En 1586, dans quel tableau du Greco évoquant les obsèques d'un noble espagnol...
+culture_g_score: 60
+culture_g_justification: "Chef-d'œuvre important d'El Greco, le tableau est surtout mobilisé dans des questions précises de peinture espagnole et de localisation."
 ---
-
 ![Image de Enterrement du comte d'Orgaz](https://upload.wikimedia.org/wikipedia/commons/5/56/El_Greco_%28IA_gri_33125009868932%29.pdf)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - 1786-1836
 questions:
  - En 1836, quel pionnier célèbre pour son bonnet de trappeur orné d'une queue de raton laveur, est mort à Fort Alamo ?
+culture_g_score: 51
+culture_g_justification: "Héros populaire américain lié à la conquête de l’Ouest et à Fort Alamo, mais moins récurrent dans les quiz francophones que les grandes figures historiques."
 ---
-
 ![Image de Davy Crockett](https://upload.wikimedia.org/wikipedia/commons/0/06/Portrait_of_David_Crockett%2C_1831.jpg)
 
 ###### Questions

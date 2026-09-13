@@ -20,8 +20,9 @@ indice_6 :
   - Thomas
 questions:
  - Quelle série britannique diffusée en France dès 2015, avec Sam Neill, s'inspire de l'histoire d'un gang anglais ayant sévi...
+culture_g_score: 73
+culture_g_justification: "Série internationale très populaire, exploitable par son contexte historique, ses personnages, ses acteurs et sa production britannique."
 ---
-
 ![Image de Peaky Blinders](https://upload.wikimedia.org/wikipedia/commons/2/2b/Peaky_Blinders_-_Thomas_Gilbert.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Ordre de la Toison d'or
 questions:
  - En 1433, quel souverain, devenu roi de Hongrie en 1387, est couronné empereur du Saint Empire romain germanique?
+culture_g_score: 47
+culture_g_justification: "Souverain médiéval important pour le Saint-Empire et le concile de Constance, mais peu fréquent hors des quiz spécialisés."
 ---
-
 ![Image de Sigismond de Luxembourg](https://upload.wikimedia.org/wikipedia/commons/2/27/Charles-Emmanuel-Sigismond_de_Montmorency-Luxembourg_by_Louis-Auguste_Schwiter.jpg)
 
 ###### Questions

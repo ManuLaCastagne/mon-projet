@@ -24,6 +24,7 @@ indice_6 :
 questions:
  - En 1947, quel créateur français révolutionne la haute couture en créant une nouvelle silhouette féminine avec le style New Look ?
 culture_g_score: 84
+culture_g_justification: "Christian Dior est une référence majeure de la mode, du New Look et de la culture française, avec de nombreux angles de questionnement."
 ---
 ![Image de Christian Dior](https://upload.wikimedia.org/wikipedia/commons/8/83/Christian_Dior_1954.jpg)
 

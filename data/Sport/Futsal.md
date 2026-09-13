@@ -20,8 +20,9 @@ indice_6 :
   - Surface lisse
 questions:
  - Par lequel les stars du football brésilien ont souvent commencé leur carrière, ma coupe du monde est dominée par le Brésil et l'Espagne. Dérivé...
+culture_g_score: 60
+culture_g_justification: "Sport international classique des quiz, identifiable par ses règles, son origine uruguayenne, ses compétitions et ses liens avec le football."
 ---
-
 ![Image de Futsal](https://upload.wikimedia.org/wikipedia/commons/5/5e/Futsal_indoor.jpg)
 
 ###### Questions

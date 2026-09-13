@@ -20,9 +20,9 @@ indice_6 :
   - Keffieh
 questions:
  - En 1994, quel leader palestinien reçoit le prix Nobel de la paix avec les Israéliens Shimon Peres et Yitzhak Rabin ?
+culture_g_score: 80
+culture_g_justification: "Leader palestinien incontournable pour comprendre le conflit israélo-palestinien, l’OLP, les accords d’Oslo et la diplomatie internationale."
 ---
-
-
 ![Image de Yasser Arafat](https://upload.wikimedia.org/wikipedia/commons/0/0d/Shimon_Peres%2C_Yasser_Arafat_-_World_Economic_Forum_Annual_Meeting_Davos_2001.jpg)
 
 ###### Questions

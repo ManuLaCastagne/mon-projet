@@ -22,8 +22,9 @@ indice_6 :
   - poète et romancier français
 questions:
  - En 1926, quel écrivain publie "Le Paysan de Paris", un ouvrage  qui est dédié au peintre surréaliste André Masson?
+culture_g_score: 84
+culture_g_justification: "Écrivain majeur du surréalisme, de la poésie et de l’engagement politique, relié à de nombreuses œuvres, mouvements et figures du XXe siècle."
 ---
-
 ![Image de Louis Aragon](https://upload.wikimedia.org/wikipedia/commons/b/b1/Portrait_Aragon_%28cropped%29.jpg)
 
 ###### Questions

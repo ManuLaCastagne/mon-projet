@@ -22,8 +22,9 @@ indice_6 :
   - satire sociale
 questions:
  - Ecrivain américain né en 1835, d'abord typographe puis journaliste, pilote d'un bateau à vapeur et chercheur d'or, j'ai évoqué mes voyages dans "Vie sur le Mississippi". Créateur de Tom Sawyer et de Huckleberry Finn...
+culture_g_score: 100
+culture_g_justification: "Écrivain américain mondialement célèbre, ouvrant sur les romans jeunesse, l’humour, le Mississippi, la langue anglaise et la culture américaine."
 ---
-
 ![Image de Mark Twain](https://upload.wikimedia.org/wikipedia/commons/0/0c/Mark_Twain_by_AF_Bradley.jpg)
 
 ###### Questions

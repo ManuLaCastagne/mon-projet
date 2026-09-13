@@ -20,13 +20,9 @@ indice_6 :
   - création des États généraux
 questions:
  - Quel roi de France, décédé en 1314, connu pour avoir intenté un procès aux Templiers, eut pour unique épouse Jeanne de Navarre ?
+culture_g_score: 80
+culture_g_justification: "Roi fréquemment évoqué pour les Templiers, Boniface VIII et le renforcement de l’État monarchique français."
 ---
-
-
-
-
-
-
 ![Image de Philippe IV le Bel](https://upload.wikimedia.org/wikipedia/commons/9/98/Philip_iv_and_family._2_%28detail_crop%29.jpg)
 
 ###### Questions

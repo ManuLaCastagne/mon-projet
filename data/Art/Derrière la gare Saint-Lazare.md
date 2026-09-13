@@ -21,8 +21,9 @@ indice_5 :
   - moment décisif
 indice_6 : 
   - homme sautant
+culture_g_score: 68
+culture_g_justification: "Photographie emblématique de Cartier-Bresson, utile pour l'histoire de la photographie et la notion d'instant décisif, sans être omniprésente."
 ---
-
 ![Image de Derrière la gare Saint-Lazare](https://upload.wikimedia.org/wikipedia/commons/f/fa/Catalogue_des_tableaux_modernes_et_aquarelles_composant_la_Collection_Lazare_Weiller_%28IA_catlazal00htel%29.pdf)
 
 ###### Questions

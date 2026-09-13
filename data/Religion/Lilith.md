@@ -20,8 +20,9 @@ indice_6 :
   - Mythe de la création
 questions:
  - Quel démon femelle mentionné une fois dans le livre d'Isaïe devint dans les légendes une séductrice plus soucieuse de plaisir que de procréation?
+culture_g_score: 67
+culture_g_justification: "Figure mythologique très présente dans la culture contemporaine, mais secondaire dans les textes juifs canoniques et d'une fréquence quiz modérée."
 ---
-
 ![Image de Lilith](https://upload.wikimedia.org/wikipedia/commons/b/b6/Lilith_%28John_Collier_painting%29.jpg)
 
 ###### Questions

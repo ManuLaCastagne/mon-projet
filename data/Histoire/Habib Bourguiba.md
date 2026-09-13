@@ -20,8 +20,9 @@ indice_6 :
   - lutte pour l'égalité des sexes
 questions:
  - On cherche un homme politique devenu président de la République de Tunisie en 1957... Principal artisan  de l'indépendance de son pays.
+culture_g_score: 72
+culture_g_justification: "Figure centrale de l'indépendance tunisienne et du monde arabe, notamment utile pour les questions sur la décolonisation, les droits des femmes et Ben Ali."
 ---
-
 ![Image de Habib Bourguiba](https://upload.wikimedia.org/wikipedia/commons/0/09/12_avenue_Habib_Bourguiba_%28Sfax%29_2.jpg)
 
 ###### Questions

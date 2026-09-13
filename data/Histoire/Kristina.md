@@ -20,8 +20,9 @@ indice_6 :
   - mécène des arts
 questions:
  - En 1654, quelle reine de Suède abdique en faveur de son cousin, Charles X ?
+culture_g_score: 60
+culture_g_justification: "Christine de Suède est une reine originale et identifiable par son abdication, sa conversion et son mécénat, mais sa fréquence reste modérée."
 ---
-
 ![Image de Kristina](https://upload.wikimedia.org/wikipedia/commons/6/66/Popularity_of_name_Kristina.svg)
 
 ###### Questions

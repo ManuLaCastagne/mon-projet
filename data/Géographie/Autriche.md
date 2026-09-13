@@ -24,8 +24,9 @@ indice_6 :
   - Linz
 questions:
  - De quel pays d'Europe François II devint le premier empereur héréditaire ?
+culture_g_score: 80
+culture_g_justification: "Pays européen central très rentable grâce à Vienne, aux Habsbourg, à la musique classique, aux Alpes et à son histoire politique."
 ---
-
 ![Image de Autriche](https://upload.wikimedia.org/wikipedia/commons/a/a3/12-06-05-innsbruck-by-ralfr-164.jpg)
 
 ![[Carte_Autriche.png]]

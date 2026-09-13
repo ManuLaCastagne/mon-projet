@@ -18,8 +18,9 @@ indice_5:
   - Mach 2
 indice_6:
   - Air France
+culture_g_score: 97
+culture_g_justification: "Le Concorde est un symbole incontournable de l’aéronautique franco-britannique, régulièrement interrogé sur la technologie, l’histoire et les transports."
 ---
-
 ![Image de Concorde](https://upload.wikimedia.org/wikipedia/commons/2/2c/H%C3%B4tel_Le_Concorde_Qu%C3%A9bec.jpg)
 
 ###### Questions

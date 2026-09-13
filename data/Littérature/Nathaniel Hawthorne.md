@@ -22,9 +22,9 @@ indice_6 :
   - Young Goodman Brown
 questions:
  - En 1850, quel écrivain américain trace le portrait de l'Amérique puritaine des pionniers dans "La Lettre écarlate"?
+culture_g_score: 72
+culture_g_justification: "Auteur américain classique de La Lettre écarlate, régulièrement interrogé sur le puritanisme, Salem et la littérature américaine."
 ---
-
-
 ![Image de Nathaniel Hawthorne](https://upload.wikimedia.org/wikipedia/commons/4/4e/Nathaniel_Hawthorne_-_NARA_-_530280cr.jpg)
 
 ###### Questions

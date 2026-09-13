@@ -13,10 +13,9 @@ indice_5:
   - Mangeur de poissons
 indice_6:
   - Symbole de patience et de précision
+culture_g_score: 64
+culture_g_justification: "Oiseau européen très identifiable, utile pour des questions de zoologie, de milieux aquatiques et d’étymologie."
 ---
-
-
-
 ![Image de Martin-pêcheur](https://upload.wikimedia.org/wikipedia/commons/1/18/Wimereux_Villa_Martin_P%C3%AAcheur_IA62000522_%282023%29.jpg)
 
 ###### Questions

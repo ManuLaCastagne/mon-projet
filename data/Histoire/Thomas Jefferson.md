@@ -22,8 +22,9 @@ indice_6:
   - Parti républicain-démocrate
 questions:
   - Qui fait de la liberté le concept central des USA ?
+culture_g_score: 92
+culture_g_justification: "Père fondateur des États-Unis, auteur de la Déclaration d’indépendance et président lié à la Louisiane, à l’architecture et à l’exploration."
 ---
-
 ![Image de Thomas Jefferson](https://upload.wikimedia.org/wikipedia/commons/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg)
 
 ###### Questions

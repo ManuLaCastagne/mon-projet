@@ -23,8 +23,9 @@ indice_6 :
   - participation à l'art moderne
 questions:
  - A quel sculpteur britannique disparu en 1986 doit-on la silhouette féminine couchée que l'on peut admirer devant le siège parisien de l'Unesco?
+culture_g_score: 71
+culture_g_justification: "Moore est un sculpteur moderne majeur, régulièrement associé aux figures allongées, aux formes abstraites et aux sculptures monumentales."
 ---
-
 ![Image de Henry Moore](https://upload.wikimedia.org/wikipedia/commons/a/a2/Henry_Moore%27s_house.jpg)
 
 ###### Questions

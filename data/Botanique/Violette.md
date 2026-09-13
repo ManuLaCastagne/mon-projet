@@ -15,8 +15,9 @@ indice_6 :
   - Parfum et colorant alimentaires
 questions:
  - Quelles petites fleurs, enrobées de sucre candi dans la région de Toulouse...
+culture_g_score: 72
+culture_g_justification: "Fleur très célèbre, associée à la couleur, à la parfumerie, à la pâtisserie, à la littérature et à diverses symboliques."
 ---
-
 ![Image de Violette](https://upload.wikimedia.org/wikipedia/commons/6/64/Violette_Nozi%C3%A8re_%281915-1966%29_%28A05%29.jpg)
 
 ###### Questions

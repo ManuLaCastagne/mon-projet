@@ -19,8 +19,9 @@ indice_5:
   - patinage artistique
 indice_6:
   - mascotte Soohorang
+culture_g_score: 60
+culture_g_justification: "Édition olympique récente offrant des repères géographiques, historiques et sportifs, sans être incontournable."
 ---
-
 ![Image de Pyeongchang 2018](https://upload.wikimedia.org/wikipedia/commons/7/74/2018_PyeongChang_Winter_Olympic_001.jpg)
 
 ###### Questions

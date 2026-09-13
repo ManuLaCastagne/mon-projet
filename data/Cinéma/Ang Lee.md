@@ -18,9 +18,9 @@ indice_5 :
   - Lion d'Or
 indice_6 : 
   - Oscar du Meilleur Réalisateur
+culture_g_score: 71
+culture_g_justification: "Réalisateur international récompensé, associé à Tigre et Dragon, Brokeback Mountain et Gravity, mais moins fréquemment interrogé que les géants du cinéma."
 ---
-
-
 ![Image de Ang Lee](https://upload.wikimedia.org/wikipedia/commons/4/44/Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg)
 
 ###### Questions

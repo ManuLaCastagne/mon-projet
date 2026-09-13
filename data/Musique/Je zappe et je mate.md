@@ -20,6 +20,8 @@ indice_5:
   - rythme
 indice_6:
   - instruments
+culture_g_score: 24
+culture_g_justification: "Titre de rap français associé à une référence précise de 1997, très rarement utile en dehors de cette question."
 ---
 ###### Questions
 

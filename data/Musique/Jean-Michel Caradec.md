@@ -22,8 +22,9 @@ indice_6 :
   - Bretagne
 questions:
  - En 1974, quel chanteur d'origine bretonne connaît le succès en interprétant...
+culture_g_score: 40
+culture_g_justification: "Auteur-compositeur de la variété française surtout associé à quelques chansons, avec un rendement d'apprentissage limité."
 ---
-
 ![Image de Jean-Michel Caradec](https://upload.wikimedia.org/wikipedia/commons/5/53/Cimeti%C3%A8re_de_Recouvrance_03.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - située entre Europe et Asie
 questions:
  - Quelle mer à l'est du Géographie/Caucase, plus grande étendue d'eau continentale, est bordée au sud par l'Iran ?
+culture_g_score: 80
+culture_g_justification: "Étendue d'eau exceptionnelle par sa taille et son statut de lac, utile en géographie, géopolitique, économie et environnement."
 ---
-
 ![Image de Mer Caspienne](https://upload.wikimedia.org/wikipedia/commons/8/85/Seismes._Mer_Caspienne_orientale_%28dossier_95%29_-_btv1b10870524j_%2801_of_14%29.jpg)
 
 ![[Carte_Mer Caspienne.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - rescousse féline
 questions:
  - Pour quel film d'animation, dessin animé, des Studios Disney, sort-il de sa retraite afin d'enregistrer, à 81 ans, une chanson  de la bande originale ?
+culture_g_score: 73
+culture_g_justification: "Grand classique Disney facilement mobilisable par ses personnages, ses chansons, Paris et l’histoire du studio."
 ---
-
 ![Image de Les Aristochats](https://upload.wikimedia.org/wikipedia/commons/9/98/H%C3%B4tel_Marv%C3%A9jol_%28Toulouse%29.jpg)
 
 ###### Questions

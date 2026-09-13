@@ -22,8 +22,9 @@ indice_6 :
   - Steven Spielberg
 questions:
  - Quelle localité, située  au nord-ouest de Los Angeles est le principal centre de l'industrie cinématographique américaine?
+culture_g_score: 100
+culture_g_justification: "Référence incontournable du cinéma mondial, liée à l’histoire de Hollywood, aux studios, aux Oscars et à la culture populaire."
 ---
-
 ![Image de Hollywood](https://upload.wikimedia.org/wikipedia/commons/0/00/Hollywood_Sign.jpg)
 
 ###### Questions

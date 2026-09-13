@@ -20,8 +20,9 @@ indice_6 :
   - Personnalité influente de l'Empire romain
 questions:
  - Quelle princesse romaine empoisonna son mari Claude (empereur) pour placer son fils Néron sur le trône ?
+culture_g_score: 64
+culture_g_justification: "Figure importante de la dynastie julio-claudienne, utile pour les successions de Caligula, Claude et Néron ainsi que les intrigues impériales."
 ---
-
 ![Image de Agrippine (Antiquité)](https://upload.wikimedia.org/wikipedia/commons/d/d3/P1150135_Louvre_Agrippine_ancienne_Ma3133_rwk.jpg)
 
 ###### Questions

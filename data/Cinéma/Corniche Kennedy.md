@@ -22,8 +22,9 @@ indice_6 :
   - Marseille
 questions:
  - 2017, quel film tiré d'un roman de Maylis de Kerangal voit des ados plonger d'une falaise à Marseille ?
+culture_g_score: 32
+culture_g_justification: "Film français contemporain apprécié mais relativement confidentiel, dont les angles de quiz restent très limités."
 ---
-
 ![Image de Corniche Kennedy](https://upload.wikimedia.org/wikipedia/commons/c/cb/Corniche_Kennedy_006.jpg)
 
 ###### Questions

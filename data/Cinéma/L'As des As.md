@@ -22,8 +22,9 @@ indice_6 :
   - pilote sportif
 questions:
  - En 1982, dans quel film se déroulant en 1936 à Berlin, Belmondo incarne-t-il l'entraîneur de l'équipe de France de boxe ?
+culture_g_score: 67
+culture_g_justification: "Comédie populaire associant Belmondo, Gérard Oury, les Jeux de Berlin et la période nazie, avec plusieurs angles de culture générale."
 ---
-
 ![Image de As des As](https://upload.wikimedia.org/wikipedia/commons/0/00/Grand_bassin_octogonal_Jardin_des_Tuileries_003.jpg)
 
 ###### Questions

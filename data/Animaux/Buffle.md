@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de force et de travail agricole
 questions:
  - Pour me débarrasser des parasites que les oiseaux pique-boeufs n'ont pu saisir. Bovidé massif...
+culture_g_score: 52
+culture_g_justification: "Grand bovidé utile pour distinguer buffle, bison et autres espèces, mais souvent éclipsé par des animaux plus emblématiques."
 ---
-
-
 ![Image de Buffle](https://upload.wikimedia.org/wikipedia/commons/0/0c/Tonnerres_de_Brest_2012_-_Buffle_-_002.jpg)
 
 ###### Questions

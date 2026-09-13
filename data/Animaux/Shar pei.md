@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de noblesse et de fidélité
 questions:
  - Portant un nom signifiant peau de sable, je suis originaire de Chine où j'étais à l'origine affectée...
+culture_g_score: 44
+culture_g_justification: "Chien immédiatement reconnaissable par ses plis et sa langue bleue, sans grande transversalité au-delà de la cynophilie."
 ---
-
 ![Image de Shar pei](https://upload.wikimedia.org/wikipedia/commons/3/3c/Shar_pei.jpg)
 
 ###### Questions

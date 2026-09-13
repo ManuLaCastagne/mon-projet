@@ -15,8 +15,9 @@ indice_6 :
   - Farine
 questions:
  - Quelle céréale du genre triticum…
+culture_g_score: 89
+culture_g_justification: "Céréale fondatrice des civilisations et de l’alimentation mondiale, ouvrant des questions historiques, géographiques, agricoles, économiques et culinaires."
 ---
-
 ![Image de Blé](https://upload.wikimedia.org/wikipedia/commons/b/b4/Wheat_close-up.JPG)
 
 ###### Questions

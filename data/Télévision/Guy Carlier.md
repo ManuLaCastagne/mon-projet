@@ -20,8 +20,9 @@ indice_6 :
   - lutte contre l'obésité
 questions:
  - Qui coanimait "On n'peut pas plaire à tout le monde" avec Marc-Olivier Fogiel ?
+culture_g_score: 55
+culture_g_justification: "Chroniqueur français identifiable par ses émissions et son parcours médiatique, mais d'importance culturelle et de fréquence limitées."
 ---
-
 ![Image de Guy Carlier](https://upload.wikimedia.org/wikipedia/commons/f/fc/Guy_Carlier_%C3%A0_l%27antenne.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Classiques du cinéma
 questions:
  - Quel société de production de films a pour emblème un lion rugissant ?
+culture_g_score: 80
+culture_g_justification: "Studio hollywoodien historique immédiatement reconnaissable par son lion et relié à une grande variété de films et d’acteurs."
 ---
-
 ![Image de MGM](https://upload.wikimedia.org/wikipedia/commons/f/f4/MGM_Grand%2C_Macao%2C_2013-08-08%2C_DD_14.jpg)
 
 ###### Questions

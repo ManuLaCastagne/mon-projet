@@ -18,9 +18,9 @@ indice_5:
   - représentant du courant doctrinaire
 indice_6:
   - acteur majeur des lois de 1833 sur l'instruction primaire
+culture_g_score: 67
+culture_g_justification: "Acteur important de la Monarchie de Juillet, de l’enseignement et de l’historiographie, mais moins présent dans les quiz généralistes."
 ---
-
-
 ![Image de François Guizot](https://upload.wikimedia.org/wikipedia/commons/9/99/Fran%C3%A7ois_Pierre_Guillaume_Guizot.jpg)
 
 ###### Questions

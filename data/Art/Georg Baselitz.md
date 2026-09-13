@@ -23,8 +23,9 @@ indice_6 :
   - motifs récurrents de figures humaines
 questions:
  - Quel artiste allemand, né en 1938, est connu pour ses peintures où les sujets apparaissent le plus souvent renversés ?
+culture_g_score: 47
+culture_g_justification: "Baselitz est un représentant marquant de la peinture allemande contemporaine, mais le motif des figures renversées constitue son principal angle de quiz."
 ---
-
 ![Image de Georg Baselitz](https://upload.wikimedia.org/wikipedia/commons/6/65/Georg_Baselitz_by_Erling_Mandelmann.jpg)
 
 ###### Questions

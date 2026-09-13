@@ -23,10 +23,9 @@ indice_6 :
 questions:
  - En 1813, dans "Orgueil et Préjugés", quelle romancière britannique met en scène un couple et ses cinq filles ?
  - En 1813, quelle romancière anglaise étudie la société provinciale  à travers les amours des soeurs Bennet, dans le livre "Orgueil et Préjugés"?
+culture_g_score: 100
+culture_g_justification: "Jane Austen est une référence universelle offrant de multiples questions sur ses romans, leurs personnages, l’Angleterre et les adaptations."
 ---
-
-
-
 ![Image de Jane Austen](https://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Ségrégation scolaire à Little Rock
 indice_6 : 
   - Exploitation des ressources naturelles
+culture_g_score: 51
+culture_g_justification: "État américain surtout rentable par Little Rock et la déségrégation, avec une présence limitée dans les quiz généralistes."
 ---
-
 ![Image de Arkansas](https://upload.wikimedia.org/wikipedia/commons/f/f6/A_Plat_of_Norristown%2C_Pope_County%2C_State_of_Arkansas%2C_July_1837.jpg)
 
 ###### Questions

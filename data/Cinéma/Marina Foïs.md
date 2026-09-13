@@ -18,8 +18,9 @@ indice_5 :
   - 30 ans de carrière
 indice_6 : 
   - Le petit locataire
+culture_g_score: 56
+culture_g_justification: "Actrice française populaire grâce aux Robins des Bois et à quelques films, mais d’importance générale modérée."
 ---
-
 ![Image de Marina Foïs](https://upload.wikimedia.org/wikipedia/commons/b/bb/Marina_Fo%C3%AFs_2017.jpg)
 
 ###### Questions

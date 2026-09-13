@@ -23,9 +23,9 @@ indice_6 :
   - couleurs vives
 questions:
  - A mes tourments, traduits dans un autoportrait réalisé avec des fragments de céramique et de verre. Célèbre pour mes tableaux performances des années 60, je collabore...
+culture_g_score: 72
+culture_g_justification: "Niki de Saint-Phalle est une artiste française très identifiable grâce aux Nanas, au Nouveau Réalisme, aux performances et à ses œuvres monumentales."
 ---
-
-
 ![Image de Niki de Saint-Phalle](https://upload.wikimedia.org/wikipedia/commons/2/2a/Niki_de_Saint_Phalle_%281964%29_by_Erling_Mandelmann.jpg)
 
 ###### Questions

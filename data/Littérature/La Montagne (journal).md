@@ -22,9 +22,9 @@ indice_6 :
   - information locale
 questions:
  - Les questions suivantes nous parlaient de "Libération", du "Dauphiné Libéré", dans la région de Lyon, de "France-Soir", qui n'existe plus en version papier depuis 2011 et de "Ouest-France", le grand journal de l'Ouest, qui est d'ailleurs le 1er quotidien par son tirage.
+culture_g_score: 24
+culture_g_justification: "Quotidien régional important localement, mais très peu rentable pour la culture générale nationale ou francophone."
 ---
-
-
 ![Image de La Montagne (journal)](https://upload.wikimedia.org/wikipedia/commons/3/38/Journal_La_Montagne_02.JPG)
 
 ###### Questions

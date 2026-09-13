@@ -22,8 +22,9 @@ indice_6 :
   - Société de la Comédie-Française
 questions:
  - Acteur né le 13 mars 1989. J'ai débuté au théâtre à 11 ans avant d'entrer en 2010 à la Comédie-Française. Jouant dans le film "Les émotifs anonymes", j'obtiens mon 1er grand rôle au cinéma dans "J'aime regarder les filles" avant d'incarner Yves Saint-Laurent...
+culture_g_score: 73
+culture_g_justification: "Acteur français contemporain régulièrement associé à Yves Saint Laurent, OSS 117, la Comédie-Française et aux César."
 ---
-
 ![Image de Pierre Niney](https://upload.wikimedia.org/wikipedia/commons/f/f8/Pierre_Niney_Cannes_2013.jpg)
 
 ###### Questions

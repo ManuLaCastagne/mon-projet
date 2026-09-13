@@ -20,8 +20,9 @@ indice_6 :
   - Slalom géant
 questions:
  - En 1964 à Innsbruck, quelles sœurs sont devenues championnes olympiques de ski ?
+culture_g_score: 51
+culture_g_justification: "Leur doublé olympique est une référence intéressante du ski français, mais fournit un nombre limité d’angles de quiz."
 ---
-
 ![Image de Marielle et Christine Goitschel](https://upload.wikimedia.org/wikipedia/commons/e/e3/Photographie_de_Charles_de_Gaulle_et_des_m%C3%A9daill%C3%A9s_fran%C3%A7ais_des_Jeux_olympiques_d%27Innsbruck_1964.jpg)
 
 ###### Questions

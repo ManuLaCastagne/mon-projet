@@ -18,8 +18,9 @@ indice_5 :
   - Palme d'Or
 indice_6 : 
   - 2004
+culture_g_score: 60
+culture_g_justification: "Documentaire politique marquant et primé, mais moins incontournable que les grands classiques de fiction ou les figures majeures du cinéma."
 ---
-
 ![Image de Fahrenheit 9-11](https://upload.wikimedia.org/wikipedia/commons/b/bc/Michael_Moore_Cannes.jpg)
 
 ###### Questions

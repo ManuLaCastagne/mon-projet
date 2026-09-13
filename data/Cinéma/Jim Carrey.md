@@ -20,8 +20,9 @@ indice_5 :
   - Bruce Almighty
 indice_6 : 
   - Dumb and Dumber
+culture_g_score: 76
+culture_g_justification: "La célébrité de Jim Carrey, de ses comédies et de films comme The Truman Show le rend très rentable dans les quiz de cinéma populaire."
 ---
-
 ![Image de Jim Carrey](https://upload.wikimedia.org/wikipedia/commons/e/ed/Jim_Carrey_2020_cropped.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/29S6PLRccSCyKozzwIik0J" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

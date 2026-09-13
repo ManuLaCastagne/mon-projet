@@ -21,6 +21,7 @@ indice_6:
 questions:
   - En 1975, quel groupe d'humoristes britanniques réalise une parodie des aventures des chevaliers de la Table ronde...
 culture_g_score: 96
+culture_g_justification: "Collectif humoristique mondialement célèbre, ouvrant d’innombrables questions sur ses membres, ses films, la télévision et la culture britannique."
 ---
 ![Image de Monty Python](https://upload.wikimedia.org/wikipedia/commons/4/4c/Monty_python_collage.jpg)
 

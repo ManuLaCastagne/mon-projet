@@ -22,8 +22,9 @@ indice_6 :
   - style satirique
 questions:
  - Quel adjectif venant de l'espagnol "vaurien" désigne une littérature antihéroïque du XVIe ?
+culture_g_score: 68
+culture_g_justification: "Genre littéraire classique offrant des repères historiques, sociaux et intertextuels autour de Lazarillo de Tormes et du roman moderne."
 ---
-
 ![Image de Picaresque](https://upload.wikimedia.org/wikipedia/commons/0/0d/En-us-picaresque.oga)
 
 ###### Questions

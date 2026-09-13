@@ -22,8 +22,9 @@ indice_6 :
   - Excentricité
 questions:
  - En 1917, dans son ballet "Parade", quel compositeur français utilise des bouteilles accordées selon la hauteur d'eau contenue?
+culture_g_score: 72
+culture_g_justification: "Compositeur français singulier, utile pour l'avant-garde, les mouvements artistiques, le piano et des œuvres devenues célèbres pour leur caractère insolite."
 ---
-
 ![Image de Erik Satie](https://upload.wikimedia.org/wikipedia/commons/7/77/Satie-erik-4ff9d0bde1749.jpg)
 
 ###### Questions

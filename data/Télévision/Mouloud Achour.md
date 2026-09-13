@@ -18,8 +18,9 @@ indice_5 :
   - Ancien chroniqueur au Grand Journal
 indice_6 : 
   - Fondateur de Clique TV
+culture_g_score: 47
+culture_g_justification: "Animateur et producteur identifiable dans la télévision et la culture urbaine contemporaines, mais encore peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Mouloud Achour](https://upload.wikimedia.org/wikipedia/commons/6/64/Mouloud_Achour.jpg)
 
 ###### Questions

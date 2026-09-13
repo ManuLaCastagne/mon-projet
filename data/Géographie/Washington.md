@@ -24,8 +24,9 @@ indice_6 :
   - Lincoln Memorial
 questions:
  - Début 2020, dans quelle ville des Etats-Unis, abritant le Capitole, a-t-on ouvert un nouveau musée des sciences, dédié aux enfants?
+culture_g_score: 100
+culture_g_justification: "Capitale des États-Unis, incontournable pour la politique américaine, les institutions, les monuments, l’histoire et les relations internationales."
 ---
-
 ![Image de Washington](https://upload.wikimedia.org/wikipedia/commons/3/30/Washington_in_United_States.svg)
 
 ![[Carte_Washington.png]]

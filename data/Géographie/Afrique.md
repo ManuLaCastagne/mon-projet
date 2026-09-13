@@ -24,8 +24,9 @@ indice_6 :
   - Afrique du Sud
 questions:
  - En 1980, sur quel continent Bob Marley a-t-il accompli son rêve d'y donner un concert ?
+culture_g_score: 92
+culture_g_justification: "Continent incontournable ouvrant sur la géographie, l'histoire humaine, les civilisations, la politique, les ressources et la culture."
 ---
-
 ![Image de Afrique](https://upload.wikimedia.org/wikipedia/commons/c/c5/Morocco_Africa_Flickr_Rosino_December_2005_84514010_edited_by_Buchling.jpg)
 
 ![[Carte_Afrique.png]]

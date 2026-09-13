@@ -18,8 +18,9 @@ indice_5 :
   - Stade de France
 indice_6 : 
   - Sylvie Vartan
+culture_g_score: 93
+culture_g_justification: "Icône incontournable de la culture populaire française, avec une carrière, des chansons, des films et des repères historiques très quizables."
 ---
-
 ![Image de Johnny Hallyday](https://upload.wikimedia.org/wikipedia/commons/c/cd/Johnny_Hallyday_2012_3.jpg)
 
 ###### Questions

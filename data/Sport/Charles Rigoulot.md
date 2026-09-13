@@ -20,8 +20,9 @@ indice_6 :
   - entrepreneur de spectacles
 questions:
  - Quel haltérophile français, sacré champion olympique en 1924, surnommait-on l'homme le plus fort du monde?
+culture_g_score: 40
+culture_g_justification: "Champion français d'haltérophilie historiquement intéressant, mais peu fréquent en dehors des questions sportives spécialisées."
 ---
-
 ![Image de Charles Rigoulot](https://upload.wikimedia.org/wikipedia/commons/f/fd/Charles_Rigoulot_1923.jpg)
 
 ###### Questions

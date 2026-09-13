@@ -18,6 +18,7 @@ indice_5:
 indice_6:
   - Osborne Village
 culture_g_score: 40
+culture_g_justification: "Résidence royale britannique notable surtout par Victoria, mais trop précise pour être une priorité généraliste."
 ---
 ###### Questions
 

@@ -20,8 +20,9 @@ indice_5 :
   - Journal de Spirou
 indice_6 : 
   - Éditions Dupuis
+culture_g_score: 52
+culture_g_justification: "Créateur historique de Spirou, utile pour l’histoire de la bande dessinée, mais éclipsé dans les quiz par les reprises du personnage."
 ---
-
 ![Image de Rob-Vel](https://upload.wikimedia.org/wikipedia/commons/e/e9/Robert_Velter_dit_Robvel_cr%C3%A9ateur_de_Spirou.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Latine pop music icon
 questions:
  - Nous sommes en 2001, c'est de la musique, quelle chanteuse d'origine portoricaine...
+culture_g_score: 80
+culture_g_justification: "Star internationale à la fois chanteuse, actrice et personnalité médiatique, offrant de nombreux angles malgré une importance artistique inégale."
 ---
-
 ![Image de Jennifer Lopez](https://upload.wikimedia.org/wikipedia/commons/9/9d/Jennifer_Lopez-_On_the_6.png)
 
 ###### Questions

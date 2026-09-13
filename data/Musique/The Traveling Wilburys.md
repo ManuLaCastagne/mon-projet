@@ -22,8 +22,9 @@ indice_6 :
   - supergroupe des années 1980
 questions:
  - En 1988, quel groupe Jeff Lynne a-t-il formé avec Bob Dylan, George Harrison, Tom Petty et Roy Orbison ?
+culture_g_score: 64
+culture_g_justification: "Supergroupe réunissant plusieurs grandes figures du rock, souvent questionné pour sa composition et ses albums, mais à carrière brève."
 ---
-
 ![Image de The Traveling Wilburys](https://upload.wikimedia.org/wikipedia/commons/1/1d/Wilburys_leave_their_mark.jpg)
 
 ###### Questions

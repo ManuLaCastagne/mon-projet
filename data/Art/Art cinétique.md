@@ -23,9 +23,9 @@ indice_6 :
   - Alexander Calder
 questions:
  - A quelle forme d'art abstrait, née dans les années 50 et fondée sur l'illusion optique, associe-t-on les artistes Pol Bury et Victor Vasarely?
+culture_g_score: 64
+culture_g_justification: "Courant utile pour relier mouvement, illusion optique, technologie et artistes comme Vasarely ou Tinguely, malgré une fréquence modérée."
 ---
-
-
 ![Image de Art cinétique](https://upload.wikimedia.org/wikipedia/commons/e/eb/Art_cin%C3%A9tique%2C_Michel_Robardet.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Michel Polac
 questions:
  - Depuis 89, à la radio,  quelle émission de critique cinématographique littéraire, théâtrale et animée, le dimanche soir, par Jérôme Garcin ?
+culture_g_score: 64
+culture_g_justification: "Institution radiophonique française reconnue, utile pour l’histoire de France Inter et de la critique culturelle, mais limitée à un domaine médiatique précis."
 ---
-
 ![Image de Le Masque et la Plume](https://upload.wikimedia.org/wikipedia/commons/0/06/Le_Masque_et_la_Plume_cin%C3%A9ma.JPG)
 
 ###### Questions

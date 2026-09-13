@@ -22,9 +22,9 @@ indice_6 :
   - voyages et déplacements
 questions:
  - Quel écrivain, associé au nouveau roman, a publié "L'Emploi du temps" en 1956 et "La Modification" l'année suivante?
+culture_g_score: 67
+culture_g_justification: "Représentant important du Nouveau Roman, principalement mobilisé autour de La Modification, de Mobile et de l’expérimentation narrative."
 ---
-
-
 ![Image de Michel Butor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Michel-Butor.jpg)
 
 ###### Questions

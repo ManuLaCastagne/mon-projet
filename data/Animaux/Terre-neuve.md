@@ -15,8 +15,9 @@ indice_6 :
   - Sauvetage en mer
 questions:
  - Quel gros chien, au poil long de couleur noire, n'hésitant jamais à se jeter à l'eau...
+culture_g_score: 64
+culture_g_justification: "Le Terre-Neuve est une race canine célèbre pour le sauvetage aquatique et ses liens avec le Labrador et l'art, mais ses angles restent spécialisés."
 ---
-
 ![Image de Terre-neuve](https://upload.wikimedia.org/wikipedia/commons/3/39/Sailboats_near_Quai_de_Terre_Neuve._Saint-Malo%2C_France.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - vagues et marées
 questions:
  - Chanson de 1986, je constitue le dernier morceau du 1er 33-tours de mon groupe, intitulé "Encore un dernier baiser". Ecrite et composée par ma chanteuse, Muriel Moreno...
+culture_g_score: 53
+culture_g_justification: "Tube nostalgique très identifiable de Niagara, mais dont les questions restent principalement musicales et liées aux années 1980."
 ---
-
 ![Image de L'Amour à la plage](https://upload.wikimedia.org/wikipedia/commons/c/ce/Journal_de_botanique_appliqu%C3%A9e_%C3%A0_l%27agriculture%2C_%C3%A0_la_pharmacie%2C_%C3%A0_la_m%C3%A9decine_et_aux_arts_%28IA_journaldebotaniq03desv%29.pdf)
 
 ###### Questions

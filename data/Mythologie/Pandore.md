@@ -18,8 +18,9 @@ indice_6 :
   - première femme
 questions:
  - Dans la [[mythologie grecque]], quelle femme, créée par Héphaïstos, est à l'origine...
+culture_g_score: 93
+culture_g_justification: "Mythe universellement connu de la boîte de Pandore, très fréquent en quiz et particulièrement rentable grâce à ses liens avec Hésiode, Prométhée et les expressions courantes."
 ---
-
 ![Image de Pandore](https://upload.wikimedia.org/wikipedia/commons/5/51/Pandura.jpg)
 
 ###### Questions

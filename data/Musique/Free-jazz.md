@@ -22,8 +22,9 @@ indice_6 :
   - jazz avant-gardiste
 questions:
  - Aux Etats-Unis, quel courant du jazz a rejeté les normes traditionnelles...
+culture_g_score: 68
+culture_g_justification: "Courant important du jazz d'avant-garde, interrogé par ses principes d'improvisation, ses albums fondateurs et ses grandes figures."
 ---
-
 ![Image de Free-jazz](https://upload.wikimedia.org/wikipedia/commons/a/a4/19%C2%B0_International_Jazz_Festival_of_Punta_del_Este_-_150111-1924-jikatu_%2816077494677%29.jpg)
 
 ###### Questions

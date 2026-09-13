@@ -23,8 +23,9 @@ indice_6 :
   - atmosphère brumeuse
 questions:
  - Quel mot italien désigne la technique picturale utilisée par Léonard de Vinci pour estomper...
+culture_g_score: 77
+culture_g_justification: "Le sfumato est une notion artistique classique directement reliée à Léonard de Vinci, à la Joconde et aux techniques picturales."
 ---
-
 ![Image de Sfumato](https://upload.wikimedia.org/wikipedia/commons/b/bb/Leonardo_da_Vinci_024.jpg)
 
 ###### Questions

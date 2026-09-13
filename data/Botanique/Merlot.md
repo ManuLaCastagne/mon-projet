@@ -15,8 +15,9 @@ indice_6:
   - Vinification rouge
 questions:
   - Quel cépage à baies bleu noir cultivé dans le bordelais fait référence à un oiseau ?
+culture_g_score: 65
+culture_g_justification: "Cépage international très connu, ouvrant sur Bordeaux, l’œnologie, les cépages et les appellations viticoles."
 ---
-
 ![Image de Merlot](https://upload.wikimedia.org/wikipedia/commons/e/ee/Merlot_Grape.jpg)
 
 ###### Questions

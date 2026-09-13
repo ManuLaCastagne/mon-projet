@@ -22,8 +22,9 @@ indice_6 :
   - Itinérance
 questions:
  - En 1910, dans quel roman de Littérature/Colette l'héroïne, Renée Néré fait-elle des tournées en province et à l'étranger comme mime de music-hall?
+culture_g_score: 51
+culture_g_justification: "Roman important de Colette et utile pour la littérature féminine, mais relativement peu présent dans les quiz généralistes."
 ---
-
 ![Image de La Vagabonde](https://upload.wikimedia.org/wikipedia/commons/b/bb/Rogue_River_Oregon_USA.jpg)
 
 ###### Questions

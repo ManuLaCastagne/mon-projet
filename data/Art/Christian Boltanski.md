@@ -23,8 +23,9 @@ indice_6 :
   - œuvres éphémères
 questions:
  - Artiste auquel le Centre Pompidou a consacré l'exposition "Faire son temps" en 2020, frère  du sociologue prénommé Luc, oncle  de l'écrivain Christophe.
+culture_g_score: 47
+culture_g_justification: "Artiste contemporain français significatif, mais encore relativement spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Christian Boltanski](https://upload.wikimedia.org/wikipedia/commons/2/25/Christian-Boltanski-portrait.jpg)
 
 ###### Questions

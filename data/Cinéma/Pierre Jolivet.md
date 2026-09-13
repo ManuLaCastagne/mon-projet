@@ -22,9 +22,9 @@ indice_6 :
   - film Le Complexe du Kangourou
 questions:
  - En 1999, quel réalisateur a repris le titre de cette chanson, "Ma petite entreprise" pour un film  avec Vincent Lindon, François Berléand et Roschdy Zem?
+culture_g_score: 40
+culture_g_justification: "Cinéaste français reconnu pour un cinéma social, mais sa notoriété et sa présence dans les quiz restent limitées."
 ---
-
-
 ![Image de Pierre Jolivet](https://upload.wikimedia.org/wikipedia/commons/9/98/Pierre_jolivet_1518495_Reims_polar.jpg)
 
 ###### Questions

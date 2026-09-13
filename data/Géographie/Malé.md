@@ -22,8 +22,9 @@ indice_5 :
   - atolls
 indice_6 : 
   - station balnéaire
+culture_g_score: 52
+culture_g_justification: "Capitale des Maldives fréquemment citée avec l’archipel et sa densité exceptionnelle, mais offrant peu d’angles indépendants."
 ---
-
 ![Image de Malé](https://upload.wikimedia.org/wikipedia/commons/b/b4/Male-total.jpg)
 
 ![[Carte_Malé.png]]

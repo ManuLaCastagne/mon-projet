@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de résilience dans le folklore水
 questions:
  - Quel insecte aquatique, également appelé "tourniquet", doit son nom courant au fait qu'il tournoie à la surface des eaux?
+culture_g_score: 20
+culture_g_justification: "Coléoptère aquatique très spécialisé dont les caractéristiques offrent peu d'angles de questions généralistes."
 ---
-
-
 ![Image de Gyrin](https://upload.wikimedia.org/wikipedia/commons/3/3a/Entomologie%2C_ou%2C_Histoire_naturelle_des_insectes_%28No._41_Gyrin_Pl._I%29_%288112705427%29.jpg)
 
 ###### Questions

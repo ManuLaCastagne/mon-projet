@@ -20,9 +20,9 @@ indice_6 :
   - années 1990
 questions:
  - A quelle émission télévisée pour les enfants, diffusée sur France 3, associait-on les marionnettes baptisées Coco, Nag, Bernard et Zaza ?
+culture_g_score: 64
+culture_g_justification: "Émission jeunesse marquante pour toute une génération, permettant des questions sur les marionnettes, France 3 et la culture télévisuelle."
 ---
-
-
 ![Image de Les Minikeums]()
 
 ###### Questions

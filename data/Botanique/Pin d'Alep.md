@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour le reboisement et en sylviculture
 questions:
  - Quelle variété de pin se développant dans les régions méditerranéennes est aussi appelée "pin de Jérusalem" ?
+culture_g_score: 51
+culture_g_justification: "Essence méditerranéenne utile pour quelques questions de géographie et de botanique, mais moins rentable qu'un arbre emblématique."
 ---
-
 ![Image de Pin d'Alep](https://upload.wikimedia.org/wikipedia/commons/4/40/Pinus_halepensis_%28Pin_d%27Alep%29_juv%C3%A9nile.jpg)
 
 ###### Questions

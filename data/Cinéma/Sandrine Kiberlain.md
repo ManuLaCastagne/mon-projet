@@ -22,8 +22,9 @@ indice_6 :
   - actrice française
 questions:
  - En 2009, dans le film "Mademoiselle Chambon", quelle comédienne incarne l'institutrice ?
+culture_g_score: 60
+culture_g_justification: "Actrice française connue pour plusieurs comédies et récompenses, avec quelques prolongements en musique mais une portée surtout nationale."
 ---
-
 ![Image de Sandrine Kiberlain](https://upload.wikimedia.org/wikipedia/commons/0/08/Sandrine_Kiberlain_at_the_2009_Deauville_American_Film_Festival-01.jpg)
 
 ###### Questions

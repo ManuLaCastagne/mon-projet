@@ -16,8 +16,9 @@ indice_4:
   - Guillaume Canet
 indice_5:
 indice_6:
+culture_g_score: 47
+culture_g_justification: "Film français contemporain connu pour son voyage temporel nostalgique, mais encore peu fréquent et d'importance générale modérée."
 ---
-
 ![Image de La Belle époque]()
 
 ###### Questions

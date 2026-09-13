@@ -22,8 +22,9 @@ indice_6 :
   - greed is good
 questions:
  - En 1988, dans quelle comédie dramatique d'Oliver Stone Michael Douglas est-il un puissant homme d'affaires...
+culture_g_score: 80
+culture_g_justification: "Film emblématique d’Oliver Stone, exploitable par la finance, Gordon Gekko, Michael Douglas, Wall Street et la critique du capitalisme."
 ---
-
 ![Image de Wall Street](https://upload.wikimedia.org/wikipedia/commons/d/db/New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg)
 
 ###### Questions

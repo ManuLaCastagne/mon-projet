@@ -22,9 +22,9 @@ indice_6 :
   - Créateur d'Amblin Entertainment
 questions:
  - Comme "Pentagon Papers" ou des films de science-fiction comme "Minority, ayant collaboré 4 fois avec Harrison Ford pour la saga des Indiana Jones,  et auteur de "E.T., l'extra-terrestre"…
+culture_g_score: 100
+culture_g_justification: "Réalisateur incontournable dont les films couvrent de nombreux genres et constituent des références majeures du cinéma mondial."
 ---
-
-
 ![Image de Steven Spielberg](https://upload.wikimedia.org/wikipedia/commons/2/29/Steven_Spielberg_Masterclass_Cin%C3%A9math%C3%A8que_Fran%C3%A7aise_2_cropped.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6:
   - Existentialisme
 questions:
   - Selon son surnom, de quel quartier de Paris Juliette Gréco était-elle la muse ?
+culture_g_score: 72
+culture_g_justification: "Saint-Germain-des-Prés est un repère parisien majeur, associé à l’abbaye, aux intellectuels, à la littérature, au jazz et à la vie artistique."
 ---
-
 ![Image de Saint-Germain des Prés](https://upload.wikimedia.org/wikipedia/commons/2/2f/Abad%C3%ADa_de_Saint-Germain-des-Pr%C3%A9s%2C_Par%C3%ADs%2C_Francia%2C_2022-11-01%2C_DD_20-22_HDR.jpg)
 
 ![[Carte_Saint-Germain des Prés.png]]

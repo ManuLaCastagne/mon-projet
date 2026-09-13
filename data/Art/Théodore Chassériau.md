@@ -23,8 +23,9 @@ indice_6 :
   - œuvres au musée d'Orsay
 questions:
  - A quel peintre français du XIXe siècle, entré dès l'âge de 11 ans dans l'atelier d'Jean-Auguste-Dominique Ingres, doit-on la grande toile "Le Christ au jardin des Oliviers"?
+culture_g_score: 40
+culture_g_justification: "Chassériau présente un intérêt réel pour le romantisme et l’orientalisme, mais reste une figure assez secondaire du quiz généraliste."
 ---
-
 ![Image de Théodore Chassériau](https://upload.wikimedia.org/wikipedia/commons/a/a6/Mus%C3%A9e_Ingres-Bourdelle_-_Etude_d%27apr%C3%A8s_le_mod%C3%A8le_Joseph%2C_1839_-_Th%C3%A9odore_Chasseriau_-_Joconde06070001378.jpg)
 
 ###### Questions

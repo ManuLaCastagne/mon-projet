@@ -23,8 +23,9 @@ indice_6:
   - David Lean
 questions:
   - Le thème musical que l'on vient d'entendre est connu en français sous le titre générique de "La chanson de Lara" et a été composé par Maurice Jarre. Pour quel film de David Lean sorti en 66, adapté d'un roman de Boris Pasternak, M.Jarre a-t-il composé cette musique?
+culture_g_score: 100
+culture_g_justification: "Classique mondial de David Lean, reliant littérature russe, révolution, histoire, cinéma, musique et Oscars."
 ---
-
 ![Image de Docteur Jivago](https://upload.wikimedia.org/wikipedia/commons/0/05/Julie_Christie_-_1965.jpg)
 
 https://open.spotify.com/track/6Q7oQHdA2rAoxrvvAKMpZV?si=qFG171F-Re-1H1zzC0Ld-g&context=spotify%3Aalbum%3A1x0wDUT6vBoqe8GPRwB1nj

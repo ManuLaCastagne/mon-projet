@@ -20,8 +20,9 @@ indice_6 :
   - sénatrice de l'État de New York
 questions:
  - Quelle ancienne secrétaire d'Etat des Etats-Unis et Première dame...
+culture_g_score: 84
+culture_g_justification: "Figure politique américaine incontournable, interrogée sous des angles liés à la présidence, à la diplomatie, aux droits des femmes et à la vie politique américaine."
 ---
-
 ![Image de Hillary Clinton](https://upload.wikimedia.org/wikipedia/commons/f/f3/President_Barack_Obama_with_full_cabinet_09-10-09.jpg)
 
 ###### Questions

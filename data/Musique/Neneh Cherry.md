@@ -22,8 +22,9 @@ indice_6 :
   - born in Stockholm
 questions:
  - Associée  au tube "7 seconds"  que j'ai interprété en 1994 avec Youssou N'Dour, magnifique duo. Je suis…
+culture_g_score: 48
+culture_g_justification: "Chanteuse connue pour « 7 Seconds » et la pop des années 1990, mais relativement périphérique dans la culture générale musicale."
 ---
-
 ![Image de Neneh Cherry](https://upload.wikimedia.org/wikipedia/commons/e/e8/Neneh_Cherry.jpg)
 
 ###### Questions

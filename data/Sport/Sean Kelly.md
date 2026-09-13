@@ -18,8 +18,9 @@ indice_5:
   - Milan-San Remo
 indice_6:
   - Flèche Wallonne
+culture_g_score: 64
+culture_g_justification: "Grand cycliste des années 1980, remarquable par ses victoires à Paris-Nice et dans les classiques, mais moins connu du grand public actuel."
 ---
-
 ![Image de Sean Kelly](https://upload.wikimedia.org/wikipedia/commons/4/42/Sean_Kelly%2C_Tour_de_France_2009.jpg)
 
 ###### Questions

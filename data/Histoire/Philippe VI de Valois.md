@@ -20,8 +20,9 @@ indice_6 :
   - neveu de Philippe IV le Bel
 questions:
  - En 1328, quel cousin germain des rois Louis X, Philippe V d'Espagne et Charles IV devient le premier…
+culture_g_score: 64
+culture_g_justification: "Roi marquant par l’avènement des Valois et le début de la guerre de Cent Ans, mais moins mémorable que les souverains ultérieurs."
 ---
-
 ![Image de Philippe VI de Valois](https://upload.wikimedia.org/wikipedia/commons/a/ae/Philippe_VI_de_Valois_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - Meilleur film
 indice_6:
   - Académie des Arts et Techniques du Cinéma
+culture_g_score: 80
+culture_g_justification: "Cérémonie centrale du cinéma français, régulièrement mobilisée à travers ses trophées, ses lauréats, ses films et ses polémiques."
 ---
-
 ![Image de César](https://upload.wikimedia.org/wikipedia/commons/4/42/Fundaci%C3%B3n_C%C3%A9sar_Manrique_-_post.jpg)
 
 ###### Questions

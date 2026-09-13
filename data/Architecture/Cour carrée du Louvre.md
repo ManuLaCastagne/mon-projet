@@ -20,8 +20,9 @@ indice_6 :
   - Héberge des sculptures célèbres
 questions:
  - Espace intérieur du Louvre devant mon nom à ma forme géométrique…
+culture_g_score: 51
+culture_g_justification: "Partie célèbre du Louvre, mais généralement moins interrogée comme sujet autonome que le musée et ses œuvres."
 ---
-
 ![Image de Cour carrée du Louvre](https://upload.wikimedia.org/wikipedia/commons/8/8c/Cour_Carr%C3%A9e%2C_Louvre_Museum%2C_2_April_2009.jpg)
 
 ###### Questions

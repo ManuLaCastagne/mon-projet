@@ -13,8 +13,9 @@ indice_5:
   - Citrus maxima
 indice_6:
   - Jus, salades
+culture_g_score: 64
+culture_g_justification: "Agrume courant et souvent confondu avec le pomélo, intéressant pour la botanique et la gastronomie mais d'importance modérée."
 ---
-
 ![[Pasted image 20250419221701.png]]
 ###### Questions
 

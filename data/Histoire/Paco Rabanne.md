@@ -20,8 +20,9 @@ indice_6 :
   - 20ème siècle
 questions:
  - En 1967, quel couturier utilise le métal…
+culture_g_score: 64
+culture_g_justification: "Couturier très identifiable par ses créations métalliques et Barbarella, mais dont les angles de quiz restent surtout artistiques et populaires."
 ---
-
 ![Image de Paco Rabanne](https://upload.wikimedia.org/wikipedia/commons/6/60/2023_Woda_toaletowa_Paco_Rabanne_1_Million.jpg)
 
 ###### Questions

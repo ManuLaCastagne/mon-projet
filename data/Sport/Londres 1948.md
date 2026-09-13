@@ -20,8 +20,9 @@ indice_5 :
   - Wembley Stadium
 indice_6 : 
   - Emil Zátopek
+culture_g_score: 64
+culture_g_justification: "Premiers Jeux après la Seconde Guerre mondiale et Jeux de l’Austérité, fournissant plusieurs repères historiques utiles."
 ---
-
 ![Image de Londres 1948](https://upload.wikimedia.org/wikipedia/commons/e/e4/Pascual_Perez_contra_Bandinelli_-_Final_Londres_1948.jpg)
 
 ###### Questions

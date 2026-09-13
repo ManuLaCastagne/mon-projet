@@ -20,8 +20,9 @@ indice_6 :
   - 819 lignes
 questions:
  - Le 14 avril 1931, quel ingénieur et inventeur français procède à la 1re démonstration publique de télévision en France?
+culture_g_score: 44
+culture_g_justification: "Pionnier important de la télévision française, mais peu connu et rarement interrogé hors de l’histoire des techniques."
 ---
-
 ![Image de René Barthélémy](https://upload.wikimedia.org/wikipedia/commons/3/38/ReneBarthelemy-1931.png)
 
 ###### Questions

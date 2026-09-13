@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de liberté
 questions:
  - Oiseau comptant les espèces dites  des brumes ou de Sabine, je suis présent sur les côtes ou à l'intérieur des terres et suis doté d'un plumage dans les tons de blanc, gris et noir. Omnivore ayant l'habitude de suivre les bateaux de pêche pour récupérer des poissons...
+culture_g_score: 64
+culture_g_justification: "Oiseau familier des côtes et des ports, avec des liens possibles à l’écologie, à la littérature et à la zoologie."
 ---
-
-
 ![Image de Mouette](https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Royal_couple_Francis_II_leave_the_harbour_of_Gaeta_on_board_the_Mouette_14_Feb_1861_1169063372.jpg)
 
 ###### Questions

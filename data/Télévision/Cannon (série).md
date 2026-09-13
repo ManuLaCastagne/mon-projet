@@ -20,8 +20,9 @@ indice_6 :
   - surpoids
 questions:
  - Dans quelle série policière américaine William Conrad interprétait-il un détective proposant ses services à une clientèle fortunée?
+culture_g_score: 40
+culture_g_justification: "Série policière américaine connue des amateurs de télévision, mais rarement mobilisée dans les quiz généralistes."
 ---
-
 ![Image de Cannon (série)](https://upload.wikimedia.org/wikipedia/commons/9/93/William_Conrad_Cannon_1972.JPG)
 
 ###### Questions

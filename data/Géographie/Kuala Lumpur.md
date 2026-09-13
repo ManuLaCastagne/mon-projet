@@ -22,8 +22,9 @@ indice_5:
   - KLCC Park
 indice_6:
   - Jamek Mosque
+culture_g_score: 77
+culture_g_justification: "Capitale de la Malaisie immédiatement reconnaissable par les tours Petronas, Kuala Lumpur apparaît dans plusieurs questions de géographie et d’architecture."
 ---
-
 ![Image de Kuala Lumpur](https://upload.wikimedia.org/wikipedia/commons/3/31/Butorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg)
 
 ![[Carte_Kuala Lumpur.png]]

@@ -20,9 +20,9 @@ indice_5:
   - Écrivain français
 indice_6:
   - Baroque
+culture_g_score: 48
+culture_g_justification: "Autrice connue pour L’Allée du roi, mais ses autres repères restent moins fréquents dans la culture générale généraliste."
 ---
-
-
 ![Image de Françoise Chandernagor](https://upload.wikimedia.org/wikipedia/commons/f/f6/Fran%C3%A7oise_Chandernagor_LSlaP_68844.jpg)
 
 ###### Questions

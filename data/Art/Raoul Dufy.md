@@ -23,8 +23,9 @@ indice_6 :
   - œuvres sur les festivals et la musique
 questions:
  - Quel peintre havrais a peint "La Baie des Anges" ?
+culture_g_score: 60
+culture_g_justification: "Raoul Dufy est un artiste français classique, utile pour les mouvements picturaux, les arts décoratifs et certaines expositions historiques."
 ---
-
 ![Image de Raoul Dufy](https://upload.wikimedia.org/wikipedia/commons/3/3e/Raoul_Dufy%2C_portrait_photograph.jpg)
 
 ###### Questions

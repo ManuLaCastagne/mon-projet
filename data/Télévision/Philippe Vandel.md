@@ -20,8 +20,9 @@ indice_6 :
   - animateur télé
 questions:
  - Animateur à la radio de l'émission "Culture médias". Un des grands spécialistes des médias en France. Il anime toujours une émission sur les médias.
+culture_g_score: 40
+culture_g_justification: "Chroniqueur et journaliste médiatique identifiable par Canal+, Radio Nova et France Info, mais peu incontournable."
 ---
-
 ![Image de Philippe Vandel](https://upload.wikimedia.org/wikipedia/commons/9/9c/Philippe_Vandel_salon_radio_france_2011.jpg)
 
 ###### Questions

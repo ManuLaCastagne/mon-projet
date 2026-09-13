@@ -18,15 +18,9 @@ indice_5:
   - plan Freycinet pour le développement du réseau ferroviaire
 indice_6:
   - partisan de l'instruction obligatoire
+culture_g_score: 52
+culture_g_justification: "Homme politique de la Troisième République associé au plan Freycinet, mais personnalité peu connue hors de l’histoire institutionnelle."
 ---
-
-
-
-
-
-
-
-
 ![Image de Charles de Freycinet](https://upload.wikimedia.org/wikipedia/commons/4/41/Freycinet%2C_de_Saulces_de%2C_Charles%2C_Nadar%2C_Gallica.jpg)
 
 ###### Questions

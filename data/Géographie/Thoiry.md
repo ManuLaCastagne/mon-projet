@@ -24,7 +24,10 @@ indice_6 :
   - Région Île-de-France
 questions:
  - Quel château privé des Yvelines est entouré d'un parc comportant un zoo ?
+culture_g_score: 44
+culture_g_justification: "Commune surtout connue pour son parc animalier et son château, avec une portée essentiellement touristique et locale."
 ---
+
 
 ![Image de Thoiry](https://upload.wikimedia.org/wikipedia/commons/3/32/Thoiry_%2801%29_-_Eglise_St-Maurice.JPG)
 
@@ -33,7 +36,7 @@ questions:
 
 Quel parc animalier ouvert en 1968 en région parisienne est renommé pour ses safaris en voiture, permettant aux visiteurs d'observer des animaux sauvages en semi-liberté depuis leur véhicule?
 
-Dans quelle commune des [[Yvelines]], un château datant du XVIIe siècle et ses jardins conçus par un disciple d'[[André Le Nôtre]] constituent une des principales attractions touristiques de la région? <!-- score: 4 -->
+Dans quelle commune des [[Yvelines]] qui n'est pas Versailles, un château datant du XVIIe siècle et ses jardins conçus par un disciple d'[[André Le Nôtre]] constituent une des principales attractions touristiques de la région? <!-- score: 4 -->
 ###### Description
 
 [[Thoiry]], situé dans les [[Yvelines]] en [[Île-de-France]], est surtout célèbre pour accueillir le [[Zooparc de Thoiry]], une attraction qui attire des visiteurs depuis sa création en 1968.  

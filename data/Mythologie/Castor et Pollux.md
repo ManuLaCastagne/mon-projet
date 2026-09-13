@@ -18,11 +18,9 @@ indice_6 :
   - protecteurs des marins
 questions:
  - Quels fils jumeaux de Zeus et Léda sont appelés les Disocures ?
+culture_g_score: 80
+culture_g_justification: "Jumeaux mythologiques reliés aux Gémeaux, à la Toison d’or, à la guerre de Troie et au thème de l’immortalité partagée."
 ---
-
-
-
-
 ![Image de Castor et Pollux](https://upload.wikimedia.org/wikipedia/commons/2/23/Castor_and_Pollux-Parc_de_Versailles.jpg)
 
 ###### Questions

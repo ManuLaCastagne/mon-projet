@@ -22,8 +22,9 @@ indice_6 :
   - fusion jazz et classique
 questions:
  - Compositeur, pianiste et chef d'orchestre né en 1898, j'entre à 15 ans au service d'un éditeur de chansons populaires. Tentant ma chance dans la comédie musicale à Broadway à partir de 1917, je rencontre le succès en 1924 avec "Rhapsody in Blue", puis avec...
+culture_g_score: 80
+culture_g_justification: "Compositeur américain central pour les liens entre jazz, musique classique, opéra et comédie musicale, notamment avec Rhapsody in Blue."
 ---
-
 ![Image de George Gershwin](https://upload.wikimedia.org/wikipedia/commons/b/bf/Al_Jolson%2C_George_Gershwin%2C_Irving_Caesar%2C_Swanee_1920.ogg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Quel poète français né en 1808 et auteur du recueil "Les Chimères" et de la nouvelle "Aurélia", avait pour vrai nom Gérard Labrunie ?
  - Quel écrivain du Culture_G/XIXe siècle évoque sa vie insouciante dans "Les Petits Châteaux de Bohême" et "La Bohème galante"?
+culture_g_score: 71
+culture_g_justification: "Poète romantique français identifiable par Faust, Aurélia, le rêve et sa fin tragique, avec une fréquence toutefois modérée."
 ---
-
 ![Image de Gérard de Nerval](https://upload.wikimedia.org/wikipedia/commons/f/f3/G%C3%A9rard_de_Nerval_-_caricature_de_Nadar.jpg)
 
 ###### Questions

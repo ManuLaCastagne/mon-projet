@@ -15,8 +15,9 @@ indice_6 :
   - Messager de la forêt
 questions:
  - Rongeur dit d'Europe, menacé  par une espèce grise dite de Caroline (MC Solaar) introduite dès 1876 en Grande-Bretagne, je pèse autour de 350 g et j'ai un comportement diurne et solitaire. Doté d'un odorat développé...
+culture_g_score: 64
+culture_g_justification: "Animal familier et présent dans plusieurs anecdotes, l’écureuil offre quelques entrées en zoologie, écologie et culture populaire."
 ---
-
 ![Image de Écureuil](https://upload.wikimedia.org/wikipedia/commons/7/75/Archives_SHDMR_MR_5_G_264_%C3%89cureuil.jpg)
 
 ###### Questions

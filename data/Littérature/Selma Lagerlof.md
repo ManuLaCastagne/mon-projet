@@ -22,10 +22,9 @@ indice_6 :
   - elle était professeur avant de devenir écrivaine à plein temps
 questions:
  - Romancière suédoise ayant conçu "Le merveilleux voyage de Nils Holgersson", c'est à elle qu'on doit ce roman, comme un livre de géographie pour les enfants, je suis…
+culture_g_score: 64
+culture_g_justification: "Écrivaine liée au Nobel et à Nils Holgersson, constituant une référence classique mais surtout littéraire."
 ---
-
-
-
 ![Image de Selma Lagerlof](https://upload.wikimedia.org/wikipedia/commons/6/60/Selma_Ottilia_Lovisa_Lagerl%C3%B6f_%281858%E2%80%931940%29_Schriftstellerin.jpg)
 
 ###### Questions

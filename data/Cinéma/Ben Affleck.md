@@ -22,8 +22,9 @@ indice_6 :
   - Gone Girl
 questions:
  - En 2012, dans le film "Argo", quel acteur américain se met en scène dans le rôle d'un agent de la CIA spécialiste des exfiltrations?
+culture_g_score: 76
+culture_g_justification: "Acteur-réalisateur très connu, exploitable via Good Will Hunting, Argo, Batman, les Oscars et Hollywood."
 ---
-
 ![Image de Ben Affleck](https://upload.wikimedia.org/wikipedia/commons/7/70/Ben_Affleck_by_Gage_Skidmore_3.jpg)
 
 ###### Questions

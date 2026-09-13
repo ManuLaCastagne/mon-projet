@@ -22,8 +22,9 @@ indice_6 :
   - 1967
 questions:
  - En 2006, à quel écrivain français doit-on "Dans la foule" qui met en scène des spectateurs présents lors de la tragédie du stade du Heysel en 85?
+culture_g_score: 32
+culture_g_justification: "Romancier français contemporain reconnu par plusieurs prix, mais encore peu susceptible d’être une réponse récurrente dans un quiz généraliste."
 ---
-
 ![Image de Laurent Mauvignier](https://upload.wikimedia.org/wikipedia/commons/1/11/FIG_2014_-_Laurent_Mauvignier_02.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5 :
   - travaille à Versailles et à Paris
 indice_6 : 
   - collabore avec Marie-Antoinette
+culture_g_score: 56
+culture_g_justification: "Industriel associé aux toiles de Jouy et à l’histoire textile française, utile dans quelques questions d’artisanat et d’industrie."
 ---
-
-
 ![Image de Christophe-Philippe Oberkampf](https://upload.wikimedia.org/wikipedia/commons/d/de/Christophe-Philippe_Oberkampf_%281738-1815%29.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Everybody Needs Somebody to Love
 questions:
  - n 1980, quel groupe, formé par Dan Aykroyd et John Belushi...
+culture_g_score: 80
+culture_g_justification: "Comédie musicale culte reliant cinéma, blues, Saturday Night Live, John Belushi, Dan Aykroyd et une bande originale très connue."
 ---
-
 ![Image de Blues Brothers](https://upload.wikimedia.org/wikipedia/commons/2/27/Nunez_and_Belushi.jpg)
 
 ###### Questions

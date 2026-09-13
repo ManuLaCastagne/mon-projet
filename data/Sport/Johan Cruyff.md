@@ -20,8 +20,9 @@ indice_6 :
   - Entraîneur légendaire
 questions:
  - Dans les années 70, quel footballeur néerlandais a été le premier à recevoir à trois reprises le ballon d'or ?
+culture_g_score: 100
+culture_g_justification: "Cruyff est une figure incontournable du football mondial, liée au football total, à l’Ajax, au Barça, au Ballon d’Or et à la tactique moderne."
 ---
-
 ![Image de Johan Cruyff](https://upload.wikimedia.org/wikipedia/commons/c/cb/Johan_Cruijff_%281974%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - années 70
 questions:
  - Quel groupe de hard-rock, fondé en 1972 par Gene Simmons et Paul Stanley, est connu pour ses tenues et ses maquillages extravagants ?
+culture_g_score: 84
+culture_g_justification: "Groupe de rock immédiatement reconnaissable par son maquillage, ses spectacles, ses membres et son importante culture de produits dérivés."
 ---
-
 ![Image de Kiss](https://upload.wikimedia.org/wikipedia/commons/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg)
 
 ###### Questions

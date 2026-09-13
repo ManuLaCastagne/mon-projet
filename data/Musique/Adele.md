@@ -20,9 +20,9 @@ indice_5 :
   - 21
 indice_6 : 
   - chanteuse britannique
+culture_g_score: 84
+culture_g_justification: "Adele est une chanteuse contemporaine très célèbre, régulièrement liée à ses albums, ses récompenses et ses chansons à succès."
 ---
-
-
 ![Image de Adele](https://upload.wikimedia.org/wikipedia/commons/0/0a/Adele_%27Adele_Live_2016%27_-_Nashville_DSC04804_%2830114379680%29_%28cropped%29.jpg)
 
 ###### Questions

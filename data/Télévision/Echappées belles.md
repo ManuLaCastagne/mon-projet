@@ -20,10 +20,9 @@ indice_6 :
   - destinations exotiques
 questions:
  - Quel magazine de France 5, créé en 2006 et notamment présenté par Ismaël Khelifa permet de découvrir une destination à travers des reportages?
+culture_g_score: 64
+culture_g_justification: "Magazine de voyage durablement populaire, mais dont les questions restent surtout centrées sur l’émission et ses destinations."
 ---
-
-
-
 ![Image de Echappées belles](https://upload.wikimedia.org/wikipedia/commons/6/6b/Tournage_%C3%A0_La_Manufacture_d%27Aurillac_en_juin_2014_de_l%27%C3%A9mission_%22Echapp%C3%A9es_Belles%22_ldiffus%C3%A9e_sur_France_5.jpg)
 
 ###### Questions

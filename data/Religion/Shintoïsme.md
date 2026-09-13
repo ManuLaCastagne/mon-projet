@@ -18,8 +18,9 @@ indice_5 :
   - Omamori
 indice_6 : 
   - Amaterasu
+culture_g_score: 72
+culture_g_justification: "Religion officielle et culturelle du Japon, le shintoïsme relie mythologie, sanctuaires, rites, histoire japonaise et culture populaire."
 ---
-
 ![Image de Shintoïsme](https://upload.wikimedia.org/wikipedia/commons/1/1d/Torii_gate_of_Benten-iwa_Murakami-shi_Niigata-ken_Japan_20240614-_YAS1816.jpg)
 
 ###### Questions

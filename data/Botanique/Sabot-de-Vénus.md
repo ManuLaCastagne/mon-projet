@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale
 questions:
  - Quelle variété d'orchidée, dont le nom composé évoque la chaussure d'une déesse romaine, constitue une espèce rare et protégée?
+culture_g_score: 51
+culture_g_justification: "Orchidée spectaculaire et protégée, intéressante pour la biodiversité et l'identification, mais peu fréquente hors questions spécialisées."
 ---
-
 ![Image de Sabot-de-Vénus](https://upload.wikimedia.org/wikipedia/commons/6/69/Cypripedium_calceolus_-_Kaunis_kuldking_Keila.jpg)
 
 ###### Questions

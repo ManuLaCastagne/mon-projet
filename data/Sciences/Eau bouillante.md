@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1900
 date: 1907
+culture_g_score: 44
+culture_g_justification: "Phénomène quotidien facile à reconnaître, mais peu rentable au-delà de quelques questions de physique ou de vie courante."
 ---
 ###### Questions 
 

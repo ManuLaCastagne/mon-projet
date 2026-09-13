@@ -18,8 +18,9 @@ indice_5 :
   - éducateur
 indice_6 : 
   - Le Monde de Gérard Klein
+culture_g_score: 73
+culture_g_justification: "Visage populaire de L'Instit et de plusieurs programmes éducatifs, fournissant des repères solides sur la télévision française."
 ---
-
 ![Image de Gérard Klein](https://upload.wikimedia.org/wikipedia/commons/d/d2/Utos127-G%C3%A9rard_Klein.jpg)
 
 ###### Questions

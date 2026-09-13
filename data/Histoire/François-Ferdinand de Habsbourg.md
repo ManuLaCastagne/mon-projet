@@ -18,8 +18,9 @@ indice_5 :
   - Assassinat en 1914
 indice_6 : 
   - Déclenchement de la Première Guerre mondiale
+culture_g_score: 92
+culture_g_justification: "Son assassinat à Sarajevo constitue un indice et un repère absolument classiques sur le déclenchement de la Première Guerre mondiale."
 ---
-
 ![Image de François-Ferdinand de Habsbourg]()
 
 ###### Questions

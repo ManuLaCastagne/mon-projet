@@ -20,8 +20,9 @@ indice_6 :
   - inspirateur du conte Barbe bleue
 questions:
  - Quel homme de guerre, ayant été le compagnon d'armes de Jeanne d'Arc...
+culture_g_score: 76
+culture_g_justification: "Personnage marquant par son compagnonnage avec Jeanne d’Arc, son procès et l’association à la légende de Barbe-Bleue."
 ---
-
 ![Image de Gilles de Retz](https://upload.wikimedia.org/wikipedia/commons/f/f8/Gilles_de_Retz_%28chromolithographie%29.jpg)
 
 ###### Questions

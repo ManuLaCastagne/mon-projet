@@ -18,8 +18,9 @@ indice_5 :
   - invité de nombreuses émissions
 indice_6 : 
   - illusionniste français
+culture_g_score: 76
+culture_g_justification: "Illusionniste populaire de la télévision française, associé à plusieurs émissions et à l'histoire de la magie médiatisée."
 ---
-
 ![Image de Gérard Majax](https://upload.wikimedia.org/wikipedia/commons/9/92/G%C3%A9rard_Majax.jpg)
 
 ###### Questions

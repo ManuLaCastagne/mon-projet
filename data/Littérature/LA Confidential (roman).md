@@ -22,8 +22,9 @@ indice_6 :
   - film primé
 questions:
  - En 1990, quel roman de James Ellroy commence par l'assassinat de 6 personnes dans un bar de Los Angeles en 1953 ?
+culture_g_score: 60
+culture_g_justification: "Roman policier important surtout grâce à son adaptation cinématographique, mais moins central dans la culture générale littéraire."
 ---
-
 ![Image de LA Confidential](https://upload.wikimedia.org/wikipedia/commons/c/ce/Confidential_Magazine_cover_July_1957_-_Liberace.jpg)
 
 ###### Questions

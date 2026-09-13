@@ -23,8 +23,9 @@ indice_6 :
   - Le Caire
 questions:
  - Quelle mosquée du Caire a pris pour nom le qualificatif attribué à Fatima et signifiant la resplendissante?
+culture_g_score: 56
+culture_g_justification: "Al-Azhar est une référence importante de l’histoire islamique et de l’enseignement au Caire, mais peu récurrente dans les quiz."
 ---
-
 ![Image de Al-Ahzar](https://upload.wikimedia.org/wikipedia/commons/2/2c/Mosqu%C3%A9e_El_%C3%82hzar%2C_au_Kaire_-_estampe_-_Girault_de_Prangey_pinx.t_%3B_Fichot_lith._-_btv1b53185167p.jpg)
 
 ###### Questions

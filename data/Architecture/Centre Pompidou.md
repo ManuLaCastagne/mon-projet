@@ -23,8 +23,9 @@ indice_6:
   - musée d'art moderne
 questions:
   - Bâtiment novateur au moment de mon inauguration en 1977, j'ai la forme d'un parallélépipède de 166 m sur 60 et haut de 42 m. Monument parisien conçu par Richard Rogers et Renzo Piano, mon ossature et mes gaines de circulation...
+culture_g_score: 80
+culture_g_justification: "Centre culturel parisien majeur, utile pour l’art contemporain, l’architecture, la politique culturelle et ses architectes."
 ---
-
 ![Image de Centre Pompidou](https://upload.wikimedia.org/wikipedia/commons/e/e4/View_from_the_Centre_Pompidou_2.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - course classique
 indice_6:
   - 2400 mètres
+culture_g_score: 51
+culture_g_justification: "Course hippique britannique prestigieuse et présente dans plusieurs tableaux, mais référence relativement secondaire des quiz généralistes."
 ---
-
-
 ![Image de Le Derby d'Epsom](https://upload.wikimedia.org/wikipedia/commons/0/09/Le_Derby_de_1821_%C3%A0_Epsom_-_Th%C3%A9odore_G%C3%A9ricault_-_Mus%C3%A9e_du_Louvre_Peintures_MI_708.jpg)
 
 ###### Questions

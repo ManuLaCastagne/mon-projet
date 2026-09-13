@@ -3,6 +3,8 @@ tags:
   - Gastronomie
   - XVIIe
 date: 1661
+culture_g_score: 64
+culture_g_justification: "Charcuterie italienne très connue, reliée à Bologne, à la cuisine italienne et aux différences avec le salami."
 ---
 ###### Questions 
 

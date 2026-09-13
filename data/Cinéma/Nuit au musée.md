@@ -21,8 +21,9 @@ indice_6:
   - musée vivant
 questions:
   - En 2007, dans quelle comédie de Shawn Levy est-il le gardien...
+culture_g_score: 60
+culture_g_justification: "Comédie familiale très identifiable grâce à Ben Stiller et à son concept fantastique, mais d’importance culturelle modeste."
 ---
-
 ![Image de Nuit au musée](https://upload.wikimedia.org/wikipedia/commons/e/e9/Une_nuit_au_Mus%C3%A9e_du_Louvre_-_Vimeo.webm)
 
 ###### Questions

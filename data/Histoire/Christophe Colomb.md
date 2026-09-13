@@ -19,8 +19,9 @@ indice_5 :
   - découverte
 indice_6 : 
   - traversée de l'Atlantique
+culture_g_score: 100
+culture_g_justification: "Explorateur incontournable, au centre de questions sur 1492, les Grandes Découvertes, l’Espagne, l’Amérique et la colonisation."
 ---
-
 ![Image de Christophe Colomb](https://upload.wikimedia.org/wikipedia/commons/9/90/Christophe_Colomb_devant_le_conseil_de_Salamanque_-_Emanuel_Leutze_-_MBA_Lyon_2014FXD.jpg)
 
 Questions

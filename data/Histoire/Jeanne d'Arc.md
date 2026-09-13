@@ -18,8 +18,9 @@ indice_5 :
   - rituel de canonisation
 indice_6 : 
   - Guerre de Cent Ans
+culture_g_score: 100
+culture_g_justification: "Figure universelle de l’histoire de France, elle relie Guerre de Cent Ans, religion, monarchie, procès, mémoire nationale et canonisation."
 ---
-
 ![Image de Jeanne d'Arc](https://upload.wikimedia.org/wikipedia/commons/d/d3/Dante_Gabriel_Rossetti_-_Joan_of_Arc_%281882%29.jpg)
 
 ###### Questions

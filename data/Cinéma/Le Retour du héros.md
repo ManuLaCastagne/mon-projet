@@ -22,8 +22,9 @@ indice_6 :
   - retour surprise
 questions:
  - En 2018, dans quelle comédie de Laurent Tirard, se déroulant durant le Premier Empire, Jean Dujardin incarne-t-il un héros d'opérette?
+culture_g_score: 56
+culture_g_justification: "Comédie française identifiable grâce à Dujardin et Laurent, mais son rendement reste limité à quelques repères de cinéma contemporain."
 ---
-
 ![Image de Le Retour du héros](https://upload.wikimedia.org/wikipedia/commons/d/d5/Viollet_Leduc_-_Le_Retour_d%E2%80%99Apollon%2C_1812.djvu)
 
 ###### Questions

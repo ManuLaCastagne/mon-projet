@@ -18,9 +18,9 @@ indice_5:
   - Champion du monde
 indice_6:
   - Carrière professionnelle
+culture_g_score: 47
+culture_g_justification: "Champion du monde et associé à un secteur mythique de Paris-Roubaix, Stablinski demeure toutefois une figure cycliste secondaire."
 ---
-
-
 ![Image de Jean Stablinski](https://upload.wikimedia.org/wikipedia/commons/7/71/Jean_Stablinski_1963.jpg)
 
 ###### Questions

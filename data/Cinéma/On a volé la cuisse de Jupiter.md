@@ -31,8 +31,9 @@ indice_6:
 questions:
   - En 1980, quel film de Philippe de Broca, avec Philippe Noiret et Annie Girardot, constitue la suite de "Tendre Poulet"?
   - En 1980, dans quel film de Philippe de Broca Annie Girardot et Philippe Noiret partent-ils en Grèce pour leur voyage de noces?
+culture_g_score: 31
+culture_g_justification: "Comédie française ancienne surtout connue des amateurs du genre, avec une probabilité faible d’être réponse dans un quiz généraliste."
 ---
-
 ![Image de On a volé la cuisse de Jupiter](https://upload.wikimedia.org/wikipedia/commons/d/dd/Les_Travaux_d%E2%80%99Hercule%2C_ou_la_rocambole_de_la_fouterie%2C_1801.djvu)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6:
   - Infusions
 questions:
   - Dont des religieuses de Niort eurent l'idée au XVIIIe siècle de confire les tiges pour en faire une friandise, je donne une liqueur tonique, je suis…
+culture_g_score: 47
+culture_g_justification: "Plante utile pour ses usages culinaires, médicinaux et la spécialité de Niort, sans constituer une référence botanique majeure."
 ---
-
 ![Image de Angélique](https://upload.wikimedia.org/wikipedia/commons/8/85/Coulon-Ang%C3%A9lique.jpg)
 
 ###### Questions

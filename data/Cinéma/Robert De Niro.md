@@ -22,9 +22,9 @@ indice_6 :
   - fondateur du Festival du film de Tribeca
 questions:
  - Dans "Le Parrain, 2e partie", quel acteur incarne le jeune Vito dans le New York du début du XXe siècle ?
+culture_g_score: 100
+culture_g_justification: "Acteur universellement reconnu, relié à Scorsese, au Nouvel Hollywood, aux Oscars, au cinéma mafieux et à de nombreux films cultes."
 ---
-
-
 ![Image de Robert De Niro](https://upload.wikimedia.org/wikipedia/commons/c/c0/Robert_De_Niro_KVIFF_portrait.jpg)
 
 ###### Questions

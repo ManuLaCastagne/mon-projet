@@ -22,9 +22,9 @@ indice_6 :
   - Musique post-romantique
 questions:
  - Quel compositeur et chef d'orchestre viennois composa l'opérette "Simplicius", créée en 1887 ?
+culture_g_score: 80
+culture_g_justification: "Compositeur majeur du tournant des XIXe et XXe siècles, interrogé à travers ses opéras, poèmes symphoniques, Nietzsche et le cinéma."
 ---
-
-
 ![Image de Richard Strauss](https://upload.wikimedia.org/wikipedia/commons/9/9d/Richard_Strauss_-_Neal_O%27Doan_-_Burleske.ogg)
 
 ###### Questions

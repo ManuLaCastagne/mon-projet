@@ -18,8 +18,9 @@ indice_5:
   - Pionnier de l'aviation
 indice_6:
   - Monoplane
+culture_g_score: 80
+culture_g_justification: "Pionnier français emblématique de l’aviation, régulièrement interrogé à propos de la traversée de la Manche et des débuts de l’aéronautique."
 ---
-
 ![Image de Louis Blériot](https://upload.wikimedia.org/wikipedia/commons/9/9c/Louis_Bleriot.jpg)
 
 ###### Questions

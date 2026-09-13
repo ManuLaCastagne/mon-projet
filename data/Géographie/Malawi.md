@@ -24,8 +24,9 @@ indice_6 :
   - Zomba
 questions:
  - Quel pays de l'Est de l'Afrique, allongé du nord au sud et anciennement appelé Nyassaland, doit son nom au lac qui le borde ?
+culture_g_score: 60
+culture_g_justification: "Pays africain classique grâce au lac Malawi, à son histoire coloniale, à sa géographie enclavée et à sa faune, mais rarement incontournable."
 ---
-
 ![Image de Malawi](https://upload.wikimedia.org/wikipedia/commons/1/1f/Malawi_Rugby_Training.jpg)
 
 ![[Carte_Malawi.png]]

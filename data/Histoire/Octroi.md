@@ -20,8 +20,9 @@ indice_6 :
   - développement urbain
 questions:
  - Quel droit en 1791 est supprimé à l'entrée de Paris ?
+culture_g_score: 60
+culture_g_justification: "Ancien impôt urbain français identifiable par les barrières d’octroi, avec quelques angles historiques et administratifs classiques."
 ---
-
 ![Image de Octroi](https://upload.wikimedia.org/wikipedia/commons/c/cb/Nantes_Octroi_02.jpg)
 
 ###### Questions

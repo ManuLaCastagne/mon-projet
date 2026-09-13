@@ -22,8 +22,9 @@ indice_6 :
   - Redemption Song
 questions:
  - Musicien à qui l'on a fait  des funérailles nationales le 21 mai 1981, j'ai enregistré mon 1er tube "Judge not" en 1961.  Né en 45 dans une île des Caraïbes dont l'indépendance en 62 a marqué la naissance d'une industrie musicale locale...
+culture_g_score: 100
+culture_g_justification: "Icône mondiale du reggae et de la paix, extrêmement fréquente et exploitable par ses chansons, la Jamaïque et son contexte politique."
 ---
-
 ![Image de Bob Marley](https://upload.wikimedia.org/wikipedia/commons/f/f8/Bob_Marley_-_Statue_-_Kingston_-_Jamaica.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/01LrBOfHiRiypjVyBIxWKh" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

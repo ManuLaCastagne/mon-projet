@@ -20,8 +20,9 @@ indice_6 :
   - personnalité des années 80 et 90
 questions:
  - Quel animateur, ayant fait ses débuts à la télévision en 1983 en présentant le jeu "Super défi", a ensuite animé "Ciel, mon mardi !"?
+culture_g_score: 76
+culture_g_justification: "Animateur emblématique des talk-shows français, régulièrement interrogé à travers ses émissions, ses formats et la télévision des années 1990."
 ---
-
 ![Image de Christophe Dechavanne](https://upload.wikimedia.org/wikipedia/commons/1/19/Christophe_Dechavanne_Cannes.jpg)
 
 ###### Questions

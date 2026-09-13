@@ -20,9 +20,9 @@ indice_5 :
   - Sicario
 indice_6 : 
   - Une place parmi les stars d'Hollywood
+culture_g_score: 76
+culture_g_justification: "Actrice internationale associée à plusieurs films très connus, notamment Le Diable s’habille en Prada, Edge of Tomorrow et la saga Sans un bruit."
 ---
-
-
 ![Image de Emily Blunt](https://upload.wikimedia.org/wikipedia/commons/1/17/Emily_Blunt_in_2014.jpg)
 
 ###### Questions

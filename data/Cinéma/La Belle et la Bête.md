@@ -20,9 +20,9 @@ indice_5 :
   - Gaston
 indice_6 : 
   - Belle
+culture_g_score: 100
+culture_g_justification: "Conte universel et classique Disney offrant une exceptionnelle variété de questions sur l'animation, la littérature, la musique, les Oscars et les adaptations."
 ---
-
-
 ![Image de La Belle et la Bête](https://upload.wikimedia.org/wikipedia/commons/4/4d/Recueil._%22La_belle_et_la_b%C3%AAte%22_film_de_Jean_Cocteau_-_btv1b105226336_%28014_of_126%29.jpg)
 
 ###### Questions

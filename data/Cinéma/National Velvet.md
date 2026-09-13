@@ -20,8 +20,9 @@ indice_5 :
   - Mickey Rooney
 indice_6 : 
   - adaptation de roman
+culture_g_score: 51
+culture_g_justification: "Classique familial associé à Elizabeth Taylor et à l’équitation, mais rarement interrogé en dehors de quelques repères cinéphiles."
 ---
-
 ![Image de National Velvet](https://upload.wikimedia.org/wikipedia/commons/7/71/National-Velvet-1.jpg)
 
 ###### Questions

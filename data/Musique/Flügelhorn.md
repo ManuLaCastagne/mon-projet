@@ -22,8 +22,9 @@ indice_6 :
   - plus doux qu'une trompette
 questions:
  - Quel instrument à pistons proche du clairon est utilisée dans les orchestres et les fanfares ?
+culture_g_score: 32
+culture_g_justification: "Cuivre de jazz et de brass band relativement confidentiel, généralement limité à des questions d'organologie spécialisées."
 ---
-
 ![Image de Flügelhorn](https://upload.wikimedia.org/wikipedia/commons/b/b9/Yamaha_Flugelhorn_YFH-8310Z.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Canonisation
 questions:
  - En Italie, quel prêtre, mort en 1968 et canonisé en 2002, est considéré par la ferveur populaire comme un grand faiseur de miracles ?
+culture_g_score: 64
+culture_g_justification: "Saint catholique très populaire, Padre Pio est surtout interrogé au sujet des stigmates, de la canonisation et de ses phénomènes mystiques."
 ---
-
 ![Image de Padre Pio](https://upload.wikimedia.org/wikipedia/commons/f/fa/Puerto_de_la_Cruz_%E2%80%93_Padre_Pio%2C_Iglesia_N._S._de_la_Paz.jpg)
 
 ###### Questions

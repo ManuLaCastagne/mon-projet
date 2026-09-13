@@ -19,8 +19,9 @@ indice_5 :
   - diffusion nocturne
 indice_6 : 
   - émissions culturelles
+culture_g_score: 36
+culture_g_justification: "Émission récente de débat et d’interviews, encore peu installée dans les références classiques des quiz."
 ---
-
 ![Image de On est en direct](https://upload.wikimedia.org/wikipedia/commons/a/a8/Michel_Chossudovsky_En_direct_d%27Alep.jpg)
 
 ###### Questions

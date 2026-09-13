@@ -20,8 +20,9 @@ indice_6 :
   - Indépendance de la Tunisie et du Maroc
 questions:
  - Quel homme politique mis fin à la guerre d'Indochine, fut en son temps le plus jeune avocat à 19 ans, et le plus jeune ministre à 31 ans ?
+culture_g_score: 80
+culture_g_justification: "Figure majeure de la IVe République, utile pour l’Indochine, les accords de Genève, la politique française et plusieurs réformes sociales."
 ---
-
 ![Image de Pierre Mendès-France](https://upload.wikimedia.org/wikipedia/commons/6/62/Pierre_Mend%C3%A8s-France_1932.jpg)
 
 ###### Questions

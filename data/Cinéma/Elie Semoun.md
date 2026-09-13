@@ -22,8 +22,9 @@ indice_6 :
   - Les Trois Frères le retour
 questions:
  - Quel comédien et humoriste, est resté célèbre pour ses "Petites annonces" ?
+culture_g_score: 56
+culture_g_justification: "Humoriste populaire associé à Dieudonné, Ducobu et la voix de Sid, mais dont l’importance reste principalement francophone."
 ---
-
 ![Image de Elie Semoun](https://upload.wikimedia.org/wikipedia/commons/c/cc/%C3%89lie_Semoun_2016.jpg)
 
 ###### Questions

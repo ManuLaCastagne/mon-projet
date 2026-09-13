@@ -22,8 +22,9 @@ indice_6 :
   - Crossroads
 questions:
  - Quel autre musicien, dont elle deviendra la femme après son divorce avec G.Harrison, a composé pour P.Boyd la chanson "Layla"?
+culture_g_score: 96
+culture_g_justification: "Guitariste majeur du rock et du blues, lié à plusieurs groupes, à une longue carrière solo et à des chansons emblématiques."
 ---
-
 ![Image de Eric Clapton](https://upload.wikimedia.org/wikipedia/commons/0/0a/Eric_Clapton_-_Royal_Albert_Hall_-_Wednesday_24th_May_2017_EricClaptonRAH240517-30_%2834987232355%29_%28cropped%29.jpg)
 
 ###### Questions

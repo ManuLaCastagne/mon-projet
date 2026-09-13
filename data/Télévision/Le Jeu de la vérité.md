@@ -20,8 +20,9 @@ indice_6 :
   - célébrités invitées
 questions:
  - En 1985, lors de quelle émission, présentée par Patrick Sabatier, Chantal Goya est-elle déstabilisée par la question d'une institutrice?
+culture_g_score: 76
+culture_g_justification: "Émission culte de la télévision française, fréquemment évoquée pour Patrick Sabatier, ses révélations et l’affaire Gainsbourg-Houston."
 ---
-
 ![Image de Le Jeu de la vérité](https://upload.wikimedia.org/wikipedia/commons/3/37/Gourmont_-_Le_Puits_de_la_v%C3%A9rit%C3%A9%2C_1922.djvu)
 
 ###### Questions

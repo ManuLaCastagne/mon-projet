@@ -18,8 +18,9 @@ indice_5 :
   - Ligue des champions
 indice_6 : 
   - Club européen
+culture_g_score: 24
+culture_g_justification: "Club slovène important nationalement et vainqueur européen en 2004, mais très rarement rencontré par un généraliste."
 ---
-
 ![Image de RK Celje](https://upload.wikimedia.org/wikipedia/commons/8/80/RK_Celje1.png)
 
 ###### Questions

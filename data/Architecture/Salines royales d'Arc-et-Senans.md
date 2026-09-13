@@ -20,9 +20,9 @@ indice_6 :
   - XVIIIe siècle
 questions:
  - Modèle d'architecture visionnaire réunissant lieux d'habitation et de production, je suis une manufacture située dans le Doubs qui produisait du sel.
+culture_g_score: 72
+culture_g_justification: "Site patrimonial important, très utile pour Claude-Nicolas Ledoux, l'utopie industrielle, les Lumières et l'UNESCO."
 ---
-
-
 ![Image de Salines royales d'Arc-et-Senans](https://upload.wikimedia.org/wikipedia/commons/e/e0/Saline_royale_d%27Arc-et-Senans_maison.jpg)
 
 ###### Questions

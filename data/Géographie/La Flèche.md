@@ -24,9 +24,9 @@ indice_6:
   - montagnes
 questions:
   - Quelle commune de la Sarthe abrite le Prytanée national militaire...
+culture_g_score: 40
+culture_g_justification: "La Flèche est principalement associée au Prytanée national militaire et ne fournit que quelques angles de questionnement."
 ---
-
-
 ![[Carte_Flèche.png]]
 ###### Questions
 

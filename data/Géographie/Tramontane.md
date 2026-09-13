@@ -24,8 +24,9 @@ indice_6 :
   - accélère en passant par les vallées
 questions:
  - Vent ayant donné mon nom à un feuilleton français diffusé en 1999, je souffle en moyenne 130 jours par an.  Parcourant le seuil de Naurouze, je suis généralement accompagné d'un ciel dégagé lumineux et suis notamment lié au creusement d'une dépression sur le golfe de Gênes.
+culture_g_score: 60
+culture_g_justification: "La tramontane est un vent régional classique pouvant être interrogé en météorologie, géographie française et culture populaire."
 ---
-
 ![Image de Tramontane](https://upload.wikimedia.org/wikipedia/commons/b/b8/Septentrio_%28vento_di_Tramontana%29_-_Jacopo_de%27_Barbari.jpg)
 
 ![[Carte_Tramontane.png]]

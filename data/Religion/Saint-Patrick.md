@@ -20,8 +20,9 @@ indice_6 :
   - Évangélisation
 questions:
  - Le Saint né vers 385, de mon vrai nom Maewyn Succat, je suis enlevé à l'âge de 16 ans par des pirates et vendu comme esclave.
+culture_g_score: 84
+culture_g_justification: "Saint patron de l’Irlande, associé au 17 mars, au trèfle et à l’identité irlandaise, il est très rentable en culture générale."
 ---
-
 ![Image de Saint-Patrick](https://upload.wikimedia.org/wikipedia/commons/2/21/Saint_Patrick_Catholic_Church_%28Junction_City%2C_Ohio%29_-_stained_glass%2C_Saint_Patrick_-_detail.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Prix de l'Académie Charles-Cros
 indice_6 : 
   - Ma petite rue
+culture_g_score: 60
+culture_g_justification: "Auteur de L’Eau vive et figure connue de la chanson française, Guy Béart est utile mais nettement moins incontournable que Piaf ou Brel."
 ---
-
 ![Image de Guy Béart](https://upload.wikimedia.org/wikipedia/commons/b/ba/Guy_B%C3%A9art_2012.jpg)
 
 ###### Questions

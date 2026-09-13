@@ -20,10 +20,9 @@ indice_6 :
   - Timna
 questions:
  - Livré aux Philistins à la suite de la trahison de Dalila, à qui j'avais révélé que ma force venait de ma chevelure, j'ai péri dans l'effondrement du temple de Dagon.
+culture_g_score: 84
+culture_g_justification: "Personnage biblique emblématique, associé à Dalila, à sa force et à plusieurs épisodes aisément réutilisables en quiz."
 ---
-
-
-
 ![Image de Samson](https://upload.wikimedia.org/wikipedia/commons/8/8e/Samson.JPG)
 
 ###### Questions

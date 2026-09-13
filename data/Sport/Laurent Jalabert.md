@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Quel cycliste français ayant pris sa retraite en 2002 avec 176 victoires à son palmarès était appelé "le panda" ?
  - En cyclisme, quel nom portent les frères Nicolas et Laurent, natifs de Mazamet ?
+culture_g_score: 77
+culture_g_justification: "Figure majeure du cyclisme français, associée à la Vuelta, aux classiques, au maillot à pois et à sa carrière de consultant."
 ---
-
 ![Image de Laurent Jalabert](https://upload.wikimedia.org/wikipedia/commons/6/65/Laurent_Jalabert_%28Tour_de_France_-_stage_8%29_-_2_%28cropped%29.jpg)
 
 ###### Questions

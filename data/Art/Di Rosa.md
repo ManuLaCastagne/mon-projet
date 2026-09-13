@@ -23,8 +23,9 @@ indice_6 :
   - artistique coloré
 questions:
  - Quel peintre sétois, associé au mouvement dit de la Figuration libre, approfondit dans sa ville natale le musée international des arts modestes ?
+culture_g_score: 43
+culture_g_justification: "Hervé Di Rosa est représentatif de la Figuration Libre et du MIAM, mais reste une connaissance spécialisée de l'art contemporain français."
 ---
-
 ![Image de Di Rosa](https://upload.wikimedia.org/wikipedia/commons/3/3e/Costantino_Rosa%2C_Rocca_di_Urgnano.jpg)
 
 ###### Questions

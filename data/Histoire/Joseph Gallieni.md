@@ -20,8 +20,9 @@ indice_6 :
   - maréchal de France
 questions:
  - Quel militaire français, ayant contribué à la victoire de la Marne lors de la Grande Guerre a été fait maréchal à titre posthume en 1921?
+culture_g_score: 64
+culture_g_justification: "Gallieni est une figure classique de la colonisation française et de la bataille de la Marne, avec une fréquence correcte mais des angles relativement limités."
 ---
-
 ![Image de Joseph Gallieni](https://upload.wikimedia.org/wikipedia/commons/2/29/Joseph_Gallieni_01.jpg)
 
 ###### Questions

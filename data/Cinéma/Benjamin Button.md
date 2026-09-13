@@ -22,8 +22,9 @@ indice_6 :
   - Nouvelle Orléans
 questions:
  - Dans un film de 2009, quel personnage incarné par Brad Pitt naît à l'âge de 80 ans, qui passe sa vie à rajeunir dans une "étrange histoire" ?
+culture_g_score: 76
+culture_g_justification: "Film connu et facilement mobilisable via Brad Pitt, Fincher, Fitzgerald, le vieillissement inversé et les Oscars."
 ---
-
 ![Image de Benjamin Button](https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Curious_Case_of_Benjamin_Button_logo.png)
 
 ###### Questions

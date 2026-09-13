@@ -20,10 +20,9 @@ indice_6 :
   - genre thriller et suspense
 questions:
  - En 1979, quelle série avec Claude Jade, librement adaptée d'une oeuvre de Maurice Leblanc, se déroule sur une île bretonne?
+culture_g_score: 60
+culture_g_justification: "Adaptation télévisée identifiable d'un roman de Maurice Leblanc, offrant des liens avec la littérature et les feuilletons français."
 ---
-
-
-
 ![Image de L'Île aux trente cercueils](https://upload.wikimedia.org/wikipedia/commons/b/bc/Leblanc_-_L%E2%80%99%C3%8Ele_aux_trente_cercueils_Image1.jpg)
 
 ###### Questions

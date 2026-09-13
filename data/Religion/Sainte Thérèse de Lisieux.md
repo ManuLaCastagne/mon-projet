@@ -20,8 +20,9 @@ indice_6 :
   - Petite Voie
 questions:
  - En 2015, de quelle sainte française a-t-on canonisé les parents, Zélie et Louis Martin, quelques années après leur béatification à Lisieux ?
+culture_g_score: 72
+culture_g_justification: "Sainte très connue du catholicisme francophone, associée au Carmel, à Lisieux, à l’Histoire d’une âme et au titre de docteur de l’Église."
 ---
-
 ![Image de Sainte Thérèse de Lisieux](https://upload.wikimedia.org/wikipedia/commons/1/18/Chapelle_Notre-Dame-de-l%27Assomption_et_Sainte-Th%C3%A9r%C3%A8se-de-Lisieux_%28Wintzenheim%2C_Logelbach%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - animation
 questions:
  - Cinéma. En 2007, quelle dessinatrice franco-iranienne a co-réalisé, avec Vincent Paronnaud, le film d'animation "Persépolis" ?
+culture_g_score: 64
+culture_g_justification: "Figure identifiable grâce à Persepolis, offrant des liens utiles entre cinéma, bande dessinée et Iran."
 ---
-
 ![Image de Marjane Satrapi](https://upload.wikimedia.org/wikipedia/commons/3/3f/Marjane_Satrapi_Cannes_2008%28Cropped%29.jpg)
 
 ###### Questions

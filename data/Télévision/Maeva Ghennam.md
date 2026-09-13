@@ -19,8 +19,9 @@ indice_5 :
   - réseaux sociaux
 indice_6 : 
   - chirurgie esthétique
+culture_g_score: 24
+culture_g_justification: "Personnalité de téléréalité connue dans un public ciblé, offrant surtout des questions biographiques ou liées aux Marseillais."
 ---
-
 ![Image de Maeva Ghennam]()
 
 ###### Questions

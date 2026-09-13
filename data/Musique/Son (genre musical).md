@@ -22,8 +22,9 @@ indice_6 :
   - Santiago de Cuba
 questions:
  - Quel genre musical cubain au nom court, fut mis à l'honneur par Compé Segundo ?
+culture_g_score: 64
+culture_g_justification: "Le son cubain est une notion structurante pour comprendre la salsa, les musiques afro-cubaines et l’influence du « Buena Vista Social Club »."
 ---
-
 ![Image de Son (genre musical)](https://upload.wikimedia.org/wikipedia/commons/d/d1/Seul_%26_unique_dans_son_genre_Fr%C3%A9dy_imitateur_-_affiche_-_Affiches_Faria_-_btv1b9004349t.jpg)
 
 ###### Questions

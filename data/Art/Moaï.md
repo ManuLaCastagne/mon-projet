@@ -23,8 +23,9 @@ indice_6 :
   - Statues mystérieuses
 questions:
  - Statues élevées sur des plateformes appelées "ahu", nous sommes parfois coiffés d'un chapeau de tuf rouge. D'une hauteur de 1 à 10 m...
+culture_g_score: 81
+culture_g_justification: "Les moaï sont une référence géographique et archéologique emblématique, très fréquente dans les quiz sur l'île de Pâques et les civilisations."
 ---
-
 ![Image de Moaï](https://upload.wikimedia.org/wikipedia/commons/a/a2/Moai_Rano_raraku.jpg)
 
 ###### Questions

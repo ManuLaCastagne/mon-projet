@@ -22,8 +22,9 @@ indice_6 :
   - danse traditionnelle
 questions:
  - En 1970, dans quelle chanson  de Michel Sardou entend-on  "On est là pour boire un coup..."
+culture_g_score: 44
+culture_g_justification: "Succès notable de Michel Sardou, mais titre précis offrant peu d'angles et rarement prioritaire dans un entraînement généraliste."
 ---
-
 ![Image de Les Bals populaires](https://upload.wikimedia.org/wikipedia/commons/8/8b/La_F%C3%AAte_nationale._-_Les_bals_populaires_dans_les_quartiers_excentriques._G.24555.jpg)
 
 ###### Questions

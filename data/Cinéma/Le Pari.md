@@ -18,6 +18,8 @@ indice_4:
 indice_5:
   - "1997"
 indice_6:
+culture_g_score: 52
+culture_g_justification: "Comédie populaire des Inconnus, régulièrement reconnaissable en quiz francophone mais offrant peu d’angles au-delà de son casting et de son intrigue."
 ---
 ![[Pasted image 20260803220757.png]]
 ###### Questions

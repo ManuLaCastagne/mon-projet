@@ -15,8 +15,9 @@ indice_6:
   - Ornementale et symbolique
 questions:
   - Quelle plante bulbeuse de l'hémisphère nord appartenant aux liliacées peut être "martagon" ou "tigré" ?
+culture_g_score: 76
+culture_g_justification: "Fleur emblématique liée à la pureté, à la royauté, à l’héraldique et à de nombreuses variétés connues."
 ---
-
 ![Image de Lys](https://upload.wikimedia.org/wikipedia/commons/e/ea/Bousbecque_barge_JER_STE_%28ENI_1823386%29_sur_la_Lys_en_2022_%281%29.jpg)
 
 ###### Questions

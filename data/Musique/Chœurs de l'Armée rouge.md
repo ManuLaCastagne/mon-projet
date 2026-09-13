@@ -22,8 +22,9 @@ indice_6 :
   - Ensemble vocal et instrumental
 questions:
  - En 1928, quel ensemble de chanteurs, de musiciens et de danseurs russes est fondé...
+culture_g_score: 68
+culture_g_justification: "Ensemble vocal russe très reconnaissable, associé à l’Armée rouge, aux chants patriotiques, à Moscou et à l’accident de 2016."
 ---
-
 ![Image de Chœurs de l'Armée rouge](https://upload.wikimedia.org/wikipedia/commons/0/0c/Alexandrov_Ensemble_15.jpg)
 
 ###### Questions

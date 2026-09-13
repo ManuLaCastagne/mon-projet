@@ -20,8 +20,9 @@ indice_6 :
   - Civilisations égéennes
 questions:
  - La main passe.  Je suis associée au site de Cucuruzzu, en Corse. Ayant accéléré la hiérarchisation de la société, je suis marquée...
+culture_g_score: 72
+culture_g_justification: "L'Âge du bronze est un grand repère chronologique associé aux premières civilisations, à la métallurgie et à l'archéologie."
 ---
-
 ![Image de Âge de bronze](https://upload.wikimedia.org/wikipedia/commons/2/24/Cr%C3%A2nes_tr%C3%A9panation_%C3%A2ge_du_bronze.jpg)
 
 ###### Questions

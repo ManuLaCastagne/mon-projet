@@ -18,8 +18,9 @@ indice_5:
   - Dynastie des Thoutmôsides
 indice_6:
   - Howard Carter
+culture_g_score: 89
+culture_g_justification: "Pharaon mondialement célèbre grâce à sa tombe, son masque funéraire, Howard Carter et la légende de la malédiction."
 ---
-
 ![Image de Toutankhamon](https://upload.wikimedia.org/wikipedia/commons/7/78/%22King_Tut_as_I_know_him%22_by_Howard_Carter_1926.jpg)
 
 ###### Questions

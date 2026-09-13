@@ -18,8 +18,9 @@ indice_5 :
   - Panoramix
 indice_6 : 
   - Les Éditions Albert René
+culture_g_score: 93
+culture_g_justification: "Co-créateur d'Astérix, Uderzo est incontournable pour la bande dessinée francophone, ses personnages, albums et collaborations."
 ---
-
 ![Image de Albert Uderzo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Albert_Uderzo_2012.jpg)
 
 ###### Questions

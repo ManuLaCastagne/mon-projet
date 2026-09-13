@@ -17,8 +17,9 @@ indice_5 :
   - réalisateur Spielberg
 indice_6 : 
   - tournage 1993
+culture_g_score: 76
+culture_g_justification: "Actrice reconnaissable grâce à Jurassic Park, Lynch et Marriage Story, offrant de nombreux indices de filmographie et de récompenses."
 ---
-
 ![Image de Laura Dern]()
 
 ###### Questions

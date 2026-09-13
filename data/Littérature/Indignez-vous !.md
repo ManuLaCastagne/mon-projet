@@ -18,8 +18,9 @@ indice_5:
   - engagement
 indice_6:
   - révolte
+culture_g_score: 73
+culture_g_justification: "Best-seller et manifeste associé à Stéphane Hessel et aux mouvements des Indignados, il offre plusieurs entrées historiques et citoyennes malgré une portée littéraire limitée."
 ---
-
 ![Image de Indignez-vous !](https://upload.wikimedia.org/wikipedia/commons/b/b2/Indignez-vous%21_%285755136858%29.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Plateau de Gizeh
 questions:
  - Quelle pyramide de l'ancienne Egypte...
+culture_g_score: 100
+culture_g_justification: "La pyramide de Khéops est l’une des références les plus incontournables des quiz, avec des angles historiques, architecturaux, géographiques et scientifiques."
 ---
-
 ![Image de Kheops](https://upload.wikimedia.org/wikipedia/commons/b/b1/Khufu_statue.jpg)
 
 ###### Questions

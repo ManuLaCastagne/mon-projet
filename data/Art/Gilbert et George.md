@@ -23,8 +23,9 @@ indice_6 :
   - sculptures humaines vivantes
 questions:
  - Qui sont ces 2 artistes  qui, après leur rencontre à Londres en 1967, ont déclaré être 2 "sculptures vivantes" ne formant qu'un seul artiste?
+culture_g_score: 47
+culture_g_justification: "Le duo est un repère de l’art contemporain britannique grâce à l’art vivant, aux performances et au prix Turner."
 ---
-
 ![Image de Gilbert et George](https://upload.wikimedia.org/wikipedia/commons/2/2d/Recueil._%22George_et_Margaret%22_de_Marc-Gilbert_Sauvajon_et_J._Wall%2C_d%27apr%C3%A8s_G%C3%A9rald_Savory_-_btv1b10520830x_%2869_of_94%29.jpg)
 
 ###### Questions

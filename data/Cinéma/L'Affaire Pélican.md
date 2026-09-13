@@ -22,8 +22,9 @@ indice_6 :
   - meurtre de deux juges de la Cour suprême
 questions:
  - 1994. Thriller politique où J. Roberts...
+culture_g_score: 60
+culture_g_justification: "Thriller juridique identifiable par son adaptation de Grisham, Julia Roberts et Denzel Washington, sans être un classique absolument incontournable."
 ---
-
 ![Image de L'Affaire Pélican](https://upload.wikimedia.org/wikipedia/commons/e/ef/Rhod%C3%A9sie_et_Transvaal_-_impressions_de_voyage_%28IA_rhodsieettrans00bord%29.pdf)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - Née en Indochine française
 indice_6:
   - Nouveau Roman
+culture_g_score: 83
+culture_g_justification: "Écrivaine très rentable grâce à L’Amant, au prix Goncourt, à l’Indochine, au théâtre et au scénario d’Hiroshima mon amour."
 ---
-
-
 ![Image de Marguerite Duras](https://upload.wikimedia.org/wikipedia/commons/1/12/Identite-Duras-1960-Sacem.png)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - châtaigniers
 questions:
  - Quelle partie de la bordure orientale du Massif central, entre l'Hérault et l'Ardèche, est associée à des apprêts comportant des marrons?
+culture_g_score: 72
+culture_g_justification: "Massif français important pour l’agropastoralisme, le protestantisme, le parc national, le climat et les paysages cévenols."
 ---
-
-
 ![Image de Cévennes](https://upload.wikimedia.org/wikipedia/commons/c/c5/00_1272_Cevennen_%28C%C3%A9vennes%29_-_Frankreich.jpg)
 
 ![[Carte_Cévennes.png]]

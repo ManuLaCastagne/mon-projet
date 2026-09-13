@@ -19,9 +19,9 @@ indice_5:
   - Croix de fer
 indice_6:
   - Red Baron
+culture_g_score: 72
+culture_g_justification: "Le surnom de Manfred von Richthofen est une référence classique de la Première Guerre mondiale et de l’histoire de l’aviation."
 ---
-
-
 ![Image de Baron rouge](https://upload.wikimedia.org/wikipedia/commons/1/11/Manfred_von_Richthofen.jpg)
 
 ###### Questions

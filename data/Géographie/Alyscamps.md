@@ -22,8 +22,9 @@ indice_6 :
   - Provence
 questions:
  - Quelle nécropole d'Arles, célèbre pour son allée des sarcophages qui doit son nom au latin signifiant Champs Elysées ?
+culture_g_score: 31
+culture_g_justification: "Nécropole antique d’Arles à forte valeur patrimoniale, mais sujet très spécialisé et peu rentable pour un généraliste."
 ---
-
 ![Image de Alyscamps](https://upload.wikimedia.org/wikipedia/commons/e/e3/Les_Alyscamps_Arles.JPG)
 
 ![[Carte_Alyscamps.png]]

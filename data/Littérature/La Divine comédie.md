@@ -22,8 +22,9 @@ indice_6 :
   - XIVe siècle
 questions:
  - Quel poème de Dante Alighieri se compose d'un prologue de 3 parties dont l'une est intitulée "Le Paradis"?
+culture_g_score: 100
+culture_g_justification: "Monument de la littérature mondiale, La Divine Comédie ouvre de très nombreux angles sur Dante, l’Italie, la religion, l’art et l’histoire."
 ---
-
 ![Image de La Divine comédie](https://upload.wikimedia.org/wikipedia/commons/5/5a/Dante_-_La_Divine_Com%C3%A9die_%28trad._Artaud_de_Montor%29.djvu)
 
 ###### Questions

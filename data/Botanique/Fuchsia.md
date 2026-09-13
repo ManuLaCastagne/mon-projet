@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale pour les jardins et balcons
 questions:
  - Quel arbrisseau de la famille des oenothéracées a donné son nom à une couleur rose, évoquant la teinte de ses fleurs pendantes?
+culture_g_score: 52
+culture_g_justification: "Fleur très reconnaissable et ayant donné son nom à une couleur, mais d'importance historique limitée."
 ---
-
 ![Image de Fuchsia](https://upload.wikimedia.org/wikipedia/commons/c/c7/Fuchsia_October_2014-1a.jpg)
 
 ###### Questions

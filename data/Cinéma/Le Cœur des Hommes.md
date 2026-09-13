@@ -22,8 +22,9 @@ indice_6 :
   - bandes originales de Khaled
 questions:
  - 2003, dans quel film d'Esposito G. Darmon et B. Campan sont en vacances en Provence ?
+culture_g_score: 44
+culture_g_justification: "Comédie dramatique française connue surtout de son public national, mais peu fréquente et centrée sur un nombre réduit de repères."
 ---
-
 ![Image de Le Cœur des Hommes](https://upload.wikimedia.org/wikipedia/commons/0/04/Saint-Laurent-des-Hommes_%C3%A9glise_vitrail_Sacr%C3%A9_coeur.JPG)
 
 ###### Questions

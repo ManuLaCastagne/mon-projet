@@ -21,9 +21,9 @@ indice_5:
   - chorégraphie
 indice_6:
   - promotion 2020
+culture_g_score: 20
+culture_g_justification: "Danseur étoile récent et peu médiatisé hors du ballet français, Paul Marque offre une connaissance essentiellement ponctuelle."
 ---
-
-
 ![Image de Paul Marque](https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_Marque_-_Danseur_Etoile.jpg)
 
 ###### Questions

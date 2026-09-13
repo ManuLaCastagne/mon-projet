@@ -22,8 +22,9 @@ indice_5 :
   - Ensemble de mausolées
 indice_6 : 
   - Timourides
+culture_g_score: 36
+culture_g_justification: "Ensemble funéraire remarquable de Samarcande, mais trop spécialisé et rarement interrogé hors des quiz sur l’Asie centrale."
 ---
-
 ![Image de Shah-i-Zinda]()
 
 ###### Questions

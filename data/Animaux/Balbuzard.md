@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la conservation de la nature
 questions:
  - Quel est cet oiseau, le seul rapace diurne d'Europe exclusivement piscivore…
+culture_g_score: 60
+culture_g_justification: "Rapace pêcheur classique des questions de zoologie et de migration, mais moins incontournable que l'aigle ou le faucon."
 ---
-
 ![Image de Balbuzard](https://upload.wikimedia.org/wikipedia/commons/6/66/Balbuzard_pecheur_Lac_de_Tunis.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - origine espagnole
 questions:
  - Expression qui servait à désigner, pendant la guerre civile espagnole, les éléments nationalistes… Demeurés dans Madrid pendant le siège de la capitale par 4 colonnes franquistes...
+culture_g_score: 81
+culture_g_justification: "Expression historique très réutilisable, issue de la guerre d’Espagne et applicable à de nombreuses situations de collaboration clandestine."
 ---
-
 ![Image de Cinquième colonne](https://upload.wikimedia.org/wikipedia/commons/5/59/LL-Q150_%28fra%29-Guilhelma-cinqui%C3%A8me_colonne.wav)
 
 ###### Questions

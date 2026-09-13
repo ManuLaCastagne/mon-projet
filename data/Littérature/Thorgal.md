@@ -22,8 +22,9 @@ indice_6 :
   - Jolan
 questions:
  - Quel héros de BD, créé par Van Hamme et Rosinski, est un guerrier amoureux d'Aaricia, la fille de Gandalf-le-fou, chef des Vikings du Nord ?
+culture_g_score: 76
+culture_g_justification: "Série majeure de la bande dessinée franco-belge, permettant des questions sur Van Hamme, Rosiński, la mythologie nordique, la science-fiction et les albums."
 ---
-
 ![Image de Thorgal](https://upload.wikimedia.org/wikipedia/commons/6/62/Stripmuur_Thorgal_-_perpective_corrected.jpg)
 
 ###### Questions

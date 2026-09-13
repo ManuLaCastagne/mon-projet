@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fidélité
 questions:
  - quel race de chien est chère à l'inspecteur Columbo ?
+culture_g_score: 53
+culture_g_justification: "Type de chien assez connu grâce au Basset Hound et à Droopy, mais aux angles de question limités."
 ---
-
 ![Image de Basset](https://upload.wikimedia.org/wikipedia/commons/b/be/Basset_Art%C3%A9sien_Normand_Fond_Blanc.jpg)
 
 ###### Questions

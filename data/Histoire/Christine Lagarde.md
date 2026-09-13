@@ -20,9 +20,9 @@ indice_6 :
   - première femme à occuper ces postes
 questions:
  - En 2011, quelle avocate française, ministre à plusieurs reprises, devient la première femme à occuper le poste de directeur général du FMI?
+culture_g_score: 80
+culture_g_justification: "Responsable du FMI puis de la BCE, elle est une référence fréquente pour les institutions économiques et la place des femmes en politique."
 ---
-
-
 ![Image de Christine Lagarde](https://upload.wikimedia.org/wikipedia/commons/6/63/Lagarde%2C_Christine_%28official_portrait_2011%29.jpg)
 
 ###### Questions

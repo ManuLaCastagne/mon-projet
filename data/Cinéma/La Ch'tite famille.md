@@ -22,8 +22,9 @@ indice_6 :
   - Julien Barbé
 questions:
  - Film familial avec les acteurs François Berléand et Pierre Richard, je suis la 6e réalisation de l'humoriste D.Boon.
+culture_g_score: 44
+culture_g_justification: "Succès populaire de Dany Boon, mais film récent et assez peu important ou transversal dans la culture cinématographique générale."
 ---
-
 ![Image de La Ch'tite famille](https://upload.wikimedia.org/wikipedia/commons/d/d1/Dany_Boon_C%C3%A9sars_2015_4.jpg)
 
 ###### Questions

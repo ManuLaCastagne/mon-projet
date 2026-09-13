@@ -18,8 +18,9 @@ indice_5 :
   - Compas et carte
 indice_6 : 
   - Désert du Sahara
+culture_g_score: 40
+culture_g_justification: "Compétition originale et médiatisée en France, mais dont les possibilités de questions restent limitées."
 ---
-
 ![Image de Rallye des Gazelles](https://upload.wikimedia.org/wikipedia/commons/6/6e/Toyota_Team_138_dunes.JPG)
 
 ###### Questions

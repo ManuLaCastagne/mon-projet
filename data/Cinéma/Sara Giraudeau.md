@@ -18,8 +18,9 @@ indice_5 :
   - Simon Buret
 indice_6 : 
   - Emmanuelle Béart
+culture_g_score: 47
+culture_g_justification: "Actrice française récompensée et liée à une famille artistique connue, mais encore peu fréquente comme réponse autonome de quiz."
 ---
-
 ![Image de Sara Giraudeau](https://upload.wikimedia.org/wikipedia/commons/3/37/Sara_Giraudeau_2016.jpg)
 
 ###### Questions

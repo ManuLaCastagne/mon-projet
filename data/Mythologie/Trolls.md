@@ -18,9 +18,9 @@ indice_6 :
   - Farces
 questions:
  - Type de créature, j'habite le village de Phalompe dans une série de bandes dessinées d'Arleston et Mourier à laquelle mon nom est associé.  Pouvant avoir l'aspect d'un géant coiffé de sapins ou celui d'un nain...
+culture_g_score: 64
+culture_g_justification: "Les trolls sont des créatures très connues du folklore nordique et de la culture populaire, mais leurs usages en quiz restent relativement généraux."
 ---
-
-
 ![Image de Trolls](https://upload.wikimedia.org/wikipedia/commons/a/a1/Troll_becoming_a_mountain_ill_jnl.png)
 
 ###### Questions

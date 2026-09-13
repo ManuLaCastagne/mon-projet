@@ -22,8 +22,9 @@ indice_5 :
   - Seine
 indice_6 : 
   - Cité-jardin
+culture_g_score: 31
+culture_g_justification: "Commune francilienne surtout mobilisée par quelques repères locaux ou biographiques, avec un rendement limité."
 ---
-
 ![[Carte_Suresnes.png]]
 
 ###### Questions

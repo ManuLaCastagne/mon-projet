@@ -21,8 +21,9 @@ indice_5 :
   - allégorie des saisons
 indice_6 : 
   - personnages mythologiques
+culture_g_score: 68
+culture_g_justification: "La Primavera de Botticelli est une œuvre majeure et fréquente, mais le titre reste moins universellement exploité que La Naissance de Vénus."
 ---
-
 ![Image de Le Printemps (peinture)](https://upload.wikimedia.org/wikipedia/commons/c/cf/%C3%89douard_Manet_-_Jeanne_%28Spring%29.jpg)
 
 ###### Questions

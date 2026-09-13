@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de ténacité et de discrétion
 questions:
  - Quel petit passereau insectivore devant son nom au fait qu'il niche dans les trous des murs, apprécie les jardins en hiver ?
+culture_g_score: 44
+culture_g_justification: "Le troglodyte mignon est un oiseau européen classique mais relativement discret, avec des questions surtout ornithologiques."
 ---
-
-
 ![Image de Troglodyte](https://upload.wikimedia.org/wikipedia/commons/e/ed/Eurasian_wren_%28Troglodytes_troglodytes%29.jpg)
 
 ###### Questions

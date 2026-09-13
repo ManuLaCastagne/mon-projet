@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Latin
+culture_g_score: 31
+culture_g_justification: "Inflammation médicale assez spécialisée, avec une fréquence quiz limitée malgré son lien avec les articulations."
 ---
 ###### Questions 
 

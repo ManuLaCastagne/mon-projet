@@ -15,8 +15,9 @@ indice_6 :
   - Production de fibres textiles
 questions:
  - . Fournissant une fibre textile dont la 1re filature apparaît en Angleterre en 1641, j'ai pour principaux producteurs mondiaux les Etats-Unis, la Chine...
+culture_g_score: 32
+culture_g_justification: "Le cotonnier est surtout connu indirectement à travers le coton, et son identification botanique précise est peu fréquente."
 ---
-
 ![Image de Cotonnier](https://upload.wikimedia.org/wikipedia/commons/f/fd/Asclepias_syriaca_close_up_of_the_seed_copy.jpg)
 
 ###### Questions

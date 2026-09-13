@@ -24,8 +24,9 @@ indice_6 :
   - tourisme alternatif
 questions:
  - Type de lieu ayant donné son titre au 25e album de Lucky Luke, je suis associé à Craco, en Sport/Italie, et à Kalmanskop, en Namibie. Fréquent aux Etats-Unis, comme à Bodie, en Sport/Californie...
+culture_g_score: 63
+culture_g_justification: "Notion géographique illustrée par Pripyat et Bodie, permettant des questions sur l’abandon, les catastrophes et l’histoire minière."
 ---
-
 ![Image de Ville fantôme](https://upload.wikimedia.org/wikipedia/commons/e/e8/Ghost_Town_in_Arizona.jpg)
 
 ![[Carte_Ville fantôme.png]]

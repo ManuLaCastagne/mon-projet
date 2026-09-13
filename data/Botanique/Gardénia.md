@@ -13,9 +13,9 @@ indice_5:
   - Également appelé Jasmin du Cap
 indice_6:
   - Utilisé en parfumerie et comme plante d'intérieur
+culture_g_score: 52
+culture_g_justification: "Arbuste célèbre pour ses fleurs blanches parfumées et son nom lié à Alexander Garden, mais peu central culturellement."
 ---
-
-
 ![Image de Gardénia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gardenia_urvillei_Wikipedia.jpg/1920px-Gardenia_urvillei_Wikipedia.jpg)
 
 ###### Questions

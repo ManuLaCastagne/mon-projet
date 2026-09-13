@@ -20,8 +20,9 @@ indice_6 :
   - Haie de 91,4 cm
 questions:
  - Discipline de l'athlétisme pratiquée en couloir, j'ai permis au Français  Stéphane Diagana de devenir champion du monde à Athènes en 97. Consistant à effectuer un tour de piste tout en franchissant 10 haies…
+culture_g_score: 68
+culture_g_justification: "Discipline olympique associée à Edwin Moses et à plusieurs records, mais avec un champ de questions plus limité."
 ---
-
 ![Image de 400 m haies](https://upload.wikimedia.org/wikipedia/commons/6/63/400_m_haies_2006.jpg)
 
 ###### Questions

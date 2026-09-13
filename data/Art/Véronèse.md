@@ -23,8 +23,9 @@ indice_6 :
   - Paolo Caliari
 questions:
  - Sous quel nom connaît-on le peintre Paolo Caliari, figure de l'école vénitienne du cinquecento et auteur des "Les Noces de Cana" en 1562?
+culture_g_score: 67
+culture_g_justification: "Grand peintre de la Renaissance vénitienne, utile pour l’art religieux, Venise, la couleur et l’affaire du Repas chez Lévi."
 ---
-
 ![Image de Véronèse](https://upload.wikimedia.org/wikipedia/commons/c/cc/Paolo_Veronese%2C_The_Conversion_of_Mary_Magdalene.jpg)
 
 ###### Questions

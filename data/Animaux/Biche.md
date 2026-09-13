@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la douceur
 questions:
  - Femelle d'un ruminant  dont une espèce, dite du père David, fut sauvée grâce aux individus ramenés dans des parcs zoologiques européens, je pèse environ 100 kg.  De couleur marron à brun clair, ne portant pas de bois, je continue souvent à brouter pendant que mon mâle brame...
+culture_g_score: 64
+culture_g_justification: "Femelle du cerf, associée notamment à Bambi et à la faune forestière, mais moins riche que le cerf comme sujet."
 ---
-
 ![Image de Biche](https://upload.wikimedia.org/wikipedia/commons/f/f0/TnT_Biche.jpg)
 
 ###### Questions

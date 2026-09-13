@@ -20,8 +20,9 @@ indice_5:
   - film romantique
 indice_6:
   - chabadabada chabadabada
+culture_g_score: 80
+culture_g_justification: "Film emblématique de Lelouch, associé à Cannes, aux Oscars, à ses acteurs et à la chanson « Chabadabada », il est très exploitable en quiz."
 ---
-
 ![Image de Homme et une femme](https://upload.wikimedia.org/wikipedia/commons/4/4b/Un-homme-et-une-femme-1.png)
 
 ###### Questions

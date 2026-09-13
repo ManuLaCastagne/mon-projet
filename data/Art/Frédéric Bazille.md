@@ -23,8 +23,9 @@ indice_6 :
   - atelier de la rue de la Condamine à Paris
 questions:
  - En art, en 1867, donc XIXe, quel peintre français, considéré comme l'un des initiateurs de l'impressionnisme exécute la grande toile intitulée "Réunion de famille"?
+culture_g_score: 43
+culture_g_justification: "Bazille éclaire les débuts de l’impressionnisme et ses relations avec Monet et Manet, sans être une figure très fréquente."
 ---
-
 ![Image de Frédéric Bazille](https://upload.wikimedia.org/wikipedia/commons/d/d2/Bazille%2C_Fr%C3%A9d%C3%A9ric%2C_album_Manet%2C_BNF_Gallica.jpg)
 
 ###### Questions

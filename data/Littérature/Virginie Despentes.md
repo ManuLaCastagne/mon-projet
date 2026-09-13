@@ -22,8 +22,9 @@ indice_6 :
   - Apocalyptiques et intégrées
 questions:
  - Quelle romancière, révélée par "Baise-moi" en 1994 est l'auteure du roman fleuve "Vernon Subutex" dont le 1er tome, qui a très bien marché, a été publié en 2015 ?
+culture_g_score: 60
+culture_g_justification: "Autrice française contemporaine identifiable par Baise-moi, Apocalypse bébé et l’Académie Goncourt, mais encore moins classique que les grandes figures du canon."
 ---
-
 ![Image de Virginie Despentes](https://upload.wikimedia.org/wikipedia/commons/3/30/Virginie_Despentes_2012.jpg)
 
 ###### Questions

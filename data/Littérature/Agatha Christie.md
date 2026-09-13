@@ -20,8 +20,9 @@ indice_5:
   - Reine du crime
 indice_6:
   - Roman policier
+culture_g_score: 96
+culture_g_justification: "Agatha Christie est une figure incontournable du roman policier, avec des personnages, œuvres, adaptations et records très fréquemment questionnés."
 ---
-
 ![Image de Agatha Christie](https://upload.wikimedia.org/wikipedia/commons/f/f7/Agatha_Christie_in_Nederland_%28detectiveschrijfster%29%2C_bij_aankomst_op_Schiphol_me%2C_Bestanddeelnr_916-8898_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ###### Questions

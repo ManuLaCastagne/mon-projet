@@ -20,8 +20,9 @@ indice_6 :
   - série télévisée américaine
 questions:
  - Quelle série télévisée américaine avec Raymond Burr a pour titre original "Ironside" ?
+culture_g_score: 60
+culture_g_justification: "Série policière américaine classique marquée par son protagoniste en fauteuil roulant, mais moins fréquemment citée aujourd'hui."
 ---
-
 ![Image de L'Homme de fer (série)](https://upload.wikimedia.org/wikipedia/commons/9/9f/Ironside_Beck.jpg)
 
 ###### Questions

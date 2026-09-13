@@ -20,8 +20,9 @@ indice_6 :
   - conquêtes romaines
 questions:
  - Pouvant compter 5000 hommes équipés d'un casque, d'un bouclier et d'un glaive, j'étais divisée en cohortes puis en manipules et comptais...
+culture_g_score: 84
+culture_g_justification: "La légion romaine est une institution militaire fondamentale de l’Antiquité, très utile pour les questions sur Rome, l’armée et l’expansion impériale."
 ---
-
 ![Image de Légion](https://upload.wikimedia.org/wikipedia/commons/a/a1/L%C3%A9gion_d%27Honneur_Paul_Jamot.jpg)
 
 ###### Questions

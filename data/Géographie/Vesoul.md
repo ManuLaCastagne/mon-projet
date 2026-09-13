@@ -24,8 +24,9 @@ indice_6 :
   - Vauban
 questions:
  - D'environ 15 000 habitants, mon activité industrielle est tournée vers l'automobile. Chef-lieu du département de la Haute-Saône, j'abrite un festival de la chanson francophone portant le nom de Jacques Brel à qui je dois une large notoriété.
+culture_g_score: 35
+culture_g_justification: "Préfecture française surtout connue grâce à la chanson de Jacques Brel et à son festival, avec peu d’angles généralistes."
 ---
-
 ![Image de Vesoul](https://upload.wikimedia.org/wikipedia/commons/e/e0/Vesoul_vu_depuis_Cita_02.jpg)
 
 ![[Carte_Vesoul.png]]

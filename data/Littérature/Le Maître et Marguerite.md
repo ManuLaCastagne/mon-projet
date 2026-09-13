@@ -22,8 +22,9 @@ indice_6 :
   - amant de Marguerite
 questions:
  - Je constitue la réécriture contemporaine du mythe de Faust dans le Moscou des années 30. Roman que Mikhaïl Boulgakov acheva quelques semaines avant sa mort, je suis...  Boulgakov?  Son roman le plus connu.
+culture_g_score: 88
+culture_g_justification: "Chef-d’œuvre très transversal de Boulgakov, reliant littérature russe, stalinisme, fantastique, christianisme, satire et nombreuses adaptations."
 ---
-
 ![Image de Le Maître et Marguerite](https://upload.wikimedia.org/wikipedia/commons/5/5a/Le_ma%C3%AEtre_et_Marguerite%2C_texte_de_Mikhail_Boulgakov_-_lot_de_photographies_-_de_l%27agence_Mar%C3%A9e-Breyer_-_btv1b10606014k_%2813_of_69%29.jpg)
 
 ###### Questions

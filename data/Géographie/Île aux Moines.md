@@ -24,8 +24,9 @@ indice_6 :
   - chemin côtier
 questions:
  - Quelle île du golfe du Morbihan, en forme de croix, abrite notamment le bois d'Amour et le bois des Soupirs?
+culture_g_score: 20
+culture_g_justification: "Île bretonne de notoriété limitée, susceptible d’apparaître seulement dans des questions touristiques ou régionales."
 ---
-
 ![Image de Île aux Moines](https://upload.wikimedia.org/wikipedia/commons/d/dc/Escalier_plage%2C_%C3%8Ele_aux_Moines%2C_Morbihan%2C_France.jpg)
 
 ![[Carte_Île aux Moines.png]]

@@ -20,8 +20,9 @@ indice_5:
   - écrivain britannique
 indice_6:
   - adaptation par Alfred Hitchcock
+culture_g_score: 64
+culture_g_justification: "L’auteure de Rebecca bénéficie d’une forte notoriété grâce à Hitchcock, mais ses autres références restent plus littéraires."
 ---
-
 ![Image de Daphné du Maurier](https://upload.wikimedia.org/wikipedia/commons/1/1d/Daphne_du_Maurier%27s_study.jpg)
 
 ###### Questions

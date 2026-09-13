@@ -20,8 +20,9 @@ indice_6 :
   - Luiz Inácio Lula da Silva
 questions:
  - En 2020, quel ancien président du Brésil reçoit son diplôme de citoyen d'honneur de la Ville de Paris?
+culture_g_score: 80
+culture_g_justification: "Lula est un dirigeant contemporain très rentable pour les questions sur le Brésil, la gauche, l’économie et la politique mondiale."
 ---
-
 ![Image de Lula](https://upload.wikimedia.org/wikipedia/commons/2/2f/S%C3%A9rgio_Cabral_Filho_e_Lula_no_Cristo_-_14jun2007.jpg)
 
 ###### Questions

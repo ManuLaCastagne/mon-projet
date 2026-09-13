@@ -21,9 +21,9 @@ indice_5 :
   - Saint-Cirq-Lapopie
 indice_6 : 
   - Parc naturel régional des Causses du Quercy
+culture_g_score: 40
+culture_g_justification: "Département surtout rentable pour Rocamadour, le gouffre de Padirac, Cahors et le patrimoine lotois, avec une fréquence quiz modeste."
 ---
-
-
 ![[Carte_Lot (département).png]]
 
 ###### Questions

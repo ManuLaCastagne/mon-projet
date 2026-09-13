@@ -22,8 +22,9 @@ indice_6 :
   - Seasons of Love
 questions:
  - Quelle comédie musicale réalisée d'après "La Bohême" de Puccini, met en scène la vie de deux jeunes artistes new-yorkais séropositifs ?
+culture_g_score: 63
+culture_g_justification: "Œuvre musicale importante autour de Broadway, du sida et de Jonathan Larson, mais son adaptation filmique est moins incontournable."
 ---
-
 ![Image de Rent](https://upload.wikimedia.org/wikipedia/commons/8/8f/Nederlander-theatre-rent.jpg)
 
 ###### Questions

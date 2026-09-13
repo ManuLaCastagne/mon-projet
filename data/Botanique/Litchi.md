@@ -15,8 +15,9 @@ indice_6 :
   - Consommé frais ou en jus
 questions:
  - Quel petit fruit originaire de Chine, recouvert d'une écorce rugueuse rose au rouge, a un gros noyau brun sous sa pulpe translucide?
+culture_g_score: 48
+culture_g_justification: "Fruit populaire et associé à la Chine, mais son potentiel de questions reste surtout descriptif et culinaire."
 ---
-
 ![Image de Litchi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Lychee_fruits_and_seed.jpg)
 
 ###### Questions

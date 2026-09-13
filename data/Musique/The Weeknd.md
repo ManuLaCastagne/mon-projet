@@ -22,8 +22,9 @@ indice_6 :
   - After Hours
 questions:
  - En février 2021, quel artiste canadien s'est produit sur scène à la mi-temps du 55e Super Bowl, entouré par une centaine de danseurs?
+culture_g_score: 73
+culture_g_justification: "Artiste contemporain très populaire, associé à des tubes, des records et le Super Bowl, avec une portée historique encore récente."
 ---
-
 ![Image de The Weeknd](https://upload.wikimedia.org/wikipedia/commons/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg)
 
 ###### Questions

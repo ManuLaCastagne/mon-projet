@@ -18,9 +18,9 @@ indice_5 :
   - Machzor
 indice_6 : 
   - Téfilines
+culture_g_score: 52
+culture_g_justification: "Fête juive importante, Roch Hachana est surtout interrogée avec le calendrier hébraïque, le shofar et Yom Kippour."
 ---
-
-
 ![Image de Roch Hachana](https://upload.wikimedia.org/wikipedia/commons/d/de/Roch_Hachana_Chofar.jpg)
 
 ###### Questions

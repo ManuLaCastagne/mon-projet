@@ -24,8 +24,9 @@ indice_6 :
   - culture amazighe
 questions:
  - J'ai conservé, à l'ouest, ma langue et mes coutumes berbères.  Ayant longtemps résisté à l'influence française, je me suis opposée à Alger à plusieurs reprises. Région d'Algérie comptant les villes de Tizi Ouzou et Béjaïa…
+culture_g_score: 60
+culture_g_justification: "Région algérienne importante pour les questions sur les Berbères, l’identité, la colonisation et la géographie du Maghreb, mais peu universelle."
 ---
-
 ![Image de Kabylie](https://upload.wikimedia.org/wikipedia/commons/1/16/Vue_sur_Azazga_2016.JPG)
 
 ![[Carte_Kabylie.png]]

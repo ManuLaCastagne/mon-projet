@@ -23,9 +23,9 @@ indice_6 :
   - Collection de textiles
 questions:
  - Qui a popularisé la jupe-culotte qui était porté par les femmes faisant du vélo ?
+culture_g_score: 68
+culture_g_justification: "Poiret est un pionnier important de la mode moderne, associé à la libération du corset, aux parfums, au marketing et aux arts décoratifs."
 ---
-
-
 ![Image de Paul Poiret](https://upload.wikimedia.org/wikipedia/commons/a/a6/Paulpoiret.jpg)
 
 ###### Questions

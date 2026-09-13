@@ -17,9 +17,9 @@ indice_4:
 indice_5:
   - Première femme à entrer à Dachau après sa libération
 indice_6: []
+culture_g_score: 48
+culture_g_justification: "Journaliste de guerre remarquable et épouse d’Hemingway, elle reste toutefois une référence relativement spécialisée."
 ---
-
-
 ![Image de Martha Gellhorn](https://upload.wikimedia.org/wikipedia/commons/5/51/Martha_Gellhorn.jpg)
 
 ###### Questions

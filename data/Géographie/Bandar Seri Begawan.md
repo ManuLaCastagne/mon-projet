@@ -21,8 +21,9 @@ indice_5 :
   - ville sur l'île de Bornéo
 indice_6 : 
   - quartier flottant Kampong Ayer
+culture_g_score: 40
+culture_g_justification: "Capitale d’un petit État asiatique, principalement mobilisée dans les questions de capitales et de monarchies pétrolières."
 ---
-
 ![Image de Bandar Seri Begawan](https://upload.wikimedia.org/wikipedia/commons/5/59/Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg)
 
 ![[Carte_Bandar Seri Begawan.png]]

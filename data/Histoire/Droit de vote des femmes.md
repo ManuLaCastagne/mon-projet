@@ -20,8 +20,9 @@ indice_6 :
   - IVe République
 questions:
  - Droit dont le principe fut adopté par 51 voix contre 16 à l'assemblée consultative d'Alger, en mars 44, je suis exercé un an plus tard.  Revendiqué notamment en 1935 par Louise Weiss et d'autres militantes...
+culture_g_score: 92
+culture_g_justification: "Thème historique majeur reliant égalité politique, suffrage, mouvements féministes, révolutions démocratiques et histoire nationale."
 ---
-
 ![Image de Droit de vote des femmes](https://upload.wikimedia.org/wikipedia/commons/9/99/Statut_du_droit_de_vote_des_femmes_dans_le_monde.png)
 
 ###### Questions

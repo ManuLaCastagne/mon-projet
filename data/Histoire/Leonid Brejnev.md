@@ -20,8 +20,9 @@ indice_6 :
   - 1964 à 1982
 questions:
  - Du pouvoir se fait grâce à la protection de Nikita Khrouchtchev que je remplacerai à la tête de l'Etat après avoir participé à son renversement.  Dirigeant de l'Union soviétique de 64...
+culture_g_score: 80
+culture_g_justification: "Dirigeant majeur de l’URSS, Brejnev est régulièrement associé à la guerre froide, à la stagnation et à l’Afghanistan."
 ---
-
 ![Image de Leonid Brejnev](https://upload.wikimedia.org/wikipedia/commons/9/96/Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564.jpg)
 
 ###### Questions

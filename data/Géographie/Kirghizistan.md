@@ -18,8 +18,9 @@ indice_5:
   - Talas
 indice_6:
   - Naryn
+culture_g_score: 52
+culture_g_justification: "Le Kirghizistan est un pays classique des questions sur l’Asie centrale, mais demeure moins fréquent que ses grands voisins."
 ---
-
 ![[Carte_Kirghizistan.png]]
 
 ###### Questions

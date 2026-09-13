@@ -22,8 +22,9 @@ indice_6 :
   - 1976
 questions:
  - Quelle série de films avec Samy Naceri et Frédéric Diefenthal...
+culture_g_score: 73
+culture_g_justification: "Succès populaire majeur du cinéma français, utile pour des questions sur Besson, Marseille, les acteurs et la franchise."
 ---
-
 ![Image de Taxi](https://upload.wikimedia.org/wikipedia/commons/c/ca/Kowloon_Waterfront%2C_Hong_Kong%2C_2013-08-09%2C_DD_05.jpg)
 
 ###### Questions

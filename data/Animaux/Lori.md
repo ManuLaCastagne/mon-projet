@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté et de couleur en Australie
 questions:
  - Quel est ce petit perroquet, de l'archipel des Moluques, au plumage très coloré et qu'on peut élever en volière ?
+culture_g_score: 40
+culture_g_justification: "Perroquet coloré surtout utile pour des questions sur l'Australie, le nectar et les psittacidés, mais peu incontournable."
 ---
-
 ![Image de Lori](https://upload.wikimedia.org/wikipedia/commons/1/12/Lori_Berd%2C_Armenia%2C_2016-09-30%2C_DD_69.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - début des troubles sous les Capétiens
 questions:
  - Quel roi, dit le Hutin, n'a régné que 2 courtes années sur la France...
+culture_g_score: 48
+culture_g_justification: "Roi capétien de courte durée, surtout retenu pour l’ordonnance de 1315 et sa succession problématique."
 ---
-
 ![Image de Louis X](https://upload.wikimedia.org/wikipedia/commons/3/30/Ludv%C3%ADk_X.png)
 
 ###### Questions

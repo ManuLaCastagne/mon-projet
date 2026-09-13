@@ -20,8 +20,9 @@ indice_5 :
   - astuces de cuisine
 indice_6 : 
   - produits de saison
+culture_g_score: 40
+culture_g_justification: "Programme culinaire identifiable, mais son intérêt quiz se limite essentiellement à Laurent Mariotte et à TF1."
 ---
-
 ![Image de Petits plats en équilibre](https://upload.wikimedia.org/wikipedia/commons/0/0a/Traitez_de_l_%C3%A9quilibre_des_liqueurs_1663_%28FR-631136102_Ep_0049_2%29.pdf)
 
 ###### Questions

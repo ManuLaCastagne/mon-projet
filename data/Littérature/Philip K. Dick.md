@@ -22,8 +22,9 @@ indice_6 :
   - vision du futur
 questions:
  - En 1969, quel écrivain américain est l'auteur du roman "Ubik"?
+culture_g_score: 80
+culture_g_justification: "Auteur central de la science-fiction moderne, relié à Blade Runner, aux uchronies, aux dystopies et à de nombreuses adaptations."
 ---
-
 ![Image de Philipp K](https://upload.wikimedia.org/wikipedia/commons/a/ac/1961_Philipp_SCHWARTZ_%26_dr_WOLFE.png)
 
 ###### Questions

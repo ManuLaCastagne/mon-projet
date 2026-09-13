@@ -20,9 +20,9 @@ indice_6 :
   - Singletrack
 questions:
  - Doté d'un cadre rigide ou suspendu en fonction des terrains accidentés parcourus, je suis plus ou moins lourd selon que je suis destiné à pratiquer la randonnée, l'enduro ou la descente. Vélo à roues épaisses et...
+culture_g_score: 80
+culture_g_justification: "Pratique sportive très répandue et discipline olympique, permettant des questions historiques, techniques, géographiques et compétitives."
 ---
-
-
 ![Image de VTT](https://upload.wikimedia.org/wikipedia/commons/f/f9/Vtt_headquarters_espoo_finland.jpg)
 
 ###### Questions

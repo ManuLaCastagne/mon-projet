@@ -18,8 +18,9 @@ indice_5 :
   - Cecily Cardew
 indice_6 : 
   - Double vie
+culture_g_score: 77
+culture_g_justification: "Comédie majeure d’Oscar Wilde, souvent mobilisée en littérature et au théâtre, avec plusieurs angles autour de son auteur, de son intrigue et de son contexte."
 ---
-
 ![Image de Importance of Being Earnest]()
 
 ###### Questions

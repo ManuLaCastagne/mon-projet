@@ -6,6 +6,8 @@ tags:
   - XXe
   - Années_1990
 date: 1985
+culture_g_score: 68
+culture_g_justification: "Chromosome central pour les questions sur le sexe biologique, la génétique et le gène SRY, sans être omniprésent."
 ---
 ###### Questions 
 

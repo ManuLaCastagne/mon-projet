@@ -15,8 +15,9 @@ indice_6 :
   - Consommé en légume
 questions:
  - Quelle plante potagère, devant son nom à un village de l'Essonne, a un goût légèrement sucré, rappelant celui du salsifis ou de l'artichaut?
+culture_g_score: 40
+culture_g_justification: "Légume ancien et curiosité gastronomique connu sous le nom d’artichaut de Chine, mais de fréquence limitée."
 ---
-
 ![Image de Crosne](https://upload.wikimedia.org/wikipedia/commons/9/97/Mairie_-_Crosne_%28FR91%29_-_2024-10-20_-_1.jpg)
 
 ###### Questions

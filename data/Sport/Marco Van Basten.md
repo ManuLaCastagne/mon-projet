@@ -20,11 +20,9 @@ indice_6 :
   - Pays-Bas
 questions:
  - Quel ancien avant-centre néerlandais a été sacré Ballon d'or à trois reprises entre 1988 et 1992 ?
+culture_g_score: 80
+culture_g_justification: "Figure majeure du football néerlandais, régulièrement citée pour ses Ballons d’or, Milan, l’Ajax et la finale de 1988."
 ---
-
-
-
-
 ![Image de Marco Van Basten](https://upload.wikimedia.org/wikipedia/commons/2/24/Marco_van_Basten_%28ca_2006%29.jpg)
 
 ###### Questions

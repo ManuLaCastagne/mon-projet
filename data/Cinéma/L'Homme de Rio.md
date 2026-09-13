@@ -18,6 +18,8 @@ indice_5 :
   - 1964
 indice_6 : 
   - Oscar pour meilleure histoire originale
+culture_g_score: 80
+culture_g_justification: "Classique d'aventure français très rentable grâce à Belmondo, Philippe de Broca, Tintin, le Brésil et son influence sur Spielberg."
 ---
 
 ![Image de L'Homme de Rio](https://upload.wikimedia.org/wikipedia/commons/5/5e/Jean_Paul_Belmondo_em_O_Homem_no_Rio.tiff)
@@ -26,7 +28,7 @@ indice_6 :
 
 Quel film réalisé par [[Philippe de Broca]] en [[1964]] met en vedette [[Jean-Paul Belmondo]] dans le rôle principal et est inspiré des bandes dessinées de [[Tintin]]?  
 
-Quel long-métrage sorti en [[1964]] a été nominé pour l'[[Oscar]] du meilleur scénario original, et est un hommage aux aventures rocambolesques d’un jeune homme en [[Amérique du Sud]]?  
+Quel long-métrage sorti en [[1964]] a été nominé pour l'[[Oscar]] du meilleur scénario original, et est un hommage aux aventures rocambolesques d’un jeune homme en [[Amérique du Sud]]? <!-- score: 4 -->
 
 Dans quel film l'acteur [[Jean-Paul Belmondo]] incarne-t-il un personnage qui doit retrouver sa fiancée enlevée au [[Brésil]] et qui a influencé des réalisateurs comme [[Steven Spielberg]]?
 

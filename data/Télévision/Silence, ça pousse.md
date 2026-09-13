@@ -20,8 +20,9 @@ indice_6 :
   - aménagement extérieur
 questions:
  - Sur France 5, quel magazine télévisé, présenté par Stéphane Marie et Carole Tolila a pour thème le jardinage?
+culture_g_score: 53
+culture_g_justification: "Émission de jardinage durablement connue en France, utile pour quelques repères télévisuels et horticoles mais peu transversale."
 ---
-
 ![Image de Silence, ça pousse](https://upload.wikimedia.org/wikipedia/commons/b/b5/Silence..._%C3%A7a_pousse_%2851195258933%29.jpg)
 
 ###### Questions

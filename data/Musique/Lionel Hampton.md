@@ -22,8 +22,9 @@ indice_6 :
   - Flying Home
 questions:
  - Quel pianiste, batteur et chef d'orchestre américain, né en avril 1908, a été le 1er utilisateur du vibraphone pour le jazz?
+culture_g_score: 64
+culture_g_justification: "Grand vibraphoniste de l'histoire du jazz, utile pour les questions sur Benny Goodman, le swing et l'instrument, mais moins connu hors de ce domaine."
 ---
-
 ![Image de Lionel Hampton](https://upload.wikimedia.org/wikipedia/commons/b/bc/Lionel_Hampton_1948.jpg)
 
 ###### Questions

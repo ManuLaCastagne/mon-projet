@@ -24,8 +24,9 @@ indice_6:
   - lait de vache
 questions:
   - De quelle province d'Irlande la ville de Cork est-elle le chef-lieu ?
+culture_g_score: 48
+culture_g_justification: "Petite ville alsacienne surtout rentable par le fromage Munster et quelques repères régionaux."
 ---
-
 ![Image de Munster](https://upload.wikimedia.org/wikipedia/commons/1/1a/M%C3%BCnster%2C_Schloss_--_2014_--_6769-71_%28crop%29.jpg)
 
 ![[Carte_Munster (Alsace).png]]

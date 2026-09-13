@@ -22,8 +22,9 @@ indice_6 :
   - université de Pau
 questions:
  - Quel romancier d'origine sénégalaise est devenu le 1er auteur français à recevoir le prestigieux Booker Prize International ?
+culture_g_score: 40
+culture_g_justification: "Écrivain contemporain important sur la mémoire des tirailleurs sénégalais, mais encore peu installé dans les quiz généralistes."
 ---
-
 ![Image de David Diop](https://upload.wikimedia.org/wikipedia/commons/2/28/David_Diop_%282018%29.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - terroristes ineptes
 questions:
  - En 2001, dans quel film parodiant notamment "Piège de cristal", incarnent-ils 2 laveurs de carreaux...
+culture_g_score: 44
+culture_g_justification: "Comédie française connue surtout par les amateurs du genre, mais peu fréquente et assez limitée à son intrigue et ses interprètes."
 ---
-
 ![Image de La Tour Montparnasse infernale](https://upload.wikimedia.org/wikipedia/commons/1/15/R%C3%A9ception_%C3%A0_l%27Hotel_de_ville_des_membres_de_l%27Association_internationale_des_acad%C3%A9mies%2C_le_20_avril_1901_%28IA_receptionlhoteld00unse_0%29.pdf)
 
 ###### Questions

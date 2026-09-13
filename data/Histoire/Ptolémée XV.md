@@ -1,3 +1,8 @@
+---
+culture_g_score: 47
+culture_g_justification: "Césarion est un personnage secondaire de la fin de l’Égypte ptolémaïque, surtout utile dans le contexte de César et Cléopâtre."
+---
+
 Ptolémée XV, plus connu sous le nom de Césarion, était le dernier pharaon d'[[Égypte]]. II était le fils de [[Jules César]] et de [[Cléopâtre VII]], la dernière reine d'Égypte. Après la mort de [[Cléopâtre]], Césarion devient le seul dirigeant de l'Égypte. Cependant, son règne fut de courte durée.
 
 [[Octave (empereur)]], qui deviendra plus tard le premier empereur romain sous le nom d'[[Auguste]], était le fils adoptif et l'héritier de Jules César. Après la défaite de Cléopâtre et Marc Antoine à la [[bataille d'Actium]] en 31 av. J.-C., Octave s'empare de l'Égypte.

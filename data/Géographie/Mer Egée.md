@@ -24,8 +24,9 @@ indice_6 :
   - Détroit des Dardanelles
 questions:
  - Quelle mer, constituant une partie de la Méditerranée, communique avec la mer de Marmara par le détroit des Dardanelles ?
+culture_g_score: 83
+culture_g_justification: "Mer très rentable grâce à ses liens avec la mythologie, les civilisations antiques, la géographie et les tensions gréco-turques."
 ---
-
 ![Image de Mer Egée](https://upload.wikimedia.org/wikipedia/commons/7/71/Mer_Eg%C3%A9e_%28carte%29.png)
 
 ![[Carte_Mer Egée.png]]

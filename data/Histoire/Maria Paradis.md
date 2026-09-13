@@ -20,8 +20,9 @@ indice_6 :
   - pionnière dans son domaine
 questions:
  - En 1808, quelle servante chamoniarde est la première femme à atteindre le sommet du Mont-Blanc ?
+culture_g_score: 27
+culture_g_justification: "Pionnière associée à l’histoire des femmes et de l’exploration, mais très rarement rencontrée dans les quiz généralistes."
 ---
-
 ![Image de Maria Paradis](https://upload.wikimedia.org/wikipedia/commons/a/aa/Marie_paradie%2C_gravure_anonyme.jpg)
 
 ###### Questions

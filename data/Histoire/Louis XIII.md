@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Durant la 1re moitié du XVIIe siècle, quel roi de France, fils de Marie de Médicis, a gouverné le pays avec Cardinal de Richelieu, son principal...
  - En 1622, quel roi de France crée la 1re compagnie de mousquetaires, afin d'assurer sa protection?
+culture_g_score: 80
+culture_g_justification: "Louis XIII est fréquemment associé à Richelieu, la monarchie absolue, les guerres de religion et la prise de La Rochelle."
 ---
-
 ![Image de Louis XIII](https://upload.wikimedia.org/wikipedia/commons/7/74/Louis_XIII_Guillaume_Coustou_Notre-Dame_Paris.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Chemin de Saint-Jacques-de-Compostelle
 indice_6 : 
   - Cathédrale Saint-Étienne
+culture_g_score: 60
+culture_g_justification: "Cahors est un repère régional solide grâce au pont Valentré, à son passé gallo-romain et à son vignoble réputé."
 ---
-
 ![[Carte_Cahors.png]]
 
 ###### Questions

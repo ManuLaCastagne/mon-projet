@@ -15,8 +15,9 @@ indice_6 :
   - Assaisonnement en cuisine
 questions:
  - Notamment certaines moutardes. Egalement appelée herbe au dragon, je constitue une variété d'armoise...
+culture_g_score: 65
+culture_g_justification: "Herbe aromatique bien connue, notamment par la cuisine française et la sauce béarnaise, avec un bon rendement pratique."
 ---
-
 ![Image de Estragon](https://upload.wikimedia.org/wikipedia/commons/9/93/Artemisia_dracunculus_Bylica_estragon_2021-04-27_01.jpg)
 
 ###### Questions

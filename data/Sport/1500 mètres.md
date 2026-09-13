@@ -20,9 +20,9 @@ indice_6 :
   - Record du monde
 questions:
  - Epreuve d'athlétisme ayant permis à l'Algérie de remporter sa première médaille d'or olympique en 1992.
+culture_g_score: 80
+culture_g_justification: "Grande épreuve olympique d’athlétisme, liée à de nombreux champions, records et repères historiques."
 ---
-
-
 ![Image de 1500 mètres](https://upload.wikimedia.org/wikipedia/commons/e/ec/2025_World_Athletics_Indoor_Championships_%E2%80%93_Women%27s_1500_metres_06.jpg)
 
 ###### Questions

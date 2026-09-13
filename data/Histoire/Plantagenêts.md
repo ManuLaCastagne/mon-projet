@@ -20,8 +20,9 @@ indice_6 :
   - blason aux lions
 questions:
  - Quelle dynastie anglaise doit son surnom à la branche fleurie que le comte d'Anjou, Geoffroi V, portait à son casque?
+culture_g_score: 87
+culture_g_justification: "Dynastie centrale de l’histoire médiévale anglaise et française, ouvrant sur de nombreux rois, conflits, territoires et épisodes de la guerre de Cent Ans."
 ---
-
 ![Image de Plantagenêts](https://upload.wikimedia.org/wikipedia/commons/2/2d/Plantagenet_ON.JPG)
 
 ###### Questions

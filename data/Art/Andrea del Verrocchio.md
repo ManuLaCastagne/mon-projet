@@ -23,8 +23,9 @@ indice_6 :
   - Atelier florentin
 questions:
  - A partir de 1469, quel peintre italien, dont il a rejoint l'atelier, l'initie à la peinture et à la sculpture?
+culture_g_score: 64
+culture_g_justification: "Artiste important de la Renaissance et maître de Léonard de Vinci, mais moins fréquent que les grandes figures de cette période."
 ---
-
 ![Image de Andrea del Verrocchio](https://upload.wikimedia.org/wikipedia/commons/b/b1/Bartolomeo_Colleoni_by_Andrea_del_Verrocchio.jpg)
 
 ###### Questions

@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de richesse et de statut social dans certaines cultures africaines
 questions:
  - Quel grand bovidé domestique des régions tropicales est également appelé "bœuf à bosse" ?
+culture_g_score: 72
+culture_g_justification: "Le zébu est rentable pour les questions sur l'élevage, l'Inde, Madagascar, l'adaptation climatique et les cultures traditionnelles."
 ---
-
-
 ![Image de Zébu](https://upload.wikimedia.org/wikipedia/commons/6/62/Farmer_in_Tamil_Nadu_1993.JPG)
 
 ###### Questions

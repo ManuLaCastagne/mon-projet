@@ -22,8 +22,9 @@ indice_6 :
   - Denys Finch Hatton
 questions:
  - Dans quel récit autobiographique Karen Blixen dit-elle  "J'ai possédé une ferme en Afrique..."
+culture_g_score: 64
+culture_g_justification: "Œuvre littéraire et cinématographique très connue, utile pour relier Karen Blixen, le Kenya et un film oscarisé."
 ---
-
 ![Image de Out of Africa](https://upload.wikimedia.org/wikipedia/commons/f/f5/1794_Boulton_and_Anville_Wall_Map_of_Africa_%28most_important_18th_cntry_map_of_Africa%29_-_Geographicus_-_Africa2-boulton-1794.jpg)
 
 ###### Questions

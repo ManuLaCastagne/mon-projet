@@ -18,8 +18,9 @@ indice_6 :
   - sœur d'Oreste
 questions:
  - Quelle fille d'Agammemnon s'enfuit de Tauride avec Mythologie/Oreste et Pylade ?
+culture_g_score: 67
+culture_g_justification: "Iphigénie est une figure tragique utile pour croiser mythologie, tragédie française et opéra, mais elle demeure une référence secondaire."
 ---
-
 ![Image de Iphigénie](https://upload.wikimedia.org/wikipedia/commons/5/56/Iphigenie.jpeg)
 
 ###### Questions

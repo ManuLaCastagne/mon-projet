@@ -23,9 +23,9 @@ indice_6 :
 questions:
  - Dans quel ouvrage la fille de Gervaise Macquart qui se prénomme Nana est adulée par les hommes, et est une courtisane qui conduit à la ruine le comte Muffat.
  - Dans la série romanesque d'Emile Zola, quelle blanchisseuse, fille d'Antoine Macquart, apparaît dans "La Fortune des Rougon"...
+culture_g_score: 88
+culture_g_justification: "Cycle majeur de Zola offrant de nombreuses entrées sur le naturalisme, le Second Empire, l’hérédité et plusieurs romans célèbres."
 ---
-
-
 ![Image de Les Rougon-Macquart](https://upload.wikimedia.org/wikipedia/commons/f/f5/Arbre_genealogique_des_Rougon-Macquart_annot%C3%A9.jpg)
 
 ###### Questions

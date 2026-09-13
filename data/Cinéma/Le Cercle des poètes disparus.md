@@ -22,8 +22,9 @@ indice_6 :
   - élèves et poésie
 questions:
  - En 1990, dans quel film un professeur de lettres anglaises, joué par Robin Williams, encourage-t-il ses étudiants à toujours refuser l'ordre établi?
+culture_g_score: 80
+culture_g_justification: "Film très célèbre associé à Robin Williams, à Peter Weir, à Carpe diem, à l’éducation et à l’Oscar du scénario."
 ---
-
 ![Image de Le Cercle des poètes disparus](https://upload.wikimedia.org/wikipedia/commons/d/d1/Le_Cercle_des_po%C3%A8tes_disparus_saluts.jpg)
 
 ###### Questions

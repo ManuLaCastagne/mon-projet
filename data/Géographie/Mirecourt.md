@@ -24,8 +24,9 @@ indice_6 :
   - Grand Est
 questions:
  - Quelle petite ville des Vosges, connue pour son industrie de la lutherie abrite un musée consacré à cet artisanat d'art?
+culture_g_score: 40
+culture_g_justification: "Ville vosgienne réputée pour la lutherie, mais cette spécialisation offre peu de rendement en culture générale généraliste."
 ---
-
 ![Image de Mirecourt](https://upload.wikimedia.org/wikipedia/commons/2/2e/Le_Madon_%C3%A0_Mirecourt.jpg)
 
 ![[Carte_Mirecourt.png]]

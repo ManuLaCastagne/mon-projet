@@ -20,8 +20,9 @@ indice_5:
   - New York New York
 indice_6:
   - Le Loup de Wall Street
+culture_g_score: 100
+culture_g_justification: "Cinéaste majeur et très souvent interrogé à travers ses films, ses acteurs, ses récompenses et la conservation du cinéma."
 ---
-
 ![Image de Martin Scorsese](https://upload.wikimedia.org/wikipedia/commons/5/54/Martin_Scorsese-68749.jpg)
 
 ###### Questions

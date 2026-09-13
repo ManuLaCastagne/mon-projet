@@ -20,8 +20,9 @@ indice_6 :
   - Records de vitesse
 questions:
  - Oppose  deux participants qui s'élancent dans le sens inverse des aiguilles d'une montre sur un anneau de glace de 400 m. Sport apparu aux Pays-Bas.
+culture_g_score: 60
+culture_g_justification: "Discipline olympique classique avec une histoire et des champions célèbres, mais moins transversale que les sports les plus populaires."
 ---
-
 ![Image de Patinage de vitesse](https://upload.wikimedia.org/wikipedia/commons/4/42/Lempereur_%28patinage_de_vitesse_sur_piste%29_-_btv1b6915070b.jpg)
 
 ###### Questions

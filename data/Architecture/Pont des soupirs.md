@@ -23,10 +23,9 @@ indice_6 :
   - passage couvert
 questions:
  - A Venise, quel pont qui n'est pas le Rialto, relie le Palais des Doges aux prisons ?
+culture_g_score: 77
+culture_g_justification: "Monument vénitien célèbre, régulièrement associé au Palais des Doges, à Casanova, aux prisons et à sa légende romantique."
 ---
-
-
-
 ![Image de Pont des soupirs](https://upload.wikimedia.org/wikipedia/commons/d/db/Pont_des_Soupirs_Venise.jpg)
 
 ###### Questions

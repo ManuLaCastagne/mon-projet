@@ -20,8 +20,9 @@ indice_6 :
   - Manuscrits secrets
 questions:
  - En France, à la fin du XIXe siècle, quel abbé aurait dû sa soudaine fortune à un trésor qui alimente toujours les fantasmes à Rennes-le-Château, dans l'Aude?
+culture_g_score: 40
+culture_g_justification: "L'abbé Saunière est surtout un personnage régional lié au mystère de Rennes-le-Château, avec une présence limitée dans la culture générale."
 ---
-
 ![Image de Abbé Saunière](https://upload.wikimedia.org/wikipedia/commons/3/3e/Sauni%C3%A8re1852-1917.jpg)
 
 ###### Questions

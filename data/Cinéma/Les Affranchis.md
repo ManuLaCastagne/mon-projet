@@ -20,8 +20,9 @@ indice_5 :
   - années 1990
 indice_6 : 
   - Joe Pesci
+culture_g_score: 80
+culture_g_justification: "Film majeur de Scorsese, très rentable grâce à ses acteurs, ses récompenses, la mafia et son statut de classique du cinéma."
 ---
-
 ![Image de Les Affranchis](https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_Librairie_Hachette_%E2%80%93_Leneru_-_Les_Affranchis_%28page_9_crop%29.jpg)
 
 ###### Questions

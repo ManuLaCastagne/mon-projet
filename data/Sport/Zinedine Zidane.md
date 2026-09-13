@@ -19,8 +19,9 @@ indice_5 :
   - Real Madrid
 indice_6 : 
   - Equipe de France
+culture_g_score: 100
+culture_g_justification: "Icône mondiale du football français, exploitable à travers les Coupes du monde, le Ballon d’or, le Real Madrid et sa carrière d’entraîneur."
 ---
-
 ![Image de Zinedine Zidane](https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg)
 
 ###### Questions

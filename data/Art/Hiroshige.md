@@ -26,11 +26,12 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Grand maître de l'ukiyo-e, utile pour relier art japonais, estampes, paysages et influence sur l'impressionnisme."
 ---
+
 ![Image de Hiroshige](https://upload.wikimedia.org/wikipedia/commons/f/f1/Memorial_Portrait_of_Hiroshige%2C_by_Kunisada.jpg)
 
 ###### Questions
 
-Quel artiste japonais, dont les estampes ont largement influencé les impressionnistes européens, est né en 1797 et a créé la célèbre série « [[Les Cinquante-Trois Stations du Tōkaidō]] » ?
+Quel artiste japonais, dont les estampes ont largement influencé les impressionnistes européens, est né en 1797 et a créé la célèbre série « [[Les Cinquante-Trois Stations du Tōkaidō]] » ? <!-- score: 1 -->
 
 Quel maître de l'[[ukiyo-e]], décédé en 1858, est reconnu pour ses représentations iconiques de paysages et de lieux emblématiques du [[Japon]] de l'ère [[Edo]] ?
 

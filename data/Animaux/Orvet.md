@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de transformation
 questions:
  - Quel lézard sans pattes, également appelé serpent de verre, peut-on trouver à proximité d'un point humide ou dans les hautes herbes?
+culture_g_score: 44
+culture_g_justification: "Reptile commun et souvent utilisé pour distinguer lézard et serpent, mais à portée quiz limitée."
 ---
-
-
 ![Image de Orvet](https://upload.wikimedia.org/wikipedia/commons/5/5e/Anguidae.jpg)
 
 ###### Questions

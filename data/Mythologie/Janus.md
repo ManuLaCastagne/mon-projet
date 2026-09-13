@@ -18,8 +18,9 @@ indice_6 :
   - dualité
 questions:
  - Devant à Numa Pompilius la construction de mon temple dont les portes sont ouvertes en temps de guerre, je suis représenté avec deux visages...
+culture_g_score: 80
+culture_g_justification: "Janus est un dieu romain très reconnaissable grâce à ses deux visages et à son association avec les portes, les passages et le mois de janvier."
 ---
-
 ![Image de Janus](https://upload.wikimedia.org/wikipedia/commons/4/4e/Miniature_du_Temple_de_Janus_%28f._204v%29%2C_manuscrit_de_%22L%27Histoire_ancienne_jusqu%27%C3%A0_C%C3%A9sar%22_de_Saint-Jean-d%27Acre_%28Ms_562%29%2C_1260-1270%2C_conserv%C3%A9_%C3%A0_la_Biblioth%C3%A8que_municipale_de_Dijon.jpg)
 
 ###### Questions

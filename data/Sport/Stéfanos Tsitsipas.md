@@ -20,8 +20,9 @@ indice_6 :
   - ATP
 questions:
  - Julia Salnikova, qui l'avait gagné en junior. Joueur complet entraîné par mon père Apostolos, vainqueur de mon 1er tournoi en 2018 à Stockholm...
+culture_g_score: 59
+culture_g_justification: "Joueur majeur du tennis contemporain, mais encore relativement récent et surtout pertinent dans quelques questions de tennis."
 ---
-
 ![Image de Stéfanos Tsitsipas](https://upload.wikimedia.org/wikipedia/commons/1/13/Tsitsipas_S._MCM22_%2820%29_%2852036915350%29.jpg)
 
 ###### Questions

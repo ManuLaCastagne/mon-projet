@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de transformation
 questions:
  - Quel papillon à robe blanche ou jaunâtre, est bien connu des jardiniers pour sa chenille qui se nourrit des feuilles de choux ?
+culture_g_score: 32
+culture_g_justification: "Groupe de papillons courant dans les jardins, mais trop générique et peu fréquent comme réponse précise."
 ---
-
 ![Image de Piéride](https://upload.wikimedia.org/wikipedia/commons/f/f9/Pierides_Museum.JPG)
 
 ###### Questions

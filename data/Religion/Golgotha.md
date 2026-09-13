@@ -19,9 +19,9 @@ indice_5:
   - Passion du Christ
 indice_6:
   - Mont du Calvaire
+culture_g_score: 77
+culture_g_justification: "Lieu de la crucifixion, référence chrétienne très classique et facilement réutilisable dans les questions sur Jésus et Jérusalem."
 ---
-
-
 ![Image de Golgotha](https://upload.wikimedia.org/wikipedia/commons/0/01/Jerusalem_Holy_Sepulchre_BW_18.JPG)
 
 ###### Questions

@@ -18,10 +18,9 @@ indice_5 :
   - Brigades internationales
 indice_6 : 
   - 1936-1939
+culture_g_score: 87
+culture_g_justification: "Conflit majeur et très transversal, au croisement de l'histoire européenne, du fascisme, des Brigades internationales, de Franco et de Guernica."
 ---
-
-
-
 ![Image de Guerre civile espagnole](https://upload.wikimedia.org/wikipedia/commons/c/c0/Monument_Guerre_Civile_Espagnole_Cimeti%C3%A8re_Fontenay_Bois_4.jpg)
 
 ###### Questions

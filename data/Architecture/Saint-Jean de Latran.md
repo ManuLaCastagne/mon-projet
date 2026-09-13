@@ -19,10 +19,9 @@ indice_5:
   - façade néoclassique
 indice_6:
   - cloître médiéval
+culture_g_score: 76
+culture_g_justification: "Basilique fondamentale de l'histoire de la papauté et de Rome, avec des liens à Constantin, Borromini, l'obélisque et la Scala Santa."
 ---
-
-
-
 ![Image de Saint-Jean de Latran](https://upload.wikimedia.org/wikipedia/commons/f/f4/Passage_Saint_Jean_de_Latran._D.57.jpg)
 
 ###### Questions

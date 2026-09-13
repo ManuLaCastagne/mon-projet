@@ -20,8 +20,9 @@ indice_6 :
   - Henry VII
 questions:
  - Quel nom a-t-on donné à la révolution ayant eu lieu, en 2003 en Géorgie ?
+culture_g_score: 44
+culture_g_justification: "La rose possède quelques références historiques célèbres, notamment la guerre des Deux-Roses, mais le sujet reste peu structurant."
 ---
-
 ![Image de Roses](https://upload.wikimedia.org/wikipedia/commons/7/70/Rosa_%27Aspirin_Rose%27_%28actm%29_01.jpg)
 
 ###### Questions

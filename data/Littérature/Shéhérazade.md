@@ -22,8 +22,9 @@ indice_6 :
   - survie par récits
 questions:
  - Dans les "Mille et une nuits", quelle princesse orientale échappe à la mort en charmant le roi Shahriyar par des contes arabes?
+culture_g_score: 88
+culture_g_justification: "Figure incontournable des Mille et Une Nuits, associée au conte-cadre, à la tradition orientale et à de nombreuses adaptations."
 ---
-
 ![Image de Shéhérazade](https://upload.wikimedia.org/wikipedia/commons/2/2b/Scheherazade.tif)
 
 ###### Questions

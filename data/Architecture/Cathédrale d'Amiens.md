@@ -21,10 +21,9 @@ indice_5:
   - statue du Beau Dieu
 indice_6:
   - UNESCO
+culture_g_score: 64
+culture_g_justification: "Grande référence de l’architecture gothique française, connue pour ses dimensions, son patrimoine UNESCO et sa relique."
 ---
-
-
-
 ![Image de Cathédrale d'Amiens](https://upload.wikimedia.org/wikipedia/commons/3/3c/Amiens_Cathedral_Transept_Crossing%2C_Picardy%2C_France_-_Diliff.jpg)
 
 ###### Questions

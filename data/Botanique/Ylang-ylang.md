@@ -13,8 +13,9 @@ indice_5:
   - Cananga odorata
 indice_6:
   - Huile essentielle en parfumerie
+culture_g_score: 64
+culture_g_justification: "Fleur tropicale très associée à la parfumerie, aux îles du Pacifique et à son nom redoublé caractéristique."
 ---
-
 ![Image de Ylang-ylang](https://upload.wikimedia.org/wikipedia/commons/f/f4/Cananga_odorata_02.JPG)
 
 ###### Questions

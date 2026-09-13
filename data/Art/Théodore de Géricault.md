@@ -23,8 +23,9 @@ indice_6 :
   - Peintre français du XIXe siècle
 questions:
  - Quel peintre qui a été membre des mousquetaires du roi Louis XVIII, est l'auteur des tableaux "Le Derby d'Epsom" et "Le Radeau de la Méduse"?
+culture_g_score: 88
+culture_g_justification: "Géricault est un maître incontournable du romantisme français, principalement grâce au Radeau de la Méduse et à ses thèmes historiques et psychologiques."
 ---
-
 ![Image de Théodore de Géricault](https://upload.wikimedia.org/wikipedia/commons/8/82/%28Albi%29_Le_Mar%C3%A9chal-Ferrant_-_1822_-_Th%C3%A9odore_Gericault_-_Lithographie_de_Villain.jpg)
 
 ###### Questions

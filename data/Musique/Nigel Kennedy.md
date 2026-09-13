@@ -22,9 +22,9 @@ indice_6 :
   - académie de musique Menuhin
 questions:
  - Un extrait du "Printemps".  A quel violoniste britannique, remarqué à l'âge de 7 ans par Yehudi Menuhin, doit-on cette interprétation magnifique ?
+culture_g_score: 44
+culture_g_justification: "Violoniste classique populaire grâce à Vivaldi, mais personnalité assez spécialisée et peu transversale."
 ---
-
-
 ![Image de Nigel Kennedy](https://upload.wikimedia.org/wikipedia/commons/2/2e/Nigel_Kennedy_%283%29.jpg)
 
 ###### Questions

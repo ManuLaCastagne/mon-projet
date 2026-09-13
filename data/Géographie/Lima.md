@@ -24,8 +24,9 @@ indice_6 :
   - Gastronomie péruvienne
 questions:
  - Quelle ville du Pérou abrite le Centre international de la pomme de terre, qui détient une banque génétique de plus de 5000 variétés de ce tubercule?
+culture_g_score: 64
+culture_g_justification: "Grande capitale sud-américaine utile pour le Pérou, la conquête espagnole, l’architecture coloniale et la gastronomie, sans être un marronnier majeur."
 ---
-
 ![Image de Lima](https://upload.wikimedia.org/wikipedia/commons/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg)
 
 ![[Carte_Lima.png]]

@@ -24,8 +24,9 @@ indice_6 :
   - célèbre pour le haka et la culture maorie
 questions:
  - En mars 2021, en voile, quelle nation a conservé le trophée de la coupe de l'America, remporté 4 ans plus tôt?
+culture_g_score: 80
+culture_g_justification: "Pays très rentable pour sa géographie, les Maoris, le droit de vote des femmes, les explorations, le rugby et sa biodiversité."
 ---
-
 ![Image de Nouvelle-Zélande](https://upload.wikimedia.org/wikipedia/commons/8/8f/Picton_Nouvelle-Z%C3%A9lande..jpg)
 
 ![[Carte_Nouvelle-Zélande.png]]

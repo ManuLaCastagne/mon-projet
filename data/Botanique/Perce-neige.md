@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale pour jardins et espaces verts
 questions:
  - Quelle plante aux fleurs blanches en forme de clochettes, désignée par un mot composé, fleurit en février ?
+culture_g_score: 44
+culture_g_justification: "Le perce-neige est une fleur connue pour sa précocité et son image de renouveau, mais ses usages en quiz restent limités."
 ---
-
 ![Image de Perce-neige](https://upload.wikimedia.org/wikipedia/commons/b/b9/All%C3%A9e_Perce_Neige_-_Sevran_%28FR93%29_-_2023-05-28_-_1.jpg)
 
 ###### Questions

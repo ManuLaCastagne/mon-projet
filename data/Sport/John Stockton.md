@@ -20,8 +20,9 @@ indice_6 :
   - 1992 Jeux olympiques Dream Team
 questions:
  - Avec 15 806 passes décisives à son actif, dans quel sport l'Américain John Stockton est-il le meilleur passeur de l'histoire de la NBA?
+culture_g_score: 64
+culture_g_justification: "Légende de la NBA et détenteur de records majeurs, mais surtout mobilisé dans des quiz spécialisés en basket."
 ---
-
 ![Image de John Stockton](https://upload.wikimedia.org/wikipedia/commons/c/cf/John_Stockton_2022.jpg)
 
 ###### Questions

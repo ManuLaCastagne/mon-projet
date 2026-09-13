@@ -1,3 +1,8 @@
+---
+culture_g_score: 60
+culture_g_justification: "Méthode fondamentale de l'examen clinique, exploitable dans plusieurs questions sur le diagnostic et les gestes médicaux."
+---
+
 
 ###### Questions 
 

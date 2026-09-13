@@ -15,8 +15,9 @@ indice_6 :
   - Considéré comme un mets délicat en France
 questions:
  - Quel oiseau de la famille des embérizidés, protégé depuis 99, affectionne les vignobles en quête de graines ou d'insectes?
+culture_g_score: 40
+culture_g_justification: "Oiseau surtout connu pour l’anecdote gastronomique française, avec peu d’autres usages fréquents en quiz."
 ---
-
 ![Image de Ortolan](https://upload.wikimedia.org/wikipedia/commons/f/fc/Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg)
 
 ###### Questions

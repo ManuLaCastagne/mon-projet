@@ -18,9 +18,9 @@ indice_6 :
   - offrande de nourriture
 questions:
  - Dans la [[mythologie romaine]], quel nom, signifiant bons, portent les âmes des morts considérées comme des divinités?
+culture_g_score: 44
+culture_g_justification: "Les Mânes sont un terme utile pour la religion funéraire romaine, mais leur caractère spécialisé limite fortement leur fréquence."
 ---
-
-
 ![Image de Mânes](https://upload.wikimedia.org/wikipedia/commons/5/57/Ign%C3%A1c_Hauschild_%28Josef_M%C3%A1nes%2C_1851%29.png)
 
 ###### Questions

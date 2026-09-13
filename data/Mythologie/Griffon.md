@@ -18,10 +18,9 @@ indice_6 :
   - [[mythologie grecque]]
 questions:
  - Quelles créatures de la [[mythologie grecque]] à tête d'aigle, au corps de lion, qui protégeaient l'or d'Apollon?
+culture_g_score: 67
+culture_g_justification: "Hybride mythologique très reconnaissable, présent dans l'art, l'héraldique et les récits de créatures fantastiques."
 ---
-
-
-
 ![Image de Griffon](https://upload.wikimedia.org/wikipedia/commons/1/14/Griffon_vulture_%28Gyps_fulvus%29.jpg)
 
 ###### Questions

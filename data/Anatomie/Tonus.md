@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Latin
+culture_g_score: 52
+culture_g_justification: "Notion neurologique et musculaire utile, mais trop technique pour être très fréquente en quiz généraliste."
 ---
 ###### Questions 
 

@@ -20,8 +20,9 @@ indice_6 :
   - rôle pendant la Guerre froide
 questions:
  - Lors d'un débat télévisé du début des années 80, quel homme politique a répondu à Alain Duhamel   "C'était p't'être pas vot' question mais c'est ma réponse!" ?
+culture_g_score: 60
+culture_g_justification: "Dirigeant emblématique du PCF, retenu pour son franc-parler, les débats télévisés et la vie politique française de la seconde moitié du XXe siècle."
 ---
-
 ![Image de Georges Marchais](https://upload.wikimedia.org/wikipedia/commons/3/3e/Georges_Marchais.JPG)
 
 ###### Questions

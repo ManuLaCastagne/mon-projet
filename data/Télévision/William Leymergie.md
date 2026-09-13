@@ -18,8 +18,9 @@ indice_5:
   - C8
 indice_6:
   - producteur télévisuel
+culture_g_score: 65
+culture_g_justification: "Présentateur emblématique de Télématin pendant 32 ans, offrant plusieurs repères télévisuels et médiatiques facilement réutilisables."
 ---
-
 ![Image de William Leymergie](https://upload.wikimedia.org/wikipedia/commons/a/ad/Leymergie.jpg)
 
 ###### Questions

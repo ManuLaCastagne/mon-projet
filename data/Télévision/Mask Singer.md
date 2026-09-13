@@ -19,8 +19,9 @@ indice_5 :
   - voix modifiée
 indice_6 : 
   - énigmes
+culture_g_score: 52
+culture_g_justification: "Émission populaire et régulièrement citée dans les quiz télévisuels récents, mais son concept limite les connaissances réutilisables."
 ---
-
 ![Image de Mask Singer](https://upload.wikimedia.org/wikipedia/commons/4/49/Woman_sewing_a_face_mask_with_a_Singer_machine_09.jpg)
 
 ###### Questions

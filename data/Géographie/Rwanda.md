@@ -24,8 +24,9 @@ indice_6 :
   - Langues officielles kinyarwanda et français
 questions:
  - Quel Etat d'Afrique centrale, dont la capitale est Kigali, est surnommé le pays des 1000 collines?
+culture_g_score: 69
+culture_g_justification: "Le Rwanda est une référence importante pour le génocide de 1994, les Grands Lacs, les gorilles et l’histoire politique africaine."
 ---
-
 ![Image de Rwanda](https://upload.wikimedia.org/wikipedia/commons/8/88/Wikidata_Workshop_in_Rwanda_day_4.jpg)
 
 ![[Carte_Rwanda.png]]

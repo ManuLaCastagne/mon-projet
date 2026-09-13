@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - France
+culture_g_score: 57
+culture_g_justification: "Pâtisserie régionale française assez classique, surtout interrogée par son origine et ses garnitures."
 ---
 ###### Questions 
 

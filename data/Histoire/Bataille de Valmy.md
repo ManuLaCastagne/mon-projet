@@ -18,8 +18,9 @@ indice_5 :
   - victoire française
 indice_6 : 
   - Prussiens
+culture_g_score: 84
+culture_g_justification: "Victoire symbolique de la Révolution française, fréquemment reliée à la République, à Kellermann et à Goethe."
 ---
-
 ![Image de Bataille de Valmy](https://upload.wikimedia.org/wikipedia/commons/c/c8/Valmy_Battle_painting.jpg)
 
 ###### Questions

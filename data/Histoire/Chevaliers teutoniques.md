@@ -18,8 +18,9 @@ indice_5 :
   - dissolution au XVIe siècle
 indice_6 : 
   - forteresse de Malbork en Pologne
+culture_g_score: 68
+culture_g_justification: "Ordre militaire important pour les croisades, la christianisation de la Baltique et l’histoire de la Prusse, avec plusieurs repères réutilisables."
 ---
-
 ![Image de Chevaliers teutoniques](https://upload.wikimedia.org/wikipedia/commons/1/1f/Teutonic_Knights_castle_in_Torun_%285%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - série de contes pour enfants
 questions:
  - En 1950, dans quel recueil de Marcel Aymé, Delphine et Marinette cotoient-elles les animaux doués de parole ?
+culture_g_score: 60
+culture_g_justification: "Classique francophone de littérature jeunesse souvent étudié, mais dont les usages en quiz restent principalement littéraires."
 ---
-
 ![Image de Les Contes du chat perché](https://upload.wikimedia.org/wikipedia/commons/2/26/The_true_philosopher_and_other_cat_tales_%281919%29_%2814593205347%29.jpg)
 
 ###### Questions

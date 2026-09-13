@@ -22,9 +22,9 @@ indice_6 :
   - Études
 questions:
  - A quel pianiste et compositeur du Culture_G/XIXe, longtemps lié à George Sand, doit-on un prélude...
+culture_g_score: 100
+culture_g_justification: "Compositeur incontournable du romantisme, particulièrement rentable pour le piano, la Pologne, Paris, George Sand et un vaste répertoire."
 ---
-
-
 ![Image de Frédéric Chopin](https://upload.wikimedia.org/wikipedia/commons/e/e8/Frederic_Chopin_photo.jpeg)
 
 ###### Questions

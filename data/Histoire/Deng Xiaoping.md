@@ -20,8 +20,9 @@ indice_6 :
   - Architecte du socialisme de marché
 questions:
  - Proche de Mao, déchu puis réhabilité...
+culture_g_score: 80
+culture_g_justification: "Dirigeant central de la Chine contemporaine, fréquemment associé aux réformes économiques, à l’ouverture et à Tian’anmen."
 ---
-
 ![Image de Deng Xiaoping](https://upload.wikimedia.org/wikipedia/commons/1/16/Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored%28cropped%29.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - Aldeburgh
 indice_6:
   - Sutton Hoo
+culture_g_score: 40
+culture_g_justification: "Comté anglais réel mais secondaire, dont les références culturelles et historiques restent assez limitées."
 ---
-
-
 ![[Carte_Suffolk.png]]
 
 ###### Questions

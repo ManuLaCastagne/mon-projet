@@ -22,8 +22,9 @@ indice_6 :
   - prix littéraire
 questions:
  - Fin 2020, 14 ans après le succès de "L'élégance du hérisson", quelle romancière situe au Géographie/Japon son roman "Une rose seule" ?
+culture_g_score: 44
+culture_g_justification: "Auteure surtout connue pour L’Élégance du hérisson, succès notable mais offrant peu d’angles de culture générale indépendants."
 ---
-
 ![Image de Muriel Barbery](https://upload.wikimedia.org/wikipedia/commons/6/6e/Muriel_Barbery_cropped.jpg)
 
 ###### Questions

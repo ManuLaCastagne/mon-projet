@@ -20,8 +20,9 @@ indice_6 :
   - Jésus-Christ
 questions:
  - Quel prénom porté dans le Nouveau Testament par la sœur de Lazare et de Marie-Madeleine est également le prénom de l'actrice suisse Keller ?
+culture_g_score: 47
+culture_g_justification: "Personnage évangélique connu par l'épisode de l'accueil de Jésus et sa relation avec Lazare et Marie, mais peu transversal."
 ---
-
 ![Image de Marthe](https://upload.wikimedia.org/wikipedia/commons/7/7e/Marthe_Brand%C3%A8s%2C_SIP_1342%2C_edit.jpg)
 
 ###### Questions

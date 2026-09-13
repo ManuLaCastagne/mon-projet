@@ -13,8 +13,9 @@ indice_5:
   - Arbre d'amour
 indice_6:
   - Plante d'intérieur populaire pour sa facilité d'entretien
+culture_g_score: 36
+culture_g_justification: "Plante d'intérieur assez connue, mais son identification précise est peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Philodendron](https://upload.wikimedia.org/wikipedia/commons/0/0e/Philodendron_giganteum03.jpg)
 
 ###### Questions

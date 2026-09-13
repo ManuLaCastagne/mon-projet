@@ -19,9 +19,9 @@ indice_5:
   - compositions pour guitare
 indice_6:
   - mari et partenaire musical d'Ida Presti
+culture_g_score: 32
+culture_g_justification: "Alexandre Lagoya est important dans la guitare classique, mais reste peu connu et rarement interrogé hors de ce domaine."
 ---
-
-
 ![Image de Alexandre Lagoya](https://upload.wikimedia.org/wikipedia/commons/b/bf/Alexandre_Lagoya.jpg)
 
 ###### Questions

@@ -3,6 +3,8 @@ tags:
   - Gastronomie
   - XVIIIe
 date: 1740
+culture_g_score: 44
+culture_g_justification: "Préparation familière en France, mais rarement un sujet central et souvent limitée à une question de vocabulaire culinaire."
 ---
 ###### Questions 
 

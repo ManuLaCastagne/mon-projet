@@ -18,10 +18,9 @@ indice_5 :
   - Michel Berger
 indice_6 : 
   - Olympia
+culture_g_score: 80
+culture_g_justification: "Grande auteure-compositrice française, utile pour la chanson, les collaborations internationales, les Victoires et la musique des années 1970."
 ---
-
-
-
 ![Image de Véronique Sanson](https://upload.wikimedia.org/wikipedia/commons/4/45/V%C3%A9ronique_Sanson_%282024%29.jpg)
 
 ###### Questions

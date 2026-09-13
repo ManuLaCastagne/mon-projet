@@ -20,9 +20,9 @@ indice_5:
   - Palais Royal
 indice_6:
   - Arts
+culture_g_score: 100
+culture_g_justification: "Le Louvre est une référence culturelle mondiale, ouvrant d’innombrables questions sur l’histoire, l’architecture, les collections et les œuvres."
 ---
-
-
 ![Image de Le Louvre](https://upload.wikimedia.org/wikipedia/commons/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg)
 
 ###### Questions

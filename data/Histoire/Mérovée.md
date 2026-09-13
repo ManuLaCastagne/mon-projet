@@ -18,8 +18,9 @@ indice_5 :
   - ancêtre de Clovis
 indice_6 : 
   - légende du quinotaure
+culture_g_score: 44
+culture_g_justification: "Ancêtre semi-légendaire des Mérovingiens, utile pour une question spécialisée mais nettement moins rentable que Clovis."
 ---
-
 ![Image de Mérovée](https://upload.wikimedia.org/wikipedia/commons/5/52/Evariste-Vital_Luminais_-_M%C3%A9rov%C3%A9e_%28esquisse%29.jpg)
 
 ###### Questions

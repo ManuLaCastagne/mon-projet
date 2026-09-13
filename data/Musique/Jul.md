@@ -22,8 +22,9 @@ indice_6 :
   - Émoticône alien
 questions:
  - En 2020, quel dessinateur de BD, auteur de la série "Silex and the City", signe le scénario du nouvel album de Lucky Luke...
+culture_g_score: 64
+culture_g_justification: "Rappeur français très populaire et prolifique, surtout utile pour des questions contemporaines sur le rap et les records de ventes."
 ---
-
 ![Image de Jul](https://upload.wikimedia.org/wikipedia/commons/0/08/JUL_-_Julien_Mari_2018.jpg)
 
 ###### Questions

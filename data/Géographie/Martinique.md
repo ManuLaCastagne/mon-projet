@@ -24,12 +24,9 @@ indice_6 :
   - plages de sable blanc
 questions:
  - Quelle île des Petites Antilles abritant la montagne Pelée est représentée par plusieurs drapeaux dont l'Ipséité, adopté en 2019 ?
+culture_g_score: 80
+culture_g_justification: "Territoire français d'outre-mer associé à l'esclavage, à la volcanologie, à la géographie et à plusieurs repères historiques."
 ---
-
-
-
-
-
 ![Image de Martinique](https://upload.wikimedia.org/wikipedia/commons/c/c0/Martinique-Anse-Couleuvre-Luc-Viatour.jpg)
 
 ![[Carte_Martinique.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - adaptation cinématographique par Claude Miller en 2012
 questions:
  - Dans quel roman de François Mauriac l'héroïne se remémore-t-elle sa jeunesse passée avec Anne de la Trave ?
+culture_g_score: 64
+culture_g_justification: "Roman classique de Mauriac, régulièrement interrogé pour son intrigue criminelle, son contexte provincial et ses thèmes de liberté et de normes sociales."
 ---
-
 ![Image de Thérèse Desqueyroux](https://upload.wikimedia.org/wikipedia/commons/9/9a/Th%C3%A9r%C3%A8se_Desqueyroux_Cannes_2012.jpg)
 
 ###### Questions

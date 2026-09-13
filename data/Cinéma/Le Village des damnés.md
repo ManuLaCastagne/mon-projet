@@ -22,8 +22,9 @@ indice_6 :
   - yeux lumineux
 questions:
  - En 1960, quel film britannique de Wolf Rilla avec George Sanders met en scène des enfants aux yeux étranges dotés de pouvoirs surnaturels?
+culture_g_score: 60
+culture_g_justification: "Classique de science-fiction horrifique connu dans ses versions britannique et américaine, mais moins central que les grands titres du genre."
 ---
-
 ![Image de Le Village des damnés](https://upload.wikimedia.org/wikipedia/commons/4/4c/Johari-window-bg.png)
 
 ###### Questions

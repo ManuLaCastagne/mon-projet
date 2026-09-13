@@ -13,9 +13,9 @@ indice_5:
   - Empereur noir
 indice_6:
   - Symbolique de la mort
+culture_g_score: 67
+culture_g_justification: "Arthropode très reconnaissable, présent dans la zoologie, les mythes, l’astronomie et les questions sur les venins."
 ---
-
-
 ![Image de Scorpion](https://upload.wikimedia.org/wikipedia/commons/0/06/Buthus_ibericus.jpg)
 
 ###### Questions

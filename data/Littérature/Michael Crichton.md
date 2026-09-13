@@ -21,12 +21,9 @@ indice_5:
   - Westworld
 indice_6:
   - Congo
+culture_g_score: 80
+culture_g_justification: "Auteur très rentable grâce à Jurassic Park, aux techno-thrillers, à Urgences, au cinéma et à ses liens avec les sciences."
 ---
-
-
-
-
-
 ![Image de Michael Crichton](https://upload.wikimedia.org/wikipedia/commons/a/af/MichaelCrichton_2.jpg)
 
 ###### Questions

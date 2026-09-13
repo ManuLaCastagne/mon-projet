@@ -23,8 +23,9 @@ indice_6 :
   - Brie de Meaux
 questions:
  - A quel département associe-t-on la forêt de Fontainebleau et les villes de Moret-sur-Loing et Barbizon, les lieux rattachés à l'impressionnisme?
+culture_g_score: 60
+culture_g_justification: "Département francilien vaste, associé à Fontainebleau, Vaux-le-Vicomte et quelques repères historiques."
 ---
-
 ![[Carte_Seine-et-Marne.png]]
 
 ###### Questions

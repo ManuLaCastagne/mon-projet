@@ -20,10 +20,9 @@ indice_6 :
   - Maracanã
 questions:
  - Doté d'un excellent sens du placement et d'une détente remarquable, très fort dans les duels, ce qui m'a valu le surnom de "O Monstro",  j'ai porté plus de 90 fois le maillot du Brésil. Septuple...
+culture_g_score: 64
+culture_g_justification: "Défenseur international et ancien capitaine du Brésil, régulièrement cité en football, mais sans transversalité exceptionnelle."
 ---
-
-
-
 ![Image de Thiago Silva](https://upload.wikimedia.org/wikipedia/commons/e/ea/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gruppenfoto_Brasilien_850_0016.jpg)
 
 ###### Questions

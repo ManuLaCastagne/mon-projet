@@ -15,8 +15,9 @@ indice_6 :
   - Source de médecine traditionnelle
 questions:
  - Quel terme  synonyme d'holothurie désigne un invertébré des fonds marins au corps mou ?
+culture_g_score: 60
+culture_g_justification: "Animal marin connu pour l’éviscération, la régénération et son importance culinaire asiatique, avec un intérêt réel mais secondaire."
 ---
-
 ![Image de Concombre de mer](https://upload.wikimedia.org/wikipedia/commons/d/d2/Spicy_braised_sea_cucumbers.jpg)
 
 ###### Questions

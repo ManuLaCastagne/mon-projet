@@ -18,8 +18,9 @@ indice_5 :
   - Trautman
 indice_6 : 
   - First Blood
+culture_g_score: 92
+culture_g_justification: "Personnage et franchise mondialement célèbres, régulièrement mobilisés autour de Stallone, du Vietnam, du cinéma d’action et des romans adaptés."
 ---
-
 ![Image de Rambo](https://upload.wikimedia.org/wikipedia/commons/2/2f/Rambo_at_World_Cyber_Games_2005.jpg)
 
 ###### Questions

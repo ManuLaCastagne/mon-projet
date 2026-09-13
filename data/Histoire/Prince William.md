@@ -21,8 +21,9 @@ indice_6 :
   - époux de Kate Middleton
 questions:
  - Bien que gaucher, quel prince héritier britannique né en 1982, respecte les règles du polo en pratiquant ce sport comme un droitier?
+culture_g_score: 64
+culture_g_justification: "Héritier britannique très connu, surtout utile pour des questions contemporaines sur la monarchie et sa famille."
 ---
-
 ![Image de Prince William](https://upload.wikimedia.org/wikipedia/commons/d/da/Garter-encircled_Arms_of_William_Arthur_Philip_Louis%2C_Prince_of_Wales.png)
 
 ###### Questions

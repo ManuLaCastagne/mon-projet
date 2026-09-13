@@ -20,8 +20,9 @@ indice_6 :
   - Thermochimie
 questions:
  - En 1907, quel chimiste français, pionnier de la chimie organique et créateur de la thermochimie, est inhumé au Panthéon aux côtés de son épouse, Sophie ?
+culture_g_score: 52
+culture_g_justification: "Chimiste français important dans l’histoire de la synthèse organique, mais moins fréquent et transversal que les grandes figures scientifiques."
 ---
-
 ![Image de Marcellin Berthelot](https://upload.wikimedia.org/wikipedia/commons/5/5a/Marcellin_Berthelot.jpg)
 
 ###### Questions

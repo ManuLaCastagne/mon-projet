@@ -22,8 +22,9 @@ indice_5 :
   - Première Guerre mondiale
 indice_6 : 
   - Monument historique
+culture_g_score: 72
+culture_g_justification: "Lieu mémoriel important de la Première Guerre mondiale, particulièrement associé à l’histoire militaire et nationale canadienne."
 ---
-
 ![[Carte_Vimy.png]]
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Fille du destin
 questions:
  - A quelle romancière chilienne doit-on "La Maison aux esprits" ?
+culture_g_score: 72
+culture_g_justification: "Grande voix de la littérature latino-américaine, identifiable par La Maison aux esprits, le Chili, l’exil et le réalisme magique."
 ---
-
 ![Image de Isabel Allende](https://upload.wikimedia.org/wikipedia/commons/d/d0/Isabel_Allende_Frankfurter_Buchmesse_2015_%28cropped%29.JPG)
 
 ###### Questions

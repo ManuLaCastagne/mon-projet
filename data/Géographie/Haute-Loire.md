@@ -22,8 +22,9 @@ indice_5 :
   - Château de Polignac
 indice_6 : 
   - Basilique Saint-Julien de Brioude
+culture_g_score: 48
+culture_g_justification: "Département utile pour Le Puy-en-Velay, la source de la Loire, le Massif central et le patrimoine religieux, sans être une priorité nationale."
 ---
-
 ![[Carte_Haute-Loire.png]]
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5:
   - Edward aux mains d'argent
 indice_6:
   - Reality Bites
+culture_g_score: 64
+culture_g_justification: "Actrice très connue pour plusieurs films cultes des années 1980-1990 et pour Stranger Things, mais d'importance culturelle limitée."
 ---
-
 ![Image de Winona Ryder](https://upload.wikimedia.org/wikipedia/commons/8/89/Winona_Ryder_2010_TIFF.jpg)
 
 ###### Questions

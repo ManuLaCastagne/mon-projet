@@ -22,8 +22,9 @@ indice_6 :
   - tubes des années 70
 questions:
  - Chanson de 1977, je suis le dernier grand succès de mon auteur, alors au sommet de sa carrière. Comportant un refrain sur un rythme de bourrée berrichonne, j'interpelle les citadins qui ont perdu le contact avec la France rurale.
+culture_g_score: 52
+culture_g_justification: "Titre populaire de Michel Delpech et repère géographique français, mais la connaissance reste centrée sur une chanson et un département."
 ---
-
 ![Image de Loir-et-Cher](https://upload.wikimedia.org/wikipedia/commons/7/73/Royal_carriage_in_Stables_of_Marshal%2C_Ch%C3%A2teau_de_Chambord%2C_Loir-et-Cher..jpg)
 
 ###### Questions

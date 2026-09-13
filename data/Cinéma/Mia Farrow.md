@@ -20,8 +20,9 @@ indice_5:
   - The Great Gatsby
 indice_6:
   - actrice des années 60 et 70
+culture_g_score: 80
+culture_g_justification: "Actrice connue par Rosemary’s Baby, Woody Allen, Sinatra et une vie médiatique souvent exploitée par les quiz."
 ---
-
 ![Image de Mia Farrow](https://upload.wikimedia.org/wikipedia/commons/5/51/Pulitzer2018-mia-farrow-20180530-wp.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - L'homme de l'Ouest
 indice_6 : 
   - Hollywood années 1930-1950
+culture_g_score: 80
+culture_g_justification: "Grande star du cinéma classique américain, associée au western, à plusieurs Oscars et à des films durablement étudiés."
 ---
-
 ![Image de Gary Cooper](https://upload.wikimedia.org/wikipedia/commons/b/be/Los_Angeles_%28California%2C_USA%29%2C_Hollywood_Boulevard%2C_Gary_Cooper_--_2012_--_4981.jpg)
 
 ###### Questions

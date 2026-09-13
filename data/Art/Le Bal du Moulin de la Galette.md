@@ -21,8 +21,9 @@ indice_5 :
   - danse
 indice_6 : 
   - peinture française
+culture_g_score: 84
+culture_g_justification: "Chef-d’œuvre très célèbre de Renoir, il est régulièrement associé à l’impressionnisme, Montmartre, Paris et la vie moderne."
 ---
-
 ![Image de Le Bal du Moulin de la Galette](https://upload.wikimedia.org/wikipedia/commons/2/21/Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg)
 
 ###### Questions

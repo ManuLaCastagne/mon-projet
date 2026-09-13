@@ -20,8 +20,9 @@ indice_6 :
   - Al Nassr
 questions:
  - Sportif lauréat du 1er prix Puskas de la FIFA remis en 2009, j'ai inauguré 4 ans plus tard un musée qui m'est dédié dans la ville de Funchal.  Footballeur ayant commencé ma carrière professionnelle en 2002 lors d'un match contre Moreirense, je compte parmi les meilleurs buteurs de l'histoire de mon sport.
+culture_g_score: 93
+culture_g_justification: "Icône mondiale du football, omniprésente dans les quiz grâce à ses clubs, records, titres, rivalités et distinctions."
 ---
-
 ![Image de Cristiano Ronaldo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Argentine_-_Portugal_-_Cristiano_Ronaldo.jpg)
 
 ###### Questions

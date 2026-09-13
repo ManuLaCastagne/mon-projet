@@ -22,8 +22,9 @@ indice_6 :
   - groupe Sandrose
 questions:
  - En 1982, qui chante "Africa" ?
+culture_g_score: 40
+culture_g_justification: "Rose Laurens est surtout retenue pour le succès d’« Africa », ce qui limite le nombre de questions réellement possibles."
 ---
-
 ![Image de Rose Laurens](https://upload.wikimedia.org/wikipedia/commons/a/ac/Rose_Laurens_tombe.jpg)
 
 ###### Questions

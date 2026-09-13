@@ -21,8 +21,9 @@ indice_5:
   - maître des compositions dynamiques
 indice_6:
   - atelier prolifique
+culture_g_score: 88
+culture_g_justification: "Rubens est un maître majeur du baroque, mobilisable en peinture, diplomatie, histoire européenne, mythologie et art religieux."
 ---
-
 ![Image de Pierre Paul Rubens](https://upload.wikimedia.org/wikipedia/commons/4/46/Peter_Paul_Rubens_-_The_toilet_of_Venus.jpg)
 
 ###### Questions

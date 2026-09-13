@@ -22,8 +22,9 @@ indice_6:
   - Dents du bonheur
 questions:
   - En 1967, quel acteur américain pourvu des dents du bonheur incarne le général Warden dans "Les Douze Salopards" ?
+culture_g_score: 60
+culture_g_justification: "Acteur américain oscarisé et très prolifique, mais moins central dans les quiz que les grandes vedettes de sa génération."
 ---
-
 ![Image de Ernest Borgnine](https://upload.wikimedia.org/wikipedia/commons/b/be/Ernest-Borgnine_2004.JPEG)
 
 ###### Questions

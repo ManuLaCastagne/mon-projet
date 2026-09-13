@@ -18,8 +18,9 @@ indice_5 :
   - comédien de théâtre
 indice_6 : 
   - Karabistouille
+culture_g_score: 72
+culture_g_justification: "Grande figure de l’humour et du cinéma français, associée aux sketches, aux chansons, à la radio et à l’ORTF."
 ---
-
 ![Image de Francis Blanche](https://upload.wikimedia.org/wikipedia/commons/d/d4/FrancisBlanche-Rome-1970.png)
 
 ###### Questions

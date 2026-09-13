@@ -23,8 +23,9 @@ indice_6 :
   - grande influence sur l'art public du XXe siècle
 questions:
  - A quel sculpteur français né en 1875 doit-on la monumentale "Statue du Christ rédempteur"...
+culture_g_score: 65
+culture_g_justification: "Landowski est surtout rentable grâce au Christ Rédempteur, qui permet des questions croisées sur sculpture, architecture, Rio et monuments."
 ---
-
 ![Image de Paul Landowski](https://upload.wikimedia.org/wikipedia/commons/d/de/Paul_Landowski_1913.jpg)
 
 ###### Questions

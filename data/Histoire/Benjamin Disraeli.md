@@ -20,8 +20,9 @@ indice_6 :
   - Auteur de romans comme Sybil et Coningsby
 questions:
  - Après sa mort, en 1881, en l'honneur de quel Premier ministre britannique, qui aimait beaucoup les primevères, a été créée la Primrose League?
+culture_g_score: 71
+culture_g_justification: "Premier ministre britannique et romancier, il offre des entrées politiques, impériales et littéraires, sans être incontournable en francophonie."
 ---
-
 ![Image de Benjamin Disraeli](https://upload.wikimedia.org/wikipedia/commons/7/7b/Disraeli_statue%2C_St_George%27s_Hall.jpg)
 
 ###### Questions

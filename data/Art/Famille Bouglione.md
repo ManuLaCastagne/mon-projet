@@ -23,8 +23,9 @@ indice_6 :
   - animaux sauvages
 questions:
  - Famille d'artistes français, j'ai été endeuillée en août 2017 par la mort de ma matriarche Rosa. Ayant présenté à Paris un spectacle dans l'esprit de Buffalo Bill…
+culture_g_score: 51
+culture_g_justification: "Dynastie emblématique du cirque français liée au Cirque d'Hiver, mais sujet relativement spécialisé et peu transversal."
 ---
-
 ![Image de Famille Bouglione]()
 
 ###### Questions

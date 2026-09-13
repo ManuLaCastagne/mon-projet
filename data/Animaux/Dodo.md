@@ -15,8 +15,9 @@ indice_6 :
   - Icône de l'extinction animale
 questions:
  - Ressemblant à un gros dindon, j'ai été victime des animaux importés qui s'attaquaient à mes oeufs...
+culture_g_score: 84
+culture_g_justification: "Le dodo est une figure universelle de l'extinction des espèces, facilement interrogée sous des angles historiques, zoologiques et environnementaux."
 ---
-
 ![Image de Dodo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Dronte_dodo_Raphus_cucullatus.jpg)
 
 ###### Questions

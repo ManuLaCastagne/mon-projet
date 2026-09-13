@@ -24,8 +24,9 @@ indice_6 :
   - rivière Seille
 questions:
  - Depuis l'an 2000, quel club lorrain ayant changé plusieurs fois de nom...
+culture_g_score: 80
+culture_g_justification: "Ville française importante par son histoire frontalière, sa cathédrale, la Moselle et le Centre Pompidou-Metz."
 ---
-
 ![Image de Metz](https://upload.wikimedia.org/wikipedia/commons/3/36/Metz_Cathedral_003.JPG)
 
 ![[Carte_Metz.png]]

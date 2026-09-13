@@ -18,8 +18,9 @@ indice_5 :
   - Temple d'Isis
 indice_6 : 
   - Amneris
+culture_g_score: 88
+culture_g_justification: "Aïda est un opéra incontournable de Verdi, régulièrement mobilisé par son intrigue, sa création, son compositeur et son répertoire célèbre."
 ---
-
 ![Image de Aïda](https://upload.wikimedia.org/wikipedia/commons/3/3f/Aida_poster_colors_fixed.jpg)
 
 L'opéra [[Aïda]] a été composé par [[Giuseppe Verdi]] et a été créé le 24 décembre 1871 au Théâtre Khédivial de l'Opéra à [[Le Caire]]. 

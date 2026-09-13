@@ -15,8 +15,9 @@ indice_6:
   - Utilisé en jardin comme arbuste ornemental
 questions:
   - Quel arbuste du genre Philadelphus également appelé jasmin des poètes, qui produit des fleurs blanches parfumées?
+culture_g_score: 44
+culture_g_justification: "Arbuste de jardin connu pour son parfum et son surnom de faux jasmin, avec peu d’angles de quiz indépendants."
 ---
-
 ![Image de Seringat](https://upload.wikimedia.org/wikipedia/commons/b/b8/Philadelphus_coronarius_MHNT.jpg)
 
 ###### Questions

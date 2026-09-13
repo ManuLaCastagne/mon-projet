@@ -20,9 +20,9 @@ indice_6 :
   - Congés payés
 questions:
  - Quels accords de 1936 sont conclus entre le patronat et la CGT aboutissent aux 40 heures ?
+culture_g_score: 68
+culture_g_justification: "Référence importante de l’histoire sociale française et de la pacification de la Nouvelle-Calédonie, malgré l’ambiguïté de son intitulé."
 ---
-
-
 ![Image de Accords de Matignon](https://upload.wikimedia.org/wikipedia/commons/7/7f/Accords_de_Matignon_%28_7_-_8_juin_1936%29%2C_texte_complet.pdf)
 
 ###### Questions

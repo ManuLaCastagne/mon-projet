@@ -18,8 +18,9 @@ indice_5 :
   - Bateau
 indice_6 : 
   - Disparition
+culture_g_score: 64
+culture_g_justification: "Chanson marquante d'Alain Chamfort liée à la disparition d'Alain Colas, offrant des liens musicaux et maritimes mais peu d'autres usages."
 ---
-
 ![Image de Manureva]()
 
 ###### Questions

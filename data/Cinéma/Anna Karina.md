@@ -20,9 +20,9 @@ indice_5:
   - Vivre sa vie
 indice_6:
   - Alphaville
+culture_g_score: 80
+culture_g_justification: "Figure emblématique de la Nouvelle Vague, reliée à Godard, Gainsbourg, la musique et plusieurs films classiques."
 ---
-
-
 ![Image de Anna Karina](https://upload.wikimedia.org/wikipedia/commons/c/c5/Aankomst_Franse_filmster_Anna_Karina_op_Schiphol%2C_Anna_Karina_tijdens_persconfer%2C_Bestanddeelnr_921-0593.jpg)
 
 ###### Questions

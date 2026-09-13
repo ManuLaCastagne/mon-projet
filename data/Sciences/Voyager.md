@@ -18,9 +18,9 @@ indice_5 :
   - Voyager 1
 indice_6 : 
   - Module lunaire
+culture_g_score: 80
+culture_g_justification: "Les sondes Voyager sont des références majeures de l’exploration spatiale, avec de nombreux liens aux planètes, à la NASA et aux découvertes astronomiques."
 ---
-
-
 ![Image de Voyager](https://upload.wikimedia.org/wikipedia/commons/1/11/Voyager_of_the_Seas_at_Port_of_Kobe.jpg)
 
 ###### Questions

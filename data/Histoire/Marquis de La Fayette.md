@@ -20,8 +20,9 @@ indice_6 :
   - Château de Chavaniac
 questions:
  - Quel général français est enterré à Picpus en 1834 a un drapeau des USA sur sa tombe ?
+culture_g_score: 80
+culture_g_justification: "Lafayette est un excellent repère pour relier Révolution américaine, Révolution française, Washington et la Garde nationale."
 ---
-
 ![Image de Marquis de La Fayette](https://upload.wikimedia.org/wikipedia/commons/6/6b/Galerie_Lafayette_Haussmann_Dome.jpg)
 
 ###### Questions

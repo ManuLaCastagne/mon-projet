@@ -22,8 +22,9 @@ indice_6 :
   - rock 'n' roll
 questions:
  - En 1973, quel groupe de rock anglais mené par Mick Jagger interprète le slow "Angie" ?
+culture_g_score: 100
+culture_g_justification: "Les Rolling Stones sont un pilier universel du rock, offrant une multitude de questions sur leurs membres, albums, concerts et histoire."
 ---
-
 ![Image de Rolling Stones](https://upload.wikimedia.org/wikipedia/commons/0/0b/Rolling_Stones_bow_post-show_22_May_2018_in_London_%2841437870275%29.jpg)
 
 ###### Questions

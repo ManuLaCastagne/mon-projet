@@ -20,8 +20,9 @@ indice_5 :
   - cinématographie sublime
 indice_6 : 
   - peu de films
+culture_g_score: 68
+culture_g_justification: "Réalisateur majeur du cinéma américain d'auteur, interrogé sous plusieurs angles mais moins souvent que les cinéastes les plus populaires."
 ---
-
 ![Image de Terrence Malick](https://upload.wikimedia.org/wikipedia/commons/f/f6/Terrence_Malick.jpg)
 
 ###### Questions

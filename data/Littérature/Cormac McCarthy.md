@@ -20,11 +20,9 @@ indice_5:
   - No Country for Old Men
 indice_6:
   - auteur américain
+culture_g_score: 67
+culture_g_justification: "Écrivain américain contemporain majeur, relié à plusieurs romans célèbres, au western, au cinéma et au prix Pulitzer, mais moins universel que les classiques anciens."
 ---
-
-
-
-
 ![Image de Cormac McCarthy](https://upload.wikimedia.org/wikipedia/commons/7/7f/Cormac_McCarthy_%28Child_of_God_author_portrait_-_high-res%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Millau Viaduct
 indice_6 : 
   - Aligot
+culture_g_score: 47
+culture_g_justification: "Département français identifiable par Millau, Conques et l’Aubrac, mais relativement peu fréquent comme réponse autonome dans les quiz."
 ---
-
 ![[Carte_Aveyron.png]]
 
 ###### Questions

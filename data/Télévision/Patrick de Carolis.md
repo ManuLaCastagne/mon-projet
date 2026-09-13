@@ -20,8 +20,9 @@ indice_6 :
   - Engagé dans la politiqueje
 questions:
  - Quel ancien animateur du magazine télévisé "Des racines et des ailes", mesurant 1,92 m, a présidé le groupe France Télévisions de 2005 à 2010?
+culture_g_score: 52
+culture_g_justification: "Journaliste et dirigeant audiovisuel associé à France Télévisions et à Des racines et des ailes, mais assez peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Patrick de Carolis](https://upload.wikimedia.org/wikipedia/commons/2/2e/De_Carolis.jpg)
 
 ###### Questions

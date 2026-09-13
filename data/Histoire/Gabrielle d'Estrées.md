@@ -20,11 +20,9 @@ indice_6 :
   - intrigues à la cour de France
 questions:
  - Quelle favorite d'Henri IV la marquise de Monceau surnommée la presque Reine serait à l'origine de la conversion du roi au catholicisme ?
+culture_g_score: 64
+culture_g_justification: "Favorite d’Henri IV associée à un tableau célèbre et à la cour de France, mais avec une portée historique assez spécialisée."
 ---
-
-
-
-
 ![Image de Gabrielle d'Estrées](https://upload.wikimedia.org/wikipedia/commons/c/c3/Scuola_di_fontainebleau%2C_presunti_ritratti_di_gabrielle_d%27estr%C3%A9es_sua_sorella_la_duchessa_di_villars%2C_1594_ca._06.jpg)
 
 ###### Questions

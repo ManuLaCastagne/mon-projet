@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1990
 date: 1992
+culture_g_score: 84
+culture_g_justification: "Ingrédient fondamental de la cuisine et de nombreuses notions alimentaires, chimiques et culturelles, offrant un excellent rendement."
 ---
 ###### Questions 
 

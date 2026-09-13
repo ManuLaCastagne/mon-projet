@@ -20,8 +20,9 @@ indice_6 :
   - Entretien des sols
 questions:
  - Quelle unité statistique élémentaire de population, constituée par une ou plusieurs personnes, est désignée par un nom synonyme de foyer?
+culture_g_score: 11
+culture_g_justification: "Le sujet est trop général et son traitement historique ne correspond pas à une référence stable et fréquente des quiz."
 ---
-
 ![Image de Ménage](https://upload.wikimedia.org/wikipedia/commons/d/dc/Gilles_M%C3%A9nage_1666.jpg)
 
 ###### Questions

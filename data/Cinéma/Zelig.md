@@ -20,9 +20,9 @@ indice_5:
   - faux documentaire
 indice_6:
   - Leonard Zelig
+culture_g_score: 52
+culture_g_justification: "Film singulier de Woody Allen, intéressant pour le faux documentaire et son procédé de caméléon social, mais peu fréquent."
 ---
-
-
 ![Image de Zelig](https://upload.wikimedia.org/wikipedia/commons/4/4e/Shturman_Zelig_headstone.jpg)
 
 ###### Questions

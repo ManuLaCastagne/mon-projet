@@ -22,8 +22,9 @@ indice_6 :
   - détective privé
 questions:
  - En 2018, quel personnage d'inspecteur, créé par Sokal, mène l'enquête dans le 25e...
+culture_g_score: 40
+culture_g_justification: "Série de bande dessinée franco-belge appréciée des amateurs, mais référence trop circonscrite pour être prioritaire en culture générale."
 ---
-
 ![Image de Inspecteur Canardo]()
 
 ###### Questions

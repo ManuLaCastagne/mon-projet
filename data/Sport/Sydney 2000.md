@@ -20,8 +20,9 @@ indice_5 :
   - Nouvelle-Galles du Sud
 indice_6 : 
   - 15 septembre au 1er octobre
+culture_g_score: 71
+culture_g_justification: "Jeux olympiques marquants par leur contexte australien et plusieurs événements sportifs, mais l’édition précise reste moins fréquente que les grands cas emblématiques."
 ---
-
 ![Image de Sydney 2000](https://upload.wikimedia.org/wikipedia/commons/0/01/Sydney_2000_olympic_monument.JPG)
 
 ###### Questions

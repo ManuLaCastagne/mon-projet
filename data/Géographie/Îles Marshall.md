@@ -24,8 +24,9 @@ indice_6 :
   - Micronésie
 questions:
  - De quel Etat d'Océanie abritant l'îlot de Bikini le drapeau à étoile blanche est traversé par une diagonale bicolore ?
+culture_g_score: 47
+culture_g_justification: "Pays peu connu, mais exploitable grâce aux essais nucléaires, à la géographie du Pacifique et à la décolonisation."
 ---
-
 ![Image de Îles Marshall](https://upload.wikimedia.org/wikipedia/commons/6/6f/Bulletin_de_vote_r%C3%A9f%C3%A9rendum_%C3%8Eles_Marshall_2023.png)
 
 ![[Carte_Îles Marshall.png]]

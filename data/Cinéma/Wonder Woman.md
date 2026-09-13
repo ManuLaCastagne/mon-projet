@@ -22,8 +22,9 @@ indice_6 :
   - Gal Gadot
 questions:
  - Film américain sorti en 2017. Je commence à Paris, mon héroïne travaille au musée du Louvre avant de mêler les périodes de l'Antiquité et de la Grande Guerre, revenant sur l'enfance de la fille de la reine des Amazones. Film de Patty Jenkins dans lequel Gal Gadot incarne Diana Prince, une super-héroïne de comic books...
+culture_g_score: 76
+culture_g_justification: "Personnage majeur de DC et film à succès, fréquemment relié aux super-héros, à Gal Gadot, à Patty Jenkins et au cinéma contemporain."
 ---
-
 ![Image de Wonder Woman](https://upload.wikimedia.org/wikipedia/commons/4/43/Clematis_%27Princess_Diana%27_02.JPG)
 
 ###### Questions

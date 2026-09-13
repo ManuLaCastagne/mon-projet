@@ -18,8 +18,9 @@ indice_5:
   - Famille excentrique
 indice_6:
   - Bouc émissaire
+culture_g_score: 64
+culture_g_justification: "Saga française identifiable par Daniel Pennac, mêlant roman policier, humour et chronique sociale."
 ---
-
 ![Image de Saga Malaussène]()
 
 ###### Questions

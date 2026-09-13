@@ -20,8 +20,9 @@ indice_6 :
   - Critique des médias
 questions:
  - En janvier 93, quel journaliste de France 2 est débordé par les facéties de Michel Serrault et de Nagui à la fin du journal qu'il présente?
+culture_g_score: 60
+culture_g_justification: "Journaliste et présentateur important de la télévision française, avec quelques repères sur les JT, les jeux et le doublage."
 ---
-
 ![Image de Bruno Masure](https://upload.wikimedia.org/wikipedia/commons/8/84/Bruno_Masure.jpg)
 
 ###### Questions

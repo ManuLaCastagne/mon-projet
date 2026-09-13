@@ -20,8 +20,9 @@ indice_6 :
   - lettres et sciences
 questions:
  - Quel moine anglo-saxon a été chargé par Charlemagne de diriger l'école du palais d'Aix-la-Chapelle et qui a inspiré la réforme scolaire de l'empereur ?
+culture_g_score: 48
+culture_g_justification: "Conseiller de Charlemagne et acteur de la Renaissance carolingienne, Alcuin constitue une connaissance historique utile mais spécialisée."
 ---
-
 ![Image de Alcuin](https://upload.wikimedia.org/wikipedia/commons/3/3a/Raban-Maur_Alcuin_Otgar.jpg)
 
 ###### Questions

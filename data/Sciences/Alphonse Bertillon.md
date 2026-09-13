@@ -20,8 +20,9 @@ indice_6 :
   - Photographie judiciaire
 questions:
  - En 1879, quel scientifique français crée un système d'identification des criminels par leurs mensurations, connu sous le nom de bertillonnage?
+culture_g_score: 60
+culture_g_justification: "Pionnier de l’identification judiciaire, utile pour des questions sur la police scientifique, l’anthropométrie et les débuts de la criminalistique."
 ---
-
 ![Image de Alphonse Bertillon](https://upload.wikimedia.org/wikipedia/commons/4/40/Bertillon%2C_Alphonse%2C_fiche_anthropom%C3%A9trique_recto-verso.jpg)
 
 ###### Questions

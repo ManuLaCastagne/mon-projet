@@ -20,8 +20,9 @@ indice_6 :
   - mentionné dans divers récits historiques
 questions:
  - Objet collectionné par un buxidanicophile, je reste associé à un usage répandu en Europe dès le 17e siècle. D'abord sculpté dans l'ivoire puis le buis, j'ai pris par la suite la forme d'une boîte en métal fermée par un couvercle.
+culture_g_score: 44
+culture_g_justification: "Objet historique et artistique intéressant, mais associé à un nombre limité de questions sur le tabac et les arts décoratifs."
 ---
-
 ![Image de Tabatière](https://upload.wikimedia.org/wikipedia/commons/2/27/French_Tabatiere_carbine_1867.jpg)
 
 ###### Questions

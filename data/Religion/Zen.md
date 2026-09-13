@@ -20,8 +20,9 @@ indice_6 :
   - Dogen
 questions:
  - Dans quel courant du Bouddhisme Shoyo Daishi a-t-il introduit la méthode de méditation assise dans le calme, qui vise à atteindre l'illumination ?
+culture_g_score: 80
+culture_g_justification: "Courant bouddhique connu au-delà de la religion, le Zen intervient dans les questions sur la méditation, le Japon, les arts et la philosophie."
 ---
-
 ![Image de Zen](https://upload.wikimedia.org/wikipedia/commons/4/4f/Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Arbre à large feuilles
 indice_6:
   - Ornementale et médicinale
+culture_g_score: 64
+culture_g_justification: "Arbre ornemental bien connu, exploitable par son nom, ses fleurs, son histoire botanique et ses usages."
 ---
-
 ![Image de Magnolia](https://upload.wikimedia.org/wikipedia/commons/4/48/Magnolia_%C3%97_soulangeana_blossom.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - épouse de Fernand Sardou
 questions:
  - Quelle comédienne, disparue en 1998, célèbre pour sa gouaille, était la grand-mère de l'auteur du roman "Pardonnez nos offenses" ?
+culture_g_score: 24
+culture_g_justification: "Actrice française surtout connue dans un cadre familial et théâtral, Jackie Sardou offre très peu de prises aux quiz généralistes."
 ---
-
 ![Image de Jackie Sardou](https://upload.wikimedia.org/wikipedia/commons/f/f0/Fernand_et_Jackie_Sardou_tombe_1.jpg)
 
 ###### Questions

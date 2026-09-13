@@ -22,8 +22,9 @@ indice_6 :
   - génération du baby-boom
 questions:
  - En 2001, dans quelle comédie avec Robert De Niro rencontre-t-il les parents de sa petite amie ?
+culture_g_score: 20
+culture_g_justification: "Titre peu identifiable et très secondaire, avec une présence marginale dans les quiz généralistes."
 ---
-
 ![Image de Beau-père et moi](https://upload.wikimedia.org/wikipedia/commons/e/e4/Tolsto%C3%AF_-_Le_P%C3%A8re_Serge_et_autres_contes.djvu)
 
 ###### Questions

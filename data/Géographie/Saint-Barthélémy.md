@@ -24,8 +24,9 @@ indice_6 :
   - Tourisme de luxe
 questions:
  - Quelle île des Antilles d'à peine 24 km2, a pour chef-lieu Gustavia ?
+culture_g_score: 60
+culture_g_justification: "Saint-Barthélemy est une île française connue pour son statut ultramarin, son tourisme de luxe et sa géographie antillaise."
 ---
-
 ![Image de Saint-Barthélémy](https://upload.wikimedia.org/wikipedia/commons/4/4c/Saint-Barth%C3%A9lemy_%28ISS-018%29.jpg)
 
 ![[Carte_Saint-Barthélémy.png]]

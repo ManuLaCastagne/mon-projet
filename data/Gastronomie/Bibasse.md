@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Japon
+culture_g_score: 20
+culture_g_justification: "Nom régional d’un fruit peu connu, susceptible d’apparaître seulement dans une question lexicale spécialisée."
 ---
 ###### Questions 
 

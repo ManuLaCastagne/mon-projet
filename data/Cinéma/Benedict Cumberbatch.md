@@ -16,8 +16,9 @@ indice_5:
   - Confrérie secrète
 indice_6:
   - Adversaire rusé
+culture_g_score: 76
+culture_g_justification: "Acteur britannique très identifiable par Sherlock, Alan Turing, Marvel et Le Hobbit, avec des passerelles nombreuses."
 ---
-
 ![Image de Benedict Cumberbatch](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Benedict_Cumberbatch-67295.jpg/1280px-Benedict_Cumberbatch-67295.jpg)
 
 ###### Questions

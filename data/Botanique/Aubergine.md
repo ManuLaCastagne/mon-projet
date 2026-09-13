@@ -15,8 +15,9 @@ indice_6 :
   - Culinaires
 questions:
  - Contenant de nombreuses petites graines, j'ai notamment une forme sphérique ou oblongue et une peau lisse et brillante de couleur foncée ou blanche. Légume-fruit...
+culture_g_score: 64
+culture_g_justification: "Légume mondialement consommé, utile pour des questions de cuisine, de botanique et d’origine, mais pas exceptionnellement fréquent."
 ---
-
 ![Image de Aubergine](https://upload.wikimedia.org/wikipedia/commons/7/76/Solanum_melongena_24_08_2012_%281%29.JPG)
 
 ###### Questions

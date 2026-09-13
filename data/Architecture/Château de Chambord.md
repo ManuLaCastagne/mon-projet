@@ -21,8 +21,9 @@ indice_5:
   - toiture en forme de contes de fées
 indice_6:
   - salamandre royale
+culture_g_score: 84
+culture_g_justification: "Monument emblématique de la Renaissance française, très rentable grâce à François Ier, Léonard de Vinci, la Loire et son architecture."
 ---
-
 ![Image de Chaâteau de Chambord]()
 
 ###### Questions

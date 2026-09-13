@@ -20,8 +20,9 @@ indice_6 :
   - Années 1970-1980
 questions:
  - Quel footballeur néo-calédonien, 13 fois sélectionné en équipe de France...
+culture_g_score: 40
+culture_g_justification: "Premier joueur kanak sélectionné en équipe de France, Zimako constitue une référence historique intéressante mais rarement interrogée."
 ---
-
 ![Image de Jacques Zimako](https://upload.wikimedia.org/wikipedia/commons/9/98/Jacques_Zimako_en_1975.jpg)
 
 ###### Questions

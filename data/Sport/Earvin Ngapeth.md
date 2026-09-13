@@ -18,8 +18,9 @@ indice_5 :
   - Championnat d'Europe
 indice_6 : 
   - Ligues des Nations
+culture_g_score: 44
+culture_g_justification: "Excellent volleyeur français, mais sa notoriété et ses apparitions restent surtout limitées aux quiz sportifs récents."
 ---
-
 ![Image de Earvin Ngapeth](https://upload.wikimedia.org/wikipedia/commons/c/cb/Brasil_vence_a_Fran%C3%A7a_no_v%C3%B4lei_masculino_1037981-15.08.2016_ffz-5374.jpg)
 
 ###### Questions

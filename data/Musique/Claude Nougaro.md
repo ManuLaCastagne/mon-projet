@@ -23,9 +23,9 @@ indice_6 :
 questions:
  - En 1993, dans sa chanson "C'est une Garonne", quel artiste dit de ce fleuve qu'il est "née comme 3 pommes..."
  - Quel chanteur réconcilie les 3 temps de la Java (danse) et le swing du jazz dans une chanson composée en 1962?
+culture_g_score: 80
+culture_g_justification: "Chanteur-poète majeur de la chanson française, dont le jazz, les textes, les reprises et les grands titres offrent de nombreux angles de quiz."
 ---
-
-
 ![Image de Claude Nougaro](https://upload.wikimedia.org/wikipedia/commons/a/ac/31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg)
 
 ###### Questions

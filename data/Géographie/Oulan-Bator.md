@@ -22,8 +22,9 @@ indice_5 :
   - yourtes
 indice_6 : 
   - Gengis Khan
+culture_g_score: 60
+culture_g_justification: "Capitale d’un pays souvent interrogé via Gengis Khan, le nom de la Mongolie et les cultures nomades, malgré une notoriété limitée."
 ---
-
 ![Image de Oulan-Bator](https://upload.wikimedia.org/wikipedia/commons/3/39/Oulan-Bator.-_Queti_in_Gandan_Monastery.jpg)
 
 ![[Carte_Oulan-Bator.png]]

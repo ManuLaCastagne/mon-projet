@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de fertilité
 questions:
  - herbivore pouvant avoir des cornes, qui poussent assez rapidement, je suis élevé jusqu'à l'âge de 3 à 7 semaines pour la production...
+culture_g_score: 24
+culture_g_justification: "Le terme est compréhensible mais rarement interrogé en dehors d’une question lexicale sur le petit de la chèvre."
 ---
-
-
 ![Image de Chevreau](https://upload.wikimedia.org/wikipedia/commons/0/08/Faune_au_chevreau_Faun_with_kid_Lepautre_Louvre_M.R.1808.jpg)
 
 ###### Questions

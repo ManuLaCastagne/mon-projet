@@ -22,8 +22,9 @@ indice_6 :
   - tempo calme
 questions:
  - Danse dont le nom est attesté dès 1925, je suis pratiquée sur une musique à 2 ou 4 temps comme "Un été de porcelaine" de Mort Shuman.  Exécutée par Guy Bedos dans un sketch de 1972...
+culture_g_score: 47
+culture_g_justification: "Le slow est une catégorie familière de danse et de chansons, mais son contour imprécis entraîne peu de questions générales sur le sujet lui-même."
 ---
-
 ![Image de Slow](https://upload.wikimedia.org/wikipedia/commons/0/05/Slow_Life_in_A_Tea_House_01_edited.jpg)
 
 ###### Questions

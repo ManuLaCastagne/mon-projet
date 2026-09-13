@@ -20,8 +20,9 @@ indice_6 :
   - Lanceur
 questions:
  - Représenté en France par des clubs  comme les Cougars de Montigny-le-Bretonneux ou les Lions de Savigny-sur-Orge, j'oppose 2 équipes de 9 joueurs qui alternent entre phases défensives et offensives. Sport très populaire aux Etats-Unis...
+culture_g_score: 72
+culture_g_justification: "Sport majeur de la culture américaine, exploitable via son histoire, ses règles, ses records, ses joueurs et sa dimension sociale."
 ---
-
 ![Image de Base-ball](https://upload.wikimedia.org/wikipedia/commons/a/a4/Zack_Greinke_on_July_29%2C_2009.jpg)
 
 ###### Questions

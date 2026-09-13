@@ -21,12 +21,9 @@ indice_5:
   - Londres et Paris
 indice_6:
   - Nocturnes
+culture_g_score: 71
+culture_g_justification: "Whistler est associé à un portrait mondialement connu, à l’esthétisme, aux titres musicaux et à un procès célèbre avec Ruskin."
 ---
-
-
-
-
-
 ![Image de James Abbott McNeill Whistler](https://upload.wikimedia.org/wikipedia/commons/0/0a/James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg)
 
 ###### Questions

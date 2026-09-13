@@ -20,8 +20,9 @@ indice_6 :
   - rencontres amoureuses
 questions:
  - Série coproduite par Laurent Ceccaldi dont le père Daniel avait joué en 1978 dans un film dont je m'inspire librement, je suis une saga estivale créée par Fabienne Lesieur.
+culture_g_score: 27
+culture_g_justification: "Série estivale relativement récente et peu marquante, dont les questions restent essentiellement centrées sur son adaptation et son intrigue."
 ---
-
 ![Image de L'Hôtel de la plage](https://upload.wikimedia.org/wikipedia/commons/9/9e/Plage_de_Capbreton_avec_l%27hotel_de_la_Plage.jpg)
 
 ###### Questions

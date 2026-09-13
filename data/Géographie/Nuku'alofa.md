@@ -21,8 +21,9 @@ indice_5 :
   - Cyclone Gita 2018
 indice_6 : 
   - Roi Tupou VI
+culture_g_score: 32
+culture_g_justification: "Capitale très peu connue des Tonga, principalement utile dans les questions sur les capitales insulaires du Pacifique."
 ---
-
 ![Image de Nuku'alofa](https://upload.wikimedia.org/wikipedia/commons/9/94/Royal_Palace%2C_Nuku%27alofa%2C_Nov_18.jpg)
 
 ![[Carte_Nuku'alofa.png]]

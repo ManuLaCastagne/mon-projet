@@ -21,8 +21,9 @@ indice_5:
 indice_6: 
 questions:
   - Quelle ancienne province de France correspond à la Creuse actuelle ?
+culture_g_score: 40
+culture_g_justification: "Ancienne province française pouvant faire l'objet d'une question d'histoire ou de géographie, mais assez méconnue."
 ---
-
 ![Image de Marche (région)](https://upload.wikimedia.org/wikipedia/commons/e/ef/Marche_-_91_%2849114488412%29.jpg)
 
 ![[Carte_Marche (région).png]]

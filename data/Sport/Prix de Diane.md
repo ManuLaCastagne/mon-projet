@@ -20,9 +20,9 @@ indice_6 :
   - Longines
 questions:
  - Sur l'hippodrome de Chantilly...
+culture_g_score: 57
+culture_g_justification: "Course hippique française prestigieuse, mais surtout exploitable dans le cadre étroit de l’histoire des courses."
 ---
-
-
 ![Image de Prix de Diane](https://upload.wikimedia.org/wikipedia/commons/b/be/PodiumPrixdeDianeChantilly.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - années 1987
 questions:
  - Comprenant les paroles  "Baisers salés salis, tombés le long du lit", je suis un titre de Gesch Patti dans lequel elle répète le prénom d'un homme...
+culture_g_score: 44
+culture_g_justification: "Tube français marquant des années 1980, mais dont les possibilités de questions restent concentrées sur une chanson et son interprète."
 ---
-
 ![Image de Etienne, Etienne](https://upload.wikimedia.org/wikipedia/commons/f/f2/Ambulatory_ceiling_-_Cathedral_Saint-Etienne_in_Toulouse.jpg)
 
 ###### Questions

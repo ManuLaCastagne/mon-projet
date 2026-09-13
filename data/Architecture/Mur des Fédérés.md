@@ -22,8 +22,9 @@ indice_6:
   - résistance ouvrière
 questions:
   - Dans le cimetière du Père Lachaise, quel mur doit son nom au dernier défenseur de la commune fusillé en mai 1871 ?
+culture_g_score: 44
+culture_g_justification: "Lieu de mémoire important de la Commune de Paris, le Mur des Fédérés demeure néanmoins une référence historique assez spécialisée."
 ---
-
 ![Image de Mur des Fédérés](https://upload.wikimedia.org/wikipedia/commons/c/c6/Mur_des_F%C3%A9d%C3%A9r%C3%A9s_2022.jpg)
 
 ![[Carte_Mur des Fédérés.png]]

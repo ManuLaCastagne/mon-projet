@@ -18,9 +18,9 @@ indice_6 :
   - Cyclades
 questions:
  - Sur quelle île grecque, originellement nommée Astéria, Léto a-t-elle donné naissance à Apollon?
+culture_g_score: 64
+culture_g_justification: "Île sacrée liée à la naissance d'Apollon et d'Artémis, importante archéologiquement mais moins fréquente que Delphes."
 ---
-
-
 ![Image de Délos](https://upload.wikimedia.org/wikipedia/commons/2/2a/Bust_of_Hermes%2C_Delos_01.jpg)
 
 ###### Questions

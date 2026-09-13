@@ -22,8 +22,9 @@ indice_5 :
   - Moyen-Orient
 indice_6 : 
   - Jordanie
+culture_g_score: 60
+culture_g_justification: "Capitale jordanienne utile pour la géographie du Proche-Orient, mais moins fréquente et moins structurante que les principales capitales de la région."
 ---
-
 ![Image de Amman](https://upload.wikimedia.org/wikipedia/commons/7/79/Amman_BW_2.JPG)
 
 ![[Carte_Amman.png]]

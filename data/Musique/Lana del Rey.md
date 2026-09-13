@@ -22,9 +22,9 @@ indice_6 :
   - Norman Fucking Rockwell!
 questions:
  - A quelle chanteuse américaine, révélée en 2011 grâce au clip de "Video Games", doit-on la chanson "Blue Jeans"?
+culture_g_score: 60
+culture_g_justification: "Chanteuse pop très connue depuis Born to Die, mais surtout exploitable dans des questions musicales contemporaines assez ciblées."
 ---
-
-
 ![Image de Lana del Rey](https://upload.wikimedia.org/wikipedia/commons/f/f9/Lana_Del_Rey_at_the_Echo_Awards_2013.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Style mudéjar
 questions:
  - Possédant un décor délicat, caractéristique du style des Almohades. Ancien minaret dominant la ville de Séville, je tire mon nom espagnol, signifiant girouette, de la statue placée à mon sommet qui tourne au gré des vents. Comment dit-on girouette?
+culture_g_score: 76
+culture_g_justification: "La Giralda est un symbole majeur de Séville, propice aux questions sur l’Espagne, l’islam médiéval, la Reconquista et l’architecture."
 ---
-
 ![Image de Giralda](https://upload.wikimedia.org/wikipedia/commons/4/44/La_Giralda%2C_Seville%2C_Spain_-_Sep_2009.jpg)
 
 ###### Questions

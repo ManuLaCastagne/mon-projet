@@ -20,8 +20,9 @@ indice_6 :
   - chronique quotidienne d'une minute trente
 questions:
  - De 1991 à 2018, quel écrivain et journaliste a présenté le court magazine littéraire "Un Livre, un jour" sur FR3 puis France 3?
+culture_g_score: 40
+culture_g_justification: "Animateur littéraire reconnu en France, mais sa présence dans les quiz reste limitée à quelques émissions et repères médiatiques."
 ---
-
 ![Image de Olivier Barrot](https://upload.wikimedia.org/wikipedia/commons/e/ec/Judith_Magre_et_Olivier_Barrot_2025.jpg)
 
 ###### Questions

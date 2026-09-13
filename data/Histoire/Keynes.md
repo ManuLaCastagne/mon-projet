@@ -20,8 +20,9 @@ indice_6 :
   - John Maynard
 questions:
  - Quel économiste britannique, né en 1883, a donné son nom à une doctrine favorisant la consommation et l'intervention...
+culture_g_score: 84
+culture_g_justification: "Keynes est un économiste majeur, fréquemment mobilisé sur la crise de 1929, l’intervention de l’État, Bretton Woods et les politiques économiques modernes."
 ---
-
 ![Image de Keynes](https://upload.wikimedia.org/wikipedia/commons/0/04/Keynes_1933.jpg)
 
 ###### Questions

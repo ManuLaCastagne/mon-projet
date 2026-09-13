@@ -22,8 +22,9 @@ indice_6 :
   - Oscar de la meilleure actrice
 questions:
  - Dans la 4e saison de la série "Cinéma/The Crown", sortie en 2020, quelle Première ministre britannique est incarnée par l'actrice américaine...
+culture_g_score: 100
+culture_g_justification: "Première femme Premier ministre britannique et figure historique mondiale, très rentable pour la politique, l’histoire, le Royaume-Uni et la culture populaire."
 ---
-
 ![Image de Margaret Thatcher](https://upload.wikimedia.org/wikipedia/commons/f/ff/Thatcher-loc.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Spatialisateur
 questions:
  - En 1976, quel organisme de recherche est créé dans le cadre du centre Pompidou, à Paris ?
+culture_g_score: 47
+culture_g_justification: "L’Ircam constitue une référence française de musique contemporaine et de technologie sonore, mais demeure relativement spécialisé."
 ---
-
 ![Image de Ircam](https://upload.wikimedia.org/wikipedia/commons/b/b3/IRCAM_machine_room_in_1989.jpg)
 
 ###### Questions

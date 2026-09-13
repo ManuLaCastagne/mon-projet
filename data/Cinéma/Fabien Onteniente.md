@@ -22,8 +22,9 @@ indice_6 :
   - réalisateur français
 questions:
  - A quel réalisateur français doit-on les 3 films de la série?
+culture_g_score: 56
+culture_g_justification: "Réalisateur de comédies populaires comme Camping, mais d’importance limitée et surtout pertinente dans le cinéma français contemporain."
 ---
-
 ![Image de Fabien Onteniente](https://upload.wikimedia.org/wikipedia/commons/4/4e/Fabien_Onteniente_%28cropped%29.jpg)
 
 ###### Questions

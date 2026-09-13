@@ -20,8 +20,9 @@ indice_6 :
   - NASA
 questions:
  - Un record de sortie extravéhiculaire lors de la mission Gemini 12 avant de participer à Apollo 11. 2e homme à avoir marché sur la Lune...
+culture_g_score: 84
+culture_g_justification: "Astronaute d’Apollo 11 immédiatement identifiable, permettant des questions sur la conquête spatiale, la Lune et la guerre de Corée."
 ---
-
 ![Image de Buzz Aldrin](https://upload.wikimedia.org/wikipedia/commons/9/9c/Aldrin_Apollo_11.jpg)
 
 ###### Questions

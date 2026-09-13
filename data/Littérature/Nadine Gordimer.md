@@ -22,8 +22,9 @@ indice_6 :
   - réalisme social
 questions:
  - En 1991, littérature, à quelle romancière sud-africaine auteure notamment de "Un monde d'étrangers", a-t-on remis le prix Nobel de littérature?
+culture_g_score: 64
+culture_g_justification: "Prix Nobel sud-africain associé à l’apartheid et à une œuvre engagée, régulièrement mobilisé mais moins central que les Nobel les plus célèbres."
 ---
-
 ![Image de Nadine Gordimer](https://upload.wikimedia.org/wikipedia/commons/3/37/Nadine_Gordimer_01.JPG)
 
 ###### Questions

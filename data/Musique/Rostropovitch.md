@@ -22,9 +22,9 @@ indice_6 :
   - compositeur
 questions:
  - En 1989, quel violoncelliste russe, ayant enseigné au conservatoire de Moscou, offre un récital au pied du mur de Berlin pour célébrer sa chute?
+culture_g_score: 67
+culture_g_justification: "Grand violoncelliste du XXe siècle, Rostropovitch offre des liens utiles entre musique classique, URSS, dissidence et chute du Mur."
 ---
-
-
 ![Image de Rostropovitch](https://upload.wikimedia.org/wikipedia/commons/9/97/Mstislav_Rostropovich_in_Khimki_Reservoir_2016-05-06_Pic_12.JPG)
 
 ###### Questions

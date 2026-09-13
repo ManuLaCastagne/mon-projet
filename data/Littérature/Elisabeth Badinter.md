@@ -22,8 +22,9 @@ indice_6 :
   - critique de la société patriarcale
 questions:
  - A quelle intellectuelle française, militante de la cause féminine, doit-on notamment les ouvrages "L'Amour en plus" et "Le Conflit, la femme..."
+culture_g_score: 71
+culture_g_justification: "Essayiste française influente sur l’histoire des femmes, la maternité et le féminisme, avec plusieurs angles intellectuels mais une fréquence modérée."
 ---
-
 ![Image de Elisabeth Badinter](https://upload.wikimedia.org/wikipedia/commons/1/10/Familles_en_miettes.jpg)
 
 ###### Questions

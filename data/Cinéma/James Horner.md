@@ -19,10 +19,9 @@ indice_5:
   - Avatar
 indice_6:
   - Apollo 13
+culture_g_score: 69
+culture_g_justification: "Compositeur de Titanic et de plusieurs grandes bandes originales, régulièrement mobilisable dans les questions de cinéma musical."
 ---
-
-
-
 ![Image de James Horner](https://upload.wikimedia.org/wikipedia/commons/9/9f/James-horner-07.jpg)
 
 ###### Questions

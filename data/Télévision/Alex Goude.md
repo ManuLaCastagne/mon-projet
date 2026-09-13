@@ -19,9 +19,9 @@ indice_5 :
   - Passionné de sciences
 indice_6 : 
   - Parade Broadway
+culture_g_score: 36
+culture_g_justification: "Animateur de télévision identifiable par quelques émissions populaires, mais peu rentable au regard de la culture générale large."
 ---
-
-
 ![Image de Alex Goude](https://upload.wikimedia.org/wikipedia/commons/8/84/Alex_Goude_Rentr%C3%A9e_2012.jpg)
 
 ###### Questions

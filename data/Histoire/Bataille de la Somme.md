@@ -22,8 +22,9 @@ indice_6:
   - Rio de Janeiro en guerre
 questions:
   - Quelle bataille de la Première Guerre mondiale en juillet 1916 doit son nom à un fleuve de Picardie ?
+culture_g_score: 80
+culture_g_justification: "Offensive emblématique de 1916, utile pour les questions sur la guerre de tranchées, les pertes massives et les premiers chars."
 ---
-
 ![Image de Bataille de la Somme](https://upload.wikimedia.org/wikipedia/commons/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg)
 
 ###### Questions

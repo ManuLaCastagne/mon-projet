@@ -20,8 +20,9 @@ indice_6 :
   - Pays Basque
 questions:
  - A quelle classique cycliste, se déroulant au Pays basque, associe-t-on l'ascension de l'Alto de Jaizkibel, principale difficulté de l'épreuve?
+culture_g_score: 40
+culture_g_justification: "Course cycliste reconnue du calendrier international, mais trop spécialisée pour être prioritaire en culture générale."
 ---
-
 ![Image de Clasica San Sebastian](https://upload.wikimedia.org/wikipedia/commons/8/8a/Koos_Moerenhout_sebastian.jpg)
 
 ###### Questions

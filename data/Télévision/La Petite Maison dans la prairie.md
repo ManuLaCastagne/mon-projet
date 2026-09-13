@@ -21,9 +21,9 @@ indice_6 :
 questions:
  - Quelle série télévisée américaine se déroulant au XIXe siècle dans le village de Walnut Grove, raconte le quotidien de 2 familles  les Oleson et les Ingalls ?
  - Série créée en 1974 dont les 205 épisodes continuent d'être rediffusés en France actuellement. Quel prénom porte la petite dernière de la famille Ingalls que l'on voit tomber dans l'herbe lors du générique? (Carrie)
+culture_g_score: 77
+culture_g_justification: "Série populaire et durable, régulièrement mobilisée via ses personnages, son univers, ses acteurs et son origine littéraire."
 ---
-
-
 ![Image de La Petite Maison dans la prairie](https://upload.wikimedia.org/wikipedia/commons/6/69/La_petite_%22maison%22_dans_la_prairie_%288910746770%29.jpg)
 
 ###### Questions

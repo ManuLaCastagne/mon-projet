@@ -23,8 +23,9 @@ indice_6 :
   - Monsieur Teste
 questions:
  - D'être reçu par d'Annunzio et Rainer Maria Rilke. Elu à l'Académie française en 1925, j'ai rempli tout au long de ma vie des "Cahiers", publiés après ma mort en 1945. Auteur du poème "Le Cimetière marin" et de "Monsieur..."?
+culture_g_score: 80
+culture_g_justification: "Poète et penseur français classique, fréquemment associé au Cimetière marin, à l’Académie française et à la philosophie."
 ---
-
 ![Image de Paul Valéry](https://upload.wikimedia.org/wikipedia/commons/f/fa/Paul_Val%C3%A9ry_-_photo_Henri_Manuel.jpg)
 
 ###### Questions

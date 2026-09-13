@@ -15,8 +15,9 @@ indice_6 :
   - Production de sucre
 questions:
  - Quelle plante tropicale du genre Saccharum, ressemblant à un roseau, est cultivée pour sa tige riche...
+culture_g_score: 72
+culture_g_justification: "Culture mondiale liée au sucre, au rhum, à l’économie agricole et aux biocarburants, offrant plusieurs angles de questions."
 ---
-
 ![Image de Canne à sucre](https://upload.wikimedia.org/wikipedia/commons/d/dc/Parcelles_de_la_canne_%C3%A0_sucre_%C3%A0_Richard-Toll.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Hémicycle
 questions:
  - A quel philosophe grec, à l'origine de la maïeutique ou "art d'accoucher les esprits", a dit   "connais-toi toi-même" ?
+culture_g_score: 100
+culture_g_justification: "Figure fondatrice de la philosophie occidentale, omniprésente dans les quiz et reliée à l'histoire, à la politique, à la littérature et à la pensée critique."
 ---
-
 ![Image de Socrate](https://upload.wikimedia.org/wikipedia/commons/7/72/Socrate_%28annotation_Saties_pour_princesse_de_Polignac%29_1916.jpg)
 
 ###### Questions

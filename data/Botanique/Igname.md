@@ -13,8 +13,9 @@ indice_5:
   - Dioscorée
 indice_6:
   - Aliment de base en cuisine
+culture_g_score: 52
+culture_g_justification: "Aliment de base mondial permettant des questions sur les cultures tropicales, la nutrition et le tapioca."
 ---
-
 ![Image de Igname](https://upload.wikimedia.org/wikipedia/commons/0/08/Roast_yam.jpg)
 
 ###### Questions

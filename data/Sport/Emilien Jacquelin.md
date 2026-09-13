@@ -20,8 +20,9 @@ indice_6 :
   - IBU World Cup
 questions:
  - Lors des championnats du monde de biathlon 2021, quel champion...
+culture_g_score: 40
+culture_g_justification: "Biathlète français de premier plan, mais encore relativement spécialisé et surtout pertinent pour des questions sportives contemporaines."
 ---
-
 ![Image de Emilien Jacquelin](https://upload.wikimedia.org/wikipedia/commons/4/46/%C3%89milien_Jacquelin_2018.jpg)
 
 ###### Questions

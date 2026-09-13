@@ -21,6 +21,8 @@ indice_5:
   - Nathaniel Ayers
 indice_6:
   - Robert Downey Jr.
+culture_g_score: 40
+culture_g_justification: "Drame américain fondé sur une histoire vraie, mais relativement peu connu et rarement mobilisé hors de quelques questions de cinéma."
 ---
 ![[Pasted image 20260113152804.png]]
 ###### Questions

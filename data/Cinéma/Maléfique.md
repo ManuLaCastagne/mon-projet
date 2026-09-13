@@ -22,8 +22,9 @@ indice_6 :
   - Rôle antagoniste
 questions:
  - En 2014, dans quel film, adapté de "La Belle au bois dormant", Angelina Jolie incarne-t-elle une sorcière qui jette un sort...
+culture_g_score: 60
+culture_g_justification: "Personnage et film Disney très connus, mais l’œuvre de 2014 reste moins incontournable que le conte original."
 ---
-
 ![Image de Maléfique](https://upload.wikimedia.org/wikipedia/commons/8/81/Extermination_of_Evil_Sendan_Kendatsuba.jpg)
 
 ###### Questions

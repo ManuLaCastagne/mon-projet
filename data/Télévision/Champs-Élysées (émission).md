@@ -18,8 +18,9 @@ indice_5 :
   - années 1982 à 1990
 indice_6 : 
   - émissions en prime-time
+culture_g_score: 72
+culture_g_justification: "Grand classique des variétés françaises associé à Michel Drucker, fréquemment exploitable par la télévision, la musique et les célébrités."
 ---
-
 ![Image de Champs-Élysées (émission)](https://upload.wikimedia.org/wikipedia/commons/f/f1/Louis_Vuitton_-_Paris.JPG)
 
 ###### Questions

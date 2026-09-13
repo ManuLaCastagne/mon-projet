@@ -22,8 +22,9 @@ indice_6 :
   - suite de la trilogie Ocean's
 questions:
  - En 2018, dans quelle comédie policière de Gary Ross Sandra Bullock recrute-t-elle une équipe de choc chargée de dérober une rivière de diamants?
+culture_g_score: 47
+culture_g_justification: "Film de braquage au casting prestigieux et au lien évident avec la saga Ocean’s, mais relativement secondaire dans la culture cinématographique générale."
 ---
-
 ![Image de Ocean's 8](https://upload.wikimedia.org/wikipedia/commons/3/37/Sarah_Paulson_Ocean%27s_8_premiere.png)
 
 ###### Questions

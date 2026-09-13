@@ -22,9 +22,9 @@ indice_6 :
   - Miles Ahead
 questions:
  - A quel trompettiste doit-on la musique du film "Ascenseur pour l'échafaud"...
+culture_g_score: 87
+culture_g_justification: "Géant du jazz, particulièrement rentable pour relier styles, albums, trompette, collaborations et histoire de la musique contemporaine."
 ---
-
-
 ![Image de Miles Davis](https://upload.wikimedia.org/wikipedia/commons/f/fe/Miles_Davis_22.jpg)
 
 ###### Questions

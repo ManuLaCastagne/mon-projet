@@ -22,8 +22,9 @@ indice_6 :
   - zampona du Pérou
 questions:
  - Quelle flûte est également appelée "syrinx" ?
+culture_g_score: 60
+culture_g_justification: "Instrument reconnaissable par sa forme et ses associations andines, roumaines et cinématographiques, mais d'usage quiz modéré."
 ---
-
 ![Image de Flûte de pan](https://upload.wikimedia.org/wikipedia/commons/6/62/Flute_de_pan_MHNT_ETH_AC_NH_31_Sav%C3%A8s.jpg)
 
 ###### Questions

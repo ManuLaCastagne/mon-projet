@@ -24,8 +24,9 @@ indice_6 :
   - années 1980
 questions:
  - Dans quel générique de feuilleton dit-on qu'une ville américaine "glorifie la loi du plus fort"?
+culture_g_score: 93
+culture_g_justification: "Ville incontournable grâce à l’assassinat de Kennedy, à la série Dallas, au Texas et à de nombreux repères culturels américains."
 ---
-
 ![Image de Dallas](https://upload.wikimedia.org/wikipedia/commons/9/92/Sanger%E2%80%93Harris_mosaic_at_the_Valley_View_Center_Mall_in_Dallas%2C_Texas.jpg)
 
 ![[Carte_Dallas.png]]

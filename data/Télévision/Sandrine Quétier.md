@@ -18,8 +18,9 @@ indice_5 :
   - Ninja Warrior
 indice_6 : 
   - télévision
+culture_g_score: 44
+culture_g_justification: "Animatrice française bien connue du public télévisuel, mais rarement interrogée en dehors de ses émissions les plus populaires."
 ---
-
 ![Image de Sandrine Quétier](https://upload.wikimedia.org/wikipedia/commons/1/10/Sandrine_Quetier_2013.jpg)
 
 ###### Questions

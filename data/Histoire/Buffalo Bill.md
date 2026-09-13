@@ -20,11 +20,9 @@ indice_6 :
   - il a reçu la Medal of Honor en 1872
 questions:
  - Quel pionnier américain né en 1846, est indissociable de sa carabine Winchester ?
+culture_g_score: 67
+culture_g_justification: "Figure emblématique du Far West et du spectacle populaire, mais surtout mobilisée dans un nombre limité d’angles historiques et culturels."
 ---
-
-
-
-
 ![Image de Buffalo Bill](https://upload.wikimedia.org/wikipedia/commons/3/35/Cody-Buffalo-Bill-LOC.jpg)
 
 ###### Questions

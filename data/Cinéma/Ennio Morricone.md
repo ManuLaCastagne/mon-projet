@@ -21,10 +21,9 @@ indice_5 :
   - Cinema Paradiso
 indice_6 : 
   - Collaboration avec Sergio Leone
+culture_g_score: 100
+culture_g_justification: "Compositeur incontournable de la musique de film, lié à Sergio Leone, au western spaghetti, à de nombreux classiques et aux Oscars."
 ---
-
-
-
 ![Image de Ennio Morricone](https://upload.wikimedia.org/wikipedia/commons/5/5f/Ennio_Morricone_Cannes_2007.jpg)
 
 ###### Questions

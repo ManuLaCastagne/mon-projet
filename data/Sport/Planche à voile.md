@@ -20,8 +20,9 @@ indice_6 :
   - PWA World Tour
 questions:
  - Quel sport nautique donnant lieu à des régates en funboard pratique-t-on à l'aide d'un flotteur plat muni d'une voile fixée à un mât articulé?
+culture_g_score: 60
+culture_g_justification: "Sport nautique olympique identifiable, offrant quelques angles sur son invention, ses champions et son évolution."
 ---
-
 ![Image de Planche à voile](https://upload.wikimedia.org/wikipedia/commons/d/d5/Planche_%C3%A0_voile_%2832%29.jpg)
 
 ###### Questions

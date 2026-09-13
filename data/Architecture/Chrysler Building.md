@@ -23,8 +23,9 @@ indice_6 :
   - pointe en acier inoxydable
 questions:
  - Gratte-ciel inauguré en 1930, devant son nom à un magnat de l'automobile, qui est resté durant 11 mois le plus haut monument de New York avant l'érection de...
+culture_g_score: 68
+culture_g_justification: "Gratte-ciel emblématique de New York et de l’Art déco, régulièrement cité mais moins incontournable que l’Empire State Building."
 ---
-
 ![Image de Chrysler Building](https://upload.wikimedia.org/wikipedia/commons/5/5f/Manhattan_from_Weehawken%2C_NJ.jpg)
 
 ###### Questions

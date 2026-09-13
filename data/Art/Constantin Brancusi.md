@@ -20,9 +20,9 @@ indice_5:
   - Studio à Paris
 indice_6:
   - Chef de file de l’art abstrait
+culture_g_score: 72
+culture_g_justification: "Pionnier de la sculpture moderne, Brancusi permet des questions sur l'abstraction, ses œuvres, sa nationalité et une célèbre affaire judiciaire."
 ---
-
-
 ![Image de Constantin Brancusi](https://upload.wikimedia.org/wikipedia/commons/c/c8/Constantin_Brancusi_c.1905.jpg)
 
 ###### Questions

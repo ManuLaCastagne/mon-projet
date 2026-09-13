@@ -22,8 +22,9 @@ indice_6 :
   - musique ancienne
 questions:
  - Associé au violon et au violoncelle dans les "Trios" de Joseph Haydn, je suis…
+culture_g_score: 80
+culture_g_justification: "Instrument emblématique de la Renaissance et du baroque, fréquemment relié à Bach, Couperin, Scarlatti, sa facture et son fonctionnement."
 ---
-
 ![Image de Clavecin](https://upload.wikimedia.org/wikipedia/commons/8/88/Harpsichord_in_a_church.jpg)
 
 ###### Questions

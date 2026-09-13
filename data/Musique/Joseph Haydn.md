@@ -22,16 +22,16 @@ indice_6:
   - service des Esterházy
 questions:
   - Quel compositeur autrichien réalisa la symphonie "Les Adieux" à la fin de laquelle les instrumentistes cessent de jouer les uns après les autres ?
+culture_g_score: 84
+culture_g_justification: "Compositeur classique fondamental, associé à la symphonie, au quatuor, à Mozart, à Beethoven et à plusieurs œuvres célèbres."
 ---
-
-
 ![Image de Joseph Haydn](https://upload.wikimedia.org/wikipedia/commons/3/3e/Haydn_Kaiserlied_Reinschrift.jpg)
 
 ###### Questions
 
 Dans quel pays [[Joseph Haydn]] a-t-il composé la majorité de ses [[Symphonies de Londres]] en 1791 et 1792? <!-- score: 4 -->
 
-Quel compositeur classique, né en 1732, est souvent surnommé le « [[père de la symphonie]] » et a influencé des génies comme [[Mozart]] et [[Ludwig van Beethoven]]? 
+Quel compositeur classique, né en 1732, est souvent surnommé le « [[père de la symphonie]] » et a influencé des génies comme [[Wolfgang Amadeus Mozart]] et [[Ludwig van Beethoven]]? 
 
 Quel célèbre compositeur autrichien, mort en 1809, est connu pour sa vaste contribution au développement du [[quatuor à cordes]]?
 

@@ -22,8 +22,9 @@ indice_6 :
   - influence notable sur la musique classique
 questions:
  - C'est un extrait de l'opéra "L'Europa riconosciuta" joué en 1778 lors de l'inauguration de la Scala de Milan. A quel compositeur italien, connu pour sa rivalité avec Mozart…
+culture_g_score: 71
+culture_g_justification: "Salieri est une figure classique de la musique viennoise, rendue particulièrement mémorable par son rapport légendaire à Mozart."
 ---
-
 ![Image de Antonio Salieri](https://upload.wikimedia.org/wikipedia/commons/5/58/Salieri.JPG)
 
 ###### Questions
@@ -32,7 +33,7 @@ Quel compositeur italien, rival de [[Wolfgang Amadeus Mozart]] selon certains r�
 
 Quel professeur influent a eu parmi ses élèves des musiciens célèbres tels que [[Ludwig van Beethoven]], [[Franz Schubert]] et [[Franz Liszt]] ?
 
-Quel compositeur a dirigé la première représentation de l'opéra "[[La Clémence de Titus]]" de [[Mozart]] en 1791 ?
+Quel compositeur a dirigé la première représentation de l'opéra "[[La Clémence de Titus]]" de [[Wolfgang Amadeus Mozart]] en 1791 ?
 
 ###### Description
 

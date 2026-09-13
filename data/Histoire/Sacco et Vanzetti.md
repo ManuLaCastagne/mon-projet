@@ -20,8 +20,9 @@ indice_6 :
   - Massachusetts
 questions:
  - Quels anarchistes d'origine italienne prénommés...
+culture_g_score: 80
+culture_g_justification: "Affaire judiciaire emblématique de l’entre-deux-guerres, reliant anarchisme, immigration, peine de mort et controverses sur la justice américaine."
 ---
-
 ![Image de Sacco et Vanzetti](https://upload.wikimedia.org/wikipedia/commons/7/73/Villejuif_2023_-_rue_Sacco-et-Vanzetti_446.jpg)
 
 ###### Questions

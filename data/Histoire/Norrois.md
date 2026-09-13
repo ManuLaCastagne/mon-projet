@@ -19,6 +19,8 @@ indice_5:
   - Éric le Rouge
 indice_6:
   - Exploration de l'Amérique du Nord
+culture_g_score: 43
+culture_g_justification: "Notion linguistique utile pour les Vikings et les langues scandinaves, mais relativement spécialisée dans les quiz généralistes."
 ---
 ![Image de Pierre de Rök](https://upload.wikimedia.org/wikipedia/commons/d/d6/R%C3%B6kstenen_2.jpg)
 ###### Questions

@@ -21,9 +21,9 @@ indice_5:
   - XIXe siècle
 indice_6:
   - Terza Rima
+culture_g_score: 84
+culture_g_justification: "Poème très célèbre de Verlaine, particulièrement rentable grâce à ses vers mémorables, à la Résistance et à l’histoire de la poésie française."
 ---
-
-
 ![Image de Chanson d'automne](https://upload.wikimedia.org/wikipedia/commons/5/58/Paul_Verlaine_-_Chanson_d%27automne_-_Pieterskerkhof_4%2C_Leiden.JPG)
 
 ###### Questions

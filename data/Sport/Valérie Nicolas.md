@@ -20,8 +20,9 @@ indice_6 :
   - joueur mondial IHF
 questions:
  - En 2007, lors du Mondial de handball féminin, quelle joueuse française a été élue meilleure gardienne du tournoi, un an avant de mettre un terme à sa carrière ?
+culture_g_score: 40
+culture_g_justification: "Championne française de handball reconnue dans son sport, mais peu connue au-delà de quelques références spécialisées."
 ---
-
 ![Image de Valérie Nicolas](https://upload.wikimedia.org/wikipedia/commons/3/3e/Val%C3%A9rie_Nicolas.jpg)
 
 ###### Questions

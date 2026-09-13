@@ -22,8 +22,9 @@ indice_6 :
   - carrière débutée dans les années 1960
 questions:
  - En 1964, qui interprète "Vous permettez, monsieur" en demandant à un père la permission de danser avec sa fille ?
+culture_g_score: 80
+culture_g_justification: "Adamo est une figure majeure de la chanson francophone, associée à de nombreux tubes, à la Belgique et à une carrière internationale."
 ---
-
 ![Image de Salvatore Adamo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Salvatore_Adamo.jpg)
 
 ###### Questions

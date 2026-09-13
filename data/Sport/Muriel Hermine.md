@@ -20,8 +20,9 @@ indice_6 :
   - Retraite sportive
 questions:
  - J'ai fait connaître la natation synchronisée en France…
+culture_g_score: 28
+culture_g_justification: "Championne française notable de natation synchronisée, mais peu présente dans les quiz généralistes en dehors de sa discipline."
 ---
-
 ![Image de Muriel Hermine](https://upload.wikimedia.org/wikipedia/commons/2/27/Murielle_Hermine.jpg)
 
 ###### Questions

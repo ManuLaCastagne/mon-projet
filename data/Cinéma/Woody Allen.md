@@ -22,8 +22,9 @@ indice_6 :
   - comédie romantique
 questions:
  - En 1971, quel acteur et réalisateur est représenté sur l'affiche du film "Bananas" en guérillero brandissant une banane?
+culture_g_score: 88
+culture_g_justification: "Cinéaste et acteur mondialement célèbre, permettant de nombreuses questions sur ses films, les Oscars, New York, le jazz et le cinéma d'auteur."
 ---
-
 ![Image de Woody Allen](https://upload.wikimedia.org/wikipedia/commons/3/3c/Woody_Allen_%282006%29.jpeg)
 
 ###### Questions

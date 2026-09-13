@@ -13,8 +13,9 @@ indice_5:
   - Fruit du cacaoyer
 indice_6:
   - Source de fèves pour le chocolat
+culture_g_score: 56
+culture_g_justification: "La cabosse relie botanique, cacao, alimentation et économie mondiale, mais elle apparaît moins souvent que le chocolat ou le cacaoyer lui-même."
 ---
-
 ![Image de Cabosse](https://upload.wikimedia.org/wikipedia/commons/d/de/Cabosse_de_Cacao.jpg)
 
 ###### Questions

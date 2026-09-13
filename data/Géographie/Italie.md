@@ -41,8 +41,9 @@ questions:
  - Quel pays européen abrite le parc national du Grand-Paradis, inauguré en 1922 ?
 questions:
  - Quel pays européen abrite le parc national du Grand-Paradis, inauguré en 1922 ?
+culture_g_score: 100
+culture_g_justification: "Pays culturel et historique majeur, extrêmement rentable par ses villes, œuvres, monuments, institutions, sciences, gastronomie et géographie."
 ---
-
 ![Image de Italie](https://upload.wikimedia.org/wikipedia/commons/1/1a/Bergwandeltocht_van_Peio_Paese_naar_Lago_Covel_%281%2C839_m%29_in_het_Nationaal_park_Stelvio_%28Italy%29_23.jpg)
 
 ![[Carte_Italie.png]]

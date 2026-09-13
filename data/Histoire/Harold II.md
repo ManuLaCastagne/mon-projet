@@ -18,8 +18,9 @@ indice_5 :
   - Guillaume le Conquérant
 indice_6 : 
   - Normandie
+culture_g_score: 59
+culture_g_justification: "Dernier roi anglo-saxon, Harold II est utile pour comprendre 1066 et Hastings, mais reste éclipsé par Guillaume le Conquérant."
 ---
-
 ![Image de Harold II](https://upload.wikimedia.org/wikipedia/commons/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg)
 
 ###### Questions

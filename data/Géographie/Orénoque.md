@@ -24,8 +24,9 @@ indice_6 :
   - Llanos
 questions:
  - Quel fleuve du Venezuela se jette dans l'Atlantique par un immense delta ?
+culture_g_score: 60
+culture_g_justification: "Grand fleuve sud-américain associé au Venezuela, à l’exploration et à l’Amazonie, avec plusieurs angles mais une fréquence modérée."
 ---
-
 ![Image de Orénoque](https://upload.wikimedia.org/wikipedia/commons/c/cb/Tierleben_am_mittleren_Orinoco%2C_Anton_Goering%2C_MuseumBurgPosterstein.jpg)
 
 ![[Carte_Orénoque.png]]

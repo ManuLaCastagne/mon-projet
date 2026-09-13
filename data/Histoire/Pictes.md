@@ -20,8 +20,9 @@ indice_6 :
   - Batailles contre les Scots
 questions:
  - Quel peuple celte de l'Ecosse ancienne doit son nom au mot latin signifiant hommes peints?
+culture_g_score: 51
+culture_g_justification: "Peuple important pour l’histoire ancienne de l’Écosse et des îles Britanniques, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Pictes](https://upload.wikimedia.org/wikipedia/commons/a/a6/Serpent_stone.JPG)
 
 ###### Questions

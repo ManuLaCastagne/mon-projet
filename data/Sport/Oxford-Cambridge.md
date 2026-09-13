@@ -20,8 +20,9 @@ indice_6 :
   - Rivalry
 questions:
  - Quelle célèbre compétition d'aviron entre deux équipes universitaires…
+culture_g_score: 80
+culture_g_justification: "Rivalité universitaire britannique ancienne et emblématique, exploitable en aviron, rugby, traditions universitaires et histoire anglaise."
 ---
-
 ![Image de Oxford-Cambridge](https://upload.wikimedia.org/wikipedia/commons/9/94/2002-oxbridge-boat-race.jpg)
 
 ###### Questions

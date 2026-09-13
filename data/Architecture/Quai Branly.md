@@ -22,8 +22,8 @@ indice_6:
   - tour Eiffel à proximité
 questions:
   - Quel musée parisien, dédié aux arts et civilisations d'Afrique, d'Asie...
-culture_g_score: 60
-culture_g_justification: Quai parisien surtout connu par le musée homonyme, dont l’identification précise apporte peu de connaissances indépendantes.
+culture_g_score: 32
+culture_g_justification: "Quai parisien surtout connu par le musée homonyme, dont l’identification précise apporte peu de connaissances indépendantes."
 ---
 ![Image de Quai Branly](https://upload.wikimedia.org/wikipedia/commons/b/ba/Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_%2810629%29.jpg)
 

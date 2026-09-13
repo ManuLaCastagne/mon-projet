@@ -22,8 +22,9 @@ indice_6 :
   - chansons de music-hall
 questions:
  - Après avoir fait carrière à Cinéma/Hollywood, quel artiste en 1968 et acteur français, fit ses adieux officiels à la scène ?
+culture_g_score: 71
+culture_g_justification: "Icône du music-hall et du cinéma français, utile pour des questions sur la chanson, Hollywood, les Oscars et la culture populaire."
 ---
-
 ![Image de Maurice Chevalier](https://upload.wikimedia.org/wikipedia/commons/1/13/Maurice_Chevalier_1959.JPG)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Parfum et décoratif dans les jardins
 questions:
  - Quel arbrisseau exotique doit son nom au fait que le parfum de ses fleurs blanches rappelle celui d'une crème pâtissière à l'amande?
+culture_g_score: 47
+culture_g_justification: "Fleur tropicale connue par les colliers hawaïens et son parfum, mais peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Frangipanier](https://upload.wikimedia.org/wikipedia/commons/a/aa/Plumeria_%28Frangipani%29_flowers.jpg)
 
 ###### Questions

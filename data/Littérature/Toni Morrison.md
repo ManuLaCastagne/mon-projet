@@ -22,8 +22,9 @@ indice_6 :
   - Auteur afro-américaine
 questions:
  - En 1993, quelle est la première femme noire a obtenir le Nobel de Littérature ?
+culture_g_score: 88
+culture_g_justification: "Prix Nobel et figure majeure de la littérature afro-américaine, associée à Beloved, à l'histoire de l'esclavage et aux questions de race et de mémoire."
 ---
-
 ![Image de Toni Morrison](https://upload.wikimedia.org/wikipedia/commons/3/3a/Toni_Morrison.jpg)
 
 ###### Questions

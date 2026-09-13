@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Italie
+culture_g_score: 53
+culture_g_justification: "Terme culinaire italien assez fréquent, mais correspondant à un angle essentiellement lexical et gastronomique."
 ---
 ###### Questions 
 

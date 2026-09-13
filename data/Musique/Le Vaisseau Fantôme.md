@@ -23,6 +23,7 @@ indice_6 :
 questions:
  - Dans quel opéra de Wagner, s'inspirant du mythe du "Hollandais volant", le capitaine d'un bateau est-il condamné à errer sans cesse sur les océans?
 culture_g_score: 68
+culture_g_justification: "Opéra important de Wagner fondé sur une légende célèbre, mais moins fréquemment mobilisé que ses œuvres les plus incontournables."
 ---
 ![Image de Le Vaisseau Fantôme](https://upload.wikimedia.org/wikipedia/commons/9/9e/Recueil._%22Le_vaisseau_fant%C3%B4me%22_de_Wagner_-_btv1b10509959n_%2820_of_22%29.jpg)
 

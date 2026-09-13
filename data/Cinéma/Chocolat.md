@@ -22,8 +22,9 @@ indice_6 :
   - Film inspiré de Roald Dahl
 questions:
  - En 2001, dans quel film de Lasse Hallstrom, Juliette Binoche joue-t-elle une femme ouvrant une confiserie dans une petite bourgade?
+culture_g_score: 56
+culture_g_justification: "Le film de Lasse Hallström est connu et permet des liens avec Binoche, Depp et la littérature, sans être une œuvre majeure."
 ---
-
 ![Image de Chocolat](https://upload.wikimedia.org/wikipedia/commons/5/5f/Pain_au_chocolat_Luc_Viatour.jpg)
 
 ###### Questions

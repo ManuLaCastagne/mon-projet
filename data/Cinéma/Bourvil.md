@@ -20,7 +20,8 @@ indice_5 :
   - années 1950-1960
 indice_6 : 
   - André Raimbourg
-culture_g_score: 84
+culture_g_score: 80
+culture_g_justification: "Acteur et humoriste français très reconnu, permettant des questions sur la comédie populaire, La Grande Vadrouille, Jean Gabin et Louis de Funès."
 ---
 ![Image de Bourvil](https://upload.wikimedia.org/wikipedia/commons/d/d1/Identite-Bourvil-1965-Sacem.jpg)
 

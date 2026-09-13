@@ -22,8 +22,9 @@ indice_6 :
   - Wayne's World
 questions:
  - En 2018, quel film de Bryan Singer, avec Rami Malek, retrace le destin du groupe Queen et de son chanteur emblématique, F.Mercury ?
+culture_g_score: 97
+culture_g_justification: "Chanson de Queen universellement célèbre, riche en questions sur Freddie Mercury, le rock, l’opéra, les classements et le cinéma."
 ---
-
 ![Image de Bohemian Rhapsody](https://upload.wikimedia.org/wikipedia/commons/b/bd/Bohemian_Rhapsody_by_Queen_US_vinyl_red_label.png)
 
 ###### Questions

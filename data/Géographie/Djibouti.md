@@ -22,8 +22,9 @@ indice_5 :
   - désert du Danakil
 indice_6 : 
   - bases militaires étrangères
+culture_g_score: 63
+culture_g_justification: "Petit État stratégique de la Corne de l’Afrique, utile pour la géographie, la colonisation, les bases militaires et la géopolitique maritime."
 ---
-
 ![Image de Djibouti](https://upload.wikimedia.org/wikipedia/commons/2/2a/Djibouti_City.jpg)
 
 ![[Carte_Djibouti.png]]

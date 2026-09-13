@@ -1,3 +1,8 @@
+---
+culture_g_score: 23
+culture_g_justification: "Film très récent et encore peu installé dans la mémoire collective, dont les occasions de questionnement restent rares."
+---
+
 ###### Description
 
 [[Le Répondeur]] est une comédie française réalisée par [[Fabienne Godet]], sortie en 2025 (durée : 102 minutes)  .

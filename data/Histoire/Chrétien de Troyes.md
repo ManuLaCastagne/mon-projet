@@ -20,8 +20,9 @@ indice_6 :
   - roman courtois
 questions:
  - A quel poète du XIIe siècle doit-on des romans de chevalerie tels que "Lancelot ou le Chevalier à la charrette" ou "Perceval ou le conte du Graal"?
+culture_g_score: 80
+culture_g_justification: "Auteur fondateur des récits arthuriens, fréquemment mobilisé pour la littérature médiévale, le roman courtois et les personnages de la Table ronde."
 ---
-
 ![Image de Chrétien de Troyes](https://upload.wikimedia.org/wikipedia/commons/c/c4/Chr%C3%A9tien_de_Troyes.jpg)
 
 ###### Questions

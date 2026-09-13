@@ -25,9 +25,9 @@ indice_6 :
   - Sud-est
 questions:
  - Celles de Clarensac et de Bouillargues. Située à 700 km au sud-est de Paris, j'abrite le centre d'art contemporain du Carré d'art et suis dominée par la tour Magne.
+culture_g_score: 80
+culture_g_justification: "Ville française fréquemment associée aux Arènes, à la Maison carrée, à la romanité et à l'origine du denim."
 ---
-
-
 ![Image de Nîmes](https://upload.wikimedia.org/wikipedia/commons/8/86/N%C3%AEmes_Olympique_1938-1939.jpg)
 
 ![[Carte_Nîmes.png]]

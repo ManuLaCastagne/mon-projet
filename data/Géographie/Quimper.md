@@ -24,8 +24,9 @@ indice_6 :
   - cathédrale Saint-Corentin
 questions:
  - Située à environ 15 km de la mer sur l'estuaire de l'Odet, je perpétue la tradition de la faïencerie dans le quartier de Locmaria.
+culture_g_score: 52
+culture_g_justification: "Ville bretonne connue pour sa cathédrale, sa faïence et Max Jacob, mais qui reste une réponse assez occasionnelle dans les quiz généralistes."
 ---
-
 ![Image de Quimper](https://upload.wikimedia.org/wikipedia/commons/9/9e/Odet_in_Quimper.jpg)
 
 ![[Carte_Quimper.png]]

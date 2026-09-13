@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Sept ans après avoir quitté la Terre, sur quel satellite de Saturne la sonde Huygens s'est-elle posée en janvier 2005 ?
  - Quel principal satellite naturel de Saturne est le seul satellite connu du système solaire à posséder une atmosphère ?
+culture_g_score: 80
+culture_g_justification: "Satellite exceptionnel et fréquemment questionné pour son atmosphère, ses lacs de méthane, Saturne et les missions Cassini-Huygens."
 ---
-
 ![Image de Titan (satellite)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Titan_poster.svg)
 
 ###### Questions

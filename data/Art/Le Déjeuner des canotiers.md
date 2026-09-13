@@ -23,8 +23,9 @@ indice_6 :
   - 1881
 questions:
  - En 1881, dans quel tableau Auguste Renoir a-t-il représenté des jeunes gens s'amusant...
+culture_g_score: 68
+culture_g_justification: "Tableau impressionniste majeur et reconnaissable, mais moins incontournable et moins transversal que les œuvres les plus célèbres de Renoir."
 ---
-
 ![Image de Le Déjeuner des canotiers](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg)
 
 ###### Questions

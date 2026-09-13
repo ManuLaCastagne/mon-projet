@@ -22,8 +22,9 @@ indice_6 :
   - Contact
 questions:
  - Lors de la présentation de "Taxi Driver" à Cannes, quelle actrice américaine, ex-élève dans un lycée français, répond en français aux journalistes ?
+culture_g_score: 80
+culture_g_justification: "Actrice, réalisatrice et ancienne enfant prodige, Jodie Foster est liée à plusieurs films majeurs et revient fréquemment dans les quiz."
 ---
-
 ![Image de Jodie Foster](https://upload.wikimedia.org/wikipedia/commons/b/b1/Jodie_Foster.4785.jpg)
 
 ###### Questions

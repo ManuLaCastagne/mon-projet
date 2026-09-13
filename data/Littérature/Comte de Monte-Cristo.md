@@ -22,9 +22,9 @@ indice_6 :
   - prisonnier injustement accusé
 questions:
  - Dans quel roman d'Alexandre Dumas, le héros Edmond Dantès veut-il venger ceux qui l'ont emprisonné ?
+culture_g_score: 100
+culture_g_justification: "Roman mondialement célèbre, particulièrement rentable grâce à Dumas, Edmond Dantès, le Château d’If, la vengeance et de nombreuses adaptations."
 ---
-
-
 ![Image de Comte de Monte-Cristo](https://upload.wikimedia.org/wikipedia/commons/1/16/Le_comte_de_Monte-Cristo_-_Jules_Rouff.jpg)
 
 ###### Questions

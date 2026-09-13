@@ -18,8 +18,9 @@ indice_5 :
   - Schick Dry Shaver Inc.
 indice_6 : 
   - 20e siècle
+culture_g_score: 40
+culture_g_justification: "Inventeur associé au rasoir électrique, Jacob Schick peut faire l’objet d’une question ponctuelle mais offre peu de rendement général."
 ---
-
 ![Image de Jacob Schick](https://upload.wikimedia.org/wikipedia/commons/e/ea/Funeral_monument_Jacob_Schick.jpg)
 
 ###### Questions

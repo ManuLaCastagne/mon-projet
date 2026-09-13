@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de malice et de ruse
 questions:
  - Aux pattes courtes munies de griffes acérées et recourbées, possédant des glandes sécrétrices pouvant dégager une odeur musquée, nous possédons une fourrure.
+culture_g_score: 55
+culture_g_justification: "Famille regroupant loutres, blaireaux, visons et gloutons, offrant plusieurs entrées zoologiques malgré une fréquence limitée sous ce terme."
 ---
-
 ![Image de Mustélidés](https://upload.wikimedia.org/wikipedia/commons/e/ef/Mustelidae_timetree_%28edited%29.jpg)
 
 ###### Questions

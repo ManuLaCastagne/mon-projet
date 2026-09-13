@@ -23,8 +23,9 @@ indice_6 :
   - symbolisme technologique
 questions:
  - Composition picturale de Raoul Dufy,  formée de 250 panneaux en contreplaqué...
+culture_g_score: 32
+culture_g_justification: "Œuvre monumentale intéressante pour Dufy et l’Exposition de 1937, mais trop spécialisée pour une priorité élevée."
 ---
-
 ![Image de La Fée électricité](https://upload.wikimedia.org/wikipedia/commons/9/92/Paris_16e_Palais_de_Tokyo_Mus%C3%A9e_d%E2%80%99Art_moderne_de_Paris_La_F%C3%A9e_%C3%89lectricit%C3%A9_066.jpg)
 
 ###### Questions

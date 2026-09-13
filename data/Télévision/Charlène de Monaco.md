@@ -20,8 +20,9 @@ indice_5 :
   - jumelles Gabriella et Jacques
 indice_6 : 
   - grandir en Afrique du Sud
+culture_g_score: 64
+culture_g_justification: "Personnalité princière et ancienne sportive olympique, permettant des questions croisées, mais sans fréquence exceptionnelle."
 ---
-
 ![Image de Charlène de Monaco](https://upload.wikimedia.org/wikipedia/commons/0/08/Charlene%2C_Princess_of_Monaco-3.jpg)
 
 ###### Questions

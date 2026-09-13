@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Latin
+culture_g_score: 80
+culture_g_justification: "Organe central de la grossesse, fréquemment interrogé en biologie, reproduction, médecine et évolution des mammifères."
 ---
 ###### Questions 
 

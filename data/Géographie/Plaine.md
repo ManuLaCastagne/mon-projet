@@ -22,8 +22,9 @@ indice_6 :
   - vaste horizon
 questions:
  - Type de relief dont le mot d'origine serbo-croate "poljé" désigne une des formes, je résulte de processus d'érosion et de phénomènes d'accumulation. Représenté par la Jeffara entre la Tunisie et la Libye, et par la pampa en Argentine, j'abrite des sols fertiles...
+culture_g_score: 63
+culture_g_justification: "Notion géographique transversale pouvant renvoyer à plusieurs grandes régions, mais trop générale pour être une réponse très distinctive."
 ---
-
 ![Image de Plaine](https://upload.wikimedia.org/wikipedia/commons/0/0b/VuePlaine.JPG)
 
 ![[Carte_Plaine.png]]

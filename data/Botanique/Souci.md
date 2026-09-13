@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé en cosmétique et médecine naturelle
 questions:
  - De quelle plante printanière, également appelé calendula, les fleurs ont-elles la particularité de se fermer la nuit ?
+culture_g_score: 48
+culture_g_justification: "Plante médicinale et ornementale assez connue, susceptible d’apparaître ponctuellement dans des questions de botanique ou de santé."
 ---
-
 ![Image de Souci](https://upload.wikimedia.org/wikipedia/commons/5/58/Sans_souci_rose.jpg)
 
 ###### Questions

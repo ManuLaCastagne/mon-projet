@@ -20,8 +20,9 @@ indice_6 :
   - Curie diocésaine
 questions:
  - Le Code de droit canonique comme étant une portion du peuple de Dieu. Regroupé en provinces ecclésiastiques, je peux être associé...
+culture_g_score: 52
+culture_g_justification: "Terme institutionnel courant dans l’histoire religieuse, mais peu souvent réponse centrale d’un quiz généraliste."
 ---
-
 ![Image de Diocèse](https://upload.wikimedia.org/wikipedia/commons/e/e8/Dioc%C3%A8se_Ypres_1789.svg)
 
 ###### Questions

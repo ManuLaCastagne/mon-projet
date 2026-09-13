@@ -20,8 +20,9 @@ indice_6 :
   - 1743-1803
 questions:
  - Esclave affranchi, je rejoins en 1791 la Révolte des Noirs de Saint-Domingue avant de devenir gouverneur général à vie de...
+culture_g_score: 84
+culture_g_justification: "Figure centrale de la révolution haïtienne et de l’abolition de l’esclavage, à la croisée des histoires française, caribéenne et impériale."
 ---
-
 ![Image de Toussaint Louverture](https://upload.wikimedia.org/wikipedia/commons/3/32/G%C3%A9n%C3%A9ral_Toussaint_Louverture.jpg)
 
 ###### Questions

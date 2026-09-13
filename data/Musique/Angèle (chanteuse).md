@@ -20,8 +20,9 @@ indice_5:
   - pop francophone
 indice_6:
   - Flou
+culture_g_score: 72
+culture_g_justification: "Angèle est une référence majeure de la pop francophone récente, régulièrement associée à Brol, ses tubes et sa famille artistique."
 ---
-
 ![Image de Angèle (chanteuse)](https://upload.wikimedia.org/wikipedia/commons/9/97/Festival_des_Vieilles_Charrues_2018_-_Ang%C3%A8le_-_011.jpg)
 
 ###### Questions

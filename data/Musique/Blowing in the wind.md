@@ -22,8 +22,9 @@ indice_6 :
   - pacifisme
 questions:
  - Chanson enregistrée en anglais le 8 juillet 1962 par un artiste de 21 ans,  je suis constituée de 3 strophes de 8 vers. Célèbre plaidoyer folk pour la paix, je pose une série de questions dont la réponse constitue le refrain.
+culture_g_score: 84
+culture_g_justification: "Chanson emblématique de Bob Dylan, liée à la musique folk, aux droits civiques, aux reprises et à la contestation."
 ---
-
 ![Image de Blowing in the wind](https://upload.wikimedia.org/wikipedia/commons/5/56/The_flag_of_Spain_blowing_in_the_wind_-_Holmstad.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - redessine les frontières européennes
 questions:
  - Quel traité signé le 28 juin 1919 dans la galerie des Glaces. A mis fin à la 1re Guerre mondiale ?
+culture_g_score: 97
+culture_g_justification: "Traité incontournable de l’après-Première Guerre mondiale, lié aux réparations, à l’Allemagne, à la Société des Nations et aux tensions futures."
 ---
-
-
 ![Image de Traité de Versailles](https://upload.wikimedia.org/wikipedia/commons/b/b8/Treaty_of_Versailles%2C_English_version.jpg)
 
 ###### Questions

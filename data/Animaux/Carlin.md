@@ -15,10 +15,9 @@ indice_6 :
   - Chien de compagnie aristocratique
 questions:
  - Chien parfois appelé pug, un de mes représentants joue le rôle de Frank dans la série de films "Men in Black".
+culture_g_score: 64
+culture_g_justification: "Chien populaire associé à la Chine, à Joséphine et à la comédie, mais d’importance culturelle intermédiaire."
 ---
-
-
-
 ![Image de Carlin](https://upload.wikimedia.org/wikipedia/commons/6/66/Carlin%2C_NV-750px.JPG)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - art du non-verbal
 questions:
  - Quelle célèbre mime, né à Strasbourg en 1923...
+culture_g_score: 68
+culture_g_justification: "Mime Marceau est une figure mondiale du mime, associée à Bip, à la Résistance et au spectacle, avec plusieurs angles de quiz distincts."
 ---
-
 ![Image de Mime Marceau](https://upload.wikimedia.org/wikipedia/commons/4/4e/Marcel_Marceau_%28cropped%29.jpg)
 
 ###### Questions

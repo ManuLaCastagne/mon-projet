@@ -18,8 +18,9 @@ indice_5 :
   - j'y reste
 indice_6 : 
   - maréchal de France
+culture_g_score: 59
+culture_g_justification: "Mac Mahon est utile pour la Troisième République et quelques anecdotes politiques, sans constituer une figure historique prioritaire."
 ---
-
 ![Image de Mac Mahon](https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_mar%C3%A9chal_de_Mac_Mahon%2C_duc_de_Magenta_%E2%80%93_unframed.jpg)
 
 ###### Questions

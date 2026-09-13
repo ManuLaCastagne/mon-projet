@@ -19,8 +19,9 @@ indice_6 :
   - Atlas géographique
 questions:
  - Quel géant de la [[mythologie grecque]] est condamné  par Zeus à soutenir sur ses épaules la voûte du ciel ?
+culture_g_score: 92
+culture_g_justification: "Titan universellement reconnaissable par son supplice, régulièrement mobilisé en mythologie, en astronomie et dans le vocabulaire culturel."
 ---
-
 ![Image de Atlas](https://upload.wikimedia.org/wikipedia/commons/6/6f/OrteliusWorldMap.jpeg)
 
 ###### Questions

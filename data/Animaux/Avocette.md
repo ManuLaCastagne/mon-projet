@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de protection des zones humides
 questions:
  - Quel est cet échassier des lacs salins peu profonds, des estuaires et des lagunes, que l'on qualifie d'élégant pour son plumage et sa démarche gracieuse?
+culture_g_score: 40
+culture_g_justification: "Échassier reconnaissable mais spécialisé, principalement mobilisé dans des questions sur les oiseaux et les zones humides."
 ---
-
 ![Image de Avocette](https://upload.wikimedia.org/wikipedia/commons/3/30/Recurvirostra_avosetta_MHNT.JPG)
 
 ###### Questions

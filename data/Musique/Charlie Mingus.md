@@ -22,8 +22,9 @@ indice_6 :
   - Mingus Ah Um
 questions:
  - A quel contrebassiste et compositeur de jazz doit-on les albums "Pithecanthropus erectus" en 1956 et "Fables of Faubus" en 60?
+culture_g_score: 67
+culture_g_justification: "Compositeur et contrebassiste majeur du jazz, riche en angles artistiques et historiques, mais moins connu du grand public que Parker ou Armstrong."
 ---
-
 ![Image de Charlie Mingus](https://upload.wikimedia.org/wikipedia/commons/0/0a/Charles_Mingus_1976.jpg)
 
 ###### Questions

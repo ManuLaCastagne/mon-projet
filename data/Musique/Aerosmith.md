@@ -18,9 +18,9 @@ indice_5 :
   - Toxic Twin Towers
 indice_6 : 
   - Rock 'n' Roller Coaster
+culture_g_score: 80
+culture_g_justification: "Aerosmith est un grand classique du rock, fréquemment mobilisé à travers ses tubes, ses albums, ses membres et le cinéma."
 ---
-
-
 ![Image de Aerosmith](https://upload.wikimedia.org/wikipedia/commons/a/a4/Aerosmith_B.jpg)
 
 ###### Questions

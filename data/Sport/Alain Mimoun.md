@@ -20,8 +20,9 @@ indice_6 :
   - Kenneth McArthur
 questions:
  - Quel champion olympique du marathon en 1956, disparu en...
+culture_g_score: 64
+culture_g_justification: "Champion olympique français emblématique, exploitable en athlétisme, en histoire du sport et dans les questions sur Zatopek."
 ---
-
 ![Image de Alain Mimoun](https://upload.wikimedia.org/wikipedia/commons/b/bc/Alain_Mimoun.jpg)
 
 ###### Questions

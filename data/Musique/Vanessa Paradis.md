@@ -22,8 +22,9 @@ indice_6 :
   - Prix de la Victoire de la musique
 questions:
  - En 2014, quelle actrice et chanteuse présentant les dents du bonheur donne la réplique à John Turtoureau dans "Apprenti Gigolo" ?
+culture_g_score: 76
+culture_g_justification: "Chanteuse liée à Joe le taxi, au cinéma, à Lenny Kravitz et à la chanson française contemporaine."
 ---
-
 ![Image de Vanessa Paradis](https://upload.wikimedia.org/wikipedia/commons/7/70/Vanessa_Paradis_C%C3%A9sar_2018.jpg)
 
 ###### Questions

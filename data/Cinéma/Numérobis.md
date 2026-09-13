@@ -22,8 +22,9 @@ indice_6 :
   - César
 questions:
  - Dans l'album "Astérix et Cléopâtre", quel architecte la reine d'Egypte charge-t-elle de construire un palais?
+culture_g_score: 68
+culture_g_justification: "Personnage immédiatement associé à un grand succès populaire français, Astérix et Jamel Debbouze, ce qui le rend fréquent dans les quiz francophones."
 ---
-
 ![Image de Numérobis](https://upload.wikimedia.org/wikipedia/commons/8/8b/Tour_de_numerobis.jpg)
 
 ###### Questions

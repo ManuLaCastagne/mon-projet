@@ -21,8 +21,9 @@ indice_5 :
   - Musée des Offices
 indice_6 : 
   - 1538
+culture_g_score: 68
+culture_g_justification: "La Vénus d’Urbino est un tableau majeur de Titien, important pour la Renaissance, le nu féminin et l’influence sur Manet."
 ---
-
 ![Image de La Vénus d'Urbino](https://upload.wikimedia.org/wikipedia/commons/c/c3/Venus_of_Urbino_-_details.jpg)
 
 ###### Questions

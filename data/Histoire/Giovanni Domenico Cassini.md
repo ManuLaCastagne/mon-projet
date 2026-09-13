@@ -20,10 +20,9 @@ indice_6 :
   - mesure de la distance Terre-Soleil
 questions:
  - Quel astronome et géographe, né en 1714 au château de Fillerval, à Thury, a été chargé d'établir la plus grande carte de France de son époque?
+culture_g_score: 80
+culture_g_justification: "Astronome classique des quiz scientifiques, associé à Saturne, à ses satellites, à sa division des anneaux et à l’Observatoire de Paris."
 ---
-
-
-
 ![Image de Giovanni Domenico Cassini](https://upload.wikimedia.org/wikipedia/commons/d/d6/Giovanni_Cassini.jpg)
 
 ###### Questions

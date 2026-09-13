@@ -22,8 +22,9 @@ indice_6 :
   - Disneyland
 questions:
  - Personnage de dessin animé,  j'apparais dès 1928 avec une fleur à mon chapeau, une guitare et des partitions dans le court-métrage d'animation "Steamboat Willie". Héroïne de Walt Disney, régulièrement kidnappée par le bandit Pat Hibulaire...
+culture_g_score: 84
+culture_g_justification: "Personnage Disney universellement reconnaissable, exploitable sur l’animation, Walt Disney, Mickey et l’histoire de la culture populaire."
 ---
-
 ![Image de Minnie](https://upload.wikimedia.org/wikipedia/commons/6/65/Mickey_Mouse_and_Minnie_Mouse_in_Wild_Waves_%281929%29.jpg)
 
 ###### Questions

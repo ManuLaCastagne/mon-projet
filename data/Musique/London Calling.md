@@ -22,8 +22,9 @@ indice_6 :
   - capitale britannique
 questions:
  - Chanson des Clash dont le titre renvoie à la formule de la BBC durant la Seconde Guerre mondiale, je suis…
+culture_g_score: 80
+culture_g_justification: "Album et chanson emblématiques des Clash, fréquemment reliés au punk, au rock britannique, à Londres et à l'histoire de la musique."
 ---
-
 ![Image de London Calling](https://upload.wikimedia.org/wikipedia/commons/f/fd/Mus%C3%A9e_de_Londres_London_Calling.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - a inspiré le courant orientaliste en France
 questions:
  - En 1924, quelle exploratrice et écrivaine française est la 1re Européenne à pénétrer à Lhassa?
+culture_g_score: 64
+culture_g_justification: "Exploratrice, écrivaine et orientaliste associée à Lhassa, elle offre des angles géographiques, féminins et littéraires assez rentables."
 ---
-
 ![Image de Alexandra David-Neel](https://upload.wikimedia.org/wikipedia/commons/8/8c/Alexandra_David-Neels.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - Jeux olympiques
 indice_6:
   - montagne de Krasnaya Polyana
+culture_g_score: 80
+culture_g_justification: "Jeux d’hiver très médiatisés, exploitables par leur coût, leur contexte russe, leurs controverses et l’introduction de nouvelles épreuves."
 ---
-
 ![Image de Sotchi 2014](https://upload.wikimedia.org/wikipedia/commons/9/9c/Stamps_of_Russia_2012_No_1559-61_Mascots_2014_Winter_Olympics.jpg)
 
 ###### Questions

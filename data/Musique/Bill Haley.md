@@ -22,9 +22,9 @@ indice_6 :
   - Rattle and Roll
 questions:
  - Quel chanteur américain enregistre en 1954 "Rock around the clock" avec son groupe His Comets…
+culture_g_score: 80
+culture_g_justification: "Pionnier incontournable du rock and roll, fréquemment associé à Rock Around the Clock, aux Comets et au rockabilly."
 ---
-
-
 ![Image de Bill Haley](https://upload.wikimedia.org/wikipedia/commons/d/df/Bill_Haley_%281974%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Mère de la démocratie philippine
 questions:
  - En 1986, quelle femme politique vient d'accéder à la présidence des Philippines ?
+culture_g_score: 64
+culture_g_justification: "Présidente associée à la révolution démocratique philippine de 1986, importante historiquement mais moins fréquente dans les quiz francophones."
 ---
-
 ![Image de Cory Aquino](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cory_Aquino_funeral.jpg)
 
 ###### Questions

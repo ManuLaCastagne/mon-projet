@@ -22,9 +22,9 @@ indice_6 :
   - dodécaphonisme
 questions:
  - Quel adjectif, forgé par René Leibovitz, qualifie la musique de Schoenberg, dont les règles de composition...
+culture_g_score: 64
+culture_g_justification: "Notion classique de la musique contemporaine associée à Schoenberg et à la Seconde École de Vienne, mais assez spécialisée."
 ---
-
-
 ![Image de Dodécaphonique](https://upload.wikimedia.org/wikipedia/commons/9/9f/Variations_for_orchestra_theme_cowell.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - innovation marketing
 questions:
  - En 1852, à quel négociant français doit-on le 1er grand magasin parisien?
+culture_g_score: 48
+culture_g_justification: "Fondateur du Bon Marché et pionnier du grand magasin, Boucicaut est pertinent pour l’histoire du commerce mais reste une référence secondaire."
 ---
-
 ![Image de Aristide Boucicaut](https://upload.wikimedia.org/wikipedia/commons/5/50/Aristide_Boucicaut.jpg)
 
 ###### Questions

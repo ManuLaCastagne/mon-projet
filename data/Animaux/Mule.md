@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de travail acharné
 questions:
  - Quel hybride femelle de l'âne et de la jument…
+culture_g_score: 68
+culture_g_justification: "Hybride animal classique, important dans l’histoire des transports et de l’agriculture, avec plusieurs questions possibles sur la stérilité."
 ---
-
 ![Image de Mule](https://upload.wikimedia.org/wikipedia/commons/1/11/Rayon_mules.jpg)
 
 ###### Questions

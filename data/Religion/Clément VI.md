@@ -18,8 +18,9 @@ indice_5 :
   - Papal Palace
 indice_6 : 
   - Western Schism
+culture_g_score: 47
+culture_g_justification: "Pape intéressant pour Avignon et la peste noire, mais rarement retenu hors des questions spécialisées sur le XIVe siècle."
 ---
-
 ![Image de Clément VI](https://upload.wikimedia.org/wikipedia/commons/4/4a/01_Cl%C3%A9ment_VI_%28Fresque_de_la_chapelle_Saint-Martial_du_palais_des_papes%29.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5:
   - Cross-country
 indice_6:
   - Pentathlon moderne
+culture_g_score: 69
+culture_g_justification: "Le pentathlon moderne est une discipline olympique classique, surtout rentable pour ses épreuves et son lien avec Coubertin."
 ---
-
 ![Image de Pentathlon](https://upload.wikimedia.org/wikipedia/commons/2/28/Modern_pentathlon_pictogram_%28post-2025%29.svg)
 
 ###### Questions

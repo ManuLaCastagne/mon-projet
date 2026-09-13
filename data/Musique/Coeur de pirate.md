@@ -22,8 +22,9 @@ indice_6 :
   - Blonde
 questions:
  - Chanteuse née en 1989 et ayant débuté en me produisant avec le groupe Bonjour Brumaire, j'ai été en 2020 coach dans la version québécoise de "The Voice".
+culture_g_score: 53
+culture_g_justification: "Artiste québécoise connue dans la francophonie grâce à quelques succès, mais offrant peu d’angles indépendants en culture générale."
 ---
-
 ![Image de Coeur de pirate](https://upload.wikimedia.org/wikipedia/commons/8/8f/Coeur_de_pirate_Cannes_2016.jpg)
 
 ###### Questions

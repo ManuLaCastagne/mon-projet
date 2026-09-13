@@ -20,8 +20,9 @@ indice_6:
   - Daisy Duke
 questions:
   - Quelle série télé, créée en 1979 aux Etats-Unis, met en scène les cousins Luke Bo Duke, aux prises avec le shérif Rosco…
+culture_g_score: 64
+culture_g_justification: "Série américaine populaire et reconnaissable par ses personnages, ses voitures et son univers, sans être un incontournable absolu."
 ---
-
 ![Image de Shérif, fais-moi peur](https://upload.wikimedia.org/wikipedia/commons/7/7a/Dukes_of_Hazzard_cast_%281979_CBS_Press_photo%29.jpg)
 
 ###### Questions

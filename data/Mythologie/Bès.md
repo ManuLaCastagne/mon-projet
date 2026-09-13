@@ -18,9 +18,9 @@ indice_6 :
   - naissance
 questions:
  - Dans l'Egypte ancienne, quel nom porte le nain barbu et grotesque dont la bonne humeur détourne les mauvais génies et les sorts des magiciens?
+culture_g_score: 60
+culture_g_justification: "Divinité égyptienne protectrice des foyers et des enfants, reconnaissable par son apparence naine et grotesque."
 ---
-
-
 ![Image de Bès](https://upload.wikimedia.org/wikipedia/commons/7/72/Bes-IMG_6306-black.jpg)
 
 ###### Questions

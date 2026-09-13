@@ -16,6 +16,7 @@ indice_6 :
 questions:
  - Devant mon nom au fait qu e  les belles Vénitiennes m'utilisaient pour rendre leurs yeux brillants.  Mes surnoms évoquent  ma toxicité.  "L'herbe au diable", "l'empoisonneuse", "la cerise empoisonnée" !
 culture_g_score: 64
+culture_g_justification: "Plante toxique célèbre, liée à la médecine, à l’histoire et à l’étymologie de son nom, avec une présence régulière mais non incontournable."
 ---
 ![Image de Belladone](https://upload.wikimedia.org/wikipedia/commons/8/83/EB1911_Nightshade_-_Deadly_Nightshade.jpg)
 

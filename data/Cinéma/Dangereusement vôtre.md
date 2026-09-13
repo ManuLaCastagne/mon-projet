@@ -22,8 +22,9 @@ indice_6 :
   - 1985
 questions:
  - Film de John Glen sorti en 1985.  Je raconte comment un milliardaire veut détruire la Silicon Valley pour avoir le monopole des puces électroniques. Je reste associé à la poursuite sur la Histoire/Tour Eiffel...
+culture_g_score: 73
+culture_g_justification: "Épisode très identifiable de James Bond, utile pour Roger Moore, Duran Duran, Christopher Walken et l'histoire de la franchise."
 ---
-
 ![Image de Dangereusement vôtre](https://upload.wikimedia.org/wikipedia/commons/1/1d/A_view_to_a_kill_game.svg)
 
 ###### Questions

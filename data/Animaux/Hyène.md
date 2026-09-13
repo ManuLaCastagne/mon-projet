@@ -15,8 +15,9 @@ indice_6 :
   - Symbolisme de malice et de trahison
 questions:
  - Mammifère pouvant être dit rayée, brune ou tachetée, je suis pourvu d'un épais pelage gris ou fauve, souvent ébouriffé, avec une sorte de crinière dorsale.  Devant à mon arrière-train surbaissé ma démarche boiteuse...
+culture_g_score: 76
+culture_g_justification: "Animal très présent dans l'imaginaire collectif, avec des questions récurrentes sur son rire, sa hiérarchie et ses stratégies de chasse."
 ---
-
 ![Image de Hyène](https://upload.wikimedia.org/wikipedia/commons/6/6b/Grotte_Hy%C3%A8ne_Niamey.jpg)
 
 ###### Questions

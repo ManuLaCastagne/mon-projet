@@ -20,8 +20,9 @@ indice_6 :
   - crimes
 questions:
  - Dans quelle série, diffusée sur France 3, Yannick Bisson joue-t-il un inspecteur, prénommé William, qui travaille pour la police de Toronto...
+culture_g_score: 27
+culture_g_justification: "Série policière canadienne connue des amateurs de télévision, mais trop récente et spécialisée pour être une priorité généraliste."
 ---
-
 ![Image de Les Enquêtes de Murdoch](https://upload.wikimedia.org/wikipedia/commons/7/7d/Murdoch_Mysteries_filming_in_Thorold_5.jpg)
 
 ###### Questions

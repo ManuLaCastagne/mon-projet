@@ -27,8 +27,10 @@ indice_6 :
   - grès nubien
 questions:
  - Près de quelle ville d'Egypte se trouve le plus grand barrage du Nil ?
-culture_g_score: 80
+culture_g_score: 64
+culture_g_justification: "Ville égyptienne liée au Nil, au barrage, au lac Nasser et aux temples sauvés par l’UNESCO, avec une bonne importance patrimoniale."
 ---
+
 ![Image de Assouan](https://upload.wikimedia.org/wikipedia/commons/3/3f/Panoramic_view_of_Aswan_2%2C_Egypt.jpg)
 
 ![[Carte_Assouan.png]]
@@ -36,7 +38,7 @@ culture_g_score: 80
 
 Quel barrage majeur sur le [[Nil]], terminé en 1970, est situé à [[Assouan]] ?
 
-Dans quelle ville égyptienne trouve-t-on l'une des plus grandes carrières de granit, célèbre pour son [[Obélisque inachevé]] vieux de plusieurs siècles ?
+Dans quelle ville égyptienne trouve-t-on l'une des plus grandes carrières de granit, célèbre pour son [[Obélisque inachevé]] vieux de plusieurs siècles ? <!-- score: 3 -->
 
 Quelle ville est située à l'extrémité nord du [[lac Nasser]], un immense lac artificiel créé par la construction du [[haut barrage d'Assouan]] ?
 

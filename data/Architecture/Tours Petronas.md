@@ -23,6 +23,8 @@ indice_6:
   - symbole de modernité
 questions:
   - Nous sommes reliées par une passerelle vitrée entre les 41e et 42e étages.  Edifices jumeaux d'environ 452 m de haut, dominant la capitale de la Malaisie, Kuala Lumpur, nous sommes…
+culture_g_score: 84
+culture_g_justification: "Gratte-ciel jumeaux mondialement célèbres, fréquemment liés à Kuala Lumpur, aux records de hauteur, à la Malaisie et à l’architecture moderne."
 ---
 Question : Nous sommes reliées par une passerelle vitrée entre les 41e et 42e étages.  [[Edifices]] jumeaux d'environ 452 m de haut, dominant la capitale de la [[Malaisie]], [[Kuala Lumpur]], nous sommes…
 

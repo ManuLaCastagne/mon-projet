@@ -19,8 +19,9 @@ indice_6:
   - Survie politique sous différentes régimes
 questions:
   - En 1810, quel ministre de la Police fut disgrâcié pour avoir parlé avec la Grande-Bretagne ?
+culture_g_score: 67
+culture_g_justification: "Fouché constitue une figure intéressante de la Révolution, de la Terreur, de l’Empire et de la police politique, mais reste moins connu du grand public."
 ---
-
 ![Image de Joseph Fouché](https://upload.wikimedia.org/wikipedia/commons/d/dd/Joseph_Fouch%C3%A9_duc_d%27Otrante.jpg)
 
 ###### Questions

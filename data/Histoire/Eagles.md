@@ -20,8 +20,9 @@ indice_6 :
   - Don Henley
 questions:
  - L'année de l'accession au pouvoir de Jimmy Carter, quel groupe américain connaît le succès avec sa chanson "Hotel California"?
+culture_g_score: 80
+culture_g_justification: "Groupe majeur du rock américain, régulièrement interrogé par ses chansons, ses membres, ses records et l’histoire de la musique populaire."
 ---
-
 ![Image de Eagles](https://upload.wikimedia.org/wikipedia/commons/3/34/Kaiseradler_Aquila_heliaca_2_amk.jpg)
 
 ###### Questions

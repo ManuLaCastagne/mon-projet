@@ -20,8 +20,9 @@ indice_6 :
   - Auteure des Mémoires
 questions:
  - En 1527, quelle soeur du roi de France épouse Henri d'Albret, roi de Navarre ?
+culture_g_score: 80
+culture_g_justification: "La Reine Margot permet d’aborder les guerres de Religion, la Saint-Barthélemy, les Valois et Henri IV."
 ---
-
 ![Image de Marguerite de Valois](https://upload.wikimedia.org/wikipedia/commons/5/57/Marguerite_de_Valois_vers_1574.jpg)
 
 ###### Questions

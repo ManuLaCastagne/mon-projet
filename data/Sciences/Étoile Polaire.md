@@ -20,9 +20,9 @@ indice_6 :
   - Constellation
 questions:
  - Quelle étoile, la plus brillante de la constellation de la Petite ourse, permet de trouver le nord?
+culture_g_score: 84
+culture_g_justification: "Astre emblématique de la navigation et de l’astronomie, associé au pôle Nord céleste, à Polaris et à la Petite Ourse."
 ---
-
-
 ![Image de Étoile Polaire](https://upload.wikimedia.org/wikipedia/commons/f/f5/PolyarnayaZvezda1888-1970Copenhagen.jpg)
 
 ###### Questions

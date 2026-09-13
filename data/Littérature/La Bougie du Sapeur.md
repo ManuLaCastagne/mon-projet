@@ -22,8 +22,9 @@ indice_6 :
   - exceptionnel numéro supplémentaire le 31 février 2020
 questions:
  - Quel journal fondé en 1980…
+culture_g_score: 61
+culture_g_justification: "Son rythme de publication exceptionnel en fait une question-piège assez classique, malgré une portée culturelle limitée."
 ---
-
 ![Image de La Bougie du Sapeur](https://upload.wikimedia.org/wikipedia/commons/b/bf/La_bougie_du_sapeur.png)
 
 ###### Questions

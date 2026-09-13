@@ -21,8 +21,9 @@ indice_5:
   - Cotonou
 indice_6:
   - Royaume d'Abomey
+culture_g_score: 60
+culture_g_justification: "Le Bénin est un pays d’Afrique de l’Ouest assez rentable grâce au Dahomey, au vaudou, à Abomey et à son histoire coloniale."
 ---
-
 ![Image de Bénin](https://upload.wikimedia.org/wikipedia/commons/e/e5/Petrol_station_in_B%C3%A9nin.jpg)
 
 ![[Carte_Bénin.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - fandoms internationaux
 questions:
  - Genre musical apparu dans les années 90, je suis notamment représenté par le groupe Seo Taiji et Boys. Entraînant la présence massive d'adolescents lors d'auditions...
+culture_g_score: 80
+culture_g_justification: "Phénomène culturel mondial permettant des questions sur la Corée du Sud, l’industrie musicale, BTS, les groupes et la mondialisation culturelle."
 ---
-
 ![Image de K-pop](https://upload.wikimedia.org/wikipedia/commons/c/c1/K-pop_articles_barnstar.jpg)
 
 ###### Questions

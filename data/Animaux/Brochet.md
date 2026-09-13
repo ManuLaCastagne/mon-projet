@@ -13,8 +13,9 @@ indice_5:
   - Grand Brochet
 indice_6:
   - Symbole de la persévérance dans certaines cultures nord-américaines
+culture_g_score: 60
+culture_g_justification: "Poisson d’eau douce classique des questions de zoologie, de pêche et de gastronomie, sans portée exceptionnelle."
 ---
-
 ![Image de Brochet](https://upload.wikimedia.org/wikipedia/commons/e/e4/LL-Q150_%28fra%29-WikiLucas00-brochet.wav)
 
 ###### Questions

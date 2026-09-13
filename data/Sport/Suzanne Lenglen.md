@@ -20,8 +20,9 @@ indice_6 :
   - Championne française
 questions:
  - Entre 1920 et 1926, quelle joueuse de tennis surnomée "La Divine" a donné son nom aux courts de Roland-Garros ?
+culture_g_score: 72
+culture_g_justification: "Grande pionnière du tennis féminin, à la croisée du sport, de la mode et de l’histoire du tennis."
 ---
-
 ![Image de Suzanne Lenglen](https://upload.wikimedia.org/wikipedia/commons/5/5f/Suzanne_Lenglen_02.jpg)
 
 ###### Questions

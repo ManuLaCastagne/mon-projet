@@ -20,8 +20,9 @@ indice_6 :
   - étudiant à l'École Normale Supérieure
 questions:
  - En 1928, quel député communiste devient rédacteur en chef du journal "L'Humanité"?
+culture_g_score: 32
+culture_g_justification: "Personnalité de la gauche communiste française relativement spécialisée, malgré ses liens avec L’Humanité et l’histoire politique."
 ---
-
 ![Image de Paul Vaillant-Couturier](https://upload.wikimedia.org/wikipedia/commons/3/3f/Paul_Vaillant-Couturier_1921.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Documentary
 questions:
  - Film réalisé à Sport/Cuba par Wim Wenders autour d'anciennes gloires de la musique cubaine des années 1930 à 1950, très beau film documentaire qui a eu un grand succès…
+culture_g_score: 80
+culture_g_justification: "Sujet transversal reliant le documentaire, Wim Wenders, Ry Cooder, la musique cubaine et plusieurs musiciens devenus des références."
 ---
-
 ![Image de Buena Vista Social Club](https://upload.wikimedia.org/wikipedia/commons/2/21/FIL_2012_-_Orquesta_Buena_Vista_Social_Club_2.JPG)
 
 ###### Questions

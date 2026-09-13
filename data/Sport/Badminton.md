@@ -20,8 +20,9 @@ indice_6 :
   - Service
 questions:
  - Sur 6,10 m, généralement couvert. Nécessitant rapidité et résistance pour pouvoir alterner des accélérations et des déplacements en pas chassé, je fais exécuter des services, des lobs et des smashes...
+culture_g_score: 64
+culture_g_justification: "Sport olympique et populaire, le badminton revient régulièrement dans les quiz mais offre moins d'angles que les sports les plus centraux."
 ---
-
 ![Image de Badminton](https://upload.wikimedia.org/wikipedia/commons/0/04/Fence_12%2C_Badminton_Horse_Trials_-_geograph.org.uk_-_794809.jpg)
 
 ###### Questions

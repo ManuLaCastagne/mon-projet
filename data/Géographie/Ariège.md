@@ -22,8 +22,9 @@ indice_5 :
   - Grotte de Niaux
 indice_6 : 
   - Saint-Girons
+culture_g_score: 40
+culture_g_justification: "Département pyrénéen intéressant pour la préhistoire et la montagne, mais rarement nécessaire en dehors de questions régionales."
 ---
-
 ![[Carte_Ariège.png]]
 
 ###### Questions

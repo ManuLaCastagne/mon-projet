@@ -22,8 +22,9 @@ indice_6 :
   - présence dans comédies et drames
 questions:
  - Quel acteur incarne Raoul ?
+culture_g_score: 80
+culture_g_justification: "Grand second rôle du cinéma français, associé à de nombreux classiques dont Les Tontons flingueurs et à une carrière très longue."
 ---
-
 ![Image de Bernard Blier](https://upload.wikimedia.org/wikipedia/commons/d/dd/Bernard_Blier_in_Amici_miei.jpg)
 
 ###### Questions

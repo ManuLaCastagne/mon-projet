@@ -22,6 +22,8 @@ indice_5 :
   - Émir
 indice_6 : 
   - Guerre du Golfe
+culture_g_score: 68
+culture_g_justification: "État pétrolier du Golfe marqué par l’invasion irakienne et une histoire politique notable, le Koweït est une connaissance géopolitique classique."
 ---
 
 ![Image de Koweït](https://upload.wikimedia.org/wikipedia/commons/4/41/KWT_orthographic.svg)
@@ -29,7 +31,7 @@ indice_6 :
 ![[Carte_Koweït.png]]
 ###### Questions
 
-Quelle est la capitale du pays où a eu lieu l'incendie tragique de l'hôtel [[Al-Mansour]], qui a causé la mort de 55 personnes en 1979 ?
+Quelle est la capitale du pays où a eu lieu l'incendie tragique de l'hôtel [[Al-Mansour]], qui a causé la mort de 55 personnes en 1979 ? <!-- score: 4 -->
 
 Dans quel État de la [[péninsule Arabique]] les premières élections législatives avec droit de vote pour les femmes ont-elles eu lieu en 2005 ?
 

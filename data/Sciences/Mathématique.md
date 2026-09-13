@@ -2,6 +2,8 @@
 tags:
   - Sciences
   - Grèce
+culture_g_score: 92
+culture_g_justification: "Discipline fondamentale ouvrant sur l’histoire des sciences, les nombres, la géométrie, le calcul et de nombreuses applications."
 ---
 ###### Questions 
 

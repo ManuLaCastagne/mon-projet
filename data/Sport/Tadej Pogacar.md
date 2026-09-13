@@ -20,8 +20,9 @@ indice_6 :
   - Liège-Bastogne-Liège
 questions:
  - En 2020, quel cycliste est devenu le 1er Slovène à inscrire son nom au palmarès du Tour de France?
+culture_g_score: 68
+culture_g_justification: "Champion cycliste contemporain de premier plan, mais sa notoriété et son recul historique restent encore inférieurs à ceux des grandes légendes."
 ---
-
 ![Image de Tadej Pogacar](https://upload.wikimedia.org/wikipedia/commons/a/a9/2022_Tour_of_Slovenia_%28Stage_3%2C_Tadej_Poga%C4%8Dar_celebrating_victory_on_Celje_Castle_v2%29.jpg)
 
 ###### Questions

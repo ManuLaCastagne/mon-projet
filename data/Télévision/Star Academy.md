@@ -19,8 +19,9 @@ indice_5 :
   - professeurs
 indice_6 : 
   - Nikos Aliagas
+culture_g_score: 76
+culture_g_justification: "Télé-crochet majeur de la télévision française, ouvrant sur ses candidats célèbres, la musique, la télé-réalité et l’évolution des formats."
 ---
-
 ![Image de Star Academy](https://upload.wikimedia.org/wikipedia/commons/8/88/Operaci%C3%B3n_Triunfo-OT.png)
 
 ###### Questions

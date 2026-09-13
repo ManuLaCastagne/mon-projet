@@ -21,8 +21,9 @@ indice_5:
   - post-impressionnisme
 indice_6:
   - Arles
+culture_g_score: 100
+culture_g_justification: "Référence universelle de la peinture, omniprésente dans les quiz grâce à ses œuvres, sa biographie, Gauguin, Théo et le postimpressionnisme."
 ---
-
 ![Image de Vincent Van Gogh](https://upload.wikimedia.org/wikipedia/commons/0/06/Farmhouse_in_Provence%2C_1888%2C_Vincent_van_Gogh%2C_NGA.jpg)
 
 ###### Questions

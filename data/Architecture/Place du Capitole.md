@@ -23,8 +23,9 @@ indice_6 :
   - Donjon du Capitole
 questions:
  - D'environ 12 000 m2. Ornée, au centre de mon pavage, d'une croix occitane en bronze, aménagée en...
+culture_g_score: 60
+culture_g_justification: "Lieu majeur de Toulouse, utile pour des questions régionales, politiques, architecturales et culturelles, sans portée mondiale."
 ---
-
 ![Image de Place du Capitole](https://upload.wikimedia.org/wikipedia/commons/4/4e/Toulouse_Capitole_Night_Wikimedia_Commons.jpg)
 
 ###### Questions

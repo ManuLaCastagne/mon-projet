@@ -23,8 +23,9 @@ indice_6 :
   - sculpteur
 questions:
  - Quelle collectionneuse d'art disparue en 2009, modèle de nombreux artistes, créa une fondation qui porte son nom à Paris ?
+culture_g_score: 31
+culture_g_justification: "Muse de Maillol et fondatrice du musée éponyme, Dina Vierny constitue surtout une question biographique ponctuelle."
 ---
-
 ![Image de Dina Vierny](https://upload.wikimedia.org/wikipedia/commons/d/d1/KMM_Maillol.JPG)
 
 ###### Questions

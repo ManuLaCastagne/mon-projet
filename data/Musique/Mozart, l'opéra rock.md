@@ -22,8 +22,9 @@ indice_6 :
   - rock symphonique
 questions:
  - En 2009, de quel spectacle musical, racontant la vie d'un célèbre compositeur né à Salzbourg, donne-t-on la 1re représentation à Paris?
+culture_g_score: 56
+culture_g_justification: "Spectacle musical français très populaire, utile pour la variété contemporaine et Mozart, mais d’importance culturelle moins durable."
 ---
-
 ![Image de Mozart, l'opéra rock](https://upload.wikimedia.org/wikipedia/commons/2/27/Mozart_l%27Op%C3%A9ra_Rock_-_Salieri.jpg)
 
 ###### Questions

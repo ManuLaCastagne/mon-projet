@@ -20,8 +20,9 @@ indice_6 :
   - The Executioner
 questions:
  - En 2013, quel boxeur américain devient champion du monde WBC des mi-lourds à 48 ans, battant son propre record établi 2 ans plus tôt?
+culture_g_score: 52
+culture_g_justification: "Champion de boxe doté de records remarquables, mais moins fréquent et moins transversal que les grandes icônes mondiales du sport."
 ---
-
 ![Image de Bernard Hopkins](https://upload.wikimedia.org/wikipedia/commons/5/5f/Bernard_Hopkins_2010.jpg)
 
 ###### Questions

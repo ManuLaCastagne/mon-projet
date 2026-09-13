@@ -18,8 +18,9 @@ indice_5 :
   - son règne de 1422 à 1461
 indice_6 : 
   - traité d'Arras
+culture_g_score: 80
+culture_g_justification: "Roi étroitement lié à Jeanne d’Arc, à la fin de la guerre de Cent Ans et à la construction de l’État royal."
 ---
-
 ![Image de Charles VII](https://upload.wikimedia.org/wikipedia/commons/e/eb/Charles_VII_entour%C3%A9_de_son_conseil_de_guerre.jpg)
 
 ###### Questions

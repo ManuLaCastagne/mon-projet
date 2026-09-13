@@ -15,8 +15,9 @@ indice_6:
   - Utilisé pour l'ornementation et en phytothérapie
 questions:
   - Mon bois dur est utilisé en tournerie. Mes grappes de fruits rouges orangés fournissent l'édulcorant appelé sorbitol.
+culture_g_score: 47
+culture_g_justification: "Arbre associé aux baies, aux oiseaux et au sorbitol, mais connaissance surtout botanique et forestière."
 ---
-
 ![Image de Sorbier](https://upload.wikimedia.org/wikipedia/commons/b/b0/Vue_de_Sorbier_%28Allier%29.jpg)
 
 ###### Questions

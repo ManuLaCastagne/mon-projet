@@ -22,8 +22,9 @@ indice_6 :
   - carrière débutée dans les années 1960
 questions:
  - En 2007, quelle actrice britannique a été récompensée d'un Oscar pour son interprétation de la reine Elisabeth II dans "The Queen"?
+culture_g_score: 80
+culture_g_justification: "Actrice britannique majeure, liée à The Queen, aux Oscars, à la monarchie britannique et à une longue carrière théâtrale et cinématographique."
 ---
-
 ![Image de Helen Mirren](https://upload.wikimedia.org/wikipedia/commons/3/3f/Helen_Mirren-2208.jpg)
 
 ###### Questions

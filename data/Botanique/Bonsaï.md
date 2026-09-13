@@ -15,8 +15,9 @@ indice_6 :
   - Art esthétique et méditatif
 questions:
  - Conservant mon tronc droit pour la forme Chokkan, je suis obtenu en ligaturant mes branches et en me taillant.
+culture_g_score: 64
+culture_g_justification: "Pratique japonaise mondialement connue, exploitable en art, culture asiatique, horticulture et symbolique, mais pas omniprésente."
 ---
-
 ![Image de Bonsaï](https://upload.wikimedia.org/wikipedia/commons/e/e1/BonsaiTridentMaple.jpg)
 
 ###### Questions

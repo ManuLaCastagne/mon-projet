@@ -22,8 +22,9 @@ indice_6 :
   - réfugiés et émigration
 questions:
  - 1991. Film de T. Angelopoulos avec Jeanne Moreau et Marcello Mastroianni dont le titre comporte le nom d'un oiseau ?
+culture_g_score: 44
+culture_g_justification: "Œuvre estimée de Theo Angelopoulos, mais très spécialisée et peu rentable pour un joueur généraliste non cinéphile."
 ---
-
 ![Image de Le Pas suspendu de la cigogne](https://upload.wikimedia.org/wikipedia/commons/0/09/Le_Littr%C3%A9_de_la_Grand%27C%C3%B4te%2C_%C3%A9d._1903.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - chanson mélancolique
 questions:
  - Quelle chanson, standard du répertoire anglo-saxon créée en 1934, évoque par son titre la 2de pleine lune d'un mois qui en compte 2?
+culture_g_score: 80
+culture_g_justification: "Standard américain très repris, exploitable pour la chanson, le cinéma, Elvis Presley, le doo-wop et l’histoire populaire."
 ---
-
 ![Image de Blue Moon](https://upload.wikimedia.org/wikipedia/commons/6/62/Asahi_Breweries_headquarters_building_with_the_Asahi_Flame_and_Skytree_at_blue_hour_with_full_moon%2C_Sumida-ku%2C_Tokyo%2C_Japan.jpg)
 
 ###### Questions

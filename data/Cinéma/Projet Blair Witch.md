@@ -23,8 +23,9 @@ indice_6:
 questions:
   - Film américain sorti en 1999, j'ai reçu le prix de la Jeunesse au festival de Cannes la même année. 
   - Co-réalisé par Daniel Myrick et Eduardo Sanchez avec un tout petit budget, je raconte, à la façon d'un documentaire, l'histoire de 3 étudiants ayant décidé d'enquêter, caméra au poing, sur des événements mystérieux dans la forêt de Black Hills.
+culture_g_score: 60
+culture_g_justification: "Film d’horreur marquant et souvent cité pour le found footage et son marketing viral, mais moins incontournable que les grands classiques du genre."
 ---
-
 ![Image de Projet Blair Witch](https://upload.wikimedia.org/wikipedia/commons/0/0b/Blair_Witch_Logo_Fr.svg)
 
 ###### Questions

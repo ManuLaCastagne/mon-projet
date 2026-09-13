@@ -20,8 +20,9 @@ indice_5:
   - Adaptation cinématographique
 indice_6:
   - Scénariste français
+culture_g_score: 63
+culture_g_justification: "Auteur français polyvalent dans le roman, le polar, la bande dessinée et le scénario, mais dont la notoriété reste inférieure à celle des grands écrivains classiques."
 ---
-
 ![Image de Tonino Benacquista](https://upload.wikimedia.org/wikipedia/commons/e/e4/Tonino_Benacquista_%288595328780%29.jpg)
 
 ###### Questions

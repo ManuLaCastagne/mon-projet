@@ -23,8 +23,9 @@ indice_6 :
   - Antonio da Ponte
 questions:
  - Quel est ce pont de Venise autrefois appelé  pont de la monnaie  car il abritait des boutiques de prêteurs et banquiers ?
+culture_g_score: 88
+culture_g_justification: "Monument emblématique de Venise, fréquemment interrogé par son histoire, son architecture, ses boutiques et le Grand Canal."
 ---
-
 ![Image de Pont du Rialto](https://upload.wikimedia.org/wikipedia/commons/d/dd/Bemberg_Fondation_Toulouse_-_Le_pont_du_Rialto_-_Francesco_Guardi_-_ca1775_Inv.1022.jpg)
 
 ###### Questions

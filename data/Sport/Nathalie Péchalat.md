@@ -18,8 +18,9 @@ indice_5 :
   - Gala de l'Union
 indice_6 : 
   - Jean Dujardin
+culture_g_score: 40
+culture_g_justification: "Patineuse française reconnue en danse sur glace, mais ses apparitions en quiz restent assez spécialisées."
 ---
-
 ![Image de Nathalie Péchalat](https://upload.wikimedia.org/wikipedia/commons/8/8a/Jielbeaumadier_Pechalat_Bourzat_Bompard_2010.jpg)
 
 ###### Questions

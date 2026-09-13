@@ -20,8 +20,9 @@ indice_6 :
   - années 2010
 questions:
  - Quel acteur français  a été révélé au grand public en interprétant le personnage de Zorg dans "37,2 le matin (film)"?
+culture_g_score: 47
+culture_g_justification: "Acteur français reconnu au cinéma et à la télévision, mais les questions portant précisément sur ses rôles télévisés sont assez occasionnelles."
 ---
-
 ![Image de Jean-Hugues Anglade](https://upload.wikimedia.org/wikipedia/commons/0/07/Jean-Hugues_Anglade_Cannes_2015.jpg)
 
 ###### Questions

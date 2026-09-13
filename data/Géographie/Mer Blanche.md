@@ -24,8 +24,9 @@ indice_6 :
   - courant polaire nord
 questions:
  - Quelle mer, formée par l'océan Arctique, doit son nom évoquant une couleur au fait qu'elle est recouverte de glace...
+culture_g_score: 40
+culture_g_justification: "Mer russe connue surtout pour le canal et les îles Solovetski, mais rarement nécessaire dans un quiz généraliste."
 ---
-
 ![Image de Mer Blanche](https://upload.wikimedia.org/wikipedia/commons/b/bb/B%C3%A9nodet%2C_la_Mer_Blanche_07.jpg)
 
 ![[Carte_Mer Blanche.png]]

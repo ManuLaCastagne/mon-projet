@@ -21,8 +21,9 @@ indice_5:
   - Islande asiatique sommet
 indice_6:
   - Relief Luzon
+culture_g_score: 64
+culture_g_justification: "L’éruption de 1991 en fait un classique des questions sur les volcans, les catastrophes et le climat, sans être un marronnier absolu."
 ---
-
 ![Image de Pinatubo](https://upload.wikimedia.org/wikipedia/commons/9/9f/Pinatubo_Crater_Lake_%28052005%29.jpg)
 
 ![[Carte_Pinatubo.png]]

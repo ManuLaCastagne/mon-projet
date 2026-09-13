@@ -22,8 +22,9 @@ indice_6 :
   - Le Mystère Henri Pick
 questions:
  - En 2016, quel écrivain publie le roman "Le Mystère Henri Pick", quelques années après "La Délicatesse" ?
+culture_g_score: 56
+culture_g_justification: "Auteur français populaire et adapté au cinéma, mais d’importance culturelle et de fréquence encore intermédiaires."
 ---
-
 ![Image de David Foenkinos](https://upload.wikimedia.org/wikipedia/commons/f/f8/David_Foenkinos_2012.JPG)
 
 ###### Questions

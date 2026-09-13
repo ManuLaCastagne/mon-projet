@@ -20,11 +20,9 @@ indice_6 :
   - Troisième République
 questions:
  - Conflit déclenché à la suite d'une manipulation diplomatique liée à la candidature d'un Hohenzollern au trône d'Espagne. J'ai débuté un 18 juillet. Ayant connu la charge de Reichshoffen. J'ai entraîné la chute du Second Empire...
+culture_g_score: 80
+culture_g_justification: "Guerre déterminante pour la chute du Second Empire, la Commune et la naissance de l'Allemagne impériale, avec de nombreuses entrées de quiz."
 ---
-
-
-
-
 ![Image de Guerre de 1870](https://upload.wikimedia.org/wikipedia/commons/5/5c/Ulysses_S._Grant_1870-1880.jpg)
 
 ###### Questions

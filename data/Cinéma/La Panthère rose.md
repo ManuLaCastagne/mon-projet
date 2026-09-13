@@ -22,10 +22,9 @@ indice_6 :
   - thème musical de Henry Mancini
 questions:
  - En 1964, quel titre porte le film de Blake Edwards dans lequel Peter Sellers incarne l'inspecteur Clouseau?
+culture_g_score: 80
+culture_g_justification: "Comédie célèbre associée à Clouseau, Blake Edwards, Henry Mancini et à une franchise d'animation, avec de nombreuses entrées de quiz."
 ---
-
-
-
 ![Image de La Panthère rose](https://upload.wikimedia.org/wikipedia/commons/9/90/La_panth%C3%A8re_rose_-_Flickr_-_besopha.jpg)
 
 ###### Questions

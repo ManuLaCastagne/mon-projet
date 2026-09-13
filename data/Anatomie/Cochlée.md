@@ -1,6 +1,8 @@
 ---
 tags:
   - Grèce
+culture_g_score: 68
+culture_g_justification: "Structure emblématique de l'audition, permettant des liens avec l'oreille interne, le son et les troubles auditifs."
 ---
 ###### Questions 
 

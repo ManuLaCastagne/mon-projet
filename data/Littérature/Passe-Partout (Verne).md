@@ -22,8 +22,9 @@ indice_6 :
   - brume envoûtante
 questions:
  - Quel domestique accompagne Phileas Fogg…
+culture_g_score: 64
+culture_g_justification: "Compagnon de Phileas Fogg dans un roman très célèbre, utile pour Jules Verne, les voyages et les personnages littéraires."
 ---
-
 ![Image de Passe-Partout (Verne)](https://upload.wikimedia.org/wikipedia/commons/1/1a/Verne_-_L%27Agence_Thompson_and_C%C2%B0%2C_Hetzel%2C_1907.djvu)
 
 ###### Questions

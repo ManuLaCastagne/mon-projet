@@ -18,10 +18,9 @@ indice_5 :
   - Indochine
 indice_6 : 
   - Barrage
+culture_g_score: 68
+culture_g_justification: "Roman important de Duras, reliant littérature francophone, Indochine coloniale, autobiographie, pauvreté et adaptations cinématographiques."
 ---
-
-
-
 ![Image de Un Barrage contre le Pacifique](https://upload.wikimedia.org/wikipedia/commons/8/85/LL-Q150_%28fra%29-Fhala.K-Un_barrage_contre_le_Pacifique.wav)
 
 ###### Questions

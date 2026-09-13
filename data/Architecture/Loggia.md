@@ -23,10 +23,9 @@ indice_6 :
   - vue panoramique
 questions:
  - En architecture, quel mot italien désigne un balcon spacieux, couvert...
+culture_g_score: 60
+culture_g_justification: "La loggia est un terme architectural classique avec des applications historiques variées, mais elle est moins prioritaire qu’un monument ou une personnalité précise."
 ---
-
-
-
 ![Image de Loggia](https://upload.wikimedia.org/wikipedia/commons/c/cc/20180601_Ratusz_w_Bardejowie_1013_3271_DxO.jpg)
 
 ###### Questions

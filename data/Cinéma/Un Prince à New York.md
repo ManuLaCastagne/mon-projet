@@ -20,6 +20,8 @@ indice_5:
   - Queens
 indice_6:
   - comédie des années 80
+culture_g_score: 73
+culture_g_justification: "Grand succès d’Eddie Murphy fréquemment interrogé par son personnage, son royaume fictif, son casting et son intrigue de prince incognito."
 ---
 ![[Pasted image 20250505174025.png]]
 ###### Questions

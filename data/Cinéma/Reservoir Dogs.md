@@ -17,8 +17,9 @@ indice_5 :
   - entrepôt abandonné
 indice_6 : 
   - trahison policière
+culture_g_score: 80
+culture_g_justification: "Premier film marquant de Tarantino, régulièrement interrogé pour son casting, sa structure, sa scène controversée et son influence indépendante."
 ---
-
 ![Image de Reservoir Dogs]()
 
 ###### Questions

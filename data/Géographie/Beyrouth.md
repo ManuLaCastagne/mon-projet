@@ -22,8 +22,9 @@ indice_5 :
   - corniche du Pigeon Rock
 indice_6 : 
   - cèdre emblématique
+culture_g_score: 80
+culture_g_justification: "Capitale moyen-orientale récurrente grâce à la guerre civile libanaise, à son histoire, à sa culture et à l’explosion de 2020."
 ---
-
 ![Image de Beyrouth](https://upload.wikimedia.org/wikipedia/commons/1/13/Beirut_Corniche%2C_Beirut%2C_Lebanon.jpg)
 
 ![[Carte_Beyrouth.png]]

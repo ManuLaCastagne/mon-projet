@@ -20,8 +20,9 @@ indice_6 :
   - fleur
 questions:
  - En 1637, aux Pays-Bas, quelle fleur est au centre d'une vaste crise spéculative qui a ruiné de nombreux investisseurs?
+culture_g_score: 64
+culture_g_justification: "Sujet mémorable grâce à la tulipomanie et à l’histoire des Pays-Bas, mais dont la portée quiz reste concentrée sur quelques faits."
 ---
-
 ![Image de Tulipes](https://upload.wikimedia.org/wikipedia/commons/e/ea/Tulipa_suaveolens_floriade_to_Canberra.jpg)
 
 ###### Questions

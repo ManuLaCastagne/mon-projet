@@ -18,9 +18,9 @@ indice_5 :
   - Trompette
 indice_6 : 
   - Ella Fitzgerald
+culture_g_score: 100
+culture_g_justification: "Icône mondiale du jazz, incontournable pour la trompette, le scat, La Nouvelle-Orléans, les standards et l'histoire de la musique populaire."
 ---
-
-
 ![Image de Louis Armstrong](https://upload.wikimedia.org/wikipedia/commons/0/0e/Louis_Armstrong_restored.jpg)
 
 ###### Questions

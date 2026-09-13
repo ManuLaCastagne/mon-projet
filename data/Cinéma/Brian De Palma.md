@@ -20,8 +20,9 @@ indice_5 :
   - Palme d'honneur à la Mostra de Venise
 indice_6 : 
   - Cinéma américain des années 70 et 80
+culture_g_score: 80
+culture_g_justification: "Réalisateur associé à plusieurs films très connus comme Carrie, Scarface et Mission: Impossible, offrant de nombreuses passerelles cinématographiques."
 ---
-
 ![Image de Brian De Palma](https://upload.wikimedia.org/wikipedia/commons/e/e0/BrianDePalma09TIFF.jpg)
 
 ###### Questions

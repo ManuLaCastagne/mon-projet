@@ -18,8 +18,9 @@ indice_6 :
   - Amphitryon et Alcmène
 questions:
  - Aux portes de quelle ville, fondée par le Phénicien Cadmos, Œdipe résout-il l'énigme du sphinx ?
+culture_g_score: 68
+culture_g_justification: "Thèbes relie mythologie, tragédie grecque, Héraclès, Œdipe et histoire de la Grèce, ce qui en fait un repère particulièrement transversal."
 ---
-
 ![Image de Thèbes](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ancient_Thebes_flag.png)
 
 ###### Questions

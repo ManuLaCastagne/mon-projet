@@ -24,8 +24,9 @@ indice_6 :
   - randonnée
 questions:
  - Quelle forêt du Pays basque, située entre la France et l'Espagne constitue la plus grande hêtraie d'Europe?
+culture_g_score: 31
+culture_g_justification: "Grande forêt basque présentant un intérêt naturel réel, mais rarement mobilisée dans les quiz généralistes."
 ---
-
 ![Image de Forêt d'Iraty](https://upload.wikimedia.org/wikipedia/commons/1/15/For%C3%AAt_d%27Iraty-Col_d%27Orgambidesca-1964.jpg)
 
 ![[Carte_Forêt d'Iraty.png]]

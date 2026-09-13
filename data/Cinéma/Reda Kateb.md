@@ -22,8 +22,9 @@ indice_6 :
   - Ghorban Délépine
 questions:
  - En 2017, dans le film "Django" qui lui était consacré, quel acteur français incarnait Django Reinhardt ?
+culture_g_score: 44
+culture_g_justification: "Acteur français reconnu par les cinéphiles et les amateurs de séries, mais dont les repères restent peu fréquents dans les quiz généralistes."
 ---
-
 ![Image de Reda Kateb](https://upload.wikimedia.org/wikipedia/commons/7/7b/Reda_Kateb_Pressekonferenz_Django_Berlinale_2017_07.jpg)
 
 ###### Questions

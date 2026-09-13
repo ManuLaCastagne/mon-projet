@@ -18,8 +18,9 @@ indice_5 :
   - Voyage aux régions équinoxiales du Nouveau Continent
 indice_6 : 
   - Humboldtian Science
+culture_g_score: 75
+culture_g_justification: "Explorateur et naturaliste majeur, utile pour aborder géographie, écologie, climatologie, voyages scientifiques et histoire des sciences."
 ---
-
 ![Image de Alexander von Humboldt](https://upload.wikimedia.org/wikipedia/commons/8/8d/Alexander_von_Humboldt_%28empty%29.jpg)
 
 ###### Questions

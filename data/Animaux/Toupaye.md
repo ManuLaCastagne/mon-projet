@@ -13,6 +13,8 @@ indice_5:
   - Tarsier
 indice_6:
   - Symbole de la biodiversité en Indonésie
+culture_g_score: 20
+culture_g_justification: "Le toupaye est un petit mammifère peu connu, susceptible d'apparaître seulement dans des questions zoologiques très spécialisées."
 ---
 
 ![Image de Toupaye](https://upload.wikimedia.org/wikipedia/commons/4/44/Tupaia_belangeri.JPG)
@@ -21,7 +23,7 @@ indice_6:
 
 Quelle est cette espèce de petit mammifère qui vit dans les forêts tropicales d'Asie du Sud ?
 
-Quel animal insectivore est endémique aux [[Régions tropicales]] de [[l'Afrique de l'Ouest]] et est connu pour sa ressemblance avec un petit singe à cause de ses grands yeux et de son museau allongé ?
+Quel animal insectivore est endémique aux [[Régions tropicales]] de [[l'Afrique de l'Ouest]] et est connu pour sa ressemblance avec un petit singe à cause de ses grands yeux et de son museau allongé ? <!-- score: 6 -->
 
 Quel est le nom de l'animal parfois appelé "singe à trompe" découvert scientifiquement pour la première fois en [[1898]] en [[Sierra Leone]] ?
 

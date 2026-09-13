@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour produire l'huile de pavot et en ornementation
 questions:
  - 4 pétales soyeux légèrement  froissés dont la tête est penchée lorsqu'elle est en bouton. Représentée par le coquelicot, je produis une capsule...
+culture_g_score: 80
+culture_g_justification: "Le pavot relie coquelicot, opium, symbolique mémorielle, botanique et gastronomie, ce qui en fait un sujet régulièrement exploitable."
 ---
-
 ![Image de Pavot](https://upload.wikimedia.org/wikipedia/commons/f/ff/Poster_papaver_3a.jpg)
 
 ###### Questions

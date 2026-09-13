@@ -22,8 +22,9 @@ indice_6 :
   - Ligurie
 questions:
  - En 1957, dans quel roman d'Italo Calvino un jeune garçon décide-t-il de grimper dans un arbre et de ne plus en redescendre ?
+culture_g_score: 60
+culture_g_justification: "Roman célèbre d’Italo Calvino, utile pour la littérature italienne, la trilogie Nos ancêtres et les thèmes de la liberté, mais pas incontournable."
 ---
-
 ![Image de Le Baron perché](https://upload.wikimedia.org/wikipedia/commons/e/e6/Catalogue_de_la_pr%C3%A9cieuse_collection_de_Monsieur_le_baron_Michel_%28IA_cataloguedelapre00ride%29.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - maestro de l'amour
 questions:
   - Can't get enough of your love, babe et "You're the first, the last my everything"… qu'on le surnommait le maestro de l'amour ?
+culture_g_score: 64
+culture_g_justification: "Chanteur de soul très reconnaissable par ses succès romantiques, mais moins central que les grandes figures de la musique populaire."
 ---
-
 ![Image de Barry White](https://upload.wikimedia.org/wikipedia/commons/b/b2/Barry_White%2C_Bestanddeelnr_927-0098_%28cropped%29.jpg)
 
 ###### Questions

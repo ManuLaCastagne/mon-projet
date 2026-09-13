@@ -22,8 +22,9 @@ indice_6 :
   - New York
 questions:
  - Quelle romancière américaine, auteure du "Temps de l'innocence", Henry James surnommait-t-il "la femme-pendule" en raison de ses multiples allers-retours New York-Paris ?
+culture_g_score: 67
+culture_g_justification: "Romancière américaine primée et liée à Henry James, elle offre des repères sur la littérature, la société new-yorkaise et les femmes écrivaines."
 ---
-
 ![Image de Édith Wharton](https://upload.wikimedia.org/wikipedia/commons/e/e6/Edith_Wharton_03.jpg)
 
 ###### Questions

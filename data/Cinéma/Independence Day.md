@@ -18,6 +18,8 @@ indice_5:
   - Washington D.C.
 indice_6:
   - 4 juillet
+culture_g_score: 73
+culture_g_justification: "Blockbuster emblématique de la science-fiction des années 1990, associé à Will Smith, aux extraterrestres et à la destruction de la Maison-Blanche."
 ---
 ![[Pasted image 20250505180013.png]]
 ###### Questions

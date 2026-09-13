@@ -22,8 +22,9 @@ indice_6 :
   - voyages sonores
 questions:
  - En 1982, à quel trio britannique doit-on "Just an illusion" ?
+culture_g_score: 44
+culture_g_justification: "Le groupe britannique est une référence musicale des années 1980, mais ses apparitions en quiz restent assez occasionnelles."
 ---
-
 ![Image de Imagination](https://upload.wikimedia.org/wikipedia/commons/2/28/Imagination-Warner-Highsmith.jpeg)
 
 ###### Questions

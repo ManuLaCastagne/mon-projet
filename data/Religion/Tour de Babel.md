@@ -20,8 +20,9 @@ indice_6 :
   - Ziggourat
 questions:
  - Selon la Genèse, quelle construction en hauteur les descendants de Noé ont-ils tenté d'élever pour escalader le ciel ?
+culture_g_score: 84
+culture_g_justification: "Mythe biblique universellement connu, la Tour de Babel relie Bible, Babylone, diversité des langues, architecture et histoire des religions."
 ---
-
 ![Image de Tour de Babel](https://upload.wikimedia.org/wikipedia/commons/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg)
 
 ###### Questions

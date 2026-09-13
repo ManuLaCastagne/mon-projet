@@ -23,8 +23,9 @@ indice_6 :
   - survie
 questions:
  - Classique de la littérature paru en 1719. Considéré par Rousseau comme le seul ouvrage nécessaire pour lui. Inspiré de l'histoire d'un marin écossais. Mon héros devient planteur au Brésil. Il part et son navire fait...
+culture_g_score: 100
+culture_g_justification: "Classique mondial fondateur du roman d’aventures, offrant de nombreux liens avec Defoe, l’exploration, la survie et les adaptations."
 ---
-
 ![Image de Robinson Crusoé](https://upload.wikimedia.org/wikipedia/commons/1/14/H._Colin_-_Poster_for_the_premi%C3%A8re_of_Jacques_Offenbach%27s_Robinson_Cruso%C3%A9.jpg)
 
 ###### Questions

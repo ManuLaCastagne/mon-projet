@@ -20,8 +20,9 @@ indice_6 :
   - télévision française
 questions:
  - En 1973, quel animateur, qui associera plus tard son nom à une émission dominicale, a été le 1er à présenter, avec Evelyne Pagès, une émission de variétés appelée "Taratata"?
+culture_g_score: 80
+culture_g_justification: "Animateur central de la télévision française, associé à plusieurs émissions cultes et à de nombreuses questions sur le paysage audiovisuel."
 ---
-
 ![Image de Jacques Martin](https://upload.wikimedia.org/wikipedia/commons/7/74/Jacques_Martin_Cannes.jpg)
 
 ###### Questions

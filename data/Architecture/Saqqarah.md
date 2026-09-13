@@ -23,8 +23,9 @@ indice_6:
   - site archéologique
 questions:
   - Quel site abrite la 1re pyramide d'Egypte connue pour être celle du roi Djoser ?
+culture_g_score: 80
+culture_g_justification: "Grande nécropole égyptienne régulièrement associée à Djoser, Imhotep, aux pyramides et au patrimoine mondial."
 ---
-
 ![Image de Saqqarah](https://upload.wikimedia.org/wikipedia/commons/0/09/Saqqara%2C_Ancient_Egypt.jpg)
 
 ![[Carte_Saqqarah.png]]

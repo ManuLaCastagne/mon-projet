@@ -21,9 +21,9 @@ indice_6:
   - fondateur de MNP Entreprise
 questions:
   - Dans le film "Un illustre inconnu" de Mathieu Delaporte sorti en 2014, quel acteur incarne un homme qui prend l'apparence des personnages qu'il rencontre ?
+culture_g_score: 80
+culture_g_justification: "Même figure que Mathieu Kassovitz, incontournable surtout grâce à La Haine et à sa double carrière."
 ---
-
-
 ![Image de Matthieu Kassovitz](https://upload.wikimedia.org/wikipedia/commons/5/54/Mathieu_Kassovitz_Cannes_2017.jpg)
 
 ###### Questions

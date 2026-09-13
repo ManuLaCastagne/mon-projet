@@ -24,8 +24,9 @@ indice_6 :
   - Zytglogge
 questions:
  - Quelle ville suisse où la commission s'était réunie donna son nom au projet de déclaration envoyée aux Etats membres de l'ONU ?
+culture_g_score: 80
+culture_g_justification: "Capitale suisse très rentable grâce à son statut fédéral, son patrimoine médiéval, l’UNESCO et ses repères politiques."
 ---
-
 ![Image de Berne](https://upload.wikimedia.org/wikipedia/commons/7/75/Bern_luftaufnahme.png)
 
 ![[Carte_Berne.png]]

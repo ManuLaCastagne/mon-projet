@@ -13,8 +13,9 @@ indice_5:
   - Iberis sempervirens ou Arabis Caucasica
 indice_6:
   - Utilisée comme plante ornementale dans les jardins de rocaille
+culture_g_score: 20
+culture_g_justification: "Plante de bordure de jardin à nom imagé, mais très peu rentable en dehors d’une question botanique précise."
 ---
-
 ![Image de Corbeille-d'argent](https://upload.wikimedia.org/wikipedia/commons/9/94/Corbeille_d%27argent_Paris.jpg)
 
 ###### Questions

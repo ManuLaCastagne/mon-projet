@@ -22,8 +22,9 @@ indice_6 :
   - Chaise longue
 questions:
  - J'ai mélangé les mots. D'un homme quitté par sa fiancé et à qui le fisc a tout pris. Mon titre signifie "après-midi ensoleillé".
+culture_g_score: 60
+culture_g_justification: "Chanson classique des Kinks et des années 1960, mais moins incontournable que leurs titres les plus célèbres."
 ---
-
 ![Image de Sunny Afternoon](https://upload.wikimedia.org/wikipedia/commons/d/d7/Fisherman_and_pirogue_sailing_on_the_Mekong_a_sunny_afternoon_in_Don_Det_Laos.jpg)
 
 ###### Questions

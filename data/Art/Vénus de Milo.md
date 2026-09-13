@@ -23,7 +23,8 @@ indice_6 :
   - art hellénistique
 questions:
  - Quelle statue grecque en marbre, découverte en 1820 dans une île des Cyclades, représente une déesse à demi dévêtue, privée de ses bras ?
-culture_g_score: 97
+culture_g_score: 96
+culture_g_justification: "Sculpture mondialement célèbre, fréquemment interrogée avec la Grèce antique, le Louvre, sa découverte et ses bras manquants."
 ---
 ![Image de Vénus de Milo](https://upload.wikimedia.org/wikipedia/commons/2/28/Venus_de_Milo.JPG)
 

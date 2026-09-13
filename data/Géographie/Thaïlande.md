@@ -24,8 +24,9 @@ indice_6 :
   - Chiang Mai
 questions:
  - De quel pays asiatique le roi Rama IX depuis 1946 est-il le souverain ?
+culture_g_score: 80
+culture_g_justification: "Pays asiatique très fréquent, reconnaissable par le Siam, Bangkok, le bouddhisme, la colonisation évitée et sa culture touristique."
 ---
-
 ![Image de Thaïlande](https://upload.wikimedia.org/wikipedia/commons/d/d0/Trees_rising_out_of_Cheow_Lan_Lake%2C_blue_sky%2C_eternal_summer_in_Surat_Thani_edited.jpg)
 
 ![[Carte_Thaïlande.png]]

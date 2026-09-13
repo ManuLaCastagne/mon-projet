@@ -21,8 +21,9 @@ indice_5 :
   - posture allongée
 indice_6 : 
   - peinture du XXe siècle
+culture_g_score: 27
+culture_g_justification: "Cette œuvre précise est très peu connue et ne constitue qu'une référence ponctuelle de l'histoire de la peinture."
 ---
-
 ![Image de Nu couché à la toile de Jouy](https://upload.wikimedia.org/wikipedia/commons/c/c4/Jouy_-_Les_Chansons_de_l%E2%80%99ann%C3%A9e%2C_1888.djvu)
 
 ###### Questions

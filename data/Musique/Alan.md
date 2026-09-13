@@ -20,8 +20,9 @@ indice_5 :
   - cryptanalyse
 indice_6 : 
   - Enigma
+culture_g_score: 43
+culture_g_justification: "Alan peut servir de réponse dans quelques questions de prénoms célèbres, mais le prénom lui-même a une faible valeur culturelle autonome."
 ---
-
 ![Image de Alan](https://upload.wikimedia.org/wikipedia/commons/1/1b/Alan_Bean_NASA_portrait_%28S69-38859%29.jpg)
 
 ###### Questions

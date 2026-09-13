@@ -22,8 +22,9 @@ indice_6 :
   - Danse de la Fée Dragée
 questions:
  - Ballet dont Andy de Groat donna une version modernisée à l'Opéra de Massy en 1995, ma première représentation a eu lieu au théâtre Marinski en 1892.
+culture_g_score: 97
+culture_g_justification: "Ballet extrêmement célèbre de Tchaïkovski, central dans les quiz sur la musique classique, les ballets, les contes et les fêtes de fin d’année."
 ---
-
 ![Image de Casse-Noisette](https://upload.wikimedia.org/wikipedia/commons/9/95/Casse-Noisette_%C3%A0_Colmar_-_Troupe_%283%29.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6XqqUnXqymdwKHGyFvVRrV" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

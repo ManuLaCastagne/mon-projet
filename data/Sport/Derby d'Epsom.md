@@ -20,8 +20,9 @@ indice_6 :
   - Jockeys
 questions:
  - Depuis 1780, quelle grande course de chevaux a lieu chaque année à Epsom?
+culture_g_score: 64
+culture_g_justification: "Course hippique britannique historique et prestigieuse, utile pour les questions sur le calendrier équestre et la tradition anglaise."
 ---
-
 ![Image de Derby d'Epsom](https://upload.wikimedia.org/wikipedia/commons/2/20/3-6-31%2C_derby_d%27Epsom_-_%28photographie_de_presse%29_-_Agence_Rol.jpg)
 
 ###### Questions

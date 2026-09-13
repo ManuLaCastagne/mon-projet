@@ -18,9 +18,9 @@ indice_5 :
   - Bataille de Gettysburg
 indice_6 : 
   - États-Unis d'Amérique
+culture_g_score: 100
+culture_g_justification: "Conflit central de l'histoire américaine, extrêmement fréquent et relié à Lincoln, l'esclavage, la Reconstruction, les batailles et la guerre moderne."
 ---
-
-
 ![Image de Guerre de Sécession](https://upload.wikimedia.org/wikipedia/commons/4/43/Recueil._Portraits_de_personnalit%C3%A9s_am%C3%A9ricaines_contemporaines_de_la_guerre_de_S%C3%A9cession_-_btv1b10525641r_%2833_of_58%29.jpg)
 
 ###### Questions

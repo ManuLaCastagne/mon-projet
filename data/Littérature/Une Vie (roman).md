@@ -22,8 +22,9 @@ indice_6 :
   - 19e siècle
 questions:
  - Roman de Guy de Maupassant…
+culture_g_score: 60
+culture_g_justification: "Roman classique de Maupassant, utile pour les quiz littéraires, mais moins emblématique que ses œuvres les plus connues."
 ---
-
 ![Image de Une Vie (roman)](https://upload.wikimedia.org/wikipedia/commons/6/6e/Maupassant_-_Une_vie%2C_OC%2C_Conard%2C_1908.djvu)
 
 ###### Questions

@@ -5,6 +5,8 @@ tags:
   - Années_1980
   - France
 date: 1983
+culture_g_score: 88
+culture_g_justification: "Institution scientifique française mondialement reconnue, associée aux vaccins, aux maladies infectieuses, à la microbiologie et au sida."
 ---
 ###### Questions 
 

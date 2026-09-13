@@ -20,8 +20,9 @@ indice_6 :
   - Princesse de Monaco
 questions:
  - En 2011, quelle ancienne nageuse sud-africaine a épousé le prince Albert II de Monaco ?
+culture_g_score: 64
+culture_g_justification: "Connue surtout comme princesse de Monaco, avec un intérêt sportif complémentaire lié à sa carrière de nageuse olympique."
 ---
-
 ![Image de Charlene Wittstock](https://upload.wikimedia.org/wikipedia/commons/8/8f/Charlene%2C_Princess_of_Monaco-4.jpg)
 
 ###### Questions

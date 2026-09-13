@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la peur dans les films
 questions:
  - A quel poisson au corps fuselé associe-t-on l'espèce dite à pointe noire appelée mauri en tahitien ?
+culture_g_score: 96
+culture_g_justification: "Sujet incontournable des quiz, ouvrant sur la zoologie, l’évolution, les océans, les espèces célèbres et les adaptations animales."
 ---
-
 ![Image de Requin](https://upload.wikimedia.org/wikipedia/commons/b/b0/French_submarine_Requin_leaving_builders_yard%2C_photo_by_Times_Wide_World.jpg)
 
 ###### Questions

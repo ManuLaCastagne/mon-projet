@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de sagesse
 questions:
  - A quel type de rapace nocturne  rattache-t-on l'effraie, la hulotte et la chevêche?
+culture_g_score: 80
+culture_g_justification: "Oiseau associé à Athéna, à la sagesse, à la vie nocturne et à plusieurs symboles culturels, régulièrement présent dans les quiz."
 ---
-
 ![Image de Chouette](https://upload.wikimedia.org/wikipedia/commons/e/ef/Strix_nebulosa_%28Chouette_lapone%29_-_399.jpg)
 
 ###### Questions

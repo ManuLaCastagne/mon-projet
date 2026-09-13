@@ -20,8 +20,9 @@ indice_6 :
   - Guerre de l'Opium
 questions:
  - Dès le VIe millénaire, berceau d'un empire qui déclina avant d'être dominé par Babylone, j'ai été abandonnée au IIe siècle avant notre ère. Cité sumérienne, aujourd'hui située...
+culture_g_score: 27
+culture_g_justification: "Cette rivière des Ardennes constitue une connaissance géographique assez secondaire et peu rentable dans les quiz généralistes."
 ---
-
 ![Image de Our](https://upload.wikimedia.org/wikipedia/commons/8/8c/Our_Luxemburg_Germany.JPG)
 
 ###### Questions

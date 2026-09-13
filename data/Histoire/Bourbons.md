@@ -20,11 +20,9 @@ indice_6 :
   - Navarre
 questions:
  - En 1700, quelle dynastie française succède aux Habsbourg...
+culture_g_score: 92
+culture_g_justification: "Dynastie essentielle pour comprendre l’histoire de France, l’Espagne, les monarchies européennes et plusieurs successions majeures."
 ---
-
-
-
-
 ![Image de Bourbons](https://upload.wikimedia.org/wikipedia/commons/8/8c/Bourbon-Wiki.png)
 
 ###### Questions

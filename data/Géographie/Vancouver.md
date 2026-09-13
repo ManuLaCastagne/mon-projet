@@ -24,9 +24,9 @@ indice_6 :
   - Stanley Park
 questions:
  - Terminus ouest de 4 grandes lignes de chemin de fer. Je suis le centre  financier de l'ouest  canadien. Ville de Colombie britannique sur le Pacifique. J'ai accueilli les JO d'hiver en 2010.
+culture_g_score: 67
+culture_g_justification: "Grande ville canadienne reconnaissable grâce aux Jeux olympiques, au port et à Stanley Park, sans être un marronnier majeur."
 ---
-
-
 ![Image de Vancouver](https://upload.wikimedia.org/wikipedia/commons/2/27/Vancouver_dusk_pano.jpg)
 
 ![[Carte_Vancouver.png]]

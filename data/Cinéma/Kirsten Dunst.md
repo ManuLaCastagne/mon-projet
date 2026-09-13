@@ -22,8 +22,9 @@ indice_6 :
   - Spider-Man
 questions:
  - Dans le film "Air", quelle actrice, qui tournera à nouveau sous la direction de Sofia Coppola dans "Marie-Antoinette" et "Les Proies", joue le rôle de Lux, une des 5 filles de la famille Lisbon ?
+culture_g_score: 67
+culture_g_justification: "Actrice très reconnaissable grâce à Twilight, Spider-Man et plusieurs films d'auteur, avec une bonne réutilisation en quiz de cinéma."
 ---
-
 ![Image de Kirsten Dunst](https://upload.wikimedia.org/wikipedia/commons/d/d0/Kirsten_Dunst_Cannes_2016.jpg)
 
 ###### Questions

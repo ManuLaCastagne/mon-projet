@@ -23,8 +23,9 @@ indice_6 :
   - patrimoine médiéval
 questions:
  - Quelle technique de construction, utilisant des pans de bois, est typique de l'architecture de régions telles que la Normandie, la Champagne...
+culture_g_score: 64
+culture_g_justification: "Technique architecturale identifiable dans de nombreuses villes européennes, avec des liens utiles vers l’histoire, les matériaux et le patrimoine."
 ---
-
 ![Image de Colombages](https://upload.wikimedia.org/wikipedia/commons/3/3c/Maison_%C3%A0_colombages_%C3%A0_Rocourt_%28Belgique%29.jpg)
 
 ###### Questions

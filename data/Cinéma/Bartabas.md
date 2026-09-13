@@ -15,8 +15,9 @@ indice_5:
   - Arts équestres
 indice_6:
   - Performance scénique
+culture_g_score: 51
+culture_g_justification: "Artiste équestre français original, mais principalement pertinent dans l'univers spécialisé du spectacle vivant."
 ---
-
 ![Image de Bartabas](https://upload.wikimedia.org/wikipedia/commons/4/44/Bartabas.jpg)
 
 ###### Questions

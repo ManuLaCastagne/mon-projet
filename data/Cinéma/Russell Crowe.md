@@ -20,8 +20,9 @@ indice_5 :
   - Jor-El dans Man of Steel
 indice_6 : 
   - acteur et musicien
+culture_g_score: 80
+culture_g_justification: "Acteur associé à Gladiator, aux adaptations historiques et à plusieurs productions majeures, ce qui le rend régulièrement exploitable."
 ---
-
 ![Image de Russell Crowe](https://upload.wikimedia.org/wikipedia/commons/8/8e/Russell_Crowe_%2833994020424%29.jpg)
 
 ###### Questions

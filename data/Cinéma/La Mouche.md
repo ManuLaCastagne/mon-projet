@@ -21,6 +21,8 @@ indice_5:
 indice_6:
   - espion
 questions: []
+culture_g_score: 80
+culture_g_justification: "Film culte de Cronenberg, exploitable par la science-fiction, les effets spéciaux, Jeff Goldblum, le remake et l'horreur corporelle."
 ---
 ![[Pasted image 20250421144823.png]]
 ###### Questions

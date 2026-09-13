@@ -36,8 +36,9 @@ questions:
  - Quel empire d'Afrique occidentale allant de l'Atlantique au Niger a été fondé au XIIIe par Soundiata Keita ?
 questions:
  - Quel empire d'Afrique occidentale allant de l'Atlantique au Niger a été fondé au XIIIe par Soundiata Keita ?
+culture_g_score: 80
+culture_g_justification: "Pays majeur de l’histoire ouest-africaine, particulièrement rentable pour Tombouctou, les empires soudanais, le Niger, le Sahel et le patrimoine de Djenné."
 ---
-
 ![Image de Mali](https://upload.wikimedia.org/wikipedia/commons/d/da/Republic_of_Mali_Boeing_727-200-1.jpg)
 
 ![[Carte_Mali.png]]

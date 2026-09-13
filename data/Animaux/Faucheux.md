@@ -15,8 +15,9 @@ indice_6 :
   - Porte-bonheur
 questions:
  - Quel arachnide de la sous-classe des opilions se distingue des autres araignées par l'absence de venin et de soie?
+culture_g_score: 44
+culture_g_justification: "Le faucheux est identifiable par sa confusion avec l'araignée, mais reste une connaissance zoologique secondaire."
 ---
-
 ![Image de Faucheux](https://upload.wikimedia.org/wikipedia/commons/f/f6/Sylvie_Faucheux.jpg)
 
 ###### Questions

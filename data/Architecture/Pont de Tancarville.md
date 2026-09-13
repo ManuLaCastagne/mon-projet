@@ -23,8 +23,9 @@ indice_6 :
   - deux pylônes en acier
 questions:
  - Quel pont enjambant l'estuaire de la Seine, mis en service en 1959, a permis de réduire de 102 km la distance routière entre Le Havre et Caen?
+culture_g_score: 40
+culture_g_justification: "Ouvrage d'ingénierie française intéressant mais peu connu et rarement mobilisé comme réponse autonome."
 ---
-
 ![Image de Pont de Tancarville](https://upload.wikimedia.org/wikipedia/commons/2/2d/Seine_Pont_de_Tancarville_20111005_3.jpg)
 
 ###### Questions

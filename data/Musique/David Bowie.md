@@ -18,8 +18,9 @@ indice_5 :
   - Aladdin Sane
 indice_6 : 
   - Let's Dance
+culture_g_score: 100
+culture_g_justification: "Figure majeure et extrêmement transversale de la musique, du cinéma et de la culture populaire, avec de nombreux albums et personnages emblématiques."
 ---
-
 ![Image de David Bowie](https://upload.wikimedia.org/wikipedia/commons/e/ea/David_Bowie_-_1983_Let%27s_Dance_Promo_009.jpg)
 
 ###### Questions

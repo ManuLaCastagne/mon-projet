@@ -22,8 +22,9 @@ indice_6 :
   - adaptation roman
 questions:
  - En 1957, quel film de David Lyne évoque le quotidien de prisonniers britanniques en Asie pendant la 2nde Guerre Mondiale ?
+culture_g_score: 97
+culture_g_justification: "Grand classique mondial, utile pour des questions sur David Lean, la Seconde Guerre mondiale, Pierre Boulle, les Oscars et la Thaïlande."
 ---
-
 ![Image de Le Pont de la rivière Kwaï](https://upload.wikimedia.org/wikipedia/commons/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG)
 
 ###### Questions

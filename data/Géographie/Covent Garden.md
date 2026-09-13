@@ -21,11 +21,9 @@ indice_5 :
   - Jubilee Market
 indice_6 : 
   - Neal's Yard
+culture_g_score: 76
+culture_g_justification: "Quartier londonien très identifiable grâce à son marché, son opéra, son architecture et ses artistes de rue."
 ---
-
-
-
-
 ![[Carte_Covent Garden.png]]
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Né à Antibes
 questions:
  - En 2017, quel écrivain français, connaissant un immense succès à travers le monde, est l'auteur du roman "Un appartement à Paris"?
+culture_g_score: 60
+culture_g_justification: "Romancier très populaire et souvent adapté, mais son importance littéraire générale reste inférieure à sa notoriété commerciale."
 ---
-
 ![Image de Guillaume Musso](https://upload.wikimedia.org/wikipedia/commons/0/07/Guillaume_Musso_-_Italy_-_mai_2010.jpg)
 
 ###### Questions

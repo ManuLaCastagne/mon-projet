@@ -23,8 +23,9 @@ indice_6 :
   - Marais
 questions:
  - Dans le quartier du Marais à Paris, quel hôtel conçu par Pierre Lescot en 1544 abrite le musée historique de Paris?
+culture_g_score: 52
+culture_g_justification: "Le Carnavalet est un musée parisien important pour l'histoire de la capitale, mais sa notoriété et sa fréquence restent principalement françaises."
 ---
-
 ![Image de Musée Carnavalet](https://upload.wikimedia.org/wikipedia/commons/1/11/Paris_3e_Mus%C3%A9e_Carnavalet_Au_soleil_d%27or_624.jpg)
 
 ###### Questions

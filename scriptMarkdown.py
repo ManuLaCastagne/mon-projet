@@ -429,7 +429,7 @@ TÂCHE :
 
 def ask_gpt(prompt):
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-5.6-luna",
         messages=[
             {"role": "system", "content": "Ne pose jamais de question. Ne demande jamais de clarification. Ne propose jamais de vérifier des sources externes. Si une information est incertaine, applique les règles demandées (choix de l’option la plus notoire ou retour de None)."},
             {"role": "user", "content": prompt}

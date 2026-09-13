@@ -20,8 +20,9 @@ indice_6 :
   - Hall of Fame
 questions:
  - En 2001, 3 ans après avoir mis un terme à sa carrière, quel basketteur rejoue avec les Washington Wizards ?
+culture_g_score: 100
+culture_g_justification: "Icône mondiale du sport et de la culture populaire, offrant d’innombrables questions sur la NBA, les Jeux, les Bulls et ses records."
 ---
-
 ![Image de Michael Jordan](https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg)
 
 ###### Questions

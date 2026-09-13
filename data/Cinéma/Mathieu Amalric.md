@@ -20,9 +20,9 @@ indice_5 :
   - Interprète de James Bond
 indice_6 : 
   - Collaborateur fréquent d'Arnaud Desplechin
+culture_g_score: 63
+culture_g_justification: "Acteur-réalisateur français identifiable par quelques films prestigieux, les César et James Bond."
 ---
-
-
 ![Image de Mathieu Amalric](https://upload.wikimedia.org/wikipedia/commons/2/2e/Mathieu_Amalric.jpg)
 
 ###### Questions

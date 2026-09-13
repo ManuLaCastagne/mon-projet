@@ -22,8 +22,9 @@ indice_6:
   - Grands travaux de Paris
 questions:
   - Pour honorer une promesse faite à la fin de la guerre, quel homme d'Etat français gravissait chaque année la roche de Solutré?
+culture_g_score: 96
+culture_g_justification: "Président français majeur de la Ve République, associé aux cohabitations, à la construction européenne, au socialisme et à plusieurs affaires d’État."
 ---
-
 ![Image de François Mitterrand](https://upload.wikimedia.org/wikipedia/commons/6/6c/Quai_Fran%C3%A7ois-Mauriac_April_2011.jpg)
 
 ###### Questions

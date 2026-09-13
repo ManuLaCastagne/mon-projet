@@ -22,8 +22,9 @@ indice_6 :
   - animaux dans les films
 questions:
  - Quel court métrage lui a permis d'être récompensé aux Oscars ?
+culture_g_score: 20
+culture_g_justification: "Le sujet précis est ambigu et renvoie surtout à des références secondaires ou à un simple élément de titres et de répliques."
 ---
-
 ![Image de Poulet](https://upload.wikimedia.org/wikipedia/commons/5/5e/Poulet_pantalonais.jpg)
 
 ###### Questions

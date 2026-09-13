@@ -20,9 +20,9 @@ indice_5:
   - Veni
 indice_6:
   - Creator Spiritus
+culture_g_score: 64
+culture_g_justification: "Symphonie majeure de Mahler, connue par son surnom et son effectif spectaculaire, mais relativement spécialisée."
 ---
-
-
 ![Image de Symphonie des mille](https://upload.wikimedia.org/wikipedia/commons/0/06/Bruckner_Symphony_No._8_Knappertsbusch_%281963%29_%28Mono%29.png)
 
 ###### Questions

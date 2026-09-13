@@ -18,10 +18,9 @@ indice_6 :
   - Rangi et Papa
 questions:
  - Quel peuple polynésien, ayant résisté à la colonisation britannique de la Nouvelle-Zélande, a voué un culte au dieu de la Guerre Tu?
+culture_g_score: 68
+culture_g_justification: "Les Maoris sont une référence importante pour la Nouvelle-Zélande, les peuples autochtones, Māui et les récits cosmogoniques du Pacifique."
 ---
-
-
-
 ![Image de Maori](https://upload.wikimedia.org/wikipedia/commons/e/e3/MAP_Expo_Maori_Hame%C3%A7on_13012012_1.jpg)
 
 ###### Questions

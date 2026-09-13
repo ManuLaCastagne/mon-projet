@@ -20,8 +20,9 @@ indice_6 :
   - habitats
 questions:
  - Michel Klein. Illustrée par une musique de Daniel Faure et Jean Musy, je suis célèbre pour mon générique en dessin animé montrant des pingouins, un lion et un toucan.
+culture_g_score: 60
+culture_g_justification: "Documentaire animalier historique et populaire, intéressant pour la télévision française, Frédéric Rossif, Vangelis et la conservation."
 ---
-
 ![Image de Les Animaux du monde](https://upload.wikimedia.org/wikipedia/commons/b/bd/Les_animaux_du_Jardin_des_Plantes_faisant_queue_comme_tout_le_monde_pour_avoir_leur_viande%2C_from_Album_du_Si%C3%A9ge_-_Vanderbilt_Fine_Arts_Gallery_-_1999.172aa.tif)
 
 ###### Questions

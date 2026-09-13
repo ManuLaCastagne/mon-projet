@@ -22,8 +22,9 @@ indice_6 :
   - Ancien dentiste
 questions:
  - Chanteur français né en 1984, dentiste de formation. J'ai été finaliste, en 2014, de "The Voice". Je détiens le record du nombre de points marqués pour la France à l'Eurovision...
+culture_g_score: 47
+culture_g_justification: "Amir est une personnalité récente de la chanson française, surtout interrogée à propos de The Voice et de l’Eurovision."
 ---
-
 ![Image de Amir](https://upload.wikimedia.org/wikipedia/commons/1/1f/Prokudin-Gorskii-19-v2.png)
 
 ###### Questions

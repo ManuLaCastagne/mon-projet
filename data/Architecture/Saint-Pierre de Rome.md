@@ -20,8 +20,9 @@ indice_5:
   - Coupole de Brunelleschi
 indice_6:
   - Bernin
+culture_g_score: 100
+culture_g_justification: "Monument religieux et artistique absolument incontournable, relié au Vatican, à la papauté, à Michel-Ange, au Bernin et à la Renaissance."
 ---
-
 ![Image de Saint-Pierre de Rome](https://upload.wikimedia.org/wikipedia/commons/3/36/Saint_Peter%27s_Basilica%2C_Sant%27Angelo_bridge%2C_by_night%2C_Rome%2C_Italy.jpg)
 
 ###### Questions

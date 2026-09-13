@@ -20,8 +20,9 @@ indice_6 :
   - éducation
 questions:
  - Dans quelle série française, créée en 1993, Gérard Klein...
+culture_g_score: 73
+culture_g_justification: "Série française populaire et durable, associée à Gérard Klein, à Victor Novak et à des thèmes sociaux facilement interrogés."
 ---
-
 ![Image de L'Instit](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_New_School_Teacher_%281924%29_title_card.jpg)
 
 ###### Questions

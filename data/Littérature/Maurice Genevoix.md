@@ -21,8 +21,9 @@ indice_6:
   - Nature et guerre
 questions:
   - Evoquant mon expérience des tranchées dans les 5 volumes de "Ceux de 14", j'ai également publié "Forêt voisine", "Tendre bestiaire" et "Raboliot", couronné du Goncourt en 1925...
+culture_g_score: 80
+culture_g_justification: "Écrivain associé à la Première Guerre mondiale, au prix Goncourt, à l’Académie française et à son entrée récente au Panthéon."
 ---
-
 ![Image de Maurice Genevoix](https://upload.wikimedia.org/wikipedia/commons/7/77/Maurice_Genevoix_072.jpg)
 
 ###### Questions

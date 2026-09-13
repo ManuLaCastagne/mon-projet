@@ -25,8 +25,9 @@ indice_6 :
   - 50 kilomètres de Paris
 questions:
  - Commune ayant été la 1re ville d'Ile-de-France à recevoir le label Ville d'art et d'histoire, j'ai conservé des remparts gallo-romains.  Célèbre pour ma cathédrale gothique Saint-Etienne où repose Bossuet, j'abrite dans mon ancien palais épiscopal un musée principalement consacré...
+culture_g_score: 44
+culture_g_justification: "Ville francilienne surtout associée au brie, à la Marne et à sa cathédrale, avec une portée quiz limitée."
 ---
-
 ![Image de Meaux](https://upload.wikimedia.org/wikipedia/commons/3/3a/Meaux_140708_01.jpg)
 
 ![[Carte_Meaux.png]]

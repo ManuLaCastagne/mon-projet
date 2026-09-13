@@ -18,9 +18,9 @@ indice_6 :
   - fils d'Astréos et d'Éos
 questions:
  - Citée par Homère avec Borée, le vent du nord, et opposée à l'aquilon dans la fable "Le chêne et le roseau", j'ai donné mon nom à un vent...
+culture_g_score: 60
+culture_g_justification: "Zéphyr est un repère classique pour le vent d'ouest, la mythologie grecque et la peinture de la Renaissance, sans être une figure majeure."
 ---
-
-
 ![Image de Zéphyr](https://upload.wikimedia.org/wikipedia/commons/4/4d/Latitude_Zephyr_rendering_4.jpg)
 
 ###### Questions

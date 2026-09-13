@@ -25,8 +25,9 @@ indice_6 :
   - Pas-de-Calais
 questions:
  - Quel fleuve côtier français, passant à Saint-Omer et se jetant dans la mer du Nord...
+culture_g_score: 40
+culture_g_justification: "Cours d'eau français original par son nom, mais peu connu et rarement mobilisé hors de questions géographiques spécialisées."
 ---
-
 ![Image de Aa (fleuve)](https://upload.wikimedia.org/wikipedia/commons/9/9f/Aa_%28fleuve%29.png)
 
 ![[Carte_Aa (fleuve).png]]

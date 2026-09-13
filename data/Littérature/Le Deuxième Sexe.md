@@ -22,8 +22,9 @@ indice_6 :
   - condition féminine
 questions:
  - Traduit en anglais en 1953, c'est aux Etats-Unis que je gagnerai mon statut de livre fondateur du féminisme...
+culture_g_score: 92
+culture_g_justification: "Essai fondateur de Simone de Beauvoir, central pour le féminisme, la philosophie, la sociologie et l’histoire intellectuelle contemporaine."
 ---
-
 ![Image de Le Deuxième Sexe](https://upload.wikimedia.org/wikipedia/commons/9/99/Le_deuxi%C3%A8me_sexe.jpg)
 
 ###### Questions

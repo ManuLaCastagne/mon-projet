@@ -15,8 +15,9 @@ indice_6 :
   - Confiture et compote
 questions:
  - Récolté en automne et ayant plus ou moins la forme d'une poire, je présente, sous ma peau duveteuse de couleur jaune d'or…
+culture_g_score: 52
+culture_g_justification: "Fruit ancien lié à la cuisine, à la mythologie et à l’étymologie, mais moins fréquent que les principaux fruits cultivés."
 ---
-
 ![Image de Coing](https://upload.wikimedia.org/wikipedia/commons/e/e9/Coing_novembre.jpg)
 
 ###### Questions

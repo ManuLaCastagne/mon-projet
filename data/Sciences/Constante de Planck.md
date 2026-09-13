@@ -20,8 +20,9 @@ indice_6 :
   - Fréquence
 questions:
  - Quelle constante est exprimée par la lettre "h" qui exprime le seuil d'énergie minimum pouvant être mesuré sur une particule ?
+culture_g_score: 84
+culture_g_justification: "La constante de Planck est un repère fondamental de la physique quantique, régulièrement associée à Planck, aux photons et au rayonnement."
 ---
-
 ![Image de Constante de Planck](https://upload.wikimedia.org/wikipedia/commons/d/d3/LL-Q150_%28fra%29-WikiLucas00-constante_de_Planck_r%C3%A9duite.wav)
 
 ###### Questions

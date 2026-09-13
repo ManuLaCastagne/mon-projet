@@ -20,7 +20,8 @@ indice_6 :
   - Préamplificateur
 questions:
  - En 1936, quel appareil électroacoustique Jean Sablon a-t-il été le 1er en France à utiliser ?
-culture_g_score: 68
+culture_g_score: 85
+culture_g_justification: "Objet universel lié au téléphone, à la radio, à l’enregistrement, au spectacle et aux technologies de communication."
 ---
 ![Image de Microphone](https://upload.wikimedia.org/wikipedia/commons/8/80/Patti_Smith_performing_in_Finland%2C_2007.jpg)
 

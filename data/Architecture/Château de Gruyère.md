@@ -23,8 +23,9 @@ indice_6 :
   - musée historique
 questions:
  - Quel château des Préalpes fribourgeoises, en Suisse, rappelle, par son nom, un célèbre fromage ?
+culture_g_score: 47
+culture_g_justification: "Château suisse connu régionalement et lié à plusieurs artistes, mais son rendement reste faible pour la culture générale large."
 ---
-
 ![Image de Château de Gruyère](https://upload.wikimedia.org/wikipedia/commons/1/1f/12_Chateau_de_Gruy%C3%A8res_Photo_by_Giles_Laurent.jpg)
 
 ###### Questions

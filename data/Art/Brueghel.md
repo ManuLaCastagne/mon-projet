@@ -19,8 +19,9 @@ indice_5:
   - Art de la Renaissance
 indice_6:
   - Pays-Bas du XVIe siècle
+culture_g_score: 84
+culture_g_justification: "Pieter Brueghel l’Ancien est une figure majeure de la Renaissance nordique, associée à plusieurs tableaux célèbres et à l’histoire européenne."
 ---
-
 ![Image de Brueghel](https://upload.wikimedia.org/wikipedia/commons/5/5d/Fresque_d%27apr%C3%A8s_Pieter_Brueghel_l%27Ancien_%28Rekkem%29_%285%29.JPG)
 
 ###### Questions

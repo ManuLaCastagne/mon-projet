@@ -20,8 +20,9 @@ indice_6:
   - Pump track
 questions:
   - Quelle expression, faisant référence à un Etat américain, utilise-t-on pour désigner le saut en hauteur ventral, avant le fosbury-flop ?
+culture_g_score: 24
+culture_g_justification: "Ancienne technique de saut en hauteur, aujourd’hui largement éclipsée par le Fosbury-flop et rarement demandée en culture générale."
 ---
-
 ![Image de Saut californien](https://upload.wikimedia.org/wikipedia/commons/5/5b/Passet_%28vainqueur_du_saut_en_hauteur_%C3%A0_la_Croix-Catelan%2C_12-6-13%2C_r%C3%A9union_sportive_en_l%27honneur_des_scouts_californiens_en_visite_%C3%A0_Paris%29_-_btv1b6925627p.jpg)
 
 ###### Questions

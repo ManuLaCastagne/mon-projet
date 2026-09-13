@@ -23,8 +23,9 @@ indice_6 :
   - couleurs vives
 questions:
  - Qui est ce photographe britannique, représenté ici en 1997, tenant l'une de ses oeuvres, qui est célèbre pour des photos de ses compatriotes ou de touristes empreintes d'humour et de dérision?
+culture_g_score: 51
+culture_g_justification: "Photographe contemporain important pour la photographie documentaire et Magnum, mais encore peu incontournable dans les quiz généralistes."
 ---
-
 ![Image de Martin Parr](https://upload.wikimedia.org/wikipedia/commons/f/ff/Martin-Parr_rennes2010.jpg)
 
 ###### Questions

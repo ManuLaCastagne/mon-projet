@@ -22,9 +22,9 @@ indice_6 :
   - Ben et le caméraman
 questions:
  - En 1992, dans quelle comédie d'humour noir parodique sur la violence Benoît Poelvoorde incarne-t-il un tueur ?
+culture_g_score: 77
+culture_g_justification: "Film culte du cinéma belge et du faux documentaire, régulièrement cité pour Benoît Poelvoorde, son humour noir et son approche controversée des médias."
 ---
-
-
 ![Image de C'est arrivé près de chez vous](https://upload.wikimedia.org/wikipedia/commons/9/9e/Camera_crew_of_the_Dutch_tv_program_Man_bites_dog.JPG)
 
 ###### Questions

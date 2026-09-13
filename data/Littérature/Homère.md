@@ -22,8 +22,9 @@ indice_6 :
   - Troie
 questions:
  - Auteur dont Chateaubriand a comparé l'oeuvre à la Bible dans le "Génie du christianisme". Alexandre le Grand emporta mes 2 ouvrages lorsqu'il partit en campagne. Né probablement à Smyrne, je serais, selon la tradition...
+culture_g_score: 100
+culture_g_justification: "Figure fondatrice de la littérature occidentale, incontournable pour l'Iliade, l'Odyssée, la guerre de Troie et la mythologie grecque."
 ---
-
 ![Image de Homère](https://upload.wikimedia.org/wikipedia/commons/3/36/Rue_Hom%C3%A8re_Robert_-_Villeneuve-la-Garenne_%28FR92%29_-_2024-04-04_-_2.jpg)
 
 ###### Questions

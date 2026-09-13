@@ -24,8 +24,9 @@ indice_6 :
   - Marché de Ballarò
 questions:
  - Je m'étends sur la côte  d'une île entre Trapani et Cefalù au fond d'un golfe donnant sur la mer Tyrrhénienne.
+culture_g_score: 72
+culture_g_justification: "Grande ville méditerranéenne permettant des questions sur la Sicile, les civilisations phénicienne et normande, la mafia et le patrimoine."
 ---
-
 ![Image de Palerme](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gina_Palerme_by_Bassano.jpg)
 
 ![[Carte_Palerme.png]]

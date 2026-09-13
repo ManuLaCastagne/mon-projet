@@ -22,8 +22,9 @@ indice_6 :
   - Raffles Hotel
 questions:
  - Quelle ville, capitale d'un Etat insulaire d'Asie du Sud-Est, porte un nom signifiant cité du lion?
+culture_g_score: 84
+culture_g_justification: "Cité-État très rentable à apprendre grâce à son économie, son histoire, son urbanisme, son port et sa géopolitique."
 ---
-
 ![Image de Singapour](https://upload.wikimedia.org/wikipedia/commons/d/db/Sri_Mariamman_Temple_Singapore_3_amk.jpg)
 
 ![[Carte_Singapour.png]]

@@ -20,8 +20,9 @@ indice_5:
   - mystères religieux
 indice_6:
   - cryptex
+culture_g_score: 64
+culture_g_justification: "Film à immense succès lié à Dan Brown, Tom Hanks et aux controverses religieuses, mais d'importance artistique limitée."
 ---
-
 ![Image de Da Vinci Code](https://upload.wikimedia.org/wikipedia/commons/9/97/Rome_%28Italy%29%2C_Shop_--_2013_--_3802.jpg)
 
 ###### Questions

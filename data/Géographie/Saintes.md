@@ -24,9 +24,9 @@ indice_6 :
   - Abbaye aux Dames
 questions:
  - Quelle commune de la Charente-Maritime abrite l'arc de triomphe dit de Germanicus et un amphithéâtre romain?
+culture_g_score: 40
+culture_g_justification: "Ville française connue surtout pour quelques vestiges romains et son patrimoine local."
 ---
-
-
 ![Image de Saintes](https://upload.wikimedia.org/wikipedia/commons/e/e7/Saint_Peter%27s_Cathedral_of_Saintes_-_2.jpg)
 
 ![[Carte_Saintes.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - film de 1989
 questions:
  - En 1989, dans quel thriller de Philip Noyce Nicole Kidman et Sam Neill en croisière sur l'océan doivent affronter un psycopathe ?
+culture_g_score: 44
+culture_g_justification: "Thriller maritime apprécié mais relativement discret, qui fournit surtout quelques questions sur Phillip Noyce, Nicole Kidman et son intrigue."
 ---
-
 ![Image de Calme blanc](https://upload.wikimedia.org/wikipedia/commons/7/71/Dead_Calm-_Boats_off_Cowes_Castle_RMG_BHC1154.tiff)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Camillo Cavour
 questions:
  - Quel terme italien, signifiant renaissance, désigne le mouvement idéologique et politique qui, au XIXe siècle, prônait l'unification de l'Italie ?
+culture_g_score: 76
+culture_g_justification: "Processus essentiel de l’histoire italienne, reliant Garibaldi, Mazzini, les États européens et la formation de l’Italie."
 ---
-
 ![Image de Risorgimento](https://upload.wikimedia.org/wikipedia/commons/d/db/C._1870_Unification_of_Italy.jpg)
 
 ###### Questions

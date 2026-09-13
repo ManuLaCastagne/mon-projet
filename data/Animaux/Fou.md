@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de maladresse
 questions:
  - De quel oiseau marin l'espèce la plus connue est dite de Bassan ?
+culture_g_score: 40
+culture_g_justification: "Le fou désignant un oiseau marin est surtout rencontré à travers le fou de Bassan, avec une portée quiz limitée."
 ---
-
 ![Image de Fou](https://upload.wikimedia.org/wikipedia/commons/b/ba/Fou_used_on_2008_Beijing_Olympics_opening_ceremony%2C_MIM_PHX.jpg)
 
 ###### Questions

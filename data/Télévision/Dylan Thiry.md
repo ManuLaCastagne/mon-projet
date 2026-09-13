@@ -19,8 +19,9 @@ indice_5 :
   - projets humanitaires en Afrique
 indice_6 : 
   - cheveux longs blonds
+culture_g_score: 24
+culture_g_justification: "Candidat de téléréalité connu pour quelques faits médiatiques, mais très peu rentable au-delà de cet univers."
 ---
-
 ![Image de Dylan Thiry]()
 
 ###### Questions

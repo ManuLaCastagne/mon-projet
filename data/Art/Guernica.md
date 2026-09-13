@@ -23,8 +23,9 @@ indice_6 :
   - monochromatique en noir et blanc
 questions:
  - Quelle toile monumentale de 1937 a été inspirée à Pablo Picasso par la destruction par l'aviation allemande...
+culture_g_score: 100
+culture_g_justification: "Guernica est une œuvre absolument incontournable, à la croisée de Picasso, de la guerre civile espagnole, de l’art moderne et de la dénonciation de la guerre."
 ---
-
 ![Image de Guernica](https://upload.wikimedia.org/wikipedia/commons/e/eb/Guernica_Gernikara_np.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - Palme d'or 1976
 indice_6 : 
   - film néo-noir
+culture_g_score: 97
+culture_g_justification: "Classique mondial du cinéma, très fréquent en quiz grâce à Scorsese, De Niro, ses répliques et son influence culturelle."
 ---
-
 ![Image de Taxi Driver](https://upload.wikimedia.org/wikipedia/commons/e/e8/Taxi_Driver_logo.svg)
 
 ###### Questions

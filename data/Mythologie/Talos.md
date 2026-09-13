@@ -18,8 +18,9 @@ indice_6 :
   - vulnérable à la cheville
 questions:
  - Dans la [[mythologie grecque]], quelle gigantesque créature de bronze est un automate chargé de garder la Crète?
+culture_g_score: 40
+culture_g_justification: "Le géant de bronze Talos fournit quelques questions sur la Crète, les Argonautes et les automates, sans être une figure mythologique centrale."
 ---
-
 ![Image de Talos](https://upload.wikimedia.org/wikipedia/commons/6/68/Rim_8_talos_missle_udvar_hazy_20040710_150926_1.jpg)
 
 ###### Questions

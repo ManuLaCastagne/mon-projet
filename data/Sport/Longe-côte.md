@@ -20,8 +20,9 @@ indice_6 :
   - Côte d'Opale
 questions:
  - Quel mot, formé sur le verbe longer, désigne la pratique sportive consistant à marcher en milieu aquatique en étant immergé au minimum au-dessus de la taille ?
+culture_g_score: 32
+culture_g_justification: "Sport de loisir français récent, identifiable mais rarement demandé dans les quiz généralistes et peu transversal."
 ---
-
 ![Image de Longe-côte](https://upload.wikimedia.org/wikipedia/commons/b/b9/LL-Q150_%28fra%29-WikiLucas00-longe-c%C3%B4te.wav)
 
 ###### Questions

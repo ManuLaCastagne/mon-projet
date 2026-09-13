@@ -20,8 +20,9 @@ indice_6 :
   - capitaine du Golden Hind
 questions:
  - Corsaire anglais fait vice-amiral par la reine Elisabeth Ire, en 1587, j'entre dans la rade de Cadiz et y détruis la flotte espagnole.  Ayant accompli le 2e tour du monde après Fernando de Magellan, je suis…
+culture_g_score: 80
+culture_g_justification: "Navigateur, corsaire et acteur de la défaite de l’Armada, il ouvre plusieurs angles sur les explorations et l’histoire anglaise."
 ---
-
 ![Image de Francis Drake](https://upload.wikimedia.org/wikipedia/commons/a/a9/1583_portrait_of_Sir_Francis_Drake.jpg)
 
 ###### Questions

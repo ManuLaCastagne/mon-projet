@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour ses baies riches en vitamines
 questions:
  - Quel arbrisseau épineux  au feuillage argenté, également appelé faux nerprun, pousse notamment sur les dunes du littoral de la Manche et de la mer du Nord?
+culture_g_score: 31
+culture_g_justification: "Arbuste aux fruits riches en vitamine C, mais référence peu fréquente et principalement limitée à la botanique ou à la phytothérapie."
 ---
-
 ![Image de Argousier](https://upload.wikimedia.org/wikipedia/commons/3/3e/2020_year._Herbarium._Hippophae_rhamnoides._img-016.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - entraîneur-chef
 questions:
  - J'ai été sacré champion de France en tant que joueur puis comme entraîneur du Stade Français. Entraîneur de Montpellier entre 2010 et 2014...
+culture_g_score: 77
+culture_g_justification: "Figure majeure du rugby français comme joueur et sélectionneur, il permet des questions sur les clubs, le XV de France et les compétitions."
 ---
-
 ![Image de Fabien Galthié](https://upload.wikimedia.org/wikipedia/commons/2/2f/Fabien_Galthi%C3%A9_Feb_2023.jpg)
 
 ###### Questions

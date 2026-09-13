@@ -20,8 +20,9 @@ indice_6 :
   - Piscine olympique
 questions:
  - Equipement sportif désigné par un mot composé, je suis conseillé lors des mouvements la tête en bas. Ajustable...
+culture_g_score: 24
+culture_g_justification: "Accessoire banal mais rarement traité comme une référence autonome de culture sportive générale."
 ---
-
 ![Image de Pince-nez](https://upload.wikimedia.org/wikipedia/commons/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg)
 
 ###### Questions

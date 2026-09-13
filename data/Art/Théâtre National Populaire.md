@@ -21,8 +21,9 @@ indice_5 :
   - Renaud-Barrault
 indice_6 : 
   - théâtre accessible
+culture_g_score: 67
+culture_g_justification: "Institution théâtrale majeure de la décentralisation culturelle française, régulièrement liée à Jean Vilar, Avignon et l’histoire du théâtre public."
 ---
-
 ![Image de Théâtre National Populaire](https://upload.wikimedia.org/wikipedia/commons/a/af/TNP_renove_2011.JPG)
 
 ###### Questions

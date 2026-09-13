@@ -18,9 +18,9 @@ indice_5:
   - Mémoire effacée
 indice_6:
   - Histoire d'amour
+culture_g_score: 80
+culture_g_justification: "Film culte et original, très rentable pour interroger Michel Gondry, Charlie Kaufman, Jim Carrey, la mémoire et le scénario oscarisé."
 ---
-
-
 ![[Pasted image 20250503090808.png]]
 ###### Questions
 

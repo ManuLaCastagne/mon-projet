@@ -20,8 +20,9 @@ indice_6 :
   - Grand Chelem
 questions:
  - Quel ancien mousquetaire  du tennis français, triple vainqueur du tournoi de Roland-Garros, est connu pour avoir créé...
+culture_g_score: 72
+culture_g_justification: "Henri Lacoste, le tennisman des Mousquetaires et fondateur de la marque, permet des questions sportives, entrepreneuriales et culturelles, malgré un contexte fourni incohérent."
 ---
-
 ![Image de Henri Lacoste](https://upload.wikimedia.org/wikipedia/commons/c/c0/%C3%89mile-Henri_Brunner-Lacoste_-_Huile_sur_panneau.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Croix gammée
 indice_6 : 
   - Seconde Guerre mondiale
+culture_g_score: 97
+culture_g_justification: "Le parti nazi est une référence absolument incontournable pour les quiz sur Hitler, la Shoah, la Seconde Guerre mondiale et le totalitarisme."
 ---
-
 ![Image de Parti National-Socialiste](https://upload.wikimedia.org/wikipedia/commons/a/a3/Flag_of_the_Parti_National_Social_Chr%C3%A9tien.svg)
 
 ###### Questions

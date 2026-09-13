@@ -22,10 +22,9 @@ indice_6 :
   - jambes assurées pour 500 000 francs
 questions:
  - En 1933, dans la chanson "C'est vrai", quelle vedette du music-hall dresse son autoportrait en reprenant les propos que les gens tiennent sur elle?
+culture_g_score: 80
+culture_g_justification: "Icône du music-hall français, associée au Moulin-Rouge, au French cancan, à « Mon Homme » et à de nombreuses anecdotes célèbres."
 ---
-
-
-
 ![Image de Mistinguett](https://upload.wikimedia.org/wikipedia/commons/e/e6/Mistinguett_by_Nadar.jpg)
 
 ###### Questions

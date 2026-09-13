@@ -20,8 +20,9 @@ indice_6 :
   - assassiné en 1890
 questions:
  - Quel surnom, signifiant en anglais taureau assis, a-t-on donné au chef des Sioux du Dakota au XIXe siècle, de son nom Tatanka Iyotake ?
+culture_g_score: 68
+culture_g_justification: "Chef lakota emblématique, principalement interrogé à propos de Little Bighorn, de la résistance amérindienne et de la conquête de l’Ouest."
 ---
-
 ![Image de Sitting Bull](https://upload.wikimedia.org/wikipedia/commons/a/a9/Sitting_Bull_-_edit2.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - rural
 questions:
  - Quel nom donne-t-on aux habitations des paysans russes, construites à l'aide de rondins de bois de sapin?
+culture_g_score: 40
+culture_g_justification: "L’isba est un élément culturel russe identifiable, mais son emploi en quiz généraliste demeure occasionnel et concentré sur l’architecture vernaculaire."
 ---
-
 ![Image de Isbas](https://upload.wikimedia.org/wikipedia/commons/5/59/ISBA_Freiburg_Internationale_Studien-_und_Berufsakademie.jpg)
 
 ###### Questions

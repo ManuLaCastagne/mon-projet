@@ -22,8 +22,9 @@ indice_6 :
   - Sean Penn
 questions:
  - En 1999, quel film réalisé par Terence Malik avec Sean Penn et George Clooney évoque la bataille de Guadalcanal en 1942 ?
+culture_g_score: 64
+culture_g_justification: "Film de guerre ambitieux de Malick, utile pour Guadalcanal, la littérature et les Oscars, mais moins connu du grand public que les classiques du genre."
 ---
-
 ![Image de La Ligne rouge](https://upload.wikimedia.org/wikipedia/commons/b/b9/H._Piffard_-_The_Thin_Red_Line_-_restoration.jpg)
 
 ###### Questions

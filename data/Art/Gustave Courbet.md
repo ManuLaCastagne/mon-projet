@@ -23,9 +23,9 @@ indice_6 :
   - expositions controversées
 questions:
  - En 1854, à quel peintre français chef de file du mouvement réaliste doit-on "Les Cribleuses de blé" ?
+culture_g_score: 84
+culture_g_justification: "Courbet permet des questions fréquentes sur le réalisme, L’Origine du monde, la Commune, la peinture sociale et les rapports avec l’Académie."
 ---
-
-
 ![Image de Gustave Courbet](https://upload.wikimedia.org/wikipedia/commons/a/a0/Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg)
 
 ###### Questions

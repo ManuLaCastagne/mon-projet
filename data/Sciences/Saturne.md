@@ -20,9 +20,9 @@ indice_6 :
   - Sixième planète du Système solaire
 questions:
  - De quelle planète Sciences/Titan est-il l'un des satellites ?
+culture_g_score: 100
+culture_g_justification: "Planète universellement connue et très fréquente, ouvrant sur l'astronomie, ses anneaux, ses lunes, la conquête spatiale et la mythologie."
 ---
-
-
 ![Image de Saturne](https://upload.wikimedia.org/wikipedia/commons/b/b7/Hans_Baldung_Grien_-_Head_of_a_Bearded_Old_Man_%28%22Saturn%22%29%2C_1516_-_Google_Art_Project.jpg)
 
 ###### Questions

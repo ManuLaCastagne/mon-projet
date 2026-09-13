@@ -23,8 +23,9 @@ indice_6 :
   - Illustrateur des Heures d'Étienne Chevalier
 questions:
  - En 1475, quel célèbre peintre et enlumineur devient peintre du roi Louis XI?
+culture_g_score: 47
+culture_g_justification: "Fouquet est un peintre et enlumineur majeur de la Renaissance française, mais principalement mobilisé dans des questions d’histoire de l’art."
 ---
-
 ![Image de Jean Fouquet](https://upload.wikimedia.org/wikipedia/commons/5/51/Jean_Fouquet.png)
 
 ###### Questions

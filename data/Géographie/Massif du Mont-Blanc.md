@@ -24,19 +24,17 @@ indice_6 :
   - Alpes françaises
 questions:
  - Traversé par un tunnel routier long de 11,6 km entre Chamonix et la ville italienne de Courmayeur, j'abrite notamment l'aiguille du Midi, les Grandes Jorasses et la Mer de Glace.
+culture_g_score: 88
+culture_g_justification: "Le massif du Mont-Blanc renvoie à un sommet emblématique, à l'alpinisme, aux frontières et à de nombreux repères géographiques."
 ---
+
 
 ![Image de Massif du Mont-Blanc](https://upload.wikimedia.org/wikipedia/commons/c/c5/Massif_du_Mont-Blanc_from_Lac_de_Joux_Plane_03.jpg)
 
 ![[Carte_Massif du Mont-Blanc.png]]
 ###### Questions
 
-Quel est le lieu où a été créé en 1954 le premier [[Parc National]] de France dédié à la protection du [[Milieu Alpin]] ?
-
-Quelle région abrite le tunnel international, intitulé [[Tunnel du Mont-Blanc]], inauguré en 1965, reliant la France à l'[[Italie]] ?
-
 Quel massif fut le théâtre de la première traversée en [[dirigeable]] de [[Fernand Jacquet]] en 1906 ?
-
 ###### Description
 
 Le [[Massif du Mont-Blanc]], situé dans les [[Alpes]], s'étend à travers trois pays : la France, l'[[Italie]] et la [[Suisse]]. 

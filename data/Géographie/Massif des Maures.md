@@ -23,8 +23,9 @@ questions:
 latitude: 43.275764
 longitude: 6.336419
 location: 43.275764,6.336419
+culture_g_score: 40
+culture_g_justification: "Massif provençal intéressant pour sa végétation et ses paysages, mais peu présent dans les quiz nationaux."
 ---
-
 ![Image de Massif des Maures](https://upload.wikimedia.org/wikipedia/commons/7/7d/Massif-des-Maures-3.JPG)
 
 ###### Questions

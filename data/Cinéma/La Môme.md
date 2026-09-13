@@ -18,8 +18,9 @@ indice_5 :
   - La Vie en rose
 indice_6 : 
   - Paris
+culture_g_score: 80
+culture_g_justification: "Biopic très connu d'Édith Piaf, régulièrement questionné grâce à Marion Cotillard, aux Oscars, à la chanson française et au cinéma français."
 ---
-
 ![Image de La Môme](https://upload.wikimedia.org/wikipedia/commons/7/77/La_m%C3%B4me_moineau.jpg)
 
 ###### Questions

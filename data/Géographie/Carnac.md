@@ -25,8 +25,9 @@ indice_6 :
   - préhistoire
 questions:
  - Dans quelle commune du Morbihan, proche de la baie de Quiberon, peut-on admirer le tumulus Saint-Michel, haut de 12 m?
+culture_g_score: 77
+culture_g_justification: "Site mégalithique français incontournable, ouvrant des questions sur la Préhistoire, les menhirs, la Bretagne et l’archéologie."
 ---
-
 ![Image de Carnac](https://upload.wikimedia.org/wikipedia/commons/2/21/Carnac.jpg)
 
 ![[Carte_Carnac.png]]

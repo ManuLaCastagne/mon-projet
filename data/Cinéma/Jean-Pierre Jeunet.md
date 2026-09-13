@@ -20,8 +20,9 @@ indice_5 :
   - Cinéma français
 indice_6 : 
   - réalisateur
+culture_g_score: 80
+culture_g_justification: "Réalisateur associé à Amélie, Delicatessen et Alien, la Résurrection, offrant des repères fréquents sur plusieurs cinémas."
 ---
-
 ![Image de Jean-Pierre Jeunet](https://upload.wikimedia.org/wikipedia/commons/4/48/Jean-Pierre_Jeunet_M%C3%BCnchen_2014_%28cropped%29.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Grand Chelem 1981
 questions:
  - Quel ancien demi de mêlée de rugby, capitaine du XV de France ayant  réalisé le Grand chelem en 1977, fut surnommé Le Petit Caporal?
+culture_g_score: 60
+culture_g_justification: "Capitaine et sélectionneur marquant du rugby français, Fouroux peut être interrogé sur plusieurs périodes mais reste un sujet de niche."
 ---
-
 ![Image de Jacques Fouroux](https://upload.wikimedia.org/wikipedia/commons/5/5f/Jacques_Fouroux_%281971%2C_La_Voulte%29.jpg)
 
 ###### Questions

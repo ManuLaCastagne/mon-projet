@@ -22,14 +22,15 @@ indice_6 :
   - liberté et poésie
 questions:
  - Compositeur et parolier d'Edith Piaf, Barbara et Serge Reggiani, pour lesquels j'ai écrit respectivement "Milord", "La Dame brune" et "Ma solitude", je me suis imposé comme interprète dans les années 70 avec "Le Temps de vivre" et "Joseph". Auteur du "Métèque"...
+culture_g_score: 60
+culture_g_justification: "Figure reconnue de la chanson française, mais moins incontournable que les grandes vedettes et surtout interrogée sur quelques chansons et collaborations."
 ---
-
 
 ![Image de George Moustaki](https://upload.wikimedia.org/wikipedia/commons/0/01/Georges_Moustaki%2C_Bestanddeelnr_927-0097.jpg)
 
 ###### Questions
 
-Quel célèbre auteur-compositeur-interprète d'origine [[grecque]] a écrit la célèbre chanson "[[Milord]]" pour [[Édith Piaf]] en 1959 ? <!-- score: 3 -->
+Quel célèbre auteur-compositeur-interprète d'origine [[grecque]] a écrit la célèbre chanson "[[Milord]]" pour [[Édith Piaf]] en 1959 ? <!-- score: 2 -->
 
 Qui a composé la musique et interprété le titre "[[Le Métèque]]" sorti en 1969 ? 
 

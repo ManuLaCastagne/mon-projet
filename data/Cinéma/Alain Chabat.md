@@ -19,8 +19,9 @@ indice_5:
   - RRRrrrr!!!
 indice_6:
   - La Cité de la peur
+culture_g_score: 80
+culture_g_justification: "Figure majeure de l'humour et du cinéma français, liée aux Nuls, à Astérix, à Shrek et à plusieurs films cultes."
 ---
-
 ![Image de Alain Chabat](https://upload.wikimedia.org/wikipedia/commons/e/e7/AlainChabat2006.jpg)
 
 ###### Questions

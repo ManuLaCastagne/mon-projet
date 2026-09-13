@@ -22,8 +22,9 @@ indice_6:
   - passerelles emblématiques
 questions:
   - Sur les bords de quel canal, reliant le canal de l'Ourcq à la Seine se trouve…
+culture_g_score: 52
+culture_g_justification: "Lieu emblématique de Paris, mais moins incontournable que les grands monuments et généralement interrogé dans des questions locales."
 ---
-
 ![Image de Canal Saint-Martin](https://upload.wikimedia.org/wikipedia/commons/d/d2/Paris_Canal_St-Martin_%C3%A9cluses_R%C3%A9collets_2013.jpg)
 
 ![[Carte_Canal Saint-Martin.png]]

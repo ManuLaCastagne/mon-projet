@@ -3,6 +3,8 @@ tags:
   - Gastronomie
   - Royaume-Uni
   - France
+culture_g_score: 60
+culture_g_justification: "Fruit sec présent dans plusieurs cuisines et préparations, avec une fréquence correcte mais sans être incontournable."
 ---
 ###### Questions 
 

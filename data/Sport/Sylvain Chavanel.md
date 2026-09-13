@@ -20,8 +20,9 @@ indice_6 :
   - Record victoires étapes
 questions:
  - Quel cycliste français, 6 fois champion de France du contre-la-montre, a remporté 3 étapes du Tour de France dans sa carrière?
+culture_g_score: 44
+culture_g_justification: "Cycliste français respecté et recordman du Tour, mais personnalité surtout connue des amateurs de cyclisme."
 ---
-
 ![Image de Sylvain Chavanel](https://upload.wikimedia.org/wikipedia/commons/3/3e/Sylvain_Chavanel_2009.jpg)
 
 ###### Questions

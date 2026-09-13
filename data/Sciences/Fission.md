@@ -20,8 +20,9 @@ indice_6 :
   - Bombardement neutronique
 questions:
  - Phénomène découvert pour un élément chimique particulier par Otto Hahn et Fritz Strassmann en 1938, je suis rarement spontané. Entraînant un dégagement d'énergie considérable, ce qui initie une réaction en chaîne, je peux être provoqué par le bombardement du noyau par des...
+culture_g_score: 84
+culture_g_justification: "Processus central pour comprendre l’arme nucléaire, les réacteurs, la physique atomique et l’histoire contemporaine."
 ---
-
 ![Image de Fission](https://upload.wikimedia.org/wikipedia/commons/9/9e/Nuclear_fission_illustration.svg)
 
 ###### Questions

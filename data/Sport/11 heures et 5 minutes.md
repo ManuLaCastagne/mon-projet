@@ -20,9 +20,9 @@ indice_6 :
   - Match légendaire
 questions:
  - En 2010, à Wimbledon, combien d'heures le match de tennis entre John Isner et Nicholas Mahut...
+culture_g_score: 57
+culture_g_justification: "Durée associée à des records sportifs célèbres, mais connaissance chiffrée assez précise et peu réutilisable."
 ---
-
-
 ![Image de 11 heures et 5 minutes](https://upload.wikimedia.org/wikipedia/commons/7/74/%22G%C3%A9o%22_Michel%2C_premier_Fran%C3%A7ais_%C3%A0_traverser_la_Manche%2C_en_1926_en_11_heures_et_5_minutes_%28record_%C3%A0_l%27%C3%A9poque_%C3%A0_sa_onzi%C3%A8me_tentative_depuis_le_Cap_Gris-Nez%2C.jpg)
 
 ###### Questions

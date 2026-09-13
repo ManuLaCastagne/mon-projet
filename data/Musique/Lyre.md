@@ -22,9 +22,9 @@ indice_6 :
   - harpes anciennes
 questions:
  - De quel instrument de musique à cordes Apollon...
+culture_g_score: 72
+culture_g_justification: "Instrument fortement associé à la Grèce antique, à Apollon, aux Muses et à l'iconographie, offrant plusieurs angles classiques de culture générale."
 ---
-
-
 ![Image de Lyre](https://upload.wikimedia.org/wikipedia/commons/3/36/Heraldic_lyre_transparent.svg)
 
 ###### Questions

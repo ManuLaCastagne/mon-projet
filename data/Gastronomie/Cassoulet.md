@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1990
 date: 1999
+culture_g_score: 80
+culture_g_justification: "Grande spécialité française très connue, fréquemment associée au Sud-Ouest, à ses ingrédients et à son récipient traditionnel."
 ---
 ###### Questions 
 

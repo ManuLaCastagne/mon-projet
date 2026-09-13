@@ -23,8 +23,9 @@ indice_6 :
   - mystère de l'identité
 questions:
  - Quel portrait de femme de Léonard de Vinci doit l'un de ses titres à l'ornement garni d'un joyau au milieu que le modèle porte sur le front?
+culture_g_score: 68
+culture_g_justification: "Portrait de Léonard conservé au Louvre, La Belle Ferronnière bénéficie de la célébrité de son auteur mais reste moins incontournable que la Joconde."
 ---
-
 ![Image de La Belle Ferronnière](https://upload.wikimedia.org/wikipedia/commons/2/2b/La_belle_ferronni%C3%A8re%2CLeonardo_da_Vinci_-_Louvre.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - Every Breath You Take
 questions:
  - En 1980, quel groupe anglais rend hommage à l'astronaute Neil Armstrong dans la chanson "Walking on the Moon"?
+culture_g_score: 84
+culture_g_justification: "Groupe mondialement connu, associé à Sting, à plusieurs tubes et à une période essentielle du rock des années 1980."
 ---
-
-
 ![Image de The Police](https://upload.wikimedia.org/wikipedia/commons/5/51/The_Police_Amsterdam_ArenA_2.jpg)
 
 ###### Questions

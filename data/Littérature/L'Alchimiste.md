@@ -22,8 +22,9 @@ indice_6 :
   - désert égyptien
 questions:
  - En 1994, grâce à quel conte initiatique, racontant l'histoire d'un jeune Andalou parti à la recherche d'un trésor, Paulo Coelho connaît-il un succès international ?
+culture_g_score: 73
+culture_g_justification: "Best-seller mondial de Paulo Coelho, fréquemment cité pour son succès éditorial, son intrigue initiatique et ses thèmes spirituels."
 ---
-
 ![Image de L'Alchimiste](https://upload.wikimedia.org/wikipedia/commons/4/42/Helmont-Alchimiste.JPG)
 
 ###### Questions

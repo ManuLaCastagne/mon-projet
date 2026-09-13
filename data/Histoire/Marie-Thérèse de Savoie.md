@@ -18,8 +18,9 @@ indice_5 :
   - mère de Charles III
 indice_6 : 
   - exil en Suisse
+culture_g_score: 32
+culture_g_justification: "Princesse de Savoie historiquement réelle mais peu connue, souvent éclipsée par les souveraines portant un nom proche."
 ---
-
 ![Image de Marie-Thérèse de Savoie](https://upload.wikimedia.org/wikipedia/commons/c/c8/Drouais_-_Marie_Therese_de_Savoie%2C_comtesse_d%27Artois_-_Versailles.jpg)
 
 ###### Questions

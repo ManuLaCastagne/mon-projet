@@ -23,8 +23,9 @@ indice_6 :
   - Almanach du Cavalier bleu
 questions:
  - C'est un tableau intitulé "Vaches, rouge, vert, jaune" du peintre allemand Franz Marc en 1911. Quel mouvement artistique fonde-t-il avec Vassily Kandinsky ?
+culture_g_score: 76
+culture_g_justification: "Groupe clé de l’avant-garde et de l’abstraction, relié à Kandinsky, Marc, Munich et à l’almanach du Cavalier bleu."
 ---
-
 ![Image de Cavalier bleu](https://upload.wikimedia.org/wikipedia/commons/e/eb/Bouton_en_ivoire_grav%C3%A9_et_reperc%C3%A9_sur_fond_bleu_cavalier_dans_paysage%2C_B1667.jpg)
 
 ###### Questions

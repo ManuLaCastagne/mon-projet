@@ -19,8 +19,9 @@ indice_5 :
   - Ligue des Champions
 indice_6 : 
   - Al-Ittihad
+culture_g_score: 92
+culture_g_justification: "Star française du football mondial, présente dans de nombreuses questions sur le Real Madrid, les Bleus, le Ballon d’or et les controverses."
 ---
-
 ![Image de Karim Benzema](https://upload.wikimedia.org/wikipedia/commons/e/ec/Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg)
 
 ###### Questions

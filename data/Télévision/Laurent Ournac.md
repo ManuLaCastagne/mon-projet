@@ -18,8 +18,9 @@ indice_5 :
   - acteur français
 indice_6 : 
   - TF1
+culture_g_score: 44
+culture_g_justification: "Acteur populaire associé à quelques programmes télévisés, mais encore peu rentable hors de ces références précises."
 ---
-
 ![Image de Laurent Ournac](https://upload.wikimedia.org/wikipedia/commons/8/88/Laurent_Ournac_NRJ_Music_Awards.jpg)
 
 ###### Questions

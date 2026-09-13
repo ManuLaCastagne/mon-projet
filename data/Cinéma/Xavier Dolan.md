@@ -20,8 +20,9 @@ indice_5:
   - Collaboration avec Anne Dorval
 indice_6:
   - Prix du Jury à Cannes
+culture_g_score: 68
+culture_g_justification: "Réalisateur québécois très présent dans les quiz francophones grâce à Cannes, ses films, ses activités d'acteur et son lien avec Harry Potter."
 ---
-
 ![Image de Xavier Dolan](https://upload.wikimedia.org/wikipedia/commons/2/2e/Xavier_Dolan_Cannes_2016.jpg)
 
 ###### Questions

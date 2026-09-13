@@ -18,9 +18,9 @@ indice_5 :
   - Les Toqués
 indice_6 : 
   - télévision française
+culture_g_score: 73
+culture_g_justification: "Actrice populaire des séries françaises, régulièrement associée à Demain nous appartient, Dolmen et à son parcours télévisuel."
 ---
-
-
 ![Image de Ingrid Chauvin](https://upload.wikimedia.org/wikipedia/commons/f/fb/Ingrid_Chauvin.jpg)
 
 ###### Questions

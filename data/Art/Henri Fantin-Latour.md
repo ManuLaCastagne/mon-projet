@@ -23,9 +23,9 @@ indice_6 :
   - portraitiste de musiciens
 questions:
  - En 1870, quel peintre français  représente un groupe d'artistes de l'époque dont ont Edouard Manet et Auguste Renoir, sur son tableau "Un atelier aux Batignolles" ?
+culture_g_score: 47
+culture_g_justification: "Fantin-Latour est utile pour les natures mortes, les portraits d’artistes et la lithographie, mais reste peu présent dans les quiz généralistes."
 ---
-
-
 ![Image de Henri Fantin-Latour](https://upload.wikimedia.org/wikipedia/commons/9/91/Bemberg_Fondation_Toulouse_-_Self-portrait_paintings_by_Henri_Fantin-Latour.jpg)
 
 ###### Questions

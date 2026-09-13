@@ -20,8 +20,9 @@ indice_6 :
   - Kaiser Franz
 questions:
  - Quel ex-footballeur allemand fut surnommé le Kaiser...
+culture_g_score: 80
+culture_g_justification: "Figure majeure du football allemand, interrogée sur les Coupes du monde, le poste de libéro, le Ballon d'or et ses fonctions dirigeantes."
 ---
-
 ![Image de Franz Beckenbauer](https://upload.wikimedia.org/wikipedia/commons/f/f1/Placa_Huellas_de_Franz_Beckenbauer_A74277120241123.jpg)
 
 ###### Questions

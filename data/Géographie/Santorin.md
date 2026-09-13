@@ -25,8 +25,9 @@ indice_6 :
   - coucher de soleil
 questions:
  - Quelle île grecque de la Mer Egée fut détruite en -1600 par une éruption ?
+culture_g_score: 80
+culture_g_justification: "Île volcanique très célèbre, associée à la caldeira, à l’Atlantide et à un patrimoine touristique reconnaissable."
 ---
-
 ![Image de Santorin](https://upload.wikimedia.org/wikipedia/commons/7/7a/Rowing_boat_on_a_house_roof_-_Fira_-_Santorini_-_Greece_-_02.jpg)
 
 ![[Carte_Santorin.png]]

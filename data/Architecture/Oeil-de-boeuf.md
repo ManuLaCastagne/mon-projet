@@ -23,8 +23,9 @@ indice_6 :
   - XVIIIe siècle
 questions:
  - En architecture, quel mot composé, synonyme d'oculus, désigne une petite ouverture ?
+culture_g_score: 47
+culture_g_justification: "L’œil-de-bœuf est un terme architectural classique, mais il ne permet généralement que quelques questions de vocabulaire et de styles."
 ---
-
 ![Image de Oeil-de-boeuf](https://upload.wikimedia.org/wikipedia/commons/2/2b/Oculus_%2841323p%29.jpg)
 
 ###### Questions

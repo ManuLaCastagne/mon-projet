@@ -20,8 +20,9 @@ indice_6 :
   - cardinal Mazarin
 questions:
  - Quelle reine de France, épouse...
+culture_g_score: 60
+culture_g_justification: "Reine de France, mère de Louis XIV et régente durant la Fronde, elle est un repère utile mais moins central que son fils ou Richelieu."
 ---
-
 ![Image de Anne d'Autriche](https://upload.wikimedia.org/wikipedia/commons/a/a2/Signature_Anne_d_Autriche.png)
 
 ###### Questions

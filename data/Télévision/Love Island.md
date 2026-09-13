@@ -19,8 +19,9 @@ indice_5 :
   - îles tropicales
 indice_6 : 
   - votes du public
+culture_g_score: 48
+culture_g_justification: "Format britannique mondialement diffusé mais relevant surtout de la téléréalité contemporaine, avec un rendement généraliste limité."
 ---
-
 ![Image de Love Island](https://upload.wikimedia.org/wikipedia/commons/b/bc/Ellis_Island_hospital_window_mural_%2801897%29.jpg)
 
 ###### Questions

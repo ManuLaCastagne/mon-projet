@@ -19,8 +19,9 @@ indice_6 :
   - Amour pour un taureau blanc
 questions:
  - Dans la [[mythologie grecque]], quelle épouse de Minos, tombée amoureuse d'un taureau, devient a mère du Minotaure?
+culture_g_score: 60
+culture_g_justification: "Mère du Minotaure et épouse de Minos, Pasiphaé bénéficie d’un lien avec un mythe célèbre mais demeure une figure relativement spécialisée."
 ---
-
 ![Image de Pasiphaé](https://upload.wikimedia.org/wikipedia/commons/3/36/%28Agen%29_D%C3%A9dale_et_Pasipha%C3%A9_-_Jean_Lemaire_-_Mus%C3%A9e_des_Beaux-Arts_d%27Agen.jpg)
 
 ###### Questions

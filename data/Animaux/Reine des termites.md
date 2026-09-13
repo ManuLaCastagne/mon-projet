@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fertilité
 questions:
  - Je présente un abdomen hypertrophié qui m'empêche presque de me mouvoir.  M'accouplant pour engendrer les différents membres de ma société, je suis l'un des 2 individus sexués reproducteurs chez des insectes sociaux…
+culture_g_score: 31
+culture_g_justification: "Sujet étonnant de l’entomologie sociale, mais trop spécialisé et peu rentable pour un apprentissage généraliste."
 ---
-
 ![Image de Reine des termites](https://upload.wikimedia.org/wikipedia/commons/f/fc/Termites_polymorphism.jpg)
 
 ###### Questions

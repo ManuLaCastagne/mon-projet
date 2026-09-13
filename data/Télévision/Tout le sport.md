@@ -20,9 +20,9 @@ indice_6 :
   - résumés des compétitions
 questions:
  - J'ai connu différents présentateurs comme Nelson Monfort, Gérard Holtz, Céline Géraud et suis aujourd'hui animée alternativement par Fabien Lévêque et Matthieu Lartot. Constituant le plus ancien et le plus regardé des magazines sportifs quotidiens de la télévision française
+culture_g_score: 60
+culture_g_justification: "Magazine sportif quotidien bien installé, utile pour des questions sur la télévision et l’actualité sportive mais moins transversal qu’un événement sportif."
 ---
-
-
 ![Image de Tout le sport](https://upload.wikimedia.org/wikipedia/commons/5/50/Rokhaya_Thiam_journaliste_%C3%A0_Tout_Le_Sport.jpg)
 
 ###### Questions

@@ -20,11 +20,9 @@ indice_6 :
   - ORTF
 questions:
  - Qui incarna Thierry La Fronde en 1963 ?
+culture_g_score: 40
+culture_g_justification: "Son rôle dans Thierry la Fronde peut fournir une question classique de télévision ancienne, mais sa notoriété reste limitée."
 ---
-
-
-
-
 ![Image de Jean-Claude Drouot](https://upload.wikimedia.org/wikipedia/commons/6/62/Jean-Claude_Drouot.jpg)
 
 ###### Questions

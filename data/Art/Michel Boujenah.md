@@ -23,8 +23,9 @@ indice_6 :
   - Boujenah
 questions:
  - Depuis 2007, quel comédien et humoriste est le directeur artistique du festival de Ramatuelle?
+culture_g_score: 48
+culture_g_justification: "Acteur et humoriste connu du public francophone, Boujenah reste surtout une question de cinéma ou de spectacle assez ponctuelle."
 ---
-
 ![Image de Michel Boujenah](https://upload.wikimedia.org/wikipedia/commons/4/44/Michel_Boujenah_2002.jpg)
 
 ###### Questions

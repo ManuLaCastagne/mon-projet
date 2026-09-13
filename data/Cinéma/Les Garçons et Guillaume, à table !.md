@@ -22,8 +22,9 @@ indice_6 :
   - Monologue
 questions:
  - Je suis fondé sur un malentendu familial au sujet de l'identité d'un des fils,  qui tombe amoureux d'une jeune fille. 1er film de Guillaume Gallienne,  où il interprète son rôle et celui de sa mère.
+culture_g_score: 65
+culture_g_justification: "Succès et film à César de Guillaume Gallienne, utile pour le cinéma français, l’autobiographie et les questions d’interprétation."
 ---
-
 ![Image de Garçons et Guillaume, à table !](https://upload.wikimedia.org/wikipedia/commons/2/29/Les_Gar%C3%A7ons_et_Guillaume%2C_%C3%A0_table_%21_-_logo.png)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Ligue 1
 questions:
  - En janvier 2021, quel ancien défenseur argentin du club est devenu...
+culture_g_score: 72
+culture_g_justification: "Entraîneur contemporain très identifiable par le PSG, Tottenham et la Ligue des champions, avec une portée historique limitée."
 ---
-
-
 ![Image de Mauricio Pochettino](https://upload.wikimedia.org/wikipedia/commons/8/8a/Mauricio_Pochettino_2016_%28cropped%29.jpg)
 
 ###### Questions

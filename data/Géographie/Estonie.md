@@ -24,8 +24,9 @@ indice_6 :
   - langue estonienne
 questions:
  - Quel pays, constituant le plus septentrional des Etats Baltes, est bordé au nord par le golfe de Finlande ?
+culture_g_score: 63
+culture_g_justification: "Pays balte régulièrement interrogé pour son histoire, Tallinn, sa culture numérique et ses relations avec la Russie."
 ---
-
 ![Image de Estonie](https://upload.wikimedia.org/wikipedia/commons/7/75/M%C3%A4nnikj%C3%A4rve_raba_tornist.jpg)
 
 ![[Carte_Estonie.png]]

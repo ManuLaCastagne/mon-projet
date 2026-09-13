@@ -20,10 +20,9 @@ indice_6 :
   - Maillot rouge et blanc
 questions:
  - Dans quel club de football le plus titré du championnat argentin les joueurs sont-ils surnommés les millionnaires ?
+culture_g_score: 80
+culture_g_justification: "Club majeur du football sud-américain, régulièrement interrogé à travers son histoire, ses titres, son stade et sa rivalité avec Boca Juniors."
 ---
-
-
-
 ![Image de River Plate](https://upload.wikimedia.org/wikipedia/commons/d/da/Paliza_de_Bol%C3%ADvar_a_River_Plate_%287-_2%29_el_14_de_enero_de_1956.jpg)
 
 ###### Questions

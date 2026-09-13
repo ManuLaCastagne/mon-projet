@@ -22,9 +22,9 @@ indice_6 :
   - écrit sur l'amour et le désir féminin
 questions:
  - On cherche le nom  de cette poétesse française contemporaine de François Ier qui est surnommée la Belle Cordière?
+culture_g_score: 60
+culture_g_justification: "Poétesse classique de la Renaissance française, utile pour la Pléiade, Lyon et l’histoire des femmes en littérature, sans être omniprésente."
 ---
-
-
 ![Image de Louise Labé](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pierre_Woeiriot02.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5:
   - réalisateur
 indice_6:
   - Now You See Me
+culture_g_score: 68
+culture_g_justification: "Actrice et réalisatrice française associée à plusieurs films populaires, à Tarantino et au documentaire Demain, ce qui offre des angles variés."
 ---
-
 ![Image de Mélanie Laurent](https://upload.wikimedia.org/wikipedia/commons/f/fe/M%C3%A9lanie_Laurent%2C_2016_%28cropped%29.jpg)
 
 ###### Questions

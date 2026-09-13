@@ -24,8 +24,9 @@ indice_6 :
   - 2003
 questions:
  - Quel barrage de Chine établi sur le Yang Tsi Kiang, dont les impacts négatifs sur l'environnement pose problème, est le plus puissant du monde ?
+culture_g_score: 77
+culture_g_justification: "Ouvrage mondialement connu permettant des questions d’ingénierie, d’énergie, d’environnement, de Chine et de déplacements de population."
 ---
-
 ![Image de Barrage des Trois-Gorges](https://upload.wikimedia.org/wikipedia/commons/b/b2/Three_gorges_dam_view_from_vantage_point.jpg)
 
 ![[Carte_Barrage des Trois-Gorges.png]]

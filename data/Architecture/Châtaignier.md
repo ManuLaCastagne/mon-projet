@@ -23,8 +23,9 @@ indice_6 :
   - bois de menuiserie
 questions:
  - Autrefois, dans l'Hérault, de quel arbre, dont la seule espèce indigène en France est Castanea Sativa...
+culture_g_score: 48
+culture_g_justification: "Essence importante dans l’artisanat et le patrimoine bâti, mais rarement une connaissance prioritaire de quiz généraliste."
 ---
-
 ![Image de Châtaignier](https://upload.wikimedia.org/wikipedia/commons/c/c6/Romagne_86_Ch%C3%A2taignier_mort_2013.jpg)
 
 ###### Questions

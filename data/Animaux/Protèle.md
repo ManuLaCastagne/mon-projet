@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de discrétion et d'adaptabilité
 questions:
  - Quelle petite hyène des savanes africaines est un animal nocturne et craintif qui se nourrit essentiellement de termites?
+culture_g_score: 32
+culture_g_justification: "Petit mammifère africain peu connu, à retenir surtout pour son lien zoologique avec les hyènes et son régime insectivore."
 ---
-
 ![Image de Protèle](https://upload.wikimedia.org/wikipedia/commons/0/0b/Proteles_cristatus1.jpg)
 
 ###### Questions

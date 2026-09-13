@@ -24,8 +24,9 @@ indice_6 :
   - saison des pluies et sécheresse distinctes
 questions:
  - Je passe par La Havane..
+culture_g_score: 80
+culture_g_justification: "Le tropique du Capricorne est un repère géographique et astronomique classique, utile pour les latitudes, les climats et plusieurs pays traversés."
 ---
-
 ![Image de Tropique du Capricorne](https://upload.wikimedia.org/wikipedia/commons/b/b4/Tropique_du_Capricorne_Chili.jpg)
 
 ![[Carte_Tropique du Capricorne.png]]

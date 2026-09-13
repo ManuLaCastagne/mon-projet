@@ -19,9 +19,9 @@ indice_6 :
 questions:
  - Quel personnage de la [[mythologie grecque]] dut déterminer qui d'Héra, Athéna ou Aphrodite était la plus belle ?
  - Dans la [[mythologie grecque]], qu'un héros troyen remet la pomme d'or...
+culture_g_score: 80
+culture_g_justification: "Pâris est une figure centrale de la guerre de Troie, exploitable via son jugement, Hélène, Priam, les dieux et la littérature homérique."
 ---
-
-
 ![Image de Pâris](https://upload.wikimedia.org/wikipedia/commons/6/6f/Plan_de_Paris_en_1657.JPG)
 
 ###### Questions

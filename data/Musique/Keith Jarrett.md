@@ -22,8 +22,9 @@ indice_6 :
   - célèbre pour ses concerts en solo
 questions:
  - En 1975, le soir d'un concert à Cologne, quel pianiste de jazz se met en colère et refuse de jouer sur le piano qu'on lui proposait?
+culture_g_score: 67
+culture_g_justification: "Pianiste majeur du jazz, connu pour The Köln Concert et situé à la croisée du jazz, de l’improvisation et de la musique classique."
 ---
-
 ![Image de Keith Jarrett](https://upload.wikimedia.org/wikipedia/commons/4/4d/Keith_Jarrett.jpg)
 
 ###### Questions

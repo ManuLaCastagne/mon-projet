@@ -15,8 +15,9 @@ indice_6 :
   - Alimentation humaine et animale
 questions:
  - Et en magnésium, j'ai l'aspect d'une feuille translucide d'un vert brillant et suis récoltée jeune. Algue à la texture fine et souple poussant sur la façade atlantique, je suis consommée crue ou séchée et dois mon nom scientifique, Ulva lactuca, à ma ressemblance avec un type de salade.
+culture_g_score: 44
+culture_g_justification: "Algue identifiable par son usage alimentaire et ses liens avec les écosystèmes côtiers."
 ---
-
 ![Image de Laitue de mer](https://upload.wikimedia.org/wikipedia/commons/4/42/LAITUE_DE_MER_-_Algues_de_l%27Ile_de_R%C3%A9.jpg)
 
 ###### Questions

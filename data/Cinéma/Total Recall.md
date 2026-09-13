@@ -20,9 +20,9 @@ indice_5:
   - Philip K. Dick
 indice_6:
   - science-fiction
+culture_g_score: 76
+culture_g_justification: "Classique de science-fiction populaire, utile pour Verhoeven, Schwarzenegger, Philip K. Dick, Mars et les effets spéciaux."
 ---
-
-
 ![Image de Total Recall](https://upload.wikimedia.org/wikipedia/commons/4/4c/TotalRecall_2012_logo.PNG)
 
 ###### Questions

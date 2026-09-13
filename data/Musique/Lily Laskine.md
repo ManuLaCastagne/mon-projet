@@ -22,8 +22,9 @@ indice_6 :
   - enregistrement avec Jean-Pierre Rampal
 questions:
  - En 1909, dans l'orchestre de l'opéra de la ville de Paris, quelle fut la 1re femme admise ?
+culture_g_score: 36
+culture_g_justification: "Harpiste française reconnue historiquement, mais sujet spécialisé et rarement attendu hors des quiz consacrés à la musique classique."
 ---
-
 ![Image de Lily Laskine](https://upload.wikimedia.org/wikipedia/commons/d/d9/Lily_Laskine_et_Mario_Hacquard.jpg)
 
 ###### Questions

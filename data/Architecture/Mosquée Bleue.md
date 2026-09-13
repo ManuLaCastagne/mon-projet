@@ -22,8 +22,9 @@ indice_6:
   - Turquie
 questions:
   - Quelle mosquée d'Istanbul tient son nom des 21 000 carreaux de faïence qui en ornent l'intérieur ?
+culture_g_score: 71
+culture_g_justification: "Monument majeur d’Istanbul, la Mosquée Bleue est utile pour des questions sur l’Empire ottoman, l’islam et l’architecture."
 ---
-
 ![Image de Mosquée Bleue](https://upload.wikimedia.org/wikipedia/commons/7/77/Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg)
 
 ![[Carte_Mosquée Bleue.png]]

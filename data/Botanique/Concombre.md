@@ -15,8 +15,9 @@ indice_6:
   - Consommé cru en salade
 questions:
   - Plante du genre Cucumis, cultivée pour mon gros fruit allongé et cylindrique de couleur verte...
+culture_g_score: 64
+culture_g_justification: "Aliment courant et plante de la famille des cucurbitacées, utile dans quelques questions de botanique et de gastronomie."
 ---
-
 ![Image de Concombre](https://upload.wikimedia.org/wikipedia/commons/8/84/Cucurbitales_-_Cucumis_sativus_3.jpg)
 
 ###### Questions

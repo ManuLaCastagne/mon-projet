@@ -22,8 +22,9 @@ indice_6 :
   - Ancien membre des Charlots
 questions:
  - Quel artiste interprète en 1987 "A la queue leu leu" ?
+culture_g_score: 36
+culture_g_justification: "Chanteur de variétés surtout connu pour un succès festif, avec une présence limitée dans les quiz généralistes."
 ---
-
 ![Image de Bézu](https://upload.wikimedia.org/wikipedia/commons/6/66/B%C3%A9zu-Saint-Germain_OSM_01.png)
 
 ###### Questions

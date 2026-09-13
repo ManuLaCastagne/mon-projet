@@ -17,8 +17,9 @@ indice_5:
   - À la poursuite d'Octobre rouge 
 indice_6:
   - L'Homme qui murmurait à l'oreille des chevaux
+culture_g_score: 76
+culture_g_justification: "Acteur durablement identifié par Jurassic Park et plusieurs séries populaires, permettant des questions de cinéma et de télévision."
 ---
-
 ![Image de Sam Neill](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sam_Neill_2022_%28cropped%29.jpg/1280px-Sam_Neill_2022_%28cropped%29.jpg)
 
 ###### Questions

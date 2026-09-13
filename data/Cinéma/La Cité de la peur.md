@@ -22,8 +22,9 @@ indice_6 :
   - conférence de presse
 questions:
  - Dans quel film, où Chantal Lauby incarne Odile Deray...
+culture_g_score: 73
+culture_g_justification: "Comédie culte française abondamment citée pour Les Nuls, ses répliques, le Festival de Cannes et la parodie de film d'horreur."
 ---
-
 ![Image de La Cité de la peur](https://upload.wikimedia.org/wikipedia/commons/8/86/Cit%C3%A9_peur.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5:
   - Descente
 indice_6:
   - Médaille d'Argent
+culture_g_score: 47
+culture_g_justification: "Champion majeur du ski alpin, mais connu surtout des amateurs et rarement indispensable dans un quiz généraliste."
 ---
-
-
 ![Image de Marc Girardelli](https://upload.wikimedia.org/wikipedia/commons/b/b4/Marc_Girardelli.JPG)
 
 ###### Questions

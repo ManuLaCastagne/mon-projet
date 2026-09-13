@@ -20,8 +20,9 @@ indice_5 :
   - Moneypenny
 indice_6 : 
   - Bond girls
+culture_g_score: 96
+culture_g_justification: "Franchise et personnage incontournables, ouvrant sur la littérature, le cinéma, les acteurs, les génériques, les gadgets et la culture populaire."
 ---
-
 ![Image de James Bond](https://upload.wikimedia.org/wikipedia/commons/d/d9/Flatlay_of_James_Bond_watch%2C_gun%2C_and_sunglasses.jpg)
 
 ###### Questions

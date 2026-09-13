@@ -20,8 +20,9 @@ indice_6 :
   - Célérité de la lumière
 questions:
  - Propageant en optique la théorie ondulatoire, je dirige l'Observatoire, où je donne des cours d'astronomie ouverts à tous.  Membre du gouvernement provisoire en 1848, je fais abolir l'esclavage dans les colonies françaises. Ayant découvert l'aimantation du fer par le courant électrique...
+culture_g_score: 67
+culture_g_justification: "Scientifique et homme politique français aux contributions variées, mais moins central dans les quiz que les grandes figures de la physique."
 ---
-
 ![Image de François Arago](https://upload.wikimedia.org/wikipedia/commons/4/49/Fran%C3%A7ois_Arago_par_Ary_Scheffer.jpg)
 
 ###### Questions

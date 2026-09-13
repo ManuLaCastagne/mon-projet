@@ -23,8 +23,9 @@ indice_6 :
   - toit ouvrant
 questions:
  - Quelle grande mosquée de Casablanca, achevée en 1993, abrite notamment la Galerie des femmes, s'étendant sur 5300 m2?
+culture_g_score: 64
+culture_g_justification: "La Mosquée Hassan II est un symbole marocain reconnaissable, mais ses apparitions restent surtout liées à l’architecture et au Maroc."
 ---
-
 ![Image de Mosquée Hassan II](https://upload.wikimedia.org/wikipedia/commons/4/43/Maroc%2C_Mosqu%C3%A9e_Hassan_2%2C_Grand_Casablanca.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_6 :
   - sirènes
 questions:
  - Quel héros, réputé pour sa ruse, a l'idée du cheval de bois...
+culture_g_score: 100
+culture_g_justification: "Ulysse est une figure absolument incontournable, au croisement de l'Odyssée, de Troie, de la littérature classique, des Sirènes et de nombreux mythes."
 ---
-
-
 ![Image de Ulysse](https://upload.wikimedia.org/wikipedia/commons/5/5c/Ulysses_S._Grant_1870-1880.jpg)
 
 ###### Questions

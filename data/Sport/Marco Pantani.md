@@ -18,10 +18,9 @@ indice_5 :
   - 1998
 indice_6 : 
   - Dopage
+culture_g_score: 71
+culture_g_justification: "Cycliste très mémorable grâce au doublé de 1998, à son surnom et aux affaires de dopage, avec une fréquence toutefois modérée."
 ---
-
-
-
 ![Image de Pantani](https://upload.wikimedia.org/wikipedia/commons/0/0f/Marco_Pantani.jpg)
 
 ###### Questions

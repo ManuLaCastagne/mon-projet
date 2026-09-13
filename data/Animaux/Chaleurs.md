@@ -13,11 +13,9 @@ indice_5:
   - Brocard
 indice_6:
   - Symbole de la régénération et du renouveau
+culture_g_score: 28
+culture_g_justification: "Terme biologique courant en élevage mais trop spécialisé et peu transversal pour une priorité généraliste."
 ---
-
-
-
-
 ![Image de Chaleurs](https://upload.wikimedia.org/wikipedia/commons/1/16/ChaleurBay23.jpg)
 
 ###### Questions

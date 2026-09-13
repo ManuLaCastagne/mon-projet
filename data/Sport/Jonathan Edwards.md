@@ -19,8 +19,9 @@ indice_5 :
   - Foi chrétienne
 indice_6 : 
   - Vent favorable
+culture_g_score: 64
+culture_g_justification: "Son record exceptionnel du triple saut est une référence d’athlétisme, mais ses angles restent principalement sportifs."
 ---
-
 ![Image de Jonathan Edwards](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jonathan_Edwards%2C_a_retrospect_-_portrait.jpg)
 
 ###### Questions

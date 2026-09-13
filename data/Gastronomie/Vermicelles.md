@@ -5,6 +5,8 @@ tags:
   - Italie
   - France
 date: 1553
+culture_g_score: 60
+culture_g_justification: "Terme courant de la confiserie et des pâtes, mais d'importance culturelle limitée malgré plusieurs usages alimentaires."
 ---
 ###### Questions 
 

@@ -20,8 +20,9 @@ indice_5 :
   - Michael Knight
 questions:
  - Dans quelle série le policier Jessie Mach enfourche-t-il une moto équipée de roquettes et d'un système de rayons laser pour mener ses enquêtes?
+culture_g_score: 36
+culture_g_justification: "Série d'action des années 1980 assez oubliée, ne fournissant que quelques repères télévisuels spécialisés."
 ---
-
 ![[Pasted image 20250323102215.png]]
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2mAcpi0XdLKSbTjAPB6Ezj" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

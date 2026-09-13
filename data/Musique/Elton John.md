@@ -22,8 +22,9 @@ indice_6:
   - Tiny Dancer
 questions:
   - En 1982, à quel chanteur britannique doit-on la chanson "Blue Eyes"?
+culture_g_score: 100
+culture_g_justification: "Icône mondiale de la chanson, associée à de nombreux tubes, films, événements historiques et repères de la culture populaire."
 ---
-
 ![Image de Elton John](https://upload.wikimedia.org/wikipedia/commons/f/f3/Elton_John_2023.jpg)
 
 ###### Questions

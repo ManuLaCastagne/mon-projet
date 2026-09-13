@@ -22,8 +22,9 @@ indice_5 :
   - Cerro San Cristóbal
 indice_6 : 
   - Palacio de La Moneda
+culture_g_score: 80
+culture_g_justification: "Capitale majeure d’Amérique du Sud, utile pour la géographie, l’histoire chilienne, les Andes et la culture latino-américaine."
 ---
-
 ![Image de Santiago](https://upload.wikimedia.org/wikipedia/commons/8/89/Konstruktionsdetail_der_Markthalle_von_Santiago_de_Chile.jpg)
 
 ![[Carte_Santiago.png]]

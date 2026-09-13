@@ -13,8 +13,9 @@ indice_5 :
   - Rye
 indice_6 : 
   - Production de pain et de whisky
+culture_g_score: 52
+culture_g_justification: "Céréale importante pour le pain, les alcools et l’agriculture, mais moins présente que le blé, le riz ou le maïs."
 ---
-
 ![Image de Seigle](https://upload.wikimedia.org/wikipedia/commons/1/13/Secale_cereale_illustration.jpg)
 
 ###### Questions

@@ -18,13 +18,15 @@ indice_6 :
   - accusé de trahison par Ulysse
 questions:
  - Avec Ménélas, quel héros grec, roi d'Eubée, contraint Ulysse à partir à la guerre en menaçant son fils?
+culture_g_score: 40
+culture_g_justification: "Héros grec associé à des inventions et à la guerre de Troie, Palamède reste une connaissance spécialisée et peu rentable hors de quelques questions précises."
 ---
 
 ![Image de Palamède](https://upload.wikimedia.org/wikipedia/commons/2/2f/Palam%C3%A8de_de_Forbin.JPG)
 
 ###### Questions
 
-Dans la [[mythologie grecque]], qui est crédité de l'invention de l'alphabet grec, ce qui lui confère une importance capitale dans la propagation de l'écriture en Grèce ?
+Dans la [[mythologie grecque]], qui est crédité de l'invention de l'alphabet grec, ce qui lui confère une importance capitale dans la propagation de l'écriture en Grèce ? <!-- score: 2 -->
 
 Quel héros de la guerre de [[Troie]] est accusé à tort de trahison et exécuté, une histoire que les dramaturges comme [[Euripide]] ont souvent reprise dans leurs œuvres ?
 

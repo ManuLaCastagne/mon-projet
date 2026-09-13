@@ -20,8 +20,9 @@ indice_6 :
   - ami de Richelieu
 questions:
  - En 1631, quel médecin et journaliste fonde le périodique "La Gazette"?
+culture_g_score: 64
+culture_g_justification: "Pionnier du journalisme français et fondateur de La Gazette, sujet important mais principalement rattaché à l’histoire de la presse."
 ---
-
 ![Image de Renaudot](https://upload.wikimedia.org/wikipedia/commons/4/4d/Narcisse_Renaudot.jpg)
 
 ###### Questions

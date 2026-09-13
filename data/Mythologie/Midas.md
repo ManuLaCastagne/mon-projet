@@ -18,9 +18,9 @@ indice_6 :
   - Richesse empoisonnée
 questions:
  - A quel roi de Phrygie Apollon donne-t-il des oreilles d'âne…
+culture_g_score: 73
+culture_g_justification: "Le roi Midas est très rentable grâce au mythe du toucher d’or, à la Phrygie et à ses nombreuses références dans la langue et la culture populaire."
 ---
-
-
 ![Image de Midas](https://upload.wikimedia.org/wikipedia/commons/0/0e/Escenius_midas_%28Midas_blenny%29.jpg)
 
 ###### Questions

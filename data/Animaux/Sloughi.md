@@ -15,8 +15,9 @@ indice_6 :
   - Compagnon de chasse et gardien
 questions:
  - Quel lévrier arabe à la robe sable…
+culture_g_score: 31
+culture_g_justification: "Le sloughi est une race canine identifiable mais assez confidentielle, apparaissant seulement occasionnellement dans les quiz animaliers."
 ---
-
 ![Image de Sloughi](https://upload.wikimedia.org/wikipedia/commons/e/e6/Sloughi_in_Kef_Chgu%C3%A9g.jpg)
 
 ###### Questions

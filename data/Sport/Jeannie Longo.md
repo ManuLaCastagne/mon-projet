@@ -20,8 +20,9 @@ indice_6 :
   - 59 fois championne de France
 questions:
  - En 2011, quelle cycliste remporte à 52 ans son 11e titre de championne de France du contre-la-montre ?
+culture_g_score: 80
+culture_g_justification: "Longévité, nombreux titres mondiaux et records font de Jeannie Longo une référence très rentable du sport français."
 ---
-
 ![Image de Jeannie Longo](https://upload.wikimedia.org/wikipedia/commons/5/58/Jeannie_Longo_CN2011.JPG)
 
 ###### Questions

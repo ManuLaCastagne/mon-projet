@@ -22,8 +22,9 @@ indice_6 :
   - Romain Duris
 questions:
  - En 2002, dans quel 1er volet d'une trilogie de Cédric Klapisch...
+culture_g_score: 60
+culture_g_justification: "Comédie générationnelle assez classique des quiz, associée à Klapisch, Erasmus, Barcelone et la colocation."
 ---
-
 ![Image de Auberge espagnole](https://upload.wikimedia.org/wikipedia/commons/b/b6/Auberge-espagnole-10-c-Magelis.jpg)
 
 ###### Questions

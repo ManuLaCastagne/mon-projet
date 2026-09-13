@@ -22,8 +22,9 @@ indice_6:
   - Cendres et diamant
 questions:
   - En 1980, dans le film "Le Chef d'orchestre", quel cinéaste polonais met en scène un musicien qui retourne dans la patrie d'où il s'est...
+culture_g_score: 67
+culture_g_justification: "Grand cinéaste polonais lié à l’histoire politique et artistique de son pays, mais relativement peu présent dans les quiz grand public."
 ---
-
 ![Image de Wajda](https://upload.wikimedia.org/wikipedia/commons/3/34/Andrzej_Wajda_1974.jpg)
 
 ###### Questions

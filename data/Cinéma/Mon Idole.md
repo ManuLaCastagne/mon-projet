@@ -22,8 +22,9 @@ indice_6 :
   - visage familier
 questions:
  - En 2002, dans quelle comédie dramatique de Guillaume Canet François Berléand incarne-t-il Jean-Louis Broustal, un producteur de télévision ?
+culture_g_score: 31
+culture_g_justification: "Premier film de Guillaume Canet intéressant pour le cinéma français contemporain, mais rarement interrogé comme référence autonome."
 ---
-
 ![Image de Mon Idole](https://upload.wikimedia.org/wikipedia/commons/6/63/Whatever_you_say_%28Andre_Wischnewski%29_02.jpg)
 
 ###### Questions

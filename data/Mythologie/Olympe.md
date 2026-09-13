@@ -18,9 +18,9 @@ indice_6 :
   - Panthéon Olympien
 questions:
  - Quel massif, situé aux confins de la Thessalie…
+culture_g_score: 88
+culture_g_justification: "Demeure mythique des dieux grecs et sommet réel majeur, l’Olympe constitue une référence très classique reliant mythologie, littérature et géographie."
 ---
-
-
 ![Image de Olympe](https://upload.wikimedia.org/wikipedia/commons/3/3d/Olympe_and_Flore_Chauveau_by_Theophile_Hamel%2C_1851-1852.jpg)
 
 ###### Questions

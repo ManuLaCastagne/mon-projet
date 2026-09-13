@@ -20,8 +20,9 @@ indice_6 :
   - rôle central dans l'Accord de Paris sur le climat
 questions:
  - De 2007 à fin 2016, quel homme politique sud-coréen a été secrétaire général de l'ONU...
+culture_g_score: 64
+culture_g_justification: "Ancien secrétaire général de l’ONU régulièrement associé à la diplomatie internationale et à l’accord de Paris."
 ---
-
 ![Image de Ban Ki-Moon](https://upload.wikimedia.org/wikipedia/commons/a/a5/Ban_Ki-Moon_Orchid_Flower_Singapore_Feb23_D72_25479.jpg)
 
 ###### Questions

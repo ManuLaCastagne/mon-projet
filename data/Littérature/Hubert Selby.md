@@ -22,8 +22,9 @@ indice_6 :
   - exploration de la marginalité et du désespoir
 questions:
  - Ecrivain américain né en 1928, j'ai notamment une brève apparition au cinéma en 2001 dans "Requiem for a Dream".
+culture_g_score: 40
+culture_g_justification: "Cette variante désigne le même écrivain spécialisé, surtout utile pour quelques questions sur ses romans controversés et leurs adaptations."
 ---
-
 ![Image de Hubert Selby](https://upload.wikimedia.org/wikipedia/commons/3/34/Requiem_for_a_Dream_logo.svg)
 
 ###### Questions

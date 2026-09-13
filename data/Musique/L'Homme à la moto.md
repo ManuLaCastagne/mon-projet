@@ -22,8 +22,9 @@ indice_6 :
   - Arthur H
 questions:
  - En 1956, sous quel titre a-t-elle intégré à son répertoire le morceau de rock américain "Black denim trousers and motorcycle boots"?
+culture_g_score: 52
+culture_g_justification: "Chanson connue du répertoire de Piaf, mais moins incontournable que ses grands classiques et cantonnée à quelques repères musicaux."
 ---
-
 ![Image de L'Homme à la moto](https://upload.wikimedia.org/wikipedia/commons/c/cf/Kuala_Lumpur_Malaysia_Beware-of-snatch-thief-sign-01.jpg)
 
 ###### Questions

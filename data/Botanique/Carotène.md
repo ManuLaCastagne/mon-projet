@@ -15,8 +15,9 @@ indice_6:
   - Colorant alimentaire
 questions:
   - Pigment pouvant être de type alpha ou beta, on me trouve dans certains végétaux.
+culture_g_score: 64
+culture_g_justification: "Pigment associé aux caroténoïdes, à la vitamine A et à la couleur des végétaux, donc utile dans plusieurs questions scientifiques."
 ---
-
 ![Image de Carotène](https://upload.wikimedia.org/wikipedia/commons/1/18/Carotene-structure.jpg)
 
 ###### Questions

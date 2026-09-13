@@ -20,9 +20,9 @@ indice_6 :
   - École normale supérieure
 questions:
  - Depuis 1936, quelle récompense internationale est attribuée tous les 4 ans à des mathématiciens âgés de moins de 40 ans ?
+culture_g_score: 68
+culture_g_justification: "Distinction mathématique prestigieuse et liée à Perelman, mais moins transversale et fréquente que les grands prix généralistes."
 ---
-
-
 ![Image de Médaille Fields](https://upload.wikimedia.org/wikipedia/commons/0/0c/FieldsMedalFront.jpg)
 
 ###### Questions

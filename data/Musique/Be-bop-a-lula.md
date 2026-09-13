@@ -22,10 +22,9 @@ indice_6 :
   - Influence sur la musique moderne
 questions:
  - Tube parlant d'une fille en jean rouge, je répète plusieurs fois les mots "she's my baby" et "my baby love". Grand classique du rock, interprété par Gene Vincent et dont le titre évoque...
+culture_g_score: 60
+culture_g_justification: "Classique du rockabilly utile pour identifier Gene Vincent et les débuts du rock, sans être un incontournable absolu."
 ---
-
-
-
 ![Image de Be-bop-a-lula](https://upload.wikimedia.org/wikipedia/commons/2/23/Woman_Love_-_Be-Bop-a-Lula_ad_-_Cash_Box_1956.jpg)
 
 ###### Questions

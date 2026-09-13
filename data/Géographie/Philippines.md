@@ -24,8 +24,9 @@ indice_6 :
   - Archipel situé sur la ceinture de feu du Pacifique
 questions:
  - Je suis composé de 2 grandes îles principales, Luçon et Mindanao.
+culture_g_score: 80
+culture_g_justification: "Archipel asiatique très rentable pour sa géographie, la colonisation espagnole et américaine, Manille, la démographie et la Seconde Guerre mondiale."
 ---
-
 ![Image de Philippines](https://upload.wikimedia.org/wikipedia/commons/a/a9/Marabut%2C_Philippines%2C_Limestone_islands_in_San_Pedro_Bay.jpg)
 
 ![[Carte_Philippines.png]]

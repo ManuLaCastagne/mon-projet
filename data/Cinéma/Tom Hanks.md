@@ -22,8 +22,9 @@ indice_6:
   - La Ligne verte
 questions:
   - En 2000, quel acteur américain incarne un gardien de prison confronté à un prisonnier au nom magique dans le film "La Ligne verte" ?
+culture_g_score: 97
+culture_g_justification: "Acteur incontournable de Hollywood, associé à Toy Story, Forrest Gump, Philadelphia, aux Oscars et à de nombreux classiques."
 ---
-
 ![Image de Tom Hanks](https://upload.wikimedia.org/wikipedia/commons/a/a9/Tom_Hanks_TIFF_2019.jpg)
 
 ###### Questions

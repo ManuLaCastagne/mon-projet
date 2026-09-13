@@ -20,9 +20,9 @@ indice_6 :
   - années 90
 questions:
  - En 1992, quelle émission télévisée, animée par Jacques Pradel, se propose d'aider des personnes à se retrouver ?
+culture_g_score: 73
+culture_g_justification: "Émission emblématique de la télévision française des années 1990, fréquemment associée à Jacques Pradel et aux recherches de disparus."
 ---
-
-
 ![Image de Perdu de vue](https://upload.wikimedia.org/wikipedia/commons/4/40/Perdu_de_vue_TF1.svg)
 
 ###### Questions

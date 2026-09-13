@@ -20,8 +20,9 @@ indice_5:
   - réalisateur canadien
 indice_6:
   - drame psychologique
+culture_g_score: 52
+culture_g_justification: "Film important dans la carrière de Xavier Dolan et associé à Cannes et à son format carré, mais encore relativement spécialisé."
 ---
-
 ![Image de Mommy](https://upload.wikimedia.org/wikipedia/commons/4/4d/Soccer_Mommy_Logo.jpg)
 
 ###### Questions

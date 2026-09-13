@@ -20,9 +20,9 @@ indice_6 :
   - Limoges
 questions:
  - Depuis 1981, dans quel palais des sports le club de basket-ball du CSP Limoges évolue-t-il ?
+culture_g_score: 20
+culture_g_justification: "Salle principalement connue dans le basket français, avec une portée quiz et culturelle très limitée."
 ---
-
-
 ![Image de Beaublanc](https://upload.wikimedia.org/wikipedia/commons/5/5a/Palais_des_sports_de_Beaublanc.JPG)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5 :
   - Point de fusion 231,9 °C
 indice_6 : 
   - Numéro atomique 50
+culture_g_score: 52
+culture_g_justification: "Métal historique lié au bronze, aux soudures et à l’industrie, mais moins prioritaire que les éléments métalliques les plus célèbres."
 ---
-
-
 ![Image de étain](https://upload.wikimedia.org/wikipedia/commons/0/07/ETAIN_EGLISE.JPG)
 
 ###### Questions

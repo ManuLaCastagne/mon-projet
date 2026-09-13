@@ -18,8 +18,9 @@ indice_5:
   - Championnats du monde
 indice_6:
   - Patinage artistique
+culture_g_score: 40
+culture_g_justification: "Danseur sur glace récompensé avec Nathalie Péchalat, il reste principalement une réponse de quiz sportif spécialisé."
 ---
-
 ![Image de Fabian Bourzat](https://upload.wikimedia.org/wikipedia/commons/2/2a/Jielbeaumadier_Joubert_Pechalat_Bourzat_Amodio_WFSC_Nice_2012.jpg)
 
 ###### Questions

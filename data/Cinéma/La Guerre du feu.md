@@ -20,8 +20,9 @@ indice_5:
   - Adaptation du roman de J.-H. Rosny aîné
 indice_6:
   - Sagaie et Feu
+culture_g_score: 68
+culture_g_justification: "Film marquant d'Annaud sur la préhistoire, le feu et le langage, régulièrement mobilisé mais avec un nombre d'angles limité."
 ---
-
 ![[Pasted image 20260803213438.png]]
 ###### Questions
 

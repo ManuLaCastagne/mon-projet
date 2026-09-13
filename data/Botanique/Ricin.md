@@ -15,8 +15,9 @@ indice_6 :
   - Huile utilisée en médecine et industrie
 questions:
  - Plante de la famille des euphorbiacées, aussi appelée fève de castor et palma-christi, je suis cultivée dans les jardins sous les tropiques, on me reconnaît à mes grandes feuilles palmées, à des fins ornementales. Pouvant atteindre 10 m de haut Connue pour les propriétés purgatives de l'huile que l'on tire de mes graines...
+culture_g_score: 60
+culture_g_justification: "Le ricin combine toxicité, huile et botanique, ce qui lui donne plusieurs points d'entrée classiques en culture générale."
 ---
-
 ![Image de Ricin](https://upload.wikimedia.org/wikipedia/commons/c/c2/Ricin_commun.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - Duos Volume 1
 indice_6 : 
   - The Voice Kids
+culture_g_score: 73
+culture_g_justification: "Chanteur majeur de la variété française, présent dans de nombreuses questions grâce à ses tubes, sa longévité et ses activités télévisuelles."
 ---
-
 ![Image de Julien Clerc](https://upload.wikimedia.org/wikipedia/commons/0/01/Julien_Clerc_2011.jpg)
 
 ###### Questions

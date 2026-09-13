@@ -20,8 +20,9 @@ indice_6 :
   - Immortalité taoïste
 questions:
  - Religion organisée et mystique dont le nom signifie enseignement de la voie, mes principaux textes sont notamment le "Zhuangzi" et le "Liezi", je m'inspire des doctrines de Lao-Tseu. Etant, contrairement au bouddhisme, une pensée religieuse purement de Chine, enseignant une complète solidarité entre l'homme...
+culture_g_score: 87
+culture_g_justification: "Le taoïsme est une référence majeure pour comprendre la pensée chinoise, Laozi, les pratiques spirituelles, la médecine et les arts."
 ---
-
 ![Image de Taoïsme](https://upload.wikimedia.org/wikipedia/commons/a/af/%E4%BC%97%E7%A5%9E%E5%9B%BEhunan.jpg)
 
 ###### Questions

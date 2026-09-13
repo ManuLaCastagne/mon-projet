@@ -20,8 +20,9 @@ indice_6 :
   - Finale de Coupe FA
 questions:
  - Quel est le stade de rugby du Pays de Galles ?
+culture_g_score: 60
+culture_g_justification: "Stade emblématique du rugby gallois, utile pour des questions sur Cardiff, le rugby international et son architecture."
 ---
-
 ![Image de Millénium Stadium](https://upload.wikimedia.org/wikipedia/commons/e/e3/Principality_Stadium_view_from_Westgate_Street%2C_Cardiff.jpg)
 
 ###### Questions

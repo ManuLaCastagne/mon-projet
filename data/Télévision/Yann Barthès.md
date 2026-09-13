@@ -18,8 +18,9 @@ indice_5 :
   - producteur
 indice_6 : 
   - animateur télé français
+culture_g_score: 60
+culture_g_justification: "Animateur contemporain très visible grâce au Petit Journal et à Quotidien, mais d'importance culturelle encore limitée."
 ---
-
 ![Image de Yann Barthès](https://upload.wikimedia.org/wikipedia/commons/c/cc/Yann_Barth%C3%A8s.jpg)
 
 ###### Questions

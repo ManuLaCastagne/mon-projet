@@ -22,8 +22,9 @@ indice_6 :
   - Co-fondateur de la revue 'La Règle du Jeu'
 questions:
  - Quel intellectuel français, souvent appelé BHL, a été fait...
+culture_g_score: 63
+culture_g_justification: "Intellectuel médiatique très connu en France, mais ses nombreuses activités produisent surtout des questions biographiques ou politiques ciblées."
 ---
-
 ![Image de Bernard-Henri Lévy](https://upload.wikimedia.org/wikipedia/commons/2/2f/Bernard-Henri_L%C3%A9vy-tau-1.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Ornementation paysagère
 questions:
  - Quel terme, dérivé d'un verbe latin signifiant se flétrir s'applique à un arbre conservant, l'hiver, ses feuilles mortes attachées aux branches?
+culture_g_score: 40
+culture_g_justification: "Phénomène botanique précis, parfois lié au hêtre, mais rarement nécessaire au-delà d’une définition."
 ---
-
 ![Image de Marcescence](https://upload.wikimedia.org/wikipedia/commons/5/5b/Marcescence_on_an_oak_tree%2C_Dumfries_House%2C_East_Ayrshire.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Décédé en 2021
 questions:
  - Homme de télévision né le 11 août 1947, je débute à l'ORTF en 1968 comme caméraman et participe à 2 expéditions avec Haroun Tazieff.  Prenant part en 73 à la Whitbread, une course à la voile entre Portsmouth et Le Cap, je lance en 75 une émission sous-titrée...
+culture_g_score: 73
+culture_g_justification: "Visage historique de Thalassa, fréquemment associé à la mer et à la longévité exceptionnelle de l'émission."
 ---
-
 ![Image de Georges Pernoud](https://upload.wikimedia.org/wikipedia/commons/6/6b/FIG_2015_-_Georges_Pernoud_01.jpg)
 
 ###### Questions

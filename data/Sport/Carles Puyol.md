@@ -20,9 +20,9 @@ indice_6 :
   - Chevelure bouclée
 questions:
  - En 2011, quel footballeur, capitaine du Barça, laisse Eric Abidal, récemment opéré, soulever le 1er le trophée de la Ligue des champions?
+culture_g_score: 77
+culture_g_justification: "Capitaine du Barça et champion du monde espagnol, Puyol revient régulièrement via le football de clubs, les compétitions internationales et son but de 2010."
 ---
-
-
 ![Image de Carles Puyol](https://upload.wikimedia.org/wikipedia/commons/7/78/Carles_Puyol_18abr2007.jpg)
 
 ###### Questions

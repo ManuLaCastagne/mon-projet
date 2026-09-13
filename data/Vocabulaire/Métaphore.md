@@ -23,13 +23,14 @@ questions:
   - Procédé linguistique dont le nom figure dans le titre d'un essai de Paul Ricoeur publié en 1975, je consiste à employer un mot concret pour exprimer une notion abstraite...
 ---
 
-![Image de Métaphore](https://upload.wikimedia.org/wikipedia/commons/4/41/M%C3%A9taphore_sch%C3%A9ma_axes_syntagmatique_et_paradigmatique.jpg)
+
+![Image de Métaphore](https://upload.wikimedia.org/wikipedia/commons/4/41/M%C3%A9taphore_sch%C3%A9ma_axes_syntagmatique_et_paradigmatique.jpg)
 
 ###### Questions
 
 Quel terme issu de la [[rhétorique]] grecque décrit une figure de style où un mot est remplacé par un autre avec lequel il entretient un rapport de ressemblance, ce qui est un mécanisme souvent utilisé dans l'œuvre de [[William Shakespeare]] au XVIe siècle ?
 
-Quelle figure de style littéraire, essentielle dans la poésie symboliste de la fin des années 1800 notamment chez [[Stéphane Mallarmé]], remplace une idée par une image ou un symbole pour enrichir le texte par l'évocation ?
+Quelle figure de style littéraire, essentielle dans la poésie symboliste de la fin des années 1800 notamment chez [[Stéphane Mallarmé]], remplace une idée par une image ou un symbole pour enrichir le texte par l'évocation ? <!-- score: 5 -->
 
 Dans quelle figure de style, largement analysée dans les travaux de [[Paul Ricœur]] dans son ouvrage "La Métaphore vive" publié en 1975, un mot ou une expression est substitué à un autre pour créer une analogie implicite entre deux éléments ?
 

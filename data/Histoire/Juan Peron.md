@@ -18,9 +18,9 @@ indice_5:
   - Péronisme
 indice_6:
   - militaire
+culture_g_score: 80
+culture_g_justification: "Juan Perón est un repère majeur pour comprendre l’histoire politique argentine, le péronisme, Eva Perón et les régimes militaires latino-américains."
 ---
-
-
 ![Image de Juan Peron](https://upload.wikimedia.org/wikipedia/commons/f/f3/Museo_del_Bicentenario_-_%22Retrato_de_Juan_Domingo_Per%C3%B3n_y_Eva_Duarte%22%2C_Numa_Ayrinhac.jpg)
 
 ###### Questions

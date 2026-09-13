@@ -22,8 +22,9 @@ indice_6 :
   - voix puissante
 questions:
  - Quel ancien leader du groupe Midnight Oil est devenu ministre de l'Ecologie de son pays ?
+culture_g_score: 51
+culture_g_justification: "Leader de Midnight Oil et ancien ministre australien, intéressant par le lien musique-politique mais peu fréquent comme sujet autonome."
 ---
-
 ![Image de Peter Garrett](https://upload.wikimedia.org/wikipedia/commons/7/73/Peter_Garrett_2017.jpg)
 
 ###### Questions

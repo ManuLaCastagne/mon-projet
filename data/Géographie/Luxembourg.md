@@ -24,8 +24,9 @@ indice_6 :
   - Duché enclavé
 questions:
  - Quelle capitale d'un grand-duché…
+culture_g_score: 80
+culture_g_justification: "Petit pays européen incontournable pour le Benelux, l’Union européenne, la finance, les institutions et sa position entre France, Belgique et Allemagne."
 ---
-
 ![Image de Luxembourg](https://upload.wikimedia.org/wikipedia/commons/2/2e/Luxembourg_Pfaffenthal_Alzette_B%C3%A9inchen_01.jpg)
 
 ![[Carte_Luxembourg.png]]

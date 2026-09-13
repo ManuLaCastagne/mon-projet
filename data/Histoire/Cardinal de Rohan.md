@@ -20,8 +20,9 @@ indice_6 :
   - disgrâce royale
 questions:
  - En 1785, quel cardinal est arrêté dans la galerie des glaces pour sa responsabilité dans l'affaire du Collier de la Reine" ?
+culture_g_score: 51
+culture_g_justification: "Personnage secondaire surtout connu par l’Affaire du collier, avec peu d’applications indépendantes en dehors de ce scandale."
 ---
-
 ![Image de Cardinal de Rohan](https://upload.wikimedia.org/wikipedia/commons/8/82/Louis_Ren%C3%A9_Edouard_de_Rohan-Gu%C3%A9m%C3%A9n%C3%A9.jpg)
 
 ###### Questions

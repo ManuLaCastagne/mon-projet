@@ -20,9 +20,9 @@ indice_6 :
   - Mike Myers
 questions:
  - En 1997, quelle saga parodie les films d'espionnage avec Mike Myers qui s'oppose au Dr. d'Enfer ?
+culture_g_score: 73
+culture_g_justification: "Personnage cinématographique très populaire, régulièrement mobilisé pour la parodie de James Bond, ses personnages et ses répliques."
 ---
-
-
 ![Image de Austin Powers](https://upload.wikimedia.org/wikipedia/commons/c/c3/Austin_Powers_-_Movie_World_Parade.jpg)
 
 ###### Questions

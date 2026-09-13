@@ -18,8 +18,9 @@ indice_5 :
   - Spongebob
 indice_6 : 
   - Sharknado 3
+culture_g_score: 64
+culture_g_justification: "Célébrité télévisuelle internationale grâce à K 2000 et Alerte à Malibu, avec quelques prolongements musicaux et cinématographiques."
 ---
-
 ![Image de David Hasselhof](https://upload.wikimedia.org/wikipedia/commons/2/2e/David_Hasselhoff_2013.jpg)
 
 ###### Questions

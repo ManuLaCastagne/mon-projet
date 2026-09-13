@@ -20,8 +20,9 @@ indice_6 :
   - Commentateur sportif
 questions:
  - Quel grand joueur de tennis  des années 80, célèbre pour ses fréquentes colères...
+culture_g_score: 77
+culture_g_justification: "Grande figure du tennis mondial, régulièrement interrogée pour ses titres, son style de jeu et ses célèbres emportements."
 ---
-
 ![Image de John McEnroe](https://upload.wikimedia.org/wikipedia/commons/3/3a/US_Open_2009_4th_round_622.jpg)
 
 ###### Questions

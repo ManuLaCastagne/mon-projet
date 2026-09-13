@@ -22,9 +22,9 @@ indice_5 :
   - marché des féticheurs
 indice_6 : 
   - université de Lomé
+culture_g_score: 40
+culture_g_justification: "Capitale d’un État d’Afrique de l’Ouest assez peu interrogé, principalement utile pour identifier le Togo et son littoral."
 ---
-
-
 ![Image de Lomé](https://upload.wikimedia.org/wikipedia/commons/7/72/Lome_Togo_Beach_Road.jpg)
 
 ![[Carte_Lomé.png]]

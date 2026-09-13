@@ -22,8 +22,9 @@ indice_6 :
   - rites mystiques
 questions:
  - Dans quel roman de Witold Gombrowicz un jeune professeur de tennis se rend-il près du château de Myslotch pour y entraîner une joueuse?
+culture_g_score: 20
+culture_g_justification: "Film français contemporain confidentiel, offrant très peu de prises pour des questions généralistes."
 ---
-
 ![Image de Les Envoûtés](https://upload.wikimedia.org/wikipedia/commons/0/03/Rosa_Spellbound_0zz.jpg)
 
 ###### Questions

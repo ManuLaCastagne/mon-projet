@@ -22,8 +22,9 @@ indice_6 :
   - groupe anglais
 questions:
  - Quel groupe britannique, interprète des tubes "Personnal Jesus" et "Just can't get enough" porte un nom inspiré par le titre...
+culture_g_score: 80
+culture_g_justification: "Groupe essentiel de la new wave et de l’électro-pop, régulièrement associé à «Violator», ses tubes et son influence musicale."
 ---
-
 ![Image de Depeche Mode](https://upload.wikimedia.org/wikipedia/commons/0/0b/Depeche_Mode_Oct_4_2022_%283%29.jpg)
 
 ###### Questions

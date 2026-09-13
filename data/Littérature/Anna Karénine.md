@@ -22,8 +22,9 @@ indice_6 :
   - Stiva Oblonsky
 questions:
  - Dans quel roman de Léon Tolstoï l'héroïne reçoit-elle une lettre de son mari dans laquelle il ne lui tient pas rigueur d'avoir fauté avec le comte Vronski?
+culture_g_score: 92
+culture_g_justification: "Chef-d’œuvre universel de Tolstoï, très rentable grâce à ses liens avec la littérature russe, l’histoire sociale et de nombreuses adaptations."
 ---
-
 ![Image de Anna Karénine](https://upload.wikimedia.org/wikipedia/commons/3/3a/Anna_Kar%C3%A9nine_-_sc%C3%A9nario_-_btv1b64080768_%282_of_2%29.jpg)
 
 ###### Questions

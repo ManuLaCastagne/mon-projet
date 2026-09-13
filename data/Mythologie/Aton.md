@@ -18,8 +18,9 @@ indice_6 :
   - horizon
 questions:
  - De quel dieu suprême Amenophis IV développa-t-il le culte représentant le soleil dans sa totalité astrale ?
+culture_g_score: 64
+culture_g_justification: "Dieu central de la réforme religieuse d’Akhenaton, utile pour l’Égypte antique mais moins transversal que les grandes divinités égyptiennes."
 ---
-
 ![Image de Aton](https://upload.wikimedia.org/wikipedia/commons/a/af/Aten.svg)
 
 ###### Questions

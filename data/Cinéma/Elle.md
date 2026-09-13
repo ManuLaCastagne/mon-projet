@@ -18,8 +18,9 @@ indice_5:
   - César du meilleur film
 indice_6:
   - Thriller psychologique
+culture_g_score: 60
+culture_g_justification: "Film reconnu pour Paul Verhoeven et Isabelle Huppert, avec des liens utiles vers la littérature, le cinéma français et les récompenses."
 ---
-
 ![Image de Elle (Verhoeven)](https://upload.wikimedia.org/wikipedia/commons/2/2d/Paul_Verhoeven%2C_%22Elle%22_Amsterdam_premiere_%282%29.jpg)
 
 ###### Questions

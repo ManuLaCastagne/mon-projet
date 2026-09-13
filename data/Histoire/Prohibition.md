@@ -19,6 +19,7 @@ indice_5 :
 indice_6 : 
   - Al Capone
 culture_g_score: 80
+culture_g_justification: "Épisode classique de l’histoire américaine, relié à la Constitution, au crime organisé, aux mœurs et à la crise politique."
 ---
 ![Image de Prohibition](https://upload.wikimedia.org/wikipedia/commons/b/b5/Labor_unions_hold_anti-prohibition_meeting.jpg)
 

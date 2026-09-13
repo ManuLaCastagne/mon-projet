@@ -20,8 +20,9 @@ indice_6 :
   - château de Candiac en Languedoc-Roussillon
 questions:
  - Quel général français, tué en 1759 en défendant Québec, est né au château de Candiac près de Nîmes ?
+culture_g_score: 60
+culture_g_justification: "Montcalm est un personnage classique de la guerre de Sept Ans et de la Nouvelle-France, mais demeure assez spécialisé."
 ---
-
 ![Image de Louis-Joseph de Montcalm](https://upload.wikimedia.org/wikipedia/commons/8/88/Louis-Joseph_de_Montcalm_cph.3g09407.jpg)
 
 ###### Questions

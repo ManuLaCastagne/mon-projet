@@ -20,8 +20,9 @@ indice_5 :
   - science-fiction
 indice_6 : 
   - American Graffiti
+culture_g_score: 100
+culture_g_justification: "Créateur de Star Wars et acteur central de la production hollywoodienne moderne, avec d'innombrables liens vers cinéma, science-fiction et industrie culturelle."
 ---
-
 ![Image de George Lucas](https://upload.wikimedia.org/wikipedia/commons/a/a0/George_Lucas_cropped_2009.jpg)
 
 ###### Questions

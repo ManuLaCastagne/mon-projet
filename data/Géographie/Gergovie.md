@@ -24,8 +24,9 @@ indice_6 :
   - Massif Central
 questions:
  - En mai 52 avant notre ère, quelle place forte défendue par Vercingétorix soutient victorieusement un siège contre Jules César ?
+culture_g_score: 64
+culture_g_justification: "Victoire gauloise emblématique face à César, régulièrement citée avec Vercingétorix, mais moins transversale que la Gaule elle-même."
 ---
-
 ![[Carte_Gergovie.png]]
 
 ###### Questions

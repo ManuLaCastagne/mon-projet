@@ -15,8 +15,9 @@ indice_6 :
   - Décoration intérieure et extérieure
 questions:
  - En botanique, par quelle locution imagée évoquant de façon peu aimable la mère du conjoint ?
+culture_g_score: 44
+culture_g_justification: "Cactus célèbre par son surnom pittoresque et son aspect reconnaissable, surtout utile pour une question de curiosité botanique."
 ---
-
 ![Image de Coussin de belle-mère](https://upload.wikimedia.org/wikipedia/commons/e/e1/Coussin_de_belle-m%C3%A8re_%28Echinocactus_grusonii%29.jpg)
 
 ###### Questions

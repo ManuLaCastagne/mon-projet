@@ -22,9 +22,9 @@ indice_6 :
   - histoire vraie
 questions:
  - En 2018, quel film de Spike Lee, sous-titré "J'ai infiltré le Ku Klux Klan", s'inspire de l'histoire vraie du policier Ron Stallworth?
+culture_g_score: 67
+culture_g_justification: "Film de Spike Lee fondé sur un fait historique, utile pour le racisme aux États-Unis, le Ku Klux Klan, Cannes et les Oscars."
 ---
-
-
 ![Image de BlacKkKlansman](https://upload.wikimedia.org/wikipedia/commons/a/a3/BlacKkKlansman_logo.svg)
 
 ###### Questions

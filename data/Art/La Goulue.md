@@ -23,8 +23,9 @@ indice_6 :
   - Louise Weber
 questions:
  - En 1893, quelle danseuse du Moulin-Rouge (théâtre) est immortalisée par Toulouse-Lautrec dans un tableau montrant son entrée en scène?
+culture_g_score: 47
+culture_g_justification: "La Goulue est une figure pittoresque du Moulin-Rouge et de Toulouse-Lautrec, mais son usage en quiz reste surtout anecdotique."
 ---
-
 ![Image de La Goulue](https://upload.wikimedia.org/wikipedia/commons/3/3a/La_Goulue_1885.jpg)
 
 ###### Questions

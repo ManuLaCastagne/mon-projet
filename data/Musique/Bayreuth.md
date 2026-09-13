@@ -22,8 +22,9 @@ indice_6 :
   - Parsifal
 questions:
  - Dans quelle ville de Bavière a-t-on fondé en 1876...
+culture_g_score: 60
+culture_g_justification: "Ville surtout connue grâce au festival et au théâtre de Wagner, ce qui offre plusieurs angles mais dans un domaine circonscrit."
 ---
-
 ![Image de Bayreuth](https://upload.wikimedia.org/wikipedia/commons/8/89/Bayreuth_Synagoge_2019-07-25.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6:
   - Pays de Caux
 questions:
   - Quelle variété de gypse a donné son nom à la côte bordée de falaises blanches longeant les ports de Fécamp et Saint-Valéry-en-Caux ?
+culture_g_score: 60
+culture_g_justification: "Littoral normand associé aux falaises d’Étretat et à la géographie côtière, mais moins fréquent que les sites précis qu’il englobe."
 ---
-
-
 ![Image de Côte d'Albâtre](https://upload.wikimedia.org/wikipedia/commons/2/2b/C%C3%B4te_d%27Alb%C3%A2tre_%C3%A0_l%C2%B4Aiguille_de_Belval.jpg)
 
 ![[Carte_Côte d'Albâtre.png]]

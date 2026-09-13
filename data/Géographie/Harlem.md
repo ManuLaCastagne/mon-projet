@@ -24,8 +24,9 @@ indice_6 :
   - 125th Street
 questions:
  - Quel quartier de New York est typiquement afro-américain ?
+culture_g_score: 80
+culture_g_justification: "Quartier emblématique, très rentable grâce à la Harlem Renaissance, à la culture afro-américaine, au jazz, à la ségrégation et à New York."
 ---
-
 ![Image de Harlem](https://upload.wikimedia.org/wikipedia/commons/a/a6/Harlem_04.jpg)
 
 ![[Carte_Harlem.png]]

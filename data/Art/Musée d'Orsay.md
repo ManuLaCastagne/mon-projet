@@ -23,8 +23,9 @@ indice_6 :
   - Edouard Manet
 questions:
  - Quel musée ouvert en 1986 est installé dans une ancienne gare parisienne et dédié à l'impressionnisme ?
+culture_g_score: 84
+culture_g_justification: "Le musée d'Orsay est une référence majeure des quiz grâce à son bâtiment, l'impressionnisme, ses collections et ses artistes célèbres."
 ---
-
 ![Image de Musée d'Orsay](https://upload.wikimedia.org/wikipedia/commons/0/0c/Musee_d%27Orsay_and_Pont_Royal%2C_North-West_view_140402_1.jpg)
 
 ###### Questions

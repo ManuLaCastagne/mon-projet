@@ -18,17 +18,9 @@ indice_6 :
   - Géants nordiques
 questions:
  - Dans la [[mythologie grecque]], quels êtres fabuleux nés du sang d'Ouranos, prirent d'assaut le mont Olympe pour livrer aux dieux le combat appelé gigantomachie?
+culture_g_score: 67
+culture_g_justification: "Catégorie très large de créatures, exploitable en mythologies grecque et nordique mais souvent imprécise comme réponse."
 ---
-
-
-
-
-
-
-
-
-
-
 ![Image de Géants](https://upload.wikimedia.org/wikipedia/commons/1/12/Dionysos_Giant_Louvre_G434.jpg)
 
 ###### Questions

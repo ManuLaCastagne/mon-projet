@@ -15,8 +15,9 @@ indice_6:
   - Symbole de sagesse en Asie
 questions:
   - Quel grand singe à la fourrure rousse dont le nom signifie homme des bois en malais, vit dans les forêts de Sumatra et de Bornéo ?
+culture_g_score: 80
+culture_g_justification: "Grand singe asiatique très important en zoologie et en conservation, avec des angles sur l’évolution, la déforestation, les outils et Bornéo-Sumatra."
 ---
-
 ![Image de Orang-outan](https://upload.wikimedia.org/wikipedia/commons/7/78/Pongo_pygmaeus_%28orangutang%29.jpg)
 
 ###### Questions

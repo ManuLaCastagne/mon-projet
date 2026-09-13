@@ -20,7 +20,10 @@ indice_6 :
   - Copa America
 questions:
  - Footballeur né le 5 février 92, j'ai marqué mon 1er but en professionnel en 2009, lors d'un match contre Mogi Mirim. Médaillé d'or, avec ma sélection nationale et meilleure buteur du tournoi olympique disputé à domicile en 2016, j'ai formé jusqu'en...
+culture_g_score: 88
+culture_g_justification: "Star mondiale du football, fréquemment interrogée pour ses transferts records, ses clubs, ses titres et sa carrière brésilienne."
 ---
+
 
 ![Image de Neymar](https://upload.wikimedia.org/wikipedia/commons/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg)
 
@@ -28,10 +31,7 @@ questions:
 
 Quel joueur de football a été transféré du [[FC Barcelone]] au [[Paris Saint-Germain]] en 2017 pour la somme record de 222 millions d'euros ?
 
-Quel footballeur brésilien a remporté la médaille d'or lors des [[Jeux olympiques]] d'été de [[Rio 2016]] avec l'équipe nationale du [[Brésil]] ?
-
 Quel joueur a été nommé « [[Meilleur joueur sud-américain]] » en 2011 et 2012 alors qu'il jouait pour le club de [[Santos FC]] ?
-
 ###### Description
 
 [[Neymar]] da Silva Santos Júnior, mieux connu sous le nom de [[Neymar]], est né le 5 février 1992 à [[Mogi das Cruzes]], au Brésil. 

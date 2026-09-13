@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de lenteur et de tranquillité
 questions:
  - Quel mammifère xénarthre…
+culture_g_score: 65
+culture_g_justification: "Animal populaire et mémorable, utile pour des questions de comportement, d’écologie tropicale et d’adaptations biologiques."
 ---
-
-
 ![Image de Paresseux](https://upload.wikimedia.org/wikipedia/commons/d/d9/Caseneuve_-_sanglier_paresseux_2.JPG)
 
 ###### Questions

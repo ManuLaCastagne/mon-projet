@@ -21,8 +21,9 @@ indice_5:
   - Musée Eugène Boudin
 indice_6:
   - Côte Fleurie
+culture_g_score: 80
+culture_g_justification: "Ville normande très rentable grâce à son port, son patrimoine en bois, l’impressionnisme et son lien avec la fondation de Québec."
 ---
-
 ![Image de Honfleur](https://upload.wikimedia.org/wikipedia/commons/e/e4/Looking_up_Rue_de_la_Chauss%C3%A9e_from_Rue_Notre-Dame%2C_Honfleur%2C_2024.jpg)
 
 ![[Carte_Honfleur.png]]

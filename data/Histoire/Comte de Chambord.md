@@ -20,8 +20,9 @@ indice_6 :
   - petit-fils de Charles X
 questions:
  - En 1871, quel prince prétendant au trône de France sous le nom d'Henri V, affirme sa fidélité au drapeau blanc ?
+culture_g_score: 60
+culture_g_justification: "Prétendant emblématique de la monarchie légitimiste, surtout utile pour comprendre l’échec d’une restauration monarchique sous la Troisième République."
 ---
-
 ![Image de Comte de Chambord](https://upload.wikimedia.org/wikipedia/commons/c/c3/%C3%89tienne_Neurdein_-_Comte_de_Chambord_%28chiffre_de_trois_quarts_ca_1870%29.jpg)
 
 ###### Questions

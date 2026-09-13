@@ -20,8 +20,9 @@ indice_6 :
   - Prix Henry Deutsch de la Meurthe
 questions:
  - Navigatrice surnommée "la petite fiancée de l'Atlantique", disparue en 2015  dans l'accident d'hélicoptère dont vous vous souvenez, je suis…
+culture_g_score: 80
+culture_g_justification: "Navigatrice française emblématique, Arthaud est fréquemment associée à la Route du Rhum, à ses records et à son destin tragique."
 ---
-
 ![Image de Florence Arthaud](https://upload.wikimedia.org/wikipedia/commons/6/62/Florence_Arthaud_d%C3%A9dicace.JPG)
 
 ###### Questions

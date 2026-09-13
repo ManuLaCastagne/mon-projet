@@ -22,8 +22,9 @@ indice_6 :
   - La chaleur écrasante du Sud
 questions:
  - Quel roman de Laurent Godet, lauréat du Goncourt en 2004, raconte de 1870 à nos jours l'histoire d'une famille du sud de l'Italie ?
+culture_g_score: 60
+culture_g_justification: "Prix Goncourt bien identifiable, mais roman contemporain moins transversal et moins incontournable que les grands classiques."
 ---
-
 ![Image de Soleil des Scorta](https://upload.wikimedia.org/wikipedia/commons/b/b2/Revue_des_Deux_Mondes_-_1906_-_tome_31.djvu)
 
 ###### Questions

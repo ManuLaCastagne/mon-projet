@@ -20,9 +20,9 @@ indice_6 :
   - médecine de l'époque viktorienne
 questions:
  - Dans quelle série des années 1990 se déroulant au XVIIIe dans l'Ouest américain Jane Seymour joue le docteur éponyme ?
+culture_g_score: 56
+culture_g_justification: "Série populaire des années 1990, régulièrement reconnaissable grâce à Jane Seymour, son cadre western et ses thèmes sociaux."
 ---
-
-
 ![Image de Docteur Quinn, femme médecin](https://upload.wikimedia.org/wikipedia/commons/c/c1/Journal_des_connaissances_m%C3%A9dicales_pratiques_et_de_pharmacologie._Volume_2%2C_Issue_24_%2848i%C3%A8me_ann%C3%A9e%2C_3i%C3%A8me_serie%29%2C_10_June_1880._%28IA_s3409id1397009%29.pdf)
 
 ###### Questions

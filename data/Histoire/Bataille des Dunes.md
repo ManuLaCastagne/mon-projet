@@ -18,8 +18,9 @@ indice_5 :
   - Victoire de Turenne
 indice_6 : 
   - Dynastie des Habsbourg
+culture_g_score: 32
+culture_g_justification: "Victoire française importante pour la paix des Pyrénées, mais peu présente dans la culture générale courante."
 ---
-
 ![Image de Bataille des Dunes](https://upload.wikimedia.org/wikipedia/commons/0/0f/Siege_de_Dunkerque_et_bataille_des_Dunes_en_1658.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - roman surréaliste
 questions:
  - Roman français achevé d'imprimer le 20 mars 1947, j'ai été écrit en 3 mois au dos de formulaires de l'AFNOR, où travaillait mon auteur.  Histoire "entièrement vraie, puisque je l'ai imaginée d'un bout à l'autre", comme l'indique mon auteur dans l'avant-propos, je raconte l'amour de Colin pour Chloé...
+culture_g_score: 80
+culture_g_justification: "Roman emblématique de Boris Vian, il fournit des entrées fréquentes sur l’absurde, la littérature française et la culture populaire."
 ---
-
 ![Image de L'Écume des jours](https://upload.wikimedia.org/wikipedia/commons/6/6b/L%27%C3%A9cume_des_jours.jpg)
 
 ###### Questions

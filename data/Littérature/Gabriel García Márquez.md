@@ -22,8 +22,9 @@ indice_6 :
   - Colombien
 questions:
  - On vient d'entendre "Les sabots d'Hélène", chanson de Georges Brassens bien sûr, dont on commémore en 2021 les 40 ans de la disparition. Dans un texte publié juste après  la mort du chanteur, quel Prix Nobel de littérature colombien considérait que G.Brassens était le plus grand poète français de son temps?
+culture_g_score: 100
+culture_g_justification: "Écrivain mondialement incontournable, lié au réalisme magique, à Cent ans de solitude, au Nobel et à l’histoire latino-américaine."
 ---
-
 ![Image de Gabriel García Márquez](https://upload.wikimedia.org/wikipedia/commons/5/5b/Gabriel_Garc%C3%ADa_M%C3%A1rquez_02.jpg)
 
 ###### Questions

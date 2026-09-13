@@ -24,8 +24,9 @@ indice_6 :
   - delta du Zambèze
 questions:
  - Quel état africain a pour monnaie le métical et a pour capitale Maputo ?
+culture_g_score: 72
+culture_g_justification: "Pays africain important pour la colonisation portugaise, la géographie australe, la langue et les ressources naturelles."
 ---
-
 ![Image de Mozambique](https://upload.wikimedia.org/wikipedia/commons/b/b0/Mozambique_-_traditional_sailboat.jpg)
 
 ![[Carte_Mozambique.png]]

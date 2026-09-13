@@ -16,6 +16,7 @@ indice_6 :
 questions:
  - Quelle guêpe solitaire est notamment dite potière parce que son nid, suspendu à une tige ou à une pierre ressemble à un pot d'argile?
 culture_g_score: 23
+culture_g_justification: "Insecte intéressant par son comportement, mais très spécialisé et rarement utilisé comme réponse dans les quiz généralistes."
 ---
 ![Image de Guêpe maçonne](https://upload.wikimedia.org/wikipedia/commons/b/b2/Gu%C3%AApe_ma%C3%A7onne1.jpg)
 

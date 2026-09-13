@@ -22,9 +22,9 @@ indice_6 :
   - chanteur français
 questions:
  - En 2019, comédien et chanteur qui a reçu le césar du meilleur acteur, dans "Le Grand bain" ?
+culture_g_score: 67
+culture_g_justification: "Artiste polyvalent présent dans la musique, le cinéma et la culture populaire, avec plusieurs repères facilement réutilisables."
 ---
-
-
 ![Image de Philippe Katerine](https://upload.wikimedia.org/wikipedia/commons/8/8d/Katerine_IMG_6757.jpg)
 
 ###### Questions

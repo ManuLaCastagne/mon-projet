@@ -19,8 +19,9 @@ indice_5 :
   - enquête approfondie
 indice_6 : 
   - magazine télévisé
+culture_g_score: 77
+culture_g_justification: "Émission d’investigation durable et régulièrement citée lors d’affaires médiatiques, politiques ou sociales françaises."
 ---
-
 ![Image de Complément d’enquête](https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Compl%C3%A9ment_d%27enqu%C3%AAte_France_2_France_T%C3%A9l%C3%A9visions.jpg)
 
 ###### Questions

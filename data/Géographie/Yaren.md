@@ -22,8 +22,9 @@ indice_5 :
   - phosphate
 indice_6 : 
   - île-État
+culture_g_score: 23
+culture_g_justification: "District faisant fonction de capitale de Nauru, connaissance très spécifique et rarement demandée hors des quiz sur les micro-États."
 ---
-
 ![Image de Yaren](https://upload.wikimedia.org/wikipedia/commons/f/fa/Yaren_street%2C_Nauru.jpg)
 
 ![[Carte_Yaren.png]]

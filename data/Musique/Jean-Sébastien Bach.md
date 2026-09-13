@@ -22,8 +22,9 @@ indice_6:
   - Musique instrumentale
 questions:
   - Qui a écrit la "Messe en si mineur" ?
+culture_g_score: 100
+culture_g_justification: "Figure fondamentale de la musique occidentale, omniprésente dans les quiz par ses œuvres, sa famille, son époque et son influence."
 ---
-
 ![Image de Jean-Sébastien Bach](https://upload.wikimedia.org/wikipedia/commons/2/24/P1080994_Paris_XIII_rue_Jean-S%C3%A9bastien-Bach_rwk.JPG)
 
 ###### Questions

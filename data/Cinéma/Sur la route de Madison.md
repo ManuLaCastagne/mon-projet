@@ -22,8 +22,9 @@ indice_6 :
   - histoire d'amour
 questions:
  - En 1995, dans quel film Clint Eastwood se met-il en scène dans le rôle d'un photographe ?
+culture_g_score: 68
+culture_g_justification: "Drame romantique célèbre de Clint Eastwood avec Meryl Streep, utile pour le cinéma américain mais moins transversal qu’un classique majeur."
 ---
-
 ![Image de Sur la route de Madison](https://upload.wikimedia.org/wikipedia/commons/0/07/I_Love_My_Black_And_White_Little_Squares_%28174517023%29.jpeg)
 
 ###### Questions

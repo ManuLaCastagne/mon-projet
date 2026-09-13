@@ -22,9 +22,9 @@ indice_5 :
   - Église de la Madeleine
 indice_6 : 
   - Gare Saint-Lazare
+culture_g_score: 64
+culture_g_justification: "Arrondissement associé aux Champs-Élysées, à l'Élysée, à l'Arc de Triomphe et à plusieurs institutions majeures."
 ---
-
-
 ![[Carte_8e arrondissement (Paris).png]]
 
 ###### Questions

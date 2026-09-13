@@ -22,8 +22,9 @@ indice_5 :
   - désert du Danakil
 indice_6 : 
   - bases militaires étrangères
+culture_g_score: 52
+culture_g_justification: "Archipel polynésien associé à Gauguin, Brel et à l’histoire coloniale française, les Marquises offrent quelques repères culturels mais restent spécialisées."
 ---
-
 ![Image de Djibouti](https://upload.wikimedia.org/wikipedia/commons/2/2a/Djibouti_City.jpg)
 
 ![[Carte_Djibouti.png]]

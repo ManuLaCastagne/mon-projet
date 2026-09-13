@@ -20,8 +20,9 @@ indice_6 :
   - Exposé au Louvre
 questions:
  - Quel gros diamant de 137 carats, découvert en Inde en 1701, constitue l'un des joyaux de la Couronne de France, exposé au Louvre ?
+culture_g_score: 64
+culture_g_justification: "Joyau célèbre du patrimoine français, surtout interrogé sur les diamants historiques, la monarchie et les joyaux de la Couronne."
 ---
-
 ![Image de Régent (diamant)](https://upload.wikimedia.org/wikipedia/commons/c/ce/Diamant_le_R%C3%A9gent_%28Louvre%29.jpg)
 
 ###### Questions

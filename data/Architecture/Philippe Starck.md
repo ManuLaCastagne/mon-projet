@@ -20,9 +20,9 @@ indice_6 :
   - contribution au design de l'hôtel Mama Shelter
 questions:
  - A quel designer français, né en 1949, François Mitterrand a-t-il commandé un salon-bibliothèque et une chambre pour décorer les appartements privés de l'Elysée?
+culture_g_score: 68
+culture_g_justification: "Designer très connu, exploitable par ses créations, ses aménagements et la culture populaire, malgré une importance historique modérée."
 ---
-
-
 ![Image de Philippe Starck](https://upload.wikimedia.org/wikipedia/commons/6/62/Asahi_Breweries_headquarters_building_with_the_Asahi_Flame_and_Skytree_at_blue_hour_with_full_moon%2C_Sumida-ku%2C_Tokyo%2C_Japan.jpg)
 
 ###### Questions

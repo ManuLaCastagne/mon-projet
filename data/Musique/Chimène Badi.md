@@ -22,8 +22,9 @@ indice_6 :
   - chanteuse française
 questions:
  - En 2003, quelle chanteuse à la voix puissante, révélée par l'émission "Popstars", classe son 1er single "Entre nous"...
+culture_g_score: 53
+culture_g_justification: "Chanteuse française populaire surtout connue pour quelques tubes, Popstars et l’Eurovision, avec une portée culturelle relativement limitée."
 ---
-
 ![Image de Chimène Badi](https://upload.wikimedia.org/wikipedia/commons/7/74/1566595-chimene-badi-a-perdu-du-poids-et-950x0-2.jpg)
 
 ###### Questions

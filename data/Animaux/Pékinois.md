@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de loyauté et de noblesse
 questions:
  - Quel petit chien à poils longs, du groupe des épagneuls nains et associé à la Chine, est reconnaissable à son museau aplati ?
+culture_g_score: 44
+culture_g_justification: "Race canine reconnaissable et liée à l’histoire impériale chinoise, mais assez rarement interrogée en dehors des questions sur les chiens."
 ---
-
 ![Image de Pékinois](https://upload.wikimedia.org/wikipedia/commons/9/98/Looty_the_Pekingese_%281865%29.jpg)
 
 ###### Questions

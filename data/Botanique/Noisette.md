@@ -15,8 +15,9 @@ indice_6 :
   - Pâtisseries
 questions:
  - Fruit pouvant être issu des variétés Daviana ou merveilles de Bollwiller, je suis vendu frais ou sec selon la saison.  De forme arrondie ou allongée, très énergétique, je suis utilisé en cuisine dans des terrines ou des gâteaux et suis apprécié dans des tablettes de chocolat.
+culture_g_score: 64
+culture_g_justification: "Fruit courant et lié à la cuisine, à l'agriculture et au noisetier, avec une bonne reconnaissance mais peu d'angles majeurs."
 ---
-
 ![Image de Noisette](https://upload.wikimedia.org/wikipedia/commons/8/8d/Parc_de_la_Noisette_%C3%A0_Antony_et_Verri%C3%A8res-le-Buisson_le_22_ao%C3%BBt_2017_-_37.jpg)
 
 ###### Questions

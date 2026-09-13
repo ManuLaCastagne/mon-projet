@@ -4,6 +4,8 @@ tags:
   - XXe
   - Années_1930
 date: 1933
+culture_g_score: 64
+culture_g_justification: "Matériau et marque très connus, susceptible d’apparaître dans des questions sur les plastiques, l’automobile, l’architecture et la guerre."
 ---
 ###### Questions 
 

@@ -15,8 +15,9 @@ indice_6 :
   - Historiquement utilisée comme poison
 questions:
  - Quelle haute plante des décombres et des chemins, avec des petites fleurs blanches en ombelles, renferme un alcaloïde toxique appelé "cicutine" ?
+culture_g_score: 80
+culture_g_justification: "La mort de Socrate, la toxicologie et l’histoire antique en font une plante régulièrement exploitable dans les quiz."
 ---
-
 ![Image de Ciguë](https://upload.wikimedia.org/wikipedia/commons/c/c2/La_Cigu%C3%AB_office_at_Boulevard_du_Pont_d%27Arve_23%2C_Geneva.jpg)
 
 ###### Questions

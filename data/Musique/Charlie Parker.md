@@ -21,8 +21,9 @@ indice_6:
   - Dizzy Gillespie
 questions:
   - Quel saxophoniste et compositeur américain de jazz, surnommé Bird, a été le pionnier et le plus grand soliste...
+culture_g_score: 100
+culture_g_justification: "Figure fondatrice du bebop et du jazz moderne, incontournable pour les styles, les collaborations, les œuvres et l’histoire musicale américaine."
 ---
-
 ![Image de Charlie Parker](https://upload.wikimedia.org/wikipedia/commons/8/82/Portrait_of_Charlie_Parker_in_1947.jpg)
 
 ###### Questions

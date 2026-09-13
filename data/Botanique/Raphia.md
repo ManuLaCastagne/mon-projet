@@ -13,8 +13,9 @@ indice_5:
   - Palmier à raphia
 indice_6:
   - Fabrication de cordes et de paniers
+culture_g_score: 51
+culture_g_justification: "Palmier remarquable par ses feuilles et ses usages artisanaux, avec quelques angles géographiques mais une fréquence limitée."
 ---
-
 ![Image de Raphia](https://upload.wikimedia.org/wikipedia/commons/7/71/Raphia_australis.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - génie dans Aladdin
 indice_6 : 
   - acteur américain
+culture_g_score: 96
+culture_g_justification: "Personnalité universellement connue grâce à la comédie, au doublage, à la télévision et à des films majeurs comme Will Hunting."
 ---
-
 ![Image de Robin Williams](https://upload.wikimedia.org/wikipedia/commons/f/fa/Robin_Williams_1978_%28cropped%29.jpg)
 
 ###### Questions

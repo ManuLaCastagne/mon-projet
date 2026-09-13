@@ -20,8 +20,9 @@ indice_6 :
   - Politique
 questions:
  - Entre 1993 et 2000, quel judoka français a remporté quatre titres de champion du monde et deux titres olympiques ?
+culture_g_score: 80
+culture_g_justification: "Judoka français très célèbre, associé à deux titres olympiques, quatre titres mondiaux et une carrière politique."
 ---
-
 ![Image de David Douillet](https://upload.wikimedia.org/wikipedia/commons/c/c5/David_Douillet%2C_23-11-2023_%281%29.jpg)
 
 ###### Questions

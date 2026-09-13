@@ -22,8 +22,9 @@ indice_5 :
   - Place Kléber
 indice_6 : 
   - Université de Strasbourg
+culture_g_score: 80
+culture_g_justification: "Ville française majeure, rentable grâce à sa cathédrale, son histoire européenne et son rôle institutionnel."
 ---
-
 ![[Carte_Strasbourg.png]]
 
 ###### Questions

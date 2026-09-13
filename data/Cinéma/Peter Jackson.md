@@ -22,8 +22,9 @@ indice_6 :
   - effets spéciaux innovants
 questions:
  - A quel cinéaste néo-zélandais doit-t-on la réalisation de la trilogie du "Seigneur des anneaux"?
+culture_g_score: 93
+culture_g_justification: "Réalisateur de la trilogie du Seigneur des anneaux et du Hobbit, incontournable dans les quiz sur Tolkien, les Oscars, la Nouvelle-Zélande et le cinéma populaire."
 ---
-
 ![Image de Peter Jackson](https://upload.wikimedia.org/wikipedia/commons/4/4a/Peter_Jackson_SDCC_2014.jpg)
 
 ###### Questions

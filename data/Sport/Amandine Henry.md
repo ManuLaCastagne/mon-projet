@@ -20,8 +20,9 @@ indice_6 :
   - Milieu de terrain
 questions:
  - En football, lors de la coupe du monde féminine de 2019, quel milieu de terrain française était la capitaine des Bleues?
+culture_g_score: 60
+culture_g_justification: "Internationale française importante du football féminin, associée à l’équipe de France, à Lyon et à la Coupe du monde 2015."
 ---
-
 ![Image de Amandine Henry](https://upload.wikimedia.org/wikipedia/commons/f/f2/2019-05-17_Fu%C3%9Fball%2C_Frauen%2C_UEFA_Women%27s_Champions_League%2C_Olympique_Lyonnais_-_FC_Barcelona_StP_0709_LR10_by_Stepro_%28cropped%29.jpg)
 
 ###### Questions

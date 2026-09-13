@@ -23,8 +23,9 @@ indice_6 :
   - climat glacial
 questions:
  - En 1922, avec quelle sculpture François Pompon se présente-t-il...
+culture_g_score: 60
+culture_g_justification: "L'Ours blanc de Pompon est une œuvre animalière reconnaissable, surtout utile pour des questions sur la sculpture française et le musée d'Orsay."
 ---
-
 ![Image de Ours blanc](https://upload.wikimedia.org/wikipedia/commons/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg)
 
 ###### Questions

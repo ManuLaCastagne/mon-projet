@@ -23,10 +23,9 @@ indice_6 :
 questions:
  - De quel écrivain irlandais, auteur du roman "Ulysse" en 1922, peut-on voir la statue  dans une rue de Dublin ?
  - A quel auteur d'"Ulysse"...
+culture_g_score: 91
+culture_g_justification: "Auteur majeur du modernisme, Joyce permet des questions nombreuses sur Ulysse, Dubliners, l’Irlande, la structure narrative et l’histoire littéraire."
 ---
-
-
-
 ![Image de James Joyce](https://upload.wikimedia.org/wikipedia/commons/7/75/James_Joyce_by_Alex_Ehrenzweig%2C_1915_cropped.jpg)
 
 ###### Questions

@@ -15,10 +15,9 @@ indice_6 :
   - Charognard
 questions:
  - Quel rapace diurne, de la famille des accipitridés, à la tête et au cou déplumés, peut être griffon ou moine?
+culture_g_score: 80
+culture_g_justification: "Le vautour est une référence utile en zoologie, écologie, mythologie et culture populaire, notamment pour son rôle de charognard."
 ---
-
-
-
 ![Image de Vautour](https://upload.wikimedia.org/wikipedia/commons/1/19/Vautour_fauve_%28Gyps_fulvus%29.jpg)
 
 ###### Questions

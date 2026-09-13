@@ -22,8 +22,9 @@ indice_5 :
   - Sud de la France
 indice_6 : 
   - village historique
+culture_g_score: 60
+culture_g_justification: "Capitale de Sainte-Lucie assez classique, mais le sujet reste limité malgré quelques repères caribéens et historiques."
 ---
-
 ![Image de Castries](https://upload.wikimedia.org/wikipedia/commons/9/94/Pinus_halepensis%2C_Castries%2C_H%C3%A9rault_01.jpg)
 
 ![[Carte_Castries.png]]

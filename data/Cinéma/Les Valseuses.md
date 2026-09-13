@@ -22,8 +22,9 @@ indice_6 :
   - délinquance et liberté
 questions:
  - En 1974, dans quel film de Bertrand Blier voit-on Patrick Dewaere pousser Gérard Depardieu dans un Caddie à la poursuite d'une dame?
+culture_g_score: 77
+culture_g_justification: "Film culte et provocateur du cinéma français, régulièrement lié à Blier, Depardieu, Dewaere, Miou-Miou et Mai 68."
 ---
-
 ![Image de Les Valseuses](https://upload.wikimedia.org/wikipedia/commons/9/94/Going_Places_poster.jpg)
 
 ###### Questions

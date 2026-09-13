@@ -20,8 +20,9 @@ indice_6:
   - preux chevalier
 questions:
   - Je mets en avant les qualités de courage et de générosité envers ses adversaires d'un homme de guerre ayant contribué à la victoire de Marignan.  Expression associée au chevalier Bayard, je suis…
+culture_g_score: 57
+culture_g_justification: "Le surnom de Bayard est une référence classique de l’histoire militaire française, mais il renvoie surtout à un fait central."
 ---
-
 ![Image de Chevalier sans peur et sans reproche](https://upload.wikimedia.org/wikipedia/commons/8/8e/%22M._de_Gailhard-Bancel%2C_chevalier_sans_peur_et_sans_reproche%22.jpg)
 
 ###### Questions

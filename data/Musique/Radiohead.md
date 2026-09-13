@@ -21,8 +21,9 @@ indice_5:
   - In Rainbows
 indice_6:
   - The Bends
+culture_g_score: 80
+culture_g_justification: "Groupe britannique majeur du rock contemporain, régulièrement interrogé à travers Thom Yorke, ses albums, ses innovations et ses titres célèbres."
 ---
-
 ![Image de Radiohead](https://upload.wikimedia.org/wikipedia/commons/6/6c/Radiohead.jpg)
 
 ###### Questions

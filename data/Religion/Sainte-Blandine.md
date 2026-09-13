@@ -20,8 +20,9 @@ indice_6 :
   - Jeune esclave
 questions:
  - Quelle jeune esclave chrétienne fut livrée aux bêtes à Lyon, a connu ce sort en 177 en même temps que Saint-Pothin ?
+culture_g_score: 48
+culture_g_justification: "Martyre célèbre surtout à Lyon, Sainte-Blandine demeure une référence chrétienne régionale et historiquement assez étroite."
 ---
-
 ![Image de Sainte-Blandine](https://upload.wikimedia.org/wikipedia/commons/a/a0/Sainte-Blandine-de-Rimouski.jpg)
 
 ###### Questions

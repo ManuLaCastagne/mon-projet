@@ -24,8 +24,9 @@ indice_6 :
   - Lorraine
 questions:
  - Région administrative française m'étendant sur un territoire de 57 400km2, dont presque 80% sont affectés à l'agriculture et à la forêt, j'ai vu deux de mes dix départements initiaux fusionner le premier janvier 2021.
+culture_g_score: 67
+culture_g_justification: "Région administrative française utile pour la géographie contemporaine, l’histoire des guerres et le patrimoine, mais encore relativement récente."
 ---
-
 ![Image de Grand Est](https://upload.wikimedia.org/wikipedia/commons/3/3d/Alsace-Champagne-Ardenne-Lorraine_region_relief_location_map.jpg)
 
 ![[Carte_Grand Est.png]]

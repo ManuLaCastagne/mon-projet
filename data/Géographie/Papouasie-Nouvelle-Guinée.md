@@ -24,8 +24,9 @@ indice_6 :
   - Mer de Corail et mer des Salomon adjacentes
 questions:
  - Diversité linguistique au monde. Constitué de plus de 600 îles, j'ai pour capitale Port Moresby…
+culture_g_score: 60
+culture_g_justification: "Pays insulaire remarquable par sa diversité linguistique, sa biodiversité, son histoire coloniale et sa situation en Nouvelle-Guinée."
 ---
-
 ![Image de Papouasie-Nouvelle-Guinée](https://upload.wikimedia.org/wikipedia/commons/3/3a/Ornithoptera_%28Schoenbergia%29_goliath_supremus_MHNT_CUT_Gumi_Village%2C_Lower_Watut%2C_Morobe_Prov_Papouasie-Nouvelle-Guin%C3%A9e_male_ventral.jpg)
 
 ![[Carte_Papouasie-Nouvelle-Guinée.png]]

@@ -20,9 +20,9 @@ indice_6 :
   - Commerce caravanier
 questions:
  - Quelle figure féminine de l'islam, ayant pris à son service Mahomet jeune, pour l'aider dans son commerce, fut sa première femme ?
+culture_g_score: 68
+culture_g_justification: "Première épouse de Mahomet et première convertie à l'islam, Khadija constitue une référence importante mais moins fréquente que Mahomet lui-même."
 ---
-
-
 ![Image de Khadija](https://upload.wikimedia.org/wikipedia/commons/b/b7/30._Khadija_Arib.jpg)
 
 ###### Questions

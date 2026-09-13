@@ -21,9 +21,9 @@ indice_6 :
   - agriculteurs
 questions:
  - Du Mérite agricole. Présentatrice de "L'Amour est dans le pré" depuis 10 ans...
+culture_g_score: 64
+culture_g_justification: "Animatrice très connue grâce à L'amour est dans le pré, mais ses possibilités de questions restent surtout centrées sur la télévision."
 ---
-
-
 ![Image de Karine Le Marchand](https://upload.wikimedia.org/wikipedia/commons/a/a1/Christophe_Dechavanne_et_Karine_Le_Marchand_obs%C3%A8ques_Belmondo.jpg)
 
 ###### Questions

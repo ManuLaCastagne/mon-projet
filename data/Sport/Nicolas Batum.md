@@ -20,8 +20,9 @@ indice_6 :
   - Championnat d'Europe de basket-ball
 questions:
  - En 2020, quel basketteur, né à Lisieux en 1988 et dont le surnom est Batman, a rejoint la franchise américaine des Clippers de Los Angeles?
+culture_g_score: 60
+culture_g_justification: "Basketteur français important en NBA et en équipe nationale, mais surtout utile dans des questions de basketball contemporain."
 ---
-
 ![Image de Nicolas Batum](https://upload.wikimedia.org/wikipedia/commons/4/4c/Nicolas_Batum_2012.jpg)
 
 ###### Questions

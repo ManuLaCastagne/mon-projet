@@ -22,8 +22,9 @@ indice_6 :
   - L'Art de toucher le clavecin
 questions:
  - A quelle famille de musiciens ayant occupé le poste d'organistes de Saint-Gervais pendant 175 ans appartenait François, auteur de 200 pièces pour clavecin ?
+culture_g_score: 52
+culture_g_justification: "Maître français du clavecin et figure du baroque, utile pour Louis XIV et l'histoire musicale mais peu fréquent hors des quiz spécialisés."
 ---
-
 ![Image de François Couperin](https://upload.wikimedia.org/wikipedia/commons/5/54/Fran%C3%A7ois_Couperin.jpg)
 
 ###### Questions

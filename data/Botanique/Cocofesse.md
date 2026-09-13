@@ -15,8 +15,9 @@ indice_6 :
   - Symbolique culturelle et touristique
 questions:
  - En botanique, quel nom imagé donne-t-on à la noix du cocotier de mer, originaire des Seychelles, pour sa forme évoquant un postérieur?
+culture_g_score: 44
+culture_g_justification: "Curiosité des Seychelles célèbre pour sa graine géante et sa forme singulière, mais surtout utile pour une question anecdotique."
 ---
-
 ![Image de Cocofesse](https://upload.wikimedia.org/wikipedia/commons/c/c5/La_Cocofesse_and_coco_de_mer.jpg)
 
 ###### Questions

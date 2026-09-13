@@ -64,7 +64,7 @@ CONTEXT_CHARS = 700
 
 # 200 pour tester.
 # None pour traiter tout le coffre.
-MAX_FILES: Optional[int] = 1000
+MAX_FILES: Optional[int] = None
 
 RANDOM_SAMPLE = True
 RANDOM_SEED = 42
@@ -130,7 +130,10 @@ EXCLUDED_DIRS = {
     "Accroches personnelles",
     "Templates",
     "attachments",
-    "Listes"
+    "Listes",
+    "Culture générale",
+    "Vocabulaire",
+    "Chronologie"
 }
 
 # ATTENTION :

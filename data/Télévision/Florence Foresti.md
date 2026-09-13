@@ -20,9 +20,9 @@ indice_6 :
   - chroniqueuse
 questions:
  - Je poursuis en solo et suis révélée par les sketches de l'émission "On a tout essayé". Auteur des spectacles "Manquerait "plus qu'elle soit drôle"...
+culture_g_score: 76
+culture_g_justification: "Humoriste française majeure de la scène contemporaine, associée à la télévision, aux imitations, au cinéma et aux César."
 ---
-
-
 ![Image de Florence Foresti](https://upload.wikimedia.org/wikipedia/commons/7/72/Florence_Foresti_2017.jpg)
 
 ###### Questions

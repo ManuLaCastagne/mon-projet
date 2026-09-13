@@ -21,8 +21,9 @@ indice_5:
   - auteur franco-libanais
 indice_6:
   - Académie française
+culture_g_score: 72
+culture_g_justification: "Maalouf relie littérature francophone, histoire, monde arabe, prix Goncourt et Académie française, malgré une fréquence quiz intermédiaire."
 ---
-
 ![Image de Amin Maalouf](https://upload.wikimedia.org/wikipedia/commons/5/50/Amin_Maalouf.jpg)
 
 ###### Questions

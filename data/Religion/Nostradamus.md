@@ -20,8 +20,9 @@ indice_6 :
   - Médium
 questions:
  - De quel astrologue et médecin du XVIe siècle les prophéties des "Centuries astrologiques" ont-elles été...
+culture_g_score: 79
+culture_g_justification: "Prophète et astrologue très célèbre dans la culture populaire, Nostradamus revient souvent via les Centuries, les prédictions et la Renaissance française."
 ---
-
 ![Image de Nostradamus](https://upload.wikimedia.org/wikipedia/commons/c/c6/Nostradamus_by_Cesar.jpg)
 
 ###### Questions

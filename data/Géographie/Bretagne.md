@@ -22,9 +22,9 @@ indice_5 :
   - Golfe du Morbihan
 indice_6 : 
   - Pointe du Raz
+culture_g_score: 88
+culture_g_justification: "La Bretagne est une référence incontournable des quiz francophones, mobilisable en histoire, géographie, culture, légendes, gastronomie et patrimoine."
 ---
-
-
 ![[Carte_Bretagne.png]]
 
 ###### Questions

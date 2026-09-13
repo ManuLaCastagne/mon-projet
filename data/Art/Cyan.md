@@ -23,8 +23,9 @@ indice_6 :
   - chromatique
 questions:
  - Constituant avec le jaune, le noir et le rouge ou magenta, l'une des couleurs utilisées en imprimerie dans le procédé...
+culture_g_score: 48
+culture_g_justification: "Couleur importante en arts graphiques et en synthèse additive, mais dont les questions culturelles restent relativement limitées."
 ---
-
 ![Image de Cyan](https://upload.wikimedia.org/wikipedia/commons/5/50/Color_icon_cyan.svg)
 
 ###### Questions

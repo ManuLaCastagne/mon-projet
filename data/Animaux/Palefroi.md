@@ -15,9 +15,9 @@ indice_6 :
   - Symbole de liberté
 questions:
  - Par opposition au destrier, qui était au Moyen Age le cheval de bataille, comment appelait-on le cheval de parade ou de marche ?
+culture_g_score: 40
+culture_g_justification: "Terme historique lié au cheval médiéval, susceptible d’apparaître ponctuellement mais peu rentable au niveau généraliste."
 ---
-
-
 ![Image de Palefroi](https://upload.wikimedia.org/wikipedia/commons/6/60/Daf_Palfrey_and_cock.jpg)
 
 ###### Questions

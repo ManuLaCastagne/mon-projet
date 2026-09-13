@@ -20,8 +20,9 @@ indice_6 :
   - Préparation olympique
 questions:
  - Quel établissement, installé au coeur du bois de Vincennes...
+culture_g_score: 60
+culture_g_justification: "Institution importante du sport français, l’INSEP apparaît dans les quiz sportifs mais reste peu transversal hors de cet univers."
 ---
-
 ![Image de INSEP](https://upload.wikimedia.org/wikipedia/commons/b/b3/INSEP-nouveau-logo-2018.jpg)
 
 ###### Questions

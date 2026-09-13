@@ -24,8 +24,9 @@ indice_6 :
   - interdit aux femmes
 questions:
  - Depuis le VIIe siècle, quelle montagne de la Macédoine grecque abrite un centre monastique de l'église...
+culture_g_score: 64
+culture_g_justification: "Territoire monastique singulier, régulièrement associé à l’orthodoxie, à la Grèce et à l’interdiction faite aux femmes."
 ---
-
 ![Image de Mont Athos](https://upload.wikimedia.org/wikipedia/commons/7/7b/Stefanos_Stournaras_Mont_Athos_No100_c1910.jpg)
 
 ![[Carte_Mont Athos.png]]

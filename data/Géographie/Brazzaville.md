@@ -24,8 +24,9 @@ indice_6 :
   - Afrique centrale
 questions:
  - Capitale d'un pays d'Afrique fondée en 1880 par un explorateur européen, j'entretiens une intense activité commerciale avec le port de Pointe-Noire, sur l'Atlantique, avec lequel je suis relié par une voie ferrée.  Principal port fluvial de mon pays, au bord du Malebo Pool, je ne suis éloigné que de 5 km de Kinshasa.
+culture_g_score: 63
+culture_g_justification: "Brazzaville est un repère important pour l’Afrique centrale, la colonisation, le fleuve Congo et sa proximité exceptionnelle avec Kinshasa."
 ---
-
 ![Image de Brazzaville](https://upload.wikimedia.org/wikipedia/commons/a/a0/Quartier_OCH.jpg)
 
 ![[Carte_Brazzaville.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - Grand-mère de l'auteur Colette
 questions:
  - Quel récit de Colette, consacré à sa mère, débute par les mots  "Et pourquoi cesserais-je d'être de mon village"?
+culture_g_score: 48
+culture_g_justification: "Récit important de Colette mais moins connu et moins fréquemment interrogé que ses œuvres les plus célèbres."
 ---
-
 ![Image de Sido](https://upload.wikimedia.org/wikipedia/commons/e/e5/Sido_FFM11_001.jpg)
 
 ###### Questions

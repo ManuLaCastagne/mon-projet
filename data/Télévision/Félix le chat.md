@@ -18,9 +18,9 @@ indice_5:
   - Gros sourire
 indice_6:
   - Effet spécial avant-gardiste
+culture_g_score: 68
+culture_g_justification: "Personnage fondateur de l'animation, utile pour des questions sur les débuts du dessin animé, la télévision et l'histoire de la culture populaire."
 ---
-
-
 ![Image de Félix le chat](https://upload.wikimedia.org/wikipedia/commons/a/aa/Felix_aprilmaze_08.jpg)
 
 ###### Questions

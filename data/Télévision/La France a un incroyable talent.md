@@ -19,8 +19,9 @@ indice_5 :
   - buzzer rouge
 indice_6 : 
   - Golden Buzzer
+culture_g_score: 73
+culture_g_justification: "Grand programme de divertissement durable et très identifiable, régulièrement mobilisable via ses jurés, ses candidats et son format Got Talent."
 ---
-
 ![Image de La France a un incroyable talent](https://upload.wikimedia.org/wikipedia/commons/f/f5/GRAYSSOKER_LA_FRANCE_A_UN_INCROYABLE_TALENT_2019.jpg)
 
 ###### Questions

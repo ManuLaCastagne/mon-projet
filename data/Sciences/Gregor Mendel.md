@@ -20,7 +20,8 @@ indice_6 :
   - Hérédité
 questions:
  - Quel religieux et botaniste autrichien…
-culture_g_score: 80
+culture_g_score: 97
+culture_g_justification: "Père de la génétique, incontournable pour l’hérédité, les expériences sur les pois et l’histoire de la biologie."
 ---
 ![Image de Gregor Mendel](https://upload.wikimedia.org/wikipedia/commons/a/ab/Gregor_Mendel_with_cross.jpg)
 

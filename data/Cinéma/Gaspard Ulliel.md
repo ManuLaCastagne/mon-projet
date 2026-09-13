@@ -20,8 +20,9 @@ indice_5 :
   - Hannibal Lecter  Les Origines du mal
 indice_6 : 
   - Juste la fin du monde
+culture_g_score: 64
+culture_g_justification: "Acteur français connu pour quelques films et pour son décès prématuré, mais avec une portée générale encore modérée."
 ---
-
 ![Image de Gaspard Ulliel](https://upload.wikimedia.org/wikipedia/commons/d/de/Gaspard_Ulliel_C%C3%A9sars_2015.jpg)
 
 ###### Questions

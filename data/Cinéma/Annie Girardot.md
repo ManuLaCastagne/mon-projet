@@ -22,8 +22,9 @@ indice_6 :
   - Rocco et ses frères
 questions:
  - En 1977, quelle comédienne, disparue en 2011, a reçu le Cinéma/César...
+culture_g_score: 80
+culture_g_justification: "Grande actrice française d’une carrière très longue, régulièrement citée à travers ses films, ses César et son parcours."
 ---
-
 ![Image de Annie Girardot](https://upload.wikimedia.org/wikipedia/commons/b/bf/Annie_Girardot_C%C3%A9sars.jpg)
 
 ###### Questions

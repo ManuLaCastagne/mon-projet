@@ -22,8 +22,9 @@ indice_6 :
   - Madame de Mortsauf
 questions:
  - Quel roman de Balzac se présente sous la forme d'une lettre dans laquelle Félix de Vandenesse avoue à sa bien-aimée une relation passée?
+culture_g_score: 64
+culture_g_justification: "Roman notable de Balzac et de La Comédie humaine, utile pour le réalisme et les personnages balzaciens, mais moins incontournable que ses œuvres les plus célèbres."
 ---
-
 ![Image de Le Lys dans la vallée](https://upload.wikimedia.org/wikipedia/commons/0/03/Le_Lys_dans_la_vall%C3%A9e_-_Honor%C3%A9_Balzac_-_traduction_catalane_1929.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - disparition mystérieuse
 questions:
  - En 1835, dans un récit fantastique et burlesque de Nicolas Gogol, quelle partie du visage  l'un des personnages principaux perd-il ?
+culture_g_score: 60
+culture_g_justification: "Nouvelle emblématique de Gogol, utile pour la littérature russe et le fantastique, mais moins incontournable que ses œuvres les plus célèbres."
 ---
-
 ![Image de Le Nez (Gogol)](https://upload.wikimedia.org/wikipedia/commons/d/db/Gogol_-_Le_Revizor_1922.djvu)
 
 ###### Questions

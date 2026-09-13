@@ -22,8 +22,9 @@ indice_6 :
   - Famine en Afrique
 questions:
  - Quelle chanson caritative a été enregistrée en 1985 par un collectif d'artistes américains, soucieux de lutter contre la famine en Ethiopie?
+culture_g_score: 93
+culture_g_justification: "Chanson caritative universellement célèbre, reliant Michael Jackson, Lionel Richie, l’aide humanitaire, les Grammy et la pop des années 1980."
 ---
-
 ![Image de We are the world](https://upload.wikimedia.org/wikipedia/commons/8/89/USA_For_Africa_%E2%80%93_We_Are_The_World_02.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - édition annuelle
 questions:
  - En août 44. Affichant mon titre et mon logo en rouge sur mes versions papier et numérique, je suis en tête des quotidiens français avec mes éditions régionales...
+culture_g_score: 55
+culture_g_justification: "Grand quotidien régional français, mais ses apparitions en quiz restent surtout liées à la presse et à quelques prix littéraires."
 ---
-
 ![Image de Ouest-France](https://upload.wikimedia.org/wikipedia/commons/d/d1/Ouest-France_logo.svg)
 
 ###### Questions

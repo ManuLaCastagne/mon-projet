@@ -18,8 +18,9 @@ indice_5:
   - cofondateur du journal Le Figaro
 indice_6:
   - acteur majeur du coup d'État de 1851
+culture_g_score: 60
+culture_g_justification: "Acteur politique et économique du Second Empire, utile pour Napoléon III et Deauville, mais d’importance secondaire."
 ---
-
 ![Image de Duc de Morny](https://upload.wikimedia.org/wikipedia/commons/e/ec/MORNY%2C_Charles_duc_de%2C_Mayer_et_Pierson%2C_GALLICA.jpg)
 
 ###### Questions

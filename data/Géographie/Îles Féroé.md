@@ -19,11 +19,9 @@ indice_5:
   - 18 îles
 indice_6:
   - Moutons
+culture_g_score: 60
+culture_g_justification: "Archipel autonome original, utile pour des questions sur le Danemark, l’Atlantique Nord, la monnaie et la géographie insulaire."
 ---
-
-
-
-
 ![Image de Îles Féroé](https://upload.wikimedia.org/wikipedia/commons/c/cf/%C3%8Eles_F%C3%A9ro%C3%A9_L%C3%B8gting_2022.svg)
 
 ![[Carte_Îles Féroé.png]]

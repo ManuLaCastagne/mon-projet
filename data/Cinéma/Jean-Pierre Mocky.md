@@ -22,8 +22,9 @@ indice_6 :
   - style iconoclaste
 questions:
  - Quel réalisateur français, auteur du "Miraculé", était réputé pour ses colères noires, tant sur les plateaux de cinéma qu'à la télévision?
+culture_g_score: 52
+culture_g_justification: "Cinéaste prolifique et satirique du cinéma français, intéressant historiquement mais peu prioritaire face aux réalisateurs plus canonisés."
 ---
-
 ![Image de Jean-Pierre Mocky](https://upload.wikimedia.org/wikipedia/commons/8/80/Mocky-95-villandraut.jpg)
 
 ###### Questions

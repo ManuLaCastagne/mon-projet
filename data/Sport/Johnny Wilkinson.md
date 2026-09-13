@@ -20,9 +20,9 @@ indice_6 :
   - Quart-arrière
 questions:
  - En 2014, quel rugbyman anglais, demi d'ouverture à Toulon, est fait citoyen d'honneur de cette ville...
+culture_g_score: 77
+culture_g_justification: "Le drop de la finale de 2003 en fait une référence très classique des quiz de rugby et du sport britannique."
 ---
-
-
 ![Image de Johnny Wilkinson](https://upload.wikimedia.org/wikipedia/commons/2/2d/Jonathan_Peter_Wilkinson_London_2015_%284%29-trimmed.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Mémoire
 questions:
  - Quel poème de Lamartine débute par "O temps suspend ton vol" ?
+culture_g_score: 77
+culture_g_justification: "Poème romantique incontournable de Lamartine, fréquemment associé aux Méditations poétiques, à Julie Charles et à la fuite du temps."
 ---
-
 ![Image de Le Lac](https://upload.wikimedia.org/wikipedia/commons/7/71/SNCF_B_81500_Savines-le-Lac.jpg)
 
 ###### Questions

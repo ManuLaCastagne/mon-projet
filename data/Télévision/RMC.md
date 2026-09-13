@@ -18,9 +18,9 @@ indice_5 :
   - Les Grandes Gueules
 indice_6 : 
   - popularité en France
+culture_g_score: 76
+culture_g_justification: "Marque médiatique française importante, à la fois radio et télévision, régulièrement liée à l’information, au sport et à l’actualité."
 ---
-
-
 ![Image de RMC](https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_RMC_Sport_2_2018.svg)
 
 ###### Questions

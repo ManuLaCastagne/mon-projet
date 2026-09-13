@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour faire des confitures et liqueurs
 questions:
  - Renfermant une pulpe acidulée sous une écorce comestible sucrée. Je suis divisé intérieurement en plusieurs quartiers. Agrume consommé entier...
+culture_g_score: 44
+culture_g_justification: "Fruit reconnaissable par sa consommation avec la peau, mais peu transversal dans les quiz."
 ---
-
 ![Image de Kumquat](https://upload.wikimedia.org/wikipedia/commons/7/72/Kumquat_from_Spain.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - musée Condé à Chantilly
 questions:
  - Commandée par le duc Jean Ier de Berry aux frères de Limbourg, je suis un chef-d'oeuvre orné de 131 enluminures.
+culture_g_score: 68
+culture_g_justification: "Chef-d’œuvre emblématique de l’enluminure médiévale, souvent interrogé avec le duc de Berry et les frères de Limbourg, mais sur des angles assez circonscrits."
 ---
-
 ![Image de Très Riches Heures du duc de Berry](https://upload.wikimedia.org/wikipedia/commons/7/76/Anatomical_Man.jpg)
 
 ###### Questions

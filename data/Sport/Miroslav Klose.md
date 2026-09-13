@@ -20,8 +20,9 @@ indice_6 :
   - Sélection nationale allemande
 questions:
  - En inscrivant son 16ème but en finale de Coupe du Monde 2014, quel attaquant allemand devient le recordman de l'épreuve ?
+culture_g_score: 77
+culture_g_justification: "Son record de buts en Coupe du monde et le titre allemand de 2014 en font une réponse fréquente du football international."
 ---
-
 ![Image de Miroslav Klose](https://upload.wikimedia.org/wikipedia/commons/1/10/Germany_champions_2014_FIFA_World_Cup.jpg)
 
 ###### Questions

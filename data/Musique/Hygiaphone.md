@@ -22,8 +22,9 @@ indice_6 :
   - téléphone public
 questions:
  - Chanson commençant par les mots "caché dans ton guichet", j'ai été enregistrée en public le 8 juin 1977 au Bus Palladium pour figurer sur un 45-tours autoproduit. Titre de rock inclus par la suite dans un album...
+culture_g_score: 40
+culture_g_justification: "Chanson connue des amateurs de Téléphone, mais le titre précis constitue une connaissance assez étroite et peu réutilisable."
 ---
-
 ![Image de Hygiaphone](https://upload.wikimedia.org/wikipedia/commons/6/6a/Hygiaphone1.jpg)
 
 ###### Questions

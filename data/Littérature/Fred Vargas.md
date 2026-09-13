@@ -22,9 +22,9 @@ indice_6 :
   - polar atypique
 questions:
  - Sous quel nom de plume connaît-on mieux la romancière Frédérique Audouin-Rouzeau, auteure de "Pars vite et reviens tard"?
+culture_g_score: 60
+culture_g_justification: "Auteure policière française populaire, identifiable par Adamsberg, ses romans à succès et son parcours d’archéozoologue."
 ---
-
-
 ![Image de Fred Vargas](https://upload.wikimedia.org/wikipedia/commons/2/21/Fred_Vargas_2009.jpg)
 
 ###### Questions

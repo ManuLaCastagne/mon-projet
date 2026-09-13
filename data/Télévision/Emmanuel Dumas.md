@@ -17,8 +17,9 @@ indice_5:
   - plateau télévisé
 indice_6:
   - compétition de mots
+culture_g_score: 19
+culture_g_justification: "Champion ponctuel d’un jeu télévisé, connu surtout d’un cercle de passionnés et associé à très peu de questions indépendantes."
 ---
-
 ![Image de Emmanuel Dumas](https://image.over-blog.com/HmtHuNVxr25ZD8AhYtfHppTDrpk=/filters:no_upscale()/image%2F2973361%2F20230205%2Fob_c302bb_podium.jpg)
 
 ###### Questions

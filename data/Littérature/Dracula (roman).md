@@ -22,8 +22,9 @@ indice_6 :
   - Mina Harker
 questions:
  - Dans quel roman de Bram Stoker, le prince du mal est-il contraint de dormir dans un cercueil durant la journée?
+culture_g_score: 100
+culture_g_justification: "Roman fondateur du mythe moderne du vampire, abondamment relié à la littérature, au cinéma, au folklore et à la culture populaire."
 ---
-
 ![Image de Dracula (roman)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Dracula-First-Edition-1897.jpg)
 
 ###### Questions

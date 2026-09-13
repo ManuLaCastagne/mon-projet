@@ -24,8 +24,9 @@ indice_6 :
   - Frontière naturelle
 questions:
  - Quelle rivière du Brésil est célèbre pour ses chutes ?
+culture_g_score: 77
+culture_g_justification: "Les chutes d’Iguazu sont une grande curiosité naturelle fréquemment mobilisée par des questions sur l’Amérique du Sud, l’UNESCO et les fleuves."
 ---
-
 ![Image de Iguazu](https://upload.wikimedia.org/wikipedia/commons/c/c8/Confluence_of_the_Iguazu_and_Parana_rivers%2C_Puerto_Iguazu%2C_Misiones%2C_Argentina%2C_6th._Jan._2011_-_Flickr_-_PhillipC.jpg)
 
 ![[Carte_Iguazu.png]]

@@ -20,9 +20,9 @@ indice_6 :
   - voix enregistrée et diffusée à la radio
 questions:
  - Quel homme de radio à la voix chevrotante, disparu en 2013, a longtemps été chargé du bulletin météo d'une station privée généraliste?
+culture_g_score: 40
+culture_g_justification: "Voix historique de la météo radiophonique française, mais référence aujourd’hui relativement confidentielle."
 ---
-
-
 ![Image de Albert Simon](https://upload.wikimedia.org/wikipedia/commons/6/69/Albert_Simon%2C_A-Z_Nr_1%2C_Januar_1935.jpg)
 
 ###### Questions

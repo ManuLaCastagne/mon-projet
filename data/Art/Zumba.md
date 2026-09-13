@@ -23,9 +23,9 @@ indice_6 :
   - entraînement cardiovasculaire
 questions:
  - Quel type de danse, mise au point récemment en Colombie, consiste en un mélange de plusieurs danses latines...
+culture_g_score: 60
+culture_g_justification: "Activité mondiale très reconnaissable, mais principalement exploitable pour des questions de loisirs, de danse et de culture populaire."
 ---
-
-
 ![Image de Zumba](https://upload.wikimedia.org/wikipedia/commons/3/38/US_Army_52862_Zumba_adds_Latin_dance_to_fitness_routine.jpg)
 
 ###### Questions

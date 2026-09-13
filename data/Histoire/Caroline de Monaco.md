@@ -22,6 +22,8 @@ indice_6 :
   - Sœur d'Albert II de Monaco
 questions:
  - Quelle soeur aînée du prince Albert de Monaco préside la fondation Princesse-Grace, créée par sa mère en 1964 ?
+culture_g_score: 51
+culture_g_justification: "Princesse de Monaco très médiatisée, mais principalement exploitable dans quelques questions de famille princière et de célébrités."
 ---
 ![[Pasted image 20250414185644.png]]
 

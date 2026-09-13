@@ -18,8 +18,9 @@ indice_5 :
   - Mouchoir
 indice_6 : 
   - Chemin de Croix
+culture_g_score: 44
+culture_g_justification: "Sainte Véronique repose surtout sur une tradition légendaire et une relique controversée, ce qui limite sa fréquence et sa portée."
 ---
-
 ![Image de Sainte-Véronique](https://upload.wikimedia.org/wikipedia/commons/6/6d/Sainte-V%C3%A9ronique--w.jpg)
 
 ###### Questions

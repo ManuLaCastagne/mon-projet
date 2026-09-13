@@ -15,8 +15,9 @@ indice_6 :
   - Utilisées pour identifier les espèces de plantes et transporter les nutriments
 questions:
  - En botanique, quels filets saillants, formés par les tubes conducteurs de la sève, constituent le squelette...
+culture_g_score: 44
+culture_g_justification: "Notion élémentaire de morphologie végétale, mais trop générique et peu souvent utilisée comme réponse précise de quiz."
 ---
-
 ![Image de Nervures](https://upload.wikimedia.org/wikipedia/commons/e/e7/NERVURES_KENYA.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Sapin rouge
 indice_6:
   - Bois utilisé pour la construction et la fabrication de papier
+culture_g_score: 48
+culture_g_justification: "Conifère européen classique, mais généralement moins rentable à apprendre que les repères botaniques majeurs."
 ---
-
 ![Image de Épicéa](https://upload.wikimedia.org/wikipedia/commons/7/79/Bleuissement_%C3%A9pic%C3%A9a_02.jpg)
 
 ###### Questions

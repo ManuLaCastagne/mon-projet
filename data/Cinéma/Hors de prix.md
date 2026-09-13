@@ -22,8 +22,9 @@ indice_6 :
   - Blockbusters
 questions:
  - En 2006, dans quel film de Pierre Salvadori Gad Elmaleh tombe-t-il amoureux d'une aventurière incarnée par Audrey Tautou?
+culture_g_score: 44
+culture_g_justification: "Comédie française connue grâce à son duo principal, mais constituant une référence assez limitée."
 ---
-
 ![Image de Hors de prix](https://upload.wikimedia.org/wikipedia/commons/0/09/Mountains_Priceless_House_and_Garden_20121104.jpg)
 
 ###### Questions

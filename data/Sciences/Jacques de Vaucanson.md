@@ -20,10 +20,9 @@ indice_6 :
   - Ingénieur
 questions:
  - Quel inventeur français du XVIIIe siècle est célèbre pour avoir créé 3 automates, dont le Joueur de flûte traversière et le Joueur de tambourin?
+culture_g_score: 60
+culture_g_justification: "Vaucanson fournit des questions mémorables sur les automates, l’invention et l’histoire technique française, sans être une figure majeure mondiale."
 ---
-
-
-
 ![Image de Jacques de Vaucanson](https://upload.wikimedia.org/wikipedia/commons/4/44/Jacques_de_Vaucanson_rectangular.jpg)
 
 ###### Questions

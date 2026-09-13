@@ -22,8 +22,9 @@ indice_6 :
   - rock alternatif
 questions:
  - Quel est ce standard du rock, grâce notamment à la bande originale du film "Fight club" dans laquelle elle figurait en 1999, est interprété par les Pixies ?
+culture_g_score: 76
+culture_g_justification: "Titre culte des Pixies, renforcé par Fight Club, permettant des questions sur le rock alternatif, le cinéma et le groupe."
 ---
-
 ![Image de Where is my mind](https://upload.wikimedia.org/wikipedia/commons/7/7e/Where_is_my_mind%3F.jpg)
 
 ###### Questions

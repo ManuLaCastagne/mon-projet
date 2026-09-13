@@ -22,9 +22,9 @@ indice_6 :
   - pionnier de l'électro
 questions:
  - En 1986, quel compositeur français de musique électronique donne un concert spectaculaire à Houston, rendant hommage aux astronautes de Challenger?
+culture_g_score: 80
+culture_g_justification: "Pionnier français de la musique électronique, régulièrement mobilisé par Oxygène, ses concerts spectaculaires et ses innovations."
 ---
-
-
 ![Image de Jean-Michel Jarre](https://upload.wikimedia.org/wikipedia/commons/a/a8/Jean_Michel_Jarre_B10-2016.jpg)
 
 ###### Questions

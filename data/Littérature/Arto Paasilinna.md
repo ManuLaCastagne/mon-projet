@@ -22,8 +22,9 @@ indice_6 :
   - années 1970
 questions:
  - En 2019, de quel écrivain finlandais, auteur du "Lièvre de Vatanen", fait-on paraître en français le livre "Adam et Eve" qui évoque une invention?
+culture_g_score: 31
+culture_g_justification: "Auteur finlandais traduit et apprécié, mais connu surtout d’un public de lecteurs et peu présent dans les quiz généralistes."
 ---
-
 ![Image de Arto Paasilinna](https://upload.wikimedia.org/wikipedia/commons/d/da/Paasilinna_20071130.jpg)
 
 ###### Questions

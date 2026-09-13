@@ -22,8 +22,9 @@ indice_6 :
   - héritage inattendu
 questions:
  - Comédie française sortie  sur les écrans en 1995, j'ai obtenu le Cinéma/César de la meilleure première oeuvre de fiction. Mettant en scène les membres d'une famille réunis à l'occasion d'un héritage, reçu puis perdu, je raconte les péripéties liées à la situation...
+culture_g_score: 73
+culture_g_justification: "Grande comédie populaire française liée aux Inconnus, à ses acteurs et à plusieurs répliques mémorables."
 ---
-
 ![Image de Les Trois Frères](https://upload.wikimedia.org/wikipedia/commons/b/b2/S%C3%A9n%C3%A9_-_les_Trois_Fr%C3%A8res_et_Port-Anna.jpg)
 
 ###### Questions

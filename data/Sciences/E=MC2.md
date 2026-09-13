@@ -20,9 +20,9 @@ indice_6 :
   - Physique théorique
 questions:
  - Quelle formule est représentée sur une sculpture qui fut installée devant l'Altes Museum à Berlin en 2006 ?
+culture_g_score: 97
+culture_g_justification: "Équation universellement célèbre, centrale pour les questions sur Einstein, la relativité, l’énergie nucléaire et la physique moderne."
 ---
-
-
 ![Image de E=MC2](https://upload.wikimedia.org/wikipedia/commons/f/ff/Grenoble_-_la_MC2_et_la_Lune.JPG)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_6:
   - relie Uzès à Nîmes
 questions:
   - Quel pont-aqueduc situé au sud-ouest d'Uzès et classé par l'Unesco...
+culture_g_score: 97
+culture_g_justification: "Chef-d'œuvre romain mondialement célèbre, très rentable pour les questions sur l'Antiquité, les aqueducs, l'UNESCO et la France."
 ---
-
 ![Image de Pont du Gard](https://upload.wikimedia.org/wikipedia/commons/4/42/Pont_du_Gard_BLS.jpg)
 
 ###### Questions

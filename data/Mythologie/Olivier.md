@@ -18,10 +18,9 @@ indice_6 :
   - Odyssée
 questions:
  - Avec les feuilles de quel arbre fruitier, coupées par une faucille d'or, les couronnes...
+culture_g_score: 72
+culture_g_justification: "Arbre emblématique de la Méditerranée et symbole important des civilisations antiques, l’olivier est régulièrement mobilisé en mythologie, histoire, géographie et culture."
 ---
-
-
-
 ![Image de Olivier](https://upload.wikimedia.org/wikipedia/commons/8/87/Laurence_Olivier_Allan_Warren.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Chasse au loup
 questions:
  - Quel lévrier russe de grande taille, au poil long et ondulé, a été utilisé pour la chasse au loup dans son pays d'origine au XIXe?
+culture_g_score: 40
+culture_g_justification: "Race de chien élégante et historiquement intéressante, mais peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Barzoï](https://upload.wikimedia.org/wikipedia/commons/8/88/Marcadier_Barzo%C3%AF%2C_vue_int%C3%A9rieure.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - adaptations littéraires
 questions:
  - En 2009, quel acteur australien est récompensé à titre posthume pour son rôle du Joker dans "The Dark Knight" ?
+culture_g_score: 0
+culture_g_justification: "Salle de cinéma très obscure et sans ancrage identifiable dans les références habituelles des quiz généralistes."
 ---
-
 ![Image de East Ledger](https://upload.wikimedia.org/wikipedia/commons/3/3e/S_Mary%2C_East_Ruston%2C_Norfolk_-_Ledger_slab_-_geograph.org.uk_-_2064338.jpg)
 
 ###### Questions

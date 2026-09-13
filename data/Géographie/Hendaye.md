@@ -24,8 +24,9 @@ indice_6 :
   - train Hendaye-Irun
 questions:
  - Commune du sud-ouest de la France, devenue indépendante d'une autre le 20 mai 1654, j'abrite la Villa Mauresque, construite au 19e siècle pour Jules de Polignac qui jouxte la maison de Pierre Loti. Associée au rocher dit des Deux Jumeaux...
+culture_g_score: 40
+culture_g_justification: "Commune frontalière surtout connue pour l’entrevue Hitler-Franco et son patrimoine basque, avec une fréquence quiz limitée."
 ---
-
 ![Image de Hendaye](https://upload.wikimedia.org/wikipedia/commons/a/ac/Hendaye%26Irun_depuis_Guadalupe_2012.jpg)
 
 ![[Carte_Hendaye.png]]

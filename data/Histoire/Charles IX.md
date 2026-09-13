@@ -20,8 +20,9 @@ indice_6 :
   - frère de Henri III
 questions:
  - En 1533, quel futur roi de France, fils de François Ier, Catherine de Médicis épouse-t-elle à Marseille?
+culture_g_score: 80
+culture_g_justification: "Roi associé à la Saint-Barthélemy, à l’édit de Roussillon et aux guerres de Religion, avec plusieurs repères quiz classiques."
 ---
-
 ![Image de Charles IX](https://upload.wikimedia.org/wikipedia/commons/a/ac/Bemberg_Fondation_Toulouse_-_Portrait_de_Charles_IX_-_Fran%C3%A7ois_Clouet_-_Inv.1012.jpg)
 
 ###### Questions

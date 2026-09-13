@@ -22,8 +22,9 @@ indice_6 :
   - 1862
 questions:
  - En 1862, dans quel roman d'Eugène Fromentin un orphelin tombe-t-il passionnément amoureux de sa cousine?
+culture_g_score: 31
+culture_g_justification: "Roman estimé d’Eugène Fromentin, mais référence littéraire assez périphérique et rarement interrogée dans les quiz généralistes."
 ---
-
 ![Image de Dominique (roman)](https://upload.wikimedia.org/wikipedia/commons/c/c2/Dominique_ROMAN_ponte.jpg)
 
 ###### Questions

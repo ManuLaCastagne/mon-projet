@@ -22,8 +22,9 @@ indice_6 :
   - architecture extravagante
 questions:
  - Quel luxueux palais de Néron fut rasé…
+culture_g_score: 60
+culture_g_justification: "Palais célèbre de Néron, utile pour l’histoire de Rome et l’architecture antique, mais moins fréquent que les grands monuments romains."
 ---
-
 ![Image de Domus Aurea](https://upload.wikimedia.org/wikipedia/commons/b/b2/Domus_Aurea_NEUTRA.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - collaborations avec des réalisateurs français
 questions:
   - Fin 2013, quel comédien belge joue dans "Voyage en Absurdie" ?
+culture_g_score: 56
+culture_g_justification: "Humoriste et acteur belge identifiable par le doublage et la télévision, mais encore secondaire dans une culture générale large."
 ---
-
 ![Image de Stéphane De Groot](https://upload.wikimedia.org/wikipedia/commons/a/aa/St%C3%A9phane_De_Groodt_C%C3%A9sars_2015.jpg)
 
 ###### Questions

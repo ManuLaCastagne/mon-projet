@@ -15,8 +15,9 @@ indice_6 :
   - Consommé frais pour son goût sucré
 questions:
  - Quel fruit exotique à noyau est également appelé litchi chevelu car sa peau rouge est hérissée de pointes crochues?
+culture_g_score: 44
+culture_g_justification: "Fruit exotique reconnaissable pouvant apparaître en gastronomie ou en vocabulaire, mais peu central dans les quiz."
 ---
-
 ![Image de Ramboutan](https://upload.wikimedia.org/wikipedia/commons/0/0e/Rambutan_%28Nephelium_lappaceum%29.JPG)
 
 ###### Questions

@@ -18,6 +18,8 @@ indice_5:
   - aventures
 indice_6:
   - duo d'enquêteurs
+culture_g_score: 73
+culture_g_justification: "Série culte de la télévision française, fréquemment interrogée à travers son duo, ses acteurs, son titre original et sa musique."
 ---
 ![[Pasted image 20250530143205.png]]
 ###### Questions

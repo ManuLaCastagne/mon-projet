@@ -18,10 +18,9 @@ indice_5:
   - politique de la grosse bâton
 indice_6:
   - mont Rushmore
+culture_g_score: 80
+culture_g_justification: "Président américain très connu, associé au progressisme, au Nobel, à la diplomatie, à l’expédition scientifique et à l’attentat de 1912."
 ---
-
-
-
 ![Image de Theodore Roosevelt](https://upload.wikimedia.org/wikipedia/commons/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg)
 
 ###### Questions

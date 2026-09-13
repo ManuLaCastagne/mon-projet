@@ -19,8 +19,9 @@ indice_5 :
   - chaîne gaming
 indice_6 : 
   - nom réel est Inès
+culture_g_score: 48
+culture_g_justification: "Créateur de contenu très connu du jeune public, mais encore peu stabilisé comme référence de quiz généraliste."
 ---
-
 ![Image de Inoxtag](https://upload.wikimedia.org/wikipedia/commons/3/36/Inoxtag_en_2023.png)
 
 ###### Questions

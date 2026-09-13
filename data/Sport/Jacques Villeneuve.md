@@ -20,8 +20,9 @@ indice_6 :
   - Champion du Monde
 questions:
  - te français... -Anquetil.  -En 1997, quel pilote canadien de formule 1 a été sacré champion du monde?
+culture_g_score: 73
+culture_g_justification: "Champion de Formule 1, vainqueur d’Indianapolis et fils de Gilles Villeneuve, Jacques Villeneuve possède plusieurs indices très rentables."
 ---
-
 ![Image de Jacques Villeneuve](https://upload.wikimedia.org/wikipedia/commons/c/c6/Bedarieux_Monument_de_Ferdinand_Fabre_par_Jacques_Villeneuve.jpg)
 
 ###### Questions

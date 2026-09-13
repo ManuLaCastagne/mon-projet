@@ -20,8 +20,9 @@ indice_6 :
   - Dumouriez
 questions:
  - J'ai abouti à l'annexion de la Belgique à la France et à l'occupation des territoires germaniques de la rive gauche du Rhin. Bataille de 1792, portant le nom d'une commune de Belgique...
+culture_g_score: 52
+culture_g_justification: "Victoire révolutionnaire française significative, principalement mobilisée dans les questions sur les guerres de la Révolution."
 ---
-
 ![Image de Bataille de Jemappes](https://upload.wikimedia.org/wikipedia/commons/d/dd/Bataille_de_Jemappes_1792.jpg)
 
 ###### Questions

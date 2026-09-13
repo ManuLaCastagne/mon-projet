@@ -23,8 +23,9 @@ indice_6 :
   - Rédacteur influent
 questions:
  - En 1885,  quel journaliste américain associé à un prix littéraire lance une campagne de presse pour financer la construction du socle de la statue de la Liberté ?
+culture_g_score: 80
+culture_g_justification: "Fondateur des prix Pulitzer et figure importante de la presse américaine, régulièrement présent dans les questions sur le journalisme et les récompenses."
 ---
-
 ![Image de Joseph Pulitzer](https://upload.wikimedia.org/wikipedia/commons/4/49/JosephPulitzerPinceNeznpsgov.jpg)
 
 ###### Questions

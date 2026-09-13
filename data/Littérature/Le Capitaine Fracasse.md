@@ -18,10 +18,9 @@ indice_5:
   - comédiens ambulants
 indice_6:
   - aventure romanesque
+culture_g_score: 51
+culture_g_justification: "Roman de cape et d’épée reconnu de Théophile Gautier, mais moins présent dans les quiz généralistes que les grands classiques du genre."
 ---
-
-
-
 ![Image de Capitaine Fracasse](https://upload.wikimedia.org/wikipedia/commons/6/64/Le_Capitaine_Fracasse_Gustave_Dor%C3%A9.png)
 
 ###### Questions

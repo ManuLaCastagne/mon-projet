@@ -20,8 +20,9 @@ indice_6 :
   - tension diplomatique
 questions:
  - Quelle ville du Soudan a donné son nom à la crise provoquée en 1898 par la rivalité coloniale entre la France et l'Angleterre dans la région du Haut-Nil ?
+culture_g_score: 60
+culture_g_justification: "Épisode classique des tensions religieuses et coloniales franco-britanniques, notamment utile pour comprendre l’Entente cordiale."
 ---
-
 ![Image de Affaire de Fachoda](https://upload.wikimedia.org/wikipedia/commons/f/ff/Fashoda_Incident_map_-_hu.svg)
 
 ###### Questions

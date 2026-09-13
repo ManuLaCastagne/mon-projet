@@ -19,8 +19,9 @@ indice_5 :
   - Maeva Ghennam
 indice_6 : 
   - Marseillais vs le Reste du Monde
+culture_g_score: 24
+culture_g_justification: "Personnalité de téléréalité récente et très spécialisée, dont la présence dans les quiz généralistes demeure marginale."
 ---
-
 ![Image de Greg Yega](https://upload.wikimedia.org/wikipedia/commons/c/cf/CIL_IV_pp1-100.pdf)
 
 ###### Questions

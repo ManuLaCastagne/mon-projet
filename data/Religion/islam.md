@@ -18,8 +18,9 @@ indice_5 :
   - Cinq Piliers
 indice_6 : 
   - Hadith
+culture_g_score: 100
+culture_g_justification: "Religion mondiale majeure, l’islam est incontournable pour les questions d’histoire, de géographie, de civilisation, de textes et de religions comparées."
 ---
-
 ![Image de islam](https://upload.wikimedia.org/wikipedia/commons/9/90/Kabood_%28Blue%29_mosque%2C_Tabriz%2C_Iran.jpg)
 
 ###### Questions

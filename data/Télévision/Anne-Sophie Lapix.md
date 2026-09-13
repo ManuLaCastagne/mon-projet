@@ -21,8 +21,9 @@ indice_6 :
   - interview politique
 questions:
  - Depuis 2017, je l'ai croisée hier,  quelle journaliste, originaire de Saint-Jean-de-Luz, est la présentatrice du 20h...
+culture_g_score: 64
+culture_g_justification: "Journaliste très visible de la télévision française, avec plusieurs émissions repérables, mais une portée surtout médiatique contemporaine."
 ---
-
 ![Image de Anne-Sophie Lapix](https://upload.wikimedia.org/wikipedia/commons/0/02/Anne-Sophie_Lapix_Cannes_2018.jpg)
 
 ###### Questions

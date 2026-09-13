@@ -24,8 +24,9 @@ indice_6 :
   - Khao San Road
 questions:
  - Quelle capitale asiatique, près de l'embouchure de la Chao Phraya, est parcourue de canaux appelés khlongs où stationnent des marchés ?
+culture_g_score: 84
+culture_g_justification: "Capitale mondiale très fréquente, exploitable en géographie, histoire, culture, religion, tourisme et institutions asiatiques."
 ---
-
 ![Image de Bangkok](https://upload.wikimedia.org/wikipedia/commons/6/6c/Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg)
 
 ![[Carte_Bangkok.png]]

@@ -22,8 +22,9 @@ indice_6 :
   - Pianiste autrichien
 questions:
  - n 1824, quel compositeur autrichien dédié à son ami le baron Carl von Schonstein, doté d'une voix de baryton, les lieder de "La Belle Meunière"?
+culture_g_score: 87
+culture_g_justification: "Compositeur romantique central, particulièrement rentable grâce aux lieder, à la Symphonie inachevée, à La Truite et à sa mort précoce."
 ---
-
 ![Image de Franz Schubert](https://upload.wikimedia.org/wikipedia/commons/3/3e/Franz_Schubert_-_Octet_-_5._Menuetto.ogg)
 
 ###### Questions

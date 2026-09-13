@@ -24,9 +24,9 @@ indice_6 :
   - Climat extrême et glacial
 questions:
  - On cherche ce massif montagneux partagé entre le Tadjikistan et la Chine...
+culture_g_score: 47
+culture_g_justification: "Région montagneuse importante pour la géographie de l’Asie centrale et le « toit du monde », mais peu fréquente comme réponse précise."
 ---
-
-
 ![Image de Pamir](https://upload.wikimedia.org/wikipedia/commons/b/ba/Map_of_Pamir_languages.png)
 
 ![[Carte_Pamir.png]]

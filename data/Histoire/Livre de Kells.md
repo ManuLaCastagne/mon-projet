@@ -17,9 +17,9 @@ indice_5:
   - Trinité
 indice_6:
   - Abbaye de Kells
+culture_g_score: 72
+culture_g_justification: "Manuscrit emblématique permettant des questions sur l’Irlande, le christianisme médiéval, l’enluminure et le patrimoine."
 ---
-
-
 ![Image de Livre de Kells](https://upload.wikimedia.org/wikipedia/commons/8/8e/KellsFol292rIncipJohn.jpg)
 
 ###### Questions

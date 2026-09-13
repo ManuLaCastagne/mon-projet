@@ -22,8 +22,9 @@ indice_6 :
   - Le personnage principal est en proie à des troubles psychologiques
 questions:
  - Film de Claude Chabrol dont le titre comporte le nom d'un rapace nocturne et qui réunit Christophe Malavoy et Mathilda May en 1987 ?
+culture_g_score: 32
+culture_g_justification: "Adaptation identifiable de Claude Chabrol et Patricia Highsmith, mais œuvre secondaire et peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Cri du hibou](https://upload.wikimedia.org/wikipedia/commons/2/2b/Le_hibou_des_Iesuites._%28IA_lehiboudes00mest%29.pdf)
 
 ###### Questions

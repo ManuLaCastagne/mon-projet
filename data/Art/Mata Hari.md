@@ -23,8 +23,9 @@ indice_6 :
   - condamnée à mort en France
 questions:
  - En 1917, quelle aventure néerlandaise, accusée d'espionnage au profit de l'Allemagne...
+culture_g_score: 76
+culture_g_justification: "Figure très reconnaissable mêlant danse, espionnage et Première Guerre mondiale, Mata Hari fournit de nombreux angles classiques de quiz."
 ---
-
 ![Image de Mata Hari](https://upload.wikimedia.org/wikipedia/commons/5/5e/Leeuwarden%2C_standbeeld_Mata_Hari_IMG_3625_2018-05-21_10.41.jpg)
 
 ###### Questions

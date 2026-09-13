@@ -20,8 +20,9 @@ indice_6 :
   - transition technologique
 questions:
  - De plus en plus inégalitaires. Débutant en Europe vers 800 avant notre ère et m'achevant avec la conquête romaine, je suis associée à la maîtrise d'un métal ayant notamment permis..
+culture_g_score: 72
+culture_g_justification: "Période structurante de la préhistoire et de l'Antiquité, l'Âge du Fer relie métallurgie, civilisations et chronologie historique."
 ---
-
 ![Image de Âge de Fer](https://upload.wikimedia.org/wikipedia/commons/9/9f/The_Iron_Age_%28L%27Age_de_fer%29_MET_DP805019.jpg)
 
 ###### Questions

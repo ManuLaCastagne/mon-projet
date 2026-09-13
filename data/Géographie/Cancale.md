@@ -24,8 +24,9 @@ indice_6 :
   - commune française
 questions:
  - Quelle station balnéaire d'Ille-et-Vilaine située sur la rive ouest de la baie du Mont-Saint-Michel, est très réputée pour son ostréiculture?
+culture_g_score: 40
+culture_g_justification: "Petite commune bretonne connue surtout pour ses huîtres et son attrait touristique, avec une présence limitée dans les quiz."
 ---
-
 ![Image de Cancale](https://upload.wikimedia.org/wikipedia/commons/c/ce/00_3503_Cancale%2C_Bretagne%2C_Frankreich.jpg)
 
 ![[Carte_Cancale.png]]

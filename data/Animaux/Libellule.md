@@ -15,8 +15,9 @@ indice_6:
   - Symbole de la transformation
 questions:
   - Quel insecte des mares, voisin de la demoiselle...
+culture_g_score: 68
+culture_g_justification: "Insecte très reconnaissable, associé aux odonates, aux fossiles, au vol et à des performances biologiques remarquables."
 ---
-
 ![Image de Libellule](https://upload.wikimedia.org/wikipedia/commons/b/bd/Common_darter_dragonflies_%28Sympetrum_striolatum%29_mating_blue_abdomen_and_red_pterostigma.JPG)
 
 ###### Questions

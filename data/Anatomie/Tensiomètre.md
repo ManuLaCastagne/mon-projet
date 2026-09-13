@@ -4,6 +4,8 @@ tags:
   - XIXe
   - Italie
 date: 1885
+culture_g_score: 65
+culture_g_justification: "Appareil courant, utile pour les questions de médecine préventive, de mesures et d'histoire des instruments."
 ---
 ###### Questions 
 

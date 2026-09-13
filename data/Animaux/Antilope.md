@@ -13,9 +13,9 @@ indice_5 :
   - Springbok
 indice_6 : 
   - Symbole de vitesse et agilité
+culture_g_score: 64
+culture_g_justification: "Catégorie animale familière, surtout utile pour quelques espèces, records de vitesse et références africaines."
 ---
-
-
 ![Image de Antilope](https://upload.wikimedia.org/wikipedia/commons/c/c0/Zooparc_de_Beauval_-_Antilope_asiatique_-_2016_-_001.jpg)
 
 ###### Questions

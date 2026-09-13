@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fertilité
 questions:
  - Quel nom donne-t-on à l'abri du lapin ?
+culture_g_score: 40
+culture_g_justification: "Mot de vocabulaire courant mais relativement peu rentable, car il ouvre surtout sur la définition de l’abri des lapins."
 ---
-
 ![Image de Clapier](https://upload.wikimedia.org/wikipedia/commons/6/62/Clapier_Crassiers.jpg)
 
 ###### Questions

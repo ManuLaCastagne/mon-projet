@@ -24,8 +24,9 @@ indice_6 :
   - la montagne Sri Pada ou Adam's Peak
 questions:
  - Quel état insulaire d'Asie du Sud est situé dans l'océan Indien, séparé par le golfe de Mannar et le détroit de Palk ?
+culture_g_score: 80
+culture_g_justification: "État insulaire bien connu, utile pour l’histoire coloniale, le thé, le bouddhisme, la géographie et Sigirîya."
 ---
-
 ![Image de Sri Lanka](https://upload.wikimedia.org/wikipedia/commons/2/2d/Sri_Lankan_elephant_%28Elephas_maximus_maximus%29_female_and_young_6.jpg)
 
 ![[Carte_Sri Lanka.png]]

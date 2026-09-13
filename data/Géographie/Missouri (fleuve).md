@@ -23,8 +23,9 @@ indice_6 :
   - Confluence avec le Mississippi
 questions:
  - Quelle rivière de 4370 km de long, née dans les Rocheuses, constitue le principal affluent du Mississippi ?
+culture_g_score: 64
+culture_g_justification: "Fleuve majeur de l’histoire de l’expansion américaine, mais relativement spécialisé par rapport au Mississippi."
 ---
-
 ![[Carte_Missouri (fleuve).png]]
 
 ###### Questions

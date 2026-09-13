@@ -20,8 +20,9 @@ indice_6 :
   - Bloc en salle
 questions:
  - Avec la vitesse et la difficulté, quelle est la 3e épreuve d'escalade sportive à avoir été récemment inscrite au programme des JO?
+culture_g_score: 60
+culture_g_justification: "Discipline d'escalade désormais olympique et populaire, offrant des angles sur les règles, l'équipement et son évolution."
 ---
-
 ![Image de Bloc (ou bouldering)](https://upload.wikimedia.org/wikipedia/commons/2/20/Boundary_Creek%2C_Canterbury%2C_New_Zealand.jpg)
 
 ###### Questions

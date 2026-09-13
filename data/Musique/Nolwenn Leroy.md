@@ -22,8 +22,9 @@ indice_6 :
   - Star Academy
 questions:
  - Chanteuse née à Saint-Renan le 28 septembre 1982, j'ai notamment travaillé ma voix avec la professeure de chant Armande Altaï. Révélée en gagnant...
+culture_g_score: 60
+culture_g_justification: "Chanteuse française populaire, souvent associée à Star Academy, à la Bretagne et à quelques succès, avec une importance limitée."
 ---
-
 ![Image de Nolwenn Leroy](https://upload.wikimedia.org/wikipedia/commons/b/b9/Photo_-_Festival_de_Cornouaille_2011_-_Nolwenn_Leroy_en_concert_le_22_juillet_-_014.jpg)
 
 ###### Questions

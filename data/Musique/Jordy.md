@@ -23,8 +23,9 @@ indice_6 :
   - record Guinness enfant star
 questions:
  - En 1992, quel petit garçon  reste 15 semaines à la 1re place du Top 50...
+culture_g_score: 53
+culture_g_justification: "La précocité de son succès et Dur dur d’être bébé offrent une question mémorable, mais le sujet reste largement anecdotique."
 ---
-
 ![Image de Jordy](https://upload.wikimedia.org/wikipedia/commons/9/92/Jordy_Nelson_Green_Bay_Packers.jpg)
 
 ###### Questions

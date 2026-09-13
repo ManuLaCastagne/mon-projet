@@ -22,9 +22,9 @@ indice_6 :
   - acteur américain
 questions:
  - Qui joue un face à face avec Robert de Niro dans "Angel Heart" autour d'un oeuf dur ?
+culture_g_score: 47
+culture_g_justification: "Acteur américain identifiable par The Wrestler et 9 semaines 1/2, mais sa portée culturelle et sa fréquence généraliste restent limitées."
 ---
-
-
 ![Image de Mickey Rourke](https://upload.wikimedia.org/wikipedia/commons/3/30/Mickey_Rourke_10_December_2010_%28cropped%29.jpeg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - partenaire d'Emma Peel
 questions:
  - Dans le clip de "Don't look back in anger" du groupe Oasis...
+culture_g_score: 60
+culture_g_justification: "Son rôle de John Steed dans Chapeau melon et bottes de cuir fournit une référence télévisuelle classique, sans forte extension hors de la série."
 ---
-
 ![Image de Patrick Macnee](https://upload.wikimedia.org/wikipedia/commons/5/53/Patrick_MacNee_Linda_Thorson_1968.JPG)
 
 ###### Questions

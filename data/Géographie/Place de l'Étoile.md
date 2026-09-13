@@ -21,7 +21,8 @@ indice_5 :
   - Place Charles de Gaulle
 indice_6 : 
   - 8ème arrondissement de Paris
-culture_g_score: 77
+culture_g_score: 84
+culture_g_justification: "Place parisienne mondialement identifiable grâce à l’Arc de triomphe, aux Champs-Élysées et à son histoire urbaine."
 ---
 ![[Carte_Place de l'Étoile.png]]
 

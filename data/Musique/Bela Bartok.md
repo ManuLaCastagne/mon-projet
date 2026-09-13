@@ -22,8 +22,9 @@ indice_6 :
   - Mikrokosmos
 questions:
  - Le château de Barbe-Bleue et du ballet...
+culture_g_score: 72
+culture_g_justification: "Compositeur majeur du XXe siècle, intéressant pour la musique savante, l’ethnomusicologie, la Hongrie et l’histoire culturelle."
 ---
-
 ![Image de Bela Bartok](https://upload.wikimedia.org/wikipedia/commons/1/1c/Bartok_-_Sonatina.ogg)
 
 ###### Questions

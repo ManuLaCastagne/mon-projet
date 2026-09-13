@@ -18,8 +18,9 @@ indice_5:
   - KO contre Jersey Joe Walcott
 indice_6:
   - Brockton Blockbuster
+culture_g_score: 68
+culture_g_justification: "Légende historique de la boxe connue pour son invincibilité et son titre mondial des poids lourds, avec toutefois des angles de quiz assez concentrés."
 ---
-
 ![Image de Rocky Marciano](https://upload.wikimedia.org/wikipedia/commons/1/1d/Rocky_Marciano_Postcard_1953.jpg)
 
 ###### Questions

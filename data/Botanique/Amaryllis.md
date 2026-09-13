@@ -15,8 +15,9 @@ indice_6 :
   - Décoration florale
 questions:
  - Quelle plante bulbeuse originaire d'Afrique du Sud, portant de grandes fleurs d'un rouge éclatant, est également appelée lis Saint-Jacques?
+culture_g_score: 44
+culture_g_justification: "Plante d’intérieur et de jardin assez connue, mais offrant peu de questions indépendantes en dehors de l’horticulture."
 ---
-
 ![Image de Amaryllis](https://upload.wikimedia.org/wikipedia/commons/b/b5/Hippeastrum_intokazi_01.jpg)
 
 ###### Questions

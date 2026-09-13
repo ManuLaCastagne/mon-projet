@@ -18,8 +18,9 @@ indice_5 :
   - Alizés
 indice_6 : 
   - Dépressions cycloniques
+culture_g_score: 51
+culture_g_justification: "Expression géographique et maritime évocatrice, mais assez spécialisée et principalement limitée à la météorologie et à la navigation."
 ---
-
 ![Image de Quarantièmes rugissants](https://upload.wikimedia.org/wikipedia/commons/5/54/Worst_Journey_in_the_World-1-113.jpg)
 
 ###### Questions

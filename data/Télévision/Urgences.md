@@ -20,9 +20,9 @@ indice_6 :
   - urgence
 questions:
  - Dans quelle série créée en 1994 George Clooney joue-t-il le rôle d'un médecin nommé...
+culture_g_score: 93
+culture_g_justification: "Série médicale mondiale et culte, abondamment interrogée à travers ses personnages, ses acteurs, ses récompenses et son influence télévisuelle."
 ---
-
-
 ![Image de Urgences](https://upload.wikimedia.org/wikipedia/commons/d/db/Urgences-sante.jpg)
 
 ###### Questions

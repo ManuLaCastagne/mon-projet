@@ -22,8 +22,9 @@ indice_6 :
   - mission spatiale
 questions:
  - En 2006, c'est du cinéma, dans quelle comédie française Kad Merad gagne-t-il à la loterie un voyage à bord d'une navette spatiale?
+culture_g_score: 36
+culture_g_justification: "Comédie française identifiable par son casting et son concept spatial, mais rarement prioritaire dans les quiz généralistes."
 ---
-
 ![Image de Ticket pour l'espace](https://upload.wikimedia.org/wikipedia/commons/0/09/Vignette_campagne_habiter_l%27espace_3.png)
 
 ###### Questions

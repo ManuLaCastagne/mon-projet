@@ -19,9 +19,9 @@ indice_5 :
   - incompétence inconsciente
 indice_6 : 
   - sous-estimation des experts
+culture_g_score: 73
+culture_g_justification: "Biais cognitif désormais très présent dans les questions de psychologie et de société, avec une définition facilement réutilisable."
 ---
-
-
 ![Image de Effet Dunning-Kruger](https://upload.wikimedia.org/wikipedia/commons/3/3c/Effet_Dunning-Kruger.png)
 
 ###### Questions

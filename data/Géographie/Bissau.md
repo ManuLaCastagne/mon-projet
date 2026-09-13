@@ -22,9 +22,9 @@ indice_5 :
   - Bissagos
 indice_6 : 
   - indépendance 1973
+culture_g_score: 40
+culture_g_justification: "Bissau est principalement interrogée comme capitale de la Guinée-Bissau, avec peu d’autres usages généralistes."
 ---
-
-
 ![Image de Bissau](https://upload.wikimedia.org/wikipedia/commons/6/65/20130610_-_Monumento_aos_Her%C3%B3is_da_Independ%C3%AAncia.jpg)
 
 ![[Carte_Bissau.png]]

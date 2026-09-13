@@ -15,9 +15,9 @@ indice_5:
   - Palmier
 indice_6:
   - Augure de chance
+culture_g_score: 64
+culture_g_justification: "Oiseau spectaculaire et intelligent, mais ses occurrences concernent surtout la zoologie et l’imitation sonore."
 ---
-
-
 ![Image de Cacatoès](https://upload.wikimedia.org/wikipedia/commons/5/53/Eolophus_roseicapilla_-_Vogelburg_Weilrod_01.jpg)
 
 ###### Questions

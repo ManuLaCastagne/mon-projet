@@ -20,8 +20,9 @@ indice_6 :
   - invention de la photographie
 questions:
  - Du pastel avant de m'intéresser à la lithographie. Utilisant la chambre noire, des sels argentiques puis du bitume de Judée grâce auquel j'obtiens des images positives...
+culture_g_score: 80
+culture_g_justification: "Pionnier fondamental de la photographie, associé à l’héliographie, à Daguerre et aux débuts de la motorisation."
 ---
-
 ![Image de Nicéphore Niepce](https://upload.wikimedia.org/wikipedia/commons/5/5c/View_from_the_Window_at_Le_Gras%2C_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg)
 
 ###### Questions

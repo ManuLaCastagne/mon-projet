@@ -21,9 +21,9 @@ indice_5:
   - impliqué dans la Révolution française
 indice_6:
   - associé à l'École polytechnique
+culture_g_score: 64
+culture_g_justification: "Mathématicien français important pour la géométrie descriptive et l’École polytechnique, mais d’une notoriété généraliste modérée."
 ---
-
-
 ![Image de Gaspard Monge](https://upload.wikimedia.org/wikipedia/commons/8/8f/Gaspard_monge_litho_delpech.jpg)
 
 ###### Questions

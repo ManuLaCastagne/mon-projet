@@ -18,9 +18,9 @@ indice_5:
   - créés par Jacques Rouxel
 indice_6:
   - diffusés sur l'ORTF
+culture_g_score: 64
+culture_g_justification: "Création animée française devenue une référence culturelle grâce à son absurdité et ses expressions, avec plusieurs angles de questions classiques."
 ---
-
-
 ![Image de Shadoks](https://upload.wikimedia.org/wikipedia/commons/1/1b/Les_Shadoks_et_le_Big_Blank.png)
 
 ###### Questions

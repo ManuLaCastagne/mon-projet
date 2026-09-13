@@ -20,8 +20,9 @@ indice_6 :
   - Planche de surf
 questions:
  - Me distinguant par ma maîtrise technique me permettant d'effectuer des figures périlleuses telles que des floaters de 4 m et des 360 degrés aériens, j'ai une préférence pour le surf backside, c'est-à-dire dos à la vague. Surfeur...
+culture_g_score: 61
+culture_g_justification: "Recordman historique du surf, important dans son sport mais rarement mobilisé dans les quiz généralistes francophones."
 ---
-
 ![Image de Kelly Slater](https://upload.wikimedia.org/wikipedia/commons/7/7e/Kelly_Slater_2017.jpg)
 
 ###### Questions

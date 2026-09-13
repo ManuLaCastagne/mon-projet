@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de grâce et agilité
 questions:
  - Svelte, de couleur souvent fauve et blanche. Doté de cornes en forme de S chez les 2 sexes, je...
+culture_g_score: 64
+culture_g_justification: "La gazelle est une figure connue des paysages africains et des records de vitesse, avec une fréquence correcte mais non incontournable."
 ---
-
 ![Image de Gazelle](https://upload.wikimedia.org/wikipedia/commons/d/d0/Eat228.jpg)
 
 ###### Questions

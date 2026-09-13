@@ -20,8 +20,9 @@ indice_5:
   - adaptations Netflix
 indice_6:
   - Ne le dis à personne
+culture_g_score: 60
+culture_g_justification: "Auteur de thrillers très diffusé en France et souvent adapté, mais d'importance littéraire et historique limitée."
 ---
-
 ![Image de Harlan Coben](https://upload.wikimedia.org/wikipedia/commons/7/76/Harlan_Coben_cropped_12_mars_2009.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Rocher des Doms
 questions:
  - Dans quelle ville du Midi de la France la gare, mise en service en 2001 pour accueillir le TGV, a-t-elle la forme d'une coque de bateau retournée?
+culture_g_score: 80
+culture_g_justification: "Ville très rentable grâce à la papauté, au Palais des Papes, au pont et à son festival théâtral."
 ---
-
 ![[Carte_Avignon.png]]
 
 ###### Questions

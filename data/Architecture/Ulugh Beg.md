@@ -22,8 +22,9 @@ indice_5 :
   - Observatoire d'Ulugh Beg
 indice_6 : 
   - Mathématiques islamiques
+culture_g_score: 56
+culture_g_justification: "Prince savant timouride intéressant pour l’astronomie, Samarcande et l’histoire de l’Asie centrale, mais peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Ulugh Beg]()
 
 ###### Questions

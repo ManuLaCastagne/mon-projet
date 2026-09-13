@@ -20,8 +20,9 @@ indice_5 :
   - Tapis rouge
 indice_6 : 
   - Statuette dorée
+culture_g_score: 100
+culture_g_justification: "Les Oscars constituent le grand marronnier mondial des quiz de cinéma, avec une histoire, des records, des catégories et des lauréats très exploitables."
 ---
-
 ![Image de Cérémonie des Oscars](https://upload.wikimedia.org/wikipedia/commons/3/32/C%C3%A9r%C3%A9monie_des_Oscars_2010.jpg)
 
 ###### Questions

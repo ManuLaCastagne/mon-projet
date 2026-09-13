@@ -15,8 +15,9 @@ indice_6 :
   - icône de la faune de l'Alaska
 questions:
  - Quel ours brun, désigné par le nom d'une île de l'Alaska, est le géant des carnivores actuels avec 3m60 de long ?
+culture_g_score: 44
+culture_g_justification: "Sous-espèce d'ours remarquable par sa taille, mais essentiellement limitée à une question de zoologie géographique."
 ---
-
 ![Image de Kodiak](https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg)
 
 ###### Questions

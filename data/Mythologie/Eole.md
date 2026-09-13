@@ -19,10 +19,9 @@ indice_6 :
   - maître des Anémones
 questions:
  - Dans la [[mythologie grecque]], quel dieu des Vents choisit l'île de Tinos, appelée également Ténos, dans les Cyclades, pour résidence?
+culture_g_score: 60
+culture_g_justification: "Maître des vents et auxiliaire d'Ulysse, sujet classique mais assez circonscrit de la mythologie grecque."
 ---
-
-
-
 ![Image de Eole](https://upload.wikimedia.org/wikipedia/commons/4/43/The_sculpture_Eole_in_the_port_of_Ouchy_01.jpg)
 
 ###### Questions

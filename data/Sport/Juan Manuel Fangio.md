@@ -20,8 +20,9 @@ indice_6 :
   - Maserati
 questions:
  - Quel pilote argentin, 5 fois champion du monde de formule 1 dans les années 50, a marqué le sport automobile d'une profonde empreinte ? Ca a même donné une expression sur la route, quand on voit un foufou. "Te prends pas pour…"
+culture_g_score: 77
+culture_g_justification: "Figure fondatrice de la Formule 1, fréquemment citée pour ses cinq titres, son époque et ses records de précocité inverse."
 ---
-
 ![Image de Juan Manuel Fangio](https://upload.wikimedia.org/wikipedia/commons/0/0e/Juan_Manuel_Fangio_firma.svg)
 
 ###### Questions

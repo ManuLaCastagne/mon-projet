@@ -20,9 +20,9 @@ indice_6 :
   - Orbite de 84 ans
 questions:
  - En 1977, autour de quelle planète, située au-delà de Saturne a-t-on découvert par hasard une série de fins anneaux de matière?
+culture_g_score: 80
+culture_g_justification: "Planète classique des quiz, particulièrement rentable grâce à sa découverte télescopique, son axe incliné et ses caractéristiques originales."
 ---
-
-
 ![Image de Uranus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Uranus_diagram.svg)
 
 ###### Questions

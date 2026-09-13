@@ -20,9 +20,9 @@ indice_6 :
   - Ferrari
 questions:
  - En 1955, quel pilote automobile surnommé Pétoulet et oncle d'un acteur célèbre a été le 1er Français à remporter un Grand prix de formule 1?
+culture_g_score: 51
+culture_g_justification: "Pilote français historique aux succès à Monaco, au Mans et en Formule 1, mais référence désormais assez spécialisée."
 ---
-
-
 ![Image de Maurice Trintignant](https://upload.wikimedia.org/wikipedia/commons/3/35/Maurice_Trintignant_-_El_Gr%C3%A1fico_1801.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Redwood
 indice_6:
   - Utilisé pour le bois et les parcs paysagers
+culture_g_score: 68
+culture_g_justification: "Les séquoias sont des arbres emblématiques associés aux records de hauteur, à la Californie et à la longévité."
 ---
-
 ![Image de Séquoia](https://upload.wikimedia.org/wikipedia/commons/0/04/Sequoia_sempervirens_Big_Basin_Redwoods_State_Park_1.jpg)
 
 ###### Questions

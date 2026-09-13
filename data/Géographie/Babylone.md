@@ -25,8 +25,9 @@ indice_6 :
   - Hammurabi
 questions:
  - C'est une réplique de la porte d'Ishtar. Dans quelle ville...
+culture_g_score: 88
+culture_g_justification: "Référence incontournable de l’Antiquité et de la Mésopotamie, associée à Nabuchodonosor, aux jardins suspendus et aux empires anciens."
 ---
-
 ![Image de Babylone](https://upload.wikimedia.org/wikipedia/commons/9/9e/DSC_0658-Recovered.jpg)
 
 ![[Carte_Babylone.png]]

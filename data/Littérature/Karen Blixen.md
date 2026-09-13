@@ -22,8 +22,9 @@ indice_6 :
   - Les Contes d'hiver
 questions:
  - En 1937, quelle femme de lettre danoise publie le roman "La Ferme africaine" ?
+culture_g_score: 80
+culture_g_justification: "Écrivaine célèbre sous le nom d’Isak Dinesen, fortement associée à La Ferme africaine et au film Out of Africa."
 ---
-
 ![Image de Karen Blixen](https://upload.wikimedia.org/wikipedia/commons/f/f9/Karen_Blixen_cropped_from_larger_original.jpg)
 
 ###### Questions

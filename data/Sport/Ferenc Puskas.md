@@ -20,9 +20,9 @@ indice_6 :
   - Représentant du football des années 1950
 questions:
  - En 1960, quel attaquant hongrois du Real Madrid inscrit 4 buts en finale de la Coupe d'Europe des clubs champions ?
+culture_g_score: 97
+culture_g_justification: "Puskás est une légende universelle du football, associée à la Hongrie, au Real Madrid, aux records et à un prestigieux prix FIFA."
 ---
-
-
 ![Image de Ferenc Puskas](https://upload.wikimedia.org/wikipedia/commons/a/af/Ferenc_Puskas_player_licence.jpg)
 
 ###### Questions

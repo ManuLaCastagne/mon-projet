@@ -22,8 +22,9 @@ indice_6 :
   - influence importante sur la littérature underground
 questions:
  - Disparu en 2004, auteur de "Last Exit to Brooklyn" et du "Démon", je suis…
+culture_g_score: 40
+culture_g_justification: "Auteur américain reconnu pour des œuvres radicales comme Last Exit to Brooklyn et Requiem for a Dream, mais de portée quiz limitée."
 ---
-
 ![Image de Hubert Selby junior](https://upload.wikimedia.org/wikipedia/commons/3/3c/Hubert%27s_wife%3B_a_story_for_you_%28IA_hubertswifestory00leem%29.pdf)
 
 ###### Questions

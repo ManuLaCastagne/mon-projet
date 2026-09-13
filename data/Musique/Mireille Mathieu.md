@@ -20,9 +20,9 @@ indice_5:
   - La Paloma adieu
 indice_6:
   - Acropolis Adieu
+culture_g_score: 76
+culture_g_justification: "Grande voix de la chanson française, associée à plusieurs tubes, à l’Eurovision et à la variété télévisée, avec une transversalité moyenne."
 ---
-
-
 ![Image de Mireille Mathieu](https://upload.wikimedia.org/wikipedia/commons/2/25/Mireille_Mathieu_Hamburg_1971_001.jpg)
 
 ###### Questions

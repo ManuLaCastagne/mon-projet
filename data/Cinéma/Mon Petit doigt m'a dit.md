@@ -22,8 +22,9 @@ indice_6 :
   - enquête policière
 questions:
  - En 2005, quel film de Pascal Thomas, avec André Dussollier et Catherine Frot…
+culture_g_score: 31
+culture_g_justification: "Adaptation française secondaire d’Agatha Christie, dont les possibilités de questions restent peu nombreuses dans un quiz généraliste."
 ---
-
 ![Image de Mon Petit doigt m'a dit](https://upload.wikimedia.org/wikipedia/commons/6/6c/Mon_petit_doigt_m%27a_dit.jpg)
 
 ###### Questions

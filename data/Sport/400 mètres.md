@@ -20,8 +20,9 @@ indice_6 :
   - Tour de piste
 questions:
  - En athlétisme, quelle est la seule épreuve individuelle de sprint dans laquelle on ne mesure pas la vitesse du vent pour homologuer ?
+culture_g_score: 80
+culture_g_justification: "Épreuve olympique classique, riche en références aux records, aux champions et à l’histoire de l’athlétisme."
 ---
-
 ![Image de 400 mètres](https://upload.wikimedia.org/wikipedia/commons/6/63/400_m_final_Daegu_2011.jpg)
 
 ###### Questions

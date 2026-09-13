@@ -15,8 +15,9 @@ indice_6 :
   - Créature mythologique dans certaines cultures
 questions:
  - Quel est ce poisson qui possède 2 mâchoires, dont la 1re lui permet de saisir sa proie, et la 2e, mobile, de la tirer vers l'arrière de la bouche?
+culture_g_score: 51
+culture_g_justification: "Poisson serpentiforme spectaculaire, utile pour quelques questions de zoologie marine mais assez peu transversal."
 ---
-
 ![Image de Murène](https://upload.wikimedia.org/wikipedia/commons/d/de/Muraena_helena_swimming_v2.jpg)
 
 ###### Questions

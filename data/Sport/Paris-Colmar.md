@@ -20,8 +20,9 @@ indice_6 :
   - Paris à Colmar
 questions:
  - En 2014, quelle épreuve de marche est disputée en France sur plus de 400 km, a été remportée 4 fois par Dimitri Osipov ?
+culture_g_score: 20
+culture_g_justification: "Épreuve de marche historique mais très confidentielle, susceptible d’apparaître seulement dans des quiz sportifs spécialisés."
 ---
-
 ![Image de Paris-Colmar](https://upload.wikimedia.org/wikipedia/commons/e/eb/Rue_Colmar_-_Paris_XIX_%28FR75%29_-_2021-07-25_-_2.jpg)
 
 ###### Questions

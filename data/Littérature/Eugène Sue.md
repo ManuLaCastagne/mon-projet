@@ -22,8 +22,9 @@ indice_6 :
   - Le Juif errant
 questions:
  - Qui a écrit "Les Mystères de Paris" ?
+culture_g_score: 60
+culture_g_justification: "Auteur classique du XIXe siècle associé aux romans-feuilletons, aux Mystères de Paris et aux débats sociaux, régulièrement mobilisable en littérature."
 ---
-
 ![Image de Eugène Sue](https://upload.wikimedia.org/wikipedia/commons/a/a0/GabrielLepaulleEugeneSue.JPG)
 
 ###### Questions

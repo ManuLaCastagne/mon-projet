@@ -22,8 +22,9 @@ indice_6 :
   - courant du Nouveau Roman
 questions:
  - En 1953, dans quel romain d'Alain Robbe-Grillet la montre du détective Wallas se remet-elle en marche 24h après s'être arrêtée ?
+culture_g_score: 51
+culture_g_justification: "Roman fondateur du Nouveau Roman intéressant pour Robbe-Grillet et ses procédés narratifs, mais relativement spécialisé."
 ---
-
 ![Image de Les Gommes](https://upload.wikimedia.org/wikipedia/commons/1/1e/Erasers_2023.jpg)
 
 ###### Questions

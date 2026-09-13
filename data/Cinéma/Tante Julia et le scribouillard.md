@@ -22,8 +22,9 @@ indice_6 :
   - comédie
 questions:
  - En 1990, dans quelle adaptation d'un roman de Mario Vargas Llosa un journaliste de radio, joué par Keanu Reeves...
+culture_g_score: 28
+culture_g_justification: "Film peu connu du grand public, susceptible d'apparaître seulement dans des questions spécialisées sur le cinéma ou Vargas Llosa."
 ---
-
 ![Image de Tante Julia et le scribouillard]()
 
 ###### Questions

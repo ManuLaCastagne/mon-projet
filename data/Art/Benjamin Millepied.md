@@ -23,8 +23,9 @@ indice_6 :
   - musique et poésie dans ses créations
 questions:
  - Quel danseur et chorégraphe a été directeur de la danse à l'Opéra de Paris de 2014 à 2016?
+culture_g_score: 47
+culture_g_justification: "Sa direction de la danse à l’Opéra de Paris et son lien avec Black Swan donnent quelques questions, sans importance générale majeure."
 ---
-
 ![Image de Benjamin Millepied](https://upload.wikimedia.org/wikipedia/commons/0/0e/Benjamin_Millepied_2015.jpg)
 
 ###### Questions

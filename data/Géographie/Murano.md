@@ -24,9 +24,9 @@ indice_6 :
   - ateliers de soufflage de verre
 questions:
  - Sur quelle île située au nord de Venise fabrique-on des objets en verre de qualité ?
+culture_g_score: 73
+culture_g_justification: "Île vénitienne très classique des quiz grâce à la renommée mondiale du verre de Murano."
 ---
-
-
 ![Image de Murano](https://upload.wikimedia.org/wikipedia/commons/c/c2/Faro_%28Murano%29.jpg)
 
 ![[Carte_Murano.png]]

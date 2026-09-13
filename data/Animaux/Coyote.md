@@ -15,9 +15,9 @@ indice_6 :
   - Trickster
 questions:
  - Quel canidé d'Amérique du Nord, voisin du loup..
+culture_g_score: 72
+culture_g_justification: "Canidé nord-américain associé à la culture populaire, à l’adaptation écologique et à la conquête des territoires humains."
 ---
-
-
 ![Image de Coyote](https://upload.wikimedia.org/wikipedia/commons/c/ce/Canis_latrans_%28Yosemite%2C_2009%29.jpg)
 
 ###### Questions

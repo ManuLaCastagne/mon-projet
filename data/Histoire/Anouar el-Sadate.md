@@ -20,8 +20,9 @@ indice_6 :
   - prix Nobel de la paix
 questions:
  - Quel homme politique égyptien a conclu les accords de Camp David et un traité de paix avec Israël ?
+culture_g_score: 80
+culture_g_justification: "Le Nobel, les accords de Camp David, la guerre du Kippour et son assassinat en font un dirigeant incontournable du Proche-Orient contemporain."
 ---
-
 ![Image de Anouar el-Sadate](https://upload.wikimedia.org/wikipedia/commons/3/39/L1020_-_Anouar_el_Sadate.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - Exoplanète
 questions:
  - Ayant pour principale méthode d'investigation l'étude du spectre électromagnétique, je suis associée à des scientifiques comme Stephen Hawking et Hubert Reeves.
+culture_g_score: 75
+culture_g_justification: "Domaine très transversal de l’espace, reliant étoiles, relativité, cosmologie, trous noirs et grands savants."
 ---
-
-
 ![Image de Astrophysique](https://upload.wikimedia.org/wikipedia/commons/1/16/Nord_america.jpg)
 
 ###### Questions

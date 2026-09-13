@@ -19,8 +19,9 @@ indice_5 :
   - grand reportage
 indice_6 : 
   - Xavier de Moulins
+culture_g_score: 44
+culture_g_justification: "Magazine de reportages identifiable sur M6, mais rarement une réponse prioritaire dans les quiz de culture générale."
 ---
-
 ![Image de 66 minutes](https://upload.wikimedia.org/wikipedia/commons/4/45/Minutes_of_Meetings_-_NARA_-_12019696_%28page_66%29.jpg)
 
 ###### Questions

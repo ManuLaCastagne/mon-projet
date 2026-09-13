@@ -20,9 +20,9 @@ indice_6 :
   - Deux fois champion olympique
 questions:
  - Entre 2011 et 2016, quel athlète kényan a remporté 2 titres de champion du monde et 2 titres de champion olympique sur 800 m?
+culture_g_score: 73
+culture_g_justification: "Détenteur d'un record du monde emblématique et double champion olympique du 800 mètres, il revient régulièrement dans les quiz d'athlétisme."
 ---
-
-
 ![Image de David Rudisha](https://upload.wikimedia.org/wikipedia/commons/4/40/David_Rudisha_Daegu_2011.jpg)
 
 ###### Questions

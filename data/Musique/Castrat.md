@@ -22,8 +22,9 @@ indice_6 :
   - soprano masculin
 questions:
  - Type de chanteur dont la présence dans les églises jusqu'au XVIIe siècle s'explique par l'interdiction faite aux femmes d'accéder au choeur, je suis plus tard recherché...
+culture_g_score: 60
+culture_g_justification: "Notion classique de l’histoire de l’opéra et de la musique baroque, souvent associée à Farinelli, mais relativement spécialisée."
 ---
-
 ![Image de Castrat](https://upload.wikimedia.org/wikipedia/commons/f/f4/LL-Q150_%28fra%29-Lepticed7-castrat.wav)
 
 ###### Questions

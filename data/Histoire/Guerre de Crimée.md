@@ -20,8 +20,9 @@ indice_6 :
   - Bataille de Balaklava
 questions:
  - Dès 1854, quel conflit, marqué par le siège de Sébastopol opposa la France et ses alliés à la Russie ?
+culture_g_score: 63
+culture_g_justification: "Conflit important pour l'histoire européenne et militaire, fréquemment relié à Florence Nightingale, à la photographie et aux rivalités impériales."
 ---
-
 ![Image de Guerre de Crimée](https://upload.wikimedia.org/wikipedia/commons/f/fc/Arm%C3%A9e_anglaise_%C3%A0_l%27%C3%A9poque_de_la_guerre_de_Crim%C3%A9e._-_btv1b8427369t_%2817_of_38%29.jpg)
 
 ###### Questions

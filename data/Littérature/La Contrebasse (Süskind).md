@@ -22,8 +22,9 @@ indice_6 :
   - solitude
 questions:
  - Rendue célèbre par l'interprétation de Jacques Villeret et plus récemment par celle de Clovis Cornillac.
+culture_g_score: 40
+culture_g_justification: "Monologue théâtral reconnu de Süskind, mais trop étroit et peu fréquent pour constituer une priorité généraliste."
 ---
-
 ![Image de La Contrebasse (Süskind)](https://upload.wikimedia.org/wikipedia/commons/0/0d/Double_bass_drum_beat.mid)
 
 ###### Questions

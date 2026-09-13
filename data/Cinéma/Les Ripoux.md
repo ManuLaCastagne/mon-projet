@@ -22,8 +22,9 @@ indice_6 :
   - Trilogie
 questions:
  - En 1984, dans quel film de Claude Zidi, qui fera l'objet de 2 suites, Philippe Noiret et...
+culture_g_score: 73
+culture_g_justification: "Comédie policière française très connue, régulièrement associée à Claude Zidi, Noiret, Lhermitte et aux César."
 ---
-
 ![Image de Les Ripoux](https://upload.wikimedia.org/wikipedia/commons/e/e3/Quality_street_%28IA_qualitystreet00barriala%29.pdf)
 
 ###### Questions

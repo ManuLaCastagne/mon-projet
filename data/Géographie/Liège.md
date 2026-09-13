@@ -24,8 +24,9 @@ indice_5:
 indice_6:
   - Université
 questions: []
+culture_g_score: 60
+culture_g_justification: "Ville belge classique, exploitable par son histoire, son patrimoine, la Meuse, l’université et la gare de Calatrava, mais rarement prioritaire."
 ---
-
 ![Image de Liège](https://upload.wikimedia.org/wikipedia/commons/c/cd/Li%C3%A8ge_BW_2019-08-17_16-16-59.jpg)
 
 ![[Carte_Liège.png]]

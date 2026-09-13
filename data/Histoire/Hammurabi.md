@@ -20,8 +20,9 @@ indice_6 :
   - justice
 questions:
  - Quel roi fondateur de l'empire Babylonien en -1800 a créé un code de lois ?
+culture_g_score: 88
+culture_g_justification: "Roi babylonien universellement repéré grâce à son code, utile pour les questions sur la Mésopotamie, le droit ancien et les premières civilisations."
 ---
-
 ![Image de Hammurabi](https://upload.wikimedia.org/wikipedia/commons/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG)
 
 ###### Questions

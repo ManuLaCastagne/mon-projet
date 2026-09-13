@@ -24,8 +24,9 @@ indice_6:
   - Hauts-de-France
 questions:
   - De faible dénivelé, je forme un ensemble complexe de méandres, de marais, d'étangs,  de canaux avant de me jeter dans la Manche. Fleuve côtier arrosant Péronne, Amiens, Abbeville, j'ai donné mon nom au département 80.
+culture_g_score: 77
+culture_g_justification: "Département associé à une bataille majeure de 1916, à Amiens et à la Baie de Somme."
 ---
-
 ![Image de Somme](https://upload.wikimedia.org/wikipedia/commons/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg)
 
 ![[Carte_Somme.png]]

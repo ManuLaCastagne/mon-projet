@@ -18,8 +18,9 @@ indice_5 :
   - famine
 indice_6 : 
   - conflit civil
+culture_g_score: 67
+culture_g_justification: "Guerre africaine marquante par la sécession du Biafra et la crise humanitaire, mais dont la fréquence reste intermédiaire."
 ---
-
 ![Image de guerre du Biafra](https://upload.wikimedia.org/wikipedia/commons/a/ae/ASC_Leiden_-_Rietveld_Collection_-_Nigeria_1970_-_1973_-_01_-_093_New_Nigerian_newspaper_page_7_January_1970._End_of_the_Nigerian_civil_war_with_Biafra.jpg)
 
 ###### Questions

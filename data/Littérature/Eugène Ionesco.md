@@ -22,8 +22,9 @@ indice_6 :
   - Antisèche
 questions:
  - Faisant apparaître pour la 1re fois mon alter ego, Béranger, dans "Tueur sans gages" en 1959, je suis associé au théâtre de l'absurde, notamment avec "Le Roi se meurt". Auteur né en Roumanie auquel on doit...
+culture_g_score: 96
+culture_g_justification: "Dramaturge incontournable du théâtre de l’absurde, régulièrement associé à Rhinocéros, La Cantatrice chauve et l’Académie française."
 ---
-
 ![Image de Eugène Ionesco](https://upload.wikimedia.org/wikipedia/commons/8/89/Eugene_Ionesco_01.jpg)
 
 ###### Questions

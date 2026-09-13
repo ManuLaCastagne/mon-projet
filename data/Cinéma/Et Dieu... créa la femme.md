@@ -22,8 +22,9 @@ indice_6:
   - 1956
 questions:
   - En 1956, quel film de Roger Vadim se passant à Cinéma/Saint-Tropez, a permis à Cinéma/Brigitte Bardot d'être propulsée au rang de star internationale?
+culture_g_score: 80
+culture_g_justification: "Film fondateur de l’image de Brigitte Bardot et de la mythologie de Saint-Tropez, avec une forte portée historique et culturelle."
 ---
-
 ![Image de Et Dieu](https://cine-images.com/wp-content/uploads/2022/06/et-dieu-crea-la-femme-photo-exp-1.jpg)
 
 ###### Questions

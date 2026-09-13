@@ -22,8 +22,9 @@ indice_6 :
   - DJ britannique
 questions:
  - En 2001, quel DJ anglais revisite le french-cancan façon techno dans le film "Moulin-Rouge (film)" de Baz Luhrman?
+culture_g_score: 67
+culture_g_justification: "DJ important de la musique électronique, identifiable par plusieurs tubes, son pseudonyme et son passage chez The Housemartins."
 ---
-
 ![Image de Fatboy Slim](https://upload.wikimedia.org/wikipedia/commons/9/97/Fatboy_Slim_in_2004.jpg)
 
 ###### Questions

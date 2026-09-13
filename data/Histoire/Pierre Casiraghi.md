@@ -19,8 +19,9 @@ indice_5 :
   - régate
 indice_6 : 
   - Andrea Casiraghi
+culture_g_score: 27
+culture_g_justification: "Membre contemporain de la famille monégasque peu central pour la culture générale et rarement susceptible d’être une réponse de quiz."
 ---
-
 ![Image de Pierre Casiraghi](https://upload.wikimedia.org/wikipedia/commons/3/34/Pierre_Casiraghi_2017.jpg)
 
 ###### Questions

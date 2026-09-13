@@ -20,9 +20,9 @@ indice_5:
   - Oscar Hammerstein II
 indice_6:
   - 1956
+culture_g_score: 72
+culture_g_justification: "Classique de la comédie musicale, utile pour Rodgers et Hammerstein, le Siam, Yul Brynner, l’histoire coloniale et les Oscars."
 ---
-
-
 ![Image de Le Roi et Moi](https://upload.wikimedia.org/wikipedia/commons/c/c1/Ricardo_Montalban_and_Florence_Henderson_in_The_King_and_I.jpg)
 
 ###### Questions

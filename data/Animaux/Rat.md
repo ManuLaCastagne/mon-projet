@@ -15,8 +15,9 @@ indice_6 :
   - Porte-bonheur en Asie
 questions:
  - Dans une fable ayant pour morale "La patience et longueur de temps font plus que force ni que rage", quel animal est opposé au lion ?
+culture_g_score: 87
+culture_g_justification: "Référence majeure de la zoologie et de l’histoire sanitaire, mobilisable sur les maladies, les laboratoires, les villes et les croyances."
 ---
-
 ![Image de Rat](https://upload.wikimedia.org/wikipedia/commons/f/fe/Brown_rat_brighton.jpg)
 
 ###### Questions

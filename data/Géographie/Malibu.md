@@ -24,9 +24,9 @@ indice_6 :
   - série télévisée Alerte à Malibu
 questions:
  - Sur quelle plage californienne, associée à une série télé avec Cinéma/Pamela Anderson, avec le maillot rouge, le surf moderne s'est-il développé dans les années 50?
+culture_g_score: 44
+culture_g_justification: "Ville balnéaire californienne connue par les célébrités et la culture populaire, mais son intérêt géographique et historique reste limité."
 ---
-
-
 ![Image de Malibu](https://upload.wikimedia.org/wikipedia/commons/3/39/Malibu%2C_Western_Malibu%2C_%28Californie%29.jpeg)
 
 ![[Carte_Malibu.png]]

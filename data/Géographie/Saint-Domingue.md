@@ -23,9 +23,9 @@ indice_5:
   - Ancienne colonie française
 indice_6:
   - Plantation de canne à sucre
+culture_g_score: 72
+culture_g_justification: "Saint-Domingue permet d’aborder l’histoire coloniale, l’indépendance d’Haïti, la République dominicaine et les Caraïbes, malgré une ambiguïté de désignation."
 ---
-
-
 ![Image de Saint-Domingue](https://upload.wikimedia.org/wikipedia/commons/2/29/Moreau_de_Saint-R%C3%A9my.-_Description_topographique%2C_physique%2C_civile%2C_politique_et_historique_de_la_partie_fran%C3%A7aise_de_l%27isle_Saint-Domingue_2%2C_1797.djvu)
 
 ![[Carte_Saint-Domingue.png]]

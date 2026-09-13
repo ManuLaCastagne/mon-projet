@@ -18,9 +18,9 @@ indice_5:
   - marionnette sur un plateau
 indice_6:
   - voyage à travers le monde
+culture_g_score: 60
+culture_g_justification: "Personnage enfantin ancien et identifiable, utile pour des questions sur l’animation, les marionnettes, Albert Barillé et la chanson."
 ---
-
-
 ![Image de Les Aventures de Colargol](https://upload.wikimedia.org/wikipedia/commons/6/65/Colargol_with_company.JPG)
 
 ###### Questions

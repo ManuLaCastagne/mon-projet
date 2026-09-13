@@ -22,9 +22,9 @@ indice_6 :
   - Prénom Shy'm
 questions:
  - En 2006, quelle chanteuse de R'n'B interprète "Rêve d'enfant" ?
+culture_g_score: 56
+culture_g_justification: "Shy’m est connue dans la variété et la télévision françaises, mais son importance culturelle et sa portée historique demeurent limitées."
 ---
-
-
 ![Image de Shy'm](https://upload.wikimedia.org/wikipedia/commons/b/bd/Shy%27m_2011_cropped.jpg)
 
 ###### Questions

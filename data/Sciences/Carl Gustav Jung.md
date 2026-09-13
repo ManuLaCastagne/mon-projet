@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - D'abord proche de Sigmund Freud qui me désigne comme le continuateur de son oeuvre, je me brouille pourtant avec lui après la parution de mon livre "Métamorphoses et symboles de la libido". Psychiatre suisse ayant introduit le concept d'inconscient collectif, je suis...
  - Quel psychiatre suisse né en 1875 a introduit la notion d'inconscient collectif qui s'exprime notamment dans les contes et les mythes ?
+culture_g_score: 80
+culture_g_justification: "Jung est une grande référence de la psychologie, régulièrement associé à Freud, aux archétypes et à l’inconscient collectif."
 ---
-
 ![Image de Carl Gustav Jung](https://upload.wikimedia.org/wikipedia/commons/5/5b/ETH-BIB-Jung%2C_Carl_Gustav_%281875-1961%29-Portrait-Portr_14163_%28cropped%29.tif)
 
 ###### Questions

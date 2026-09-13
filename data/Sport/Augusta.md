@@ -20,8 +20,9 @@ indice_6 :
   - Green Jacket
 questions:
  - Au golf, quelle ville des Etats-Unis abrite le parcours sur lequel se dispute le tournoi des Masters de golf ?
+culture_g_score: 69
+culture_g_justification: "Augusta est une réponse fréquente grâce au Masters et au golf américain, même si les autres angles restent limités."
 ---
-
 ![Image de Augusta](https://upload.wikimedia.org/wikipedia/commons/8/8a/Augusta_Georgia_Broad_Street_Lamar_Building.jpg)
 
 ###### Questions

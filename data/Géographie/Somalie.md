@@ -24,8 +24,9 @@ indice_6 :
   - climat aride
 questions:
  - Quel pays de 638 000 km2, situé à l'extrémité orientale de l'Afrique, dispose de 3000 km de côtes ?
+culture_g_score: 72
+culture_g_justification: "Pays important de la Corne de l’Afrique, régulièrement mobilisé pour sa géographie, son histoire et ses crises politiques."
 ---
-
 ![Image de Somalie](https://upload.wikimedia.org/wikipedia/commons/9/93/A_man_carries_a_huge_hammerhead_through_the_streets_of_Mogadishu.jpg)
 
 ![[Carte_Somalie.png]]

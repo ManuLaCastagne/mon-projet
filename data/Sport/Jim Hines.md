@@ -20,8 +20,9 @@ indice_6 :
   - Premier sous les 10 secondes
 questions:
  - En 1968 dans les JO de Mexico, quel sprinteur américain est le premier athlète à être descendu sous les 10' au 100 m avec 9'95 ?
+culture_g_score: 60
+culture_g_justification: "Premier homme sous les dix secondes au 100 mètres, Hines est un classique de l’athlétisme mais associé à un nombre d’angles limité."
 ---
-
 ![Image de Jim Hines](https://upload.wikimedia.org/wikipedia/commons/b/b8/Jim_Hines_1968.jpg)
 
 ###### Questions

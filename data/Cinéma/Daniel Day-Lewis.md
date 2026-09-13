@@ -22,8 +22,9 @@ indice_6 :
   - film My Left Foot
 questions:
  - Quel comédien britannique a été récompensé par 3 Oscar du meilleur acteur pour ses rôles dans "My Left Foot", "There will be blood" et "Lincoln", où il incarnait l'ancien Président américain ?
+culture_g_score: 80
+culture_g_justification: "Acteur réputé pour ses rôles dans trois films oscarisés et pour sa préparation extrême, avec de nombreux repères mémorables."
 ---
-
 ![Image de Daniel Day-Lewis](https://upload.wikimedia.org/wikipedia/commons/e/e0/Daniel_Day-Lewis%2C_Jaguar%2C_Mille_Miglia_2013_cropped.jpg)
 
 ###### Questions

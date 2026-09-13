@@ -21,8 +21,9 @@ indice_5 :
   - Pont Vieux
 indice_6 : 
   - Tour de la Justice
+culture_g_score: 80
+culture_g_justification: "Cité fortifiée emblématique, très rentable grâce à l’UNESCO, au Moyen Âge, aux remparts et au canal du Midi."
 ---
-
 ![[Carte_Carcassonne.png]]
 
 ###### Questions

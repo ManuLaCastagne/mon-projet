@@ -22,8 +22,9 @@ indice_6 :
   - Prix Formentor
 questions:
  - Quel écrivain espagnol, ministre de la Culture de son pays de 1988 à 1991, a été enterré en Seine-et-Marne ?
+culture_g_score: 68
+culture_g_justification: "Écrivain, résistant, déporté et homme politique, il offre plusieurs angles de culture générale malgré une notoriété modérée."
 ---
-
 ![Image de Jorge Semprun](https://upload.wikimedia.org/wikipedia/commons/5/50/Jorge_Semprun_2009.jpg)
 
 ###### Questions

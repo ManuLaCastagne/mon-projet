@@ -23,8 +23,9 @@ indice_5:
   - bataille de 1943
 indice_6:
   - Méditerranée orientale
+culture_g_score: 64
+culture_g_justification: "Tripoli est une capitale et un repère historique méditerranéen, mais les questions la concernant sont souvent limitées à la Libye et à l’Antiquité."
 ---
-
 ![Image de Tripoli](https://upload.wikimedia.org/wikipedia/commons/4/4e/Marcus_Aurelius_Arch_Tripoli_Libya.jpg)
 
 ![[Carte_Tripoli.png]]

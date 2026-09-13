@@ -23,8 +23,9 @@ indice_6 :
   - lumière naturelle
 questions:
  - A quel baron architecte belge, pionnier de l'art nouveau, associe-t-on cet atelier devenu musée, situé à Bruxelles?
+culture_g_score: 68
+culture_g_justification: "Pionnier majeur de l’Art nouveau, exploitable à travers Bruxelles, l’architecture, le fer et le verre, les hôtels particuliers et le patrimoine."
 ---
-
 ![Image de Victor Horta](https://upload.wikimedia.org/wikipedia/commons/4/45/Victor_Horta_%28cropped%29.jpg)
 
 ###### Questions

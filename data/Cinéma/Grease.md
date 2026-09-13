@@ -20,8 +20,9 @@ indice_5:
   - Summer Nights
 indice_6:
   - Pink Ladies
+culture_g_score: 93
+culture_g_justification: "Comédie musicale mondialement célèbre, riche en questions sur ses chansons, ses acteurs, son époque et ses adaptations."
 ---
-
 ![[Pasted image 20250323164851.png]]
 
 ###### Questions

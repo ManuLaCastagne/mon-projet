@@ -18,8 +18,9 @@ indice_5 :
   - Stuttgart
 indice_6 : 
   - But contre l'Argentine
+culture_g_score: 72
+culture_g_justification: "International français popularisé par son but au Mondial 2018, mais dont les angles restent surtout footballistiques."
 ---
-
 ![Image de Benjamin Pavard](https://upload.wikimedia.org/wikipedia/commons/5/5a/Benjamin_Pavard_20180709.jpg)
 
 ###### Questions

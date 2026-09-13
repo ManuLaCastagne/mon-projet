@@ -23,8 +23,9 @@ indice_6 :
   - tableau célèbre
 questions:
  - Tableau dont le titre évoque le système de fermeture d'une porte, peint en haut, à droite. Que représente le verrou ?  Je montre un homme de dos, en chemise et caleçon, enlaçant une femme tentant de le repousser, pendant qu'il ferme le verrou.
+culture_g_score: 68
+culture_g_justification: "Œuvre représentative de Fragonard et du rococo, régulièrement utilisée pour des questions sur l’érotisme, le clair-obscur et le Louvre."
 ---
-
 ![Image de Le Verrou](https://upload.wikimedia.org/wikipedia/commons/7/7b/Fragonard_le_verrou_l.jpg)
 
 ###### Questions

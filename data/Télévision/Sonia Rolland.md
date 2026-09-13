@@ -20,8 +20,9 @@ indice_6 :
   - rôle dans Le Bal des actrices
 questions:
  - J'ai débuté comme comédienne en 2002 et tenu le rôle de Léa Parker. Ancienne Miss France,  interprétant une enquêtrice  d'origine martiniquaise dans "Tropiques criminels".
+culture_g_score: 52
+culture_g_justification: "Ancienne Miss France devenue actrice, elle permet quelques croisements entre concours de beauté, télévision et cinéma, sans forte fréquence."
 ---
-
 ![Image de Sonia Rolland](https://upload.wikimedia.org/wikipedia/commons/6/60/Sonia_Rolland_Cannes_2018.jpg)
 
 ###### Questions

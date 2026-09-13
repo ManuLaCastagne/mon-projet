@@ -22,8 +22,9 @@ indice_6 :
   - procès médiatisé
 questions:
  - En 2020, quel groupe allemand, emmené par le chanteur Ralf Scheepers, a sorti un 13e album intitulé "Metal commando" ?
+culture_g_score: 20
+culture_g_justification: "Groupe de power metal connu surtout des amateurs du genre et très rarement sollicité dans les quiz généralistes."
 ---
-
 ![Image de Primal Fear](https://upload.wikimedia.org/wikipedia/commons/0/09/Primal_Fear_MoR_2019.jpg)
 
 ###### Questions

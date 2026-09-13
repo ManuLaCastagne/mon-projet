@@ -22,8 +22,9 @@ indice_6 :
   - Cherokee Nation
 questions:
  - Quel Etat des Etats-Unis, séparé du Texas par la Red River, abrite le comté de Love?
+culture_g_score: 60
+culture_g_justification: "État américain utile pour le Far West, la conquête territoriale, Tulsa, les tornades et la culture cowboy, avec une fréquence moyenne."
 ---
-
 ![Image de Oklahoma](https://upload.wikimedia.org/wikipedia/commons/e/ed/2012_Oklahoma_Democratic_primary.png)
 
 ![[Carte_Oklahoma.png]]

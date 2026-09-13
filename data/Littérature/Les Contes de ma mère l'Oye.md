@@ -22,9 +22,9 @@ indice_6 :
   - La Belle au bois dormant
 questions:
  - Dans l'édition des "Contes" de Perrault parue en 1697, quel sous-titre figurait en frontispice sous le titre original?
+culture_g_score: 80
+culture_g_justification: "Recueil de Perrault à l’origine de contes universellement connus, offrant de nombreux liens avec la littérature, l’enfance et la tradition orale."
 ---
-
-
 ![Image de Les Contes de ma mère l'Oye](https://upload.wikimedia.org/wikipedia/commons/9/99/Les_Contes_de_ma_m%C3%A8re_l%27Oye_avant_Perrault-0003.jpg)
 
 ###### Questions

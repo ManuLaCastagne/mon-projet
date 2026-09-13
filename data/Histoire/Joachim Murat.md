@@ -20,8 +20,9 @@ indice_6 :
   - exécution en 1815
 questions:
  - Le 30 mars 1815, quel roi de Naples fait cause commune avec Napoléon et promet l'indépendance aux Italiens ?
+culture_g_score: 67
+culture_g_justification: "Maréchal de Napoléon et roi de Naples, Murat apparaît dans les quiz sur l’Empire, les guerres napoléoniennes et l’Italie, mais reste moins incontournable que Napoléon lui-même."
 ---
-
 ![Image de Joachim Murat](https://upload.wikimedia.org/wikipedia/commons/d/dc/Sculpture_of_Joachim_Murat_in_Naples.jpg)
 
 ###### Questions

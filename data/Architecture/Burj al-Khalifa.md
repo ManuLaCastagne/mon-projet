@@ -21,8 +21,9 @@ indice_6 :
   - architecture moderne
 questions:
  - Quel gratte-ciel de 828 m de haut, construit à Dubai et inauguré début 2010, comporte 160 étages habitables ?
+culture_g_score: 77
+culture_g_justification: "Il s’agit du même monument mondialement connu, régulièrement interrogé pour sa hauteur, sa ville et son record architectural."
 ---
-
 ![Image de Burj al-Khalifa](https://upload.wikimedia.org/wikipedia/commons/3/34/Level_145_%28Burj_al_Khalifa%29.jpg)
 
 ![[Carte_Burj al-Khalifa.png]]

@@ -20,10 +20,9 @@ indice_5:
   - César du meilleur scénario
 indice_6:
   - Un certain regard sur la société
+culture_g_score: 69
+culture_g_justification: "Acteur et scénariste central de la comédie dramatique française, notamment grâce à ses collaborations avec Agnès Jaoui."
 ---
-
-
-
 ![Image de Jean-Pierre Bacri](https://upload.wikimedia.org/wikipedia/commons/d/d6/Jean-Pierre_Bacri_20070411_Fnac_6.jpg)
 
 ###### Questions

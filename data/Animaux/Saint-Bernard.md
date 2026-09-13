@@ -15,8 +15,9 @@ indice_6 :
   - Secouriste en montagne
 questions:
  - Chien d'une race dont s'occupe la fondation Barry depuis 2005. Imposant, je mesure entre 70 et 90cm pour le mâle. Doté d'un poil court ou long à fond blanc, parsemé de parties pouvant être rouge, brun ou jaune.
+culture_g_score: 64
+culture_g_justification: "Race canine très reconnaissable, liée aux Alpes, au secourisme et à plusieurs références populaires."
 ---
-
 ![Image de Saint-Bernard](https://upload.wikimedia.org/wikipedia/commons/2/2f/Bourg-Saint-Bernard_-_%C3%89gliseSaint-Bernard_-Exterieur.jpg)
 
 ###### Questions

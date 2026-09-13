@@ -18,9 +18,9 @@ indice_5:
   - commerce de cuivre
 indice_6:
   - Kenneth Kaunda
+culture_g_score: 52
+culture_g_justification: "Capitale d’un pays d’Afrique australe régulièrement associée à l’indépendance et à la géographie régionale, avec peu d’angles autonomes."
 ---
-
-
 ![Image de Lusaka](https://upload.wikimedia.org/wikipedia/commons/1/15/Downtown_Lusaka.JPG)
 
 ![[Carte_Lusaka.png]]

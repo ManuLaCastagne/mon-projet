@@ -20,8 +20,9 @@ indice_6 :
   - partage de la Pologne
 questions:
  - Quel pacte signé en 1939, à Moscou, par Molotov et Ribbentrop, était accompagné d'un protocole secret prévoyant le partage de la Pologne?
+culture_g_score: 93
+culture_g_justification: "Accord décisif de 1939, régulièrement questionné pour ses signataires, ses clauses secrètes et son rôle dans le déclenchement de la guerre."
 ---
-
 ![Image de Pacte germano-soviétique](https://upload.wikimedia.org/wikipedia/commons/f/f3/Pacte_Ribbentrop-Molotov.svg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_6 :
   - succession par Alexandre Ier
 questions:
  - En 1801, empereur de Russie, fils de Catherine II, dont l'assassinat est accueilli par la joie..
+culture_g_score: 52
+culture_g_justification: "Tsar russe associé à un règne bref, à Catherine II et à son assassinat, avec une fréquence modérée dans les quiz historiques."
 ---
-
-
 ![Image de Paul Ier](https://upload.wikimedia.org/wikipedia/commons/f/f6/Portrait_of_Pope_Paul_III_with_Camauro_%28by_Titian%29_-_National_Museum_of_Capodimonte.jpg)
 
 ###### Questions

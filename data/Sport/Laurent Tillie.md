@@ -20,8 +20,9 @@ indice_6 :
   - AS Cannes
 questions:
  - Quel sélectionneur de l'équipe de France de volley-ball entre 2012 et 2021 était le prédécesseur de Andrea Giani qui avait son fils Kévin Tillie qui jouait dans son équipe ?
+culture_g_score: 44
+culture_g_justification: "Entraîneur important du volley français, mais sujet peu connu du grand public et limité à un domaine sportif étroit."
 ---
-
 ![Image de Laurent Tillie](https://upload.wikimedia.org/wikipedia/commons/8/8e/20140826_-_press_conference_-_FIVB_Volleyball_Men%27s_World_Championship_-_Laurent_Tillie_01.jpg)
 
 ###### Questions

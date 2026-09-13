@@ -18,8 +18,9 @@ indice_5 :
   - émissions parodiques
 indice_6 : 
   - Canal+
+culture_g_score: 93
+culture_g_justification: "Collectif humoristique incontournable de la télévision et du cinéma français, associé à de nombreuses œuvres, personnalités et références populaires."
 ---
-
 ![Image de Nuls](https://upload.wikimedia.org/wikipedia/commons/d/d8/Les_nuls_06-1999.jpg)
 
 ###### Questions

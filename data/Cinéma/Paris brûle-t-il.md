@@ -23,8 +23,9 @@ indice_6 :
   - Jean-Paul Belmondo et Alain Delon
 questions:
  - En 1964, quel roman de Lapierre et Collins, adapté par la suite au cinéma, qui retrace l'histoire de la libération de la capitale française en 1944 ?
+culture_g_score: 51
+culture_g_justification: "Fresque historique sur la Libération de Paris au casting prestigieux, mais le film lui-même reste moins fréquent que l’événement historique représenté."
 ---
-
 ![Image de Paris brûle-t-il](https://upload.wikimedia.org/wikipedia/commons/a/a2/Paris_br%C3%BBle-t-il_%3F_%2816264199690%29.jpg)
 
 ###### Questions

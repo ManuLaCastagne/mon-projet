@@ -18,8 +18,9 @@ indice_6 :
   - mythe grec
 questions:
  - Quel prince et géant aux 100 yeux était chargé de surveiller la génisse Mythologie/Io ?
+culture_g_score: 60
+culture_g_justification: "Gardien aux cent yeux associé à Io, Hermès et au paon, connaissance classique mais assez circonscrite."
 ---
-
 ![Image de Argus](https://upload.wikimedia.org/wikipedia/commons/a/ae/Periclimenes_imperator_%28Emperor_shrimp%29_on_Bohadschia_argus_%28Sea_cucumber%29.jpg)
 
 ###### Questions

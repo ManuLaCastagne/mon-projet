@@ -22,8 +22,9 @@ indice_6 :
   - Alain Delon
 questions:
  - Révélée à la télévision dans "Hauteclaire" avec Michel Piccoli, puis dans "Pouic-Pouic", je deviens une star grâce à Georges Lautner avec qui je tournerai 13 films.
+culture_g_score: 60
+culture_g_justification: "Actrice populaire du cinéma français, notamment grâce à Lautner, Delon et sa célèbre apparition dans Le Grand Blond, avec une fréquence moyenne."
 ---
-
 ![Image de Mireille Darc](https://upload.wikimedia.org/wikipedia/commons/6/6e/MireilleDarc-Italie-Reportage-1968.png)
 
 ###### Questions

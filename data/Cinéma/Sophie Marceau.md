@@ -20,10 +20,9 @@ indice_5:
   - L'Étudiante
 indice_6:
   - Braveheart
+culture_g_score: 76
+culture_g_justification: "Actrice française très populaire, liée à La Boum, au cinéma international et à James Bond, avec plusieurs angles immédiatement utiles."
 ---
-
-
-
 ![Image de Sophie Marceau](https://upload.wikimedia.org/wikipedia/commons/9/96/Sophie_Marceau_avp_2013_3.jpg)
 
 ###### Questions

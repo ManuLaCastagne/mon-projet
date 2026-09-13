@@ -22,8 +22,9 @@ indice_6 :
   - critique de la bourgeoisie
 questions:
  - Quel recueil de Barbey d'Aurevilly comprend les nouvelles "Le rideau cramoisi" et "Le bonheur dans le crime" ?
+culture_g_score: 48
+culture_g_justification: "Recueil de Barbey d’Aurevilly reconnu dans l’histoire littéraire, mais souvent confondu avec le film homonyme et peu fréquent comme réponse précise."
 ---
-
 ![Image de Les Diaboliques (roman)](https://upload.wikimedia.org/wikipedia/commons/5/55/Barbey_d%27Aurevilly-Les_diaboliques_%28Les_six_premi%C3%A8res%29-ed_Lemerre-1883.djvu)
 
 ###### Questions

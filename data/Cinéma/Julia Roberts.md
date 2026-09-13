@@ -22,8 +22,9 @@ indice_6 :
   - Hollywood
 questions:
  - En 2004, dans le film "Le Sourire de Mona Lisa", quelle actrice incarne une enseignante qui insuffle à ses étudiantes l'envie de se dépasser ?
+culture_g_score: 92
+culture_g_justification: "Julia Roberts est une star mondiale liée à de nombreux succès, à l'Oscar d'Erin Brockovich et à des questions récurrentes de cinéma populaire."
 ---
-
 ![Image de Julia Roberts](https://upload.wikimedia.org/wikipedia/commons/c/c9/Julia_Roberts_Cannes_2016_3.jpg)
 
 ###### Questions

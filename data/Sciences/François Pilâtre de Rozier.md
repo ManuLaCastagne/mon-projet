@@ -20,8 +20,9 @@ indice_6 :
   - Histoire de l'aviation
 questions:
  - En 1783, quel chimiste réalise avec le marquis d'Arlandes à bord d'une montgolfière le 1er vol humain dans l'atmosphère ?
+culture_g_score: 60
+culture_g_justification: "Pionnier emblématique des premiers vols en ballon, surtout utile pour les questions sur l’aérostation et les débuts de l’aviation."
 ---
-
 ![Image de François Pilâtre de Rozier](https://upload.wikimedia.org/wikipedia/commons/9/92/Early_flight_02562u.jpg)
 
 ###### Questions

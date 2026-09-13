@@ -20,8 +20,9 @@ indice_5 :
   - Oscar
 indice_6 : 
   - J. Edgar
+culture_g_score: 64
+culture_g_justification: "Actrice internationale surtout associée à Mulholland Drive, The Ring et The Impossible, avec une présence quiz régulière mais non centrale."
 ---
-
 ![Image de Naomi Watts](https://upload.wikimedia.org/wikipedia/commons/8/80/Naomi_Watts_at_the_2024_New_York_Film_Festival_3.jpg)
 
 ###### Questions

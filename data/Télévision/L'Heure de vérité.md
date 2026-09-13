@@ -20,9 +20,9 @@ indice_6 :
   - questions des journalistes
 questions:
  - Quelle émission politique a été présentée par François-Henri de Virieu, à partir de mai 1982?
+culture_g_score: 76
+culture_g_justification: "Émission politique majeure de la télévision française, utile pour relier médias, vie politique et personnalités de la Ve République."
 ---
-
-
 ![Image de L'Heure de vérité](https://upload.wikimedia.org/wikipedia/commons/e/e0/Recueil._%22L%27heure_de_la_verit%C3%A9%22_de_Ren%C3%A9-Jean_Ottoni%2C_mise_en_sc%C3%A8ne_Andr%C3%A9_Cellier_-_btv1b105225956_%2857_of_66%29.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Plante ornementale et séchée pour décoration
 questions:
  - Quelle plante, également appelée lunaire, doit son nom composé à ses fruits en forme de pièces, qui deviennent translucides une fois secs ?
+culture_g_score: 36
+culture_g_justification: "Ses siliques évoquant des pièces offrent un indice classique mais le sujet reste une plante ornementale secondaire."
 ---
-
 ![Image de Monnaie-du-pape](https://upload.wikimedia.org/wikipedia/commons/d/db/Lunaria_annua_4_RF.jpg)
 
 ###### Questions

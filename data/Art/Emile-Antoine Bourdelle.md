@@ -20,9 +20,9 @@ indice_5:
   - la sculpture Héraklès archer
 indice_6:
   - théâtre des Champs-Élysées
+culture_g_score: 64
+culture_g_justification: "Bourdelle compte dans la sculpture moderne et la transmission artistique, mais sa fréquence reste inférieure à celle de Rodin ou de Donatello."
 ---
-
-
 ![Image de Emile-Antoine Bourdelle](https://upload.wikimedia.org/wikipedia/commons/1/18/Antoine_Bourdelle_b_Meurisse_1925.jpg)
 
 ###### Questions

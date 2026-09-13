@@ -18,8 +18,9 @@ indice_5 :
   - Trois couleurs  Rouge
 indice_6 : 
   - Z
+culture_g_score: 88
+culture_g_justification: "Acteur majeur du cinéma français, associé à Lelouch, Truffaut, Vadim, Haneke et plusieurs récompenses prestigieuses."
 ---
-
 ![Image de Jean-Louis Trintignant](https://upload.wikimedia.org/wikipedia/commons/a/a2/Trintignant-Italie-1963.png)
 
 ###### Questions

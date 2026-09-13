@@ -18,9 +18,9 @@ indice_5:
   - Maillot rose
 indice_6:
   - Royaume-Uni
+culture_g_score: 40
+culture_g_justification: "Vainqueur ponctuel d’un Grand Tour, il demeure une référence récente et assez étroite du cyclisme britannique."
 ---
-
-
 ![Image de Tao Geoghegan Hart](https://upload.wikimedia.org/wikipedia/commons/e/eb/Tao_Geoghegan_Hart.jpg)
 
 ###### Questions

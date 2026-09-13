@@ -20,8 +20,9 @@ indice_5:
   - années 80
 indice_6:
   - Jamaicaine
+culture_g_score: 44
+culture_g_justification: "Chanteur populaire associé à quelques tubes des années 1980, mais d’un rendement limité au-delà de la variété française."
 ---
-
 ![Image de Philippe Lavil](https://upload.wikimedia.org/wikipedia/commons/e/e3/Philippe_LAVIL.jpg)
 
 ###### Questions

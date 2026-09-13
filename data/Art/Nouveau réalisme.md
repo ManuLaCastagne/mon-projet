@@ -23,8 +23,9 @@ indice_6 :
   - critique de la société de consommation
 questions:
  - Dans quel mouvement apparu en 1960 des artistes comme Arman ou Marcel Raïs souhaitaient capter le monde dans sa réalité sociologique ?
+culture_g_score: 64
+culture_g_justification: "Le Nouveau Réalisme est un mouvement classique de l'art contemporain français, utile pour relier Restany, Klein, Arman et Tinguely."
 ---
-
 ![Image de Nouveau réalisme](https://upload.wikimedia.org/wikipedia/commons/3/3d/Arman_by_Lothar_Wolleh.jpg)
 
 ###### Questions

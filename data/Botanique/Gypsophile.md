@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée en art floral notamment pour les bouquets et les arrangements floraux
 questions:
  - De quelle caryophylliacée voisine de l'œillet les fleuristes utilisent-ils pour garnir les bouquets ?
+culture_g_score: 44
+culture_g_justification: "Fleur très utilisée dans les bouquets et connue comme voile de mariée, mais à faible portée au-delà de la floriculture."
 ---
-
 ![Image de Gypsophile](https://upload.wikimedia.org/wikipedia/commons/b/b0/Gypsophila_muralis_kz12.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - actrice suisse
 questions:
  - En 1963, dans une scène devenu culte de "James Bond 007 contre Dr No"...
+culture_g_score: 72
+culture_g_justification: "Ursula Andress est une figure classique grâce à Honey Ryder dans James Bond, mais sa carrière offre moins d’angles incontournables."
 ---
-
 ![Image de Ursula Andress](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ursula_Andress_at_Somerset_House_in_2004.JPG)
 
 ###### Questions

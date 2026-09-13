@@ -20,8 +20,9 @@ indice_6 :
   - Maison Plantagenêt
 questions:
  - Au XVe siècle, quelle famille anglaise s'oppose à la maison d'York lors de la guerre des Deux-Roses?
+culture_g_score: 80
+culture_g_justification: "Lancastre est un repère essentiel pour la guerre des Deux-Roses, les Plantagenêt, la monarchie anglaise et l’accession des Tudor."
 ---
-
 ![Image de Lancastre](https://upload.wikimedia.org/wikipedia/commons/1/16/Lancastre_Grove%2C_Bramley_-_geograph.org.uk_-_4598795.jpg)
 
 ###### Questions

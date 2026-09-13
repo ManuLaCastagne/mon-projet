@@ -20,8 +20,9 @@ indice_6 :
   - Allemagne
 questions:
  - Ayant débuté en Formule 1 en 2007, on m'a surnommé Baby Schumi au début de ma carrière...
+culture_g_score: 77
+culture_g_justification: "Pilote allemand majeur de la Formule 1, régulièrement interrogé pour ses quatre titres consécutifs, sa précocité et sa victoire à Monza."
 ---
-
 ![Image de Sebastian Vettel](https://upload.wikimedia.org/wikipedia/commons/b/b3/Sebastian_Vettel_2017_Malaysia_2.jpg)
 
 ###### Questions

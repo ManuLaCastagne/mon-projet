@@ -21,8 +21,9 @@ indice_5 :
   - Pays de Galles
 indice_6 : 
   - Loch Ness
+culture_g_score: 80
+culture_g_justification: "Référence géographique et historique majeure du Royaume-Uni, régulièrement mobilisée dans les quiz sur les îles Britanniques, Londres et l’histoire européenne."
 ---
-
 ![[Carte_Grande-Bretagne.png]]
 
 ###### Questions

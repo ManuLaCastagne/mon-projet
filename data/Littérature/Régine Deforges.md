@@ -19,8 +19,9 @@ indice_5:
   - saga historique
 indice_6:
   - pseudonyme
+culture_g_score: 60
+culture_g_justification: "Autrice française connue pour La Bicyclette bleue, avec une présence réelle mais limitée dans les quiz."
 ---
-
 ![Image de Régine de Forges](https://upload.wikimedia.org/wikipedia/commons/b/b4/R%C3%A9gine_Deforges.JPG)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5 :
   - Allemand
 indice_6 : 
   - International Olympic Committee
+culture_g_score: 67
+culture_g_justification: "Président du CIO et ancien champion olympique, offrant des entrées institutionnelles et sportives, malgré une notoriété personnelle modérée."
 ---
-
-
 ![Image de Thomas Bach](https://upload.wikimedia.org/wikipedia/commons/e/e0/14-01-10-tbh-015.jpg)
 
 ###### Questions

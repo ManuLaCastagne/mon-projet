@@ -22,8 +22,9 @@ indice_6 :
   - Woodstock
 questions:
  - En 1967, quel groupe californien comprenant la chanteuse Grace Slick et représentatif du mouvement hippie fait un tube avec "Somebody to love"?
+culture_g_score: 68
+culture_g_justification: "Groupe emblématique du rock psychédélique, régulièrement associé à Woodstock, White Rabbit et la contre-culture américaine."
 ---
-
 ![Image de Jefferson Airplane](https://upload.wikimedia.org/wikipedia/commons/f/fa/Jefferson_Airplane_photo_1967.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Intrigue politique
 questions:
  - Dès 2016, dans quelle série Kad Merad incarne-t-il un homme politique appelé Philippe Rickwaert?
+culture_g_score: 64
+culture_g_justification: "Série politique française reconnue, utile pour les questions sur Canal+, la fiction politique et Kad Merad, sans être un classique universel."
 ---
-
 ![Image de Baron noir](https://upload.wikimedia.org/wikipedia/commons/9/99/BARON_NOIR_serie.png)
 
 ###### Questions

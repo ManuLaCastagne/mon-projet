@@ -20,9 +20,9 @@ indice_6 :
   - Bretelles
 questions:
  - Quelle aile, utilisée en vol libre, est composée d'une structure métallique servant d'ossature à une voile?
+culture_g_score: 48
+culture_g_justification: "Sport aérien reconnaissable et associé à l'histoire de l'aviation, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Deltaplane](https://upload.wikimedia.org/wikipedia/commons/5/5c/Lavezzari_hang_glider.jpg)
 
 ###### Questions

@@ -22,10 +22,9 @@ indice_6 :
   - sonorités traditionnelles et modernes
 questions:
  - Dans les années 70, quel musicien et chanteur a fait revivre la culture bretonne en jouant d'une harpe...
+culture_g_score: 52
+culture_g_justification: "Alan Stivell est un représentant notable du renouveau breton et celtique, mais demeure une référence de quiz plutôt spécialisée."
 ---
-
-
-
 ![Image de Alan Stivell](https://upload.wikimedia.org/wikipedia/commons/2/26/Harpe_Celtique_Telenn_Genta%C3%B1_-_Alan_Stivell_-_01.jpg)
 
 ###### Questions

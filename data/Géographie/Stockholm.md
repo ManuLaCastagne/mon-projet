@@ -22,8 +22,9 @@ indice_5 :
   - ABBA
 indice_6 : 
   - Scandinavie
+culture_g_score: 88
+culture_g_justification: "Capitale très connue, associée aux prix Nobel, aux Jeux olympiques, à la Suède et à de nombreux repères culturels."
 ---
-
 ![Image de Stockholm](https://upload.wikimedia.org/wikipedia/commons/9/99/Stockholm_August_2020_-_Kastellet%2C_Vasa_Museum%2C_and_Nordic_Museum.jpg)
 
 ![[Carte_Stockholm.png]]

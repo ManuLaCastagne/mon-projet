@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - A quel écrivain doit-on la pièce "La Ville dont le Prince est un Enfant" ?
  - En 1924, quel écrivain déclare   "Suis le vieux conseil des Grecs. "Sois prudent dans le triomphe" ?
+culture_g_score: 47
+culture_g_justification: "Écrivain et dramaturge reconnu de la littérature française, mais ses œuvres sont aujourd'hui peu présentes dans les quiz généralistes."
 ---
-
 ![Image de Henry de Montherlant](https://upload.wikimedia.org/wikipedia/commons/2/20/Henry_de_Montherlant_-_photo_Henri_Manuel.jpg)
 
 ###### Questions

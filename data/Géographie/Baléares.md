@@ -25,8 +25,9 @@ indice_6 :
   - Méditerranée
 questions:
  - Sur le drapeau de quel archipel espagnol figure un château blanc à 5 tours sur fond jaune ?
+culture_g_score: 64
+culture_g_justification: "Archipel méditerranéen très connu pour Majorque, Ibiza, le tourisme et l’histoire espagnole, sans être un incontournable absolu."
 ---
-
 ![Image de Baléares](https://upload.wikimedia.org/wikipedia/commons/c/c7/Balearic_Islands_map-de.svg)
 
 ![[Carte_Baléares.png]]

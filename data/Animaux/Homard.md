@@ -15,9 +15,9 @@ indice_6 :
   - Luxe culinaire
 questions:
  - Animal de la famille des néphropidés représenté par seulement 3 espèces, je vis en solitaire, dissimulé dans des crevasses ou dans mon terrier et ne sors que la nuit pour chasser.
+culture_g_score: 64
+culture_g_justification: "Crustacé très connu, utile pour des questions de biologie, de gastronomie et d'histoire naturelle, sans être un marronnier majeur."
 ---
-
-
 ![Image de Homard](https://upload.wikimedia.org/wikipedia/commons/f/f1/Homard_-_Lobster_-_Kreeft_v2.svg)
 
 ###### Questions

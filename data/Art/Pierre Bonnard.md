@@ -23,8 +23,9 @@ indice_6 :
   - musée d'Orsay
 questions:
  - Quel peintre français, né en 1867, surnommé par ses amis "le nabi  "très japonard", est l'un des coloristes  post-impressionnistes  les plus subtiles ?
+culture_g_score: 60
+culture_g_justification: "Peintre important des Nabis et de la couleur moderne, Bonnard apparaît régulièrement mais demeure moins incontournable que les grands maîtres canoniques."
 ---
-
 ![Image de Pierre Bonnard](https://upload.wikimedia.org/wikipedia/commons/2/27/Bemberg_Fondation_Toulouse_-_Les_p%C3%AAcheurs_1907_-_Pierre_Bonnard_45x55_Inv.2011.jpg)
 
 ###### Questions

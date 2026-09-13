@@ -21,8 +21,9 @@ indice_5:
   - Uetliberg
 indice_6:
   - ETHZ
+culture_g_score: 80
+culture_g_justification: "Grande ville suisse rentable pour la finance, la géographie alpine, l’histoire économique et les institutions internationales."
 ---
-
 ![Image de Zurich](https://upload.wikimedia.org/wikipedia/commons/f/f7/Z%C3%BCrich_view_Quaibr%C3%BCcke_20200702.jpg)
 
 ![[Carte_Zurich.png]]

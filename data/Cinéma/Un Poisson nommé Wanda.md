@@ -23,8 +23,9 @@ indice_6:
   - vol de diamants
 questions:
   - Accidentellement l'un après l'autre, dans l'une de mes scènes un avocat anglais un peu guindé  fait un strip-tease en parlant russe. Film avec Jamie Lee Curtis...
+culture_g_score: 80
+culture_g_justification: "Comédie très connue reliant John Cleese, les Monty Python, Kevin Kline, les Oscars et plusieurs scènes cultes."
 ---
-
 ![Image de Un Poisson nommé Wanda](https://upload.wikimedia.org/wikipedia/commons/2/26/New_Port_Aquarium_-_Cincinnati_%283041794441%29.jpg)
 
 ###### Questions

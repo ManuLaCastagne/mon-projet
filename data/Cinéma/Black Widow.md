@@ -20,9 +20,9 @@ indice_5 :
   - Avengers
 indice_6 : 
   - film de 2021
+culture_g_score: 76
+culture_g_justification: "Film Marvel utile pour Natasha Romanoff, Scarlett Johansson, le MCU, les sorties simultanées et les controverses industrielles."
 ---
-
-
 ![Image de Black Widow](https://upload.wikimedia.org/wikipedia/commons/3/3f/Supanova_Day_-_Black_Widow_cosplay.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - compagnon de Placid
 indice_6:
   - humour belge
+culture_g_score: 40
+culture_g_justification: "Personnage secondaire de la bande dessinée Placid et Muzo, reconnaissable par les amateurs mais peu rentable pour un généraliste."
 ---
-
-
 ![Image de Muzo](https://upload.wikimedia.org/wikipedia/commons/b/be/Muzo%2C_Colombia_%28aerial_view%29.jpg)
 
 ###### Questions

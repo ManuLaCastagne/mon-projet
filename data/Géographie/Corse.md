@@ -24,8 +24,9 @@ indice_6 :
   - Bastia
 questions:
  - Dans quelle île de Méditerranée la farine de châtaigne...
+culture_g_score: 92
+culture_g_justification: "Île française incontournable, liée à Napoléon, à la Méditerranée, à l’histoire politique, aux paysages et à une forte identité culturelle."
 ---
-
 ![Image de Corse](https://upload.wikimedia.org/wikipedia/commons/6/63/Corsica-geographic_map-fr.svg)
 
 ![[Carte_Corse.png]]

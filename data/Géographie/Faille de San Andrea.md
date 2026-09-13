@@ -21,8 +21,9 @@ indice_6 :
   - longue de 1 300 km
 questions:
  - Quelle longue fracture de l'écorce terrestre, allant du golfe de Californie au nord de San Francisco, provoque d'importances secousses ?
+culture_g_score: 84
+culture_g_justification: "Faille mondialement célèbre, utile pour les séismes, la tectonique des plaques, la Californie et l’histoire de San Francisco."
 ---
-
 ![Image de Faille de San Andrea](https://upload.wikimedia.org/wikipedia/commons/e/ef/San_Andreas_Fault_Aerial_View.gif)
 
 ###### Questions

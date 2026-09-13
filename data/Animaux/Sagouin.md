@@ -13,8 +13,9 @@ indice_5 :
   - Saïmiri ou Singe écureuil
 indice_6 : 
   - Mascotte d'émissions de télévision
+culture_g_score: 20
+culture_g_justification: "Nom régional ou ancien de petits singes sud-américains, très peu rentable face aux termes ouistiti et capucin."
 ---
-
 ![Image de Sagouin](https://upload.wikimedia.org/wikipedia/commons/f/f3/Twee_gewone_penseelapen_%28Callithrix_jacchus%29_1._2._1._Mammonelus._2._Caitaia._1._Sagouin._2._ouistiti_%28titel_op_object%29%2C_RP-T-BR-2017-1-2-64.jpg)
 
 ###### Questions

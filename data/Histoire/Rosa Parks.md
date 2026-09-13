@@ -20,8 +20,9 @@ indice_6 :
   - Mère du mouvement des droits civiques
 questions:
  - En 1955, quelle couturière noire refuse de céder sa place dans un bus ?
+culture_g_score: 97
+culture_g_justification: "Icône mondiale des droits civiques, immédiatement liée à la ségrégation, au boycott de Montgomery et à Martin Luther King."
 ---
-
 ![Image de Rosa Parks](https://upload.wikimedia.org/wikipedia/commons/e/ea/Rosa_Parks_being_fingerprinted_by_Deputy_Sheriff_D.H._Lackey_after_being_arrested_on_February_22%2C_1956%2C_during_the_Montgomery_bus_boycott.jpg)
 
 ###### Questions

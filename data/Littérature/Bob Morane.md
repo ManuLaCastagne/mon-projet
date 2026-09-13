@@ -22,8 +22,9 @@ indice_6 :
   - L’Ombre Jaune
 questions:
  - Personnage créé en 1953, je suis le héros de plus de 200 romans d'aventure et de 80 BD en tant qu'ancien pilote de l'Armée de l'Air.
+culture_g_score: 60
+culture_g_justification: "Héros populaire de la littérature d’aventure et lié à Indochine, mais d’une portée plus générationnelle que véritablement universelle."
 ---
-
 ![Image de Bob Morane](https://upload.wikimedia.org/wikipedia/commons/6/68/Bob_Morane_%28bandes_dessin%C3%A9es%29.jpg)
 
 ###### Questions

@@ -24,7 +24,8 @@ indice_6 :
   - Dells du Wisconsin
 questions:
  - On cherche cet Etat du nord des Etats-Unis qui abrite les villes de Milwaukee, Green Bay et Madison..
-culture_g_score: 60
+culture_g_score: 51
+culture_g_justification: "État américain identifiable par le Midwest, les Grands Lacs, Milwaukee et l’industrie, avec une fréquence quiz limitée."
 ---
 ![Image de Wisconsin](https://upload.wikimedia.org/wikipedia/commons/e/ee/Seal_of_Wisconsin_%281851%E2%80%931881%29.png)
 

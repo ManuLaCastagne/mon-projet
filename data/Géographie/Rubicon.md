@@ -24,8 +24,9 @@ indice_6 :
   - expression franchir le Rubicon
 questions:
  - Quel cours d'eau séparant l'Italie de la Gaule cisalpine a-t-il franchi avec son armée sans l'aval du Sénat ?
+culture_g_score: 77
+culture_g_justification: "Le Rubicon est un repère historique classique, directement lié à César, à la guerre civile romaine et à l’expression « franchir le Rubicon »."
 ---
-
 ![Image de Rubicon](https://upload.wikimedia.org/wikipedia/commons/0/05/Rubicon_%28rivi%C3%A8re%29.png)
 
 ![[Carte_Rubicon.png]]

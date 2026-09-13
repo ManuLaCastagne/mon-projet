@@ -22,10 +22,9 @@ indice_6 :
   - paroles en français
 questions:
  - Chanson sortie en 1986 sur le même single que le titre "Destin fragile", je suis rapidement en tête des ventes en France et à l'étranger.  Commençant par les mots "Au-dessus des vieux volcans", j'évoque dans mon refrain...
+culture_g_score: 73
+culture_g_justification: "Tube français international emblématique des années 1980, régulièrement interrogé à travers Desireless, la synthpop et le Top 50."
 ---
-
-
-
 ![Image de Voyage voyage](https://upload.wikimedia.org/wikipedia/commons/8/89/Thomas_Cole_-_The_Voyage_of_Life_Childhood%2C_1842_%28National_Gallery_of_Art%29.jpg)
 
 ###### Questions

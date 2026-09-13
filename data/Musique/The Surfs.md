@@ -20,8 +20,9 @@ indice_5:
   - Si j'avais un marteau
 indice_6:
   - Influencés par le rock'n'roll
+culture_g_score: 40
+culture_g_justification: "Groupe francophone historique aux origines malgaches, intéressant pour le yé-yé mais peu fréquent dans les quiz actuels."
 ---
-
 ![Image de The Surfs](https://upload.wikimedia.org/wikipedia/commons/0/09/Les_Surfs_%281964%29.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5 :
   - Manège de prières
 indice_6 : 
   - Festival de danse Tshechu
+culture_g_score: 52
+culture_g_justification: "Capitale du Bhoutan souvent utilisée dans les questions de capitales atypiques, d'Himalaya et de particularités urbaines."
 ---
-
 ![Image de Thimphou](https://upload.wikimedia.org/wikipedia/commons/4/47/Thimphu-12-vom_Buddha_Dordenma-2015-gje.jpg)
 
 ![[Carte_Thimphou.png]]

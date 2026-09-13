@@ -22,8 +22,9 @@ indice_6 :
   - art de la séduction
 questions:
  - En 1995, quel films de Bertrand Tavernier, avec Marie Gillain, relate un fait divers tragique ?
+culture_g_score: 44
+culture_g_justification: "Film français récompensé à Berlin et lié à Tavernier et à un fait divers, mais rarement interrogé hors des quiz spécialisés cinéma."
 ---
-
 ![Image de L'Appât](https://upload.wikimedia.org/wikipedia/commons/e/eb/Al_Khanjar%2C_Bait_al_Zubair_Museum%2C_Oman.jpg)
 
 ###### Questions

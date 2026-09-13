@@ -18,9 +18,9 @@ indice_6 :
   - épouse d'Héraclès
 questions:
  - En [[mythologie grecque]], en envoyant une tunique empoisonnée à son mari Héraclès qui souffrit atrocement lorsqu'il la revêtit, quelle épouse du héros provoqua sa mort ?
+culture_g_score: 60
+culture_g_justification: "Personnage surtout retenu pour la mort d'Héraclès, avec une présence limitée à cet épisode tragique."
 ---
-
-
 ![Image de Déjanire](https://upload.wikimedia.org/wikipedia/commons/4/44/Paris_1er_-_Jardin_des_Tuileries_-_Le_Centaure_Nessus_enlevant_D%C3%A9janire_%28Laurent_Marqueste%29_01.jpg)
 
 ###### Questions

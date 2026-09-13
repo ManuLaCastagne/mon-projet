@@ -22,10 +22,9 @@ indice_6:
   - début du XXe siècle
 questions:
   - En 1922, dans quelle nouvelle de Stefan Zweig une femme révèle-t-elle à un homme via une lettre la passion qu'elle lui a toujours vouée?
+culture_g_score: 64
+culture_g_justification: "Nouvelle très connue de Zweig, régulièrement associée à l’amour obsessionnel, à la forme épistolaire et à ses adaptations."
 ---
-
-
-
 ![Image de Lettre d'une inconnue](https://upload.wikimedia.org/wikipedia/commons/e/e6/Letter_from_an_Unknown_Woman_%281948_film_poster%29.jpg)
 
 ###### Questions

@@ -13,9 +13,9 @@ indice_5:
   - Demoiselle de rivière
 indice_6:
   - Symbole de la légèreté et de l'élégance
+culture_g_score: 28
+culture_g_justification: "La demoiselle est un insecte identifiable mais spécialisé, dont les apparitions en quiz restent peu fréquentes."
 ---
-
-
 ![Image de Demoiselle](https://upload.wikimedia.org/wikipedia/commons/0/07/Beautiful_Demoiselle_Calopteryx_virgo.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - chanson française
 questions:
  - Mes paroles évoquent le double attachement de la chanteuse pour son pays d'origine et pour la ville où elle s'est installée. Chanson dans laquelle J.Baker dit  "Ce qui m'ensorcelle, c'est Paris, Paris tout entier".
+culture_g_score: 77
+culture_g_justification: "Chanson emblématique de Joséphine Baker, régulièrement associée à Paris, à la chanteuse et à l'histoire culturelle du XXe siècle."
 ---
-
 ![Image de J'ai deux amours](https://upload.wikimedia.org/wikipedia/commons/a/a7/Dear_Mayme%2C_I_Love_You_2.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - Dimension Miroir
 indice_6 : 
   - Multivers
+culture_g_score: 76
+culture_g_justification: "Blockbuster Marvel fréquemment interrogé à travers Benedict Cumberbatch, le personnage, la Phase 3 et les dimensions mystiques."
 ---
-
 ![Image de Doctor Strange](https://upload.wikimedia.org/wikipedia/commons/9/90/Dr._Strange_%2830175130414%29.jpg)
 
 ###### Questions

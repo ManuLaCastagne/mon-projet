@@ -20,8 +20,9 @@ indice_6 :
   - Stoïcisme
 questions:
  - En 1925, quel philosophe français déclare   "Le pessimisme est d'humeur, l'optimisme est de volonté" ?
+culture_g_score: 63
+culture_g_justification: "Philosophe français notable, exploitable en littérature, philosophie, pédagogie et histoire intellectuelle, mais rarement incontournable."
 ---
-
 ![Image de Alain (philosophe)](https://upload.wikimedia.org/wikipedia/commons/d/d7/%C3%89mile_Chartier_portrait.jpg)
 
 ###### Questions

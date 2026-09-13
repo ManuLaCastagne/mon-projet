@@ -23,8 +23,9 @@ indice_6 :
   - serment solennel
 questions:
  - Dans quelle toile de Jacques-Louis David, présentée au Salon de 1785 et inspirée d'une légende romaine, où le personnage central porte un manteau rouge ?
+culture_g_score: 88
+culture_g_justification: "Œuvre canonique de David et du néoclassicisme, régulièrement interrogée en lien avec Rome, la Révolution, le Louvre et l’histoire de l’art."
 ---
-
 ![Image de Le Serment des Horaces](https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg)
 
 ###### Questions

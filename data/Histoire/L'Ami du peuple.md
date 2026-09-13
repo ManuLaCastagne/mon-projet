@@ -20,8 +20,9 @@ indice_6 :
   - assassinat par Charlotte Corday
 questions:
  - Quelle feuille révolutionnaire publiée par Marat paraît de 1789 à 1793 ?
+culture_g_score: 64
+culture_g_justification: "L’Ami du peuple est un repère classique de la Révolution française, surtout lié à Marat, au journalisme politique et au radicalisme révolutionnaire."
 ---
-
 ![Image de L'Ami du peuple](https://upload.wikimedia.org/wikipedia/commons/5/5f/L%27Ami_du_peuple_%E2%80%94_Marat.png)
 
 ###### Questions

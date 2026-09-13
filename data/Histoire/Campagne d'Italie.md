@@ -18,8 +18,9 @@ indice_5 :
   - armée française
 indice_6 : 
   - victoire stratégique
+culture_g_score: 72
+culture_g_justification: "Expression couvrant plusieurs campagnes décisives en Italie, notamment celles de Napoléon et des Alliés pendant la Seconde Guerre mondiale."
 ---
-
 ![Image de Campagne d'Italie](https://upload.wikimedia.org/wikipedia/commons/4/47/M%C3%A9daille_de_la_campagne_d%27italie_1859_AVERS.jpg)
 
 ###### Questions

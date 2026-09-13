@@ -20,8 +20,9 @@ indice_6 :
   - mort en 1979 à Paris
 questions:
  - Homme célèbre disparu en 1979, je suis né en 1936 le jour de la fête des saints Innocent, décoré de la croix de la valeur militaire.
+culture_g_score: 64
+culture_g_justification: "Criminel français très médiatisé, retenu pour ses braquages, ses évasions et son surnom, mais à la portée culturelle relativement limitée."
 ---
-
 ![Image de Jacques Mesrine](https://upload.wikimedia.org/wikipedia/commons/2/2a/Warrior%27s_soul_%28programmaboekje%29.pdf)
 
 ###### Questions

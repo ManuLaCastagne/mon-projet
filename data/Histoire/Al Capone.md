@@ -20,8 +20,9 @@ indice_6 :
   - Alcatraz
 questions:
  - Quel gangster américain ayant dû sa fortune à la prohibition des boissons alcoolisées dans les années 20 était surnommé le balafré ?
+culture_g_score: 76
+culture_g_justification: "Icône de la prohibition, du crime organisé et du massacre de la Saint-Valentin, très rentable dans les questions sur les États-Unis des années 1920."
 ---
-
 ![Image de Al Capone](https://upload.wikimedia.org/wikipedia/commons/f/f3/Al_Capone_in_1930.jpg)
 
 ###### Questions

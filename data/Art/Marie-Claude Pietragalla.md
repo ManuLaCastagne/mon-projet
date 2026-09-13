@@ -23,8 +23,9 @@ indice_6 :
   - La Femme qui danse
 questions:
  - Quelle danseuse d'origine corse nommée étoile à l'Opéra de Paris en 1990 a dirigé, 5 ans, le Ballet national de Marseille ?
+culture_g_score: 51
+culture_g_justification: "Figure française connue de la danse et de la télévision, mais dont les apparitions en quiz généralistes restent limitées."
 ---
-
 ![Image de Marie-Claude Pietragalla](https://upload.wikimedia.org/wikipedia/commons/c/c5/Marie-Claude-Pietragalla_2015.jpg)
 
 ###### Questions

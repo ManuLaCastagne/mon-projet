@@ -13,8 +13,9 @@ indice_5 :
   - Pied-de-cheval
 indice_6 : 
   - Symbole de luxe et raffinement
+culture_g_score: 68
+culture_g_justification: "Mollusque très connu permettant des questions sur les perles, l'alimentation, l'écologie marine et la reproduction."
 ---
-
 ![Image de Huître](https://upload.wikimedia.org/wikipedia/commons/0/09/Pinctada_radiata.jpg)
 
 ###### Questions

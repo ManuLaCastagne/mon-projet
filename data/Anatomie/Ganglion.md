@@ -18,8 +18,9 @@ indice_5 :
   - Drainage lymphatique
 indice_6 : 
   - Adénopathie
+culture_g_score: 63
+culture_g_justification: "Terme pouvant désigner des structures nerveuses ou lymphatiques, ce qui lui donne plusieurs angles classiques d'anatomie et de médecine."
 ---
-
 ![Image de Ganglion]()
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_5 :
   - Collaboration avec Jean-Paul Rappeneau
 indice_6 : 
   - Acteur et producteur
+culture_g_score: 97
+culture_g_justification: "Figure incontournable du cinéma français et international, liée à de nombreux films, réalisateurs, récompenses et épisodes biographiques."
 ---
-
 ![Image de Gérard Depardieu](https://upload.wikimedia.org/wikipedia/commons/4/4c/Star_of_G%C3%A9rard_Depardieu_on_walk_of_Actor%27s_Fame_of_Vyborg.jpg)
 
 ###### Questions

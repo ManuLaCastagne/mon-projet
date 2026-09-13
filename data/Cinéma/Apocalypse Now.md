@@ -18,8 +18,9 @@ indice_5 :
   - Guerre du Vietnam
 indice_6 : 
   - Colonel Kurtz
+culture_g_score: 100
+culture_g_justification: "Chef-d’œuvre incontournable sur la guerre du Vietnam, régulièrement interrogé par Coppola, Conrad, ses acteurs, sa musique et ses répliques."
 ---
-
 ![Image de Apocalypse Now](https://upload.wikimedia.org/wikipedia/commons/9/9b/Flickr_-_law_keven_-_Apocalypse_Now%5E.......minus_the_Helicopters...jpg)
 
 ###### Questions

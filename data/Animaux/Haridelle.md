@@ -15,8 +15,9 @@ indice_6 :
   - Montures historiques
 questions:
  - Par quel mot féminin, probablement composé du même radical que celui du mot haras, désigne-t-on un cheval maigre et efflanqué ?
+culture_g_score: 20
+culture_g_justification: "Mot ancien désignant un cheval décrépit, susceptible de rares questions de vocabulaire mais peu rentable à apprendre."
 ---
-
 ![Image de Haridelle](https://upload.wikimedia.org/wikipedia/commons/a/a9/LL-Q150_%28fra%29-LoquaxFR-haridelle.wav)
 
 ###### Questions

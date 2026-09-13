@@ -15,8 +15,9 @@ indice_6:
   - Utilisée en cuisine comme aromate
 questions:
   - Quelle plante herbacée à petites fleurs pourpres réunies en une tête globuleuse, est également appelée sanguisorbe?
+culture_g_score: 27
+culture_g_justification: "Herbe comestible et médicinale peu connue du grand public, avec un potentiel de question très limité."
 ---
-
 ![Image de Pimprenelle](https://upload.wikimedia.org/wikipedia/commons/1/1f/Sanguisorba_minor_kz22.jpg)
 
 ###### Questions

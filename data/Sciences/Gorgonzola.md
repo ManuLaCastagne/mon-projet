@@ -20,9 +20,9 @@ indice_6 :
   - Aspergillus
 questions:
  - Quel fromage italien, portant le nom d'une commune de Lombardie, doit ses veinures bleutées à l'action du champignon Penicillium glaucum ?
+culture_g_score: 56
+culture_g_justification: "Fromage italien très reconnaissable, mais principalement exploitable dans quelques questions de gastronomie et de géographie."
 ---
-
-
 ![Image de Gorgonzola](https://upload.wikimedia.org/wikipedia/commons/d/de/Gorgonzola_1.jpg)
 
 ###### Questions

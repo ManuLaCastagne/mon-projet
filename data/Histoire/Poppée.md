@@ -20,8 +20,9 @@ indice_6 :
   - amante ambitieuse
 questions:
  - Quelle femme de Néron avait pour habitude de se baigner dans du lait d'ânesse ?
+culture_g_score: 43
+culture_g_justification: "Épouse de Néron connue surtout par quelques épisodes de l’histoire impériale romaine, donc assez spécialisée."
 ---
-
 ![Image de Poppée](https://upload.wikimedia.org/wikipedia/commons/6/6a/Poppaea_Olimpia.jpg)
 
 ###### Questions

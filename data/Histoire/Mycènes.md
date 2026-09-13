@@ -20,9 +20,9 @@ indice_6 :
   - mentionnée dans les récits homériques
 questions:
  - En 1876, quel site du Péloponnèse, célèbre pour sa porte des Lionnes, est fouillé par Heinrich Schliemann?
+culture_g_score: 80
+culture_g_justification: "Site majeur de la Grèce mycénienne, relié à l’archéologie, à l’âge du bronze et aux récits homériques."
 ---
-
-
 ![Image de Mycènes](https://upload.wikimedia.org/wikipedia/commons/9/9b/La_Dame_de_Myc%C3%A8nes%2C_fresco.jpg)
 
 ###### Questions

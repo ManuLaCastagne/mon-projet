@@ -22,8 +22,9 @@ indice_6 :
   - Festival de Cannes
 questions:
  - Quelle actrice, Cinéma/César du meilleur jeune espoir féminin pour son rôle dans "Tout ce qui brille", retrouve-t-on également dans les films "La Source des femmes" et "Mains armées"?
+culture_g_score: 65
+culture_g_justification: "Actrice française très connue grâce à plusieurs succès et au César, mais ses questions restent surtout centrées sur le cinéma contemporain."
 ---
-
 ![Image de Leïla Bekhti](https://upload.wikimedia.org/wikipedia/commons/b/bd/Le%C3%AFla_Bekhti_Cannes_2018.jpg)
 
 ###### Questions

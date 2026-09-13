@@ -22,9 +22,9 @@ indice_5 :
   - Université du Zimbabwe
 indice_6 : 
   - Mbare Musika Market
+culture_g_score: 60
+culture_g_justification: "Capitale africaine classique, principalement mobilisée pour l’histoire du Zimbabwe, la décolonisation et la géographie politique."
 ---
-
-
 ![Image de Harare](https://upload.wikimedia.org/wikipedia/commons/3/3b/Harare_montage.png)
 
 ![[Carte_Harare.png]]

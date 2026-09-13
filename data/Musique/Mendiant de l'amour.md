@@ -22,8 +22,9 @@ indice_6 :
   - Prénom Salvatore
 questions:
  - Chanson sortie en 1980 sur un 45-tours dont la face B avait pour titre "Juif espagnol", ma musique est écrite par Claude Morgan et mes paroles en partie par Didier Barbelivien. Abordant les thèmes de la fraternité et du partage chers à mon interprète, je reste célèbre...
+culture_g_score: 24
+culture_g_justification: "Cette chanson précise d’Enrico Macias reste une référence musicale très ponctuelle, avec peu d’angles de questions indépendants."
 ---
-
 ![Image de Mendiant de l'amour](https://upload.wikimedia.org/wikipedia/commons/5/51/L%27Amour_mendiant%2C_J_891%281%29.jpg)
 
 ###### Questions

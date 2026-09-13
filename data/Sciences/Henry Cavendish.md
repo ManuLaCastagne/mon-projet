@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Quel physicien et chimiste britannique né à Nice en 1731 a identifié l'hydrogène ?
  - En 1783, quel physicien et chimiste britannique fait la 1re analyse précise de l'air?
+culture_g_score: 64
+culture_g_justification: "Cavendish est un scientifique majeur de l’histoire de la chimie et de la physique, quoique relativement peu transversal pour le grand public."
 ---
-
 ![Image de Henry Cavendish](https://upload.wikimedia.org/wikipedia/commons/6/64/Cavendish_Henry_signature.jpg)
 
 ###### Questions

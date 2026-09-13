@@ -18,8 +18,9 @@ indice_5:
   - Alexandrie
 indice_6:
   - Louxor
+culture_g_score: 100
+culture_g_justification: "Pays incontournable des quiz grâce à l’Égypte antique, au Nil, aux pyramides, à la géopolitique et à l’histoire méditerranéenne."
 ---
-
 ![[Carte_Égypte.png]]
 
 ###### Questions

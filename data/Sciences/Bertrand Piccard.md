@@ -18,11 +18,9 @@ indice_5:
   - Explorateur en énergie renouvelable
 indice_6:
   - Psychiatre et environnementaliste
+culture_g_score: 52
+culture_g_justification: "Bertrand Piccard est associé à deux exploits aéronautiques marquants, mais reste une personnalité relativement spécialisée."
 ---
-
-
-
-
 ![Image de Bertrand Piccard](https://upload.wikimedia.org/wikipedia/commons/c/ce/Bertrand_Piccard_2015.jpg)
 
 ###### Questions

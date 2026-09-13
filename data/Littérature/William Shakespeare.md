@@ -27,13 +27,14 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Dramaturge mondialement incontournable, interrogé sur ses pièces, ses personnages, la langue anglaise, l’époque élisabéthaine et son influence culturelle."
 ---
+
 ![Image de William Shakespeare](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)
 
 ###### Questions
 
 Quel auteur, né en 1564 à [[Stratford-upon-Avon]], est souvent considéré comme le plus grand dramaturge de la langue anglaise ?
 
-A la fin du XVIe siècle, quel poète dramatique anglais signe notamment les pièces "[[La Mégère apprivoisée]]" et "[[Beaucoup de bruit pour rien]]" ?
+A la fin du XVIe siècle, quel poète dramatique anglais signe notamment les pièces "[[La Mégère apprivoisée]]" et "[[Beaucoup de bruit pour rien]]" ? <!-- score: 6 -->
 
 Qui est l'auteur de la célèbre question philosophique "Être ou ne pas être", tirée de la pièce [[Hamlet]] publiée pour la première fois en 1603 ?
 

@@ -18,8 +18,9 @@ indice_5 :
   - Johnny Depp
 indice_6 : 
   - Train
+culture_g_score: 84
+culture_g_justification: "Enquête emblématique issue d’Agatha Christie, exploitable par Poirot, ses adaptations, son casting prestigieux et le roman policier."
 ---
-
 ![Image de Le Crime de l'Orient-Express]()
 
 ###### Questions

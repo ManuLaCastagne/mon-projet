@@ -22,8 +22,9 @@ indice_6 :
   - présence de Superdupont
 questions:
  - En 1984, quel personnage de vieille femme odieuse créée par Lelong, retrouve-t-on dans l'album "Rencontre du 3e âge" ?
+culture_g_score: 63
+culture_g_justification: "Magazine français majeur de la bande dessinée humoristique, relié à Gotlib, à de nombreux auteurs et à la satire."
 ---
-
 ![Image de Fluide glacial](https://upload.wikimedia.org/wikipedia/commons/7/7c/Fluideglacial_Quai_des_Bulles_2015.jpg)
 
 ###### Questions

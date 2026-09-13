@@ -20,8 +20,9 @@ indice_6 :
   - France
 questions:
  - A quel psychologue français doit-on la mise au point, avec Théodore Simon, d'une échelle métrique de l'intelligence qui porte leur nom?
+culture_g_score: 77
+culture_g_justification: "Son nom est directement associé aux premiers tests d’intelligence, ce qui en fait une référence fréquente en psychologie et sciences humaines."
 ---
-
 ![Image de Alfred Binet](https://upload.wikimedia.org/wikipedia/commons/4/4f/Alfred_Binet.jpg)
 
 ###### Questions

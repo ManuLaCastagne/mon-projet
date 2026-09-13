@@ -15,8 +15,9 @@ indice_6:
   - Utilisé pour ses propriétés médicinales et en parfumerie
 questions:
   - Quelle plante a un nom issu du latin signifiant "calmer" ?
+culture_g_score: 27
+culture_g_justification: "Plante ornementale ancienne et parfumée, mais trop marginale pour constituer une priorité d'apprentissage."
 ---
-
 ![Image de Réséda](https://upload.wikimedia.org/wikipedia/commons/9/90/Reseda_lutea_RF.jpg)
 
 ###### Questions

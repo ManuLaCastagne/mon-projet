@@ -20,8 +20,9 @@ indice_6 :
   - généalogie
 questions:
  - Quels documents intéressant les généalogistes rapportent les actes de baptême, de mariage et de sépulture répertoriés avant 1793?
+culture_g_score: 56
+culture_g_justification: "Notion utile pour l’histoire administrative, la généalogie et l’évolution de l’état civil dans plusieurs pays."
 ---
-
 ![Image de Registres paroissiaux](https://upload.wikimedia.org/wikipedia/commons/2/28/Dissertation_sur_les_droits_de_tenir_les_registres_civils_dans_les_paroisses_canoniques_de_Montr%C3%A9al_%28microforme%29_%28IA_cihm_03922%29.pdf)
 
 ###### Questions

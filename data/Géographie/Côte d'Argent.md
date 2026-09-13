@@ -26,8 +26,9 @@ questions:
  - Quelle côte, comprise entre l'estuaire de la Gironde et l'Géographie/Espagne, correspond au littoral des Landes ?
 
 
+culture_g_score: 60
+culture_g_justification: "Grande façade atlantique française liée aux Landes, au surf, aux plages et à la dune du Pilat, avec une portée surtout touristique."
 ---
-
 ![Image de Côte d'Argent](https://upload.wikimedia.org/wikipedia/commons/6/6e/Dunes_littorales_%C3%A0_Hourtin_Plage.jpg)
 
 ![[Carte_Côte d'Argent.png]]

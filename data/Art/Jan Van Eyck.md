@@ -21,9 +21,9 @@ indice_5 :
   - Huile sur bois
 indice_6 : 
   - Signé Als Ich Can
+culture_g_score: 87
+culture_g_justification: "Van Eyck est central pour les Primitifs flamands, la peinture à l’huile, le Retable de l’Agneau mystique et Les Époux Arnolfini."
 ---
-
-
 ![Image de Jan Van Eyck](https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg)
 
 ###### Questions

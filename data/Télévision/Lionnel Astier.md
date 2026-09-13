@@ -18,9 +18,9 @@ indice_5 :
   - Frères et sœurs dans le métier
 indice_6 : 
   - Acteur et scénariste français
+culture_g_score: 56
+culture_g_justification: "Acteur fortement associé à Léodagan dans Kaamelott, ce qui le rend utile dans les quiz sur cette série mais moins au-delà."
 ---
-
-
 ![Image de Lionnel Astier](https://upload.wikimedia.org/wikipedia/commons/7/78/Lionnel_Astier_2012.JPG)
 
 ###### Questions

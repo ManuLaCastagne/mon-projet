@@ -20,8 +20,9 @@ indice_6 :
   - comédie dramatique
 questions:
  - Série racontant la vie quotidienne des élèves de l'école "Top mode", je suis…
+culture_g_score: 44
+culture_g_justification: "Série française nostalgique ayant révélé quelques acteurs, mais peu fréquente et assez étroite dans ses angles de questionnement."
 ---
-
 ![Image de Classe mannequin](https://upload.wikimedia.org/wikipedia/commons/f/fc/Utiliser_Wikip%C3%A9dia_en_classe_de_fran%C3%A7ais_-_Support_p%C3%A9dagogique_-_Formation_IFPC.pdf)
 
 ###### Questions

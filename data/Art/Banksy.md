@@ -23,8 +23,9 @@ indice_6 :
   - graffitis engagés
 questions:
  - A quel artiste britannique doit-on cette oeuvre de street art conçue à Bristol, elle est belle, pour la Saint-Valentin 2020. Sachez que l'oeuvre a été dès le lendemain taguée d'inscriptions et d'un coeur de peinture rose par des inconnus. C'est le problème du street art, c'est que parfois, c'est vandalisé. Parfois même, ça disparaît.
+culture_g_score: 84
+culture_g_justification: "Artiste contemporain très célèbre, exploitable par ses œuvres, son anonymat, l’art urbain, les enchères et ses prises de position."
 ---
-
 ![Image de Banksy](https://upload.wikimedia.org/wikipedia/commons/7/75/%E2%80%98Mild_Mild_West%E2%80%99%2C_Banksy.jpg)
 
 ###### Questions

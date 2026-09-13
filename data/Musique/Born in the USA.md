@@ -22,8 +22,9 @@ indice_6 :
   - pochette avec un drapeau des États-Unis
 questions:
  - Chanson de 4mn39, je suis sortie en 1984 aux Etats-Unis sur un album homonyme qui s'est vendu à 19 millions d'exemplaires.  Evoquant le retour au pays d'un vétéran de la guerre du Viêtnam et le rejet qu'il subit, j'ai été utilisée, sans l'accord de Bruce Springsteen, par le Parti républicain en campagne...
+culture_g_score: 77
+culture_g_justification: "Album majeur de Bruce Springsteen, rentable pour le rock américain, ses tubes, les années 1980 et sa portée politique."
 ---
-
 ![Image de Born in the USA](https://upload.wikimedia.org/wikipedia/commons/6/6e/Obama_Inauguration_%22Born_in_the_USA%22_cover_%288400795160%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - âge d'or islamique
 questions:
  - Quel calife abbasside, disparu en 809 et héros de plusieurs contes des "Mille et Une Nuits", s'est rendu populaire par ses victoires contre les Byzantins ?
+culture_g_score: 71
+culture_g_justification: "Calife abbasside connu par Les Mille et Une Nuits et l'âge d'or islamique, avec des liens utiles vers Charlemagne et la transmission des savoirs."
 ---
-
 ![Image de Harun al-Rachid](https://upload.wikimedia.org/wikipedia/commons/4/47/Harun_al-Rashid_receives_envoys_from_Charlemagne.jpg)
 
 ###### Questions

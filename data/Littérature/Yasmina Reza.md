@@ -20,10 +20,9 @@ indice_5:
   - Goncourt du théâtre
 indice_6:
   - Humour et société
+culture_g_score: 80
+culture_g_justification: "Autrice de la pièce internationale Art et de plusieurs œuvres primées, permettant des questions sur le théâtre, le cinéma et la littérature contemporaine."
 ---
-
-
-
 ![Image de Yasmina Reza](https://upload.wikimedia.org/wikipedia/commons/c/ce/Yasmina-reza.jpg)
 
 ###### Questions

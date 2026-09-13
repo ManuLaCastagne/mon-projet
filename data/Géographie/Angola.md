@@ -24,9 +24,9 @@ indice_6 :
   - colonisé par les Portugais
 questions:
  - Le 11 novembre 191975, après une longue guerre coloniale contre le Portugal, quel Etat d'Afrique australe, dont la capitale est Luanda, accède à l'indépendance en 75 ?
+culture_g_score: 60
+culture_g_justification: "Pays africain important par la colonisation portugaise, l’indépendance, la guerre civile, le pétrole et sa géographie, sans être un marronnier majeur."
 ---
-
-
 ![Image de Angola](https://upload.wikimedia.org/wikipedia/commons/e/ef/Angola_carnaval.jpg)
 
 ![[Carte_Angola.png]]

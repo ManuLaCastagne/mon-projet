@@ -22,8 +22,9 @@ indice_6 :
   - Dance Dance Dance
 questions:
  - Tube disco enregistré en 1978, je suis né de la frustration de mes auteurs, Bernard Edwards et Nile Rodgers, qui avaient été refoulés à l'entrée d'un club prestigieux pour le nouvel an.  Chanson dont les paroles en anglais proposent de découvrir une nouvelle danse, mon titre évoque, en français, un synonyme du mot argent alors qu'en anglais...
+culture_g_score: 73
+culture_g_justification: "Standard disco de Chic, rentable pour les questions sur Nile Rodgers, le funk, le disco et les grands succès américains."
 ---
-
 ![Image de Le Freak](https://upload.wikimedia.org/wikipedia/commons/6/61/Nekane_Le_Freak_%282004%29.jpg)
 
 ###### Questions

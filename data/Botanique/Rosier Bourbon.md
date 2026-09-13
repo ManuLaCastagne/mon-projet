@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour la création de haies et en parfumerie
 questions:
  - Quel rosier hybride, obtenu au début du XIXe, doit son nom à l'ancien nom de l'île de la Réunion ?
+culture_g_score: 27
+culture_g_justification: "Variété historique de rosier très spécialisée, susceptible d'une question horticole exceptionnelle seulement."
 ---
-
 ![Image de Rosier Bourbon](https://upload.wikimedia.org/wikipedia/commons/7/74/VARIEGATA_DE_BOLOGNA_burbon.jpg)
 
 ###### Questions

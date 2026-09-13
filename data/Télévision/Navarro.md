@@ -20,8 +20,9 @@ indice_6 :
   - Brigade criminelle
 questions:
  - Dans quelle série Roger Hanin incarne-t-il un commissaire...
+culture_g_score: 73
+culture_g_justification: "Série policière française emblématique de TF1, fréquemment mobilisée pour des questions sur Roger Hanin et la télévision des années 1990."
 ---
-
 ![Image de Navarro](https://upload.wikimedia.org/wikipedia/commons/c/cf/Julia_Navarro-64093.jpg)
 
 ###### Questions

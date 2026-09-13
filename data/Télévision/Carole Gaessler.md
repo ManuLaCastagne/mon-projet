@@ -20,8 +20,9 @@ indice_6 :
   - animatrice télévisée
 questions:
  - Après Patrick de Carolis et Louis Laforge, qui anime "Des racines et des ailes" sur France 3 en 2020 ?
+culture_g_score: 44
+culture_g_justification: "Présentatrice familière du paysage audiovisuel français, mais dont les références quiz restent limitées."
 ---
-
 ![Image de Carole Gaessler](https://upload.wikimedia.org/wikipedia/commons/c/c2/Paris%2C_de_place_en_place_-_%C3%89mission_int%C3%A9grale_-_YouTube.webm)
 
 ###### Questions

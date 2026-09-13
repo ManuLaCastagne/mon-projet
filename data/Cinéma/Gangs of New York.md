@@ -22,8 +22,9 @@ indice_6 :
   - Five Points
 questions:
  - Quel film de Martin Scorsese, avec Leonardo DiCaprio et Daniel Day-Lewis, raconte les affrontements entre bandes rivales d'une ville…
+culture_g_score: 64
+culture_g_justification: "Film ambitieux de Scorsese avec un casting prestigieux et un cadre historique identifiable, mais moins incontournable que ses plus grands classiques."
 ---
-
 ![Image de Gangs of New York](https://upload.wikimedia.org/wikipedia/commons/c/c1/Gangs_of_New_York.jpg)
 
 ###### Questions

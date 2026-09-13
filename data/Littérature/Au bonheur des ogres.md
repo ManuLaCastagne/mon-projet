@@ -22,11 +22,9 @@ indice_6:
   - Folies familiales
 questions:
   - Quel roman paru en 1985 est le 1er volet de la série de Daniel Pennac dont le héros est Benjamin Malaussène?
+culture_g_score: 47
+culture_g_justification: "Premier volet connu de la saga Malaussène, mais moins incontournable que les grands classiques de la littérature française."
 ---
-
-
-
-
 ![Image de Au bonheur des ogres](https://upload.wikimedia.org/wikipedia/commons/9/97/William_Holman_Hunt_-_The_Scapegoat.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - L'Histoire de la Pub
 questions:
  - De 1997 à 2004, quel journaliste et créateur de l'émission "Culture Pub" la présente en duo avec Thomas Hervé?
+culture_g_score: 40
+culture_g_justification: "Créateur de Culture Pub important dans son secteur, mais personnalité relativement spécialisée et peu rentable hors de la publicité."
 ---
-
 ![Image de Christian Blachas](https://upload.wikimedia.org/wikipedia/commons/c/cd/Clasp_for_liturgical_vestments.JPG)
 
 ###### Questions

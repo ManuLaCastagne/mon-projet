@@ -22,8 +22,9 @@ indice_5 :
   - langue tagalog largement parlée
 indice_6 : 
   - cathédrale historique
+culture_g_score: 80
+culture_g_justification: "Capitale asiatique majeure, utile pour l’histoire coloniale espagnole et américaine, la Seconde Guerre mondiale, la démographie et la géographie des Philippines."
 ---
-
 ![Image de Manille](https://upload.wikimedia.org/wikipedia/commons/b/b3/Manille%2C_shackle%2C_manila%2C_Fu%C3%9Fring%2C_maniglia.jpg)
 
 ![[Carte_Manille.png]]

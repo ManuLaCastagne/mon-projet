@@ -20,9 +20,9 @@ indice_5:
   - roman initial à succès
 indice_6:
   - pseudonyme de sa jeunesse
+culture_g_score: 80
+culture_g_justification: "Figure emblématique de la littérature française d’après-guerre, fortement associée à Bonjour tristesse, à son pseudonyme et à sa vie médiatique."
 ---
-
-
 ![Image de Françoise Sagan](https://upload.wikimedia.org/wikipedia/commons/4/4f/Identite-Sagan-1958-Sacem.jpg)
 
 ###### Questions

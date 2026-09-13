@@ -20,9 +20,9 @@ indice_5 :
   - Tropic Thunder
 indice_6 : 
   - The Secret Life of Walter Mitty
+culture_g_score: 76
+culture_g_justification: "Comédien populaire associé à plusieurs comédies et à la famille Stiller, avec de nombreux indices immédiatement exploitables."
 ---
-
-
 ![Image de Ben Stiller](https://upload.wikimedia.org/wikipedia/commons/c/c8/Ben_Stiller%2C_Paris_%28France%29.jpg)
 
 

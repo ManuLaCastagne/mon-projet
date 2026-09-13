@@ -18,8 +18,9 @@ indice_5 :
   - émission dominicale
 indice_6 : 
   - journaliste française
+culture_g_score: 44
+culture_g_justification: "Animatrice durablement associée à Thé ou Café, mais principalement connue dans un registre télévisuel étroit."
 ---
-
 ![Image de Catherine Ceylac](https://upload.wikimedia.org/wikipedia/commons/7/79/Catherine_Ceylac_Claude_Serillon_2014.jpg)
 
 ###### Questions

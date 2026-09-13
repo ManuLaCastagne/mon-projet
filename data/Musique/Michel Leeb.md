@@ -22,8 +22,9 @@ indice_6 :
   - artiste complet
 questions:
  - Musique classique et bruit de machine à écrire. ...  On parlait d'ordinateur. Là, on est sur la machine à écrire. La musique qu'on a  entendue intègre le son d'une machine à écrire. Intitulée "The Typewriter", elle a été composée en 1950 par Leroy Anderson. Après Jerry Lewis aux Etats-Unis...
+culture_g_score: 47
+culture_g_justification: "Artiste français polyvalent connu surtout pour l’humour et la télévision, avec une rentabilité musicale limitée."
 ---
-
 ![Image de Michel Leeb](https://upload.wikimedia.org/wikipedia/commons/e/ec/Michel_Leeb_2013.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6:
   - relief
 questions:
   - Quel nom d'une commune de la banlieue nord de Grenoble ne désigne pas une tête mais provient du franco-provençal signifiant souche d'arbre?
+culture_g_score: 20
+culture_g_justification: "La Tronche est une commune très locale dont les informations offrent peu de possibilités dans un quiz généraliste."
 ---
-
 ![Image de Tronche](https://upload.wikimedia.org/wikipedia/commons/8/86/Recoura_Albert%2C_Saint-Ferjus_cemetery_%28La_Tronche%29.jpg)
 
 ![[Carte_Tronche.png]]

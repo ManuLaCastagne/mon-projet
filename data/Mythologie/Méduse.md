@@ -18,9 +18,9 @@ indice_6 :
   - sang créateur du Pégase
 questions:
  - Quel nom portait la gorgone dont Persée a tranché la tête et dont le sang a donné naissance à Pégase?
+culture_g_score: 96
+culture_g_justification: "Méduse est une figure mythologique universellement identifiable, liée aux Gorgones, à Persée, à la pétrification et à de nombreuses œuvres artistiques."
 ---
-
-
 ![Image de Méduse](https://upload.wikimedia.org/wikipedia/commons/c/ce/M%C3%A9duse-Jean-J%C3%A9r%C3%B4me_Baugean-IMG_4777-cropped.JPG)
 
 ###### Questions

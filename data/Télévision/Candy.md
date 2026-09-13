@@ -20,8 +20,9 @@ indice_6 :
   - crime réel
 questions:
  - Diffusée dès 78  dans l'émission "Récré A2", mon univers est régi par des forces manichéennes comme l'indique la chanson de mon générique où l'on entend "il y a des méchants et des gentils". Relatant les aventures d'une jeune orpheline blonde...
+culture_g_score: 53
+culture_g_justification: "Anime nostalgique bien implanté dans la culture télévisuelle française, mais ses questions restent assez spécialisées."
 ---
-
 ![Image de Candy](https://upload.wikimedia.org/wikipedia/commons/4/45/Ambigram_Candy_icon_-_pink_vector.svg)
 
 ###### Questions

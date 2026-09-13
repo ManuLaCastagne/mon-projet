@@ -21,8 +21,9 @@ indice_5 :
   - Cape May
 indice_6 : 
   - Liberty State Park
+culture_g_score: 60
+culture_g_justification: "État américain utile pour New York, Atlantic City, l'industrie et quelques repères historiques, mais rarement prioritaire face aux États les plus emblématiques."
 ---
-
 ![[Carte_New Jersey.png]]
 
 ###### Questions

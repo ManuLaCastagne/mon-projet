@@ -20,8 +20,9 @@ indice_5 :
   - The Blueprint
 indice_6 : 
   - Shawn Carter
+culture_g_score: 80
+culture_g_justification: "Rappeur et entrepreneur mondialement connu, à la croisée de la musique, de la mode, des médias et de la culture populaire."
 ---
-
 ![Image de Jay-Z](https://upload.wikimedia.org/wikipedia/commons/6/6a/Jay-Z_concert_%28cropped%29.jpg)
 
 ###### Questions

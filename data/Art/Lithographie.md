@@ -23,8 +23,9 @@ indice_6 :
   - encrage et gravure
 questions:
  - Quel art de reproduire par impression les dessins tracés avec une encre sur une pierre calcaire, a permis d'illustrer nombre de récits de voyages ?
+culture_g_score: 84
+culture_g_justification: "Technique fondamentale de l’histoire de l’imprimerie et de l’affiche, réutilisable dans de nombreuses questions artistiques, industrielles et culturelles."
 ---
-
 ![Image de Lithographie](https://upload.wikimedia.org/wikipedia/commons/c/c7/Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg)
 
 ###### Questions

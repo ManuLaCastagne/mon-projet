@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Le 25 juillet 1948, de quelle compétition cycliste diffuse-t-on pour la 1re fois en direct l'arrivée à la TV ?
  - Quel événement sportif, créé en 1903 par Henri Desgrange, draine...
+culture_g_score: 100
+culture_g_justification: "Compétition cycliste mondialement incontournable, générant une multitude de questions historiques, géographiques, sportives et médiatiques."
 ---
-
 ![Image de Tour de France](https://upload.wikimedia.org/wikipedia/commons/4/4b/Peloton_of_Tour_de_France_2023_in_Tourmalet.jpg)
 
 ###### Questions

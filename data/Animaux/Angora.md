@@ -15,8 +15,9 @@ indice_6 :
   - Compagnon royal en Turquie
 questions:
  - Je peux être de différentes couleurs, même si je reste très apprécié en blanc avec des yeux bleus. Race de chat devant mon nom à l'ancien nom de la capitale...
+culture_g_score: 47
+culture_g_justification: "Terme associé à plusieurs races animales et au mohair, mais l'identification précise est souvent ambiguë."
 ---
-
 ![Image de Angora](https://upload.wikimedia.org/wikipedia/commons/2/20/Ankara_asv2021-10_img73_Republic_Museum.jpg)
 
 ###### Questions

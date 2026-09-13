@@ -15,8 +15,9 @@ indice_6 :
   - Prédateur redouté dans les légendes locales
 questions:
  - Quel est ce grand phoque carnassier vivant dans l'Antarctique se nourrissant d'autres phoques ?
+culture_g_score: 51
+culture_g_justification: "Prédateur antarctique spectaculaire mais relativement spécialisé, principalement rencontré dans des questions de faune polaire."
 ---
-
 ![Image de Léopard de mer](https://upload.wikimedia.org/wikipedia/commons/4/48/Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_05.jpg)
 
 ###### Questions

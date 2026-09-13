@@ -18,8 +18,9 @@ indice_5 :
   - Caducée
 indice_6 : 
   - Front de mer
+culture_g_score: 80
+culture_g_justification: "Mercure est une divinité romaine classique, facilement interrogée par son équivalence avec Hermès, ses attributs et ses domaines d’activité."
 ---
-
 ![Image de Mercure (mythologie)](https://upload.wikimedia.org/wikipedia/commons/6/64/Mercury_transit_2.jpg)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - impliqué dans le monde des médias
 indice_6 : 
   - français d'origine marocaine
+culture_g_score: 20
+culture_g_justification: "Chroniqueur médiatique contemporain très spécialisé, dont les références reposent surtout sur quelques émissions récentes."
 ---
-
 ![Image de Raymond Aabou]()
 
 ###### Questions

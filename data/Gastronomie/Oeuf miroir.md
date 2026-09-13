@@ -18,8 +18,9 @@ indice_5 :
   - Cuisson à la poêle
 indice_6 : 
   - Œuf au plat
+culture_g_score: 27
+culture_g_justification: "Dénomination culinaire spécialisée désignant une variante d'œuf sur le plat aux possibilités de questionnement limitées."
 ---
-
 ![Image de Oeuf miroir]()
 
 ###### Questions

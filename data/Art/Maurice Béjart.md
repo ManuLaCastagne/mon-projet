@@ -23,8 +23,9 @@ indice_6 :
   - Belgique
 questions:
  - Artiste ayant déclaré que la danse dit tout sans ne jamais rien dire, je suis né un premier janvier. Révélé par ma chorégraphie de la "Symphonie "pour un homme seul"...
+culture_g_score: 72
+culture_g_justification: "Chorégraphe essentiel de la danse francophone, Béjart est régulièrement mobilisable via ses compagnies, ses ballets et ses innovations."
 ---
-
 ![Image de Maurice Béjart](https://upload.wikimedia.org/wikipedia/commons/0/03/%C5%9Awi%C4%99to_wiosny%2C_choreografia_Maurice_B%C3%A9jart%2C_Polski_Balet_Narodowy%2C_fot._Ewa_Krasucka_TW-ON.jpg)
 
 ###### Questions

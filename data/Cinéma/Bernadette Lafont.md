@@ -22,8 +22,9 @@ indice_6 :
   - née à Nîmes en 1938
 questions:
  - En 1969, quelle actrice, égérie de la Nouvelle Vague, interprète une jeune fille qui vit dans une cabane isolée dans "La Fiancée du pirate" ?
+culture_g_score: 67
+culture_g_justification: "Figure importante de la Nouvelle Vague et du cinéma français, avec des liens utiles vers Truffaut, Chabrol et le féminisme."
 ---
-
 ![Image de Bernadette Lafont](https://upload.wikimedia.org/wikipedia/commons/2/25/Bernadette_Lafont_-_Cannes_2012.jpg)
 
 ###### Questions

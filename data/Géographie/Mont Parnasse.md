@@ -24,8 +24,9 @@ indice_6 :
   - Inspiration
 questions:
  - Au pied de quel massif montagneux de Grèce, considéré, dans l'Antiquité comme la montagne des Muses, le site de Delphes est-il situé?
+culture_g_score: 51
+culture_g_justification: "Montagne importante dans la mythologie grecque et liée aux Muses, mais le sujet géographique précis reste peu fréquent."
 ---
-
 ![Image de Mont Parnasse](https://upload.wikimedia.org/wikipedia/commons/6/60/Mont_Parnasse%2C_par_Edward_Dodwell%2C_BNF_Gallica.jpg)
 
 ![[Carte_Mont Parnasse.png]]

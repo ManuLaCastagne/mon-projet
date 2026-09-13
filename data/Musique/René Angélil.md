@@ -22,8 +22,9 @@ indice_6 :
   - Découverte
 questions:
  - Songeant à quitter ce métier avant de recevoir un enregistrement de "Ce n'était qu'un rêve" d'une jeune fille de 12 ans.
+culture_g_score: 60
+culture_g_justification: "Son mariage et son rôle auprès de Céline Dion fournissent plusieurs questions classiques, mais sa notoriété reste largement dépendante de cette relation."
 ---
-
 ![Image de René Angélil](https://upload.wikimedia.org/wikipedia/commons/a/a3/Ren%C3%A9_Angelil.jpg)
 
 ###### Questions

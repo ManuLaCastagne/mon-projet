@@ -20,8 +20,9 @@ indice_6 :
   - Lamoura
 questions:
  - De la Worldloppet.  Course d'abord appelée Progressime, je ne comptais à l'origine qu'une épreuve disputée sur une distance de 76 km. Course de ski de fond...
+culture_g_score: 40
+culture_g_justification: "Course française reconnue dans le ski de fond, mais à la notoriété et aux usages quiz relativement limités."
 ---
-
 ![Image de Transjurassienne](https://upload.wikimedia.org/wikipedia/commons/f/f7/Transjurassienne.jpg)
 
 ###### Questions

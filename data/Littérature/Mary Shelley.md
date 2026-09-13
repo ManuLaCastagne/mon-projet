@@ -22,8 +22,9 @@ indice_6 :
   - Romantisme
 questions:
  - En 1818, quelle femme de lettres anglaise publie le roman "Frankenstein ou le Prométhée moderne"?
+culture_g_score: 100
+culture_g_justification: "Créatrice de Frankenstein, figure incontournable reliant littérature gothique, science-fiction, romantisme, histoire des femmes et culture populaire."
 ---
-
 ![Image de Mary Shelley](https://upload.wikimedia.org/wikipedia/commons/b/b4/Mary_Wollstonecraft_Shelley_Rothwell.tif)
 
 ###### Questions

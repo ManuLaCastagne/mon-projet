@@ -13,8 +13,9 @@ indice_5:
   - Oiseau de Paradis
 indice_6:
   - Utilisé comme plante ornementale
+culture_g_score: 31
+culture_g_justification: "Plante tropicale décorative associée au terme canna, mais peu présente dans les quiz généralistes francophones."
 ---
-
 ![Image de Balisier](https://upload.wikimedia.org/wikipedia/commons/8/80/Heliconia_bihai_5379.jpg)
 
 ###### Questions

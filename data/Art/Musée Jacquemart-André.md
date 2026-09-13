@@ -23,8 +23,9 @@ indice_6 :
   - salon des peintres
 questions:
  - Quel musée parisien installé, depuis 1913, dans un hôtel particulier du boulevard Haussmann, doit son nom au couple d'amateurs d'art à l'origine de ses collections ?
+culture_g_score: 52
+culture_g_justification: "Le musée Jacquemart-André est un établissement artistique parisien notable, toutefois moins incontournable que les grands musées nationaux."
 ---
-
 ![Image de Musée Jacquemart-André](https://upload.wikimedia.org/wikipedia/commons/9/90/Mus%C3%A9e_Jacquemart_Andr%C3%A9_2007_-_Recoura.jpg)
 
 ###### Questions

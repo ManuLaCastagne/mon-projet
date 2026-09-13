@@ -24,8 +24,9 @@ indice_6 :
   - Savoie
 questions:
  - Dans la région de la Tarentaise, quelle appellation touristique est donnée aux vallées des Ménuires, de Méribel...
+culture_g_score: 48
+culture_g_justification: "Les Trois-Vallées sont un repère touristique important du ski français, mais leur usage reste cantonné à la géographie et aux sports d’hiver."
 ---
-
 ![Image de Trois-Vallées](https://upload.wikimedia.org/wikipedia/commons/7/72/Les_3_Vall%C3%A9es_-_panoramio.jpg)
 
 ![[Carte_Trois-Vallées.png]]

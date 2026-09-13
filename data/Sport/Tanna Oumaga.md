@@ -20,8 +20,9 @@ indice_6 :
   - Auckland
 questions:
  - En mai 2009, quel rugbyman néo-zélandais est redevenu joueur à Toulon alors qu'il y était entraîneur ?
+culture_g_score: 51
+culture_g_justification: "Ancien capitaine des All Blacks et figure notable du rugby néo-zélandais, mais peu rentable hors de ce domaine."
 ---
-
 ![Image de Tanna Oumaga]()
 
 ###### Questions

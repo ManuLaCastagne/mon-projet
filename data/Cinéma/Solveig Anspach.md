@@ -20,9 +20,9 @@ indice_5:
   - Lulu femme nue
 indice_6:
   - films franco-islandais
+culture_g_score: 43
+culture_g_justification: "Cinéaste franco-islandaise estimable, mais principalement connue à travers quelques films du cinéma d’auteur."
 ---
-
-
 ![Image de Solveig Anspach](https://upload.wikimedia.org/wikipedia/commons/4/4b/Solveig_Anspach.jpg)
 
 ###### Questions

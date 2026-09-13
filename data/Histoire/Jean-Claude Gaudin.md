@@ -20,8 +20,9 @@ indice_6 :
   - républicain
 questions:
  - Qui fut maire de Marseille de 1995 à 2020 ?
+culture_g_score: 47
+culture_g_justification: "Longtemps maire de Marseille et acteur de la politique française, il reste surtout pertinent dans des questions politiques contemporaines ciblées."
 ---
-
 ![Image de Jean-Claude Gaudin](https://upload.wikimedia.org/wikipedia/commons/b/ba/Marseille_Vieux_Port_Night.jpg)
 
 ###### Questions

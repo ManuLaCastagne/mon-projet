@@ -22,8 +22,9 @@ indice_6 :
   - bronzage à la lampe de poche
 questions:
  - Dans quelle série de films de Robert Lamoureux se déroulant pendant la 2nde guerre mondiale, Jean Lefebvre et Pierre Mondy incarnent-ils soldat Pithiviers et sergent-chef Chaudard ?
+culture_g_score: 77
+culture_g_justification: "Trilogie comique extrêmement populaire en France, régulièrement interrogée par ses acteurs, ses répliques et son contexte de guerre."
 ---
-
 ![Image de La 7ème Compagnie](https://upload.wikimedia.org/wikipedia/commons/c/c7/Capitaine_Georges_Hillion%2C_1%C3%A8re_Compagnie_du_7%C3%A8me_Bataillon_F.F.I.jpg)
 
 ###### Questions

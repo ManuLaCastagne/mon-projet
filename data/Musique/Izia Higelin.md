@@ -22,8 +22,9 @@ indice_6 :
   - voix puissante et énergique
 questions:
  - Sortant en 2019 l'album "Citadelle" évoquant mon père le chanteur Jacques, disparu...
+culture_g_score: 47
+culture_g_justification: "Artiste française contemporaine identifiable par sa filiation, ses albums et quelques rôles, mais encore secondaire en culture générale."
 ---
-
 ![Image de Izia Higelin](https://upload.wikimedia.org/wikipedia/commons/d/d8/Izia_Higelin_2013.jpg)
 
 ###### Questions

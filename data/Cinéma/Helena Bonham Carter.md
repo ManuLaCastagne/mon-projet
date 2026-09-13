@@ -20,8 +20,9 @@ indice_5 :
   - Fight Club
 indice_6 : 
   - Sweeney Todd
+culture_g_score: 80
+culture_g_justification: "Actrice très reconnaissable grâce à Harry Potter, Tim Burton et plusieurs films cultes, offrant des angles variés mais non incontournables."
 ---
-
 ![Image de Helena Bonham Carter](https://upload.wikimedia.org/wikipedia/commons/d/d2/Helena_Bonham_Carter_3_%28cropped%29.jpg)
 
 ###### Questions

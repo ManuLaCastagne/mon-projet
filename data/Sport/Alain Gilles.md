@@ -18,8 +18,9 @@ indice_5:
   - Salle Alain Gilles
 indice_6:
   - Maillot retiré
+culture_g_score: 44
+culture_g_justification: "Légende historique du basket français, principalement utile pour des questions sur l’ASVEL et le championnat national."
 ---
-
 ![Image de Alain Gilles](https://upload.wikimedia.org/wikipedia/commons/d/dd/Alain_Gilles.jpg)
 
 ###### Questions

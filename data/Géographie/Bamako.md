@@ -24,8 +24,9 @@ indice_6 :
   - marché de Bamako
 questions:
  - Du Haut-Sénégal-Niger par les Français, avant de devenir la capitale de mon pays devenu indépendant en 1960.
+culture_g_score: 51
+culture_g_justification: "Capitale africaine classique à connaître, mais généralement limitée aux questions de capitales et de géographie du Mali."
 ---
-
 ![Image de Bamako](https://upload.wikimedia.org/wikipedia/commons/8/8d/Bamako_037.jpg)
 
 ![[Carte_Bamako.png]]

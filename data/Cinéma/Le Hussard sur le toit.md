@@ -20,8 +20,9 @@ indice_5:
   - Olivier Martinez
 indice_6:
   - 1995
+culture_g_score: 60
+culture_g_justification: "Adaptation française prestigieuse d’un roman de Giono, utile pour quelques questions de cinéma, littérature et histoire sanitaire."
 ---
-
 ![Image de Hussard sur le toit](https://upload.wikimedia.org/wikipedia/commons/9/98/Notice_n%C3%A9crologique_sur_M._le_Baron_J.D._Larrey_%28IA_b31923045%29.pdf)
 
 ###### Questions

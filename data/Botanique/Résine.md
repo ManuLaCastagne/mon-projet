@@ -15,8 +15,9 @@ indice_6 :
   - Fabrication de vernis et d'encens
 questions:
  - Traditionnellement récoltée en faisant, au moyen d'un outil, des entailles dans l'écorce, je suis alors recueillie dans des petits pots en terre cuite placés sur le tronc des arbres.
+culture_g_score: 71
+culture_g_justification: "Matière naturelle liée aux arbres, à l'encens, aux vernis et à diverses techniques, avec plusieurs usages quiz distincts."
 ---
-
 ![Image de Résine](https://upload.wikimedia.org/wikipedia/commons/8/82/Resin_initial.jpg)
 
 ###### Questions

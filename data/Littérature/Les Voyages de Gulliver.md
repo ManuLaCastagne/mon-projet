@@ -23,9 +23,9 @@ indice_6 :
   - voyageur
 questions:
  - Héros d'un roman satirique de Jonathan Swift, je suis…
+culture_g_score: 92
+culture_g_justification: "Classique mondial extrêmement transversal, interrogeable par Swift, la satire, Lilliput, les voyages imaginaires et les personnages fantastiques."
 ---
-
-
 ![Image de Les Voyages de Gulliver](https://upload.wikimedia.org/wikipedia/commons/c/cf/Recueil._%22Les_voyages_de_Gulliver%22_film_de_Max_Fleischer_-_btv1b10516149g_%2801_of_38%29.jpg)
 
 ###### Questions

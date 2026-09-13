@@ -21,9 +21,9 @@ indice_5 :
   - Risque de montée des eaux
 indice_6 : 
   - Ville la plus peuplée des Îles Marshall
+culture_g_score: 40
+culture_g_justification: "Capitale-atoll des Îles Marshall, surtout utile pour la géographie du Pacifique, les essais nucléaires et les effets du changement climatique."
 ---
-
-
 ![Image de Majuro](https://upload.wikimedia.org/wikipedia/commons/0/04/Majuro_Satellite.PNG)
 
 ![[Carte_Majuro.png]]

@@ -21,8 +21,9 @@ indice_6:
   - neuf sphères
 questions:
   - Monument figurant en 2006, juste après ma rénovation, sur une pièce commémorative de 2 euros. Mon revêtement extérieur en aluminium a été remplacé par des plaques triangulaires en acier. Comportant 20 tubes d'un diamètre de 3,30m où circule le public, je suis formé de 9 sphères...
+culture_g_score: 68
+culture_g_justification: "L’Atomium est un emblème de Bruxelles et de l’Exposition de 1958, avec des liens utiles vers la Belgique et l’architecture moderne."
 ---
-
 ![Image de Atomium](https://upload.wikimedia.org/wikipedia/commons/e/e8/Atomium_sphere_%28DSCF1211%29.jpg)
 
 ![[Carte_Atomium.png]]

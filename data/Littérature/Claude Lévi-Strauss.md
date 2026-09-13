@@ -23,8 +23,9 @@ indice_6 :
   - La Pensée sauvage
 questions:
  - Quel anthropologue, auteur de "Tristes Tropiques", s'est éteint en 2009 à l'âge de 100 ans?
+culture_g_score: 84
+culture_g_justification: "Figure majeure de l’anthropologie et du structuralisme, reliant sciences sociales, mythologie, philosophie et histoire intellectuelle du XXe siècle."
 ---
-
 ![Image de Claude Lévi-Strauss](https://upload.wikimedia.org/wikipedia/commons/7/78/Claude_L%C3%A9vi-Strauss_%281973%29.jpg)
 
 ###### Questions

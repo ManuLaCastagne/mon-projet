@@ -20,9 +20,9 @@ indice_6 :
   - médecine régénérative
 questions:
  - En 2010, quel chirurgien français a réussi la première greffe totale d'un visage ?
+culture_g_score: 32
+culture_g_justification: "Chirurgien associé à une première médicale remarquable, mais dont la notoriété reste limitée hors des quiz médicaux."
 ---
-
-
 ![Image de Laurent Lantieri](https://upload.wikimedia.org/wikipedia/commons/d/d3/Lantieri.jpg)
 
 ###### Questions

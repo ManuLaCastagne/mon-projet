@@ -21,8 +21,9 @@ indice_5 :
   - colonne triomphale
 indice_6 : 
   - bataille d'Austerlitz
+culture_g_score: 68
+culture_g_justification: "Monument napoléonien parisien utile pour Austerlitz, la Commune, la colonne de Trajan et l’histoire de Paris."
 ---
-
 ![Image de Colonne Vendôme](https://upload.wikimedia.org/wikipedia/commons/2/26/Colonne_Vend%C3%B4me_D%C3%A9tails.jpg)
 
 ###### Questions

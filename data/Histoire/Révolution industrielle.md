@@ -20,8 +20,9 @@ indice_6 :
   - XIXe siècle
 questions:
  - Quelle expression désigne la période de bouleversements économiques apparue avec l'exploitation du charbon dans l'Angleterre du XVIIIe siècle?
+culture_g_score: 100
+culture_g_justification: "Transformation fondamentale reliant technologie, économie, urbanisation, classes sociales, Royaume-Uni et naissance du monde industriel."
 ---
-
 ![Image de Révolution industrielle](https://upload.wikimedia.org/wikipedia/commons/e/e7/R%C3%A9volution_industrielle_en_Europe._Paris_Mus%C3%A9es_20231114173547.jpg)
 
 ###### Questions

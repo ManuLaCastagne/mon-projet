@@ -20,8 +20,9 @@ indice_6 :
   - La Motta
 questions:
  - Le 20 décembre 1946, quel Américain, considéré comme un grand styliste de la boxe, décroche le titre de champion du monde des poids welters?
+culture_g_score: 71
+culture_g_justification: "Légende de la boxe mondiale, utile pour des questions sur les catégories, les records et l’histoire de la boxe, sans être un incontournable général absolu."
 ---
-
 ![Image de Sugar Ray Robinson](https://upload.wikimedia.org/wikipedia/commons/c/cb/Sugar_Ray_Robinson_1947.jpg)
 
 ###### Questions

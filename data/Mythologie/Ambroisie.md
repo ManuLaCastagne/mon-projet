@@ -19,8 +19,9 @@ indice_6 :
   - [[mythologie grecque]]
 questions:
  - Selon les anciens Grecs, quelle substance à base de miel procurant l'immortalité, servait de nourriture aux dieux ?
+culture_g_score: 60
+culture_g_justification: "Notion mythologique classique associée à l’immortalité des dieux, mais dont les angles de quiz restent relativement limités."
 ---
-
 ![Image de Ambroisie](https://upload.wikimedia.org/wikipedia/commons/9/99/Ragweed_%28Ambrosia_artemisiifolia%29.jpg)
 
 ###### Questions

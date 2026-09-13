@@ -19,8 +19,9 @@ indice_5 :
   - Benjamin Castaldi
 indice_6 : 
   - influenceur
+culture_g_score: 12
+culture_g_justification: "Personnalité récente de télé-réalité et influenceur encore peu pertinent dans un entraînement généraliste."
 ---
-
 ![Image de Simon Castaldi](https://upload.wikimedia.org/wikipedia/commons/6/66/Jackson_2020_Environ._Res._Lett._15_071002.pdf)
 
 ###### Questions

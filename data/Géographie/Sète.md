@@ -24,8 +24,9 @@ indice_6 :
   - Hérault
 questions:
  - Quel port de l'Hérault est signalé en mer par le phare du Mont-Saint-Clair ?
+culture_g_score: 60
+culture_g_justification: "Ville française identifiable par Brassens, ses canaux, son port et quelques références télévisuelles et culturelles."
 ---
-
 ![Image de Sète](https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal_de_la_Peyrade%2C_S%C3%A8te%2C_H%C3%A9rault_01.jpg)
 
 ![[Carte_Sète.png]]

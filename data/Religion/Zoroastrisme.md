@@ -20,8 +20,9 @@ indice_6 :
   - Tours du silence
 questions:
  - Dans quelle religion de l'Iran ancien fondée sur une réforme du Mazdéisme par Zarathoustra a-t-on mis très tôt en place un culte du feu?
+culture_g_score: 83
+culture_g_justification: "Religion ancienne liée à la Perse, à l’Avesta, à Ahura Mazda et à l’histoire des idées religieuses, le zoroastrisme est très rentable."
 ---
-
 ![Image de Zoroastrisme](https://upload.wikimedia.org/wikipedia/commons/1/18/Fravaharchoir.jpg)
 
 ###### Questions

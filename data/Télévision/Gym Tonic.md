@@ -20,8 +20,9 @@ indice_6 :
   - Toutouyoutou
 questions:
  - Quelle émission était présentée par un duo de danseuses prénommées Véronique et Davina ?
+culture_g_score: 73
+culture_g_justification: "Émission culte des années 1980, facilement interrogée via Véronique et Davina, le fitness télévisé et son générique célèbre."
 ---
-
 ![Image de Gym Tonic](https://upload.wikimedia.org/wikipedia/commons/a/a4/The_Canadian_music_course_%28microform%29_%28IA_cihm_06295%29.pdf)
 
 ###### Questions

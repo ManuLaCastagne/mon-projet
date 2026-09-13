@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de persévérance
 questions:
  - Qui se nourrit de différents végétaux fibreux.  Faisant généralement entre 1 m et 1,50 m au garrot, j'ai une excellente ouïe, favorisée par de longues oreilles...
+culture_g_score: 80
+culture_g_justification: "Animal domestique chargé d’usages historiques, symboliques et littéraires, l’âne fournit de nombreuses questions classiques."
 ---
-
 ![Image de Âne](https://upload.wikimedia.org/wikipedia/commons/8/85/%C3%82ne_d%27Ethiopie.jpg)
 
 ###### Questions

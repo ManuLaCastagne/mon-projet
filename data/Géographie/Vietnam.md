@@ -22,9 +22,9 @@ indice_6 :
   - Montagne de Ba Na
 questions:
  - Pays officiellement réunifié en juillet 1976, je m'étire sur près de 1500 km de long et compte plus de 88 millions d'habitants. Important producteur de caoutchouc, de coprah, de thé et de café, j'abrite également de nombreuses rizières, notamment dans les deltas du fleuve Rouge...
+culture_g_score: 100
+culture_g_justification: "Pays majeur d’Asie, très rentable pour la guerre du Vietnam, la géographie, l’histoire, la culture et les relations internationales."
 ---
-
-
 ![Image de Vietnam](https://upload.wikimedia.org/wikipedia/commons/2/21/Incense_in_Vietnam.jpg)
 
 ![[Carte_Vietnam.png]]

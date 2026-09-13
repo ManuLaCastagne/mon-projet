@@ -18,8 +18,9 @@ indice_5 :
   - Laocoon
 indice_6 : 
   - Vue de Tolède
+culture_g_score: 72
+culture_g_justification: "Grand peintre de la Renaissance, utile pour les questions sur la peinture vénitienne, le maniérisme, l’Espagne et ses œuvres religieuses."
 ---
-
 ![Image de Le Greco](https://upload.wikimedia.org/wikipedia/commons/1/19/El_Greco%2C_Dormition_of_Virgin_Mary%2C_icon_in_Ermoupolis%2C_Syros%2C_180003x.jpg)
 
 ###### Questions

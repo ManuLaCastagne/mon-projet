@@ -22,6 +22,8 @@ indice_6 :
   - lignées royales
 questions:
  - Dans quel drame de William Shakespeare s'achevant sur les mots "nous ne vivrons jamais si longtemps", un vieux souverain provoque-t-il une guerre fratricide ?
+culture_g_score: 84
+culture_g_justification: "Tragédie shakespearienne majeure, fréquemment interrogée par ses personnages, son intrigue, ses thèmes et ses adaptations."
 ---
 
 ![Image de Le Roi Lear](https://upload.wikimedia.org/wikipedia/commons/b/bc/Le_roi_Lear_dans_la_temp%C3%AAte.JPG)
@@ -30,7 +32,7 @@ questions:
 
 Quel est le titre de la pièce de [[William Shakespeare]], écrite en 1606, qui explore la tragédie familiale d'un monarque vieillissant partageant son royaume entre ses filles ?
 
-Quelle œuvre de [[Shakespeare]], souvent associée à une tempête dévastatrice, a été interprétée pour la première fois au [[Globe Theatre]] de [[Londres]] en 1606 ?
+Quelle œuvre de [[Shakespeare]], souvent associée à une tempête dévastatrice, a été interprétée pour la première fois au [[Globe Theatre]] de [[Londres]] en 1606 ? <!-- score: 2 -->
 
 Dans quelle pièce de 1606, un roi désillusionné cherche-t-il à évaluer l'affection de ses trois filles, ce qui entraîne sa chute tragique ?
 

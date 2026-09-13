@@ -20,8 +20,9 @@ indice_5:
   - vision de l'enfer
 indice_6:
   - Moyen Âge
+culture_g_score: 80
+culture_g_justification: "Bosch est une référence forte de la peinture ancienne grâce au Jardin des délices, à ses visions fantastiques et à l’art flamand."
 ---
-
 ![Image de Jérôme Bosch](https://upload.wikimedia.org/wikipedia/commons/6/6d/The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg)
 
 ###### Questions

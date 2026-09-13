@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la mer
 questions:
  - Quel gros oiseau marin à tête blanche, dont le nom signifie mouette en breton, niche sur les côtes de l'hémisphère nord ?
+culture_g_score: 64
+culture_g_justification: "Le goéland est très familier et associé à la mer et à la littérature, mais ses questions restent moins variées que sa notoriété."
 ---
-
 ![Image de Goéland](https://upload.wikimedia.org/wikipedia/commons/4/48/Caudron_C.440_cockpit_drawing_L%27Aerophile_December_1936.jpg)
 
 ###### Questions

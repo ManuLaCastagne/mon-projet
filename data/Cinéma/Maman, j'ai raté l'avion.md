@@ -22,8 +22,9 @@ indice_6 :
   - maisons piégées
 questions:
  - Comédie ayant donné lieu à 2 suite, je mets en scène la famille McAllister qui, décidant de passer Noël à Paris, s'aperçoit...
+culture_g_score: 93
+culture_g_justification: "Même film culte de Noël, dont le succès, les records, le réalisateur et les personnages fournissent de nombreux indices quiz."
 ---
-
 ![Image de Maman, j'ai raté l'avion](https://upload.wikimedia.org/wikipedia/commons/b/bf/Home_Alone_House.jpg)
 
 ###### Questions

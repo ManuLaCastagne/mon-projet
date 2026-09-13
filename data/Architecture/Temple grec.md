@@ -23,8 +23,9 @@ indice_6 :
   - péristyle
 questions:
  - J'étais dit amphiprostyle lorsque je comportais une colonnade sur chacune de mes deux façades. Monument religieux abritant la statue de la divinité à laquelle j'étais consacrée...
+culture_g_score: 80
+culture_g_justification: "Type architectural fondamental permettant d’aborder les ordres grecs, la mythologie, l’Acropole, les sanctuaires et l’architecture antique."
 ---
-
 ![Image de Temple grec](https://upload.wikimedia.org/wikipedia/commons/3/31/Attica_06-13_Sounion_20_Temple_of_Poseidon.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - occupation pendant la Première Guerre mondiale
 questions:
  - En janvier 1923, quelle région d'Allemagne, fortement industrialisée, est occupée par la France et la Belgique? Région d'Allemagne industrialisée?
+culture_g_score: 64
+culture_g_justification: "Bassin industriel important pour l’histoire allemande et l’entre-deux-guerres, mais moins fréquent que les grands événements de cette période."
 ---
-
 ![Image de Ruhr](https://upload.wikimedia.org/wikipedia/commons/a/a2/Ruhr_und_K%C3%BCppel.jpg)
 
 ###### Questions

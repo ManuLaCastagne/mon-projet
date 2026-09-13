@@ -22,8 +22,9 @@ indice_5 :
   - Jardin botanique royal de Sydney
 indice_6 : 
   - The Rocks
+culture_g_score: 100
+culture_g_justification: "Métropole mondialement célèbre, associée à son opéra, aux Jeux de 2000, à l'Australie, au sport et à de nombreux repères géographiques."
 ---
-
 ![[Carte_Sydney.png]]
 
 ###### Questions

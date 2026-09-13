@@ -22,8 +22,9 @@ indice_5:
   - rivière Vakhsh
 indice_6:
   - Pamir
+culture_g_score: 40
+culture_g_justification: "Capitale d’Asie centrale identifiable dans les quiz de pays et d’ex-URSS, mais offrant peu d’angles indépendants."
 ---
-
 ![Image de Douchanbé](https://upload.wikimedia.org/wikipedia/commons/0/0b/Palace_of_Nations_and_the_Flagpole%2C_Dushanbe%2C_Tajikistan.JPG)
 
 ![[Carte_Douchanbé.png]]

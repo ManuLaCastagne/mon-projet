@@ -18,8 +18,9 @@ indice_5 :
   - Bataille de Fontenoy-en-Puisaye
 indice_6 : 
   - Père de Louis le Germanique
+culture_g_score: 67
+culture_g_justification: "Louis le Pieux est important pour la succession de Charlemagne et les divisions carolingiennes, mais reste moins connu du grand public."
 ---
-
 ![Image de Louis Ier le Pieux](https://upload.wikimedia.org/wikipedia/commons/c/ce/Louis_Ier_le_Pieux.gif)
 
 ###### Questions

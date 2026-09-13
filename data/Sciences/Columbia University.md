@@ -18,8 +18,9 @@ indice_5 :
   - Goddard Institute
 indice_6 : 
   - Lamont-Doherty Earth Observatory
+culture_g_score: 72
+culture_g_justification: "Columbia est une université américaine prestigieuse, utile pour des questions sur l’enseignement supérieur, les sciences et New York."
 ---
-
 ![Image de Columbia University](https://upload.wikimedia.org/wikipedia/commons/4/45/British_Columbia_Parliament_Building_in_Victoria%2C_British_Columbia%2C_Canada_07.jpg)
 
 ###### Questions

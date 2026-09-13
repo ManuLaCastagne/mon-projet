@@ -20,8 +20,9 @@ indice_5:
   - ski alpin
 indice_6:
   - patinage artistique
+culture_g_score: 60
+culture_g_justification: "Jeux d'hiver importants pour le sport français et Jean-Claude Killy, mais l'édition demeure un sujet événementiel relativement circonscrit."
 ---
-
 ![Image de Grenoble 1968](https://upload.wikimedia.org/wikipedia/commons/c/cc/1968_Winter_olympics_team.png)
 
 ###### Questions

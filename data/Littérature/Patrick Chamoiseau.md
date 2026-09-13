@@ -22,6 +22,8 @@ indice_6 :
   - Écriture antillaise
 questions:
  - En 2021, quel écrivain, prix Goncourt en 1992 pour son roman "Texaco",  explore la tradition des conteurs antillais dans son essai... ?
+culture_g_score: 67
+culture_g_justification: "Écrivain majeur de la littérature antillaise, utile pour le Goncourt, la créolité, la mémoire et l’histoire coloniale."
 ---
 
 ![Image de Patrick Chamoiseau](https://upload.wikimedia.org/wikipedia/commons/1/19/Patrick_Chamoiseau%282%29.jpg)
@@ -30,7 +32,7 @@ questions:
 
 Quel écrivain martiniquais a remporté le [[Prix Goncourt]] en 1992 pour son roman "[[Texaco]]" ?
 
-Quel auteur est connu pour être une figure majeure du mouvement [[Créolité]], aux côtés de [[Raphaël Confiant]] et [[Jean Bernabé]], ayant contribué à l'essai-manifeste "[[Éloge de la créolité]]" publié en 1989 ?
+Quel auteur est connu pour être une figure majeure du mouvement [[Créolité]], aux côtés de [[Raphaël Confiant]] et [[Jean Bernabé]], ayant contribué à l'essai-manifeste "[[Éloge de la créolité]]" publié en 1989 ? <!-- score: 3 -->
 
 Quel écrivain a participé au projet initié par l'éditeur [[Actes Sud]] en 2008, qui visait à célébrer l'anniversaire de l'abolition de l'esclavage avec l'ouvrage "[[Les Neuf Consciences du Malfini]]" ?
 

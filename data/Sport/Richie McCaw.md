@@ -20,8 +20,9 @@ indice_6 :
   - Crusaders
 questions:
  - En 2011, lors du Mondial de rugby à XV, quel capitaine de la sélection néo-zélandaise devient le 1er All Black à atteindre les 100...
+culture_g_score: 80
+culture_g_justification: "Légende des All Blacks et double champion du monde, régulièrement interrogée sur le rugby international et ses records."
 ---
-
 ![Image de Richie McCaw](https://upload.wikimedia.org/wikipedia/commons/0/00/Richie_McCaw_ONZ_%28cropped%29.jpg)
 
 ###### Questions

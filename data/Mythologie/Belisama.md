@@ -18,11 +18,9 @@ indice_6:
   - vénérée en Gaule
 questions:
   - Quel nom porte la déesse du Feu et de la Forge du panthéon celtique?
+culture_g_score: 24
+culture_g_justification: "Divinité gauloise attestée par quelques inscriptions, mais trop obscure et spécialisée pour une priorité d’apprentissage."
 ---
-
-
-
-
 ![Image de Belisama](https://upload.wikimedia.org/wikipedia/commons/a/ad/D%C3%A9dicace_de_Segomaros_%28inscription_gallo-grecque%29.png)
 
 ###### Questions

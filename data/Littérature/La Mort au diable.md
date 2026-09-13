@@ -22,8 +22,9 @@ indice_6 :
   - signature en sang
 questions:
  - En 1846, dans quel roman de George Sand le laboureur Germain accompagne-t-il une jeune paysanne dans un village voisin ?
+culture_g_score: 20
+culture_g_justification: "Œuvre de Pierre Mac Orlan très obscure, qui ne fournit pratiquement qu’une question bibliographique spécialisée."
 ---
-
 ![Image de La Mort au diable](https://upload.wikimedia.org/wikipedia/commons/1/17/La_mort_Saint-Innocent_Louvre_R.F.2625.jpg)
 
 ###### Questions

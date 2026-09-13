@@ -6,6 +6,8 @@ tags:
   - États-Unis
   - France
 date: 1955
+culture_g_score: 48
+culture_g_justification: "Objet quotidien très familier, mais les questions de culture générale portent rarement sur son histoire ou son fonctionnement précis."
 ---
 ###### Questions 
 

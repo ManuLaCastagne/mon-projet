@@ -22,8 +22,9 @@ indice_6 :
   - Walk the Line
 questions:
  - En 2019, quel acteur américain a perdu plus de 20 kg pour incarner le rôle-titre du film "Joker"?
+culture_g_score: 80
+culture_g_justification: "Ses rôles dans Gladiator et Joker, ses Oscars et ses collaborations offrent à Joaquin Phoenix de nombreux angles de questions cinématographiques."
 ---
-
 ![Image de Joaquin Phoenix](https://upload.wikimedia.org/wikipedia/commons/d/dc/Joaquin_Phoenix-64908_%28cropped%29.jpg)
 
 ###### Questions

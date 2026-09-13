@@ -18,9 +18,9 @@ indice_5 :
   - femme en tablier
 indice_6 : 
   - maison rurale américaine
+culture_g_score: 77
+culture_g_justification: "Icône de la peinture américaine, souvent interrogée pour son auteur, sa composition, ses parodies et son contexte culturel."
 ---
-
-
 ![Image de American Gothic](https://upload.wikimedia.org/wikipedia/commons/7/71/Grant_DeVolson_Wood_-_American_Gothic.jpg)
 
 ###### Questions

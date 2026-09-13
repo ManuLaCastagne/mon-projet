@@ -22,8 +22,9 @@ indice_6 :
   - Protagonistes féminines puissantes
 questions:
  - En 2014, à quelle cinéaste, ayant notamment réalisé les films "36 Fillette" et "Romance", doit-on celui intitulé "Abus de faiblesse"?
+culture_g_score: 63
+culture_g_justification: "Réalisatrice française singulière, utile pour le cinéma d’auteur, la représentation de la sexualité et plusieurs œuvres controversées, mais peu grand public."
 ---
-
 ![Image de Catherine Breillat](https://upload.wikimedia.org/wikipedia/commons/9/94/Catherine_Breillat_in_2023_%28cropped%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Nuages
 questions:
  - Quelle couche de l'atmosphère siège de la majorité des phénomènes météorologiques est la plus proche de la Terre ?
+culture_g_score: 80
+culture_g_justification: "Couche atmosphérique fondamentale, très rentable pour les questions de météorologie, de climat, d'aviation et de structure de l'atmosphère."
 ---
-
 ![Image de Troposphère](https://upload.wikimedia.org/wikipedia/commons/3/35/Troposphere_CIMG1853.JPG)
 
 ###### Questions

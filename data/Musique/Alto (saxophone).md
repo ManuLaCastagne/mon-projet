@@ -22,8 +22,9 @@ indice_6 :
   - improvisation
 questions:
  - De quel type de saxophone le plus utilisé, dont la tonalité est en mi bémol, Lee Konitz, était un virtuose ?
+culture_g_score: 48
+culture_g_justification: "Le saxophone alto permet des questions d’instrumentation et de jazz, mais demeure une sous-catégorie relativement spécialisée."
 ---
-
 ![Image de Alto (saxophone)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Saksofon_altowy_Serie_III_GP_firmy_Selmer.jpg)
 
 ###### Questions

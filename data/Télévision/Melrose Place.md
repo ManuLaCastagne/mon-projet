@@ -18,8 +18,9 @@ indice_5 :
   - Spin-off de Beverly Hills
 indice_6 : 
   - Années 1990
+culture_g_score: 55
+culture_g_justification: "Série américaine populaire des années 1990, régulièrement identifiable mais moins incontournable que les grandes séries internationales."
 ---
-
 ![Image de Melrose Place](https://upload.wikimedia.org/wikipedia/commons/3/31/Melrose_Building_--_Houston.jpg)
 
 ###### Questions

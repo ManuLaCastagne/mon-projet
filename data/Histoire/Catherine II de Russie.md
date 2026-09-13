@@ -20,8 +20,9 @@ indice_6 :
   - modernisation de l'empire russe
 questions:
  - Impératrice de Russie ayant voulu régner en despote éclairé, comme on disait à l'époque.
+culture_g_score: 88
+culture_g_justification: "Impératrice russe majeure, reliée à l’expansion territoriale, aux Lumières, à la politique européenne et à la modernisation de la Russie."
 ---
-
 ![Image de Catherine II de Russie](https://upload.wikimedia.org/wikipedia/commons/4/44/Catherine_II%2C_Imp%C3%A9ratrice_de_Russie_CIPB1240.jpg)
 
 ###### Questions

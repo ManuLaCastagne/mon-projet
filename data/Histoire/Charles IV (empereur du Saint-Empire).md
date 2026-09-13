@@ -18,8 +18,9 @@ indice_5 :
   - Père de Venceslas IV
 indice_6 : 
   - Couronné roi des Romains en 1346
+culture_g_score: 67
+culture_g_justification: "Empereur important pour la Bulle d’or, Prague et l’histoire politique du Saint-Empire, mais peu familier au grand public."
 ---
-
 ![Image de Charles IV (empereur du Saint-Empire)](https://upload.wikimedia.org/wikipedia/commons/9/9b/20190816_Relief_with_emperor_Charles_IV%2C_West_facade_of_St._Vitus_Cathedral_1416_5336.jpg)
 
 ###### Questions

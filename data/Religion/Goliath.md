@@ -20,10 +20,9 @@ indice_6 :
   - Géant
 questions:
  - Personnage de la Bible originaire de Gat, j'apparais au chapitre 17 verset 4 du premier livre de Samuel. Guerrier philistin, je me présente pendant 40 jours dans la vallée du Térébinthe pour lancer un défi à l'armée commandée par Saul...
+culture_g_score: 77
+culture_g_justification: "Adversaire biblique universellement connu grâce au duel avec David, mais offrant surtout quelques angles autour de cet épisode."
 ---
-
-
-
 ![Image de Goliath](https://upload.wikimedia.org/wikipedia/commons/1/15/Goliath_Poldermolen.jpg)
 
 ###### Questions

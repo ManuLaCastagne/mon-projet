@@ -20,8 +20,9 @@ indice_6 :
   - Pépin le Bref
 questions:
  - A partir de 675, par quel qualificatif désobligeant...
+culture_g_score: 60
+culture_g_justification: "Notion récurrente de l’histoire mérovingienne et de l’ascension carolingienne, mais cantonnée à une période précise."
 ---
-
 ![Image de Rois fainéants](https://upload.wikimedia.org/wikipedia/commons/c/cd/H._Grobet_-_Les_rois_fain%C3%A9ants_%28670-752%29.jpg)
 
 ###### Questions

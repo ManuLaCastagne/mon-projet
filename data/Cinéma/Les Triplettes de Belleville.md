@@ -18,9 +18,9 @@ indice_5:
   - Tour de France
 indice_6:
   - Voiture à pédales
+culture_g_score: 60
+culture_g_justification: "Film d’animation français original et nommé aux Oscars, utile pour Sylvain Chomet, le Tour de France et son style visuel."
 ---
-
-
 ![Image de Les Triplettes de Belleville](https://upload.wikimedia.org/wikipedia/commons/e/ed/Les_Triplettes_en_habit_de_sc%C3%A8ne_pour_le_spectacle_musical_%22Les_Triplettes_de_Belleville_dans_Go_Ouest%22.jpg)
 
 ###### Questions

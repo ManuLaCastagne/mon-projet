@@ -15,8 +15,9 @@ indice_6 :
   - Animal ferronnier dans certaines cultures autochtones
 questions:
  - Quel singe d'Amérique à longue barbe, portant le même nom qu'un membre d'un ordre religieux, est également appelé saï?
+culture_g_score: 64
+culture_g_justification: "Singe connu pour son intelligence, ses outils et ses apparitions au cinéma, avec plusieurs angles mais une portée limitée."
 ---
-
 ![Image de Capucin](https://upload.wikimedia.org/wikipedia/commons/2/29/Trebic_jejkov_order_of_friars_minor_capuchin_stamp.svg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - 1971
 questions:
  - Comédie de 1971 dont la musique composée par Michel Polnareff s'inspire des musiques de western d'Ennio Morricone, j'ai notamment été tournée dans le palais de l'Alhambra à Grenade.
+culture_g_score: 80
+culture_g_justification: "Grande comédie française réunissant de Funès, Montand, Gérard Oury et Victor Hugo, avec de nombreuses entrées historiques et culturelles."
 ---
-
 ![Image de La Folie des grandeurs](https://upload.wikimedia.org/wikipedia/commons/b/b2/La_Folie_des_grandeurs_-_D%C3%A9coupage_des_prises_de_vue_-_Distribution.jpg)
 
 ###### Questions

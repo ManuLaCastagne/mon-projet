@@ -20,9 +20,9 @@ indice_5:
   - femme au foyer
 indice_6:
   - usine de parapluies
+culture_g_score: 60
+culture_g_justification: "Film de François Ozon régulièrement associé à Deneuve, Luchini, Depardieu et à l'émancipation féminine, sans être un classique incontournable."
 ---
-
-
 ![Image de Potiche](https://upload.wikimedia.org/wikipedia/commons/6/64/Trophy_Wife_performing.jpg)
 
 ###### Questions

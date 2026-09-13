@@ -20,8 +20,9 @@ indice_6 :
   - Industrie aérospatiale
 questions:
  - Quelles sont ces fibres  de 5 à 10 micromètres de diamètre, qui constituent un matériau composite ultraléger utilisé notamment dans l'industrie ?
+culture_g_score: 52
+culture_g_justification: "Matériau important dans l’aéronautique, le sport et l’automobile, mais rarement une réponse prioritaire des quiz généralistes."
 ---
-
 ![Image de Fibres de carbone](https://upload.wikimedia.org/wikipedia/commons/7/72/Production_fibres_carbone_par_pays.png)
 
 ###### Questions

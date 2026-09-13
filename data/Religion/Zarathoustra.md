@@ -18,13 +18,15 @@ indice_5 :
   - Perse antique
 indice_6 : 
   - Prophète iranien
+culture_g_score: 72
+culture_g_justification: "Fondateur du zoroastrisme et personnage de Nietzsche et de Richard Strauss, Zarathoustra possède plusieurs angles culturels distincts."
 ---
 
 ![Image de Zarathoustra](https://upload.wikimedia.org/wikipedia/commons/7/76/Zoroaster_1.jpg)
 
 ###### Questions
 
-Quel personnage historique est à l'origine du [[Zoroastrisme]], la religion qui a influencé des concepts tels que le bien et le mal, apparue vers le VIe siècle avant notre ère ?
+Quel personnage historique est à l'origine du [[Zoroastrisme]], la religion qui a influencé des concepts tels que le bien et le mal, apparue vers le VIe siècle avant notre ère ? <!-- score: 3 -->
 
 Quel prophète est au centre de l'hymne poétique "Ainsi parlait [[Zarathoustra]]", qui a aussi inspiré le compositeur [[Richard Strauss]] en 1896 ?
 

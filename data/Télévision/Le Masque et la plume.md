@@ -20,8 +20,9 @@ indice_6 :
   - programme lancé en 1955
 questions:
  - De quelle émission de critique littéraire, théâtrale et cinématographique, la plus ancienne de la radio française sont tirées ces quelques notes de "La Fileuse", une des "Romances sans paroles" composée par Felix Mendelssohn ?
+culture_g_score: 68
+culture_g_justification: "Émission culturelle ancienne et durable, offrant des liens rentables avec la radio, la littérature, le cinéma, le théâtre et ses critiques."
 ---
-
 ![Image de Le Masque et la plume](https://upload.wikimedia.org/wikipedia/commons/0/06/Le_Masque_et_la_Plume_cin%C3%A9ma.JPG)
 
 ###### Questions

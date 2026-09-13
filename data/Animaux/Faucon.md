@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la vitesse
 questions:
  - Après avoir repéré une proie grâce à son regard perçant, quel rapace, de l'espèce dite pèlerin...
+culture_g_score: 80
+culture_g_justification: "Le faucon est une figure classique des quiz grâce à la vitesse du faucon pèlerin, la fauconnerie, les mythologies et les symboles de pouvoir."
 ---
-
 ![Image de Faucon](https://upload.wikimedia.org/wikipedia/commons/4/49/Faucon_%28Vaucluse%29.JPG)
 
 ###### Questions

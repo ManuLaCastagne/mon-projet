@@ -20,8 +20,9 @@ indice_6 :
   - O Liberté
 questions:
  - En 1793, quel Française monte sur l'échafaud en disant "Ô liberté, que de crimes on commet en ton nom" ?
+culture_g_score: 64
+culture_g_justification: "Madame Roland est une figure importante de la Révolution française, notamment pour les Girondins, les femmes en politique et la Terreur."
 ---
-
 ![Image de Madame Roland](https://upload.wikimedia.org/wikipedia/commons/0/09/Madame_Roland_-_mus%C3%A9e_Lambinet.jpg)
 
 ###### Questions

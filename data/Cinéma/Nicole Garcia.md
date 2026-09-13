@@ -22,8 +22,9 @@ indice_6 :
   - Comédienne à la Comédie-Française
 questions:
  - Quelle actrice, cinéaste, a réalisé le film en 2014 "Un beau dimanche", 10 ans après "Le Fils Préféré" ?
+culture_g_score: 52
+culture_g_justification: "Actrice et réalisatrice française reconnue, utile pour quelques questions sur le cinéma d’auteur et les César, sans être une référence majeure."
 ---
-
 ![Image de Nicole Garcia](https://upload.wikimedia.org/wikipedia/commons/5/51/Nicole_Garcia_2007.jpg)
 
 ###### Questions

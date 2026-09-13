@@ -20,8 +20,9 @@ indice_6 :
   - Bible
 questions:
  - Quel nom biblique, venant du nom du dieu philistin des mouches, désigne le diable ?
+culture_g_score: 64
+culture_g_justification: "Figure démoniaque célèbre dans la culture judéo-chrétienne, mais moins incontournable que les grandes figures bibliques et assez concentrée sur quelques traditions."
 ---
-
 ![Image de Belzébuth](https://upload.wikimedia.org/wikipedia/commons/e/e4/Ateles_belzebuth_belzebuth.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Les Chants de l'Expérience
 questions:
  - En 1794, quel artiste britannique, prénommé William, figure l'Eternel en vieillard assis sur un trône de feu dans une oeuvre illustrant un poème?
+culture_g_score: 71
+culture_g_justification: "Artiste et poète singulier, connu par plusieurs poèmes et recueils, mais davantage mobilisé dans les quiz anglophones que généralistes francophones."
 ---
-
 ![Image de William Blake](https://upload.wikimedia.org/wikipedia/commons/1/11/William_Blake_-_Sconfitta_-_Frontispiece_to_The_Song_of_Los.jpg)
 
 ###### Questions

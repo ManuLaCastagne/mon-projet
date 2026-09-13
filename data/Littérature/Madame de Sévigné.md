@@ -22,8 +22,9 @@ indice_6 :
   - relation mère-fille
 questions:
  - Au XVIIe, à quelle marquise doit-on de très nombreuses lettres écrites à sa fille, Madame de Grignan ?
+culture_g_score: 77
+culture_g_justification: "Épistolière emblématique du Grand Siècle, fréquemment interrogée à travers ses lettres, la cour de Louis XIV et sa relation avec sa fille."
 ---
-
 ![Image de Madame de Sévigné](https://upload.wikimedia.org/wikipedia/commons/8/85/Claude_Lef%C3%A8bvre_-_Marie_de_Rabutin-Chantal%2C_marquise_de_S%C3%A9vign%C3%A9_%281626-1696%29_-_La_marquise_de_S%C3%A9vign%C3%A9_-_mus%C3%A9e_Carnavalet.jpg)
 
 ###### Questions

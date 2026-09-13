@@ -20,8 +20,9 @@ indice_6 :
   - Sucres réducteurs
 questions:
  - Quel chimiste français a décrit, en 1912, les réactions chimiques responsables du brunissement des aliments lors de leur cuisson?
+culture_g_score: 61
+culture_g_justification: "Son nom est fortement associé au brunissement des aliments, notion fréquente et facilement réutilisable en chimie, cuisine et biologie."
 ---
-
 ![Image de Louis Camille Maillard](https://upload.wikimedia.org/wikipedia/commons/6/6b/Louis_Camille_Maillard.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - vengeance après la mort
 questions:
  - Dans Don Juan, quel personnage emmène le héros dans les enfers ?
+culture_g_score: 68
+culture_g_justification: "Figure mémorable de Dom Juan, utile pour Molière, le mythe de Don Juan et le thème du châtiment surnaturel."
 ---
-
 ![Image de Statue du Commandeur](https://upload.wikimedia.org/wikipedia/commons/b/b2/La_statue_du_commandeur_-_pantomime_en_3_actes_%281892%29_%2814776059755%29.jpg)
 
 ###### Questions
@@ -42,4 +43,4 @@ Symbole de justice divine et de châtiment inexorable, cette statue prend vie po
 
 Fait étonnant, le rôle du [[Commandeur]] a souvent été interprété par des acteurs munis de mécanismes cachés permettant de faire bouger la statue, un exploit innovant pour l'époque qui a surpris et souvent terrifié les spectateurs du XVIIe siècle. 
 
-Ce personnage a inspiré de nombreuses adaptations et réinterprétations, influençant même [[Mozart]] qui intègre sa propre version dans l'opéra "Don Giovanni" en 1787, renforçant ainsi le mythe de la vengeance post-mortem à travers les siècles.
+Ce personnage a inspiré de nombreuses adaptations et réinterprétations, influençant même [[Wolfgang Amadeus Mozart]] qui intègre sa propre version dans l'opéra "Don Giovanni" en 1787, renforçant ainsi le mythe de la vengeance post-mortem à travers les siècles.

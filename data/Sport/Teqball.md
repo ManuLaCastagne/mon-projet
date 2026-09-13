@@ -20,8 +20,9 @@ indice_6 :
   - Sport mixant tennis et football
 questions:
  - Quel nom porte ce nouveau sport  à mi-chemin entre le foot et le ping-pong ?
+culture_g_score: 23
+culture_g_justification: "Discipline récente et originale, mais encore trop peu installée dans la culture générale et les quiz généralistes."
 ---
-
 ![Image de Teqball](https://upload.wikimedia.org/wikipedia/commons/2/2c/Teqball_table.png)
 
 ###### Questions

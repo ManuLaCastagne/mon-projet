@@ -1,28 +1,29 @@
 ---
-tags: 
+tags:
   - Art
   - Paris
   - Années_1930
   - XXe
-  - QRDLL
 date:
   - 1908/02/29
 debut: 1908
 fin: 2001
-indice_1 : 
+indice_1:
   - Peintre franco-polonais
-indice_2 : 
+indice_2:
   - Le Roi des chats
-indice_3 : 
+indice_3:
   - Thérèse rêvant
-indice_4 : 
+indice_4:
   - Atmosphère énigmatique
-indice_5 : 
+indice_5:
   - Influence du surréalisme
-indice_6 : 
+indice_6:
   - Inspiration néoclassique
 questions:
- - Quel peintre disparu en 2001 en Suisse, de son vrai nom Balthazar Klosowski de Rolla ?
+  - Quel peintre disparu en 2001 en Suisse, de son vrai nom Balthazar Klosowski de Rolla ?
+culture_g_score: 51
+culture_g_justification: Peintre au style singulier et à la trajectoire institutionnelle notable, mais assez peu fréquent hors des quiz d’histoire de l’art.
 ---
 
 
@@ -30,12 +31,9 @@ questions:
 
 ###### Questions
 
-Quel peintre, né en 1908, est connu pour son style énigmatique et a été influencé par le surréalisme tout en refusant d'être catégorisé comme tel ? <!-- score: 4 -->
-
 Quel artiste a peint "La Rue" en 1933, une œuvre souvent discutée pour sa représentation des passants anonymes dans un paysage urbain inquiétant ? 
 
 Quel peintre français-helvético-polonais a été nommé directeur de la [[Villa Médicis]] à Rome en 1961 par [[André Malraux]] ?
-
 ###### Description
 
 [[Balthus]], de son nom complet [[Balthasar Klossowski de Rola]], est un peintre d'origine franco-polonaise né le 29 février 1908 à [[Paris]]. 

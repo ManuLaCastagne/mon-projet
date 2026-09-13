@@ -22,8 +22,9 @@ indice_6 :
   - ancien militaire
 questions:
  - En 1962, quel romancier, qui se décrivait comme "un écrivain bilingue  français-argot" publie "La Métamorphose des cloportes"?
+culture_g_score: 40
+culture_g_justification: "Écrivain français lié aux récits populaires et policiers, Boudard demeure une connaissance littéraire secondaire."
 ---
-
 ![Image de Alphonse Boudard](https://upload.wikimedia.org/wikipedia/commons/e/e2/Alphonse_Boudard.JPG)
 
 ###### Questions

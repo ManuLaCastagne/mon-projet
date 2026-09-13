@@ -22,9 +22,9 @@ indice_6 :
   - Frank Morris
 questions:
  - En 1979, dans quel film de Tom Siegel Clint Esatwood joue-t-il le rôle d'un prisonnier enfermé dans une célèbre prison de Californie ?
+culture_g_score: 80
+culture_g_justification: "Film célèbre fondé sur une évasion réelle, avec Clint Eastwood, Alcatraz, Don Siegel et plusieurs angles historiques et cinématographiques."
 ---
-
-
 ![Image de L'Évadé d'Alcatraz](https://upload.wikimedia.org/wikipedia/commons/a/a7/Escape_from_Alcatraz_%28530493283%29.jpg)
 
 ###### Questions

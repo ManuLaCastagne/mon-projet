@@ -20,8 +20,9 @@ indice_6 :
   - Ave Maria
 questions:
  - Quel terme de 12 lettres désigne toute oeuvre d'art figurant le message de l'Ange Gabriel révélant à la Vierge qu'elle serait mère de Jésus ?
+culture_g_score: 84
+culture_g_justification: "Épisode chrétien et thème majeur de la peinture religieuse, l'Annonciation offre des entrées bibliques, liturgiques et artistiques."
 ---
-
 ![Image de L'Annonciation](https://upload.wikimedia.org/wikipedia/commons/5/53/Cath%C3%A9drale_Notre-Dame-de-l%27Annonciation_de_Nancy_-_Dome.jpg)
 
 ###### Questions

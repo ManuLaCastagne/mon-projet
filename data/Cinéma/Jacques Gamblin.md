@@ -20,8 +20,9 @@ indice_5:
   - prix Lumières
 indice_6:
   - Un Petit Boulot
+culture_g_score: 44
+culture_g_justification: "Acteur français estimé et présent dans plusieurs films connus, mais rarement une réponse prioritaire hors du cinéma français contemporain."
 ---
-
 ![Image de Jacques Gamblin](https://upload.wikimedia.org/wikipedia/commons/3/32/Jacques_Gamblin_Moli%C3%A8res_2018.jpg)
 
 ###### Questions

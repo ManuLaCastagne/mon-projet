@@ -16,13 +16,14 @@ indice_6 :
   - Charpenterie
 ---
 
+
 ![Image de Iroko](https://upload.wikimedia.org/wikipedia/commons/9/90/Iroko_Holz.JPG)
 
 ###### Questions
 
 Quel type de bois est souvent utilisé dans la construction navale en raison de sa résistance à la pourriture et aux insectes, et qui provient de l’arbre [[Milicia excelsa]] en [[Afrique de l’Ouest]] ?
 
-Comment appelle-t-on le bois provenant d'un arbre tropical spécifiquement cultivé pour produire un matériau similaire au [[teck]] ?
+Comment appelle-t-on le bois provenant d'un arbre tropical spécifiquement cultivé pour produire un matériau similaire au [[teck]] ? <!-- score: 4 -->
 
 Quel arbre est surnommé "la [[Forêt debout]]" dans plusieurs cultures ouest-africaines et est utilisé en menuiserie pour sa durabilité ?
 

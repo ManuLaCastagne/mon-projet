@@ -18,9 +18,9 @@ indice_6 :
   - mère d'Héphaïstos
 questions:
  - Quelle déesse, fille de Cronos et de Rhéa, a été suspendue au-dessus des nuages par son mari, Zeus, qui lui a lié les mains et les pieds?
+culture_g_score: 72
+culture_g_justification: "Reine des dieux et épouse de Zeus, Héra revient dans les récits olympiens, la guerre de Troie et les mythes de jalousie divine."
 ---
-
-
 ![Image de Héra](https://upload.wikimedia.org/wikipedia/commons/6/68/Hera_spacecraft_design.jpg)
 
 ###### Questions

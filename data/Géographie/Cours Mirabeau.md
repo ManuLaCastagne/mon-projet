@@ -23,9 +23,9 @@ indice_6:
   - Art de vivre Provençal
 questions:
   - A Aix-en-Provence, quelle avenue…
+culture_g_score: 60
+culture_g_justification: "Artère emblématique d’Aix-en-Provence, utile pour le patrimoine urbain, les fontaines et l’histoire locale, mais d’audience limitée."
 ---
-
-
 ![Image de Cours Mirabeau](https://upload.wikimedia.org/wikipedia/commons/2/22/Cours_Mirabeau_Nuit_D%C3%A9cembre.jpg)
 
 ![[Carte_Cours Mirabeau.png]]

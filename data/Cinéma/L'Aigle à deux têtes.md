@@ -22,8 +22,9 @@ indice_6 :
   - Reine
 questions:
  - 1948. Film de J. Cocteau où une reine veuve jouée par E. Feuillère aime un anarchiste ?
+culture_g_score: 40
+culture_g_justification: "Œuvre de Jean Cocteau utile pour le cinéma français, mais nettement moins fréquente que ses références les plus célèbres."
 ---
-
 ![Image de L'Aigle à deux têtes](https://upload.wikimedia.org/wikipedia/commons/b/bb/Recueil._%22L%27aigle_%C3%A0_deux_t%C3%AAtes%22_de_Jean_Cocteau_-_btv1b10521387k_%28004_of_161%29.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - situé en France
 questions:
  - Au pied de quel pic des Pyrénées les stations de ski de la Mongie et de Barèges sont-elles situées ?
+culture_g_score: 60
+culture_g_justification: "Sommet pyrénéen connu pour son observatoire, l’astronomie et le téléphérique, avec plusieurs angles mais une portée limitée."
 ---
-
 ![Image de Pic du Midi](https://upload.wikimedia.org/wikipedia/commons/8/8f/Pic_du_Midi_de_Bigorre_cloudy_Wikimedia_Commons.jpg)
 
 ![[Carte_Pic du Midi.png]]

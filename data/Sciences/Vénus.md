@@ -20,8 +20,9 @@ indice_6 :
   - Magellan orbiter
 questions:
  - 1er astre à s'allumer le soir et dernier à s'éteindre le matin, je suis également connu sous le nom d'étoile du Berger, je suis…
+culture_g_score: 84
+culture_g_justification: "Planète très célèbre, associée à l’astronomie, à la mythologie, aux missions spatiales et à des caractéristiques physiques remarquables."
 ---
-
 ![Image de Vénus](https://upload.wikimedia.org/wikipedia/commons/8/85/Venus_globe.jpg)
 
 ###### Questions

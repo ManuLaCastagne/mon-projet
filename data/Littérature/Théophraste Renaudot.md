@@ -22,8 +22,9 @@ indice_6 :
   - Père du journalisme moderne
 questions:
  - Quel médecin et journaliste français, fondateur du journal "La Gazette" en 1631, a laissé son nom à un prix littéraire?
+culture_g_score: 68
+culture_g_justification: "Pionnier de la presse française, utile pour relier Gazette, journalisme, médecine, administration et histoire des petites annonces au XVIIe siècle."
 ---
-
 ![Image de Théophraste Renaudot](https://upload.wikimedia.org/wikipedia/commons/5/58/Theophraste_Renaudot.jpg)
 
 ###### Questions

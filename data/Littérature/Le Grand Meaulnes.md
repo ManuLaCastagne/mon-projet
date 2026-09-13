@@ -19,8 +19,9 @@ indice_5:
   - Fête mystérieuse
 indice_6:
   - Adolescence et quête d'absolu
+culture_g_score: 68
+culture_g_justification: "Grand classique scolaire de la littérature française, souvent associé à Alain-Fournier et à son atmosphère onirique, mais peu transversal hors littérature."
 ---
-
 ![Image de Le Grand Meaulnes](https://upload.wikimedia.org/wikipedia/commons/b/b0/Alain_Fournier.jpg)
 
 ###### Questions

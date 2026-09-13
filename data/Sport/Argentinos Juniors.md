@@ -20,8 +20,9 @@ indice_6 :
   - 1984 Champion d'Argentine
 questions:
  - En 1976, avec quel club de la capitale Argentine fait-il ses débuts professionnels 10 jours avant son 16e anniversaire ?
+culture_g_score: 60
+culture_g_justification: "Club argentin connu pour avoir formé Maradona et Riquelme, ce qui lui donne plusieurs entrées dans les questions de football."
 ---
-
 ![Image de Argentinos Juniors](https://upload.wikimedia.org/wikipedia/commons/b/bc/Fernando-Batista-Argentinos-Juniors.jpg)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - France 5
 indice_6 : 
   - chroniqueurs en plateau
+culture_g_score: 60
+culture_g_justification: "Rendez-vous quotidien très identifiable de la télévision française, avec des angles sur les animateurs, les invités et l’actualité."
 ---
-
 ![Image de C à vous](https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_C_%C3%A0_vous.svg)
 
 ###### Questions

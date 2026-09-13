@@ -22,9 +22,9 @@ indice_6 :
   - un faux Modigliani
 questions:
  - A racheter un authentique Modigliani, exécuté sur le dos d'un ancien légionnaire joué par Cinéma/Jean Gabin. Film de Denis de La Patellière, je suis...
+culture_g_score: 73
+culture_g_justification: "Comédie française populaire réunissant Gabin et de Funès, régulièrement utilisée pour des questions sur le duo et le cinéma français."
 ---
-
-
 ![Image de Le Tatoué](https://upload.wikimedia.org/wikipedia/commons/9/9e/Tatouage_d%27apr%C3%A8s_Modigliani%2C_Le_Tatou%C3%A9.png)
 
 ###### Questions

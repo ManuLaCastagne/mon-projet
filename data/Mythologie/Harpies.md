@@ -18,15 +18,9 @@ indice_6 :
   - griffes acérées
 questions:
  - Dans la [[mythologie grecque]], quelles divinités, mi-femmes mi-oiseaux...
+culture_g_score: 60
+culture_g_justification: "Créatures grecques reconnaissables et liées aux Argonautes, mais moins centrales que les monstres de l'Odyssée."
 ---
-
-
-
-
-
-
-
-
 ![Image de Harpies](https://upload.wikimedia.org/wikipedia/commons/0/02/Lampadaire_Staatsoper_Vienne.jpg)
 
 ###### Questions

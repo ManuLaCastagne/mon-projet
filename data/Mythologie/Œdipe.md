@@ -18,8 +18,9 @@ indice_6 :
   - énigme des pieds
 questions:
  - A sa naissance, quel fils de Laïos et de Jocaste a été abandonné sur le mont Cithéron après avoir eu les chevilles percées et liées avec une lanière?
+culture_g_score: 100
+culture_g_justification: "Œdipe est une référence majeure de la mythologie, du théâtre, de la psychanalyse et des expressions culturelles, avec de nombreux angles de quiz."
 ---
-
 ![Image de Œdipe](https://upload.wikimedia.org/wikipedia/commons/7/75/%C5%92dipe_d%27Enesco.jpg)
 
 ###### Questions

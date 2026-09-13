@@ -20,8 +20,9 @@ indice_6 :
   - capitaine de gendarmerie
 questions:
  - Série télévisée française dont le 1er épisode intitulé "Philippe Muir" a été diffusé en 2015, je confronte à chaque fois mon interprète principale à des acteurs invités tels que, en 2020, Edouard Baer et Virginie Ledoyen. Réalisée par Josée Dayan, je raconte les enquêtes...
+culture_g_score: 56
+culture_g_justification: "Série française populaire et identifiable, mais encore trop récente et centrée sur un personnage pour être très transversale."
 ---
-
 ![Image de Capitaine Marleau](https://upload.wikimedia.org/wikipedia/commons/2/26/Corinne_Masiero_Cabourg_2013.jpg)
 
 ###### Questions

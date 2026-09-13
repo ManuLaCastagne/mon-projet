@@ -15,8 +15,9 @@ indice_6 :
   - Bois utilisé pour la menuiserie et l'ébénisterie
 questions:
  - J'étais très répandu en France avant que mon espèce champêtre ne soit décimée par un champignon. Genre également appelé Ulmus...
+culture_g_score: 52
+culture_g_justification: "Arbre autrefois emblématique des paysages européens, intéressant pour le bois, l'histoire et l'écologie, mais aujourd'hui moins central."
 ---
-
 ![Image de Orme](https://upload.wikimedia.org/wikipedia/commons/4/41/Orme-Depot-SW-tn1.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - adaptations cinématographiques
 questions:
  - Quel écrivain américain, auteur en 1977 du roman d'horreur "Shining, l'enfant lumière", a publié l'ouvrage intitulé "Le Molosse surgi du soleil"?
+culture_g_score: 96
+culture_g_justification: "Auteur mondial de la littérature populaire, dont les pseudonymes, romans, adaptations et personnages fournissent d’innombrables questions."
 ---
-
 ![Image de Stephen King](https://upload.wikimedia.org/wikipedia/commons/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg)
 
 ###### Questions

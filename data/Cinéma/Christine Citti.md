@@ -22,8 +22,9 @@ indice_6 :
   - collaboration avec Agnès Jaoui et Jean-Pierre Bacri
 questions:
  - Dans les 2 premiers volets, quelle actrice, héroïne de la série "Les enquêtes d'Eloïse Rome", incarne Mme Chatel, la directrice du camping?
+culture_g_score: 27
+culture_g_justification: "Actrice française secondaire dont les questions portent surtout sur quelques rôles précis et peu récurrents."
 ---
-
 ![Image de Christine Citti](https://upload.wikimedia.org/wikipedia/commons/6/64/Christine_Citti_Deauville_2010.jpg)
 
 ###### Questions

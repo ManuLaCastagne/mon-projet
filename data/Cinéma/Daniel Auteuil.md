@@ -23,9 +23,9 @@ indice_6 :
   - acteur et réalisateur
 questions:
  - En 1992, quel acteur incarne un célibataire introverti qui séduit Emmanuelle Béart dans le film "Un coeur en hiver"?
+culture_g_score: 80
+culture_g_justification: "Acteur majeur du cinéma français, associé à Jean de Florette, Cyrano de Bergerac, La Fille sur le pont et de nombreux César."
 ---
-
-
 ![Image de Daniel Auteuil](https://upload.wikimedia.org/wikipedia/commons/b/b9/Daniel_Auteuil_C%C3%A9sar_2018.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - aménagement fonctionnel
 questions:
  - Partie d'une habitation dite du Grand Couvert au Château de Versailles, j'apparais sous le règne d'Henri II et connais un engouement dans les riches demeures. Servant de salle à manger, je constituais aussi une salle d'attente...
+culture_g_score: 32
+culture_g_justification: "L’antichambre est un terme architectural courant mais rarement le cœur d’une question de culture générale."
 ---
-
 ![Image de Antichambre](https://upload.wikimedia.org/wikipedia/commons/1/10/Ch%C3%A2teau_de_Versailles%2C_appartements_du_Dauphin_et_de_la_Dauphine%2C_seconde_antichambre_du_Dauphin%2C_chemin%C3%A9e.jpg)
 
 ###### Questions

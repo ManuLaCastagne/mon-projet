@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour l'huile, le bois et l'ornementation
 questions:
  - Gâteau sec, artisanal ou industriel, également connu sous le nom de prussien ou de coeur de France, je suis assez...
+culture_g_score: 84
+culture_g_justification: "Arbre-symbole des tropiques, des oasis et des paysages méditerranéens, relié aux dattes, à la noix de coco et à la géographie."
 ---
-
 ![Image de Palmier](https://upload.wikimedia.org/wikipedia/commons/f/fa/Palmier_bowl.jpg)
 
 ###### Questions

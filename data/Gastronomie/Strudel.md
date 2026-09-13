@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Autriche
+culture_g_score: 77
+culture_g_justification: "Dessert autrichien célèbre, immédiatement associé aux pommes, à la cannelle et à la culture viennoise."
 ---
 ###### Questions 
 

@@ -14,9 +14,9 @@ indice_5:
   - Rat d'égout
 indice_6:
   - Symbole de persistance
+culture_g_score: 44
+culture_g_justification: "Petit mammifère identifiable par son museau et son rythme cardiaque, mais principalement cantonné à des questions zoologiques spécialisées."
 ---
-
-
 ![Image de Musaraigne](https://upload.wikimedia.org/wikipedia/commons/1/1d/4_shrews.jpg)
 
 ###### Questions

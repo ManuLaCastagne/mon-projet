@@ -23,8 +23,9 @@ indice_6 :
   - acteur
 questions:
  - Auteur de  "L'Ombilic des limbes". J'ai incarné Marat dans "Napoléon"  d'Abel Gance.
+culture_g_score: 67
+culture_g_justification: "Théoricien majeur du théâtre moderne, mais relativement spécialisé malgré ses liens avec le surréalisme et l’avant-garde."
 ---
-
 ![Image de Antonin Artaud](https://upload.wikimedia.org/wikipedia/commons/7/7a/Antonin_Artaud_1926.jpg)
 
 ###### Questions

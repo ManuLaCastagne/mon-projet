@@ -18,9 +18,9 @@ indice_5:
   - Collaborateur de longue date de France 3
 indice_6:
   - Président de la Ligue pour la protection des oiseaux
+culture_g_score: 60
+culture_g_justification: "Journaliste et défenseur français de la cause animale, régulièrement associé à la télévision animalière et à la LPO."
 ---
-
-
 ![Image de Allain Bougrain-Dubourg](https://upload.wikimedia.org/wikipedia/commons/9/98/Allain_Bougrain-Dubourg%2C_2012_%28cropped%29.jpg)
 
 ###### Questions

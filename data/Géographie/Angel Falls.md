@@ -24,8 +24,9 @@ indice_6 :
   - chute d'eau
 questions:
  - Au Venezuela, quelles chutes d'eau, les plus hautes...
+culture_g_score: 57
+culture_g_justification: "Plus haute chute du monde, régulièrement utilisée comme record géographique et repère vénézuélien, malgré une transversalité limitée."
 ---
-
 ![Image de Angel Falls](https://upload.wikimedia.org/wikipedia/commons/1/19/Salto_Angel_Dry_Season.jpg)
 
 ![[Carte_Angel Falls.png]]

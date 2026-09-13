@@ -23,8 +23,9 @@ indice_6 :
   - influences de la danse classique et moderne
 questions:
  - Quel danseur et chorégraphe français d'origine albanaise fonde sa compagnie en 1984, installée à Aix-en-Provence depuis 1996 ?
+culture_g_score: 47
+culture_g_justification: "Chorégraphe contemporain reconnu, surtout exploitable dans des questions ciblées sur la danse française et les collaborations artistiques."
 ---
-
 ![Image de Angelin Preljocaj](https://upload.wikimedia.org/wikipedia/commons/b/bb/Angelin_Preljocaj_-_2002.jpeg)
 
 ###### Questions

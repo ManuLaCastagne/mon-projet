@@ -20,8 +20,9 @@ indice_6 :
   - séquestrée pendant plus de six ans
 questions:
  - Quelle femme politique franco-colombienne, longtemps détenue par les FARC...
+culture_g_score: 64
+culture_g_justification: "Son enlèvement par les FARC est un épisode médiatisé de l’histoire contemporaine franco-colombienne, mais ses autres usages en quiz restent limités."
 ---
-
 ![Image de Ingrid Betancourt](https://upload.wikimedia.org/wikipedia/commons/d/d8/%C3%8Dngrid_Betancourt_%282014%29_%28cropped%29.jpg)
 
 ###### Questions

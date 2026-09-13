@@ -15,8 +15,9 @@ indice_6 :
   - Sujet de légendes de pêche
 questions:
  - Quel poisson originaire d'Europe orientale abusivement appelé poisson-chat peut atteindre 100 kg ?
+culture_g_score: 60
+culture_g_justification: "Très grand poisson d’eau douce régulièrement évoqué pour sa taille, ses introductions et ses comportements étonnants."
 ---
-
 ![Image de Silure](https://upload.wikimedia.org/wikipedia/commons/7/75/Clarias_gariepinus.jpg)
 
 ###### Questions

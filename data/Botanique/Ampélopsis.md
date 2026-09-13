@@ -15,8 +15,9 @@ indice_6 :
   - Ornementation des façades et pergolas
 questions:
  - Quelle plante grimpante de la famille des vitacées se distingue par son feuillage qui vire au rouge à l'automne?
+culture_g_score: 11
+culture_g_justification: "Plante grimpante ornementale de niche, très rarement présente dans les quiz de culture générale."
 ---
-
 ![Image de Ampélopsis](https://upload.wikimedia.org/wikipedia/commons/7/7f/Ampelopsis_brevipedunculata.jpg)
 
 ###### Questions

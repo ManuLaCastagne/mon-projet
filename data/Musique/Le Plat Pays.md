@@ -20,9 +20,9 @@ indice_5:
   - gaufres
 indice_6:
   - bière belge
+culture_g_score: 77
+culture_g_justification: "Grand classique de Brel, particulièrement utile pour relier chanson française, Belgique, poésie et adaptations internationales."
 ---
-
-
 ![Image de Plat Pays](https://upload.wikimedia.org/wikipedia/commons/c/c1/Jacques_Brel_%281962%29.jpg)
 
 ###### Questions

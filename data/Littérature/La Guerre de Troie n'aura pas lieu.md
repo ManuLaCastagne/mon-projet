@@ -22,8 +22,9 @@ indice_6 :
   - pièce de théâtre
 questions:
  - En 1935, quelle pièce de théâtre de Jean Giraudoux inspirée par la guerre de Troie montre les efforts désespérés pour éviter la guerre ?
+culture_g_score: 80
+culture_g_justification: "Pièce majeure de Giraudoux, elle croise théâtre, mythologie grecque, pacifisme et contexte de l’avant-guerre."
 ---
-
 ![Image de La Guerre de Troie n'aura pas lieu](https://upload.wikimedia.org/wikipedia/commons/3/3e/Giraudoux_-_La_guerre_de_Troie_n%E2%80%99aura_pas_lieu.djvu)
 
 ###### Questions

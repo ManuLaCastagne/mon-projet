@@ -18,8 +18,9 @@ indice_5 :
   - Anémie ferriprive
 indice_6 : 
   - Rouille
+culture_g_score: 92
+culture_g_justification: "Élément majeur de la chimie, de la métallurgie, de la géologie, de l’histoire des civilisations et du fonctionnement terrestre."
 ---
-
 ![Image de Fer](https://upload.wikimedia.org/wikipedia/commons/f/f9/Fer_servadou_feuille.jpg)
 
 ###### Questions

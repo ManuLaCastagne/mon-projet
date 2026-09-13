@@ -20,9 +20,9 @@ indice_6 :
   - URL
 questions:
  - Me développant grâce à l'invention par V.Cerf et B.Khan du protocole IP, à la base de tout échange de données, je suis le réseau télématique mondial constitué de millions de réseaux.  Permettant de consulter des sites Web, je suis…
+culture_g_score: 100
+culture_g_justification: "Internet est une référence incontournable des quiz contemporains, à la fois technologique, historique, sociale, économique et culturelle."
 ---
-
-
 ![Image de Internet](https://upload.wikimedia.org/wikipedia/commons/0/0b/Internet-problems.svg)
 
 ###### Questions

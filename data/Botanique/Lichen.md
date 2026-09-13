@@ -15,8 +15,9 @@ indice_6:
   - Utilisation  bioindicateur de pollution et teinture
 questions:
   - Quel végétal, formé par la réunion d'un champignon et d'une algue, serait apparu il y a 400 millions...
+culture_g_score: 68
+culture_g_justification: "La symbiose champignon-algue, la résistance aux milieux extrêmes et les bioindications rendent le sujet très réutilisable."
 ---
-
 ![Image de Lichen](https://upload.wikimedia.org/wikipedia/commons/3/39/Haeckel_Lichenes.jpg)
 
 ###### Questions

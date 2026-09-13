@@ -20,8 +20,9 @@ indice_6 :
   - figure controversée
 questions:
  - Quel général et président du Mexique remporte la Bataille de Fort Alamo aux dépens des Texans ?
+culture_g_score: 68
+culture_g_justification: "Personnage central de l’histoire mexicaine, de l’indépendance du Texas et des relations avec les États-Unis, Santa Anna offre plusieurs angles classiques."
 ---
-
 ![Image de Antonio Lopez de Santa Anna](https://upload.wikimedia.org/wikipedia/commons/0/0c/Antonio_Lopez_de_Santa_Anna%2C_president_of_Mexico.jpg)
 
 ###### Questions

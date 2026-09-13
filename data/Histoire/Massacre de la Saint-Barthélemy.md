@@ -20,8 +20,9 @@ indice_6 :
   - Paris
 questions:
  - Air des "Huguenots" de Giacomo Meyerbeer. ...  Quelle voix! Waouh!  Ca va nous emmener ailleurs que dans la musique. C'est un air des "Huguenots" de G.Meyerbeer, un opéra de 1836 qui a influencé les plus grands compositeurs et qui a pour particularité de traiter d'un sujet historique. Quel épisode sanglant de l'histoire de France, qui coûta la vie à de nombreux protestants le 24 août 1572, sert de toile de fond à cet opéra?
+culture_g_score: 84
+culture_g_justification: "Événement central des guerres de Religion, relié aux Valois, aux Huguenots, à la Saint-Barthélemy et à Henri IV."
 ---
-
 ![Image de Massacre de la Saint-Barthélemy](https://upload.wikimedia.org/wikipedia/commons/2/28/Fran%C3%A7ois_Dubois_-_Massacre_de_la_Saint-Barth%C3%A9lemy_%28d%C3%A9tail%29.jpg)
 
 ###### Questions

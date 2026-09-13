@@ -24,8 +24,9 @@ indice_6 :
   - Rue des Dames
 questions:
  - Dans quel cimitère du 17ème de Paris reposent Ray Ventura ou André Breton ?
+culture_g_score: 40
+culture_g_justification: "Quartier parisien intéressant pour l’urbanisme et l’histoire locale, mais rarement indispensable dans un quiz généraliste."
 ---
-
 ![Image de Batignolles](https://upload.wikimedia.org/wikipedia/commons/d/db/Parc_Martin_Luther_King_%E2%80%93_Paris_17%E1%B5%89.jpg)
 
 ![[Carte_Batignolles.png]]

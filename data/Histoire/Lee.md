@@ -20,8 +20,9 @@ indice_6 :
   - Robert E. Lee
 questions:
  - En 1863, quel général américain chef des armées sudistes pendant la Guerre de Sécession est défait à Bataille de Gettysburg ?
+culture_g_score: 76
+culture_g_justification: "Robert E. Lee est une figure classique de la guerre de Sécession, mais ses angles restent principalement militaires et américains."
 ---
-
 ![Image de Lee](https://upload.wikimedia.org/wikipedia/commons/5/51/Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg)
 
 ###### Questions

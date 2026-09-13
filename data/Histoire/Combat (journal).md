@@ -20,9 +20,9 @@ indice_6 :
   - presse libre
 questions:
  - Quel journal, a été publié clandestinement à Lyon en 1944 après la libération de Paris, fondé par Albert Camus et Freynet ?
+culture_g_score: 64
+culture_g_justification: "Journal emblématique de la Résistance et de l’après-guerre, intéressant pour l’histoire politique et intellectuelle française mais assez spécialisé."
 ---
-
-
 ![Image de Combat (journal)](https://upload.wikimedia.org/wikipedia/commons/d/df/Journal_Combat_1943.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_6 :
   - équivalent de Pan
 questions:
  - Quel dieu romain, protecteur des bergers, et parfois qualifié de Lupercus car il a le pouvoir d'éloigner les loups des troupeaux?
+culture_g_score: 40
+culture_g_justification: "Divinité romaine secondaire, principalement connue par son rapprochement avec Pan et les Lupercales."
 ---
-
 ![Image de Faunus](https://upload.wikimedia.org/wikipedia/commons/1/11/Common_false_head_%28Oxylides_faunus_faunus%29_female.jpg)
 
 ###### Questions

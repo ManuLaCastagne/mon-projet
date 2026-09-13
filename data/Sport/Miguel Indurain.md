@@ -20,8 +20,9 @@ indice_6 :
   - Cinque Grandi Giro
 questions:
  - Quel cycliste espagnol a remporté 5 fois le Tour de France de suite entre 1991 et 1995 ?
+culture_g_score: 57
+culture_g_justification: "Ses cinq Tours de France consécutifs en font une référence classique du cyclisme, avec toutefois des angles assez concentrés."
 ---
-
 ![Image de Miguel Indurain](https://upload.wikimedia.org/wikipedia/commons/9/94/Miguel_Indurain_2.jpg)
 
 ###### Questions

@@ -19,8 +19,9 @@ indice_5 :
   - épreuves physiques
 indice_6 : 
   - équipe et stratégie
+culture_g_score: 24
+culture_g_justification: "Émission de téléréalité relativement spécialisée, dont les repères sont peu réutilisables en dehors de ce programme."
 ---
-
 ![Image de Les Apprentis Aventuriers](https://upload.wikimedia.org/wikipedia/commons/5/57/Les_Faussaires_contre_les_Soviets%2C_1926.djvu)
 
 ###### Questions

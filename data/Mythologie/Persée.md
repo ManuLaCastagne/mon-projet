@@ -18,8 +18,9 @@ indice_6 :
   - Zeus
 questions:
  - Dans son enfance, quel héros a été jeté à la mer dans un coffre de bronze avec sa mère Danaé...
+culture_g_score: 80
+culture_g_justification: "Héros grec associé à Méduse, Andromède, Danaé et Zeus, Persée offre plusieurs entrées classiques et revient régulièrement dans les quiz de mythologie."
 ---
-
 ![Image de Persée](https://upload.wikimedia.org/wikipedia/commons/b/bf/CollEx-Pers%C3%A9e_logo_2019.png)
 
 ###### Questions

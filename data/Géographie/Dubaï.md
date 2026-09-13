@@ -24,8 +24,9 @@ indice_6 :
   - shopping sur Sheikh Zayed Road
 questions:
  - Quel petit royaume de 3900 km2, faisant partie des Emirats arabes unis, abrite 3 îles artificielles en forme de palmier?
+culture_g_score: 84
+culture_g_justification: "Métropole mondialement célèbre pour ses gratte-ciel, ses projets urbains, son commerce et son rôle au Moyen-Orient, très rentable à apprendre."
 ---
-
 ![Image de Dubaï](https://upload.wikimedia.org/wikipedia/commons/8/86/DubaiCollage.jpg)
 
 ![[Carte_Dubaï.png]]

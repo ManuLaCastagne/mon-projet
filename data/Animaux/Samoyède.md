@@ -15,8 +15,9 @@ indice_6 :
   - Chien de traîneau
 questions:
  - Quel chien de traîneau à l'épaisse fourrure blanche doit son nom, d'origine russe, à un peuple des régions arctiques ?
+culture_g_score: 64
+culture_g_justification: "Race canine très reconnaissable, liée aux peuples sibériens, aux expéditions polaires et à la cynophilie."
 ---
-
 ![Image de Samoyède](https://upload.wikimedia.org/wikipedia/commons/9/9d/Samoyed_dog_two_year_old_female_dllu.jpg)
 
 ###### Questions

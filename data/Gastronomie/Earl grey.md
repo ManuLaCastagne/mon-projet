@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Chine
+culture_g_score: 73
+culture_g_justification: "Thé très célèbre, offrant des liens fréquents avec la Grande-Bretagne, la bergamote et la culture des boissons."
 ---
 ###### Questions 
 

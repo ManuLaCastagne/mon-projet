@@ -20,8 +20,9 @@ indice_5:
   - Brian De Palma
 indice_6:
   - Sean Connery
+culture_g_score: 80
+culture_g_justification: "Classique policier très identifiable par De Palma, Al Capone, la Prohibition, Costner, Connery et sa scène de la gare."
 ---
-
 ![[Pasted image 20250402130507.png]]
 ###### Questions
 

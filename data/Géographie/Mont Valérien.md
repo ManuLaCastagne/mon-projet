@@ -22,8 +22,9 @@ indice_5 :
   - La Croix de Lorraine
 indice_6 : 
   - Location télévisée du plateau de Questions pour un Champion
+culture_g_score: 64
+culture_g_justification: "Lieu mémoriel important de la Résistance française, mais à dominante historique et géographique assez ciblée."
 ---
-
 ![[Carte_Mont Valérien.png]]
 
 ###### Questions

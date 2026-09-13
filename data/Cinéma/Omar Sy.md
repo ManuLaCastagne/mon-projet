@@ -20,8 +20,9 @@ indice_5 :
   - partenaire de Fred Testot
 indice_6 : 
   - doublage pour Jurassic World
+culture_g_score: 80
+culture_g_justification: "Acteur français extrêmement populaire grâce à Intouchables, à la télévision, au doublage et à sa carrière internationale, ce qui le rend très rentable."
 ---
-
 ![Image de Omar Sy](https://upload.wikimedia.org/wikipedia/commons/e/ee/Omar_Sy_%282020%29.jpg)
 
 ###### Questions

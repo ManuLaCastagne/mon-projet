@@ -20,9 +20,9 @@ indice_6 :
   - fin de la Guerre froide
 questions:
  - Favorisant l'émergence d'entreprises privées, je m'accompagne d'un volet politique visant à réduire la tutelle du Parti...
+culture_g_score: 93
+culture_g_justification: "Concept central des réformes de Gorbatchev, très fréquent et fortement relié à la guerre froide, à l’URSS et à sa dissolution."
 ---
-
-
 ![Image de Perestroïka](https://upload.wikimedia.org/wikipedia/commons/0/05/The_Soviet_Union_1988_CPA_5941_stamp_%28Perestroika_%28reformation%29._Workers_and_slogans_Speeding_Up%2C_Democratization._and_Glasnost_against_Kremlin_Palace._Cruiser_Aurora_and_revolutionary_soldiers%29.jpg)
 
 ###### Questions

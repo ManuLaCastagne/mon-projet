@@ -22,8 +22,9 @@ indice_6 :
   - vengeance
 questions:
  - En 1847, quel roman d'Emily Bronte se passe sur une lande…
+culture_g_score: 84
+culture_g_justification: "Classique mondial d’Emily Brontë, fréquemment interrogé par ses personnages, son intrigue, son autrice et son contexte victorien."
 ---
-
 ![Image de Les Hauts de Hurlevent](https://upload.wikimedia.org/wikipedia/commons/9/93/Recueil._%22Les_hauts_de_Hurlevent%22_film_de_William_Wyler_d%27apr%C3%A8s_Emily_Bront%C3%AB_-_btv1b10508097n_%2818_of_64%29.jpg)
 
 ###### Questions

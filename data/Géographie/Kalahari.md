@@ -22,8 +22,9 @@ indice_5:
   - San Bushmen
 indice_6:
   - Okavango Delta
+culture_g_score: 77
+culture_g_justification: "Désert africain classique des quiz, associé aux San, à l’Afrique australe, à la faune et aux explorations."
 ---
-
 ![Image de Kalahari](https://upload.wikimedia.org/wikipedia/commons/5/5b/Nama_Woman_Smoking_Kalahari_Desert_Namibia_Luca_Galuzzi_2004.JPG)
 
 ![[Carte_Kalahari.png]]

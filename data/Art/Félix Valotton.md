@@ -21,9 +21,9 @@ indice_5:
   - maître de la gravure sur bois
 indice_6:
   - Intimités
+culture_g_score: 47
+culture_g_justification: "Vallotton est un artiste important des Nabis et de la gravure moderne, mais son apparition demeure occasionnelle."
 ---
-
-
 ![Image de Félix Valotton](https://upload.wikimedia.org/wikipedia/commons/3/3a/Vallotton-Autoportrait.jpg)
 
 ###### Questions

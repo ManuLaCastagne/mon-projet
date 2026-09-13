@@ -22,8 +22,9 @@ indice_6 :
   - Eleven
 questions:
  - Dans quelle série américaine, avec Winona Ryder, lancée en...
+culture_g_score: 76
+culture_g_justification: "Série populaire de Netflix, identifiable par les années 1980, le Monde à l’envers, ses personnages et ses références culturelles."
 ---
-
 ![Image de Stranger Things](https://upload.wikimedia.org/wikipedia/commons/9/91/Stranger_Things_Logo_UBX.jpg)
 
 ###### Questions

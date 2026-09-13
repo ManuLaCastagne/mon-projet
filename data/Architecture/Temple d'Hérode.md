@@ -20,8 +20,9 @@ indice_5:
   - Roi Hérode
 indice_6:
   - Sacrifice rituel
+culture_g_score: 84
+culture_g_justification: "Édifice central de l’histoire biblique et juive, fréquemment relié à Hérode, Jérusalem, l’Empire romain et sa destruction en 70."
 ---
-
 ![Image de Temple d'Hérode](https://upload.wikimedia.org/wikipedia/commons/0/0c/Brooklyn_Museum_-_Reconstruction_of_the_Temple_of_Herod_Southeast_Corner_%28Reconstitution_du_temple_d%27H%C3%A9rode._Angle_sud-est.%29_-_James_Tissot.jpg)
 
 ###### Questions

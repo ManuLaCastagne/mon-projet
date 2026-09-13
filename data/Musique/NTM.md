@@ -22,8 +22,9 @@ indice_6 :
   - 1991
 questions:
  - Un album génial, fondateur du rap en France. Groupe de rap formé par Didier  Morville, alias JoeyStarr, Bruno Lopes, alias Kool Shen, je suis…
+culture_g_score: 77
+culture_g_justification: "Groupe fondateur du rap français, associé à des albums, polémiques, membres et à l’histoire culturelle de la banlieue."
 ---
-
 ![Image de NTM](https://upload.wikimedia.org/wikipedia/commons/e/e0/Supr%C3%AAme_NTM_2008.jpg)
 
 ###### Questions

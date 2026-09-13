@@ -18,10 +18,9 @@ indice_6 :
   - île grecque
 questions:
  - Quelle île, constituant son royaume, Ulysse a-t-il retrouvée 20 ans après son voyage ?
+culture_g_score: 80
+culture_g_justification: "Ithaque est une référence classique de l’Odyssée et d’Ulysse, avec des liens solides entre littérature antique, géographie et mythologie."
 ---
-
-
-
 ![Image de Ithaque](https://upload.wikimedia.org/wikipedia/commons/e/ea/Monnaie_-_Bronze%2C_Ithaque%2C_%C3%89lide%2C_Ithaque_-_btv1b11354313j_%281_of_2%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Jeux de société
 questions:
  - Qui a écrit "Jeux de Société" en 1988 excelle dans la satire joyeuse ?
+culture_g_score: 51
+culture_g_justification: "Romancier britannique reconnu pour ses satires universitaires, mais rarement incontournable hors des questions littéraires spécialisées."
 ---
-
 ![Image de David Lodge](https://upload.wikimedia.org/wikipedia/commons/f/f7/David_Marshall_Lodge_-_geograph.org.uk_-_919408.jpg)
 
 ###### Questions

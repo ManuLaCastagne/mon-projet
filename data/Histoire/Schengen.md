@@ -20,9 +20,9 @@ indice_6 :
   - Luxembourg
 questions:
  - En 1985 puis en 1990, quels accords internationaux sont signés en vue de créer un espace de libre circulation sans...
+culture_g_score: 77
+culture_g_justification: "Accord européen très classique, fréquemment associé à la libre circulation, aux frontières et à la construction européenne."
 ---
-
-
 ![Image de Schengen](https://upload.wikimedia.org/wikipedia/commons/c/ca/Schengen_%E2%80%93_ponton_depuis_pont_sur_Moselle.tif)
 
 ###### Questions

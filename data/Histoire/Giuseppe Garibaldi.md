@@ -20,8 +20,9 @@ indice_6 :
   - Unité italienne
 questions:
  - Lors d'une expédition menée en 1860, contre le royaume des Deux-Siciles, qui était le chef placé à la tête d'une troupe d'un millier de volontaires?
+culture_g_score: 80
+culture_g_justification: "Héros central de l'unification italienne, Garibaldi permet de répondre à des questions d'histoire politique, militaire, italienne et latino-américaine."
 ---
-
 ![Image de Giuseppe Garibaldi](https://upload.wikimedia.org/wikipedia/commons/d/da/Corso_Giuseppe_Garibaldi%2C_Barletta.jpg)
 
 ###### Questions

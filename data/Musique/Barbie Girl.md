@@ -22,8 +22,9 @@ indice_6 :
   - poupée iconique
 questions:
  - Accompagnée d'un clip kitsch, se déroulant autour d'une petite piscine ou dans une voiture rose, j'ai valu à l'époque, à mes interprètes scandinaves, des poursuites judiciaires...
+culture_g_score: 72
+culture_g_justification: "Tube mondial immédiatement identifiable, exploitable dans des questions sur la pop, Aqua, Mattel et les classements."
 ---
-
 ![Image de Barbie Girl](https://upload.wikimedia.org/wikipedia/commons/1/16/For_a_barbie_girl_in_a_barbie_world_%283735333583%29.jpg)
 
 ###### Questions

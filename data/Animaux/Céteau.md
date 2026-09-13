@@ -15,9 +15,9 @@ indice_6 :
   - Consommation culinaire
 questions:
  - Quelle petite sole allongée triangulaire de Gascogne est aussi appelée "langue d'avocat" ?
+culture_g_score: 23
+culture_g_justification: "Poisson plat régional et peu connu, essentiellement utile pour une question de gastronomie ou de faune du littoral atlantique."
 ---
-
-
 ![Image de Céteau](https://upload.wikimedia.org/wikipedia/commons/4/48/Dicologlossa_cuneata.JPG)
 
 ###### Questions

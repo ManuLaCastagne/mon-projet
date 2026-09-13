@@ -20,8 +20,9 @@ indice_6 :
   - assassinat en 1919
 questions:
  - En 1911, au Mexique, quel paysan indien entraîne les péons de l'Etat de Morelos dans la révolte armée avec le but de "restituer la terre à ses anciens possesseurs"?
+culture_g_score: 80
+culture_g_justification: "Icône de la Révolution mexicaine et des luttes agraires, fréquemment associée au Plan de Ayala et au slogan « Tierra y Libertad »."
 ---
-
 ![Image de Emiliano Zapata](https://upload.wikimedia.org/wikipedia/commons/2/2d/Emiliano_Zapata.tiff)
 
 ###### Questions

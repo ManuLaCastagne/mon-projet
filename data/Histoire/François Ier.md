@@ -20,8 +20,9 @@ indice_6 :
   - mécène de Léonard de Vinci
 questions:
  - Après avoir tenté de s'allier avec Henri VIII contre Charles Quint, quel roi de France vit ses deux souverains signer un traité contre lui ?
+culture_g_score: 100
+culture_g_justification: "Roi de la Renaissance française, incontournable pour Villers-Cotterêts, Pavie, Charles Quint, les arts et les relations internationales."
 ---
-
 ![Image de François Ier](https://upload.wikimedia.org/wikipedia/commons/8/87/Fran%C3%A7ois_Ier_Louvre.jpg)
 
 ###### Questions

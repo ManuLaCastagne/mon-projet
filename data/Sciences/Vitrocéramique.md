@@ -20,10 +20,9 @@ indice_6 :
   - Vitrocéramique
 questions:
  - Employé pour fabriquer des composants électroniques, des prothèses dentaires et des cocottes...
+culture_g_score: 45
+culture_g_justification: "Matériau assez connu grâce aux plaques de cuisson, mais encore peu fréquent dans les quiz généralistes."
 ---
-
-
-
 ![Image de Vitrocéramique](https://upload.wikimedia.org/wikipedia/commons/a/a6/Schott_Ceran_glass-ceramic_cooktop.jpg)
 
 ###### Questions

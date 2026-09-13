@@ -18,9 +18,9 @@ indice_6 :
   - Iliade
 questions:
  - Quelle épouse du roi Ménélas, enlevée par Mythologie/Pâris...
+culture_g_score: 80
+culture_g_justification: "Hélène de Troie est une figure mythologique très classique, mobilisable dans les questions sur la guerre de Troie, les héros grecs et la beauté légendaire."
 ---
-
-
 ![Image de Hélène](https://upload.wikimedia.org/wikipedia/commons/f/f9/H%C3%A9l%C3%A8ne_Dutrieu.jpg)
 
 ###### Questions

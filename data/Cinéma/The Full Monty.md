@@ -22,8 +22,9 @@ indice_6 :
   - années 1990
 questions:
  - Succès public de cette comédie sociale, dans la veine réaliste britannique, qui se déroule dans une ville industrielle sinistrée où 6 chômeurs décident de monter un spectacle de strip-tease Au début, tout le monde se moque d'eux et finalement... Inspiré des Chippendales.  Comédie de Peter Cattaneo avec Robert Carlyle, je suis...
+culture_g_score: 60
+culture_g_justification: "Comédie britannique connue et récompensée, mais dont les possibilités de questions restent assez circonscrites."
 ---
-
 ![Image de The Full Monty](https://upload.wikimedia.org/wikipedia/commons/5/52/Kiwi_Full_Monty_Hosta.jpg)
 
 ###### Questions

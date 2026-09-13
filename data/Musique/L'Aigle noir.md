@@ -21,8 +21,9 @@ indice_6:
   - mélancolie
 questions:
   - Chanson de 1970 dédiée à Laurence, la nièce de mon auteur-compositeur, mes arrangements sont dus à Michel Colombier. Permettant à mon interprète féminine d'atteindre le sommet du hit-parade, j'aurais été d'après elle, suggérée par un rêve, alors que pour certains, l'oiseau dont je parle serait l'image de la figure paternelle, déjà évoquée dans la chanson...
+culture_g_score: 77
+culture_g_justification: "Grand classique de Barbara, fréquemment cité avec la chanson française, son interprète, ses thèmes mystérieux et son contexte de 1970."
 ---
-
 ![Image de L'Aigle noir](https://upload.wikimedia.org/wikipedia/commons/f/f4/Barbara_%281965%29.jpg)
 
 ###### Questions

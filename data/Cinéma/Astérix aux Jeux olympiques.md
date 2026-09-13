@@ -22,9 +22,9 @@ indice_6 :
   - film français
 questions:
  - En 2008, dans quelle comédie avec Alain Delon, Clovis Cornillac et Gérard Depardieu, Amélie Mauresmo apparaît-elle?
+culture_g_score: 52
+culture_g_justification: "Film populaire de la franchise Astérix, surtout utile pour quelques questions sur son casting, son budget et ses caméos."
 ---
-
-
 ![Image de Astérix aux Jeux olympiques](https://upload.wikimedia.org/wikipedia/commons/8/88/Benoit_Poelvoorde_%C3%A0_l%27avant_premi%C3%A8re_de_Ast%C3%A9rix_en_2008..jpg)
 
 ###### Questions

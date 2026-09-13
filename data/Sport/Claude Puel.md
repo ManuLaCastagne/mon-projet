@@ -20,8 +20,9 @@ indice_6 :
   - Manager de football
 questions:
  - Ce footballeur, né à Castres en 1961, milieu de terrain récupérateur, ayant joué 601 matchs...
+culture_g_score: 60
+culture_g_justification: "Entraîneur français ayant dirigé plusieurs clubs majeurs, avec des questions possibles sur Monaco, Lyon, Saint-Étienne et Leicester."
 ---
-
 ![Image de Claude Puel](https://upload.wikimedia.org/wikipedia/commons/4/47/Claude_Puel_%28cropped%29.jpg)
 
 ###### Questions

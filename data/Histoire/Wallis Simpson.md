@@ -20,8 +20,9 @@ indice_6 :
   - duchesse de Windsor
 questions:
  - En 1937, quelle Américaine le duc de Windsor épouse-t-il au château de Candé, après qu'il eut renoncé à la royauté ?
+culture_g_score: 72
+culture_g_justification: "Personnalité liée à l’abdication d’Édouard VIII, souvent utilisée dans les quiz britanniques, mais avec une portée historique assez spécialisée."
 ---
-
 ![Image de Wallis Simpson](https://upload.wikimedia.org/wikipedia/commons/1/1c/Bessie_Wallis_Warfield_House%2C_212_E._Biddle_Street%2C_Baltimore%2C_MD_21202_%2838949050045%29.jpg)
 
 ###### Questions

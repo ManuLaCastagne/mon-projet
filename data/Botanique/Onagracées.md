@@ -14,8 +14,9 @@ indice_5 :
   - Godetia
 indice_6 : 
   - Bois de saule
+culture_g_score: 23
+culture_g_justification: "Famille botanique pouvant être illustrée par le fuchsia ou l'épilobe, mais trop spécialisée comme sujet autonome."
 ---
-
 ![Image de Onagracée](https://upload.wikimedia.org/wikipedia/commons/6/63/Chamerion_latifolium_upernavik_2007-08-06_4.jpg)
 
 ###### Questions

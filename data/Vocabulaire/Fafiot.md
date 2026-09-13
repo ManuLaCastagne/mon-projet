@@ -16,13 +16,14 @@ indice_6 :
   - Fric
 ---
 
+
 ![Image de Fafiot](https://upload.wikimedia.org/wikipedia/commons/c/c7/BOH%26MOR-10-Protectorate_of_Bohemia_and_Moravia-50_Korun_%281944%29.jpg)
 
 ###### Questions
 
 Quel est le terme [[argot]] qui désigne un billet de [[banque]] dans certaines régions de [[France]] ?
 
-Dans le langage familier de [[Lyon]], comment appelle-t-on un billet utilisé pour des transactions ?
+Dans le langage familier de [[Lyon]], comment appelle-t-on un billet utilisé pour des transactions ? <!-- score: 1 -->
 
 Quel mot en [[argot lyonnais]] est synonyme de billet, évoqué par les [[Frères Lumière]] dans leurs films d'époque ?
 

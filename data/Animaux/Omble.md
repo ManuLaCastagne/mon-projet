@@ -15,8 +15,9 @@ indice_6 :
   - Emblème de la pêche à la mouche
 questions:
  - Quel poisson d'eau douce, proche du saumon, peut être de fontaine ou chevalier ?
+culture_g_score: 32
+culture_g_justification: "Poisson d’eau douce surtout connu des amateurs de pêche et de géographie régionale, rarement central dans les quiz."
 ---
-
 ![Image de Omble](https://upload.wikimedia.org/wikipedia/commons/8/8f/Statue_of_Tukaram_Gopal_Omble.jpg)
 
 ###### Questions

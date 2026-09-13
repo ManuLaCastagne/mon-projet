@@ -22,13 +22,15 @@ indice_5 :
   - Cathédrale Saint-Just-et-Saint-Pasteur
 indice_6 : 
   - Via Domitia
+culture_g_score: 52
+culture_g_justification: "Ville utile pour l'histoire romaine de la Gaule et la Via Domitia, mais dont les apparitions restent assez spécialisées et principalement régionales."
 ---
 
 ![[Carte_Narbonne.png]]
 
 ###### Questions
 
-Quelle ville abritait un port maritime antique à l'époque romaine grâce à un canal relié à la mer Méditerranée, faisant d'elle un important centre commercial sous le nom de [[Narbo Martius]] fondée en [[118 av. J.-C.]] ?
+Quelle ville abritait un port maritime antique à l'époque romaine grâce à un canal relié à la mer Méditerranée, faisant d'elle un important centre commercial sous le nom de [[Narbo Martius]] fondée en [[118 av. J.-C.]] ? <!-- score: 4 -->
 
 Quelle ville, premier établissement romain en Gaule, est traversée par la célèbre route antique, la [[Via Domitia]], qui relie l'Italie à l'Espagne depuis [[118 av. J.-C.]] ?
 

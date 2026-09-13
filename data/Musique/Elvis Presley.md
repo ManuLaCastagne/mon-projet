@@ -22,8 +22,9 @@ indice_6:
   - Memphis
 questions:
   - C'est Aristide Bruant qui interprète ici "Auprès de ma blonde", qui aurait été écrite par André Joubert du Collet, un lieutenant de la marine royale de Louis XIV. En 1967, dans le film "Croisière surprise", quel rockeur interprète une version anglaise de "Auprès de ma blonde"?
+culture_g_score: 100
+culture_g_justification: "Figure fondatrice du rock et icône américaine, mobilisable sur la musique, le cinéma, l'armée, les États-Unis et la culture populaire."
 ---
-
 ![Image de Elvis Presley](https://upload.wikimedia.org/wikipedia/commons/b/be/Elvis_Presley%2C_Modern_Screen%2C_June_1958.jpg)
 
 ###### Questions

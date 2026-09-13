@@ -1,6 +1,6 @@
 ---
-culture_g_score: 1
-culture_g_justification: Sujet insuffisamment identifié et vraisemblablement très spécialisé, donc peu rentable pour un entraînement généraliste.
+culture_g_score: 51
+culture_g_justification: "Héros impérial britannique lié à la Chine et au siège de Khartoum, mais peu présent dans les quiz généralistes francophones."
 ---
 ###### Questions
 

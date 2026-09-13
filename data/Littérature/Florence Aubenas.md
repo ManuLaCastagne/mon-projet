@@ -22,8 +22,9 @@ indice_6 :
   - Membre du jury du prix Albert-Londres
 questions:
  - il y a sa prise d'otage qui l'a fait connaître du grand public, au-delà des lecteurs de "Libération", du "Nouvel Obs" et du "Le Monde (journal)". Il y a eu aussi une enquête sur les travailleurs précaires.
+culture_g_score: 60
+culture_g_justification: "Journaliste française connue pour son enlèvement en Irak et ses enquêtes sociales, avec des angles médiatiques et littéraires distincts."
 ---
-
 ![Image de Florence Aubenas](https://upload.wikimedia.org/wikipedia/commons/8/8a/FIG_2015_-_Florence_Aubenas_03.jpg)
 
 ###### Questions

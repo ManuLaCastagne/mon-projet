@@ -20,9 +20,9 @@ indice_5:
   - Danse traditionnelle
 indice_6:
   - Costumes colorés
+culture_g_score: 48
+culture_g_justification: "Danse caractéristique du bal musette et de la culture parisienne, mais donnant lieu à peu de questions réellement distinctes."
 ---
-
-
 ![Image de Java (danse)](https://upload.wikimedia.org/wikipedia/commons/2/27/Partitionlajava.jpg)
 
 ###### Questions

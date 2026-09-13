@@ -20,8 +20,9 @@ indice_5 :
   - réalisateur
 indice_6 : 
   - 1960s-1990s
+culture_g_score: 52
+culture_g_justification: "Réalisateur important du polar français, identifiable par quelques films célèbres comme La Piscine et Borsalino, mais relativement peu transversal."
 ---
-
 ![Image de Jacques Deray](https://upload.wikimedia.org/wikipedia/commons/d/d3/Jacques_Deray_tombe.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - reconstitutions minutieuses
 questions:
  - Des comédiens prestigieux comme Michel Bouquet et Françoise Fabian. Notamment réalisée par Stellio Lorenzi et tournée en direct sur des scénarios dus à André Castello et Alain Decaux, j'étais consacrée à des événements historiques.
+culture_g_score: 67
+culture_g_justification: "Programme pionnier mêlant histoire, documentaire et fiction, associé à des figures importantes de la vulgarisation historique française."
 ---
-
 ![Image de La Caméra explore le temps](https://upload.wikimedia.org/wikipedia/commons/e/e1/Je_fais_la_pluie_et_le_beau_temps_%2820600934581%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Prix d'interprétation masculine à Cannes
 questions:
  - En 2006, quel film de Rachid Bouchareb raconte le parcours de 4 soldats originaires d'Afrique du Nord se battant pour la France en 1943 ?
+culture_g_score: 64
+culture_g_justification: "Film important sur les soldats nord-africains de la Seconde Guerre mondiale, avec une portée historique et politique notable."
 ---
-
 ![Image de Indigènes](https://upload.wikimedia.org/wikipedia/commons/8/84/Maria_Palmer_in_Days_of_Glory_trailer.jpg)
 
 ###### Questions

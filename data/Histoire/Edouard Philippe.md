@@ -20,8 +20,9 @@ indice_6 :
   - droite modérée
 questions:
  - Quel homme politique a été interviewé, alors qu'il étudiait à l'ENA, 21 ans avant d'être nommé Premier ministre en 2017?
+culture_g_score: 72
+culture_g_justification: "Ancien Premier ministre français très connu, mais sa portée historique et ses angles de quiz restent surtout liés à l’actualité politique."
 ---
-
 ![Image de Edouard Philippe](https://upload.wikimedia.org/wikipedia/commons/4/4e/%C3%89douard_Philippe_2017.jpg)
 
 ###### Questions

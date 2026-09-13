@@ -20,8 +20,9 @@ indice_6 :
   - programme des années 80-90
 questions:
  - Proposée durant 16 ans, coupée par le journal télévisé, je me déroulais en 2 parties durant lesquelles étaient diffusées des extraits d'anciennes actualités, des dessins animés et surtout 2 films américains, l'un en VF et...
+culture_g_score: 76
+culture_g_justification: "Émission culte associée à Eddy Mitchell, au cinéma classique et à l'histoire de la télévision, avec plusieurs angles de questionnement."
 ---
-
 ![Image de La Dernière séance (émission)](https://upload.wikimedia.org/wikipedia/commons/0/05/Eloge_de_G._Andral_prononc%C3%A9_dans_la_s%C3%A9ance_publique_annuelle_du_20_juillet_1880_%28IA_BIUSante_110133x133x01%29.pdf)
 
 ###### Questions

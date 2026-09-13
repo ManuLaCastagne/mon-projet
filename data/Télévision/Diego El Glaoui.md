@@ -19,8 +19,9 @@ indice_5 :
   - origines marocaines
 indice_6 : 
   - mode et lifestyle
+culture_g_score: 20
+culture_g_justification: "Influenceur relativement récent et spécialisé dans la téléréalité, avec une faible valeur ajoutée pour la culture générale."
 ---
-
 ![Image de Diego El Glaoui]()
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - période de Jules César
 questions:
  - Quel est le seul druide que l'on connaît ?
+culture_g_score: 40
+culture_g_justification: "Chef éduen mentionné par César, mais sujet très spécialisé de l’histoire gauloise et de l’Antiquité romaine."
 ---
-
 ![Image de Diviciacus](https://upload.wikimedia.org/wikipedia/commons/2/2d/Autun_-_La_Statue_de_Divitiac_et_la_Promenade_des_Marbres.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Real Madrid
 indice_6 : 
   - Flamenco
+culture_g_score: 80
+culture_g_justification: "Capitale espagnole fréquemment mobilisée pour la monarchie, l’histoire, les musées, le football, la politique et la géographie ibérique."
 ---
-
 ![Image de Madrid](https://upload.wikimedia.org/wikipedia/commons/3/3e/Madrid_snowbound.jpg)
 
 ![[Carte_Madrid.png]]

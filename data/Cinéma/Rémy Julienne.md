@@ -21,9 +21,9 @@ indice_6:
   - réalisateur
 questions:
   - Quel ancien champion de France de motocross, né en 1930, a collaboré en 50 ans de carrière aux cascades de quelque 1400 films?
+culture_g_score: 51
+culture_g_justification: "Cascadeur français de référence dans le cinéma populaire, mais sujet professionnel assez spécialisé et peu souvent demandé directement."
 ---
-
-
 ![Image de Rémy Julienne](https://upload.wikimedia.org/wikipedia/commons/1/1b/R%C3%A9my_Julienne_2014.jpg)
 
 ###### Questions

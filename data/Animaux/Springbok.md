@@ -15,8 +15,9 @@ indice_6 :
   - Symbole des équipes nationales sud-africaines
 questions:
  - Quelle antilope d'Afrique australe, désignée par…
+culture_g_score: 60
+culture_g_justification: "Le springbok bénéficie d'une double entrée zoologique et sportive grâce à l'équipe sud-africaine, sans être une référence universelle."
 ---
-
 ![Image de Springbok](https://upload.wikimedia.org/wikipedia/commons/8/89/Antidorcas_marsupialis%2C_male_%28Etosha%2C_2012%29.jpg)
 
 ###### Questions

@@ -19,10 +19,9 @@ indice_5:
   - Mirrors
 indice_6:
   - The 20/20 Experience
+culture_g_score: 76
+culture_g_justification: "Sa carrière dans NSYNC, en solo, au cinéma et dans la pop internationale fournit plusieurs angles de questions indépendants."
 ---
-
-
-
 ![Image de Justin Timberlake](https://upload.wikimedia.org/wikipedia/commons/e/ed/Justin_Timberlake_by_Gage_Skidmore_2.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - « Confidences trop intimes »
 questions:
  - actrice britannique associée à "4 mariages et un enterrement" et "Le patient anglais". Un peu plus tôt, la question évoquait sa maîtrise du français qui lui permet de réaliser son propre doublage dans la plupart de ses films tournés en anglais.
+culture_g_score: 51
+culture_g_justification: "Actrice reconnue du cinéma britannique et français, mais rarement une réponse prioritaire dans les quiz généralistes."
 ---
-
 ![Image de Kristin Scott Thomas](https://upload.wikimedia.org/wikipedia/commons/9/9f/Kristin_Scott_Thomas_Cannes.jpg)
 
 ###### Questions

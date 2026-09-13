@@ -20,8 +20,9 @@ indice_6 :
   - influencer ses pairs
 questions:
  - Quelle émission, créée en 2004, a été présentée successivement par Daphné Roulier, Frédéric Beigbeder et Augustin Trapenard?
+culture_g_score: 27
+culture_g_justification: "Émission française de critique cinématographique relativement confidentielle et facilement confondue avec d’autres titres."
 ---
-
 ![Image de Le Cercle](https://upload.wikimedia.org/wikipedia/commons/7/70/Cercle_Gourmettes_1.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - César d'honneur en 1995
 questions:
  - En 1961, quelle comédienne est partagée entre Henri Serre et Oskar Werner dans le film "Jules et Jim"?
+culture_g_score: 100
+culture_g_justification: "Icône internationale du cinéma français, associée à la Nouvelle Vague, à de nombreux classiques, aux récompenses et au théâtre."
 ---
-
 ![Image de Jeanne Moreau](https://upload.wikimedia.org/wikipedia/commons/8/88/Jeanne_Moreau_%282009%29.jpg)
 
 ###### Questions

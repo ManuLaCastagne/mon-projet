@@ -20,8 +20,9 @@ indice_6 :
   - Jeux Olympiques
 questions:
  - Sur quelle distance du sprint Alison Felix possède-t-elle...
+culture_g_score: 80
+culture_g_justification: "Épreuve classique du sprint, régulièrement associée à Usain Bolt, aux Jeux olympiques et aux records mondiaux."
 ---
-
 ![Image de 200 mètres](https://upload.wikimedia.org/wikipedia/commons/7/72/2022-08-19_European_Championships_2022_%E2%80%93_Women%27s_200_Metres_by_Sandro_Halank%E2%80%93018.jpg)
 
 ###### Questions

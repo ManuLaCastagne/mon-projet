@@ -22,8 +22,9 @@ indice_6 :
   - On ne peut pas dire qu'elle soit franchement adorable
 questions:
  - En 1990, dans quelle comédie Tsilla Chelton répond-elle  "Oui mais qu'est-ce qu'elle est laide!" à une vieille dame qui lui dit  "Elle est gentille ma fille, hein?" Elle lui répond  "Oui mais qu'est-ce qu'elle est laide!"
+culture_g_score: 60
+culture_g_justification: "Comédie française bien établie, régulièrement mobilisable autour d'Étienne Chatiliez, de Tsilla Chelton et des César."
 ---
-
 ![Image de Tatie Danielle](https://upload.wikimedia.org/wikipedia/commons/b/b1/Tombeau_de_Tsilla_Chelton_%28Tatie_Danielle%29.jpg)
 
 ###### Questions

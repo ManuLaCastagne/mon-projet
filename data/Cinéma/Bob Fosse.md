@@ -22,8 +22,9 @@ indice_6 :
   - inspiré par le vaudeville et le burlesque
 questions:
  - A quel chorégraphe et cinéaste, auquel on doit notamment la mise en scène du film "Cabaret" en 72 la chorégraphie du clip de "Single ladies" rend-elle hommage?
+culture_g_score: 80
+culture_g_justification: "Figure majeure de la comédie musicale américaine, associée à Cabaret, All That Jazz, la danse et un triplé exceptionnel de récompenses."
 ---
-
 ![Image de Bob Fosse](https://upload.wikimedia.org/wikipedia/commons/9/9e/Bob_Fosse_1963_%28cropped%29.jpg)
 
 ###### Questions

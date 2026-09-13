@@ -22,9 +22,9 @@ indice_6 :
   - dieu de la vigne
 questions:
  - A travers le monde et initié par la déesse Cybèle aux rites de son culte, j'ai accédé tardivement à la divinité.  Accompagné d'un cortège triomphal composé de Satyres, de Silènes et de Bacchantes, je suis le dieu...
+culture_g_score: 60
+culture_g_justification: "Groupe français identifiable par Mathias Malzieu, ses albums et son univers littéraire, avec une fréquence correcte mais limitée."
 ---
-
-
 ![Image de Dionysos](https://upload.wikimedia.org/wikipedia/commons/8/8a/Dionysos_Louvre_Ma87_n2.jpg)
 
 ###### Questions

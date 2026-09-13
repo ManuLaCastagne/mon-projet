@@ -17,8 +17,9 @@ indice_5 :
   - Claude Pinoteau
 indice_6 : 
   - Collège français
+culture_g_score: 60
+culture_g_justification: "Film français connu pour Ventura, Adjani et le conflit générationnel, mais nettement moins central que les autres classiques de Pinoteau."
 ---
-
 ![Image de La Gifle]()
 
 ###### Questions

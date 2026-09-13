@@ -20,8 +20,9 @@ indice_6 :
   - Formule chimique KAl2(AlSi3O10)(OH)2
 questions:
  - Quel silicate d'aluminium et de potassium brillant, désigné par un mot latin, abonde dans les roches magmatiques et métamorphiques ?
+culture_g_score: 48
+culture_g_justification: "Minéral utile pour ses propriétés isolantes et réfléchissantes, mais qui fournit peu de questions incontournables."
 ---
-
 ![Image de Mica](https://upload.wikimedia.org/wikipedia/commons/d/d5/MICA_P6230072.JPG)
 
 ###### Questions

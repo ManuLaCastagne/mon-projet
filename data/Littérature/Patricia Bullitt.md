@@ -9,9 +9,9 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6:
+culture_g_score: 19
+culture_g_justification: "Réponse très ponctuelle à une question sur Le Lion, sans véritable rentabilité au-delà de ce détail littéraire."
 ---
-
-
 ![Image de Patricia Bullitt](https://upload.wikimedia.org/wikipedia/commons/4/4f/NORTH_%28FRONT%29_FACADE%2C_LOOKING_SOUTH_-_707_Bullitt_Avenue_%28House%29%2C_Jeannette%2C_Westmoreland_County%2C_PA_HABS_PA%2C65-JEAN%2C46-1.tif)
 
 ###### Questions

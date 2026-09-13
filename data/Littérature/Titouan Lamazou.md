@@ -22,8 +22,9 @@ indice_6 :
   - fondateur de l'association Lysistrata
 questions:
  - A quel navigateur et dessinateur, doit-on de nombreuses carnets de voyage et des albums comme "Femmes du monde" et "Titouan au Congo" ?
+culture_g_score: 47
+culture_g_justification: "Navigateur lié au premier Vendée Globe et à la création artistique, mais personnage assez périphérique dans les quiz généralistes de littérature."
 ---
-
 ![Image de Titouan Lamazou](https://upload.wikimedia.org/wikipedia/commons/5/55/Titouan_Lamazou_2013.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Réforme protestante
 indice_6 : 
   - Archevêque de Cantorbéry
+culture_g_score: 72
+culture_g_justification: "L'anglicanisme est un courant chrétien important pour comprendre la Réforme anglaise, Henri VIII, l'Église d'Angleterre et l'histoire britannique."
 ---
-
 ![Image de Anglicanisme](https://upload.wikimedia.org/wikipedia/commons/9/96/Gate_Beijing_Anglican_Church.jpg)
 
 ###### Questions

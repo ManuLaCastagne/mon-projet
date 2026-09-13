@@ -22,8 +22,9 @@ indice_6 :
   - narration des animaux
 questions:
  - Film français sorti en 2005 avec les voix de Romane Bohringer, Charles Berling et Jules Sitruk, j'ai été tourné dans des conditions rendues difficiles par les températures négatives. Montrant la vie d'une colonie d'animaux, je m'intéresse à leur cycle de reproduction...
+culture_g_score: 73
+culture_g_justification: "Documentaire français oscarisé et grand succès international, facilement interrogé autour des manchots, de l'Antarctique et de Luc Jacquet."
 ---
-
 ![Image de La Marche de l'Empereur](https://upload.wikimedia.org/wikipedia/commons/0/05/%27March_of_the_Penguins%27_sign_%283639331461%29.jpg)
 
 ###### Questions

@@ -20,7 +20,8 @@ indice_6 :
   - Bavière
 questions:
  - En 1854, quelle aristocrate bavaroise, cousine du roi Louis II, épouse l'archiduc d'Autriche François-Joseph?
-culture_g_score: 76
+culture_g_score: 72
+culture_g_justification: "Impératrice très populaire, utile pour l’Autriche-Hongrie, la monarchie des Habsbourg, son assassinat et sa représentation culturelle."
 ---
 ![Image de Sissi](https://upload.wikimedia.org/wikipedia/commons/c/c3/Sissi_im_Panoptikum_Hamburg.jpg)
 

@@ -15,8 +15,9 @@ indice_6 :
   - Porte-bonheur
 questions:
  - Dont le nom imagé vient d'une fausse croyance selon laquelle je m'introduirais dans les oreilles...
+culture_g_score: 44
+culture_g_justification: "Insecte connu grâce à son nom et à ses pinces, avec quelques faits naturalistes mais une portée quiz limitée."
 ---
-
 ![Image de Perce-oreilles](https://upload.wikimedia.org/wikipedia/commons/d/d7/Astreptolabis_ethirosomatia_holotype_ZooKeys-130-137-g001.jpg)
 
 ###### Questions

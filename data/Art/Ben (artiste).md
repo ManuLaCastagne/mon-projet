@@ -23,8 +23,9 @@ indice_6 :
   - s'intéresse à l'ego et l'identité
 questions:
  - Marqué par Marcel Duchamp, adepte de la performance et du graffiti, je fonde mon oeuvre sur les mots et le slogan… onnu pour mes messages manuscrits en blanc sur fond noir que j'appose sur toutes sortes de supports, du mur au timbre-poste, mon nom de naissance est Benjamin Vautier
+culture_g_score: 63
+culture_g_justification: "Artiste français immédiatement associé aux inscriptions manuscrites, à Fluxus et à l’art conceptuel, avec plusieurs angles mais une portée limitée."
 ---
-
 ![Image de Ben (artiste)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Ben_Decca_artiste_01.jpg)
 
 ###### Questions

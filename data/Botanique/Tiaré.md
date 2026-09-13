@@ -13,8 +13,9 @@ indice_5:
   - Fleur de Tahiti
 indice_6:
   - Fabrication de couronnes de fleurs
+culture_g_score: 60
+culture_g_justification: "Fleur emblématique de Tahiti et de la Polynésie française, exploitable en géographie, culture et parfumerie."
 ---
-
 ![Image de Tiaré](https://upload.wikimedia.org/wikipedia/commons/1/14/A_Brazilian_family_in_Rio_de_Janeiro_by_Jean-Baptiste_Debret_1839.jpg)
 
 ###### Questions

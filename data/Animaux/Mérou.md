@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de résilience marine
 questions:
  - Quel grand poisson marin de la famille des serranidés, reconnaissable à ses lèvres charnues, est représenté par une espèce appelée cernier ?
+culture_g_score: 52
+culture_g_justification: "Poisson de récif connu pour son changement de sexe et sa taille, avec quelques angles d’écologie et de biologie."
 ---
-
 ![Image de Mérou](https://upload.wikimedia.org/wikipedia/commons/5/53/Mero_%28Epinephelus_marginatus%29%2C_Madeira%2C_Portugal%2C_2019-05-31%2C_DD_24.jpg)
 
 ###### Questions

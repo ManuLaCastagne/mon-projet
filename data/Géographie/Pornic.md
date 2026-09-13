@@ -20,8 +20,9 @@ indice_5:
   - Planète Sauvage
 indice_6:
   - Thalasso Pornic
+culture_g_score: 44
+culture_g_justification: "Station balnéaire connue régionalement, mais offrant peu de connaissances réutilisables dans un entraînement généraliste."
 ---
-
 ![[Carte_Pornic.png]]
 
 ###### Questions

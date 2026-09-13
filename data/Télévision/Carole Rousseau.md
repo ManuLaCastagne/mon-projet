@@ -20,8 +20,9 @@ indice_6 :
   - célèbre pour son rôle sur TF1
 questions:
  - Jusqu'en 2018, il y a 2 ans, quelle animatrice a présenté le jeu "Le grand concours" qui réunissait...
+culture_g_score: 44
+culture_g_justification: "Animatrice connue de plusieurs programmes, sans constituer une référence majeure de culture générale."
 ---
-
 ![Image de Carole Rousseau](https://upload.wikimedia.org/wikipedia/commons/3/35/Auguste_Louis_Lep%C3%A8re_-_Fontainebleau_Forest-_Entry_to_Rousseau%27s_Studio_and_the_Millet_Home_%28La_Fo_-_2014.708.j_-_Cleveland_Museum_of_Art.tif)
 
 ###### Questions

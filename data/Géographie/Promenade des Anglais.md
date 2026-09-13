@@ -24,8 +24,9 @@ indice_6 :
   - architecture Belle Époque
 questions:
  - À Nice, quelle artère longeant la baie des Anges…
+culture_g_score: 76
+culture_g_justification: "Lieu emblématique de Nice, associé au tourisme, à l’histoire urbaine et à l’attentat de 2016, donc régulièrement exploitable en quiz."
 ---
-
 ![Image de Promenade des Anglais](https://upload.wikimedia.org/wikipedia/commons/6/62/Nice_from_Castle_Hill_01.jpg)
 
 ![[Carte_Promenade des Anglais.png]]

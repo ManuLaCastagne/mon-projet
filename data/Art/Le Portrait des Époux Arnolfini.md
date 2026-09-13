@@ -21,8 +21,9 @@ indice_5:
   - Giovanna Cenami
 indice_6:
   - détail minutieux
+culture_g_score: 84
+culture_g_justification: "Tableau emblématique de van Eyck, riche en entrées sur les primitifs flamands, les techniques picturales, le symbolisme et la National Gallery."
 ---
-
 ![Image de Le Portrait des Époux Arnolfini](https://upload.wikimedia.org/wikipedia/commons/7/78/Eyck%2C_Jan_van_-_Arnolfini_Portrait_-_NG.jpg)
 
 ###### Questions

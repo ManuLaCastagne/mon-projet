@@ -22,8 +22,9 @@ indice_6 :
   - conquête spatiale
 questions:
  - Quel film de Damien Chazelle, s'inspirant de faits réels, est sous-titré   "Le 1er homme sur la Lune" ?
+culture_g_score: 60
+culture_g_justification: "Biopic récent reliant cinéma et conquête spatiale, mais généralement moins fréquent que les sujets consacrés directement à Apollo 11 ou Armstrong."
 ---
-
 ![Image de First man](https://upload.wikimedia.org/wikipedia/commons/8/80/Exposure_%28%27De_hurkende_man%27%29_Lelystad._07-03-2022._%28d.j.b%29_01.jpg)
 
 ###### Questions

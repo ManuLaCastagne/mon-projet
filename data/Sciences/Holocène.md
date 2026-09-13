@@ -18,9 +18,9 @@ indice_5 :
   - Agriculture et sédentarisation
 indice_6 : 
   - Expansion humaine mondiale
+culture_g_score: 60
+culture_g_justification: "Période essentielle pour comprendre les débuts de l’agriculture et des civilisations, mais moins fréquente que les grandes périodes historiques."
 ---
-
-
 ![Image de Holocène](https://upload.wikimedia.org/wikipedia/commons/c/ca/Holocene_Temperature_Variations.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Sunna
 questions:
  - Quel prophète, désigné par un nom signifiant le Louangé en arabe, a reçu aux alentours de 610 la 1re révélation du Coran?
+culture_g_score: 100
+culture_g_justification: "Fondateur de l'islam et figure historique mondiale, Mahomet est incontournable pour les questions religieuses, historiques, géographiques et civilisationnelles."
 ---
-
 ![Image de Mahomet](https://upload.wikimedia.org/wikipedia/commons/f/fc/Mahomet_river_bridge_in_Baciki_Dalsze.jpg)
 
 ###### Questions

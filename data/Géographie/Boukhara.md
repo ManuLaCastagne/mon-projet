@@ -21,8 +21,9 @@ indice_5 :
   - Ville de la Route de la Soie
 indice_6 : 
   - Islam
+culture_g_score: 64
+culture_g_justification: "Boukhara est un grand site historique de la Route de la Soie, régulièrement mobilisé dans les questions sur l’Asie centrale et le patrimoine."
 ---
-
 ![[Carte_Boukhara.png]]
 
 ###### Questions

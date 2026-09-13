@@ -22,8 +22,9 @@ indice_6 :
   - Musique romantique
 questions:
  - En 1888, quel compositeur et pianiste, né à Hambourg et auteur d'un "Requiem allemand"...
+culture_g_score: 72
+culture_g_justification: "Compositeur romantique majeur, utile pour des questions sur le Requiem allemand, Schumann, la musique de chambre et la période romantique."
 ---
-
 ![Image de Johannes Brahms](https://upload.wikimedia.org/wikipedia/commons/4/44/P%C3%B6rtschach_Johannes-Brahms-Promenade_Promenadenbad_Rutschenturm_29122015_9896.jpg)
 
 ###### Questions

@@ -1,3 +1,8 @@
+---
+culture_g_score: 40
+culture_g_justification: "Le brasage constitue une technique industrielle utile, mais rarement interrogée hors des questions spécialisées de technologie."
+---
+
 
 
 ###### Questions 

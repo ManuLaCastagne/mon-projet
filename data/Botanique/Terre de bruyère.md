@@ -13,8 +13,9 @@ indice_5:
   - Bruyère
 indice_6:
   - Utilisée pour les sols acides et les jardins de rocaille
+culture_g_score: 44
+culture_g_justification: "Notion utile en jardinage pour les plantes acidophiles, mais à faible portée hors de ce domaine."
 ---
-
 ![Image de Terre de bruyère](https://upload.wikimedia.org/wikipedia/commons/b/b4/Louis-Sixte_de_Jarente_de_La_Bruy%C3%A8re%2C_S3403.jpg)
 
 ###### Questions

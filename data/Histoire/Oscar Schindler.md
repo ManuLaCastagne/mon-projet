@@ -20,8 +20,9 @@ indice_6 :
   - usine à Cracovie
 questions:
  - Industriel qui en 1982 inspira un livre à Thomas Kenneally, je suis né en Autriche-Hongrie en 1908, je suis installé à Cracovie après l'invasion de la Pologne.
+culture_g_score: 80
+culture_g_justification: "Figure de la Shoah largement popularisée par le film de Spielberg, offrant des liens rentables entre histoire, cinéma, nazisme et mémoire."
 ---
-
 ![Image de Oscar Schindler](https://upload.wikimedia.org/wikipedia/commons/3/38/Schindler%2C_Oskar.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - I Can See Clearly Now
 questions:
  - En 1983, de quel chanteur de reggae jamaïcain...
+culture_g_score: 64
+culture_g_justification: "Figure majeure du reggae, associée à quelques chansons et au film culte The Harder They Come, mais moins incontournable que les grandes vedettes internationales."
 ---
-
-
 ![Image de Jimmy Cliff](https://upload.wikimedia.org/wikipedia/commons/1/1d/JimmyCliff.jpg)
 
 ###### Questions

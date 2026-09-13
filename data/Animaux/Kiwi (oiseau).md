@@ -15,8 +15,9 @@ indice_6 :
   - Symbole du rugby néo-zélandais
 questions:
  - Chez quel oiseau coureur de Nouvelle-Zélande, également appelé aptéryx, la femelle pond-elle un oeuf énorme pesant le quart de son poids ?
+culture_g_score: 73
+culture_g_justification: "Oiseau emblématique de la Nouvelle-Zélande, régulièrement interrogé pour son absence d'ailes, son œuf et ses particularités anatomiques."
 ---
-
 ![Image de Kiwi (oiseau)](https://upload.wikimedia.org/wikipedia/commons/5/5b/Apteryx_owenii_0.jpg)
 
 ###### Questions

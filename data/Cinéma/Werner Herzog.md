@@ -22,8 +22,9 @@ indice_6 :
   - Rencontres au bout du monde
 questions:
  - En 1974, quel cinéaste allemand auteur du film "Aguirre, la colère de Dieu", décide de faire à pied le trajet Munich-Paris, auteur notamment de "Aguirre, la colère de Dieu" ?
+culture_g_score: 67
+culture_g_justification: "Cinéaste majeur du cinéma allemand et documentaire, associé à Fitzcarraldo, Aguirre, aux exploits de tournage et à une œuvre très singulière."
 ---
-
 ![Image de Werner Herzog](https://upload.wikimedia.org/wikipedia/commons/0/01/Werner_Herzog_Venice_Film_Festival_2009.jpg)
 
 ###### Questions

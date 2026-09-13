@@ -15,8 +15,9 @@ indice_6 :
   - Ornementale dans les jardins
 questions:
  - Plante de la famille des composées introduite en France au XVIIIe siècle, je fleuris dès juillet et peut être de la variété nain, cactus, ou pompon. Possédant des fleurs aux coloris éclatants, j'ai été nommée en hommage à un botaniste suédois du XVIIIe siècle...
+culture_g_score: 44
+culture_g_justification: "Fleur horticole assez connue, mais qui fournit peu de questions généralistes au-delà de son identification et de quelques caractéristiques."
 ---
-
 ![Image de Dahlia](https://upload.wikimedia.org/wikipedia/commons/1/1f/Dahlia_Pollen_27012015.jpg)
 
 ###### Questions

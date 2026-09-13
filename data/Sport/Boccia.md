@@ -20,18 +20,15 @@ indice_6 :
   - Auxiliaires sportifs
 questions:
  - Quel est ce sport apparenté à la pétanque et pouvant être pratiqué par des personnes valides aussi bien que par des personnes en situation de handicap avec des boules de cuir sur un terrain rectangulaire ?
+culture_g_score: 48
+culture_g_justification: "Sport paralympique original et utile à connaître, mais encore peu fréquent dans les quiz généralistes."
 ---
 
 ![Image de Boccia](https://upload.wikimedia.org/wikipedia/commons/0/05/Boccia_Platz_%28Stadtpark_Deggendorf%29.jpg)
 
 ###### Questions
 
-Quel sport, inclus dans les [[Jeux Paralympiques]] depuis [[1984]], est pratiqué par des athlètes ayant un handicap moteur important?
-
-Quel sport de précision, jouable en individuel ou en équipe, a été inventé dans l'Italie du 4ème siècle avant notre ère mais est devenu une discipline paralympique moderne?
-
 Quel jeu de balles, souvent comparé à la pétanque, a vu sa popularité croître grâce à sa présence aux [[Jeux Paralympiques]] et se joue sur un terrain rectangulaire?
-
 ###### Description
 
 La [[Boccia]] est un sport de précision semblable à la pétanque, qui se pratique principalement à l'intérieur et s'adresse aux personnes atteintes de handicaps physiques, notamment dans le cadre des compétitions paralympiques. Bien que ses origines remontent à la [[Grèce antique]], le sport tel qu'il est connu aujourd'hui a été officiellement intégré aux [[Jeux paralympiques]] en 1984 à [[New York]]. 

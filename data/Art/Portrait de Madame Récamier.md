@@ -21,9 +21,9 @@ indice_5 :
   - Juliette Récamier
 indice_6 : 
   - musée du Louvre
+culture_g_score: 68
+culture_g_justification: "Cette œuvre de David, conservée au Louvre et liée à l’histoire napoléonienne, est classique sans être un tableau omniprésent."
 ---
-
-
 ![Image de Portrait de Madame Récamier](https://upload.wikimedia.org/wikipedia/commons/2/27/%28Venice%29_Portrait_of_Madame_R%C3%A9camier_after_Fran%C3%A7ois_G%C3%A9rard_-_Museo_Correr.jpg)
 
 ###### Questions

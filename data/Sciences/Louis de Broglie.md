@@ -20,9 +20,9 @@ indice_6 :
   - Famille aristocratique de Broglie
 questions:
  - Quel physicien français né en 1892 a fondé la mécanique ondulatoire en montrant que tout corpuscule peut être considéré comme une onde ?
+culture_g_score: 72
+culture_g_justification: "Physicien français majeur, identifiable par la dualité onde-particule, le prix Nobel et les fondements de la mécanique quantique."
 ---
-
-
 ![Image de Louis de Broglie](https://upload.wikimedia.org/wikipedia/commons/8/89/Solvay_conference_1927_Version2.jpg)
 
 ###### Questions

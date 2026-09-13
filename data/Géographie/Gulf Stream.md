@@ -22,9 +22,9 @@ indice_6 :
   - circulation thermohaline
 questions:
  - Ayant un débit moyen de 55 millions de mètres cubes d'eau par seconde, e prolonge les courants de Floride et des Antilles, longe la côte est. Courant chaud  de l'Atlantique Nord adoucissant le climat de l'Europe occidentale, je suis…
+culture_g_score: 80
+culture_g_justification: "Courant océanique classique des quiz, reliant climat européen, océanographie, circulation atmosphérique et histoire des sciences."
 ---
-
-
 ![Image de Gulf Stream](https://upload.wikimedia.org/wikipedia/commons/b/bf/Winslow_Homer_-_The_Gulf_Stream_-_Metropolitan_Museum_of_Art.jpg)
 
 ![[Carte_Gulf Stream.png]]

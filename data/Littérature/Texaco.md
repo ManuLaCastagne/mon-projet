@@ -22,8 +22,9 @@ indice_6 :
   - plantation de canne à sucre
 questions:
  - En 1992, quel roman de Patrick Chamoiseau évoquant un quartier de Fort-de-France est récompensé par le Goncourt ?
+culture_g_score: 68
+culture_g_justification: "Prix Goncourt emblématique de la littérature antillaise, ouvrant sur Chamoiseau, la Martinique, la créolité, la mémoire coloniale et l'urbanisme."
 ---
-
 ![Image de Texaco](https://upload.wikimedia.org/wikipedia/commons/b/b8/Texaco_ad_-_Nat_Geo_April_1923.png)
 
 ###### Questions

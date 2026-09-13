@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée en horticulture pour ses fleurs décoratives
 questions:
  - Quelle plante herbacée est également appelée impatiente ou impatiens car son fruit, à maturité, éclate au moindre contact en projetant des graines?
+culture_g_score: 27
+culture_g_justification: "La capsule qui éclate au toucher constitue une curiosité botanique, sans grande importance ni fréquence générale."
 ---
-
 ![Image de Balsamine](https://upload.wikimedia.org/wikipedia/commons/3/34/Impatiens_scapiflora.jpg)
 
 ###### Questions

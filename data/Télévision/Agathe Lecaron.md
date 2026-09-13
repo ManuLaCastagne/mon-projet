@@ -18,8 +18,9 @@ indice_5 :
   - carrière dans l'animation jeunesse
 indice_6 : 
   - visage emblématique de France Télévisions
+culture_g_score: 44
+culture_g_justification: "Animatrice française identifiable par Les Maternelles, mais dont la portée reste principalement télévisuelle et contemporaine."
 ---
-
 ![Image de Agathe Lecaron](https://upload.wikimedia.org/wikipedia/commons/9/93/Almanach_agricole_et_commercial_de_J.B._Rolland_%26_fils_pour_l%27an_de_gr%C3%A2ce_1867_%28microforme%29_%28IA_cihm_27625%29.pdf)
 
 ###### Questions

@@ -2,6 +2,8 @@
 tags:
 - Sciences
 date: 1000
+culture_g_score: 60
+culture_g_justification: "Notion classique de géographie et de chimie, utile pour quelques questions sur les mers, l'eau et l'environnement mais rarement incontournable."
 ---
 ###### Questions 
 

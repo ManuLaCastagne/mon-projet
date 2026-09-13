@@ -20,8 +20,9 @@ indice_5:
   - style narratif innovant
 indice_6:
   - jeux sur le mystère et l'illusion
+culture_g_score: 100
+culture_g_justification: "Figure majeure et exceptionnellement transversale, Orson Welles relie radio, théâtre, cinéma, littérature, Citizen Kane et l’histoire des médias."
 ---
-
 ![Image de Orson Welles](https://upload.wikimedia.org/wikipedia/commons/f/ff/Orson_Welles_1937.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Bref actuelles dans le cinéma français
 questions:
  - Quelle actrice française  révélée par son rôle dans "37,2 le matin", a tourné pour des réalisateurs américains comme Jim Jarmush ou Abel Ferrara ?
+culture_g_score: 47
+culture_g_justification: "Actrice française identifiée à quelques rôles marquants comme 37°2 le matin, mais peu rentable au-delà de la filmographie spécialisée."
 ---
-
 ![Image de Béatrice Dalle](https://upload.wikimedia.org/wikipedia/commons/c/cf/B%C3%A9atrice_Dalle_1999.jpg)
 
 ###### Questions

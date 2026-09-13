@@ -21,9 +21,9 @@ indice_6:
   - ambassadeur de France au Sénégal
 questions:
   - Quel prix Goncourt fut ancien président de Médecins sans frontières ?
+culture_g_score: 63
+culture_g_justification: "Rufin combine littérature, prix Goncourt, Académie française et engagement humanitaire, ce qui le rend utile sans en faire une référence incontournable."
 ---
-
-
 ![Image de Jean-Christophe Rufin](https://upload.wikimedia.org/wikipedia/commons/b/bd/Jean-Christophe_Rufin_2024.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - président de 2009 à 2017
 questions:
  - De quel ancien Président des Etats-Unis, en exercice de 2009 à 2017, l'Américain Reginald Brown est-il le sosie le plus en emblématique?
+culture_g_score: 84
+culture_g_justification: "Président américain mondialement connu, associé à l’histoire politique récente, au Nobel, à la santé et aux relations internationales."
 ---
-
 ![Image de Barack Obama](https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg)
 
 ###### Questions

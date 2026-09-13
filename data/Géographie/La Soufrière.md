@@ -21,9 +21,9 @@ indice_5:
   - point culminant
 indice_6:
   - Parc national de la Guadeloupe
+culture_g_score: 60
+culture_g_justification: "Volcan actif emblématique de la Guadeloupe, La Soufrière est régulièrement interrogée dans les questions sur les territoires ultramarins et les volcans."
 ---
-
-
 ![Image de La Soufrière](https://upload.wikimedia.org/wikipedia/commons/a/ad/2021-04-09_-_La_Soufri%C3%A8re_%28Saint_Vincent%29_volcanic_ash_-_Sentinel-3.jpg)
 
 ![[Carte_La Soufrière.png]]

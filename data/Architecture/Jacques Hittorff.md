@@ -20,8 +20,9 @@ indice_6 :
   - style néoclassique
 questions:
  - A quel architecte français, d'origine allemande, doit-on la construction de la gare du Nord à Paris en 1861? Qui est l'architecte à qui on doit la très belle gare du Nord, d'ailleurs? Français d'origine allemande.
+culture_g_score: 60
+culture_g_justification: "Jacques Hittorff est utile pour plusieurs monuments parisiens et l’architecture métallique, mais il reste moins connu que les grands architectes français."
 ---
-
 ![Image de Jacques Hittorff](https://upload.wikimedia.org/wikipedia/commons/0/01/Jacques_Hittorff.jpg)
 
 ###### Questions

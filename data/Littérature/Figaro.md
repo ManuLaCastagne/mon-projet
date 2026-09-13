@@ -20,8 +20,9 @@ indice_5:
   - interviews d'auteurs
 indice_6:
   - prix littéraires
+culture_g_score: 80
+culture_g_justification: "Personnage central de la trilogie de Beaumarchais, également relié à l’opéra, au théâtre et à une célèbre réplique."
 ---
-
 ![Image de Figaro](https://upload.wikimedia.org/wikipedia/commons/a/a2/Le_Figaro_Logo_1854.png)
 
 ###### Questions

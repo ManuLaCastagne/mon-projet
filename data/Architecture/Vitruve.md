@@ -23,8 +23,9 @@ indice_6 :
   - traité d'architecture
 questions:
  - Quel architecte romain du Ier siècle est l'auteur du seul traité d'architecture de l'Antiquité ?
+culture_g_score: 85
+culture_g_justification: "Auteur antique fondamental, relié à l’architecture romaine, à la Renaissance, à Léonard de Vinci et aux principes classiques du bâti."
 ---
-
 ![Image de Vitruve](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg)
 
 ###### Questions

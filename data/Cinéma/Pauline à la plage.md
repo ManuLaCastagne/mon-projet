@@ -22,8 +22,9 @@ indice_6 :
   - Langueur estivale
 questions:
  - En 1983, dans quel film Amanda Langlais incarne-t-elle une jeune fille qui séjourne près de Granville avec sa cousine jouée par Arielle Dombasle?
+culture_g_score: 60
+culture_g_justification: "Film classique d'Éric Rohmer utile pour la Nouvelle Vague, le cinéma français et Jane Austen, mais d'une fréquence limitée hors des quiz cinéphiles."
 ---
-
 ![Image de Pauline à la plage](https://upload.wikimedia.org/wikipedia/commons/c/c3/SUR_LA_PLAGE_%C3%80_PORTRIEUX.PNG)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Fourrage pour le bétail
 questions:
  - Quelle plante fourragère, cultivée pour enrichir le sol en azote, tire son nom du provençal signifiant ver luisant?
+culture_g_score: 52
+culture_g_justification: "Fourrage majeur utile pour des questions sur l’élevage, les légumineuses, l’azote et le nom alfalfa."
 ---
-
 ![Image de Luzerne](https://upload.wikimedia.org/wikipedia/commons/3/34/Luzerne_County_Pennsylvania_Incorporated_and_Unincorporated_areas_Luzerne_Highlighted.svg)
 
 ###### Questions

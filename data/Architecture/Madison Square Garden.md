@@ -24,8 +24,9 @@ indice_6 :
   - Architecture
 questions:
  - Quelle célèbre salle omnisports new-yorkaise, ayant accueilli de grands combats de boxe...
+culture_g_score: 80
+culture_g_justification: "Le Madison Square Garden est une référence internationale du sport et du spectacle, permettant des questions sur New York, la musique et les événements célèbres."
 ---
-
 ![Image de Madison Square Garden](https://upload.wikimedia.org/wikipedia/commons/4/4b/Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - opulence et faste
 questions:
  - En 1520, quel nom a-t-on donné à l'entrevue réunissant François Ier et Henri VIII dans le Pas-de-Calais ?
+culture_g_score: 51
+culture_g_justification: "Rencontre spectaculaire entre François Ier et Henri VIII, utile pour l’histoire diplomatique, mais rarement interrogée directement."
 ---
-
 ![Image de Camp du Drap d'or](https://upload.wikimedia.org/wikipedia/commons/5/57/D%C3%A9tail_camp_du_Drap_d%27Or_2.JPG)
 
 ###### Questions

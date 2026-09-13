@@ -19,8 +19,9 @@ indice_5:
   - début du XVIe siècle
 indice_6:
   - compagnon d'armes de François Ier
+culture_g_score: 68
+culture_g_justification: "Chevalier français légendaire de la Renaissance, régulièrement interrogé à travers son surnom et la guerre d’Italie."
 ---
-
 ![Image de Bayard](https://upload.wikimedia.org/wikipedia/commons/6/67/Bayard%2C_Nebraska%2C_E_side_of_Main_St_N_of_3rd_St.jpg)
 
 ###### Questions

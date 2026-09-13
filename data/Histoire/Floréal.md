@@ -20,8 +20,9 @@ indice_6 :
   - lié aux fleurs
 questions:
  - Par un mot ayant une terminaison en AL comme les 2 autres mois du printemps...
+culture_g_score: 57
+culture_g_justification: "Mois classique du calendrier révolutionnaire, donnant lieu à quelques questions récurrentes mais à des angles limités."
 ---
-
 ![Image de Floréal](https://upload.wikimedia.org/wikipedia/commons/9/95/Floreal2.jpg)
 
 ###### Questions

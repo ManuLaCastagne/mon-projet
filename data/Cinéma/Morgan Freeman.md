@@ -22,8 +22,9 @@ indice_6 :
   - Invictus
 questions:
  - J'ai joué dans 3 films de Clint Eastwood, dont "Invictus" où j'incarne Nelson Mandela.  Acteur américain ayant campé plusieurs fois le personnage Lucius Fox, le conseiller de Batman, j'ai joué le rôle de Dieu...
+culture_g_score: 80
+culture_g_justification: "Acteur mondialement connu, associé à de nombreux films, à sa voix caractéristique, aux Oscars et à des rôles devenus cultes."
 ---
-
 ![Image de Morgan Freeman](https://upload.wikimedia.org/wikipedia/commons/9/93/Academy_Award-winning_actor_Morgan_Freeman_narrates_for_the_opening_ceremony_%2826904746425%29_%28cropped%29_3.jpg)
 
 ###### Questions

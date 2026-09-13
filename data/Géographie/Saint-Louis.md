@@ -22,9 +22,9 @@ indice_5 :
   - Sénégal
 indice_6 : 
   - Gouvernance française
+culture_g_score: 60
+culture_g_justification: "La ville sénégalaise de Saint-Louis est un classique du patrimoine colonial africain, mais le sujet reste concurrencé par l’homonyme américain."
 ---
-
-
 ![[Carte_Saint-Louis.png]]
 
 ###### Questions

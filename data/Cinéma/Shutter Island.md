@@ -22,6 +22,8 @@ indice_6 :
   - île mystérieuse
 questions:
  - Dans quel film de Scorsese Di Caprio enquête dans un hôpital psychiatrique installé sur une île ?
+culture_g_score: 64
+culture_g_justification: "Film populaire de Scorsese avec DiCaprio, souvent reconnaissable grâce à son intrigue et son dénouement, mais pas un classique fondateur."
 ---
 
 
@@ -31,10 +33,9 @@ questions:
 
 Quel film réalisé par [[Martin Scorsese]] en 2010 met en vedette [[Leonardo DiCaprio]] dans le rôle d'un marshal enquêtant sur la disparition d'une patiente dans un hôpital psychiatrique isolé ?
 
-Dans quel film les spectateurs découvrent un complot potentiel mettant en doute la santé mentale du personnage principal dans un cadre inspiré par le roman de [[Dennis Lehane]] publié en 2003 ?
+Dans quel film les spectateurs découvrent un complot potentiel mettant en doute la santé mentale du personnage principal dans un cadre inspiré par le roman de [[Dennis Lehane]] publié en 2003 ? <!-- score: 4 -->
 
 Quel film psychologique à l'atmosphère oppressante s'est inspiré d'un tournage sur l'île de [[Peddocks Island]] près de [[Boston]], renforçant le caractère isolé et mystérieux du récit cinématographique ? <!-- score: 4 -->
-
 ###### Description
 
 [[Shutter Island]] est un film réalisé par [[Martin Scorsese]], sorti en 2010, qui plonge le spectateur dans un thriller psychologique intense. L'histoire se déroule en 1954 et suit l'agent fédéral [[Teddy Daniels]], interprété par [[Leonardo DiCaprio]], alors qu'il enquête sur la disparition d'une patiente dans l'établissement psychiatrique de [[Shutter Island]]. Le scénario est basé sur le roman éponyme de [[Dennis Lehane]] publié en 2003, ce qui ajoute une couche de complexité et de mystère à l'intrigue. Avec des performances mémorables, notamment celle de [[Mark Ruffalo]] dans le rôle du partenaire de [[Teddy]], [[Chuck Aule]], le film a captivé le public et est devenu un classique du genre.

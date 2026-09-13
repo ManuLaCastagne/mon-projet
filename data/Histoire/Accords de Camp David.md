@@ -20,8 +20,9 @@ indice_6 :
   - Paix au Moyen-Orient
 questions:
  - Et Menahem Begin pour l'autre partie, sous la médiation de Jimmy Carter, ayant pour but de fixer un cadre pour la paix au Proche-Orient.  Les 2 pays qui se rapprochent, c'est Israël et l'Égypte, nous sommes…
+culture_g_score: 80
+culture_g_justification: "Accords diplomatiques majeurs, régulièrement interrogés via le conflit israélo-arabe, Carter, Sadate, Begin et le Nobel de la paix."
 ---
-
 ![Image de Accords de Camp David](https://upload.wikimedia.org/wikipedia/commons/0/0b/Brzezinski_and_Israeli_Prime_Minister_Menachem_Begin_play_chess_during_Camp_David_Accords._September_9%2C_1978._%2834318141724%29.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Champignon oreille
 indice_6:
   - Cuisine asiatique
+culture_g_score: 60
+culture_g_justification: "Champignon comestible très présent dans la cuisine asiatique et associé à Judas, ce qui fournit plusieurs indices mémorables."
 ---
-
 ![Image de Oreille de Judas](https://upload.wikimedia.org/wikipedia/commons/8/84/Echt_judasoor_%28Auricularia_auricula-judae%29_op_een_stam_van_een_vlier._15-02-2024._%28actm.%29_15-02-2024._%28actm.%29.jpg)
 
 ###### Questions

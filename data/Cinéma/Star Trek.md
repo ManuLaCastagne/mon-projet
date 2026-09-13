@@ -20,9 +20,9 @@ indice_5 :
   - voyages interstellaires
 indice_6 : 
   - Starfleet
+culture_g_score: 88
+culture_g_justification: "Franchise fondamentale de la science-fiction, exploitable par ses séries, films, personnages, technologies, acteurs et créateur."
 ---
-
-
 ![Image de Star Trek](https://upload.wikimedia.org/wikipedia/commons/1/16/The_Shuttle_Enterprise_-_GPN-2000-001363.jpg)
 
 ###### Questions

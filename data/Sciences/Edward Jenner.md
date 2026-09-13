@@ -20,8 +20,9 @@ indice_6 :
   - Cowpox
 questions:
  - Quel médecin britannique a établi le premier vaccin le premier enfant au monde en 1796 en cherchant à immuniser l'homme contre la variole ?
+culture_g_score: 84
+culture_g_justification: "Pionnier de la vaccination, incontournable pour les questions sur la variole, l’immunologie et l’histoire de la médecine."
 ---
-
 ![Image de Edward Jenner](https://upload.wikimedia.org/wikipedia/commons/8/85/Edward_Jenner_by_James_Northcote.jpg)
 
 ###### Questions

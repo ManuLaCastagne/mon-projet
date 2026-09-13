@@ -13,8 +13,9 @@ indice_5:
   - Appelé aussi Arbre aux papillons
 indice_6:
   - Utilisé pour attirer les papillons dans les jardins
+culture_g_score: 44
+culture_g_justification: "Arbuste connu par le surnom d’arbre à papillons, mais son intérêt repose presque entièrement sur cette caractéristique."
 ---
-
 ![Image de Buddléia](https://upload.wikimedia.org/wikipedia/commons/4/46/Buddleja_davidii.001_-_A_Pontenova.jpg)
 
 ###### Questions

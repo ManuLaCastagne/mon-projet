@@ -20,9 +20,9 @@ indice_5:
   - pilotes de course
 indice_6:
   - Formule 1
+culture_g_score: 47
+culture_g_justification: "Héros automobile classique de la bande dessinée franco-belge, identifiable par son univers de courses mais peu transversal hors de la BD."
 ---
-
-
 ![Image de Michel Vaillant](https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_michel_vaillant_vaillante.png)
 
 ###### Questions

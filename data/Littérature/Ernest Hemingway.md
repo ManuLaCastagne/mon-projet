@@ -22,8 +22,9 @@ indice_6 :
   - expatriation à Paris
 questions:
  - En 1954, quel écrivain, auteur de "L'Adieu aux Armes" et de "Pour qui sonne le glas" est récompensé par le prix Nobel?
+culture_g_score: 100
+culture_g_justification: "Figure incontournable de la littérature mondiale, liée au Nobel, à la guerre, au journalisme, aux voyages et à de nombreux classiques."
 ---
-
 ![Image de Ernest Hemingway](https://upload.wikimedia.org/wikipedia/commons/9/9f/Ernest_Hemingway_in_Milan_1918_retouched_3.jpg)
 
 ###### Questions

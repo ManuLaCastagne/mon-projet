@@ -18,8 +18,9 @@ indice_5 :
   - Répression coloniale
 indice_6 : 
   - Empire et résistance
+culture_g_score: 71
+culture_g_justification: "Roman majeur de Coetzee, rentable pour le prix Nobel, la littérature postcoloniale et la critique de la violence d’État."
 ---
-
 ![Image de En attendant les barbares]()
 
 ###### Questions

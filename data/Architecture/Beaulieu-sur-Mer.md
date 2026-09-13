@@ -23,8 +23,9 @@ indice_6 :
   - corniches sur la Méditerranée
 questions:
  - Quelle station balnéaire de la Côte d'Azur abrite la villa Kérylos, une habitation construite sur le modèle des villas de la Grèce antique?
+culture_g_score: 31
+culture_g_justification: "Beaulieu-sur-Mer est une commune touristique notable pour quelques villas, mais trop locale pour être prioritaire."
 ---
-
 ![Image de Beaulieu-sur-Mer](https://upload.wikimedia.org/wikipedia/commons/9/93/Port_de_Beaulieu-sur-Mer.JPG)
 
 ###### Questions

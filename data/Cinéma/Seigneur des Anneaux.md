@@ -18,8 +18,9 @@ indice_5 :
   - Gandalf
 indice_6 : 
   - Gollum
+culture_g_score: 100
+culture_g_justification: "Saga universellement connue reliant littérature, cinéma, mythologie, géographie, musique, récompenses et culture populaire."
 ---
-
 ![Image de Seigneur des Anneaux](https://upload.wikimedia.org/wikipedia/commons/b/be/Le_Seigneur_des_anneaux_les_Deux_Tours.svg)
 
 ###### Questions

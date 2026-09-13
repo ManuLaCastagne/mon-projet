@@ -20,8 +20,9 @@ indice_6 :
   - fils de Guy Bedos
 questions:
  - Quel acteur et chroniqueur est également le réalisateur des films "La Belle Époque" et "Monsieur & Madame Adelman" ?
+culture_g_score: 55
+culture_g_justification: "Artiste médiatique présent dans l'humour, le cinéma et la télévision, mais dont la valeur de référence reste surtout française et contemporaine."
 ---
-
 ![Image de Nicolas Bedos](https://upload.wikimedia.org/wikipedia/commons/1/1f/Nicolas_Bedos_D%C3%A9jeuner_C%C3%A9sar_2018.jpg)
 
 ###### Questions

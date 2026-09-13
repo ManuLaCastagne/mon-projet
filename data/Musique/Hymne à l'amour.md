@@ -22,10 +22,9 @@ indice_6 :
   - classique français
 questions:
  - En 1950, quelle chanson d'amour d'Edith Piaf est associée à Marcel Cerdan?
+culture_g_score: 88
+culture_g_justification: "Grand classique de Piaf associé à Marcel Cerdan, l’Hymne à l’amour est une référence incontournable de la chanson française et de nombreuses reprises."
 ---
-
-
-
 ![Image de Hymne à l'amour](https://upload.wikimedia.org/wikipedia/commons/5/52/L%E2%80%99%C5%92uvre_n%C2%B0_4139_-_30_janvier_1927_%28extrait_Hymne_%C3%A0_l%E2%80%99Universelle_Humanit%C3%A9%29.djvu)
 
 ###### Questions

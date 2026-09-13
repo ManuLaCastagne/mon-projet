@@ -24,8 +24,9 @@ indice_6 :
   - connue pour ses parcs nationaux comme les lacs de Plitviče
 questions:
  - On admire ici une vue du parc national de Plitvice, inscrit au patrimoine de l'Unesco et qui abrite 16 lacs entourés de forêts. Dans quel pays...
+culture_g_score: 80
+culture_g_justification: "Pays européen régulièrement interrogé pour Zagreb, l’Adriatique, les Balkans, l’indépendance et les lacs de Plitvice."
 ---
-
 ![Image de Croatie](https://upload.wikimedia.org/wikipedia/commons/c/c0/Napoleonic_Eagle_%28Illyrian_Provinces%29.svg)
 
 ![[Carte_Croatie.png]]

@@ -21,9 +21,9 @@ indice_6:
   - ancrage dans la vase
 questions:
   - Quelle plante de bord d'étang, pourvue d'un épi de fleur terminal, est notamment représentée par le phragmite et la massette?
+culture_g_score: 63
+culture_g_justification: "Le roseau ouvre des liens avec les zones humides, les matériaux, l'Égypte ancienne et la Bible, malgré certaines confusions avec le papyrus."
 ---
-
-
 ![Image de Roseau](https://upload.wikimedia.org/wikipedia/commons/e/ec/Roseau%2C_Minnesota_%28circa_1900%29.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Rose des haies
 indice_6:
   - Utilisé en phytothérapie et pour les confitures de cynorrhodon
+culture_g_score: 44
+culture_g_justification: "Arbuste lié à la rose sauvage et au cynorhodon, avec quelques occurrences botaniques ou alimentaires."
 ---
-
 ![Image de Églantier](https://upload.wikimedia.org/wikipedia/commons/3/3e/Plant-Rosa_rubiginosa-Egelantier.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - inspiratrice de nombreux artistes contemporains
 questions:
  - En 1975, dans le tube "Lady Marmelade", quelle chanteuse américaine pose cette question  "Voulez-vous..."
+culture_g_score: 71
+culture_g_justification: "Grande voix de la soul et du R&B, rendue particulièrement mémorable par Labelle et « Lady Marmalade »."
 ---
-
 ![Image de Patti LaBelle](https://upload.wikimedia.org/wikipedia/commons/9/94/Patti_Labelle.jpg)
 
 ###### Questions

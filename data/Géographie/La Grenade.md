@@ -22,8 +22,9 @@ indice_5 :
   - Grand Anse Beach
 indice_6 : 
   - Carnavals et festivals
+culture_g_score: 64
+culture_g_justification: "Petit pays caribéen lié à l’opération américaine de 1983 et aux épices, la Grenade est une connaissance géographique classique mais secondaire."
 ---
-
 ![[Carte_La Grenade.png]]
 
 ###### Questions

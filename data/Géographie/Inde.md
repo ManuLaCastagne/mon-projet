@@ -24,8 +24,9 @@ indice_6 :
   - Mumbai
 questions:
  - Quel pays d'Asie possède un hymne national dont les paroles et la musique ont été composées par l'écrivain et prix Nobel Rabindranath Tagore?
+culture_g_score: 100
+culture_g_justification: "Pays majeur de la géographie, de l’histoire, des religions, des civilisations, de la politique et de la culture mondiales, extrêmement fréquent dans les quiz."
 ---
-
 ![[Carte_Inde.png]]
 
 ###### Questions

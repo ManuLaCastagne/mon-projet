@@ -19,8 +19,9 @@ indice_5:
   - médaillée d'or olympique
 indice_6:
   - originaire d'Allemagne de l'Est
+culture_g_score: 44
+culture_g_justification: "Son exploit unique aux Jeux d'été et d'hiver la rend mémorable, mais le sujet reste ponctuel et spécialisé."
 ---
-
 ![Image de Christa Luding-Rothenburger](https://upload.wikimedia.org/wikipedia/commons/9/9d/Christa_Rothenburger_%28cropped%29v2.JPG)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - films francophones
 questions:
  - Quelle actrice, née en 1999 est la fille de Vanessa Paradis et de Johnny Depp ?
+culture_g_score: 57
+culture_g_justification: "Actrice médiatisée par sa filiation et quelques films, mais encore peu importante et peu transversale pour un quiz généraliste."
 ---
-
 ![Image de Lily Rose Depp](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lily-Rose_Depp_Cannes_2016.jpg)
 
 ###### Questions

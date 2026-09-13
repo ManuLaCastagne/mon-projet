@@ -18,6 +18,8 @@ indice_5 :
   - dévastation de l'Allemagne
 indice_6 : 
   - implications pour la France et la Suède
+culture_g_score: 87
+culture_g_justification: "Conflit européen majeur reliant religion, rivalités dynastiques, dévastation démographique et traités de Westphalie."
 ---
 
 
@@ -27,7 +29,7 @@ indice_6 :
 
 Quel conflit, ayant duré de [[1618]] à [[1648]], a causé la dévastation de vastes régions du Saint-Empire romain germanique, entraînant une diminution significative de sa population ? 
 
-Quel événement historique a changé l'équilibre du pouvoir en Europe et a abouti à la signature des [[traités de Westphalie]] en [[1648]], établissant le principe de la souveraineté nationale moderne ?
+Quel événement historique a changé l'équilibre du pouvoir en Europe et a abouti à la signature des [[traités de Westphalie]] en [[1648]], établissant le principe de la souveraineté nationale moderne ? <!-- score: 3 -->
 
 Quel conflit majeur, déclenché par la [[défenestration de Prague]] en [[1618]], a impliqué la plupart des pays européens et est considéré comme l'un des plus destructeurs de l'histoire pré-moderne du continent ? <!-- score: 4 -->
 

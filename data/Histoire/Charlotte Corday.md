@@ -20,8 +20,9 @@ indice_6 :
   - 1793
 questions:
  - Indignée des outrances de Marat, quelle arrière-petite-nièce...
+culture_g_score: 77
+culture_g_justification: "Son assassinat de Marat en fait une figure très classique de la Révolution française, avec plusieurs liens vers la Terreur et les Girondins."
 ---
-
 ![Image de Charlotte Corday](https://upload.wikimedia.org/wikipedia/commons/c/ce/Charlotte_Corday.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - vie rurale
 questions:
  - Dans quel roman de Louis Hémon en 1921 ayant pour cadre le Canada l'héroïne est-elle amoureuse d'un bûcheron ?
+culture_g_score: 52
+culture_g_justification: "Classique de la littérature québécoise et canadienne, mais principalement interrogé sous l’angle de son intrigue, de Louis Hémon et du Québec rural."
 ---
-
-
 ![Image de Maria Chapdelaine](https://upload.wikimedia.org/wikipedia/commons/6/6c/Maria_Chapdelaine.png)
 
 ###### Questions

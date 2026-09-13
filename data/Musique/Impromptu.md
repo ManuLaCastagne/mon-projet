@@ -22,8 +22,9 @@ indice_6 :
   - créativité
 questions:
  - Quel nom porte la pièce instrumentale de forme libre et de caractère improvisé, généralement composée pour le piano?
+culture_g_score: 44
+culture_g_justification: "Cette forme musicale permet quelques questions classiques sur Schubert, Chopin et la composition, sans être incontournable."
 ---
-
 ![Image de Impromptu](https://upload.wikimedia.org/wikipedia/commons/c/c2/Schubert-_Impromptu_B-flat2.ogg)
 
 ###### Questions

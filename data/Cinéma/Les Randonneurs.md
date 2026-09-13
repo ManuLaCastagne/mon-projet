@@ -22,8 +22,9 @@ indice_6 :
   - Benoît Poelvoorde
 questions:
  - En 1997, dans quel film de Philippe Harel un groupe de promeneurs se disputent-ils en Corse ?
+culture_g_score: 40
+culture_g_justification: "Comédie française des années 1990 identifiable par son casting, mais trop secondaire pour constituer une priorité."
 ---
-
 ![Image de Les Randonneurs](https://upload.wikimedia.org/wikipedia/commons/0/04/Labeaume_-_Poteau_de_signalisation_pour_les_randonneurs_-_Labeaume_et_Rosi%C3%A8res.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/30RmEyZdIYdYpSTkMtgtKt" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -18,8 +18,9 @@ indice_5 :
   - Palais des papes
 indice_6 : 
   - Collège de la Sorbonne
+culture_g_score: 47
+culture_g_justification: "Pape utile pour comprendre la papauté d’Avignon, mais figure médiévale spécialisée et peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Benoît XII](https://upload.wikimedia.org/wikipedia/commons/1/1b/Beno%C3%AEt_XII_Paolo_de_Siena_1341_crypte_de_St_Pierre_de_Rome.jpg)
 
 ###### Questions

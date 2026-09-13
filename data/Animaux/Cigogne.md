@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fertilité et de naissance
 questions:
  - Au printemps, quel grand échassier au plumage noir et blanc...
+culture_g_score: 71
+culture_g_justification: "Oiseau emblématique associé à l’Alsace, à la migration et à la légende des nouveau-nés, avec plusieurs angles classiques."
 ---
-
 ![Image de Cigogne](https://upload.wikimedia.org/wikipedia/commons/2/29/%C3%89glise_paroissiale_Notre-Dame_de_Cigogn%C3%A9.JPG)
 
 ###### Questions

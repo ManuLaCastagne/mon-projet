@@ -22,9 +22,9 @@ indice_6 :
   - Piano
 questions:
  - De quel musicien allemand, disparu en 1827, peut-on expliquer la composition de "La Sonate au clair de lune" par des...
+culture_g_score: 100
+culture_g_justification: "Compositeur universellement incontournable, mobilisable par ses symphonies, sa surdité, le romantisme, l'Europe et de nombreux repères historiques."
 ---
-
-
 ![Image de Ludwig van Beethoven](https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg)
 
 ###### Questions

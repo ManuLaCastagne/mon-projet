@@ -18,8 +18,9 @@ indice_5 :
   - Succès dans les années 1950 et 1960
 indice_6 : 
   - Ancien avocat reconverti en télévision
+culture_g_score: 63
+culture_g_justification: "Pionnier de la télévision et animateur de programmes historiques, il offre plusieurs repères sur les débuts de la télévision française."
 ---
-
 ![Image de Jean Nohain](https://upload.wikimedia.org/wikipedia/commons/e/e3/Jean_Nohain.png)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5 :
   - acteur et réalisateur
 indice_6 : 
   - figure du théâtre français
+culture_g_score: 67
+culture_g_justification: "Jean Vilar est un repère important du théâtre français grâce au Festival d’Avignon, au TNP et à la démocratisation culturelle."
 ---
-
 ![Image de Jean Vilar](https://upload.wikimedia.org/wikipedia/commons/b/be/Jean_Vilar%2C_April_1955.jpg)
 
 ###### Questions

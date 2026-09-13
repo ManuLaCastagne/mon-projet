@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Dans les années 20, quel coureur de fond finlandais est entré dans l'histoire des JO en obtenant 12 médailles ?
  - De 1920 à 1928, quel athlète, spécialiste du fond et du demi-fond et surnommé le Finlandais volant, a obtenu 12 médailles olympiques?
+culture_g_score: 84
+culture_g_justification: "Légende de l’athlétisme olympique, associée à neuf titres, aux Jeux de Paris 1924 et à l’histoire du sport moderne."
 ---
-
 ![Image de Paavo Nurmi](https://upload.wikimedia.org/wikipedia/commons/1/1a/1740_Paavo_Nurmi_discovery_plate.jpg)
 
 ###### Questions

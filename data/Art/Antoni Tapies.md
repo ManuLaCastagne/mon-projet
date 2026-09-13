@@ -23,9 +23,9 @@ indice_6 :
   - art informel
 questions:
  - A quel peintre barcelonais, disparu en 2012, associe-t-on des oeuvres présentant des objets banals piégés dans l'épaisseur de la matière?
+culture_g_score: 47
+culture_g_justification: "Artiste espagnol important pour la peinture matérialiste contemporaine, mais rarement indispensable à un joueur généraliste."
 ---
-
-
 ![Image de Antoni Tapies](https://upload.wikimedia.org/wikipedia/commons/1/15/Antoni_T%C3%A0pies_%281%29.jpg)
 
 ###### Questions

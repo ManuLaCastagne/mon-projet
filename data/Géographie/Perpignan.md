@@ -21,9 +21,9 @@ indice_5 :
   - Gare de Perpignan
 indice_6 : 
   - Roussillon
+culture_g_score: 60
+culture_g_justification: "Ville française identifiable par Dalí, le Roussillon, la frontière espagnole et Visa pour l’Image, avec plusieurs angles mais une portée modérée."
 ---
-
-
 ![[Carte_Perpignan.png]]
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Francis Veber
 questions:
  - Dès 93, dans quelle pièce de Francis Veber, portée par la suite à l'écran, interprète-t-il le rôle de Pierre Brochant?
+culture_g_score: 72
+culture_g_justification: "Comédie française culte et souvent citée pour Veber, Villeret, Pignon et ses répliques, mais d’impact surtout national."
 ---
-
 ![Image de Le Dîner de Cons](https://upload.wikimedia.org/wikipedia/commons/a/a2/Genevi%C3%A8ve_Rochette_dans_Le_D%C3%AEner_de_cons.jpg)
 
 ###### Questions

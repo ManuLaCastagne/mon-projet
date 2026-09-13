@@ -24,8 +24,9 @@ indice_6 :
   - région de Bessarabie
 questions:
  - Quel pays, situé entre la Roumanie et l'Ukraine, possède un drapeau orné d'une figure représentant un aigle...
+culture_g_score: 67
+culture_g_justification: "Pays européen utile pour les questions sur l’espace post-soviétique, les frontières et la géopolitique régionale."
 ---
-
 ![Image de Moldavie](https://upload.wikimedia.org/wikipedia/commons/8/8d/Mda_motorcycle.JPG)
 
 ![[Carte_Moldavie.png]]

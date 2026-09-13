@@ -13,8 +13,9 @@ indice_5:
   - Ammophile
 indice_6:
   - Stabilisation des dunes de sable
+culture_g_score: 60
+culture_g_justification: "Graminée directement liée aux dunes, à l'érosion et à l'aménagement littoral, ce qui en fait une bonne connaissance environnementale."
 ---
-
 ![Image de Oyat](https://upload.wikimedia.org/wikipedia/commons/2/2b/Ammophila_arenaria_en_De%C3%B1al.JPG)
 
 ###### Questions

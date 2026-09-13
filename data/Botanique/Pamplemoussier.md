@@ -16,8 +16,9 @@ indice_6 :
 questions:
  - Arbre de la famille des rutacées, atteignant 10 m de haut, mon croisement naturel avec l'oranger a donné le pomelo. Produisant un fruit à peau jaune épaisse, à la chair parfois rose...
  - Arbre dont le fruit est très prisé en Asie, je suis nommé "shadock" en anglais et produit par un arbre nommé citrus maxima.
+culture_g_score: 40
+culture_g_justification: "Arbre à l'origine d'une confusion lexicale et du nom shaddock, mais rarement demandé indépendamment du fruit."
 ---
-
 ![Image de Pamplemoussier](https://upload.wikimedia.org/wikipedia/commons/1/1b/Citrus_maxima_%28Burm.%29_Osbeck_%283188650254%29.jpg)
 
 ###### Questions

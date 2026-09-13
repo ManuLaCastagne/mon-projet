@@ -24,8 +24,9 @@ indice_6 :
   - Tour génoise
 questions:
  - Quel archipel corse devait son nom  à une expression signifiant "les îles qui annoncent "Sagone" ?
+culture_g_score: 24
+culture_g_justification: "Archipel corse pittoresque, principalement exploitable dans une question touristique ou régionale très spécifique."
 ---
-
 ![Image de Sanguinaires](https://upload.wikimedia.org/wikipedia/commons/5/5d/Ajaccio_Sanguinaires_1.jpg)
 
 ![[Carte_Sanguinaires.png]]

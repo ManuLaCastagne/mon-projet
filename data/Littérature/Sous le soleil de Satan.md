@@ -22,9 +22,9 @@ indice_6 :
   - adaptation cinématographique de 1987 par Maurice Pialat
 questions:
  - En 1926, dans quel roman Georges Bernanos met-il en scène l'abbé Donissan et la jeune Mouchette?
+culture_g_score: 51
+culture_g_justification: "Roman important de Bernanos et du catholicisme littéraire français, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Sous le soleil de Satan](https://upload.wikimedia.org/wikipedia/commons/5/59/Sous_le_soleil_de_Satan_1926.jpg)
 
 ###### Questions

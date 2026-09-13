@@ -22,8 +22,9 @@ indice_6 :
   - adaptation cinématographique
 questions:
  - Un film de Claude Chabrol, adaptation d'une oeuvre d'Henry Miller.
+culture_g_score: 23
+culture_g_justification: "Jours tranquilles à Clichy est un film de Claude Chabrol très peu connu du grand public et rarement utile hors d'un quiz cinéphile."
 ---
-
 ![Image de Jours tranquilles à Clichy](https://upload.wikimedia.org/wikipedia/commons/7/7f/Le_p%C3%A8re_Latuile%2C_ou_Le_cabaret_de_la_barri%C3%A8re_Clichy%2C_1836.djvu)
 
 ###### Questions

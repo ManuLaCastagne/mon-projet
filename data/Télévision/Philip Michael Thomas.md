@@ -18,8 +18,9 @@ indice_5 :
   - Connu pour son style vestimentaire et sa moustache
 indice_6 : 
   - Apparu dans 'Miami Vice'
+culture_g_score: 52
+culture_g_justification: "Acteur fortement associé à Miami Vice, mais offrant peu d’angles indépendants au-delà de ce rôle et de l’anecdote EGOT."
 ---
-
 ![Image de Philip Michael Thomas](https://upload.wikimedia.org/wikipedia/commons/c/c3/Philip_Michael_Thomas_1985.jpg)
 
 ###### Questions

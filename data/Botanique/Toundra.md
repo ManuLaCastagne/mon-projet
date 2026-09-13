@@ -15,8 +15,9 @@ indice_6:
   - Étude des changements climatiques
 questions:
   - Me composant du sud au nord de landes à arbustes puis de landes...
+culture_g_score: 72
+culture_g_justification: "Écosystème majeur permettant des questions sur le climat, le pergélisol, la géographie et les adaptations du vivant."
 ---
-
 ![Image de Toundra](https://upload.wikimedia.org/wikipedia/commons/e/e1/Siberian_tundra_02.jpg)
 
 ###### Questions

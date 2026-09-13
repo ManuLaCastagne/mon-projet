@@ -20,8 +20,9 @@ indice_6 :
   - surnommé l'organisateur de la victoire
 questions:
  - Quel homme politique français, surnommé "l'organisateur de la victoire", fut ministre de l'Intérieur durant les Cent Jours ?
+culture_g_score: 67
+culture_g_justification: "Lazare Carnot relie Révolution française, Comité de salut public, histoire militaire, mathématiques et ingénierie, mais reste moins connu que les grandes figures révolutionnaires."
 ---
-
 ![Image de Lazare Carnot](https://upload.wikimedia.org/wikipedia/commons/a/a4/Lazare-Carnot-par-Boilly.jpg)
 
 ###### Questions

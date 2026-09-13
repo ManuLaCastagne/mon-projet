@@ -20,8 +20,9 @@ indice_6 :
   - Canal+
 questions:
  - Quel ancien basketteur, devenu consultant sportif, a été champion de France en 1981 avec l'ASVEL...
+culture_g_score: 47
+culture_g_justification: "Ancien basketteur et commentateur apprécié en France, Monclar est surtout utile dans des quiz sportifs francophones spécialisés."
 ---
-
 ![Image de Jacques Monclar](https://upload.wikimedia.org/wikipedia/commons/9/9a/Correspondance_g%C3%A9n%C3%A9rale_de_J.-J._Rousseau%2C_vol._12.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - écriture en français
 questions:
  - Début 2021, quel écrivain d'origine russe, membre de l'Académie française, a publié le roman "L'Ami arménien"?
+culture_g_score: 60
+culture_g_justification: "Makine est un auteur francophone distingué et lié à la Russie, mais ses apparitions dans les quiz généralistes restent occasionnelles."
 ---
-
 ![Image de Andreï Makine](https://upload.wikimedia.org/wikipedia/commons/6/61/Andrei_Makine.jpg)
 
 ###### Questions

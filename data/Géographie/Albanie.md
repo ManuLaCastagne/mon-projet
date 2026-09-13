@@ -23,8 +23,9 @@ indice_6 :
   - Balkan Peninsula
 questions:
  - Etat d'Europe culminant au Korab, j'ai été colonisé dans l'Antiquité par les Grecs puis les Romains, avant de passer sous la domination slave, puis ottomane avant mon indépendance en 1912.
+culture_g_score: 67
+culture_g_justification: "Pays balkanique régulièrement utile pour les capitales, les guerres, la géographie européenne et la période communiste."
 ---
-
 ![Image de Albanie](https://upload.wikimedia.org/wikipedia/commons/1/11/Gjipe_beach%2C_Albania.JPG)
 
 ![[Carte_Albanie.png]]

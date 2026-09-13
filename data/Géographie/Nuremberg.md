@@ -21,8 +21,9 @@ indice_5 :
   - Pegnitz
 indice_6 : 
   - Tribunal de Nuremberg
+culture_g_score: 80
+culture_g_justification: "Ville très rentable grâce aux procès nazis, au rôle du parti nazi, à l'histoire allemande et à son patrimoine culturel."
 ---
-
 ![[Carte_Nuremberg.png]]
 
 ###### Questions

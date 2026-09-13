@@ -20,8 +20,9 @@ indice_6 :
   - Wimbledon
 questions:
  - Type d'équipement sportif dont les premiers exemplaires en France ont été construits à Dinard en 1878, je fais mon apparition à Paris au sein du Decimal Club.
+culture_g_score: 44
+culture_g_justification: "Équipement sportif familier mais peu pertinent comme référence culturelle en lui-même, malgré quelques questions sur ses surfaces et ses dimensions."
 ---
-
 ![Image de Court de tennis](https://upload.wikimedia.org/wikipedia/commons/7/7b/Laura_Robson.JPG)
 
 ###### Questions

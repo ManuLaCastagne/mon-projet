@@ -22,8 +22,9 @@ indice_6 :
   - 1986
 questions:
  - En 1986, dans quel premier volet d'un diptyque adapté d'une oeuvre de Pagnol met-il en scène Gérard Depardieu dans le rôle de Jean Cadoret ?
+culture_g_score: 80
+culture_g_justification: "Classique du cinéma français lié à Pagnol, à la Provence, à Claude Berri et à une distribution très connue."
 ---
-
 ![Image de Jean de Florette](https://upload.wikimedia.org/wikipedia/commons/9/9f/B38_Florette_Jean_V_%2822933974352%29.jpg)
 
 ###### Questions

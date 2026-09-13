@@ -23,8 +23,9 @@ indice_6:
   - Diffusion de films d'auteur et de blockbusters
 questions:
   - En 2016, dans quel film Tom Hanks joue-t-il le pilote Chesley Sullenberger, qui a posé son appareil endommagé sur le fleuve Hudson en 2009?
+culture_g_score: 60
+culture_g_justification: "Film fondé sur le célèbre Miracle sur l’Hudson, utile pour relier cinéma, aviation et Tom Hanks, mais d’ampleur limitée."
 ---
-
 ![Image de Sully](https://upload.wikimedia.org/wikipedia/commons/5/5b/Thomas_Sully_-_Portrait_of_Major_John_Biddle.jpg)
 
 ###### Questions

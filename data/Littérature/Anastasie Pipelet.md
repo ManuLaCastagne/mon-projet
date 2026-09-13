@@ -22,9 +22,9 @@ indice_6 :
   - caricature de pipelette
 questions:
  - Quel surnom, inspiré d'un personnage des "Mystères de Paris" d'Eugène Sue, donne-t-on parfois à la censure en France, inspiré d'un des personnages des "Mystères de Paris"?
+culture_g_score: 20
+culture_g_justification: "Personnage secondaire des Mystères de Paris, Anastasie Pipelet ne permet guère de répondre qu'à des questions littéraires très spécialisées."
 ---
-
-
 ![Image de Anastasie Pipelet](https://upload.wikimedia.org/wikipedia/commons/b/bb/Journal_de_La_Haye_19-12-1842_%28IA_ddd_010256919_mpeg21%29.pdf)
 
 ###### Questions

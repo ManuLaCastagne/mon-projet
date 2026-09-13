@@ -22,8 +22,9 @@ indice_6 :
   - chef-d'œuvre du cinéma catastrophe
 questions:
  - Film américain de 1974.
+culture_g_score: 64
+culture_g_justification: "Film catastrophe emblématique des années 1970, utile pour le cinéma populaire, ses acteurs et l’histoire du genre, sans être incontournable."
 ---
-
 ![Image de La Tour infernale](https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Towering_Inferno_trailer%2C_the_tower.jpg)
 
 ###### Questions

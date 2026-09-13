@@ -22,8 +22,9 @@ indice_6 :
   - acteur australien
 questions:
  - En 2000, quel acteur australien connaît la consécration en interprétant le rôle de Wolverine dans la série des "X-Men"?
+culture_g_score: 76
+culture_g_justification: "Acteur très identifiable par Wolverine, les comédies musicales et les grands films hollywoodiens."
 ---
-
 ![Image de Hugh Jackman](https://upload.wikimedia.org/wikipedia/commons/0/02/Hugh_Jackman_by_Gage_Skidmore_3.jpg)
 
 ###### Questions

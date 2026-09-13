@@ -22,10 +22,9 @@ indice_6:
   - Siège 1992-1996
 questions:
   - On vient d'entendre "Take me out", un tube de 2004 du groupe britannique Franz Ferdinand, qui a choisi son nom en référence à l'archiduc d'Autriche François-Ferdinand de Habsbourg.  Le 28 juin 1914, dans quelle ville des Balkans…
+culture_g_score: 88
+culture_g_justification: "Ville liée à l’attentat de 1914, aux Jeux olympiques de 1984 et au siège de la guerre de Bosnie."
 ---
-
-
-
 ![Image de Sarajevo](https://upload.wikimedia.org/wikipedia/commons/e/e3/Sarajevo_City_Panorama.JPG)
 
 ![[Carte_Sarajevo.png]]

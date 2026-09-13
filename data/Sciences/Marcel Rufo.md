@@ -20,8 +20,9 @@ indice_6 :
   - Psychopathologie
 questions:
  - Dans les années 2000, quel pédopsychiatre français a publié les ouvrages "Oedipe toi-même!", "Frères et soeurs, une maladie d'amour" ?
+culture_g_score: 44
+culture_g_justification: "Pédopsychiatre médiatique connu en France, mais principalement pertinent dans des questions de télévision ou de psychologie spécialisées."
 ---
-
 ![Image de Marcel Rufo](https://upload.wikimedia.org/wikipedia/commons/b/ba/Marcel_Rufo_2007.jpg)
 
 ###### Questions

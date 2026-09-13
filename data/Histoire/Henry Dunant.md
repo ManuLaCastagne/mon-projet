@@ -18,8 +18,9 @@ indice_5 :
   - 1828-1910
 indice_6 : 
   - humanitaire
+culture_g_score: 85
+culture_g_justification: "Fondateur de la Croix-Rouge et premier Nobel de la paix, Dunant offre des repères très réutilisables sur l'humanitaire, Solferino et le droit de la guerre."
 ---
-
 ![Image de Henry Dunant](https://upload.wikimedia.org/wikipedia/commons/3/38/Henry_Dunant-young.jpg)
 
 ###### Questions

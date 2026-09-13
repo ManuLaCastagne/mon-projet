@@ -20,9 +20,9 @@ indice_6 :
   - Numéro 7
 questions:
  - 2000. Quel footballeur, étant passé du FC Barcelone au Real Madrid, est devenu le 2e Portugais lauréat du Ballon d'or ?
+culture_g_score: 80
+culture_g_justification: "Grand footballeur portugais associé au Ballon d’or, au Barça, au Real Madrid et à un transfert historique souvent évoqué."
 ---
-
-
 ![Image de Luis Figo](https://upload.wikimedia.org/wikipedia/commons/8/82/L._Figo_2017_%28cropped%29.jpg)
 
 ###### Questions

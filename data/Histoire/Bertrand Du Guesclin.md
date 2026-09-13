@@ -20,8 +20,9 @@ indice_6 :
   - connétable de France en 1370
 questions:
  - Quel homme de guerre breton et connétable de France, qui a été fait prisonnier par les Anglais à la Bataille d'Auray, dans le Morbihan, en 1364 ?
+culture_g_score: 72
+culture_g_justification: "Grand chef militaire de la guerre de Cent Ans, utile pour Charles V, la Bretagne, le connétable et plusieurs batailles médiévales."
 ---
-
 ![Image de Bertrand Du Guesclin](https://upload.wikimedia.org/wikipedia/commons/a/ab/Cours_Saint-Andr%C3%A9_%28Du_Guesclin%29_-_Nantes.jpg)
 
 ###### Questions

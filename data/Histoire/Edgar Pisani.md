@@ -20,9 +20,9 @@ indice_6 :
   - écrivain et penseur
 questions:
  - En 1984, quel ancien résistant ex-ministre sous la présidence de Charles de Gaulle, est chargé de gérer la crise en Nouvelle-Calédonie ?
+culture_g_score: 40
+culture_g_justification: "Homme politique français important dans certains dossiers agricoles et diplomatiques, mais peu connu et rarement interrogé par les généralistes."
 ---
-
-
 ![Image de Edgar Pisani](https://upload.wikimedia.org/wikipedia/commons/1/13/Edgard_Pisani_1964.jpg)
 
 ###### Questions

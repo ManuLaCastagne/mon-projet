@@ -22,8 +22,9 @@ indice_6:
   - rôles de composition
 questions:
   - En 2020, dans quel film de Marc Fitoussi Karin Viard incarne-t-elle une femme unie à Benjamin Biolay qui joue un prestigieux chef d'orchestre?
+culture_g_score: 23
+culture_g_justification: "Film français contemporain assez confidentiel, susceptible d’apparaître seulement dans des questions spécialisées."
 ---
-
 ![Image de Les Apparences](https://upload.wikimedia.org/wikipedia/commons/b/be/Les_Apparences_sont_trompeuses_-_sc%C3%A9nario_-_btv1b64080783_%281_of_2%29.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - musique classique
 indice_6:
   - enregistrements célèbres
+culture_g_score: 71
+culture_g_justification: "Chef d’orchestre mondialement reconnu, Karajan est utile pour l’histoire de la musique classique et des enregistrements, mais moins souvent interrogé que les compositeurs."
 ---
-
-
 ![Image de Herbert von Karajan](https://upload.wikimedia.org/wikipedia/commons/4/40/Bundesarchiv_Bild_183-S47421%2C_Herbert_von_Karajan.jpg)
 
 ###### Questions

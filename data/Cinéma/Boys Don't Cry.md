@@ -22,8 +22,9 @@ indice_6 :
   - transidentité
 questions:
  - Dans quel film, lui ayant permis d'obtenir un Oscar en 2000, Hilary Swank incarne-t-elle une adolescente se faisant passer pour un garçon?
+culture_g_score: 52
+culture_g_justification: "Film important sur l’identité de genre et récompensé pour Hilary Swank, mais peu fréquent en dehors des questions de cinéma et de société."
 ---
-
 ![Image de Boys Don't Cry](https://upload.wikimedia.org/wikipedia/commons/f/ff/Big_Girls_Don%27t_Cry_featuring_the_Eastcoast_Boys_logo.jpg)
 
 ###### Questions

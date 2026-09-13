@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de chance en Chine
 questions:
  - Quel insecte sauteur brun ou noir, dont l'espèce mâle grésille, possède...
+culture_g_score: 56
+culture_g_justification: "Le grillon est familier par son chant et ses références littéraires, mais il reste moins central que la cigale dans les quiz francophones."
 ---
-
 ![Image de Grillon](https://upload.wikimedia.org/wikipedia/commons/9/9d/Grillon_1_by_JM_Rosier.jpg)
 
 ###### Questions

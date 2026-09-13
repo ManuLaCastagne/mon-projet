@@ -15,8 +15,9 @@ indice_6:
   - Fleurs coupées et jardins
 questions:
   - Quelle rondelle de papier autocollante renforce les perforations des feuilles classées dans des reliures à anneaux?
+culture_g_score: 64
+culture_g_justification: "Fleur très connue, liée à la symbolique, à l'horticulture et à quelques repères culturels."
 ---
-
 ![Image de Œillet](https://upload.wikimedia.org/wikipedia/commons/f/fc/Dianthus_carthusianorum_Neulengbach_20160611_01.jpg)
 
 ###### Questions

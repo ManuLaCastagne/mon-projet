@@ -20,8 +20,9 @@ indice_5 :
   - Réalisme magique
 indice_6 : 
   - Les clowns
+culture_g_score: 80
+culture_g_justification: "Réalisateur fondamental du cinéma italien, associé à plusieurs titres classiques et à des thèmes récurrents de la culture cinématographique."
 ---
-
 ![Image de Federico Fellini](https://upload.wikimedia.org/wikipedia/commons/9/97/Federico_Fellini_NYWTS_2.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - sketches
 questions:
  - Humoriste, scénariste et comédien né en 1959 à Flers dans l'Orne, en 2012 j'ai été couronné par le prix Alphonse Allais dans le rôle d'un groom dans "Palace (série)".
+culture_g_score: 63
+culture_g_justification: "Figure reconnue de l'humour et de la radio grâce aux Deschiens, à Kaamelott et à ses chroniques, avec plusieurs angles de questions."
 ---
-
 ![Image de François Morel](https://upload.wikimedia.org/wikipedia/commons/8/8e/Fran%C3%A7ois_Morel_AN.jpg)
 
 ###### Questions

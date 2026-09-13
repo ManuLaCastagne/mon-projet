@@ -22,8 +22,9 @@ indice_6 :
   - succès international
 questions:
  - Dans les années 70, quelle chanson dédiée à sa mère constitue le plus gros succès de la carrière de Nicoletta?
+culture_g_score: 60
+culture_g_justification: "Chanson internationale à nombreuses reprises, assez classique des quiz musicaux, mais moins structurante que les grands standards mondiaux."
 ---
-
 ![Image de Mamy Blue](https://upload.wikimedia.org/wikipedia/commons/4/45/Doxandem.jpg)
 
 ###### Questions

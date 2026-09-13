@@ -21,9 +21,9 @@ indice_5 :
   - Astérix
 indice_6 : 
   - Lutèce
+culture_g_score: 100
+culture_g_justification: "Notion structurante de l’histoire antique de la France et de l’Europe, liée aux Celtes, à César, à Rome et à Vercingétorix."
 ---
-
-
 ![[Carte_Gaule (pays).png]]
 
 ###### Questions

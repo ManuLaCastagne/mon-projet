@@ -20,8 +20,9 @@ indice_6 :
   - protectionnisme économique
 questions:
  - En 1665, quel administrateur très influent de Louis XIV est nommé contrôleur général des Finances?
+culture_g_score: 85
+culture_g_justification: "Ministre majeur de Louis XIV, Colbert permet d’aborder le mercantilisme, les manufactures, la marine, les colonies et l’administration royale."
 ---
-
 ![Image de Colbert](https://upload.wikimedia.org/wikipedia/commons/5/5d/Galerie_Colbert.jpg)
 
 ###### Questions

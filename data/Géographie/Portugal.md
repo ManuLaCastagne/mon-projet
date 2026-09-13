@@ -20,8 +20,9 @@ indice_5:
   - Cabo da Roca
 indice_6:
   - Porto
+culture_g_score: 84
+culture_g_justification: "Pays européen très classique, rentable en géographie, histoire maritime, explorations, culture et relations internationales."
 ---
-
 ![Image de Portugal](https://upload.wikimedia.org/wikipedia/commons/3/32/Vista_de_Oporto_desde_Vila_Nova_de_Gaia%2C_Portugal%2C_2019-06-02%2C_DD_08-28_HDR_PAN.jpg)
 
 ![[Carte_Portugal.png]]

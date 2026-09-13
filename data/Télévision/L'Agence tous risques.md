@@ -18,9 +18,9 @@ indice_5:
   - Hannibal Smith
 indice_6:
   - musique introductive emblématique
+culture_g_score: 73
+culture_g_justification: "Série culte des années 1980, riche en indices récurrents comme Hannibal, Barracuda, B.A. et la célèbre formule sur les plans."
 ---
-
-
 ![Image de L'Agence tous risques](https://upload.wikimedia.org/wikipedia/commons/8/87/Aankomst_%27_The_A-Team%27_op_Circuit_Zandvoort%2C_tv-serie_1984_-_15.jpg)
 
 ###### Questions

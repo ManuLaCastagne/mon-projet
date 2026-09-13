@@ -22,8 +22,9 @@ indice_6 :
   - recettes de desserts
 questions:
  - En 1999, dans quelle comédie de Danielle Thompson 3 soeurs qui se retrouvent à l'approche de Noël ?
+culture_g_score: 40
+culture_g_justification: "Comédie française connue des amateurs de cinéma, mais rarement mobilisée dans les quiz généralistes au-delà de son titre et de sa distribution."
 ---
-
 ![Image de La Bûche](https://upload.wikimedia.org/wikipedia/commons/7/7a/B%C3%BBche_de_No%C3%ABl_chocolat_framboise_maison.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Championnat du monde des pilotes
 questions:
  - Quel pilote français de F1 a remporté 3 GP, avant de dipsaraître en 1987 dans une course de off-shore ?
+culture_g_score: 60
+culture_g_justification: "Pilote français important de la Formule 1, surtout interrogé sur son accident de 1982, Ferrari et sa carrière automobile ultérieure."
 ---
-
 ![Image de Didier Pironi](https://upload.wikimedia.org/wikipedia/commons/e/e1/Didier_Pironi_1982.jpg)
 
 ###### Questions

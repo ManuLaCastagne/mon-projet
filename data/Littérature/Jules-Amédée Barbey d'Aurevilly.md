@@ -21,8 +21,9 @@ indice_6:
   - écrivain et critique littéraire
 questions:
   - Quel écrivain, né en 1808  dans le Cotentin et auteur du recueil de nouvelles "Les Diaboliques" a-t-on surnommé le Connétable des lettres ?
+culture_g_score: 47
+culture_g_justification: "Écrivain français notable du XIXe siècle, mais principalement mobilisé dans des questions littéraires spécialisées."
 ---
-
 ![Image de Barbey d'Aurevilly](https://upload.wikimedia.org/wikipedia/commons/0/05/Barbey.jpg)
 
 ###### Questions

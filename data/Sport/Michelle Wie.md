@@ -20,8 +20,9 @@ indice_6 :
   - championnat d'Hawaï
 questions:
  - Quelle golfeuse américaine, née de parents coréens, a commencé sa carrière à l'Université Stanford, tout comme son idole Tiger Woods ?
+culture_g_score: 40
+culture_g_justification: "Golfeuse au parcours original mais relativement peu fréquente dans les quiz généralistes hors des questions sur ses records de précocité."
 ---
-
 ![Image de Michelle Wie](https://upload.wikimedia.org/wikipedia/commons/b/b3/Michelle_Wie_%288699508521%29.jpg)
 
 ###### Questions

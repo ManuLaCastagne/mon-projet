@@ -20,8 +20,9 @@ indice_6 :
   - années 1917-1922
 questions:
  - Par quelle expression désigne-t-on les partisans du tsar qui dûrent prendre le chemin de l'exil après la révolution d'octobre ?
+culture_g_score: 64
+culture_g_justification: "Notion importante pour comprendre la guerre civile russe et l’émigration antibolchevique, avec une fréquence de quiz modérée."
 ---
-
 ![Image de Russes blancs](https://upload.wikimedia.org/wikipedia/commons/c/c2/F%C3%AAte_costum%C3%A9e_chez_des_russes_blancs_%C3%A0_Paris_en_1925.jpg)
 
 ###### Questions

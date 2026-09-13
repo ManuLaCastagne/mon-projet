@@ -20,8 +20,9 @@ indice_6 :
   - erreur judiciaire
 questions:
  - En 1796, quelle affaire concernant l'attaque d'une malposte…
+culture_g_score: 40
+culture_g_justification: "Procès historique notable pour l’erreur judiciaire, mais trop spécialisé pour constituer une priorité généraliste."
 ---
-
 ![Image de Affaire du courrier de Lyon](https://upload.wikimedia.org/wikipedia/commons/6/69/Revue_d%27Histoire_de_Lyon_-_1905_-_tome_4.pdf)
 
 ###### Questions

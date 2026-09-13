@@ -18,8 +18,9 @@ indice_5 :
   - Anagni
 indice_6 : 
   - Pape
+culture_g_score: 67
+culture_g_justification: "Pape important pour les rapports entre pouvoir pontifical et monarchie française, mais surtout connu dans des questions médiévales spécialisées."
 ---
-
 ![Image de Boniface VIII](https://upload.wikimedia.org/wikipedia/commons/8/83/Giotto%2C_bonifacio_VIII_proclama_il_giubileo_del_1300%2C_frammento_02.jpg)
 
 ###### Questions

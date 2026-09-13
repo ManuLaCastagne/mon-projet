@@ -20,8 +20,9 @@ indice_6 :
   - animal intelligent
 questions:
  - En 2016, dans quelle comédie Ramzy Bedia se met-il en scène dans le rôle d'un homme qui se déguise en oiseau?
+culture_g_score: 7
+culture_g_justification: "Série d'animation très obscure, avec une probabilité presque nulle d'être demandée dans un quiz généraliste."
 ---
-
 ![Image de Hibou (série)](https://upload.wikimedia.org/wikipedia/commons/9/9c/An_Occurrence_at_Owl_Creek_Bridge_1891.jpg)
 
 ###### Questions

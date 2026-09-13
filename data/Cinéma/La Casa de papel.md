@@ -22,8 +22,9 @@ indice_6 :
   - masque
 questions:
  - Me déroulant notamment dans un bâtiment d'une institution dont le cycle officiel est FNMT-RCM, je réunis un groupe de braqueurs  ayant chacun pour pseudonyme un nom de ville. Série espagnole dans laquelle...
+culture_g_score: 73
+culture_g_justification: "Phénomène mondial de Netflix, facilement interrogé par son intrigue, ses personnages, ses acteurs et son origine espagnole."
 ---
-
 ![Image de La Casa de papel](https://upload.wikimedia.org/wikipedia/commons/6/6b/La_casa_de_papel_en_Halloween_cropped.jpg)
 
 ###### Questions

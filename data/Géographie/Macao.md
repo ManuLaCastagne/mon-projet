@@ -24,8 +24,9 @@ indice_6 :
   - mer de Chine méridionale
 questions:
  - Territoire asiatique célèbre pour mes nombreux casinos, j'ai été rétrocédé à la Chine en 1999.
+culture_g_score: 76
+culture_g_justification: "Territoire très identifiable par les casinos, l’héritage portugais, la rétrocession de 1999, la Chine et sa forte densité urbaine."
 ---
-
 ![Image de Macao](https://upload.wikimedia.org/wikipedia/commons/7/76/Aomen_China_Mailbox-01.jpg)
 
 ![[Carte_Macao.png]]

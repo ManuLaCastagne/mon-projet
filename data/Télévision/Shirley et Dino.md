@@ -20,8 +20,9 @@ indice_6 :
   - Mari et femme
 questions:
  - Sous quel nom de scène connaît-on mieux Gilles Benizio qui forme un duo comique avec son épouse, prénommée Corinne?
+culture_g_score: 40
+culture_g_justification: "Duo comique français apprécié mais relativement niche, principalement mobilisable dans des questions sur l’humour et la télévision des années 2000."
 ---
-
 ![Image de Shirley et Dino](https://upload.wikimedia.org/wikipedia/commons/5/52/Shirley_et_Dino_C%C3%A9sars.jpg)
 
 ###### Questions

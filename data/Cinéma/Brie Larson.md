@@ -18,8 +18,9 @@ indice_5 :
   - 21 Jump Street
 indice_6 : 
   - United States of Tara
+culture_g_score: 64
+culture_g_justification: "Actrice connue grâce à Room, Captain Marvel et son Oscar, mais encore trop récente et moins transversale que les grandes stars établies."
 ---
-
 ![Image de Brie Larson](https://upload.wikimedia.org/wikipedia/commons/4/40/Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_%28cropped%29.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - parc national de la Vanoise
 questions:
  - Dans les Alpes, quelle station frontalière située à 7 km de Modane abrite un centre spécialisé dans les avalanches ?
+culture_g_score: 20
+culture_g_justification: "Val-Fréjus est une station de ski locale, très peu connue hors du tourisme alpin et rarement interrogée en quiz généraliste."
 ---
-
 ![Image de Val-Fréjus](https://upload.wikimedia.org/wikipedia/commons/5/5b/Ponts_ferroviaires_Ligne_du_Fr%C3%A9jus_%C3%A0_Exilles_%28septembre_2024%29.JPG)
 
 ![[Carte_Val-Fréjus.png]]

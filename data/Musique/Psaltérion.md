@@ -22,8 +22,9 @@ indice_6 :
   - utilisé au Moyen Âge
 questions:
  - Au Moyen Age, quel instrument de musique, désigné par un mot signifiant harpe en grec, prenait la forme d'une cithare à cordes pincées?
+culture_g_score: 40
+culture_g_justification: "Instrument historique intéressant pour la musique médiévale, mais correspondant à des questions spécialisées et peu nombreuses."
 ---
-
 ![Image de Psaltérion](https://upload.wikimedia.org/wikipedia/commons/b/ba/Chiesa_di_San_Maurizio_-_Salterio_-_Scuola_Veniziana_-_1700.jpg)
 
 ###### Questions

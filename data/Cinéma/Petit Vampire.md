@@ -22,8 +22,9 @@ indice_6 :
   - adaptation de bande dessinée
 questions:
  - En 2020, dans quel film d'animation de Joann Sfar, adapté d'une de ses séries de BD, un fantôme devient l'ami d'un petit garçon qui s'appelle Michel ?
+culture_g_score: 40
+culture_g_justification: "Film d'animation identifiable grâce à Joann Sfar, mais sa diffusion et son importance restent limitées dans la culture générale."
 ---
-
 ![Image de Petit Vampire](https://upload.wikimedia.org/wikipedia/commons/6/6a/Morphy_-_Le_vampire%2C_1886.djvu)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - tableau La Bohémienne
 questions:
  - A quel peintre néerlandais, né en 1580 doit-on les oeuvres "La Bohémienne" et "Le Buveur de bière"?
+culture_g_score: 68
+culture_g_justification: "Frans Hals est un grand portraitiste du Siècle d'or néerlandais, mais ses questions restent principalement centrées sur la peinture baroque."
 ---
-
 ![Image de Frans Hals](https://upload.wikimedia.org/wikipedia/commons/4/42/Frans_Hals_-_Wedding_portrait_of_Isaac_Abrahamsz_Massa_and_Beatrix_van_der_Laan.jpg)
 
 ###### Questions

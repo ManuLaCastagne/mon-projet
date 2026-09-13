@@ -18,11 +18,9 @@ indice_5:
   - émissions en clair
 indice_6:
   - années 2000 et 2010
+culture_g_score: 76
+culture_g_justification: "Talk-show majeur de Canal+, exploitable par ses animateurs, ses chroniqueurs, son format et son influence médiatique."
 ---
-
-
-
-
 ![Image de Le Grand Journal](https://upload.wikimedia.org/wikipedia/commons/c/c7/Solweig_Rediger-Lizlow_dans_l%27%C3%A9mission_%22Le_Grand_Journal%22_de_la_cha%C3%AEne_fran%C3%A7aise_Canal%2B.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - diffusion sur Canal+
 questions:
  - Quelle série, dont la 1re saison était diffusée en octobre 2010, met en scène des prostituées dans le Paris des années 1870?
+culture_g_score: 44
+culture_g_justification: "Série historique française identifiable par Canal+ et son sujet, mais peu fréquente dans les quiz généralistes."
 ---
-
 ![Image de Maison close](https://upload.wikimedia.org/wikipedia/commons/e/ee/Maison_Close_MET_DP112704.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Influence sur Andy Warhol et Roy Lichtenstein
 questions:
  - En 1955, quel peintre américain réalise une série de tableaux  représentant le drapeau des Etats-Unis ?
+culture_g_score: 31
+culture_g_justification: "Ce roman australien contemporain peut apparaître dans des questions littéraires spécialisées, mais offre peu de rendement généraliste."
 ---
-
 ![Image de Jasper Jones](https://upload.wikimedia.org/wikipedia/commons/b/be/Peggy_Edwards_-_Jones_-_Granderson%2C_Maternal_Great-Grandmother_met_Iverson_Granderson_on_the_McNeal_Plantation_%28Jasper_County%29_MS._and_moved_to_Greenville%2C_MS._after_the_Civil_War.jpg)
 
 ###### Questions

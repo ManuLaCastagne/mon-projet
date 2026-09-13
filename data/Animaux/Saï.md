@@ -13,8 +13,9 @@ indice_5 :
   - Rhinocéros de Java
 indice_6 : 
   - Symbole de la conservation de la biodiversité
+culture_g_score: 20
+culture_g_justification: "Primate désigné par un terme peu usité, dont la connaissance apporte très peu de rendement généraliste."
 ---
-
 ![Image de Saï](https://upload.wikimedia.org/wikipedia/commons/5/53/2_antique_sai.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - ministre de la Cinquième République
 questions:
  - Qui voyait les JT comme "un miroir qui se promène sur toutes les routes de France et du monde" ?
+culture_g_score: 56
+culture_g_justification: "Homme politique, écrivain et ministre important de la Ve République, mais son lien spécifique avec la télévision est secondaire."
 ---
-
 ![Image de Alain Peyrefitte](https://upload.wikimedia.org/wikipedia/commons/7/79/Alain_Peyrefitte.jpg)
 
 ###### Questions

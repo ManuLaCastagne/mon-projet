@@ -23,8 +23,9 @@ indice_6 :
   - 1940
 questions:
  - Quel film des années 40 avec Henry Fonda, tiré d'une oeuvre de John Steinbeck...
+culture_g_score: 84
+culture_g_justification: "Grand classique de John Ford et de la littérature américaine, riche en questions sur Steinbeck, la crise de 1929, les Oscars et le cinéma engagé."
 ---
-
 ![Image de Les Raisins de la colère](https://upload.wikimedia.org/wikipedia/commons/0/07/Recueil._%22Les_raisins_de_la_col%C3%A8re%22_film_de_John_Ford_-_btv1b10525528p_%2807_of_71%29.jpg)
 
 ###### Questions

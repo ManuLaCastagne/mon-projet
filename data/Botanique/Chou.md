@@ -15,8 +15,9 @@ indice_6 :
   - Alimentaire et ornementale
 questions:
  - Pâtisserie dont le nom est issu du latin "caulis", je dois être cuite à température élevée puis plus douce pour que ma pâte reste bien ferme. Idéalement dégustée dans un bref délai une fois garnie de crème...
+culture_g_score: 72
+culture_g_justification: "Légume majeur, utile pour les familles botaniques, les variétés, l’alimentation et plusieurs références culinaires."
 ---
-
 ![Image de Chou](https://upload.wikimedia.org/wikipedia/commons/f/f7/Zhou_dynasty_ritual_bell%2C_Rijksmuseum.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_6 :
   - eunuque défiant le roi de Tauride
 questions:
  - Quel personnage de la [[mythologie grecque]], conseiller d'Mythologie/Oreste, est devenu l'archétype de l'ami fidèle?
+culture_g_score: 40
+culture_g_justification: "Compagnon fidèle d’Oreste, Pylade est important dans quelques récits tragiques mais reste une figure secondaire et peu interrogée isolément."
 ---
-
 ![Image de Pylade](https://upload.wikimedia.org/wikipedia/commons/d/d0/Oreste_et_Pylade_-MR_279_-_Ma_81.jpg)
 
 ###### Questions

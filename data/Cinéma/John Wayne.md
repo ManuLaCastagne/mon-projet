@@ -22,8 +22,9 @@ indice_6 :
   - Hollywood
 questions:
  - N'ayant reçu dans ma carrière qu'un seul oscar, en 1970, pour le film "Cent dollars pour un shérif", j'ai réalisé dans les années 60 "Alamo", "Les Bérets verts". Acteur fétiche de John Ford, j'ai joué dans des westerns d'anthologie comme "La Chevauchée fantastique" et "Rio Bravo".
+culture_g_score: 84
+culture_g_justification: "Icône mondiale du western, John Wayne est une réponse fréquente grâce à ses nombreux films, à son surnom et à son image culturelle."
 ---
-
 ![Image de John Wayne](https://upload.wikimedia.org/wikipedia/commons/7/7b/John_Wayne_-_still_portrait.jpg)
 
 ###### Questions

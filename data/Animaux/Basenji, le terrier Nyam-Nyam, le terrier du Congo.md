@@ -15,8 +15,9 @@ indice_6 :
   - Chien des Pharaons
 questions:
  - Quel chien originaire d'Afrique centrale, ayant la particularité d'émettre un glapissement et de ne jamais aboyer, est doté d'un poil court et fauve?
+culture_g_score: 40
+culture_g_justification: "Le Basenji possède quelques traits distinctifs mémorables, sans être une référence canine incontournable."
 ---
-
 ![Image de Basenji, le terrier Nyam-Nyam, le terrier du Congo]()
 
 ###### Questions

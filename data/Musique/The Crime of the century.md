@@ -22,10 +22,9 @@ indice_6 :
   - Dark Side of the Moon
 questions:
  - Ayant marqué le début du succès pour Supertramp, mon titre signifie "Le crime du siècle".
+culture_g_score: 60
+culture_g_justification: "Album emblématique de Supertramp, régulièrement cité pour «Dreamer» et le rock progressif, mais restant une référence musicale précise."
 ---
-
-
-
 ![Image de The Crime of the century](https://upload.wikimedia.org/wikipedia/commons/0/00/AI_created_image_of_a_crime_scene_19th_century_London.jpg)
 
 ###### Questions

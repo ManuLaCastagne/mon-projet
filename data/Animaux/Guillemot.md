@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la biodiversité côtière
 questions:
  - Quel oiseau palmipède, proche du pingouin, vivant notamment sur les côtes arctiques, tire son nom du diminutif Guillaume?
+culture_g_score: 40
+culture_g_justification: "Le guillemot est un oiseau marin intéressant pour ses adaptations à la plongée, mais peu connu hors des questions ornithologiques."
 ---
-
 ![Image de Guillemot](https://upload.wikimedia.org/wikipedia/commons/3/3c/Uria_aalge_MHNT_Rouzic.jpg)
 
 ###### Questions

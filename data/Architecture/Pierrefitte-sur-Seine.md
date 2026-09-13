@@ -23,8 +23,9 @@ indice_6 :
   - Delaunay-Paris
 questions:
  - Quelle ville de Seine-Saint-Denis abrite depuis 2013 le nouveau siège des Archives nationales dans un bâtiment de 180m de long ?
+culture_g_score: 40
+culture_g_justification: "Commune francilienne surtout utile comme localisation des Archives nationales, avec une portée culturelle limitée."
 ---
-
 ![Image de Pierrefitte-sur-Seine](https://upload.wikimedia.org/wikipedia/commons/e/ea/T5_-_PRFT_-_Mairie.JPG)
 
 ###### Questions

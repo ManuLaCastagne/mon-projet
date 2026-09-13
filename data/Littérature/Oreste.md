@@ -22,7 +22,10 @@ indice_6 :
   - Mythologie grecque
 questions:
  - Ayant appris les circonstances de la mort de son père Agamemnon, quel personnage se vengea en tuant tua sa mère Clytemnestre  et son amant Egisthe ?
+culture_g_score: 87
+culture_g_justification: "Personnage central de la mythologie grecque et de la tragédie antique, relié à l’Orestie, Électre, le matricide et la justice athénienne."
 ---
+
 
 ![Image de Oreste](https://upload.wikimedia.org/wikipedia/commons/8/86/H%C3%A4ndel_-_Oreste_-_title_page_of_the_libretto%2C_London_1734.png)
 
@@ -32,8 +35,7 @@ Dans quelle [[pièce]] d'[[Euripide]] de [[408 av. J.-C.]], [[Oreste]] est-il pr
 
 Qui est le frère d'[[Électre]] et le fils de [[Clytemnestre]] et [[Agamemnon]], protagoniste des pièces de [[Eschyle]], notamment dans la [[trilogie]] de [[L'Orestie]], achevée en [[458 av. J.-C.]] ?
 
-Quel personnage, issu de la [[mythologie grecque]] et immortalisé par de nombreux auteurs, est jugé par un tribunal athénien dans la [[Orestie]], et absous grâce à l'intervention de la déesse [[Athéna]] ?
-
+Quel personnage, issu de la [[mythologie grecque]] et immortalisé par de nombreux auteurs, est jugé par un tribunal athénien dans la [[Orestie]], et absous grâce à l'intervention de la déesse [[Athéna]] ? <!-- score: 5 -->
 ###### Description
 
 [[Oreste]] est un personnage emblématique de la [[mythologie grecque]], connu pour être le fils d'[[Agamemnon]] et de [[Clytemnestre]], et frère d'[[Électre]]. 

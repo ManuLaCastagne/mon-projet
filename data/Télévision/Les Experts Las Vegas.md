@@ -20,8 +20,9 @@ indice_6 :
   - forensic
 questions:
  - Quelle série télé américaine, diffusée en France depuis 2001, relate les enquêtes de la brigade de nuit de la police scientifique de Las Vegas?
+culture_g_score: 73
+culture_g_justification: "Série policière mondiale très diffusée, régulièrement interrogée par son titre original CSI, ses personnages et ses séries dérivées."
 ---
-
 ![Image de Les Experts Las Vegas](https://upload.wikimedia.org/wikipedia/commons/7/74/BMW_3.0_CSI_-_P6280016.jpg)
 
 ###### Questions

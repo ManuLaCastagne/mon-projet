@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 64
 culture_g_justification: "Champion britannique de Formule 1 assez connu, mais principalement exploitable dans le cadre de l’automobile."
 ---
+
 ![Image de Jenson Button](https://upload.wikimedia.org/wikipedia/commons/7/7b/2018_British_Grand_Prix_-_Jenson_Button_%2808%29.jpg)
 
 ###### Questions
 
-Quel pilote britannique a remporté le championnat du monde de [[Formule 1]] en [[2009]] ?
+Quel pilote britannique a remporté le championnat du monde de [[Formule 1]] en [[2009]] ? <!-- score: 4 -->
 
 Quel coureur automobile est devenu le plus jeune britannique à participer à un Grand Prix de [[Formule 1]] en l'an [[2000]] ?
 

@@ -24,8 +24,9 @@ indice_6 :
   - proximité de Saint-Dizier
 questions:
  - Quel lac du Doubs de plus de 7km de long est le 3e plan d'eau naturel de France ?
+culture_g_score: 41
+culture_g_justification: "Le lac du Der est utile pour la géographie française, les réservoirs et les migrations d’oiseaux, mais reste peu connu hors de ces thèmes."
 ---
-
 ![Image de Lac du Der](https://upload.wikimedia.org/wikipedia/commons/a/a5/Lac_de_Der_DSC_0062.JPG)
 
 ![[Carte_Lac du Der.png]]

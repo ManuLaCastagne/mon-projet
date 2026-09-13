@@ -18,8 +18,9 @@ indice_5 :
   - employeur de Léonard de Vinci
 indice_6 : 
   - allié des Borgia
+culture_g_score: 67
+culture_g_justification: "Ludovic Sforza relie Renaissance italienne, Milan, Léonard de Vinci et guerres d’Italie, sans être une référence de tout premier plan."
 ---
-
 ![Image de Ludovic Sforza](https://upload.wikimedia.org/wikipedia/commons/c/c4/Via_Ludovico_il_Moro_-_Vigevano.jpg)
 
 ###### Questions

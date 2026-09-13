@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Indonésie
+culture_g_score: 44
+culture_g_justification: "Spécialité asiatique identifiable, mais encore assez peu fréquente dans les quiz généralistes francophones."
 ---
 ###### Questions 
 

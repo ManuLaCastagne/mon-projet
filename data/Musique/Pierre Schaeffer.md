@@ -22,8 +22,9 @@ indice_6 :
   - Symphonie pour un homme seul
 questions:
  - Quel compositeur, attaché à Radio France en 1958, est initiateur de la musique concrète ?
+culture_g_score: 48
+culture_g_justification: "Pionnier majeur de la musique concrète, mais sa présence dans les quiz généralistes reste limitée par la spécialisation de son domaine."
 ---
-
 ![Image de Pierre Schaeffer](https://upload.wikimedia.org/wikipedia/commons/2/2b/Psconcer.jpg)
 
 ###### Questions

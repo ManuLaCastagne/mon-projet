@@ -22,8 +22,9 @@ indice_6 :
   - C'est magnifique !
 questions:
  - Dans le film Brice 3, qui met en scène Brice de Nice, quel acteur joue Marius et porte une énorme barbe ?
+culture_g_score: 47
+culture_g_justification: "Acteur français populaire mais surtout utile à travers quelques comédies, doublages et remplacements de rôles précis."
 ---
-
 ![Image de Clovis Cornillac](https://upload.wikimedia.org/wikipedia/commons/6/6c/Clovis_Cornillac_Cabourg_2015.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7nwat8sctz59WBc0wJvYnp" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

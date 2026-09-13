@@ -22,8 +22,9 @@ indice_6 :
   - justice littéraire
 questions:
  - Quelle est la seule comédie écrite par Racine ?
+culture_g_score: 60
+culture_g_justification: "Comédie unique de Racine, utile pour relier le dramaturge au théâtre classique, à Aristophane et à la satire judiciaire."
 ---
-
 ![Image de Plaideurs](https://upload.wikimedia.org/wikipedia/commons/5/54/%28Toulouse%29_L%27hu%C3%AEtre_et_les_plaideurs_1868_-_Th%C3%A9odule_Ribot_-_Caen%2C_Mus%C3%A9e_des_beaux-arts_-_Joconde000PE024884.jpg)
 
 ###### Questions

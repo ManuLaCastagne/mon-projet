@@ -20,8 +20,9 @@ indice_6 :
   - Claude Gildas
 questions:
  - En 2008, quelle pièce de théâtre, avec Line Renaud et Muriel Robin, réunit en direct près de 8 millions de téléspectateurs sur France 2?
+culture_g_score: 44
+culture_g_justification: "Pièce et téléfilm connus grâce au tandem Line Renaud-Muriel Robin, mais dont les occasions de question restent limitées."
 ---
-
 ![Image de Les Fugueuses](https://upload.wikimedia.org/wikipedia/commons/c/ca/Medical_Heritage_Library_%28IA_b2934587x%29.pdf)
 
 ###### Questions

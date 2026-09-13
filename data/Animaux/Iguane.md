@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de résilience et de paix
 questions:
  - Aux Galapagos, quel lézard...
+culture_g_score: 60
+culture_g_justification: "Reptile reconnaissable, associé aux Galápagos, à Darwin et à des adaptations variées, avec une fréquence de quiz moyenne."
 ---
-
 ![Image de Iguane](https://upload.wikimedia.org/wikipedia/commons/e/ec/Iguana_iguana_Portoviejo_01.jpg)
 
 ###### Questions

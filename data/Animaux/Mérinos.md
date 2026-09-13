@@ -15,9 +15,9 @@ indice_6 :
   - Laine célèbre pour sa douceur
 questions:
  - Mouton rustique aux membres et aux gigots épais, caractérisé par une laine très fine et une toison serrée.
+culture_g_score: 52
+culture_g_justification: "Race ovine importante pour l’histoire de la laine et de l’élevage, mais rarement interrogée hors de ces domaines."
 ---
-
-
 ![Image de Mérinos](https://upload.wikimedia.org/wikipedia/commons/a/a1/Merino_sheep.png)
 
 ###### Questions

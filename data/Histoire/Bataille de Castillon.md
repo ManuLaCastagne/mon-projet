@@ -20,8 +20,9 @@ indice_6 :
   - Gascogne annexée par la France
 questions:
  - Quelle bataille ayant vu en 1453  la victoire des Français sur les Anglais,  marque traditionnellement la fin de la guerre de Cent Ans ?
+culture_g_score: 52
+culture_g_justification: "Bataille conclusive de la guerre de Cent Ans, connue surtout pour sa portée chronologique et l’emploi de l’artillerie."
 ---
-
 ![Image de Bataille de Castillon](https://upload.wikimedia.org/wikipedia/commons/3/35/Monument_de_la_bataille_de_Castillon_%281888%29.jpg)
 
 ###### Questions

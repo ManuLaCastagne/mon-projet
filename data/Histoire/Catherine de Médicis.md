@@ -20,8 +20,9 @@ indice_6 :
   - Famille Médicis
 questions:
  - Quelle reine de France mariée en 1533 au futur Henri II a apporté à notre cuisine...
+culture_g_score: 91
+culture_g_justification: "Reine et régente centrale des guerres de Religion, associée aux Valois, à la Renaissance française et à de nombreux récits historiques."
 ---
-
 ![Image de Catherine de Médicis](https://upload.wikimedia.org/wikipedia/commons/b/be/Henri_II_et_Catherine_de_M%C3%A9dicis_edit.JPG)
 
 ###### Questions

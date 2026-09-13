@@ -4,6 +4,8 @@ tags:
   - XXIe
   - Années_2010
 date: 2013
+culture_g_score: 44
+culture_g_justification: "Équipement de loisir et ancien moyen de transport, connu du public mais assez peu rentable dans les quiz généralistes."
 ---
 ###### Questions 
 

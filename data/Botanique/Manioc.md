@@ -15,8 +15,9 @@ indice_6 :
   - Source de farine et de fécule utilisé dans l'alimentation
 questions:
  - Renfermant une chair blanche sous une peau de couleur brune, je contiens notamment un principe toxique, la manihotoxine, mais peut être consommée après avoir été cuite ou torréfiée.
+culture_g_score: 72
+culture_g_justification: "Culture vivrière mondiale permettant des questions sur l’alimentation, le tapioca, l’origine américaine et la toxicité."
 ---
-
 ![Image de Manioc](https://upload.wikimedia.org/wikipedia/commons/d/d3/Manihot_esculenta_MHNT.BOT.2004.0.508.jpg)
 
 ###### Questions

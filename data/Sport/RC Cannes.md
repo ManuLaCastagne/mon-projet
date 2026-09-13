@@ -20,9 +20,9 @@ indice_6 :
   - Maryse Éwanjé-Épée
 questions:
  - Quel club de volley féminin des Alpes-Maritimes, titré pour la 1re fois...
+culture_g_score: 40
+culture_g_justification: "Club dominant du volley féminin français, mais très peu transversal en dehors de l’histoire de cette discipline."
 ---
-
-
 ![Image de RC Cannes](https://upload.wikimedia.org/wikipedia/commons/c/c7/RC_Cannes_2016-2017.jpg)
 
 ###### Questions

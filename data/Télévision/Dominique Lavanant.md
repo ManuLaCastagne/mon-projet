@@ -20,8 +20,9 @@ indice_6 :
   - Maigret
 questions:
  - Quelle actrice, dont le nom vient de l'ancien français désignant un nouveau venu, a incarné soeur Thérèse à la télévision?
+culture_g_score: 64
+culture_g_justification: "Actrice du Splendid et de nombreuses comédies françaises, identifiable par plusieurs films, séries et récompenses."
 ---
-
 ![Image de Dominique Lavanant](https://upload.wikimedia.org/wikipedia/commons/0/04/Dominique_Lavanant_2012.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - série policière
 questions:
  - Dans quelle série, un oenologue...
+culture_g_score: 40
+culture_g_justification: "Série policière française identifiable par le vin et Pierre Arditi, mais peu présente dans les quiz généralistes."
 ---
-
 ![Image de Le Sang de la vigne](https://upload.wikimedia.org/wikipedia/commons/f/ff/Banville_-_%C5%92uvres%2C_Le_Sang_de_la_coupe%2C_1890.djvu)
 
 ###### Questions

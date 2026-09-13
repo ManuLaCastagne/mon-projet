@@ -24,9 +24,9 @@ indice_6:
   - Royaume de Koush
 questions:
   - Dans quelle région, s'étendant d'Assouan à Khartoum et comprenant la vallée du Nil, a-t-on déplacé la population lors de la création du lac Nasser?
+culture_g_score: 67
+culture_g_justification: "Région historique importante pour les royaumes de Koush, Méroé et les relations avec l'Égypte antique, mais moins connue du grand public."
 ---
-
-
 ![Image de Nubie](https://upload.wikimedia.org/wikipedia/commons/d/d0/Nubie%2C_by_Ernest_Benecke_%28Getty_107QP9%29.jpg)
 
 ![[Carte_Nubie.png]]

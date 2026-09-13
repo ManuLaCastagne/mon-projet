@@ -21,6 +21,8 @@ indice_5:
   - Quadrige
 indice_6:
   - Pariser Platz
+culture_g_score: 97
+culture_g_justification: "Symbole mondial de Berlin et de la réunification allemande, très fréquent dans les questions d'histoire, de politique et d'architecture."
 ---
 Question : Quel monument [[berlinois]] construit en 1789 est inspiré des propylées du [[Parthénon]] ?
 

@@ -22,8 +22,9 @@ indice_6 :
   - C'est comme ça
 questions:
  - En 2007, à quel duo doit-on le titre "Ding Dang Dong" dans lequel Catherine Ringer...
+culture_g_score: 77
+culture_g_justification: "Duo essentiel de la pop-rock française, fréquemment associé à Catherine Ringer, Fred Chichin et au tube «Marcia Baïla»."
 ---
-
 ![Image de Rita Mitsouko](https://upload.wikimedia.org/wikipedia/commons/7/70/Les_Rita_Mitsouko_f7682607.jpg)
 
 ###### Questions

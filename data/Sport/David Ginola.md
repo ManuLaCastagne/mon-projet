@@ -20,8 +20,9 @@ indice_6 :
   - Commentateur sportif
 questions:
  - Quel footballeur français, ayant notamment joué au PSG et à Newcastle dans les années 90 fut surnommé El Magnifico ?
+culture_g_score: 64
+culture_g_justification: "Footballeur français très médiatique, identifiable par le PSG, la Premier League, l'équipe de France et son incident de 1993."
 ---
-
 ![Image de David Ginola](https://upload.wikimedia.org/wikipedia/commons/a/a8/David_Ginola_Deauville_2014_2.jpg)
 
 ###### Questions

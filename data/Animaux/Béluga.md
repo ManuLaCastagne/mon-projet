@@ -15,8 +15,9 @@ indice_6 :
   - Étoile du spectacle aquatique
 questions:
  - Quel mammifère marin, vivant dans les mers arctiques, est souvent appelé baleine blanche...
+culture_g_score: 72
+culture_g_justification: "Cétacé très identifiable par sa couleur et ses vocalisations, associé à l’Arctique, à l’écologie et à la culture populaire."
 ---
-
 ![Image de Béluga](https://upload.wikimedia.org/wikipedia/commons/0/04/%D0%91%D1%96%D0%BB%D1%83%D0%B3%D0%B0_%28Huso_huso%29.jpg)
 
 ###### Questions

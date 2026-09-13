@@ -15,8 +15,9 @@ indice_6 :
   - Confitures et liqueurs
 questions:
  - Dégageant une odeur très forte, notamment si l'on froisse mes feuilles, divisées en 3 à 5 lobes triangulaires, je donne des fleurs rougeâtres puis des baies de couleur noire en grappes pendantes.  Arbuste cultivé pour mes fruits à saveur aigrelette...
+culture_g_score: 32
+culture_g_justification: "Petit arbuste fruitier surtout pertinent pour la cuisine régionale et la botanique, avec une fréquence de quiz faible."
 ---
-
 ![Image de Cassissier](https://upload.wikimedia.org/wikipedia/commons/d/d7/Ribes_nigrum_kz03.jpg)
 
 ###### Questions

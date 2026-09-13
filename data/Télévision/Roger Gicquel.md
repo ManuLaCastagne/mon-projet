@@ -20,11 +20,9 @@ indice_6 :
   - emblématique phrase d'ouverture
 questions:
  - Le journaliste qui est resté célèbre pour avoir ouvert le journal télévisé, en février 76, avec les mots  "La France a peur"?
+culture_g_score: 60
+culture_g_justification: "Présentateur historique de TF1 retenu notamment pour la formule « La France a peur », avec des angles surtout médiatiques et historiques."
 ---
-
-
-
-
 ![Image de Roger Gicquel](https://upload.wikimedia.org/wikipedia/commons/8/88/Roger_Gicquel_1983.jpg)
 
 ###### Questions

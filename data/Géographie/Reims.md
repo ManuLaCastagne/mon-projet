@@ -24,8 +24,9 @@ indice_6 :
   - ville du couronnement des rois de France
 questions:
  - Depuis Philippe II Auguste, dans quelle cathédrale tous les rois de France ont-ils été sacrés, à l'exception d'Henri IV et Louis XVIII?
+culture_g_score: 80
+culture_g_justification: "Reims cumule les sacres royaux, une cathédrale majeure, le champagne et des références historiques et culturelles fréquentes."
 ---
-
 ![Image de Reims](https://upload.wikimedia.org/wikipedia/commons/1/16/Saint-Remi_Reims_Rose_Fa%C3%A7ade_05_02_2012.jpg)
 
 ![[Carte_Reims.png]]

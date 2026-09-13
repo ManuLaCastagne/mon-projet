@@ -20,9 +20,9 @@ indice_5 :
   - Les Dieux du Stade
 indice_6 : 
   - Controverses sur la Seconde Guerre mondiale
+culture_g_score: 80
+culture_g_justification: "Figure incontournable pour le cinéma de propagande nazie, les Jeux de Berlin, l’esthétique documentaire et les débats sur l’art et la politique."
 ---
-
-
 ![Image de Leni Riefenstahl](https://upload.wikimedia.org/wikipedia/commons/1/1a/Leni_Riefenstahl%2C_1935.jpg)
 
 ###### Questions

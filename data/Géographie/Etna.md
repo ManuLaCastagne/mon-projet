@@ -24,8 +24,9 @@ indice_6 :
   - stratovolcan
 questions:
  - Quel volcan actif du nord-est de la Sicile culmine à 3345 m?
+culture_g_score: 84
+culture_g_justification: "Volcan européen emblématique, l’Etna est fréquemment associé à la Sicile, aux éruptions, à la volcanologie et à l’UNESCO."
 ---
-
 ![Image de Etna](https://upload.wikimedia.org/wikipedia/commons/3/31/Etna_eruption_seen_from_the_International_Space_Station.jpg)
 
 ![[Carte_Etna.png]]

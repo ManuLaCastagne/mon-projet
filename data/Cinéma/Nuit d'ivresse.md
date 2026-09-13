@@ -22,8 +22,9 @@ indice_6 :
   - humour français
 questions:
  - En 1986, dans quel film Thierry Lhermitte joue-t-il un présentateur télé qui, après une soirée arrosée, se retrouve en compagnie...
+culture_g_score: 44
+culture_g_justification: "Comédie française populaire dans son époque, surtout exploitable par son casting et quelques scènes cultes, avec une portée limitée."
 ---
-
 ![Image de Nuit d'ivresse](https://upload.wikimedia.org/wikipedia/commons/e/e8/Les_Suites_d%27une_nuit_d%27ivresse_-_sc%C3%A9nario_-_btv1b52503584c_%281_of_4%29.jpg)
 
 ###### Questions

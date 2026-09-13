@@ -20,6 +20,8 @@ indice_5:
   - Adrian Lyne
 indice_6:
   - bande originale
+culture_g_score: 60
+culture_g_justification: "Film érotique emblématique des années 1980, surtout mobilisé par son casting, sa bande originale et ses scènes célèbres."
 ---
 ![[Pasted image 20260803220309.png]]
 ###### Questions

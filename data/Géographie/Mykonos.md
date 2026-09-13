@@ -24,8 +24,9 @@ indice_6 :
   - Moulins à vent
 questions:
  - Connue pour mes moulins à vent et mes maisons cubiques blanchies à la chaux, je compte de nombreuses plages telles que Super Paradise, Psarou et Ornos. Ile grecque de l'archipel...
+culture_g_score: 64
+culture_g_justification: "Île grecque très connue du tourisme et de la culture populaire, mais moins fondamentale que les grands repères historiques grecs."
 ---
-
 ![Image de Mykonos](https://upload.wikimedia.org/wikipedia/commons/3/38/Sunset_of_Mykonos.jpg)
 
 ![[Carte_Mykonos.png]]

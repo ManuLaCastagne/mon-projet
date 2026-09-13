@@ -22,8 +22,9 @@ indice_6 :
   - rôle politique des relations amoureuses
 questions:
  - J'ai pour héroïne une jeune femme qui séduit des hommes pour les faire changer d'idées politiques jusqu'à sa rencontre avec un quadragénaire discret. Film avec Jacques Gamblin et Sara Forestier, je suis...
+culture_g_score: 60
+culture_g_justification: "Film français apprécié et lié aux César, à la politique et à Sara Forestier, mais rarement prioritaire face aux grands classiques."
 ---
-
 ![Image de Le Nom des gens](https://upload.wikimedia.org/wikipedia/commons/d/db/Sara_Forestier_2010.jpg)
 
 ###### Questions

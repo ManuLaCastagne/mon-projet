@@ -22,8 +22,9 @@ indice_6 :
   - CIA
 questions:
  - 1975. Film de S. Pollack où R. Redford joue un agent de la CIA...
+culture_g_score: 60
+culture_g_justification: "Thriller politique reconnu, exploitable par Pollack, Redford, la CIA et le cinéma paranoïaque des années 1970."
 ---
-
 ![Image de Trois jours du Condor](https://upload.wikimedia.org/wikipedia/commons/7/7b/Beltjens_-_Le_condor_captif%2C_Aurore%2C_1885.djvu)
 
 ###### Questions

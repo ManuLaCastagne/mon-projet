@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de régénération
 questions:
  - Nocturne quand je suis terrestre, je gagne au printemps les mares et les étangs pour me reproduire. Ayant la capacité de régénérer...
+culture_g_score: 68
+culture_g_justification: "Le triton permet des questions croisées sur les amphibiens, la régénération et la lune de Neptune, ce qui le rend assez rentable."
 ---
-
 ![Image de Triton](https://upload.wikimedia.org/wikipedia/commons/0/00/1Triton-en.svg)
 
 ###### Questions

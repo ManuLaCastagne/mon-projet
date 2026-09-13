@@ -23,9 +23,9 @@ indice_6 :
   - impact environnemental majeur
 questions:
  - Quelle mer intérieure d'Asie centrale, est partagée entre le Kazakhstan et l'Ouzbékistan ?
+culture_g_score: 80
+culture_g_justification: "Cas emblématique de catastrophe écologique, régulièrement interrogé avec l'Asie centrale, l'irrigation et la désertification."
 ---
-
-
 ![Image de Mer d'Aral](https://upload.wikimedia.org/wikipedia/commons/9/95/Aral_Sea_1989-2008.jpg)
 
 ![[Carte_Mer d'Aral.png]]

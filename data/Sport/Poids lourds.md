@@ -20,10 +20,9 @@ indice_6 :
   - Wladimir Klitschko
 questions:
  - Dans quelle catégorie de poids les boxeurs pesant moins de 91 kg sont-ils refusés ?
+culture_g_score: 77
+culture_g_justification: "Catégorie emblématique de la boxe, fréquemment liée à Tyson, Ali et aux grands champions des sports de combat."
 ---
-
-
-
 ![Image de Poids lourds](https://upload.wikimedia.org/wikipedia/commons/7/78/Le_Champion_des_poids_lourds_-_sc%C3%A9nario_-_btv1b6407706q_%282_of_2%29.jpg)
 
 ###### Questions

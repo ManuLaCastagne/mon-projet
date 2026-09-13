@@ -24,8 +24,9 @@ indice_6 :
   - Saint-Laurent-du-Maroni
 questions:
  - Dites-moi quel est ce fleuve  qui forme la frontière entre la Guyane et le Suriname ?
+culture_g_score: 43
+culture_g_justification: "Fleuve frontalier important pour la Guyane, mais sujet surtout régional et peu récurrent."
 ---
-
 ![Image de Maroni](https://upload.wikimedia.org/wikipedia/commons/6/69/Maroni_Fluss_Sonnenaufgang.jpg)
 
 ![[Carte_Maroni.png]]

@@ -22,10 +22,9 @@ indice_5 :
   - Plaza Bolívar
 indice_6 : 
   - Museo del Oro
+culture_g_score: 64
+culture_g_justification: "Capitale d’un grand pays d’Amérique du Sud, Bogota revient dans des questions de géographie, d’altitude, d’histoire et de culture."
 ---
-
-
-
 ![Image de Bogota](https://upload.wikimedia.org/wikipedia/commons/f/fc/Capitalio_National_de_Colombia%2C_Bogot%C3%A1.jpg)
 
 ![[Carte_Bogota.png]]

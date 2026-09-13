@@ -20,8 +20,9 @@ indice_6 :
   - né vers 500 ap. J.-C.
 questions:
  - Qui est cette impératrice byzantine disparue en 548, réputée pour sa beauté et qui exerça une grande influence sur son époux Justinien ?
+culture_g_score: 72
+culture_g_justification: "Impératrice byzantine emblématique, utile pour Justinien, la révolte de Nika, le droit et la place des femmes au pouvoir."
 ---
-
 ![Image de Théodora](https://upload.wikimedia.org/wikipedia/commons/8/8a/Empress_Theodora_mosaic_detail.png)
 
 ###### Questions

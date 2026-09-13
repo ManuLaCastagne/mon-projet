@@ -21,8 +21,9 @@ indice_5 :
   - bilingue
 indice_6 : 
   - province d'Ontario
+culture_g_score: 88
+culture_g_justification: "Capitale du Canada et réponse classique permettant d’aborder institutions, histoire canadienne, géographie et confusion avec Toronto ou Montréal."
 ---
-
 ![Image de Ottawa](https://upload.wikimedia.org/wikipedia/commons/b/b2/Centre_Block_-_Parliament_Hill.jpg)
 
 ![[Carte_Ottawa.png]]

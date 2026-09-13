@@ -18,8 +18,9 @@ indice_5:
   - High Priestess of Soul
 indice_6:
   - Civil Rights Movement
+culture_g_score: 72
+culture_g_justification: "Icône du jazz, du blues et de la soul, exploitable par ses chansons, son parcours, ses engagements et ses influences."
 ---
-
 ![Image de Nina Simone](https://upload.wikimedia.org/wikipedia/commons/8/83/Nina_Simone_1965_-_restoration1.jpg)
 
 ###### Questions

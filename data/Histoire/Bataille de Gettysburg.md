@@ -20,8 +20,9 @@ indice_6 :
   - discours de Lincoln
 questions:
  - Durant la Guerre de Sécession, quelle bataille livrée du 1er au 3 juillet 1863 fut remportée par l'armée fédérale du général Meade sur l'armée sudiste du Général Lee?
+culture_g_score: 84
+culture_g_justification: "Tournant majeur de la guerre de Sécession, associé à Lee, Lincoln, au discours de Gettysburg et à l’histoire américaine."
 ---
-
 ![Image de Bataille de Gettysburg](https://upload.wikimedia.org/wikipedia/commons/4/4f/Pennsylvania_Memorial_Gettysburg_PA1.jpg)
 
 ###### Questions

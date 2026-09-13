@@ -22,8 +22,9 @@ indice_6 :
   - Son prénom est Michel et son nom de famille commence par 'G'
 questions:
  - En 2006, à quel cinéaste français, ayant réalisé de nombreux clips, doit-on le film "La Science des rêves" avec Gael...
+culture_g_score: 80
+culture_g_justification: "Réalisateur au style singulier, questionnable par ses films, ses clips, Björk et ses collaborations internationales."
 ---
-
 ![Image de Michel Gondry](https://upload.wikimedia.org/wikipedia/commons/4/48/Michel_Gondry_Deauville_2012.jpg)
 
 ###### Questions

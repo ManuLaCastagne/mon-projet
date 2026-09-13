@@ -20,9 +20,9 @@ indice_6 :
   - sacre en 751
 questions:
  - Personnage de l'histoire de France né à Jupille en 715, je combats les Aquitains, les Alamans, les Bavarois, les Saxons.
+culture_g_score: 68
+culture_g_justification: "Roi charnière entre Mérovingiens et Carolingiens, utile pour les questions sur les Francs, Charlemagne et l’Église."
 ---
-
-
 ![Image de Pépin le Bref](https://upload.wikimedia.org/wikipedia/commons/d/d9/Amiel_-_Pepin_the_Short.jpg)
 
 ###### Questions

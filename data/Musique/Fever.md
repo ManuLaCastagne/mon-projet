@@ -22,8 +22,9 @@ indice_6 :
   - boule à facettes
 questions:
  - Adaptée par Claude Nougaro sous le titre de "Docteur", je m'adresse à l'être aimé et mes textes expriment l'aveu d'un amour brûlant et passionné.  Accompagnée de claquements de doigts dans ma version la plus connue due à Peggy Lee, en 1958, mon titre signifie fièvre en français.
+culture_g_score: 80
+culture_g_justification: "Standard repris par de nombreux artistes, permettant des questions sur le jazz, Peggy Lee, la culture populaire et les reprises."
 ---
-
 ![Image de Fever](https://upload.wikimedia.org/wikipedia/commons/1/13/Symptoms-fever.jpg)
 
 ###### Questions

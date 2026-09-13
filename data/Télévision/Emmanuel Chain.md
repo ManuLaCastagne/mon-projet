@@ -20,8 +20,9 @@ indice_6 :
   - enquête économique
 questions:
  - Quel producteur, né en 1962, présente "Capital" ?
+culture_g_score: 60
+culture_g_justification: "Créateur et animateur de Capital, il constitue un repère utile à la croisée du journalisme économique et de la télévision."
 ---
-
 ![Image de Emmanuel Chain](https://upload.wikimedia.org/wikipedia/commons/9/91/Emmanuel_Chain.jpg)
 
 ###### Questions

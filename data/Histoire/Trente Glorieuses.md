@@ -20,8 +20,9 @@ indice_6 :
   - essor industriel et technologique
 questions:
  - Période historique, je dois mon nom à l'ouvrage d'un économiste français publié en 1979 qui eut un grand succès public. Ayant pour équivalent en Italie le "miracolo economico"...
+culture_g_score: 81
+culture_g_justification: "Période majeure de l’histoire économique et sociale française, très fréquente dans les questions sur l’après-guerre et particulièrement rentable à connaître."
 ---
-
 ![Image de Trente Glorieuses](https://upload.wikimedia.org/wikipedia/commons/e/ef/France_%28paquebot%29.jpg)
 
 ###### Questions

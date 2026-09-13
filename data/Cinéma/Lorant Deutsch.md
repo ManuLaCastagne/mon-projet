@@ -22,8 +22,9 @@ indice_6 :
   - passion pour l'Histoire
 questions:
  - En février 2015, dans "Un Village presque parfait", quel acteur incarne un médecin que les habitants tentent de convaincre de s'installer dans leur village ?
+culture_g_score: 40
+culture_g_justification: "Acteur et vulgarisateur historique connu du public français, mais peu incontournable dans les quiz généralistes."
 ---
-
 ![Image de Lorant Deutsch](https://upload.wikimedia.org/wikipedia/commons/9/90/Lorant_Deutsch_2014.jpg)
 
 ###### Questions

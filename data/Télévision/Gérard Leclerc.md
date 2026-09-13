@@ -20,8 +20,9 @@ indice_6 :
   - expert politique
 questions:
  - Quel journaliste, ayant travaillé une vingtaine d'années pour France Télévisions, est le demi-frère de Julien Clerc?
+culture_g_score: 51
+culture_g_justification: "Journaliste ayant occupé des responsabilités audiovisuelles notables, mais principalement connu dans des questions spécialisées sur les médias français."
 ---
-
 ![Image de Gérard Leclerc](https://upload.wikimedia.org/wikipedia/commons/e/e7/G%C3%A9rard_Leclerc_en_2010.jpg)
 
 ###### Questions

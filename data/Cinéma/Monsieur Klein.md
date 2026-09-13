@@ -22,8 +22,9 @@ indice_6 :
   - Film dramatique français
 questions:
  - Film de Joseph Losey avec Jeanne Moreau, Jean Bouise et Alain Delon dans le rôle titre.
+culture_g_score: 72
+culture_g_justification: "Film majeur sur l’Occupation, l’antisémitisme et l’identité, associé à Joseph Losey et Alain Delon, avec plusieurs angles historiques et cinématographiques."
 ---
-
 ![Image de Monsieur Klein](https://upload.wikimedia.org/wikipedia/commons/6/6f/Portrait_d%27Ida_Klein%2C_actrice_au_Th%C3%A9%C3%A2tre_du_Palais_Royal_%28entre_1862-1865%29_et_au_Th%C3%A9%C3%A2tre_des_Vari%C3%A9t%C3%A9s_%28en_1872%29._PH52289.jpg)
 
 ###### Questions

@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Danemark
+culture_g_score: 20
+culture_g_justification: "Anomalie osseuse très spécialisée, essentiellement associée à une question de vocabulaire et d'étymologie médicale."
 ---
 ###### Questions 
 

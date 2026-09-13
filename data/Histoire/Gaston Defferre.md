@@ -22,8 +22,9 @@ indice_6:
   - Ancien résistant
 questions:
   - En 1967, lors d'une discussion véhémente à l'Assemblée Nationale, quel maire de Marseille lance un "Taisez-vous, abruti!", ambiance à l'Assemblée, au gaulliste René Ribière?
+culture_g_score: 60
+culture_g_justification: "Maire emblématique de Marseille et figure socialiste, surtout mobilisé par des anecdotes politiques et l’histoire municipale."
 ---
-
 ![Image de Gaston Defferre](https://upload.wikimedia.org/wikipedia/commons/4/4d/Gaston_Defferre.jpg)
 
 ###### Questions

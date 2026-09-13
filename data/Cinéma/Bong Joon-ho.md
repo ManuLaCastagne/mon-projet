@@ -20,8 +20,9 @@ indice_5 :
   - Snowpiercer
 indice_6 : 
   - réalisateur coréen
+culture_g_score: 80
+culture_g_justification: "Réalisateur international désormais très présent dans les quiz grâce à Parasite, aux Oscars, au cinéma sud-coréen et à plusieurs films marquants."
 ---
-
 ![Image de Bong Joon-ho](https://upload.wikimedia.org/wikipedia/commons/f/fb/Bong_Joon-ho_2017.jpg)
 
 ###### Questions

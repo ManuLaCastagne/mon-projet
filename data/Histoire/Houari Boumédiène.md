@@ -20,8 +20,9 @@ indice_6 :
   - Non-alignement
 questions:
  - En 1965, quel général et homme politique mène un coup d'Etat en Algérie et a été par la suite président de la République de son pays ?
+culture_g_score: 60
+culture_g_justification: "Dirigeant important de l’Algérie postcoloniale, mais surtout mobilisé dans des questions spécialisées sur l’histoire politique et énergétique du pays."
 ---
-
 ![Image de Houari Boumédiène](https://upload.wikimedia.org/wikipedia/commons/3/3b/Houari_Boumediene%27s_Portrait.jpg)
 
 ###### Questions

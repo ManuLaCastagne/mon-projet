@@ -22,8 +22,9 @@ indice_6 :
   - Jean de La Fontaine
 questions:
  - Dans quel conte de Perrault un homme pauvre et sans enfant se voit-il offrir par Jupiter ce qui pourrait le rendre heureux?
+culture_g_score: 40
+culture_g_justification: "Conte authentique de Perrault mais nettement moins connu que ses contes les plus célèbres et rarement interrogé isolément."
 ---
-
 ![Image de Les Souhaits ridicules](https://upload.wikimedia.org/wikipedia/commons/4/4f/Le_Bucheron_ou_les_trois_Souhaits_ridicules._Paris_Mus%C3%A9es_20231011183914.jpg)
 
 ###### Questions

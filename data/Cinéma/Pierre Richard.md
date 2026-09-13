@@ -22,8 +22,9 @@ indice_6 :
   - a souvent collaboré avec Gérard Depardieu
 questions:
  - En 1978, dans le film "Je suis timide, mais je me soigne", quel acteur incarne un caissier d'un grand hôtel à la timidité maladive ?
+culture_g_score: 76
+culture_g_justification: "Grande figure de la comédie française, reliée à de nombreux films, aux personnages de François Pignon et à un style burlesque immédiatement identifiable."
 ---
-
 ![Image de Pierre Richard](https://upload.wikimedia.org/wikipedia/commons/0/08/Pierre_Richard_Cannes_2015.jpg)
 
 ###### Questions

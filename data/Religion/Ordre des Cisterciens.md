@@ -20,8 +20,9 @@ indice_6 :
   - Ordre monastique
 questions:
  - Quel ordre monastique fondé en 1098 par Robert de Molesme, doit son nom à l'abbaye de Cîteaux ?
+culture_g_score: 52
+culture_g_justification: "Ordre monastique important pour l'histoire médiévale, l'architecture et l'agriculture, mais réservé à des questions relativement spécialisées."
 ---
-
 ![Image de Ordre des Cisterciens](https://upload.wikimedia.org/wikipedia/commons/f/f4/Coat_of_arms_of_the_Cistercian_Order.svg)
 
 ###### Questions

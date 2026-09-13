@@ -24,8 +24,9 @@ indice_6 :
   - plage de Tanchet
 questions:
  - Quelle station balnéaire de Vendée abrite un boulevard de mer long de 2 km appelé le Remblai?
+culture_g_score: 60
+culture_g_justification: "Les Sables-d’Olonne sont fortement associés au Vendée Globe et à la façade atlantique, mais leurs autres angles restent limités."
 ---
-
 ![Image de Sables-d'Olonne](https://upload.wikimedia.org/wikipedia/commons/f/fe/Les_Sables-d%27Olonne-01.JPG)
 
 ![[Carte_Sables-d'Olonne.png]]

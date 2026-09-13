@@ -22,8 +22,9 @@ indice_6 :
   - Chat du Cheshire
 questions:
  - En 1982, dans quel film fantastique de Paul Schrader, Nastassja Kinski se transforme-t-elle en panthère?
+culture_g_score: 68
+culture_g_justification: "Classique influent de l'horreur et du fantastique, utile pour Tourneur, la RKO, Val Lewton et l'évolution de la mise en scène."
 ---
-
 ![Image de La Féline](https://upload.wikimedia.org/wikipedia/commons/d/dd/La_F%C3%A9line_-_Agn%C3%A8s_Gayraud.JPG)
 
 ###### Questions

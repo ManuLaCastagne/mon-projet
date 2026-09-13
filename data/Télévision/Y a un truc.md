@@ -20,9 +20,9 @@ indice_6 :
   - Canal+
 questions:
  - A partir de 1975, quelle émission, mettant la magie à l'honneur, a notamment été animée par Gérard Majax?
+culture_g_score: 20
+culture_g_justification: "Émission de magie ancienne et confidentielle, associée à un nombre très limité de questions spécifiques."
 ---
-
-
 ![Image de Y a un truc](https://upload.wikimedia.org/wikipedia/commons/8/89/Lago_Truc_Bach%2C_Hanoi%2C_Vietnam_%2836623730891%29.jpg)
 
 ###### Questions

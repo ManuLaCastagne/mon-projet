@@ -21,6 +21,8 @@ indice_6:
   - Juge
 questions:
   - En 2021, dans quelle série Kad Merad incarne-t-il un juge dont la vie bascule du jour au lendemain?
+culture_g_score: 24
+culture_g_justification: "Cette série française récente est une référence télévisuelle assez limitée, avec peu de questions indépendantes en culture générale."
 ---
 ![[Pasted image 20250323162517.png]]
 ###### Questions

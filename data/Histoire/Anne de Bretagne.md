@@ -20,9 +20,9 @@ indice_6 :
   - renaissance des arts en Bretagne
 questions:
  - Associée à la légende de la Blanche Hermine, j'ai mis au monde, au cours d'une 2de union, 2 filles, Claude et Renée, dont l'aînée apporta en dot le duché de Bretagne au futur François Ier. Epouse de 2 rois de France, Charles VIII et Louis XII, je suis…
+culture_g_score: 80
+culture_g_justification: "Double reine de France et duchesse de Bretagne, Anne de Bretagne est fréquemment interrogée sur l’union franco-bretonne et la Renaissance."
 ---
-
-
 ![Image de Anne de Bretagne](https://upload.wikimedia.org/wikipedia/commons/f/f5/Grandes_Heures_Anne_de_Bretagne_Saint_Marc.jpg)
 
 ###### Questions

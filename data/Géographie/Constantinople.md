@@ -22,8 +22,9 @@ indice_5 :
   - Muraille de Théodose
 indice_6 : 
   - Mehmet II
+culture_g_score: 100
+culture_g_justification: "Référence historique majeure associée à Byzance, Istanbul, l’Empire byzantin, la prise de 1453 et l’histoire religieuse européenne."
 ---
-
 ![[Carte_Constantinople.png]]
 
 ###### Questions

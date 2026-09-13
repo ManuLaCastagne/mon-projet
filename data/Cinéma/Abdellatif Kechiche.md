@@ -20,9 +20,9 @@ indice_5:
   - acteur de La Faute à Voltaire
 indice_6:
   - style réaliste
+culture_g_score: 68
+culture_g_justification: "Réalisateur primé à Cannes et aux César, important du cinéma français contemporain mais moins universel qu'un grand classique."
 ---
-
-
 ![Image de Abdellatif Kechiche](https://upload.wikimedia.org/wikipedia/commons/d/da/Abdellatif_Kechiche_Cannes_2013.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - XVIIIe siècle
 questions:
  - En 1792, chez quel maire de Strasbourg, ancêtre d'une grande famille d'industriels, Rouget de Lisle chanta-t-il "La Marseillaise" pour la 1re fois?
+culture_g_score: 28
+culture_g_justification: "Industriel et maire de Strasbourg intéressant pour quelques questions sur l’Ancien Régime et les débuts de l’automobile, mais très spécialisé."
 ---
-
 ![Image de Baron de Dietrich](https://upload.wikimedia.org/wikipedia/commons/d/d2/Philippe-Fr%C3%A9d%C3%A9ric_de_Dietrich_%281748-1793%29.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Unité d'Habitation
 questions:
  - Quel architecte brésilien, disparu en 2012 à 104...
+culture_g_score: 72
+culture_g_justification: "Oscar Niemeyer est une figure majeure de l’architecture moderne, liée à Brasília, au béton, au Brésil et à plusieurs réalisations internationales."
 ---
-
 ![Image de Oscar Niemeyer](https://upload.wikimedia.org/wikipedia/commons/c/cb/Oscar_Niemeyer%2C_Pic%2C_9_-_edit.jpg)
 
 ###### Questions

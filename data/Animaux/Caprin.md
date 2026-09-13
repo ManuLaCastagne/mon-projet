@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fertilité
 questions:
  - Quel adjectif signifie littéralement relatif aux chèvres ou à la chèvre?
+culture_g_score: 32
+culture_g_justification: "Terme générique désignant les chèvres et apparentés, utile ponctuellement pour l’élevage mais peu fréquent comme réponse précise."
 ---
-
 ![Image de Caprin](https://upload.wikimedia.org/wikipedia/commons/c/c8/Acetylsalicylicacid-crystals.jpg)
 
 ###### Questions

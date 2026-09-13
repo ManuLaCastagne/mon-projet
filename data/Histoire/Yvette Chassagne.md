@@ -20,8 +20,9 @@ indice_6 :
   - nommée en 1981
 questions:
  - En 1981, quel poste de haut fonctionnaire chargé de représenter l'Etat dans le département, quelle fut la première femme préfet ?
+culture_g_score: 40
+culture_g_justification: "Pionnière de l’administration française, mais personnalité peu connue dont les apparitions en quiz restent rares et spécialisées."
 ---
-
 ![Image de Yvette Chassagne](https://upload.wikimedia.org/wikipedia/commons/a/a6/Portrait_d%27Yvette_Chassagne_-_Archives_nationales_%28France%29.jpg)
 
 ###### Questions

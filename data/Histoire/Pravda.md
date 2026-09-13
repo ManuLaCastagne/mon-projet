@@ -20,8 +20,9 @@ indice_6 :
   - fin en 1991
 questions:
  - J'ai subi les bouleversements politiques et économiques des années 90 dans mon pays et j'ai échappé de peu à la disparition. Quotidien...
+culture_g_score: 60
+culture_g_justification: "Journal emblématique du régime soviétique, utile pour les questions sur la propagande et la guerre froide."
 ---
-
 ![Image de Pravda](https://upload.wikimedia.org/wikipedia/commons/3/38/Pravda_Adolf_Hitler.jpg)
 
 ###### Questions

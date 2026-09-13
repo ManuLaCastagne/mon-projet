@@ -18,8 +18,9 @@ indice_6 :
   - culte de la première divinité divine en Grèce
 questions:
  - Dans quelle forêt de l'Épire Zeus rendait-il ses oracles par l'intermédiaire des branches des chênes qui bruissaient ?
+culture_g_score: 31
+culture_g_justification: "Oracle antique important mais beaucoup moins connu et moins interrogé que ceux de Delphes."
 ---
-
 ![Image de Forêt de Dodone](https://upload.wikimedia.org/wikipedia/commons/c/c6/La_Tailh%C3%A8de_-_De_la_m%C3%A9tamorphose_des_fontaines%2C_1895.djvu)
 
 ###### Questions

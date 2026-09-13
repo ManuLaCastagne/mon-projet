@@ -19,9 +19,9 @@ indice_6 :
   - Pâris
 questions:
  - Quel poème en 1924 chants, attribué à Homère, relate un épisode de la guerre de Troie et notamment la mort de Patrocle?
+culture_g_score: 100
+culture_g_justification: "L’Iliade est une œuvre fondatrice de la littérature mondiale, omniprésente dans les questions sur Homère, Achille, Troie et la civilisation grecque."
 ---
-
-
 ![Image de Iliade](https://upload.wikimedia.org/wikipedia/commons/6/6c/Fonderia_Nebiolo_art_studio_%28cropped%29.jpg)
 
 ###### Questions

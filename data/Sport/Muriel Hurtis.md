@@ -20,8 +20,9 @@ indice_6 :
   - championne d'Europe
 questions:
  - Quelle athlète née à Bondy et ayant grandi en Seine-Saint-Denis, a été championne d'Europe du 200 m, en 2002?
+culture_g_score: 40
+culture_g_justification: "Sprinteuse française médaillée, surtout pertinente pour quelques questions sur l’athlétisme national et les relais."
 ---
-
 ![Image de Muriel Hurtis](https://upload.wikimedia.org/wikipedia/commons/6/60/Muriel_Hurtis_French_Athletics_Championships_2013_n02.jpg)
 
 ###### Questions

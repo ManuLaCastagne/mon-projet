@@ -19,8 +19,9 @@ indice_5 :
   - grands orchestres
 indice_6 : 
   - invités prestigieux
+culture_g_score: 72
+culture_g_justification: "Institution de la télévision culturelle française, liée à Jacques Chancel, aux arts, à la musique et à de nombreux artistes célèbres."
 ---
-
 ![Image de Le Grand Échiquier](https://upload.wikimedia.org/wikipedia/commons/8/85/Le_grand_%C3%A9chiquier%2C_nouvelle_version%2C_%C3%A0_Lille_le_20_d%C3%A9cembre_2018_derniers_pr%C3%A9paratifs_%C3%A0_l%27aube_06.jpg)
 
 ###### Questions

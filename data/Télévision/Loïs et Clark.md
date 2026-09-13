@@ -20,9 +20,9 @@ indice_6 :
   - Dean Cain
 questions:
  - Je joue sur le double rôle tenu par Dean Cain, tour à tour timide et doté de pouvoirs permettant de lutter contre le mal.  Série avec Teri Hatcher, sous-titrée "Les Nouvelles Aventures de Superman", je suis…
+culture_g_score: 64
+culture_g_justification: "Adaptation télévisée identifiable de l'univers de Superman, utile pour les quiz sur les super-héros, les acteurs et les séries des années 1990."
 ---
-
-
 ![Image de Loïs et Clark](https://upload.wikimedia.org/wikipedia/commons/7/73/Lois%26clark_Logo.png)
 
 ###### Questions

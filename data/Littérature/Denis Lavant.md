@@ -21,9 +21,9 @@ indice_5:
   - interprète de texte et poésie
 indice_6:
   - collaboration avec des auteurs contemporains
+culture_g_score: 44
+culture_g_justification: "Acteur apprécié des cinéphiles pour ses collaborations avec Leos Carax, mais peu fréquent dans la culture générale généraliste."
 ---
-
-
 ![Image de Denis Lavant](https://upload.wikimedia.org/wikipedia/commons/2/2a/Denis_Lavant_Deauville_2010.jpg)
 
 ###### Questions

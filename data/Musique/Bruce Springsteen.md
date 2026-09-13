@@ -22,8 +22,9 @@ indice_6 :
   - Dancing in the Dark
 questions:
  - En octobre 2020, quel chanteur américain surnommé The Boss a sorti l'album "Letter to you". Un petit extrait du dernier album ?
+culture_g_score: 92
+culture_g_justification: "Grande figure du rock américain, très rentable grâce à ses albums, ses chansons, ses récompenses et son engagement social."
 ---
-
 ![Image de Bruce Springsteen](https://upload.wikimedia.org/wikipedia/commons/3/3b/Bruce_Springsteen_-_Roskilde_Festival_2012.jpg)
 
 ###### Questions

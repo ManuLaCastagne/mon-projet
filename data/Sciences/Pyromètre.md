@@ -20,10 +20,9 @@ indice_6 :
   - Four à haute température
 questions:
  - Quel instrument, dont le nom est formé sur un élément issu du grec signifiant feu, sert à mesurer les hautes températures ?
+culture_g_score: 40
+culture_g_justification: "Instrument scientifique précis mais spécialisé, essentiellement interrogé en thermométrie, astronomie ou procédés industriels."
 ---
-
-
-
 ![Image de Pyromètre](https://upload.wikimedia.org/wikipedia/commons/7/72/Pyrometer_040824.jpg)
 
 ###### Questions

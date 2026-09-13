@@ -22,9 +22,9 @@ indice_6 :
   - Moog
 questions:
  - Instrument de musique apparu en 1963, mes ancêtres ont pour nom Telharmonium, Thérémine ou encore orgue Hammond.  Popularisé par des groupes tels que Tangerine Dream et Kraftwerk, ou des artistes comme Vangelis ou Jean-Michel Jarre, j'ai été progressivement supplanté...
+culture_g_score: 84
+culture_g_justification: "Instrument central de la musique électronique, relié à l'innovation technologique, à la pop, au rock et à de nombreux artistes."
 ---
-
-
 ![Image de Synthétiseur](https://upload.wikimedia.org/wikipedia/commons/9/91/Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Luxe français
 questions:
  - Quelle maison de couture française, dont le fondateur est mort en 2018, a habillé durant de longues années l'actrice Audrey Hepburn?
+culture_g_score: 71
+culture_g_justification: "Givenchy est une maison majeure de la mode, renforcée en culture générale par Hubert de Givenchy, Audrey Hepburn et le parfum L’Interdit."
 ---
-
 ![Image de Givenchy](https://upload.wikimedia.org/wikipedia/commons/9/9a/Givenchy_GeorgeV.jpg)
 
 ###### Questions

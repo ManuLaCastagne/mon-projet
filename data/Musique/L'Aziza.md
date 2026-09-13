@@ -22,9 +22,9 @@ indice_6 :
   - Bercy 1984 performance mémorable
 questions:
  - Chanson française de 4 mn 20 sortie en 1985, j'ai fait l'objet d'un clip dans lequel joue la comédienne et réalisatrice Fejria Deliba. Hommage d'un chanteur à son épouse.
+culture_g_score: 77
+culture_g_justification: "Chanson majeure de Balavoine, fréquemment mobilisée pour ses thèmes de tolérance, son album et la chanson française des années 1980."
 ---
-
-
 ![Image de L'Aziza]()
 
 ###### Questions

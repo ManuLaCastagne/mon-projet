@@ -24,8 +24,9 @@ indice_6 :
   - sommets boisés
 questions:
  - Quel est ce massif culminant de la Bretagne ?
+culture_g_score: 32
+culture_g_justification: "Massif breton intéressant pour la géographie régionale et les paysages, mais rarement central dans les quiz généralistes."
 ---
-
 ![Image de Monts d'Arrée](https://upload.wikimedia.org/wikipedia/commons/b/b9/View_along_Monts_d%27Arr%C3%A9e_1.jpg)
 
 ![[Carte_Monts d'Arrée.png]]

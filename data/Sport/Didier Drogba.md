@@ -20,8 +20,9 @@ indice_6 :
   - Ballon d'Or africain
 questions:
  - En 2012, quel footballeur  ivoirien ayant notamment joué  à Guingamp et à Marseille  et a gagné la Ligue des Champions avec Chelsea. C'était en 2012 ?
+culture_g_score: 80
+culture_g_justification: "Star africaine du football, connue pour Chelsea, la Ligue des champions, Marseille et son rôle symbolique en Côte d'Ivoire."
 ---
-
 ![Image de Didier Drogba](https://upload.wikimedia.org/wikipedia/commons/7/7c/Didier_Drogba_%282019%29_%28cropped%29.jpg)
 
 ###### Questions

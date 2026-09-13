@@ -18,8 +18,9 @@ indice_6 :
   - Homère
 questions:
  - Quelle nymphe, amoureuse d'Ulysse, le retient dans l'île d'Ogygie pendant plusieurs années?
+culture_g_score: 80
+culture_g_justification: "Nymphe qui retient Ulysse dans l’Odyssée, permettant des questions sur Homère, le voyage héroïque et la mythologie grecque."
 ---
-
 ![Image de Calypso](https://upload.wikimedia.org/wikipedia/commons/0/05/Calypso_bulbosa_5493.JPG)
 
 ###### Questions

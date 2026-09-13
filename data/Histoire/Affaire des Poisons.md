@@ -18,9 +18,9 @@ indice_5:
   - poisons et potions
 indice_6:
   - scandale à la cour royale
+culture_g_score: 60
+culture_g_justification: "Scandale marquant du règne de Louis XIV, mobilisable en histoire politique, judiciaire et dans les récits de sorcellerie."
 ---
-
-
 ![Image de Affaire des Poisons](https://upload.wikimedia.org/wikipedia/commons/e/ee/LL-Q150_%28fra%29-Mecanautes-Affaire_des_Poisons.wav)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Art spirituel
 questions:
  - Quel peintre russe a peint en 1922…
+culture_g_score: 83
+culture_g_justification: "Pionnier incontournable de l’abstraction, permettant des questions sur le Bauhaus, Der Blaue Reiter, la théorie de l’art et ses œuvres."
 ---
-
 ![Image de Vassily Kandinsky](https://upload.wikimedia.org/wikipedia/commons/c/cf/Vassily_Kandinsky_by_Adolf_Elnain_2.png)
 
 ###### Questions

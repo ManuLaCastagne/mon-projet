@@ -23,8 +23,9 @@ indice_6 :
   - la divine
 questions:
  - Le 15 mars, quelle comédienne interprète le rôle-titre de la pièce "L'Aiglon" d'Edmond Rostand, lors de sa création à Paris?
+culture_g_score: 88
+culture_g_justification: "Sarah Bernhardt est une figure emblématique du théâtre français et de la Belle Époque, avec une carrière internationale et de nombreux rôles célèbres."
 ---
-
 ![Image de Sarah Bernhardt](https://upload.wikimedia.org/wikipedia/commons/3/3b/Sarah_Bernhardt%2C_par_Nadar%2C_1864.jpg)
 
 ###### Questions

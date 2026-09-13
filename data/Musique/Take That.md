@@ -22,8 +22,9 @@ indice_6 :
   - Gary Barlow
 questions:
  - Avant de faire une carrière en solo, au sein de quel groupe Robbie Williams a-t-il connu ses 1ers succès?
+culture_g_score: 64
+culture_g_justification: "Boy band britannique très connu pour ses succès des années 1990 et la carrière de Robbie Williams, sans être une référence musicale universelle."
 ---
-
 ![Image de Take That](https://upload.wikimedia.org/wikipedia/commons/e/e1/Take_That_performing_in_Glasgow%2C_2017.jpg)
 
 ###### Questions

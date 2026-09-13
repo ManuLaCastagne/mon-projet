@@ -24,8 +24,9 @@ indice_6 :
   - Vendée
 questions:
  - N'ayant pas été modifiée lors de la réforme territoriale, je constitue une région dynamique du Grand Ouest, située entre la Normandie et la Nouvelle-Aquitaine. Région...
+culture_g_score: 60
+culture_g_justification: "Région française utile pour Nantes, Angers, la Loire, Noirmoutier et les châteaux, mais moins centrale que les grandes régions historiques."
 ---
-
 ![Image de Pays de la Loire](https://upload.wikimedia.org/wikipedia/commons/e/ee/Rail_transport_infrastructure_map_-_FR_-_Pays_de_la_Loire.svg)
 
 ![[Carte_Pays de la Loire.png]]

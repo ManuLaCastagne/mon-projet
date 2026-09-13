@@ -22,8 +22,9 @@ indice_6 :
   - musique latine
 questions:
  - Par les tambours et les claves. Style de musique né à la fin du Culture_G/XIXe siècle dans l'île de Cuba, notamment à la Havane, je suis…
+culture_g_score: 64
+culture_g_justification: "Genre cubain lié aux musiques afro-latines, la rumba permet des questions musicales, historiques, géographiques et chorégraphiques variées."
 ---
-
 ![Image de Rumba](https://upload.wikimedia.org/wikipedia/commons/b/bc/Rumba_Kings_Band_Group_Photo_2023.jpg)
 
 ###### Questions

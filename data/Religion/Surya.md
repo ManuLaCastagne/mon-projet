@@ -20,8 +20,9 @@ indice_6 :
   - Diwali
 questions:
  - Quel dieu-soleil de l'hindouisme, dont le nom est associé à celui de Savitar, dans les Veda, symbolise l'immortalité, partage son nom avec Surya Bonaly ?
+culture_g_score: 51
+culture_g_justification: "Divinité solaire importante de l’hindouisme, Surya reste toutefois nettement moins fréquent et identifiable que Shiva ou Vishnou."
 ---
-
 ![Image de Surya](https://upload.wikimedia.org/wikipedia/commons/c/c9/Surya_Sen_before_1934.jpg)
 
 ###### Questions

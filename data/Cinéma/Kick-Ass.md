@@ -22,8 +22,9 @@ indice_6 :
   - comic book adaptation
 questions:
  - En 2010, dans quel film le jeune Dave Lizewski se fabrique-t-il un déguisement vert...
+culture_g_score: 47
+culture_g_justification: "Film de super-héros connu des amateurs de cinéma contemporain, mais encore assez secondaire dans les quiz généralistes."
 ---
-
 ![Image de Kick-Ass](https://upload.wikimedia.org/wikipedia/commons/a/a0/Cosplay_of_Kick-Ass_AVAExpo.jpg)
 
 ###### Questions

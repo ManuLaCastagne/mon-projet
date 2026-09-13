@@ -20,9 +20,9 @@ indice_6 :
   - Explorateur
 questions:
  - Totalisant 4 victoires au trophée Jules Verne pour les 2 aînés et 2 traversées de l'Atlantique en planche à voile pour le plus jeune, nous avons également inscrit notre nom au palmarès de la Transat en double et de la Route du Rhum.  Frères prénommés Bruno, Loïck et Stéphane...
+culture_g_score: 43
+culture_g_justification: "Navigateurs français associés à quelques exploits maritimes, mais sujet assez spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
-
 ![Image de Loïck et Stéphane Peyron]()
 
 ###### Questions

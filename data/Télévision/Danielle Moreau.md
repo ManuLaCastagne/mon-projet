@@ -19,8 +19,9 @@ indice_5 :
   - apparition sur France 2
 indice_6 : 
   - connue pour son humour et ses déguisements
+culture_g_score: 36
+culture_g_justification: "Chroniqueuse médiatique contemporaine, surtout identifiable par quelques émissions, avec une faible importance culturelle autonome."
 ---
-
 ![Image de Danielle Moreau](https://upload.wikimedia.org/wikipedia/commons/7/70/Danielle_Moreau_in_2020.png)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - bouleverser le monde
 questions:
  - Dans quelle série télé les agents Tom Baldwin et Diana Skouris enquêtent-ils sur la réapparition de milliers de personnes disparues au XXe siècle ?
+culture_g_score: 56
+culture_g_justification: "Série de science-fiction connue des amateurs du genre, avec quelques angles sur son intrigue, ses remakes et ses thèmes sociaux."
 ---
-
 ![Image de Les 4400 (série)](https://upload.wikimedia.org/wikipedia/commons/f/f0/The_4400_icon.svg)
 
 ###### Questions

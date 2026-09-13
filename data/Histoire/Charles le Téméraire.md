@@ -20,8 +20,9 @@ indice_6 :
   - fin du Moyen Âge
 questions:
  - En 1477, quel Duc de Bourgogne meurt devant Nancy, qu'il tentait de reprendre à René II de Lorraine ?
+culture_g_score: 60
+culture_g_justification: "Duc bourguignon classique, utile pour quelques questions sur les guerres de Bourgogne, la Lorraine et la fin du Moyen Âge, mais moins incontournable que les grandes figures de la période."
 ---
-
 ![Image de Charles le Téméraire](https://upload.wikimedia.org/wikipedia/commons/0/03/Charles_the_Bold_1460.jpg)
 
 ###### Questions

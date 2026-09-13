@@ -22,10 +22,9 @@ indice_6 :
   - Stax Records
 questions:
  - En 1967, quel chanteur de soul américain interprète "Sitting on the Dock of the Bay", trois jours avant de disparaître dans un accident d'avion ?
+culture_g_score: 72
+culture_g_justification: "Grande figure de la soul américaine, associée à des chansons, albums, événements biographiques et distinctions souvent quizables."
 ---
-
-
-
 ![Image de Otis Redding](https://upload.wikimedia.org/wikipedia/commons/f/f0/Otis_Redding_%282%29.png)
 
 ###### Questions

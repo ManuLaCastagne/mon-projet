@@ -22,8 +22,9 @@ indice_5 :
   - Youssou N'Dour
 indice_6 : 
   - aéroport Blaise Diagne
+culture_g_score: 80
+culture_g_justification: "Capitale sénégalaise fréquemment associée à l’Afrique francophone, au rallye Paris-Dakar, à la politique et à la géographie régionale."
 ---
-
 ![Image de Dakar](https://upload.wikimedia.org/wikipedia/commons/a/a7/Rally_Dakar_2006_9-2.jpg)
 
 ![[Carte_Dakar.png]]

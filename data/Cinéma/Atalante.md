@@ -22,8 +22,9 @@ indice_6 :
   - films d'auteur
 questions:
  - Quelle chasseresse, ayant appris d'un oracle qu'elle ne pourrait échapper au mariage, épouse Hippoménès, le seul à l'avoir battue à la course à pied?
+culture_g_score: 27
+culture_g_justification: "Salle de cinéma parisienne historique mais référence très spécialisée, nettement moins rentable qu’un film ou un cinéaste célèbre."
 ---
-
 ![Image de Atalante](https://upload.wikimedia.org/wikipedia/commons/0/0b/36_Atalante_orbit_on_01_Jan_2009.png)
 
 ###### Questions

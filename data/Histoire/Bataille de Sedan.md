@@ -20,9 +20,9 @@ indice_6 :
   - Kaiser Guillaume I
 questions:
  - En 1870, dans quelle bataille Napoléon III fit-il hisser le drapeau blanc au sommet de la citadelle pour signaler au roi de Prusse sa reddition ?
+culture_g_score: 80
+culture_g_justification: "Défaite fondamentale du Second Empire, liée à Napoléon III, à la guerre franco-prussienne et à la naissance de la République."
 ---
-
-
 ![Image de Bataille de Sedan](https://upload.wikimedia.org/wikipedia/commons/0/05/1er_septembre_1870._-_Bataille_de_Sedan._Paris_Mus%C3%A9es_20230510134514.jpg)
 
 ###### Questions

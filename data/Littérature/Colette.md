@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Pseudonyme de mon 1er mari...
  - Quelle femme de lettres française, née en 1873 et auteure de "Chéri", aimait écrire à l'encre violette?
+culture_g_score: 88
+culture_g_justification: "Écrivaine française majeure, première femme à l’Académie Goncourt, associée à des œuvres classiques, au féminisme et à la vie culturelle du XXe siècle."
 ---
-
 ![Image de Colette](https://upload.wikimedia.org/wikipedia/commons/9/90/La_cha%C3%AEne_des_dames_%28Gabrielle_R%C3%A9val%29_-_Colette_%28Sidonie-Gabrielle_Colette%29.jpg)
 
 ###### Questions

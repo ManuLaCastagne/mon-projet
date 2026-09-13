@@ -22,8 +22,9 @@ indice_6 :
   - cinéaste français
 questions:
  - Quel film d'Agnès Varda raconte la jeunesse de Jacques Demy ?
+culture_g_score: 40
+culture_g_justification: "Film biographique intéressant pour les liens entre Varda et Demy, mais peu interrogé en dehors de quelques questions spécialisées."
 ---
-
 ![Image de Jacquot de Nantes](https://upload.wikimedia.org/wikipedia/commons/2/2f/Jacquot_elie_1939_commandant_jacquot_2.jpg)
 
 ###### Questions

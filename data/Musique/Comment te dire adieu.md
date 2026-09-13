@@ -22,8 +22,9 @@ indice_6 :
   - chanson emblématique
 questions:
  - Chanson de Françoise Hardy sortie en 1968, j'ai été reprise en français par Jimmy Sommerville dans une version disco. Empruntant ma mélodie...
+culture_g_score: 73
+culture_g_justification: "Standard associé à Françoise Hardy et Gainsbourg, régulièrement interrogé par son adaptation, ses interprètes et la chanson française des années 1960."
 ---
-
 ![Image de Comment te dire adieu](https://upload.wikimedia.org/wikipedia/commons/1/1e/Fran%C3%A7oise_Hardy_1968.jpg)
 
 ###### Questions

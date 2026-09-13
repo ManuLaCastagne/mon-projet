@@ -21,10 +21,9 @@ indice_5:
   - Indre-et-Loire
 indice_6:
   - volaille
+culture_g_score: 60
+culture_g_justification: "Appellation viticole française classique, rentable pour les vins de Loire, le chenin blanc, les AOC et les caves troglodytiques."
 ---
-
-
-
 ![Image de Vouvray](https://upload.wikimedia.org/wikipedia/commons/d/d1/The_town_of_Vouvray.jpg)
 
 ![[Carte_Vouvray.png]]

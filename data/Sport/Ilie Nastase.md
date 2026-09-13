@@ -20,8 +20,9 @@ indice_6 :
   - Coupe Davis
 questions:
  - Un an plus tard, également grand joueur de double avec Jimmy Connors et avec mon compatriote Ion Tiriac, je suis resté célèbre...
+culture_g_score: 60
+culture_g_justification: "Ancien numéro un mondial et figure originale du tennis, Nastase est un sujet régulier mais surtout sportif."
 ---
-
 ![Image de Ilie Nastase](https://upload.wikimedia.org/wikipedia/commons/5/5f/Ilie_Nastase.jpg)
 
 ###### Questions

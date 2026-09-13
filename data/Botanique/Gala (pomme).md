@@ -13,8 +13,9 @@ indice_5:
   - Synonyme de Malus domestica
 indice_6:
   - Consommée en fraîcheur ou en dessert
+culture_g_score: 44
+culture_g_justification: "Variété de pomme courante et identifiable, mais son origine et ses caractéristiques précises sont peu questionnées."
 ---
-
 ![Image de Gala (pomme)](https://upload.wikimedia.org/wikipedia/commons/a/ab/2015-02-xx_Gala_%28apple%29.jpg)
 
 ###### Questions

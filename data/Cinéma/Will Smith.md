@@ -20,8 +20,9 @@ indice_5:
   - Independence Day
 indice_6:
   - La poursuite du bonheur
+culture_g_score: 80
+culture_g_justification: "Star mondiale abondamment interrogée à travers ses films, sa carrière télévisuelle, ses récompenses et plusieurs rôles emblématiques."
 ---
-
 ![Image de Will Smith](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TechCrunch_Disrupt_2019_%2848834434641%29_%28cropped%29.jpg/800px-TechCrunch_Disrupt_2019_%2848834434641%29_%28cropped%29.jpg)
 
 ###### Questions

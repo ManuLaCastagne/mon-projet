@@ -23,8 +23,9 @@ indice_6:
   - sept nominations aux Oscars
 questions:
   - En 1988, dans le film "Liaison fatale", quelle actrice harcèle Michael Douglas, avec qui...
+culture_g_score: 80
+culture_g_justification: "Actrice très reconnue, associée à des films marquants comme Les Liaisons dangereuses, Fatal Attraction et 101 dalmatiens."
 ---
-
 ![Image de Glenn Close](https://upload.wikimedia.org/wikipedia/commons/b/b3/Glenn_Close_2012_1.jpg)
 
 ###### Questions

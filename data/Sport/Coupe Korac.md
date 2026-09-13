@@ -18,9 +18,9 @@ indice_5 :
   - Limoges CSP
 indice_6 : 
   - Virtus Bologne
+culture_g_score: 40
+culture_g_justification: "Ancienne coupe européenne de basket historiquement intéressante, mais peu présente dans les quiz généralistes actuels."
 ---
-
-
 ![Image de Coupe Korac](https://upload.wikimedia.org/wikipedia/commons/5/57/Korac_Cup_cropped.jpg)
 
 ###### Questions

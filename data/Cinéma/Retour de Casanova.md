@@ -22,8 +22,9 @@ indice_6 :
   - conquêtes amoureuses
 questions:
  - En 1992, dans quel film Alain Delon incarne un célèbre aventurier séducteur italien ?
+culture_g_score: 31
+culture_g_justification: "Film relativement confidentiel, principalement exploitable par Alain Delon, Casanova et son adaptation littéraire."
 ---
-
 ![Image de Retour de Casanova](https://upload.wikimedia.org/wikipedia/commons/a/a2/L%27extravagante_personnalit%C3%A9_de_Jacques_Casanova%2C_chevalier_d%27industrie%2C_1725-1798_%28IA_lextravaganteper00legr%29.pdf)
 
 ###### Questions

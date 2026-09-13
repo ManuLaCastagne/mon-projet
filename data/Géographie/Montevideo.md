@@ -22,8 +22,9 @@ indice_5 :
   - Estadio Centenario
 indice_6 : 
   - Pocitos
+culture_g_score: 80
+culture_g_justification: "Capitale sud-américaine classique, utile pour la géographie, l’histoire de l’Uruguay, le Río de la Plata et l’architecture."
 ---
-
 ![Image de Montevideo](https://upload.wikimedia.org/wikipedia/commons/4/47/Montevideo_collage.JPG)
 
 ![[Carte_Montevideo.png]]

@@ -20,9 +20,9 @@ indice_5:
   - L'Ange et la Femme
 indice_6:
   - Sonnettes à Orphée
+culture_g_score: 72
+culture_g_justification: "Poète germanophone majeur associé aux Lettres à un jeune poète, à Rodin et à la modernité littéraire européenne."
 ---
-
-
 ![Image de Rainer Maria Rilke](https://upload.wikimedia.org/wikipedia/commons/5/5d/Rainer_Maria_Rilke_1900.jpg)
 
 ###### Questions

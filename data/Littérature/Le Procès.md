@@ -15,8 +15,9 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6:
+culture_g_score: 84
+culture_g_justification: "Œuvre fondamentale de Kafka et de la littérature du XXe siècle, régulièrement exploitée autour de l’absurde, de la bureaucratie et de ses adaptations."
 ---
-
 ![Image de Procès](https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Trial_%281963%29_-_US_poster.jpg)
 
 ###### Questions

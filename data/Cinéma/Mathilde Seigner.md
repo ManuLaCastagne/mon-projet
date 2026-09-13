@@ -18,8 +18,9 @@ indice_5 :
   - Tout pour plaire
 indice_6 : 
   - Tanguy
+culture_g_score: 47
+culture_g_justification: "Actrice française populaire mais principalement associée à un nombre restreint de comédies et de rôles nationaux."
 ---
-
 ![Image de Mathilde Seigner](https://upload.wikimedia.org/wikipedia/commons/d/d8/Mathilde_Seigner_Cannes_2009.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Caméo de célébrités
 questions:
  - Film français sorti en 1994, je remporte le prix du meilleur scénario au festival de Cannes cette année-là. Film dont l'idée est née d'une mésaventure arrivée à Gérard Jugnot, je traite de l'usurpation d'identité et mets en scène une pléiade de comédiens jouant leur propre rôle, dont Carole Bouquet ou Josiane Balasko.
+culture_g_score: 60
+culture_g_justification: "Comédie française originale sur le sosie et le milieu du spectacle, mais dont la fréquence reste moyenne."
 ---
-
 ![Image de Grosse Fatigue](https://upload.wikimedia.org/wikipedia/commons/f/f4/Grosse_Fatigue_-_logo.png)
 
 ###### Questions

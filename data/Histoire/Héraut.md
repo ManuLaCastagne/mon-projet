@@ -20,8 +20,9 @@ indice_6 :
   - cour royale
 questions:
  - Au Moyen Age, quel officier avait pour fonction la transmission des messages et les proclamations solenelles ?
+culture_g_score: 64
+culture_g_justification: "Notion liée au Moyen Âge, à l’héraldique, aux cérémonies et aux messageries diplomatiques, donc assez réutilisable malgré une notoriété moyenne."
 ---
-
 ![Image de Héraut](https://upload.wikimedia.org/wikipedia/commons/7/75/P%C3%A8re-Lachaise_-_Division_8_-_H%C3%A9raut_03.jpg)
 
 ###### Questions

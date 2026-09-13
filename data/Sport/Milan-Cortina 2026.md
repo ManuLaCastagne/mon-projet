@@ -17,8 +17,9 @@ indice_5:
   - Jeux Olympiques d'hiver 2026
 indice_6:
   - stations de ski alpines
+culture_g_score: 47
+culture_g_justification: "Édition olympique récente et identifiable, mais encore peu ancrée dans les quiz et limitée à quelques faits événementiels."
 ---
-
 ![Image de Milan-Cortina 2026](https://upload.wikimedia.org/wikipedia/commons/f/fc/Milan-Cortina_2026_Winter_Olympics_logo.svg)
 
 ###### Questions

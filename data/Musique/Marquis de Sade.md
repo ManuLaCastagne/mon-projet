@@ -22,8 +22,9 @@ indice_6 :
   - Controversé écrivain français du XVIIIe siècle
 questions:
  - De quel écrivain français du XVIIIe siècle, auteur de "Justine ou les infortunes de la vertu", oeuvre qui fut l'objet d'un procès pour outrage aux mœurs ?
+culture_g_score: 68
+culture_g_justification: "Figure littéraire sulfureuse associée au sadisme, à la philosophie et à la Révolution, régulièrement mobilisable mais moins incontournable qu’un grand classique."
 ---
-
 ![Image de Marquis de Sade](https://upload.wikimedia.org/wikipedia/commons/2/20/Marquis_de_sade.jpg)
 
 ###### Questions

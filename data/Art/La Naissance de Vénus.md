@@ -21,8 +21,9 @@ indice_5 :
   - Florence
 indice_6 : 
   - Galerie des Offices
+culture_g_score: 96
+culture_g_justification: "La Naissance de Vénus est un chef-d’œuvre universel de la Renaissance, régulièrement interrogé via Botticelli, les Médicis, Florence et la mythologie."
 ---
-
 ![Image de La Naissance de Vénus](https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)
 
 ###### Questions

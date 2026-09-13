@@ -24,8 +24,9 @@ indice_6 :
   - bien-être
 questions:
  - Quelle station thermale des Landes fondée en 1861 doit son nom composé au fait qu'à l'époque, l'impératrice des Français venait y faire des cures ?
+culture_g_score: 27
+culture_g_justification: "Village thermal surtout connu pour sa gastronomie et son établissement de prestige, ce qui en fait une connaissance très spécialisée."
 ---
-
 ![Image de Eugénie-les-Bains](https://upload.wikimedia.org/wikipedia/commons/e/e6/Eug%C3%A9nie-les-Bains_gazebo.jpg)
 
 ![[Carte_Eugénie-les-Bains.png]]

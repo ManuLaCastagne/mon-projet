@@ -22,8 +22,9 @@ indice_6 :
   - La Chasse
 questions:
  - J'ai joué dans "Royal Affair" et "Michael Kohlhaas". Incarnant des personnages inquiétants dans "Hannibal" et "Casino Royale",  je suis...
+culture_g_score: 76
+culture_g_justification: "Acteur international aisément relié à Hannibal, Star Wars, James Bond et au cinéma danois contemporain."
 ---
-
 ![Image de Mads Mikkelsen](https://upload.wikimedia.org/wikipedia/commons/f/f2/Mads_Mikkelsen_Cannes_2013_2.jpg)
 
 ###### Questions

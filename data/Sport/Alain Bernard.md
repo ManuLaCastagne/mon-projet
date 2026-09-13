@@ -20,8 +20,9 @@ indice_6 :
   - Team Lagardère
 questions:
  - Sportif français né en 1983 à Aubagne, j'ai dû renoncer aux Jeux d'Athènes en 2004 pour des raisons de santé. Nageur ayant obtenu mon 1er titre européen en 2007, en petit bassin, je suis révélé au grand public l'année suivante...
+culture_g_score: 57
+culture_g_justification: "Nageur français associé aux Jeux de Pékin et aux records du sprint, mais à la portée surtout sportive."
 ---
-
 ![Image de Alain Bernard](https://upload.wikimedia.org/wikipedia/commons/d/d7/Alain_Bernard_%28cropped%29.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de régénération en Égypte antique
 questions:
  - Quel coléoptère doit son nom au fait qu'il façonne pour la nourriture de ses larves des boulettes de bouse?
+culture_g_score: 52
+culture_g_justification: "Insecte aux comportements spectaculaires, intéressant en zoologie et en navigation animale mais peu classique."
 ---
-
 ![Image de Bousier](https://upload.wikimedia.org/wikipedia/commons/e/e8/Caution_Dung_Beetles%2C_South_Africa.jpg)
 
 ###### Questions

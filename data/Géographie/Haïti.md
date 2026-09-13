@@ -24,8 +24,9 @@ indice_6 :
   - île d'Haïti
 questions:
  - Quel Etat insulaire francophone a la particularité d'avoir la même devise que la France, "Liberté, Egalité, Fraternité"?
+culture_g_score: 80
+culture_g_justification: "Pays caribéen incontournable pour sa révolution, son indépendance, l’abolition de l’esclavage, sa géographie et son histoire politique."
 ---
-
 ![Image de Haïti](https://upload.wikimedia.org/wikipedia/commons/b/bb/Cyphoma_signatum_%28Fingerprint_Cowry_-_Haiti%29.jpg)
 
 ![[Carte_Haïti.png]]

@@ -23,9 +23,9 @@ indice_6 :
   - squelettes
 questions:
  - A quel peintre belge, né en 1897, dont un musée lui est consacré à Saint-Idesbald, doit-on la toile "La Robe de mariée"?
+culture_g_score: 55
+culture_g_justification: "Delvaux est un peintre surréaliste belge important, mais moins fréquent que les grandes figures du mouvement comme Dalí ou Magritte."
 ---
-
-
 ![Image de Paul Delvaux](https://upload.wikimedia.org/wikipedia/commons/8/82/Monument_Paul_Delvaux.jpg)
 
 ###### Questions

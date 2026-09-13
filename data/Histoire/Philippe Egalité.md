@@ -18,8 +18,9 @@ indice_5:
   - membre de la Convention nationale
 indice_6:
   - guillotiné en 1793
+culture_g_score: 64
+culture_g_justification: "Personnage singulier de la Révolution française, mémorable pour son vote sur Louis XVI et son appartenance à la famille d’Orléans."
 ---
-
 ![Image de Philippe Egalité](https://upload.wikimedia.org/wikipedia/commons/a/a5/Portrait_of_Louis_Philippe_d%27Orl%C3%A9ans%2C_Duke_of_Orl%C3%A9ans_%28known_as_Philippe_%C3%89galit%C3%A9%29_in_ceremonial_robes_of_the_Order_of_the_Holy_Spirit_by_Antoine_Fran%C3%A7ois_Callet.jpg)
 
 ###### Questions

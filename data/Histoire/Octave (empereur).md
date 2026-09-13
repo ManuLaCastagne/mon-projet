@@ -18,9 +18,9 @@ indice_5 :
   - Pax Romana
 indice_6 : 
   - Fondateur de l'Empire romain
+culture_g_score: 100
+culture_g_justification: "Premier empereur romain, central pour la fin de la République, Actium, le principat et toute l’histoire impériale romaine."
 ---
-
-
 ![Image de Octave (empereur)](https://upload.wikimedia.org/wikipedia/commons/0/04/Glyptothek_M%C3%BCnchen_%E2%80%93_18.04.2022_%E2%80%93_Augustus_Bevilacqua_%284%29.jpg)
 
 ###### Questions

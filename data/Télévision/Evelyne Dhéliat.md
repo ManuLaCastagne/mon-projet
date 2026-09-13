@@ -20,8 +20,9 @@ indice_6 :
   - journaliste
 questions:
  - Femme de télévision, née en 1948, débutant en 1970 à l'ORTF comme speakerine, je présente...
+culture_g_score: 73
+culture_g_justification: "Présentatrice météo emblématique de TF1, fréquemment reconnue dans les questions sur la télévision française et la météorologie médiatique."
 ---
-
 ![Image de Evelyne Dhéliat]()
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Assaisonnement pour poissons et salades
 questions:
  - Quelle plante aromatique est aussi appelée "faux anis" ou "fenouil bâtard" ?
+culture_g_score: 44
+culture_g_justification: "Herbe aromatique connue en cuisine et associée à quelques usages médicinaux, mais son potentiel quiz reste limité."
 ---
-
 ![Image de Aneth](https://upload.wikimedia.org/wikipedia/commons/3/3a/Aneth_FR_2012.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Paris
 indice_6 : 
   - républicanisme radical
+culture_g_score: 97
+culture_g_justification: "Organisation emblématique de la Révolution française, directement liée à Robespierre, à la Terreur et à la politique révolutionnaire."
 ---
-
 ![Image de Club des Jacobins](https://upload.wikimedia.org/wikipedia/commons/0/06/Club_des_Jacobins_%28ancien_couvent_des_Jacobins%29.jpg)
 
 ###### Questions

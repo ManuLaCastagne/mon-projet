@@ -20,8 +20,9 @@ indice_5:
   - cours d'eau
 indice_6:
   - continents
+culture_g_score: 40
+culture_g_justification: "Quartier parisien connu pour le textile et le commerce, mais offrant peu d’angles indépendants."
 ---
-
 ![Image de Sentier](https://upload.wikimedia.org/wikipedia/commons/8/86/Metro_de_Paris_-_Ligne_3_-_Sentier_03.jpg)
 
 ![[Carte_Sentier.png]]

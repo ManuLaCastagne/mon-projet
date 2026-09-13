@@ -18,8 +18,9 @@ indice_5 :
   - Film 1964
 indice_6 : 
   - Cinéma français
+culture_g_score: 64
+culture_g_justification: "Film de Truffaut utile pour la Nouvelle Vague, l'adultère et ses acteurs, mais moins central dans sa filmographie que Les Quatre Cents Coups."
 ---
-
 ![Image de La Peau douce](https://upload.wikimedia.org/wikipedia/commons/a/a1/Kinema-Junpo-1965-October-Special-5.jpg)
 
 ###### Questions

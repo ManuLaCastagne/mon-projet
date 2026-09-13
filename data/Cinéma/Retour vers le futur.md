@@ -22,8 +22,9 @@ indice_6:
   - flux capacitor
 questions:
   - En 1985, dans quel film de Robert Zemeckis un inventeur met-il au point…
+culture_g_score: 100
+culture_g_justification: "Trilogie et film cultes mondialement connus, offrant une exceptionnelle variété de questions sur le voyage temporel, les personnages, les objets et le cinéma."
 ---
-
 ![Image de Retour vers le futur](https://upload.wikimedia.org/wikipedia/commons/3/3e/Horloge_retour_vers_le_futur_cropped.jpg)
 
 ###### Questions

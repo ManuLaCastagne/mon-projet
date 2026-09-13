@@ -15,8 +15,9 @@ indice_6 :
   - Plat prisé dans la cuisine française
 questions:
  - Quel poisson plat, dont le nom est emprunté à l'ancien scandinave signifiant barbue à piquants, est doté d'yeux situés sur la partie gauche de son corps?
+culture_g_score: 44
+culture_g_justification: "Le turbot est un poisson gastronomique connu, mais ses apparitions en quiz restent ponctuelles et principalement culinaires ou zoologiques."
 ---
-
 ![Image de Turbot](https://upload.wikimedia.org/wikipedia/commons/8/84/Psetta_maxima_Luc_Viatour.jpg)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5 :
   - réalisateur de Les Sous-doués
 indice_6 : 
   - la saga Les Ripoux
+culture_g_score: 60
+culture_g_justification: "Réalisateur de nombreuses comédies populaires françaises, identifiable par Les Sous-doués, Coluche et Astérix."
 ---
-
-
 ![Image de Claude Zidi](https://upload.wikimedia.org/wikipedia/commons/3/3e/Guide_Duchemin_1975.jpg)
 
 ###### Questions

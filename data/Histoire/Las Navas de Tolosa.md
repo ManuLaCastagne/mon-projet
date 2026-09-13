@@ -18,8 +18,9 @@ indice_5:
   - Reconquista
 indice_6:
   - Andalousie
+culture_g_score: 64
+culture_g_justification: "Las Navas de Tolosa est une bataille importante de la Reconquista, mais sa date et ses protagonistes sont des connaissances historiques assez spécialisées."
 ---
-
 ![Image de Las Navas de Tolosa](https://upload.wikimedia.org/wikipedia/commons/f/f9/Banner_of_the_Moors_%281212%29.svg)
 
 ###### Questions

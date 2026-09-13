@@ -22,8 +22,9 @@ indice_6 :
   - roman de Sébastien Japrisot
 questions:
  - En 2004, dans quel film incarne-t-elle une jeune femme qui tente de retrouver son fiancé, disparu lors de la Grande Guerre?
+culture_g_score: 60
+culture_g_justification: "Film notable de Jeunet lié à Audrey Tautou, à la Première Guerre mondiale et à Japrisot, avec une fréquence correcte mais non incontournable."
 ---
-
 ![Image de Long Dimanche de fiançailles](https://upload.wikimedia.org/wikipedia/commons/0/04/Un_long_dimanche_de_fian%C3%A7ailles_movie_logo.png)
 
 ###### Questions

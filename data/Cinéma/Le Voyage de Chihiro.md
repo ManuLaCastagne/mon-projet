@@ -22,8 +22,9 @@ indice_6 :
   - monde des esprits
 questions:
  - De la BO de quel film d'animation d'H.Miyazaki, dont l'héroïne est une petite fille, est extraite une musique adaptée pour la guitare par T.Cauvin?
+culture_g_score: 100
+culture_g_justification: "Chef-d’œuvre mondial de Miyazaki et Ghibli, incontournable pour l’animation, le Japon, les récompenses, la culture populaire et le fantastique."
 ---
-
 ![Image de Le Voyage de Chihiro](https://upload.wikimedia.org/wikipedia/commons/9/9d/Spirited_Away_Logo_fr.svg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - chanson traditionnelle
 questions:
  - Quel poète et chanteur québécois interprète de "Mon pays", "La danse à Saint-Dilon" ou "Tam ti delam", se prénomme Gilles?
+culture_g_score: 60
+culture_g_justification: "Grande figure de la chanson et de la littérature québécoises, utile pour plusieurs questions francophones mais moins centrale au niveau mondial."
 ---
-
 ![Image de Gilles Vigneault](https://upload.wikimedia.org/wikipedia/commons/e/ee/Gilles_Vigneault_Chantauvent_Natashquan_1989.jpg)
 
 ###### Questions

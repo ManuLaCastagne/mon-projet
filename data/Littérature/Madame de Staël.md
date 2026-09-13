@@ -22,8 +22,9 @@ indice_6 :
   - fille de Jacques Necker
 questions:
  - A quelle femme de lettres française, portant le titre de baronne, doit-on le roman "Corinne ou l'Italie" en 1807?
+culture_g_score: 80
+culture_g_justification: "Autrice classique des quiz francophones grâce à De l’Allemagne, Corinne, ses salons et son opposition à Napoléon."
 ---
-
 ![Image de Madame de Staël](https://upload.wikimedia.org/wikipedia/commons/3/37/Delphine%2C_Madame_de_Sta%C3%ABl%2C_Paris%2C_1803_04.jpg)
 
 ###### Questions

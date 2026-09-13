@@ -22,8 +22,9 @@ indice_6 :
   - Inspiration de la soul et du reggae
 questions:
  - En 2011, quel chanteur explique qu'il prend la vie comme elle vient, dans le titre "Dans ma maison", figurant sur son album "On trace la route"?
+culture_g_score: 53
+culture_g_justification: "Chanteur français populaire associé au Roi Soleil et à plusieurs tubes, mais peu transversal au-delà de la variété contemporaine."
 ---
-
 ![Image de Christophe Maé](https://upload.wikimedia.org/wikipedia/commons/c/c5/Christophe_Ma%C3%A9_NRJ_2014.jpg)
 
 ###### Questions

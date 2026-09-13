@@ -20,8 +20,9 @@ indice_5:
   - Paul Cézanne
 indice_6:
   - Calissons
+culture_g_score: 64
+culture_g_justification: "Ville française connue pour Cézanne, le festival d'art lyrique, son patrimoine romain et ses fontaines."
 ---
-
 ![[Carte_Aix-en-Provence.png]]
 
 ###### Questions

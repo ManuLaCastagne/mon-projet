@@ -19,8 +19,9 @@ indice_5 :
   - Super Bowl
 indice_6 : 
   - NFL
+culture_g_score: 64
+culture_g_justification: "Star de la NFL devenue très médiatisée, notamment par son lien avec Taylor Swift, mais encore peu centrale dans la culture générale francophone."
 ---
-
 ![Image de Travis Kelce](https://upload.wikimedia.org/wikipedia/commons/8/87/Travis_Kelce_2021.jpg)
 
 ###### Questions

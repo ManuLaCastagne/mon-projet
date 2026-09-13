@@ -15,8 +15,9 @@ indice_6 :
   - Messager du printemps
 questions:
  - Quel passereau familier des jardins dont le nom est "turdus merula" possède un plumage noir et un bec jaune chez le mâle ?
+culture_g_score: 64
+culture_g_justification: "Oiseau familier et culturellement présent dans la musique et la littérature, mais son potentiel de quiz reste modéré."
 ---
-
 ![Image de Merle](https://upload.wikimedia.org/wikipedia/commons/c/c6/Merle_Oberon-publicity.JPG)
 
 ###### Questions

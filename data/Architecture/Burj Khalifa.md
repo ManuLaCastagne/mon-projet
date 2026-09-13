@@ -21,8 +21,9 @@ indice_5 :
   - construction commencée en 2004
 indice_6 : 
   - inauguration en 2010
+culture_g_score: 77
+culture_g_justification: "Gratte-ciel emblématique de Dubaï, très fréquent dans les questions sur les records, l’architecture et les Émirats arabes unis."
 ---
-
 ![Image de Burj Khalifa](https://upload.wikimedia.org/wikipedia/commons/e/e0/Burj_dubai_3.11.08.jpg)
 
 ###### Questions

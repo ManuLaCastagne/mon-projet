@@ -22,12 +22,9 @@ indice_6 :
   - Midnight's Children
 questions:
  - En 1988, quel écrivain britannique d'origine indienne publie l'ouvrage "Les Versets sataniques" ?
+culture_g_score: 80
+culture_g_justification: "Écrivain mondialement repéré par Les Versets sataniques, la fatwa et le Booker Prize, offrant plusieurs angles de quiz."
 ---
-
-
-
-
-
 ![Image de Salman Rushdie](https://upload.wikimedia.org/wikipedia/commons/9/92/Salman_Rushdie_2014_%28cropped%29.jpg)
 
 ###### Questions

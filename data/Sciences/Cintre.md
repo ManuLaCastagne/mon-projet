@@ -20,8 +20,9 @@ indice_6 :
   - Relativité
 questions:
  - En architecture, quel terme désigne la courbure hémisphérique intérieure d'un arc ou d'une voûte?
+culture_g_score: 36
+culture_g_justification: "Le cintre est un objet quotidien connu, mais son intérêt culturel et sa fréquence en quiz sont très faibles."
 ---
-
 ![Image de Cintre](https://upload.wikimedia.org/wikipedia/commons/1/19/Cintr%C3%A9_-_vue_a%C3%A9rienne_20190824.jpg)
 
 ###### Questions

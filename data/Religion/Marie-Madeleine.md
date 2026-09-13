@@ -20,8 +20,9 @@ indice_6 :
   - Apôtres
 questions:
  - Dans le Nouveau Testament,  pécheresse repentie est la première à voir le Christ ressuscité ?
+culture_g_score: 84
+culture_g_justification: "Disciple majeure de Jésus et témoin de la Résurrection, Marie-Madeleine suscite de nombreuses questions bibliques, historiques et artistiques."
 ---
-
 ![Image de Marie-Madeleine](https://upload.wikimedia.org/wikipedia/commons/d/d7/%C3%89glise_Sainte-Marie-Madeleine_%28Lille%29_%2C_la_chapelle_transversale_nord_d%C3%A9di%C3%A9e_%C3%A0_la_Vierge-.jpg)
 
 ###### Questions

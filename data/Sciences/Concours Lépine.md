@@ -20,9 +20,9 @@ indice_6 :
   - Nouveauté
 questions:
  - Depuis 1902 en France, quel concours, créé par un préfet de police, met en avant les inventions ?
+culture_g_score: 64
+culture_g_justification: "Le Concours Lépine est une institution française connue, mais ses occurrences concernent surtout l’histoire des inventions."
 ---
-
-
 ![Image de Concours Lépine](https://upload.wikimedia.org/wikipedia/commons/9/91/Louis_L%C3%A9pine.jpg)
 
 ###### Questions

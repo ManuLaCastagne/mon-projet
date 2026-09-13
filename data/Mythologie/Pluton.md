@@ -18,8 +18,9 @@ indice_6 :
   - nom romain d'Hadès
 questions:
  - Fils de Saturne ayant été assimilé à une divinité primitive du monde souterrain appelée "Dis Pater", mon nom constituait un surnom rituel du dieu grec des Enfers, Hadès.
+culture_g_score: 68
+culture_g_justification: "Équivalent romain d’Hadès et dieu des richesses souterraines, Pluton est une référence utile mais généralement moins interrogée que son homologue grec."
 ---
-
 ![Image de Pluton](https://upload.wikimedia.org/wikipedia/commons/1/10/Pluto_Serapis_Archmus_Heraklion.jpg)
 
 ###### Questions

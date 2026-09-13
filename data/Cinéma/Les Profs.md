@@ -22,10 +22,9 @@ indice_6 :
   - professeur d'histoire loufoque
 questions:
  - En 2013, dans quelle comédie de Pierre-François Martin-Laval, un lycée fait-il appel aux pires professeurs pour faire progresser...
+culture_g_score: 53
+culture_g_justification: "Comédie populaire adaptée d’une bande dessinée, mais d’importance limitée et principalement utile pour ses acteurs et son univers scolaire."
 ---
-
-
-
 ![Image de Les Profs](https://upload.wikimedia.org/wikipedia/commons/d/de/Andr%C3%A9_Milan_-_Nos_bons_profs%E2%80%A6.jpg)
 
 ###### Questions

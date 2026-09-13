@@ -24,8 +24,9 @@ indice_6 :
   - Saint-Pierre-d'Oléron
 questions:
  - Quelle île de l'océan Atlantique est la plus grande île de France métropolitaine après la Corse?
+culture_g_score: 47
+culture_g_justification: "Grande île touristique française connue pour ses huîtres, ses marais et son pont, mais d’importance générale limitée."
 ---
-
 ![Image de Île d'Oléron](https://upload.wikimedia.org/wikipedia/commons/a/a8/%C3%8Ele_d%27Ol%C3%A9ron_aerial_view.jpg)
 
 ![[Carte_Île d'Oléron.png]]

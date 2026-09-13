@@ -20,12 +20,9 @@ indice_5:
   - franco-belge
 indice_6:
   - philosophie et spiritualité
+culture_g_score: 76
+culture_g_justification: "Auteur très présent dans la culture francophone grâce au théâtre, aux romans, aux adaptations et au Cycle de l’invisible."
 ---
-
-
-
-
-
 ![Image de Eric-Emmanuel Schmitt](https://upload.wikimedia.org/wikipedia/commons/e/ed/Eric-Emmanuel_Schmitt_2013.jpg)
 
 ###### Questions

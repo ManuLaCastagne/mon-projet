@@ -22,8 +22,9 @@ indice_6 :
   - chanson
 questions:
  - Titre dont une version française a été écrite par Alain Boublil, mes paroles évoquant une bataille décrivent une capitulation sans condition devant l'amour.
+culture_g_score: 73
+culture_g_justification: "Chanson d’ABBA très connue, permettant de croiser Eurovision, pop suédoise et référence à la bataille napoléonienne."
 ---
-
 ![Image de Waterloo](https://upload.wikimedia.org/wikipedia/commons/2/29/Bataille_Waterloo_1815_reconstitution_2011_cuirassier.jpg)
 
 ###### Questions

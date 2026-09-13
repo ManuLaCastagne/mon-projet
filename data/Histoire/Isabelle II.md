@@ -20,8 +20,9 @@ indice_6 :
   - décès en 2022
 questions:
  - De quelle reine l'avènement au trône d'Espagne, en 1833, alors qu'elle n'avait pas encore 3 ans, a-t-il provoqué une guerre civile dans le pays?
+culture_g_score: 60
+culture_g_justification: "Reine d’Espagne liée aux guerres carlistes et à la révolution de 1868, mais nettement moins présente dans les quiz que son homonyme britannique."
 ---
-
 ![Image de Isabelle II](https://upload.wikimedia.org/wikipedia/commons/e/eb/Queen_Isabella_II.jpg)
 
 ###### Questions

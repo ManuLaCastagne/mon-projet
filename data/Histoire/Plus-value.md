@@ -20,8 +20,9 @@ indice_6 :
   - Surplus
 questions:
  - En économie, quel mot composé désigne l'augmentation de la valeur d'un bien n'ayant subi aucune transformation?
+culture_g_score: 80
+culture_g_justification: "Concept économique et marxiste classique, également employé en immobilier, qui fournit de nombreux angles de questions."
 ---
-
 ![Image de Plus-value](https://upload.wikimedia.org/wikipedia/commons/4/46/Macintosh_Plus_interior_2.jpg)
 
 ###### Questions

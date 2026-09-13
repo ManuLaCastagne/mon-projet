@@ -12,9 +12,9 @@ indice_4:
 indice_5: 
 indice_6:
   - Plante ornementale
+culture_g_score: 64
+culture_g_justification: "Plante ornementale très reconnaissable dans les régions chaudes, avec des liens à l’horticulture, aux bractées et à l’exploration française."
 ---
-
-
 ![Image de Bougainvillier](https://upload.wikimedia.org/wikipedia/commons/b/b1/Santorin_%28GR%29%2C_Ia_--_2017_--_2698.jpg)
 
 ###### Questions

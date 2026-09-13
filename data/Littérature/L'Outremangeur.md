@@ -22,9 +22,9 @@ indice_6 :
   - satire sociale
 questions:
  - Quelle bande dessinée, dont le scénario est signé Tonino Benacquista, a pour héros Richard Séléna, un policier obèse?
+culture_g_score: 23
+culture_g_justification: "Roman graphique et film relativement confidentiels, dont la connaissance répond à très peu de questions généralistes."
 ---
-
-
 ![Image de L'Outremangeur](https://upload.wikimedia.org/wikipedia/commons/d/da/The_morality_of_marriage%2C_and_other_essays_on_the_status_and_destiny_of_woman_%28IA_moralityofmarria00cairrich%29.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Walt Disney
 questions:
  - Me heurtant la tête à un arbre ou me retrouvant avec un noeud à la queue lorsque je suis dérangé dans mes projets...
+culture_g_score: 64
+culture_g_justification: "Kaa est un personnage célèbre du Livre de la jungle, mais les questions portent surtout sur quelques adaptations de Disney et de Kipling."
 ---
-
 ![Image de Kaa](https://upload.wikimedia.org/wikipedia/commons/2/21/T2JB241_-_Jungle_Book_capital_I.JPG)
 
 ###### Questions

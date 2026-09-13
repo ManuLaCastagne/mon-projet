@@ -22,8 +22,9 @@ indice_6 :
   - trio texan
 questions:
  - Quel groupe de rock texan compte trois membres, dont le seul à ne pas porter de barbe se nomme Beard ?
+culture_g_score: 80
+culture_g_justification: "Groupe de blues rock immédiatement identifiable par ses barbes, ses tubes, son imagerie et son album Eliminator."
 ---
-
 ![Image de ZZ Top](https://upload.wikimedia.org/wikipedia/commons/1/1e/ZZ_Top_performing_in_San_Antonio%2C_Texas_2015.jpg)
 
 ###### Questions

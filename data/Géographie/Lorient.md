@@ -21,8 +21,9 @@ indice_5 :
   - La Base
 indice_6 : 
   - Musée de la Compagnie des Indes
+culture_g_score: 60
+culture_g_justification: "Ville bretonne intéressante pour la Compagnie des Indes, la marine, la Seconde Guerre mondiale et le Festival interceltique, mais de portée limitée."
 ---
-
 ![[Carte_Lorient.png]]
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Thermodynamique
 questions:
  - En 1679, quel savant français met au point la première machine...
+culture_g_score: 64
+culture_g_justification: "Inventeur lié à la machine à vapeur et à l’autocuiseur, avec une présence classique mais limitée dans les quiz historiques et scientifiques."
 ---
-
 ![Image de Denis Papin](https://upload.wikimedia.org/wikipedia/commons/e/e6/Denis-Papin.jpg)
 
 ###### Questions

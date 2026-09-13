@@ -22,8 +22,9 @@ indice_6 :
   - Lola-Lola
 questions:
  - En 1930, dans quel film de Joseph von Sternberg, qui lui a valu le surnom de Marlene Dietrich, interprète-t-elle une chanson?
+culture_g_score: 80
+culture_g_justification: "Classique majeur du cinéma parlant allemand, lié à Marlene Dietrich, Josef von Sternberg et à l'histoire du cinéma."
 ---
-
 ![Image de L'Ange bleu](https://upload.wikimedia.org/wikipedia/commons/4/4f/The_Blue_Angel_2018.jpg)
 
 ###### Questions

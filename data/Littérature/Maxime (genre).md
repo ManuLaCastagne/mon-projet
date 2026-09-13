@@ -21,8 +21,9 @@ indice_6:
   - intrigue
 questions:
   - Quel genre littéraire constitué par une formule brève est popularisée par La Rochefoucauld, est né au XVIIe dans le salon de la Marquise de Sablé ?
+culture_g_score: 61
+culture_g_justification: "Notion concise et rentable, particulièrement utile pour reconnaître La Rochefoucauld, les moralistes et les formes brèves à portée générale."
 ---
-
 ![Image de Maxime (genre)](https://upload.wikimedia.org/wikipedia/commons/7/71/Jean-Maxime_Claude_-_Marine.jpg)
 
 ###### Questions

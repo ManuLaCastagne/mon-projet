@@ -17,8 +17,9 @@ indice_4:
   - Après Le Petit Journal
 indice_5: 
 indice_6:
+culture_g_score: 76
+culture_g_justification: "Émission quotidienne très visible, exploitable par Yann Barthès, TMC, l’actualité politique et l’histoire du Petit Journal."
 ---
-
 ![Image de Quotidien](https://upload.wikimedia.org/wikipedia/commons/2/29/Quotidien_Logo.png)
 
 ###### Questions

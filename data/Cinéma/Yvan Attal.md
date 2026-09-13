@@ -20,8 +20,9 @@ indice_5:
   - Partenaire de Charlotte Gainsbourg
 indice_6:
   - Le Brio
+culture_g_score: 48
+culture_g_justification: "Acteur et réalisateur français connu, surtout exploitable à travers quelques films, Charlotte Gainsbourg et le cinéma francophone contemporain."
 ---
-
 ![Image de Yvan Attal](https://upload.wikimedia.org/wikipedia/commons/8/86/Yvan_Attal_2009.jpg)
 
 ###### Questions

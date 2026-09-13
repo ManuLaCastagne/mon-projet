@@ -22,8 +22,9 @@ indice_5 :
   - Université du Ghana
 indice_6 : 
   - Marché de Makola
+culture_g_score: 64
+culture_g_justification: "Capitale du Ghana associée à l'indépendance africaine, à Kwame Nkrumah et à la géographie ouest-africaine."
 ---
-
 ![Image de Accra](https://upload.wikimedia.org/wikipedia/commons/7/7b/Central_accra-2.jpg)
 
 ![[Carte_Accra.png]]

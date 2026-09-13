@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de lumière et de mystère
 questions:
  - Quel est le nom scientifique du "ver luisant" ?
+culture_g_score: 60
+culture_g_justification: "Insecte bioluminescent classique, utile pour des questions sur la lumière, la chimie et l'histoire naturelle."
 ---
-
 ![Image de Lampyre](https://upload.wikimedia.org/wikipedia/commons/4/4e/Lampyris_Noctiluca_Female_Firefly_2.jpg)
 
 ###### Questions

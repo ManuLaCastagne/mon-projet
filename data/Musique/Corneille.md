@@ -22,8 +22,9 @@ indice_6 :
   - En attendant
 questions:
  - Quel corvidé voisin du corbeau peut être "noir" ou "mantelé" ?
+culture_g_score: 60
+culture_g_justification: "Chanteur francophone identifié par Parce qu’on vient de loin et son parcours rwandais, mais d’une portée plus limitée que les grands classiques de la chanson."
 ---
-
 ![Image de Corneille](https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_Corneille_Lemaire_Louvre.jpg)
 
 ###### Questions

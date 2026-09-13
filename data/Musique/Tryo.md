@@ -18,8 +18,9 @@ indice_5:
   - groupe engagé
 indice_6:
   - Ladilafé
+culture_g_score: 64
+culture_g_justification: "Groupe français populaire, notamment grâce à L’Hymne de nos campagnes, mais moins incontournable que les grands groupes historiques."
 ---
-
 ![Image de Tryo](https://upload.wikimedia.org/wikipedia/commons/4/46/Tryo_Brest_11_2016_-_01.jpg)
 
 ###### Questions

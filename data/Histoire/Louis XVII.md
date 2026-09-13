@@ -20,8 +20,9 @@ indice_6 :
   - Maison des Bourbon
 questions:
  - De quel héritier du trône de France, arrêté avec sa famille pendant la Terreur et détenu au Temple, la mort est-elle longtemps…
+culture_g_score: 76
+culture_g_justification: "Louis XVII est une référence fréquente de la Révolution française grâce à son statut d’enfant royal et au mystère de sa mort."
 ---
-
 ![Image de Louis XVII](https://upload.wikimedia.org/wikipedia/commons/b/bf/Louis-Charles_de_France%2C_Louis_XVII%2C_Deseine_m%C3%A9ridienne_Versailles_MV8523.jpg)
 
 ###### Questions

@@ -17,8 +17,9 @@ indice_5:
   - ski alpin
 indice_6:
   - jeux olympiques d'hiver
+culture_g_score: 60
+culture_g_justification: "Édition olympique notable pour la télévision et la première participation soviétique, mais moins incontournable que les éditions fondatrices."
 ---
-
 ![Image de Cortina d'Ampezzo 1956](https://upload.wikimedia.org/wikipedia/commons/7/73/Spitlight_first_presentation_at_Olympic_games_Cortina_d%27Ampezzo_1956.jpg)
 
 ###### Questions

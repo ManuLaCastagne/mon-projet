@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la tradition camarguaise et des courses camarguaises
 questions:
  - Composée de chevaux,  de vaches ou de taureaux sauvages, j'évolue en liberté sous la surveillance de cavaliers appelés gardians.
+culture_g_score: 40
+culture_g_justification: "Terme régional lié à l’élevage camarguais, pertinent surtout dans des questions françaises ou locales."
 ---
-
 ![Image de Manade](https://upload.wikimedia.org/wikipedia/commons/d/db/Manade_%C3%A0_Cong%C3%A9nies.jpg)
 
 ###### Questions

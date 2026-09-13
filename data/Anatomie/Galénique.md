@@ -2,6 +2,8 @@
 tags:
   - Santé
   - Grèce
+culture_g_score: 44
+culture_g_justification: "Notion historique de pharmacie associée à Galien, intéressante mais trop spécialisée pour une priorité élevée."
 ---
 ###### Questions 
 

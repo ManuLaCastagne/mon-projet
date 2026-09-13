@@ -24,8 +24,9 @@ indice_6 :
   - Maison de la Sagesse
 questions:
  - Ancienne résidence des califes abbassides, je suis située sur le Tigre et suis la capitale de l'Irak depuis 1921…
+culture_g_score: 72
+culture_g_justification: "Capitale historique du monde islamique, Bagdad relie histoire, sciences, littérature, géopolitique et civilisation abbasside."
 ---
-
 ![Image de Bagdad](https://upload.wikimedia.org/wikipedia/commons/2/2c/13-08-06-bagdad-nachts.jpg)
 
 ![[Carte_Bagdad.png]]

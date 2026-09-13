@@ -24,8 +24,9 @@ indice_6 :
   - Nogent-sur-Oise
 questions:
  - Qui m'a donné son nom.  Abritant les forêts de Chantilly et de Compiègne...
+culture_g_score: 44
+culture_g_justification: "Département français utile pour Chantilly, Compiègne et Beauvais, mais principalement dans des questions patrimoniales ou administratives."
 ---
-
 ![Image de Oise](https://upload.wikimedia.org/wikipedia/commons/5/5a/Myocastor_coypus_on_a_branch_in_Oise_River_Compi%C3%A8gne_France.jpg)
 
 ![[Carte_Oise.png]]

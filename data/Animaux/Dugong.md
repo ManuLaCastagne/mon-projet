@@ -15,8 +15,9 @@ indice_6 :
   - Inspirateur de légendes de sirènes
 questions:
  - Quel mammifère marin, dont le nom est emprunté au malais, est également appelé vache marine ?
+culture_g_score: 52
+culture_g_justification: "Le dugong est un mammifère marin emblématique mais relativement spécialisé, associé surtout aux siréniens, aux mythes et à la conservation."
 ---
-
 ![Image de Dugong](https://upload.wikimedia.org/wikipedia/commons/9/91/Dugong_Marsa_Alam.jpg)
 
 ###### Questions

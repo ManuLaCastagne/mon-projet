@@ -24,8 +24,9 @@ indice_6 :
   - mistral
 questions:
  - Quel sommet est surnommé le Géant de Provence ou encore Mont Chauve ?
+culture_g_score: 73
+culture_g_justification: "Sommet très connu en France grâce au Tour de France, à la Provence et à son surnom de Géant de Provence."
 ---
-
 ![Image de Mont Ventoux](https://upload.wikimedia.org/wikipedia/commons/e/ea/Ombre_du_Mont_Ventoux_sur_lui_m%C3%AAme.jpg)
 
 ![[Carte_Mont Ventoux.png]]

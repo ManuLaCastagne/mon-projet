@@ -20,8 +20,9 @@ indice_6 :
   - cablée
 questions:
  - En alpinisme, quel type d'escalade de parois abruptes doit son nom à un couloir rocheux proche de...
+culture_g_score: 40
+culture_g_justification: "Ancien terme de l’escalade encore compréhensible, mais moins prioritaire que la notion générale d’escalade."
 ---
-
 ![Image de Varappe](https://upload.wikimedia.org/wikipedia/commons/7/72/Flo_dans_Juvs%C3%B8yla_%C3%A0_Rjukan%2C_Norv%C3%A8ge-rotated.jpg)
 
 ###### Questions

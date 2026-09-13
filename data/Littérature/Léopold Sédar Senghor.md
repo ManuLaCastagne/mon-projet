@@ -22,8 +22,9 @@ indice_6 :
   - Culture et civilisation
 questions:
  - Poète sénégalais...
+culture_g_score: 84
+culture_g_justification: "Figure majeure de la Négritude, de la poésie francophone et de la politique sénégalaise, avec de nombreux liens historiques et culturels."
 ---
-
 ![Image de Léopold Sédar Senghor](https://upload.wikimedia.org/wikipedia/commons/f/f6/Paris-Love_padlocks_on_the_Passerelle_L%C3%A9opold-S%C3%A9dar-Senghor-P1260512.jpg)
 
 ###### Questions

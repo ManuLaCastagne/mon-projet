@@ -21,8 +21,9 @@ indice_5:
   - acteur-réalisateur
 indice_6:
   - cinéma français
+culture_g_score: 60
+culture_g_justification: "Acteur français associé à Navarro, au cinéma populaire et à sa relation avec Mitterrand, mais d'importance surtout nationale."
 ---
-
 ![Image de Roger Hanin](https://upload.wikimedia.org/wikipedia/commons/f/f8/Roger_Hanin_Cannes.jpg)
 
 ###### Questions

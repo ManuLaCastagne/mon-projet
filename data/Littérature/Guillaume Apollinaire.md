@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - En 1913, quel écrivain publie le poème "Voie lactée", extrait du recueil "Alcools" ?
  - Ecrivain français né en 1880, je suis un temps précepteur en Rhénanie et effectue de nombreux voyages à travers l'Allemagne.  Engagé en 1914 pour la durée de la guerre, je suis blessé à la tempe par un éclat d'obus en 1916, ce qui me vaut de subir une trépanation. Auteur de "L'Enchanteur pourrissant" et du "Poète Assassiné", je deviens célèbre...
+culture_g_score: 80
+culture_g_justification: "Grande figure de l'avant-garde française, utile pour le surréalisme, les calligrammes, la poésie moderne et la Première Guerre mondiale."
 ---
-
 ![Image de Guillaume Apollinaire](https://upload.wikimedia.org/wikipedia/commons/8/82/Guillaume_Apollinaire_-_Septembre_1911.jpg)
 
 ###### Questions

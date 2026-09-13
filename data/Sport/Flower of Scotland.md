@@ -20,8 +20,9 @@ indice_6 :
   - Murrayfield Stadium
 questions:
  - Contre l'Angleterre. Ballade due, en 1967, à Roy Williamson du groupe The Corries, j'évoque la bataille de Bannockburn et un roi "renvoyé chez lui pour y réfléchir à 2 fois". Hymne d'une équipe évoluant à domicile au stade Murrayfield...
+culture_g_score: 60
+culture_g_justification: "Chant patriotique écossais connu dans le sport, il ouvre quelques questions sur les hymnes, l’Écosse et le rugby."
 ---
-
 ![Image de Flower of Scotland](https://upload.wikimedia.org/wikipedia/commons/a/ac/Scotland_Flower_1.jpeg)
 
 ###### Questions

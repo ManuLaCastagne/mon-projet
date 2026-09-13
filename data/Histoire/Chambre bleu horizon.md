@@ -20,9 +20,9 @@ indice_6 :
   - tenue de combat
 questions:
  - En 1919, comment a-t-on surnommé l'assemblée composée de députés français récemment élus ?
+culture_g_score: 51
+culture_g_justification: "Repère utile de la vie politique française de l’après-guerre, mais notion institutionnelle assez spécialisée et peu transversale."
 ---
-
-
 ![Image de Chambre bleu horizon](https://upload.wikimedia.org/wikipedia/commons/7/7e/C%C3%B4t%C3%A9_-_Bleu%2C_blanc%2C_rouge%2C_1903.djvu)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_6 :
   - années 1950
 questions:
  - En 2011, quel film débute par une course-poursuite dans laquelle Ryan Gosling interprète un chauffeur travaillant pour le compte de braqueurs ?
+culture_g_score: 76
+culture_g_justification: "Film contemporain très identifiable par Nicolas Winding Refn, Ryan Gosling, Cannes et sa bande originale, avec plusieurs angles de quiz."
 ---
-
-
 ![Image de Drive](https://upload.wikimedia.org/wikipedia/commons/a/a1/Sega-Mega-Drive-JP-Mk1-Console-Set.jpg)
 
 ###### Questions

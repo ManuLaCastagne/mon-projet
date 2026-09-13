@@ -20,10 +20,9 @@ indice_6:
   - Précurseur de la politique de la détente pendant la guerre froide
 questions:
   - Quel 1er ministre démissionne en même temps de Charles de Gaulle après 1 an d'exercice ?
+culture_g_score: 47
+culture_g_justification: "Ancien Premier ministre et diplomate important de la Ve République, mais peu connu en dehors des questions politiques spécialisées."
 ---
-
-
-
 ![Image de Maurice Couve-de-Murville](https://upload.wikimedia.org/wikipedia/commons/6/66/Maurice_Couve_de_Murville_and_Roger_Seydoux.jpg)
 
 ###### Questions

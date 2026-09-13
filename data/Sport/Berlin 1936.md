@@ -20,8 +20,9 @@ indice_5 :
   - Leni Riefenstahl
 indice_6 : 
   - boycott américain
+culture_g_score: 84
+culture_g_justification: "Jeux olympiques emblématiques de la propagande nazie et des exploits de Jesse Owens, offrant de nombreux angles historiques et sportifs."
 ---
-
 ![Image de Berlin 1936](https://upload.wikimedia.org/wikipedia/commons/0/03/Sohn_Kee-chung_%28Kitei_Son%29_Marathon_1936_Summer_Olympics.jpg)
 
 ###### Questions

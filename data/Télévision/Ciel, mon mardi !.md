@@ -20,8 +20,9 @@ indice_6 :
   - débats humoristiques
 questions:
  - En 1990, de quelle émission Dechavanne fête-t-il la 100e en faisant passer des membres d'une troupe d'improvisation pour des témoins ?
+culture_g_score: 72
+culture_g_justification: "Émission phare de Christophe Dechavanne, classique des quiz sur la télévision française et les débats de société."
 ---
-
 ![Image de Ciel, mon mardi !](https://upload.wikimedia.org/wikipedia/commons/0/09/Les_ombres_chinoises_de_mon_p%C3%A8re_%28IA_lesombreschinois00eude%29.pdf)
 
 ###### Questions

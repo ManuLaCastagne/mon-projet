@@ -4,6 +4,8 @@ tags:
   - XVe
   - Italie
 date: 1414
+culture_g_score: 64
+culture_g_justification: "Terme alimentaire très courant pouvant concerner botanique, étymologie et gastronomie, mais rarement comme réponse précise."
 ---
 ###### Questions 
 

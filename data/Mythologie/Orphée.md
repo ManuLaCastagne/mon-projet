@@ -18,8 +18,9 @@ indice_6 :
   - charme des animaux
 questions:
  - Dans la [[mythologie grecque]], quel poète fou de douleur après la mort de sa compagne Eurydice décide d'aller...
+culture_g_score: 80
+culture_g_justification: "Le mythe d’Orphée et d’Eurydice est très classique et se décline en littérature, musique, opéra, arts et histoire de la mythologie."
 ---
-
 ![Image de Orphée](https://upload.wikimedia.org/wikipedia/commons/d/d7/%28Cahors%29_Orph%C3%A9e_-_Henri_Martin_-_Mus%C3%A9e_de_Cahors_Henri-Martin.jpg)
 
 ###### Questions

@@ -16,9 +16,9 @@ indice_5:
   - chevalier
 indice_6:
   - Moyen Âge
+culture_g_score: 68
+culture_g_justification: "Tristan est une figure majeure de la littérature médiévale et de la légende arthurienne, mais les questions portent surtout sur un nombre limité d'épisodes."
 ---
-
-
 ![Image de Tristan](https://upload.wikimedia.org/wikipedia/commons/6/6d/Tristan_da_Cunha_Island_%28ASTER%29.jpg)
 
 ###### Questions

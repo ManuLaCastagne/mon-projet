@@ -22,8 +22,9 @@ indice_6 :
   - romance et comédie
 questions:
  - En 1992, dans quel film Michelle Pfeiffer et Al Pacino interprètent-ils 2 personnages...
+culture_g_score: 40
+culture_g_justification: "Comédie romantique portée par deux vedettes, mais peu centrale dans l'histoire du cinéma et rarement une réponse prioritaire."
 ---
-
 ![Image de Frankie et Johnny](https://upload.wikimedia.org/wikipedia/commons/0/0b/Gratkowski_Double_Quartet_%28programmaboekje%29.pdf)
 
 ###### Questions

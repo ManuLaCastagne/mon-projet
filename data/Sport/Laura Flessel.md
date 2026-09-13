@@ -20,8 +20,9 @@ indice_6 :
   - Guadeloupe
 questions:
  - Personnalité née le 6 novembre 1971, je deviens, à 24 ans, la 1re femme médaillée olympique de ma spécialité à Atlanta 1996. Porte-drapeau de la délégation française lors de Londres 2012, je suis une spécialiste de l'épée ayant remporté 6 titres...
+culture_g_score: 64
+culture_g_justification: "Grande championne française d’escrime, utile pour les Jeux olympiques, les médailles françaises et l’histoire de l’équipe de France."
 ---
-
 ![Image de Laura Flessel](https://upload.wikimedia.org/wikipedia/commons/6/63/Laura_Flessel-Colovic%2C_Team_trophy_presentation_Challenge_international_de_Saint-Maur_2013_t161426.jpg)
 
 ###### Questions

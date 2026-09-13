@@ -22,9 +22,9 @@ indice_5:
   - cartes
 indice_6:
   - frontières
+culture_g_score: 20
+culture_g_justification: "Petite commune de l’Indre dont les repères historiques et touristiques offrent peu d’occasions de questions généralistes."
 ---
-
-
 ![Image de Châtre](https://upload.wikimedia.org/wikipedia/commons/b/b1/C%C3%A8dre_de_La_Ch%C3%A2tre_%28Indre%29.jpg)
 
 ![[Carte_Châtre.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - Mode
 questions:
  - En 1999, quelle jeune femme issu d'une famille palsetinienne monte sur le trône de Jordanie auprès de son époux Abdallah II ?
+culture_g_score: 47
+culture_g_justification: "Reine contemporaine connue pour ses engagements, mais encore peu incontournable dans les quiz généralistes."
 ---
-
 ![Image de Rania al-Yassin](https://upload.wikimedia.org/wikipedia/commons/8/8b/Queen_Rania_of_Jordan_signature.png)
 
 ###### Questions

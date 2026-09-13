@@ -20,8 +20,9 @@ indice_6 :
   - lutte contre Franco
 questions:
  - Dans quelles formations militaires des Français ont-il lutté, aux côtés des républicains espagnols...
+culture_g_score: 72
+culture_g_justification: "Sujet classique de la guerre d’Espagne, relié à l’antifascisme, aux volontaires étrangers et à plusieurs figures intellectuelles."
 ---
-
 ![Image de Brigades internationales](https://upload.wikimedia.org/wikipedia/commons/b/bf/Perelachaise-BrigadesInternationales-p1000377.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Salades et plats cuisinés
 questions:
  - Quel mot composé évoquant un ordre religieux désigne une chicorée sauvage, donc salade, au goût amer, que l'on mange en salade?
+culture_g_score: 20
+culture_g_justification: "Plante sauvage peu identifiée du grand public, dont les usages traditionnels ne suffisent pas à en faire une priorité."
 ---
-
 ![Image de Barbe-de-capucin](https://upload.wikimedia.org/wikipedia/commons/b/b8/Chicor%C3%A9e_Barbe-de-capucin_Vilmorin-Andrieux_1904.png)
 
 ###### Questions

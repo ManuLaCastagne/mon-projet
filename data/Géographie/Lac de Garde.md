@@ -24,8 +24,9 @@ indice_6 :
   - région Lombardie
 questions:
  - Quel lac glaciaire italien est le plus grand du pays ?
+culture_g_score: 64
+culture_g_justification: "Plus grand lac d’Italie et lieu touristique majeur, le lac de Garde est une bonne connaissance géographique sans être prioritaire."
 ---
-
 ![Image de Lac de Garde](https://upload.wikimedia.org/wikipedia/commons/e/ea/H%C3%A9ron_garde_boeufs_lac_sud_de_Tunis.jpg)
 
 ![[Carte_Lac de Garde.png]]

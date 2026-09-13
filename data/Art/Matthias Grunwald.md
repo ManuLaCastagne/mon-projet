@@ -23,8 +23,9 @@ indice_6 :
   - spiritualité chrétienne
 questions:
  - Entre 1512 et 1516, quel peintre allemand réalise son chef-d'œuvre en exécutant la partie peinte du retable "Antonin d'Issenheim" ?
+culture_g_score: 48
+culture_g_justification: "Grünewald est surtout interrogé pour le retable d'Issenheim et sa peinture religieuse, ce qui limite sa fréquence auprès du grand public."
 ---
-
 ![Image de Matthias Grunwald](https://upload.wikimedia.org/wikipedia/commons/7/7c/Joachim_von_Sandrart-Teutsche_Academie_der_Edlen_Bau_Bild_und_Mahlerey-Kuenste-Matthias_Gruenewald-1679.jpg)
 
 ###### Questions

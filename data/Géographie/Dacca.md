@@ -22,8 +22,9 @@ indice_5 :
   - aéroport international Hazrat Shahjalal
 indice_6 : 
   - université fondée en 1921
+culture_g_score: 64
+culture_g_justification: "Capitale d’un pays très peuplé et souvent mobilisée pour le Bangladesh, mais moins fréquente que les grandes capitales asiatiques."
 ---
-
 ![Image de Dacca](https://upload.wikimedia.org/wikipedia/commons/e/e2/Dhakarushhour_%2854%29.JPG)
 
 ![[Carte_Dacca.png]]

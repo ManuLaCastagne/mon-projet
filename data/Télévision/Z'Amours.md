@@ -20,8 +20,9 @@ indice_6 :
   - Bruno Guillon
 questions:
  - Emission créée en 1995 sur France 2, je suis adaptée du jeu américain "The Newlywed Game".  Introduite par un générique en images animées où évolue une voiture décapotable…
+culture_g_score: 69
+culture_g_justification: "Jeu populaire et durable de France 2, fréquemment mobilisable dans les questions sur les émissions et animateurs télévisés."
 ---
-
 ![Image de Z'Amours]()
 
 ###### Questions

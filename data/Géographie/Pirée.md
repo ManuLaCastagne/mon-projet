@@ -24,7 +24,8 @@ indice_6 :
   - fondé au Ve siècle av. J.-C.
 questions:
  - J'occupe essentiellement le site grec de Kendriko Limani. Ouvert sur la Méditerranée, je suis un important…
-culture_g_score: 51
+culture_g_score: 64
+culture_g_justification: "Grand port historique d’Athènes, le Pirée intervient dans des questions antiques, géographiques et économiques, mais reste moins connu que la capitale."
 ---
 ![Image de Pirée](https://upload.wikimedia.org/wikipedia/commons/b/be/Piraeus-collage-b.jpg)
 

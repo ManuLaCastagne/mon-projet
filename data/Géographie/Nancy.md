@@ -23,7 +23,8 @@ indice_6 :
   - Palais des ducs de Lorraine
 questions:
  - Quelle ville française abrite les places dites de la Carrière, d'Alliance et Stanislas classées...
-culture_g_score: 80
+culture_g_score: 60
+culture_g_justification: "Ville française régulièrement interrogée grâce à la place Stanislas, à l'École de Nancy et à son patrimoine lorrain, avec une portée toutefois surtout nationale."
 ---
 ![[Carte_Nancy.png]]
 

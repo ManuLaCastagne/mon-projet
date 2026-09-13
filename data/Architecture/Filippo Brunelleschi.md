@@ -23,8 +23,9 @@ indice_6 :
   - co-créateur de la coupole
 questions:
  - A quel architecte italien, né en 1377, doit-on la coupole audacieuse de la cathédrale Santa Maria delle Fiore, à Florence?
+culture_g_score: 84
+culture_g_justification: "Brunelleschi est un grand nom de la Renaissance, associé au dôme de Florence, à la perspective et à plusieurs thèmes artistiques et scientifiques."
 ---
-
 ![Image de Filippo Brunelleschi](https://upload.wikimedia.org/wikipedia/commons/9/9e/Statue_of_Filippo_Brunelleschi.jpg)
 
 ###### Questions

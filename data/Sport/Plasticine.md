@@ -20,8 +20,9 @@ indice_6 :
   - Enfants
 questions:
  - A la longueur ou au triple saut,  quelle substance, disposée en couche derrière la planche d'appel, permet de déterminer si un saut...
+culture_g_score: 40
+culture_g_justification: "Usage technique de la pâte à modeler en athlétisme, connaissance originale mais peu fréquente et peu structurante."
 ---
-
 ![Image de Plasticine](https://upload.wikimedia.org/wikipedia/commons/b/b5/Plastilin-ddr.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Deckard
 questions:
  - En 1982, dans quel film de Ridley Scott un ancien policier est-il chargé d'éliminer 4 androïdes appelés répliquants?
+culture_g_score: 80
+culture_g_justification: "Classique majeur de la science-fiction, régulièrement interrogé pour Ridley Scott, Philip K. Dick, les réplicants et ses différentes versions."
 ---
-
 ![Image de Blade Runner](https://upload.wikimedia.org/wikipedia/commons/8/81/Leon_from_Blade_Runner.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5:
   - résidence d'été
 indice_6:
   - jardins somptueux
+culture_g_score: 52
+culture_g_justification: "Palais rococo associé à Frédéric II et à Potsdam, utile dans quelques questions classiques d’architecture et d’histoire prussienne, mais peu fréquent."
 ---
-
 ![Image de Sans-Souci](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Schloss_Sanssouci_2014.jpg/1920px-Schloss_Sanssouci_2014.jpg)
 
 ###### Questions

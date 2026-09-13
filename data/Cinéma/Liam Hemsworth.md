@@ -20,8 +20,9 @@ indice_5 :
   - Independence Day Resurgence
 indice_6 : 
   - acteur australien
+culture_g_score: 53
+culture_g_justification: "Acteur international surtout identifié à Hunger Games et à sa parenté avec Chris Hemsworth, avec une portée culturelle limitée."
 ---
-
 ![Image de Liam Hemsworth](https://upload.wikimedia.org/wikipedia/commons/e/e7/Liam_Hemsworth_at_214._Wetten%2C_dass.._show_in_Graz%2C_8._Nov._2014_02.jpg)
 
 ###### Questions

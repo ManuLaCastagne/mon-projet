@@ -18,8 +18,9 @@ indice_5:
   - surprise militaire
 indice_6:
   - Franklin D. Roosevelt
+culture_g_score: 97
+culture_g_justification: "Attaque mondialement célèbre, incontournable pour comprendre l’entrée des États-Unis dans la Seconde Guerre mondiale et la guerre du Pacifique."
 ---
-
 ![Image de Pearl Harbor](https://upload.wikimedia.org/wikipedia/commons/5/5c/USS_SHAW_exploding_Pearl_Harbor_Nara_80-G-16871_2.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Caramels finnlandaises
 questions:
  - En 1976, aux JO de Montréal, quelle gymnaste roumaine est la 1re de l'histoire de ce sport à obtenir la note maximale de 10?
+culture_g_score: 97
+culture_g_justification: "Le premier 10 parfait olympique en gymnastique en fait une légende mondiale, fréquemment mobilisée dans les questions sur les Jeux et le sport."
 ---
-
 ![Image de Nadia Comaneci](https://upload.wikimedia.org/wikipedia/commons/7/71/Nadia_Comaneci_1977.jpg)
 
 ###### Questions

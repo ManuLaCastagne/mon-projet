@@ -21,8 +21,9 @@ indice_5 :
   - University of Alabama
 indice_6 : 
   - Golfe du Mexique
+culture_g_score: 71
+culture_g_justification: "État clé de l'histoire des droits civiques, associé à Montgomery, Selma et à plusieurs repères de la culture américaine."
 ---
-
 ![[Carte_Alabama.png]]
 
 ###### Questions

@@ -19,10 +19,9 @@ indice_5 :
   - livre Glow Up
 indice_6 : 
   - réseaux sociaux
+culture_g_score: 27
+culture_g_justification: "Personnalité de téléréalité connue dans un public ciblé, mais très peu rentable pour une culture générale généraliste."
 ---
-
-
-
 ![Image de Alix Desmoineaux](https://upload.wikimedia.org/wikipedia/commons/2/29/Arnaud_Chiche.jpg)
 
 ###### Questions

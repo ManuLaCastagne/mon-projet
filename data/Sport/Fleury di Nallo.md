@@ -20,9 +20,9 @@ indice_6 :
   - Championnat de France
 questions:
  - Quel attaquant ayant inscrit 222 buts avec Lyon entre 60 et 74...
+culture_g_score: 40
+culture_g_justification: "Légende historique de l’Olympique lyonnais, il est surtout utile pour des questions locales ou spécialisées sur le football français."
 ---
-
-
 ![Image de Fleury di Nallo](https://upload.wikimedia.org/wikipedia/commons/4/46/Fleury_di_Nallo_en_1970.jpg)
 
 ###### Questions

@@ -23,10 +23,9 @@ indice_6 :
   - Giovanni Antonio Canal
 questions:
  - Sous quel pseudonyme connaît-on Giovanni Antonio Canal qui a notamment peint le pont du Rialto à Venise ?
+culture_g_score: 64
+culture_g_justification: "Peintre emblématique des vedute vénitiennes, utile pour l’art du XVIIIe siècle, Venise et la perspective, mais de portée assez spécialisée."
 ---
-
-
-
 ![Image de Canaletto](https://upload.wikimedia.org/wikipedia/commons/5/5b/House_of_Canaletto%2C_Venice.jpg)
 
 ###### Questions

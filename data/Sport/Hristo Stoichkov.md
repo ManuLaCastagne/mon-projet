@@ -20,8 +20,9 @@ indice_6 :
   - CSKA Sofia
 questions:
  - En football, quel redoutable attaquant, seul joueur bulgare lauréat du Ballon d'or…
+culture_g_score: 80
+culture_g_justification: "Footballeur bulgare emblématique, fréquemment associé au Ballon d'or 1994, à la Coupe du monde et au grand FC Barcelone."
 ---
-
 ![Image de Hristo Stoichkov](https://upload.wikimedia.org/wikipedia/commons/b/be/Hristo_Stoichkov_with_EC_cup_2016.jpg)
 
 ###### Questions

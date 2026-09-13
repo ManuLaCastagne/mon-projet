@@ -18,9 +18,9 @@ indice_5 :
   - travail sur le Dictionnaire de la langue française
 indice_6 : 
   - siège au Palais de l'Institut de France
+culture_g_score: 80
+culture_g_justification: "Institution française très classique, liée à Richelieu, à la langue française, aux Immortels et au Dictionnaire."
 ---
-
-
 ![Image de Académie française](https://upload.wikimedia.org/wikipedia/commons/d/d1/Institut_de_France_-_Acad%C3%A9mie_fran%C3%A7aise_et_pont_des_Arts.jpg)
 
 ###### Questions

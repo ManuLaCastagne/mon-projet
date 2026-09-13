@@ -20,8 +20,9 @@ indice_5 :
   - Jacques Prévert
 indice_6 : 
   - Le Quai des brumes
+culture_g_score: 80
+culture_g_justification: "Réalisateur central du réalisme poétique français, particulièrement utile pour Les Enfants du paradis, Prévert et le cinéma classique."
 ---
-
 ![Image de Marcel Carné](https://upload.wikimedia.org/wikipedia/commons/c/cc/Marcel_Carn%C3%A9_1994.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de transformation et de renouveau
 questions:
  - Comment appelle-t-on l'abeille qui bat des ailes à l'entrée de la ruche pour abaisser la température intérieure?
+culture_g_score: 0
+culture_g_justification: "Dans le sens identifié, « Ventileuse » ne correspond pas à une référence zoologique établie et n'offre pratiquement aucun rendement généraliste."
 ---
-
 ![Image de Ventileuse](https://upload.wikimedia.org/wikipedia/commons/2/2f/LL-Q150_%28fra%29-Guilhelma-ventileuse.wav)
 
 ###### Questions

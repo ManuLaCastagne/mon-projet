@@ -22,8 +22,9 @@ indice_6 :
   - critique de la monarchie absolue
 questions:
  - En 1748,  pour éviter la censure, quel auteur français publia anonymement à Genève "De l'esprit des lois" ?
+culture_g_score: 85
+culture_g_justification: "Figure fondamentale des Lumières, associée à la séparation des pouvoirs, aux Lettres persanes et à l’histoire des idées politiques."
 ---
-
 ![Image de Montesquieu](https://upload.wikimedia.org/wikipedia/commons/f/fc/Montesquieu_1.png)
 
 ###### Questions

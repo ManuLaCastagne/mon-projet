@@ -18,12 +18,9 @@ indice_5 :
   - impliquée dans les querelles dynastiques
 indice_6 : 
   - influente à la cour franque
+culture_g_score: 31
+culture_g_justification: "Judith de Bavière est utile pour la généalogie carolingienne, mais son rôle demeure trop précis et peu fréquent pour constituer une priorité."
 ---
-
-
-
-
-
 ![Image de Judith de Bavière](https://upload.wikimedia.org/wikipedia/commons/5/50/Judith_of_Bavaria_%28cropped%29.jpg)
 
 ###### Questions

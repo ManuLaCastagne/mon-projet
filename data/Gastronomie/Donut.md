@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - États-Unis
+culture_g_score: 60
+culture_g_justification: "Pâtisserie populaire et immédiatement reconnaissable, utile pour des questions sur les États-Unis et la culture alimentaire."
 ---
 ###### Questions 
 

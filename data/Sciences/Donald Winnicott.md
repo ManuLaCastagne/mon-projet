@@ -20,8 +20,9 @@ indice_6 :
   - Pédiatre et psychanalyste
 questions:
  - Quel pédiatre et psychanalyste britannique né en 1896, a été le 1er à développer l'idée d'objets transitionnels, permettant à l'enfant de passer vers le monde extérieur ?
+culture_g_score: 52
+culture_g_justification: "Psychanalyste important pour la psychologie de l’enfant, mais moins fréquent et moins connu que les grandes figures de la discipline."
 ---
-
 ![Image de Donald Winnicott](https://upload.wikimedia.org/wikipedia/commons/6/6d/Donald_Woods_Winnicott.jpg)
 
 ###### Questions

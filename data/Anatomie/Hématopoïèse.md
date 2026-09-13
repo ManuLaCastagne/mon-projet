@@ -5,5 +5,5 @@ culture_g_justification: "Processus biologique significatif, mais terme spécial
 
 ###### Questions 
 
-[[Processus]] physiologique depuis la moelle osseuse qui assure l'approvisionnement en cellules sanguines ?
+[[Processus]] physiologique depuis la moelle osseuse qui assure l'approvisionnement en cellules sanguines ? <!-- score: 7 -->
 

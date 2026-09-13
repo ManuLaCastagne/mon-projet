@@ -17,8 +17,9 @@ indice_5 :
   - Ron Howard
 indice_6 : 
   - transformation émotionnelle
+culture_g_score: 76
+culture_g_justification: "Personnage et films très connus, offrant des liens avec le cinéma, l’animation, la littérature jeunesse et Noël."
 ---
-
 ![Image de Le Grinch]()
 
 ###### Questions

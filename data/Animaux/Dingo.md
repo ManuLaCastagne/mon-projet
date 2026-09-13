@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la faune australienne
 questions:
  - Des troupeaux de moutons dans le sud-est de l'Australie par une clôture de plus de 5 000 km de long...
+culture_g_score: 64
+culture_g_justification: "Le dingo est un animal australien connu, utile pour des questions sur la faune, l'écologie et l'affaire du bébé de l'Uluru."
 ---
-
 ![Image de Dingo](https://upload.wikimedia.org/wikipedia/commons/f/f7/Dingo_of_Fraser_Island.jpg)
 
 ###### Questions

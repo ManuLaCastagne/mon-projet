@@ -22,8 +22,9 @@ indice_6:
   - filmée par Terrence Malick
 questions:
   - Que l'on retrouve dans "Miss Sloane" et "Le Grand Jeu", je suis à l'affiche de "X-Men  Dark Phoenix"... Qui joue dans le film, je pense, d'ailleurs. En 2009, je suis…
+culture_g_score: 60
+culture_g_justification: "Actrice reconnue et récompensée, Jessica Chastain est une référence de cinéma moderne assez présente dans les quiz, sans être incontournable."
 ---
-
 ![Image de Jessica Chastain](https://upload.wikimedia.org/wikipedia/commons/a/a5/SDCC_2015_-_Jessica_Chastain_%2819111308673%29_%28cropped%29.jpg)
 
 ###### Questions

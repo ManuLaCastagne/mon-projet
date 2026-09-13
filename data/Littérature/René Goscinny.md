@@ -22,8 +22,9 @@ indice_6 :
   - Jean-Jacques Sempé
 questions:
  - Cofondateur du magazine "Pilote" en 1959, je me suis surtout distingué en tant que scénariste pour de nombreuses aventures de "Lucky Luke" ou d'"Iznogoud" et en tant...
+culture_g_score: 100
+culture_g_justification: "Figure centrale de la bande dessinée franco-belge, créateur ou scénariste d’Astérix, Lucky Luke et Iznogoud, omniprésent dans les quiz."
 ---
-
 ![Image de René Goscinny](https://upload.wikimedia.org/wikipedia/commons/b/b2/Identite-ReneGoscinny-1969-Sacem.jpg)
 
 ###### Questions

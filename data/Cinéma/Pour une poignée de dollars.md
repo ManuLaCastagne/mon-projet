@@ -20,8 +20,9 @@ indice_5 :
   - poncho iconique
 indice_6 : 
   - première trilogie du dollar
+culture_g_score: 80
+culture_g_justification: "Western fondateur de Sergio Leone, utile pour Clint Eastwood, Morricone, Kurosawa, le western spaghetti et l'histoire du cinéma."
 ---
-
 ![Image de Pour une poignée de dollars](https://upload.wikimedia.org/wikipedia/commons/4/48/Grand%E2%80%99Halte_-_Une_femme_nue_%C3%A0_la_caserne%2C_1921.djvu)
 
 ###### Questions

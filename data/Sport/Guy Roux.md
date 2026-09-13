@@ -20,8 +20,9 @@ indice_6 :
   - Longévité
 questions:
  - Quelle grande figure du football, née en 1938, a entraîné l'AJ Auxerre...
+culture_g_score: 80
+culture_g_justification: "Entraîneur emblématique du football français, très rentable via Auxerre, sa longévité, ses joueurs révélés et ses titres nationaux."
 ---
-
 ![Image de Guy Roux](https://upload.wikimedia.org/wikipedia/commons/3/37/Guy_Roux%2C_mai_2014%2C_Rennes%2C_France-1.jpg)
 
 ###### Questions

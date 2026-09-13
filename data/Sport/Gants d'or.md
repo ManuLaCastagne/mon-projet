@@ -20,8 +20,9 @@ indice_6 :
   - Lev Yachine
 questions:
  - Quelle cérémonie, récompensant le meilleur boxeur français de l'année, a été organisée dès 87...
+culture_g_score: 52
+culture_g_justification: "Le Gant d'or de baseball est un trophée classique pour les amateurs de sport américain, mais il offre peu d'angles généralistes hors de la MLB."
 ---
-
 ![Image de Gants d'or](https://upload.wikimedia.org/wikipedia/commons/0/0f/Golden_Glove.png)
 
 ###### Questions

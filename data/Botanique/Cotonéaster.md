@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé en haies ornementales
 questions:
  - Quel arbuste aux pores étalés ou rampant est utilisé pour former des haies ou comme couvre-serre ?
+culture_g_score: 27
+culture_g_justification: "Arbuste décoratif courant en horticulture, mais rarement considéré comme une connaissance prioritaire de culture générale."
 ---
-
 ![Image de Cotonéaster](https://upload.wikimedia.org/wikipedia/commons/e/ec/Vruchten_van_een_dwergmispel_%28Cotoneaster%29%2C_16-01-2025._%28d.j.b.%29.jpg)
 
 ###### Questions

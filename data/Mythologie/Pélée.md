@@ -18,8 +18,9 @@ indice_6 :
   - Thétis
 questions:
  - Lors de son mariage avec Thétis, à quel roi Poséidon offre-t-il 2 chevaux immortels, nommés Balios et Xanthos?
+culture_g_score: 64
+culture_g_justification: "Père d’Achille et participant à l’expédition des Argonautes, Pélée est significatif mais moins fréquent et moins transversal que son fils."
 ---
-
 ![Image de Pélée](https://upload.wikimedia.org/wikipedia/commons/5/54/Wedding_of_Thetis_et_Pel%C3%A9e_1689_Illustration.jpg)
 
 ###### Questions

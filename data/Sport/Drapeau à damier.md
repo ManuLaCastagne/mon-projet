@@ -20,9 +20,9 @@ indice_6 :
   - Compétition
 questions:
  - Objet visible pour la 1re fois sur une photo publiée le 14 octobre 1906 par le "New York Times", je fus imaginé afin de pouvoir communiquer avec les participants d'une compétition sportive. Egalement utilisé lors des séances d'essais libres et de qualification, je suis...
+culture_g_score: 60
+culture_g_justification: "Symbole immédiatement associé aux courses automobiles, utile dans plusieurs questions de sport mais limité à cet univers."
 ---
-
-
 ![Image de Drapeau à damier](https://upload.wikimedia.org/wikipedia/commons/2/29/Drapeau_%C3%A0_damier_-_Dreux_2022.jpg)
 
 ###### Questions

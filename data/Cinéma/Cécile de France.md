@@ -22,8 +22,9 @@ indice_6 :
   - « Mademoiselle de Joncquières »
 questions:
  - Quelle actrice, originaire de la province de Namur, a reçu en 2003 le César du meilleur espoir féminin pour son rôle dans "L'auberge espagnole"?
+culture_g_score: 64
+culture_g_justification: "Actrice belge connue du public francophone et liée à plusieurs films populaires, mais dont la portée culturelle reste surtout cinématographique."
 ---
-
 ![Image de Cécile de France](https://upload.wikimedia.org/wikipedia/commons/3/33/Nave_of_the_Ste_C%C3%A9cile_Cathedral_-_2014-02-22.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - réalisme social
 questions:
  - De quelle série américaine lancée dans les années 2000 et centrée sur la ville de Baltimore et sa criminalité...
+culture_g_score: 83
+culture_g_justification: "Série majeure de HBO, souvent citée parmi les meilleures de l’histoire et riche en angles politiques, sociaux, urbains et cinématographiques."
 ---
-
 ![Image de The Wire](https://upload.wikimedia.org/wikipedia/commons/e/e0/Birds_on_the_wire_-_crop.jpg)
 
 ###### Questions

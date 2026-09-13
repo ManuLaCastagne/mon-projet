@@ -24,8 +24,9 @@ indice_6 :
   - delta du Danube
 questions:
  - Pays de 237 500 km2 abritant les sources des rivières Somes et Mures, mon drapeau est proche de ceux d'Andorre et du Tchad. Dominé par les monts de Fagaras qui culminent à 2543 m d'altitude, j'ai notamment des frontières communes avec la Serbie et la Moldavie et suis bordé au sud-est par la mer Noire. Etat...
+culture_g_score: 80
+culture_g_justification: "Pays européen régulièrement interrogé pour Dracula, les Carpates, le Danube, l’histoire communiste et sa géographie régionale."
 ---
-
 ![Image de Roumanie](https://upload.wikimedia.org/wikipedia/commons/a/a8/Apuseni._%2841412826664%29.jpg)
 
 ![[Carte_Roumanie.png]]

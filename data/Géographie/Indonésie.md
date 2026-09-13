@@ -21,8 +21,9 @@ indice_5 :
   - Jakarta
 indice_6 : 
   - Lombok
+culture_g_score: 80
+culture_g_justification: "Grand archipel asiatique riche en repères géographiques, historiques, volcaniques, culturels et liés au tsunami de 2004."
 ---
-
 ![[Carte_Indonésie.png]]
 
 ###### Questions

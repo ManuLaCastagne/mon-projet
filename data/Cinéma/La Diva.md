@@ -22,8 +22,9 @@ indice_6 :
   - film
 questions:
  - Chinoise. 1er film de Jean-Jacques Beineix avec Frédéric Andréi et Richard Boehringer...
+culture_g_score: 60
+culture_g_justification: "Film fondateur du cinéma du look et classique de Beineix, utile pour la musique et le cinéma français des années 1980, sans être omniprésent."
 ---
-
 ![Image de Diva](https://upload.wikimedia.org/wikipedia/commons/2/2e/Castillo_de_Sagunto%2C_Valencia%2C_Espa%C3%B1a%2C_2015-01-03%2C_DD_09-11_HDR.JPG)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Guillaume et les garçons
 questions:
  - En 2013, quel sociétaire de la Comédie-Française se met en scène dans l'adaptation...
+culture_g_score: 60
+culture_g_justification: "Acteur et réalisateur français lié à un film césarisé et autobiographique, avec une présence correcte mais non centrale dans les quiz."
 ---
-
 ![Image de Guillaume Galienne](https://upload.wikimedia.org/wikipedia/commons/9/9d/Les_%C3%89pop%C3%A9es_fran%C3%A7aises_-_%C3%A9tude_sur_les_origines_et_l%27histoire_de_la_litt%C3%A9rature_nationale_%28IA_aeh3773.0004.001.umich.edu%29.pdf)
 
 ###### Questions

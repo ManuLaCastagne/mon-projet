@@ -20,8 +20,9 @@ indice_6 :
   - Mort à Wetzlar
 questions:
  - En 1794, quel général ayant commandé l'armée de Moselle a été chargé par la Convention thermidorienne de la pacification des régions de l'Ouest?
+culture_g_score: 51
+culture_g_justification: "Général révolutionnaire important en Vendée et à Quiberon, mais nettement moins présent dans les quiz généralistes que les grandes figures napoléoniennes."
 ---
-
 ![Image de Général Hoche](https://upload.wikimedia.org/wikipedia/commons/4/4d/Hoche_Lazare%2C_g%C3%A9n%C3%A9ral%2C_par_Le_Dru_et_Coqueret_BNF_Gallica.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - frontière avec l'Italie
 questions:
  - Quelle est cette vallée, la plus méridionale de Savoie, traversant les Alpes sur 120 km entre Aiton et Bonneval-sur-Arc quei est au pied du col de l'Iseran?
+culture_g_score: 40
+culture_g_justification: "Vallée alpine française liée à la Savoie, à Napoléon et aux sports d’hiver, mais de portée quiz limitée."
 ---
-
 ![Image de Vallée de Maurienne](https://upload.wikimedia.org/wikipedia/commons/9/90/Vall%C3%A9e_de_la_Maurienne_depuis_l%27Arm%C3%A9laz.JPG)
 
 ![[Carte_Vallée de Maurienne.png]]

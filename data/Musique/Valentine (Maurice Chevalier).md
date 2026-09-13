@@ -22,8 +22,9 @@ indice_6 :
   - accent parisien
 questions:
  - Dans quelle chanson Maurice Chevalier évoque-t-il les tout petits petons…
+culture_g_score: 48
+culture_g_justification: "Chanson classique du répertoire de Maurice Chevalier, utile pour la chanson française ancienne mais peu fréquemment interrogée."
 ---
-
 ![Image de Valentine (Maurice Chevalier)](https://upload.wikimedia.org/wikipedia/commons/9/96/Prang%27s_Valentine_Cards2.jpg)
 
 ###### Questions

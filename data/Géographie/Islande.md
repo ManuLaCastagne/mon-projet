@@ -25,9 +25,9 @@ indice_6 :
 questions:
  - C'est le canyon de Studlagil aux colonnes de basalte multicolores.  Dans quel Etat insulaire d'Europe, dans l'Atlantique Nord, ce canyon est-il situé?
  - De quel Etat insulaire d'Europe du Nord proviennent les pulls en laine lopapeysa, au motif circulaire jacquard placé à l'encolure?
+culture_g_score: 80
+culture_g_justification: "Pays nordique très identifiable grâce aux volcans, glaciers, particularités politiques et paysages, avec une présence régulière dans les quiz."
 ---
-
-
 ![Image de Islande](https://upload.wikimedia.org/wikipedia/commons/9/99/039_Northern_lights_over_M%C3%BDvatn_%28Iceland%29_Photo_by_Giles_Laurent.jpg)
 
 ![[Carte_Islande.png]]

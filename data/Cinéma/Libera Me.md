@@ -22,8 +22,9 @@ indice_6 :
   - chant religieux
 questions:
  - En 1993, quel drame d'Alain Cavalier a pour titre 2 mots extraits d'un chant grégorien interprété durant l'office des morts?
+culture_g_score: 23
+culture_g_justification: "Titre musical ou filmique ambigu mais peu connu, donnant rarement lieu à des questions de culture générale généraliste."
 ---
-
 ![Image de Libera Me](https://upload.wikimedia.org/wikipedia/commons/d/d2/De_ore_leonis_libera_me%2C_Domine_Et_a_cornibus_unicornium_humilitatem_meam_%284289614654%29.jpg)
 
 ###### Questions

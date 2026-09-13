@@ -15,8 +15,9 @@ indice_6:
   - Fabrication de papier, mobilier, construction
 questions:
   - Plante de la famille des graminées comptant plus de 1 000 espèces. On me trouve principalement en Asie et en Amérique. Mesurant jusqu'à 45m de haut. Ma tige creuse est légère et élastique.
+culture_g_score: 72
+culture_g_justification: "Plante emblématique associée à l’Asie, aux pandas, à la construction, à l’écologie et à la croissance rapide, donc très rentable."
 ---
-
 ![Image de Bambou](https://upload.wikimedia.org/wikipedia/commons/f/fe/Bambou_de_chine_3.jpg)
 
 ###### Questions

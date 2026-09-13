@@ -22,8 +22,9 @@ indice_6 :
   - Chanson française
 questions:
  - Tube dont la mélodie s'inspire de "Passenger" d'Iggy Pop, transposé en reggae, je dresse un bilan de la condition féminine dans les années 80. Tube de Cookie Dingler dont le refrain débute par...
+culture_g_score: 73
+culture_g_justification: "Tube francophone incontournable des années 1980, fréquemment interrogé par son interprète, son auteur et son thème social."
 ---
-
 ![Image de Femme libérée](https://upload.wikimedia.org/wikipedia/commons/c/c9/Identite-CookieDingler-1985-Sacem.png)
 
 ###### Questions

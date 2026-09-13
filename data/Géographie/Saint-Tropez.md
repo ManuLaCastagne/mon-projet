@@ -25,8 +25,9 @@ indice_6:
 questions:
   - Je sers de port d'escale à des yachts luxueux et accueille des parties de pétanque sur ma place des Lys.
   - 1964, quelle station balnéaire de la côte varoise est le décor des films de Louis de Funès ?
+culture_g_score: 73
+culture_g_justification: "Station balnéaire emblématique fréquemment associée au cinéma français, à Brigitte Bardot et au tourisme de luxe."
 ---
-
 ![Image de Saint-Tropez](https://upload.wikimedia.org/wikipedia/commons/d/da/Bell_tower_of_the_church_Our_Lady_of_the_Assumption_in_Saint-Tropez%2C_France_%2852723273607%29.jpg)
 ###### Questions
 

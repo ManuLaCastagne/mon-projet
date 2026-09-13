@@ -24,8 +24,9 @@ indice_6 :
   - centre d'affaires et politique
 questions:
  - En 1982, quelle ville est devenue la capitale du Nigéria à la suite de Lagos?
+culture_g_score: 64
+culture_g_justification: "Capitale du Nigeria régulièrement questionnée dans les thèmes des capitales, de l'Afrique et de la politique contemporaine."
 ---
-
 ![Image de Abuja](https://upload.wikimedia.org/wikipedia/commons/d/d5/Abuja_city_gate.jpg)
 
 ![[Carte_Abuja.png]]

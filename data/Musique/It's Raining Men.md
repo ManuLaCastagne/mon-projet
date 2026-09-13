@@ -22,8 +22,9 @@ indice_6 :
   - Reprise par Geri Halliwell
 questions:
  - Ponctuée par les mots "Hallelujah", j'ai été reprise en 2001, avec des paroles légèrement différentes, par Geri Halliwell, qui m'interprète pour la bande originale du film "Le Journal de Bridget Jones". Chanson dont le titre signifie "il pleut des hommes"...
+culture_g_score: 64
+culture_g_justification: "Tube disco très connu et repris, avec des liens à la culture LGBTQ+ et à la musique populaire, sans être un marronnier majeur."
 ---
-
 ![Image de It's Raining Men](https://upload.wikimedia.org/wikipedia/commons/2/28/It%27s_raining_men..._%287163019581%29.jpg)
 
 ###### Questions

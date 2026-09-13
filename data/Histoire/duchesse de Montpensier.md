@@ -18,8 +18,9 @@ indice_5 :
   - fille de Gaston d’Orléans
 indice_6 : 
   - projet de mariage avec Louis XIV
+culture_g_score: 60
+culture_g_justification: "Grande aristocrate de la Fronde et mémorialiste, intéressante pour l’histoire politique et sociale du XVIIe siècle mais peu incontournable."
 ---
-
 ![Image de duchesse de Montpensier](https://upload.wikimedia.org/wikipedia/commons/a/ad/S._A._R._Madame_la_duchesse_de_Montpensier.png)
 
 ###### Questions

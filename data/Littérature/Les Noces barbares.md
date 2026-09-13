@@ -22,8 +22,9 @@ indice_6 :
   - enfance difficile
 questions:
  - Mettant en scène Nicole, une femme hantée par ses amours brisées, j'ai pour héros Ludovic, l'enfant de cette dernière, qui s'échappe de l'institution où il a été placé, pour trouver refuge dans un vieux navire échoué. Roman de Yann Queffélec récompensé par...
+culture_g_score: 40
+culture_g_justification: "Prix Goncourt identifiable, mais titre et auteur demeurent périphériques dans les quiz généralistes."
 ---
-
 ![Image de Les Noces barbares](https://upload.wikimedia.org/wikipedia/commons/9/96/Carducci_-_Odes_barbares_%281888%29.djvu)
 
 ###### Questions

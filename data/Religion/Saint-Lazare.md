@@ -20,8 +20,9 @@ indice_6 :
   - Ramasside des Lazariens
 questions:
  - Selon l'Évangile selon Saint-Jean, quel frère de Marthe et Marie de Béthanie Jésus ressuscite-t-il en s'écriant  "Viens dehors!" ?
+culture_g_score: 64
+culture_g_justification: "Figure biblique connue et associée à un haut lieu parisien, mais offrant moins d’angles indépendants que les grands personnages chrétiens."
 ---
-
 ![Image de Saint-Lazare](https://upload.wikimedia.org/wikipedia/commons/e/ec/Gare_de_Paris-Saint-Lazare_001.jpg)
 
 ###### Questions

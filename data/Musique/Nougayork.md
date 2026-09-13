@@ -22,9 +22,9 @@ indice_6 :
   - album emblématique
 questions:
  - J'évoque les sensations fortes ressenties en arrivant dans une ville et commence par les mots   "Dès l'aérogare, j'ai senti le choc, un souffle..."
+culture_g_score: 44
+culture_g_justification: "Chanson marquante de Claude Nougaro dans le contexte francophone, mais qui donne surtout quelques questions biographiques et discographiques."
 ---
-
-
 ![Image de Nougayork]()
 
 ###### Questions

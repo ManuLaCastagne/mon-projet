@@ -24,8 +24,9 @@ indice_6 :
 questions:
  - A quel peintre suisse, disparu en 1940, ayant enseigné au Bauhaus, doit-on la formule   "L'art ne reproduit pas le visible, il rend visible" ?
  - Quel peintre né près de Berne, auteur dès 1923 de la série des "carrés magiques" ?
+culture_g_score: 72
+culture_g_justification: "Klee est une figure majeure de l'art moderne et du Bauhaus, avec des liens utiles entre peinture, musique, abstraction et enseignement."
 ---
-
 ![Image de Paul Klee](https://upload.wikimedia.org/wikipedia/commons/a/aa/Paul_Klee_~_Angelus_Novus_~_1920.jpg)
 
 ###### Questions

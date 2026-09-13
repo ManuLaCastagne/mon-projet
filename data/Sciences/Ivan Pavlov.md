@@ -20,8 +20,9 @@ indice_6 :
   - Psychologie expérimentale
 questions:
  - Au début du XXe siècle, à la suite de travaux effectués sur des animaux, quel scientifique russe...
+culture_g_score: 80
+culture_g_justification: "Pavlov revient fréquemment grâce au Nobel, aux expériences sur les chiens et au concept transversal de conditionnement classique."
 ---
-
 ![Image de Ivan Pavlov](https://upload.wikimedia.org/wikipedia/commons/7/7d/Ivan_Pavlov_NLM3.jpg)
 
 ###### Questions

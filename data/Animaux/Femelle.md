@@ -15,8 +15,9 @@ indice_6 :
   - Compagne fidèle dans la culture populaire
 questions:
  - Des couleurs ternes chez le faisan, je suis souvent de taille plus petite. Catégorie d'animaux de sexe différent du mâle...
+culture_g_score: 8
+culture_g_justification: "La femelle du manchot empereur n'est pas une référence autonome de culture générale et ne permet que quelques questions biologiques très précises."
 ---
-
 ![Image de Femelle](https://upload.wikimedia.org/wikipedia/commons/9/93/Fauvette_de_l%27Atlas_Femelle_Jebil_NP.jpg)
 
 ###### Questions

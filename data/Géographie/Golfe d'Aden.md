@@ -24,8 +24,9 @@ indice_6 :
   - détroit de Bab-el-Mandeb
 questions:
  - Quel golfe de l'océan Indien se trouve entre la côte méridionale de l'Arabie et la péninsule africaine des Somalis?
+culture_g_score: 80
+culture_g_justification: "Zone maritime stratégique fréquemment liée au commerce mondial, à la piraterie, au Yémen, à la Somalie et aux tensions internationales."
 ---
-
 ![Image de Golfe d'Aden](https://upload.wikimedia.org/wikipedia/commons/b/be/Gulf_of_Aden_map_kk.png)
 
 ![[Carte_Golfe d'Aden.png]]

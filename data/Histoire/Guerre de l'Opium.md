@@ -20,8 +20,9 @@ indice_6 :
   - traité de Nankin
 questions:
  - Des marchands britanniques de Canton (Chine) qui voient leur stock de drogue détruit, j'ai vu la défaite de la Chine... La cession de Hong Kong à la Grande-Bretagne, je suis…
+culture_g_score: 80
+culture_g_justification: "Sujet classique de l'histoire de la Chine et de l'impérialisme, associé à Hong Kong, aux traités inégaux et à l'ouverture forcée des ports."
 ---
-
 ![Image de Guerre de l'Opium](https://upload.wikimedia.org/wikipedia/commons/b/b8/068_Les_factoreries_de_Canton_pendant_la_guerre_de_l%27opium.jpg)
 
 ###### Questions

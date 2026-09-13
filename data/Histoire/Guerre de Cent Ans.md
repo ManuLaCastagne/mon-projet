@@ -20,8 +20,9 @@ indice_6 :
   - traités de paix et batailles
 questions:
  - Série de conflits débutant par la destruction de la flotte française dans le port de L'Ecluse. Je fus motivée...
+culture_g_score: 97
+culture_g_justification: "Conflit incontournable de l'histoire européenne, lié à Jeanne d'Arc, Azincourt, aux monarchies française et anglaise et à plusieurs batailles célèbres."
 ---
-
 ![Image de Guerre de Cent Ans](https://upload.wikimedia.org/wikipedia/commons/8/81/Guerre_de_cent_ans_%281435%29.svg)
 
 ###### Questions

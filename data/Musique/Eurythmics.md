@@ -20,8 +20,9 @@ indice_5:
   - duo britannique
 indice_6:
   - années 1980
+culture_g_score: 80
+culture_g_justification: "Groupe emblématique de la new wave, fréquemment relié à « Sweet Dreams », à Annie Lennox et à la musique britannique des années 1980."
 ---
-
 ![Image de Eurythmics](https://upload.wikimedia.org/wikipedia/commons/4/4b/Eurythmics_1985.jpg)
 
 ###### Questions

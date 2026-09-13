@@ -23,8 +23,9 @@ indice_6 :
   - triptyque
 questions:
  - Avec la sculpture d'un moine embrassant une croix et sur lequel est allongée une femme nue, j'ai donné son titre à une oeuvre de Gustave Flaubert. Peint par Jérôme Bosch et Brueghel...
+culture_g_score: 71
+culture_g_justification: "La Tentation de Saint-Antoine est un thème transversal de peinture, littérature et iconographie religieuse, mais moins immédiatement associé à une œuvre unique."
 ---
-
 ![Image de Tentation de Saint-Antoine](https://upload.wikimedia.org/wikipedia/commons/a/a0/F%C3%A9licien_Rops_-_La_tentation_de_Saint_Antoine.jpg)
 
 ###### Questions

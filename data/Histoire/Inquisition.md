@@ -20,8 +20,9 @@ indice_6 :
   - Galileo Galilei
 questions:
  - Quelle juridiction d'exception  instituée en 1231 est chargée de la répression de l'hérésie...
+culture_g_score: 92
+culture_g_justification: "Notion historique majeure permettant des questions sur l’Église, l’hérésie, l’Espagne, la Réforme, la justice et les représentations de la violence religieuse."
 ---
-
 ![Image de Inquisition](https://upload.wikimedia.org/wikipedia/commons/0/08/AUTODAF%C3%89_A_VALENCE_%28Juillet_1826%29.jpg)
 
 ###### Questions

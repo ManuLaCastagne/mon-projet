@@ -24,9 +24,9 @@ indice_6 :
   - Saint Mont
 questions:
  - Quelle rivière née au plateau de Lannemezan, affluent de la Garonne arrose Auch et Lectoure ?
+culture_g_score: 43
+culture_g_justification: "Département surtout mobilisé pour l’Armagnac, la Gascogne et quelques villages patrimoniaux, avec une portée générale limitée."
 ---
-
-
 ![Image de Gers](https://upload.wikimedia.org/wikipedia/commons/a/ae/Gers_l%C3%A9gislatives_1981.svg)
 
 ![[Carte_Gers.png]]

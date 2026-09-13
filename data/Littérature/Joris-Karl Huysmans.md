@@ -22,8 +22,9 @@ indice_6 :
   - naissance à Paris en 1848
 questions:
  - En 1884, qui publie "À rebours" dont le héros est le duc des Esseintes ?
+culture_g_score: 68
+culture_g_justification: "Auteur classique associé au naturalisme, à la décadence et à À rebours, assez rentable pour les questions de littérature française."
 ---
-
 ![Image de Joris-Karl Huysmans](https://upload.wikimedia.org/wikipedia/commons/8/8c/Joris-Karl_Huysmans_in_June_1895_Edition_of_The_Bookman.jpg)
 
 ###### Questions

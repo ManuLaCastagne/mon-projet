@@ -20,11 +20,9 @@ indice_5:
   - Domicile conjugal
 indice_6:
   - L'Amour en fuite
+culture_g_score: 47
+culture_g_justification: "Actrice durablement associée à la saga Antoine Doinel de Truffaut, mais peu fréquemment interrogée en dehors de ce contexte."
 ---
-
-
-
-
 ![Image de Claude Jade](https://upload.wikimedia.org/wikipedia/commons/3/3a/Claude_Jade.jpg)
 
 ###### Questions

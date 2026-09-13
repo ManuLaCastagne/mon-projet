@@ -20,8 +20,9 @@ indice_6 :
   - succession après Néron
 questions:
  - La révolte gauloise. Reconstruisant le Capitole et débutant la construction du Colisée, je restaure l'ordre et instaure des taxes, comme celle sur l'usage des latrines publiques…
+culture_g_score: 64
+culture_g_justification: "Empereur romain associé au Colisée et à la dynastie flavienne, important mais moins transversal que les grandes figures impériales."
 ---
-
 ![Image de Vespasien](https://upload.wikimedia.org/wikipedia/commons/d/d6/Emperor_Vespasian_Cured_by_Veronica%27s_Veil_MET_DP-14326-001.jpg)
 
 ###### Questions

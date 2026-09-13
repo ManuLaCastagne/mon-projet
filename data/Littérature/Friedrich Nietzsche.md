@@ -22,8 +22,9 @@ indice_6 :
   - Surhomme
 questions:
  - Quel philosophe allemand du XIXe siècle, auteur du "Gai savoir"...
+culture_g_score: 100
+culture_g_justification: "Philosophe incontournable, associé à Dieu est mort, au surhomme, au nihilisme et à une influence considérable sur la pensée moderne."
 ---
-
 ![Image de Friedrich Nietzsche](https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg)
 
 ###### Questions

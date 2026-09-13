@@ -23,8 +23,9 @@ indice_6 :
   - mise en scène créative
 questions:
  - Je réponds au besoin de réaliser le portrait d'un individu ou d'une famille ou d'effectuer des prises de vue, en intérieur, pour la mode...
+culture_g_score: 32
+culture_g_justification: "Le studio photographique est un lieu générique plutôt qu’une référence culturelle précise, avec peu de questions généralistes centrées sur lui."
 ---
-
 ![Image de Studio photographique](https://upload.wikimedia.org/wikipedia/commons/3/3d/Int%C3%A9rieur_du_studio_photographique_de_Louis_Fattal.jpg)
 
 ###### Questions

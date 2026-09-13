@@ -21,9 +21,9 @@ indice_6:
   - trio féminin
 questions:
   - Sous quel nom connaît-on les soeurs issues des Côtes-d'Armor et qui, dès les années 50 ont mis les chansons bretonnes à l'honneur ?
+culture_g_score: 40
+culture_g_justification: "Groupe important pour la musique bretonne, mais peu rentable hors des questions sur la culture régionale."
 ---
-
-
 ![Image de Sœurs Goadec](https://upload.wikimedia.org/wikipedia/commons/8/8e/Goadeg.JPG)
 
 ###### Questions

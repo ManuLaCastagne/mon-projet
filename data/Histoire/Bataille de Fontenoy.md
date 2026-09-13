@@ -21,8 +21,9 @@ indice_6:
 questions:
   - Lors de quelle célèbre bataille de la Guerre de la Succession d'Autriche, s'étant disputée le 11 mai 1745, les mousquetaires se sont-ils illustrés ?
   - Le 11 mai 1745, lors de quelle bataille un officier français aurait-il lancé cette phrase  "Messieurs les Anglais, tirez les premiers!"?
+culture_g_score: 52
+culture_g_justification: "Victoire française de la guerre de Succession d’Autriche, surtout retenue pour la phrase légendaire sur les Anglais."
 ---
-
 ![Image de Bataille de Fontenoy](https://upload.wikimedia.org/wikipedia/commons/9/96/Bataille_de_fontenoy_03266_Po%C3%ABme.jpg)
 
 ###### Questions

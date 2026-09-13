@@ -22,8 +22,9 @@ indice_6 :
   - Femme de Gaston Defferre
 questions:
  - Quelle femme de lettres et ancienne résistante est l'auteure du roman "Oublier Palerme", pour lequel elle a reçu le prix Goncourt en 1966?
+culture_g_score: 51
+culture_g_justification: "Écrivaine, résistante et lauréate du Goncourt, intéressante pour plusieurs repères français mais rarement prioritaire."
 ---
-
 ![Image de Edmonde Charles-Roux](https://upload.wikimedia.org/wikipedia/commons/1/1f/Edmonde_Charles-Roux%2C_pr%C3%A9sidente_de_l%27Acad%C3%A9mie_Goncourt.jpg)
 
 ###### Questions

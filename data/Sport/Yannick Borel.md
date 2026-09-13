@@ -19,8 +19,9 @@ indice_5 :
   - France
 indice_6 : 
   - Médaille d'or
+culture_g_score: 40
+culture_g_justification: "Médaillé olympique et champion du monde d’épée, mais personnalité sportive relativement spécialisée."
 ---
-
 ![Image de Yannick Borel](https://upload.wikimedia.org/wikipedia/commons/7/7b/Yannick_Borel_Trophee_Monal_2012.jpg)
 
 ###### Questions

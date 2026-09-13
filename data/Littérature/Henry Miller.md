@@ -22,8 +22,9 @@ indice_6 :
   - Écrivain américain
 questions:
  - En 1934, quel écrivain américain âgé de 43 ans fait scandale avec son 1er roman "Tropique du Cancer"?
+culture_g_score: 60
+culture_g_justification: "Auteur marquant de la littérature américaine du XXe siècle, utile pour la censure, l'autobiographie et la Beat Generation, sans être incontournable."
 ---
-
 ![Image de Henry Miller](https://upload.wikimedia.org/wikipedia/commons/0/0f/Henry_Miller_1940.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6:
   - actrice française
 questions:
   - Partenaire de Cécile de France dans "Mademoiselle de Jonquières" et de Virginie Efira dans "Reine Victoria" et "Sybil", je joue ma fantaisie comique dans "Antoinette dans les Cévennes". Devenue populaire en incarnant...
+culture_g_score: 56
+culture_g_justification: "Actrice française contemporaine identifiable par Dix pour cent et son César, mais encore moins incontournable dans la culture générale globale."
 ---
-
 ![Image de Laure Calamy](https://upload.wikimedia.org/wikipedia/commons/6/69/Laure_Calamy_D%C3%A9jeuner_C%C3%A9sar_2018.jpg)
 
 ###### Questions

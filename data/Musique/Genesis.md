@@ -22,8 +22,9 @@ indice_6 :
   - Mike Rutherford
 questions:
  - En 1974, à quel groupe britannique doit-on le double disque "The lamb lies down on Broadway", sorti peu avant le départ de Peter Gabriel?
+culture_g_score: 83
+culture_g_justification: "Groupe majeur du rock progressif et populaire, exploitable par Peter Gabriel, Phil Collins, les albums et de nombreux tubes."
 ---
-
 ![Image de Genesis](https://upload.wikimedia.org/wikipedia/commons/e/e4/2180_-_Pittsburgh_-_Mellon_Arena_-_Genesis_-_The_Carpet_Crawlers.JPG)
 
 ###### Questions

@@ -4,6 +4,8 @@ tags:
   - XVIIIe
   - France
 date: 1795
+culture_g_score: 88
+culture_g_justification: "Coordonnée géographique fondamentale, liée à la cartographie, la navigation, l’histoire des explorations et au méridien de référence."
 ---
 ###### Questions 
 

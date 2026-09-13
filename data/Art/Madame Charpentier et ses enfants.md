@@ -21,8 +21,9 @@ indice_5 :
   - Collection du Metropolitan Museum of Art
 indice_6 : 
   - Costume bourgeois
+culture_g_score: 48
+culture_g_justification: "Portrait notable de Renoir, mais son identification précise apporte peu de réponses au-delà de l’impressionnisme et du portrait mondain."
 ---
-
 ![Image de Madame Charpentier et ses enfants](https://upload.wikimedia.org/wikipedia/commons/d/d2/Renoir_-_Madame_Georges_Charpentier_et_ses_enfants.jpg)
 
 ###### Questions

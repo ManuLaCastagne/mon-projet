@@ -20,6 +20,8 @@ indice_5:
   - passeport
 indice_6:
   - bagages
+culture_g_score: 40
+culture_g_justification: "Classique de la chanson française surtout utile pour une question sur Mireille, Jean Nohain ou sa reprise par Hardy et Dutronc."
 ---
 ![[Pasted image 20250505192929.png]]
 ###### Questions

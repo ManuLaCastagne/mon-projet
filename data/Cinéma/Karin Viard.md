@@ -20,6 +20,7 @@ indice_5:
 indice_6:
   - actrice française populaire
 culture_g_score: 64
+culture_g_justification: "Karin Viard est une actrice française reconnue et récompensée, mais ses références restent moins universelles que celles des grandes stars."
 ---
 ![Image de Karin Viard](https://upload.wikimedia.org/wikipedia/commons/6/6e/Karin_Viard_Lumi%C3%A8res_2015.jpg)
 ###### Questions

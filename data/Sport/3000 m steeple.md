@@ -20,9 +20,9 @@ indice_6 :
   - Distance
 questions:
  - Dans quelle course d'obstacles de demi-fond doit-on franchir 28 fois une haie et 7 fois la rivière ?
+culture_g_score: 68
+culture_g_justification: "Épreuve olympique spectaculaire et identifiable, mais moins fréquemment interrogée que les grands sprints et courses sur piste."
 ---
-
-
 ![Image de 3000 m steeple](https://upload.wikimedia.org/wikipedia/commons/c/ce/2014_D%C3%A9caNation_-_3000_m_steeplechase_04.jpg)
 
 ###### Questions

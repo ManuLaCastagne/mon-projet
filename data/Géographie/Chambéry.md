@@ -24,8 +24,9 @@ indice_6 :
   - Point de départ pour les stations de ski environnantes
 questions:
  - Quelle ville abrite dans la Sainte chapelle du château des ducs de Savoie un carillon de 70...
+culture_g_score: 76
+culture_g_justification: "Ville historique de Savoie, régulièrement liée à la fontaine des Éléphants, au duché et au patrimoine alpin."
 ---
-
 ![Image de Chambéry](https://upload.wikimedia.org/wikipedia/commons/9/98/Chamb%C3%A9ry_depuis_les_Monts.JPG)
 
 ![[Carte_Chambéry.png]]

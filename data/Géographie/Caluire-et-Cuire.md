@@ -20,8 +20,9 @@ indice_5:
   - Saône
 indice_6:
   - Montessuy
+culture_g_score: 40
+culture_g_justification: "Commune surtout associée à l’arrestation de Jean Moulin, mais rarement interrogée au-delà de ce fait historique précis."
 ---
-
 ![[Carte_Caluire-et-Cuire.png]]
 
 ###### Questions

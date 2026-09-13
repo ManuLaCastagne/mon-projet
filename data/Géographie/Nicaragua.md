@@ -24,8 +24,9 @@ indice_6 :
   - frontière avec le Costa Rica
 questions:
  - De 1990 à 1997, de quel Etat d'Amérique centrale Violeta Barrios de Chamorro a-t-elle été présidente de la République?
+culture_g_score: 60
+culture_g_justification: "Pays classique d'Amérique centrale, utile pour ses lacs, ses volcans, son histoire politique et le canal interocéanique, sans être un marronnier majeur."
 ---
-
 ![Image de Nicaragua](https://upload.wikimedia.org/wikipedia/commons/e/e5/Nicaragua_1984_-_Managua_-_Mercado_Oriental.jpg)
 
 ![[Carte_Nicaragua.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - Expéditions sous-marines
 questions:
  - Homme célèbre auquel le compositeur Jean-Michel Jarre a rendu hommage dans un album paru en 1990, j'ai été reçu à l'Académie française en 1989. Ayant suivi des études à l'Ecole navale de Brest, j'ai notamment mis au point le scaphandre autonome avec l'ingénieur Emile Gagnan.
+culture_g_score: 84
+culture_g_justification: "Cousteau est une figure francophone incontournable des quiz sur l’océan, la plongée, le cinéma documentaire et l’écologie."
 ---
-
 ![Image de Jacques-Yves Cousteau](https://upload.wikimedia.org/wikipedia/commons/9/9e/Jacques-Yves_Cousteau.jpg)
 
 ###### Questions

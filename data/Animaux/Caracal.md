@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la vue perçante
 questions:
  - Félin d'Afrique, du Moyen-Orient et d'Asie, dont certaines sous-espèces sont dites "nubicus" et "schmitzi", je suis aussi appelé "Lynx d'Afrique".
+culture_g_score: 52
+culture_g_justification: "Félin remarquable par ses oreilles et ses techniques de chasse, mais moins fréquent que les grands félins emblématiques."
 ---
-
 ![Image de Caracal](https://upload.wikimedia.org/wikipedia/commons/5/54/Caracal_Caracal-001.jpg)
 
 ###### Questions

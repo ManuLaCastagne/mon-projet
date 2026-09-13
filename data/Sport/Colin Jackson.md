@@ -20,11 +20,9 @@ indice_6 :
   - Britannique
 questions:
  - Quel athlète britannique a été champion du monde du 110 m haies en 1993 et 1999?
+culture_g_score: 60
+culture_g_justification: "Grand spécialiste du 110 mètres haies, identifiable par ses titres mondiaux, sa médaille olympique et son ancien record du monde."
 ---
-
-
-
-
 ![Image de Colin Jackson](https://upload.wikimedia.org/wikipedia/commons/f/fe/Athletissima_2012_-_Colin_Jackson_%28cropped%29.jpg)
 
 ###### Questions

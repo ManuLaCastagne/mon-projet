@@ -20,8 +20,9 @@ indice_6 :
   - Pole position
 questions:
  - Lors d'un Grand Prix (formule 1), combien de points attribue-t-on aux pilotes effectuant le meilleur tour en course ?
+culture_g_score: 80
+culture_g_justification: "Notion centrale de la Formule 1, ouvrant sur les circuits, les pilotes, les pays hôtes, les records et l'histoire du championnat."
 ---
-
 ![Image de Grand Prix (formule 1)](https://upload.wikimedia.org/wikipedia/commons/0/0a/Eerste_trainingsdag_Grand_Prix_van_Zandvoort%2C_Formule_1_Niki_Lauda%2C_Bestanddeelnr_932-2316.jpg)
 
 ###### Questions

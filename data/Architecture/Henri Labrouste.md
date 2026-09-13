@@ -23,9 +23,9 @@ indice_6 :
   - école des Beaux-Arts
 questions:
  - Dès 1843, quel architecte, chef de l'école rationaliste, conçut la bibliothèque Sainte-Geneviève à Paris en choisissant la fonte et le fer?
+culture_g_score: 44
+culture_g_justification: "Henri Labrouste est un architecte important du XIXe siècle, mais sa notoriété et sa fréquence restent surtout celles d’un sujet spécialisé."
 ---
-
-
 ![Image de Henri Labrouste](https://upload.wikimedia.org/wikipedia/commons/4/4a/Henri_Labrouste_-_Tombe_du_baron_Andr%C3%A9_de_Rid%C3%A8le.jpg)
 
 ###### Questions

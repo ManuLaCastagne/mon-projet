@@ -23,8 +23,9 @@ indice_6 :
   - caricature de la condition humaine
 questions:
  - Vers 1500, sur quel tableau de Jérôme Bosch, dénonçant la perte des valeurs religieuses, des personnages abusent-ils de nourriture et de boisson?
+culture_g_score: 52
+culture_g_justification: "L’ouvrage de Sebastian Brant est une référence satirique de la fin du Moyen Âge, mais il reste moins fréquent que les œuvres picturales associées à Bosch."
 ---
-
 ![Image de La Nef des fous](https://upload.wikimedia.org/wikipedia/commons/4/4e/La_Nef_des_fous_-_J%C3%A9r%C3%B4me_Bosch_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2218.jpg)
 
 ###### Questions

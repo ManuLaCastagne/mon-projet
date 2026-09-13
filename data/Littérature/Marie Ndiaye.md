@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - A quelle romancière doit-on "Rosie Carpe", "La Divine", "Trois femmes puissantes" ?
  - 2016, quelle femme publie le roman  "La Cheffe, roman d'une cuisinière" ?
+culture_g_score: 64
+culture_g_justification: "Lauréate du Goncourt et figure importante de la littérature francophone contemporaine, avec des liens utiles vers le théâtre et les questions de représentation."
 ---
-
 ![Image de Marie Ndiaye](https://upload.wikimedia.org/wikipedia/commons/2/2c/Marie_NDiaye01.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5:
   - Narcisse
 indice_6:
   - Utilisée pour sa beauté ornementale et en parfumerie
+culture_g_score: 48
+culture_g_justification: "Fleur printanière familière, mais les questions précises la concernant restent relativement limitées."
 ---
-
 ![Image de Jonquille](https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Botanical_Magazine%2C_Plate_15_%28Volume_1%2C_1787%29.png)
 
 ###### Questions

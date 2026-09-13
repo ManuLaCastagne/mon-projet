@@ -18,8 +18,9 @@ indice_5 :
   - 1963
 indice_6 : 
   - thriller aviaire
+culture_g_score: 84
+culture_g_justification: "Grand classique d’Hitchcock, fréquemment interrogé par son réalisateur, Tippi Hedren, Daphne du Maurier et son intrigue fantastique."
 ---
-
 ![Image de Les Oiseaux](https://upload.wikimedia.org/wikipedia/commons/9/95/206_Pourquoi_les_oiseaux_chantent.jpg)
 
 ###### Questions

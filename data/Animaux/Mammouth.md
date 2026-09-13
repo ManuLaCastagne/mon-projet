@@ -13,8 +13,9 @@ indice_5:
   - Éléphant préhistorique
 indice_6:
   - Animal préhistorique iconique
+culture_g_score: 88
+culture_g_justification: "Animal préhistorique universellement célèbre, régulièrement associé aux glaciations, aux premiers humains, à la paléontologie et à la dé-extinction."
 ---
-
 ![Image de Mammouth](https://upload.wikimedia.org/wikipedia/commons/0/08/Mammouth_at_Museu_das_Geoci%C3%AAncias.jpg)
 
 ###### Questions

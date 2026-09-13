@@ -15,8 +15,9 @@ indice_6 :
   - Arôme pour parfums et saveurs alimentaires
 questions:
  - A La Réunion, de quelle plante, produisant une gousse aromatique, Edmond Albius est-il réussi la 1re pollinisation artificielle...
+culture_g_score: 84
+culture_g_justification: "Épice mondialement connue reliant botanique, gastronomie, économie coloniale, parfumerie et production tropicale."
 ---
-
 ![Image de Vanille](https://upload.wikimedia.org/wikipedia/commons/5/5d/Cosplayer_of_Oerba_Dia_Vanille_from_Final_Fantasy_XIII_at_Tokyo_Game_Show_20090927_2.jpg)
 
 ###### Questions

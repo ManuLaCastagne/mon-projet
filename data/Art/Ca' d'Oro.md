@@ -23,8 +23,9 @@ indice_6 :
   - ornementations dorées
 questions:
  - Quel palais vénitien de style gothique doit son nom à cause des décorations dorées qui ont orné sa façade ?
+culture_g_score: 44
+culture_g_justification: "Palais remarquable de Venise et musée d’art, mais référence géographique et architecturale assez spécialisée."
 ---
-
 ![Image de Ca' d'Oro](https://upload.wikimedia.org/wikipedia/commons/7/74/Ca%27_d%27Oro_facciata.jpg)
 
 ###### Questions

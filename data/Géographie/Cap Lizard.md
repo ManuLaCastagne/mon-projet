@@ -24,8 +24,9 @@ indice_6 :
   - randonnée côtière
 questions:
  - Quel est ce cap de la péninsule des Cornouailles donnant sur la Manche consituant le point le plus méridional de la Grande-Bretagne ?
+culture_g_score: 31
+culture_g_justification: "Cap britannique surtout utile pour une question de géographie ou de télécommunications historiques, sans forte transversalité."
 ---
-
 ![Image de Cap Lizard](https://upload.wikimedia.org/wikipedia/commons/1/15/Phare_du_cap_Lizard-1.jpg)
 
 ![[Carte_Cap Lizard.png]]

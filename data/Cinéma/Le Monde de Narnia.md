@@ -22,8 +22,9 @@ indice_6 :
   - Garde-robe
 questions:
  - En 2005, quel film produit par les studios Disney est sous-titré "Chapitre 1  Le lion, la sorcière blanche et l'armoire magique"?
+culture_g_score: 76
+culture_g_justification: "Franchise connue reliant littérature jeunesse, fantasy, mythologie chrétienne, cinéma et acteurs internationaux."
 ---
-
 ![Image de Le Monde de Narnia](https://upload.wikimedia.org/wikipedia/commons/5/51/Narnian.world.map.jpg)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7JJp9nIoSFSdPbFYx0gx2C?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ###### Questions

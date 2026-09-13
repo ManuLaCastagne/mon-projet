@@ -13,9 +13,9 @@ indice_5 :
   - Singe à face blanche
 indice_6 : 
   - Symbole de la biodiversité amazonienne
+culture_g_score: 20
+culture_g_justification: "Genre de primate amazonien très spécialisé et difficilement mobilisable hors de questions zoologiques précises."
 ---
-
-
 ![Image de Saki](https://upload.wikimedia.org/wikipedia/commons/3/3f/H%C3%A9ctor_Hugh_Munro.png)
 
 ###### Questions

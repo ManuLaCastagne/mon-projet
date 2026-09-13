@@ -13,11 +13,9 @@ indice_5 :
   - Pastel des teinturiers
 indice_6 : 
   - Utilisée pour produire un colorant bleu
+culture_g_score: 48
+culture_g_justification: "La plante est surtout rentable par son lien historique avec le pastel et la teinture bleue."
 ---
-
-
-
-
 ![Image de Isatis (plante)](https://upload.wikimedia.org/wikipedia/commons/9/9b/Isatis_tinctoria02.JPG)
 
 ###### Questions

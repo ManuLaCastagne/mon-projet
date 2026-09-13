@@ -22,8 +22,9 @@ indice_6 :
   - symbolisme
 questions:
  - Au lecteur, je suis divisé en 6 parties appelées notamment "Tableaux parisiens" et "Spleen et idéal". Recueil de poèmes...
+culture_g_score: 88
+culture_g_justification: "Recueil fondamental de Baudelaire, incontournable pour la poésie française, le symbolisme, le spleen, la modernité et la censure."
 ---
-
 ![Image de Les Fleurs du mal](https://upload.wikimedia.org/wikipedia/commons/a/ad/Fleurs_du_mal.jpg)
 
 ###### Questions

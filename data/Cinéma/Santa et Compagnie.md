@@ -22,15 +22,9 @@ indice_6 :
   - comédie française
 questions:
  - En 2017, dans quelle comédie de et avec Alain Chabat, dont l'action se passe à l'approche de Noël joue-t-elle la femme du Père Noël?
+culture_g_score: 40
+culture_g_justification: "Comédie familiale française identifiable autour d'Alain Chabat et de Noël, mais trop récente et limitée pour être prioritaire."
 ---
-
-
-
-
-
-
-
-
 ![Image de Santa et Compagnie](https://upload.wikimedia.org/wikipedia/commons/6/67/Lettres_%C3%A9difiantes_et_curieuses_%C3%A9crites_par_des_missionnaires_de_la_Compagnie_de_J%C3%A9sus_%28microforme%29_-_collationn%C3%A9es_sur_les_meilleures_%C3%A9ditions%2C_et_enrichies_de_nouvelles_notes_%28IA_cihm_41130%29.pdf)
 
 ###### Questions

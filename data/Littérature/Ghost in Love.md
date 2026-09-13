@@ -22,8 +22,9 @@ indice_6 :
   - humour et émotion
 questions:
  - Quel best-seller de Marc Lévy, se passant à San Francisco, débute par  "Le petit réveil posé sur la table..."
+culture_g_score: 44
+culture_g_justification: "Roman contemporain de Marc Levy identifiable dans les quiz littéraires, mais moins incontournable que ses œuvres les plus célèbres."
 ---
-
 ![Image de Ghost in Love](https://upload.wikimedia.org/wikipedia/commons/3/39/Plaque_Blue_Star_memorial_at_Calico_Ghost_Town.jpg)
 
 ###### Questions

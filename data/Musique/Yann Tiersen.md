@@ -22,8 +22,9 @@ indice_6 :
   - multi-instrumentiste
 questions:
  - En 2016, sur l'album "Eusa", nom breton de l'île d'Ouessant, quel chanteur et musicien finistérien...
+culture_g_score: 80
+culture_g_justification: "Compositeur français très identifié à Amélie Poulain, mais aussi à Good Bye Lenin! et à une approche instrumentale singulière."
 ---
-
 ![Image de Yann Tiersen](https://upload.wikimedia.org/wikipedia/commons/8/89/Yann_Tiersen_4_2.png)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/14rZjW3RioG7WesZhYESso" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

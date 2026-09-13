@@ -22,8 +22,9 @@ indice_6 :
   - Lord of War
 questions:
  - Ou encore David Lynch dans "Sailor et Lula". Ayant incarné 2 fois les personnages de Ghost Rider et de Benjamin Gates, je suis...
+culture_g_score: 76
+culture_g_justification: "Acteur très identifiable grâce à une filmographie variée, un Oscar et plusieurs anecdotes populaires, ce qui le rend rentable en quiz."
 ---
-
 ![Image de Nicolas Cage](https://upload.wikimedia.org/wikipedia/commons/a/ab/Nicolas_Cage_Deauville_2013_2.jpg)
 
 ###### Questions

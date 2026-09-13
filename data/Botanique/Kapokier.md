@@ -13,8 +13,9 @@ indice_5:
   - Fromager
 indice_6:
   - Utilisé pour son bois et ses fibres légères
+culture_g_score: 44
+culture_g_justification: "Arbre tropical principalement utile pour relier le fromager à la fibre kapok employée dans le rembourrage."
 ---
-
 ![Image de Kapokier](https://upload.wikimedia.org/wikipedia/commons/7/77/Tunku_Sabah_Kapok-Tree-01.jpg)
 
 ###### Questions

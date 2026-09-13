@@ -20,8 +20,9 @@ indice_6 :
   - Sergueï Korolev
 questions:
  - Engin mis en service le 4 octobre 1957, je suis désigné par un nom signifiant compagnon de voyage.
+culture_g_score: 97
+culture_g_justification: "Premier satellite artificiel, référence majeure et très fréquente de la conquête spatiale et de la Guerre froide."
 ---
-
 ![Image de Spoutnik](https://upload.wikimedia.org/wikipedia/commons/5/5b/Sputnik_virofago.jpg)
 
 ###### Questions

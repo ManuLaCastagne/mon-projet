@@ -20,8 +20,9 @@ indice_6 :
   - Hypnose
 questions:
  - Quel médecin français du XIXe, père d'un célèbre explorateur, mène des recherches fondamentales sur l'hystérie et l'hypnotisme ?
+culture_g_score: 80
+culture_g_justification: "Charcot relie neurologie, hystérie, Salpêtrière, Freud et maladie portant son nom, ce qui le rend très rentable en quiz."
 ---
-
 ![Image de Jean-Martin Charcot](https://upload.wikimedia.org/wikipedia/commons/e/ea/Charcot_Jean-Martin_Gallica_Nadar.jpg)
 
 ###### Questions

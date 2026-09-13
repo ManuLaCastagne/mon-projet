@@ -21,8 +21,9 @@ indice_5 :
   - cinéma
 indice_6 : 
   - miniature vêtement
+culture_g_score: 40
+culture_g_justification: "Terme associé à un film, à la mode et au spectacle, mais sans référence unique suffisamment incontournable dans les quiz généralistes."
 ---
-
 ![Image de Baby-Doll](https://upload.wikimedia.org/wikipedia/commons/a/ae/Baby_Doll_Pizza_7.jpg)
 
 ###### Questions

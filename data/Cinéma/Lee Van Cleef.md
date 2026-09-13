@@ -20,8 +20,9 @@ indice_5:
   - yeux perçants
 indice_6:
   - Sergio Leone
+culture_g_score: 60
+culture_g_justification: "Figure connue des amateurs de western spaghetti, surtout grâce à Sergio Leone, mais relativement spécialisée dans l’histoire du cinéma."
 ---
-
 ![Image de Lee Van Cleef](https://upload.wikimedia.org/wikipedia/commons/e/e6/Lee_Van_Cleef_-_Death_Rides_A_Horse_%281%29.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1JSIWsJfxOji0FrxFcxdCK" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

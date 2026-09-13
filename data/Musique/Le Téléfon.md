@@ -22,8 +22,9 @@ indice_6 :
   - instrument de fanfare
 questions:
  - Enumérant des prénoms comme Noémie, Zoé et Anatole, je fais rimer "Marie-louise" avec "exquise". Chanson de Nino Ferrer...
+culture_g_score: 52
+culture_g_justification: "Chanson populaire et humoristique de Nino Ferrer, reconnaissable mais limitée à quelques questions de variété française."
 ---
-
 ![Image de Le Téléfon](https://upload.wikimedia.org/wikipedia/commons/a/a6/Telefon_BW_2012-02-18_13-44-32.JPG)
 
 ###### Questions

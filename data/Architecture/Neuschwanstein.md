@@ -23,8 +23,9 @@ indice_6 :
   - paysage alpin
 questions:
  - Sur un éperon rocheux près de Fussen, en Allemagne. Célèbre château du roi Louis II de Bavière, comprenant 200 pièces dont 15 sont ouvertes à la visite.
+culture_g_score: 84
+culture_g_justification: "Neuschwanstein est un château mondialement reconnaissable, exploitable en architecture, histoire bavaroise, tourisme et culture populaire."
 ---
-
 ![Image de Neuschwanstein](https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg)
 
 ###### Questions

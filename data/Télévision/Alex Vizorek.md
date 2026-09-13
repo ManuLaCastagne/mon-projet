@@ -18,7 +18,8 @@ indice_5 :
   - expert en comédie
 indice_6 : 
   - animateur d'émissions culturelles
-culture_g_score: 43
+culture_g_score: 56
+culture_g_justification: "Humoriste belge présent dans plusieurs émissions francophones, mais dont la notoriété reste intermédiaire."
 ---
 ![Image de Alex Vizorek](https://upload.wikimedia.org/wikipedia/commons/7/7d/Alex_Vizorek_2015.jpg)
 

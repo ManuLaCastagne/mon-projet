@@ -22,8 +22,9 @@ indice_6:
   - Comté de Waterford
 questions:
   - De quelle province d'Irlande la ville de Cork est-elle le chef-lieu ?
+culture_g_score: 52
+culture_g_justification: "Province irlandaise utile pour sa géographie et le rugby, mais nettement moins fréquente que l’Irlande elle-même."
 ---
-
 ![[Carte_Munster (Irlande).png]]
 
 ###### Questions

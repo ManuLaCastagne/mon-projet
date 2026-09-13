@@ -23,8 +23,9 @@ indice_6:
   - Auteur-compositeur-interprète
 questions:
   - Quel chanteur, né en 1981 au Lac-Saint-Jean, a sorti en 2020 l'album "Chansons hivernales" mêlant humour et mélancolie?
+culture_g_score: 47
+culture_g_justification: "Auteur-compositeur québécois reconnu dans la chanson francophone, mais encore relativement périphérique dans les quiz généralistes."
 ---
-
 ![Image de Pierre Lapointe](https://upload.wikimedia.org/wikipedia/commons/0/02/Pierre_Lapointe.JPG)
 
 ###### Questions

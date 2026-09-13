@@ -21,9 +21,9 @@ indice_5:
   - Michael Corleone
 indice_6:
   - Un après-midi de chien
+culture_g_score: 97
+culture_g_justification: "Acteur universellement célèbre grâce au Parrain, à Scarface, aux Oscars et à une filmographie emblématique."
 ---
-
-
 ![Image de Al Pacino](https://upload.wikimedia.org/wikipedia/commons/3/3e/Al_Pacino_2016_%2830401544240%29.jpg)
 
 ###### Questions

@@ -24,8 +24,9 @@ indice_6 :
   - célèbre pour ses baies
 questions:
  - Ile de la Manche située au large des côtes françaises, je forme avec Jersey, Aurigny...
+culture_g_score: 47
+culture_g_justification: "Île anglo-normande surtout utile pour son statut particulier, son lien avec Victor Hugo et quelques questions institutionnelles."
 ---
-
 ![Image de Guernesey](https://upload.wikimedia.org/wikipedia/commons/2/2d/Guernsey_-_Bailiwick_of_Guernsey.svg)
 
 ![[Carte_Guernesey.png]]

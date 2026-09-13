@@ -18,8 +18,9 @@ indice_5 :
   - Lentille convergente
 indice_6 : 
   - Lentille divergent
+culture_g_score: 55
+culture_g_justification: "Terme applicable aux nuages, aux lentilles et aux galaxies, mais chacune de ces occurrences reste relativement spécialisée."
 ---
-
 ![Image de Lenticulaire]()
 
 ###### Questions

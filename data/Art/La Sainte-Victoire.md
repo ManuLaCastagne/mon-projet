@@ -21,8 +21,9 @@ indice_5 :
   - Provence-Alpes-Côte d'Azur
 indice_6 : 
   - paysages provençaux
+culture_g_score: 52
+culture_g_justification: "La montagne Sainte-Victoire est une bonne entrée vers Cézanne, la Provence et le post-impressionnisme, sans être une réponse très fréquente en elle-même."
 ---
-
 ![Image de La Sainte-Victoire](https://upload.wikimedia.org/wikipedia/commons/a/af/La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Kirk Hammett
 questions:
  - A quel groupe californien formé en 1981, dont le nom dérive du mot métal, doit-on les tubes "Master of Puppets"...
+culture_g_score: 93
+culture_g_justification: "Groupe phare du heavy metal, associé à des albums, membres, chansons, records et évolutions musicales très fréquents dans les quiz."
 ---
-
 ![Image de Metallica](https://upload.wikimedia.org/wikipedia/commons/f/f8/James_Hetfield_with_Metallica_--_7_October_2004.jpg)
 
 ###### Questions

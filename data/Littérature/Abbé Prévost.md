@@ -21,8 +21,9 @@ indice_5:
   - héros nommé Des Grieux
 indice_6:
   - roman épistolaire
+culture_g_score: 60
+culture_g_justification: "L'Abbé Prévost est principalement retenu pour Manon Lescaut, classique fréquent mais moins central que les grands auteurs français."
 ---
-
 ![Image de Abbé Prévost](https://upload.wikimedia.org/wikipedia/commons/b/b7/Antoine_Fran%C3%A7ois_Prevost_by_Jacob_van_der_Schley.png)
 
 ###### Questions

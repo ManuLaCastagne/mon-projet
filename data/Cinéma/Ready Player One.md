@@ -18,6 +18,8 @@ indice_5:
   - Steven Spielberg
 indice_6:
   - Easter Egg
+culture_g_score: 64
+culture_g_justification: "Film de Spielberg connu pour ses références à la culture pop et à la réalité virtuelle, mais encore trop récent pour être un classique incontournable."
 ---
 ![[Pasted image 20250421182741.png]]
 ###### Questions

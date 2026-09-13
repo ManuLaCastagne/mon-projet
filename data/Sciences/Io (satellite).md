@@ -20,8 +20,9 @@ indice_6 :
   - Ceinture de radiation
 questions:
  - Quel satellite de Jupiter porte le nom d'une jeune prêtresse de la [[mythologie grecque]] ?
+culture_g_score: 80
+culture_g_justification: "Io est un grand classique de l’astronomie grâce à Galilée, Jupiter, son volcanisme et les missions spatiales."
 ---
-
 ![Image de Io (satellite)](https://upload.wikimedia.org/wikipedia/commons/7/7b/Io_highest_resolution_true_color.jpg)
 
 ###### Questions

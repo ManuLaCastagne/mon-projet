@@ -22,8 +22,9 @@ indice_6 :
   - Série de films français
 questions:
  - En 1964, dans quel film d'André Hunebelle le journaliste Fandor et le commissaire Juve pourchassent-ils…
+culture_g_score: 80
+culture_g_justification: "Personnage littéraire et cinématographique français très identifiable, exploitable via ses créateurs, ses films et ses interprètes."
 ---
-
 ![Image de Fantômas](https://upload.wikimedia.org/wikipedia/commons/1/10/Fantomas_1911.jpg)
 
 ###### Questions

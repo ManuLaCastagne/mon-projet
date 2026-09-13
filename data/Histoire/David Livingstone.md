@@ -20,8 +20,9 @@ indice_6 :
   - décédé en 1873
 questions:
  - Quel missionnaire britannique découvrit les chutes Victoria sur le Zambèze en 1855 ?
+culture_g_score: 80
+culture_g_justification: "Explorateur emblématique de l’Afrique et du mouvement abolitionniste, associé à Stanley, au lac Tanganyika et à une citation célèbre."
 ---
-
 ![Image de David Livingstone](https://upload.wikimedia.org/wikipedia/commons/f/f2/David_Livingstone_by_Thomas_Annan.jpg)
 
 ###### Questions

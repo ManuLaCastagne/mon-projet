@@ -33,8 +33,9 @@ questions:
  - En 1667, quel poète tragique commence sa pièce "Andromaque" par ce vers  "Oui, puisque je retrouve un ami si fidèle"?
 questions:
  - En 1667, quel poète tragique commence sa pièce "Andromaque" par ce vers  "Oui, puisque je retrouve un ami si fidèle"?
+culture_g_score: 97
+culture_g_justification: "Racine est incontournable pour la tragédie classique française et ses œuvres Phèdre, Andromaque et Britannicus reviennent très fréquemment."
 ---
-
 ![Image de Jean Racine](https://upload.wikimedia.org/wikipedia/commons/d/d5/Jean_racine.jpg)
 
 ###### Questions

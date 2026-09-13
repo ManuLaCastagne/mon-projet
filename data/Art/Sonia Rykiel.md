@@ -23,8 +23,9 @@ indice_6 :
   - 1968
 questions:
  - En 1964, quelle styliste et créatrice de prêt-à-porter française à la chevelure rousse était surnommée la reine du tricot par la presse américaine ?
+culture_g_score: 68
+culture_g_justification: "Sonia Rykiel est une référence importante de la mode française, mais ses occurrences concernent surtout le tricot et la création contemporaine."
 ---
-
 ![Image de Sonia Rykiel](https://upload.wikimedia.org/wikipedia/commons/a/a1/Sonia_Rykiel_.jpg)
 
 ###### Questions

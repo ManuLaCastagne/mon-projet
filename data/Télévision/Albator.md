@@ -18,8 +18,9 @@ indice_5 :
   - Queen Emeraldas
 indice_6 : 
   - Toei Animation
+culture_g_score: 84
+culture_g_justification: "Personnage culte de l’animation francophone, exploitable par son créateur, son univers, sa diffusion française et la culture populaire."
 ---
-
 ![Image de Albator](https://upload.wikimedia.org/wikipedia/commons/e/e6/Harlock_Jolly_Roger.svg)
 
 ###### Questions

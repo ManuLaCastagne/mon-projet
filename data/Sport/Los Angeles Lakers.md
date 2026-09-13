@@ -20,9 +20,9 @@ indice_6 :
   - NBA Championships
 questions:
  - En 2020, quelle équipe de basket-ball de Los Angeles a inscrit pour la 17e fois...
+culture_g_score: 84
+culture_g_justification: "Franchise mythique de la NBA, régulièrement interrogée à travers ses titres, ses joueurs emblématiques, son histoire et le basket américain."
 ---
-
-
 ![Image de Los Angeles Lakers](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg)
 
 ###### Questions

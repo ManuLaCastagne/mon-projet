@@ -22,8 +22,9 @@ indice_6 :
   - Auteur américain
 questions:
  - Quel écrivain américain est l'auteur, en 1937, du roman "Des souris et des hommes"?
+culture_g_score: 97
+culture_g_justification: "Steinbeck est un classique mondial associé à la Grande Dépression, au Prix Nobel, aux travailleurs migrants et à plusieurs romans incontournables."
 ---
-
 ![Image de John Steinbeck](https://upload.wikimedia.org/wikipedia/commons/d/d7/John_Steinbeck_1939_%28cropped%29.jpg)
 
 ###### Questions

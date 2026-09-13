@@ -17,8 +17,9 @@ indice_6:
   - Frère d'Artémis
 questions:
   - Par quel surnom, signifiant le Brillant, désigne-t-on aussi Apollon, considéré comme dieu de la Lumière?
+culture_g_score: 72
+culture_g_justification: "Phoebus est un épithète classique d’Apollon, utile pour la mythologie, Delphes, les arts et la littérature, mais moins fréquent que le nom Apollon lui-même."
 ---
-
 ![Image de Phoebus](https://upload.wikimedia.org/wikipedia/commons/1/19/Apollo_of_the_Belvedere.jpg)
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5:
   - Taxis noirs emblématiques
 indice_6:
   - Thames dans des scènes d'action
+culture_g_score: 92
+culture_g_justification: "Capitale mondiale très fréquemment interrogée, offrant d’innombrables entrées historiques, géographiques, culturelles et artistiques."
 ---
-
 ![Image de Londres](https://upload.wikimedia.org/wikipedia/commons/4/46/Puente_de_la_Torre%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_092.JPG)
 
 ###### Questions

@@ -20,9 +20,9 @@ indice_5:
   - Bruce Wayne
 indice_6:
   - Chevalier noir
+culture_g_score: 80
+culture_g_justification: "Adaptation emblématique de Burton, rentable pour des questions sur DC, Keaton, le Joker, Gotham et le renouveau du genre."
 ---
-
-
 ![Image de Batman](https://upload.wikimedia.org/wikipedia/commons/e/e4/San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg)
 
 ###### Questions

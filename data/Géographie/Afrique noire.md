@@ -22,8 +22,9 @@ indice_5 :
   - Sahel
 indice_6 : 
   - Nairobi
+culture_g_score: 52
+culture_g_justification: "Notion régionale utile pour comprendre l'Afrique subsaharienne, mais son appellation datée limite son emploi comme réponse précise."
 ---
-
 ![[Carte_Afrique noire.png]]
 
 ###### Questions

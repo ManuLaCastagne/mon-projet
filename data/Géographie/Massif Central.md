@@ -25,8 +25,9 @@ indice_6 :
   - Monts du Cantal
 questions:
  - Dans quel massif montagneux du centre et du sud de la France, abritant de vieux volcans, peut-on voir la cascade du Déroc?
+culture_g_score: 80
+culture_g_justification: "Grand ensemble géographique français régulièrement associé au volcanisme, aux reliefs, aux régions et au thermalisme."
 ---
-
 ![Image de Massif Central](https://upload.wikimedia.org/wikipedia/commons/2/2a/France_Massif_central.jpg)
 
 ![[Carte_Massif Central.png]]

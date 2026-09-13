@@ -18,8 +18,9 @@ indice_5 :
   - Astronomie
 indice_6 : 
   - Comète visible à l'œil nu
+culture_g_score: 84
+culture_g_justification: "La comète de Halley est une référence astronomique mondialement célèbre, liée à Edmond Halley, aux observations historiques et à la culture populaire."
 ---
-
 ![Image de Comète de Halley](https://upload.wikimedia.org/wikipedia/commons/8/82/Comete_Tapisserie_Bayeux.jpg)
 
 ###### Questions

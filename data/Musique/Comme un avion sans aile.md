@@ -22,8 +22,9 @@ indice_6 :
   - succès années 70
 questions:
  - Chanson dont les 1res mesures rappellent le titre "No woman no cry",  j'ai fait découvrir le phrasé particulier et l'univers poétique de Charlélie Couture. Chanson d'amour dans laquelle on entend "J'ai chanté toute la nuit"...
+culture_g_score: 53
+culture_g_justification: "Chanson connue de la variété française, mais principalement exploitable par son interprète, son album et quelques références culturelles."
 ---
-
 ![Image de Comme un avion sans aile](https://upload.wikimedia.org/wikipedia/commons/7/72/Gourmont_-_Un_c%C5%93ur_virginal%2C_1907.djvu)
 
 ###### Questions

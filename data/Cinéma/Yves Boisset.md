@@ -18,8 +18,9 @@ indice_5 :
   - Jean Carmet
 indice_6 : 
   - L'Attentat
+culture_g_score: 52
+culture_g_justification: "Cinéaste français engagé associé à quelques films sociaux et politiques classiques, mais sa fréquence reste occasionnelle."
 ---
-
 ![Image de Yves Boisset](https://upload.wikimedia.org/wikipedia/commons/6/60/Yves_Boisset_Cannes_2010.JPG)
 
 ###### Questions

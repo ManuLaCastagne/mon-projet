@@ -20,8 +20,9 @@ indice_6 :
   - Gardien de but
 questions:
  - En 2014 à Pontferrada d'Espagne, quel coureur polonais est champion du monde sur route ?
+culture_g_score: 0
+culture_g_justification: "Le sujet n’est pas identifiable de manière fiable et semble relever d’une confusion ou d’un nom mal orthographié."
 ---
-
 ![Image de Michal Viatovski]()
 
 ###### Questions

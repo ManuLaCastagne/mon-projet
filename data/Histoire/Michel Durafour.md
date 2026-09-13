@@ -20,8 +20,9 @@ indice_6 :
   - décédé en 2017
 questions:
  - En 1988, quel ancien maire de Saint-Etienne devient ministre de la Fonction publique et des Réformes ? Ancien maire de Saint-Etienne.
+culture_g_score: 20
+culture_g_justification: "Personnalité politique française secondaire, surtout mobilisée dans une question précise sur la polémique avec Le Pen."
 ---
-
 ![Image de Michel Durafour](https://upload.wikimedia.org/wikipedia/commons/4/44/Recueil._%22Alexandrine_%22de_Michel_Durafour_-_btv1b10527173p_%2807_of_36%29.jpg)
 
 ###### Questions

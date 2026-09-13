@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la liberté
 questions:
  - Sexuel secondaire, plus développée chez le mâle que chez la femelle, je jouerais un rôle dans la thermorégulation de l'animal et aurais des fonctions immunitaires. Excroissance charnue rouge dentelée...
+culture_g_score: 40
+culture_g_justification: "La crête animale est une notion simple et assez étroite, surtout mobilisée dans des questions d’anatomie ou de comportement des oiseaux."
 ---
-
 ![Image de Crête](https://upload.wikimedia.org/wikipedia/commons/c/ca/Venetian_Fortress_of_Koules_in_Heraklion%2C_Crete_003.jpg)
 
 ###### Questions

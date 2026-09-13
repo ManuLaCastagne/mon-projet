@@ -20,8 +20,9 @@ indice_6 :
   - apparu en 1828
 questions:
  - En 1828 à Nuremberg, sous quel nom se présente l'adolescent égaré prétendant descendre de la grande-duchesse ?
+culture_g_score: 60
+culture_g_justification: "Énigme historique célèbre du XIXe siècle, offrant quelques angles sur Nuremberg, l’identité et les faits divers."
 ---
-
 ![Image de Gaspard Hauser](https://upload.wikimedia.org/wikipedia/commons/2/2f/Kaspar_hauser.jpg)
 
 ###### Questions

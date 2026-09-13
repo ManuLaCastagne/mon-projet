@@ -22,8 +22,9 @@ indice_5 :
   - souk Khan el-Khalili
 indice_6 : 
   - citadelle de Saladin
+culture_g_score: 100
+culture_g_justification: "Capitale de l’Égypte ancienne et moderne, Le Caire ouvre sur l’histoire, l’archéologie, l’islam, le monde arabe et la géographie africaine."
 ---
-
 ![Image de Le Caire](https://upload.wikimedia.org/wikipedia/commons/4/4f/Blason_Le_Caire.svg)
 
 ![[Carte_Le Caire.png]]

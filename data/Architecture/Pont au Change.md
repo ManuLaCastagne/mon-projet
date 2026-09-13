@@ -20,10 +20,9 @@ indice_5:
   - accès à la Rive Droite
 indice_6:
   - Napoléon III
+culture_g_score: 47
+culture_g_justification: "Pont parisien historique pouvant servir à des questions sur la topographie et le commerce, mais peu incontournable."
 ---
-
-
-
 ![Image de Pont au Change](https://upload.wikimedia.org/wikipedia/commons/8/88/Pont_au_Change%2C_East_View_from_%C3%8Ele_de_la_Cit%C3%A9_140320_1.jpg)
 
 ![[Carte_Pont au Change.png]]

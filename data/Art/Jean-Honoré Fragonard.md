@@ -23,9 +23,9 @@ indice_6 :
   - scènes galantes
 questions:
  - A quel peintre du XVIIIe siècle, spécialiste des scènes galantes, doit-on les tableaux "Le Baiser à la dérobée" et "La Lettre d'amour" ?
+culture_g_score: 80
+culture_g_justification: "Fragonard est un repère classique du rococo français, notamment par L’Escarpolette, Le Verrou, Boucher et les scènes galantes."
 ---
-
-
 ![Image de Jean-Honoré Fragonard](https://upload.wikimedia.org/wikipedia/commons/2/2e/Jeune_fille_et_son_chien%2C_Jean-Honor%C3%A9_Fragonard%2C_HUW_35%2C_Alte_Pinakothek_Munich.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_5 :
   - Mosquée
 indice_6 : 
   - Timur
+culture_g_score: 36
+culture_g_justification: "Monument majeur de Samarcande et de l’architecture timouride, mais relativement peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Bibi-Khanym]()
 
 ###### Questions

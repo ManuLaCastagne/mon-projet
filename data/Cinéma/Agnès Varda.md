@@ -21,9 +21,9 @@ indice_5:
   - Nouvelle Vague
 indice_6:
   - César d'honneur
+culture_g_score: 80
+culture_g_justification: "Pionnière de la Nouvelle Vague et du documentaire, associée à plusieurs œuvres majeures et à une reconnaissance internationale."
 ---
-
-
 ![Image de Agnès Varda](https://upload.wikimedia.org/wikipedia/commons/6/6a/MJK_37447_Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Ub63208eZVnT6UPQm4fGH" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -22,8 +22,9 @@ indice_5 :
   - Grand Bahama
 indice_6 : 
   - Eleuthera
+culture_g_score: 64
+culture_g_justification: "Archipel caribéen connu pour Christophe Colomb, Nassau et son tourisme, mais moins central que les grands pays du monde."
 ---
-
 ![[Carte_Bahamas.png]]
 
 ###### Questions

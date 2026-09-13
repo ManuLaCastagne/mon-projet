@@ -24,8 +24,9 @@ indice_6 :
   - Uros
 questions:
  - Le Lac situé à 3 812m ?
+culture_g_score: 80
+culture_g_justification: "Le lac andin est régulièrement interrogé pour son altitude, sa localisation, les Uros et son importance culturelle précolombienne."
 ---
-
 ![Image de Titicaca](https://upload.wikimedia.org/wikipedia/commons/3/35/Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG)
 
 ![[Carte_Titicaca.png]]

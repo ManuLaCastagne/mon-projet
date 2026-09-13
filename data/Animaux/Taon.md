@@ -15,8 +15,9 @@ indice_6 :
   - Nuissance en élevage
 questions:
  - Grosse mouche aux ailes transparentes ou tachetées dont l'approche est souvent clairement audible, la piqûre douloureuse occasionnée par ma femelle...
+culture_g_score: 44
+culture_g_justification: "Le taon est un insecte familier pouvant être interrogé sur les piqûres et la vision, mais il offre peu d'angles de culture générale."
 ---
-
 ![Image de Taon](https://upload.wikimedia.org/wikipedia/commons/d/d2/Breguet_1001_Taon_in_flight_c1958.jpg)
 
 ###### Questions

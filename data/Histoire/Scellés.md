@@ -20,8 +20,9 @@ indice_6 :
   - utilisées depuis le Moyen Âge
 questions:
  - Quel terme au pluriel désigne le lien apposé sur une porte au moyen d'un cachet de cire revêtu d'un sceau pour en interdire l'accès sur décision de justice?
+culture_g_score: 32
+culture_g_justification: "Terme juridique et archivistique utile mais rarement demandé comme référence autonome dans les quiz généralistes."
 ---
-
 ![Image de Scellés](https://upload.wikimedia.org/wikipedia/commons/1/11/Bri%C3%A8res-les-Scell%C3%A9s_Monument_400.jpg)
 
 ###### Questions

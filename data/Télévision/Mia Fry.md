@@ -20,8 +20,9 @@ indice_6 :
   - années 2000
 questions:
  - Quelle danseuse et chorégraphe américaine a été membre du jury des émissions "Popstars" et "Got to dance  le meilleur danseur"?
+culture_g_score: 44
+culture_g_justification: "Chorégraphe et personnalité de télécrochet connue en France, surtout mobilisée dans des questions ciblées sur la téléréalité musicale."
 ---
-
 ![Image de Mia Fry](https://upload.wikimedia.org/wikipedia/commons/7/77/La_mia_Crota_a_Biella.jpg)
 
 ###### Questions

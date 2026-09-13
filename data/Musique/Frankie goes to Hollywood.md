@@ -22,8 +22,9 @@ indice_6:
   - Welcome to the Pleasuredome
 questions:
   - Je reste associé au tube "Relax (Don't do it)". Groupe dont le nom, souvent abrégé en 4 lettres, évoque les débuts...
+culture_g_score: 76
+culture_g_justification: "Groupe new wave très identifiable par « Relax », « Two Tribes », la censure et la scène musicale britannique des années 1980."
 ---
-
 ![Image de Frankie goes to Hollywood](https://upload.wikimedia.org/wikipedia/commons/f/ff/Frankie_Goes_to_Hollywood_in_London_cropped.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2K22nUTdyr48JDwI5t906t" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

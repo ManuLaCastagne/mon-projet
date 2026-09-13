@@ -21,8 +21,9 @@ indice_5:
   - aile Ouest
 indice_6:
   - portique sud
+culture_g_score: 97
+culture_g_justification: "Résidence présidentielle américaine et symbole politique mondial, la Maison-Blanche est un marronnier très transversal des quiz."
 ---
-
 ![Image de Maison-Blanche](https://upload.wikimedia.org/wikipedia/commons/7/75/Chantier_Station_M%C3%A9tro_Maison_Blanche_Paris_XIIIe_Paris_8.jpg)
 
 ###### Questions

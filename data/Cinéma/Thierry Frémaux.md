@@ -22,8 +22,9 @@ indice_6 :
   - Défenseur du cinéma d'auteur
 questions:
  - En février 2021, quelle personnalité du cinéma, délégué général du festival de Cannes, a publié son autobiographie "Judoka", art martial dont il est ceinture noire 4e dan ?
+culture_g_score: 48
+culture_g_justification: "Responsable important du Festival de Cannes mais personnalité surtout connue des amateurs et des questions institutionnelles sur le cinéma."
 ---
-
 ![Image de Thierry Frémaux](https://upload.wikimedia.org/wikipedia/commons/d/d7/Thierry_Fr%C3%A9maux_%28Festival_de_Cannes_2009%29.jpg)
 
 ###### Questions

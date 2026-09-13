@@ -24,7 +24,8 @@ indice_6 :
   - savane africaine
 questions:
  - Pays d'Afrique centrale, 2 fois plus grand que la France, je suis le pays où a été découvert Toumaï, le plus ancien des préhumains...
-culture_g_score: 80
+culture_g_score: 60
+culture_g_justification: "Pays africain identifiable par le lac Tchad, le Sahara, ses ressources pétrolières et son histoire politique récente."
 ---
 ![Image de Tchad](https://upload.wikimedia.org/wikipedia/commons/4/49/Moscow_GUM_Middle_Line_view_from_2nd_floor.jpg)
 

@@ -22,8 +22,9 @@ indice_6 :
   - Tout ce qui brille
 questions:
  - En 2016, quelle actrice, fille de Josiane Balasko, s'est mise en scène dans le film "Joséphine s'arrondit", tiré d'une bande dessinée ?
+culture_g_score: 44
+culture_g_justification: "Actrice française connue par quelques comédies et par sa filiation avec Josiane Balasko, mais peu incontournable."
 ---
-
 ![Image de Marilou Berry](https://upload.wikimedia.org/wikipedia/commons/8/88/BERRY_Marilou-24x30-2009.jpg)
 
 ###### Questions

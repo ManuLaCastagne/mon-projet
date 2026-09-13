@@ -24,8 +24,9 @@ indice_6 :
   - les tours médiévales
 questions:
  - En Sport/Italie, quelle ville d'Emilie-Romagne abrite l'une des plus anciennes universités de l'Occident, qui a accueilli notamment Pétrarque et Nicolas Copernic ?
+culture_g_score: 72
+culture_g_justification: "Bologne combine plus ancienne université, patrimoine médiéval, gastronomie et histoire politique, offrant plusieurs entrées fréquentes en quiz."
 ---
-
 ![Image de Bologne](https://upload.wikimedia.org/wikipedia/commons/6/69/Bologna_Panorama.jpg)
 
 ![[Carte_Bologne.png]]

@@ -18,8 +18,9 @@ indice_5 :
   - Birmingham
 indice_6 : 
   - Amélioration de la Newcomen
+culture_g_score: 84
+culture_g_justification: "James Watt est un classique majeur de la révolution industrielle, de la machine à vapeur et de l’unité de puissance."
 ---
-
 ![Image de James Watt](https://upload.wikimedia.org/wikipedia/commons/e/e6/James_Watt_%C3%A9talon_ph._Jean_Delton.jpg)
 
 ###### Questions

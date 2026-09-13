@@ -19,6 +19,8 @@ indice_5:
   - Explosion spectaculaire
 indice_6:
   - Pink Floyd
+culture_g_score: 52
+culture_g_justification: "Film d'Antonioni associé à Pink Floyd, à la contestation des années 1960 et à un site de la Vallée de la Mort, sans être un marronnier."
 ---
 ![[Pasted image 20250323151309.png]]
 ###### Questions

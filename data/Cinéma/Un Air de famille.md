@@ -22,8 +22,9 @@ indice_6 :
   - Adaptation d'une pièce de théâtre
 questions:
  - La famille Ménard se retrouve pour l'anniversaire  d'un de ses membres dans un dîner qui vire au règlement de comptes. Film de Cédric Klapisch  avec Catherine Frot, Jean-Pierre Bacri...
+culture_g_score: 60
+culture_g_justification: "Comédie française reconnue, liée à Klapisch, Jaoui, Bacri, aux César et au théâtre, mais de portée surtout francophone."
 ---
-
 ![[Pasted image 20250323103606.png]]
 
 ###### Questions

@@ -21,8 +21,9 @@ indice_5:
   - Golden Gate Bridge
 indice_6:
   - Los Angeles
+culture_g_score: 100
+culture_g_justification: "La Californie est un territoire majeur et extrêmement transversal grâce à Hollywood, la ruée vers l’or, la Silicon Valley, les parcs et sa géographie."
 ---
-
 ![Image de Californie](https://upload.wikimedia.org/wikipedia/commons/6/6f/Californie_%28Qu%C3%A9bec%29.jpg)
 
 ![[Carte_Californie.png]]

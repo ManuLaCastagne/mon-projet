@@ -22,8 +22,9 @@ indice_6 :
   - L.A. Confidential
 questions:
  - Quel écrivain américain a créé le personnage appelé Philip Marlowe, qu'il a notamment mis en scène...
+culture_g_score: 72
+culture_g_justification: "Figure essentielle du roman noir américain, facilement exploitable grâce à Philip Marlowe, The Big Sleep et l’esthétique hard-boiled."
 ---
-
 ![Image de Raymond Chandler](https://upload.wikimedia.org/wikipedia/commons/b/b1/Raymond_Chandler_gravestone.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - années 1970
 questions:
  - En 1974, dans quelle chanson demande-t-il à une femme qu'il vient de quitter, de ne pas pleurer ?
+culture_g_score: 81
+culture_g_justification: "Chanson mondialement célèbre de Bob Marley, régulièrement mobilisée par des questions sur le reggae, l’album et l’enregistrement live."
 ---
-
 ![Image de No Woman no cry](https://upload.wikimedia.org/wikipedia/commons/6/62/No_Woman_No_Cry_-_Graffito_in_Sylhet_-_Bangladesh_%2812988042515%29.jpg)
 
 ###### Questions

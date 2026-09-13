@@ -18,10 +18,9 @@ indice_6 :
   - associé au coucher du soleil
 questions:
  - Dans la [[mythologie égyptienne]], quelle ancienne divinité, rapidement assimilée à Ré, donna naissance aux dieux Chou et Tefnout?
+culture_g_score: 47
+culture_g_justification: "Dieu créateur important dans la cosmologie héliopolitaine, mais relativement spécialisé et peu fréquent dans les quiz généralistes."
 ---
-
-
-
 ![Image de Atoum](https://upload.wikimedia.org/wikipedia/commons/1/10/Atum_%28God%29.png)
 
 ###### Questions

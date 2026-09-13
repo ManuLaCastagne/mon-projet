@@ -20,9 +20,9 @@ indice_6 :
   - animaux exotiques
 questions:
  - Dans quelle série documentaire, diffusée depuis 2014, suit-on le quotidien des soigneurs du zoo de La Flèche et leurs relations avec les animaux?
+culture_g_score: 44
+culture_g_justification: "Programme apprécié consacré à un zoo, mais dont les possibilités de questions restent limitées et assez spécialisées."
 ---
-
-
 ![Image de Une Saison au zoo](https://upload.wikimedia.org/wikipedia/commons/e/ef/SaisonauZoo_camera_fixe.jpg)
 
 ###### Questions

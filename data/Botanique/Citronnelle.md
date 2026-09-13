@@ -15,8 +15,9 @@ indice_6:
   - Utilisée en cuisine et en infusion
 questions:
   - Plante de la famille des poacées,  je suis aussi appelée verveine des Indes ou mélisse indienne.  Graminée originaire d'Asie, je suis acclimatée dans la plupart des pays tropicaux du fait de mes vertus culinaires et médicinales.  Plante aromatique utilisée en infusion ou en huile essentielle, je suis...
+culture_g_score: 47
+culture_g_justification: "Graminée connue pour la cuisine asiatique, les infusions et les huiles essentielles, mais rarement incontournable."
 ---
-
 ![Image de Citronnelle](https://upload.wikimedia.org/wikipedia/commons/8/81/Cymbopogon_citratus_%28Brazil%29.jpg)
 
 ###### Questions

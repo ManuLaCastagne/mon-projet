@@ -20,8 +20,9 @@ indice_5:
   - l'Assomption de la Vierge
 indice_6:
   - Titien Vecellio
+culture_g_score: 88
+culture_g_justification: "Figure majeure de la Renaissance italienne, fréquemment reliée à Venise, Charles Quint, la peinture de cour et plusieurs nus célèbres."
 ---
-
 ![Image de Le Titien](https://upload.wikimedia.org/wikipedia/commons/9/9f/Mus%C3%A9e_Ingres-Bourdelle_-_Pers%C3%A9e_d%C3%A9livrant_Androm%C3%A8de_-_Le_Titien_-_Joconde06070000262.jpg)
 
 ###### Questions

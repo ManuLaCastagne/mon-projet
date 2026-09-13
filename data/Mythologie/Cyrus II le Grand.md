@@ -18,8 +18,9 @@ indice_6 :
   - figure légendaire dans la Bible hébraïque
 questions:
  - Quel conquérant perse surnommé le Grand, Vainqueur du roi des Mèdes Astyage, est le fondateur de l'Empire achéménide?
+culture_g_score: 84
+culture_g_justification: "Grand souverain perse au croisement de l'histoire antique, de la Bible, de l'Empire achéménide et du patrimoine."
 ---
-
 ![Image de Cyrus II le Grand](https://upload.wikimedia.org/wikipedia/commons/6/65/Cyrus_II_le_Grand_et_les_H%C3%A9breux.jpg)
 
 ###### Questions

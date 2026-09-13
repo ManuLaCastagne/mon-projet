@@ -21,8 +21,9 @@ indice_6:
   - film français
 questions:
   - En 1991, dans quel film Jeanne Moreau a-t-elle un jeune plagiste pour dernier amour?
+culture_g_score: 40
+culture_g_justification: "Adaptation assez confidentielle de San-Antonio, surtout utile pour Jeanne Moreau et le cinéma français des années 1990."
 ---
-
 ![Image de Vieille qui marchait dans la mer](https://upload.wikimedia.org/wikipedia/commons/5/59/S%C3%A9gur_-_Jean_qui_grogne_et_Jean_qui_rit.djvu)
 
 ###### Questions

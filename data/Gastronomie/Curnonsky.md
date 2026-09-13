@@ -7,6 +7,8 @@ tags:
   - Maurice
   - France
 date: 1872
+culture_g_score: 44
+culture_g_justification: "Figure importante de l'histoire de la gastronomie française, mais peu fréquente hors des questions spécialisées."
 ---
 ###### Questions 
 

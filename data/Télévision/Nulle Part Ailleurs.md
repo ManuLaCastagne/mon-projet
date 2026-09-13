@@ -20,10 +20,9 @@ indice_6 :
   - Antoine de Caunes
 questions:
  - A quelle émission, présentée en direct dès 87 par Philippe Gildas, associe-t-on des sketches délirants...
+culture_g_score: 96
+culture_g_justification: "Émission culte de Canal+ ayant marqué l'humour, les médias, les personnalités et la culture télévisuelle française pendant plus d'une décennie."
 ---
-
-
-
 ![Image de Nulle Part Ailleurs](https://upload.wikimedia.org/wikipedia/commons/4/4b/Goumsao_De_Nulle_Part_Ailleurs_2014.jpg)
 
 ###### Questions

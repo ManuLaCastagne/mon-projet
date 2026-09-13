@@ -20,8 +20,9 @@ indice_6 :
   - Fresque
 questions:
  - Quel enduit imitant le marbre est ordinairement composé de plâtre fin, d'une colle et de poussière de marbre ou de craie ?
+culture_g_score: 52
+culture_g_justification: "Matériau artistique et architectural ancien, utile pour quelques questions sur les techniques décoratives, la Renaissance et le patrimoine."
 ---
-
 ![Image de Stuc](https://upload.wikimedia.org/wikipedia/commons/9/92/Ben_Vorlich_and_Stuc_a%27_Chroin_-_geograph.org.uk_-_74765.jpg)
 
 ###### Questions

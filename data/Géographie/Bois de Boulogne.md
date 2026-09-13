@@ -24,9 +24,9 @@ indice_6 :
   - hippodrome
 questions:
  - Dans quel bois de l'ouest parisien se trouve le château de Bagatelle, construit en 1777 ?
+culture_g_score: 64
+culture_g_justification: "Grand espace parisien associé à Napoléon III, aux hippodromes et à l’histoire urbaine, le Bois de Boulogne est un repère classique mais spécialisé."
 ---
-
-
 ![Image de Bois de Boulogne](https://upload.wikimedia.org/wikipedia/commons/a/a3/Bois_du_Boulogne%2C_the_cascade%2C_Paris%2C_France%2C_ca._1890-1900.jpg)
 
 ![[Carte_Bois de Boulogne.png]]

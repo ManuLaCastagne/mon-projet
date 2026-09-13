@@ -20,8 +20,9 @@ indice_6 :
   - film d'Eisenstein
 questions:
  - C'est grâce à la chanson de Jean Ferrat que j'ai su que c'était un favori de Catherine II  qui avait donné son nom  au cuirassé.
+culture_g_score: 80
+culture_g_justification: "Potemkine renvoie à une figure majeure de la Russie de Catherine II ainsi qu’à des références célèbres de cinéma et de propagande."
 ---
-
 ![Image de Potemkine](https://upload.wikimedia.org/wikipedia/commons/7/7a/Potemkine_pope.png)
 
 ###### Questions

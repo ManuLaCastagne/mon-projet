@@ -20,6 +20,8 @@ indice_5:
   - chien imposant
 indice_6:
   - John Fante
+culture_g_score: 31
+culture_g_justification: "Comédie dramatique française récente et peu marquante, généralement limitée à une question sur Yvan Attal ou John Fante."
 ---
 ###### Questions
 

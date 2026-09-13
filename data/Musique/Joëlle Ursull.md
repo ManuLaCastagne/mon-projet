@@ -22,8 +22,9 @@ indice_6 :
   - Noir et Blanc
 questions:
  - Quelle chanteuse, ancien membre du groupe Zouk Machine, connaît le succès avec le titre "White and black blues" en 1990?
+culture_g_score: 40
+culture_g_justification: "Sa participation à l’Eurovision 1990 constitue un repère identifiable, mais son intérêt quiz demeure ponctuel."
 ---
-
 ![Image de Joëlle Ursull]()
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - urbanisme parisien
 questions:
  - Quelle place parisienne, abritant la colonne du même nom constitue un haut lieu de la joaillerie ?
+culture_g_score: 80
+culture_g_justification: "Place parisienne emblématique, associée à Napoléon, au luxe, au Ritz, à la joaillerie et à l'urbanisme classique."
 ---
-
 ![Image de Place Vendôme](https://upload.wikimedia.org/wikipedia/commons/e/ee/Place_Vend%C3%B4me_vue_a%C3%A9rienne.png)
 
 ###### Questions

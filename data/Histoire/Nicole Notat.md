@@ -22,9 +22,9 @@ indice_6 :
   - figure du syndicalisme réformiste
 questions:
  - En 1992, quelle Française prénommé Nicole est la 1re femme à diriger une confédération, la CFDT.
+culture_g_score: 40
+culture_g_justification: "Dirigeante syndicale importante dans l’histoire sociale française, mais peu présente dans les quiz généralistes hors de la CFDT."
 ---
-
-
 ![Image de Nicole Notat](https://upload.wikimedia.org/wikipedia/commons/3/32/Medical_Heritage_Library_%28IA_BIUSante_pharma_res012103%29.pdf)
 
 ###### Questions

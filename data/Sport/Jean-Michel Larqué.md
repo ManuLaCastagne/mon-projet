@@ -20,8 +20,9 @@ indice_6 :
   - Football
 questions:
  - Ayant formé avec Thierry Roland un célèbre...
+culture_g_score: 76
+culture_g_justification: "Ancien capitaine des Verts et commentateur de Téléfoot, Larqué relie football historique, télévision et culture populaire française."
 ---
-
 ![Image de Jean-Michel Larqué](https://upload.wikimedia.org/wikipedia/commons/5/5d/Larqu%C3%A9_au_Racing_1982.JPG)
 
 ###### Questions

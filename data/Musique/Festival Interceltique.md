@@ -22,8 +22,9 @@ indice_6 :
   - kilts
 questions:
  - Lors de la 1re quinzaine d'août, quel festival rassemble à Lorient des dizaines de...
+culture_g_score: 60
+culture_g_justification: "Grand festival culturel français identifiable par Lorient et les mondes celtiques, mais moins central que les manifestations internationales les plus célèbres."
 ---
-
 ![Image de Festival Interceltique](https://upload.wikimedia.org/wikipedia/commons/8/8e/Lisardo_Lombardia_au_Festival_interceltique_de_Lorient_2012.jpg)
 
 ###### Questions

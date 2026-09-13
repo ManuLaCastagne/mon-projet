@@ -21,9 +21,9 @@ indice_5 :
   - Plage
 indice_6 : 
   - Nabeul
+culture_g_score: 44
+culture_g_justification: "Station touristique tunisienne connue, mais associée à un nombre limité de questions géographiques, historiques et balnéaires."
 ---
-
-
 ![[Carte_Hammamet.png]]
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - inspiration de l'architecte Jean Balladur
 questions:
  - Quelle station balnéaire de l'Hérault, construite dans les années 60, est célèbre pour ses immeubles en forme de pyramides?
+culture_g_score: 44
+culture_g_justification: "Station balnéaire française reconnaissable par son architecture singulière, mais peu fréquente et assez limitée à quelques questions patrimoniales et touristiques."
 ---
-
-
 ![Image de Grande-Motte](https://upload.wikimedia.org/wikipedia/commons/4/4e/Grande_Motte_Tignes_2015.jpg)
 
 ![[Carte_Grande-Motte.png]]

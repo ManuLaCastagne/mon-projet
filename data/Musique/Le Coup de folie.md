@@ -22,8 +22,9 @@ indice_6 :
   - It's a Mystery
 questions:
  - En 1981, dans quel tube Thierry Pastor dit-il  "C'est pas Vivaldi, ni le requiem de Verdi"?
+culture_g_score: 36
+culture_g_justification: "Tube français des années 1980 relativement oublié, principalement utile pour une question de variété ou de Top 50."
 ---
-
 ![Image de Le Coup de folie](https://upload.wikimedia.org/wikipedia/commons/9/97/Mallarm%C3%A9_-_Un_coup_de_d%C3%A9s_1914.djvu)
 
 ###### Questions

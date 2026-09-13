@@ -22,8 +22,9 @@ indice_6 :
   - histoires enchantées
 questions:
  - Quel conte musical de Philippe Chatel, mettant en scène une petite fille de 2 ans et demi...
+culture_g_score: 65
+culture_g_justification: "Conte musical français très connu de plusieurs générations, offrant des liens utiles avec la chanson, la littérature jeunesse et le cinéma."
 ---
-
 ![Image de Emilie Jolie](https://upload.wikimedia.org/wikipedia/commons/1/1a/Portrait_pr%C3%A9sum%C3%A9_de_Marie-Emilie_Baudouin%2C_fille_du_peintre%2C_J_11.jpg)
 
 ###### Questions

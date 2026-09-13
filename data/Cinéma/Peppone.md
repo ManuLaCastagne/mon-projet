@@ -22,8 +22,9 @@ indice_6 :
   - Communisme
 questions:
  - Quel est le surnom de Giuseppe Bottazzi, l'adversaire permanent de Don Camillo dans la série éponyme ?
+culture_g_score: 60
+culture_g_justification: "Personnage récurrent et facilement questionnable de la série Don Camillo, mais principalement utile dans un cadre de cinéma italien classique."
 ---
-
 ![Image de Peppone](https://upload.wikimedia.org/wikipedia/commons/1/1f/Don_Camillo_Peppone_Detmerode.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Rationalisme
 questions:
  - En 1616, quel futur savant et philosophe, né en Touraine dans un village portant...
+culture_g_score: 100
+culture_g_justification: "Figure majeure de la philosophie et des sciences, incontournable pour le cogito, le rationalisme, les coordonnées cartésiennes et la méthode."
 ---
-
 ![Image de René Descartes](https://upload.wikimedia.org/wikipedia/commons/7/70/Tours_-_Statue_of_Ren%C3%A9_Descartes.jpg)
 
 ###### Questions

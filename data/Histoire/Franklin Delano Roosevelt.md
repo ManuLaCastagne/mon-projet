@@ -18,8 +18,9 @@ indice_5:
   - Eleanor
 indice_6:
   - Theodore
+culture_g_score: 100
+culture_g_justification: "Président américain fondamental, lié au New Deal, à la Grande Dépression, à la Seconde Guerre mondiale et à l’histoire institutionnelle des États-Unis."
 ---
-
 ![Image de Roosevelt](https://upload.wikimedia.org/wikipedia/commons/3/32/Vincenzo_Laviosa_-_Franklin_D._Roosevelt_-_Google_Art_Project.jpg)
 
 ###### Questions

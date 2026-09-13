@@ -24,8 +24,9 @@ indice_6 :
   - Fleuve de la Sebou
 questions:
  - Quelle ancienne capitale du royaume du Maroc, réputée pour ses céramiques, abrite une médina classée...
+culture_g_score: 80
+culture_g_justification: "Grande ville historique du Maroc, riche en repères religieux, universitaires, architecturaux, artisanaux et dynastiques."
 ---
-
 ![Image de Fès](https://upload.wikimedia.org/wikipedia/commons/4/47/FEZ_trial_gameplay_HD.webm)
 
 ![[Carte_Fès.png]]

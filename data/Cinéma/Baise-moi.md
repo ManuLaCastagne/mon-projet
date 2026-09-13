@@ -20,9 +20,9 @@ indice_5 :
   - interdit aux moins de 18 ans
 indice_6 : 
   - polar subversif
+culture_g_score: 51
+culture_g_justification: "Œuvre française controversée pouvant apparaître sur la censure et Virginie Despentes, mais rarement dans les quiz généralistes."
 ---
-
-
 ![Image de Baise-moi](https://upload.wikimedia.org/wikipedia/commons/3/3a/Thalie_Envol%C3%A9e_-_Louise_Lab%C3%A9_-_Sonnet_-_Baise_m%27encor%2C_rebaise-moi_et_baise.oga)
 
 ###### Questions

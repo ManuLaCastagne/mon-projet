@@ -22,8 +22,9 @@ indice_5 :
   - siège du gouvernement
 indice_6 : 
   - Illimani
+culture_g_score: 77
+culture_g_justification: "Capitale administrative de la Bolivie célèbre pour son altitude, La Paz revient dans les questions sur les capitales, les Andes et l’histoire politique du pays."
 ---
-
 ![Image de La Paz](https://upload.wikimedia.org/wikipedia/commons/b/bb/Puerto_de_la_Cruz%2C_Iglesia_Nuestra_Se%C3%B1ora_de_la_Paz%2C_Dec._2023a.jpg)
 
 ![[Carte_La Paz.png]]

@@ -22,9 +22,9 @@ indice_6 :
   - traditions paysannes
 questions:
  - Ainsi que la jeunesse de mon auteur, Pierre-Jakez Hélias. Récit autobiographique...
+culture_g_score: 51
+culture_g_justification: "Témoignage important sur la Bretagne rurale et la mémoire régionale, mais d’usage surtout littéraire et patrimonial."
 ---
-
-
 ![Image de Le Cheval d'orgueil](https://upload.wikimedia.org/wikipedia/commons/8/8c/Cheval_d%27orgueil_%2827883548867%29.jpg)
 
 ###### Questions

@@ -16,8 +16,9 @@ indice_5:
   - panthéon gaulois
 indice_6:
   - annexes animaux
+culture_g_score: 60
+culture_g_justification: "Divinité gauloise reconnaissable à ses bois de cerf, utile pour la mythologie celtique et l’archéologie mais assez spécialisée."
 ---
-
 ![Image de Cernunnos](https://upload.wikimedia.org/wikipedia/commons/b/bc/Cernunnos.jpg)
 
 ###### Questions

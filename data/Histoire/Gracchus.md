@@ -20,8 +20,9 @@ indice_6 :
   - assassinés par le Sénat
 questions:
  - En 1796, quel révolutionnaire,  s'étant prononcé pour "l'égalité parfaite" en matière sociale, prend la tête de la "conjuration des Egaux" pour renverser le Directoire ?
+culture_g_score: 67
+culture_g_justification: "Les frères Gracques constituent une référence classique de l'histoire romaine et permettent plusieurs questions sur les réformes sociales et la République."
 ---
-
 ![Image de Gracchus](https://upload.wikimedia.org/wikipedia/commons/8/87/Eugene_Guillaume_-_the_Gracchi.jpg)
 
 ###### Questions

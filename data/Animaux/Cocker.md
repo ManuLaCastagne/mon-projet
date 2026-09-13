@@ -15,8 +15,9 @@ indice_6 :
   - Chien de chasse
 questions:
  - Quel petit chien de chasse et d'agrément, aux oreilles tombantes, tire son nom de l'anglais cocking, signifiant chasse à la bécasse ?
+culture_g_score: 44
+culture_g_justification: "Race de chien connue mais rarement centrale dans les quiz, hormis quelques références publicitaires ou cinématographiques."
 ---
-
 ![Image de Cocker](https://upload.wikimedia.org/wikipedia/commons/3/39/Joe_Cocker_1.jpg)
 
 ###### Questions

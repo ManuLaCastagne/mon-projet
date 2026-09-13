@@ -20,8 +20,9 @@ indice_6 :
   - Coupe du Monde de Biathlon
 questions:
  - En février 2021, dans quel sport combiné Julia Simon et Antonin Guigonnat sont-ils devenus champions du monde de relais mixte simple ?
+culture_g_score: 80
+culture_g_justification: "Sport olympique d'hiver très identifiable, avec des règles, des champions, une histoire militaire et une forte présence médiatique."
 ---
-
 ![Image de Biathlon](https://upload.wikimedia.org/wikipedia/commons/8/8c/Biathlon-Weltcup_2006_Antholz_1.jpg)
 
 ###### Questions

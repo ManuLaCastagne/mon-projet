@@ -20,8 +20,9 @@ indice_6 :
   - Annecy
 questions:
  - 11 titres de champion du monde en individuel et ai terminé à 7 reprises en tête du classement général de la Coupe du monde...
+culture_g_score: 80
+culture_g_justification: "Champion français du biathlon, fréquemment cité pour ses titres olympiques, ses records et sa domination en Coupe du monde."
 ---
-
 ![Image de Martin Fourcade](https://upload.wikimedia.org/wikipedia/commons/b/b3/Martin_Fourcade_octobre_2017.jpg)
 
 ###### Questions

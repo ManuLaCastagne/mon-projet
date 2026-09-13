@@ -22,8 +22,9 @@ indice_6 :
   - disciplines sportives
 questions:
  - Pourquoi boycott? Parce que invasion de l'Afghanistan. Précédant les jeux de Los Angeles, 84.
+culture_g_score: 80
+culture_g_justification: "Édition olympique très connue pour le boycott de 1980, la guerre froide et plusieurs performances sportives mémorables."
 ---
-
 ![Image de Moscou 1980](https://upload.wikimedia.org/wikipedia/commons/c/c1/Emblem_of_the_1980_Summer_Olympics.svg)
 
 ###### Questions

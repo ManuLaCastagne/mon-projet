@@ -22,8 +22,9 @@ indice_6 :
   - talons tambourinants
 questions:
  - 2003. Quelle chanson de Thomas Fersen débute par "On me dit que je suis paresseux, que je ne fais que ce que je veux" ?
+culture_g_score: 3
+culture_g_justification: "Sujet musical très obscur et mal identifié dans la culture générale, ne correspondant pratiquement jamais à une réponse de quiz généraliste."
 ---
-
 ![Image de Deux pieds](https://upload.wikimedia.org/wikipedia/commons/0/06/%28Toulouse%29_Deux_captives_aux_pieds_d%27un_empereur_-_Mus%C3%A9e_Saint-Raymond%2C_Ra_111.jpg)
 
 ###### Questions

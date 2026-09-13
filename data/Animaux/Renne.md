@@ -15,8 +15,9 @@ indice_6 :
   - Traîneau du Père Noël
 questions:
  - Quel cervidé des régions froides de l'hémisphère Nord se nourrit d'herbe l'été, de grand lichens en hiver qu'il va chercher sous la neige ?
+culture_g_score: 71
+culture_g_justification: "Animal emblématique de Noël, de l’Arctique et des cultures nordiques, avec plusieurs angles zoologiques et géographiques."
 ---
-
 ![Image de Renne](https://upload.wikimedia.org/wikipedia/commons/6/6b/Portrait_de_Guy_Renne_-_par_Micha%C3%ABl_Nierlich_-_Milieu_des_ann%C3%A9es_80.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - langue ukrainienne
 indice_6 : 
   - Kiyv-Pechersk Lavra
+culture_g_score: 80
+culture_g_justification: "Capitale historique et contemporaine de l’Ukraine, Kyiv est utile pour les questions sur la Rus’, les conflits récents, l’Euromaïdan et le patrimoine."
 ---
-
 ![Image de Kyiv](https://upload.wikimedia.org/wikipedia/commons/3/33/St._Volodymyr%27s_Cathedral_in_Kiev.jpg)
 
 ![[Carte_Kyiv.png]]

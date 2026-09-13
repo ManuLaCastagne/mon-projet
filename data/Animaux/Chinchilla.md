@@ -15,8 +15,9 @@ indice_6 :
   - Animal de compagnie
 questions:
  - 25 cm de long sans ma queue.  Animal nocturne aujourd'hui protégé dans une réserve au Chili car j'ai failli être exterminé à cause de ma fourrure gris perle très dense, je ressemble à un...
+culture_g_score: 48
+culture_g_justification: "Animal domestique et sujet de questions sur les Andes ou la fourrure, sans être une référence majeure de culture générale."
 ---
-
 ![Image de Chinchilla](https://upload.wikimedia.org/wikipedia/commons/e/e8/Chinchilla_lanigera1.jpg)
 
 ###### Questions

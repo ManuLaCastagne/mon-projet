@@ -22,8 +22,9 @@ indice_5 :
   - langue portugaise
 indice_6 : 
   - embouchure du fleuve Limpopo
+culture_g_score: 60
+culture_g_justification: "Capitale nationale identifiable et utile pour la géographie de l'Afrique australe, mais rarement centrale dans les quiz généralistes."
 ---
-
 ![Image de Maputo](https://upload.wikimedia.org/wikipedia/commons/6/65/Maputo_seen_from_southeast_-_October_2006.jpg)
 
 ![[Carte_Maputo.png]]

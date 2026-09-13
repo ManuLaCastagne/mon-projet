@@ -20,8 +20,9 @@ indice_6 :
   - Philosophie antique
 questions:
  - Homme de science né vers 460 av. J.-C., appartenant par ma famille à l'école des Asclépiades de Cos, je produis avec mes disciples...
+culture_g_score: 88
+culture_g_justification: "Figure fondatrice de la médecine occidentale, Hippocrate revient via le serment, l’Antiquité, la pratique médicale et l’éthique."
 ---
-
 ![Image de Hippocrate](https://upload.wikimedia.org/wikipedia/commons/3/32/Hippocrates_rubens.jpg)
 
 ###### Questions

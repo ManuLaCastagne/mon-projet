@@ -18,9 +18,9 @@ indice_5 :
   - Commando
 indice_6 : 
   - True Lies
+culture_g_score: 93
+culture_g_justification: "Star mondiale associée au cinéma d’action, au culturisme et à la politique, avec des repères extrêmement rentables."
 ---
-
-
 ![Image de Arnold Schwarzenegger](https://upload.wikimedia.org/wikipedia/commons/e/ef/Gov._Arnold_Schwarzenegger.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - célèbre créateur Quino
 questions:
  - En septembre 2020, quel dessinateur argentin, créateur du personnage de Mafalda, s'est éteint à 88 ans ?
+culture_g_score: 80
+culture_g_justification: "Créateur de Mafalda, Quino relie bande dessinée, Argentine, satire politique et culture populaire internationale."
 ---
-
 ![Image de Quino](https://upload.wikimedia.org/wikipedia/commons/5/5b/FirmaQuino.svg)
 
 ###### Questions

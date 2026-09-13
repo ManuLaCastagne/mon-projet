@@ -20,9 +20,9 @@ indice_6 :
   - Montpellier
 questions:
  - Dans "Un si grand soleil", actrice qui incarne une infirmière du nom de Claire Estrela.
+culture_g_score: 44
+culture_g_justification: "Actrice identifiée par quelques séries françaises, mais sa présence dans les quiz reste occasionnelle et centrée sur ses rôles."
 ---
-
-
 ![Image de Mélanie Maudran]()
 
 ###### Questions

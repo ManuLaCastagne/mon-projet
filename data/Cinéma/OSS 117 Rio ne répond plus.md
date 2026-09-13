@@ -18,8 +18,9 @@ indice_5:
   - espionnage
 indice_6:
   - années 1960
+culture_g_score: 53
+culture_g_justification: "Suite connue d’une franchise française populaire, mais offrant moins d’angles et une fréquence moindre que Le Caire, nid d’espions."
 ---
-
 ![Image de OSS 117 Rio ne répond plus](https://upload.wikimedia.org/wikipedia/commons/c/c2/No_image_poster.png)
 
 ###### Questions

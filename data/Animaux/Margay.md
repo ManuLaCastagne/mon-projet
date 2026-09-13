@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de l'agilité et de la furtivité
 questions:
  - Quel chat sauvage au pelage tacheté comme celui de l'ocelot, aussi appelé chat-tigre, vit au Mexique et en Amérique du Sud?
+culture_g_score: 27
+culture_g_justification: "Félin arboricole très spécialisé, dont les particularités sont rarement mobilisées dans un quiz généraliste."
 ---
-
 ![Image de Margay](https://upload.wikimedia.org/wikipedia/commons/3/32/Margaykat_Leopardus_wiedii.jpg)
 
 ###### Questions

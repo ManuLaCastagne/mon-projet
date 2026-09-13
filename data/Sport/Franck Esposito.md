@@ -21,8 +21,9 @@ indice_6 :
 questions:
  - Entre 1991 et 2002, quel nageur français spécialiste de 200 m papillon remporte 4 titres de champion d'Europe ?
  - En 1993, quel nageur français est devenu le 1er champion du monde du 200 m papillon...
+culture_g_score: 40
+culture_g_justification: "Nageur français médaillé et recordman européen, il est surtout pertinent pour des questions spécialisées sur le 200 mètres papillon."
 ---
-
 ![Image de Franck Esposito](https://upload.wikimedia.org/wikipedia/commons/7/7a/Faint_Comet_Detection_with_Unistellar_eVscopes_in_2023_Rnaasad25f9f1_hr.jpg)
 
 ###### Questions

@@ -3,6 +3,8 @@ tags:
   - Gastronomie
   - XIXe
 date: 1858
+culture_g_score: 28
+culture_g_justification: "Glace historique au nom pittoresque, mais trop spécifique et peu fréquente pour constituer une priorité."
 ---
 ###### Questions 
 

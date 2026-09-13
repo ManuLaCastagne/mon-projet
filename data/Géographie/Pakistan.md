@@ -22,8 +22,9 @@ indice_5 :
   - Himalaya
 indice_6 : 
   - Baloutchistan
+culture_g_score: 80
+culture_g_justification: "Grand pays d’Asie du Sud fréquemment lié à la partition de l’Inde, à Islamabad, au cricket, à l’islam et à la géopolitique."
 ---
-
 ![[Carte_Pakistan.png]]
 
 ###### Questions

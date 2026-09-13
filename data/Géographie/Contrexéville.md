@@ -24,9 +24,9 @@ indice_6 :
   - bien-être
 questions:
  - Quelle commune des Vosges située près de Vittel, est réputée pour ses bains ?
+culture_g_score: 40
+culture_g_justification: "Station thermale connue surtout pour la marque d’eau minérale Contrex, avec peu d’angles réellement fréquents en quiz."
 ---
-
-
 ![Image de Contrexéville](https://upload.wikimedia.org/wikipedia/commons/1/15/Rotonde_et_galeries_-_Contrex%C3%A9ville_2.jpg)
 
 ![[Carte_Contrexéville.png]]

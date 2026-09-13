@@ -20,8 +20,9 @@ indice_6 :
   - François Ier
 questions:
  - Quelle affaire, provoquée par l'affichage d'un texte anticatholique sur les lieux publics à Paris en 1534, signe la dissidence entre François Ier et les Luthériens ?
+culture_g_score: 44
+culture_g_justification: "Épisode important des guerres de Religion, mais relativement spécialisé et moins fréquent que les grands événements de la Réforme."
 ---
-
 ![Image de Affaire des Placards](https://upload.wikimedia.org/wikipedia/commons/7/78/Placard_contre_la_messe_papale%2C_Antoine_Marcourt%2C_1534%2C_BnF.jpg)
 
 ###### Questions

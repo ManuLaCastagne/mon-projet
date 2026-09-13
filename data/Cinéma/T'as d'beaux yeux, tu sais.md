@@ -22,8 +22,9 @@ indice_6 :
   - Années 1930
 questions:
  - Phrase prononcée par J.Gabin dans "Le Quai des brumes" et à laquelle M.Morgan répond en disant  "Embrassez-moi", je suis…
+culture_g_score: 49
+culture_g_justification: "Cette citation culte de Gabin et Michèle Morgan est un bon repère du cinéma français, mais son usage reste très ponctuel."
 ---
-
 ![Image de T'as d'beaux yeux, tu sais](https://upload.wikimedia.org/wikipedia/commons/5/56/D%C3%A9saugiers_-_Chansons_choisies%2C_1861.djvu)
 
 ###### Questions

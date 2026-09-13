@@ -22,8 +22,9 @@ indice_6 :
   - Films sur la famille
 questions:
  - A quel réalisateur japonais, ayant travaillé avec les mêmes acteurs et techniciens tout au long de sa carrière, doit-on "Voyage à Tokyo" ?
+culture_g_score: 68
+culture_g_justification: "Référence majeure du cinéma japonais, utile pour interroger son style, ses films, la famille et l'histoire du cinéma d'auteur."
 ---
-
 ![Image de Yasujiro Ozu](https://upload.wikimedia.org/wikipedia/commons/0/01/Yasujiro_Ozu_cropped.jpg)
 
 ###### Questions

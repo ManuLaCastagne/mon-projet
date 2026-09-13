@@ -20,8 +20,9 @@ indice_6 :
   - Coupe du Monde 2018
 questions:
  - Tels que Doug Livingstone, Dick Advocaat et actuellement Roberto Martinez… Mon maillot a été notamment porté par Jean-Marie Pfaff, Enzo Scifo et Vincent…
+culture_g_score: 77
+culture_g_justification: "Surnom très classique de l'équipe belge de football, régulièrement mobilisé avec la Belgique, les Coupes du monde et ses générations dorées."
 ---
-
 ![Image de Diables Rouges](https://upload.wikimedia.org/wikipedia/commons/9/92/Diables_Rouges_formation._Florennes%2C_25-6-2016_%2827971340796%29.jpg)
 
 ###### Questions

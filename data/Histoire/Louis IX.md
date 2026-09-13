@@ -20,8 +20,9 @@ indice_6 :
   - Saint Louis
 questions:
  - Quel roi de France, canonisé en 1297 fut marié par sa mère - Blanche de Castille - à Marguerite de Provence ?
+culture_g_score: 84
+culture_g_justification: "Saint Louis est une figure majeure de l’histoire de France, liée aux croisades, à la justice royale, à la religion et à l’architecture."
 ---
-
 ![Image de Louis IX](https://upload.wikimedia.org/wikipedia/commons/b/bf/Picture_of_St._Louis_of_the_French.jpg)
 
 ###### Questions

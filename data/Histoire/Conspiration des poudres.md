@@ -20,8 +20,9 @@ indice_6 :
   - échec d'un complot
 questions:
  - En 1605, quel complot, organisé par des catholiques anglais dans le but de faire sauter le Parlement, fut déjoué ?
+culture_g_score: 77
+culture_g_justification: "Complot historique très identifiable, lié à Jacques Ier, aux catholiques anglais et au 5 novembre, mais concentré sur un épisode précis."
 ---
-
 ![Image de Conspiration des poudres](https://upload.wikimedia.org/wikipedia/commons/c/c2/Gunpowder_Plot_conspirators.jpg)
 
 ###### Questions

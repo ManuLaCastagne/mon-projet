@@ -20,8 +20,9 @@ indice_6 :
   - Technique de rotation
 questions:
  - En 2013, dans quelle épreuve  d'athlétisme Mélina Robert-Michon devient-elle vice-championne du monde ?
+culture_g_score: 64
+culture_g_justification: "Le lancer du disque relie Antiquité, Jeux olympiques, records et grands champions, sans être un marronnier majeur."
 ---
-
 ![Image de Lancer du disque](https://upload.wikimedia.org/wikipedia/commons/f/f1/Camerouanaise_au_lancer_du_disque_Championnats_d%27Afrique_d%27athl%C3%A9tisme_2024_04.jpg)
 
 ###### Questions

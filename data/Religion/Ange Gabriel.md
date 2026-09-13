@@ -18,8 +18,9 @@ indice_5 :
   - Noël
 indice_6 : 
   - Marie
+culture_g_score: 100
+culture_g_justification: "Gabriel est une figure religieuse universelle reliant christianisme, islam, judaïsme, Annonciation et révélation coranique."
 ---
-
 ![Image de Ange Gabriel](https://upload.wikimedia.org/wikipedia/commons/6/68/Ange_Jacques_Gabriel_door_Jean-Baptiste_Greuze_Louvre.jpg)
 
 ###### Questions

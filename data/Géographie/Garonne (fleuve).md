@@ -24,8 +24,9 @@ indice_5:
   - Occitanie
 indice_6:
   - Embouchure à l'estuaire de la Gironde
+culture_g_score: 80
+culture_g_justification: "Grand fleuve français associé aux Pyrénées, à Toulouse, Bordeaux, la Gironde, l’histoire régionale et plusieurs repères géographiques."
 ---
-
 ![[Carte_Garonne (rivière).png]]
 
 ###### Questions

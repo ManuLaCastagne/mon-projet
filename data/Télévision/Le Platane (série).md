@@ -20,8 +20,9 @@ indice_6 :
   - double vie
 questions:
  - Dès 2011, dans quelle série télé Eric, qui joue son propre rôle, se réveille-t-il dans le coma, à la suite d'un accident de la route?
+culture_g_score: 27
+culture_g_justification: "Série humoristique assez confidentielle, dont le concept original apparaît rarement comme connaissance autonome."
 ---
-
 ![Image de Le Platane (série)](https://upload.wikimedia.org/wikipedia/commons/4/4c/Le_Tour_du_monde%2C_nouvelle_s%C3%A9rie_-_11.djvu)
 
 ###### Questions

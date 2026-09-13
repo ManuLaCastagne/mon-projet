@@ -23,9 +23,9 @@ indice_6 :
   - grès rose des Vosges
 questions:
  - De grès rose assemblés sur place. Mesurant 11m de haut pour 22m de long, je symbolise la résistance d'une ville placée sous l'autorité du Cel Denfert-Rochereau.
+culture_g_score: 68
+culture_g_justification: "Monument emblématique de Belfort, intéressant pour Bartholdi, la guerre franco-prussienne et les symboles républicains, mais d’impact limité."
 ---
-
-
 ![Image de Lion de Belfort](https://upload.wikimedia.org/wikipedia/commons/e/e7/Lion_de_Belfort_01.jpg)
 
 ###### Questions

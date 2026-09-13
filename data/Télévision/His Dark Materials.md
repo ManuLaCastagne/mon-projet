@@ -18,8 +18,9 @@ indice_5:
   - ours en armure
 indice_6:
   - Magisterium
+culture_g_score: 68
+culture_g_justification: "Adaptation récente d'une trilogie fantastique reconnue, exploitable via Philip Pullman, Lyra, les daemons et l'univers parallèle."
 ---
-
 ![Image de His Dark Materials](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dafne_Keen_San_Diego_Comic_Con_2019.jpg/1280px-Dafne_Keen_San_Diego_Comic_Con_2019.jpg)
 
 ###### Questions

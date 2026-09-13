@@ -22,8 +22,9 @@ indice_6 :
   - Renaissance
 questions:
  - Dans une série truffée d'anachronismes, créée par Turk et Bob de Groot, de quel savant de la Renaissance le héros est-il une caricature?
+culture_g_score: 20
+culture_g_justification: "Bande dessinée historique très spécifique, peu susceptible d’être interrogée en dehors d’un quiz spécialisé."
 ---
-
 ![Image de De Vinci (bande dessinée)](https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandes_dessin%C3%A9es_L%C3%A9onard.jpg)
 
 ###### Questions

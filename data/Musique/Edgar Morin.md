@@ -22,8 +22,9 @@ indice_6 :
   - influence sur les arts
 questions:
  - Quel sociologue français, né en 1921, a publié "L'Esprit du temps" et "La Rumeur d'Orléans" ?
+culture_g_score: 72
+culture_g_justification: "Intellectuel français majeur, rentable pour des questions sur la sociologie, la philosophie, la Résistance et la pensée de la complexité."
 ---
-
 ![Image de Edgar Morin](https://upload.wikimedia.org/wikipedia/commons/c/cf/Edgar_Morin_LslaP_1549751.jpg)
 
 ###### Questions

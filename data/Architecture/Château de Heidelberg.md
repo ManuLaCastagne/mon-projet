@@ -23,8 +23,9 @@ indice_6 :
   - façade sculptée
 questions:
  - Au Culture_G/XIXe siècle, de quel vaste château du sud-ouest de l'Allemagne, frappé par la foudre, les ruines sont-elles devenues l'incarnation du romantisme?
+culture_g_score: 68
+culture_g_justification: "Ruine romantique allemande très identifiable, exploitable par l’histoire du Palatinat, la Renaissance et ses curiosités."
 ---
-
 ![Image de Château de Heidelberg](https://upload.wikimedia.org/wikipedia/commons/3/30/20230315_Hotel_Holl%C3%A4nder_Hof_Heidelberg_01.jpg)
 
 ###### Questions

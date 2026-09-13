@@ -20,8 +20,9 @@ indice_5:
   - Nicolas Godin
 indice_6:
   - Moon Safari
+culture_g_score: 60
+culture_g_justification: "Air est un duo français important de l’électro, identifiable par Moon Safari, le cinéma et la French Touch, sans être omniprésent."
 ---
-
 ![Image de Air (groupe)](https://upload.wikimedia.org/wikipedia/commons/9/9d/Groupe_Royal_Air_Maroc.png)
 
 ###### Questions

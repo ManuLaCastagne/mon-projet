@@ -20,8 +20,9 @@ indice_6 :
   - France 3
 questions:
  - De 1987 à 1994, quel journaliste a présenté l'émission "Le divan"…
+culture_g_score: 60
+culture_g_justification: "Journaliste et animateur associé au Divan et à l'interview intimiste, avec une place réelle mais assez spécialisée dans la télévision française."
 ---
-
 ![Image de Henry Chapier](https://upload.wikimedia.org/wikipedia/commons/b/bc/Henry_Chapier_Gay_Pride_Paris_2008.jpg)
 
 ###### Questions

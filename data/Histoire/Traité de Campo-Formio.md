@@ -18,8 +18,9 @@ indice_5:
   - République Cisalpine
 indice_6:
   - fin de la Première Coalition
+culture_g_score: 64
+culture_g_justification: "Traité important des guerres révolutionnaires et de l’ascension de Bonaparte, mais moins fréquent que les grands traités napoléoniens."
 ---
-
 ![Image de Traité de Campo-Formio](https://upload.wikimedia.org/wikipedia/commons/0/08/Trait%C3%A9_de_Campo-Formio_12_sur_12_-_Archives_Nationales_-_AE-III-50bis.jpg)
 
 ###### Questions

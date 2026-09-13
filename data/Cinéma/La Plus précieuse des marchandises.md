@@ -15,7 +15,8 @@ indice_5:
   - Adaptation
 indice_6:
   - Seconde Guerre mondiale
-culture_g_score: 47
+culture_g_score: 44
+culture_g_justification: "Film d'animation récent et remarqué sur la Shoah, mais encore peu présent dans les quiz généralistes en raison de sa nouveauté."
 ---
 ![[Pasted image 20250503094522.png]]
 ###### Questions

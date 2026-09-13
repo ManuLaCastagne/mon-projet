@@ -24,9 +24,9 @@ indice_6 :
   - Vésunna
 questions:
  - Ville située à 473 km au sud-ouest de Paris, je compte environ 30 000 habitants.  Etablie sur une boucle de l'Isle, je conserve la tour de Vésone datant de l'époque gallo-romaine, ainsi que de très belles maisons et hôtels particuliers du XVe siècle. Située au coeur du Périgord...
+culture_g_score: 51
+culture_g_justification: "Ville historique de Dordogne intéressante pour l’Antiquité et le patrimoine, mais assez rarement interrogée dans les quiz généralistes."
 ---
-
-
 ![Image de Périgueux](https://upload.wikimedia.org/wikipedia/commons/f/f1/P%C3%A9rigueux_24_Borne_incendie_2014.jpg)
 
 ![[Carte_Périgueux.png]]

@@ -20,8 +20,9 @@ indice_6 :
   - Saint des saints
 questions:
  - Jadis, quelle partie la plus sacrée du Temple de Jérusalem, n'était accessible qu'au seul grand prêtre, et seulement une fois par an ?
+culture_g_score: 56
+culture_g_justification: "Lieu essentiel du Temple de Jérusalem et du judaïsme biblique, le Saint des Saints demeure toutefois un sujet assez étroit."
 ---
-
 ![Image de Saint des Saints](https://upload.wikimedia.org/wikipedia/commons/2/25/Procession_des_saints_de_Bretagne_-_dioc%C3%A8se_de_Saint-Malo%2C_cath%C3%A9drale_saint_Pierre%2C_Rennes%2C_France.jpg)
 
 ###### Questions

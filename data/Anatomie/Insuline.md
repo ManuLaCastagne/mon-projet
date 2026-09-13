@@ -15,8 +15,9 @@ indice_5:
   - Cellules bêta
 indice_6:
   - Hypoglycémie
+culture_g_score: 80
+culture_g_justification: "Hormone incontournable pour comprendre le diabète, le pancréas, le métabolisme et une découverte médicale majeure."
 ---
-
 ![Image de Insuline](https://upload.wikimedia.org/wikipedia/commons/5/57/Human-insulin-hexamer-3D-ribbons.png)
 
 ###### Questions

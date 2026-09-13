@@ -20,8 +20,9 @@ indice_6 :
   - Jean-Philippe Paré
 questions:
  - En 2021, quel club normand de hockey sur glace a remporté son 16e titre de champion de France? Champions de hockey normands?
+culture_g_score: 40
+culture_g_justification: "Club dominant du hockey français, mais principalement mobilisé dans des questions spécialisées sur la Ligue Magnus."
 ---
-
 ![Image de Dragons de Rouen](https://upload.wikimedia.org/wikipedia/commons/9/9d/Rouen-Morzine_2013_-_but_de_Thinel.JPG)
 
 ###### Questions

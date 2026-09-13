@@ -22,8 +22,9 @@ indice_6:
   - Normandie
 questions:
   - Quelle abbaye rattachée à Citeaux accorde une grande place au silence ?
+culture_g_score: 44
+culture_g_justification: "Lieu fondateur de la tradition trappiste, important religieusement mais d'intérêt général limité."
 ---
-
 ![Image de Abbaye de la Trappe](https://upload.wikimedia.org/wikipedia/commons/5/52/Abbaye_de_La_Trappe_2.jpg)
 
 ![[Carte_Abbaye de la Trappe.png]]

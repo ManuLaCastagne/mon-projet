@@ -22,8 +22,9 @@ indice_6 :
   - Souvent en quête de solitude et nature
 questions:
  - En 2011, dans le livre "Dans les forêts de Sibérie", quel écrivain et aventurier français évoque son expérience d'ermite  au bord du lac Baïkal?
+culture_g_score: 60
+culture_g_justification: "Écrivain et aventurier français contemporain régulièrement interrogé pour ses récits, ses prix littéraires et ses voyages, mais moins incontournable que les grands classiques."
 ---
-
 ![Image de Sylvain Tesson](https://upload.wikimedia.org/wikipedia/commons/c/c3/Sylvain_Tesson_-_Com%C3%A9die_du_Livre_2011_-_Montpellier_-_P1160238.jpg)
 
 ###### Questions

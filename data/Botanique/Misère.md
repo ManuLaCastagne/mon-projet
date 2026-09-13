@@ -15,8 +15,9 @@ indice_6:
   - Indice 6 Plante d'intérieur pour sa facilité d'entretien
 questions:
   - Quelle plante d'intérieur de la famille des commélinacées, à port retombant et à feuillage vert souvent panaché de bandes blanches...
+culture_g_score: 27
+culture_g_justification: "Plante d'intérieur reconnaissable sous le nom de zébrine, mais d'intérêt culturel et de fréquence quiz limités."
 ---
-
 ![Image de Misère](https://upload.wikimedia.org/wikipedia/commons/8/8d/20040413_Tradescantia_Tricolor.JPG)
 
 ###### Questions

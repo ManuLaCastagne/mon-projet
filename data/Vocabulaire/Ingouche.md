@@ -16,6 +16,7 @@ indice_6 :
   - Séparatisme russe
 ---
 
+
 ![Image de Ingouche]()
 
 ###### Questions
@@ -24,7 +25,7 @@ Quelle langue, apparentée au tchétchène, est parlée principalement dans le n
 
 Comment nomme-t-on la population de la république de [[Tchétchénie]] voisine, qui partagent des racines linguistiques et culturelles avec les Tchétchènes, mais ont une identité distincte ?
 
-Quelle langue caucasienne est utilisée par un peuple qui habite principalement dans l'est de la région appelée [[Ingouchie]] ?
+Quelle langue caucasienne est utilisée par un peuple qui habite principalement dans l'est de la région appelée [[Ingouchie]] ? <!-- score: 9 -->
 
 ###### Description
 

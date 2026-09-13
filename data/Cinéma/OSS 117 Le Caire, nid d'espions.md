@@ -18,9 +18,9 @@ indice_5 :
   - Michel Hazanavicius
 indice_6 : 
   - Jean Dujardin
+culture_g_score: 73
+culture_g_justification: "Comédie française très populaire, reliée à Jean Dujardin, Michel Hazanavicius, l’espionnage parodique et plusieurs repères historiques de la série."
 ---
-
-
 ![Image de OSS 117 Le Caire, nid d'espions](https://upload.wikimedia.org/wikipedia/commons/d/d3/Facel_Vega_Facellia_-_Moteur_%21_%40_Mondial_auto_2016.jpg)
 
 ###### Questions

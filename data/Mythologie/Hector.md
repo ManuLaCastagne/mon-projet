@@ -19,8 +19,9 @@ indice_6:
   - Achille
 questions:
   - Selon un oracle, quel fils de Priam et d'Hécube constituait, tant qu'il restait vivant, la garantie que Troie ne serait pas vaincue?
+culture_g_score: 84
+culture_g_justification: "Héros majeur de l'Iliade et défenseur de Troie, régulièrement mobilisé dans les questions sur la guerre de Troie."
 ---
-
 ![Image de Hector](https://upload.wikimedia.org/wikipedia/commons/2/20/Hector_lying_on_his_funeral_pyre_MET_225140.jpg)
 
 ###### Questions

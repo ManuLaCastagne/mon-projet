@@ -18,8 +18,9 @@ indice_6 :
   - transformation
 questions:
  - Quelle nymphe d'une grande beauté est métamorphosée en laurier afin d'échapper aux avances d'Apollon?
+culture_g_score: 60
+culture_g_justification: "Métamorphose célèbre en laurier, directement reliée à Apollon et aux Métamorphoses d'Ovide."
 ---
-
 ![Image de Daphné](https://upload.wikimedia.org/wikipedia/commons/d/d4/Daphn%C3%A9_en_Laurier.png)
 
 ###### Questions

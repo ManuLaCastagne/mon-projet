@@ -23,8 +23,9 @@ indice_6:
   - Werther
 questions:
   - En 1989, dans le film "Le Maître de musique" de Gérard Corbiau, quel baryton-basse belge interprète le rôle principal?
+culture_g_score: 44
+culture_g_justification: "Grand baryton belge d’opéra, mais sa notoriété et ses occurrences restent surtout limitées aux amateurs d’art lyrique."
 ---
-
 ![Image de José Van Dam](https://upload.wikimedia.org/wikipedia/commons/e/e0/Jos%C3%A9_Van_Dam%2C_Les_Contes_d%27Hoffmann-1988.jpg)
 
 ###### Questions

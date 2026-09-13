@@ -22,8 +22,9 @@ indice_6 :
   - personnages LGBTQ+
 questions:
  - En 2018, quel écrivain américain évoque son parcours dans l'autobiographie intitulée "Mon Autre Famille", 4 ans après la publication de ses dernières "Chroniques de San Francisco"?
+culture_g_score: 31
+culture_g_justification: "Auteur important pour la représentation LGBT et la vie culturelle de San Francisco, mais rarement interrogé en quiz généraliste francophone."
 ---
-
 ![Image de Armistead Maupin](https://upload.wikimedia.org/wikipedia/commons/4/4b/ArmisteadMaupinChristopherTurnerHWOFMay2013_%28cropped%29.jpg)
 
 ###### Questions

@@ -18,9 +18,9 @@ indice_5 :
   - 1913
 indice_6 : 
   - Rood-witten
+culture_g_score: 60
+culture_g_justification: "Club néerlandais classique, surtout connu pour son sacre européen de 1988, Philips et ses joueurs emblématiques."
 ---
-
-
 ![Image de PSV Eindhoven](https://upload.wikimedia.org/wikipedia/commons/b/bb/PSV_Eindhoven%2C_Teamcamp_Bad_Erlach%2C_July_2014_%28150%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - adaptation littéraire
 questions:
  - En 1981, quel film avec Jack Nicholson et Jessica Lange comporte une scène particulièrement sensuelle se passant dans une cuisine?
+culture_g_score: 72
+culture_g_justification: "Classique du film noir relié à James M. Cain, à ses deux adaptations et à des acteurs emblématiques, avec plusieurs angles de quiz."
 ---
-
 ![Image de Le Facteur sonne toujours deux fois](https://upload.wikimedia.org/wikipedia/commons/d/d5/Recueil._%22Le_facteur_sonne_toujours_deux_fois%22_film_de_Tay_Garnett_-_btv1b10525548h_%2828_of_35%29.jpg)
 
 ###### Questions

@@ -18,8 +18,9 @@ indice_6 :
   - [[mythologie grecque]]
 questions:
  - Qui l'orne de la tête de Méduse, je suis soit une cuirasse, soit un bouclier rond bordé de serpents. Dans le langage courant, mon nom est synonyme de protection et de soutien. Peau de la chèvre Amalthée qui allaita Zeus...
+culture_g_score: 60
+culture_g_justification: "L'Égide est un symbole mythologique identifiable, associé à Zeus, Athéna et Méduse, et son sens figuré apporte un prolongement utile."
 ---
-
 ![Image de Égide](https://upload.wikimedia.org/wikipedia/commons/f/f1/Jacques_%C3%89gide_Duhan_de_Jandun.jpg)
 
 ###### Questions

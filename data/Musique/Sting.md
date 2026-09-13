@@ -22,10 +22,9 @@ indice_6 :
   - chanteur britannique
 questions:
  - En 2015, quel chanteur britannique connaît le succès en interprétant en duo avec Mylène Farmer une nouvelle version du titre "Stolen car"?
+culture_g_score: 92
+culture_g_justification: "Sting est une figure internationale incontournable, exploitable par The Police, sa carrière solo, ses tubes et ses engagements culturels."
 ---
-
-
-
 ![Image de Sting](https://upload.wikimedia.org/wikipedia/commons/4/40/Sting_in_April_2018.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0I1DJdLt9BKOb7GWmWxCjo" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

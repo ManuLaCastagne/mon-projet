@@ -21,8 +21,9 @@ indice_5 :
   - Assemblée nationale
 indice_6 : 
   - Salle de tennis
+culture_g_score: 68
+culture_g_justification: "Tableau associé à un événement fondateur de la Révolution française, mais l’œuvre inachevée est moins souvent demandée que l’événement lui-même."
 ---
-
 ![Image de Le Serment du Jeu de paume](https://upload.wikimedia.org/wikipedia/commons/a/a6/Serment_jeu_de_Paume_Tennis_court_oath_20_june_1789.jpg)
 
 ###### Questions

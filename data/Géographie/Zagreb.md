@@ -24,8 +24,9 @@ indice_6 :
   - Abrite le musée des Cœurs Brisés
 questions:
  - Capitale d'Europe, ancienne ville romaine puis slave, j'ai pris mon nom après ma conquête par les Hongrois. Traversée par la Save, je me suis développée à partir des bourgs de Gradec et de Kaptol. Comprenant en mon centre la place Josip-Jelacic, j'abrite l'église Sainte-Catherine et le musée Mimara...
+culture_g_score: 60
+culture_g_justification: "Capitale croate classique pour la géographie européenne, l’histoire yougoslave, le patrimoine et le séisme de 1880."
 ---
-
 ![Image de Zagreb](https://upload.wikimedia.org/wikipedia/commons/c/cc/Hotel_Esplanade%2C_Zagreb%2C_Croacia%2C_2014-04-20%2C_DD_03.JPG)
 
 ![[Carte_Zagreb.png]]

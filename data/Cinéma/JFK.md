@@ -22,8 +22,9 @@ indice_6 :
   - film JFK d'Oliver Stone
 questions:
  - Je raconte l'enquête  menée par un procureur interprété par Kevin Costner. Thriller politique d'Oliver Stone  revenant sur l'assassinat  d'un président en 1963  à Dallas, je suis…
+culture_g_score: 80
+culture_g_justification: "Film important d’Oliver Stone, facilement relié à Kennedy, à l’assassinat de Dallas, aux théories du complot et à Kevin Costner."
 ---
-
 ![Image de JFK](https://upload.wikimedia.org/wikipedia/commons/5/5c/JFK_limousine.png)
 
 ###### Questions

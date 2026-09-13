@@ -20,8 +20,9 @@ indice_6:
   - Jansenisme
 questions:
   - Quel savant et philosophe français du 17e a dit   "Le nez de Cléopâtre, s'il eut été plus court, toute la face "de la Terre aurait changé" ?
+culture_g_score: 100
+culture_g_justification: "Figure majeure des sciences et de la pensée françaises, Pascal permet de répondre à de nombreuses questions sur les mathématiques, la physique, la philosophie et la littérature."
 ---
-
 ![Image de Blaise Pascal](https://upload.wikimedia.org/wikipedia/commons/9/99/Clermont-Ferrand_-_Square_Blaise_Pascal_-_Statue_de_Blaise_Pascal_%28Eug%C3%A8ne_Guillaume%29.jpg)
 
 ###### Questions

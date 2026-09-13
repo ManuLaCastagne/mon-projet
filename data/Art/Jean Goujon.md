@@ -22,8 +22,9 @@ indice_6:
   - Tragiquement disparu en 1572
 questions:
   - A quel sculpteur de la Renaissance né vers 1510 doit-on les nymphe ornant la fontaine des Innocents à Paris ?
+culture_g_score: 47
+culture_g_justification: "Goujon est un sculpteur important de la Renaissance française, surtout identifiable par la fontaine des Innocents et le Louvre."
 ---
-
 ![Image de Jean Goujon](https://upload.wikimedia.org/wikipedia/commons/8/88/Jean_Goujon_Versailles.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - BAFTA
 questions:
  - Quel roman de Yann Moix, porté à l'écran dans un film avec Benoît Poelvoorde, a pour héros un sosie de Claude François?
+culture_g_score: 56
+culture_g_justification: "Comédie française populaire permettant des questions sur Claude François, les sosies et Benoît Poelvoorde, mais d'importance culturelle modérée."
 ---
-
 ![Image de Podium](https://upload.wikimedia.org/wikipedia/commons/a/a4/Sean_Astin_1.jpg)
 
 ###### Questions

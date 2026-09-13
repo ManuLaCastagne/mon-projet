@@ -15,8 +15,9 @@ indice_6 :
   - Utilisée en parfumerie et ornementation
 questions:
  - Quel petit arbre, très présent sur le littoral de la Côte d'Azur, est qualifié d'argenté lorsqu'il porte le nom scientifique d'Acacia dealbata?
+culture_g_score: 64
+culture_g_justification: "Le mimosa est une référence florale bien connue en France, avec des liens aux saisons, à la Côte d'Azur et aux traditions, sans être un marronnier majeur."
 ---
-
 ![Image de Mimosa](https://upload.wikimedia.org/wikipedia/commons/5/51/Mimosa_flowers_01.jpg)
 
 ###### Questions

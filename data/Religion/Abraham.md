@@ -18,9 +18,9 @@ indice_5 :
   - Terre de Canaan
 indice_6 : 
   - Patriarche
+culture_g_score: 100
+culture_g_justification: "Abraham est un patriarche fondamental des trois grandes religions abrahamiques, avec des liens nombreux entre Bible, islam, histoire religieuse et culture."
 ---
-
-
 ![Image de Abraham](https://upload.wikimedia.org/wikipedia/commons/2/25/Dr_Abraham_Verghese_in_2023_06.jpg)
 
 ###### Questions

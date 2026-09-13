@@ -20,8 +20,9 @@ indice_5:
   - années 1970
 indice_6:
   - WhoCares
+culture_g_score: 43
+culture_g_justification: "Projet musical lié à Deep Purple et à plusieurs vedettes du hard rock, mais trop spécifique pour une forte priorité généraliste."
 ---
-
 ![Image de Roger Glover & Guests](https://upload.wikimedia.org/wikipedia/commons/2/27/Love_is_all_in_Brazil.jpg)
 
 

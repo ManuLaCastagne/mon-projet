@@ -20,8 +20,9 @@ indice_5 :
   - onze Oscars
 indice_6 : 
   - péplum
+culture_g_score: 97
+culture_g_justification: "Épopée incontournable, régulièrement questionnée pour ses Oscars, sa course de chars, Charlton Heston et son origine littéraire."
 ---
-
 ![Image de Ben-Hur](https://upload.wikimedia.org/wikipedia/commons/4/44/Strobridge_%26_Co._Lith.-_Ben-Hur_-_Klaw_%26_Erlanger%27s_Stupendous_Production.jpg)
 
 ###### Questions

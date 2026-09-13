@@ -22,10 +22,9 @@ indice_6 :
   - Anjelica Huston
 questions:
  - En 2020, quel film de R.Zemeckis, avec Anne Hathaway dans le rôle d'une sorcière, constitue l'adaptation d'un roman pour enfants de Roald Dahl?
+culture_g_score: 60
+culture_g_justification: "Adaptation connue de Roald Dahl, offrant des questions sur la littérature jeunesse, Zemeckis, Anjelica Huston et la sorcellerie."
 ---
-
-
-
 ![Image de The Witches](https://upload.wikimedia.org/wikipedia/commons/4/4d/Witches_Scale%2C_Oudewater.jpg)
 
 ###### Questions

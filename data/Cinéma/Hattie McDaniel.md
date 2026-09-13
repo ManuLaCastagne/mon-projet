@@ -20,8 +20,9 @@ indice_5:
   - Rôle de Mammy
 indice_6:
   - Hollywood
+culture_g_score: 80
+culture_g_justification: "Actrice liée à un jalon historique majeur des Oscars et à Autant en emporte le vent, avec des enjeux de représentation et de cinéma."
 ---
-
 ![Image de Hattie McDaniel](https://upload.wikimedia.org/wikipedia/commons/3/39/Studio_publicity_Hattie_McDaniel.jpg)
 
 ###### Questions

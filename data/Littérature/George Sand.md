@@ -21,8 +21,9 @@ indice_6:
   - féminisme pionnier
 questions:
   - En 1804, quelle écrivaine a écrit "La petite fadette" ?
+culture_g_score: 92
+culture_g_justification: "Grande figure littéraire française, riche en angles sur le pseudonyme, le féminisme, le romantisme, Chopin et de nombreuses œuvres."
 ---
-
 ![Image de George Sand](https://upload.wikimedia.org/wikipedia/commons/5/54/George_Sand_by_Nadar%2C_1864.jpg)
 
 ###### Questions

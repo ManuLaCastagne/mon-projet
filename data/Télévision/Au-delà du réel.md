@@ -20,8 +20,9 @@ indice_6 :
   - phénomènes paranormaux
 questions:
  - A quelle série américaine associe-t-on cette phrase  "Ce n'est pas une défaillance de votre téléviseur, n'essayez donc pas de régler l'image" ?
+culture_g_score: 64
+culture_g_justification: "Série classique de science-fiction connue par son titre et son lien avec The Twilight Zone, mais moins incontournable que les grandes séries du genre."
 ---
-
 ![Image de Au-delà du réel](https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Outer_Limits_%281963_TV_series%29_logo.svg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Romancier et essayiste
 questions:
  - Qui se déroule dans un collège paramilitaire, qui me valut la notoriété.  Me racontant en partie dans "La Tante Julia et le scribrouillard", prix Nobel en 2010, je suis...
+culture_g_score: 88
+culture_g_justification: "Grand écrivain mondial, utile pour le prix Nobel, le boom latino-américain, la politique péruvienne, la francophonie et de nombreuses œuvres."
 ---
-
 ![Image de Mario Vargas Llosa](https://upload.wikimedia.org/wikipedia/commons/b/bf/Mario_Vargas_Llosa_%28crop_2%29.jpg)
 
 ###### Questions

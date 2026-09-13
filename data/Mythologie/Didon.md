@@ -18,8 +18,9 @@ indice_6 :
   - Enéide
 questions:
  - Quelle princesse phénicienne, est la fondatrice légendaire et première reine de Carthage ?
+culture_g_score: 80
+culture_g_justification: "Figure centrale de l'Énéide, liée à la fondation de Carthage, à Énée et à un épisode tragique très classique."
 ---
-
 ![Image de Didon](https://upload.wikimedia.org/wikipedia/commons/f/ff/%C3%89n%C3%A9e_et_Didon%2C_Gu%C3%A9rin.jpg)
 
 ###### Questions

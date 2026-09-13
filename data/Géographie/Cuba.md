@@ -25,9 +25,9 @@ indice_6:
   - baie des Cochons
 questions:
   - Quel pays des Antilles, dans lequel le base-ball est très populaire, possède l'un des plus beaux palmarès mondiaux dans ce sport?
+culture_g_score: 97
+culture_g_justification: "Pays caribéen incontournable grâce à la révolution, Fidel Castro, la crise des missiles, les relations avec les États-Unis et sa culture."
 ---
-
-
 ![Image de Cuba](https://upload.wikimedia.org/wikipedia/commons/9/92/A_95_year_old_woman_with_her_pet_rooster%2C_Havana%2C_Cuba.jpg)
 
 ![[Carte_Cuba.png]]

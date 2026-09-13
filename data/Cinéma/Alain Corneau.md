@@ -21,8 +21,9 @@ indice_5:
   - Le Cousin
 indice_6:
   - Gérard Depardieu
+culture_g_score: 51
+culture_g_justification: "Réalisateur français estimé et associé à quelques classiques, mais moins fréquent et moins transversal que les figures majeures du cinéma."
 ---
-
 ![Image de Alain Corneau](https://upload.wikimedia.org/wikipedia/commons/0/0b/Alain_Corneau_Cannes_1990.jpg)
 
 ###### Questions

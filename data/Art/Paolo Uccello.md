@@ -19,9 +19,9 @@ indice_5:
   - Florence
 indice_6:
   - Véritable nom Paolo di Dono
+culture_g_score: 64
+culture_g_justification: "Uccello est un peintre classique de la Renaissance, particulièrement rentable pour la perspective, Florence et la Bataille de San Romano."
 ---
-
-
 ![Image de Paolo Uccello](https://upload.wikimedia.org/wikipedia/commons/7/7d/Paolo_Uccello.jpg)
 
 ###### Questions

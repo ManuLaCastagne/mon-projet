@@ -22,8 +22,9 @@ indice_6 :
   - bruit de pluie et tonnerre
 questions:
  - De tonnerre et de pluie, qu'accompagne un clavier électrique. Figurant sur l'album "L.A. Woman"...
+culture_g_score: 64
+culture_g_justification: "Grand classique des Doors et du rock, régulièrement identifiable par Jim Morrison, l'album L.A. Woman et son atmosphère sonore."
 ---
-
 ![Image de Riders on the Storm](https://upload.wikimedia.org/wikipedia/commons/6/6f/Riders-on-the-Storm-Bassostinato.png)
 
 ###### Questions

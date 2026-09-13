@@ -23,8 +23,9 @@ indice_6 :
   - patrimoine mondial de l'UNESCO
 questions:
  - Demeure que fit construire  le cardinal Hippolyte II en 1550, j'ai été dessinée par le Napolitain Pirro Ligorio et décorée dans le style maniériste. D'un aspect extérieur simple, j'ai été agrémentée de jardins somptueux avec des jets d'eau et des fontaines...
+culture_g_score: 68
+culture_g_justification: "Villa et jardins de la Renaissance très importants pour l’histoire des jardins, l’architecture italienne, Tivoli et l’UNESCO."
 ---
-
 ![Image de Villa d'Este](https://upload.wikimedia.org/wikipedia/commons/0/02/Fresco_of_hall_of_Apollo_in_Villa_d%27Este_%28Tivoli%29.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - surnom en raison de sa grande taille de pied
 questions:
  - Reine dont Eugène Oudiné imagina les traits 11 siècles après ma mort en 1683 pour une statue du Jardin du Luxembourg, issue d'une grande famille franque, bénie par le pape lors du sacre de mon époux Pépin le Bref...
+culture_g_score: 52
+culture_g_justification: "Reine franque liée à Pépin le Bref et Charlemagne, surtout retenue pour son surnom légendaire."
 ---
-
 ![Image de Berthe au grand pied](https://upload.wikimedia.org/wikipedia/commons/9/90/Bertrada_Broadfoot_of_Laon_Berthe_au_Grand_Pied_Versailles.jpg)
 
 ###### Questions

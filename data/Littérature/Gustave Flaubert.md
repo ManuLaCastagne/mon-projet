@@ -22,8 +22,9 @@ indice_6 :
   - correspondance avec George Sand
 questions:
  - Vers 1880, dans son "Dictionnaire des idées reçues", quel écrivain français dresse un récapitulatif des bêtises courantes? Qui a écrit ce dictionnaire?
+culture_g_score: 88
+culture_g_justification: "Romancier français incontournable, associé à Madame Bovary, à son procès, au réalisme et à l'évolution de la littérature moderne."
 ---
-
 ![Image de Gustave Flaubert](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gustave_Flaubert.jpg)
 
 ###### Questions

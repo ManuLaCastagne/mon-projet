@@ -18,8 +18,9 @@ indice_5:
   - Jeux Olympiques de Rio 2016
 indice_6:
   - Équipe de France
+culture_g_score: 40
+culture_g_justification: "Cavalier français médaillé olympique, surtout pertinent dans des questions spécialisées sur le saut d’obstacles."
 ---
-
 ![Image de Philippe Rozier](https://upload.wikimedia.org/wikipedia/commons/5/54/Rozier_randgraaf_01.JPG)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - résidence présidentielle russe
 questions:
  - Ensemble architectural entouré par un mur de 2230 m de long et de 20 m de haut, jalonné par 4 portes et 19 tours, j'ai été conçu entre le XIVe et le XVIIe siècle.  Abritant notamment le palais de Menus-Plaisirs, l'édifice du Sénat et le clocher Ivan...
+culture_g_score: 100
+culture_g_justification: "Le Kremlin de Moscou est un symbole mondial du pouvoir russe, exploitable en histoire, politique, architecture, religion et géographie."
 ---
-
 ![Image de Kremlin](https://upload.wikimedia.org/wikipedia/commons/a/ae/Vista_general_del_Kremlin%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_18-19_HDR.jpg)
 
 ###### Questions

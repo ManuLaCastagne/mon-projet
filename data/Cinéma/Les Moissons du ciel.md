@@ -22,8 +22,9 @@ indice_6 :
   - paysages somptueux
 questions:
  - En 1979, dans quel film de Terrence Malick Richard Gere incarne-t-il un ouvrier qui retourne au Texas pour récolter les blés? il revisite notamment la légende, enfin l'histoire de Pocahontas?
+culture_g_score: 67
+culture_g_justification: "Film important de Terrence Malick, régulièrement mobilisable pour Cannes, la photographie, la Grande Dépression et le cinéma américain."
 ---
-
 ![Image de Les Moissons du ciel](https://upload.wikimedia.org/wikipedia/commons/6/62/Malick%2C_Days_of_Heaven.jpg)
 
 ###### Questions

@@ -21,10 +21,9 @@ indice_6 :
 questions:
  - Le 8 janvier 1959 en France, quel homme politique prend officiellement ses fonctions de président de la République?
  - En finale de la Coupe de France de football 1967, dans les bras de quel Président..
+culture_g_score: 100
+culture_g_justification: "Figure incontournable de la France libre, de la Résistance, de la Ve République, de la décolonisation et de la politique internationale."
 ---
-
-
-
 ![Image de Charles de Gaulle](https://upload.wikimedia.org/wikipedia/commons/a/ac/31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg)
 
 ###### Questions

@@ -1,3 +1,8 @@
+---
+culture_g_score: 44
+culture_g_justification: "Petit gâteau à la noix de coco identifiable, mais d'importance et de fréquence modestes dans les quiz."
+---
+
 
 ###### Questions 
 

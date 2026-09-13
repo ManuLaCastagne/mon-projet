@@ -24,8 +24,9 @@ indice_6 :
 questions:
  - Quel portraitiste français d'origine néerlandaise, né en 1877 est l'auteur des tableaux "Femme au chapeau vert" et "Femme à l'éventail"?
  - Quel peintre français, d'origine néerlandaise, a contribué à rapprocher les fauves des expressionnistes allemands?
+culture_g_score: 35
+culture_g_justification: "Kees van Dongen est utile pour le fauvisme et la peinture parisienne, mais demeure une connaissance de niche."
 ---
-
 ![Image de Kees van Dongen](https://upload.wikimedia.org/wikipedia/commons/e/e5/Kees_van_Dongen_1923.jpg)
 
 ###### Questions

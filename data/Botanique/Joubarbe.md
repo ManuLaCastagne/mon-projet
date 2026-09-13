@@ -15,8 +15,9 @@ indice_6:
   - Plante ornementale et médicinale
 questions:
   - Quelle plante dont les rosettes de feuilles ressemblent à de petits artichauts, porte un nom issu du latin signifiant "barbe de Jupiter" ?
+culture_g_score: 32
+culture_g_justification: "Plante résistante connue surtout par son surnom de barbe de Jupiter, ce qui fournit peu de questions généralistes."
 ---
-
 ![Image de Joubarbe](https://upload.wikimedia.org/wikipedia/commons/2/24/Sempervivum_montanum_-_close_up.jpg)
 
 ###### Questions

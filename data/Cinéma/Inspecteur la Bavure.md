@@ -22,8 +22,9 @@ indice_6 :
   - parodie
 questions:
  - En 1980, dans quelle comédie Coluche incarne-t-il un policier maladroit qui se fait manipuler par l'ennemi public No 1?
+culture_g_score: 44
+culture_g_justification: "Comédie française populaire auprès d’un public francophone, mais à la portée culturelle et aux angles limités."
 ---
-
 ![Image de Inspecteur la Bavure](https://upload.wikimedia.org/wikipedia/commons/e/e5/Bulletin_de_la_Soci%C3%A9t%C3%A9_arch%C3%A9ologique%2C_scientifique_et_litt%C3%A9raire_du_Vend%C3%B4mois_%28IA_duvendomois16soci%29.pdf)
 
 ###### Questions

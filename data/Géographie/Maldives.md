@@ -24,8 +24,9 @@ indice_6 :
   - Plongée sous-marine
 questions:
  - Quel archipel corallien de l'océan Indien dont la capitale est Malé...
+culture_g_score: 73
+culture_g_justification: "Archipel très connu pour le tourisme, ses atolls, son altitude menacée par la montée des eaux et sa capitale Malé, avec des angles assez ciblés."
 ---
-
 ![Image de Maldives](https://upload.wikimedia.org/wikipedia/commons/c/ce/Floatplane_at_Bathala_%28Maldives%29.jpg)
 
 ![[Carte_Maldives.png]]

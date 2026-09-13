@@ -24,8 +24,9 @@ indice_6 :
   - peuple touareg
 questions:
  - Quel massif du Sahara culminant à 2918 m abrite la ville algérienne de Tamanrasset ?
+culture_g_score: 44
+culture_g_justification: "Massif saharien important pour la géographie de l’Algérie et Charles de Foucauld, mais relativement spécialisé."
 ---
-
 ![Image de Hoggar](https://upload.wikimedia.org/wikipedia/commons/8/80/Hoggar5.jpg)
 
 ![[Carte_Hoggar.png]]

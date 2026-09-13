@@ -22,8 +22,9 @@ indice_6 :
   - film inachevé
 questions:
  - En 2003, dans quel film Philippe Torreton incarne-t-il l'empereur déchu Napoléon Bonaparte lors de son séjour à Sainte-Hélène?
+culture_g_score: 31
+culture_g_justification: "Œuvre consacrée aux dernières années de Napoléon, mais nettement moins connue et moins rentable que les grandes références napoléoniennes."
 ---
-
 ![Image de Monsieur N](https://upload.wikimedia.org/wikipedia/commons/8/86/Monsieur_Kilogram_card.png)
 
 ###### Questions

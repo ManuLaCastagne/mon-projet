@@ -20,8 +20,9 @@ indice_6 :
   - Préservation des structures anciennes
 questions:
  - Quelle émission des années 60 consistait à sauvegarder les œuvres architecturales par Pierre Delagarde ?
+culture_g_score: 44
+culture_g_justification: "Émission patrimoniale française connue des amateurs d’histoire de la télévision, mais rarement indispensable en quiz généraliste."
 ---
-
 ![Image de Chefs-d'œuvre en péril](https://upload.wikimedia.org/wikipedia/commons/2/2d/Malherbe_-_Chefs_d%E2%80%99%C5%93uvre_lyriques%2C_1909.djvu)
 
 ###### Questions

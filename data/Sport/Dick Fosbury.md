@@ -20,9 +20,9 @@ indice_6 :
   - Innovation athlétisme
 questions:
  - Quel américain fut célèbre pour avoir popularisé l'éponyme saut en rouleu dorsal aux JO de Mexique de 68 ?
+culture_g_score: 80
+culture_g_justification: "Son nom est directement associé à une révolution technique durable de l'athlétisme et à l'or olympique de 1968."
 ---
-
-
 ![Image de Dick Fosbury](https://upload.wikimedia.org/wikipedia/commons/9/97/Dick_Fosbury_1968.jpg)
 
 ###### Questions

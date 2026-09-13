@@ -20,13 +20,15 @@ indice_6 :
   - Nice
 questions:
  - En 2020, lors du grand prix d'Espagne, quel jeune pilote français a remporté sa 1re victoire en MotoGP?
+culture_g_score: 73
+culture_g_justification: "Premier Français champion du monde de MotoGP, Quartararo est une référence récente fréquemment mobilisée dans les quiz de sport automobile."
 ---
 
 ![Image de Fabio Quartararo](https://upload.wikimedia.org/wikipedia/commons/c/c4/Fabio_Quartararo_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg)
 
 ###### Questions
 
-Quel pilote français est devenu champion du monde de [[MotoGP]] pour la première fois en 2021 ?
+Quel pilote français est devenu champion du monde de [[MotoGP]] pour la première fois en 2021 ? <!-- score: 2 -->
 
 Quel coureur a mis fin à la domination de [[Marc Marquez]] en remportant le championnat [[MotoGP]] en 2021 ?
 

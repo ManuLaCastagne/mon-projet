@@ -22,8 +22,9 @@ indice_6 :
   - influences africaines
 questions:
  - Quelle musique de danse brésilienne, dont le rythme est plus rapide que celui de la rumba, est associée au carnaval de Rio?
+culture_g_score: 92
+culture_g_justification: "Danse et genre musical emblématiques du Brésil, ouvrant de nombreuses questions sur le carnaval, l’histoire, la culture et les rythmes."
 ---
-
 ![Image de La Samba](https://upload.wikimedia.org/wikipedia/commons/c/c5/Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Brice_Samba_en_extension.jpg)
 
 ###### Questions

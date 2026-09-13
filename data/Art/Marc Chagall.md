@@ -23,8 +23,9 @@ indice_6:
   - influence de Vitebsk et Paris
 questions:
   - Peintre français d'origine  russe, inspiré par le folklore juif dans les toiles "Moi et le village" ou "Le Violoniste".
+culture_g_score: 91
+culture_g_justification: "Grand artiste du XXe siècle, transversal par la peinture, le judaïsme, le théâtre, les vitraux, Paris, la Russie et l’art public."
 ---
-
 ![Image de Marc Chagall](https://upload.wikimedia.org/wikipedia/commons/c/c0/Yury_Pen_-_Portrait_of_Marc_Chagall.jpg)
 
 ###### Questions

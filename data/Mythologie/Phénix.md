@@ -18,8 +18,9 @@ indice_6 :
   - cycle de vie et de mort
 questions:
  - Animal fabuleux d'origine égyptienne, associé au dieu Rê et à Héliopolis, je vois les empereurs romains reprendre mon mythe.
+culture_g_score: 84
+culture_g_justification: "Symbole universel de renaissance et d’immortalité, le phénix apparaît fréquemment dans les quiz de mythologie, de littérature, d’histoire des symboles et de culture populaire."
 ---
-
 ![Image de Phénix](https://upload.wikimedia.org/wikipedia/commons/e/e1/Ph%C3%A9nix_%C3%A0_neuf_t%C3%AAtes.png)
 
 ###### Questions

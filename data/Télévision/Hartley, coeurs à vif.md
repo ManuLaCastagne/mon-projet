@@ -20,9 +20,9 @@ indice_6 :
   - drames quotidien
 questions:
  - Quelle série australienne créée en 1994 évoque le quotidien de lycéens...
+culture_g_score: 76
+culture_g_justification: "Série adolescente culte en France, associée à l'Australie, au lycée Hartley High, à ses intrigues sociales et à son reboot."
 ---
-
-
 ![Image de Hartley, coeurs à vif](https://upload.wikimedia.org/wikipedia/commons/e/e4/A_French_dramatic_reader_-_selections_from_French_prose_comedies_%28IA_frenchdramaticre00malo%29.pdf)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Kristen Stewart
 questions:
  - En 2014, quel réalisateur réunit Kristen Stewart et Juliette Binoche pour son film "Sils Maria"?
+culture_g_score: 55
+culture_g_justification: "Réalisateur français reconnu par le cinéma d’auteur, les Cahiers du cinéma et quelques collaborations prestigieuses, mais peu présent dans les quiz grand public."
 ---
-
 ![Image de Olivier Assayas](https://upload.wikimedia.org/wikipedia/commons/4/4c/Viennale_2010.10.30_Olivier_Assayas.jpg)
 
 ###### Questions

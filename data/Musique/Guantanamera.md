@@ -22,8 +22,9 @@ indice_6 :
   - paroles poétiques
 questions:
  - Reprise dans les années 60 par Joe Dassin et Nana Mouskouri, mon titre peut être traduit par fille de Guantanamo...
+culture_g_score: 80
+culture_g_justification: "Chanson cubaine mondialement reprise, Guantanamera relie musique, littérature, histoire cubaine et culture populaire."
 ---
-
 ![Image de Guantanamera](https://upload.wikimedia.org/wikipedia/commons/2/25/Jose%C3%ADto_Fern%C3%A1ndez.jpg)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Honfleur
 questions:
  - Ayant raconté mon expérience de la guerre dans le livre "Béret vert", j'avais persuadé mes supérieurs de créer une unité de fusiliers marins dont j'avais pris le commandement. Officier dont le commando de Français ayant  débarqué parmi les premiers le 6 juin 1944 en Normandie...
+culture_g_score: 64
+culture_g_justification: "Héros français du Débarquement, régulièrement associé aux commandos Kieffer et à la participation française à la Libération."
 ---
-
 ![Image de Philippe Kieffer](https://upload.wikimedia.org/wikipedia/commons/8/8e/Kieffer_philippe.jpg)
 
 ###### Questions

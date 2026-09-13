@@ -22,8 +22,9 @@ indice_6 :
   - Université d'Assas
 questions:
  - La chanson, c'est "Facile", sortie en 2020, il n'y a pas très longtemps. En 2018, pour quel film d'Yvan Attal dans lequel Camélia Jordana incarne une étudiante en droit préparant un concours d'éloquence, Camélia Jordana a-t-elle reçu le César du meilleur espoir féminin?
+culture_g_score: 44
+culture_g_justification: "Film français récent connu pour Camélia Jordana et son concours d’éloquence, mais aux possibilités de questions assez limitées."
 ---
-
 ![Image de Le Brio](https://upload.wikimedia.org/wikipedia/commons/d/df/From_the_trailer_of_the_film_%22Le_Brio%22_%28Y._Attal%2C_2017%29.jpg)
 
 ###### Questions

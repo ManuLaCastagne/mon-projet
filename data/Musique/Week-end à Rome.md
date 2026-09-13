@@ -22,8 +22,9 @@ indice_6 :
   - Dolce Vita
 questions:
  - Qui apparaît en serveuse dans mon clip.  Evoquant "la douceur de vivre" et l'envie de "coincer la bulle dans ta bulle", je figure...
+culture_g_score: 53
+culture_g_justification: "Chanson importante d’Étienne Daho et de la pop française, mais limitée à quelques repères musicaux et générationnels."
 ---
-
 ![Image de Week-end à Rome](https://upload.wikimedia.org/wikipedia/commons/e/e7/The_comic_history_of_Rome_%28IA_comichistoryofro00berich%29.pdf)
 
 ###### Questions

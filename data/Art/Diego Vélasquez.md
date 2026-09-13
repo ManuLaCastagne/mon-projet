@@ -21,8 +21,9 @@ indice_5:
   - autodidacte de Séville
 indice_6:
   - portraits royaux
+culture_g_score: 88
+culture_g_justification: "Vélasquez, auteur des Ménines et peintre de la cour de Philippe IV, est une figure majeure de la peinture européenne régulièrement questionnée."
 ---
-
 ![Image de Diego Vélasquez](https://upload.wikimedia.org/wikipedia/commons/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Compagnon de loisir
 questions:
  - Résistant et rustique, doté en général d'un bon caractère, on reconnaît en France 13 de mes races, dont le landais, le mérens et le pottok. Animal...
+culture_g_score: 64
+culture_g_justification: "Équidé très familier, relié à plusieurs races, à l’histoire équestre et à l’expérience de Muybridge."
 ---
-
 ![Image de Poney](https://upload.wikimedia.org/wikipedia/commons/e/e6/IcelandicHorseInWinter.jpg)
 
 ###### Questions
