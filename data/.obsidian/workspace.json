@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vocabulaire/Apartheid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de Apartheid"
             }
           },
           {
@@ -188,14 +189,14 @@
             "id": "ba4d54f4a77e7b4b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "data/Vocabulaire/Apartheid.md",
-                "bFile": "data/Vocabulaire/Apartheid.md",
-                "aRef": ""
+                "file": "Vocabulaire/Apartheid.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Apartheid"
+              "icon": "lucide-file",
+              "title": "Apartheid"
             }
           }
         ],

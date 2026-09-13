@@ -23,10 +23,6 @@ culture_g_justification: "L’apartheid est un événement et un système politi
 
 Quelle politique mise en œuvre par le [[National Party]] en [[Afrique du Sud]] a instauré une séparation stricte des races entre 1948 et 1994 ?
 
-Quel système de gouvernance sud-africain a été dénoncé par des sanctions internationales pour sa politique de ségrégation raciale ?
-
-Quelle période historique a pris fin en 1994 avec l'élection de [[Nelson Mandela]] à la présidence de [[l'Afrique du Sud]] ?
-
 ###### Description
 
 Le mot "Apartheid" désigne un système de ségrégation raciale institutionnalisée qui a été en vigueur en [[Afrique du Sud]] de 1948 jusqu’au début des années 1990. 
