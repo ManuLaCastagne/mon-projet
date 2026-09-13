@@ -20,8 +20,9 @@ indice_6 :
   - pouvoir politique contesté
 questions:
  - Sous quel nom connaît-on également le maréchal d'Ancre, aventurier et homme politique italien proche de Marie de Médicis durant la Régence?
+culture_g_score: 40
+culture_g_justification: "Favori de Marie de Médicis utile pour la cour de Louis XIII, mais personnage secondaire et peu transversal des quiz historiques."
 ---
-
 ![Image de Concini](https://upload.wikimedia.org/wikipedia/commons/8/8c/Concino-Concini.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - professeur au Collège de France
 questions:
  - Quel poète français disparu en 2016, auteur du recueil "Dans le leurre du seuil", a été professeur au Collège de France de 1981 à 1993?
+culture_g_score: 36
+culture_g_justification: "Poète français reconnu par les spécialistes et les prix littéraires, mais peu fréquent dans les quiz généralistes et difficilement transversal."
 ---
-
 ![Image de Yves Bonnefoy](https://upload.wikimedia.org/wikipedia/commons/2/26/Yves_Bonnefoy_%28cropped%29.jpg)
 
 ###### Questions

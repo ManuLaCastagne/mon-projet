@@ -14,8 +14,9 @@ indice_5 :
   - Procédure
 indice_6 : 
   - Tribunal
+culture_g_score: 57
+culture_g_justification: "Vocabulaire juridique français utile pour les institutions et les procédures, mais peu transversal hors du droit."
 ---
-
 ![Image de Saisine](https://upload.wikimedia.org/wikipedia/commons/3/32/Saisine%2C_chapelle_Notre-Dame_de_la_Saisinne2.JPG)
 
 ###### Questions

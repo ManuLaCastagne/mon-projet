@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de force et de défense
 questions:
  - Quel dinosaure herbivore du crétacé doit son nom au fait qu'il possède trois cornes ?
+culture_g_score: 81
+culture_g_justification: "Dinosaure mondialement emblématique, fréquemment associé à ses trois cornes, au Crétacé et au Tyrannosaure."
 ---
-
 ![Image de Tricératops](https://upload.wikimedia.org/wikipedia/commons/2/26/TriceratopsFernForest.jpg)
 
 ###### Questions

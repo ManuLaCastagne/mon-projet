@@ -22,8 +22,9 @@ indice_6 :
   - Philippe Bouchard
 questions:
  - Dans quel film français M. Preskovic débarque-t-il chez ses voisins, bénévoles d'une association, pour leur offrir...
+culture_g_score: 93
+culture_g_justification: "Comédie culte du répertoire français, riche en répliques, acteurs, troupe du Splendid et références populaires."
 ---
-
 ![Image de Le Père Noël est une ordure](https://upload.wikimedia.org/wikipedia/commons/5/5d/Le_p%C3%A8re_no%C3%ABl_est_une_ordure.webp)
 
 ###### Questions

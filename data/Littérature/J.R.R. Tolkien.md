@@ -18,8 +18,9 @@ indice_5 :
   - Sauron
 indice_6 : 
   - L'Anneau Unique
+culture_g_score: 100
+culture_g_justification: "Tolkien est un incontournable mondial de la littérature et de la fantasy, avec de multiples liens à la mythologie, aux langues, au cinéma et à la culture populaire."
 ---
-
 ![Image de J.R.R. Tolkien](https://upload.wikimedia.org/wikipedia/commons/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg)
 
 ###### Questions

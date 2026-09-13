@@ -23,8 +23,9 @@ indice_6 :
   - Famille Contarini
 questions:
  - Qui surplombe le Grand Canal, dans le quartier du Canareggio. Palais vénitien devant mon nom, signifiant maison d'or...
+culture_g_score: 44
+culture_g_justification: "Palais vénitien important pour le gothique et la Renaissance, mais nettement moins incontournable que les grands monuments de Venise."
 ---
-
 ![Image de Ca d'Oro](https://upload.wikimedia.org/wikipedia/commons/7/74/Ca%27_d%27Oro_facciata.jpg)
 
 ###### Questions

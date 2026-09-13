@@ -23,8 +23,9 @@ indice_6 :
   - posture dramatique
 questions:
  - Quelle danse de bal d'origine espagnole, à la mode dans les années 30 en Europe, est caractérisée par des postures inspirées de la corrida?
+culture_g_score: 64
+culture_g_justification: "Danse emblématique associée à la corrida et aux compétitions de salon, le paso doble est régulièrement mobilisable mais sur un nombre d’angles limité."
 ---
-
 ![Image de Paso doble](https://upload.wikimedia.org/wikipedia/commons/2/2f/Paso_Doble_Sivak_Raczova_0991.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Anvil-shaped cloud
 questions:
  - Type de nuage  pouvant être dit "calvus" ou "capillatus incus", dans ce dernier cas je présente une forme d'enclume caractéristique.  Résultant de forts courants verticaux, on me rencontre de manière isolée  ou en ligne de grains plus ou moins continues.
+culture_g_score: 64
+culture_g_justification: "Nuage associé aux orages et à la météorologie générale, assez quizable mais limité à quelques angles proches."
 ---
-
 ![Image de Cumulonimbus](https://upload.wikimedia.org/wikipedia/commons/a/a7/Cumulonimbus_sunset_panorama%2C_Albury_NSW_Australia.jpg)
 
 ###### Questions

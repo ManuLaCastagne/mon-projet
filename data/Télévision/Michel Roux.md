@@ -18,8 +18,9 @@ indice_5:
   - duo avec Gérard Rinaldi
 indice_6:
   - Café-théâtre des années 1970
+culture_g_score: 60
+culture_g_justification: "Acteur et doubleur français important, exploitable via le théâtre, le doublage et la télévision, mais rarement incontournable."
 ---
-
 ![Image de Michel Roux](https://upload.wikimedia.org/wikipedia/commons/1/15/Michel_Roux.jpg)
 
 ###### Questions

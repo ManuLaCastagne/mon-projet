@@ -22,8 +22,9 @@ indice_6:
   - Gestural painting
 questions:
   - Membre de l'Ecole de New York, je suis l'un des initiateurs de l'expressionisme abstrait, auteur notamment des oeuvres "Red Man with Moustache" et de la série "Woman (peinture)" à partir de 1950.
+culture_g_score: 55
+culture_g_justification: "Peintre majeur de l'expressionnisme abstrait, mais surtout utile dans des questions spécialisées sur l'art américain du XXe siècle."
 ---
-
 ![Image de Willem De Kooning](https://upload.wikimedia.org/wikipedia/commons/0/09/Willem_de_Kooning_in_his_studio.jpg)
 
 ###### Questions

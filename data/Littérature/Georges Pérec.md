@@ -22,8 +22,9 @@ indice_6 :
   - écrivain français
 questions:
  - En 1978, quel écrivain n'obtient qu'une voix pour "La vie mode d'emploi" face à Patrick Modiano pour le Goncourt ?
+culture_g_score: 67
+culture_g_justification: "Perec est un auteur significatif de l’Oulipo, particulièrement utile pour des questions sur les contraintes littéraires et plusieurs œuvres célèbres."
 ---
-
 ![Image de Georges Pérec](https://upload.wikimedia.org/wikipedia/commons/7/76/Myart_georges-perec_1978.jpg)
 
 ###### Questions

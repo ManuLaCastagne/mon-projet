@@ -24,8 +24,9 @@ indice_6:
   - Cristallerie d'Arques
 questions:
   - Depuis 1825, quelle commune  du Pas-de-Calais, avoisinant Saint-Omer...
+culture_g_score: 31
+culture_g_justification: "Commune du Pas-de-Calais surtout connue pour sa verrerie et quelques repères locaux, donc peu rentable nationalement."
 ---
-
 ![Image de Arques](https://upload.wikimedia.org/wikipedia/commons/5/5d/Arques-la-Bataille_stadhuis.jpg)
 
 ![[Carte_Arques.png]]

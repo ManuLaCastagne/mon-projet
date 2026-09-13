@@ -20,9 +20,9 @@ indice_6 :
   - conseil d'État
 questions:
  - De 2007 à 2009, quelle femme politique française, prénommée Christine, a occupé la fonction de ministre de la Culture et de la Communication?
+culture_g_score: 40
+culture_g_justification: "Ancienne ministre surtout associée à la loi Hadopi, ce qui limite son intérêt à quelques questions de politique culturelle française."
 ---
-
-
 ![Image de Christine Albanel](https://upload.wikimedia.org/wikipedia/commons/c/ce/Christine_Albanel%2C_2007.jpg)
 
 ###### Questions

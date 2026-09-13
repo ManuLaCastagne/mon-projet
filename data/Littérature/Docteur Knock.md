@@ -22,9 +22,9 @@ indice_6 :
   - 1923
 questions:
  - En 1923, à quelle comédie de Jules Romain a pour sous-titre "Le Triomphe de la médecine" ?
+culture_g_score: 77
+culture_g_justification: "Docteur Knock est une pièce très identifiable du théâtre français, liée à Jules Romains, à Louis Jouvet et à une formule célèbre."
 ---
-
-
 ![Image de Docteur Knock](https://upload.wikimedia.org/wikipedia/commons/a/ad/Knock-Out-OriginalIMG_3830_Edit.jpg)
 
 ###### Questions

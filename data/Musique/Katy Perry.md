@@ -22,9 +22,9 @@ indice_6 :
   - Firework
 questions:
  - Chanteuse américaine qui apparaît à côté du Pokémon Pikachu dans un clip sorti en mai dernier,  fille d'un couple de pasteurs pentecôtistes, je débute en chantant du gospel.
+culture_g_score: 64
+culture_g_justification: "Star mondiale de la pop, régulièrement associée à Firework, Teenage Dream et ses records, mais moins structurante que les très grands monuments de la musique."
 ---
-
-
 ![Image de Katy Perry](https://upload.wikimedia.org/wikipedia/commons/3/37/Katy_Perry_DNC_July_2016_%28cropped3%29_restored.jpg)
 
 ###### Questions

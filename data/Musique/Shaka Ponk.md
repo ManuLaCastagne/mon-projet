@@ -22,8 +22,9 @@ indice_6 :
   - Goz le singe virtuel
 questions:
  - Je comprends 7 membres dont Goz, singe en images  de synthèse. Reprenant en 2020 mes tubes, "Wanna get free", "My name is Stain",  dans une compilation ?
+culture_g_score: 40
+culture_g_justification: "Groupe français contemporain identifiable par son mélange musical et ses spectacles, mais encore peu incontournable dans les quiz généralistes."
 ---
-
 ![Image de Shaka Ponk](https://upload.wikimedia.org/wikipedia/commons/2/2e/Shaka_Ponk_-_F%C3%AAte_de_l%27Humanit%C3%A9_2012_-_022.jpg)
 
 ###### Questions

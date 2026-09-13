@@ -23,8 +23,9 @@ indice_6 :
   - Pluie soudaine sur le pont Shin-Ohashi
 questions:
  - En 1857, quel artiste japonais réalise cette estampe, "Jardin ouvert au sanctuaire Fukagawa Hachiman", figurant dans la série "Cent vues célèbres d'Edo" ?
+culture_g_score: 80
+culture_g_justification: "Grand maître de l'ukiyo-e, utile pour relier art japonais, estampes, paysages et influence sur l'impressionnisme."
 ---
-
 ![Image de Hiroshige](https://upload.wikimedia.org/wikipedia/commons/f/f1/Memorial_Portrait_of_Hiroshige%2C_by_Kunisada.jpg)
 
 ###### Questions

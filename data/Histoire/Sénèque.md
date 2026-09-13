@@ -20,8 +20,9 @@ indice_6 :
   - tragédies écrites en latin
 questions:
  - Précepteur de Néron, qui fut exilé en Corse…
+culture_g_score: 80
+culture_g_justification: "Figure majeure du stoïcisme et de la Rome impériale, exploitable en philosophie, littérature, politique et histoire de Néron."
 ---
-
 ![Image de Sénèque](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Death_of_Seneca_%28La_mort_de_S%C3%A9n%C3%A8que%29_-_Pierre_Peyron.jpg)
 
 ###### Questions

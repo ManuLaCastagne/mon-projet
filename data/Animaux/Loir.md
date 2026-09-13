@@ -15,10 +15,9 @@ indice_6 :
   - Symbole de sommeil
 questions:
  - Parfois dans les granges et les cabanes de jardin. Reconnaissable à ma queue touffue, mes grands yeux noirs et mon pelage gris, j'accumule d'importantes réserves de graisse...
+culture_g_score: 44
+culture_g_justification: "Rongeur associé à l’hibernation et à quelques références littéraires, mais d’importance générale limitée."
 ---
-
-
-
 ![Image de Loir](https://upload.wikimedia.org/wikipedia/commons/3/37/Loir_%28rivi%C3%A8re%29.png)
 
 ###### Questions

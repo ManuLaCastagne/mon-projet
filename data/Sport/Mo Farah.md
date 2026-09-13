@@ -20,8 +20,9 @@ indice_6 :
   - Distance longue
 questions:
  - En 2011 à Paris, quel athlète britannique d'origine somalienne est sacré champion d'Europe en salle du 3 000m masculin ?
+culture_g_score: 68
+culture_g_justification: "Champion olympique britannique emblématique, surtout mobilisé dans les questions d’athlétisme et de records."
 ---
-
 ![Image de Mo Farah](https://upload.wikimedia.org/wikipedia/commons/5/5e/Mo_Farah_%28cropped%29.jpg)
 
 ###### Questions

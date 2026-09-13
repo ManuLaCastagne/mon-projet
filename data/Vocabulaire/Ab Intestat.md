@@ -14,8 +14,9 @@ indice_5 :
   - Partage des biens
 indice_6 : 
   - Ordre des héritiers
+culture_g_score: 45
+culture_g_justification: "Locution juridique latine utile pour le vocabulaire du droit des successions, mais limitée à un domaine précis."
 ---
-
 ![Image de Ab Intestat](https://upload.wikimedia.org/wikipedia/commons/6/64/1922_Index_of_Great_Trigonometrical_Survey_of_India.jpg)
 
 ###### Questions

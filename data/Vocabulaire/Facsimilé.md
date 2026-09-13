@@ -14,8 +14,9 @@ indice_5 :
   - Imitation
 indice_6 : 
   - Scanneur
+culture_g_score: 68
+culture_g_justification: "Mot utile pour la reproduction des œuvres, l’édition et les anciennes communications, avec plusieurs emplois indépendants."
 ---
-
 ![Image de Facsimilé](https://upload.wikimedia.org/wikipedia/commons/c/c3/SHARP_Fax_UX-D63CL.jpg)
 
 ###### Questions

@@ -14,8 +14,9 @@ indice_5 :
   - similaire à l'organza
 indice_6 : 
   - France du XIXe siècle
+culture_g_score: 43
+culture_g_justification: "Textile léger présent dans le théâtre, la danse et la restauration d'art, mais relativement peu fréquent dans les quiz."
 ---
-
 ![Image de Tarlatane](https://upload.wikimedia.org/wikipedia/commons/7/7c/Tela_tarlatana.jpg)
 
 ###### Questions

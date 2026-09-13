@@ -23,8 +23,9 @@ indice_6 :
   - Fonctionnement souterrain
 questions:
  - A quel ingénieur français né en 1852 et prénommé Fulgence poursuivit à partir de 1886 les travaux d'aménagements de la capitale lancés sous le baron Haussmann ?
+culture_g_score: 44
+culture_g_justification: "Ingénieur lié à la création du métro parisien, mais dont la notoriété reste surtout nationale et spécialisée."
 ---
-
 ![Image de Fulgence Bienvenüe](https://upload.wikimedia.org/wikipedia/commons/8/8d/Bienvenue.jpg)
 
 ###### Questions

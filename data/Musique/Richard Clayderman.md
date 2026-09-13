@@ -23,8 +23,9 @@ indice_6 :
   - Albums multiples
 questions:
  - Depuis 1977, quel pianiste français a vendu plus de 22 millions  d'exemplaires de sa "Ballade pour Adeline" ?
+culture_g_score: 44
+culture_g_justification: "Pianiste connu internationalement pour Ballade pour Adeline, mais dont les usages en quiz restent concentrés sur ce succès."
 ---
-
 ![Image de Richard Clayderman](https://upload.wikimedia.org/wikipedia/commons/c/c9/Richard_Clayderman.jpg)
 
 ###### Questions

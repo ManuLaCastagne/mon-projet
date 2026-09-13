@@ -19,8 +19,9 @@ indice_5 :
   - danseurs professionnels
 indice_6 : 
   - prime time
+culture_g_score: 69
+culture_g_justification: "Format très populaire et régulièrement interrogé à travers ses participants, ses animateurs, ses danseurs et ses adaptations."
 ---
-
 ![Image de Danse avec les stars](https://upload.wikimedia.org/wikipedia/commons/4/40/Danse_avec_les_stars_08_02_14_Galaxie.jpg)
 
 ###### Questions

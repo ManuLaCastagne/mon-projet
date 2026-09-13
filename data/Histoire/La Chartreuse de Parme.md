@@ -20,9 +20,9 @@ indice_6 :
   - romantisme
 questions:
  - Dans quel roman de Stendhal le héros, Fabrice del Dongo...
+culture_g_score: 64
+culture_g_justification: "Roman important de Stendhal, régulièrement cité en littérature française mais moins transversal qu’un très grand classique canonique."
 ---
-
-
 ![Image de La Chartreuse de Parme](https://upload.wikimedia.org/wikipedia/commons/1/11/Chartreuse_de_Parme_1883_-_Valentin_Foulquier_-_149.jpg)
 
 ###### Questions

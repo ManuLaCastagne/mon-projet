@@ -21,12 +21,9 @@ indice_5:
   - célèbre pour son vin
 indice_6:
   - région viticole des Côtes de Nuits
+culture_g_score: 80
+culture_g_justification: "Ville française très exploitable grâce aux ducs de Bourgogne, à la moutarde, au patrimoine et au circuit automobile."
 ---
-
-
-
-
-
 ![Image de Dijon](https://upload.wikimedia.org/wikipedia/commons/3/31/Cath%C3%A9drale_de_Dijon_-_nef.jpg)
 
 ![[Carte_Dijon.png]]

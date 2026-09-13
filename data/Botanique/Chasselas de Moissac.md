@@ -13,8 +13,9 @@ indice_5:
   - Chasselas doré
 indice_6:
   - Consommé en raisin de table ou pour sa production de vin blanc
+culture_g_score: 31
+culture_g_justification: "Appellation viticole et agricole régionale, le Chasselas de Moissac offre peu d’usages dans une culture générale large."
 ---
-
 ![Image de Chasselas de Moissac](https://upload.wikimedia.org/wikipedia/commons/c/cc/Chasselas_B.JPG)
 
 ###### Questions

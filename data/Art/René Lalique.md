@@ -23,8 +23,9 @@ indice_6 :
   - joaillier de l'École de Nancy
 questions:
  - En 1920, quel joaillier français se consacre à la production d'objets en cristal moulé comme des flacons de parfum ?
+culture_g_score: 72
+culture_g_justification: "Lalique relie joaillerie, verrerie, parfumerie, Art nouveau et design, ce qui le rend très rentable malgré une fréquence moindre que celle des grands peintres."
 ---
-
 ![Image de René Lalique](https://upload.wikimedia.org/wikipedia/commons/d/d3/Ren%C3%A9_Lalique_01.jpg)
 
 ###### Questions

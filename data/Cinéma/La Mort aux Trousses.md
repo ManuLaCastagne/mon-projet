@@ -22,8 +22,9 @@ indice_6 :
   - avion poursuivant
 questions:
  - En 1959, dans quel film d'A.Hitchcock, Cary Grant recontre-t-il Eva Marie Saint dans un train allant vers Chicago?
+culture_g_score: 97
+culture_g_justification: "Chef-d'œuvre universel d'Hitchcock, associé à Cary Grant, à une scène culte et à de nombreux repères du cinéma classique."
 ---
-
 ![Image de Mort aux Trousses](https://upload.wikimedia.org/wikipedia/commons/d/d9/Nxnwsign.jpg)
 
 ###### Questions

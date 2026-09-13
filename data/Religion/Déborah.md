@@ -20,9 +20,9 @@ indice_6 :
   - Lapidoth
 questions:
  - Quel prénom de l'Ancien Testament venant de l'hébreu signifiant "abeille" est porté par une actrice belge à l'affiche du film "Populaire" ?
+culture_g_score: 71
+culture_g_justification: "Figure biblique importante et unique juge femme, utile pour les Juges, la prophétie et la victoire contre Sisera."
 ---
-
-
 ![Image de Déborah](https://upload.wikimedia.org/wikipedia/commons/1/15/D%C3%A9borah_Alexandra_Acevedo_Fiallo.jpg)
 
 ###### Questions

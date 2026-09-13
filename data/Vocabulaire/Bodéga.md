@@ -14,8 +14,9 @@ indice_5 :
   - Danse traditionnelle
 indice_6 : 
   - Tapas
+culture_g_score: 60
+culture_g_justification: "Mot culturellement identifiable grâce aux commerces new-yorkais et au monde hispanique, mais d’importance générale limitée."
 ---
-
 ![Image de Bodéga](https://upload.wikimedia.org/wikipedia/commons/a/af/Saint_Teresa_of_Avila_Church%2C_Bodega_%282023%29-L1003432.jpg)
 
 ###### Questions

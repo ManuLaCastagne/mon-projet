@@ -20,8 +20,9 @@ indice_5:
   - Palme d'honneur 2005
 indice_6:
   - icône du cinéma français
+culture_g_score: 84
+culture_g_justification: "Icône internationale du cinéma français, reliée à de nombreux classiques, réalisateurs, rôles et récompenses."
 ---
-
 ![Image de Catherine Deneuve](https://upload.wikimedia.org/wikipedia/commons/9/9c/Dahlia_%27Catherine-Deneuve%27_01.JPG)
 
 ###### Questions

@@ -16,9 +16,9 @@ indice_5:
   - nature sauvage
 indice_6:
   - lune
+culture_g_score: 92
+culture_g_justification: "Grande déesse grecque, très fréquente grâce à ses attributs, ses mythes, sa famille divine, son équivalent romain et ses cultes."
 ---
-
-
 ![Image de Artémis](https://upload.wikimedia.org/wikipedia/commons/9/9d/Marcantonio_Franceschini_002.jpg)
 
 ###### Questions

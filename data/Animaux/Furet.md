@@ -15,10 +15,9 @@ indice_6 :
   - Mascotte de chercheur de trésor
 questions:
  - Quel mammifère carnivore, très proche du putois, se classait en 2020 à la 3e place des animaux de compagnie préférés des Français...
+culture_g_score: 47
+culture_g_justification: "Animal domestique assez connu, susceptible de questions sur les mustélidés, la chasse ou l'expérimentation, sans être incontournable."
 ---
-
-
-
 ![Image de Furet](https://upload.wikimedia.org/wikipedia/commons/e/e8/Chemin_Fran%C3%A7ois_Furet_-_panoramio.jpg)
 
 ###### Questions

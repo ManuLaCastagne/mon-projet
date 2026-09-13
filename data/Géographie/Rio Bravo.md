@@ -22,8 +22,9 @@ indice_6 :
   - frontière américano-mexicaine
 questions:
  - Quel nom les Mexicains donnent-ils au Rio Grande qui leur sert de frontière ?
+culture_g_score: 60
+culture_g_justification: "Grand fleuve frontalier utile pour la géographie des États-Unis et du Mexique, avec des prolongements historiques et culturels."
 ---
-
 ![Image de Rio Bravo](https://upload.wikimedia.org/wikipedia/commons/c/c0/Rio_Grande_river_Laredo.jpg)
 
 ![[Carte_Rio Bravo.png]]

@@ -18,8 +18,9 @@ indice_5 :
   - participe à des téléfilms français
 indice_6 : 
   - a joué dans des adaptations télévisées de pièces de théâtre
+culture_g_score: 63
+culture_g_justification: "Acteur important du théâtre et du cinéma français, avec une carrière variée mais une fréquence de quiz modérée."
 ---
-
 ![Image de Francis Huster](https://upload.wikimedia.org/wikipedia/commons/9/9b/Salon_du_livre_de_Paris_2011_-_Francis_Huster_-_002.jpg)
 
 ###### Questions

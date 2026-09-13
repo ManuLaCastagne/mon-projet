@@ -20,8 +20,9 @@ indice_6 :
   - Central Perk
 questions:
  - Dans "Friends", quelle actrice incarne Rachel ?
+culture_g_score: 93
+culture_g_justification: "Actrice mondialement identifiée à Rachel de Friends, avec de nombreuses connexions à la télévision, aux récompenses et à la culture populaire."
 ---
-
 ![Image de Jennifer Aniston](https://upload.wikimedia.org/wikipedia/commons/1/16/JenniferAnistonHWoFFeb2012.jpg)
 
 ###### Questions

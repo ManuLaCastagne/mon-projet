@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour faire des balais
 questions:
  - Quel arbuste aussi appelé "cytise" donne des rameaux verdâtres peu feuillus pourvus de fleurs jaunes ?
+culture_g_score: 32
+culture_g_justification: "Arbuste courant associé à ses fleurs jaunes et aux balais, le genêt reste une connaissance botanique peu prioritaire."
 ---
-
 ![Image de Genêt](https://upload.wikimedia.org/wikipedia/commons/e/e3/JeanGenet-HansKoechler1983-cropped.jpg)
 
 ###### Questions

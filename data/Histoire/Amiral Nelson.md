@@ -20,8 +20,9 @@ indice_6 :
   - victoire contre Napoléon
 questions:
  - Qui a remporté Histoire/Trafalgar face à Napoléon ?
+culture_g_score: 97
+culture_g_justification: "Héros naval britannique incontournable, associé à Trafalgar, aux guerres napoléoniennes et à l'histoire maritime mondiale."
 ---
-
 ![Image de Amiral Nelson](https://upload.wikimedia.org/wikipedia/commons/7/72/HoratioNelson1.jpg)
 
 ###### Questions

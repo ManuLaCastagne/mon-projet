@@ -20,8 +20,9 @@ indice_6 :
   - Danse contemporaine
 questions:
  - En 1992, à quel danseur et chorégraphe français a-t-on confié la mise en scène de la cérémonie des JO ?
+culture_g_score: 51
+culture_g_justification: "Chorégraphe reconnu notamment pour Albertville 1992, mais sa présence en culture générale reste liée à quelques références artistiques."
 ---
-
 ![Image de Philippe Decouflé](https://upload.wikimedia.org/wikipedia/commons/7/76/DECOUFLE_Philippe-24x30-2006b.jpg)
 
 ###### Questions

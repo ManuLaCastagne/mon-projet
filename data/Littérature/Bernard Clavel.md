@@ -23,8 +23,9 @@ indice_6:
   - Romaine et Jory
 questions:
   - En 1968, quel écrivain français né le 29 mai 1923 reçoit le prix Goncourt pour son roman "Les Fruits de l'hiver"?
+culture_g_score: 40
+culture_g_justification: "Lauréat du Goncourt identifiable par une question littéraire classique, mais écrivain relativement périphérique dans la culture générale."
 ---
-
 ![Image de Bernard Clavel](https://upload.wikimedia.org/wikipedia/commons/9/95/Bernard_Clavel-FIG_1999_%283%29.jpg)
 
 ###### Questions

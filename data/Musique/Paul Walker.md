@@ -22,8 +22,9 @@ indice_6 :
   - hommage
 questions:
  - Juste après sa disparition en 2013, à quel acteur américain, ayant tourné dans "Fast and Furious", le rappeur RZA a-t-il dédié la chanson "Destiny Bends"?
+culture_g_score: 60
+culture_g_justification: "Acteur mondialement connu grâce à Fast and Furious et à sa mort prématurée, mais d’importance culturelle relativement limitée."
 ---
-
 ![Image de Paul Walker](https://upload.wikimedia.org/wikipedia/commons/9/91/PaulWalkerEdit-1.jpg)
 
 ###### Questions

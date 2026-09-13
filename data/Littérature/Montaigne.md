@@ -22,8 +22,9 @@ indice_6 :
   - Renaissance
 questions:
  - Dans son château de Dordogne, quel écrivain du XVIe siècle a aménagé sa bibliothèque en haut d'une tour accessible...
+culture_g_score: 89
+culture_g_justification: "Figure fondamentale de la littérature et de la pensée françaises, fréquemment liée aux Essais, à la Renaissance, à l’humanisme et à Bordeaux."
 ---
-
 ![Image de Montaigne](https://upload.wikimedia.org/wikipedia/commons/d/db/Lettre_de_Montaigne_au_mar%C3%A9chal_de_Matignon%2C_26_janvier_1585.jpg)
 
 ###### Questions

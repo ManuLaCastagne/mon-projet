@@ -14,8 +14,9 @@ indice_5 :
   - Equatorial Winds
 indice_6 : 
   - Oceanic Calm
+culture_g_score: 56
+culture_g_justification: "Terme utile en géographie maritime et parfois en économie, mais son emploi reste moins courant dans les quiz francophones."
 ---
-
 ![Image de Doldrums](https://upload.wikimedia.org/wikipedia/commons/d/d7/ITCZ_january-july.png)
 
 ###### Questions

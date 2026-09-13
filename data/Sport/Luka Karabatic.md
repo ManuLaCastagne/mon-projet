@@ -20,8 +20,9 @@ indice_6 :
   - Nikola Karabatic
 questions:
  - Pratiqué par mon père au niveau international.  Doté d'un physique me permettant d'être l'un des pivots de handball les plus efficaces en défense...
+culture_g_score: 44
+culture_g_justification: "Handballeur français surtout connu par son club, sa famille et une affaire de paris, avec une portée générale limitée."
 ---
-
 ![Image de Luka Karabatic](https://upload.wikimedia.org/wikipedia/commons/3/3f/Luka_Karabatic-20160416-PSG-TOULOUSE_2.JPG)
 
 ###### Questions

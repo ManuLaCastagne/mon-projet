@@ -14,8 +14,9 @@ indice_5 :
   - lame de verre
 indice_6 : 
   - échantillon biologique
+culture_g_score: 44
+culture_g_justification: "Instrument important en histologie, mais assez spécialisé et rarement interrogé hors des questions de sciences appliquées."
 ---
-
 ![Image de Microtome](https://upload.wikimedia.org/wikipedia/commons/d/d2/Electrical_microtome.jpg)
 
 ###### Questions

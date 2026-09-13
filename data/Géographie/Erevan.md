@@ -23,9 +23,9 @@ indice_5 :
   - Récemment célébré son 2800ème anniversaire
 indice_6 : 
   - Ville jumelée avec Los Angeles
+culture_g_score: 60
+culture_g_justification: "Capitale nationale identifiable, associée à l’Arménie, au génocide, à l’Antiquité et à plusieurs repères culturels."
 ---
-
-
 ![Image de Erevan](https://upload.wikimedia.org/wikipedia/commons/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg)
 
 ![[Carte_Erevan.png]]

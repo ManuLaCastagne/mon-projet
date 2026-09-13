@@ -22,8 +22,9 @@ indice_6 :
   - Poésie engagée
 questions:
  - En 1979, quel chanteur français cite le nom de Bechet dans sa chanson "Elégie à un rat de cave"...
+culture_g_score: 88
+culture_g_justification: "Monument de la chanson française, fréquemment relié à ses textes, Brassens, la poésie, Sète et la culture populaire du XXe siècle."
 ---
-
 ![Image de Georges Brassens](https://upload.wikimedia.org/wikipedia/commons/1/19/Brassens_TNP_1966.jpg)
 
 ###### Questions

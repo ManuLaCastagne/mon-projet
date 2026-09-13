@@ -20,9 +20,9 @@ indice_6 :
   - Paris
 questions:
  - Dans quelle série, diffusée sur France 2 de 2001 à 2009, Michel Creton incarnait-il le commissaire Victor Franklin?
+culture_g_score: 36
+culture_g_justification: "Série policière française secondaire, susceptible d’apparaître ponctuellement mais rarement comme référence majeure."
 ---
-
-
 ![Image de Central nuit](https://upload.wikimedia.org/wikipedia/commons/9/91/Bow_Bridge_panorama_Central_Park_%2886746p%29.jpg)
 
 ###### Questions

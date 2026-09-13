@@ -14,9 +14,9 @@ indice_5:
   - Métastase
 indice_6:
   - Oncologie
+culture_g_score: 44
+culture_g_justification: "Notion médicale réelle liée aux tumeurs, mais nettement moins fréquente et accessible que cancer ou oncologie."
 ---
-
-
 ![Image de Néoplasie](https://upload.wikimedia.org/wikipedia/commons/4/47/Cervical_Intraepithelial_Neoplasia_HSIL_20X.jpg)
 
 ###### Questions

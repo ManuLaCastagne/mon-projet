@@ -20,8 +20,9 @@ indice_6 :
   - tension USA-URSS
 questions:
  - Quelle est cette période de l'histoire dont le nom a été popularisé en 1947 par un livre du journaliste Walter Lippmann et marquée par un recours à la propagande médiatique ? Voyant s'opposer des valeurs idéologiques incompatibles...
+culture_g_score: 100
+culture_g_justification: "Période incontournable des quiz, reliant géopolitique, idéologies, crises, conquête spatiale, espionnage et histoire contemporaine."
 ---
-
 ![Image de Guerre froide](https://upload.wikimedia.org/wikipedia/commons/9/9e/Guerre_froide_band_klub_1.jpg)
 
 ###### Questions

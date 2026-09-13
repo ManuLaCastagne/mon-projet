@@ -14,8 +14,9 @@ indice_5 :
   - maillets
 indice_6 : 
   - tablas
+culture_g_score: 47
+culture_g_justification: "Instrument représentatif de la musique persane, permettant quelques liens culturels mais restant assez spécialisé."
 ---
-
 ![Image de Santour](https://upload.wikimedia.org/wikipedia/commons/1/16/Woman_playing_a_santur%2C_Qajar_Iran%2C_artist_named_Ahmad.jpg)
 
 ###### Questions

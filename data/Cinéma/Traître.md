@@ -22,9 +22,9 @@ indice_6 :
   - espionnage
 questions:
  - En 2019, dans quel film de Marco Bellocchio un parrain de Cosa Nostra porte-t-il des lunettes de soleil, même dans une salle d'audience?
+culture_g_score: 52
+culture_g_justification: "La notion de traître possède des prolongements historiques et cinématographiques, mais le sujet précis reste trop générique et peu ciblé."
 ---
-
-
 ![Image de Traître](https://upload.wikimedia.org/wikipedia/commons/3/34/Tra%C3%AEtre_-_sc%C3%A9nario_-_btv1b530009101_%281_of_2%29.jpg)
 
 ###### Questions

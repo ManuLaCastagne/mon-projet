@@ -20,8 +20,9 @@ indice_6 :
   - Xe siècle
 questions:
  - Quel explorateur norvégien au surnom de couleur, a un fils se prénommant Leif Erikson ?
+culture_g_score: 60
+culture_g_justification: "Explorateur viking classique des quiz, surtout utile pour relier Vikings, Groenland et découverte de l’Amérique du Nord."
 ---
-
 ![Image de Erik le Rouge](https://upload.wikimedia.org/wikipedia/commons/e/ec/Erik_le_rouge.jpg)
 
 ###### Questions

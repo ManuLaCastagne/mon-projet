@@ -23,8 +23,9 @@ indice_6:
   - Côte bretonne
 questions:
   - Quelle pierre précieuse donne son nom au littoral breton comprenant le Cap-Fréhel ?
+culture_g_score: 44
+culture_g_justification: "Littoral breton touristique et patrimonial, mais moins fréquent dans les quiz que les grandes villes ou régions françaises."
 ---
-
 ![Image de Côte d'Émeraude](https://upload.wikimedia.org/wikipedia/commons/4/4a/Cote_Emeraude_Fort_La_Latte.jpg)
 
 ![[Carte_Côte d'Émeraude.png]]

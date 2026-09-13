@@ -14,8 +14,9 @@ indice_5 :
   - Éditeur
 indice_6 : 
   - Papier
+culture_g_score: 32
+culture_g_justification: "Terme péjoratif littéraire compréhensible, mais désuet et peu fréquent dans les quiz."
 ---
-
 ![Image de Gâte-papier](https://upload.wikimedia.org/wikipedia/commons/e/e2/Open_gate_leaning_to_a_courtyard_of_colorful_paper_lanterns_at_Bulguksa_temple_in_Gyeongju_South_Korea.jpg)
 
 ###### Questions

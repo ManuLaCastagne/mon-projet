@@ -22,8 +22,9 @@ indice_6 :
   - Soirée imprévue
 questions:
  - En 2014, dans quelle comédie de Philippe Lacheau un homme qui garde le fils  de son patron...
+culture_g_score: 44
+culture_g_justification: "Comédie française populaire et identifiable, mais d’importance culturelle et de fréquence quiz relativement modestes."
 ---
-
 ![Image de Babysitting](https://upload.wikimedia.org/wikipedia/commons/5/5b/Babysitting_Ben_DVIDS61443.jpg)
 
 ###### Questions

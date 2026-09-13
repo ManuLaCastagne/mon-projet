@@ -22,8 +22,9 @@ indice_6 :
   - féminisme dans le cinéma
 questions:
  - En 1993, quelle cinéaste néo-zélandaise est devenue la 1re femme à décrocher la Palme d'or à Cannes avec "La Leçon de piano" ?
+culture_g_score: 80
+culture_g_justification: "Réalisatrice majeure, particulièrement rentable grâce à La Leçon de piano, aux Palmes d’or et à son Oscar historique."
 ---
-
 ![Image de Jane Campion](https://upload.wikimedia.org/wikipedia/commons/7/7c/Jane_Campion_DNZM_%28cropped%29.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/11kFCPT3e5GGpDQhX6d4sD" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

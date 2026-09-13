@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de fertilité
 questions:
  - Femelle d'un mammifère herbivore sauvage de la famille des léporidés, pesant environ 4 kilos.
+culture_g_score: 20
+culture_g_justification: "Mot allemand désignant le lièvre, dont l’intérêt repose sur des associations culturelles très marginales."
 ---
-
 ![Image de Hase](https://upload.wikimedia.org/wikipedia/commons/8/87/Osnabr%C3%BCck_-_Hase_01.jpg)
 
 ###### Questions

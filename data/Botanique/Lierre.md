@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour couvrir les murs et les clôtures
 questions:
  - Quelle plante grimpante du genre hedera…
+culture_g_score: 51
+culture_g_justification: "Plante très reconnaissable et culturellement présente, mais donnant relativement peu de questions généralistes distinctes."
 ---
-
 ![Image de Lierre](https://upload.wikimedia.org/wikipedia/commons/c/c8/Ivy_Hedera_Red_Brick_Wall_2892px.jpg)
 
 ###### Questions

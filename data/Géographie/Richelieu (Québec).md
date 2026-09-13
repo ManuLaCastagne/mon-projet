@@ -24,8 +24,9 @@ indice_6:
   - Trésorier de la Bibliothèque Mazarin
 questions:
   - Personnage historique né en 1585 à Paris, j'ai été plusieurs fois représenté en habit religieux par le peintre Philippe de Champaigne. Homme politique ayant constitué la plus grande collection française de sculptures antiques de mon époque...
+culture_g_score: 20
+culture_g_justification: "Municipalité québécoise très secondaire, susceptible d'une question locale mais peu rentable pour un joueur généraliste."
 ---
-
 ![Image de Richelieu](https://upload.wikimedia.org/wikipedia/commons/4/40/Richelieu_%28Qu%C3%A9bec%29-Digue_sur_le_Richelieu_en_aval_du_village-2022-10-20.jpg)
 
 ![[Carte_Richelieu (Québec).png]]

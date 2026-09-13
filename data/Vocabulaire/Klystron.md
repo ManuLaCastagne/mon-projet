@@ -14,8 +14,9 @@ indice_5 :
   - Courant électrique
 indice_6 : 
   - Amplificateur
+culture_g_score: 32
+culture_g_justification: "Composant important de l’histoire des radars et des micro-ondes, mais trop technique et peu fréquent."
 ---
-
 ![Image de Klystron](https://upload.wikimedia.org/wikipedia/commons/5/51/K41_Klystron_reflective_vacuum_tube_01.jpg)
 
 ###### Questions

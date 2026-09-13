@@ -18,9 +18,9 @@ indice_5 :
   - Mary Bee Cuddy
 indice_6 : 
   - Western dramatique
+culture_g_score: 32
+culture_g_justification: "Western dramatique apprécié mais peu connu du grand public et rarement utilisé comme réponse dans les quiz généralistes."
 ---
-
-
 ![Image de The Homesman](https://upload.wikimedia.org/wikipedia/commons/4/46/The-Homesman-logo.png)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Festival de Cannes
 questions:
  - Dans le film "Au fil d'Ariane", quelle comédienne est dirigée par son époux Robert Guédiguian ?
+culture_g_score: 44
+culture_g_justification: "Actrice reconnue du cinéma français, surtout pertinente par ses collaborations avec Guédiguian et ses récompenses."
 ---
-
 ![Image de Ariane Ascaride](https://upload.wikimedia.org/wikipedia/commons/1/1d/Ariane_Ascaride_2012.jpg)
 
 ###### Questions

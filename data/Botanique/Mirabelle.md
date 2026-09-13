@@ -15,8 +15,9 @@ indice_6:
   - Confitures et tartes
 questions:
   - Je pèse environ 10 g pour un diamètre d'un peu plus de 2 cm. Petite prune...
+culture_g_score: 44
+culture_g_justification: "Spécialité fruitière emblématique de Lorraine, la mirabelle apparaît surtout dans des questions régionales ou gastronomiques."
 ---
-
 ![Image de Mirabelle](https://upload.wikimedia.org/wikipedia/commons/7/77/Blossom_of_Mirabelle_plum_%28cropped_transparent%29.png)
 
 ###### Questions

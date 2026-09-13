@@ -18,8 +18,9 @@ indice_5 :
   - Neuf
 indice_6 : 
   - Bab
+culture_g_score: 48
+culture_g_justification: "Religion mondiale minoritaire avec des principes distinctifs, mais encore peu fréquente dans les quiz généralistes francophones."
 ---
-
 ![Image de Bahaïsme](https://upload.wikimedia.org/wikipedia/commons/d/d1/Photograph_of_Pritam_Singh%2C_founder_of_the_Ridv%C3%A1ni_sect_of_both_Sikhism_and_the_Bah%C3%A1%CA%BC%C3%AD_Faith.jpg)
 
 ###### Questions

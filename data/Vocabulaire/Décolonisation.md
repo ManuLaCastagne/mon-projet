@@ -2,12 +2,10 @@
 tags:
   - Vocabulaire
   - XIXe
-  - XXe
-  - Années_1960
 date: 1836
 culture_g_score: 88
 ---
 ###### Questions 
 
-Processus historique dont le nom est attesté dès 1836, je fais l'objet en 1965 d'un livre d'Henri Grimal.
+Quel processus historique dont le nom est attesté dès 1836 fait l'objet en 1965 d'un livre d'[[Henri Grimal]] ?
 

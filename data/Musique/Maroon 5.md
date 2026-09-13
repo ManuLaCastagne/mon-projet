@@ -22,9 +22,9 @@ indice_6 :
   - Grammy Awards
 questions:
  - Dès la fin des années 90, quel groupe californien s'est formé autour du chanteur Adam Levine et du guitariste James Valentine en se choisissant un nom anglais évoquant le chiffre 5?
+culture_g_score: 60
+culture_g_justification: "Groupe de pop très connu, mais surtout exploitable par quelques albums, récompenses et tubes de musique populaire récente."
 ---
-
-
 ![Image de Maroon 5](https://upload.wikimedia.org/wikipedia/commons/5/53/Maroon_Bells_%2811553%29a.jpg)
 
 ###### Questions

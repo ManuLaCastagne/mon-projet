@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de force en mythologie amérindienne
 questions:
  - Quel reptile, représenté par l'espèce dite du Mississippi, qui vit dans...
+culture_g_score: 64
+culture_g_justification: "Reptile emblématique associé aux États-Unis, aux prédateurs et à la zoologie, mais moins central que le crocodile."
 ---
-
 ![Image de Alligator](https://upload.wikimedia.org/wikipedia/commons/5/54/Alligator_mississippiensis_113744549.jpg)
 
 ###### Questions

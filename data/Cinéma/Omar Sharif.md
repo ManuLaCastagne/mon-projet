@@ -22,8 +22,9 @@ indice_6 :
   - joueur de bridge
 questions:
  - On me retrouve dans "Le Casse",  "Monsieur Ibrahim et les fleurs du Coran". Devenu populaire grâce à mes rôles dans "Lawrence d'Arabie" et "Docteur Jivago".
+culture_g_score: 84
+culture_g_justification: "Grande figure du cinéma international, directement associée à Lawrence d'Arabie et au Docteur Jivago, avec de nombreux angles biographiques et cinématographiques."
 ---
-
 ![Image de Omar Sharif](https://upload.wikimedia.org/wikipedia/commons/9/91/Omar_Sharif_1963.JPG)
 
 ###### Questions

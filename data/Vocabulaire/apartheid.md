@@ -14,8 +14,9 @@ indice_5 :
   - Nelson Mandela
 indice_6 : 
   - Discrimination raciale
+culture_g_score: 97
+culture_g_justification: "L’apartheid est un événement et un système politique incontournables, reliés à l’Afrique du Sud, à Mandela, aux droits humains et à la décolonisation."
 ---
-
 ![Image de Apartheid]()
 
 ###### Questions

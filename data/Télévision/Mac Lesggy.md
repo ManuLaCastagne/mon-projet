@@ -20,9 +20,9 @@ indice_6 :
   - ingénieur agronome
 questions:
  - Depuis 1991, quel animateur et producteur de télévision français, présente l'émission "E=M6"?
+culture_g_score: 73
+culture_g_justification: "Animateur durablement associé à E=M6 et à la vulgarisation scientifique télévisée, avec des repères facilement réutilisables."
 ---
-
-
 ![Image de Mac Lesggy](https://upload.wikimedia.org/wikipedia/commons/5/59/Avec_mac_lesggy_%28cropped%29.jpeg)
 
 ###### Questions

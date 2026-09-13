@@ -13,8 +13,9 @@ indice_5:
   - Expressions québécoises
 indice_6:
   - Parler
+culture_g_score: 20
+culture_g_justification: "Régionalisme québécois peu diffusé en francophonie générale, avec une portée essentiellement lexicale et locale."
 ---
-
 ![Image de Épivarder](https://upload.wikimedia.org/wikipedia/commons/6/67/LL-Q150_%28fra%29-DenisdeShawi-%C3%A9pivarder.wav)
 
 ###### Questions

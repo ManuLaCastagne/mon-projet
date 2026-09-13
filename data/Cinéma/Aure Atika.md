@@ -18,8 +18,9 @@ indice_5 :
   - Jean-Pierre Bacri
 indice_6 : 
   - Réalisatrice
+culture_g_score: 27
+culture_g_justification: "Actrice française relativement connue, mais sa carrière offre peu de repères incontournables pour les quiz généralistes."
 ---
-
 ![Image de Aure Atika](https://upload.wikimedia.org/wikipedia/commons/2/20/Aure_Atika_Cannes.jpg)
 
 ###### Questions

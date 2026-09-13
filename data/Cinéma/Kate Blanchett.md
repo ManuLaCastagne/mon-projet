@@ -22,8 +22,9 @@ indice_6 :
   - Aviator
 questions:
  - En 2014, quelle actrice australienne reçoit l'Oscar de la meilleure actrice pour son rôle dans "Blue Jasmin" de Woody Allen ?
+culture_g_score: 73
+culture_g_justification: "Actrice internationale associée au Seigneur des anneaux, à Woody Allen, à Marvel et à plusieurs Oscars."
 ---
-
 ![Image de Kate Blanchett](https://upload.wikimedia.org/wikipedia/commons/2/2a/Cate_Blanchett-63298_%28cropped_2%29.jpg)
 
 ###### Questions

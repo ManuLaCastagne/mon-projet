@@ -24,8 +24,9 @@ indice_6 :
   - bouddhisme et hindouisme
 questions:
  - Quelle montagne sacrée du Tibet contient la source du Brahmapoutre et de l'Indus ?
+culture_g_score: 56
+culture_g_justification: "Sommet sacré majeur de plusieurs religions asiatiques, mais assez rarement requis dans les quiz généralistes."
 ---
-
 ![Image de Mont Kailash](https://upload.wikimedia.org/wikipedia/commons/1/15/Kailash_Tibet.jpg)
 
 ![[Carte_Mont Kailash.png]]

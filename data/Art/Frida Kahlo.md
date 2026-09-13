@@ -23,8 +23,9 @@ indice_6 :
   - surréalisme
 questions:
  - En 1941, dans son "Autoportrait en collier d'épines et colibri", quelle artiste mexicaine...
+culture_g_score: 80
+culture_g_justification: "Frida Kahlo est une figure majeure et très interrogée de l’art moderne, grâce à ses autoportraits, sa biographie, le Mexique et Diego Rivera."
 ---
-
 ![Image de Frida Kahlo](https://upload.wikimedia.org/wikipedia/commons/b/bc/Calavera_of_Frida_Kahlo.jpg)
 
 ###### Questions

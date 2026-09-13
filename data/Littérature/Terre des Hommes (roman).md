@@ -21,13 +21,9 @@ indice_5:
   - Sahara
 indice_6:
   - humanisme
+culture_g_score: 68
+culture_g_justification: "Œuvre importante de Saint-Exupéry, utile pour l’aviation, la littérature et plusieurs citations, mais moins incontournable que Le Petit Prince."
 ---
-
-
-
-
-
-
 ![Image de Terre des Hommes (roman)](https://upload.wikimedia.org/wikipedia/commons/2/28/Wind_Sand_and_Stars_-_2.jpg)
 
 ###### Questions

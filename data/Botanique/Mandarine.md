@@ -13,8 +13,9 @@ indice_5:
   - Souvent appelée Citrus reticulata
 indice_6:
   - Consommée fraîche ou en jus
+culture_g_score: 48
+culture_g_justification: "Fruit très familier pouvant servir à quelques questions de botanique, de gastronomie ou d’étymologie, sans être un grand marronnier."
 ---
-
 ![Image de Mandarine](https://upload.wikimedia.org/wikipedia/commons/4/49/Mandarin_Oranges_%28Citrus_Reticulata%29.jpg)
 
 ###### Questions

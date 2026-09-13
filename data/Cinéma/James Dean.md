@@ -22,8 +22,9 @@ indice_6:
   - symbole de la rébellion jeunesse
 questions:
   - En 1955, quelle star américaine du cinéma meurt à l'âge de 24 ans dans un accident de voiture...
+culture_g_score: 84
+culture_g_justification: "Icône mondiale du cinéma, liée à la jeunesse rebelle, à trois films majeurs et à sa mort prématurée."
 ---
-
 ![Image de James Dean](https://upload.wikimedia.org/wikipedia/commons/d/db/Los_Angeles_%28California%2C_USA%29%2C_Hollywood_Boulevard%2C_James_Dean_--_2012_--_4997.jpg)
 
 ###### Questions

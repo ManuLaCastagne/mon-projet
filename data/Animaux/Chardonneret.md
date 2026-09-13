@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de liberté et de joie
 questions:
  - Devant mon nom au fait que je me nourris de préférence de graines de chardons...
+culture_g_score: 52
+culture_g_justification: "Oiseau identifiable et lié à un tableau célèbre, à la littérature et à l’ornithologie, sans être un marronnier majeur."
 ---
-
 ![Image de Chardonneret](https://upload.wikimedia.org/wikipedia/commons/8/89/Carduelis_carduelis_%28Chardonneret_%C3%A9l%C3%A9gant%29_%284%29.jpg)
 
 ###### Questions

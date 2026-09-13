@@ -16,9 +16,9 @@ indice_6 :
   - Délivrance
 questions:
  - Quelle fête de la religion juive, commémorant la libération des Juifs de leur captivité dans l'Empire perse, est liée au récit du livre d'Esther ?
+culture_g_score: 64
+culture_g_justification: "Fête juive classique liée à Esther, à l’Empire perse et à plusieurs pratiques rituelles facilement questionnables."
 ---
-
-
 ![Image de Pourim](https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Feast_of_Esther_by_Johannes_Spilberg_the_Younger.jpg)
 
 ###### Questions

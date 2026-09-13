@@ -18,8 +18,9 @@ indice_5:
   - Concile de Trente
 indice_6:
   - Cathédrale Notre-Dame
+culture_g_score: 100
+culture_g_justification: "Le catholicisme est une religion mondiale fondamentale, incontournable pour les questions d'histoire, de société, d'art et de culture religieuse."
 ---
-
 ![Image de Catholicisme](https://upload.wikimedia.org/wikipedia/commons/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg)
 
 ###### Questions

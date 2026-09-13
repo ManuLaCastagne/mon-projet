@@ -23,8 +23,9 @@ indice_6 :
   - contes de fées
 questions:
  - En 1970, dans quel film de Jacques Demy rencontre-t-on la fée des Lilas, incarnée par Delphine Seyrig?
+culture_g_score: 80
+culture_g_justification: "Classique français de Jacques Demy combinant conte, Catherine Deneuve, Yves Saint Laurent et Michel Legrand, donc très rentable à apprendre."
 ---
-
 ![Image de Peau d'Âne](https://upload.wikimedia.org/wikipedia/commons/e/eb/Peau_d%27%C3%A2ne.jpg)
 
 ###### Questions

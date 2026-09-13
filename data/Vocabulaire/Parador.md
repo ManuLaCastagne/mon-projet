@@ -14,8 +14,9 @@ indice_5 :
   - Monuments historiques
 indice_6 : 
   - Tourisme culturel
+culture_g_score: 60
+culture_g_justification: "Particularité touristique espagnole identifiable, reliant patrimoine, architecture et organisation du tourisme national."
 ---
-
 ![Image de Parador]()
 
 ###### Questions

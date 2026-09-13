@@ -17,8 +17,9 @@ indice_5 :
   - Georges Roy Hill
 indice_6 : 
   - Course poursuite Mexique
+culture_g_score: 68
+culture_g_justification: "Western emblématique porté par Newman et Redford, mobilisable en cinéma, musique et histoire du genre, mais pas omniprésent."
 ---
-
 ![Image de Butch Cassidy et le Kid]()
 
 ###### Questions

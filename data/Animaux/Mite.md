@@ -15,8 +15,9 @@ indice_6 :
   - Destructeur de tissus
 questions:
  - De quel petit papillon aux reflets argentés les chenilles rongent-elles les étoffes de laine?
+culture_g_score: 44
+culture_g_justification: "Terme courant lié aux textiles et à la biologie évolutive, mais le sujet précis reste peu fréquent."
 ---
-
 ![Image de Mite](https://upload.wikimedia.org/wikipedia/commons/5/51/Rust_Mite%2C_Aceria_anthocoptes.jpg)
 
 ###### Questions

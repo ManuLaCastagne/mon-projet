@@ -22,8 +22,9 @@ indice_6 :
   - Carnegie Hall
 questions:
  - En 1964, dans quelle chanson s'exclame-t-il  "Oh! C'est haut, c'est haut, New York"?
+culture_g_score: 100
+culture_g_justification: "New York est une référence incontournable, mobilisable en géographie, histoire, culture populaire, musique, économie et politique."
 ---
-
 ![Image de New York USA](https://upload.wikimedia.org/wikipedia/commons/3/3d/New_York_City_%28New_York%2C_USA%29%2C_Manhattan_--_2012_--_6703.jpg)
 
 ###### Questions

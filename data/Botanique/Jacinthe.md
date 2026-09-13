@@ -15,8 +15,9 @@ indice_6:
   - Plantes ornementales dans les jardins et les bouquets
 questions:
   - Quelle liliacée aux fleurs disposées en grappes pouvant être des bois ou d'Orient est souvent plantée dans les massifs?
+culture_g_score: 44
+culture_g_justification: "Fleur assez connue et parfois interrogée en botanique ou en horticulture, mais ses usages en culture générale restent limités."
 ---
-
 ![Image de Jacinthe](https://upload.wikimedia.org/wikipedia/commons/8/85/Hyacinth-spring.jpg)
 
 ###### Questions

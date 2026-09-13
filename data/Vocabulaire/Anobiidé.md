@@ -14,8 +14,9 @@ indice_5 :
   - Curculionoidea
 indice_6 : 
   - Larves perforatrices
+culture_g_score: 20
+culture_g_justification: "Famille d’insectes très spécialisée, rarement interrogée en culture générale malgré l’existence des vrillettes."
 ---
-
 ![Image de Anobiidé](https://upload.wikimedia.org/wikipedia/commons/7/74/Revista_chilena_de_historia_natural_%28IA_revistachilenad00muse%29.pdf)
 
 ###### Questions

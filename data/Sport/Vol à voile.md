@@ -19,14 +19,9 @@ indice_6:
   - Championnat du monde de vol à voile
 questions:
   - Comment appelle-t-on le sport que l'on pratique à bord d'un planeur?
+culture_g_score: 44
+culture_g_justification: "Sport aéronautique identifiable et lié aux planeurs et aux courants ascendants, mais rarement central dans les quiz généralistes."
 ---
-
-
-
-
-
-
-
 ![Image de Vol à voile](https://upload.wikimedia.org/wikipedia/commons/c/ca/Vol_%C3%A0_voile_en_Haute-Provence.jpg)
 
 ###### Questions

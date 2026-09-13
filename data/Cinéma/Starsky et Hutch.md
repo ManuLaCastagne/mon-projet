@@ -22,8 +22,9 @@ indice_6 :
   - David Soul et Paul Michael Glaser
 questions:
  - En 2004, dans quel film adapté d'une série télévisée forme-t-il avec Owen Wilson un duo de policiers ?
+culture_g_score: 64
+culture_g_justification: "Franchise reconnaissable grâce à la série, au film de 2004 et à la Gran Torino, mais d'importance et de fréquence intermédiaires."
 ---
-
 ![Image de Starsky et Hutch](https://upload.wikimedia.org/wikipedia/commons/9/9d/Starsky_%26_Hutch_-_CC_Villab%C3%A9_A6_-_2018-03-03_-_IMG_7300.jpg)
 
 ###### Questions

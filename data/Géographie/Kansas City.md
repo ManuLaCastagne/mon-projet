@@ -22,8 +22,9 @@ indice_5 :
   - Nelson-Atkins Museum of Art
 indice_6 : 
   - Kansas City BBQ
+culture_g_score: 60
+culture_g_justification: "Grande ville américaine connue pour le jazz, les Chiefs et la Première Guerre mondiale, mais moins incontournable que les principales métropoles des États-Unis."
 ---
-
 ![[Carte_Kansas City.png]]
 
 ###### Questions

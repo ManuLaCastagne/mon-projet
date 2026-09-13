@@ -14,8 +14,9 @@ indice_5 :
   - Grands yeux jaunes
 indice_6 : 
   - Milieux secs
+culture_g_score: 27
+culture_g_justification: "Oiseau européen caractéristique mais peu connu, limité à quelques questions de zoologie ou d'identification."
 ---
-
 ![Image de Oedicnème](https://upload.wikimedia.org/wikipedia/commons/7/73/Burhinus_indicus%2C_central_India.jpg)
 
 ###### Questions

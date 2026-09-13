@@ -20,9 +20,9 @@ indice_6 :
   - politicienne française
 questions:
  - Je fais partie des 1ers députés européens élus au suffrage universel direct en 1979. Devenant députée de la Vienne puis maire de Châtellerault, je suis nommée ministre de l'Agriculture en 1981.
+culture_g_score: 60
+culture_g_justification: "Première femme Premier ministre en France, repère politique assez classique mais limité à l'histoire contemporaine française."
 ---
-
-
 ![Image de Edith Cresson](https://upload.wikimedia.org/wikipedia/commons/0/08/%C3%89dith_Cresson_-_1995_%28cropped%29.jpg)
 
 ###### Questions

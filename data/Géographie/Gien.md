@@ -24,8 +24,9 @@ indice_6 :
   - pont
 questions:
  - Connue pour la fabrication de faïences…
+culture_g_score: 40
+culture_g_justification: "Ville du Loiret dotée d’un patrimoine réel, mais trop secondaire pour constituer une priorité généraliste."
 ---
-
 ![Image de Gien](https://upload.wikimedia.org/wikipedia/commons/d/dc/00_2366_Gien%2C_D%C3%A9partement_Loiret.jpg)
 
 ![[Carte_Gien.png]]

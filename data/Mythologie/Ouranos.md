@@ -18,9 +18,9 @@ indice_6 :
   - castré par Cronos
 questions:
  - Dans la [[mythologie grecque]], comment appelle-t-on la personnification du ciel?
+culture_g_score: 64
+culture_g_justification: "Dieu primordial important dans la Théogonie, mais moins connu et moins souvent interrogé que les principaux Olympiens."
 ---
-
-
 ![Image de Ouranos](https://upload.wikimedia.org/wikipedia/commons/d/de/Mutilasi_Uranus.jpg)
 
 ###### Questions

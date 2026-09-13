@@ -20,8 +20,9 @@ indice_6:
   - HIV
 questions:
   - Quel basketteur, champion olympique avec la Dream Team en 1992 et comptant parmi les meilleurs passeurs de la NBA était surnommé "Magic" ?
+culture_g_score: 84
+culture_g_justification: "Icône mondiale du basket, de la NBA et de la Dream Team, également liée à l’histoire médiatique du VIH."
 ---
-
 ![Image de Magic Johnson](https://upload.wikimedia.org/wikipedia/commons/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg)
 
 ###### Questions

@@ -24,9 +24,9 @@ indice_6 :
   - Cathédrale Saint-Étienne
 questions:
  - Je compte environ 35 000 habitants et suis réputée pour mon ancienne abbatiale Saint-Germain et pour ma cathédrale gothique Saint-Etienne. Chef-lieu du département de l'Yonne, je suis…
+culture_g_score: 47
+culture_g_justification: "Ville française identifiable par l’AJ Auxerre, l’Yonne et la Bourgogne, mais rarement prioritaire face aux grandes villes nationales."
 ---
-
-
 ![Image de Auxerre](https://upload.wikimedia.org/wikipedia/commons/7/7e/.00_1402_Blick_auf_Auxerre%2C_eine_franz%C3%B6sische_Stadt.jpg)
 
 ![[Carte_Auxerre.png]]

@@ -22,10 +22,9 @@ indice_6 :
   - terres émergées
 questions:
  - Ile des mers tropicales, je compte comme exemples célèbres Tuvalu, Bikini ou encore Mururoa, je suis…
+culture_g_score: 80
+culture_g_justification: "Formation géographique classique, reliée aux récifs coralliens, à Darwin, aux archipels et aux essais nucléaires."
 ---
-
-
-
 ![Image de Atoll](https://upload.wikimedia.org/wikipedia/commons/b/b4/Male-total.jpg)
 
 ![[Carte_Atoll.png]]

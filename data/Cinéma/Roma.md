@@ -17,8 +17,9 @@ indice_5:
   - Oscar du meilleur réalisateur
 indice_6:
   - Netflix
+culture_g_score: 80
+culture_g_justification: "Film oscarisé et récompensé à Venise, utile pour Alfonso Cuarón, le Mexique, le cinéma en noir et blanc et les années 1970."
 ---
-
 ![Image de Roma]()
 
 ###### Questions

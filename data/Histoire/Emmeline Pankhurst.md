@@ -20,8 +20,9 @@ indice_6 :
   - a influencé le droit de vote féminin en Angleterre
 questions:
  - Quelle suffragette, née à Manchester en 1858, a combattu...
+culture_g_score: 68
+culture_g_justification: "Figure majeure du suffragisme britannique, régulièrement mobilisée dans les questions sur le féminisme, le Royaume-Uni et les droits des femmes."
 ---
-
 ![Image de Emmeline Pankhurst](https://upload.wikimedia.org/wikipedia/commons/2/25/Emmeline_Pankhurst%2C_seated_%281913%29.jpg)
 
 ###### Questions

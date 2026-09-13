@@ -20,8 +20,9 @@ indice_5:
   - cinéma soviétique
 indice_6:
   - influent dans le montage filmique
+culture_g_score: 80
+culture_g_justification: "Œuvre fondatrice du cinéma soviétique et du montage, régulièrement mobilisée en cinéma, histoire et culture politique."
 ---
-
 ![Image de Cuirassé Potemkine](https://upload.wikimedia.org/wikipedia/commons/d/de/Potemkin_mutiny_Odessa_wagons.jpg)
 
 ###### Questions

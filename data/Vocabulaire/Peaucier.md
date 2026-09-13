@@ -14,8 +14,9 @@ indice_5 :
   - mimiques
 indice_6 : 
   - expressions
+culture_g_score: 27
+culture_g_justification: "Terme anatomique et zoologique peu courant, offrant seulement quelques applications autour des muscles cutanés."
 ---
-
 ![Image de Peaucier](https://upload.wikimedia.org/wikipedia/commons/6/65/Deus_ber%C3%A5s_pindous.jpg)
 
 ###### Questions

@@ -22,9 +22,9 @@ indice_5 :
   - Proche de la rivière Mbabane
 indice_6 : 
   - Située dans les montagnes du Dlangeni
+culture_g_score: 40
+culture_g_justification: "Capitale d'un petit royaume africain, principalement utile pour une question de capitales et de géographie de l'Eswatini."
 ---
-
-
 ![Image de Mbabane](https://upload.wikimedia.org/wikipedia/commons/9/9d/Mbabane.jpg)
 
 ![[Carte_Mbabane.png]]

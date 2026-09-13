@@ -22,8 +22,9 @@ indice_6 :
   - Paroisse de Christ Church
 questions:
  - Quel Etat de 431 km2, situé dans les petites Antilles, a pour capitale la ville de Bridgetown?
+culture_g_score: 60
+culture_g_justification: "État caribéen identifiable par son indépendance, Bridgetown, le cricket et son passage récent à la république."
 ---
-
 ![Image de Barbade](https://upload.wikimedia.org/wikipedia/commons/0/03/Bar_in_Bristol.jpg)
 
 ![[Carte_Barbade.png]]

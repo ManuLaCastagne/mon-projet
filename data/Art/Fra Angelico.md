@@ -21,8 +21,9 @@ indice_5:
   - retables et fresques
 indice_6:
   - couvent San Marco Florence
+culture_g_score: 72
+culture_g_justification: "Fra Angelico est un repère solide de la Renaissance italienne, notamment grâce à San Marco, à son statut de moine et à son art religieux."
 ---
-
 ![Image de Fra Angelico](https://upload.wikimedia.org/wikipedia/commons/d/d5/Fra_Angelico%2C_Fra_Filippo_Lippi%2C_The_Adoration_of_the_Magi.jpg)
 
 ###### Questions

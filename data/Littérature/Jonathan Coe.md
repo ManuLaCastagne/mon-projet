@@ -22,10 +22,9 @@ indice_6 :
   - humour et critique sociale
 questions:
  - En avril 2021, quel auteur anglais a publié le roman "Billy Wilder et moi", plus de 25 ans après avoir été révélé par "Testament à l'anglaise"?
+culture_g_score: 43
+culture_g_justification: "Jonathan Coe est un écrivain contemporain estimé, mais ses œuvres et ses récompenses apparaissent peu dans les quiz généralistes."
 ---
-
-
-
 ![Image de Jonathan Coe](https://upload.wikimedia.org/wikipedia/commons/9/9a/Jonathan_Coe.jpg)
 
 ###### Questions

@@ -19,9 +19,9 @@ indice_5:
   - Austin
 indice_6:
   - Big Bend National Park
+culture_g_score: 92
+culture_g_justification: "État américain extrêmement emblématique, riche en angles historiques, politiques, économiques, spatiaux, culturels et géographiques."
 ---
-
-
 ![[Carte_Texas.png]]
 
 ###### Questions

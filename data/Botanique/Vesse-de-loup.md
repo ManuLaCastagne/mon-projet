@@ -13,8 +13,9 @@ indice_5:
   - Lycoperdon ou pied-de-mouton
 indice_6:
   - Utilisée en cuisine, surtout quand elle est jeune et encore blanche
+culture_g_score: 40
+culture_g_justification: "Champignon reconnaissable par ses spores et parfois interrogé en mycologie ou en cuisine, sans forte portée transversale."
 ---
-
 ![Image de Vesse-de-loup](https://upload.wikimedia.org/wikipedia/commons/d/db/Vesse-de-loup-perl%C3%A9e.jpg)
 
 ###### Questions

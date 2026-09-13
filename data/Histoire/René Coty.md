@@ -20,6 +20,8 @@ indice_6 :
   - Originaire du Havre
 questions:
  - Quel homme politique entre en fonction en 1954 et succède à Vincent Auriol…
+culture_g_score: 60
+culture_g_justification: "Président français de transition, surtout utile pour les questions sur la fin de la IVe République et le retour de De Gaulle."
 ---
 ![Image de René Coty](https://upload.wikimedia.org/wikipedia/commons/f/f9/Ren%C3%A9_Coty_-_1954.jpg)
 ###### Questions

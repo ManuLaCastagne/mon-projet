@@ -20,8 +20,9 @@ indice_6 :
   - Ishmaëlites
 questions:
  - Dans l'Ancien Testament, quel fils aîné d'Abraham, ancêtre des Bédouins d'Arabie, est exclu de l'héritage au profit de son frère Isaac ?
+culture_g_score: 80
+culture_g_justification: "Figure commune aux traditions juive, chrétienne et islamique, offrant de nombreux angles bibliques, religieux et historiques."
 ---
-
 ![Image de Ismaël](https://upload.wikimedia.org/wikipedia/commons/7/79/Ismael_Lo.jpg)
 
 ###### Questions

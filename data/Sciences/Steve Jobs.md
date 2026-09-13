@@ -18,9 +18,9 @@ indice_5 :
   - NeXT
 indice_6 : 
   - iPod
+culture_g_score: 88
+culture_g_justification: "Entrepreneur mondialement célèbre, associé à Apple, Pixar, l’informatique, le design et la culture technologique contemporaine."
 ---
-
-
 ![Image de Steve Jobs](https://upload.wikimedia.org/wikipedia/commons/d/dd/Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg)
 
 ###### Questions

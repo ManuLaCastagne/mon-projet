@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de nuisance
 questions:
  - Quel appât, constitué par un hameçon sur lequel est enroulée une pointe de plume, est employé comme leurre par certains pêcheurs ?
+culture_g_score: 60
+culture_g_justification: "Insecte universellement familier, mobilisable en génétique et en biomimétisme, mais d’importance culturelle intrinsèque modeste."
 ---
-
 ![Image de Mouche](https://upload.wikimedia.org/wikipedia/commons/d/d8/Yohanna_Petros_Mouche%2C_Jordan_-_Aug_24%2C_2019_02.jpg)
 
 ###### Questions

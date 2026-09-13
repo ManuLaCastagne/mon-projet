@@ -18,8 +18,9 @@ indice_5 :
   - complice de Pierre Desproges
 indice_6 : 
   - chroniqueur désopilant en télévision
+culture_g_score: 64
+culture_g_justification: "Acteur et humoriste populaire, exploitable via Le Dîner de cons, la télévision, les sketches et les César."
 ---
-
 ![Image de Daniel Prévost](https://upload.wikimedia.org/wikipedia/commons/e/eb/Daniel_Pr%C3%A9vost_en_octobre_2013%2C_Waterloo.jpg)
 
 ###### Questions

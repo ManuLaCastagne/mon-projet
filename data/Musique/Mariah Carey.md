@@ -22,8 +22,9 @@ indice_6 :
   - Fantasy
 questions:
  - Quelle chanteuse, interprète depuis 1994 de "All I want for Christmas Is You", est considérée...
+culture_g_score: 84
+culture_g_justification: "Star mondiale de la pop et du chant, très rentable pour ses records, ses tubes, Noël, la soul-pop et l’industrie musicale américaine."
 ---
-
 ![Image de Mariah Carey](https://upload.wikimedia.org/wikipedia/commons/e/ef/Mariah_Carey_1999.jpg)
 
 ###### Questions

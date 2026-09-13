@@ -14,8 +14,9 @@ indice_5 :
   - Réforme protestante
 indice_6 : 
   - Siècle des Lumières
+culture_g_score: 27
+culture_g_justification: "Groupe important dans l’histoire hussite, mais trop spécialisé et peu fréquent dans la culture générale francophone."
 ---
-
 ![Image de Taborite](https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_the_Taborites.svg)
 
 ###### Questions

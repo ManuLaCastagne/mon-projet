@@ -18,9 +18,9 @@ indice_5 :
   - Jésus-Christ
 indice_6 : 
   - Triduum pascal
+culture_g_score: 60
+culture_g_justification: "Célébration chrétienne classique, utile pour le calendrier liturgique et les récits de la Passion, mais avec peu d'angles autonomes."
 ---
-
-
 ![Image de Jeudi saint](https://upload.wikimedia.org/wikipedia/commons/f/f5/Catholic_tradition_of_washing_of_feet_on_Maundy_Thursday%2C_April_6%2C_2023%2C_in_Quezon_City.jpg)
 
 ###### Questions

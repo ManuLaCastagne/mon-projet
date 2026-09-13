@@ -22,10 +22,9 @@ indice_6 :
   - Cœur
 questions:
  - ui a fait ses débuts dans le groupe La Femme. Auteure de la chanson "Monstre d'amour" et de l'album "Sainte-Victoire" incluant le tube "La Grenade" que l'on a tous en tête,
+culture_g_score: 44
+culture_g_justification: "Chanteuse contemporaine connue pour La Grenade et ses récompenses, mais encore peu incontournable et surtout limitée à la variété francophone récente."
 ---
-
-
-
 ![Image de Clara Luciani](https://upload.wikimedia.org/wikipedia/commons/4/4f/P2N2019ClaraLuciani_02.jpg)
 
 ###### Questions

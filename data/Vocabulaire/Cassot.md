@@ -14,8 +14,9 @@ indice_5 :
   - Sud de la France
 indice_6 : 
   - Aligot
+culture_g_score: 7
+culture_g_justification: "Terme technique extrêmement rare désignant un objet précis de l’industrie papetière."
 ---
-
 ![Image de Cassot](https://upload.wikimedia.org/wikipedia/commons/f/f6/Marc_CASSOT.png)
 
 ###### Questions

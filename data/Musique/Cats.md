@@ -20,9 +20,9 @@ indice_5:
   - Grizabella
 indice_6:
   - comédie musicale
+culture_g_score: 68
+culture_g_justification: "Comédie musicale très célèbre, utile pour Lloyd Webber, T. S. Eliot, Broadway, le West End et Memory, mais avec un nombre d’angles limité."
 ---
-
-
 ![Image de Cats](https://upload.wikimedia.org/wikipedia/commons/b/b6/Felis_catus-cat_on_snow.jpg)
 
 ###### Questions

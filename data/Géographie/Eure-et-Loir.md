@@ -22,8 +22,9 @@ indice_5 :
   - Perche
 indice_6 : 
   - Cathédrale Notre-Dame de Chartres
+culture_g_score: 40
+culture_g_justification: "Département français utile pour situer Chartres, mais rarement interrogé comme sujet autonome."
 ---
-
 ![[Carte_Eure-et-Loir.png]]
 
 ###### Questions

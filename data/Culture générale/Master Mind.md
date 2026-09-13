@@ -3,6 +3,8 @@ tags:
   - XXe
   - Années_1970
 date: 1970
+culture_g_score: 56
+culture_g_justification: "Jeu de déduction assez connu et régulièrement identifiable dans les quiz, mais d’importance culturelle et de portée limitées."
 ---
 ###### Questions
 

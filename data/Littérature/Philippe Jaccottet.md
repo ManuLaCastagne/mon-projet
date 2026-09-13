@@ -22,8 +22,9 @@ indice_6 :
   - élu à l'Académie royale de langue et de littérature françaises de Belgique
 questions:
  - Quel écrivain suisse de langue française, traducteur de Rainer Maria Rilke et d'Homère, est l'auteur du recueil de poésie "Pensées sous les nuages"?
+culture_g_score: 47
+culture_g_justification: "Poète et traducteur francophone reconnu, mais principalement mobilisé dans des questions spécialisées de littérature contemporaine."
 ---
-
 ![Image de Philippe Jaccottet](https://upload.wikimedia.org/wikipedia/commons/7/77/Philippe_Jaccottet_%281991%29_by_Erling_Mandelmann.jpg)
 
 ###### Questions

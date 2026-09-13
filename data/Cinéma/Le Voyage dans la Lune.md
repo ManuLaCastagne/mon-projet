@@ -22,8 +22,9 @@ indice_6 :
   - surface lunaire
 questions:
  - Quelle oeuvre de Georges Méliès, mettant en scène un club d'astronautes, est considéré comme le 1er film de science-fiction ?
+culture_g_score: 97
+culture_g_justification: "Film fondateur du cinéma de science-fiction et des effets spéciaux, immédiatement reconnaissable par son image de la Lune."
 ---
-
 ![Image de Le Voyage dans la Lune](https://upload.wikimedia.org/wikipedia/commons/6/6c/Le_Voyage_dans_la_lune_%28black_and_white%2C_1902%29.webm)
 
 ###### Questions

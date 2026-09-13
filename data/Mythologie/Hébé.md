@@ -18,8 +18,9 @@ indice_6 :
   - versait le nectar des dieux
 questions:
  - Dans l'Olympe, quelle fille de Zeus, personnifiant la jeunesse, a servi le nectar aux autres dieux avant d'être remplacée par Ganymède?
+culture_g_score: 40
+culture_g_justification: "Déesse grecque secondaire, principalement connue pour sa fonction d'échanson des dieux et quelques représentations artistiques."
 ---
-
 ![Image de Hébé](https://upload.wikimedia.org/wikipedia/commons/b/be/Hebe_or_Aura_NAMA_08.jpg)
 
 ###### Questions

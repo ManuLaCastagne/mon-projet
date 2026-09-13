@@ -15,8 +15,9 @@ indice_6 :
   - Courses hippiques
 questions:
  - Quelle race française de chevaux, créée à partir de chevaux arabes orientaux et de juments anglaises...
+culture_g_score: 64
+culture_g_justification: "Race centrale des courses hippiques, liée à Ascot, au Kentucky Derby et au vocabulaire équestre."
 ---
-
 ![Image de Pur-sang](https://upload.wikimedia.org/wikipedia/commons/b/b9/%221930%22_Pur_Sang_Type_35_Replica_in_Brooklyn%2C_black%2C_front_right.jpg)
 
 ###### Questions

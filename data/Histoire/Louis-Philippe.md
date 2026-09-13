@@ -18,8 +18,9 @@ indice_5:
   - chute lors de la Révolution de Février
 indice_6:
   - connu pour une période de Monarchie de Juillet
+culture_g_score: 71
+culture_g_justification: "Roi central de la Monarchie de Juillet, utile pour comprendre les révolutions françaises et la transition vers la Deuxième République."
 ---
-
 ![Image de Louis-Philippe](https://upload.wikimedia.org/wikipedia/commons/0/06/1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg)
 
 ###### Questions

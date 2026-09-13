@@ -22,8 +22,9 @@ indice_6 :
   - Bandits
 questions:
  - En 1995, dans quel western de Sam Raimi, avec Sharon Stone et Gene Hackman, incarne-t-il le Kid?
+culture_g_score: 23
+culture_g_justification: "Le sujet semble renvoyer à un ancien jeu télévisé peu connu, avec une faible fréquence et peu de réutilisations."
 ---
-
 ![Image de Mort ou Vif](https://upload.wikimedia.org/wikipedia/commons/7/76/Recueil._%22Mort_ou_vif%22_de_Max_R%C3%A9gnier_-_btv1b10524650c_%2802_of_36%29.jpg)
 
 ###### Questions

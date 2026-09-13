@@ -16,9 +16,9 @@ indice_6 :
   - métiers à tisser
 questions:
  - Par quel terme issu de l'italien désigne-t-on une étoffe brochée de soie, d'argent…
+culture_g_score: 51
+culture_g_justification: "Textile associé au luxe, à l’histoire de la mode et aux costumes, mais relativement peu demandé précisément."
 ---
-
-
 ![Image de Brocart](https://upload.wikimedia.org/wikipedia/commons/8/86/Brocart_de_soie_fran%C3%A7ais.jpg)
 
 ###### Questions

@@ -22,10 +22,9 @@ indice_6 :
   - stars
 questions:
  - Film français sorti en 2010,  je me déroule en banlieue, "à 10 minutes de Paris", et suis associé à une reprise de la "Chanson sur ma drôle de vie" de Véronique Sanson. Ayant valu le César du meilleur espoir féminin à Leïla Bekhti, je raconte comment 2 amies d'enfance, Ely et Lila, rêvent de sortir de leur milieu...
+culture_g_score: 56
+culture_g_justification: "Comédie française populaire liée à Leïla Bekhti et au César, mais d'importance culturelle modérée."
 ---
-
-
-
 ![Image de Tout ce qui brille](https://upload.wikimedia.org/wikipedia/commons/4/47/Tout_ce_qui_brille-3.JPG)
 
 ###### Questions

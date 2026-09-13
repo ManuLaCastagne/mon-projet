@@ -22,8 +22,9 @@ indice_5 :
   - volcan Pacaya
 indice_6 : 
   - civilisation maya
+culture_g_score: 72
+culture_g_justification: "Pays d’Amérique centrale rentable grâce aux Mayas, à Tikal, aux volcans, à la géographie régionale et à son histoire politique."
 ---
-
 ![Image de Guatemala](https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg)
 
 ![[Carte_Guatemala.png]]

@@ -20,9 +20,9 @@ indice_5:
   - 2020 NRJ Music Awards
 indice_6:
   - apéritif
+culture_g_score: 64
+culture_g_justification: "Artiste francophone très connue, exploitable via Djadja, ses albums, les classements et les débats culturels, mais encore récente et moins structurante historiquement."
 ---
-
-
 ![Image de Aya Nakamura](https://upload.wikimedia.org/wikipedia/commons/e/e6/Aya_Nakamura-23Sept2019.jpg)
 
 ###### Questions

@@ -14,8 +14,9 @@ indice_5 :
   - opération chirurgicale
 indice_6 : 
   - infection
+culture_g_score: 44
+culture_g_justification: "Condition médicale identifiable et parfois questionnée, mais trop spécialisée pour constituer une priorité de culture générale."
 ---
-
 ![Image de Phimosis](https://upload.wikimedia.org/wikipedia/commons/b/b3/Tight_foreskin_retraction.webm)
 
 ###### Questions

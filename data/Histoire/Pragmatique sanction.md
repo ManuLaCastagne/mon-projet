@@ -18,9 +18,9 @@ indice_5:
   - Marie-Thérèse
 indice_6:
   - lois fondamentales
+culture_g_score: 47
+culture_g_justification: "Acte important de la succession des Habsbourg, mais assez spécialisé et surtout utile dans les questions sur Marie-Thérèse et la guerre de Succession d’Autriche."
 ---
-
-
 ![Image de Pragmatique sanction](https://upload.wikimedia.org/wikipedia/commons/1/1f/La_succession_du_feu_empereur_Charles_VI%2C_dernier_prince_d%27Autriche%2C_telle_que_la_reine_d%27Hongrie_pr%C3%A9tend_la_poss%C3%A9der_en_faveur_de_la_Pragmatique_sanction_-_btv1b84456973.jpg)
 
 ###### Questions

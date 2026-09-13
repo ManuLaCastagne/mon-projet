@@ -15,9 +15,9 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6:
+culture_g_score: 64
+culture_g_justification: "Artiste français très identifiable par son pseudonyme, son personnage scénique et ses Victoires, avec une portée surtout musicale et contemporaine."
 ---
-
-
 ![Image de M](https://upload.wikimedia.org/wikipedia/commons/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg)
 
 ###### Questions

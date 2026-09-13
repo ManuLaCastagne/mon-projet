@@ -20,8 +20,9 @@ indice_6 :
   - Mission ratée
 questions:
  - Mission lunaire  ayant inspiré un film à Ron Howard.
+culture_g_score: 80
+culture_g_justification: "Mission spatiale célèbre par son accident, sa dimension historique et le film qui lui est consacré, ce qui la rend régulièrement exploitable en quiz."
 ---
-
 ![Image de Apollo 13](https://upload.wikimedia.org/wikipedia/commons/c/c8/Apollo_13_Flown_Silver_Robbins_Medallion_%28SN-354%29.jpg)
 
 ###### Questions

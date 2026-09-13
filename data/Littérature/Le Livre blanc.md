@@ -22,8 +22,9 @@ indice_6 :
   - Homosexualité
 questions:
  - Sous quel titre Valéry Larbaud publie-t-il en 1927 un livre comprenant des nouvelles et des notes ?
+culture_g_score: 51
+culture_g_justification: "Le Livre blanc est une œuvre notable de Cocteau par ses thèmes et son contexte, mais sa fréquence et sa portée quiz restent limitées."
 ---
-
 ![Image de Le Livre blanc](https://upload.wikimedia.org/wikipedia/commons/c/c9/White_paper_lanterns_hanging_in_Buden_Yasaka_Shrine_in_Kyoto_Japan.jpg)
 
 ###### Questions

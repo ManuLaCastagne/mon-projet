@@ -15,6 +15,7 @@ indice_5 :
 indice_6 : 
   - Caravelles portugaises
 culture_g_score: 47
+culture_g_justification: "Style architectural portugais significatif, mais généralement limité à quelques monuments et questions d’histoire de l’art."
 ---
 ![Image de Manuélin](https://upload.wikimedia.org/wikipedia/commons/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg)
 

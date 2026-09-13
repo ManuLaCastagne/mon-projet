@@ -18,8 +18,9 @@ indice_5 :
   - congrès de Vienne
 indice_6 : 
   - annexé par le royaume d'Italie en 1861
+culture_g_score: 51
+culture_g_justification: "État important du Risorgimento, surtout utile pour Garibaldi, l’unification italienne et la dynastie des Bourbons de Naples."
 ---
-
 ![Image de royaume des Deux-Siciles](https://upload.wikimedia.org/wikipedia/commons/5/5e/Royaume_des_Deux-Siciles_with_cities2.svg)
 
 ###### Questions

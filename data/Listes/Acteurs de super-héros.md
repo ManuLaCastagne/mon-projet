@@ -1,3 +1,8 @@
+---
+culture_g_score: 60
+culture_g_justification: "Catégorie très exploitable pour les quiz de cinéma et de culture populaire, mais son importance relève principalement du divertissement contemporain."
+---
+
 
 - [[Robert Downey Jr.]] (Iron Man / Tony Stark)
 - [[Chris Evans]] (Captain America / Steve Rogers)

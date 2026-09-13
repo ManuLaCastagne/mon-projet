@@ -14,8 +14,9 @@ indice_5 :
   - Coulée sous pression
 indice_6 : 
   - Résistance à la corrosion
+culture_g_score: 43
+culture_g_justification: "Alliage industriel identifiable par son acronyme et ses usages de moulage, mais rarement prioritaire hors technologie des matériaux."
 ---
-
 ![Image de Zamak](https://upload.wikimedia.org/wikipedia/commons/0/0b/Zamak.jpg)
 
 ###### Questions

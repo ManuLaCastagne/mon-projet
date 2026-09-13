@@ -20,8 +20,9 @@ indice_6 :
   - Jean-Baptiste Etcheverry
 questions:
  - Utilisé par le joueur de pelote basque pour envoyer la balle contre le fronton, je suis…
+culture_g_score: 56
+culture_g_justification: "Équipement caractéristique de la pelote basque, utile pour une question classique de sport et de patrimoine régional."
 ---
-
 ![Image de Chistera](https://upload.wikimedia.org/wikipedia/commons/b/bf/Top_hat.jpg)
 
 ###### Questions

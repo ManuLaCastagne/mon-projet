@@ -14,8 +14,9 @@ indice_5 :
   - camelot
 indice_6 : 
   - vendeur ambulant
+culture_g_score: 44
+culture_g_justification: "Mot désignant un étal de marché, identifiable en vocabulaire et en littérature, mais peu susceptible de revenir souvent."
 ---
-
 ![Image de Éventaire](https://upload.wikimedia.org/wikipedia/commons/b/b6/Vignette%2C_homme_portant_un_%C3%A9ventaire_-_estampe_-_H._Monnier_-_btv1b10534783n.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - La Danseuse
 questions:
  - Quelle actrice, interprétant le rôle-titre du film "La Princesse de Montpensier" en 2010, a pratiqué le vélocross au cours de sa jeunesse?
+culture_g_score: 44
+culture_g_justification: "Actrice française récompensée et présente dans quelques films connus, mais référence encore peu centrale pour un joueur généraliste."
 ---
-
 ![Image de Mélanie Thierry](https://upload.wikimedia.org/wikipedia/commons/a/a6/M%C3%A9lanie_Thierry_D%C3%A9jeuner_C%C3%A9sar_2018.jpg)
 
 ###### Questions

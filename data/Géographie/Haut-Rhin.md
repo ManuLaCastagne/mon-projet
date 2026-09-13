@@ -24,8 +24,9 @@ indice_6 :
   - Château du Haut-Koenigsbourg
 questions:
  - Appartenant à la région Grand Est et bordé par le département des Vosges et le Territoire de Belfort. Culminant à 1 424 m au Ballon de...
+culture_g_score: 44
+culture_g_justification: "Département français identifiable par l'Alsace et quelques repères touristiques, mais rarement interrogé en dehors de questions régionales."
 ---
-
 ![Image de Haut-Rhin](https://upload.wikimedia.org/wikipedia/commons/2/24/Rue_des_Marchands_depuis_le_Ko%C3%AFfhus_%28Colmar%29_%284%29.jpg)
 
 ![[Carte_Haut-Rhin.png]]

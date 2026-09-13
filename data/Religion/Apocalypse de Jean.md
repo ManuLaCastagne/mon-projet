@@ -18,8 +18,9 @@ indice_5 :
   - Nouvel Jérusalem
 indice_6 : 
   - Armageddon
+culture_g_score: 100
+culture_g_justification: "Dernier livre du Nouveau Testament, l'Apocalypse est une référence religieuse et culturelle centrale, riche en symboles et en interprétations."
 ---
-
 ![Image de Apocalypse de Jean](https://upload.wikimedia.org/wikipedia/commons/4/44/St_Jean_de_Montmartre_4th_Horseman_of_Apocalypse_DSC_1111w.jpg)
 
 ###### Questions

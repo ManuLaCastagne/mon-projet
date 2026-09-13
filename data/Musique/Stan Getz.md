@@ -22,8 +22,9 @@ indice_6 :
   - Grammy Awards
 questions:
  - Quel saxophoniste ténor surnommé the Sound...
+culture_g_score: 67
+culture_g_justification: "Grand saxophoniste de jazz, particulièrement rentable grâce à Getz/Gilberto, à la bossa nova et à l’histoire du jazz américain."
 ---
-
 ![Image de Stan Getz](https://upload.wikimedia.org/wikipedia/commons/f/ff/Getz%26BakerSandvika1983a.jpg)
 
 ###### Questions

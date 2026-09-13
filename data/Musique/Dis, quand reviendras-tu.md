@@ -22,8 +22,9 @@ indice_6 :
   - titre récurrent dans la chanson française
 questions:
  - En 1962, dans quelle chanson d'amour Barbara rappelle-t-elle à son amant "que tout le temps perdu ne se..."?
+culture_g_score: 68
+culture_g_justification: "Chanson emblématique de Barbara, utile pour la chanson française, son interprète et quelques reprises, mais moins transversale qu’une figure ou une œuvre majeure."
 ---
-
 ![Image de Dis, quand reviendras-tu](https://upload.wikimedia.org/wikipedia/commons/d/dc/Juliette_Drouet_%C3%A0_Victor_Hugo%2C_18_mai_mardi_apr%C3%A8s_midi_1h30_1847%2C_a7906%283%29.jpg)
 
 ###### Questions

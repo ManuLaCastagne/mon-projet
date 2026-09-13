@@ -22,8 +22,9 @@ indice_6 :
   - style spontané
 questions:
  - Quel écrivain américain, auteur du recueil de poèmes "Mexico city blues" est surtout connu pour son roman "Sur la route" ?
+culture_g_score: 63
+culture_g_justification: "Kerouac est une figure emblématique de la Beat Generation, utile pour la littérature américaine, la contre-culture et Sur la route, mais moins universelle."
 ---
-
 ![Image de Jack Kerouac](https://upload.wikimedia.org/wikipedia/commons/2/2d/Kerouac_by_Palumbo.jpg)
 
 ###### Questions

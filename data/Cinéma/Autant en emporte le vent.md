@@ -20,9 +20,9 @@ indice_5 :
   - Vivien Leigh
 indice_6 : 
   - Margaret Mitchell
+culture_g_score: 88
+culture_g_justification: "Classique mondial du cinéma, lié à Hollywood, aux Oscars, à la littérature et à l’histoire culturelle américaine."
 ---
-
-
 ![Image de Autant en emporte le vent](https://upload.wikimedia.org/wikipedia/commons/d/d7/Vivien_Leigh_Gone_Wind_Restored.jpg)
 
 ###### Questions

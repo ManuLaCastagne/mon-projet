@@ -14,8 +14,9 @@ indice_5 :
   - Effets respiratoires
 indice_6 : 
   - Herbe du diable
+culture_g_score: 27
+culture_g_justification: "Alcaloïde spécialisé surtout associé à la Lobelia et à l'histoire du sevrage tabagique, avec peu d'occurrences généralistes."
 ---
-
 ![Image de Lobéline](https://upload.wikimedia.org/wikipedia/commons/2/24/Lobeline_structure.svg)
 
 ###### Questions

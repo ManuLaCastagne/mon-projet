@@ -20,9 +20,9 @@ indice_5:
   - pop française
 indice_6:
   - Victoires de la Musique
+culture_g_score: 44
+culture_g_justification: "Artiste française contemporaine connue et récompensée, mais encore peu installée comme référence incontournable des quiz."
 ---
-
-
 ![Image de Juliette Armanet](https://upload.wikimedia.org/wikipedia/commons/b/bd/Juliette_Armanet_%283%29.jpg)
 
 ###### Questions

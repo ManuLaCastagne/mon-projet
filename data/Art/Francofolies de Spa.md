@@ -21,8 +21,9 @@ indice_5 :
   - été
 indice_6 : 
   - scène ouverte
+culture_g_score: 40
+culture_g_justification: "Festival francophone reconnu en Belgique, les Francofolies de Spa restent cependant une déclinaison locale d’un thème musical plus large."
 ---
-
 ![Image de Francofolies de Spa](https://upload.wikimedia.org/wikipedia/commons/7/77/Michel_Sardou_au_Francofolies_de_Spa_2017.jpg)
 
 ###### Questions

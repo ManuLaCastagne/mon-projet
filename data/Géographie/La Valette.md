@@ -22,8 +22,9 @@ indice_5 :
   - Grand Siège de 1565
 indice_6 : 
   - port naturel
+culture_g_score: 72
+culture_g_justification: "Capitale emblématique de Malte, régulièrement reliée aux chevaliers de Saint-Jean, au siège de 1565 et au patrimoine méditerranéen."
 ---
-
 ![Image de La Valette](https://upload.wikimedia.org/wikipedia/commons/3/37/La_Valette_%28Is%C3%A8re%29_la_place.jpg)
 
 ![[Carte_La Valette.png]]

@@ -21,8 +21,9 @@ indice_5 :
   - Pont de Normandie
 indice_6 : 
   - Vallée de la Seine
+culture_g_score: 60
+culture_g_justification: "Département normand utile grâce à Rouen, Étretat, Le Havre, la Seconde Guerre mondiale et plusieurs grands ouvrages."
 ---
-
 ![[Carte_Seine-Maritime.png]]
 
 ###### Questions

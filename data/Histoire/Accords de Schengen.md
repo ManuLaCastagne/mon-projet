@@ -20,8 +20,9 @@ indice_6 :
   - 26 États membres
 questions:
  - Accord signé le 14 juin 1985  par la France, l'Allemagne et les pays du Benelux, j'ai été suivi 5 ans plus tard d'une convention d'application entrée en vigueur en 1995.  Faisant suite à une grève du zèle...
+culture_g_score: 89
+culture_g_justification: "Accords européens très fréquemment interrogés et essentiels pour comprendre la libre circulation et la construction européenne."
 ---
-
 ![Image de Accords de Schengen](https://upload.wikimedia.org/wikipedia/commons/f/f3/Accord_de_Schengen.JPG)
 
 ###### Questions

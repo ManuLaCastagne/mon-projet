@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la forêt boréale
 questions:
  - Quel oiseau au plumage roux, voisin de la perdrix, est communément appelé coq des marais ou poule des bois ?
+culture_g_score: 23
+culture_g_justification: "Oiseau peu connu du grand public et principalement exploitable dans des questions spécialisées de zoologie."
 ---
-
 ![Image de Gélinotte](https://upload.wikimedia.org/wikipedia/commons/6/6e/G%C3%A9linotte_des_bois_MHNT.jpg)
 
 ###### Questions

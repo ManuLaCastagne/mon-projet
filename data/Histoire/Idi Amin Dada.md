@@ -20,8 +20,9 @@ indice_6 :
   - responsable de nombreuses violations des droits de l'homme
 questions:
  - En 2007, quel chef d'état d'Ouganda Forest Whitaker incarne-t-il dans "Le Dernier roi d'Ecosse" ?
+culture_g_score: 68
+culture_g_justification: "Dictateur africain très identifiable, utile pour l’histoire de l’Ouganda et des régimes autoritaires du XXe siècle."
 ---
-
 ![Image de Idi Amin Dada](https://upload.wikimedia.org/wikipedia/commons/1/1b/Idi_Amin_at_UN_%28United_Nations%2C_New_York%29_gtfy.00132_%28cropped%29.jpg)
 
 ###### Questions

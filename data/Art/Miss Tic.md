@@ -23,8 +23,9 @@ indice_6 :
   - street art
 questions:
  - Quelle représentante de l'art urbain née en 1956, est associée à des dessins de femmes au pochoir, accompagnés d'inscriptions comme "Fais de moi ce que je veux" ou "L'art et la vie ne font qu'un" ?
+culture_g_score: 47
+culture_g_justification: "Miss Tic est une figure identifiable du street art parisien, mais ses apparitions dans les quiz restent occasionnelles et centrées sur quelques faits."
 ---
-
 ![Image de Miss Tic](https://upload.wikimedia.org/wikipedia/commons/c/c2/Lille_23_rue_voltaire_miss_tic.jpg)
 
 ###### Questions

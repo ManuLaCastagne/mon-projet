@@ -22,8 +22,9 @@ indice_6 :
   - humour décalé
 questions:
  - En 2019, quel film de Cédric Le Gallo et Maxime Govare sur une équipe de water-polo...
+culture_g_score: 32
+culture_g_justification: "Comédie française récente portant un message social, mais encore peu représentée dans les quiz de culture générale."
 ---
-
 ![Image de Les Crevettes pailletées](https://upload.wikimedia.org/wikipedia/commons/8/86/C%C3%A9dric_Le_Gallo_photocall.jpg)
 
 ###### Questions

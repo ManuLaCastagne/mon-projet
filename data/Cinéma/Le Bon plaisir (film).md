@@ -18,6 +18,8 @@ indice_5:
   - François Mitterrand
 indice_6:
   - Enfant adultérin
+culture_g_score: 32
+culture_g_justification: "Film politique français intéressant pour le contexte mitterrandien, mais peu fréquent et peu connu hors des amateurs de cinéma."
 ---
 ![[Pasted image 20250528203003.png]]
 ###### Questions

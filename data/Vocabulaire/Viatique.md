@@ -14,8 +14,9 @@ indice_5 :
   - Secours
 indice_6 : 
   - Chemin
+culture_g_score: 60
+culture_g_justification: "Mot à double portée religieuse et lexicale, pouvant apparaître dans des questions sur le christianisme ou le vocabulaire."
 ---
-
 ![Image de Viatique](https://upload.wikimedia.org/wikipedia/commons/4/42/Transport_d%27un_enfant_blanc%2C_pour_%C3%AAtre_baptis%C3%A9_a_l%27%C3%A9glise_%281%29%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg)
 
 ###### Questions

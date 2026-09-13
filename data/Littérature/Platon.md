@@ -17,8 +17,9 @@ indice_5:
   - Socrate
 indice_6:
   - République
+culture_g_score: 100
+culture_g_justification: "Philosophe absolument incontournable, dont les dialogues, l’Académie, les Formes, la République et l’Atlantide alimentent d’innombrables questions."
 ---
-
 ![Image de Platon](https://upload.wikimedia.org/wikipedia/commons/2/25/De-Platon.ogg)
 
 ###### Questions

@@ -23,8 +23,9 @@ indice_6 :
   - Le Musée du Louvre
 questions:
  - A quels frères doit-on au XVIIe la toile "Famille de paysans dans un intérieur" ?
+culture_g_score: 44
+culture_g_justification: "Trio significatif de la peinture française, mais surtout mobilisé dans des questions spécialisées d'histoire de l'art."
 ---
-
 ![Image de Frères Le Nain](https://upload.wikimedia.org/wikipedia/commons/5/58/Antoine_Le_Nain%2C_Portrait_pr%C3%A9sum%C3%A9_des_fr%C3%A8res_Le_Nain%2C_dit_L%E2%80%99Atelier%2C_XVIIe_si%C3%A8cle%2C_toile%2C_Grande-Bretagne%2C_collection_priv%C3%A9e.jpg)
 
 ###### Questions

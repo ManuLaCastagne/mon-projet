@@ -20,8 +20,9 @@ indice_6 :
   - protagoniste Estelle Laborie
 questions:
  - Faisant intervenir un archéologue ayant découvert un site gallo-romain, j'ai pour héroïne une antiquaire, incarnée par Brigitte… Feuilleton dont le scénario est dû à Frédérique Hébrard et François Velle, je suis…
+culture_g_score: 40
+culture_g_justification: "Mini-série française récompensée mais ancienne et aujourd’hui relativement périphérique dans la culture télévisuelle générale."
 ---
-
 ![Image de Le Château des oliviers](https://upload.wikimedia.org/wikipedia/commons/5/59/Le_ch%C3%A2teau_de_Termes._Un_des_ch%C3%A2teau_de_l%27Aude_Pays_Cathare.jpg)
 
 ###### Questions

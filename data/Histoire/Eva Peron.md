@@ -20,8 +20,9 @@ indice_6 :
   - Evita
 questions:
  - Quelle Argentine, première dame du pays de 46...
+culture_g_score: 80
+culture_g_justification: "Personnalité emblématique de l’Argentine, connue à la fois par la politique, le féminisme, le péronisme et la culture populaire."
 ---
-
 ![Image de Eva Peron](https://upload.wikimedia.org/wikipedia/commons/f/f3/Museo_del_Bicentenario_-_%22Retrato_de_Juan_Domingo_Per%C3%B3n_y_Eva_Duarte%22%2C_Numa_Ayrinhac.jpg)
 
 ###### Questions

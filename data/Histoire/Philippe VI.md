@@ -20,8 +20,9 @@ indice_6 :
   - successeur de Charles IV
 questions:
  - Quel Roi de la dynastie des Valois a dit   "qui m'aime me suive ?"
+culture_g_score: 64
+culture_g_justification: "Roi de France utile pour la succession capétienne, Crécy, la guerre de Cent Ans et la Grande Peste, sans être une figure très célèbre."
 ---
-
 ![Image de Philippe VI](https://upload.wikimedia.org/wikipedia/commons/9/93/Phil6france.jpg)
 
 ###### Questions

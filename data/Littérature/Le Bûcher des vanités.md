@@ -22,8 +22,9 @@ indice_6 :
   - Sherman McCoy
 questions:
  - Quel roman de Tom Wolfe, publié en 1987, met en scène la chute d'un financier de Wall Street?
+culture_g_score: 59
+culture_g_justification: "Le Bûcher des vanités est un roman américain notable, associé à la satire de Wall Street et à son adaptation cinématographique, mais assez spécialisé."
 ---
-
 ![Image de Le Bûcher des vanités](https://upload.wikimedia.org/wikipedia/commons/d/d2/A_Bonfire_of_the_Vanities_ot_Another_Reformation_-_JM_Staniforth.png)
 
 ###### Questions

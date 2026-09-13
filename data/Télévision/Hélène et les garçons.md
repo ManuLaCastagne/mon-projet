@@ -20,8 +20,9 @@ indice_6 :
   - appartements étudiants
 questions:
  - Série télévisée française de 280 épisodes, j'ai réuni chaque jour jusqu'à 6 millions de personnes et certains de mes épisodes ont été suivis par 90 % des téléspectatrices de 4 à 24 ans.  Créée en 1992 avec des acteurs comme Patrick Puydebat et Cathy Andrieu, je mets en scène des étudiants partageant leur...
+culture_g_score: 73
+culture_g_justification: "Sitcom française emblématique des années 1990, souvent reliée à TF1, Hélène Rollès et l’univers d’AB Productions."
 ---
-
 ![Image de Hélène et les garçons](https://upload.wikimedia.org/wikipedia/commons/2/28/H%26G.png)
 
 ###### Questions

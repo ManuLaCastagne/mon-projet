@@ -20,8 +20,9 @@ indice_6 :
   - Likoud
 questions:
  - Homme d'Etat ayant reçu le prix Nobel de la paix en 1978 avec Anouar el-Sadate, pour avoir négocié les accords de paix israëlo-égyptiens, je disparais en 92.
+culture_g_score: 68
+culture_g_justification: "Dirigeant important du conflit israélo-arabe, particulièrement rentable pour les accords de Camp David et l’histoire d’Israël."
 ---
-
 ![Image de Menahem Begin](https://upload.wikimedia.org/wikipedia/commons/b/b9/Menahem_Begin_during_his_%22Rabbi_Sassover%22_period_with_wife_Aliza_and_son_Benyamin-Zeev_in_Tel_Aviv.jpg)
 
 ###### Questions

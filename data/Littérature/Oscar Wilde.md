@@ -22,8 +22,9 @@ indice_6 :
   - Satires sociales et spirituelles
 questions:
  - Quel écrivain irlandais du Culture_G/XIXe, auteur du "Portrait de Dorian Gray", mesurait 1,90 m?
+culture_g_score: 84
+culture_g_justification: "Écrivain universellement célèbre, exploitable par ses œuvres, son théâtre, l’époque victorienne, ses aphorismes et son procès, même si son importance reste surtout littéraire."
 ---
-
 ![Image de Oscar Wilde](https://upload.wikimedia.org/wikipedia/commons/4/44/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg)
 
 ###### Questions

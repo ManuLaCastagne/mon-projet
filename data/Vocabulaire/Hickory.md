@@ -14,8 +14,9 @@ indice_5 :
   - Amérique du Nord
 indice_6 : 
   - Rôti à l'hickory
+culture_g_score: 47
+culture_g_justification: "Arbre et bois nord-américain associés aux battes et aux manches d’outils, mais rarement interrogés précisément."
 ---
-
 ![Image de Hickory](https://upload.wikimedia.org/wikipedia/commons/5/5c/US-NC-Hickory_Union_Square.JPG)
 
 ###### Questions

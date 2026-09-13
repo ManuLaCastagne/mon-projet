@@ -22,8 +22,9 @@ indice_6 :
   - La Cour des grands
 questions:
  - Dans lequel je finis 3e, avec une jambe dans le plâtre.  Enregistrant la même année mon 1er album, "Un jour d'été", disque de platine, j'ai sorti en 2019 mon 6e album intitulé "Demain" et suis devenue coach dans l'émission "The Voice".
+culture_g_score: 44
+culture_g_justification: "Chanteuse populaire identifiable par Nouvelle Star et Ma philosophie, mais principalement utile pour quelques questions de variété contemporaine."
 ---
-
 ![Image de Amel Bent](https://upload.wikimedia.org/wikipedia/commons/d/d5/Amel_Bent%2C_2014_%28cropped%29.jpg)
 
 ###### Questions

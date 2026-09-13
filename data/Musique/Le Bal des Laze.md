@@ -22,8 +22,9 @@ indice_6 :
   - château médiéval
 questions:
  - Dans quelle chanson Michel Polnareff dit-il "une fête dans le château" ?
+culture_g_score: 44
+culture_g_justification: "Chanson reconnue de Polnareff, mais sa connaissance répond surtout à une question musicale ponctuelle."
 ---
-
 ![Image de Le Bal des Laze](https://upload.wikimedia.org/wikipedia/commons/2/2e/Le_massage_%28electronic_resource%29_-_manuel_th%C3%A9orique_et_pratique_%28IA_b20391572%29.pdf)
 
 ###### Questions

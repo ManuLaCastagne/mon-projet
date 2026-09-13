@@ -20,8 +20,9 @@ indice_5:
   - Partenaire de Mick Jagger
 indice_6:
   - Influence blues
+culture_g_score: 84
+culture_g_justification: "Membre fondateur des Rolling Stones, figure incontournable du rock, exploitable par le groupe, ses riffs, sa carrière et la culture musicale des années 1960."
 ---
-
 ![Image de Keith Richards](https://upload.wikimedia.org/wikipedia/commons/d/d5/Keith_Richards_and_Ron_Finestone.jpg)
 
 ###### Questions

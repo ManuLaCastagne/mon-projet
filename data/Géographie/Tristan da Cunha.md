@@ -22,8 +22,9 @@ indice_5 :
   - Aucune piste d'atterrissage
 indice_6 : 
   - Économie basée sur la pêche et l'agriculture
+culture_g_score: 52
+culture_g_justification: "Archipel remarquable par son isolement et son éruption de 1961, mais principalement exploité par quelques questions de géographie insolite."
 ---
-
 ![Image de Tristan da Cunha](https://upload.wikimedia.org/wikipedia/commons/0/0f/Tristan_da_Cunha_ASTER.jpg)
 
 ![[Carte_Tristan da Cunha.png]]

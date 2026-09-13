@@ -22,9 +22,9 @@ indice_6 :
   - Thomas Bangalter et Guy-Manuel de Homem-Christo
 questions:
  - Groupe français ayant choisi son nom, en 1993, en référence à un commentaire désagréable d'un journaliste de "Melody Maker", j'ai sorti depuis 4 albums et rencontré un succès international.  Jouant de la musique électronique, je suis formé de Thomas Bangalter et Guy-Manuel de Homem-Christo...
+culture_g_score: 84
+culture_g_justification: "Duo mondialement identifiable, très rentable pour la French Touch, la musique électronique, les Grammys, les collaborations et la culture populaire."
 ---
-
-
 ![Image de Daft Punk](https://upload.wikimedia.org/wikipedia/commons/6/68/Daft_Punk_in_2013_2-_centered.jpg)
 
 ###### Questions

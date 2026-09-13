@@ -24,8 +24,9 @@ indice_6 :
   - mangroves
 questions:
  - Aux Etats-Unis, quelle région marécageuse au sud de la Floride qui abrite un parc naturel de 5500 km2 recouvert d'une végétation tropicale ?
+culture_g_score: 80
+culture_g_justification: "Écosystème et parc national emblématiques, liés à la Floride, aux crocodiliens, à l’UNESCO et à la biodiversité."
 ---
-
 ![Image de Everglades](https://upload.wikimedia.org/wikipedia/commons/3/36/Everglades_Sawgrass_Prairie_Moni3.JPG)
 
 ![[Carte_Everglades.png]]

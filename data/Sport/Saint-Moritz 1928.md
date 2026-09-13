@@ -20,8 +20,9 @@ indice_5:
   - Première olympiade d'hiver
 indice_6:
   - Ski alpin
+culture_g_score: 51
+culture_g_justification: "Édition ancienne des Jeux d’hiver utile pour l’histoire olympique, mais peu fréquente et limitée à quelques faits."
 ---
-
 ![Image de Saint-Moritz 1928](https://upload.wikimedia.org/wikipedia/commons/6/61/Saint-Moritz_la_nuit_%281928%29.jpg)
 
 ###### Questions

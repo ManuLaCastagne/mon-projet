@@ -18,8 +18,9 @@ indice_5 :
   - révolution russe
 indice_6 : 
   - famille Romanov
+culture_g_score: 84
+culture_g_justification: "Dernier tsar de Russie, incontournable pour les révolutions russes, la Première Guerre mondiale, les Romanov et l’exécution d’Ekaterinbourg."
 ---
-
 ![Image de Nicolas II](https://upload.wikimedia.org/wikipedia/commons/3/34/George_V_and_Nicholas_II_in_Berlin%2C_1913.jpg)
 
 ###### Questions

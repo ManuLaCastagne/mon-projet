@@ -22,8 +22,9 @@ indice_6 :
   - Ketchup Song
 questions:
  - Sur ma mob, c'est le titre de la chanson sortie en 1979 et interprétée par le groupe Lili Drop, dont le chanteur était Olivier Caudron. Sous quel nom la bassiste de Lili Drop, Korin Ternovtzeff s'est-elle fait connaître dans les années 90, avec le tube...
+culture_g_score: 40
+culture_g_justification: "Interprète associée à un succès précis de la chanson française, avec une notoriété et une fréquence de quiz limitées."
 ---
-
 ![Image de Enzo Enzo](https://upload.wikimedia.org/wikipedia/commons/c/c4/Enzo_Bianchi_1.JPG)
 
 ###### Questions

@@ -20,8 +20,9 @@ indice_6 :
   - Jérusalem
 questions:
  - Dans la Bible, quel coffre sacré en bois d'acacia est preuve de l'alliance nouée par Dieu avec son peuple, et transféré par David à Jérusalem ?
+culture_g_score: 97
+culture_g_justification: "Objet biblique universellement célèbre, mobilisable en religion, histoire ancienne, archéologie, art et récits de trésors disparus."
 ---
-
 ![Image de Arche d'alliance](https://upload.wikimedia.org/wikipedia/commons/b/b8/Meuble_h%C3%A9raldique_Arche_d%27alliance.svg)
 
 ###### Questions

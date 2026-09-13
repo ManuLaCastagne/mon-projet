@@ -22,8 +22,9 @@ indice_6 :
   - Cercle Arctique
 questions:
  - Quel Etat des Etats-Unis est dominé par le mont McKinley, appelé aujourd'hui mont Denali ?
+culture_g_score: 84
+culture_g_justification: "État américain très célèbre, régulièrement associé à l’achat russe, au Denali, à l’Arctique, à l’or et au pétrole."
 ---
-
 ![Image de Alaska](https://upload.wikimedia.org/wikipedia/commons/9/99/Parque_estatal_Chugach%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_94.jpg)
 
 ![[Carte_Alaska.png]]

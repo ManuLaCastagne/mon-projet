@@ -20,8 +20,9 @@ indice_6 :
   - sept saisons
 questions:
  - Dans quelle série télévisée américaine, diffusée en France à partir de 1999, suit-on les aventures de la famille nombreuse du pasteur Eric...
+culture_g_score: 44
+culture_g_justification: "Série familiale connue d’une génération de téléspectateurs, mais aujourd’hui peu fréquente et peu transversale en quiz."
 ---
-
 ![Image de 7 à la maison](https://upload.wikimedia.org/wikipedia/commons/9/91/%C3%80_la_Maison_Commune_quartier_d%27Annappes_%28Villeneuve_d%27Ascq%29_%284%29.jpg)
 
 ###### Questions

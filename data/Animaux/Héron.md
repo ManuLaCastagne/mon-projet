@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de patience et de vigilance
 questions:
  - Quel échassier La Fontaine décrit-il dans une fable pourvu d'un long bec…
+culture_g_score: 51
+culture_g_justification: "Oiseau courant et représenté dans les arts, mais relativement peu présent comme réponse précise de quiz."
 ---
-
 ![Image de Héron](https://upload.wikimedia.org/wikipedia/commons/8/8a/00_H%C3%A9ron_051017_%287%29.jpg)
 
 ###### Questions

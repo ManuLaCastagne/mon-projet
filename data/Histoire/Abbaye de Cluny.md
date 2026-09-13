@@ -20,8 +20,9 @@ indice_6:
   - détruite en grande partie pendant la Révolution française
 questions:
   - Abbaye, fondée en 909, près de Mâcon, qui devint au cours des 10e  et 11e siècles le principal foyer du renouveau monastique en Occident ?
+culture_g_score: 68
+culture_g_justification: "Centre majeur du monachisme médiéval, particulièrement rentable pour l'histoire religieuse, l'architecture et la culture européenne."
 ---
-
 ![Image de Abbaye de Cluny](https://upload.wikimedia.org/wikipedia/commons/5/5b/Abbaye_de_Cluny_hdsr_IMG_6873.jpg)
 
 ###### Questions

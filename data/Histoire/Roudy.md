@@ -20,8 +20,9 @@ indice_6 :
   - Paris insurrection
 questions:
  - Quelle femme élue députée européenne, a été ministre des Droits de la femme ?
+culture_g_score: 44
+culture_g_justification: "Yvette Roudy est une figure significative du féminisme politique français, mais ses occurrences en quiz restent relativement rares."
 ---
-
 ![Image de Roudy](https://upload.wikimedia.org/wikipedia/commons/5/59/Duby_u_Roudy-I-04-2020-olesnice_u_trhovych_svinu.jpg)
 
 ###### Questions

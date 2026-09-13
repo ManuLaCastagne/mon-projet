@@ -22,8 +22,9 @@ indice_6 :
   - Daily Bugle
 questions:
  - Quel super héros de l'univers Marvel a inspiré une série de films dont le dernier en date, sorti en 2019, a été réalisé par Jon Watts?
+culture_g_score: 96
+culture_g_justification: "Super-héros mondialement incontournable, reliant comics, cinéma, acteurs, personnages, studios et culture populaire."
 ---
-
 ![Image de Spider-man](https://upload.wikimedia.org/wikipedia/commons/5/52/Spider-Man.jpg)
 
 ###### Questions

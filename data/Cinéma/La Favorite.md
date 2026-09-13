@@ -22,8 +22,9 @@ indice_6 :
   - Gollum
 questions:
  - En 2019, quel film avec Emma Stone et Olivia Colman dépeint les rivalités féminines autour de la reine Anne à la cour britannique au XVIIIe siècle?
+culture_g_score: 60
+culture_g_justification: "Film d'auteur bien récompensé, exploitable par le cinéma, les Oscars et l'histoire britannique, mais de notoriété intermédiaire."
 ---
-
 ![Image de La Favorite](https://upload.wikimedia.org/wikipedia/commons/d/d3/Gilbert_Duprez_%26_Rosine_Stoltz_in_Donizetti%27s_La_Favorite.jpg)
 
 ###### Questions

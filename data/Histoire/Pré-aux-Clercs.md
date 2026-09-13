@@ -20,11 +20,9 @@ indice_6 :
   - mentionné dans de nombreuses œuvres littéraires
 questions:
  - Jadis, dans quel lieu, situé à l'ouest de l'abbaye de Saint-Germain-des-Prés, les gentilshommes se donnaient-ils rendez-vous pour s'affronter en duel?
+culture_g_score: 23
+culture_g_justification: "Lieu historique parisien anecdotique, principalement associé à quelques récits de duels de la Renaissance."
 ---
-
-
-
-
 ![Image de Pré-aux-Clercs](https://upload.wikimedia.org/wikipedia/commons/1/1a/Pr%C3%A9_aux_clercs%2C_G.32541.jpg)
 
 ###### Questions

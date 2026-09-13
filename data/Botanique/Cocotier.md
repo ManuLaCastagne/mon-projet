@@ -15,8 +15,9 @@ indice_6 :
   - Utilisé pour ses fruits comestibles, l'eau de coco, et le bois
 questions:
  - Quel palmier  des régions tropicales produit l'huile de coprah...
+culture_g_score: 60
+culture_g_justification: "Le cocotier est très familier et permet des questions de géographie, botanique, alimentation et usages tropicaux, sans être une référence culturelle majeure."
 ---
-
 ![Image de Cocotier](https://upload.wikimedia.org/wikipedia/commons/1/1f/Cocos_nucifera_Blanco2.363-cropped.jpg)
 
 ###### Questions

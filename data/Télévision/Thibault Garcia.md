@@ -19,8 +19,9 @@ indice_5 :
   - musique
 indice_6 : 
   - influenceur
+culture_g_score: 24
+culture_g_justification: "Influenceur issu de la téléréalité, principalement connu dans un public spécialisé et peu utile en culture générale."
 ---
-
 ![Image de Thibault Garcia](https://upload.wikimedia.org/wikipedia/commons/8/81/Biodiversity_EuropaTimeline_and_data_distribution_Nature.webp)
 
 ###### Questions

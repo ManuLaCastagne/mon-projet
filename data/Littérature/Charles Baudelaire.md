@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - Quel poète est l'auteur de l"Albatros" ?
  - A quel poète du Culture_G/XIXe siècle doit-on ces vers  "Là, tout n'est qu'ordre et beauté, luxe, calme et volupté?
+culture_g_score: 97
+culture_g_justification: "Baudelaire et Les Fleurs du mal sont des références majeures, fréquemment interrogées à travers la poésie, la modernité, Poe et la censure."
 ---
-
 ![Image de Charles Baudelaire](https://upload.wikimedia.org/wikipedia/commons/1/16/%C3%89tienne_Carjat%2C_Portrait_of_Charles_Baudelaire%2C_circa_1862.jpg)
 
 ###### Questions

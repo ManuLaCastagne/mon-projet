@@ -22,8 +22,9 @@ indice_6 :
   - France des années 60
 questions:
  - En 1989, dans quel film de Louis Malle avec Michel Piccoli et Miou-Miou, une famille se réunit-elle pour des obsèques en mai 68 ?
+culture_g_score: 52
+culture_g_justification: "Film de Louis Malle lié à Mai 1968 et à plusieurs acteurs français, mais relativement secondaire dans les quiz."
 ---
-
 ![Image de Milou en Mai](https://upload.wikimedia.org/wikipedia/commons/1/1a/Eug%C3%A8ne_Le_Roy_-_Nicette_et_Milou%2C_1901.djvu)
 
 ###### Questions

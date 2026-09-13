@@ -21,9 +21,9 @@ indice_5 :
   - Port of Waterford
 indice_6 : 
   - Viking Triangle
+culture_g_score: 52
+culture_g_justification: "Ville irlandaise identifiable par les Vikings, le cristal et son patrimoine médiéval, sans être une référence majeure des quiz."
 ---
-
-
 ![[Carte_Waterford.png]]
 
 ###### Questions

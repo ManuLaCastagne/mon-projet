@@ -22,8 +22,9 @@ indice_6:
   - collaborateur de Roland Topor
 questions:
   - Quel dramaturge et metteur en scène, nommé en 2002 directeur du théâtre du Rond-Point, a réalisé le film "Musée haut, Musée bas"?
+culture_g_score: 52
+culture_g_justification: "Auteur et metteur en scène lié à la télévision satirique et au théâtre français, mais d’une fréquence quiz modérée."
 ---
-
 ![Image de Jean-Michel Ribes](https://upload.wikimedia.org/wikipedia/commons/8/8d/Jean-Michel_Ribes_2014.jpg)
 
 ###### Questions

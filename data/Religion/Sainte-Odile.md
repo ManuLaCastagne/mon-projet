@@ -20,8 +20,9 @@ indice_6 :
   - Patronne de l'Alsace
 questions:
  - J'y fais voeu de virginité et recouvre la vue… Ayant reçu de mon père le château de Hohenbourg, je le transforme en monastère dont je deviendrai l'abbesse. Sainte fêtée le 14 décembre, patronne de l'Alsace, je suis…
+culture_g_score: 44
+culture_g_justification: "Sainte régionale importante en Alsace, mais peu présente dans les quiz nationaux en dehors du pèlerinage et du Mont Sainte-Odile."
 ---
-
 ![Image de Sainte-Odile](https://upload.wikimedia.org/wikipedia/commons/0/07/Chapelle_Sainte-Odile_-_colonne_%28Scherwiller%29.jpg)
 
 ###### Questions

@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Suisse
+culture_g_score: 40
+culture_g_justification: "Fromage suisse identifiable par les amateurs, mais peu fréquent et peu transversal dans les quiz généralistes."
 ---
 ###### Questions 
 

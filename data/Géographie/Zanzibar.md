@@ -24,8 +24,9 @@ indice_6 :
   - Plages paradisiaques
 questions:
  - Quelle île de l'océan Indien, surnommée l'île aux épices, forme avec l'île voisine de la Tanzanie insulaire...
+culture_g_score: 72
+culture_g_justification: "Archipel riche en angles historiques, géographiques et culturels, associé à Oman, à la Tanzanie, au commerce et à une guerre célèbre."
 ---
-
 ![Image de Zanzibar](https://upload.wikimedia.org/wikipedia/commons/8/84/Map_of_Zanzibar_Archipelago-en.svg)
 
 ![[Carte_Zanzibar.png]]

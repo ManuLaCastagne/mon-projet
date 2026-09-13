@@ -22,8 +22,9 @@ indice_6 :
   - combat acharné
 questions:
  - Quel roman d'Ernest Hemingway évoque un pêcheur cubain…
+culture_g_score: 97
+culture_g_justification: "Le Vieil Homme et la Mer est un classique mondial, régulièrement interrogé à travers Hemingway, les prix littéraires, Cuba et son intrigue."
 ---
-
 ![Image de Le Vieil Homme et la Mer](https://upload.wikimedia.org/wikipedia/commons/0/05/Aimard_-_Les_Boh%C3%A8mes_de_la_mer%2C_1891.djvu)
 
 ###### Questions

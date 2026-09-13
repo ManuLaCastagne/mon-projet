@@ -24,8 +24,9 @@ indice_6 :
   - Maine-et-Loire
 questions:
  - Dans quelle ville du Maine-et-Loire Coco Chanel est-elle née en 1883 ?
+culture_g_score: 60
+culture_g_justification: "Ville de la Loire connue pour son château, le Cadre Noir, ses vins et son patrimoine troglodytique."
 ---
-
 ![Image de Saumur](https://upload.wikimedia.org/wikipedia/commons/9/9c/Panorama_of_Saumur.JPG)
 
 ![[Carte_Saumur.png]]

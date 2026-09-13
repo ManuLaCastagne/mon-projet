@@ -22,8 +22,9 @@ indice_6 :
   - Cover
 questions:
  - De quelle chanson, extraite de l'album "Imagine" en 1971, John Lennon sifflote-t-il la mélodie?
+culture_g_score: 68
+culture_g_justification: "Chanson majeure de John Lennon, utile pour Imagine, les Beatles, Roxy Music et l’histoire du rock, sans être l’un des sujets les plus transversaux."
 ---
-
 ![Image de Jealous Guy](https://upload.wikimedia.org/wikipedia/commons/e/e6/Guy_Deverell_%28IA_guydeverell02lefa%29.pdf)
 
 ###### Questions

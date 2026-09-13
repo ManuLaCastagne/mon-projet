@@ -22,8 +22,9 @@ indice_6 :
   - exotique
 questions:
  - Quelle chanteuse péruvienne restée célèbre pour sa tessiture, a été citée par Vanessa Paradis dans "Joe le Taxi" ?
+culture_g_score: 47
+culture_g_justification: "Chanteuse péruvienne singulière, utile pour une question de voix ou de musique exotique, mais assez rarement mobilisée."
 ---
-
 ![Image de Yma Sumac](https://upload.wikimedia.org/wikipedia/commons/e/e9/Yma_Sumac_in_Italy.jpg)
 
 ###### Questions

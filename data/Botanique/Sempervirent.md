@@ -15,8 +15,9 @@ indice_6 :
   - Indice 6  Aménagement paysager
 questions:
  - Quel adjectif qualifie une plante au feuillage persistant, comme le genévrier écailleux employée pour embellir un jardin l'hiver?
+culture_g_score: 20
+culture_g_justification: "Adjectif botanique spécialisé, susceptible d'une question de vocabulaire mais peu réutilisable."
 ---
-
 ![Image de Sempervirent](https://upload.wikimedia.org/wikipedia/commons/7/7e/Cupressus_sempervirens_kz02.jpg)
 
 ###### Questions

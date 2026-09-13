@@ -22,8 +22,9 @@ indice_6 :
   - Romancière française
 questions:
  - En 2011, quelle romancière, auteur des "Lits à une place" et des "Julottes", évoque son père disparu dans "Prête-moi ta vie pour t'écrire là-haut"?
+culture_g_score: 40
+culture_g_justification: "Auteure populaire et parolière française, mais ses références restent limitées à quelques œuvres et à la chanson française."
 ---
-
 ![Image de Françoise Dorin](https://upload.wikimedia.org/wikipedia/commons/6/66/Fran%C3%A7oise_Dorin.jpg)
 
 ###### Questions

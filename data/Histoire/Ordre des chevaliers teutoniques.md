@@ -20,9 +20,9 @@ indice_6 :
   - expansion en Europe de l'Est
 questions:
  - Quelle population semi-nomade, désignée par un mot d'origine turco-tatare, ont fourni une cavalerie irrégulière à l'armée tsariste?
+culture_g_score: 67
+culture_g_justification: "Ordre médiéval important pour les croisades et l’Europe orientale, mais rarement prioritaire face aux grands acteurs de l’histoire médiévale."
 ---
-
-
 ![Image de Ordre des chevaliers teutoniques](https://upload.wikimedia.org/wikipedia/commons/a/ae/Partition_of_the_Livonian_Order_-_ru.svg)
 
 ###### Questions

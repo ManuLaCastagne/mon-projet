@@ -23,8 +23,9 @@ indice_6 :
   - toit en béton
 questions:
  - Quelle commune de la Haute-Saône abrite la chapelle Notre-Dame du Haut, que Le Corbusier conçut avec un toit en béton en forme de coque de bateau ?
+culture_g_score: 44
+culture_g_justification: "La commune est surtout un repère pour la chapelle Notre-Dame-du-Haut de Le Corbusier, sujet notable mais relativement spécialisé."
 ---
-
 ![Image de Ronchamp](https://upload.wikimedia.org/wikipedia/commons/a/a1/Ronchamp_OSM.png)
 
 ###### Questions

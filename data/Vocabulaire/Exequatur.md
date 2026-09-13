@@ -14,8 +14,9 @@ indice_5 :
   - droit international privé
 indice_6 : 
   - tribunal français
+culture_g_score: 44
+culture_g_justification: "Terme juridique international classique, mais réservé à des questions relativement spécialisées sur l’exécution des décisions étrangères."
 ---
-
 ![Image de Exequatur](https://upload.wikimedia.org/wikipedia/commons/e/e8/Exequatur_of_Jonathan_B_Rickert%2C_Vice-Consul_in_London.png)
 
 ###### Questions

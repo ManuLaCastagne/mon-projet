@@ -4,8 +4,9 @@ tags:
   - Jérusalem
   - Années_30
   - Ier
-debut: 
-fin: 
+  - Certifié
+debut: 30
+fin:
 indice_1:
   - Crucifixion
 indice_2:
@@ -38,7 +39,3 @@ Quel est le nom de la colline à l'extérieur de [[Jérusalem]] qui est mentionn
 [[Golgotha]], aussi connu sous le nom de Mont du Crâne, est traditionnellement identifié comme l'endroit où [[Jésus]] a été crucifié aux alentours de l'an 30 apr. J.-C. 
 
 Ce lieu sacré est situé à proximité de [[Jérusalem]], une ville marquante pour les événements de la Passion. 
-
-Peu de gens savent que [[Golgotha]] a été localisé en 1883 par l'archéologue britannique [[Charles Gordon]], qui a proposé le jardin de la tombe comme emplacement potentiel, bien que ceci soit encore sujet à débat parmi les historiens. 
-
-Historiquement, [[Golgotha]] est devenu un symbole puissant pour le [[christianisme]], mais aussi un lieu mystérieux en raison des divers emplacements supposés qui restent aujourd'hui un sujet de controverse et de découverte.

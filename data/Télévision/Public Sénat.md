@@ -20,8 +20,9 @@ indice_6 :
   - couverture des élections et activités politiques
 questions:
  - Quelle chaîne parlementaire est diffusée sur le canal 13, en alternance avec la chaîne appelée LCP-Assemblée nationale?
+culture_g_score: 44
+culture_g_justification: "Chaîne institutionnelle identifiable, mais rarement une réponse prioritaire en dehors des questions sur les médias politiques."
 ---
-
 ![Image de Public Sénat](https://upload.wikimedia.org/wikipedia/commons/9/93/La_Cha%C3%AEne_parlementaire_%282019%29.png)
 
 ###### Questions

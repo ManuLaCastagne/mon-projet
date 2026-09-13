@@ -22,8 +22,9 @@ indice_6 :
   - influencés par le rockabilly
 questions:
  - En 2003, quel groupe de punk-rock alternatif, fondé par Didier Chappedelaine, connaît le succès avec "Manu Chao" ?
+culture_g_score: 40
+culture_g_justification: "Groupe punk français connu des amateurs du genre et par quelques titres, mais rarement prioritaire dans les quiz généralistes."
 ---
-
 ![Image de Les Wampas](https://upload.wikimedia.org/wikipedia/commons/e/ef/Wampas_2015.jpg)
 
 ###### Questions

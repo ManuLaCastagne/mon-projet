@@ -20,8 +20,9 @@ indice_6 :
   - standardisation de l'écriture
 questions:
  - En Chine, quel empereur s'est fait construire un vaste complexe funéraire comprenant quelques 8000 statues… ?
+culture_g_score: 84
+culture_g_justification: "Premier empereur de Chine, relié à l’unification chinoise, à la Grande Muraille et à l’armée de terre cuite."
 ---
-
 ![Image de Qin Shi Huangdi](https://upload.wikimedia.org/wikipedia/commons/a/ab/Qinshihuangdi3.jpg)
 
 ###### Questions

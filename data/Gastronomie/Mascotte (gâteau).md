@@ -1,7 +1,7 @@
 ---
 tags:
   - Certifié
-culture_g_score: 20
+culture_g_score:
 ---
 ![[Pasted image 20260803212421.png]]
 ###### Questions 

@@ -20,8 +20,9 @@ indice_5:
   - TGV du Creusot-Montceau
 indice_6:
   - Musée de l'homme et de l'industrie
+culture_g_score: 52
+culture_g_justification: "Ville emblématique de l’industrialisation française et de la métallurgie, mais dont les questions restent surtout historiques et régionales."
 ---
-
 ![[Carte_Le Creusot.png]]
 
 ###### Questions

@@ -14,8 +14,9 @@ indice_5 :
   - Cramoisi
 indice_6 : 
   - Chimie des couleurs
+culture_g_score: 27
+culture_g_justification: "Technique de teinture spécialisée, principalement mobilisée dans des questions d'artisanat, de textile ou d'histoire des arts."
 ---
-
 ![Image de Mordancée](https://upload.wikimedia.org/wikipedia/commons/0/01/20190629_avocat_soie_mordanc%C3%A9e_tremp%C3%A9e_%C3%A0_froid.jpg)
 
 ###### Questions

@@ -22,12 +22,9 @@ indice_6 :
   - cheveux blancs
 questions:
  - Jouant le rôle du lieutenant Frank Drebin dans la série "Y a-t-il un flic?" et disparu en 2010, je suis…
+culture_g_score: 64
+culture_g_justification: "Acteur fortement associé à la parodie et à deux franchises populaires, mais d'importance culturelle et de fréquence intermédiaires."
 ---
-
-
-
-
-
 ![Image de Leslie Nielsen](https://upload.wikimedia.org/wikipedia/commons/0/0d/Leslie_Nielsen.jpg)
 
 ###### Questions

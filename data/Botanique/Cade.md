@@ -13,8 +13,9 @@ indice_5:
   - Genévrier oxycèdre
 indice_6:
   - Utilisé en parfumerie
+culture_g_score: 23
+culture_g_justification: "Arbuste méditerranéen surtout retenu pour son huile traditionnelle, le cade est une connaissance botanique très spécifique."
 ---
-
 ![Image de Cade](https://upload.wikimedia.org/wikipedia/commons/b/be/Cade1.jpg)
 
 ###### Questions

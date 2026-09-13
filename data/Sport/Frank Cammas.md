@@ -20,10 +20,9 @@ indice_6 :
   - Transat Jacques Vabre
 questions:
  - Entre 2001 et 2007, quel navigateur français a remporté à 3 reprises la Transat Jacques-Vabre...
+culture_g_score: 40
+culture_g_justification: "Navigateur français reconnu dans la voile, mais dont les exploits restent relativement spécialisés dans les quiz."
 ---
-
-
-
 ![Image de Frank Cammas](https://upload.wikimedia.org/wikipedia/commons/2/24/Contributions_to_the_anatomy_of_anthropoid_apes_%28IA_b28141386%29.pdf)
 
 ###### Questions

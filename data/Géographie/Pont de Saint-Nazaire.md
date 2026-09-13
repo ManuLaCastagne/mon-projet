@@ -24,8 +24,9 @@ indice_6 :
   - ouvrage à haubans
 questions:
  - Dans le pays nantais, quel pont, le plus long de France lors de sa mise en service en 1975, enjambe l'estuaire de la Loire ?
+culture_g_score: 44
+culture_g_justification: "Ouvrage d’art français remarquable, mais généralement limité à des questions sur la Loire, la Bretagne et les records de ponts."
 ---
-
 ![Image de Pont de Saint-Nazaire](https://upload.wikimedia.org/wikipedia/commons/0/06/Pont_Vieux_et_Cath%C3%A9drale_Saint-Nazaire_de_B%C3%A9ziers_cf02.jpg)
 
 ![[Carte_Pont de Saint-Nazaire.png]]

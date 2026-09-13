@@ -20,8 +20,9 @@ indice_6 :
   - Série française
 questions:
  - Me déroulant au 5e siècle dans le royaume de Logres. Je transforme les chevaliers de la Table ronde en héros incompétents. Les dialogues sont savoureux.
+culture_g_score: 76
+culture_g_justification: "Série française culte fréquemment citée pour ses personnages, ses répliques, Alexandre Astier et son adaptation cinématographique."
 ---
-
 ![Image de Kaamelott](https://upload.wikimedia.org/wikipedia/commons/2/20/Rocher_Excalibur_-_Kaamelott_%28Les_Estables%29.jpg)
 
 ###### Questions

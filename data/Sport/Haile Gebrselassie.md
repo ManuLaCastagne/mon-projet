@@ -20,9 +20,9 @@ indice_6 :
   - Jeux Olympiques
 questions:
  - En 1993, quel coureur de fond éthiopien remporte son 1er titre de champion du monde sur 10 000 m ?
+culture_g_score: 68
+culture_g_justification: "Grande figure de l’athlétisme mondial, utile pour les questions sur l’Éthiopie, le fond et les records olympiques."
 ---
-
-
 ![Image de Haile Gebrselassie](https://upload.wikimedia.org/wikipedia/commons/8/82/Haile_Gebrselassie_en_2009.jpg)
 
 ###### Questions

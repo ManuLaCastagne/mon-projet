@@ -14,8 +14,9 @@ indice_5 :
   - chaloupe
 indice_6 : 
   - bateau de pêche
+culture_g_score: 23
+culture_g_justification: "Terme technique de pêche régionale, susceptible d’une question de vocabulaire mais très peu rentable à apprendre en priorité."
 ---
-
 ![Image de Bolinche](https://www.pecheursdebretagne.eu/wp-content/uploads/2016/12/1.png)
 
 ###### Questions

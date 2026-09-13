@@ -23,8 +23,9 @@ indice_6 :
 questions:
  - C'est les Beatles, chanson méconnue enregistrée par John Lennon, Paul McCartney, George Harrison et un certain Pete Best qui sera exclu du groupe. De quel instrument jouait Pete Best ? (Après son départ,  il a été boulanger. Il a été engagé aussi par une agence pour l'emploi. On a dit de lui que c'était  le musicien le plus malchanceux  de l'histoire du rock d'avoir quitté les Beatles juste avant.)
  - Quel groupe de pop britannique, en vogue dès les années 60, a créé un label discographique ayant pour logo une pomme verte?
+culture_g_score: 100
+culture_g_justification: "Les Beatles sont une référence universelle, extrêmement fréquente et exploitable en musique, histoire, société, culture britannique et industrie culturelle."
 ---
-
 ![Image de The Beatles](https://upload.wikimedia.org/wikipedia/commons/6/61/The_Beatles_arrive_at_JFK_Airport.jpg)
 
 ###### Questions

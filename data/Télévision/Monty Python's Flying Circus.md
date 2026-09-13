@@ -18,10 +18,9 @@ indice_5:
   - années 1970
 indice_6:
   - BBC
+culture_g_score: 72
+culture_g_justification: "Œuvre fondatrice de l’humour télévisuel britannique, mobilisable via les Monty Python, le sketch, l’absurde et la culture anglophone."
 ---
-
-
-
 ![Image de Monty Python's Flying Circus](https://upload.wikimedia.org/wikipedia/commons/a/ab/Monty_python_foot.png)
 
 ###### Questions

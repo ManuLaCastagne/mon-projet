@@ -22,8 +22,9 @@ indice_6 :
   - célébrité et anonyme
 questions:
  - En 1999, dans quelle comédie Julia Roberts tombe-t-elle amoureuse d'un libraire londonien incarné par Hugh Grant?
+culture_g_score: 73
+culture_g_justification: "Comédie romantique très connue, liée à Hugh Grant, Julia Roberts, Richard Curtis et à plusieurs éléments musicaux."
 ---
-
 ![Image de Coup de foudre à Notting Hill](https://upload.wikimedia.org/wikipedia/commons/6/68/Kinetic_sculpture_Notting_Hill_Gate.jpg)
 
 ###### Questions

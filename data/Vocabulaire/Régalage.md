@@ -14,8 +14,9 @@ indice_5 :
   - Mise au point
 indice_6 : 
   - Adaptation
+culture_g_score: 23
+culture_g_justification: "Mot technique désignant surtout une opération d'ajustement ou de nivellement, avec une présence très limitée dans les quiz."
 ---
-
 ![Image de Régalage](https://upload.wikimedia.org/wikipedia/commons/8/8e/Histoire_du_point_d%27Alen%C3%A7on%2C_depuis_son_origine_jusqu%27%C3%A0_nos_jours_%281886%29_%2814596159107%29.jpg)
 
 ###### Questions

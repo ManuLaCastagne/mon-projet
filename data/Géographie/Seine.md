@@ -24,8 +24,9 @@ indice_6 :
   - Île-de-France
 questions:
  - Quel fleuve drainant la majeure partie du bassin parisien naît sur le plateau de Langres ?
+culture_g_score: 100
+culture_g_justification: "Fleuve français incontournable, au centre de questions sur Paris, l'histoire, la littérature, l'art, les transports et la géographie nationale."
 ---
-
 ![Image de Seine](https://upload.wikimedia.org/wikipedia/commons/6/60/Seine_Pont_Royal_Louvre_Paris.jpg)
 
 ![[Carte_Seine.png]]

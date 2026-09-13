@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Alain Robbe-Grillet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +167,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Alain Robbe-Grillet"
+              "title": "Vue graphique"
             }
           },
           {
@@ -345,8 +344,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,8 +359,21 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "ba4d54f4a77e7b4b",
+  "active": "028c50878b1df9c9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Littérature/Alain Robbe-Grillet.md",
+    "Anatomie/SAMU.md",
+    "Anatomie/Creux poplité.md",
+    "Anatomie/Lobe.md",
+    "Animaux/Guêpe maçonne.md",
+    "Animaux/Léopard.md",
+    "Animaux/Moule.md",
+    "Architecture/Bateau-lavoir.md",
+    "Architecture/Cathédrale de Gloucester.md",
+    "Histoire/Charles Gordon.md",
+    "Frises/Scores Culture G.base",
+    "Culture générale/Maradona des Carpates.md",
     "Télévision/George Eddy.md",
     "Littérature/Manolito.md",
     "Frises/Notes.base",
@@ -379,19 +390,7 @@
     "Culture générale/Reine du crime.md",
     "Littérature/La Mystérieuse Affaire de Styles.md",
     "Culture générale/Mary Westmacott.md",
-    "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
-    "Littérature/Abbé Prévost.md",
-    "Littérature/A la recherche du temps perdu.md",
-    "Géographie/Combray.md",
-    "Littérature/A Study in Scarlet.md",
-    "Littérature/99 francs.md",
     "attachments/Pasted image 20260816110720.png",
-    "Littérature/37,2 le matin (roman).md",
-    "Histoire/Jules Vallès.md",
-    "Littérature/Le Figaro (journal).md",
-    "Littérature/Salman Rushdie.md",
-    "Littérature/Yakari.md",
-    "Littérature/Yves Bonnefoy.md",
     "attachments/Pasted image 20260804075735.png",
     "attachments/Pasted image 20260804075442.png",
     "attachments/Pasted image 20260804075041.png",

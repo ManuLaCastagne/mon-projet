@@ -22,8 +22,9 @@ indice_6 :
   - Œuvre monumentale lexicographique
 questions:
  - Quel lexicographe, disciple d'Auguste Comte, est l'auteur d'un monumental "Dictionnaire de la langue française" ?
+culture_g_score: 69
+culture_g_justification: "Le Littré constitue une référence lexicographique française classique, utile pour la langue, l’Académie et l’histoire intellectuelle, malgré une fréquence modérée."
 ---
-
 ![Image de Émile Littré](https://upload.wikimedia.org/wikipedia/commons/a/a1/Maximilien-Paul-%C3%89mile_Littr%C3%A9_vers_1865.jpg)
 
 ###### Questions

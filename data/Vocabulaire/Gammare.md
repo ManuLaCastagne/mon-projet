@@ -14,8 +14,9 @@ indice_5 :
   - Petites crevettes
 indice_6 : 
   - Écologie aquatique
+culture_g_score: 31
+culture_g_justification: "Petit crustacé écologiquement intéressant, mais peu connu et rarement demandé hors des questions de zoologie."
 ---
-
 ![Image de Gammare](https://upload.wikimedia.org/wikipedia/commons/4/42/Dikerogammarus_villosus_%288740859563%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - The Look of Love
 questions:
  - Quelle pianiste et chanteuse de jazz canadienne, est révélée au grand public en 2001 avec "Look of Love" ?
+culture_g_score: 48
+culture_g_justification: "Jazzwoman reconnue internationalement, mais dont les questions restent généralement cantonnées au jazz, à ses albums et à quelques collaborations."
 ---
-
 ![Image de Diana Krall](https://upload.wikimedia.org/wikipedia/commons/5/57/Diana_Krall_08.jpg)
 
 ###### Questions

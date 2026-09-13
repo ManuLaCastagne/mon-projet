@@ -20,8 +20,9 @@ indice_6 :
   - Équipe nationale des États-Unis
 questions:
  - En 2019, quelle joueuse de football a obtenu le Ballon d'or féminin après avoir été championne du monde avec les Etats-Unis ?
+culture_g_score: 68
+culture_g_justification: "Footballeuse mondialement visible grâce à ses titres, son Ballon d’or et son engagement politique et social."
 ---
-
 ![Image de Megan Rapinoe](https://upload.wikimedia.org/wikipedia/commons/d/d4/Megan_Rapinoe_Stat_Sports_2.jpg)
 
 ###### Questions

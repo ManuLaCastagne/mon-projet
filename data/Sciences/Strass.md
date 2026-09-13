@@ -20,8 +20,9 @@ indice_6 :
   - Cubic zirconia
 questions:
  - Quelle sorte de verre riche en Plomb, a été façonnée en perles par un Alsacien ?
+culture_g_score: 56
+culture_g_justification: "Terme courant de la bijouterie et de l’histoire des imitations de pierres, qui fournit quelques questions classiques mais limitées."
 ---
-
 ![Image de Strass](https://upload.wikimedia.org/wikipedia/commons/6/61/Seeg_-_Stra%C3%9F_-_Stadelkreuz.JPG)
 
 ###### Questions

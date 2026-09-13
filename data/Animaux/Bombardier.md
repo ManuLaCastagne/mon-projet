@@ -14,8 +14,9 @@ indice_5:
   - Scarabée bombardier
 indice_6:
   - Défense chimique spectaculaire
+culture_g_score: 40
+culture_g_justification: "Insecte remarquable par sa défense chimique, mais surtout présent dans des questions zoologiques anecdotiques."
 ---
-
 ![Image de Bombardier](https://upload.wikimedia.org/wikipedia/commons/a/a3/Brachinus_spPCCA20060328-2821B.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ###### Questions

@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la régénération et de l'équilibre
 questions:
  - Je suis généralement, sur nos côtes, de couleur brun-orange avec un dessus granuleux. Echinoderme dont les 5 bras, larges et charnus, sont répartis autour d'un disque central...
+culture_g_score: 64
+culture_g_justification: "Animal marin très reconnaissable, associé aux échinodermes, à la régénération et à l’écologie des littoraux."
 ---
-
 ![Image de Étoile de mer](https://upload.wikimedia.org/wikipedia/commons/a/a4/%C3%89toile_de_mer_%28Asteroidea%29.jpg)
 
 ###### Questions

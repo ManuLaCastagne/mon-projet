@@ -14,8 +14,9 @@ indice_5 :
   - Cousin (insecte)
 indice_6 : 
   - Corps élancé
+culture_g_score: 36
+culture_g_justification: "Les tipulidés sont associés au familier « cousin », ce qui peut aider dans quelques questions de zoologie, sans grande portée."
 ---
-
 ![Image de Tipulidé](https://upload.wikimedia.org/wikipedia/commons/5/55/Tipulidae_April_2008-2.jpg)
 
 ###### Questions

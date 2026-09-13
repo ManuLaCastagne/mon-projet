@@ -22,8 +22,9 @@ indice_6 :
   - Actrice française
 questions:
  - En 1994, quelle actrice incarne l'amie d'Elsa Zylberstein dans le film "Mina Tannenbaum"...
+culture_g_score: 44
+culture_g_justification: "Actrice française identifiable par Les Nuits fauves et sa filiation, mais relativement peu sollicitée dans les quiz généralistes."
 ---
-
 ![Image de Romane Bohringer](https://upload.wikimedia.org/wikipedia/commons/3/37/Romane_Bohringer_2009.jpg)
 
 ###### Questions

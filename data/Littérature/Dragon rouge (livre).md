@@ -22,8 +22,9 @@ indice_6 :
   - surnom Dent de Fée
 questions:
  - Dans quel roman de Thomas Harris, paru en France en 1982, le personnage appelé Hannibal Lecter…
+culture_g_score: 60
+culture_g_justification: "Dragon rouge bénéficie de la notoriété d’Hannibal Lecter et de ses adaptations, mais demeure moins incontournable que les romans suivants."
 ---
-
 ![Image de Dragon rouge (livre)](https://upload.wikimedia.org/wikipedia/commons/f/f5/Gozlan_-_Le_Dragon_rouge%2C_1859.djvu)
 
 ###### Questions

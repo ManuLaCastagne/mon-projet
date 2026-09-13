@@ -20,8 +20,9 @@ indice_6 :
   - Roland-Garros
 questions:
  - La même année les 4 tournois du Grand Chelem ainsi que le titre olympique, j'ai été l'une des grandes rivales de Monica Seles. Allemande considérée comme...
+culture_g_score: 88
+culture_g_justification: "Légende du tennis mondial associée au Golden Slam, aux records du Grand Chelem et à l’histoire du sport féminin."
 ---
-
 ![Image de Steffi Graf](https://upload.wikimedia.org/wikipedia/commons/f/f0/Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg)
 
 ###### Questions

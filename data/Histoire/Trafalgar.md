@@ -20,8 +20,9 @@ indice_6 :
   - victoires britanniques décisives
 questions:
  - En 1805, lors de quelle bataille navale la flotte...
+culture_g_score: 84
+culture_g_justification: "Bataille navale majeure de l’ère napoléonienne, associée à Nelson, à la suprématie britannique et à l’Arc de triomphe."
 ---
-
 ![Image de Trafalgar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ichs.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_5 :
   - Île d'Hispaniola
 indice_6 : 
   - Champs de Mars
+culture_g_score: 72
+culture_g_justification: "Capitale d'Haïti régulièrement mobilisée par l'histoire de l'indépendance, le séisme de 2010 et les enjeux caribéens."
 ---
-
 ![Image de Port-au-Prince](https://upload.wikimedia.org/wikipedia/commons/e/e3/Downtown_Port_au_Prince_after_earthquake.jpg)
 
 ![[Carte_Port-au-Prince.png]]

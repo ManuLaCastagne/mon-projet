@@ -23,8 +23,9 @@ indice_6 :
   - Jack Black
 questions:
  - En 2008, dans quel film réalisé par lui les comédiens sont-ils confrontés à des trafiquants de drogue en pleine jungle ?
+culture_g_score: 64
+culture_g_justification: "Comédie populaire liée à Ben Stiller, Robert Downey Jr., Tom Cruise et à la satire d'Hollywood, mais pas incontournable."
 ---
-
 ![Image de Tonnerre sous les tropiques](https://upload.wikimedia.org/wikipedia/commons/6/64/BenStillerTropicThunderPendleton.jpg)
 
 ###### Questions

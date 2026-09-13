@@ -24,8 +24,9 @@ indice_6 :
   - train à crémaillère
 questions:
  - Parcouru l'été de rivière de surface appelées bédières qui creusent des puits nommés moulins, je m'étends sur une superficie d'environ 40 km2, bien que j'aie diminué à cause du réchauffement climatique.
+culture_g_score: 52
+culture_g_justification: "Glacier français connu du tourisme alpin et des questions sur le réchauffement climatique, mais relativement spécialisé."
 ---
-
 ![Image de Mer de Glace](https://upload.wikimedia.org/wikipedia/commons/1/12/Mer_de_Glac%C3%A9%2C_ice_climbing.jpg)
 
 ![[Carte_Mer de Glace.png]]

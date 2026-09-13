@@ -21,8 +21,9 @@ indice_5:
   - années 1920-1930
 indice_6:
   - exilé au Brésil
+culture_g_score: 80
+culture_g_justification: "Écrivain autrichien très présent grâce à ses nouvelles, biographies, au Monde d’hier et à son destin lié à la montée du nazisme."
 ---
-
 ![Image de Stefan Zweig](https://upload.wikimedia.org/wikipedia/commons/4/4e/Stefan_Zweig2.png)
 
 ###### Questions

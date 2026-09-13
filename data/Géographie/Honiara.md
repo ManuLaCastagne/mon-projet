@@ -22,8 +22,9 @@ indice_5 :
   - première langue parlée est le pidgin
 indice_6 : 
   - ville fondée pendant la Seconde Guerre mondiale
+culture_g_score: 40
+culture_g_justification: "Capitale d'un petit État du Pacifique surtout mobilisée par des questions sur Guadalcanal et la Seconde Guerre mondiale."
 ---
-
 ![Image de Honiara](https://upload.wikimedia.org/wikipedia/commons/8/8d/Honiara_aerial_crop.jpg)
 
 ![[Carte_Honiara.png]]

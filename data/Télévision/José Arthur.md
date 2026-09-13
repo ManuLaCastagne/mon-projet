@@ -20,8 +20,9 @@ indice_6 :
   - Musique
 questions:
  - Quel homme de radio et de télévision fut animateur du "Pop club" pendant près de 40 ans sur France Inter, disparu en 2015 à 87 ans ?
+culture_g_score: 47
+culture_g_justification: "Animateur radiophonique important dans l’histoire de France Inter, mais peu présent dans les quiz généralistes contemporains."
 ---
-
 ![Image de José Arthur](https://upload.wikimedia.org/wikipedia/commons/e/e0/Jos%C3%A9_Arthur_Rios_%281961%29.tif)
 
 ###### Questions

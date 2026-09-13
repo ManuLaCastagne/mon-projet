@@ -18,8 +18,9 @@ indice_5 :
   - 1980s
 indice_6 : 
   - Germany
+culture_g_score: 56
+culture_g_justification: "Groupe new wave connu pour deux tubes majeurs des années 1980, avec une portée quiz réelle mais une importance culturelle limitée."
 ---
-
 ![Image de Alphaville](https://upload.wikimedia.org/wikipedia/commons/1/12/Rua_do_B._Alphaville%2C_Tim%C3%B3teo_MG.JPG)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Auteur unique
 questions:
  - A quelle femme de lettres doit-on le roman "Les Hauts de Hurlevent" dont l'action se déroule dans les landes du Yorkshire ?
+culture_g_score: 68
+culture_g_justification: "Emily Brontë est une grande figure de la littérature anglaise grâce aux Hauts de Hurlevent, malgré une œuvre personnelle très limitée."
 ---
-
 ![Image de Emily Brontë](https://upload.wikimedia.org/wikipedia/commons/f/fc/Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg)
 
 ###### Questions

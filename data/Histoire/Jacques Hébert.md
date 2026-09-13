@@ -20,8 +20,9 @@ indice_6 :
   - adversaire des Montagnards
 questions:
  - Quel révolutionnaire, pour avoir dit que Robespierre était de "modération", fondateur du Père Duchaine, fut condamné à mort ?
+culture_g_score: 60
+culture_g_justification: "Personnage secondaire mais utile pour les quiz sur la Révolution française, les sans-culottes et la presse révolutionnaire."
 ---
-
 ![Image de Jacques Hébert](https://upload.wikimedia.org/wikipedia/commons/a/a1/Jacques_Ren%C3%A9_H%C3%A9bert.JPG)
 
 ###### Questions

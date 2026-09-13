@@ -20,9 +20,9 @@ indice_5 :
   - Leonardo DiCaprio
 indice_6 : 
   - Rose DeWitt Bukater
+culture_g_score: 84
+culture_g_justification: "Actrice mondialement connue grâce à Titanic et à une carrière récompensée, permettant de nombreuses questions de cinéma."
 ---
-
-
 ![Image de Kate Winslet](https://upload.wikimedia.org/wikipedia/commons/9/9a/KateWinsletByAndreaRaffin2011.jpg)
 
 ###### Questions

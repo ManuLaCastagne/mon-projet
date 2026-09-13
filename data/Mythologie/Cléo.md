@@ -17,8 +17,9 @@ indice_5:
   - Nil
 indice_6:
   - charmes et séduction
+culture_g_score: 60
+culture_g_justification: "Muse classique de la mythologie grecque, assez fréquente dans les questions sur les neuf Muses mais dotée d'un champ limité."
 ---
-
 ![Image de Cléo](https://upload.wikimedia.org/wikipedia/commons/b/b5/Clio-Mignard.jpg)
 
 ###### Questions

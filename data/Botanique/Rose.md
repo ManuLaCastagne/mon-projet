@@ -15,8 +15,9 @@ indice_6:
   - Parfum et décoration florale
 questions:
   - Quelle fleur, s'épanouissant dès le mois de mai, est produite par une plante pouvant être des variétés Dames de Chenonceau ou Pierre de Ronsard?
+culture_g_score: 84
+culture_g_justification: "Référence culturelle majeure, la rose est fréquemment mobilisée en botanique, littérature, symbolique, histoire et arts."
 ---
-
 ![Image de Rose](https://upload.wikimedia.org/wikipedia/commons/c/cf/Rosa_%27Rosengr%C3%A4fin_Marie_Henriette%27_%28actm%29.jpg)
 
 ###### Questions

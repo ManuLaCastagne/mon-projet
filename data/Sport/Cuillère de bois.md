@@ -20,9 +20,9 @@ indice_6 :
   - Écosse
 questions:
  - Même s'il est arrivé que je sois effectivement donné sous la forme d'un objet, je suis attribué à une équipe du tournoi des Six Nations ayant..
+culture_g_score: 56
+culture_g_justification: "Expression sportive classique surtout liée au rugby et aux Six Nations, rentable mais de portée limitée."
 ---
-
-
 ![Image de Cuillère de bois](https://upload.wikimedia.org/wikipedia/commons/b/ba/Cuill%C3%A8re_MHNT_ETH_AC_RE_5_Julien_Madagascar.jpg)
 
 ###### Questions

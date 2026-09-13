@@ -20,8 +20,9 @@ indice_6 :
   - Albatros
 questions:
  - D'un noyau en caoutchouc recouvert d'une gaine laquée. Je pèse 45g, mesure 43mn de diamètre.
+culture_g_score: 52
+culture_g_justification: "Objet familier offrant quelques questions sportives, scientifiques et spatiales, mais rarement une priorité d’apprentissage."
 ---
-
 ![Image de Balle de golf](https://upload.wikimedia.org/wikipedia/commons/b/b3/Nest_box_%E2%80%9CBirdies_Welcome%E2%80%9D%2C_Chico%2C_2024-03-12.jpg)
 
 ###### Questions

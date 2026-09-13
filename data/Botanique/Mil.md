@@ -15,8 +15,9 @@ indice_6 :
   - Alimentation animale et humaine
 questions:
  - Quelle céréale à petits grains, représentée par le millet et le sorgho et cultivée en zone tropicale sèche est désignée par un mot de 3 lettres?
+culture_g_score: 51
+culture_g_justification: "Céréale importante dans plusieurs régions du monde, mais moins fréquente dans les quiz francophones que le blé, le riz ou le maïs."
 ---
-
 ![Image de Mil](https://upload.wikimedia.org/wikipedia/commons/e/e5/All_Millimetre_Rule.jpg)
 
 ###### Questions

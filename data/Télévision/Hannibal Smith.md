@@ -18,8 +18,9 @@ indice_5:
   - cigare à la bouche
 indice_6:
   - aime les plans qui se déroulent sans accroc
+culture_g_score: 64
+culture_g_justification: "Personnage très identifiable de L’Agence tous risques, surtout exploitable via la série, George Peppard et son adaptation cinématographique."
 ---
-
 ![Image de Hannibal Smith](https://upload.wikimedia.org/wikipedia/commons/d/d7/Milton_Hannibal_Smith.png)
 
 ###### Questions

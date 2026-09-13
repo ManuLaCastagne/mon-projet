@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de malice et d'adaptation
 questions:
  - Quel petit renard du Sahara et de l'Arabie...
+culture_g_score: 64
+culture_g_justification: "Animal très reconnaissable par ses oreilles et son adaptation au Sahara, avec quelques liens géographiques et culturels."
 ---
-
 ![Image de Fennec](https://upload.wikimedia.org/wikipedia/commons/f/f4/Fennec_Fox_Peek.jpg)
 
 ###### Questions

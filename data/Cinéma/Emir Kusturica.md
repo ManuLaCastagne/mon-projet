@@ -20,8 +20,9 @@ indice_5 :
   - Goran Bregović
 indice_6 : 
   - Emir Kusturica and The No Smoking Orchestra
+culture_g_score: 64
+culture_g_justification: "Figure importante du cinéma balkanique, des Palmes d’or et de la musique, avec plusieurs angles mais une notoriété inégale."
 ---
-
 ![Image de Emir Kusturica](https://upload.wikimedia.org/wikipedia/commons/3/31/Emir_Kusturica_in_2016.jpg)
 
 ###### Questions

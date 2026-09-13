@@ -22,8 +22,9 @@ indice_6 :
   - Pays de neige
 questions:
  - Dans "Pays de neige", quel écrivain japonais met en scène…
+culture_g_score: 64
+culture_g_justification: "Premier Nobel japonais de littérature, régulièrement associé à Pays de neige et à la littérature japonaise moderne."
 ---
-
 ![Image de Yasuri Kawabata]()
 
 ###### Questions

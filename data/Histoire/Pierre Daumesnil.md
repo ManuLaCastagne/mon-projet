@@ -22,8 +22,9 @@ indice_6 :
   - célèbre pour son mot d'ordre J'y suis
 questions:
  - En 1814, quel général ayant perdu une jambe à Wagram, a défendu le Château de Vincennes a dit   "Rendez-moi ma jambe et je vous rendrai Vincennes" ?
+culture_g_score: 31
+culture_g_justification: "Héros militaire français associé à un épisode précis de la défense de Vincennes, rarement mobilisé hors de ce contexte."
 ---
-
 ![Image de Pierre Daumesnil](https://upload.wikimedia.org/wikipedia/commons/d/d5/Pierre_Daumesnil_%281776-1832%29.jpg)
 
 ###### Questions

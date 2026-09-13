@@ -20,8 +20,9 @@ indice_6 :
   - Première des traités inégaux pour la Chine
 questions:
  - En 1842, par quel traité la Chine cède-t-elle Hong Kong aux britanniques ?
+culture_g_score: 68
+culture_g_justification: "Traité clé de l’histoire de la Chine moderne, reliant guerre de l’Opium, Hong Kong et système des traités inégaux."
 ---
-
 ![Image de Traité de Nankin](https://upload.wikimedia.org/wikipedia/commons/b/bb/Treaty_of_Perpetual_Peace_and_Friendship_between_China_and_Great_Britain_%28Treaty_of_Nanking%29.pdf)
 
 ###### Questions

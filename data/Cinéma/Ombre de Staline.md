@@ -22,8 +22,9 @@ indice_6 :
   - Agnieszka Holland
 questions:
  - En 2020, quel film biographique raconte l'histoire de Gareth Jones, un journaliste britannique qui a dénoncé la famine en Ukraine en 1933?
+culture_g_score: 32
+culture_g_justification: "Film historique utile pour l'Holodomor et Gareth Jones, mais peu connu et rarement demandé comme référence cinématographique."
 ---
-
 ![Image de Ombre de Staline](https://upload.wikimedia.org/wikipedia/commons/a/a7/L%27Abeille_de_Fontainebleau_-_1944-08-11.djvu)
 
 ###### Questions

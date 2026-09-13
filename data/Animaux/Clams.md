@@ -15,8 +15,9 @@ indice_6 :
   - Symbole de la cuisine traditionnelle nord-américaine
 questions:
  - Quels coquillages ronds ont été introduits en France par les Américains en 1917 ?
+culture_g_score: 40
+culture_g_justification: "Mollusque associé à la longévité et aux perles, mais le terme anglais et le sujet restent peu classiques en quiz francophone."
 ---
-
 ![Image de Clams](https://upload.wikimedia.org/wikipedia/commons/b/b1/Clams%2C_Mumbai_seafood_02.jpg)
 
 ###### Questions

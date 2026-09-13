@@ -22,9 +22,9 @@ indice_6 :
   - Ian Fleming
 questions:
  - Dans laquelle un industriel joué par Michael Lonsdale a pour projet  de détruire la Terre, je suis...  Je crois qu'à un moment, il y a une espèce de grand engin spatial qui avale littéralement un satellite, une histoire comme ça.
+culture_g_score: 73
+culture_g_justification: "Épisode très identifiable de James Bond, exploitable par la saga, l'espace, Venise et Roger Moore, malgré une importance limitée à la franchise."
 ---
-
-
 ![Image de Moonraker](https://upload.wikimedia.org/wikipedia/commons/f/f6/Moonraker_gondola.jpg)
 
 ###### Questions

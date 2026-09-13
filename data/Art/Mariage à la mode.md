@@ -21,8 +21,9 @@ indice_5 :
   - XVIIIe siècle
 indice_6 : 
   - critique des mariages arrangés
+culture_g_score: 44
+culture_g_justification: "Série artistique reconnue mais assez précise, principalement interrogée via Hogarth et la satire sociale britannique."
 ---
-
 ![Image de Mariage à la mode](https://upload.wikimedia.org/wikipedia/commons/b/be/Marriage_A-la-Mode_5%2C_The_Bagnio_-_William_Hogarth.jpg)
 
 ###### Questions

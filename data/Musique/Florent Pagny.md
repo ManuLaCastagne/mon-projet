@@ -22,8 +22,9 @@ indice_6 :
   - Argentine
 questions:
  - Chanteur né en novembre 1961  à Chalon-sur-Saône, d'une mère secrétaire et d'un père menuisier, je débute au cinéma avec de petits rôles dans "La Balance" et "L'As des as". Sortant en 90...
+culture_g_score: 64
+culture_g_justification: "Chanteur très connu en France, régulièrement mobilisé pour ses tubes, The Voice et la variété, mais avec une portée culturelle surtout nationale."
 ---
-
 ![Image de Florent Pagny](https://upload.wikimedia.org/wikipedia/commons/b/bf/Florent_Pagny_Forest_National_2017_-_5.jpg)
 
 ###### Questions

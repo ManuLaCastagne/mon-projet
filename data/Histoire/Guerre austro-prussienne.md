@@ -18,8 +18,9 @@ indice_5 :
   - Habsbourg
 indice_6 : 
   - 1866
+culture_g_score: 64
+culture_g_justification: "Conflit déterminant pour l’unification allemande, mais généralement moins fréquent que les guerres franco-prussienne ou mondiale."
 ---
-
 ![Image de Guerre austro-prussienne](https://upload.wikimedia.org/wikipedia/commons/e/e9/1868_Bleibtreu_Schlacht_bei_Koeniggraetz_anagoria.JPG)
 
 ###### Questions

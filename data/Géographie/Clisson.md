@@ -21,8 +21,9 @@ indice_5 :
   - Architecture médiévale
 indice_6 : 
   - Vallée de la Loire
+culture_g_score: 40
+culture_g_justification: "Commune surtout connue des amateurs de musique pour le Hellfest, avec quelques repères géographiques et patrimoniaux."
 ---
-
 ![[Carte_Clisson.png]]
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - auteur-compositeur-interprète
 questions:
  - Quel auteur-compositeur et interprète, disparu en 1992, a notamment écrit "Si, maman si" et "Evidemment" pour son épouse France Gall?
+culture_g_score: 84
+culture_g_justification: "Compositeur central de la variété française, régulièrement associé à France Gall, Starmania, ses tubes et l’histoire de la chanson des années 1970-1980."
 ---
-
 ![Image de Michel Berger](https://upload.wikimedia.org/wikipedia/commons/3/38/Michel_Berger.jpg)
 
 ###### Questions

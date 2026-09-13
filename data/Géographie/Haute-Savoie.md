@@ -24,8 +24,9 @@ indice_6 :
   - vallée de l'Arve
 questions:
  - Dans quel département se trouve le Mont-Blanc ?
+culture_g_score: 72
+culture_g_justification: "Département très associé au Mont-Blanc, à Chamonix, aux glaciers et aux sports d'hiver, offrant plusieurs angles classiques."
 ---
-
 ![Image de Haute-Savoie](https://upload.wikimedia.org/wikipedia/commons/5/58/Haute-Savoie-Position.png)
 
 ![[Carte_Haute-Savoie.png]]

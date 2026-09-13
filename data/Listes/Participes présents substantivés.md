@@ -1,3 +1,8 @@
+---
+culture_g_score: 23
+culture_g_justification: "Les participes présents substantivés constituent un domaine lexical très spécialisé, offrant peu de possibilités de questions généralistes."
+---
+
 Dans le même genre qu'ACTANT n.m. Ling. Sujet du verbe – Litt. Élément récurrent d'un récit (je vois que Dany a déjà amorcé le mouvement) :
 
 ABATTANT n.m. ( = abatant ) Partie mobile d'un meuble.

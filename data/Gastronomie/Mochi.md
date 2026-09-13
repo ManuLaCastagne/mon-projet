@@ -2,6 +2,8 @@
 tags:
   - Gastronomie
   - Japon
+culture_g_score: 60
+culture_g_justification: "Gâteau japonais devenu très visible dans la culture gastronomique contemporaine, utile pour des questions sur le Japon et les ingrédients."
 ---
 ###### Questions 
 

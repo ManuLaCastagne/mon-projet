@@ -18,8 +18,9 @@ indice_6 :
   - tablette cunéiforme
 questions:
  - Qui est un personnage héroïque de la Mésopotamie antique, fils de la déesse Ninsun et roi de la cité d'Uruk où il aurait régné vers 2650 av. J.-C., ainsi qu'un dieu des Enfers dans la mythologie mésopotamienne…
+culture_g_score: 76
+culture_g_justification: "Héros de l'une des plus anciennes œuvres littéraires connues, important pour la Mésopotamie, la littérature et le thème de l'immortalité."
 ---
-
 ![Image de Gilgamesh](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gilgamesh_Sculpture.png)
 
 ###### Questions

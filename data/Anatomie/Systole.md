@@ -1,3 +1,8 @@
+---
+culture_g_score: 77
+culture_g_justification: "Terme central du fonctionnement cardiaque, régulièrement opposé à diastole dans les quiz scientifiques."
+---
+
 
 ###### Questions 
 

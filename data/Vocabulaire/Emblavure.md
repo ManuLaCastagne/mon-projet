@@ -14,8 +14,9 @@ indice_5 :
   - Superficie cultivée
 indice_6 : 
   - Récolte
+culture_g_score: 23
+culture_g_justification: "Vocable agricole ancien et spécialisé, rarement nécessaire pour répondre à des questions généralistes."
 ---
-
 ![Image de Emblavure](https://upload.wikimedia.org/wikipedia/commons/c/c4/Field_Hamois_Belgium_Luc_Viatour.jpg)
 
 ###### Questions

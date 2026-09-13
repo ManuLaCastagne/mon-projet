@@ -23,8 +23,9 @@ indice_6 :
   - héritage spirituel
 questions:
  - Quel mot synonyme d'amulette ou de grigri a donné son titre à un tableau de Paul Sérusier réalisé en 1888 à Pont-Aven sous la direction de Paul Gauguin ?
+culture_g_score: 44
+culture_g_justification: "Le Talisman de Sérusier est important pour comprendre les Nabis et Gauguin, mais l’œuvre demeure peu connue du grand public."
 ---
-
 ![Image de Talisman](https://upload.wikimedia.org/wikipedia/commons/0/0c/Dalziel_Brothers_-_Sir_Walter_Scott_-_The_Talisman_-_Sir_Kenneth_before_the_King.jpg)
 
 ###### Questions

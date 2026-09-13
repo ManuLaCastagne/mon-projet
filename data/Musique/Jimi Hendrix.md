@@ -22,8 +22,9 @@ indice_6 :
   - Stratocaster
 questions:
  - Quel musicien gaucher américain, interprète de "Purple Haze" en 1967...
+culture_g_score: 97
+culture_g_justification: "Guitariste mythique et marronnier musical, associé à Woodstock, au rock, aux États-Unis, à la guitare électrique et aux Animals."
 ---
-
 ![Image de Jimi Hendrix](https://upload.wikimedia.org/wikipedia/commons/1/18/Volkswagen_T1_camper_%28loving_design_with_Peace-Symbol_and_rock_legend_Jimi_Hendrix%29.jpg)
 
 ###### Questions

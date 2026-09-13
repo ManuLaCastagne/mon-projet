@@ -18,9 +18,9 @@ indice_6 :
   - richesse légendaire
 questions:
  - Pays imaginaire dans lequel se déroule le chapitre 18 du "Candide" de Voltaire, je fais l'objet d'un mythe...
+culture_g_score: 80
+culture_g_justification: "Mythe célèbre de la conquête des Amériques, mobilisable en histoire, géographie, exploration et littérature."
 ---
-
-
 ![Image de Eldorado](https://upload.wikimedia.org/wikipedia/commons/1/13/Eldorado%2C_TX_sign_IMG_1394.JPG)
 
 ###### Questions

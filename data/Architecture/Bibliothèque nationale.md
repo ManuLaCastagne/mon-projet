@@ -23,9 +23,9 @@ indice_6 :
   - verre et métal
 questions:
  - Edifice parisien comprenant l'allée Julien-Cain parmi mes quelques espaces d'exposition, j'ai été achevé en 1995 en privilégiant le verre, l'acier, le bois. Conçu par Dominique Perrault...
+culture_g_score: 71
+culture_g_justification: "Institution culturelle française majeure, utile pour des questions d'architecture, de patrimoine, de littérature et d'histoire."
 ---
-
-
 ![Image de Bibliothèque nationale](https://upload.wikimedia.org/wikipedia/commons/7/78/Carte_de_Brest_-_ca_1700_-_Biblioth%C3%A8que_Nationale_de_France_-_Btv1b8439976x.jpg)
 
 ###### Questions

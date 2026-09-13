@@ -21,9 +21,9 @@ indice_5:
   - mosaïques colorées
 indice_6:
   - formes organiques
+culture_g_score: 89
+culture_g_justification: "Figure majeure de l’architecture mondiale, identifiable par la Sagrada Família, le modernisme catalan et de nombreuses œuvres barcelonaises."
 ---
-
-
 ![Image de Gaudi](https://upload.wikimedia.org/wikipedia/commons/6/68/%28Barcelona%29_Tenebrae_Candelabra_-_Antoni_Gaud%C3%AD_-_Museums_of_the_Sagrada_Fam%C3%ADlia.jpg)
 
 ###### Questions

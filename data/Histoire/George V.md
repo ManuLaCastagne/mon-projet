@@ -20,9 +20,9 @@ indice_6 :
   - abdication de son fils Édouard VIII
 questions:
  - A quel roi de Grande-Bretagne, dont il était le cousin, Nicolas II ressemblait-il à un point tel qu'il arrivait qu'on puisse les confondre?
+culture_g_score: 60
+culture_g_justification: "Roi britannique associé à la Première Guerre mondiale et à la création de la maison Windsor, avec des angles de quiz assez limités."
 ---
-
-
 ![Image de George V](https://upload.wikimedia.org/wikipedia/commons/3/34/George_V_and_Nicholas_II_in_Berlin%2C_1913.jpg)
 
 ###### Questions

@@ -1,5 +1,5 @@
 ---
-culture_g_score: 0
+culture_g_score:
 ---
 
 ```dataview

@@ -1,5 +1,5 @@
 ---
-culture_g_score: 11
+culture_g_score:
 ---
 
 ```dataviewjs

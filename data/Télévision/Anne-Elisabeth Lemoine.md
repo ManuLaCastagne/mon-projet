@@ -20,8 +20,9 @@ indice_6 :
   - chroniqueuse pour La Nouvelle Édition
 questions:
  - Coanimant en 2007 "5 ans avec", je participe à "L'Edition spéciale", à "La Nouvelle Edition", avant de rejoindre France 5 et "C à Vous"...
+culture_g_score: 59
+culture_g_justification: "Animatrice française très connue grâce à C à vous, mais dont la portée culturelle reste surtout télévisuelle et contemporaine."
 ---
-
 ![Image de Anne-Elisabeth Lemoine](https://upload.wikimedia.org/wikipedia/commons/0/05/Ayuntamiento_de_Prat_de_Llobregat_2023.svg)
 
 ###### Questions

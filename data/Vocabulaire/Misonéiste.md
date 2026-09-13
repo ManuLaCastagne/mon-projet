@@ -14,8 +14,9 @@ indice_5 :
   - conservateur
 indice_6 : 
   - innovation
+culture_g_score: 40
+culture_g_justification: "Terme littéraire et intellectuel utile pour qualifier l'hostilité à la nouveauté, mais peu fréquent dans les quiz généralistes."
 ---
-
 ![Image de Misonéiste](https://upload.wikimedia.org/wikipedia/commons/7/78/LL-Q150_%28fra%29-Lyoko%C3%AF-mison%C3%A9iste.wav)
 
 ###### Questions

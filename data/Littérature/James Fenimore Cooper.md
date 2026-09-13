@@ -22,8 +22,9 @@ indice_6 :
   - Cuirassé
 questions:
  - En 1826, quel écrivain évoque la guerre entre Français et Anglais appuyés par leurs alliés indiens dans "Le Dernier des Mohicans" ?
+culture_g_score: 67
+culture_g_justification: "Cooper est un pionnier du roman d’aventures américain, régulièrement associé au Dernier des Mohicans et à la représentation de la frontière."
 ---
-
 ![Image de James Fenimore Cooper](https://upload.wikimedia.org/wikipedia/commons/b/b4/COOPER%2C_James_Fenimore_%28signed_check%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - film français 2020
 questions:
  - En 2020, dans quel film Isabelle Huppert incarne-t-elle une interprète judiciaire se déguisant pour se faire passer pour une trafiquante de drogue?
+culture_g_score: 32
+culture_g_justification: "Film français récent apprécié mais encore peu installé dans le socle des quiz généralistes."
 ---
-
 ![Image de La Daronne](https://upload.wikimedia.org/wikipedia/commons/7/7f/Rivi%C3%A8re_Daronne_-_Colombier-le-Vieux_%28FR07%29_-_2021-09-25_-_3.jpg)
 
 ###### Questions

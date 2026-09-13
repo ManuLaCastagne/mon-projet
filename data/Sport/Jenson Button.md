@@ -18,8 +18,9 @@ indice_5 :
   - Grand Prix de Hongrie 2006
 indice_6 : 
   - GP de Belgique 2012
+culture_g_score: 64
+culture_g_justification: "Champion britannique de Formule 1 assez connu, mais principalement exploitable dans le cadre de l’automobile."
 ---
-
 ![Image de Jenson Button](https://upload.wikimedia.org/wikipedia/commons/7/7b/2018_British_Grand_Prix_-_Jenson_Button_%2808%29.jpg)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - influence sur Montaigne
 questions:
  - A Delphes.  Figure marquante de l'hellénisme tardif, biographe moraliste, j'ai laissé de nombreux textes regroupés dans "Oeuvres morales" et "Vies parallèles"...
+culture_g_score: 72
+culture_g_justification: "Auteur antique très rentable grâce aux Vies parallèles, aux biographies historiques, à la morale et à son influence sur la Renaissance."
 ---
-
 ![Image de Plutarque](https://upload.wikimedia.org/wikipedia/commons/3/34/Plutarch_of_Chaeronea-03.jpg)
 
 ###### Questions

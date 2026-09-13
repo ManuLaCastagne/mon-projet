@@ -20,8 +20,9 @@ indice_6 :
   - Jeûne
 questions:
  - Quel saint né en Égypte en 951 fut souvent accompagné d'un cochon ?
+culture_g_score: 77
+culture_g_justification: "Saint très populaire du catholicisme, facilement identifiable par Padoue, la prédication et la tradition des objets perdus."
 ---
-
 ![Image de Saint-Antoine](https://upload.wikimedia.org/wikipedia/commons/3/3f/%28Narbonne%29_Saint_Antoine_en_pri%C3%A8re_-_Mus%C3%A9e_des_Beaux-Arts_de_Narbonne.jpg)
 
 ###### Questions

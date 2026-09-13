@@ -14,8 +14,9 @@ indice_5 :
   - Antennes longues
 indice_6 : 
   - Abdomen effilé
+culture_g_score: 20
+culture_g_justification: "Famille de mantes peu connue, dont l’identification relève surtout de l’entomologie spécialisée."
 ---
-
 ![Image de Empusidé](https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Cambridge_natural_history_%28IA_cambridgenatural05harm%29.pdf)
 
 ###### Questions

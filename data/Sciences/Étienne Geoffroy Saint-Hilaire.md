@@ -18,9 +18,9 @@ indice_5:
   - monogenèse des espèces
 indice_6:
   - Muséum national d'Histoire naturelle
+culture_g_score: 39
+culture_g_justification: "Naturaliste français intéressant pour l’anatomie comparée et l’expédition d’Égypte, mais rarement demandé au niveau généraliste."
 ---
-
-
 ![Image de Etienne Geoffroy Saint-Hilaire](https://upload.wikimedia.org/wikipedia/commons/5/5c/Geoffroy_Saint-Hilaire_%C3%89tienne_1772-1844.jpg)
 
 ###### Questions

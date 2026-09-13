@@ -19,8 +19,9 @@ indice_5 :
   - auteur du livre Le Tsunami Marine Le Pen
 indice_6 : 
   - visage connu de l'actualité sur France 2
+culture_g_score: 24
+culture_g_justification: "Journaliste de télévision relativement peu connu, dont les principaux repères produisent peu de questions généralistes."
 ---
-
 ![Image de Jean-Baptiste Marteau](https://upload.wikimedia.org/wikipedia/commons/1/13/Jean-Baptiste_Morvan_de_Bellegarde_-_Lettres_curieuses.jpg)
 
 ###### Questions

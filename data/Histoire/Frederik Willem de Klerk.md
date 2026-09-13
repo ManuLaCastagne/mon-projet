@@ -20,8 +20,9 @@ indice_6 :
   - négociations vers une démocratie multiraciale
 questions:
  - Quel homme politique, président de la République sud-africaine de 1989 à 1994, à l'origine de l'abolition de l'apartheid ?
+culture_g_score: 64
+culture_g_justification: "Acteur majeur de la fin de l’apartheid et lauréat du Nobel avec Mandela, mais connu surtout dans ce cadre historique précis."
 ---
-
 ![Image de Frederik Willem de Klerk](https://upload.wikimedia.org/wikipedia/commons/e/ea/Frederik_Willem_de_Klerk%2C_1990.jpg)
 
 ###### Questions

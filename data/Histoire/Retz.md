@@ -18,8 +18,9 @@ indice_5:
   - accusé de meurtres d'enfants
 indice_6:
   - personnage qui a inspiré Barbe Bleue
+culture_g_score: 27
+culture_g_justification: "Ancienne région de Loire-Atlantique pouvant apparaître dans des questions sur Gilles de Rais ou les guerres de Vendée, mais très spécialisée."
 ---
-
 ![Image de Retz](https://upload.wikimedia.org/wikipedia/commons/0/0c/Retz_Kalvarienberg-6576-3.jpg)
 
 ###### Questions

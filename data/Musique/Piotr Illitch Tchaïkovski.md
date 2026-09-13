@@ -22,8 +22,9 @@ indice_6 :
   - Ouverture 1812
 questions:
  - Quel compositeur russe s'est inspiré du conte "La Belle au bois dormant" pour la création d'un ballet...
+culture_g_score: 97
+culture_g_justification: "Compositeur mondialement célèbre, ses ballets, œuvres symphoniques et liens avec la littérature offrent de nombreux points d'entrée classiques."
 ---
-
 ![Image de Piotr Illitch Tchaïkovski]()
 
 ###### Questions

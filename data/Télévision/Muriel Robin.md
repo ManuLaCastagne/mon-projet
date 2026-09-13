@@ -20,8 +20,9 @@ indice_6 :
   - humoriste et comédienne connue pour ses sketches
 questions:
  - Je poursuis ma carrière au cinéma et à la télévision avec "Marie Besnard, l'empoisonneuse" et plus récemment "Jacqueline Sauvage  c'était lui ou moi".
+culture_g_score: 64
+culture_g_justification: "Humoriste et comédienne française populaire, surtout utile pour les questions de spectacle, de télévision et de cinéma."
 ---
-
 ![Image de Muriel Robin](https://upload.wikimedia.org/wikipedia/commons/e/ed/Muriel_Robin_par_Francis_Hannaway_2016.jpg)
 
 ###### Questions

@@ -13,8 +13,9 @@ indice_5 :
   - Capucin
 indice_6 : 
   - Symbole d'agilité
+culture_g_score: 32
+culture_g_justification: "Singe sud-américain associé à quelques artistes et explorateurs, mais peu connu comme référence autonome."
 ---
-
 ![Image de Sapajou](https://upload.wikimedia.org/wikipedia/commons/4/40/Capuchin_Costa_Rica.jpg)
 
 ###### Questions

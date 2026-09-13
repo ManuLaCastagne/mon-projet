@@ -20,8 +20,9 @@ indice_6 :
   - Justice
 questions:
  - Je suis suscité par la visite de 2 femmes qui se prétendent toutes 2 mères, vous connaissez l'histoire, d'un même nourrisson. Voyant le roi ordonner qu'on coupe l'enfant en 2, puis comprendre laquelle est la vraie mère après l'opposition de l'une d'elles, je suis évoqué en parlant d'une décision empreinte de sagesse.
+culture_g_score: 80
+culture_g_justification: "Récit biblique très célèbre dont l'expression est passée dans le langage courant et l'histoire de l'art."
 ---
-
 ![Image de Le Jugement de Salomon](https://upload.wikimedia.org/wikipedia/commons/8/85/Raoux-Jugement_de_Salomon.JPG)
 
 ###### Questions

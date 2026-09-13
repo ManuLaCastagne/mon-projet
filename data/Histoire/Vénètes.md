@@ -20,8 +20,9 @@ indice_6 :
   - flotte maritime
 questions:
  - A quel peuple maritime le plus puissant de Gaule (pays) établi en Armorique est écrasé par Cinéma/César en -56 ?
+culture_g_score: 44
+culture_g_justification: "Peuple gaulois connu surtout par son affrontement naval avec César, ce qui limite les angles de questionnement."
 ---
-
 ![Image de Vénètes](https://upload.wikimedia.org/wikipedia/commons/5/5a/Bou%C3%A9e%2C_proues_b%C3%A2teaux_scouts_marins%2C_la_Rabine%2C_Vannes%2C_Morbihan.jpg)
 
 ###### Questions

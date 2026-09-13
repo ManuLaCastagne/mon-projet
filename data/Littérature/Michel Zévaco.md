@@ -22,8 +22,9 @@ indice_6 :
   - anarchiste
 questions:
  - A quel auteur né en 1860 doit-on les romans "Le Capitan" et "Le Pardaillan" ?
+culture_g_score: 32
+culture_g_justification: "Feuilletoniste français important dans le roman populaire, mais aujourd’hui peu connu et rarement présent hors de questions littéraires spécialisées."
 ---
-
 ![Image de Michel Zévaco](https://upload.wikimedia.org/wikipedia/commons/b/b7/Michel_Z%C3%A9vaco.jpg)
 
 ###### Questions

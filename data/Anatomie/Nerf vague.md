@@ -1,3 +1,8 @@
+---
+culture_g_score: 64
+culture_g_justification: "Nerf classique associé au système parasympathique et à de nombreux organes, mais encore spécialisé."
+---
+
 
 ###### Questions 
 

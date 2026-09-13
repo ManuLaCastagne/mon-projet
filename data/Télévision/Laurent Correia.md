@@ -19,8 +19,9 @@ indice_5 :
   - Dubaï
 indice_6 : 
   - JLC Family
+culture_g_score: 24
+culture_g_justification: "Personnalité de téléréalité et influenceur à notoriété limitée, dont les informations sont peu rentables hors de ce milieu."
 ---
-
 ![Image de Laurent Correia](https://upload.wikimedia.org/wikipedia/commons/4/45/Books_from_the_Biodiversity_Heritage_Library_%28IA_reductionofallge00corr%29.pdf)
 
 ###### Questions

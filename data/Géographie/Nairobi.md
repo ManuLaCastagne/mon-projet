@@ -22,8 +22,9 @@ indice_5 :
   - fleuve Nairobi
 indice_6 : 
   - bâtiments modernes
+culture_g_score: 72
+culture_g_justification: "Grande capitale africaine fréquemment reliée au Kenya, aux safaris, à la géopolitique régionale et à l'attentat de 1998."
 ---
-
 ![Image de Nairobi](https://upload.wikimedia.org/wikipedia/commons/3/33/Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg)
 
 ![[Carte_Nairobi.png]]

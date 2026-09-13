@@ -1,37 +1,28 @@
 ---
-tags: 
+tags:
   - DCDL
   - Animaux
-indice_1 : 
-  - Chanson
-indice_2 : 
-  - France Gall
-indice_3 : 
-  - Michel Berger
-indice_4 : 
-  - Musique
-indice_5 : 
-  - 1980
-indice_6 : 
-  - Album
-culture_g_score: 3
+indice_1:
+  - Annélides
+indice_2:
+  - Posidonie
+indice_3:
+  - Ver
+indice_4:
+indice_5:
+indice_6:
+culture_g_score: 1
 ---
 ![Image de Sabelle](https://upload.wikimedia.org/wikipedia/commons/9/94/Sabella_pavonina_-_Hippocampus_hippocampus_-_Porto_Cesareo%2C_Italy_%28DSC2314M%29.jpg)
 
 ###### Questions
 
-Quel type de transport maritime léger pourrait être associé aux mouvements entre les îles [[hyéroises]] ?
-
-Quelle embarcation pourrait être utilisée pour des visites touristiques ou des excursions en mer autour de [[Toulon]] ?
-
-Quelle est la goélette utilisée pour des régates et sorties en mer en lien avec l'histoire maritime de la région [[Provence-Alpes-Côte d'Azur]] ?
+Quels invertébrés vivent enfoncés dans la vase, le sable ou au sein des herbiers de [[Zostère]] ou de [[Posidonie]] ?
 
 ###### Description
 
-Le mot "Sabelle" est historiquement lié à des racines culturelles et linguistiques spécifiques, mais il n'a pas de signification largement reconnue dans le langage courant. 
+Sabella (les sabelles) est un genre de vers [[annélide]]s [[polychète]]s marins appartenant à la famille des Sabellidae.
 
-Dans certains contextes, on peut le retrouver comme un prénom féminin, bien que relativement rare, et il pourrait être intéressant de le rapprocher d'autres prénoms tels que [[Isabelle]] ou [[Annabelle]], avec lesquels il partage une sonorité similaire. 
+Ces vers sont sédentaires et tubicoles. Ils capturent de l’oxygène et leur nourriture grâce à leur couronne tentaculaire qui est constituée de branchies hypertrophiées rassemblées en panache. La couronne s'ouvre sur la bouche et peut être très colorée. Les tentacules sont couverts d'un épithélium constitué de cellules muqueuses et portent des zones ciliées. Ils créent des courants qui permettent d'amener les particules alimentaires en suspension vers la bouche. 
 
-[[Sabelle]] peut également être envisagé dans une perspective littéraire ou artistique, où il pourrait être utilisé comme nom de personnage fictif, offrant alors une touche d'originalité et de mystère. 
-
-Enfin, l'utilisation du mot dans des oeuvres contemporaines, comme des romans ou des films, reste à découvrir et pourrait permettre de lui donner une notoriété nouvelle à travers la créativité des auteurs.
+La couronne peut se rétracter dans le tube en réponse à divers signaux : vibration, lumière, mouvement. Le corps des sabelles est mou et métamérisé. Il ne sort jamais du tube construit avec un mélange de sédiments et de mucus. Le système circulatoire est entièrement clos.

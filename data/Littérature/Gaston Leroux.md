@@ -22,8 +22,9 @@ indice_6 :
   - écrivain français
 questions:
  - En 1907, quel romancier crée, dans "Le Mystère de la chambre jaune", le personnage de reporter de Rouletabille?
+culture_g_score: 80
+culture_g_justification: "Gaston Leroux est régulièrement interrogé grâce au Fantôme de l’Opéra, à Rouletabille, au roman policier et à leurs adaptations."
 ---
-
 ![Image de Gaston Leroux](https://upload.wikimedia.org/wikipedia/commons/8/8a/G._LEROUX.jpg)
 
 ###### Questions

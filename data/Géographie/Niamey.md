@@ -24,9 +24,9 @@ indice_6 :
   - Paysage sahélien
 questions:
  - Quelle ville d'Afrique, établie sur un fleuve, est la capitale du Niger?
+culture_g_score: 53
+culture_g_justification: "Capitale africaine assez classique des quiz, mais principalement utile pour identifier le Niger et situer le fleuve éponyme."
 ---
-
-
 ![Image de Niamey](https://upload.wikimedia.org/wikipedia/commons/9/9c/Niamey_night.jpg)
 
 ![[Carte_Niamey.png]]

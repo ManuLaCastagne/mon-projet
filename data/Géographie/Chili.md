@@ -26,8 +26,9 @@ indice_6:
   - Patagonie
 questions:
   - En 2016, dans quel pays se déroule l'action du film "Les 33" qui relate le fait divers au cours duquel des mineurs ont été pris au piège dans une mine?
+culture_g_score: 80
+culture_g_justification: "Pays sud-américain fréquemment mobilisé grâce à l’Atacama, l’île de Pâques, la Patagonie, les Andes et son histoire minière."
 ---
-
 ![Image de Chili](https://upload.wikimedia.org/wikipedia/commons/f/f8/VitorJubini_MercadoDaVilaRubim_Vitoria_ES_%2839182859020%29_%28square_crop%29.jpg)
 
 ![[Carte_Chili.png]]

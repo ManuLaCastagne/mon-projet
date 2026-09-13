@@ -18,8 +18,9 @@ indice_5:
   - révolte des marins
 indice_6:
   - Odessa
+culture_g_score: 60
+culture_g_justification: "Épisode classique de la révolution russe de 1905, renforcé par sa représentation dans le film de Eisenstein."
 ---
-
 ![Image de Mutinerie de Potemkine](https://upload.wikimedia.org/wikipedia/commons/d/de/Potemkin_mutiny_Odessa_wagons.jpg)
 
 ###### Questions

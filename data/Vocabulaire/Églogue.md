@@ -14,10 +14,9 @@ indice_5 :
   - Pastoral
 indice_6 : 
   - Berger
+culture_g_score: 60
+culture_g_justification: "Genre poétique classique associé à Virgile, à la poésie pastorale et à l'histoire littéraire antique et renaissante."
 ---
-
-
-
 ![Image de Églogue](https://upload.wikimedia.org/wikipedia/commons/0/0b/%C3%89mile-Louis_Foubert_-_Pan_and_Nymph_in_a_Landscape.jpg)
 
 ###### Questions

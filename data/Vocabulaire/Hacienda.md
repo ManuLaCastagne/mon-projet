@@ -14,8 +14,9 @@ indice_5 :
   - Architecture coloniale
 indice_6 : 
   - Exploitation agricole
+culture_g_score: 68
+culture_g_justification: "La hacienda est un repère historique, économique et géographique important de l’Amérique latine coloniale."
 ---
-
 ![Image de Hacienda](https://upload.wikimedia.org/wikipedia/commons/5/5a/Hacienda_jaral_de_berrios.jpg)
 
 ###### Questions

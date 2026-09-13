@@ -18,8 +18,9 @@ indice_5 :
   - Seattle Grace Hospital
 indice_6 : 
   - longue carrière à la télévision
+culture_g_score: 73
+culture_g_justification: "Actrice indissociable de Grey’s Anatomy, série très connue permettant des questions sur la télévision, les récompenses et la production."
 ---
-
 ![Image de Ellen Pompeo](https://upload.wikimedia.org/wikipedia/commons/8/88/Ellen_Pompeo_LF.JPG)
 
 ###### Questions

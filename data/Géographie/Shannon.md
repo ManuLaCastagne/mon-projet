@@ -22,8 +22,9 @@ indice_6 :
   - Cliffs of Moher
 questions:
  - Quel cours d'eau irlandais dont l'estuaire…
+culture_g_score: 40
+culture_g_justification: "Le Shannon est surtout un repère irlandais ponctuel, avec une notoriété limitée comme ville ou comme fleuve."
 ---
-
 ![Image de Shannon](https://upload.wikimedia.org/wikipedia/commons/5/54/AT%26T_Claude_Shannon_Statue.jpg)
 
 ![[Carte_Shannon.png]]

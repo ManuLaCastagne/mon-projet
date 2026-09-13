@@ -22,8 +22,9 @@ indice_6 :
   - humour tendre
 questions:
  - En 2007, quel écrivain, auteur de la saga des "Malaussène", est lauréat du prix Renaudot pour "Chagrin d'école"?
+culture_g_score: 60
+culture_g_justification: "Écrivain contemporain bien installé, associé à la saga Malaussène et aux droits du lecteur, mais d’importance moins fondamentale."
 ---
-
 ![Image de Daniel Pennac](https://upload.wikimedia.org/wikipedia/commons/b/bb/Paris_-_Salon_du_livre_de_Paris_2017_-_Daniel_Pennac_-_003.jpg)
 
 ###### Questions

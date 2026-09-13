@@ -18,9 +18,9 @@ indice_5 :
   - Acteur canadien
 indice_6 : 
   - A également joué dans Ironside
+culture_g_score: 80
+culture_g_justification: "Acteur fortement associé à deux séries américaines classiques, Perry Mason et Ironside, offrant plusieurs angles télévisuels."
 ---
-
-
 ![Image de Raymond Burr](https://upload.wikimedia.org/wikipedia/commons/2/26/Raymond-Burr-1968-cropped.jpg)
 
 ###### Questions

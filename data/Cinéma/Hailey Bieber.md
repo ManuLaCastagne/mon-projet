@@ -20,8 +20,9 @@ indice_5 :
   - influenceuse Instagram
 indice_6 : 
   - née en 1996
+culture_g_score: 39
+culture_g_justification: "Personnalité médiatique récente surtout connue par sa vie privée et la mode, avec une faible importance culturelle autonome."
 ---
-
 ![Image de Hailey Bieber](https://upload.wikimedia.org/wikipedia/commons/6/6a/Hailey_Baldwin_Backstage_Billboard_Music_Awards_2018.jpg)
 
 ###### Questions

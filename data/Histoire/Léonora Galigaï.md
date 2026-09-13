@@ -20,8 +20,9 @@ indice_6 :
   - née en 1571 à Florence
 questions:
  - Quelle aventurière italienne a été arrêtée après l'assassinat de son mari, Concini, en 1617, avant d'être exécutée pour sorcellerie?
+culture_g_score: 39
+culture_g_justification: "Personnage de cour surtout connu pour son procès et son exécution, avec une rentabilité limitée hors de l’histoire de la régence."
 ---
-
 ![Image de Léonora Galigaï](https://upload.wikimedia.org/wikipedia/commons/f/f2/L%C3%A9onora_Galiga%C3%AF_par_Daniel_Dumonstier.jpg)
 
 ###### Questions

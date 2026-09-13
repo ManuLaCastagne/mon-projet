@@ -23,9 +23,9 @@ indice_6:
   - monument historique français
 questions:
   - Conservant des fresques profanes dans la Chambre du cerf et d'autres religieuses dans la Grande Audience, je suis célèbre pour ma cour d'honneur...
+culture_g_score: 80
+culture_g_justification: "Monument emblématique d'Avignon et de la papauté médiévale, offrant des angles historiques, religieux, architecturaux et géographiques."
 ---
-
-
 ![Image de Palais des Papes](https://upload.wikimedia.org/wikipedia/commons/d/db/Avignon%2C_Palais_des_Papes_by_JM_Rosier.jpg)
 
 ###### Questions

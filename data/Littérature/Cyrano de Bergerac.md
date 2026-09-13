@@ -22,8 +22,9 @@ indice_6 :
   - duel
 questions:
  - Quel héros d'une pièce de 1897 donne une leçon d'esprit au vicomte de Valvert ?
+culture_g_score: 96
+culture_g_justification: "Héros théâtral français universellement célèbre, ouvrant sur Rostand, la littérature, le théâtre, le cinéma et le personnage historique réel."
 ---
-
 ![Image de Cyrano de Bergerac](https://upload.wikimedia.org/wikipedia/commons/a/a1/Cyrano_de_Bergerac_%281950%29.webm)
 
 ###### Questions

@@ -22,8 +22,9 @@ indice_6 :
   - Compagnes d'Arc
 questions:
  - A quelle chanteuse française des années 50 devenue meneuse de revus au Casino de Paris à la suite de Line Renaud, doit-on la chanson "Ma maman"?
+culture_g_score: 32
+culture_g_justification: "Chanteuse et sculptrice liée à un succès précis des années 1950, aujourd’hui peu connue et rarement interrogée hors de la chanson française spécialisée."
 ---
-
 ![Image de Mick Micheyl](https://upload.wikimedia.org/wikipedia/commons/4/46/%22C%27est_tellement_diff%C3%A9rent%2C_nous%22%2C_valse_de_Mick_Micheyl%2C_interpr%C3%A9t%C3%A9e_par_Jo_Krasker_%C3%A0_l%27accord%C3%A9on.jpg)
 
 ###### Questions

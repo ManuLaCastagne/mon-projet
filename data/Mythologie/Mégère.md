@@ -18,8 +18,9 @@ indice_6 :
   - mythologie gréco-romaine
 questions:
  - Quel nom emprunté à l'une des Furies de la [[mythologie grecque]] désigne une femme acariâtre ?
+culture_g_score: 44
+culture_g_justification: "Érinye identifiable dans la mythologie grecque, mais nettement moins fréquente et moins riche en angles que les grandes divinités antiques."
 ---
-
 ![Image de Mégère](https://upload.wikimedia.org/wikipedia/commons/f/f9/Lasiommata_megera_male_underside_2.jpg)
 
 ###### Questions

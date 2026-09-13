@@ -22,8 +22,9 @@ indice_6 :
   - Noël
 questions:
  - En 2011, quel film avec Vincent Elbaz relate la prise en otage en 1994 à Alger, des passagers d'un avion et leur libération par le GIGN ?
+culture_g_score: 31
+culture_g_justification: "Film français inspiré d’un événement réel, mais relativement peu connu et rarement nécessaire hors de questions spécialisées."
 ---
-
 ![Image de L'Assaut](https://upload.wikimedia.org/wikipedia/commons/e/ea/Assaut_Avant_Premiere_03.jpg)
 
 ###### Questions

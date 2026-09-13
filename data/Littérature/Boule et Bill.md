@@ -22,9 +22,9 @@ indice_6 :
   - aventures humoristiques
 questions:
  - Dès 1959, de quel duo de bande dessinée, formé d'un petit garçon roux et de son cocker le dessinateur Jean Roba a-t-il raconté les péripéties ?
+culture_g_score: 64
+culture_g_justification: "Boule et Bill est une bande dessinée francophone très connue, mais principalement exploitable par quelques questions sur ses personnages et sa création."
 ---
-
-
 ![Image de Boule et Bill](https://upload.wikimedia.org/wikipedia/commons/e/e8/Boule-et-Bill-Wandgemaelde_in_Bruessel.jpg)
 
 ###### Questions

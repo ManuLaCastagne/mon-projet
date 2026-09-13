@@ -22,8 +22,9 @@ indice_6:
   - peintures rupestres
 questions:
   - Représenta mes "Coteaux", je m'étends le long de l'Oise. Lieu de résidence...
+culture_g_score: 60
+culture_g_justification: "Village fortement associé aux derniers jours de Van Gogh, Auvers-sur-Oise est un repère classique mais principalement lié à cet épisode artistique."
 ---
-
 ![Image de Auvers-sur-Oise](https://upload.wikimedia.org/wikipedia/commons/a/ad/Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise%2C_View_from_the_Chevet_-_Google_Art_Project.jpg)
 
 ###### Questions

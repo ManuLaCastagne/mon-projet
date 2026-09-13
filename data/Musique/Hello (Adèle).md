@@ -22,8 +22,9 @@ indice_6 :
   - album 25
 questions:
  - Nous cherchons une chanson en anglais, sortie en 2015, avec un clip, filmé dans les tons sépia, par le réalisateur X. Dolan, dans lequel mon interprète revient, nostalgique, dans une maison vide. Dans l'album "25" d'Adele, je dis qu'elle a appelé mille fois...
+culture_g_score: 80
+culture_g_justification: "Tube mondial immédiatement reconnaissable, souvent interrogé avec Adèle, l’album 25 et ses records, mais limité à quelques repères musicaux."
 ---
-
 ![Image de Hello (Adèle)](https://upload.wikimedia.org/wikipedia/commons/b/ba/ADELE_LIVE_2016_-_HELLO_-_ST._PAUL_-_night_1.jpg)
 
 ###### Questions

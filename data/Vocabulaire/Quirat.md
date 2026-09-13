@@ -10,6 +10,8 @@ indice_3:
 indice_4: 
 indice_5: 
 indice_6: []
+culture_g_score: 20
+culture_g_justification: "Terme ancien de droit maritime désignant une fraction de propriété, avec un champ d’application très étroit."
 ---
 ###### Questions
 

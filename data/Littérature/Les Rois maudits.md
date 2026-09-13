@@ -22,8 +22,9 @@ indice_6 :
   - Isabeau de Bavière
 questions:
  - Entre 1955 et 1977, dans quel cycle en 7 volumes Maurice Druon évoque-t-il…
+culture_g_score: 80
+culture_g_justification: "Les Rois maudits sont un classique français très rentable grâce à Maurice Druon, l’histoire des Capétiens, la télévision et les intrigues médiévales."
 ---
-
 ![Image de Les Rois maudits](https://upload.wikimedia.org/wikipedia/commons/1/1c/Verlaine_-_Les_Po%C3%A8tes_maudits%2C_1888.djvu)
 
 ###### Questions
