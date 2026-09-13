@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Littérature/Alain Robbe-Grillet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de Alain Robbe-Grillet"
             }
           },
           {
@@ -361,6 +362,7 @@
   },
   "active": "028c50878b1df9c9",
   "lastOpenFiles": [
+    "Vocabulaire/Apartheid.md",
     "conflict-files-obsidian-git.md",
     "Littérature/Alain Robbe-Grillet.md",
     "Anatomie/SAMU.md",
@@ -389,7 +391,6 @@
     "Littérature/Agatha Christie.md",
     "Culture générale/Reine du crime.md",
     "Littérature/La Mystérieuse Affaire de Styles.md",
-    "Culture générale/Mary Westmacott.md",
     "attachments/Pasted image 20260816110720.png",
     "attachments/Pasted image 20260804075735.png",
     "attachments/Pasted image 20260804075442.png",

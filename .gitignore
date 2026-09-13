@@ -5,6 +5,7 @@ temp/
 /data/.DS_Store
 .obsidian
 /data/.obsidian
+data/.obsidian/workspace.json
 
 # Secrets
 .env
