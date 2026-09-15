@@ -23,6 +23,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Astronome classique des quiz scientifiques, associé à Saturne, à ses satellites, à sa division des anneaux et à l’Observatoire de Paris."
 ---
+
 ![Image de Giovanni Domenico Cassini](https://upload.wikimedia.org/wikipedia/commons/d/d6/Giovanni_Cassini.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel astronome d'origine italienne, ayant vécu au XVIIe siècle, fut le premier
 
 Quel scientifique et ingénieur, né en 1625, devint directeur de l'Observatoire de [[Paris]] en 1671 et réalisa une cartographie précise de la surface de [[Mars]] ?
 
-Quel astronome a découvert les lunes [[Japet]], [[Rhéa]], [[Téthys]] et [[Dioné]] de [[Saturne]] entre 1671 et 1684, contribuant ainsi de manière significative à la connaissance des satellites naturels ? <!-- score: 3 -->
+Quel astronome a découvert les lunes [[Japet]], [[Rhéa]], [[Téthys]] et [[Dioné]] de [[Saturne]] entre 1671 et 1684, contribuant ainsi de manière significative à la connaissance des satellites naturels ? <!-- score: 2 -->
 ###### Description
 
 [[Giovanni Domenico Cassini]], né en 1625 à [[Perinaldo]] en [[Italie]], était un éminent astronome et ingénieur qui a passé une grande partie de sa carrière en France. 
