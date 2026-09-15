@@ -26,13 +26,14 @@ questions:
 culture_g_score: 88
 culture_g_justification: "Les Ballets russes relient danse, musique, peinture, mode et avant-garde grâce à Diaghilev et à de nombreuses collaborations célèbres."
 ---
+
 ![Image de Ballets Russes](https://upload.wikimedia.org/wikipedia/commons/8/8a/Daphnis_et_Chloe-_Pirates.png)
 
 ###### Questions
 
 Quel collectif artistique, dirigé par [[Sergueï Diaghilev]], a révolutionné le monde de la danse entre 1909 et 1929 en présentant des créations avant-gardistes ?
 
-Quelle compagnie de danse a collaboré avec des artistes tels que [[Pablo Picasso]], [[Igor Stravinsky]] et [[Coco Chanel]] pour produire des spectacles novateurs au début du XXe siècle ?
+Quelle compagnie de danse a collaboré avec des artistes tels que [[Pablo Picasso]], [[Igor Stravinsky]] et [[Coco Chanel]] pour produire des spectacles novateurs au début du XXe siècle ? <!-- score: 4 -->
 
 Quel ensemble de danseurs a contribué à introduire la musique de [[Claude Debussy]] dans le répertoire de ballet avec l'œuvre [[Prélude à l'après-midi d'un faune]] en 1912 ?
 
