@@ -22,11 +22,12 @@ indice_6:
 culture_g_score: 80
 culture_g_justification: "Actrice française oscarisée et internationale, très rentable pour La Môme, Nolan, Hollywood et les récompenses."
 ---
+
 ![Image de Marion Cotillard](https://upload.wikimedia.org/wikipedia/commons/5/59/Marion_Cotillard_at_2019_Cannes.jpg)
 
 ###### Questions
 
-Quelle actrice française, ayant entamé en 2009 une carrière hollywoodienne avec le film "[[Public Enemies]]" est également à l'affiche de "[[The Immigrant]]" ?
+Quelle actrice française, ayant entamé en 2009 une carrière hollywoodienne avec le film "[[Public Enemies]]" est également à l'affiche de "[[The Immigrant]]" ? <!-- score: 3 -->
 
 Dans quel film de [[Christopher Nolan]], sorti en 2010, a-t-elle interprété le personnage complexe de [[Mal Cobb]] qui évolue dans les rêves ?
 
