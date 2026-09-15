@@ -24,16 +24,13 @@ indice_6 :
 culture_g_score: 67
 culture_g_justification: "Jean Vilar est un repère important du théâtre français grâce au Festival d’Avignon, au TNP et à la démocratisation culturelle."
 ---
+
+
 ![Image de Jean Vilar](https://upload.wikimedia.org/wikipedia/commons/b/be/Jean_Vilar%2C_April_1955.jpg)
 
 ###### Questions
 
-Dans quelle ville [[Jean Vilar]] a-t-il fondé le [[Festival d'Avignon]] en 1947 ? 
-
-Quel acteur et metteur en scène a été nommé directeur du [[Théâtre National Populaire]] en 1951 ? 
-
-Qui a inauguré le festival de [[Châteauvallon]] en tant que metteur en scène en 1964 ?
-
+Quel acteur et metteur en scène a fondé le festival d'Avignon et a été nommé directeur du [[Théâtre National Populaire]] en 1951 ? <!-- score: 5 -->
 ###### Description
 
 [[Jean Vilar]], né en 1912, est une figure emblématique du théâtre français, ayant fondé le [[Festival d'Avignon]] en 1947, qui est aujourd'hui l'un des plus prestigieux festivals d'art dramatique au monde. 
