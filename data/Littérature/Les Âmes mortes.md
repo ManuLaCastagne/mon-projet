@@ -25,13 +25,14 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Œuvre majeure de Gogol, utile pour la littérature russe, la satire sociale, le servage et le personnage de Tchitchikov."
 ---
+
 ![Image de Les Âmes mortes](https://upload.wikimedia.org/wikipedia/commons/d/df/Les_%C3%A2mes_mortes%2C_texte_de_Micha%C3%AFl_A._Boulgakov_-_photographies_-_Roger_Pic_-_btv1b8426218v_%2802_of_16%29.jpg)
 
 ###### Questions
 
 Quel roman, écrit par [[Nicolas Gogol]] en 1842, est considéré comme un chef-d'œuvre de la littérature russe et dépeint une satire de la société russe à travers les aventures de [[Tchitchikov]]?
 
-Dans quelle œuvre inachevée de [[Nicolas Gogol]], un personnage principal tente-t-il d'acheter les [[âmes]] de serfs [[morts]] afin de s'enrichir?
+Dans quelle œuvre inachevée de [[Nicolas Gogol]], un personnage principal tente-t-il d'acheter les [[âmes]] de serfs [[morts]] afin de s'enrichir? <!-- score: 1 -->
 
 Quel livre, publié en 1842, utilise une structure d'épopée incomplète pour critiquer la corruption sociale en [[Russie impériale]]?
 
