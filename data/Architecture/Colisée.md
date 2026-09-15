@@ -26,11 +26,12 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Symbole universel de Rome et de l’Empire romain, omniprésent dans les questions d’histoire, d’architecture et de civilisation."
 ---
-![Image de Colisée](https://upload.wikimedia.org/wikipedia/commons/3/36/Colis%C3%A9e_Pepsi-banni%C3%A8res.JPG)
+
+![Image de Colisée](https://upload.wikimedia.org/wikipedia/commons/3/36/Colis%C3%A9e_Pepsi-banni%C3%A8res.JPG)
 
 ###### Questions
 
-Quel monument romain construit entre [[70]] et [[80]] apr. J.-C. pouvait accueillir environ 50 000 spectateurs pour des combats de gladiateurs?
+Quel monument romain construit entre [[70]] et [[80]] apr. J.-C. pouvait accueillir environ 50 000 spectateurs pour des combats de gladiateurs? <!-- score: 8 -->
 
 Quel édifice emblématique, symbole de l'[[Empire romain]], a été partiellement détruit par un tremblement de terre en 1349?
 
