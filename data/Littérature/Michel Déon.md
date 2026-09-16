@@ -1,7 +1,7 @@
 ---
 tags:
   - Littérature
-  - Michel_Déon
+  - Michel_Déon
   - Littérature
   - Paris
   - Années_1950
@@ -24,13 +24,14 @@ indice_6:
 culture_g_score: 51
 culture_g_justification: "Écrivain des Hussards et membre de l’Académie française, mais moins fréquent et moins structurant que les grands romanciers français."
 ---
-![Image de Michel Déon](https://upload.wikimedia.org/wikipedia/commons/c/c8/Michel_D%C3%A9on_au_salon_du_livre_de_Paris_2012.jpg)
+
+![Image de Michel Déon](https://upload.wikimedia.org/wikipedia/commons/c/c8/Michel_D%C3%A9on_au_salon_du_livre_de_Paris_2012.jpg)
 
 ###### Questions
 
 Quel écrivain est associé au mouvement des Hussards, auteur des "Poneys sauvages", et auteur du roman "Un taxi mauve" adapté au cinéma par [[Yves Boisset]] ?
 
-Quel membre de [[l'Académie française]], élu en 1978, était également un auteur renommé des [[Hussards]] ?
+Quel membre de [[l'Académie française]], élu en 1978, était également un auteur renommé des [[Hussards]] ? <!-- score: 4 -->
 
 Quel écrivain, né en 1919 à [[Paris]], est célèbre pour son roman « [[Les Poneys sauvages]] » publié en 1970 ?
 
