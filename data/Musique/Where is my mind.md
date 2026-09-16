@@ -25,11 +25,12 @@ questions:
 culture_g_score: 76
 culture_g_justification: "Titre culte des Pixies, renforcé par Fight Club, permettant des questions sur le rock alternatif, le cinéma et le groupe."
 ---
+
 ![Image de Where is my mind](https://upload.wikimedia.org/wikipedia/commons/7/7e/Where_is_my_mind%3F.jpg)
 
 ###### Questions
 
-Quelle chanson des [[Pixies]], sortie en 1988 sur l'album [[Surfer Rosa]], a gagné en popularité après avoir été utilisée dans la scène finale du film [[Fight Club]] ?
+Quelle chanson des [[Pixies]], sortie en 1988 sur l'album [[Surfer Rosa]], a gagné en popularité après avoir été utilisée dans la scène finale du film [[Fight Club]] ? <!-- score: 3 -->
 
 Quel morceau emblématique de l'ère du rock alternatif, reconnu pour son riff de guitare distinctif, a été produit par [[Steve Albini]] et interprété par les [[Pixies]] ?
 
