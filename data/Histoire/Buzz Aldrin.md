@@ -23,13 +23,14 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Astronaute d’Apollo 11 immédiatement identifiable, permettant des questions sur la conquête spatiale, la Lune et la guerre de Corée."
 ---
+
 ![Image de Buzz Aldrin](https://upload.wikimedia.org/wikipedia/commons/9/9c/Aldrin_Apollo_11.jpg)
 
 ###### Questions
 
 Quel astronaute américain a participé à la mission [[Apollo 11]] en [[1969]] et est devenu la deuxième personne à marcher sur la Lune après [[Neil Armstrong]] ?
 
-Quel est le nom de l'astronaute qui a été pilote de chasse pendant la [[Guerre de Corée]] avant de rejoindre la [[NASA]] en [[1963]] ?
+Quel est le nom de l'astronaute qui a été pilote de chasse pendant la [[Guerre de Corée]] avant de rejoindre la [[NASA]] en [[1963]] ? <!-- score: 3 -->
 
 Quel personnage historique a inspiré un des astronautes d'une chanson des [[The Police]] intitulée "[[Walking on the Moon]]" sortie en [[1979]] ?
 
