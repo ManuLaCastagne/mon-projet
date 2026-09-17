@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Musique/Bono.md",
+                "file": "Histoire/Yasser Arafat.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musique/Bono.md",
+                "file": "Histoire/Yasser Arafat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bono"
+              "title": "Yasser Arafat"
             }
           },
           {
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musique/Bono.md",
+                "file": "Histoire/Yasser Arafat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,6 +364,7 @@
   },
   "active": "36925dd685bcf6c5",
   "lastOpenFiles": [
+    "Musique/Bono.md",
     "Histoire/Lady Diana.md",
     "Cinéma/Die Hard.md",
     "Culture générale/Diana Spencer.md",
@@ -391,7 +392,6 @@
     "Musique/Labelle.md",
     "Cinéma/Moulin-Rouge (film).md",
     "Sciences/Marie Curie.md",
-    "Histoire/George S. Patton.md",
     "attachments/Carte_16e arrondissement (Paris).png",
     "attachments/Pasted image 20260905165459.png",
     "Frises/Scores Culture G.base",
