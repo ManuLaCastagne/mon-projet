@@ -2,6 +2,7 @@
 tags:
   - France
   - film
+  - Certifié
 debut: 2011
 fin:
 indice_1:
@@ -17,8 +18,7 @@ indice_5:
 indice_6:
   - Duo formé par un livreur et un inventeur
 ---
-
-![Image de Un Monstre à Paris]()
+![[Pasted image 20260917201129.png]]
 
 ###### Questions
 

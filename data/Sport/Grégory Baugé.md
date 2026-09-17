@@ -1,37 +1,35 @@
 ---
-tags: 
+tags:
   - Sport
   - Île-de-France
   - Années_2000
   - XXIe
 debut: 1985
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Cyclisme sur piste
-indice_2 : 
+indice_2:
   - Champion du monde
-indice_3 : 
+indice_3:
   - Sprinteur
-indice_4 : 
+indice_4:
   - Jeux Olympiques
-indice_5 : 
+indice_5:
   - Équipe de France
-indice_6 : 
+indice_6:
   - Médaille d'or
-questions:
- - En 2021, quel cycliste français,  spécialiste de la piste...
 culture_g_score: 48
-culture_g_justification: "Champion français important du sprint sur piste, mais principalement mobilisé dans des questions spécialisées sur le cyclisme et ses palmarès."
+culture_g_justification: Champion français important du sprint sur piste, mais principalement mobilisé dans des questions spécialisées sur le cyclisme et ses palmarès.
 ---
 ![Image de Grégory Baugé](https://upload.wikimedia.org/wikipedia/commons/b/ba/Gr%C3%A9gory_Baug%C3%A9.jpg)
 
 ###### Questions
 
+En 2026, quel athlète est 14 fois champion du monde et 1 fois médaillé olympique de cyclisme sur piste ?
+
 Quel cycliste français a remporté le championnat du monde de [[cyclisme sur piste]] en [[sprint individuel]] en [[2015]] ?
 
 Quel sportif a été sept fois champion du monde avec l'équipe de [[France de cyclisme sur piste]] dans la discipline de la [[vitesse par équipes]] entre [[2006]] et [[2015]] ?
-
-Quel athlète a été couronné lors des [[Championnats d'Europe de cyclisme sur piste]] à [[Apeldoorn]] en [[2019]] ?
 
 ###### Description
 
