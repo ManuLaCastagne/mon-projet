@@ -25,8 +25,6 @@ culture_g_justification: Champion français important du sprint sur piste, mais 
 
 ###### Questions
 
-En 2026, quel athlète est 14 fois champion du monde et 1 fois médaillé olympique de cyclisme sur piste ?
-
 Quel cycliste français a remporté le championnat du monde de [[cyclisme sur piste]] en [[sprint individuel]] en [[2015]] ?
 
 Quel sportif a été sept fois champion du monde avec l'équipe de [[France de cyclisme sur piste]] dans la discipline de la [[vitesse par équipes]] entre [[2006]] et [[2015]] ?

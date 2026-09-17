@@ -5,5 +5,7 @@ culture_g_justification: "Adjectif anatomique technique, peu fréquent et surtou
 
 ###### Questions 
 
-En médecine, quel adjectif qualifie le canal osseux creusé dans les vertèbres  et contenant la moelle épinière ?
+En médecine, quel adjectif qualifie le canal osseux creusé dans les vertèbres et contenant la moelle épinière ?
+
+Quels nerfs sont au nombre de 31 dans la moelle épinière ?
 
