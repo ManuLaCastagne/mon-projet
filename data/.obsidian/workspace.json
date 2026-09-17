@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sciences/Méthane.md",
+                "file": "Sciences/Alessandro Volta.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Méthane.md",
+                "file": "Sciences/Alessandro Volta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Méthane"
+              "title": "Alessandro Volta"
             }
           },
           {
@@ -336,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sciences/Méthane.md",
+                "file": "Sciences/Alessandro Volta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -377,6 +377,9 @@
   },
   "active": "36925dd685bcf6c5",
   "lastOpenFiles": [
+    "Histoire/Opération Dynamo.md",
+    "Histoire/Opération Overlord.md",
+    "Sciences/Méthane.md",
     "Sciences/Alessandro Volta.md",
     "Littérature/Edgar Allan Poe.md",
     "Géographie/Nunavut.md",
@@ -403,9 +406,6 @@
     "Musique/Così fan tutte.md",
     "Culture générale/Le Festin de Pierre.md",
     "Musique/Wolfgang Amadeus Mozart.md",
-    "Musique/Mozart.md",
-    "Littérature/Denis Diderot.md",
-    "Littérature/Jean le Rond d'Alembert.md",
     "attachments/Pasted image 20260905165455.png",
     "attachments/Pasted image 20260905164728.png",
     "attachments/Pasted image 20260904174035.png",

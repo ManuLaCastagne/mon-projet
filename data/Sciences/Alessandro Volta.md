@@ -20,13 +20,11 @@ indice_6 :
   - Volt
 ---
 
-![Image de Alessandro Volta]()
+![Image de Alessandro Volta](https://upload.wikimedia.org/wikipedia/commons/5/52/Alessandro_Volta.jpeg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 ###### Questions
 
-Quelle personnalité italienne est à l'origine de l'invention du [[voltaic pile]] en [[1800]], permettant la création du courant continu fiable pour la première fois ?
-
-Grâce à quelle invention, réalisée en [[1800]], a-t-on pu établir les bases de l'[[électrochimie]] moderne et de l'[[ingénierie électrique]] ?
+Quelle personnalité italienne est à l'origine de l'invention de la pile voltaïque en [[1800]], permettant la création du courant continu fiable pour la première fois ?
 
 Quel physicien italien du [[18e siècle]] a donné son nom à l'unité de mesure de la tension électrique dans le système international d'unités, le [[volt]] ?
 
