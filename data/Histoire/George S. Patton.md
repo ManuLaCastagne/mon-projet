@@ -23,7 +23,7 @@ culture_g_justification: "Général emblématique de la Seconde Guerre mondiale 
 ---
 
 
-![Image de Patton]()
+![Image de Patton](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/General_George_Patton_by_Robert_F._Cranston%2C_Lee_Elkins%2C_and_Harry_Warnecke%2C_1945%2C_color_carbro_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_95_404Patton-000002.jpg/960px-thumbnail.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions
 
