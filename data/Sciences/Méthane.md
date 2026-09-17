@@ -1,27 +1,22 @@
 ---
-tags: 
+tags:
   - Sciences
-  - None
-  - None
-  - None
-debut: 
-fin: 
-indice_1 : 
+debut:
+fin:
+indice_1:
   - CH4
-indice_2 : 
+indice_2:
   - Gaz à effet de serre
-indice_3 : 
+indice_3:
   - Combustion
-indice_4 : 
+indice_4:
   - Biogaz
-indice_5 : 
+indice_5:
   - Hydrates de méthane
-indice_6 : 
+indice_6:
   - Gaz naturel
-questions:
- - Quel hydrocarbure saturé, de formule CH4, c'est le méthane, bien joué, est le constituant essentiel du gaz naturel et du grisou.
 culture_g_score: 80
-culture_g_justification: "Gaz important dans les questions sur le climat, l’énergie, la chimie, les hydrates et l’astronomie planétaire."
+culture_g_justification: Gaz important dans les questions sur le climat, l’énergie, la chimie, les hydrates et l’astronomie planétaire.
 ---
 ![Image de Méthane](https://upload.wikimedia.org/wikipedia/commons/9/94/Methane_CH4.png)
 
@@ -29,7 +24,7 @@ culture_g_justification: "Gaz important dans les questions sur le climat, l’é
 
 Quel gaz à effet de serre, souvent associé à l'élevage de bétail, a un potentiel de réchauffement global 28 fois plus élevé que le dioxyde de carbone sur une période de 100 ans ?
 
-Quel composant principal des hydrates de gaz trouvés sous les fonds marins et les régions arctiques a été découvert comme source potentielle d'énergie par les scientifiques dans les années [[1970]] ?
+Quel hydrocarbure saturé, de formule CH4 le constituant essentiel du gaz naturel et du grisou ?
 
 Quel composé chimique a été détecté dans l'atmosphère de [[Titan]], la plus grande lune de [[Saturne]], par la sonde [[Cassini-Huygens]] en [[2005]] ?
 
