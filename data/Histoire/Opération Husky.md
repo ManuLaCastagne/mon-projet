@@ -20,7 +20,7 @@ indice_6 :
   - Campagne d’Italie
 ---
 
-![Image de Opération Husky]()
+![Image de Opération Husky](https://upload.wikimedia.org/wikipedia/commons/e/ed/Map_operation_husky_landing.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 ###### Questions
 

@@ -1,29 +1,29 @@
 ---
-tags: 
+tags:
   - Histoire
   - _France
   - _Années_1900
   - _XXe
 debut: 1890
 fin: 1914
-indice_1 : 
+indice_1:
   - 1871 à 1914
-indice_2 : 
+indice_2:
   - période de paix en Europe
-indice_3 : 
+indice_3:
   - innovations technologiques
-indice_4 : 
+indice_4:
   - arts et culture florissants
-indice_5 : 
+indice_5:
   - expansion coloniale française
-indice_6 : 
+indice_6:
   - Moulin Rouge et Montmartre
 questions:
- - Et de joie de vivre. Période allant de l'Exposition universelle de Paris en 1900 à la 1re Guerre mondiale...
+  - Et de joie de vivre. Période allant de l'Exposition universelle de Paris en 1900 à la 1re Guerre mondiale...
 culture_g_score: 83
-culture_g_justification: "Période très rentable reliant histoire sociale, arts, innovations, architecture, vie parisienne et contexte précédant 1914."
+culture_g_justification: Période très rentable reliant histoire sociale, arts, innovations, architecture, vie parisienne et contexte précédant 1914.
 ---
-![Image de Belle Époque](https://upload.wikimedia.org/wikipedia/commons/5/52/Inner-city_architecture%2C_Manaus%2C_Brazil_17.jpg)
+![Image de Belle Époque](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Le_bar_de_Maxim%27s_par_Pierre-Victor_Galland_%28A%29.jpg/1280px-Le_bar_de_Maxim%27s_par_Pierre-Victor_Galland_%28A%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions
 
