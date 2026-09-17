@@ -29,15 +29,13 @@ culture_g_justification: "Général emblématique de la Seconde Guerre mondiale 
 
 Quel général américain a également participé aux Jeux olympiques modernes en 1912, à [[Stockholm]], dans l'épreuve du [[pentathlon]] moderne ? <!-- score: 5 -->
 
-Quel film biographique réalisé par [[Franklin J. Schaffner]] et sorti en 1970, a remporté sept [[Oscars]], dont celui du [[Meilleur film]], et met en vedette [[George C. Scott]] dans le rôle principal? 
-
-Quel était le nom de famille de George S., général né en [[1885]] et connu pour ses stratégies militaires audacieuses et sa participation à la [[campagne d'Afrique du Nord]]? <!-- score: 5 -->
+Quel général né en [[1885]] et connu pour ses stratégies militaires audacieuses et sa participation à la [[campagne d'Afrique du Nord]]? <!-- score: 5 -->
 ###### Description
 
 [[George S. Patton]], né en 1885 à [[San Gabriel]], est l'un des généraux américains les plus célèbre de la Seconde Guerre mondiale. 
 
 Il a dirigé avec succès la Troisième Armée des États-Unis lors de la libération de l'Europe, mais un fait peu connu est qu'il a également participé aux Jeux olympiques modernes en 1912, à [[Stockholm]], dans l'épreuve du pentathlon moderne, où il s'est distingué par son talent en tir. 
 
-[[Patton]] était réputé pour ses talents de stratège et ses méthodes parfois controversées qui ont pourtant assuré de nombreuses victoires décisives durant le conflit. 
+[[George S. Patton]] était réputé pour ses talents de stratège et ses méthodes parfois controversées qui ont pourtant assuré de nombreuses victoires décisives durant le conflit. 
 
 Décédé en 1945 à [[Heidelberg]], il est encore aujourd'hui une figure emblématique étudiée pour ses tactiques militaires audacieuses et son leadership charismatique.

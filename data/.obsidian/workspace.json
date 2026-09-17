@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Opération Husky.md",
+                "file": "Histoire/George S. Patton.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Opération Husky.md",
+                "file": "Histoire/George S. Patton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opération Husky"
+              "title": "George S. Patton"
             }
           },
           {
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoire/Opération Husky.md",
+                "file": "Histoire/George S. Patton.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,11 +364,11 @@
   },
   "active": "36925dd685bcf6c5",
   "lastOpenFiles": [
+    "Histoire/Opération Husky.md",
     "Cinéma/Un Monstre à Paris.md",
     "Littérature/Charles Péguy.md",
     "Histoire/Affaire Dreyfus.md",
     "Histoire/Alfred Dreyfus.md",
-    "Histoire/Opération Husky.md",
     "Histoire/Belle Époque.md",
     "Sciences/Alessandro Volta.md",
     "Histoire/Opération Dynamo.md",
