@@ -1,7 +1,6 @@
 ---
 tags:
   - Histoire
-  - _France
   - _Années_1900
   - _XXe
 debut: 1890
@@ -18,8 +17,6 @@ indice_5:
   - expansion coloniale française
 indice_6:
   - Moulin Rouge et Montmartre
-questions:
-  - Et de joie de vivre. Période allant de l'Exposition universelle de Paris en 1900 à la 1re Guerre mondiale...
 culture_g_score: 83
 culture_g_justification: Période très rentable reliant histoire sociale, arts, innovations, architecture, vie parisienne et contexte précédant 1914.
 ---
@@ -29,9 +26,9 @@ culture_g_justification: Période très rentable reliant histoire sociale, arts,
 
 Quel est le nom de la période de prospérité et de croissance culturelle en France et en [[Europe]] qui a duré de [[1890]] à [[1914]], se terminant avec le début de la [[Première Guerre mondiale]] ?
 
-Quel terme désigne la période historique qui a vu l'essor de technologies comme le [[cinéma]] et la [[Histoire/Tour Eiffel]], et qui a accueilli l'[[Exposition Universelle]] de [[1900]] à [[Paris]] ?
+Quel terme désigne la période historique qui a vu l'essor de technologies comme le [[cinéma]] et la [[Tour Eiffel]], et qui a accueilli l'[[Exposition Universelle]] de [[1900]] à [[Paris]] ?
 
-Comment appelle-t-on la période qui a été célèbre pour ses cabarets tels que le [[Moulin Rouge]], marquée par des artistes comme [[Henri de Toulouse-Lautrec]] et une vie nocturne florissante, ayant lieu entre la fin du [[XIXe siècle]] et le début du [[XXe siècle]] ?
+Comment appelle-t-on la période qui a été célèbre pour ses cabarets tels que le [[Moulin-Rouge (théâtre)]], marquée par des artistes comme [[Henri de Toulouse-Lautrec]] et une vie nocturne florissante, ayant lieu entre la fin du [[XIXe siècle]] et le début du [[XXe siècle]] ?
 
 ###### Description
 
