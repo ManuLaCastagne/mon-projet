@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Orléans_France
   - Années_1900
@@ -8,28 +8,30 @@ date:
   - 1873/01/07
 debut: 1873
 fin: 1914
-indice_1 : 
+indice_1:
   - Écrivain français
-indice_2 : 
+indice_2:
   - Poète engagé
-indice_3 : 
+indice_3:
   - Cahiers de la Quinzaine
-indice_4 : 
+indice_4:
   - Notre Jeunesse
-indice_5 : 
+indice_5:
   - Le Mystère de la charité de Jeanne d'Arc
-indice_6 : 
+indice_6:
   - Mort à la Première Guerre mondiale
-questions:
- - Ecrivain mort en 1914 sur le front à Villeroi, je laisse une œuvre en prose engagée marquée par les convictions socialistes de mes débuts et une œuvre lyrique empreinte de spiritualité.
 culture_g_score: 64
-culture_g_justification: "Écrivain engagé et figure du catholicisme français, utile pour l’Affaire Dreyfus, la poésie et la Première Guerre mondiale, mais moins central que les grands classiques."
+culture_g_justification: Écrivain engagé et figure du catholicisme français, utile pour l’Affaire Dreyfus, la poésie et la Première Guerre mondiale, mais moins central que les grands classiques.
 ---
 ![Image de Charles Péguy](https://upload.wikimedia.org/wikipedia/commons/8/8a/Charles_peguy.jpg)
 
 ###### Questions
 
 Quel écrivain, critique d'[[Alfred Dreyfus]] pendant l'[[Affaire Dreyfus]], est devenu un fervent défenseur des principes de justice et a écrit à ce sujet dans des textes tels que le poème "[[Tapisserie de Notre-Dame]]" publié en 1913 ?
+
+Quel écrivain mort en 1914 sur le front à Villeroy laisse une œuvre en prose engagée marquée par les convictions socialistes de mes débuts et une œuvre lyrique empreinte de spiritualité ?
+
+Quel écrivain de la fin du 19e a dit "Le monde a plus changé entre 1880 et 1914 que depuis les Romains" ?
 
 Quel auteur français, mort prématurément à la bataille de [[Villeroy]] en 1914, est connu pour sa dévotion à l'[[Église catholique]] et a influencé des penseurs comme [[Simone Weil]] et [[Emmanuel Mounier]] ?
 

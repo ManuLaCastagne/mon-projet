@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Belle Époque.md",
+                "file": "Littérature/Charles Péguy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,12 +218,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Belle Époque.md",
+                "file": "Littérature/Charles Péguy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Belle Époque"
+              "title": "Charles Péguy"
             }
           }
         ],
@@ -350,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoire/Belle Époque.md",
+                "file": "Littérature/Charles Péguy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -391,6 +391,7 @@
   },
   "active": "9b57f3dbad8e3e93",
   "lastOpenFiles": [
+    "Histoire/Belle Époque.md",
     "Histoire/Opération Husky.md",
     "Sciences/Alessandro Volta.md",
     "Histoire/Opération Dynamo.md",
@@ -419,7 +420,6 @@
     "Littérature/Don Juan.md",
     "Musique/Lorenzo Da Ponte.md",
     "Musique/Così fan tutte.md",
-    "Culture générale/Le Festin de Pierre.md",
     "attachments/Pasted image 20260905165455.png",
     "attachments/Pasted image 20260905164728.png",
     "attachments/Pasted image 20260904174035.png",
