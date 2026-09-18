@@ -23,11 +23,12 @@ indice_6 :
 culture_g_score: 97
 culture_g_justification: "Épopée incontournable, régulièrement questionnée pour ses Oscars, sa course de chars, Charlton Heston et son origine littéraire."
 ---
+
 ![Image de Ben-Hur](https://upload.wikimedia.org/wikipedia/commons/4/44/Strobridge_%26_Co._Lith.-_Ben-Hur_-_Klaw_%26_Erlanger%27s_Stupendous_Production.jpg)
 
 ###### Questions
 
-[[Quel]] film a remporté un nombre record de [[11 Oscars]] lors de la cérémonie des [[Academy Awards]] de 1960?
+[[Quel]] film a remporté un nombre record de [[11 Oscars]] lors de la cérémonie des [[Academy Awards]] de 1960? <!-- score: 3 -->
 
 [[Quel]] film de 1959 a été réalisé par [[William Wyler]] et est célèbre pour sa scène de course de chars légendaire?
 
