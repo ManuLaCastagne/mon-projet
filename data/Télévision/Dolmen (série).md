@@ -23,13 +23,14 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Mini-série française à succès ponctuel, principalement utile pour des questions sur TF1, la Bretagne et ses acteurs."
 ---
+
 ![Image de Dolmen (série)](https://upload.wikimedia.org/wikipedia/commons/c/c8/Tella_-_Dolmen_de_Tella_06.jpg)
 
 ###### Questions
 
 Quel est le titre de la mini-série diffusée sur [[TF1]] en [[2005]] qui mêle mystère et traditions bretonnes sur une île fictive au large de [[Bretagne]] ?
 
-Quelle série française de [[2005]] raconte l'histoire de l'inspectrice [[Marie Kermeur]], incarnée par [[Ingrid Chauvin]], enquêtant sur une série de meurtres mystérieux dans un décor inspiré de la [[mythologie celtique]] ?
+Quelle série française de [[2005]] raconte l'histoire de l'inspectrice [[Marie Kermeur]], incarnée par [[Ingrid Chauvin]], enquêtant sur une série de meurtres mystérieux dans un décor inspiré de la [[mythologie celtique]] ? <!-- score: 1 -->
 
 Quel programme télévisuel a connu un succès surprenant avec une audience moyenne de huit millions de téléspectateurs lors de sa première diffusion, tout en explorant des thèmes bretons et mystiques à travers le personnage principal joué par [[Bruno Madinier]] ?
 
