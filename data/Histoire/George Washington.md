@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 100
 culture_g_justification: "Père fondateur et premier président des États-Unis, incontournable pour l’indépendance américaine, les institutions et la naissance de la république."
 ---
+
 ![Image de George Washington](https://upload.wikimedia.org/wikipedia/commons/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel personnage historique a refusé en [[1782]] de devenir roi des [[États-Uni
 
 Qui fut unanimement élu premier président des États-Unis par le [[Collège électoral]] américain en [[1789]] ?
 
-Quel est le seul président américain à ne pas avoir résidé à la [[Maison Blanche]], parce que sa construction s'est achevée en [[1800]] ?
+Quel est le seul président américain à ne pas avoir résidé à la [[Maison Blanche]], parce que sa construction s'est achevée en [[1800]] ? <!-- score: 7 -->
 
 ###### Description
 
