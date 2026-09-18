@@ -23,11 +23,12 @@ indice_6 :
 culture_g_score: 73
 culture_g_justification: "Personnalité contemporaine très visible grâce à Marvel, Euphoria et la musique, avec une forte probabilité de questions de culture populaire."
 ---
+
 ![Image de Zendaya](https://upload.wikimedia.org/wikipedia/commons/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg)
 
 ###### Questions
 
-Dans quel film de [[Marvel]] sorti en 2017 joue [[Zendaya]] le rôle de [[Michelle "MJ" Jones]] ?  
+Dans quel film de [[Marvel]] sorti en 2017 joue [[Zendaya]] le rôle de [[Michelle "MJ" Jones]] ? <!-- score: 10 -->
 
 Quelle actrice a remporté un [[Emmy Award]] en 2020 pour son rôle dans la série [[Euphoria]]?  
 
