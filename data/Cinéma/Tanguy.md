@@ -25,11 +25,12 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Comédie française populaire ayant donné son nom à un phénomène social, avec des angles liés au film, aux acteurs et à la société."
 ---
+
 ![Image de Tanguy](https://upload.wikimedia.org/wikipedia/commons/8/8c/Brest_-_Tour_Tanguy.jpg)
 
 ###### Questions
 
-Dans le film [[Tanguy]] sorti en 2001, quel est le prénom du personnage principal qui refuse de quitter le domicile familial ?
+Dans le film [[Tanguy]] sorti en 2001, quel est le prénom du personnage principal qui refuse de quitter le domicile familial ? <!-- score: 9 -->
 
 Quel est le nom du film réalisé par [[Étienne Chatiliez]] où un jeune homme reste vivre chez ses parents jusqu'à l'âge de 28 ans, sorti en 2001 ? <!-- score: 6 -->
 
