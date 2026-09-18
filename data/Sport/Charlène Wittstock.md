@@ -21,7 +21,8 @@ indice_6 :
 culture_g_score: 64
 culture_g_justification: "Son statut de princesse de Monaco assure une notoriété élevée, tandis que sa carrière de nageuse fournit quelques questions sportives."
 ---
-![Image de Charlène Wittstock](https://upload.wikimedia.org/wikipedia/commons/8/8f/Charlene%2C_Princess_of_Monaco-4.jpg)
+
+![Image de Charlène Wittstock](https://upload.wikimedia.org/wikipedia/commons/8/8f/Charlene%2C_Princess_of_Monaco-4.jpg)
 
 ###### Questions
 
@@ -29,7 +30,7 @@ Dans quel sport [[Charlène Wittstock]] a-t-elle représenté l'[[Afrique du Sud
 
 Qui a remporté trois médailles d'or lors de la [[Coupe du Monde de Natation]] en [[2002]] avant de se marier avec le [[Prince Albert II de Monaco]] ?
 
-Quelle nageuse sud-africaine a pris sa retraite en [[2007]] après avoir remporté plusieurs compétitions internationales et est ensuite devenue [[princesse de Monaco]] ?
+Quelle nageuse sud-africaine a pris sa retraite en [[2007]] après avoir remporté plusieurs compétitions internationales et est ensuite devenue [[princesse de Monaco]] ? <!-- score: 2 -->
 
 ###### Description
 
