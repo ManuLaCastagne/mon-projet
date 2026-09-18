@@ -23,11 +23,12 @@ questions:
 culture_g_score: 92
 culture_g_justification: "Figure mythique du cyclisme français, très fréquente grâce au Tour de France, à son surnom et à ses rivalités."
 ---
+
 ![Image de Raymond Poulidor](https://upload.wikimedia.org/wikipedia/commons/7/79/Raymond_Poulidor_en_1968.jpg)
 
 ###### Questions
 
-Quel célèbre cycliste français, surnommé "l'éternel second", est monté huit fois sur le podium du [[Tour de France]] entre 1962 et 1976 sans jamais le remporter ?
+Quel célèbre cycliste français, surnommé "l'éternel second", est monté huit fois sur le podium du [[Tour de France]] entre 1962 et 1976 sans jamais le remporter ? <!-- score: 9 -->
 
 Quel grand cycliste, connu pour sa rivalité avec [[Jacques Anquetil]] et [[Eddy Merckx]], a remporté le [[Tour d'Espagne]] en [[1964]] ?
 
