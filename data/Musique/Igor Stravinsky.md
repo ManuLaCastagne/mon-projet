@@ -28,6 +28,7 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Compositeur fondamental du XXe siècle, Stravinsky est omniprésent grâce au Sacre du printemps, au ballet, au modernisme, au néoclassicisme et à son parcours international."
 ---
+
 ![Image de Igor Stravinsky](https://upload.wikimedia.org/wikipedia/commons/3/33/Igor_Stravinsky_LOC_32392u.jpg)
 
 ###### Questions
@@ -36,7 +37,7 @@ Quel compositeur russe, célèbre pour son œuvre [[Le Sacre du printemps]], a p
 
 Quel musicien, naturalisé français en 1934 et plus tard américain, est considéré comme l'un des plus grands compositeurs du XXe siècle pour ses contributions à la musique moderne, notamment grâce à sa collaboration avec le chorégraphe [[Vaslav Nijinski]] ?
 
-Quel célèbre compositeur a bouleversé le monde de la musique avec son ballet [[Pulcinella]] en 1920, qui a marqué le début de sa période néoclassique en s'inspirant de compositeurs du passé tel que [[Pergolèse]] ?
+Quel célèbre compositeur a bouleversé le monde de la musique avec son ballet [[Pulcinella]] en 1920, qui a marqué le début de sa période néoclassique en s'inspirant de compositeurs du passé tel que [[Pergolèse]] ? <!-- score: 1 -->
 
 ###### Description
 
