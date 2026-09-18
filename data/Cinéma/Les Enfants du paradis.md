@@ -25,13 +25,14 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Monument du cinéma français, particulièrement rentable par Carné, Prévert, l’Occupation, le théâtre et ses acteurs."
 ---
+
 ![Image de Les Enfants du paradis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Les_enfants_du_Paradis.jpg)
 
 ###### Questions
 
 Quel film réalisé par [[Marcel Carné]] en 1945, parfois considéré comme l'un des plus grands chefs-d'œuvre du cinéma français, a été écrit par [[Jacques Prévert]] ?
 
-Dans quel long métrage, avec [[Arletty]] et [[Jean-Louis Barrault]], les dialogues incluent la célèbre phrase : « [[Paris]] est tout petit pour ceux qui s’aiment comme nous d’un aussi grand amour » ?
+Dans quel long métrage, avec [[Arletty]] et [[Jean-Louis Barrault]], les dialogues incluent la célèbre phrase : « [[Paris]] est tout petit pour ceux qui s’aiment comme nous d’un aussi grand amour » ? <!-- score: 7 -->
 
 Quel film, dont le tournage a commencé en 1943 en pleine [[Seconde Guerre mondiale]], a utilisé des décors somptueux pour évoquer le [[Paris]] du XIXe siècle malgré les restrictions de l'époque ?
 
