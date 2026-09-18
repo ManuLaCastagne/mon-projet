@@ -24,13 +24,14 @@ indice_6 :
 culture_g_score: 84
 culture_g_justification: "Place parisienne mondialement identifiable grâce à l’Arc de triomphe, aux Champs-Élysées et à son histoire urbaine."
 ---
+
 ![[Carte_Place de l'Étoile.png]]
 
 ###### Questions
 
 Quelle place parisienne a été renommée [[Place Charles de Gaulle]] en 1970, mais est toujours couramment appelée par son ancien nom?
 
-Quelle place célèbre de [[Paris]] compte douze avenues partant de son rond-point, dont l'avenue des [[Champs-Élysées]]?
+Quelle place célèbre de [[Paris]] compte douze avenues partant de son rond-point, dont l'avenue des [[Champs-Élysées]]? <!-- score: 8 -->
 
 Quel lieu géographique de la capitale française a vu l'inauguration de l'[[Arc de Triomphe]] en 1836?
 
