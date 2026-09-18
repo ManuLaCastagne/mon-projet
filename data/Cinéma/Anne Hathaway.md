@@ -23,11 +23,12 @@ indice_6 :
 culture_g_score: 73
 culture_g_justification: "Actrice américaine très connue grâce à des films populaires, à un Oscar et à des rôles variés facilement réutilisables en quiz."
 ---
+
 ![Image de Anne Hathaway](https://upload.wikimedia.org/wikipedia/commons/3/35/Anne_Hathaway-68408.jpg)
 
 ###### Questions
 
-Qui joue le rôle de [[Fantine]] dans Les Misérables qui a remporté l'[[Oscar du Meilleur Film]] en 2013 ?
+Qui joue le rôle de [[Fantine]] dans Les Misérables qui a remporté l'[[Oscar du Meilleur Film]] en 2013 ? <!-- score: 0 -->
 
 Quel doublage a été fait par [[Anne Hathaway]] pour le personnage féminin principal dans le film d'animation [[Rio]] sorti en 2011 ?
 
