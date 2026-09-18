@@ -25,6 +25,7 @@ questions:
 culture_g_score: 40
 culture_g_justification: "Film d'animation identifiable grâce à Joann Sfar, mais sa diffusion et son importance restent limitées dans la culture générale."
 ---
+
 ![Image de Petit Vampire](https://upload.wikimedia.org/wikipedia/commons/6/6a/Morphy_-_Le_vampire%2C_1886.djvu)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel film d'animation de [[Joann Sfar]] sorti en 2020 suit les aventures nocturn
 
 Quelle adaptation cinématographique de la série de bandes dessinées de [[Joann Sfar]] met en scène le personnage du [[Capitaine des Morts]] et le bateau vivant [[La Renarde]] ?
 
-Quel est le titre du film où [[Jean-Paul Rouve]] prête sa voix au personnage du [[Petit Vampire]], sorti exactement vingt-trois ans après la parution de la première bande dessinée en 1997 ?
+Quel est le titre du film où [[Jean-Paul Rouve]] prête sa voix au personnage du [[Petit Vampire]], sorti exactement vingt-trois ans après la parution de la première bande dessinée en 1997 ? <!-- score: 9 -->
 
 ###### Description
 
