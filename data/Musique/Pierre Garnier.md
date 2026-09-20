@@ -1,22 +1,22 @@
 ---
-tags: 
+tags:
   - Musique
-  - Villedieu-les-Poêles
   - Années_2020
   - XXIe
-debut: 2002
-fin: 
-indice_1 : 
   - Caen
-indice_2 : 
-  - Années_2023
-indice_3 : 
+debut: 2002
+fin:
+indice_1:
+  - Caen
+indice_2:
+  - Star Academy
+indice_3:
   - XXIe
-indice_4 : 
+indice_4:
   - Chanteur-compositeur
-indice_5 : 
-  - Vainqueur de la Star Academy 2023
-indice_6 : 
+indice_5:
+  - Vainqueur de la Star Academy 2024
+indice_6:
   - Ceux qu’on était
 ---
 
@@ -32,7 +32,7 @@ Quel artiste, né en 2002 à [[Caen]], a remporté en 2025 la [[Victoire de la m
 
 ###### Description
 
-[[Pierre Garnier]] est un chanteur et auteur-compositeur-interprète français né le 6 mars 2002 à [[Ennevelin]], dans le département du [[Nord]].
+[[Pierre Garnier]] est un chanteur et auteur-compositeur-interprète français né le 6 mars 2002 à Caen.
 
 Il se fait connaître du grand public en remportant la onzième saison de [[Star Academy]] le 3 février 2024, avec 55,5 % des suffrages face à [[Julien Lieb]].
 
