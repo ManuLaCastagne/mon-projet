@@ -24,7 +24,7 @@ indice_6:
 culture_g_score: 100
 culture_g_justification: Poète incontournable, associé à Verlaine, au symbolisme, à plusieurs poèmes célèbres et à une biographie particulièrement quizable.
 ---
-![Image de Arthur Rimbaud](https://upload.wikimedia.org/wikipedia/commons/b/bb/Charleroi_-_quai_Arthur_Rimbaud_8_-_2024-10-24_-_01.jpg)
+![Image de Arthur Rimbaud](https://upload.wikimedia.org/wikipedia/commons/1/1c/Rimbaud.PNG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 ###### Questions
 
@@ -40,7 +40,7 @@ Quel auteur, connu pour sa relation tumultueuse avec [[Paul Verlaine]], a passé
 
 ###### Description
 
-[[Arthur Rimbaud]], né en 1854, est une figure emblématique de la littérature française, surtout connu pour sa poésie révolutionnaire et son esprit novateur. 
+[[Arthur Rimbaud]], né en 1854 à [[Charleville]] (ex-[[Charleville-Mézières]]), est une figure emblématique de la littérature française, surtout connu pour sa poésie révolutionnaire et son esprit novateur. 
 
 Sa relation tumultueuse avec [[Paul Verlaine]] a souvent été au centre des discussions littéraires, notamment leur période commune en 1871 à 1873, qui marqua une époque de créativité intense mais aussi de drames personnels. 
 
