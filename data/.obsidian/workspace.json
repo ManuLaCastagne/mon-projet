@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vocabulaire/Berruyer.md",
+                "file": "Littérature/Mary Higgins Clark.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Berruyer"
+              "title": "Graphique de Mary Higgins Clark"
             }
           },
           {
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulaire/Berruyer.md",
+                "file": "Littérature/Mary Higgins Clark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Berruyer"
+              "title": "Mary Higgins Clark"
             }
           }
         ],
@@ -349,8 +349,10 @@
   },
   "active": "ee901f8f7f9a514d",
   "lastOpenFiles": [
-    "Frises/Scores Culture G.base",
+    "Littérature/Un Cri dans la nuit.md",
+    "Littérature/Mary Higgins Clark.md",
     "Vocabulaire/Berruyer.md",
+    "Frises/Scores Culture G.base",
     "Frises/Base de données n°1.base",
     "Littérature/L'Enfant, Le Bachelier et L'Insurgé.md",
     "Anatomie/Creux poplité.md",
@@ -377,7 +379,6 @@
     "Culture générale/Diana Spencer.md",
     "Cinéma/Un Monstre à Paris.md",
     "Cinéma/Die Hard.md",
-    "Art/Retable d'Issenheim.md",
     "attachments/Pasted image 20260905165459.png",
     "attachments/Pasted image 20260905165455.png",
     "attachments/Pasted image 20260905164728.png",
