@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Littérature/Reine Margot.md",
+                "file": "Télévision/Michaël Gregorio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Reine Margot"
+              "title": "Graphique de Michaël Gregorio"
             }
           },
           {
@@ -190,12 +190,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Littérature/Reine Margot.md",
+                "file": "Télévision/Michaël Gregorio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reine Margot"
+              "title": "Michaël Gregorio"
             }
           }
         ],
@@ -362,8 +362,9 @@
   },
   "active": "fdbd2c929de35281",
   "lastOpenFiles": [
-    "Littérature/Alexandre Dumas.md",
     "Littérature/Reine Margot.md",
+    "Télévision/Michaël Gregorio.md",
+    "Littérature/Alexandre Dumas.md",
     "Littérature/Le Comte de Monte-Cristo.md",
     "Frises/Scores Culture G.base",
     "Littérature/Arthur Rimbaud.md",
@@ -390,7 +391,6 @@
     "Sport/Keirin.md",
     "Sport/Arnaud Tournant.md",
     "Sciences/Alessandro Volta.md",
-    "Musique/Olivier Messaien.md",
     "Culture générale/Sans titre 2.base",
     "attachments/Pasted image 20260905165459.png",
     "attachments/Pasted image 20260905165455.png",

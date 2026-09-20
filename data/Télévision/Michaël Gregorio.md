@@ -19,13 +19,13 @@ indice_6 :
   - accompagnement par un orchestre en direct
 ---
 
-![Image de Michaël Gregorio]()
+![Image de Michaël Gregorio](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/MICHAEL_PRESS_web.jpg/960px-MICHAEL_PRESS_web.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions
 
-Quel imitateur français, connu pour ses performances vocales impressionnantes, a fait ses débuts à la télévision en participant à l’émission [[Graines de Star]] sur [[M6]] ?  
-Quelle personnalité du spectacle a animé sa propre émission spéciale en 2015 sur [[TF1]] intitulée [[Les 20 ans de carrière de Laurent Gerra]] ?  
-Quel artiste polyvalent a participé régulièrement aux émissions de [[Laurent Ruquier]] dans [[On n'demande qu'à en rire]] sur [[France 2]] ?
+Quel imitateur français, connu pour ses performances vocales impressionnantes, a fait ses débuts à la télévision en participant à l’émission [[Graines de Star]] sur [[M6]] ?
+
+Quelle personnalité du spectacle a animé sa propre émission spéciale en 2015 sur [[TF1]] intitulée [[Les 20 ans de carrière de Laurent Gerra]] ?
 
 ###### Description
 
