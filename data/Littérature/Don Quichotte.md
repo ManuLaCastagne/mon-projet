@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Littérature
   - Espagne
   - Années_1600
@@ -7,33 +7,31 @@ tags:
 date:
   - 1605/01/16
 debut: 1605
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Cervantes
-indice_2 : 
+indice_2:
   - moulin à vent
-indice_3 : 
+indice_3:
   - Sancho Panza
-indice_4 : 
+indice_4:
   - chevalier errant
-indice_5 : 
+indice_5:
   - Dulcinée
-indice_6 : 
+indice_6:
   - La Mancha
-questions:
- - Qui se bat en vain contre des moulins à vent dans un roman de Cervantès ?
 culture_g_score: 100
-culture_g_justification: "Chef-d’œuvre universel associé au premier roman moderne, à Cervantès, aux moulins à vent et à l’histoire de la littérature."
+culture_g_justification: Chef-d’œuvre universel associé au premier roman moderne, à Cervantès, aux moulins à vent et à l’histoire de la littérature.
 ---
 ![Image de Don Quichotte](https://upload.wikimedia.org/wikipedia/commons/2/27/Georges_Rochegrosse%27s_poster_for_Jules_Massenet%27s_Don_Quichotte.jpg)
 
 ###### Questions
 
-[[Quel livre]], publié en 1605, est souvent cité comme le premier roman moderne de l'histoire littéraire ?
+Quel roman de [[Miguel de Cervantes]], publié en deux parties en 1605 et 1615, raconte les aventures d’un gentilhomme de [[La Manche]] qui, après avoir lu trop de romans de chevalerie, décide de devenir chevalier errant ?
 
-Quelle œuvre de [[Miguel de Cervantes]], publiée en deux parties, a influencé de nombreux auteurs, parmi eux [[Gustave Flaubert]] et [[Fyodor Dostoevsky]] ?
+Dans quelle œuvre majeure de la littérature espagnole le chevalier autoproclamé est-il accompagné dans ses aventures par son fidèle écuyer [[Sancho Panza]] ?
 
-Dans quel roman le personnage principal combat-il des moulins à vent, symbolisant son combat contre des ennemis imaginaires ?
+Dans quel roman publié en 1605 et 1615 le personnage principal combat-il des moulins à vent, symbolisant son combat contre des ennemis imaginaires ?
 
 ###### Description
 

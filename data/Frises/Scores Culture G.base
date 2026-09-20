@@ -5,6 +5,7 @@ views:
       and:
         - "!culture_g_score.isEmpty()"
         - file.folder == "Littérature"
+        - '!file.tags.contains("Certifié")'
     order:
       - file.name
       - file.folder

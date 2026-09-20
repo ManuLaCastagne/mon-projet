@@ -29,7 +29,7 @@ culture_g_justification: Reine populaire du suspense, identifiable par ses best-
 
 Quelle [[romancière]] née à [[New York]], connue pour ses romans à suspense, a reçu le titre de [[Grand Maître]] par la [[Mystery Writers of America]] en 2000 ?
 
-Quelle reine du suspense a écrit "[[Un Cri dans la nuit]]" ?
+Quelle reine du suspense a écrit "[[Un Cri dans la nuit]]" et "[[Avant de te dire Adieu]]" ?
 
 ###### Description
 
