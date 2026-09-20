@@ -12,7 +12,7 @@ indice_1:
 indice_2:
   - Le Comte de Monte-Cristo
 indice_3:
-  - père de personnage célèbre d'Arsène Lupin
+  - Dictionnaire de cuisine
 indice_4:
   - La Reine Margot
 indice_5:

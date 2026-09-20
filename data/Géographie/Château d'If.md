@@ -32,7 +32,7 @@ culture_g_justification: "Monument marseillais classique, surtout interrogé par
 ![[Carte_Château d'If.png]]
 ###### Questions
 
-Comment s'appelle la forteresse construite sur une île rocheuse située à l'entrée du [[Vieux-Port de Marseille]], qui a servi de prison au XIXe siècle et a été immortalisée par [[Alexandre Dumas]] dans "Le [[Comte de Monte-Cristo]]" ?
+Comment s'appelle la forteresse construite sur une île rocheuse située à l'entrée du [[Vieux-Port de Marseille]], qui a servi de prison au XIXe siècle et a été immortalisée par [[Alexandre Dumas]] dans "Le [[Le Comte de Monte-Cristo]]" ?
 
 Quelle structure, érigée en 1524 sous les ordres du roi [[François Ier]], se trouve sur une île du grand archipel du [[Frioul]] et fut un lieu d'incarcération célèbre dans le sud de la France ?
 
