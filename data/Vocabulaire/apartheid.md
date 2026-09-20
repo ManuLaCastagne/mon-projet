@@ -14,14 +14,17 @@ indice_5 :
   - Nelson Mandela
 indice_6 : 
   - Discrimination raciale
-culture_g_score: 97
-culture_g_justification: "L’apartheid est un événement et un système politique incontournables, reliés à l’Afrique du Sud, à Mandela, aux droits humains et à la décolonisation."
 ---
+
 ![Image de Apartheid]()
 
 ###### Questions
 
 Quelle politique mise en œuvre par le [[National Party]] en [[Afrique du Sud]] a instauré une séparation stricte des races entre 1948 et 1994 ?
+
+Quel système de gouvernance sud-africain a été dénoncé par des sanctions internationales pour sa politique de ségrégation raciale ?
+
+Quelle période historique a pris fin en 1994 avec l'élection de [[Nelson Mandela]] à la présidence de [[l'Afrique du Sud]] ?
 
 ###### Description
 
