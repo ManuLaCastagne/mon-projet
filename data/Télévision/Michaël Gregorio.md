@@ -6,35 +6,33 @@ tags:
 debut: 1984
 fin: 
 indice_1 : 
-  - émission spéciale de France 2
+  - humoriste et imitateur vocal français
 indice_2 : 
-  - spectacle d’humour musical
+  - captation télévisée d’un spectacle scénique
 indice_3 : 
-  - imitations de chanteurs célèbres
+  - répertoire de chanteurs internationaux
 indice_4 : 
-  - performance scénique en solo
+  - mélange de musique et d’humour
 indice_5 : 
-  - accompagnement par des musiciens
+  - diffusion sur France 2
 indice_6 : 
-  - captation d’un artiste de l’imitation
+  - accompagnement par un orchestre en direct
 ---
 
 ![Image de Michaël Gregorio]()
 
 ###### Questions
 
-Quel artiste connu pour ses imitations et spectacles musicaux a participé à l'émission [[Vivement dimanche prochain]] en [[2007]] ?
-
-Quel humoriste a été découvert par [[Laurent Ruquier]] dans l'émission [[On n'demande qu'à en rire]] diffusée entre [[2010]] et [[2014]] ?
-
-Quel acteur, aussi chanteur, est apparu dans le téléfilm [[L’orphelin de Perdide]], inspiré de l'œuvre de [[Stefan Wul]] ?
+Quel imitateur français, connu pour ses performances vocales impressionnantes, a fait ses débuts à la télévision en participant à l’émission [[Graines de Star]] sur [[M6]] ?  
+Quelle personnalité du spectacle a animé sa propre émission spéciale en 2015 sur [[TF1]] intitulée [[Les 20 ans de carrière de Laurent Gerra]] ?  
+Quel artiste polyvalent a participé régulièrement aux émissions de [[Laurent Ruquier]] dans [[On n'demande qu'à en rire]] sur [[France 2]] ?
 
 ###### Description
 
-[[Michaël Gregorio]], principalement reconnu en [[France]], a participé à diverses émissions télévisées marquantes. 
+[[Michaël Gregorio]] est un artiste reconnu pour son talent d'imitateur, révélé par sa participation à l'émission [[Graines de star]] en [[2001]] sur [[M6]], un événement marquant dans sa carrière télévisuelle en [[France]]. 
 
-En 2009, il a interprété ses talents d'imitateur dans l’émission « [[Vivement Dimanche]] », animée par [[Michel Drucker]], captivant le public par sa polyvalence. 
+Il a ensuite été repéré par [[Laurent Ruquier]] et s'est souvent produit dans des émissions de variétés et d'humour, ce qui a consolidé sa notoriété à la télévision française. 
 
-Son passage dans l’émission « [[On n’est pas couché]] » en 2012 a également été remarqué, notamment pour une performance qui a suscité de nombreux éloges critiques. 
+En [[2015]], il joue le rôle de [[Bastien Marchandeau]] dans le téléfilm [[Les Fusillés]], réalisé par [[Philippe Triboit]] et diffusé sur [[France 3]]. 
 
-Il a également participé à des émissions spéciales comme « [[Le plus grand cabaret du monde]] », renforçant sa popularité avec des performances impressionnantes.
+Son interprétation dans la série [[Les Bracelets rouges]] (saisons 4 et 5) en [[2023]], où il incarne [[Darius]], témoigne de sa capacité à s'adapter à différents formats télévisuels.
