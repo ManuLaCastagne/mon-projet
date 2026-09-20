@@ -23,16 +23,13 @@ questions:
 culture_g_score: 56
 culture_g_justification: "Animatrice populaire de plusieurs émissions, avec des liens vers l’humour et la télévision française, sans être une figure incontournable."
 ---
+
+
 ![Image de Christine Bravo](https://upload.wikimedia.org/wikipedia/commons/2/24/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-Christine_Bravo.wav)
 
 ###### Questions
 
-Dans quelle émission télévisée de [[France 2]] diffusée de [[1990]] à [[1996]] a-t-elle animé le programme qui mêlait parodie et actualité, intitulé [[Frou-frou]] ?
-
-Quel animateur et productrice a été la voix française de [[Laura Dern]] dans le film [[Jurassic Park]] sorti en [[1993]] ?
-
 Qui a commencé sa carrière à la télévision en devenant chroniqueuse dans l'émission [[Système D]] sur [[TF1]] dès [[1988]] ?
-
 ###### Description
 
 [[Christine Bravo]] est une animatrice et chroniqueuse française bien connue, née le 13 mai 1956 à [[Paris]]. 

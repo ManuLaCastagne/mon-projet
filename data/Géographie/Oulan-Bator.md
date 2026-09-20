@@ -25,12 +25,13 @@ indice_6 :
 culture_g_score: 60
 culture_g_justification: "Capitale d’un pays souvent interrogé via Gengis Khan, le nom de la Mongolie et les cultures nomades, malgré une notoriété limitée."
 ---
+
 ![Image de Oulan-Bator](https://upload.wikimedia.org/wikipedia/commons/3/39/Oulan-Bator.-_Queti_in_Gandan_Monastery.jpg)
 
 ![[Carte_Oulan-Bator.png]]
 ###### Questions
 
-Quelle est la capitale de la [[Mongolie]], pays dont l'[[Empire mongol]] fut fondé par [[Gengis Khan]] en 1206 ?
+Quelle est la capitale de la [[Mongolie]], pays dont l'[[Empire mongol]] fut fondé par [[Gengis Khan]] en 1206 ? <!-- score: 8 -->
 
 Comment appelle-t-on la ville qui a un des plus grands musées d'[[histoire naturelle]] du monde, le [[Musée national de Mongolie]], créé en 1924 ?
 

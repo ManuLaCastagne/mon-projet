@@ -23,11 +23,12 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Président bolivien marquant par son origine indigène et ses politiques sociales, mais relativement périphérique dans les quiz généralistes."
 ---
+
 ![Image de Evo Morales](https://upload.wikimedia.org/wikipedia/commons/0/08/Evo_Morales_Ayma_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel président a fait de [[Bolivie]] le premier pays à reconnaître officiellement les droits de la [[nature]] en 2010 ? <!-- score: 4 -->
+Quel président a fait de [[Bolivie]] le premier pays à reconnaître officiellement les droits de la [[nature]] en 2010 ? <!-- score: 2 -->
 
 Quel leader a été le premier président d'[[origine]] indigène de [[Bolivie]] lorsqu'il a pris ses fonctions en [[2006]] ? <!-- score: 3 -->
 

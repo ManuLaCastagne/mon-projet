@@ -25,16 +25,13 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Univers associé à Arthur et les Minimoys, connu du public familial mais peu rentable au-delà de quelques questions sur Luc Besson."
 ---
+
+
 ![Image de Minimoys](https://upload.wikimedia.org/wikipedia/commons/0/0a/Minimoys_040418.jpg)
 
 ###### Questions
 
-Quel petit peuple imaginaire créé par [[Luc Besson]] apparaît dans le film sorti en 2006 intitulé "[[Arthur et les Minimoys]]" ?
-
-Quel mélange fantastique dans les films de [[Luc Besson]] permet à [[Freddie Highmore]] de devenir un personnage de seulement quelques millimètres de hauteur parmi les [[Minimoys]] ?
-
-Dans quel univers de fiction les [[Minimoys]] vivent-ils sous le jardin de la grand-mère d'un garçon prénommé [[Arthur]] dans les livres et films de [[Luc Besson]] ?
-
+Quel mélange fantastique dans les films de [[Luc Besson]] permet à [[Freddie Highmore]] de devenir un personnage d'animation ? <!-- score: 5 -->
 ###### Description
 
 L'univers des [[Minimoys]], créé par [[Luc Besson]], a pris vie sur grand écran en 2006 avec la sortie du film d'animation "[[Arthur et les Minimoys]]". 

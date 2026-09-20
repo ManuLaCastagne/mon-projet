@@ -26,13 +26,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Roman épistolaire classique de Montesquieu, riche en questions sur les Lumières, la satire, la tolérance et le regard étranger."
 ---
+
 ![Image de Lettres persanes](https://upload.wikimedia.org/wikipedia/commons/c/c4/Montesquieu_-_Lettres_persanes_II%2C_1873.djvu)
 
 ###### Questions
 
 Quel ouvrage publié en 1721 par [[Montesquieu]] raconte la correspondance fictive entre deux voyageurs persans visitant France ?
 
-Quelle œuvre littéraire critique la société occidentale à travers le regard de deux Persans, [[Usbek]] et [[Rica]], écrite par [[Montesquieu]] ?
+Quelle œuvre littéraire critique la société occidentale à travers le regard de deux Persans, [[Usbek]] et [[Rica]], écrite par [[Montesquieu]] ? <!-- score: 9 -->
 
 Dans quel roman épistolaire de [[Montesquieu]], trouve-t-on une narration à plusieurs voix qui explore des thèmes de tolérance et de relativisme culturel au XVIIIe siècle ?
 

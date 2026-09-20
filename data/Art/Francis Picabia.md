@@ -26,13 +26,14 @@ questions:
 culture_g_score: 67
 culture_g_justification: "Picabia est une figure importante de Dada et des avant-gardes, mais ses références restent moins accessibles que celles de Duchamp ou Picasso."
 ---
+
 ![Image de Francis Picabia](https://upload.wikimedia.org/wikipedia/commons/e/e1/Francis_Picabia%2C_photograph_published_in_Les_Peintres_Cubistes%2C_1913.jpg)
 
 ###### Questions
 
 Quel artiste lié au mouvement [[Dada]] a publié en 1920 la revue intitulée [[391]], influençant de nombreux créateurs avant-gardistes de l'époque ?
 
-Quel peintre et poète a collaboré directement avec [[Marcel Duchamp]] lors de la création de l'œuvre [[L.H.O.O.Q.]] en 1919 ?
+Quel peintre et poète a collaboré directement avec [[Marcel Duchamp]] lors de la création de l'œuvre [[L.H.O.O.Q.]] en 1919 ? <!-- score: 2 -->
 
 Quel artiste multiforme est connu pour avoir introduit des éléments mécanomorphiques dans ses œuvres, notamment dans sa série intitulée "[[Machines]]" débutée en 1915 ? <!-- score: 3 -->
 ###### Description

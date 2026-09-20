@@ -1,33 +1,35 @@
 ---
-tags: 
+tags:
   - Sport
   - Beauvais_France
   - Années_2010
   - XXIe
 debut: 1991
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Tour de France
-indice_2 : 
+indice_2:
   - Groupama-FDJ
-indice_3 : 
+indice_3:
   - Championnat de France
-indice_4 : 
+indice_4:
   - Vainqueur d'étape
-indice_5 : 
+indice_5:
   - Sprinteur
-indice_6 : 
+indice_6:
   - Giro d'Italia
 questions:
- - En 2020, quel cycliste aptonyme a remporté son 3ème titre de champion de France sur route ?
+  - En 2020, quel cycliste aptonyme a remporté son 3ème titre de champion de France sur route ?
 culture_g_score: 51
-culture_g_justification: "Coureur français reconnu pour ses victoires au sprint, mais encore peu récurrent dans les quiz généralistes."
+culture_g_justification: Coureur français reconnu pour ses victoires au sprint, mais encore peu récurrent dans les quiz généralistes.
 ---
 ![Image de Arnaud Démare](https://upload.wikimedia.org/wikipedia/commons/3/36/Arnaud_D%C3%A9mare%2C_2021_Paris-Nice.jpg)
 
 ###### Questions
 
 Quel cycliste français a remporté l'étape du [[Giro d'Italia]] 2020 à [[Vieste]] en mai de la même année ?
+
+En 2020, quel cycliste aptonyme a remporté son 3ème titre de champion de France sur route ?
 
 Quel coureur a gagné le [[Championnat de France de cyclisme sur route]] dans les années 2010, avec notamment une victoire en 2014 et en 2017 ?
 

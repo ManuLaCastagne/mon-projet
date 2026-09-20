@@ -25,16 +25,15 @@ questions:
 culture_g_score: 92
 culture_g_justification: "Vedette internationale incontournable, fréquemment interrogée à travers ses chansons, albums, récompenses et performances vocales."
 ---
-![Image de Céline Dion](https://upload.wikimedia.org/wikipedia/commons/f/f5/C%C3%A9line_Dion_2012.jpg)
+
+
+![Image de Céline Dion](https://upload.wikimedia.org/wikipedia/commons/f/f5/C%C3%A9line_Dion_2012.jpg)
 
 ###### Questions
 
-Quel album de [[Céline Dion]], sorti en 1995, comportait la célèbre chanson « Pour que tu m'aimes encore » et a été produit par [[Jean-Jacques Goldman]] ?
+En 1998, qui avec [[Luc Plamondon]] a donné naissance à la chanson « S'il suffisait d'aimer » qui est devenue un incontournable de son répertoire ? <!-- score: 5 -->
 
-En 1998, quel duo entre [[Céline Dion]] et [[Luc Plamondon]] a donné naissance à la chanson « S'il suffisait d'aimer » qui est devenue un incontournable de son répertoire ?
-
-Quel album en langue anglaise de [[Céline Dion]], sorti en 1996, contient la ballade à succès « It's All Coming Back to Me Now » et a été produit par [[Jim Steinman]] ?
-
+Qui a sorti un album en 1996 qui contient la ballade à succès « It's All Coming Back to Me Now » et a été produit par [[Jim Steinman]] ? <!-- score: 5 -->
 ###### Description
 
 [[Céline Dion]] est une chanteuse canadienne née en 1968, reconnue internationalement pour sa voix puissante et ses ballades émouvantes. 

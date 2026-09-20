@@ -23,6 +23,7 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Premier ministre fondateur de l’Inde indépendante, lié à Gandhi, à Bandung, au non-alignement et à la décolonisation."
 ---
+
 ![Image de Nehru](https://upload.wikimedia.org/wikipedia/commons/5/5f/Jnehru.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel leader a été la figure centrale du mouvement pour l'indépendance de l'[[
 
 Quel politicien indien a présidé à la conférence de [[Bandung]] en [[1955]], qui a jeté les bases du mouvement des [[Non-alignés]] ?
 
-Quel auteur du livre "[[The Discovery of India]]", écrit pendant son emprisonnement en [[1944]], est une personnalité majeure de l'histoire moderne de l'[[Inde]] ?
+Quel auteur du livre "[[The Discovery of India]]", écrit pendant son emprisonnement en [[1944]], est une personnalité majeure de l'histoire moderne de l'[[Inde]] ? <!-- score: 3 -->
 
 ###### Description
 

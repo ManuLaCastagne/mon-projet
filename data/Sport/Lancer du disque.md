@@ -23,11 +23,12 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Le lancer du disque relie Antiquité, Jeux olympiques, records et grands champions, sans être un marronnier majeur."
 ---
+
 ![Image de Lancer du disque](https://upload.wikimedia.org/wikipedia/commons/f/f1/Camerouanaise_au_lancer_du_disque_Championnats_d%27Afrique_d%27athl%C3%A9tisme_2024_04.jpg)
 
 ###### Questions
 
-En quelle discipline [[sportive]] l'athlète américain [[Al Oerter]] a-t-il remporté quatre médailles d'or consécutives aux [[Jeux olympiques]] de [[1956]], [[1960]], [[1964]] et [[1968]] ?
+En quelle discipline [[sportive]] l'athlète américain [[Al Oerter]] a-t-il remporté quatre médailles d'or consécutives aux [[Jeux olympiques]] de [[1956]], [[1960]], [[1964]] et [[1968]] ? <!-- score: 4 -->
 
 Quel est le sport pratiqué par [[Gerd Kanter]], qui lui a permis de devenir champion olympique lors des [[Jeux olympiques de Pékin]] en [[2008]] ?
 

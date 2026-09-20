@@ -27,6 +27,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Mer majeure d'Europe du Nord, importante pour les échanges, les ressources, les guerres et les enjeux énergétiques."
 ---
+
 ![Image de Mer du Nord](https://upload.wikimedia.org/wikipedia/commons/6/6b/Norderney%2C_Nordsee_am_Oststrand_--_2016_--_5167_%28bw%29_-_2.jpg)
 
 ![[Carte_Mer du Nord.png]]
@@ -36,7 +37,7 @@ Quelle mer située entre le [[Royaume-Uni]] et le [[continent européen]] a ét�
 
 Quelle mer abrite le [[Dogger Bank]], un important banc de sable submergé, qui fut le site de la bataille de [[Dogger Bank]] en janvier 1915 pendant la [[Première Guerre mondiale]] ?
 
-Quelle mer est traversée par la plus ancienne route sous-marine au monde, la [[câble télégraphique]] posé en 1851 reliant [[Douvres]] à [[Calais]] ?
+Quelle mer est traversée par la plus ancienne route sous-marine au monde, la [[câble télégraphique]] posé en 1851 reliant [[Douvres]] à [[Calais]] ? <!-- score: 4 -->
 
 ###### Description
 

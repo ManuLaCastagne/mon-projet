@@ -25,11 +25,12 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Groupe américain culte, intéressant pour le rock psychédélique, la contre-culture, Jerry Garcia et l'histoire des concerts."
 ---
+
 ![Image de The Grateful Dead](https://upload.wikimedia.org/wikipedia/commons/6/6b/Grateful_Dead_%281970%29.png)
 
 ###### Questions
 
-Quel groupe a été le précurseur en utilisant un système de sonorisation connu sous le nom de [[Wall of Sound]] pour leurs concerts, révolutionnant la diffusion de la musique en direct en 1974 ?
+Quel groupe a été le précurseur en utilisant un système de sonorisation connu sous le nom de [[Wall of Sound]] pour leurs concerts, révolutionnant la diffusion de la musique en direct en 1974 ? <!-- score: 5 -->
 
 Quel groupe a été immortalisé dans l'astéroïde [[Asteroid 24192]], découvert en 1998, qui a été nommé en leur honneur par l'astronome [[Bryant Tuckerman]] ?
 

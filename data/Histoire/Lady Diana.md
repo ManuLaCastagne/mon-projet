@@ -1,37 +1,37 @@
 ---
-tags: 
+tags:
   - Histoire
   - Angleterre
   - Années_1980
   - XXe
 debut: 1961
 fin: 1997
-indice_1 : 
+indice_1:
   - Princesse de Galles
-indice_2 : 
+indice_2:
   - mariage avec le prince Charles
-indice_3 : 
+indice_3:
   - mère de William et Harry
-indice_4 : 
+indice_4:
   - tragédie à Paris en 1997
-indice_5 : 
+indice_5:
   - engagement humanitaire
-indice_6 : 
+indice_6:
   - icône de mode
-questions:
- - En 1981, quelle Anglaise portait une robe à manches bouffantes assortie d'une très longue traîne lorsqu'elle a épousé le prince Charles?
 culture_g_score: 92
-culture_g_justification: "Lady Diana est une figure mondialement connue, fréquemment interrogée sur la monarchie britannique, l’humanitaire, les médias et sa mort à Paris."
+culture_g_justification: Lady Diana est une figure mondialement connue, fréquemment interrogée sur la monarchie britannique, l’humanitaire, les médias et sa mort à Paris.
 ---
 ![Image de Lady Diana](https://upload.wikimedia.org/wikipedia/commons/f/f3/Diana%2C_Princess_of_Wales_1997_%282%29_%28cropped%29.jpg)
 
 ###### Questions
 
-Quel membre de la famille royale britannique a tragiquement perdu la vie dans un accident de voiture à [[Paris]] en [[1997]] ?
+Quel membre de la famille royale britannique né en 1961 a tragiquement perdu la vie dans un accident de voiture à [[Paris]] en [[1997]] ?
+
+En 1981, quelle Anglaise portait une robe à manches bouffantes assortie d'une très longue traîne lorsqu'elle a épousé le [[prince Charles]] ?
 
 Quel personnage célèbre a été surnommé la "Princesse des cœurs" en raison de son engagement humanitaire avant sa mort en [[1997]] ?
 
-Dans les années [[1980]], quelle figure emblématique a popularisé le style vestimentaire royal en portant des vêtements de créateurs tels que [[Catherine Walker]] et [[Victor Edelstein]] ?
+Quel est le pseudonyme de [[Diana Spencer]] ?
 
 ###### Description
 

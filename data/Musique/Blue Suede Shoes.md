@@ -25,11 +25,12 @@ questions:
 culture_g_score: 77
 culture_g_justification: "Grand classique du rock associé à la fois à Carl Perkins et Elvis Presley, avec des liens utiles vers le rockabilly."
 ---
+
 ![Image de Blue Suede Shoes](https://upload.wikimedia.org/wikipedia/commons/b/b7/Inspiration_for_the_song_%22Blue_Suede_Shoes%22.jpg)
 
 ###### Questions
 
-Quelle chanson sortie en 1956 a été rendue célèbre par [[Elvis Presley]] bien qu'elle ait été écrite et initialement interprétée par [[Carl Perkins]] ?
+Quelle chanson sortie en 1956 a été rendue célèbre par [[Elvis Presley]] bien qu'elle ait été écrite et initialement interprétée par [[Carl Perkins]] ? <!-- score: 4 -->
 
 Quel titre a été l'un des premiers à fusionner avec succès les genres [[rockabilly]] et [[rock and roll]], devenant un hit des années 50 ?
 

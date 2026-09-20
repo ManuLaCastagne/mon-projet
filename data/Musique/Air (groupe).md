@@ -23,11 +23,12 @@ indice_6:
 culture_g_score: 60
 culture_g_justification: "Air est un duo français important de l’électro, identifiable par Moon Safari, le cinéma et la French Touch, sans être omniprésent."
 ---
+
 ![Image de Air (groupe)](https://upload.wikimedia.org/wikipedia/commons/9/9d/Groupe_Royal_Air_Maroc.png)
 
 ###### Questions
 
-En 2001, à quel duo de musique électronique de [[Versailles]] doit-on l'album "Ten thousand hertz legend" ? <!-- score: 5 -->
+En 2001, à quel duo de musique électronique de [[Versailles]] doit-on l'album "Ten thousand hertz legend" ? <!-- score: 6 -->
 
 Quel duo français, formé de [[Nicolas Godin]] et [[Jean-Benoît Dunckel]], est connu pour avoir sorti l'album "Moon Safari" en 1998 ?
 

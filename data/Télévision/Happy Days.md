@@ -23,6 +23,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Série américaine emblématique associée à Fonzie, aux années 1950 fantasmées et à l’expression « jump the shark »."
 ---
+
 ![Image de Happy Days](https://upload.wikimedia.org/wikipedia/commons/8/82/Happy_days_motorcycle_richie_fonzie_1977.JPG)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans quelle série télévisée diffusée pour la première fois en [[1974]], le
 
 Quel programme télévisé a introduit l'expression populaire "jump the shark" après un épisode controversé diffusé en [[1977]], où [[Fonzie]] saute par-dessus un requin à ski nautique ?  
 
-Quelle série télévisée met en scène les aventures des [[Cunningham]] à [[Milwaukee]] et est considérée comme un spin-off de l'émission de [[1972]], "[[Love, American Style]]" ?
+Quelle série télévisée met en scène les aventures des [[Cunningham]] à [[Milwaukee]] et est considérée comme un spin-off de l'émission de [[1972]], "[[Love, American Style]]" ? <!-- score: 2 -->
 
 ###### Description
 

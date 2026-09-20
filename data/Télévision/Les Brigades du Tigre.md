@@ -29,9 +29,9 @@ culture_g_justification: "Série policière française culte, riche en repères 
 
 Dans quelle série télévisée française de [[TF1]], diffusée pour la première fois en [[1974]], des policiers utilisent pour la première fois la technologie comme les [[caméras]] et les [[fichiers]] d'empreintes digitales pour résoudre des crimes ?
 
-Quel programme télévisé français, se déroulant au début du [[XXe siècle]], suit les exploits d'une unité policière spéciale créée par [[Georges Clemenceau]] pour lutter contre les bandes criminelles ?
+Quel programme télévisé français, se déroulant au début du [[XXe siècle]], suit les exploits d'une unité policière spéciale créée par [[Georges Clémenceau]] pour lutter contre les bandes criminelles ?
 
-Quelle série française culte des années [[1970]] met en scène des détectives pionniers de la lutte contre le crime organisé en utilisant des innovations technologiques pour l'époque ?
+Quelle série française culte des années [[1970]] met en scène des détectives pionniers Valentin, Pujol et Terrasson de la lutte contre le crime organisé en utilisant des innovations technologiques pour l'époque ?
 
 ###### Description
 

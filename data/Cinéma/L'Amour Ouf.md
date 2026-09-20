@@ -20,6 +20,7 @@ indice_6:
 culture_g_score: 44
 culture_g_justification: "Succès français récent, encore trop contemporain et principalement cinématographique pour constituer une priorité générale."
 ---
+
 ![Image de L'Amour Ouf]()
 
 ###### Questions
@@ -28,7 +29,7 @@ Quel film sorti en [[2024]] est une adaptation du roman [[Jackie Loves Johnser O
 
 Quel film projeté en avant-première au [[Festival de Cannes]] le 23 mai [[2024]] met en scène un amour intense et contrarié entre deux personnages principaux dans la [[France]] des [[années 1980–90]] ?
 
-Quel film, ayant pour distribution [[Alain Chabat]] lauréat du [[César du meilleur acteur dans un second rôle]] en [[2025]], a été vu par près de 5 millions de spectateurs en [[France]] ?
+Quel film, ayant pour distribution [[Alain Chabat]] lauréat du [[César du meilleur acteur dans un second rôle]] en [[2025]], a été vu par près de 5 millions de spectateurs en [[France]] ? <!-- score: 4 -->
 
 ###### Description
 

@@ -21,7 +21,8 @@ indice_6:
 culture_g_score: 76
 culture_g_justification: "Émission jeunesse culte associée à Dorothée et à de nombreux dessins animés, fréquemment mobilisée dans les quiz nostalgiques."
 ---
-![Image de Récré A2](https://upload.wikimedia.org/wikipedia/commons/7/71/Ambigram_Candy_-_animated.gif)
+
+![Image de Récré A2](https://upload.wikimedia.org/wikipedia/commons/7/71/Ambigram_Candy_-_animated.gif)
 
 ###### Questions
 
@@ -31,7 +32,7 @@ Quel programme pour enfants a été diffusé sur [[Antenne 2]] à partir de [[19
 
 Quel programme mythique créé par [[Dorothée]] a marqué plusieurs générations de jeunes téléspectateurs français entre [[1978]] et [[1988]] ?
 
-Sous quel titre est connue l'émission qui a popularisé les personnages des [[Schtroumpfs]] et [[Cobra]] à la télévision française à partir de la fin des années [[1970]] ?
+Sous quel titre est connue l'émission qui a popularisé les personnages des [[Schtroumpfs]] et [[Cobra]] à la télévision française à partir de la fin des années [[1970]] ? <!-- score: 4 -->
 
 ###### Description
 

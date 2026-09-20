@@ -18,6 +18,7 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Oiseau familier et culturellement présent dans la musique et la littérature, mais son potentiel de quiz reste modéré."
 ---
+
 ![Image de Merle](https://upload.wikimedia.org/wikipedia/commons/c/c6/Merle_Oberon-publicity.JPG)
 
 ###### Questions
@@ -26,7 +27,7 @@ Quel oiseau chanteur de la famille des [[Turdidés]] est connu pour son chant m�
 
 Quel oiseau noir, mentionné dans la chanson de [[The Beatles]] sortie en 1968, est souvent considéré comme un oiseau précurseur de mauvais présages dans certaines cultures?
 
-Quel oiseau souvent représenté dans les œuvres de [[William Shakespeare]] et connu sous le nom scientifique de [[Turdus merula]] est commun voire abondant en [[Europe]]?
+Quel oiseau souvent représenté dans les œuvres de [[William Shakespeare]] et connu sous le nom scientifique de [[Turdus merula]] est commun voire abondant en [[Europe]]? <!-- score: 8 -->
 
 ###### Description
 

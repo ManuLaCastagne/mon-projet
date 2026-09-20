@@ -23,11 +23,12 @@ questions:
 culture_g_score: 93
 culture_g_justification: "Icône mondiale du football, omniprésente dans les quiz grâce à ses clubs, records, titres, rivalités et distinctions."
 ---
+
 ![Image de Cristiano Ronaldo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Argentine_-_Portugal_-_Cristiano_Ronaldo.jpg)
 
 ###### Questions
 
-Quel joueur a signé en [[2021]] un contrat lucratif revenant au [[Manchester United]] après avoir quitté le club en [[2009]] ?
+Quel joueur a signé en [[2021]] un contrat lucratif revenant au [[Manchester United]] après avoir quitté le club en [[2009]] ? <!-- score: 9 -->
 
 Quel athlète est devenu le premier footballeur à atteindre la barre des 500 millions de followers sur [[Instagram]] en [[2022]] ?
 

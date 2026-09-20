@@ -21,13 +21,14 @@ indice_6:
 culture_g_score: 68
 culture_g_justification: "Clément Ader est un pionnier important de l’aviation française, utile pour plusieurs questions historiques et technologiques."
 ---
-![Image de Clément Ader](https://upload.wikimedia.org/wikipedia/commons/9/91/Cl%C3%A9ment_Ader_en_1910.jpg)
+
+![Image de Clément Ader](https://upload.wikimedia.org/wikipedia/commons/9/91/Cl%C3%A9ment_Ader_en_1910.jpg)
 
 ###### Questions
 
 En 1890, quel précurseur de l'aviation, né un 2 avril, parvient à décoller et à parcourir quelques dizaines de mètres à bord de l'Eole?
 
-Quel pionnier de l'aviation a construit un avion qu'il a baptisé [[Éole]], qui a effectué un vol de 50 mètres en 1890 ?
+Quel pionnier de l'aviation a construit un avion qu'il a baptisé [[Éole]], qui a effectué un vol de 50 mètres en 1890 ? <!-- score: 6 -->
 
 Quel ingénieur inventeur du domaine de l'aéronautique a écrit en 1909 un ouvrage appelé "[[L'Aviation militaire]]", dans lequel il anticipe l'utilisation des avions pour plus que le transport ?
 

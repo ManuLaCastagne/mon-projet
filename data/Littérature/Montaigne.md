@@ -25,6 +25,7 @@ questions:
 culture_g_score: 89
 culture_g_justification: "Figure fondamentale de la littérature et de la pensée françaises, fréquemment liée aux Essais, à la Renaissance, à l’humanisme et à Bordeaux."
 ---
+
 ![Image de Montaigne](https://upload.wikimedia.org/wikipedia/commons/d/db/Lettre_de_Montaigne_au_mar%C3%A9chal_de_Matignon%2C_26_janvier_1585.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel écrivain et philosophe français, né en 1533, est connu pour avoir popula
 
 Quel auteur, dans son livre publié en 1580, explore des réflexions personnelles sur des sujets aussi variés que la connaissance, l'amitié et la mort, marquant ainsi une rupture avec la tradition scolastique?
 
-Qui est devenu maire de [[Bordeaux]] en 1581, un an après la publication de son œuvre majeure, tout en continuant à écrire sur sa propre vie et ses expériences?
+Qui est devenu maire de [[Bordeaux]] en 1581, un an après la publication de son œuvre majeure, tout en continuant à écrire sur sa propre vie et ses expériences? <!-- score: 3 -->
 
 ###### Description
 

@@ -9,32 +9,27 @@ tags:
   - Région_de_Nunavut
   - Canada
   - Nunavut
-
-indice_1 : 
+indice_1:
   - Toundra arctique
-indice_2 : 
+indice_2:
   - Iqaluit
-indice_3 : 
+indice_3:
   - Territoire canadien
-indice_4 : 
+indice_4:
   - Inuit
-indice_5 : 
+indice_5:
   - Auyuittuq National Park
-indice_6 : 
+indice_6:
   - Baffin Island
-questions:
- - Quel territoire du nord du Canada, créé en 1999 et dont le nom signifie notre terre est majoritairement peuplé d'Inuits?
 culture_g_score: 48
-culture_g_justification: "Vaste territoire canadien associé aux Inuits, à l'Arctique et à l'autonomie autochtone, mais peu fréquent dans les quiz généralistes."
+culture_g_justification: Vaste territoire canadien associé aux Inuits, à l'Arctique et à l'autonomie autochtone, mais peu fréquent dans les quiz généralistes.
 ---
 ![Image de Nunavut](https://upload.wikimedia.org/wikipedia/commons/f/f4/Grise_Fiord%2C_Nunavut_%282008%29.jpg)
 
 ![[Carte_Nunavut.png]]
 ###### Questions
 
-Quelle est la plus vaste région administrative du [[Canada]], créée officiellement en 1999 pour donner plus d'autonomie aux peuples [[Inuit]] ? 
-
-Quel territoire formant une grande partie de l'[[archipel arctique canadien]] est le foyer du parc national le plus au nord du [[Canada]], le [[Parc national Quttinirpaaq]] ?
+Quelle est la plus vaste région administrative du [[Canada]], créée officiellement en 1999 pour donner plus d'autonomie aux peuples [[Inuit]] ?
 
 Quel territoire canadien a adopté l'[[inuktitut]] comme l'une de ses langues officielles, reflétant ainsi la culture autochtone majoritaire ?
 

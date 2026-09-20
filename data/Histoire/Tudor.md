@@ -21,6 +21,7 @@ indice_6:
 culture_g_score: 80
 culture_g_justification: "Dynastie anglaise très classique, ouvrant sur Henri VIII, la Réforme, Élisabeth Ire et les grandes transformations de l’Angleterre moderne."
 ---
+
 ![Image de Tudor](https://upload.wikimedia.org/wikipedia/commons/9/9e/Tudor_Flag.png)
 
 ###### Questions
@@ -29,7 +30,7 @@ Dès la fin du 15e siècle, quelle dynastie restaura la prospérité en Angleter
 
 Quel est le nom de la [[dynastie]] britannique qui a commencé avec l'accession au trône de [[Henri VII]] après la [[bataille de Bosworth]] en [[1485]] ?
 
-Quel est le nom de la célèbre [[maison royale]] qui a vu le règne de [[Henri VIII]] et a considérablement influencé la [[Réforme anglaise]] au XVIe siècle ?
+Quel est le nom de la célèbre [[maison royale]] qui a vu le règne de [[Henri VIII]] et a considérablement influencé la [[Réforme anglaise]] au XVIe siècle ? <!-- score: 4 -->
 
 Sous quel nom connaît-on la période de l'[[histoire anglaise]] marquée par le règne de [[Elisabeth Ire]], qui a duré de [[1558]] à [[1603]] ?
 

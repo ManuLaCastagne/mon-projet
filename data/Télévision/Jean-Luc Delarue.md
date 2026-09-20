@@ -23,16 +23,13 @@ questions:
 culture_g_score: 76
 culture_g_justification: "Animateur et producteur associé à plusieurs émissions très connues, notamment Ça se discute et Toute une histoire."
 ---
+
+
 ![Image de Jean-Luc Delarue](https://upload.wikimedia.org/wikipedia/commons/b/b6/Tombe_de_Jean-Luc_DELARUE.jpg)
 
 ###### Questions
 
 Quel animateur français a créé et animé l'émission « [[Ça se discute]] » sur [[France 2]] de [[1994]] à [[2009]] ?
-
-Quel producteur a fondé la société de production [[Réservoir Prod]] en [[1994]], connue pour ses émissions innovantes sur la télévision française ?
-
-Quel présentateur a animé l'émission « [[Toute une histoire]] » sur [[France 2]] à partir de [[2006]] ?
-
 ###### Description
 
 [[Jean-Luc Delarue]] était un animateur et producteur de télévision français particulièrement célèbre pour ses émissions d'accueil et de débat, telles que [[Ça se discute]], diffusée sur [[France 2]] de 1994 à 2009. 

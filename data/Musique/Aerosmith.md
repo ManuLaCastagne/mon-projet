@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 80
 culture_g_justification: "Aerosmith est un grand classique du rock, fréquemment mobilisé à travers ses tubes, ses albums, ses membres et le cinéma."
 ---
+
 ![Image de Aerosmith](https://upload.wikimedia.org/wikipedia/commons/a/a4/Aerosmith_B.jpg)
 
 ###### Questions
 
-Quel groupe a interprété la célèbre chanson "[[I Don't Want to Miss a Thing]]" pour le film [[Armageddon]] en 1998 ?
+Quel groupe a interprété la célèbre chanson "[[I Don't Want to Miss a Thing]]" pour le film [[Armageddon]] en 1998 ? <!-- score: 2 -->
 
 Quel groupe de rock a été immortalisé pour son usage de l'harmonica dans la chanson "[[Train Kept A-Rollin']]" durant leur performance au [[Woodstock '94]] ?
 

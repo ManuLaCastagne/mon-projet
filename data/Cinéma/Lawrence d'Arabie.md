@@ -23,6 +23,7 @@ indice_6 :
 culture_g_score: 100
 culture_g_justification: "Classique mondial du cinéma, abondamment interrogé par son réalisateur, ses acteurs, ses récompenses, son contexte historique et ses scènes célèbres."
 ---
+
 ![Image de Lawrence d'Arabie](https://upload.wikimedia.org/wikipedia/commons/f/f3/T.E._Lawrence_1.pdf)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel film réalisé par [[David Lean]] en 1962 a remporté sept [[Oscars]], dont
 
 Dans quel film la célèbre séquence de l'entrée de [[Lawrence]] dans [[Aqaba]] est-elle réalisée sur une seule prise sans effets spéciaux numériques, illustrant l'innovation cinématographique des années 1960 ?
 
-Lors de la production de quel film l'acteur [[Peter O'Toole]] a-t-il gagné une renommée mondiale en incarnant un officier britannique flamboyant et énigmatique pendant la [[Première Guerre mondiale]] au [[Moyen-Orient]] ?
+Lors de la production de quel film l'acteur [[Peter O'Toole]] a-t-il gagné une renommée mondiale en incarnant un officier britannique flamboyant et énigmatique pendant la [[Première Guerre mondiale]] au [[Moyen-Orient]] ? <!-- score: 6 -->
 
 ###### Description
 

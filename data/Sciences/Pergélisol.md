@@ -23,13 +23,14 @@ questions:
 culture_g_score: 65
 culture_g_justification: "Notion importante du changement climatique, mobilisable en géographie, climatologie, environnement et cycle du carbone."
 ---
-![Image de Pergélisol](https://upload.wikimedia.org/wikipedia/commons/6/6f/Permafrost_in_Herschel_Island_006.jpg)
+
+![Image de Pergélisol](https://upload.wikimedia.org/wikipedia/commons/6/6f/Permafrost_in_Herschel_Island_006.jpg)
 
 ###### Questions
 
-En quelle année [[Vladimir Romanovsky]] a-t-il signalé que le [[pergélisol]] de [[Alaska]] commençait à dégeler à une vitesse notable?
+En quelle année [[Vladimir Romanovsky]] a-t-il signalé que le [[pergélisol]] de [[Alaska]] commençait à dégeler à une vitesse notable?
 
-Quel terme désigne le phénomène scientifique composé de sol, roche et matière organique restant gelé pendant deux années consécutives minimum, essentiel à l'étude du changement climatique en [[2023]]?
+Quel terme désigne le phénomène scientifique composé de sol, roche et matière organique restant gelé pendant deux années consécutives minimum, essentiel à l'étude du changement climatique en [[2023]]? <!-- score: 9 -->
 
 Quel type de sol contient environ 1 700 gigatonnes de carbone selon une étude de [[Schaefer et al.]] publiée en [[2011]], ce qui représente le double de la quantité actuellement dans l'atmosphère terrestre?
 
