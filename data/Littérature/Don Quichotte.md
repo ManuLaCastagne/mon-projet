@@ -4,6 +4,7 @@ tags:
   - Espagne
   - Années_1600
   - XVIIe
+  - Certifié
 date:
   - 1605/01/16
 debut: 1605
@@ -28,6 +29,8 @@ culture_g_justification: Chef-d’œuvre universel associé au premier roman mod
 ###### Questions
 
 Quel roman de [[Miguel de Cervantes]], publié en deux parties en 1605 et 1615, raconte les aventures d’un gentilhomme de [[La Manche]] qui, après avoir lu trop de romans de chevalerie, décide de devenir chevalier errant ?
+
+Quel héros est épris de [[Dulcinée]], personnage éponyme ?
 
 Dans quelle œuvre majeure de la littérature espagnole le chevalier autoproclamé est-il accompagné dans ses aventures par son fidèle écuyer [[Sancho Panza]] ?
 
