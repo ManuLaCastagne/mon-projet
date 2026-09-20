@@ -20,15 +20,15 @@ indice_6 :
   - Ceux qu’on était
 ---
 
-![Image de Pierre Garnier]()
+![Image de Pierre Garnier](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/P2N2025PierreGarnier_3.jpg/1280px-P2N2025PierreGarnier_3.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-###### Questions
+###### **Questions**
 
-Dans le domaine de la [[Musique]], quel compositeur est connu pour son rôle dans le mouvement de la [[Poésie spatiale]] au cours du [[XXe siècle]] ?
+Quel chanteur français originaire de [[Normandie]] a remporté la onzième saison de la [[Star Academy]] en 2024 face à [[Julien Lieb]] ?
 
-Quel artiste a contribué de manière significative au développement de la [[musique concrète]] autour de [[1963]] en France ?
+Quel chanteur s’est fait connaître avec le titre [[Ceux qu’on était]], devenu un immense succès après sa victoire à la [[Star Academy]] en 2024 ?
 
-Quel compositeur français a été un pionnier dans l'exploration des liens entre [[musique]] et [[poésie]] au [[XXe siècle]] ?
+Quel artiste, né en 2002 à [[Caen]], a remporté en 2025 la [[Victoire de la musique]] de la révélation masculine et a sorti son premier album, [[Chaque seconde]], en 2024 ?
 
 ###### Description
 

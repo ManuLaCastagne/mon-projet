@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Jules Vallès.md",
+                "file": "Musique/Pierre Garnier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jules Vallès"
+              "title": "Graphique de Pierre Garnier"
             }
           },
           {
@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Jules Vallès.md",
+                "file": "Musique/Pierre Garnier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jules Vallès"
+              "title": "Pierre Garnier"
             }
           }
         ],
@@ -271,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb69aeffa85077",
@@ -374,8 +375,11 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "ab6dbd6c30483175",
+  "active": "0388c84488fb16b4",
   "lastOpenFiles": [
+    "Musique/Ceux qu’on était.md",
+    "Musique/Pierre Garnier.md",
+    "Histoire/Jules Vallès.md",
     "attachments/Pasted image 20260917201129.png",
     "Sport/Keirin.md",
     "Sport/Arnaud Tournant.md",
@@ -405,8 +409,6 @@
     "attachments/Pasted image 20260905164728.png",
     "attachments/Pasted image 20260904174035.png",
     "Vocabulaire/aglyphe.md",
-    "Sport/Yaroslava Mahuchikh.md",
-    "Sport/Jakob Ingebrigtsen.md",
     "Frises/Scores Culture G.base",
     "Frises/Notes.base",
     "attachments/Pasted image 20260822185959.png",
@@ -414,7 +416,6 @@
     "attachments/Pasted image 20260804075735.png",
     "attachments/Pasted image 20260804075442.png",
     "attachments/Pasted image 20260804075041.png",
-    "attachments/Pasted image 20260803221325.png",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
     "Frises/Base de données n°1.base",
