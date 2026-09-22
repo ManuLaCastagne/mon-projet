@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Yasser Arafat.md",
+                "file": "Animaux/Chacal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Yasser Arafat.md",
+                "file": "Animaux/Chacal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yasser Arafat"
+              "title": "Chacal"
             }
           },
           {
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoire/Yasser Arafat.md",
+                "file": "Animaux/Chacal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,6 +364,8 @@
   },
   "active": "36925dd685bcf6c5",
   "lastOpenFiles": [
+    "Histoire/Yasser Arafat.md",
+    "Animaux/Chacal.md",
     "Vocabulaire/Berruyer.md",
     "Vocabulaire/Bellifontain.md",
     "Télévision/Michaël Gregorio.md",
@@ -389,8 +391,6 @@
     "Musique/The Doors.md",
     "Sport/Arnaud Tournant.md",
     "Anatomie/Myologie.md",
-    "Sport/Grégory Baugé.md",
-    "Sport/Keirin.md",
     "attachments/Pasted image 20260917201129.png",
     "attachments/Carte_16e arrondissement (Paris).png",
     "attachments/Pasted image 20260905165459.png",

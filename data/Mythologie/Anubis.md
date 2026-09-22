@@ -23,9 +23,9 @@ culture_g_justification: "Divinité égyptienne très reconnaissable, régulièr
 
 ###### Questions
 
-Quel [[dieu de la mort]] de la [[mythologie égyptienne]], représenté avec une tête de [[chacal]], introduit les morts dans l'autre monde et veille sur les tombes ?
+Quel [[dieu de la mort]] de la [[mythologie égyptienne]], représenté avec une tête de [[Chacal]], introduit les morts dans l'autre monde et veille sur les tombes ?
 
-Quel dieu égyptien, ayant une tête de [[chacal]], était associé à la momification et à la vie après la mort dans l'[[Égypte antique]] ?
+Quel dieu égyptien, ayant une tête de [[Chacal]], était associé à la momification et à la vie après la mort dans l'[[Égypte antique]] ?
 
 Quelle divinité, souvent représentée en train de peser le cœur des défunts lors de la cérémonie de la [[psychostasie]], était vénérée dès 3100 av. J.-C. dans l'[[Égypte antique]] ?
 
