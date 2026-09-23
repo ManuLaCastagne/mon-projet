@@ -23,11 +23,12 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Empereur romain associé au Colisée et à la dynastie flavienne, important mais moins transversal que les grandes figures impériales."
 ---
+
 ![Image de Vespasien](https://upload.wikimedia.org/wikipedia/commons/d/d6/Emperor_Vespasian_Cured_by_Veronica%27s_Veil_MET_DP-14326-001.jpg)
 
 ###### Questions
 
-Quel empereur romain a instauré en 70 après J.-C. une taxe sur l'utilisation des [[latrines]] publiques, également connues sous le nom de "pissotières" ? 
+Quel empereur romain a instauré en 70 après J.-C. une taxe sur l'utilisation des [[latrines]] publiques, également connues sous le nom de "pissotières" ? <!-- score: 3 -->
 
 Par quel empereur romain, qui a commencé la construction du célèbre [[Colisée de Rome]] en 72 après J.-C., le monument a-t-il été initialement commandé ? 
 
