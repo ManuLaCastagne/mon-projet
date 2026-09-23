@@ -24,6 +24,7 @@ indice_6:
 culture_g_score: 60
 culture_g_justification: "Grande île japonaise utile pour situer Tokyo, Kyoto, le mont Fuji et le cœur historique et démographique du Japon."
 ---
+
 ![Image de Honshu](https://upload.wikimedia.org/wikipedia/commons/7/71/Satellite_image_of_Honshu_in_May_2003.png)
 
 ![[Carte_Honshu.png]]
@@ -35,7 +36,7 @@ Quelle est l'île du Japon qui abrite la plus grande métropole du monde, [[Toky
 
 Quelle île abrite le célèbre [[volcan]] [[Mont Fuji]], un symbole du Japon situé à 3 776 mètres d'altitude, et qui est entré en éruption pour la dernière fois en 1707 ? <!-- score: 6 -->
 
-Sur quelle île du Japon peut-on trouver la ville historique de [[Kyoto]], ancienne capitale impériale du Japon qui a été le siège du gouvernement jusqu'en 1869 ?
+Sur quelle île du Japon peut-on trouver la ville historique de [[Kyoto]], ancienne capitale impériale du Japon qui a été le siège du gouvernement jusqu'en 1869 ? <!-- score: 7 -->
 
 ###### Description
 
