@@ -26,6 +26,7 @@ questions:
 culture_g_score: 77
 culture_g_justification: "Monument vénitien célèbre, régulièrement associé au Palais des Doges, à Casanova, aux prisons et à sa légende romantique."
 ---
+
 ![Image de Pont des soupirs](https://upload.wikimedia.org/wikipedia/commons/d/db/Pont_des_Soupirs_Venise.jpg)
 
 ###### Questions
@@ -34,7 +35,7 @@ Quel célèbre pont de [[Venise]], également connu sous le nom de [[Ponte dei S
 
 Comment s'appelle le pont couvert de [[Venise]] qui est souvent associé aux soupirs des condamnés qui le traversaient pour se rendre à la [[Chambre des Jugements]] au début du XVIIe siècle ?
 
-Quel pont iconique de [[Venise]], construit par [[Antonio Contino]], est une passerelle fermée de style [[baroque]] reliant deux importants bâtiments historiques depuis 1602 ? <!-- score: 4 -->
+Quel pont iconique de [[Venise]], construit par [[Antonio Contino]], est une passerelle fermée de style [[baroque]] reliant deux importants bâtiments historiques depuis 1602 ? <!-- score: 5 -->
 
 ###### Description
 
