@@ -27,6 +27,7 @@ questions:
 culture_g_score: 47
 culture_g_justification: "Région montagneuse importante pour la géographie de l’Asie centrale et le « toit du monde », mais peu fréquente comme réponse précise."
 ---
+
 ![Image de Pamir](https://upload.wikimedia.org/wikipedia/commons/b/ba/Map_of_Pamir_languages.png)
 
 ![[Carte_Pamir.png]]
@@ -34,7 +35,7 @@ culture_g_justification: "Région montagneuse importante pour la géographie de 
 
 Quel est le nom du [[plateau]] situé à la jonction de plusieurs importantes chaînes de [[montagnes]] d'[[Asie centrale]], souvent considéré comme le "Toit du monde" ?
 
-Quel est le nom de la région montagneuse d'[[Asie]] où furent conduites des explorations par l'[[Empire britannique]] à la fin du [[19e siècle]], notamment par [[George Nathaniel Curzon]] en 1896 ? <!-- score: 4 -->
+Quel est le nom de la région montagneuse d'[[Asie]] où furent conduites des explorations par l'[[Empire britannique]] à la fin du [[19e siècle]], notamment par [[George Nathaniel Curzon]] en 1896 ? <!-- score: 3 -->
 
 Quel est le nom de la région qui abrite le nœud orographique central reliée aux systèmes des [[Himalaya]], du [[Karakoram]], et du [[Kunlun]], célèbre pour ses conditions climatiques extrêmes et ses altitudes élevées ?
 
