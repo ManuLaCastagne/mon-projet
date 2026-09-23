@@ -25,16 +25,15 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Alain-Fournier est fortement associé au Grand Meaulnes et à la Première Guerre mondiale, ce qui offre quelques repères classiques."
 ---
+
+
 ![Image de Alain-Fournier](https://upload.wikimedia.org/wikipedia/commons/d/dd/Alain-Fournier_in_1905.jpg)
 
 ###### Questions
 
 Quel est le nom de l'auteur du roman classique [[Le Grand Meaulnes]] publié en 1913 ?
 
-Qui était le lieutenant de l'armée française tué lors des combats près de [[Vaux-lès-Palameix]] en 1914 pendant la [[Première Guerre mondiale]] ?
-
-Quel écrivain français, célèbre pour son seul roman publié, utilisait le pseudonyme "[[Alain-Fournier]]", son véritable nom étant [[Henri Alban Fournier]] ?
-
+Quel écrivain français, célèbre pour son seul roman publié, utilisait un pseudonyme alors que son véritable nom étant [[Henri Alban Fournier]] ? <!-- score: 5 -->
 ###### Description
 
 Né en 1886, [[Alain-Fournier]], de son vrai nom [[Henri-Alban Fournier]], est surtout connu pour son roman emblématique, [[Le Grand Meaulnes]], publié en 1913. 
