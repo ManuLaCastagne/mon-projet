@@ -25,13 +25,14 @@ questions:
 culture_g_score: 40
 culture_g_justification: "Série de bande dessinée franco-belge appréciée des amateurs, mais référence trop circonscrite pour être prioritaire en culture générale."
 ---
+
 ![Image de Inspecteur Canardo]()
 
 ###### Questions
 
 Dans quelle série de bandes dessinées créée par [[Benoît Sokal]] en 1978 trouve-t-on un détective canard anthropomorphe nommé [[Inspecteur Canardo]] ?
 
-Quel personnage principal, dont les aventures commencent à être publiées dans [[À suivre]] à partir de 1979, est un détective privé plongé dans des intrigues policières sombres et cyniques ?
+Quel personnage principal, dont les aventures commencent à être publiées dans [[À suivre]] à partir de 1979, est un détective privé plongé dans des intrigues policières sombres et cyniques ? <!-- score: 4 -->
 
 Dans quelle œuvre littéraire un canard désabusé tente-t-il de résoudre des enquêtes tout en survivant à ses propres démons, créée par un artiste belge ?
 
