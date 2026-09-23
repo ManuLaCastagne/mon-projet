@@ -18,16 +18,13 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Animal marin bien connu, exploitable en zoologie, comportement animal et culture populaire, sans être un marronnier majeur."
 ---
+
+
 ![Image de Otarie](https://upload.wikimedia.org/wikipedia/commons/7/7c/Zalophus_californianus_%28Otarie_de_Californie%29_-_422.jpg)
 
 ###### Questions
 
-Quel animal marin a été formé par [[l'US Navy]] dans les années [[1960]] pour détecter les mines sous-marines et récupérer des objets perdus ?
-
-Quel animal a une capacité impressionnante à jongler avec des objets et a été popularisé dans les années [[1970]] par le film [[L'Otarie de Kingston]] ?
-
-Quelle créature marine présente des vocalises étonnamment complexes qui ont inspiré les chercheurs de [[l'Université de Californie]] en [[2013]] à étudier la communication animale ?
-
+Quel animal a une capacité impressionnante à jongler avec des objets et a été popularisé dans les années [[1970]] par le film [[L'Otarie de Kingston]] ? <!-- score: 4 -->
 ###### Description
 
 Les otaries, membres de la famille des Otariidae, habitent principalement les régions côtières des océans Pacifique et Atlantique. Le plus grand représentant, l'otarie de [[Steller]], peut atteindre une longueur impressionnante de 3 mètres et un poids de 1 000 kg, et a été décrit pour la première fois en 1741 par le naturaliste allemand [[Georg Wilhelm Steller]]. 
