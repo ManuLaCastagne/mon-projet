@@ -31,6 +31,7 @@ culture_g_score: 64
 culture_g_justification: "Ville égyptienne liée au Nil, au barrage, au lac Nasser et aux temples sauvés par l’UNESCO, avec une bonne importance patrimoniale."
 ---
 
+
 ![Image de Assouan](https://upload.wikimedia.org/wikipedia/commons/3/3f/Panoramic_view_of_Aswan_2%2C_Egypt.jpg)
 
 ![[Carte_Assouan.png]]
