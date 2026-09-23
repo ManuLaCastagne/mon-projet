@@ -23,13 +23,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Pionnier français de la voile, Tabarly revient régulièrement dans les questions sur les records, les transatlantiques et la navigation."
 ---
+
 ![Image de Eric Tabarly](https://upload.wikimedia.org/wikipedia/commons/d/da/Eric_Tabarly_en_1975.jpg)
 
 ###### Questions
 
 Quel navigateur français a remporté sa première victoire dans la [[Transat anglaise]] en [[1964]] ?
   
-Quel pionnier de la voile moderne a été élu membre du prestigieux club [[Cercle de la Voile de Paris]], où il développa le fameux voilier [[Pen Duick]] en [[1965]] ?
+Quel pionnier de la voile moderne a été élu membre du prestigieux club [[Cercle de la Voile de Paris]], où il développa le fameux voilier [[Pen Duick]] en [[1965]] ? <!-- score: 2 -->
 
 Qui est le skippeur célèbre pour avoir disparu en mer lors d'une navigation vers l'[[Écosse]] en [[1998]] ? <!-- score: 3 -->
 
