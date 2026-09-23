@@ -25,11 +25,12 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Autrice contemporaine populaire grâce à Culottées et Joséphine, avec une présence quiz réelle mais encore limitée par son actualité."
 ---
-![Image de Pénélope Bagieu](https://upload.wikimedia.org/wikipedia/commons/a/a7/P%C3%A9n%C3%A9lope_Bagieu.jpg)
+
+![Image de Pénélope Bagieu](https://upload.wikimedia.org/wikipedia/commons/a/a7/P%C3%A9n%C3%A9lope_Bagieu.jpg)
 
 ###### Questions
 
-Quelle illustratrice, ayant remporté un [[Eisner Award]] en 2019, est connue pour sa bande dessinée [[Culottées]]?
+Quelle illustratrice, ayant remporté un [[Eisner Award]] en 2019, est connue pour sa bande dessinée [[Culottées]]? <!-- score: 1 -->
 
 Quel auteur, née à [[Paris]] en 1982, a été distinguée pour son travail sur la bande dessinée [[Les Strates]]?
 
