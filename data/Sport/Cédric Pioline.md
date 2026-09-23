@@ -23,13 +23,14 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Tennisman français régulièrement cité pour ses deux finales de Grand Chelem et ses succès en Coupe Davis."
 ---
-![Image de Cédric Pioline](https://upload.wikimedia.org/wikipedia/commons/0/0f/C%C3%A9dric_Pioline_at_the_2010_US_Open_02.jpg)
+
+![Image de Cédric Pioline](https://upload.wikimedia.org/wikipedia/commons/0/0f/C%C3%A9dric_Pioline_at_the_2010_US_Open_02.jpg)
 
 ###### Questions
 
 Quel joueur français de tennis est devenu le premier Français à atteindre la finale du tournoi [[US Open]] depuis [[Yannick Noah]] en [[1983]] ?
 
-Quel joueur a été finaliste du tournoi de [[Wimbledon]] en [[1997]], devenant ainsi le premier Français à atteindre ce stade depuis [[Henri Leconte]] en [[1986]] ?
+Quel joueur a été finaliste du tournoi de [[Wimbledon]] en [[1997]], devenant ainsi le premier Français à atteindre ce stade depuis [[Henri Leconte]] en [[1986]] ? <!-- score: 3 -->
 
 Quel célèbre joueur de tennis français a remporté la [[Coupe Davis]] avec l'équipe de France en [[1996]] et en [[2001]] ?
 
