@@ -27,12 +27,13 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Pays africain important pour la colonisation portugaise, la géographie australe, la langue et les ressources naturelles."
 ---
+
 ![Image de Mozambique](https://upload.wikimedia.org/wikipedia/commons/b/b0/Mozambique_-_traditional_sailboat.jpg)
 
 ![[Carte_Mozambique.png]]
 ###### Questions
 
-Dans quel pays, bordé à l'est par l'[[Océan Indien]], a été découvert en 2011 un important gisement de gaz naturel au large du [[bassin du Rovuma]] ?
+Dans quel pays, bordé à l'est par l'[[Océan Indien]], a été découvert en 2011 un important gisement de gaz naturel au large du [[bassin du Rovuma]] ? <!-- score: 4 -->
 
 Quel pays d'[[Afrique australe]] a choisi la langue du [[Portugal]] comme langue officielle depuis son indépendance en 1975 ?
 
