@@ -21,16 +21,17 @@ indice_6 :
 culture_g_score: 47
 culture_g_justification: "Actrice française populaire mais principalement associée à un nombre restreint de comédies et de rôles nationaux."
 ---
+
+
 ![Image de Mathilde Seigner](https://upload.wikimedia.org/wikipedia/commons/d/d8/Mathilde_Seigner_Cannes_2009.jpg)
 
 ###### Questions
 
-Dans quel film de [[Claude Lelouch]] sorti en [[2001]], [[Mathilde Seigner]] partage-t-elle l'affiche avec [[Alain Delon]] et [[Arielle Dombasle]] ?
+Dans un film de [[Claude Lelouch]] sorti en [[2001]], qui partage l'affiche avec [[Alain Delon]] et [[Arielle Dombasle]] ? <!-- score: 5 -->
 
-Dans quelle série de films [[Camping]], commençant par le premier volet en [[2006]], [[Mathilde Seigner]] joue-t-elle le rôle de [[Sophie Gatineau]] ?
+Dans quelle série de films [[Camping]], commençant par le premier volet en [[2006]], qui joue le rôle de [[Sophie Gatineau]] ? <!-- score: 5 -->
 
-Dans quelle comédie dramatique sortie en [[1998]], réalisée par [[Etienne Chatiliez]], [[Mathilde Seigner]] interprète-t-elle le personnage de [[Marie-Thérèse Brégard]] ?
-
+Dans une comédie dramatique sortie en [[1998]], réalisée par [[Etienne Chatiliez]], qui interprète le personnage de [[Marie-Thérèse Brégard]] ? <!-- score: 5 -->
 ###### Description
 
 [[Mathilde Seigner]] est une actrice française née à [[Paris]] le 17 janvier 1968, issue de la célèbre famille [[Seigner]] avec pour sœur [[Emmanuelle Seigner]], elle-même actrice et chanteuse. Elle débute sa carrière au cinéma dans les années 1990 et se fait rapidement connaître grâce à son rôle dans [["Rosine"]], avant de connaître un succès populaire avec [["Vendredi soir"]] en 2002.
