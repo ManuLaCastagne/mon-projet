@@ -23,11 +23,12 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Acteur majeur de la fin de l’apartheid et lauréat du Nobel avec Mandela, mais connu surtout dans ce cadre historique précis."
 ---
+
 ![Image de Frederik Willem de Klerk](https://upload.wikimedia.org/wikipedia/commons/e/ea/Frederik_Willem_de_Klerk%2C_1990.jpg)
 
 ###### Questions
 
-Quel président sud-africain a reçu le [[prix Nobel de la paix]] en [[1993]] avec [[Nelson Mandela]] pour leur rôle dans la fin de l'[[apartheid]] en [[Afrique du Sud]] ?
+Quel président sud-africain a reçu le [[prix Nobel de la paix]] en [[1993]] avec [[Nelson Mandela]] pour leur rôle dans la fin de l'[[apartheid]] en [[Afrique du Sud]] ? <!-- score: 1 -->
 
 Qui a officiellement annoncé la libération de [[Nelson Mandela]] après 27 ans de détention en [[1990]], marquant un tournant majeur dans la politique sud-africaine ?
 
