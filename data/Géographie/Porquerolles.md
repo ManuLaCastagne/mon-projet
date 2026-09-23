@@ -27,6 +27,7 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Île méditerranéenne française emblématique pour son parc national et sa biodiversité, mais à fréquence quiz intermédiaire."
 ---
+
 ![Image de Porquerolles](https://upload.wikimedia.org/wikipedia/commons/9/9b/Porquerolles_1.JPG)
 
 ![[Carte_Porquerolles.png]]
@@ -36,7 +37,7 @@ Dans quel parc national, créé en 2012, se trouve l'île de [[Porquerolles]] ? 
 
 Quelle île, faisant partie des [[Îles d'Hyères]], a été achetée par l'État français en 1971 pour en préserver l'environnement ?
 
-Quel lieu dans le [[Var]] est renommé pour sa combinaison unique de plages, de forêts et de biodiversité méditerranéenne, notamment grâce à l'ouverture d'un jardin de conservation fin 2008 ?
+Quel lieu dans le [[Var]] est renommé pour sa combinaison unique de plages, de forêts et de biodiversité méditerranéenne, notamment grâce à l'ouverture d'un jardin de conservation fin 2008 ? <!-- score: 4 -->
 
 ###### Description
 
