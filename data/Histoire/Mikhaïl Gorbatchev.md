@@ -23,13 +23,14 @@ questions:
 culture_g_score: 96
 culture_g_justification: "Dernier dirigeant soviétique, central pour la perestroïka, la glasnost et la fin de la guerre froide, avec de nombreux angles de questions."
 ---
+
 ![Image de Mikhaïl Gorbatchev](https://upload.wikimedia.org/wikipedia/commons/2/28/Mikha%C3%AFl_Gorbatchev_place_de_la_Bastille_1985.tif)
 
 ###### Questions
 
 Quel dirigeant soviétique a reçu le prix Nobel de la paix en [[1990]] pour ses efforts dans la fin de la [[Guerre froide]] et la promotion de réformes démocratiques ?
 
-Quel homme politique a introduit les réformes de [[glasnost]] et [[perestroïka]] en [[1985]] pour moderniser l'[[Union soviétique]] ?
+Quel homme politique a introduit les réformes de [[glasnost]] et [[perestroïka]] en [[1985]] pour moderniser l'[[Union soviétique]] ? <!-- score: 2 -->
 
 Quel dernier dirigeant de l'[[URSS]] a assisté à la chute du [[mur de Berlin]] en [[Culture générale/1989]] ?
 
