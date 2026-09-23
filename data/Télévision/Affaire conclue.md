@@ -22,13 +22,14 @@ indice_6 :
 culture_g_score: 73
 culture_g_justification: "Émission populaire de France 2, facilement interrogée à travers Sophie Davant, les enchères et les objets anciens."
 ---
+
 ![Image de Affaire conclue](https://upload.wikimedia.org/wikipedia/commons/9/99/Depuis_l%27av%C3%A8nement_de_Henri_IV_jusqu%27%C3%A0_la_paix_de_Paris%2C_conclue_en_1763_%28IA_depuislavnemen66peti%29.pdf)
 
 ###### Questions
 
 Quel programme présenté par [[Sophie Davant]] depuis 2017 fait intervenir des commissaires-priseurs pour estimer des objets apportés par des particuliers ?
 
-Quel divertissement télévisé de [[France 2]] a été diffusé pour la première fois le 21 août 2017 et propose aux candidats de vendre leurs objets de collection aux enchères ?
+Quel divertissement télévisé de [[France 2]] a été diffusé pour la première fois le 21 août 2017 et propose aux candidats de vendre leurs objets de collection aux enchères ? <!-- score: 9 -->
 
 Quelle émission, devenue un phénomène de société et adaptée également en [[Belgique]] et en [[Pays-Bas]], permet aux participants de découvrir le prix réel de leurs objets avant de décider si l'[[affaire]] est conclue ou non ?
 
