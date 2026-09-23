@@ -21,11 +21,12 @@ questions:
 culture_g_score: 40
 culture_g_justification: "Compagnon fidèle d’Oreste, Pylade est important dans quelques récits tragiques mais reste une figure secondaire et peu interrogée isolément."
 ---
+
 ![Image de Pylade](https://upload.wikimedia.org/wikipedia/commons/d/d0/Oreste_et_Pylade_-MR_279_-_Ma_81.jpg)
 
 ###### Questions
 
-Dans la [[mythologie grecque]], quel fidèle ami d'[[Oreste]] l'a aidé à venger la mort de son père [[Agamemnon]] ?
+Dans la [[mythologie grecque]], quel fidèle ami d'[[Oreste]] l'a aidé à venger la mort de son père [[Agamemnon]] ? <!-- score: 6 -->
 
 Quel personnage, connu pour son amitié indéfectible, a partagé l'exil d'[[Oreste]] après le meurtre de [[Clytemnestre]] et a été capturé par les [[Tauriens]] ?
 
