@@ -25,6 +25,7 @@ questions:
 culture_g_score: 61
 culture_g_justification: "Chanson connue d'Elvis et facilement identifiable par son thème social, mais moins récurrente que ses plus grands tubes."
 ---
+
 ![Image de In the Ghetto](https://upload.wikimedia.org/wikipedia/commons/0/0b/Stroop_Report_-_Warsaw_Ghetto_Uprising_06b.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Quel est le titre de la chanson interprétée par [[Elvis Presley]], sortie en 1
 
 Quel titre, écrit par [[Mac Davis]], figure parmi les morceaux les plus emblématiques de la carrière d'[[Elvis Presley]] et fait référence à un quartier désavantagé aux États-Unis ?
 
-Quelle chanson d'[[Elvis Presley]], ayant atteint le troisième rang aux [[États-Unis]] et le second rang au [[Royaume-Uni]] en 1969, parle des conditions de vie difficiles dans un ghetto ?
+Quelle chanson d'[[Elvis Presley]], ayant atteint le troisième rang aux [[États-Unis]] et le second rang au [[Royaume-Uni]] en 1969, parle des conditions de vie difficiles dans un ghetto ? <!-- score: 4 -->
 
 ###### Description
 
