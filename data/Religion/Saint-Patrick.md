@@ -23,13 +23,14 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Saint patron de l’Irlande, associé au 17 mars, au trèfle et à l’identité irlandaise, il est très rentable en culture générale."
 ---
+
 ![Image de Saint-Patrick](https://upload.wikimedia.org/wikipedia/commons/2/21/Saint_Patrick_Catholic_Church_%28Junction_City%2C_Ohio%29_-_stained_glass%2C_Saint_Patrick_-_detail.jpg)
 
 ###### Questions
 
 Quel saint missionnaire, fêté le [[17 mars]], est réputé pour avoir utilisé un [[trèfle]] pour expliquer la [[Sainte Trinité]] aux [[Irlandais]] au [[Vᵉ siècle]] ?
 
-Quel symbole irlandais est célèbre pour avoir évangélisé l'[[Irlande]] et chassé les serpents selon la légende ? <!-- score: 5 -->
+Quel symbole irlandais est célèbre pour avoir évangélisé l'[[Irlande]] et chassé les serpents selon la légende ? <!-- score: 6 -->
 ###### Description
 
 [[Saint-Patrick]] est né en 385 après J.-C. dans ou près de la ville de [[Bannavem Taberniae]], qui se situerait en [[Grande-Bretagne]]. 
