@@ -28,6 +28,7 @@ questions:
 culture_g_score: 92
 culture_g_justification: "L’Ermitage est un musée mondial majeur, très rentable pour les questions d’art, de Russie, de collectionneurs et de patrimoine."
 ---
+
 Question : [[Musée étranger]] dont le 1er bâtiment fut construit par le [[Français]] [[Vallin de la Mothe]], je conserve notamment les 400 tableaux de la collection [[Crozat]]. Constitué sous l'impulsion d'une souveraine conseillée par [[Diderot]], j'abrite le plus grand ensemble de peintures françaises hors [[de France]]. Musée comptant environ 350 salles...
 
 
@@ -37,7 +38,7 @@ Question : [[Musée étranger]] dont le 1er bâtiment fut construit par le [[Fra
 
 Dans quelle célèbre galerie d'art, située à [[Saint-Pétersbourg]] en [[Russie]], trouve-t-on une impressionnante collection comprenant plus de trois millions d'œuvres, y compris des chefs-d'œuvre de [[Léonard de Vinci]], [[Raphaël (peintre)]] et [[Rembrandt]] ?
 
-Quel est le nom du musée fondé par [[Catherine la Grande]] en 1764, qui est aujourd'hui l'un des plus grands et plus anciens musées d'art et de culture au monde ?
+Quel est le nom du musée fondé par [[Catherine la Grande]] en 1764, qui est aujourd'hui l'un des plus grands et plus anciens musées d'art et de culture au monde ? <!-- score: 2 -->
 
 Dans quel musée, dont le bâtiment principal est le [[Palais d'Hiver]], peut-on visiter depuis 1852 un immense complexe architectural et artistique s'étendant sur plusieurs bâtiments historiques ?
 
