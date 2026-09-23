@@ -23,6 +23,7 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Inventeur français intéressant pour l’histoire du gaz et des moteurs, mais rarement requis hors de questions spécialisées."
 ---
+
 ![Image de Philippe Lebon](https://upload.wikimedia.org/wikipedia/commons/6/6b/Philippe_Lebon.png)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel inventeur français a créé l'éclairage au gaz en 1799 en découvrant la 
 
 Quel ingénieur né en [[1767]] à [[Brachay]] est connu pour avoir obtenu un brevet pour un moteur à combustion interne utilisant du gaz d'éclairage ?  
 
-Quel pionnier de l'énergie gazière a développé en [[1801]] un modèle de moteur à véritable [[combustion]] pour lequel il reçut une mention lors d'une exposition à l'[[Institut de France]] ?
+Quel pionnier de l'énergie gazière a développé en [[1801]] un modèle de moteur à véritable [[combustion]] pour lequel il reçut une mention lors d'une exposition à l'[[Institut de France]] ? <!-- score: 3 -->
 
 ###### Description
 
