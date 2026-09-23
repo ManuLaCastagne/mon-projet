@@ -17,6 +17,7 @@ indice_6 :
 ---
 
 
+
 ![Image de Voïvode](https://upload.wikimedia.org/wikipedia/commons/4/48/Prsten_vojvode_Stepana.jpg)
 
 ###### Questions
@@ -25,7 +26,7 @@ Quel terme, autre que [[boyard]], désigne un ancien seigneur de [[Russie]] ? <!
 
 Quel terme désigne un titre militaire et administratif historique en [[Europe de l'Est]], notamment utilisé en [[Pologne]], [[Roumanie]] et [[Serbie]] pour désigner des chefs de guerre ou gouverneurs ?
 
-Comment appelle-t-on le chef d'une région ou d'un district militaire dans le contexte des principautés roumaines de [[Moldavie]] et de [[Valachie]] aux XVIIe et XVIIIe siècles ?
+Comment appelle-t-on le chef d'une région ou d'un district militaire dans le contexte des principautés roumaines de [[Moldavie]] et de [[Valachie]] aux XVIIe et XVIIIe siècles ? <!-- score: 3 -->
 
 Quel est le titre porté par certains dirigeants est-européens médiévaux, que l'on peut entrapercevoir dans des œuvres littéraires telles que [[Dracula]] de [[Bram Stoker]], où il est utilisé comme synonyme de chef militaire ?
 
