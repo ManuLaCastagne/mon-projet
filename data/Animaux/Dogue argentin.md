@@ -18,11 +18,12 @@ questions:
 culture_g_score: 32
 culture_g_justification: "Le dogue argentin est une race notable mais relativement niche, apparaissant rarement hors des questions spécialisées sur les chiens."
 ---
+
 ![Image de Dogue argentin](https://upload.wikimedia.org/wikipedia/commons/9/97/Dogue_argentin_et_les_enfants.jpg)
 
 ###### Questions
 
-Quelle race de chien a été développée en [[Argentine]] dans les années [[1920]] par [[Antonio Nores Martínez]] pour la chasse au gros gibier, comme le puma et le sanglier ?
+Quelle race de chien a été développée en [[Argentine]] dans les années [[1920]] par [[Antonio Nores Martínez]] pour la chasse au gros gibier, comme le puma et le sanglier ? <!-- score: 2 -->
 
 Quel chien, également connu sous le nom de [[Dogo Argentino]], a été introduit pour la première fois en [[1970]] aux [[États-Unis]] et est souvent utilisé dans les forces de l'ordre en raison de ses compétences de traque et de son courage ?
 
