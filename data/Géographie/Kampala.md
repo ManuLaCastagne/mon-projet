@@ -1,5 +1,5 @@
 ---
-description: Capitale de l'Ouganda |  Traversée par le Nil |  Ville située près du lac Victoria |  Climat équatorial |  En croissance rapide |  Ancienne colonie britannique |
+description: Capitale de l'Ouganda |  Traversée par le Nil |  Ville située près du lac Victoria |  Climat équatorial |  En croissance rapide |  Ancienne colonie britannique |
 latitude: 0.3177137
 longitude: 32.5813539
 superficie: 189
@@ -13,7 +13,7 @@ tags:
 indice_1 : 
   - Capitale de l'Ouganda
 indice_2 : 
-  - Traversée par le Nil
+  - Traversée par le Nil
 indice_3 : 
   - Ville située près du lac Victoria
 indice_4 : 
@@ -27,12 +27,13 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Capitale africaine régulièrement interrogée dans les listes de capitales et les questions sur l’Ouganda, mais à transversalité modérée."
 ---
+
 ![Image de Kampala](https://upload.wikimedia.org/wikipedia/commons/b/b3/Y_Coetsee_Kampala_Road_Intersection_%282013%29.jpg)
 
 ![[Carte_Kampala.png]]
 ###### Questions
 
-Quelle ville située sur les rives du [[Lac Victoria]] est la capitale de [[l'Ouganda]] depuis 1962 ?
+Quelle ville située sur les rives du [[Lac Victoria]] est la capitale de [[l'Ouganda]] depuis 1962 ? <!-- score: 4 -->
 
 Quelle ville d'[[Afrique de l'Est]] renferme le [[Kasubi Tombs]], site du patrimoine mondial de l'[[UNESCO]] depuis l'an 2001 ?
 
