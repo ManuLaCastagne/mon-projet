@@ -25,11 +25,12 @@ questions:
 culture_g_score: 67
 culture_g_justification: "Philosophe majeur du XXe siècle, régulièrement interrogé via Guattari, l'Oulipo philosophique, le cinéma et ses concepts, mais exigeant à mémoriser."
 ---
+
 ![Image de Gilles Deleuze](https://upload.wikimedia.org/wikipedia/commons/0/0e/AVT_Gilles-Deleuze_6342.webp)
 
 ###### Questions
 
-Quel philosophe français a collaboré avec [[Félix Guattari]] pour écrire [[Capitalisme et schizophrénie]], dont le premier volume, [[L'Anti-Œdipe]], a été publié en 1972 ? <!-- score: 3 -->
+Quel philosophe français a collaboré avec [[Félix Guattari]] pour écrire [[Capitalisme et schizophrénie]], dont le premier volume, [[L'Anti-Œdipe]], a été publié en 1972 ? <!-- score: 2 -->
 
 Quel penseur a rédigé en 1968 l'œuvre intitulée [[Différence et Répétition]], qui explore les concepts de différence et de répétition dans le cadre de la philosophie moderne ?
 
