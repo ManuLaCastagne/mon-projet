@@ -23,7 +23,9 @@ indice_6:
 culture_g_score: 96
 culture_g_justification: "Héros littéraire français emblématique, exploitable par ses romans, ses adaptations, Maurice Leblanc et la comparaison avec Sherlock Holmes."
 ---
-![Image de Arsène Lupin](https://upload.wikimedia.org/wikipedia/commons/9/9e/Arsene_Lupin_art_Pierre_La_Fit.png)
+
+
+![Image de Arsène Lupin](https://upload.wikimedia.org/wikipedia/commons/9/9e/Arsene_Lupin_art_Pierre_La_Fit.png)
 
 ###### Questions
 
@@ -31,12 +33,9 @@ Quel héros apparu dans une nouvelle publiée en juillet 1905 dans "Je sais tout
 
 Dans quelle série des années 1970 Le comédien québécois Yvon Bouchard interprétait le rôle du fidèle chauffeur-valet [[Grognard]] ?
 
-Dans quel roman, publié en [[Mutinerie de Potemkine]], le personnage d'[[Arsène Lupin]] réalise-t-il ses premières aventures sous la plume de [[Maurice Leblanc]] ?
-
 Quel personnage fictif, créé par [[Maurice Leblanc]] en [[Mutinerie de Potemkine]], est souvent comparé à [[Sherlock Holmes]] pour ses talents de déguisement et ses enquêtes intelligentes ?
 
 Quel personnage de la littérature française a été interprété par de nombreux acteurs, dont [[Georges Descrières]] dans une série télévisée des [[années 1970]] ?
-
 ###### Description
 
 [[Arsène Lupin]], le gentleman-cambrioleur créé par [[Maurice Leblanc]] en 1905, est un personnage emblématique de la littérature française, souvent comparé à [[Sherlock Holmes]] pour son esprit brillant et son flair pour le déguisement. 
