@@ -26,6 +26,7 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Monument majeur de la Rome impériale, régulièrement associé à Trajan, aux guerres daciques et à la sculpture antique."
 ---
+
 ![Image de Colonne de Trajan](https://upload.wikimedia.org/wikipedia/commons/4/48/Colonne_de_Trajan_-_Rome_%281%29.JPG)
 
 ###### Questions
@@ -34,7 +35,7 @@ Quelle structure commémorative romaine, inaugurée en [[113 ap. J.-C.]], a ét�
 
 Quel monument de [[Rome]] est célèbre pour sa frise en spirale détaillée représentant les campagnes militaires de [[Trajan]], et fut achevé en [[113 ap. J.-C.]] ?
 
-Quel chef-d'œuvre architectural, situé dans le forum de [[Trajan]] et mesurant environ 30 mètres de haut, sert également de tombeau à l'empereur romain qui l'a commandé ?
+Quel chef-d'œuvre architectural, situé dans le forum de [[Trajan]] et mesurant environ 30 mètres de haut, sert également de tombeau à l'empereur romain qui l'a commandé ? <!-- score: 9 -->
 
 ###### Description
 
