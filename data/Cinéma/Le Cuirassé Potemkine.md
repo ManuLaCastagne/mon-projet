@@ -23,11 +23,12 @@ indice_6:
 culture_g_score: 80
 culture_g_justification: "Œuvre fondatrice du cinéma soviétique et du montage, régulièrement mobilisée en cinéma, histoire et culture politique."
 ---
+
 ![Image de Cuirassé Potemkine](https://upload.wikimedia.org/wikipedia/commons/d/de/Potemkin_mutiny_Odessa_wagons.jpg)
 
 ###### Questions
 
-Quel film de [[Sergueï Eisenstein]] sorti en 1925 est souvent cité comme un chef-d'œuvre du cinéma muet et réputé pour sa scène de l'escalier d'[[Odessa]]?
+Quel film de [[Sergueï Eisenstein]] sorti en 1925 est souvent cité comme un chef-d'œuvre du cinéma muet et réputé pour sa scène de l'escalier d'[[Odessa]]? <!-- score: 3 -->
 
 En 1926, dans quel film d'Eisenstein voit-on un landau dévaler les marches d'un escalier dans le port d'Odessa?
 
