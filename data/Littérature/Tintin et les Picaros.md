@@ -25,13 +25,14 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Album connu de Tintin, mais moins central que les épisodes les plus célèbres et principalement utile pour quelques repères éditoriaux et narratifs."
 ---
+
 ![Image de Tintin et les Picaros](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tintin_et_les_picaros.png)
 
 ###### Questions
 
 Dans quel album de [[Tintin]], publié en 1976, [[Hergé]] fait-il intervenir [[Bianca Castafiore]] dans un rôle perturbateur au milieu d’une révolution en [[Amérique du Sud]] ?
 
-Quel est le dernier album des [[Aventures de Tintin]] qui évoque la politique sud-américaine et introduit de nouveaux éléments amusants comme l'ivresse des [[Dupont et Dupond]] provoquée par des fléchettes empoisonnées ?
+Quel est le dernier album des [[Aventures de Tintin]] qui évoque la politique sud-américaine et introduit de nouveaux éléments amusants comme l'ivresse des [[Dupont et Dupond]] provoquée par des fléchettes empoisonnées ? <!-- score: 7 -->
 
 Dans quel album publié après le retour de [[Tintin]] au [[Petit Vingtième]], les [[Picaros]] jouent-ils un rôle central dans une intrigue se déroulant en [[San Theodoros]] ?
 
