@@ -24,6 +24,7 @@ indice_6 :
 culture_g_score: 60
 culture_g_justification: "Ville française identifiable par Dalí, le Roussillon, la frontière espagnole et Visa pour l’Image, avec plusieurs angles mais une portée modérée."
 ---
+
 ![[Carte_Perpignan.png]]
 
 ###### Questions
@@ -32,7 +33,7 @@ Dans quelle ville française, réputée pour son emblématique mythique gare que
 
 Quelle ville, située dans la région [[Occitanie]], est connue pour accueillir le festival de photojournalisme [[Visa pour l'Image]] chaque année depuis [[1989]] ?
 
-Quelle ville française, ancienne capitale du [[Roussillon]], a-elle été rattachée à la France à la suite du traité des [[Pyrénées]] en [[1659]] ?
+Quelle ville française, ancienne capitale du [[Roussillon]], a-elle été rattachée à la France à la suite du traité des [[Pyrénées]] en [[1659]] ? <!-- score: 3 -->
 
 ###### Description
 
