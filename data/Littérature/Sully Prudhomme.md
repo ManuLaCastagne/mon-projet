@@ -25,13 +25,14 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Premier lauréat du Nobel de littérature, repère classique mais auteur aujourd’hui nettement moins connu que les grands poètes français."
 ---
+
 ![Image de Sully Prudhomme](https://upload.wikimedia.org/wikipedia/commons/a/a4/Sully_Prudhomme%2C_Ren%C3%A9-Fran%C3%A7ois-Armand%2C_BNF_Gallica.jpg)
 
 ###### Questions
 
 Quel poète français est devenu le premier lauréat du [[Prix Nobel de littérature]] en 1901 ?
 
-Quel auteur des [[Stances et Poèmes]] a contribué au mouvement [[parnassien]] au XIXe siècle ?
+Quel auteur des [[Stances et Poèmes]] a contribué au mouvement [[parnassien]] au XIXe siècle ? <!-- score: 4 -->
 
 Quel écrivain, né à [[Paris]] en 1839, a été reconnu pour son influence sur la poésie française bien qu'il soit souvent éclipsé par ses contemporains ?
 
