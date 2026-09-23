@@ -16,13 +16,14 @@ indice_6 :
   - Filage
 ---
 
+
 ![Image de Linçoir](https://upload.wikimedia.org/wikipedia/commons/9/93/LL-Q150_%28fra%29-Fabricio_Cardenas_%28Culex%29-lin%C3%A7oir.wav)
 
 ###### Questions
 
 Quel outil traditionnel utilisé dans la fabrication du [[lin]] sert à broyer les tiges pour en extraire les fibres ?
 
-Quel instrument ancien est souvent associé au processus de teillage dans l'industrie textile du [[lin]] ?
+Quel instrument ancien est souvent associé au processus de teillage dans l'industrie textile du [[lin]] ? <!-- score: 2 -->
 
 Quel est le nom de l'appareil utilisé historiquement dans l'artisanat du [[lin]] pour transformer les plantes en fibres prêtes à être filées ?
 
