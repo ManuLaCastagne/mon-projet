@@ -24,13 +24,14 @@ indice_6:
 culture_g_score: 80
 culture_g_justification: "Mafalda est une icône internationale de la bande dessinée, fréquemment liée à Quino, à l’Argentine, à la satire politique et à la société."
 ---
+
 ![Image de Mafalda](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mafalda_nos_saluda.JPG/1920px-Mafalda_nos_saluda.JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions
 
 Quel personnage de bande dessinée créé par le dessinateur argentin [[Quino]] a été imaginé en 1964 et est connu pour ses réflexions critiques sur le monde des adultes et la politique ?
 
-Quelle héroïne, petite fille argentine, a été créée par Quino en 1964 ? Elle est souvent accompagnée de [[Manolito]], le garçon le plus capitaliste de tout son pays.
+Quelle héroïne, petite fille argentine, a été créée par Quino en 1964 ? Elle est souvent accompagnée de [[Manolito]], le garçon le plus capitaliste de tout son pays. <!-- score: 6 -->
 
 Quel personnage célèbre de la bande dessinée est apparu pour la première fois dans le journal argentin [[Primera Plana]] en 1964 avant de devenir une icône internationale de la satire sociale ?
 
