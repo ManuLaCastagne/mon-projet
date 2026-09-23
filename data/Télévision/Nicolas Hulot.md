@@ -23,16 +23,17 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Présentateur d'Ushuaïa devenu une figure majeure de la sensibilisation environnementale et de la vie publique française."
 ---
+
+
 ![Image de Nicolas Hulot](https://upload.wikimedia.org/wikipedia/commons/b/b6/Nicolas_Hulot_-_Huma_2008%2C_6415_%28cropped%29.jpg)
 
 ###### Questions
 
 Quel animateur est devenu célèbre en présentant l'émission [[Ushuaïa Nature]] à partir de [[1998]] sur [[TF1]] ?
 
-Qui a remplacé [[Jean-Claude Narcy]] au [[Journal de 13 heures]] sur [[TF1]] en 1989 pendant ses absences ?
+Qui a remplacé [[Jean-Claude Narcy]] au [[Journal de 13 heures]] sur [[TF1]] en 1989 pendant ses absences ? <!-- score: 5 -->
 
 Quel journaliste a commencé sa carrière télévisuelle comme reporter pour l'émission [[Les Visiteurs du Mercredi]] sur [[Antenne 2]] en [[1978]] ?
-
 ###### Description
 
 [[Nicolas Hulot]], célèbre présentateur et reporter français, a marqué le paysage télévisuel en France avec son émission phare [[Ushuaïa Nature]], qui a débuté en [[1998]].  
