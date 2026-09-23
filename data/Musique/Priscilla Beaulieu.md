@@ -25,11 +25,12 @@ questions:
 culture_g_score: 56
 culture_g_justification: "Sa relation avec Elvis Presley la rend régulièrement identifiable, mais son importance propre demeure secondaire dans la culture générale."
 ---
+
 ![Image de Priscilla Beaulieu](https://upload.wikimedia.org/wikipedia/commons/7/72/Priscilla_Presley_%282003%29.jpg)
 
 ###### Questions
 
-Le 1er mai 1967, quelle jeune femme, rencontrée lors de son service militaire en Allemagne, Elvis Presley épouse-t-il à Las Vegas?
+Le 1er mai 1967, quelle jeune femme, rencontrée lors de son service militaire en Allemagne, Elvis Presley épouse-t-il à Las Vegas? <!-- score: 3 -->
 
 Avec qui [[Elvis Presley]] s'est-il marié en 1967, suscitant une attention médiatique majeure ?
 
