@@ -26,13 +26,14 @@ questions:
 culture_g_score: 100
 culture_g_justification: "Picasso est une figure universelle, exploitable en cubisme, peinture, guerre, biographies, périodes artistiques et culture du XXe siècle."
 ---
+
 ![Image de Pablo Picasso](https://upload.wikimedia.org/wikipedia/commons/b/b8/Portrait_de_Picasso%2C_1908.jpg)
 
 ###### Questions
 
 En quelle année [[Pablo Picasso]] a-t-il co-fondé le mouvement artistique du [[cubisme]] avec [[Georges Braque]] ? 
 
-Quel artiste a réalisé en 1937 une œuvre pour le [[pavillon espagnol]] de l'[[Exposition internationale]] à [[Paris]], représentant les horreurs de la [[Guerre civile espagnole]] ? 
+Quel artiste a réalisé en 1937 une œuvre pour le [[pavillon espagnol]] de l'[[Exposition internationale]] à [[Paris]], représentant les horreurs de la [[Guerre civile espagnole]] ? <!-- score: 8 -->
 
 Quel peintre a eu une période de création artistique appelée la [[période bleue]], qui a duré de 1901 à 1904 ?
 
