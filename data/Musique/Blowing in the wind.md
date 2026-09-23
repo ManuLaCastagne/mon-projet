@@ -25,16 +25,13 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Chanson emblématique de Bob Dylan, liée à la musique folk, aux droits civiques, aux reprises et à la contestation."
 ---
+
+
 ![Image de Blowing in the wind](https://upload.wikimedia.org/wikipedia/commons/5/56/The_flag_of_Spain_blowing_in_the_wind_-_Holmstad.jpg)
 
 ###### Questions
 
-Quel est le titre de la chanson de [[Bob Dylan]], sortie en 1962, qui pose une série de questions rhétoriques sur la paix, la liberté et la condition humaine ?
-
-Quelle chanson, interprétée par [[Peter, Paul and Mary]] en 1963, est devenue un hymne du mouvement pour les droits civiques aux [[États-Unis]] ?
-
-Quel morceau figure sur l'album [[The Freewheelin' Bob Dylan]], sorti en 1963, et est souvent reconnu pour sa structure de questions-réponses philosophiques ?
-
+Quel morceau figure sur l'album [[The Freewheelin' Bob Dylan]], sorti en 1963, et est souvent reconnu pour sa structure de questions-réponses philosophiques et rhétoriques sur la paix, la liberté et la condition humaine ? <!-- score: 4 -->
 ###### Description
 
 La chanson "[[Blowing in the Wind]]", écrite par [[Bob Dylan]] et parue en 1963, est devenue rapidement un hymne du mouvement pour les droits civiques aux [[États-Unis]]. 
