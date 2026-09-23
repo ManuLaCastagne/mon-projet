@@ -25,12 +25,13 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Chanteur très populaire en France dans les années 1970, régulièrement évoqué pour ses succès et sa mort précoce, mais avec une portée limitée."
 ---
+
 ![Image de Mike Brant](https://upload.wikimedia.org/wikipedia/commons/9/9c/Famous_singer_Mike_Brant_performing_at_a_party_given_for_IDF_Disabled_Veterans_Organization_organized_by_Simcha_Holtzberg_at_the_Sheraton_Hotel_%28FL61609728%29_%28cropped%29.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5y7l8Puj6dDzZQD1jFFlwb" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ###### Questions
 
-Quel chanteur israélien des années 1970 a connu un immense succès en France avec sa chanson "Laisse-moi t'aimer" sortie en 1970 ? 
+Quel chanteur israélien des années 1970 a connu un immense succès en France avec sa chanson "Laisse-moi t'aimer" sortie en 1970 ? <!-- score: 7 -->
 
 Quel artiste, né [[Moshé Michaël Brand]], s'est produit pour la première fois à l'[[(Olympia)]] de [[Paris]] en 1971 ? 
 
