@@ -18,13 +18,14 @@ questions:
 culture_g_score: 84
 culture_g_justification: "La girafe est universellement identifiable et revient souvent grâce à sa morphologie, son habitat, son comportement et les enjeux de conservation."
 ---
+
 ![Image de Girafe](https://upload.wikimedia.org/wikipedia/commons/2/2f/006_Giraffe_portrait_in_the_Lake_Manyara_National_Park_Photo_by_Giles_Laurent.jpg)
 
 ###### Questions
 
 Ce mammifère possède une langue capable de mesurer jusqu'à environ 50 cm, ce qui lui permet de saisir les branches les plus élevées des [[acacias]] dans la savane africaine.
 
-Alors que la majorité des mammifères possèdent un nombre pair de types de vertèbres cervicales, cet animal se distingue par ses sept vertèbres cervicales particulièrement allongées en 2016.
+Alors que la majorité des mammifères possèdent un nombre pair de types de vertèbres cervicales, cet animal se distingue par ses sept vertèbres cervicales particulièrement allongées en 2016. <!-- score: 7 -->
 
 Au [[XXe siècle]], cet animal est devenu un symbole de la conservation en raison de l'importante diminution de sa population estimée à près de 40 % entre 1985 et 2015.
 
