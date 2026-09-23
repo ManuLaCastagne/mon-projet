@@ -23,13 +23,14 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Grand présentateur du journal télévisé français, associé à une période marquante de TF1, à des innovations médiatiques et à des événements historiques."
 ---
+
 ![Image de Yves Mourousi ](https://upload.wikimedia.org/wikipedia/commons/4/4e/YvesMourousi-Toulouse-1983.png)
 
 ###### Questions
 
 Quel célèbre présentateur du journal de 13 heures sur [[TF1]] a été connu pour sa phrase d'introduction mémorable "Bonjour !" de [[1975]] à [[1988]] ?
 
-Quel journaliste a réalisé un interview marquant du [[Pape Jean-Paul II]] dans l'émission "[[Les Dossiers de l'écran]]" en [[1983]] ?
+Quel journaliste a réalisé un interview marquant du [[Pape Jean-Paul II]] dans l'émission "[[Les Dossiers de l'écran]]" en [[1983]] ? <!-- score: 6 -->
 
 Quel animateur a organisé un téléthon exceptionnel pour le 40e anniversaire du débarquement de [[Normandie]], en direct depuis [[Omaha Beach]] en [[1984]] ?
 
