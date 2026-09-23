@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 80
 culture_g_justification: "Régime central de l’histoire française, reliant Napoléon III, l’industrialisation, la politique extérieure et la transformation de Paris."
 ---
+
 ![Image de Second Empire](https://upload.wikimedia.org/wikipedia/commons/a/a0/Second_Empire_Victorian_house_Princeton_New_Jersey_1978_a.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel régime politique en France a été instauré après le coup d'État de [[L
 
 Sous quel régime s'est déroulé l'essor du réseau ferroviaire en France, avec la création de plus de 20 000 kilomètres de voies entre [[1852]] et [[1870]] ?  
 
-Quel régime était en place en France lors de l'[[Exposition universelle de 1867]], un événement majeur de la révolution industrielle ?
+Quel régime était en place en France lors de l'[[Exposition universelle de 1867]], un événement majeur de la révolution industrielle ? <!-- score: 7 -->
 
 ###### Description
 
