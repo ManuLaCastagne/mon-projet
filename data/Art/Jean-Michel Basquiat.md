@@ -27,13 +27,14 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Figure majeure de l’art contemporain, Basquiat revient dans les questions sur le street art, Warhol, le marché de l’art et les artistes afro-américains."
 ---
+
 ![Image de Jean-Michel Basquiat](https://upload.wikimedia.org/wikipedia/commons/d/db/Basquiat1984.tif)
 
 ###### Questions
 
 Quel artiste, ayant collaboré avec [[Andy Warhol]] dans les années 1980, a vu l'une de ses œuvres atteignant un prix record de 110,5 millions de dollars lors d'une vente aux enchères en 2017 ? 
 
-Quel ancien membre du collectif [[SAMO]] à [[New York]], connu pour ses œuvres fusionnant art abstrait et art de rue, est décédé tragiquement en 1988 à l'âge de 27 ans ?
+Quel ancien membre du collectif [[SAMO]] à [[New York]], connu pour ses œuvres fusionnant art abstrait et art de rue, est décédé tragiquement en 1988 à l'âge de 27 ans ? <!-- score: 4 -->
 
 Quel peintre et dessinateur talentueux d'origine haïtienne et portoricaine, a été le premier Afro-Américain à s'imposer sur la scène internationale de l'art contemporain dans les années 1980 ?
 
