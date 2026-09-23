@@ -23,6 +23,7 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Mystère historique et littéraire très populaire, généralement abordé autour de Louis XIV, de la Bastille et des hypothèses d’identité."
 ---
+
 ![Image de Masque de fer](https://upload.wikimedia.org/wikipedia/commons/7/74/Le_Masque_de_fer_-_Edmond_Ladoucette_%28affiche%29.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel célèbre prisonnier, souvent considéré comme un mystère historique, a �
 
 Quel personnage historique, détenu sous le règne de [[Louis XIV]], a été mentionné pour la première fois dans les mémoires de [[Voltaire]] publiés en 1751 ? 
 
-Quel prisonnier mystérieux, dont l'identité n'a jamais été confirmée, a été transporté au château d'[[If]] en 1687 sous le nom de [[Marchialy]] ?
+Quel prisonnier mystérieux, dont l'identité n'a jamais été confirmée, a été transporté au château d'[[If]] en 1687 sous le nom de [[Marchialy]] ? <!-- score: 2 -->
 
 ###### Description
 
