@@ -25,13 +25,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Artiste emblématique de l’Art nouveau, associé aux affiches de Sarah Bernhardt, à Paris, aux arts décoratifs et à l’Épopée slave."
 ---
+
 ![Image de Alfons Mucha](https://upload.wikimedia.org/wikipedia/commons/2/29/Alfons_Mucha_LOC_3c05828u.jpg)
 
 ###### Questions
 
 Quel artiste d'origine tchèque a créé en 1894 l'affiche du spectacle de [[Sarah Bernhardt]] qui a lancé sa renommée mondiale ?
 
-Quel peintre est souvent associé au style [[Art nouveau]] et a conçu les vitraux de la [[Cathédrale Saint-Guy de Prague]] en 1931 ?
+Quel peintre est souvent associé au style [[Art nouveau]] et a conçu les vitraux de la [[Cathédrale Saint-Guy de Prague]] en 1931 ? <!-- score: 3 -->
 
 Quel artiste a réalisé la série de peintures monumentales intitulée "L'Épopée slave" entre 1910 et 1928 ?
 
