@@ -4,6 +4,7 @@ culture_g_justification: "Polygone surtout rencontré dans une question de vocab
 ---
 
 
+
 ###### Questions 
 
-En géométrie, quel polygone comporte 10 000 sommets ? <!-- score: 6 -->
+En géométrie, quel polygone comporte 10 000 sommets ? <!-- score: 7 -->
