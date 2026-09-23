@@ -23,6 +23,7 @@ questions:
 culture_g_score: 72
 culture_g_justification: "Prophète biblique connu pour le char de feu et le mont Carmel, avec des liens au judaïsme, au christianisme et à l’islam."
 ---
+
 ![Image de Elie](https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans l'[[Ancien Testament]], quel prophète a été emporté au ciel dans un cha
 
 Quel prophète a défié les 450 prophètes de [[Baal]] sur le mont [[Carmel]] en prouvant la suprématie du Dieu d'Israël autour de l'année [[860 avant J.-C.]] ?
 
-Quel prophète de la Bible est censé revenir avant le [[jour du Seigneur]] selon la prophétie du Livre de [[Malachie]] ?
+Quel prophète de la Bible est censé revenir avant le [[jour du Seigneur]] selon la prophétie du Livre de [[Malachie]] ? <!-- score: 4 -->
 
 ###### Description
 
