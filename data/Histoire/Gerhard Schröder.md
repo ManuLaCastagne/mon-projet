@@ -21,13 +21,14 @@ indice_6 :
 culture_g_score: 60
 culture_g_justification: "Chancelier allemand associé à l’Agenda 2010, aux relations avec la Russie et à la transition vers Angela Merkel, mais assez spécialisé."
 ---
+
 ![Image de Gerhard Schröder](https://upload.wikimedia.org/wikipedia/commons/f/f5/Gerhard_Schr%C3%B6der_20160112_03_%28cropped%29.jpg)
 
 ###### Questions
 
 Quel est le premier chancelier allemand à participer aux commémorations du débarquement en Normandie ?
 
-Quel ancien chancelier allemand, ayant dirigé le pays de [[1998]] à [[2005]], est connu pour son implication dans l'approfondissement des relations économiques avec la [[Russie]] ?
+Quel ancien chancelier allemand, ayant dirigé le pays de [[1998]] à [[2005]], est connu pour son implication dans l'approfondissement des relations économiques avec la [[Russie]] ? <!-- score: 4 -->
 
 Quel politicien allemand, né en [[1944]] à [[Mossberg]], a joué un rôle clé dans les réformes économiques du pays à travers le programme connu sous le nom d'[[Agenda 2010]] ?
 
