@@ -26,11 +26,12 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Sérusier est un repère utile pour le mouvement nabi, Gauguin, Le Talisman et l'évolution de la peinture française moderne."
 ---
-![Image de Paul Sérusier](https://upload.wikimedia.org/wikipedia/commons/c/ce/%28Albi%29_Pommes_et_%C3%A9cuelle_bleu_%281922%29_-_Paul_S%C3%A9rusier_MTL.inv.393.jpg)
+
+![Image de Paul Sérusier](https://upload.wikimedia.org/wikipedia/commons/c/ce/%28Albi%29_Pommes_et_%C3%A9cuelle_bleu_%281922%29_-_Paul_S%C3%A9rusier_MTL.inv.393.jpg)
 
 ###### Questions
 
-Quel peintre français est célèbre pour avoir créé en 1888 une œuvre intitulée « [[Le Talisman]] » qui a été réalisée sous la direction de [[Paul Gauguin]] ?  
+Quel peintre français est célèbre pour avoir créé en 1888 une œuvre intitulée « [[Le Talisman]] » qui a été réalisée sous la direction de [[Paul Gauguin]] ? <!-- score: 2 -->
 
 Quel artiste a été un membre fondateur du mouvement artistique des [[Nabis]], groupe important dans le Paris artistique de la fin des années 1880 et du début des années 1890 ?  
 
