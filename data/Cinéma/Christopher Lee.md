@@ -25,13 +25,14 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Acteur très reconnaissable grâce à Dracula, Saruman et de nombreux rôles fantastiques, avec des prolongements musicaux et historiques."
 ---
+
 ![Image de Christopher Lee](https://upload.wikimedia.org/wikipedia/commons/5/5a/Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg)
 
 ###### Questions
 
 Quel acteur connu pour avoir incarné [[Dracula]] a également enregistré un album de heavy metal en 2010 ? 
 
-Quel grand acteur britannique, célèbre pour son rôle de [[Saruman]] dans [[Le Seigneur des Anneaux]], a tourné dans plus de 280 films avant sa mort en 2015 ?
+Quel grand acteur britannique, célèbre pour son rôle de [[Saruman]] dans [[Le Seigneur des Anneaux]], a tourné dans plus de 280 films avant sa mort en 2015 ? <!-- score: 0 -->
 
 Quel acteur a été anobli par la [[Reine Elizabeth II]] en 2009 et a travaillé comme espion pour les services secrets britanniques pendant la Seconde Guerre mondiale ?
 
