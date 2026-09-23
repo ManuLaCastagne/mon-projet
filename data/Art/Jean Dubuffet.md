@@ -26,6 +26,8 @@ questions:
 culture_g_score: 71
 culture_g_justification: "Dubuffet est un repère important de l’art brut et de l’art contemporain français, avec des œuvres, concepts et controverses identifiables."
 ---
+
+
 ![Image de Jean Dubuffet](https://upload.wikimedia.org/wikipedia/commons/b/b0/Jean_Dubuffet%2C_1960_%28cropped%29.jpg)
 
 ###### Questions
@@ -34,8 +36,7 @@ Quel artiste français, né en 1901, est connu pour avoir fondé le mouvement de
 
 Quel peintre et sculpteur a été critiqué pour sa performance artistique controversée intitulée "[[Coucou Bazar]]" en 1973, combinant des éléments de théâtre, de peinture et de musique?
 
-Quel créateur a inauguré la [[Fondation Jean Dubuffet]] en 1974, dédiée à la conservation et à l'étude de ses œuvres et de l'[[Art Brut]] dans son ensemble?
-
+Quel créateur a inauguré une fondation en 1974, dédiée à la conservation et à l'étude de ses œuvres et de l'[[Art Brut]] dans son ensemble? <!-- score: 5 -->
 ###### Description
 
 [[Jean Dubuffet]] est un artiste français, né en 1901 et décédé en 1985, reconnu pour être le fondateur de l'[[Art brut]], un mouvement qui met à l'honneur les œuvres réalisées par des personnes en dehors des circuits artistiques traditionnels. En 1942, Dubuffet abandonne provisoirement la peinture pour se consacrer à un commerce de vins à Paris, un choix étonnant pour un artiste déjà en devenir. 
