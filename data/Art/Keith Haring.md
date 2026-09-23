@@ -26,13 +26,14 @@ questions:
 culture_g_score: 68
 culture_g_justification: "Haring est une figure très identifiable du street art, avec des liens rentables vers le métro new-yorkais, l’activisme et la culture populaire."
 ---
+
 ![Image de Keith Haring](https://upload.wikimedia.org/wikipedia/commons/d/dc/Keith_Haring_%281986%29.jpg)
 
 ###### Questions
 
 Quel artiste a créé une série d'œuvres directement sur les panneaux publicitaires vides du [[métro de New York]] dans les années 1980 pour atteindre un large public ?
 
-Quel célèbre artiste a peint la fresque murale intitulée "[[Crack is Wack]]" en 1986 dans le quartier de [[Harlem 1]] à [[New York]] ?
+Quel célèbre artiste a peint la fresque murale intitulée "[[Crack is Wack]]" en 1986 dans le quartier de [[Harlem 1]] à [[New York]] ? <!-- score: 2 -->
 
 Qui a ouvert le [[Pop Shop]] en 1986 afin de rendre son art accessible au grand public tout en vendant des produits dérivés tels que des t-shirts et des affiches ?
 
