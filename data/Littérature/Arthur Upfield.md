@@ -21,13 +21,14 @@ indice_6 :
 culture_g_score: 27
 culture_g_justification: "Arthur Upfield est un auteur policier reconnu dans un cadre restreint, mais très rarement mobilisé dans les quiz francophones généralistes."
 ---
+
 ![Image de Arthur Upfield](https://upload.wikimedia.org/wikipedia/commons/a/af/Arthur_Upfield.jpg)
 
 ###### Questions
 
 Quel auteur a créé le personnage de détective [[Napoléon Bonaparte]] dans une série de romans qui mêle intrigues policières et descriptions du bush australien ? 
 
-Quel écrivain, né en [[1890]], est connu pour avoir influencé la police australienne avec un procédé fictif de destruction de preuves dans son livre [[The Sands of Windee]] ? 
+Quel écrivain, né en [[1890]], est connu pour avoir influencé la police australienne avec un procédé fictif de destruction de preuves dans son livre [[The Sands of Windee]] ? <!-- score: 4 -->
 
 Quel auteur britannique, ayant vécu en [[Australie]], est célèbre pour ses romans policiers décrivant les paysages australiens dans les années [[1920]] et [[1930]] ?
 
