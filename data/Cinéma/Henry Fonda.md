@@ -24,13 +24,14 @@ culture_g_score: 100
 culture_g_justification: "Immense acteur américain associé à plusieurs classiques majeurs, dont Les Raisins de la colère, 12 Hommes en colère et Il était une fois dans l’Ouest."
 ---
 
+
 ![Image de Henry Fonda](https://upload.wikimedia.org/wikipedia/commons/0/0c/Henry_Fonda_in_Warlock.jpg)
 
 ###### Questions
 
 Dans le film de [[Sergio Leone]] "[[Il était une fois dans l'Ouest]]", quel acteur incarne Frank, bandit loin des personnages qu'il avait l'habitude de jouer ?
 
-En 1981, quel acteur a remporté l'[[Oscar du meilleur acteur]] pour sa performance dans le film [[On Golden Pond]] ou [[La Maison du Lac]] ? <!-- score: 2 -->
+En 1981, quel acteur a remporté l'[[Oscar du meilleur acteur]] pour sa performance dans le film [[On Golden Pond]] ou [[La Maison du Lac]] ? <!-- score: 3 -->
 
 Dans un film de 1940, co-réalisé par [[John Ford]], qui joue le rôle principal de [[Tom Joad]] ? <!-- score: 5 -->
 
