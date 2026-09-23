@@ -18,16 +18,13 @@ questions:
 culture_g_score: 81
 culture_g_justification: "Dinosaure mondialement emblématique, fréquemment associé à ses trois cornes, au Crétacé et au Tyrannosaure."
 ---
-![Image de Tricératops](https://upload.wikimedia.org/wikipedia/commons/2/26/TriceratopsFernForest.jpg)
+
+
+![Image de Tricératops](https://upload.wikimedia.org/wikipedia/commons/2/26/TriceratopsFernForest.jpg)
 
 ###### Questions
 
-Quel dinosaure, dont le nom signifie [[Tricératops]], a vécu à la fin du [[Crétacé]] il y a environ 68 à 66 millions d'années en Amérique du Nord ? 
-
-Quel célèbre dinosaure se distingue par ses trois cornes et sa collerette osseuse, souvent représenté dans les médias aux côtés du [[Tyrannosaurus]] ? 
-
-Quel dinosaure herbivore, découvert pour la première fois en [[1887]] par [[Othniel Charles Marsh]], était l'un des derniers dinosaures non aviaires avant l'extinction massive ?
-
+Quel dinosaure herbivore, découvert pour la première fois en [[1887]] par [[Othniel Charles Marsh]], était l'un des derniers dinosaures non aviaires avant l'extinction massive, et possède 3 cornes? <!-- score: 5 -->
 ###### Description
 
 Le [[Tricératops]] est l'un des dinosaures herbivores les plus emblématiques de la fin du Crétacé, vivant il y a environ 68 à 66 millions d'années sur ce qui est aujourd'hui l'Amérique du Nord. 
