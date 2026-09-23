@@ -25,6 +25,7 @@ indice_6 :
 culture_g_score: 88
 culture_g_justification: "Capitale très connue, associée aux prix Nobel, aux Jeux olympiques, à la Suède et à de nombreux repères culturels."
 ---
+
 ![Image de Stockholm](https://upload.wikimedia.org/wikipedia/commons/9/99/Stockholm_August_2020_-_Kastellet%2C_Vasa_Museum%2C_and_Nordic_Museum.jpg)
 
 ![[Carte_Stockholm.png]]
@@ -34,7 +35,7 @@ Quelle ville a accueilli les [[Jeux olympiques]] d'été de 1912 où furent intr
 
 Quelle ville est associée au syndrome psychologique identifié pour la première fois en 1973 lors d'une prise d'otages dans une banque ?
 
-Dans quelle ville le [[Prix Nobel de la paix]] est-il officiellement remis chaque année ?
+Dans quelle ville le [[Prix Nobel de la paix]] est-il officiellement remis chaque année ? <!-- score: 8 -->
 
 ###### Description
 
