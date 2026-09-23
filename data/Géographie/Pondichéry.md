@@ -27,14 +27,15 @@ questions:
 culture_g_score: 71
 culture_g_justification: "Ancien comptoir français très utile pour l’histoire coloniale, l’Inde et la culture franco-indienne, mais d’une fréquence modérée."
 ---
-![Image de Pondichéry](https://upload.wikimedia.org/wikipedia/commons/4/47/En-us-Puducherry.oga)
 
-![[Carte_Pondichéry.png]]
+![Image de Pondichéry](https://upload.wikimedia.org/wikipedia/commons/4/47/En-us-Puducherry.oga)
+
+![[Carte_Pondichéry.png]]
 ###### Questions
 
 Quelle ville indienne, ancien comptoir français jusqu'en 1954, a été intégrée à l'Union indienne cette année-là ? 
 
-Quelle destination, célèbre pour ses boulevards et bâtiments d'architecture typiquement française, est située sur la côte sud-est de l'[[Inde]] en bordure de la [[Baie de Bengale]] ?    
+Quelle destination, célèbre pour ses boulevards et bâtiments d'architecture typiquement française, est située sur la côte sud-est de l'[[Inde]] en bordure de la [[Baie de Bengale]] ? <!-- score: 2 -->
 
 Quel ancien établissement colonial est reconnu pour abriter l'[[Sri Aurobindo Ashram]], fondé en 1926 par le philosophe [[Sri Aurobindo]] et [[Mirra Alfassa]] ?
 
