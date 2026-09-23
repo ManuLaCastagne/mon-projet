@@ -21,6 +21,8 @@ indice_6:
 culture_g_score: 60
 culture_g_justification: "Journaliste et défenseur français de la cause animale, régulièrement associé à la télévision animalière et à la LPO."
 ---
+
+
 ![Image de Allain Bougrain-Dubourg](https://upload.wikimedia.org/wikipedia/commons/9/98/Allain_Bougrain-Dubourg%2C_2012_%28cropped%29.jpg)
 
 ###### Questions
@@ -29,12 +31,7 @@ Qui a interviewé, pour une série d'émissions dans les années 80, [[Brigitte 
 
 Qui a présenté "[[Terres des bêtes]]" et "[[Animalia]]" ?
 
-Dans quelle émission environnementale créée en [[1984]] [[Allain Bougrain-Dubourg]] a-t-il sensibilisé le public à la protection des animaux sur [[Antenne 2]] ?  
-
 Quel célèbre défenseur des animaux a réalisé une série de documentaires intitulée "[[La Nuit des éléphants]]" diffusée sur [[France 3]] en [[2004]] ?  
-
-Quel journaliste a été nommé président de la [[Ligue pour la protection des oiseaux]] ([[LPO]]) en [[1986]], promouvant les droits et la préservation des oiseaux sauvages en [[France]] ? <!-- score: 4 -->
-
 ###### Description
 
 [[Allain Bougrain-Dubourg]] est un réalisateur et animateur français né en [[1948]] à [[Boulogne-Billancourt]], surtout connu pour son engagement en faveur de la protection de la nature. 
