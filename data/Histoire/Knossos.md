@@ -23,11 +23,12 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Knossos relie archéologie, civilisation minoenne, Crète, mythologie du Minotaure et monde égéen, ce qui en fait un site très rentable."
 ---
+
 ![Image de Knossos](https://upload.wikimedia.org/wikipedia/commons/0/04/The_%22cup_bearer%22_fresco_Knossos_Heraklion_museum_Crete_Greece.jpg)
 
 ###### Questions
 
-Quelle ancienne ville située sur l'île de [[Crète]] est connue pour avoir été le centre de la civilisation [[minoenne]] et abritait un palais découvert en 1900 par l'archéologue [[Arthur Evans]] ?
+Quelle ancienne ville située sur l'île de [[Crète]] est connue pour avoir été le centre de la civilisation [[minoenne]] et abritait un palais découvert en 1900 par l'archéologue [[Arthur Evans]] ? <!-- score: 4 -->
 
 Quel site historique, occupé depuis le [[Néolithique]], est célèbre pour son labyrinthe associé au [[Minotaure]], un des éléments mythologiques liés à cette cité ?
 
