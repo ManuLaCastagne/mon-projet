@@ -25,16 +25,15 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Film fondateur de l’image de Brigitte Bardot et de la mythologie de Saint-Tropez, avec une forte portée historique et culturelle."
 ---
+
+
 ![Image de Et Dieu](https://cine-images.com/wp-content/uploads/2022/06/et-dieu-crea-la-femme-photo-exp-1.jpg)
 
 ###### Questions
 
-Quelle actrice révélée par le film [[Et Dieu… créa la femme]] en 1956 avait seulement **22 ans** lors du tournage et est devenue une icône mondiale du glamour ?
-  
-Quelle personnalité française a contribué malgré elle à faire de [[Saint-Tropez]] une destination touristique internationale grâce au succès d’un film tourné en 1956 ?
+Quel film a contribué malgré lui à faire de [[Saint-Tropez]] une destination touristique internationale grâce au succès en 1956 ? <!-- score: 5 -->
 
 Quel symbole de la liberté féminine des années 1950 a joué dans un film interdit aux moins de 18 ans à sa sortie en 1956, un record pour un film non pornographique français ? 
-
 ###### Description
 
 Et Dieu… créa la femme est un film réalisé par [[Roger Vadim]] et sorti en 1956, qui a marqué un tournant dans l’histoire du cinéma français en lançant la carrière internationale de [[Brigitte Bardot]].
