@@ -23,6 +23,7 @@ indice_6:
 culture_g_score: 88
 culture_g_justification: "Figure majeure de la Renaissance italienne, fréquemment reliée à Venise, Charles Quint, la peinture de cour et plusieurs nus célèbres."
 ---
+
 ![Image de Le Titien](https://upload.wikimedia.org/wikipedia/commons/9/9f/Mus%C3%A9e_Ingres-Bourdelle_-_Pers%C3%A9e_d%C3%A9livrant_Androm%C3%A8de_-_Le_Titien_-_Joconde06070000262.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ Dans quel tableau peint par [[Le Titien]] en 1538, la figure féminine représen
 
 Quel artiste, né en 1490, a été nommé peintre officiel de la [[République de Venise]] en 1516, succédant ainsi à [[Giovanni Bellini]] ?
 
-En 1548, quel peintre a été invité par [[Charles Quint]], [[Empereur du Saint-Empire romain germanique]], pour réaliser un célèbre portrait équestre de l'empereur à [[Mühlberg]] ?
+En 1548, quel peintre a été invité par [[Charles Quint]], [[Empereur du Saint-Empire romain germanique]], pour réaliser un célèbre portrait équestre de l'empereur à [[Mühlberg]] ? <!-- score: 2 -->
 
 ###### Description
 
