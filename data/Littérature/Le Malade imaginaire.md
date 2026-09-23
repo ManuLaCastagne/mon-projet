@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 97
 culture_g_justification: "Comédie emblématique de Molière, très fréquemment questionnée pour Argan, la médecine, la mort de l’auteur et la comédie-ballet."
 ---
+
 ![Image de Le Malade imaginaire](https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Malade_imaginaire.jpg)
 
 ###### Questions
 
-Quelle pièce est une comédie-ballet en trois actes représentée en 1673 et la dernière comédie écrite par Molière ? <!-- score: 4 -->
+Quelle pièce est une comédie-ballet en trois actes représentée en 1673 et la dernière comédie écrite par Molière ? <!-- score: 3 -->
 
 Dans quelle pièce de [[Molière]] représentée pour la première fois en [[1673]], le personnage principal, [[Argan]], simule-t-il la maladie pour attirer l'attention de son entourage ?
 
