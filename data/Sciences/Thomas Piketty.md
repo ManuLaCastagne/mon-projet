@@ -23,13 +23,14 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Économiste français connu pour ses travaux sur les inégalités, mais ses questions restent principalement liées à un ouvrage et à la macroéconomie."
 ---
+
 ![Image de Thomas Piketty](https://upload.wikimedia.org/wikipedia/commons/1/19/Thomas_Piketty2.jpg)
 
 ###### Questions
 
 Quel économiste français est l'auteur du livre publié en [[2013]], intitulé "[[Le Capital au XXIe siècle]]", qui analyse les inégalités économiques ?
 
-Qui a cofondé, en [[2000]], la revue française d'économie "[[Les Économistes Atterrés]]" pour traiter des questions de politique économique ?
+Qui a cofondé, en [[2000]], la revue française d'économie "[[Les Économistes Atterrés]]" pour traiter des questions de politique économique ? <!-- score: 2 -->
 
 Quel professeur à l'[[École des hautes études en sciences sociales]] et à l'[[École d'économie de Paris]] est reconnu pour ses travaux sur la répartition des richesses à l'âge de 18 ans de [[2006]] ?
 
