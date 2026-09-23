@@ -23,13 +23,14 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Épreuve olympique ancienne, liée à la Grèce antique, au Discobole et à l’athlétisme moderne."
 ---
+
 ![Image de Lancer de disque](https://upload.wikimedia.org/wikipedia/commons/d/d7/No%C3%ABl_%28lancer_de_disque%2C_athl%C3%A9tisme_%C3%A0_Stamford_Bridge_%29_%28CN%29_-_btv1b53231860j.jpg)
 
 ###### Questions
 
 Quel sport a été pratiqué lors des premiers [[Jeux Olympiques modernes]] en [[1896]] à [[Athènes]], où le concours était ouvert aux athlètes amateurs masculins uniquement ?
 
-Quel sport a inspiré une célèbre statue grecque antique sculptée par [[Myron]] vers [[450 avant J.-C.]], qui est considérée comme un chef-d'œuvre de la représentation du mouvement ?
+Quel sport a inspiré une célèbre statue grecque antique sculptée par [[Myron]] vers [[450 avant J.-C.]], qui est considérée comme un chef-d'œuvre de la représentation du mouvement ? <!-- score: 4 -->
 
 Quel sport est mentionné dans le [[Discobole]] de [[Cambridge]], un document controversé de [[1907]] affirmant que l'artiste a conçu l'œuvre en étudiant les mouvements athlétiques ?
 
