@@ -26,13 +26,14 @@ questions:
 culture_g_score: 40
 culture_g_justification: "Écrivain contemporain connu surtout pour Le Zèbre et quelques activités publiques, il offre un rendement généraliste limité."
 ---
+
 ![Image de Alexandre Jardin](https://upload.wikimedia.org/wikipedia/commons/d/d3/Alexandre_Jardin_2013_crop.jpg)
 
 ###### Questions
 
 Quel écrivain français, auteur de la série de livres ''[[Le Zèbre]]'', a remporté le Prix Femina en 1988 ?
 
-Quel réalisateur a adapté son propre roman en film en 1999 sous le titre ''[[Le Prof]]'' ?
+Quel réalisateur a adapté son propre roman en film en 1999 sous le titre ''[[Le Prof]]'' ? <!-- score: 4 -->
 
 Quel auteur français a fondé en 2012 le mouvement citoyen [[Bleu Blanc Zèbre]] pour repenser l'action civique en France ?
 
