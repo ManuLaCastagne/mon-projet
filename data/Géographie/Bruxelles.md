@@ -25,12 +25,13 @@ indice_6 :
 culture_g_score: 100
 culture_g_justification: "Bruxelles est une capitale incontournable, à la fois centre européen et belge, riche en institutions, histoire, patrimoine, gastronomie et culture."
 ---
+
 ![Image de Bruxelles](https://upload.wikimedia.org/wikipedia/commons/e/e0/Royal_Palace_in_Brussels.JPG)
 
 ![[Carte_Bruxelles.png]]
 ###### Questions
 
-Dans quelle capitale européenne, connue pour être le siège de l'[[Union européenne]], peut-on découvrir le célèbre [[Manneken Pis]] ?
+Dans quelle capitale européenne, connue pour être le siège de l'[[Union européenne]], peut-on découvrir le célèbre [[Manneken Pis]] ? <!-- score: 9 -->
 
 En 1998, quelle ville a été déclarée la capitale européenne de la gastronomie, notamment pour ses célèbres [[gaufres]] et [[chocolats]] ?
 
