@@ -22,6 +22,7 @@ culture_g_score: 84
 culture_g_justification: "Groupe fondateur du heavy metal, fréquemment cité pour Ozzy Osbourne, Paranoid et l’histoire du rock."
 ---
 
+
 ![Image de Black Sabbath](https://upload.wikimedia.org/wikipedia/commons/d/dc/Black_Sabbath_%281970%29.png)
 
 ###### Questions
@@ -30,7 +31,7 @@ A quel groupe de hard-rock britannique, mené par John [[Ozzy Osbourne]], doit-o
 
 Quel groupe est considéré comme l'un des pionniers du [[heavy metal]] avec la sortie de leur premier album éponyme en 1970 ?
 
-Quel groupe créé en 1968 à [[Birmingham]], en [[Angleterre]], a influencé des générations de musiciens avec des titres tels que "Paranoid" et "Iron Man" ?
+Quel groupe créé en 1968 à [[Birmingham]], en [[Angleterre]], a influencé des générations de musiciens avec des titres tels que "Paranoid" et "Iron Man" ? <!-- score: 4 -->
 
 Quel groupe de rock a vu le célèbre [[Ozzy Osbourne]] être leur chanteur principal jusqu'à son départ initial en 1979 ?
 
