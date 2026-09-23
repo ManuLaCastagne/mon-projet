@@ -21,13 +21,14 @@ indice_6 :
 culture_g_score: 67
 culture_g_justification: "Titre lié à plusieurs figures et à la rivalité franco-bourguignonne, mais nécessitant des connaissances médiévales assez spécialisées."
 ---
+
 ![Image de Duc de Bourgogne](https://upload.wikimedia.org/wikipedia/commons/d/d0/Launching_of_the_French_ship%22_Duc_de_Bourgogne%22_%281752%29.jpg)
 
 ###### Questions
 
 Quel titre portait [[Philippe le Bon]], né en [[1396]], qui a signé le [[traité d'Arras]] en [[1435]] mettant fin à la guerre entre [[Bourgogne]] et France ?
 
-Quel titre était porté par [[Charles le Téméraire]], qui a vu les [[territoires de Bourgogne]] s'étendre jusqu'aux [[Pays-Bas]] avant sa mort en [[1477]], marquant la fin de l'indépendance [[bourguignonne]] ?
+Quel titre était porté par [[Charles le Téméraire]], qui a vu les [[territoires de Bourgogne]] s'étendre jusqu'aux [[Pays-Bas]] avant sa mort en [[1477]], marquant la fin de l'indépendance [[bourguignonne]] ? <!-- score: 8 -->
 
 Quel titre prestigieux fut détenu par [[Jean sans Peur]], assassiné sur le [[pont de Montereau]] en [[1419]], ayant joué un rôle clé dans la guerre civile entre [[Armagnacs]] et [[Bourguignons]] ?
 
