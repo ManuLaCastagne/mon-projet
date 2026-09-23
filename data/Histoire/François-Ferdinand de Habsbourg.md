@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 92
 culture_g_justification: "Son assassinat à Sarajevo constitue un indice et un repère absolument classiques sur le déclenchement de la Première Guerre mondiale."
 ---
+
 ![Image de François-Ferdinand de Habsbourg]()
 
 ###### Questions
 
-Quel héritier présomptif de l'[[empereur François-Joseph]] a été assassiné lors d'une visite officielle à [[Sarajevo]] le 28 juin 1914, événement déclencheur de la [[Première Guerre mondiale]] ?
+Quel héritier présomptif de l'[[empereur François-Joseph]] a été assassiné lors d'une visite officielle à [[Sarajevo]] le 28 juin 1914, événement déclencheur de la [[Première Guerre mondiale]] ? <!-- score: 1 -->
 
 Quel archiduc, né à [[Graz]] en 1863, était marié morganatiquement avec [[Sophie Chotek]] et fut victime d'un attentat en [[Bosnie-Herzégovine]] ?
 
