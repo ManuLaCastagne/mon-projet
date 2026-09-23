@@ -25,16 +25,13 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Quotidien largement connu en France, mais moins central dans les quiz de culture générale que les journaux de référence nationaux."
 ---
+
+
 ![Image de Le Parisien (journal)](https://upload.wikimedia.org/wikipedia/commons/4/41/Le_Parisien.jpg)
 
 ###### Questions
 
 Quel journal, initialement fondé sous le nom de [[Le Parisien libéré]], a été créé en 1944 après la libération de [[Paris]] pour répondre aux besoins d'information de la population française ? <!-- score: 6 -->
-
-Quel quotidien, connu aujourd'hui sous le nom de [[Le Parisien]], a remporté en 2016 le [[Prix Albert Londres de la presse écrite]] pour un reportage sur les attentats du [[13 novembre 2015]] à Paris ?
-
-Quel journal, qui a débuté en tant que support régional francilien, est devenu en 1986 la première publication française à lancer une édition nationale sous le nom de [[Aujourd'hui en France]] mais continue d'être intimement lié à son édition originale, [[Le Parisien]] ?
-
 ###### Description
 
 Le journal [[Le Parisien]], fondé en 1944, est un quotidien français de référence qui couvre essentiellement les actualités locales et nationales. 
