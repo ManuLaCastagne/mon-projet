@@ -25,6 +25,7 @@ questions:
 culture_g_score: 51
 culture_g_justification: "Écrivain engagé, dramaturge et critique d’art intéressant pour plusieurs références, mais relativement secondaire dans les quiz généralistes."
 ---
+
 ![Image de Octave Mirbeau](https://upload.wikimedia.org/wikipedia/commons/9/96/Octave_Mirbeau_portrait.jpg)
 
 ###### Questions
@@ -35,7 +36,7 @@ Quel écrivain français a critiqué ouvertement la société au travers de son 
 
 Quel auteur est connu pour avoir écrit la pièce de théâtre [[Les Affaires sont les affaires]], qui a été créée pour la première fois en 1903 au [[Théâtre-Français]] ?
 
-Quel journaliste et critique d'art français a contribué à populariser l'œuvre de [[Vincent van Gogh]] en rédigeant de nombreux articles à son sujet à la fin du [[XIXe siècle]] ?
+Quel journaliste et critique d'art français a contribué à populariser l'œuvre de [[Vincent van Gogh]] en rédigeant de nombreux articles à son sujet à la fin du [[XIXe siècle]] ? <!-- score: 2 -->
 
 ###### Description
 
