@@ -21,13 +21,14 @@ indice_6:
 culture_g_score: 60
 culture_g_justification: "Film reconnu pour Paul Verhoeven et Isabelle Huppert, avec des liens utiles vers la littérature, le cinéma français et les récompenses."
 ---
+
 ![Image de Elle (Verhoeven)](https://upload.wikimedia.org/wikipedia/commons/2/2d/Paul_Verhoeven%2C_%22Elle%22_Amsterdam_premiere_%282%29.jpg)
 
 ###### Questions
 
 Dans quel film de [[Paul Verhoeven]], sorti en [[2016]], [[Isabelle Huppert]] joue-t-elle le rôle principal d'une femme puissante à la tête d'une entreprise de jeux vidéo ?
 
-Quel est le titre du film adapté du roman de [[Philippe Djian]] "Oh..." par Paul Verhoeven en 2016 ?
+Quel est le titre du film adapté du roman de [[Philippe Djian]] "Oh..." par Paul Verhoeven en 2016 ? <!-- score: 3 -->
 
 ###### Description
 
