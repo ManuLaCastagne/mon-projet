@@ -23,6 +23,7 @@ indice_6:
 culture_g_score: 43
 culture_g_justification: "Projet musical lié à Deep Purple et à plusieurs vedettes du hard rock, mais trop spécifique pour une forte priorité généraliste."
 ---
+
 ![Image de Roger Glover & Guests](https://upload.wikimedia.org/wikipedia/commons/2/27/Love_is_all_in_Brazil.jpg)
 
 
@@ -32,7 +33,7 @@ Quel groupe chante "[[Love is All]]" en 1975, composé par le guitariste de Deep
 
 Quel groupe formé par [[Roger Glover]] a sorti l'album [[The Butterfly Ball and the Grasshopper's Feast]] en 1974 ?
 
-Quel projet musical de [[Roger Glover]] inclut la participation de [[Ronnie James Dio]], célèbre chanteur de [[Rainbow]] et [[Black Sabbath]] ?
+Quel projet musical de [[Roger Glover]] inclut la participation de [[Ronnie James Dio]], célèbre chanteur de [[Rainbow]] et [[Black Sabbath]] ? <!-- score: 4 -->
 
 En 1974, quel est le nom du projet collectif dirigé par [[Roger Glover]] qui a accueilli des artistes comme [[David Coverdale]] et [[Glenn Hughes]] pour une performance audio adaptée d'un poème pour enfants ?
 
