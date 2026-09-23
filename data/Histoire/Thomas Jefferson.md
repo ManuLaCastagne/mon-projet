@@ -25,13 +25,14 @@ questions:
 culture_g_score: 92
 culture_g_justification: "Père fondateur des États-Unis, auteur de la Déclaration d’indépendance et président lié à la Louisiane, à l’architecture et à l’exploration."
 ---
+
 ![Image de Thomas Jefferson](https://upload.wikimedia.org/wikipedia/commons/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg)
 
 ###### Questions
 
 Quel homme politique, Président des Etats-Unis de 1801 à 1809, a propagé le néoclassicisme en tant qu'architecte amateur, à Charlottesville ?
 
-Quel [[Président des États-Unis]], également principal rédacteur de la [[Déclaration d'indépendance]], a acheté la [[Louisiane]] à la France en [[1803]] ?
+Quel [[Président des États-Unis]], également principal rédacteur de la [[Déclaration d'indépendance]], a acheté la [[Louisiane]] à la France en [[1803]] ? <!-- score: 1 -->
 
 Quel homme politique a fondé l'[[Université de Virginie]] en [[1819]], devenant ainsi un pionnier de l'enseignement supérieur aux [[États-Unis]] ?
 
