@@ -18,6 +18,7 @@ questions:
 culture_g_score: 60
 culture_g_justification: "Très grand poisson d’eau douce régulièrement évoqué pour sa taille, ses introductions et ses comportements étonnants."
 ---
+
 ![Image de Silure](https://upload.wikimedia.org/wikipedia/commons/7/75/Clarias_gariepinus.jpg)
 
 ###### Questions
@@ -26,7 +27,7 @@ Quel genre de poisson a été repéré en 2018, mesurant plus de deux mètres, d
 
 Quel animal aquatique a causé une surprise en 2014 en Italie en sautant hors de l'eau pour attraper des pigeons au [[lac de Padoue]] ?
 
-Quel poisson d'eau douce est connu dans le folklore européen sous le nom de "monstre du [[Loch Ness]] français" ?
+Quel poisson d'eau douce est connu dans le folklore européen sous le nom de "monstre du [[Loch Ness]] français" ? <!-- score: 3 -->
 
 ###### Description
 
