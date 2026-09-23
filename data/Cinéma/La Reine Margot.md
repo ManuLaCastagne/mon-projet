@@ -25,11 +25,12 @@ questions:
 culture_g_score: 71
 culture_g_justification: "Film français reconnu, intéressant à la croisée du cinéma, de Dumas et de l'histoire des guerres de Religion."
 ---
+
 ![Image de La Reine Margot](https://upload.wikimedia.org/wikipedia/commons/5/5f/La_Reine_Margot_%281914%29.jpg)
 
 ###### Questions
 
-Quel film réalisé par [[Patrice Chéreau]] en 1994 s'inspire du roman historique d'[[Alexandre Dumas]] et raconte une période tumultueuse de l'histoire de France sous le règne de [[Charles IX]] ?
+Quel film réalisé par [[Patrice Chéreau]] en 1994 s'inspire du roman historique d'[[Alexandre Dumas]] et raconte une période tumultueuse de l'histoire de France sous le règne de [[Charles IX]] ? <!-- score: 3 -->
 
 Quel film, ayant remporté le [[Prix du Jury]] au Festival de Cannes en 1994, met en scène l'actrice [[Isabelle Adjani]] dans le rôle titre ?
 
