@@ -21,7 +21,8 @@ indice_6:
 culture_g_score: 80
 culture_g_justification: "Mercator est un classique des questions de cartographie, de géographie, de navigation et de Renaissance."
 ---
-![Image de Gérard Mercator](https://upload.wikimedia.org/wikipedia/commons/f/f7/Mercator.jpg)
+
+![Image de Gérard Mercator](https://upload.wikimedia.org/wikipedia/commons/f/f7/Mercator.jpg)
 
 ###### Questions
 
@@ -29,7 +30,7 @@ Quel mathématicien et géographe a laissé son nom à un système de projection
 
 Quel mathématicien et cartographe flamand a créé une projection cartographique en 1569 qui porte aujourd'hui son nom et facilite la navigation maritime en représentant les lignes de loxodromie comme des lignes droites ?
 
-Quel est le nom du savant de la Renaissance qui a introduit, en 1554, le terme de "projection équatoriale" dans le domaine de la cartographie et a réalisé l'une des premières cartes du monde basées sur ce concept ?
+Quel est le nom du savant de la Renaissance qui a introduit, en 1554, le terme de "projection équatoriale" dans le domaine de la cartographie et a réalisé l'une des premières cartes du monde basées sur ce concept ? <!-- score: 8 -->
 
 Qui a été le premier à utiliser le terme de "[[Atlas (géographie)|Atlas]]" pour désigner un recueil de cartes géographiques dans son ouvrage publié en 1595 ?
 
