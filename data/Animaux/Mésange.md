@@ -18,16 +18,13 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Oiseau commun associé à l’apprentissage social, à l’écologie et aux observations comportementales classiques."
 ---
-![Image de Mésange](https://upload.wikimedia.org/wikipedia/commons/3/31/M%C3%A9sange_bleue_DSCF6722.jpg)
+
+
+![Image de Mésange](https://upload.wikimedia.org/wikipedia/commons/3/31/M%C3%A9sange_bleue_DSCF6722.jpg)
 
 ###### Questions
 
-Quel oiseau a été le premier à être observé ouvrant les bouchons de bouteilles de lait en [[Angleterre]] dans les années [[1920]] ? 
-
-Quel oiseau, souvent utilisé comme exemple dans les études de biologie sur l'apprentissage social, a démontré sa capacité à cacher et retrouver des graines, prouvant une mémoire spatiale avancée ?
-
-Quel oiseau chanteur, présent en [[Europe]] et en [[Asie]], est capable d'imiter le cri des rapaces pour effrayer les prédateurs potentiels ?
-
+Quel oiseau a été le premier à être observé ouvrant les bouchons de bouteilles de lait en [[Angleterre]] dans les années [[1920]] et a donné son nom à un Pokémon inspiré de ce pays ? <!-- score: 5 -->
 ###### Description
 
 La mésange est un petit oiseau appartenant à la famille des [[Paridés]]. 
