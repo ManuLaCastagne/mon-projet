@@ -25,6 +25,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Réalisateur et producteur français associé à plusieurs succès populaires, à EuropaCorp et à des films très quizables."
 ---
+
 ![Image de Luc Besson](https://upload.wikimedia.org/wikipedia/commons/8/81/Luc_Besson_by_Gage_Skidmore.jpg)
 
 ###### Questions
@@ -33,7 +34,7 @@ culture_g_justification: "Réalisateur et producteur français associé à plusi
 
 Quel réalisateur a dirigé le film culte [[Le Cinquième Élément]] sorti en 1997, mettant en vedette [[Bruce Willis]] et [[Milla Jovovich]] ?
 
-Quel réalisateur et producteur est connu pour le film d'animation [[Arthur et les Minimoys]] sorti en 2006 ?
+Quel réalisateur et producteur est connu pour le film d'animation [[Arthur et les Minimoys]] sorti en 2006 ? <!-- score: 8 -->
 
 ###### Description
 
