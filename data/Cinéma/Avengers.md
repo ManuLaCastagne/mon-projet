@@ -31,7 +31,7 @@ culture_g_justification: "Premier grand rassemblement Marvel, fréquemment inter
 
 Dans quel film de 2012 réalisé par [[Joss Whedon]] voit-on l'assemblage pour la première fois des super-héros comme [[Iron Man]], [[Thor]], et [[Hulk]] dans une bataille contre [[Loki]]?
 
-En 2012, dans quel film avec [[Robert Downey Jr]] et [[Scarlett Johansson]] des superhéros s'unissent-ils pour sauver la planète?
+En 2012, dans quel film avec [[Robert Downey Jr.]] et [[Scarlett Johansson]] des superhéros s'unissent-ils pour sauver la planète?
 
 Quel long-métrage de l'univers cinématographique [[Marvel]] a battu des records au box-office mondial en 2012, atteignant plus de 1,5 milliard de dollars de recettes?
 

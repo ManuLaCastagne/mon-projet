@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Samuel L. Jackson.md",
+                "file": "Architecture/Palais Bourbon.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Samuel L. Jackson.md",
+                "file": "Architecture/Palais Bourbon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samuel L. Jackson"
+              "title": "Palais Bourbon"
             }
           }
         ],
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinéma/Samuel L. Jackson.md",
+                "file": "Architecture/Palais Bourbon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -350,8 +350,14 @@
   },
   "active": "9b57f3dbad8e3e93",
   "lastOpenFiles": [
-    "Cinéma/Les Huit Salopards.md",
+    "Architecture/quai d’Orsay.md",
+    "Architecture/Palais Bourbon.md",
+    "Cinéma/Robert Downey Jr..md",
+    "Cinéma/Tony Stark.md",
     "Cinéma/Samuel L. Jackson.md",
+    "Cinéma/Nick Fury.md",
+    "Culture générale/S.H.I.E.L.D..md",
+    "Cinéma/Les Huit Salopards.md",
     "Anatomie/Myologie.md",
     "Culture générale/Sans titre 4.base",
     "Culture générale/Sans titre 3.base",
@@ -372,11 +378,6 @@
     "Géographie/Charleville.md",
     "Géographie/Charleville-Mézières.md",
     "Géographie/Caen.md",
-    "Culture générale/Georges Izambard.md",
-    "Musique/Olivier Messaien.md",
-    "Musique/Bono.md",
-    "Histoire/Lady Diana.md",
-    "Cinéma/Die Hard.md",
     "Culture générale/Sans titre 2.base",
     "attachments/Pasted image 20260917201129.png",
     "attachments/Carte_16e arrondissement (Paris).png",

@@ -23,7 +23,7 @@ tags:
 
 [[Tom Cruise]]  
 [[Johnny Depp]]  
-[[Robert Downey Jr]]  
+[[Robert Downey Jr.]]  
 [[Christopher Nolan]]  
 [[Alfred Hitchcock]]  
 [[Stanley Kubrick]]  

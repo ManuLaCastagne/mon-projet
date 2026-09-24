@@ -41,6 +41,6 @@ Dans quelle œuvre cinématographique le personnage incarné par [[Jamie Foxx]] 
 
 Basé sur une histoire vraie, il met en lumière la rencontre entre le journaliste [[Steve Lopez]] et le musicien sans-abri [[Nathaniel Ayers]], un ancien étudiant prodige de [[Juilliard]]. 
 
-L'acteur [[Jamie Foxx]] incarne Nathaniel Ayers avec une performance captivante, tandis que [[Robert Downey Jr]] joue le rôle de Steve Lopez, offrant une dynamique puissante à l'écran. 
+L'acteur [[Jamie Foxx]] incarne Nathaniel Ayers avec une performance captivante, tandis que [[Robert Downey Jr.]] joue le rôle de Steve Lopez, offrant une dynamique puissante à l'écran. 
 
 Le film a été inspiré par les articles publiés par Steve Lopez dans le [[Los Angeles Times]], qui ont contribué à sensibiliser le public aux conditions des sans-abri à Los Angeles.

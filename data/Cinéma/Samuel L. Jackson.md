@@ -20,8 +20,6 @@ indice_5:
   - Star Wars
 indice_6:
   - filmographie impressionnante
-questions:
-  - Quel acteur afro-américain né en 1948, a tourné dans de nombreux films de Quentin Tarantino, notamment dans "Jackie Brown" et "Les Huit Salopards"?
 culture_g_score: 96
 culture_g_justification: Même référence que Samuel L. Jackson, incontournable par Pulp Fiction, Marvel, son immense filmographie et ses records au box-office.
 ---
@@ -31,7 +29,7 @@ culture_g_justification: Même référence que Samuel L. Jackson, incontournable
 
 ###### Questions
 
-Qui joue dans l'univers cinématographique de [[Marvel]] pour la première fois en 2008 en tant que as [Nick Fury](https://en.wikipedia.org/wiki/Nick_Fury_\(Marvel_Cinematic_Universe\) "Nick Fury (Marvel Cinematic Universe)"), director of S.H.I.E.L.D. dans le film [[Iron Man]] ? <!-- score: 5 -->
+Qui joue dans l'univers cinématographique de [[Marvel]] pour la première fois en 2008 en tant que [[Nick Fury]], le directeur de [[S.H.I.E.L.D.]] dans le film [[Iron Man]] ? <!-- score: 5 -->
 
 Quel acteur afro-américain né en 1948, a tourné dans de nombreux films de Quentin Tarantino, notamment dans "[[Jackie Brown]]" et "[[Les Huit Salopards]]" ?
 ###### Description

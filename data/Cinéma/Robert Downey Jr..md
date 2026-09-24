@@ -29,8 +29,6 @@ culture_g_justification: "Vedette mondiale grâce à Iron Man et Marvel, mais au
 
 Quel acteur a été nominé pour un [[Oscar]] pour sa performance dans [[Chaplin (film)]] en 1992 ?
 
-Quel acteur a été classé parmi les 100 personnes les plus influentes au monde par [[Time]] en 2008 ? <!-- score: 10 -->
-
 Quel acteur a interprété [[Tony Stark]] dans le film [[Iron Man]], qui a lancé le [[Marvel Cinematic Universe]] en 2008 ?
 
 ###### Description
