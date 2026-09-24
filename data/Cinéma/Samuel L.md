@@ -25,16 +25,13 @@ questions:
 culture_g_score: 96
 culture_g_justification: "Même référence que Samuel L. Jackson, incontournable par Pulp Fiction, Marvel, son immense filmographie et ses records au box-office."
 ---
+
+
 ![Image de Samuel L](https://upload.wikimedia.org/wikipedia/commons/d/d5/Samuel_L._Jackson_-_Your_Action_Saves_Lives.ogv)
 
 ###### Questions
 
-Dans quel film de [[Quentin Tarantino]] de 1994 [[Samuel L. Jackson]] interprète-t-il le personnage de [[Jules Winnfield]] ?
-
-En quelle année [[Samuel L. Jackson]] est-il entré dans le [[Livre Guinness des records]] pour être l'acteur dont les films ont généré le plus de revenus cumulés au box-office mondial ?
-
-Quel rôle emblématique [[Samuel L. Jackson]] joue-t-il dans l'univers cinématographique de [[Marvel]], apparaissant pour la première fois en 2008 dans le film [[Iron Man]] ?
-
+Qui joue dans l'univers cinématographique de [[Marvel]] pour la première fois en 2008 dans le film [[Iron Man]] ? <!-- score: 5 -->
 ###### Description
 
 [[Samuel L. Jackson]], acteur emblématique du [[cinéma]] américain, a été découvert par le public dans les années 1990 grâce à ses rôles marquants dans des films tels que [[Pulp Fiction]] en 1994, réalisé par [[Quentin Tarantino]]. 
