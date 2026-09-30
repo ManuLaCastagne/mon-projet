@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 60
 culture_g_justification: "Dessinateur d’Astérix depuis 2013, identifiable grâce à une franchise très fréquente, mais restant une figure contemporaine spécialisée."
 ---
+
 ![Image de Didier Conrad](https://upload.wikimedia.org/wikipedia/commons/8/81/Didier_Conrad_-_Lucca_Comics_%26_Games_2015.JPG)
 
 ###### Questions
 
-Quel dessinateur, ayant repris les aventures d'[[Astérix]] à partir de [[2013]], a également travaillé sur le film d'animation [[Astérix: Le Domaine des dieux]] ?
+Quel dessinateur, ayant repris les aventures d'[[Astérix]] à partir de [[2013]], a également travaillé sur le film d'animation [[Astérix: Le Domaine des dieux]] ? <!-- score: 4 -->
 
 Quel auteur de bande dessinée, né en [[1959]] à [[Marseille]], est connu pour avoir collaboré sur la série [[Les Innommables]] avec [[Jean-Yves Ferri]] ? <!-- score: 5 -->
 
