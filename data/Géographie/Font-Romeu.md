@@ -27,12 +27,13 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Station pyrénéenne connue surtout pour les sports d’hiver et quelques particularités scientifiques ou sportives assez spécialisées."
 ---
+
 ![Image de Font-Romeu](https://upload.wikimedia.org/wikipedia/commons/2/24/Font-Romeu-Odeillo-Via_%2866%29.JPG)
 
 ![[Carte_Font-Romeu.png]]
 ###### Questions
 
-Dans quelle station de sports d'hiver des [[Pyrénées]] françaises a été installée en 1967 la première installation de production de neige artificielle en [[Europe]] ?
+Dans quelle station de sports d'hiver des [[Pyrénées]] françaises a été installée en 1967 la première installation de production de neige artificielle en [[Europe]] ? <!-- score: 4 -->
 
 Quel village de la région [[Occitanie]], abritant le Centre National d'Entraînement en Altitude (CNEA) pour les athlètes français, est situé à une altitude de [[1 800 mètres]] ?
 
