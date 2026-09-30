@@ -23,6 +23,7 @@ indice_6:
 culture_g_score: 64
 culture_g_justification: "Actrice française primée et associée à plusieurs films marquants, avec une notoriété renforcée par son retrait du cinéma."
 ---
+
 ![Image de Adèle Haenel](https://upload.wikimedia.org/wikipedia/commons/c/cd/MERCI_ADELE_HAENEL.jpg)
 
 ###### Questions
@@ -35,7 +36,7 @@ Quel deux fois lauréate du [[César de la meilleure actrice]] pour ses rôles d
 
 Quelle actrice française a débuté sa carrière à l'âge de 12 ans dans le film [[Les Diables]] réalisé par [[Christophe Ruggia]] en 2002, avant de remporter plusieurs César ? 
 
-Qui a été l'une des figures de proue du mouvement [[#MeToo]] en France en 2019, notamment après avoir dénoncé publiquement des comportements inappropriés dans le milieu cinématographique lors des [[César 2020]] ?
+Qui a été l'une des figures de proue du mouvement [[#MeToo]] en France en 2019, notamment après avoir dénoncé publiquement des comportements inappropriés dans le milieu cinématographique lors des [[César 2020]] ? <!-- score: 3 -->
 
 ###### Description
 
