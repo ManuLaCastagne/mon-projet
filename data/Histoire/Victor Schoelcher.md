@@ -23,6 +23,7 @@ questions:
 culture_g_score: 73
 culture_g_justification: "Repère important de l’abolition de l’esclavage en France, souvent interrogé avec 1848, les colonies et la Seconde République."
 ---
+
 ![Image de Victor Schoelcher](https://upload.wikimedia.org/wikipedia/commons/1/14/Cayenne_Victor_Schoelcher_statue_by_Louis-Ernest_Barrias.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel homme politique et abolitionniste français a joué un rôle majeur dans l'
 
 Quel député de [[la Martinique]] et de [[la Guadeloupe]] était célèbre pour son action en faveur de la fin de l'esclavage au XIXe siècle ?
 
-Qui a signé le décret abolissant l'esclavage dans les colonies françaises le 27 avril [[1848]] ?
+Qui a signé le décret abolissant l'esclavage dans les colonies françaises le 27 avril [[1848]] ? <!-- score: 1 -->
 
 ###### Description
 
