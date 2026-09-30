@@ -28,12 +28,13 @@ questions:
 culture_g_score: 44
 culture_g_justification: "La Tour Magne est un vestige romain significatif, mais nettement moins fréquent et transversal que les grands monuments antiques."
 ---
+
 ![Image de Tour Magne](https://upload.wikimedia.org/wikipedia/commons/7/73/281_Tour_Magne_NIM_1008.jpg)
 
 ![[Carte_Tour Magne.png]]
 ###### Questions
 
-Quelle structure construite en [[16 av. J.-C.]], située sur les hauteurs de [[Nîmes]], faisait à l'origine partie des fortifications de la cité ?
+Quelle structure construite en [[16 av. J.-C.]], située sur les hauteurs de [[Nîmes]], faisait à l'origine partie des fortifications de la cité ? <!-- score: 4 -->
 
 Quel monument, aujourd'hui célèbre pour sa vue spectaculaire, fut érigé à la demande de l'empereur [[Auguste]] pour renforcer les défenses de la ville romaine ?
 
