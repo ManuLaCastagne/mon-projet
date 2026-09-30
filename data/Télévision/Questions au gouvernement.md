@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 80
 culture_g_justification: "Rendez-vous institutionnel récurrent, utile pour les questions sur le Parlement, le gouvernement et le fonctionnement politique français."
 ---
+
 ![Image de Questions au gouvernement](https://upload.wikimedia.org/wikipedia/commons/6/67/Nathalie_Delattre_Questions_au_Gouvernement.jpg)
 
 ###### Questions
 
-Quel programme, diffusé pour la première fois en [[1981]], permet aux députés français de questionner directement le gouvernement à l'Assemblée nationale ?
+Quel programme, diffusé pour la première fois en [[1981]], permet aux députés français de questionner directement le gouvernement à l'Assemblée nationale ? <!-- score: 4 -->
 
 Quel rendez-vous télévisé, introduit en [[France]] par [[Pierre Desgraupes]] sur [[Antenne 2]], offre un espace pour le débat démocratique entre parlementaires et membres du [[gouvernement français]] ?
 
