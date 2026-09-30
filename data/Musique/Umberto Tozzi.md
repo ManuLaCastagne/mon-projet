@@ -25,16 +25,15 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Chanteur italien très associé à Ti amo et à ses adaptations internationales, mais avec une transversalité relativement musicale."
 ---
+
+
 ![Image de Umberto Tozzi](https://upload.wikimedia.org/wikipedia/commons/3/34/Umberto_Tozzi_Wiener_Stadtfest_2014_08_%28cropped%29.jpg)
 
 ###### Questions
 
-Quelle chanson de [[Umberto Tozzi]], sortie en 1977, est devenue internationale grâce à une reprise de [[Laura Branigan]] en 1982 ?
-
 Quel célèbre artiste italien a remporté le [[Festival de Sanremo]] en 1987 avec la chanson "Si può dare di più" en collaboration avec [[Gianni Morandi]] et [[Enrico Ruggeri]] ?
 
 Quel chanteur, auteur de la célèbre chanson "[[Ti Amo]]", a vu son titre adapté en [[français]] par [[Dalida]] en 1979 sous le nom de "Je t'aime" ?
-
 ###### Description
 
 [[Umberto Tozzi]] est un chanteur et compositeur italien né le 4 mars 1952 à [[Turin]]. 
