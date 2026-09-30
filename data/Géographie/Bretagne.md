@@ -25,11 +25,12 @@ indice_6 :
 culture_g_score: 88
 culture_g_justification: "La Bretagne est une référence incontournable des quiz francophones, mobilisable en histoire, géographie, culture, légendes, gastronomie et patrimoine."
 ---
+
 ![[Carte_Bretagne.png]]
 
 ###### Questions
 
-Quelle région française possède une côte de granit rose, située principalement entre [[Perros-Guirec]] et [[Trébeurden]] ? <!-- score: 4 -->
+Quelle région française possède une côte de granit rose, située principalement entre [[Perros-Guirec]] et [[Trébeurden]] ? <!-- score: 6 -->
 
 Où trouve-t-on la plus grande forêt d'[[Armorique]], la forêt de [[Paimpont]], souvent associée aux légendes arthuriennes et à la forêt de [[Brocéliande]] ?
 
