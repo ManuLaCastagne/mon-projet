@@ -16,11 +16,12 @@ indice_6 :
   - coefficient de marée
 ---
 
+
 ![Image de Vive-eau](https://upload.wikimedia.org/wikipedia/commons/f/fc/Espace_Eau_Vive_de_l%27Isle_de_la_Serre_2.jpg)
 
 ###### Questions
 
-Quel est le terme utilisé pour désigner le niveau de la mer pendant la marée haute, notamment dans certains ouvrages maritimes tels que [[Le François]] et les cartes marines de [[l'Ingénieur Hydrographe]] ?  
+Quel est le terme utilisé pour désigner le niveau de la mer pendant la marée haute, notamment dans certains ouvrages maritimes tels que [[Le François]] et les cartes marines de [[l'Ingénieur Hydrographe]] ? <!-- score: 4 -->
 
 Comment appelle-t-on la situation marine où l'eau atteint son plus haut niveau, souvent enregistrée au marégraphe, durant les périodes de pleine ou de nouvelle lune pendant la [[syzygie]] ?  
 
