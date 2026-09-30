@@ -21,11 +21,12 @@ indice_6 :
 culture_g_score: 32
 culture_g_justification: "Miss France 1998 et animatrice occasionnelle, connue mais peu centrale dans la culture générale télévisuelle."
 ---
+
 ![Image de Sophie Thalmann](https://upload.wikimedia.org/wikipedia/commons/3/3b/Sophie_Thalmann_2013_2.jpg)
 
 ###### Questions
 
-Quelle [[Miss France]] a dit a [[Jean-Pierre Foucault]] qu'elle allait prendre sa place à la TV ? <!-- score: 5 -->
+Quelle [[Miss France]] a dit a [[Jean-Pierre Foucault]] qu'elle allait prendre sa place à la TV ? <!-- score: 4 -->
 
 Quelle Miss France 1998 a présenté "Combien ça coûte ?" diffusée sur [[TF1]] ?
 ###### Description
