@@ -26,6 +26,7 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Chorégraphe fondamental du ballet classique, directement relié à plusieurs ballets célèbres, à la Russie impériale et au répertoire mondial."
 ---
+
 ![Image de Marius Petipa](https://upload.wikimedia.org/wikipedia/commons/f/fe/Marius_Petipa_-1898.jpg)
 
 ###### Questions
@@ -34,7 +35,7 @@ Quel chorégraphe a largement contribué à l'âge d'or du [[Ballet Impérial Ru
 
 Quel danseur français, né en 1818, s'est installé en [[Russie]] pour y devenir maître de ballet en chef du [[Théâtre Mariinsky]] à [[Saint-Pétersbourg]] ?
 
-Quel artiste est à l'origine de la production de plus de 50 ballets dont [[La Bayadère]] en 1877, marquant un tournant dans l'histoire du [[ballet classique]] ?
+Quel artiste est à l'origine de la production de plus de 50 ballets dont [[La Bayadère]] en 1877, marquant un tournant dans l'histoire du [[ballet classique]] ? <!-- score: 3 -->
 
 ###### Description
 
