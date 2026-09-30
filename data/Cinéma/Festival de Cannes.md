@@ -3,12 +3,11 @@ culture_g_score: 100
 culture_g_justification: "Institution mondiale du cinéma, mobilisable par son histoire, ses récompenses, ses personnalités, ses films et son influence culturelle."
 ---
 
+
+
 ###### Questions
 
 Quel festival de cinéma a été fondé en 1946 par Jean Zay ?
-
-Quel festival devait avoir lieu en **1939**, mais a été annulée à cause du déclenchement de la Seconde Guerre mondiale ?
-
 ###### Description
 
 Le **festival de Cannes** a été fondé en 1946. Son principal initiateur est **[[Jean Zay]]**, ministre de l’Éducation nationale et des Beaux-Arts en France dans les années 1930. Il a eu l’idée de créer un festival international du film pour concurrencer la Mostra de Venise, dont les prix étaient de plus en plus influencés par les régimes fascistes.
