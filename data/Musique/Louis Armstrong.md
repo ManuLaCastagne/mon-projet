@@ -21,13 +21,14 @@ indice_6 :
 culture_g_score: 100
 culture_g_justification: "Icône mondiale du jazz, incontournable pour la trompette, le scat, La Nouvelle-Orléans, les standards et l'histoire de la musique populaire."
 ---
+
 ![Image de Louis Armstrong](https://upload.wikimedia.org/wikipedia/commons/0/0e/Louis_Armstrong_restored.jpg)
 
 ###### Questions
 
 Quel musicien a popularisé la chanson « [[What a Wonderful World]] » sortie en [[1967]] ?
 
-Quel trompettiste américain a fait ses débuts professionnels en [[1918]] à l'âge de 16 ans avec le célèbre groupe de [[King Oliver]] ? <!-- score: 6 -->
+Quel trompettiste américain a fait ses débuts professionnels en [[1918]] à l'âge de 16 ans avec le célèbre groupe de [[King Oliver]] ? <!-- score: 4 -->
 
 Quel artiste surnommé « [[Satchmo]] » est né à [[La Nouvelle-Orléans]] en [[1901]] ?
 
