@@ -23,13 +23,14 @@ questions:
 culture_g_score: 84
 culture_g_justification: "Défaite d’Hannibal face à Scipion, repère majeur de la deuxième guerre punique et de l’expansion romaine."
 ---
+
 ![Image de Bataille de Zama](https://upload.wikimedia.org/wikipedia/commons/2/2e/La_Bataille_de_Zama_Jules_Romain_1688_1690.jpg)
 
 ###### Questions
 
 Dans quelle bataille célèbre de [[202 av. J.-C.]] les troupes de [[Scipion l'Africain]] ont-elles vaincu celles de [[Hannibal]], mettant fin à la [[deuxième guerre punique]] ?
 
-Quelle bataille a abouti à la défaite décisive de [[Carthage]] face à [[Rome]], marquant le début de la suprématie romaine en [[Méditerranée occidentale]] ?
+Quelle bataille a abouti à la défaite décisive de [[Carthage]] face à [[Rome]], marquant le début de la suprématie romaine en [[Méditerranée occidentale]] ? <!-- score: 1 -->
 
 Quel événement historique majeur a eu lieu en [[Afrique du Nord]], où [[Scipion l'Africain]] a triomphé d'[[Hannibal Barca]] en 202 av. J.-C. ?
 
