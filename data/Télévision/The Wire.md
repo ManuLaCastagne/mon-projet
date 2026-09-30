@@ -23,6 +23,7 @@ questions:
 culture_g_score: 83
 culture_g_justification: "Série majeure de HBO, souvent citée parmi les meilleures de l’histoire et riche en angles politiques, sociaux, urbains et cinématographiques."
 ---
+
 ![Image de The Wire](https://upload.wikimedia.org/wikipedia/commons/e/e0/Birds_on_the_wire_-_crop.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Dans quelle série télévisée, diffusée pour la première fois en [[2002]], l
 
 Quel programme télévisé acclamé, se déroulant dans la ville de [[Baltimore]], est connu pour son exploration approfondie des institutions américaines, y compris le trafic de drogue, la bureaucratie, et le système scolaire, et a été diffusé sur [[HBO]] de [[2002]] à [[2008]] ?
 
-Dans quelle série dramatique, considérée comme l'une des meilleures de tous les temps, [[Idris Elba]] incarne-t-il le personnage de [[Stringer Bell]], mettant en lumière les complexités du monde criminel à travers les cinq saisons de diffusion de [[2002]] à [[2008]] ?
+Dans quelle série dramatique, considérée comme l'une des meilleures de tous les temps, [[Idris Elba]] incarne-t-il le personnage de [[Stringer Bell]], mettant en lumière les complexités du monde criminel à travers les cinq saisons de diffusion de [[2002]] à [[2008]] ? <!-- score: 3 -->
 
 ###### Description
 
