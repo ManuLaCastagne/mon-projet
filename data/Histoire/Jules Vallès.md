@@ -21,7 +21,8 @@ indice_6:
 culture_g_score: 63
 culture_g_justification: "Jules Vallès permet de relier littérature, journalisme et Commune de Paris, mais reste une figure secondaire face aux grands écrivains français."
 ---
-![Image de Jules Vallès](https://upload.wikimedia.org/wikipedia/commons/4/4d/Jules_Vall%C3%A8s_%282%29.jpg)
+
+![Image de Jules Vallès](https://upload.wikimedia.org/wikipedia/commons/4/4d/Jules_Vall%C3%A8s_%282%29.jpg)
 
 ###### Questions
 
@@ -31,7 +32,7 @@ Quel écrivain et journaliste a fondé le journal révolutionnaire [[Le Cri du P
 
 Quel acteur clé de la [[Commune de Paris]] a écrit « L'Enfant », un roman autobiographique publié en [[1879]] qui évoque son enfance difficile sous le [[Second Empire]] ?
 
-Quel membre de la [[Première Internationale]] s'est exilé à [[Londres]] après la répression de la [[Commune de Paris]] et est revenu en France seulement après l'amnistie de [[1880]] ?
+Quel membre de la [[Première Internationale]] s'est exilé à [[Londres]] après la répression de la [[Commune de Paris]] et est revenu en France seulement après l'amnistie de [[1880]] ? <!-- score: 4 -->
 
 ###### Description
 
