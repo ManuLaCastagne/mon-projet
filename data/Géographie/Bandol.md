@@ -27,12 +27,13 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Station balnéaire française connue pour son vin, mais dont les possibilités de questions restent assez limitées."
 ---
+
 ![Image de Bandol](https://upload.wikimedia.org/wikipedia/commons/6/69/Bandol_vu_des_calanques_le_soir_en_%C3%A9t%C3%A9.jpg)
 
 ![[Carte_Bandol.png]]
 ###### Questions
 
-Quelle ville française, célèbre pour ses vins à l'appellation d'origine contrôlée depuis 1941, est située sur la côte méditerranéenne dans le [[département du Var]] ?
+Quelle ville française, célèbre pour ses vins à l'appellation d'origine contrôlée depuis 1941, est située sur la côte méditerranéenne dans le [[département du Var]] ? <!-- score: 6 -->
 
 Quel port de plaisance, se trouvant entre [[Marseille]] et [[Toulon]], est renommé pour ses plages et ses activités nautiques, attirant les touristes depuis le XIXe siècle ?
 
