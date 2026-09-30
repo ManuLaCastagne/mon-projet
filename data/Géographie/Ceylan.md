@@ -27,12 +27,13 @@ questions:
 culture_g_score: 64
 culture_g_justification: "Ancien nom très connu du Sri Lanka, utile en géographie, histoire coloniale et culture du thé, mais moins fréquent aujourd’hui."
 ---
+
 ![Image de Ceylan](https://upload.wikimedia.org/wikipedia/commons/b/ba/Tea_plantation_Sri.jpg)
 
 ![[Carte_Ceylan.png]]
 ###### Questions
 
-Quelle était l'ancienne dénomination de [[Sri Lanka]] jusqu'en 1972 ?
+Quelle était l'ancienne dénomination de [[Sri Lanka]] jusqu'en 1972 ? <!-- score: 8 -->
 
 En [[quelle année]] le thé de [[Ceylan]] a-t-il été présenté pour la première fois à l'exposition universelle de [[Paris]] ?
 
