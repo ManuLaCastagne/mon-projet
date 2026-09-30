@@ -21,6 +21,7 @@ indice_6 :
 culture_g_score: 72
 culture_g_justification: "L'anglicanisme est un courant chrétien important pour comprendre la Réforme anglaise, Henri VIII, l'Église d'Angleterre et l'histoire britannique."
 ---
+
 ![Image de Anglicanisme](https://upload.wikimedia.org/wikipedia/commons/9/96/Gate_Beijing_Anglican_Church.jpg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Quel courant religieux a été fondé en [[1534]] par une séparation de l'[[Ég
 
 À quel mouvement religieux appartient la [[Communion anglicane]], qui compte environ [[85 millions]] de fidèles à travers le monde?
 
-Quel courant chrétien inclut des églises originaires de la Réforme anglaise, telle que l'[[Église d'Angleterre]]?
+Quel courant chrétien inclut des églises originaires de la Réforme anglaise, telle que l'[[Église d'Angleterre]]? <!-- score: 4 -->
 
 ###### Description
 
