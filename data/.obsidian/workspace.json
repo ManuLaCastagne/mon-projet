@@ -13,12 +13,12 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Révolution de velours.md",
+                "file": "Télévision/Michaël Gregorio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
-                  "localBacklinks": false,
+                  "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
@@ -163,40 +163,39 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 1.1020380446324098,
+                  "scale": 1.103013479581718,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphe local"
+              "title": "Graphique de Michaël Gregorio"
             }
           },
           {
-            "id": "9b57f3dbad8e3e93",
+            "id": "b3f1a0221f6d5019",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Frises/Scores Culture G.base",
+                "viewName": "Tableau"
+              },
+              "icon": "lucide-table",
+              "title": "Scores Culture G"
+            }
+          },
+          {
+            "id": "fdbd2c929de35281",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Marius Petipa.md",
+                "file": "Télévision/Michaël Gregorio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marius Petipa"
-            }
-          },
-          {
-            "id": "71252c55d9d4b291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Histoire/Révolution de velours.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Révolution de velours"
+              "title": "Michaël Gregorio"
             }
           }
         ],
@@ -219,10 +218,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -234,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pignon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb69aeffa85077",
@@ -323,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoire/Révolution de velours.md",
+                "file": "Musique/Manureva.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Manureva"
             }
           },
           {
@@ -362,49 +360,50 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "71252c55d9d4b291",
+  "active": "028c50878b1df9c9",
   "lastOpenFiles": [
-    "Histoire/Vaclav Havel.md",
-    "Histoire/Jules Vallès.md",
-    "Géographie/Ceylan.md",
-    "Géographie/Sri Jayawardenepura Kotte.md",
-    "Cinéma/Festival de Cannes.md",
-    "Cinéma/Adèle Haenel.md",
-    "Géographie/Paimpont.md",
-    "Géographie/Bretagne.md",
-    "Cinéma/Portrait de la jeune fille en feu.md",
     "attachments/Pasted image 20261002105739.png",
     "attachments/Pasted image 20261002105737.png",
-    "Géographie/Montreuil.md",
-    "Botanique/Dormance.md",
-    "Art/Marius Petipa.md",
-    "Musique/La Bayadère.md",
     "Musique/Piotr Ilitch Tchaïkovski.md",
+    "Musique/La Bayadère.md",
+    "Géographie/Sri Jayawardenepura Kotte.md",
+    "Géographie/Paimpont.md",
+    "Géographie/Montreuil.md",
     "Architecture/Théâtre Mariinsky.md",
-    "Histoire/Bataille de Zama.md",
-    "Histoire/Scipion l'Africain.md",
-    "Architecture/Palais Bourbon.md",
-    "Architecture/quai d’Orsay.md",
-    "Cinéma/Robert Downey Jr..md",
-    "Cinéma/Tony Stark.md",
-    "Cinéma/Samuel L. Jackson.md",
-    "Cinéma/Nick Fury.md",
-    "Culture générale/S.H.I.E.L.D..md",
-    "Cinéma/Les Huit Salopards.md",
-    "Anatomie/Myologie.md",
     "Culture générale/Sans titre 4.base",
     "Culture générale/Sans titre 3.base",
-    "Culture générale/Sans titre 2.base",
-    "attachments/Pasted image 20260917201129.png",
-    "attachments/Carte_16e arrondissement (Paris).png",
-    "attachments/Pasted image 20260905165459.png",
+    "Culture générale/S.H.I.E.L.D..md",
+    "Cinéma/Tony Stark.md",
+    "Cinéma/Robert Downey Jr..md",
+    "Cinéma/Nick Fury.md",
+    "Cinéma/Les Huit Salopards.md",
+    "Architecture/quai d’Orsay.md",
+    "Architecture/Palais Bourbon.md",
+    "Animaux/Chacal.md",
+    "Littérature/Reine Margot.md",
+    "Télévision/Michaël Gregorio.md",
+    "Littérature/Alexandre Dumas.md",
+    "Littérature/Le Comte de Monte-Cristo.md",
     "Frises/Scores Culture G.base",
+    "Littérature/Arthur Rimbaud.md",
+    "Géographie/Charleville.md",
+    "Géographie/Charleville-Mézières.md",
+    "Culture générale/Georges Izambard.md",
+    "Littérature/Je est un autre.md",
+    "Littérature/Don Quichotte.md",
+    "Littérature/Dulcinée.md",
+    "Frises/Base de données n°1.base",
+    "attachments/Pasted image 20260917201129.png",
+    "Culture générale/Sans titre 2.base",
+    "attachments/Pasted image 20260905165459.png",
     "attachments/Pasted image 20260905165455.png",
     "attachments/Pasted image 20260905164728.png",
     "attachments/Pasted image 20260904174035.png",
-    "Frises/Base de données n°1.base",
+    "Frises/Notes.base",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
+    "attachments/Pasted image 20260804075735.png",
+    "attachments/Pasted image 20260804075442.png",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
     "Sans titre.canvas"
