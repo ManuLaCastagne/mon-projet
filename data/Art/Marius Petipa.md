@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Art
   - Marseille
   - Années_1840
@@ -9,22 +9,20 @@ date:
   - 1818/03/11
 debut: 1818
 fin: 1910
-indice_1 : 
+indice_1:
   - La Bayadère
-indice_2 : 
+indice_2:
   - Ballet classique
-indice_3 : 
+indice_3:
   - Tchaïkovski
-indice_4 : 
+indice_4:
   - Russie
-indice_5 : 
+indice_5:
   - Chorégraphe français
-indice_6 : 
+indice_6:
   - Ballet impérial russe
-questions:
- - De 1869 à 1904, quel danseur et chorégraphe français fut maître de ballet au Théâtre impérial de Saint-Pétersbourg ?
 culture_g_score: 84
-culture_g_justification: "Chorégraphe fondamental du ballet classique, directement relié à plusieurs ballets célèbres, à la Russie impériale et au répertoire mondial."
+culture_g_justification: Chorégraphe fondamental du ballet classique, directement relié à plusieurs ballets célèbres, à la Russie impériale et au répertoire mondial.
 ---
 
 ![Image de Marius Petipa](https://upload.wikimedia.org/wikipedia/commons/f/fe/Marius_Petipa_-1898.jpg)
@@ -35,11 +33,13 @@ Quel chorégraphe a largement contribué à l'âge d'or du [[Ballet Impérial Ru
 
 Quel danseur français, né en 1818, s'est installé en [[Russie]] pour y devenir maître de ballet en chef du [[Théâtre Mariinsky]] à [[Saint-Pétersbourg]] ?
 
+De 1869 à 1904, quel danseur et chorégraphe français fut maître de ballet au Théâtre impérial de Saint-Pétersbourg ?
+
 Quel artiste est à l'origine de la production de plus de 50 ballets dont [[La Bayadère]] en 1877, marquant un tournant dans l'histoire du [[ballet classique]] ? <!-- score: 3 -->
 
 ###### Description
 
-[[Marius Petipa]], chorégraphe français de renom, a profondément influencé le monde du ballet au cours du XIXe siècle, en travaillant principalement au [[Théâtre Mariinsky]] de [[Saint-Pétersbourg]].
+[[Marius Petipa]], chorégraphe français de renom né à [[Marseille]], a profondément influencé le monde du ballet au cours du XIXe siècle, en travaillant principalement au [[Théâtre Mariinsky]] de [[Saint-Pétersbourg]].
 
 Né en 1818, Petipa a orchestré plus de cinquante ballets, dont des chefs-d'œuvre tels que [[La Belle au bois dormant]] en 1890 et [[Casse-Noisette]] en collaboration avec [[Lev Ivanov]] en 1892.
 

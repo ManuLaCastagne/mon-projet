@@ -4,6 +4,7 @@ tags:
   - Paris_France
   - Années_2010
   - XXIe
+  - Certifié
 date:
   - 1989/01/01
 debut: 1989
@@ -21,10 +22,10 @@ indice_5:
 indice_6:
   - actrice franco-allemande
 culture_g_score: 64
-culture_g_justification: "Actrice française primée et associée à plusieurs films marquants, avec une notoriété renforcée par son retrait du cinéma."
+culture_g_justification: Actrice française primée et associée à plusieurs films marquants, avec une notoriété renforcée par son retrait du cinéma.
 ---
 
-![Image de Adèle Haenel](https://upload.wikimedia.org/wikipedia/commons/c/cd/MERCI_ADELE_HAENEL.jpg)
+![Image de Adèle Haenel](https://upload.wikimedia.org/wikipedia/commons/7/78/Ad%C3%A8le_Haenel_Cannes_2017.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 ###### Questions
 
@@ -34,13 +35,13 @@ Qui jouait en 2019 le rôle d'Héloïse dans "Portrait de la jeune fille en feu"
 
 Quel deux fois lauréate du [[César de la meilleure actrice]] pour ses rôles dans [[Les Combattants]] (2014) et [[Portrait de la jeune fille en feu]] (2019) a annoncé en 2020 qu'elle ne souhaitait plus travailler dans l'industrie cinématographique traditionnelle ? <!-- score: 3 -->
 
-Quelle actrice française a débuté sa carrière à l'âge de 12 ans dans le film [[Les Diables]] réalisé par [[Christophe Ruggia]] en 2002, avant de remporter plusieurs César ? 
+Quelle actrice française a débuté sa carrière à l'âge de 12 ans dans le film [[Les Diables]] réalisé par [[Christophe Ruggia]] en 2002 soupçonné, avant de remporter plusieurs César ? 
 
 Qui a été l'une des figures de proue du mouvement [[#MeToo]] en France en 2019, notamment après avoir dénoncé publiquement des comportements inappropriés dans le milieu cinématographique lors des [[César 2020]] ? <!-- score: 3 -->
 
 ###### Description
 
-[[Adèle Haenel]] est une actrice française née en 1989. Elle a fait ses débuts au cinéma à l'âge de douze ans dans le film [[Les Diables]] de [[Christophe Ruggia]] sorti en 2002. 
+[[Adèle Haenel]] est une actrice française née en 1989 à [[Montreuil]]. Elle a fait ses débuts au cinéma à l'âge de douze ans dans le film [[Les Diables]] de [[Christophe Ruggia]] sorti en 2002. 
 
 Sa carrière a été couronnée de succès, notamment avec deux César : celui de la meilleure actrice dans un second rôle en 2014 pour [[Suzanne]] et celui de la meilleure actrice en 2015 pour [[Les Combattants]]. 
 

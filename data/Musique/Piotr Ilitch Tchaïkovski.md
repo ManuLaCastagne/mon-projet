@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Musique
   - Russie
   - Années_1870
@@ -8,24 +8,22 @@ date:
   - 1840/05/07
 debut: 1840
 fin: 1893
-indice_1 : 
+indice_1:
   - Le Lac des cygnes
-indice_2 : 
+indice_2:
   - Symphonie Pathétique
-indice_3 : 
+indice_3:
   - Casse-noisette
-indice_4 : 
+indice_4:
   - Concerto pour piano n°1
-indice_5 : 
+indice_5:
   - Roméo et Juliette
-indice_6 : 
+indice_6:
   - Ouverture 1812
-questions:
- - Quel compositeur russe s'est inspiré du conte "La Belle au bois dormant" pour la création d'un ballet...
 culture_g_score: 97
-culture_g_justification: "Compositeur mondialement célèbre, ses ballets, œuvres symphoniques et liens avec la littérature offrent de nombreux points d'entrée classiques."
+culture_g_justification: Compositeur mondialement célèbre, ses ballets, œuvres symphoniques et liens avec la littérature offrent de nombreux points d'entrée classiques.
 ---
-![Image de Piotr Illitch Tchaïkovski]()
+![Image de Piotr Illitch Tchaïkovski](https://upload.wikimedia.org/wikipedia/commons/0/02/Tchaikowsky.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 ###### Questions
 
@@ -37,7 +35,7 @@ Quel compositeur a assisté à la première représentation de sa [[Symphonie «
 
 ###### Description
 
-[[Piotr Illitch Tchaïkovski]], compositeur russe né en 1840 et mort en 1893, est l'un des plus grands noms de la musique classique russe et internationale. 
+[[Piotr Ilitch Tchaïkovski]], compositeur russe né en 1840 et mort en 1893, est l'un des plus grands noms de la musique classique russe et internationale. 
 
 Il est célèbre pour ses ballets [[Le Lac des cygnes]], [[Casse-Noisette]] et [[La Belle au bois dormant]], qui continuent de captiver les publics du monde entier. 
 

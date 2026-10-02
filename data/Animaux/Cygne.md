@@ -22,7 +22,7 @@ culture_g_justification: "Oiseau universellement reconnaissable, fortement prés
 
 Quel grand oiseau est dit « tuberculé » ?
 
-Quel animal a inspiré l'œuvre de ballet emblématique créée par [[Piotr Illitch Tchaïkovski]] en [[1877]] ? <!-- score: 5 -->
+Quel animal a inspiré l'œuvre de ballet emblématique créée par [[Piotr Ilitch Tchaïkovski]] en [[1877]] ? <!-- score: 5 -->
 
 Quel oiseau est connu pour son long cou élancé et a inspiré le célèbre mythe raconté par [[Hans Christian Andersen]] en [[1843]], intitulé "Le vilain petit canard" ?
 

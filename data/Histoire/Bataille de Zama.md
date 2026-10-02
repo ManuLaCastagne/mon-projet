@@ -1,27 +1,25 @@
 ---
-tags: 
+tags:
   - Histoire
   - Afrique_du_Nord
   - Années_-200
   - IIe_avant_JC
 debut: -202
 fin: -202
-indice_1 : 
+indice_1:
   - Rome contre Carthage
-indice_2 : 
+indice_2:
   - 202 av. J.-C.
-indice_3 : 
+indice_3:
   - Scipion l'Africain
-indice_4 : 
+indice_4:
   - Hannibal
-indice_5 : 
+indice_5:
   - Afrique du Nord
-indice_6 : 
+indice_6:
   - Deuxième guerre punique
-questions:
- - En 202 avant J.-C., quelle bataille, longtemps indécise, remportée par Scipion l'Africain sur Hannibal Lecter, mit fin...
 culture_g_score: 84
-culture_g_justification: "Défaite d’Hannibal face à Scipion, repère majeur de la deuxième guerre punique et de l’expansion romaine."
+culture_g_justification: Défaite d’Hannibal face à Scipion, repère majeur de la deuxième guerre punique et de l’expansion romaine.
 ---
 
 ![Image de Bataille de Zama](https://upload.wikimedia.org/wikipedia/commons/2/2e/La_Bataille_de_Zama_Jules_Romain_1688_1690.jpg)
