@@ -26,11 +26,9 @@ culture_g_justification: "Dissident, dramaturge et président, Havel relie litt�
 
 ###### Questions
 
-Quel écrivain et dramaturge est devenu le premier président de la [[Tchécoslovaquie post-communiste]] en [[Culture générale/1989]] ? 
+Quel écrivain et dramaturge est devenu le premier président de la [[Tchécoslovaquie post-communiste]] en [[1989]] après la Révolution de Velours et est l'auteur de la pièce de théâtre [[« Audience »]] et un symbolique dissident de la [[Charte 77]] en [[Tchécoslovaquie]] ? 
 
-Qui a été élu à deux reprises président de la [[République tchèque]], après la dissolution de la [[Tchécoslovaquie]], d'abord en [[1993]] puis réélu en [[1998]] ? <!-- score: 1 -->
-
-Quel intellectuel est l'auteur de la pièce de théâtre [[« Audience »]] et un symbolique dissident de la [[Charte 77]] en [[Tchécoslovaquie]] ?
+Quel dramaturge tchèque a été élu à deux reprises président de la [[République tchèque]], après la dissolution de la [[Tchécoslovaquie]], d'abord en [[1993]] puis réélu en [[1998]] ? <!-- score: 1 -->
 
 ###### Description
 
@@ -40,4 +38,4 @@ Il a été élu premier président de la république tchèque en [[1993]] et a o
 
 Un fait étonnant et moins connu à son sujet est que, malgré ses débuts en tant qu'écrivain dissident, il est devenu le premier chef de l'État à être honoré par le prestigieux prix international [[Gandhi Peace Prize]] en [[1993]]. 
 
-Son engagement pour les droits de l'homme et ses écrits contre les régimes totalitaires ont fait de lui une figure emblématique de la "Révolution de Velours" qui s'est déroulée en [[Culture générale/1989]] en [[Tchécoslovaquie]].
+Son engagement pour les droits de l'homme et ses écrits contre les régimes totalitaires ont fait de lui une figure emblématique de la "[[Révolution de Velours]]" qui s'est déroulée en [[1989]] en [[Tchécoslovaquie]].

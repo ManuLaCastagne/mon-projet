@@ -6,42 +6,31 @@ superficie: 65610
 location: 7.5554942,80.7137847
 tags:
   - Géographie
-  - Région_de_Ceylan
-  - Pays_de_Ceylan
-  - Département_de_Ceylan
-
-indice_1 : 
+indice_1:
   - île située au sud de l'Inde
-indice_2 : 
+indice_2:
   - Colombo est sa capitale économique
-indice_3 : 
+indice_3:
   - anciennement connu sous le nom de Ceylan
-indice_4 : 
+indice_4:
   - culture du thé renommée
-indice_5 : 
+indice_5:
   - le Sinhalais et le Tamoul sont les langues officielles
-indice_6 : 
+indice_6:
   - océan Indien
-questions:
- - Jusqu'en 1972, sous quel nom désignait-on le Sri Lanka?
 culture_g_score: 64
-culture_g_justification: "Ancien nom très connu du Sri Lanka, utile en géographie, histoire coloniale et culture du thé, mais moins fréquent aujourd’hui."
+culture_g_justification: Ancien nom très connu du Sri Lanka, utile en géographie, histoire coloniale et culture du thé, mais moins fréquent aujourd’hui.
 ---
 
-![Image de Ceylan](https://upload.wikimedia.org/wikipedia/commons/b/ba/Tea_plantation_Sri.jpg)
 
 ![[Carte_Ceylan.png]]
 ###### Questions
 
 Quelle était l'ancienne dénomination de [[Sri Lanka]] jusqu'en 1972 ? <!-- score: 8 -->
 
-En [[quelle année]] le thé de [[Ceylan]] a-t-il été présenté pour la première fois à l'exposition universelle de [[Paris]] ?
-
-Quel nom l'île de [[Ceylan]] portait-elle avant sa colonisation par les [[Portugais]] en 1505 ?
-
 ###### Description
 
-[[Ceylan]], aujourd'hui connu sous le nom de [[Sri Lanka]], est une île située au sud de l'Inde, baignée par les eaux de l'océan Indien. 
+[[Ceylan]], aujourd'hui connu sous le nom de [[Sri Lanka]], est une île située au sud de l'[[Inde]], baignée par les eaux de l'[[océan Indien]]. 
 
 La capitale actuelle, [[Sri Jayawardenepura Kotte]], est une ville de banlieue de [[Colombo]], et elle a officiellement été désignée comme la capitale administrative en 1982. 
 

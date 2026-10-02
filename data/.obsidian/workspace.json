@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Portrait de la jeune fille en feu.md",
+                "file": "Histoire/Révolution de velours.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Portrait de la jeune fille en feu.md",
+                "file": "Histoire/Révolution de velours.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portrait de la jeune fille en feu"
+              "title": "Révolution de velours"
             }
           }
         ],
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinéma/Portrait de la jeune fille en feu.md",
+                "file": "Histoire/Révolution de velours.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,9 +364,17 @@
   },
   "active": "71252c55d9d4b291",
   "lastOpenFiles": [
+    "Histoire/Vaclav Havel.md",
+    "Histoire/Jules Vallès.md",
+    "Géographie/Ceylan.md",
+    "Géographie/Sri Jayawardenepura Kotte.md",
+    "Cinéma/Festival de Cannes.md",
+    "Cinéma/Adèle Haenel.md",
+    "Géographie/Paimpont.md",
+    "Géographie/Bretagne.md",
+    "Cinéma/Portrait de la jeune fille en feu.md",
     "attachments/Pasted image 20261002105739.png",
     "attachments/Pasted image 20261002105737.png",
-    "Cinéma/Adèle Haenel.md",
     "Géographie/Montreuil.md",
     "Botanique/Dormance.md",
     "Art/Marius Petipa.md",
@@ -386,13 +394,6 @@
     "Anatomie/Myologie.md",
     "Culture générale/Sans titre 4.base",
     "Culture générale/Sans titre 3.base",
-    "Animaux/Chacal.md",
-    "Histoire/Yasser Arafat.md",
-    "Vocabulaire/Berruyer.md",
-    "Vocabulaire/Bellifontain.md",
-    "Télévision/Michaël Gregorio.md",
-    "Musique/Pierre Garnier.md",
-    "Musique/Ceux qu’on était.md",
     "Culture générale/Sans titre 2.base",
     "attachments/Pasted image 20260917201129.png",
     "attachments/Carte_16e arrondissement (Paris).png",
@@ -404,7 +405,6 @@
     "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
-    "attachments/Pasted image 20260804075735.png",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
     "Sans titre.canvas"

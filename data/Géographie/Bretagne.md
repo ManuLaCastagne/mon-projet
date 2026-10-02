@@ -6,24 +6,20 @@ superficie: 27208
 location: 48.2640845,-2.9202408
 tags:
   - Géographie
-  - Région_Bretagne
-  - Bretagne_historique
-  - Côtes-d'Armor_Finistère_Ille-et-Vilaine_Morbihan
-  - GPS_mano
-indice_1 : 
+indice_1:
   - Saint-Malo
-indice_2 : 
+indice_2:
   - Quimper
-indice_3 : 
+indice_3:
   - Brocéliande
-indice_4 : 
+indice_4:
   - Rennes
-indice_5 : 
+indice_5:
   - Golfe du Morbihan
-indice_6 : 
+indice_6:
   - Pointe du Raz
 culture_g_score: 88
-culture_g_justification: "La Bretagne est une référence incontournable des quiz francophones, mobilisable en histoire, géographie, culture, légendes, gastronomie et patrimoine."
+culture_g_justification: La Bretagne est une référence incontournable des quiz francophones, mobilisable en histoire, géographie, culture, légendes, gastronomie et patrimoine.
 ---
 
 ![[Carte_Bretagne.png]]
@@ -33,8 +29,6 @@ culture_g_justification: "La Bretagne est une référence incontournable des qui
 Quelle région française possède une côte de granit rose, située principalement entre [[Perros-Guirec]] et [[Trébeurden]] ? <!-- score: 6 -->
 
 Où trouve-t-on la plus grande forêt d'[[Armorique]], la forêt de [[Paimpont]], souvent associée aux légendes arthuriennes et à la forêt de [[Brocéliande]] ?
-
-Quelle région était souveraine sous le règne du duché de [[Bretagne]] avant son rattachement au royaume de France en [[1532]] ?
 
 ###### Description
 

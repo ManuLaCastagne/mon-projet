@@ -26,9 +26,7 @@ culture_g_justification: "Jules Vallès permet de relier littérature, journalis
 
 ###### Questions
 
-Quel écrivain et journaliste français né au [[Puy-en-Velay ]]en 1832 a été nommé membre de la Commune de Paris qu'il défendit dans "Le Cri du peuple" ?
-
-Quel écrivain et journaliste a fondé le journal révolutionnaire [[Le Cri du Peuple]] en [[1871]] lors de la [[Commune de Paris]] ?
+Quel écrivain et journaliste français né au [[Puy-en-Velay ]]en 1832 a été nommé membre de la Commune de Paris qu'il défendit dans le journal révolutionnaire "Le Cri du peuple" en 1871 ?
 
 Quel acteur clé de la [[Commune de Paris]] a écrit « L'Enfant », un roman autobiographique publié en [[1879]] qui évoque son enfance difficile sous le [[Second Empire]] ?
 

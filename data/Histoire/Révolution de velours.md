@@ -29,8 +29,6 @@ culture_g_justification: "Épisode classique de la chute des régimes communiste
 
 Quel est le nom donné au mouvement pacifique qui a conduit à la séparation de la [[Tchécoslovaquie]] et l'indépendance de la [[République tchèque]] et de la [[Slovaquie]] en [[1993]] ?
 
-Quel événement de [[Culture générale/1989]], symbolisant la transition démocratique sans effusion de sang en [[Tchécoslovaquie]], a abouti à la fin du régime communiste dans ce pays ?
-
 Comment appelle-t-on le processus de transition qui a vu [[Václav Havel]] devenir président de la [[Tchécoslovaquie]] à la suite de manifestations massives en [[Culture générale/1989]] ?
 
 ###### Description
