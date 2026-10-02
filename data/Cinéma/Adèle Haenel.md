@@ -35,7 +35,7 @@ Qui jouait en 2019 le rôle d'Héloïse dans "Portrait de la jeune fille en feu"
 
 Quel deux fois lauréate du [[César de la meilleure actrice]] pour ses rôles dans [[Les Combattants]] (2014) et [[Portrait de la jeune fille en feu]] (2019) a annoncé en 2020 qu'elle ne souhaitait plus travailler dans l'industrie cinématographique traditionnelle ? <!-- score: 3 -->
 
-Quelle actrice française a débuté sa carrière à l'âge de 12 ans dans le film [[Les Diables]] réalisé par [[Christophe Ruggia]] en 2002 soupçonné, avant de remporter plusieurs César ? 
+Quelle actrice française a débuté sa carrière à l'âge de 12 ans dans le film [[Les Diables]] réalisé par [[Christophe Ruggia]] en 2002 qui l'a harcelée sexuellement pendant ce tournage ? 
 
 Qui a été l'une des figures de proue du mouvement [[#MeToo]] en France en 2019, notamment après avoir dénoncé publiquement des comportements inappropriés dans le milieu cinématographique lors des [[César 2020]] ? <!-- score: 3 -->
 
