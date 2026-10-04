@@ -26,11 +26,12 @@ culture_g_score: 61
 culture_g_justification: "Chanson très mémorisée du répertoire français, mais principalement exploitable à travers quelques repères sur Yves Duteil et la chanson francophone."
 ---
 
+
 ![Image de Prendre un enfant par la main](https://upload.wikimedia.org/wikipedia/commons/8/88/Prendre_un_enfant_par_la_main_%2836979112523%29.jpg)
 
 ###### Questions
 
-Quelle chanson, interprétée par [[Yves Duteil]] et sortie en 1977, s'est profondément ancrée dans les mémoires collectives pour ses paroles émouvantes sur l'enfance et la protection parentale ?
+Quelle chanson, interprétée par [[Yves Duteil]] et sortie en 1977, s'est profondément ancrée dans les mémoires collectives pour ses paroles émouvantes sur l'enfance et la protection parentale ? <!-- score: 4 -->
 
 Quel titre, lauréat du [[Prix de la chanson de l'année]] en 1989, incarne parfaitement l'émotion et l'humanité dans la discographie d'[[Yves Duteil]] ?
 
