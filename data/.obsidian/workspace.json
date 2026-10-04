@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Duc de Morny.md",
+                "file": "Cinéma/Babysitting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Duc de Morny"
+              "title": "Graphique de Babysitting"
             }
           },
           {
@@ -190,12 +190,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Duc de Morny.md",
+                "file": "Cinéma/Babysitting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duc de Morny"
+              "title": "Babysitting"
             }
           },
           {
@@ -375,6 +375,11 @@
   },
   "active": "fdbd2c929de35281",
   "lastOpenFiles": [
+    "attachments/Pasted image 20261004162756.png",
+    "Cinéma/Aure Atika.md",
+    "Architecture/Palais de justice.md",
+    "Histoire/Duc de Morny.md",
+    "Histoire/reine Hortense.md",
     "Télévision/Dawson.md",
     "attachments/Pasted image 20261004114857.png",
     "Télévision/Le Prince de Bel-Air.md",
@@ -400,13 +405,8 @@
     "Géographie/Sri Jayawardenepura Kotte.md",
     "Géographie/Paimpont.md",
     "Géographie/Montreuil.md",
-    "Architecture/Théâtre Mariinsky.md",
     "Culture générale/Sans titre 4.base",
     "Culture générale/Sans titre 3.base",
-    "Culture générale/S.H.I.E.L.D..md",
-    "Cinéma/Tony Stark.md",
-    "Cinéma/Robert Downey Jr..md",
-    "Cinéma/Nick Fury.md",
     "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260917201129.png",
     "Culture générale/Sans titre 2.base",

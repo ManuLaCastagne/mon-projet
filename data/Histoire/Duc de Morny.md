@@ -4,6 +4,7 @@ tags:
   - France
   - Années_1850
   - XIXe
+  - Certifié
 debut: 1811
 fin: 1865
 indice_1:
@@ -19,7 +20,7 @@ indice_5:
 indice_6:
   - acteur majeur du coup d'État de 1851
 culture_g_score: 60
-culture_g_justification: "Acteur politique et économique du Second Empire, utile pour Napoléon III et Deauville, mais d’importance secondaire."
+culture_g_justification: Acteur politique et économique du Second Empire, utile pour Napoléon III et Deauville, mais d’importance secondaire.
 ---
 
 ![Image de Duc de Morny](https://upload.wikimedia.org/wikipedia/commons/e/ec/MORNY%2C_Charles_duc_de%2C_Mayer_et_Pierson%2C_GALLICA.jpg)
@@ -28,14 +29,11 @@ culture_g_justification: "Acteur politique et économique du Second Empire, util
 
 Quel homme politique, élu député en [[1842]], est connu pour son rôle dans la création du [[chemin de fer Paris-Lyon-Méditerranée]] et est le fondateur de l'[[hippodrome de Longchamp]] ?
 
-Quel demi-frère de [[Napoléon III]], né en [[1811]], a été un acteur clé dans le développement économique du [[Second Empire]] français ?
+Quel fils naturel de la [[reine Hortense]], demi-frère de [[Napoléon III]], né en [[1811]], a été un acteur clé dans le développement économique du [[Second Empire]] français ?
 
-Quel duc, m'adonnant à la spéculation et aux mondanités, a fondé Deauville en 1860 ? <!-- score: 1 -->
+Quel duc, co-fondateur de [[Le Figaro (journal)]] s'adonnant à la spéculation et aux mondanités, a fondé Deauville en 1860 ? <!-- score: 1 -->
 
 Quel principal conseiller de son demi-frère Napoléon III, l'a aidé dans le coup d'Etat du 2 décembre 1851 ? 
-
-Qui est le fils naturel de la [[reine Hortense]] ?
-
 ###### Description
 
 [[Charles Auguste Louis Joseph de Morny]], plus connu sous le nom de [[Duc de Morny]], était un prestigieux homme politique et entrepreneur français du XIXe siècle, né en [[1811]] et mort en [[1865]]. 

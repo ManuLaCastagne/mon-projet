@@ -25,8 +25,7 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Comédie française populaire et identifiable, mais d’importance culturelle et de fréquence quiz relativement modestes."
 ---
-![Image de Babysitting](https://upload.wikimedia.org/wikipedia/commons/5/5b/Babysitting_Ben_DVIDS61443.jpg)
-
+![[Pasted image 20261004162756.png]]
 ###### Questions
 
 Dans quel film [[Philippe Lacheau]] fait-il sa première apparition en tant que réalisateur en 2014 ?  
