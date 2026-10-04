@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Télévision/Julien Fébreau.md",
+                "file": "Sciences/Subnautica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Julien Fébreau"
+              "title": "Graphique de Subnautica"
             }
           },
           {
@@ -177,40 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Télévision/Julien Fébreau.md",
+                "file": "Sciences/Subnautica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Julien Fébreau"
-            }
-          },
-          {
-            "id": "fdbd2c929de35281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cinéma/Babysitting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Babysitting"
-            }
-          },
-          {
-            "id": "afd56782f5509196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cinéma/Sylvester Stallone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sylvester Stallone"
+              "title": "Subnautica"
             }
           }
         ],
@@ -378,8 +350,10 @@
   },
   "active": "b3f1a0221f6d5019",
   "lastOpenFiles": [
-    "Accroches personnelles/Florian Pinel.md",
+    "Télévision/X-Files.md",
+    "Sciences/Subnautica.md",
     "Télévision/Julien Fébreau.md",
+    "Accroches personnelles/Florian Pinel.md",
     "Sport/Formule 1.md",
     "Culture générale/Montez le volume, et rendez-vous au premier virage.md",
     "Histoire/Trois Glorieuses.md",
@@ -405,8 +379,6 @@
     "Cinéma/Kevin Costner.md",
     "Cinéma/Brian De Palma.md",
     "Cinéma/Sean Connery.md",
-    "Cinéma/Sara Forestier.md",
-    "Histoire/Abbaye de Cluny.md",
     "attachments/Pasted image 20261002105739.png",
     "attachments/Pasted image 20261002105737.png",
     "Culture générale/Sans titre 4.base",

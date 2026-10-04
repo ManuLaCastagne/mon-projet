@@ -27,6 +27,8 @@ culture_g_justification: "Série culte mondialement connue, riche en questions s
 
 Dans quelle série télévisée lancée en [[1993]] les enquêtes surnaturelles sont-elles menées par les agents du FBI [[Fox Mulder]] et [[Dana Scully]] ?
 
+Pour quelle série télévisée, "La vérité" est-elle "ailleurs" ?
+
 Quelle série télévisée a remporté en [[1996]] l'[[Emmy Award]] pour les meilleurs effets visuels grâce à son épisode intitulé "[[Jose Chung's From Outer Space]]" ?
 
 Quel programme de télévision diffusé jusqu'en [[2002]] explore principalement les théories du complot et les phénomènes paranormaux ?
