@@ -25,12 +25,13 @@ indice_6 :
 culture_g_score: 60
 culture_g_justification: "Capitale du Cambodge associée au Mékong, aux Khmers rouges, à l’histoire coloniale et au bouddhisme, avec une fréquence intermédiaire."
 ---
+
 ![Image de Phnom Penh](https://upload.wikimedia.org/wikipedia/commons/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg)
 
 ![[Carte_Phnom Penh.png]]
 ###### Questions
 
-Quelle ville, fondée en 1434, est devenue la capitale du [[Cambodge]] après que la reine [[Penh]] y ait fait construire une pagode sur une colline?
+Quelle ville, fondée en 1434, est devenue la capitale du [[Cambodge]] après que la reine [[Penh]] y ait fait construire une pagode sur une colline? <!-- score: 8 -->
 
 Quelle capitale asiatique est traversée par les rivières [[Tonlé Sap]] et [[Mékong]] et a connu une croissance démographique exponentielle depuis les années 1990? <!-- score: 7 -->
 
