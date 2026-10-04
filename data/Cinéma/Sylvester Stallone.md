@@ -20,13 +20,14 @@ indice_6:
 culture_g_score: 96
 culture_g_justification: "Figure mondiale du cinéma populaire, immédiatement associée aux franchises Rocky et Rambo, à l’écriture, à la réalisation et à la culture des années 1980."
 ---
+
 ![Image de Sylvester Stallone](https://upload.wikimedia.org/wikipedia/commons/c/c2/Flickr_-_nicogenin_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29_-_Sylvester_Stallone_%2826%29.jpg)
 
 ###### Questions
 
 Quel acteur a écrit et joué dans le film Rocky, qui a remporté l'[[Oscar]] du meilleur film en [[1976]] ? <!-- score: 6 -->
 
-Quel acteur a incarné le personnage principal dans le film de [[1982]], [[Rambo: First Blood]] ?
+Quel acteur a incarné le personnage principal dans le film de [[1982]], [[Rambo: First Blood]] ? <!-- score: 9 -->
 
 Quel acteur a partagé la vedette avec [[Dolly Parton]] dans la comédie musicale [[Rhinestone]] en [[1984]] ?
 
