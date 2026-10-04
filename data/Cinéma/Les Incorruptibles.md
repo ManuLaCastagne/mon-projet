@@ -1,13 +1,12 @@
 ---
 tags:
   - Cinéma
-  - Les_Incorruptibles
   - États-Unis
   - Années_1980
 date:
   - 1987/06/03
 debut: 1987
-fin: 
+fin:
 indice_1:
   - Al Capone
 indice_2:
@@ -20,8 +19,8 @@ indice_5:
   - Brian De Palma
 indice_6:
   - Sean Connery
-culture_g_score: 80
-culture_g_justification: "Classique policier très identifiable par De Palma, Al Capone, la Prohibition, Costner, Connery et sa scène de la gare."
+culture_g_score: 85
+culture_g_justification: Classique policier très identifiable par De Palma, Al Capone, la Prohibition, Costner, Connery et sa scène de la gare.
 ---
 ![[Pasted image 20250402130507.png]]
 ###### Questions
