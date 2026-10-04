@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Frises/Scores Culture G.base",
+                "file": "Télévision/Julien Fébreau.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,20 +168,21 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Scores Culture G"
+              "title": "Graphique de Julien Fébreau"
             }
           },
           {
             "id": "b3f1a0221f6d5019",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Frises/Scores Culture G.base",
-                "viewName": "Tableau"
+                "file": "Télévision/Julien Fébreau.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Scores Culture G"
+              "icon": "lucide-file",
+              "title": "Julien Fébreau"
             }
           },
           {
@@ -377,8 +378,15 @@
   },
   "active": "b3f1a0221f6d5019",
   "lastOpenFiles": [
-    "Architecture/Basilique Sainte-Sophie.md",
+    "Accroches personnelles/Florian Pinel.md",
+    "Télévision/Julien Fébreau.md",
+    "Sport/Formule 1.md",
+    "Culture générale/Montez le volume, et rendez-vous au premier virage.md",
+    "Histoire/Trois Glorieuses.md",
+    "Animaux/Shih Tzu.md",
+    "Culture générale/chien lion.md",
     "Frises/Scores Culture G.base",
+    "Architecture/Basilique Sainte-Sophie.md",
     "Cinéma/Babysitting.md",
     "attachments/Pasted image 20261004162756.png",
     "Cinéma/Aure Atika.md",
@@ -399,15 +407,8 @@
     "Cinéma/Sean Connery.md",
     "Cinéma/Sara Forestier.md",
     "Histoire/Abbaye de Cluny.md",
-    "Religion/Benoît XII.md",
-    "Cinéma/L'Homme qui rétrécit.md",
-    "Télévision/Michaël Gregorio.md",
     "attachments/Pasted image 20261002105739.png",
     "attachments/Pasted image 20261002105737.png",
-    "Musique/Piotr Ilitch Tchaïkovski.md",
-    "Musique/La Bayadère.md",
-    "Géographie/Sri Jayawardenepura Kotte.md",
-    "Géographie/Paimpont.md",
     "Culture générale/Sans titre 4.base",
     "Culture générale/Sans titre 3.base",
     "Frises/Base de données n°1.base",
