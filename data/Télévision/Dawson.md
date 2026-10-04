@@ -21,16 +21,13 @@ indice_6 :
 culture_g_score: 68
 culture_g_justification: "La série Dawson’s Creek est une référence de la culture télévisuelle des années 1990-2000, avec plusieurs personnages et repères exploitables."
 ---
+
+
 ![Image de Dawson](https://upload.wikimedia.org/wikipedia/commons/c/c6/Dawson_Yukon_June_07.jpg)
 
 ###### Questions
 
 Quel est le nom de famille du personnage principal interprété par [[James Van Der Beek]] dans la série télévisée [[Dawson's Creek]], diffusée pour la première fois en [[1998]] ?
-
-Quel était le jeu télévisé américain, animé à partir de [[1976]] par [[Richard Dawson]], célèbre pour demander aux participants de deviner les réponses les plus fréquentes données par un panel de 100 personnes à diverses questions ?
-
-Dans quel épisode de [[Dawson's Creek]], diffusé en [[2001]], le personnage de [[Dawson Leery]] apprend-il la nouvelle tragique du décès de son père, [[Mitch Leery]] ?
-
 ###### Description
 
 [[Dawson's Creek]] est une série télévisée américaine créée par [[Kevin Williamson]], diffusée pour la première fois en 1998 sur [[The WB]], une chaîne qui devint plus tard [[The CW]]. 
