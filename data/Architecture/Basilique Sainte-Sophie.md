@@ -23,15 +23,13 @@ indice_6:
 culture_g_score: 100
 culture_g_justification: "Sainte-Sophie est un monument exceptionnellement transversal, à la croisée des empires, religions, villes, arts et débats contemporains."
 ---
-![Image de Basilique Sainte-Sophie](https://upload.wikimedia.org/wikipedia/commons/6/6c/Sainte-Sophie_-_vierge_%C3%A0_l%27enfant.jpg)
+![Image de Basilique Sainte-Sophie](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/1920px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ###### Questions
 
 Quel édifice emblématique rebaptisé en mosquée en 2020 par le gouvernement turc a été initialement construit comme une cathédrale chrétienne en 537 sous l'empereur [[Justinien Ier]] ?
 
 Quel célèbre monument situé à [[Istanbul]], connu pour son immense dôme et ses mosaïques byzantines, a été transformé en musée en 1935 sous la direction de [[Mustafa Kemal Atatürk]] ?
-
-Quel édifice, autrefois le plus grand du monde pendant environ un millénaire, a été déclaré patrimoine mondial de l'UNESCO et est considéré comme un chef-d'œuvre de l'architecture byzantine ?
 
 ###### Description
 

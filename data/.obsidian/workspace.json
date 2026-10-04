@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Babysitting.md",
+                "file": "Frises/Scores Culture G.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Babysitting"
+              "title": "Graphique de Scores Culture G"
             }
           },
           {
@@ -213,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "08fb69aeffa85077",
@@ -358,7 +359,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -373,8 +375,11 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "fdbd2c929de35281",
+  "active": "b3f1a0221f6d5019",
   "lastOpenFiles": [
+    "Architecture/Basilique Sainte-Sophie.md",
+    "Frises/Scores Culture G.base",
+    "Cinéma/Babysitting.md",
     "attachments/Pasted image 20261004162756.png",
     "Cinéma/Aure Atika.md",
     "Architecture/Palais de justice.md",
@@ -387,7 +392,6 @@
     "Géographie/Tonlé Sap.md",
     "Géographie/Mékong.md",
     "Cinéma/Les Incorruptibles.md",
-    "Frises/Scores Culture G.base",
     "Cinéma/Sylvester Stallone.md",
     "Vocabulaire/Cartulaire.md",
     "Cinéma/Kevin Costner.md",
@@ -404,7 +408,6 @@
     "Musique/La Bayadère.md",
     "Géographie/Sri Jayawardenepura Kotte.md",
     "Géographie/Paimpont.md",
-    "Géographie/Montreuil.md",
     "Culture générale/Sans titre 4.base",
     "Culture générale/Sans titre 3.base",
     "Frises/Base de données n°1.base",
@@ -416,7 +419,6 @@
     "attachments/Pasted image 20260904174035.png",
     "Frises/Notes.base",
     "attachments/Pasted image 20260822185959.png",
-    "attachments/Pasted image 20260816110720.png",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
     "Sans titre.canvas"
