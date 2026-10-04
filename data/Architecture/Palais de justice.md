@@ -24,13 +24,14 @@ indice_6:
 culture_g_score: 71
 culture_g_justification: "Le Palais de Justice de Paris combine histoire monarchique, Révolution, institutions judiciaires et architecture contemporaine, sans être un marronnier absolu."
 ---
+
 ![Image de Palais de justice](https://upload.wikimedia.org/wikipedia/commons/0/09/Palais_de_justice_de_Carcassonne.jpg)
 
 ###### Questions
 
 Quel monument a accueilli autrefois les célèbres procès de [[Marie-Antoinette]] après la Révolution française, maintenant situé sur l'[[île de la Cité]] ?
 
-Quel bâtiment parisien récompensé en 2017 par l'Equerre d'argent, j'ai été conçu par le cabinet de l'architecte [[Renzo Piano]] ?
+Quel bâtiment parisien récompensé en 2017 par l'Equerre d'argent, j'ai été conçu par le cabinet de l'architecte [[Renzo Piano]] ? <!-- score: 0 -->
 
 Quel immeuble de 38 étages comprenant plus de 100 000 m2 de plancher est le 2e plus haut bâtiment de la capitale ?
 
