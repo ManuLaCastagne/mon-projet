@@ -21,12 +21,13 @@ indice_6 :
 culture_g_score: 76
 culture_g_justification: "Sitcom très connue, rentable par Will Smith, son générique, la culture populaire américaine et ses personnages."
 ---
+
 ![[Pasted image 20250505175330.png]]
 ###### Questions
 
 Dans quel programme télévisé fictif se déroule un épisode mémorable où se retrouvent les parents et la sœur de [[Will Smith]], quand la série a été nominée pour son premier [[Primetime Emmy Award]] en [[1991]] ? 
 
-Quel générique de série des années [[1990]] commence par une chanson rap racontant comment un jeune homme a déménagé de [[Philadelphie]] à [[Bel-Air]] ?
+Quel générique de série des années [[1990]] commence par une chanson rap racontant comment un jeune homme a déménagé de [[Philadelphie]] à [[Bel-Air]] ? <!-- score: 8 -->
 
 ###### Description
 
