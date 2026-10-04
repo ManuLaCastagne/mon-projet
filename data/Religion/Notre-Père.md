@@ -23,16 +23,13 @@ questions:
 culture_g_score: 97
 culture_g_justification: "Prière chrétienne universellement connue, le Notre-Père est un repère central pour les questions bibliques, liturgiques et linguistiques."
 ---
-![Image de Notre-Père](https://upload.wikimedia.org/wikipedia/commons/9/9f/Saint-P%C3%A8re_Eglise_Notre_Dame.jpg)
+
+
+![Image de Notre-Père](https://upload.wikimedia.org/wikipedia/commons/9/9f/Saint-P%C3%A8re_Eglise_Notre_Dame.jpg)
 
 ###### Questions
 
-Dans quelle prière chrétienne, enseignée par [[Jésus]], trouve-t-on la phrase "Que ta volonté soit faite sur la terre comme au ciel" selon le [[Nouveau Testament]] ?
-
-Quel texte religieux a été officiellement traduit en français en 1953, remplaçant la version précédente datant de 1920, après avoir été confessé dans sa forme originale durant des siècles par les chrétiens de langue française ?
-
-Selon le [[Catéchisme de l'Église catholique]], quelle prière est souvent récité pour obtenir l'indulgence plénière lors du [[sacrement de la Pénitence]] ?
-
+Selon le catéchisme de l'Église catholique, quelle prière est souvent récitée pour obtenir l'indulgence plénière lors du sacrement de la Pénitence ? <!-- score: 5 -->
 ###### Description
 
 La prière du [[Notre-Père]], souvent attribuée à [[Jésus]], trouve ses origines dans la ville de [[Jérusalem]], où elle fut prononcée pour la première fois selon les Évangiles. 
