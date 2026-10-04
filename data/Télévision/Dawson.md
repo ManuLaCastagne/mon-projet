@@ -21,13 +21,10 @@ indice_6 :
 culture_g_score: 68
 culture_g_justification: "La série Dawson’s Creek est une référence de la culture télévisuelle des années 1990-2000, avec plusieurs personnages et repères exploitables."
 ---
-
-
-![Image de Dawson](https://upload.wikimedia.org/wikipedia/commons/c/c6/Dawson_Yukon_June_07.jpg)
-
+![[Pasted image 20261004114857.png]]
 ###### Questions
 
-Quel est le nom de famille du personnage principal interprété par [[James Van Der Beek]] dans la série télévisée [[Dawson's Creek]], diffusée pour la première fois en [[1998]] ?
+Quel est le nom de famille du personnage principal interprété par [[James Van Der Beek]] dans une série télévisée américaine diffusée pour la première fois en [[1998]] ?
 ###### Description
 
 [[Dawson's Creek]] est une série télévisée américaine créée par [[Kevin Williamson]], diffusée pour la première fois en 1998 sur [[The WB]], une chaîne qui devint plus tard [[The CW]]. 

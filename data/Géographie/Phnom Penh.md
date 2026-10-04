@@ -7,23 +7,20 @@ location: 11.5730391,104.857807
 tags:
   - Géographie
   - Cambodge
+indice_1:
   - Cambodge
-  - Phnom_Penh
-
-indice_1 : 
-  - Cambodge
-indice_2 : 
+indice_2:
   - capitale
-indice_3 : 
+indice_3:
   - fleuve Mékong
-indice_4 : 
+indice_4:
   - Palais Royal
-indice_5 : 
+indice_5:
   - passé colonial français
-indice_6 : 
+indice_6:
   - Angkor Wat à proximité
 culture_g_score: 60
-culture_g_justification: "Capitale du Cambodge associée au Mékong, aux Khmers rouges, à l’histoire coloniale et au bouddhisme, avec une fréquence intermédiaire."
+culture_g_justification: Capitale du Cambodge associée au Mékong, aux Khmers rouges, à l’histoire coloniale et au bouddhisme, avec une fréquence intermédiaire.
 ---
 
 ![Image de Phnom Penh](https://upload.wikimedia.org/wikipedia/commons/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg)
@@ -39,4 +36,8 @@ Quelle ville est réputée pour sa place centrale dans le renouveau du [[Bouddhi
 
 ###### Description
 
-La capitale du [[Cambodge]], [[Phnom Penh]], est une métropole dynamique située au confluent du [[Mékong]], du [[Tonlé Sap]] et du [[Bassac]]. Fondée en 1434, la ville est devenue le centre politique, économique et culturel du pays. Le [[Palais Royal de Phnom Penh]], construit en 1860, illustre le riche patrimoine architectural khmer, tandis que le [[Musée national du Cambodge]], inauguré en 1920, abrite une impressionnante collection d'art et d'artefacts. Phnom Penh a été profondément marquée par l'ère des [[Khmer rouges]], notamment avec le tristement célèbre centre de détention [[S-21]] (aujourd'hui le musée du [[Génocide Tuol Sleng]]) qui rappelle les événements tragiques des années 1970.
+La capitale du [[Cambodge]], [[Phnom Penh]], est une métropole dynamique située au confluent du [[Mékong]], du [[Tonlé Sap]] et du [[Bassac]]. Fondée en 1434, la ville est devenue le centre politique, économique et culturel du pays. 
+
+Le [[Palais Royal de Phnom Penh]], construit en 1860, illustre le riche patrimoine architectural khmer, tandis que le [[Musée national du Cambodge]], inauguré en 1920, abrite une impressionnante collection d'art et d'artefacts. 
+
+Phnom Penh a été profondément marquée par l'ère des [[Khmer rouges]], notamment avec le tristement célèbre centre de détention [[S-21]] (aujourd'hui le musée du [[Génocide Tuol Sleng]]) qui rappelle les événements tragiques des années 1970.

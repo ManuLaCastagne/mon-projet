@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Sylvester Stallone.md",
+                "file": "Télévision/Dawson.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sylvester Stallone"
+              "title": "Graphique de Dawson"
             }
           },
           {
@@ -190,12 +190,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Les Incorruptibles.md",
+                "file": "Télévision/Dawson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les Incorruptibles"
+              "title": "Dawson"
             }
           },
           {
@@ -212,7 +212,8 @@
               "title": "Sylvester Stallone"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -372,11 +373,17 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "3b18be18a8a65fd7",
+  "active": "fdbd2c929de35281",
   "lastOpenFiles": [
+    "attachments/Pasted image 20261004114857.png",
+    "Télévision/Le Prince de Bel-Air.md",
+    "Géographie/Phnom Penh.md",
+    "Géographie/Tonlé Sap.md",
+    "Géographie/Mékong.md",
     "Cinéma/Les Incorruptibles.md",
-    "Vocabulaire/Cartulaire.md",
     "Frises/Scores Culture G.base",
+    "Cinéma/Sylvester Stallone.md",
+    "Vocabulaire/Cartulaire.md",
     "Cinéma/Kevin Costner.md",
     "Cinéma/Brian De Palma.md",
     "Cinéma/Sean Connery.md",
@@ -399,11 +406,6 @@
     "Cinéma/Tony Stark.md",
     "Cinéma/Robert Downey Jr..md",
     "Cinéma/Nick Fury.md",
-    "Cinéma/Les Huit Salopards.md",
-    "Architecture/quai d’Orsay.md",
-    "Architecture/Palais Bourbon.md",
-    "Animaux/Chacal.md",
-    "Littérature/Reine Margot.md",
     "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260917201129.png",
     "Culture générale/Sans titre 2.base",
