@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Télévision/Dawson.md",
+                "file": "Histoire/Duc de Morny.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Dawson"
+              "title": "Graphique de Duc de Morny"
             }
           },
           {
@@ -190,12 +190,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Télévision/Dawson.md",
+                "file": "Histoire/Duc de Morny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dawson"
+              "title": "Duc de Morny"
             }
           },
           {
@@ -375,6 +375,7 @@
   },
   "active": "fdbd2c929de35281",
   "lastOpenFiles": [
+    "Télévision/Dawson.md",
     "attachments/Pasted image 20261004114857.png",
     "Télévision/Le Prince de Bel-Air.md",
     "Géographie/Phnom Penh.md",
@@ -416,7 +417,6 @@
     "Frises/Notes.base",
     "attachments/Pasted image 20260822185959.png",
     "attachments/Pasted image 20260816110720.png",
-    "attachments/Pasted image 20260804075735.png",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
     "Sans titre.canvas"

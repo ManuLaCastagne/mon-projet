@@ -26,11 +26,9 @@ culture_g_justification: "Acteur politique et économique du Second Empire, util
 
 ###### Questions
 
-Quel homme politique, élu député en [[1842]], est connu pour son rôle dans la création du [[chemin de fer Paris-Lyon-Méditerranée]] ?
+Quel homme politique, élu député en [[1842]], est connu pour son rôle dans la création du [[chemin de fer Paris-Lyon-Méditerranée]] et est le fondateur de l'[[hippodrome de Longchamp]] ?
 
 Quel demi-frère de [[Napoléon III]], né en [[1811]], a été un acteur clé dans le développement économique du [[Second Empire]] français ?
-
-Quel personnage historique a fondé en [[1852]] le célèbre [[Jockey Club de Paris]] ?
 
 Quel duc, m'adonnant à la spéculation et aux mondanités, a fondé Deauville en 1860 ? <!-- score: 1 -->
 

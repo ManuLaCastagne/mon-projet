@@ -1,25 +1,26 @@
 ---
-tags: 
+tags:
   - Télévision
   - États-Unis
   - Années_1990
   - XXe
+  - Certifié
 debut: 1998
-fin: 
-indice_1 : 
+fin:
+indice_1:
   - Dawson Leery
-indice_2 : 
+indice_2:
   - Joey Potter
-indice_3 : 
+indice_3:
   - Pacey Witter
-indice_4 : 
+indice_4:
   - Capeside
-indice_5 : 
+indice_5:
   - The WB
-indice_6 : 
+indice_6:
   - James Van Der Beek
 culture_g_score: 68
-culture_g_justification: "La série Dawson’s Creek est une référence de la culture télévisuelle des années 1990-2000, avec plusieurs personnages et repères exploitables."
+culture_g_justification: La série Dawson’s Creek est une référence de la culture télévisuelle des années 1990-2000, avec plusieurs personnages et repères exploitables.
 ---
 ![[Pasted image 20261004114857.png]]
 ###### Questions
