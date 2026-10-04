@@ -21,6 +21,7 @@ indice_6:
 culture_g_score: 60
 culture_g_justification: "Acteur politique et économique du Second Empire, utile pour Napoléon III et Deauville, mais d’importance secondaire."
 ---
+
 ![Image de Duc de Morny](https://upload.wikimedia.org/wikipedia/commons/e/ec/MORNY%2C_Charles_duc_de%2C_Mayer_et_Pierson%2C_GALLICA.jpg)
 
 ###### Questions
@@ -31,7 +32,7 @@ Quel demi-frère de [[Napoléon III]], né en [[1811]], a été un acteur clé d
 
 Quel personnage historique a fondé en [[1852]] le célèbre [[Jockey Club de Paris]] ?
 
-Quel duc, m'adonnant à la spéculation et aux mondanités, a fondé Deauville en 1860 ?
+Quel duc, m'adonnant à la spéculation et aux mondanités, a fondé Deauville en 1860 ? <!-- score: 1 -->
 
 Quel principal conseiller de son demi-frère Napoléon III, l'a aidé dans le coup d'Etat du 2 décembre 1851 ? 
 
