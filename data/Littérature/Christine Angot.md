@@ -25,15 +25,11 @@ questions:
 culture_g_score: 47
 culture_g_justification: "Écrivaine médiatique et controversée, identifiable par ses romans et ses apparitions télévisées, mais de rendement limité pour un entraînement généraliste."
 ---
+
+
 ![Image de Christine Angot](https://upload.wikimedia.org/wikipedia/commons/9/9d/Christine_Angot-67285.jpg)
 
 ###### Questions
-
-Dans quelle célèbre émission de télévision française [[On n'est pas couché]], [[Christine Angot]] a-t-elle rejoint la table des chroniqueurs en septembre 2017 ? 
-
-Quel roman écrit par [[Christine Angot]] en 1999 a provoqué une controverse notable en raison de son style d'écriture et de la nature autobiographique de son contenu ? 
-
-En 2006, [[Christine Angot]] a publiquement débattu avec quel autre écrivain à propos de son ouvrage controversé intitulé [[Les Petits]] ?
 
 ###### Description
 
