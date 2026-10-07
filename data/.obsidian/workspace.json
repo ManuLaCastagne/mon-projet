@@ -13,14 +13,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sciences/Subnautica.md",
+                "file": "Histoire/Révolution de velours.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": false,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -163,30 +163,44 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 1.1520769813131357,
+                  "scale": 1.1020380446324098,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Subnautica"
+              "title": "Graphe local"
             }
           },
           {
-            "id": "b3f1a0221f6d5019",
+            "id": "9b57f3dbad8e3e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Subnautica.md",
+                "file": "Art/Marius Petipa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subnautica"
+              "title": "Marius Petipa"
+            }
+          },
+          {
+            "id": "71252c55d9d4b291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoire/Révolution de velours.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Révolution de velours"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +219,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -218,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pignon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb69aeffa85077",
@@ -308,13 +323,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musique/Manureva.md",
+                "file": "Histoire/Révolution de velours.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Manureva"
+              "title": "Plan"
             }
           },
           {
@@ -332,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,49 +362,48 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "b3f1a0221f6d5019",
+  "active": "71252c55d9d4b291",
   "lastOpenFiles": [
-    "Télévision/X-Files.md",
-    "Sciences/Subnautica.md",
-    "Télévision/Julien Fébreau.md",
-    "Accroches personnelles/Florian Pinel.md",
-    "Sport/Formule 1.md",
-    "Culture générale/Montez le volume, et rendez-vous au premier virage.md",
-    "Histoire/Trois Glorieuses.md",
-    "Animaux/Shih Tzu.md",
-    "Culture générale/chien lion.md",
-    "Frises/Scores Culture G.base",
-    "Architecture/Basilique Sainte-Sophie.md",
-    "Cinéma/Babysitting.md",
     "attachments/Pasted image 20261004162756.png",
-    "Cinéma/Aure Atika.md",
-    "Architecture/Palais de justice.md",
-    "Histoire/Duc de Morny.md",
-    "Histoire/reine Hortense.md",
-    "Télévision/Dawson.md",
     "attachments/Pasted image 20261004114857.png",
-    "Télévision/Le Prince de Bel-Air.md",
-    "Géographie/Phnom Penh.md",
+    "Télévision/Julien Fébreau.md",
+    "Sport/Formule 1.md",
+    "Sciences/Subnautica.md",
     "Géographie/Tonlé Sap.md",
     "Géographie/Mékong.md",
-    "Cinéma/Les Incorruptibles.md",
-    "Cinéma/Sylvester Stallone.md",
-    "Vocabulaire/Cartulaire.md",
-    "Cinéma/Kevin Costner.md",
-    "Cinéma/Brian De Palma.md",
-    "Cinéma/Sean Connery.md",
+    "Culture générale/chien lion.md",
+    "Culture générale/Montez le volume, et rendez-vous au premier virage.md",
+    "Animaux/Shih Tzu.md",
+    "Accroches personnelles/Florian Pinel.md",
+    "Histoire/Vaclav Havel.md",
+    "Histoire/Jules Vallès.md",
+    "Géographie/Ceylan.md",
+    "Géographie/Sri Jayawardenepura Kotte.md",
+    "Cinéma/Festival de Cannes.md",
+    "Cinéma/Adèle Haenel.md",
+    "Géographie/Paimpont.md",
+    "Géographie/Bretagne.md",
+    "Cinéma/Portrait de la jeune fille en feu.md",
     "attachments/Pasted image 20261002105739.png",
     "attachments/Pasted image 20261002105737.png",
+    "Géographie/Montreuil.md",
+    "Botanique/Dormance.md",
+    "Art/Marius Petipa.md",
+    "Musique/La Bayadère.md",
+    "Musique/Piotr Ilitch Tchaïkovski.md",
+    "Architecture/Théâtre Mariinsky.md",
+    "Histoire/Bataille de Zama.md",
     "Culture générale/Sans titre 4.base",
     "Culture générale/Sans titre 3.base",
-    "Frises/Base de données n°1.base",
-    "attachments/Pasted image 20260917201129.png",
     "Culture générale/Sans titre 2.base",
+    "attachments/Pasted image 20260917201129.png",
+    "attachments/Carte_16e arrondissement (Paris).png",
     "attachments/Pasted image 20260905165459.png",
+    "Frises/Scores Culture G.base",
     "attachments/Pasted image 20260905165455.png",
     "attachments/Pasted image 20260905164728.png",
     "attachments/Pasted image 20260904174035.png",
-    "Frises/Notes.base",
+    "Frises/Base de données n°1.base",
     "attachments/Pasted image 20260822185959.png",
     "Culture générale/Sans titre.base",
     "Culture générale/Sans titre 1.base",
