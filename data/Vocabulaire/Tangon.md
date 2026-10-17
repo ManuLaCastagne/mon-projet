@@ -14,11 +14,12 @@ indice_5:
 indice_6:
 ---
 
+
 ![Image de Tangon](https://upload.wikimedia.org/wikipedia/commons/6/61/Tangon_River_10.jpg)
 
 ###### Questions
 
-Quel est le mot qui désigne l'outil utilisé pour maintenir l'équilibre des [[voiles]] sur un [[bateau]] à [[voile]]?
+Quel est le mot qui désigne l'outil utilisé pour maintenir l'équilibre des [[voiles]] sur un [[bateau]] à [[voile]]? <!-- score: 4 -->
 
 Quel terme polysémique désigne un mât pour maintenir l'équilibre des voiles ou descendre d'une embarcation ?
 
