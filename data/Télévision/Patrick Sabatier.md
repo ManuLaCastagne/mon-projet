@@ -23,11 +23,12 @@ culture_g_justification: "Animateur populaire des jeux et divertissements des an
 ---
 
 
+
 ![Image de Patrick Sabatier](https://upload.wikimedia.org/wikipedia/commons/d/db/Villeneuve_d%27Ascq_Eglise_St_S%C3%A9bastien_dalle_fun%C3%A9raire_du_gouverneur_de_Lille_Jean_de_Robl%C3%A8s.jpg)
 
 ###### Questions
 
-Qui a effectué un retour médiatique notable en [[2009]] sur [[France 2]] avec l'émission de divertissement "Mot de passe", après une absence de près de vingt ans à la télévision française ?
+Qui a effectué un retour médiatique notable en [[2009]] sur [[France 2]] avec l'émission de divertissement "Mot de passe", après une absence de près de vingt ans à la télévision française ? <!-- score: 9 -->
 ###### Description
 
 [[Patrick Sabatier]] est un célèbre animateur et producteur de télévision français, né en [[1951]]. 
