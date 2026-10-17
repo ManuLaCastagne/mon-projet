@@ -21,6 +21,7 @@ questions:
 culture_g_score: 67
 culture_g_justification: "Iphigénie est une figure tragique utile pour croiser mythologie, tragédie française et opéra, mais elle demeure une référence secondaire."
 ---
+
 ![Image de Iphigénie](https://upload.wikimedia.org/wikipedia/commons/5/56/Iphigenie.jpeg)
 
 ###### Questions
@@ -29,7 +30,7 @@ Dans quel opéra de [[Christoph Willibald Gluck]] créé en 1774, une jeune prin
 
 Quelle héroïne de la [[mythologie grecque]], fille de [[Clytemnestre]] et [[Agamemnon]], est sauvée de son sacrifice dans l'œuvre "Iphigénie en Tauride" publiée en 1779 ?
 
-Quel personnage mythologique voit son histoire être racontée dans la tragédie "Iphigénie" de [[Jean Racine]], pièce créée en 1674 ?
+Quel personnage mythologique voit son histoire être racontée dans la tragédie "Iphigénie" de [[Jean Racine]], pièce créée en 1674 ? <!-- score: 9 -->
 
 ###### Description
 
