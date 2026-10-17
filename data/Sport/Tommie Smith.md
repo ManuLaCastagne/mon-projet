@@ -23,11 +23,12 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Le geste de Mexico 1968 est une référence majeure à la fois sportive, historique et politique, souvent utilisée comme indice de quiz."
 ---
+
 ![Image de Tommie Smith](https://upload.wikimedia.org/wikipedia/commons/1/1a/Tommie_Smith_1968.jpg)
 
 ###### Questions
 
-Quel athlète américain a levé le poing pour protester contre la discrimination raciale sur le podium des [[Jeux olympiques]] de [[1968]] ?
+Quel athlète américain a levé le poing pour protester contre la discrimination raciale sur le podium des [[Jeux olympiques]] de [[1968]] ? <!-- score: 3 -->
 
 Quel détenteur de record du monde en [[1968]] sur 200 mètres a marqué l'histoire par un geste politique lors des [[Jeux olympiques]] de [[Mexico]] ?
 
