@@ -23,16 +23,13 @@ questions:
 culture_g_score: 44
 culture_g_justification: "Sprinteuse belge titrée au niveau européen, mais connaissance assez spécialisée et peu transversale en quiz généraliste."
 ---
+
+
 ![Image de Kim Gevaert](https://upload.wikimedia.org/wikipedia/commons/9/9d/Kim_Gevaert_28.JPG)
 
 ###### Questions
 
 Quel(le) sprinter(s) belge a remporté la médaille d'or dans le relais 4x100 mètres féminin aux [[Jeux olympiques de Pékin]] en [[2008]] ? 
-
-Au championnat d'Europe d'athlétisme de [[Gothenburg]] en [[2006]], qui a été sacrée double championne d'Europe sur les distances de 100 mètres et 200 mètres ?
-
-Quelle athlète a été désignée [[Personnalité sportive belge de l'année]] en [[2006]] après avoir excellé dans les épreuves de sprint ?
-
 ###### Description
 
 [[Kim Gevaert]] est une athlète belge née à [[Louvain]] le 5 août 1978, spécialisée dans les courses de sprint. 
