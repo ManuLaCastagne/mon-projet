@@ -29,12 +29,20 @@ culture_g_justification: "Classique du cinéma français lié à Pagnol, à la P
 
 ###### Questions
 
-Dans quel film [[Jean de Florette]] est-il présenté en 1986, illustrant une adaptation de l'œuvre de [[Marcel Pagnol]], réalisée par [[Claude Berri]] ?
+Quel film de [[Claude Berri]], sorti en 1986 et adapté de [[Marcel Pagnol]], précède [[Manon des sources]] ?
 
-Quel film est marqué par la performance de [[Gérard Depardieu]] en tant que protagoniste, explorant les thèmes de la tromperie et de la cupidité en 1920 dans la région de [[Provence]] ?
+Quel film, premier volet du diptyque de Claude Berri, vaut en 1987 à [[Daniel Auteuil]] le César du meilleur acteur pour le rôle d'Ugolin ?
 
-Dans quelle œuvre cinématographique de 1986, le personnage de [[Jean Cadoret]], interprété par [[Gérard Depardieu]], entreprend-il de revitaliser une terre héritée, devenant ainsi un classique du cinéma français ?
+Dans quel film de 1986 [[Gérard Depardieu]] joue-t-il un bossu venu de la ville, dont [[Yves Montand]] et [[Daniel Auteuil]] bouchent en secret la source ?
 
 ###### Description
 
 [[Jean de Florette]] est un film français réalisé par [[Claude Berri]], sorti en 1986, qui est une adaptation du roman du même nom écrit par [[Marcel Pagnol]]. Situé dans la Provence des années 1920, le film explore les thèmes de la cupidité et de la nature humaine à travers le personnage de [[Jean Cadoret]], joué par [[Gérard Depardieu]]. [[Yves Montand]] incarne [[César Soubeyran]], dit "le Papet", qui, avec son neveu [[Ugolin]], interprété par [[Daniel Auteuil]], élabore un plan pour s'emparer des terres de Jean. Ce film fait partie d'un diptyque, suivi par [[Manon des Sources]], et a reçu un grand succès critique et commercial, enregistrant plus de trois millions d'entrées en France.
+
+###### Archives questions
+
+Dans quel film [[Jean de Florette]] est-il présenté en 1986, illustrant une adaptation de l'œuvre de [[Marcel Pagnol]], réalisée par [[Claude Berri]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle œuvre cinématographique de 1986, le personnage de [[Jean Cadoret]], interprété par [[Gérard Depardieu]], entreprend-il de revitaliser une terre héritée, devenant ainsi un classique du cinéma français ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film est marqué par la performance de [[Gérard Depardieu]] en tant que protagoniste, explorant les thèmes de la tromperie et de la cupidité en 1920 dans la région de [[Provence]] ? <!-- cm003 remplacée 2026-11-23 -->

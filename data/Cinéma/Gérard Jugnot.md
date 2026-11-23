@@ -29,12 +29,18 @@ culture_g_justification: "Membre emblématique du Splendid et acteur de grands s
 
 ###### Questions
 
-Dans quel film de [[Jean-Marie Poiré]] sorti en 1982 [[Gérard Jugnot]] incarne-t-il le personnage de monsieur [[Boutabi]] ?
+Quel acteur joue Félix, le père Noël de rue violent qui poursuit Josette, dans [[Le père Noël est une ordure]] (1982) de [[Jean-Marie Poiré]] ?
 
-Quel membre de la troupe du [[Splendid]], né en 1951, a coproduit et joué dans le film culte [[Les Bronzés]] en 1978 ?
+Quel membre de la troupe du [[Splendid]] joue Bernard Morin dans [[Les Bronzés]] (1978) de [[Patrice Leconte]] ?
 
 Quel acteur et réalisateur français a dirigé le film [[Monsieur Batignole]] sorti en 2002 et y a tenu le rôle principal ?
 
 ###### Description
 
 [[Gérard Jugnot]] est un acteur, réalisateur et producteur français né le 4 mai 1951 à Paris. Il s'est fait connaître dans les années 1970 en tant que membre de la troupe comique du [[Splendid]], aux côtés de [[Christian Clavier]], [[Thierry Lhermitte]], et [[Josiane Balasko]]. En 1980, il interprète l'un de ses rôles les plus emblématiques dans le film culte "[[Les Bronzés font du ski]]". En 2004, [[Gérard Jugnot]] réalise et joue dans "Les Choristes", un immense succès du box-office français, qui obtient huit nominations aux César et est sélectionné pour représenter la France aux Oscars.
+
+###### Archives questions
+
+Dans quel film de [[Jean-Marie Poiré]] sorti en 1982 [[Gérard Jugnot]] incarne-t-il le personnage de monsieur [[Boutabi]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel membre de la troupe du [[Splendid]], né en 1951, a coproduit et joué dans le film culte [[Les Bronzés]] en 1978 ? <!-- cm003 remplacée 2026-11-23 -->

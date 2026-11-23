@@ -30,12 +30,20 @@ culture_g_justification: "Actrice oscarisée et figure de Marvel, offrant des an
 
 ###### Questions
 
-Dans quel film sorti en 1998, [[Gwyneth Paltrow]] a-t-elle remporté l'Oscar de la meilleure actrice pour son rôle de [[Viola de Lesseps]] ? 
+Quelle actrice remporte l'Oscar de la meilleure actrice pour le rôle de Viola de Lesseps dans [[Shakespeare in Love]] (1998) ?
 
-Quel personnage secondaire féminin a été interprété par [[Gwyneth Paltrow]] dans la franchise cinématographique [[Iron Man]] débutant en 2008 ? 
+Quelle actrice incarne Pepper Potts, l'assistante de Tony Stark, dans [[Iron Man]] (2008) ?
 
-Quelle plateforme de streaming a hébergé en 2020 la série documentaire produite par [[Gwyneth Paltrow]] nommée [[The Goop Lab]] ?
+Quelle actrice, fondatrice de la marque Goop, présente en 2020 la série [[The Goop Lab]] sur [[Netflix]] ?
 
 ###### Description
 
 [[Gwyneth Paltrow]], née en 1972, est une actrice américaine qui a connu la consécration en remportant l'[[Oscar de la meilleure actrice]] en 1999 pour le film "[[Shakespeare in Love]]". Sa carrière a débuté dans les années 1990, où elle a travaillé avec de grands réalisateurs, notamment [[David Fincher]] dans "[[Seven]]" en 1995. Elle est également célèbre pour son rôle de [[Pepper Potts]] dans l'univers cinématographique de Marvel, apparaissant pour la première fois dans "[[Iron Man]]" en 2008. En dehors du cinéma, [[Gwyneth Paltrow]] est à la tête de la marque de lifestyle [[Goop]], qu'elle a fondée en 2008.
+
+###### Archives questions
+
+Dans quel film sorti en 1998, [[Gwyneth Paltrow]] a-t-elle remporté l'Oscar de la meilleure actrice pour son rôle de [[Viola de Lesseps]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage secondaire féminin a été interprété par [[Gwyneth Paltrow]] dans la franchise cinématographique [[Iron Man]] débutant en 2008 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle plateforme de streaming a hébergé en 2020 la série documentaire produite par [[Gwyneth Paltrow]] nommée [[The Goop Lab]] ? <!-- cm003 remplacée 2026-11-23 -->

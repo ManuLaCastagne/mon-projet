@@ -27,11 +27,11 @@ culture_g_justification: "Actrice très reconnaissable grâce à Harry Potter, T
 
 ###### Questions
 
-Dans quel film de [[David Fincher]] sorti en 1999, [[Helena Bonham Carter]] joue-t-elle le rôle de [[Marla Singer]] ? 
+Quelle actrice joue Marla Singer dans [[Fight Club]] (1999) de [[David Fincher]] ?
 
-Quel célèbre personnage de la [[littérature anglaise]] est incarné par [[Helena Bonham Carter]] dans le film de [[Tim Burton]], [[Alice au pays des merveilles]], sorti en 2010 ? 
+Quelle actrice incarne la Reine rouge dans [[Alice au pays des merveilles]] (2010) de [[Tim Burton]] ?
 
-Dans quel film de [[Tom Hooper]] de 2010 [[Helena Bonham Carter]] joue-t-elle le rôle d'[[Elizabeth Bowes-Lyon]], la mère de la future [[reine Élisabeth II]] ?
+Quelle actrice incarne l'épouse du roi George VI dans [[Le Discours d'un roi]] (2010) de [[Tom Hooper]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Née le 26 mai 1966 à [[Londres]], elle a débuté sa carrière avec le film [[
 Un fait étonnant peu connu est qu'elle est une descendante de l'ancien Premier ministre britannique [[Herbert Henry Asquith]], ce qui a fait d'elle une figure notable à la fois dans le cinéma et parmi les personnalités historiques influentes du Royaume-Uni. 
 
 En 2012, elle a remporté un [[BAFTA]] pour son rôle dans le film [[The King's Speech]] ([[Le Discours d'un Roi]]), où elle joue aux côtés de [[Colin Firth]] et de [[Geoffrey Rush]].
+
+###### Archives questions
+
+Dans quel film de [[David Fincher]] sorti en 1999, [[Helena Bonham Carter]] joue-t-elle le rôle de [[Marla Singer]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre personnage de la [[littérature anglaise]] est incarné par [[Helena Bonham Carter]] dans le film de [[Tim Burton]], [[Alice au pays des merveilles]], sorti en 2010 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Tom Hooper]] de 2010 [[Helena Bonham Carter]] joue-t-elle le rôle d'[[Elizabeth Bowes-Lyon]], la mère de la future [[reine Élisabeth II]] ? <!-- cm003 remplacée 2026-11-23 -->

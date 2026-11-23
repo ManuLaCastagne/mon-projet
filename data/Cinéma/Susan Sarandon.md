@@ -29,11 +29,11 @@ culture_g_justification: "Actrice américaine liée à Thelma et Louise, Dead Ma
 
 ###### Questions
 
-Dans quel film culte de 1991 Susan Sarandon joue-t-elle aux côtés de [[Geena Davis]] dans le rôle de [[Louise Sawyer]], un film qui est devenu un symbole du féminisme au cinéma ?
+Quelle actrice joue Louise Sawyer face à [[Geena Davis]] dans [[Thelma et Louise]] (1991) de [[Ridley Scott]] ?
 
-Quelle actrice, ayant remporté un Oscar en 1996 pour son rôle dans le film [[Dead Man Walking]], a été nommée cinq fois pour cette prestigieuse récompense tout en apparaissant dans des films mémorables comme [[Thelma & Louise]] et [[The Rocky Horror Picture Show]] ? <!-- score: 5 -->
+Quelle actrice remporte l'Oscar de la meilleure actrice en 1996 pour son rôle de sœur Helen Prejean dans [[La Dernière Marche]] ?
 
-Dans quel film musical culte sorti en 1975 Susan Sarandon a-t-elle incarné le personnage de [[Janet Weiss]], partageant l'écran avec des talents comme [[Tim Curry]] et [[Barry Bostwick]] ?
+Quelle actrice incarne la jeune fiancée Janet Weiss dans [[The Rocky Horror Picture Show]] (1975) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a remporté l'[[Oscar de la meilleure actrice]] en 1996 pour sa performance
 Née à New York en 1946, [[Susan Sarandon]] a démarré sa carrière en 1970 avec le film "[[Joe]]", partageant l'affiche avec [[Peter Boyle]].  
 
 Parmi ses autres collaborations mémorables, on compte sa prestation dans "[[The Rocky Horror Picture Show]]" de 1975, une comédie musicale devenue culte avec le temps.
+
+###### Archives questions
+
+Dans quel film culte de 1991 Susan Sarandon joue-t-elle aux côtés de [[Geena Davis]] dans le rôle de [[Louise Sawyer]], un film qui est devenu un symbole du féminisme au cinéma ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film musical culte sorti en 1975 Susan Sarandon a-t-elle incarné le personnage de [[Janet Weiss]], partageant l'écran avec des talents comme [[Tim Curry]] et [[Barry Bostwick]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice, ayant remporté un Oscar en 1996 pour son rôle dans le film [[Dead Man Walking]], a été nommée cinq fois pour cette prestigieuse récompense tout en apparaissant dans des films mémorables comme [[Thelma & Louise]] et [[The Rocky Horror Picture Show]] ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->

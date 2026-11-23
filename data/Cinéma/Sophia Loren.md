@@ -29,12 +29,20 @@ culture_g_justification: "Icône internationale du cinéma italien, associée à
 
 ###### Questions
 
-Dans quel film de 1964 [[Sophia Loren]] a-t-elle joué un personnage qui lui a permis de gagner l'[[Oscar de la meilleure actrice]] pour un film en langue étrangère, devenant ainsi la première actrice à recevoir cette récompense pour un rôle non anglophone ? 
+Quelle actrice est la première à remporter l'Oscar de la meilleure actrice pour un rôle non anglophone, dans [[La Ciociara]] de [[Vittorio De Sica]] ?
 
-En quelle année [[Sophia Loren]] a-t-elle reçu un [[Oscar d'honneur]], soulignant l'impact de sa carrière dans le monde du [[cinéma]] international ? 
+Quelle actrice italienne, partenaire de [[Marcello Mastroianni]] dans [[Mariage à l'italienne]], reçoit un [[Oscar d'honneur]] en 1991 ?
 
-Dans quelle ville italienne est née [[Sophia Loren]], la star du cinéma international, en 1934 ?
+Quelle actrice, née à Rome en 1934, grandit à [[Pouzzoles]] près de [[Naples]] ?
 
 ###### Description
 
 [[Sophia Loren]] est une actrice italienne emblématique, née le 20 septembre 1934 à Rome. Elle a remporté l'Oscar de la meilleure actrice en 1962 pour son rôle dans le film "[[La Ciociara]]" de [[Vittorio De Sica]], devenant ainsi la première actrice à gagner un Oscar pour un film en langue étrangère. En 1964, elle joue aux côtés de [[Marcello Mastroianni]] dans le film "[[Mariage à l'italienne]]", renforçant leur duo célèbre sur grand écran. En reconnaissance de sa carrière exceptionnelle, [[Sophia Loren]] a reçu un [[Oscar d'honneur]] en 1991, célébrant sa contribution au cinéma mondial.
+
+###### Archives questions
+
+Dans quel film de 1964 [[Sophia Loren]] a-t-elle joué un personnage qui lui a permis de gagner l'[[Oscar de la meilleure actrice]] pour un film en langue étrangère, devenant ainsi la première actrice à recevoir cette récompense pour un rôle non anglophone ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Sophia Loren]] a-t-elle reçu un [[Oscar d'honneur]], soulignant l'impact de sa carrière dans le monde du [[cinéma]] international ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville italienne est née [[Sophia Loren]], la star du cinéma international, en 1934 ? <!-- cm003 remplacée 2026-11-23 -->

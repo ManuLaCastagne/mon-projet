@@ -27,11 +27,11 @@ culture_g_justification: "Acteur associé à Gladiator, aux adaptations historiq
 
 ###### Questions
 
-Dans quel film de [[Ridley Scott]] sorti en 2000 [[Russell Crowe]] incarne-t-il le personnage de [[Maximus Decimus Meridius]], un général romain devenu gladiateur ?
+Quel acteur incarne le général Maximus dans [[Gladiator]] (2000) de [[Ridley Scott]] ?
 
-Qui est à l'affiche de "Master and Commander", et a été récompensé en 2020 par un Golden Globe dans mon rôle dans la série "The Loudest Voice" ?
+Quel acteur, capitaine Jack Aubrey dans [[Master and Commander]], reçoit en 2020 un Golden Globe pour son rôle de [[Roger Ailes]] dans la série [[The Loudest Voice]] ?
 
-Quel acteur né en [[Nouvelle-Zélande]] a joué le personnage de [[Javert]] dans l'adaptation cinématographique de [[Les Misérables]] en 2012 ?
+Quel acteur né en [[Nouvelle-Zélande]] joue l'inspecteur Javert dans [[Les Misérables]] (2012) de [[Tom Hooper]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Avant de devenir mondialement célèbre, Crowe a commencé sa carrière dans la 
 Un fait étonnant : malgré être originaire de [[Nouvelle-Zélande]], Crowe est un fervent supporter de l'équipe de rugby à XIII australienne, les [[South Sydney Rabbitohs]], dont il est devenu co-propriétaire en 2006. 
 
 En dehors de sa carrière cinématographique, [[Russell Crowe]] est également musicien et a fait partie du groupe de rock [[30 Odd Foot of Grunts]] jusqu'en 2005, une passion qui l'accompagne depuis ses jeunes années.
+
+###### Archives questions
+
+Dans quel film de [[Ridley Scott]] sorti en 2000 [[Russell Crowe]] incarne-t-il le personnage de [[Maximus Decimus Meridius]], un général romain devenu gladiateur ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur né en [[Nouvelle-Zélande]] a joué le personnage de [[Javert]] dans l'adaptation cinématographique de [[Les Misérables]] en 2012 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui est à l'affiche de "Master and Commander", et a été récompensé en 2020 par un Golden Globe dans mon rôle dans la série "The Loudest Voice" ? <!-- cm003 remplacée 2026-11-23 -->

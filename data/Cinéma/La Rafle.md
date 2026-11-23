@@ -29,11 +29,11 @@ culture_g_justification: "Film populaire sur la rafle du Vél' d'Hiv', reliant c
 
 ###### Questions
 
-Dans quel film sorti en 2010 l'acteur [[Jean Reno]] incarne-t-il un médecin juif durant la [[Seconde Guerre mondiale]] ?
+Dans quel film de 2010 [[Jean Reno]] incarne-t-il un médecin juif soignant les familles parquées au [[Vélodrome d'Hiver]] ?
 
-Dans quel long-métrage français le personnage de [[Jo Weisman]], un jeune garçon, est-il au cœur des événements tragiques de la [[rafle du Vél' d'Hiv']] en 1942 ?
+Quel film français de 2010 s'inspire du témoignage de Joseph Weismann, arrêté enfant à Paris en juillet 1942 puis évadé d'un camp du Loiret ?
 
-Quel film réalisé par [[Roselyne Bosch]] met en lumière l'histoire vraie de la rafle menée par les autorités françaises en collaboration avec l'occupant nazi à Paris pendant l'été 1942 ?
+Quel film de [[Roselyne Bosch]] (2010) montre [[Mélanie Laurent]] en infirmière de la Croix-Rouge suivant des enfants juifs jusqu'au camp de [[Beaune-la-Rolande]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Le film met en lumière les souffrances des familles juives, principalement à t
 Avec une distribution marquante, on retrouve notamment [[Jean Reno]] dans le rôle du docteur [[David Sheinbaum]] et [[Mélanie Laurent]] incarnant [[Annette Monod]], une infirmière dévouée. 
 
 La production a été saluée pour son attention aux détails historiques et son engagement à rendre hommage aux victimes de ce sombre chapitre de l'histoire française.
+
+###### Archives questions
+
+Dans quel long-métrage français le personnage de [[Jo Weisman]], un jeune garçon, est-il au cœur des événements tragiques de la [[rafle du Vél' d'Hiv']] en 1942 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film réalisé par [[Roselyne Bosch]] met en lumière l'histoire vraie de la rafle menée par les autorités françaises en collaboration avec l'occupant nazi à Paris pendant l'été 1942 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film sorti en 2010 l'acteur [[Jean Reno]] incarne-t-il un médecin juif durant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->

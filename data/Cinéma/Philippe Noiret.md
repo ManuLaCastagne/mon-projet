@@ -29,11 +29,11 @@ culture_g_justification: "Acteur français majeur, présent dans de nombreux cla
 
 ###### Questions
 
-Dans quel film de [[Bertrand Tavernier]] sorti en 1981 Philippe Noiret joue-t-il le rôle d'un policier désabusé nommé [[Lucien]] ?
+Quel acteur joue Lucien Cordier, policier veule d'une bourgade d'Afrique coloniale, dans [[Coup de torchon]] (1981) de [[Bertrand Tavernier]] ?
 
-Quel acteur français, connu pour son rôle dans le film "[[Cinéma Paradiso]]", a remporté le [[César du meilleur acteur]] en 1990 ?
+Quel acteur reçoit le [[César du meilleur acteur]] en 1990 pour [[La Vie et rien d'autre]] de [[Bertrand Tavernier]] ?
 
-Dans quelle adaptation cinématographique de [[Marcel Pagnol]], réalisée par [[Claude Berri]], Philippe Noiret joue-t-il le rôle de [[César Soubeyran]] en 1986 ?
+Quel acteur joue le projectionniste Alfredo dans [[Cinema Paradiso]] (1988) de [[Giuseppe Tornatore]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Philippe [[Noiret]] était un acteur français emblématique, né le 1er octobre
 Noiret a également été largement salué pour son rôle dans le film "Cinema Paradiso" de [[Giuseppe Tornatore]], sorti en 1988, où il incarnait le projectionniste [[Alfredo]]. 
 
 En 2006, l'année de sa disparition à Paris, il laissait derrière lui une filmographie impressionnante de plus de 120 films, consolidant sa place parmi les grands de l'histoire du cinéma français.
+
+###### Archives questions
+
+Dans quel film de [[Bertrand Tavernier]] sorti en 1981 Philippe Noiret joue-t-il le rôle d'un policier désabusé nommé [[Lucien]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle adaptation cinématographique de [[Marcel Pagnol]], réalisée par [[Claude Berri]], Philippe Noiret joue-t-il le rôle de [[César Soubeyran]] en 1986 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur français, connu pour son rôle dans le film "[[Cinéma Paradiso]]", a remporté le [[César du meilleur acteur]] en 1990 ? <!-- cm003 remplacée 2026-11-23 -->

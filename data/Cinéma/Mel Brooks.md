@@ -29,12 +29,20 @@ culture_g_justification: "Réalisateur majeur de la comédie américaine, exploi
 
 ###### Questions
 
-Dans quel film de [[Mel Brooks]], sorti en 1974, retrouve-t-on une parodie des films d'horreur classique mettant en vedette [[Gene Wilder]] ?
+Quel réalisateur parodie les films d'horreur des studios Universal dans [[Frankenstein Junior]] (1974), avec [[Gene Wilder]] ?
 
-Quel réalisateur, connu pour sa capacité à mêler comédie et satire, a remporté l'Oscar du meilleur scénario original en 1968 pour le film [[The Producers]] ? <!-- score: 3 -->
+Quel cinéaste remporte l'Oscar du meilleur scénario original pour [[Les Producteurs]], son premier long métrage ?
 
-En 1981, qui a réalisé le film comique [[La Folle Histoire du monde]] et y a également interprété cinq rôles différents ?
+Quel cinéaste joue à la fois Moïse, Torquemada et Louis XVI dans [[La Folle Histoire du monde]] (1981), qu'il a réalisée ?
 
 ###### Description
 
 [[Mel Brooks]], réalisateur et scénariste de génie, a marqué l'histoire du cinéma avec son style inimitable de comédie parodique. Il a remporté un Oscar en 1968 pour le scénario de son premier film, « [[The Producers]] », qui est devenu un classique incontournable. Un autre de ses films emblématiques, « [[Blazing Saddles]] », sorti en 1974, a brillamment parodié les westerns tout en abordant des thèmes comme le racisme de manière humoristique. En 1974, il a également réalisé « [[Young Frankenstein]] », une parodie des films d'horreur des années 1930, qui est souvent considéré comme l'un de ses chefs-d'œuvre.
+
+###### Archives questions
+
+Dans quel film de [[Mel Brooks]], sorti en 1974, retrouve-t-on une parodie des films d'horreur classique mettant en vedette [[Gene Wilder]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel réalisateur, connu pour sa capacité à mêler comédie et satire, a remporté l'Oscar du meilleur scénario original en 1968 pour le film [[The Producers]] ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->
+
+En 1981, qui a réalisé le film comique [[La Folle Histoire du monde]] et y a également interprété cinq rôles différents ? <!-- cm003 remplacée 2026-11-23 -->

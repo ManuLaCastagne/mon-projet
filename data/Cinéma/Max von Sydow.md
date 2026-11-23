@@ -25,11 +25,11 @@ culture_g_justification: "Grand acteur international associé à Bergman, L’Ex
 
 ###### Questions
 
-Dans quel film de [[1968]], réalisé par [[Ingmar Bergman]], [[Max von Sydow]] incarne-t-il le rôle d'un peintre tourmenté nommé [[Johan Borg]] ?
+Quel acteur suédois joue le peintre tourmenté Johan Borg dans [[L'Heure du loup]] (1968) d'[[Ingmar Bergman]] ?
 
-Quel acteur, ayant joué dans le film [[L'Exorciste]] de [[1973]], a repris le rôle de [[L'étranger]] dans la série [[Game of Thrones]] en [[2016]] ?
+Quel acteur, le père Merrin de [[L'Exorciste]] (1973), incarne la Corneille à trois yeux dans la saison 6 de [[Game of Thrones]] ?
 
-Qui a prêté sa voix au personnage de l'[[Empereur Ming]] dans le film [[Flash Gordon]] de [[1980]] ?
+Quel acteur incarne l'empereur Ming l'Impitoyable dans [[Flash Gordon]] (1980) de [[Mike Hodges]] ?
 
 ###### Description
 
@@ -40,3 +40,11 @@ Il est principalement connu pour ses collaborations avec le réalisateur [[Ingma
 Un fait étonnant est qu'il a incarné le rôle de l'exorciste dans le film culte "L'Exorciste" en 1973, alors qu'il n'avait que 44 ans, mais était maquillé pour paraître beaucoup plus âgé, ce qui est souvent une source de confusion parmi les cinéphiles. 
 
 En 2016, il devient, avec sa nomination pour [[Game of Thrones]], l'un des acteurs les plus âgés à être nommé aux [[Emmy Awards]] à l'âge de 87 ans.
+
+###### Archives questions
+
+Dans quel film de [[1968]], réalisé par [[Ingmar Bergman]], [[Max von Sydow]] incarne-t-il le rôle d'un peintre tourmenté nommé [[Johan Borg]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, ayant joué dans le film [[L'Exorciste]] de [[1973]], a repris le rôle de [[L'étranger]] dans la série [[Game of Thrones]] en [[2016]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a prêté sa voix au personnage de l'[[Empereur Ming]] dans le film [[Flash Gordon]] de [[1980]] ? <!-- cm003 remplacée 2026-11-23 -->

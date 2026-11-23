@@ -25,9 +25,9 @@ culture_g_justification: "Acteur majeur associé à Men in Black, Le Fugitif, au
 
 ###### Questions
 
-Dans quel film de [[1997]], [[Tommy Lee Jones]] joue-t-il aux côtés de [[Will Smith]] en tant qu'agent du gouvernement combattant des extraterrestres ?
+Quel acteur incarne l'agent K aux côtés de [[Will Smith]] dans [[Men in Black]] (1997) ?
 
-Quel acteur a remporté le prix du [[Meilleur Acteur dans un Second Rôle]] aux [[Oscars 1994]] pour son rôle dans [[Le Fugitif]], aux côtés de [[Harrison Ford]] ?
+Quel acteur remporte l'Oscar du meilleur second rôle en 1994 pour le marshal Samuel Gerard dans [[Le Fugitif]] ?
 
 Quel célèbre acteur américain partage sa date de naissance le [[15 septembre 1946]] avec [[Oliver Stone]] ?
 
@@ -40,3 +40,9 @@ Il est mondialement reconnu pour ses rôles dans des films comme "[[Men in Black
 Un fait étonnant à propos de [[Tommy Lee Jones]] est qu'il a été camarade de chambre avec l'ancien vice-président américain [[Al Gore]] lorsqu'ils étaient tous deux étudiants à l'université de [[Harvard]]. 
 
 En plus de sa brillante carrière cinématographique, [[Tommy Lee Jones]] est aussi connu en tant que passionné de polo, un sport qu'il pratique depuis plusieurs décennies.
+
+###### Archives questions
+
+Dans quel film de [[1997]], [[Tommy Lee Jones]] joue-t-il aux côtés de [[Will Smith]] en tant qu'agent du gouvernement combattant des extraterrestres ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a remporté le prix du [[Meilleur Acteur dans un Second Rôle]] aux [[Oscars 1994]] pour son rôle dans [[Le Fugitif]], aux côtés de [[Harrison Ford]] ? <!-- cm003 remplacée 2026-11-23 -->

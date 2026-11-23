@@ -27,15 +27,15 @@ culture_g_justification: "Star mondiale abondamment interrogée à travers ses f
 
 ###### Questions
 
-Qui a été révélé par une série télé se déroulant à Los Angeles dans laquelle il incarne un jeune de Philadelphie ?
+Quel acteur est révélé par la série [[Le Prince de Bel-Air]], où il joue un adolescent de Philadelphie envoyé chez son oncle à Los Angeles ?
 
-Qui a tourné dans de nombreux films d'action comme "[[Independence Day]]" ?
+Quel acteur joue le pilote Steven Hiller dans [[Independence Day]] (1996) de [[Roland Emmerich]] ?
 
-Dans quel film de 2007 [[Will Smith]] joue-t-il le rôle du dernier survivant d'une pandémie mondiale qui transforme les humains en créatures hostiles ?
+Quel acteur joue Robert Neville, dernier survivant de New York, dans [[Je suis une légende]] (2007) ?
 
-Quel acteur a refusé le rôle principal dans le film de science-fiction emblématique de 1999, Matrix, acceptant à la place de jouer dans [[Wild Wild West]] la même année ?
+Quel acteur refuse le rôle de Neo dans [[Matrix]] (1999) et tourne à la place [[Wild Wild West]] ?
 
-Quelle star hollywoodienne a remporté le [[Oscar du meilleur acteur]] en 2002 pour son interprétation du légendaire boxeur [[Mohamed Ali]] dans le film biographique du même nom ?
+Quel acteur remporte en 2022 l'Oscar du meilleur acteur pour son rôle du père des sœurs Williams dans [[La Méthode Williams]] ?
 
 ###### Description
 
@@ -46,3 +46,15 @@ Avant cela, il avait déjà fait sensation avec [[Bad Boys]] en 1995, où il jou
 En 2001, sa performance magistrale dans le film biographique [[Ali]], où il incarnait le légendaire boxeur [[Mohamed Ali]], lui a valu une nomination aux Oscars. 
 
 Plus récemment, en 2022, il a remporté l'Oscar du meilleur acteur pour son rôle dans [[King Richard]], où il incarne le père des célèbres joueuses de tennis [[Serena]] et [[Venus Williams]].
+
+###### Archives questions
+
+Dans quel film de 2007 [[Will Smith]] joue-t-il le rôle du dernier survivant d'une pandémie mondiale qui transforme les humains en créatures hostiles ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a refusé le rôle principal dans le film de science-fiction emblématique de 1999, Matrix, acceptant à la place de jouer dans [[Wild Wild West]] la même année ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a été révélé par une série télé se déroulant à Los Angeles dans laquelle il incarne un jeune de Philadelphie ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a tourné dans de nombreux films d'action comme "[[Independence Day]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle star hollywoodienne a remporté le [[Oscar du meilleur acteur]] en 2002 pour son interprétation du légendaire boxeur [[Mohamed Ali]] dans le film biographique du même nom ? <!-- cm003 remplacée 2026-11-23 -->

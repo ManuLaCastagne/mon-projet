@@ -29,12 +29,20 @@ culture_g_justification: "Acteur reconnu grâce à Traffic, Usual Suspects et Ch
 
 ###### Questions
 
-Dans quel film sorti en 1995 un acteur encore relativement inconnu, Benicio Del Toro, se distingue par son jeu et son charisme dans un rôle secondaire de criminel excentrique ?
+Quel acteur portoricain joue Fred Fenster, le truand au phrasé incompréhensible, dans [[Usual Suspects]] (1995) ?
 
-En 2000, Benicio Del Toro remporte l'Oscar du meilleur acteur dans un second rôle pour sa performance dans quel film traitant du trafic de drogue, mettant également en vedette [[Michael Douglas]] et [[Catherine Zeta-Jones]] ?
+Quel acteur remporte en 2001 l'Oscar du meilleur second rôle pour le policier mexicain Javier Rodríguez dans [[Traffic]] ?
 
-Dans quel film de [[Steven Soderbergh]] sorti en 2008, Benicio Del Toro incarne-t-il le rôle révolutionnaire d'un célèbre personnage historique, ce qui lui vaut de recevoir le prix d'interprétation masculine au Festival de Cannes ?
+Quel acteur reçoit le prix d'interprétation masculine à Cannes en 2008 pour son rôle d'[[Ernesto Guevara|Che Guevara]] chez [[Steven Soderbergh]] ?
 
 ###### Description
 
 [[Benicio Del Toro]] est un acteur portoricain renommé pour ses rôles intenses et variés dans l'industrie cinématographique. Il a remporté un Oscar du meilleur acteur dans un second rôle en 2001 pour son interprétation dans le film "[[Traffic]]", réalisé par [[Steven Soderbergh]]. Del Toro est également célèbre pour son rôle du charismatique [[Dr. Gonzo]] dans "[[Las Vegas Parano]]" sorti en 1998, aux côtés de [[Johnny Depp]]. En 2008, il incarne le révolutionnaire [[Ernesto "Che" Guevara]] dans "[[Che]]", un film en deux parties qui lui a valu le prix d'interprétation masculine au Festival de Cannes.
+
+###### Archives questions
+
+Dans quel film sorti en 1995 un acteur encore relativement inconnu, Benicio Del Toro, se distingue par son jeu et son charisme dans un rôle secondaire de criminel excentrique ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2000, Benicio Del Toro remporte l'Oscar du meilleur acteur dans un second rôle pour sa performance dans quel film traitant du trafic de drogue, mettant également en vedette [[Michael Douglas]] et [[Catherine Zeta-Jones]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Steven Soderbergh]] sorti en 2008, Benicio Del Toro incarne-t-il le rôle révolutionnaire d'un célèbre personnage historique, ce qui lui vaut de recevoir le prix d'interprétation masculine au Festival de Cannes ? <!-- cm003 remplacée 2026-11-23 -->

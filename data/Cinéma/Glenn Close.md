@@ -32,9 +32,9 @@ culture_g_justification: "Actrice très reconnue, associée à des films marquan
 
 Quelle actrice incarne la marquise de Merteuil dans [[Les Liaisons dangereuses]] (1988) de [[Stephen Frears]] ?
 
-En 2021, pour quel film [[Glenn Close]] a-t-elle été nominée à la fois aux Oscars et aux [[Razzie Awards]], ce qui est un fait rare pour une actrice dans la même année ?
+Quelle actrice est nommée en 2021, pour le même rôle dans [[Une ode américaine]], à la fois à l'Oscar et au [[Razzie Awards|Razzie]] du second rôle féminin ?
 
-Quel rôle [[Glenn Close]] a-t-elle incarné dans le film de [[Cruella De Vil]] en 1996 qui est une adaptation en prises de vues réelles d'un célèbre film d'animation sorti en 1961 ?
+Quelle actrice incarne Cruella d'Enfer dans [[Les 101 Dalmatiens]] (1996), adaptation en prises de vues réelles du dessin animé [[Disney]] ?
 
 ###### Description
 
@@ -47,3 +47,7 @@ En outre, elle a incarné la marquise de Merteuil dans l'adaptation cinématogra
 ###### Archives questions
 
 Dans quel film de 1988 l'actrice [[Glenn Close]] incarne-t-elle le rôle de la fascinante Marquise de Merteuil dans l'adaptation cinématographique [[Liaisons fatales]] du roman épistolaire [[Les Liaisons dangereuses]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2021, pour quel film [[Glenn Close]] a-t-elle été nominée à la fois aux Oscars et aux [[Razzie Awards]], ce qui est un fait rare pour une actrice dans la même année ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle [[Glenn Close]] a-t-elle incarné dans le film de [[Cruella De Vil]] en 1996 qui est une adaptation en prises de vues réelles d'un célèbre film d'animation sorti en 1961 ? <!-- cm003 remplacée 2026-11-23 -->
