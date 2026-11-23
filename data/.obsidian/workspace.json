@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Guillaume Canet.md",
+                "file": "Cinéma/John Wick.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Guillaume Canet.md",
+                "file": "Cinéma/John Wick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guillaume Canet"
+              "title": "John Wick"
             }
           }
         ],
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinéma/Guillaume Canet.md",
+                "file": "Cinéma/John Wick.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,6 +364,7 @@
   },
   "active": "71252c55d9d4b291",
   "lastOpenFiles": [
+    "Cinéma/Guillaume Canet.md",
     "Géographie/Islamabad.md",
     "Histoire/Révolution de velours.md",
     "attachments/Pasted image 20261004162756.png",
@@ -393,7 +394,6 @@
     "Art/Marius Petipa.md",
     "Musique/La Bayadère.md",
     "Musique/Piotr Ilitch Tchaïkovski.md",
-    "Architecture/Théâtre Mariinsky.md",
     "Culture générale/Sans titre 4.base",
     "Culture générale/Sans titre 3.base",
     "Culture générale/Sans titre 2.base",
