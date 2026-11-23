@@ -1,7 +1,7 @@
 # Mode opératoire — nettoyage autonome du coffre Culture Max (CM-003)
 
 Ce document guide une session Claude **sans personne pour répondre**. Il fait foi pour chaque lot.
-Le Product Owner (Emmanuel) a délégué le nettoyage le 23/11/2026 : agir seul, ne remonter que les vrais doutes.
+Le Product Owner (Emmanuel) a délégué le nettoyage le 23/11/2026 : agir seul ; les questions douteuses sont écartées (archivées), pas remontées au PO.
 
 ## Règles non négociables
 
@@ -11,8 +11,9 @@ Le Product Owner (Emmanuel) a délégué le nettoyage le 23/11/2026 : agir seul,
    L'outillage et le journal vivent sur la branche `cm003/outillage`, dossier `outils/nettoyage/`.
 3. Si quelque chose est inattendu (conflit, test qui échoue, branche absente, fiche modifiée par le PO,
    audit incohérent), **s'arrêter**, ne rien pousser, et laisser un commentaire sur la demande de fusion.
-4. Ne jamais inventer un fait. En cas de doute non levé par une source web, la question n'est **pas**
-   modifiée : elle part dans la liste « Doutes pour le PO » du commentaire de lot.
+4. Ne jamais inventer un fait. En cas de doute non levé par une source web, la question est **écartée**
+   (verdict `ecarter`, donc archivée, jamais supprimée) et listée dans « Écartées pour doute » du commentaire
+   de lot. Décision du PO du 23/11/2026 : être autonome, ne pas lui renvoyer les doutes.
 
 ## Règles de rédaction d'une question
 
@@ -48,8 +49,8 @@ Le Product Owner (Emmanuel) a délégué le nettoyage le 23/11/2026 : agir seul,
    → corriger jusqu'à « 0 problème ».
 5. QA indépendante : lancer un agent séparé (outil Agent) sur au moins 15 questions dont toutes les
    `corriger` si ≤ 8, sinon 8 tirées au hasard + 7 réécritures. Consigne : vérifier par sources web,
-   verdict OK / ERREUR / DOUTE par question. Corriger les ERREUR ; un DOUTE non levé → verdict `garder`
-   pour cette question et ajout à la liste des doutes. Refaire l'étape 4.
+   verdict OK / ERREUR / DOUTE par question. Corriger les ERREUR ; un DOUTE non levé par une recherche
+   supplémentaire → verdict `ecarter` et ajout à la liste « Écartées pour doute ». Refaire l'étape 4.
 6. Appliquer et vérifier :
    - `python3 -I $O/appliquer.py /tmp/lot_final.json data` (doit finir sans assertion)
    - `cd $O && python3 -m pytest -q -p no:cacheprovider` (tous les tests passent)
@@ -62,5 +63,5 @@ Le Product Owner (Emmanuel) a délégué le nettoyage le 23/11/2026 : agir seul,
    - Demande de fusion : s'il n'en existe pas d'ouverte pour `cm003/nettoyage`, la créer via
      `gh api repos/ManuLaCastagne/mon-projet/pulls` (base `main`) ; sinon ajouter un commentaire
      (`gh api repos/ManuLaCastagne/mon-projet/issues/<n>/comments`) avec : lot, fiches traitées, verdicts,
-     QA, 3 exemples de corrections notables, et la liste « Doutes pour le PO » (vide si aucun).
+     QA, 3 exemples de corrections notables, et la liste « Écartées pour doute » (vide si aucune).
 8. Si le temps le permet, enchaîner un deuxième lot (étapes 2 à 7). Maximum 3 lots par exécution.
