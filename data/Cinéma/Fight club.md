@@ -35,8 +35,12 @@ Quel film réalisé par [[David Fincher]] en 1999 aborde des thèmes tels que le
 
 Dans quel film le personnage de [[Tyler Durden]] utilise-t-il des méthodes non conventionnelles pour défier les normes sociales et créer un groupe secret dans une intrigue basée sur le livre de [[Chuck Palahniuk]] ? <!-- score: 3 -->
 
-Quel film culte explore la dualité de la personnalité dans un cadre urbain sombre, célèbre pour la réplique "La première règle du [[Fight Club]] est : Il est interdit de parler du [[Fight Club]]" ?
+Quel film de [[David Fincher]] (1999) adapte le roman de [[Chuck Palahniuk]] sur un employé insomniaque et son double anarchiste ?
 
 ###### Description
 
 [[Fight Club]] est un film culte sorti en 1999, réalisé par [[David Fincher]] et basé sur le roman éponyme de [[Chuck Palahniuk]] publié en 1996. Le film met en vedette [[Edward Norton]], qui joue un protagoniste sans nom, et [[Brad Pitt]], qui incarne le charismatique et anarchiste [[Tyler Durden]]. Le récit explore des thèmes comme l'aliénation moderne, la consommation de masse et la recherche identitaire à travers le prisme d'un club de combat clandestin. Bien qu'il ait initialement reçu des critiques partagées, [[Fight Club]] est depuis devenu un film emblématique, souvent cité pour sa narration innovante et ses dialogues frappants.
+
+###### Archives questions
+
+Quel film culte explore la dualité de la personnalité dans un cadre urbain sombre, célèbre pour la réplique "La première règle du [[Fight Club]] est : Il est interdit de parler du [[Fight Club]]" ? <!-- cm003 remplacée 2026-11-23 -->

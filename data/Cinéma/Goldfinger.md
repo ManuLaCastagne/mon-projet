@@ -31,7 +31,7 @@ Dans quel film de [[James Bond]], sorti en 1964, [[Sean Connery]] incarne-t-il l
 
 Quel long-métrage introduit la célèbre chanson interprétée par [[Shirley Bassey]], indissociable du film de [[James Bond]], diffusée pour la première fois en 1964 ?
 
-Dans quel film de l'univers de [[James Bond]] un certain [[Auric Goldfinger]] utilise-t-il un laser pour tenter de découper le héros en 1964 ?
+Dans quel James Bond de 1964 l'agent 007 est-il menacé par un laser et affronte-t-il l'homme de main [[Oddjob]] ?
 
 ###### Description
 
@@ -42,3 +42,7 @@ Le film est adapté du roman éponyme de [[Ian Fleming]], et raconte l'affrontem
 Un fait étonnant sur [[Goldfinger]] est qu'il est le premier film de la franchise à remporter un [[Oscar]], celui des meilleurs effets sonores, ce qui contribua grandement à l'innovation des films d'action de l'époque.
 
 La chanson-titre, interprétée par [[Shirley Bassey]], est devenue l'une des signatures musicales les plus emblématiques de la saga, et a propulsé la chanteuse au rang d'icône internationale.
+
+###### Archives questions
+
+Dans quel film de l'univers de [[James Bond]] un certain [[Auric Goldfinger]] utilise-t-il un laser pour tenter de découper le héros en 1964 ? <!-- cm003 remplacée 2026-11-23 -->

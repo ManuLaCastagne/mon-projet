@@ -27,11 +27,11 @@ culture_g_justification: "Franchise et personnage incontournables, ouvrant sur l
 
 ###### Questions
 
-Dans quel film de [[James Bond]], sorti en 1979, l'agent secret doit-il affronter l'antagoniste sur une station spatiale pour sauver le monde ? 
+Quel agent secret part dans l'espace pour affronter Hugo Drax dans [[Moonraker]] (1979) ?
 
-En quelle année le premier roman mettant en scène [[James Bond]], intitulé "[[Casino Royale]]", a-t-il été publié par l'auteur [[Ian Fleming]] ? 
+Quel espion créé par [[Ian Fleming]] apparaît pour la première fois en 1953 dans le roman [[Casino Royale]] ?
 
-Quel acteur a incarné [[James Bond]] dans sept films, dont son dernier dans le rôle était "[[Meurs un autre jour]]" en 2002 ?
+Quel agent 007 [[Roger Moore]] incarne-t-il dans sept films, de [[Vivre et laisser mourir]] (1973) à [[Dangereusement vôtre]] (1985) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ L'acteur [[Sean Connery]] fut le premier à incarner James Bond au cinéma et re
 Un fait étonnant est que l'auteur [[Ian Fleming]] s’est inspiré partiellement de sa propre expérience dans la [[Royal Navy]] pour créer ce personnage emblématique de la culture populaire. 
 
 Fait peu connu, le film "Skyfall" sorti en 2012 est le plus grand succès commercial de la saga, dépassant le milliard de dollars de recettes au box-office mondial, un record pour un film portant sur les aventures de [[007]].
+
+###### Archives questions
+
+Dans quel film de [[James Bond]], sorti en 1979, l'agent secret doit-il affronter l'antagoniste sur une station spatiale pour sauver le monde ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année le premier roman mettant en scène [[James Bond]], intitulé "[[Casino Royale]]", a-t-il été publié par l'auteur [[Ian Fleming]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a incarné [[James Bond]] dans sept films, dont son dernier dans le rôle était "[[Meurs un autre jour]]" en 2002 ? <!-- cm003 remplacée 2026-11-23 -->

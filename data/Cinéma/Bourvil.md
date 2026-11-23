@@ -29,7 +29,7 @@ culture_g_justification: "Acteur et humoriste français très reconnu, permettan
 
 Quel acteur français a joué dans le film [[La Traversée de Paris]] en 1956 aux côtés de [[Jean Gabin]] et [[Louis de Funès]] ?
 
-Dans quel film de [[Claude Autant-Lara]], sorti en 1959, [[Bourvil]] joue-t-il le rôle principal d'un brave garagiste nommé [[André Jurieux]] dans [[La Jument verte]] ?
+Quel acteur joue le paysan Honoré Haudouin dans [[La Jument verte]] (1959) de [[Claude Autant-Lara]], d'après [[Marcel Aymé]] ?
 
 Qui a remporté le [[Prix d'interprétation masculine]] au [[Festival de Cannes]] en 1956 pour son rôle dans [[La Traversée de Paris]] ?
 
@@ -42,3 +42,7 @@ Il a joué dans des films cultes tels que "La Grande Vadrouille" en 1966, aux c�
 Né en 1917 à [[Prétot-Vicquemare]], sa carrière a été lancée par le film "La Ferme du pendu" en 1945, où il s'est illustré par son talent comique naturel. 
 
 Un fait étonnant est que [[Bourvil]] a également remporté deux fois le prix du meilleur acteur au Festival de [[Venise]], en 1956 pour "La Traversée de Paris" et en 1968 pour "[[Le Cercle Rouge]]", devenant ainsi l'un des rares acteurs français à avoir réussi cet exploit.
+
+###### Archives questions
+
+Dans quel film de [[Claude Autant-Lara]], sorti en 1959, [[Bourvil]] joue-t-il le rôle principal d'un brave garagiste nommé [[André Jurieux]] dans [[La Jument verte]] ? <!-- cm003 remplacée 2026-11-23 -->

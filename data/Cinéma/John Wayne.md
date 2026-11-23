@@ -29,7 +29,7 @@ culture_g_justification: "Icône mondiale du western, John Wayne est une répons
 
 ###### Questions
 
-Dans quel film de [[John Wayne]] sorti en 1969 a-t-il remporté son premier et unique [[Oscar du Meilleur Acteur]] ?  
+Quel acteur remporte son unique Oscar pour son rôle de marshal borgne dans [[Cent dollars pour un shérif]] (1969) ?
 
 Quel acteur, dont le vrai nom est [[Marion Robert Morrison]], était surnommé le [[Duke]] dans l'industrie du cinéma ?  
 
@@ -38,3 +38,7 @@ Pour quel acteur, célèbre pour ses rôles dans des films de [[western]], une p
 ###### Description
 
 [[John Wayne]], né en 1907, était une figure emblématique du cinéma américain connue pour ses rôles dans les films westerns et d'aventure. Il a joué dans plus de 170 films, avec l'un de ses rôles les plus célèbres dans "[[Rio Bravo]]" (1959), réalisé par [[Howard Hawks]]. En 1969, il remporte le seul Oscar de sa carrière pour son rôle dans "[[True Grit]]" ("100 dollars pour un shérif"), où il incarne le personnage de [[Rooster Cogburn]]. [[John Wayne]] est également connu pour sa collaboration avec le réalisateur [[John Ford]], avec qui il a tourné des classiques comme "[[La Chevauchée fantastique]]" (1939) et "[[La Prisonnière du désert]]" (1956).
+
+###### Archives questions
+
+Dans quel film de [[John Wayne]] sorti en 1969 a-t-il remporté son premier et unique [[Oscar du Meilleur Acteur]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -27,11 +27,11 @@ culture_g_justification: "Acteur emblématique associé à Un jour sans fin, Gho
 
 ###### Questions
 
-Dans quel film de 1993, [[Bill Murray]] interprète-t-il un personnage piégé dans une boucle temporelle, revivant continuellement le même jour ?
+Quel acteur revit sans fin le même 2 février dans [[Un jour sans fin]] (1993) ?
 
 Quel acteur a été nominé pour un [[Golden Globe]] et un [[BAFTA Award]] pour son rôle dans le film de 2003, [[Lost in Translation]], réalisé par [[Sofia Coppola]] ?
 
-Dans quel film de 1984, [[Bill Murray]] joue-t-il le rôle du Dr. [[Peter Venkman]], un parapsychologue chassant les fantômes ?
+Quel acteur joue le Dr Peter Venkman dans [[SOS Fantômes]] (1984) ?
 
 ###### Description
 
@@ -42,3 +42,9 @@ Il est devenu une figure emblématique dans le monde du cinéma grâce à ses r�
 Un fait étonnant concernant [[Bill Murray]] est qu'il ne dispose pas d'agent ou de manager, il choisit ses projets en fonction des appels laissés sur une hotline secrète, une pratique qui lui est propre à [[Hollywood]]. 
 
 En 2003, il a remporté un [[Golden Globe]] pour son rôle dans le film "[[Lost in Translation]]", réalisé par [[Sofia Coppola]].
+
+###### Archives questions
+
+Dans quel film de 1993, [[Bill Murray]] interprète-t-il un personnage piégé dans une boucle temporelle, revivant continuellement le même jour ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 1984, [[Bill Murray]] joue-t-il le rôle du Dr. [[Peter Venkman]], un parapsychologue chassant les fantômes ? <!-- cm003 remplacée 2026-11-23 -->

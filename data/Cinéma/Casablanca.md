@@ -33,7 +33,7 @@ Dans quel film sorti en 1942 peut-on entendre la célèbre réplique « Here’s
 
 Quel film réalisé par [[Michael Curtiz]] a remporté l'Oscar du meilleur film en 1944 alors qu'il est sorti deux ans auparavant ?
 
-Dans quel long métrage de 1942 le personnage de [[Rick Blaine]], interprété par [[Humphrey Bogart]], tient-il un café en [[Casablanca]] durant la [[Seconde Guerre mondiale]] ?
+Dans quel film de [[Michael Curtiz]] (1942), [[Humphrey Bogart]] tient-il le Rick's Café au Maroc pendant la [[Seconde Guerre mondiale]] ?
 
 ###### Description
 
@@ -44,3 +44,7 @@ L'histoire se déroule pendant la Seconde Guerre mondiale et met en scène [[Hum
 L'intrigue tourne autour de l'amour compliqué entre Rick et [[Ilsa Lund]], incarnée par [[Ingrid Bergman]], une ancienne amante qui refait surface dans sa vie. 
 
 Le film a remporté l'Oscar du meilleur film lors de la 16e cérémonie des [[Academy Awards]] en 1944, consolidant son statut d'œuvre intemporelle dans l'histoire du cinéma.
+
+###### Archives questions
+
+Dans quel long métrage de 1942 le personnage de [[Rick Blaine]], interprété par [[Humphrey Bogart]], tient-il un café en [[Casablanca]] durant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->

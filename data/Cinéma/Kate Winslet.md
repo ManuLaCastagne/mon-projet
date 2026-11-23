@@ -27,11 +27,11 @@ culture_g_justification: "Actrice mondialement connue grâce à Titanic et à un
 
 ###### Questions
 
-Dans quel film de [[James Cameron]], sorti en 1997, [[Kate Winslet]] a-t-elle joué le rôle de [[Rose DeWitt Bukater]] ?
+Quelle actrice incarne Rose DeWitt Bukater dans [[Titanic]] (1997) ?
 
-Pour sa performance dans quel film de [[Michel Gondry]] de 2004, [[Kate Winslet]] a-t-elle reçu une nomination à l'[[Oscar]] de la meilleure actrice ? <!-- score: 10 -->
+Quelle actrice joue Clementine, effacée des souvenirs de [[Jim Carrey]], dans [[Eternal Sunshine of the Spotless Mind]] (2004) ?
 
-Dans quel film de [[Stephen Daldry]], sorti en 2008, [[Kate Winslet]] a-t-elle remporté l'[[Oscar]] de la meilleure actrice ?
+Quelle actrice remporte l'Oscar de la meilleure actrice pour [[The Reader]] (2008) de [[Stephen Daldry]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Elle a atteint une renommée internationale grâce à son rôle emblématique da
 Un fait étonnant est qu'elle est devenue, en 2009, la plus jeune actrice à avoir accumulé six nominations aux [[Oscars]], remportant celui de la meilleure actrice pour [[The Reader]]. 
 
 [[Kate Winslet]] a également collaboré plusieurs fois avec le réalisateur [[Richard Eyre]], notamment dans le film poignant [[Iris (film)]] en 2001.
+
+###### Archives questions
+
+Dans quel film de [[James Cameron]], sorti en 1997, [[Kate Winslet]] a-t-elle joué le rôle de [[Rose DeWitt Bukater]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour sa performance dans quel film de [[Michel Gondry]] de 2004, [[Kate Winslet]] a-t-elle reçu une nomination à l'[[Oscar]] de la meilleure actrice ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Stephen Daldry]], sorti en 2008, [[Kate Winslet]] a-t-elle remporté l'[[Oscar]] de la meilleure actrice ? <!-- cm003 remplacée 2026-11-23 -->

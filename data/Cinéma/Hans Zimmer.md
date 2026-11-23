@@ -27,7 +27,7 @@ culture_g_justification: "Compositeur extrêmement fréquent en quiz, reliant mu
 
 ###### Questions
 
-En quelle année [[Hans Zimmer]] a-t-il remporté son premier [[Oscar]] pour la meilleure musique de film avec [[Le Roi Lion]] ?
+Quel compositeur allemand remporte l'Oscar de la meilleure musique en 1995 pour [[Le Roi lion]] ?
 
 Quel compositeur a co-fondé en 1989 le studio [[Remote Control Productions]], connu pour la production de musiques de films à grands succès ?
 
@@ -42,3 +42,7 @@ Il a composé des bandes originales pour des films emblématiques, dont [["Le Ro
 Un fait étonnant à propos de lui est qu'il a intégré son amour pour le jeu vidéo en collaborant avec le célèbre studio [[Activision]] pour la bande son de "[[Call of Duty: Modern Warfare 2]]" en 2009, marquant sa première incursion dans l'univers des jeux vidéo. 
 
 Dans les années 1980, Hans Zimmer a également été membre d'un groupe de new wave appelé [[The Buggles]], connu pour le tube "Video Killed the Radio Star".
+
+###### Archives questions
+
+En quelle année [[Hans Zimmer]] a-t-il remporté son premier [[Oscar]] pour la meilleure musique de film avec [[Le Roi Lion]] ? <!-- cm003 remplacée 2026-11-23 -->

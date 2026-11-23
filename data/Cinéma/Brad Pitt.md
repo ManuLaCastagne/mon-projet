@@ -29,12 +29,18 @@ culture_g_justification: "Star mondiale régulièrement interrogée à travers s
 
 ###### Questions
 
-Dans quel film de [[David Fincher]] de 1999 [[Brad Pitt]] incarne-t-il le personnage de [[Tyler Durden]]?
+Quel acteur incarne Tyler Durden dans le film de [[David Fincher]] adapté de [[Chuck Palahniuk]] (1999) ?
 
 En 1994, qui joue dans une adaptation littéraire d'[[Anne Rice]] aux côtés de [[Tom Cruise]] et [[Kirsten Dunst]] dans [[Entretien avec un vampire]] ? <!-- score: 2 -->
 
-Pour quel film de [[Quentin Tarantino]], sorti en 2020, [[Brad Pitt]] a-t-il remporté l'Oscar du meilleur acteur dans un second rôle?
+Quel acteur remporte en 2020 l'Oscar du meilleur second rôle pour [[Once Upon a Time… in Hollywood]] de [[Quentin Tarantino]] ?
 
 ###### Description
 
 [[Brad Pitt]] est un acteur américain de renom, salué pour sa performance dans le film [[Fight Club]] sorti en 1999, où il incarne [[Tyler Durden]], un rôle devenu culte. Il a marqué les esprits dès 1991 avec son apparition dans [[Thelma & Louise]], consolidant sa place à [[Hollywood]]. En 2014, il a remporté son premier Oscar en tant que producteur pour le film [[12 Years a Slave]]. Marié à [[Angelina Jolie]] de 2014 à 2016, il forme avec elle l'un des couples les plus médiatisés de l'industrie cinématographique.
+
+###### Archives questions
+
+Dans quel film de [[David Fincher]] de 1999 [[Brad Pitt]] incarne-t-il le personnage de [[Tyler Durden]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel film de [[Quentin Tarantino]], sorti en 2020, [[Brad Pitt]] a-t-il remporté l'Oscar du meilleur acteur dans un second rôle? <!-- cm003 remplacée 2026-11-23 -->

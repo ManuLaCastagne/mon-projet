@@ -29,7 +29,7 @@ culture_g_justification: "Super-héros majeur de Marvel, au croisement des comic
 
 Quel super-héros de [[Marvel]] a été le premier film de la [[Phase 1 du Marvel Cinematic Universe]] à se dérouler pendant la [[Seconde Guerre mondiale]] ?
 
-Quel personnage joué par [[Chris Evans]] a été congelé dans la glace et retrouvé des décennies plus tard, relatant une histoire commencée en 2011 avec la sortie du film "[[Captain America: The First Avenger]]" ?
+Quel super-héros de [[Marvel]], incarné par [[Chris Evans]], se réveille au XXIe siècle après des décennies passées congelé dans la glace ?
 
 Quel héros a utilisé un bouclier en [[vibranium]] pour la première fois dans le film sorti en 2011, devenant ainsi l'un des symboles emblématiques de l'[[Univers cinématographique Marvel]] ?
 
@@ -42,3 +42,7 @@ Le personnage, incarné par l'acteur [[Chris Evans]] depuis 2011, fait sa premi�
 Un fait surprenant est que [[Captain America: Civil War]], sorti en 2016, a établi un record en devenant le film solo de [[Marvel]] avec le plus grand nombre de super-héros réunis à l'écran, avec un total de 12 héros apparaissant simultanément. 
 
 En 2019, [[Captain America]] termine son arc narratif principal dans "[[Avengers: Endgame]]", qui devient le film avec le plus de succès commercial au box-office mondial à ce moment-là, accumulant plus de 2,79 milliards de dollars.
+
+###### Archives questions
+
+Quel personnage joué par [[Chris Evans]] a été congelé dans la glace et retrouvé des décennies plus tard, relatant une histoire commencée en 2011 avec la sortie du film "[[Captain America: The First Avenger]]" ? <!-- cm003 remplacée 2026-11-23 -->

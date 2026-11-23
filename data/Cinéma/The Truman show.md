@@ -33,8 +33,12 @@ Quel film de [[Peter Weir]] sorti en 1998 explore le concept d'un homme vivant s
 
 Dans quel film voit-on l'acteur [[Jim Carrey]] interpréter le rôle de [[Truman Burbank]], dont la vie entière est secrètement filmée et diffusée au public ?
 
-Quel film a inspiré le terme "[[The Truman Show]] delusion", utilisé pour décrire la condition psychiatrique dans laquelle une personne pense que sa vie est une émission de téléréalité ?
+Quel film a donné son nom à un délire, décrit en 2008 par les psychiatres Joel et Ian Gold, où le patient se croit filmé en permanence ?
 
 ###### Description
 
 Le film "[[The Truman Show]]", réalisé par [[Peter Weir]] et sorti en 1998, est une satire captivante de la télé-réalité et de la société moderne. [[Jim Carrey]] y incarne [[Truman Burbank]], un homme qui découvre que sa vie paisible est en réalité le scénario d'une émission de télévision suivie par des millions de spectateurs. Le scénariste [[Andrew Niccol]] a conçu cette œuvre pour explorer les thèmes de la manipulation médiatique et de l'authenticité. Le long-métrage a été très bien accueilli, recevant plusieurs nominations aux [[Golden Globes]] et [[BAFTA Awards]], et reste un classique du cinéma des années 1990.
+
+###### Archives questions
+
+Quel film a inspiré le terme "[[The Truman Show]] delusion", utilisé pour décrire la condition psychiatrique dans laquelle une personne pense que sa vie est une émission de téléréalité ? <!-- cm003 remplacée 2026-11-23 -->

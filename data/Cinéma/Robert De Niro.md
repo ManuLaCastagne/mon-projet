@@ -29,11 +29,11 @@ culture_g_justification: "Acteur universellement reconnu, relié à Scorsese, au
 
 ###### Questions
 
-Dans quel film de 1976 réalisé par [[Martin Scorsese]], Robert De Niro incarne-t-il le chauffeur de taxi anti-héros [[Travis Bickle]] dans [[Taxi Driver]] et est célèbre pour sa réplique culte "Are you talking to me" ?
+Quel acteur incarne Travis Bickle et lance « You talkin' to me? » dans [[Taxi Driver]] (1976) de [[Martin Scorsese]] ?
 
-En 1980, dans quel film sur la boxe réalisé également par [[Martin Scorsese]], Robert De Niro a-t-il remporté l'[[Oscar du Meilleur Acteur]] pour son rôle du boxeur [[Jake LaMotta]] dans [[Raging Bull]] ?
+Quel acteur remporte l'Oscar du meilleur acteur pour son rôle du boxeur [[Jake LaMotta]] dans [[Raging Bull]] (1980) ?
 
-Dans quelle comédie de 1999 réalisée par [[Harold Ramis]], Robert De Niro joue-t-il le rôle d'un mafieux qui cherche une aide psychologique auprès d'un thérapeute interprété par [[Billy Crystal]] dans [[Analyze This]] ? <!-- score: 10 -->
+Quel acteur joue un parrain de la mafia en pleine crise d'angoisse face au psychiatre [[Billy Crystal]] dans [[Mafia Blues]] (1999) ?
 
 ###### Description
 
@@ -46,3 +46,11 @@ Il a remporté l'Oscar du meilleur acteur pour son rôle dans "Raging Bull" en 1
 En 1976, il a marqué les esprits en jouant le rôle troublant de [[Travis Bickle]] dans "Taxi Driver", un autre chef-d'œuvre de [[Scorsese]].
 
 Il a également joué un acteur de stand-up dans "[[La Valse des pantins]]".
+
+###### Archives questions
+
+Dans quel film de 1976 réalisé par [[Martin Scorsese]], Robert De Niro incarne-t-il le chauffeur de taxi anti-héros [[Travis Bickle]] dans [[Taxi Driver]] et est célèbre pour sa réplique culte "Are you talking to me" ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1980, dans quel film sur la boxe réalisé également par [[Martin Scorsese]], Robert De Niro a-t-il remporté l'[[Oscar du Meilleur Acteur]] pour son rôle du boxeur [[Jake LaMotta]] dans [[Raging Bull]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle comédie de 1999 réalisée par [[Harold Ramis]], Robert De Niro joue-t-il le rôle d'un mafieux qui cherche une aide psychologique auprès d'un thérapeute interprété par [[Billy Crystal]] dans [[Analyze This]] ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->

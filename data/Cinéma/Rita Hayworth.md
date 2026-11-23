@@ -29,12 +29,20 @@ culture_g_justification: "Icône majeure de l’âge d’or hollywoodien, partic
 
 ###### Questions
 
-Quel film avec [[Rita Hayworth]], sorti en 1946, contient une des scènes les plus iconiques de l'histoire du cinéma, où elle retire sensuellement un gant noir ?
+Quelle actrice retire lentement son long gant noir en chantant « Put the Blame on Mame » dans [[Gilda]] (1946) ?
 
-Quel ancien projet militaire secret des [[États-Unis]], révélé dans les années 1970, portait le nom de code [[Projet Rita]], en référence à [[Rita Hayworth]] ?
+Quelle actrice voit son image peinte sur la bombe atomique « Gilda » larguée lors des essais de [[Bikini]] en 1946 ?
 
-Quel célèbre film de [[Stephen King]], adapté en 1994, mentionne [[Rita Hayworth]] dans son titre original avant sa sortie cinématographique sous un autre nom ?
+Quelle actrice figure dans le titre de la nouvelle de [[Stephen King]] adaptée en 1994 sous le titre [[Les Évadés]] ?
 
 ###### Description
 
 [[Rita Hayworth]] est une icône du cinéma américain, connue principalement pour son rôle dans le film [[Gilda]] sorti en 1946, où elle joue aux côtés de [[Glenn Ford]]. Née en 1918 sous le nom de [[Margarita Carmen Cansino]], elle devient l'une des plus grandes stars de [[Hollywood]] durant les années 1940. En 1948, elle épouse le réalisateur [[Cinéma/Orson Welles]], avec qui elle partage l'affiche de [[La Dame de Shanghai]], célèbre pour ses audacieuses scènes en miroir. [[Rita Hayworth]] est également reconnue pour sa carrière de danseuse, ayant commencé très jeune aux côtés de son père dans des spectacles flamenco avant de devenir l'une des actrices les plus glamour de son époque.
+
+###### Archives questions
+
+Quel film avec [[Rita Hayworth]], sorti en 1946, contient une des scènes les plus iconiques de l'histoire du cinéma, où elle retire sensuellement un gant noir ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel ancien projet militaire secret des [[États-Unis]], révélé dans les années 1970, portait le nom de code [[Projet Rita]], en référence à [[Rita Hayworth]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre film de [[Stephen King]], adapté en 1994, mentionne [[Rita Hayworth]] dans son titre original avant sa sortie cinématographique sous un autre nom ? <!-- cm003 remplacée 2026-11-23 -->

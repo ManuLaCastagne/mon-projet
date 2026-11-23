@@ -29,12 +29,20 @@ culture_g_justification: "Icône mondiale du cinéma et de la culture populaire,
 
 ###### Questions
 
-Dans quel film de [[Billy Wilder]] sorti en 1959, [[Marilyn Monroe]] interprète-t-elle le rôle de [[Sugar Kane]] aux côtés de [[Tony Curtis]] et [[Jack Lemmon]] ?
+Quelle actrice joue Sugar Kane, chanteuse d'un orchestre féminin, dans [[Certains l'aiment chaud]] (1959) de [[Billy Wilder]] ?
 
-Quel est le véritable nom de [[Marilyn Monroe]], née en 1926 à [[Los Angeles]], qui a changé officiellement son nom en 1956 ?
+Quelle actrice américaine, née Norma Jeane Mortenson à [[Los Angeles]] en 1926, adopte officiellement son nom de scène en 1956 ?
 
-En quelle année [[Marilyn Monroe]] chante-t-elle "Happy Birthday" au Président [[John F. Kennedy]] lors de la célébration de son 45ème anniversaire au [[Madison Square Garden]] ?
+Quelle actrice chante « Happy Birthday, Mr. President » à [[John F. Kennedy]] au [[Madison Square Garden]] en mai 1962 ?
 
 ###### Description
 
 [[Marilyn Monroe]], née [[Norma Jeane Mortenson]], est devenue une icône hollywoodienne grâce à ses rôles dans des films notables des années 1950, tels que "[[Les hommes préfèrent les blondes]]" (1953) et "[[Sept ans de réflexion]]" (1955). Elle a travaillé avec certains des réalisateurs les plus célèbres de l'époque, dont [[Billy Wilder]]. En 1959, elle a remporté un [[Golden Globe]] pour son rôle dans le film "[[Certains l'aiment chaud]]". Malgré son énorme succès, sa carrière a été marquée par des tragédies personnelles et elle est décédée prématurément en 1962, ce qui a contribué à son statut de légende dans l'histoire du cinéma.
+
+###### Archives questions
+
+Dans quel film de [[Billy Wilder]] sorti en 1959, [[Marilyn Monroe]] interprète-t-elle le rôle de [[Sugar Kane]] aux côtés de [[Tony Curtis]] et [[Jack Lemmon]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le véritable nom de [[Marilyn Monroe]], née en 1926 à [[Los Angeles]], qui a changé officiellement son nom en 1956 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Marilyn Monroe]] chante-t-elle "Happy Birthday" au Président [[John F. Kennedy]] lors de la célébration de son 45ème anniversaire au [[Madison Square Garden]] ? <!-- cm003 remplacée 2026-11-23 -->

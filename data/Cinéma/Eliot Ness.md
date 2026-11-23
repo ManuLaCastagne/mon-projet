@@ -27,11 +27,9 @@ culture_g_justification: "Figure liée à la prohibition, à Al Capone et aux In
 
 ###### Questions
 
-Dans quel film de [[Brian De Palma]] sorti en 1987, [[Kevin Costner]] incarne-t-il le célèbre agent du [[FBI]], [[Eliot Ness]] ?
+Quel agent du Trésor, incarné par [[Kevin Costner]] dans [[Les Incorruptibles]] (1987), fait tomber [[Al Capone]] ?
 
 Quel personnage, interprété par [[Robert Stack]], traque le gangster [[Al Capone]] dans la série télévisée diffusée entre 1959 et 1963 ?
-
-Dans quel film de [[2000}}, l’agent [[Eliot Ness]] est mentionné lors d'un dîner ayant lieu dans un contexte historique fictif dans le film "[[Billy Elliot]]" ?
 
 ###### Description
 
@@ -42,3 +40,9 @@ Bien que [[Eliot Ness]] soit souvent associé à la chute de [[Capone]], il est 
 Ness a aussi contribué à moderniser la police dans plusieurs villes américaines après ses faits d'armes à [[Chicago]]. 
 
 Fait peu connu, il s'est même présenté au poste de maire de [[Cleveland]] en 1947, bien qu'il ait été battu aux élections.
+
+###### Archives questions
+
+Dans quel film de [[Brian De Palma]] sorti en 1987, [[Kevin Costner]] incarne-t-il le célèbre agent du [[FBI]], [[Eliot Ness]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[2000}}, l’agent [[Eliot Ness]] est mentionné lors d'un dîner ayant lieu dans un contexte historique fictif dans le film "[[Billy Elliot]]" ? <!-- cm003 archivée 2026-11-23 -->

@@ -29,7 +29,7 @@ culture_g_justification: "Gérard Depardieu est une figure incontournable du cin
 
 ###### Questions
 
-Dans quel film de [[Peter Weir]] sorti en 1990 [[Gérard Depardieu]] partage-t-il l'affiche avec [[Andie MacDowell]] ? 
+Quel acteur français partage l'affiche de [[Green Card]] (1990) de [[Peter Weir]] avec [[Andie MacDowell]] ?
 
 Quel acteur français a joué dans le film [[Green Card]], qui a remporté le [[Golden Globe]] du meilleur acteur dans une comédie ou une comédie musicale en 1991 ?
 
@@ -40,3 +40,7 @@ En 1985, quel acteur a interprété le rôle de [[Cyrano de Bergerac]] dans une 
 [[Gérard Depardieu]] est un acteur français emblématique, né en 1948 à Châteauroux, qui a marqué le cinéma international par ses performances captivantes et son talent indéniable. Il obtient son premier grand rôle avec [[Bertrand Blier]] dans "[[Les Valseuses]]" en 1974, un film qui le propulse sur le devant de la scène.
 
 Depardieu décroche le [[César du meilleur acteur]] en 1981 grâce à sa performance dans "Le Dernier Métro" de [[François Truffaut]], montrant ainsi la reconnaissance de ses pairs et du public. L'année 1990 est également marquante pour lui puisqu'il reçoit une nomination aux Oscars pour son rôle dans "Cyrano de Bergerac" réalisé par [[Jean-Paul Rappeneau]].
+
+###### Archives questions
+
+Dans quel film de [[Peter Weir]] sorti en 1990 [[Gérard Depardieu]] partage-t-il l'affiche avec [[Andie MacDowell]] ? <!-- cm003 remplacée 2026-11-23 -->

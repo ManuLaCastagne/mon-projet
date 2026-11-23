@@ -27,11 +27,11 @@ culture_g_justification: "Collectif humoristique mondialement célèbre, ouvrant
 
 ###### Questions
 
-Quel groupe comique britannique a créé le sketch comique "The Spanish Inquisition" apparu pour la première fois dans "Monty Python's Flying Circus" en [[1970]] ?
+Quelle troupe comique britannique crée en 1970 le sketch de l'Inquisition espagnole, que « personne n'attend » ?
 
-Quel collectif humoristique a produit le film "Monty Python's Life of Brian" en [[1979]], parodiant les événements de l'époque de [[Jésus]] et causant des controverses religieuses ?
+Quelle troupe britannique tourne en 1979 [[La Vie de Brian]], parodie biblique qui fit scandale ?
 
-Quel groupe a influencé la culture pop et défini l'humour britannique en lançant leur série télévisée, "Monty Python's Flying Circus", sur [[BBC]] en [[1969]] ? <!-- score: 8 -->
+Quelle troupe comique réunit [[John Cleese]], [[Michael Palin]], [[Eric Idle]], [[Terry Jones]], [[Graham Chapman]] et [[Terry Gilliam]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Ils sont principalement connus pour leur émission révolutionnaire, [[Monty Pyt
 Un fait étonnant est que leur film, [[Life of Brian]], sorti en [[1979]], a été interdit dans plusieurs pays à sa sortie, notamment en [[Irlande]] et en [[Norvège]], en raison de son contenu jugé blasphématoire, ce qui a permis à la Suède de promouvoir le film avec l'accroche "Interdit en Norvège !".
 
 Leur influence sur l'humour et les médias modernes est immense, et ils ont été désignés comme l’un des groupes comiques les plus influents de tous les temps, avec une comédie qui continue d'inspirer des générations d'artistes.
+
+###### Archives questions
+
+Quel groupe comique britannique a créé le sketch comique "The Spanish Inquisition" apparu pour la première fois dans "Monty Python's Flying Circus" en [[1970]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel collectif humoristique a produit le film "Monty Python's Life of Brian" en [[1979]], parodiant les événements de l'époque de [[Jésus]] et causant des controverses religieuses ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe a influencé la culture pop et défini l'humour britannique en lançant leur série télévisée, "Monty Python's Flying Circus", sur [[BBC]] en [[1969]] ? <!-- score: 8 --> <!-- cm003 remplacée 2026-11-23 -->
