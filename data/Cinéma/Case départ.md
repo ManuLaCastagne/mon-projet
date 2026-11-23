@@ -33,8 +33,12 @@ Quel film de [[Loup-Denis Elion]] et [[Fabrice Éboué]] sorti en 2011 a pour th
   
 Dans quel film de comédie française les personnages principaux se retrouvent-ils transportés à l'époque de l'esclavage après avoir franchi une case du [[jeu de société]] homonyme ?  
   
-Quel long-métrage diffusé en 2011 a provoqué des débats en raison de sa thématique abordant l'histoire de l'esclavage sous un angle humoristique et propose un casting incluant [[Thomas Ngijol]] et [[Ériq Ebouaney]] ?
+Quelle comédie de 2011 réunit à l'écran [[Fabrice Éboué]] et [[Thomas Ngijol]], deux anciens du [[Jamel Comedy Club]], renvoyés au temps de l'esclavage ?
 
 ###### Description
 
 [[Case départ]] est un film français réalisé par [[Lionel Steketee]], [[Fabrice Éboué]] et [[Thomas N'Gijol]], sorti en 2011. Dans ce long-métrage, les demi-frères [[Régis]] et [[Joël]], incarnés par Éboué et N'Gijol, voyagent dans le passé jusqu'au temps de l'esclavage aux Antilles après avoir trouvé une carte magique lors de l'enterrement de leur père. Le film a été présenté pour la première fois le [[6 juillet 2011]] et explore des thèmes tels que le racisme et l'identité culturelle à travers un prisme humoristique. "Case départ" a obtenu un succès notable en France, attirant près de 2 millions de spectateurs en salles.
+
+###### Archives questions
+
+Quel long-métrage diffusé en 2011 a provoqué des débats en raison de sa thématique abordant l'histoire de l'esclavage sous un angle humoristique et propose un casting incluant [[Thomas Ngijol]] et [[Ériq Ebouaney]] ? <!-- cm003 remplacée 2026-11-23 -->

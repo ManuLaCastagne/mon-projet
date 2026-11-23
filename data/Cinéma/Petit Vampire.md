@@ -30,14 +30,18 @@ culture_g_justification: "Film d'animation identifiable grâce à Joann Sfar, ma
 
 ###### Questions
 
-Quel film d'animation de [[Joann Sfar]] sorti en 2020 suit les aventures nocturnes d'un enfant vampire qui souhaite aller à l'école pour se faire des amis ?
+Quel film d'animation de [[Joann Sfar]] (2020), adapté de sa propre bande dessinée, suit un enfant mort-vivant qui rêve d'aller à l'école ?
 
 Quelle adaptation cinématographique de la série de bandes dessinées de [[Joann Sfar]] met en scène le personnage du [[Capitaine des Morts]] et le bateau vivant [[La Renarde]] ?
-
-Quel est le titre du film où [[Jean-Paul Rouve]] prête sa voix au personnage du [[Petit Vampire]], sorti exactement vingt-trois ans après la parution de la première bande dessinée en 1997 ? <!-- score: 9 -->
 
 ###### Description
 
 [[Petit Vampire]] est un film d'animation réalisé par [[Joann Sfar]], sorti en 2020. Le film est une adaptation de la populaire série de bandes dessinées du même nom, créée par [[Joann Sfar]] en 1999. 
 
 Avec des voix telles que celles de [[Camille Cottin]] et [[Alex Lutz]], l'histoire suit un jeune vampire qui rêve de quitter son manoir hanté pour explorer le monde des humains. La musique, composée par [[Olivier Daviaud]], contribue à l'atmosphère captivante et singulière du film.
+
+###### Archives questions
+
+Quel film d'animation de [[Joann Sfar]] sorti en 2020 suit les aventures nocturnes d'un enfant vampire qui souhaite aller à l'école pour se faire des amis ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du film où [[Jean-Paul Rouve]] prête sa voix au personnage du [[Petit Vampire]], sorti exactement vingt-trois ans après la parution de la première bande dessinée en 1997 ? <!-- score: 9 --> <!-- cm003 archivée 2026-11-23 -->

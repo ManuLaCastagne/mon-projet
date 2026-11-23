@@ -33,8 +33,12 @@ Quel film de [[Billy Wilder]] de 1955 met en scène une scène iconique où la r
 
 Dans quelle comédie romantique américaine ne expliquant la crise de la septième année de mariage observons-nous la prestation de [[Tom Ewell]] aux côtés de [[Marilyn Monroe]] ?
 
-Quel long métrage a été adapté d'une pièce de théâtre de [[George Axelrod]], qui fut jouée pour la première fois en 1952 et par la suite transformée en film par [[20th Century Fox]] ?
+Quel film de 1955 adapte une pièce de [[George Axelrod]] dans laquelle [[Tom Ewell]] reprend à l'écran son rôle de Broadway face à [[Marilyn Monroe]] ?
 
 ###### Description
 
 [[Sept ans de réflexion]] est une comédie romantique emblématique de 1955 réalisée par [[Billy Wilder]]. Ce film met en vedette [[Marilyn Monroe]], célèbre pour la scène iconique où sa robe blanche est soulevée par la ventilation d'une bouche de métro. La musique du film a été composée par [[Alfred Newman]], l’un des compositeurs les plus renommés de l’époque. À sa sortie, le film a été bien accueilli, devenant l’un des succès majeurs de l'année 1955, et a contribué à renforcer le statut de sex-symbol de [[Marilyn Monroe]].
+
+###### Archives questions
+
+Quel long métrage a été adapté d'une pièce de théâtre de [[George Axelrod]], qui fut jouée pour la première fois en 1952 et par la suite transformée en film par [[20th Century Fox]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -31,7 +31,7 @@ culture_g_justification: "Figure majeure de la Nouvelle Vague et du cinéma mond
 
 Quel cinéaste dédie son film "Les Quatre Cents Coups" au critique de cinéma [[André Bazin]], disparu quelques mois plus tôt, qui est un des fondateurs des "Cahiers du cinéma" ?
 
-Quel célèbre réalisateur français a refusé de participer au film culte [[Apocalypse Now]] de [[Francis Ford Coppola]] en 1979?
+Quel réalisateur de la [[Nouvelle Vague]] joue le scientifique français Lacombe dans [[Rencontres du troisième type]] de [[Steven Spielberg]] (1977) ?
 
 Quel réalisateur a remporté le prix du meilleur réalisateur au Festival de Cannes pour le film [[La Nuit Américaine]] en 1973?
 
@@ -40,3 +40,7 @@ Quel cinéaste français a débuté sa carrière en tant que critique de cinéma
 ###### Description
 
 François Truffaut, né en 1932 à Paris, est l'un des fondateurs de la [[Nouvelle Vague]], un mouvement cinématographique français qui a révolutionné le cinéma dans les années 1950 et 1960. En 1959, il réalise son premier long-métrage, [[Les Quatre Cents Coups]], qui remporte le prix de la mise en scène au Festival de Cannes et amorce le cycle d’[[Antoine Doinel]], son personnage emblématique joué par [[Jean-Pierre Léaud]]. En 1973, Truffaut continue à explorer les méandres des relations humaines avec [[La Nuit Américaine]], qui obtient l'Oscar du meilleur film en langue étrangère. Tout au long de sa carrière, il a contribué à près de 25 films avant de s'éteindre prématurément en 1984, laissant une empreinte indélébile sur le cinéma mondial.
+
+###### Archives questions
+
+Quel célèbre réalisateur français a refusé de participer au film culte [[Apocalypse Now]] de [[Francis Ford Coppola]] en 1979? <!-- cm003 remplacée 2026-11-23 -->

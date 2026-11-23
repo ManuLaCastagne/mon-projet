@@ -29,7 +29,7 @@ culture_g_justification: "Réalisateur important de l’histoire hollywoodienne,
 
 ###### Questions
 
-Quel réalisateur a remporté l'[[Oscar du meilleur film]] en 1979 pour [[Voyage au bout de l'enfer]] ?
+Quel réalisateur a reçu l'[[Oscar du meilleur réalisateur]] en 1979 pour [[Voyage au bout de l'enfer]] ?
 
 Qui est le cinéaste derrière le film controversé [[La Porte du paradis]], dont l'échec financier en 1980 a changé la dynamique des studios d'[[Hollywood]] ?
 
@@ -42,3 +42,7 @@ Quel réalisateur a connu des débuts fracassants avec le film [[Le Canardeur]] 
 En 1980, il réalise [[Heaven's Gate]], un film au budget colossal pour l'époque, qui a été l'un des plus grands flops financiers de l'histoire du cinéma, provoquant presque la faillite d'[[United Artists]].
 
 Fait étonnant, avant sa carrière cinématographique, [[Michael Cimino]] a obtenu une licence en peinture à l'[[Université Yale]], ce qui témoigne de son talent et de sa passion pour les arts visuels dès son jeune âge.
+
+###### Archives questions
+
+Quel réalisateur a remporté l'[[Oscar du meilleur film]] en 1979 pour [[Voyage au bout de l'enfer]] ? <!-- cm003 remplacée 2026-11-23 -->

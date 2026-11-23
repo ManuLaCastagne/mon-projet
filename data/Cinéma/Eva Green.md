@@ -29,7 +29,7 @@ culture_g_justification: "Actrice française à carrière internationale, associ
 
 ###### Questions
 
-Dans quel film de 2006 réalisé par [[Ridley Scott]], l'actrice [[Eva Green]] incarne une enjouée et mystérieuse maîtresse de chai, face à [[Russell Crowe]] ?
+Quelle actrice, fille de [[Marlène Jobert]], débute au cinéma dans [[Innocents : The Dreamers]] de [[Bernardo Bertolucci]] (2003) ?
 
 Quelle actrice française, née en 1980 à Paris, a joué un rôle envoûtant de sorcière dans le film à grand succès de 2007, [[À la croisée des mondes : La Boussole d'or]] ?
 
@@ -38,3 +38,7 @@ Qui a incarné [[Vesper Lynd]], l'agent du [[Service de renseignement britanniqu
 ###### Description
 
 [[Eva Green]], actrice française reconnue pour son charisme et son talent, débute véritablement sa carrière au cinéma en 2003 avec le film [[Innocents : The Dreamers]] de [[Bernardo Bertolucci]], où elle joue aux côtés de [[Michael Pitt]]. Elle devient mondialement célèbre en 2006 grâce à son rôle de [[Vesper Lynd]] dans [[Casino Royale]], un film de la saga [[James Bond]] aux côtés de [[Daniel Craig]]. En 2014, elle incarne la puissante [[Artemisia]] dans le film épique ''[[300: Rise of an Empire]]'', soulignant sa capacité à jouer des personnages dynamiques et complexes. Elle collabore également avec [[Tim Burton]] en 2016 dans ''[[Miss Peregrine's Home for Peculiar Children]]'', consolidant son image d'actrice versatile et incontournable à Hollywood.
+
+###### Archives questions
+
+Dans quel film de 2006 réalisé par [[Ridley Scott]], l'actrice [[Eva Green]] incarne une enjouée et mystérieuse maîtresse de chai, face à [[Russell Crowe]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -31,10 +31,14 @@ culture_g_justification: "Film culte et provocateur du cinéma français, régul
 
 Dans quel film français de 1974, réalisé par [[Bertrand Blier]], les personnages principaux incarnés par [[Gérard Depardieu]], [[Patrick Dewaere]] et [[Miou-Miou]] vivent des aventures rocambolesques sur fond de liberté sexuelle ?
 
-Quel film culte de [[Bertrand Blier]] a provoqué un scandale à sa sortie en 1974, en raison de son langage cru et de ses scènes audacieuses, rebaptisant ainsi la carrière de plusieurs acteurs français de l'époque ?
+Quel film de 1974 [[Bertrand Blier]] a-t-il tiré de son propre roman, publié deux ans plus tôt ?
 
 Dans quelle œuvre cinématographique le réalisateur [[Bertrand Blier]] a-t-il exploré des thèmes controversés, influençant lourdement le cinéma français des années 1970, tout en lançant des carrières mythiques telles que celle de [[Gérard Depardieu]] ?
 
 ###### Description
 
 [[Les Valseuses]] est un film français emblématique réalisé par [[Bertrand Blier]] et sorti en 1974. Ce long métrage marque les esprits par son audace et son audace de ton, mettant en vedette les célèbres acteurs [[Gérard Depardieu]], [[Patrick Dewaere]], et [[Miou-Miou]]. Ce trio incarne des jeunes marginaux en quête de liberté dans une France en pleine mutation sociale, offrant une performance inoubliable qui contribue au succès du film. Les paysages de [[Grenoble]], où se déroule une partie du tournage, ajoutent une dimension authentique à cette œuvre cinématographique qui a cumulé plus de 5 millions d'entrées en France.
+
+###### Archives questions
+
+Quel film culte de [[Bertrand Blier]] a provoqué un scandale à sa sortie en 1974, en raison de son langage cru et de ses scènes audacieuses, rebaptisant ainsi la carrière de plusieurs acteurs français de l'époque ? <!-- cm003 remplacée 2026-11-23 -->

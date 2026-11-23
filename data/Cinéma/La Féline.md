@@ -33,7 +33,7 @@ culture_g_justification: "Classique influent de l'horreur et du fantastique, uti
 
 [[Quel film culte]] d'[[horreur]] a influencé de nombreux réalisateurs de films de [[suspense]] grâce à son utilisation innovante du son et des ombres pour créer une tension psychologique ?
 
-[[Quelle œuvre]] du [[studio RKO]] a eu une influence majeure sur l'évolution du cinéma fantastique et a inspiré une suite en 1944 intitulée [[La malédiction des hommes-chats]] ?
+Quel film de [[Jacques Tourneur]] (1942), produit par [[Val Lewton]] pour la [[RKO]], suggère la peur sans jamais montrer la créature ?
 
 ###### Description
 
@@ -44,3 +44,7 @@ L'histoire suit [[Irena Dubrovna]], interprétée par [[Simone Simon]], une jeun
 Avec un budget modeste de 134 000 dollars, le film a rapporté plus de 4 millions de dollars au box-office, un succès retentissant pour l'époque. 
 
 La critique a salué le film pour son atmosphère oppressante et son usage innovant des ombres, renforcé par la photographie de [[Nicholas Musuraca]].
+
+###### Archives questions
+
+[[Quelle œuvre]] du [[studio RKO]] a eu une influence majeure sur l'évolution du cinéma fantastique et a inspiré une suite en 1944 intitulée [[La malédiction des hommes-chats]] ? <!-- cm003 remplacée 2026-11-23 -->

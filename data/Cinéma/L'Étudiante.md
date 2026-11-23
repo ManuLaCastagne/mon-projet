@@ -28,7 +28,7 @@ culture_g_justification: "Film très connu du public français grâce à Sophie 
 
 ###### Questions
 
-Quel film de [[Luc Besson]], sorti en 1988, met en vedette [[Sophie Marceau]] dans le rôle de [[Valentine (Maurice Chevalier)]] qui jongle entre ses études en littérature et sa relation avec un musicien ?
+Quelle comédie de [[Claude Pinoteau]] (1988) réunit à nouveau [[Sophie Marceau]], révélée par lui dans [[La Boum]], cette fois face à [[Vincent Lindon]] ?
 
 Quel long-métrage français, sorti en 1988, explore les dilemmes d'une jeune femme partagée entre amour et ambition académique, avec [[Vincent Lindon]] jouant le rôle de [[Ned]] ?
 
@@ -43,3 +43,7 @@ Elle y partage l'affiche avec [[Vincent Lindon]], qui interprète [[Ned]], un mu
 Un fait étonnant à propos de ce film est qu'il a été projeté au [[Festival de Venise]] la même année de sa sortie, ce qui est plutôt rare pour une comédie romantique française, bien que le film ne soit pas en compétition officielle. La musique a été composée par [[Vladimir Cosma]].
 
 [[Sophie Marceau]] remporte également grâce à ce rôle le [[César 1989]] de la meilleure actrice dans un second rôle, ce qui est une confusion fréquente dans les quiz, car elle n'a en réalité pas été nommée pour ce film mais pour [[Chouans !]].
+
+###### Archives questions
+
+Quel film de [[Luc Besson]], sorti en 1988, met en vedette [[Sophie Marceau]] dans le rôle de [[Valentine (Maurice Chevalier)]] qui jongle entre ses études en littérature et sa relation avec un musicien ? <!-- cm003 remplacée 2026-11-23 -->

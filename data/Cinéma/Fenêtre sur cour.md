@@ -29,7 +29,7 @@ culture_g_justification: "Classique incontournable d'Hitchcock, fréquemment uti
 
 ###### Questions
 
-Quel film réalisé par [[Alfred Hitchcock]] en 1954 met en scène [[James Stewart]] en tant que photographe coincé chez lui, observant ses voisins par la fenêtre ?
+Quel film d'[[Alfred Hitchcock]] (1954) montre [[James Stewart]], photographe immobilisé par une jambe cassée, épiant ses voisins ?
 
 Dans quel film sorti en 1954, un nouveau type de technique de son baptisée [[Vistavision]] a été utilisée pour améliorer la qualité visuelle des productions de [[Paramount Pictures]] ?
 
@@ -38,3 +38,7 @@ Quel film d'[[Alfred Hitchcock]] a été nommé pour quatre Oscars en 1955, nota
 ###### Description
 
 « [[Fenêtre sur cour]] » est un film emblématique du réalisateur [[Alfred Hitchcock]], sorti en 1954. Le long-métrage met en vedette [[James Stewart]] dans le rôle de [[L.B. Jeffries]], un photographe immobilisé par une jambe cassée, et [[Grace Kelly]] en [[Lisa Fremont]], son élégante petite amie. L'histoire se déroule presque entièrement dans l'appartement de Jeff, d'où il observe les faits et gestes de ses voisins à travers une cour intérieure, développant ainsi un suspens psychologique captivant. Ce film est souvent cité pour son utilisation innovante de la mise en scène et sa capacité à maintenir une tension constante, caractéristiques du génie d'Hitchcock.
+
+###### Archives questions
+
+Quel film réalisé par [[Alfred Hitchcock]] en 1954 met en scène [[James Stewart]] en tant que photographe coincé chez lui, observant ses voisins par la fenêtre ? <!-- cm003 remplacée 2026-11-23 -->

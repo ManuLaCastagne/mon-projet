@@ -27,7 +27,7 @@ culture_g_justification: "Réalisateur français très connu, exploitable via Un
 
 ###### Questions
 
-Quel réalisateur français a utilisé un plan séquence unique de plus de 15 minutes dans le film [[Les Uns et les Autres]] sorti en 1981 ?
+Quel réalisateur traverse Paris à l'aube en un seul plan-séquence d'environ 9 minutes dans le court métrage [[C'était un rendez-vous]] (1976) ?
 
 Quel réalisateur a filmé une célèbre scène de la galerie des glaces à [[Versailles]] sans autorisation pour le film [[Les Misérables]] en 1995 ?
 
@@ -42,3 +42,7 @@ Il atteint la renommée internationale avec son film [[Cinéma/Un homme et une f
 Un fait étonnant est que, en 1980, [[Claude Lelouch]] a filmé une folle course en voiture à travers les rues de Paris à l'aube, sans aucune autorisation officielle, ce qui est devenu le court-métrage culte intitulé [[C'était un rendez-vous]]. 
 
 Parmi ses nombreux films, Lelouch est considéré pour sa capacité à entrelacer les destins de personnages variés, un style qui a marqué le cinéma français et influencé de nombreux réalisateurs dans le monde.
+
+###### Archives questions
+
+Quel réalisateur français a utilisé un plan séquence unique de plus de 15 minutes dans le film [[Les Uns et les Autres]] sorti en 1981 ? <!-- cm003 remplacée 2026-11-23 -->

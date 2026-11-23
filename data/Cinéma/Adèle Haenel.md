@@ -33,7 +33,7 @@ Quelle actrice fraco-allemande est à l'affiche de "[[La Fille inconnue]]" des [
 
 Qui jouait en 2019 le rôle d'Héloïse dans "Portrait de la jeune fille en feu" de [[Céline Sciamma]] ?
 
-Quel deux fois lauréate du [[César de la meilleure actrice]] pour ses rôles dans [[Les Combattants]] (2014) et [[Portrait de la jeune fille en feu]] (2019) a annoncé en 2020 qu'elle ne souhaitait plus travailler dans l'industrie cinématographique traditionnelle ? <!-- score: 3 -->
+Quelle actrice a reçu le [[César de la meilleure actrice dans un second rôle]] pour [[Suzanne]] en 2014, puis le [[César de la meilleure actrice]] pour [[Les Combattants]] en 2015 ?
 
 Quelle actrice française a débuté sa carrière à l'âge de 12 ans dans le film [[Les Diables]] réalisé par [[Christophe Ruggia]] en 2002 qui l'a harcelée sexuellement pendant ce tournage ? 
 
@@ -46,3 +46,7 @@ Qui a été l'une des figures de proue du mouvement [[#MeToo]] en France en 2019
 Sa carrière a été couronnée de succès, notamment avec deux César : celui de la meilleure actrice dans un second rôle en 2014 pour [[Suzanne]] et celui de la meilleure actrice en 2015 pour [[Les Combattants]]. 
 
 En 2019, elle a également été saluée pour son rôle dans le film [[Portrait de la jeune fille en feu]] de [[Céline Sciamma]].
+
+###### Archives questions
+
+Quel deux fois lauréate du [[César de la meilleure actrice]] pour ses rôles dans [[Les Combattants]] (2014) et [[Portrait de la jeune fille en feu]] (2019) a annoncé en 2020 qu'elle ne souhaitait plus travailler dans l'industrie cinématographique traditionnelle ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->

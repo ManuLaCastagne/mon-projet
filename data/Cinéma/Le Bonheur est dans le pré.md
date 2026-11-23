@@ -32,10 +32,14 @@ culture_g_justification: "Comédie française populaire de Chatiliez, utile pour
 
 Quel film de [[Étienne Chatiliez]] sorti en 1995 met en scène [[Michel Serrault]] et porte un titre évoquant un adage rural positif ?
 
-Dans quel long métrage de 1995, le personnage de [[Francis]] décide-t-il de s'installer à la campagne pour fuir son quotidien dans la région parisienne ?
+Dans quelle comédie d'[[Étienne Chatiliez]] (1995), [[Michel Serrault]], patron d'une usine d'abattants de toilettes à [[Dole]], se fait-il passer pour un mari disparu dans le [[Gers]] ?
 
 Quelle comédie française a remporté le [[César 1996]] du meilleur acteur dans un second rôle pour [[Eddy Mitchell]] ?
 
 ###### Description
 
 [[Cinéma/Le Bonheur est dans le pré]] est un film français réalisé par [[Étienne Chatiliez]], sorti en 1995. Le film met en scène [[Michel Serrault]] dans le rôle principal de [[Francis Bergeade]], un fabricant de sièges de toilettes stressé et surmené, qui décide de changer de vie après la rencontre avec son sosie. [[Eddy Mitchell]] et [[Sabine Azéma]] jouent également des rôles importants, apportant une dynamique captivante au récit. Le film a connu un grand succès auprès du public, attirant plus de 3 millions de spectateurs en France et conserve une place mémorable dans l'histoire du cinéma français des années 90.
+
+###### Archives questions
+
+Dans quel long métrage de 1995, le personnage de [[Francis]] décide-t-il de s'installer à la campagne pour fuir son quotidien dans la région parisienne ? <!-- cm003 remplacée 2026-11-23 -->

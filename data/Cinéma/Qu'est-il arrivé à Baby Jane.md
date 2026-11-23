@@ -29,7 +29,7 @@ culture_g_justification: "Classique de l’horreur psychologique porté par Davi
 
 ###### Questions
 
-Dans quel film de 1962, interprété par [[Bette Davis]] et [[Joan Crawford]], deux sœurs autrefois actrices vivent une rivalité dévastatrice ?
+Quel film de 1962 met en scène la rivalité réelle entre [[Bette Davis]] et [[Joan Crawford]], racontée en 2017 dans la série [[Feud]] ?
 
 Quelle production cinématographique culte explore la descente dans la folie de l'ex-enfant star [[Baby Jane Hudson]] ?
 
@@ -38,3 +38,7 @@ Comment s'intitule le film réalisé par [[Robert Aldrich]] qui a été nommé p
 ###### Description
 
 [[Qu'est-il arrivé à Baby Jane]] est un film américain sorti en 1962, réalisé par [[Robert Aldrich]]. Cette œuvre culte met en scène les légendaires actrices [[Bette Davis]] et [[Joan Crawford]], qui incarnent deux sœurs rivales, autrefois célébrités du cinéma, vivant désormais recluses dans une maison de Los Angeles. Le film est célèbre pour sa tension dramatique, son atmosphère troublante, et pour avoir relancé la carrière de [[Bette Davis]], lui valant une nomination aux Oscars pour la meilleure actrice en 1963. Basé sur le roman de [[Henry Farrell]], "Qu’est-il arrivé à Baby Jane ?" explore des thèmes de jalousie, de vieillesse et de folie, laissant une empreinte durable sur le genre du thriller psychologique.
+
+###### Archives questions
+
+Dans quel film de 1962, interprété par [[Bette Davis]] et [[Joan Crawford]], deux sœurs autrefois actrices vivent une rivalité dévastatrice ? <!-- cm003 remplacée 2026-11-23 -->

@@ -33,8 +33,12 @@ Quel film de [[Paul Verhoeven]], sorti en 1992, a choqué le public par sa scèn
 
 Dans quel long métrage de 1992 peut-on entendre la bande originale composée par [[Jerry Goldsmith]] qui a été nominée aux Oscars?
 
-Quel thriller érotique a engendré une suite en 2006, intitulée [[Basic Instinct 2]], bien que l'original soit sorti en 1992?
+Quel thriller de [[Paul Verhoeven]] (1992) rend célèbre [[Sharon Stone]] en romancière soupçonnée de meurtre, face à [[Michael Douglas]] ?
 
 ###### Description
 
 [[Basic Instinct]] est un film emblématique du genre thriller érotique réalisé par [[Paul Verhoeven]] et sorti en 1992. L'histoire suit [[Nick Curran]], un détective interprété par [[Michael Douglas]], enquêtant sur le meurtre d'une rock star, avec pour principale suspecte l'écrivaine [[Catherine Tramell]], jouée par [[Sharon Stone]]. Le film a marqué les esprits grâce à sa célèbre scène d'interrogatoire, devenue iconique dans le cinéma des années 1990, et a rapporté environ 352 millions de dollars au box-office mondial. La musique du film, composée par [[Jerry Goldsmith]], a également été saluée et a reçu une nomination aux Oscars de 1993 pour la meilleure musique originale.
+
+###### Archives questions
+
+Quel thriller érotique a engendré une suite en 2006, intitulée [[Basic Instinct 2]], bien que l'original soit sorti en 1992? <!-- cm003 remplacée 2026-11-23 -->

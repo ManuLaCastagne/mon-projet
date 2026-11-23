@@ -27,7 +27,7 @@ culture_g_justification: "Classique mondial du cinéma, lié à Hollywood, aux O
 
 ###### Questions
 
-Quel film de 1939 est connu pour sa réplique emblématique "Frankly, my dear, I don't give a damn" ?
+Dans quel film de 1939, [[Clark Gable]] lance-t-il à [[Vivien Leigh]] : « Frankly, my dear, I don't give a damn » ?
 
 Quel film, basé sur le roman de [[Margaret Mitchell]] publié en 1936, a remporté dix Oscars lors de la cérémonie de 1940 ? <!-- score: 6 -->
 
@@ -42,3 +42,7 @@ Ce chef-d'œuvre cinématographique a remporté dix [[Oscars]], dont celui du me
 Un fait étonnant à son sujet est que [[Hattie McDaniel]], qui incarnait le personnage de [[Mammy]], a été la première Afro-Américaine à remporter un [[Oscar]], celui de la meilleure actrice dans un second rôle. 
 
 Avec une durée de près de quatre heures, il a longtemps détenu le record de la plus grande audience jamais enregistrée par un film lors d'une diffusion télévisée aux [[États-Unis]] en 1976.
+
+###### Archives questions
+
+Quel film de 1939 est connu pour sa réplique emblématique "Frankly, my dear, I don't give a damn" ? <!-- cm003 remplacée 2026-11-23 -->

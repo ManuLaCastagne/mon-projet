@@ -33,7 +33,7 @@ Quel film, réalisé par [[Dominique Cabrera]] en 2016, est une adaptation du ro
 
 Quel long métrage propose une plongée dans l'adolescence marseillaise où un groupe de jeunes se retrouve sur les falaises pour défier la gravité, et qui a été filmé dans le quartier de [[Corniche Kennedy]] à [[Marseille]] ?
 
-Quel film français suit l'histoire de jeunes désœuvrés et met en vedette les acteurs [[Aïssa Maïga]] et [[Lola Creton]] lors de sa sortie en 2016 ?
+Quel film de 2016, présenté en ouverture du [[FIDMarseille]], suit des adolescents marseillais qui plongent dans la mer du haut des rochers ?
 
 ###### Description
 
@@ -44,3 +44,7 @@ L'histoire se déroule à [[Marseille]] et suit un groupe d'adolescents qui pren
 Le film est basé sur un roman écrit par [[Maylis de Kerangal]], publié initialement en 2008, qui porte le même titre. 
 
 [[Lola Creton]], [[Aïssa Maïga]] et [[Alain Demaria]] figurent parmi la distribution principale, offrant des performances qui soulignent les tensions et les rêves des jeunes marseillais.
+
+###### Archives questions
+
+Quel film français suit l'histoire de jeunes désœuvrés et met en vedette les acteurs [[Aïssa Maïga]] et [[Lola Creton]] lors de sa sortie en 2016 ? <!-- cm003 remplacée 2026-11-23 -->
