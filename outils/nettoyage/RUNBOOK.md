@@ -30,10 +30,29 @@ Le Product Owner (Emmanuel) a délégué le nettoyage le 23/11/2026 : agir seul 
   · `corriger` (fausse : la remplacer par une question juste ayant la même réponse) · `ecarter` (incohérente
   ou doublon sans fait récupérable ; elle sera archivée).
 
+## Priorité : les signalements du PO (CM-020)
+
+Avant toute sélection automatique, traiter les tickets **ouverts** du dépôt `ManuLaCastagne/culture-max`
+portant l'étiquette `signalement` (`gh api "repos/ManuLaCastagne/culture-max/issues?labels=signalement&state=open"`).
+Chaque ligne du corps a la forme `- [type] Thème/Fiche · jeu TV? · « question »`, type ∈ fausse, mal posée,
+pas pertinente, image. Ces questions comptent dans le lot de 100 et passent en premier.
+
+- `fausse` / `mal posée` (question de la section `###### Questions`) : vérifier, puis `corriger` ou `reecrire`
+  avec les règles ci-dessous (retrouver le rang dans la fiche par le texte de la question).
+- `pas pertinente` : verdict `ecarter` (archivée, jamais supprimée).
+- Question marquée `jeu TV` (propriété `questions:` de l'en-tête) : ne pas toucher l'en-tête ; ajouter dans la
+  section `###### Questions` une version complète et vérifiée (même réponse), et le noter dans le commentaire.
+- `image` : chercher l'image correcte du sujet sur Wikimedia Commons ou Wikidata (propriété P18), vérifier
+  qu'elle représente bien le sujet, et remplacer le lien de l'image en tête de fiche ; garder l'ancien lien
+  dans un commentaire HTML `<!-- image remplacée (cm020) : URL -->` juste en dessous. Si rien de sûr : laisser tel quel.
+- Une fois le lot publié : commenter chaque ticket traité (ce qui a été fait, lien vers la demande de fusion),
+  puis le fermer (`gh api -X PATCH repos/ManuLaCastagne/culture-max/issues/<n> -f state=closed`).
+
 ## Déroulé d'un lot
 
 1. Préparer l'espace :
    - `add_repo` ManuLaCastagne/mon-projet en accès `push`, puis cloner (profondeur 1) dans `/home/claude/mon-projet`.
+   - `add_repo` ManuLaCastagne/culture-max en accès `push` (lecture et fermeture des tickets de signalement).
    - Récupérer les deux branches : `git fetch --depth=5 origin cm003/nettoyage cm003/outillage`.
    - `git worktree add /home/claude/outillage origin/cm003/outillage` ; se placer sur `cm003/nettoyage`.
    - Vérifier qu'aucune demande de fusion n'a été fusionnée entre-temps de façon à créer un conflit ;
