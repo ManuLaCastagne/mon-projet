@@ -33,7 +33,7 @@ Quel film de [[Billy Wilder]] de 1955 met en scène une scène iconique où la r
 
 Dans quelle comédie romantique américaine ne expliquant la crise de la septième année de mariage observons-nous la prestation de [[Tom Ewell]] aux côtés de [[Marilyn Monroe]] ?
 
-Quel film de 1955 adapte une pièce de [[George Axelrod]] dans laquelle [[Tom Ewell]] reprend à l'écran son rôle de Broadway face à [[Marilyn Monroe]] ?
+Quel film de 1955, adapté de [[George Axelrod]], provoqua la colère de [[Joe DiMaggio]] lors du tournage en public de la scène de la grille de métro ?
 
 ###### Description
 

@@ -31,7 +31,7 @@ culture_g_justification: "Comédie française estimée et récompensée, mais en
 
 Quel film réalisé par [[Pierre Salvadori]] en 2018 met en scène [[Adèle Haenel]] dans le rôle d'une inspectrice découvrant que son défunt mari était corrompu ?
 
-Quelle comédie de [[Pierre Salvadori]] (2018), avec [[Adèle Haenel]] et [[Pio Marmaï]], a reçu le prix SACD à la [[Quinzaine des réalisateurs]] ?
+Quelle comédie de 2018 suit une policière qui découvre que son défunt mari, héros local, était corrompu, et tente de réparer ses torts ?
 
 Quelle comédie française de 2018 met en vedette [[Pio Marmaï]], [[Audrey Tautou]] et [[Vincent Elbaz]], explorant les thèmes de la justice et de l'amour ?
 

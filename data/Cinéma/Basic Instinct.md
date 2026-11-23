@@ -33,7 +33,7 @@ Quel film de [[Paul Verhoeven]], sorti en 1992, a choqué le public par sa scèn
 
 Dans quel long métrage de 1992 peut-on entendre la bande originale composée par [[Jerry Goldsmith]] qui a été nominée aux Oscars?
 
-Quel thriller de [[Paul Verhoeven]] (1992) rend célèbre [[Sharon Stone]] en romancière soupçonnée de meurtre, face à [[Michael Douglas]] ?
+Quel thriller de 1992, écrit par [[Joe Eszterhas]], oppose l'inspecteur Nick Curran à la romancière Catherine Tramell ?
 
 ###### Description
 
