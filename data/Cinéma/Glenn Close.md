@@ -30,7 +30,7 @@ culture_g_justification: "Actrice très reconnue, associée à des films marquan
 
 ###### Questions
 
-Dans quel film de 1988 l'actrice [[Glenn Close]] incarne-t-elle le rôle de la fascinante Marquise de Merteuil dans l'adaptation cinématographique [[Liaisons fatales]] du roman épistolaire [[Les Liaisons dangereuses]] ? 
+Quelle actrice incarne la marquise de Merteuil dans [[Les Liaisons dangereuses]] (1988) de [[Stephen Frears]] ?
 
 En 2021, pour quel film [[Glenn Close]] a-t-elle été nominée à la fois aux Oscars et aux [[Razzie Awards]], ce qui est un fait rare pour une actrice dans la même année ?
 
@@ -43,3 +43,7 @@ Quel rôle [[Glenn Close]] a-t-elle incarné dans le film de [[Cruella De Vil]] 
 Elle est particulièrement célèbre pour son rôle dans le thriller psychologique [[Fatal Attraction]], sorti en 1987, où elle interprète Alex Forrest, un personnage complexe et mémorable. 
 
 En outre, elle a incarné la marquise de Merteuil dans l'adaptation cinématographique des [[Les Liaisons Dangereuses]], sortie en 1988, consolidant son statut d'actrice polyvalente et talentueuse.
+
+###### Archives questions
+
+Dans quel film de 1988 l'actrice [[Glenn Close]] incarne-t-elle le rôle de la fascinante Marquise de Merteuil dans l'adaptation cinématographique [[Liaisons fatales]] du roman épistolaire [[Les Liaisons dangereuses]] ? <!-- cm003 remplacée 2026-11-23 -->

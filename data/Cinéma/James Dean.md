@@ -29,7 +29,7 @@ culture_g_justification: "Icône mondiale du cinéma, liée à la jeunesse rebel
 
 ###### Questions
 
-Dans quel film de 1955, dirigé par [[Nicholas Ray]], [[James Dean]] joue-t-il le rôle de [[Jim Stark]], un adolescent rebelle qui a marqué l'histoire du cinéma ?
+Quel acteur incarne Jim Stark, l'adolescent révolté de [[La Fureur de vivre]] (1955) ?
 
 Quel acteur célèbre pour son rôle dans [[La Fureur de vivre]] a tragiquement perdu la vie dans un accident de voiture en 1955, à l'âge de 24 ans, laissant une marque indélébile sur l'industrie cinématographique ?
 
@@ -52,3 +52,7 @@ Qui a obtenu à titre posthume deux nominations aux Oscars pour meilleur acteur,
 ###### Description
 
 [[James Dean]] est un acteur emblématique des années 1950 devenu célèbre pour ses rôles marquants dans seulement trois films. Né en 1931, il a acquis une renommée mondiale grâce à son interprétation dans "À l'est d'Éden" (1955), le film qui marque véritablement le début de sa carrière cinématographique. Son rôle le plus iconique reste cependant celui de Jim Stark dans "[[Rebel Without a Cause]]" (1955), un film qui a immortalisé son image de rebelle. Malheureusement, la carrière de [[James Dean]] a été brutalement interrompue par un accident de voiture en 1955, le décès faisant de lui une légende à l'âge de 24 ans.
+
+###### Archives questions
+
+Dans quel film de 1955, dirigé par [[Nicholas Ray]], [[James Dean]] joue-t-il le rôle de [[Jim Stark]], un adolescent rebelle qui a marqué l'histoire du cinéma ? <!-- cm003 remplacée 2026-11-23 -->

@@ -30,7 +30,7 @@ culture_g_justification: "Acteur majeur du cinéma français, associé à Jean d
 
 ###### Questions
 
-Dans quel film sorti en 1989, [[Daniel Auteuil]] incarne-t-il le personnage de [[Ugolin]], un rôle qui lui a valu le César du meilleur acteur ?
+Quel acteur reçoit le César du meilleur acteur en 1987 pour son rôle d'Ugolin dans [[Jean de Florette]] ?
 
 Quel comédien a obtenu son premier rôle dans le cinéma français avec le film [[Appelle-moi Seigneur]] en 1970, avant d'acquérir une renommée internationale ?
 
@@ -39,3 +39,7 @@ En 1986, qui partage l'affiche avec [[Isabelle Adjani]] dans le film [[Jean de F
 ###### Description
 
 [[Daniel Auteuil]], acteur français de renom, a marqué le cinéma avec sa performance dans le film "[[Jean de Florette]]" en 1986, qui lui a valu une reconnaissance internationale. Au fil des années, il a collaboré avec des réalisateurs prestigieux comme [[Claude Sautet]], notamment dans "[[Un Coeur en hiver]]" en 1992. Lauréat de deux [[César du meilleur acteur]], il a remporté son premier en 1987 pour "Jean de Florette" et le second en 2000 pour "La Fille sur le pont". En 2005, il a également été salué pour son rôle dans "[[Caché]]" de [[Michael Haneke]], renforçant sa réputation d’acteur polyvalent et talentueux.
+
+###### Archives questions
+
+Dans quel film sorti en 1989, [[Daniel Auteuil]] incarne-t-il le personnage de [[Ugolin]], un rôle qui lui a valu le César du meilleur acteur ? <!-- cm003 remplacée 2026-11-23 -->

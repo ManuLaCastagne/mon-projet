@@ -31,7 +31,7 @@ culture_g_justification: "Grande actrice internationale reliée à Fellini, Leon
 
 Quelle actrice italienne née à [[Tunis]] tourne en 1963 dans [[Le Guépard]] de [[Luchino Visconti]] et [[Huit et demi]] de [[Federico Fellini]] ?
 
-Dans quel film de [[Sergio Leone]], sorti en 1968, [[Claudia Cardinale]] joue-t-elle le rôle central de Jill McBain, marquant un tournant dans le genre [[Western]] spaghetti ?
+Quelle actrice joue Jill McBain dans [[Il était une fois dans l'Ouest]] (1968) de [[Sergio Leone]] ?
 
 Quelle célèbre actrice, née en 1938 en [[Tunisie]], a remporté le titre de "[[La plus belle Italienne]] de Tunisie]]" en 1957 avant de devenir une icône du cinéma international ?
 
@@ -42,3 +42,5 @@ Quelle célèbre actrice, née en 1938 en [[Tunisie]], a remporté le titre de "
 ###### Archives questions
 
 Quel célèbre film de [[Federico Fellini]], sorti en 1963, a propulsé à nouveau [[Claudia Cardinale]] sous les feux des projecteurs avec un rôle mémorable de star de cinéma ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Sergio Leone]], sorti en 1968, [[Claudia Cardinale]] joue-t-elle le rôle central de Jill McBain, marquant un tournant dans le genre [[Western]] spaghetti ? <!-- cm003 remplacée 2026-11-23 -->

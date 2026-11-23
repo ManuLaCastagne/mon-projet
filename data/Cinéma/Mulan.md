@@ -29,7 +29,7 @@ culture_g_justification: "Classique Disney mondialement connu, permettant des qu
 
 ###### Questions
 
-Dans quel film d'animation de [[Disney]] sorti en 1998 rencontre-t-on le personnage de [[Mulan]], qui se fait passer pour un homme afin de prendre la place de son père dans l'armée chinoise ?
+Quel film d'animation [[Disney]] de 1998 raconte l'histoire d'une jeune Chinoise qui se déguise en homme pour remplacer son père à l'armée ?
 
 Quel long métrage inspiré d'une légende chinoise a vu sa première mondiale lors du festival de Cannes en 1998, marquant une rare présence d'un film d'animation à cet événement prestigieux ?
 
@@ -38,3 +38,7 @@ Quel film d'animation a engendré une discussion autour de la protection des riz
 ###### Description
 
 Le film d'animation [[Mulan]] de [[Disney]], sorti en 1998, est inspiré de la légende chinoise de [[Hua Mulan]], une guerrière qui prend la place de son père dans l'armée. Réalisé par [[Tony Bancroft]] et [[Barry Cook]], ce long-métrage fait partie de la renaissance de [[Disney]] des années 90, souvent appelée le "Disney Renaissance". La bande originale, composée par [[Jerry Goldsmith]], comprend la célèbre chanson "Reflection" interprétée par [[Lea Salonga]] pour la version chantée et [[Christina Aguilera]] lors de la sortie du single en Amérique. En 2020, [[Disney]] a sorti une adaptation en prises de vue réelles dirigée par [[Niki Caro]], mettant en vedette [[Liu Yifei]] dans le rôle de Mulan, créant ainsi un nouveau lien entre l'animation classique et le cinéma moderne.
+
+###### Archives questions
+
+Dans quel film d'animation de [[Disney]] sorti en 1998 rencontre-t-on le personnage de [[Mulan]], qui se fait passer pour un homme afin de prendre la place de son père dans l'armée chinoise ? <!-- cm003 remplacée 2026-11-23 -->

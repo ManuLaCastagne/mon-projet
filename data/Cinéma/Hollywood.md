@@ -33,8 +33,12 @@ Quel quartier de [[Los Angeles]], connu pour son célèbre panneau installé en 
 
 Quel centre de l'industrie cinématographique mondiale a vu le jour après le premier studio de [[Thomas Edison]] construit en [[États-Unis]], et est souvent associé à des productions cinématographiques à grand budget ?
 
-Quel quartier a accueilli en 1927 la première cérémonie des Oscars organisée au [[Hollywood Roosevelt Hotel]] ?
+Dans quel quartier de [[Los Angeles]] se tient en 1929 la première cérémonie des Oscars, au Roosevelt Hotel ?
 
 ###### Description
 
 [[Hollywood]] est le centre névralgique de l'industrie cinématographique américaine, situé à [[Los Angeles]], [[Sport/Californie]]. Il est renommé pour être le berceau du cinéma moderne depuis la sortie emblématique de "[[The Jazz Singer]]" en 1927, le premier film sonore de l'histoire. [[Hollywood]] a vu naître d'illustres stars telles que [[Marilyn Monroe]], dont la carrière a décollé dans les années 1950, symbolisant le glamour et le drame de cette époque. L'iconique [[Hollywood Sign]], initialement érigé en 1923 pour promouvoir un programme immobilier, est désormais un symbole mondialement reconnu du cinéma et des rêves.
+
+###### Archives questions
+
+Quel quartier a accueilli en 1927 la première cérémonie des Oscars organisée au [[Hollywood Roosevelt Hotel]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -31,7 +31,7 @@ Quel film sorti en 1989 a été réalisé par [[Tim Burton]] et met en vedette [
 
 Quel personnage de [[DC Comics]], apparu pour la première fois dans le numéro [[27]] de [[Detective Comics]] en 1939, est connu sous le nom de [[Chevalier Noir]] ? <!-- score: 4 -->
 
-Quel super-héros a été incarné à l'écran par des acteurs tels que [[Christian Bale]] dans [[The Dark Knight]] en 2008 et [[Ben Affleck]] dans [[Batman v Superman: L'Aube de la Justice]] en 2016 ?
+Quel super-héros est incarné par [[Christian Bale]] dans [[The Dark Knight]] (2008), puis par [[Ben Affleck]] en 2016 ?
 
 ###### Description
 
@@ -79,3 +79,6 @@ Le film emblématique de [[Tim Burton]], "[[Batman]]", est sorti en 1989, marqua
 - [[Solomon Grundy]] : Mort-vivant brutal et quasi-invincible  
 - [[Zsasz (Victor Zsasz)]] : Tueur en série qui grave chaque meurtre sur sa peau
 
+###### Archives questions
+
+Quel super-héros a été incarné à l'écran par des acteurs tels que [[Christian Bale]] dans [[The Dark Knight]] en 2008 et [[Ben Affleck]] dans [[Batman v Superman: L'Aube de la Justice]] en 2016 ? <!-- cm003 remplacée 2026-11-23 -->

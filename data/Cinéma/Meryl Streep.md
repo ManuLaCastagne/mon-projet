@@ -29,12 +29,20 @@ culture_g_justification: "Actrice de référence mondiale, offrant une multitude
 
 ###### Questions
 
-Dans quel film de [[Meryl Streep]] de 2006, son personnage inspire le surnom de "dragon lady"?
+Quelle actrice incarne Miranda Priestly, rédactrice en chef tyrannique, dans [[Le diable s'habille en Prada]] (2006) ?
 
-En 1983, pour quel rôle interprété par [[Meryl Streep]] a-t-elle remporté son premier Oscar de la meilleure actrice?
+Quelle actrice remporte en 1983 l'Oscar de la meilleure actrice pour [[Le Choix de Sophie]] d'[[Alan J. Pakula]] ?
 
-À propos de quel film de 2008, [[Meryl Streep]] a-t-elle déclaré qu'il s'agissait d'une de ses expériences de tournage les plus joyeuses ?
+Quelle actrice chante les tubes d'[[ABBA]] dans la comédie musicale [[Mamma Mia!]] (2008) ?
 
 ###### Description
 
 [[Meryl Streep]], souvent considérée comme l'une des plus grandes actrices de tous les temps, a débuté sa carrière cinématographique en 1977 avec le film "Julia". Elle a remporté son premier Oscar en 1980 pour son rôle dans [[Kramer contre Kramer]] aux côtés de [[Dustin Hoffman]]. En 1985, elle a joué dans le film emblématique "Out of Africa", qui lui a valu une reconnaissance internationale aux côtés de [[Robert Redford]]. En 2012, elle a décroché son troisième Oscar pour son interprétation de [[Margaret Thatcher]] dans "The Iron Lady".
+
+###### Archives questions
+
+Dans quel film de [[Meryl Streep]] de 2006, son personnage inspire le surnom de "dragon lady"? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1983, pour quel rôle interprété par [[Meryl Streep]] a-t-elle remporté son premier Oscar de la meilleure actrice? <!-- cm003 remplacée 2026-11-23 -->
+
+À propos de quel film de 2008, [[Meryl Streep]] a-t-elle déclaré qu'il s'agissait d'une de ses expériences de tournage les plus joyeuses ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,9 +29,9 @@ culture_g_justification: "Première femme Premier ministre britannique et figure
 
 ###### Questions
 
-Quel film de 2011 a valu à [[Meryl Streep]] un Oscar pour son interprétation de [[Margaret Thatcher]] ?
+Quelle Première ministre britannique [[Meryl Streep]] incarne-t-elle en 2011, rôle qui lui vaut son troisième Oscar ?
 
-Quel célèbre duo de scénaristes britanniques, [[Richard Curtis]] et [[Ben Elton]], a créé en 1985 une parodie de l'époque de [[Margaret Thatcher]] dans une série comique centrée sur [[Edmund Blackadder]] ? <!-- score: 9 -->
+Quelle Première ministre britannique, au pouvoir de 1979 à 1990, est surnommée la « Dame de fer » ?
 ###### Description
 
 La figure emblématique de [[Margaret Thatcher]], première femme Premier ministre du [[Royaume-Uni]], a été magistralement interprétée par [[Meryl Streep]] dans le film "[[The Iron Lady]]" sorti en 2011. Ce rôle a valu à [[Meryl Streep]] l'Oscar de la meilleure actrice pour sa performance en incarnant cette politicienne influente.
@@ -39,3 +39,9 @@ La figure emblématique de [[Margaret Thatcher]], première femme Premier minist
 La réalisation de ce film, dirigée par [[Phyllida Lloyd]], offre un regard intime et complexe sur la vie personnelle et politique de [[Margaret Thatcher]], soulignant son ascension au pouvoir de 1979 à 1990.
 
 [[Jim Broadbent]] incarne avec brio son époux, [[Denis Thatcher]], ajoutant une couche de profondeur à cette biographie dramatique.
+
+###### Archives questions
+
+Quel film de 2011 a valu à [[Meryl Streep]] un Oscar pour son interprétation de [[Margaret Thatcher]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre duo de scénaristes britanniques, [[Richard Curtis]] et [[Ben Elton]], a créé en 1985 une parodie de l'époque de [[Margaret Thatcher]] dans une série comique centrée sur [[Edmund Blackadder]] ? <!-- score: 9 --> <!-- cm003 remplacée 2026-11-23 -->

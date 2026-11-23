@@ -28,11 +28,11 @@ culture_g_justification: "Biopic oscarisé sur une figure historique mondiale, p
 
 ###### Questions
 
-En quelle année le film [[Gandhi]], réalisé par [[Richard Attenborough]], a-t-il remporté l'Oscar du meilleur film ? 
+Quel film de [[Richard Attenborough]] (1982) remporte huit Oscars, dont celui du meilleur film ?
 
-Qui incarne [[Mahatma Gandhi]] dans le film "Gandhi" sorti en 1982 ? 
+Quel film vaut à [[Ben Kingsley]] l'Oscar du meilleur acteur en 1983 ?
 
-Quel est le nombre total d'Oscars remportés par le film [[Gandhi]] lors de la cérémonie des Oscars de 1983 ?
+Quel film biographique de 1982 retrace la marche du sel et la lutte non violente pour l'indépendance de l'[[Inde]] ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Le film « [[Gandhi]] », réalisé par [[Richard Attenborough]], est sorti en 1
 Le film a remporté au total huit Oscars, dont ceux du meilleur film et du meilleur réalisateur, affirmant sa stature dans le cinéma mondial. 
 
 Avec un budget d'environ 22 millions de dollars, « Gandhi » constitue une œuvre marquante du cinéma du XXe siècle, illustrant la vie et les luttes pour l'indépendance de l'[[Inde]].
+
+###### Archives questions
+
+En quelle année le film [[Gandhi]], réalisé par [[Richard Attenborough]], a-t-il remporté l'Oscar du meilleur film ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui incarne [[Mahatma Gandhi]] dans le film "Gandhi" sorti en 1982 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nombre total d'Oscars remportés par le film [[Gandhi]] lors de la cérémonie des Oscars de 1983 ? <!-- cm003 remplacée 2026-11-23 -->

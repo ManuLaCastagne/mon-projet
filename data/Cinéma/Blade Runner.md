@@ -33,8 +33,12 @@ Dans quel film de [[Ridley Scott]] sorti en 1982 les décors sont-ils inspirés 
 
 Quel long-métrage de science-fiction culte, basé sur le roman de [[Philip K. Dick]], a connu plusieurs versions différentes depuis sa sortie initiale en 1982, y compris une "Final Cut" en 2007 ?
 
-Dans quel film dont l'action se déroule en 2019 trouve-t-on des réplicants, des androïdes biologiquement identiques aux humains, qui sont "à la retraite" par un [[Blade Runner]] ?
+Quel film de [[Ridley Scott]] (1982) montre [[Harrison Ford]] traquant des réplicants dans le Los Angeles de 2019 ?
 
 ###### Description
 
 [[Blade Runner]] est un film de science-fiction réalisé par [[Ridley Scott]], sorti en 1982. Il est basé sur le roman "Les androïdes rêvent-ils de moutons électriques ?" de [[Philip K. Dick]], publié en 1968. L'intrigue se déroule dans un [[Los Angeles]] dystopique en 2019, où [[Rick Deckard]], interprété par [[Harrison Ford]], est un Blade Runner chargé de traquer des réplicants rebelles. Ce film culte est célèbre pour son esthétique futuriste influencée par le courant cyberpunk et pour sa bande originale composée par [[Vangelis]].
+
+###### Archives questions
+
+Dans quel film dont l'action se déroule en 2019 trouve-t-on des réplicants, des androïdes biologiquement identiques aux humains, qui sont "à la retraite" par un [[Blade Runner]] ? <!-- cm003 remplacée 2026-11-23 -->

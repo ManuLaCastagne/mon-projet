@@ -29,7 +29,7 @@ culture_g_justification: "Star internationale mobilisable par Urgences, ses film
 
 ###### Questions
 
-Dans quel film sorti en 2000 [[George Clooney]] incarne-t-il un personnage en quête d'un trésor durant la Grande Dépression, inspiré par l'[[Odyssée]] d'[[Homère]] ? <!-- score: 5 -->
+Quel acteur mène l'évasion de trois bagnards dans [[O'Brother]] (2000) des frères [[Coen]], inspiré de l'[[Odyssée]] ?
 
 Quel acteur a vendu sa marque de tequila [[Casamigos]] pour un montant de 1 milliard de dollars en 2017 ?
 
@@ -44,3 +44,7 @@ Il a remporté son premier Oscar du meilleur second rôle en 2006 pour sa perfor
 En tant que réalisateur, Clooney est également salué pour ses films, notamment [[Good Night, and Good Luck]] sorti en 2005, qui a été nominé pour six Oscars, y compris celui de meilleur réalisateur. 
 
 En 2013, [[Gravity]], où il partage la vedette avec [[Sandra Bullock]], a été acclamé à la fois pour sa réalisation technique et pour sa mise en scène intense, remportant sept Oscars, incluant celui de la meilleure réalisation.
+
+###### Archives questions
+
+Dans quel film sorti en 2000 [[George Clooney]] incarne-t-il un personnage en quête d'un trésor durant la Grande Dépression, inspiré par l'[[Odyssée]] d'[[Homère]] ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->

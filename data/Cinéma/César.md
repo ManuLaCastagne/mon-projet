@@ -31,8 +31,12 @@ Quel événement annuel du monde cinématographique français, créé en 1976, r
 
 Quel est le nom du prestigieux trophée qui a été présenté pour la première fois à [[Simone Signoret]] et [[Philippe Noiret]] lors de sa première cérémonie en 1976 ?
 
-Quel événement, souvent comparé aux Oscars américains, a pour but de célébrer l'excellence dans le cinéma français et a été baptisé en l'honneur du sculpteur [[César Baldaccini]] ?
+Quelle récompense du cinéma français, créée en 1976, prend la forme d'une compression du sculpteur [[César Baldaccini|Baldaccini]] ?
 
 ###### Description
 
 Les César du cinéma ont vu le jour en France en 1976 et constituent une cérémonie prestigieuse récompensant les meilleures œuvres et talents du cinéma français. Inspirés par les Oscars américains, les statuettes sont nommées d'après le sculpteur [[César Baldaccini]], créateur du trophée. La première édition, présidée par l'immense réalisateur [[Jean Gabin]], a vu le film "[[L'Histoire d'Adèle H.]]", réalisé par [[François Truffaut]], obtenir le César du meilleur film. Depuis, des personnalités comme [[Juliette Binoche]] et [[Daniel Auteuil]] y ont remporté plusieurs distinctions, consolidant leur renommée internationale.
+
+###### Archives questions
+
+Quel événement, souvent comparé aux Oscars américains, a pour but de célébrer l'excellence dans le cinéma français et a été baptisé en l'honneur du sculpteur [[César Baldaccini]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,7 +29,7 @@ culture_g_justification: "Acteur international associé à Hannibal Lecter, aux 
 
 ###### Questions
 
-Dans quel film de 1991 [[Anthony Hopkins]] a-t-il interprété le personnage emblématique du [[Dr. Hannibal Lecter]], un rôle qui lui a valu un Oscar du meilleur acteur ?
+Quel acteur gallois incarne [[Hannibal Lecter]] dans [[Le Silence des agneaux]] (1991) ?
 
 En 2021, quel acteur a remporté son deuxième Oscar du meilleur acteur pour son rôle dans le film [[The Father]] ?
 
@@ -38,3 +38,7 @@ En 1987, quel acteur britannique a été nommé [[Commandeur de l'Ordre de l'Emp
 ###### Description
 
 [[Anthony Hopkins]], acteur britannique emblématique, est né le 31 décembre 1937 à [[Port Talbot]], au [[Pays de Galles]]. Il a reçu l'[[Oscar du Meilleur Acteur]] en 1992 pour son rôle iconique de [[Hannibal Lecter]] dans le film "[[Le Silence des Agneaux]]", sorti en 1991. [[Hopkins]] a également été honoré par la [[Reine Elizabeth II]] en 1993, qui lui a décerné le titre de [[Knight Bachelor]] pour sa contribution au cinéma et aux arts. En 2021, il a fait l'histoire en devenant le plus vieil acteur à remporter un Oscar dans la catégorie du Meilleur Acteur pour son rôle dans "[[The Father]]", réalisé par [[Florian Zeller]].
+
+###### Archives questions
+
+Dans quel film de 1991 [[Anthony Hopkins]] a-t-il interprété le personnage emblématique du [[Dr. Hannibal Lecter]], un rôle qui lui a valu un Oscar du meilleur acteur ? <!-- cm003 remplacée 2026-11-23 -->

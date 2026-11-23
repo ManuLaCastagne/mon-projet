@@ -31,10 +31,16 @@ culture_g_justification: "Grande figure franco-italienne reliant chanson, ciném
 
 Qui a joué dans "[[Z]]" réalisé par [[Costa-Gavras]] en 1969 le rôle principal à travers le personnage du député Grigoris Lambrakis ? <!-- score: 5 -->
 
-Quel artiste, connu sous le nom de [[Yves Montand]], est co-vedette avec [[Marilyn Monroe]] dans le film "Let's Make Love" sorti en 1960 ?
+Quel acteur et chanteur français partage l'affiche du [[Milliardaire]] (1960) avec [[Marilyn Monroe]] ?
 
-[[Yves Montand]] a été au centre d’un incident international en 1987 en étant le premier acteur à tourner en [[Chine]] depuis la révolution culturelle, dans quel film cela s'est-il produit ?
+Quel chanteur et acteur joue César Soubeyran dans [[Jean de Florette]] et [[Manon des sources]] (1986) de [[Claude Berri]] ?
 
 ###### Description
 
 [[Yves Montand]], né [[Ivo Livi]] en 1921, est une figure emblématique du cinéma français et international. En 1960, il joue dans le film "La Vérité" réalisé par [[Henri-Georges Clouzot]], aux côtés de [[Brigitte Bardot]]. Montand atteint une audience internationale grâce à son rôle dans "Nous irons tous au paradis" de [[Yves Robert]] en 1977. En 1980, il choque et séduit le public en interprétant le personnage de [[Philippe Noiret]] dans le film "Coup de torchon", dirigé par [[Bertrand Tavernier]].
+
+###### Archives questions
+
+Quel artiste, connu sous le nom de [[Yves Montand]], est co-vedette avec [[Marilyn Monroe]] dans le film "Let's Make Love" sorti en 1960 ? <!-- cm003 remplacée 2026-11-23 -->
+
+[[Yves Montand]] a été au centre d’un incident international en 1987 en étant le premier acteur à tourner en [[Chine]] depuis la révolution culturelle, dans quel film cela s'est-il produit ? <!-- cm003 remplacée 2026-11-23 -->

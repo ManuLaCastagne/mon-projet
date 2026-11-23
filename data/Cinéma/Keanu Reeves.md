@@ -29,11 +29,11 @@ culture_g_justification: "Matrix, John Wick et Point Break font de Keanu Reeves 
 
 ###### Questions
 
-Dans quel film sorti en 1999, réalisé par les frères [[Wachowski]], [[Keanu Reeves]] joue-t-il le rôle emblématique de [[Neo]] dans un monde où la réalité est simulée ?
+Quel acteur incarne Neo dans [[Matrix]] (1999) des [[Wachowski]] ?
 
 Quel acteur canadien, connu pour sa passion pour les motos, a joué le rôle principal dans le film d'action [[John Wick]] sorti en 2014, marquant un retour triomphal sur le devant de la scène après une période plus discrète ?
 
-En 1991, dans quel film de surf et d'action réalisé par [[Kathryn Bigelow]], [[Keanu Reeves]] incarne-t-il un jeune agent du FBI infiltré sous le nom de Johnny Utah ?
+Quel acteur joue Johnny Utah, agent du FBI infiltré chez les surfeurs, dans [[Point Break]] (1991) de [[Kathryn Bigelow]] ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Il a débuté sa carrière cinématographique avec le film [[Youngblood]] en 198
 [[Keanu Reeves]] est également connu pour son rôle iconique de [[John Wick]] dans la série de films qui a débuté avec [[John Wick]] en 2014. 
 
 Par ailleurs, il a joué aux côtés d'[[Al Pacino]] dans [[The Devil's Advocate]] en 1997, mettant en évidence sa capacité à endosser des rôles variés tout au long de sa carrière.
+
+###### Archives questions
+
+Dans quel film sorti en 1999, réalisé par les frères [[Wachowski]], [[Keanu Reeves]] joue-t-il le rôle emblématique de [[Neo]] dans un monde où la réalité est simulée ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1991, dans quel film de surf et d'action réalisé par [[Kathryn Bigelow]], [[Keanu Reeves]] incarne-t-il un jeune agent du FBI infiltré sous le nom de Johnny Utah ? <!-- cm003 remplacée 2026-11-23 -->

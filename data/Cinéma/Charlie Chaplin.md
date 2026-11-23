@@ -29,7 +29,7 @@ culture_g_justification: "Figure universelle du cinéma, ouvrant sur le muet, la
 
 ###### Questions
 
-Quel célèbre acteur et réalisateur a terminé troisième à un concours de sosies de [[Charlie Chaplin]] dans les années 1920 ?
+Quel acteur et réalisateur britannique crée en 1914 Charlot, le vagabond au chapeau melon et à la canne ?
 
 Qui a été nommé Chevalier du [[Royaume-Uni]] par la [[Reine Élisabeth II]] en 1975, bien qu'il soit décédé deux ans plus tard ?
 
@@ -38,3 +38,7 @@ Quel iconique acteur de l'ère du cinéma muet a été expulsé des [[États-Uni
 ###### Description
 
 [[Charlie Chaplin]] est une figure emblématique du [[cinéma muet]] et du cinéma mondial en général. Né en 1889 à [[Londres]], il est surtout connu pour son personnage du [[Vagabond]] qui apparaît pour la première fois en 1914 dans le court-métrage "Kid Auto Races at Venice". Chaplin a marqué l'histoire du cinéma avec des films tels que "Les Lumières de la ville" sorti en 1931 et "Le Dictateur" en 1940, une parodie audacieuse de [[Adolf Hitler]] qui était l'un des premiers films parlants de Chaplin. En 1972, il reçoit un [[Oscar d'honneur]] pour l'ensemble de son œuvre, récompensant sa contribution inestimable à l'industrie cinématographique.
+
+###### Archives questions
+
+Quel célèbre acteur et réalisateur a terminé troisième à un concours de sosies de [[Charlie Chaplin]] dans les années 1920 ? <!-- cm003 remplacée 2026-11-23 -->

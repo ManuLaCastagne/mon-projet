@@ -27,11 +27,11 @@ culture_g_justification: "Star mondiale offrant de très nombreux angles sur Tit
 
 ###### Questions
 
-Dans quel film de [[James Cameron]], sorti en 1997, [[Leonardo DiCaprio]] interprète-t-il le personnage de [[Jack Dawson]] ?
+Quel acteur joue Jack Dawson dans [[Titanic]] (1997) de [[James Cameron]] ?
 
-En 2016, [[Leonardo DiCaprio]] a remporté son premier [[Oscar]] du meilleur acteur pour quel film dirigé par [[Alejandro González Iñárritu]] ?
+Quel acteur remporte enfin l'Oscar du meilleur acteur en 2016 pour [[The Revenant]] d'[[Alejandro González Iñárritu]] ?
 
-En 2013, quel film réalisé par [[Martin Scorsese]] met en vedette [[Leonardo DiCaprio]] dans le rôle de [[Jordan Belfort]], un courtier de la [[Bourse]] controversé ?
+Quel acteur incarne le courtier [[Jordan Belfort]] dans [[Le Loup de Wall Street]] (2013) de [[Martin Scorsese]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Acteur fétiche du réalisateur [[Martin Scorsese]], il a collaboré avec lui su
 Un fait étonnant à propos de [[DiCaprio]] est qu'il a été nommé six fois pour l'Oscar avant de finalement remporter sa première statuette en 2016 pour "The Revenant", un film où il a bravé des conditions de tournage extrêmes. 
 
 En plus d'être une star du cinéma, [[DiCaprio]] est également un ardent défenseur de l'environnement et a créé en 1998 la [[Leonardo DiCaprio Foundation]] pour soutenir divers projets écologiques.
+
+###### Archives questions
+
+Dans quel film de [[James Cameron]], sorti en 1997, [[Leonardo DiCaprio]] interprète-t-il le personnage de [[Jack Dawson]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2016, [[Leonardo DiCaprio]] a remporté son premier [[Oscar]] du meilleur acteur pour quel film dirigé par [[Alejandro González Iñárritu]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2013, quel film réalisé par [[Martin Scorsese]] met en vedette [[Leonardo DiCaprio]] dans le rôle de [[Jordan Belfort]], un courtier de la [[Bourse]] controversé ? <!-- cm003 remplacée 2026-11-23 -->

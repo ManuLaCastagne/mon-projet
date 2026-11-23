@@ -29,9 +29,9 @@ culture_g_justification: "Icône mondiale du western et du cinéma américain, o
 
 ###### Questions
 
-Dans quel film de [[Sergio Leone]] réalisé en 1966 [[Clint Eastwood]] joue-t-il le rôle emblématique de l'Homme sans nom ou aussi appelé [[Blondin]] ?  
+Quel acteur joue l'Homme sans nom, dit « Blondin », dans [[Le Bon, la Brute et le Truand]] (1966) de [[Sergio Leone]] ?
   
-En 1988, quel film produit et réalisé par [[Clint Eastwood]] met en scène un pianiste de jazz fictif nommé [[Johnny Handsome]], interprété par [[Forest Whitaker]] ?  
+Quel réalisateur consacre en 1988 le film [[Bird]] au saxophoniste [[Charlie Parker]], incarné par [[Forest Whitaker]] ?
   
 Quel acteur-réalisateur incarne [[William Munny]], ancien tueur reprenant les armes, dans [[Impitoyable]] (1992) ?
 
@@ -44,3 +44,7 @@ En 2008, il a aussi dirigé et joué dans le film acclamé "Gran Torino", confir
 ###### Archives questions
 
 Dans quel film réalisé en 1992, [[Clint Eastwood]] incarne-t-il un ancien tueur à gages nommé [[William Munny]] qui reprend du service pour une dernière mission ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Sergio Leone]] réalisé en 1966 [[Clint Eastwood]] joue-t-il le rôle emblématique de l'Homme sans nom ou aussi appelé [[Blondin]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1988, quel film produit et réalisé par [[Clint Eastwood]] met en scène un pianiste de jazz fictif nommé [[Johnny Handsome]], interprété par [[Forest Whitaker]] ? <!-- cm003 remplacée 2026-11-23 -->

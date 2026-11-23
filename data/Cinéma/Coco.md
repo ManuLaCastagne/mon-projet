@@ -31,10 +31,14 @@ culture_g_justification: "Film Pixar très connu, rentable grâce à ses liens a
 
 Dans quel film d'animation des studios [[Pixar]] sorti en 2017 le jeune [[Miguel]] voyage-t-il dans le monde des ancêtres pour devenir musicien ?
 
-Comment s'appelle le film où le personnage principal découvre que les mémoires de son arrière-grand-mère, [[Mamá Coco]], cachent un talent musical oublié, sorti en 2017 ?
+Quel film d'animation de 2017 remporte l'Oscar de la meilleure chanson avec « Remember Me » (« Ne m'oublie pas ») ?
 
 Quel film d'[[animation]] a remporté l'Oscar du meilleur film d'animation en 2018 pour son interprétation unique de la fête mexicaine [[Día de los Muertos]] ?
 
 ###### Description
 
 Le film d'animation [[Coco]] est sorti en 2017 et a été produit par les studios [[Pixar Animation Studios]] et distribué par [[Walt Disney Pictures]]. Réalisé par [[Lee Unkrich]] et co-réalisé par [[Adrian Molina]], il raconte l'histoire de [[Miguel Rivera]], un jeune garçon passionné de musique qui se retrouve accidentellement plongé dans le Royaume des Morts lors de la célébration du [[Día de los Muertos]]. Pour revenir dans le monde des vivants, Miguel doit obtenir la bénédiction de son trisaïeul, le légendaire musicien [[Ernesto de la Cruz]]. Le film a remporté l'Oscar du meilleur film d'animation en 2018 et a été salué pour sa représentation authentique de la culture mexicaine et son hommage aux traditions familiales.
+
+###### Archives questions
+
+Comment s'appelle le film où le personnage principal découvre que les mémoires de son arrière-grand-mère, [[Mamá Coco]], cachent un talent musical oublié, sorti en 2017 ? <!-- cm003 remplacée 2026-11-23 -->

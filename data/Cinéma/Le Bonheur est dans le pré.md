@@ -32,7 +32,7 @@ culture_g_justification: "Comédie française populaire de Chatiliez, utile pour
 
 Quel film de [[Étienne Chatiliez]] sorti en 1995 met en scène [[Michel Serrault]] et porte un titre évoquant un adage rural positif ?
 
-Dans quelle comédie d'[[Étienne Chatiliez]] (1995), [[Michel Serrault]], patron d'une usine d'abattants de toilettes à [[Dole]], se fait-il passer pour un mari disparu dans le [[Gers]] ?
+Quelle comédie de 1995 offre à [[Eric Cantona]], alors footballeur à [[Manchester United]], un rôle de rugbyman aux côtés de [[Michel Serrault]] ?
 
 Quelle comédie française a remporté le [[César 1996]] du meilleur acteur dans un second rôle pour [[Eddy Mitchell]] ?
 

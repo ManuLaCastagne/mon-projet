@@ -31,12 +31,18 @@ culture_g_justification: "Maître mondial de l’animation, associé à Ghibli, 
 
 En 2009, à quel réalisateur japonais doit-on le film d'animation "[[Ponyo sur la falaise]]"...
 
-Quelle ville japonaise a accueilli le tout premier [[Musée du studio Ghibli]] fondé par [[Hayao Miyazaki]] en 2001 ?
+Quel cinéaste japonais a conçu le [[Musée Ghibli]], ouvert en 2001 à [[Mitaka]], près de Tokyo ?
 
 Quel réalisateur légendaire associé à [[Le Voyage de Chihiro]] et [[Mon voisin Totoro]] est souvent considéré comme un maître du [[cinéma d'animation]] japonais ?
 
-Quel studio a été cofondé en 1985 par [[Hayao Miyazaki]], à l'origine de films animés acclamés mondialement ?
+Quel réalisateur japonais cofonde le [[Studio Ghibli]] en 1985 avec [[Isao Takahata]] ?
 
 ###### Description
 
 [[Hayao Miyazaki]] est un réalisateur japonais renommé, célèbre pour ses films d'animation qui captivent des audiences internationales par leur créativité et leur profondeur émotionnelle. En 1986, il réalise [[Le Château dans le ciel]], un classique qui marque la première production officielle du studio [[Studio Ghibli]]. Un autre chef-d'œuvre de Miyazaki, [[Le Voyage de Chihiro]], sorti en 2001, a remporté l'[[Oscar du meilleur film d'animation]] en 2003, devenant ainsi le film d'animation le plus acclamé du répertoire de Miyazaki. En 1988, il sort [[Mon voisin Totoro]], qui introduit [[Totoro]], une créature emblématique devenue la mascotte du studio [[Studio Ghibli]].
+
+###### Archives questions
+
+Quelle ville japonaise a accueilli le tout premier [[Musée du studio Ghibli]] fondé par [[Hayao Miyazaki]] en 2001 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel studio a été cofondé en 1985 par [[Hayao Miyazaki]], à l'origine de films animés acclamés mondialement ? <!-- cm003 remplacée 2026-11-23 -->

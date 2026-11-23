@@ -29,12 +29,20 @@ culture_g_justification: "Actrice universellement célèbre grâce à Casablanca
 
 ###### Questions
 
-Quel célèbre film romantique de 1942 met en vedette [[Ingrid Bergman]] aux côtés de [[Humphrey Bogart]], tourné en pleine [[Seconde Guerre mondiale]] ? <!-- score: 10 -->
+Quelle actrice suédoise incarne Ilsa Lund face à [[Humphrey Bogart]] dans [[Casablanca]] (1942) ?
 
-Avec quel célèbre réalisateur [[Ingrid Bergman]] a-t-elle entretenu une relation professionnellement fructueuse et controversée qui a débuté avec le film [[Stromboli]] en 1950 ?
+Quelle actrice quitte Hollywood pour tourner [[Stromboli]] (1950) avec [[Roberto Rossellini]], qu'elle épouse ensuite ?
 
-Quel rôle a valu à [[Ingrid Bergman]] son troisième Oscar en 1975, faisant d'elle l'une des rares actrices à recevoir autant de statuettes pour ses performances au cinéma ?
+Quelle actrice obtient en 1975 son troisième Oscar pour [[Le Crime de l'Orient-Express]] de [[Sidney Lumet]] ?
 
 ###### Description
 
 [[Ingrid Bergman]], née en 1915 à [[Stockholm]], est considérée comme l'une des plus grandes actrices de l'âge d'or d'[[Hollywood]]. Elle a remporté trois Oscars au cours de sa carrière : deux pour la meilleure actrice, notamment pour son rôle dans "[[Anastasia]]" en 1956, et un pour la meilleure actrice dans un second rôle pour "[[Murder on the Orient Express]]" en 1974. L'un de ses rôles les plus emblématiques est celui d'[[Ilsa Lund]] dans le film culte "[[Casablanca]]" aux côtés de [[Humphrey Bogart]] en 1942. Après avoir été impliquée dans un scandale retentissant suite à sa relation avec le réalisateur [[Roberto Rossellini]], Bergman a vécu en [[Italie]], puis fait un retour triomphal à [[Hollywood]] dans les années 1950.
+
+###### Archives questions
+
+Quel célèbre film romantique de 1942 met en vedette [[Ingrid Bergman]] aux côtés de [[Humphrey Bogart]], tourné en pleine [[Seconde Guerre mondiale]] ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Avec quel célèbre réalisateur [[Ingrid Bergman]] a-t-elle entretenu une relation professionnellement fructueuse et controversée qui a débuté avec le film [[Stromboli]] en 1950 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle a valu à [[Ingrid Bergman]] son troisième Oscar en 1975, faisant d'elle l'une des rares actrices à recevoir autant de statuettes pour ses performances au cinéma ? <!-- cm003 remplacée 2026-11-23 -->

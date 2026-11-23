@@ -31,12 +31,18 @@ culture_g_justification: "Film oscarisé et très classique, à la croisée du c
 
 Quel film de [[Milos Forman]] de 1984 a remporté huit Oscars, dont celui du [[Meilleur Film]] et du [[Meilleur Réalisateur]] ?
 
-Dans quel film [[Tom Hulce]] incarne-t-il le célèbre compositeur [[Wolfgang Amadeus Mozart]], offrant une performance qui lui a valu une nomination aux Oscars pour [[Meilleur Acteur]] en 1985 ?
+Quel film de 1984 vaut à [[F. Murray Abraham]] l'Oscar du meilleur acteur pour son rôle d'[[Antonio Salieri]] ?
 
-Quel film basé sur la pièce de [[Peter Shaffer]] explore la rivalité entre [[Wolfgang Amadeus Mozart]] et [[Antonio Salieri]], remportant le [[Golden Globe]] du [[Meilleur Film dramatique]] en 1985 ?
+Quel film adaptant une pièce de [[Peter Shaffer]] a été tourné en grande partie à [[Prague]] par le cinéaste tchèque [[Miloš Forman]] ?
 
 ###### Description
 
 Le film [[Amadeus]], réalisé par [[Milos Forman]] et sorti en 1984, est une adaptation de la pièce de théâtre éponyme de [[Peter Shaffer]]. Il met en lumière la rivalité musicale entre [[Wolfgang Amadeus Mozart]] et [[Antonio Salieri]] dans la Vienne du XVIIIe siècle, un thème qui a fasciné les cinéphiles et les amateurs d'histoire. Lauréat de huit Oscars, dont ceux du [[Meilleur Film]] et du [[Meilleur Réalisateur]], ce chef-d'œuvre a marqué l'industrie cinématographique par son interprétation mémorable de [[Wolfgang Amadeus Mozart]] par [[Tom Hulce]] et celle de [[Salieri]] par [[F. Murray Abraham]], qui a également remporté l'[[Oscar du Meilleur Acteur]].
 
 La musique dans [[Amadeus]], principalement composée par [[Wolfgang Amadeus Mozart]] lui-même, joue un rôle central dans le récit et demeure une raison majeure de son succès, offrant au public moderne une immersion sans précédent dans le monde du grand compositeur.
+
+###### Archives questions
+
+Dans quel film [[Tom Hulce]] incarne-t-il le célèbre compositeur [[Wolfgang Amadeus Mozart]], offrant une performance qui lui a valu une nomination aux Oscars pour [[Meilleur Acteur]] en 1985 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film basé sur la pièce de [[Peter Shaffer]] explore la rivalité entre [[Wolfgang Amadeus Mozart]] et [[Antonio Salieri]], remportant le [[Golden Globe]] du [[Meilleur Film dramatique]] en 1985 ? <!-- cm003 remplacée 2026-11-23 -->

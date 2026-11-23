@@ -27,11 +27,11 @@ culture_g_justification: "Figure incontournable du cinéma français et internat
 
 ###### Questions
 
-Dans quel film de [[Ridley Scott]] sorti en 1492 [[Gérard Depardieu]] incarne-t-il le célèbre explorateur [[Christophe Colomb]] ? 
+Quel acteur français incarne Christophe Colomb dans [[1492 : Christophe Colomb]] (1992) de [[Ridley Scott]] ?
 
-Avec quel acteur [[Gérard Depardieu]] a-t-il partagé l'affiche dans le film [[La Chèvre]] sorti en 1981, marquant le début d'une collaboration fructueuse avec le réalisateur [[Francis Veber]] ?
+Quel acteur forme avec [[Pierre Richard]] le duo de [[La Chèvre]] (1981), [[Les Compères]] et [[Les Fugitifs]] de [[Francis Veber]] ?
 
-Dans quel film français de [[Maurice Pialat]], récompensé de la [[Palme d'Or]] au [[Festival de Cannes]] en 1987, [[Gérard Depardieu]] joue-t-il le rôle principal de [[Loulou]] ?
+Quel acteur incarne l'abbé Donissan dans [[Sous le soleil de Satan]] de [[Maurice Pialat]], Palme d'or 1987 ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Il a travaillé avec de grands réalisateurs tels que [[François Truffaut]], [[
 Fait étonnant : en 2013, [[Gérard Depardieu]] est entré dans le [[Livre Guinness des records]] pour avoir été l'acteur ayant joué dans le plus grand nombre de films principaux, plus précisément, il avait tourné dans 170 films à cette date. 
 
 En parallèle de sa carrière cinématographique, [[Depardieu]] s'est également illustré dans le domaine du vin en acquérant plusieurs vignobles en [[Bordeaux]] et en [[Loire]], soulignant ainsi sa passion pour l'œnologie.
+
+###### Archives questions
+
+Dans quel film de [[Ridley Scott]] sorti en 1492 [[Gérard Depardieu]] incarne-t-il le célèbre explorateur [[Christophe Colomb]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Avec quel acteur [[Gérard Depardieu]] a-t-il partagé l'affiche dans le film [[La Chèvre]] sorti en 1981, marquant le début d'une collaboration fructueuse avec le réalisateur [[Francis Veber]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film français de [[Maurice Pialat]], récompensé de la [[Palme d'Or]] au [[Festival de Cannes]] en 1987, [[Gérard Depardieu]] joue-t-il le rôle principal de [[Loulou]] ? <!-- cm003 remplacée 2026-11-23 -->

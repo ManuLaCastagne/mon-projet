@@ -29,11 +29,11 @@ culture_g_justification: "Actrice majeure du cinéma américain, reliée au Parr
 
 ###### Questions
 
-Dans quel film iconique de 1972 réalisé par [[Francis Ford Coppola]] Diane Keaton a-t-elle joué un rôle mémorable aux côtés de [[Marlon Brando]] ?
+Quelle actrice joue Kay Adams, l'épouse de Michael Corleone, dans [[Le Parrain]] (1972) ?
 
-En quelle année Diane Keaton a-t-elle remporté l'Oscar de la meilleure actrice pour sa performance dans [[Annie Hall]] réalisé par [[Woody Allen]] ?
+Quelle actrice remporte l'Oscar de la meilleure actrice en 1978 pour [[Annie Hall]] de [[Woody Allen]] ?
 
-Quel est le titre du film de 1996 dans lequel Diane Keaton a non seulement joué mais a également fait ses débuts en tant que réalisatrice ?
+Quelle actrice incarne Mary Wilkie, l'intellectuelle dont s'éprend [[Woody Allen]] dans [[Manhattan]] (1979) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a remporté l'Oscar de la meilleure actrice en 1978 pour sa performance dan
 En 2003, elle a joué aux côtés de [[Jack Nicholson]] dans "[[Something's Gotta Give]]", une comédie romantique qui a rapporté plus de 266 millions de dollars au box-office mondial. 
 
 Tout au long de ses décennies de carrière, [[Diane Keaton]] est également reconnue pour ses rôles dans des films cultes comme la saga "[[Le Parrain]]" où elle interprète [[Kay Adams-Corleone]], ajoutant une dimension mémorable à certains des films les plus célèbres du cinéma américain. 
+
+###### Archives questions
+
+Dans quel film iconique de 1972 réalisé par [[Francis Ford Coppola]] Diane Keaton a-t-elle joué un rôle mémorable aux côtés de [[Marlon Brando]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année Diane Keaton a-t-elle remporté l'Oscar de la meilleure actrice pour sa performance dans [[Annie Hall]] réalisé par [[Woody Allen]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du film de 1996 dans lequel Diane Keaton a non seulement joué mais a également fait ses débuts en tant que réalisatrice ? <!-- cm003 remplacée 2026-11-23 -->

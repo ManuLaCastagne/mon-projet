@@ -29,11 +29,11 @@ culture_g_justification: "Icône mondiale du cinéma, reliée à de nombreux fil
 
 ###### Questions
 
-Dans quel film emblématique de 1961 a joué [[Audrey Hepburn]], où elle incarne le personnage de [[Holly Golightly]]?
+Quelle actrice incarne Holly Golightly dans [[Diamants sur canapé]] (1961) de [[Blake Edwards]] ?
 
-Quel rôle a interprété [[Audrey Hepburn]] dans le film musical de 1964 intitulé "[[My Fair Lady]]", qui lui a valu d'être immortalisée dans l'histoire du cinéma?
+Quelle actrice joue Eliza Doolittle dans [[My Fair Lady]] (1964) de [[George Cukor]], ses chansons étant doublées par [[Marni Nixon]] ?
 
-Dans quel film de 1953 [[Audrey Hepburn]] a-t-elle remporté l'Oscar de la meilleure actrice pour son rôle de [[Princesse Ann]]?
+Quelle actrice remporte l'Oscar de la meilleure actrice pour son rôle de princesse en fugue dans [[Vacances romaines]] (1953) de [[William Wyler]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a ensuite capturé l'imaginaire collectif en interprétant [[Holly Golightl
 En 1964, sa performance dans la comédie musicale [[My Fair Lady]] a démontré son incroyable polyvalence en tant qu'actrice, renforçant son statut de légende cinématographique. 
 
 En marge de sa carrière, [[Audrey Hepburn]] s'est également illustrée par son engagement philanthropique en tant qu'ambassadrice de l'[[UNICEF]] dans les années 1980, prouvant que son impact allait au-delà de l'écran.
+
+###### Archives questions
+
+Dans quel film emblématique de 1961 a joué [[Audrey Hepburn]], où elle incarne le personnage de [[Holly Golightly]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle a interprété [[Audrey Hepburn]] dans le film musical de 1964 intitulé "[[My Fair Lady]]", qui lui a valu d'être immortalisée dans l'histoire du cinéma? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 1953 [[Audrey Hepburn]] a-t-elle remporté l'Oscar de la meilleure actrice pour son rôle de [[Princesse Ann]]? <!-- cm003 remplacée 2026-11-23 -->

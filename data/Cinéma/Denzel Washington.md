@@ -29,12 +29,18 @@ culture_g_justification: "Acteur mondialement célèbre, porté par de nombreux 
 
 ###### Questions
 
-Dans quel film de 1993, [[Denzel Washington]] a-t-il joué le rôle d'un avocat aux côtés de [[Tom Hanks]], qui interprète un personnage atteint du SIDA dans un contexte de discrimination professionnelle ? 
+Quel acteur joue l'avocat qui défend [[Tom Hanks]], licencié parce que malade du sida, dans [[Philadelphia]] (1993) ?
 
 En 1989, quel acteur a remporté l'Oscar du meilleur acteur dans un second rôle pour sa performance dans [[Glory]], un film sur la [[Guerre de Sécession]] américaine, marquant l'une des percées majeures de sa carrière ? 
 
-Pour quel film de 2001, [[Denzel Washington]] a-t-il reçu l'Oscar du meilleur acteur pour son interprétation d'un policier corrompu et charismatique dans [[Training Day]] ?
+Quel acteur remporte l'Oscar du meilleur acteur pour son rôle de policier corrompu dans [[Training Day]] (2001) ?
 
 ###### Description
 
 [[Denzel Washington]] est un acteur américain renommé qui a marqué l'industrie du cinéma avec ses performances captivantes et sa présence charismatique. Né le 28 décembre 1954 à [[Mount Vernon]], il a débuté sa carrière cinématographique dans les années 1980, se faisant connaître avec son rôle dans le film [[Cry Freedom]] (1987). Il a ensuite remporté son premier Oscar du meilleur acteur en second rôle pour son interprétation dans [[Glory]] (1989). En 2002, il a marqué l'histoire en devenant le deuxième Afro-Américain à recevoir l'Oscar du meilleur acteur, pour son rôle dans [[Training Day]].
+
+###### Archives questions
+
+Dans quel film de 1993, [[Denzel Washington]] a-t-il joué le rôle d'un avocat aux côtés de [[Tom Hanks]], qui interprète un personnage atteint du SIDA dans un contexte de discrimination professionnelle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel film de 2001, [[Denzel Washington]] a-t-il reçu l'Oscar du meilleur acteur pour son interprétation d'un policier corrompu et charismatique dans [[Training Day]] ? <!-- cm003 remplacée 2026-11-23 -->

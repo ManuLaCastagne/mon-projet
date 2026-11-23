@@ -34,7 +34,7 @@ Qui incarne le rôle du chocolatier Willy Wonka en 2005 dans le film de Tim Burt
 
 En 1993, qui a joué aux côtés de [[Leonardo DiCaprio]] dans le film réalisé par [[Lasse Hallström]] : [[Gilbert Grape]] ?
 
-Pour quel film de 2003 [[Johnny Depp]] a-t-il été nommé pour l'[[Oscar du meilleur acteur]] pour son rôle du [[Capitaine Jack Sparrow]]?
+Quel acteur est nommé à l'Oscar pour son rôle de Jack Sparrow dans [[Pirates des Caraïbes : La Malédiction du Black Pearl]] (2003) ?
 
 ###### Description
 
@@ -51,3 +51,7 @@ Ses relations notable sont :
 - **Kate Moss** (1994–1998) : Mannequin britannique. Leur relation passionnée a souvent fait la une des tabloïds. 
     
 - **Vanessa Paradis** (1998–2012) : Chanteuse et actrice française. Ils ont eu deux enfants ensemble : Lily-Rose (1999) et Jack (2002). Bien qu’ils ne se soient jamais mariés, leur relation a duré 14 ans.
+
+###### Archives questions
+
+Pour quel film de 2003 [[Johnny Depp]] a-t-il été nommé pour l'[[Oscar du meilleur acteur]] pour son rôle du [[Capitaine Jack Sparrow]]? <!-- cm003 remplacée 2026-11-23 -->

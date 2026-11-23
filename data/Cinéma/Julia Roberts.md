@@ -29,12 +29,20 @@ culture_g_justification: "Julia Roberts est une star mondiale liée à de nombre
 
 ###### Questions
 
-Dans quel film de 1990, [[Julia Roberts]] a-t-elle joué aux côtés de [[Richard Gere]], marquant une avancée majeure dans sa carrière avec le rôle de [[Vivian Ward]] ?
+Quelle actrice joue Vivian Ward face à [[Richard Gere]] dans [[Pretty Woman]] (1990) ?
 
-Quel acteur masculin renommé a partagé l'affiche avec [[Julia Roberts]] dans le film iconique de 1997, "[[My Best Friend's Wedding]]" ([[Le Mariage de mon meilleur ami]]) ?
+Quelle actrice tente de saboter le mariage de son meilleur ami dans [[Le Mariage de mon meilleur ami]] (1997) ?
 
-Quelle récompense prestigieuse [[Julia Roberts]] a-t-elle remportée en 2001 pour son rôle dans le film "[[Erin Brockovich]]" ?
+Quelle actrice remporte l'Oscar de la meilleure actrice en 2001 pour [[Erin Brockovich]] de [[Steven Soderbergh]] ?
 
 ###### Description
 
 [[Julia Roberts]] est une actrice américaine renommée, née le 28 octobre 1967, qui s'est imposée comme l'une des figures emblématiques du cinéma d'[[Hollywood]]. Elle a remporté l'Oscar de la meilleure actrice en 2001 pour son rôle dans le film "[[Erin Brockovich, seule contre tous]]", sorti en 2000. Sa carrière a décollé grâce au succès du film "[[Pretty Woman]]", en 1990, où elle partageait l'affiche avec [[Richard Gere]]. Au fil des années, [[Julia Roberts]] a continué à captiver le public avec sa présence charismatique dans des films tels que "[[Ocean's Eleven]]" en 2001 et "[[Eat Pray Love]]" en 2010.
+
+###### Archives questions
+
+Dans quel film de 1990, [[Julia Roberts]] a-t-elle joué aux côtés de [[Richard Gere]], marquant une avancée majeure dans sa carrière avec le rôle de [[Vivian Ward]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur masculin renommé a partagé l'affiche avec [[Julia Roberts]] dans le film iconique de 1997, "[[My Best Friend's Wedding]]" ([[Le Mariage de mon meilleur ami]]) ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle récompense prestigieuse [[Julia Roberts]] a-t-elle remportée en 2001 pour son rôle dans le film "[[Erin Brockovich]]" ? <!-- cm003 remplacée 2026-11-23 -->

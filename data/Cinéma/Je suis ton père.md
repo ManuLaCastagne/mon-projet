@@ -33,8 +33,12 @@ Dans quel film sorti en 1977, un célèbre personnage interprété par [[David P
 
 Quelle phrase iconique est prononcée par [[Dark Vador]] dans le film [[Star Wars, épisode V : L'Empire contre-attaque]], sorti en 1980, lors de son duel avec [[Luke Skywalker]] ?
 
-Dans quel contexte le réalisateur [[George Lucas]] a-t-il incorporé la révélation « [[Je suis ton père]] » dans l'univers de [[Star Wars]] ?
+Quelle révélation de [[L'Empire contre-attaque]] (1980) fut cachée à presque toute l'équipe, [[David Prowse]] ayant dit une autre réplique sur le plateau ?
 
 ###### Description
 
 Le thème "Je suis ton père" est indissociable de la célèbre réplique de [[Dark Vador]] dans [[Star Wars]], un tournant dramatique du film sorti en 1980. Cet instant clé a lieu dans "[[L'Empire contre-attaque]]", où Dark Vador révèle à [[Luke Skywalker]] qu'il est son père, bouleversant ainsi la perception des fans sur la saga. Ce film, réalisé par [[Irvin Kershner]] et produit par [[George Lucas]], est considéré comme l'un des meilleurs de la franchise, marquant par ses effets spéciaux novateurs pour l'époque. [[Mark Hamill]], interprétant le rôle de Luke, incarne ce moment avec une intensité qui a laissé une empreinte indélébile dans la culture populaire et a inspiré de nombreux hommages et parodies depuis sa sortie.
+
+###### Archives questions
+
+Dans quel contexte le réalisateur [[George Lucas]] a-t-il incorporé la révélation « [[Je suis ton père]] » dans l'univers de [[Star Wars]] ? <!-- cm003 remplacée 2026-11-23 -->

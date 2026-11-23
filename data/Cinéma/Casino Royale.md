@@ -31,7 +31,7 @@ Quel film de [[James Bond]], réalisé par [[Martin Campbell]] en 2006, réintro
 
 Quel roman de [[Ian Fleming]] publié en 1953 a été adapté en un film de [[James Bond]] et marque la première apparition à l'écran du personnage de [[Vesper Lynd]] joué par [[Eva Green]] ?
 
-Quel film d'espionnage met en scène le tranchant et intense jeu de poker au [[Casino Royale]] et se déroule principalement au [[Monténégro]] ?
+Quel James Bond de 2006 marque les débuts de [[Daniel Craig]] et se joue autour d'une partie de poker au [[Monténégro]] ?
 
 ###### Description
 
@@ -42,3 +42,7 @@ Ce film marque la première apparition de [[Daniel Craig]] dans le rôle emblém
 Un fait peu connu est que [[Casino Royale]] détient le record de la plus longue scène de jeu de poker jamais filmée dans un film de [[James Bond]], durant près de 30 minutes. 
 
 Tourné dans plusieurs lieux à travers le monde, notamment aux [[Bahamas]], en [[Italie]], et en [[Rép. Tchèque]], le film a revitalisé la franchise et est souvent salué pour ses scènes d'action spectaculaires.
+
+###### Archives questions
+
+Quel film d'espionnage met en scène le tranchant et intense jeu de poker au [[Casino Royale]] et se déroule principalement au [[Monténégro]] ? <!-- cm003 remplacée 2026-11-23 -->

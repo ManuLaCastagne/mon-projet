@@ -31,7 +31,7 @@ culture_g_justification: "Grand acteur européen régulièrement cité pour La C
 
 [[Quel acteur suisse]] a interprété le rôle d'[[Adolf Hitler]] dans le film [[La Chute]] en 2004 ?
 
-Dans quel film de [[Wim Wenders]] sorti en 1987 [[Bruno Ganz]] incarne-t-il l'ange [[Damiel]] ?
+Quel acteur suisse joue l'ange Damiel dans [[Les Ailes du désir]] (1987) de [[Wim Wenders]] ?
 
 Quel acteur joue le rôle principal dans le film acclamé [[L'Éternité et un jour]] de [[Théo Angelopoulos]], sorti en 1998 ?
 
@@ -42,3 +42,7 @@ Quel acteur joue le rôle principal dans le film acclamé [[L'Éternité et un j
 Un autre rôle marquant de sa carrière est celui de l'ange [[Damiel]] dans "[[Les Ailes du désir]]" (Der Himmel über Berlin), réalisé par [[Wim Wenders]] en 1987, où il incarne un ange aspirant à une vie humaine.
 
 Bruno Ganz a également reçu le prestigieux [[Iffland-Ring]] en 1996, un honneur décerné à l'acteur germanophone considéré comme le plus important de son époque.
+
+###### Archives questions
+
+Dans quel film de [[Wim Wenders]] sorti en 1987 [[Bruno Ganz]] incarne-t-il l'ange [[Damiel]] ? <!-- cm003 remplacée 2026-11-23 -->

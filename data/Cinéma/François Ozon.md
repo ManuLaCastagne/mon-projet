@@ -31,7 +31,7 @@ culture_g_justification: "Réalisateur français contemporain prolifique, identi
 
 A l'exemple du drame avec "[[Frantz]]", du thriller avec "Swimming pool" et de la comédie avec "[[Potiche]]". Ayant sorti en juillet 2020 "[[Eté 85]]"... <!-- score: 4 -->
 
-Dans quel domaine [[François Ozon]] s'est-il fait connaître pour ses œuvres et ses contributions majeures depuis ses débuts ?
+Quel réalisateur français adapte [[Rainer Werner Fassbinder]] dans [[Peter von Kant]] (2022) et signe [[Grâce à Dieu]] (2019) ?
 
 Quel réalisateur français a réalisé des films tels que [[8 femmes]], [[Swimming Pool]] et [[Grâce à Dieu]] qui ont marqué le cinéma au début du XXIe siècle ?
 
@@ -46,3 +46,7 @@ Il s'est imposé sur la scène internationale avec le film [[Sous le sable]], so
 En 2002, Ozon a consolidé sa réputation avec [[8 femmes]], une comédie musicale à mystère réunissant un casting impressionnant, dont [[Catherine Deneuve]] et [[Isabelle Huppert]]. 
 
 Un autre film marquant de sa carrière est [[Dans la maison]], sorti en 2012, qui a remporté le Prix FIPRESCI au Festival de [[Toronto]].
+
+###### Archives questions
+
+Dans quel domaine [[François Ozon]] s'est-il fait connaître pour ses œuvres et ses contributions majeures depuis ses débuts ? <!-- cm003 remplacée 2026-11-23 -->

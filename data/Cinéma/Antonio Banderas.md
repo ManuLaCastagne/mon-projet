@@ -29,12 +29,20 @@ culture_g_justification: "Acteur international relié à Almodóvar, Hollywood, 
 
 ###### Questions
 
-Dans quel film de [[Pedro Almodóvar]] de 1987, joué par [[Antonio Banderas]], l'acteur interprète-t-il un jeune homme passionnément amoureux d'une chanteuse d'un groupe punk?
+Quel acteur espagnol, révélé par [[Pedro Almodóvar]], joue l'amant obsessionnel de [[La Loi du désir]] (1987) ?
 
-En 2011, quel film réalisé par [[Pedro Almodóvar]] met en scène [[Antonio Banderas]] dans le rôle d'un chirurgien plasticien obsessionnel?
+Quel acteur incarne le chirurgien obsessionnel de [[La piel que habito]] (2011) de [[Pedro Almodóvar]] ?
 
-Quelle voix a prêtée [[Antonio Banderas]] dans la version originale du film d'animation [[Shrek 2]], sorti en 2004?
+Quel acteur prête sa voix au Chat potté dans [[Shrek 2]] (2004) ?
 
 ###### Description
 
 [[Antonio Banderas]], acteur espagnol né en 1960, a fait ses débuts dans le cinéma avec le réalisateur [[Pedro Almodóvar]] dans les années 1980, notamment avec le film *[[La Loi du Désir]]* sorti en 1987. Il s'est ensuite imposé à [[Hollywood]] avec son rôle dans le film *[[Desperado]]* de [[Robert Rodriguez]] en 1995, qui a marqué le début de sa renommée internationale. [[Banderas]] a également incarné le personnage du célèbre masqué dans *[[Le Masque de Zorro]]* en 1998, aux côtés de [[Catherine Zeta-Jones]] et [[Anthony Hopkins]]. En 2019, il a reçu le prix d'interprétation masculine au Festival de Cannes pour son rôle dans le film *[[Douleur et Gloire]]*, de nouveau sous la direction d'[[Almodóvar]].
+
+###### Archives questions
+
+Dans quel film de [[Pedro Almodóvar]] de 1987, joué par [[Antonio Banderas]], l'acteur interprète-t-il un jeune homme passionnément amoureux d'une chanteuse d'un groupe punk? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2011, quel film réalisé par [[Pedro Almodóvar]] met en scène [[Antonio Banderas]] dans le rôle d'un chirurgien plasticien obsessionnel? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle voix a prêtée [[Antonio Banderas]] dans la version originale du film d'animation [[Shrek 2]], sorti en 2004? <!-- cm003 remplacée 2026-11-23 -->
