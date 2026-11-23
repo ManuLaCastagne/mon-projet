@@ -31,10 +31,16 @@ culture_g_justification: "Juliette Binoche relie cinéma français et internatio
 
 Quel acteur a reçu l'Oscar du meilleur second rôle en 1997 pour le film [[Le Patient anglais (film)]] ? <!-- score: 10 -->
 
-Quelle actrice française a refusé de tourner pour [[Steven Spielberg]] dans les années 1990, préférant s'engager sur une pièce de théâtre à Paris ?
+Quelle actrice française refuse un rôle dans [[Jurassic Park]] de [[Steven Spielberg]] pour tourner [[Trois Couleurs : Bleu]] de [[Krzysztof Kieślowski]] ?
 
-En quelle année [[Juliette Binoche]] a-t-elle remporté le prix d'interprétation féminine au Festival de Cannes pour le film [[Copie conforme (film)]] ?
+Quelle actrice reçoit le prix d'interprétation féminine à Cannes en 2010 pour [[Copie conforme (film)|Copie conforme]] d'[[Abbas Kiarostami]] ?
 
 ###### Description
 
 [[Juliette Binoche]] est une actrice française de renom qui a connu une carrière internationale florissante. Elle a remporté l'Oscar de la meilleure actrice dans un second rôle pour son interprétation dans [[Le Patient anglais]] en 1997. Binoche a également été saluée pour son rôle dans le film [[Trois couleurs : Bleu]] de [[Krzysztof Kieślowski]], sorti en 1993, où elle incarne une femme en deuil cherchant à se reconstruire. En 2010, elle reçoit le prix d'interprétation féminine au Festival de Cannes pour son rôle dans [[Copie conforme]], réalisé par [[Abbas Kiarostami]].
+
+###### Archives questions
+
+En quelle année [[Juliette Binoche]] a-t-elle remporté le prix d'interprétation féminine au Festival de Cannes pour le film [[Copie conforme (film)]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice française a refusé de tourner pour [[Steven Spielberg]] dans les années 1990, préférant s'engager sur une pièce de théâtre à Paris ? <!-- cm003 remplacée 2026-11-23 -->

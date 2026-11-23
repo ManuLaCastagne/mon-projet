@@ -27,11 +27,11 @@ culture_g_justification: "Réalisateur de grandes comédies françaises, notamme
 
 ###### Questions
 
-En quelle année [[Gérard Oury]] a-t-il réalisé le film culte [[La Grande Vadrouille]], réunissant [[Bourvil]] et [[Louis de Funès]] pour la deuxième fois à l'écran ?
+Quel réalisateur dirige [[Bourvil]] et [[Louis de Funès]] dans [[Le Corniaud]] (1965) puis dans [[La Grande Vadrouille]] (1966) ?
 
-Quel film de [[Gérard Oury]] sorti en 1973 a été le plus grand succès au box-office français en cumulant plus de 7 millions d'entrées avec [[Jean-Paul Belmondo]] dans un rôle comique ?
+Quel réalisateur signe [[Les Aventures de Rabbi Jacob]] (1973), où un industriel raciste doit se déguiser en rabbin ?
 
-Quel lien familial unit [[Gérard Oury]] à l'actrice [[Danièle Thompson]], célèbre pour être la scénariste du film [[La Boum]] ?
+Quel réalisateur est le père de la scénariste [[Danièle Thompson]], coautrice de la plupart de ses films ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Il a dirigé l'un des films les plus emblématiques de l'humour français, [[La 
 Un fait étonnant à son sujet est qu'il a failli ne pas reconnaître l'opportunité de ce succès, hésitant initialement à faire appel au duo comique [[Bourvil]] et [[Louis de Funès]], qui sont devenus cultes grâce à ce film. 
 
 Avant de se consacrer à la réalisation, Oury avait une carrière d'acteur au [[Théâtre National Populaire]], mais il s'est tourné vers la mise en scène après que la [[Seconde Guerre mondiale]] l'ait contraint à fuir la France en raison de ses origines juives.
+
+###### Archives questions
+
+En quelle année [[Gérard Oury]] a-t-il réalisé le film culte [[La Grande Vadrouille]], réunissant [[Bourvil]] et [[Louis de Funès]] pour la deuxième fois à l'écran ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de [[Gérard Oury]] sorti en 1973 a été le plus grand succès au box-office français en cumulant plus de 7 millions d'entrées avec [[Jean-Paul Belmondo]] dans un rôle comique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lien familial unit [[Gérard Oury]] à l'actrice [[Danièle Thompson]], célèbre pour être la scénariste du film [[La Boum]] ? <!-- cm003 remplacée 2026-11-23 -->

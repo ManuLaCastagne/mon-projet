@@ -29,12 +29,20 @@ culture_g_justification: "Ses rôles dans Gladiator et Joker, ses Oscars et ses 
 
 ###### Questions
 
-Dans quel film de [[James Gray]] sorti en 2018, [[Joaquin Phoenix]] incarne-t-il un nettoyeur à gages plongé dans une sombre affaire de kidnapping ?
+Quel acteur reçoit le prix d'interprétation masculine à Cannes en 2017 pour [[A Beautiful Day]] de [[Lynne Ramsay]] ?
 
-Pour son rôle dans quel film de [[Todd Phillips]] sorti en 2019, [[Joaquin Phoenix]] a-t-il remporté l'Oscar du meilleur acteur ?
+Quel acteur remporte l'Oscar du meilleur acteur pour [[Joker]] (2019) de [[Todd Phillips]] ?
 
-Quel film de [[Ridley Scott]] de l'année 2000 a propulsé [[Joaquin Phoenix]] au rang de grand acteur grâce à son interprétation de l'empereur [[Commode]] ?
+Quel acteur incarne l'empereur [[Commode]] dans [[Gladiator]] (2000) de [[Ridley Scott]] ?
 
 ###### Description
 
 [[Joaquin Phoenix]] est un acteur américain reconnu pour ses performances intenses et polyvalentes au cinéma. Il a acquis une renommée internationale grâce à son rôle dans [[Gladiator]] (2000), où il interprète le personnage complexe de [[Commode]]. En 2019, il a remporté l'[[Oscar du meilleur acteur]] pour son interprétation du personnage principal dans le film à succès [[Joker]]. Phoenix est également connu pour ses collaborations avec le réalisateur [[Paul Thomas Anderson]], notamment dans le film [[The Master]] (2012), pour lequel il a reçu de nombreuses nominations, dont celle pour l'[[Oscar du meilleur acteur]].
+
+###### Archives questions
+
+Dans quel film de [[James Gray]] sorti en 2018, [[Joaquin Phoenix]] incarne-t-il un nettoyeur à gages plongé dans une sombre affaire de kidnapping ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour son rôle dans quel film de [[Todd Phillips]] sorti en 2019, [[Joaquin Phoenix]] a-t-il remporté l'Oscar du meilleur acteur ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de [[Ridley Scott]] de l'année 2000 a propulsé [[Joaquin Phoenix]] au rang de grand acteur grâce à son interprétation de l'empereur [[Commode]] ? <!-- cm003 remplacée 2026-11-23 -->

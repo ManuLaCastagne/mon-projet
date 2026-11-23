@@ -29,12 +29,20 @@ culture_g_justification: "Acteur associé à plusieurs films très questionnés 
 
 ###### Questions
 
-Dans quel film de 1999, [[Edward Norton]] joue-t-il le rôle d'un personnage souffrant de trouble dissociatif de l'identité, coïncidant avec la révélation choquante de l'identité secrète de [[Tyler Durden]] ?
+Quel acteur joue le narrateur insomniaque face à [[Brad Pitt]] dans [[Fight Club]] (1999) de [[David Fincher]] ?
 
-Dans quel film de 2001, [[Edward Norton]] incarne-t-il un jeune homme placé en détention pour trafic de drogue, avec ses dernières 24 heures de liberté avant d'entrer en prison, basé sur le roman de [[David Benioff]] ?
+Quel acteur passe ses dernières 24 heures de liberté avant la prison dans [[La 25e Heure]] (2002) de [[Spike Lee]] ?
 
-Dans quel film d'animation de 2014, [[Edward Norton]] prête sa voix à un personnage de flic gâteau, dans une histoire de stop-motion réalisée par [[Wes Anderson]] ?
+Quel acteur prête sa voix au chien Rex dans [[L'Île aux chiens]] (2018) de [[Wes Anderson]] ?
 
 ###### Description
 
 [[Edward Norton]] est un acteur, réalisateur et producteur américain né en 1969 à [[Boston]], [[Massachusetts]]. Il se fait connaître du grand public grâce à son rôle dans le film [[Primal Fear]] (Peur Primale) en 1996, pour lequel il reçoit une nomination à l'Oscar du meilleur acteur dans un second rôle. Norton obtient ensuite une renommée mondiale avec son rôle emblématique dans [[Fight Club]] de [[David Fincher]], sorti en 1999. En 2014, il reçoit une nouvelle nomination aux Oscars pour son interprétation dans le film [[Birdman]] d'[[Alejandro González Iñárritu]], affirmant ainsi son statut d'acteur de talent dans le paysage cinématographique contemporain.
+
+###### Archives questions
+
+Dans quel film de 1999, [[Edward Norton]] joue-t-il le rôle d'un personnage souffrant de trouble dissociatif de l'identité, coïncidant avec la révélation choquante de l'identité secrète de [[Tyler Durden]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 2001, [[Edward Norton]] incarne-t-il un jeune homme placé en détention pour trafic de drogue, avec ses dernières 24 heures de liberté avant d'entrer en prison, basé sur le roman de [[David Benioff]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film d'animation de 2014, [[Edward Norton]] prête sa voix à un personnage de flic gâteau, dans une histoire de stop-motion réalisée par [[Wes Anderson]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Chef-d’œuvre français de l’animation, relié à 
 
 ###### Questions
 
-Quel film d'animation, inspiré du conte de [[Hans Christian Andersen]], a été réalisé par [[Paul Grimault]] et est sorti en 1980 après une production tumultueuse ?
+Quel film d'animation de [[Paul Grimault]], sorti en 1980, est librement adapté du conte « La Bergère et le Ramoneur » d'[[Hans Christian Andersen]] ?
 
-Le film "Le Roi et l'oiseau", qui a été co-écrit avec le poète [[Jacques Prévert]], est souvent considéré comme une influence majeure sur quel célèbre studio d'animation fondé en 1985 ?
+Quel film d'animation de [[Paul Grimault]] et [[Jacques Prévert]] a profondément marqué [[Hayao Miyazaki]] et [[Isao Takahata]], fondateurs du studio Ghibli ?
 
-Quel chef-d'œuvre cinématographique ayant remporté le prix [[Louis Delluc]] en 1979 a vu sa première version inachevée projetée en 1952 sous le titre "La Bergère et le Ramoneur" avant d'être achevé des décennies plus tard ?
+Quel film d'animation, prix [[Prix Louis-Delluc|Louis-Delluc]] 1979, est la version achevée par son auteur d'un premier montage sorti en 1952 sans son accord ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Il est inspiré de l'œuvre de [[Hans Christian Andersen]], "La Bergère et le R
 Le film a particulièrement marqué l'animation française pour son esthétique innovante et ses thèmes poétiques, devenant une référence incontournable dans le domaine.  
 
 D'abord commencé en 1948 sous le titre "La Bergère et le Ramoneur", le projet a connu de nombreuses péripéties avant d'être finalisé plus de trois décennies plus tard, illustrant ainsi la ténacité et la vision de [[Paul Grimault]] dans le cinéma d'animation.
+
+###### Archives questions
+
+Le film "Le Roi et l'oiseau", qui a été co-écrit avec le poète [[Jacques Prévert]], est souvent considéré comme une influence majeure sur quel célèbre studio d'animation fondé en 1985 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film d'animation, inspiré du conte de [[Hans Christian Andersen]], a été réalisé par [[Paul Grimault]] et est sorti en 1980 après une production tumultueuse ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chef-d'œuvre cinématographique ayant remporté le prix [[Louis Delluc]] en 1979 a vu sa première version inachevée projetée en 1952 sous le titre "La Bergère et le Ramoneur" avant d'être achevé des décennies plus tard ? <!-- cm003 remplacée 2026-11-23 -->

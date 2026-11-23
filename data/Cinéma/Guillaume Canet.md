@@ -29,12 +29,18 @@ culture_g_justification: "Acteur-réalisateur français populaire, associé à p
 
 ###### Questions
 
-Dans quel film de 2006 réalisé par [[Guillaume Canet]], l'intrigue tourne-t-elle autour de la disparition de [[Margot Beck]] et a remporté le [[César du meilleur réalisateur]] ?
+Quel cinéaste obtient le [[César du meilleur réalisateur]] en 2007 pour [[Ne le dis à personne]], d'après [[Harlan Coben]] ?
 
 En quelle année [[Guillaume Canet]] a-t-il participé aux [[24 Heures du Mans]] dans la catégorie [[Road to Le Mans]] ?
 
-Quel acteur et réalisateur français a débuté sa carrière en tant que cavalier professionnel avant de se lancer dans le cinéma, notamment connu pour le film [[Les Petits Mouchoirs]] sorti en 2010 ?
+Quel réalisateur des [[Les Petits Mouchoirs|Petits Mouchoirs]] (2010) se destinait d'abord à une carrière de cavalier de saut d'obstacles ?
 
 ###### Description
 
 [[Guillaume Canet]], acteur et réalisateur français né en 1973, a débuté sa carrière au cinéma dans les années 1990. Il s'est fait remarquer avec son rôle dans le film [[La Plage]] en 2000, aux côtés de [[Leonardo DiCaprio]]. En 2006, il réalise le film à succès [[Ne le dis à personne]], qui lui vaut le [[César du meilleur réalisateur]]. En plus de sa carrière cinématographique, il partage sa vie avec [[Marion Cotillard]], également actrice renommée.
+
+###### Archives questions
+
+Dans quel film de 2006 réalisé par [[Guillaume Canet]], l'intrigue tourne-t-elle autour de la disparition de [[Margot Beck]] et a remporté le [[César du meilleur réalisateur]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur et réalisateur français a débuté sa carrière en tant que cavalier professionnel avant de se lancer dans le cinéma, notamment connu pour le film [[Les Petits Mouchoirs]] sorti en 2010 ? <!-- cm003 remplacée 2026-11-23 -->

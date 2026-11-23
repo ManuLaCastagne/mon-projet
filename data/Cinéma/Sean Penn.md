@@ -29,12 +29,20 @@ culture_g_justification: "Acteur-réalisateur oscarisé, associé à des films m
 
 ###### Questions
 
-Dans quel film de 1995, [[Sean Penn]] incarne-t-il un ancien sourd-muet devenu gangster, distribuant une performance si convaincante qu'il reçoit des éloges de la part des véritables membres du monde du crime ?
+Quel acteur joue le condamné à mort Matthew Poncelet face à [[Susan Sarandon]] dans [[La Dernière Marche]] (1995) de [[Tim Robbins]] ?
 
-En 2012, [[Sean Penn]] a reçu un prix humanitaire prestigieux de la part du comité de Nobel pour ses efforts remarquables dans quel pays ravagé par le tremblement de terre en 2010 ?
+Quel acteur reçoit en 2012 le Peace Summit Award des lauréats du prix Nobel de la paix pour son action en [[Haïti]] après le séisme ?
 
-Quel est le titre du film de 2007 réalisé par [[Sean Penn]], inspiré de l'histoire vraie de [[Christopher McCandless]], qui part à l'aventure à travers l'Amérique du Nord ?
+Quel acteur réalise [[Into the Wild]] (2007), d'après l'histoire de [[Christopher McCandless]] ?
 
 ###### Description
 
 [[Sean Penn]] est un acteur et réalisateur américain, né le 17 août 1960 à [[Santa Monica]], en [[Sport/Californie]], qui a marqué le cinéma par ses performances puissantes et engagées. Il reçoit deux [[Oscar du meilleur acteur]] pour "[[Mystic River]]" en 2004 et "[[Milk]]" en 2009, montrant son immense talent et sa capacité à incarner des rôles complexes. En tant que réalisateur, il signe des films remarqués comme "[[Into the Wild]]" en 2007, qui explore les thèmes de la liberté et de la recherche de soi. Tout au long de sa carrière, [[Sean Penn]] a collaboré avec des réalisateurs de renom tels que [[Clint Eastwood]] et [[Gus Van Sant]], consolidant sa place parmi les figures incontournables du cinéma contemporain.
+
+###### Archives questions
+
+Dans quel film de 1995, [[Sean Penn]] incarne-t-il un ancien sourd-muet devenu gangster, distribuant une performance si convaincante qu'il reçoit des éloges de la part des véritables membres du monde du crime ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2012, [[Sean Penn]] a reçu un prix humanitaire prestigieux de la part du comité de Nobel pour ses efforts remarquables dans quel pays ravagé par le tremblement de terre en 2010 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du film de 2007 réalisé par [[Sean Penn]], inspiré de l'histoire vraie de [[Christopher McCandless]], qui part à l'aventure à travers l'Amérique du Nord ? <!-- cm003 remplacée 2026-11-23 -->

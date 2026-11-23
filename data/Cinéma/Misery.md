@@ -29,11 +29,11 @@ culture_g_justification: "Adaptation marquante de Stephen King, très utile pour
 
 ###### Questions
 
-Quel film d'horreur-psychologique, basé sur un roman de [[Stephen King]] publié en 1987, a valu à [[Kathy Bates]] un [[Oscar de la meilleure actrice]] en 1991 pour son rôle de [[Annie Wilkes]] ?
+Quel film vaut à [[Kathy Bates]] l'Oscar de la meilleure actrice en 1991 pour le rôle d'Annie Wilkes ?
 
-Quel film réalisé par [[Rob Reiner]], sorti en 1990, met en scène un écrivain retenu captif par une fan obsédée, incarnée par [[Kathy Bates]], et est adapté du roman [[Misery]] ?
+Quel film de [[Rob Reiner]] (1990) montre un romancier séquestré par une infirmière qui se dit sa plus grande fan ?
 
-Dans quel film un écrivain, interprété par [[James Caan]], est-il secouru après un accident de voiture seulement pour découvrir que son bienfaitrice est dangereusement obsédée par son œuvre [[Misery]] ?
+Dans quel film [[James Caan]] joue-t-il Paul Sheldon, écrivain dont une admiratrice brise les chevilles à coups de masse ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Basé sur le roman éponyme de [[Stephen King]], publié en 1987, le film met en
 [[Kathy Bates]] incarne [[Annie Wilkes]], une infirmière psychotique et admiratrice fanatique, dont le rôle lui a valu l'[[Oscar de la meilleure actrice]] en 1991. 
 
 Ce film a été applaudi pour sa tension intense et la performance magistrale de Bates, qui est souvent citée comme l'un des meilleurs exemples d'adaptation cinématographique d'une œuvre de King.
+
+###### Archives questions
+
+Quel film réalisé par [[Rob Reiner]], sorti en 1990, met en scène un écrivain retenu captif par une fan obsédée, incarnée par [[Kathy Bates]], et est adapté du roman [[Misery]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film un écrivain, interprété par [[James Caan]], est-il secouru après un accident de voiture seulement pour découvrir que son bienfaitrice est dangereusement obsédée par son œuvre [[Misery]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film d'horreur-psychologique, basé sur un roman de [[Stephen King]] publié en 1987, a valu à [[Kathy Bates]] un [[Oscar de la meilleure actrice]] en 1991 pour son rôle de [[Annie Wilkes]] ? <!-- cm003 remplacée 2026-11-23 -->

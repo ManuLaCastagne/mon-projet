@@ -30,11 +30,11 @@ culture_g_justification: "Réalisatrice majeure, particulièrement rentable grâ
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/11kFCPT3e5GGpDQhX6d4sD" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ###### Questions
 
-En quelle année la réalisatrice [[Jane Campion]] est-elle devenue la première femme à remporter la [[Palme d'Or]] au Festival de Cannes pour le film "[[La Leçon de piano]]"?
+Quelle réalisatrice devient en 1993 la première femme à recevoir la [[Palme d'or]], pour [[La Leçon de piano]] ?
 
-Quel cinéaste, connu pour son travail sensible et introspectif, a remporté un Oscar en 2022 pour le film "[[The Power of the Dog]]", devenant ainsi la deuxième femme à décrocher cet honneur pour la réalisation?
+Quelle réalisatrice néo-zélandaise remporte en 2022 l'Oscar de la meilleure réalisation pour [[The Power of the Dog]] ?
 
-Quel film a permis à [[Jane Campion]] d'être la première femme à être nommée deux fois pour l'[[Oscar de la meilleure réalisatrice]] dans l'histoire du cinéma, avec des nominations en 1993 et 2022 ?
+Quelle réalisatrice, oscarisée pour le scénario de [[La Leçon de piano]], est la première femme nommée deux fois à l'Oscar de la meilleure réalisation ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Quel film a permis à [[Jane Campion]] d'être la première femme à être nomm�
 En 2009, elle a également suscité l'intérêt avec son film "Bright Star", une biographie romantique sur le poète [[John Keats]]. 
 
 Jane Campion continue d'influencer le cinéma contemporain avec sa série télévisée "[[Top of the Lake]]", lancée en 2013, acclamée pour sa profondeur narrative et son esthétique visuelle.
+
+###### Archives questions
+
+En quelle année la réalisatrice [[Jane Campion]] est-elle devenue la première femme à remporter la [[Palme d'Or]] au Festival de Cannes pour le film "[[La Leçon de piano]]"? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film a permis à [[Jane Campion]] d'être la première femme à être nommée deux fois pour l'[[Oscar de la meilleure réalisatrice]] dans l'histoire du cinéma, avec des nominations en 1993 et 2022 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel cinéaste, connu pour son travail sensible et introspectif, a remporté un Oscar en 2022 pour le film "[[The Power of the Dog]]", devenant ainsi la deuxième femme à décrocher cet honneur pour la réalisation? <!-- cm003 remplacée 2026-11-23 -->

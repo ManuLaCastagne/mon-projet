@@ -29,11 +29,11 @@ culture_g_justification: "Grâce à Hunger Games, à son Oscar et à plusieurs s
 
 ###### Questions
 
-Quel rôle de [[Jennifer Lawrence]] lui a valu l'Oscar de la meilleure actrice en 2013 pour le film [[Silver Linings Playbook]] ?
+Quelle actrice remporte en 2013 l'Oscar de la meilleure actrice pour [[Happiness Therapy]] de [[David O. Russell]] ?
 
-Dans quel film de [[Jennifer Lawrence]], sorti en 2015, joue-t-elle le rôle de l'inventrice [[Joy Mangano]] ?
+Quelle actrice incarne l'inventrice Joy Mangano dans [[Joy]] (2015) ?
 
-Dans la trilogie [[Hunger Games]], quel personnage emblématique est interprété par [[Jennifer Lawrence]] depuis la sortie du premier film en 2012 ?
+Quelle actrice incarne Katniss Everdeen dans [[Hunger Games]] (2012) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Deux ans plus tard, elle incarne [[Katniss Everdeen]] dans [[The Hunger Games]],
 En 2013, elle remporte l'Oscar de la meilleure actrice pour son rôle dans [[Happiness Therapy]], un film réalisé par [[David O. Russell]] aux côtés de [[Bradley Cooper]].
 
 Jennifer a également été saluée pour son interprétation de [[Joy Mangano]] dans [[Joy]], un film sorti en 2015 qui explore le parcours d'une inventrice américaine.
+
+###### Archives questions
+
+Quel rôle de [[Jennifer Lawrence]] lui a valu l'Oscar de la meilleure actrice en 2013 pour le film [[Silver Linings Playbook]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Jennifer Lawrence]], sorti en 2015, joue-t-elle le rôle de l'inventrice [[Joy Mangano]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans la trilogie [[Hunger Games]], quel personnage emblématique est interprété par [[Jennifer Lawrence]] depuis la sortie du premier film en 2012 ? <!-- cm003 remplacée 2026-11-23 -->

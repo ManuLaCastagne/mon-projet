@@ -27,11 +27,11 @@ culture_g_justification: "Vedette internationale associée à Marvel, Woody Alle
 
 ###### Questions
 
-Dans quel film de [[Woody Allen]], sorti en 2008, [[Scarlett Johansson]] joue-t-elle aux côtés de [[Javier Bardem]] et [[Penélope Cruz]] ?
+Quelle actrice forme un trio amoureux avec [[Javier Bardem]] et [[Penélope Cruz]] dans [[Vicky Cristina Barcelona]] (2008) de [[Woody Allen]] ?
 
-Quel personnage du [[Marvel Cinematic Universe]] est incarné par [[Scarlett Johansson]] pour la première fois dans le film [[Iron Man 2]] en 2010 ?
+Quelle actrice incarne pour la première fois Natasha Romanoff dans [[Iron Man 2]] (2010) ?
 
-En 2016, dans quel film animé en stop-motion de [[Wes Anderson]], [[Scarlett Johansson]] prête-t-elle sa voix à un personnage nommé [[Nutmeg]] ?
+Quelle actrice prête sa voix à la chienne Nutmeg dans [[L'Île aux chiens]] (2018) de [[Wes Anderson]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Elle a débuté sa carrière d'actrice à l'âge de dix ans avec le film [[North
 Un fait étonnant et moins connu à son propos est qu'elle est la première actrice à atteindre le milliard de dollars de recettes mondiales avec un seul film, grâce à [[Avengers: Endgame]] sorti en 2019. 
 
 En plus de sa carrière d'actrice, Scarlett Johansson a également poursuivi une carrière musicale et a sorti son premier album solo intitulé [[Anywhere I Lay My Head]] en 2008.
+
+###### Archives questions
+
+Dans quel film de [[Woody Allen]], sorti en 2008, [[Scarlett Johansson]] joue-t-elle aux côtés de [[Javier Bardem]] et [[Penélope Cruz]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage du [[Marvel Cinematic Universe]] est incarné par [[Scarlett Johansson]] pour la première fois dans le film [[Iron Man 2]] en 2010 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2016, dans quel film animé en stop-motion de [[Wes Anderson]], [[Scarlett Johansson]] prête-t-elle sa voix à un personnage nommé [[Nutmeg]] ? <!-- cm003 remplacée 2026-11-23 -->

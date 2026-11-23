@@ -31,11 +31,9 @@ culture_g_justification: "Référence culturelle américaine reconnaissable via 
 
 Dans une comédie policière sortie en 1985, dans quelle banlieue de Los Angeles l'inspecteur Foley est joué par Eddie Murphy ?
 
-Quel quartier emblématique de [[Los Angeles]] a servi de décor pour le célèbre lycée dans la série télévisée [[Beverly Hills]] [[90210]], diffusée pour la première fois en 1990 ?
+Quelle ville voisine de [[Los Angeles]] donne son nom à la série de lycéens créée en 1990 par [[Darren Star]] ?
 
-Dans quel quartier de [[Los Angeles]] se trouve l'hôtel mythique où [[Julia Roberts]] et [[Richard Gere]] ont séjourné dans le film "[[Pretty Woman]]", sorti en 1990 ?
-
-Quel quartier de [[Los Angeles]] est le principal sujet du film "[[Beverly Hills Cop]]" avec [[Eddie Murphy]], sorti pour la première fois en 1984 ?
+Dans quelle ville se trouve l'hôtel de luxe où séjournent [[Julia Roberts]] et [[Richard Gere]] dans [[Pretty Woman]] (1990) ?
 
 ###### Description
 
@@ -46,3 +44,11 @@ Le film emblématique qui a marqué le cinéma hollywoodien est sans doute [[Bev
 La réalisation du film a été confiée à [[Martin Brest]], et la bande sonore, notamment la célèbre piste "[[Axel F]]", a largement contribué à sa notoriété, devenant un classique. 
 
 Deux suites furent réalisées, avec [[Beverly Hills Cop II]] sorti en 1987, également couronné de succès, et [[Beverly Hills Cop III]] en 1994, qui a clôturé la trilogie.
+
+###### Archives questions
+
+Quel quartier emblématique de [[Los Angeles]] a servi de décor pour le célèbre lycée dans la série télévisée [[Beverly Hills]] [[90210]], diffusée pour la première fois en 1990 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel quartier de [[Los Angeles]] est le principal sujet du film "[[Beverly Hills Cop]]" avec [[Eddie Murphy]], sorti pour la première fois en 1984 ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel quartier de [[Los Angeles]] se trouve l'hôtel mythique où [[Julia Roberts]] et [[Richard Gere]] ont séjourné dans le film "[[Pretty Woman]]", sorti en 1990 ? <!-- cm003 remplacée 2026-11-23 -->

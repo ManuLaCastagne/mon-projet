@@ -27,11 +27,11 @@ culture_g_justification: "Personnage populaire du MCU, exploitable à travers le
 
 ###### Questions
 
-Dans quel film de l'univers [[Marvel]], sorti en 2012, [[Hawkeye]] subit-il un lavage de cerveau pour rejoindre temporairement le camp des ennemis ?
+Quel archer des [[Avengers]] passe sous le contrôle mental de [[Loki]] dans le film de 2012 ?
 
-Quel acteur, né le 7 janvier 1971, incarne le personnage de [[Hawkeye]] dans les films de la saga [[Avengers]] ?
+Quel super-héros Marvel, de son vrai nom Clint Barton, apparaît pour la première fois dans les comics en 1964 ?
 
-Quelle série diffusée sur [[Disney+]] en 2021 explore les aventures de [[Hawkeye]] après les événements de [[Avengers: Endgame]] ?
+Quelle série [[Disney+]] de 2021 associe [[Jeremy Renner]] à [[Hailee Steinfeld]], qui y joue la jeune archère Kate Bishop ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Interprété par [[Jeremy Renner]], il devient un membre essentiel des [[Avenger
 Un fait étonnant est que dans les bandes dessinées originales, [[Hawkeye]] a temporairement pris le nom de [[Ronin]], un personnage mystérieux et sans identité fixe, titre qu'il adopte également dans "Avengers: Endgame" après la disparition de sa famille. 
 
 Enfin, en dehors des films, [[Hawkeye]] a également eu droit à sa propre série télévisée sur [[Disney+]] en 2021, explorant davantage ses aventures et ses relations, notamment avec l'héroïne [[Kate Bishop]].
+
+###### Archives questions
+
+Dans quel film de l'univers [[Marvel]], sorti en 2012, [[Hawkeye]] subit-il un lavage de cerveau pour rejoindre temporairement le camp des ennemis ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, né le 7 janvier 1971, incarne le personnage de [[Hawkeye]] dans les films de la saga [[Avengers]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle série diffusée sur [[Disney+]] en 2021 explore les aventures de [[Hawkeye]] après les événements de [[Avengers: Endgame]] ? <!-- cm003 remplacée 2026-11-23 -->

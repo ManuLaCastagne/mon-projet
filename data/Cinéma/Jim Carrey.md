@@ -29,11 +29,11 @@ culture_g_justification: "La célébrité de Jim Carrey, de ses comédies et de 
 
 ###### Questions
 
-Dans quel film de 1994 [[Jim Carrey]] interprète-t-il un personnage qui devient une version déjantée de lui-même après avoir enfilé un mystérieux masque ancien tiré d'une bande dessinée de [[Dark Horse]] [[Comics]] ?
+Quel acteur se transforme en personnage cartoonesque à tête verte dans [[The Mask]] (1994), adapté d'un comics [[Dark Horse Comics|Dark Horse]] ?
 
-Quel acteur a accepté d'être payé [[10 millions]] de dollars pour le rôle principal dans la comédie fantastique [[Le Grinch]], sortie en 2000 et réalisée par [[Ron Howard]] ?
+Quel acteur, grimé en créature verte, joue le rôle-titre du [[Le Grinch|Grinch]] (2000) de [[Ron Howard]] ?
 
-Dans quel film de [[Peter Weir]] de 1998, [[Jim Carrey]] joue-t-il un personnage vivant toute sa vie dans une émission de [[télévision]] sans en être conscient, et qui reflète des thèmes liés à la [[téléréalité]] et à l'[[omniprésence médiatique]] ?
+Quel acteur joue Truman Burbank dans [[The Truman Show]] (1998) de [[Peter Weir]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Il s'est illustré par sa remarquable capacité à incarner des personnages déj
 Un fait étonnant sur lui est qu'il est également artiste et expose ses œuvres d'art depuis 2011 ; d'ailleurs, il a commencé à peindre de manière plus active lors de sa pause cinématographique en 2010. 
 
 [[Jim Carrey]] a remporté son premier [[Golden Globe Award]] du meilleur acteur en 1999 pour le film "[[The Truman Show]]", confirmant son passage de comédien de génie à acteur accompli.
+
+###### Archives questions
+
+Dans quel film de 1994 [[Jim Carrey]] interprète-t-il un personnage qui devient une version déjantée de lui-même après avoir enfilé un mystérieux masque ancien tiré d'une bande dessinée de [[Dark Horse]] [[Comics]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Peter Weir]] de 1998, [[Jim Carrey]] joue-t-il un personnage vivant toute sa vie dans une émission de [[télévision]] sans en être conscient, et qui reflète des thèmes liés à la [[téléréalité]] et à l'[[omniprésence médiatique]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a accepté d'être payé [[10 millions]] de dollars pour le rôle principal dans la comédie fantastique [[Le Grinch]], sortie en 2000 et réalisée par [[Ron Howard]] ? <!-- cm003 remplacée 2026-11-23 -->

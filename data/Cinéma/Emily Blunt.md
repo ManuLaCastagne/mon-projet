@@ -27,11 +27,11 @@ culture_g_justification: "Actrice internationale associée à plusieurs films tr
 
 ###### Questions
 
-Dans quel film sorti en 2006 Emily Blunt a-t-elle joué le rôle d'une employée travaillant pour une rédactrice en chef impitoyable, interprétée par [[Meryl Streep]] ? 
+Quelle actrice joue la première assistante tyrannisée par [[Meryl Streep]] dans [[Le Diable s'habille en Prada]] (2006) ?
 
-Emily Blunt a joué dans un film de science-fiction aux côtés de [[Tom Cruise]], sortant en 2014, impliquant des boucles temporelles. Quel est le titre de ce film ? <!-- score: 10 -->
+Quelle actrice combat des extraterrestres aux côtés de [[Tom Cruise]] dans [[Edge of Tomorrow]] (2014), film de boucle temporelle ?
 
-En quelle année Emily Blunt a-t-elle reçu un [[Golden Globe Award]] pour son rôle dans la mini-série télévisée [[Gideon's Daughter]] ?
+Quelle actrice britannique remporte en 2007 un Golden Globe pour le téléfilm [[Gideon's Daughter]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ En 2007, elle a remporté le [[Golden Globe]] de la meilleure actrice dans un se
 Ce qui est surprenant, c'est qu'Emily a maîtrisé son bégaiement en jouant des rôles théâtraux et grâce à l'encouragement de son école, ce qui l'a aidée à bâtir une carrière impressionnante dans le cinéma. 
 
 En 2018, elle a été nommée parmi les actrices les mieux payées au monde par le magazine [[Forbes]], solidifiant ainsi sa présence dans l'industrie cinématographique internationale.
+
+###### Archives questions
+
+Dans quel film sorti en 2006 Emily Blunt a-t-elle joué le rôle d'une employée travaillant pour une rédactrice en chef impitoyable, interprétée par [[Meryl Streep]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Emily Blunt a joué dans un film de science-fiction aux côtés de [[Tom Cruise]], sortant en 2014, impliquant des boucles temporelles. Quel est le titre de ce film ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année Emily Blunt a-t-elle reçu un [[Golden Globe Award]] pour son rôle dans la mini-série télévisée [[Gideon's Daughter]] ? <!-- cm003 remplacée 2026-11-23 -->

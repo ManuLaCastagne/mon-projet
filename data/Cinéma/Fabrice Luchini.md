@@ -29,11 +29,11 @@ culture_g_justification: "Acteur français très identifiable par son éloquence
 
 ###### Questions
 
-Dans quel film de 1990, réalisé par [[Étienne Chatiliez]], [[Fabrice Luchini]] joue-t-il le rôle unique de [[Jean-Cyril]] ?
+Quel acteur joue Antoine, séducteur cynique, dans [[La Discrète]] (1990) de [[Christian Vincent]] ?
 
-Quel spectacle théâtral, adapté des textes de [[Jean de La Fontaine]], met en avant [[Fabrice Luchini]] en 2006 pour démontrer sa passion pour la littérature classique ? <!-- score: 10 -->
+Quel acteur dit sur scène les fables de [[Jean de La Fontaine]] dans le spectacle « La Fontaine et le confinement » ?
 
-En 2015, quel film de [[Philippe Le Guay]] met en scène [[Fabrice Luchini]] dans le rôle principal d'un notaire découvrant sa connexion avec le chanteur [[Charles Aznavour]] ?
+Quel acteur joue un comédien retiré sur l'[[Île de Ré]] dans [[Alceste à bicyclette]] (2013) de [[Philippe Le Guay]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Sa carrière cinématographique décolle véritablement avec le film [[La Discr�
 En 2012, il impressionne de nouveau dans [[Dans la Maison]], un film réalisé par [[François Ozon]], où il joue le rôle d'un professeur de français fasciné par les écrits d'un de ses élèves. 
 
 En 2015, il montre son talent comique dans [[L'Hermine]], réalisé par [[Christian Vincent]], qui lui vaut le César du meilleur acteur.
+
+###### Archives questions
+
+Dans quel film de 1990, réalisé par [[Étienne Chatiliez]], [[Fabrice Luchini]] joue-t-il le rôle unique de [[Jean-Cyril]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel spectacle théâtral, adapté des textes de [[Jean de La Fontaine]], met en avant [[Fabrice Luchini]] en 2006 pour démontrer sa passion pour la littérature classique ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+En 2015, quel film de [[Philippe Le Guay]] met en scène [[Fabrice Luchini]] dans le rôle principal d'un notaire découvrant sa connexion avec le chanteur [[Charles Aznavour]] ? <!-- cm003 remplacée 2026-11-23 -->

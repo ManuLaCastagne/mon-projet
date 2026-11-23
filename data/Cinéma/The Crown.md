@@ -29,11 +29,11 @@ culture_g_justification: "Série populaire et culturellement identifiable, offra
 
 ###### Questions
 
-Quel film britannique, sorti en 2021, explore les coulisses d'une histoire d'amour royale extra-conjugale fictive et a captivé le public avec son intrigue palpitante ?
+Dans quelle série [[Claire Foy]], [[Olivia Colman]] puis [[Imelda Staunton]] incarnent-elles successivement la reine Elizabeth II ?
 
-Quel lieu, mentionné dans les questions d'un célèbre quiz télévisé français, est souvent confondu avec le célèbre [[The Crown]] de [[Netflix]], mais qui en réalité est une expérience cinématographique unique en son genre ?
+Quelle série [[Netflix]] créée par [[Peter Morgan]] retrace le règne d'[[Elizabeth II]] à partir de son mariage en 1947 ?
 
-Quel établissement culturel, inauguré au début des années 2000, est devenu célèbre non seulement pour ses films, mais aussi pour ses événements et animations inspirés par des intrigues royales ?
+Quelle série britannique, diffusée de 2016 à 2023, s'achève par une sixième saison couvrant la mort de [[Diana Spencer]] ?
 
 ###### Description
 
@@ -41,3 +41,10 @@ La série télévisée [[The Crown]], créée par [[Peter Morgan]], a été lanc
 
 Question : [[Série américano-britannique]] lancée sur une plateforme de diffusion en novembre 2016, je m'appuie notamment sur la pièce "[[The Audience]]" écrite par mon scénariste..
 
+###### Archives questions
+
+Quel lieu, mentionné dans les questions d'un célèbre quiz télévisé français, est souvent confondu avec le célèbre [[The Crown]] de [[Netflix]], mais qui en réalité est une expérience cinématographique unique en son genre ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film britannique, sorti en 2021, explore les coulisses d'une histoire d'amour royale extra-conjugale fictive et a captivé le public avec son intrigue palpitante ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel établissement culturel, inauguré au début des années 2000, est devenu célèbre non seulement pour ses films, mais aussi pour ses événements et animations inspirés par des intrigues royales ? <!-- cm003 remplacée 2026-11-23 -->

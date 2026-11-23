@@ -29,12 +29,20 @@ culture_g_justification: "Chef d’orchestre emblématique du swing, lié à des
 
 ###### Questions
 
-Quel célèbre musicien de jazz, auteur de l'inoubliable "[[In the Mood]]", a disparu mystérieusement lors d'un vol de la [[RAF]] en 1944 pendant la [[Seconde Guerre mondiale]] ?
+Quel chef d'orchestre de swing, auteur de « [[Moonlight Serenade]] », disparaît en décembre 1944 lors d'un vol au-dessus de la Manche ?
 
-Quel tromboniste renommé a dirigé un groupe qui a été représenté dans le film "[[The Glenn Miller Story]]" sorti en 1954 avec [[James Stewart]] dans le rôle-titre ?
+Quel chef d'orchestre est incarné par [[James Stewart]] dans [[Romance inachevée]] (1954) d'[[Anthony Mann]] ?
 
-Quel compositeur américain a vendu plus de disques que [[Elvis Presley]] ou [[Les Beatles]] en 1942, grâce à des morceaux emblématiques tels que "[[Chattanooga Choo Choo]]" ?
+Quel chef d'orchestre reçoit en 1942 le premier disque d'or de l'histoire pour « [[Chattanooga Choo Choo]] » ?
 
 ###### Description
 
 [[Glenn Miller]] était un célèbre tromboniste, arrangeur et chef d'orchestre américain dont l'influence s'est étendue au cinéma des années 1940. En 1941, il a fait une apparition notable dans le film "[[Sun Valley Serenade]]", où son orchestre a interprété des morceaux phares tels que "[[Chattanooga Choo Choo]]". Après sa disparition en 1944 durant la Seconde Guerre mondiale, sa vie et sa carrière ont été immortalisées dans le film biographique "[[The Glenn Miller Story]]" sorti en 1954 avec [[James Stewart]] dans le rôle-titre. L'empreinte de [[Glenn Miller]] sur la musique de film de l'époque reste indéniable, marquant une synergie unique entre les Big Bands et le grand écran.
+
+###### Archives questions
+
+Quel tromboniste renommé a dirigé un groupe qui a été représenté dans le film "[[The Glenn Miller Story]]" sorti en 1954 avec [[James Stewart]] dans le rôle-titre ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre musicien de jazz, auteur de l'inoubliable "[[In the Mood]]", a disparu mystérieusement lors d'un vol de la [[RAF]] en 1944 pendant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel compositeur américain a vendu plus de disques que [[Elvis Presley]] ou [[Les Beatles]] en 1942, grâce à des morceaux emblématiques tels que "[[Chattanooga Choo Choo]]" ? <!-- cm003 remplacée 2026-11-23 -->

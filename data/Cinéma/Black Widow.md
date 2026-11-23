@@ -27,11 +27,11 @@ culture_g_justification: "Film Marvel utile pour Natasha Romanoff, Scarlett Joha
 
 ###### Questions
 
-Dans quel film du [[Marvel Cinematic Universe]] sorti en 2021, l'actrice [[Scarlett Johansson]] reprend son rôle de [[Natasha Romanoff]], surnommée [[Black Widow]] ?
+Quel film de [[Cate Shortland]], sorti en 2021, est le premier long métrage consacré à Natasha Romanoff ?
 
-Quel personnage de l'univers [[Marvel]] a finalement eu droit à son propre film solo, dirigé par [[Cate Shortland]], après sa première apparition dans [[Iron Man 2]] en 2010 ? <!-- score: 4 -->
+Quel personnage Marvel, espionne formée dans la Chambre rouge, apparaît pour la première fois au cinéma dans [[Iron Man 2]] (2010) ?
 
-Quel film a été au centre d'une controverse juridique en 2021 impliquant [[Disney]] et [[Scarlett Johansson]] concernant la sortie simultanée en streaming et en salle ?
+Quel film [[Marvel]] vaut en 2021 à [[Disney]] un procès de [[Scarlett Johansson]], qui conteste sa sortie simultanée sur [[Disney+]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Ce film est unique car il est le premier du [[Marvel Cinematic Universe]] à êt
 Un fait étonnant à propos de [[Black Widow]] est qu'il a marqué la première fois que le personnage principal, [[Natasha Romanoff]], a eu son propre film solo, bien qu'elle soit apparue pour la première fois dans [[Iron Man 2]] en 2010. 
 
 Le film a été réalisé par [[Cate Shortland]], faisant d'elle la première réalisatrice femme à diriger un film centré exclusivement sur un personnage féminin dans le [[MCU]], après [[Anna Boden]], co-réalisatrice de [[Captain Marvel]] en 2019.
+
+###### Archives questions
+
+Dans quel film du [[Marvel Cinematic Universe]] sorti en 2021, l'actrice [[Scarlett Johansson]] reprend son rôle de [[Natasha Romanoff]], surnommée [[Black Widow]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage de l'univers [[Marvel]] a finalement eu droit à son propre film solo, dirigé par [[Cate Shortland]], après sa première apparition dans [[Iron Man 2]] en 2010 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film a été au centre d'une controverse juridique en 2021 impliquant [[Disney]] et [[Scarlett Johansson]] concernant la sortie simultanée en streaming et en salle ? <!-- cm003 remplacée 2026-11-23 -->
