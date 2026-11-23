@@ -29,7 +29,7 @@ En 1997, dans quel film [[Arnold Schwarzenegger]] interprète-t-il le méchant M
 
 En 1997, dans quel film [[Jack Nicholson]] interprète-t-il le Joker ?
 
-Quel duo de super-héros emblématique apparaît dans un film qui a introduit des personnages comme [[Mr. Freeze]] et [[Poison Ivy]] dans l'univers cinématographique en [[1997]] ?
+Quel film de [[Joel Schumacher]] (1997), avec [[George Clooney]], oppose le duo masqué de [[Gotham City]] à [[Mr. Freeze]] et [[Poison Ivy]] ?
 
 Quel titre de film est souvent évoqué pour ses performances de [[George Clooney]] et [[Chris O'Donnell]] dans leurs rôles respectifs de justiciers masqués sortis en [[1997]] ?
 
@@ -42,3 +42,7 @@ Le rôle de [[Batman]] est interprété par [[George Clooney]], natif de [[Lexin
 Un fait étonnant à propos de ce film est qu'il détient souvent le titre de "pire film sur Batman" en raison de ses critiques négatives, ce qui en fait un sujet de débat passionné parmi les fans de l'univers de [[DC]]. 
 
 Malgré ces critiques, le film a été un succès commercial modeste, rapportant environ 238 millions de dollars dans le monde pour un budget de 125 millions de dollars.
+
+###### Archives questions
+
+Quel duo de super-héros emblématique apparaît dans un film qui a introduit des personnages comme [[Mr. Freeze]] et [[Poison Ivy]] dans l'univers cinématographique en [[1997]] ? <!-- cm003 remplacée 2026-11-23 -->

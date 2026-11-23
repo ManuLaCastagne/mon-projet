@@ -29,7 +29,7 @@ culture_g_justification: "Acteur français récompensé et présent dans plusieu
 
 ###### Questions
 
-Dans quel milieu [[Swan Arlaud]] s'est-il fait connaître en remportant le [[César du meilleur acteur]] pour son rôle dans le film "Petit Paysan" en 2018 ?
+Quel acteur a reçu le [[César du meilleur acteur]] en 2018 pour son rôle d'éleveur laitier dans [[Petit Paysan]] d'[[Hubert Charuel]] ?
 
 En [[quelle année]] [[Swan Arlaud]] a-t-il remporté le [[César du meilleur second rôle masculin]] pour sa performance dans [[Grâce à Dieu]] ?
 
@@ -38,3 +38,7 @@ Quel domaine associe l'artiste [[Swan Arlaud]] ayant participé au film "Les Éb
 ###### Description
 
 [[Swan Arlaud]] est un acteur français né le 25 septembre 1981 à [[Fontenay-aux-Roses]]. Il est particulièrement connu pour son rôle dans le film "[[Petit Paysan]]", réalisé par [[Hubert Charuel]], sorti en 2017, pour lequel il a remporté le [[César du meilleur acteur]] en 2018. [[Swan Arlaud]] est issu d'une famille d'artistes, son père étant le comédien [[François Arlaud]] et sa mère la scénographe [[Catherine Arlaud]]. En plus de "[[Petit Paysan]]", il a également été acclamé pour sa performance dans "[[Grâce à Dieu]]" de [[François Ozon]] en 2019.
+
+###### Archives questions
+
+Dans quel milieu [[Swan Arlaud]] s'est-il fait connaître en remportant le [[César du meilleur acteur]] pour son rôle dans le film "Petit Paysan" en 2018 ? <!-- cm003 remplacée 2026-11-23 -->

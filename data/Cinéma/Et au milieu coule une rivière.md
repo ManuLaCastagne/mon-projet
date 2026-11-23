@@ -29,7 +29,7 @@ culture_g_justification: "Film américain reconnu reliant Robert Redford, Brad P
 
 Quel film réalisé par [[Robert Redford]] en 1992 raconte l'histoire de deux frères passionnés par la pêche à la mouche dans le [[Montana]] avec [[Craig Sheffer]] ?
 
-Dans quel film peut-on voir l'acteur [[Brad Pitt]] incarner un rôle emblématique qui lui a permis de se faire connaître du grand public au début des années 1990 ?
+Dans quel film de [[Robert Redford]] (1992), d'après une nouvelle de [[Norman Maclean]], [[Philippe Rousselot]] remporte-t-il l'Oscar de la meilleure photographie ?
 
 ###### Description
 
@@ -44,3 +44,7 @@ Le film est particulièrement connu pour avoir contribué à révéler [[Brad Pi
 Œuvre contemplative et visuellement marquante, [[Et au milieu coule une rivière]] est salué pour sa photographie, signée [[Philippe Rousselot]], qui obtient l’[[Oscar de la meilleure photographie]]. Le film est souvent cité comme un exemple du cinéma humaniste et naturaliste de [[Robert Redford]] réalisateur.
 
 Il s’inscrit dans la continuité des œuvres réalisées par [[Redford]] telles que [[Des gens comme les autres]] et [[Quiz Show]], qui privilégient les drames intimistes et les récits ancrés dans l’histoire américaine.
+
+###### Archives questions
+
+Dans quel film peut-on voir l'acteur [[Brad Pitt]] incarner un rôle emblématique qui lui a permis de se faire connaître du grand public au début des années 1990 ? <!-- cm003 remplacée 2026-11-23 -->

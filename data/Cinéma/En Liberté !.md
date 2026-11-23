@@ -31,10 +31,14 @@ culture_g_justification: "Comédie française estimée et récompensée, mais en
 
 Quel film réalisé par [[Pierre Salvadori]] en 2018 met en scène [[Adèle Haenel]] dans le rôle d'une inspectrice découvrant que son défunt mari était corrompu ?
 
-Quel long métrage a été présenté en sélection officielle à la [[Quinzaine des Réalisateurs]] lors du Festival de Cannes 2018 et a remporté le [[Prix SACD]] ?
+Quelle comédie de [[Pierre Salvadori]] (2018), avec [[Adèle Haenel]] et [[Pio Marmaï]], a reçu le prix SACD à la [[Quinzaine des réalisateurs]] ?
 
 Quelle comédie française de 2018 met en vedette [[Pio Marmaï]], [[Audrey Tautou]] et [[Vincent Elbaz]], explorant les thèmes de la justice et de l'amour ?
 
 ###### Description
 
 Le film [[En liberté !]], réalisé par [[Pierre Salvadori]], est une comédie sortie en 2018 qui explore le thème de la vérité. L'histoire se déroule dans le sud de la France, où [[Yvonne]], une jeune inspectrice de police interprétée par [[Adèle Haenel]], découvre que son mari défunt, [[Jean]], n'était pas le héros qu'elle croyait être, mais plutôt un flic corrompu. Le film met également en lumière la performance de [[Pio Marmaï]], qui joue [[Antoine]], un homme injustement emprisonné à cause des actes de [[Jean]]. "En liberté !" a été bien accueilli lors de la [[Quinzaine des Réalisateurs]] au Festival de Cannes 2018 et met en avant la vision unique de [[Pierre Salvadori]] sur les notions de justice et de rédemption.
+
+###### Archives questions
+
+Quel long métrage a été présenté en sélection officielle à la [[Quinzaine des Réalisateurs]] lors du Festival de Cannes 2018 et a remporté le [[Prix SACD]] ? <!-- cm003 remplacée 2026-11-23 -->
