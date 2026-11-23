@@ -31,8 +31,6 @@ culture_g_justification: "Acteur-réalisateur français populaire, associé à p
 
 Quel cinéaste obtient le [[César du meilleur réalisateur]] en 2007 pour [[Ne le dis à personne]], d'après [[Harlan Coben]] ?
 
-En quelle année [[Guillaume Canet]] a-t-il participé aux [[24 Heures du Mans]] dans la catégorie [[Road to Le Mans]] ?
-
 Quel réalisateur des [[Les Petits Mouchoirs|Petits Mouchoirs]] (2010) se destinait d'abord à une carrière de cavalier de saut d'obstacles ?
 
 ###### Description
@@ -44,3 +42,5 @@ Quel réalisateur des [[Les Petits Mouchoirs|Petits Mouchoirs]] (2010) se destin
 Dans quel film de 2006 réalisé par [[Guillaume Canet]], l'intrigue tourne-t-elle autour de la disparition de [[Margot Beck]] et a remporté le [[César du meilleur réalisateur]] ? <!-- cm003 remplacée 2026-11-23 -->
 
 Quel acteur et réalisateur français a débuté sa carrière en tant que cavalier professionnel avant de se lancer dans le cinéma, notamment connu pour le film [[Les Petits Mouchoirs]] sorti en 2010 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Guillaume Canet]] a-t-il participé aux [[24 Heures du Mans]] dans la catégorie [[Road to Le Mans]] ? <!-- cm003 archivée 2026-11-23 -->
