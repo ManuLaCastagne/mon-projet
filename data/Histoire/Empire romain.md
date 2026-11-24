@@ -21,7 +21,7 @@ culture_g_score: 93
 culture_g_justification: "L'Empire romain structure une grande partie des questions d'histoire antique, d'architecture et de langue latine."
 creation: cm023
 ---
-![Image de Empire romain](https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Empire_Trajan_117AD.png)
+![Image de Empire romain](https://upload.wikimedia.org/wikipedia/commons/0/00/Roman_Empire_Trajan_117AD.png)
 
 ###### Questions
 

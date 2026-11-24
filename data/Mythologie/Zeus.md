@@ -19,7 +19,7 @@ culture_g_score: 95
 culture_g_justification: "Roi des dieux de l'Olympe, Zeus est au cœur de la plupart des mythes grecs et des questions de mythologie."
 creation: cm023
 ---
-![Image de Zeus](https://commons.wikimedia.org/wiki/Special:FilePath/Jupiter_Smyrna_Louvre_Ma13.jpg)
+![Image de Zeus](https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg)
 
 ###### Questions
 

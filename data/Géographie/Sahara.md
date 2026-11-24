@@ -19,7 +19,7 @@ culture_g_score: 88
 culture_g_justification: "Plus grand désert chaud du monde, le Sahara est très présent dans les questions de géographie africaine et de records."
 creation: cm023
 ---
-![Image de Sahara](https://commons.wikimedia.org/wiki/Special:FilePath/Sahara_satellite_hires.jpg)
+![Image de Sahara](https://upload.wikimedia.org/wikipedia/commons/a/a7/Sahara_satellite_hires.jpg)
 
 ###### Questions
 

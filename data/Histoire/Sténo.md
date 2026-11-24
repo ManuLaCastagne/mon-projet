@@ -23,7 +23,7 @@ questions:
 culture_g_score: 36
 culture_g_justification: "Nicolas Sténon est un scientifique historiquement intéressant, mais son nom reste très spécialisé et rarement demandé."
 ---
-![Image de Sténo](https://commons.wikimedia.org/wiki/Special:FilePath/Pitman.png)
+![Image de Sténo](https://upload.wikimedia.org/wikipedia/commons/8/84/Pitman.png)
 <!-- image remplacée (cm020) : https://upload.wikimedia.org/wikipedia/commons/5/5b/Nicolas_Steno.jpg -->
 
 ###### Questions

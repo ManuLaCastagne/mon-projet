@@ -21,11 +21,11 @@ culture_g_score: 88
 culture_g_justification: "L'UNESCO et sa liste du patrimoine mondial sont citées dans un très grand nombre de questions de géographie et d'architecture."
 creation: cm023
 ---
-![Image de UNESCO](https://commons.wikimedia.org/wiki/Special:FilePath/UNESCO_building_Paris_01.jpg)
+![Image de UNESCO](https://upload.wikimedia.org/wikipedia/commons/0/05/UNESCO_building_Paris_01.jpg)
 
 ###### Questions
 
-Quelle institution spécialisée des [[Nations unies]], dont le siège se trouve place de Fontenoy à [[Paris]], est chargée de l'éducation, de la science et de la culture ?
+Quelle institution spécialisée de l'[[ONU]] a son siège, un bâtiment en étoile à trois branches inauguré en 1958, place de Fontenoy à [[Paris]] ?
 
 Quelle organisation tient la liste du [[patrimoine mondial]], créée par une convention adoptée en 1972 ?
 
@@ -33,7 +33,7 @@ Quelle agence de l'[[ONU]] a vu son acte constitutif signé à [[Londres]] en no
 
 ###### Description
 
-L'[[UNESCO]] (Organisation des Nations unies pour l'éducation, la science et la culture) est une institution spécialisée de l'[[Organisation des Nations unies]]. Son acte constitutif a été signé à [[Londres]] en novembre 1945, au lendemain de la [[Seconde Guerre mondiale]], avec l'idée de construire la paix par l'éducation et la culture.
+L'[[UNESCO]] (Organisation des Nations unies pour l'éducation, la science et la culture) est une institution spécialisée de l'[[ONU|Organisation des Nations unies]]. Son acte constitutif a été signé à [[Londres]] en novembre 1945, au lendemain de la [[Seconde Guerre mondiale]], avec l'idée de construire la paix par l'éducation et la culture.
 
 Son siège est installé à [[Paris]], place de Fontenoy, dans un bâtiment en forme d'étoile à trois branches inauguré en 1958.
 

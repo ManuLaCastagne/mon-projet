@@ -21,13 +21,13 @@ culture_g_score: 82
 culture_g_justification: "Principale récompense de l'industrie musicale américaine, citée dans de nombreuses questions sur la musique populaire."
 creation: cm023
 ---
-![Image de Grammy Award](https://commons.wikimedia.org/wiki/Special:FilePath/Grammy-award_silhouette.jpg)
+![Image de Grammy Award](https://upload.wikimedia.org/wikipedia/commons/2/26/Grammy-award_silhouette.jpg)
 
 ###### Questions
 
 Quelle récompense musicale américaine, décernée par la [[Recording Academy]], prend la forme d'un gramophone doré ?
 
-Quel prix musical, d'abord appelé Gramophone Award, a été remis pour la première fois en mai 1959 ?
+Quel prix musical a été remis pour la première fois le 4 mai 1959, lors de deux cérémonies simultanées à [[Beverly Hills]] et à [[New York]] ?
 
 Quelle récompense distingue chaque année aux [[États-Unis]] l'album, l'enregistrement et la chanson de l'année ?
 

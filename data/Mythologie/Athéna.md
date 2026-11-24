@@ -19,7 +19,7 @@ culture_g_score: 90
 culture_g_justification: "Déesse protectrice d'Athènes, Athéna revient dans les mythes d'Ulysse, de Persée et dans l'histoire du Parthénon."
 creation: cm023
 ---
-![Image de Athéna](https://commons.wikimedia.org/wiki/Special:FilePath/Mattei_Athena_Louvre_Ma530_n2.jpg)
+![Image de Athéna](https://upload.wikimedia.org/wikipedia/commons/2/22/Mattei_Athena_Louvre_Ma530_n2.jpg)
 
 ###### Questions
 
