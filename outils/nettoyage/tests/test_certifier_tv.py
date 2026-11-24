@@ -60,8 +60,19 @@ def test_question_absente():
 
 
 def test_doublon_refuse():
-    with pytest.raises(ct.Introuvable):
+    with pytest.raises(ct.DejaCouverte):
         ct.certifier(FICHE, TV, "Question existante ?")
+
+
+def test_quasi_doublon_refuse_puis_archivage_seul():
+    # cas réel Louis XI (24/11/2026) : la fiche avait déjà la version corrigée, reformulée
+    fiche = FICHE.replace("Question existante ?",
+        "Quel roi de France, fils de [[Charles VII]], dont [[Philippe de Commynes]] a relaté le règne, était surnommé « l'universelle aragne » ?")
+    neuve = "Quel roi de France, fils de [[Charles VII]], dont le règne est raconté par [[Philippe de Commynes]], était surnommé « l'universelle aragne » ?"
+    with pytest.raises(ct.DejaCouverte):
+        ct.certifier(fiche, TV, neuve)
+    t = ct.archiver_seule(fiche, TV)
+    assert ct.MARQUE_TV not in t and "questions_tv_archivees:" in t
 
 
 def test_section_creee_si_absente():

@@ -121,10 +121,31 @@ def questions_section(corps: str) -> list[str]:
     return res
 
 
+class DejaCouverte(Exception):
+    """La fiche contient déjà une question équivalente : archiver l'original TV sans rien ajouter."""
+
+
+def question_proche(corps: str, nouvelle: str) -> str | None:
+    """Renvoie la question existante trop proche de `nouvelle` (même seuil que preparer_lot), sinon None."""
+    import preparer_lot as pl
+    for q in questions_section(corps):
+        propre = re.sub(r"<!--.*?-->", "", q).strip()
+        if aq.normaliser(propre) == aq.normaliser(nouvelle) or pl.proximite(nouvelle, propre) > pl.SEUIL_DOUBLON:
+            return propre
+    return None
+
+
+def archiver_seule(texte: str, question_tv: str) -> str:
+    """La question TV est déjà couverte par la fiche : on l'archive sans ajout."""
+    debut, entete, corps = _decouper(texte)
+    return debut + archiver_question_tv(entete, question_tv) + corps
+
+
 def certifier(texte: str, question_tv: str, nouvelle: str) -> str:
     debut, entete, corps = _decouper(texte)
-    if aq.normaliser(nouvelle) in {aq.normaliser(re.sub(r"<!--.*?-->", "", q)) for q in questions_section(corps)}:
-        raise Introuvable("la question certifiée existe déjà dans la fiche")
+    proche = question_proche(corps, nouvelle)
+    if proche:
+        raise DejaCouverte(proche)
     return debut + archiver_question_tv(entete, question_tv) + ajouter_question(corps, nouvelle)
 
 
