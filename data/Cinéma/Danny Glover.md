@@ -27,11 +27,11 @@ culture_g_justification: "Danny Glover est surtout exploitable par L'Arme fatale
 
 ###### Questions
 
-Dans quel film de [[Steven Spielberg]] de 1985 [[Danny Glover]] a-t-il joué aux côtés de [[Whoopi Goldberg]] ?
+Quel acteur incarne Albert, le mari brutal de Celie, dans « [[La Couleur pourpre (film, 1985)|La Couleur pourpre]] » de [[Steven Spielberg]] ?
 
-Dans quel film culte de 1987 [[Danny Glover]] a-t-il gagné une immense popularité en incarnant le personnage du sergent [[Roger Murtaugh]] ?
+Quel acteur forme avec [[Mel Gibson]] le duo de policiers de « [[L'Arme fatale]] » (1987), dans le rôle de Roger Murtaugh ?
 
-En quelle année [[Danny Glover]] a-t-il produit et joué dans le film [[To Sleep with Anger]], qui lui a valu le prix spécial du jury au [[Festival de Sundance]] ?
+Quel acteur a reçu l'Independent Spirit Award du meilleur acteur pour « [[To Sleep with Anger]] » de [[Charles Burnett]] (1990) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Il a également joué dans des films notables comme [[La Couleur pourpre]] de [[
 Un fait étonnant sur lui est qu'il souffre de dyslexie, ce qui ne l'a pas empêché de devenir l'une des figures marquantes du cinéma. 
 
 En dehors de sa carrière d'acteur, Glover est très engagé politiquement et a été un fervent défenseur des droits civiques, collaborant avec des personnalités comme [[Nelson Mandela]] et soutenant des causes humanitaires à travers le monde.
+
+###### Archives questions
+
+Dans quel film de [[Steven Spielberg]] de 1985 [[Danny Glover]] a-t-il joué aux côtés de [[Whoopi Goldberg]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film culte de 1987 [[Danny Glover]] a-t-il gagné une immense popularité en incarnant le personnage du sergent [[Roger Murtaugh]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Danny Glover]] a-t-il produit et joué dans le film [[To Sleep with Anger]], qui lui a valu le prix spécial du jury au [[Festival de Sundance]] ? <!-- cm003 remplacée 2026-11-23 -->

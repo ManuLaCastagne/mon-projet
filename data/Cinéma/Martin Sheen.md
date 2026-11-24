@@ -29,12 +29,20 @@ culture_g_justification: "Acteur connu notamment pour Apocalypse Now et The West
 
 ###### Questions
 
-Dans quel film de [[Francis Ford Coppola]] sorti en 1979, [[Martin Sheen]] incarne-t-il le personnage du capitaine [[Benjamin L. Willard]] ?
+Quel acteur incarne le capitaine Willard, chargé d'éliminer le colonel Kurtz, dans « [[Apocalypse Now]] » de [[Francis Ford Coppola]] ?
 
-En 1981, quel célèbre acteur américain, [[Martin Sheen]], a survécu à une crise cardiaque sur le tournage du film [[Apocalypse Now]] ?
+Quel acteur a été victime d'une crise cardiaque en 1977 pendant le tournage aux Philippines du film de [[Francis Ford Coppola]] sur la guerre du Viêt Nam ?
 
-Quel acteur, né sous le nom de [[Ramón Antonio Gerardo Estévez]] en 1940, est plus connu sous le nom de scène de [[Martin Sheen]] ?
+Quel acteur américain, né Ramón Estévez en 1940 à [[Dayton]], est le père d'[[Emilio Estevez]] ?
 
 ###### Description
 
 [[Martin Sheen]], acteur américain charismatique, est né en 1940 et s’est illustré dans de nombreux films marquants. Il a explosé sur le grand écran avec son rôle mémorable dans [[Apocalypse Now]] de [[Francis Ford Coppola]], sorti en 1979, où il incarne le capitaine [[Benjamin L. Willard]]. En 1999, il devient célèbre à la télévision en incarnant le président [[Josiah Bartlet]] dans la série à succès [[The West Wing]], créée par [[Aaron Sorkin]]. [[Martin Sheen]] est également le père de [[Charlie Sheen]], acteur de films et séries télévisées, et d'[[Emilio Estevez]], connu pour ses rôles dans les films comme [[The Breakfast Club]].
+
+###### Archives questions
+
+Dans quel film de [[Francis Ford Coppola]] sorti en 1979, [[Martin Sheen]] incarne-t-il le personnage du capitaine [[Benjamin L. Willard]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1981, quel célèbre acteur américain, [[Martin Sheen]], a survécu à une crise cardiaque sur le tournage du film [[Apocalypse Now]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, né sous le nom de [[Ramón Antonio Gerardo Estévez]] en 1940, est plus connu sous le nom de scène de [[Martin Sheen]] ? <!-- cm003 remplacée 2026-11-23 -->

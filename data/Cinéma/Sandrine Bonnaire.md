@@ -29,11 +29,11 @@ culture_g_justification: "Actrice française majeure révélée par Pialat et Va
 
 ###### Questions
 
-Dans quel film de [[Sandrine Bonnaire]], réalisé en 1985 par [[Agnès Varda]], joue-t-elle le rôle d'une jeune vagabonde dont la vie est racontée à travers des témoignages ?
+Quelle actrice a partagé avec [[Isabelle Huppert]] la coupe Volpi à Venise en 1995 pour « [[La Cérémonie]] » de [[Claude Chabrol]] ?
 
 Quelle actrice a reçu le [[César de la meilleure actrice]] en 1986 pour son rôle de vagabonde dans [[Sans toit ni loi]] d'[[Agnès Varda]] ?
 
-Pour quel premier film, plus tard acclamé par la critique, [[Sandrine Bonnaire]] a-t-elle été révélée à l'âge de 15 ans sous la direction de [[Maurice Pialat]] en 1983 ?
+Quelle actrice a été révélée à 15 ans par [[Maurice Pialat]] dans « [[À nos amours]] », rôle qui lui valut le César du meilleur espoir féminin ?
 
 ###### Description
 
@@ -42,3 +42,7 @@ Pour quel premier film, plus tard acclamé par la critique, [[Sandrine Bonnaire]
 ###### Archives questions
 
 En quelle année [[Sandrine Bonnaire]] a-t-elle remporté le [[César de la meilleure actrice]] pour son rôle dans le film "Sans toit ni loi" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Sandrine Bonnaire]], réalisé en 1985 par [[Agnès Varda]], joue-t-elle le rôle d'une jeune vagabonde dont la vie est racontée à travers des témoignages ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel premier film, plus tard acclamé par la critique, [[Sandrine Bonnaire]] a-t-elle été révélée à l'âge de 15 ans sous la direction de [[Maurice Pialat]] en 1983 ? <!-- cm003 remplacée 2026-11-23 -->

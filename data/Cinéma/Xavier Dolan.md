@@ -27,13 +27,13 @@ culture_g_justification: "Réalisateur québécois très présent dans les quiz 
 
 ###### Questions
 
-Quel réalisateur prodige, producteur à 20 ans du long-métrage "J'ai tué ma mère" a été primé pour ses films "Tom à la ferme", "Laurence anyways" et "Mommy" ?
+Quel cinéaste québécois a réalisé à 20 ans « [[J'ai tué ma mère]] », présenté à la Quinzaine des réalisateurs de Cannes en 2009 ?
 
-Quel cinéaste québécois, fut auteur en 2020 de "[[Matthias et Maxime]]" ?
+Quel cinéaste québécois a remporté le prix du jury à Cannes en 2014 pour « [[Mommy (film)|Mommy]] », ex aequo avec [[Jean-Luc Godard]] ?
 
-Quel artiste québécois a remporté le [[Grand Prix du Festival de Cannes]] en 2016 pour son film « [[Juste la fin du monde]] » ?
+Quel réalisateur québécois a remporté le Grand Prix du Festival de Cannes 2016 pour « [[Juste la fin du monde (film)|Juste la fin du monde]] », adapté de [[Jean-Luc Lagarce]] ?
 
-[[Xavier Dolan]] a prêté sa voix au personnage de [[Ron Weasley]] lors du doublage québécois de la série de films [[Harry Potter]], mais dans quelle année a-t-il commencé ce travail pour le premier film de la série ?
+Quel cinéaste québécois a doublé [[Ron Weasley]] dans la version québécoise des films « [[Harry Potter]] » ?
 
 ###### Description
 
@@ -42,3 +42,13 @@ Quel artiste québécois a remporté le [[Grand Prix du Festival de Cannes]] en 
 En 2009, à seulement 20 ans, il réalise et joue dans [[J'ai tué ma mère]], qui est présenté à la [[Quinzaine des réalisateurs]] à Cannes et remporte trois prix. Son film de 2014, [[Mommy]], remporte le [[Prix du Jury]] au Festival de Cannes et est acclamé pour sa narration puissante et son style visuel audacieux. 
 
 En 2016, il réalise son premier long métrage en anglais, [[Juste la fin du monde]], qui reçoit le [[Grand Prix du Jury]] à Cannes et comprend un casting impressionnant avec des acteurs comme [[Marion Cotillard]] et [[Vincent Cassel]].
+
+###### Archives questions
+
+[[Xavier Dolan]] a prêté sa voix au personnage de [[Ron Weasley]] lors du doublage québécois de la série de films [[Harry Potter]], mais dans quelle année a-t-il commencé ce travail pour le premier film de la série ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel réalisateur prodige, producteur à 20 ans du long-métrage "J'ai tué ma mère" a été primé pour ses films "Tom à la ferme", "Laurence anyways" et "Mommy" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel cinéaste québécois, fut auteur en 2020 de "[[Matthias et Maxime]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste québécois a remporté le [[Grand Prix du Festival de Cannes]] en 2016 pour son film « [[Juste la fin du monde]] » ? <!-- cm003 remplacée 2026-11-23 -->

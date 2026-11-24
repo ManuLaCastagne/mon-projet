@@ -29,12 +29,20 @@ culture_g_justification: "Actrice reconnue aux choix éclectiques, exploitable v
 
 ###### Questions
 
-Quel est le nom de l'actrice britannique, gagnante de l'Oscar de la meilleure actrice dans un second rôle en 2008, qui est connue pour ses collaborations fréquentes avec le réalisateur [[Wes Anderson]] ?
+Quelle actrice britannique a remporté l'Oscar du meilleur second rôle féminin en 2008 pour « [[Michael Clayton]] » ?
 
-Dans quel domaine brille [[Tilda Swinton]], reconnue pour sa performance unique et son style avant-gardiste, en particulier dans des films comme [[Doctor Strange]] sorti en 2016 ?
+Quelle actrice incarne l'Ancien, mentor du héros joué par [[Benedict Cumberbatch]], dans « [[Doctor Strange (film)|Doctor Strange]] » (2016) ?
 
-Comment se nomme l'icône du [[cinéma]] qui a joué un personnage à la fois masculin et féminin dans le film ''[[Orlando]]'' de [[Sally Potter]], sorti en 1992 ?
+Quelle actrice incarne un personnage qui traverse quatre siècles en changeant de sexe dans « [[Orlando (film)|Orlando]] » de [[Sally Potter]] (1992) ?
 
 ###### Description
 
 [[Tilda Swinton]], née en 1960, est une actrice britannique de renom, réputée pour ses choix audacieux et son allure androgynique distinctive. Elle a remporté l'[[Oscar de la meilleure actrice dans un second rôle]] en 2008 pour son rôle dans le film "Michael Clayton". L'un de ses rôles emblématiques est celui de la [[Sorcière Blanche]] dans "[[Le Monde de Narnia]] : [[Le Lion, la Sorcière blanche et l'Armoire magique]]" sorti en 2005. En 2013, elle a collaboré avec le réalisateur [[Bong Joon-ho]] dans le film "[[Snowpiercer]]", ajoutant une autre performance mémorable à sa carrière éclectique.
+
+###### Archives questions
+
+Dans quel domaine brille [[Tilda Swinton]], reconnue pour sa performance unique et son style avant-gardiste, en particulier dans des films comme [[Doctor Strange]] sorti en 2016 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de l'actrice britannique, gagnante de l'Oscar de la meilleure actrice dans un second rôle en 2008, qui est connue pour ses collaborations fréquentes avec le réalisateur [[Wes Anderson]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Comment se nomme l'icône du [[cinéma]] qui a joué un personnage à la fois masculin et féminin dans le film ''[[Orlando]]'' de [[Sally Potter]], sorti en 1992 ? <!-- cm003 remplacée 2026-11-23 -->

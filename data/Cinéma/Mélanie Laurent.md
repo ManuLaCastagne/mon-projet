@@ -27,16 +27,26 @@ culture_g_justification: "Actrice et réalisatrice française associée à plusi
 
 ###### Questions
 
-Cette chanson du groupe français Aaron, que vous venez d'entendre, figurait sur la bande originale du film "[[Je vais bien, ne t'en fais pas]]" de [[Philippe Lioret]]. En 2007, quelle actrice, incarnant le personnage de Lili évoqué dans la chanson, a reçu pour ce film le césar du meilleur espoir féminin ?
+Quelle actrice a reçu le César du meilleur espoir féminin en 2007 pour « [[Je vais bien, ne t'en fais pas]] » de [[Philippe Lioret]], où elle joue Lili ?
 
-Quel réalisateur reconnu pour son film [[Inglourious Basterds]] a collaboré avec [[Mélanie Laurent]] en 2009 ?
+Quelle actrice française incarne Shosanna Dreyfus, propriétaire d'un cinéma parisien, dans « [[Inglourious Basterds]] » de [[Quentin Tarantino]] ?
 
-Quelle actrice française a co-réalisé le documentaire environnemental [[Demain]] qui a remporté le [[César du meilleur film documentaire]] en 2016 ?
+Quelle actrice a coréalisé avec [[Cyril Dion]] le documentaire « [[Demain (film, 2015)|Demain]] », César du meilleur film documentaire en 2016 ?
 
-Quel film de 2011 mettant en vedette [[Jesse Eisenberg]] et [[Mélanie Laurent]] a été réalisé par [[Radu Mihăileanu]] ?
+Quelle actrice joue une jeune violoniste soliste dans « [[Le Concert]] » de [[Radu Mihăileanu]], en 2009 ?
 
 ###### Description
 
 [[Mélanie Laurent]] est une actrice et réalisatrice française née le 21 février 1983 à Paris. Elle est mondialement reconnue pour son rôle marquant de [[Shosanna Dreyfus]] dans le film "[[Inglourious Basterds]]" de [[Quentin Tarantino]], sorti en 2009. 
 
 En 2011, elle passe derrière la caméra pour réaliser "[[Les Adoptés]]", son premier long-métrage, qui reçoit un bel accueil critique. Dans sa carrière d'actrice, Mélanie a également joué aux côtés de [[Jake Gyllenhaal]] dans le film "[[Enemy]]" de [[Denis Villeneuve]], sorti en 2013.
+
+###### Archives questions
+
+Quel réalisateur reconnu pour son film [[Inglourious Basterds]] a collaboré avec [[Mélanie Laurent]] en 2009 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de 2011 mettant en vedette [[Jesse Eisenberg]] et [[Mélanie Laurent]] a été réalisé par [[Radu Mihăileanu]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Cette chanson du groupe français Aaron, que vous venez d'entendre, figurait sur la bande originale du film "[[Je vais bien, ne t'en fais pas]]" de [[Philippe Lioret]]. En 2007, quelle actrice, incarnant le personnage de Lili évoqué dans la chanson, a reçu pour ce film le césar du meilleur espoir féminin ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice française a co-réalisé le documentaire environnemental [[Demain]] qui a remporté le [[César du meilleur film documentaire]] en 2016 ? <!-- cm003 remplacée 2026-11-23 -->

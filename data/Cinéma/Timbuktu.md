@@ -29,11 +29,11 @@ culture_g_justification: "Film français majeur sur un sujet contemporain, régu
 
 ###### Questions
 
-Quel film réalisé par [[Abderrahmane Sissako]] en 2014 a été nominé pour l'Oscar du meilleur film en langue étrangère ?
+Quel film mauritanien a été nommé à l'Oscar du meilleur film en langue étrangère en 2015 ?
 
-Quelle ville malienne sert de décor principal dans le film d'[[Abderrahmane Sissako]] sorti en 2014, abordant les conséquences de l'occupation par des groupes islamistes radicaux ?
+Quel film de 2014 raconte l'occupation d'une ville du nord du [[Mali]] par des djihadistes, à travers l'histoire d'un éleveur touareg ?
 
-Quel long métrage a remporté sept Césars en 2015, y compris celui du meilleur film, et se déroule en partie dans un lieu nommé [[Timbuktu]] ?
+Quel film d'[[Abderrahmane Sissako]] a remporté sept César en 2015, dont celui du meilleur film ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Nommé aux Oscars dans la catégorie du Meilleur film en langue étrangère, [[T
 Le tournage du film a principalement eu lieu en [[Mauritanie]], même si le titre évoque la célèbre ville du [[Mali]], car les conditions de sécurité ne permettaient pas de filmer sur place.
 
 Un des moments marquants de [[Timbuktu]] est la scène du match de football sans ballon, qui illustre puissamment l'oppression et la résilience des habitants face aux interdictions imposées par les djihadistes.
+
+###### Archives questions
+
+Quel long métrage a remporté sept Césars en 2015, y compris celui du meilleur film, et se déroule en partie dans un lieu nommé [[Timbuktu]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film réalisé par [[Abderrahmane Sissako]] en 2014 a été nominé pour l'Oscar du meilleur film en langue étrangère ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville malienne sert de décor principal dans le film d'[[Abderrahmane Sissako]] sorti en 2014, abordant les conséquences de l'occupation par des groupes islamistes radicaux ? <!-- cm003 remplacée 2026-11-23 -->

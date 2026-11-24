@@ -27,11 +27,11 @@ culture_g_justification: "Acteur britannique classique identifiable par La Panth
 
 ###### Questions
 
-Dans quel film de 1958 David Niven a-t-il remporté l'[[Oscar du meilleur acteur]] pour sa performance en tant que [[Major Pollock]] dans l'auberge du [[Beauregard Hotel]] ?
+Quel acteur britannique a remporté l'Oscar du meilleur acteur pour le rôle du major Pollock dans « [[Tables séparées]] » (1958) ?
 
-Quel acteur britannique, connu pour son rôle dans [[La Panthère rose]], a joué sous la direction de [[Michael Anderson]] dans le film de 1956, [[Le Tour du monde en quatre-vingts jours]] ?
+Quel acteur incarne Phileas Fogg dans « [[Le Tour du monde en quatre-vingts jours (film, 1956)|Le Tour du monde en quatre-vingts jours]] » de [[Michael Anderson]] (1956) ?
 
-David Niven a présenté la prestigieuse cérémonie des [[Oscars]] à une occasion unique où une interruption impromptue par un streaker a eu lieu. En quelle année cet événement mémorable s'est-il produit ?
+Quel acteur britannique, coprésentateur des Oscars 1974, a lancé un trait d'humour resté célèbre après l'irruption d'un streaker sur scène ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Il est également célèbre pour ses apparitions dans des films tels que "Le Tou
 Fait étonnant, David Niven a servi comme lieutenant-colonel dans l'armée britannique pendant la Seconde Guerre mondiale, une expérience peu commune pour un acteur de son envergure à cette époque. 
 
 David Niven est aussi connu pour avoir été présentateur de la cérémonie des [[Oscars]] en 1974, où son professionnalisme a brillé alors qu'il a géré avec humour une interruption impromptue causée par un streaker qui a traversé la scène.
+
+###### Archives questions
+
+Dans quel film de 1958 David Niven a-t-il remporté l'[[Oscar du meilleur acteur]] pour sa performance en tant que [[Major Pollock]] dans l'auberge du [[Beauregard Hotel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+David Niven a présenté la prestigieuse cérémonie des [[Oscars]] à une occasion unique où une interruption impromptue par un streaker a eu lieu. En quelle année cet événement mémorable s'est-il produit ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur britannique, connu pour son rôle dans [[La Panthère rose]], a joué sous la direction de [[Michael Anderson]] dans le film de 1956, [[Le Tour du monde en quatre-vingts jours]] ? <!-- cm003 remplacée 2026-11-23 -->

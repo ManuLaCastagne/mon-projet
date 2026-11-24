@@ -29,12 +29,20 @@ culture_g_justification: "Film carcéral marquant fondé sur une histoire vraie,
 
 ###### Questions
 
-Quel film raconte l'histoire vraie de [[Henri Charrière]], surnommé "Papillon", qui s'évade du bagne de [[Cayenne]] et est sorti en 1973 ?
+Quel film de [[Franklin J. Schaffner]], sorti en 1973, adapte le récit d'[[Henri Charrière]] sur son évasion du bagne de [[Guyane]] ?
 
-Quel acteur célèbre a interprété le rôle principal de [[Cinéma/Papillon]] aux côtés de [[Dustin Hoffman]] dans le film de 1973 ?
+Dans quel film de 1973 [[Steve McQueen]] et [[Dustin Hoffman]] incarnent-ils deux forçats devenus amis au bagne ?
 
-Quel animal est tatoué sur la poitrine du personnage incarné par [[Steve McQueen]] dans le film [[Cinéma/Papillon]] de 1973 ?
+Quel film de 2017, avec [[Charlie Hunnam]] et [[Rami Malek]], est le remake d'un film d'évasion de 1973 ?
 
 ###### Description
 
 Le film *[[Cinéma/Papillon]]*, sorti en 1973, est une adaptation cinématographique du livre autobiographique écrit par [[Henri Charrière]]. Réalisé par [[Franklin J. Schaffner]], le film met en vedette [[Steve McQueen]] dans le rôle de Charrière, surnommé "Papillon" à cause de son tatouage en forme de papillon. L'histoire suit son évasion audacieuse d'un bagne en Guyane française, et a été tournée dans des lieux exotiques tels que la Jamaïque et l'Espagne. Le film a été bien accueilli par le public et est devenu un classique du cinéma d'aventure de l'époque.
+
+###### Archives questions
+
+Quel film raconte l'histoire vraie de [[Henri Charrière]], surnommé "Papillon", qui s'évade du bagne de [[Cayenne]] et est sorti en 1973 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur célèbre a interprété le rôle principal de [[Cinéma/Papillon]] aux côtés de [[Dustin Hoffman]] dans le film de 1973 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel animal est tatoué sur la poitrine du personnage incarné par [[Steve McQueen]] dans le film [[Cinéma/Papillon]] de 1973 ? <!-- cm003 remplacée 2026-11-23 -->

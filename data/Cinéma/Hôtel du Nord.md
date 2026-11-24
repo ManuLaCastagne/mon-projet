@@ -32,12 +32,20 @@ culture_g_justification: "Classique du réalisme poétique français, surtout co
 
 ###### Questions
 
-Quel célèbre film de 1938, réalisé par [[Marcel Carné]] et mettant en scène [[Arletty]] et [[Louis Jouvet]], se déroule principalement dans un établissement nommé [[Hôtel du Nord]] ? 
+Quel film de [[Marcel Carné]] sorti en 1938 réunit [[Arletty]] et [[Louis Jouvet]] dans les rôles de Raymonde et de M. Edmond ?
 
-Dans quel long-métrage cultissime résonne la réplique célèbre « [[Atmosphère ! Atmosphère ! Est-ce que j'ai une gueule d'atmosphère ?]] », prononcée par l'actrice [[Arletty]] ? <!-- score: 4 -->
+Dans quel film de 1938 [[Arletty]] lance-t-elle la réplique « Atmosphère ! Atmosphère ! Est-ce que j'ai une gueule d'atmosphère ? » ?
 
-Quel film, basé sur un roman de [[Eugène Dabit]], se déroule dans le quartier du canal Saint-Martin à Paris et a contribué à immortaliser tous deux dans l'imaginaire populaire français ?
+Quel film de 1938, adapté d'un roman d'[[Eugène Dabit]], se déroule au bord du [[canal Saint-Martin]] à Paris ?
 
 ###### Description
 
 L'[[Hôtel du Nord]] est un film emblématique du cinéma français réalisé par [[Marcel Carné]] et sorti en 1938. Basé sur le roman éponyme de [[Eugène Dabit]], ce long-métrage se déroule principalement le long du canal Saint-Martin à Paris, offrant une atmosphère unique et captivante. Les rôles principaux sont magnifiquement interprétés par [[Arletty]], dans le rôle de Renée, et [[Louis Jouvet]] dans celui de Monsieur Edmond, deux acteurs iconiques du cinéma de l'époque. La célèbre réplique "Atmosphère, atmosphère, est-ce que j'ai une gueule d'atmosphère ?" prononcée par Arletty est devenue culte, inscrivant ainsi le film dans la mémoire collective française.
+
+###### Archives questions
+
+Quel célèbre film de 1938, réalisé par [[Marcel Carné]] et mettant en scène [[Arletty]] et [[Louis Jouvet]], se déroule principalement dans un établissement nommé [[Hôtel du Nord]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel long-métrage cultissime résonne la réplique célèbre « [[Atmosphère ! Atmosphère ! Est-ce que j'ai une gueule d'atmosphère ?]] », prononcée par l'actrice [[Arletty]] ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film, basé sur un roman de [[Eugène Dabit]], se déroule dans le quartier du canal Saint-Martin à Paris et a contribué à immortaliser tous deux dans l'imaginaire populaire français ? <!-- cm003 remplacée 2026-11-23 -->

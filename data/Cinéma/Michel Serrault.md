@@ -29,12 +29,20 @@ culture_g_justification: "Acteur très emblématique du cinéma français, fréq
 
 ###### Questions
 
-Dans quel film de 1978 a [[Michel Serrault]] joué un rôle marquant et remporté un César du meilleur acteur pour sa prestation dans [[La Cage aux Folles]] ?
+Quel acteur a remporté le César du meilleur acteur en 1979 pour son rôle de Zaza Napoli dans « [[La Cage aux folles (film)|La Cage aux folles]] » ?
 
-Quel acteur français, à sa grande surprise, a reçu un [[César d'honneur]] en 1999 pour l'ensemble de sa carrière, célébrant plus de cinq décennies de contributions au cinéma, y compris des performances emblématiques dans des classiques du cinéma français ?
+Quel acteur a obtenu son troisième César du meilleur acteur en 1996 pour « [[Nelly et Monsieur Arnaud]] » de [[Claude Sautet]] ?
 
-Quel acteur, connu pour sa capacité à incarner des rôles aussi comiques que dramatiques, a remporté son troisième [[César du cinéma français]] en 1991 pour sa performance dans le film [[Docteur Petiot]] ?
+Quel acteur a remporté le César du meilleur acteur pour « [[Garde à vue]] » de [[Claude Miller]], où il fait face à [[Lino Ventura]] ?
 
 ###### Description
 
 [[Michel Serrault]] était un acteur prolifique du cinéma français, reconnu pour sa polyvalence et son charisme. Il a commencé sa carrière en 1952, mais c'est en 1978 avec le film [[La Cage aux Folles]] qu'il obtient une renommée internationale, incarnant le personnage d'[[Albin Mougeotte]] aux côtés de [[Ugo Tognazzi]]. En 2001, Serrault remporte le César du meilleur acteur pour son rôle dans [[Nelly et Monsieur Arnaud]], un film de [[Claude Sautet]]. Au cours de sa carrière, [[Michel Serrault]] a tourné dans plus de 130 films et s'est éteint en 2007 à l'âge de 79 ans.
+
+###### Archives questions
+
+Dans quel film de 1978 a [[Michel Serrault]] joué un rôle marquant et remporté un César du meilleur acteur pour sa prestation dans [[La Cage aux Folles]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, connu pour sa capacité à incarner des rôles aussi comiques que dramatiques, a remporté son troisième [[César du cinéma français]] en 1991 pour sa performance dans le film [[Docteur Petiot]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur français, à sa grande surprise, a reçu un [[César d'honneur]] en 1999 pour l'ensemble de sa carrière, célébrant plus de cinq décennies de contributions au cinéma, y compris des performances emblématiques dans des classiques du cinéma français ? <!-- cm003 remplacée 2026-11-23 -->

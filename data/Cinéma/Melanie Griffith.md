@@ -27,11 +27,11 @@ culture_g_justification: "Actrice américaine célèbre surtout pour Working Gir
 
 ###### Questions
 
-Quel membre de la famille de [[Melanie Griffith]] est une ancienne étoile hollywoodienne, célèbre pour son rôle dans le film de 1963, [[Les Oiseaux]] de [[Alfred Hitchcock]] ?
+Quelle actrice est la fille de [[Tippi Hedren]], l'héroïne des « Oiseaux » d'[[Alfred Hitchcock]] ?
 
-Pour quel film de 1988, [[Melanie Griffith]] a-t-elle été nommée pour l'[[Oscar de la meilleure actrice]] grâce à son rôle dans [[Working Girl]] ?
+Quelle actrice joue Tess McGill, secrétaire ambitieuse, dans « [[Working Girl]] » de [[Mike Nichols]], rôle nommé à l'Oscar ?
 
-Avec quel célèbre acteur de cinéma d'action des années 90, [[Melanie Griffith]] a-t-elle partagé l'affiche dans le film de 1990, [[Une Équipe hors du commun]] ?
+Quelle actrice partage l'affiche du « [[Le Bûcher des vanités (film)|Bûcher des vanités]] » de [[Brian De Palma]] (1990) avec [[Tom Hanks]] et [[Bruce Willis]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Elle a été mariée à l'acteur [[Antonio Banderas]] de 1996 à 2015, formant l
 Un fait étonnant à propos de Melanie Griffith est qu'elle a survécu à une attaque de lion sur le tournage de "[[Roar]]" en 1981, un film de sa mère [[Tippi Hedren]] ; elle a subi 50 points de suture au visage, mais cela n'a pas freiné sa carrière.
 
 Melanie est également la mère de l'actrice [[Dakota Johnson]], célèbre pour son rôle dans "[[Fifty Shades of Grey]]", prolongeant ainsi l'héritage hollywoodien de la famille.
+
+###### Archives questions
+
+Quel membre de la famille de [[Melanie Griffith]] est une ancienne étoile hollywoodienne, célèbre pour son rôle dans le film de 1963, [[Les Oiseaux]] de [[Alfred Hitchcock]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel film de 1988, [[Melanie Griffith]] a-t-elle été nommée pour l'[[Oscar de la meilleure actrice]] grâce à son rôle dans [[Working Girl]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Avec quel célèbre acteur de cinéma d'action des années 90, [[Melanie Griffith]] a-t-elle partagé l'affiche dans le film de 1990, [[Une Équipe hors du commun]] ? <!-- cm003 remplacée 2026-11-23 -->

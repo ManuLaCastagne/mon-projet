@@ -29,11 +29,11 @@ culture_g_justification: "Acteur international reconnu pour plusieurs films d’
 
 ###### Questions
 
-Dans quel film de [[Quentin Tarantino]] sorti en 2009, [[Michael Fassbender]] a-t-il joué le rôle du lieutenant [[Archie Hicox]] ?
+Quel acteur incarne le lieutenant britannique Archie Hicox dans « [[Inglourious Basterds]] » de [[Quentin Tarantino]] ?
 
-Quel acteur, répondant par sa prestation dans [[Shame]] de 2011 à une collaboration fréquente avec le réalisateur [[Steve McQueen]], a reçu des critiques élogieuses pour sa performance dans ce drame sulfureux ?
+Quel acteur a reçu la coupe Volpi à Venise en 2011 pour « [[Shame]] » de [[Steve McQueen (réalisateur)|Steve McQueen]], qui l'avait déjà dirigé dans « [[Hunger]] » ?
 
-Dans quel film de [[Ridley Scott]], [[Michael Fassbender]] incarne-t-il un android nommé David et fait ses débuts en 2012 dans cet univers de science-fiction ?
+Quel acteur prête ses traits à l'androïde David dans « [[Prometheus (film)|Prometheus]] » de [[Ridley Scott]] (2012) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Il est notamment reconnu pour ses performances dans des films tels que [[Shame]]
 Fait étonnant, peu connu, [[Michael Fassbender]] a participé à une course automobile d'endurance, les [[24 Heures du Mans]], en 2022, marquant ainsi son rapprochement avec le monde de l'automobile sous une autre facette que celle de l'art dramatique. 
 
 Il a également travaillé plusieurs fois avec le réalisateur [[Steve McQueen]], formant un duo iconique dans le cinéma contemporain.
+
+###### Archives questions
+
+Dans quel film de [[Quentin Tarantino]] sorti en 2009, [[Michael Fassbender]] a-t-il joué le rôle du lieutenant [[Archie Hicox]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Ridley Scott]], [[Michael Fassbender]] incarne-t-il un android nommé David et fait ses débuts en 2012 dans cet univers de science-fiction ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, répondant par sa prestation dans [[Shame]] de 2011 à une collaboration fréquente avec le réalisateur [[Steve McQueen]], a reçu des critiques élogieuses pour sa performance dans ce drame sulfureux ? <!-- cm003 remplacée 2026-11-23 -->

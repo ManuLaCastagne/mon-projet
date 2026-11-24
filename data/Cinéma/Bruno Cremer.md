@@ -29,12 +29,20 @@ culture_g_justification: "Acteur français durablement identifié à Maigret et 
 
 ###### Questions
 
-Dans quel film de [[Claude Sautet]] sorti en 1974 [[Bruno Cremer]] a-t-il interprété le personnage de [[François]] ?
+Quel acteur a incarné le commissaire [[Maigret]] dans une série télévisée diffusée de 1991 à 2005 ?
 
-Quel rôle interprétait [[Bruno Cremer]] dans l'adaptation cinématographique de [[Sous le soleil de Satan]] réalisée par [[Maurice Pialat]] en 1987 ?
+Quel acteur joue le mari disparu de [[Charlotte Rampling]] dans « [[Sous le sable]] » de [[François Ozon]] (2000) ?
 
-Dans quel chef-d'œuvre du [[cinéma français]] réalisé par [[Jean-Paul Rappeneau]] en 1971 [[Bruno Cremer]] a-t-il joué aux côtés de [[Yves Montand]] ?
+Quel acteur incarne l'adjudant Willsdorff dans « [[La 317e Section]] » de [[Pierre Schoendoerffer]] (1965) ?
 
 ###### Description
 
 [[Bruno Cremer]], acteur français emblématique, est surtout connu pour son rôle du commissaire [[Maigret]] dans la série télévisée diffusée de 1991 à 2005. Il débute au cinéma en 1957 dans ''Quand la femme s'en mêle'' de [[Yves Allégret]], avant de se faire remarquer dans ''Les Gauloises bleues'' en 1968. Cremer joue également sous la direction de [[Yves Boisset]] dans ''L'Attentat'' en 1972, un film inspiré de l'affaire Ben Barka. Il côtoie des figures du cinéma comme [[Jean-Paul Belmondo]] dans ''Un homme de trop'' en 1967, renforçant ainsi sa place dans le panorama cinématographique français.
+
+###### Archives questions
+
+Dans quel film de [[Claude Sautet]] sorti en 1974 [[Bruno Cremer]] a-t-il interprété le personnage de [[François]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle interprétait [[Bruno Cremer]] dans l'adaptation cinématographique de [[Sous le soleil de Satan]] réalisée par [[Maurice Pialat]] en 1987 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel chef-d'œuvre du [[cinéma français]] réalisé par [[Jean-Paul Rappeneau]] en 1971 [[Bruno Cremer]] a-t-il joué aux côtés de [[Yves Montand]] ? <!-- cm003 remplacée 2026-11-23 -->
