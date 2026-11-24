@@ -38,8 +38,6 @@ Dans quel roman, exploité par [[Lamartine]] dans ses discours abolitionnistes, 
 
 Dans quel roman de 1788 deux mères, Madame de La Tour et Marguerite, élèvent-elles ensemble leurs enfants sur l'île de France ?
 
-Quel roman de [[Bernardin de Saint-Pierre]], publié en 1788, raconte l'amour de deux enfants élevés ensemble sur l'île de France, l'actuelle [[île Maurice]] ? <!-- source: tv -->
-
 ###### Description
 
 [[Paul et Virginie]] est un roman emblématique de la littérature française, écrit par [[Jacques-Henri Bernardin de Saint-Pierre]] et publié pour la première fois en 1788. Ce roman raconte l'histoire poignante de deux jeunes gens, Paul et Virginie, vivant une existence paisible sur l'île [[Île de France]], connue aujourd'hui sous le nom de [[Île Maurice]]. 

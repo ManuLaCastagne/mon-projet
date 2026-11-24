@@ -36,8 +36,6 @@ Quel célèbre jeu offre des prix aux candidats qui doivent deviner le juste pri
 
 Quel jeu télévisé de [[TF1]], adapté de l'américain The Price Is Right, a été présenté par [[Philippe Risoli]] de 1992 à 2001 ?
 
-Quel jeu de TF1, présenté par [[Philippe Risoli]] puis par [[Vincent Lagaf']], proposait des épreuves comme le Tyrolien et une grande roue que les candidats faisaient tourner ? <!-- source: tv -->
-
 ###### Description
 
 [[Le Juste Prix]] est un célèbre jeu télévisé français qui a été diffusé pour la première fois en [[1987]] sur [[TF1]], et a captivé le public par ses présentations originales et attrayantes.

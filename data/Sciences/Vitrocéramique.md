@@ -34,8 +34,6 @@ Quel matériau, mis en avant par la société [[Schott AG]] dans les années [[1
 
 Quel matériau, obtenu par cristallisation contrôlée d'un verre, sert à fabriquer des prothèses dentaires, des composants électroniques et des cocottes ?
 
-Quel matériau, à mi-chemin entre le verre et la céramique, sert à fabriquer des plaques de cuisson, des prothèses dentaires et des composants électroniques ? <!-- source: tv -->
-
 ###### Description
 
 La [[vitrocéramique]] est un matériau qui a été inventé par [[Stanley Donald Stookey]] en 1953, lors de ses recherches à [[Corning]], une ville située dans l'État de [[New York]]. 

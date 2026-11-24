@@ -36,8 +36,6 @@ Quel roi de France, fils de [[Charles VII]], dont [[Philippe de Commynes]] a rel
 
 Quel souverain est à l'origine de l'instauration des [[lettres de rémission]], permettant aux criminels de se faire pardonner en payant une amende, utilisant cela comme levier de stabilité sociale et économique sous son règne ?
 
-Quel roi de France, fils de [[Charles VII]], dont le règne est raconté par [[Philippe de Commynes]], était surnommé « l'universelle aragne » ? <!-- source: tv -->
-
 ###### Description
 
 [[Louis XI]], surnommé "l'universelle araignée", a régné sur le royaume de France de 1461 à 1483, après avoir succédé à son père, [[Charles VII]]. 

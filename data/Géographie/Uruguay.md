@@ -42,8 +42,6 @@ Quel pays possède le plus petit territoire bordant le [[Rio de la Plata]] ?
 
 Quel pays d'Amérique du Sud, dont la capitale est [[Montevideo]], voit la station balnéaire de [[Punta del Este]] marquer la limite entre le [[Río de la Plata]] et l'océan Atlantique ?
 
-Dans quel pays d'Amérique du Sud la pointe de [[Punta del Este]] marque-t-elle la limite entre le [[Río de la Plata]] et l'océan Atlantique ? <!-- source: tv -->
-
 ###### Description
 
 [[L'Uruguay]], petit pays d'Amérique du Sud, est bordé par l'océan [[Atlantique]] à l'est et partage ses frontières terrestres avec le [[Brésil]] au nord et l'[[Argentine]] à l'ouest. 
