@@ -31,9 +31,9 @@ culture_g_justification: "Top model emblématique des années 1990, souvent ques
 
 Quelle mannequin allemande, ayant fait une apparition en 1994 dans le film "[[Richie Rich]]", est mondialement reconnue pour sa ressemblance avec [[Brigitte Bardot]] ?
 
-Quel mannequin, ayant fait partie de l'émission spéciale "[[Absolutely Fabulous: The Last Shout]]" diffusée en 1996, a également prononcé le fameux "I am [[Claudia Schiffer]] !" dans la série ?
+Quel mannequin allemand a été fiancée au magicien [[David Copperfield]] de 1994 à 1999 ?
 
-Quelle figure emblématique de la mode a été décrite comme l'une des "top models" des [[supermodels]] des années 1990 et a fait une apparition dans le clip vidéo "[[Uptown Girl]]" de [[Westlife]] en 2001 ?
+Quel top model allemand apparaît dans le clip de la reprise d'« [[Uptown Girl]] » par [[Westlife]] en 2001 ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Elle joue également dans "Love Actually" en 2003, un film culte où elle partag
 Elle est mariée depuis 2002 au réalisateur britannique [[Matthew Vaughn]].
 
 Bien que sa carrière ne soit pas principalement axée sur le cinéma, [[Claudia Schiffer]] a su marquer l'industrie par sa présence charismatique et ses collaborations notables.
+
+###### Archives questions
+
+Quel mannequin, ayant fait partie de l'émission spéciale "[[Absolutely Fabulous: The Last Shout]]" diffusée en 1996, a également prononcé le fameux "I am [[Claudia Schiffer]] !" dans la série ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle figure emblématique de la mode a été décrite comme l'une des "top models" des [[supermodels]] des années 1990 et a fait une apparition dans le clip vidéo "[[Uptown Girl]]" de [[Westlife]] en 2001 ? <!-- cm003 remplacée 2026-11-23 -->

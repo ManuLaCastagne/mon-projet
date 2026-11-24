@@ -29,12 +29,20 @@ culture_g_justification: "Film français notable reliant Camille Claudel, Isabel
 
 ###### Questions
 
-Dans quel film de 1988, réalisé par [[Bruno Nuytten]], l'actrice [[Isabelle Adjani]] incarne-t-elle la célèbre sculptrice française [[Camille Claudel]] ?
+Quel film de [[Bruno Nuytten]] (1988) offre à [[Isabelle Adjani]] le rôle de la sculptrice élève d'[[Auguste Rodin]] ?
 
-Quel film français, racontant la vie tourmentée de [[Camille Claudel]], a été nommé pour deux Oscars en 1990, dont celui du meilleur film en langue étrangère ?
+Quel film a remporté le César du meilleur film en 1989 ?
 
-En 2013, quel film, réalisé par [[Bruno Dumont]], met en scène l'actrice [[Juliette Binoche]] dans le rôle de [[Camille Claudel]], se concentrant sur son séjour en maison de santé ?
+Dans quel film de 1988 [[Gérard Depardieu]] incarne-t-il le sculpteur [[Auguste Rodin]] ?
 
 ###### Description
 
 Le film "[[Camille Claudel]]", réalisé par [[Bruno Nuytten]], est sorti en 1988 et met en lumière la vie tourmentée de la célèbre sculptrice française. [[Isabelle Adjani]] y incarne le rôle-titre avec une intensité magistrale, prestation qui lui a valu un [[César de la meilleure actrice]] en 1989. Le film explore sa relation complexe et tumultueuse avec [[Auguste Rodin]], décrivant comment leur passion artistique et personnelle a influencé la trajectoire de [[Claudel]]. La musique poignante du film a été composée par [[Gabriel Yared]], renforçant l'atmosphère dramatique de cette œuvre nommée pour l'[[Oscar du meilleur film en langue étrangère]] en 1990.
+
+###### Archives questions
+
+Dans quel film de 1988, réalisé par [[Bruno Nuytten]], l'actrice [[Isabelle Adjani]] incarne-t-elle la célèbre sculptrice française [[Camille Claudel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film français, racontant la vie tourmentée de [[Camille Claudel]], a été nommé pour deux Oscars en 1990, dont celui du meilleur film en langue étrangère ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2013, quel film, réalisé par [[Bruno Dumont]], met en scène l'actrice [[Juliette Binoche]] dans le rôle de [[Camille Claudel]], se concentrant sur son séjour en maison de santé ? <!-- cm003 remplacée 2026-11-23 -->

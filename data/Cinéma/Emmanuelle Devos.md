@@ -29,12 +29,20 @@ culture_g_justification: "Actrice importante du cinéma français, notamment gr�
 
 ###### Questions
 
-Dans quel film de [[Jacques Audiard]] sorti en 2001, [[Emmanuelle Devos]] a-t-elle remporté le César de la meilleure actrice pour son rôle aux côtés de [[Vincent Cassel]] ?
+Quelle actrice a reçu le César de la meilleure actrice en 2002 pour [[Sur mes lèvres]] de [[Jacques Audiard]], où elle joue une secrétaire malentendante ?
 
-Quel est le titre du film de [[Noémie Lvovsky]] de 2007 dans lequel [[Emmanuelle Devos]] joue le rôle de [[Camille]], une réalisatrice en pleine crise professionnelle et amoureuse ?
+Quelle actrice a reçu le César du meilleur second rôle féminin en 2010 pour [[À l'origine]] de [[Xavier Giannoli]] ?
 
-En [[quelle année]], [[Emmanuelle Devos]] a-t-elle été membre du jury de la compétition officielle au Festival de Cannes sous la présidence de [[Nanni Moretti]] ?
+Quelle actrice française siégeait en 2012 au jury du [[Festival de Cannes]] présidé par [[Nanni Moretti]] ?
 
 ###### Description
 
 [[Emmanuelle Devos]] est une actrice française renommée, née le 10 mai 1964 à [[Puteaux]], en région parisienne. Elle a remporté le [[César de la meilleure actrice]] en 2002 pour son rôle dans le film "Sur mes lèvres" réalisé par [[Jacques Audiard]]. Emmanuelle Devos a également travaillé avec de nombreux réalisateurs de renom tels que [[Arnaud Desplechin]], avec qui elle a collaboré à plusieurs reprises, notamment dans "[[Rois et Reine]]" sorti en 2004. En 2020, elle a tenu le rôle principal dans "Tout s’est bien passé," un film réalisé par [[François Ozon]].
+
+###### Archives questions
+
+Dans quel film de [[Jacques Audiard]] sorti en 2001, [[Emmanuelle Devos]] a-t-elle remporté le César de la meilleure actrice pour son rôle aux côtés de [[Vincent Cassel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du film de [[Noémie Lvovsky]] de 2007 dans lequel [[Emmanuelle Devos]] joue le rôle de [[Camille]], une réalisatrice en pleine crise professionnelle et amoureuse ? <!-- cm003 remplacée 2026-11-23 -->
+
+En [[quelle année]], [[Emmanuelle Devos]] a-t-elle été membre du jury de la compétition officielle au Festival de Cannes sous la présidence de [[Nanni Moretti]] ? <!-- cm003 remplacée 2026-11-23 -->

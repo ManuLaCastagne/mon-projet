@@ -26,9 +26,9 @@ culture_g_justification: "Film reconnu pour Paul Verhoeven et Isabelle Huppert, 
 
 ###### Questions
 
-Dans quel film de [[Paul Verhoeven]], sorti en [[2016]], [[Isabelle Huppert]] joue-t-elle le rôle principal d'une femme puissante à la tête d'une entreprise de jeux vidéo ?
+Dans quel film de [[Paul Verhoeven]] (2016) voit-on [[Isabelle Huppert]] en patronne d'une société de jeux vidéo ?
 
-Quel est le titre du film adapté du roman de [[Philippe Djian]] "Oh..." par Paul Verhoeven en 2016 ? <!-- score: 3 -->
+Quel film est adapté du roman « Oh... » de [[Philippe Djian]], prix Interallié 2012 ?
 
 ###### Description
 
@@ -37,3 +37,9 @@ Quel est le titre du film adapté du roman de [[Philippe Djian]] "Oh..." par Pau
 Un fait étonnant concernant ce film est que c'est le premier film en langue française réalisé par [[Paul Verhoeven]], un réalisateur né à [[Amsterdam]], habituellement connu pour ses œuvres tournées en anglais comme [[Robocop]] et [[Basic Instinct]].
 
 Au [[Festival de Cannes]] 2016, malgré l'engouement autour de l'interprétation exceptionnelle de [[Isabelle Huppert]], elle ne remporte pas le [[Prix d'interprétation féminine]], mais se voit couronnée plus tard du [[Golden Globe]] de la meilleure actrice.
+
+###### Archives questions
+
+Dans quel film de [[Paul Verhoeven]], sorti en [[2016]], [[Isabelle Huppert]] joue-t-elle le rôle principal d'une femme puissante à la tête d'une entreprise de jeux vidéo ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du film adapté du roman de [[Philippe Djian]] "Oh..." par Paul Verhoeven en 2016 ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->

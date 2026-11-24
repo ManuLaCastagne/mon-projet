@@ -29,11 +29,11 @@ culture_g_justification: "Personnalité très identifiable par Alerte à Malibu,
 
 ###### Questions
 
-Dans quelle série télévisée des années 1990, [[Pamela Anderson]] est-elle devenue célèbre grâce à son personnage de [[C.J. Parker]] ?
+Quelle actrice incarne la sauveteuse C.J. Parker dans [[Alerte à Malibu]] ?
 
-En quelle année [[Pamela Anderson]] a-t-elle posé pour la première fois pour le magazine [[Playboy]] avant de devenir une star d'[[Alerte à Malibu]] ?
+Quelle actrice canadienne, repérée en 1989 sur l'écran géant d'un match des [[BC Lions]], a ensuite fait la une de [[Playboy]] ?
 
-Quel rôle [[Pamela Anderson]] a-t-elle joué dans le film de science-fiction [[Barb Wire]], sorti en 1996 ?
+Quelle actrice tient le rôle-titre de [[Barb Wire]] (1996) ?
 
 ###### Description
 
@@ -43,3 +43,10 @@ Après cet essai au grand écran, elle fut surtout reconnue pour ses apparitions
 
 Enfin, elle a fait un caméo mémorable dans "[[Scary Movie 3]]" sorti en 2003, où elle parodie son image publique avec ironie.
 
+###### Archives questions
+
+Dans quelle série télévisée des années 1990, [[Pamela Anderson]] est-elle devenue célèbre grâce à son personnage de [[C.J. Parker]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Pamela Anderson]] a-t-elle posé pour la première fois pour le magazine [[Playboy]] avant de devenir une star d'[[Alerte à Malibu]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle [[Pamela Anderson]] a-t-elle joué dans le film de science-fiction [[Barb Wire]], sorti en 1996 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,12 +29,20 @@ culture_g_justification: "Actrice française internationale associée à James B
 
 ###### Questions
 
-Dans quel film de [[Quentin Tarantino]] sorti en 2019, [[Léa Seydoux]] a-t-elle joué un rôle de membre de la [[famille Manson]] ?
+Quelle actrice a partagé en 2013 la [[Palme d'or]] avec [[Adèle Exarchopoulos]] et [[Abdellatif Kechiche]] pour [[La Vie d'Adèle]] ?
 
-Dans quel film de [[James Bond]] de 2015 [[Léa Seydoux]] interprète-t-elle le personnage de [[Madeleine Swann]] aux côtés de [[Daniel Craig]] ?
+Quelle actrice incarne Madeleine Swann face à [[Daniel Craig]] dans [[007 Spectre]] (2015) ?
 
-Dans quelle adaptation cinématographique du conte "[[La Belle et la Bête]]", sortie en 2014, [[Léa Seydoux]] joue-t-elle le rôle de la [[Belle]] ?
+Quelle actrice joue Belle face à [[Vincent Cassel]] dans [[La Belle et la Bête]] de [[Christophe Gans]] (2014) ?
 
 ###### Description
 
 [[Léa Seydoux]] est une actrice française née le 1er juillet 1985 à Paris. Elle a remporté le [[Prix Lumières]] de la meilleure actrice pour son rôle dans "Belle Épine" en 2010. En 2013, elle a reçu la [[Palme d'or]] au Festival de Cannes pour le film "La Vie d'[[Adèle]]". Elle est également connue pour sa participation dans la saga [[James Bond]], où elle incarne le personnage de [[Madeleine Swann]] dans "Spectre" sorti en 2015 et "No Time to Die" en 2021.
+
+###### Archives questions
+
+Dans quel film de [[Quentin Tarantino]] sorti en 2019, [[Léa Seydoux]] a-t-elle joué un rôle de membre de la [[famille Manson]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[James Bond]] de 2015 [[Léa Seydoux]] interprète-t-elle le personnage de [[Madeleine Swann]] aux côtés de [[Daniel Craig]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle adaptation cinématographique du conte "[[La Belle et la Bête]]", sortie en 2014, [[Léa Seydoux]] joue-t-elle le rôle de la [[Belle]] ? <!-- cm003 remplacée 2026-11-23 -->

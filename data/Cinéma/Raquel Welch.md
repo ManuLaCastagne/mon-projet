@@ -29,12 +29,20 @@ culture_g_justification: "Icône populaire du cinéma des années 1960, surtout 
 
 ###### Questions
 
-Dans quel film de 1966, Raquel Welch a-t-elle joué le rôle de [[Cora Peterson]], où elle rétrécit à la taille microscopique dans un sous-marin ?
+Quelle actrice joue Cora Peterson, membre de l'équipe miniaturisée du [[Le Voyage fantastique|Voyage fantastique]] (1966) ?
 
-Dans quelle célèbre photographie de 1966, voit-on Raquel Welch vêtue d'un bikini en peau d'animal pour promouvoir son rôle dans le film [[One Million Years B.C.]] ?
+Quelle actrice pose en bikini en peau de bête sur une photo promotionnelle restée célèbre d'[[Un million d'années avant J.C.]] (1966) ?
 
-Quel rôle exécutif et financier Raquel Welch a-t-elle refusé à [[Fox Studios]] en 1982, en raison d'un litige célèbre concernant le film avorté [[Cannery Row]] ?
+Quelle actrice, renvoyée du tournage de [[Rue de la sardine]] (1982), a gagné son procès contre la [[Metro-Goldwyn-Mayer|MGM]] ?
 
 ###### Description
 
 [[Raquel Welch]] a marqué le monde du [[cinéma]] par son charisme et son talent, devenant une icône des années 1960 et 1970. Elle est particulièrement célèbre pour son rôle dans le film de science-fiction "[[Fantastic Voyage]]" sorti en 1966, qui a véritablement lancé sa carrière internationale. En 1966, elle a également interprété un rôle mémorable dans "[[One Million Years B.C.]]", où son apparition dans un bikini en peau de bête est devenue légendaire et emblématique de la culture populaire. Tout au long de sa carrière, Raquel Welch a collaboré avec de nombreux réalisateurs prestigieux et a reçu le prestigieux [[Golden Globe]] de la meilleure actrice en 1975 pour son rôle dans "[[The Three Musketeers]]".
+
+###### Archives questions
+
+Dans quel film de 1966, Raquel Welch a-t-elle joué le rôle de [[Cora Peterson]], où elle rétrécit à la taille microscopique dans un sous-marin ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle célèbre photographie de 1966, voit-on Raquel Welch vêtue d'un bikini en peau d'animal pour promouvoir son rôle dans le film [[One Million Years B.C.]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle exécutif et financier Raquel Welch a-t-elle refusé à [[Fox Studios]] en 1982, en raison d'un litige célèbre concernant le film avorté [[Cannery Row]] ? <!-- cm003 remplacée 2026-11-23 -->

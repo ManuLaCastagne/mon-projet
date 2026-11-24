@@ -29,12 +29,20 @@ culture_g_justification: "Duo associé à plusieurs comédies célèbres et à u
 
 ###### Questions
 
-Quel duo de réalisateurs, connu pour des comédies déjantées, a fait ses débuts avec le film "[[Dumb and Dumber]]" en 1994 ?
+Quel duo fraternel a débuté à la réalisation avec [[Dumb and Dumber]] (1994), avec [[Jim Carrey]] et [[Jeff Daniels]] ?
 
-Dans quel film des [[Frères Farrelly]] sorti en 1998, une frange de cheveux devient-elle célèbre ?
+Quel duo de réalisateurs a signé [[Mary à tout prix]] (1998), où [[Cameron Diaz]] arbore une mèche dressée devenue culte ?
 
-Quel duo de réalisateurs a remporté l'Oscar du meilleur film en 2019 pour "[[Green Book]]" ?
+Quel duo de réalisateurs a signé [[L'Amour extra-large]] (2001), avec [[Gwyneth Paltrow]] et [[Jack Black]] ?
 
 ###### Description
 
 Les [[Frères Farrelly]], soit [[Peter Farrelly]] et [[Bobby Farrelly]], sont des réalisateurs et scénaristes américains renommés pour leurs comédies à succès. Leur premier grand succès est venu avec le film "[[Dumb and Dumber]]" sorti en 1994, qui a propulsé [[Jim Carrey]] au rang de superstar. En 1998, ils ont réalisé [[Mary à tout prix]], un autre film culte qui a notamment mis en vedette [[Cameron Diaz]] et [[Ben Stiller]]. Puis en 2018, [[Peter Farrelly]] s'est aventuré en solo avec "[[Green Book]]", un film qui a remporté l'Oscar du Meilleur Film, marquant ainsi un tournant dans sa carrière.
+
+###### Archives questions
+
+Dans quel film des [[Frères Farrelly]] sorti en 1998, une frange de cheveux devient-elle célèbre ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel duo de réalisateurs, connu pour des comédies déjantées, a fait ses débuts avec le film "[[Dumb and Dumber]]" en 1994 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel duo de réalisateurs a remporté l'Oscar du meilleur film en 2019 pour "[[Green Book]]" ? <!-- cm003 remplacée 2026-11-23 -->

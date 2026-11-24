@@ -30,11 +30,11 @@ culture_g_justification: "Comédie française populaire ayant donné son nom à 
 
 ###### Questions
 
-Dans le film [[Tanguy]] sorti en 2001, quel est le prénom du personnage principal qui refuse de quitter le domicile familial ? <!-- score: 9 -->
+Quel prénom porte le fils de 28 ans qui refuse de quitter ses parents dans le film d'[[Étienne Chatiliez]] (2001) ?
 
-Quel est le nom du film réalisé par [[Étienne Chatiliez]] où un jeune homme reste vivre chez ses parents jusqu'à l'âge de 28 ans, sorti en 2001 ? <!-- score: 6 -->
+Dans quel film de 2001 les parents joués par [[Sabine Azéma]] et [[André Dussollier]] tentent-ils de se débarrasser de leur fils ?
 
-Dans quelle comédie française, sortie en 2001, peut-on voir le personnage principal vivre encore chez ses parents malgré son âge adulte ?
+Quel prénom, popularisé par une comédie de 2001, désigne familièrement un jeune adulte qui s'éternise chez ses parents ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Il raconte l'histoire de [[Tanguy Guetz]], un trentenaire interprété par [[Ér
 Le film explore avec humour le thème de la génération boomerang, où les enfants ont du mal à quitter le nid familial, une problématique qui devient centrale dans le cinéma des années 2000. 
 
 "Tanguy" a connu un succès notable au box-office français, réalisant plus de 4 millions d'entrées lors de sa sortie.
+
+###### Archives questions
+
+Dans le film [[Tanguy]] sorti en 2001, quel est le prénom du personnage principal qui refuse de quitter le domicile familial ? <!-- score: 9 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du film réalisé par [[Étienne Chatiliez]] où un jeune homme reste vivre chez ses parents jusqu'à l'âge de 28 ans, sorti en 2001 ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle comédie française, sortie en 2001, peut-on voir le personnage principal vivre encore chez ses parents malgré son âge adulte ? <!-- cm003 remplacée 2026-11-23 -->

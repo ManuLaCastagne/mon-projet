@@ -29,12 +29,20 @@ culture_g_justification: "Actrice française populaire, surtout identifiable par
 
 ###### Questions
 
-Dans quel film de 2008 [[Alexandra Lamy]] a-t-elle incarné le rôle principal féminin aux côtés de [[Jean Dujardin]], reprenant ainsi à l'écran leur célèbre duo de [[Un gars, une fille]] ?
+Quelle actrice formait avec [[Jean Dujardin]] le couple Chouchou et Loulou dans la série [[Un gars, une fille]] ?
 
-En 2013, pour quel téléfilm français [[Alexandra Lamy]] a-t-elle reçu le [[prix d'interprétation féminine]] au Festival de la télévision de [[Monte-Carlo]] ?
+Quelle actrice joue Katie, mère d'un bébé à qui poussent des ailes, dans [[Ricky]] de [[François Ozon]] (2009) ?
 
-Dans quelle comédie romantique de 2011, [[Alexandra Lamy]] joue-t-elle le rôle de [[Sophie]], une femme enceinte qui rencontre son amour d'enfance joué par [[Franck Dubosc]] lors d'un trajet en [[TGV]] ?
+Quelle actrice joue la femme paraplégique que séduit [[Franck Dubosc]], faux handicapé, dans [[Tout le monde debout]] (2018) ?
 
 ###### Description
 
 [[Alexandra Lamy]] est une actrice française née en 1971, qui s'est imposée dans le paysage cinématographique français grâce à son charme et sa polyvalence. Elle est devenue un visage familier grâce à la série télévisée "[[Un gars, une fille]]" diffusée de 1999 à 2003, où elle partageait l'affiche avec [[Jean Dujardin]]. Sa carrière au cinéma a été marquée par sa performance dans "Ricky" en 2009, un film de [[François Ozon]], où elle interprète le rôle audacieux d'une mère confrontée à un enfant aux pouvoirs extraordinaires. En 2013, elle a également joué dans "[[Jamais le premier soir]]", une comédie romantique aux côtés de [[Mélanie Doutey]] et [[Julie Ferrier]], affirmant ainsi sa capacité à briller dans des rôles comiques comme dramatiques.
+
+###### Archives questions
+
+Dans quel film de 2008 [[Alexandra Lamy]] a-t-elle incarné le rôle principal féminin aux côtés de [[Jean Dujardin]], reprenant ainsi à l'écran leur célèbre duo de [[Un gars, une fille]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2013, pour quel téléfilm français [[Alexandra Lamy]] a-t-elle reçu le [[prix d'interprétation féminine]] au Festival de la télévision de [[Monte-Carlo]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle comédie romantique de 2011, [[Alexandra Lamy]] joue-t-elle le rôle de [[Sophie]], une femme enceinte qui rencontre son amour d'enfance joué par [[Franck Dubosc]] lors d'un trajet en [[TGV]] ? <!-- cm003 remplacée 2026-11-23 -->

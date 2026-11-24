@@ -32,9 +32,9 @@ culture_g_justification: "Actrice française fortement associée à Nikita et à
 
 Quelle actrice a reçu le [[César de la meilleure actrice]] en 1991 pour le rôle-titre de [[Nikita]], de [[Luc Besson]] ?
 
-Quel César a été remporté par [[Anne Parillaud]] en 1991 pour sa performance dans le film [[Nikita]] ?
+Quelle actrice française joue Marie, une vampire, dans [[Innocent Blood]] de [[John Landis]] (1992) ?
 
-Avec quel acteur britannique [[Anne Parillaud]] a-t-elle été mariée entre 2005 et 2010 ?
+Quelle actrice a été l'épouse du musicien [[Jean-Michel Jarre]] de 2005 à 2010 ?
 
 ###### Description
 
@@ -43,3 +43,7 @@ Avec quel acteur britannique [[Anne Parillaud]] a-t-elle été mariée entre 200
 ###### Archives questions
 
 Quel rôle emblématique [[Anne Parillaud]] a-t-elle interprété dans le film [[Nikita]] réalisé par [[Luc Besson]] en 1990 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel César a été remporté par [[Anne Parillaud]] en 1991 pour sa performance dans le film [[Nikita]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Avec quel acteur britannique [[Anne Parillaud]] a-t-elle été mariée entre 2005 et 2010 ? <!-- cm003 remplacée 2026-11-23 -->

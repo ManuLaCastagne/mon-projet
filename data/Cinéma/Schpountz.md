@@ -29,9 +29,9 @@ culture_g_justification: "Classique de Pagnol et de Fernandel, important dans le
 
 ###### Questions
 
-Dans quel film de [[Marcel Pagnol]] réalisé en 1938 peut-on trouver le personnage nommé [[Schpountz]] interprété par [[Fernandel]] ?
+Quel mot d'argot des studios, désignant un naïf persuadé d'avoir l'étoffe d'une vedette, donne son titre à un film de [[Marcel Pagnol]] (1938) ?
 
-Quel est le nom du personnage principal du film français sorti en 1938, où un jeune homme rêve de devenir une star de cinéma, mais se retrouve piégé dans une farce organisée par un groupe de techniciens ?
+Quel film de [[Marcel Pagnol]] a été adapté en 1999 par [[Gérard Oury]] avec [[Smaïn]] dans le rôle principal ?
 
 Quel surnom est donné au personnage d'[[Irénée Fabre]], joué par [[Fernandel]], dans un film comique réalisé par [[Marcel Pagnol]] en 1938 ?
 
@@ -44,3 +44,9 @@ Le film [[Le Schpountz]], réalisé par [[Marcel Pagnol]] en 1938, est une comé
 Le scénario, inspiré par le monde du cinéma lui-même, offre une satire des illusions et des désillusions que ce milieu peut provoquer chez ceux qui s'y aventurent sans préparation. 
 
 En 1999, [[Gérard Oury]] réalise une nouvelle version du film, intitulée [[Le Schpountz 1999]], témoignant de l'impact durable de ce classique du cinéma français.
+
+###### Archives questions
+
+Dans quel film de [[Marcel Pagnol]] réalisé en 1938 peut-on trouver le personnage nommé [[Schpountz]] interprété par [[Fernandel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du personnage principal du film français sorti en 1938, où un jeune homme rêve de devenir une star de cinéma, mais se retrouve piégé dans une farce organisée par un groupe de techniciens ? <!-- cm003 remplacée 2026-11-23 -->

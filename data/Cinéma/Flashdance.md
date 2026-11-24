@@ -27,11 +27,11 @@ culture_g_justification: "Film musical emblématique des années 1980, retenu po
 
 ###### Questions
 
-Dans quelle scène du film [[Flashdance]], sorti en 1983, le personnage principal [[Alex Owens]] prend-elle son pied lorsqu'elle soulève un seau d'eau lors d'une audition devant le jury, moment culte souvent parodié?
+Dans quel film d'[[Adrian Lyne]] sorti en 1983 une soudeuse de [[Pittsburgh]], danseuse de cabaret la nuit, rêve-t-elle d'intégrer une prestigieuse école de danse ?
 
-Quel film emblématique des années 80, se déroulant à [[Pittsburgh]], met en vedette [[Jennifer Beals]] et est reconnu pour la bande sonore composée par [[Giorgio Moroder]], ayant propulsé le titre "Flashdance... What a Feeling" en tête des ventes?
+Quel film de 1983 a valu à [[Irene Cara]] et [[Giorgio Moroder]] l'Oscar de la meilleure chanson originale ?
 
-Quel long-métrage réalisé par [[Adrian Lyne]] a popularisé le style vestimentaire des manches déchirées et les collants, influençant ainsi considérablement la mode dans le milieu des années 80? <!-- score: 4 -->
+Quel film de 1983 a lancé la mode du sweat-shirt à l'encolure découpée tombant sur l'épaule, porté par [[Jennifer Beals]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Il met en vedette [[Jennifer Beals]], qui incarne [[Alex Owens]], une jeune femm
 La bande originale du film, avec des titres phares comme "[[Flashdance... What a Feeling]]" interprété par [[Irene Cara]], a remporté l'[[Oscar de la meilleure chanson originale]] en 1984 ou encore [[Maniac]] interprété par [[Michael Senbello]].
 
 Dans le cadre des jeux télévisés, il est intéressant de noter que le succès colossal du film a contribué à populariser le style de danse "street dance" à travers le monde, se classant comme le troisième film le plus lucratif aux États-Unis en 1983.
+
+###### Archives questions
+
+Dans quelle scène du film [[Flashdance]], sorti en 1983, le personnage principal [[Alex Owens]] prend-elle son pied lorsqu'elle soulève un seau d'eau lors d'une audition devant le jury, moment culte souvent parodié? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film emblématique des années 80, se déroulant à [[Pittsburgh]], met en vedette [[Jennifer Beals]] et est reconnu pour la bande sonore composée par [[Giorgio Moroder]], ayant propulsé le titre "Flashdance... What a Feeling" en tête des ventes? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel long-métrage réalisé par [[Adrian Lyne]] a popularisé le style vestimentaire des manches déchirées et les collants, influençant ainsi considérablement la mode dans le milieu des années 80? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

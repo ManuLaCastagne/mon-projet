@@ -27,11 +27,11 @@ culture_g_justification: "Actrice française contemporaine connue pour Connasse,
 
 ###### Questions
 
-Dans quelle série à succès de [[Canal+]], sortie en 2015, [[Camille Cottin]] interprète-t-elle le rôle de [[Andréa Martel]] ?
+Quelle actrice incarne l'agente Andréa Martel dans la série [[Dix pour cent]] (2015) ?
 
-Dans quel film de [[Paul Verhoeven]] sorti en 2021, [[Camille Cottin]] joue-t-elle aux côtés de [[Virginie Efira]] ?
+Quelle actrice française donne la réplique à [[Matt Damon]] dans [[Stillwater]] de [[Tom McCarthy]] (2021) ?
 
-Quel rôle a catapulté [[Camille Cottin]] vers la célébrité en 2013 grâce à une série de sketchs humoristiques sur [[YouTube]] et [[Canal+]] ?
+Quelle actrice s'est fait connaître en 2013 avec la série en caméra cachée [[Connasse]] sur [[Canal+]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Elle a également acquis une reconnaissance internationale en jouant dans la sé
 Fait étonnant : avant sa carrière d'actrice, Camille a enseigné l'anglais, un parcours rarement souligné dans les interviews mais qui témoigne de sa polyvalence. 
 
 Parmi ses collaborations notables, on compte sa participation à des films aux côtés de [[Brad Pitt]] et [[Marion Cotillard]], notamment dans "[[Allied]]" en 2016.
+
+###### Archives questions
+
+Dans quelle série à succès de [[Canal+]], sortie en 2015, [[Camille Cottin]] interprète-t-elle le rôle de [[Andréa Martel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Paul Verhoeven]] sorti en 2021, [[Camille Cottin]] joue-t-elle aux côtés de [[Virginie Efira]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle a catapulté [[Camille Cottin]] vers la célébrité en 2013 grâce à une série de sketchs humoristiques sur [[YouTube]] et [[Canal+]] ? <!-- cm003 remplacée 2026-11-23 -->

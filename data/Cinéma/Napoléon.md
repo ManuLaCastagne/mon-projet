@@ -28,11 +28,11 @@ culture_g_justification: "Le sujet renvoie à plusieurs films consacrés à Napo
 
 ###### Questions
 
-Quel film historique, centré sur la vie de [[Napoléon Bonaparte]], a été réalisé par [[Abel Gance]] en 1927 et est connu pour son utilisation innovante du procédé de la triple perspective ?
+Quel film muet d'[[Abel Gance]] (1927) s'achève sur un triptyque projeté sur trois écrans ?
 
-Dans quel projet de film mégalomaniaque, jamais réalisé par [[Stanley Kubrick]], [[Napoléon Bonaparte]] devait-il être incarné par plusieurs acteurs, faisant notamment appel à une énorme quantité de figurants et un budget pharaonique dans les années 1970 ?
+Quel projet de film, longuement préparé par [[Stanley Kubrick]] à la fin des années 1960, n'a jamais été tourné ?
 
-Quel film de [[Ridley Scott]], sorti en 2023, met en scène [[Joaquin Phoenix]] dans le rôle titre, replongeant ainsi le public dans les batailles et la vie personnelle de [[Napoléon Bonaparte]] ?
+Quel film de [[Ridley Scott]] (2023) offre à [[Joaquin Phoenix]] le rôle de l'empereur face à [[Vanessa Kirby]] en Joséphine ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Cette œuvre monumentale a été innovante pour son époque, notamment grâce à
 En 1955, le film a été restauré par le cinéaste britannique [[Kevin Brownlow]], permettant à de nombreuses générations de découvrir l'impressionnante fresque historique.
 
 [[Albert Dieudonné]] incarne le rôle de [[Napoléon Bonaparte]] avec une intensité remarquable, capturant la complexité du personnage à travers les années de la Révolution française.
+
+###### Archives questions
+
+Quel film historique, centré sur la vie de [[Napoléon Bonaparte]], a été réalisé par [[Abel Gance]] en 1927 et est connu pour son utilisation innovante du procédé de la triple perspective ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel projet de film mégalomaniaque, jamais réalisé par [[Stanley Kubrick]], [[Napoléon Bonaparte]] devait-il être incarné par plusieurs acteurs, faisant notamment appel à une énorme quantité de figurants et un budget pharaonique dans les années 1970 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de [[Ridley Scott]], sorti en 2023, met en scène [[Joaquin Phoenix]] dans le rôle titre, replongeant ainsi le public dans les batailles et la vie personnelle de [[Napoléon Bonaparte]] ? <!-- cm003 remplacée 2026-11-23 -->

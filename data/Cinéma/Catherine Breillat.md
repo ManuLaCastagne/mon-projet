@@ -29,12 +29,20 @@ culture_g_justification: "Réalisatrice française singulière, utile pour le ci
 
 ###### Questions
 
-Quel réalisateur français a créé la controverse avec son film publié en 2001, « [[À ma sœur !]] » qui aborde sans détour la sexualité adolescente ? 
+Quelle réalisatrice a signé [[À ma sœur !]] (2001), récit cru de l'adolescence de deux sœurs ?
 
-Qui est l'auteur du livre publié en 1976 intitulé « [[L'Homme facile]] », qui a ensuite été adapté à l'écran sous le nom de [[Catherine Breillat]] ?
+Quelle romancière et cinéaste a publié en 1968 son premier roman, [[L'Homme facile]], aussitôt interdit aux moins de 18 ans ?
 
-Quel metteur en scène a exploré des thèmes tels que la féminité, le pouvoir et le désir dans son long métrage sorti en 2013, « [[Abus de faiblesse]] » ?
+Quelle cinéaste raconte dans [[Abus de faiblesse]] (2013), avec [[Isabelle Huppert]], l'escroquerie dont elle a été victime de la part de [[Christophe Rocancourt]] ?
 
 ###### Description
 
 [[Catherine Breillat]] est une réalisatrice et scénariste française connue pour son approche audacieuse et provocante du cinéma. Elle a fait ses débuts en tant que réalisatrice avec le film [[Une vraie jeune fille]] en 1976, bien qu'il ne soit sorti qu'en 1999 pour des raisons de censure. Breillat a ensuite marqué les esprits avec [[Romance]] en 1999, un film qui a suscité des débats pour sa représentation explicite de la sexualité féminine. En 2001, elle a continué de choquer et d'interpeller avec [[À ma sœur !]], qui a remporté le Prix Manfred Salzgeber à la [[Berlinale]], récompensant un film innovant et audacieux.
+
+###### Archives questions
+
+Qui est l'auteur du livre publié en 1976 intitulé « [[L'Homme facile]] », qui a ensuite été adapté à l'écran sous le nom de [[Catherine Breillat]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel réalisateur français a créé la controverse avec son film publié en 2001, « [[À ma sœur !]] » qui aborde sans détour la sexualité adolescente ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel metteur en scène a exploré des thèmes tels que la féminité, le pouvoir et le désir dans son long métrage sorti en 2013, « [[Abus de faiblesse]] » ? <!-- cm003 remplacée 2026-11-23 -->

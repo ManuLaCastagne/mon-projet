@@ -29,11 +29,11 @@ culture_g_justification: "Actrice française très connue, utile pour Manon des 
 
 ###### Questions
 
-Dans quel film de 1986 [[Emmanuelle Béart]] incarne-t-elle le personnage de [[Manon]], lui valant le César de la meilleure actrice dans un second rôle ?
+Quelle actrice a reçu en 1987 le César du meilleur second rôle féminin pour son rôle de Manon dans [[Manon des sources]] de [[Claude Berri]] ?
 
-Quel rôle controversé a joué [[Emmanuelle Béart]] dans le film [[La Belle Noiseuse]] de 1991, un film qui a attiré l'attention pour ses scènes de nudité artistique ?
+Quelle actrice pose comme modèle pour le peintre Frenhofer, joué par [[Michel Piccoli]], dans [[La Belle Noiseuse]] de [[Jacques Rivette]] (1991) ?
 
-Avec quel acteur célèbre [[Emmanuelle Béart]] a-t-elle partagé l'affiche dans le film [[Mission: Impossible]] de 1996, jouant le personnage de [[Claire Phelps]] ?
+Quelle actrice française incarne Claire Phelps aux côtés de [[Tom Cruise]] dans [[Mission impossible]] de [[Brian De Palma]] (1996) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Avec quel acteur célèbre [[Emmanuelle Béart]] a-t-elle partagé l'affiche dan
 En 1995, elle a joué aux côtés de [[Tom Cruise]] dans le film à succès international « [[Mission Impossible]] », réalisé par [[Brian De Palma]]. 
 
 En plus de sa carrière cinématographique, elle est connue pour son engagement en faveur des droits de l'homme, notamment en s'impliquant avec l'association [[UNICEF]] depuis 1996.
+
+###### Archives questions
+
+Dans quel film de 1986 [[Emmanuelle Béart]] incarne-t-elle le personnage de [[Manon]], lui valant le César de la meilleure actrice dans un second rôle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle controversé a joué [[Emmanuelle Béart]] dans le film [[La Belle Noiseuse]] de 1991, un film qui a attiré l'attention pour ses scènes de nudité artistique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Avec quel acteur célèbre [[Emmanuelle Béart]] a-t-elle partagé l'affiche dans le film [[Mission: Impossible]] de 1996, jouant le personnage de [[Claire Phelps]] ? <!-- cm003 remplacée 2026-11-23 -->
