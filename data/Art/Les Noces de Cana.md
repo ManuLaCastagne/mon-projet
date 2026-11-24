@@ -21,9 +21,10 @@ indice_5:
 indice_6:
   - Renaissance italienne
 questions:
-  - Toile de 1562 dans laquelle mon auteur s'est représenté en train de jouer de la viole, j'ai été commandée par des bénédictins pour orner leur réfectoire. Mélangeant les références bibliques et contemporaines, je montre 132 personnages attablés lors d'un repas de fête...
 culture_g_score: 88
 culture_g_justification: "Monument de la peinture vénitienne, très fréquemment lié à Véronèse, aux récits bibliques, au Louvre et à l’histoire napoléonienne."
+questions_tv_archivees:
+  - Toile de 1562 dans laquelle mon auteur s'est représenté en train de jouer de la viole, j'ai été commandée par des bénédictins pour orner leur réfectoire. Mélangeant les références bibliques et contemporaines, je montre 132 personnages attablés lors d'un repas de fête...
 ---
 ![Image de Les Noces de Cana](https://upload.wikimedia.org/wikipedia/commons/9/95/%28Castres%29_Les_Noces_de_Cana_-_Ecole_espagnole_du_XVIIe_-_Mus%C3%A9e_Goya.jpg)
 
@@ -36,6 +37,8 @@ Quel tableau monumental peint en 1563 par [[Véronèse]] représente le [[miracl
 Quel chef-d'œuvre de [[Véronèse]], mesurant environ 6,77 mètres de haut sur 9,94 mètres de large, est actuellement exposé au [[Musée du Louvre]] après avoir été volé par [[Napoléon Bonaparte]] en 1797 lors de la [[Campagne d'Italie]] ?
 
 Quel tableau, commandé pour le [[réfectoire]] du [[couvent bénédictin]] de [[San Giorgio Maggiore]] à [[Venise]], est célèbre pour son utilisation de la [[perspective]], plaçant plus de 130 personnages dans une scène de banquet opulent ?
+
+Quelle immense toile de [[Véronèse]] (1562-1563), peinte pour le réfectoire des bénédictins de [[San Giorgio Maggiore]] à Venise et aujourd'hui au [[Louvre]], montre plus de 130 convives d'un festin biblique ? <!-- source: tv -->
 
 ###### Description
 

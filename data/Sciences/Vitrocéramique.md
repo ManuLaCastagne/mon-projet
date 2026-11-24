@@ -19,9 +19,10 @@ indice_5 :
 indice_6 : 
   - Vitrocéramique
 questions:
- - Employé pour fabriquer des composants électroniques, des prothèses dentaires et des cocottes...
 culture_g_score: 45
 culture_g_justification: "Matériau assez connu grâce aux plaques de cuisson, mais encore peu fréquent dans les quiz généralistes."
+questions_tv_archivees:
+  - Employé pour fabriquer des composants électroniques, des prothèses dentaires et des cocottes...
 ---
 ![Image de Vitrocéramique](https://upload.wikimedia.org/wikipedia/commons/a/a6/Schott_Ceran_glass-ceramic_cooktop.jpg)
 
@@ -32,6 +33,8 @@ Quel matériau a été découvert par hasard en 1953 par [[Donald Stookey]] chez
 Quel matériau, mis en avant par la société [[Schott AG]] dans les années [[1970]], est connu pour sa capacité à résister à de grandes variations de température sur les plaques de cuisson ? <!-- score: 4 -->
 
 Quel matériau, obtenu par cristallisation contrôlée d'un verre, sert à fabriquer des prothèses dentaires, des composants électroniques et des cocottes ?
+
+Quel matériau, à mi-chemin entre le verre et la céramique, sert à fabriquer des plaques de cuisson, des prothèses dentaires et des composants électroniques ? <!-- source: tv -->
 
 ###### Description
 

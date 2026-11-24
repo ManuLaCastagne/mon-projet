@@ -21,9 +21,10 @@ indice_5 :
 indice_6 : 
   - siècle des Lumières
 questions:
- - Dans un roman de Bernardin de Saint Pierre de 1788, quelle jeune fille est amoureuse de son ami Paul ?
 culture_g_score: 68
 culture_g_justification: "Roman classique français fréquemment relié au romantisme, à l’île Maurice, à l’abolitionnisme et à son adaptation musicale."
+questions_tv_archivees:
+  - Dans un roman de Bernardin de Saint Pierre de 1788, quelle jeune fille est amoureuse de son ami Paul ?
 ---
 ![Image de Paul et Virginie](https://upload.wikimedia.org/wikipedia/commons/6/61/La_Ferrandi%C3%A8re_-_Romance_de_Paul_et_Virginie%2C_page_de_titre%2C_1789.png)
 
@@ -36,6 +37,8 @@ Quelle œuvre littéraire a été inspirée par un naufrage survenu au large de 
 Dans quel roman, exploité par [[Lamartine]] dans ses discours abolitionnistes, un couple porte respectivement les prénoms de [[Paul]] et [[Virginie]] ?
 
 Dans quel roman de 1788 deux mères, Madame de La Tour et Marguerite, élèvent-elles ensemble leurs enfants sur l'île de France ?
+
+Quel roman de [[Bernardin de Saint-Pierre]], publié en 1788, raconte l'amour de deux enfants élevés ensemble sur l'île de France, l'actuelle [[île Maurice]] ? <!-- source: tv -->
 
 ###### Description
 

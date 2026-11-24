@@ -19,9 +19,10 @@ indice_5 :
 indice_6 : 
   - animateur télévisé
 questions:
- - de Poing et le Tyrolien. Tourné dans un décor comportant des vitrines et une grande roue que les candidats faisaient tourner...
 culture_g_score: 73
 culture_g_justification: "Jeu télévisé très connu, régulièrement interrogé par son concept, ses animateurs, TF1 et son adaptation de The Price Is Right."
+questions_tv_archivees:
+  - de Poing et le Tyrolien. Tourné dans un décor comportant des vitrines et une grande roue que les candidats faisaient tourner...
 ---
 ![Image de Le Juste Prix](https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_TF1%2B.svg)
 
@@ -34,6 +35,8 @@ Quel programme a été animé par [[Philippe Risoli]], [[Vincent Lagaf']] et [[L
 Quel célèbre jeu offre des prix aux candidats qui doivent deviner le juste prix des produits, et a fêté ses 30 ans de diffusion en [[2017]] ? <!-- score: 9 -->
 
 Quel jeu télévisé de [[TF1]], adapté de l'américain The Price Is Right, a été présenté par [[Philippe Risoli]] de 1992 à 2001 ?
+
+Quel jeu de TF1, présenté par [[Philippe Risoli]] puis par [[Vincent Lagaf']], proposait des épreuves comme le Tyrolien et une grande roue que les candidats faisaient tourner ? <!-- source: tv -->
 
 ###### Description
 
