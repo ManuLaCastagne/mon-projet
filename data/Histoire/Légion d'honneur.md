@@ -27,7 +27,7 @@ creation: cm023
 
 Quelle distinction, créée par [[Napoléon Bonaparte|Bonaparte]] en 1802, porte la devise « Honneur et Patrie » ?
 
-Quelle décoration le capitaine [[Alfred Dreyfus]] reçut-il le 21 juillet 1906 à l'[[École militaire]], là même où il avait été dégradé en 1895 ?
+Quelle décoration [[Alfred Dreyfus]] reçut-il le 21 juillet 1906 à l'[[École militaire]], là même où il avait été dégradé en 1895 ?
 
 Quelle décoration, au ruban rouge, fut remise pour la première fois par [[Napoléon Bonaparte|Napoléon Ier]] aux [[Invalides]] en juillet 1804 ?
 
