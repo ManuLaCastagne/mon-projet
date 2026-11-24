@@ -33,7 +33,7 @@ Quelle agence spatiale a exploité la [[navette spatiale]] américaine de 1981 �
 
 ###### Description
 
-La [[NASA]] (National Aeronautics and Space Administration) est l'agence spatiale des [[États-Unis]]. Elle a été créée en 1958, peu après le lancement de [[Spoutnik|Spoutnik 1]] par l'[[Union soviétique]], en pleine [[course à l'espace]].
+La [[NASA]] (National Aeronautics and Space Administration) est l'agence spatiale des [[États-Unis]]. Elle a été créée en 1958, peu après le lancement de [[Spoutnik|Spoutnik 1]] par l'[[URSS|Union soviétique]], en pleine [[course à l'espace]].
 
 Elle mène les programmes Mercury et Gemini, puis le [[programme Apollo]], qui permet à [[Neil Armstrong]] et [[Buzz Aldrin]] de marcher sur la Lune en juillet 1969 lors de la mission [[Apollo 11]]. Les lancements se font depuis le [[centre spatial Kennedy]], en [[Floride]], voisin de [[Cap Canaveral]], et les vols habités sont suivis depuis [[Houston]].
 

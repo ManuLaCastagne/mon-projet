@@ -27,7 +27,7 @@ creation: cm023
 
 Quelle distinction, créée par [[Napoléon Bonaparte|Bonaparte]] en 1802, porte la devise « Honneur et Patrie » ?
 
-Quel ordre français, dont le président de la République est le grand maître, a sa grande chancellerie à l'[[hôtel de Salm]], à Paris ?
+Quelle décoration le capitaine [[Alfred Dreyfus]] reçut-il le 21 juillet 1906 à l'[[École militaire]], là même où il avait été dégradé en 1895 ?
 
 Quelle décoration, au ruban rouge, fut remise pour la première fois par [[Napoléon Bonaparte|Napoléon Ier]] aux [[Invalides]] en juillet 1804 ?
 
