@@ -29,7 +29,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Pays sud-américain fréquemment mobilisé grâce à l’Atacama, l’île de Pâques, la Patagonie, les Andes et son histoire minière."
 ---
-![Image de Chili](https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Chile.svg)
+![Image de Chili](https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg)
 <!-- image remplacée (cm020) : https://upload.wikimedia.org/wikipedia/commons/f/f8/VitorJubini_MercadoDaVilaRubim_Vitoria_ES_%2839182859020%29_%28square_crop%29.jpg -->
 
 ![[Carte_Chili.png]]
