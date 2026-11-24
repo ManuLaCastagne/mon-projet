@@ -30,6 +30,14 @@ Le Product Owner (Emmanuel) a délégué le nettoyage le 23/11/2026 : agir seul 
   · `corriger` (fausse : la remplacer par une question juste ayant la même réponse) · `ecarter` (incohérente
   ou doublon sans fait récupérable ; elle sera archivée).
 
+## Fusion des PR de fiches (règle du PO du 24/11/2026)
+
+Claude peut fusionner lui-même dans `main` une PR de fiches de `mon-projet` si : (1) tous les tests passent
+(outillage, et construction de culture-max sur les données de la PR) ; (2) un agent QA séparé, qui n'a pas produit
+le travail, a relu la PR en lecture seule et rendu le verdict APPROUVÉE. Fusion : `gh api -X PUT
+repos/ManuLaCastagne/mon-projet/pulls/<n>/merge -f merge_method=merge`. Sinon, la PR attend le PO.
+Les PR de l'application `culture-max` passent toujours par le PO.
+
 ## Priorité : les signalements du PO (CM-020)
 
 Avant toute sélection automatique, traiter les tickets **ouverts** du dépôt `ManuLaCastagne/culture-max`
