@@ -33,6 +33,8 @@ Quel programme a été animé par [[Philippe Risoli]], [[Vincent Lagaf']] et [[L
 
 Quel célèbre jeu offre des prix aux candidats qui doivent deviner le juste prix des produits, et a fêté ses 30 ans de diffusion en [[2017]] ? <!-- score: 9 -->
 
+Quel jeu télévisé de [[TF1]], adapté de l'américain The Price Is Right, a été présenté par [[Philippe Risoli]] de 1992 à 2001 ?
+
 ###### Description
 
 [[Le Juste Prix]] est un célèbre jeu télévisé français qui a été diffusé pour la première fois en [[1987]] sur [[TF1]], et a captivé le public par ses présentations originales et attrayantes.

@@ -29,12 +29,20 @@ culture_g_justification: "Acteur très identifiable grâce à une filmographie v
 
 ###### Questions
 
-Dans quelle ville en 2007 [[Nicolas Cage]], emporté par son intérêt pour l'occultisme, a-t-il décidé d'acheter une maison prétendument hantée ?
+Quel acteur américain a acheté en 2007 le manoir LaLaurie, réputé hanté, à [[La Nouvelle-Orléans]] ?
 
-En 2004, quel acteur a acheté aux enchères une collection de têtes réductrices, ajoutant cet achat à son intérêt pour les objets insolites ?
+Quel acteur américain a rendu à la [[Mongolie]] en 2015 un crâne de tyrannosaure volé, acheté 276 000 dollars aux enchères ?
 
-En 2009, quel acteur a perdu une copie d’un célèbre comic book, à savoir [[Action Comics No. 1]], avant de la retrouver et de la vendre à un prix record ?
+Quel acteur s'est fait voler en 2000 son exemplaire d'[[Action Comics No. 1]], la première apparition de Superman, retrouvé onze ans plus tard ?
 
 ###### Description
 
 [[Nicolas Cage]] est un acteur américain renommé né en 1964, connu pour sa vaste filmographie et sa capacité à jouer dans divers genres cinématographiques. Il a remporté l'Oscar du meilleur acteur en 1996 pour son rôle dans "[[Leaving Las Vegas]]", un film qui a marqué un tournant dans sa carrière. Au fil des années, [[Nicolas Cage]] a collaboré avec de nombreux réalisateurs célèbres, comme [[John Woo]] dans "[[Volte/face]]" sorti en 1997, confirmant sa polyvalence et son attrait pour les rôles intenses. Parmi ses prestations inoubliables, on compte également son interprétation dans "[[Lord of War]]" en 2005, où il incarne un marchand d'armes.
+
+###### Archives questions
+
+Dans quelle ville en 2007 [[Nicolas Cage]], emporté par son intérêt pour l'occultisme, a-t-il décidé d'acheter une maison prétendument hantée ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2004, quel acteur a acheté aux enchères une collection de têtes réductrices, ajoutant cet achat à son intérêt pour les objets insolites ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2009, quel acteur a perdu une copie d’un célèbre comic book, à savoir [[Action Comics No. 1]], avant de la retrouver et de la vendre à un prix record ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,12 +29,20 @@ culture_g_justification: "Franchise populaire et très rentable, souvent interro
 
 ###### Questions
 
-Quel film de la franchise [[Fast and Furious]] a introduit le personnage de [[Lucas Black]] en 2006, tout en se déroulant principalement à [[Tokyo]] ? 
+Quelle saga automobile compte un volet tourné à [[Tokyo]] en 2006, dans lequel [[Lucas Black]] incarne Sean Boswell ?
 
-Quel épisode de la saga [[Fast and Furious]], sorti en 2011, a été le premier à réunir les personnages principaux provenant des différents films de la franchise, notamment celui interprété par [[Dwayne Johnson]] ?
+Quelle saga a accueilli [[Dwayne Johnson]] en 2011 dans le rôle de l'agent Luke Hobbs ?
 
-En quelle année le premier volet de la série [[Fast and Furious]] a-t-il été publié, établissant les bases d'une saga centrée sur les courses de rue et l'infiltration policière ?
+Quelle saga débute en 2001 avec [[Vin Diesel]] et [[Paul Walker]] dans le milieu des courses de rue de Los Angeles ?
 
 ###### Description
 
 La saga [[Fast and Furious]] a débuté en 2001 avec le film éponyme réalisé par [[Rob Cohen]], mettant en scène les courses de rue illégales et la vie trépidante de [[Dominic Toretto]] incarné par [[Vin Diesel]]. Ce premier opus a posé les bases d'une franchise à succès, explorant les thèmes de la famille, de la loyauté et du dépassement des limites. En 2011, le cinquième volet, [[Fast Five]], réalisé par [[Justin Lin]], a marqué un tournant en réunissant pour la première fois tous les personnages principaux, tout en introduisant l'agent [[Luke Hobbs]] joué par [[Dwayne Johnson]]. Le neuvième film, [[Fast & Furious 9]], sorti en 2021, a continué d'entretenir la fascination pour les cascades à grande vitesse et les intrigues explosives, consolidant son statut de monument du cinéma d'action.
+
+###### Archives questions
+
+Quel film de la franchise [[Fast and Furious]] a introduit le personnage de [[Lucas Black]] en 2006, tout en se déroulant principalement à [[Tokyo]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel épisode de la saga [[Fast and Furious]], sorti en 2011, a été le premier à réunir les personnages principaux provenant des différents films de la franchise, notamment celui interprété par [[Dwayne Johnson]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année le premier volet de la série [[Fast and Furious]] a-t-il été publié, établissant les bases d'une saga centrée sur les courses de rue et l'infiltration policière ? <!-- cm003 remplacée 2026-11-23 -->

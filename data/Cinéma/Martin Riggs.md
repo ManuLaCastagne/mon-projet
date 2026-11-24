@@ -27,11 +27,11 @@ culture_g_justification: "Personnage central d’une franchise policière très 
 
 ###### Questions
 
-Dans quel film de 1987, Martin Riggs est-il un détective vétéran au tempérament explosif?
+Quel sergent de la police de Los Angeles, ancien béret vert devenu suicidaire après la mort de sa femme, est l'un des héros de L'Arme fatale (1987) ?
 
-Martin Riggs est l'un des personnages principaux de quel film réalisé par [[Richard Donner]]?
+Quel personnage [[Mel Gibson]] incarne-t-il dans les quatre films L'Arme fatale réalisés par [[Richard Donner]] ?
 
-Quel personnage joué par [[Mel Gibson]] est connu pour sa collaboration avec [[Roger Murtaugh]] dans une série de films policiers?
+Quel partenaire de [[Roger Murtaugh]] est incarné par Clayne Crawford dans la série télévisée L'Arme fatale (2016) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Ancien soldat des [[forces spéciales]], il devient détective à la division ho
 Peu de gens savent que, dans la préparation du premier film, le personnage de [[Martin Riggs]] devait initialement être interprété par [[Bruce Willis]], qui a finalement refusé le rôle. 
 
 La popularité du personnage a conduit à la création de trois suites, toutes sorties avant 1999, et a installé [[L'Arme fatale]] comme l'une des franchises d'action les plus marquantes des années 80 et 90.
+
+###### Archives questions
+
+Dans quel film de 1987, Martin Riggs est-il un détective vétéran au tempérament explosif? <!-- cm003 remplacée 2026-11-23 -->
+
+Martin Riggs est l'un des personnages principaux de quel film réalisé par [[Richard Donner]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage joué par [[Mel Gibson]] est connu pour sa collaboration avec [[Roger Murtaugh]] dans une série de films policiers? <!-- cm003 remplacée 2026-11-23 -->

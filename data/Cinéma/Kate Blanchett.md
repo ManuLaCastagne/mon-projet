@@ -29,12 +29,20 @@ culture_g_justification: "Actrice internationale associée au Seigneur des annea
 
 ###### Questions
 
-Dans quel film de [[Peter Jackson]] sorti en 2001 [[Kate Blanchett]] interprète-t-elle le personnage de [[Galadriel]] ?
+Quelle actrice australienne incarne [[Galadriel]] dans La Communauté de l'anneau de [[Peter Jackson]] (2001) ?
 
-En 2014, [[Kate Blanchett]] a remporté l'[[Oscar de la meilleure actrice]] pour son rôle dans quel film réalisé par [[Woody Allen]] ?
+Quelle actrice a remporté l'[[Oscar de la meilleure actrice]] en 2014 pour Blue Jasmine de [[Woody Allen]] ?
 
-Quel personnage de la déesse [[Hela]] la célèbre actrice [[Kate Blanchett]] incarne-t-elle dans le film [[Marvel]] sorti en 2017 intitulé [[Thor: Ragnarok]] ?
+Quelle actrice incarne [[Hela]], déesse de la mort, dans [[Thor: Ragnarok]] (2017) ?
 
 ###### Description
 
 [[Cate Blanchett]] est une actrice australienne acclamée, née le 14 mai 1969 à [[Ivanhoe]], dans l'État de [[Reine Victoria]], en Australie. Elle remporte son premier Oscar en 2005 pour son rôle dans le film [[The Aviator]], réalisé par [[Martin Scorsese]]. En 2014, elle reçoit son deuxième Oscar pour son interprétation dans [[Blue Jasmine]], un film de [[Woody Allen]] sorti en 2013. Blanchett est également connue pour son rôle emblématique de [[Galadriel]] dans la trilogie [[Le Seigneur des Anneaux]], dirigée par [[Peter Jackson]], dont le premier film est sorti en 2001.
+
+###### Archives questions
+
+Dans quel film de [[Peter Jackson]] sorti en 2001 [[Kate Blanchett]] interprète-t-elle le personnage de [[Galadriel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2014, [[Kate Blanchett]] a remporté l'[[Oscar de la meilleure actrice]] pour son rôle dans quel film réalisé par [[Woody Allen]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage de la déesse [[Hela]] la célèbre actrice [[Kate Blanchett]] incarne-t-elle dans le film [[Marvel]] sorti en 2017 intitulé [[Thor: Ragnarok]] ? <!-- cm003 remplacée 2026-11-23 -->

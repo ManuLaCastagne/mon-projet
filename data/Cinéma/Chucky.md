@@ -29,12 +29,20 @@ culture_g_justification: "Personnage emblématique de l’horreur populaire, ass
 
 ###### Questions
 
-Dans quel film d'horreur de 1988 un tueur en série nommé [[Charles Lee Ray]] transfère-t-il son âme dans une poupée nommée [[Chucky]] ? 
+Quel est le nom de la poupée dans laquelle le tueur [[Charles Lee Ray]] transfère son âme dans Jeu d'enfant (1988) ?
 
-Quel film d'horreur célèbre pour sa poupée démoniaque est devenu une série télévisée en 2021 sous le même nom ?
+Quelle poupée tueuse a donné son nom à une série télévisée lancée en 2021 par [[Don Mancini]] ?
 
-Dans quel film de la franchise [[Chucky]] le personnage utilise-t-il pour la première fois l'incantation vaudou pour transférer son âme dans un autre corps ?
+Quelle poupée tueuse a pour compagne Tiffany, incarnée par [[Jennifer Tilly]] à partir de 1998 ?
 
 ###### Description
 
 [[Chucky]], le célèbre personnage de film d'horreur, a fait sa première apparition en 1988 dans le film "[[Child's Play]]" réalisé par [[Tom Holland]]. Cette poupée possédée par l'esprit d'un tueur en série, [[Charles Lee Ray]], est connue pour son apparence sinistre et sa voix menaçante, prêtée par l'acteur [[Brad Dourif]]. La franchise a connu de nombreux volets, notamment une suite intitulée "[[Child's Play 2]]" sortie en 1990, qui a consolidé la notoriété de [[Chucky]] en tant qu'icône de l'horreur. En parallèle des films, ce personnage a aussi inspiré des séries télévisées et des adaptations, tels que le reboot de 2019, lui garantissant une présence durable dans la culture populaire.
+
+###### Archives questions
+
+Dans quel film d'horreur de 1988 un tueur en série nommé [[Charles Lee Ray]] transfère-t-il son âme dans une poupée nommée [[Chucky]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de la franchise [[Chucky]] le personnage utilise-t-il pour la première fois l'incantation vaudou pour transférer son âme dans un autre corps ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film d'horreur célèbre pour sa poupée démoniaque est devenu une série télévisée en 2021 sous le même nom ? <!-- cm003 remplacée 2026-11-23 -->

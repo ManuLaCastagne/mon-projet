@@ -29,12 +29,20 @@ culture_g_justification: "Actrice internationale fréquemment associée à Almod
 
 ###### Questions
 
-Dans quel film de [[Woody Allen]] sorti en 2008, [[Penelope Cruz]] a-t-elle remporté l'Oscar de la meilleure actrice dans un second rôle ?
+Quelle actrice a remporté l'Oscar du meilleur second rôle féminin pour Vicky Cristina Barcelona de [[Woody Allen]] (2008) ?
 
-En quelle année [[Penelope Cruz]] est-elle devenue la première actrice espagnole à recevoir une étoile sur le [[Hollywood Walk of Fame]] ?
+Quelle actrice espagnole a reçu en 2011 une étoile sur le [[Hollywood Walk of Fame]] ?
 
-Pour quel film de [[Pedro Almodóvar]] sorti en 2006, [[Penelope Cruz]] a-t-elle été nominée pour l'Oscar de la meilleure actrice ?
+Quelle actrice a été nommée à l'Oscar de la meilleure actrice pour Volver de [[Pedro Almodóvar]] (2006) ?
 
 ###### Description
 
 [[Penelope Cruz]], actrice espagnole talentueuse née en 1974, a débuté sa carrière cinématographique en 1992 avec le film [[Jamón Jamón]], qui lui a rapidement valu une reconnaissance internationale. En 2006, elle a été nommée aux Oscars pour sa performance exceptionnelle dans [[Volver]], un film réalisé par [[Pedro Almodóvar]] avec qui elle a collaboré à plusieurs reprises. En 2008, elle a remporté l'[[Oscar de la meilleure actrice dans un second rôle]] pour son rôle dans [[Vicky Cristina Barcelona]], réalisé par [[Woody Allen]]. Actrice polyvalente, elle a également travaillé dans des productions telles que [[Pirates des Caraïbes : La Fontaine de jouvence]] en 2011, aux côtés de [[Johnny Depp]].
+
+###### Archives questions
+
+Dans quel film de [[Woody Allen]] sorti en 2008, [[Penelope Cruz]] a-t-elle remporté l'Oscar de la meilleure actrice dans un second rôle ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Penelope Cruz]] est-elle devenue la première actrice espagnole à recevoir une étoile sur le [[Hollywood Walk of Fame]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel film de [[Pedro Almodóvar]] sorti en 2006, [[Penelope Cruz]] a-t-elle été nominée pour l'Oscar de la meilleure actrice ? <!-- cm003 remplacée 2026-11-23 -->

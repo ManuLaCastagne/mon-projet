@@ -29,12 +29,18 @@ culture_g_justification: "Vedette populaire du cinéma italien et du duo avec Te
 
 ###### Questions
 
-Dans quel film de 1974, réalisé par [[Steno]], [[Bud Spencer]] incarne-t-il un improbable détective privé à la recherche de l'assassin de son ami ? 
+Quel acteur incarne Bambino aux côtés de [[Terence Hill]] dans On l'appelle Trinita (1970) ?
 
-En 1950, quel athlète italien, qui deviendra plus tard connu sous le nom de [[Bud Spencer]], a-t-il participé aux Jeux Olympiques d'[[Helsinki]] en tant que nageur ?
-
-Avant de se lancer dans une carrière cinématographique, quel acteur célèbre sous le nom de [[Bud Spencer]] a-t-il obtenu un diplôme en droit à l'[[Université de Rome La Sapienza]] en 1957 ?
+Quel acteur italien, de son vrai nom Carlo Pedersoli, a nagé pour l'Italie aux Jeux olympiques d'[[Helsinki]] en 1952 ?
 
 ###### Description
 
 [[Bud Spencer]], de son vrai nom Carlo Pedersoli, est né le 31 octobre 1929 à [[Naples]], en [[Italie]]. Il est surtout connu pour ses rôles dans des comédies d'action aux côtés de [[Terence Hill]], avec qui il forme un duo iconique du cinéma italien, débutant dans les années 1960 et culminant avec des films comme "[[Trinita]]" en 1970. Spencer, également champion de natation, a participé aux Jeux olympiques de [[Helsinki]] en 1952 et de [[Melbourne]] en 1956, avant de débuter sa carrière d'acteur. Il est décédé le 27 juin 2016 à Rome, laissant derrière lui une filmographie riche et diversifiée qui continue de captiver des générations de fans à travers le monde.
+
+###### Archives questions
+
+Dans quel film de 1974, réalisé par [[Steno]], [[Bud Spencer]] incarne-t-il un improbable détective privé à la recherche de l'assassin de son ami ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1950, quel athlète italien, qui deviendra plus tard connu sous le nom de [[Bud Spencer]], a-t-il participé aux Jeux Olympiques d'[[Helsinki]] en tant que nageur ? <!-- cm003 remplacée 2026-11-23 -->
+
+Avant de se lancer dans une carrière cinématographique, quel acteur célèbre sous le nom de [[Bud Spencer]] a-t-il obtenu un diplôme en droit à l'[[Université de Rome La Sapienza]] en 1957 ? <!-- cm003 archivée 2026-11-23 -->

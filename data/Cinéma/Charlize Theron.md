@@ -29,11 +29,19 @@ culture_g_justification: "Actrice très connue grâce à Monster, Mad Max et Hol
 
 ###### Questions
 
-Quel rôle iconique a valu à [[Charlize Theron]] de remporter l'[[Oscar de la meilleure actrice]] en 2004, après s'être transformée physiquement pour incarner une tueuse en série ?
+Quelle actrice a remporté l'[[Oscar de la meilleure actrice]] en 2004 pour son rôle de la tueuse en série [[Aileen Wuornos]] dans Monster ?
 
-Quelle actrice a joué dans un film réalisé par [[George Miller]] en 2015 en tant que [[Furiosa]], un personnage ayant marqué la saga post-apocalyptique [[Mad Max]] ? <!-- score: 5 -->
+Quelle actrice incarne l'Imperator [[Furiosa]] dans Mad Max: Fury Road de [[George Miller]] (2015) ?
 
-Quel film d'animation produit par [[Laika]] en 2016 voit [[Charlize Theron]] prêter sa voix à un personnage nommé [[Monkey]], marquant sa contribution à ce genre cinématographique ?
+Quelle actrice prête sa voix au personnage de Singe dans Kubo et l'Armure magique, film du studio d'animation [[Laika]] (2016) ?
 ###### Description
 
 [[Charlize Theron]] est une actrice et productrice renommée originaire d'Afrique du Sud, devenue célèbre pour son rôle dans le film « [[The Devil's Advocate]] » en 1997, aux côtés de [[Keanu Reeves]] et [[Al Pacino]]. Elle a remporté un Oscar de la meilleure actrice en 2004 pour sa brillante performance dans « [[Monster]] », incarnant la criminelle [[Aileen Wuornos]]. En 2015, elle a consolidé son statut d'icône de l'action en jouant le rôle de [[Furiosa]] dans le film à succès « [[Mad Max: Fury Road]] », réalisé par [[George Miller]]. Outre ses prouesses d'actrice, Charlize dirige sa propre maison de production, [[Denver and Delilah Productions]], fondée en 2003, qui se consacre à promouvoir des projets cinématographiques innovants et captivants.
+
+###### Archives questions
+
+Quel rôle iconique a valu à [[Charlize Theron]] de remporter l'[[Oscar de la meilleure actrice]] en 2004, après s'être transformée physiquement pour incarner une tueuse en série ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film d'animation produit par [[Laika]] en 2016 voit [[Charlize Theron]] prêter sa voix à un personnage nommé [[Monkey]], marquant sa contribution à ce genre cinématographique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice a joué dans un film réalisé par [[George Miller]] en 2015 en tant que [[Furiosa]], un personnage ayant marqué la saga post-apocalyptique [[Mad Max]] ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->

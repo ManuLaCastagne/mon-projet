@@ -28,11 +28,11 @@ culture_g_justification: "Actrice américaine très connue grâce à des films p
 
 ###### Questions
 
-Qui joue le rôle de [[Fantine]] dans Les Misérables qui a remporté l'[[Oscar du Meilleur Film]] en 2013 ? <!-- score: 0 -->
+Quelle actrice a remporté en 2013 l'Oscar du meilleur second rôle féminin pour son interprétation de [[Fantine]] dans Les Misérables ?
 
-Quel doublage a été fait par [[Anne Hathaway]] pour le personnage féminin principal dans le film d'animation [[Rio]] sorti en 2011 ?
+Quelle actrice prête sa voix, en version originale, à l'ara Perla dans le film d'animation [[Rio]] (2011) ?
 
-Dans quel film de 2001 [[Anne Hathaway]] a-t-elle interprété une personne découvrant qu'elle est héritière d'un trône, film qui a marqué son premier rôle principal au cinéma ?
+Quelle actrice a tenu en 2001 son premier grand rôle au cinéma en lycéenne héritière d'un trône dans Princesse malgré elle ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Elle a connu une ascension fulgurante grâce à son rôle dans le film "[[Le Jou
 Un fait étonnant sur [[Anne Hathaway]] est qu'elle a remporté un [[Oscar]] de la meilleure actrice dans un second rôle en 2013 pour son interprétation de [[Fantine]] dans le film "[[Les Misérables]]", après seulement 15 minutes de présence à l'écran, ce qui fait d'elle l'une des rares actrices à avoir gagné l'[[Oscar]] avec un temps de jeu si court. 
 
 Elle est également engagée dans diverses causes humanitaires et a été nommée ambassadrice de bonne volonté de l'[[ONU Femmes]] en 2016.
+
+###### Archives questions
+
+Quel doublage a été fait par [[Anne Hathaway]] pour le personnage féminin principal dans le film d'animation [[Rio]] sorti en 2011 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 2001 [[Anne Hathaway]] a-t-elle interprété une personne découvrant qu'elle est héritière d'un trône, film qui a marqué son premier rôle principal au cinéma ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui joue le rôle de [[Fantine]] dans Les Misérables qui a remporté l'[[Oscar du Meilleur Film]] en 2013 ? <!-- score: 0 --> <!-- cm003 remplacée 2026-11-23 -->

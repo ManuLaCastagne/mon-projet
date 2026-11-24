@@ -29,12 +29,20 @@ culture_g_justification: "Personnage emblématique du Cinquième Élément, rent
 
 ###### Questions
 
-Quel est le personnage principal joué par [[Milla Jovovich]] dans le film de [[Luc Besson]] sorti en 1997 ?  
+Quel personnage incarne [[Milla Jovovich]] dans Le Cinquième Élément (1997) ?
   
-Quel est le surnom donné à l'héroïne de [[Le Cinquième Élément]], reconnaissable par sa combinaison blanche et ses cheveux oranges ? <!-- score: 6 -->
+Quelle héroïne aux cheveux orange porte des bandelettes blanches dessinées par [[Jean Paul Gaultier]] ?
   
-Dans quel film de science-fiction culte de [[Luc Besson]], le personnage de [[Leeloo]] joue-t-il un rôle clé dans la quête pour sauver le monde ?
+Quelle héroïne, reconstituée en laboratoire à partir d'une main, se révèle être l'arme suprême capable de sauver la Terre dans le film de [[Luc Besson]] de 1997 ?
 
 ###### Description
 
 [[Leeloo]] est un personnage emblématique du film de science-fiction français "Le Cinquième Élément", réalisé par [[Luc Besson]] en 1997. Dans ce film, [[Leeloo]], interprétée par [[Milla Jovovich]], incarne une entité suprême dotée de capacités extraordinaires qui doit sauver la Terre d'une menace apocalyptique imminente. Son apparence iconique, notamment avec ses cheveux orange vif et son costume créé par le célèbre designer [[Jean-Paul Gaultier]], en a fait un personnage culte dans le cinéma des années 90. Le film a été en partie tourné aux studios Pinewood, et [[Leeloo]] parle une langue fictive inventée par [[Luc Besson]], soulignant l'imaginaire distinctif du réalisateur.
+
+###### Archives questions
+
+Dans quel film de science-fiction culte de [[Luc Besson]], le personnage de [[Leeloo]] joue-t-il un rôle clé dans la quête pour sauver le monde ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le personnage principal joué par [[Milla Jovovich]] dans le film de [[Luc Besson]] sorti en 1997 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le surnom donné à l'héroïne de [[Le Cinquième Élément]], reconnaissable par sa combinaison blanche et ses cheveux oranges ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->

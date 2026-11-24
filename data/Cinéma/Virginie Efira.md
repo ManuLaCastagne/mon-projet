@@ -29,11 +29,11 @@ culture_g_justification: "Actrice francophone très présente dans le cinéma co
 
 ###### Questions
 
-Quel film a marqué le début de la carrière internationale de [[Virginie Efira]] au cinéma en 2016 ?
+Quelle actrice belge incarne une avocate en pleine crise dans Victoria de [[Justine Triet]] (2016) ?
 
-Dans quel film de [[Virginie Efira]], sorti en 2019, joue-t-elle aux côtés de [[Adèle Haenel]] sous la direction du réalisateur [[Céline Sciamma]] ? <!-- score: 10 -->
+Quelle actrice a reçu le César de la meilleure actrice en 2023 pour Revoir Paris d'[[Alice Winocour]] ?
 
-Quel rôle interprète [[Virginie Efira]] dans le film [[Benedetta]], réalisé par [[Paul Verhoeven]], qui a été présenté au Festival de Cannes en 2021 ?
+Quelle actrice incarne une religieuse mystique du XVIIe siècle dans [[Benedetta]] de [[Paul Verhoeven]] (2021) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Quel rôle interprète [[Virginie Efira]] dans le film [[Benedetta]], réalisé 
 Sa carrière a pris un tournant décisif en 2016 grâce à son rôle dans le film "[[Reine Victoria]]", réalisé par [[Justine Triet]], qui lui a valu une nomination pour le [[César de la meilleure actrice]]. 
 
 En 2021, elle a incarné avec brio la figure religieuse controversée dans "Benedetta", un film signé par le célèbre réalisateur [[Paul Verhoeven]]. Au fil des années, [[Virginie Efira]] a collaboré avec des réalisateurs de renom, tels que [[Catherine Corsini]] et [[Albert Dupontel]], renforçant ainsi sa réputation d'artiste polyvalente et talentueuse.
+
+###### Archives questions
+
+Quel film a marqué le début de la carrière internationale de [[Virginie Efira]] au cinéma en 2016 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Virginie Efira]], sorti en 2019, joue-t-elle aux côtés de [[Adèle Haenel]] sous la direction du réalisateur [[Céline Sciamma]] ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle interprète [[Virginie Efira]] dans le film [[Benedetta]], réalisé par [[Paul Verhoeven]], qui a été présenté au Festival de Cannes en 2021 ? <!-- cm003 remplacée 2026-11-23 -->

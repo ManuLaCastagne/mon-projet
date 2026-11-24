@@ -29,12 +29,20 @@ culture_g_justification: "Acteur mondialement connu pour Twilight et Batman, ave
 
 ###### Questions
 
-En quelle année [[Robert Pattinson]] a-t-il été choisi pour incarner le personnage de [[Batman]] dans le film réalisé par [[Matt Reeves]] ?
+Quel acteur britannique incarne [[Batman]] dans The Batman de [[Matt Reeves]] (2022) ?
 
-Quel film de [[cinéma]] a révélé [[Robert Pattinson]] au grand public en 2008 au rôle d'[[Edward Cullen]] ?
+Quel acteur a été révélé au grand public en 2008 dans le rôle du vampire [[Edward Cullen]] dans Twilight ?
 
-Quelle est la profession d'origine de [[Robert Pattinson]] avant qu'il ne devienne célèbre dans le monde du [[cinéma]] ? <!-- score: 10 -->
+Quel acteur a incarné [[Cedric Diggory]] dans Harry Potter et la Coupe de feu (2005) ?
 
 ###### Description
 
 [[Robert Pattinson]] est un acteur britannique qui s'est fait connaître internationalement grâce à son rôle d'[[Edward Cullen]] dans la saga [[Twilight]], dont le premier film est sorti en 2008. Avant cela, il avait déjà captivé l'attention du public en interprétant [[Cedric Diggory]] dans [[Harry Potter et la coupe de feu]] en 2005. En dehors de ses rôles emblématiques dans ces franchises, [[Pattinson]] a démontré sa polyvalence dans des films indépendants comme [[Good Time]] en 2017 et a pris un virage notable en endossant le costume de [[Batman]] dans le film [[The Batman]] sorti en 2022. Son parcours, de star de la pop culture à acteur acclamé du cinéma indépendant, illustre une carrière riche en diversité et en succès critique.
+
+###### Archives questions
+
+En quelle année [[Robert Pattinson]] a-t-il été choisi pour incarner le personnage de [[Batman]] dans le film réalisé par [[Matt Reeves]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de [[cinéma]] a révélé [[Robert Pattinson]] au grand public en 2008 au rôle d'[[Edward Cullen]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la profession d'origine de [[Robert Pattinson]] avant qu'il ne devienne célèbre dans le monde du [[cinéma]] ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->

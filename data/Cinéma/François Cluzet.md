@@ -29,12 +29,20 @@ culture_g_justification: "Acteur français associé à Intouchables, à un Césa
 
 ###### Questions
 
-Quel acteur a joué le rôle du médecin Philippe dans le film en 2011, "[[Intouchables]]", qui a été un énorme succès international ?
+Quel acteur incarne Philippe, riche tétraplégique, aux côtés d'[[Omar Sy]] dans [[Intouchables]] (2011) ?
 
-Qui a remporté le César du meilleur acteur en 2007 pour sa performance dans le film "[[Ne le dis à personne]]" ?
+Quel acteur a reçu le César du meilleur acteur en 2007 pour [[Ne le dis à personne]] ?
 
-Dans quel domaine [[François Cluzet]] s'est-il distingué en jouant aux côtés de [[Guillaume Canet]] et [[Marion Cotillard]] ?
+Quel acteur incarne Max, le propriétaire de la maison de vacances, dans [[Les Petits Mouchoirs]] de [[Guillaume Canet]] (2010) ?
 
 ###### Description
 
 [[François Cluzet]], acteur français renommé, s'est brillamment illustré dans le film "[[Intouchables]]" en 2011, aux côtés de [[Omar Sy]], où il incarne le rôle poignant de [[Philippe]], un aristocrate tétraplégique. Il a remporté le [[César du meilleur acteur]] en 2007 pour sa performance remarquable dans "[[Ne le dis à personne]]", un thriller réalisé par [[Guillaume Canet]]. François Cluzet a débuté sa carrière cinématographique dans les années 1980, se faisant un nom grâce à des films comme "[[L'Été meurtrier]]" (1983), où il a joué aux côtés d'[[Isabelle Adjani]]. Au fil des années, il a travaillé avec de nombreux réalisateurs acclamés, tels que [[Claude Chabrol]] et [[Bertrand Tavernier]], et demeure une figure incontournable du cinéma français.
+
+###### Archives questions
+
+Dans quel domaine [[François Cluzet]] s'est-il distingué en jouant aux côtés de [[Guillaume Canet]] et [[Marion Cotillard]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a joué le rôle du médecin Philippe dans le film en 2011, "[[Intouchables]]", qui a été un énorme succès international ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a remporté le César du meilleur acteur en 2007 pour sa performance dans le film "[[Ne le dis à personne]]" ? <!-- cm003 remplacée 2026-11-23 -->

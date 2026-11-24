@@ -29,12 +29,20 @@ culture_g_justification: "Son rôle dans Pulp Fiction, ses collaborations avec T
 
 ###### Questions
 
-Dans quel film sorti en 1994, réalisé par [[Quentin Tarantino]], [[Uma Thurman]] interprète-t-elle le personnage de [[Mia Wallace]] qui exécute une danse devenue emblématique sur la chanson "You Never Can Tell" de [[Chuck Berry]] ?
+Quelle actrice incarne [[Mia Wallace]], qui danse sur You Never Can Tell de [[Chuck Berry]] dans Pulp Fiction (1994) ?
 
-Quel rôle emblématique [[Uma Thurman]] a-t-elle refusé pour le film "[[The Lord of the Rings]]" dans les années 2000 qui a finalement été attribué à [[Liv Tyler]] ?
+Quelle actrice incarne la Mariée, Beatrix Kiddo, dans Kill Bill de [[Quentin Tarantino]] (2003) ?
 
-En 1995, pour quel film d'[[Andrew Niccol]] [[Uma Thurman]] a-t-elle partagé l'écran avec [[Ethan Hawke]], qui est devenu son mari la même année ?
+Quelle actrice a donné la réplique à [[Ethan Hawke]], qu'elle a épousé en 1998, dans Bienvenue à Gattaca d'[[Andrew Niccol]] (1997) ?
 
 ###### Description
 
 [[Uma Thurman]] est une actrice américaine reconnue pour son rôle emblématique dans le film [[Pulp Fiction]] de [[Quentin Tarantino]], sorti en 1994, où elle incarne Mia Wallace. Elle collabore à nouveau avec [[Tarantino]] pour la célèbre saga [[Kill Bill]], dont les volumes 1 et 2 sont sortis respectivement en 2003 et 2004, et où elle interprète le personnage de La Mariée. Uma Thurman a commencé sa carrière cinématographique en 1988 avec [[Les Liaisons Dangereuses]], réalisé par [[Stephen Frears]], qui lui permit de se faire remarquer dans l'industrie. Au fil des années, elle a travaillé avec des réalisateurs renommés tels que [[Gus Van Sant]] et [[Lars von Trier]], renforçant ainsi sa position comme l'une des actrices les plus polyvalentes de sa génération.
+
+###### Archives questions
+
+Dans quel film sorti en 1994, réalisé par [[Quentin Tarantino]], [[Uma Thurman]] interprète-t-elle le personnage de [[Mia Wallace]] qui exécute une danse devenue emblématique sur la chanson "You Never Can Tell" de [[Chuck Berry]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle emblématique [[Uma Thurman]] a-t-elle refusé pour le film "[[The Lord of the Rings]]" dans les années 2000 qui a finalement été attribué à [[Liv Tyler]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1995, pour quel film d'[[Andrew Niccol]] [[Uma Thurman]] a-t-elle partagé l'écran avec [[Ethan Hawke]], qui est devenu son mari la même année ? <!-- cm003 remplacée 2026-11-23 -->

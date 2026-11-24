@@ -31,7 +31,7 @@ culture_g_justification: "Louis XI est un souverain classique, utile pour la con
 
 Quel roi de France, né en [[1423]] et mort en [[1483]], est connu pour avoir fait installer un système de [[courrier royal]] à cheval, préfigurant ainsi le développement de la [[poste]] ?
 
-Quel monarque français est surnommé le "[[Roi universel]]" en raison de sa politique de neutralité qui visait à régner sur les cours d'Europe par la manipulation habile des alliances matrimoniales et diplomatiques au XVe siècle ? <!-- score: 3 -->
+Quel roi de France, fils de [[Charles VII]], dont [[Philippe de Commynes]] a relaté le règne, était surnommé « l'universelle aragne » ?
 
 Quel souverain est à l'origine de l'instauration des [[lettres de rémission]], permettant aux criminels de se faire pardonner en payant une amende, utilisant cela comme levier de stabilité sociale et économique sous son règne ?
 
@@ -44,3 +44,7 @@ Bien que connu pour ses manœuvres politiques astucieuses et sa construction d'u
 Né en 1423, [[Louis XI]] était réputé pour sa méfiance extrême envers ses proches, allant jusqu'à déployer des moines comme agents secrets pour surveiller son entourage. 
 
 À noter qu’il a grandi à la cour de Bourgogne, sous la protection de [[Philippe le Bon]], après s'être rebellé contre son père en 1440.
+
+###### Archives questions
+
+Quel monarque français est surnommé le "[[Roi universel]]" en raison de sa politique de neutralité qui visait à régner sur les cours d'Europe par la manipulation habile des alliances matrimoniales et diplomatiques au XVe siècle ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->

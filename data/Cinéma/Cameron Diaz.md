@@ -29,11 +29,11 @@ culture_g_justification: "Actrice populaire associée à plusieurs succès majeu
 
 ###### Questions
 
-Dans quel film de [[Martin Scorsese]] sorti en 2002 [[Cameron Diaz]] partage-t-elle l'affiche avec [[Leonardo DiCaprio]] et [[Daniel Day-Lewis]] ?
+Quelle actrice joue Jenny Everdeane aux côtés de [[Leonardo DiCaprio]] dans Gangs of New York de [[Martin Scorsese]] (2002) ?
 
-Dans quelle comédie romantique de l'année 1998 [[Cameron Diaz]] joue-t-elle le rôle de [[Mary Jensen]] aux côtés de [[Ben Stiller]] ?
+Quelle actrice incarne [[Mary Jensen]] face à [[Ben Stiller]] dans Mary à tout prix (1998) ?
 
-Dans quel film d'animation de 2001, [[Cameron Diaz]] prête-t-elle sa voix à la princesse [[Fiona]] ?
+Quelle actrice prête sa voix, en version originale, à la princesse [[Fiona]] dans Shrek (2001) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a débuté sa carrière cinématographique en 1994 dans le film "[[The Mask
 Fait étonnant, elle a été nommée quatre fois mais [[aucun Golden Globe Awards]], malgré sa participation à de nombreux succès au box-office. 
 
 En 2015, Cameron a surpris le monde en annonçant son retrait de l'industrie du cinéma, mettant ainsi fin à une carrière de plus de deux décennies.
+
+###### Archives questions
+
+Dans quel film de [[Martin Scorsese]] sorti en 2002 [[Cameron Diaz]] partage-t-elle l'affiche avec [[Leonardo DiCaprio]] et [[Daniel Day-Lewis]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle comédie romantique de l'année 1998 [[Cameron Diaz]] joue-t-elle le rôle de [[Mary Jensen]] aux côtés de [[Ben Stiller]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film d'animation de 2001, [[Cameron Diaz]] prête-t-elle sa voix à la princesse [[Fiona]] ? <!-- cm003 remplacée 2026-11-23 -->

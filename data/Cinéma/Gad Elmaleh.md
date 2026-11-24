@@ -29,11 +29,11 @@ culture_g_justification: "Personnalité très connue de l'humour francophone, ex
 
 ###### Questions
 
-Quel acteur a-t-il joué un riche marchand arabe dans le film animé [[Tintin]], réalisé par [[Steven Spielberg]] en 2011 ?
+Quel humoriste interprète Omar Ben Salaad dans Les Aventures de [[Tintin]] : Le Secret de la Licorne de [[Steven Spielberg]] (2011) ?
 
-Quel humoriste a incarné un personnage inspiré d'un sketch de [[Gad Elmaleh]] dans le film [[Coco]] sorti en 2009 ? 
+Quel humoriste a réalisé et interprété en 2009 [[Coco]], film tiré d'un personnage de ses spectacles ?
 
-Quel acteur franco-marocain a interprété le rôle principal d'un romantique escroc dans le film [[La Doublure]] de [[Francis Veber]] en 2006 ?
+Quel acteur incarne François Pignon, voiturier présenté comme le compagnon d'un mannequin, dans [[La Doublure]] de [[Francis Veber]] (2006) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 2010, il joue dans le film "[[La Rafle]]", réalisé par [[Roselyne Bosch]], 
 Il prête également sa voix au personnage de Gru dans la version française du film d'animation "[[Moi, moche et méchant]]", sorti la même année. 
 
 En 2011, il apparaît aux côtés de [[Jean Dujardin]] dans le film muet "[[The Artist]]", réalisé par [[Michel Hazanavicius]].
+
+###### Archives questions
+
+Quel humoriste a incarné un personnage inspiré d'un sketch de [[Gad Elmaleh]] dans le film [[Coco]] sorti en 2009 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a-t-il joué un riche marchand arabe dans le film animé [[Tintin]], réalisé par [[Steven Spielberg]] en 2011 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur franco-marocain a interprété le rôle principal d'un romantique escroc dans le film [[La Doublure]] de [[Francis Veber]] en 2006 ? <!-- cm003 remplacée 2026-11-23 -->
