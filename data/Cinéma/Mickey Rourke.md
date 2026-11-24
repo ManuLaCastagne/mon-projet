@@ -29,11 +29,11 @@ culture_g_justification: "Acteur américain identifiable par The Wrestler et 9 s
 
 ###### Questions
 
-Dans quel film de 1987, [[Mickey Rourke]] incarne-t-il le détective privé [[Harry Angel]] embauché pour retrouver un chanteur disparu ? <!-- score: 10 -->
+Quel acteur incarne le détective Harry Angel face à [[Robert De Niro]] dans « [[Angel Heart]] » (1987) d'[[Alan Parker]] ?
 
 Quel acteur a remporté le [[Golden Globe]] du meilleur acteur dans un film dramatique en 2009 pour son rôle dans [[The Wrestler]] réalisé par [[Darren Aronofsky]] ?
 
-Lequel des acteurs a représenté le film controversé "9 1/2 Weeks" sorti en 1986 aux côtés de [[Kim Basinger]] ?
+Quel acteur partage l'affiche de « [[9 semaines 1/2]] » (1986) avec [[Kim Basinger]] ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Avant de se lancer dans une carrière d'acteur, il a été boxeur professionnel 
 Ce qui est moins connu, c'est que [[Mickey Rourke]] a refusé le rôle principal de [[Pulp Fiction]], qui est finalement allé à [[Bruce Willis]], changeant sans doute le cours de sa carrière. 
 
 En 1983, il a figuré dans le film "Rusty James" réalisé par [[Francis Ford Coppola]], qui a contribué à élever son statut à celui de l'un des acteurs les plus prometteurs de sa génération.
+
+###### Archives questions
+
+Dans quel film de 1987, [[Mickey Rourke]] incarne-t-il le détective privé [[Harry Angel]] embauché pour retrouver un chanteur disparu ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Lequel des acteurs a représenté le film controversé "9 1/2 Weeks" sorti en 1986 aux côtés de [[Kim Basinger]] ? <!-- cm003 remplacée 2026-11-23 -->

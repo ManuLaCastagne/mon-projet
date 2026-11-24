@@ -29,12 +29,16 @@ culture_g_justification: "Ce titre renvoie à un drame français ancien et peu c
 
 ###### Questions
 
-Quel film de [[Marc Rivière]], sorti en 1972, met en scène le mystère d'une petite plage et a pour vedette principale [[Catherine Allégret]] ?
-
-Quelle adaptation cinématographique du roman de [[Jean-Paul Nozière]], sortie en 1992, mêle intrigue et paysages intrigants sous le titre « Une si jolie petite plage » ?
-
-Dans quel film dramatique français, réalisé par [[Yves Allégret]] en 1949, trouve-t-on un mélange de romance et de suspense sur une plage, intitulé initialement « Une si jolie petite plage » avant d'être connu sous un autre nom ?
+Quel film d'[[Yves Allégret]], écrit par [[Jacques Sigurd]] et tourné à [[Barneville-Carteret]], réunit [[Gérard Philipe]] et [[Madeleine Robinson]] ?
 
 ###### Description
 
 Le film "[[Plein Soleil]]", réalisé par [[René Clément]] en 1960, est une adaptation du roman "Monsieur Ripley" de [[Patricia Highsmith]]. [[Alain Delon]] incarne le personnage principal, [[Tom Ripley]], un jeune homme ambitieux prêt à tout pour s'emparer de l'identité et de la fortune de [[Philippe Greenleaf]], interprété par [[Maurice Ronet]]. Le tournage s'est déroulé principalement en [[Italie]], et plus précisément sur la côte amalfitaine, une région connue pour ses plages pittoresques et ses paysages à couper le souffle. Le film a été récompensé du [[Prix Edgar-Allan-Poe]] du meilleur film étranger en 1962.
+
+###### Archives questions
+
+Quelle adaptation cinématographique du roman de [[Jean-Paul Nozière]], sortie en 1992, mêle intrigue et paysages intrigants sous le titre « Une si jolie petite plage » ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel film dramatique français, réalisé par [[Yves Allégret]] en 1949, trouve-t-on un mélange de romance et de suspense sur une plage, intitulé initialement « Une si jolie petite plage » avant d'être connu sous un autre nom ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de [[Marc Rivière]], sorti en 1972, met en scène le mystère d'une petite plage et a pour vedette principale [[Catherine Allégret]] ? <!-- cm003 archivée 2026-11-23 -->

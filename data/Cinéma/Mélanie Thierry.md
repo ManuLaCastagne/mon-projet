@@ -29,11 +29,11 @@ culture_g_justification: "Actrice française récompensée et présente dans que
 
 ###### Questions
 
-Quel rôle a propulsé [[Mélanie Thierry]] au rang de star en 1998 dans le film [[Le Vieux Fusil]] ?
+Quelle actrice a reçu le [[César du meilleur espoir féminin]] en 2010 pour « [[Le Dernier pour la route]] » ?
 
-Dans quel film de [[Terry Gilliam]] sorti en 2013 [[Mélanie Thierry]] joue-t-elle le rôle principal aux côtés de [[Christoph Waltz]] ?
+Quelle actrice française joue Bainsley face à [[Christoph Waltz]] dans « [[Zero Theorem]] » de [[Terry Gilliam]] (2013) ?
 
-Quel est le premier film francophone dans lequel [[Mélanie Thierry]] joue après sa carrière de mannequin commence en 1996 ?
+Quelle actrice française joue la jeune fille dont s'éprend le héros dans « [[La Légende du pianiste sur l'océan]] » de [[Giuseppe Tornatore]] (1998) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a remporté le [[César]] du meilleur espoir féminin en 2010 pour son rôl
 Fait étonnant, peu connu : avant de devenir actrice, Mélanie a commencé sa carrière dès l'âge de 13 ans comme mannequin, ce qui témoigne de sa polyvalence dans le monde du spectacle.
 
 Elle a également joué aux côtés de [[Brad Pitt]] dans le film "L'Homme qui a tué [[Don Quichotte]]", réalisé par [[Terry Gilliam]], un projet cinématographique qui a mis près de 29 ans à voir le jour.
+
+###### Archives questions
+
+Quel rôle a propulsé [[Mélanie Thierry]] au rang de star en 1998 dans le film [[Le Vieux Fusil]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Terry Gilliam]] sorti en 2013 [[Mélanie Thierry]] joue-t-elle le rôle principal aux côtés de [[Christoph Waltz]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le premier film francophone dans lequel [[Mélanie Thierry]] joue après sa carrière de mannequin commence en 1996 ? <!-- cm003 remplacée 2026-11-23 -->

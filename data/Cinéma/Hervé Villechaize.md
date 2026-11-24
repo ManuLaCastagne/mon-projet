@@ -29,11 +29,11 @@ culture_g_justification: "Acteur surtout associé à quelques rôles cultes, mai
 
 ###### Questions
 
-Dans quelle série télévisée de 1978, Hervé Villechaize joue-t-il le rôle de [[Tattoo]], l'assistant de [[Mr. Roarke]] ?
+Quel acteur français a incarné Tattoo, l'assistant de [[Mr. Roarke]], dans la série « [[L'Île fantastique]] » ?
 
-Dans quel film de la série de [[James Bond]] de 1974, Hervé Villechaize incarne-t-il le personnage de [[Nick Nack]] ?
+Quel acteur joue Nick Nack, le domestique de Scaramanga, dans « [[L'Homme au pistolet d'or]] » (1974) ?
 
-Dans quel épisode spécial de [[Saturday Night Live]], diffusé en 1983, Hervé Villechaize joue-t-il un sketch humoristique avec le fameux personnage [[Mr. Rogers]] ?
+Quel acteur français est incarné par [[Peter Dinklage]] dans le téléfilm « [[My Dinner with Hervé]] » diffusé sur HBO en 2018 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Né le 23 avril 1943 à Paris, Hervé Villechaize a également travaillé avec l
 Avant de déménager à New York en 1964 pour poursuivre sa carrière d'acteur, il a étudié à la célèbre [[École des Beaux-Arts]] de Paris. 
 
 Malgré sa petite stature due à un handicap médical, Hervé Villechaize est devenu une icône grâce à son talent unique et son charisme distinctif.
+
+###### Archives questions
+
+Dans quelle série télévisée de 1978, Hervé Villechaize joue-t-il le rôle de [[Tattoo]], l'assistant de [[Mr. Roarke]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de la série de [[James Bond]] de 1974, Hervé Villechaize incarne-t-il le personnage de [[Nick Nack]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel épisode spécial de [[Saturday Night Live]], diffusé en 1983, Hervé Villechaize joue-t-il un sketch humoristique avec le fameux personnage [[Mr. Rogers]] ? <!-- cm003 remplacée 2026-11-23 -->

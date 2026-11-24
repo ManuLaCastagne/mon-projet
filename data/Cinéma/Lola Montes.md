@@ -29,12 +29,20 @@ culture_g_justification: "Film majeur de Max Ophüls mais surtout connu des cin�
 
 ###### Questions
 
-Dans quel film de [[Max Ophüls]] sorti en 1955, [[Martine Carol]] joue-t-elle le rôle d'une célèbre danseuse et aventurière du XIXe siècle, basé sur la vie réelle de [[Marie Dolores Eliza Rosanna Gilbert]] ?
+Dans quel film de [[Max Ophüls]] sorti en 1955, [[Martine Carol]] incarne-t-elle une danseuse et aventurière du XIXe siècle, née Eliza Gilbert ?
 
-Quel film réalisé par [[Max Ophüls]] a suscité la controverse à sa sortie en 1955 pour son approche innovante de la narration, alternant entre scènes de cirque et moments de la vie d'une célèbre courtisane ?
+Quel film de 1955, construit en retours en arrière autour d'un numéro de cirque présenté par [[Peter Ustinov]], fut un échec à sa sortie ?
 
-Quelle œuvre cinématographique de 1955 est souvent citée pour ses décors somptueux et ses plans élaborés, raconte la vie tumultueuse de [[Lola Montes]] et a été considérée comme l'un des films les plus coûteux de son époque ?
+Quel film, le seul tourné en couleur et en CinémaScope par [[Max Ophüls]], est aussi le dernier qu'il ait achevé ?
 
 ###### Description
 
 [[Lola Montès]] est un film réalisé par [[Max Ophüls]] sorti en 1955, qui explore la vie tumultueuse de la célèbre danseuse et aventurière du XIXe siècle. [[Martine Carol]] incarne le personnage principal, traversant les méandres d'une existence entourée de scandales et de relations amoureuses notoires. Le film, reconnu pour ses somptueux décors et ses innovations techniques, fut le dernier de la carrière de Max Ophüls. À sa sortie, l'œuvre fut d'abord un échec commercial mais fut réévaluée au fil des décennies pour devenir une référence du cinéma d'auteur.
+
+###### Archives questions
+
+Quelle œuvre cinématographique de 1955 est souvent citée pour ses décors somptueux et ses plans élaborés, raconte la vie tumultueuse de [[Lola Montes]] et a été considérée comme l'un des films les plus coûteux de son époque ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Max Ophüls]] sorti en 1955, [[Martine Carol]] joue-t-elle le rôle d'une célèbre danseuse et aventurière du XIXe siècle, basé sur la vie réelle de [[Marie Dolores Eliza Rosanna Gilbert]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film réalisé par [[Max Ophüls]] a suscité la controverse à sa sortie en 1955 pour son approche innovante de la narration, alternant entre scènes de cirque et moments de la vie d'une célèbre courtisane ? <!-- cm003 remplacée 2026-11-23 -->

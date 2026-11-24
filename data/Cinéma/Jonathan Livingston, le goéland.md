@@ -29,12 +29,18 @@ culture_g_justification: "Le film Jonathan Livingston, le goéland est une adapt
 
 ###### Questions
 
-En quelle année exacte le film basé sur [[Jonathan Livingston, le goéland]], racontant l'aventure spirituelle d'un goéland, est-il sorti en salles ?
+Pour la musique de quel film de 1973 [[Neil Diamond]] a-t-il reçu un Golden Globe et un Grammy ?
 
-Quel auteur a écrit le roman original [[Jonathan Livingston, le goéland]], qui a inspiré le film sorti en 1973 ?
-
-Quelle œuvre littéraire de [[Richard Bach]] partage le même thème d'autodécouverte et dépassement personnel que le film [[Jonathan Livingston, le goéland]] ?
+Quel film de [[Hall Bartlett]] (1973), où [[James Franciscus]] prête sa voix au héros, adapte le court roman de [[Richard Bach]] ?
 
 ###### Description
 
 [[Jonathan Livingston le goéland]] est un film américain sorti en 1973, adapté du livre éponyme de [[Richard Bach]] publié en 1970. Ce film, réalisé par [[Hall Bartlett]], raconte l'histoire d'un goéland nommé Jonathan, qui rêve de voler toujours plus haut et de se libérer des contraintes de sa communauté. La bande sonore a été composée par [[Neil Diamond]], ajoutant une dimension musicale poignante qui a valu au film un [[Grammy Award]] en 1974 pour la meilleure bande originale d'un film. Bien que le film n'ait pas été un succès commercial, il est souvent cité pour ses magnifiques prises de vues aériennes et reste une œuvre culte pour son message philosophique sur la liberté et la quête de perfection.
+
+###### Archives questions
+
+En quelle année exacte le film basé sur [[Jonathan Livingston, le goéland]], racontant l'aventure spirituelle d'un goéland, est-il sorti en salles ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel auteur a écrit le roman original [[Jonathan Livingston, le goéland]], qui a inspiré le film sorti en 1973 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle œuvre littéraire de [[Richard Bach]] partage le même thème d'autodécouverte et dépassement personnel que le film [[Jonathan Livingston, le goéland]] ? <!-- cm003 archivée 2026-11-23 -->

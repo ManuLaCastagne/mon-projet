@@ -29,12 +29,18 @@ culture_g_justification: "Acteur français apprécié et présent dans quelques 
 
 ###### Questions
 
-Dans quel film de 2011 [[Pio Marmaï]] joue-t-il aux côtés de [[Michel Blanc]] et [[Carole Bouquet]] dans une comédie axée sur une histoire de famille dysfonctionnelle ?
+Quel acteur a été nommé au César du meilleur espoir masculin pour « [[Le Premier Jour du reste de ta vie]] » de [[Rémi Bezançon]] ?
 
-En 2023, dans quelle série [[Netflix]] ou [[Pio Marmaï]] joue-t-il le rôle principal dans une intrigue mêlant suspens et fantastique ?
-
-[[Pio Marmaï]] a eu une formation initiale inhabituelle pour un acteur ; dans quel domaine de l'art a-t-il étudié avant de se consacrer au cinéma ?
+Dans « [[Ce qui nous lie]] » de [[Cédric Klapisch]] (2017), quel acteur joue Jean, l'un des trois enfants d'un vigneron bourguignon ?
 
 ###### Description
 
 [[Pio Marmaï]], acteur français reconnu pour sa polyvalence, a fait ses débuts marquants au cinéma dans le film [[Le Premier Jour du reste de ta vie]] en 2008, réalisé par [[Rémi Bezançon]]. Ce rôle lui a valu une nomination au [[César du Meilleur Espoir Masculin]] en 2009, consolidant sa popularité naissante. En 2011, il a partagé l'écran avec [[Audrey Tautou]] et [[François Damiens]] dans [[La Délicatesse]], un film adapté du roman de [[David Foenkinos]]. Plus récemment, en 2021, il a été salué pour sa performance dans [[Enormément]], publié sous le titre original de "En attendant Bojangles", basé sur le roman de [[Olivier Bourdeaut]].
+
+###### Archives questions
+
+Dans quel film de 2011 [[Pio Marmaï]] joue-t-il aux côtés de [[Michel Blanc]] et [[Carole Bouquet]] dans une comédie axée sur une histoire de famille dysfonctionnelle ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2023, dans quelle série [[Netflix]] ou [[Pio Marmaï]] joue-t-il le rôle principal dans une intrigue mêlant suspens et fantastique ? <!-- cm003 remplacée 2026-11-23 -->
+
+[[Pio Marmaï]] a eu une formation initiale inhabituelle pour un acteur ; dans quel domaine de l'art a-t-il étudié avant de se consacrer au cinéma ? <!-- cm003 archivée 2026-11-23 -->

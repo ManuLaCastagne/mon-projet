@@ -29,12 +29,20 @@ culture_g_justification: "Monument du cinéma français, associé à de nombreux
 
 ###### Questions
 
-Dans quel film de 1939 l'acteur [[Jean Gabin]] interprète-t-il le célèbre personnage de [[Jean Valjean]], jetant ainsi une lumière particulière sur sa carrière dans le [[cinéma]] ?
+Quel acteur incarne Jean Valjean dans « [[Les Misérables (film, 1958)]] » de [[Jean-Paul Le Chanois]] ?
 
-En 1954, quel lieu, souvent associé à [[Jean Gabin]], a été immortalisé par le film culte "Touchez pas au grisbi", renforçant son statut dans le [[cinéma]] ?
+Quel acteur reçoit la coupe Volpi à la [[Mostra de Venise]] 1954 pour « [[Touchez pas au grisbi]] » ?
 
-Quel rôle inattendu l'acteur [[Jean Gabin]] a-t-il endossé dans le film de 1963 "Un singe en hiver", montrant une facette méconnue de son répertoire dans le [[cinéma]] ?
+Quel acteur joue Albert Quentin, patron de l'hôtel Stella, face à [[Jean-Paul Belmondo]] dans « [[Un singe en hiver]] » (1962) ?
 
 ###### Description
 
 [[Jean Gabin]], né le 17 mai 1904, est une icône du cinéma français, reconnu pour sa carrière impressionnante qui a débuté dans les années 1930. Il obtient la faveur du public avec son rôle dans "[[La Grande Illusion]]" de [[Jean Renoir]] en 1937, un film qui sera d'ailleurs nominé pour l'Oscar du meilleur film. En 1954, il joue dans "[[Touchez pas au grisbi]]", qui assoit sa réputation de vedette du film policier français. [[Jean Gabin]] collabore également avec des réalisateurs de renom comme [[Marcel Carné]], notamment dans le chef-d'œuvre "[[Le Jour se lève]]" sorti en 1939.
+
+###### Archives questions
+
+Dans quel film de 1939 l'acteur [[Jean Gabin]] interprète-t-il le célèbre personnage de [[Jean Valjean]], jetant ainsi une lumière particulière sur sa carrière dans le [[cinéma]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1954, quel lieu, souvent associé à [[Jean Gabin]], a été immortalisé par le film culte "Touchez pas au grisbi", renforçant son statut dans le [[cinéma]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle inattendu l'acteur [[Jean Gabin]] a-t-il endossé dans le film de 1963 "Un singe en hiver", montrant une facette méconnue de son répertoire dans le [[cinéma]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,9 @@ culture_g_justification: "Cette citation culte de Gabin et Michèle Morgan est u
 
 ###### Questions
 
-Dans quel film de 1938 réalisé par [[Marcel Carné]] entend-on la réplique "T'as d'beaux yeux, tu sais" ? 
+Quelle réplique de [[Jean Gabin]] dans « [[Le Quai des brumes]] » de [[Marcel Carné]] (1938) précède le « Embrassez-moi » de [[Michèle Morgan]] ?
 
-Quel acteur emblématique de [[Jean Gabin]] a prononcé la célèbre phrase "T'as d'beaux yeux, tu sais" dans un classique du cinéma ? 
-
-Dans quelle œuvre cinématographique liée au mouvement du [[réalisme poétique]] français trouve-t-on la réplique "T'as d'beaux yeux, tu sais" ?
+Quelle célèbre réplique du dialoguiste [[Jacques Prévert]] est adressée à une jeune femme en béret et ciré, dans un film de 1938 situé au Havre ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Ce film, réalisé par [[Marcel Carné]], est souvent cité comme un chef-d'œuv
 Fait étonnant : la fameuse réplique a été entièrement improvisée par [[Jean Gabin]], et n'était pas présente dans le script original.
 
 En 2011, ce film a été choisi pour figurer dans le programme mondial de préservation du patrimoine cinématographique de l'[[UNESCO]].
+
+###### Archives questions
+
+Dans quel film de 1938 réalisé par [[Marcel Carné]] entend-on la réplique "T'as d'beaux yeux, tu sais" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur emblématique de [[Jean Gabin]] a prononcé la célèbre phrase "T'as d'beaux yeux, tu sais" dans un classique du cinéma ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle œuvre cinématographique liée au mouvement du [[réalisme poétique]] français trouve-t-on la réplique "T'as d'beaux yeux, tu sais" ? <!-- cm003 archivée 2026-11-23 -->

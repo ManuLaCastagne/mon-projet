@@ -29,12 +29,18 @@ culture_g_justification: "Film français de notoriété limitée, à ne pas conf
 
 ###### Questions
 
-Quel film de [[Gérard Jugnot]], sorti en 2000, raconte l'histoire d'une jeune coiffeuse qui rêve de devenir une grande actrice et s'intitule justement [[Meilleur Espoir Féminin]] ?
+Pour quel film de 2000 [[Bérénice Bejo]] a-t-elle été nommée au César dont l'intitulé est précisément le titre du film ?
 
-Dans quel film [[Bérénice Bejo]] joue-t-elle un rôle principal qui sera nommé dans le titre, également dirigé par [[Gérard Jugnot]] en 2000 ?
-
-Quel titre, utilisé pour un film de [[Gérard Jugnot]] en 2000, fait référence à une récompense souvent remise dans les cérémonies de prix pour célébrer les nouveaux talents féminins au cinéma ?
+Dans quelle comédie de 2000 [[Gérard Jugnot]] joue-t-il Yvon Rance, coiffeur de [[Cancale]] ?
 
 ###### Description
 
 Le [[César du Meilleur Espoir Féminin]] est une récompense française créée pour encourager les jeunes actrices dans l'industrie du cinéma. Il a été décerné pour la première fois en 1983 et a vu des lauréates comme [[Charlotte Gainsbourg]] pour son rôle dans "[[L'Effrontée]]" en 1986. Ce prix a souvent été un tremplin pour des carrières prometteuses, comme celle de [[Ludivine Sagnier]], récompensée pour "[[8 femmes]]" en 2002. Les films et actrices nominés sont généralement choisis pour leur innovation et l'impact de leurs performances sur le cinéma français.
+
+###### Archives questions
+
+Quel film de [[Gérard Jugnot]], sorti en 2000, raconte l'histoire d'une jeune coiffeuse qui rêve de devenir une grande actrice et s'intitule justement [[Meilleur Espoir Féminin]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film [[Bérénice Bejo]] joue-t-elle un rôle principal qui sera nommé dans le titre, également dirigé par [[Gérard Jugnot]] en 2000 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel titre, utilisé pour un film de [[Gérard Jugnot]] en 2000, fait référence à une récompense souvent remise dans les cérémonies de prix pour célébrer les nouveaux talents féminins au cinéma ? <!-- cm003 archivée 2026-11-23 -->

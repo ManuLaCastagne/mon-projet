@@ -29,11 +29,11 @@ culture_g_justification: "Actrice française identifiée à quelques rôles marq
 
 ###### Questions
 
-Dans quel film de [[Jean-Jacques Beineix]] sorti en 1986 [[Béatrice Dalle]] a-t-elle fait ses débuts en tant qu'actrice principale ?
+Quelle actrice est révélée en 1986 par le rôle de Betty dans « [[37°2 le matin]] » de [[Jean-Jacques Beineix]] ?
 
-Quel rôle inhabituel [[Béatrice Dalle]] a-t-elle joué dans le film d'horreur réalisé par [[Alexandre Bustillo]] et [[Julien Maury]] en 2007 ?
+Quelle actrice joue la femme qui traque une jeune veuve enceinte dans « [[À l'intérieur]] » (2007) d'[[Alexandre Bustillo]] et [[Julien Maury]] ?
 
-Dans quel film, sorti en 2009 et inspiré d'une pièce de [[Genet]], [[Béatrice Dalle]] a-t-elle été dirigée par le réalisateur [[Claire Denis]] ?
+Quelle actrice joue une femme aux pulsions cannibales dans « [[Trouble Every Day]] » de [[Claire Denis]] (2001) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Après ce succès retentissant, elle a continué à collaborer avec de grands r�
 En 2010, elle apparaît dans "[[Gainsbourg, vie héroïque]]" de [[Joann Sfar]], incarnant le rôle de [[la Castafiore]], ce qui confirme sa polyvalence en tant qu'actrice.
 
 Ces choix artistiques lui ont permis de rester dans l'industrie cinématographique française aussi bien que dans des productions internationales, consolidant ainsi son statut d'icône.
+
+###### Archives questions
+
+Dans quel film de [[Jean-Jacques Beineix]] sorti en 1986 [[Béatrice Dalle]] a-t-elle fait ses débuts en tant qu'actrice principale ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle inhabituel [[Béatrice Dalle]] a-t-elle joué dans le film d'horreur réalisé par [[Alexandre Bustillo]] et [[Julien Maury]] en 2007 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film, sorti en 2009 et inspiré d'une pièce de [[Genet]], [[Béatrice Dalle]] a-t-elle été dirigée par le réalisateur [[Claire Denis]] ? <!-- cm003 remplacée 2026-11-23 -->

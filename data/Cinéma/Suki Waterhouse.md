@@ -27,11 +27,11 @@ culture_g_justification: "Mannequin et actrice contemporaine encore peu structur
 
 ###### Questions
 
-Quel mannequin britannique a commencé sa carrière à l'âge de 16 ans après avoir été repéré dans un [[pub]] de [[Londres]] ?
+Quelle actrice joue Karen Sirko dans la mini-série « [[Daisy Jones and the Six]] » (2023) ?
 
-Quelle actrice a interprété le rôle de [[Marjorie]] dans le film de science-fiction [[The Bad Batch]] sorti en 2016 ?
+Quelle actrice incarne Arlen, l'héroïne de « [[The Bad Batch]] » d'[[Ana Lily Amirpour]] ?
 
-Quel musicien britannique connu pour sa carrière solo a été en couple avec [[Suki Waterhouse]] de 2013 à 2015 ?
+Quelle actrice britannique a publié en 2022 son premier album, « I Can't Let Go », chez [[Sub Pop]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Elle a débuté sa carrière de mannequin à l'âge de 16 ans lorsqu'elle a ét�
 En parallèle de sa carrière de mannequin, [[Suki Waterhouse]] s'est lancée dans le cinéma avec un rôle notable dans le film "The Divergent Series: [[Insurgent]]" en 2015. 
 
 Fait étonnant, elle a chanté dans un groupe nommé "[[Suki and the Pussycats]]" avant de démarrer sa carrière solo en tant que chanteuse, une anecdote peu connue qui pourrait étonner plus d'un lors d'un quiz de culture générale.
+
+###### Archives questions
+
+Quel musicien britannique connu pour sa carrière solo a été en couple avec [[Suki Waterhouse]] de 2013 à 2015 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel mannequin britannique a commencé sa carrière à l'âge de 16 ans après avoir été repéré dans un [[pub]] de [[Londres]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice a interprété le rôle de [[Marjorie]] dans le film de science-fiction [[The Bad Batch]] sorti en 2016 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -31,10 +31,14 @@ culture_g_justification: "Acteur et réalisateur français récompensé, mais do
 
 Quel acteur a remporté le César du meilleur acteur en 2020 pour son rôle dans le film "[[Roubaix, une lumière]]" ?  
   
-Dans quel film de [[Rachid Bouchareb]] sorti en 2006, Roschdy Zem a-t-il joué aux côtés de [[Jamel Debbouze]] et [[Sami Bouajila]] ?  
+Quel acteur partage avec [[Jamel Debbouze]], [[Samy Naceri]], [[Sami Bouajila]] et [[Bernard Blancan]] le prix d'interprétation masculine à Cannes en 2006 ?
   
 Quel acteur a réalisé le film "[[Mauvaise foi]]", sorti en 2006, dans lequel il tient également le rôle principal ?
 
 ###### Description
 
 [[Roschdy Zem]] est un acteur et réalisateur français né le 27 septembre 1965 à [[Gennevilliers]]. Il a débuté sa carrière cinématographique dans les années 1990, mais c'est grâce à son rôle dans le film [[Mauvaise foi]] sorti en 2006, qu'il s'est véritablement imposé sur la scène du cinéma français. En 2019, sa performance exceptionnelle dans [[Roubaix, une lumière]] lui a valu le [[César du meilleur acteur]] lors de la 45e cérémonie des César, renforçant ainsi sa notoriété. En tant que réalisateur, il a également dirigé des films acclamés comme [[Chocolat]] en 2016, démontrant ainsi son talent polyvalent dans l'industrie cinématographique.
+
+###### Archives questions
+
+Dans quel film de [[Rachid Bouchareb]] sorti en 2006, Roschdy Zem a-t-il joué aux côtés de [[Jamel Debbouze]] et [[Sami Bouajila]] ? <!-- cm003 remplacée 2026-11-23 -->

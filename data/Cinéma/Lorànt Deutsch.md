@@ -29,11 +29,9 @@ culture_g_justification: "Acteur français identifiable par quelques films et so
 
 ###### Questions
 
-Dans quel film de 2001, réalisé par [[Luc Besson]], [[Lorànt Deutsch]] interprète-t-il un personnage prénommé [[Léonard]] ?
+Quel acteur joue Tibor Kovacs, jeune virtuose hongrois du football, dans « [[Trois Zéros]] » de [[Fabien Onteniente]] (2002) ?
 
-En 2003, quel acteur français, connu pour son rôle dans le film [[3 zéros]], a également publié un livre sur l'Histoire de Paris ?
-
-En quelle année [[Lorànt Deutsch]] a-t-il prêté sa voix pour la version française d'un personnage dans le film d'animation [[Cars]] de [[Pixar]] ?
+Quel acteur a écrit « [[Métronome]] », histoire de Paris racontée au fil des stations de métro ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Il partage l'affiche avec l'actrice [[Élodie Bouchez]] dans le film "[[Innocent
 En 2005, Lorànt Deutsch incarne le rôle principal dans le film "[[Les Âmes grises]]", une adaptation du roman éponyme de [[Philippe Claudel]], se déroulant durant la Première Guerre mondiale.
 
 Il prête également sa voix au personnage principal du film d'animation "[[Astérix et les Vikings]]" de 2006, où Astérix et Obélix doivent sauver le neveu du chef du village gaulois.
+
+###### Archives questions
+
+Dans quel film de 2001, réalisé par [[Luc Besson]], [[Lorànt Deutsch]] interprète-t-il un personnage prénommé [[Léonard]] ? <!-- cm003 archivée 2026-11-23 -->
+
+En quelle année [[Lorànt Deutsch]] a-t-il prêté sa voix pour la version française d'un personnage dans le film d'animation [[Cars]] de [[Pixar]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2003, quel acteur français, connu pour son rôle dans le film [[3 zéros]], a également publié un livre sur l'Histoire de Paris ? <!-- cm003 remplacée 2026-11-23 -->

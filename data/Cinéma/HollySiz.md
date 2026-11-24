@@ -29,12 +29,18 @@ culture_g_justification: "Artiste française de notoriété limitée dont les r�
 
 ###### Questions
 
-Dans quel film de [[Guillaume Canet]] sorti en 2010 la chanteuse [[HollySiz]] a-t-elle fait une apparition remarquée ?
+Sous quel nom de scène la demi-sœur de [[Vincent Cassel]] a-t-elle publié l'album « Rather Than Talking » ?
 
-Quel est le nom de scène utilisé par [[Cécile Cassel]], qui est aussi une artiste reconnue pour sa carrière musicale au-delà de ses performances cinématographiques, notamment à partir de 2013 ?
-
-Sous quel pseudonyme [[HollySiz]] a-t-elle sorti son premier album intitulé "My Name Is" en 2013, qui a rencontré un grand succès critique ?
+Quel est le nom de scène de [[Cécile Cassel]], interprète du single « Come Back to Me » en 2013 ?
 
 ###### Description
 
 [[HollySiz]], de son vrai nom [[Cécile Cassel]], s'est fait un nom comme chanteuse, mais elle est aussi apparue dans le monde du cinéma. En 2010, elle a joué dans le film français [[L'Âge de raison]] aux côtés de [[Sophie Marceau]], une œuvre qui a capté l'attention du public. Elle fait également partie du casting du film [[Baby Balloon]], sorti en 2014, qui met en lumière ses talents variés. Issue d'une célèbre famille du cinéma et de la musique, [[Cécile Cassel]] est la sœur de [[Vincent Cassel]], acteur de renommée internationale, et la fille de [[Jean-Pierre Cassel]], consolidant ses liens avec le septième art dès son plus jeune âge.
+
+###### Archives questions
+
+Dans quel film de [[Guillaume Canet]] sorti en 2010 la chanteuse [[HollySiz]] a-t-elle fait une apparition remarquée ? <!-- cm003 archivée 2026-11-23 -->
+
+Sous quel pseudonyme [[HollySiz]] a-t-elle sorti son premier album intitulé "My Name Is" en 2013, qui a rencontré un grand succès critique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de scène utilisé par [[Cécile Cassel]], qui est aussi une artiste reconnue pour sa carrière musicale au-delà de ses performances cinématographiques, notamment à partir de 2013 ? <!-- cm003 remplacée 2026-11-23 -->

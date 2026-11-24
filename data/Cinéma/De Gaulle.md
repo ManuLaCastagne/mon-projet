@@ -29,12 +29,20 @@ culture_g_justification: "Le titre renvoie ici au film biographique français de
 
 ###### Questions
 
-Quel film de [[Gabriel Le Bomin]] sorti en 2020 retrace la vie du célèbre homme politique [[Histoire/Charles de Gaulle]] pendant la Seconde Guerre mondiale ?
+Quel film de [[Gabriel Le Bomin]] (2020), centré sur l'année 1940, offre à [[Lambert Wilson]] le rôle du chef de la France libre ?
 
-Quel acteur français incarne [[Histoire/Charles de Gaulle]] dans le film centré sur sa vie sorti en 2020 ?
+Dans quel film de 2020 [[Isabelle Carré]] incarne-t-elle Yvonne, l'épouse du chef de la France libre ?
 
-Dans quel film de [[Gabriel Le Bomin]], ayant pour thème la [[Seconde Guerre mondiale]] et sorti en 2020, peut-on voir un enfant jouant le rôle du jeune [[Philippe de Gaulle]] ?
+Dans quel film de 2020 [[Olivier Gourmet]] incarne-t-il le président du Conseil [[Paul Reynaud]] ?
 
 ###### Description
 
 [[Histoire/Charles de Gaulle]] a eu une influence considérable sur le cinéma français, bien qu'il ne soit pas directement impliqué dans cette industrie. En 1946, il a créé le [[Centre national du cinéma et de l'image animée]] (CNC), une institution clé pour le financement et le soutien du cinéma français. Ce fut sous sa présidence que le [[Festival de Cannes]], initialement prévu pour 1939 mais reporté à cause de la guerre, a pu réellement se développer dès 1946, devenant ainsi une vitrine internationale pour le cinéma français. De plus, le film "[[De Gaulle]]", sorti en 2020 et réalisé par [[Gabriel Le Bomin]], a exploré des aspects personnels de la vie de [[Histoire/Charles de Gaulle]], offrant une nouvelle perspective sur ce personnage historique emblématique.
+
+###### Archives questions
+
+Quel film de [[Gabriel Le Bomin]] sorti en 2020 retrace la vie du célèbre homme politique [[Histoire/Charles de Gaulle]] pendant la Seconde Guerre mondiale ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur français incarne [[Histoire/Charles de Gaulle]] dans le film centré sur sa vie sorti en 2020 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Gabriel Le Bomin]], ayant pour thème la [[Seconde Guerre mondiale]] et sorti en 2020, peut-on voir un enfant jouant le rôle du jeune [[Philippe de Gaulle]] ? <!-- cm003 remplacée 2026-11-23 -->

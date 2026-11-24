@@ -31,12 +31,18 @@ culture_g_justification: "Film français contemporain assez confidentiel, suscep
 
 En 2020, dans quel film de Marc Fitoussi Karin Viard incarne-t-elle une femme unie à Benjamin Biolay qui joue un prestigieux chef d'orchestre?
 
-Quelle bande originale a été composée par [[Grégoire Hetzel]], collaborateur fréquent de [[Mathieu Amalric]], pour le film [[Les Apparences]] sorti en 2020 ?
+Pour quel film de [[Marc Fitoussi]] (2020) [[Bertrand Burgalat]] a-t-il composé la musique ?
 
-Quel film, où [[Karin Viard]] joue le rôle principal, explore les dessous d'une vie bourgeoise apparemment parfaite mais remplie de mensonges et de trahisons ?
+Dans quel thriller de 2020 [[Karin Viard]] et [[Benjamin Biolay]] forment-ils un couple de Français expatriés à [[Vienne (Autriche)]] ?
 
-Dans quel film de [[Marc Fitoussi]], basé sur le roman de [[Karin Alvtegen]], un couple expatrié autrichien voit son quotidien bouleversé par une suite d'événements inattendus ?
+Quel film adapte librement « Trahie », roman de la Suédoise [[Karin Alvtegen]] ?
 
 ###### Description
 
+###### Archives questions
 
+Quelle bande originale a été composée par [[Grégoire Hetzel]], collaborateur fréquent de [[Mathieu Amalric]], pour le film [[Les Apparences]] sorti en 2020 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film, où [[Karin Viard]] joue le rôle principal, explore les dessous d'une vie bourgeoise apparemment parfaite mais remplie de mensonges et de trahisons ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Marc Fitoussi]], basé sur le roman de [[Karin Alvtegen]], un couple expatrié autrichien voit son quotidien bouleversé par une suite d'événements inattendus ? <!-- cm003 remplacée 2026-11-23 -->

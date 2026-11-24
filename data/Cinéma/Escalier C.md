@@ -29,12 +29,16 @@ culture_g_justification: "Film français identifiable dans l’histoire du ciné
 
 ###### Questions
 
-Dans quel film de 1985 réalisé par [[Luc Besson]] peut-on voir une scène devenue culte se déroulant dans l'[[Escalier C]] ?
-
-Quel court-métrage de [[Pierre Salvadori]] a été utilisé comme carte de visite pour montrer son style, et inclut une scène mémorable autour d'un [[Escalier C]] ?
-
-Dans quel film du cinéma français, joué par des acteurs de renom et sorti en 1977, trouve-t-on un [[Escalier C]] se transformant en personnage presque à part entière ?
+Quel film de [[Jean-Charles Tacchella]] (1985), adapté d'un roman d'[[Elvire Murail]], suit un critique d'art joué par [[Robin Renucci]] et ses voisins d'immeuble ?
 
 ###### Description
 
 L'[[Escalier C]], situé dans les célèbres [[Studios de Cinecittà]] à Rome, a été le cadre de nombreux tournages de films iconiques depuis sa construction en 1937. Ce site a vu passer des légendes du cinéma telles que [[Federico Fellini]], qui y a tourné "[[La Dolce Vita]]" en 1960, un film qui a marqué l'histoire du cinéma italien. En 1959, le célèbre réalisateur [[Roberto Rossellini]] a également utilisé les installations du studio, notamment pour son film "[[Il Generale Della Rovere]]", récompensé du [[Lion d'or]] à la [[Mostra de Venise]]. Ces escaliers ont été immortalisés dans de nombreuses images cinématographiques, inscrivant ainsi [[Escalier C]] dans l'imaginaire collectif des cinéphiles du monde entier.
+
+###### Archives questions
+
+Dans quel film de 1985 réalisé par [[Luc Besson]] peut-on voir une scène devenue culte se déroulant dans l'[[Escalier C]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel court-métrage de [[Pierre Salvadori]] a été utilisé comme carte de visite pour montrer son style, et inclut une scène mémorable autour d'un [[Escalier C]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel film du cinéma français, joué par des acteurs de renom et sorti en 1977, trouve-t-on un [[Escalier C]] se transformant en personnage presque à part entière ? <!-- cm003 archivée 2026-11-23 -->

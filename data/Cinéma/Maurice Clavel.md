@@ -27,13 +27,13 @@ culture_g_justification: "Intellectuel et journaliste important dans certains mi
 
 ###### Questions
 
-En 1971, découvrant que l'un de ses reportages avait été censuré, quel écrivain et journaliste quitte le plateau de l'émission "[[A armes égales]]"?
+Quel écrivain quitte le plateau d'« [[À armes égales]] » en décembre 1971 en lançant « Messieurs les censeurs, bonsoir ! » ?
 
-Quel réalisateur controversé a été défendu par [[Maurice Clavel]] lors de l'émission de télévision "[[L'Avenir du futur]]" en 1971 pour son film "La Religieuse"?
+Quel écrivain fonde en 1971 avec [[Jean-Paul Sartre]] l'Agence de presse Libération, prélude au quotidien lancé en 1973 ?
 
-Quel philosophe et scénariste nommé [[Maurice Clavel]] a collaboré avec le cinéaste [[Luis Buñuel]] pour écrire une version de "La Voie lactée" sortie en 1969?
+Quel chef des FFI d'Eure-et-Loir accueille de Gaulle sur le parvis de la [[cathédrale de Chartres]] en 1944 ?
 
-Quel critique influent a coécrit le scénario du film [[Mourir pour la patrie]] en 1967 avec le réalisateur [[René Clément]]?
+Quel écrivain a coadapté et codialogué « [[Les Mariés de l'an II]] » (1971) de [[Jean-Paul Rappeneau]] ?
 
 ###### Description
 
@@ -44,3 +44,13 @@ En tant que critique de cinéma, il a souvent partagé ses réflexions sur l'ind
 En 1971, Clavel s'est fait remarquer lors du Festival de Cannes en quittant la cérémonie en protestation contre la censure, marquant ainsi son engagement pour la liberté d'expression. 
 
 Sa carrière littéraire et médiatique a été influencée par ses études à l'[[École Normale Supérieure]] et sa proximité avec des figures du monde intellectuel français telles que [[Jean-Paul Sartre]].
+
+###### Archives questions
+
+Quel réalisateur controversé a été défendu par [[Maurice Clavel]] lors de l'émission de télévision "[[L'Avenir du futur]]" en 1971 pour son film "La Religieuse"? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel philosophe et scénariste nommé [[Maurice Clavel]] a collaboré avec le cinéaste [[Luis Buñuel]] pour écrire une version de "La Voie lactée" sortie en 1969? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1971, découvrant que l'un de ses reportages avait été censuré, quel écrivain et journaliste quitte le plateau de l'émission "[[A armes égales]]"? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel critique influent a coécrit le scénario du film [[Mourir pour la patrie]] en 1967 avec le réalisateur [[René Clément]]? <!-- cm003 remplacée 2026-11-23 -->

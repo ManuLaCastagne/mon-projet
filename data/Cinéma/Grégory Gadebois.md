@@ -29,12 +29,18 @@ culture_g_justification: "Acteur français reconnu des amateurs de cinéma et de
 
 ###### Questions
 
-Dans quel film de 2013 réalisé par [[Guillaume Gallienne]] [[Grégory Gadebois]] joue-t-il le rôle d'un membre de la famille de [[Guillaume]]?
+Dans « [[Présidents]] » d'[[Anne Fontaine]] (2021), quel acteur incarne un ancien président de gauche face à [[Jean Dujardin]] ?
 
 Quel acteur, célèbre pour sa prestation à la [[Comédie-Française]], a remporté le César du meilleur espoir masculin en 2012 pour son rôle dans [[Angèle et Tony]]?
 
-Qui interprète le professeur d'astronomie sensible dans le film [[Les Gardiennes]], sorti en 2017 et réalisé par [[Xavier Beauvois]]?
+Quel acteur joue le cuisinier Manceron, qui ouvre l'un des premiers restaurants à la veille de la Révolution, dans « [[Délicieux]] » (2021) ?
 
 ###### Description
 
 [[Grégory Gadebois]] est un acteur français né le 24 juillet 1976 à [[Gruchet-le-Valasse]], en Normandie. Il a remporté le César du meilleur espoir masculin en 2012 pour sa performance dans le film "[[Angel & Tony]]", réalisé par [[Alix Delaporte]]. En 2019, il a interprété le rôle du célèbre peintre [[Pierre-Auguste Renoir]] dans le film "[[Cessez-le-feu]]" dirigé par [[Emmanuel Courcol]]. En 2021, il a été salué pour sa performance dans "[[Eiffel]]", un film de [[Martin Bourboulon]] qui retrace la construction de la célèbre tour parisienne.
+
+###### Archives questions
+
+Dans quel film de 2013 réalisé par [[Guillaume Gallienne]] [[Grégory Gadebois]] joue-t-il le rôle d'un membre de la famille de [[Guillaume]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui interprète le professeur d'astronomie sensible dans le film [[Les Gardiennes]], sorti en 2017 et réalisé par [[Xavier Beauvois]]? <!-- cm003 remplacée 2026-11-23 -->

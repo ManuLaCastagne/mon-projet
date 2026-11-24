@@ -29,12 +29,20 @@ culture_g_justification: "Réalisateur italien important pour le cinéma politiq
 
 ###### Questions
 
-Dans quel film de [[Francesco Rosi]], réalisé en 1984, [[Gian Maria Volonté]] incarne-t-il l'emblématique écrivain italien [[Carlo Levi]] exilé en [[Basilicate]] ?
+Quel cinéaste a adapté en 1979 « [[Le Christ s'est arrêté à Eboli]] », avec [[Gian Maria Volonté]] dans le rôle de [[Carlo Levi]] ?
 
-Quel documentaire de [[Francesco Rosi]], sorti en 1993, est consacré à l'illustre chef d'orchestre [[Arturo Toscanini]] ?
+Quel réalisateur italien a remporté le [[Lion d'or]] à Venise en 1963 avec « [[Main basse sur la ville]] » ?
 
-Quel film de [[Francesco Rosi]] a remporté le [[Grand Prix du Jury]] au Festival de Cannes en 1972 ?
+Quel réalisateur a partagé le Grand Prix du [[Festival de Cannes]] 1972 avec [[Elio Petri]] pour « [[L'Affaire Mattei]] » ?
 
 ###### Description
 
 [[Francesco Rosi]] est un réalisateur italien emblématique, connu pour ses films engagés et politiquement audacieux. Né en 1922, Rosi a marqué le cinéma avec des œuvres percutantes telles que "[[Salvatore Giuliano]]" en 1962, une analyse perçante de la vie d'un célèbre bandit sicilien. En 1972, il réalise "[[L'Affaire Mattei]]", un film qui lui vaudra la [[Palme d'or]] au Festival de Cannes, une distinction prestigieuse qui confirme son statut sur la scène internationale. Rosi est également reconnu pour avoir exploré des questions de pouvoir et de corruption dans l'Italie d'après-guerre, un thème central de sa carrière qui perdurera jusqu'à son dernier film en 1997, "[[La Trêve]]".
+
+###### Archives questions
+
+Dans quel film de [[Francesco Rosi]], réalisé en 1984, [[Gian Maria Volonté]] incarne-t-il l'emblématique écrivain italien [[Carlo Levi]] exilé en [[Basilicate]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel documentaire de [[Francesco Rosi]], sorti en 1993, est consacré à l'illustre chef d'orchestre [[Arturo Toscanini]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de [[Francesco Rosi]] a remporté le [[Grand Prix du Jury]] au Festival de Cannes en 1972 ? <!-- cm003 remplacée 2026-11-23 -->

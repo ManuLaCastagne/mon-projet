@@ -29,12 +29,20 @@ culture_g_justification: "Actrice-réalisatrice franco-italienne reconnue dans l
 
 ###### Questions
 
-Dans quel film de [[Valeria Bruni-Tedeschi]] sorti en 2003, la réalisatrice explore-t-elle sa propre vie de famille à travers une autobiographie fictive intitulée "[[Il est plus facile pour un chameau...]]" ?
+Quelle actrice franco-italienne, sœur de [[Carla Bruni]], a réalisé en 2003 son premier long métrage, « [[Il est plus facile pour un chameau...]] » ?
 
-En 2022, [[Valeria Bruni-Tedeschi]] a réalisé un film intitulé "[[Les Amandiers]]", qui relate l'histoire de jeunes acteurs dans les années 1980, mais à quelle école de théâtre célèbre ce film fait-il référence ?
+Quelle réalisatrice a évoqué ses années d'élève à l'école de [[Patrice Chéreau]], au théâtre de Nanterre, dans un film présenté à Cannes en 2022 ?
 
-Quel film réalisé par [[Valeria Bruni-Tedeschi]] sorti en 2013, nommé en hommage à sa célèbre grand-mère, a remporté le prix spécial du jury lors du [[Festival de Tribeca]]?
+Quelle réalisatrice a présenté en compétition à Cannes en 2013 « [[Un château en Italie]] », où elle joue aux côtés de [[Louis Garrel]] ?
 
 ###### Description
 
 [[Valeria Bruni-Tedeschi]], actrice et réalisatrice franco-italienne, est née le 16 novembre 1964 à Turin, en Italie. Elle a débuté sa carrière cinématographique en tant qu'actrice dans les années 1990, notamment avec le film [["Les gens normaux n'ont rien d'exceptionnel"]] en 1993, réalisé par [[Laurent Bouhnik]]. En 2003, elle passe derrière la caméra avec son premier long-métrage, [["Il est plus facile pour un chameau..."]], qui lui vaut le prix Louis-Delluc du premier film. Parmi ses proches, on retrouve sa sœur, [[Carla Bruni]], célèbre chanteuse et ancienne première dame de France, renforçant ainsi la notoriété de son nom dans les cercles artistiques et médiatiques.
+
+###### Archives questions
+
+Dans quel film de [[Valeria Bruni-Tedeschi]] sorti en 2003, la réalisatrice explore-t-elle sa propre vie de famille à travers une autobiographie fictive intitulée "[[Il est plus facile pour un chameau...]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2022, [[Valeria Bruni-Tedeschi]] a réalisé un film intitulé "[[Les Amandiers]]", qui relate l'histoire de jeunes acteurs dans les années 1980, mais à quelle école de théâtre célèbre ce film fait-il référence ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film réalisé par [[Valeria Bruni-Tedeschi]] sorti en 2013, nommé en hommage à sa célèbre grand-mère, a remporté le prix spécial du jury lors du [[Festival de Tribeca]]? <!-- cm003 remplacée 2026-11-23 -->

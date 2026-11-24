@@ -24,9 +24,9 @@ culture_g_justification: "Film reconnu par Mikhalkov, Mastroianni et Tchekhov, m
 ![[Pasted image 20250421150159.png]]
 ###### Questions
 
-En 1987, dans quel film de Nikita Mikhailkov [[Marcello Mastroianni]] s'éprend-il d'une russe ?
+Dans quel film de [[Nikita Mikhalkov]] (1987), inspiré de nouvelles d'[[Anton Tchekhov]], [[Marcello Mastroianni]] joue-t-il un Italien épris d'une Russe ?
 
-Quel long-métrage de [[Nikita Mikhalkov]] de 1987 connu en français sous le titre "[[Les Yeux Noirs]]" met en vedette [[Marcello Mastroianni]] dans le rôle principal ?
+Pour quel film [[Marcello Mastroianni]] a-t-il reçu le prix d'interprétation masculine au [[Festival de Cannes]] 1987 ?
 
 ###### Description
 
@@ -37,3 +37,9 @@ Basé sur plusieurs nouvelles d’[[Anton Tchekhov]], ce film raconte l'histoire
 Grâce à sa performance remarquable, [[Marcello Mastroianni]] a été récompensé du prix du meilleur acteur au Festival de Cannes en 1987. 
 
 La musique du film, qui accentue l’émotion des scènes romantiques et mélancoliques, a été composée par [[Francis Lai]], ajoutant ainsi une touche inoubliable à cette œuvre poignante.
+
+###### Archives questions
+
+Quel long-métrage de [[Nikita Mikhalkov]] de 1987 connu en français sous le titre "[[Les Yeux Noirs]]" met en vedette [[Marcello Mastroianni]] dans le rôle principal ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1987, dans quel film de Nikita Mikhailkov [[Marcello Mastroianni]] s'éprend-il d'une russe ? <!-- cm003 remplacée 2026-11-23 -->

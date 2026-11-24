@@ -32,11 +32,11 @@ culture_g_justification: "Métropole mondiale omniprésente dans les quiz grâce
 ![[Carte_Los Angeles.png]]
 ###### Questions
 
-Quel célèbre quartier de [[Los Angeles]], connu pour ses associations avec l'industrie cinématographique, a vu sa célèbre enseigne "[[Hollywood Sign]]" érigée pour la première fois en 1923 ? 
+Dans quelle ville se trouve le quartier d'[[Hollywood]], dont le célèbre panneau fut érigé en 1923 ?
 
-Dans quelle ville des [[États-Unis]] peut-on trouver [[Venice Beach]], une plage renommée, dont le développement a été inspiré par les canaux de [[Venise, Italie]] et qui a été fondée en [[Mutinerie de Potemkine]] ? 
+Dans quelle ville se trouve [[Venice Beach]], quartier dont [[Abbot Kinney]] fit creuser les canaux inspirés de [[Venise]] en 1905 ?
 
-Quel aéroport international, ouvert en 1930, est le principal point d'entrée vers [[Los Angeles]] et est souvent appelé par son code aéroportuaire [[LAX]] ?
+Quelle ville américaine a accueilli les jeux Olympiques d'été en 1932 et 1984 ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Fondée en 1781, elle est mondialement connue pour être le berceau de l'industr
 Un fait surprenant est que [[Los Angeles]] a accueilli pour la première fois les [[Jeux Olympiques]] en 1932, puis une seconde fois en 1984, et elle prévoit de le faire à nouveau en 2028, un exploit rare pour une ville. 
 
 La ville est aussi célèbre pour sa diversité, abritant une large communauté internationale, dont la plus grande communauté de populations mexicaines en dehors du [[Mexique]].
+
+###### Archives questions
+
+Quel célèbre quartier de [[Los Angeles]], connu pour ses associations avec l'industrie cinématographique, a vu sa célèbre enseigne "[[Hollywood Sign]]" érigée pour la première fois en 1923 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel aéroport international, ouvert en 1930, est le principal point d'entrée vers [[Los Angeles]] et est souvent appelé par son code aéroportuaire [[LAX]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville des [[États-Unis]] peut-on trouver [[Venice Beach]], une plage renommée, dont le développement a été inspiré par les canaux de [[Venise, Italie]] et qui a été fondée en [[Mutinerie de Potemkine]] ? <!-- cm003 remplacée 2026-11-23 -->

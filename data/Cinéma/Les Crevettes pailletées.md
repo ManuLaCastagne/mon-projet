@@ -29,11 +29,11 @@ culture_g_justification: "Comédie française récente portant un message social
 
 ###### Questions
 
-Dans quel film de 2019, une équipe de water-polo LGBTQ+ est-elle rassemblée pour participer aux Gay Games à [[Croatie]], mettant en avant un mélange d'humour et de diversité sous la direction de [[Cédric Le Gallo]] et [[Maxime Govare]] ?
+Quel film de 2019 suit une équipe de water-polo gay en route pour les Gay Games en [[Croatie]] ?
 
-Quel film français, sorti en 2019, raconte l'histoire d'un nageur professionnel condamné à entraîner une équipe de water-polo déjantée connue pour sa participation aux prestigieux Gay Games ?
+Dans quel film [[Nicolas Gob]] joue-t-il un vice-champion de natation condamné, après des propos homophobes, à entraîner une équipe de water-polo ?
 
-En quelle année est sorti le film portant sur une improbable équipe de water-polo formée par une bande d'amis gays, qui illustre un message d'acceptation et de camaraderie à travers l'œuvre intitule [[Les Crevettes pailletées]] ?
+Quelle comédie de 2019 s'inspire d'une véritable équipe de water-polo gay fréquentée par son coréalisateur [[Cédric Le Gallo]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ L'œuvre s'inspire de l'expérience personnelle de [[Cédric Le Gallo]] qui souh
 Le film a été tourné en partie dans les magnifiques paysages naturels de [[Bulgarie]], renforçant la dimension visuelle captivante de cette histoire touchante et authentique.
 
 "[[Les Crevettes pailletées]]" a été bien accueilli par la critique, amassant plus de [[500 000 entrées]] en France, et est devenu un symbole de tolérance et de diversité dans le paysage cinématographique français.
+
+###### Archives questions
+
+En quelle année est sorti le film portant sur une improbable équipe de water-polo formée par une bande d'amis gays, qui illustre un message d'acceptation et de camaraderie à travers l'œuvre intitule [[Les Crevettes pailletées]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 2019, une équipe de water-polo LGBTQ+ est-elle rassemblée pour participer aux Gay Games à [[Croatie]], mettant en avant un mélange d'humour et de diversité sous la direction de [[Cédric Le Gallo]] et [[Maxime Govare]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film français, sorti en 2019, raconte l'histoire d'un nageur professionnel condamné à entraîner une équipe de water-polo déjantée connue pour sa participation aux prestigieux Gay Games ? <!-- cm003 remplacée 2026-11-23 -->

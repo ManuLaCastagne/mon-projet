@@ -28,11 +28,9 @@ culture_g_justification: "Drame français connu surtout des cinéphiles et assoc
 ![[Pasted image 20250416133556.png]]
 ###### Questions
 
-Dans quel film de 1984, l'actrice [[Valérie Kaprisky]] interprète-t-elle le rôle de [[Chris Prat]] aux côtés de [[Bernard Giraudeau]] ? 
+Quel film de 1984, que [[Christopher Frank]] adapte de son propre roman, révèle [[Valérie Kaprisky]] sur une plage de la Côte d'Azur ?
 
-Quel film controversé, sorti en 1984, met en scène les dangers des relations amoureuses dans le cadre estival de [[Saint-Tropez]] ? 
-
-En quelle année est sorti le film [[L'Année des méduses]], réalisé par [[Christopher Frank]], suscitant des débats pour sa thématique audacieuse ?
+Pour quel film de 1984 [[Caroline Cellier]] a-t-elle reçu le [[César de la meilleure actrice dans un second rôle]] ?
 
 ###### Description
 
@@ -43,3 +41,11 @@ Adapté du roman éponyme de [[Christopher Frank]], l'histoire se déroule sur l
 Le film a été récompensé par le César du meilleur acteur dans un second rôle en 1985, remis à [[Bernard Giraudeau]] pour son interprétation. 
 
 [[L'Année des méduses]] est souvent mentionné pour sa bande originale composée par [[Julien Clerc]], ce qui contribue à son ambiance évocatrice des années 1980.
+
+###### Archives questions
+
+En quelle année est sorti le film [[L'Année des méduses]], réalisé par [[Christopher Frank]], suscitant des débats pour sa thématique audacieuse ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 1984, l'actrice [[Valérie Kaprisky]] interprète-t-elle le rôle de [[Chris Prat]] aux côtés de [[Bernard Giraudeau]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film controversé, sorti en 1984, met en scène les dangers des relations amoureuses dans le cadre estival de [[Saint-Tropez]] ? <!-- cm003 archivée 2026-11-23 -->
