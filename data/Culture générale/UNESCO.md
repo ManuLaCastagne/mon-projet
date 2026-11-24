@@ -1,6 +1,5 @@
 ---
 tags:
-  - Culture générale
   - International
   - Années_1940
   - XXe
@@ -18,7 +17,7 @@ indice_5:
 indice_6:
   - Paris
 culture_g_score: 88
-culture_g_justification: "L'UNESCO et sa liste du patrimoine mondial sont citées dans un très grand nombre de questions de géographie et d'architecture."
+culture_g_justification: L'UNESCO et sa liste du patrimoine mondial sont citées dans un très grand nombre de questions de géographie et d'architecture.
 creation: cm023
 ---
 ![Image de UNESCO](https://upload.wikimedia.org/wikipedia/commons/0/05/UNESCO_building_Paris_01.jpg)

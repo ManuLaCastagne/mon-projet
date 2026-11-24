@@ -9,9 +9,6 @@ tags:
   - Géographie
   - Chili
   - Département_de_Chili
-tags_archives_cm003:
-  - "La_région_de_Chili_n'existe_pas,_il_semblerait_qu'il_y_ait_une_confusion_entre_le_pays_entier_et_ses_subdivisions._Pour_la_précision_demandée_:\nRégion_de_Chili"
-
 indice_1:
   - Andes
 indice_2:
@@ -27,7 +24,7 @@ indice_6:
 questions:
   - En 2016, dans quel pays se déroule l'action du film "Les 33" qui relate le fait divers au cours duquel des mineurs ont été pris au piège dans une mine?
 culture_g_score: 80
-culture_g_justification: "Pays sud-américain fréquemment mobilisé grâce à l’Atacama, l’île de Pâques, la Patagonie, les Andes et son histoire minière."
+culture_g_justification: Pays sud-américain fréquemment mobilisé grâce à l’Atacama, l’île de Pâques, la Patagonie, les Andes et son histoire minière.
 ---
 ![Image de Chili](https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg)
 <!-- image remplacée (cm020) : https://upload.wikimedia.org/wikipedia/commons/f/f8/VitorJubini_MercadoDaVilaRubim_Vitoria_ES_%2839182859020%29_%28square_crop%29.jpg -->
@@ -35,7 +32,7 @@ culture_g_justification: "Pays sud-américain fréquemment mobilisé grâce à l
 ![[Carte_Chili.png]]
 ###### Questions
 
-Quel pays d'Amérique du Sud abrite le désert d'[[Atacama]], l'un des endroits les plus arides du monde, où certaines stations météorologiques n'ont pas enregistré de pluie depuis les années 1970 ?
+Quel pays d'Amérique du Sud abrite le [[Désert d'Atacama]], l'un des endroits les plus arides du monde, où certaines stations météorologiques n'ont pas enregistré de pluie depuis les années 1970 ?
 
 Quel pays compte parmi ses territoires insulaires l'[[Île de Pâques]], une île isolée de l'océan Pacifique célèbre pour ses statues monumentales, les [[moai]], annexée en 1888 ?
 

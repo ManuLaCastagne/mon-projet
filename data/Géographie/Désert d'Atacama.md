@@ -8,24 +8,22 @@ tags:
   - Géographie
   - Antofagasta
   - Chili
-  - Antofagasta
-
-indice_1 : 
+indice_1:
   - aridité extrême
-indice_2 : 
+indice_2:
   - Chilli
-indice_3 : 
+indice_3:
   - Andes
-indice_4 : 
+indice_4:
   - désert côtier
-indice_5 : 
+indice_5:
   - observatoires astronomiques
-indice_6 : 
+indice_6:
   - Valle de la Luna
 questions:
- - Quel désert du Chili a subi une sécheresse de 400 ans ?
+  - Quel désert du Chili a subi une sécheresse de 400 ans ?
 culture_g_score: 80
-culture_g_justification: "Désert emblématique, l’Atacama revient pour son aridité extrême, le Chili, l’astronomie, la géologie et les analogies martiennes."
+culture_g_justification: Désert emblématique, l’Atacama revient pour son aridité extrême, le Chili, l’astronomie, la géologie et les analogies martiennes.
 ---
 ![Image de Désert d'Atakama](https://upload.wikimedia.org/wikipedia/commons/2/2d/Actes_de_la_Socie%3Fte%3F_linne%3Fenne_de_Bordeaux._%28IA_mobot31753002145933%29.pdf)
 
