@@ -29,11 +29,11 @@ culture_g_justification: "Actrice très reconnaissable grâce à Twilight, Spide
 
 ###### Questions
 
-Dans quel film de 1994 [[Kirsten Dunst]] a-t-elle joué le rôle de [[Claudia]], un jeune vampire, aux côtés de [[Tom Cruise]] et [[Brad Pitt]] ?
+Quelle actrice joue Claudia, une enfant vampire, dans « [[Entretien avec un vampire]] » (1994) face à [[Tom Cruise]] et [[Brad Pitt]] ?
 
-En 2011, dans quel film de [[Lars von Trier]] [[Kirsten Dunst]] a-t-elle remporté le [[Prix d'interprétation féminine]] au Festival de Cannes pour son rôle dans [[Melancholia]] ?
+Quelle actrice a remporté le prix d'interprétation féminine à Cannes en 2011 pour « [[Melancholia]] » de [[Lars von Trier]] ?
 
-Quel est le titre du film de 2002 où [[Kirsten Dunst]] incarne [[Mary Jane Watson]] aux côtés de [[Tobey Maguire]] dans le rôle de [[Spider-Man]] ?
+Quelle actrice incarne [[Mary Jane Watson]] face à [[Tobey Maguire]] dans le « [[Spider-Man (film)|Spider-Man]] » de [[Sam Raimi]] (2002) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 2002, elle devient mondialement célèbre en interprétant [[Mary Jane Watson
 L'année 2011 marque un tournant dans sa carrière avec sa performance acclamée dans "[[Melancholia]]", réalisé par [[Lars von Trier]], pour lequel elle remporte le prix d'interprétation féminine au Festival de Cannes. 
 
 En 2015, elle brille à nouveau dans la série télévisée [[Fargo (film)]], jouant le rôle de [[Peggy Blumquist]], et reçoit une nomination au [[Golden Globe]] pour sa performance exceptionnelle.
+
+###### Archives questions
+
+Dans quel film de 1994 [[Kirsten Dunst]] a-t-elle joué le rôle de [[Claudia]], un jeune vampire, aux côtés de [[Tom Cruise]] et [[Brad Pitt]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2011, dans quel film de [[Lars von Trier]] [[Kirsten Dunst]] a-t-elle remporté le [[Prix d'interprétation féminine]] au Festival de Cannes pour son rôle dans [[Melancholia]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du film de 2002 où [[Kirsten Dunst]] incarne [[Mary Jane Watson]] aux côtés de [[Tobey Maguire]] dans le rôle de [[Spider-Man]] ? <!-- cm003 remplacée 2026-11-23 -->

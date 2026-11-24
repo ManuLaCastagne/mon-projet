@@ -29,11 +29,11 @@ culture_g_justification: "Actrice française connue pour Buñuel, James Bond et 
 
 ###### Questions
 
-Dans quel film de [[Luis Buñuel]] de 1977 [[Carole Bouquet]] fait-elle ses débuts au cinéma ?
+Quelle actrice fait ses débuts en 1977 dans « [[Cet obscur objet du désir]] » de [[Luis Buñuel]], rôle partagé avec [[Ángela Molina]] ?
 
-Quel rôle a joué [[Carole Bouquet]] dans le film iconique de [[James Bond]], [[Rien que pour vos yeux]], sorti en 1981 ?
+Quelle actrice française incarne la James Bond girl Melina Havelock dans « [[Rien que pour vos yeux]] » (1981) ?
 
-En quelle année [[Carole Bouquet]] a-t-elle remporté le César de la meilleure actrice pour son rôle dans [[Trop belle pour toi]] ?
+Quelle actrice a reçu le César de la meilleure actrice en 1990 pour « [[Trop belle pour toi]] » de [[Bertrand Blier]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a remporté le César de la meilleure actrice en 1990 pour son rôle dans "
 En 1989, elle est devenue l'emblème de la marque de luxe [[Chanel]] en incarnant le célèbre parfum [[Chanel N°5]], une campagne qui a renforcé son statut d'icône glamoureuse mondiale. 
 
 Carole Bouquet a fait une incursion dans le cinéma international, comme avec sa participation au James Bond "For Your Eyes Only" ("Rien que pour vos yeux") en 1981, où elle a joué aux côtés de [[Roger Moore]].
+
+###### Archives questions
+
+Dans quel film de [[Luis Buñuel]] de 1977 [[Carole Bouquet]] fait-elle ses débuts au cinéma ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle a joué [[Carole Bouquet]] dans le film iconique de [[James Bond]], [[Rien que pour vos yeux]], sorti en 1981 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Carole Bouquet]] a-t-elle remporté le César de la meilleure actrice pour son rôle dans [[Trop belle pour toi]] ? <!-- cm003 remplacée 2026-11-23 -->

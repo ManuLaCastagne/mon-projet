@@ -29,11 +29,11 @@ culture_g_justification: "Acteur populaire du cinéma français, associé à Bou
 
 ###### Questions
 
-Dans quel film de [[Claude Zidi]] sorti en 1984, [[Jean Carmet]] joue-t-il le rôle de [[Paul]], le père de [[François Pignon]] ?
+Quel acteur incarne Georges Lajoie, le campeur raciste de « [[Dupont Lajoie]] » d'[[Yves Boisset]], en 1975 ?
 
-Quel acteur, célèbre pour ses rôles dans le cinéma français, était un grand ami de [[Bourvil]] et est connu pour avoir prononcé la phrase "Les bouchers sont sympas" dans [[Michel Audiard]]'s [[Un singe en hiver]] de 1962 ?
+Quel acteur joue Maurice, l'ami du violoniste incarné par [[Pierre Richard]], dans « [[Le Grand Blond avec une chaussure noire]] » ?
 
-Quel acteur français, décédé en 1994, a reçu le César du meilleur second rôle masculin en 1983 pour sa performance dans [[Les Misérables]] de [[Robert Hossein]] ?
+Quel acteur, mort en 1994, a reçu le César du meilleur second rôle masculin en 1983 pour son Thénardier dans « [[Les Misérables (film, 1982)|Les Misérables]] » de [[Robert Hossein]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Il a notamment joué dans des films emblématiques tels que "[[Les Misérables]]
 En 1992, son interprétation dans "[[Merci la vie]]" de [[Bertrand Blier]] a été particulièrement remarquée, confirmant ainsi son statut d'acteur versatile et incontournable du paysage cinématographique français.
 
 [[Jean Carmet]] est décédé le 20 avril 1994, laissant derrière lui une carrière riche et une empreinte indélébile dans le cinéma, avec plus de 200 films à son actif.
+
+###### Archives questions
+
+Dans quel film de [[Claude Zidi]] sorti en 1984, [[Jean Carmet]] joue-t-il le rôle de [[Paul]], le père de [[François Pignon]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, célèbre pour ses rôles dans le cinéma français, était un grand ami de [[Bourvil]] et est connu pour avoir prononcé la phrase "Les bouchers sont sympas" dans [[Michel Audiard]]'s [[Un singe en hiver]] de 1962 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur français, décédé en 1994, a reçu le César du meilleur second rôle masculin en 1983 pour sa performance dans [[Les Misérables]] de [[Robert Hossein]] ? <!-- cm003 remplacée 2026-11-23 -->

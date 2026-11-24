@@ -27,11 +27,11 @@ culture_g_justification: "Acteur populaire associé à plusieurs films à succè
 
 ###### Questions
 
-Dans quel film de [[Bradley Cooper]] sorti en 2014 a-t-il incarné le rôle du tireur d'élite [[Chris Kyle]], battant les records de précision au fusil de l'armée américaine ?
+Quel acteur incarne le tireur d'élite [[Chris Kyle]] dans « [[American Sniper]] » de [[Clint Eastwood]] (2014) ?
 
-Quel acteur, nommé [[Bradley Cooper]], a prêté sa voix au personnage de [[Rocket Raccoon]] dans le film de la superproduction [[Marvel Studios]], [[Les Gardiens de la Galaxie]], sorti en 2014 ?
+Quel acteur prête sa voix au raton laveur [[Rocket Raccoon]] dans « [[Les Gardiens de la Galaxie (film)|Les Gardiens de la Galaxie]] » (2014) ?
 
-Dans quelle comédie romantique de 2009 [[Bradley Cooper]] joue-t-il aux côtés de [[Sandra Bullock]] dans le rôle de [[Steve Miller]] ?
+Quel acteur réalise « [[A Star Is Born (film, 2018)|A Star Is Born]] » en 2018 et y donne la réplique à [[Lady Gaga]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Il a été nommé huit fois aux [[Oscars]] entre 2013 et 2020, ce qui fait de lu
 Fait surprenant, il est aussi un musicien accompli et a interprété lui-même toutes les chansons de son personnage dans le film [[A Star is Born]] (2018), y compris la célèbre chanson "Shallow", qui a remporté l'[[Oscar]] de la meilleure chanson originale en 2019. 
 
 En plus de sa carrière cinématographique, [[Bradley Cooper]] a fait ses débuts à [[Broadway]] en 2014 dans la pièce "[[The Elephant Man]]", pour laquelle il a reçu des critiques élogieuses.
+
+###### Archives questions
+
+Dans quel film de [[Bradley Cooper]] sorti en 2014 a-t-il incarné le rôle du tireur d'élite [[Chris Kyle]], battant les records de précision au fusil de l'armée américaine ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, nommé [[Bradley Cooper]], a prêté sa voix au personnage de [[Rocket Raccoon]] dans le film de la superproduction [[Marvel Studios]], [[Les Gardiens de la Galaxie]], sorti en 2014 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle comédie romantique de 2009 [[Bradley Cooper]] joue-t-il aux côtés de [[Sandra Bullock]] dans le rôle de [[Steve Miller]] ? <!-- cm003 remplacée 2026-11-23 -->

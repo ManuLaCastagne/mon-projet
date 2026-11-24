@@ -29,11 +29,11 @@ culture_g_justification: "Actrice française de premier plan liée à Fellini, D
 
 ###### Questions
 
-Quel film réalisé par [[Jacques Demy]] en 1961 a permis à [[Anouk Aimée]] de décrocher le prix d'interprétation féminine à Cannes ?
+Quelle actrice incarne la danseuse de cabaret « [[Lola (film, 1961)|Lola]] » dans le premier long métrage de [[Jacques Demy]], en 1961 ?
 
-Quel rôle a joué [[Anouk Aimée]] dans le film classique de [[Federico Fellini]] sorti en 1963 intitulé "[[Huit et demi]]" ?
+Quelle actrice joue Luisa, l'épouse délaissée du héros incarné par [[Marcello Mastroianni]], dans « [[Huit et demi]] » de [[Federico Fellini]] ?
 
-Pour quel film, sorti en 1966, [[Anouk Aimée]] a-t-elle été nominée à l'Oscar de la meilleure actrice ?
+Quelle actrice a été nommée à l'Oscar de la meilleure actrice pour « [[Un homme et une femme]] » de [[Claude Lelouch]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a acquis une renommée internationale grâce à son rôle dans "La Dolce Vi
 En 1987, [[Anouk Aimée]] a été honorée par le prix de la meilleure actrice au Festival de Cannes pour son rôle dans "[[Le Wagon à vaches]]" de [[Robert Enrico]]. 
 
 Connue pour sa grâce et son talent intemporel, elle a laissé une empreinte indélébile dans le paysage cinématographique mondial.
+
+###### Archives questions
+
+Quel film réalisé par [[Jacques Demy]] en 1961 a permis à [[Anouk Aimée]] de décrocher le prix d'interprétation féminine à Cannes ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle a joué [[Anouk Aimée]] dans le film classique de [[Federico Fellini]] sorti en 1963 intitulé "[[Huit et demi]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel film, sorti en 1966, [[Anouk Aimée]] a-t-elle été nominée à l'Oscar de la meilleure actrice ? <!-- cm003 remplacée 2026-11-23 -->

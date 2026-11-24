@@ -29,12 +29,18 @@ culture_g_justification: "Acteur irlandais connu pour plusieurs productions inte
 
 ###### Questions
 
-Dans quel film de [[Steven Spielberg]] sorti en 2002 [[Colin Farrell]] joue-t-il le rôle de l'agent [[Danny Witwer]] ?
+Quel acteur irlandais incarne l'agent fédéral Danny Witwer dans « [[Minority Report (film)|Minority Report]] » de [[Steven Spielberg]] ?
 
-[[Colin Farrell]] a remporté le [[Golden Globe]] du meilleur acteur en 2009 pour son rôle dans quel film britannique réalisé par [[Martin McDonagh]] ?
+Quel acteur a remporté le Golden Globe du meilleur acteur dans une comédie en 2009 pour « [[Bons baisers de Bruges]] » de [[Martin McDonagh]] ?
 
 Quel acteur irlandais incarne le personnage de [[Percival Graves]] dans le film [[Les Animaux fantastiques]] sorti en 2016 ?
 
 ###### Description
 
 [[Colin Farrell]] est un acteur irlandais reconnu pour sa polyvalence dans le cinéma hollywoodien. Il a marqué les esprits avec son rôle dans le film de guerre [[Tigerland]] en 2000, qui a véritablement lancé sa carrière. En 2008, il a remporté un [[Golden Globe]] du meilleur acteur pour sa performance dans la comédie dramatique [[In Bruges]], réalisée par [[Martin McDonagh]]. Plus récemment, Colin Farrell a été acclamé pour son rôle dans le film à succès [[The Lobster]] en 2015, qui a été réalisé par [[Yorgos Lanthimos]], un réalisateur grec aux idées novatrices.
+
+###### Archives questions
+
+Dans quel film de [[Steven Spielberg]] sorti en 2002 [[Colin Farrell]] joue-t-il le rôle de l'agent [[Danny Witwer]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+[[Colin Farrell]] a remporté le [[Golden Globe]] du meilleur acteur en 2009 pour son rôle dans quel film britannique réalisé par [[Martin McDonagh]] ? <!-- cm003 remplacée 2026-11-23 -->

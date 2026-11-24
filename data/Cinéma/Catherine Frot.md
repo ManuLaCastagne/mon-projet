@@ -30,13 +30,13 @@ culture_g_justification: "Actrice française connue pour plusieurs comédies et 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/32jlifDfBSg1MlaVmZ14RT" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ###### Questions
 
-Dans quel film sorti en 2015, [[Catherine Frot]] incarne-t-elle une héritière voulant devenir cantatrice bien qu'elle chante faux ? 
+Quelle actrice a reçu le César de la meilleure actrice en 2016 pour « [[Marguerite (film)|Marguerite]] » de [[Xavier Giannoli]], où elle incarne une baronne qui chante faux ?
 
 En 2004, dans "[[Les Sœurs Fâchées]]" d'Alexandra Leclerc, quelle actrice incarne la sœur d'[[Isabelle Huppert]] ?
 
-Dans quel long-métrage de 2001, [[Catherine Frot]] a-t-elle joué aux côtés de [[Michel Serrault]], marquant une collaboration dans un film du célèbre genre [[polar français]] ? 
+Quelle actrice partage l'affiche de « [[Chaos (film, 2001)|Chaos]] » de [[Coline Serreau]] (2001) avec [[Vincent Lindon]] et [[Rachida Brakni]] ?
 
-Pour sa performance dans quel film de 1996, [[Catherine Frot]] a-t-elle remporté le [[César de la Meilleure Actrice dans un Second Rôle]] lors de la [[21e cérémonie des César]] ?
+Quelle actrice a reçu le César du meilleur second rôle féminin en 1997 pour « [[Un air de famille]] » de [[Cédric Klapisch]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Elle a remporté le [[César de la meilleure actrice]] en 2016 pour son rôle da
 Parmi ses autres performances notables, elle a joué le personnage de [[Fleur]] dans "[[Un air de famille]]", un film de [[Cédric Klapisch]] sorti en 1996, qui lui a valu un César pour la meilleure actrice dans un second rôle. 
 
 Passionnée par les arts dramatiques depuis son plus jeune âge, elle a aussi cofondé la [[Compagnie du Chapeau Rouge]] avec [[Christine Gagnieux]] en 1978, marquant le début d'une carrière riche et variée au théâtre et au cinéma.
+
+###### Archives questions
+
+Dans quel film sorti en 2015, [[Catherine Frot]] incarne-t-elle une héritière voulant devenir cantatrice bien qu'elle chante faux ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel long-métrage de 2001, [[Catherine Frot]] a-t-elle joué aux côtés de [[Michel Serrault]], marquant une collaboration dans un film du célèbre genre [[polar français]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour sa performance dans quel film de 1996, [[Catherine Frot]] a-t-elle remporté le [[César de la Meilleure Actrice dans un Second Rôle]] lors de la [[21e cérémonie des César]] ? <!-- cm003 remplacée 2026-11-23 -->

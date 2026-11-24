@@ -29,12 +29,20 @@ culture_g_justification: "Actrice belge connue du public francophone et liée à
 
 ###### Questions
 
-Dans quel film de [[Clint Eastwood]] sorti en 2010, [[Cécile de France]] incarne-t-elle une journaliste française ayant vécu une expérience de mort imminente ?
+Quelle actrice belge joue une journaliste française rescapée d'un tsunami dans « [[Au-delà (film, 2010)|Au-delà]] » de [[Clint Eastwood]] ?
 
-Pour quel film réalisé par les frères [[Dardenne]] en 2005, [[Cécile de France]] rejoint-elle le casting, contribuant à la palme d'or de ce film au Festival de Cannes ?
+Quelle actrice joue Samantha, la coiffeuse qui recueille un enfant dans « [[Le Gamin au vélo]] » des frères [[Dardenne]] ?
 
-Quelle actrice belge a prêté sa voix au personnage de [[Violette Beauregard]] dans le film de [[Tim Burton]] "Charlie et la Chocolaterie" sorti en 2005 ?
+Quelle actrice belge a reçu le César du meilleur espoir féminin pour « [[L'Auberge espagnole]] » de [[Cédric Klapisch]] ?
 
 ###### Description
 
 [[Cécile de France]] est une actrice belge née le 17 juillet 1975 à [[Namur]]. Elle se fait internationalement connaître grâce à son rôle dans le film français [[L'Auberge espagnole]], réalisé par [[Cédric Klapisch]] et sorti en 2002. En 2012, elle reçoit le [[César de la meilleure actrice dans un second rôle]] pour sa performance dans le film [[Les Poupées russes]], suite de L'Auberge espagnole. Au fil de sa carrière, [[Cécile de France]] a collaboré avec de prestigieux réalisateurs, dont [[Clint Eastwood]] pour le film [[Au-delà]], sorti en 2010.
+
+###### Archives questions
+
+Dans quel film de [[Clint Eastwood]] sorti en 2010, [[Cécile de France]] incarne-t-elle une journaliste française ayant vécu une expérience de mort imminente ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel film réalisé par les frères [[Dardenne]] en 2005, [[Cécile de France]] rejoint-elle le casting, contribuant à la palme d'or de ce film au Festival de Cannes ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice belge a prêté sa voix au personnage de [[Violette Beauregard]] dans le film de [[Tim Burton]] "Charlie et la Chocolaterie" sorti en 2005 ? <!-- cm003 remplacée 2026-11-23 -->

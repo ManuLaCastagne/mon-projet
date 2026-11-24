@@ -29,11 +29,11 @@ culture_g_justification: "Actrice surtout connue pour The Artist et sa récompen
 
 ###### Questions
 
-Dans quel film sorti en 2011, [[Bérénice Bejo]] a-t-elle joué aux côtés de [[Jean Dujardin]], un film qui a remporté plusieurs Oscars ?
+Quelle actrice incarne Peppy Miller face à [[Jean Dujardin]] dans « [[The Artist]] », rôle qui lui vaut le César de la meilleure actrice ?
 
-Dans quelle production de 2013, mise en scène par le réalisateur iranien [[Asghar Farhadi]], [[Bérénice Bejo]] a-t-elle remporté le [[Prix d'interprétation féminine]] au Festival de Cannes ?
+Quelle actrice a reçu le prix d'interprétation féminine à Cannes en 2013 pour « [[Le Passé]] » d'[[Asghar Farhadi]] ?
 
-Quel est le nom du film réalisé par [[Michel Hazanavicius]] en 2012 où [[Bérénice Bejo]] prête sa voix à un personnage d'animation français ?
+Quelle actrice, née à [[Buenos Aires]] en 1976, est la compagne du réalisateur [[Michel Hazanavicius]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Son interprétation dans ce film lui a valu le César de la meilleure actrice en
 Avant "The Artist", elle s'est fait connaître du grand public avec le film "[[OSS 117 : Le Caire, nid d'espions]]" en 2006, aux côtés de [[Jean Dujardin]]. 
 
 Elle est mariée au réalisateur [[Michel Hazanavicius]], avec qui elle a collaboré à plusieurs reprises, notamment sur "The Artist" et "[[Le Passé]]" sorti en 2013, qui lui a aussi valut le prix d'interprétation féminine au Festival de Cannes.
+
+###### Archives questions
+
+Dans quel film sorti en 2011, [[Bérénice Bejo]] a-t-elle joué aux côtés de [[Jean Dujardin]], un film qui a remporté plusieurs Oscars ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle production de 2013, mise en scène par le réalisateur iranien [[Asghar Farhadi]], [[Bérénice Bejo]] a-t-elle remporté le [[Prix d'interprétation féminine]] au Festival de Cannes ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du film réalisé par [[Michel Hazanavicius]] en 2012 où [[Bérénice Bejo]] prête sa voix à un personnage d'animation français ? <!-- cm003 remplacée 2026-11-23 -->

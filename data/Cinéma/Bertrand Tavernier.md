@@ -30,11 +30,11 @@ culture_g_justification: "Réalisateur français majeur et historien du cinéma,
 
 ###### Questions
 
-Dans quel domaine [[Bertrand Tavernier]] a-t-il remporté le César du meilleur réalisateur en 1990 pour son film "La Vie et rien d'autre" ?
+Quel cinéaste lyonnais a tourné son premier long métrage, « [[L'Horloger de Saint-Paul]] », en 1974 avec [[Philippe Noiret]] ?
 
-Quel grand prix du Festival de Cannes un film de [[Bertrand Tavernier]] a-t-il remporté en 1984 ?
+Quel cinéaste a reçu le prix de la mise en scène à Cannes en 1984 pour « [[Un dimanche à la campagne]] » ?
 
-Dans quel domaine [[Bertrand Tavernier]] s'est-il illustré en réalisant le film "Coup de Torchon" en 1981, qui est une adaptation du roman "Pop. 1280" de [[Jim Thompson]] ?
+Quel réalisateur transpose en Afrique-Occidentale française le roman « 1275 âmes » de [[Jim Thompson]] dans « [[Coup de torchon]] » (1981) ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Parmi ses nombreuses contributions au septième art, on compte le film "[[La Vie
 
 
 En 1995,  son film "[[L'Appât]]" a été couronné de l'[[Ours d'or]] au Festival du film de [[Berlin]], consolidant sa notoriété à l'échelle internationale.
+
+###### Archives questions
+
+Dans quel domaine [[Bertrand Tavernier]] a-t-il remporté le César du meilleur réalisateur en 1990 pour son film "La Vie et rien d'autre" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel grand prix du Festival de Cannes un film de [[Bertrand Tavernier]] a-t-il remporté en 1984 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel domaine [[Bertrand Tavernier]] s'est-il illustré en réalisant le film "Coup de Torchon" en 1981, qui est une adaptation du roman "Pop. 1280" de [[Jim Thompson]] ? <!-- cm003 remplacée 2026-11-23 -->

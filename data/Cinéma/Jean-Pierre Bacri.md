@@ -27,10 +27,16 @@ culture_g_justification: "Acteur et scénariste central de la comédie dramatiqu
 
 ###### Questions
 
-Qui est associé à des films comme "Un Air de famille", "[[Didier]]" et "[[Le Goût des autres]]" et disparait en janvier 2021 ? <!-- score: 8 -->
+Quel acteur, disparu en janvier 2021, a joué dans « [[Didier]] », « [[Un air de famille]] » et « [[Le Goût des autres]] » ?
 
-Dans quel film de 1993, Jean-Pierre Bacri a-t-il cosigné le scénario avec [[Agnès Jaoui]], aboutissant à un succès critique et public en remportant le [[César Award]] du meilleur scénario original ?
+Quel acteur a cosigné avec [[Agnès Jaoui]] le scénario de « [[Smoking / No Smoking]] » d'[[Alain Resnais]], César du meilleur scénario en 1994 ?
 
 ###### Description
 
 [[Jean-Pierre Bacri]] était un acteur et scénariste français très apprécié pour ses rôles et ses collaborations artistiques mémorables. Il a souvent travaillé aux côtés d'[[Agnès Jaoui]], avec qui il a co-écrit plusieurs films, dont "[[Le Goût des autres]]" en 2000, qui a remporté quatre [[Césars]], dont celui du meilleur scénario. Bacri a également joué dans le film "[[Un Air de famille]]" en 1996, qui lui a valu le [[César du meilleur acteur]] dans un second rôle. Un autre moment marquant de sa carrière est son rôle dans le film "[[On connaît la chanson]]" sorti en 1997, qui lui a permis de gagner, encore une fois, le César du meilleur acteur dans un second rôle.
+
+###### Archives questions
+
+Dans quel film de 1993, Jean-Pierre Bacri a-t-il cosigné le scénario avec [[Agnès Jaoui]], aboutissant à un succès critique et public en remportant le [[César Award]] du meilleur scénario original ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui est associé à des films comme "Un Air de famille", "[[Didier]]" et "[[Le Goût des autres]]" et disparait en janvier 2021 ? <!-- score: 8 --> <!-- cm003 remplacée 2026-11-23 -->

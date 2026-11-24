@@ -29,12 +29,20 @@ culture_g_justification: "Classique du film noir relié à James M. Cain, à ses
 
 ###### Questions
 
-Quel est le titre du film de 1946 réalisé par [[Tay Garnett]], dont le scénario est inspiré du roman noir de [[James M. Cain]] ?
+Quel film noir de 1946 réalisé par [[Tay Garnett]], avec [[Lana Turner]] et [[John Garfield]], adapte le roman de [[James M. Cain]] ?
 
-Quel est le nom du film qui a été adapté au cinéma une deuxième fois en 1981, avec [[Jack Nicholson]] et [[Jessica Lange]] dans les rôles principaux ?
+Quel film de [[Bob Rafelson]] sorti en 1981, scénarisé par [[David Mamet]], réunit [[Jack Nicholson]] et [[Jessica Lange]] en amants qui assassinent le mari de celle-ci ?
 
-Quel est le titre du film qui contient une célèbre scène où un personnage dit : « Le facteur sonne toujours deux fois » et qui a inspiré un remake cinématographique américain des années 1980 ?
+Quel roman de [[James M. Cain]] a été adapté sans autorisation par [[Luchino Visconti]] en 1943 sous le titre « [[Ossessione]] » ?
 
 ###### Description
 
 [[Le Facteur sonne toujours deux fois]] est un film emblématique du cinéma noir, initialement sorti en 1946, réalisé par [[Tay Garnett]]. Ce film est basé sur le roman éponyme de [[James M. Cain]], paru en 1934, qui a également inspiré d'autres adaptations cinématographiques. L'intrigue centrale se déroule autour d'une passion destructrice entre [[Frank Chambers]], joué par [[John Garfield]], et [[Cora Smith]], incarnée par [[Lana Turner]], qui planifient le meurtre du mari de Cora pour vivre leur amour. Une nouvelle adaptation a vu le jour en 1981, avec [[Jack Nicholson]] et [[Jessica Lange]] dans les rôles principaux, soulignant l'impact durable de cette histoire captivante sur le public.
+
+###### Archives questions
+
+Quel est le titre du film qui contient une célèbre scène où un personnage dit : « Le facteur sonne toujours deux fois » et qui a inspiré un remake cinématographique américain des années 1980 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du film de 1946 réalisé par [[Tay Garnett]], dont le scénario est inspiré du roman noir de [[James M. Cain]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du film qui a été adapté au cinéma une deuxième fois en 1981, avec [[Jack Nicholson]] et [[Jessica Lange]] dans les rôles principaux ? <!-- cm003 remplacée 2026-11-23 -->

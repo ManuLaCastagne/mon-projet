@@ -30,12 +30,20 @@ culture_g_justification: "Nobel de littérature et diplomate sous le nom d'Alexi
 
 ###### Questions
 
-Quel [[membre]] de l'[[Académie française]] depuis 1960, connu pour ses talents littéraires, est aussi le lauréat du [[Prix Nobel de littérature]] en 1960 ?
+Quel poète français, exilé aux États-Unis pendant la Seconde Guerre mondiale, a reçu le prix Nobel de littérature en 1960 ?
 
-Quel poète, ayant servi en tant que diplomate français sous le nom de [[Alexis Leger]], a remporté la plus haute distinction littéraire au monde en 1960 ?
+Sous quel pseudonyme le diplomate [[Alexis Leger]], secrétaire général du Quai d'Orsay de 1933 à 1940, a-t-il publié sa poésie ?
 
-Quel auteur français, qui a utilisé le pseudonyme [[Saint-John Perse]] et a travaillé aux [[Nations Unies]], a été récompensé pour ses écrits poétiques et leur impact sur la littérature mondiale en 1960 ?
+Quel poète français, né en [[Guadeloupe]], a publié « [[Anabase]] » en 1924 ?
 
 ###### Description
 
 [[Saint-John Perse]] est le nom de plume du diplomate et poète français [[Alexis Léger]], né en 1887 à [[Pointe-à-Pitre]], en [[Guadeloupe]]. Grand voyageur, sa carrière diplomatique l'emmène notamment à [[Pékin]] et [[Washington]], avant d'être exilé pendant la [[Seconde Guerre mondiale]]. Bien que son œuvre n'ait pas de lien direct avec le cinéma, elle a inspiré de nombreux cinéastes par sa vision poétique et métaphorique du monde. En 1960, il reçoit le [[Prix Nobel de littérature]], consacrant son impact sur la littérature du XXe siècle.
+
+###### Archives questions
+
+Quel auteur français, qui a utilisé le pseudonyme [[Saint-John Perse]] et a travaillé aux [[Nations Unies]], a été récompensé pour ses écrits poétiques et leur impact sur la littérature mondiale en 1960 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel [[membre]] de l'[[Académie française]] depuis 1960, connu pour ses talents littéraires, est aussi le lauréat du [[Prix Nobel de littérature]] en 1960 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel poète, ayant servi en tant que diplomate français sous le nom de [[Alexis Leger]], a remporté la plus haute distinction littéraire au monde en 1960 ? <!-- cm003 remplacée 2026-11-23 -->

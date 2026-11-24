@@ -29,11 +29,11 @@ culture_g_justification: "Star très connue des années 1980-1990 grâce à Ghos
 
 ###### Questions
 
-Dans quel film sorti en 1993, [[Demi Moore]] a-t-elle incarné le rôle de la veuve d'un célèbre écrivain, aux côtés de [[Robert Redford]] ?
+Quelle actrice joue l'épouse à qui [[Robert Redford]] offre un million de dollars pour une nuit dans « [[Proposition indécente]] » (1993) ?
 
-Quelle célèbre actrice a été la première femme à exiger un salaire de 10 millions de dollars pour un seul film avec le succès de [[Striptease]] en 1996 ?
+Quelle actrice est devenue la mieux payée d'Hollywood en touchant 12,5 millions de dollars pour « [[Striptease (film)|Striptease]] » (1996) ?
 
-En 1991 dans [[Pensées Mortelles]], qui a joué aux côtés de [[Bruce Willis]], marquant leur seule collaboration sur grand écran avant leur divorce ? <!-- score: 5 -->
+Quelle actrice joue face à [[Bruce Willis]], alors son mari, dans le thriller « [[Pensées mortelles]] » (1991) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ En 1991 dans [[Pensées Mortelles]], qui a joué aux côtés de [[Bruce Willis]]
 En 1992, elle a continué à marquer les esprits avec sa performance dans "[[Des hommes d'honneur]]", où elle partage l'affiche avec [[Tom Cruise]] et [[Jack Nicholson]]. 
 
 En 1996, elle est devenue l'une des actrices les mieux payées d'Hollywood grâce à son rôle dans le film "Striptease".
+
+###### Archives questions
+
+Dans quel film sorti en 1993, [[Demi Moore]] a-t-elle incarné le rôle de la veuve d'un célèbre écrivain, aux côtés de [[Robert Redford]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle célèbre actrice a été la première femme à exiger un salaire de 10 millions de dollars pour un seul film avec le succès de [[Striptease]] en 1996 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1991 dans [[Pensées Mortelles]], qui a joué aux côtés de [[Bruce Willis]], marquant leur seule collaboration sur grand écran avant leur divorce ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->

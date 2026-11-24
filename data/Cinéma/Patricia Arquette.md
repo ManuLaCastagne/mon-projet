@@ -29,12 +29,20 @@ culture_g_justification: "Actrice américaine liée à Lynch, Scorsese, Boyhood 
 
 ###### Questions
 
-Dans quel film de [[David Lynch]] sorti en 1997 [[Patricia Arquette]] joue-t-elle un double rôle en incarnant les personnages de [[Renée Madison]] et [[Alice Wakefield]] ?
+Quelle actrice joue à la fois Renee Madison et Alice Wakefield dans « [[Lost Highway]] » de [[David Lynch]] (1997) ?
 
-Quel prix a remporté [[Patricia Arquette]] pour son rôle dans la série [[Boyhood]] réalisé par [[Richard Linklater]], spécifiquement lors des Oscars de 2015 ?
+Quelle actrice a remporté l'Oscar du meilleur second rôle féminin en 2015 pour « [[Boyhood]] » de [[Richard Linklater]] ?
 
-Dans quel film de [[Martin Scorsese]] sorti en 1999 [[Patricia Arquette]] partage-t-elle l'affiche avec [[Nicolas Cage]], jouant le rôle d'une femme appelée [[Mary Burke]] ?
+Quelle actrice joue Mary Burke face à [[Nicolas Cage]] dans « [[À tombeau ouvert]] » de [[Martin Scorsese]] (1999) ?
 
 ###### Description
 
 [[Patricia Arquette]] est une actrice américaine née le 8 avril 1968 à [[Chicago]], connue pour ses rôles marquants au cinéma et à la télévision. Elle a remporté un [[Oscar de la meilleure actrice dans un second rôle]] en 2015 pour sa performance dans le film [[Boyhood]], dirigé par [[Richard Linklater]]. Avant cela, elle a acquis une reconnaissance importante grâce à son rôle dans le film culte [[True Romance]] de [[Tony Scott]], sorti en 1993. Elle est également célèbre pour sa participation à la série télévisée [[Medium]], qui lui a valu un [[Emmy Award]] en 2005.
+
+###### Archives questions
+
+Dans quel film de [[David Lynch]] sorti en 1997 [[Patricia Arquette]] joue-t-elle un double rôle en incarnant les personnages de [[Renée Madison]] et [[Alice Wakefield]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel prix a remporté [[Patricia Arquette]] pour son rôle dans la série [[Boyhood]] réalisé par [[Richard Linklater]], spécifiquement lors des Oscars de 2015 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Martin Scorsese]] sorti en 1999 [[Patricia Arquette]] partage-t-elle l'affiche avec [[Nicolas Cage]], jouant le rôle d'une femme appelée [[Mary Burke]] ? <!-- cm003 remplacée 2026-11-23 -->
