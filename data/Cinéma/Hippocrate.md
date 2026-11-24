@@ -29,12 +29,20 @@ culture_g_justification: "Film français apprécié et identifiable par son suje
 
 ###### Questions
 
-Quel film réalisé par [[Thomas Lilti]] en 2014 porte essentiellement sur les expériences d'un jeune interne en médecine et se nomme comme le père fondateur de la médecine moderne, [[Hippocrate]] ?
+Quel film de [[Thomas Lilti]] (2014) suit les débuts d'un jeune interne joué par [[Vincent Lacoste]] dans le service de son père ?
 
-Quel long métrage français sorti en 2014 met en scène [[Vincent Lacoste]] et [[Jacques Gamblin]], explorant la vie quotidienne des soignants dans un hôpital portant le même nom que l'auteur d'un célèbre serment médical, [[Hippocrate]] ?
+Pour quel film [[Reda Kateb]] a-t-il reçu le [[César du meilleur acteur dans un second rôle]] en 2015 ?
 
-Quelle œuvre cinématographique a été nommée pour sept César en 2015, dont celui du meilleur film, et partage son nom avec un médecin grec antique célèbre pour un serment éthique, [[Hippocrate]] ?
+Quel médecin grec de l'île de [[Cos]], né vers 460 av. J.-C., est surnommé le père de la médecine ?
 
 ###### Description
 
 Le film "[[Hippocrate]]", réalisé par [[Thomas Lilti]], est sorti en 2014 et explore les défis et les dilemmes rencontrés par les jeunes médecins en France. Le protagoniste, [[Benjamin Barois]], incarné par [[Vincent Lacoste]], commence son internat sous la supervision de son père, qui est chef de service. [[Reda Kateb]] joue le rôle d'[[Abdel Rezzak]], un médecin algérien expérimenté qui devient un mentor et un ami pour Benjamin durant cette période éprouvante. Le film a reçu plusieurs nominations aux César, notamment pour le [[César du Meilleur Film]] et a remporté le [[César du Meilleur Second Rôle Masculin]] pour [[Reda Kateb]].
+
+###### Archives questions
+
+Quel film réalisé par [[Thomas Lilti]] en 2014 porte essentiellement sur les expériences d'un jeune interne en médecine et se nomme comme le père fondateur de la médecine moderne, [[Hippocrate]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel long métrage français sorti en 2014 met en scène [[Vincent Lacoste]] et [[Jacques Gamblin]], explorant la vie quotidienne des soignants dans un hôpital portant le même nom que l'auteur d'un célèbre serment médical, [[Hippocrate]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle œuvre cinématographique a été nommée pour sept César en 2015, dont celui du meilleur film, et partage son nom avec un médecin grec antique célèbre pour un serment éthique, [[Hippocrate]] ? <!-- cm003 remplacée 2026-11-23 -->

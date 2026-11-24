@@ -27,13 +27,13 @@ culture_g_justification: "Acteur et réalisateur français connu, surtout exploi
 
 ###### Questions
 
-En 2001, quel acteur se met en scène aux côtés de sa femme Charlotte Gainsbourg dans le film "Ma femme est une actrice" ?
+En 2001, quel acteur réalise « [[Ma femme est une actrice]] », où il donne la réplique à sa compagne [[Charlotte Gainsbourg]] ?
 
-Dans quel film de 1993, réalisé par [[Élie Chouraqui]], [[Yvan Attal]] interprète-t-il le rôle principal aux côtés de [[Sandra Bullock]] ?
+Quel acteur a reçu le [[César du meilleur espoir masculin]] en 1990 pour « [[Un monde sans pitié]] » d'[[Éric Rochant]] ?
 
-Quel long métrage de 1999, réalisé par [[Yvan Attal]], marque ses débuts en tant que réalisateur alors qu'il explore les complexités du couple avec [[Charlotte Gainsbourg]] ?
+Quel réalisateur a dirigé [[Alain Chabat]] et [[Charlotte Gainsbourg]] dans « [[Ils se marièrent et eurent beaucoup d'enfants]] » (2004) ?
 
-Dans quel film de 2022 réalisé par [[Yvan Attal]], l'acteur et réalisateur aborde-t-il le sujet délicat du consentement, inspiré du roman de [[Karine Tuil]] ?
+Quel cinéaste a adapté en 2021 « [[Les Choses humaines]] », roman de [[Karine Tuil]] ?
 
 ###### Description
 
@@ -44,3 +44,13 @@ Il obtient son premier grand rôle dans le film “[[Un monde sans pitié]]” d
 En tant que réalisateur, il est reconnu pour le film “[[Ma femme est une actrice]]” sorti en 2001, où il met en scène sa compagne, l'actrice [[Charlotte Gainsbourg]], avec qui il partage souvent l'écran. 
 
 En 2022, il réalise une adaptation remarquée de “[[Les Choses humaines]]” d’après le livre de [[Karine Tuil]], confirmant son talent derrière la caméra.
+
+###### Archives questions
+
+Dans quel film de 1993, réalisé par [[Élie Chouraqui]], [[Yvan Attal]] interprète-t-il le rôle principal aux côtés de [[Sandra Bullock]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel long métrage de 1999, réalisé par [[Yvan Attal]], marque ses débuts en tant que réalisateur alors qu'il explore les complexités du couple avec [[Charlotte Gainsbourg]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 2022 réalisé par [[Yvan Attal]], l'acteur et réalisateur aborde-t-il le sujet délicat du consentement, inspiré du roman de [[Karine Tuil]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2001, quel acteur se met en scène aux côtés de sa femme Charlotte Gainsbourg dans le film "Ma femme est une actrice" ? <!-- cm003 remplacée 2026-11-23 -->

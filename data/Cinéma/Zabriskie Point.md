@@ -25,11 +25,11 @@ culture_g_justification: "Film d'Antonioni associé à Pink Floyd, à la contest
 ![[Pasted image 20250323151309.png]]
 ###### Questions
 
-Quel film culte de [[Michelangelo Antonioni]], sorti en 1970, met en scène une exploration de la société américaine à travers le regard de la jeunesse et est particulièrement connu pour sa bande originale composée par [[Pink Floyd]] ?
+Quel film de [[Michelangelo Antonioni]], sorti en 1970, se termine par une explosion filmée au ralenti sur une musique de [[Pink Floyd]] ?
 
-Quel site situé dans la [[Death Valley National Park]], connu pour son paysage aride et ses formations géologiques uniques, porte le nom de [[Zabriskie Point]] et est utilisé pour des prises de vues captivantes au cinéma et à la photographie ?
+Quel belvédère de la [[Vallée de la Mort]], en Californie, porte le nom d'un dirigeant de la Pacific Coast Borax Company ?
 
-Quel évènement culturel majeur des années 60, centré sur la désillusion et l'opposition à la société de consommation après l'événement de [[Woodstock]] en 1969, est symbolisé par l'imaginaire du film [[Zabriskie Point]] et sa scène finale de destruction de biens matériels ?
+Dans quel film de 1970 [[Mark Frechette]] et [[Daria Halprin]], deux acteurs non professionnels, tiennent-ils les rôles principaux ?
 
 ###### Description
 
@@ -40,3 +40,11 @@ Elle est renommée non seulement pour ses paysages arides et ses couleurs chatoy
 Un fait étonnant sur [[Zabriskie Point]] est qu'il possède certaines des formations de mâts sédimentaires les plus anciennes de la région, vieilles de plus de cinq millions d'années, ce qui en fait un site précieux pour les géologues. 
 
 En 1995, la température ambiante à proximité de [[Zabriskie Point]] a été enregistrée à un record de 56,7 degrés Celsius, l'une des températures les plus chaudes jamais observées sur Terre.
+
+###### Archives questions
+
+Quel site situé dans la [[Death Valley National Park]], connu pour son paysage aride et ses formations géologiques uniques, porte le nom de [[Zabriskie Point]] et est utilisé pour des prises de vues captivantes au cinéma et à la photographie ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel évènement culturel majeur des années 60, centré sur la désillusion et l'opposition à la société de consommation après l'événement de [[Woodstock]] en 1969, est symbolisé par l'imaginaire du film [[Zabriskie Point]] et sa scène finale de destruction de biens matériels ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film culte de [[Michelangelo Antonioni]], sorti en 1970, met en scène une exploration de la société américaine à travers le regard de la jeunesse et est particulièrement connu pour sa bande originale composée par [[Pink Floyd]] ? <!-- cm003 remplacée 2026-11-23 -->

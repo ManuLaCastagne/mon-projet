@@ -29,12 +29,16 @@ culture_g_justification: "Acteur majeur du théâtre français et présent dans 
 
 ###### Questions
 
-Dans quel film de [[Claude Chabrol]], sorti en 1998, [[Robert Hirsch]] a-t-il interprété le personnage de [[Monsieur Ladmiral]]? 
-
-Quel acteur, connu pour son rôle dans le film culte "Le Mouton" de [[Michel Deville]] de 1960, a également remporté un [[Molière d’Honneur]] dans le domaine du théâtre?
-
-Dans quel film de [[Jacques Rouffio]], sorti en 1976, [[Robert Hirsch]] joue-t-il le rôle de [[Bonnaud]] aux côtés de [[Philippe Noiret]] et [[Romy Schneider]]?
+Quel sociétaire de la [[Comédie-Française]] incarne le poète Gringoire dans « [[Notre-Dame de Paris]] » de [[Jean Delannoy]] (1956) ?
 
 ###### Description
 
 [[Robert Hirsch]], acteur français au talent reconnu, a marqué l'univers cinématographique et théâtral. Né en 1925, il a commencé sa carrière au [[Théâtre National Populaire]] sous la direction de [[Jean Vilar]]. Au cinéma, il s'est illustré notamment dans le film "Hiver 54, l'abbé Pierre" sorti en 1989, où il interprète le rôle-titre avec une profondeur remarquable. Par ailleurs, il a été membre de la [[Comédie-Française]] de 1948 à 1973, une période durant laquelle il a influencé de nombreux jeunes acteurs, et remporté un César du meilleur acteur dans un second rôle en 1991 pour "Le Comique".
+
+###### Archives questions
+
+Dans quel film de [[Claude Chabrol]], sorti en 1998, [[Robert Hirsch]] a-t-il interprété le personnage de [[Monsieur Ladmiral]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Jacques Rouffio]], sorti en 1976, [[Robert Hirsch]] joue-t-il le rôle de [[Bonnaud]] aux côtés de [[Philippe Noiret]] et [[Romy Schneider]]? <!-- cm003 archivée 2026-11-23 -->
+
+Quel acteur, connu pour son rôle dans le film culte "Le Mouton" de [[Michel Deville]] de 1960, a également remporté un [[Molière d’Honneur]] dans le domaine du théâtre? <!-- cm003 archivée 2026-11-23 -->

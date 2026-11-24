@@ -29,11 +29,9 @@ culture_g_justification: "Acteur français surtout associé au Pacte des loups, 
 
 ###### Questions
 
-Dans quel film de [[Christophe Gans]] sorti en 2001 [[Samuel le Bihan]] joue-t-il un rôle principal aux côtés de [[Vincent Cassel]] et [[Monica Bellucci]] ?
+Quel acteur incarne le chevalier Grégoire de Fronsac dans « [[Le Pacte des loups]] » de [[Christophe Gans]] (2001) ?
 
-Quel acteur, révélé par [[Robert Altman]] dans "[[Prêt-à-Porter]]" en 1994, est aussi connu pour son rôle dans le film "[[Le Pacte des loups]]" ?
-
-Dans quel long métrage réalisé par [[Éric Lavaine]] en 2009, [[Samuel le Bihan]] interprète-t-il un personnage aux prises avec des situations comiques liées à l'organisation de vacances ?
+Quel acteur tient le rôle-titre de la série policière « [[Alex Hugo]] » ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Il a remporté le [[Prix Jean-Gabin]] en 1999 et a acquis une notoriété intern
 En 1996, il a joué aux côtés de [[Catherine Deneuve]] et [[Daniel Auteuil]] dans le film à succès [[Le Huitième Jour]], qui a reçu plusieurs récompenses importantes. 
 
 Un autre rôle marquant de sa carrière est celui qu'il a interprété dans le film [[À la folie... pas du tout]], sorti en 2002, aux côtés d'[[Audrey Tautou]].
+
+###### Archives questions
+
+Dans quel film de [[Christophe Gans]] sorti en 2001 [[Samuel le Bihan]] joue-t-il un rôle principal aux côtés de [[Vincent Cassel]] et [[Monica Bellucci]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel long métrage réalisé par [[Éric Lavaine]] en 2009, [[Samuel le Bihan]] interprète-t-il un personnage aux prises avec des situations comiques liées à l'organisation de vacances ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel acteur, révélé par [[Robert Altman]] dans "[[Prêt-à-Porter]]" en 1994, est aussi connu pour son rôle dans le film "[[Le Pacte des loups]]" ? <!-- cm003 remplacée 2026-11-23 -->

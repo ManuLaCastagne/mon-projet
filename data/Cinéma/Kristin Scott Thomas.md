@@ -29,11 +29,11 @@ culture_g_justification: "Actrice reconnue du cinéma britannique et français, 
 
 ###### Questions
 
-Dans quel film de 1994, Kristin Scott Thomas partage-t-elle l'écran avec [[Hugh Grant]] dans une comédie romantique intitulée [[Quatre mariages et un enterrement]] ?
+Dans « [[Il y a longtemps que je t'aime]] » de [[Philippe Claudel]] (2008), quelle actrice joue une femme qui sort de quinze ans de prison ?
 
-En quelle année Kristin Scott Thomas a-t-elle joué le rôle de Lady Sylvia McCordle dans le film de [[Robert Altman]] intitulé [[Gosford Park]] ?
+Quelle actrice joue Lady Sylvia McCordle dans « [[Gosford Park]] » de [[Robert Altman]] (2001) ?
 
-Quel est le nom du film de 1996 dans lequel Kristin Scott Thomas a reçu une nomination aux Oscars pour le rôle de Katharine Clifton aux côtés de [[Ralph Fiennes]] et [[Juliette Binoche]] ?
+Quelle actrice a été nommée à l'Oscar pour le rôle de Katharine Clifton dans « [[Le Patient anglais]] » (1996) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a acquis une renommée internationale grâce à son interprétation dans le
 Fait étonnant, [[Kristin Scott Thomas]] a refusé la nomination à l'[[Ordre de l'Empire britannique]] en 2003, une décision rare dans le monde du cinéma, estimant que ce n'était "pas sa tasse de thé". 
 
 En 2008, elle a joué dans "[[Il y a longtemps que je t'aime]]" de [[Philippe Claudel]], un film qui a marqué son retour en France après avoir passé de nombreuses années à travailler principalement sur des productions anglaises et américaines.
+
+###### Archives questions
+
+Dans quel film de 1994, Kristin Scott Thomas partage-t-elle l'écran avec [[Hugh Grant]] dans une comédie romantique intitulée [[Quatre mariages et un enterrement]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année Kristin Scott Thomas a-t-elle joué le rôle de Lady Sylvia McCordle dans le film de [[Robert Altman]] intitulé [[Gosford Park]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du film de 1996 dans lequel Kristin Scott Thomas a reçu une nomination aux Oscars pour le rôle de Katharine Clifton aux côtés de [[Ralph Fiennes]] et [[Juliette Binoche]] ? <!-- cm003 remplacée 2026-11-23 -->

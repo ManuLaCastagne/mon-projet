@@ -29,12 +29,20 @@ culture_g_justification: "Actrice française connue par quelques comédies et pa
 
 ###### Questions
 
-Dans quel film de 2004 [[Marilou Berry]] joue-t-elle le rôle principal d'une adolescente en surpoids cherchant à s'émanciper, qui a contribué à son premier grand succès au cinéma ?
+Quelle actrice joue Lolita, la fille d'un écrivain célèbre, dans « [[Comme une image]] » d'[[Agnès Jaoui]] (2004) ?
 
-Quel célèbre membre de sa famille, également dans le domaine du cinéma, a réalisé le film "[[Les Nouvelles aventures de Cendrillon]]" en 2017, dans lequel [[Marilou Berry]] a participé ?
+Quelle actrice incarne Joséphine dans le film de 2013 adapté de la bande dessinée de [[Pénélope Bagieu]] ?
 
-En 2019, [[Marilou Berry]] a réalisé son premier long métrage intitulé "[[Quand on crie au loup]]". Quel rôle occupe-t-elle lors de la création de ce film en plus d'être réalisatrice ?
+Quelle actrice joue une jeune femme laide et gentille qui décide de se venger dans « [[Vilaine]] » (2008) ?
 
 ###### Description
 
 [[Marilou Berry]] est une actrice et réalisatrice française née le 1er février 1983 à Paris. Elle est la fille de l'actrice [[Josiane Balasko]] et du sculpteur [[Philippe Berry]], et la nièce du réalisateur [[Richard Berry]]. Elle a débuté au cinéma en 2004 avec un rôle marquant dans le film "[[Comme une image]]" de [[Agnès Jaoui]], qui a remporté le Prix du scénario au Festival de Cannes de la même année. En 2018, elle a réalisé son premier long-métrage, "[[Quand on crie au loup]]", offrant une nouvelle démonstration de son talent polyvalent dans l'industrie cinématographique.
+
+###### Archives questions
+
+Dans quel film de 2004 [[Marilou Berry]] joue-t-elle le rôle principal d'une adolescente en surpoids cherchant à s'émanciper, qui a contribué à son premier grand succès au cinéma ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre membre de sa famille, également dans le domaine du cinéma, a réalisé le film "[[Les Nouvelles aventures de Cendrillon]]" en 2017, dans lequel [[Marilou Berry]] a participé ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2019, [[Marilou Berry]] a réalisé son premier long métrage intitulé "[[Quand on crie au loup]]". Quel rôle occupe-t-elle lors de la création de ce film en plus d'être réalisatrice ? <!-- cm003 remplacée 2026-11-23 -->

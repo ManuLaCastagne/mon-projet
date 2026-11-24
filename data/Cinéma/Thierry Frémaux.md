@@ -29,12 +29,20 @@ culture_g_justification: "Responsable important du Festival de Cannes mais perso
 
 ###### Questions
 
-Dans quel événement majeur de 2019, [[Thierry Frémaux]] a-t-il ouvert pour la première fois les portes aux films de [[Netflix]], malgré une controverse sur leur format de diffusion ? 
+Quel dirigeant de festival a raconté une année de sélection cannoise dans son livre « Sélection officielle », paru en 2017 ?
 
-Quel rôle clé [[Thierry Frémaux]] a-t-il joué depuis 2007 au sein de l'un des festivals de cinéma les plus célèbres au monde, après avoir succédé à [[Gilles Jacob]] ?
+Quel ancien directeur artistique du [[Festival de Cannes]] en est devenu le délégué général en 2007 ?
 
-Quel poste occupe [[Thierry Frémaux]] depuis 2001 au sein de l'[[Institut Lumière]] de [[Lyon]], qui organise le célèbre [[Festival Lumière]], célébré chaque année en hommage au cinéma classique ?
+Qui dirige l'[[Institut Lumière]] de [[Lyon]] et a lancé en 2009 le [[Festival Lumière]] ?
 
 ###### Description
 
 [[Thierry Frémaux]] est un personnage influent dans le monde du [[cinéma]] français et international. Né en 1960, il est principalement connu pour son rôle de délégué général du prestigieux Festival de Cannes, poste qu'il occupe depuis 2007 après avoir été directeur artistique depuis 2001. En parallèle, Thierry Frémaux est également directeur de l'[[Institut Lumière]] à [[Lyon]], où il s'efforce de préserver et promouvoir l'héritage cinématographique initié par les frères [[lumière]]. Sa contribution notable au 7ème art lui a valu d'être fait Chevalier de la [[Légion d'honneur]] en 2012, reconnaissant ainsi son impact significatif sur la scène culturelle internationale.
+
+###### Archives questions
+
+Dans quel événement majeur de 2019, [[Thierry Frémaux]] a-t-il ouvert pour la première fois les portes aux films de [[Netflix]], malgré une controverse sur leur format de diffusion ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle clé [[Thierry Frémaux]] a-t-il joué depuis 2007 au sein de l'un des festivals de cinéma les plus célèbres au monde, après avoir succédé à [[Gilles Jacob]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel poste occupe [[Thierry Frémaux]] depuis 2001 au sein de l'[[Institut Lumière]] de [[Lyon]], qui organise le célèbre [[Festival Lumière]], célébré chaque année en hommage au cinéma classique ? <!-- cm003 remplacée 2026-11-23 -->

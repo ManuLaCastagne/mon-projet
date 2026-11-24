@@ -29,12 +29,20 @@ culture_g_justification: "Acteur populaire identifié par quelques comédies fra
 
 ###### Questions
 
-Dans quel film de [[Dany Boon]] sorti en 2008, Jean-Paul Rouve interprète-t-il le personnage de [[Ludo]] ?
+Quel acteur, ancien membre de la troupe des [[Robins des Bois]], incarne Jeff Tuche dans « [[Les Tuche]] » (2011) ?
 
-Quel célèbre réalisateur français, lauréat de la [[Palme d'Or]] au Festival de Cannes en 1994, a dirigé Jean-Paul Rouve dans le film [[Entre amis]] en 2015 ?
+Quel acteur a reçu le [[César du meilleur espoir masculin]] en 2003 pour « [[Monsieur Batignole]] » de [[Gérard Jugnot]] ?
 
-Dans quel film d'animation sorti en 2006, Jean-Paul Rouve prête-t-il sa voix au personnage de [[Terrence]], un rat ambitieux, aux côtés de [[Guillaume Canet]] ?
+Quel acteur a réalisé en 2015 « [[Les Souvenirs]] », d'après le roman de [[David Foenkinos]] ?
 
 ###### Description
 
 Jean-Paul Rouve est un acteur et réalisateur français né le 26 janvier 1967 à [[Dunkerque]]. Il commence sa carrière au cinéma en 1993 avec un petit rôle dans le film [[Gazon maudit]], mais c'est son interprétation dans le film [[Les Randonneurs]] sorti en 1997 qui le fait véritablement connaître du grand public. En 2002, il obtient le [[César du meilleur espoir masculin]] pour sa performance dans [[Monsieur Batignole]], où il joue aux côtés de [[Gérard Jugnot]]. Depuis 2010, il rencontre un grand succès en participant à des films tels que [[Les Tuche]], dans lequel il incarne le rôle principal de [[Jeff Tuche]], un rôle qui lui vaut une grande popularité en France.
+
+###### Archives questions
+
+Dans quel film de [[Dany Boon]] sorti en 2008, Jean-Paul Rouve interprète-t-il le personnage de [[Ludo]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre réalisateur français, lauréat de la [[Palme d'Or]] au Festival de Cannes en 1994, a dirigé Jean-Paul Rouve dans le film [[Entre amis]] en 2015 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film d'animation sorti en 2006, Jean-Paul Rouve prête-t-il sa voix au personnage de [[Terrence]], un rat ambitieux, aux côtés de [[Guillaume Canet]] ? <!-- cm003 remplacée 2026-11-23 -->

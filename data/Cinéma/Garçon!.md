@@ -29,12 +29,18 @@ culture_g_justification: "Film français de Claude Sautet identifiable par son a
 
 ###### Questions
 
-Dans quel court-métrage de [[Jean]] [[Vigo]], réalisé en 1931, un jeune garçon tente-t-il de s'échapper de l'environnement rigide d'un internat ?
+Dans quelle comédie de [[Claude Sautet]] sortie en 1983, [[Yves Montand]] incarne-t-il Alex, serveur dans une grande brasserie parisienne ?
 
-Quel film canadien, réalisé par [[François]] [[Rozet]] en 2014, raconte l'histoire d'un garçon qui porte un regard critique sur son père absent à travers diverses saynètes ?
-
-Quel long-métrage dramatique réalisé par [[Jordan]] [[Canning]] en 2015 traite de manière satirique du passage à l'âge adulte à travers le personnage surnommé juste "Garçon" ?
+Quel film de 1983 réunit [[Nicole Garcia]] et [[Jacques Villeret]] autour d'un chef de rang de brasserie ?
 
 ###### Description
 
 [[Garçon!]] est un film culte du cinéma français sorti en 1983, réalisé par [[Claude Sautet]]. Le long-métrage met en scène [[Yves Montand]], interprétant le rôle de [[Alex]], un serveur travaillant dans un grand restaurant parisien, cherchant à redonner un sens à sa vie. Aux côtés d’[[Yves Montand]], l'actrice [[Nicole Garcia]] incarne le personnage féminin principal, apportant une dynamique émotive au film. Le scénario, plein de nuances et de réflexions sur la condition humaine, est une adaptation d'une idée originale de [[Claude Néron]], fréquemment collaborateur de [[Claude Sautet]].
+
+###### Archives questions
+
+Dans quel court-métrage de [[Jean]] [[Vigo]], réalisé en 1931, un jeune garçon tente-t-il de s'échapper de l'environnement rigide d'un internat ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film canadien, réalisé par [[François]] [[Rozet]] en 2014, raconte l'histoire d'un garçon qui porte un regard critique sur son père absent à travers diverses saynètes ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel long-métrage dramatique réalisé par [[Jordan]] [[Canning]] en 2015 traite de manière satirique du passage à l'âge adulte à travers le personnage surnommé juste "Garçon" ? <!-- cm003 archivée 2026-11-23 -->

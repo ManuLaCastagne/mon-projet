@@ -29,12 +29,20 @@ culture_g_justification: "Film associé à Romy Schneider, Francis Girod et aux 
 
 ###### Questions
 
-Quel film de [[Francis Girod]] sorti en 1980 présente l'histoire de [[Emma Eckhert]], une femme d'affaires inspirée par la vie de [[Marthe Hanau]], connue comme étant la [[Banquière des Années folles]] ?
+Quel film de [[Francis Girod]] (1980) s'inspire de la vie de [[Marthe Hanau]] à travers le personnage d'Emma Eckhert ?
 
-Dans quel film de 1980, [[Romy Schneider]] interprète-t-elle le rôle principal d'une femme puissante et influente dans le monde de la finance des [[Années 1920]] ?
+Pour quel film de 1980 avec [[Romy Schneider]], [[Ennio Morricone]] a-t-il composé la musique ?
 
-Quel long-métrage de [[Francis Girod]], mettant en scène [[Romy Schneider]], se concentre sur les défis rencontrés par une femme dans le domaine bancaire pendant les [[Années folles]] ?
+Dans quel film de 1980, [[Romy Schneider]] donne-t-elle la réplique à [[Jean-Louis Trintignant]] et [[Claude Brasseur]] en femme d'affaires des années 1920 ?
 
 ###### Description
 
 Le film "[[La Banquière]]", réalisé par [[Francis Girod]], est sorti en 1980 et met en scène [[Romy Schneider]] dans le rôle principal d'[[Emma Eckhert]], une femme d'affaires au destin tragique. Inspiré de la vie de [[Marthe Hanau]], le film explore l'ascension et la chute de cette ambitieuse banquière dans les années 1920 et 1930. [[Jean-Louis Trintignant]], [[Marie-France Pisier]] et [[Claude Brasseur]] complètent la distribution, apportant profondeur et intensité à ce drame financier et humain. Écrit par [[Francis Girod]], [[Georges Conchon]] et [[Frederic Grendel]], le scénario a été récompensé par un [[César de la meilleure adaptation]] en 1981.
+
+###### Archives questions
+
+Quel film de [[Francis Girod]] sorti en 1980 présente l'histoire de [[Emma Eckhert]], une femme d'affaires inspirée par la vie de [[Marthe Hanau]], connue comme étant la [[Banquière des Années folles]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel long-métrage de [[Francis Girod]], mettant en scène [[Romy Schneider]], se concentre sur les défis rencontrés par une femme dans le domaine bancaire pendant les [[Années folles]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 1980, [[Romy Schneider]] interprète-t-elle le rôle principal d'une femme puissante et influente dans le monde de la finance des [[Années 1920]] ? <!-- cm003 remplacée 2026-11-23 -->

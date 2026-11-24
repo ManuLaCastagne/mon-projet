@@ -27,11 +27,9 @@ culture_g_justification: "Créateur de contenu connu du public récent, mais enc
 
 ###### Questions
 
-Dans quel film de [[Robert Zemeckis]] de 1985 un personnage nommé [[Marty McFly]] voyage-t-il dans le temps avec l'aide d'une [[DeLorean]] modifiée ?
+Sous quel pseudonyme le vidéaste [[David Coscas]] forme-t-il un duo avec [[Carlito]] ?
 
-Quelle chaîne YouTube créée en 2016 par [[David Coscas]] et [[Raphaël Carlier]] inclut régulièrement des défis, tests et collaborations sous le nom de [[McFly et Carlito]] ?
-
-Dans quelle chanson de [[Huey Lewis and the News]], sortie en 1985, entend-on un hommage au personnage de [[Marty McFly]] et au film "Retour vers le futur" ?
+Quel vidéaste, partenaire de [[Carlito]], a défié [[Emmanuel Macron]] dans un concours d'anecdotes en 2021 ?
 
 ###### Description
 
@@ -42,3 +40,11 @@ Le duo, connu sous le nom de [[McFly et Carlito]], a lancé leur chaîne en 2016
 Un fait étonnant est que le titre de leur vidéo "Le Concours d’Anecdotes avec [[Emmanuel Macron]]" a atteint plus de 16 millions de vues en 2021, établissant un record en France pour une vidéo collaborative avec un président en exercice.
 
 En dehors de [[YouTube]], [[McFly]] et [[Carlito]] se sont aventurés dans la musique et ont même sorti plusieurs titres qui ont intégré les classements musicaux français.
+
+###### Archives questions
+
+Dans quel film de [[Robert Zemeckis]] de 1985 un personnage nommé [[Marty McFly]] voyage-t-il dans le temps avec l'aide d'une [[DeLorean]] modifiée ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chaîne YouTube créée en 2016 par [[David Coscas]] et [[Raphaël Carlier]] inclut régulièrement des défis, tests et collaborations sous le nom de [[McFly et Carlito]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle chanson de [[Huey Lewis and the News]], sortie en 1985, entend-on un hommage au personnage de [[Marty McFly]] et au film "Retour vers le futur" ? <!-- cm003 archivée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Kheiron est connu dans l'humour et le cinéma françai
 
 ###### Questions
 
-Dans quel film de 2015 réalisé par [[Kheiron]] et mettant en scène sa propre histoire familiale explore-t-il le sujet de l'exil et des origines en France sous forme de comédie réussie ?
+Quel humoriste franco-iranien, passé par le [[Jamel Comedy Club]], fait partie de la distribution de la série « [[Bref]] » sur [[Canal+]] ?
 
 Quel humoriste a écrit, réalisé et joué [[Nous trois ou rien]] (2015), inspiré de la fuite de ses parents hors d'[[Iran]] ?
 
-En quelle année le film [[Nous trois ou rien]], qui marque la première réalisation au cinéma de [[Kheiron]], a-t-il été sélectionné pour représenter le [[cinéma français]] lors de plusieurs festivals internationaux ?
+Quel humoriste a réalisé « [[Brutus vs César]] » (2020), comédie dans laquelle il joue lui-même Brutus ?
 
 ###### Description
 
@@ -42,3 +42,7 @@ En quelle année le film [[Nous trois ou rien]], qui marque la première réalis
 ###### Archives questions
 
 Quel humoriste et acteur, également connu sous le nom de [[Kheiron]], a écrit et réalisé le film intitulé [[Nous trois ou rien]] sorti en 2015, inspiré par le parcours de ses parents fuyant la répression politique en [[Iran]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 2015 réalisé par [[Kheiron]] et mettant en scène sa propre histoire familiale explore-t-il le sujet de l'exil et des origines en France sous forme de comédie réussie ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année le film [[Nous trois ou rien]], qui marque la première réalisation au cinéma de [[Kheiron]], a-t-il été sélectionné pour représenter le [[cinéma français]] lors de plusieurs festivals internationaux ? <!-- cm003 remplacée 2026-11-23 -->

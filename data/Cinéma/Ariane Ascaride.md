@@ -28,14 +28,22 @@ culture_g_justification: Actrice reconnue du cinéma français, surtout pertinen
 
 ###### Questions
 
-Dans quel film de [[Robert Guédiguian]] sorti en 1997 [[Ariane Ascaride]] a-t-elle remporté le prix d'interprétation féminine au [[Festival de Venise]] ?
+Quelle actrice a reçu la coupe Volpi de la meilleure interprétation féminine à la [[Mostra de Venise]] 2019 pour « [[Gloria Mundi]] » ?
 
-Pour quelle performance [[Ariane Ascaride]] a-t-elle obtenu le [[César de la meilleure actrice]] en 1999 ?
+Quelle actrice a reçu le [[César de la meilleure actrice]] en 1998 pour « [[Marius et Jeannette]] » ?
 
-Quel membre de sa famille par alliance partage fréquemment l'affiche avec [[Ariane Ascaride]] dans les films de [[Robert Guédiguian]] ?
-
-Dans le film "[[Au fil d'Ariane]]", quelle comédienne est dirigée par son époux Robert Guédiguian ?
+Quelle comédienne joue l'épouse de [[Jean-Pierre Darroussin]] dans « [[Les Neiges du Kilimandjaro]] » (2011) de son mari [[Robert Guédiguian]] ?
 
 ###### Description
 
 [[Ariane Ascaride]] est une actrice française née le 10 octobre 1954 à [[Marseille]], dans une famille d'origine italienne. Elle est notamment connue pour sa collaboration avec son mari [[Robert Guédiguian]], un réalisateur avec qui elle a tourné de nombreux films, dont le célèbre "[[Marius et Jeannette]]" en 1997. En 1998, elle reçoit le [[César de la meilleure actrice]] pour son rôle dans ce film. Ariane Ascaride a également été récompensée pour sa performance dans "La ville est tranquille" en 2000, ce qui a renforcé sa réputation dans le cinéma français.
+
+###### Archives questions
+
+Dans quel film de [[Robert Guédiguian]] sorti en 1997 [[Ariane Ascaride]] a-t-elle remporté le prix d'interprétation féminine au [[Festival de Venise]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quelle performance [[Ariane Ascaride]] a-t-elle obtenu le [[César de la meilleure actrice]] en 1999 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel membre de sa famille par alliance partage fréquemment l'affiche avec [[Ariane Ascaride]] dans les films de [[Robert Guédiguian]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans le film "[[Au fil d'Ariane]]", quelle comédienne est dirigée par son époux Robert Guédiguian ? <!-- cm003 remplacée 2026-11-23 -->

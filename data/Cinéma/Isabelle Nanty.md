@@ -29,12 +29,20 @@ culture_g_justification: "Actrice populaire surtout par quelques comédies fran�
 
 ###### Questions
 
-Dans quel film de [[Jean-Pierre Jeunet]] sorti en 2001 [[Isabelle Nanty]] interprète-t-elle le rôle de Georgette, l'épicier dépressive ?
+Quelle actrice incarne Georgette, la buraliste hypocondriaque du café des Deux Moulins, dans « [[Le Fabuleux Destin d'Amélie Poulain]] » ?
 
-En 1993, dans quelle comédie française [[Isabelle Nanty]] joue-t-elle le rôle d'une muse peu conventionnelle aux côtés de [[Richard Anconina]] dans le film "[[Les Visiteurs]]" ?
+Quelle actrice a réalisé en 2003 « [[Le Bison (et sa voisine Dorine)]] », dont elle partage l'affiche avec [[Édouard Baer]] ?
 
-Quelle actrice française, célèbre pour son rôle dans "[[Tatie Danielle]]" en 1990, est également connue pour avoir réalisé le film "[[Les Tuche 2]]" en 2016 ?
+Quelle actrice joue Cathy, la mère de famille, dans la saga « [[Les Tuche]] » ?
 
 ###### Description
 
 [[Isabelle Nanty]], actrice et réalisatrice française née en 1962, s'est illustrée par sa diversité de rôles et ses performances mémorables au cinéma. Elle a notamment brillé dans [[Le Fabuleux Destin d'Amélie Poulain]] en 2001, où elle interprète Georgette, la buraliste hypocondriaque du Café des 2 Moulins. En 2011, elle a marqué le public avec sa prestation dans [[Les Tuche]], incarnant la matriarche Cathy Tuche, rôle qu'elle reprendra dans plusieurs suites. Sa carrière derrière la caméra est également notable, avec la réalisation de [[Le Bison (et sa voisine Dorine)]] en 2003, démontrant son talent polyvalent dans l'industrie cinématographique.
+
+###### Archives questions
+
+Dans quel film de [[Jean-Pierre Jeunet]] sorti en 2001 [[Isabelle Nanty]] interprète-t-elle le rôle de Georgette, l'épicier dépressive ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1993, dans quelle comédie française [[Isabelle Nanty]] joue-t-elle le rôle d'une muse peu conventionnelle aux côtés de [[Richard Anconina]] dans le film "[[Les Visiteurs]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice française, célèbre pour son rôle dans "[[Tatie Danielle]]" en 1990, est également connue pour avoir réalisé le film "[[Les Tuche 2]]" en 2016 ? <!-- cm003 remplacée 2026-11-23 -->

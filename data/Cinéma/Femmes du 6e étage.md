@@ -29,12 +29,20 @@ culture_g_justification: "Comédie française connue mais relativement périphé
 
 ###### Questions
 
-Quel film sorti en 2010 raconte l'histoire de domestiques espagnoles travaillant dans des immeubles cossus à Paris et qui a pour titre [[Femmes du 6e étage]] ?
+Quel film de [[Philippe Le Guay]] (2011) montre un agent de change se lier avec les bonnes espagnoles logées sous les toits de son immeuble ?
 
-Dans quel film de [[Philippe Le Guay]], des femmes espagnoles employées de maison dans les années 1960 vivent des situations cocasses et émouvantes, ayant pour titre [[Femmes du 6e étage]] ?
+Pour quel film [[Carmen Maura]] a-t-elle reçu le [[César de la meilleure actrice dans un second rôle]] en 2012 ?
 
-Quel long-métrage explores-t-il les différences socio-culturelles entre Paris et l'Espagne de [[Francisco Franco]] à travers les yeux de domestiques dans [[Femmes du 6e étage]] ?
+Dans quel film [[Natalia Verbeke]] joue-t-elle María, domestique espagnole employée par le couple formé par [[Fabrice Luchini]] et [[Sandrine Kiberlain]] ?
 
 ###### Description
 
 Le film «[[Les Femmes du 6e étage]]», réalisé par [[Philippe Le Guay]] et sorti en 2011, se déroule au début des années 1960 à Paris. Il raconte l’histoire de [[Jean-Louis Joubert]], un agent de change bourgeois interprété par [[Fabrice Luchini]], qui découvre un groupe de domestiques espagnoles vivant au sixième étage de son immeuble. Sa vie bien rangée est bouleversée lorsqu'il se lie d’amitié avec [[Maria]], une jeune employée incarnée par [[Natalia Verbeke]]. Combinant humour et critique sociale, le film explore les différences culturelles et les inégalités de classe à travers une approche à la fois touchante et drôle.
+
+###### Archives questions
+
+Quel film sorti en 2010 raconte l'histoire de domestiques espagnoles travaillant dans des immeubles cossus à Paris et qui a pour titre [[Femmes du 6e étage]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Philippe Le Guay]], des femmes espagnoles employées de maison dans les années 1960 vivent des situations cocasses et émouvantes, ayant pour titre [[Femmes du 6e étage]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel long-métrage explores-t-il les différences socio-culturelles entre Paris et l'Espagne de [[Francisco Franco]] à travers les yeux de domestiques dans [[Femmes du 6e étage]] ? <!-- cm003 remplacée 2026-11-23 -->

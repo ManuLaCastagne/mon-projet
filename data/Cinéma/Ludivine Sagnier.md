@@ -29,11 +29,11 @@ culture_g_justification: "Actrice française reconnue dans plusieurs films popul
 
 ###### Questions
 
-Dans quel film de [[François Ozon]] sorti en 2002, [[Ludivine Sagnier]] joue-t-elle aux côtés de [[Catherine Deneuve]] et [[Fanny Ardant]] dans une maison isolée au cœur de l'hiver ?
+Quelle actrice joue Catherine, la plus jeune fille de la maison, dans « [[8 femmes]] » de [[François Ozon]] (2002) ?
 
-Pour quel film de [[Yvan Attal]] sorti en 2014, [[Ludivine Sagnier]] partage-t-elle l'affiche avec [[Charlotte Gainsbourg]] et [[Tahar Rahim]] dans une comédie dramatique sur le thème des relations amoureuses ?
+Quelle actrice chante aux côtés de [[Louis Garrel]] dans « [[Les Chansons d'amour]] » (2007) de [[Christophe Honoré]] ?
 
-Dans quelle adaptation de [[Stephen Frears]] de [[Chéri]] de [[Colette]], sortie en 2009, [[Ludivine Sagnier]] incarne-t-elle un personnage féminin principal aux côtés de [[Michelle Pfeiffer]] ?
+Quelle actrice tient le rôle-titre de « [[La Petite Lili]] » de [[Claude Miller]] (2003) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a acquis une notoriété internationale grâce à son rôle dans le film "[
 En 2003, elle joue également dans "[[Swimming Pool]]" avec [[Charlotte Rampling]] un thriller dramatique réalisé par le même [[François Ozon]], qui a renforcé sa réputation d'actrice aux rôles audacieux et intenses. 
 
 Notons qu'en 2013, elle a été nominée pour le César de la meilleure actrice pour sa prestation dans "La fille du 14 juillet", consolidant ainsi sa place au sein du cinéma français.
+
+###### Archives questions
+
+Dans quel film de [[François Ozon]] sorti en 2002, [[Ludivine Sagnier]] joue-t-elle aux côtés de [[Catherine Deneuve]] et [[Fanny Ardant]] dans une maison isolée au cœur de l'hiver ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel film de [[Yvan Attal]] sorti en 2014, [[Ludivine Sagnier]] partage-t-elle l'affiche avec [[Charlotte Gainsbourg]] et [[Tahar Rahim]] dans une comédie dramatique sur le thème des relations amoureuses ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle adaptation de [[Stephen Frears]] de [[Chéri]] de [[Colette]], sortie en 2009, [[Ludivine Sagnier]] incarne-t-elle un personnage féminin principal aux côtés de [[Michelle Pfeiffer]] ? <!-- cm003 remplacée 2026-11-23 -->
