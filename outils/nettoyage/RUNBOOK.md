@@ -40,13 +40,26 @@ pas pertinente, image. Ces questions comptent dans le lot de 100 et passent en p
 - `fausse` / `mal posée` (question de la section `###### Questions`) : vérifier, puis `corriger` ou `reecrire`
   avec les règles ci-dessous (retrouver le rang dans la fiche par le texte de la question).
 - `pas pertinente` : verdict `ecarter` (archivée, jamais supprimée).
-- Question marquée `jeu TV` (propriété `questions:` de l'en-tête) : ne pas toucher l'en-tête ; ajouter dans la
-  section `###### Questions` une version complète et vérifiée (même réponse), et le noter dans le commentaire.
+- Question marquée `jeu TV` (propriété `questions:` de l'en-tête) : voir « Questions d'origine des jeux TV » ci-dessous.
 - `image` : chercher l'image correcte du sujet sur Wikimedia Commons ou Wikidata (propriété P18), vérifier
   qu'elle représente bien le sujet, et remplacer le lien de l'image en tête de fiche ; garder l'ancien lien
   dans un commentaire HTML `<!-- image remplacée (cm020) : URL -->` juste en dessous. Si rien de sûr : laisser tel quel.
 - Une fois le lot publié : commenter chaque ticket traité (ce qui a été fait, lien vers la demande de fusion),
   puis le fermer (`gh api -X PATCH repos/ManuLaCastagne/culture-max/issues/<n> -f state=closed`).
+
+## Questions d'origine des jeux TV (CM-024, règles du PO du 24/11/2026)
+
+Ces questions viennent de vraies émissions et de cinq ans de révisions : elles ne sont jamais effacées.
+- La réponse est **toujours le concept**, c'est-à-dire le nom de la fiche (« Paul et Virginie », pas « Virginie »).
+- Une question **coupée au buzz** (fin abrupte, « … ») **reste telle quelle** : trouver la réponse à partir des
+  indices fait partie du jeu. On ne la retravaille que si elle est fausse ou si sa réponse n'est pas le concept.
+- Erreur de transcription ou de fait (ex. « fils de Charles VIII » pour Louis XI), réponse qui n'est pas le
+  concept, question illisible : rédiger une version juste et bien écrite (règles de rédaction ci-dessous), puis
+  `certifier_tv.certifier(texte, question_tv_originale, nouvelle_question)` : la nouvelle question est inscrite
+  dans `###### Questions` avec la marque `<!-- source: tv -->`, l'original passe dans
+  `questions_tv_archivees:` (jamais effacé). L'application la montre en mode « Jeux TV » avec la mention « revue ».
+- Lors d'un lot ordinaire, examiner aussi les questions TV des fiches traitées, avec les mêmes règles.
+- Image signalée : `certifier_tv.remplacer_image(texte, url)` (l'ancien lien reste en commentaire).
 
 ## Déroulé d'un lot
 
