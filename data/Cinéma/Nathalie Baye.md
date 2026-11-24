@@ -29,11 +29,11 @@ culture_g_justification: "Grande actrice française liée aux César, au cinéma
 
 ###### Questions
 
-Dans quel film de [[François Truffaut]] de 1981 [[Nathalie Baye]] joue-t-elle le personnage de [[Nathalie]] ?
+Quelle actrice joue Joëlle, la scripte, dans [[La Nuit américaine]] de [[François Truffaut]] (1973) ?
 
-Quelle actrice française, née en 1948, a remporté quatre César de la meilleure actrice au cours de sa carrière, dont un pour sa performance dans [[La Balance]] en 1983 ?
+Quelle actrice a reçu le César de la meilleure actrice en 1983 pour [[La Balance]] puis en 2006 pour [[Le Petit Lieutenant]] ?
 
-Qui a été la compagne de [[Johnny Hallyday]] entre 1982 et 1986 avec qui elle a eu une fille nommée [[Laura Smet]] ?
+Quelle actrice a partagé la vie de [[Johnny Hallyday]] de 1982 à 1986, avec qui elle a eu [[Laura Smet]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Qui a été la compagne de [[Johnny Hallyday]] entre 1982 et 1986 avec qui elle 
 Elle a remporté à quatre reprises le César de la meilleure actrice, une première fois en 1981 pour "[[Une étrange affaire]]" de [[Pierre Granier-Deferre]], et plus récemment en 2006 pour "[[Le Petit Lieutenant]]" de Xavier Beauvois. En 1983, elle s'est illustrée dans le film "[[La Balance]]", qui lui a valu un César pour son rôle puissant dans ce drame policier. 
 
 [[Nathalie Baye]] a également tourné aux côtés de célèbres réalisateurs comme [[François Truffaut]], notamment dans "[[La Nuit Américaine]]" sorti en 1973, où elle a renforcé sa notoriété grâce à ce partenariat artistique prolifique.
+
+###### Archives questions
+
+Dans quel film de [[François Truffaut]] de 1981 [[Nathalie Baye]] joue-t-elle le personnage de [[Nathalie]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice française, née en 1948, a remporté quatre César de la meilleure actrice au cours de sa carrière, dont un pour sa performance dans [[La Balance]] en 1983 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a été la compagne de [[Johnny Hallyday]] entre 1982 et 1986 avec qui elle a eu une fille nommée [[Laura Smet]] ? <!-- cm003 remplacée 2026-11-23 -->

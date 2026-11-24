@@ -29,12 +29,20 @@ culture_g_justification: "Acteur populaire du cinéma français, surtout rentabl
 
 ###### Questions
 
-Dans quel film culte de 1998, [[Gérard Darmon]] interprète-t-il le personnage de [[Jim Morales]] dans l'univers de [[La Cité de la peur]] ?
+Quel acteur incarne Amonbofis, l'architecte rival de Numérobis, dans [[Astérix & Obélix : Mission Cléopâtre]] (2002) ?
 
-Quel acteur a incarné le rôle de [[Emile Buisson]] dans le film [[Les Grandes Gueules]] sorti en 1965 ?
+Quel acteur joue Eddy, l'ami de Zorg, dans [[37°2 le matin]] de [[Jean-Jacques Beineix]] (1986) ?
 
-Dans quelle comédie musicale de 1986 au théâtre de Paris, [[Gérard Darmon]] a-t-il joué aux côtés de [[Catherine Deneuve]] et [[Alain Souchon]] ?
+Quel acteur incarne Patrick Bialès dans [[La Cité de la peur]] des [[Les Nuls|Nuls]] (1994) ?
 
 ###### Description
 
 [[Gérard Darmon]], acteur français né en 1948, a fait ses débuts au cinéma dans les années 1970 et s'est rapidement imposé grâce à son talent et son charisme. Il a joué dans plusieurs films notables, dont le cultissime [[La Cité de la peur]] en 1994, où il incarne l'inspecteur Patrick Bialès avec une performance mémorable qui a marqué les esprits. En 2002, il a également participé à l'adaptation cinématographique de la bande dessinée [[Astérix et Obélix : Mission Cléopâtre]], réalisée par [[Alain Chabat]], où il incarne le rôle de [[Amonbofis]], l'architecte rival de [[Numérobis]] interprété par [[Jamel Debbouze]]. Grâce à ses rôles diversifiés et sa présence unique à l'écran, [[Gérard Darmon]] est resté une figure incontournable du cinéma français.
+
+###### Archives questions
+
+Dans quel film culte de 1998, [[Gérard Darmon]] interprète-t-il le personnage de [[Jim Morales]] dans l'univers de [[La Cité de la peur]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle comédie musicale de 1986 au théâtre de Paris, [[Gérard Darmon]] a-t-il joué aux côtés de [[Catherine Deneuve]] et [[Alain Souchon]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a incarné le rôle de [[Emile Buisson]] dans le film [[Les Grandes Gueules]] sorti en 1965 ? <!-- cm003 remplacée 2026-11-23 -->

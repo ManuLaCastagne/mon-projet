@@ -26,9 +26,9 @@ culture_g_justification: "Film français marquant des années 1980, mais princip
 
 Quel film français de [[1982]], réalisé par [[Alexandre Arcady]], met en scène un patriarche mafieux nommé [[Raymond Bettoun]] ?
 
-Quelle œuvre cinématographique de genre dramatique et gangster a été comparée à [[Le Parrain]] pour son intrigue familiale autour d'un clan mafieux de [[pieds-noirs]] ?
+Dans quel film de gangsters d'[[Alexandre Arcady]] [[Jean-Louis Trintignant]] joue-t-il le commissaire Duche ?
 
-Quel film, ayant une suite intitulée [[Le Grand Pardon 2]], a connu des menaces envers son réalisateur pendant le tournage à cause de l'inspiration de faits réels ?
+Dans quel film de 1982 [[Roger Hanin]] incarne-t-il le chef d'un clan pied-noir, rôle qu'il reprend dix ans plus tard dans une suite tournée à Miami ?
 
 ###### Description
 
@@ -39,3 +39,9 @@ Ce drame de gangsters met en scène [[Roger Hanin]] dans le rôle de [[Raymond B
 Le film a attiré environ 2,18 millions d’entrées en [[France]], témoignant de son succès au box-office. 
 
 Une suite, intitulée [[Le Grand Pardon 2]], a été réalisée par [[Alexandre Arcady]] et sortie en 1992.
+
+###### Archives questions
+
+Quel film, ayant une suite intitulée [[Le Grand Pardon 2]], a connu des menaces envers son réalisateur pendant le tournage à cause de l'inspiration de faits réels ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle œuvre cinématographique de genre dramatique et gangster a été comparée à [[Le Parrain]] pour son intrigue familiale autour d'un clan mafieux de [[pieds-noirs]] ? <!-- cm003 remplacée 2026-11-23 -->

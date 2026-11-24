@@ -29,11 +29,9 @@ culture_g_justification: "Comédie française populaire liée à Jean Reno, Chri
 
 ###### Questions
 
-Dans quel film de 2004 réalise-t-on une adaptation du roman "[[L'Enquête corse]]" de [[René Pétillon]] avec [[Jean Reno]] et [[Christian Clavier]] en tête d'affiche ?
+Quelle comédie d'[[Alain Berbérian]] sortie en 2004, adaptée de la bande dessinée de [[René Pétillon]], réunit [[Christian Clavier]] et [[Jean Reno]] ?
 
-Quel film de comédie française se déroule en partie sur l'île de [[Corse]] et sort en salles la même année que "[[Les Rivières Pourpres 2]]" ?
-
-Dans quel long-métrage un détective parisien est-il engagé pour une mission délicate sur l'identité corse, sorti en 2004 ?
+Dans quel film de 2004 le détective privé Jack Palmer part-il sur l'île de Beauté retrouver un indépendantiste, Ange Leoni, pour lui annoncer un héritage ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Il met en scène [[Jean Reno]] dans le rôle du détective Jack Palmer, et [[Chr
 L'intrigue du film se déroule principalement en [[Corse]], où Palmer est engagé pour retrouver un certain Ange Léoni, dans des paysages aussi pittoresques que menaçants.
 
 Basé sur la bande dessinée du même nom créée par [[René Pétillon]], le film utilise habilement l'humour pour explorer les stéréotypes culturels entre la métropole française et la Corse.
+
+###### Archives questions
+
+Dans quel film de 2004 réalise-t-on une adaptation du roman "[[L'Enquête corse]]" de [[René Pétillon]] avec [[Jean Reno]] et [[Christian Clavier]] en tête d'affiche ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de comédie française se déroule en partie sur l'île de [[Corse]] et sort en salles la même année que "[[Les Rivières Pourpres 2]]" ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel long-métrage un détective parisien est-il engagé pour une mission délicate sur l'identité corse, sorti en 2004 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -27,11 +27,11 @@ culture_g_justification: "Acteur français connu pour quelques films et pour son
 
 ###### Questions
 
-Dans quel film de [[Jean-Pierre Jeunet]], sorti en 2004, [[Gaspard Ulliel]] joue-t-il le rôle de Manech aux côtés d'[[Audrey Tautou]] ? 
+Quel acteur incarne le couturier dans [[Saint Laurent]] de [[Bertrand Bonello]] (2014) ?
 
 Quel acteur français a remporté le [[César du meilleur espoir masculin]] en 2005 pour son rôle dans le film [[Un long dimanche de fiançailles]] ? 
 
-Quel acteur interprète le personnage de [[Hannibal Lecter]] dans le film [[Hannibal Lecter : Les origines du mal]], sorti en 2007 ?
+Quel acteur incarne le jeune [[Hannibal Lecter]] dans [[Hannibal Lecter : Les Origines du mal]] (2007) ?
 
 ###### Description
 
@@ -42,3 +42,9 @@ En 2017, il a été couronné du [[César du Meilleur Acteur]] pour sa performan
 Un fait étonnant est qu'en 2010, [[Gaspard Ulliel]] est devenu le visage de la célèbre fragrance [[Bleu de Chanel]], réalisant ainsi une incursion emblématique dans l'industrie de la mode.
 
 Né le 25 novembre 1984, il a su marquer l'industrie cinématographique française par son talent avant de décéder tragiquement en janvier 2022 à la suite d'un accident de ski.
+
+###### Archives questions
+
+Dans quel film de [[Jean-Pierre Jeunet]], sorti en 2004, [[Gaspard Ulliel]] joue-t-il le rôle de Manech aux côtés d'[[Audrey Tautou]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur interprète le personnage de [[Hannibal Lecter]] dans le film [[Hannibal Lecter : Les origines du mal]], sorti en 2007 ? <!-- cm003 remplacée 2026-11-23 -->

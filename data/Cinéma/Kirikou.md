@@ -29,12 +29,20 @@ culture_g_justification: "Personnage emblématique de l'animation française, r�
 
 ###### Questions
 
-Quel personnage de film d'animation créé par [[Michel Ocelot]] en 1998 est considéré comme un exemple de courage et de sagesse malgré sa petite taille ? <!-- score: 7 -->
+Quel tout petit garçon, qui se met au monde tout seul, est le héros d'un film d'animation de [[Michel Ocelot]] (1998) ?
 
-Quel héros de la série de films débutant par "[[Kirikou et la Sorcière]]" a connu une adaptation en pièce de théâtre en 2007 à l'initiative de la célèbre chanteuse [[Youssou N'Dour]] ?
+Quel petit héros d'un film d'animation de 1998, dont [[Youssou N'Dour]] a composé la musique, affronte une sorcière pour sauver son village ?
 
-Quel protagoniste d'un film d'animation français se lance dans une quête pour sauver son village d'une sorcière nommée [[Karaba]] dans un film sorti en 1998 ?
+Quel enfant affronte la sorcière [[Karaba]], qui a tari la source de son village ?
 
 ###### Description
 
 [[Kirikou et la Sorcière]] est un film d'animation emblématique réalisé par [[Michel Ocelot]], sorti en 1998. L'histoire se déroule dans un village africain où le courageux et minuscule enfant [[Kirikou]] doit affronter la malveillante sorcière [[Karaba]] pour sauver son village. Ce film a été suivi de deux suites, [[Kirikou et les Bêtes sauvages]] en 2005 et [[Kirikou et les Hommes et les Femmes]] en 2012, qui explorent davantage l'univers enchanteur créé par [[Ocelot]]. Le succès de ces films a fait de [[Kirikou]] une figure emblématique et inspirante du cinéma d'animation francophone.
+
+###### Archives questions
+
+Quel héros de la série de films débutant par "[[Kirikou et la Sorcière]]" a connu une adaptation en pièce de théâtre en 2007 à l'initiative de la célèbre chanteuse [[Youssou N'Dour]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage de film d'animation créé par [[Michel Ocelot]] en 1998 est considéré comme un exemple de courage et de sagesse malgré sa petite taille ? <!-- score: 7 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel protagoniste d'un film d'animation français se lance dans une quête pour sauver son village d'une sorcière nommée [[Karaba]] dans un film sorti en 1998 ? <!-- cm003 remplacée 2026-11-23 -->

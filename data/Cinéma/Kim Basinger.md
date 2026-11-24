@@ -29,12 +29,20 @@ culture_g_justification: "Actrice américaine très connue, associée à Batman,
 
 ###### Questions
 
-Quel acteur célèbre a [[Kim Basinger]] épousé en 1993, un mariage qui s'est conclu par un divorce en 2002 ?
+Quelle actrice a été l'épouse d'[[Alec Baldwin]] de 1993 à 2002 ?
 
-Qui a remporté l'Oscar de la meilleure actrice dans un second rôle pour le film LA Confidential de 1997 ?
+Quelle actrice a reçu l'Oscar du meilleur second rôle féminin en 1998 pour [[L.A. Confidential]] ?
 
-En 1989, quelle actrice américaine devient célèbre pour son rôle emblématique aux côtés de [[Michael Keaton]] dans le film [[Batman]] réalisé par [[Tim Burton]] ?
+Quelle actrice joue la photographe Vicki Vale dans [[Batman]] de [[Tim Burton]] (1989) ?
 
 ###### Description
 
 [[Kim Basinger]] est une actrice et ancienne mannequin américaine qui a marqué l'industrie du cinéma avec sa beauté et son talent. Elle a remporté l'[[Oscar de la meilleure actrice dans un second rôle]] en 1998 pour son rôle dans le film [[LA Confidential (film)]], sorti en 1997. Basinger est également célèbre pour son rôle de [[Vicki Vale]] dans le film à succès [[Batman]] de 1989, réalisé par [[Tim Burton]]. Mariée à l'acteur [[Alec Baldwin]] de 1993 à 2002, elle a souvent fait la une des médias pour sa vie personnelle et professionnelle.
+
+###### Archives questions
+
+Quel acteur célèbre a [[Kim Basinger]] épousé en 1993, un mariage qui s'est conclu par un divorce en 2002 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1989, quelle actrice américaine devient célèbre pour son rôle emblématique aux côtés de [[Michael Keaton]] dans le film [[Batman]] réalisé par [[Tim Burton]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a remporté l'Oscar de la meilleure actrice dans un second rôle pour le film LA Confidential de 1997 ? <!-- cm003 remplacée 2026-11-23 -->

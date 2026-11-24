@@ -29,12 +29,20 @@ culture_g_justification: "Personnage comique emblématique des Visiteurs, régul
 
 ###### Questions
 
-Dans quel film sorti en 1993, le personnage de [[Jacquouille la Fripouille]] est-il joué par l'acteur [[Christian Clavier]] ?
+Quel personnage des [[Les Visiteurs|Visiteurs]] (1993) refuse, à la fin, de repartir au Moyen Âge et reste dans le monde moderne ?
 
-Quel personnage, interprété par [[Christian Clavier]], utilise le fameux sort de l'[[eau déplorée]] dans le film "[[Les Visiteurs]]" ?
+Dans [[Les Visiteurs]], quel valet est le lointain ancêtre de Jacques-Henri Jacquart, propriétaire du château devenu hôtel ?
 
-Dans le film "[[Les Visiteurs]]", qui est l'écuyer de [[Godefroy de Montmirail]] projeté par accident en 1992 ?
+Dans [[Les Visiteurs]] (1993), quel écuyer de [[Godefroy de Montmirail]], joué par [[Christian Clavier]], est projeté avec lui en 1992 ?
 
 ###### Description
 
 [[Jacquouille la Fripouille]] est un personnage emblématique du film français [[Les Visiteurs]], sorti en 1993, et incarné par l'acteur [[Christian Clavier]]. Ce film, réalisé par [[Jean-Marie Poiré]], raconte les aventures hilarantes de ce gueux du XIIe siècle qui se retrouve transporté au XXe siècle aux côtés du comte de [[Montmirail]], interprété par [[Jean Reno]]. Leur voyage dans le temps est orchestré par un sortilège raté, concocté par l'enchanteur [[Eusæbius]], joué par [[Pierre Vial]]. "Les Visiteurs" a connu un immense succès au box-office, devenant le film français le plus vu de l'année 1993, avec plus de 13 millions d'entrées en France.
+
+###### Archives questions
+
+Dans quel film sorti en 1993, le personnage de [[Jacquouille la Fripouille]] est-il joué par l'acteur [[Christian Clavier]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage, interprété par [[Christian Clavier]], utilise le fameux sort de l'[[eau déplorée]] dans le film "[[Les Visiteurs]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans le film "[[Les Visiteurs]]", qui est l'écuyer de [[Godefroy de Montmirail]] projeté par accident en 1992 ? <!-- cm003 remplacée 2026-11-23 -->

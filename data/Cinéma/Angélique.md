@@ -29,11 +29,11 @@ culture_g_justification: "Saga française connue de plusieurs générations, ave
 
 ###### Questions
 
-Dans quel film de 1964 [[Michèle Mercier]] incarne-t-elle pour la première fois le personnage de [[Angélique]] en compagnie de [[Robert Hossein]] ?
+Quelle héroïne [[Michèle Mercier]] incarne-t-elle face à [[Robert Hossein]], en Joffrey de Peyrac, dans une saga lancée en 1964 ?
 
-Quel est le titre du cinquième épisode de la saga cinématographique commencée par [[Angélique, marquise des anges]] paru en 1968 ? 
+Quelle héroïne des romans d'[[Anne Golon]] est surnommée « la marquise des anges » ?
 
-Dans quel film réalisé par [[Bernard Borderie]] en 1965 [[Angélique]] se retrouve-t-elle consort du roi des [[Gitans]] ?
+Quelle héroïne de cape et d'épée [[Nora Arnezeder]] incarne-t-elle dans le remake d'[[Ariel Zeitoun]] sorti en 2013 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Le film est basé sur le roman éponyme de [[Anne Golon]] et [[Serge Golon]], pr
 Cette épopée cinématographique se poursuit avec plusieurs suites, notamment "[[Merveilleuse Angélique]]" sorti en 1965. 
 
 La série de films est connue pour sa représentation flamboyante de la société française du XVIIe siècle, mettant en vedette [[Michèle Mercier]] dans le rôle emblématique d'Angélique.
+
+###### Archives questions
+
+Dans quel film de 1964 [[Michèle Mercier]] incarne-t-elle pour la première fois le personnage de [[Angélique]] en compagnie de [[Robert Hossein]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du cinquième épisode de la saga cinématographique commencée par [[Angélique, marquise des anges]] paru en 1968 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film réalisé par [[Bernard Borderie]] en 1965 [[Angélique]] se retrouve-t-elle consort du roi des [[Gitans]] ? <!-- cm003 remplacée 2026-11-23 -->

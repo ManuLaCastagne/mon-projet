@@ -29,12 +29,20 @@ culture_g_justification: "Humoriste et réalisateur connu pour Case départ, Coe
 
 ###### Questions
 
-Dans quel film de 2017, réalisé par [[Fabrice Eboué]], explore-t-on les coulisses d'une boucherie halal avec un humour grinçant ?
+Quel humoriste réalise et joue dans « [[Barbaque]] » (2021), où un boucher vend la chair de végans comme du porc ?
 
-Quel humoriste et réalisateur, [[Fabrice Eboué]], a dirigé et joué dans son premier long métrage en 2010, intitulé [[Case départ]] ?
+Quel humoriste coréalise « [[Case départ]] » (2011) avec [[Thomas Ngijol]] et Lionel Steketee ?
 
-Quel cinéaste d'origine franco-camerounaise, [[Fabrice Eboué]], a co-réalisé le film [[Coexister]] sorti en 2017, qui aborde le thème de la cohabitation interreligieuse à travers une comédie ?
+Quel humoriste réalise « [[Coexister]] » (2017), où un producteur monte un groupe de musique avec un prêtre, un rabbin et un imam ?
 
 ###### Description
 
 [[Fabrice Éboué]] est un humoriste et réalisateur français qui s'est distingué dans le cinéma avec des œuvres marquantes. En 2011, il coréalise le film [[Case départ]] avec [[Lionel Steketee]] et [[Thomas N'Gijol]], qui rencontre un succès commercial et critique. Deux ans plus tard, en 2014, il récidive avec [[Le Crocodile du Botswanga]], toujours en collaboration avec Steketee, où il aborde des thèmes percutants avec humour. [[Fabrice Éboué]] est également connu pour son film [[Coexister]], sorti en 2017, qui met en scène un prêtre, un rabbin et un imam réunissant leurs talents pour former un groupe de musique, explorant ainsi des questions de cohabitation interreligieuse avec beaucoup de dérision.
+
+###### Archives questions
+
+Dans quel film de 2017, réalisé par [[Fabrice Eboué]], explore-t-on les coulisses d'une boucherie halal avec un humour grinçant ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel humoriste et réalisateur, [[Fabrice Eboué]], a dirigé et joué dans son premier long métrage en 2010, intitulé [[Case départ]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel cinéaste d'origine franco-camerounaise, [[Fabrice Eboué]], a co-réalisé le film [[Coexister]] sorti en 2017, qui aborde le thème de la cohabitation interreligieuse à travers une comédie ? <!-- cm003 remplacée 2026-11-23 -->

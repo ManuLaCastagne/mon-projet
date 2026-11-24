@@ -29,12 +29,20 @@ culture_g_justification: "Actrice et réalisatrice française reconnue, utile po
 
 ###### Questions
 
-Dans quel film de [[Nicole Garcia]], sorti en 1984, l'actrice a-t-elle interprété le rôle de [[Terry]], une ancienne championne de tennis, aux côtés de [[Patrick Bruel]] ?
+Quelle réalisatrice dirige [[Catherine Deneuve]] dans « [[Place Vendôme]] » (1998), rôle qui vaut à l'actrice la Coupe Volpi à Venise ?
 
-En quelle année [[Nicole Garcia]] a-t-elle reçu le César pour le rôle de soutien dans «[[Le Cavaleur]]» ?
+Quelle actrice reçoit en 1980 le César de la meilleure actrice dans un second rôle pour « [[Le Cavaleur]] » de [[Philippe de Broca]] ?
 
-Quel premier film réalisé par [[Nicole Garcia]] a été sélectionné pour la [[Quinzaine des Réalisateurs]] lors du Festival de Cannes en 1990 ?
+Quelle actrice passe à la réalisation en 1990 avec « [[Un week-end sur deux]] », présenté à la Mostra de Venise ?
 
 ###### Description
 
 [[Nicole Garcia]] est une actrice et réalisatrice française renommée, née le 22 avril 1946 à [[Oran]], en Algérie. Elle débute sa carrière cinématographique comme actrice dans les années 1970, et joue notamment dans le film "Que la fête commence" réalisé par [[Bertrand Tavernier]] en 1975. En tant que réalisatrice, elle est reconnue pour "L'Adversaire" sorti en 2002, un film basé sur l'histoire vraie de [[Jean-Claude Romand]]. Parmi ses nombreuses distinctions, elle reçoit le [[Prix Louis-Delluc]] en 1990 pour son film "Un week-end sur deux".
+
+###### Archives questions
+
+Dans quel film de [[Nicole Garcia]], sorti en 1984, l'actrice a-t-elle interprété le rôle de [[Terry]], une ancienne championne de tennis, aux côtés de [[Patrick Bruel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Nicole Garcia]] a-t-elle reçu le César pour le rôle de soutien dans «[[Le Cavaleur]]» ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel premier film réalisé par [[Nicole Garcia]] a été sélectionné pour la [[Quinzaine des Réalisateurs]] lors du Festival de Cannes en 1990 ? <!-- cm003 remplacée 2026-11-23 -->

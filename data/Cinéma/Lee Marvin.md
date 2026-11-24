@@ -29,12 +29,20 @@ culture_g_justification: "Acteur majeur du western et du cinéma de guerre, int�
 
 ###### Questions
 
-Dans quel film de 1965 [[Lee Marvin]] a-t-il interprété deux rôles distincts, devenant ainsi l'un des premiers acteurs à jouer deux personnages principaux différents dans le même film ?
+Quel acteur joue à la fois le tireur alcoolique Kid Shelleen et son frère, le tueur Tim Strawn, dans [[Cat Ballou]] (1965) ?
 
-En 1966, quel acteur a remporté l'Oscar du meilleur acteur pour sa performance dans le film [[Cat Ballou]], faisant de [[Lee Marvin]] l'un des rares à remporter cette récompense pour un rôle principalement comique ?
+Quel acteur a remporté l'Oscar du meilleur acteur en 1966, devant [[Richard Burton]] et [[Laurence Olivier]] ?
 
-Quel acteur a été directement inspiré par son expérience militaire dans le Corps des [[Marines]] des [[États-Unis]] pendant la [[Seconde Guerre mondiale]], influençant ainsi sa carrière cinématographique et son style de jeu majeur, notamment dans le film [[The Dirty Dozen]] sorti en 1967 ?
+Quel ancien marine, blessé à [[Saipan]] en 1944, incarne le major Reisman dans [[Les Douze Salopards]] (1967) ?
 
 ###### Description
 
 [[Lee Marvin]] était un acteur américain, réputé pour sa voix grave et ses rôles de durs à cuire dans des films d'action et des westerns. Il a remporté l'Oscar du meilleur acteur en 1966 pour son rôle dans le film "[[Cat Ballou]]". Né en 1924 à New York, il a également servi dans les [[Marines]] pendant la [[Seconde Guerre mondiale]]. Parmi ses autres films notables figurent "[[Les Douze Salopards]]" sorti en 1967 et "[[Le Point de non-retour]]" en 1967, qui ont solidifié sa réputation d'icône du cinéma d'action.
+
+###### Archives questions
+
+Dans quel film de 1965 [[Lee Marvin]] a-t-il interprété deux rôles distincts, devenant ainsi l'un des premiers acteurs à jouer deux personnages principaux différents dans le même film ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1966, quel acteur a remporté l'Oscar du meilleur acteur pour sa performance dans le film [[Cat Ballou]], faisant de [[Lee Marvin]] l'un des rares à remporter cette récompense pour un rôle principalement comique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a été directement inspiré par son expérience militaire dans le Corps des [[Marines]] des [[États-Unis]] pendant la [[Seconde Guerre mondiale]], influençant ainsi sa carrière cinématographique et son style de jeu majeur, notamment dans le film [[The Dirty Dozen]] sorti en 1967 ? <!-- cm003 remplacée 2026-11-23 -->

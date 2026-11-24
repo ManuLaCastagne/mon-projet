@@ -25,7 +25,7 @@ culture_g_justification: "Actrice française populaire grâce aux Robins des Boi
 
 ###### Questions
 
-Dans quel film de [[2001]], réalisé par [[Alain Chabat]], Marina Foïs joue-t-elle le rôle de [[Falbala]] aux côtés de [[Gérard Depardieu]] et [[Christian Clavier]] ?
+Quelle actrice joue Sucettalanis, la suivante de Cléopâtre, dans « [[Astérix et Obélix : Mission Cléopâtre]] » d'[[Alain Chabat]] ?
 
 Quelle actrice française, née en [[1970]] à [[Boulogne-Billancourt]], a été révélée grâce à son rôle dans la troupe des [[Robins des Bois]] ?
 ###### Description
@@ -37,3 +37,7 @@ Elle a d'abord gagné en notoriété avec la troupe des [[Robins des Bois]], qui
 Un fait étonnant sur [[Marina Foïs]] est qu'elle détient le record de nominations aux [[César du cinéma]] sans victoire, avec un total impressionnant de six nominations. 
 
 En 2021, elle a même eu l'honneur de présenter la cérémonie des César, renforçant ainsi sa place emblématique dans le cinéma français.
+
+###### Archives questions
+
+Dans quel film de [[2001]], réalisé par [[Alain Chabat]], Marina Foïs joue-t-elle le rôle de [[Falbala]] aux côtés de [[Gérard Depardieu]] et [[Christian Clavier]] ? <!-- cm003 remplacée 2026-11-23 -->

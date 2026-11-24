@@ -27,11 +27,11 @@ culture_g_justification: "Acteur très identifiable grâce à Spider-Man, Platoo
 
 ###### Questions
 
-Dans quel film de [[Martin Scorsese]] sorti en 1988, [[Willem Dafoe]] incarne-t-il [[Jésus]] ?
+Quel acteur incarne Jésus dans [[La Dernière Tentation du Christ]] de [[Martin Scorsese]] (1988) ?
 
-Quel acteur, nommé [[Willem Dafoe]], a cofondé la troupe de théâtre expérimentale [[The Wooster Group]] en 1977 ?
+Quel acteur joue le sergent Elias dans [[Platoon]] d'[[Oliver Stone]] (1986) ?
 
-Dans le film de [[Sam Raimi]] de 2002, qui joue le rôle de [[Norman Osborn]], alias le [[Bouffon Vert]], l'antagoniste principal ?
+Quel acteur incarne [[Norman Osborn]], alias le [[Bouffon vert]], dans [[Spider-Man]] de [[Sam Raimi]] (2002) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ En 2001, il a incarné l'iconique [[Green Goblin]] dans "Spider-Man" de [[Sam Ra
 Fait étonnant, il détient le record pour le rôle de [[Jésus]] dans "La Dernière Tentation du Christ" de [[Martin Scorsese]], film controversé sorti en 1988, qui lui a valu d'affronter des critiques virulentes. 
 
 En 2018, Dafoe a reçu une nomination à l'[[Oscar du meilleur acteur]] pour son rôle dans "The Florida Project", marquant ainsi sa quatrième nomination aux Oscars, sans jamais avoir remporté la statuette à ce jour.
+
+###### Archives questions
+
+Dans quel film de [[Martin Scorsese]] sorti en 1988, [[Willem Dafoe]] incarne-t-il [[Jésus]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, nommé [[Willem Dafoe]], a cofondé la troupe de théâtre expérimentale [[The Wooster Group]] en 1977 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans le film de [[Sam Raimi]] de 2002, qui joue le rôle de [[Norman Osborn]], alias le [[Bouffon Vert]], l'antagoniste principal ? <!-- cm003 remplacée 2026-11-23 -->

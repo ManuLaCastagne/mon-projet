@@ -33,8 +33,12 @@ Dans quel film de [[Patrice Leconte]], sorti en 1989, un tailleur taciturne est 
 
 Quel film adapté d'un roman de [[Georges Simenon]] présente [[Michel Blanc]] dans le rôle principal en 1989 ?
 
-Dans quelle adaptation cinématographique de 1989 de [[Patrice Leconte]] un personnage principal nommé Monsieur Hire devient obsédé par sa voisine ?
+Quel film de [[Patrice Leconte]], en compétition à Cannes en 1989, a une musique de [[Michael Nyman]] ?
 
 ###### Description
 
 [[Monsieur Hire]] est un film réalisé par [[Patrice Leconte]], sorti en 1989. Il s'agit d'une adaptation du roman "[[Les Fiançailles de M. Hire]]" écrit par [[Georges Simenon]] en 1933. Le rôle principal de [[Monsieur Hire]] est incarné par l'acteur [[Michel Blanc]], connu pour sa performance captivante et énigmatique. La musique du film est composée par [[Michael Nyman]], ajoutant une dimension sonore inoubliable à cette œuvre cinématographique.
+
+###### Archives questions
+
+Dans quelle adaptation cinématographique de 1989 de [[Patrice Leconte]] un personnage principal nommé Monsieur Hire devient obsédé par sa voisine ? <!-- cm003 remplacée 2026-11-23 -->

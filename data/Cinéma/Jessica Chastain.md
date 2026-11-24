@@ -29,11 +29,11 @@ culture_g_justification: "Actrice reconnue et récompensée, Jessica Chastain es
 
 ###### Questions
 
-Dans quel film de [[Terrence Malick]] de 2011 [[Jessica Chastain]] joue-t-elle le rôle de la mère dans une famille du Texas explorant les mystères de la vie ?
+Quelle actrice américaine incarne la mère de famille texane dans « [[The Tree of Life]] » de [[Terrence Malick]], Palme d'or 2011 ?
 
-Dans quelle année [[Jessica Chastain]] a-t-elle remporté le [[Golden Globe]] de la meilleure actrice, grâce à sa performance dans le film [[Zero Dark Thirty]] ?
+Quelle actrice remporte en 2013 le [[Golden Globe]] de la meilleure actrice dans un film dramatique pour son rôle d'agente de la CIA dans « [[Zero Dark Thirty]] » ?
 
-Quel rôle a permis à [[Jessica Chastain]] de recevoir sa première nomination aux Oscars en 2012 ?
+Quelle actrice remporte en 2022 l'Oscar de la meilleure actrice pour son rôle de télévangéliste dans « [[Dans les yeux de Tammy Faye]] » ?
 
 On me retrouve dans "[[Miss Sloane]]" et "[[Le Grand Jeu]]", je suis à l'affiche de "[[X-Men Dark Phoenix]]".
 
@@ -44,3 +44,11 @@ On me retrouve dans "[[Miss Sloane]]" et "[[Le Grand Jeu]]", je suis à l'affich
 En 2012, elle a reçu une nomination à l'[[Oscar de la meilleure actrice]] pour son rôle dans [[Zero Dark Thirty]], un thriller centré sur la traque de [[Oussama ben Laden]]. 
 
 En plus de son travail d'actrice, Chastain est également productrice et a fondé sa propre société de production, [[Freckle Films]], en 2016 pour encourager la diversité et l'égalité dans l'industrie cinématographique.
+
+###### Archives questions
+
+Dans quel film de [[Terrence Malick]] de 2011 [[Jessica Chastain]] joue-t-elle le rôle de la mère dans une famille du Texas explorant les mystères de la vie ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle année [[Jessica Chastain]] a-t-elle remporté le [[Golden Globe]] de la meilleure actrice, grâce à sa performance dans le film [[Zero Dark Thirty]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle a permis à [[Jessica Chastain]] de recevoir sa première nomination aux Oscars en 2012 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,12 +29,18 @@ culture_g_justification: "Actrice populaire surtout grâce à ses rôles d’ép
 
 ###### Questions
 
-Dans quel film de [[Claude Gensac]] de 1961 a-t-elle joué aux côtés de [[Louis de Funès]], lançant une collaboration durable avec cet acteur emblématique du cinéma français ?
+Quelle actrice incarne Josépha, l'épouse du gendarme Cruchot, dans « [[Le Gendarme se marie]] » (1968) ?
 
-Quelle actrice, connue pour son rôle récurrent dans la série de films où elle interprète régulièrement l'épouse de [[Louis de Funès]], a débuté sa carrière cinématographique en 1952 ?
-
-En quelle année [[Claude Gensac]] a-t-elle intégré le casting de la célèbre pièce de théâtre "Oscar", qui a ensuite été adaptée en film par [[Edouard Molinaro]] avec [[Louis de Funès]] ?
+Quelle actrice joue Germaine, l'épouse de Bertrand Barnier, dans « [[Oscar]] » d'[[Edouard Molinaro]] (1967) ?
 
 ###### Description
 
 [[Claude Gensac]] est une actrice française principalement reconnue pour ses rôles aux côtés de [[Louis de Funès]] dans une série de films à succès entre 1967 et 1982. Elle débute sa carrière cinématographique en 1952, mais c'est son rôle récurrent de Mme Cruchot dans la série des films du « [[Gendarme de Saint-Tropez]] » qui la rend célèbre. En 1967, elle joue ainsi pour la première fois ce rôle dans "Le Gendarme se marie". Elle continue à exercer son talent au théâtre et au cinéma jusqu'en 2013, démontrant sa longévité et sa popularité inébranlable dans le monde du spectacle français.
+
+###### Archives questions
+
+Dans quel film de [[Claude Gensac]] de 1961 a-t-elle joué aux côtés de [[Louis de Funès]], lançant une collaboration durable avec cet acteur emblématique du cinéma français ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Claude Gensac]] a-t-elle intégré le casting de la célèbre pièce de théâtre "Oscar", qui a ensuite été adaptée en film par [[Edouard Molinaro]] avec [[Louis de Funès]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice, connue pour son rôle récurrent dans la série de films où elle interprète régulièrement l'épouse de [[Louis de Funès]], a débuté sa carrière cinématographique en 1952 ? <!-- cm003 archivée 2026-11-23 -->

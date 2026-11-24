@@ -29,12 +29,20 @@ culture_g_justification: "Acteur classique du cinéma français, notamment grâc
 
 ###### Questions
 
-Dans quel film de [[Henri-Georges Clouzot]] sorti en 1960 [[Paul Meurisse]] joue-t-il le rôle de Michel Delassalle ?
+Quel acteur incarne Michel Delassalle, le directeur d'école tyrannique des « [[Les Diaboliques|Diaboliques]] » d'[[Henri-Georges Clouzot]] (1955) ?
 
-Quel acteur français, connu pour sa carrière au théâtre et pour avoir été membre de la [[Comédie-Française]], a interprété un des rôles principaux dans le film [[Les Diaboliques]] ?
+Quel acteur incarne le commandant Dromard, dit « le Monocle », dans « [[Le Monocle noir]] » (1961) ?
 
-Dans quelle production de [[Jean-Pierre Melville]] sortie en 1963 [[Paul Meurisse]] incarne-t-il l'inspecteur Joss ?
+Quel acteur incarne le commissaire Blot dans « [[Le Deuxième Souffle]] » de [[Jean-Pierre Melville]] (1966) ?
 
 ###### Description
 
 [[Paul Meurisse]] était un acteur français emblématique, né le 21 décembre 1912 à [[Dunkerque]] et décédé le 19 janvier 1979 à [[Neuilly-sur-Seine]]. Il a laissé une empreinte durable dans le cinéma français, notamment grâce à son rôle marquant dans le film à suspense "Les [[Les Diaboliques (roman)]]" de [[Henri-Georges Clouzot]] en 1955, aux côtés de [[Simone Signoret]] et [[Véra Clouzot]]. En 1963, Meurisse a également brillé dans le rôle de l'inspecteur [[Vogel]] dans "Mélodie en sous-sol" réalisé par [[Henri Verneuil]], avec [[Jean Gabin]] et [[Alain Delon]]. Sa carrière s'étend sur plus de quatre décennies, durant lesquelles il a apporté sa touche distinctive à des classiques du cinéma français, incarnant souvent des personnages subtils et complexes.
+
+###### Archives questions
+
+Dans quel film de [[Henri-Georges Clouzot]] sorti en 1960 [[Paul Meurisse]] joue-t-il le rôle de Michel Delassalle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle production de [[Jean-Pierre Melville]] sortie en 1963 [[Paul Meurisse]] incarne-t-il l'inspecteur Joss ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur français, connu pour sa carrière au théâtre et pour avoir été membre de la [[Comédie-Française]], a interprété un des rôles principaux dans le film [[Les Diaboliques]] ? <!-- cm003 remplacée 2026-11-23 -->

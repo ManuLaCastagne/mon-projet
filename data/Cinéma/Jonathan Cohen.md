@@ -29,12 +29,20 @@ culture_g_justification: "Figure importante de l'humour et des séries français
 
 ###### Questions
 
-Dans quelle série télévisée française, [[Jonathan Cohen]] incarne-t-il le personnage principal nommé [[Serge le Mytho]] à partir de 2016 ?  
+Quel acteur incarne le menteur compulsif de la série courte « [[Serge le Mytho]] », diffusée sur Canal+ à partir de 2016 ?
   
-Quel acteur a débuté sa carrière dans la célèbre série française [[Les Invincibles]] en interprétant le rôle de [[Hassan]] dès 2010 ?  
+Quel acteur joue Hassan dans la série « [[Les Invincibles]] », diffusée sur Arte à partir de 2010 ?
   
-Quel acteur, connu pour son rôle dans [[La Flamme]], a aussi prêté sa voix au personnage principal du film d'animation [[Le Lorax]] sorti en 2012 ?
+Quel acteur crée et interprète la série parodique « [[La Flamme]] », diffusée sur Canal+ en 2020 ?
 
 ###### Description
 
 [[Jonathan Cohen]] est un acteur et humoriste français connu pour ses rôles marquants au cinéma et à la télévision. Il a commencé sa carrière avec des apparitions dans des séries télévisées, mais s'est véritablement fait connaître du grand public grâce à son personnage dans la série [[Serge le Mytho]], à partir de 2010. En 2018, il se démarque au cinéma en jouant dans le film comique à succès [[Le Grand Bain]], qui lui vaut une large reconnaissance critique. En 2021, il marque encore les esprits avec sa performance dans [[Enorme]], un film qui met en lumière sa polyvalence en tant qu'acteur dans des rôles à la fois comiques et touchants.
+
+###### Archives questions
+
+Dans quelle série télévisée française, [[Jonathan Cohen]] incarne-t-il le personnage principal nommé [[Serge le Mytho]] à partir de 2016 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, connu pour son rôle dans [[La Flamme]], a aussi prêté sa voix au personnage principal du film d'animation [[Le Lorax]] sorti en 2012 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a débuté sa carrière dans la célèbre série française [[Les Invincibles]] en interprétant le rôle de [[Hassan]] dès 2010 ? <!-- cm003 remplacée 2026-11-23 -->

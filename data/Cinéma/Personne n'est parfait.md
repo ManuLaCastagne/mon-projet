@@ -29,12 +29,16 @@ culture_g_justification: "Réplique finale emblématique de Certains l'aiment ch
 
 ###### Questions
 
-Dans quel film de [[Billy Wilder]] de 1959, traduit en français sous le titre "Certains l'aiment chaud", entend-on la réplique finale "Well, nobody's perfect"?
-
-Quelle célèbre phrase conclut le film américain "[[Some Like It Hot]]" de [[Billy Wilder]], sorti en 1959, lors de la scène finale entre [[Jack Lemmon]] et [[Joe E. Brown]]?
-
-Dans quel classique de la comédie de 1959, réalisé par [[Billy Wilder]], la dernière réplique est devenue iconique avec la mention "Personne n'est parfait"?
+Quelle réplique d'Osgood, joué par [[Joe E. Brown]], clôt [[Certains l'aiment chaud]] de [[Billy Wilder]] (1959) en version française ?
 
 ###### Description
 
 [[Billy Wilder]] a réalisé le film culte "[[Some Like It Hot]]", sorti en 1959, qui est souvent considéré comme l'une des meilleures comédies américaines de tous les temps. Le film met en vedette [[Marilyn Monroe]], [[Tony Curtis]] et [[Jack Lemmon]], dans une intrigue où deux musiciens se déguisent en femmes pour échapper à la mafia après avoir été témoins d'un meurtre. Bien que [[Marilyn Monroe]] aurait eu des difficultés à se souvenir de ses répliques pendant le tournage, son interprétation reste inoubliable et contribue au charme du film. "Some Like It Hot" a été distingué par l'[[American Film Institute]] comme la meilleure comédie américaine dans son classement "AFI's 100 Years...100 Laughs".
+
+###### Archives questions
+
+Dans quel classique de la comédie de 1959, réalisé par [[Billy Wilder]], la dernière réplique est devenue iconique avec la mention "Personne n'est parfait"? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle célèbre phrase conclut le film américain "[[Some Like It Hot]]" de [[Billy Wilder]], sorti en 1959, lors de la scène finale entre [[Jack Lemmon]] et [[Joe E. Brown]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Billy Wilder]] de 1959, traduit en français sous le titre "Certains l'aiment chaud", entend-on la réplique finale "Well, nobody's perfect"? <!-- cm003 archivée 2026-11-23 -->

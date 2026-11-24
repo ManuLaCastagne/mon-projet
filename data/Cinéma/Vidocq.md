@@ -27,11 +27,11 @@ culture_g_justification: "Film français de genre identifiable par Depardieu, Pi
 
 ###### Questions
 
-Quel célèbre film français de 2001 pour lequel [[Gérard Depardieu]] a incarné le rôle-titre a été partiellement inspiré par les aventures du premier chef de la police judiciaire de Paris ?  
+Dans quel film de 2001 [[Gérard Depardieu]] incarne-t-il le fondateur de la brigade de Sûreté parisienne ?
 
-Quel film réalisé par [[Pitof]] utilise la combinaison de décors réels et d’effets spéciaux numériques pour retracer les aventures de l'ancien bagnard devenu détective, sorti en 2001 ?  
+Quel film de [[Pitof]] (2001) est cité comme le premier long métrage tourné entièrement en vidéo numérique haute définition ?
 
-Dans quelle réalisation cinématographique de 2001, écrit par [[Jean-Christophe Grangé]], retrouve-t-on le personnage de [[Eugène François Vidocq]], détective au passé tumultueux et controversé ?
+Dans quel film de 2001, coécrit par [[Jean-Christophe Grangé]], un enquêteur traque un tueur masqué surnommé l'Alchimiste ?
 
 ###### Description
 
@@ -40,3 +40,11 @@ Le film *[[Vidocq]]*, réalisé par [[Pitof]] et sorti en 2001, marque une étap
 Le film se distingue également par sa première mondiale en tant que long métrage entièrement tourné en numérique haute définition, transformant les méthodes traditionnelles de production cinématographique. 
 
 La musique, composée par [[Bruno Coulais]], ajoute une dimension envoûtante qui enrichit l'atmosphère mystérieuse de cette œuvre cinématographique audacieuse.
+
+###### Archives questions
+
+Dans quelle réalisation cinématographique de 2001, écrit par [[Jean-Christophe Grangé]], retrouve-t-on le personnage de [[Eugène François Vidocq]], détective au passé tumultueux et controversé ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre film français de 2001 pour lequel [[Gérard Depardieu]] a incarné le rôle-titre a été partiellement inspiré par les aventures du premier chef de la police judiciaire de Paris ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film réalisé par [[Pitof]] utilise la combinaison de décors réels et d’effets spéciaux numériques pour retracer les aventures de l'ancien bagnard devenu détective, sorti en 2001 ? <!-- cm003 remplacée 2026-11-23 -->

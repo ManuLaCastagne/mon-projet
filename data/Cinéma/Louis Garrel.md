@@ -27,15 +27,15 @@ culture_g_justification: "Acteur français reconnu du cinéma d’auteur et lié
 
 ###### Questions
 
-Dans quel film réalisé par [[Jacques Doillon]] en 2019, [[Louis Garrel]] a-t-il joué le rôle principal ?
+Quel acteur réalise et interprète en 2022 « [[L'Innocent]] », comédie où un homme s'inquiète du remariage de sa mère avec un ancien détenu ?
 
-Quel acteur fétiche de Christophe Honoré le dirige dans "Les Chansons d'amour" et est à l'affiche en 2020 de "[[ADN (film)]]" de [[Maïwenn]] ? 
+Quel acteur français partage l'affiche d'« [[Innocents: The Dreamers]] » de [[Bernardo Bertolucci]] (2003) avec [[Eva Green]] ?
 
-Quel acteurs est le fils d'un réalisateur prénommé Philippe et petit-fils d'un acteur prénommé Maurice ?
+Quel acteur est le fils d'un réalisateur prénommé Philippe et le petit-fils d'un comédien prénommé Maurice ?
 
 Quel acteur a incarné [[Jean-Luc Godard]] dans le film "[[Le Redoutable]]" de [[Michel Hazanavicius]] sorti en 2017 ? <!-- score: 3 -->
 
-Dans quel long métrage intitulé "[[Les Chansons d’amour]]" de [[Christophe Honoré]] en 2007, [[Louis Garrel]] interprète-t-il un personnage confronté au deuil et à l'amour ?
+Quel acteur joue un jeune homme frappé par le deuil dans « [[Les Chansons d'amour]] » de [[Christophe Honoré]] (2007) ?
 
 ###### Description
 
@@ -44,3 +44,13 @@ Dans quel long métrage intitulé "[[Les Chansons d’amour]]" de [[Christophe H
 En 2005, il reçoit le César du meilleur espoir masculin pour son rôle dans le film «[[Les Amants réguliers]]», dirigé par son père. 
 
 Louis fréquente régulièrement le cinéma de l'auteur [[Christophe Honoré]], avec qui il réalise le film à succès «[[Les Chansons d'amour]]» en 2007. Sa carrière impressionnante s'étend également à la réalisation, avec des films tels que «[[L'Homme fidèle]]» sorti en 2018.
+
+###### Archives questions
+
+Dans quel film réalisé par [[Jacques Doillon]] en 2019, [[Louis Garrel]] a-t-il joué le rôle principal ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel long métrage intitulé "[[Les Chansons d’amour]]" de [[Christophe Honoré]] en 2007, [[Louis Garrel]] interprète-t-il un personnage confronté au deuil et à l'amour ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur fétiche de Christophe Honoré le dirige dans "Les Chansons d'amour" et est à l'affiche en 2020 de "[[ADN (film)]]" de [[Maïwenn]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteurs est le fils d'un réalisateur prénommé Philippe et petit-fils d'un acteur prénommé Maurice ? <!-- cm003 remplacée 2026-11-23 -->

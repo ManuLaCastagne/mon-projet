@@ -28,11 +28,11 @@ culture_g_justification: "Grande actrice du cinéma français associée à Truff
 
 ###### Questions
 
-Quel film sorti en 1981 a révélé [[Fanny Ardant]] au grand public en faisant d'elle une star du [[cinéma français]] aux côtés de [[Gérard Depardieu]] ?
+Quelle actrice a été révélée en 1981 par [[François Truffaut]] dans [[La Femme d'à côté]], face à [[Gérard Depardieu]] ?
 
-Dans quel film réalisé par [[François Truffaut]] en 1983, [[Fanny Ardant]] incarne-t-elle le personnage principal féminin aux prises avec un amour compliqué ?
+Quelle actrice joue la secrétaire qui mène l'enquête pour innocenter son patron dans [[Vivement dimanche !]], dernier film de [[François Truffaut]] (1983) ?
 
-Quel prix prestigieux [[Fanny Ardant]] a-t-elle reçu en 1997 pour l'ensemble de sa carrière contribuant au monde du [[cinéma]] lors du [[Festival du film de Locarno]] ?
+Quelle actrice a reçu le César de la meilleure actrice en 1997 pour son rôle dans [[Pédale douce]] de [[Gabriel Aghion]] ?
 
 ###### Description
 
@@ -41,3 +41,11 @@ Quel prix prestigieux [[Fanny Ardant]] a-t-elle reçu en 1997 pour l'ensemble de
 Elle a ensuite remporté le [[César de la meilleure actrice]] en 1997 pour son rôle dans [[Pédale douce]], confirmant ainsi son statut de grande actrice. 
 
 En 2003, elle a démontré son talent dans [[8 femmes]] de [[François Ozon]], une œuvre saluée pour son casting féminin remarquable. [[Fanny Ardant]] continue de captiver les spectateurs avec sa présence charismatique, diversifiant sa carrière en s'essayant à la réalisation dans les années 2010.
+
+###### Archives questions
+
+Quel film sorti en 1981 a révélé [[Fanny Ardant]] au grand public en faisant d'elle une star du [[cinéma français]] aux côtés de [[Gérard Depardieu]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film réalisé par [[François Truffaut]] en 1983, [[Fanny Ardant]] incarne-t-elle le personnage principal féminin aux prises avec un amour compliqué ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel prix prestigieux [[Fanny Ardant]] a-t-elle reçu en 1997 pour l'ensemble de sa carrière contribuant au monde du [[cinéma]] lors du [[Festival du film de Locarno]] ? <!-- cm003 remplacée 2026-11-23 -->

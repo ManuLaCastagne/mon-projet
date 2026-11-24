@@ -29,12 +29,20 @@ culture_g_justification: "Lieu fictif très associé à la série de films Campi
 
 ###### Questions
 
-Dans quel film de [[Fabien Onteniente]], sorti en 2006, retrouve-t-on le célèbre [[Camping des Flots bleus]] ?
+Comment s'appelle l'établissement de la côte atlantique où [[Patrick Chirac]] passe chaque été ses vacances dans la comédie de [[Fabien Onteniente]] sortie en 2006 ?
 
-Quel lieu de tournage est devenu iconique grâce au personnage de [[Patrick Chirac]], interprété par [[Franck Dubosc]], dans une comédie de 2006 ?
+Quel lieu de vacances fictif des films de [[Franck Dubosc]] a été tourné à Pyla-sur-Mer, au pied de la dune du Pilat ?
 
-Dans quel cadre se déroule l'intrigue principale du film dans lequel [[Gérard Lanvin]] rejoint la bande de campeurs dans la suite sortie en 2010 ?
+Où Jean-Pierre Savelli, joué par [[Richard Anconina]], passe-t-il ses vacances dans la suite sortie en 2010 ?
 
 ###### Description
 
 Le **Camping des Flots Bleus** est un lieu emblématique du film français "Camping", sorti en 2006. Réalisé par [[Fabien Onteniente]], ce film met en scène les aventures humoristiques des campeurs, avec en tête d'affiche [[Franck Dubosc]] dans le rôle inoubliable de [[Patrick Chirac]]. Situé sur la côte atlantique, le camping est devenu célèbre grâce à son ambiance conviviale et les nombreux clins d'œil à la culture populaire française. Ce film a connu un tel succès qu'il a donné lieu à plusieurs suites, dont "Camping 2" en 2010 et "Camping 3" en 2016.
+
+###### Archives questions
+
+Dans quel film de [[Fabien Onteniente]], sorti en 2006, retrouve-t-on le célèbre [[Camping des Flots bleus]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu de tournage est devenu iconique grâce au personnage de [[Patrick Chirac]], interprété par [[Franck Dubosc]], dans une comédie de 2006 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel cadre se déroule l'intrigue principale du film dans lequel [[Gérard Lanvin]] rejoint la bande de campeurs dans la suite sortie en 2010 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,12 +29,20 @@ culture_g_justification: "Actrice mondialement identifiée à Emmanuelle, sujet 
 
 ###### Questions
 
-Dans quel film érotique de 1974 l'actrice [[Sylvia Kristel]] a-t-elle acquis une renommée internationale en jouant le rôle principal ?
+Quelle actrice néerlandaise devient une star internationale en 1974 avec le rôle-titre d'« [[Emmanuelle]] » de [[Just Jaeckin]] ?
 
-En quelle année [[Sylvia Kristel]] a-t-elle remporté le titre de [[Miss TV Europe]], ce qui a contribué à lancer sa carrière dans le cinéma ?
+Quelle actrice néerlandaise est élue Miss TV Europe en 1973, avant d'être révélée au cinéma ?
 
-Quel roman sensuel de [[Gabriel García Márquez]] publié en 1985 a été adapté en film en 2007 avec [[Sylvia Kristel]] parmi le casting ?
+Quelle actrice tient le rôle-titre de « [[Mata Hari]] » réalisé par [[Curtis Harrington]] en 1985 ?
 
 ###### Description
 
 [[Sylvia Kristel]] est une actrice néerlandaise principalement connue pour son rôle dans le film "[[Emmanuelle]]", sorti en 1974, qui devient un succès international et marque le début d'une série prolifique. Née à [[Utrecht]] en 1952, Sylvia Kristel entame sa carrière cinématographique avec le film "[[Frank en Eva]]" en 1973, avant de rencontrer une reconnaissance mondiale grâce à "Emmanuelle". Au cours de sa carrière, elle a travaillé avec des réalisateurs renommés, notamment [[Roger Vadim]] et [[Claude Chabrol]], élargissant sa filmographie au-delà des films érotiques. En dehors du cinéma, Sylvia Kristel était aussi une artiste accomplie, s'adonnant à la peinture jusqu'à son décès en 2012.
+
+###### Archives questions
+
+Dans quel film érotique de 1974 l'actrice [[Sylvia Kristel]] a-t-elle acquis une renommée internationale en jouant le rôle principal ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Sylvia Kristel]] a-t-elle remporté le titre de [[Miss TV Europe]], ce qui a contribué à lancer sa carrière dans le cinéma ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel roman sensuel de [[Gabriel García Márquez]] publié en 1985 a été adapté en film en 2007 avec [[Sylvia Kristel]] parmi le casting ? <!-- cm003 remplacée 2026-11-23 -->

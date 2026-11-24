@@ -29,12 +29,18 @@ culture_g_justification: "Personnage récurrent et facilement questionnable de l
 
 ###### Questions
 
-Dans quel film sorti en 1952, le personnage de [[Peppone]] est-il le maire d'une petite ville italienne, affrontant souvent [[Don Camillo]] ?
+Quel maire communiste, né de la plume de [[Giovannino Guareschi]], est l'ami-ennemi du curé [[Don Camillo]] ?
 
 Quel personnage interprété par [[Gino Cervi]] est le rival politique et néanmoins ami du prêtre [[Don Camillo]] dans une célèbre série de films italiens des années [[1950 et 1960]] ?
 
-Dans l'adaptation cinématographique de [[Le Petit Monde de Don Camillo]] réalisée en 1952, comment se nomme le personnage incarné par [[Gino Cervi]], qui s'oppose souvent à [[Fernandel]] ?
+Dans « [[Le Petit Monde de Don Camillo]] » (1952) de [[Julien Duvivier]], quel maire s'oppose au curé joué par [[Fernandel]] ?
 
 ###### Description
 
 [[Peppone]], personnage emblématique du cinéma italien, est principalement connu grâce aux films basés sur les histoires de [[Giovannino Guareschi]], auteur des récits mettant en scène la rivalité entre Peppone et [[Don Camillo]]. [[Gino Cervi]] incarne ce charismatique maire communiste dès leur première adaptation cinématographique, "[[Le Petit Monde de Don Camillo]]", sortie en 1952. Sa prestation face à [[Fernandel]], qui joue Don Camillo, a conquis le public et a été suivie de plusieurs suites, consolidant cet antagonisme amical et mémorable dans des films tels que "[[Don Camillo en Russie]]" en 1965. Ce duo est devenu une référence incontournable, illustrant avec humour et humanité la confrontation entre idéologies différentes dans l'Italie d'après-guerre.
+
+###### Archives questions
+
+Dans quel film sorti en 1952, le personnage de [[Peppone]] est-il le maire d'une petite ville italienne, affrontant souvent [[Don Camillo]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans l'adaptation cinématographique de [[Le Petit Monde de Don Camillo]] réalisée en 1952, comment se nomme le personnage incarné par [[Gino Cervi]], qui s'oppose souvent à [[Fernandel]] ? <!-- cm003 remplacée 2026-11-23 -->

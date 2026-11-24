@@ -27,11 +27,11 @@ culture_g_justification: "Actrice américaine très connue grâce à Scarface, B
 
 ###### Questions
 
-Dans quel film de 1983, [[Michelle Pfeiffer]] joue-t-elle aux côtés d'[[Al Pacino]] dans le rôle d'[[Elvira Hancock]] ?
+Quelle actrice joue Elvira Hancock, l'épouse de Tony Montana, dans [[Scarface]] de [[Brian De Palma]] (1983) ?
 
-Quel rôle emblématique de [[Selina Kyle]] / [[Catwoman]] a été interprété par [[Michelle Pfeiffer]] dans le film [[Batman Returns]] en 1992 ?
+Quelle actrice incarne Catwoman dans [[Batman : Le Défi]] de [[Tim Burton]] (1992) ?
 
-Dans quelle adaptation cinématographique de [[The Witches of Eastwick]] de 1987, [[Michelle Pfeiffer]] partage-t-elle l'affiche avec [[Jack Nicholson]], [[Cher]] et [[Susan Sarandon]] ?
+Quelle actrice forme avec [[Cher]] et [[Susan Sarandon]] le trio de sorcières séduites par [[Jack Nicholson]] dans [[Les Sorcières d'Eastwick]] (1987) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Elle a été nommée trois fois aux [[Oscars]], notamment pour son rôle dans "[
 Fait peu connu, [[Michelle Pfeiffer]] a interprété toutes ses chansons elle-même dans le film musical "[[Susie et les Baker Boys]]" de 1989, ce qui lui a valu une nomination aux [[Golden Globes]]. 
 
 En 1993, elle a été couronnée "Femme la plus belle du monde" par le magazine [[People]], une reconnaissance qui souligne son mélange unique de talent et de beauté intemporelle.
+
+###### Archives questions
+
+Dans quel film de 1983, [[Michelle Pfeiffer]] joue-t-elle aux côtés d'[[Al Pacino]] dans le rôle d'[[Elvira Hancock]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle emblématique de [[Selina Kyle]] / [[Catwoman]] a été interprété par [[Michelle Pfeiffer]] dans le film [[Batman Returns]] en 1992 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle adaptation cinématographique de [[The Witches of Eastwick]] de 1987, [[Michelle Pfeiffer]] partage-t-elle l'affiche avec [[Jack Nicholson]], [[Cher]] et [[Susan Sarandon]] ? <!-- cm003 remplacée 2026-11-23 -->

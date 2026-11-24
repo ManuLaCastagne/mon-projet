@@ -29,12 +29,20 @@ culture_g_justification: "Réalisateur régulier de la comédie française, asso
 
 ###### Questions
 
-Quel réalisateur français, né en 1964 à [[Tunis]], a reçu le [[César du meilleur scénario original]] en 2019 pour son film "En liberté !" ?
+Quel réalisateur né en Tunisie en 1964 signe la comédie « [[En liberté !]] » (2018) avec [[Adèle Haenel]] et [[Pio Marmaï]] ?
 
-Quel film sorti en 2006, signé [[Pierre Salvadori]], met en scène un convalescent qui découvre que sa voisine loue son appartement à un escort boy ?
+Quel réalisateur réunit [[Audrey Tautou]] et [[Gad Elmaleh]] dans la comédie « [[Hors de prix]] » (2006) ?
 
-Quel réalisateur a collaboré avec [[Guillaume Depardieu]] et [[Marie Trintignant]] pour le film "Cible émouvante" sorti en 1993 ?
+Quel réalisateur signe en 1993 son premier long métrage, « [[Cible émouvante]] », avec [[Jean Rochefort]] en tueur à gages ?
 
 ###### Description
 
 [[Pierre Salvadori]] est un réalisateur et scénariste français reconnu pour son approche unique de la comédie. Il a fait ses débuts dans le cinéma avec le film [[Cible émouvante]], sorti en 1993, qui a tout de suite attiré l'attention du public et de la critique. En 2006, il a rencontré un nouveau succès avec [[Hors de prix]], une comédie romantique mettant en vedette l'actrice [[Audrey Tautou]]. Plus récemment, en 2018, son film [[En liberté !]] a été sélectionné pour la Quinzaine des réalisateurs au Festival de Cannes, renforçant sa réputation de maître de la comédie contemporaine.
+
+###### Archives questions
+
+Quel film sorti en 2006, signé [[Pierre Salvadori]], met en scène un convalescent qui découvre que sa voisine loue son appartement à un escort boy ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel réalisateur français, né en 1964 à [[Tunis]], a reçu le [[César du meilleur scénario original]] en 2019 pour son film "En liberté !" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel réalisateur a collaboré avec [[Guillaume Depardieu]] et [[Marie Trintignant]] pour le film "Cible émouvante" sorti en 1993 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -27,11 +27,11 @@ culture_g_justification: "Acteur français contemporain en vue, utile pour quelq
 
 ###### Questions
 
-Dans quel film de [[Cédric Klapisch]], sorti en 2019, [[François Civil]] joue-t-il le rôle principal aux côtés d'[[Ana Girardot]] ? 
+Quel acteur partage l'affiche de [[Deux moi]] de [[Cédric Klapisch]] (2019) avec [[Ana Girardot]] ?
 
-Quel acteur français, né en 1990, interprète le personnage de Raphaël dans la série télévisée à succès [[Dix pour cent]] ?
+Quel acteur joue Chanteraide, « oreille d'or » d'un sous-marin, dans [[Le Chant du loup]] (2019) ?
 
-Dans quel court métrage primé, réalisé par [[Camille Fontenier]] en 2015, [[François Civil]] a-t-il joué un rôle marquant intitulé « [[Take Me]] » ?
+Quel acteur incarne d'Artagnan dans [[Les Trois Mousquetaires : D'Artagnan]] de [[Martin Bourboulon]] (2023) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Il a débuté sa carrière cinématographique en 2005 et s'est fait connaître g
 Un fait étonnant sur François Civil est qu'il a commencé très jeune, à 14 ans, par accident, en obtenant son premier rôle dans le film "[[Le Cactus]]" grâce à son professeur de théâtre qui l'avait inscrit à l'audition sans qu'il le sache. 
 
 En 2021, il a reçu le [[César]] du meilleur espoir masculin, solidifiant ainsi sa carrière prometteuse dans le cinéma français.
+
+###### Archives questions
+
+Dans quel film de [[Cédric Klapisch]], sorti en 2019, [[François Civil]] joue-t-il le rôle principal aux côtés d'[[Ana Girardot]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel court métrage primé, réalisé par [[Camille Fontenier]] en 2015, [[François Civil]] a-t-il joué un rôle marquant intitulé « [[Take Me]] » ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur français, né en 1990, interprète le personnage de Raphaël dans la série télévisée à succès [[Dix pour cent]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -32,7 +32,7 @@ culture_g_justification: "Film fondé sur le célèbre Miracle sur l’Hudson, u
 
 Dans quel film de [[Clint Eastwood]], sorti en 2016, l'acteur [[Tom Hanks]] incarne-t-il le pilote [[Chesley Sullenberger]], connu pour l'atterrissage d'urgence réussi sur le [[Hudson River]] ?
 
-Quel événement aérien, survenu en 2009, est au cœur du film intitulé [[Sully]], mettant en avant une manœuvre de sauvetage spectaculaire à New York ?
+Dans quel film de 2016 [[Aaron Eckhart]] joue-t-il le copilote Jeff Skiles, face à [[Tom Hanks]] ?
 
 Quel long métrage de [[Warner Bros. Pictures]] retrace l'incident surnommé le "Miracle sur l'Hudson" impliquant le vol [[US Airways]] 1549 et réalisé par [[Clint Eastwood]] ?
 
@@ -45,3 +45,7 @@ Il a été inauguré par [[Marcel Carné]], un réalisateur phare de l'époque, 
 En 1978, le cinéma a subi une rénovation majeure dirigée par l'architecte renommé [[Jean Nouvel]], qui a modernisé ses installations tout en conservant la magie du lieu.  
 
 Chaque année, le [[Cinéma]] accueille le célèbre [[Festival du Film de Paris]], attirant des réalisateurs et acteurs de renom du monde entier, faisant de cette institution un pilier de la culture parisienne.
+
+###### Archives questions
+
+Quel événement aérien, survenu en 2009, est au cœur du film intitulé [[Sully]], mettant en avant une manœuvre de sauvetage spectaculaire à New York ? <!-- cm003 remplacée 2026-11-23 -->

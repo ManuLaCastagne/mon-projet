@@ -29,11 +29,11 @@ culture_g_justification: "Actrice médiatisée par sa filiation et quelques film
 
 ###### Questions
 
-Dans quel film de [[Yann Gonzalez]] sorti en 2018, [[Lily-Rose Depp]] a-t-elle interprété le rôle de [[Isadora Duncan]] ?
+Quelle actrice incarne [[Isadora Duncan]] dans « [[La Danseuse]] » de Stéphanie Di Giusto (2016) ?
 
-Quelle actrice est apparue sur la couverture du [[Vogue Teen Magazine]] pour la première fois à l'âge de 15 ans en 2014 ?
+Quelle actrice incarne Ellen Hutter dans « [[Nosferatu]] » de [[Robert Eggers]] (2024) ?
 
-Quel membre de la famille de [[Lily-Rose Depp]] a réalisé le film [[Yoga Hosers]], sorti en 2016, dans lequel elle joue le rôle principal ?
+Quelle actrice, née en 1999, est la fille de [[Vanessa Paradis]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Quel membre de la famille de [[Lily-Rose Depp]] a réalisé le film [[Yoga Hoser
 Elle a fait ses débuts sur grand écran en 2014 dans le film "Tusk", réalisé par [[Kevin Smith]]. En 2016, [[Lily-Rose Depp]] a été nominée pour le César du meilleur espoir féminin pour sa performance dans "La Danseuse", où elle a joué aux côtés de [[Soko]]. 
 
 Fille de l'acteur [[Johnny Depp]] et de la chanteuse [[Vanessa Paradis]], elle continue de bâtir sa propre carrière avec des choix de rôles éclectiques et ambitieux.
+
+###### Archives questions
+
+Dans quel film de [[Yann Gonzalez]] sorti en 2018, [[Lily-Rose Depp]] a-t-elle interprété le rôle de [[Isadora Duncan]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel membre de la famille de [[Lily-Rose Depp]] a réalisé le film [[Yoga Hosers]], sorti en 2016, dans lequel elle joue le rôle principal ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice est apparue sur la couverture du [[Vogue Teen Magazine]] pour la première fois à l'âge de 15 ans en 2014 ? <!-- cm003 remplacée 2026-11-23 -->
