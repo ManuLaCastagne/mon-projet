@@ -6,7 +6,6 @@ superficie: 1104300
 location: 10.2116702,38.6521203
 tags:
   - Géographie
-  - Éthiopie
 tags_archives_cm003:
   - '|_Éthiopie'
   - '|'

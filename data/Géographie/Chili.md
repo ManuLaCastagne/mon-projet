@@ -10,8 +10,7 @@ tags:
   - Chili
   - Département_de_Chili
 tags_archives_cm003:
-  - 'La_région_de_Chili_n''existe_pas,_il_semblerait_qu''il_y_ait_une_confusion_entre_le_pays_entier_et_ses_subdivisions._Pour_la_précision_demandée_:
-Région_de_Chili'
+  - "La_région_de_Chili_n'existe_pas,_il_semblerait_qu'il_y_ait_une_confusion_entre_le_pays_entier_et_ses_subdivisions._Pour_la_précision_demandée_:\nRégion_de_Chili"
 
 indice_1:
   - Andes

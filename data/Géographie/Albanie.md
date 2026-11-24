@@ -6,10 +6,8 @@ superficie: 28748
 location: 41.000028,19.9999619
 tags:
   - Géographie
-  - Albanie
 tags_archives_cm003:
-  - 'Albanie_n''est_pas_située_dans_une_région_française,_ni_un_département_français,_c''est_un_pays._Toutefois,_voici_les_informations_selon_ta_demande_:
-|_Albanie'
+  - "Albanie_n'est_pas_située_dans_une_région_française,_ni_un_département_français,_c'est_un_pays._Toutefois,_voici_les_informations_selon_ta_demande_:\n|_Albanie"
 
 indice_1 : 
   - Tirana
