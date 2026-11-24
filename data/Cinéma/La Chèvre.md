@@ -21,9 +21,10 @@ indice_5 :
 indice_6 : 
   - film français
 questions:
- - En 1981, dans quel film un détective privé fait-il équipe avec le malchanceux François Perrin afin de retrouver une jeune femme kidnappée?
 culture_g_score: 77
 culture_g_justification: "Comédie française très célèbre, rentable grâce au duo Richard-Depardieu, à Francis Veber et à son intrigue de malchance."
+questions_tv_archivees:
+  - En 1981, dans quel film un détective privé fait-il équipe avec le malchanceux François Perrin afin de retrouver une jeune femme kidnappée?
 ---
 ![Image de La Chèvre](https://upload.wikimedia.org/wikipedia/commons/3/3e/Arr%C3%AAt_La_Ch%C3%A8vre_vers_Terrasse.jpg)
 
@@ -34,6 +35,8 @@ Dans quel film de [[Francis Veber]] sorti en 1981 retrouve-t-on le duo célèbre
 Quel long-métrage français de 1981 raconte l'histoire de [[François Perrin]], un homme dont la malchance chronique doit être exploitée pour localiser une jeune femme disparue ? <!-- score: 4 -->
 
 Dans quel film de 1981 le personnage principal joué par [[Pierre Richard]] est-il accompagné par [[Campana]], un détective interprété par [[Gérard Depardieu]], pour résoudre une affaire improbable ? <!-- score: 4 -->
+
+Dans quelle comédie de [[Francis Veber]] (1981), le détective Campana part-il au Mexique avec François Perrin, comptable d'une malchance légendaire, pour retrouver une jeune femme disparue ? <!-- source: tv -->
 
 ###### Description
 

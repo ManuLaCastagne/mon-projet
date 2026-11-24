@@ -23,11 +23,13 @@ indice_5 :
 indice_6 : 
   - Pampa
 questions:
- - Quel état d'Amérique du Sud est bordé par l'Atlantique au nord de Punta de l'Este qui marque la limite avec le Rio de la Plata ?
 culture_g_score: 80
 culture_g_justification: "L’Uruguay est un pays sud-américain régulièrement interrogé pour le football, sa capitale, son histoire politique et sa géographie régionale."
+questions_tv_archivees:
+  - Quel état d'Amérique du Sud est bordé par l'Atlantique au nord de Punta de l'Este qui marque la limite avec le Rio de la Plata ?
 ---
-![Image de Uruguay](https://upload.wikimedia.org/wikipedia/commons/3/3f/Venado-Campo-UY-Ozotoceros_bezoarticus.jpg)
+![Image de Uruguay](https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Uruguay.svg)
+<!-- image remplacée (cm020) : https://upload.wikimedia.org/wikipedia/commons/3/3f/Venado-Campo-UY-Ozotoceros_bezoarticus.jpg -->
 
 ![[Carte_Uruguay.png]]
 ###### Questions
