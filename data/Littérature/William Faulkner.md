@@ -21,7 +21,7 @@ indice_5 :
 indice_6 : 
   - style narratif complexe
 questions:
- - "Ne vous souciez pas d'être meilleur que vos contemporains ou vos prédécesseurs. Essayez d'être meilleur que vous-même." A quel écrivain américain du XXe siècle, originaire du Sud des Etats-Unis...
+ - '"Ne vous souciez pas d''être meilleur que vos contemporains ou vos prédécesseurs. Essayez d''être meilleur que vous-même." A quel écrivain américain du XXe siècle, originaire du Sud des Etats-Unis...'
 culture_g_score: 72
 culture_g_justification: "Grand romancier américain et prix Nobel, utile pour plusieurs questions sur le Sud des États-Unis et la littérature moderniste."
 ---

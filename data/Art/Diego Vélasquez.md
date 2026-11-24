@@ -14,7 +14,7 @@ indice_1:
 indice_2:
   - peintre de la cour d'Espagne
 indice_3:
-  - [[baroque]] espagnol
+  - '[[baroque]] espagnol'
 indice_4:
   - roi Philippe IV
 indice_5:
