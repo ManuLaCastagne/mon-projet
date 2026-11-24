@@ -26,13 +26,13 @@ culture_g_justification: "Mer incontournable reliant Afrique et Arabie, associé
 ![[Carte_Mer Rouge.png]]
 ###### Questions
 
-Quelle mer du Proche-Orient, séparant les côtes africaines de celles d'Arabie, devrait son nom, de selon certaines théories, aux algues qui la colorent ?
+Quelle mer, entre l'Afrique et la péninsule Arabique, devrait selon une hypothèse son nom à une algue qui la colore parfois ?
 
-Quel est le plan d'eau dans lequel en 1972 le [[ferry Egée I]] a sombré, marquant l'un des pires accidents maritimes de l'histoire de la [[Mer Rouge]] ?
+Dans quelle mer le ferry égyptien [[Al-Salam Boccaccio 98]] a-t-il sombré en février 2006, faisant plus de mille victimes ?
 
-Quel est le nom de la mer traversée par [[Moïse]] selon la tradition, lors de la fuite des [[Hébreux]] d'Égypte, événement qui est souvent discuté dans les débats historiques et archéologiques ?
+Selon la tradition biblique, quelle mer [[Moïse]] fait-il traverser aux [[Hébreux]] fuyant l'Égypte ?
 
-Quel est le plan d'eau qui, selon l'[[histoire de l'humanité]], a été le passage critique pour de nombreux [[jours de commerce historique]] entre [[l'Europe]] et l'[[Asie]] par le biais du [[canal de Suez]] depuis son ouverture en 1869 ?
+Quelle mer le [[canal de Suez]], inauguré en 1869, relie-t-il à la [[mer Méditerranée]] ?
 
 ###### Description
 
@@ -43,3 +43,13 @@ Avec des températures pouvant atteindre jusqu'à 30°C, elle est l'une des mers
 Un fait peu connu est que la [[Mer Rouge]] possède la source de sueurs des océans la plus salée au monde, connue sous le nom de [[Hot Brine Pool]], qui a une salinité de plus de 270 grammes par litre, bien plus élevée que la moyenne des océans qui est de 35 grammes par litre.
 
 Ces caractéristiques exceptionnelles contribuent à faire de la [[Mer Rouge]] un lieu prisé pour la plongée sous-marine et elle offre une visibilité exceptionnelle, souvent supérieure à 30 mètres sous l'eau.
+
+###### Archives questions
+
+Quel est le plan d'eau dans lequel en 1972 le [[ferry Egée I]] a sombré, marquant l'un des pires accidents maritimes de l'histoire de la [[Mer Rouge]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le plan d'eau qui, selon l'[[histoire de l'humanité]], a été le passage critique pour de nombreux [[jours de commerce historique]] entre [[l'Europe]] et l'[[Asie]] par le biais du [[canal de Suez]] depuis son ouverture en 1869 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle mer du Proche-Orient, séparant les côtes africaines de celles d'Arabie, devrait son nom, de selon certaines théories, aux algues qui la colorent ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la mer traversée par [[Moïse]] selon la tradition, lors de la fuite des [[Hébreux]] d'Égypte, événement qui est souvent discuté dans les débats historiques et archéologiques ? <!-- cm003 remplacée 2026-11-23 -->

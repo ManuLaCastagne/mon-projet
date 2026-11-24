@@ -25,13 +25,9 @@ culture_g_justification: "Comédie dramatique française récente et peu marquan
 ---
 ###### Questions
 
-En 2019, dans quel film d'Yvan Attal, adapté d'un roman de John Fante, un énorme chien fait-il irruption dans la vie du héros?
-
 Quel film réalisé par [[Yvan Attal]] en 2019 est l'adaptation d'un roman de [[John Fante]] publié en 1985 ?
 
-Dans quel long métrage [[Charlotte Gainsbourg]] et [[Yvan Attal]] forment-ils un couple faisant face à une crise existentielle après l'arrivée d'un chien perturbateur ? <!-- score: 4 -->
-
-De quel film sorti en 2019 l'expression "Mon chien Stupide" est-elle le titre, montrant les tribulations d'une famille bouleversée par l'arrivée d'un animal inattendu ?
+Dans quel film [[Yvan Attal]] et [[Charlotte Gainsbourg]] jouent-ils Henri et Cécile Mohen, couple bousculé par un énorme chien ?
 
 ###### Description
 
@@ -42,3 +38,11 @@ Adapté du roman éponyme de [[John Fante]] publié en 1985, le film met en scè
 Située dans un contexte familial complexe, l'intrigue se déroule dans la région de [[Biarritz]], offrant ainsi un cadre habituellement apprécié pour sa beauté, mais ici, porteur de tensions. 
 
 Ce film explore avec humour et tendresse les difficultés des relations familiales contemporaines, tout en offrant une performance remarquable de [[Charlotte Gainsbourg]], dont le rôle a été particulièrement salué.
+
+###### Archives questions
+
+De quel film sorti en 2019 l'expression "Mon chien Stupide" est-elle le titre, montrant les tribulations d'une famille bouleversée par l'arrivée d'un animal inattendu ? <!-- cm003 archivée 2026-11-23 -->
+
+En 2019, dans quel film d'Yvan Attal, adapté d'un roman de John Fante, un énorme chien fait-il irruption dans la vie du héros? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel long métrage [[Charlotte Gainsbourg]] et [[Yvan Attal]] forment-ils un couple faisant face à une crise existentielle après l'arrivée d'un chien perturbateur ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

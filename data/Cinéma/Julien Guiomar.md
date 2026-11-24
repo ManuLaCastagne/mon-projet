@@ -29,11 +29,11 @@ culture_g_justification: "Julien Guiomar est un second rôle apprécié du ciné
 
 ###### Questions
 
-Dans quel film de [[Jean Yanne]] sorti en 1972 [[Julien Guiomar]] incarne-t-il un personnage appelé [[Rostini]] ?
+Quel acteur joue le commissaire Bloret dans « [[Les Ripoux]] » de [[Claude Zidi]] (1984) ?
 
-Dans quel long-métrage de 1969 réalisé par [[Claude Chabrol]] [[Julien Guiomar]] joue-t-il le rôle d'un commissaire nommé [[Paul Letellier]] ?
+Quel acteur incarne l'abbé La Margelle dans « [[Le Voleur]] » de [[Louis Malle]] (1967) ?
 
-Dans quelle comédie de 1982 mettant en scène [[Louis de Funès]] et [[Michel Galabru]] [[Julien Guiomar]] interprète-t-il le rôle d'un mafieux nommé [[Guido]] ?
+Quel acteur joue le colonel dans « [[Z (film)]] » de [[Costa-Gavras]] (1969) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Dans quelle comédie de 1982 mettant en scène [[Louis de Funès]] et [[Michel G
 Il est particulièrement connu pour ses rôles dans des films tels que [[Z]], réalisé par [[Costa-Gavras]] en 1969, où il joue le général de gendarmerie, un personnage clé de l'intrigue. 
 
 En 1978, il incarne le personnage truculent du maire corrompu dans le film culte [[Les Bronzés]], réalisé par [[Patrice Leconte]]. Aux côtés d'acteurs de renom tels que [[Jean Rochefort]] et [[Philippe Noiret]], Julien Guiomar a su s'imposer comme une figure incontournable du cinéma français de cette époque.
+
+###### Archives questions
+
+Dans quel film de [[Jean Yanne]] sorti en 1972 [[Julien Guiomar]] incarne-t-il un personnage appelé [[Rostini]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel long-métrage de 1969 réalisé par [[Claude Chabrol]] [[Julien Guiomar]] joue-t-il le rôle d'un commissaire nommé [[Paul Letellier]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle comédie de 1982 mettant en scène [[Louis de Funès]] et [[Michel Galabru]] [[Julien Guiomar]] interprète-t-il le rôle d'un mafieux nommé [[Guido]] ? <!-- cm003 remplacée 2026-11-23 -->

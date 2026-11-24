@@ -29,12 +29,18 @@ culture_g_justification: "Titre musical ou filmique ambigu mais peu connu, donna
 
 ###### Questions
 
-Dans quel film de 1997, réalisé par [[Luc Besson]], peut-on entendre le morceau "Libera Me" pendant une scène mémorable ?
+Quel film d'[[Alain Cavalier]] (1993) montre un réseau de résistants face à la torture sous un régime répressif ?
 
-Quel extrait musical intitulé "Libera Me" a été spécialement composé pour accompagner la scène finale du film d'animation [[Jin-Roh: The Wolf Brigade]] sorti en 1999 ?
-
-Dans la bande originale de quel film de [[Danny Boyle]], sorti en 2007 et traitant d'une mission spatiale vers le soleil, retrouve-t-on une composition intitulée "Libera Me" ?
+Quel répons de la messe des morts, chanté lors de l'absoute, forme l'avant-dernier mouvement du Requiem de [[Gabriel Fauré]] ?
 
 ###### Description
 
 Le film [[Libera Me]], réalisé par [[Alain Cavalier]] en 1993, explore les tourments d'un homme en quête de rédemption après avoir commis un acte irréparable. C'est une œuvre marquante du cinéma français qui met en avant les compétences de [[Claude Sautet]] au scénario, un réalisateur et scénariste influent des années 1960 à 1990. La performance poignante de [[Daniel Duval]] dans le rôle principal est souvent saluée pour la profondeur et l'authenticité qu'il apporte à son personnage. Le film a été projeté pour la première fois lors du Festival de Cannes en [[mai 1994]], où il a reçu une standing ovation, soulignant son impact significatif sur le public de l'époque.
+
+###### Archives questions
+
+Dans quel film de 1997, réalisé par [[Luc Besson]], peut-on entendre le morceau "Libera Me" pendant une scène mémorable ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel extrait musical intitulé "Libera Me" a été spécialement composé pour accompagner la scène finale du film d'animation [[Jin-Roh: The Wolf Brigade]] sorti en 1999 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans la bande originale de quel film de [[Danny Boyle]], sorti en 2007 et traitant d'une mission spatiale vers le soleil, retrouve-t-on une composition intitulée "Libera Me" ? <!-- cm003 archivée 2026-11-23 -->

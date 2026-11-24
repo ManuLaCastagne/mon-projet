@@ -27,11 +27,11 @@ culture_g_justification: "Acteur franco-canadien remarqué dans le cinéma québ
 
 ###### Questions
 
-Dans quel film de [[Xavier Dolan]], sorti en 2009, [[Niels Schneider]] joue-t-il le rôle de [[Nicolas Fukushima]] ?
+Quel acteur joue Nicolas, objet du désir de Francis et Marie, dans « [[Les Amours imaginaires]] » (2010) de [[Xavier Dolan]] ?
 
-Qui a remporté le prix du meilleur espoir masculin pour son rôle dans le film [[Diamant Noir]] en 2017 ?
+Quel acteur a reçu en 2017 le [[César du meilleur espoir masculin]] pour « [[Diamant noir]] » ?
 
-Quel acteur franco-canadien a interprété le personnage principal dans la série française [[Or de lui]] diffusée en 2021 ?
+Quel acteur incarne le reporter de guerre [[Paul Marchand]] dans « [[Sympathie pour le diable]] » (2019) ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Bien que moins connu, en 2009, Schneider a remporté le prix [[Étoiles d'Or]] d
 Il est le fils du regretté comédien [[Jean-Paul Schneider]] et a trois frères, dont [[Johnny Schneider]], également acteur.  
 
 Un fait étonnant et peu connu est qu'il a aussi été sélectionné par la NASA en 2005 lors d'un concours de science-fiction visant à envoyer un message artistique imaginatif aux futures colonies lunaires, soulignant son intérêt pour la science et l'espace.
+
+###### Archives questions
+
+Dans quel film de [[Xavier Dolan]], sorti en 2009, [[Niels Schneider]] joue-t-il le rôle de [[Nicolas Fukushima]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a remporté le prix du meilleur espoir masculin pour son rôle dans le film [[Diamant Noir]] en 2017 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur franco-canadien a interprété le personnage principal dans la série française [[Or de lui]] diffusée en 2021 ? <!-- cm003 remplacée 2026-11-23 -->

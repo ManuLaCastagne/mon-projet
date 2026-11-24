@@ -28,12 +28,20 @@ culture_g_justification: "Biopic assez secondaire sur Beatrix Potter, dont l’i
 
 ###### Questions
 
-Quel auteur, célèbre pour ses contes pour enfants publiés au début du XXème siècle, a inspiré un film biographique en 2006 réalisé par [[Chris Noonan]]?
+Dans quel biopic de 2006 [[Emily Watson]] joue-t-elle Millie Warne, amie de l'autrice jouée par [[Renée Zellweger]] ?
 
-Quel film sorti en 2006 raconte la vie et l'œuvre de l'auteur britannique [[Miss Potter]], célèbre pour "The Tale of [[Peter Rabbit]]"?
+Quel film de 2006 retrace la vie de l'autrice britannique qui a créé [[Pierre Lapin]] ?
 
-Quel est le lien entre l'auteur de livres pour enfants [[Miss Potter]] et le film "Miss Potter" mettant en scène [[Renée Zellweger]]?
+Dans quel film de [[Chris Noonan]] [[Ewan McGregor]] joue-t-il Norman Warne, l'éditeur dont s'éprend l'héroïne ?
 
 ###### Description
 
 [[Beatrix Potter]], célèbre autrice et illustratrice britannique, a vu ses œuvres adaptées au cinéma pour la première fois avec le film [[Miss Potter]] en 2006, qui explore sa vie et sa passion pour l'écriture. Son personnage le plus emblématique, [[Pierre Lapin]], a été porté à l'écran dans [[Peter Rabbit]] en 2018, mélangeant animation et prises de vues réelles, avec le doublage de [[James Corden]] dans le rôle-titre. Une suite intitulée [[Pierre Lapin 2]] a été réalisée en 2021, poursuivant les aventures de ce lapin espiègle dans un monde moderne. Ces adaptations montrent comment l'héritage de Beatrix Potter continue d'influencer le cinéma familial au XXIe siècle.
+
+###### Archives questions
+
+Quel film sorti en 2006 raconte la vie et l'œuvre de l'auteur britannique [[Miss Potter]], célèbre pour "The Tale of [[Peter Rabbit]]"? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le lien entre l'auteur de livres pour enfants [[Miss Potter]] et le film "Miss Potter" mettant en scène [[Renée Zellweger]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel auteur, célèbre pour ses contes pour enfants publiés au début du XXème siècle, a inspiré un film biographique en 2006 réalisé par [[Chris Noonan]]? <!-- cm003 remplacée 2026-11-23 -->

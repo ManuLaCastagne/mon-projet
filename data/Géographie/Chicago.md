@@ -32,11 +32,11 @@ culture_g_justification: "Métropole mondiale extrêmement rentable, liée à l�
 ![[Carte_Chicago.png]]
 ###### Questions
 
-Quelle ville a vu l'inauguration de la première grande roue du monde lors de l'[[Exposition universelle]] de 1893 ?
+Dans quelle ville [[George Ferris]] présente-t-il la première grande roue lors de l'[[Exposition universelle de 1893]] ?
 
 Dans quelle ville le premier gratte-ciel, un édifice de dix étages et 42 mètres de haut, a-t-il été construit en 1885 ?
 
-Quelle ville est traversée par la [[rivière Chicago]], célèbre pour son inversion du flux des eaux en 1900 ?
+Quelle ville américaine a inversé en 1900 le cours de sa rivière pour protéger le [[lac Michigan]] de ses eaux usées ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Fondée officiellement en 1837, elle s'est rapidement développée grâce à sa 
 Un fait étonnant sur [[Chicago]] est qu'elle a inversé le sens de la rivière [[Chicago]] en 1900, un exploit d'ingénierie notable qui a permis d'éloigner les eaux sales de son approvisionnement en eau potable.  
 
 La ville est également célèbre pour sa skyline spectaculaire, comportant des structures telles que la [[Sears Tower]] (aujourd'hui connue sous le nom de [[Willis Tower]]) qui fut le plus haut bâtiment du monde de 1973 à 1998.
+
+###### Archives questions
+
+Quelle ville est traversée par la [[rivière Chicago]], célèbre pour son inversion du flux des eaux en 1900 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a vu l'inauguration de la première grande roue du monde lors de l'[[Exposition universelle]] de 1893 ? <!-- cm003 remplacée 2026-11-23 -->

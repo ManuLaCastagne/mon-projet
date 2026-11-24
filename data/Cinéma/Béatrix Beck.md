@@ -27,11 +27,11 @@ culture_g_justification: "Écrivaine lauréate du Goncourt et liée à Léon Mor
 
 ###### Questions
 
-Quel roman de [[Béatrix Beck]], publié en 1952, a été adapté au cinéma en 1960 dans le film « [[Léon Morin, prêtre]] » par [[Jean-Pierre Melville]] ?
+Quelle romancière a reçu le [[prix Goncourt]] 1952 pour « [[Léon Morin, prêtre]] », adapté ensuite par [[Jean-Pierre Melville]] ?
 
-Dans quel film de [[Jacques Baratier]], sorti en 1957, [[Béatrix Beck]] a-t-elle co-signé le scénario en s’inspirant de ses écrits ?
+Quelle écrivaine fut la dernière secrétaire d'[[André Gide]] ?
 
-Dans quelle adaptation cinématographique de [[Jacques Doniol-Valcroze]], réalisée en 1962, retrouve-t-on des dialogues écrits par [[Béatrix Beck]] inspirés de son œuvre littéraire ?
+Quelle romancière, fille du poète belge [[Christian Beck]], est née en 1914 à [[Villars-sur-Ollon]] en Suisse ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Outre sa carrière littéraire, ce qui est moins connu, c’est son incursion da
 Elle a également été scénariste, un rôle moins visible que celui d'auteur, démontrant sa polyvalence et son influence sur divers aspects du monde artistique, bien que ces contributions soient souvent éclipsées par ses succès littéraires.  
 
 Un fait étonnant est qu'elle a participé au tournage de ses propres œuvres à partir d’ateliers d’écriture qu'elle animait, ce qui la plaçait à l’avant-garde de l’éducation par la création, un modèle peu répandu dans les années 1950 et 1960.
+
+###### Archives questions
+
+Quel roman de [[Béatrix Beck]], publié en 1952, a été adapté au cinéma en 1960 dans le film « [[Léon Morin, prêtre]] » par [[Jean-Pierre Melville]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Jacques Baratier]], sorti en 1957, [[Béatrix Beck]] a-t-elle co-signé le scénario en s’inspirant de ses écrits ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle adaptation cinématographique de [[Jacques Doniol-Valcroze]], réalisée en 1962, retrouve-t-on des dialogues écrits par [[Béatrix Beck]] inspirés de son œuvre littéraire ? <!-- cm003 remplacée 2026-11-23 -->

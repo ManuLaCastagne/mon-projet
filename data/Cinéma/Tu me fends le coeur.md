@@ -29,12 +29,16 @@ culture_g_justification: "Cette réplique associée à un film français précis
 
 ###### Questions
 
-Dans quel film sorti en 1977 peut-on entendre la célèbre réplique « [[Tu me fends le cœur]] » prononcée par le personnage de [[Robert]] devant [[Gérard]] et [[Christian]] dans une scène mémorable ?
-
-Quel film réalisé par [[Georges Lautner]], où [[Jean-Paul Belmondo]] joue un truand surnommé [[Pépé la Panthère]], est devenu culte grâce à la réplique « [[Tu me fends le cœur]] » prononcée au début de sa carrière cinématographique ?
-
-Dans quel film culte des années 1970, le personnage joué par [[Jean-Paul Belmondo]] répond à la phrase « [[Tu me fends le cœur]] » par « [[C’est le but]] » lors d’une scène pleine d'humour aux côtés d'[[Annie Girardot]] ?
+Dans la partie de cartes de « [[Marius (film, 1931)]] », quelle phrase César lance-t-il pour souffler à [[Escartefigue]] la couleur à jouer ?
 
 ###### Description
 
 Phrase du film "[[Marius (film)]]" par laquelle [[Raimu]] indique à son partenaire, de façon pas très discrète d'ailleurs, quelle couleur de carte jouer, je suis…
+
+###### Archives questions
+
+Dans quel film sorti en 1977 peut-on entendre la célèbre réplique « [[Tu me fends le cœur]] » prononcée par le personnage de [[Robert]] devant [[Gérard]] et [[Christian]] dans une scène mémorable ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film réalisé par [[Georges Lautner]], où [[Jean-Paul Belmondo]] joue un truand surnommé [[Pépé la Panthère]], est devenu culte grâce à la réplique « [[Tu me fends le cœur]] » prononcée au début de sa carrière cinématographique ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel film culte des années 1970, le personnage joué par [[Jean-Paul Belmondo]] répond à la phrase « [[Tu me fends le cœur]] » par « [[C’est le but]] » lors d’une scène pleine d'humour aux côtés d'[[Annie Girardot]] ? <!-- cm003 archivée 2026-11-23 -->

@@ -29,12 +29,18 @@ culture_g_justification: "Le film précis est très peu connu et ne fournit qu'u
 
 ###### Questions
 
-Dans quel film italien de 1935, réalisé par [[Carlo Ludovico Bragaglia]], découvre-t-on une intrigue burlesque se déroulant dans un hôtel où les clients profitent d'une offre de [[pension complète]] ?
+Dans quelle comédie de [[Florent-Emilio Siri]] (2015) [[Franck Dubosc]] joue-t-il un hôtelier obsédé par une étoile au [[Guide Michelin]] ?
 
-Quel est le titre français du film [[Full Board]], un classique du [[cinéma]] comique produit en [[Italie]] qui a connu un grand succès dans les années 1930 ?
-
-[[Fernandel]] a joué dans une adaptation française d'un film italien en 1938 : quel est le thème central qui se déroule autour d'un séjour en [[pension complète]] dans cet hôtel fictif ?
+Dans quel film de 2015 [[Gérard Lanvin]] joue-t-il Alex, joueur mythomane qui réapparaît après des années de disparition ?
 
 ###### Description
 
 [[Pension complète]] est un film français réalisé par [[Florent-Emilio Siri]], sorti en 2016. Le film met en scène [[Franck Dubosc]] et [[Gérard Lanvin]] dans une comédie mêlant quiproquos et situations cocasses, se déroulant dans un hôtel en bord de mer. L'histoire tourne autour de [[François]] et [[Alexandre]], deux anciens amis qui se retrouvent confrontés à des problèmes inattendus lorsque l'un d'eux prévoit de vendre l'établissement familial. [[Pension complète]] a été tourné principalement sur la Côte d'Azur, offrant ainsi des paysages pittoresques qui ajoutent au charme de cette production.
+
+###### Archives questions
+
+Dans quel film italien de 1935, réalisé par [[Carlo Ludovico Bragaglia]], découvre-t-on une intrigue burlesque se déroulant dans un hôtel où les clients profitent d'une offre de [[pension complète]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+[[Fernandel]] a joué dans une adaptation française d'un film italien en 1938 : quel est le thème central qui se déroule autour d'un séjour en [[pension complète]] dans cet hôtel fictif ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre français du film [[Full Board]], un classique du [[cinéma]] comique produit en [[Italie]] qui a connu un grand succès dans les années 1930 ? <!-- cm003 archivée 2026-11-23 -->

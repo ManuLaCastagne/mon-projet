@@ -29,12 +29,18 @@ culture_g_justification: "Film français consacré à un criminel historique con
 
 ###### Questions
 
-Quel film réalisé par [[Christian de Chalonge]] en 1990 relate l'histoire du tristement célèbre médecin et tueur en série français [[Marcel Petiot]] ?
+Quel film de [[Christian de Chalonge]] (1990) revient sur l'affaire du médecin assassin du 21 rue Le Sueur ?
 
-Quel acteur français célèbre pour son rôle dans [[Les Visiteurs]] a incarné [[Marcel Petiot]] dans le film [[Docteur Petiot]] ?
-
-Dans quel film [[Michel Serrault]] interprète-t-il le rôle d'un médecin et tueur en série basé sur une histoire vraie se déroulant pendant la [[Seconde Guerre mondiale]] ?
+Dans quel film [[Michel Serrault]] joue-t-il un médecin qui revendiqua 63 meurtres à son procès en 1946 ?
 
 ###### Description
 
 Le film "[[Docteur Petiot]]", sorti en 1990, est une réalisation marquante du cinéma français, dirigée par [[Christian de Chalonge]]. Inspiré de l'histoire vraie de [[Marcel Petiot]], un médecin français infâme pour ses crimes horribles pendant la période de l'Occupation, le film explore les sombres profondeurs de son personnage. [[Michel Serrault]] interprète avec brio le rôle de [[Petiot]], offrant une performance à la fois inquiétante et captivante, qui lui a valu des éloges critiques. Le long-métrage a été présenté en compétition lors de la [[Mostra de Venise]] la même année, soulignant son impact culturel et artistique.
+
+###### Archives questions
+
+Quel acteur français célèbre pour son rôle dans [[Les Visiteurs]] a incarné [[Marcel Petiot]] dans le film [[Docteur Petiot]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel film réalisé par [[Christian de Chalonge]] en 1990 relate l'histoire du tristement célèbre médecin et tueur en série français [[Marcel Petiot]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film [[Michel Serrault]] interprète-t-il le rôle d'un médecin et tueur en série basé sur une histoire vraie se déroulant pendant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->

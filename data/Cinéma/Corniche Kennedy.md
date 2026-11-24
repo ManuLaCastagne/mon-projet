@@ -29,9 +29,9 @@ culture_g_justification: "Film français contemporain apprécié mais relativeme
 
 ###### Questions
 
-Quel film, réalisé par [[Dominique Cabrera]] en 2016, est une adaptation du roman éponyme de [[Maylis de Kerangal]] publié en 2008 ?
+Quel film de [[Dominique Cabrera]] adapte le roman homonyme de [[Maylis de Kerangal]] paru en 2008 ?
 
-Quel long métrage propose une plongée dans l'adolescence marseillaise où un groupe de jeunes se retrouve sur les falaises pour défier la gravité, et qui a été filmé dans le quartier de [[Corniche Kennedy]] à [[Marseille]] ?
+Dans quel film de [[Dominique Cabrera]] [[Lola Créton]] joue-t-elle Suzanne, lycéenne fascinée par les plongeurs de [[Marseille]] ?
 
 Quel film de 2016, présenté en ouverture du [[FIDMarseille]], suit des adolescents marseillais qui plongent dans la mer du haut des rochers ?
 
@@ -48,3 +48,7 @@ Le film est basé sur un roman écrit par [[Maylis de Kerangal]], publié initia
 ###### Archives questions
 
 Quel film français suit l'histoire de jeunes désœuvrés et met en vedette les acteurs [[Aïssa Maïga]] et [[Lola Creton]] lors de sa sortie en 2016 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel long métrage propose une plongée dans l'adolescence marseillaise où un groupe de jeunes se retrouve sur les falaises pour défier la gravité, et qui a été filmé dans le quartier de [[Corniche Kennedy]] à [[Marseille]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film, réalisé par [[Dominique Cabrera]] en 2016, est une adaptation du roman éponyme de [[Maylis de Kerangal]] publié en 2008 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,12 +29,18 @@ culture_g_justification: "Actrice française secondaire dont les questions porte
 
 ###### Questions
 
-Dans quel film de 1995 réalisé par [[Étienne Chatiliez]] a joué l'actrice [[Christine Citti]], célèbre pour son rôle de la professeur de lycée ?
+Quelle actrice joue Janine Léonetti dans la série policière « [[PJ (série télévisée)]] » ?
 
-Dans quel court-métrage de 1999, dirigé par [[Agnès Merlet]], [[Christine Citti]] interprète-t-elle le personnage d'une mère face à une situation inattendue avec sa fille ?
-
-Dans quel épisode de la série télévisée [[Joséphine, ange gardien]], diffusé en 2012, [[Christine Citti]] a-t-elle incarné un personnage clé aux côtés de [[Mimie Mathy]] ?
+Quelle actrice joue Annie Jouvet dans « [[Je suis heureux que ma mère soit vivante]] » (2009) ?
 
 ###### Description
 
 [[Christine Citti]] est une actrice française talentueuse dont la carrière au cinéma a débuté dans les années 1980. Elle a été particulièrement remarquée pour son rôle dans le film de 1991, [[Tout le monde n'a pas eu la chance d'avoir des parents communistes]], réalisé par [[Jean-Jacques Zilbermann]]. En 1994, elle a également joué dans le film acclamé [[La Reine Margot]], du réalisateur [[Patrice Chéreau]], qui a remporté le Prix du Jury au Festival de Cannes la même année. [[Christine Citti]] a aussi collaboré avec d'éminents réalisateurs tels que [[Claude Miller]] et [[Cédric Klapisch]], enrichissant ainsi sa filmographie variée et respectée.
+
+###### Archives questions
+
+Dans quel film de 1995 réalisé par [[Étienne Chatiliez]] a joué l'actrice [[Christine Citti]], célèbre pour son rôle de la professeur de lycée ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel court-métrage de 1999, dirigé par [[Agnès Merlet]], [[Christine Citti]] interprète-t-elle le personnage d'une mère face à une situation inattendue avec sa fille ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel épisode de la série télévisée [[Joséphine, ange gardien]], diffusé en 2012, [[Christine Citti]] a-t-elle incarné un personnage clé aux côtés de [[Mimie Mathy]] ? <!-- cm003 archivée 2026-11-23 -->

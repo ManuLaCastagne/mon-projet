@@ -29,12 +29,18 @@ culture_g_justification: "Le sujet désigne ici un élément précis lié au cin
 
 ###### Questions
 
-Dans quel film de [[Jacques Becker]] sorti en 1943, l'actrice [[Cinéma/Garance]] incarne-t-elle le personnage d'[[Arletty]] ?
+Quel personnage des « [[Les Enfants du paradis]] » est aimé de Baptiste, de [[Frédérick Lemaître]] et de [[Lacenaire]] ?
 
-Quel opéra du compositeur [[Carl Maria von Weber]], créé en 1821, comporte un rôle féminin au caractère bien trempé nommé [[Cinéma/Garance]] ?
-
-Dans quelle série de romans de [[Frédéric Marchal]], publiée pour la première fois en 2014, l'héroïne s'appelle-t-elle [[Cinéma/Garance]] ?
+Quelle plante tinctoriale a donné son nom au rouge des pantalons de l'infanterie française jusqu'en 1914 ?
 
 ###### Description
 
 [[Garance Cinéma]], fondé par [[Jean-Luc Martin]] en 1993, est un prestigieux festival dédié au cinéma d'auteur et indépendant. Chaque année, depuis sa première édition, le festival se tient en septembre à [[Biarritz]], attirant cinéastes et cinéphiles du monde entier. En 2007, le film "[[Lumières de l'Ombre]]", réalisé par [[Sophie Berthier]], a remporté le prix du meilleur film, marquant une étape importante dans l'histoire de l'événement. [[Garance Cinéma]] se distingue par ses rétrospectives et ses ateliers, qui célèbrent le cinéma sous toutes ses formes, tout en mettant en avant des réalisateurs émergents.
+
+###### Archives questions
+
+Dans quel film de [[Jacques Becker]] sorti en 1943, l'actrice [[Cinéma/Garance]] incarne-t-elle le personnage d'[[Arletty]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel opéra du compositeur [[Carl Maria von Weber]], créé en 1821, comporte un rôle féminin au caractère bien trempé nommé [[Cinéma/Garance]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle série de romans de [[Frédéric Marchal]], publiée pour la première fois en 2014, l'héroïne s'appelle-t-elle [[Cinéma/Garance]] ? <!-- cm003 archivée 2026-11-23 -->

@@ -26,11 +26,11 @@ culture_g_justification: "Centre spirituel majeur de l’islam et lieu de la Kaa
 
 ###### Questions
 
-Quelle ville sainte a accueilli le pèlerinage du [[Hadj]] pour la première fois depuis sa fondation par le prophète [[Mahomet]] en 632 ?
+Vers quelle ville les musulmans du monde entier se tournent-ils pour prier ?
 
-Quelle ville était le site de la construction du premier [[quartier général de l'Islam]] après la conquête de [[La Mecque]] en 630 par les musulmans ?
+Quelle ville saoudienne, où naquit [[Mahomet]] vers 570, est la première ville sainte de l'[[islam]] ?
 
-Dans quelle ville se trouvent la [[Kaaba]] et la Grande Mosquée fondée en 213 par le roi [[Toubba]] d'[[Arabie]] ?
+Dans quelle ville se trouve la [[Kaaba]], au cœur de la mosquée [[Al-Masjid al-Haram]] ?
 
 ###### Description
 
@@ -41,3 +41,11 @@ Cette ville sainte abrite la [[Kaaba]], l'édifice sacré vers lequel les musulm
 Fait étonnant, le plus grand hôtel du monde, l'[[Abraj Al Bait]], se trouve à [[La Mecque]] et a ouvert ses portes en 2012, avec une hauteur de 601 mètres et un total de 120 étages. 
 
 Un autre fait remarquable est la capacité d'extension du complexe de [[Masjid al-Haram]], qui peut accueillir jusqu'à quatre millions de fidèles pendant le [[Hajj]], un chiffre impressionnant qui en fait l'un des plus grands espaces religieux au monde.
+
+###### Archives questions
+
+Quelle ville était le site de la construction du premier [[quartier général de l'Islam]] après la conquête de [[La Mecque]] en 630 par les musulmans ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville se trouvent la [[Kaaba]] et la Grande Mosquée fondée en 213 par le roi [[Toubba]] d'[[Arabie]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville sainte a accueilli le pèlerinage du [[Hadj]] pour la première fois depuis sa fondation par le prophète [[Mahomet]] en 632 ? <!-- cm003 remplacée 2026-11-23 -->

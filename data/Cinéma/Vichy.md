@@ -29,12 +29,18 @@ culture_g_justification: "La fiche concerne une salle de cinéma locale de Vichy
 
 ###### Questions
 
-Dans quel film de [[Claude Chabrol]] sorti en 1969, [[Vichy]] est-elle choisie comme toile de fond pour une enquête sur un meurtre mystérieux ?
+De quel tissu à carreaux est la robe de [[Jacques Esterel]] portée par [[Brigitte Bardot]] pour son mariage avec [[Jacques Charrier]] ?
 
-Quel réalisateur célèbre pour son style hitchcockien a tourné un film en 1994 dont l'intrigue se déroule dans la ville de [[Vichy]], soulignant ainsi les contrastes de la société française ?
-
-Dans quel long-métrage sorti en 2006, l'action se situe à [[Vichy]] durant l'occupation et explore des histoires de collaboration et de résistance ?
+Dans quelle ville thermale de l'[[Allier]] siège le gouvernement de l'[[État français]] de 1940 à 1944 ?
 
 ###### Description
 
 [[Vichy Cinéma]] est une salle emblématique située dans la charmante ville de [[Vichy]], en France, connue pour son architecture du début du XXe siècle et inaugurée en 1912. Ce cinéma a accueilli de nombreuses premières de films au fil des décennies et est souvent associé à des événements majeurs de l'histoire cinématographique. Il a été rénové plusieurs fois pour s'adapter aux avancées technologiques, en intégrant notamment le son en 1930 et la projection numérique au début des années 2000. L'établissement est également célèbre pour avoir accueilli des personnalités du monde du cinéma, renforçant ainsi sa réputation comme l'un des hauts lieux culturels de [[Vichy]].
+
+###### Archives questions
+
+Dans quel film de [[Claude Chabrol]] sorti en 1969, [[Vichy]] est-elle choisie comme toile de fond pour une enquête sur un meurtre mystérieux ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel réalisateur célèbre pour son style hitchcockien a tourné un film en 1994 dont l'intrigue se déroule dans la ville de [[Vichy]], soulignant ainsi les contrastes de la société française ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel long-métrage sorti en 2006, l'action se situe à [[Vichy]] durant l'occupation et explore des histoires de collaboration et de résistance ? <!-- cm003 archivée 2026-11-23 -->

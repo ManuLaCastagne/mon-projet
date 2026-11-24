@@ -29,11 +29,9 @@ culture_g_justification: "Le titre générique ne permet pas d’identifier une 
 
 ###### Questions
 
-Dans quel film de 1967, le personnage du dauphin est-il nommé [[Sébastien]] ?
+Quel personnage [[Mehdi El Glaoui]] incarne-t-il en 1965 dans la série de sa mère [[Cécile Aubry]] ?
 
-Quel acteur a remporté un César en 1989 pour un rôle dans le film intitulé [[Sébastien]] ?
-
-Quel réalisateur a utilisé le pseudonyme [[Sébastien]] pour coécrire un film en 1995 ?
+Quel personnage [[Félix Bossuet]] joue-t-il dans le film de [[Nicolas Vanier]] sorti en 2013 ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Il a particulièrement été influencé par les œuvres de [[Martin Scorsese]] e
 En 2005, [[Sébastien]] a cofondé le festival de cinéma indépendant [[Écran Libre]] dans sa ville natale, qui est désormais un événement annuel incontournable pour les cinéphiles.
 
 En plus de son amour pour les films classiques, [[Sébastien]] est un collectionneur fervent d'affiches de cinéma des années 1980, époque qui, selon lui, représente l'âge d'or de la créativité cinématographique.
+
+###### Archives questions
+
+Dans quel film de 1967, le personnage du dauphin est-il nommé [[Sébastien]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur a remporté un César en 1989 pour un rôle dans le film intitulé [[Sébastien]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel réalisateur a utilisé le pseudonyme [[Sébastien]] pour coécrire un film en 1995 ? <!-- cm003 archivée 2026-11-23 -->
