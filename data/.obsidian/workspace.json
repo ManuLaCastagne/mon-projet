@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/John Wick.md",
+                "file": "Géographie/Uruguay.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/John Wick.md",
+                "file": "Géographie/Uruguay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "John Wick"
+              "title": "Uruguay"
             }
           }
         ],
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinéma/John Wick.md",
+                "file": "Géographie/Uruguay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,6 +364,17 @@
   },
   "active": "71252c55d9d4b291",
   "lastOpenFiles": [
+    "Histoire/Empire romain.md",
+    "Histoire/Légion d'honneur.md",
+    "Histoire/Sténo.md",
+    "Musique/Grammy Award.md",
+    "Mythologie/Athéna.md",
+    "Mythologie/Zeus.md",
+    "Sciences/NASA.md",
+    "Cinéma/John Wick.md",
+    "Géographie/Sahara.md",
+    "Culture générale/UNESCO.md",
+    "Cinéma/Golden Globe.md",
     "Cinéma/Guillaume Canet.md",
     "Géographie/Islamabad.md",
     "Histoire/Révolution de velours.md",
@@ -381,19 +392,8 @@
     "Histoire/Vaclav Havel.md",
     "Histoire/Jules Vallès.md",
     "Géographie/Ceylan.md",
-    "Géographie/Sri Jayawardenepura Kotte.md",
-    "Cinéma/Festival de Cannes.md",
-    "Cinéma/Adèle Haenel.md",
-    "Géographie/Paimpont.md",
-    "Géographie/Bretagne.md",
-    "Cinéma/Portrait de la jeune fille en feu.md",
     "attachments/Pasted image 20261002105739.png",
     "attachments/Pasted image 20261002105737.png",
-    "Géographie/Montreuil.md",
-    "Botanique/Dormance.md",
-    "Art/Marius Petipa.md",
-    "Musique/La Bayadère.md",
-    "Musique/Piotr Ilitch Tchaïkovski.md",
     "Culture générale/Sans titre 4.base",
     "Culture générale/Sans titre 3.base",
     "Culture générale/Sans titre 2.base",
