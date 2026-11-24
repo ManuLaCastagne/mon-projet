@@ -30,12 +30,20 @@ culture_g_justification: "Personnalité polyvalente du cinéma et de l’humour 
 
 ###### Questions
 
-Dans quel film sorti en 1997 [[Valérie Lemercier]] a-t-elle joué un rôle de Première Dame de France?
+Quelle actrice a reçu en 1994 le César du meilleur second rôle féminin pour [[Les Visiteurs]] ?
 
-En 2005, quel rôle de cendrillon moderne a été interprété par [[Valérie Lemercier]] dans un film qu'elle a également réalisé?
+Quelle actrice a réalisé en 2005 Palais royal !, où elle incarne une orthophoniste devenue reine ?
 
-Quelle célèbre série télévisée de [[Canal+]] diffusée en 1990 a lancé la carrière de [[Valérie Lemercier]] avec son personnage de secrétaire loufoque?
+Quelle actrice a réalisé en 2021 [[Aline]], où elle incarne une chanteuse québécoise librement inspirée de [[Céline Dion]] ?
 
 ###### Description
 
 [[Valérie Lemercier]] est une actrice, réalisatrice et humoriste française qui a marqué le cinéma avec son style inimitable. Elle a remporté deux [[César du cinéma]] pour ses rôles dans "Les Visiteurs" en 1994 et "Fauteuils d'orchestre" en 2007. En 2020, elle a écrit, réalisé et joué dans le film "Aline", inspiré de la vie de [[Céline Dion]], confirmant ainsi sa polyvalence artistique. Valérie est également connue pour ses débuts dans l'émission télévisée "Palace" en 1988, où son talent comique a été révélé au grand public.
+
+###### Archives questions
+
+Dans quel film sorti en 1997 [[Valérie Lemercier]] a-t-elle joué un rôle de Première Dame de France? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2005, quel rôle de cendrillon moderne a été interprété par [[Valérie Lemercier]] dans un film qu'elle a également réalisé? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle célèbre série télévisée de [[Canal+]] diffusée en 1990 a lancé la carrière de [[Valérie Lemercier]] avec son personnage de secrétaire loufoque? <!-- cm003 remplacée 2026-11-23 -->

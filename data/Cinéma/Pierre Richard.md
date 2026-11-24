@@ -29,12 +29,20 @@ culture_g_justification: "Grande figure de la comédie française, reliée à de
 
 ###### Questions
 
-Dans quel film de 1976, réalisé par [[Yves Robert]], [[Pierre Richard]] joue-t-il le rôle de [[François Perrin]], un simple violoniste devenu agent secret par erreur ?
+Quel acteur incarne [[François Perrin]], violoniste pris pour un espion, dans Le Grand Blond avec une chaussure noire d'[[Yves Robert]] (1972) ?
 
-Quel est le titre du film de 1981 dans lequel le personnage incarné par [[Pierre Richard]], [[François Pignon]], se retrouve à voyager en avion vers [[Rio de Janeiro]] malgré lui et est sorti des studios de [[Gaumont]] ?
+Quel acteur joue le malchanceux François Perrin aux côtés de [[Gérard Depardieu]] dans [[La Chèvre]] de [[Francis Veber]] (1981) ?
 
-Dans quel film de 1996, dirigé par le réalisateur français [[Édouard Molinaro]], [[Pierre Richard]] interprète-t-il le rôle d'un homme muet qui devient le pion clé dans une lutte pour le contrôle familial ?
+Quel acteur a réalisé en 1970 son premier long métrage, Le Distrait, dont il tient aussi le rôle principal ?
 
 ###### Description
 
 [[Pierre Richard]], acteur et réalisateur français emblématique, a marqué le cinéma avec son humour burlesque caractéristique depuis les années 1960. En 1972, il s’associe avec [[Yves Robert]] pour réaliser le film culte "[[Le Grand Blond avec une chaussure noire]]", qui rencontra un grand succès. Pierre Richard joue souvent aux côtés de [[Gérard Depardieu]], notamment dans la série de films comiques comme "[[La Chèvre]]" en 1981 et "[[Les Compères]]" en 1983. En 1986, il est à l'affiche de "[[Les Fugitifs]]", co-dirigé par [[Francis Veber]], poursuivant une collaboration fructueuse qui a contribué à faire de lui une légende vivante du cinéma comique français.
+
+###### Archives questions
+
+Dans quel film de 1976, réalisé par [[Yves Robert]], [[Pierre Richard]] joue-t-il le rôle de [[François Perrin]], un simple violoniste devenu agent secret par erreur ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du film de 1981 dans lequel le personnage incarné par [[Pierre Richard]], [[François Pignon]], se retrouve à voyager en avion vers [[Rio de Janeiro]] malgré lui et est sorti des studios de [[Gaumont]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 1996, dirigé par le réalisateur français [[Édouard Molinaro]], [[Pierre Richard]] interprète-t-il le rôle d'un homme muet qui devient le pion clé dans une lutte pour le contrôle familial ? <!-- cm003 remplacée 2026-11-23 -->

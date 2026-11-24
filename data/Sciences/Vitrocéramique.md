@@ -27,11 +27,11 @@ culture_g_justification: "Matériau assez connu grâce aux plaques de cuisson, m
 
 ###### Questions
 
-Quel type de matériau a été inventé par [[Bryce]] et [[Duryea]] en [[1958]], utilisé pour créer des surfaces de cuisson résistantes aux chocs thermiques ?
+Quel matériau a été découvert par hasard en 1953 par [[Donald Stookey]] chez [[Corning]] ?
 
 Quel matériau, mis en avant par la société [[Schott AG]] dans les années [[1970]], est connu pour sa capacité à résister à de grandes variations de température sur les plaques de cuisson ? <!-- score: 4 -->
 
-Quel matériau a été popularisé dans les années [[1990]] pour les plaques de cuisson grâce à sa surface lisse et facile à nettoyer ? <!-- score: 6 -->
+Quel matériau, obtenu par cristallisation contrôlée d'un verre, sert à fabriquer des prothèses dentaires, des composants électroniques et des cocottes ?
 
 ###### Description
 
@@ -42,3 +42,9 @@ Ce matériau se caractérise par sa capacité unique à résister à des tempér
 Un fait étonnant à propos de la [[vitrocéramique]] est qu'elle a été découverte par accident lorsque [[Stookey]] a chauffé par inadvertance un morceau de verre spécial à 900 °C au lieu de 600 °C, ce qui a engendré une structure cristalline inattendue mais extrêmement résistante. 
 
 En 1961, la première application commerciale de la [[vitrocéramique]] fut introduite sous le nom de marque "CorningWare", mettant en lumière la capacité de la [[vitrocéramique]] à passer directement du congélateur au four sans craindre de briser le matériau.
+
+###### Archives questions
+
+Quel type de matériau a été inventé par [[Bryce]] et [[Duryea]] en [[1958]], utilisé pour créer des surfaces de cuisson résistantes aux chocs thermiques ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel matériau a été popularisé dans les années [[1990]] pour les plaques de cuisson grâce à sa surface lisse et facile à nettoyer ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->

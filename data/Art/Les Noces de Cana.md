@@ -29,9 +29,7 @@ culture_g_justification: "Monument de la peinture vénitienne, très fréquemmen
 
 ###### Questions
 
-Quelle toile de 1562 dans laquelle mon auteur s'est représenté en train de jouer de la viole, a été commandée par des bénédictins pour orner leur réfectoire ?
-
-Quel oeuvre montre 132 personnages attablés lors d'un repas de fête ?
+Dans quelle toile peinte en 1562-1563 pour les bénédictins de Venise, [[Véronèse]] s'est-il représenté jouant de la viole ?
 
 Quel tableau monumental peint en 1563 par [[Véronèse]] représente le [[miracle biblique]] où [[Jésus]] transforme l'eau en vin lors d'un mariage en [[Galilée]] ? <!-- score: 3 -->
 
@@ -48,3 +46,9 @@ Ce tableau représente le célèbre banquet des Noces de Cana où [[Jésus]] a a
 Un fait étonnant peu connu est qu'après avoir été capturé par les troupes de [[Napoléon Bonaparte]] en 1797, le tableau a été découpé en plusieurs morceaux pour être transporté à Paris, une opération qui aurait pu le détruire à jamais. 
 
 Aujourd'hui, cette œuvre monumentale est exposée face à la [[Joconde]], formant l'une des confrontations artistiques les plus marquantes du musée.
+
+###### Archives questions
+
+Quelle toile de 1562 dans laquelle mon auteur s'est représenté en train de jouer de la viole, a été commandée par des bénédictins pour orner leur réfectoire ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel oeuvre montre 132 personnages attablés lors d'un repas de fête ? <!-- cm003 archivée 2026-11-23 -->

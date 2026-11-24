@@ -27,11 +27,11 @@ culture_g_justification: "Vedette internationale associée à Barbie, Scorsese, 
 
 ###### Questions
 
-Dans quel film de [[Martin Scorsese]] sorti en 2013 [[Margot Robbie]] joue-t-elle le rôle de [[Naomi Lapaglia]], la deuxième épouse du personnage principal interprété par [[Leonardo DiCaprio]] ?
+Quelle actrice joue [[Naomi Lapaglia]], seconde épouse de Jordan Belfort, dans Le Loup de Wall Street de [[Martin Scorsese]] (2013) ?
 
-En quelle année [[Margot Robbie]] a-t-elle fait ses débuts remarqués au cinéma dans un rôle principal grâce au film [[Moi, Tonya]] où elle interprète la patineuse artistique [[Tonya Harding]] ?
+Quelle actrice australienne incarne la patineuse [[Tonya Harding]] dans [[Moi, Tonya]] (2017) ?
 
-Quelle actrice australienne a été nommée pour un [[Oscar]] pour son interprétation dans le film [[Bombshell]] sorti en 2019, où elle joue aux côtés de [[Charlize Theron]] et [[Nicole Kidman]] ?
+Quelle actrice a été nommée à l'Oscar du meilleur second rôle féminin pour [[Bombshell]] (2019), aux côtés de [[Nicole Kidman]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ En 2016, elle incarne le personnage de [[Harley Quinn]] dans "[[Suicide Squad]]"
 Peu de gens savent que, dès 2017, [[Margot Robbie]] a réussi l'exploit de devenir la deuxième actrice australienne à recevoir une nomination aux [[Oscars]] pour un film (pour "[[Moi, Tonya]]") avant d'avoir 30 ans, suivant les traces de [[Naomi Watts]]. 
 
 De plus, en dehors du cinéma, elle est également cofondatrice de la société de production [[LuckyChap Entertainment]], qui se concentre sur la promotion de voix féminines dans l'industrie du divertissement.
+
+###### Archives questions
+
+Dans quel film de [[Martin Scorsese]] sorti en 2013 [[Margot Robbie]] joue-t-elle le rôle de [[Naomi Lapaglia]], la deuxième épouse du personnage principal interprété par [[Leonardo DiCaprio]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Margot Robbie]] a-t-elle fait ses débuts remarqués au cinéma dans un rôle principal grâce au film [[Moi, Tonya]] où elle interprète la patineuse artistique [[Tonya Harding]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice australienne a été nommée pour un [[Oscar]] pour son interprétation dans le film [[Bombshell]] sorti en 2019, où elle joue aux côtés de [[Charlize Theron]] et [[Nicole Kidman]] ? <!-- cm003 remplacée 2026-11-23 -->

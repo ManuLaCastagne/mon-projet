@@ -29,11 +29,11 @@ culture_g_justification: "Actrice française très identifiable grâce à Améli
 
 ###### Questions
 
-Dans quel film de [[Jean-Pierre Jeunet]] sorti en 2001 [[Audrey Tautou]] incarne-t-elle le personnage d'[[Le Fabuleux Destin d'Amélie Poulain]], ce qui lui vaut une reconnaissance internationale?
+Quelle actrice incarne Amélie Poulain dans [[Le Fabuleux Destin d'Amélie Poulain]] de [[Jean-Pierre Jeunet]] (2001) ?
 
-En 2013, [[Audrey Tautou]] a participé en tant que maîtresse de cérémonie lors de quel emblématique festival cinématographique français?
+Quelle actrice a été la maîtresse de cérémonie du 66e [[Festival de Cannes]], en 2013 ?
 
-Quelle actrice française, née en 1976, a été choisie pour jouer le rôle iconique de [[Coco Chanel]] dans le film [[Coco avant Chanel]] sorti en 2009?
+Quelle actrice française incarne [[Coco Chanel]] dans [[Coco avant Chanel]] d'[[Anne Fontaine]] (2009) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Deux ans plus tôt, en 1999, elle avait déjà impressionné le public grâce à
 En 2006, elle a incarné [[Sophie Neveu]] aux côtés de [[Tom Hanks]] dans le film américain "[[Da Vinci Code]]", une adaptation du best-seller de [[Dan Brown]].
 
 Audrey Tautou a également donné vie au personnage de [[Gabrielle "Coco" Chanel]] dans "Coco avant [[Chanel]]" en 2009, illustrant brillamment le parcours de cette légendaire créatrice de mode.
+
+###### Archives questions
+
+Dans quel film de [[Jean-Pierre Jeunet]] sorti en 2001 [[Audrey Tautou]] incarne-t-elle le personnage d'[[Le Fabuleux Destin d'Amélie Poulain]], ce qui lui vaut une reconnaissance internationale? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2013, [[Audrey Tautou]] a participé en tant que maîtresse de cérémonie lors de quel emblématique festival cinématographique français? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice française, née en 1976, a été choisie pour jouer le rôle iconique de [[Coco Chanel]] dans le film [[Coco avant Chanel]] sorti en 2009? <!-- cm003 remplacée 2026-11-23 -->

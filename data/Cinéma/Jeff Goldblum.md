@@ -28,11 +28,11 @@ culture_g_justification: "Acteur immédiatement associé à Jurassic Park, Indep
 
 ###### Questions
 
-Dans quel film de [[David Cronenberg]] sorti en 1986, [[Jeff Goldblum]] incarne-t-il un scientifique dont l'expérience de téléportation tourne mal?
+Quel acteur incarne le scientifique Seth Brundle dans La Mouche de [[David Cronenberg]] (1986) ?
 
 Quel acteur, né en 1952 à [[Pittsburgh]], a joué dans des films emblématiques tels que [[Jurassic Park]] et [[Independence Day]]? <!-- score: 3 -->
 
-Dans quel long métrage de [[Wes Anderson]] sorti en 2014, [[Jeff Goldblum]] interprète-t-il le rôle de [[Kovacs]]?
+Quel acteur joue l'avocat Vilmos [[Kovacs]] dans The Grand Budapest Hotel de [[Wes Anderson]] (2014) ?
 
 ###### Description
 
@@ -43,3 +43,9 @@ Avant de se diriger vers une carrière au cinéma, Goldblum a suivi une formatio
 Un fait étonnant concernant [[Jeff Goldblum]] est qu'il détient le record du plus long intervalle entre deux apparitions consécutives aux jeux de la même franchise, avec 25 ans entre sa participation à [[Jurassic Park]] (1993) et sa reprise du rôle du Dr Ian Malcolm dans [[Jurassic World: Fallen Kingdom]] (2018). 
 
 En dehors de ses activités cinématographiques et musicales, [[Goldblum]] a également été nommé aux [[Primetime Emmy Awards]] en 2005 pour sa performance dans la série "[[Will & Grace]]".
+
+###### Archives questions
+
+Dans quel film de [[David Cronenberg]] sorti en 1986, [[Jeff Goldblum]] incarne-t-il un scientifique dont l'expérience de téléportation tourne mal? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel long métrage de [[Wes Anderson]] sorti en 2014, [[Jeff Goldblum]] interprète-t-il le rôle de [[Kovacs]]? <!-- cm003 remplacée 2026-11-23 -->

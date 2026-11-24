@@ -34,9 +34,11 @@ culture_g_justification: "L’Uruguay est un pays sud-américain régulièrement
 
 Quel est le premier pays au monde à avoir organisé la [[Coupe du Monde de la FIFA]] en 1930 ?
 
-Quel pays d'[[Amérique du Sud]] a été le premier à autoriser le mariage homosexuel sous le gouvernement de [[José Mujica]] en 2013 ?
+Quel pays est devenu en 2013, sous la présidence de [[José Mujica]], le premier au monde à légaliser la production et la vente de cannabis ?
 
 Quel pays possède le plus petit territoire bordant le [[Rio de la Plata]] ?
+
+Quel pays d'Amérique du Sud, dont la capitale est [[Montevideo]], voit la station balnéaire de [[Punta del Este]] marquer la limite entre le [[Río de la Plata]] et l'océan Atlantique ?
 
 ###### Description
 
@@ -47,3 +49,7 @@ La capitale, [[Montevideo]], est souvent citée comme la ville offrant la meille
 Remarquablement, l'Uruguay est le premier pays au monde à avoir fourni un ordinateur portable à chaque élève du primaire en 2009 dans le cadre du projet "One Laptop per Child". 
 
 Avec une population d'environ 3,5 millions d'habitants, l'Uruguay est connu pour ses vastes plaines et ses pampas, mais saviez-vous que le point culminant du pays, le [[Cerro Catedral]], ne s'élève qu'à 514 mètres au-dessus du niveau de la mer, en faisant l'un des plus bas sommets nationaux du monde ?
+
+###### Archives questions
+
+Quel pays d'[[Amérique du Sud]] a été le premier à autoriser le mariage homosexuel sous le gouvernement de [[José Mujica]] en 2013 ? <!-- cm003 remplacée 2026-11-23 -->

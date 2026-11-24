@@ -27,11 +27,11 @@ culture_g_justification: "Acteur très identifiable par Thor, Marvel et quelques
 
 ###### Questions
 
-Dans quel film de 2015 Chris Hemsworth a-t-il repris le rôle de [[George Kirk]], qu'il avait initialement joué en 2009 dans l'univers de [[Star Trek]] ?
+Quel acteur australien incarne George Kirk, le père du capitaine Kirk, dans Star Trek de [[J. J. Abrams]] (2009) ?
 
-Quel acteur australien, né en 1983 à [[Melbourne]], est devenu célèbre pour son interprétation du personnage de [[Thor]] dans l'univers cinématographique de [[Marvel]] ?
+Quel acteur australien, né en 1983 à [[Melbourne]], incarne [[Thor]] dans l'univers cinématographique [[Marvel]] ?
 
-En [[quelle année]] Chris Hemsworth a-t-il été élu l'homme le plus sexy du monde par le magazine [[People]] ?
+Quel acteur a été élu en 2014 l'homme le plus sexy du monde par le magazine [[People]] ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Avant de devenir une star internationale, il a joué dans la série télévisée
 Un fait étonnant est qu'il a remporté, à l'opposé de son image de super-héros, la troisième place de la version australienne de [[Danse avec les stars]] en 2006, dévoilant ses talents insoupçonnés de danseur. 
 
 En dehors des plateaux de tournage, Chris et son frère [[Liam Hemsworth]] font parfois la une des médias pour leur participation à des actions caritatives, notamment en faveur de l'environnement en [[Australie]].
+
+###### Archives questions
+
+Dans quel film de 2015 Chris Hemsworth a-t-il repris le rôle de [[George Kirk]], qu'il avait initialement joué en 2009 dans l'univers de [[Star Trek]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En [[quelle année]] Chris Hemsworth a-t-il été élu l'homme le plus sexy du monde par le magazine [[People]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur australien, né en 1983 à [[Melbourne]], est devenu célèbre pour son interprétation du personnage de [[Thor]] dans l'univers cinématographique de [[Marvel]] ? <!-- cm003 remplacée 2026-11-23 -->

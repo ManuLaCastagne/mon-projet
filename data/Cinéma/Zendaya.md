@@ -28,11 +28,11 @@ culture_g_justification: "Personnalité contemporaine très visible grâce à Ma
 
 ###### Questions
 
-Dans quel film de [[Marvel]] sorti en 2017 joue [[Zendaya]] le rôle de [[Michelle "MJ" Jones]] ? <!-- score: 10 -->
+Quelle actrice incarne [[Michelle "MJ" Jones]] dans Spider-Man: Homecoming (2017) ?
 
 Quelle actrice a remporté un [[Emmy Award]] en 2020 pour son rôle dans la série [[Euphoria]]?  
 
-Quel artiste a collaboré avec [[Zendaya]] pour la chanson "[[Rewrite the Stars]]" du film [[The Greatest Showman]] sorti en 2017 ?
+Quelle actrice chante Rewrite the Stars en duo avec [[Zac Efron]] dans [[The Greatest Showman]] (2017) ?
 
 ###### Description
 
@@ -43,3 +43,9 @@ Elle est devenue célèbre grâce à son rôle dans la série télévisée [[Dis
 En 2020, elle a marqué l'histoire en devenant la plus jeune actrice à remporter le [[Primetime Emmy Award]] de la meilleure actrice dans une série dramatique pour son rôle dans "[[Euphoria]]". 
 
 En dehors de sa carrière d'actrice, elle a aussi fait ses débuts remarqués dans le mannequinat et la musique, lançant son premier album éponyme en 2013.
+
+###### Archives questions
+
+Dans quel film de [[Marvel]] sorti en 2017 joue [[Zendaya]] le rôle de [[Michelle "MJ" Jones]] ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste a collaboré avec [[Zendaya]] pour la chanson "[[Rewrite the Stars]]" du film [[The Greatest Showman]] sorti en 2017 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Acteur international aisément relié à Hannibal, Sta
 
 ###### Questions
 
-Dans quel film sorti en 2012, l'acteur [[Mads Mikkelsen]] a-t-il remporté le Prix d'interprétation masculine du Festival de Cannes ? 
+Quel acteur danois a remporté le prix d'interprétation masculine du Festival de Cannes 2012 pour La Chasse de [[Thomas Vinterberg]] ?
 
-Pour quel rôle au sein de l'univers [[Star Wars]] [[Mads Mikkelsen]] a-t-il été reconnu dans le film Rogue One: A Star Wars Story sorti en 2016 ?
+Quel acteur incarne [[Galen Erso]], le père de l'héroïne Jyn, dans Rogue One : A Star Wars Story (2016) ?
 
-Dans quelle série télévisée diffusée entre 2013 et 2015 [[Mads Mikkelsen]] incarne-t-il le personnage du célèbre psychiatre et tueur en série [[Hannibal Lecter]] ?
+Quel acteur a incarné le psychiatre cannibale [[Hannibal Lecter]] dans la série télévisée diffusée de 2013 à 2015 sur NBC ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Dans quelle série télévisée diffusée entre 2013 et 2015 [[Mads Mikkelsen]] 
 Il a commencé sa carrière d'acteur au Danemark avec le film "Pusher" réalisé par Nicolas Winding Refn en 1996, où il joue le rôle du gangster Tonny. 
 
 En 2006, Mikkelsen a gagné une notoriété mondiale en incarnant le méchant [[Le Chiffre]] dans le film [[James Bond]] "Casino Royale", aux côtés de [[Daniel Craig]]. Il a remporté le prix du meilleur acteur au Festival de Cannes en 2012 pour sa performance poignante dans "La Chasse" dirigé par Thomas Vinterberg.
+
+###### Archives questions
+
+Dans quel film sorti en 2012, l'acteur [[Mads Mikkelsen]] a-t-il remporté le Prix d'interprétation masculine du Festival de Cannes ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel rôle au sein de l'univers [[Star Wars]] [[Mads Mikkelsen]] a-t-il été reconnu dans le film Rogue One: A Star Wars Story sorti en 2016 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle série télévisée diffusée entre 2013 et 2015 [[Mads Mikkelsen]] incarne-t-il le personnage du célèbre psychiatre et tueur en série [[Hannibal Lecter]] ? <!-- cm003 remplacée 2026-11-23 -->
