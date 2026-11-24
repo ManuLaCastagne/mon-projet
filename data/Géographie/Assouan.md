@@ -5,7 +5,7 @@ longitude: 32.897306
 superficie: 30892
 location: 24.091071,32.897306
 
-1902/12/10
+note_archivee_cm003: '1902/12/10'
 annee: 
 tags:
   - Géographie

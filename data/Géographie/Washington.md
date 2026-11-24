@@ -8,7 +8,8 @@ tags:
   - Géographie
   - États-Unis
   - États-Unis
-  - *Aucun_département_spécifique*
+tags_archives_cm003:
+  - '*Aucun_département_spécifique*'
 
 indice_1 : 
   - Capitole des États-Unis
