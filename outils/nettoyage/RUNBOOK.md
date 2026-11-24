@@ -87,6 +87,9 @@ Ces questions viennent de vraies émissions et de cinq ans de révisions : elles
    - `python3 -I $O/appliquer.py /tmp/lot_final.json data` (doit finir sans assertion)
    - `cd $O && python3 -m pytest -q -p no:cacheprovider` (tous les tests passent)
    - relancer l'audit et vérifier que le nombre de questions jouables a baissé exactement du nombre d'archivées.
+   - vérifier qu'aucune fiche touchée n'a un frontmatter invalide (le coffre en compte 0 depuis le 24/11/2026) :
+     `python3 -I -c "import sys,glob;sys.path.insert(0,'$O');import audit_qualite as aq;b=[p for p in glob.glob('data/**/*.md',recursive=True) if aq.lire_fiche(p)[0].get('_yaml_invalide')];print(len(b),b[:5])"`
+     Si une fiche invalide apparaît, la corriger sans perte (guillemets ; texte parasite déplacé dans une clé `*_archive_cm003`).
 7. Publier :
    - commit sur `cm003/nettoyage` (message : `CM-003 lot N : …`, résumé des verdicts et de la QA, lignes
      d'attribution Co-Authored-By et Claude-Session), puis `git -c push.negotiate=true push origin cm003/nettoyage`.
