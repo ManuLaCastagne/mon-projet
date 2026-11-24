@@ -31,10 +31,16 @@ culture_g_justification: "Le film de Lasse Hallström est connu et permet des li
 
 Quel est le titre du film réalisé en 2000 par [[Lasse Hallström]], mettant en vedette [[Juliette Binoche]] et [[Johnny Depp]], qui explore les effets d'une nouvelle chocolaterie sur le village de [[Lansquenet-sous-Tannes]] ?
 
-Comment se nomme le premier clown noir français, dont l'histoire a été adaptée dans le film intitulé [[Chocolat]], réalisé en 2016 par [[Roschdy Zem]] et mettant en scène [[Omar Sy]] ?
+Sous quel nom de scène le clown d'origine cubaine Rafael Padilla, incarné par [[Omar Sy]] en 2016 dans un film de [[Roschdy Zem]], est-il devenu célèbre ?
 
-Quel est le titre du film d'animation d'avant-garde de 1988 réalisé par [[Jan Švankmajer]], qui est une adaptation libre des travaux d'un peintre surréaliste et utilise le chocolat comme une métaphore pour sa narration ?
+Quel est le titre du premier long métrage de [[Claire Denis]], sorti en 1988 et situé au Cameroun ?
 
 ###### Description
 
 Le film français [[Chocolat]], sorti en 2000, est une comédie dramatique réalisée par [[Lasse Hallström]] et basée sur le roman éponyme de [[Joanne Harris]]. L'intrigue se déroule dans un village français fictif et met en vedette [[Juliette Binoche]] dans le rôle de [[Vianne Rocher]], une chocolatière dont l'apparition bouleverse les normes sociales rigides de la communauté. Ce long-métrage a été nominé pour cinq Oscars lors de la 73e cérémonie en 2001, notamment dans les catégories Meilleur Film et Meilleure Actrice pour [[Juliette Binoche]]. Par ailleurs, la musique du film, composée par [[Rachel Portman]], souligne à merveille l'ambiance chaleureuse et intrigante de l'histoire.
+
+###### Archives questions
+
+Comment se nomme le premier clown noir français, dont l'histoire a été adaptée dans le film intitulé [[Chocolat]], réalisé en 2016 par [[Roschdy Zem]] et mettant en scène [[Omar Sy]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du film d'animation d'avant-garde de 1988 réalisé par [[Jan Švankmajer]], qui est une adaptation libre des travaux d'un peintre surréaliste et utilise le chocolat comme une métaphore pour sa narration ? <!-- cm003 remplacée 2026-11-23 -->

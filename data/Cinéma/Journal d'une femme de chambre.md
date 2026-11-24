@@ -29,11 +29,11 @@ culture_g_justification: "Les adaptations de Journal d'une femme de chambre perm
 
 ###### Questions
 
-Quel film réalisé par [[Luis Buñuel]] en 1964 explore les expériences d'une femme de chambre dans une riche maison bourgeoise, basé sur le fameux roman de [[Octave Mirbeau]] ? 
+Quel film de [[Luis Buñuel]] (1964) offre à [[Jeanne Moreau]] le rôle de Célestine ?
 
-Quelle adaptation cinématographique du [[Journal d'une femme de chambre]] a été réalisée par [[Benoît Jacquot]] en 2015, mettant en vedette [[Léa Seydoux]] dans le rôle principal ?
+Quel film de [[Benoît Jacquot]], en compétition à la Berlinale 2015, offre à [[Léa Seydoux]] le rôle d'une domestique ?
 
-Dans quelle année est sorti le film [[Journal d'une femme de chambre]] qui a fait ses débuts au [[Festival de Berlin]] sous la direction de [[Benoît Jacquot]] ?
+Quel roman d'[[Octave Mirbeau]] [[Jean Renoir]] adapte-t-il à Hollywood en 1946 avec [[Paulette Goddard]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Le film met en avant la performance de l'actrice française [[Jeanne Moreau]], q
 Un fait étonnant à propos de cette œuvre est que [[Luis Buñuel]] a initialement envisagé de réaliser cette adaptation dès 1946, soit près de 18 ans avant la sortie effective du film. 
 
 En 2015, [[Benoît Jacquot]] a offert une nouvelle interprétation cinématographique de ce classique littéraire, avec [[Léa Seydoux]] dans le rôle principal, rappelant la richesse et l'universalité des thèmes abordés dans le récit.
+
+###### Archives questions
+
+Quelle adaptation cinématographique du [[Journal d'une femme de chambre]] a été réalisée par [[Benoît Jacquot]] en 2015, mettant en vedette [[Léa Seydoux]] dans le rôle principal ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle année est sorti le film [[Journal d'une femme de chambre]] qui a fait ses débuts au [[Festival de Berlin]] sous la direction de [[Benoît Jacquot]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film réalisé par [[Luis Buñuel]] en 1964 explore les expériences d'une femme de chambre dans une riche maison bourgeoise, basé sur le fameux roman de [[Octave Mirbeau]] ? <!-- cm003 remplacée 2026-11-23 -->

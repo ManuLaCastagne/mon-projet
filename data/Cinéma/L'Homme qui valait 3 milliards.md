@@ -29,12 +29,20 @@ culture_g_justification: "Série de science-fiction télévisée emblématique, 
 
 ###### Questions
 
-En quelle année la série télévisée [[L'Homme qui valait 3 milliards]] a-t-elle été diffusée pour la première fois aux États-Unis ?
+Dans quelle série américaine des années 1970 [[Lee Majors]] incarne-t-il l'astronaute [[Steve Austin]], doté de membres bioniques après un accident ?
 
-Quel acteur, connu pour son rôle dans la série [[L'Homme qui valait 3 milliards]], a également joué dans le film culte de [[Quentin Tarantino]], [[Kill Bill]] ?
+De quelle série est dérivée « [[Super Jaimie]] », dont l'héroïne [[Jaime Sommers]] est la fiancée de Steve Austin ?
 
-Quel est le lien entre la série [[L'Homme qui valait 3 milliards]] et le personnage de [[Jaime Sommers]] introduit en 1975 ?
+Quelle série américaine lancée en 1974 est adaptée du roman « Cyborg » de [[Martin Caidin]] ?
 
 ###### Description
 
 [[L'Homme qui valait 3 milliards]], dont le titre original est "[[The Six Million Dollar Man]]", est une série télévisée américaine diffusée initialement sur [[ABC]] de 1973 à 1978. Inspirée du roman "Cyborg" de [[Martin Caidin]], la série met en scène les aventures de [[Steve Austin]], un astronaute gravement blessé lors d'un accident et transformé en cyborg par l'application d'implants bioniques. Ce personnage est magnifiquement interprété par [[Lee Majors]], qui a su donner vie à cet héros légendaire. Outre son succès à la télévision, la série a également donné naissance à plusieurs téléfilms, dont le premier, "The Return of the Six Million Dollar Man and the Bionic Woman", est sorti en 1987.
+
+###### Archives questions
+
+En quelle année la série télévisée [[L'Homme qui valait 3 milliards]] a-t-elle été diffusée pour la première fois aux États-Unis ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur, connu pour son rôle dans la série [[L'Homme qui valait 3 milliards]], a également joué dans le film culte de [[Quentin Tarantino]], [[Kill Bill]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le lien entre la série [[L'Homme qui valait 3 milliards]] et le personnage de [[Jaime Sommers]] introduit en 1975 ? <!-- cm003 remplacée 2026-11-23 -->

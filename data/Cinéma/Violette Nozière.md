@@ -29,12 +29,20 @@ culture_g_justification: "Film de Chabrol fondé sur une affaire criminelle cél
 
 ###### Questions
 
-Quel film réalisé par [[Claude Chabrol]] en 1978 relate l’histoire de l’affaire criminelle impliquant [[Violette Nozière]] ?
+Quel film de [[Claude Chabrol]] (1978) retrace l'affaire d'une jeune Parisienne qui empoisonne ses parents en 1933 ?
 
-Dans quel long métrage [[Isabelle Huppert]] joue-t-elle le rôle de l’empoisonneuse infâme des années 1930, [[Violette Nozière]] ?
+Pour quel film [[Isabelle Huppert]] obtient-elle le prix d'interprétation féminine au Festival de Cannes 1978 ?
 
-Quel personnage historique reconnu pour ses crimes est le sujet principal du film sorti en 1978 et intitulé « [[Violette Nozière]] » ?
+Quelle jeune femme, condamnée à mort en 1934 pour avoir empoisonné son père, inspira un recueil aux poètes surréalistes ?
 
 ###### Description
 
 Le film "[[Violette Nozière]]", réalisé par [[Claude Chabrol]] en 1978, est une adaptation cinématographique de l'histoire vraie de [[Violette Nozière]], une jeune femme accusée d'avoir empoisonné ses parents dans les années 1930. Le rôle principal est brillamment interprété par [[Isabelle Huppert]], qui a remporté le prix d'interprétation féminine au Festival de Cannes pour ce travail en 1978. La musique du film est composée par [[Pierre Jansen]], collaborateur régulier de Chabrol, et contribue à l'atmosphère troublante du film. "Violette Nozière" explore des thèmes profonds tels que la rébellion juvénile et les dysfonctionnements familiaux, tout en offrant une critique de la bourgeoisie parisienne de l'époque.
+
+###### Archives questions
+
+Quel film réalisé par [[Claude Chabrol]] en 1978 relate l’histoire de l’affaire criminelle impliquant [[Violette Nozière]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel long métrage [[Isabelle Huppert]] joue-t-elle le rôle de l’empoisonneuse infâme des années 1930, [[Violette Nozière]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage historique reconnu pour ses crimes est le sujet principal du film sorti en 1978 et intitulé « [[Violette Nozière]] » ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,12 +29,18 @@ culture_g_justification: "Personnalité française connue pour Astérix, la tél
 
 ###### Questions
 
-Dans quel film de 2002, [[Edouard Baer]] joue-t-il le rôle de [[Otis]], un personnage aux côtés de [[Astérix]] et [[Obélix]] ?
+Quel acteur incarne le scribe [[Otis]] dans « [[Astérix et Obélix : Mission Cléopâtre]] » (2002) ?
 
 Quel acteur français a assuré la présentation de la cérémonie des [[Césars]] en 2001, 2002 et 2015 ?
 
-En 2009, quel célèbre acteur, réalisateur et scénariste français Edouard Baer a-t-il remplacé pour jouer le rôle de [[Benoît Poelvoorde]] dans le film [[C'est la vie]] ?
+Quel acteur joue le marquis des Arcis face à [[Cécile de France]] dans « [[Mademoiselle de Joncquières]] » (2018) ?
 
 ###### Description
 
 [[Édouard Baer]] est un acteur et réalisateur français né en 1966, connu pour son charisme et son humour subtil. Il a prêté ses talents à de nombreux films, dont [[Astérix & Obélix : Mission Cléopâtre]] en 2002, où il incarne le personnage de [[Otis]] aux côtés de [[Gérard Depardieu]] et [[Monica Bellucci]]. En 2008, [[Édouard Baer]] réalise et joue dans le film [[La Bostella]], une comédie décalée qui explore les coulisses d'une émission de télévision fictive. Il a également été salué pour son interprétation dans [[Mademoiselle de Joncquières]], sorti en 2018, où il partage l'écran avec [[Cécile de France]] sous la direction d'[[Emmanuel Mouret]].
+
+###### Archives questions
+
+Dans quel film de 2002, [[Edouard Baer]] joue-t-il le rôle de [[Otis]], un personnage aux côtés de [[Astérix]] et [[Obélix]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2009, quel célèbre acteur, réalisateur et scénariste français Edouard Baer a-t-il remplacé pour jouer le rôle de [[Benoît Poelvoorde]] dans le film [[C'est la vie]] ? <!-- cm003 remplacée 2026-11-23 -->

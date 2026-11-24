@@ -29,12 +29,20 @@ culture_g_justification: "Réalisateur français reconnu des cinéphiles, mais s
 
 ###### Questions
 
-Quel réalisateur français a débuté sa carrière cinématographique avec le film [[Boy Meets Girl]] en 1984, ce qui lui a valu de se faire remarquer dès son premier long métrage ? 
+Quel réalisateur français signe en 1984 son premier long métrage, « [[Boy Meets Girl]] », avec [[Denis Lavant]] ?
 
-Quel cinéaste a utilisé le pseudonyme [[Leos Carax]] pour créer un personnage fictif en combinant les anagrammes de son nom de naissance, [[Alex Dupont]] ?
+Quel cinéaste a formé son pseudonyme à partir de l'anagramme de ses prénoms, Alex et Oscar ?
 
-Qui a remporté le [[Palme Dog Award]] pour le chien-acteur de son film [[Holy Motors]] lors du [[Festival de Cannes 2012]] ? <!-- score: 4 -->
+Quel réalisateur reçoit le prix de la mise en scène au Festival de Cannes 2021 pour « [[Annette]] » ?
 
 ###### Description
 
 [[Leos Carax]] est un réalisateur français reconnu pour son style visuel distinctif et poétique, né en 1960. Il a attiré l'attention du public avec son deuxième long-métrage, [[Mauvais Sang]], sorti en 1986, qui mettait en vedette [[Denis Lavant]], un acteur souvent associé à son œuvre. En 1991, Carax a renforcé sa réputation avec [[Les Amants du Pont-Neuf]], un film marquant pour ses scènes audacieuses tournées sur un pont reconstitué à coût exorbitant. En 2012, [[Holy Motors]] a été acclamé pour sa narration novatrice et a participé à la sélection officielle du Festival de Cannes, confirmant Carax comme un pionnier du cinéma moderne.
+
+###### Archives questions
+
+Quel cinéaste a utilisé le pseudonyme [[Leos Carax]] pour créer un personnage fictif en combinant les anagrammes de son nom de naissance, [[Alex Dupont]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a remporté le [[Palme Dog Award]] pour le chien-acteur de son film [[Holy Motors]] lors du [[Festival de Cannes 2012]] ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel réalisateur français a débuté sa carrière cinématographique avec le film [[Boy Meets Girl]] en 1984, ce qui lui a valu de se faire remarquer dès son premier long métrage ? <!-- cm003 remplacée 2026-11-23 -->

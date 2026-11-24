@@ -29,11 +29,11 @@ culture_g_justification: "Acteur français identifiable par L'Auberge espagnole 
 
 ###### Questions
 
-Dans quel film de [[Cédric Klapisch]] sorti en 2002, [[Romain Duris]] incarne-t-il le personnage principal nommé [[Xavier]] ?
+Quel acteur incarne Xavier, l'étudiant Erasmus de « [[L'Auberge espagnole]] » de [[Cédric Klapisch]] (2002) ?
 
-Quel acteur français, connu pour son rôle dans [[L'Auberge espagnole]], a débuté sa carrière en étant remarqué dans la rue par un directeur de casting en 1993 ?
+Quel acteur, repéré dans une file d'attente par un directeur de casting, débute au cinéma dans « [[Le Péril jeune]] » ?
 
-En 1994, quel futur acteur de [[L'Arnacœur]] a joué dans le court métrage intitulé "[[L'Âge des Possibles]]" qui a remporté le [[Prix Jean Vigo]] ?
+Quel acteur joue un agent immobilier véreux rêvant de devenir pianiste dans « [[De battre mon cœur s'est arrêté]] » de [[Jacques Audiard]] (2005) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Il a également été applaudi pour sa performance dans [[De battre mon cœur s'
 En 2017, il a joué dans l'adaptation cinématographique de [[Dilili à Paris]], un long métrage d'animation réalisé par [[Michel Ocelot]].
 
 Récemment, en 2021, Romain Duris a incarné le rôle principal dans la comédie dramatique [[Eiffel]], inspirée de la vie de l'ingénieur [[Gustave Eiffel]].
+
+###### Archives questions
+
+Dans quel film de [[Cédric Klapisch]] sorti en 2002, [[Romain Duris]] incarne-t-il le personnage principal nommé [[Xavier]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel acteur français, connu pour son rôle dans [[L'Auberge espagnole]], a débuté sa carrière en étant remarqué dans la rue par un directeur de casting en 1993 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1994, quel futur acteur de [[L'Arnacœur]] a joué dans le court métrage intitulé "[[L'Âge des Possibles]]" qui a remporté le [[Prix Jean Vigo]] ? <!-- cm003 remplacée 2026-11-23 -->

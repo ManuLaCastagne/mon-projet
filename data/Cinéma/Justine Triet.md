@@ -29,11 +29,11 @@ culture_g_justification: "La Palme d'or d'Anatomie d'une chute rend Justine Trie
 
 ###### Questions
 
-Dans quelle année [[Justine Triet]] a-t-elle remporté la [[Palme d'Or]] au Festival de Cannes pour son film [[Anatomie d'une chute]] ? <!-- score: 5 -->
+Quelle réalisatrice remporte la [[Palme d'Or]] au Festival de Cannes 2023 avec « [[Anatomie d'une chute]] » ?
 
-Quel film de [[Justine Triet]] sorti en 2016 a été sélectionné dans la catégorie [[Un Certain Regard]] au Festival de Cannes ?
+Quelle réalisatrice signe « [[Victoria]] » (2016), avec [[Virginie Efira]] en avocate, film d'ouverture de la Semaine de la critique à Cannes ?
 
-En quelle année [[Justine Triet]] a-t-elle été nommée pour le César du [[meilleur film]] avec [[Victoria]] ?
+Quelle réalisatrice reçoit avec [[Arthur Harari]] l'Oscar du meilleur scénario original en 2024 pour « [[Anatomie d'une chute]] » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 2016, elle a continué de captiver le public avec [[Victoria]], une comédie 
 Son succès s'est confirmé en 2019 avec [[Sibyl]], un long-métrage en compétition officielle à Cannes, mêlant auto-fiction et vertige psychologique avec un casting impressionnant comprenant [[Adèle Exarchopoulos]] et [[Gaspard Ulliel]]. 
 
 Plus récemment, en 2023, Triet a remporté la [[Palme d'or]] au Festival de Cannes pour son film [[Anatomie d'une chute]], marquant une étape majeure dans sa carrière cinématographique.
+
+###### Archives questions
+
+Dans quelle année [[Justine Triet]] a-t-elle remporté la [[Palme d'Or]] au Festival de Cannes pour son film [[Anatomie d'une chute]] ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de [[Justine Triet]] sorti en 2016 a été sélectionné dans la catégorie [[Un Certain Regard]] au Festival de Cannes ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Justine Triet]] a-t-elle été nommée pour le César du [[meilleur film]] avec [[Victoria]] ? <!-- cm003 remplacée 2026-11-23 -->

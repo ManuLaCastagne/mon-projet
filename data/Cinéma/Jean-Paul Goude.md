@@ -29,12 +29,20 @@ culture_g_justification: "Artiste influent de la publicité, de la photographie 
 
 ###### Questions
 
-Dans quel domaine [[Jean-Paul Goude]] a-t-il créé le célèbre défilé du [[Bicentenaire de la Révolution française]] en 1989 ?
+Quel graphiste et publicitaire met en scène le défilé du [[Bicentenaire de la Révolution française]] sur les Champs-Élysées en 1989 ?
 
-Quel artiste a réalisé des collaborations emblématiques avec [[Grace Jones]], notamment pour ses clips musicaux et pochettes d'albums dans les années 1980 ?
+Quel artiste français conçoit les pochettes et l'image scénique de [[Grace Jones]] dans les années 1980 ?
 
-Quel créateur français est à l'origine de la campagne publicitaire « Esprit de Paris » qui a été diffusée lors de la Coupe du Monde de [[Football]] en 1998 ?
+Quel réalisateur signe en 1990 « Le Carlton », publicité du parfum Égoïste de [[Chanel]] où des femmes crient aux balcons d'un palace ?
 
 ###### Description
 
 Jean-Paul Goude, né en 1940, est un artiste français reconnu pour son apport au monde de la publicité, du design et de la photographie, mais il a également laissé sa marque sur le septième art. En 1978, il réalise le court métrage "[[C'est pour quand]]", qui illustre sa capacité à fusionner l'art visuel avec le cinéma. Par ailleurs, son travail avec la chanteuse [[Grace Jones]], qu'il a rencontrée en 1977, est immortalisé dans plusieurs clips vidéo novateurs et esthétiquement audacieux, imprégnés de son style unique. En 1990, il contribue à la conception de la cérémonie d'ouverture des [[Internationaux de France de Tennis]], où il démontre une nouvelle fois son savoir-faire dans le raccord entre image et performance artistique.
+
+###### Archives questions
+
+Dans quel domaine [[Jean-Paul Goude]] a-t-il créé le célèbre défilé du [[Bicentenaire de la Révolution française]] en 1989 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste a réalisé des collaborations emblématiques avec [[Grace Jones]], notamment pour ses clips musicaux et pochettes d'albums dans les années 1980 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel créateur français est à l'origine de la campagne publicitaire « Esprit de Paris » qui a été diffusée lors de la Coupe du Monde de [[Football]] en 1998 ? <!-- cm003 remplacée 2026-11-23 -->
