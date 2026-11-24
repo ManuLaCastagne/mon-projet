@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cinéma/Golden Globe.md",
+                "file": "Géographie/Le Caire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinéma/Golden Globe.md",
+                "file": "Géographie/Le Caire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golden Globe"
+              "title": "Le Caire"
             }
           }
         ],
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cinéma/Golden Globe.md",
+                "file": "Géographie/Le Caire.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,6 +364,11 @@
   },
   "active": "71252c55d9d4b291",
   "lastOpenFiles": [
+    "Vocabulaire/Ficaire.md",
+    "Culture_G/Meccano.md",
+    "Animaux/serpent à lunettes.md",
+    "Culture_G",
+    "Cinéma/Golden Globe.md",
     "Culture générale/UNESCO.md",
     "Géographie/Désert d'Atacama.md",
     "Géographie/Chili.md",
@@ -377,7 +382,6 @@
     "Sciences/NASA.md",
     "Cinéma/John Wick.md",
     "Géographie/Sahara.md",
-    "Cinéma/Golden Globe.md",
     "Cinéma/Guillaume Canet.md",
     "Géographie/Islamabad.md",
     "Histoire/Révolution de velours.md",
@@ -389,9 +393,6 @@
     "Géographie/Tonlé Sap.md",
     "Géographie/Mékong.md",
     "Culture générale/chien lion.md",
-    "Culture générale/Montez le volume, et rendez-vous au premier virage.md",
-    "Animaux/Shih Tzu.md",
-    "Accroches personnelles/Florian Pinel.md",
     "attachments/Pasted image 20261002105739.png",
     "attachments/Pasted image 20261002105737.png",
     "Culture générale/Sans titre 4.base",

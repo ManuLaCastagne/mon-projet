@@ -6,24 +6,21 @@ superficie: 606
 location: 44.370353,6.0608068
 tags:
   - Géographie
-  - Le_Caire
   - Égypte
-  - Aucun
-
-indice_1 : 
+indice_1:
   - Égypte
-indice_2 : 
+indice_2:
   - fleuve Nil
-indice_3 : 
+indice_3:
   - pyramides de Gizeh
-indice_4 : 
+indice_4:
   - musée égyptien
-indice_5 : 
+indice_5:
   - souk Khan el-Khalili
-indice_6 : 
+indice_6:
   - citadelle de Saladin
 culture_g_score: 100
-culture_g_justification: "Capitale de l’Égypte ancienne et moderne, Le Caire ouvre sur l’histoire, l’archéologie, l’islam, le monde arabe et la géographie africaine."
+culture_g_justification: Capitale de l’Égypte ancienne et moderne, Le Caire ouvre sur l’histoire, l’archéologie, l’islam, le monde arabe et la géographie africaine.
 ---
 ![Image de Le Caire](https://upload.wikimedia.org/wikipedia/commons/4/4f/Blason_Le_Caire.svg)
 
@@ -35,6 +32,8 @@ Dans quelle ville se trouve le [[Musée égyptien]] abritant plus de 120 000 art
 Quelle est la ville qui a accueilli le premier [[métro d'Afrique]] et du [[monde arabe]], inauguré en 1987 ?
 
 Quelle capitale abrite le célèbre [[Bazar de Khan el-Khalili]], un marché datant du XIVe siècle, situé dans un quartier médiéval encore fréquenté aujourd'hui ?
+
+Près de quelle ville importante sont situées les grandes pyramides d'Égypte ?
 
 ###### Description
 
