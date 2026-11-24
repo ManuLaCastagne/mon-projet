@@ -2,8 +2,9 @@
 description: Église de la Madeleine |  Rue Royale |  Place de la Madeleine |  Boulevards des Capucines |  Opéra Garnier |  Galeries Lafayette |
 latitude: 48.8710282
 longitude: 2.3192784
-superficie: tags:
+superficie:
 location: 48.8710282,2.3192784
+tags:
   - Île-de-France
   - France
   - Paris

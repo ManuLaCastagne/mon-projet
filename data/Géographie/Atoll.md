@@ -6,7 +6,8 @@ superficie: 2.12
 location: 19.2969291,166.6255924
 tags:
   - Géographie
-  - |_|
+tags_archives_cm003:
+  - '|_|'
 
 indice_1 : 
   - Anneau de corail

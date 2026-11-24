@@ -14,7 +14,7 @@ indice_1 :
 indice_2 : 
   - dôme emblématique
 indice_3 : 
-  - [[baroque]] anglais
+  - '[[baroque]] anglais'
 indice_4 : 
   - Londres
 indice_5 : 
