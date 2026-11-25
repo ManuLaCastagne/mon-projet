@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "la Leçon de piano"
 tags: 
   - Cinéma
   - Nouvelle-Zélande

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Palais de Schonbrunn"
 tags: 
   - Architecture
   - Vienne

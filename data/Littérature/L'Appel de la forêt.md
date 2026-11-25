@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Appel de la Forêt"
 tags: 
   - Littérature
   - Jack_London

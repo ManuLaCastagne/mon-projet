@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Salvador Aliende"
 tags: 
   - Histoire
   - Chili

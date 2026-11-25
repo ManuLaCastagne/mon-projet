@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Elise Lucet"
 tags: 
   - Télévision
   - France
