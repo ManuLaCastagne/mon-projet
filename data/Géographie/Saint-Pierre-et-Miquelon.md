@@ -34,9 +34,9 @@ culture_g_justification: "Territoire français singulier, utile pour des questio
 
 Quelle collectivité d'outre-mer française est située à seulement 25 kilomètres des côtes du [[Canada]]?
 
-Quel territoire français est le seul vestige de l'[[Empire colonial français]] en [[Amérique du Nord]] ayant été restitué par le [[Traité de Paris]] de 1763?
+Quel archipel, rendu à la France par le traité de Paris de [[1763]], est le dernier territoire français d'[[Amérique du Nord]] ?
 
-Quel archipel français est constitué de deux îles principales, [[Saint-Pierre]] et [[Miquelon-Langlade]], et a une population d'environ 6 000 habitants selon le recensement de 2021?
+Quel archipel français situé au sud de [[Terre-Neuve]] compte un peu moins de 6 000 habitants ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Cet archipel ne compte que deux communes, [[Saint-Pierre]] et [[Miquelon-Langlad
 Un fait étonnant est que [[Saint-Pierre-et-Miquelon]] a été le dernier territoire de l'empire colonial français en Amérique du Nord après la cession de la [[Nouvelle-France]] au Royaume de [[Grande-Bretagne]] en 1763, mais il est revenu brièvement au royaume de France après la Révolution en 1793 avant d'être à nouveau revendiqué par les [[Britanniques]].  
 
 En raison de sa position géographique unique, l'archipel connaît un climat de type boréal, avec des influences maritimes, rendant ses hivers relativement doux et ses étés frais, un contraste surprenant pour une île située aussi près du [[Canada]].
+
+###### Archives questions
+
+Quel archipel français est constitué de deux îles principales, [[Saint-Pierre]] et [[Miquelon-Langlade]], et a une population d'environ 6 000 habitants selon le recensement de 2021? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel territoire français est le seul vestige de l'[[Empire colonial français]] en [[Amérique du Nord]] ayant été restitué par le [[Traité de Paris]] de 1763? <!-- cm003 remplacée 2026-11-23 -->

@@ -30,11 +30,11 @@ culture_g_justification: "Lieu de pèlerinage catholique international, Fatima r
 ![[Carte_Fatima.png]]
 ###### Questions
 
-Quelle est la destination de pèlerinage au Portugal où trois jeunes bergers ont affirmé avoir vu la Vierge Marie en 1917 ?
+Dans quelle localité portugaise trois jeunes bergers affirmèrent-ils avoir vu la Vierge en [[1917]] ?
 
-Dans quelle ville portugaise se déroule chaque année le célèbre pèlerinage en honneur de [[Notre-Dame de Fatima]] le [[13 mai]] et le [[13 octobre]] ?
+Dans quel sanctuaire portugais le pape [[Jean-Paul II]] vint-il remercier la Vierge en mai [[1982]], un an après l'attentat dont il avait réchappé ?
 
-Quel est le nom de la localité située dans la région Centre du [[Portugal]], connue pour son sanctuaire marial internationalement reconnu ?
+Dans quel sanctuaire le pape [[François (pape)|François]] canonisa-t-il en [[2017]] les jeunes voyants Francisco et Jacinta Marto ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ En 1917, trois jeunes bergers, [[Lucia dos Santos]], [[Francisco Marto]], et [[J
 Un fait étonnant est que l'une des prophéties issues de ces apparitions, les « Secrets de Fatima », a été partiellement révélée en 1941 par Lucia dos Santos, contenant des messages sur la Seconde Guerre mondiale et la conversion de la Russie. 
 
 [[Fatima]] est également connue pour sa basilique moderne, la [[Basilique de la Sainte Trinité]], inaugurée en 2007, qui peut accueillir jusqu'à 8 633 personnes, la rendant ainsi l'une des plus grandes églises catholiques du monde.
+
+###### Archives questions
+
+Dans quelle ville portugaise se déroule chaque année le célèbre pèlerinage en honneur de [[Notre-Dame de Fatima]] le [[13 mai]] et le [[13 octobre]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la localité située dans la région Centre du [[Portugal]], connue pour son sanctuaire marial internationalement reconnu ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la destination de pèlerinage au Portugal où trois jeunes bergers ont affirmé avoir vu la Vierge Marie en 1917 ? <!-- cm003 remplacée 2026-11-23 -->

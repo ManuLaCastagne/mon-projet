@@ -29,11 +29,11 @@ culture_g_justification: "Pays africain assez classique, utile pour sa géograph
 
 ###### Questions
 
-Quel est le pays qui a une forêt tropicale appelée [[Réserve du Dja]], classée au patrimoine mondial de l'[[UNESCO]] depuis [[1987]] ?
+Dans quel pays se trouve la réserve de faune du [[Réserve de faune du Dja|Dja]], inscrite au [[patrimoine mondial de l'UNESCO]] en [[1987]] ?
 
-Quel pays africain, à la fois anglophone et francophone, a acheté en [[1972]] une part importante des montagnes de l'[[Adamaoua]], permettant une diversité climatique unique ?
+Quel pays a pour capitale politique [[Yaoundé]] et pour capitale économique [[Douala]] ?
 
-Quel pays abrite le volcan [[Mont Cameroun]], l'un des volcans les plus actifs d'[[Afrique]], qui est entré en éruption pour la dernière fois en [[2012]] ?
+Quel pays d'Afrique centrale est surnommé « l'Afrique en miniature » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Sa capitale politique est [[Yaoundé]], tandis que [[Douala]] est la plus grande
 Sur le plan géographique, le [[Mont Cameroun]] est un gigantesque volcan actif, culminant à 4 095 mètres, ce qui en fait le plus haut sommet d'Afrique centrale. 
 
 Fait étonnant : le [[Lac Nyos]], situé dans la région nord-ouest du Cameroun, a connu en 1986 une éruption limnique meurtrière rare et surprenante, libérant un énorme nuage de dioxyde de carbone et causant la mort de près de 1 700 personnes, un événement unique en son genre.
+
+###### Archives questions
+
+Quel pays abrite le volcan [[Mont Cameroun]], l'un des volcans les plus actifs d'[[Afrique]], qui est entré en éruption pour la dernière fois en [[2012]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le pays qui a une forêt tropicale appelée [[Réserve du Dja]], classée au patrimoine mondial de l'[[UNESCO]] depuis [[1987]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel pays africain, à la fois anglophone et francophone, a acheté en [[1972]] une part importante des montagnes de l'[[Adamaoua]], permettant une diversité climatique unique ? <!-- cm003 remplacée 2026-11-23 -->

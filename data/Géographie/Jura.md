@@ -32,11 +32,11 @@ culture_g_justification: "Nom à plusieurs dimensions géographiques et administ
 ![[Carte_Jura.png]]
 ###### Questions
 
-Quelle région montagneuse française abrite le célèbre massif où le ski de fond est très prisé et qui a donné son nom à un fromage à pâte pressée cuite, le Comté, bénéficiant d'une AOP depuis 1958 ?
+Quel massif montagneux, partagé entre la France et la Suisse, a donné son nom à une période géologique du [[Mésozoïque]] ?
 
-Quel département français, créé en 1790, compte plusieurs sites classés au patrimoine mondial de l'[[UNESCO]], notamment grâce à ses paysages naturels remarquables comme ceux du [[Parc naturel régional du Haut-Jura]] ?
+Dans quel département se trouvent les cascades du [[Hérisson]] ?
 
-Quel département est reconnu pour ses sites préhistoriques tels que les grottes d'[[Aven d'Orgnac]], et est traversé par la [[ligne des Hirondelles]], une voie ferrée inaugurée en 1864 ? <!-- score: 4 -->
+Dans quel département la ligne ferroviaire des Hirondelles franchit-elle une succession de viaducs et de tunnels ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Sa ville principale, [[Lons-le-Saunier]], est non seulement célèbre pour sa so
 Un fait étonnant peu connu est que le [[Lac de Chalain]], situé dans cette région, a été le site de découverte de villages néolithiques submergés, datant d'environ [[4000 av. J.-C.]], ce qui en fait l'un des plus importants vestiges préhistoriques de l'Europe occidentale. 
 
 Le [[Jura]] est également célèbre pour la [[vache montbéliarde]], dont le lait est utilisé dans la fabrication du [[comté]], un fromage d'appellation d'origine contrôlée depuis 1958.
+
+###### Archives questions
+
+Quel département français, créé en 1790, compte plusieurs sites classés au patrimoine mondial de l'[[UNESCO]], notamment grâce à ses paysages naturels remarquables comme ceux du [[Parc naturel régional du Haut-Jura]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle région montagneuse française abrite le célèbre massif où le ski de fond est très prisé et qui a donné son nom à un fromage à pâte pressée cuite, le Comté, bénéficiant d'une AOP depuis 1958 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel département est reconnu pour ses sites préhistoriques tels que les grottes d'[[Aven d'Orgnac]], et est traversé par la [[ligne des Hirondelles]], une voie ferrée inaugurée en 1864 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

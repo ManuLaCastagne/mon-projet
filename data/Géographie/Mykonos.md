@@ -32,11 +32,9 @@ culture_g_justification: "Île grecque très connue du tourisme et de la culture
 ![[Carte_Mykonos.png]]
 ###### Questions
 
-Quel village pittoresque de l'île grecque de [[Mykonos]] a été classé site du patrimoine architectural en 1974 en raison de ses maisons blanches caractéristiques et ses rues étroites ?
+Sur quelle île des [[Cyclades]] se trouve le quartier de la « Petite Venise », aux maisons bâties au ras de l'eau ?
 
-Quel festival annuel attirant des milliers de visiteurs et célébrant la culture LGBT+ se tient sur l'île de [[Mykonos]] depuis 2009 ?
-
-Quelle île des [[Cyclades]], célèbre pour ses moulins à vent datant du [[16e siècle]], est souvent comparée à [[Ibiza]] pour sa vie nocturne animée ?
+Sur quelle île voisine de [[Délos]] les moulins à vent de Kato Mili dominent-ils la ville principale ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Le paysage de [[Mykonos]] est caractérisé par ses maisons blanchies à la chau
 Un fait intéressant et peu connu est que l'île abrite le [[Phare d'Armenistis]], construit en 1891, qui, à l'époque, était l'une des structures les plus avancées technologiquement du type, et mesure 19 mètres de haut. 
 
 [[Mykonos]] se situe à environ 150 kilomètres au sud-est d'[[Athènes]], et cette proximité avec le continent en fait une destination prisée pour les escapades depuis la capitale grecque.
+
+###### Archives questions
+
+Quel village pittoresque de l'île grecque de [[Mykonos]] a été classé site du patrimoine architectural en 1974 en raison de ses maisons blanches caractéristiques et ses rues étroites ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel festival annuel attirant des milliers de visiteurs et célébrant la culture LGBT+ se tient sur l'île de [[Mykonos]] depuis 2009 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle île des [[Cyclades]], célèbre pour ses moulins à vent datant du [[16e siècle]], est souvent comparée à [[Ibiza]] pour sa vie nocturne animée ? <!-- cm003 remplacée 2026-11-23 -->

@@ -33,11 +33,9 @@ culture_g_justification: "Île méditerranéenne française emblématique pour s
 ![[Carte_Porquerolles.png]]
 ###### Questions
 
-Dans quel parc national, créé en 2012, se trouve l'île de [[Porquerolles]] ? <!-- score: 10 -->
+Quelle île, rattachée au [[parc national de Port-Cros]] depuis [[2012]], abrite le Conservatoire botanique national méditerranéen ?
 
 Quelle île, faisant partie des [[Îles d'Hyères]], a été achetée par l'État français en 1971 pour en préserver l'environnement ?
-
-Quel lieu dans le [[Var]] est renommé pour sa combinaison unique de plages, de forêts et de biodiversité méditerranéenne, notamment grâce à l'ouverture d'un jardin de conservation fin 2008 ? <!-- score: 4 -->
 
 ###### Description
 
@@ -48,3 +46,9 @@ Elle a une superficie d'environ 12,54 km² et s'étend sur une longueur de 7,5 k
 Un fait étonnant est que [[Porquerolles]] a été achetée en 1912 par [[François Joseph Fournier]], un milliardaire belge passionné par l'île, qui l'a acquise comme cadeau de mariage pour sa femme; il a planté près de 200 hectares de vignes, ce qui donne naissance à l'un des premiers domaines viticoles de l'île. 
 
 En 1971, un événement marquant s'est produit lorsque l'État français a acquis 80 % de l'île pour protéger son patrimoine naturel, témoignant de son importance écologique.
+
+###### Archives questions
+
+Dans quel parc national, créé en 2012, se trouve l'île de [[Porquerolles]] ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu dans le [[Var]] est renommé pour sa combinaison unique de plages, de forêts et de biodiversité méditerranéenne, notamment grâce à l'ouverture d'un jardin de conservation fin 2008 ? <!-- score: 4 --> <!-- cm003 archivée 2026-11-23 -->

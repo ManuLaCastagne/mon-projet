@@ -32,11 +32,11 @@ culture_g_justification: "Le Bourget est régulièrement cité pour son aéropor
 ![[Carte_Bourget.png]]
 ###### Questions
 
-Dans quelle commune des Hauts-de-Seine se trouve le [[Musée de l'Air et de l'Espace]], inauguré en 1919, associé à l'[[aéroport Paris-Le Bourget]] ?
+Sur quel aérodrome [[Charles Lindbergh]] se posa-t-il le 21 mai [[1927]], au terme de la première traversée de l'Atlantique en solitaire et sans escale ?
 
-Quel est le premier aéroport commercial de [[Paris]], ouvert en 1919, portant le nom de la commune du [[Bourget]] où il est situé ?
+Quel aéroport du nord-est de [[Paris]] fut ouvert au trafic commercial en [[1919]] ?
 
-Quel événement aéronautique majeur a eu lieu au [[Bourget]] depuis 1909, attirant des milliers de visiteurs et des innovations technologiques ?
+Dans quelle commune de [[Seine-Saint-Denis]] s'est tenue en décembre [[2015]] la conférence sur le climat qui a abouti à l'[[accord de Paris sur le climat]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Elle est principalement connue pour abriter l'aéroport [[Paris-Le Bourget]], qu
 Un fait étonnant est qu'en 1927, [[Charles Lindbergh]] atterrit au Bourget après avoir réalisé le premier vol transatlantique sans escale de l'histoire, partant de [[New York]] et couvrant ainsi environ 5 800 kilomètres. 
 
 Aujourd'hui, cet aéroport est dédié aux salons aéronautiques, notamment le célèbre [[Salon international de l'aéronautique et de l'espace de Paris-Le Bourget]], qui est le plus ancien et l'un des plus importants au monde, ayant débuté en 1909.
+
+###### Archives questions
+
+Dans quelle commune des Hauts-de-Seine se trouve le [[Musée de l'Air et de l'Espace]], inauguré en 1919, associé à l'[[aéroport Paris-Le Bourget]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le premier aéroport commercial de [[Paris]], ouvert en 1919, portant le nom de la commune du [[Bourget]] où il est situé ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel événement aéronautique majeur a eu lieu au [[Bourget]] depuis 1909, attirant des milliers de visiteurs et des innovations technologiques ? <!-- cm003 remplacée 2026-11-23 -->

@@ -30,12 +30,20 @@ culture_g_justification: "Capitale du Maghreb régulièrement mobilisée en géo
 ![[Carte_Alger.png]]
 ###### Questions
 
-Quelle ville a été le site des [[Jeux Méditerranéens]] en 1975, marquant la première fois que cet événement sportif se tenait en [[Afrique]] ? 
+Quelle ville accueillit les [[Jeux méditerranéens]] de [[1975]] ?
 
-Avec quelles caractéristiques géographiques uniques, [[Alger]] est-elle souvent décrite comme la ville aux [[blanches collines]] surplombant la [[Méditerranée]] ?
+Quelle capitale du Maghreb est surnommée « la Blanche » ?
 
-Quelle ville a été touchée par le célèbre tremblement de terre de 1716, entrainant la reconstruction de plusieurs quartiers historiques ?
+Dans quelle ville la [[Casbah]] est-elle inscrite au [[patrimoine mondial de l'UNESCO]] depuis [[1992]] ?
 
 ###### Description
 
 [[Alger]], la capitale de l'[[Algérie]], est située sur la côte méditerranéenne et constitue le principal centre politique, économique et culturel du pays. Fondée par les Phéniciens au Xe siècle avant Jésus-Christ, elle a vu passer dans ses murs de nombreuses civilisations. La ville est célèbre pour sa [[Casbah]], un site classé au patrimoine mondial de l'[[UNESCO]] depuis 1992, qui est un labyrinthe de ruelles étroites et de maisons blanchies à la chaux datant de l'époque ottomane. [[Alger]] joue aussi un rôle historique important, car elle a été le cœur de la résistance pendant la guerre d'indépendance de l'[[Algérie]] contre la France, d'1954 à 1962.
+
+###### Archives questions
+
+Avec quelles caractéristiques géographiques uniques, [[Alger]] est-elle souvent décrite comme la ville aux [[blanches collines]] surplombant la [[Méditerranée]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a été le site des [[Jeux Méditerranéens]] en 1975, marquant la première fois que cet événement sportif se tenait en [[Afrique]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a été touchée par le célèbre tremblement de terre de 1716, entrainant la reconstruction de plusieurs quartiers historiques ? <!-- cm003 remplacée 2026-11-23 -->

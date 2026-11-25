@@ -28,11 +28,11 @@ culture_g_justification: "Région française très riche en histoire, préhistoi
 
 ###### Questions
 
-Quelle région française est connue pour ses célèbres truffes noires et ses nombreux châteaux, dont le Château de [[Beynac]] qui a été le décor de nombreux films?
+Dans quelle province historique, terre de truffes noires, le château de [[Beynac]] domine-t-il la vallée de la Dordogne ?
 
-Dans quelle région trouve-t-on l'empreinte préhistorique laissée dans la grotte de [[Lascaux]], découverte en [[1940]], abritant des peintures datant de près de [[17 000]] ans?
+Dans quelle province historique la grotte ornée de [[Lascaux]] a-t-elle été découverte en septembre [[1940]] ?
 
-Quel territoire, historiquement divisé en quatre couleurs, est reconnu pour sa gastronomie exceptionnelle et ses paysages vallonnés, et dont l'une des divisions est le [[Périgord noir]]?
+Quelle province française est traditionnellement divisée en quatre zones de couleur : noire, blanche, verte et pourpre ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Divisé en quatre parties colorées : le [[Périgord Vert]], [[Périgord Blanc]]
 Fait étonnant, le [[Périgord]] héberge la plus grande densité de manoirs de France ; avec plus de 1 000 châteaux, il est surnommé le "pays des 1 001 châteaux". 
 
 Ce terroir a vu passer de nombreux personnages historiques, y compris [[Aliénor d'Aquitaine]], une figure clé du XIIe siècle, qui a profondément influencé l'architecture et la culture locale.
+
+###### Archives questions
+
+Quel territoire, historiquement divisé en quatre couleurs, est reconnu pour sa gastronomie exceptionnelle et ses paysages vallonnés, et dont l'une des divisions est le [[Périgord noir]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle région française est connue pour ses célèbres truffes noires et ses nombreux châteaux, dont le Château de [[Beynac]] qui a été le décor de nombreux films? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle région trouve-t-on l'empreinte préhistorique laissée dans la grotte de [[Lascaux]], découverte en [[1940]], abritant des peintures datant de près de [[17 000]] ans? <!-- cm003 remplacée 2026-11-23 -->

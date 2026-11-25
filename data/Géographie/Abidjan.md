@@ -32,11 +32,11 @@ culture_g_justification: "Grande métropole et capitale économique ivoirienne, 
 ![[Carte_Abidjan.png]]
 ###### Questions
 
-Dans quelle ville d'Afrique de l'Ouest se trouve le port qui était en 2022 le plus achalandé de toute la région ? <!-- score: 5 -->
+Quelle capitale économique ivoirienne est bâtie sur les rives de la lagune Ébrié ?
 
 Quelle ville a été la capitale de la [[Côte d'Ivoire]] de 1933 à 1983 avant que [[Yamoussoukro]] ne la remplace officiellement ?
 
-Dans quelle ville peut-on trouver la remarquable architecture contemporaine de la [[Pyramide d'Abidjan]], construite en 1973 ?
+Quelle ville ivoirienne accueille depuis [[1993]] le Marché des arts du spectacle africain (MASA) ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Située sur la côte Atlantique, en bordure de la lagune [[Ébrié]], la ville s
 Un fait étonnant sur Abidjan est son [[Pont Henri Konan Bédié]], inauguré en 2014, qui est actuellement l'un des plus longs ponts à haubans en Afrique de l’Ouest. 
 
 Enfin, Abidjan est réputée pour son marché de Treichville ouvert en 1956, un lieu animé où se mêlent senteurs d'épices et artisanat local, attirant locaux et touristes en quête d'authenticité.
+
+###### Archives questions
+
+Dans quelle ville peut-on trouver la remarquable architecture contemporaine de la [[Pyramide d'Abidjan]], construite en 1973 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville d'Afrique de l'Ouest se trouve le port qui était en 2022 le plus achalandé de toute la région ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->

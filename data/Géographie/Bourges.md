@@ -32,11 +32,11 @@ culture_g_justification: "Bourges est un repère français grâce à sa cathédr
 ![[Carte_Bourges.png]]
 ###### Questions
 
-Dans quelle ville française la [[Cathédrale Saint-Étienne de Bourges]], inscrite au [[Patrimoine mondial de l'UNESCO]] depuis 1992, se situe-t-elle ?
+Dans quelle ville du [[Cher (département)|Cher]] la cathédrale Saint-Étienne est-elle inscrite au [[patrimoine mondial de l'UNESCO]] depuis [[1992]] ?
 
 Quelle ville abrite le [[Palais Jacques-Cœur]], un exemple magnifique de l'architecture civile flamboyante, construit au milieu du [[XVe siècle]] ?
 
-Dans quelle ville française la géographie est-elle unique au centre même du pays, rendant hommage à son statut de cœur historique et moderne de la France ?
+Quelle ville du [[Berry]] accueille chaque printemps depuis [[1977]] un grand festival de musiques actuelles ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ La ville est célèbre pour sa majestueuse [[Cathédrale Saint-Étienne]], class
 Un fait étonnant à propos de Bourges est qu'elle abrite le marais de l'[[Yèvre]] et de la [[Voiselle]], un espace naturel unique composé de nombreux canaux, qui couvre quelque 135 hectares en plein centre-ville, une rareté en Europe. 
 
 En 1487, [[Jacques Cœur]], grand argentier de [[Charles VII]], avait pour résidence le somptueux Palais Jacques Cœur, illustrant ainsi l'importance économique et culturelle de Bourges à l'époque médiévale.
+
+###### Archives questions
+
+Dans quelle ville française la [[Cathédrale Saint-Étienne de Bourges]], inscrite au [[Patrimoine mondial de l'UNESCO]] depuis 1992, se situe-t-elle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française la géographie est-elle unique au centre même du pays, rendant hommage à son statut de cœur historique et moderne de la France ? <!-- cm003 remplacée 2026-11-23 -->

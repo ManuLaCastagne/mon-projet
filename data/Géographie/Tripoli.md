@@ -33,10 +33,16 @@ culture_g_justification: "Tripoli est une capitale et un repère historique méd
 
 Quelle ville, fondée au [[VIIe siècle av. J.-C.]] sous le nom de [[Oea]] par les [[Phéniciens]], est aujourd'hui la capitale de la [[Libye]] ? 
 
-Dans quelle ville, située sur la côte nord-est du continent africain, a eu lieu en 1943 la [[Bataille de Tripoli]] pendant la [[Seconde Guerre mondiale]] ? 
+Quelle ville libyenne la 8e armée britannique prit-elle le 23 janvier [[1943]] ?
 
-Quelle ville, bien que son nom signifie "trois villes" en grec, n'est pas réellement composée de trois villes distinctes comme pourrait le suggérer son étymologie ?
+Quelle capitale doit son nom grec, « trois villes », à l'ensemble formé par Oea, Sabratha et [[Leptis Magna]] ?
 
 ###### Description
 
 [[Tripoli]] est la capitale de la [[Libye]] et se situe dans le nord-ouest du pays, sur la côte méditerranéenne. Fondée par les [[Phéniciens]] au VIIe siècle av. J.-C., elle est devenue une ville d'importance sous le règne de l'Empire [[Romain]] au Ier siècle av. J.-C. Tripoli est célèbre pour avoir été le centre de la résistance contre l'occupation italienne entre 1911 et 1951, année où la Libye a obtenu son indépendance. La ville est également connue pour son architecture islamique, notamment la [[Mosquée Gurgi]], construite en 1834, qui est un exemple remarquable de l'art ottoman.
+
+###### Archives questions
+
+Dans quelle ville, située sur la côte nord-est du continent africain, a eu lieu en 1943 la [[Bataille de Tripoli]] pendant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville, bien que son nom signifie "trois villes" en grec, n'est pas réellement composée de trois villes distinctes comme pourrait le suggérer son étymologie ? <!-- cm003 remplacée 2026-11-23 -->
