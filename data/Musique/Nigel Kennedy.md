@@ -29,9 +29,7 @@ culture_g_justification: "Violoniste classique populaire grâce à Vivaldi, mais
 
 ###### Questions
 
-En quelle année [[Nigel Kennedy]] a-t-il été reconnu comme l'un des violonistes les plus vendus de tous les temps grâce à son enregistrement des [[Quatre Saisons]] de [[Vivaldi]] ?
-
-Quel est le violoniste britannique qui a collaboré avec le légendaire groupe de rock [[The Who]] lors de leur concert au [[Royal Albert Hall]] en 1999 ? <!-- score: 4 -->
+Quel violoniste britannique a vendu plus de deux millions d'exemplaires de son enregistrement des « Quatre Saisons » de [[Antonio Vivaldi|Vivaldi]], paru en 1989 ?
 
 Quel musicien célèbre a fréquenté la [[Yehudi Menuhin School]] avant de continuer ses études à la [[Juilliard School]] à [[New York]] sous la tutelle de [[Dorothy DeLay]] ?
 
@@ -44,3 +42,9 @@ Il s'est illustré notamment grâce à son enregistrement des "Quatre Saisons" d
 Toujours original et souvent excentrique, [[Nigel Kennedy]] a étudié à la [[Juilliard School]] à New York sous la direction de [[Dorothy DeLay]], avant de se forger une carrière unique en mêlant classique, jazz et rock. 
 
 Fait surprenant, son interprétation des "Quatre Saisons" en 1989 a dépassé les trois millions d'exemplaires vendus, question idéale pour un quiz télévisé sur les records de ventes de musique classique.
+
+###### Archives questions
+
+En quelle année [[Nigel Kennedy]] a-t-il été reconnu comme l'un des violonistes les plus vendus de tous les temps grâce à son enregistrement des [[Quatre Saisons]] de [[Vivaldi]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le violoniste britannique qui a collaboré avec le légendaire groupe de rock [[The Who]] lors de leur concert au [[Royal Albert Hall]] en 1999 ? <!-- score: 4 --> <!-- cm003 archivée 2026-11-23 -->

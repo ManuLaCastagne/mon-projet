@@ -29,11 +29,11 @@ culture_g_justification: "Chanteuse pop très connue depuis Born to Die, mais su
 
 ###### Questions
 
-En quelle année [[Lana Del Rey]] a-t-elle sorti son album à succès [[Born to Die]] ?
+Quelle chanteuse a sorti en 2012 l'album « Born to Die », qui contient « Video Games » ?
 
-Quel est le nom de naissance de [[Lana Del Rey]], l'artiste américaine connue pour son style cinématographique ?
+Quelle chanteuse américaine est née Elizabeth Woolridge Grant ?
 
-Dans quelle ville [[Lana Del Rey]] est-elle née en 1985 ? <!-- score: 10 -->
+Quelle chanteuse a écrit « Young and Beautiful » pour le film « Gatsby le Magnifique » de [[Baz Luhrmann]] en 2013 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Son album "Born to Die", sorti en 2012, s'est vendu à plus de 7 millions d'exem
 Fait peu connu, elle a débuté sa carrière sous le pseudonyme de [[Lizzy Grant]] en 2008, avant de se faire mondialement connaitre sous le nom de [[Lana Del Rey]].
 
 En 2014, elle a établi un record en devenant la première artiste féminine à avoir un album (''Ultraviolence'') et un single (''West Coast'') simultanément en première position des charts britanniques.
+
+###### Archives questions
+
+En quelle année [[Lana Del Rey]] a-t-elle sorti son album à succès [[Born to Die]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de naissance de [[Lana Del Rey]], l'artiste américaine connue pour son style cinématographique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville [[Lana Del Rey]] est-elle née en 1985 ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->

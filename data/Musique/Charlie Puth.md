@@ -29,11 +29,9 @@ culture_g_justification: "Chanteur pop contemporain reconnaissable par See You A
 
 ###### Questions
 
-En quelle année [[Charlie Puth]] a-t-il sorti sa première chanson à succès, "[[See You Again]]", en collaboration avec [[Wiz Khalifa]], pour la bande originale du film "[[Fast and Furious 7]]"? 
+Quel chanteur a écrit et chanté le refrain de « [[See You Again]] » avec [[Wiz Khalifa]], hommage à [[Paul Walker]] en 2015 ?
 
-Quel événement inattendu concernant ses cordes vocales a poussé [[Charlie Puth]] à annuler une partie de sa tournée mondiale en 2016?
-
-En 2011, quel fait surprenant a permis à [[Charlie Puth]] de devenir célèbre après sa participation à un concours en ligne organisé par [[Perez Hilton]]?
+Quel chanteur fut repéré en 2011 par [[Ellen DeGeneres]], qui le fit signer sur son label après une reprise de « Someone Like You » ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Un fait étonnant à propos de [[Charlie Puth]] est qu'il possède une oreille a
 Avant de devenir célèbre, il a débuté sur [[YouTube]] en 2009 avec sa chaîne intitulée « Charlie's Vlogs », où il postait des reprises de chansons populaires. 
 
 En 2015, il a également sorti son premier single solo « Marvin Gaye », en duo avec [[Meghan Trainor]], qui a rapidement atteint la première place des charts au Royaume-Uni.
+
+###### Archives questions
+
+En quelle année [[Charlie Puth]] a-t-il sorti sa première chanson à succès, "[[See You Again]]", en collaboration avec [[Wiz Khalifa]], pour la bande originale du film "[[Fast and Furious 7]]"? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel événement inattendu concernant ses cordes vocales a poussé [[Charlie Puth]] à annuler une partie de sa tournée mondiale en 2016? <!-- cm003 archivée 2026-11-23 -->
+
+En 2011, quel fait surprenant a permis à [[Charlie Puth]] de devenir célèbre après sa participation à un concours en ligne organisé par [[Perez Hilton]]? <!-- cm003 remplacée 2026-11-23 -->

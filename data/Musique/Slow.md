@@ -29,11 +29,7 @@ culture_g_justification: "Le slow est une catégorie familière de danse et de c
 
 ###### Questions
 
-Quel est le titre de la chanson interprétée par [[Kylie Minogue]] qui a été un succès en 2002 et qui commence par "Kiss me"?
-
-Quelle chanson [[R&B]] de 2017 propulsée par [[iTunes]] doit son succès en ligne à un artiste du nom de [[R.LUM.R]]?
-
-Quelle chanson de [[ballade]] sortie en 1976 et enregistrée par le groupe de [[rock]] britannique [[Status Quo]] est intitulée avec le mot "Slow"?
+Quel titre de [[Kylie Minogue]], numéro un au Royaume-Uni en 2003, porte le nom d'une danse lente ?
 
 ###### Description
 
@@ -42,3 +38,11 @@ La musique slow, apparue dans les années 1950, est un genre musical prisé pour
 Fait étonnant, le slow "Unchained Melody" des [[Righteous Brothers]], bien que sorti initialement en 1965, a connu une résurgence spectaculaire en 1990 grâce au film [[Ghost]], atteignant les sommets des charts dans plusieurs pays.
 
 Un record notable est détenu par [[Chris de Burgh]], dont la chanson "The Lady in Red" sortie en 1986 est devenue l'un des slows les plus emblématiques et vendus de tous les temps, renforçant sa popularité à travers les décennies.
+
+###### Archives questions
+
+Quelle chanson de [[ballade]] sortie en 1976 et enregistrée par le groupe de [[rock]] britannique [[Status Quo]] est intitulée avec le mot "Slow"? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle chanson [[R&B]] de 2017 propulsée par [[iTunes]] doit son succès en ligne à un artiste du nom de [[R.LUM.R]]? <!-- cm003 archivée 2026-11-23 -->
+
+Quel est le titre de la chanson interprétée par [[Kylie Minogue]] qui a été un succès en 2002 et qui commence par "Kiss me"? <!-- cm003 remplacée 2026-11-23 -->

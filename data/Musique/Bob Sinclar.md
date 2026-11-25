@@ -29,11 +29,11 @@ culture_g_justification: "DJ français connu internationalement pour quelques tu
 
 ###### Questions
 
-Quel DJ français, célèbre pour ses morceaux de [[house music]], a adopté le nom de scène [[Bob Sinclar]] en 1998, s'inspirant d'un personnage de film joué par [[Jean-Paul Belmondo]] ?
+Quel DJ français a pris un nom de scène inspiré de l'espion Bob Saint-Clar, joué par [[Jean-Paul Belmondo]] dans « [[Le Magnifique]] » ?
 
-Quel artiste, connu pour son hit mondial "[[Love Generation]]" sorti en 2005, est également une figure emblématique du label [[Yellow Productions]] ?
+Quel DJ a cofondé le label Yellow Productions et signé « [[Love Generation]] » en 2005 ?
 
-Quel DJ a collaboré avec [[Raffaella Carrà]] pour remixer le célèbre titre "[[Far l'Amore]]" en 2011, ce qui a relancé l'intérêt pour ce classique disco ?
+Quel DJ a remixé avec [[Raffaella Carrà]] « Far l'amore » en 2011 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Sa carrière prend un tournant décisif en 1998 avec la sortie de l'album "Parad
 Un fait étonnant à propos de [[Bob Sinclar]] est qu'il a réalisé le record du set DJ le plus haut du monde, joué en 2017 à 5 500 mètres d'altitude au [[Népal]], sur le camp de base de l'Everest, un exploit hors norme pour un artiste de [[musique électronique]]. 
 
 De nombreux succès comme "World, Hold On" en 2006 et "Love Generation" en 2005 ont affermi sa notoriété, lui permettant de collaborer avec des artistes internationaux de renom.
+
+###### Archives questions
+
+Quel DJ français, célèbre pour ses morceaux de [[house music]], a adopté le nom de scène [[Bob Sinclar]] en 1998, s'inspirant d'un personnage de film joué par [[Jean-Paul Belmondo]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste, connu pour son hit mondial "[[Love Generation]]" sorti en 2005, est également une figure emblématique du label [[Yellow Productions]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel DJ a collaboré avec [[Raffaella Carrà]] pour remixer le célèbre titre "[[Far l'Amore]]" en 2011, ce qui a relancé l'intérêt pour ce classique disco ? <!-- cm003 remplacée 2026-11-23 -->

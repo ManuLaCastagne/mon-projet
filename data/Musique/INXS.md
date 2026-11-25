@@ -29,12 +29,20 @@ culture_g_justification: "Groupe australien associé à plusieurs tubes internat
 
 ###### Questions
 
-En quelle année le groupe [[INXS]] a-t-il sorti l'album à succès [[Kick]], qui contenait des hits tels que [[Need You Tonight]] et [[Never Tear Us Apart]] ?
+Quel groupe australien a sorti en 1987 l'album « Kick », avec « Need You Tonight » ?
 
-Quel événement tristement célèbre a marqué l'année 1997 pour le groupe [[INXS]] et a affecté leur carrière de manière significative ?
+Quel groupe a perdu son chanteur [[Michael Hutchence]], retrouvé mort dans un hôtel de [[Sydney]] en novembre 1997 ?
 
-Dans quel pays le groupe [[INXS]] a-t-il vu le jour en 1977, se positionnant rapidement comme un emblème du rock new wave et alternatif des années 80 et 90 ?
+Quel groupe australien doit son nom à un jeu de mots sur l'expression anglaise « in excess » ?
 
 ###### Description
 
 [[INXS]] est un groupe de rock australien formé en 1977 à Sydney, connu pour sa musique énergique entremêlant rock, new wave et funk. Leur album phare, [[Kick]], sorti en 1987, a propulsé le groupe au rang de vedettes internationales, incluant des hits emblématiques comme "Need You Tonight" et "New Sensation". Un fait étonnant à propos de [[INXS]] est qu'ils ont réussi à classer leur single "Need You Tonight" en tête du Billboard Hot 100 aux États-Unis en 1988, une performance assez rare pour un groupe australien à cette époque. Malgré la tragique disparition de leur charismatique leader [[Michael Hutchence]] en 1997, [[INXS]] a continué à laisser une empreinte durable dans l'industrie musicale mondiale.
+
+###### Archives questions
+
+En quelle année le groupe [[INXS]] a-t-il sorti l'album à succès [[Kick]], qui contenait des hits tels que [[Need You Tonight]] et [[Never Tear Us Apart]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel événement tristement célèbre a marqué l'année 1997 pour le groupe [[INXS]] et a affecté leur carrière de manière significative ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel pays le groupe [[INXS]] a-t-il vu le jour en 1977, se positionnant rapidement comme un emblème du rock new wave et alternatif des années 80 et 90 ? <!-- cm003 remplacée 2026-11-23 -->

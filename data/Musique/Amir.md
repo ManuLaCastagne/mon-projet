@@ -31,9 +31,9 @@ culture_g_justification: "Amir est une personnalité récente de la chanson fran
 
 Quel chanteur franco-israélien a représenté la France au [[Concours Eurovision de la chanson]] en 2016 avec la chanson "[[J'ai cherché]]" ?
 
-Quel artiste, dont le véritable nom est [[Laurent Amir Khlifa Khedider Haddad]], a été finaliste de l'émission [[The Voice]]: la plus belle voix en 2014 ?
+Quel chanteur franco-israélien, dentiste de formation, s'est révélé dans « The Voice » en 2014 ?
 
-Quel chanteur a reçu l'[[Étoile Chérie FM de la chanson Française]] pour son titre "[[Les Rues de ma peine]]" en 2018 ?
+Quel chanteur a sorti en 2017 l'album « Addictions », porté par « On dirait » ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Né en 1984, il a également représenté la France au [[Concours Eurovision de 
 Ce qui est étonnant, c'est qu'[[Amir]] est également diplômé en chirurgie dentaire, un fait peu connu qui pourrait surprendre ceux qui ne connaissent que sa carrière musicale.  
 
 En 2017, il a été récompensé par le [[NRJ Music Award]] de l'artiste masculin francophone de l'année, confirmant ainsi sa place parmi les artistes populaires de la scène musicale française contemporaine.
+
+###### Archives questions
+
+Quel artiste, dont le véritable nom est [[Laurent Amir Khlifa Khedider Haddad]], a été finaliste de l'émission [[The Voice]]: la plus belle voix en 2014 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur a reçu l'[[Étoile Chérie FM de la chanson Française]] pour son titre "[[Les Rues de ma peine]]" en 2018 ? <!-- cm003 remplacée 2026-11-23 -->

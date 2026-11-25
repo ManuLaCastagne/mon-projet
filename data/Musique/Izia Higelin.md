@@ -29,11 +29,11 @@ culture_g_justification: "Artiste française contemporaine identifiable par sa f
 
 ###### Questions
 
-Quel album d'[[Izia Higelin]] a remporté le [[Victoires de la musique]] dans la catégorie album rock de l'année en 2010 ?
+Quelle chanteuse a remporté en 2010 la Victoire de la musique de l'album rock avec son premier disque ?
 
-Quelle artiste française, ayant débuté sa carrière musicale à l'âge de 16 ans, est la fille du célèbre chanteur [[Jacques Higelin]] et de la danseuse [[Aziza Zakine]] ?
+Quelle chanteuse est la fille de l'interprète de « Champagne » et la demi-sœur d'[[Arthur H]] ?
 
-En 2015, quelle chanteuse a joué le rôle de [[Camille Claudel]] dans le film biographique [[La Danseuse]] aux côtés de [[Soko]] ?
+Quelle chanteuse a incarné [[Camille Claudel]] face à [[Vincent Lindon]] dans « Rodin » en 2017 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a sorti son premier album éponyme en 2009, qui a été salué par la criti
 Fait peu connu : dès l'âge de 16 ans, [[Izia]] s'est produite aux [[Trans Musicales]] de [[Rennes]], en 2006, un festival renommé qui a lancé les carrières de nombreux artistes. 
 
 Sa voix puissante et sa présence scénique ont souvent été comparées à celles de [[Janis Joplin]], ce qui lui a valu une réputation de véritable bête de scène.
+
+###### Archives questions
+
+Quel album d'[[Izia Higelin]] a remporté le [[Victoires de la musique]] dans la catégorie album rock de l'année en 2010 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle artiste française, ayant débuté sa carrière musicale à l'âge de 16 ans, est la fille du célèbre chanteur [[Jacques Higelin]] et de la danseuse [[Aziza Zakine]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2015, quelle chanteuse a joué le rôle de [[Camille Claudel]] dans le film biographique [[La Danseuse]] aux côtés de [[Soko]] ? <!-- cm003 remplacée 2026-11-23 -->

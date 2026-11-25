@@ -29,11 +29,9 @@ culture_g_justification: "Régine constitue une référence de la chanson et de 
 
 ###### Questions
 
-Quel est le véritable nom de naissance de [[Régine]], la célèbre chanteuse et femme d'affaires née en 1940 ?
+Quelle reine des nuits parisiennes est née Régina Zylberberg en 1929 ?
 
-Quel artiste a popularisé en 1968 la chanson "Les p'tits papiers", écrite par [[Serge Gainsbourg]] ?
-
-Quelle chanteuse est connue pour avoir ouvert le premier club disco en 1960 à Paris, nommé le "[[Chez Régine]]" ?
+Quelle chanteuse a créé en 1965 « Les P'tits Papiers », écrite par [[Serge Gainsbourg]] ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Elle est souvent surnommée la "Reine de la Nuit" pour avoir fondé et dirigé p
 En plus de sa carrière dans la nuit, Régine a une discographie prolifique avec des chansons mémorables comme "La grande Zoa," sortie en 1966, qui la propulse sur le devant de la scène musicale française. 
 
 Un fait étonnant peu connu est que Régine détient le record du plus grand nombre de succursales de discothèques ouvertes par une seule personne au cours de son vivant, atteignant plus d'une vingtaine de clubs à travers le monde, une initiative exceptionnelle pour l'époque.
+
+###### Archives questions
+
+Quel est le véritable nom de naissance de [[Régine]], la célèbre chanteuse et femme d'affaires née en 1940 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanteuse est connue pour avoir ouvert le premier club disco en 1960 à Paris, nommé le "[[Chez Régine]]" ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel artiste a popularisé en 1968 la chanson "Les p'tits papiers", écrite par [[Serge Gainsbourg]] ? <!-- cm003 remplacée 2026-11-23 -->

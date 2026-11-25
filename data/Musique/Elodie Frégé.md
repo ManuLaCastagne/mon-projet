@@ -29,11 +29,9 @@ culture_g_justification: "Candidate connue de la Star Academy, mais sa carrière
 
 ###### Questions
 
-Dans quelle saison de [[Star Academy]] diffusée en 2003 [[Elodie Frégé]] a-t-elle remporté le titre de gagnante ?
+Quelle chanteuse a remporté la troisième saison de la « [[Star Academy]] » en 2003 ?
 
-Quel album studio d'[[Elodie Frégé]], sorti en 2007, comprend le single "La ceinture" devenu célèbre ?
-
-Dans quel film de [[Christophe Barratier]] de 2017 [[Elodie Frégé]] fait-elle ses débuts au cinéma en jouant le rôle de [[Lola Zipper]] ?
+Quelle chanteuse a interprété en 2006 « La Ceinture », écrite par [[Benjamin Biolay]] ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Après sa victoire, elle sort son premier album éponyme en 2004, qui inclut le 
 Fait intéressant et peu connu, lors de sa participation à [[Star Academy]], elle avait initialement intégré le show sans l'objectif de gagner, cherchant principalement à se faire recon­naître dans le milieu musical.
 
 En plus de sa carrière musicale, [[Élodie Frégé]] s'est diversifiée en devenant jurée dans l’émission "Nouvelle Star" en 2014, et elle explore également le domaine de la comédie.
+
+###### Archives questions
+
+Dans quelle saison de [[Star Academy]] diffusée en 2003 [[Elodie Frégé]] a-t-elle remporté le titre de gagnante ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album studio d'[[Elodie Frégé]], sorti en 2007, comprend le single "La ceinture" devenu célèbre ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de [[Christophe Barratier]] de 2017 [[Elodie Frégé]] fait-elle ses débuts au cinéma en jouant le rôle de [[Lola Zipper]] ? <!-- cm003 archivée 2026-11-23 -->

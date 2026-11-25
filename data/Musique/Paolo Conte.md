@@ -29,11 +29,9 @@ culture_g_justification: "Auteur-compositeur italien original, reconnu pour son 
 
 ###### Questions
 
-Dans quelle chanson sortie en 1981, le musicien italien [[Paolo Conte]] raconte-t-il l'histoire d'un ancien boxeur en s'inspirant des ambiances de [[Nouvelle-Orléans]] ?
+Quel chanteur italien d'[[Asti]] a exercé le métier d'avocat avant de se consacrer à la musique ?
 
-Quel artiste, connu pour son mélange unique de jazz, blues et chanson italienne, a exercé la profession d'avocat à partir de 1962 avant de se consacrer pleinement à la musique ?
-
-Quel compositeur et interprète italien a signé un contrat avec [[RCA Records]] en 1974, lançant ainsi sa carrière musicale professionnelle ?
+Quel auteur-compositeur italien a coécrit la musique d'« Azzurro », succès d'[[Adriano Celentano]] en 1968 ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Avant de devenir une icône de la musique, [[Paolo Conte]] a d'abord exercé en 
 C'est en 1974 que [[Paolo Conte]] sort son premier album éponyme, début d'une carrière qui le verra devenir l'un des artistes italiens les plus influents à l'international. 
 
 Un fait étonnant peu connu est que durant sa carrière, il a été nominé pour un Grammy Award en 2001, un rare honneur pour un artiste italien chantant principalement en italien.
+
+###### Archives questions
+
+Dans quelle chanson sortie en 1981, le musicien italien [[Paolo Conte]] raconte-t-il l'histoire d'un ancien boxeur en s'inspirant des ambiances de [[Nouvelle-Orléans]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel artiste, connu pour son mélange unique de jazz, blues et chanson italienne, a exercé la profession d'avocat à partir de 1962 avant de se consacrer pleinement à la musique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel compositeur et interprète italien a signé un contrat avec [[RCA Records]] en 1974, lançant ainsi sa carrière musicale professionnelle ? <!-- cm003 remplacée 2026-11-23 -->

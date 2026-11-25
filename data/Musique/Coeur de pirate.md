@@ -29,11 +29,9 @@ culture_g_justification: "Artiste québécoise connue dans la francophonie grâc
 
 ###### Questions
 
-Quel artiste québécois, connu sous le nom de scène [[Coeur de pirate]], a sorti son premier album éponyme en 2008, lui valant une reconnaissance internationale ?
+Quelle chanteuse québécoise, de son vrai nom Béatrice Martin, a sorti en 2008 un premier album avec « Comme des enfants » ?
 
-Quel musicien, connu en tant que [[Coeur de pirate]], a collaboré avec [[Jay Malinowski]] du groupe [[Bedouin Soundclash]] pour former le projet musical [[Armistice]] en 2011 ?
-
-Quel chanteur et compositeur, connu sous le pseudonyme [[Coeur de pirate]], a été nommé aux [[Victoires de la Musique]] en 2010 pour l'album de chanson ou de variétés de l'année ?
+Quelle chanteuse québécoise a formé en 2011 le duo Armistice avec Jay Malinowski ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Elle a connu un succès fulgurant avec son premier album éponyme sorti en 2008,
 Fait surprenant, [[Cœur de pirate]] a enregistré l'album en seulement dix jours, un exploit qui témoigne de son incroyable talent musical et de sa créativité débordante. 
 
 En 2019, elle a marqué l'histoire en devenant la première femme à composer la musique de la série québécoise à succès "[[Les Pays d'en haut]]".
+
+###### Archives questions
+
+Quel artiste québécois, connu sous le nom de scène [[Coeur de pirate]], a sorti son premier album éponyme en 2008, lui valant une reconnaissance internationale ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien, connu en tant que [[Coeur de pirate]], a collaboré avec [[Jay Malinowski]] du groupe [[Bedouin Soundclash]] pour former le projet musical [[Armistice]] en 2011 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur et compositeur, connu sous le pseudonyme [[Coeur de pirate]], a été nommé aux [[Victoires de la Musique]] en 2010 pour l'album de chanson ou de variétés de l'année ? <!-- cm003 archivée 2026-11-23 -->

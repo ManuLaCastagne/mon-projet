@@ -29,11 +29,7 @@ culture_g_justification: "Le groupe britannique est une référence musicale des
 
 ###### Questions
 
-Quel est le titre de la chanson du groupe de musique [[Brian Wilson]] sortie en 2012 qui incite à "utiliser" une certaine capacité mentale pour transformer la réalité ?
-
-Quel album du groupe [[Imagination (band)]] a été un grand succès en 1981, notamment grâce au tube "Just an Illusion" ?
-
-Quel concept, mis en avant par [[John Lennon]] dans sa célèbre chanson sortie en 1971, invite à visualiser un monde idéal sans frontières, ni possessions ?
+Quel trio britannique mené par [[Leee John]] a percé en 1981 avec « Body Talk » ?
 
 ###### Description
 
@@ -44,3 +40,11 @@ Le trio composé de [[Leee John]], [[Ashley Ingram]] et [[Errol Kennedy]] a conn
 Un fait étonnant à propos d'[[Imagination]] est que leur single "[[Just an Illusion]]", sorti en 1982, a été utilisé dans plus de 20 films et publicités à travers le monde, ce qui est un record pour un groupe britannique de leur époque. 
 
 En 1989, le groupe s'est séparé, mais [[Leee John]] a continué à utiliser le nom [[Imagination]] pour des tournées et des projets solos, maintenant ainsi la légende du groupe vivante pour les générations futures.
+
+###### Archives questions
+
+Quel album du groupe [[Imagination (band)]] a été un grand succès en 1981, notamment grâce au tube "Just an Illusion" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre de la chanson du groupe de musique [[Brian Wilson]] sortie en 2012 qui incite à "utiliser" une certaine capacité mentale pour transformer la réalité ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel concept, mis en avant par [[John Lennon]] dans sa célèbre chanson sortie en 1971, invite à visualiser un monde idéal sans frontières, ni possessions ? <!-- cm003 archivée 2026-11-23 -->

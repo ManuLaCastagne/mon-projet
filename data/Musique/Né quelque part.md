@@ -29,11 +29,9 @@ culture_g_justification: "Chanson connue de Maxime Le Forestier portant un thèm
 
 ###### Questions
 
-Quel titre de [[Maxime Le Forestier]], sorti en 1988, aborde le thème de l'appartenance ?
+Quelle chanson de [[Maxime Le Forestier]], parue en 1988, contient un refrain en zoulou ?
 
-Quelle chanson de [[Maxime Le Forestier]] a inspiré le titre du film français réalisé par [[Mohamed Hamidi]] en 2014 ? <!-- score: 4 -->
-
-Quelle chanson de [[Maxime Le Forestier]], sortie dans les années 80, est utilisée comme bande originale du film [[Né quelque part]] ?
+Quelle chanson de Maxime Le Forestier a donné son titre au film de [[Mohamed Hamidi]] sorti en 2013 avec [[Jamel Debbouze]] ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Adoptée par de nombreuses générations pour son message profond et universel s
 Un fait étonnant qui la distingue est son utilisation dans le domaine de la pédagogie : en 1990, la chanson a été intégrée à un programme scolaire en France pour sensibiliser les jeunes aux questions de multiculturalisme. 
 
 Peu de gens savent qu'elle a également inspiré une adaptation théâtrale en 1995, renforçant ainsi son statut de pont culturel au-delà de la musique.
+
+###### Archives questions
+
+Quelle chanson de [[Maxime Le Forestier]], sortie dans les années 80, est utilisée comme bande originale du film [[Né quelque part]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel titre de [[Maxime Le Forestier]], sorti en 1988, aborde le thème de l'appartenance ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanson de [[Maxime Le Forestier]] a inspiré le titre du film français réalisé par [[Mohamed Hamidi]] en 2014 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

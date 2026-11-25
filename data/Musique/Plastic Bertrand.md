@@ -29,11 +29,11 @@ culture_g_justification: "Plastic Bertrand est bien identifié grâce à «Ça p
 
 ###### Questions
 
-Dans quelle chanson de [[Plastic Bertrand]], sortie en 1977, l'artiste belge a-t-il connu un succès international majeur avec un refrain accrocheur ?
+Quel chanteur belge a connu en 1977 un succès mondial avec « [[Ça plane pour moi]] » ?
 
-Quel célèbre artiste belge, connu pour le titre [[Ça plane pour moi]], a été impliqué dans une controverse en 2010 concernant sa véritable contribution vocale à ses premiers enregistrements ?
+Quel chanteur a reconnu en 2010 que la voix de « Ça plane pour moi » était celle de son producteur Lou Deprijck ?
 
-Quel chanteur belge a été choisi pour interpréter la chanson officielle de [[Le Tour de France]] en 1983 ?
+Quel chanteur belge a représenté le [[Luxembourg]] au [[Concours Eurovision de la chanson]] en 1987 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Cet artiste atypique a vu cette chanson devenir un emblème du punk rock francop
 Plastic Bertrand a également représenté le Luxembourg au Concours Eurovision de la Chanson en 1987 avec "Amour, Amour", terminant à la 21e place.
 
 Fait étonnant, "Ça plane pour moi" a non seulement conquis le monde francophone, mais a aussi marqué l'histoire en devenant le premier titre punk à entrer dans le top 10 britannique.
+
+###### Archives questions
+
+Dans quelle chanson de [[Plastic Bertrand]], sortie en 1977, l'artiste belge a-t-il connu un succès international majeur avec un refrain accrocheur ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre artiste belge, connu pour le titre [[Ça plane pour moi]], a été impliqué dans une controverse en 2010 concernant sa véritable contribution vocale à ses premiers enregistrements ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur belge a été choisi pour interpréter la chanson officielle de [[Le Tour de France]] en 1983 ? <!-- cm003 remplacée 2026-11-23 -->

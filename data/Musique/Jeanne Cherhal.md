@@ -29,11 +29,7 @@ culture_g_justification: "Chanteuse française contemporaine reconnue, mais enco
 
 ###### Questions
 
-En quelle année l'artiste [[Jeanne Cherhal]] a-t-elle remporté le prix Constantin pour son album "Douze fois par an" ? 
-
-Quel est le nom de la chanteuse française qui a sorti l'album "L'An 40" en 2020 ? 
-
-Quelle artiste, née à [[Nantes]], a participé au film "À la vie" sorti en 2014 en tant qu'actrice ?
+Quelle chanteuse et pianiste, née à [[Nantes]] en 1978, a sorti l'album « L'Eau » ?
 
 ###### Description
 
@@ -44,3 +40,11 @@ En 2004, elle remporte une Victoire de la Musique dans la catégorie Révélatio
 Un fait étonnant sur [[Jeanne Cherhal]] est qu'elle a participé à une performance musicale en 2006 avec [[Matthieu Chedid]], alias [[-M-]], lors de la tournée du projet collaboratif "Les Frangines", soulignant son affinité pour les collaborations audacieuses.
 
 En 2019, elle a sorti l'album "L'An 40", une œuvre qui explore des thèmes comme le passage du temps et qui marque également ses quarante ans, soulignant sa capacité à allier introspection personnelle et création artistique en une harmonie rare.
+
+###### Archives questions
+
+En quelle année l'artiste [[Jeanne Cherhal]] a-t-elle remporté le prix Constantin pour son album "Douze fois par an" ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel est le nom de la chanteuse française qui a sorti l'album "L'An 40" en 2020 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle artiste, née à [[Nantes]], a participé au film "À la vie" sorti en 2014 en tant qu'actrice ? <!-- cm003 remplacée 2026-11-23 -->
