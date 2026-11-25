@@ -1,5 +1,7 @@
 ---
-description: cascade |  Venezuela |  plus haute |  Salto Ángel |  Parc national de Canaima |  chute d'eau |
+aliases:
+  - Angel Falls
+description: cascade |  Venezuela |  plus haute |  Auyán-tepui |  Parc national de Canaima |  chute d'eau |
 latitude: 5.9687371
 longitude: -62.5361456
 superficie: 979
@@ -17,7 +19,7 @@ indice_2 :
 indice_3 : 
   - plus haute
 indice_4 : 
-  - Salto Ángel
+  - Auyán-tepui
 indice_5 : 
   - Parc national de Canaima
 indice_6 : 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Goteborg
 description: Suède |  deuxième plus grande ville |  canal Göta |  archipel |  Scandinavie |  Volvo |
 latitude: 57.7072326
 longitude: 11.9670171
