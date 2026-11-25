@@ -32,11 +32,11 @@ culture_g_justification: "Terme géographique spécialisé désignant des dépre
 ![[Carte_Chott.png]]
 ###### Questions
 
-Quel type de formations géographiques appelées [[Chott]] peut-on trouver principalement en [[Afrique du Nord]], souvent caractérisées par des lacs salés temporaires qui se forment après de fortes pluies ?
+Quel nom d'origine arabe désigne, en Afrique du Nord, une dépression fermée dont le fond salé n'est inondé qu'après les pluies ?
 
-En 1930, quel mot est utilisé pour désigner les étendues sableuses et boueuses où l'eau s'accumule temporairement avant de s'évaporer, laissant des croûtes de sel, trouvées spécifiquement dans la région du [[Sahara]] ?
+Quel mot précède « Melrhir » dans le nom du point le plus bas d'[[Algérie]], situé à environ 40 mètres sous le niveau de la mer ?
 
-Quel terme géographique, tel que [[Chott el Jerid]] en [[Tunisie]], désigne une dépression endoréique où le sol est souvent recouvert de croûtes salines, surtout visible lors de son appartenance à l'ancien lit de plans d'eau préhistoriques dans le [[Maghreb]] ?
+Quel terme désigne la vaste dépression salée d'el-Djérid, en [[Tunisie]], où furent tournées des scènes de [[La Guerre des étoiles]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ En été, les températures peuvent dépasser 50 °C, ce qui provoque l'évapora
 Un fait étonnant concernant le [[Chott el-Jérid]] est que c'est là que fut tourné en 1977 une partie du film « [[Star Wars: Episode IV - A New Hope]] », ce qui en fait une destination prisée des cinéphiles. 
 
 Le chott est alimenté uniquement par les eaux de pluie et de crues, et il devient complètement asséché pendant les mois les plus chauds, offrant ainsi un paysage surréaliste et changeant au fil des saisons.
+
+###### Archives questions
+
+Quel type de formations géographiques appelées [[Chott]] peut-on trouver principalement en [[Afrique du Nord]], souvent caractérisées par des lacs salés temporaires qui se forment après de fortes pluies ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel terme géographique, tel que [[Chott el Jerid]] en [[Tunisie]], désigne une dépression endoréique où le sol est souvent recouvert de croûtes salines, surtout visible lors de son appartenance à l'ancien lit de plans d'eau préhistoriques dans le [[Maghreb]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1930, quel mot est utilisé pour désigner les étendues sableuses et boueuses où l'eau s'accumule temporairement avant de s'évaporer, laissant des croûtes de sel, trouvées spécifiquement dans la région du [[Sahara]] ? <!-- cm003 remplacée 2026-11-23 -->

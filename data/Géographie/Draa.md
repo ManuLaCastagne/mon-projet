@@ -23,9 +23,10 @@ indice_5 :
 indice_6 : 
   - régions de Zagora et Ouarzazate
 questions:
- - Quel fleuve saharien du Maroc, né dans le haut Santé/Atlas, se jette dans l'Atlantique ?
 culture_g_score: 40
 culture_g_justification: "Cours d’eau important à l’échelle marocaine, mais peu présent dans les quiz généralistes hors de la géographie du Maroc."
+questions_tv_archivees:
+  - Quel fleuve saharien du Maroc, né dans le haut Santé/Atlas, se jette dans l'Atlantique ?
 ---
 ![Image de Draa](https://upload.wikimedia.org/wikipedia/commons/a/ae/Draa_River.jpg)
 
@@ -36,7 +37,9 @@ Quelle est la plus longue rivière du [[Maroc]] qui coule en grande partie à se
 
 Quel fleuve, prenant sa source dans les [[Haut Atlas]], a vu son débit considérablement réduit à la suite de la construction du [[barrage El Mansour Eddahbi]] en 1972 ? <!-- score: 4 -->
 
-Quelle rivière a donné son nom à l'ancienne province du sud-est du [[Maroc]], renommée en 2003 lors de la création de la région [[Drâa-Tafilalet]] ? <!-- score: 4 -->
+Quel oued forme, en aval de [[Ouarzazate]], une longue vallée de palmeraies qui traverse [[Zagora]] ?
+
+Quel fleuve saharien du Maroc, né dans le Haut Atlas, se jette dans l'Atlantique ? <!-- source: tv -->
 
 ###### Description
 
@@ -47,3 +50,7 @@ Elle prend naissance dans l'[[Anatomie/Atlas]] et serpente à travers des paysag
 Un fait étonnant concernant le Draa est que, bien qu'il soit le fleuve le plus long du Maroc, depuis les années 1970 et la construction du barrage d'[[Ouarzazate]], il ne parvient pas toujours à atteindre sa fin naturelle dans l'océan Atlantique.
 
 La vallée du Draa abrite également des ksour et des kasbahs datant de plusieurs siècles, certains remontant au XVIe siècle, reflétant la riche histoire de la région marocaine.
+
+###### Archives questions
+
+Quelle rivière a donné son nom à l'ancienne province du sud-est du [[Maroc]], renommée en 2003 lors de la création de la région [[Drâa-Tafilalet]] ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

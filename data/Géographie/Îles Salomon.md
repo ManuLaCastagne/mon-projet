@@ -23,9 +23,10 @@ indice_5 :
 indice_6 : 
   - ancienne colonie britannique
 questions:
- - Quel Etat insulaire d'Océanie, dont la capitale est Honoria, possède un triangle inférieur vert symbolisant la terre ?
 culture_g_score: 43
 culture_g_justification: "État insulaire surtout associé à Guadalcanal et à la Seconde Guerre mondiale, avec peu d’autres entrées classiques."
+questions_tv_archivees:
+  - Quel Etat insulaire d'Océanie, dont la capitale est Honoria, possède un triangle inférieur vert symbolisant la terre ?
 ---
 ![Image de Îles Salomon](https://upload.wikimedia.org/wikipedia/commons/3/3c/%C3%8Ele_Diable_-_Salomon_Islands%2C_BIOT.svg)
 
@@ -36,7 +37,9 @@ Quelle nation du [[Pacifique Sud]] a accueilli les [[Jeux du Pacifique]] pour la
 
 Quel pays, ayant obtenu son indépendance du [[Royaume-Uni]] en 1978, se compose d'environ 900 îles ?
 
-Quel archipel, où le [[Dollar des Îles Salomon]] est la monnaie officielle, a subi la plus forte croissance économique en 2010 selon la [[Banque mondiale]] ?
+Dans quel archipel se trouve [[Guadalcanal]], théâtre d'une bataille décisive entre Américains et Japonais en 1942-1943 ?
+
+Quel État insulaire d'Océanie, dont la capitale est Honiara, a un drapeau dont le triangle inférieur vert symbolise la terre ? <!-- source: tv -->
 
 ###### Description
 
@@ -47,3 +50,7 @@ La capitale, [[Honiara]], est située sur l'île de [[Guadalcanal]], connue pour
 Un fait étonnant à propos des [[Îles Salomon]] est qu'elles abritent le [[Lac Tengano]], le plus grand lac d'eau douce du [[Pacifique Sud]], qui a été inscrit au patrimoine mondial de l'[[UNESCO]] en 1998. 
 
 Avec leur riche biodiversité, les [[Îles Salomon]] possèdent certaines des forêts tropicales les plus diversifiées au monde, abritant des espèces encore méconnues pour les scientifiques.
+
+###### Archives questions
+
+Quel archipel, où le [[Dollar des Îles Salomon]] est la monnaie officielle, a subi la plus forte croissance économique en 2010 selon la [[Banque mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->

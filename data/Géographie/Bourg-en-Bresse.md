@@ -32,11 +32,11 @@ culture_g_justification: "Bourg-en-Bresse peut être retenue pour le monastère 
 ![[Carte_Bourg-en-Bresse.png]]
 ###### Questions
 
-Dans quelle ville française, célèbre pour son architecture, se trouve le monastère royal de [[Brou]], achevé en 1532 et considéré comme un chef-d'œuvre du style gothique flamboyant ? <!-- score: 3 -->
+Dans quelle préfecture de l'[[Ain]] se trouve le monastère royal de [[Brou]], édifié à l'initiative de [[Marguerite d'Autriche]] au début du XVIe siècle ?
 
-Quelle ville du département de l'[[Ain]] a été la première à accueillir le [[Circuit de Bourg-en-Bresse]] en 1978, un circuit automobile régulièrement utilisé pour des compétitions de karting ?
+Dans quelle ville de l'[[Ain]] est né en 1803 l'historien et homme politique [[Edgar Quinet]] ?
 
-Dans quelle ville est née en 1874 [[Colette]], célèbre icône de la gastronomie, ayant prêté son nom à une variété de volaille fine et gourmet issue de la région ?
+Quelle ville de l'[[Ain]] est la capitale de la région naturelle dont la volaille à pattes bleues bénéficie d'une AOC depuis 1957 ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Le monument le plus emblématique de la ville est sans doute le [[Monastère roy
 Ce qui est étonnant, c'est que [[Bourg-en-Bresse]] détient le record du plus grand nombre de [[poulets]] de Bresse certifiés, un met gourmand bénéficiant d'une appellation d'origine contrôlée (AOC) depuis 1957, conférant à cette volaille une renommée internationale. 
 
 Par ailleurs, la ville est idéalement située à proximité des montagnes du [[Jura]], offrant un accès facile aux activités de plein air dans une nature préservée.
+
+###### Archives questions
+
+Quelle ville du département de l'[[Ain]] a été la première à accueillir le [[Circuit de Bourg-en-Bresse]] en 1978, un circuit automobile régulièrement utilisé pour des compétitions de karting ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française, célèbre pour son architecture, se trouve le monastère royal de [[Brou]], achevé en 1532 et considéré comme un chef-d'œuvre du style gothique flamboyant ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville est née en 1874 [[Colette]], célèbre icône de la gastronomie, ayant prêté son nom à une variété de volaille fine et gourmet issue de la région ? <!-- cm003 remplacée 2026-11-23 -->

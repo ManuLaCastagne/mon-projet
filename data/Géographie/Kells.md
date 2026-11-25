@@ -28,11 +28,11 @@ culture_g_justification: "Petite ville surtout connue comme lieu associé au Liv
 
 ###### Questions
 
-Dans quelle ville d'[[Irlande]] se trouve l'[[Abbaye de Kells]], célèbre pour avoir abrité le précieux [[Livre de Kells]] datant de 800 après J.-C. ?
+Dans quelle ville du [[comté de Meath]] fut conservé pendant des siècles l'évangéliaire enluminé aujourd'hui exposé au Trinity College de [[Dublin]] ?
 
-Quel est le nom de la ville du [[comté de Meath]] où se déroule chaque année le [[Kells TypeTrail Festival]], un événement dédié à l'art de la typographie et du lettrage ?
+Quelle ville irlandaise conserve la « maison de saint Colomba », oratoire de pierre du monastère fondé au IXe siècle par des moines venus d'[[Iona]] ?
 
-Dans quelle municipalité irlandaise trouve-t-on une réplique actuelle de l’ancienne [[Croix de Kells]], un chef-d’œuvre de l’art sacré celte sculptée à l’origine au IXe siècle ?
+Quelle ville irlandaise conserve plusieurs hautes croix celtiques sculptées au IXe siècle, dont la croix du Marché ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Elle est surtout célèbre pour le [[Livre de Kells]], un manuscrit enluminé de
 Un fait étonnant à propos de [[Kells]] est qu'elle possède la tour ronde médiévale la mieux préservée d'[[Irlande]], mesurant près de 26 mètres de haut, ce qui en fait un record pour une structure de ce type dans le pays. 
 
 En 1996, [[Kells]] a été reconnue pour sa richesse historique lorsqu'elle a été inscrite sur la liste indicative de l'[[UNESCO]] en vue d'une potentielle reconnaissance en tant que patrimoine mondial, bien que ce statut n'ait pas encore été accordé.
+
+###### Archives questions
+
+Dans quelle ville d'[[Irlande]] se trouve l'[[Abbaye de Kells]], célèbre pour avoir abrité le précieux [[Livre de Kells]] datant de 800 après J.-C. ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la ville du [[comté de Meath]] où se déroule chaque année le [[Kells TypeTrail Festival]], un événement dédié à l'art de la typographie et du lettrage ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle municipalité irlandaise trouve-t-on une réplique actuelle de l’ancienne [[Croix de Kells]], un chef-d’œuvre de l’art sacré celte sculptée à l’origine au IXe siècle ? <!-- cm003 remplacée 2026-11-23 -->

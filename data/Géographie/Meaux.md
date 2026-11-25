@@ -33,11 +33,11 @@ culture_g_justification: "Ville francilienne surtout associée au brie, à la Ma
 ![[Carte_Meaux.png]]
 ###### Questions
 
-Dans quelle ville française située en [[Île-de-France]] se trouve le célèbre fromage [[Brie de Meaux]], classé [[AOC]] depuis 1980 ?
+Quelle sous-préfecture de [[Seine-et-Marne]] donne son nom à un brie bénéficiant d'une AOC depuis 1980 ?
 
-Quelle ville est traversée par la [[Géographie/Marne]] et est célèbre pour sa [[cathédrale Saint-Étienne de Meaux]] datant du XIIe siècle ?
+Dans quelle ville de [[Seine-et-Marne]] le musée de la Grande Guerre a-t-il ouvert en 2011, près des champs de la [[première bataille de la Marne]] ?
 
-Dans quelle commune est né en 1754 le célèbre maréchal français [[Jean-François Boulard]], connu pour ses campagnes militaires ?
+Quelle ville de la [[Brie]] donne son nom à une moutarde à l'ancienne vendue en pot de grès scellé à la cire ?
 
 ###### Description
 
@@ -48,3 +48,11 @@ Elle est particulièrement connue pour sa [[cathédrale Saint-Étienne]], dont l
 Un fait étonnant concernant [[Meaux]] est que son célèbre [[brie de Meaux]] a été couronné "Roi des fromages" au Congrès de [[Vienne]] en 1815, un titre qui témoigne de sa renommée à l'échelle européenne.
 
 La ville possède également le [[Musée de la Grande Guerre]], inauguré en 2011, qui est l'un des plus grands musées d'Europe consacrés à la Première Guerre mondiale.
+
+###### Archives questions
+
+Dans quelle ville française située en [[Île-de-France]] se trouve le célèbre fromage [[Brie de Meaux]], classé [[AOC]] depuis 1980 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville est traversée par la [[Géographie/Marne]] et est célèbre pour sa [[cathédrale Saint-Étienne de Meaux]] datant du XIIe siècle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle commune est né en 1754 le célèbre maréchal français [[Jean-François Boulard]], connu pour ses campagnes militaires ? <!-- cm003 remplacée 2026-11-23 -->

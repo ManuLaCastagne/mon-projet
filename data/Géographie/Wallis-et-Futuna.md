@@ -32,11 +32,11 @@ culture_g_justification: "Collectivité française du Pacifique utile pour l’o
 ![[Carte_Wallis-et-Futuna.png]]
 ###### Questions
 
-Quelle collectivité d'outre-mer française située dans le [[Pacifique Sud]] abrite le roi coutumier de [[Wallis]] dans le village de [[Mata Utu]] depuis le traité du 5 avril 1887 ?
+Quel archipel du Pacifique a vu son île principale, Uvéa, passer sous protectorat français en 1887 ?
 
-Quel territoire d'outre-mer français, composé des trois districts coutumiers de [[Uvea]], [[Sigave]] et [[Alo]], a été séparé de la [[Nouvelle-Calédonie]] par un statut particulier en 1961 ?
+Quelle collectivité d'outre-mer, dont le chef-lieu est [[Mata-Utu]], compte trois royaumes coutumiers : Uvea, Sigave et Alo ?
 
-Quel archipel du [[Pacifique]] est devenu un Territoire d'outre-mer de la [[République française]] par la loi du 29 juillet 1961, reconnaissant ainsi les chefferies traditionnelles de [[Wallis-et-Futuna]] ?
+Quel archipel du Pacifique est devenu territoire d'outre-mer de la République française par la loi du 29 juillet 1961 ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Bien que découvertes par les Européens au XVIIIe siècle, ces îles n'ont ét�
 Un fait étonnant à propos de [[Wallis-et-Futuna]] est que, contrairement à de nombreux autres territoires du Pacifique, le climat y est si humide que seules quelques variétés de plantes, notamment les cocotiers et les taros, constituent la végétation principale, ce qui contribue à faire de l'île d'[[Alofi]] un habitat particulièrement isolé sans population permanente. 
 
 Les îles sont parmi les rares territoires français dont les coutumes ancestrales, comme le kava et les danses traditionnelles, sont encore pratiquées dans leur pure forme, et cela attire chaque année des chercheurs intéressés par les cultures polynésiennes.
+
+###### Archives questions
+
+Quel archipel du [[Pacifique]] est devenu un Territoire d'outre-mer de la [[République française]] par la loi du 29 juillet 1961, reconnaissant ainsi les chefferies traditionnelles de [[Wallis-et-Futuna]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle collectivité d'outre-mer française située dans le [[Pacifique Sud]] abrite le roi coutumier de [[Wallis]] dans le village de [[Mata Utu]] depuis le traité du 5 avril 1887 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel territoire d'outre-mer français, composé des trois districts coutumiers de [[Uvea]], [[Sigave]] et [[Alo]], a été séparé de la [[Nouvelle-Calédonie]] par un statut particulier en 1961 ? <!-- cm003 remplacée 2026-11-23 -->

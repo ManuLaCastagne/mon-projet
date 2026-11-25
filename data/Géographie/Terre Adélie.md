@@ -32,11 +32,11 @@ culture_g_justification: "Territoire antarctique français utile pour quelques q
 ![[Carte_Terre Adélie.png]]
 ###### Questions
 
-Quel territoire, revendiqué par la France depuis 1950, est situé sur le continent [[antarctique]] ? <!-- score: 6 -->
+Quel territoire de l'[[Antarctique]], revendiqué par la France depuis 1924, porte le prénom de l'épouse de son découvreur ?
 
-Quelle région abrite la station de recherche [[Dumont d'Urville]] sur le continent glacé ?
+Sur quel territoire antarctique se trouve la base scientifique française [[Dumont d'Urville]] ?
 
-Quel secteur de l'[[Antarctique]] est représenté par un manchot empereur sur les timbres émis par la [[Terre Adélie]] en 2005 ?
+Quel territoire antarctique français a accueilli la base de Port-Martin, détruite par un incendie en 1952 ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Cette région, nommée ainsi en l'honneur de [[Adèle Dumont d'Urville]], épous
 Un fait étonnant est que [[Terre Adélie]] est le foyer de la base scientifique [[Dumont d'Urville]], connue pour ses recherches sur les manchots empereurs, dont le premier couple à avoir été observé sur le continent pour un programme scientifique l'a été en 1952. 
 
 Un fait intéressant est que cette région connaît des vents catabatiques extrêmement puissants, atteignant parfois jusqu'à 320 km/h, ce qui en fait l'un des endroits les plus ventés de la planète.
+
+###### Archives questions
+
+Quel secteur de l'[[Antarctique]] est représenté par un manchot empereur sur les timbres émis par la [[Terre Adélie]] en 2005 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel territoire, revendiqué par la France depuis 1950, est situé sur le continent [[antarctique]] ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle région abrite la station de recherche [[Dumont d'Urville]] sur le continent glacé ? <!-- cm003 remplacée 2026-11-23 -->

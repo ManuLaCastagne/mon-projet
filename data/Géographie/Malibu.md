@@ -23,20 +23,23 @@ indice_5 :
 indice_6 : 
   - série télévisée Alerte à Malibu
 questions:
- - Sur quelle plage californienne, associée à une série télé avec Cinéma/Pamela Anderson, avec le maillot rouge, le surf moderne s'est-il développé dans les années 50?
 culture_g_score: 44
 culture_g_justification: "Ville balnéaire californienne connue par les célébrités et la culture populaire, mais son intérêt géographique et historique reste limité."
+questions_tv_archivees:
+  - Sur quelle plage californienne, associée à une série télé avec Cinéma/Pamela Anderson, avec le maillot rouge, le surf moderne s'est-il développé dans les années 50?
 ---
 ![Image de Malibu](https://upload.wikimedia.org/wikipedia/commons/3/39/Malibu%2C_Western_Malibu%2C_%28Californie%29.jpeg)
 
 ![[Carte_Malibu.png]]
 ###### Questions
 
-Dans quelle ville des États-Unis, [[Barbra Streisand]] a-t-elle acheté une propriété en 1974, célèbre pour sa villa en bord de mer ? <!-- score: 4 -->
+Dans quelle ville de Californie se trouve la villa de [[Barbra Streisand]] dont la photo, en 2003, a donné naissance à l'expression « effet Streisand » ?
 
-Dans quelle ville de [[Géographie/Californie]], la série télévisée à succès [[Two and a Half Men]] a-t-elle souvent mentionné la résidence de l'un de ses personnages principaux, [[Charlie Harper]] ?
+Dans quelle ville de [[Californie]] se trouve la maison de plage de [[Charlie Harper]] dans la série [[Mon oncle Charlie]] ?
 
-Quelle ville côtière de [[Los Angeles County]] a vu l'ouverture du célèbre [[Malibu Pier]] en 1905, attirant les pêcheurs et les touristes ?
+Quelle ville côtière du comté de [[Los Angeles]] possède une jetée construite en 1905 par Frederick Rindge, propriétaire du ranch qui couvrait alors son territoire ?
+
+Sur quelle plage californienne, associée à une série télé où Pamela Anderson portait un maillot rouge, le surf moderne s'est-il développé dans les années 1950 ? <!-- source: tv -->
 
 ###### Description
 
@@ -47,3 +50,11 @@ Ce lieu est connu pour être le sanctuaire de nombreuses célébrités hollywood
 Bien qu'elle soit incorporée seulement en 1991, [[Malibu]] a une histoire riche qui remonte au moins à 1542, lorsque l’explorateur espagnol [[Juan Rodríguez Cabrillo]] a aperçu ses côtes. 
 
 Fait étonnant : [[Malibu]] abrite l'un des rares systèmes de dunes en Californie méridionale, les [[dunes de Zuma]], qui sont formées de sable inhabituellement riche en minéraux rares tels que le quartz.
+
+###### Archives questions
+
+Quelle ville côtière de [[Los Angeles County]] a vu l'ouverture du célèbre [[Malibu Pier]] en 1905, attirant les pêcheurs et les touristes ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville des États-Unis, [[Barbra Streisand]] a-t-elle acheté une propriété en 1974, célèbre pour sa villa en bord de mer ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville de [[Géographie/Californie]], la série télévisée à succès [[Two and a Half Men]] a-t-elle souvent mentionné la résidence de l'un de ses personnages principaux, [[Charlie Harper]] ? <!-- cm003 remplacée 2026-11-23 -->

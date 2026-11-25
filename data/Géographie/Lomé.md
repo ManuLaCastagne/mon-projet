@@ -30,12 +30,20 @@ culture_g_justification: "Capitale d’un État d’Afrique de l’Ouest assez p
 ![[Carte_Lomé.png]]
 ###### Questions
 
-Quelle est la capitale du [[Togo]], un pays d'[[Afrique]] de l'Ouest, qui a accueilli en 1975 la conférence ayant conduit à la création de la [[CEDEAO]] ? <!-- score: 6 -->
+Quelle capitale africaine a donné son nom à la convention signée en 1975 entre la CEE et les pays ACP ?
 
-Dans quelle ville se trouve le plus grand marché de l'Afrique de l'Ouest, le marché de [[Lomé]], aussi connu sous le nom de marché de [[Nana Benz]] ?
+Dans quelle ville le Grand Marché fut-il le fief des « Nana Benz », commerçantes enrichies par le négoce du pagne ?
 
-Quelle ville abrite le port autonome qui est l'un des plus importants points d'entrée pour le commerce régional en Afrique de l'Ouest, particulièrement utilisé pour l'importation de marchandises vers le [[Sahel]] ?
+Quelle capitale du golfe de Guinée, bâtie contre la frontière du [[Ghana]], dispose d'un port en eau profonde qui dessert le [[Burkina Faso]] et le [[Niger]] ?
 
 ###### Description
 
 [[Lomé]] est la capitale du [[Togo]], un pays d'[[Afrique de l'Ouest]], et elle est située sur la côte du golfe de [[Guinée]]. Fondée au XIXe siècle, elle est devenue la capitale en 1897 sous l'administration coloniale allemande. Un point d'intérêt majeur est le [[Marché de Lomé]], réputé pour ses textiles colorés, ses fruits tropicaux et l'artisanat local. Le [[Musée National du Togo]], établi en 1975, offre un aperçu captivant de l'histoire et de la culture togolaises, mettant en valeur des artefacts archéologiques et des objets ethnographiques.
+
+###### Archives questions
+
+Dans quelle ville se trouve le plus grand marché de l'Afrique de l'Ouest, le marché de [[Lomé]], aussi connu sous le nom de marché de [[Nana Benz]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la capitale du [[Togo]], un pays d'[[Afrique]] de l'Ouest, qui a accueilli en 1975 la conférence ayant conduit à la création de la [[CEDEAO]] ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville abrite le port autonome qui est l'un des plus importants points d'entrée pour le commerce régional en Afrique de l'Ouest, particulièrement utilisé pour l'importation de marchandises vers le [[Sahel]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -30,11 +30,11 @@ culture_g_justification: "Le Shannon est surtout un repère irlandais ponctuel, 
 ![[Carte_Shannon.png]]
 ###### Questions
 
-Quelle ville en [[Irlande]], située dans le [[comté de Clare]], abrite l'un des plus anciens aéroports du pays, ouvert en 1945 ?
+Quel aéroport irlandais du [[comté de Clare]] a ouvert en 1947 la première boutique hors taxes du monde ?
 
-Quelle rivière traverse la ville de [[Limerick]] et se jette dans l'[[estuaire]] du même nom, constituant le plus long fleuve d'[[Irlande]] ?
+Quel fleuve, le plus long d'[[Irlande]], traverse [[Limerick]] avant de s'élargir en un vaste estuaire sur l'Atlantique ?
 
-Quel système d'information [[Claude Shannon]] a-t-il développé durant les années 1940, influençant des concepts appliqués dans la géographie moderne et la théorie de l'information ?
+Quel fleuve alimente la centrale hydroélectrique d'Ardnacrusha, mise en service en 1929 ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Fondé en 1945, cet aéroport a la particularité d'être le premier aéroport t
 [[Shannon]], en tant que ville, est l'une des plus récentes d'Irlande, car elle a été officiellement établie en 1960 dans le cadre d'un projet visant à développer une communauté résidentielle moderne près de l'aéroport.  
 
 Fait étonnant, l'aéroport de Shannon est également réputé pour avoir introduit le concept de boutique hors taxes en 1947, devenant ainsi le tout premier aéroport au monde à offrir ce service, un fait qui pourrait surprendre même les passionnés d'aviation.
+
+###### Archives questions
+
+Quel système d'information [[Claude Shannon]] a-t-il développé durant les années 1940, influençant des concepts appliqués dans la géographie moderne et la théorie de l'information ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle rivière traverse la ville de [[Limerick]] et se jette dans l'[[estuaire]] du même nom, constituant le plus long fleuve d'[[Irlande]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville en [[Irlande]], située dans le [[comté de Clare]], abrite l'un des plus anciens aéroports du pays, ouvert en 1945 ? <!-- cm003 remplacée 2026-11-23 -->

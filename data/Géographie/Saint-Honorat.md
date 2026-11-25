@@ -32,11 +32,11 @@ culture_g_justification: "L’île Saint-Honorat est un site monastique et vitic
 ![[Carte_Saint-Honorat.png]]
 ###### Questions
 
-Quelle est l'île située au large de [[Cannes]] qui est célèbre pour son monastère fondé par [[Saint Honorat]] et abrite une communauté de moines depuis environ l'an [[410]] ? 
+Quelle île de l'archipel de [[Lérins]], au large de [[Cannes]], abrite une abbaye occupée par des moines cisterciens ?
 
-Quel est le nom de la plus petite des îles de [[Lérins]] où des moines produisent du vin et du miel depuis des siècles, aujourd'hui très prisé par les gourmets ? 
+Sur quelle île, la plus petite des deux grandes îles de Lérins, les moines produisent-ils du vin et la liqueur Lérina ?
 
-Où se trouve l'abbaye fortifiée historique construite au Moyen Âge, qui continue d'attirer des pèlerins et des visiteurs sur cette île méditerranéenne ?
+Sur quelle île de la baie de [[Cannes]] se dresse un monastère fortifié, élevé à partir du XIe siècle pour protéger les moines des raids sarrasins ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Sur cette petite île de 1,5 km de long, les moines cisterciens cultivent depuis
 Un fait étonnant est que [[Saint-Honorat]] possède une chapelle, la [[Chapelle Saint-Sauveur]], qui compte parmi les plus anciens édifices religieux de la région, construite dès 1073. 
 
 De plus, l'île est connue pour son calme et sa beauté naturelle, offrant une expérience unique loin de l'agitation de la Côte d'Azur, ce qui en fait un lieu de retraite prisé des habitants et des touristes.
+
+###### Archives questions
+
+Quelle est l'île située au large de [[Cannes]] qui est célèbre pour son monastère fondé par [[Saint Honorat]] et abrite une communauté de moines depuis environ l'an [[410]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la plus petite des îles de [[Lérins]] où des moines produisent du vin et du miel depuis des siècles, aujourd'hui très prisé par les gourmets ? <!-- cm003 remplacée 2026-11-23 -->
+
+Où se trouve l'abbaye fortifiée historique construite au Moyen Âge, qui continue d'attirer des pèlerins et des visiteurs sur cette île méditerranéenne ? <!-- cm003 remplacée 2026-11-23 -->

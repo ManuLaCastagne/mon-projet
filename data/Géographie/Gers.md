@@ -32,11 +32,11 @@ culture_g_justification: "Département surtout mobilisé pour l’Armagnac, la G
 ![[Carte_Gers.png]]
 ###### Questions
 
-Dans quel département français peut-on visiter un village nommé [[Larressingle]], souvent surnommé la "Carcassonne du Gers" grâce à ses fortifications médiévales préservées? 
+Dans quel département se trouve [[Larressingle]], village fortifié surnommé la « petite Carcassonne » ?
 
-Dans quel département se déroulent les célèbres [[Floc de Gascogne]], incluant des festivals de vin et spiritueux, avec une reconnaissance officielle par une AOC depuis 1990 ? <!-- score: 4 -->
+Dans quel département est principalement élaboré le [[Floc de Gascogne]], apéritif d'armagnac et de moût de raisin classé AOC en 1990 ?
 
-Dans quel département se trouve l'[[Armagnac]], une eau-de-vie prestigieuse dont l'histoire remonte officiellement à 1310, et qui est reconnue comme la plus ancienne eau-de-vie de France ?
+Dans quel département se tient chaque été le festival Jazz in Marciac, créé en 1978 ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ La préfecture du [[Gers]] est [[Auch]], une ville historique dotée d'une cath�
 Fait peu connu, le [[Gers]] est le plus grand producteur de canards gras en France, un record national qui contribue largement à la production de [[foie gras]], un mets emblématique de la gastronomie française. 
 
 Enfin, le [[Gers]] est aussi célèbre pour ses festivals, notamment le festival de [[Jazz in Marciac]], fondé en 1978, qui attire chaque année des milliers d'amateurs de musique du monde entier.
+
+###### Archives questions
+
+Dans quel département français peut-on visiter un village nommé [[Larressingle]], souvent surnommé la "Carcassonne du Gers" grâce à ses fortifications médiévales préservées? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel département se déroulent les célèbres [[Floc de Gascogne]], incluant des festivals de vin et spiritueux, avec une reconnaissance officielle par une AOC depuis 1990 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel département se trouve l'[[Armagnac]], une eau-de-vie prestigieuse dont l'histoire remonte officiellement à 1310, et qui est reconnue comme la plus ancienne eau-de-vie de France ? <!-- cm003 remplacée 2026-11-23 -->

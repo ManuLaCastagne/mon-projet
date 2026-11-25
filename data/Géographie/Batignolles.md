@@ -32,11 +32,9 @@ culture_g_justification: "Quartier parisien intéressant pour l’urbanisme et l
 ![[Carte_Batignolles.png]]
 ###### Questions
 
-Quelle ancienne commune annexée par [[Paris]] en 1860 donne son nom à un quartier connu pour son écoquartier innovant dans le [[17e arrondissement]] ?
+Quelle ancienne commune, annexée par [[Paris]] en 1860, a donné son nom à un écoquartier du [[17e arrondissement]] ?
 
-Quel quartier parisien abritait autrefois la [[Gare]] de [[Paris-Batignolles]], remplacée par un vaste projet immobilier initié en 2007 ?
-
-Quel quartier du [[17e arrondissement]] de Paris a vu naître en 1856 le peintre impressionniste [[Alfred Sisley]] ?
+Quel quartier parisien a donné son nom au groupe de peintres réunis autour d'[[Édouard Manet]], que [[Henri Fantin-Latour]] représenta en 1870 dans un tableau d'atelier ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Le quartier est célèbre pour le [[Parc Clichy-Batignolles - Martin Luther King
 Peu de gens savent que la [[gare des Batignolles]], désormais disparue, fut le point de départ d'une des premières lignes ferroviaires de France, inaugurée en 1837 pour relier Paris à [[Saint-Germain-en-Laye]].
 
 Dans les environs, on trouve la [[Cité des Fleurs]], une voie privée pittoresque datant de 1847, qui illustre le charme résidentiel du quartier avec ses maisons bourgeoises et ses jardins fleuris.
+
+###### Archives questions
+
+Quel quartier parisien abritait autrefois la [[Gare]] de [[Paris-Batignolles]], remplacée par un vaste projet immobilier initié en 2007 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle ancienne commune annexée par [[Paris]] en 1860 donne son nom à un quartier connu pour son écoquartier innovant dans le [[17e arrondissement]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel quartier du [[17e arrondissement]] de Paris a vu naître en 1856 le peintre impressionniste [[Alfred Sisley]] ? <!-- cm003 remplacée 2026-11-23 -->

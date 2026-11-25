@@ -32,11 +32,11 @@ culture_g_justification: "Station balnéaire belge connue pour son port et son c
 ![[Carte_Ostende.png]]
 ###### Questions
 
-Dans quelle ville se trouve le seul port de pêche belge avec une flotte active depuis le XVIIe siècle, situé sur la côte de [[la mer du Nord]] ? 
+Dans quelle ville de la côte belge le peintre [[James Ensor]] est-il né en 1860 et a-t-il passé presque toute sa vie ?
 
-Quelle ville côtière belge a accueilli le départ de la célèbre course de cyclisme [[Bruxelles-Ostende]] en 1980 ? 
+Dans quelle ville belge [[Marvin Gaye]] s'est-il installé en 1981, période où il composa « [[Sexual Healing]] » ?
 
-Dans quelle ville belge se trouve le [[Casino d'Ostende]], emblématique depuis son ouverture en 1953 ?
+Quelle ville de la côte belge abrite le Kursaal, casino dont le bâtiment actuel a été inauguré en 1953 ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Connue pour sa riche histoire maritime, elle abrite le [[Vaisseau Mercator]], un
 Un fait surprenant à propos d'Ostende est qu'elle a été la résidence préférée du roi [[Léopold II]] de Belgique, qui y a fait construire de nombreuses infrastructures à la fin du XIXe siècle, dont certaines existent toujours aujourd'hui.
 
 Par ailleurs, Ostende détient le record de l'ascenseur extérieur le plus haut d'Europe, mesurant près de 90 mètres, installé à la [[Tour des Thermes]].
+
+###### Archives questions
+
+Quelle ville côtière belge a accueilli le départ de la célèbre course de cyclisme [[Bruxelles-Ostende]] en 1980 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville belge se trouve le [[Casino d'Ostende]], emblématique depuis son ouverture en 1953 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville se trouve le seul port de pêche belge avec une flotte active depuis le XVIIe siècle, situé sur la côte de [[la mer du Nord]] ? <!-- cm003 remplacée 2026-11-23 -->

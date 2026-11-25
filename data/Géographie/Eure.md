@@ -23,20 +23,23 @@ indice_5 :
 indice_6 : 
   - Dieppe
 questions:
- - Dans quel département se situe la ville normande de Sur la route de Louviers ?
 culture_g_score: 44
 culture_g_justification: "Département français identifiable par Évreux et la Normandie, mais d’un intérêt surtout administratif et régional."
+questions_tv_archivees:
+  - Dans quel département se situe la ville normande de Sur la route de Louviers ?
 ---
 ![Image de Eure](https://upload.wikimedia.org/wikipedia/commons/9/97/Eure_l%C3%A9gislatives_1981.svg)
 
 ![[Carte_Eure.png]]
 ###### Questions
 
-Dans quel département français, créé en 1790 lors de la Révolution française, se trouve la ville de [[Évreux]], chef-lieu et préfecture dudit département ?
+Quel département normand, créé en 1790, a pour préfecture [[Évreux]] ?
 
-Quelle région de [[Normandie]] abrite le département nommé [[Eure]] qui détient la célèbre abbaye cistercienne de [[La Trappe]] fondée en 1122 ?
+Dans quel département se trouve [[Giverny]], où [[Claude Monet]] vécut de 1883 à sa mort ?
 
-Quel département, situé dans la région de [[Normandie]], est traversé par le fleuve homonyme, l'[[Eure]], qui prend sa source dans la région voisine du [[Perche]] et se jette dans la [[Seine]] à [[Pont-de-l'Arche]] ?
+Quel département normand porte le nom d'une rivière née dans le [[Perche]], qui se jette dans la [[Seine]] près de [[Pont-de-l'Arche]] ?
+
+Dans quel département normand se trouve Louviers, ville de la chanson « Sur la route de Louviers » ? <!-- source: tv -->
 
 ###### Description
 
@@ -47,3 +50,11 @@ La ville de [[Évreux]], préfecture de l'Eure, est non seulement connue pour sa
 Un fait étonnant sur ce département est que le légendaire arbre de [[Bec-Hellouin]], un if planté vers 1400, figure parmi les plus vieux de France et peut accueillir jusqu'à dix personnes dans son tronc creux. 
 
 Enfin, l'Eure est traversée par la séduisante [[Route des Fruits]], où l'on peut découvrir des vergers de pommiers et des fabriques de cidres, riches du savoir-faire local datant du XIVe siècle.
+
+###### Archives questions
+
+Quelle région de [[Normandie]] abrite le département nommé [[Eure]] qui détient la célèbre abbaye cistercienne de [[La Trappe]] fondée en 1122 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel département, situé dans la région de [[Normandie]], est traversé par le fleuve homonyme, l'[[Eure]], qui prend sa source dans la région voisine du [[Perche]] et se jette dans la [[Seine]] à [[Pont-de-l'Arche]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel département français, créé en 1790 lors de la Révolution française, se trouve la ville de [[Évreux]], chef-lieu et préfecture dudit département ? <!-- cm003 remplacée 2026-11-23 -->

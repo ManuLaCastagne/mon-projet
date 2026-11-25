@@ -28,11 +28,9 @@ culture_g_justification: "Ancienne appellation du Congo liée à Mobutu et à l�
 
 ###### Questions
 
-Quelle est l'ancienne appellation du fleuve [[Congo]], avant qu'elle ne soit modifiée en 1997 ?
+Sous quel nom le grand cours d'eau [[Fleuve Congo|Congo]] fut-il officiellement désigné de 1971 à 1997 ?
 
-Quel large cours d'eau africain, ayant une longueur de plus de 4 700 kilomètres, était autrefois connu sous le nom de [[Zaïre (fleuve)]] ?
-
-Quel est le nom que portait le [[fleuve Congo]] de 1971 à 1997 pendant le règne du président [[Mobutu Sese Seko]] au [[Zaïre]] ?
+Quel nom, dérivé par les Portugais du mot kikongo nzadi (« rivière »), fut imposé au cours d'eau [[Fleuve Congo|Congo]] par [[Mobutu Sese Seko]] ?
 
 ###### Description
 
@@ -43,3 +41,11 @@ Un fait surprenant à propos du [[Zaïre (fleuve)]] est qu'il détient le record
 En 1971, sous le régime du président [[Mobutu Sese Seko]], le pays et le fleuve ont été rebaptisés en [[Zaïre]], un nom qu'ils ont conservé jusqu'en 1997.  
 
 Le fleuve est aussi remarquable pour atteindre des profondeurs vertigineuses, avec certaines zones mesurant plus de 220 mètres de profondeur, ce qui en fait le fleuve le plus profond du monde.
+
+###### Archives questions
+
+Quel large cours d'eau africain, ayant une longueur de plus de 4 700 kilomètres, était autrefois connu sous le nom de [[Zaïre (fleuve)]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle est l'ancienne appellation du fleuve [[Congo]], avant qu'elle ne soit modifiée en 1997 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom que portait le [[fleuve Congo]] de 1971 à 1997 pendant le règne du président [[Mobutu Sese Seko]] au [[Zaïre]] ? <!-- cm003 remplacée 2026-11-23 -->
