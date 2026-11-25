@@ -145,3 +145,28 @@ de questions, sur une branche `cm034/verification` et une demande de fusion déd
    fusion selon la règle des PR de fiches (tests verts et QA approuvée : la session peut fusionner cette demande-là).
 6. Compte rendu dans la demande de fusion : nombre de fiches, taux d'erreur de la nuit par type, fiches mélangées et noms
    fautifs listés pour le PO (non corrigés), corrections refusées.
+
+
+## Demandes de création de fiche (CM-033) — à activer avec la mise à jour de la tâche planifiée
+
+Le PO demande des fiches depuis l'application ; elles arrivent dans les tickets `signalement` sous la forme
+`- [création] Thème/Nom · « précision »` (thème et précision facultatifs ; le thème est celui de la fiche d'où vient la
+demande ou celui choisi par le PO). Décisions du PO du 25/11/2026 : **au plus 10 créations par nuit**, traitées avant le
+reste ; fusion selon la règle des PR de fiches (tests verts et QA approuvée). **Tant que la tâche planifiée n'a pas été mise à
+jour avec l'accord explicite du PO, la session de nuit ne crée pas de fiche** : elle laisse les lignes [création] dans le
+ticket et le signale dans son résumé.
+
+Pour chaque demande, dans l'ordre du ticket :
+1. **Anti-doublon** : `find data -iname "<Nom>.md"`, alias (`aliases:` des frontmatters), variantes évidentes (article, accents,
+   singulier/pluriel, nom complet). Si la fiche existe : ne rien créer, répondre « existe déjà sous Thème/Nom » dans le ticket.
+2. **Homonymie** : si le nom désigne plusieurs concepts et que la précision ou le thème ne tranchent pas, ne rien créer et
+   poser la question au PO dans le ticket.
+3. **Création** au format du coffre (comme le pilote CM-023) : frontmatter (tags, debut/fin si pertinent — fin vide pour une
+   œuvre —, indice_1..6, culture_g_score, culture_g_justification, `creation: cm033`), image Commons vérifiée (jamais de
+   photo de personne ajoutée par la session : fiche de personne sans image), `###### Questions` (3 questions dont la réponse
+   est le nom de la fiche, sans le citer), `###### Description` avec wikilinks. Tout fait vient d'une source consultée
+   (Wikipédia FR brut / Wikidata par curl) ; un fait non sourcé n'est pas écrit. Pas de source suffisante : pas de fiche,
+   explication dans le ticket.
+4. Contrôles (YAML, fuites, tournures d'IA, doublons, construction de culture-max), QA par un agent séparé, PR dédiée
+   `cm033/creations-AAAA-MM-JJ`.
+5. Compte rendu dans le ticket, ligne par ligne : créée (chemin), existe déjà (chemin), ou question au PO.
