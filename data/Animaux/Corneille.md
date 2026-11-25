@@ -17,13 +17,19 @@ indice_6:
 culture_g_score: 67
 culture_g_justification: "Corvidé courant et intelligent, utile pour distinguer plusieurs espèces et aborder des questions de comportement animal."
 ---
-![Image de Corneille](https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_Corneille_Lemaire_Louvre.jpg)
+![Image de Corneille](https://upload.wikimedia.org/wikipedia/commons/2/2a/Carrion_crow_2022_04_05_05_01.jpg)
+<!-- image remplacée (cm034) : https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_Corneille_Lemaire_Louvre.jpg -->
 
 ###### Questions
 
 Quel corvidé est aussi le nom d'un célèbre écrivain français ? <!-- score: 5 -->
 
 Quel corvidé voisin du corbeau peut être "noir" ou "mantelé" ?
+
+Quel nom vernaculaire désigne les plus petites espèces d'oiseaux du genre [[Corvus]], les plus grandes étant appelées corbeaux ?
+
+Quel oiseau complète l'expression « bayer aux… », qui signifie rêvasser, perdre son temps en regardant en l'air ?
+
 ###### Description
 
 Les [[Corneilles]] sont des oiseaux omnivores appartenant à la famille des [[Corvidés]], caractérisés par leur plumage noir et leur intelligence remarquable, que l'on retrouve notamment en [[Europe]], [[Asie]] et [[Amérique du Nord]].

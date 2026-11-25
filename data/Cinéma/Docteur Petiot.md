@@ -5,9 +5,12 @@ tags:
   - Années_1940
   - XXe
 date:
-  - 1990/01/17
+  - "1990/09/19"
+date_archive_cm034:
+  - "1990/01/17"
 debut: 1990
-fin: 1946
+fin: 
+fin_archive_cm034: "1946"
 indice_1 : 
   - médecin criminel
 indice_2 : 
@@ -15,7 +18,9 @@ indice_2 :
 indice_3 : 
   - maison de l'horreur
 indice_4 : 
-  - Robert Hossein
+  - "Michel Serrault"
+indice_4_archive_cm034:
+  - "Robert Hossein"
 indice_5 : 
   - 1990
 indice_6 : 
@@ -35,7 +40,7 @@ Dans quel film [[Michel Serrault]] joue-t-il un médecin qui revendiqua 63 meurt
 
 ###### Description
 
-Le film "[[Docteur Petiot]]", sorti en 1990, est une réalisation marquante du cinéma français, dirigée par [[Christian de Chalonge]]. Inspiré de l'histoire vraie de [[Marcel Petiot]], un médecin français infâme pour ses crimes horribles pendant la période de l'Occupation, le film explore les sombres profondeurs de son personnage. [[Michel Serrault]] interprète avec brio le rôle de [[Petiot]], offrant une performance à la fois inquiétante et captivante, qui lui a valu des éloges critiques. Le long-métrage a été présenté en compétition lors de la [[Mostra de Venise]] la même année, soulignant son impact culturel et artistique.
+Le film "[[Docteur Petiot]]", sorti en 1990, est une réalisation marquante du cinéma français, dirigée par [[Christian de Chalonge]]. Inspiré de l'histoire vraie de [[Marcel Petiot]], un médecin français infâme pour ses crimes horribles pendant la période de l'Occupation, le film explore les sombres profondeurs de son personnage. [[Michel Serrault]] interprète avec brio le rôle de [[Petiot]], offrant une performance à la fois inquiétante et captivante, qui lui a valu des éloges critiques. Le film est sorti en France le 19 septembre 1990, sur une musique de [[Michel Portal]].
 
 ###### Archives questions
 
@@ -44,3 +49,7 @@ Quel acteur français célèbre pour son rôle dans [[Les Visiteurs]] a incarné
 Quel film réalisé par [[Christian de Chalonge]] en 1990 relate l'histoire du tristement célèbre médecin et tueur en série français [[Marcel Petiot]] ? <!-- cm003 remplacée 2026-11-23 -->
 
 Dans quel film [[Michel Serrault]] interprète-t-il le rôle d'un médecin et tueur en série basé sur une histoire vraie se déroulant pendant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+###### Archives description
+
+Le long-métrage a été présenté en compétition lors de la [[Mostra de Venise]] la même année, soulignant son impact culturel et artistique. <!-- cm034 corrigée 2026-11-25 -->

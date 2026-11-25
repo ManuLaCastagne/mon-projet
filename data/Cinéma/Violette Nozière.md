@@ -5,9 +5,12 @@ tags:
   - France
   - Années_1930
 date:
-  - 1978/10/11
+  - "1978/05/24"
+date_archive_cm034:
+  - "1978/10/11"
 debut: 1978
-fin: 1966
+fin: 
+fin_archive_cm034: "1966"
 indice_1 : 
   - Année 1933
 indice_2 : 
@@ -33,7 +36,7 @@ Quel film de [[Claude Chabrol]] (1978) retrace l'affaire d'une jeune Parisienne 
 
 Pour quel film [[Isabelle Huppert]] obtient-elle le prix d'interprétation féminine au Festival de Cannes 1978 ?
 
-Quelle jeune femme, condamnée à mort en 1934 pour avoir empoisonné son père, inspira un recueil aux poètes surréalistes ?
+Dans quel film de 1978 [[Stéphane Audran]] et [[Jean Carmet]] jouent-ils les parents d'une adolescente qui les empoisonne ?
 
 ###### Description
 
@@ -46,3 +49,5 @@ Quel film réalisé par [[Claude Chabrol]] en 1978 relate l’histoire de l’af
 Dans quel long métrage [[Isabelle Huppert]] joue-t-elle le rôle de l’empoisonneuse infâme des années 1930, [[Violette Nozière]] ? <!-- cm003 remplacée 2026-11-23 -->
 
 Quel personnage historique reconnu pour ses crimes est le sujet principal du film sorti en 1978 et intitulé « [[Violette Nozière]] » ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle jeune femme, condamnée à mort en 1934 pour avoir empoisonné son père, inspira un recueil aux poètes surréalistes ? <!-- cm034 corrigée 2026-11-25 -->

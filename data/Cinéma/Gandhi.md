@@ -1,12 +1,17 @@
 ---
 tags:
   - Cinéma
-  - Porbandar_Inde
   - Années_1980
   - XXe
-date: 1982-10-02
+  - Inde
+  - Royaume-Uni
+tags_archives_cm034:
+  - Porbandar_Inde
+date: 1982-11-30
+date_archive_cm034: "1982-10-02"
 debut: 1982
-fin: 1948
+fin: 
+fin_archive_cm034: "1948"
 indice_1:
   - Inde
 indice_2:
