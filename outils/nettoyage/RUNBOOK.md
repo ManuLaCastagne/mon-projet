@@ -43,7 +43,7 @@ Les PR de l'application `culture-max` passent toujours par le PO.
 Avant toute sélection automatique, traiter les tickets **ouverts** du dépôt `ManuLaCastagne/culture-max`
 portant l'étiquette `signalement` (`gh api "repos/ManuLaCastagne/culture-max/issues?labels=signalement&state=open"`).
 Chaque ligne du corps a la forme `- [type] Thème/Fiche · jeu TV? · « question »`, type ∈ fausse, mal posée,
-pas pertinente, image. Ces questions comptent dans le lot de 100 et passent en premier.
+pas pertinente, image, date. Ces questions comptent dans le lot de 100 et passent en premier.
 
 - `fausse` / `mal posée` (question de la section `###### Questions`) : vérifier, puis `corriger` ou `reecrire`
   avec les règles ci-dessous (retrouver le rang dans la fiche par le texte de la question).
@@ -52,6 +52,11 @@ pas pertinente, image. Ces questions comptent dans le lot de 100 et passent en p
 - `image` : chercher l'image correcte du sujet sur Wikimedia Commons ou Wikidata (propriété P18), vérifier
   qu'elle représente bien le sujet, et remplacer le lien de l'image en tête de fiche ; garder l'ancien lien
   dans un commentaire HTML `<!-- image remplacée (cm020) : URL -->` juste en dessous. Si rien de sûr : laisser tel quel.
+- `date` (CM-030, jeu « Avant ou après ? ») : la ligne porte `« date affichée : … »`. Vérifier `debut` (naissance pour
+  une personne, date d'apparition pour une œuvre ou un événement) et `fin` sur Wikidata ou Wikipédia, accessibles
+  depuis le 25/11/2026. Si la date est fausse, la corriger dans le frontmatter et garder l'ancienne valeur dans une clé
+  `debut_archive_cm030` / `fin_archive_cm030` (jamais de suppression). Si la fiche mélange deux concepts (ex. un film et
+  une personne), ne rien corriger et lister le cas pour le PO. Si rien de sûr : laisser tel quel.
 - Une fois le lot publié : commenter chaque ticket traité (ce qui a été fait, lien vers la demande de fusion),
   puis le fermer (`gh api -X PATCH repos/ManuLaCastagne/culture-max/issues/<n> -f state=closed`).
 
