@@ -32,11 +32,11 @@ culture_g_justification: "Département très vaste et riche en repères géograp
 ![[Carte_Gironde.png]]
 ###### Questions
 
-Quelle est le département français où se trouve le [[Phare de Cordouan]], souvent appelé le "roi des phares" et inscrit au [[Patrimoine mondial de l'UNESCO]] en 2021 ? <!-- score: 3 -->
+Dans quel département se trouve le [[phare de Cordouan]], surnommé le « roi des phares » et inscrit au [[patrimoine mondial de l'UNESCO]] en [[2021]] ?
 
 Dans quel département de la région [[Nouvelle-Aquitaine]] peut-on observer le [[Bassin d'Arcachon]] et la plus haute dune d'Europe, la [[Dune du Pilat]] ?
 
-Quel est le département qui est traversé par le plus long estuaire d'Europe, l'[[estuaire de la Gironde]], qui résulte de la confluence de la [[Garonne]] et de la [[Dordogne]] avant de se jeter dans l'[[Océan Atlantique]] ? <!-- score: 7 -->
+Quel département, dont la préfecture est [[Bordeaux]], comprend les vignobles du [[Médoc]] et de [[Saint-Émilion]] ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Le département est traversé par la [[Garonne]] et la [[Dordogne]], qui se rejo
 Un fait étonnant, peu connu, est que la [[Dune du Pilat]], située dans la [[Gironde]], est la plus haute dune d'Europe, mesurant environ 102,5 mètres de hauteur selon les relevés de 2020.
 
 C'est également dans la [[Gironde]] que l'on trouve le célèbre vignoble de [[Saint-Émilion]], inscrit au patrimoine mondial de l'[[UNESCO]] depuis 1999, témoignage de la richesse historique et culturelle de la région.
+
+###### Archives questions
+
+Quel est le département qui est traversé par le plus long estuaire d'Europe, l'[[estuaire de la Gironde]], qui résulte de la confluence de la [[Garonne]] et de la [[Dordogne]] avant de se jeter dans l'[[Océan Atlantique]] ? <!-- score: 7 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est le département français où se trouve le [[Phare de Cordouan]], souvent appelé le "roi des phares" et inscrit au [[Patrimoine mondial de l'UNESCO]] en 2021 ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->

@@ -30,12 +30,20 @@ culture_g_justification: "Capitale sénégalaise fréquemment associée à l’A
 ![[Carte_Dakar.png]]
 ###### Questions
 
-Quelle est la capitale de [[Sénégal]], une ville qui a accueilli les premiers [[Jeux africains]] en 1963 ?
+Quelle capitale africaine fait face à l'[[île de Gorée]], ancien lieu de mémoire de la traite négrière ?
 
-Dans quelle ville s'est déroulée la conférence historique de 1945 organisée par [[Histoire/Charles de Gaulle]] pour discuter de l'avenir des colonies françaises en [[Afrique]] ?
+Quelle ville succéda à [[Saint-Louis (Sénégal)|Saint-Louis]] comme capitale de l'[[Afrique-Occidentale française]] en [[1902]] ?
 
-Quelle ville est devenue la destination finale du célèbre [[rallye Paris-Dakar]] à partir de 1979 et jusqu'en 2007 ?
+Quelle ville sénégalaise fut l'arrivée traditionnelle du rallye créé par [[Thierry Sabine]], dont la première édition partit fin [[1978]] ?
 
 ###### Description
 
 [[Dakar]] est la capitale du [[Sénégal]], située sur la côte atlantique de l'Afrique de l'Ouest. Fondée en 1857, la ville est devenue un point central pour la culture et l'économie de la région depuis l'indépendance du pays en 1960. Dakar abrite également l'impressionnant [[Monument de la Renaissance Africaine]], une statue de 49 mètres inaugurée en 2010 et considérée comme la plus haute d'[[Afrique]]. Chaque année, la ville est le point de départ du célèbre [[Rallye Dakar]], une course de rallye-raid qui, malgré son nom, se déroule désormais principalement en [[Amérique du Sud]] et en [[Arabie saoudite]] depuis 2009.
+
+###### Archives questions
+
+Quelle ville est devenue la destination finale du célèbre [[rallye Paris-Dakar]] à partir de 1979 et jusqu'en 2007 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la capitale de [[Sénégal]], une ville qui a accueilli les premiers [[Jeux africains]] en 1963 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville s'est déroulée la conférence historique de 1945 organisée par [[Histoire/Charles de Gaulle]] pour discuter de l'avenir des colonies françaises en [[Afrique]] ? <!-- cm003 remplacée 2026-11-23 -->

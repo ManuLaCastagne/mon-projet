@@ -32,11 +32,11 @@ culture_g_justification: "Pays européen central très rentable grâce à Vienne
 ![[Carte_Autriche.png]]
 ###### Questions
 
-Quelle est la patrie d'origine de [[Friedensreich Hundertwasser]], célèbre pour ses œuvres architecturales excentriques mêlant art et écologie, dont la plus connue est la [[Hundertwasserhaus]] dans [[Vienne]] ?
+Dans quel pays est né en [[1928]] le peintre et architecte [[Friedensreich Hundertwasser]], auteur d'un immeuble coloré et végétalisé à [[Vienne]] ?
 
-Quel pays d'Europe abrite le plus grand glacier des [[Alpes orientales]], le [[Pasterze]], qui se trouve au pied du [[Grossglockner]], la plus haute montagne d'[[Autriche]] avec une altitude de 3 798 mètres ?
+Dans quel pays le [[Grossglockner]], point culminant national à 3 798 mètres, domine-t-il le glacier de la [[Pasterze]] ?
 
-Dans quel pays européen peut-on trouver le [[Neusiedler See]], un lac sans débouché couvrant environ 315 km², qui est unique pour ses rives marécageuses et sa faible profondeur, inscrit au patrimoine mondial de l'[[UNESCO]] en 2001 ?
+Quel pays a été annexé par l'Allemagne nazie lors de l'[[Anschluss]] en mars [[1938]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Dans quel pays européen peut-on trouver le [[Neusiedler See]], un lac sans déb
 Un fait étonnant sur l'Autriche est qu'elle abrite le [[Glocknerhaus]], le restaurant le plus haut du pays, situé à plus de 2 870 mètres d'altitude, près du sommet du célèbre [[Grossglockner]].
 
 Depuis sa fondation en 976 jusqu'à son intégration à l'Union européenne en 1995, l'Autriche a joué un rôle central dans l'histoire et la stabilité politique de l'Europe.
+
+###### Archives questions
+
+Quel pays d'Europe abrite le plus grand glacier des [[Alpes orientales]], le [[Pasterze]], qui se trouve au pied du [[Grossglockner]], la plus haute montagne d'[[Autriche]] avec une altitude de 3 798 mètres ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la patrie d'origine de [[Friedensreich Hundertwasser]], célèbre pour ses œuvres architecturales excentriques mêlant art et écologie, dont la plus connue est la [[Hundertwasserhaus]] dans [[Vienne]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel pays européen peut-on trouver le [[Neusiedler See]], un lac sans débouché couvrant environ 315 km², qui est unique pour ses rives marécageuses et sa faible profondeur, inscrit au patrimoine mondial de l'[[UNESCO]] en 2001 ? <!-- cm003 remplacée 2026-11-23 -->

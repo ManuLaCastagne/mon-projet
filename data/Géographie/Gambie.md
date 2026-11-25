@@ -32,11 +32,11 @@ culture_g_justification: "Pays africain très caractéristique par sa forme encl
 ![[Carte_Gambie.png]]
 ###### Questions
 
-Quel pays d'Afrique a été entièrement enclavé par le [[Sénégal]] en 1965, année de son indépendance du [[Royaume-Uni]] ? <!-- score: 4 -->
+Quel pays d'Afrique de l'Ouest, enclavé dans le [[Sénégal]] hormis sa façade atlantique, est indépendant du [[Royaume-Uni]] depuis [[1965]] ?
 
-Quelle nation africaine a pour seule langue officielle l'[[anglais]] malgré le fait qu'elle soit située principalement en territoire francophone depuis 1965 ?
+Quel pays a formé de [[1982]] à [[1989]] une confédération avec le [[Sénégal]] ?
 
-Quel est le seul pays d'Afrique où le [[fleuve Gambie]] traverse entièrement le pays du début de son cours jusqu'à son embouchure dans l'[[Océan Atlantique]] ?
+Quel est le plus petit pays d'Afrique continentale, dont la capitale est [[Banjul]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Enclavée par le [[Sénégal]] sauf pour sa côte courte sur l'[[océan Atlantiq
 La capitale du pays, [[Banjul]], située sur l'île de St Mary à l'embouchure du fleuve Gambie, fut fondée en 1816 par les Britanniques sous le nom de Bathurst. 
 
 Un fait étonnant est que la Gambie est le pays africain avec la population la plus dense entourée d'un seul pays, avec près de 2,4 millions d'habitants en 2023, ce qui représente un curieux exemple d'enclavement avec un littoral maritime.
+
+###### Archives questions
+
+Quel est le seul pays d'Afrique où le [[fleuve Gambie]] traverse entièrement le pays du début de son cours jusqu'à son embouchure dans l'[[Océan Atlantique]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel pays d'Afrique a été entièrement enclavé par le [[Sénégal]] en 1965, année de son indépendance du [[Royaume-Uni]] ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle nation africaine a pour seule langue officielle l'[[anglais]] malgré le fait qu'elle soit située principalement en territoire francophone depuis 1965 ? <!-- cm003 remplacée 2026-11-23 -->

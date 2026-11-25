@@ -29,12 +29,20 @@ culture_g_justification: "Capitale du Canada et réponse classique permettant d�
 ![[Carte_Ottawa.png]]
 ###### Questions
 
-Quelle est la capitale du Canada, bien que [[Toronto]] et [[Montréal]] soient souvent perçues comme les villes les plus emblématiques du pays ?
+Quelle ville de l'[[Ontario]], sur la rive sud de la [[rivière des Outaouais]], est la capitale fédérale du [[Canada]] ?
 
-Quelle ville a accueilli les Jeux olympiques d'été en 1976 bien qu'elle ne soit habituellement pas la capitale, contrairement à [[Ottawa]] qui est effectivement la capitale ?
+Dans quelle ville canadienne se trouve la colline du Parlement, siège du Parlement fédéral ?
 
-Quelle ville canadienne a été choisie par la reine [[Reine Victoria]] en 1857 pour être la capitale du [[Canada]] et est située à l'intersection des rivières [[Ottawa]], [[Gatineau]], et [[Rideau]] ?
+Quelle ville la reine [[Victoria (reine du Royaume-Uni)|Victoria]] choisit-elle en [[1857]] comme capitale de la [[Province du Canada]] ?
 
 ###### Description
 
 [[Ottawa]] est la capitale du [[Canada]] depuis 1867, année de la confédération canadienne. Située dans la province de [[Ontario]], elle est la quatrième plus grande ville du pays en termes de population. Un lieu emblématique de [[Ottawa]] est la [[Colline du Parlement]], où le célèbre [[Édifice du Centre]] a été construit entre 1859 et 1866. En 1965, [[Ottawa]] a adopté l'[[érable à sucre]] comme arbre officiel pour représenter sa richesse naturelle et historique.
+
+###### Archives questions
+
+Quelle ville a accueilli les Jeux olympiques d'été en 1976 bien qu'elle ne soit habituellement pas la capitale, contrairement à [[Ottawa]] qui est effectivement la capitale ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville canadienne a été choisie par la reine [[Reine Victoria]] en 1857 pour être la capitale du [[Canada]] et est située à l'intersection des rivières [[Ottawa]], [[Gatineau]], et [[Rideau]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la capitale du Canada, bien que [[Toronto]] et [[Montréal]] soient souvent perçues comme les villes les plus emblématiques du pays ? <!-- cm003 remplacée 2026-11-23 -->

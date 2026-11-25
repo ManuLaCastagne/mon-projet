@@ -32,11 +32,11 @@ culture_g_justification: "Ville très rentable grâce à sa cathédrale, Thomas 
 ![[Carte_Canterbury.png]]
 ###### Questions
 
-En quelle année la cathédrale de [[Canterbury]] est-elle inscrite au patrimoine mondial de l'[[UNESCO]] ?
+Dans quelle ville du [[Kent]] la cathédrale, siège du primat de l'[[Église d'Angleterre]], est-elle inscrite au [[patrimoine mondial de l'UNESCO]] depuis [[1988]] ?
 
-Quel site situé à [[Canterbury]] est considéré comme le lieu où [[Thomas Becket]] a été assassiné en 1170 ?
+Dans quelle cathédrale anglaise l'archevêque [[Thomas Becket]] fut-il assassiné le 29 décembre [[1170]] ?
 
-Quel pèlerinage médiéval, immortalisé par [[Geoffrey Chaucer]] dans les "Contes de [[Canterbury]]", était entrepris par des pèlerins à destination du [[sanctuaire de Thomas Becket]] ?
+Vers quelle ville cheminent les pèlerins des contes en vers de [[Geoffrey Chaucer]], écrits à la fin du XIVe siècle ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ En plus d'être un lieu de pèlerinage important au Moyen Âge, la ville est imm
 Un fait étonnant à propos de Canterbury est qu'elle abrite l'une des plus anciennes écoles en activité du monde, [[The King's School]], fondée en l'an 597. 
 
 Enfin, la ville joue un rôle crucial dans l'histoire religieuse de l'[[Angleterre]] puisque c'est ici que le [[Dôme de Saint Augustin]] a été envoyé pour convertir les Anglo-Saxons au christianisme en 597.
+
+###### Archives questions
+
+En quelle année la cathédrale de [[Canterbury]] est-elle inscrite au patrimoine mondial de l'[[UNESCO]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel site situé à [[Canterbury]] est considéré comme le lieu où [[Thomas Becket]] a été assassiné en 1170 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel pèlerinage médiéval, immortalisé par [[Geoffrey Chaucer]] dans les "Contes de [[Canterbury]]", était entrepris par des pèlerins à destination du [[sanctuaire de Thomas Becket]] ? <!-- cm003 remplacée 2026-11-23 -->

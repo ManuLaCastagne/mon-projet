@@ -33,9 +33,9 @@ culture_g_justification: "Grand ensemble géographique français régulièrement
 ![[Carte_Massif Central.png]]
 ###### Questions
 
-Quelle région montagneuse de France, géologiquement plus ancienne que les [[Alpes]], est connue pour ses volcans endormis et culminait autrefois au sommet du [[Puy de Sancy]] à 1886 mètres d'altitude ?
+Quelle région montagneuse française culmine au [[puy de Sancy]], à 1 886 mètres ?
 
-Quel ensemble de montagnes du sud du [[Massif Central]] est classé [[Réserve de biosphère de l'UNESCO]] depuis 1985 pour sa grande valeur écologique et sa diversité biologique unique ?
+Dans quelle région montagneuse française se trouve la [[Chaîne des Puys]], inscrite au [[patrimoine mondial de l'UNESCO]] en [[2018]] avec la faille de [[Limagne]] ?
 
 Quel massif s'étendant sur plus de 85 000 km2 en France abrite des sources chaudes utilisées depuis l'époque romaine, notamment à [[Vichy]] et [[Royat]] ?
 
@@ -48,3 +48,9 @@ Ce massif est composé de plusieurs chaînes de montagnes et de hauts plateaux, 
 Un fait étonnant est que le [[Puy de Sancy]], avec ses 1 886 mètres, est le point culminant du Massif Central et a détenu brièvement le record du plus haut sommet de France, avant que les Alpes soient entièrement explorées.
 
 En 1985, le Massif Central a été le lieu d'une éruption volcanique inattendue et spectaculaire qui a créé le [[Château de Montségur]] dans la région des [[Cévennes]].
+
+###### Archives questions
+
+Quel ensemble de montagnes du sud du [[Massif Central]] est classé [[Réserve de biosphère de l'UNESCO]] depuis 1985 pour sa grande valeur écologique et sa diversité biologique unique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle région montagneuse de France, géologiquement plus ancienne que les [[Alpes]], est connue pour ses volcans endormis et culminait autrefois au sommet du [[Puy de Sancy]] à 1886 mètres d'altitude ? <!-- cm003 remplacée 2026-11-23 -->

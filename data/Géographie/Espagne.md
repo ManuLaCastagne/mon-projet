@@ -33,9 +33,9 @@ culture_g_justification: "Grande référence européenne, l’Espagne permet de 
 ![[Carte_Espagne.png]]
 ###### Questions
 
-Quel pays abrite la seule véritable [[désert]] d'[[Europe]], le [[désert de Tabernas]], situé dans la province d'[[Almería]]? <!-- score: 4 -->
+Dans quel pays se trouve le [[désert de Tabernas]], dans la province d'[[Almería]], où furent tournés de nombreux westerns italiens ?
 
-Quelle nation possède l'[[île d'Alborán]], située dans la [[mer d'Alborán]], à mi-chemin entre l'[[Espagne]] et le [[Maroc]]?
+À quel pays appartient l'[[île d'Alborán]], îlot de la [[Méditerranée]] situé entre l'[[Andalousie]] et le [[Maroc]] ?
 
 Quel pays d'[[Europe]] compte 50 provinces, dont celles de [[Soria]] et d'Ourense?
 ###### Description
@@ -48,3 +48,8 @@ Le pays comprend également les îles [[Baléares]] dans la mer Méditerranée e
 
 Un fait étonnant est que la [[Espagne]] abrite le [[plus ancien restaurant du monde ]]encore en fonctionnement depuis 1725.
 
+###### Archives questions
+
+Quelle nation possède l'[[île d'Alborán]], située dans la [[mer d'Alborán]], à mi-chemin entre l'[[Espagne]] et le [[Maroc]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel pays abrite la seule véritable [[désert]] d'[[Europe]], le [[désert de Tabernas]], situé dans la province d'[[Almería]]? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

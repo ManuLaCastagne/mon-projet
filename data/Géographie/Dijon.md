@@ -29,13 +29,13 @@ culture_g_justification: "Ville française très exploitable grâce aux ducs de 
 ![[Carte_Dijon.png]]
 ###### Questions
 
- En formule 1, quelle ville bourguignonne a accueilli en 1982 le dernier [[Grand Prix de Suisse]] ? Pourquoi la Suisse ? Car de 1995 à 2018, les courses sur circuit ont été interdites sur le territoire suisse.
+Quelle ville bourguignonne a accueilli en [[1982]] le dernier [[Grand Prix de Suisse]] de [[Formule 1]], les courses sur circuit étant interdites en Suisse depuis [[1955]] ?
  
- Quelle ville française est connue pour avoir été la capitale des [[ducs de Bourgogne]] au cours du Moyen Âge, notamment au XIVe et XVe siècles ?
+Quelle ville fut la capitale des [[ducs de Bourgogne]] de la maison de [[Valois]] aux XIVe et XVe siècles ?
 
-Quelle ville abrite depuis 1855 le [[Musée des Beaux-Arts]] situé dans le [[Palais des ducs]] et des États de Bourgogne, un des plus anciens musées de France ? <!-- score: 7 -->
+Dans quelle ville le musée des Beaux-Arts, fondé en [[1787]], occupe-t-il le palais des ducs et des États de Bourgogne ?
 
-Quelle ville est célèbre pour son [[Dijon-Prenois]], un circuit automobile ouvert en 1972 qui a accueilli des Grands Prix de [[Formule 1]] ?
+Quelle ville de la [[Côte-d'Or]] a donné son nom à une moutarde forte préparée avec des graines et du verjus ?
 
 ###### Description
 
@@ -46,3 +46,13 @@ Elle est célèbre pour ses toits polychromes en tuiles vernissées, visibles de
 Un fait surprenant à propos de [[Dijon]] est qu'elle abrite le Palais des [[Ducs de Bourgogne]], dont le [[Musée des Beaux-Arts de Dijon]], situé dans une partie du palais, détient l'une des plus riches collections de France en dehors de Paris. 
 
 Chaque année, depuis 1851, [[Dijon]] accueille aussi le prestigieux Concours des Vins dans le cadre de la foire internationale et gastronomique, faisant d'elle une capitale de la gastronomie et des vins.
+
+###### Archives questions
+
+Quelle ville est célèbre pour son [[Dijon-Prenois]], un circuit automobile ouvert en 1972 qui a accueilli des Grands Prix de [[Formule 1]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+ Quelle ville française est connue pour avoir été la capitale des [[ducs de Bourgogne]] au cours du Moyen Âge, notamment au XIVe et XVe siècles ? <!-- cm003 remplacée 2026-11-23 -->
+
+ En formule 1, quelle ville bourguignonne a accueilli en 1982 le dernier [[Grand Prix de Suisse]] ? Pourquoi la Suisse ? Car de 1995 à 2018, les courses sur circuit ont été interdites sur le territoire suisse. <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville abrite depuis 1855 le [[Musée des Beaux-Arts]] situé dans le [[Palais des ducs]] et des États de Bourgogne, un des plus anciens musées de France ? <!-- score: 7 --> <!-- cm003 remplacée 2026-11-23 -->

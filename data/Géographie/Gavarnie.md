@@ -33,11 +33,9 @@ culture_g_justification: "Site naturel français emblématique, utile en géogra
 ![[Carte_Gavarnie.png]]
 ###### Questions
 
-Quel est le nom du village qui abrite le célèbre [[Cirque de Gavarnie]], un amphithéâtre naturel situé dans les [[Hautes-Pyrénées]] et inscrit au [[Patrimoine mondial de l'UNESCO]] depuis 1997 ?
+Quel cirque glaciaire des [[Hautes-Pyrénées]], inscrit au [[patrimoine mondial de l'UNESCO]] en [[1997]] avec le [[Mont Perdu]], abrite une cascade de plus de 400 mètres ?
 
-Quel est le point central de l'une des étapes mythiques du [[Tour de France]], atteignant une altitude de [[1 375 mètres]] et offrant une vue imprenable sur les monts environnants du [[Massif des Pyrénées]] ? <!-- score: 4 -->
-
-Quelle est la commune où l'écrivain [[Victor Hugo]] a décrit le cirque comme "un colosseum de la nature" dans son ouvrage de 1843, [[Voyage dans les Pyrénées]] ?
+Quel cirque des Pyrénées [[Victor Hugo]] qualifia-t-il de « colosseum de la nature » après son voyage de [[1843]] ?
 
 ###### Description
 
@@ -48,3 +46,11 @@ Le cirque de [[Gavarnie]], situé dans le [[Parc national des Pyrénées]] en Fr
 Un fait étonnant est que la célèbre [[Grande Cascade de Gavarnie]], qui descend de sa paroi rocheuse quasiment à la verticale, est la plus haute chute d'eau en [[métropole française]] avec une hauteur vertigineuse d'environ 422 mètres. 
 
 Anecdote peu connue, le poète romantique [[Victor Hugo]] a immortalisé cet endroit en le décrivant comme une "colosseum de la nature" dans ses écrits, marquant ainsi Gavarnie d'une empreinte littéraire indélébile.
+
+###### Archives questions
+
+Quel est le nom du village qui abrite le célèbre [[Cirque de Gavarnie]], un amphithéâtre naturel situé dans les [[Hautes-Pyrénées]] et inscrit au [[Patrimoine mondial de l'UNESCO]] depuis 1997 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le point central de l'une des étapes mythiques du [[Tour de France]], atteignant une altitude de [[1 375 mètres]] et offrant une vue imprenable sur les monts environnants du [[Massif des Pyrénées]] ? <!-- score: 4 --> <!-- cm003 archivée 2026-11-23 -->
+
+Quelle est la commune où l'écrivain [[Victor Hugo]] a décrit le cirque comme "un colosseum de la nature" dans son ouvrage de 1843, [[Voyage dans les Pyrénées]] ? <!-- cm003 remplacée 2026-11-23 -->

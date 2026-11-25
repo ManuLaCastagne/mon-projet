@@ -31,11 +31,9 @@ culture_g_justification: "Lieu emblématique de la conquête spatiale, associé 
 
 Quel cap de la côte Est de la Floride, autrefois appelé cap Kennedy, abrite une base de lancement d'engins spatiaux ?
 
-Dans quel lieu situé en [[Floride]], connu pour ses lancements de fusées, la NASA a-t-elle envoyé la mission [[Apollo 11]] en 1969, marquant le premier pas de l'humanité sur la lune ?
+D'où décolla le 5 mai [[1961]] [[Alan Shepard]], premier Américain envoyé dans l'espace ?
 
-Quel site, rebaptisé [[Cape Kennedy]] en l'honneur de [[John F. Kennedy]] après son assassinat en 1963, est redevenu [[Cap Canaveral]] en 1973 après le vote de la législature de la Floride ?
-
-Quel est le nom du cap qui a accueilli en 1958 le lancement du premier satellite américain, [[Explorer 1]], marquant l'entrée des [[États-Unis]] dans la course à l'espace ?
+De quel cap de [[Floride]] fut lancé le 31 janvier [[1958]] [[Explorer 1]], premier satellite artificiel américain ?
 
 ###### Description
 
@@ -46,3 +44,11 @@ Initialement connu sous le nom de [[Cap Kennedy]] entre 1963 et 1973, ce changem
 Un fait étonnant est que le tout premier satellite américain, [[Explorer 1]], a été lancé depuis Cap Canaveral le 31 janvier 1958, marquant les débuts des États-Unis dans l'ère spatiale. 
 
 Aujourd'hui, il est aussi utilisé par des entreprises privées comme [[SpaceX]] pour leurs lancements innovants, continuant à jouer un rôle crucial dans l'exploration spatiale moderne.
+
+###### Archives questions
+
+Quel site, rebaptisé [[Cape Kennedy]] en l'honneur de [[John F. Kennedy]] après son assassinat en 1963, est redevenu [[Cap Canaveral]] en 1973 après le vote de la législature de la Floride ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel lieu situé en [[Floride]], connu pour ses lancements de fusées, la NASA a-t-elle envoyé la mission [[Apollo 11]] en 1969, marquant le premier pas de l'humanité sur la lune ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du cap qui a accueilli en 1958 le lancement du premier satellite américain, [[Explorer 1]], marquant l'entrée des [[États-Unis]] dans la course à l'espace ? <!-- cm003 remplacée 2026-11-23 -->

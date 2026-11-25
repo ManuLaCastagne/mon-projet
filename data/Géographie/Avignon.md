@@ -32,9 +32,9 @@ culture_g_justification: "Ville très rentable grâce à la papauté, au Palais 
 
 Quelle ville française a été le siège de la papauté entre [[1309]] et [[1377]] ? 
 
-Dans quelle ville se déroule chaque année le célèbre [[Festival d'Avignon]], événement théâtral inauguré en [[1947]] par [[Jean Vilar]] ? 
+Dans quelle ville [[Jean Vilar]] a-t-il créé en [[1947]] le festival de théâtre joué dans la cour d'honneur du [[Palais des papes]] ?
 
-Où se situe le célèbre pont médiéval connu sous le nom de [[Pont Saint-Bénézet]], mondialement connu grâce à une chanson dédiée ?
+Dans quelle ville se trouve le [[Pont Saint-Bénézet]], pont médiéval sur le [[Rhône]] rendu célèbre par une chanson enfantine ?
 
 ###### Description
 
@@ -45,3 +45,9 @@ Capitale des [[Papes]] au XIVe siècle, la ville accueille le Palais des [[Papes
 Un fait étonnant sur [[Avignon]] est qu'elle fut un temps, de 1348 à 1791, une possession du [[Saint-Siège]], indépendamment du royaume de [[France]].  
 
 Grâce à son célèbre festival, le Festival d'[[Avignon]], créé en 1947, la ville est devenue un haut lieu de rencontres des arts du spectacle, accueillant chaque année des milliers de passionnés.
+
+###### Archives questions
+
+Dans quelle ville se déroule chaque année le célèbre [[Festival d'Avignon]], événement théâtral inauguré en [[1947]] par [[Jean Vilar]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Où se situe le célèbre pont médiéval connu sous le nom de [[Pont Saint-Bénézet]], mondialement connu grâce à une chanson dédiée ? <!-- cm003 remplacée 2026-11-23 -->

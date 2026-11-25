@@ -36,11 +36,11 @@ culture_g_justification: "Ville mondialement connue grâce à la Floride, Miami 
 
 En 2019, dans quelle ville de Floride s'est tenue une foire d'art contemporain au cours de laquelle une [[banane]] a été vendue 120 000 dollars?
 
-Quelle ville américaine a accueilli le premier [[vol direct]] entre les [[États-Unis]] et le [[Bahamas]] en 1957 ?
+Quelle ville de [[Floride]] fut officiellement fondée en [[1896]], peu après l'arrivée du chemin de fer de [[Henry Flagler]] ?
 
-Quelle ville a été le décor du générique de la célèbre série télévisée des années 1980 [[Miami Vice]] ?
+Dans quelle ville de [[Floride]] enquêtent [[Sonny Crockett]] et [[Ricardo Tubbs]], héros d'une série policière des années 1980 ?
 
-Dans quelle ville se trouve le quartier de [[Little Havana]], connu pour sa culture [[cubaine]] influente, ayant vu un important exode après 1959 ? <!-- score: 3 -->
+Dans quelle ville se trouve le quartier de [[Little Havana]], foyer de l'exil cubain après la révolution de [[1959]] ?
 
 ###### Description
 
@@ -54,3 +54,10 @@ En outre, la ville se trouve à proximité des [[Everglades]], une vaste région
 
 Question : En 2019, dans quelle ville de [[Floride]] s'est tenue une foire d'art contemporain au cours de laquelle une banane a été vendue 120 000 dollars? Ville de Floride?
 
+###### Archives questions
+
+Quelle ville a été le décor du générique de la célèbre série télévisée des années 1980 [[Miami Vice]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville américaine a accueilli le premier [[vol direct]] entre les [[États-Unis]] et le [[Bahamas]] en 1957 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville se trouve le quartier de [[Little Havana]], connu pour sa culture [[cubaine]] influente, ayant vu un important exode après 1959 ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->

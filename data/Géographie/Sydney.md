@@ -30,11 +30,11 @@ culture_g_justification: "Métropole mondialement célèbre, associée à son op
 
 ###### Questions
 
-En quelle ville a été inauguré en [[1973]] le célèbre [[Opéra de Sydney]], un des bâtiments les plus emblématiques au monde ? <!-- score: 10 -->
+Dans quelle ville australienne l'opéra conçu par l'architecte danois [[Jørn Utzon]] a-t-il été inauguré en [[1973]] ?
 
-Quelle ville australienne a accueilli les [[Jeux Olympiques d'été]] en [[2000]], marquant la cérémonie d'ouverture avec un spectacle époustouflant ?
+Quelle ville australienne a accueilli les [[Jeux olympiques d'été]] de [[2000]] ?
 
-Dans quelle ville se trouve le port naturel connu sous le nom de [[Port Jackson]], qui est considéré comme l'un des plus grands et plus beaux ports du monde ?
+Quelle ville s'est développée autour de la rade de [[Port Jackson]], où la « Première Flotte » britannique fonda une colonie pénitentiaire en [[1788]] ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Bien que [[Sydney]] ne soit pas la capitale de l'[[Australie]], elle est fréque
 Un fait étonnant : [[Sydney]] abrite le pont [[Harbour Bridge]], qui permet aux visiteurs aventuriers de grimper jusqu'au sommet, offrant une vue panoramique à 134 mètres au-dessus de l'eau. 
 
 En 2000, [[Sydney]] a accueilli les [[Jeux olympiques d'été]], qui ont été décrits par le président du Comité olympique international de l'époque, [[Juan Antonio Samaranch]], comme étant "les meilleurs Jeux olympiques jamais organisés".
+
+###### Archives questions
+
+En quelle ville a été inauguré en [[1973]] le célèbre [[Opéra de Sydney]], un des bâtiments les plus emblématiques au monde ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville se trouve le port naturel connu sous le nom de [[Port Jackson]], qui est considéré comme l'un des plus grands et plus beaux ports du monde ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville australienne a accueilli les [[Jeux Olympiques d'été]] en [[2000]], marquant la cérémonie d'ouverture avec un spectacle époustouflant ? <!-- cm003 remplacée 2026-11-23 -->

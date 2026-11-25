@@ -32,12 +32,20 @@ culture_g_justification: "Grande capitale européenne associée aux canaux, à l
 ![[Carte_Amsterdam.png]]
 ###### Questions
 
-Quelle ville, capitale des [[Pays-Bas]], est célèbre pour ses maisons en briques étroites du XVIIe siècle, construites sur des pieux en bois enfoncés dans le sol meuble, formant un héritage architectural unique ?
+Quelle capitale des [[Pays-Bas]], traversée par une ceinture de canaux creusés au XVIIe siècle, est en grande partie bâtie sur des pieux de bois ?
 
-Quel style architectural emblématique de la ville d'[[Amsterdam]] repose sur l'usage prédominant de frontons en pignon, observables sur de nombreuses façades depuis l'âge d'or hollandais commencé en 1602 ?
+Dans quelle ville se trouve le [[Rijksmuseum]], qui expose « [[La Ronde de nuit]] » de [[Rembrandt]] ?
 
-Quel concept unique à [[Amsterdam]] résulte du fait que nombre de ses bâtiments penchent vers l'avant, conçu pour faciliter le levage des marchandises et se nommant « Maisons penchées » ?
+Dans quelle ville [[Anne Frank]] vécut-elle cachée de 1942 à 1944 dans l'annexe d'une maison du [[Prinsengracht]] ?
 
 ###### Description
 
 L'architecture d'[[Amsterdam]] se distingue par ses bâtiments emblématiques et ses canaux pittoresques, dont beaucoup datent de l'âge d'or néerlandais au XVIIe siècle. Un exemple frappant est le [[Rijksmuseum]], inauguré en 1885, qui combine des éléments néogothiques et Renaissance. La ville est également connue pour ses maisons à pignon en escalier, telles que celles qui longent le [[canal Singel]], et qui furent principalement construites au début des années 1600. Le quartier moderne d'[[IJburg]], qui a émergé dans les années 2000, représente une approche innovante de l'urbanisme avec son architecture durable et ses îles artificielles.
+
+###### Archives questions
+
+Quel style architectural emblématique de la ville d'[[Amsterdam]] repose sur l'usage prédominant de frontons en pignon, observables sur de nombreuses façades depuis l'âge d'or hollandais commencé en 1602 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel concept unique à [[Amsterdam]] résulte du fait que nombre de ses bâtiments penchent vers l'avant, conçu pour faciliter le levage des marchandises et se nommant « Maisons penchées » ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville, capitale des [[Pays-Bas]], est célèbre pour ses maisons en briques étroites du XVIIe siècle, construites sur des pieux en bois enfoncés dans le sol meuble, formant un héritage architectural unique ? <!-- cm003 remplacée 2026-11-23 -->
