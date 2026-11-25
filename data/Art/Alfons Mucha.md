@@ -32,7 +32,7 @@ culture_g_justification: "Artiste emblématique de l’Art nouveau, associé aux
 
 Quel artiste d'origine tchèque a créé en 1894 l'affiche du spectacle de [[Sarah Bernhardt]] qui a lancé sa renommée mondiale ?
 
-Quel peintre est souvent associé au style [[Art nouveau]] et a conçu les vitraux de la [[Cathédrale Saint-Guy de Prague]] en 1931 ? <!-- score: 3 -->
+Quel peintre, figure du style [[Art nouveau]], a conçu en 1931 un vitrail de la [[Cathédrale Saint-Guy de Prague]] ?
 
 Quel artiste a réalisé la série de peintures monumentales intitulée "L'Épopée slave" entre 1910 et 1928 ?
 
@@ -42,6 +42,16 @@ Quel artiste a réalisé la série de peintures monumentales intitulée "L'Épop
 
 Son style distinctif, caractérisé par des motifs floraux, des formes sinueuses et des palettes de tons pastel, a donné naissance à des affiches, des bijoux et des illustrations qui ont influencé de nombreux artistes contemporains. 
 
-En 1931, il a entrepris la réalisation de son œuvre monumentale, l'[[Épopée slave]], composée de 20 grandes toiles, un projet achevé en 1928 qui lui a pris près de 18 ans de travail. 
+En 1910, il a entrepris la réalisation de son œuvre monumentale, l'[[Épopée slave]], composée de 20 grandes toiles, un projet achevé en 1928 qui lui a pris près de 18 ans de travail. 
 
-Fait étonnant : [[Alfons Mucha]] a conçu la première affiches publicitaires illustrées pour des domaines aussi variés que la peinture (avec les papiers à cigarettes) et le théâtre, ce qui en fait un pionnier dans le domaine des arts graphiques appliqués au marketing.
+Fait étonnant : [[Alfons Mucha]] a réalisé aussi bien des affiches de théâtre que des affiches publicitaires pour des produits de consommation, comme les papiers à cigarettes, ce qui en fait un pionnier des arts graphiques appliqués au marketing.
+
+###### Archives questions
+
+Quel peintre est souvent associé au style [[Art nouveau]] et a conçu les vitraux de la [[Cathédrale Saint-Guy de Prague]] en 1931 ? <!-- score: 3 --> <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+En 1931, il a entrepris la réalisation de son œuvre monumentale, l'[[Épopée slave]], composée de 20 grandes toiles, un projet achevé en 1928 qui lui a pris près de 18 ans de travail. <!-- cm034 corrigée 2026-11-25 -->
+
+Fait étonnant : [[Alfons Mucha]] a conçu la première affiches publicitaires illustrées pour des domaines aussi variés que la peinture (avec les papiers à cigarettes) et le théâtre, ce qui en fait un pionnier dans le domaine des arts graphiques appliqués au marketing. <!-- cm034 corrigée 2026-11-25 -->

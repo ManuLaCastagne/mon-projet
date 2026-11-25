@@ -6,7 +6,8 @@ tags:
   - XXe
 date:
   - 2023/10/07
-debut: 2023
+debut: 1928
+debut_archive_cm034: "2023"
 fin: 1982
 indice_1 : 
   - métaphysique

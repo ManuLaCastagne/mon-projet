@@ -29,9 +29,9 @@ culture_g_justification: "Auteur-compositeur français très populaire, réguli�
 
 ###### Questions
 
-Quel chanteur français a sorti l'album "[[Samedi soir sur la Terre]]" en 1994, qui est devenu l'un des plus grands succès commerciaux de sa carrière avec plus de 4 millions d'exemplaires vendus ?
+Quel chanteur français a sorti en 1994 l'album "[[Samedi soir sur la Terre]]", certifié disque de diamant et vendu à plus de 3 millions d'exemplaires ?
 
-Qui est l'artiste derrière la chanson [[Petite Marie]], premièrement sortie en 1977, qui a contribué à lancer sa carrière grâce à la victoire au concours de [[Sud Radio]] ?
+Quel chanteur a remporté en juin 1974 le concours de chanson de [[Sud Radio]], à Toulouse, avec [[Petite Marie]], titre sorti en disque en 1977 ?
 
 Quel chanteur français s'est inspiré du [[rock folk]] américain, notamment de [[Bob Dylan]], pour créer un style distinctif dès son premier album "[[Les Murs de Poussière]]" en 1977 ?
 
@@ -41,6 +41,18 @@ Quel chanteur français s'est inspiré du [[rock folk]] américain, notamment de
 
 Originaire d'[[Astaffort]], un petit village dans le sud-ouest de la France, Cabrel s'est fait un nom grâce à ses textes poétiques et engagés, influencés par des artistes tels que [[Bob Dylan]]. 
 
-En 1994, son album *[[Samedi soir sur la Terre]]* a connu un succès phénoménal, se vendant à plus de quatre millions d'exemplaires, ce qui en fait l'un des albums les plus vendus de l'histoire de la musique française. 
+En 1994, son album *[[Samedi soir sur la Terre]]* a connu un succès phénoménal : certifié disque de diamant, il s'est vendu à plus de trois millions d'exemplaires, ce qui en fait l'un des albums les plus vendus de l'histoire de la musique française. 
 
-Un fait étonnant est que [[Francis Cabrel]] possède un record peu connu : il a remporté en 1989 le prestigieux prix de la chanson française pour l'intégralité de son œuvre, bien qu'il n'ait jamais chanté en anglais, ce qui le distingue dans un paysage musical souvent influencé par la langue de [[William Shakespeare]].
+Un fait étonnant est que [[Francis Cabrel]], qui a appris l'anglais en traduisant les chansons de [[Bob Dylan]], n'a jamais enregistré de chanson en anglais ; il a reçu en 2010 la Grande médaille de la chanson française de l'Académie française.
+
+###### Archives questions
+
+Quel chanteur français a sorti l'album "[[Samedi soir sur la Terre]]" en 1994, qui est devenu l'un des plus grands succès commerciaux de sa carrière avec plus de 4 millions d'exemplaires vendus ? <!-- cm034 corrigée 2026-11-25 -->
+
+Qui est l'artiste derrière la chanson [[Petite Marie]], premièrement sortie en 1977, qui a contribué à lancer sa carrière grâce à la victoire au concours de [[Sud Radio]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+En 1994, son album *[[Samedi soir sur la Terre]]* a connu un succès phénoménal, se vendant à plus de quatre millions d'exemplaires, ce qui en fait l'un des albums les plus vendus de l'histoire de la musique française. <!-- cm034 corrigée 2026-11-25 -->
+
+Un fait étonnant est que [[Francis Cabrel]] possède un record peu connu : il a remporté en 1989 le prestigieux prix de la chanson française pour l'intégralité de son œuvre, bien qu'il n'ait jamais chanté en anglais, ce qui le distingue dans un paysage musical souvent influencé par la langue de [[William Shakespeare]]. <!-- cm034 corrigée 2026-11-25 -->

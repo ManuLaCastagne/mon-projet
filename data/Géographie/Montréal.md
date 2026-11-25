@@ -32,11 +32,11 @@ culture_g_justification: "Métropole canadienne fréquemment mobilisée pour les
 ![[Carte_Montréal.png]]
 ###### Questions
 
-Quelle ville a été la première d'Amérique du Nord à accueillir les [[Jeux Olympiques]] d'été en 1976 ?
+Quelle ville a été la première du Canada à accueillir les [[Jeux Olympiques]] d'été, en 1976 ?
 
-Dans quelle ville a été inauguré le [[Métro]] en 1966, devenant ainsi la première ville du [[Canada]] à posséder ce type de transport en commun?
+Dans quelle ville le [[Métro]] a-t-il été inauguré le 14 octobre 1966, douze ans après celui de Toronto ?
 
-Quelle ville abrite le [[Mont Royal]], qui a inspiré son nom, et dont le parc a été conçu par [[Frederick Law Olmsted]] en 1876 ?
+Quelle ville abrite le [[Mont Royal]], qui lui a inspiré son nom, et dont le parc, aménagé par [[Frederick Law Olmsted]], a été inauguré en 1876 ?
 
 ###### Description
 
@@ -44,6 +44,18 @@ Quelle ville abrite le [[Mont Royal]], qui a inspiré son nom, et dont le parc a
 
 Fondée en 1642, elle est connue pour être une métropole dynamique et cosmopolite, où le français est la langue prédominante.
 
-Un fait étonnant sur Montréal est que le [[Mont Royal]], la colline qui a donné son nom à la ville, est en fait une formation volcanique vieille de plus de 125 millions d'années, bien qu'elle n’ait jamais été un volcan actif.
+Un fait étonnant sur Montréal est que le [[Mont Royal]], la colline qui a donné son nom à la ville, est le reste d'une intrusion de magma figée sous terre il y a environ 125 millions d'années : ce n'a jamais été un volcan.
 
 Chaque année, [[Montréal]] accueille des festivals célèbres comme le Festival International de Jazz et [[Juste pour rire]], attirant des millions de visiteurs du monde entier.
+
+###### Archives questions
+
+Quelle ville a été la première d'Amérique du Nord à accueillir les [[Jeux Olympiques]] d'été en 1976 ? <!-- cm034 corrigée 2026-11-25 -->
+
+Dans quelle ville a été inauguré le [[Métro]] en 1966, devenant ainsi la première ville du [[Canada]] à posséder ce type de transport en commun? <!-- cm034 corrigée 2026-11-25 -->
+
+Quelle ville abrite le [[Mont Royal]], qui a inspiré son nom, et dont le parc a été conçu par [[Frederick Law Olmsted]] en 1876 ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Un fait étonnant sur Montréal est que le [[Mont Royal]], la colline qui a donné son nom à la ville, est en fait une formation volcanique vieille de plus de 125 millions d'années, bien qu'elle n’ait jamais été un volcan actif. <!-- cm034 corrigée 2026-11-25 -->

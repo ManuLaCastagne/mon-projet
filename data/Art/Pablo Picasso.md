@@ -16,7 +16,9 @@ indice_2 :
 indice_3 : 
   - Les Demoiselles d'Avignon
 indice_4 : 
-  - Pablo Picasso
+  - "Malaga"
+indice_4_archive_cm034:
+  - "Pablo Picasso"
 indice_5 : 
   - Peintre espagnol
 indice_6 : 
@@ -31,7 +33,7 @@ culture_g_justification: "Picasso est une figure universelle, exploitable en cub
 
 ###### Questions
 
-En quelle année [[Pablo Picasso]] a-t-il co-fondé le mouvement artistique du [[cubisme]] avec [[Georges Braque]] ? 
+Quel peintre espagnol est considéré, avec [[Georges Braque]], comme l'un des fondateurs du [[cubisme]] ?
 
 Quel artiste a réalisé en 1937 une œuvre pour le [[pavillon espagnol]] de l'[[Exposition internationale]] à [[Paris]], représentant les horreurs de la [[Guerre civile espagnole]] ? <!-- score: 8 -->
 
@@ -43,6 +45,14 @@ Quel peintre a eu une période de création artistique appelée la [[période bl
 
 En 1937, il crée l'une de ses œuvres les plus célèbres, "Guernica", une puissante dénonciation des horreurs de la guerre civile espagnole, exposée au [[Musée Reina Sofía]] à [[Madrid]]. 
 
-Une information étonnante est que Picasso avait un nom complet comprenant 23 mots, son nom complet étant [[Pablo Diego José Francisco de Paula Juan Nepomuceno Crispín Crispiniano María Remedios de la Santísima Trinidad Ruiz Picasso]], ce qui en fait un record remarquable pour un artiste de renommée mondiale. 
+Une information étonnante est que Picasso avait un nom de baptême particulièrement long : [[Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Mártir Patricio Ruiz y Picasso]]. 
 
 Il est également connu pour avoir produit environ 50,000 œuvres au cours de sa vie, y compris des peintures, dessins, sculptures et céramiques, illustrant sa prolificité et sa contribution exceptionnelle au monde de l'art.
+
+###### Archives questions
+
+En quelle année [[Pablo Picasso]] a-t-il co-fondé le mouvement artistique du [[cubisme]] avec [[Georges Braque]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Une information étonnante est que Picasso avait un nom complet comprenant 23 mots, son nom complet étant [[Pablo Diego José Francisco de Paula Juan Nepomuceno Crispín Crispiniano María Remedios de la Santísima Trinidad Ruiz Picasso]], ce qui en fait un record remarquable pour un artiste de renommée mondiale. <!-- cm034 corrigée 2026-11-25 -->

@@ -6,8 +6,10 @@ location:
 tags:
   - Jérusalem
   - Israël
-debut: -20
-fin: -70
+debut: -19
+debut_archive_cm034: "-20"
+fin: 70
+fin_archive_cm034: "-70"
 indice_1:
   - Mur des Lamentations
 indice_2:

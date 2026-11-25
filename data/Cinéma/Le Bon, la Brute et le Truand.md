@@ -41,4 +41,8 @@ Les rôles principaux sont incarnés par [[Clint Eastwood]], dans le rôle de [[
 
 Un fait étonnant à propos de ce film est que la célèbre musique composée par [[Ennio Morricone]] a contribué à la renommée de ce chef-d'œuvre, atteignant le statut de [[disque de platine]] aux États-Unis, un exploit rare pour une bande originale de film non-anglophone à l'époque. 
 
-Le tournage, qui s'est déroulé principalement en [[Espagne]] et en [[Italie]], a utilisé des décors naturels spectaculaires, notamment dans le [[désert de Tabernas]], pour renforcer l'authenticité visuelle du film.
+Le tournage, qui s'est déroulé en [[Espagne]], a utilisé des décors naturels spectaculaires, notamment dans le [[désert de Tabernas]] (Andalousie), pour renforcer l'authenticité visuelle du film.
+
+###### Archives description
+
+Le tournage, qui s'est déroulé principalement en [[Espagne]] et en [[Italie]], a utilisé des décors naturels spectaculaires, notamment dans le [[désert de Tabernas]], pour renforcer l'authenticité visuelle du film. <!-- cm034 corrigée 2026-11-25 -->

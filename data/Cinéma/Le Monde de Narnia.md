@@ -39,8 +39,12 @@ Quel long-métrage a remporté l'[[Oscar du meilleur maquillage]] en 2006 pour l
 
 [[Le Monde de Narnia]] est une série cinématographique adaptée des livres de l'auteur britannique [[C.S. Lewis]], commencée en 2005 avec le film [[Le Monde de Narnia : Le Lion, la Sorcière blanche et l'Armoire magique]]. 
 
-La trilogie se poursuit avec [[Le Monde de Narnia : Le Prince Caspian]] sorti en 2008, et se termine avec [[Le Monde de Narnia : L'Odyssée du Passeur d'Aurore]] en 2010, chacun de ces films ayant été produit par [[Walt Disney]].
+La série se poursuit avec [[Le Monde de Narnia : Le Prince Caspian]] sorti en 2008, puis [[Le Monde de Narnia : L'Odyssée du Passeur d'Aurore]] en 2010 ; les deux premiers films ont été distribués par [[Walt Disney]], le troisième par la 20th Century Fox.
 
 [[Andrew Adamson]] a réalisé les deux premiers volets de la série, tandis que [[Michael Apted]] a pris le relais pour le dernier film.
 
 La musique des films a été composée principalement par [[Harry Gregson-Williams]], et la série est réputée pour ses effets spéciaux innovants de l'époque, ayant reçu plusieurs nominations aux [[Academy Awards]].
+
+###### Archives description
+
+La trilogie se poursuit avec [[Le Monde de Narnia : Le Prince Caspian]] sorti en 2008, et se termine avec [[Le Monde de Narnia : L'Odyssée du Passeur d'Aurore]] en 2010, chacun de ces films ayant été produit par [[Walt Disney]]. <!-- cm034 corrigée 2026-11-25 -->

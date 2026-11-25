@@ -11,7 +11,9 @@ indice_1 :
 indice_2 : 
   - président de 1970 à 1973
 indice_3 : 
-  - première élection démocratique d'un socialiste
+  - "premier marxiste élu président en Amérique latine"
+indice_3_archive_cm034:
+  - "première élection démocratique d'un socialiste"
 indice_4 : 
   - renversé par un coup d'État
 indice_5 : 
@@ -37,8 +39,14 @@ Quel leader politique a nationalisé l'industrie du cuivre au [[Chili]] dans les
 
 [[Salvador Allende]] a été le 29e président du [[Chili]], exerçant ses fonctions de 1970 à 1973, et est connu pour être le premier marxiste à accéder à la présidence d'un pays d'Amérique latine par le biais d'élections libres. 
 
-Né en 1908, à [[Valparaíso]], il a étudié la médecine à l'Université du Chili avant de se lancer en politique en intégrant le Parti socialiste chilien dans les années 1930. 
+Né en 1908 à [[Santiago]], il a étudié la médecine à l'Université du Chili et participe en 1933 à la fondation du Parti socialiste chilien. 
 
-Fait étonnant, peu connu : il est entré dans le Livre Guinness des records en tant que premier chef d'État à être arrivé au pouvoir démocratiquement en soutenant ouvertement le marxisme, gagnant les élections présidentielles avec seulement 36,6 % des voix, un résultat qui a nécessité l'aval du Congrès chilien pour sa confirmation. 
+Fait notable : il remporte l'élection présidentielle de 1970 avec seulement 36,6 % des voix, un résultat qui nécessite la confirmation du Congrès chilien, lequel l'élit le 24 octobre 1970. 
 
 Son mandat a pris fin tragiquement lors du coup d'État militaire du 11 septembre 1973, dirigé par [[Augusto Pinochet]], pendant lequel [[Allende]] est mort au Palais de la Moneda, événement qui a marqué un tournant tragique dans l'histoire politique chilienne.
+
+###### Archives description
+
+Né en 1908, à [[Valparaíso]], il a étudié la médecine à l'Université du Chili avant de se lancer en politique en intégrant le Parti socialiste chilien dans les années 1930. <!-- cm034 corrigée 2026-11-25 -->
+
+Fait étonnant, peu connu : il est entré dans le Livre Guinness des records en tant que premier chef d'État à être arrivé au pouvoir démocratiquement en soutenant ouvertement le marxisme, gagnant les élections présidentielles avec seulement 36,6 % des voix, un résultat qui a nécessité l'aval du Congrès chilien pour sa confirmation. <!-- cm034 corrigée 2026-11-25 -->

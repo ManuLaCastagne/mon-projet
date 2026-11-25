@@ -31,7 +31,7 @@ culture_g_justification: "Région très transversale, utile pour la géographie 
 
 ###### Questions
 
-Quelle région montagneuse est considérée comme la frontière naturelle entre l'[[Europe]] et l'[[Asie]] depuis l'année 1730 ?
+Quelle chaîne de montagnes est traditionnellement considérée, depuis le XVIIIe siècle, comme une partie de la limite entre l'[[Europe]] et l'[[Asie]] ?
 
 Quelle chaîne de montagnes a été le théâtre des tensions géopolitiques pendant et après la dissolution de l'[[Union soviétique]] en 1991 ?
 
@@ -43,6 +43,14 @@ Le [[Caucase]] est une région géographique située entre la [[Mer Noire]] et l
 
 Cette région comprend plusieurs pays tels que la [[Géorgie (pays)]], l'[[Arménie]] et l'[[Azerbaïdjan]], et elle est renommée pour sa diversité culturelle et linguistique, abritant plus de 50 groupes ethniques différents. 
 
-Fait étonnant, le [[Mont Elbrouz]], situé dans cette région, est la plus haute montagne d'[[Europe]] avec une altitude de 5 642 mètres et c'est un fait notable car beaucoup le confondent avec les montagnes des [[Alpes]] qui culminent à 4 809 mètres avec le [[Mont Blanc]]. 
+Fait étonnant, le [[Mont Elbrouz]], situé dans cette région, est la plus haute montagne d'[[Europe]] avec une altitude d'environ 5 642 mètres, bien plus que le [[Mont Blanc]], point culminant des [[Alpes]], qui culmine à environ 4 807 mètres. 
 
 Enfin, le [[Caucase]] a été le théâtre de nombreuses batailles historiques, notamment au cours de la [[Guerre du Caucase]] qui s'est déroulée entre 1817 et 1864, où l'[[Empire russe]] a cherché à dominer la région face à la résistance des tribus montagnardes.
+
+###### Archives questions
+
+Quelle région montagneuse est considérée comme la frontière naturelle entre l'[[Europe]] et l'[[Asie]] depuis l'année 1730 ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Fait étonnant, le [[Mont Elbrouz]], situé dans cette région, est la plus haute montagne d'[[Europe]] avec une altitude de 5 642 mètres et c'est un fait notable car beaucoup le confondent avec les montagnes des [[Alpes]] qui culminent à 4 809 mètres avec le [[Mont Blanc]]. <!-- cm034 corrigée 2026-11-25 -->

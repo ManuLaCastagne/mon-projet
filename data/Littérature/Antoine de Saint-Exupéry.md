@@ -39,8 +39,16 @@ Quel célèbre auteur français a reçu en 1939 le [[Grand Prix du roman de l'Ac
 
 [[Antoine de Saint-Exupéry]] est un auteur et aviateur français, né en 1900 à [[Lyon]], qui a marqué le monde littéraire avec ses œuvres poétiques. 
 
-Son livre le plus célèbre, [[Le Petit Prince]], publié en 1943, est devenu l'un des ouvrages les plus traduits au monde, avec plus de 300 traductions. 
+Son livre le plus célèbre, [[Le Petit Prince]], publié en 1943, est l'un des ouvrages les plus traduits au monde, disponible dans plus de 600 langues et dialectes. 
 
-Fait étonnant, Saint-Exupéry détient un record inattendu : en 1935, il a survécu à un crash d'avion dans le [[désert du Sahara]], exploitant cette expérience pour écrire son œuvre [[Terre des Hommes (roman)]]. 
+Fait étonnant, le 30 décembre 1935, lors d'une tentative de raid Paris-Saïgon, Saint-Exupéry a survécu à un accident d'avion dans le désert Libyque, au cœur du [[désert du Sahara]], une expérience qu'il raconte dans [[Terre des Hommes (roman)]]. 
 
-De manière énigmatique, sa disparition aérienne en 1944 au-dessus de la [[Méditerranée]] n'a jamais été élucidée, ajoutant une aura de mystère à sa légende.
+Sa disparition en vol, le 31 juillet 1944 au large de Marseille, garde une part de mystère : l'épave de son avion a été formellement identifiée en 2003, mais la cause de l'accident n'a jamais été établie.
+
+###### Archives description
+
+Son livre le plus célèbre, [[Le Petit Prince]], publié en 1943, est devenu l'un des ouvrages les plus traduits au monde, avec plus de 300 traductions. <!-- cm034 corrigée 2026-11-25 -->
+
+Fait étonnant, Saint-Exupéry détient un record inattendu : en 1935, il a survécu à un crash d'avion dans le [[désert du Sahara]], exploitant cette expérience pour écrire son œuvre [[Terre des Hommes (roman)]]. <!-- cm034 corrigée 2026-11-25 -->
+
+De manière énigmatique, sa disparition aérienne en 1944 au-dessus de la [[Méditerranée]] n'a jamais été élucidée, ajoutant une aura de mystère à sa légende. <!-- cm034 corrigée 2026-11-25 -->

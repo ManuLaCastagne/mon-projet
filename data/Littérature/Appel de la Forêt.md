@@ -29,7 +29,7 @@ culture_g_justification: "Roman d’aventure très connu de Jack London, relié 
 
 ###### Questions
 
-Quel roman de [[Jack London]], publié en 1903, raconte l'histoire d'un chien domestique nommé Buck qui réapprend ses instincts sauvages en Alaska ?  
+Quel roman de [[Jack London]], publié en 1903, raconte l'histoire d'un chien domestique nommé Buck qui retrouve ses instincts sauvages dans le Grand Nord, au Yukon ?
 
 Dans quel livre, considéré comme un classique de la littérature américaine, explore-t-on les thèmes de la survie et de l'appel de la nature sauvage ?  
 
@@ -44,3 +44,7 @@ Le livre explore la lutte instinctive de Buck pour la survie et sa quête de lib
 Un fait étonnant est que [[L'Appel de la forêt]] est parfois considéré comme une critique déguisée du capitalisme effréné de la fin du XIXe siècle, où la ruée vers l'or est employée comme métaphore de l'inhumanité croissante des sociétés modernes. 
 
 Peu de gens savent que Jack London a achevé la rédaction de ce chef-d'œuvre en seulement quatre semaines, ce qui est un record impressionnant pour un roman de cette envergure, contribuant puissamment à sa légende littéraire.
+
+###### Archives questions
+
+Quel roman de [[Jack London]], publié en 1903, raconte l'histoire d'un chien domestique nommé Buck qui réapprend ses instincts sauvages en Alaska ? <!-- cm034 corrigée 2026-11-25 -->

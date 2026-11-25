@@ -5,5 +5,8 @@ culture_g_justification: "Cépage mondialement important, régulièrement associ
 
 ###### Questions 
 
-Quel cépage blanc est utilisé en [[Bourgogne]] ?
+Quel cépage blanc, originaire du vignoble de [[Bourgogne]], est devenu un cépage international planté dans de très nombreux pays ?
 
+###### Archives questions
+
+Quel cépage blanc est utilisé en [[Bourgogne]] ? <!-- cm034 corrigée 2026-11-25 -->

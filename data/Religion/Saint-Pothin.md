@@ -4,8 +4,10 @@ tags:
   - Italie
   - Années_170
   - IIe
-debut: -87
-fin: -177
+debut: 85
+debut_archive_cm034: "-87"
+fin: 177
+fin_archive_cm034: "-177"
 indice_1 : 
   - Lyon
 indice_2 : 

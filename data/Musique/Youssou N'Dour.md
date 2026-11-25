@@ -29,7 +29,7 @@ culture_g_justification: "Artiste africain majeur, utile pour le mbalax, la worl
 
 ###### Questions
 
-Quel célèbre chanteur sénégalais a remporté en 2011 le prestigieux prix [[Polar Music Prize]] considéré comme le "Nobel de la musique" ?
+Quel chanteur sénégalais a reçu en 2013 le [[Polar Music Prize]], surnommé le « Nobel de la musique » ?
 
 Quel artiste a collaboré avec [[Peter Gabriel]] pour le titre mondialement connu "[[In Your Eyes]]" en 1986 ?
 
@@ -37,10 +37,22 @@ Qui a composé et interprété la chanson officielle de la [[Coupe du Monde de F
 
 ###### Description
 
-[[Youssou N'Dour]] est un célèbre musicien sénégalais né en 1969 à [[Dakar]], reconnu pour son rôle déterminant dans la popularisation du mbalax, un genre musical qui fusionne les rythmes africains traditionnels et les influences modernes. 
+[[Youssou N'Dour]] est un célèbre musicien sénégalais né en 1959 à [[Dakar]], reconnu pour son rôle déterminant dans la popularisation du mbalax, un genre musical qui fusionne les rythmes africains traditionnels et les influences modernes. 
 
-En 1994, il a atteint une renommée internationale grâce à son collaboration avec [[Neneh Cherry]] sur le tube "7 Seconds", qui est resté pendant 16 semaines consécutives dans le top 3 des charts français. 
+En 1994, il a atteint une renommée internationale grâce à sa collaboration avec [[Neneh Cherry]] sur le tube "7 Seconds", qui est resté seize semaines consécutives en tête du hit-parade français. 
 
 Un fait étonnant et peu connu est que [[Youssou N'Dour]] a été nommé Ministre de la Culture et du Tourisme au Sénégal en 2012, illustrant sa forte influence non seulement dans le domaine musical mais aussi sur le plan politique. 
 
-En plus de sa carrière musicale et politique, il a créé en 2003 un festival annuel appelé [[Festival International de Jazz de Saint-Louis]], qui est devenu un événement incontournable pour les amateurs de jazz du monde entier.
+En plus de sa carrière musicale et politique, il est devenu patron de presse en 2003 en fondant le groupe Futurs Médias.
+
+###### Archives questions
+
+Quel célèbre chanteur sénégalais a remporté en 2011 le prestigieux prix [[Polar Music Prize]] considéré comme le "Nobel de la musique" ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+[[Youssou N'Dour]] est un célèbre musicien sénégalais né en 1969 à [[Dakar]], reconnu pour son rôle déterminant dans la popularisation du mbalax, un genre musical qui fusionne les rythmes africains traditionnels et les influences modernes. <!-- cm034 corrigée 2026-11-25 -->
+
+En 1994, il a atteint une renommée internationale grâce à son collaboration avec [[Neneh Cherry]] sur le tube "7 Seconds", qui est resté pendant 16 semaines consécutives dans le top 3 des charts français. <!-- cm034 corrigée 2026-11-25 -->
+
+En plus de sa carrière musicale et politique, il a créé en 2003 un festival annuel appelé [[Festival International de Jazz de Saint-Louis]], qui est devenu un événement incontournable pour les amateurs de jazz du monde entier. <!-- cm034 corrigée 2026-11-25 -->

@@ -13,9 +13,13 @@ indice_1 :
 indice_2 : 
   - western spaghetti
 indice_3 : 
-  - Le Bon
+  - "Le Bon, la Brute et le Truand"
+indice_3_archive_cm034:
+  - "Le Bon"
 indice_4 : 
-  - la Brute et le Truand
+  - "Million Dollar Baby"
+indice_4_archive_cm034:
+  - "la Brute et le Truand"
 indice_5 : 
   - Gran Torino
 indice_6 : 

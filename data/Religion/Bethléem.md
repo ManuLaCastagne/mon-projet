@@ -27,7 +27,7 @@ culture_g_justification: "Lieu emblématique du christianisme, fréquemment lié
 
 ###### Questions
 
-Dans quelle ville est né [[Jésus]], un événement que les chrétiens célèbrent chaque [[Noël]] depuis l'an [[1]] selon le calendrier traditionnel ?
+Dans quelle ville, selon la Bible, est né [[Jésus]], dont les chrétiens célèbrent la naissance à [[Noël]] ?
 
 Quelle commune, située aujourd'hui en [[Cisjordanie]], abrite l'église de la [[Nativité]], construite au [[IV]]e siècle par [[Sainte-Hélène]] ?
 
@@ -35,10 +35,18 @@ Dans quelle ville [[Ruth]], l'arrière-grand-mère du roi [[David]], a-t-elle re
 
 ###### Description
 
-[[Bethléem]] est une ville située en [[Cisjordanie]], largement reconnue comme étant le lieu de naissance de [[Jésus]], un événement central dans le christianisme marqué autour de l'an 0. 
+[[Bethléem]] est une ville située en [[Cisjordanie]], considérée, d'après la Bible, comme le lieu de naissance de [[Jésus]], un événement central du christianisme. 
 
 La ville abrite l'église de la [[Nativité]], qui est l'un des plus anciens édifices chrétiens encore en activité, construite en 333 après J.-C. par l'empereur romain [[Constantin Ier le Grand]]. 
 
 Un fait étonnant est que [[Bethléem]] abrite également l'Université de [[Bethlehem]], fondée en 1973, qui a été la première université enregistrée en Cisjordanie, jouant un rôle clé dans l'éducation des Palestiniens dans la région. 
 
 Chaque année, à Noël, [[Bethléem]] devient le centre des célébrations, attirant des milliers de pèlerins du monde entier, faisant de cette ville un carrefour vivant de spiritualité et de cultures.
+
+###### Archives questions
+
+Dans quelle ville est né [[Jésus]], un événement que les chrétiens célèbrent chaque [[Noël]] depuis l'an [[1]] selon le calendrier traditionnel ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+[[Bethléem]] est une ville située en [[Cisjordanie]], largement reconnue comme étant le lieu de naissance de [[Jésus]], un événement central dans le christianisme marqué autour de l'an 0. <!-- cm034 corrigée 2026-11-25 -->

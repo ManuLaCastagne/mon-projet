@@ -4,10 +4,13 @@ tags:
   - Pergame
   - Années_160
   - IIe
-debut: -129
+debut: 129
+debut_archive_cm034: "-129"
 fin: 216
 indice_1 : 
-  - Claude Galien
+  - "Médecin des gladiateurs"
+indice_1_archive_cm034:
+  - "Claude Galien"
 indice_2 : 
   - médecine antique
 indice_3 : 
@@ -27,9 +30,9 @@ culture_g_justification: "Galien est une référence majeure de la médecine ant
 
 ###### Questions
 
-[[Claude Galien]], médecin et philosophe grec, a principalement exercé son métier dans quelle ville emblématique de l'Empire romain à partir de l'année 162 ap. J.-C. ?
+Quel médecin et philosophe grec, né à Pergame, s'installe à Rome en 162 ap. J.-C. et y soigne plusieurs empereurs ?
 
-Qui est l'auteur du traité influent intitulé "[[De Usu Partium]]," une œuvre sur l'anatomie et la physiologie humaines, écrite par [[Claude Galien]] au 2ème siècle après J.-C. ?
+Qui est l'auteur du traité intitulé "[[De Usu Partium]]" (Utilité des parties), une somme sur l'anatomie et la physiologie humaines écrite au IIe siècle après J.-C. ?
 
 Quel médecin célèbre, souvent associé à l'établissement des bases de la médecine expérimentale, a servi comme médecin personnel de plusieurs empereurs romains, dont [[Marc Aurèle]], à partir du deuxième siècle après J.-C. ?
 
@@ -39,4 +42,14 @@ Quel médecin célèbre, souvent associé à l'établissement des bases de la m�
 
 Fait étonnant, ses travaux furent si influents qu'ils continuèrent d'être enseignés comme des vérités incontestées jusqu'à la Renaissance, malgré les découvertes scientifiques ultérieures. 
 
-En 162, [[Galien]] devint médecin des gladiateurs à [[Rome]], où il perfectionna ses connaissances anatomiques, ce qui permit d'améliorer ses traitements et de diminuer le taux de mortalité parmi les combattants blessés.
+En 157, [[Galien]] devint médecin des gladiateurs à [[Pergame]], où il perfectionna ses connaissances anatomiques, avant de s'installer à [[Rome]] en 162.
+
+###### Archives questions
+
+[[Claude Galien]], médecin et philosophe grec, a principalement exercé son métier dans quelle ville emblématique de l'Empire romain à partir de l'année 162 ap. J.-C. ? <!-- cm034 corrigée 2026-11-25 -->
+
+Qui est l'auteur du traité influent intitulé "[[De Usu Partium]]," une œuvre sur l'anatomie et la physiologie humaines, écrite par [[Claude Galien]] au 2ème siècle après J.-C. ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+En 162, [[Galien]] devint médecin des gladiateurs à [[Rome]], où il perfectionna ses connaissances anatomiques, ce qui permit d'améliorer ses traitements et de diminuer le taux de mortalité parmi les combattants blessés. <!-- cm034 corrigée 2026-11-25 -->

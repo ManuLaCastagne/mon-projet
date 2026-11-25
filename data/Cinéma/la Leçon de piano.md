@@ -29,8 +29,16 @@ Quel film de [[Jane Campion]] a remporté la Palme d'or au [[Festival de Cannes]
 
 Dans quel film la performance d'[[Holly Hunter]] lui a valu l'[[Oscar]] de la meilleure actrice en [[1994]] ?
 
-Quel film, sorti en [[1993]], raconte l'histoire d'une femme muette communiquant à travers son piano à [[Holly Hunter]] et [[Anna Paquin]] ?
+Quel film sorti en [[1993]], avec [[Holly Hunter]] et [[Anna Paquin]], raconte l'histoire d'une femme muette qui s'exprime à travers son piano ?
 
 ###### Description
 
-[[La Leçon de piano]] est un film dramatique réalisé par [[Jane Campion]], sorti en [[1993]]. Le film raconte l'histoire passionnée d'une femme muette, interprétée par [[Holly Hunter]], qui arrive en [[Nouvelle-Zélande]] avec sa fille et son piano pour épouser un homme qu'elle n'a jamais rencontré. [[Holly Hunter]] a remporté l'[[Oscar]] de la meilleure actrice pour ce rôle, faisant de "La Leçon de piano" le premier film ayant permis à une actrice américaine de remporter cet Oscar pour un film réalisé par une femme née à [[Wellington]], en [[Nouvelle-Zélande]]. Un fait étonnant est que le film a également permis à [[Anna Paquin]], alors âgée de seulement 11 ans, de devenir en [[1994]] la deuxième plus jeune lauréate de l'Oscar du meilleur second rôle féminin.
+[[La Leçon de piano]] est un film dramatique réalisé par [[Jane Campion]], sorti en [[1993]]. Le film raconte l'histoire passionnée d'une femme muette, interprétée par [[Holly Hunter]], qui arrive en [[Nouvelle-Zélande]] avec sa fille et son piano pour épouser un homme qu'elle n'a jamais rencontré. [[Holly Hunter]] a remporté l'[[Oscar]] de la meilleure actrice pour ce rôle, tandis que [[Jane Campion]], née à [[Wellington]], devenait la première femme à recevoir la Palme d'or. Un fait étonnant est que le film a également permis à [[Anna Paquin]], alors âgée de seulement 11 ans, de devenir en [[1994]] la deuxième plus jeune lauréate de l'Oscar du meilleur second rôle féminin.
+
+###### Archives questions
+
+Quel film, sorti en [[1993]], raconte l'histoire d'une femme muette communiquant à travers son piano à [[Holly Hunter]] et [[Anna Paquin]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+[[Holly Hunter]] a remporté l'[[Oscar]] de la meilleure actrice pour ce rôle, faisant de "La Leçon de piano" le premier film ayant permis à une actrice américaine de remporter cet Oscar pour un film réalisé par une femme née à [[Wellington]], en [[Nouvelle-Zélande]]. <!-- cm034 corrigée 2026-11-25 -->
