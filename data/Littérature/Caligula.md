@@ -35,7 +35,7 @@ culture_g_justification: "La pièce de Camus est un classique du théâtre de l�
 
 ###### Questions
 
-Quelle pièce d'[[Albert Camus]], publiée en 1944, met en scène un empereur romain saisi d'un « besoin d'impossible » après la mort de sa sœur Drusilla ? <!-- score: 6 -->
+Quelle pièce d'[[Albert Camus]], publiée en 1944, met en scène un empereur romain « obsédé d'impossible » après la mort de sa sœur Drusilla ? <!-- score: 6 -->
 
 Quelle pièce, donnée en septembre 1945 au [[théâtre Hébertot]] dans une mise en scène de [[Paul Œttly]], a révélé [[Gérard Philipe]] ?
 

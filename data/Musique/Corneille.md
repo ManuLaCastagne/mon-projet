@@ -27,7 +27,7 @@ culture_g_justification: "Chanteur francophone identifié par Parce qu’on vien
 questions_tv_archivees:
   - Quel corvidé voisin du corbeau peut être "noir" ou "mantelé" ?
 ---
-![Image de Corneille](https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_Corneille_Lemaire_Louvre.jpg)
+<!-- image archivée (cm034), sujet incorrect : https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_Corneille_Lemaire_Louvre.jpg -->
 
 ###### Questions
 

@@ -28,7 +28,7 @@ questions:
 culture_g_score: 80
 culture_g_justification: "Auteur central de la science-fiction moderne, relié à Blade Runner, aux uchronies, aux dystopies et à de nombreuses adaptations."
 ---
-![Image de Philipp K](https://upload.wikimedia.org/wikipedia/commons/a/ac/1961_Philipp_SCHWARTZ_%26_dr_WOLFE.png)
+<!-- image archivée (cm034), sujet incorrect : https://upload.wikimedia.org/wikipedia/commons/a/ac/1961_Philipp_SCHWARTZ_%26_dr_WOLFE.png -->
 
 ###### Questions
 
