@@ -113,3 +113,25 @@ Ces questions viennent de vraies émissions et de cinq ans de révisions : elles
      (`gh api repos/ManuLaCastagne/mon-projet/issues/<n>/comments`) avec : lot, fiches traitées, verdicts,
      QA, 3 exemples de corrections notables, et la liste « Écartées pour doute » (vide si aucune).
 8. Si le temps le permet, enchaîner un deuxième lot (étapes 2 à 7). Maximum 3 lots par exécution.
+
+
+## Vérification factuelle des fiches (CM-034) — procédure, rythme à fixer par le PO
+
+Pilote du 25/11/2026 : sur 40 fiches grand public tirées au hasard, 20,7 % des éléments sont faux ou imprécis
+(questions 38 %, descriptions 32 %, indices 7 %, dates 3 %) ; 38 fiches sur 40 ont au moins une erreur. Les phrases
+« Fait étonnant » sont souvent inventées. **Tant que le PO n'a pas fixé le rythme, cette étape n'est pas lancée la nuit.**
+
+1. Sélection : fiches grand public (`culture_g_score` ≥ 70) non encore vérifiées (pas de marqueur `verifiee: cm034`), par score
+   décroissant ; liste `data/...` dans un fichier texte.
+2. Sources : `python3 -I verification/sources.py <mon-projet> <liste.txt>` (Wikipédia FR brut + Wikidata ; l'API de recherche
+   Wikidata est bridée, ne pas l'utiliser ; 1,2 s entre requêtes ; en-tête générique, jamais d'information personnelle).
+3. Vérification par agents, en lecture seule, 13 à 14 fiches par agent : chaque question, phrase de description, date et indice ;
+   verdicts `juste` / `faux` / `imprécis` / `invérifiable` ; `faux` exige une source consultée, jamais la mémoire ; correction
+   rédigée, sourcée, dont la réponse reste le nom de la fiche sans le citer. Signaler les fiches qui mélangent deux concepts
+   et les noms mal orthographiés : **ne pas les corriger, les lister pour le PO.**
+4. Application : `python3 -I verification/appliquer_verdicts.py <mon-projet> verdicts*.json` (simulation), puis `--ecrire`.
+   L'outil `corriger_faits.py` archive chaque original (`###### Archives questions` / `###### Archives description`,
+   clés `*_archive_cm034`). Un fait invérifiable et visiblement inventé est archivé et remplacé par un fait sourcé.
+5. Contrôles : YAML valide, nombre de questions jouables inchangé, pas de fuite du nom, pas de tournure d'IA, construction
+   de culture-max OK ; relecture par un agent QA séparé qui contrôle au moins 25 corrections contre les sources ;
+   fusion selon la règle des PR de fiches.
