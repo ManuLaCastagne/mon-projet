@@ -85,3 +85,10 @@ def test_indice_avec_espace_avant_deux_points():
     t = cf.corriger_indice(f, "indice_1", "fils de Charles VIII", "fils de Charles VII")
     d = yaml.safe_load(t.split("---")[1])
     assert d["indice_1"] == ["fils de Charles VII"] and d["indice_1_archive_cm034"] == ["fils de Charles VIII"]
+
+
+def test_marquer_verifiee():
+    t = cf.marquer_verifiee(FICHE, "2026-11-26")
+    t = cf.marquer_verifiee(t, "2026-11-27")
+    d = yaml.safe_load(t.split("---")[1])
+    assert d["verifie_cm034"] == "2026-11-27" and t.count("verifie_cm034") == 1

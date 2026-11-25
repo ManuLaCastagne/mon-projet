@@ -42,6 +42,7 @@ for vf in fichiers:
                 bilan["refusé"] += 1
                 refus.append(f"{fiche['chemin']} [{e['type']}] {str(err)[:90]} | {e['texte'][:70]}")
         if ecrire:
+            texte = cf.marquer_verifiee(texte)  # fiche vérifiée en entier : ne sera plus resélectionnée
             open(chemin, "w", encoding="utf-8", newline="").write(texte)
 print(bilan)
 print("\n".join(refus))

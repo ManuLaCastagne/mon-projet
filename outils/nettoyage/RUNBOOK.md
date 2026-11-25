@@ -119,19 +119,26 @@ Ces questions viennent de vraies émissions et de cinq ans de révisions : elles
 
 Pilote du 25/11/2026 : sur 40 fiches grand public tirées au hasard, 20,7 % des éléments sont faux ou imprécis
 (questions 38 %, descriptions 32 %, indices 7 %, dates 3 %) ; 38 fiches sur 40 ont au moins une erreur. Les phrases
-« Fait étonnant » sont souvent inventées. **Tant que le PO n'a pas fixé le rythme, cette étape n'est pas lancée la nuit.**
+« Fait étonnant » sont souvent inventées. **Rythme fixé par le PO le 25/11/2026 : 50 fiches par nuit**, après les 5 lots
+de questions, sur une branche `cm034/verification` et une demande de fusion dédiées (base main).
 
-1. Sélection : fiches grand public (`culture_g_score` ≥ 70) non encore vérifiées (pas de marqueur `verifiee: cm034`), par score
-   décroissant ; liste `data/...` dans un fichier texte.
+1. Sélection : `python3 -I verification/selectionner.py <mon-projet> 50 > liste.txt` — fiches grand public
+   (`culture_g_score` ≥ 70) sans marqueur `verifie_cm034`, par score décroissant. Les fiches déjà dans une demande de fusion
+   ouverte de `cm034/verification` non fusionnée doivent être retirées de la liste.
 2. Sources : `python3 -I verification/sources.py <mon-projet> <liste.txt>` (Wikipédia FR brut + Wikidata ; l'API de recherche
    Wikidata est bridée, ne pas l'utiliser ; 1,2 s entre requêtes ; en-tête générique, jamais d'information personnelle).
-3. Vérification par agents, en lecture seule, 13 à 14 fiches par agent : chaque question, phrase de description, date et indice ;
+3. Vérification par agents (4 agents de 12 à 13 fiches), en lecture seule. Consigne impérative aux agents : lire les sources
+   avec `curl` (Wikipédia FR brut, Wikidata), PAS avec l'outil de lecture de pages web, dont la demande d'autorisation bloque
+   un agent de nuit faute de réponse. Contenu de la vérification : chaque question, phrase de description, date et indice ;
    verdicts `juste` / `faux` / `imprécis` / `invérifiable` ; `faux` exige une source consultée, jamais la mémoire ; correction
    rédigée, sourcée, dont la réponse reste le nom de la fiche sans le citer. Signaler les fiches qui mélangent deux concepts
    et les noms mal orthographiés : **ne pas les corriger, les lister pour le PO.**
-4. Application : `python3 -I verification/appliquer_verdicts.py <mon-projet> verdicts*.json` (simulation), puis `--ecrire`.
+4. Application : `python3 -I verification/appliquer_verdicts.py <mon-projet> verdicts*.json` (simulation), puis `--ecrire`,
+   qui ajoute aussi `verifie_cm034: <date>` à chaque fiche vérifiée (corrigée ou non).
    L'outil `corriger_faits.py` archive chaque original (`###### Archives questions` / `###### Archives description`,
    clés `*_archive_cm034`). Un fait invérifiable et visiblement inventé est archivé et remplacé par un fait sourcé.
 5. Contrôles : YAML valide, nombre de questions jouables inchangé, pas de fuite du nom, pas de tournure d'IA, construction
    de culture-max OK ; relecture par un agent QA séparé qui contrôle au moins 25 corrections contre les sources ;
-   fusion selon la règle des PR de fiches.
+   fusion selon la règle des PR de fiches (tests verts et QA approuvée : la session peut fusionner cette demande-là).
+6. Compte rendu dans la demande de fusion : nombre de fiches, taux d'erreur de la nuit par type, fiches mélangées et noms
+   fautifs listés pour le PO (non corrigés), corrections refusées.

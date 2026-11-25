@@ -120,3 +120,17 @@ def corriger_indice(texte: str, champ: str, ancienne: str, nouvelle: str) -> str
     entete = entete[:m.start(1)] + bloc + entete[m.end(1):]
     yaml.safe_load(entete[3:entete.rindex("\n---")])
     return entete + corps
+
+
+def marquer_verifiee(texte: str, date: str = DATE) -> str:
+    """Ajoute (ou met à jour) `verifie_cm034: <date>` dans le frontmatter : la fiche a été vérifiée en entier."""
+    entete, corps = _decouper(texte)
+    if not entete:
+        raise Introuvable("pas de frontmatter")
+    if re.search(r"^verifie_cm034:", entete, re.M):
+        entete = re.sub(r"^verifie_cm034:.*$", f"verifie_cm034: {_q(date)}", entete, flags=re.M)
+    else:
+        fin = entete.rindex("\n---")
+        entete = entete[:fin] + f"\nverifie_cm034: {_q(date)}" + entete[fin:]
+    yaml.safe_load(entete[3:entete.rindex("\n---")])
+    return entete + corps
