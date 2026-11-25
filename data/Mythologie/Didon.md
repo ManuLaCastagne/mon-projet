@@ -27,7 +27,7 @@ culture_g_justification: "Figure centrale de l'Énéide, liée à la fondation d
 
 Quel personnage mythologique est la fondatrice légendaire de la cité de [[Carthage]] en [[814 av. J.-C.]] ?
 
-Quelle reine mythique a eu une histoire d'amour tragique avec le héros troyen [[Énée]], racontée dans l'[[Enéide]] de [[Virgile]], publiée après la mort du poète en [[19 av. J.-C.]] ?
+Quelle reine mythique a eu une histoire d'amour tragique avec le héros troyen [[Énée]], racontée dans l'[[Enéide]] de [[Virgile]], publiée après la mort du poète, survenue en [[19 av. J.-C.]] ?
 
 Quel personnage est célèbre pour avoir choisi de se suicider en se jetant sur un bûcher funéraire suite à l'abandon d'[[Énée]], selon une œuvre influente écrite par [[Virgile]] au Ier siècle av. J.-C. ?
 

@@ -32,7 +32,7 @@ culture_g_justification: "Artiste emblématique de l’Art nouveau, associé aux
 
 Quel artiste d'origine tchèque a créé en 1894 l'affiche du spectacle de [[Sarah Bernhardt]] qui a lancé sa renommée mondiale ?
 
-Quel peintre, figure du style [[Art nouveau]], a conçu en 1931 un vitrail de la [[Cathédrale Saint-Guy de Prague]] ?
+Quel peintre, figure du style [[Art nouveau]], a conçu en 1931 un vitrail de la [[Cathédrale Saint-Guy de Prague]] ? <!-- score: 3 -->
 
 Quel artiste a réalisé la série de peintures monumentales intitulée "L'Épopée slave" entre 1910 et 1928 ?
 

@@ -31,7 +31,7 @@ Quel célèbre aviateur américain a été le premier à traverser l'Atlantique 
 
 Quel pionnier de l'aviation a travaillé dans les années 1930 avec le chirurgien [[Alexis Carrel]] à la mise au point d'une pompe de perfusion, ancêtre de la [[circulation extra-corporelle]] ?
 
-Quel explorateur et scientifique notoire a contribué, dans les années [[1930]], aux recherches sur le vol supersonique et la réalisation future des avions à réaction avancés ?
+Quel aviateur américain, surnommé « l'Aigle solitaire », a reçu en 1927 le [[prix Orteig]] pour son vol sans escale entre New York et Paris ?
 
 ###### Description
 
@@ -46,6 +46,8 @@ Outre ses exploits aéronautiques, [[Charles Lindbergh]] s'est également impliq
 ###### Archives questions
 
 Quel pionnier de l'aviation a joué un rôle clé dans le développement des premiers cœurs artificiels dans les années [[1960]] grâce à sa collaboration avec le médecin [[Robert Jarvik]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+Quel explorateur et scientifique notoire a contribué, dans les années [[1930]], aux recherches sur le vol supersonique et la réalisation future des avions à réaction avancés ? <!-- cm034 corrigée 2026-11-25 -->
 
 ###### Archives description
 

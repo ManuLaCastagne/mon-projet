@@ -1,14 +1,21 @@
 ---
 tags:
   - Géographie
-  - Hhohho
-  - Eswatini
-  - N/A
+  - Iran
+  - Oman
+tags_archives_cm034:
+  - "Hhohho"
+  - "Eswatini"
+  - "N/A"
 
-latitude: -26.325745
-longitude: 31.144663
-superficie: 81
-location: -26.325745,31.144663
+latitude: 26.763456
+latitude_archive_cm034: "-26.325745"
+longitude: 56.566035
+longitude_archive_cm034: "31.144663"
+superficie: 
+superficie_archive_cm034: "81"
+location: 26.763456,56.566035
+location_archive_cm034: "-26.325745,31.144663"
 indice_1 : 
   - "Golfe Persique"
 indice_1_archive_cm034:
@@ -36,9 +43,10 @@ indice_6_archive_cm034:
 culture_g_score: 80
 culture_g_justification: "Détroit stratégique majeur du commerce pétrolier et des tensions du Golfe, régulièrement mobilisé dans les questions de géopolitique."
 ---
-![Image de Mbabane](https://upload.wikimedia.org/wikipedia/commons/9/9d/Mbabane.jpg)
+![Image de Détroit d'Ormuz](https://upload.wikimedia.org/wikipedia/commons/9/92/Strait_of_Hormuz.jpg)
+<!-- image remplacée (cm020) : https://upload.wikimedia.org/wikipedia/commons/9/9d/Mbabane.jpg -->
 
-![[Carte_Mbabane.png]]
+<!-- carte archivée (cm034), elle montrait Mbabane : ![[Carte_Mbabane.png]] -->
 ###### Questions
 
 Quel détroit, qui doit son nom à une île iranienne située au sud-est de [[Bandar Abbas]], relie le [[golfe Persique]] au [[golfe d'Oman]] ?

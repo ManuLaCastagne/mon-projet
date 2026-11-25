@@ -34,7 +34,7 @@ culture_g_justification: "Pays européen très présent dans les quiz par son hi
 ![[Carte_Irlande.png]]
 ###### Questions
 
-En décembre 1921, à quel [[État]] le [[traité de Londres]] donne-t-il naissance, ancêtre de l'actuelle république ?
+Quel pays, aujourd'hui une république, est issu de l'État libre créé par le [[traité de Londres]] de décembre 1921 ?
 
 Quel pays, souvent surnommé l'[[île émeraude]], compte deux sites du [[patrimoine mondial de l'UNESCO]] : Brú na Bóinne et Skellig Michael ?
 
@@ -46,7 +46,7 @@ Quel pays européen a vu l'élection de [[Mary Robinson]] comme première femme 
 
 La [[République d'Irlande]], située à l'ouest de la [[Grande-Bretagne]], couvre environ cinq-sixième de l'île d'[[Irlande]], l'autre partie étant l'[[Irlande du Nord]], qui fait partie du [[Royaume-Uni]].
 
-Saite de merveilles naturelles, le paysage irlandais est dominé par des collines verdoyantes, des falaises abruptes comme celles de [[Moher]] et des lacs pittoresques, tandis que sa capitale, [[Dublin]], est une ville vibrante et historique.
+Site de merveilles naturelles, le paysage irlandais est dominé par des collines verdoyantes, des falaises abruptes comme celles de [[Moher]] et des lacs pittoresques, tandis que sa capitale, [[Dublin]], est une ville vibrante et historique.
 
 Un fait étonnant est que le [[Shannon]], le plus long fleuve d'Irlande et des îles Britanniques, s'étend sur environ 360 à 386 kilomètres selon les sources.
 
@@ -65,3 +65,5 @@ Quelle nation est connue pour avoir édicté une loi en 1997 interdisant de fume
 Un fait étonnant est que le [[Shannon]], le plus long fleuve d'Irlande, s'étend sur 360 kilomètres, établissant ainsi un record national et jouant un rôle crucial dans le transport et l'économie depuis le début du XVe siècle. <!-- cm034 corrigée 2026-11-25 -->
 
 En 1937, la [[République d'Irlande]] a adopté une nouvelle constitution qui a officiellement changé le nom du pays en [[Éire]], un terme encore utilisé aujourd'hui pour désigner cette nation insulaire. <!-- cm034 corrigée 2026-11-25 -->
+
+Saite de merveilles naturelles, <!-- cm034 corrigée 2026-11-25 -->

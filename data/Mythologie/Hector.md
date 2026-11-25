@@ -38,7 +38,7 @@ Quel héros de l'[[Iliade]] d'[[Homère]], plus grand défenseur de [[Troie]], a
 
 Bien que non divin, Hector est parfois comparé aux dieux pour ses prouesses guerrières et est reconnu pour avoir tué [[Patrocle]], le meilleur ami d'[[Achille]], lors de la guerre de Troie. 
 
-Un fait étonnant est que [[Xanthos]], le cheval immortel capable de parler qui annonce à [[Achille]] sa mort prochaine, appartenait non pas à Hector mais à son adversaire Achille. 
+Le [[Xanthos]] prophétique, cheval immortel qui annonce à [[Achille]] sa mort prochaine, appartient à Achille ; Hector possède lui aussi un cheval du même nom. 
 
 Dans l'[[Iliade]], ouvrage écrit par [[Homère]] vers le VIIIe siècle av. J.-C., Hector est présenté non seulement comme un guerrier redoutable, mais aussi comme un père et un époux aimant, profondément attaché à sa famille, notamment à sa femme [[Andromaque]] et leur fils [[Astyanax]].
 
@@ -49,3 +49,5 @@ Qui, dans l'[[Illiade]] d'[[Homère]], s'est illustré dans le duel contre [[Aja
 ###### Archives description
 
 Un fait étonnant et peu connu est que, selon certaines traditions antiques, Hector fut le possesseur du fameux cheval [[Xanthos]], capable de prédire l'avenir, un don que ne possédaient que très peu de créatures dans les mythes grecs. <!-- cm034 corrigée 2026-11-25 -->
+
+Un fait étonnant est que [[Xanthos]], le cheval immortel capable de parler qui annonce à [[Achille]] sa mort prochaine, appartenait non pas à Hector mais à son adversaire Achille. <!-- cm034 corrigée 2026-11-25 -->

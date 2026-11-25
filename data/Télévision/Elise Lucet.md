@@ -28,7 +28,7 @@ culture_g_justification: "Journaliste majeure de la télévision française, ass
 
 ###### Questions
 
-Quelle journaliste, après onze ans à la présentation du Journal de 13 heures de [[France 2]], produit et présente le magazine [[Cash Investigation]] depuis 2012 ?
+Quelle journaliste, présentatrice du Journal de 13 heures de [[France 2]] de 2005 à 2016, produit et présente depuis 2012 le magazine [[Cash Investigation]] ?
 ###### Description
 
 [[Élise Lucet]] est une journaliste et présentatrice française bien connue pour ses émissions d'investigation sur [[France 2]], notamment [[Cash Investigation]] et [[Envoyé spécial]]. 
