@@ -29,11 +29,11 @@ culture_g_justification: "Groupe fondamental de l’histoire du rock, omniprése
 
 ###### Questions
 
-Quel groupe de rock [[britannique]] formé en 1968 est connu pour leur célèbre chanson "[[Stairway to Heaven]]" ?
+Quel groupe britannique formé en 1968 a enregistré « [[Stairway to Heaven]] » ?
 
-Quel groupe a été introduit au [[Rock and Roll Hall of Fame]] en 1995, confirmant leur influence majeure sur le développement du [[hard rock]] et du [[heavy metal]] ?
+Quel groupe de [[Jimmy Page]] et [[Robert Plant]] est entré au [[Rock and Roll Hall of Fame]] en 1995 ?
 
-Quel groupe légendaire a vendu plus de 37 millions d'exemplaires de leur album "[[Led Zeppelin IV]]" depuis sa sortie en 1971 ?
+Quel groupe a sorti en 1971 un quatrième album sans titre, orné de quatre symboles, qui contient « Black Dog » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Leur album légendaire, "[[Led Zeppelin IV]]", sorti en 1971, contient le célè
 Un fait surprenant est que [[Led Zeppelin]] détient un record notable : lors de leur tournée nord-américaine de 1973, ils surpassent les ventes de billets détenues auparavant par les [[Beatles]] pour leur concert au Tampa Stadium, attirant plus de 56 800 spectateurs. 
 
 Enfin, bien que régulièrement demandé dans les quiz, c'est principalement la créativité et la diversité musicale de [[Led Zeppelin]] qui les ont établis comme l'un des groupes pionniers du hard rock et du heavy metal.
+
+###### Archives questions
+
+Quel groupe légendaire a vendu plus de 37 millions d'exemplaires de leur album "[[Led Zeppelin IV]]" depuis sa sortie en 1971 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe de rock [[britannique]] formé en 1968 est connu pour leur célèbre chanson "[[Stairway to Heaven]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe a été introduit au [[Rock and Roll Hall of Fame]] en 1995, confirmant leur influence majeure sur le développement du [[hard rock]] et du [[heavy metal]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Vedette mondiale présente dans la musique, la mode, l
 
 ###### Questions
 
-Dans quelle ville [[Rihanna]] a-t-elle été nommée [[Ambassadrice extraordinaire et plénipotentiaire]] en 2018 par le gouvernement ?
+Quelle chanteuse a été nommée en 2018 ambassadrice extraordinaire et plénipotentiaire de la [[Barbade]] ?
 
-Quel premier platine international [[Rihanna]] a-t-elle sorti en 2005 avec son single "Pon de Replay" ?
+Quelle chanteuse a sorti en 2007 le tube « [[Umbrella (chanson)|Umbrella]] », avec [[Jay-Z]] ?
 
-Quel important défilé de [[lingerie]] [[Savage x Fenty]] a été organisé en 2019 par [[Rihanna]] et a révolutionné les codes de la mode par sa représentation inclusive ?
+Quelle chanteuse a fondé en 2017 la marque de cosmétiques Fenty Beauty ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a débuté sa carrière musicale en 2005, après avoir été repérée par 
 Un fait étonnant est que, grâce à son huitième album "Anti" sorti en 2016, [[Rihanna]] est devenue la première artiste de l'histoire à atteindre plus de 100 millions de certifications aux États-Unis de la part de la [[Recording Industry Association of America (RIAA)]]. 
 
 En plus de sa carrière musicale prolifique, [[Rihanna]] a également lancé avec succès sa propre marque de maquillage, [[Fenty Beauty]], en 2017, révolutionnant l'industrie cosmétique avec une large gamme de produits inclusifs.
+
+###### Archives questions
+
+Dans quelle ville [[Rihanna]] a-t-elle été nommée [[Ambassadrice extraordinaire et plénipotentiaire]] en 2018 par le gouvernement ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel premier platine international [[Rihanna]] a-t-elle sorti en 2005 avec son single "Pon de Replay" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel important défilé de [[lingerie]] [[Savage x Fenty]] a été organisé en 2019 par [[Rihanna]] et a révolutionné les codes de la mode par sa représentation inclusive ? <!-- cm003 remplacée 2026-11-23 -->

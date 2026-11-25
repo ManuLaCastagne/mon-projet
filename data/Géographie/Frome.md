@@ -28,11 +28,9 @@ culture_g_justification: "Petite ville anglaise sans forte portée historique ou
 
 ###### Questions
 
-Quelle ville britannique a été désignée comme l'un des meilleurs endroits où vivre par le [[Sunday Times]] en 2018 ?
+Quelle ville anglaise du Somerset a vu une liste d'élus sans étiquette prendre le contrôle du conseil municipal en 2011, modèle de la « flatpack democracy » ?
 
-Quelle rivière traverse la ville de [[Frome]] dans le [[comté de Somerset]] ?
-
-Quelle ville anglaise est connue pour avoir organisé son premier [[festival des arts]] en 1974 ?
+Quelle ville du [[Somerset]] porte le nom de la rivière qui la traverse, affluent de l'[[Avon (Bristol)|Avon]] ?
 
 ###### Description
 
@@ -43,3 +41,11 @@ La ville est surtout connue pour avoir été le lieu de naissance du célèbre c
 Un fait étonnant à propos de [[Frome]] est qu'elle a été élue "Ville la plus cool du Royaume-Uni" par le quotidien [[The Times]] en 2014, grâce notamment à ses marchés éclectiques et son dynamisme culturel. 
 
 Dès sa création, [[Frome]] a joué un rôle important dans l'industrie textile, ce qui explique l'essor rapide de sa population à l'époque médiévale.
+
+###### Archives questions
+
+Quelle rivière traverse la ville de [[Frome]] dans le [[comté de Somerset]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville anglaise est connue pour avoir organisé son premier [[festival des arts]] en 1974 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle ville britannique a été désignée comme l'un des meilleurs endroits où vivre par le [[Sunday Times]] en 2018 ? <!-- cm003 remplacée 2026-11-23 -->

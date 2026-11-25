@@ -29,11 +29,11 @@ culture_g_justification: "Album conceptuel emblématique, très fréquent dans l
 
 ###### Questions
 
-Dans quel album de [[Pink Floyd]], sorti en 1979, retrouve-t-on le concept de l'isolement et l'aliénation, symbolisé par un mur métaphorique construit par le protagoniste?
+Quel album de [[Pink Floyd]], sorti en 1979, raconte l'histoire de Pink, rock star qui s'isole derrière un mur ?
 
-Quel film musical, réalisé par [[Alan Parker]] en 1982, est une adaptation du double album conceptuel de [[Pink Floyd]], explorant les thèmes de la guerre, de l'oppression et de la folie mentale?
+Quel film d'[[Alan Parker]], sorti en 1982 avec [[Bob Geldof]], adapte un double album de [[Pink Floyd]] ?
 
-Quelle chanson emblématique figurant sur l'album [[The Wall]], lancée en 1979, critique le système éducatif et est connue pour son refrain "We don't need no education"?
+Quel album [[Roger Waters]] a-t-il interprété le 21 juillet 1990 sur la Potsdamer Platz de [[Berlin]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Cet opus conceptuel raconte l'histoire fictive de [[Pink]], un personnage centra
 Un fait étonnant : la tournée de l'album en [[1980-1981]] fut l'une des plus ambitieuses de l'époque, nécessitant près de 100 tonnes d'équipement scénique ; lors de ces concerts, un véritable mur était érigé sur scène pendant la performance. 
 
 L’album a non seulement influencé la production musicale et scénique, mais il détient également un record en étant l'un des albums doubles les plus vendus de tous les temps.
+
+###### Archives questions
+
+Quelle chanson emblématique figurant sur l'album [[The Wall]], lancée en 1979, critique le système éducatif et est connue pour son refrain "We don't need no education"? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel album de [[Pink Floyd]], sorti en 1979, retrouve-t-on le concept de l'isolement et l'aliénation, symbolisé par un mur métaphorique construit par le protagoniste? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film musical, réalisé par [[Alan Parker]] en 1982, est une adaptation du double album conceptuel de [[Pink Floyd]], explorant les thèmes de la guerre, de l'oppression et de la folie mentale? <!-- cm003 remplacée 2026-11-23 -->

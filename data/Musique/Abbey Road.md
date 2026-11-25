@@ -29,11 +29,11 @@ culture_g_justification: "Abbey Road est un album mythique des Beatles, très re
 
 ###### Questions
 
-Quel album emblématique des [[Beatles]], enregistré en 1969, s'ouvre avec la chanson "Come Together" et se clôt par "The End" ?
+Quel album des [[Beatles]], le dernier qu'ils enregistrèrent ensemble en 1969, s'ouvre sur « Come Together » ?
 
-Sur quelle rue célèbre du nord-ouest de [[Londres]] se trouvent les studios où les [[Beatles]] ont enregistré de nombreux albums, notamment leur dernier enregistrement en 1969 ?
+Dans quelle rue du quartier de St John's Wood, à Londres, se trouvent les studios où les [[Beatles]] ont enregistré la plupart de leurs disques ?
 
-Quel passage pour piétons situé près des studios [[Abbey Road]] a été immortalisé sur la pochette de l'album des [[Beatles]] en 1969 ?
+Quel passage piéton londonien a été inscrit en 2010 sur la liste du patrimoine protégé d'Angleterre ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Ce monument de la musique a été enregistré aux [[Abbey Road Studios]] à [[Lo
 Un fait étonnant est que la fameuse traverse piétonne sur la pochette de l'album, située à proximité des studios, a été classée monument historique par le [[English Heritage]] en 2010, un record pour un passage piéton. 
 
 De plus, [[Abbey Road]] marque la première utilisation par [[The Beatles]] du synthétiseur [[Moog]], notamment dans la chanson "Here Comes the Sun".
+
+###### Archives questions
+
+Quel passage pour piétons situé près des studios [[Abbey Road]] a été immortalisé sur la pochette de l'album des [[Beatles]] en 1969 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album emblématique des [[Beatles]], enregistré en 1969, s'ouvre avec la chanson "Come Together" et se clôt par "The End" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Sur quelle rue célèbre du nord-ouest de [[Londres]] se trouvent les studios où les [[Beatles]] ont enregistré de nombreux albums, notamment leur dernier enregistrement en 1969 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -32,11 +32,9 @@ culture_g_justification: "Village thermal surtout connu pour sa gastronomie et s
 ![[Carte_Eugénie-les-Bains.png]]
 ###### Questions
 
-Dans quel village la célèbre cheffe [[Michel Guérard]] a-t-elle ouvert son restaurant étoilé « Les Prés d’[[Eugénie-les-Bains]] » en 1974 et a contribué à développer la [[Nouvelle cuisine]] minceur ?
+Dans quel village des [[Landes]] [[Michel Guérard]] s'est-il installé en 1974 pour y créer sa « cuisine minceur » ?
 
-Quel village situé dans le département des [[Landes]] est connu pour ses sources thermales et ses traitements qui ont attiré l'impératrice [[Eugénie de Montijo]] à la fin du [[19^e siècle]] ?
-
-Dans quel village se trouve l'un des établissements thermaux les plus réputés de France, connu pour ses cures médicales spécialisées depuis la reconnaissance de ses eaux en 1861 par [[Napoléon III]] ?
+Quelle station thermale landaise, fondée en 1861, porte le prénom de l'épouse de [[Napoléon III]] ?
 
 ###### Description
 
@@ -45,3 +43,11 @@ Dans quel village se trouve l'un des établissements thermaux les plus réputés
 Fait étonnant : [[Eugénie-les-Bains]] a été classée première station thermale de France en termes de fréquentation en 1990, un record notamment dû à la renommée du célèbre chef [[Michel Guérard]], précurseur de la "Nouvelle Cuisine" et propriétaire des [[Prés d'Eugénie]], un établissement maintes fois étoilé par le [[Guide Michelin]].
 
 En vous promenant à [[Eugénie-les-Bains]], vous pourrez également admirer l'architecture typiquement landaise avec ses maisons à colombages et son église du XIe siècle, un témoignage vivant de l'histoire de la région.
+
+###### Archives questions
+
+Dans quel village la célèbre cheffe [[Michel Guérard]] a-t-elle ouvert son restaurant étoilé « Les Prés d’[[Eugénie-les-Bains]] » en 1974 et a contribué à développer la [[Nouvelle cuisine]] minceur ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel village situé dans le département des [[Landes]] est connu pour ses sources thermales et ses traitements qui ont attiré l'impératrice [[Eugénie de Montijo]] à la fin du [[19^e siècle]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel village se trouve l'un des établissements thermaux les plus réputés de France, connu pour ses cures médicales spécialisées depuis la reconnaissance de ses eaux en 1861 par [[Napoléon III]] ? <!-- cm003 remplacée 2026-11-23 -->

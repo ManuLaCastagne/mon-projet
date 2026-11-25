@@ -28,13 +28,13 @@ culture_g_justification: "Icône mondiale de la musique, Prince permet des quest
 ![[Pasted image 20250410120205.png]]
 ###### Questions
 
-Dans quel film de 1984 [[Prince]] a-t-il fait ses débuts en tant qu'acteur principal tout en participant à la bande originale qui contient le célèbre morceau "Purple Rain" ?
+Quel musicien tient le rôle principal du film « [[Purple Rain]] » en 1984 ?
 
 Quel musicien et chanteur, né le 7 juin 1958 à [[Minneapolis]] et disparu à l'âge de 57 ans, s'est également fait appeler Love Symbol?
 
-En quelle année [[Prince]] a-t-il changé son nom de scène en un symbole imprononçable, souvent appelé "The [[Love Symbol]]" ?
+Quel artiste a remplacé en 1993 son nom de scène par un symbole imprononçable ?
 
-Quel album de [[Prince]], sorti en 1987, a été décrit comme l'une des œuvres les plus avant-gardistes de sa carrière, avec des titres comme "[[If I Was Your Girlfriend]]" ?
+Quel musicien a publié en 1987 le double album « Sign o' the Times » ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ En 1984, son album iconique ''[[Purple Rain]]'' a non seulement dominé les char
 Fait étonnant, [[Prince]] détient le record d'avoir composé son premier morceau à seulement 7 ans, démontrant une précocité musicale hors du commun.
 
 Son immense influence s'étendait également aux coulisses de l'industrie, puisqu'il a écrit de nombreux succès pour d'autres artistes, tout en luttant activement pour les droits des musiciens, marquant son époque de manière indélébile.
+
+###### Archives questions
+
+Dans quel film de 1984 [[Prince]] a-t-il fait ses débuts en tant qu'acteur principal tout en participant à la bande originale qui contient le célèbre morceau "Purple Rain" ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Prince]] a-t-il changé son nom de scène en un symbole imprononçable, souvent appelé "The [[Love Symbol]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album de [[Prince]], sorti en 1987, a été décrit comme l'une des œuvres les plus avant-gardistes de sa carrière, avec des titres comme "[[If I Was Your Girlfriend]]" ? <!-- cm003 remplacée 2026-11-23 -->

@@ -21,19 +21,22 @@ indice_5 :
 indice_6 : 
   - Études
 questions:
- - A quel pianiste et compositeur du Culture_G/XIXe, longtemps lié à George Sand, doit-on un prélude...
 culture_g_score: 100
 culture_g_justification: "Compositeur incontournable du romantisme, particulièrement rentable pour le piano, la Pologne, Paris, George Sand et un vaste répertoire."
+questions_tv_archivees:
+  - A quel pianiste et compositeur du Culture_G/XIXe, longtemps lié à George Sand, doit-on un prélude...
 ---
 ![Image de Frédéric Chopin](https://upload.wikimedia.org/wikipedia/commons/e/e8/Frederic_Chopin_photo.jpeg)
 
 ###### Questions
 
-Dans quelle ville est né [[Frédéric Chopin]] le 1er mars 1810 ? 
+Quel compositeur est né en 1810 à Żelazowa Wola, près de [[Varsovie]] ?
 
-Quelle célèbre sonate de [[Frédéric Chopin]] a été composée durant son séjour à [[Majorque]] en 1838 ? <!-- score: 10 -->
+Quel compositeur passa l'hiver 1838-1839 à la chartreuse de [[Valldemossa]], à [[Majorque]], avec [[George Sand]] ?
 
-Quel grand amour de [[Frédéric Chopin]] a influencé de nombreuses œuvres de l'artiste, notamment entre 1837 et 1847 ?
+Quel compositeur repose au [[cimetière du Père-Lachaise]], tandis que son cœur est conservé dans l'église Sainte-Croix de [[Varsovie]] ?
+
+À quel pianiste et compositeur du XIXe siècle, longtemps lié à George Sand, doit-on les vingt-quatre préludes de l'opus 28 ? <!-- source: tv -->
 
 ###### Description
 
@@ -44,3 +47,11 @@ Durant ses années d'apprentissage, le jeune Chopin a eu pour maître [[Józef E
 Un fait étonnant sur Chopin est qu'il a composé presque exclusivement pour le piano, un choix rare qui distingue son œuvre, mais il reste l'un des compositeurs les plus enregistrés au monde. 
 
 Décédé en 1849 à [[Paris]], [[Frédéric Chopin]] est enterré au [[cimetière du Père-Lachaise]], pourtant il avait souhaité que son cœur soit ramené à Varsovie, une demande qui fut respectée, ajoutant ainsi une note mystérieuse et émotive à sa légende.
+
+###### Archives questions
+
+Dans quelle ville est né [[Frédéric Chopin]] le 1er mars 1810 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle célèbre sonate de [[Frédéric Chopin]] a été composée durant son séjour à [[Majorque]] en 1838 ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel grand amour de [[Frédéric Chopin]] a influencé de nombreuses œuvres de l'artiste, notamment entre 1837 et 1847 ? <!-- cm003 remplacée 2026-11-23 -->

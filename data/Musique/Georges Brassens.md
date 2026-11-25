@@ -29,11 +29,11 @@ culture_g_justification: "Monument de la chanson française, fréquemment relié
 
 ###### Questions
 
-Dans quel cimetière, [[Georges Brassens]] a-t-il été enterré en 1981 conformément à sa volonté exprimée dans une de ses chansons ?  
+Quel chanteur a demandé, dans une « Supplique », à être enterré sur la plage de [[Sète]] ?
 
-Quel grand prix a été décerné à [[Georges Brassens]] en 1967 par l'Académie [[Charles Cros]], soulignant son influence majeure sur la chanson française ?  
+Quel chanteur a reçu en 1967 le grand prix de poésie de l'[[Académie française]] ?
 
-Quel auteur interdit dans les collèges, [[Georges Brassens]] a-t-il souvent mentionné avoir influencé son style musical et littéraire, notamment dans ses interviews de l'année 1972 ?
+Quel chanteur a vu sa chanson « [[Le Gorille]] » interdite d'antenne à la radio dans les années 1950 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Avec sa poésie raffinée et son style unique, il a marqué l'histoire de la cha
 Un fait étonnant est que [[Georges Brassens]] a remporté le grand prix de poésie de l'Académie française en 1967, une distinction plutôt rare pour un musicien populaire. 
 
 Il est décédé le 29 octobre 1981, laissant derrière lui un héritage immense avec des titres tels que "Le Gorille" et "Les Copains d'abord", marquant ainsi plusieurs générations.
+
+###### Archives questions
+
+Dans quel cimetière, [[Georges Brassens]] a-t-il été enterré en 1981 conformément à sa volonté exprimée dans une de ses chansons ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel grand prix a été décerné à [[Georges Brassens]] en 1967 par l'Académie [[Charles Cros]], soulignant son influence majeure sur la chanson française ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel auteur interdit dans les collèges, [[Georges Brassens]] a-t-il souvent mentionné avoir influencé son style musical et littéraire, notamment dans ses interviews de l'année 1972 ? <!-- cm003 remplacée 2026-11-23 -->

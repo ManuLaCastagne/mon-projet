@@ -29,11 +29,11 @@ culture_g_justification: "Grande icône de la chanson francophone, fréquemment 
 
 ###### Questions
 
-Quelle chanteuse française d'origine italienne a vendu sa première chanson à succès, "[[Bambino]]", en 1956, lançant ainsi sa carrière internationale ?
+Quelle chanteuse née au Caire a connu son premier grand succès en 1956 avec « [[Bambino (chanson)|Bambino]] » ?
 
-Quel interprète a remporté le titre de [[Miss Égypte]] en 1954 avant de devenir une icône musicale sous le nom de [[Dalida]] ?
+Quelle chanteuse fut élue Miss Égypte en 1954, avant de s'installer à Paris ?
 
-Quel artiste a obtenu un [[Disque d'or]] pour la chanson "[[Gigi l'Amoroso]]", sortie en 1974, confortant sa carrière internationale ?
+Quelle chanteuse a enregistré en 1974 « [[Gigi l'Amoroso]] », long titre mêlant chant et parlé ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 1961, elle devient la première femme à recevoir un disque d'or, récompensa
 En 1981, [[Dalida]] entre dans l'histoire en tant que première artiste féminine à atteindre le record de 45 disques d'or, un exploit inégalé à l'époque. 
 
 Elle est également connue pour son interprétation de la chanson "[[Paroles... Paroles]]" en duo avec [[Alain Delon]], sortie en 1973, qui demeure l'un de ses plus grands succès.
+
+###### Archives questions
+
+Quel interprète a remporté le titre de [[Miss Égypte]] en 1954 avant de devenir une icône musicale sous le nom de [[Dalida]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanteuse française d'origine italienne a vendu sa première chanson à succès, "[[Bambino]]", en 1956, lançant ainsi sa carrière internationale ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste a obtenu un [[Disque d'or]] pour la chanson "[[Gigi l'Amoroso]]", sortie en 1974, confortant sa carrière internationale ? <!-- cm003 remplacée 2026-11-23 -->

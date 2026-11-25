@@ -32,8 +32,14 @@ culture_g_justification: "Municipalité québécoise très secondaire, susceptib
 ![[Carte_Richelieu (Québec).png]]
 ###### Questions
 
-Dans quelle ville de [[Québec]], traversée par le [[rivière Richelieu]], trouve-t-on un monument dédié au [[Cardinal de Richelieu]] datant de 1897 ?
+Quelle rivière québécoise, exutoire du [[lac Champlain]], se jette dans le [[Saint-Laurent]] à [[Sorel-Tracy]] ?
 
-Quel fleuve, comportant le bassin versant de la rivière [[Richelieu (Québec)]], est une importante voie navigable reliant le [[Canada]] aux [[États-Unis]] depuis 1843 avec le [[canal de Chambly]] ?
+Quelle rivière canadienne est longée par le [[canal de Chambly]], ouvert en 1843 ?
 
 ###### Description
+
+###### Archives questions
+
+Quel fleuve, comportant le bassin versant de la rivière [[Richelieu (Québec)]], est une importante voie navigable reliant le [[Canada]] aux [[États-Unis]] depuis 1843 avec le [[canal de Chambly]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville de [[Québec]], traversée par le [[rivière Richelieu]], trouve-t-on un monument dédié au [[Cardinal de Richelieu]] datant de 1897 ? <!-- cm003 remplacée 2026-11-23 -->

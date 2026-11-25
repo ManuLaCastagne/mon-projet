@@ -30,11 +30,9 @@ culture_g_justification: "Le quartier ou lieu précis des Innocents constitue un
 ![[Carte_Innocents.png]]
 ###### Questions
 
-Quel film de [[Luc Besson]] sorti en 1997 a une scène se déroulant près des [[cascades de Dettifoss]] en [[Islande]], connue pour sa puissance naturelle, où l'équipe de tournage a fait une référence subtile à [[Innocents]] ?
+Quel cimetière parisien du quartier des Halles, le plus grand de la capitale au Moyen Âge, fut fermé en 1780 et ses ossements transférés vers les catacombes ?
 
-Quel roman de [[Guy de Maupassant]] publié en 1887, où le terme [[Innocents]] fait référence à un endroit en [[Normandie]], est souvent étudié dans le contexte des paysages et cultures régionales françaises ?
-
-Dans quelle œuvre rock de [[Peter Gabriel]], sortie en 1986, un lieu nommé [[Innocents]] est-il mentionné dans le cadre d'une réflexion sur les tensions entre les mondes naturel et urbain, inspiré par ses visites en [[Éthiopie]] et [[Brésil]] ?
+Quelle fontaine de la Renaissance, sculptée par [[Jean Goujon]], orne une place du quartier des Halles à Paris ?
 
 ###### Description
 
@@ -45,3 +43,11 @@ Cette fontaine, conçue par [[Jean Goujon]] en 1549, est un magnifique exemple d
 Fait étonnant, au début des années 1780, le cimetière des [[Innocents]], qui occupait une large partie de ce quartier, fut supprimé à la suite de plaintes pour des problèmes de santé liés aux émanations pestilentielles, ce qui est à l'origine du projet des [[Catacombes de Paris]] pour enterrer les ossements exhumés. 
 
 De plus, le quartier abritait autrefois le marché des [[Innocents]], l'un des marchés les plus anciens de [[Paris]], qui fut fermé en 1955.
+
+###### Archives questions
+
+Quel film de [[Luc Besson]] sorti en 1997 a une scène se déroulant près des [[cascades de Dettifoss]] en [[Islande]], connue pour sa puissance naturelle, où l'équipe de tournage a fait une référence subtile à [[Innocents]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel roman de [[Guy de Maupassant]] publié en 1887, où le terme [[Innocents]] fait référence à un endroit en [[Normandie]], est souvent étudié dans le contexte des paysages et cultures régionales françaises ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle œuvre rock de [[Peter Gabriel]], sortie en 1986, un lieu nommé [[Innocents]] est-il mentionné dans le cadre d'une réflexion sur les tensions entre les mondes naturel et urbain, inspiré par ses visites en [[Éthiopie]] et [[Brésil]] ? <!-- cm003 archivée 2026-11-23 -->

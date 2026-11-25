@@ -32,11 +32,9 @@ culture_g_justification: "Commune provençale associée à un épisode littérai
 ![[Carte_Sanary-sur-Mer.png]]
 ###### Questions
 
-Dans quelle ville française, connue comme la capitale littéraire des [[exilés allemands]] dans les années 1930, [[Thomas Mann]] a-t-il séjourné ?
+Dans quelle ville du [[Var]] [[Thomas Mann]] séjourna-t-il en 1933, parmi de nombreux écrivains allemands exilés ?
 
-Quel port de [[Sanary-sur-Mer]] est célèbre pour avoir accueilli le bateau de [[Jacques-Yves Cousteau]], l'[[Élie Monnier]], durant ses explorations sous-marines en 1953 ?
-
-Dans quelle ville française voit-on pour la première fois s'établir une station de radiodiffusion des [[Américains]] durant l'[[Opération Dragoon]] en [[août 1944]] ?
+Dans quel port varois [[Aldous Huxley]] vivait-il lorsqu'il écrivit « [[Le Meilleur des mondes]] », paru en 1932 ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Un fait étonnant est que Sanary-sur-Mer est souvent appelée la "Capitale histo
 La ville est également célèbre pour sa tour romane, qui fait partie de l'ensemble de l'[[Église Saint-Nazaire]], et ses charmantes ruelles bordées de maisons aux façades colorées. 
 
 Chaque année, depuis 1995, Sanary-sur-Mer accueille le festival de la [[Photographie Méditerranéenne]], mettant en valeur les talents de photographes à travers le monde.
+
+###### Archives questions
+
+Quel port de [[Sanary-sur-Mer]] est célèbre pour avoir accueilli le bateau de [[Jacques-Yves Cousteau]], l'[[Élie Monnier]], durant ses explorations sous-marines en 1953 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française, connue comme la capitale littéraire des [[exilés allemands]] dans les années 1930, [[Thomas Mann]] a-t-il séjourné ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française voit-on pour la première fois s'établir une station de radiodiffusion des [[Américains]] durant l'[[Opération Dragoon]] en [[août 1944]] ? <!-- cm003 archivée 2026-11-23 -->
