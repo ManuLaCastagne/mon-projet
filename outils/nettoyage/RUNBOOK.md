@@ -142,7 +142,8 @@ de questions, sur une branche `cm034/verification` et une demande de fusion déd
    clés `*_archive_cm034`). Un fait invérifiable et visiblement inventé est archivé et remplacé par un fait sourcé.
 5. Contrôles : YAML valide, nombre de questions jouables inchangé, pas de fuite du nom, pas de tournure d'IA, construction
    de culture-max OK ; relecture par un agent QA séparé qui contrôle au moins 25 corrections contre les sources ;
-   fusion selon la règle des PR de fiches (tests verts et QA approuvée : la session peut fusionner cette demande-là).
+   la demande de fusion reste ouverte (la session de nuit ne fusionne jamais) ; Claude la fusionne en journée selon la règle
+   des PR de fiches (tests verts et QA approuvée), ou le PO.
 6. Compte rendu dans la demande de fusion : nombre de fiches, taux d'erreur de la nuit par type, fiches mélangées et noms
    fautifs listés pour le PO (non corrigés), corrections refusées.
 
