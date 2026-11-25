@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Le Caire.md",
+                "file": "Géographie/Alexandrie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Le Caire.md",
+                "file": "Géographie/Alexandrie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le Caire"
+              "title": "Alexandrie"
             }
           }
         ],
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie/Le Caire.md",
+                "file": "Géographie/Alexandrie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -362,8 +362,9 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "ab6dbd6c30483175",
+  "active": "71252c55d9d4b291",
   "lastOpenFiles": [
+    "Géographie/Le Caire.md",
     "Géographie/Salto Ángel.md",
     "Géographie/Göteborg.md",
     "Vocabulaire/Ficaire.md",
@@ -392,7 +393,6 @@
     "Télévision/Julien Fébreau.md",
     "Sport/Formule 1.md",
     "Sciences/Subnautica.md",
-    "Géographie/Tonlé Sap.md",
     "attachments/Pasted image 20261002105739.png",
     "attachments/Pasted image 20261002105737.png",
     "Culture générale/Sans titre 4.base",
