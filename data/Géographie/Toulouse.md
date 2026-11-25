@@ -35,9 +35,9 @@ culture_g_justification: "Toulouse offre plusieurs entrées fréquentes par la g
 
 Dans quelle ville française peut-on admirer la [[Cité de l'espace]], un parc à thème dédié à l'exploration spatiale, ouvert en 1997 ? <!-- score: 7 -->
 
-[[Toulouse]] a été surnommée la "Ville Rose" en raison de la couleur de ses bâtiments construits en briques de terre cuite. Quelle est cette ville ?
+Quelle ville, surnommée la « ville rose » pour ses briques de terre cuite, est traversée par la [[Garonne]] ?
 
-Quel est le point de départ de l'historique [[Canal du Midi]], achevé en 1681, reliant la [[Garonne]] à la [[Méditerranée]] ?
+De quelle ville part le [[Canal du Midi]], achevé en [[1681]], qui rejoint la [[Méditerranée]] à l'étang de Thau ?
 
 ###### Description
 
@@ -48,3 +48,9 @@ Elle est traversée par le [[Canal du Midi]], une œuvre d'ingénierie majeure a
 Un fait étonnant sur [[Toulouse]] est qu'elle accueille le siège social d'[[Airbus]], et c'est ici que la ligne de production de l'[[Airbus A380]], le plus grand avion de ligne du monde, a été mise en place au début des années 2000.
 
 Enfin, [[Toulouse]] abrite également le [[Capitole de Toulouse]], un bâtiment emblématique dont les fondations datent de 1190, servant aujourd'hui à la fois de mairie et d'opéra.
+
+###### Archives questions
+
+[[Toulouse]] a été surnommée la "Ville Rose" en raison de la couleur de ses bâtiments construits en briques de terre cuite. Quelle est cette ville ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le point de départ de l'historique [[Canal du Midi]], achevé en 1681, reliant la [[Garonne]] à la [[Méditerranée]] ? <!-- cm003 remplacée 2026-11-23 -->

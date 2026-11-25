@@ -32,12 +32,18 @@ culture_g_justification: "Capitale turque fréquemment associée à Atatürk, à
 ![[Carte_Ankara.png]]
 ###### Questions
 
-Quelle est la capitale actuelle de la [[Turquie]] depuis 1923 en remplacement de [[Constantinople]] ? 
+Quelle ville est devenue la capitale de la [[Turquie]] le 13 octobre [[1923]], à la place d'[[Istanbul]] ?
 
 Quelle ville accueille le mausolée de [[Mustafa Kemal Atatürk]], fondateur de la [[République de Turquie]] ? 
 
-Dans quelle ville se trouve la [[Citadelle d'Ankara]], forteresse historique datant de l'époque de [[Galate]] ?
+Quelle ville anatolienne, appelée Ancyre dans l'Antiquité, fut la capitale de la province romaine de [[Galatie]] ?
 
 ###### Description
 
 [[Ankara]], capitale de la [[Turquie]], est située au centre de l’Anatolie centrale, une région caractérisée par ses plateaux ondulés et ses collines. Elle est devenue la capitale du pays en 1923, succédant à [[Istanbul]] après la guerre d'indépendance turque. Ce changement, effectué sous la direction de [[Mustafa Kemal Atatürk]], visait à mieux centrer le pouvoir politique au cœur du pays nouvellement républicain. Ankara est également réputée pour le [[Mausolée d'Atatürk]], achevé en 1953, qui est un monument emblématique honorant le fondateur de la République turque.
+
+###### Archives questions
+
+Dans quelle ville se trouve la [[Citadelle d'Ankara]], forteresse historique datant de l'époque de [[Galate]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la capitale actuelle de la [[Turquie]] depuis 1923 en remplacement de [[Constantinople]] ? <!-- cm003 remplacée 2026-11-23 -->

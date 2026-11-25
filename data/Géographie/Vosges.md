@@ -32,11 +32,11 @@ culture_g_justification: "Massif français important pour la géographie, l’hi
 ![[Carte_Vosges.png]]
 ###### Questions
 
-Quelle chaîne de montagnes, située dans l'est de la France, avec des sommets tels que le [[Ballon d'Alsace]], est à l'origine du nom du département des [[Vosges]], créé en 1790 ?
+Quel massif de l'est de la France compte parmi ses sommets le [[Ballon d'Alsace]] et le [[Grand Ballon]] ?
 
-Quel département français, bordé par les montagnes de la [[chaine des Vosges]] et abritant le célèbre massif du [[Hohneck]], est connu pour ses stations de ski comme [[Gérardmer]] ?
+Dans quel département se trouvent le lac et la station de [[Gérardmer]] ?
 
-Quel département de l'est de la France, dont la préfecture est [[Épinal]], est célèbre pour sa production de textiles et son rôle historique dans la [[guerre de Trente Ans]] ?
+Quel département a pour préfecture [[Épinal]], ville qui a donné son nom à des images populaires imprimées depuis la fin du XVIIIe siècle ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ La capitale du département est [[Épinal]], connue pour ses célèbres images d
 Un fait étonnant est que les [[Vosges]] abritent le lac de [[Gérardmer]], surnommé la "perle des Vosges" ; ce lac glaciaire est le plus grand naturel des [[Vosges]] et a une superficie de près de 115 hectares. 
 
 Ce département est également le lieu de naissance de l'écrivain [[Jules Ferry]] en [[Saint-Dié-des-Vosges]], et il est souvent crédité d'avoir été l'architecte des lois sur l'éducation gratuite et obligatoire en 1881-1882.
+
+###### Archives questions
+
+Quelle chaîne de montagnes, située dans l'est de la France, avec des sommets tels que le [[Ballon d'Alsace]], est à l'origine du nom du département des [[Vosges]], créé en 1790 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel département français, bordé par les montagnes de la [[chaine des Vosges]] et abritant le célèbre massif du [[Hohneck]], est connu pour ses stations de ski comme [[Gérardmer]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel département de l'est de la France, dont la préfecture est [[Épinal]], est célèbre pour sa production de textiles et son rôle historique dans la [[guerre de Trente Ans]] ? <!-- cm003 remplacée 2026-11-23 -->

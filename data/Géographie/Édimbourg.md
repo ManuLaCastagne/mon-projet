@@ -28,11 +28,11 @@ culture_g_justification: "Capitale écossaise très classique, associée à l’
 
 ###### Questions
 
-Dans quelle ville, classée [[Patrimoine mondial de l'humanité]] par l'[[UNESCO]] en 1995, peut-on trouver le quartier historique de [[Old Town]] et [[New Town]] ?
+Quelle capitale voit sa vieille ville et sa ville nouvelle géorgienne inscrites au [[patrimoine mondial de l'UNESCO]] depuis [[1995]] ?
 
-Quelle est la capitale d'[[Écosse]], où se déroule depuis 1947 le célèbre [[Festival international d'Édimbourg]], connu pour être le plus grand festival de théâtre et d'arts vivants du monde ?
+Quelle capitale accueille chaque été depuis [[1947]] un grand festival international des arts, doublé du « Fringe » ?
 
-Dans quelle ville se situe le [[Royal Mile]], un ensemble de rues historiques reliant le [[Palais de Holyrood]] à l'[[Édimbourg Castle]], où en 1707 fut signée l'[[Acte d'Union]] créant le [[Royaume-Uni de Grande-Bretagne]] ?
+Dans quelle ville le [[Royal Mile]] relie-t-il le château au [[palais de Holyrood]] ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Un fait étonnant à propos d'[[Édimbourg]] est qu'elle possède le [[Arthur's 
 C'est également la ville où l'[[Encyclopédie Britannica]] a été publiée pour la première fois en 1768, marquant un tournant dans l'histoire de la diffusion du savoir. 
 
 De plus, [[Édimbourg]] accueille chaque année le [[Festival international d'Édimbourg]], qui a débuté en 1947 et est devenu l'un des plus grands festivals d'arts du spectacle au monde.
+
+###### Archives questions
+
+Quelle est la capitale d'[[Écosse]], où se déroule depuis 1947 le célèbre [[Festival international d'Édimbourg]], connu pour être le plus grand festival de théâtre et d'arts vivants du monde ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville se situe le [[Royal Mile]], un ensemble de rues historiques reliant le [[Palais de Holyrood]] à l'[[Édimbourg Castle]], où en 1707 fut signée l'[[Acte d'Union]] créant le [[Royaume-Uni de Grande-Bretagne]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville, classée [[Patrimoine mondial de l'humanité]] par l'[[UNESCO]] en 1995, peut-on trouver le quartier historique de [[Old Town]] et [[New Town]] ? <!-- cm003 remplacée 2026-11-23 -->

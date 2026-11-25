@@ -32,11 +32,11 @@ culture_g_justification: "Département associé à une bataille majeure de 1916,
 ![[Carte_Somme.png]]
 ###### Questions
 
-Dans quel département français se trouve le célèbre champ de bataille de la [[Bataille de la Somme]] de 1916 ?
+Dans quel département se trouve [[Thiepval]], site du mémorial britannique aux disparus de l'offensive de juillet [[1916]] ?
 
-Quelle rivière du département de la [[Somme]] a donné son nom à une des principales batailles de la [[Première Guerre mondiale]] ?
+Quel fleuve côtier, qui arrose [[Amiens]] et [[Abbeville]], se jette dans la [[Manche]] ?
 
-Dans quel département du nord de la France peut-on visiter la [[Baie de Somme]], connue pour sa richesse écologique ?
+Quel département a pour préfecture [[Amiens]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ La préfecture, [[Amiens]], est célèbre pour sa cathédrale gothique, classée
 Un fait étonnant concernant la [[Somme]] est la présence du [[Parc du Marquenterre]], une réserve naturelle qui abrite plus de 300 espèces d'oiseaux, ce qui en fait un site de premier plan pour l'observation ornithologique en [[Europe]].
 
 Au début du XXe siècle, la [[Bataille de la Somme]] en 1916, l'une des batailles les plus sanglantes de l'histoire, a eu lieu sur ce territoire, avec un bilan d'environ 1,2 million de soldats blessés ou tués.
+
+###### Archives questions
+
+Dans quel département français se trouve le célèbre champ de bataille de la [[Bataille de la Somme]] de 1916 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle rivière du département de la [[Somme]] a donné son nom à une des principales batailles de la [[Première Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel département du nord de la France peut-on visiter la [[Baie de Somme]], connue pour sa richesse écologique ? <!-- cm003 remplacée 2026-11-23 -->

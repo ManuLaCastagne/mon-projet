@@ -32,11 +32,11 @@ culture_g_justification: "Lieu associé à une bataille décisive de la Seconde 
 ![[Carte_El-Alamein.png]]
 ###### Questions
 
-Dans quelle localité d'Égypte située à environ 106 kilomètres à l'ouest d'[[Alexandrie]] a eu lieu une bataille décisive lors de la [[Seconde Guerre mondiale]] en 1942 ? 
+Près de quelle localité égyptienne, à une centaine de kilomètres à l'ouest d'[[Alexandrie]], les Alliés remportèrent-ils une bataille décisive à l'automne [[1942]] ?
 
-Quel site géographique est connu pour ses deux batailles, l'une en juillet et l'autre en octobre-novembre 1942, marquant un tournant dans la [[campagne du désert occidental]] ? 
+Près de quel lieu de la côte égyptienne [[Erwin Rommel]] et l'[[Afrikakorps]] furent-ils arrêtés en juillet [[1942]] ?
 
-Quel lieu sur la côte nord de l'Égypte, dont le nom signifie "les deux drapeaux" en arabe, est célèbre pour ses cimetières de guerre commémorant les soldats tombés lors des batailles de [[El-Alamein]] ?
+Quelle localité de la côte nord de l'Égypte, dont le nom signifie « les deux drapeaux » en arabe, abrite de grands cimetières militaires de la [[Seconde Guerre mondiale]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Le nom d'[[El-Alamein]] est surtout connu pour les batailles décisives qui s'y 
 Un fait étonnant concernant [[El-Alamein]] est qu'elle abrite le [[Cimetière militaire d'El-Alamein]], qui est l'un des plus grands cimetières militaires du monde, avec environ 7 200 soldats enterrés, représentant plusieurs nationalités.  
 
 Enfin, la ville est aussi connue pour son musée militaire, qui a ouvert ses portes en 1956 et qui présente des expositions sur la guerre du désert et les nombreuses armes, véhicules et équipements utilisés pendant les batailles d'[[El-Alamein]].
+
+###### Archives questions
+
+Quel lieu sur la côte nord de l'Égypte, dont le nom signifie "les deux drapeaux" en arabe, est célèbre pour ses cimetières de guerre commémorant les soldats tombés lors des batailles de [[El-Alamein]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel site géographique est connu pour ses deux batailles, l'une en juillet et l'autre en octobre-novembre 1942, marquant un tournant dans la [[campagne du désert occidental]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle localité d'Égypte située à environ 106 kilomètres à l'ouest d'[[Alexandrie]] a eu lieu une bataille décisive lors de la [[Seconde Guerre mondiale]] en 1942 ? <!-- cm003 remplacée 2026-11-23 -->

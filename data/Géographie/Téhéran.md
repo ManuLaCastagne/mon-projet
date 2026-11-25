@@ -32,12 +32,20 @@ culture_g_justification: "Téhéran est une capitale fréquemment mobilisée pou
 ![[Carte_Téhéran.png]]
 ###### Questions
 
-Quel est le nom de la capitale de l'Iran considérée comme l'une des plus anciennes villes de l'époque moderne, ayant été mentionnée pour la première fois dans des documents historiques en [[550 av. J.-C.]] ?
+Quelle ville [[Agha Mohammad Khan Qadjar|Agha Mohammad Khan]] choisit-il comme capitale de la Perse en [[1786]] ?
 
-Quel est le titre de la série télévisée d'espionnage franco-israélienne diffusée à partir de 2020 et se déroulant principalement dans la capitale iranienne ?
+Quelle capitale donne son titre à une série d'espionnage israélienne diffusée à partir de [[2020]], où une agente du [[Mossad]] infiltre l'Iran ?
 
-Quel événement dramatique impliquant des militants iraniens a pris fin en 1981 lorsqu'un avion Boeing 727 de la compagnie aérienne iranienne a été détourné pour atterrir à [[Téhéran]] ?
+Dans quelle ville [[Franklin D. Roosevelt|Roosevelt]], [[Winston Churchill|Churchill]] et [[Joseph Staline|Staline]] se réunirent-ils pour la première fois, fin [[1943]] ?
 
 ###### Description
 
 [[Téhéran]], la capitale de l'Iran, a une histoire riche et complexe qui a attiré l'attention du monde entier à diverses époques. Fondée au XIIe siècle, elle est devenue la capitale de la Perse en 1796 sous la dynastie [[Kadjar]]. En 1953, Téhéran a été au cœur des tensions internationales lors du coup d'État orchestré par la [[CIA]] pour renverser le Premier ministre [[Mohammad Mossadegh]]. Plus récemment, en 1979, la ville a été le théâtre de la Révolution iranienne, marquant la fin de la monarchie du [[Shah Mohammad Reza Pahlavi]] et l'établissement de la République islamique sous le [[Ayatollah Khomeini]].
+
+###### Archives questions
+
+Quel événement dramatique impliquant des militants iraniens a pris fin en 1981 lorsqu'un avion Boeing 727 de la compagnie aérienne iranienne a été détourné pour atterrir à [[Téhéran]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la capitale de l'Iran considérée comme l'une des plus anciennes villes de l'époque moderne, ayant été mentionnée pour la première fois dans des documents historiques en [[550 av. J.-C.]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre de la série télévisée d'espionnage franco-israélienne diffusée à partir de 2020 et se déroulant principalement dans la capitale iranienne ? <!-- cm003 remplacée 2026-11-23 -->

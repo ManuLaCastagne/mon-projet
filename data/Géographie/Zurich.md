@@ -29,13 +29,13 @@ culture_g_justification: "Grande ville suisse rentable pour la finance, la géog
 ![[Carte_Zurich.png]]
 ###### Questions
 
-Quelle commune, constituant un grand centre financier, située sur la [[Limat]], est la plus grande ville de Suisse?
+Quelle ville, traversée par la [[Limmat]], est la plus peuplée de Suisse ?
 
-Quel est le siège du siège central de la [[Banque des Règlements Internationaux]], fondée en 1930 ?
+Dans quelle ville [[Albert Einstein]] obtint-il en [[1900]] son diplôme de l'École polytechnique fédérale ?
 
-Dans quelle ville [[Léon Nicole]] a-t-il été maire de 1929 à 1938 et qui est souvent reconnue pour avoir une informelle compétition amicale avec [[Genève]] concernant leur influence en [[Suisse]] ?
+Dans quelle ville le mouvement [[dada]] est-il né en [[1916]] au [[Cabaret Voltaire]] ?
 
-Où trouve-t-on l'aéroport international [[Zurich Kloten]], un des principaux hubs aériens d'[[Europe]] depuis son inauguration en 1953 ?
+Dans quelle ville suisse se trouve le siège de la [[FIFA]] ?
 
 ###### Description
 
@@ -46,3 +46,13 @@ Réputée pour son cadre enchanteur et sa qualité de vie, Zurich est fréquemme
 Un fait étonnant qui pourrait surprendre est que Zurich a été la ville d'accueil de la première bourse de valeurs au monde à utiliser l'électronique, en 1995, marquant une avancée technologique majeure dans le secteur financier.  
 
 La ville est également traversée par la [[Limmat]], une rivière qui prend sa source à l'extrémité nord du lac, ajoutant au charme pittoresque de la métropole helvétique.
+
+###### Archives questions
+
+Où trouve-t-on l'aéroport international [[Zurich Kloten]], un des principaux hubs aériens d'[[Europe]] depuis son inauguration en 1953 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville [[Léon Nicole]] a-t-il été maire de 1929 à 1938 et qui est souvent reconnue pour avoir une informelle compétition amicale avec [[Genève]] concernant leur influence en [[Suisse]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle commune, constituant un grand centre financier, située sur la [[Limat]], est la plus grande ville de Suisse? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le siège du siège central de la [[Banque des Règlements Internationaux]], fondée en 1930 ? <!-- cm003 remplacée 2026-11-23 -->

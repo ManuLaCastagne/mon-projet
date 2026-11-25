@@ -30,11 +30,9 @@ culture_g_justification: "L’éruption de 1883 fait du Krakatoa un volcan très
 
 ###### Questions
 
-En quelle année l'éruption du [[volcan]] [[Krakatoa]] a-t-elle provoqué l'une des explosions volcaniques les plus puissantes de l'histoire moderne, entraînant des tsunamis qui ont dévasté les côtes de [[Java]] et [[Sumatra]] ?
+Quel volcan du détroit de la [[Sonde]], entre [[Java]] et [[Sumatra]], est entré en éruption cataclysmique en août [[1883]] ?
 
-Quel volcan indonésien célèbre pour son éruption catastrophique en [[1883]] est situé dans le détroit de la [[Sonde]] ?
-
-Quel événement naturel a conduit à des couchers de soleil spectaculaires à travers le monde à la suite de l'éruption du [[Krakatoa]] en [[1883]] ?
+Quel volcan indonésien a produit en 1883 une explosion entendue jusqu'à l'île [[Rodrigues]], à près de 4 800 km ?
 
 ###### Description
 
@@ -45,3 +43,11 @@ Il est surtout célèbre pour sa gigantesque éruption en 1883, l'une des plus v
 Un fait étonnant moins connu à propos de [[Krakatoa]] est que l'éruption a été si puissante qu'elle a été entendue jusqu'à 4 800 km de distance, par exemple à l'île [[Rodrigues]] dans l'Océan Indien. 
 
 En 1927, une nouvelle île volcanique, [[Anak Krakatau]] (« l'enfant de Krakatoa »), a émergé à l'endroit de l'ancienne caldeira, et est toujours active à ce jour.
+
+###### Archives questions
+
+En quelle année l'éruption du [[volcan]] [[Krakatoa]] a-t-elle provoqué l'une des explosions volcaniques les plus puissantes de l'histoire moderne, entraînant des tsunamis qui ont dévasté les côtes de [[Java]] et [[Sumatra]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel événement naturel a conduit à des couchers de soleil spectaculaires à travers le monde à la suite de l'éruption du [[Krakatoa]] en [[1883]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel volcan indonésien célèbre pour son éruption catastrophique en [[1883]] est situé dans le détroit de la [[Sonde]] ? <!-- cm003 remplacée 2026-11-23 -->

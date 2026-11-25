@@ -32,11 +32,11 @@ culture_g_justification: "Île rendue célèbre par une bataille emblématique e
 ![[Carte_Iwo Jima.png]]
 ###### Questions
 
-Cette île du [[Pacifique]], théâtre d'une bataille emblématique pendant la [[Seconde Guerre mondiale]], a été capturée par les forces américaines en 1945, quel est son nom ?
+Quelle île de l'archipel japonais des [[Îles Volcan]] les Marines américains conquirent-ils en février et mars [[1945]] ?
 
-Durant la bataille de [[Iwo Jima]], une célèbre photo a été prise montrant la levée du drapeau américain sur un sommet de l'île, comment s'appelle cette île ? 
+Sur quelle île le photographe [[Joe Rosenthal]] saisit-il le lever du drapeau américain au sommet du mont Suribachi, le 23 février [[1945]] ?
 
-Quel endroit, situé dans l'archipel des [[Îles Volcan]] du [[Japon]], a été un point stratégique lors de la campagne du [[Pacifique]] pendant la [[Seconde Guerre mondiale]] ?
+Quelle île le général [[Tadamichi Kuribayashi]] défendit-il face aux Américains en [[1945]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Sa superficie est de 21 kilomètres carrés, et elle est surtout connue pour la 
 Un fait étonnant à propos d'[[Iwo Jima]] est qu'en 2007, sa surface s'est élevée d'environ 40 centimètres en seulement deux ans en raison de l'activité géologique sous-jacente, un phénomène rare qui a intrigué les scientifiques pendant un certain temps. 
 
 Une caractéristique notable de l'île est le mont [[Suribachi]], un volcan éteint qui culmine à 169 mètres, constituant à la fois un point stratégique économique et historique pour étudier les processus volcaniques.
+
+###### Archives questions
+
+Durant la bataille de [[Iwo Jima]], une célèbre photo a été prise montrant la levée du drapeau américain sur un sommet de l'île, comment s'appelle cette île ? <!-- cm003 remplacée 2026-11-23 -->
+
+Cette île du [[Pacifique]], théâtre d'une bataille emblématique pendant la [[Seconde Guerre mondiale]], a été capturée par les forces américaines en 1945, quel est son nom ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel endroit, situé dans l'archipel des [[Îles Volcan]] du [[Japon]], a été un point stratégique lors de la campagne du [[Pacifique]] pendant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->

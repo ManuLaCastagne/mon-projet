@@ -32,11 +32,11 @@ culture_g_justification: "Ville fortement associée au Stari Most, à l’Empire
 ![[Carte_Mostar.png]]
 ###### Questions
 
-Dans quelle ville se trouve le célèbre [[pont de Mostar]], un site classé au patrimoine mondial de l'[[UNESCO]] depuis 2005 ?  
+Dans quelle ville le quartier du Vieux Pont est-il inscrit au [[patrimoine mondial de l'UNESCO]] depuis [[2005]] ?
 
-Dans laquelle des villes des [[Balkans]] [[l’ancien pont de Mostar]], détruit en 1993 pendant la [[guerre de Bosnie]], a-t-il été reconstruit et rouvert en 2004 ?
+Dans quelle ville de [[Bosnie-Herzégovine]] le pont ottoman détruit le 9 novembre [[1993]] a-t-il été rouvert en [[2004]] ?
 
-Quel est le nom de la ville de [[Bosnie-Herzégovine]] dont le célèbre pont en arc est appelé [[Stari Most]] et qui attire de nombreux plongeurs chaque année pour l'événement du plongeon ?
+Dans quelle ville traversée par la [[Neretva]] des plongeurs s'élancent-ils chaque été du [[Stari Most]], à une vingtaine de mètres au-dessus de l'eau ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Entourée par les [[Montagnes des Alpes dinariques]], elle offre des paysages à
 Fait étonnant : le [[Stari Most]] a été complètement détruit en novembre 1993 pendant la guerre de Bosnie, mais a été fidèlement reconstruit en 2004, et ce projet de reconstruction a été nommé Patrimoine mondial de l'UNESCO la même année.
 
 Mostar détient également un record curieux : elle est l'une des rares villes au monde à avoir des plongeurs professionnels qui sautent régulièrement du pont [[Stari Most]], d'une hauteur de 24 mètres, dans un spectacle impressionnant de bravoure et de tradition.
+
+###### Archives questions
+
+Dans quelle ville se trouve le célèbre [[pont de Mostar]], un site classé au patrimoine mondial de l'[[UNESCO]] depuis 2005 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans laquelle des villes des [[Balkans]] [[l’ancien pont de Mostar]], détruit en 1993 pendant la [[guerre de Bosnie]], a-t-il été reconstruit et rouvert en 2004 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la ville de [[Bosnie-Herzégovine]] dont le célèbre pont en arc est appelé [[Stari Most]] et qui attire de nombreux plongeurs chaque année pour l'événement du plongeon ? <!-- cm003 remplacée 2026-11-23 -->

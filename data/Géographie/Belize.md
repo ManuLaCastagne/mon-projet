@@ -34,9 +34,9 @@ culture_g_justification: "Petit État d’Amérique centrale très rentable grâ
 
 Quelle ancienne colonie britannique d'Amérique centrale, ayant gagné son indépendance en 1981, est la seule nation d'Amérique centrale où l'anglais est la langue officielle ? 
 
-Quel pays d'[[Amérique centrale]] possède la seule barrière de corail de l'hémisphère nord classée au patrimoine mondial de l'[[UNESCO]] et connue sous le nom de [[Grande barrière de corail du Belize]] ? 
+Quel pays d'[[Amérique centrale]] possède au large de ses côtes le [[Grand Trou bleu]], gouffre marin circulaire ?
 
-Quel État d'[[Amérique centrale]] est le moins peuplé, avec une population de moins de [[400,000]] habitants en 2020, mais abrite le site archéologique maya bien connu de [[Caracol]] ?
+Dans quel pays d'Amérique centrale se trouve le site maya de [[Caracol]] ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Bien que sa capitale soit [[Belmopan]], la ville la plus peuplée et célèbre e
 Le [[Belize]] est le seul pays d'Amérique centrale dont la langue officielle est l'anglais, héritage de la colonisation britannique et de son indépendance acquise en 1981. 
 
 Un fait étonnant est que le pays abrite le [[Great Blue Hole]], une remarquable doline sous-marine circulaire qui est l'un des sites de plongée sous-marine les plus emblématiques du monde.
+
+###### Archives questions
+
+Quel pays d'[[Amérique centrale]] possède la seule barrière de corail de l'hémisphère nord classée au patrimoine mondial de l'[[UNESCO]] et connue sous le nom de [[Grande barrière de corail du Belize]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel État d'[[Amérique centrale]] est le moins peuplé, avec une population de moins de [[400,000]] habitants en 2020, mais abrite le site archéologique maya bien connu de [[Caracol]] ? <!-- cm003 remplacée 2026-11-23 -->

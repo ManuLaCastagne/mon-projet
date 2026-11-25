@@ -32,11 +32,11 @@ culture_g_justification: "L’île de Saint-Martin est un cas géopolitique et g
 ![[Carte_Saint-Martin.png]]
 ###### Questions
 
-Quel département d'outre-mer se trouve sur l'île de [[Saint-Martin]], partageant son territoire avec une collectivité d'outre-mer française depuis 2007 ?
+Quelle collectivité d'outre-mer, détachée de la [[Guadeloupe]] en [[2007]], a pour chef-lieu [[Marigot]] ?
 
-Quelle île caribéenne, nommée [[Saint-Martin]], est unique en étant divisée entre deux pays, la France et les [[Pays-Bas]], depuis le Traité de Concordia en 1648 ?
+Quelle île caribéenne est partagée entre la France et les [[Pays-Bas]] depuis le traité de Concordia de [[1648]] ?
 
-Quel territoire français d'outre-mer est célèbre pour l'aéroport international Princess Juliana de [[Saint-Martin]], connu pour sa piste spectaculaire à proximité des plages ?
+Sur quelle île les avions frôlent-ils la plage de [[Maho Beach]] avant d'atterrir à l'aéroport Princess Juliana ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Située dans les [[Petites Antilles]], [[Saint-Martin]] est le territoire le plu
 Ce qui rend [[Saint-Martin]] particulièrement remarquable, c'est qu'elle est la plus petite île habitée au monde à être divisée entre deux nations souveraines.
 
 Un fait étonnant est que [[Philipsburg]], la capitale de [[Sint-Maarten]], fut fondée en 1763 par [[John Philips]], un capitaine écossais au service de la [[Compagnie néerlandaise des Indes occidentales]], un exemple frappant de la profondeur de l'histoire coloniale de l'île.
+
+###### Archives questions
+
+Quel département d'outre-mer se trouve sur l'île de [[Saint-Martin]], partageant son territoire avec une collectivité d'outre-mer française depuis 2007 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle île caribéenne, nommée [[Saint-Martin]], est unique en étant divisée entre deux pays, la France et les [[Pays-Bas]], depuis le Traité de Concordia en 1648 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel territoire français d'outre-mer est célèbre pour l'aéroport international Princess Juliana de [[Saint-Martin]], connu pour sa piste spectaculaire à proximité des plages ? <!-- cm003 remplacée 2026-11-23 -->

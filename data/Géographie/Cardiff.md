@@ -31,11 +31,11 @@ culture_g_justification: "Capitale du pays de Galles, régulièrement associée 
 ![[Carte_Cardiff.png]]
 ###### Questions
 
-Dans quelle ville se situe le stade Millennium, un lieu emblématique inauguré en 1999, servant principalement aux matchs de rugby et de football de l'équipe nationale du [[Pays de Galles]] ?
+Dans quelle ville le Millennium Stadium, stade national du [[Pays de Galles]], a-t-il été inauguré en [[1999]] ?
 
-Quelle ville, accueillant la plus grande bibliothèque du [[Pays de Galles]], a vu la réouverture de la [[Cardiff Central Library]] en 2009 après une reconstruction complète ?
+Quelle ville est devenue officiellement la capitale du [[Pays de Galles]] en [[1955]] ?
 
-Dans quelle ville, capitale du [[Pays de Galles]], la première université au monde dédiée uniquement aux arts créatifs, l'[[International College of Creative Arts]], a-t-elle été fondée en 1865 ?
+Dans quelle ville galloise est né en [[1916]] l'écrivain [[Roald Dahl]] ?
 
 ###### Description
 
@@ -46,3 +46,11 @@ Fondée au premier millénaire, elle a obtenu le statut de ville en [[Mutinerie 
 [[Cardiff Bay]] est souvent considérée comme l'un des plus grands projets de régénération portuaire d'Europe avec le Cardiff Bay Development Corporation qui a été créé en 1987 pour transformer ce secteur.
 
 Fait étonnant : le [[Millennium Stadium]], désormais connu sous le nom de [[Principality Stadium]], possède un toit rétractable, et lors de son ouverture en 1999, il était le plus grand stade couvert d'Europe.
+
+###### Archives questions
+
+Quelle ville, accueillant la plus grande bibliothèque du [[Pays de Galles]], a vu la réouverture de la [[Cardiff Central Library]] en 2009 après une reconstruction complète ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville se situe le stade Millennium, un lieu emblématique inauguré en 1999, servant principalement aux matchs de rugby et de football de l'équipe nationale du [[Pays de Galles]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville, capitale du [[Pays de Galles]], la première université au monde dédiée uniquement aux arts créatifs, l'[[International College of Creative Arts]], a-t-elle été fondée en 1865 ? <!-- cm003 remplacée 2026-11-23 -->

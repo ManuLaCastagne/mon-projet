@@ -30,9 +30,9 @@ culture_g_justification: "Leipzig est liée à Bach, Wagner, aux guerres napolé
 
 Dans quelle ville allemande [[Jean-Sébastien Bach]] a-t-il occupé le poste de directeur musical à partir de [[1723]] ?
 
-Quelle ville a été le théâtre de la [[bataille des Nations]] en [[1813]], marquant la première grande défaite militaire de [[Napoléon Bonaparte]] ?
+Près de quelle ville saxonne [[Napoléon Ier]] fut-il battu par la coalition lors de la « bataille des Nations », en octobre [[1813]] ?
 
-Quelle ville accueille annuellement la [[Foire du livre de Leipzig]], l'un des événements littéraires les plus importants en Europe ?
+De quelle ville saxonne partirent en [[1989]] les « manifestations du lundi », organisées à partir de l'église Saint-Nicolas ?
 
 ###### Description
 
@@ -43,3 +43,9 @@ Un fait peu connu concerne la bibliothèque de l'[[Université de Leipzig]], fon
 La ville est également réputée pour son histoire économique, car elle a accueilli l'une des foires commerciales les plus anciennes du monde, la [[Leipziger Messe]], dont la première édition date de 1165.  
 
 Enfin, [[Leipzig]] se distingue par sa participations aux mouvements de paix, notamment les manifestations du Lundi en 1989, qui ont joué un rôle crucial dans la chute du régime communiste de la [[RDA]].
+
+###### Archives questions
+
+Quelle ville accueille annuellement la [[Foire du livre de Leipzig]], l'un des événements littéraires les plus importants en Europe ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a été le théâtre de la [[bataille des Nations]] en [[1813]], marquant la première grande défaite militaire de [[Napoléon Bonaparte]] ? <!-- cm003 remplacée 2026-11-23 -->

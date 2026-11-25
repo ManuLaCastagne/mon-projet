@@ -32,11 +32,11 @@ culture_g_justification: "Grande ville méditerranéenne permettant des question
 ![[Carte_Palerme.png]]
 ###### Questions
 
-En quelle année la ville de [[Palerme]] a-t-elle été désignée [[Capitale de la Culture Italienne]] ? 
+Quelle ville sicilienne fut la capitale du royaume normand de Sicile au XIIe siècle ?
 
 Quelle est la plus grande ville de l'île de [[Sicile]] ? 
 
-Quel port majeur de la [[Méditerranée]] a été fondé par les [[Phéniciens]] au cours du 8ème siècle avant J.-C. et se situe en [[Italie]] ?
+Quel port de [[Sicile]], fondé par les [[Phéniciens]] au VIIIe siècle av. J.-C., s'appelait Panormos dans l'Antiquité ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ L'un de ses points remarquables est le [[Palazzo dei Normanni]], le plus ancien 
 Un fait étonnant sur [[Palerme]] est sa cathédrale, qui a été construite en 1185 et renferme une méridienne astronomique, un dispositif scientifique exceptionnel permettant de mesurer le temps et de déterminer des phénomènes astronomiques avec une précision rare pour l'époque. 
 
 La ville est également célèbre pour son marché traditionnel, le [[Mercato di Ballarò]], qui existe depuis 1050 et illustre la diversité multiculturelle qui a marqué l'histoire de [[Palerme]].
+
+###### Archives questions
+
+En quelle année la ville de [[Palerme]] a-t-elle été désignée [[Capitale de la Culture Italienne]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel port majeur de la [[Méditerranée]] a été fondé par les [[Phéniciens]] au cours du 8ème siècle avant J.-C. et se situe en [[Italie]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -32,11 +32,11 @@ culture_g_justification: "Reims cumule les sacres royaux, une cathédrale majeur
 ![[Carte_Reims.png]]
 ###### Questions
 
-Dans quelle ville française a été construite la première démonstration publique d'une projection cinématographique par les frères [[lumière]] en 1896 ?
+Dans quelle ville l'Allemagne signa-t-elle sa capitulation le 7 mai [[1945]] au quartier général d'[[Dwight D. Eisenhower|Eisenhower]] ?
 
-Quelle ville a vu l'inauguration de la première ligne de [[tramway électrique]] en France en 1881 ?
+Dans quelle ville le roi des Francs [[Clovis Ier]] fut-il baptisé par l'évêque Remi ?
 
-Dans quelle ville se trouve la célèbre [[Cathédrale de Reims]], où les rois de France furent traditionnellement couronnés, à partir de 1027 avec [[Hugues Capet]] ?
+Dans quelle ville [[Jeanne d'Arc]] fit-elle sacrer [[Charles VII]] le 17 juillet [[1429]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Elle est célèbre pour sa [[Cathédrale Notre-Dame de Reims]], un chef-d'œuvre
 Un fait étonnant sur Reims est qu'elle abrite, dans ses sous-sols, près de 250 kilomètres de caves à champagne, ce qui en fait la capitale mondiale du champagne, avec des noms prestigieux comme [[Veuve Clicquot]] et [[Taittinger]]. 
 
 En 1991, [[Reims]] a été inscrite pour partie au [[patrimoine mondial de l'UNESCO]], à la fois pour sa cathédrale, le [[Palais du Tau]] et l'[[ancienne abbaye Saint-Remi]], renforçant ainsi son attrait touristique à l'échelle internationale.
+
+###### Archives questions
+
+Dans quelle ville se trouve la célèbre [[Cathédrale de Reims]], où les rois de France furent traditionnellement couronnés, à partir de 1027 avec [[Hugues Capet]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française a été construite la première démonstration publique d'une projection cinématographique par les frères [[lumière]] en 1896 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a vu l'inauguration de la première ligne de [[tramway électrique]] en France en 1881 ? <!-- cm003 remplacée 2026-11-23 -->

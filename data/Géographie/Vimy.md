@@ -29,11 +29,9 @@ culture_g_justification: "Lieu mémoriel important de la Première Guerre mondia
 
 ###### Questions
 
-Dans quelle ville de [[France]] se trouve la crête où a eu lieu une célèbre bataille pendant la [[Première Guerre mondiale]] en [[1917]] ?
+Sur quelle crête du [[Pas-de-Calais]] le Corps canadien remporta-t-il une bataille en avril [[1917]] ?
 
-Quel lieu canadien majeur de mémoire se situe à [[Vimy]], marqué par la construction d'un monument commémoratif en [[1936]] ?
-
-Dans quelle commune du département du [[Pas-de-Calais]] peut-on visiter le [[Mémorial canadien]], témoin important d'une bataille déterminante pour le [[Corps expéditionnaire canadien]] durant la [[Première Guerre mondiale]] ?
+Dans quelle commune le roi [[Édouard VIII]] inaugura-t-il en juillet [[1936]] le mémorial national du Canada ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ La célèbre [[crête de Vimy]] a été le théâtre d'une victoire décisive de
 Un fait étonnant est que le [[Mémorial de Vimy]], inauguré en 1936, est le plus grand monument canadien commémoratif à l'extérieur du [[Canada]], attirant chaque année des milliers de visiteurs du monde entier.
 
 En 1922, le gouvernement français a accordé à perpétuité le terrain du mémorial au peuple canadien, en reconnaissance du sacrifice de ses soldats qui ont combattu sur ce site stratégique.
+
+###### Archives questions
+
+Quel lieu canadien majeur de mémoire se situe à [[Vimy]], marqué par la construction d'un monument commémoratif en [[1936]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville de [[France]] se trouve la crête où a eu lieu une célèbre bataille pendant la [[Première Guerre mondiale]] en [[1917]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle commune du département du [[Pas-de-Calais]] peut-on visiter le [[Mémorial canadien]], témoin important d'une bataille déterminante pour le [[Corps expéditionnaire canadien]] durant la [[Première Guerre mondiale]] ? <!-- cm003 archivée 2026-11-23 -->

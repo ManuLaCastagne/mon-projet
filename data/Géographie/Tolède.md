@@ -28,11 +28,11 @@ culture_g_justification: "Tolède est une ville historique très rentable grâce
 
 ###### Questions
 
-Quelle ville espagnole a été la capitale du royaume de [[Castille]] jusqu'en [[1561]] avant d'être remplacée par [[Madrid]] ?
+Quelle ville espagnole perdit en [[1561]] le siège de la cour de [[Philippe II (roi d'Espagne)|Philippe II]] au profit de [[Madrid]] ?
 
-Dans quelle ville espagnole se trouvait le siège de l'École de [[Traducteurs de Tolède]], célèbre pour sa location où se traduisaient, au XIIe et XIIIe siècles, des œuvres arabes et grecques en latin et en espagnol ?
+Dans quelle ville de [[Castille]] une école de traducteurs fit-elle passer en latin puis en castillan, aux XIIe et XIIIe siècles, des œuvres arabes et grecques ?
 
-Quelle ville, classée au patrimoine mondial de l'[[UNESCO]] depuis [[1986]], est connue pour son mélange d'architectures chrétienne, musulmane et juive ?
+Quelle ville, où vécut et mourut le peintre [[Le Greco]], est inscrite au [[patrimoine mondial de l'UNESCO]] depuis [[1986]] ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Fière de son riche patrimoine historique et culturel, la ville a été le lieu 
 En 1986, [[Tolède]] a été inscrite au patrimoine mondial de l'[[UNESCO]], grâce à ses incroyables monuments tels que la [[Cathédrale de Tolède]] et l'impressionnant [[Alcazar de Tolède]]. 
 
 Fait étonnant : la ville est surnommée la "Ville des Trois Cultures" car elle a été un point de rencontre majeur des civilisations chrétienne, musulmane et juive pendant le Moyen Âge.
+
+###### Archives questions
+
+Dans quelle ville espagnole se trouvait le siège de l'École de [[Traducteurs de Tolède]], célèbre pour sa location où se traduisaient, au XIIe et XIIIe siècles, des œuvres arabes et grecques en latin et en espagnol ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville espagnole a été la capitale du royaume de [[Castille]] jusqu'en [[1561]] avant d'être remplacée par [[Madrid]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville, classée au patrimoine mondial de l'[[UNESCO]] depuis [[1986]], est connue pour son mélange d'architectures chrétienne, musulmane et juive ? <!-- cm003 remplacée 2026-11-23 -->
