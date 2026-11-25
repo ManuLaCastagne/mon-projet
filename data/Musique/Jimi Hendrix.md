@@ -29,11 +29,11 @@ culture_g_justification: "Guitariste mythique et marronnier musical, associé à
 
 ###### Questions
 
-Dans quel pays [[Jimi Hendrix]] a-t-il acquis une notoriété avant de devenir célèbre aux [[États-Unis]] en 1966 ?
+Quel guitariste américain s'est fait connaître à [[Londres]] en 1966-1967, avant de triompher aux États-Unis au festival de Monterey ?
 
-Quel ancien [[musicien de session]] a été découvert par [[Chas Chandler]] des [[Animals]] et est devenu célèbre après avoir formé le [[Jimi Hendrix Experience]] en 1966 ?
+Quel guitariste, découvert par [[Chas Chandler]] des Animals, forma un trio avec [[Noel Redding]] et [[Mitch Mitchell]] ?
 
-Quel guitariste a donné une performance légendaire en jouant "[[The Star-Spangled Banner]]" avec sa guitare électrique lors du [[Festival de Woodstock]] en 1969 ?
+Quel guitariste a joué une version saturée de l'hymne américain « [[The Star-Spangled Banner]] » au [[Festival de Woodstock]] en 1969 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Né le 27 novembre 1942, à [[Seattle]], il a atteint la célébrité internatio
 Un fait étonnant à propos de lui : il était gaucher, mais jouait souvent sur une guitare pour droitier qu'il retournait et réaccordait, un détournement inattendu qui contribue à son son unique. 
 
 Malgré sa carrière musicale relativement courte, qui a pris fin à sa mort en 1970, [[Jimi Hendrix]] a laissé un héritage indélébile avec des albums comme "[[Are You Experienced]]" et "[[Electric Ladyland]]".
+
+###### Archives questions
+
+Dans quel pays [[Jimi Hendrix]] a-t-il acquis une notoriété avant de devenir célèbre aux [[États-Unis]] en 1966 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel ancien [[musicien de session]] a été découvert par [[Chas Chandler]] des [[Animals]] et est devenu célèbre après avoir formé le [[Jimi Hendrix Experience]] en 1966 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel guitariste a donné une performance légendaire en jouant "[[The Star-Spangled Banner]]" avec sa guitare électrique lors du [[Festival de Woodstock]] en 1969 ? <!-- cm003 remplacée 2026-11-23 -->

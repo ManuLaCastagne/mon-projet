@@ -28,11 +28,9 @@ culture_g_justification: "Libourne est une ville viticole et historique intéres
 
 ###### Questions
 
-Dans quelle ville française se trouve le [[Centre de Tri de Lettres du Père Noël]], qui reçoit chaque année des millions de lettres d'enfants du monde entier depuis [[1962]] ?  
+Dans quelle ville de [[Gironde]] La Poste traite-t-elle les lettres adressées au Père Noël ?
 
-Quelle ville de [[Nouvelle-Aquitaine]] a été fondée au [[XIIIe siècle]] par [[Roger de Leyburn]] et est célèbre pour son [[marché de Noël]] ?  
-
-Dans quelle commune de [[Gironde]] se trouve le plus ancien circuit automobile urbain de 3,78 km, où se déroule chaque année le [[Grand Prix de la Ville de Libourne]] depuis [[1927]] ? <!-- score: 9 -->
+Quelle bastide de [[Gironde]], au confluent de la [[Dordogne]] et de l'[[Isle]], fut fondée vers 1270 par le sénéchal [[Roger de Leyburn]] ?
 
 ###### Description
 
@@ -43,3 +41,11 @@ Fondée en [[1270]] par [[Roger de Leybourne]], un envoyé de [[Henri III d'Angl
 Un fait étonnant est que [[Libourne]] abrite l'un des bureaux de poste les plus insolites : chaque année, elle reçoit plus d'un million de lettres adressées à [[Père Noël]], ce qui en fait un record national pour le courrier rédigé au célèbre habitant du [[Pôle Nord]]. 
 
 Enfin, la ville est également réputée pour ses événements festifs tels que la fête de la [[Pentecôte]], qui attire de nombreux visiteurs, consolidant son rôle comme un centre urbain dynamique de la [[Gironde]].
+
+###### Archives questions
+
+Dans quelle commune de [[Gironde]] se trouve le plus ancien circuit automobile urbain de 3,78 km, où se déroule chaque année le [[Grand Prix de la Ville de Libourne]] depuis [[1927]] ? <!-- score: 9 --> <!-- cm003 archivée 2026-11-23 -->
+
+Quelle ville de [[Nouvelle-Aquitaine]] a été fondée au [[XIIIe siècle]] par [[Roger de Leyburn]] et est célèbre pour son [[marché de Noël]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française se trouve le [[Centre de Tri de Lettres du Père Noël]], qui reçoit chaque année des millions de lettres d'enfants du monde entier depuis [[1962]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -32,11 +32,11 @@ culture_g_justification: "Étendue maritime identifiable entre Australie et Nouv
 ![[Carte_Mer de Tasman.png]]
 ###### Questions
 
-Entre quelles masses d'eau se situe la [[Mer de Tasman]], une étendue d'eau formée par une dépression sous-marine qui s'est développée il y a environ 60 millions d'années?
+Quelle mer de l'océan Pacifique, large d'environ 2 000 km, sépare l'Australie de la Nouvelle-Zélande ?
 
-Quel plan d'eau a été traversé pour relier la [[Nouvelle-Zélande]] à l'[[Australie]] lors du premier vol trans-Tasman réussi en 1933?
+Quelle mer [[Charles Kingsford Smith]] a-t-il franchie en septembre 1928 à bord du Southern Cross, lors du premier vol entre l'[[Australie]] et la [[Nouvelle-Zélande]] ?
 
-Quelle mer est connue pour sa richesse en biodiversité, abritant des espèces comme le [[grand requin blanc]] et le [[petit pingouin bleu]], une espèce endémique d'[[Australie]] et de [[Nouvelle-Zélande]]?
+Dans quelle mer se trouve l'[[île Lord Howe]], inscrite au patrimoine mondial de l'UNESCO en 1982 ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Ce bras de mer est nommé d'après l'explorateur néerlandais [[Abel Tasman]], q
 Un fait étonnant concernant la [[Mer de Tasman]] est que c'est là que s'est tenue la première traversée trans-tasmane en avion réalisée avec succès par [[Charles Kingsford Smith]] et son équipage en juin 1928, dans un vol mémorable au départ de [[Oakland, Californie]] et arrivant à [[Brisbane]]. 
 
 La mer s'étend sur environ 2 800 kilomètres de long et peut atteindre une profondeur maximale de 5 943 mètres, dans son point le plus profond connu sous le nom de [[Fosse de Tasman]].
+
+###### Archives questions
+
+Entre quelles masses d'eau se situe la [[Mer de Tasman]], une étendue d'eau formée par une dépression sous-marine qui s'est développée il y a environ 60 millions d'années? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel plan d'eau a été traversé pour relier la [[Nouvelle-Zélande]] à l'[[Australie]] lors du premier vol trans-Tasman réussi en 1933? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle mer est connue pour sa richesse en biodiversité, abritant des espèces comme le [[grand requin blanc]] et le [[petit pingouin bleu]], une espèce endémique d'[[Australie]] et de [[Nouvelle-Zélande]]? <!-- cm003 remplacée 2026-11-23 -->

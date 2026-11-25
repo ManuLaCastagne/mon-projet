@@ -27,11 +27,11 @@ culture_g_justification: "Chanson emblématique des Beatles, utile pour des ques
 
 ###### Questions
 
-Dans quel album des [[Beatles]] trouve-t-on la chanson [[Michelle]] ?  
+Quelle chanson des [[Beatles]], parue sur l'album « Rubber Soul » en 1965, contient des paroles en français ?
 
-Qui, parmi les membres des [[Beatles]], est principalement l'auteur de [[Michelle]] ?  
+Quel prénom féminin, qui rime avec « ma belle », donne son titre à une ballade de [[Paul McCartney]] pour les Beatles ?
 
-Quelle chanson interprétée partiellement en français a valu un [[Grammy Award]] aux [[Beatles]] en 1967 ?  
+Quelle chanson de [[John Lennon]] et [[Paul McCartney]] a reçu le Grammy de la chanson de l'année en 1967 ?
 
 ###### Description
 
@@ -39,3 +39,11 @@ Quelle chanson interprétée partiellement en français a valu un [[Grammy Award
 Elle a été principalement composée par [[Paul McCartney]], avec une participation de [[John Lennon]].  
 La chanson a remporté le Grammy Award de la chanson de l’année en 1967, un fait rare pour un titre partiellement en français.  
 Elle reste l’un des morceaux emblématiques du groupe, régulièrement reprise dans la culture populaire et utilisée dans de nombreux hommages aux [[Beatles]].  
+
+###### Archives questions
+
+Dans quel album des [[Beatles]] trouve-t-on la chanson [[Michelle]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui, parmi les membres des [[Beatles]], est principalement l'auteur de [[Michelle]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanson interprétée partiellement en français a valu un [[Grammy Award]] aux [[Beatles]] en 1967 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Géant du jazz, particulièrement rentable pour relier
 
 ###### Questions
 
-En quelle année le célèbre trompettiste [[Miles Davis]] a-t-il sorti l'album [[Kind of Blue]], souvent considéré comme l'un des plus grands albums de jazz de tous les temps ?
+Quel trompettiste a enregistré en 1959 l'album « [[Kind of Blue]] » avec [[John Coltrane]] et [[Bill Evans]] ?
 
-Quel innovateur du jazz, déjà célèbre pour son jeu de trompette, a marqué l'histoire en incorporant des éléments de [[rock]] et de [[musique électronique]] dans le jazz avec des albums comme [[Bitches Brew]] en 1970 ?
+Quel trompettiste a ouvert le jazz au rock électrique avec l'album « [[Bitches Brew]] » en 1970 ?
 
-Quel musicien de jazz a influencé et collaboré avec de nombreux artistes emblématiques, notamment [[John Coltrane]], tout en étant intronisé au [[Rock and Roll Hall of Fame]] en 2006 ? <!-- score: 4 -->
+Quel jazzman est entré au [[Rock and Roll Hall of Fame]] en 2006 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Un fait étonnant est que [[Miles Davis]] a été intronisé au [[Rock and Roll 
 Il a également étudié à la prestigieuse [[Juilliard School]] avant de quitter pour rejoindre l'orchestre du célèbre [[Charlie Parker]] en 1945 à [[New York]].  
 
 Durant sa carrière, [[Davis]] a collaboré avec des géants du jazz comme [[John Coltrane]], et a influencé des générations de musiciens dans divers genres musicaux.
+
+###### Archives questions
+
+En quelle année le célèbre trompettiste [[Miles Davis]] a-t-il sorti l'album [[Kind of Blue]], souvent considéré comme l'un des plus grands albums de jazz de tous les temps ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel innovateur du jazz, déjà célèbre pour son jeu de trompette, a marqué l'histoire en incorporant des éléments de [[rock]] et de [[musique électronique]] dans le jazz avec des albums comme [[Bitches Brew]] en 1970 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien de jazz a influencé et collaboré avec de nombreux artistes emblématiques, notamment [[John Coltrane]], tout en étant intronisé au [[Rock and Roll Hall of Fame]] en 2006 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

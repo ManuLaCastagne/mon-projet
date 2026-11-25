@@ -34,11 +34,11 @@ culture_g_justification: "Île touristique française identifiable par le passag
 ![[Carte_Noirmoutier.png]]
 ###### Questions
 
-[[Quel]] pont, mesurant environ [[583 mètres]], relie [[l'île de Noirmoutier]] au continent depuis 1971 ?
+Quelle île vendéenne est reliée au continent par un pont de 583 mètres inauguré en 1971 ?
 
-Sur quelle [[île]] se trouve le site unique des marais salants utilisés depuis le [[VIe siècle]] où est récoltée la célèbre [[fleur de sel]] ?
+Sur quelle île de [[Vendée]] [[Philibert de Jumièges]] fonda-t-il un monastère à la fin du VIIe siècle ?
 
-Quelle destination touristique possède la route submersible appelée [[Passage du Gois]], praticable uniquement à marée basse, reliant [[Beauvoir-sur-Mer]] et l'île depuis 1840 ? <!-- score: 3 -->
+Quelle île est reliée à [[Beauvoir-sur-Mer]] par le passage du Gois, une chaussée praticable seulement à marée basse ?
 
 ###### Description
 
@@ -49,3 +49,11 @@ L'île est reliée au continent par le [[Gois]], une chaussée submersible uniqu
 Un fait étonnant est que [[Noirmoutier]] est réputée pour avoir inauguré l'une des premières éoliennes destinées à la production d'électricité en France et ce, dès 1991, marquant un tournant écologique significatif. 
 
 Son point culminant, la colline de la [[Garenne]], n'atteint que 20 mètres, offrant une vue panoramique exceptionnelle sur les marais salants et les plages de l'île.
+
+###### Archives questions
+
+[[Quel]] pont, mesurant environ [[583 mètres]], relie [[l'île de Noirmoutier]] au continent depuis 1971 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Sur quelle [[île]] se trouve le site unique des marais salants utilisés depuis le [[VIe siècle]] où est récoltée la célèbre [[fleur de sel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle destination touristique possède la route submersible appelée [[Passage du Gois]], praticable uniquement à marée basse, reliant [[Beauvoir-sur-Mer]] et l'île depuis 1840 ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->

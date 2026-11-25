@@ -29,11 +29,11 @@ culture_g_justification: "Groupe de rock immédiatement reconnaissable par son m
 
 ###### Questions
 
-Quel groupe légendaire de [[rock]] créé en 1973 est connu pour ses maquillages élaborés et ses concerts spectaculaires aux États-Unis ?
+Quel groupe de hard rock new-yorkais se produit grimé en Démon, Starchild, Spaceman et Catman ?
 
-Quel groupe de [[glam metal]] a été immortalisé par une ligne de produits dérivés comprenant des [[bandes dessinées]] et un [[flipper]] dans les années 1990 ?
+Quel groupe a fait l'objet en 1977 d'une bande dessinée Marvel imprimée avec une encre mêlée au sang de ses membres ?
 
-Quel groupe célèbre a introduit le Jeu [[Kiss Konquest]] sur la [[console Sega Dreamcast]] en 2000 ?
+Quel groupe a enregistré en 1979 le tube disco « I Was Made for Lovin' You » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Quel groupe célèbre a introduit le Jeu [[Kiss Konquest]] sur la [[console Sega
 Un fait étonnant concernant [[Kiss]] est que leur album "[[Kiss Alive!]]", sorti en 1975, est souvent crédité pour avoir sauvé leur carrière en atteignant le quatorzième rang des charts américains, malgré un succès initialement modeste de leurs albums studio précédents.
 
 En 2014, le groupe a été intronisé au [[Rock and Roll Hall of Fame]], confirmant ainsi leur influence durable dans l'histoire du rock.
+
+###### Archives questions
+
+Quel groupe célèbre a introduit le Jeu [[Kiss Konquest]] sur la [[console Sega Dreamcast]] en 2000 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe légendaire de [[rock]] créé en 1973 est connu pour ses maquillages élaborés et ses concerts spectaculaires aux États-Unis ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe de [[glam metal]] a été immortalisé par une ligne de produits dérivés comprenant des [[bandes dessinées]] et un [[flipper]] dans les années 1990 ? <!-- cm003 remplacée 2026-11-23 -->

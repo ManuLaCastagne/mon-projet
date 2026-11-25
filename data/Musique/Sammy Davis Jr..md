@@ -22,6 +22,8 @@ indice_6 :
   - Birth of the Blues
 questions:
  - Quel chanteur et acteur afro-américain a imité sur scène de nombreux artistes dont Maurice Chevalier ?
+aliases:
+  - Sammy Davis
 culture_g_score: 72
 culture_g_justification: "Membre du Rat Pack et artiste polyvalent, il permet des questions sur la musique, le cinéma, le spectacle et l'histoire culturelle afro-américaine."
 ---
@@ -29,11 +31,11 @@ culture_g_justification: "Membre du Rat Pack et artiste polyvalent, il permet de
 
 ###### Questions
 
-Quel artiste nommé [[Sammy Davis Jr.]] a interprété la chanson "[[The Candy Man]]" qui a atteint la première place du [[Billboard Hot 100]] en 1972 ?
+Quel artiste a été numéro un du [[Billboard Hot 100]] en 1972 avec « The Candy Man » ?
 
-Quel membre du [[Rat Pack]], aux côtés de [[Frank Sinatra]] et [[Dean Martin]], était connu pour ses talents polyvalents, incluant la danse, le chant et le théâtre au cours des années 1960 ?
+Quel chanteur et danseur du [[Rat Pack]] partageait la scène avec [[Frank Sinatra]] et [[Dean Martin]] ?
 
-Quel chanteur emblématique est devenu en 1954 le premier artiste afro-américain à porter l'étoile de David pour symboliser sa conversion au [[Judaïsme]] ?
+Quel artiste perdit un œil dans un accident de voiture en 1954, avant de se convertir au judaïsme ?
 
 ###### Description
 
@@ -44,3 +46,11 @@ En 1956, il a été remarqué pour son rôle dans la comédie musicale de [[Broa
 Fait surprenant, Sammy Davis Jr. a été la première personne d'origine afro-américaine à recevoir un contrat à grande échelle de Las Vegas en 1959, ouvrant la voie à une plus grande représentation des minorités dans l'industrie du spectacle. 
 
 Son amitié avec [[Elvis Presley]] a été une source d'inspiration, et en 1961, il a enregistré la célèbre chanson "What Kind of Fool Am I?" qui a connu un immense succès.
+
+###### Archives questions
+
+Quel artiste nommé [[Sammy Davis Jr.]] a interprété la chanson "[[The Candy Man]]" qui a atteint la première place du [[Billboard Hot 100]] en 1972 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel membre du [[Rat Pack]], aux côtés de [[Frank Sinatra]] et [[Dean Martin]], était connu pour ses talents polyvalents, incluant la danse, le chant et le théâtre au cours des années 1960 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur emblématique est devenu en 1954 le premier artiste afro-américain à porter l'étoile de David pour symboliser sa conversion au [[Judaïsme]] ? <!-- cm003 remplacée 2026-11-23 -->

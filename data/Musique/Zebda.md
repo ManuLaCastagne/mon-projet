@@ -31,11 +31,11 @@ culture_g_justification: "Groupe français engagé et populaire, associé à Tou
 
 Mêlant rock, reggae et rap tout en assumant l'héritage occitan, j'ai signé des albums comme "Essence ordinaire", "Utopie d'occase" et "Comme des Cherokees". Formé notamment par les frères Amokrane et par Magyd Cherfi, on me doit les tubes "Le Bruit et l'odeur" et "Tomber la chemise"...
 
-Dans quelle ville française le groupe [[Zebda]] a-t-il été formé en 1985, marquant une rencontre musicale influente qui mélangea des styles tels que le rock, le reggae et la chanson française ?
+Quel groupe de [[Toulouse]] tire son nom du mot arabe signifiant « beurre » ?
 
-Quel titre emblématique de [[Zebda]], sorti en 1999, devint un tube en France et évoque une boisson énergisante fabriquée à partir d'extraits de [[guarana]], de [[ginseng]] et de [[fruits]] ?
+Quel groupe a remporté en 2000 une Victoire de la musique pour sa chanson « Tomber la chemise » ?
 
-Quel groupe musical engagé a participé en 2001 à une campagne citoyenne intitulée "[[Motivé-e-s]], Retour aux Sources" pour encourager la participation aux élections à [[Toulouse]] ?
+Quel groupe a inspiré la liste citoyenne Motivé-e-s, qui obtint plus de 12 % aux municipales de [[Toulouse]] en 2001 ?
 
 ###### Description
 
@@ -46,3 +46,11 @@ Fondé en 1985, le groupe a explosé sur la scène nationale avec son album "[[L
 Un fait étonnant : en 1999, lors de la Listmusicamètre, un classement obtenu grâce aux votes des auditeurs, [[Zebda]] a surclassé des artistes internationaux comme [[Cher]] et [[Ricky Martin]], un exploit pour un groupe francophone à l'époque. 
 
 Bien qu'ayant connu une période de pause, [[Zebda]] s'est reformé en 2011, continuant à s'investir dans des causes sociales tout en maintenant son impact sur la scène musicale française.
+
+###### Archives questions
+
+Dans quelle ville française le groupe [[Zebda]] a-t-il été formé en 1985, marquant une rencontre musicale influente qui mélangea des styles tels que le rock, le reggae et la chanson française ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel titre emblématique de [[Zebda]], sorti en 1999, devint un tube en France et évoque une boisson énergisante fabriquée à partir d'extraits de [[guarana]], de [[ginseng]] et de [[fruits]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe musical engagé a participé en 2001 à une campagne citoyenne intitulée "[[Motivé-e-s]], Retour aux Sources" pour encourager la participation aux élections à [[Toulouse]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Grande figure de la folk-pop britannique, riche en que
 
 ###### Questions
 
-Dans quelle année l'album "[[Tea for the Tillerman]]" de [[Cat Stevens]] a-t-il été publié ?
+Quel chanteur a sorti en 1970 l'album « [[Tea for the Tillerman]] », qui contient « Father and Son » ?
 
-Sous quel nom [[Cat Stevens]] a-t-il réenregistré plusieurs de ses chansons en 2006, après sa conversion à l'[[islam]] ?
+Quel chanteur a popularisé en 1971 l'hymne « Morning Has Broken » ?
 
-Quel événement marquant dans la vie de [[Cat Stevens]] en 1976 a conduit à son changement de direction musicale et spirituelle ?
+Quel chanteur, après avoir failli se noyer à [[Malibu]] en 1976, s'est converti à l'islam l'année suivante ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Il a connu un immense succès avec des titres tels que "[[Wild World]]", "[[Moon
 Fait étonnant, en 1977, il change radicalement de vie, adoptant le nom de [[Yusuf Islam]] après s'être converti à l'[[islam]], une décision qui a marqué un tournant significatif dans sa carrière et vie personnelle. 
 
 De plus, son album "[[Tea for the Tillerman]]", sorti en 1970, a connu un succès international, consolidant sa réputation et culminant à la huitième place du classement américain, preuve de son impact mondial.
+
+###### Archives questions
+
+Dans quelle année l'album "[[Tea for the Tillerman]]" de [[Cat Stevens]] a-t-il été publié ? <!-- cm003 remplacée 2026-11-23 -->
+
+Sous quel nom [[Cat Stevens]] a-t-il réenregistré plusieurs de ses chansons en 2006, après sa conversion à l'[[islam]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel événement marquant dans la vie de [[Cat Stevens]] en 1976 a conduit à son changement de direction musicale et spirituelle ? <!-- cm003 remplacée 2026-11-23 -->

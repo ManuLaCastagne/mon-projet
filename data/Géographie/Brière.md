@@ -31,11 +31,11 @@ culture_g_justification: "La Brière est un espace naturel français identifiabl
 
 ###### Questions
 
-Quelle région de France abrite la [[Grande Brière Mottière]], un vaste marais classé comme le deuxième plus grand de France après la [[Camargue]] ?
+Quel marais de [[Loire-Atlantique]] forme la deuxième zone humide de France par la superficie, après la [[Camargue]] ?
 
-Quelle est la zone humide située à proximité de [[Saint-Nazaire]] et offrant un habitat unique pour de nombreuses espèces d'oiseaux, reconnue comme [[Parc naturel régional]] en 1970 ?
+Quel marais proche de [[Saint-Nazaire]] est devenu parc naturel régional en 1970 ?
 
-Quel réseau de canaux, surnommé la "Petite [[Venise]] de la [[Brière]]", est célèbre pour ses chalandes, des embarcations traditionnelles à fond plat ?
+Dans quel marais se trouve l'île de Fédrun, village de chaumières où l'on circule en chaland ?
 
 ###### Description
 
@@ -46,3 +46,11 @@ Couvrant environ 7000 hectares, elle abrite le Parc Naturel Régional de [[Briè
 Un fait étonnant, peu connu, est que les habitations traditionnelles appelées chaumières, encore visibles dans des villages comme [[Kerhinet]], sont majoritairement construites à partir de roseaux locaux, une technique qui date du 18ème siècle. 
 
 Le grand marais de [[Brière]] est le deuxième plus grand marais de France après la [[Camargue]], et offre une biodiversité exceptionnelle avec plus de 200 espèces d'oiseaux recensées.
+
+###### Archives questions
+
+Quelle région de France abrite la [[Grande Brière Mottière]], un vaste marais classé comme le deuxième plus grand de France après la [[Camargue]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel réseau de canaux, surnommé la "Petite [[Venise]] de la [[Brière]]", est célèbre pour ses chalandes, des embarcations traditionnelles à fond plat ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la zone humide située à proximité de [[Saint-Nazaire]] et offrant un habitat unique pour de nombreuses espèces d'oiseaux, reconnue comme [[Parc naturel régional]] en 1970 ? <!-- cm003 remplacée 2026-11-23 -->

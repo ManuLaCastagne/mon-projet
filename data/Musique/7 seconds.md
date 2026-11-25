@@ -29,11 +29,7 @@ culture_g_justification: "Tube international de Youssou N’Dour et Neneh Cherry
 
 ###### Questions
 
-Dans quelle chanson sortie en 1993, les artistes [[Youssou N'Dour]] et [[Neneh Cherry]] partagent-ils la ligne musicale intitulée "7 Seconds" ?
-
-Quel est le titre du duo interprété par [[Youssou N'Dour]] et [[Neneh Cherry]], devenu un hit international et récompensé aux [[MTV Europe Music Awards]] en 1994, contenant une référence temporelle de 7 seconds ? <!-- score: 9 -->
-
-Quelle collaboration entre l'artiste sénégalais [[Youssou N'Dour]] et la chanteuse suédo-britannique [[Neneh Cherry]], paru dans les années 1990, commence par les paroles "Boul ma sene, boul ma guiss madi re nga fokni mane", évoquant une durée de 7 seconds dans son refrain ?
+Quel duo de [[Youssou N'Dour]] et [[Neneh Cherry]], sorti en 1994, évoque les premiers instants d'un nouveau-né, encore ignorant du racisme ?
 
 ###### Description
 
@@ -44,3 +40,11 @@ La chanson a rencontré un succès international, atteignant la première place 
 Un fait étonnant peu connu est que [[7 Seconds]] a été chantée en trois langues : anglais, français et wolof, une caractéristique qui a renforcé son succès à l'échelle mondiale.
 
 En 1994, année de sa sortie, la chanson a remporté le prestigieux prix de la "Meilleure chanson internationale de l'année" aux [[World Music Awards]], une reconnaissance qui souligne son impact culturel significatif.
+
+###### Archives questions
+
+Dans quelle chanson sortie en 1993, les artistes [[Youssou N'Dour]] et [[Neneh Cherry]] partagent-ils la ligne musicale intitulée "7 Seconds" ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel est le titre du duo interprété par [[Youssou N'Dour]] et [[Neneh Cherry]], devenu un hit international et récompensé aux [[MTV Europe Music Awards]] en 1994, contenant une référence temporelle de 7 seconds ? <!-- score: 9 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle collaboration entre l'artiste sénégalais [[Youssou N'Dour]] et la chanteuse suédo-britannique [[Neneh Cherry]], paru dans les années 1990, commence par les paroles "Boul ma sene, boul ma guiss madi re nga fokni mane", évoquant une durée de 7 seconds dans son refrain ? <!-- cm003 archivée 2026-11-23 -->

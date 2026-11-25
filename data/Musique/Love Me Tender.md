@@ -29,11 +29,9 @@ culture_g_justification: "Grand standard d'Elvis lié à sa carrière musicale, 
 
 ###### Questions
 
-Quel fut le premier film d'[[Elvis Presley]] dans lequel il interprète la chanson [[Love Me Tender]] en 1956 ? <!-- score: 10 -->
+Quel est le titre du premier film d'[[Elvis Presley]], un western sorti en 1956 ?
 
 Quelle chanson populaire d'[[Elvis Presley]], sortie en 1956, était initialement basée sur la ballade américaine "Aura Lee" ?
-
-De quelle chanson d'[[Elvis Presley]] l'album du même nom, sorti en 1956, tire-t-il son titre ?
 
 ###### Description
 
@@ -44,3 +42,9 @@ Elle est basée sur une ballade de guerre américaine intitulée "[[Aura Lee]]",
 Le morceau a marqué sa première performance télévisée nationale le 9 septembre 1956 dans l'émission [[The Ed Sullivan Show]], et est notoire pour avoir devancé sa sortie officielle par trois jours sur les ondes de la radio. 
 
 Fait étonnant : "Love Me Tender" est la première chanson à avoir été certifiée disque d'or avant même sa sortie, grâce aux précommandes ayant dépassé le million d'exemplaires—aubaine pour les amateurs de records musicaux!
+
+###### Archives questions
+
+Quel fut le premier film d'[[Elvis Presley]] dans lequel il interprète la chanson [[Love Me Tender]] en 1956 ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+De quelle chanson d'[[Elvis Presley]] l'album du même nom, sorti en 1956, tire-t-il son titre ? <!-- cm003 archivée 2026-11-23 -->

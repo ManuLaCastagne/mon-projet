@@ -29,9 +29,9 @@ culture_g_justification: "Figure majeure du reggae, associée à quelques chanso
 
 ###### Questions
 
-Dans quel film culte de 1972, l'artiste [[Jimmy Cliff]] joue-t-il le rôle principal et interprète la chanson "The Harder They Come" ?
+Quel chanteur tient le rôle principal du film jamaïcain « The Harder They Come » en 1972 ?
 
-Quel artiste a été introduit au [[Rock and Roll Hall of Fame]] en 2010 pour ses contributions à la musique reggae, alors qu'il est principalement connu pour son travail dans les années 1970 ?
+Quel chanteur de reggae jamaïcain est entré au [[Rock and Roll Hall of Fame]] en 2010 ?
 
 Qui a écrit et interprété la chanson "[[Many Rivers to Cross]]" sortie en 1969, un titre devenu un classique de la musique reggae ? <!-- score: 4 -->
 
@@ -44,3 +44,9 @@ Il a gagné une reconnaissance internationale avec le film "The Harder They Come
 Un fait étonnant à propos de [[Jimmy Cliff]] est qu'il est le seul musicien vivant à avoir reçu l'Ordre du Mérite, la plus haute distinction jamaïcaine dans le domaine de la culture, ce qui illustre son impact durable sur la musique et la culture de son pays. 
 
 En 2010, [[Jimmy Cliff]] a été intronisé au [[Rock and Roll Hall of Fame]], consolidant ainsi sa renommée internationale au-delà des frontières du reggae.
+
+###### Archives questions
+
+Dans quel film culte de 1972, l'artiste [[Jimmy Cliff]] joue-t-il le rôle principal et interprète la chanson "The Harder They Come" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste a été introduit au [[Rock and Roll Hall of Fame]] en 2010 pour ses contributions à la musique reggae, alors qu'il est principalement connu pour son travail dans les années 1970 ? <!-- cm003 remplacée 2026-11-23 -->

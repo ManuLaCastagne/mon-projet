@@ -30,11 +30,11 @@ culture_g_justification: "Sonny & Cher permettent des questions sur la pop des a
 
 ###### Questions
 
-Quel célèbre duo formé par [[Sonny Bono]] et [[Cher]] a connu un immense succès avec le tube "[[I Got You Babe]]" en 1965 ? <!-- score: 9 -->
+Quel duo a chanté « The Beat Goes On » en 1967 ?
 
-Quel duo musical des années 1960 composé d'un couple marié a animé leur propre émission de télévision, "[[The Sonny & Cher Comedy Hour]]", débutant en 1971 ?
+Quel couple a animé sur CBS, à partir de 1971, une émission de variétés mêlant chansons et sketches ?
 
-Quel duo a vu l'un de ses membres, [[Sonny Bono]], être élu maire de [[Palm Springs]] en 1988 avant de devenir membre du [[Congrès des États-Unis]] ?
+Quel duo a vu l'un de ses membres devenir maire de [[Palm Springs]] en 1988, puis être élu au [[Congrès des États-Unis]] ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Leurs débuts ont été couronnés de succès avec la chanson "[[I Got You Babe]
 Fait étonnant, peu connu, [[Cher]] est devenue en 1974 la première artiste à décrocher un numéro un au Billboard en tant qu'artiste solo et également en duo avec [[Sonny]], une distinction rare encore aujourd'hui. 
 
 Malgré leur divorce en 1975, le couple a continué à travailler ensemble à la télévision, démontrant leur charisme dans l'émission "The [[Sonny & Cher]] Comedy Hour".
+
+###### Archives questions
+
+Quel duo musical des années 1960 composé d'un couple marié a animé leur propre émission de télévision, "[[The Sonny & Cher Comedy Hour]]", débutant en 1971 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre duo formé par [[Sonny Bono]] et [[Cher]] a connu un immense succès avec le tube "[[I Got You Babe]]" en 1965 ? <!-- score: 9 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel duo a vu l'un de ses membres, [[Sonny Bono]], être élu maire de [[Palm Springs]] en 1988 avant de devenir membre du [[Congrès des États-Unis]] ? <!-- cm003 remplacée 2026-11-23 -->

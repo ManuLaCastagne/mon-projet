@@ -32,11 +32,11 @@ culture_g_justification: "Grande ville vénézuélienne associée au lac et au p
 ![[Carte_Maracaibo.png]]
 ###### Questions
 
-Quelle ville, située à l’ouest du [[Venezuela]], est devenue célèbre pour ses violents orages, notamment le phénomène du [[Relámpago del Catatumbo]], qui produit une activité électrique intense dans le ciel?
+Au-dessus de quel lac vénézuélien se produit l'éclair du Catatumbo, des orages presque permanents ?
 
-Dans quelle ville du [[Venezuela]] peut-on trouver le plus grand lac du [[Venezuela]] et d’[[Amérique du Sud]], connu sous le nom de [[lac de Maracaibo]], une importante source de pétrole découverte en 1914?
+Quel grand lac vénézuélien a vu l'essor du pétrole après la découverte du gisement de Mene Grande en 1914 ?
 
-Quelle ville vénézuélienne a célébré en 2015 le 50ème anniversaire du [[Puente General Rafael Urdaneta]], l’un des plus longs ponts en béton du monde, qui relie la ville à la région orientale?
+Quelle ville vénézuélienne est reliée à la rive orientale de son lac par le pont General-Rafael-Urdaneta, long de 8,7 km et inauguré en 1962 ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Fondée en 1529, [[Maracaibo]] est un important centre économique, notamment gr
 [[Maracaibo]] est également connue pour le phénomène exceptionnel du "Relámpago del Catatumbo", des éclairs fréquents et intenses qui se produisent jusqu'à 260 nuits par an, entrant ainsi dans le [[Livre Guinness des records]] pour la plus grande concentration d'éclairs au monde. 
 
 Par ailleurs, le célèbre [[Pont Général Rafael Urdaneta]], inauguré en 1962, enjambe le [[Lac de Maracaibo]] sur une longueur de 8,7 kilomètres, ce qui en faisait, à l'époque de son ouverture, le plus long pont en béton du monde.
+
+###### Archives questions
+
+Dans quelle ville du [[Venezuela]] peut-on trouver le plus grand lac du [[Venezuela]] et d’[[Amérique du Sud]], connu sous le nom de [[lac de Maracaibo]], une importante source de pétrole découverte en 1914? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville, située à l’ouest du [[Venezuela]], est devenue célèbre pour ses violents orages, notamment le phénomène du [[Relámpago del Catatumbo]], qui produit une activité électrique intense dans le ciel? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville vénézuélienne a célébré en 2015 le 50ème anniversaire du [[Puente General Rafael Urdaneta]], l’un des plus longs ponts en béton du monde, qui relie la ville à la région orientale? <!-- cm003 remplacée 2026-11-23 -->

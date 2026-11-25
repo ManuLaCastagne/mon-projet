@@ -29,11 +29,11 @@ culture_g_justification: "Groupe mythique du rock psychédélique, très exploit
 
 ###### Questions
 
-Quel groupe de rock psychédélique américain a été formé en 1965 par [[Jim Morrison]] et [[Ray Manzarek]] à [[Los Angeles]] ?
+Quel groupe [[Jim Morrison]] et [[Ray Manzarek]] fondèrent-ils en 1965 à [[Los Angeles]] ?
 
-Quelle chanson du groupe [[The Doors]], sortie en 1967, a été bannie de plusieurs stations de radio pour ses paroles jugées provocantes et est devenue un hymne du mouvement contre-culturel ?
+Quel groupe doit son nom au livre « Les Portes de la perception » d'[[Aldous Huxley]] ?
 
-Quel groupe a été le premier à avoir un album posthume atteignant le numéro un des charts américains avec "[[An American Prayer]]" en 1978, sept ans après la mort de [[Jim Morrison]] ?
+Quel groupe a enregistré en 1971 l'album « L.A. Woman », le dernier avec [[Jim Morrison]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Ils sont surtout connus pour leur son psychédélique et leurs performances éle
 Un fait étonnant à propos des [[Doors]] est que leur album [[Strange Days]], sorti en 1967, est l'un des premiers à utiliser un synthétiseur [[Moog]], ce qui était extrêmement novateur pour l'époque. 
 
 En dépit d'une carrière relativement courte, [[Jim Morrison]] étant décédé en 1971, le groupe a laissé un héritage durable et continue d'influencer de nombreux musiciens à travers le monde.
+
+###### Archives questions
+
+Quelle chanson du groupe [[The Doors]], sortie en 1967, a été bannie de plusieurs stations de radio pour ses paroles jugées provocantes et est devenue un hymne du mouvement contre-culturel ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe de rock psychédélique américain a été formé en 1965 par [[Jim Morrison]] et [[Ray Manzarek]] à [[Los Angeles]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe a été le premier à avoir un album posthume atteignant le numéro un des charts américains avec "[[An American Prayer]]" en 1978, sept ans après la mort de [[Jim Morrison]] ? <!-- cm003 remplacée 2026-11-23 -->

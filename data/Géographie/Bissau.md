@@ -30,12 +30,18 @@ culture_g_justification: "Bissau est principalement interrogée comme capitale d
 ![[Carte_Bissau.png]]
 ###### Questions
 
-Quelle est la capitale de la [[Guinée-Bissau]] depuis son indépendance en 1973 ?
+Quelle capitale d'Afrique de l'Ouest, ancienne colonie portugaise, est bâtie sur l'estuaire du rio Geba ?
 
-Dans quelle ville de [[Guinée-Bissau]] se tient le carnaval le plus coloré et célèbre de tout le pays chaque année ? <!-- score: 6 -->
-
-Quel lieu a accueilli le Sommet de la [[CEEAC]] en 2009 pour discuter de la sécurité et du développement économique régional ?
+Dans quel port le massacre de Pidjiguiti frappa-t-il des dockers en grève le 3 août 1959 ?
 
 ###### Description
 
 [[Bissau]], la capitale de la [[Guinée-Bissau]], est située sur la côte ouest de l'Afrique, à l'embouchure du fleuve [[Geba]]. Fondée en 1687, elle a été développée par les Portugais et est devenue le centre administratif de la colonie. En 1974, lors de l'indépendance de la [[Guinée-Bissau]], [[Bissau]] a été choisie pour être la capitale du pays nouvellement indépendant. Avec environ 500 000 habitants, la ville abrite plusieurs institutions culturelles et éducatives, dont l'Université [[Colinas de Boé]].
+
+###### Archives questions
+
+Quelle est la capitale de la [[Guinée-Bissau]] depuis son indépendance en 1973 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville de [[Guinée-Bissau]] se tient le carnaval le plus coloré et célèbre de tout le pays chaque année ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu a accueilli le Sommet de la [[CEEAC]] en 2009 pour discuter de la sécurité et du développement économique régional ? <!-- cm003 archivée 2026-11-23 -->

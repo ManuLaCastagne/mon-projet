@@ -29,11 +29,11 @@ culture_g_justification: "Jazzwoman reconnue internationalement, mais dont les q
 
 ###### Questions
 
-Dans quelle ville canadienne est née la chanteuse et pianiste de jazz [[Diana Krall]] en 1964 ?
+Quelle pianiste de jazz est née en 1964 à Nanaimo, en [[Colombie-Britannique]] ?
 
-Quel album de [[Diana Krall]], sorti en 2001, a atteint la première place du classement Billboard en catégorie jazz contemporain ?
+Quelle pianiste canadienne a sorti en 2001 l'album « The Look of Love », arrangé par [[Claus Ogerman]] ?
 
-En 2012, [[Diana Krall]] a produit l'album "Kisses on the Bottom" pour quel célèbre musicien des [[Beatles]] ?
+Quelle pianiste a accompagné [[Paul McCartney]] sur l'album « Kisses on the Bottom » en 2012 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Née en 1964 à Nanaimo, en Colombie-Britannique, elle a commencé à jouer du p
 Un fait étonnant est que [[Diana Krall]] est la seule chanteuse de jazz à avoir réussi l'exploit d'avoir huit albums classés en tête des meilleures ventes de jazz dans le Billboard américain, un record remarquable qui témoigne de son succès commercial et de son talent. 
 
 En 2003, elle a épousé [[Elvis Costello]], un autre musicien de renom, consolidant ainsi l'union de deux grandes figures de la musique contemporaine.
+
+###### Archives questions
+
+Dans quelle ville canadienne est née la chanteuse et pianiste de jazz [[Diana Krall]] en 1964 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album de [[Diana Krall]], sorti en 2001, a atteint la première place du classement Billboard en catégorie jazz contemporain ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2012, [[Diana Krall]] a produit l'album "Kisses on the Bottom" pour quel célèbre musicien des [[Beatles]] ? <!-- cm003 remplacée 2026-11-23 -->

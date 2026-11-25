@@ -29,11 +29,11 @@ culture_g_justification: "Star internationale à la fois chanteuse, actrice et p
 
 ###### Questions
 
-Quel titre de [[Jennifer Lopez]] sorti en 2002 est devenu l'un des premiers succès internationaux de sa carrière musicale ?
+Quelle chanteuse a sorti en 2002 « Jenny from the Block » ?
 
-Dans quel film de 2001, [[Jennifer Lopez]] a-t-elle interprété plusieurs chansons de sa bande originale, contribuant ainsi à la popularité de celle-ci ?
+Quelle actrice a incarné la chanteuse tejana [[Selena Quintanilla]] dans le film « Selena » en 1997 ?
 
-Quelle collaboration de [[Jennifer Lopez]], sortie en 1999, a marqué ses débuts réussis dans l'industrie musicale avec une fusion de pop et de R&B ?
+Quelle chanteuse a lancé sa carrière musicale en 1999 avec l'album « On the 6 » et le single « If You Had My Love » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 2001, elle devient la première femme à avoir simultanément le film numéro
 Moins connu du grand public, [[Jennifer Lopez]] a également enregistré un titre en espagnol, "Qué Hiciste", qui est devenu un succès énorme en 2007, atteignant la première place des charts en Espagne.
 
 En plus de son succès musical, elle a fondé sa propre maison de production, [[Nuyorican Productions]], diversifiant ainsi ses contributions à l'industrie du divertissement.
+
+###### Archives questions
+
+Quel titre de [[Jennifer Lopez]] sorti en 2002 est devenu l'un des premiers succès internationaux de sa carrière musicale ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 2001, [[Jennifer Lopez]] a-t-elle interprété plusieurs chansons de sa bande originale, contribuant ainsi à la popularité de celle-ci ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle collaboration de [[Jennifer Lopez]], sortie en 1999, a marqué ses débuts réussis dans l'industrie musicale avec une fusion de pop et de R&B ? <!-- cm003 remplacée 2026-11-23 -->

@@ -32,11 +32,11 @@ culture_g_justification: "Trois-Rivières est une ville québécoise historique,
 ![[Carte_Trois-Rivières.png]]
 ###### Questions
 
-En quelle année l'université de [[Trois-Rivières]], connue sous le nom d'[[Université du Québec à Trois-Rivières]], a-t-elle été fondée, devenant l'une des premières à rejoindre le réseau de l'[[Université du Québec]] ?
+Dans quelle ville de la [[Mauricie]] l'Université du Québec a-t-elle ouvert en 1969 l'une de ses premières constituantes ?
 
 Quelle ville québécoise, fondée en 1634, est la deuxième plus ancienne ville francophone d'Amérique du Nord après [[Québec]] ?
 
-Dans quelle ville de la province du [[Québec]] peut-on visiter le [[Musée québécois de culture populaire]] et découvrir l'histoire unique de sa fameuse [[Société des courses de canots]], bien connue pour ses courses de canots à glace ?
+Dans quelle ville du Québec le musée POP, consacré à la culture populaire, comprend-il une ancienne prison ouverte aux visiteurs ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Fondée en 1634, elle est l’une des plus anciennes villes du Canada, se distin
 Un fait étonnant est que Trois-Rivières a été le site du premier pont de rivière d'une structure entièrement bétonnée en [[Amérique du Nord]], le pont du [[Trois-Rivières]], ouvert en 1908. 
 
 Deux fois détruite par des incendies dévastateurs, en 1650 puis en 1908, la ville témoigne de la résilience de ses habitants dans la reconstruction de leur ville à travers les siècles.
+
+###### Archives questions
+
+En quelle année l'université de [[Trois-Rivières]], connue sous le nom d'[[Université du Québec à Trois-Rivières]], a-t-elle été fondée, devenant l'une des premières à rejoindre le réseau de l'[[Université du Québec]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville de la province du [[Québec]] peut-on visiter le [[Musée québécois de culture populaire]] et découvrir l'histoire unique de sa fameuse [[Société des courses de canots]], bien connue pour ses courses de canots à glace ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Chanson devenue classique international grâce à Ritc
 
 ###### Questions
 
-Quelle chanson d'origine mexicaine a été popularisée par [[Ritchie Valens]] en 1958, mêlant des éléments de rock and roll et de musique traditionnelle mexicaine ?
+Quelle chanson traditionnelle de Veracruz [[Ritchie Valens]] a-t-il transformée en succès rock en 1958 ?
 
-Quel morceau emblématique a été interprété par [[Los Lobos]] pour la bande originale du film [[La Bamba]] en 1987, atteignant la première place du [[Billboard Hot 100]] ?
+Quelle chanson reprise par [[Los Lobos]] fut numéro un du [[Billboard Hot 100]] en 1987 ?
 
-Quelle chanson se distingue par sa structure unique où ses paroles sont principalement en espagnol, malgré son succès dans les charts anglophones dans les années 1950 et 1980 ?
+Quelle chanson entièrement en espagnol figurait en face B de « Donna », de [[Ritchie Valens]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Son interprétation a fait de [[Ritchie Valens]], alors âgé de 17 ans, l'un de
 Un fait étonnant est que "La Bamba" a été l'une des premières chansons en espagnol à devenir un hit aux États-Unis, atteignant la 22ème place du classement [[Billboard]] en 1959. 
 
 En 1987, le groupe [[Los Lobos]] a enregistré une nouvelle version pour le film éponyme, qui a atteint la première place du classement [[Billboard Hot 100]], un exploit notable pour une chanson principalement en espagnol à l'époque.
+
+###### Archives questions
+
+Quel morceau emblématique a été interprété par [[Los Lobos]] pour la bande originale du film [[La Bamba]] en 1987, atteignant la première place du [[Billboard Hot 100]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanson d'origine mexicaine a été popularisée par [[Ritchie Valens]] en 1958, mêlant des éléments de rock and roll et de musique traditionnelle mexicaine ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanson se distingue par sa structure unique où ses paroles sont principalement en espagnol, malgré son succès dans les charts anglophones dans les années 1950 et 1980 ? <!-- cm003 remplacée 2026-11-23 -->

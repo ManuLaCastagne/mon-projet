@@ -32,11 +32,9 @@ culture_g_justification: "Préfecture française surtout connue grâce à la cha
 ![[Carte_Vesoul.png]]
 ###### Questions
 
-Dans quelle chanson de [[Jacques Brel]], sortie en 1968, la ville de [[Vesoul]] est-elle mentionnée ?
+Quelle préfecture française donne son titre à une chanson de [[Jacques Brel]] sortie en 1968 ?
 
-Quelle commune française, préfecture du département de la [[Haute-Saône]], est connue pour son festival international de [[cinéma asiatique]], inauguré en 1995 ?
-
-Quelle ville de [[Bourgogne-Franche-Comté]] est célèbre pour son [[balnéaire]] qui remonte à l'époque [[romaine]] grâce à la source du [[Pontarcher]] ?
+Quelle préfecture de la [[Haute-Saône]] accueille depuis 1995 un festival international des cinémas d'Asie ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Cette petite ville se trouve à proximité du massif des [[Vosges]] et est répu
 Un fait surprenant est que Vesoul abrite le [[Ludolac]], l'un des plus grands parcs aquatiques de la région, qui a été inauguré en 1998 et accueille chaque été plusieurs milliers de visiteurs. 
 
 De plus, la ville est associée à la célèbre chanson "Vesoul" de [[Jacques Brel]], sortie en 1968, qui a contribué à accroître sa notoriété à l'international.
+
+###### Archives questions
+
+Dans quelle chanson de [[Jacques Brel]], sortie en 1968, la ville de [[Vesoul]] est-elle mentionnée ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville de [[Bourgogne-Franche-Comté]] est célèbre pour son [[balnéaire]] qui remonte à l'époque [[romaine]] grâce à la source du [[Pontarcher]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle commune française, préfecture du département de la [[Haute-Saône]], est connue pour son festival international de [[cinéma asiatique]], inauguré en 1995 ? <!-- cm003 remplacée 2026-11-23 -->

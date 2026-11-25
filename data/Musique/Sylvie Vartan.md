@@ -29,11 +29,11 @@ culture_g_justification: "Grande figure du yé-yé et de la chanson française, 
 
 ###### Questions
 
-Dans quelle chanson sortie en 1968, [[Sylvie Vartan]] collabore avec le parolier [[Serge Gainsbourg]] pour un titre qui mélange habilement [[pop française]] et [[yé-yé]] ?
+Quelle chanteuse a épousé [[Johnny Hallyday]] en 1965 ?
 
-Quel est le nom du programme télévisé diffusé en 1965 où [[Sylvie Vartan]] a fait une apparition historique, interprétant son célèbre morceau "Le Temps de l'Amour" lors de son lancement ?
+Quelle chanteuse d'origine bulgare a chanté « La Maritza » en 1968 ?
 
-En quelle année [[Sylvie Vartan]] a-t-elle été la première artiste féminine à établir un record en remplissant le [[Palais des Congrès de Paris]] pour une série continue de concerts, marquant ainsi son impact sur la scène musicale française ?
+Quelle chanteuse a interprété « Comme un garçon » en 1967 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a connu un succès fulgurant en France avec son premier grand hit, "La plus
 En plus de ses talents de chanteuse, Sylvie a également brillé au cinéma, apparaissant dans plusieurs films en duo avec son époux de l'époque, [[Johnny Hallyday]] avec qui elle a eu [[David Hallyday]].
 
 Fait étonnant : elle est l'une des rares artistes à avoir fait la couverture du célèbre magazine américain [[Newsweek]] en 1968, une reconnaissance qui illustre son immense popularité à l'échelle mondiale à une époque où peu d'artistes français atteignaient une telle renommée hors de l'Hexagone.
+
+###### Archives questions
+
+Dans quelle chanson sortie en 1968, [[Sylvie Vartan]] collabore avec le parolier [[Serge Gainsbourg]] pour un titre qui mélange habilement [[pop française]] et [[yé-yé]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du programme télévisé diffusé en 1965 où [[Sylvie Vartan]] a fait une apparition historique, interprétant son célèbre morceau "Le Temps de l'Amour" lors de son lancement ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Sylvie Vartan]] a-t-elle été la première artiste féminine à établir un record en remplissant le [[Palais des Congrès de Paris]] pour une série continue de concerts, marquant ainsi son impact sur la scène musicale française ? <!-- cm003 remplacée 2026-11-23 -->

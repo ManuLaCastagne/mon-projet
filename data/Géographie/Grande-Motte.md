@@ -32,11 +32,11 @@ culture_g_justification: "Station balnéaire française reconnaissable par son a
 ![[Carte_Grande-Motte.png]]
 ###### Questions
 
-Dans quelle ville maritime française, créée officiellement en 1967, peut-on admirer une architecture pyramidale emblématique conçue par [[Jean Balladur]] ?
+Quelle station balnéaire de l'[[Hérault]] doit ses immeubles en forme de pyramides à l'architecte [[Jean Balladur]] ?
 
-Quel célèbre site classé [[Patrimoine du XXe siècle]], principalement développé pour désengorger les sites touristiques de la côte d'[[Azur]], est situé dans le département de l'[[Hérault]] ? <!-- score: 4 -->
+Quelle ville nouvelle du littoral languedocien a reçu le label « Patrimoine du XXe siècle » pour l'ensemble de son urbanisme ?
 
-Quel projet d'aménagement touristique lancé par le général [[Charles de Gaulle]] en 1963 a abouti à la création d'une station balnéaire moderne connue sous le nom de [[Grande-Motte]] ?
+Quelle station de la mission Racine a été érigée en commune en 1974, par détachement du territoire de [[Mauguio]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Conçue par l'architecte [[Jean Balladur]], elle a été inaugurée officielleme
 Un fait étonnant à propos de [[La Grande-Motte]] est qu'elle a été l'une des premières villes françaises à être entièrement conçue pour mettre en avant le piéton avec un réseau piétonnier de plus de 20 km, un record à l'époque de sa construction. 
 
 Cette station balnéaire a également été labellisée "[[Patrimoine du XXème siècle]]" par le [[Ministère de la Culture]] en 2010, signe de son importance architecturale et urbanistique.
+
+###### Archives questions
+
+Quel projet d'aménagement touristique lancé par le général [[Charles de Gaulle]] en 1963 a abouti à la création d'une station balnéaire moderne connue sous le nom de [[Grande-Motte]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville maritime française, créée officiellement en 1967, peut-on admirer une architecture pyramidale emblématique conçue par [[Jean Balladur]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre site classé [[Patrimoine du XXe siècle]], principalement développé pour désengorger les sites touristiques de la côte d'[[Azur]], est situé dans le département de l'[[Hérault]] ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

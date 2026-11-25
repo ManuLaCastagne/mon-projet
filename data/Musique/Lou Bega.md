@@ -29,11 +29,11 @@ culture_g_justification: "Artiste associé à un tube mondial immédiatement ide
 
 ###### Questions
 
-En quelle année la chanson « [[Mambo No. 5]] » interprétée par [[Lou Bega]] est-elle sortie et a atteint la première place des charts dans de nombreux pays ? 
+Quel chanteur allemand a été numéro un dans de nombreux pays en 1999 avec sa reprise de « [[Mambo No. 5]] » ?
 
-Quel artiste d'origine allemande a popularisé un remix de la chanson instrumentale « [[Mambo No. 5]] » originellement créée par [[Pérez Prado]] en 1949 ?
+Quel chanteur a ajouté en 1999 des paroles à « Mambo No. 5 », instrumental de [[Pérez Prado]] datant de 1949 ?
 
-Quel musicien est devenu célèbre en 1999 pour avoir introduit une liste de prénoms féminins dans son tube mondial ? <!-- score: 4 -->
+Quel chanteur égrène dans un tube de 1999 les prénoms Monica, Erica, Rita, Tina, Sandra, Mary et Jessica ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Ce morceau, qui sample une piste instrumentale de [[Pérez Prado]] datant de 194
 Un fait étonnant est que l'album qui contient "Mambo No. 5", intitulé "A Little Bit of Mambo", a atteint la troisième place du prestigieux classement [[Billboard 200]] aux États-Unis, faisant de [[Lou Bega]] l’un des rares artistes allemands à y parvenir.
 
 En outre, saviez-vous que [[Lou Bega]] a également prêté sa voix pour un personnage de la série d'animation " [[Stuart Little 2]] " sortie en 2002 ?
+
+###### Archives questions
+
+En quelle année la chanson « [[Mambo No. 5]] » interprétée par [[Lou Bega]] est-elle sortie et a atteint la première place des charts dans de nombreux pays ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste d'origine allemande a popularisé un remix de la chanson instrumentale « [[Mambo No. 5]] » originellement créée par [[Pérez Prado]] en 1949 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien est devenu célèbre en 1999 pour avoir introduit une liste de prénoms féminins dans son tube mondial ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

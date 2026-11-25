@@ -32,11 +32,7 @@ culture_g_justification: "Saint-Amour-Bellevue est un village viticole très sp�
 ![[Carte_Saint-Amour-Bellevue.png]]
 ###### Questions
 
-Quelle commune française est le seul [[village]] de [[Bourgogne]] à faire partie de l'appellation viticole [[Saint-Amour]], l'un des dix [[crus]] du [[Beaujolais]] ?
-
-Dans quelle commune de France, située dans le département de [[Saône-et-Loire]], peut-on célébrer [[Saint-Amour-Bellevue]] en tant que destination prisée des amateurs de [[vin]] ?
-
-Quel est le nom de la commune française, devenue officiellement [[Saint-Amour-Bellevue]] après un décret de 1971, connue pour ses paysages vallonnés et ses vignes ?
+Quelle commune de [[Saône-et-Loire]] produit le seul cru du [[Beaujolais]] situé entièrement dans ce département ?
 
 ###### Description
 
@@ -47,3 +43,11 @@ Bien qu'il ne compte qu'environ 500 habitants, [[Saint-Amour-Bellevue]] est cél
 Dans les alentours, on trouve le pittoresque [[Mont de Brouilly]], offrant des vues panoramiques sur les collines environnantes qui sont parfaites pour les randonnées. 
 
 Fait étonnant à savoir : [[Saint-Amour-Bellevue]] est le seul village en France où l'on peut encore observer la danse traditionnelle "La Charité", qui date de 1820 et qui est toujours exécutée durant la fête locale en juillet, ce qui en fait un héritage culturel unique dans l'hexagone.
+
+###### Archives questions
+
+Dans quelle commune de France, située dans le département de [[Saône-et-Loire]], peut-on célébrer [[Saint-Amour-Bellevue]] en tant que destination prisée des amateurs de [[vin]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel est le nom de la commune française, devenue officiellement [[Saint-Amour-Bellevue]] après un décret de 1971, connue pour ses paysages vallonnés et ses vignes ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle commune française est le seul [[village]] de [[Bourgogne]] à faire partie de l'appellation viticole [[Saint-Amour]], l'un des dix [[crus]] du [[Beaujolais]] ? <!-- cm003 remplacée 2026-11-23 -->

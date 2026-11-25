@@ -30,9 +30,9 @@ culture_g_justification: "Ballet extrêmement célèbre de Tchaïkovski, central
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6XqqUnXqymdwKHGyFvVRrV" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ###### Questions
 
-Quel ballet de [[Piotr Ilitch Tchaïkovski]], composé en 1892, est basé sur le conte de [[E.T.A. Hoffmann]] intitulé « [[Casse-Noisette et le Roi des souris]] » ?
+Quel ballet de [[Piotr Ilitch Tchaïkovski]] est tiré d'un conte d'[[E.T.A. Hoffmann]] adapté par [[Alexandre Dumas]] ?
 
-Quel spectacle traditionnellement joué pendant la période des fêtes de fin d'année, met en scène des jouets qui s'animent et un combat contre le roi des souris, et dont la musique a été composée par [[Piotr Ilitch Tchaïkovski]] ?
+Quel ballet fait entendre la « Danse de la fée Dragée », jouée au célesta ?
 
 Quel ballet a été chorégraphié pour la première fois par [[Lev Ivanov]] et a connu sa première représentation au [[Théâtre Mariinsky]] de [[Saint-Pétersbourg]] le 18 décembre 1892 ?
 
@@ -45,3 +45,9 @@ L'œuvre est basée sur l'adaptation par [[Alexandre Dumas]] du conte "Casse-Noi
 Un fait étonnant à propos de [[Casse-Noisette]] est que la danse de la fée Dragée, une pièce centrale du ballet, n'a été réhabilitée que bien après sa création, car la Musique de l'époque était jugée trop innovante et complexe. 
 
 Saviez-vous que lors de sa représentation initiale à [[Saint-Pétersbourg]], le ballet n'a obtenu qu'un succès mitigé et n'a véritablement gagné en popularité que plusieurs décennies plus tard ?
+
+###### Archives questions
+
+Quel ballet de [[Piotr Ilitch Tchaïkovski]], composé en 1892, est basé sur le conte de [[E.T.A. Hoffmann]] intitulé « [[Casse-Noisette et le Roi des souris]] » ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel spectacle traditionnellement joué pendant la période des fêtes de fin d'année, met en scène des jouets qui s'animent et un combat contre le roi des souris, et dont la musique a été composée par [[Piotr Ilitch Tchaïkovski]] ? <!-- cm003 remplacée 2026-11-23 -->

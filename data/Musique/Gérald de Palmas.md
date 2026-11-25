@@ -29,11 +29,9 @@ culture_g_justification: "Chanteur français associé à plusieurs tubes et réc
 
 ###### Questions
 
-Quelle chanson de [[Gérald de Palmas]] a remporté le [[Victoires de la musique]] pour la catégorie Chanson de l'année en 2002 ?
+Quel chanteur né à [[La Réunion]] a connu son premier succès en 1994 avec « Sur la route » ?
 
-Quel artiste français a composé pour [[Johnny Hallyday]] la chanson ''[[Marie]]'' en 2002 ?
-
-Quel chanteur a vu son album ''[[Marcher dans le sable]]'' certifié [[disque de diamant]] en 1999 ?
+Quel chanteur a écrit pour [[Johnny Hallyday]] la chanson « Marie » en 2002 ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Il se fait remarquer en 1994 avec son premier album "[[La Dernière Année]]," q
 Un fait étonnant à propos de [[Gérald de Palmas]] est qu'il a coécrit pour [[Johnny Hallyday]] la chanson "[[Marie]]" en 2002, qui s'est vendue à plus de 1,8 million d'exemplaires, devenant ainsi l'un des singles les plus vendus en France. 
 
 En 2002, il reçoit également le prix de l'Album de l'année pour "[[Marcher dans le sable]]," confirmant son statut d'artiste majeur de la scène musicale française.
+
+###### Archives questions
+
+Quelle chanson de [[Gérald de Palmas]] a remporté le [[Victoires de la musique]] pour la catégorie Chanson de l'année en 2002 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste français a composé pour [[Johnny Hallyday]] la chanson ''[[Marie]]'' en 2002 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur a vu son album ''[[Marcher dans le sable]]'' certifié [[disque de diamant]] en 1999 ? <!-- cm003 archivée 2026-11-23 -->

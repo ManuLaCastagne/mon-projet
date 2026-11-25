@@ -29,9 +29,9 @@ culture_g_justification: "Artiste populaire de la chanson française contemporai
 
 ###### Questions
 
-Dans quelle émission de télé-réalité musicale diffusée en 2007 a-t-on découvert [[Julien Doré]], qui allait ensuite remporter la saison ? 
+Quel chanteur a remporté la Nouvelle Star sur [[M6]] en 2007 ?
 
-Quel artiste a été élu "[[Artiste masculin de l'année]]" lors des [[Victoires de la musique]] en 2015 grâce à son album "[[Løve]]" ? 
+Quel chanteur a été sacré artiste masculin aux [[Victoires de la musique]] en 2015, avec l'album « Løve » ?
 
 Quel chanteur a commencé sa carrière musicale en tant que leader du groupe de rock décalé [[Dig Up Elvis]] avant de se lancer en solo ?
 
@@ -44,3 +44,9 @@ Avec son style unique mêlant pop, rock et variété française, il a sorti plus
 Un fait étonnant le concernant est qu'en 2017, Julien Doré a établi un record en étant le premier artiste masculin à remporter deux fois le prix de l'Artiste interprète masculin aux [[Victoires de la Musique]], après l'avoir déjà gagné en 2015. 
 
 Passionné par les arts visuels, [[Julien Doré]] est également diplômé des [[Beaux-Arts de Nîmes]], où il a obtenu son diplôme en 2002, avant de se lancer pleinement dans la musique.
+
+###### Archives questions
+
+Dans quelle émission de télé-réalité musicale diffusée en 2007 a-t-on découvert [[Julien Doré]], qui allait ensuite remporter la saison ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste a été élu "[[Artiste masculin de l'année]]" lors des [[Victoires de la musique]] en 2015 grâce à son album "[[Løve]]" ? <!-- cm003 remplacée 2026-11-23 -->

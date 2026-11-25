@@ -29,11 +29,11 @@ culture_g_justification: "Groupe britannique très identifiable, associé au roc
 
 ###### Questions
 
-Quel [[groupe britannique]] a interprété la chanson « [[Survival]] », choisie comme hymne officiel des [[Jeux Olympiques de Londres 2012]] ?
+Quel trio britannique a écrit « Survival », chanson officielle des Jeux olympiques de Londres en 2012 ?
 
-Quel album du groupe [[Muse (groupe)]] a été le premier à atteindre la première place au [[Billboard 200]] aux [[États-Unis]] en 2010 ?
+Quelle formation britannique a obtenu en 2015 son premier numéro un aux États-Unis avec l'album « Drones » ?
 
-Quel trio composé de [[Matthew Bellamy]], [[Chris Wolstenholme]] et [[Dominic Howard]] a été formé en [[Teignmouth]], [[Royaume-Uni]], en 1994 ?
+Quel trio de [[Matthew Bellamy]], [[Chris Wolstenholme]] et [[Dominic Howard]] s'est formé à [[Teignmouth]], dans le Devon, en 1994 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 2007, leur concert au [[Wembley Stadium]] a attiré plus de 180 000 personnes
 Fait étonnant, le groupe détient le record du plus grand nombre d'[[]]Awards reçus aux [[MTV Europe Music Awards]] avec un total de 9 trophées, un exploit rarement égalé dans l'histoire de cet événement. 
 
 Leur septième album, [[Drones]], sorti en 2015, a été le premier album du groupe à atteindre la première position du classement américain [[Billboard 200]], marquant un tournant significatif dans leur carrière musicale.
+
+###### Archives questions
+
+Quel album du groupe [[Muse (groupe)]] a été le premier à atteindre la première place au [[Billboard 200]] aux [[États-Unis]] en 2010 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel [[groupe britannique]] a interprété la chanson « [[Survival]] », choisie comme hymne officiel des [[Jeux Olympiques de Londres 2012]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel trio composé de [[Matthew Bellamy]], [[Chris Wolstenholme]] et [[Dominic Howard]] a été formé en [[Teignmouth]], [[Royaume-Uni]], en 1994 ? <!-- cm003 remplacée 2026-11-23 -->

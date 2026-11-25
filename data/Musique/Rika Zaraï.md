@@ -29,11 +29,9 @@ culture_g_justification: "Figure connue de la chanson française ancienne, surto
 
 ###### Questions
 
-Dans quelle interprétation de 1969, l'artiste israélienne a-t-elle popularisé le titre "Casatchok" qui est une danse russe ?
+Quelle chanteuse israélienne a fait danser la France en 1969 avec « Casatchok » ?
 
-Quel célèbre remède de grand-mère à base de plantes a été promu par [[Rika Zaraï]] dans son livre de 1985 intitulé "Ma médecine naturelle" ?
-
-Dans quelle émission télévisée française de 2008 [[Rika Zaraï]] a-t-elle participé en tant que jury pour célébrer ses 50 ans de carrière musicale ?
+Quelle chanteuse a publié en 1985 « Ma médecine naturelle », best-seller qui vantait les bains de siège ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ En 1969, elle obtient un succès fulgurant en France grâce à la chanson "Casat
 Peu de gens savent que [[Rika Zaraï]] a également écrit plusieurs ouvrages sur la médecine naturelle, vendus à des millions d'exemplaires, ce qui a renforcé sa notoriété au-delà de la sphère musicale. 
 
 Elle a interprété des chansons dans plusieurs langues, ce qui témoigne de sa polyvalence et de son profond désir de toucher un public international.
+
+###### Archives questions
+
+Quel célèbre remède de grand-mère à base de plantes a été promu par [[Rika Zaraï]] dans son livre de 1985 intitulé "Ma médecine naturelle" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle émission télévisée française de 2008 [[Rika Zaraï]] a-t-elle participé en tant que jury pour célébrer ses 50 ans de carrière musicale ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quelle interprétation de 1969, l'artiste israélienne a-t-elle popularisé le titre "Casatchok" qui est une danse russe ? <!-- cm003 remplacée 2026-11-23 -->

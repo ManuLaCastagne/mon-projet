@@ -21,19 +21,22 @@ indice_5 :
 indice_6 : 
   - The Voice
 questions:
- - En 1997, quelle chanteuse d'origine belge, qui a eu 50 ans l'année dernière, a été révélée en France grâce au tube "Je t'aime (Lara Fabian)"?
 culture_g_score: 60
 culture_g_justification: "Artiste francophone très populaire, utile pour l’Eurovision, la variété et quelques succès internationaux, sans portée historique majeure."
+questions_tv_archivees:
+  - En 1997, quelle chanteuse d'origine belge, qui a eu 50 ans l'année dernière, a été révélée en France grâce au tube "Je t'aime (Lara Fabian)"?
 ---
 ![Image de Lara Fabian](https://upload.wikimedia.org/wikipedia/commons/9/95/Lara_Fabian.png)
 
 ###### Questions
 
-Quel titre de la bande originale du film [[Final Fantasy: Les Créatures de l'esprit]] a été interprété par [[Lara Fabian]] en 2001 ?
+Quelle chanteuse interprète « The Dream Within », chanson du film « Final Fantasy : Les Créatures de l'esprit » en 2001 ?
 
-Quel est le nom de l'album de [[Lara Fabian]] sorti en 1999, qui l’a propulsée sur la scène internationale avec des titres comme "Adagio" et "I Will Love Again" ?
+Quelle chanteuse a publié en 1999 son premier album en anglais, avec « Adagio » et « I Will Love Again » ?
 
 Quelle artiste a représenté le [[Luxembourg]] à l'[[Eurovision]] en 1988 avec la chanson "Croire" ?
+
+En 1997, quelle chanteuse d'origine belge a été révélée en France grâce au tube « Je t'aime » ? <!-- source: tv -->
 
 ###### Description
 
@@ -44,3 +47,9 @@ Elle a connu un immense succès international dans les années 1990 avec sa chan
 Un fait étonnant concernant [[Lara Fabian]] est qu'elle détient le record du single le plus vendu en [[Belgique]] avec "Je suis malade", une reprise du titre de [[Serge Lama]], ce qui est un exploit exceptionnel pour un artiste francophone. 
 
 En 2004, elle a été nommée Officier de l'Ordre de la [[Couronne belge]], soulignant son influence et sa contribution à la culture musicale.
+
+###### Archives questions
+
+Quel titre de la bande originale du film [[Final Fantasy: Les Créatures de l'esprit]] a été interprété par [[Lara Fabian]] en 2001 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de l'album de [[Lara Fabian]] sorti en 1999, qui l’a propulsée sur la scène internationale avec des titres comme "Adagio" et "I Will Love Again" ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,12 +29,16 @@ culture_g_justification: "Artiste français polyvalent connu surtout pour l’hu
 
 ###### Questions
 
-Dans quelle adaptation de [[Broadway]] en langue française de 2006 [[Michel Leeb]] a-t-il joué le rôle principal ?  
+Quel humoriste français est né en 1947 à [[Cologne]] ?
   
-Quel célèbre humoriste et chanteur français a sorti en 1993 un album de jazz intitulé "[[Repères]]" ?  
-  
-En quelle année [[Michel Leeb]] a-t-il interprété le rôle de [[Thomas]] dans la comédie musicale "[[La Cage aux Folles]]" au [[Théâtre de la Porte Saint-Martin]] à [[Paris]] ?
-
 ###### Description
 
 [[Michel Leeb]] est un artiste polyvalent né en 1957, connu pour sa carrière d'humoriste, d'acteur et de chanteur en France. Pendant les années 1980, [[Michel Leeb]] a acquis une popularité incroyable en animant de nombreuses émissions de télévision et en se produisant sur scène avec des spectacles qui mêlaient humour et musique. Peu de gens savent que [[Michel Leeb]] a sorti un album en 2009 intitulé "Recollection", qui montre sa passion pour le jazz, en hommage à ses idoles comme [[Frank Sinatra]] et [[Nat King Cole]]. Un fait étonnant est que [[Michel Leeb]] a été le premier humoriste français à remplir l'Olympia de [[Paris]] pendant neuf soirées consécutives en 1989, établissant ainsi un record à son époque.
+
+###### Archives questions
+
+Dans quelle adaptation de [[Broadway]] en langue française de 2006 [[Michel Leeb]] a-t-il joué le rôle principal ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Michel Leeb]] a-t-il interprété le rôle de [[Thomas]] dans la comédie musicale "[[La Cage aux Folles]]" au [[Théâtre de la Porte Saint-Martin]] à [[Paris]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel célèbre humoriste et chanteur français a sorti en 1993 un album de jazz intitulé "[[Repères]]" ? <!-- cm003 archivée 2026-11-23 -->

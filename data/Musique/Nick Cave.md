@@ -29,11 +29,11 @@ culture_g_justification: "Figure importante du rock indépendant et du post-punk
 
 ###### Questions
 
-Dans quel groupe de post-punk formé en [[Australie]] en 1982 a débuté [[Nick Cave]] ? 
+Quel chanteur australien a mené le groupe post-punk [[The Birthday Party]] avant de former les Bad Seeds ?
 
-Quel artiste a sorti l'album solo iconique "[[The Boatman's Call]]" en 1997 ?
+Quel chanteur a enregistré en 1995 le duo « Where the Wild Roses Grow » avec [[Kylie Minogue]] ?
 
-Pour quel film d'[[Andrew Dominik]], sorti en 2007, [[Nick Cave]] a-t-il composé la bande originale ?
+Quel chanteur a composé avec [[Warren Ellis (musicien)|Warren Ellis]] la musique de « L'Assassinat de Jesse James par le lâche Robert Ford » en 2007 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Dès 1973, il fonde le groupe [[The Birthday Party]], qui est devenu l'un des pi
 En 1984, Nick Cave a formé le groupe [[Nick Cave and the Bad Seeds]], qui est aujourd'hui l'un des groupes les plus durables et influents de la musique rock, avec plus de dix-sept albums studio à leur actif. 
 
 Fait étonnant : en 1996, Nick Cave a demandé à être retiré de la liste des nominations des [[MTV Video Music Awards]], arguant qu'il ne souhaitait pas que son travail soit soumis à une compétition.
+
+###### Archives questions
+
+Dans quel groupe de post-punk formé en [[Australie]] en 1982 a débuté [[Nick Cave]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Pour quel film d'[[Andrew Dominik]], sorti en 2007, [[Nick Cave]] a-t-il composé la bande originale ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste a sorti l'album solo iconique "[[The Boatman's Call]]" en 1997 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,12 +29,20 @@ culture_g_justification: "DJ important de la musique électronique, identifiable
 
 ###### Questions
 
-Quel célèbre DJ, connu sous le nom de scène [[Fatboy Slim]], a remporté le prix du meilleur vidéoclip lors des [[MTV Video Music Awards]] en 1999 pour "Praise You" ?
+Quel DJ a vu le clip de « Praise You », tourné par [[Spike Jonze]] devant un cinéma, primé aux [[MTV Video Music Awards]] en 1999 ?
 
-En 1998, quel artiste [[Fatboy Slim]], dont le vrai nom est [[Norman Cook]], a sorti l'album à succès "[[You've Come a Long Way, Baby]]" incluant des hits comme "The Rockafeller Skank" ?
+Quel DJ a sorti en 1998 l'album « You've Come a Long Way, Baby », avec « The Rockafeller Skank » ?
 
-Quel musicien, ancien membre du groupe [[The Housemartins]], a connu un immense succès avec le nom de scène [[Fatboy Slim]] grâce à son style de musique [[big beat]] ?
+Quel DJ, de son vrai nom [[Norman Cook]], fut le bassiste des [[The Housemartins|Housemartins]] ?
 
 ###### Description
 
 [[Fatboy Slim]], de son vrai nom [[Norman Cook]], est un DJ et producteur anglais né en 1963. Après avoir fait ses débuts avec le groupe [[The Housemartins]] dans les années 1980, il s'est véritablement fait connaître avec son alter ego [[Fatboy Slim]] en 1996. Un fait étonnant à propos de Fatboy Slim est qu'il a réussi à battre le record du monde Guinness pour le plus grand public pour un spectacle sur une plage, attirant plus de 250 000 personnes à [[Brighton Beach]] en 2002. En 1999, il a atteint le sommet des charts britanniques avec son hit "[[Praise You]]".
+
+###### Archives questions
+
+Quel célèbre DJ, connu sous le nom de scène [[Fatboy Slim]], a remporté le prix du meilleur vidéoclip lors des [[MTV Video Music Awards]] en 1999 pour "Praise You" ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1998, quel artiste [[Fatboy Slim]], dont le vrai nom est [[Norman Cook]], a sorti l'album à succès "[[You've Come a Long Way, Baby]]" incluant des hits comme "The Rockafeller Skank" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien, ancien membre du groupe [[The Housemartins]], a connu un immense succès avec le nom de scène [[Fatboy Slim]] grâce à son style de musique [[big beat]] ? <!-- cm003 remplacée 2026-11-23 -->

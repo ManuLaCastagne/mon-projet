@@ -32,11 +32,9 @@ culture_g_justification: "Île bretonne de notoriété limitée, susceptible d�
 ![[Carte_Île aux Moines.png]]
 ###### Questions
 
-Quel village breton, situé sur [[Île aux Moines]], a été distingué pour son charme dans le cadre de l'émission télévisée [[Village Préféré des Français]] en 2017 ?
+Quelle île du golfe du [[Morbihan]] s'appelle Izenah en breton ?
 
-Quelle île du golfe du [[Morbihan]], appelée [[Dru(g) Dromenec]] en breton, est particulièrement connue pour ses sentiers de randonnée pittoresques et ses sites mégalithiques ?
-
-Quel lieu, surnommé "la perle du [[Golfe du Morbihan]]", est le joyau de la commune française la plus petite en superficie du département du Morbihan ?
+Quelle île, surnommée « la perle du golfe », est la plus grande île du [[golfe du Morbihan]] ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Elle s'étend sur environ 7 kilomètres de long et 3,5 kilomètres de large, fai
 Fait étonnant, l'[[Île aux Moines]] était autrefois séparée du continent par une bande de terre qui a été submergée en 1868, laissant place à un étroit chenal, rendant l'accès uniquement possible par bateau. 
 
 Une anecdote intéressante pour les amateurs de records : si l'île a été classée comme site protégé dès 1938 pour préserver sa richesse écologique et son patrimoine, elle détient également le titre de la plus petite commune de France par sa surface, avec seulement 3,16 km² hors golfe.
+
+###### Archives questions
+
+Quel village breton, situé sur [[Île aux Moines]], a été distingué pour son charme dans le cadre de l'émission télévisée [[Village Préféré des Français]] en 2017 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle île du golfe du [[Morbihan]], appelée [[Dru(g) Dromenec]] en breton, est particulièrement connue pour ses sentiers de randonnée pittoresques et ses sites mégalithiques ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu, surnommé "la perle du [[Golfe du Morbihan]]", est le joyau de la commune française la plus petite en superficie du département du Morbihan ? <!-- cm003 remplacée 2026-11-23 -->

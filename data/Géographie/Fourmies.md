@@ -31,11 +31,9 @@ culture_g_justification: "Ville liée à un épisode important du mouvement ouvr
 
 ###### Questions
 
-Dans quelle ville du nord de la [[France]], en [[1891]], des émeutes ouvrières ont eu lieu lors de la [[Fête du Travail]], marquant une étape importante dans l'histoire du mouvement ouvrier français ?
+Dans quelle ville du [[Nord]] la troupe tira-t-elle sur des manifestants le 1er mai 1891, faisant neuf morts ?
 
-Dans quelle commune française se trouve l'église [[Saint-Martin]] qui a été classée monument historique en [[2001]] grâce à son architecture gothique remarquable ?
-
-Quelle ville est le terminus d'une ancienne ligne de chemin de fer reliant [[Fourmies]] à [[Glageon]], exploitée jusque dans les années [[1950]] avant d'être fermée ?
+Dans quelle ville de l'[[Avesnois]] le musée du Textile et de la Vie sociale occupe-t-il une ancienne filature ?
 
 ###### Description
 
@@ -46,3 +44,11 @@ Réputée pour son passé industriel dans le textile, elle a été le théâtre 
 Un fait surprenant est que Fourmies possède l'une des premières pistes de ski indoor de France, malgré sa situation en plaine, inaugurée en [[1998]]. 
 
 Connue également pour son environnement verdoyant, la commune est entourée par le parc naturel régional de l'[[Avesnois]], offrant ainsi de nombreux sentiers de randonnée.
+
+###### Archives questions
+
+Quelle ville est le terminus d'une ancienne ligne de chemin de fer reliant [[Fourmies]] à [[Glageon]], exploitée jusque dans les années [[1950]] avant d'être fermée ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quelle ville du nord de la [[France]], en [[1891]], des émeutes ouvrières ont eu lieu lors de la [[Fête du Travail]], marquant une étape importante dans l'histoire du mouvement ouvrier français ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle commune française se trouve l'église [[Saint-Martin]] qui a été classée monument historique en [[2001]] grâce à son architecture gothique remarquable ? <!-- cm003 remplacée 2026-11-23 -->

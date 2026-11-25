@@ -29,11 +29,11 @@ culture_g_justification: "Compositeur et contrebassiste majeur du jazz, riche en
 
 ###### Questions
 
-Dans quelle ville [[Charlie Mingus]] a-t-il composé l'œuvre expérimentale "[[The Town Hall Concert]]" en 1962 qui présentait un orchestre de 30 musiciens?
+Quel contrebassiste de jazz a publié en 1971 son autobiographie, « Moins qu'un chien » ?
 
-Quel célèbre album de [[Charlie Mingus]] sorti en 1963 a été renommé plusieurs fois, notamment connu sous le titre "[[Mingus Mingus Mingus Mingus Mingus]]"?
+Quel contrebassiste a publié en 1963 l'album « The Black Saint and the Sinner Lady » ?
 
-Dans quelle année [[Charlie Mingus]] a-t-il cofondé le fameux collectif de jazz connu sous le nom de [[Jazz Artists Guild]] avec d'autres musiciens pour promouvoir une forme d'art plus collaborative?
+Quel contrebassiste fonda en 1960 la Jazz Artists Guild avec [[Max Roach]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Connu pour son style inventif et sa capacité à fusionner différents genres, [
 Un fait étonnant sur [[Charlie Mingus]] est qu'il a enregistré plus de 100 albums au cours de sa carrière, une prouesse remarquable qui en fait l'un des musiciens les plus prolifiques du jazz. 
 
 En 1963, il a sorti l'album "The Black Saint and the Sinner Lady", considéré comme un chef-d'œuvre du jazz orchestré et un tournant dans sa carrière artistique.
+
+###### Archives questions
+
+Dans quelle ville [[Charlie Mingus]] a-t-il composé l'œuvre expérimentale "[[The Town Hall Concert]]" en 1962 qui présentait un orchestre de 30 musiciens? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre album de [[Charlie Mingus]] sorti en 1963 a été renommé plusieurs fois, notamment connu sous le titre "[[Mingus Mingus Mingus Mingus Mingus]]"? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle année [[Charlie Mingus]] a-t-il cofondé le fameux collectif de jazz connu sous le nom de [[Jazz Artists Guild]] avec d'autres musiciens pour promouvoir une forme d'art plus collaborative? <!-- cm003 remplacée 2026-11-23 -->

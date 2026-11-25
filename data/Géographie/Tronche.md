@@ -32,11 +32,9 @@ culture_g_justification: "La Tronche est une commune très locale dont les infor
 ![[Carte_Tronche.png]]
 ###### Questions
 
-Quelle commune française située dans le département de l'[[Isère]] est traversée par la [[vélo-route]] [[ViaRhôna]] depuis 2013 ?
+Dans quelle commune de la banlieue de [[Grenoble]] se trouve le principal site du CHU Grenoble-Alpes ?
 
-Quel village de [[Tronche]], situé à proximité de [[Grenoble]], a été le lieu de tournage de scènes du film "[[La Belle Verte]]" réalisé par [[Coline Serreau]] en 1996 ?
-
-Quel est le nom de la ville française qui abrite le [[musée des sciences médicales]] Josef [[Barnard Le Roux]], inauguré en 1987 ?
+Dans quelle commune de l'[[Isère]] le musée Hébert occupe-t-il la maison familiale du peintre [[Ernest Hébert]] ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Un fait étonnant, et peu connu, est que [[Tronche]] abrite également le plus g
 Cet endroit pittoresque est aussi remarquable pour son jardin botanique, nommé l'[[Arboretum de la Balme]], où l'on peut découvrir plus de 300 espèces de plantes provenant du monde entier. 
 
 Enfin, [[Tronche]] a vu passer l'un des plus célèbres écrivains du XXe siècle, [[André Malraux]], qui fut résidant de la commune et s'inspira de cette région pour plusieurs de ses œuvres littéraires.
+
+###### Archives questions
+
+Quel village de [[Tronche]], situé à proximité de [[Grenoble]], a été le lieu de tournage de scènes du film "[[La Belle Verte]]" réalisé par [[Coline Serreau]] en 1996 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle commune française située dans le département de l'[[Isère]] est traversée par la [[vélo-route]] [[ViaRhôna]] depuis 2013 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la ville française qui abrite le [[musée des sciences médicales]] Josef [[Barnard Le Roux]], inauguré en 1987 ? <!-- cm003 archivée 2026-11-23 -->

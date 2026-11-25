@@ -29,11 +29,9 @@ culture_g_justification: "Auteur-compositeur français reconnu pour sa longévit
 
 ###### Questions
 
-Dans quel album de [[Hubert-Félix Thiéfaine]] sorti en [[États-Unis]] en 1980 retrouve-t-on des influences directes de la musique [[rock psychédélique]] ? 
+Quel chanteur a écrit « La Fille du coupeur de joints », parue en 1978 ?
 
-Quel artiste français a remporté la [[Victoire de la Musique]] pour l'album de chansons en 2012 avec l'album "[[Suppléments de mensonge]]" ?
-
-Quel musicien a célébré ses 40 ans de carrière en 2018 avec une tournée intitulée "[[40 ans de chansons]]" ?
+Quel chanteur a remporté en 2012 la Victoire de la musique de l'album de chansons avec « Suppléments de mensonge » ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Il est célèbre pour ses paroles poétiques et engagées, souvent teintées de 
 Un fait étonnant à son sujet est qu'en 2012, il a remporté deux [[Victoires de la Musique]], coup sur coup, pour son album "[[Suppléments de mensonge]]", malgré une carrière déjà longue et avant cette date, marginalisée par les médias. 
 
 En parallèle de sa carrière musicale, [[Thiéfaine]] a aussi travaillé avec d'autres artistes, ce qui a contribué à sa réputation de musicien éclectique et novateur.
+
+###### Archives questions
+
+Dans quel album de [[Hubert-Félix Thiéfaine]] sorti en [[États-Unis]] en 1980 retrouve-t-on des influences directes de la musique [[rock psychédélique]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste français a remporté la [[Victoire de la Musique]] pour l'album de chansons en 2012 avec l'album "[[Suppléments de mensonge]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien a célébré ses 40 ans de carrière en 2018 avec une tournée intitulée "[[40 ans de chansons]]" ? <!-- cm003 archivée 2026-11-23 -->

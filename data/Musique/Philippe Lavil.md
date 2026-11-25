@@ -27,14 +27,20 @@ culture_g_justification: "Chanteur populaire associé à quelques tubes des ann�
 
 ###### Questions
 
-En 1987, quel chanteur français interprète "[[Kolé séré]]" en duo avec Jocelyne Béroard du groupe [[Kassav']] ?
+Quel chanteur a interprété « Kolé séré » en duo avec [[Jocelyne Béroard]] en 1986 ?
 
-Quel titre de [[Philippe Lavil]], sorti en 1982, a été écrit par [[Jean-Louis Dabadie]] et composé par [[Michel Fugain]], lui offrant un immense succès ?
-
-En quelle année précisément [[Philippe Lavil]] a-t-il représenté la France à l'[[Eurovision]] avec la chanson "[[Il tape sur des bambous]]" ?
+Quel chanteur né en [[Martinique]] a connu le succès en 1982 avec « Il tape sur des bambous » ?
 
 ###### Description
 
 [[Philippe Lavil]] est un chanteur français né en 1947 à [[Fort-de-France]], en [[Martinique]]. 
 
 Bien que son style musical soit principalement associé à la musique antillaise, il a élargi son répertoire avec des chansons populaires dans les années 1980, dont le célèbre duo avec [[Jocelyne Béroard]] intitulé "[[Kolé séré]]" sorti en 1987. 
+
+###### Archives questions
+
+Quel titre de [[Philippe Lavil]], sorti en 1982, a été écrit par [[Jean-Louis Dabadie]] et composé par [[Michel Fugain]], lui offrant un immense succès ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année précisément [[Philippe Lavil]] a-t-il représenté la France à l'[[Eurovision]] avec la chanson "[[Il tape sur des bambous]]" ? <!-- cm003 archivée 2026-11-23 -->
+
+En 1987, quel chanteur français interprète "[[Kolé séré]]" en duo avec Jocelyne Béroard du groupe [[Kassav']] ? <!-- cm003 remplacée 2026-11-23 -->

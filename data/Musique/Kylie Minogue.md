@@ -29,11 +29,11 @@ culture_g_justification: "Icône internationale de la pop, régulièrement inter
 
 ###### Questions
 
-Quelle artiste a popularisé la chanson [[The Loco-Motion]] avec son premier single en 1987 ?
+Quelle chanteuse australienne a sorti en 1987 son premier single, une reprise de « [[The Loco-Motion]] » ?
 
-Qui a remporté le prix de la "Meilleure artiste féminine internationale" aux [[Brit Awards]] en 2002 ?
+Quelle chanteuse australienne a reçu en 2002 le Brit Award de la meilleure artiste féminine internationale ?
 
-Quel album de [[Kylie Minogue]], sorti en 2001, contient le hit mondial "Can't Get You Out of My Head" ?
+Quelle chanteuse a sorti en 2001 l'album « Fever », qui contient « Can't Get You Out of My Head » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 1987, elle a sorti son premier album éponyme, mais c'est surtout avec le tub
 Fait étonnant, en 2008, [[Kylie Minogue]] a établi un record en devenant la première artiste féminine à décrocher dix albums classés numéro un au Royaume-Uni, sur une période évoluant sur plusieurs décennies.
 
 Elle a également été honorée par l'[[Ordre de l'Empire britannique]] en 2008, un témoignage de son impact et de ses contributions en dehors de sa carrière musicale.
+
+###### Archives questions
+
+Quel album de [[Kylie Minogue]], sorti en 2001, contient le hit mondial "Can't Get You Out of My Head" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle artiste a popularisé la chanson [[The Loco-Motion]] avec son premier single en 1987 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a remporté le prix de la "Meilleure artiste féminine internationale" aux [[Brit Awards]] en 2002 ? <!-- cm003 remplacée 2026-11-23 -->

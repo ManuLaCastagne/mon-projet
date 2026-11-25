@@ -32,11 +32,11 @@ culture_g_justification: "Archipel arctique surtout rencontré à propos des ess
 ![[Carte_Nouvelle-Zemble.png]]
 ###### Questions
 
-Dans quel archipel de l'océan Arctique, utilisés comme site d'essais nucléaires par l'[[Union soviétique]], trouve-t-on la [[Nouvelle-Zemble]] ?
+Quel archipel russe sépare la [[mer de Barents]] de la [[mer de Kara]] ?
 
-Au cours de quelle année l'[[Union soviétique]] a-t-elle testé la [[Tsar Bomba]], la plus puissante bombe nucléaire jamais détonée, sur l'archipel de la [[Nouvelle-Zemble]] ?
+Au-dessus de quel archipel l'[[Union soviétique]] fit-elle exploser la [[Tsar Bomba]], le 30 octobre 1961 ?
 
-Quel territoire arctique russe inhabité a fait l'objet d'une réinstallation forcée de ses habitants dans les années 1950, notamment pour permettre des opérations militaires, y compris des essais de missiles ?
+De quel archipel arctique les Nénètses furent-ils déplacés dans les années 1950 pour faire place à un polygone d'essais nucléaires ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Historiquement, cet archipel a été une zone d'essais nucléaires pour l'Union 
 Peu connu, le climat de [[Nouvelle-Zemble]] est suffisamment rigoureux pour que des phénomènes météorologiques comme le mirage, appelé effet [[Nouvelle-Zemble]], aient été documentés pendant les campagnes d'exploration polaire du [[XIXe]] siècle.
 
 La faune locale inclut des espèces adaptées au climat polaire, telles que l'ours polaire et le renne, vivant dans cet environnement où la température peut descendre en dessous de -30 °C en hiver.
+
+###### Archives questions
+
+Dans quel archipel de l'océan Arctique, utilisés comme site d'essais nucléaires par l'[[Union soviétique]], trouve-t-on la [[Nouvelle-Zemble]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Au cours de quelle année l'[[Union soviétique]] a-t-elle testé la [[Tsar Bomba]], la plus puissante bombe nucléaire jamais détonée, sur l'archipel de la [[Nouvelle-Zemble]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel territoire arctique russe inhabité a fait l'objet d'une réinstallation forcée de ses habitants dans les années 1950, notamment pour permettre des opérations militaires, y compris des essais de missiles ? <!-- cm003 remplacée 2026-11-23 -->

@@ -30,11 +30,9 @@ culture_g_justification: "Le sujet identifié comme le Prout est obscur et ne fo
 ![[Carte_Prout.png]]
 ###### Questions
 
-Quel est le nom de la ville estonienne qui a changé son nom en [[Prout]] en 1992 pour se démarquer des autres villes du pays ?
+Quelle rivière, affluent du [[Danube]], marque la frontière entre la [[Roumanie]] et la [[Moldavie]] ?
 
-Dans quel petit village français situé dans la région [[Occitanie]] peut-on trouver une sculpture monumentale insolite en forme de [[Prout]], installée pour la première fois en 2015 ?
-
-Quel est le surnom donné au phénomène géologique rare observé sur le mont [[Erebus]] en [[Antarctique]], où des bulles semblables à des bruits de [[Prout]] se forment dans les lacs glacés ?
+Sur quelle rivière se trouve la ville ukrainienne de [[Tchernivtsi]] ?
 
 ###### Description
 
@@ -45,3 +43,11 @@ Traversée par le célèbre fleuve [[Prout]], qui s'étend sur environ 953 kilom
 Ce fleuve a la particularité d'avoir été le théâtre de plusieurs débats géopolitiques durant la Seconde Guerre mondiale, où son tracé exact était un enjeu stratégique majeur. 
 
 Un fait étonnant est que le [[Prout]] détient le record européen de l'extraction la plus ancienne de sel gemme, avec des mines en activité depuis environ 5 000 ans avant notre ère, ce qui en fait un site de grande importance archéologique et économique.
+
+###### Archives questions
+
+Quel est le nom de la ville estonienne qui a changé son nom en [[Prout]] en 1992 pour se démarquer des autres villes du pays ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel petit village français situé dans la région [[Occitanie]] peut-on trouver une sculpture monumentale insolite en forme de [[Prout]], installée pour la première fois en 2015 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le surnom donné au phénomène géologique rare observé sur le mont [[Erebus]] en [[Antarctique]], où des bulles semblables à des bruits de [[Prout]] se forment dans les lacs glacés ? <!-- cm003 archivée 2026-11-23 -->

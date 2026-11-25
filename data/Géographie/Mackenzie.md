@@ -30,11 +30,11 @@ culture_g_justification: "Grand fleuve canadien utile pour la géographie de l�
 ![[Carte_Mackenzie.png]]
 ###### Questions
 
-Quelle est la plus longue rivière du [[Canada]], mesurant environ 4 241 kilomètres et prenant sa source dans le [[Grand Lac des Esclaves]] ?
+Quel fleuve, le plus long du [[Canada]], sort du [[Grand lac des Esclaves]] pour se jeter dans la [[mer de Beaufort]] ?
 
-Quel est le bassin hydrographique majeur situé au [[nord-ouest du Canada]], drainant une superficie d'environ 1,8 million de kilomètres carrés ?
+Quel fleuve draine un bassin d'environ 1,8 million de km², le plus vaste du Canada ?
 
-Quel cours d'eau important dans le territoire de [[Territoires du Nord-Ouest]] a été exploré par [[Alexander Mackenzie]] en 1789 et porte aujourd'hui son nom ?
+Quel fleuve forme un vaste delta près d'[[Inuvik]], dans les [[Territoires du Nord-Ouest]] ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Prenant sa source dans le [[Grand Lac des Esclaves]] dans les [[Territoires du N
 Fait étonnant, le bassin fluvial du Mackenzie, qui couvre environ 1 805 200 kilomètres carrés, est l'un des plus vastes du monde mais il reste parmi les moins densément peuplés. 
 
 Historiquement, le fleuve a été exploré pour la première fois par l'explorateur écossais [[Alexander Mackenzie]] en 1789, et son nom actuel a été donné pour honorer cette exploration.
+
+###### Archives questions
+
+Quel cours d'eau important dans le territoire de [[Territoires du Nord-Ouest]] a été exploré par [[Alexander Mackenzie]] en 1789 et porte aujourd'hui son nom ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la plus longue rivière du [[Canada]], mesurant environ 4 241 kilomètres et prenant sa source dans le [[Grand Lac des Esclaves]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le bassin hydrographique majeur situé au [[nord-ouest du Canada]], drainant une superficie d'environ 1,8 million de kilomètres carrés ? <!-- cm003 remplacée 2026-11-23 -->

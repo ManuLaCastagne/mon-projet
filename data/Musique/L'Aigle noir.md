@@ -28,11 +28,7 @@ culture_g_justification: "Grand classique de Barbara, fréquemment cité avec la
 
 ###### Questions
 
-Quel succès musical de [[Barbara]], sorti en 1970, est devenu l'un de ses plus grands classiques et évoque des thèmes personnels et mystérieux ?
-
-Quel titre de Barbara a valu à [[L'Aigle noir]] une reconnaissance posthume en 2017 grâce à son classement dans les meilleures ventes de singles en version numérique ?
-
-En quelle année la chanson [[L'Aigle noir]] de [[Barbara]] a-t-elle été interprétée lors d'une émission spéciale de [[Taratata]], consacrée à cet artiste légendaire ?
+Quelle chanson de [[Barbara]], parue en 1970, évoque un oiseau surgi dans un rêve ?
 
 ###### Description
 
@@ -43,3 +39,11 @@ Fait étonnant, peu connu du grand public, cet album s'est vendu à plus de 1 mi
 [[Barbara]], de son vrai nom [[Monique Serf]], a écrit cette chanson en s'inspirant d'un rêve récurrent qu'elle faisait, révélant une profondeur mélancolique qui a ému des générations d'auditeurs. 
 
 En 1971, [[L'Aigle noir]] a remporté le prix de la chanson de l'année décerné par l'Académie du Disque Français, consacrant son succès tant critique que commercial.
+
+###### Archives questions
+
+Quel titre de Barbara a valu à [[L'Aigle noir]] une reconnaissance posthume en 2017 grâce à son classement dans les meilleures ventes de singles en version numérique ? <!-- cm003 archivée 2026-11-23 -->
+
+En quelle année la chanson [[L'Aigle noir]] de [[Barbara]] a-t-elle été interprétée lors d'une émission spéciale de [[Taratata]], consacrée à cet artiste légendaire ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel succès musical de [[Barbara]], sorti en 1970, est devenu l'un de ses plus grands classiques et évoque des thèmes personnels et mystérieux ? <!-- cm003 remplacée 2026-11-23 -->

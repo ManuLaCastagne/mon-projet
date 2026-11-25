@@ -29,11 +29,11 @@ culture_g_justification: "L’une des plus grandes voix du jazz, très rentable 
 
 ###### Questions
 
-En quelle année [[Ella Fitzgerald]] a-t-elle remporté son premier [[Grammy Award]], devenant ainsi la première femme africaine-américaine à être récompensée lors de cette cérémonie en 1959 ?
+Quelle chanteuse de jazz fut, lors de la première cérémonie des [[Grammy Awards]] en 1959, la première femme afro-américaine récompensée ?
 
-Quel album d'[[Ella Fitzgerald]], sorti en 1956, est reconnu pour être le premier disque intégralement dédié à une série de chansons du compositeur [[Cole Porter]] ?
+Quelle chanteuse inaugura en 1956 sa série des « Songbooks » avec un double album consacré à [[Cole Porter]] ?
 
-Dans quel film de 1955, [[Ella Fitzgerald]] a-t-elle fait une apparition mémorable en chantant "After You've Gone", marquant l'un de ses rares passages au cinéma ?
+Quelle chanteuse fut révélée par l'orchestre de [[Chick Webb]], avec lequel elle enregistra « A-Tisket, A-Tasket » en 1938 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Longtemps surnommée la "First Lady of Song", Ella est devenue célèbre pour sa
 En 1958, elle est devenue la première femme afro-américaine à remporter un [[Grammy Award]], et elle a finalement raflé au cours de sa carrière pas moins de 13 Grammy Awards, un exploit exceptionnel pour l'époque. 
 
 Fait étonnant : en 1960, son album "[[Ella in Berlin: Mack the Knife]]" a remporté le Grammy du meilleur album vocal féminin, bien qu'elle ait oublié les paroles d'une chanson lors de l'enregistrement en direct ; elle a improvisé avec brio, un moment devenu légendaire dans l'histoire de la musique.
+
+###### Archives questions
+
+En quelle année [[Ella Fitzgerald]] a-t-elle remporté son premier [[Grammy Award]], devenant ainsi la première femme africaine-américaine à être récompensée lors de cette cérémonie en 1959 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album d'[[Ella Fitzgerald]], sorti en 1956, est reconnu pour être le premier disque intégralement dédié à une série de chansons du compositeur [[Cole Porter]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film de 1955, [[Ella Fitzgerald]] a-t-elle fait une apparition mémorable en chantant "After You've Gone", marquant l'un de ses rares passages au cinéma ? <!-- cm003 remplacée 2026-11-23 -->

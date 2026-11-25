@@ -21,19 +21,22 @@ indice_5 :
 indice_6 : 
   - chansons de music-hall
 questions:
- - Après avoir fait carrière à Cinéma/Hollywood, quel artiste en 1968 et acteur français, fit ses adieux officiels à la scène ?
 culture_g_score: 71
 culture_g_justification: "Icône du music-hall et du cinéma français, utile pour des questions sur la chanson, Hollywood, les Oscars et la culture populaire."
+questions_tv_archivees:
+  - Après avoir fait carrière à Cinéma/Hollywood, quel artiste en 1968 et acteur français, fit ses adieux officiels à la scène ?
 ---
 ![Image de Maurice Chevalier](https://upload.wikimedia.org/wikipedia/commons/1/13/Maurice_Chevalier_1959.JPG)
 
 ###### Questions
 
-Dans quel film musical de [[Disney]] de 1970 intitulé "[[Les Aristochats]]", Maurice Chevalier a-t-il interprété la chanson thème du film en version française ? 
+Quel chanteur français a interprété en 1970 la chanson-titre des « Aristochats », dans la version originale du film ?
 
-Quel artiste, connu pour ses célèbres cannes, a reçu un [[Oscar d'honneur]] en 1959 pour sa carrière dans la musique et le cinéma, devenant ainsi la première star française à recevoir cet honneur ? 
+Quel artiste, coiffé de son éternel canotier, reçut un [[Oscar d'honneur]] en 1959 ?
 
-Quel chanteur, né à [[Paris]] en 1888, a popularisé la chanson "[[Valentine]]" en 1929, un titre qui est devenu l'une de ses œuvres les plus emblématiques ?
+Quel chanteur, né à [[Ménilmontant]] en 1888, a créé « Valentine » en 1925 ?
+
+Après avoir fait carrière à Hollywood, quel chanteur et acteur français fit en 1968 ses adieux officiels à la scène ? <!-- source: tv -->
 
 ###### Description
 
@@ -44,3 +47,11 @@ Il a notamment acquis une renommée internationale grâce à ses chansons interp
 En 1958, il est devenu le premier artiste français à être invité à l'émission américaine "[[The Ed Sullivan Show]]", une réussite exceptionnelle pour l'époque. 
 
 Un fait étonnant est que [[Maurice Chevalier]] a été honoré d'un [[Academy Honorary Award]] en 1959 pour sa contribution exceptionnelle au monde du divertissement, un honneur rare pour un chanteur non-anglophone.
+
+###### Archives questions
+
+Dans quel film musical de [[Disney]] de 1970 intitulé "[[Les Aristochats]]", Maurice Chevalier a-t-il interprété la chanson thème du film en version française ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste, connu pour ses célèbres cannes, a reçu un [[Oscar d'honneur]] en 1959 pour sa carrière dans la musique et le cinéma, devenant ainsi la première star française à recevoir cet honneur ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur, né à [[Paris]] en 1888, a popularisé la chanson "[[Valentine]]" en 1929, un titre qui est devenu l'une de ses œuvres les plus emblématiques ? <!-- cm003 remplacée 2026-11-23 -->

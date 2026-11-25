@@ -25,11 +25,11 @@ culture_g_justification: "Groupe fondateur du rock français, associé à de nom
 
 ###### Questions
 
-Quel groupe de rock français formé en [[1976]] par [[Jean-Louis Aubert]], [[Louis Bertignac]], [[Richard Kolinka]] et [[Corine Marienneau]] a connu un énorme succès dans les années 1980 ?
+Quel groupe de rock français fut formé en 1976 par [[Jean-Louis Aubert]], [[Louis Bertignac]], [[Richard Kolinka]] et [[Corine Marienneau]] ?
 
-Quel titre de chanson du groupe [[Téléphone]], sorti en [[1979]], est devenu emblématique avec ses paroles sur les rêves et l'évasion, et fait partie de l'album "[[Crache Ton Venin]]" ?
+Quel groupe a chanté « La Bombe humaine » en 1979, sur l'album « Crache ton venin » ?
 
-Quel groupe a donné son dernier concert avant de se séparer à l'[[Hippodrome de Vincennes]] en [[1986]], marquant une pause de près de 28 ans avant une éventuelle reformation en [[2015]] sous un autre nom ? <!-- score: 4 -->
+Quel groupe, séparé en 1986, s'est reformé en 2015 sans [[Corine Marienneau]] sous le nom des Insus ?
 
 ###### Description
 
@@ -40,3 +40,11 @@ Composé de [[Jean-Louis Aubert]], [[Louis Bertignac]], [[Richard Kolinka]] et [
 Un fait étonnant est que le groupe a réussi à remplir la salle mythique du [[Palais des Sports]] à Paris à trois reprises en [[1980]], un exploit peu commun pour un groupe aussi jeune à l'époque. 
 
 Après leur séparation en [[1986]], [[Téléphone]] reste un symbole du renouveau du rock français, ayant vendu des millions d'albums de leur vivant.
+
+###### Archives questions
+
+Quel titre de chanson du groupe [[Téléphone]], sorti en [[1979]], est devenu emblématique avec ses paroles sur les rêves et l'évasion, et fait partie de l'album "[[Crache Ton Venin]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe de rock français formé en [[1976]] par [[Jean-Louis Aubert]], [[Louis Bertignac]], [[Richard Kolinka]] et [[Corine Marienneau]] a connu un énorme succès dans les années 1980 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe a donné son dernier concert avant de se séparer à l'[[Hippodrome de Vincennes]] en [[1986]], marquant une pause de près de 28 ans avant une éventuelle reformation en [[2015]] sous un autre nom ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

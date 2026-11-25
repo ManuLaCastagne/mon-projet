@@ -29,11 +29,11 @@ culture_g_justification: "Figure mondiale et francophone exceptionnelle, à la f
 
 ###### Questions
 
-Dans quelle année [[Josephine Baker]] devient-elle la première femme afro-américaine à être la vedette d'un film, avec [[Zouzou]] sorti en 1934 ?
+Quelle artiste tient le rôle-titre du film « [[Zouzou]] », sorti en 1934 aux côtés de [[Jean Gabin]] ?
 
-Quel artiste, engagé dans la [[Résistance française]], a contribué en 1961 à la reconnaissance publique des droits civiques lors d'une marche à [[Washington D.C.]], et est devenu célèbre pour sa participation à la [[Revue Nègre]] en 1925 ?
+Quelle artiste prit la parole en uniforme de la France libre lors de la [[Marche sur Washington]] en 1963 ?
 
-Quel symbole de la musique et danse entre 1920 et 1930, connue pour porter une jupe en bananes, était en réalité agent de renseignement pour la [[France libre]] pendant la [[Seconde Guerre mondiale]] ?
+Quelle artiste est entrée au [[Panthéon]] le 30 novembre 2021, première femme noire à y être honorée ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Née en 1906 à St. Louis, [[Missouri (état)]], elle est devenue une icône à 
 En 1937, elle a acquis la nationalité française, embrassant pleinement la culture de son pays d'adoption. 
 
 Fait étonnant : en 1961, [[Joséphine Baker]] est devenue la première femme américaine à recevoir la Croix de la Légion d'honneur pour ses efforts dans la Résistance française durant la [[Seconde Guerre mondiale]].
+
+###### Archives questions
+
+Dans quelle année [[Josephine Baker]] devient-elle la première femme afro-américaine à être la vedette d'un film, avec [[Zouzou]] sorti en 1934 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste, engagé dans la [[Résistance française]], a contribué en 1961 à la reconnaissance publique des droits civiques lors d'une marche à [[Washington D.C.]], et est devenu célèbre pour sa participation à la [[Revue Nègre]] en 1925 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel symbole de la musique et danse entre 1920 et 1930, connue pour porter une jupe en bananes, était en réalité agent de renseignement pour la [[France libre]] pendant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->

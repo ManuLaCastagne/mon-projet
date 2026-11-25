@@ -31,9 +31,7 @@ culture_g_justification: "Album important de Bob Marley contenant « No Woman, N
 
 Quel est le premier album sorti par [[Bob Marley and the Wailers]] en 1974 sur lequel [[Peter Tosh]] et [[Bunny Wailer]] ne figurent pas ?
 
-En quelle année l'album [[Natty Dread]] a-t-il été officiellement publié au public par [[Island Records]] ?
-
-Quel album de [[Bob Marley and the Wailers]] contient la chanson emblématique "[[No Woman, No Cry]]" ?
+Sur quel album de 1974 figure la version studio de « [[No Woman, No Cry]] » ?
 
 ###### Description
 
@@ -44,3 +42,9 @@ Il est particulièrement notable pour la présence de classiques intemporels com
 Un fait peu connu est que cet album est le premier sur lequel deux membres féminins du groupe vocal [[The I-Threes]], [[Rita Marley]] et [[Judy Mowatt]], apparaissent, ajoutant une nouvelle dimension au son des [[Wailers]]. 
 
 Un autre élément notable est que, malgré son immense popularité, "Natty Dread" ne comporte pas de chanson-titre, ce qui est rare pour un album de cette époque, et pourrait prêter à confusion dans certaines quiz de culture générale.
+
+###### Archives questions
+
+En quelle année l'album [[Natty Dread]] a-t-il été officiellement publié au public par [[Island Records]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel album de [[Bob Marley and the Wailers]] contient la chanson emblématique "[[No Woman, No Cry]]" ? <!-- cm003 remplacée 2026-11-23 -->

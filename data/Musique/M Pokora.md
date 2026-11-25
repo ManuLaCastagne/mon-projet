@@ -30,11 +30,11 @@ culture_g_justification: "Vedette populaire identifiable par Popstars, Danse ave
 
 ###### Questions
 
-En quelle année [[M Pokora]] a-t-il remporté la première saison de [[Danse avec les stars]] en France sur [[TF1]] ? <!-- score: 10 -->
+Quel chanteur a remporté en 2011 la première saison de « [[Danse avec les stars]] » sur [[TF1]] ?
 
-Quel célèbre album de [[M Pokora]] sorti en 2016 est un hommage à [[Claude François]] ?
+Quel chanteur a rendu hommage à [[Claude François]] avec l'album « My Way » en 2016 ?
 
-Avec quel groupe [[M Pokora]] a-t-il débuté sa carrière musicale avant de se lancer en solo ?
+Quel chanteur, né à [[Strasbourg]] en 1985, a remporté l'émission Popstars en 2003 au sein du groupe Linkup ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Après la séparation du groupe, il s'est lancé avec succès dans une carrière
 Fait étonnant, M Pokora est le seul artiste masculin français à avoir remporté trois fois le [[NRJ Music Award]] de l"artiste masculin francophone de l'année", notamment en 2011, 2013 et 2015, ce qui le place aux côtés des plus grandes personnalités de la chanson française. 
 
 En plus de sa carrière musicale, il a également fait ses débuts au cinéma, jouant dans le film "Robin des Bois, Ne Renoncez Jamais" (2013), une adaptation moderne de la célèbre légende.
+
+###### Archives questions
+
+En quelle année [[M Pokora]] a-t-il remporté la première saison de [[Danse avec les stars]] en France sur [[TF1]] ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre album de [[M Pokora]] sorti en 2016 est un hommage à [[Claude François]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Avec quel groupe [[M Pokora]] a-t-il débuté sa carrière musicale avant de se lancer en solo ? <!-- cm003 remplacée 2026-11-23 -->

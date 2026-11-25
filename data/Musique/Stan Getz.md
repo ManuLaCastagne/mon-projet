@@ -29,11 +29,11 @@ culture_g_justification: "Grand saxophoniste de jazz, particulièrement rentable
 
 ###### Questions
 
-Dans quel album de musique, co-enregistré avec [[João Gilberto]], [[Stan Getz]] a-t-il remporté le [[Grammy Award]] de l'année 1965 ? 
+Quel saxophoniste a remporté avec [[João Gilberto]] le Grammy de l'album de l'année en 1965 ?
 
-Avec quel instrument de musique [[Stan Getz]] a-t-il popularisé le genre de la bossa nova aux États-Unis au début des années 1960 ?
+Quel saxophoniste a lancé la bossa nova aux États-Unis en 1962 avec l'album « Jazz Samba », enregistré avec [[Charlie Byrd]] ?
 
-Quel saxophoniste de jazz américain a enregistré en 1963 l'album à succès intitulé "Getz/Gilberto" avec [[Antônio Carlos Jobim]] au piano ?
+Quel saxophoniste a enregistré en 1963 « [[The Girl from Ipanema]] » avec [[Astrud Gilberto]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Le saxophoniste américain [[Stan Getz]], né en 1927, est réputé pour son jeu
 Un fait étonnant concernant [[Stan Getz]] est son inscription au prestigieux Juilliard School, à seulement 16 ans, bien que contre son gré, avant de quitter rapidement pour se consacrer à sa carrière musicale. 
 
 Ses collaborations avec d'autres artistes de renom, tels que [[Charlie Byrd]], ont permis d'introduire la bossa nova aux États-Unis dans les années 1960, consolidant ainsi son influence sur la scène musicale internationale.
+
+###### Archives questions
+
+Dans quel album de musique, co-enregistré avec [[João Gilberto]], [[Stan Getz]] a-t-il remporté le [[Grammy Award]] de l'année 1965 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Avec quel instrument de musique [[Stan Getz]] a-t-il popularisé le genre de la bossa nova aux États-Unis au début des années 1960 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel saxophoniste de jazz américain a enregistré en 1963 l'album à succès intitulé "Getz/Gilberto" avec [[Antônio Carlos Jobim]] au piano ? <!-- cm003 remplacée 2026-11-23 -->

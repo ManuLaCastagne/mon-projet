@@ -31,9 +31,9 @@ culture_g_justification: "Formation importante de la pop latino grâce à Gloria
 
 Quel groupe, emmené par [[Gloria Estefan]], a connu un succès mondial en 1985 avec le tube "Conga"?
 
-Quel ensemble musical, formé en 1975, a commencé à fusionner les sons latins et pop pour devenir célèbre dans les années 1980 sous le nom de [[Miami Sound Machine]]?
+Quel groupe floridien, fondé en 1975 par [[Emilio Estefan]], a fusionné pop et rythmes latins ?
 
-En 1993, quel groupe a remporté le Grammy Award du meilleur album latin pop pour l'album intitulé "[[Mi Tierra]]"?
+Quel groupe a chanté « Rhythm Is Gonna Get You » avec [[Gloria Estefan]] en 1987 ?
 
 ###### Description
 
@@ -42,3 +42,9 @@ En 1993, quel groupe a remporté le Grammy Award du meilleur album latin pop pou
 Un fait peu connu est que [[Miami Sound Machine]] est l’un des rares groupes à avoir une chanson—"Rhythm Is Gonna Get You"—incluse dans la liste des "365 Songs of the Century" par la [[Recording Industry Association of America]] en 2001, ce qui témoigne de leur influence durable sur la musique américaine.
 
 [[Gloria Estefan]], la chanteuse principale du groupe, est devenue une icône internationale et continue d’avoir un impact significatif, non seulement dans le domaine de la musique mais aussi en tant qu’entrepreneure et actrice, renforçant ainsi la notoriété de [[Miami Sound Machine]] sur la scène mondiale.
+
+###### Archives questions
+
+Quel ensemble musical, formé en 1975, a commencé à fusionner les sons latins et pop pour devenir célèbre dans les années 1980 sous le nom de [[Miami Sound Machine]]? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1993, quel groupe a remporté le Grammy Award du meilleur album latin pop pour l'album intitulé "[[Mi Tierra]]"? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Dramaturge américain majeur, fréquemment relié à p
 
 ###### Questions
 
-Dans quel opéra composé par [[Lee Hoiby]] en 1986 retrouve-t-on une adaptation musicale de la pièce [[The Glass Menagerie]] de [[Tennessee Williams]] ?
+Quel dramaturge américain a écrit « La Ménagerie de verre », créée à Chicago en 1944 ?
 
-Quel est le nom du ballet contemporain de [[Paul Chihara]], créé en 1994, inspiré par l'œuvre [[A Streetcar Named Desire]] de [[Tennessee Williams]] ? <!-- score: 10 -->
+Quel dramaturge a reçu le prix Pulitzer en 1948 pour « [[Un tramway nommé Désir]] » ?
 
-En 2014, quel groupe de rock alternatif a sorti une chanson intitulée "The Night of the Iguana" en hommage à une œuvre théâtrale de [[Tennessee Williams]] ?
+Quel dramaturge américain a écrit « [[La Chatte sur un toit brûlant]] », prix Pulitzer 1955 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Réputé pour ses œuvres puissantes comme "Un tramway nommé Désir" et "La Cha
 Un fait étonnant et méconnu à propos de [[Tennessee Williams]] est qu'il a été nommé "Tennessee" par ses camarades de collège en raison de son accent méridional, bien qu'il n'ait jamais vécu dans l'État du Tennessee. 
 
 Mort en 1983 à [[New York]], l'impact de son œuvre perdure, ayant marqué à jamais le paysage théâtral du XXe siècle.
+
+###### Archives questions
+
+Dans quel opéra composé par [[Lee Hoiby]] en 1986 retrouve-t-on une adaptation musicale de la pièce [[The Glass Menagerie]] de [[Tennessee Williams]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du ballet contemporain de [[Paul Chihara]], créé en 1994, inspiré par l'œuvre [[A Streetcar Named Desire]] de [[Tennessee Williams]] ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+En 2014, quel groupe de rock alternatif a sorti une chanson intitulée "The Night of the Iguana" en hommage à une œuvre théâtrale de [[Tennessee Williams]] ? <!-- cm003 remplacée 2026-11-23 -->

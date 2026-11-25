@@ -30,11 +30,11 @@ culture_g_justification: "Membre des Beatles et auteur de nombreux classiques, i
 
 ###### Questions
 
-En quelle année [[Paul McCartney]] a-t-il été anobli par la [[Reine Elizabeth II]], devenant ainsi « Sir » ?
+Quel membre des [[Beatles]] a été anobli par [[Élisabeth II]] en 1997 ?
 
-Quel membre des [[Beatles]] a écrit et interprété la chanson « [[Yesterday]] », souvent citée comme l'une des plus reprises de l'histoire de la musique ?
+Quel membre des [[Beatles]] a enregistré seul, accompagné d'un quatuor à cordes, la chanson « [[Yesterday]] » ?
 
-Quel artiste légendaire a été le principal compositeur de la chanson « [[Hey Jude]] », un des plus grands succès des [[Beatles]], sorti en 1968 ?
+Quel membre des Beatles a composé « [[Hey Jude]] » en 1968 pour réconforter [[Julian Lennon]] ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ En 1980, il a été arrêté et emprisonné en [[Japon]] pour possession de mari
 En dehors de sa carrière avec les [[The Beatles]], il a fondé le groupe [[Wings]] en 1971 avec lequel il a remporté de nombreux succès tout au long des années 1970. 
 
 Un fait étonnant est que [[Paul McCartney]] détient le record mondial du plus grand nombre de disques vendus par un artiste solo, avec plus de 100 millions d'albums à son actif.
+
+###### Archives questions
+
+En quelle année [[Paul McCartney]] a-t-il été anobli par la [[Reine Elizabeth II]], devenant ainsi « Sir » ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel membre des [[Beatles]] a écrit et interprété la chanson « [[Yesterday]] », souvent citée comme l'une des plus reprises de l'histoire de la musique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste légendaire a été le principal compositeur de la chanson « [[Hey Jude]] », un des plus grands succès des [[Beatles]], sorti en 1968 ? <!-- cm003 remplacée 2026-11-23 -->

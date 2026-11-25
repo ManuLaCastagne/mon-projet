@@ -29,11 +29,11 @@ culture_g_justification: "Artiste connue pour son succès précoce, ses Grammy A
 
 ###### Questions
 
-Quelle artiste a remporté cinq [[Grammy Awards]] en une seule soirée en 2003 pour son album « [[Come Away with Me]] » ?
+Quelle chanteuse a remporté cinq [[Grammy Awards]] en 2003 avec son premier album, « [[Come Away with Me]] » ?
 
-Qui est la fille de [[Ravi Shankar]], le célèbre sitariste indien, et a sorti un album acclamé en 2002 ?
+Quelle chanteuse américaine est la fille du sitariste [[Ravi Shankar]] ?
 
-Quel morceau de [[Norah Jones]], inclus dans la bande originale du film « [[My Blueberry Nights]] » de [[Wong Kar-wai]], a renforcé son image dans le cinéma en 2007 ?
+Quelle chanteuse a tenu le premier rôle du film « [[My Blueberry Nights]] » de [[Wong Kar-wai]] en 2007 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Cet album lui a valu huit [[Grammy Awards]] en 2003, établissant un record impr
 Fille du célèbre sitariste [[Ravi Shankar]] et de [[Sue Jones]], elle a grandi immergée dans un environnement musical diversifié, qui a fortement influencé son style unique mêlant jazz, folk et country. 
 
 Un fait étonnant à son sujet est qu'elle a vendu plus de 27 millions d'exemplaires de "[[Come Away with Me]]" dans le monde entier, ce qui en fait l'un des albums les plus vendus du 21ème siècle.
+
+###### Archives questions
+
+Quel morceau de [[Norah Jones]], inclus dans la bande originale du film « [[My Blueberry Nights]] » de [[Wong Kar-wai]], a renforcé son image dans le cinéma en 2007 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle artiste a remporté cinq [[Grammy Awards]] en une seule soirée en 2003 pour son album « [[Come Away with Me]] » ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui est la fille de [[Ravi Shankar]], le célèbre sitariste indien, et a sorti un album acclamé en 2002 ? <!-- cm003 remplacée 2026-11-23 -->

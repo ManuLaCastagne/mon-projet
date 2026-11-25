@@ -31,9 +31,9 @@ culture_g_justification: "Courant important du jazz d'avant-garde, interrogé pa
 
 Quel genre musical, caractérisé par une grande liberté improvisatrice, est apparu dans les années 1960 et est associé à des figures comme [[Ornette Coleman]] et [[Cecil Taylor]] ?
 
-Quel mouvement musical, dont l'album fondateur est "Free Jazz: A Collective Improvisation" d'[[Ornette Coleman]] sorti en 1961, est connu pour sa rupture avec les structures traditionnelles du jazz ?
+Quel courant du jazz tire son nom d'un album d'[[Ornette Coleman]] enregistré en 1960 par deux quartettes jouant simultanément ?
 
-Quelle forme d'expression musicale, popularisée par des artistes comme [[John Coltrane]] dans les années 1960, est souvent décrite comme un mélange audacieux d'[[avant-garde]] et d'[[improvisation]] totale ?
+Vers quel courant du jazz [[John Coltrane]] a-t-il basculé avec l'album « Ascension » en 1965 ?
 
 ###### Description
 
@@ -42,3 +42,9 @@ Le [[Free-jazz]] est un style de musique avant-gardiste qui a émergé dans les 
 Un fait étonnant, souvent méconnu, est que l'album "[[Free Jazz: A Collective Improvisation]]", sorti en 1961 par [[Ornette Coleman]], est le premier à avoir été enregistré en stéréo avec deux groupes de jazz jouant simultanément, une innovation technique audacieuse pour l'époque.
 
 En parallèle, des figures emblématiques comme [[John Coltrane]] et [[Cecil Taylor]] ont participé à la popularisation du free-jazz, renforçant sa place dans l'histoire comme un symbole de rébellion musicale et d'expression artistique sans limites.
+
+###### Archives questions
+
+Quel mouvement musical, dont l'album fondateur est "Free Jazz: A Collective Improvisation" d'[[Ornette Coleman]] sorti en 1961, est connu pour sa rupture avec les structures traditionnelles du jazz ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle forme d'expression musicale, popularisée par des artistes comme [[John Coltrane]] dans les années 1960, est souvent décrite comme un mélange audacieux d'[[avant-garde]] et d'[[improvisation]] totale ? <!-- cm003 remplacée 2026-11-23 -->

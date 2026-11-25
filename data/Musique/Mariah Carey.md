@@ -29,11 +29,11 @@ culture_g_justification: "Star mondiale de la pop et du chant, très rentable po
 
 ###### Questions
 
-Dans quelle année l'album de Noël iconique "[[Merry Christmas]]" de [[Mariah Carey]] a-t-il été publié, contenant le célèbre titre "[[All I Want for Christmas Is You]]" ? 
+Quelle chanteuse a sorti en 1994 l'album « Merry Christmas », qui contient « [[All I Want for Christmas Is You]] » ?
 
-Quel est le titre de la chanson de [[Mariah Carey]] qui est devenu un hit international en 1995, extrait de son album "[[Daydream]]" et en duo avec [[Boyz II Men]] ?
+Quelle chanteuse a enregistré avec [[Boyz II Men]] « One Sweet Day », resté seize semaines numéro un aux États-Unis en 1995-1996 ?
 
-Quel est le record que [[Mariah Carey]] a atteint en 2008 pour le plus grand nombre de [[singles numéro un aux États-Unis]] par une artiste féminine avec son single "[[Touch My Body]]" ?
+Quelle chanteuse a obtenu en 2008 avec « Touch My Body » son dix-huitième numéro un aux États-Unis, dépassant [[Elvis Presley]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 1990, elle a sorti son premier album éponyme, qui a lancé sa carrière avec
 Un fait étonnant est qu'elle détient le record pour être la seule artiste à avoir une chanson numéro un du Billboard Hot 100 pour chaque année de la décennie 1990, un exploit sans précédent dans l'histoire de la musique pop.
 
 En 2008, [[Mariah Carey]] a dépassé [[Elvis Presley]] avec son 18e single numéro un, "Touch My Body", établissant sa domination comme la deuxième artiste solo avec le plus de titres numéro un, derrière [[The Beatles]].
+
+###### Archives questions
+
+Dans quelle année l'album de Noël iconique "[[Merry Christmas]]" de [[Mariah Carey]] a-t-il été publié, contenant le célèbre titre "[[All I Want for Christmas Is You]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre de la chanson de [[Mariah Carey]] qui est devenu un hit international en 1995, extrait de son album "[[Daydream]]" et en duo avec [[Boyz II Men]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le record que [[Mariah Carey]] a atteint en 2008 pour le plus grand nombre de [[singles numéro un aux États-Unis]] par une artiste féminine avec son single "[[Touch My Body]]" ? <!-- cm003 remplacée 2026-11-23 -->

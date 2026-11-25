@@ -21,19 +21,18 @@ indice_5 :
 indice_6 : 
   - Dream Pop
 questions:
- - Quel groupe français a composé la BO du film "Air (groupe)" de Christian Cantamessa sorti en 2015 ?
 culture_g_score: 48
 culture_g_justification: "Bande originale importante dans la carrière d’Air et de Sofia Coppola, mais sujet précis assez spécialisé."
+questions_tv_archivees:
+  - Quel groupe français a composé la BO du film "Air (groupe)" de Christian Cantamessa sorti en 2015 ?
 ---
 ![Image de Virgin Suicides](https://upload.wikimedia.org/wikipedia/commons/f/f5/Jeffrey_Eugenides_2017.jpg)
 
 ###### Questions
 
-Quelle bande originale composée par le groupe [[Air]] a été réalisée pour le film [[Virgin Suicides]] sorti en 2000 ? 
+Quelle bande originale du groupe [[Air (groupe)|Air]] accompagne en 2000 le premier long métrage de [[Sofia Coppola]] ?
 
-De quel album, sorti en l'an 2000, le titre iconique "Playground Love" provient-il, composé par [[Air]] pour accompagner un film de [[Sofia Coppola]] ? 
-
-En quelle année est sortie la bande originale de [[Virgin Suicides]], qui a été le premier grand projet cinématographique du groupe français [[Air]] ?
+Sur quelle bande originale figure « Playground Love », chanté par Thomas Mars sous le pseudonyme de Gordon Tracks ?
 
 ###### Description
 
@@ -44,3 +43,11 @@ Leur album, sorti la même année, réussit à capturer l'atmosphère mélancoli
 Un fait étonnant est que la bande originale d'[[Air]] inclut une piste intitulée "Highschool Lover", qui est une version réinterprétée de leur propre morceau "Playground Love", mettant en avant leur signature sonore unique. 
 
 Cette bande sonore a été si bien accueillie qu'elle a permis à [[Air]] de gagner une reconnaissance internationale et figure souvent dans les classements des meilleures bandes originales de films, ce qui démontre l'impact durable de leur musique sur le public.
+
+###### Archives questions
+
+Quelle bande originale composée par le groupe [[Air]] a été réalisée pour le film [[Virgin Suicides]] sorti en 2000 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année est sortie la bande originale de [[Virgin Suicides]], qui a été le premier grand projet cinématographique du groupe français [[Air]] ? <!-- cm003 archivée 2026-11-23 -->
+
+De quel album, sorti en l'an 2000, le titre iconique "Playground Love" provient-il, composé par [[Air]] pour accompagner un film de [[Sofia Coppola]] ? <!-- cm003 remplacée 2026-11-23 -->

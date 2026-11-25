@@ -34,9 +34,9 @@ culture_g_justification: "Lac important d’Europe centrale, surtout utile pour 
 
 Quel est le plus grand lac d'eau douce d'[[Europe centrale]] qui est une destination touristique populaire en [[Hongrie]] ? 
 
-Quel lac, bordé par des paysages pittoresques et situé à environ 80 kilomètres au sud-ouest de [[Budapest]], est connu pour accueillir la régate du [[Blue Ribbon]] chaque année depuis 1934 ?
+Sur quel lac de [[Hongrie]] se court depuis 1934 le Kékszalag, ou « Ruban bleu », une régate de tour du lac ?
 
-En quelle année le lac [[Balaton]] est-il devenu un bassin hydrographique protégé, marquant un tournant dans la conservation de cet écosystème unique ?
+Quel lac hongrois est presque coupé en deux par la presqu'île de [[Tihany]], qui abrite une abbaye bénédictine ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Il s'élève à une altitude de 104 mètres au-dessus du niveau de la mer et sa 
 Cet immense lac, fréquemment désigné comme la "mer hongroise", est entouré de charmants villages viticoles, notamment [[Badacsony]], connu pour ses cépages uniques et ses paysages volcaniques. 
 
 Fait étonnant, le lac [[Balaton]] a accueilli les championnats du monde de natation en 1992, marquant l'histoire par ses eaux exceptionnellement chaudes pouvant atteindre jusqu'à 27 degrés Celsius durant l'été, une particularité unique pour un lac européen de cette taille.
+
+###### Archives questions
+
+En quelle année le lac [[Balaton]] est-il devenu un bassin hydrographique protégé, marquant un tournant dans la conservation de cet écosystème unique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lac, bordé par des paysages pittoresques et situé à environ 80 kilomètres au sud-ouest de [[Budapest]], est connu pour accueillir la régate du [[Blue Ribbon]] chaque année depuis 1934 ? <!-- cm003 remplacée 2026-11-23 -->

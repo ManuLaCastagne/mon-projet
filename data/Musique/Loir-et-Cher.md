@@ -31,10 +31,6 @@ culture_g_justification: "Titre populaire de Michel Delpech et repère géograph
 
 Quel département [[français]] est le titre d'une célèbre chanson de [[Michel Delpech]] sortie en 1977 ?
 
-Quel département de la région [[Centre-Val de Loire]] est mentionné dans les paroles de la chanson "[[Le Loir-et-Cher]]" par [[Michel Delpech]] ?
-
-Quel département est devenu célèbre grâce à la phrase "On dirait le [[Loir-et-Cher]]" dans une chanson de [[Michel Delpech]] ?
-
 ###### Description
 
 [[Loir-et-Cher]], célèbre grâce à la chanson éponyme de [[Michel Delpech]] sortie en 1977, est un département français emprunt de culture et d'histoire. 
@@ -44,3 +40,9 @@ Ce territoire, localisé entre [[Tours]] et [[Orléans]], s'est avéré être le
 [[François Ier]] a ordonné sa construction en 1519, et c'est Léonard de Vinci qui aurait influencé son design avec des idées avant-gardistes, bien qu'il soit mort avant d'en voir l'achèvement. 
 
 Le département est également connu pour ses festivals de musique, dont le festival [[Terres du Son]] lancé en 2005, qui attire des milliers de visiteurs chaque année, consolidant la région comme un lieu de rassemblement culturel dynamique.
+
+###### Archives questions
+
+Quel département de la région [[Centre-Val de Loire]] est mentionné dans les paroles de la chanson "[[Le Loir-et-Cher]]" par [[Michel Delpech]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel département est devenu célèbre grâce à la phrase "On dirait le [[Loir-et-Cher]]" dans une chanson de [[Michel Delpech]] ? <!-- cm003 archivée 2026-11-23 -->

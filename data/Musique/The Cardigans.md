@@ -31,9 +31,9 @@ culture_g_justification: "Groupe suédois connu grâce à Lovefool et à quelque
 
 Quel groupe suédois, formé en 1992, a connu un succès mondial avec la chanson "[[Lovefool]]" en 1996, qui a figuré dans la bande-son du film [[Romeo + Juliet]] de [[Baz Luhrmann]] ?
 
-Quel groupe, mené par la chanteuse [[Nina Persson]], a sorti en 1998 l'album "Gran Turismo" qui contient le titre "Erase/Rewind" largement utilisé dans la série télévisée [[Charmed]] ?
+Quel groupe suédois mené par [[Nina Persson]] a sorti en 1998 l'album « Gran Turismo », avec « My Favourite Game » ?
 
-Avec quels artistes les [[The Cardigans]] ont-ils collaboré en 1997 sur la chanson "[[Burning Down the House]]" pour l'album "A Tonic for the Troops" inspiré par les [[Talking Heads]] ?
+Quel groupe a repris « [[Burning Down the House]] » avec [[Tom Jones]] en 1999 ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Leur album [[Gran Turismo]], sorti en 1998, a marqué un tournant dans leur carr
 Un fait surprenant est que le single "Lovefool" extrait de l'album [[First Band on the Moon]], sorti en 1996, a été propulsé à la renommée mondiale grâce à sa présence dans la bande originale du film [[Roméo + Juliette]] de [[Baz Luhrmann]].
 
 Un record peu connu est que [[The Cardigans]] ont la particularité d'avoir vendu plus de disques aux [[États-Unis]] qu'à [[Suède]], leur pays d'origine, un exploit rare pour un groupe suédois de cette époque.
+
+###### Archives questions
+
+Avec quels artistes les [[The Cardigans]] ont-ils collaboré en 1997 sur la chanson "[[Burning Down the House]]" pour l'album "A Tonic for the Troops" inspiré par les [[Talking Heads]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe, mené par la chanteuse [[Nina Persson]], a sorti en 1998 l'album "Gran Turismo" qui contient le titre "Erase/Rewind" largement utilisé dans la série télévisée [[Charmed]] ? <!-- cm003 remplacée 2026-11-23 -->

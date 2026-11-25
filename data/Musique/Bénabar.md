@@ -30,11 +30,11 @@ culture_g_justification: "Chanteur populaire de la chanson française, réguliè
 
 ###### Questions
 
-Quel chanteur, connu sous le nom de scène [[Bénabar]], a sorti son premier album intitulé "La Petite Monnaie" en 2001 ?   
+Quel chanteur a sorti en 2001 l'album « La P'tite Monnaie » ?
 
-Quel artiste français, ayant intégré le collectif Les [[Enfoirés]] en 2007, a contribué à des œuvres caritatives en participant à leurs concerts ?   
+Quel chanteur a connu le succès en 2005 avec « Le Dîner » ?
 
-Quel chanteur a obtenu le prix de la révélation de l'année aux [[Victoires de la Musique]] en 2004 pour son album "[[Les Risques du Métier]]" ?
+Quel chanteur a sorti en 2003 l'album « Les Risques du métier », qui contient « Y'a une fille qu'habite chez moi » ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Il débute sa carrière dans le cinéma avant de se tourner vers la musique avec
 Un fait étonnant est que [[Bénabar]] a remporté le prix de la chanson originale de l'année aux Victoires de la Musique en 2007 pour son titre "Le Dîner", une chanson qui décrit le quotidien avec humour, un style qui lui est caractéristique. 
 
 Peu de gens savent que sa carrière artistique a commencé dès l'enfance lorsqu'il intégrait la troupe d'un cirque de rue, ce qui a certainement influencé sa vision décalée des choses que l'on retrouve dans ses textes.
+
+###### Archives questions
+
+Quel chanteur, connu sous le nom de scène [[Bénabar]], a sorti son premier album intitulé "La Petite Monnaie" en 2001 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste français, ayant intégré le collectif Les [[Enfoirés]] en 2007, a contribué à des œuvres caritatives en participant à leurs concerts ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur a obtenu le prix de la révélation de l'année aux [[Victoires de la Musique]] en 2004 pour son album "[[Les Risques du Métier]]" ? <!-- cm003 remplacée 2026-11-23 -->

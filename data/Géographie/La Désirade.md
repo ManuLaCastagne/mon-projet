@@ -32,11 +32,9 @@ culture_g_justification: "Île secondaire de l’archipel guadeloupéen, La Dés
 ![[Carte_La Désirade.png]]
 ###### Questions
 
-Quelle île française des [[Petites Antilles]] a été découverte par [[Christophe Colomb]] en 1493 lors de son deuxième voyage vers le Nouveau Monde ?
+Quelle île de l'archipel guadeloupéen a servi de léproserie pendant plus de deux siècles ?
 
-Quelle île de l'archipel de la [[Guadeloupe]] possède un [[sémaphore]] construit en 1952 devenu un point d'observation pour surveiller l'activité maritime ? <!-- score: 4 -->
-
-Quel territoire de [[La Désirade]] abrite la réserve naturelle géologique créée en 1996, réputée pour ses fossiles d'[[oursins]] datant du [[Miocène]] ?
+Quelle île de la [[Guadeloupe]] abrite depuis 2011 une réserve naturelle nationale géologique protégeant des roches parmi les plus anciennes des Petites Antilles ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Sa géographie est marquée par sa forme allongée de 11 kilomètres de long et 
 Un fait étonnant est que l'île abrite la réserve naturelle de [[Petite-Terre]], créée en 1998, qui abrite l'un des plus impressionnants écosystèmes de la région, y compris une population d'iguanes antillais. 
 
 Cette dernière est devenue un lieu de protection pour ces espèces, dont les ancêtres peuplaient l'île depuis l'époque précolombienne, soit avant l'année 1493 lorsque [[Christophe Colomb]] découvrit la région.
+
+###### Archives questions
+
+Quel territoire de [[La Désirade]] abrite la réserve naturelle géologique créée en 1996, réputée pour ses fossiles d'[[oursins]] datant du [[Miocène]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle île française des [[Petites Antilles]] a été découverte par [[Christophe Colomb]] en 1493 lors de son deuxième voyage vers le Nouveau Monde ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle île de l'archipel de la [[Guadeloupe]] possède un [[sémaphore]] construit en 1952 devenu un point d'observation pour surveiller l'activité maritime ? <!-- score: 4 --> <!-- cm003 archivée 2026-11-23 -->

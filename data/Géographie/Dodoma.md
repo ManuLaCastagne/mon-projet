@@ -30,12 +30,18 @@ culture_g_justification: "Capitale nationale pouvant tomber dans des questions d
 ![[Carte_Dodoma.png]]
 ###### Questions
 
-Quelle ville est devenue la capitale officielle de la [[Tanzanie]] en 1996, remplaçant [[Dar es Salaam]] ?  
+Quelle ville, désignée capitale de la [[Tanzanie]] en 1973, accueille le Parlement depuis 1996 ?
 
-Dans quelle ville africaine a été fondée l'Université de [[Dodoma]], l'une des plus grandes universités de l'est de l'Afrique, en 2007 ?
-
-Quelle ville tanzanienne connue pour abriter la résidence présidentielle appelée [[Ikulu]] se situe à 486 mètres d'altitude sur le plateau du [[Dodoma]] ?
+Quelle ville est le centre de la principale région viticole de [[Tanzanie]] ?
 
 ###### Description
 
 [[Dodoma]] est la capitale officielle de la [[Tanzanie]] depuis 1996, bien que le transfert des fonctions gouvernementales ait commencé dès 1974. Située au cœur du pays, à environ 486 kilomètres à l'ouest de [[Dar es Salaam]], Dodoma remplace cette dernière en tant que centre politique pour mieux centraliser le gouvernement. La ville abrite le [[Parlement tanzanien]] et se distingue par sa position dans une région semi-aride, favorisant des cultures telles que les arachides et le raisin. Fondée en 1907 par les colons allemands lors de la construction du [[chemin de fer central]], Dodoma s'est progressivement développée pour devenir un centre administratif et économique régional.
+
+###### Archives questions
+
+Dans quelle ville africaine a été fondée l'Université de [[Dodoma]], l'une des plus grandes universités de l'est de l'Afrique, en 2007 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle ville tanzanienne connue pour abriter la résidence présidentielle appelée [[Ikulu]] se situe à 486 mètres d'altitude sur le plateau du [[Dodoma]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville est devenue la capitale officielle de la [[Tanzanie]] en 1996, remplaçant [[Dar es Salaam]] ? <!-- cm003 remplacée 2026-11-23 -->

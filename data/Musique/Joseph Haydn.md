@@ -29,11 +29,11 @@ culture_g_justification: "Compositeur classique fondamental, associé à la symp
 
 ###### Questions
 
-Dans quel pays [[Joseph Haydn]] a-t-il composé la majorité de ses [[Symphonies de Londres]] en 1791 et 1792? <!-- score: 4 -->
+Quel compositeur écrivit ses douze symphonies « londoniennes » lors de deux séjours en Angleterre, en 1791-1792 et 1794-1795 ?
 
-Quel compositeur classique, né en 1732, est souvent surnommé le « [[père de la symphonie]] » et a influencé des génies comme [[Wolfgang Amadeus Mozart]] et [[Ludwig van Beethoven]]? 
+Quel compositeur né en 1732, surnommé le « père de la symphonie », fut le professeur de [[Ludwig van Beethoven]] ?
 
-Quel célèbre compositeur autrichien, mort en 1809, est connu pour sa vaste contribution au développement du [[quatuor à cordes]]?
+Quel compositeur autrichien écrivit le quatuor « L'Empereur », dont une mélodie devint l'hymne allemand ?
 
 Quel compositeur autrichien réalisa la symphonie "[[Les Adieux]]" à la fin de laquelle les instrumentistes cessent de jouer les uns après les autres ?
 
@@ -46,3 +46,11 @@ Il a passé une grande partie de sa carrière au service de la famille [[Esterh�
 Un fait étonnant à propos de [[Haydn]] est qu'il a écrit 104 symphonies, un chiffre impressionnant qui, selon beaucoup, établit un record pour le plus grand nombre de symphonies composées par un seul individu au XVIIIe siècle.
 
 Il est décédé en 1809, mais son influence perdure encore aujourd'hui, étant souvent associé au développement du quatuor à cordes ainsi qu’à l'évolution de la musique classique en général.
+
+###### Archives questions
+
+Dans quel pays [[Joseph Haydn]] a-t-il composé la majorité de ses [[Symphonies de Londres]] en 1791 et 1792? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel compositeur classique, né en 1732, est souvent surnommé le « [[père de la symphonie]] » et a influencé des génies comme [[Wolfgang Amadeus Mozart]] et [[Ludwig van Beethoven]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre compositeur autrichien, mort en 1809, est connu pour sa vaste contribution au développement du [[quatuor à cordes]]? <!-- cm003 remplacée 2026-11-23 -->

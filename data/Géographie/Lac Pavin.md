@@ -32,11 +32,11 @@ culture_g_justification: "Lac volcanique français doté de quelques particulari
 ![[Carte_Lac Pavin.png]]
 ###### Questions
 
-Quelle étendue d'eau, située dans le département du [[Puy-de-Dôme]], est un lac de cratère formé il y a environ 7000 ans?
+Quel lac du [[Puy-de-Dôme]] occupe le cratère du plus jeune volcan de France métropolitaine, formé il y a environ 7 000 ans ?
 
-Quel lac français est réputé pour sa forme circulaire parfaite et ses légendes mystérieuses, dont celle du "dragon du [[Lac Pavin]]"?
+Quel lac auvergnat est méromictique, ses eaux profondes ne se mélangeant jamais avec celles de surface ?
 
-Lequel parmi les lacs des [[Monts Dore]] culmine à une altitude de 1197 mètres et est entouré par une légende selon laquelle il serait sans fond et connecté à d'autres lacs d'Europe?
+Quel lac proche de [[Besse-et-Saint-Anastaise]] passait pour sans fond, avant que sa profondeur ne soit mesurée à environ 92 mètres ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Ce lac rond, dont le diamètre atteint environ 750 mètres, est le plus profond 
 Un fait étonnant est que le [[Lac Pavin]] est souvent qualifié de meromictique, signifiant que ses eaux profondes ne se mélangent pas avec les eaux de surface, un phénomène rare pour un lac en [[Europe]]. 
 
 En 1943, le géographe [[Henri Birot]] fut le premier à documenter ce phénomène en détails, contribuant ainsi à l'intérêt scientifique continu pour ce lieu.
+
+###### Archives questions
+
+Quel lac français est réputé pour sa forme circulaire parfaite et ses légendes mystérieuses, dont celle du "dragon du [[Lac Pavin]]"? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle étendue d'eau, située dans le département du [[Puy-de-Dôme]], est un lac de cratère formé il y a environ 7000 ans? <!-- cm003 remplacée 2026-11-23 -->
+
+Lequel parmi les lacs des [[Monts Dore]] culmine à une altitude de 1197 mètres et est entouré par une légende selon laquelle il serait sans fond et connecté à d'autres lacs d'Europe? <!-- cm003 remplacée 2026-11-23 -->

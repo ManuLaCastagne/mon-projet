@@ -29,11 +29,11 @@ culture_g_justification: "Chanson de Queen universellement célèbre, riche en q
 
 ###### Questions
 
-En quelle année la chanson [[Bohemian Rhapsody]] du groupe [[Queen]] a-t-elle été initialement publiée ? 
+Quel titre de [[Queen]], paru en single en 1975, enchaîne ballade, passage d'opéra et hard rock en près de six minutes ?
 
-Quel titre du groupe [[Queen]] est devenu le single de rock progressif le plus vendu de tous les temps après sa sortie en 1975 ?
+Quel titre de [[Queen]] a été numéro un des ventes au Royaume-Uni à Noël 1975, puis de nouveau à Noël 1991 ?
 
-Quel morceau du groupe [[Queen]], avec son célèbre opéra rock, a réintégré les hit-parades en 1992 après avoir été utilisé dans le film [[Wayne's World]] ?
+Quel morceau de [[Queen]] est chanté en voiture, tête secouée, dans le film [[Wayne's World]] en 1992 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Composée par [[Freddie Mercury]], cette œuvre est célèbre pour sa structure 
 Un fait étonnant que peu de gens connaissent est que [[Bohemian Rhapsody]] a été la première chanson à atteindre la première place des charts britanniques à deux reprises, d'abord en 1975 puis en 1991, après la mort de [[Freddie Mercury]]. 
 
 Malgré sa longue durée de près de six minutes, souvent considérée comme un frein potentiel pour les diffusions radio, la chanson est devenue un succès mondial et reste à ce jour l'un des morceaux les plus aimés et reconnaissables du répertoire musical.
+
+###### Archives questions
+
+En quelle année la chanson [[Bohemian Rhapsody]] du groupe [[Queen]] a-t-elle été initialement publiée ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel titre du groupe [[Queen]] est devenu le single de rock progressif le plus vendu de tous les temps après sa sortie en 1975 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel morceau du groupe [[Queen]], avec son célèbre opéra rock, a réintégré les hit-parades en 1992 après avoir été utilisé dans le film [[Wayne's World]] ? <!-- cm003 remplacée 2026-11-23 -->

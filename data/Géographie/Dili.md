@@ -30,12 +30,20 @@ culture_g_justification: "Capitale d’un jeune État fréquemment mobilisée da
 ![[Carte_Dili.png]]
 ###### Questions
 
-Quelle est la capitale de la nation nouvellement indépendante [[Timor oriental]] depuis 2002 ?
+Quelle ville portuaire est la capitale du [[Timor oriental]], indépendant depuis 2002 ?
 
-Dans quel pays [[asiatique]] de langue majoritairement portugais se trouve la ville de [[Dili]] ?
+Quelle capitale asiatique est dominée par une statue du Christ-Roi haute de 27 mètres, offerte par l'[[Indonésie]] en 1996 ?
 
-Lors de l'événement [[Referendum pour l'indépendance du Timor oriental]] en 1999, quelle ville a été choisie comme capitale de l'État ayant accédé à l'indépendance en 2002 ?
+Dans quelle ville l'armée indonésienne a-t-elle perpétré le massacre du cimetière de Santa Cruz, en novembre 1991 ?
 
 ###### Description
 
 [[Dili]], la capitale du [[Timor oriental]], est située sur la côte nord de l'île de [[Timor]] dans l'archipel indonésien. En 2002, elle est devenue la capitale du pays lorsque le [[Timor oriental]] a officiellement obtenu son indépendance de l'[[Indonésie]] après une période sous occupation indonésienne débutée en 1975. La ville est connue pour sa [[Cathédrale de l'Immaculée Conception]], l'une des plus grandes cathédrales d'Asie du Sud-Est. [[Dili]] est également le siège de l'[[Université nationale du Timor oriental]], fondée en 2000, et joue un rôle central dans le développement éducatif du pays.
+
+###### Archives questions
+
+Dans quel pays [[asiatique]] de langue majoritairement portugais se trouve la ville de [[Dili]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la capitale de la nation nouvellement indépendante [[Timor oriental]] depuis 2002 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Lors de l'événement [[Referendum pour l'indépendance du Timor oriental]] en 1999, quelle ville a été choisie comme capitale de l'État ayant accédé à l'indépendance en 2002 ? <!-- cm003 remplacée 2026-11-23 -->

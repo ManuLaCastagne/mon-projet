@@ -32,11 +32,11 @@ culture_g_justification: "Mer russe connue surtout pour le canal et les îles So
 ![[Carte_Mer Blanche.png]]
 ###### Questions
 
-Quelle mer relie les côtes de la [[Russie]] au [[nord-ouest]] de la [[Sibérie]] et joue un rôle clé dans la navigation grâce au [[Canal de la mer Blanche]] achevé en 1933 ?
+Quelle mer est reliée au lac Onega, et de là à la [[mer Baltique]], par un canal achevé en 1933 par des détenus du [[Goulag]] ?
 
-Quel est le nom du plan d'eau où se jettent des rivières comme la [[Dvina septentrionale]] et qui a été une zone stratégique lors de la [[deuxième guerre mondiale]] pour le transport de matériel allié vers la [[Union soviétique]] ?
+Dans quelle mer se jette la [[Dvina septentrionale]], à [[Arkhangelsk]] ?
 
-Quelle mer située au nord-ouest de la [[Russie]] est connue pour ses conditions climatiques extrêmes et abrite des îles comme [[Solovetsky]], classées au [[patrimoine mondial de l'UNESCO]] depuis 1992 ?
+Dans quelle mer se trouve l'archipel des [[îles Solovetsky]], dont le monastère est inscrit au patrimoine mondial de l'UNESCO depuis 1992 ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Elle s'étend sur une superficie d'environ 90 000 kilomètres carrés et est ent
 Un fait étonnant au sujet de la Mer Blanche est qu'elle est le terrain d'entraînement de la flotte du Nord de la marine russe depuis 1733, connue pour ses exercices de navigation et ses tests d'armements, y compris ceux dédiés à la dissuasion nucléaire.
 
 En 1933, le canal de la Mer Blanche, également connu sous le nom de [[Belomorkanal]], a été ouvert, reliant cette mer aux grands axes de navigation intérieure de Russie et marquant une prouesse d'ingénierie des années 1930, construite en seulement 20 mois.
+
+###### Archives questions
+
+Quelle mer relie les côtes de la [[Russie]] au [[nord-ouest]] de la [[Sibérie]] et joue un rôle clé dans la navigation grâce au [[Canal de la mer Blanche]] achevé en 1933 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle mer située au nord-ouest de la [[Russie]] est connue pour ses conditions climatiques extrêmes et abrite des îles comme [[Solovetsky]], classées au [[patrimoine mondial de l'UNESCO]] depuis 1992 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du plan d'eau où se jettent des rivières comme la [[Dvina septentrionale]] et qui a été une zone stratégique lors de la [[deuxième guerre mondiale]] pour le transport de matériel allié vers la [[Union soviétique]] ? <!-- cm003 remplacée 2026-11-23 -->

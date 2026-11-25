@@ -33,11 +33,9 @@ culture_g_justification: "Station balnéaire française connue pour son vin, mai
 ![[Carte_Bandol.png]]
 ###### Questions
 
-Quelle ville française, célèbre pour ses vins à l'appellation d'origine contrôlée depuis 1941, est située sur la côte méditerranéenne dans le [[département du Var]] ? <!-- score: 6 -->
+Quelle commune du [[Var]], entre [[Sanary-sur-Mer]] et [[Saint-Cyr-sur-Mer]], donne son nom à un vignoble AOC depuis 1941, dont les rouges reposent sur le mourvèdre ?
 
-Quel port de plaisance, se trouvant entre [[Marseille]] et [[Toulon]], est renommé pour ses plages et ses activités nautiques, attirant les touristes depuis le XIXe siècle ?
-
-Quelle commune, mentionnée pour la première fois en [[Bandol]] dans un document de [[Bandol]] datant de [[Bandol au XIXe siècle]], s'est développée grâce à la production de vin et à l'exploitation de la pêche ?
+Quelle station balnéaire fait face à l'île de [[Bendor]], achetée en 1950 par [[Paul Ricard]] ?
 
 ###### Description
 
@@ -48,3 +46,11 @@ Elle a été fondée en 1595, ce qui en fait une ville riche en histoire et en p
 Les amateurs de vin connaissent [[Bandol]] pour ses vins AOC, notamment ses rouges puissants et ses rosés réputés ; en effet, le premier vin AOC de [[Bandol]] a été reconnu en 1941. 
 
 Fait étonnant : [[Bandol]] a abrité le tout premier casino permanent de la Côte d'Azur, ouvert en 1934, un attrait qui a contribué à sa réputation de destination touristique prestigieuse.
+
+###### Archives questions
+
+Quelle commune, mentionnée pour la première fois en [[Bandol]] dans un document de [[Bandol]] datant de [[Bandol au XIXe siècle]], s'est développée grâce à la production de vin et à l'exploitation de la pêche ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle ville française, célèbre pour ses vins à l'appellation d'origine contrôlée depuis 1941, est située sur la côte méditerranéenne dans le [[département du Var]] ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel port de plaisance, se trouvant entre [[Marseille]] et [[Toulon]], est renommé pour ses plages et ses activités nautiques, attirant les touristes depuis le XIXe siècle ? <!-- cm003 remplacée 2026-11-23 -->

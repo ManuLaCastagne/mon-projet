@@ -29,7 +29,7 @@ culture_g_justification: "Figure littéraire sulfureuse associée au sadisme, à
 
 ###### Questions
 
-En quelle année la chanson du groupe [[Soft Cell]] intitulée « [[Seedy Films]] » mentionnant [[Marquis de Sade]] est-elle sortie ? (1989)
+Quel écrivain rédigea en 1785, emprisonné à la Bastille, « Les Cent Vingt Journées de Sodome » ?
 
 ###### Description
 
@@ -40,3 +40,7 @@ Il est né le 2 juin 1740 à [[Paris]] et est surtout connu pour ses romans lice
 Fait étonnant, le Marquis de Sade a passé plus de 30 ans de sa vie incarcéré, et il a même écrit certaines de ses œuvres les plus célèbres lorsqu'il était emprisonné à la [[Bastille]] et à l'[[asile de Charenton]].
 
 Bien que son œuvre ait été controversée et souvent censurée, son influence sur la littérature moderne est indéniable, et il continue d'être un sujet d'étude et de fascination.
+
+###### Archives questions
+
+En quelle année la chanson du groupe [[Soft Cell]] intitulée « [[Seedy Films]] » mentionnant [[Marquis de Sade]] est-elle sortie ? (1989) <!-- cm003 remplacée 2026-11-23 -->

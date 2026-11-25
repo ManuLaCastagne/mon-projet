@@ -29,11 +29,11 @@ culture_g_justification: "Johann Strauss II et Le Beau Danube bleu sont des réf
 
 ###### Questions
 
-Dans quelle ville est né [[Johann Strauss]], célèbre compositeur autrichien souvent associé à la valse, en [[Vienne]] en 1825 ? 
+Quel compositeur viennois, né en 1825, était surnommé le « roi de la valse » ?
 
-Quel compositeur a dirigé pour la première fois ses œuvres lors de l'exposition universelle de [[Paris]] en 1867, consolidant ainsi sa renommée internationale ? 
+Quel compositeur a créé à Vienne en 1874 l'opérette « [[La Chauve-Souris]] » ?
 
-Qui est l'auteur du célèbre de la valse "Le Beau Danube bleu", créée en 1867 à [[Vienne]] ?
+Quel compositeur dirigea ses valses à l'Exposition universelle de [[Paris]] en 1867, où « Le Beau Danube bleu » connut un triomphe ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Fils de [[Johann Strauss I]], il a surmonté l'opposition de son père pour deve
 Parmi ses œuvres célèbres, on retrouve "Le Beau Danube Bleu", composé en 1867, qui symbolise la quintessence de la musique viennoise. 
 
 Un fait étonnant est qu'en 1874, année de la première de son opérette "La Chauve-Souris", Johann Strauss a dirigé un orchestre de plus de 100 musiciens lors d'un bal à Boston, établissant ainsi un record pour l'époque en termes de taille d'orchestre dirigée par un seul conducteur.
+
+###### Archives questions
+
+Dans quelle ville est né [[Johann Strauss]], célèbre compositeur autrichien souvent associé à la valse, en [[Vienne]] en 1825 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel compositeur a dirigé pour la première fois ses œuvres lors de l'exposition universelle de [[Paris]] en 1867, consolidant ainsi sa renommée internationale ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui est l'auteur du célèbre de la valse "Le Beau Danube bleu", créée en 1867 à [[Vienne]] ? <!-- cm003 remplacée 2026-11-23 -->

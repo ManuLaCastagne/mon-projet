@@ -32,11 +32,11 @@ culture_g_justification: "Village auvergnat connu pour son abbaye et son festiva
 ![[Carte_Chaise-Dieu.png]]
 ###### Questions
 
-Quelle abbaye française, construite en 1043 par [[Robert de Turlande]], est située dans la région connue pour ses festivals annuels de musique sacrée diversifiée?
+Quelle abbaye fut fondée en 1043 par [[Robert de Turlande]] sur un plateau du Livradois ?
 
-Quel village auvergnat est connu pour abriter l'abbaye où repose le cœur de [[Catherine de Médicis]], morte en 1589, l'épouse du roi [[Henri II]] de France?
+Dans quelle abbaye auvergnate repose le pape [[Clément VI]], qui y avait été moine ?
 
-Quelle localité auvergnate est devenue célèbre pour son Festival de [[La Chaise-Dieu]], un événement musical fondé en 1966 par [[Georges Cziffra]] et qui attire d'innombrables amateurs de musique classique?
+Quelle abbatiale de [[Haute-Loire]] conserve une fresque de la Danse macabre peinte au XVe siècle ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Réputée pour son abbaye bénédictine fondée en 1043 par [[Robert de Turlande
 Un fait étonnant est que la [[dalle funéraire]] de [[Clement VI]], Pape français originaire de la région, est conservée ici, ce qui en fait l'une des rares tombes papales situées hors de [[Vatican]].
 
 Par ailleurs, l'église abbatiale de [[La Chaise-Dieu]] possède une mystérieuse fresque de la [[Danse Macabre]], bien conservée malgré les ravages du temps, qui date du [[XVe siècle]].
+
+###### Archives questions
+
+Quelle localité auvergnate est devenue célèbre pour son Festival de [[La Chaise-Dieu]], un événement musical fondé en 1966 par [[Georges Cziffra]] et qui attire d'innombrables amateurs de musique classique? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle abbaye française, construite en 1043 par [[Robert de Turlande]], est située dans la région connue pour ses festivals annuels de musique sacrée diversifiée? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel village auvergnat est connu pour abriter l'abbaye où repose le cœur de [[Catherine de Médicis]], morte en 1589, l'épouse du roi [[Henri II]] de France? <!-- cm003 remplacée 2026-11-23 -->

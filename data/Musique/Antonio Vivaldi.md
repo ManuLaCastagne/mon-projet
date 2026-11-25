@@ -29,11 +29,11 @@ culture_g_justification: "Vivaldi est un compositeur baroque incontournable, tr�
 
 ###### Questions
 
-Dans quelle ville naît [[Antonio Vivaldi]], célèbre compositeur, en 1678 ?
+Quel compositeur enseigna la musique aux orphelines de l'Ospedale della Pietà de [[Venise]] ?
 
-Quel célèbre compositeur [[baroque]] est ordonné prêtre en 1703, lui valant le surnom de "Il Prete Rosso" en raison de sa chevelure rousse ?
+Quel compositeur baroque, ordonné prêtre en 1703, était surnommé « il Prete rosso » en raison de sa chevelure ?
 
-Quel compositeur réputé a révolutionné le genre du [[concerto]] à partir de l’année 1711 avec sa série de concertos intitulée "L'estro armonico" ?
+Quel compositeur publia à Amsterdam en 1711 le recueil de concertos « L'estro armonico » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Célèbre pour ses œuvres baroques, Vivaldi est surtout reconnu pour les "Quatr
 Un fait étonnant à propos de [[Vivaldi]] est qu'il a composé plus de 500 concertos et a ainsi joué un rôle essentiel dans le développement de cette forme musicale, fait peu connu du grand public. 
 
 Bien que très influent de son vivant, [[Antonio Vivaldi]] est mort dans l'oubli à [[Vienne]] en 1741, avant de voir sa musique redécouverte et célébrée au XXe siècle.
+
+###### Archives questions
+
+Dans quelle ville naît [[Antonio Vivaldi]], célèbre compositeur, en 1678 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel compositeur réputé a révolutionné le genre du [[concerto]] à partir de l’année 1711 avec sa série de concertos intitulée "L'estro armonico" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre compositeur [[baroque]] est ordonné prêtre en 1703, lui valant le surnom de "Il Prete Rosso" en raison de sa chevelure rousse ? <!-- cm003 remplacée 2026-11-23 -->

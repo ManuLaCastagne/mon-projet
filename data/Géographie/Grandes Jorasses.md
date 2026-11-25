@@ -32,11 +32,11 @@ culture_g_justification: "Sommet alpin prestigieux mais spécialisé, surtout in
 ![[Carte_Grandes Jorasses.png]]
 ###### Questions
 
-Quel massif montagneux abrite le sommet des [[Grandes Jorasses]], célèbre pour sa face nord, considéré comme l'un des six "grands problèmes des Alpes"?
+Quel sommet franco-italien possède l'une des six faces nord classiques des Alpes, avec celles de l'[[Eiger]] et du [[Cervin]] ?
 
-En quelle année a eu lieu la première ascension de la face nord des [[Grandes Jorasses]], un défi majeur de la grimpe alpine?
+Sur quelle montagne [[Riccardo Cassin]] réussit-il en 1938 la première ascension de l'éperon Walker ?
 
-Quel sommet, situé à la frontière entre la France et l'[[Italie]], fait partie du massif du [[Mont Blanc]] et est réputé pour son imposante face nord appelée [[Walker Spur]]?
+Quel sommet de la frontière franco-italienne culmine à 4 208 mètres à la pointe Walker ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Le point culminant, la [[Pointe Walker]], atteint une altitude de 4 208 mètres 
 Fait étonnant : l'impressionnante face nord des Grandes Jorasses est considérée comme l'une des plus redoutables des [[Alpes]] et a été surnommée "la paroi des parois" par les alpinistes, ce qui en fait l'un des trois grands murs nord des Alpes, aux côtés de l'[[Eiger]] et du [[Matterhorn]]. 
 
 Un autre sommet, la [[Pointe Croz]], a été nommé en l'honneur du guide français [[Michel Croz]], tristement célèbre pour sa participation à l'ascension désastreuse du [[Matterhorn]] en 1865.
+
+###### Archives questions
+
+Quel massif montagneux abrite le sommet des [[Grandes Jorasses]], célèbre pour sa face nord, considéré comme l'un des six "grands problèmes des Alpes"? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année a eu lieu la première ascension de la face nord des [[Grandes Jorasses]], un défi majeur de la grimpe alpine? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel sommet, situé à la frontière entre la France et l'[[Italie]], fait partie du massif du [[Mont Blanc]] et est réputé pour son imposante face nord appelée [[Walker Spur]]? <!-- cm003 remplacée 2026-11-23 -->
