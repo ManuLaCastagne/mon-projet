@@ -36,4 +36,4 @@ Quel acteur, également à l’affiche du film [[La Leçon de piano]] de [[Jane 
 
 Il est surtout connu pour son rôle emblématique du [[Dr. Alan Grant]] dans le film de [[Steven Spielberg]], [[Jurassic Park]] (1993), aux côtés de [[Laura Dern]] et [[Jeff Goldblum]].
 
-Parmi ses autres films notables figurent [[Calme blanc]] (1989), réalisé par [[Phillip Noyce]] et produit par l'[[Australie]], ainsi que [[la Leçon de piano]] (1993), réalisé par [[Jane Campion]] et récompensé par la [[Palme d'Or]] au [[Festival de Cannes]]. [[Sam Neill]] a également joué dans [[Hunt for the Wilderpeople]] (2016), réalisé par [[Taika Waititi]], lequel a battu des records d'entrées en [[Nouvelle-Zélande]].
+Parmi ses autres films notables figurent [[Calme blanc]] (1989), réalisé par [[Phillip Noyce]] et produit par l'[[Australie]], ainsi que [[La Leçon de piano|la Leçon de piano]] (1993), réalisé par [[Jane Campion]] et récompensé par la [[Palme d'Or]] au [[Festival de Cannes]]. [[Sam Neill]] a également joué dans [[Hunt for the Wilderpeople]] (2016), réalisé par [[Taika Waititi]], lequel a battu des records d'entrées en [[Nouvelle-Zélande]].

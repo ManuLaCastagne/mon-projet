@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Elise Lucet"
 tags: 
   - Télévision
   - France
@@ -23,6 +25,7 @@ questions:
  - Depuis 2012, quelle journaliste ayant présenté pendant 11 ans le "13 heures" de France anime l'émission "Cash investigation"?
 culture_g_score: 80
 culture_g_justification: "Journaliste majeure de la télévision française, associée à l’investigation, au service public et à plusieurs émissions très connues."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Elise Lucet](https://upload.wikimedia.org/wikipedia/commons/3/3c/Elise_Lucet_2015_%28cropped%29.jpg)
 

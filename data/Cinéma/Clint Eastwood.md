@@ -28,6 +28,7 @@ questions:
  - En 1972, dans le film "Un Frisson dans la nuit", quel acteur incarne un programmateur...
 culture_g_score: 100
 culture_g_justification: "Icône mondiale du western et du cinéma américain, offrant de très nombreux angles sur Leone, la réalisation, les Oscars et ses classiques."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Clint Eastwood](https://upload.wikimedia.org/wikipedia/commons/7/7e/Clint_Eastwood_at_2010_New_York_Film_Festival.jpg)
 

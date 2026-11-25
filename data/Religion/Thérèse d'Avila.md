@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Sainte-Thérèse-d'Avila"
 tags:
   - Religion
   - Espagne
@@ -20,6 +22,7 @@ indice_6:
   - Réformatrice de l'ordre carmélitain
 culture_g_score: 72
 culture_g_justification: "Réformatrice du Carmel, mystique et auteure du Château intérieur, Thérèse d’Avila est une référence solide en religion, littérature et art."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Sainte-Thérèse-d'Avila](https://upload.wikimedia.org/wikipedia/commons/1/1d/%28Albi%29_Coll%C3%A9giale_Saint-Salvy_-_Statue_de_sainte_Th%C3%A9r%C3%A8se_d%27Avila_PalissyPM81000455.jpg)
 
@@ -35,13 +38,13 @@ Quelle sainte catholique, figure centrale de la [[Contre-Réforme]], a été can
 
 ###### Description
 
-[[Sainte-Thérèse-d'Avila]], née en 1515 à [[Ávila]], en [[Espagne]], est une figure majeure de la mystique chrétienne et réformatrice de l'ordre du [[Carmel]]. 
+[[Thérèse d'Avila|Sainte-Thérèse-d'Avila]], née en 1515 à [[Ávila]], en [[Espagne]], est une figure majeure de la mystique chrétienne et réformatrice de l'ordre du [[Carmel]]. 
 
 Elle a vécu au XVIe siècle et est connue pour sa profonde spiritualité et ses visions mystiques, ayant été canonisée en 1622 par le pape [[Grégoire XV]]. 
 
 Un fait étonnant à propos de [[Thérèse]] est qu'elle fut la première femme nommée [[Docteure de l'Église]], titre que lui conféra [[Paul VI]] en 1970, plus de 450 ans après sa naissance. 
 
-En plus de ses écrits spirituels, [[Sainte-Thérèse-d'Avila]] est aussi notable pour avoir fondé 17 couvents de carmélites réformées de son vivant.
+En plus de ses écrits spirituels, [[Thérèse d'Avila|Sainte-Thérèse-d'Avila]] est aussi notable pour avoir fondé 17 couvents de carmélites réformées de son vivant.
 
 ###### Archives questions
 
@@ -53,6 +56,6 @@ En quelle sainte catholique, reconnue comme l'une des figures centrales lors de 
 
 ###### Archives description
 
-[[Sainte-Thérèse-d'Avila]], née en 1515 à [[Gotarrendura]], près d'[[Avila]], en [[Espagne]], est une figure majeure de la mystique chrétienne et réformatrice de l'ordre du [[Carmel]]. <!-- cm034 corrigée 2026-11-25 -->
+[[Thérèse d'Avila|Sainte-Thérèse-d'Avila]], née en 1515 à [[Gotarrendura]], près d'[[Avila]], en [[Espagne]], est une figure majeure de la mystique chrétienne et réformatrice de l'ordre du [[Carmel]]. <!-- cm034 corrigée 2026-11-25 -->
 
 Un fait étonnant à propos de [[Thérèse]] est qu'elle est l'une des rares femmes à avoir été nommée [[Docteure de l'Église]], titre qu'elle a reçu en 1970, plus de 450 ans après sa naissance. <!-- cm034 corrigée 2026-11-25 -->

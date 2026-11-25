@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Appel de la Forêt"
 tags: 
   - Littérature
   - Jack_London
@@ -24,6 +26,7 @@ questions:
  - En 1903, quel roman de Jack London a pour héros un chien de traîneau nommé Buck ?
 culture_g_score: 80
 culture_g_justification: "Roman d’aventure très connu de Jack London, relié à la littérature américaine, au Klondike et au thème de la nature sauvage."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Appel de la Forêt](https://upload.wikimedia.org/wikipedia/commons/e/ea/Appel_de_la_For%C3%AAt.JPG)
 

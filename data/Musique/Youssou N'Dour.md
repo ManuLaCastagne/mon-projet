@@ -24,6 +24,7 @@ questions:
  - Artiste sénégalais interprète en 1994 avec Neneh Cherry, du tube "Seven Seconds", en 2012, j'ai été nommé ministre de la Culture et du Tourisme dans mon...
 culture_g_score: 80
 culture_g_justification: "Artiste africain majeur, utile pour le mbalax, la world music, les collaborations internationales et la Coupe du monde 1998."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Youssou N'Dour](https://upload.wikimedia.org/wikipedia/commons/3/33/YoussouNdour20090913.jpg)
 

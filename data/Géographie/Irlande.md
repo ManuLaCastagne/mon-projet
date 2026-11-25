@@ -28,6 +28,7 @@ questions:
  - En décembre 1921, à quel Etat le traité de Londres donne-t-il naissance ?
 culture_g_score: 80
 culture_g_justification: "Pays européen très présent dans les quiz par son histoire, sa littérature, sa géographie, sa culture et la question de la partition de l’île."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Irlande](https://upload.wikimedia.org/wikipedia/commons/3/3c/Irlande1.jpg)
 

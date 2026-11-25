@@ -28,7 +28,7 @@ culture_g_justification: "Présentatrice du journal de 13 heures de TF1, elle pe
 
 ###### Questions
 
-Journaliste née à [[Villefranche-de-Rouergue]] en 1975, je rentre à France 3 Midi-Pyrénées en tant que reporter en 2002. Devenue la remplaçante de [[Carole Gaessler]] au 19/20 national en 2010, je succède à [[Elise Lucet]] à la présentation du 13 heures...
+Journaliste née à [[Villefranche-de-Rouergue]] en 1975, je rentre à France 3 Midi-Pyrénées en tant que reporter en 2002. Devenue la remplaçante de [[Carole Gaessler]] au 19/20 national en 2010, je succède à [[Élise Lucet|Elise Lucet]] à la présentation du 13 heures...
 
 Qui a été la présentatrice du [[13 heures]] de [[France 2]] avant de rejoindre [[TF1]] en 2021 ?
 ###### Description

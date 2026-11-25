@@ -22,6 +22,7 @@ questions:
  - En 1992, dans quel film d'Oliver Stone Kevin Costner incarne le procureur Garrison, qui enquête  sur l'assassinat du président américain ?
 culture_g_score: 100
 culture_g_justification: "Kennedy est un marronnier majeur grâce à la guerre froide, la crise de Cuba, l’assassinat, Berlin, la conquête spatiale et la politique américaine."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de John Fitzgerald Kennedy](https://upload.wikimedia.org/wikipedia/commons/2/21/John_F_Kennedy_Official_Portrait.jpg)
 

@@ -28,6 +28,7 @@ questions:
  - Communiquant avec la Méditerranée à travers la mer de Marmara par les détroits du Bosphore et des Dardanelles.
 culture_g_score: 80
 culture_g_justification: "Mer stratégique fréquemment liée à la géographie européenne, à la Russie, à la Crimée et à plusieurs conflits."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Mer Noire](https://upload.wikimedia.org/wikipedia/commons/f/fb/Black_Sea_Nasa_May_25_2004.jpg)
 

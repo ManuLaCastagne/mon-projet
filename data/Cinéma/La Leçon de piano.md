@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "la Leçon de piano"
 tags: 
   - Cinéma
   - Nouvelle-Zélande
@@ -20,6 +22,7 @@ indice_6 :
   - Anna Paquin
 culture_g_score: 80
 culture_g_justification: "Film majeur de Jane Campion, régulièrement associé à la Palme d'or, aux Oscars, à Holly Hunter et au cinéma néo-zélandais."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de la Leçon de piano](https://upload.wikimedia.org/wikipedia/commons/3/3a/La_Le%C3%A7on_de_piano%2C_par_Henri_Matisse.jpg)
 

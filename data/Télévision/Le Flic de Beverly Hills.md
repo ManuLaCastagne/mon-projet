@@ -22,6 +22,7 @@ questions:
  - En 1985, dans quelle comédie Eddie Murphy interprète-t-il pour la 1re fois...
 culture_g_score: 72
 culture_g_justification: "Film populaire et régulièrement cité grâce à Eddie Murphy, Axel Foley, son succès commercial et son thème musical."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Le Flic de Beverly Hills](https://upload.wikimedia.org/wikipedia/commons/9/97/Beverly_Hills_Cop_-_official_franchise_logo.png)
 

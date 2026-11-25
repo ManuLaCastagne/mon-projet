@@ -22,6 +22,7 @@ indice_6 :
   - guerre de Sécession
 culture_g_score: 96
 culture_g_justification: "Western spaghetti universellement célèbre, constamment exploité pour Leone, Eastwood, Morricone, le genre et l’histoire du cinéma."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Le Bon, la Brute et le Truand](https://upload.wikimedia.org/wikipedia/commons/4/40/Il_buono%2C_il_brutto%2C_il_cattivo.png)
 

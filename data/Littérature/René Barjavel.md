@@ -24,6 +24,7 @@ questions:
  - En 1969, quel écrivain français raconte le voyage d'une bande de hippies au Népal dans "Les Chemins de Katmandou"?
 culture_g_score: 80
 culture_g_justification: "Auteur français d’anticipation très rentable grâce à Ravage, La Nuit des temps et ses réflexions sur la technologie et le temps."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de René Barjavel](https://upload.wikimedia.org/wikipedia/commons/d/d3/Identite-ReneBarjavel-1949-Sacem.png)
 
