@@ -32,9 +32,9 @@ culture_g_justification: "État australien surtout rentable grâce à Sydney, so
 ![[Carte_Nouvelle-Galles du Sud.png]]
 ###### Questions
 
-Dans quelle région australienne se trouve le célèbre [[Opéra de Sydney]], conçu par l'architecte [[Jørn Utzon]] et inauguré en 1973 ?
+Dans quel État australien se trouve l'opéra conçu par [[Jørn Utzon]] ?
 
-Quelle colonie pénitentiaire, sous contrôle britannique, a été fondée en 1788 sur les rives de [[Port Jackson]], dans une région aujourd'hui connue sous le nom de [[Nouvelle-Galles du Sud]] ?
+Quelle colonie britannique fut fondée en [[1788]] sur les rives de [[Port Jackson]] ?
 
 Dans quel État australien les [[Blue Mountains]], patrimoine mondial de l'[[UNESCO]], ont-elles été inscrites en 2000 ?
 
@@ -47,3 +47,9 @@ Sa capitale, [[Sydney]], est non seulement la plus grande ville d'Australie, mai
 Un fait étonnant est que le [[Mont Kosciuszko]], le plus haut sommet d'Australie, culmine à 2 228 mètres et se trouve dans cet État, plus précisément dans le [[Parc national du Kosciuszko]], établi en 1944.  
 
 En 1788, la [[Nouvelle-Galles du Sud]] a été la première colonie britannique en Australie, marquant ainsi le début de la colonisation européenne sur le continent.
+
+###### Archives questions
+
+Quelle colonie pénitentiaire, sous contrôle britannique, a été fondée en 1788 sur les rives de [[Port Jackson]], dans une région aujourd'hui connue sous le nom de [[Nouvelle-Galles du Sud]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle région australienne se trouve le célèbre [[Opéra de Sydney]], conçu par l'architecte [[Jørn Utzon]] et inauguré en 1973 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -32,11 +32,11 @@ culture_g_justification: "Référence exceptionnelle reliant monarchie français
 
 ###### Questions
 
-Quelle ville a accueilli la signature du [[Traité de Versailles]] en [[1919]], mettant fin officiellement à la [[Première Guerre mondiale]] ?
+Dans quelle ville a été signé, le 28 juin [[1919]] dans la galerie des Glaces, le traité de paix mettant fin à la [[Première Guerre mondiale]] avec l'Allemagne ?
 
-Quel château situé dans la ville de [[Versailles]] a été le centre du pouvoir politique en [[France]] sous le règne de [[Louis XIV]] à partir de [[1682]] ?
+Dans quelle ville [[Louis XIV]] installa-t-il officiellement la cour et le gouvernement en [[1682]] ?
 
-Quelle ville française est connue pour son célèbre château, classé au [[patrimoine mondial de l'UNESCO]] depuis [[1979]] ?
+Dans quelle ville [[Guillaume Ier (empereur allemand)|Guillaume Ier]] fut-il proclamé empereur allemand le 18 janvier [[1871]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Cette ville est surtout célèbre pour son château, le [[Château de Versailles
 Fait étonnant, peu connu : les [[Jardins de Versailles]], qui couvrent environ 800 hectares, étaient autrefois plus grands que le parc actuel et ont nécessité environ 40 ans de travail, principalement sous la direction d'[[André Le Nôtre]], pour atteindre leur splendeur vers 1700. 
 
 En 1783, le [[Traité de Paris]] y a été signé, mettant fin à la guerre d'indépendance américaine, soulignant ainsi l'importance diplomatique de [[Versailles]] au-delà de son statut de symbole royal.
+
+###### Archives questions
+
+Quelle ville a accueilli la signature du [[Traité de Versailles]] en [[1919]], mettant fin officiellement à la [[Première Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel château situé dans la ville de [[Versailles]] a été le centre du pouvoir politique en [[France]] sous le règne de [[Louis XIV]] à partir de [[1682]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville française est connue pour son célèbre château, classé au [[patrimoine mondial de l'UNESCO]] depuis [[1979]] ? <!-- cm003 remplacée 2026-11-23 -->

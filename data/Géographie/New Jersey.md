@@ -28,11 +28,11 @@ culture_g_justification: "État américain utile pour New York, Atlantic City, l
 
 ###### Questions
 
-Dans quel État américain la première station-service a-t-elle été ouverte en [[1913]] ?
+Dans quel État américain [[Thomas Edison]] installa-t-il son laboratoire de [[Menlo Park]] en [[1876]] ?
 
-Quel État abrite la plus longue promenade en bois du monde, appelée [[Boardwalk]], située à [[Atlantic City]] ?
+Dans quel État américain se trouve [[Atlantic City]], dont la promenade en planches fut construite dès [[1870]] ?
 
-En [[1937]], quel État a vu l'inauguration du pont le plus long de l'époque, le [[George Washington Bridge]], reliant [[New York]] à [[New Jersey]] ?
+Dans quel État américain se trouve l'université de [[Princeton]] ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ C'est en [[1664]] que [[New Jersey]] a été nommé ainsi en l'honneur de l'île
 Un fait étonnant à propos du [[New Jersey]] est que l'État héberge la plus grande colonie d'arbres pinsons d'Amérique du Nord, ce qui a valu au [[Pinelands National Reserve]], créé en [[1978]], d'être reconnu comme une réserve de biosphère par l'[[UNESCO]]. 
 
 Enfin, c'est également là que [[Thomas Edison]] a inventé le phonographe en [[1877]] dans son laboratoire de [[Menlo Park]], marquant ainsi un tournant technologique majeur.
+
+###### Archives questions
+
+En [[1937]], quel État a vu l'inauguration du pont le plus long de l'époque, le [[George Washington Bridge]], reliant [[New York]] à [[New Jersey]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel État américain la première station-service a-t-elle été ouverte en [[1913]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel État abrite la plus longue promenade en bois du monde, appelée [[Boardwalk]], située à [[Atlantic City]] ? <!-- cm003 remplacée 2026-11-23 -->

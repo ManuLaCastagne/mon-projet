@@ -31,11 +31,11 @@ culture_g_justification: "Grande île indonésienne associée au tsunami de 2004
 ![[Carte_Sumatra.png]]
 ###### Questions
 
-Quelle île indonésienne, touchée par le tsunami dévastateur du 26 décembre 2004, est la plus grande de l'archipel des [[Îles de la Sonde]]?
+Quelle île, la plus grande entièrement indonésienne, a été frappée par le tsunami du 26 décembre [[2004]] à [[Banda Aceh]] ?
 
-Quelle île abrite le parc national de [[Gunung Leuser]], une des dernières zones où vivent les [[orangs-outans]] de [[Sumatra]]?
+Sur quelle île indonésienne se trouve le parc national [[Gunung Leuser]], refuge des orangs-outans ?
 
-Quel lieu a été le site de l'éruption du [[volcan Toba]] il y a environ [[74,000 ans]], considérée comme l'une des plus grandes éruptions volcaniques connues de l'histoire de la Terre?
+Sur quelle île se trouve le lac [[Toba]], né d'une super-éruption il y a environ 74 000 ans ?
 
 ###### Description
 
@@ -46,3 +46,11 @@ Elle est réputée pour sa biodiversité exceptionnelle, abritant le parc nation
 Un fait étonnant est que [[Sumatra]] abrite le lac [[Toba]], le plus grand lac volcanique du monde, formé après une éruption volcanique massive il y a environ 74 000 ans, qui fut l'une des plus puissantes de l'histoire de la Terre. 
 
 En outre, la région qui l'entoure a été secouée en 2004 par un séisme sous-marin de magnitude 9,1-9,3, à l'origine du tsunami de l'océan Indien qui a causé des ravages dans plusieurs pays, faisant plus de 230 000 victimes.
+
+###### Archives questions
+
+Quelle île abrite le parc national de [[Gunung Leuser]], une des dernières zones où vivent les [[orangs-outans]] de [[Sumatra]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu a été le site de l'éruption du [[volcan Toba]] il y a environ [[74,000 ans]], considérée comme l'une des plus grandes éruptions volcaniques connues de l'histoire de la Terre? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle île indonésienne, touchée par le tsunami dévastateur du 26 décembre 2004, est la plus grande de l'archipel des [[Îles de la Sonde]]? <!-- cm003 remplacée 2026-11-23 -->

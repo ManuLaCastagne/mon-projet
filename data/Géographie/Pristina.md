@@ -34,8 +34,12 @@ Quelle ville est la capitale de la [[Kosovo]] depuis sa déclaration d'indépend
 
 Dans quelle ville est situé le monument emblématique [[Newborn Monument]], inauguré le jour de l'indépendance de la [[Kosovo]] le 17 février 2008 ?
 
-Quelle ville abrite l'Université de [[Pristina]], fondée en 1970, qui est la plus grande institution d'enseignement supérieur au [[Kosovo]] ?
+Quelle capitale des [[Balkans]] a érigé en [[2009]] une statue de [[Bill Clinton]] sur un boulevard portant son nom ?
 
 ###### Description
 
 [[Pristina]] est la capitale et la plus grande ville du [[Kosovo]], située dans le sud-est de l'Europe. Elle a été officiellement reconnue comme capitale du Kosovo après la déclaration d'indépendance du pays le 17 février 2008. La ville est célèbre pour son mélange architectural unique, combinant des bâtiments de l'époque ottomane et des structures modernes, notamment la bibliothèque nationale du Kosovo conçue par [[Andrija Mutnjakovic]] en 1982. Pristina abrite également le mausolée de [[Sultan Murad I]], un site historique important, qui remonte à l'époque de la bataille de [[Kosovo Polje]] en 1389.
+
+###### Archives questions
+
+Quelle ville abrite l'Université de [[Pristina]], fondée en 1970, qui est la plus grande institution d'enseignement supérieur au [[Kosovo]] ? <!-- cm003 remplacée 2026-11-23 -->

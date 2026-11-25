@@ -29,11 +29,11 @@ culture_g_justification: "Cahors est un repère régional solide grâce au pont 
 
 ###### Questions
 
-Dans quelle ville de [[Cahors]], en [[Occitanie]], trouve-t-on l'emblématique pont médiéval [[Valentré]], construit au XIVe siècle et classé au patrimoine mondial de l'[[UNESCO]] ?
+Dans quelle ville du Lot le [[pont Valentré]], du XIVe siècle, est-il inscrit au [[patrimoine mondial de l'UNESCO]] au titre des chemins de Compostelle ?
 
-En 1953, quelle ville est devenue célèbre pour la découverte des vestiges de l'ancien amphithéâtre romain de [[Divona Cadurcorum]], l'ancien nom de [[Cahors]] à l'époque gallo-romaine ?
+Quelle ville du Quercy s'appelait Divona Cadurcorum à l'époque gallo-romaine ?
 
-Quelle ville, ancien siège de la lignée des [[comtes de Toulouse]], est réputée dans le monde viticole pour son prestigieux vin rouge, souvent appelé "vin noir", produit dans les vignobles de l'appellation [[AOC Cahors]] ?
+Quelle ville a donné son nom à un vin rouge très sombre du Sud-Ouest, issu majoritairement du cépage [[malbec]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Un fait étonnant concernant [[Cahors]] est qu'elle abrite le [[Pont Valentré]]
 La ville a également été un centre important durant l'Antiquité, connue sous le nom de [[Divona Cadurcorum]], et est dotée d'un riche patrimoine architectural avec la [[Cathédrale Saint-Étienne]], un édifice majeur achevé au début du XIIe siècle. 
 
 Aujourd'hui, [[Cahors]] est aussi célèbre pour son marché, qui a été reconnu comme l'un des plus beaux de France et qui met en avant les produits locaux comme le foie gras et le truffe noire du [[Périgord]].
+
+###### Archives questions
+
+Dans quelle ville de [[Cahors]], en [[Occitanie]], trouve-t-on l'emblématique pont médiéval [[Valentré]], construit au XIVe siècle et classé au patrimoine mondial de l'[[UNESCO]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1953, quelle ville est devenue célèbre pour la découverte des vestiges de l'ancien amphithéâtre romain de [[Divona Cadurcorum]], l'ancien nom de [[Cahors]] à l'époque gallo-romaine ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville, ancien siège de la lignée des [[comtes de Toulouse]], est réputée dans le monde viticole pour son prestigieux vin rouge, souvent appelé "vin noir", produit dans les vignobles de l'appellation [[AOC Cahors]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Goteborg
 description: Suède |  deuxième plus grande ville |  canal Göta |  archipel |  Scandinavie |  Volvo |
 latitude: 57.7072326
 longitude: 11.9670171
@@ -32,11 +34,11 @@ culture_g_justification: "Deuxième ville de Suède, pertinente pour le port, l�
 ![[Carte_Goteborg.png]]
 ###### Questions
 
-Dans quelle ville suédoise, située sur la côte ouest, se trouve le plus grand port de Scandinavie, étant un important centre logistique pour le commerce européen et créé en 1621 ?
+Quelle ville de la côte ouest suédoise, fondée en [[1621]] par [[Gustave II Adolphe]], abrite le plus grand port de Scandinavie ?
 
 Quelle ville de [[Suède]] abrite l'[[Université de technologie Chalmers]], une institution scientifique et technologique de renom fondée en 1829 ?
 
-Quel lieu a accueilli la première édition du [[Festival international du film de Göteborg]] en 1979, devenu depuis le plus grand festival de film de Scandinavie ?
+Dans quelle ville suédoise a été fondé en [[1927]] le constructeur automobile [[Volvo]] ?
 
 ###### Description
 
@@ -47,3 +49,9 @@ Fondée en 1621 par le roi [[Gustave II Adolphe]], elle est aujourd'hui un impor
 Un fait étonnant sur la ville est qu'elle abrite le plus grand parc d'attractions de Scandinavie, [[Liseberg]], ouvert depuis 1923, qui compte parmi ses attractions une montagne russe en bois inaugurée en 1923 elle aussi. 
 
 Chaque année, en août, [[Göteborg]] organise le festival de la culture le plus vaste de Suède, connu comme le [[Göteborgs Kulturkalas]], attirant des centaines de milliers de visiteurs pour célébrer la musique, l'art et la gastronomie.
+
+###### Archives questions
+
+Quel lieu a accueilli la première édition du [[Festival international du film de Göteborg]] en 1979, devenu depuis le plus grand festival de film de Scandinavie ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville suédoise, située sur la côte ouest, se trouve le plus grand port de Scandinavie, étant un important centre logistique pour le commerce européen et créé en 1621 ? <!-- cm003 remplacée 2026-11-23 -->

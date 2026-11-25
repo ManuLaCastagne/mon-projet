@@ -29,11 +29,11 @@ culture_g_justification: "Région française fortement identifiable par ses volc
 
 ###### Questions
 
-Dans quelle région française se trouve le village de [[Saint-Flour]], connu pour son incroyable festival de la [[Transhumance]] qui attire des milliers de visiteurs chaque année depuis [[2010]] ? <!-- score: 7 -->
+Dans quelle ancienne région française se dresse le [[puy de Dôme]], où [[Blaise Pascal]] fit mesurer en [[1648]] la variation de la pression atmosphérique ?
 
 Quelle vaste région naturelle de [[France]] est traversée par la [[Chaîne des Puys]], une série de volcans inscrite au patrimoine mondial de l'[[UNESCO]] depuis [[2018]] ?
 
-Dans quelle région française peut-on explorer le [[Parc naturel régional des Volcans d'Auvergne]], le plus grand parc naturel régional de [[France métropolitaine]], créé en [[1977]] ?
+Dans quelle région se trouve le plus grand parc naturel régional de France métropolitaine, créé en [[1977]] autour des monts Dore et du Cantal ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Une particularité géographique notable est le [[Puy de Dôme]], un volcan endo
 En 1971, le parc des volcans a été créé, et il s'étend sur plus de 395 000 hectares, préservant ainsi une flore et une faune variées. 
 
 Un fait étonnant est que l'[[Auvergne]] abrite l'un des plus grands massifs volcaniques d'Europe, ce qui en fait une rare curiosité géologique à l'échelle internationale.
+
+###### Archives questions
+
+Dans quelle région française peut-on explorer le [[Parc naturel régional des Volcans d'Auvergne]], le plus grand parc naturel régional de [[France métropolitaine]], créé en [[1977]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle région française se trouve le village de [[Saint-Flour]], connu pour son incroyable festival de la [[Transhumance]] qui attire des milliers de visiteurs chaque année depuis [[2010]] ? <!-- score: 7 --> <!-- cm003 remplacée 2026-11-23 -->

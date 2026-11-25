@@ -31,11 +31,11 @@ culture_g_justification: "Pont mondialement emblématique, immédiatement associ
 ![[Carte_Golden Gate.png]]
 ###### Questions
 
-Quel célèbre pont, ouvert en 1937, est un symbole emblématique de la ville de [[San Francisco]] ?
+Quel pont suspendu de [[San Francisco]] a été ouvert à la circulation en [[1937]] ?
 
-Quelle structure, peinte dans une couleur dite "International Orange", est souvent enveloppée de brouillard et relie [[San Francisco]] à [[Marin County]] par le passage du [[Golden Gate]] ?
+Quel pont, peint dans une teinte appelée « International Orange », relie [[San Francisco]] au comté de [[Marin County|Marin]] ?
 
-Quel monument, mesurant environ [[2737 mètres]] de long, a nécessité l'utilisation de câbles fabriqués avec plus de [[128000 kilomètres]] de fil d'acier pour enjamber le [[Golden Gate]] ?
+Quel pont de [[Californie]], long de 2 737 mètres, détint de 1937 à 1964 le record de la plus grande portée pour un pont suspendu ?
 
 ###### Description
 
@@ -46,3 +46,11 @@ Ce pont impressionnant mesure 2 737 mètres de long et était, à son inaugurati
 Une information méconnue est que l'architecture flamboyante du pont rend hommage à un poignard marocain avec sa teinte orange international, couleur choisie pour améliorer la visibilité dans le brouillard fréquent de la baie de San Francisco.  
 
 L'architecte en chef du pont était [[Joseph Strauss]], qui a initialement conçu un design bien plus rudimentaire, mais ce sont finalement les ingénieurs [[Irving Morrow]] et [[Charles Alton Ellis]] qui ont été déterminants dans la réalisation du design final et emblématique.
+
+###### Archives questions
+
+Quelle structure, peinte dans une couleur dite "International Orange", est souvent enveloppée de brouillard et relie [[San Francisco]] à [[Marin County]] par le passage du [[Golden Gate]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel monument, mesurant environ [[2737 mètres]] de long, a nécessité l'utilisation de câbles fabriqués avec plus de [[128000 kilomètres]] de fil d'acier pour enjamber le [[Golden Gate]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre pont, ouvert en 1937, est un symbole emblématique de la ville de [[San Francisco]] ? <!-- cm003 remplacée 2026-11-23 -->

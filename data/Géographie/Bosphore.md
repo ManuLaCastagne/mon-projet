@@ -32,11 +32,11 @@ culture_g_justification: "Détroit stratégique et frontière entre Europe et As
 ![[Carte_Bosphore.png]]
 ###### Questions
 
-Quel détroit qui relie la [[Mer Noire]] à la [[Mer de Marmara]] est situé en Turquie et sépare physiquement les continents de l'[[Europe]] et de l'[[Asie]] ?
+Quel détroit, qui traverse [[Istanbul]], relie la [[mer Noire]] à la [[mer de Marmara]] ?
 
 Par quel détroit, selon la légende grecque, [[Jason]] et les [[Argonautes]] auraient-ils navigué en quête de la [[Toison d'or]] ?
 
-Quel passage maritime stratégique, ayant une importance géopolitique notable, fut franchi pour la première fois par un pont en [[1973 ]] avec la construction du [[Pont du Bosphore]] ?
+Quel détroit a été franchi pour la première fois par un pont en [[1973]], reliant les rives européenne et asiatique de la Turquie ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Ce passage d'eau étroit mesure environ 31 kilomètres de long et varie en large
 Un fait étonnant est que le [[Pont du Bosphore]], ouvert en 1973, a été le premier pont suspendu à relier deux continents, établissant un lien physique entre [[Europe]] et [[Asie]] pour la première fois dans l'histoire moderne. 
 
 Il est intéressant de noter que le courant sous-marin du Bosphore, découvert au début du XXe siècle, est si puissant qu'il pourrait remplir la [[Mer Méditerranée]] en environ 500 ans, soulignant l'importance du détroit dans le mouvement global des masses d'eau.
+
+###### Archives questions
+
+Quel passage maritime stratégique, ayant une importance géopolitique notable, fut franchi pour la première fois par un pont en [[1973 ]] avec la construction du [[Pont du Bosphore]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel détroit qui relie la [[Mer Noire]] à la [[Mer de Marmara]] est situé en Turquie et sépare physiquement les continents de l'[[Europe]] et de l'[[Asie]] ? <!-- cm003 remplacée 2026-11-23 -->

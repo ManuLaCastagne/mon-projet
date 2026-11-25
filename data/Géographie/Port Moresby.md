@@ -32,10 +32,14 @@ culture_g_justification: "Capitale d’un pays peu traité mais repérable par l
 
 Quelle est la capitale de [[Papouasie-Nouvelle-Guinée]], un pays qui a accédé à l'indépendance en 1975 ?
 
-Quel lieu a été le théâtre en 1942 de la [[Bataille de Port Moresby]], une campagne militaire majeure pendant la [[Seconde Guerre mondiale]] entre les forces alliées et japonaises ?
-
-Quel port a été décrit comme l'une des villes les plus multiculturelles de la planète en raison de sa population cosmopolite, avec plus de [[800 langues papoues]] parlées dans ses alentours ?
+Quelle ville les Japonais cherchèrent-ils à atteindre en [[1942]] par la piste de [[Kokoda]] ?
 
 ###### Description
 
 [[Port Moresby]], capitale de [[Papouasie-Nouvelle-Guinée]], se trouve sur les rives du golfe de [[Papouasie]] dans le sud-est du pays. Fondée au XIXe siècle, elle porte le nom de l'explorateur britannique [[Capitaine John Moresby]], qui a cartographié la région en 1873. Durant la [[Seconde Guerre mondiale]], la ville a joué un rôle stratégique important, notamment lors de la [[Campagne de Nouvelle-Guinée]] entre 1942 et 1945. Aujourd'hui, [[Port Moresby]] est le centre économique du pays, abritant des institutions comme le [[Musée national et galerie d'art]] de [[Papouasie-Nouvelle-Guinée]].
+
+###### Archives questions
+
+Quel lieu a été le théâtre en 1942 de la [[Bataille de Port Moresby]], une campagne militaire majeure pendant la [[Seconde Guerre mondiale]] entre les forces alliées et japonaises ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel port a été décrit comme l'une des villes les plus multiculturelles de la planète en raison de sa population cosmopolite, avec plus de [[800 langues papoues]] parlées dans ses alentours ? <!-- cm003 archivée 2026-11-23 -->

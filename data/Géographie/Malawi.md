@@ -32,11 +32,9 @@ culture_g_justification: "Pays africain classique grâce au lac Malawi, à son h
 ![[Carte_Malawi.png]]
 ###### Questions
 
-Quelle région de l'[[Afrique]] a accueilli en 1984 la construction du premier [[barrage hydroélectrique]] sur le [[fleuve Shire]] qui alimente le [[lac Malawi]] ?
-
 Quel pays enclavé d'[[Afrique australe]] a connu un changement de nom en 1964, passant de [[Nyassaland]] à son nom actuel lors de son indépendance du [[Royaume-Uni]] ?
 
-Dans quel pays d'[[Afrique subsaharienne]] se trouve le parc national de [[Liwonde]], créé en 1973 et célèbre pour sa biodiversité, particulièrement ses populations d'éléphants et d'hippopotames ?
+Dans quel pays se trouve le parc national de [[Liwonde]], le long de la rivière [[Shire]] ?
 
 ###### Description
 
@@ -47,3 +45,9 @@ La majeure partie de la frontière orientale du pays est dominée par le [[lac M
 Ce lac abrite plus d'espèces de poissons que tout autre lac sur Terre, notamment le [[mbuna]], un type de cichlidé, ce qui lui confère une importance écologique exceptionnelle. 
 
 En 1964, le Malawi a acquis son indépendance de la [[Royaume-Uni]], et cette transition a marqué le début d'une ère de souveraineté nationale pour le peuple malawite.
+
+###### Archives questions
+
+Quelle région de l'[[Afrique]] a accueilli en 1984 la construction du premier [[barrage hydroélectrique]] sur le [[fleuve Shire]] qui alimente le [[lac Malawi]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel pays d'[[Afrique subsaharienne]] se trouve le parc national de [[Liwonde]], créé en 1973 et célèbre pour sa biodiversité, particulièrement ses populations d'éléphants et d'hippopotames ? <!-- cm003 remplacée 2026-11-23 -->

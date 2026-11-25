@@ -32,10 +32,16 @@ culture_g_justification: "Capitale européenne bien identifiable, utile pour les
 
 Quelle est la capitale de l'[[Albanie]], pays situé sur la péninsule des [[Balkans]], depuis l'année 1920 ? 
 
-En 1991, quelle ville a vu sa [[Place Skanderbeg]] devenir le centre des manifestations menant à la fin de l'ère communiste en [[Albanie]] ?
+Dans quelle ville la statue d'[[Enver Hoxha]] fut-elle abattue par la foule en février [[1991]] ?
 
-Quelle ville, connue pour le [[Pyramid of Tirana]], a été désignée capitale européenne de la jeunesse en 2022 ?
+Quelle capitale des [[Balkans]] fut Capitale européenne de la jeunesse en [[2022]] ?
 
 ###### Description
 
 [[Tirana]], la capitale de [[l'Albanie]], est située dans le centre du pays et est le cœur vibrant de la vie politique, économique et culturelle. Fondée en 1614 par [[Sulejman Bargjini]], un général ottoman, la ville est devenue la capitale du pays en 1920. Parmi les sites emblématiques de [[Tirana]], on trouve la [[Place Skanderbeg]], qui est un hommage au héros national [[Gjergj Kastrioti]], mieux connu sous le nom de [[Scanderbeg]], une figure clé de la résistance albanaise contre l'Empire ottoman au [[XVe siècle]]. Depuis le début des années 1990, après la chute du régime communiste, [[Tirana]] a connu une transformation rapide, reflétant un mélange dynamique de styles architecturaux des différentes époques de son histoire.
+
+###### Archives questions
+
+Quelle ville, connue pour le [[Pyramid of Tirana]], a été désignée capitale européenne de la jeunesse en 2022 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1991, quelle ville a vu sa [[Place Skanderbeg]] devenir le centre des manifestations menant à la fin de l'ère communiste en [[Albanie]] ? <!-- cm003 remplacée 2026-11-23 -->

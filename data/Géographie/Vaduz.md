@@ -34,10 +34,14 @@ culture_g_justification: "Vaduz est une capitale européenne classique des quiz,
 
 Quelle est la capitale de la principauté de [[Liechtenstein]], située entre la [[Suisse]] et l'[[Autriche]] ?  
 
-Quelle ville est connue pour abriter le [[Stade de Rheinpark]] et le [[Château de Vaduz]] ?
-
-Quel est le centre économique et politique du [[Liechtenstein]] qui accueille chaque année le joyeux festival culturel appelé la [[Vaduz Classic]] ?
+Dans quelle capitale se trouve le Rheinpark Stadion, stade de l'équipe nationale du [[Liechtenstein]] ?
 
 ###### Description
 
 [[Vaduz]], la capitale de la [[Principauté de Liechtenstein]], est nichée entre les Alpes et le Rhin, offrant un paysage pittoresque qui attire de nombreux visiteurs. Son emblème le plus célèbre, le [[Château de Vaduz]], surplombe la ville et sert de résidence officielle au prince de Liechtenstein depuis 1938. Le [[Centre d'art du Liechtenstein]], ouvert en 2000, est une autre attraction majeure, abritant une vaste collection d'art moderne et contemporain. Fondée en 1342, Vaduz est également le siège de l'[[archevêché de Vaduz]], établi en 1997, renforçant ainsi son importance culturelle et religieuse.
+
+###### Archives questions
+
+Quelle ville est connue pour abriter le [[Stade de Rheinpark]] et le [[Château de Vaduz]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le centre économique et politique du [[Liechtenstein]] qui accueille chaque année le joyeux festival culturel appelé la [[Vaduz Classic]] ? <!-- cm003 archivée 2026-11-23 -->

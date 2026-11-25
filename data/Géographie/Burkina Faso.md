@@ -32,7 +32,7 @@ culture_g_justification: "Le Burkina Faso est un pays africain régulièrement i
 ![[Carte_Burkina Faso.png]]
 ###### Questions
 
-Quel pays a changé de nom pour devenir [[Burkina Faso]] en 1984 ? <!-- score: 8 -->
+Quel pays d'Afrique de l'Ouest s'appelait Haute-Volta jusqu'en [[1984]] ?
 
 Quel pays d'Afrique de l'Ouest a pour capitale [[Ouagadougou]] ?
 
@@ -47,3 +47,7 @@ La capitale, [[Ouagadougou]], se trouve au cœur du pays et sert de centre cultu
 Étonnamment, le [[Burkina Faso]] est le pays d'origine de l'ultra-marathonien Thomas [[Moore]], qui détient le record peu connu de la traversée à pied la plus rapide du [[Sahara]] réalisée en 2018. 
 
 Le pays est également reconnu pour son engagement dans la lutte contre la désertification, ayant initié dès 1987 le programme Zai, une méthode traditionnelle de récupération des sols dégradés.
+
+###### Archives questions
+
+Quel pays a changé de nom pour devenir [[Burkina Faso]] en 1984 ? <!-- score: 8 --> <!-- cm003 remplacée 2026-11-23 -->

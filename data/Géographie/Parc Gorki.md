@@ -31,11 +31,7 @@ culture_g_justification: "Parc moscovite identifiable par son nom, son histoire 
 ![[Carte_Parc Gorki.png]]
 ###### Questions
 
-Dans quelle ville se trouve le [[Parc Gorki]], connu pour être un espace de loisirs emblématique depuis sa création en 1928 ? 
-
-Quel [[parc]] situé à Moscou est célèbre pour avoir été l'un des premiers lieux de détente pionniers à introduire des manèges lors de son ouverture en 1928 ?
-
-Quel parc de Moscou, immense espace vert situé sur le front de la [[rivière Moskova]], est reconnu pour avoir accueilli le célèbre poète [[Vladimir Maïakovski]] lors de son inauguration en 1928 ?
+Quel parc de [[Moscou]], ouvert en [[1928]] au bord de la [[Moskova]], porte le nom d'un écrivain soviétique ?
 
 ###### Description
 
@@ -46,3 +42,11 @@ Il s'étend sur environ [[120 hectares]] le long de la [[Moskva]], proposant aux
 Un fait étonnant et peu connu sur le parc est qu'il a abrité en 1933 l'une des premières démonstrations de télévision en plein air de l'Union soviétique, anticipant la diffusion de ce média encore balbutiant à l'époque.
 
 Aujourd'hui, grâce à des rénovations récentes, le Parc Gorki attire des millions de touristes chaque année, faisant de lui un pilier du patrimoine culturel et récréatif de [[Russie]].
+
+###### Archives questions
+
+Dans quelle ville se trouve le [[Parc Gorki]], connu pour être un espace de loisirs emblématique depuis sa création en 1928 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel [[parc]] situé à Moscou est célèbre pour avoir été l'un des premiers lieux de détente pionniers à introduire des manèges lors de son ouverture en 1928 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel parc de Moscou, immense espace vert situé sur le front de la [[rivière Moskova]], est reconnu pour avoir accueilli le célèbre poète [[Vladimir Maïakovski]] lors de son inauguration en 1928 ? <!-- cm003 archivée 2026-11-23 -->

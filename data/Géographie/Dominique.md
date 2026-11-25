@@ -32,11 +32,11 @@ culture_g_justification: "État insulaire classique des capitales et pays du mon
 ![[Carte_Dominique.png]]
 ###### Questions
 
-Dans quel pays des [[Caraïbes]], l'[[île de la Dominique]] est-elle devenue indépendante de la [[Grande-Bretagne]] en 1978 ?
+Quelle île des [[Petites Antilles]] est devenue indépendante du [[Royaume-Uni]] le 3 novembre [[1978]] ?
 
-Quelle île, située entre la [[Guadeloupe]] et la [[Martinique]], est appelée communément [[Dominique]] et est connue pour son célèbre [[parc national de Morne Trois Pitons]], classé au [[patrimoine mondial]] de l'[[UNESCO]] ?
+Quel État insulaire, situé entre la [[Guadeloupe]] et la [[Martinique]], abrite le parc national du [[Morne Trois Pitons]], inscrit à l'UNESCO en [[1997]] ?
 
-Quel pays des [[Antilles]], comportant le sommet du [[Morne Diablotins]], a pour capitale [[Roseau]] et est également appelé [[Dominique]] ?
+Quel pays des [[Antilles]], dont le point culminant est le [[Morne Diablotins]], a pour capitale [[Roseau]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Ce territoire, qui s'est affranchi du [[Royaume-Uni]] en 1978, abrite le plus ha
 La capitale, [[Roseau]], offre un charme distinct avec ses bâtiments coloniaux préservés et son ambiance décontractée.
 
 Un fait étonnant : [[La Dominique]] est l'un des rares pays au monde à abriter encore une population indigène significative, les [[Kalinagos]], qui représentent une présence continue depuis des siècles.
+
+###### Archives questions
+
+Dans quel pays des [[Caraïbes]], l'[[île de la Dominique]] est-elle devenue indépendante de la [[Grande-Bretagne]] en 1978 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle île, située entre la [[Guadeloupe]] et la [[Martinique]], est appelée communément [[Dominique]] et est connue pour son célèbre [[parc national de Morne Trois Pitons]], classé au [[patrimoine mondial]] de l'[[UNESCO]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel pays des [[Antilles]], comportant le sommet du [[Morne Diablotins]], a pour capitale [[Roseau]] et est également appelé [[Dominique]] ? <!-- cm003 remplacée 2026-11-23 -->

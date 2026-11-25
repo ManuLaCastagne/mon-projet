@@ -30,12 +30,20 @@ culture_g_justification: "Référence surtout utile pour le quartier et l’univ
 ![[Carte_Georgetown.png]]
 ###### Questions
 
-Quel quartier de [[Washington D.C.]], connu pour ses belles architectures géorgiennes et fédérales, abrite l'université [[Georgetown University]], fondée en 1789 ?
+Dans quel quartier de [[Washington]] se trouve l'université jésuite fondée en [[1789]] par [[John Carroll (évêque)|John Carroll]] ?
 
-Dans quel film d'horreur de 1973, le personnage principal vit-il dans une maison située dans le quartier de [[Georgetown]] à [[Washington D.C.]] ?
+Dans quel quartier de [[Washington]] se trouve l'escalier rendu célèbre par le film « [[L'Exorciste]] » ([[1973]]) ?
 
-Quelle ville, située sur la côte nord de [[Guyana]], abrite la célèbre [[St. George's Cathedral]], une des plus hautes structures en bois du monde, achevée en 1899 ?
+Quelle capitale sud-américaine abrite la cathédrale anglicane Saint-Georges, achevée en [[1899]], l'un des plus hauts édifices en bois du monde ?
 
 ###### Description
 
 [[Georgetown]], fondée en 1751, est une ville historique située dans le district de [[Columbia]] aux États-Unis. Elle abrite la prestigieuse [[Université de Georgetown]], créée en 1789, qui est connue pour son programme de [[droit]] et ses relations internationales. Le quartier de [[Georgetown]] est également réputé pour ses charmantes rues pavées, ses boutiques élégantes et son architecture de style fédéral. Enfin, [[Georgetown]] a été le lieu de tournage de scènes célèbres du film "L'Exorciste", sorti en 1973, notamment la scène de l'escalier emblématique.
+
+###### Archives questions
+
+Quel quartier de [[Washington D.C.]], connu pour ses belles architectures géorgiennes et fédérales, abrite l'université [[Georgetown University]], fondée en 1789 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel film d'horreur de 1973, le personnage principal vit-il dans une maison située dans le quartier de [[Georgetown]] à [[Washington D.C.]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville, située sur la côte nord de [[Guyana]], abrite la célèbre [[St. George's Cathedral]], une des plus hautes structures en bois du monde, achevée en 1899 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -25,11 +25,9 @@ culture_g_justification: "État américain surtout rentable par Little Rock et l
 
 ###### Questions
 
-Quelle ville de l'État de [[Arkansas]] est devenue la première à déségréguer une école secondaire lorsqu'un groupe d'étudiants afro-américains, connu sous le nom de [[Little Rock Nine]], a intégré le [[Little Rock Central High School]] en [[1957]] ?
+Dans quel État américain le gouverneur [[Orval Faubus]] s'opposa-t-il en [[1957]] à l'entrée de neuf élèves noirs dans un lycée de Little Rock ?
 
-Quel État de l'[[Arkansas]] abritait l'ancien territoire des [[Osages]] avant d'être cédé aux États-Unis par le [[Traité de 1818]] ?
-
-Dans quel État des États-Unis a eu lieu la [[Guerre de succession]], aussi appelée [[Guerre de Sécession]], marquée par la bataille décisive de [[Prairie Grove]] en [[1862]] ?
+Dans quel État américain se déroula en décembre [[1862]] la bataille de [[Prairie Grove]] ?
 
 ###### Description
 
@@ -40,3 +38,11 @@ En [[1861]], bien que l'État ait au départ hésité, il a finalement rejoint l
 Un fait étonnant est qu'en [[1962]], l'[[Arkansas]] a été le premier État à produire du riz en quantités si importantes qu'il est devenu l'un des principaux fournisseurs de riz des États-Unis. 
 
 Aujourd'hui, la ville de [[Little Rock]] est non seulement la capitale de l'État, mais aussi un lieu emblématique, qui a joué un rôle crucial dans le mouvement des droits civiques, avec l'[[affaire Little Rock Nine]] en [[1957]].
+
+###### Archives questions
+
+Quelle ville de l'État de [[Arkansas]] est devenue la première à déségréguer une école secondaire lorsqu'un groupe d'étudiants afro-américains, connu sous le nom de [[Little Rock Nine]], a intégré le [[Little Rock Central High School]] en [[1957]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel État de l'[[Arkansas]] abritait l'ancien territoire des [[Osages]] avant d'être cédé aux États-Unis par le [[Traité de 1818]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel État des États-Unis a eu lieu la [[Guerre de succession]], aussi appelée [[Guerre de Sécession]], marquée par la bataille décisive de [[Prairie Grove]] en [[1862]] ? <!-- cm003 remplacée 2026-11-23 -->

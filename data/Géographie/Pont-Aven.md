@@ -29,11 +29,9 @@ culture_g_justification: "Lieu classique de l’histoire de l’art grâce à Ga
 
 ###### Questions
 
-Dans quelle ville bretonne s'est installée la célèbre « [[École de peinture de Pont-Aven]] » à la fin du XIXe siècle ?
+Dans quel village du [[Finistère]] [[Paul Gauguin]] et [[Émile Bernard]] développèrent-ils le synthétisme en [[1888]] ?
 
-Quel lieu est emblématique pour avoir inspiré des artistes comme [[Paul Gauguin]] durant leur séjour en [[Bretagne]] ?
-
-En 1870, quel village devint un centre artistique majeur et une source d'inspiration pour de nombreux peintres post-impressionnistes ?
+Quel petit port du [[Finistère]] accueillit à partir des années 1860 une colonie de peintres américains ?
 
 ###### Description
 
@@ -42,3 +40,11 @@ En 1870, quel village devint un centre artistique majeur et une source d'inspira
 Ce qui est peut-être moins connu, c'est que [[Pont-Aven]] détient le record du plus grand nombre de moulins par kilomètre carré en France au XIXe siècle, avec jusqu'à quatorze moulins activement utilisés le long de la rivière [[Aven]].
 
 Aujourd'hui encore, la ville reste un lieu incontournable pour les amateurs d'art et offre des paysages pittoresques qui continuent d'inspirer de nombreux artistes.
+
+###### Archives questions
+
+Dans quelle ville bretonne s'est installée la célèbre « [[École de peinture de Pont-Aven]] » à la fin du XIXe siècle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu est emblématique pour avoir inspiré des artistes comme [[Paul Gauguin]] durant leur séjour en [[Bretagne]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1870, quel village devint un centre artistique majeur et une source d'inspiration pour de nombreux peintres post-impressionnistes ? <!-- cm003 archivée 2026-11-23 -->

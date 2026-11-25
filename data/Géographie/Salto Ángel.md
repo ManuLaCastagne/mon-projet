@@ -1,5 +1,7 @@
 ---
-description: cascade |  Venezuela |  plus haute |  Salto Ángel |  Parc national de Canaima |  chute d'eau |
+aliases:
+  - Angel Falls
+description: cascade |  Venezuela |  plus haute |  Auyán-tepui |  Parc national de Canaima |  chute d'eau |
 latitude: 5.9687371
 longitude: -62.5361456
 superficie: 979
@@ -17,7 +19,7 @@ indice_2 :
 indice_3 : 
   - plus haute
 indice_4 : 
-  - Salto Ángel
+  - Auyán-tepui
 indice_5 : 
   - Parc national de Canaima
 indice_6 : 
@@ -32,11 +34,11 @@ culture_g_justification: "Plus haute chute du monde, régulièrement utilisée c
 ![[Carte_Angel Falls.png]]
 ###### Questions
 
-Quel est le [[nom de la chute d'eau]] située au [[Venezuela]], connue pour être la plus haute du monde avec une hauteur de 979 mètres ?
+Quelle chute d'eau du [[Venezuela]], haute de 979 mètres, est la plus haute du monde ?
 
-En quelle année l'explorateur [[Jimmie Angel]] a-t-il survolé pour la première fois les chutes, qui ont ensuite été nommées [[Angel Falls]] en son honneur ?
+Quelle chute d'eau porte le nom d'un aviateur américain dont l'avion s'est posé à son sommet en [[1937]] ?
 
-Quel point d'intérêt majeur en [[Amérique du Sud]] est situé dans le [[Parc national de Canaima]] et est inscrit au [[Patrimoine mondial de l'UNESCO]] depuis 1994 ?
+Quelle chute d'eau se jette du haut de l'[[Auyán-tepui]], dans le [[parc national Canaima]] inscrit à l'UNESCO en [[1994]] ?
 
 ###### Description
 
@@ -47,3 +49,11 @@ Elles tiraient leur nom de l'aviateur américain [[Jimmy Angel]], qui les a déc
 Un fait étonnant est que, lors de son survol, Jimmy Angel a accidentellement atterri son avion sur le plateau d'une montagne voisine appelé [[Auyantepuy]], où l'engin resta bloqué jusqu'en 1970 avant d'être déplacé. 
 
 L'eau des [[chutes Angel]] prend 14 secondes pour toucher le sol depuis la falaise, et lors des jours ensoleillés, elle s'évapore avant même d'atteindre la rivière [[Churun]].
+
+###### Archives questions
+
+En quelle année l'explorateur [[Jimmie Angel]] a-t-il survolé pour la première fois les chutes, qui ont ensuite été nommées [[Angel Falls]] en son honneur ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le [[nom de la chute d'eau]] située au [[Venezuela]], connue pour être la plus haute du monde avec une hauteur de 979 mètres ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel point d'intérêt majeur en [[Amérique du Sud]] est situé dans le [[Parc national de Canaima]] et est inscrit au [[Patrimoine mondial de l'UNESCO]] depuis 1994 ? <!-- cm003 remplacée 2026-11-23 -->

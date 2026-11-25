@@ -35,9 +35,9 @@ culture_g_justification: "Département lié à Calais, au tunnel sous la Manche,
 
 Dans quel département se trouve [[Lens]], ville connue pour accueillir une antenne décentralisée du musée [[Louvre]] depuis 2012 ?
 
-Où se situe la [[fosse 9-9 bis]] du [[Nord-Pas-de-Calais]], un site patrimonial inscrit au [[Patrimoine mondial]] de l'[[UNESCO]] en 2012 ?
+Quel département a pour préfecture [[Arras]] ?
 
-Dans quel département français se trouve la ville de [[Calais]], célèbre pour son rôle stratégique lors de la Seconde Guerre mondiale et pour son ouverture du [[Tunnel sous la Manche]] en 1994 ?
+Dans quel département débouche, à [[Coquelles]], le [[tunnel sous la Manche]] mis en service en [[1994]] ?
 
 ###### Description
 
@@ -48,3 +48,9 @@ Il abrite le parc naturel régional des [[Caps et Marais d'Opale]], une réserve
 Un fait surprenant est que le [[phare de Calais]], construit en 1848, est l'un des plus hauts de France, culminant à 58 mètres, et il est inscrit au titre des monuments historiques depuis 2010. 
 
 En 1993, le département est devenu une plaque tournante de l'Europe grâce à l'ouverture du [[tunnel sous la Manche]], un immense ouvrage d'ingénierie reliant [[Calais]] à [[Douvres]], en [[Royaume-Uni]].
+
+###### Archives questions
+
+Où se situe la [[fosse 9-9 bis]] du [[Nord-Pas-de-Calais]], un site patrimonial inscrit au [[Patrimoine mondial]] de l'[[UNESCO]] en 2012 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel département français se trouve la ville de [[Calais]], célèbre pour son rôle stratégique lors de la Seconde Guerre mondiale et pour son ouverture du [[Tunnel sous la Manche]] en 1994 ? <!-- cm003 remplacée 2026-11-23 -->

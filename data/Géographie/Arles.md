@@ -32,11 +32,11 @@ culture_g_justification: "Ville française riche en angles antiques, artistiques
 ![[Carte_Arles.png]]
 ###### Questions
 
-Quelle ville, autrefois abritée par l'[[amphithéâtre romain]] et inscrite au [[patrimoine mondial de l'UNESCO]] en 1981, est célèbre pour ses vestiges antiques et son [[festival international de photographie]] renommé, les [[Rencontres d'Arles]] ?
+Quelle ville provençale accueille chaque été depuis [[1970]] les Rencontres internationales de la photographie ?
 
-Dans quelle ville du sud de la France, située à l'embouchure du [[Rhône]] et intégrée au [[parc naturel régional de Camargue]] en 1970, trouve-t-on l'ancienne résidence du peintre [[Vincent van Gogh]] qui inspira certaines de ses toiles les plus célèbres ?
+Dans quelle ville [[Vincent van Gogh]] s'installa-t-il en février [[1888]], avant d'y louer la « Maison jaune » ?
 
-Quel emplacement stratégique, fondé en tant que colonie grecque en 600 avant J.-C. sous le nom de [[Théliné]], est devenu un important centre commercial et port fluvial au cours de l'[[Empire romain]], contribuant à son épanouissement économique et culturel ?
+Dans quelle ville des [[Bouches-du-Rhône]] l'amphithéâtre romain fait-il partie d'un ensemble inscrit au [[patrimoine mondial de l'UNESCO]] en [[1981]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Datant de 46 avant J.-C., son célèbre [[amphithéâtre romain]], qui pouvait a
 Un fait étonnant à propos de [[Arles]] est qu'elle détient le titre de la plus grande commune de France métropolitaine par sa superficie, s'étendant sur 758,93 km². 
 
 La ville a notamment inspiré de célèbres artistes tels que [[Vincent van Gogh]], qui y a peint plus de 300 œuvres entre février 1888 et mai 1889, marquant un tournant dans l'histoire de l'art.
+
+###### Archives questions
+
+Quelle ville, autrefois abritée par l'[[amphithéâtre romain]] et inscrite au [[patrimoine mondial de l'UNESCO]] en 1981, est célèbre pour ses vestiges antiques et son [[festival international de photographie]] renommé, les [[Rencontres d'Arles]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville du sud de la France, située à l'embouchure du [[Rhône]] et intégrée au [[parc naturel régional de Camargue]] en 1970, trouve-t-on l'ancienne résidence du peintre [[Vincent van Gogh]] qui inspira certaines de ses toiles les plus célèbres ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel emplacement stratégique, fondé en tant que colonie grecque en 600 avant J.-C. sous le nom de [[Théliné]], est devenu un important centre commercial et port fluvial au cours de l'[[Empire romain]], contribuant à son épanouissement économique et culturel ? <!-- cm003 remplacée 2026-11-23 -->

@@ -25,9 +25,9 @@ culture_g_justification: "Port normand connu pour son rôle militaire et maritim
 
 Quelle ville accueille la [[Cité de la Mer]], un musée maritime inauguré en 2002, consacré à l'exploration sous-marine et situé dans l'ancienne [[gare maritime transatlantique]] ?
 
-Quel [[théâtre]] inauguré en 1882 et situé à [[Cherbourg]] est connu pour son architecture de style néo-classique et son plafond peint par [[Georges Clairin]] ?
+Dans quelle ville se déroule le film musical de [[Jacques Demy]] avec [[Catherine Deneuve]], Palme d'or en [[1964]] ?
 
-Quelle structure portuaire de [[Cherbourg]] a été complètement achevée en 1850 et est célèbre pour être la plus grande structure artificielle construite en mer ?
+Quel port militaire du [[Cotentin]] est protégé par une rade artificielle fermée par des digues construites au XIXe siècle ?
 
 ###### Description
 
@@ -38,3 +38,9 @@ L'architecture de la ville se distingue également par la [[Cité de la Mer]], u
 Un fait étonnant à propos de [[Cherbourg]] est sa digue, longue de 3 640 mètres, qui en fait l'une des plus longues constructions de ce genre au monde.  
 
 Le manteau polaire en fonte de [[Frédéric Auguste Bartholdi]], l'architecte de la [[Statue de la Liberté]], est exposé dans la [[Basilique Sainte-Trinité]], conférant à ce lieu un lien unique avec le prestigieux sculpteur.
+
+###### Archives questions
+
+Quel [[théâtre]] inauguré en 1882 et situé à [[Cherbourg]] est connu pour son architecture de style néo-classique et son plafond peint par [[Georges Clairin]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle structure portuaire de [[Cherbourg]] a été complètement achevée en 1850 et est célèbre pour être la plus grande structure artificielle construite en mer ? <!-- cm003 remplacée 2026-11-23 -->

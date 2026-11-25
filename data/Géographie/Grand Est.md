@@ -32,11 +32,11 @@ culture_g_justification: "Région administrative française utile pour la géogr
 ![[Carte_Grand Est.png]]
 ###### Questions
 
-Dans quelle région française, résultat de la fusion des régions [[Alsace]], [[Champagne-Ardenne]] et [[Lorraine]] en 2016, se trouve la célèbre cathédrale de [[Strasbourg]] ?
+Quelle région administrative est née le 1er janvier [[2016]] de la fusion de l'[[Alsace]], de la [[Champagne-Ardenne]] et de la [[Lorraine]] ?
 
-Quelle région, actuellement délimité en tant que [[région Grand Est]], fut le théâtre de la signature de l'[[Armistice de 1918]], mettant fin à la [[Première Guerre mondiale]] le 11 novembre 1918 ?
+Quelle région administrative française a pour chef-lieu [[Strasbourg]] ?
 
-Dans quelle région française, le festival de montgolfières intitulé [[Mondial Air Ballons]], qui se tient à [[Chambley]], est-il organisé tous les deux ans depuis 1989 ?
+Dans quelle région se tient tous les deux ans, à [[Chambley-Bussières]], un grand rassemblement mondial de montgolfières ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ La ville de [[Strasbourg]], siège du [[Parlement européen]], est emblématique
 Un fait peu connu est que la région abrite le Lac de [[Gérardmer]], surnommé la "Perle des Vosges", qui est le plus grand lac d'origine glaciaire entièrement situé dans le massif des Vosges. 
 
 En 2011, l'ensemble des sites miniers de la région du [[Nord-Pas-de-Calais]], qui longe la frontière nord du Grand Est, a été inscrit au patrimoine mondial de l'UNESCO, soulignant son importance dans l'industrie minière historique de la France.
+
+###### Archives questions
+
+Quelle région, actuellement délimité en tant que [[région Grand Est]], fut le théâtre de la signature de l'[[Armistice de 1918]], mettant fin à la [[Première Guerre mondiale]] le 11 novembre 1918 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle région française, résultat de la fusion des régions [[Alsace]], [[Champagne-Ardenne]] et [[Lorraine]] en 2016, se trouve la célèbre cathédrale de [[Strasbourg]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle région française, le festival de montgolfières intitulé [[Mondial Air Ballons]], qui se tient à [[Chambley]], est-il organisé tous les deux ans depuis 1989 ? <!-- cm003 remplacée 2026-11-23 -->

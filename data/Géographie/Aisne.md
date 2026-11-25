@@ -28,11 +28,9 @@ culture_g_justification: "Département français associé à Laon et à la Premi
 
 ###### Questions
 
-Quel département français a adopté le premier la numérotation téléphonique automatique en [[1928]] ?
+Dans quel département se trouve le [[Chemin des Dames]], théâtre de l'offensive Nivelle en avril [[1917]] ?
 
-Dans quel département trouve-t-on l'[[Oise-Aisne American Cemetery and Memorial]], rendu célèbre par son lien avec des soldats américains de la [[Première Guerre mondiale]] ?
-
-Quel département possède le village de [[Buironfosse]], connu pour avoir vu le premier affrontement aérien documenté de l'histoire en [[1794]] ?
+Dans quel département [[Jean de La Fontaine]] est-il né, à [[Château-Thierry]], en [[1621]] ?
 
 ###### Description
 
@@ -43,3 +41,11 @@ Chef-lieu du département, la ville de [[Laon]] est perchée sur une colline qui
 [[La Thiérache]], une région naturelle de l'Aisne, est connue pour ses églises fortifiées uniques, dont certaines datent du XVIe siècle, élément architectural typique conçu pour protéger les habitants des envahisseurs. 
 
 Fait étonnant : en 2012, le village de [[Rozoy-sur-Serre]] dans l'Aisne a planté un arbre commémoratif en l'honneur de [[Amelia Earhart]], l'aviatrice américaine qui s'est posée près de là en 1928 lors de son retour triomphal après avoir été la première femme à traverser l'[[Océan Atlantique]] en avion en équipage.
+
+###### Archives questions
+
+Dans quel département trouve-t-on l'[[Oise-Aisne American Cemetery and Memorial]], rendu célèbre par son lien avec des soldats américains de la [[Première Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel département possède le village de [[Buironfosse]], connu pour avoir vu le premier affrontement aérien documenté de l'histoire en [[1794]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel département français a adopté le premier la numérotation téléphonique automatique en [[1928]] ? <!-- cm003 archivée 2026-11-23 -->

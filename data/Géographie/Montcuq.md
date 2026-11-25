@@ -32,11 +32,7 @@ culture_g_justification: "Village rendu célèbre par l’humour télévisuel, a
 ![[Carte_Montcuq.png]]
 ###### Questions
 
-Dans quelle commune française, devenue célèbre grâce à un sketch de [[Daniel Prévost]] dans les années 1970, peut-on trouver un château dont le donjon date du [[XIIIe siècle]] ?
-
-Quel village du [[Lot (département)]] a connu une notoriété nationale lorsqu'il a failli être renommé "Montcuq-en-Quercy-Blanc" en 2013 avant que la décision ne soit annulée par le conseil municipal ?
-
-Quelle ville est devenue un sujet de blague récurrente à travers le pays après son passage dans un reportage humoristique de l'émission "[[Le Petit Rapporteur]]" en 1976 ?
+Quel village du [[Quercy]] [[Daniel Prévost]] rendit-il célèbre en [[1976]] dans l'émission « [[Le Petit Rapporteur]] » ?
 
 ###### Description
 
@@ -47,3 +43,11 @@ L'origine de son nom remonte au Moyen Âge, et le village abrite la célèbre to
 Fait captivant à noter, [[Montcuq]] est devenu tristement célèbre en 1976 grâce à un sketch humoristique diffusé par l'émission télévisée [[Le Petit Rapporteur]], transformant son nom en jeu de mots. 
 
 Un record insolite pour ce village est que, en 2008, [[Montcuq]] a failli devenir une case spéciale dans le jeu de société [[Monopoly]] lors d'un concours national, atteignant la première place des votes du public avant que l'éditeur ne décide finalement de ne pas l'intégrer pour des raisons éditoriales.
+
+###### Archives questions
+
+Quel village du [[Lot (département)]] a connu une notoriété nationale lorsqu'il a failli être renommé "Montcuq-en-Quercy-Blanc" en 2013 avant que la décision ne soit annulée par le conseil municipal ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quelle commune française, devenue célèbre grâce à un sketch de [[Daniel Prévost]] dans les années 1970, peut-on trouver un château dont le donjon date du [[XIIIe siècle]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville est devenue un sujet de blague récurrente à travers le pays après son passage dans un reportage humoristique de l'émission "[[Le Petit Rapporteur]]" en 1976 ? <!-- cm003 archivée 2026-11-23 -->

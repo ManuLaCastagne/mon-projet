@@ -28,11 +28,11 @@ culture_g_justification: "Ville très rentable grâce aux procès nazis, au rôl
 
 ###### Questions
 
-Dans quelle ville de [[Bavière]] trouve-t-on la plus ancienne [[fête de Noël]] allemande, le [[Christkindlesmarkt]], dont les origines remontent à 1628 ?
+Dans quelle ville de [[Bavière]] le marché de Noël appelé Christkindlesmarkt est-il attesté depuis [[1628]] ?
 
-Quelle ville abrite le [[Palais de Justice]] où se sont tenus les célèbres [[procès de Nuremberg]] contre les dirigeants nazis après la [[Seconde Guerre mondiale]] en 1945-1946 ?
+Dans quelle ville le [[Tribunal militaire international]] a-t-il jugé les principaux dirigeants nazis de novembre [[1945]] à octobre [[1946]] ?
 
-Dans quelle ville a été inventé le célèbre plat traditionnel allemand, la [[saucisse de Nuremberg]], qui bénéficie d'une appellation d'origine protégée depuis 2003 ?
+Dans quelle ville est né en [[1471]] le peintre et graveur [[Albrecht Dürer]] ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Parmi ses attributs les plus notables, [[Nuremberg]] abrite le [[Hauptmarkt]], c
 Un fait étonnant au sujet de [[Nuremberg]] est que la ville a été le lieu de production des plus grands globes terrestres jamais fabriqués, par le cartographe [[Martin Behaim]] en 1492, connu sous le nom de "Erdapfel". 
 
 Enfin, [[Nuremberg]] a aussi gagné une place importante dans l'histoire moderne en accueillant les célèbres procès des criminels de guerre nazis en 1945 et 1946, marquant l'un des premiers exemples de justice internationale.
+
+###### Archives questions
+
+Quelle ville abrite le [[Palais de Justice]] où se sont tenus les célèbres [[procès de Nuremberg]] contre les dirigeants nazis après la [[Seconde Guerre mondiale]] en 1945-1946 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville a été inventé le célèbre plat traditionnel allemand, la [[saucisse de Nuremberg]], qui bénéficie d'une appellation d'origine protégée depuis 2003 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville de [[Bavière]] trouve-t-on la plus ancienne [[fête de Noël]] allemande, le [[Christkindlesmarkt]], dont les origines remontent à 1628 ? <!-- cm003 remplacée 2026-11-23 -->

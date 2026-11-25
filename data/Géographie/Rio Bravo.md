@@ -30,11 +30,9 @@ culture_g_justification: "Grand fleuve frontalier utile pour la géographie des 
 ![[Carte_Rio Bravo.png]]
 ###### Questions
 
-Quel fleuve, connu sous le nom de [[Río Grande]] aux [[États-Unis]], forme une partie de la frontière entre les [[États-Unis]] et le [[Mexique]] depuis le traité de [[Guadalupe Hidalgo]] en 1848 ?
+Sous quel nom les Mexicains désignent-ils le fleuve qui sert de frontière avec le [[Texas]] depuis le traité de [[Guadalupe Hidalgo]] de [[1848]] ?
 
-Quel cours d'eau, crucial pour l'irrigation dans le sud de l'[[État du Texas]], est également appelé [[Rio Bravo del Norte]] au [[Mexique]] ?
-
-Quel fleuve, traversant à la fois la ville d'[[El Paso]] au [[Texas]] et celle de [[Ciudad Juárez]] au [[Mexique]], est célèbre en musique grâce au film de [[Howard Hawks]] sorti en 1959 ?
+Quel western de [[Howard Hawks]], sorti en [[1959]], réunit [[John Wayne]], [[Dean Martin]] et [[Ricky Nelson]] ?
 
 ###### Description
 
@@ -45,3 +43,11 @@ Connue sous le nom de [[Río Grande]] du côté américain, cette rivière trave
 Un fait étonnant est que le [[Rio Bravo]] est la cinquième plus longue rivière d'Amérique du Nord, mais elle a traversé une crise notable de sécheresse extrême dans les années 1950, devenue un point de tension géopolitique important. 
 
 En 1994, le [[Rio Bravo]] a été le site de l'une des premières initiatives transfrontalières de conservation avec la création du [[Big Bend]] National Park, une coopération entre les [[États-Unis]] et le [[Mexique]] pour protéger l'environnement commun de la région.
+
+###### Archives questions
+
+Quel cours d'eau, crucial pour l'irrigation dans le sud de l'[[État du Texas]], est également appelé [[Rio Bravo del Norte]] au [[Mexique]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel fleuve, connu sous le nom de [[Río Grande]] aux [[États-Unis]], forme une partie de la frontière entre les [[États-Unis]] et le [[Mexique]] depuis le traité de [[Guadalupe Hidalgo]] en 1848 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel fleuve, traversant à la fois la ville d'[[El Paso]] au [[Texas]] et celle de [[Ciudad Juárez]] au [[Mexique]], est célèbre en musique grâce au film de [[Howard Hawks]] sorti en 1959 ? <!-- cm003 archivée 2026-11-23 -->

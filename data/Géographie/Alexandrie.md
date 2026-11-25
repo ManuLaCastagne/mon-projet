@@ -28,11 +28,11 @@ culture_g_justification: "Grande cité antique associée à Alexandre le Grand, 
 
 ###### Questions
 
-Dans quelle ville, fondée en [[-331 avant J.-C.]], se trouve le phare, considéré comme l'une des sept merveilles du monde antique, appelé le [[Phare d'Alexandrie]] ? 
+Dans quelle ville se dressait le phare de l'île de [[Pharos]], l'une des [[Sept Merveilles du monde]] antique ?
 
-Quel est le nom de la ville portuaire égyptienne aujourd'hui célèbre, qui abrite la [[Bibliothèque d'Alexandrie]] moderne, réouverte officiellement en [[2002]] ? 
+Quel port égyptien a inauguré en [[2002]] une grande bibliothèque moderne en hommage à celle de l'Antiquité ?
 
-Quel est le lieu où, selon l'histoire, le célèbre chef militaire et conquérant, [[Alexandre le Grand]], a ordonné la création d'une ville qui porterait son nom en [[331 avant J.-C.]] ?
+Dans quelle ville égyptienne [[Cléopâtre VII]] se donna-t-elle la mort en 30 av. J.-C. ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Cette ville fut autrefois un centre intellectuel de renommée mondiale grâce à
 Un fait étonnant est que le [[Phare d'Alexandrie]], l'une des Sept Merveilles du monde, fut l'un des plus hauts monuments de l'Antiquité, mesurant environ 130 mètres de hauteur, et a survécu jusqu'en 1480 avant de s'effondrer à cause de tremblements de terre. 
 
 Aujourd'hui, [[Alexandrie]] est la deuxième plus grande ville d'[[Égypte]], continuant d'être un carrefour vital, notamment grâce à son port méditerranéen qui joue un rôle crucial dans le commerce maritime.
+
+###### Archives questions
+
+Dans quelle ville, fondée en [[-331 avant J.-C.]], se trouve le phare, considéré comme l'une des sept merveilles du monde antique, appelé le [[Phare d'Alexandrie]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la ville portuaire égyptienne aujourd'hui célèbre, qui abrite la [[Bibliothèque d'Alexandrie]] moderne, réouverte officiellement en [[2002]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le lieu où, selon l'histoire, le célèbre chef militaire et conquérant, [[Alexandre le Grand]], a ordonné la création d'une ville qui porterait son nom en [[331 avant J.-C.]] ? <!-- cm003 remplacée 2026-11-23 -->

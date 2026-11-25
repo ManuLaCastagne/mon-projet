@@ -28,11 +28,11 @@ culture_g_justification: "Préfecture de l’Aveyron connue notamment pour le mu
 
 ###### Questions
 
-Quelle est la ville française dont la cathédrale [[Notre-Dame de Rodez]] a été achevée en l'année 1531 et est célèbre pour sa tour lanterne unique en son genre ?
+Dans quelle ville est né en [[1919]] le peintre [[Pierre Soulages]] ?
 
 Dans quelle ville se trouve le [[Musée Soulages]], ouvert en 2014, dédié à l'un des plus célèbres artistes contemporains de [[Peinture Abstraite]] ?
 
-Quelle est la préfecture du département de l'[[Aveyron]], classée souvent parmi les villes les plus agréables à vivre en France grâce à son cadre naturel et son patrimoine historique ?
+Quelle ville est la préfecture de l'[[Aveyron]] ?
 
 ###### Description
 
@@ -43,3 +43,9 @@ Elle possède une riche histoire, avec ses origines remontant à l'époque romai
 Un fait étonnant à propos de [[Rodez]] est que sa cathédrale gothique, la Cathédrale [[Notre-Dame]] de [[Rodez]], possède la plus haute flèche de bronze de France, culminant à plus de 87 mètres, installée en 1542. 
 
 En 2010, [[Rodez]] a été élue à plusieurs reprises "ville la plus sportive de France" par le magazine [[L'Équipe]] grâce à ses nombreuses infrastructures sportives et à la diversité des activités proposées.
+
+###### Archives questions
+
+Quelle est la ville française dont la cathédrale [[Notre-Dame de Rodez]] a été achevée en l'année 1531 et est célèbre pour sa tour lanterne unique en son genre ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la préfecture du département de l'[[Aveyron]], classée souvent parmi les villes les plus agréables à vivre en France grâce à son cadre naturel et son patrimoine historique ? <!-- cm003 remplacée 2026-11-23 -->

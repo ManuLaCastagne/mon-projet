@@ -32,11 +32,11 @@ culture_g_justification: "Pays sud-américain utile pour le guarani, son enclave
 ![[Carte_Paraguay.png]]
 ###### Questions
 
-Quel pays d'[[Amérique du Sud]] est le seul à avoir pour langue officielle le [[guarani]], aux côtés de l'espagnol, reconnu officiellement depuis 1992 ?
+Quel pays d'Amérique du Sud a fait du [[guarani]] une langue officielle, aux côtés de l'espagnol, dans sa constitution de [[1992]] ?
 
-Quel pays a gagné la [[guerre de la Triple Alliance]] en 1870, malgré avoir été confronté à trois autres nations ?
+Quel pays fut dévasté entre 1864 et 1870 par la guerre l'opposant au [[Brésil]], à l'[[Argentine]] et à l'[[Uruguay]] ?
 
-Quelle nation sans littoral possède le [[Río Paraguay]], un fleuve crucial pour le transport et l'irrigation, et partage son nom avec ce pays ?
+Quel pays enclavé d'Amérique du Sud a pour capitale [[Asunción]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Sa capitale, [[Asunción]], est l'une des villes les plus anciennes du continent
 Un fait peu connu est que le Paraguay est le seul pays au monde dont le drapeau présente deux côtés différents : il arbore l'emblème national à l'avant et l'emblème du Trésor public à l'arrière. 
 
 L'immense fleuve [[Paraguay]], qui traverse le pays du nord au sud, joue un rôle crucial dans le transport et l'économie, et il est aussi bordé par l'impressionnant réseau de canaux de l'[[Humid Chaco]].
+
+###### Archives questions
+
+Quelle nation sans littoral possède le [[Río Paraguay]], un fleuve crucial pour le transport et l'irrigation, et partage son nom avec ce pays ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel pays d'[[Amérique du Sud]] est le seul à avoir pour langue officielle le [[guarani]], aux côtés de l'espagnol, reconnu officiellement depuis 1992 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel pays a gagné la [[guerre de la Triple Alliance]] en 1870, malgré avoir été confronté à trois autres nations ? <!-- cm003 remplacée 2026-11-23 -->

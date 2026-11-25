@@ -32,11 +32,11 @@ culture_g_justification: "Grande ville française très rentable grâce à la C�
 ![[Carte_Nice.png]]
 ###### Questions
 
-Dans quelle ville française se trouve la fameuse [[Promenade des Anglais]], une célèbre promenade en bord de mer inaugurée en 1824?
+Dans quelle ville la [[Promenade des Anglais]] longe-t-elle la [[baie des Anges]] ?
 
-Quel est le nom de la ville où fut signé le [[Traité de Nice]] en 2001, traitant de la réorganisation des institutions de l'Union européenne?
+Dans quelle ville le Conseil européen de décembre [[2000]] a-t-il conclu un traité réformant les institutions de l'[[Union européenne]] avant l'élargissement ?
 
-Quel aéroport français, ouvert en 1944, est connu pour être l'un des plus fréquentés de France après [[Roissy-Charles de Gaulle]] et [[Orly]], et dessert principalement la [[Côte d'Azur]]?
+Quelle ville de la [[Côte d'Azur]] organise chaque hiver un carnaval accompagné de batailles de fleurs ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Aux alentours de [[Nice]], vous trouverez le célèbre boulevard de la [[Promena
 Un fait étonnant sur [[Nice]] est qu'elle possède un musée consacré à l'artiste français [[Henri Matisse]], ouvert en 1963, qui abrite l'une des plus importantes collections de ses œuvres.
 
 De plus, [[Nice]] détient le record insolite d'être la ville française où la première ligne de tramway électrique est entrée en fonctionnement, en 1900, bien avant certaines villes plus grandes comme [[Paris]].
+
+###### Archives questions
+
+Quel est le nom de la ville où fut signé le [[Traité de Nice]] en 2001, traitant de la réorganisation des institutions de l'Union européenne? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel aéroport français, ouvert en 1944, est connu pour être l'un des plus fréquentés de France après [[Roissy-Charles de Gaulle]] et [[Orly]], et dessert principalement la [[Côte d'Azur]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française se trouve la fameuse [[Promenade des Anglais]], une célèbre promenade en bord de mer inaugurée en 1824? <!-- cm003 remplacée 2026-11-23 -->

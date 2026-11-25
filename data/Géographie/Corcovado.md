@@ -31,11 +31,11 @@ culture_g_justification: "Montagne de Rio immédiatement associée au Christ Ré
 ![[Carte_Corcovado.png]]
 ###### Questions
 
-Dans quelle ville brésilienne célèbre pour ses plages se trouve la montagne [[Corcovado]] qui est surmontée d'une statue de [[Jésus]] reconnaissable dans le monde entier depuis 1931 ?
+Quel mont de [[Rio de Janeiro]] porte la statue du [[Christ Rédempteur]], inaugurée en [[1931]] ?
 
-Quel est le nom de la montagne de [[Rio de Janeiro]] qui culmine à 710 mètres et abrite la célèbre statue du [[Christ Rédempteur]] ?
+Quel sommet carioca, dont le nom signifie « bossu » en portugais, culmine à 710 mètres ?
 
-Quel site naturel, inscrit au patrimoine mondial de l'[[UNESCO]] depuis 2012 en tant que partie de la [[Forêt de Tijuca]], inclut le [[Corcovado]] avec sa figure emblématique du [[Christ]] ?
+Quel sommet du [[parc national de la Tijuca]] fait partie des paysages cariocas inscrits au [[patrimoine mondial de l'UNESCO]] en [[2012]] ?
 
 ###### Description
 
@@ -46,3 +46,11 @@ Sur ce pic se dresse la célèbre statue du [[Christ Rédempteur]], achevée en 
 Fait peu connu, avant l'installation de la statue, le Corcovado était un important point d'observation pour la cartographie de la ville, notamment grâce à sa vue imprenable sur des lieux célèbres comme la baie de [[Guanabara]], le [[Pain de Sucre]] et les plages de [[Copacabana]]. 
 
 En 1884, une ligne de train à crémaillère a été inaugurée sur le Corcovado, ce qui en fait l'une des plus anciennes attractions touristiques de la région, encore en fonctionnement aujourd'hui.
+
+###### Archives questions
+
+Dans quelle ville brésilienne célèbre pour ses plages se trouve la montagne [[Corcovado]] qui est surmontée d'une statue de [[Jésus]] reconnaissable dans le monde entier depuis 1931 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel site naturel, inscrit au patrimoine mondial de l'[[UNESCO]] depuis 2012 en tant que partie de la [[Forêt de Tijuca]], inclut le [[Corcovado]] avec sa figure emblématique du [[Christ]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la montagne de [[Rio de Janeiro]] qui culmine à 710 mètres et abrite la célèbre statue du [[Christ Rédempteur]] ? <!-- cm003 remplacée 2026-11-23 -->

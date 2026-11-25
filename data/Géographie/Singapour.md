@@ -30,12 +30,20 @@ culture_g_justification: "Cité-État très rentable à apprendre grâce à son 
 ![[Carte_Singapour.png]]
 ###### Questions
 
-Quelle ville-État est connue pour avoir le plus grand nombre d’arbres par kilomètre carré parmi les zones urbaines dans le monde, ayant commencé une politique de verdissement dès 1963 ?  
+Quelle cité-État d'Asie du Sud-Est a été fondée comme comptoir britannique par [[Stamford Raffles]] en [[1819]] ?
 
-Quel pays détient le record du ©10 (et n'a) .) plus ancien contrat de location de porte-conteneurs au monde, signé en 1972, pour le terminal de [[Singapour]] ?  
+Quel pays, exclu de la [[Malaisie]], est devenu indépendant le 9 août [[1965]] ?
 
-Dans quel pays se trouve l'aéroport classé premier mondial, selon [[Skytrax]] en 2023 pour la huitième fois consécutive ?
+Dans quelle cité-État se trouve l'hôtel [[Marina Bay Sands]], dont les trois tours sont reliées à leur sommet par une plateforme avec piscine ?
 
 ###### Description
 
 [[Singapour]], cité-État insulaire située en Asie du Sud-Est, est connue pour sa diversité culturelle et sa modernité fulgurante. En 1965, [[Singapour]] acquiert son indépendance après sa séparation de la Fédération de [[Malaisie]], devenant ainsi une nation souveraine. Le célèbre [[Marina Bay Sands]], inauguré en 2010, est l'un des exemples emblématiques de l'architecture audacieuse de la ville, attirant des millions de touristes chaque année. Le quartier de [[Little India]], riche en couleurs et en senteurs, témoigne de l'importante communauté indienne installée à [[Singapour]], et accueille chaque année le festival [[Deepavali]], célébré avec éclat.
+
+###### Archives questions
+
+Quel pays détient le record du ©10 (et n'a) .) plus ancien contrat de location de porte-conteneurs au monde, signé en 1972, pour le terminal de [[Singapour]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville-État est connue pour avoir le plus grand nombre d’arbres par kilomètre carré parmi les zones urbaines dans le monde, ayant commencé une politique de verdissement dès 1963 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel pays se trouve l'aéroport classé premier mondial, selon [[Skytrax]] en 2023 pour la huitième fois consécutive ? <!-- cm003 remplacée 2026-11-23 -->

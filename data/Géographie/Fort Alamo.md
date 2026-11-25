@@ -29,11 +29,9 @@ culture_g_justification: "Site emblématique de la révolution texane, fréquent
 
 ###### Questions
 
-Dans quelle ville du [[Texas]] se situe le [[Fort Alamo]], célèbre pour une bataille en 1836?
+Quel fort, aménagé dans une ancienne mission espagnole, fut assiégé par l'armée du général [[Antonio López de Santa Anna|Santa Anna]] du 23 février au 6 mars [[1836]] ?
 
-Quel fort à [[San Antonio]] a été le théâtre d'un célèbre siège lors de la révolution texane?
-
-Dans quel site historique du [[Texas]] les forces mexicaines ont-elles vaincu les texanes en mars 1836?
+Dans quel fort de [[San Antonio]] [[Davy Crockett]] trouva-t-il la mort en [[1836]] ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Bien que souvent associé à la bravoure des défenseurs américains, [[Fort Ala
 Fait étonnant, avant d'être renommé [[Fort Alamo]], le site a servi comme école religieuse et a même été utilisé comme quartier général militaire, mais son nom "Alamo" provient d'une compagnie militaire honorant la ville espagnole d'[[Álamo de Parras]].  
 
 Un fait peu connu est que William Travis, l'un des célèbres défenseurs, a envoyé une lettre désespérée de [[Fort Alamo]] demandant de l’aide, mais très peu de renforts sont arrivés, intensifiant le mythe de la résistance héroïque du fort.
+
+###### Archives questions
+
+Dans quelle ville du [[Texas]] se situe le [[Fort Alamo]], célèbre pour une bataille en 1836? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel fort à [[San Antonio]] a été le théâtre d'un célèbre siège lors de la révolution texane? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel site historique du [[Texas]] les forces mexicaines ont-elles vaincu les texanes en mars 1836? <!-- cm003 archivée 2026-11-23 -->

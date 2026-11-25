@@ -32,11 +32,11 @@ culture_g_justification: "Le fleuve Iguaçu est surtout connu à travers les chu
 ![[Carte_Iguaçu.png]]
 ###### Questions
 
-Quelle est la rivière qui forme les célèbres chutes situées à la frontière entre le [[Brésil]] et l'[[Argentine]] ?
+Quelle rivière forme, à la frontière entre le [[Brésil]] et l'[[Argentine]], des chutes dont le nom guarani signifie « grandes eaux » ?
 
-Quel parc national, classé au patrimoine mondial de l'[[UNESCO]] en 1986, abrite les spectaculaires chutes d'[[Iguaçu]] ?
+Quel parc national brésilien, inscrit au [[patrimoine mondial de l'UNESCO]] en [[1986]], borde des chutes partagées avec l'Argentine ?
 
-Quel est le nom de la ville brésilienne proche des célèbres chutes qui a accueilli ses premiers Européens en 1549 ?
+Quelles chutes l'Espagnol [[Álvar Núñez Cabeza de Vaca]] fut-il le premier Européen à décrire, en [[1541]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Constituées principalement par les eaux de la rivière [[Iguaçu]], elles sont 
 L'année 1984 a marqué une étape importante pour les chutes lorsqu'elles ont été inscrites au patrimoine mondial par l'[[UNESCO]], renforçant ainsi leur statut d'attraction naturelle incontournable.
 
 Un fait peu connu mais tout aussi fascinant est que les chutes d'Iguaçu ont été découvertes par l'explorateur [[Álvar Núñez Cabeza de Vaca]] en 1541, et elles sont parmi les rares sites à être abrités par deux parcs nationaux différents : le [[Parc national d'Iguaçu]] au Brésil et le [[Parc national Iguazú]] en Argentine.
+
+###### Archives questions
+
+Quel parc national, classé au patrimoine mondial de l'[[UNESCO]] en 1986, abrite les spectaculaires chutes d'[[Iguaçu]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la rivière qui forme les célèbres chutes situées à la frontière entre le [[Brésil]] et l'[[Argentine]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la ville brésilienne proche des célèbres chutes qui a accueilli ses premiers Européens en 1549 ? <!-- cm003 remplacée 2026-11-23 -->

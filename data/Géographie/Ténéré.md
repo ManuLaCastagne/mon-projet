@@ -31,11 +31,10 @@ culture_g_justification: "Le Ténéré est un désert saharien identifiable par 
 ![[Carte_Ténéré.png]]
 ###### Questions
 
-Quelle région désertique située au milieu du [[Sahara]] est connue pour abriter l'[[Arbre du Ténéré]], souvent désigné comme l'arbre le plus isolé du monde jusqu'à sa destruction en 1973 ? <!-- score: 5 -->
+Dans quel désert un camion renversa-t-il en [[1973]] un acacia réputé être l'arbre le plus isolé du monde ?
 
-Quel désert situé en [[Niger]] est célèbre pour la découverte d'une nécropole préhistorique comportant des squelettes humains datant de 5000 à 2000 avant J.-C. nommée [[Gobrine]] ?
+Dans quel désert du [[Niger]] a été découverte en [[2000]] la nécropole néolithique de Gobero ?
 
-Quel secteur du [[Niger]], abritant une biodiversité unique dans un environnement aride, est officiellement reconnu comme l'un des principaux atouts écologiques depuis son classement en [[Réserve Naturelle Nationale]] en 2012 ?
 ###### Description
 
 Le [[Ténéré]] est une vaste étendue désertique située dans le [[Sahara]], principalement dans le nord du [[Niger]] et une partie plus petite au [[Tchad]]. 
@@ -45,3 +44,11 @@ Connu pour son paysage presque lunaire, le Ténéré abritait autrefois l'[[Arbr
 Dans cette région, l'[[Erg du Bilma]] se distingue par ses dunes spectaculaires qui peuvent atteindre jusqu'à 200 mètres de hauteur. 
 
 Fait peu connu, le Ténéré abrite également le [[Graveyard of the Elephants]], une zone où de nombreux éléphants ont été retrouvés en raison de l'absence totale d'eau, un exemple extrême de l'hostilité du désert qui pourrait intriguer même les experts en géographie lors d'une question de quiz.
+
+###### Archives questions
+
+Quelle région désertique située au milieu du [[Sahara]] est connue pour abriter l'[[Arbre du Ténéré]], souvent désigné comme l'arbre le plus isolé du monde jusqu'à sa destruction en 1973 ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel désert situé en [[Niger]] est célèbre pour la découverte d'une nécropole préhistorique comportant des squelettes humains datant de 5000 à 2000 avant J.-C. nommée [[Gobrine]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel secteur du [[Niger]], abritant une biodiversité unique dans un environnement aride, est officiellement reconnu comme l'un des principaux atouts écologiques depuis son classement en [[Réserve Naturelle Nationale]] en 2012 ? <!-- cm003 archivée 2026-11-23 -->

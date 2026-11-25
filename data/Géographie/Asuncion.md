@@ -30,12 +30,18 @@ culture_g_justification: "Capitale du Paraguay utile pour la géographie sud-am�
 ![[Carte_Asuncion.png]]
 ###### Questions
 
-Quelle est la capitale du [[Paraguay]], un pays enclavé d'[[Amérique du Sud]] dont le nom provient d'un mot guarani signifiant "lieu de grandes eaux" ?
+Quelle est la capitale du [[Paraguay]] ?
 
-En quelle ville, fondée en 1537, trouve-t-on le jardin botanique et le zoo le plus ancien de [[Paraguay]], abritant plus de 100 espèces animales ?
-
-Quelle ville a été nommée d'après Nuestra Señora [[Santa María]] de la [[Asunción]], en hommage à l'[[Assomption de Marie]], célébrée par l'Église catholique chaque année le 15 août ?
+Quelle capitale sud-américaine fut fondée par les Espagnols le 15 août [[1537]], au bord du [[río Paraguay]] ?
 
 ###### Description
 
 [[Asuncion]] est la capitale et la plus grande ville du [[Paraguay]], fondée en 1537 par l'explorateur espagnol Juan de [[Salazar y Espinosa]]. La ville se trouve sur la rive gauche du fleuve [[Paraguay]], qui la sépare de la ville argentine de [[Clorinda]]. Asuncion est connue pour sa contribution à l'histoire de l'Amérique latine, abritant des bâtiments emblématiques comme le [[Palacio de los López]], construit sous le gouvernement de [[Carlos Antonio López]] au milieu du XIXe siècle. En 1844, c'est ici que le Paraguay a adopté sa première constitution en tant que république indépendante, renforçant son rôle central dans la politique et l'administration du pays.
+
+###### Archives questions
+
+Quelle ville a été nommée d'après Nuestra Señora [[Santa María]] de la [[Asunción]], en hommage à l'[[Assomption de Marie]], célébrée par l'Église catholique chaque année le 15 août ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle est la capitale du [[Paraguay]], un pays enclavé d'[[Amérique du Sud]] dont le nom provient d'un mot guarani signifiant "lieu de grandes eaux" ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle ville, fondée en 1537, trouve-t-on le jardin botanique et le zoo le plus ancien de [[Paraguay]], abritant plus de 100 espèces animales ? <!-- cm003 remplacée 2026-11-23 -->

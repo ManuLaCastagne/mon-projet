@@ -32,11 +32,11 @@ culture_g_justification: "Ville française identifiable par l’AJ Auxerre, l’
 ![[Carte_Auxerre.png]]
 ###### Questions
 
-Dans quelle ville, fondée au cours de l'année [[782]], trouve-t-on la célèbre équipe de football de l'[[AJ Auxerre]], qui a remporté le championnat de France de [[Ligue 1]] en 1996 ?
+Quelle ville a vu son club de football, entraîné par [[Guy Roux]], réussir le doublé championnat-Coupe de France en [[1996]] ?
 
-Quelle ville française, dont la construction de la [[Cathédrale Saint-Étienne]] a débuté en 1215, est un exemple remarquable de l'architecture gothique en [[Bourgogne]] ?
+Dans quelle ville de l'[[Yonne]] la cathédrale gothique Saint-Étienne fut-elle commencée en [[1215]] ?
 
-Dans quelle ville du [[Bourgogne-Franche-Comté]], traversée par la rivière [[Yonne]], se situe le vignoble reconnu pour la production du célèbre vin de [[Chablis]] ? <!-- score: 4 -->
+Quelle ville est la préfecture de l'[[Yonne]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ La ville est traversée par la [[Yonne]], un affluent de la [[Seine]], qui a jou
 Fait étonnant, c'est à [[Auxerre]] que la première République des États-Unis d'Europe a été proclamée, en 1792, avant même l'établissement officiel de l'Union européenne, une initiative alors sans lendemain. 
 
 La ville est également connue pour sa célèbre cathédrale [[Saint-Étienne]], dont la construction a débuté au XIIe siècle, et qui présente l'une des plus anciennes représentations du Christ en majesté du pays.
+
+###### Archives questions
+
+Dans quelle ville, fondée au cours de l'année [[782]], trouve-t-on la célèbre équipe de football de l'[[AJ Auxerre]], qui a remporté le championnat de France de [[Ligue 1]] en 1996 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville du [[Bourgogne-Franche-Comté]], traversée par la rivière [[Yonne]], se situe le vignoble reconnu pour la production du célèbre vin de [[Chablis]] ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville française, dont la construction de la [[Cathédrale Saint-Étienne]] a débuté en 1215, est un exemple remarquable de l'architecture gothique en [[Bourgogne]] ? <!-- cm003 remplacée 2026-11-23 -->

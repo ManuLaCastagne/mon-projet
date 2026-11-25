@@ -33,11 +33,11 @@ culture_g_justification: "Bénarès est une cité religieuse et historique majeu
 ![[Carte_Bénarès.png]]
 ###### Questions
 
-[[Quel fleuve sacré]] traverse la ville de [[Bénarès]], considérée comme l'une des plus anciennes villes habitées en continu du monde, située en [[Inde]] ?
+Près de quelle ville sainte de l'[[Inde]] se trouve [[Sarnath]], où le [[Bouddha]] prononça son premier sermon ?
 
-Quel lieu, également connu sous le nom de [[Varanasi]], est réputé pour être un important centre spirituel et religieux, attirant des pèlerins depuis environ l'an [[800 av. J.-C.]] ?
+Quelle ville sainte de l'[[Uttar Pradesh]] est la circonscription de [[Narendra Modi]] à la chambre basse indienne depuis [[2014]] ?
 
-Quelle ville, réputée pour ses [[ghâts]] donnant sur le [[Gange]] et ses ateliers de soie, est souvent mentionnée dans les textes anciens et est considérée comme l'une des cités les plus saintes de l'[[Hindouisme]] ?
+Quelle ville sainte de l'[[hindouisme]], dédiée à [[Shiva]], aligne des dizaines de ghâts, escaliers descendant vers le [[Gange]] ?
 
 ###### Description
 
@@ -48,3 +48,11 @@ Fondée au VIe siècle avant J.-C., cette ville est considérée comme la capita
 Un fait étonnant et peu connu est que [[Bénarès]] est parfois surnommée "la ville de la lumière", en raison de sa célèbre fête des lumières, [[Dev Deepawali]], qui se tient exactement 15 jours après [[Diwali]] et attire des milliers de visiteurs pour admirer les ghats illuminés.
 
 Officiellement reconnue comme une ville universitaire, elle abrite la [[Banaras Hindu University]], une des plus grandes universités résidentielles en [[Asie]], fondée en 1916 par [[Pandit Madan Mohan Malaviya]].
+
+###### Archives questions
+
+[[Quel fleuve sacré]] traverse la ville de [[Bénarès]], considérée comme l'une des plus anciennes villes habitées en continu du monde, située en [[Inde]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville, réputée pour ses [[ghâts]] donnant sur le [[Gange]] et ses ateliers de soie, est souvent mentionnée dans les textes anciens et est considérée comme l'une des cités les plus saintes de l'[[Hindouisme]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu, également connu sous le nom de [[Varanasi]], est réputé pour être un important centre spirituel et religieux, attirant des pèlerins depuis environ l'an [[800 av. J.-C.]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -32,13 +32,12 @@ culture_g_justification: "Ville et château majeurs de l’histoire de France, �
 ![[Carte_Fontainebleau.png]]
 ###### Questions
 
-Quelle célèbre forêt française, associée à la chasse royale et s'étendant sur environ 25 000 hectares, est un site prisé des randonneurs et grimpeurs, située à proximité de [[Paris]] ?
+Quelle forêt de [[Seine-et-Marne]], d'environ 25 000 hectares, attire les grimpeurs avec ses blocs de grès ?
 
-Quel château, inscrit au [[patrimoine mondial de l'UNESCO]], a été une résidence des souverains français du XIIe au XIXe siècle et a notamment vu la signature du [[Traité de Fontainebleau]] en 1814 ?
+Dans quel château [[Napoléon Ier]] fit-il ses adieux à la [[Garde impériale]] le 20 avril [[1814]] ?
 
-Quel lieu en [[Île-de-France]] abritait autrefois une école d'art qui a donné naissance à une école de peinture influente au milieu du XVIe siècle ? <!-- score: 5 -->
+Quel château a donné son nom à une école de peinture maniériste du XVIe siècle, animée par [[Rosso Fiorentino]] et le [[Primatice]] ?
 
-Quelle ville d'Île-de-France possède une école d'[[équitation]] réputée ?
 ###### Description
 
 [[Fontainebleau]], située au cœur de la région [[Île-de-France]], est entourée par sa célèbre forêt qui s'étend sur environ 25 000 hectares et attire de nombreux amateurs de randonnée et d'escalade.  
@@ -48,3 +47,13 @@ Le château de [[Fontainebleau]], ancienne résidence des rois de France, a vu l
 Fait peu connu, la forêt de [[Fontainebleau]] abrite une grande variété de biodiversité, dont 7 espèces endémiques qu’on ne trouve nulle part ailleurs en France, ce qui en fait un site naturel exceptionnel.  
 
 En 1981, le château de [[Fontainebleau]] a été inscrit au patrimoine mondial de l'[[UNESCO]], reconnaissant son importance historique et architecturale.
+
+###### Archives questions
+
+Quel château, inscrit au [[patrimoine mondial de l'UNESCO]], a été une résidence des souverains français du XIIe au XIXe siècle et a notamment vu la signature du [[Traité de Fontainebleau]] en 1814 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle célèbre forêt française, associée à la chasse royale et s'étendant sur environ 25 000 hectares, est un site prisé des randonneurs et grimpeurs, située à proximité de [[Paris]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu en [[Île-de-France]] abritait autrefois une école d'art qui a donné naissance à une école de peinture influente au milieu du XVIe siècle ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville d'Île-de-France possède une école d'[[équitation]] réputée ? <!-- cm003 archivée 2026-11-23 -->

@@ -32,11 +32,11 @@ culture_g_justification: "Péninsule normande associée au débarquement, au nuc
 ![[Carte_Cotentin.png]]
 ###### Questions
 
-En quelle année la [[pointe de La Hague]] dans le [[Cotentin]] a-t-elle été le site principal de tournage du film "[[L'Équipier]]"?
+Quelle presqu'île normande se termine au nord-ouest par le cap de la Hague ?
 
-Quel est le nom du site dans le [[Cotentin]] qui abrite une centrale nucléaire ayant commencé sa production en 1976? <!-- score: 10 -->
+Dans quelle presqu'île se trouve la centrale nucléaire de [[Flamanville]], dont le réacteur EPR a été raccordé au réseau en [[2024]] ?
 
-Quel événement important lié à l'histoire maritime s'est déroulé au large des côtes du [[Cotentin]] en 1066?
+Sur quelle presqu'île se trouve [[Utah Beach]], plage du débarquement du 6 juin [[1944]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Cette région est célèbre pour son paysage de bocages et ses falaises spectacu
 Une curiosité géographique du Cotentin est l'île anglo-normande de [[Tatihou]], qui, avec son fort construit en 1694, inscrit en tant que site au patrimoine mondial de l'UNESCO depuis 2008, est parfois accessible à pied à marée basse grâce au phénomène d'estran. 
 
 Fait étonnant, le Cotentin abrite [[Cherbourg]], qui, avec son port artificiel de près de 1500 hectares, a été en 1944 le plus grand port artificiel jamais construit au monde pour les besoins du débarquement allié.
+
+###### Archives questions
+
+En quelle année la [[pointe de La Hague]] dans le [[Cotentin]] a-t-elle été le site principal de tournage du film "[[L'Équipier]]"? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du site dans le [[Cotentin]] qui abrite une centrale nucléaire ayant commencé sa production en 1976? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel événement important lié à l'histoire maritime s'est déroulé au large des côtes du [[Cotentin]] en 1066? <!-- cm003 remplacée 2026-11-23 -->

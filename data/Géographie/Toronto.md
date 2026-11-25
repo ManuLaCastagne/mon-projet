@@ -36,7 +36,7 @@ Dans quelle ville se trouve la [[Tour CN]], qui a été la plus haute structure 
 
 Quelle est la plus grande ville du [[Canada]] par sa population métropolitaine selon le recensement de 2021 ?
 
-Dans quelle ville canadienne se déroule annuellement le [[festival international du film de Toronto]], l'un des événements cinématographiques les plus prestigieux depuis sa création en 1976 ?
+Dans quelle ville canadienne un festival international du film se tient-il chaque septembre depuis [[1976]] ?
 
 ###### Description
 
@@ -47,3 +47,7 @@ La [[Tour CN]], construite en 1976, fut à un certain moment la plus haute struc
 Une particularité surprenante de [[Toronto]] est qu'elle abrite le [[PATH]], le plus vaste réseau piétonnier souterrain au monde, s'étendant sur environ 30 kilomètres.
 
 Chaque année, le [[Festival international du film de Toronto]], lancé en 1976, attire des centaines de milliers de cinéphiles et est reconnu comme l'un des plus influents du monde.
+
+###### Archives questions
+
+Dans quelle ville canadienne se déroule annuellement le [[festival international du film de Toronto]], l'un des événements cinématographiques les plus prestigieux depuis sa création en 1976 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -32,11 +32,9 @@ culture_g_justification: "Zone maritime stratégique fréquemment liée au comme
 ![[Carte_Golfe d'Aden.png]]
 ###### Questions
 
-En quelle année [[le Golfe d'Aden]] a-t-il été désigné comme une zone dangereuse en raison des attaques de pirates, nécessitant une protection militaire internationale accrue ?
+Quel golfe sépare le [[Yémen]] de la [[Somalie]] et communique avec la [[mer Rouge]] par le détroit de [[Bab-el-Mandeb]] ?
 
-Quel plan d'intervention maritime a été mis en place par la [[Union Européenne]] pour lutter contre la piraterie dans le [[Golfe d'Aden]] en 2008 ?
-
-Quelle route maritime stratégique relie [[la mer Rouge]] à l'océan Indien, en passant par [[le Golfe d'Aden]], étant essentielle pour le commerce mondial ?
+Dans quel golfe l'[[Union européenne]] a-t-elle lancé en décembre [[2008]] l'opération navale Atalante contre la piraterie somalienne ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Il borde principalement deux pays : le [[Yémen]] au nord et [[Somalie]] au sud,
 Un fait remarquable est qu'en 2010, plus de 20 000 navires, soit près de 7 % du commerce maritime mondial, ont transité par le [[Golfe d'Aden]], soulignant son importance stratégique. 
 
 Il est également tristement célèbre pour avoir été une zone à haut risque de piraterie, surtout entre 2008 et 2012, période au cours de laquelle de nombreuses attaques de piraterie ont été recensées, motivant une des plus grandes opérations navales anti-piraterie de l'histoire moderne.
+
+###### Archives questions
+
+En quelle année [[le Golfe d'Aden]] a-t-il été désigné comme une zone dangereuse en raison des attaques de pirates, nécessitant une protection militaire internationale accrue ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel plan d'intervention maritime a été mis en place par la [[Union Européenne]] pour lutter contre la piraterie dans le [[Golfe d'Aden]] en 2008 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle route maritime stratégique relie [[la mer Rouge]] à l'océan Indien, en passant par [[le Golfe d'Aden]], étant essentielle pour le commerce mondial ? <!-- cm003 archivée 2026-11-23 -->

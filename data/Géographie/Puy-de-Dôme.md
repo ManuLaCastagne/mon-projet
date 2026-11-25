@@ -32,11 +32,9 @@ culture_g_justification: "Département français identifiable par Clermont-Ferra
 ![[Carte_Puy-de-Dôme.png]]
 ###### Questions
 
-Quel département français, nommé d'après un volcan éteint, abrite le célèbre site du [[Puy-de-Dôme]] qui culmine à 1 465 mètres ?
+Quel département doit son nom à un volcan de 1 465 mètres qui domine [[Clermont-Ferrand]] ?
 
-Dans quel département se trouve [[Clermont-Ferrand]], la ville où est née [[Léonore Moncond’huy]] en 1990, connue pour être la plus jeune maire écologiste d'une ville de plus de 100 000 habitants en France ?
-
-Quel département, ayant pour code [[63]], a été le lieu du premier vol d'une montgolfière habitée sur le plateau de [[Gergovie]] en 1784 ?
+Dans quel département se trouve [[Vulcania]], parc consacré aux volcans ouvert en [[2002]] ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Le [[Puy-de-Dôme]], un département au cœur de la région [[Auvergne-Rhône-Al
 Un fait étonnant est que le [[Puy de Dôme]] a été le théâtre de la première expérience télégraphique aérienne en 1873 par le physicien [[Augustin Fresnel]], qui y a installé un sémaphore pour améliorer la communication optique à longue distance. 
 
 Le parc naturel régional des [[Volcans d'Auvergne]], créé en 1977, abrite une biodiversité exceptionnelle et est reconnu comme l'un des plus vastes parcs régionaux de France, couvrant environ 395 070 hectares.
+
+###### Archives questions
+
+Quel département français, nommé d'après un volcan éteint, abrite le célèbre site du [[Puy-de-Dôme]] qui culmine à 1 465 mètres ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel département se trouve [[Clermont-Ferrand]], la ville où est née [[Léonore Moncond’huy]] en 1990, connue pour être la plus jeune maire écologiste d'une ville de plus de 100 000 habitants en France ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel département, ayant pour code [[63]], a été le lieu du premier vol d'une montgolfière habitée sur le plateau de [[Gergovie]] en 1784 ? <!-- cm003 archivée 2026-11-23 -->

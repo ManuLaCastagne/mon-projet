@@ -28,11 +28,9 @@ culture_g_justification: "Référence biblique très connue, utile pour les réc
 
 ###### Questions
 
-[[Quelle]] ville, mentionnée aux côtés de [[Sodome]], aurait été détruite en raison de son immoralité selon la [[Bible]] et a été située aux alentours de la [[mer Morte]] ? 
+Quelle ville biblique, détruite par une pluie de soufre et de feu selon la [[Genèse]], forme avec [[Sodome]] une expression désignant un lieu de débauche ?
 
-Quelle ville antique, décrite dans le livre de la [[Genèse]], aurait été anéantie aux alentours de l'an [[-2000]] avant notre ère et est associée aux évènements tragiques de [[Sodome]] ? 
-
-[[Gomorrhe]], désignée dans des récits bibliques comme étant détruite par du soufre et du feu, est censée être localisée près de quel site géographique moderne ?
+Selon la [[Genèse]], quelle ville était gouvernée par le roi Birsha lors de la guerre contre Kedorlaomer ?
 
 ###### Description
 
@@ -43,3 +41,11 @@ Elle est située dans la région de la [[mer Morte]], qui est une mer intérieur
 Un fait étonnant à propos de [[Gomorrhe]] est qu'elle est parfois liée à un phénomène géologique : la possibilité que sa destruction soit le résultat d'une éruption volcanique suivie d'un tremblement de terre, des événements géologiques encore si rares dans cette région. 
 
 Selon les récits bibliques, [[Gomorrhe]] aurait été détruite aux alentours de 1900 avant notre ère, bien que cela reste sujet à débat parmi les historiens et les archéologues.
+
+###### Archives questions
+
+[[Gomorrhe]], désignée dans des récits bibliques comme étant détruite par du soufre et du feu, est censée être localisée près de quel site géographique moderne ? <!-- cm003 remplacée 2026-11-23 -->
+
+[[Quelle]] ville, mentionnée aux côtés de [[Sodome]], aurait été détruite en raison de son immoralité selon la [[Bible]] et a été située aux alentours de la [[mer Morte]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville antique, décrite dans le livre de la [[Genèse]], aurait été anéantie aux alentours de l'an [[-2000]] avant notre ère et est associée aux évènements tragiques de [[Sodome]] ? <!-- cm003 archivée 2026-11-23 -->

@@ -32,11 +32,11 @@ culture_g_justification: "État insulaire bien connu, utile pour l’histoire co
 ![[Carte_Sri Lanka.png]]
 ###### Questions
 
-Cet État insulaire situé dans l'océan Indien, autrefois connu sous le nom de [[Ceylan]], a changé de nom officiel en [[Sri Lanka]] en quelle année exacte ?
+Quel pays insulaire de l'océan Indien s'appelait Ceylan jusqu'en [[1972]] ?
 
-Ce pays est réputé pour ses anciennes cités, dont la célèbre ville de [[Sigirîya]] construite sur un rocher par le roi [[Kashyapa]] I au Ve siècle. Quel est le nom actuel de ce pays ?
+Dans quel pays se dresse le rocher de [[Sigirîya]], forteresse du roi Kashyapa Ier au Ve siècle ?
 
-Quel pays, situé juste au sud-est de [[l'Inde]], est le plus grand producteur mondial de [[thé de Ceylan]] depuis la période coloniale britannique ?
+Dans quel pays se trouve [[Kandy]], ancienne capitale royale qui abrite le temple de la Dent du [[Bouddha]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ La capitale législative, [[Sri Jayawardenepura Kotte]], se trouve dans la banli
 Un fait étonnant à propos de [[Sri Lanka]] est qu'il abrite la montagne de [[Sri Pada]], également connue sous le nom de [[Adam's Peak]], qui est un lieu de pèlerinage bouddhiste, hindou, musulman et chrétien ; une empreinte, supposée être celle de [[Bouddha]], [[Shiva]], [[Adam]] ou [[Saint Thomas]], y est vénérée. 
 
 En 1976, [[Sri Lanka]] a établi un record en devenant la première nation au monde à élire une femme, [[Sirimavo Bandaranaike]], comme Premier ministre, réaffirmant encore l'impact significatif du pays sur la scène mondiale.
+
+###### Archives questions
+
+Cet État insulaire situé dans l'océan Indien, autrefois connu sous le nom de [[Ceylan]], a changé de nom officiel en [[Sri Lanka]] en quelle année exacte ? <!-- cm003 remplacée 2026-11-23 -->
+
+Ce pays est réputé pour ses anciennes cités, dont la célèbre ville de [[Sigirîya]] construite sur un rocher par le roi [[Kashyapa]] I au Ve siècle. Quel est le nom actuel de ce pays ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel pays, situé juste au sud-est de [[l'Inde]], est le plus grand producteur mondial de [[thé de Ceylan]] depuis la période coloniale britannique ? <!-- cm003 remplacée 2026-11-23 -->

@@ -32,11 +32,9 @@ culture_g_justification: "Massif provençal très reconnaissable par ses roches 
 ![[Carte_Esterel.png]]
 ###### Questions
 
-Quel massif montagneux situé dans le sud-est de la France, connu pour sa couleur rouge caractéristique et ses paysages spectaculaires, s'appelle l'[[Esterel]] ?
+Quel massif volcanique de Provence, aux roches rouges de rhyolite, se dresse entre [[Saint-Raphaël (Var)|Saint-Raphaël]] et [[Mandelieu-la-Napoule]] ?
 
-Quelle chaîne de montagnes dans le département du [[Var]] a été modifiée au XVIe siècle lorsqu'une route fut construite pour faciliter le déplacement entre [[Fréjus]] et [[Cannes]], traversant l'[[Esterel]] ?
-
-Quel site naturel, abritant plusieurs réserves protégées depuis la loi de 1853 sur la protection des forêts, est connu sous le nom d'[[Esterel]] ? <!-- score: 10 -->
+Quel massif la corniche d'Or longe-t-elle entre Saint-Raphaël et [[Théoule-sur-Mer]] ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ D'une couleur rouge distinctive, cette formation géologique s'étend sur enviro
 Un fait étonnant sur cette région est que le sommet le plus élevé, le [[Mont Vinaigre]], culmine à seulement 618 mètres, mais c'est l'un des sommets les plus accessibles et populaires pour les randonneurs, offrant une vue imprenable sur la [[Côte d'Azur]].  
 
 De plus, le massif de l'Esterel a servi de cadre pour de nombreux tournages de films, et certains prétendent que le légendaire réalisateur français [[Louis Lumière]], né en 1864, aurait choisi l'Esterel pour expérimenter ses premiers films en plein air.
+
+###### Archives questions
+
+Quel massif montagneux situé dans le sud-est de la France, connu pour sa couleur rouge caractéristique et ses paysages spectaculaires, s'appelle l'[[Esterel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chaîne de montagnes dans le département du [[Var]] a été modifiée au XVIe siècle lorsqu'une route fut construite pour faciliter le déplacement entre [[Fréjus]] et [[Cannes]], traversant l'[[Esterel]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel site naturel, abritant plusieurs réserves protégées depuis la loi de 1853 sur la protection des forêts, est connu sous le nom d'[[Esterel]] ? <!-- score: 10 --> <!-- cm003 archivée 2026-11-23 -->

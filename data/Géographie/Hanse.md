@@ -30,11 +30,11 @@ culture_g_justification: "Notion historique structurante pour comprendre le comm
 ![[Carte_Hanse.png]]
 ###### Questions
 
-Quelle association commerciale et défensive d'origine médiévale, fondée en 1159, regroupe plusieurs villes marchandes du nord de l'Europe sous le nom de [[Ligue hanséatique]] ?
+Quelle ligue de villes marchandes, dominée par [[Lübeck]], tenait des comptoirs à [[Bergen]], [[Londres]], [[Bruges]] et [[Novgorod]] ?
 
-Quelle organisation influente au Moyen Âge, centrée sur le commerce des villes au bord de la [[mer Baltique]] et de la [[mer du Nord]], est connue sous le nom de [[Hanse]] ?
+Quelle association de marchands et de villes domina le commerce de la [[mer Baltique]] et de la [[mer du Nord]] du XIIIe au XVe siècle ?
 
-Dans quelle association historique, également connue pour son système politique et économique, trouvait-on des villes comme [[Lübeck]], [[Hambourg]] et [[Bremen]] à partir du [[XIVe siècle]] ?
+Quelle ligue médiévale de villes marchandes tint sa dernière diète générale en [[1669]] ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Fondée à [[Lübeck]] en 1356, l'organisation visait à protéger les intérêt
 Fait étonnant, au sommet de sa puissance, la [[Hanse]] comptait plus de 200 membres, ce qui en faisait l'une des premières alliances commerciales internationales de l'histoire, bien avant l'apparition des zones de libre-échange modernes. 
 
 En 1598, le fameux traité de paix de [[Stade]] a marqué la fin officielle de l'influence de la [[Hanse]], bien qu'elle ait continué à décliner progressivement jusqu'à sa dissolution formelle en 1862.
+
+###### Archives questions
+
+Quelle organisation influente au Moyen Âge, centrée sur le commerce des villes au bord de la [[mer Baltique]] et de la [[mer du Nord]], est connue sous le nom de [[Hanse]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle association historique, également connue pour son système politique et économique, trouvait-on des villes comme [[Lübeck]], [[Hambourg]] et [[Bremen]] à partir du [[XIVe siècle]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle association commerciale et défensive d'origine médiévale, fondée en 1159, regroupe plusieurs villes marchandes du nord de l'Europe sous le nom de [[Ligue hanséatique]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -28,11 +28,9 @@ culture_g_justification: "Ville portuaire et historique connue pour ses remparts
 
 ###### Questions
 
-Quel monument emblématique de [[Boulogne-sur-Mer]], datant du [[XIX]]e siècle, est couronné d'une coupole inspirée de celle de [[Saint-Pierre de Rome]] et a été achevé en 1866 ?
+Près de quel port [[Napoléon Ier]] rassembla-t-il de [[1803]] à [[1805]] l'armée destinée à envahir l'Angleterre ?
 
-Quelle fortification de [[Boulogne-sur-Mer]] a été conçue par [[Vauban]] et comporte un important mur d'enceinte qui a traversé les siècles depuis sa construction initiale au [[XIII]]e siècle ?
-
-Quel édifice religieux de [[Boulogne-sur-Mer]], complété en 1875, est connu pour son style éclectique, mêlant [[néo-classicisme]] et [[Byzantin]], et domine la ville du haut de sa colline ?
+Quel port du [[Pas-de-Calais]] est le premier port de pêche français ?
 
 ###### Description
 
@@ -43,3 +41,11 @@ Au cœur de cette enceinte, la [[Basilique Notre-Dame de Boulogne]] domine avec 
 Fait étonnant, cette basilique cache la plus grande crypte de France, découverte en 1827 et mesurant plus de 100 mètres de long. 
 
 En 1982, le château-musée, datant du XIIe siècle, a été classé au titre des monuments historiques, témoignant de l'importance culturelle et architecturale de Boulogne-sur-Mer.
+
+###### Archives questions
+
+Quel monument emblématique de [[Boulogne-sur-Mer]], datant du [[XIX]]e siècle, est couronné d'une coupole inspirée de celle de [[Saint-Pierre de Rome]] et a été achevé en 1866 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle fortification de [[Boulogne-sur-Mer]] a été conçue par [[Vauban]] et comporte un important mur d'enceinte qui a traversé les siècles depuis sa construction initiale au [[XIII]]e siècle ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel édifice religieux de [[Boulogne-sur-Mer]], complété en 1875, est connu pour son style éclectique, mêlant [[néo-classicisme]] et [[Byzantin]], et domine la ville du haut de sa colline ? <!-- cm003 remplacée 2026-11-23 -->

@@ -33,12 +33,20 @@ culture_g_justification: "Capitale des États-Unis, incontournable pour la polit
 ![[Carte_Washington.png]]
 ###### Questions
 
-Quelle ville est nommée d'après le premier président des [[États-Unis]], George [[Washington]], et a été fondée en 1791 ?
+Quelle capitale fédérale a été tracée à partir de [[1791]] selon le plan de l'ingénieur français [[Pierre Charles L'Enfant]] ?
 
-Dans quelle capitale nationale peut-on trouver une copie authentique du [[Traité]] de [[Géographie/Versailles]], signé le 28 juin 1919, qui a mis fin officiellement à la Première Guerre mondiale ?
+Dans quelle ville le [[National Mall]] s'étend-il entre le Capitole et le [[Lincoln Memorial]] ?
 
-Quelle ville abrite le monument commémoratif de l'[[Holocauste]], conçu par l'architecte [[Peter Eisenman]] et inauguré en mai 2005, pour honorer les vies perdues pendant la [[Seconde Guerre mondiale]] ?
+Dans quelle ville le musée américain du mémorial de l'[[Holocauste]] a-t-il ouvert ses portes en [[1993]] ?
 
 ###### Description
 
 [[Washington]], capitale des [[États-Unis]], est une ville riche en histoire et en culture, fondée en 1790. Elle abrite des institutions emblématiques comme le [[Smithsonian Institution]], qui est le plus grand complexe de musées et de recherche au monde. Un autre lieu incontournable est le [[National Mall]], un parc national où se trouvent des monuments célèbres tels que le [[Lincoln Memorial]] et le [[Washington Monument]], construit en 1884. Enfin, la [[Maison-Blanche]], résidence officielle du président américain depuis 1800, est un symbole imposant de la politique américaine.
+
+###### Archives questions
+
+Quelle ville est nommée d'après le premier président des [[États-Unis]], George [[Washington]], et a été fondée en 1791 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville abrite le monument commémoratif de l'[[Holocauste]], conçu par l'architecte [[Peter Eisenman]] et inauguré en mai 2005, pour honorer les vies perdues pendant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle capitale nationale peut-on trouver une copie authentique du [[Traité]] de [[Géographie/Versailles]], signé le 28 juin 1919, qui a mis fin officiellement à la Première Guerre mondiale ? <!-- cm003 remplacée 2026-11-23 -->

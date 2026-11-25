@@ -35,9 +35,9 @@ culture_g_justification: "Fleuve associé à Porto, au vin et aux paysages vitic
 
 Quel fleuve long de 895 km traverse le nord de l'[[Espagne]] et le [[Portugal]] avant de se jeter dans l'océan Atlantique à [[Porto]] ?
 
-Quel est le deuxième plus long fleuve du [[Portugal]], célèbre pour les paysages viticoles de la région du [[Douro]] où est produit le vin de [[Porto]] ?
+À l'embouchure de quel fleuve se font face [[Porto]] et [[Vila Nova de Gaia]], où vieillissent les vins de porto ?
 
-Quel cours d'eau inscrit au patrimoine mondial de l'[[UNESCO]] depuis 2001 traverse des régions de vignobles en terrasses le long du [[Douro]] ?
+Quel fleuve ibérique traverse les vignobles en terrasses inscrits au [[patrimoine mondial de l'UNESCO]] en [[2001]] ?
 
 ###### Description
 
@@ -48,3 +48,9 @@ Son parcours de 897 kilomètres en fait l'un des plus longs fleuves de la pénin
 Ce qui est surprenant, c'est que le barrage de [[Crestuma-Lever]], construit en 1985, est le dernier obstacle avant l'Atlantique, maintenant un nivellement constant du niveau d'eau dans le fleuve jusqu'à [[Porto]], favorisant ainsi la navigation fluviale. 
 
 Enfin, les rives du Douro sont jalonnées par de nombreux "quintas", où l'on produit le célèbre [[vin de Porto]], un breuvage fort apprécié depuis le XVIIe siècle et qui continue d'être un symbole de l'identité culturelle portugaise.
+
+###### Archives questions
+
+Quel est le deuxième plus long fleuve du [[Portugal]], célèbre pour les paysages viticoles de la région du [[Douro]] où est produit le vin de [[Porto]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel cours d'eau inscrit au patrimoine mondial de l'[[UNESCO]] depuis 2001 traverse des régions de vignobles en terrasses le long du [[Douro]] ? <!-- cm003 remplacée 2026-11-23 -->

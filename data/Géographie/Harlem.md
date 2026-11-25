@@ -32,11 +32,11 @@ culture_g_justification: "Quartier emblématique, très rentable grâce à la Ha
 ![[Carte_Harlem.png]]
 ###### Questions
 
-Dans quel quartier de [[New York]], le célèbre mouvement culturel connu sous le nom de [[Harlem Renaissance]] a-t-il émergé dans les années 1920 ?
+Dans quel quartier de [[New York]] est né dans les années [[1920]] le mouvement culturel afro-américain porté par [[Langston Hughes]] ?
 
-Dans quel quartier de [[Manhattan]], la légendaire salle de concert [[Apollo Theater]], qui a ouvert ses portes en 1934, est-elle située ?
+Dans quel quartier de [[Manhattan]] se trouve l'[[Apollo Theater]], salle mythique de la 125e Rue ?
 
-Quel quartier de [[New York]], connu pour sa forte influence afro-américaine, a été immortalisé dans la célèbre chanson de [[Duke Ellington]], "Take the [['A' Train]]" ?
+Vers quel quartier de [[New York]] conduit la ligne de métro chantée dans « Take the A Train », indicatif de l'orchestre de [[Duke Ellington]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Délimité par la [[110e Rue]] au sud et la [[155e Rue]] au nord, il est devenu 
 Un fait étonnant est que le célèbre [[Apollo Theater]], inauguré en 1914, a été un lieu pivot pour de nombreux artistes afro-américains célèbres, tels que [[Ella Fitzgerald]] et [[James Brown]], et a été le premier théâtre à organiser le concours de talents "Amateur Night" qui a révélé d'innombrables talents. 
 
 En 2005, [[Géographie/Harlem]] a joué un rôle clé dans la gentrification de [[Manhattan]], ce qui a conduit à une augmentation significative de l'immobilier et à une transformation du tissu commercial et social du quartier.
+
+###### Archives questions
+
+Dans quel quartier de [[New York]], le célèbre mouvement culturel connu sous le nom de [[Harlem Renaissance]] a-t-il émergé dans les années 1920 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel quartier de [[New York]], connu pour sa forte influence afro-américaine, a été immortalisé dans la célèbre chanson de [[Duke Ellington]], "Take the [['A' Train]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel quartier de [[Manhattan]], la légendaire salle de concert [[Apollo Theater]], qui a ouvert ses portes en 1934, est-elle située ? <!-- cm003 remplacée 2026-11-23 -->

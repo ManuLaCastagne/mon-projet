@@ -32,11 +32,11 @@ culture_g_justification: "Métropole mondialement célèbre pour ses gratte-ciel
 ![[Carte_Dubaï.png]]
 ###### Questions
 
-Quelle ville a inauguré en 2010 le plus haut gratte-ciel du monde, le [[Burj Khalifa]], qui s'élève à 828 mètres ?
+Dans quelle ville le [[Burj Khalifa]], haut de 828 mètres, a-t-il été inauguré en [[2010]] ?
 
-Dans quelle ville peut-on trouver le [[Palm Jumeirah]], un archipel artificiel en forme de palmier créé dans le [[golfe Persique]] et ouvert officiellement en 2008 ?
+Dans quel émirat se trouve la [[Palm Jumeirah]], archipel artificiel en forme de palmier gagné sur le [[golfe Persique]] ?
 
-Quelle ville des [[Émirats arabes unis]] a lancé en 2009 le [[Dubai Metro]], le plus long réseau de métro entièrement automatisé et sans conducteur du monde ?
+Quelle ville des [[Émirats arabes unis]] a mis en service un métro automatique sans conducteur le 9 septembre [[2009]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Bien qu'elle soit souvent associée à ses gratte-ciels ultramodernes, dont le c
 En 1966, la découverte de gisements de pétrole a propulsé Dubaï vers une rapide modernisation, la transition économique ayant été particulièrement marquante avec le développement massif du secteur touristique et immobilier. 
 
 Fait étonnant, le [[Dubai Mall]], ouvert en 2008, accueille un aquarium contenant plus de 140 espèces marines, et détient le record mondial du plus grand panneau acrylique du globe (32,88 mètres de large et 8,3 mètres de haut), un exploit d'ingénierie autant qu'une attraction spectaculaire pour les touristes du monde entier.
+
+###### Archives questions
+
+Quelle ville des [[Émirats arabes unis]] a lancé en 2009 le [[Dubai Metro]], le plus long réseau de métro entièrement automatisé et sans conducteur du monde ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a inauguré en 2010 le plus haut gratte-ciel du monde, le [[Burj Khalifa]], qui s'élève à 828 mètres ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville peut-on trouver le [[Palm Jumeirah]], un archipel artificiel en forme de palmier créé dans le [[golfe Persique]] et ouvert officiellement en 2008 ? <!-- cm003 remplacée 2026-11-23 -->

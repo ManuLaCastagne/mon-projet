@@ -34,8 +34,10 @@ Quelle est la capitale de la [[République du Yémen]] depuis la réunion avec [
 
 Dans quelle ville se trouve la [[vieille ville]] considérée comme un site du [[patrimoine mondial de l'UNESCO]] depuis 1986 en raison de ses immeubles en terre crue datant de plusieurs siècles ?
 
-Quel est le nom de la capitale qui est mentionnée dans le titre du célèbre roman "[[Retour à Sanaa]]" écrit par [[Éric Orsenna]] en 2006 ?
-
 ###### Description
 
 [[Sanaa]], capitale du [[Yémen]], est l'une des plus anciennes villes habitées en continu au monde, avec des traces d'occupation remontant au 7ème siècle avant J.-C. Elle est célèbre pour sa vieille ville, inscrite au patrimoine mondial de l'UNESCO en 1986, qui est remarquable pour son architecture unique comprenant plus de 100 mosquées, 14 hammams et plus de 6 000 maisons-tours en pisé. Un élément emblématique de [[Sanaa]] est la mosquée Al-Jami Al-Kabir, fondée en [[705]] sous le règne du calife omeyyade [[Al-Walid Ier]]. La ville est située à une altitude de 2 300 mètres, ce qui en fait l'une des capitales les plus élevées du monde.
+
+###### Archives questions
+
+Quel est le nom de la capitale qui est mentionnée dans le titre du célèbre roman "[[Retour à Sanaa]]" écrit par [[Éric Orsenna]] en 2006 ? <!-- cm003 archivée 2026-11-23 -->

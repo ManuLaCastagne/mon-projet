@@ -30,11 +30,9 @@ culture_g_justification: "Notion géographique transversale pouvant renvoyer à 
 ![[Carte_Plaine.png]]
 ###### Questions
 
-Quel est le nom de la vaste étendue plate et fertile traversée par le fleuve Mississippi dans le bassin central des [[États-Unis]] ?
+Quel type de relief désigne la Beauce, vaste étendue plane et basse au sud-ouest de [[Paris]] ?
 
-Quelle est la dépression panoramique célèbre pour ses paysages d'herbes à perte de vue et qui s'étend sur plus de 1 600 kilomètres au [[Canada]] et aux [[États-Unis]], appelée les [[Grandes Plaines]] ?
-
-Quel est le nom de la région géographique en Europe du [[Nord]] qui, depuis l'an 1000, est considérée comme l'une des plus grandes étendues de terre plate sur le continent, connue sous le nom de [[Plaine d'Europe du Nord]] ?
+Quel type de relief, plat et de basse altitude, couvre la [[pampa]] argentine ?
 
 ###### Description
 
@@ -45,3 +43,11 @@ Un exemple célèbre est la [[Grande Plaine d'Europe centrale]], qui s'étend su
 Un fait étonnant concernant les plaines est que la [[Plaine du Gange]], en [[Inde]], est considérée comme l'une des zones les plus fertiles du monde, permettant de nourrir une densité de population exceptionnelle de plusieurs centaines d'habitants par kilomètre carré depuis des siècles.
 
 En 1931, la [[Plaine du Nein]], en [[Chine]], a enregistré les températures les plus basses jamais constatées en plaine, atteignant -52,3°C, un record surprenant pour une plaine généralement synonyme de douceur climatique.
+
+###### Archives questions
+
+Quel est le nom de la région géographique en Europe du [[Nord]] qui, depuis l'an 1000, est considérée comme l'une des plus grandes étendues de terre plate sur le continent, connue sous le nom de [[Plaine d'Europe du Nord]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la dépression panoramique célèbre pour ses paysages d'herbes à perte de vue et qui s'étend sur plus de 1 600 kilomètres au [[Canada]] et aux [[États-Unis]], appelée les [[Grandes Plaines]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel est le nom de la vaste étendue plate et fertile traversée par le fleuve Mississippi dans le bassin central des [[États-Unis]] ? <!-- cm003 remplacée 2026-11-23 -->

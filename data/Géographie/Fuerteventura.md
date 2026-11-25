@@ -28,11 +28,9 @@ culture_g_justification: "Île canarienne assez connue, mobilisable en géograph
 
 ###### Questions
 
-Quel autre nom est couramment utilisé pour accueillir les champions des vents sur l'île de [[Fuerteventura]], en raison des conditions idéales pour la planche à voile et le kitesurf qui s'y trouvent ?
+Sur quelle île des [[îles Canaries]] s'étendent les dunes du parc naturel de [[Corralejo]] ?
 
-Quelle [[île]] parmi les [[îles Canaries]] possédait, jusqu'en [[2014]], le plus grand espace désertique de l'[[Union européenne]], connu sous le nom de [[Parc Naturel de Corralejo]] ?
-
-En [[1987]], quelle île des [[Canaries]] a été reconnue par l'[[UNESCO]] pour ses paysages éblouissants avec la désignation de [[Réserve de Biosphère]] ?
+Quelle île des Canaries est la plus proche des côtes africaines, à une centaine de kilomètres du [[Maroc]] ?
 
 ###### Description
 
@@ -43,3 +41,11 @@ Elle est célèbre pour ses plages de sable blanc et ses paysages arides, mais l
 En 2009, l'île a été déclarée réserve de biosphère par l'[[UNESCO]], ce qui témoigne de sa richesse naturelle unique. 
 
 Malgré son climat aride, [[Fuerteventura]] est aussi connue pour le [[Montaña de Tindaya]], qui était considéré par les aborigènes comme une montagne sacrée.
+
+###### Archives questions
+
+Quel autre nom est couramment utilisé pour accueillir les champions des vents sur l'île de [[Fuerteventura]], en raison des conditions idéales pour la planche à voile et le kitesurf qui s'y trouvent ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle [[île]] parmi les [[îles Canaries]] possédait, jusqu'en [[2014]], le plus grand espace désertique de l'[[Union européenne]], connu sous le nom de [[Parc Naturel de Corralejo]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En [[1987]], quelle île des [[Canaries]] a été reconnue par l'[[UNESCO]] pour ses paysages éblouissants avec la désignation de [[Réserve de Biosphère]] ? <!-- cm003 remplacée 2026-11-23 -->

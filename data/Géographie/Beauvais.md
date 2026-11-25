@@ -32,11 +32,11 @@ culture_g_justification: "Ville française utile pour sa cathédrale, sa manufac
 ![[Carte_Beauvais.png]]
 ###### Questions
 
-Dans quelle ville les travaux de construction de la [[cathédrale Saint-Pierre de Beauvais]], commencée en 1225, se trouvent-ils, malgré le fait qu'elle soit restée inachevée et possède l'un des chœurs gothiques les plus hauts du monde ?
+Dans quelle ville de l'[[Oise]] la cathédrale Saint-Pierre, restée inachevée, possède-t-elle le plus haut chœur gothique du monde ?
 
-Quelle ville française a été choisie comme lieu d'installation de [[l'Aéroport de Paris-Beauvais-Tillé]], inauguré en 1956, bien qu'il soit principalement utilisé pour des vols low-cost et pour désengorger les aéroports parisiens ?
+Quelle ville [[Jeanne Hachette]] défendit-elle contre [[Charles le Téméraire]] en [[1472]] ?
 
-Où se trouvait l'ancienne manufacture de tapisserie prospère, fondée par [[Colbert]] en 1664, qui a été l'une des plus importantes de France jusqu'à sa fermeture en 1848 ?
+Dans quelle ville [[Jean-Baptiste Colbert|Colbert]] fonda-t-il en [[1664]] une manufacture royale de tapisserie ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Elle est surtout connue pour sa majestueuse [[cathédrale Saint-Pierre de Beauva
 Peu de gens le savent, mais [[Beauvais]] a été le centre mondial de la fabrication de tapisseries au XVIIe siècle, grâce à la manufacture royale fondée en 1664 par [[Jean-Baptiste Colbert]]. 
 
 En 2015, la population de [[Beauvais]] était d'environ 56 000 habitants, soulignant son statut de ville moyenne française avec une riche histoire.
+
+###### Archives questions
+
+Dans quelle ville les travaux de construction de la [[cathédrale Saint-Pierre de Beauvais]], commencée en 1225, se trouvent-ils, malgré le fait qu'elle soit restée inachevée et possède l'un des chœurs gothiques les plus hauts du monde ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville française a été choisie comme lieu d'installation de [[l'Aéroport de Paris-Beauvais-Tillé]], inauguré en 1956, bien qu'il soit principalement utilisé pour des vols low-cost et pour désengorger les aéroports parisiens ? <!-- cm003 remplacée 2026-11-23 -->
+
+Où se trouvait l'ancienne manufacture de tapisserie prospère, fondée par [[Colbert]] en 1664, qui a été l'une des plus importantes de France jusqu'à sa fermeture en 1848 ? <!-- cm003 remplacée 2026-11-23 -->

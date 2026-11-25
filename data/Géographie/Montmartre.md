@@ -33,11 +33,11 @@ culture_g_justification: "Quartier parisien incontournable permettant des questi
 ![[Carte_Montmartre.png]]
 ###### Questions
 
-Dans quel quartier historique de [[Paris]], célèbre pour avoir été le foyer d'artistes tels que [[Pablo Picasso]] et [[Vincent van Gogh]], peut-on visiter la basilique du [[Basilique du Sacré-Cœur]], achevée en 1914 ? 
+Sur quelle butte parisienne se dresse la [[Basilique du Sacré-Cœur]], consacrée en [[1919]] ?
 
-En 1848, quel quartier situé sur la [[butte Montmartre]] a vu l'une des dernières émeutes de la Révolution française avec l'érection des barricades emblématiques ?
+Sur quelle butte parisienne la tentative de reprise des canons de la Garde nationale, le 18 mars [[1871]], déclencha-t-elle la [[Commune de Paris]] ?
 
-Quel quartier parisien situé sur une colline a été annexé à la ville de [[Paris]] lors d'une extension géographique en 1860, intégrant ainsi cette zone artistique et bohème à la capitale ?
+Quelle commune de moulins et de vignes fut annexée à [[Paris]] le 1er janvier [[1860]] ?
 
 ###### Description
 
@@ -48,3 +48,11 @@ Ce quartier pittoresque, autrefois séparé de Paris jusqu'en 1860, est un véri
 Un fait étonnant à propos de Montmartre est l'existence d'un petit vignoble, le [[Clos Montmartre]], planté en 1933, qui produit chaque année une cuvée unique, faisant de Paris l'une des rares capitales à abriter un vignoble urbain. 
 
 Enfin, Montmartre a été un endroit stratégique pendant la [[Commune de Paris]] en 1871, lorsque la colline fut un des derniers bastions des insurgés, soulignant ainsi son importance non seulement artistique mais aussi historique.
+
+###### Archives questions
+
+En 1848, quel quartier situé sur la [[butte Montmartre]] a vu l'une des dernières émeutes de la Révolution française avec l'érection des barricades emblématiques ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel quartier historique de [[Paris]], célèbre pour avoir été le foyer d'artistes tels que [[Pablo Picasso]] et [[Vincent van Gogh]], peut-on visiter la basilique du [[Basilique du Sacré-Cœur]], achevée en 1914 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel quartier parisien situé sur une colline a été annexé à la ville de [[Paris]] lors d'une extension géographique en 1860, intégrant ainsi cette zone artistique et bohème à la capitale ? <!-- cm003 remplacée 2026-11-23 -->

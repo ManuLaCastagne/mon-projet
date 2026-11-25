@@ -32,12 +32,20 @@ culture_g_justification: "Capitale polonaise très rentable pour l’histoire co
 ![[Carte_Varsovie.png]]
 ###### Questions
 
-Quel est le dernier lieu où [[Frederic Chopin]] a résidé avant de quitter la Pologne en 1830 ?
+Quelle ville [[Frédéric Chopin]] quitta-t-il en novembre [[1830]], peu avant l'[[Insurrection de Novembre]], pour ne jamais y revenir ?
 
-Quelle ville est connue pour avoir un [[Palais de la Culture et de la Science]] érigé en 1955, souvent considéré comme un symbole du régime communiste en [[Pologne]] ?
+Dans quelle capitale se dresse le [[Palais de la Culture et de la Science]], « cadeau » de l'[[Union soviétique]] achevé en [[1955]] ?
 
-Dans quelle ville a eu lieu le soulèvement du [[ghetto de Varsovie]], le plus grand soulèvement juif contre les nazis, en 1943 ?
+Dans quelle ville le soulèvement du ghetto juif contre les nazis éclata-t-il le 19 avril [[1943]] ?
 
 ###### Description
 
 [[Varsovie]], la capitale de la [[Pologne]], est située sur les rives de la [[Vistule]], le plus long fleuve du pays. La ville a été fondée au XIIe siècle et a obtenu le statut officiel de capitale en 1596 sous le règne du roi [[Sigismond III Vasa]]. Dévastée pendant la Seconde Guerre mondiale, [[Varsovie]] a vu son centre historique, le [[Stare Miasto]], soigneusement reconstruit et inscrit au patrimoine mondial de l'UNESCO en 1980. Abritant aujourd'hui environ 1,8 million d'habitants, elle est le cœur culturel, politique et économique de la [[Pologne]].
+
+###### Archives questions
+
+Dans quelle ville a eu lieu le soulèvement du [[ghetto de Varsovie]], le plus grand soulèvement juif contre les nazis, en 1943 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville est connue pour avoir un [[Palais de la Culture et de la Science]] érigé en 1955, souvent considéré comme un symbole du régime communiste en [[Pologne]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le dernier lieu où [[Frederic Chopin]] a résidé avant de quitter la Pologne en 1830 ? <!-- cm003 remplacée 2026-11-23 -->

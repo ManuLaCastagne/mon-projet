@@ -32,11 +32,11 @@ culture_g_justification: "Le palais de Topkapi est un monument ottoman majeur, m
 ![[Carte_Topkapi.png]]
 ###### Questions
 
-Dans quelle ancienne demeure des sultans ottomans, située dans une ville qui fut capitale de trois empires, peut-on visiter la salle du Trésor contenant des objets précieux tels que le [[trône de Bayram Pacha]] et le [[poignard Topkapi]] ?
+Dans quel palais d'[[Istanbul]] le trésor expose-t-il le diamant dit « du Marchand de cuillères » ?
 
-Quel palais célèbre, datant du [[XVe siècle]], est aujourd'hui un musée abritant des joyaux de la couronne ottomane, situé à [[Istanbul]] et construit par le sultan [[Mehmed II]] après sa conquête de [[Constantinople]] en 1453 ?
+Quel palais d'[[Istanbul]], dont [[Mehmed II]] lança la construction en [[1459]], fut la résidence principale des sultans ottomans pendant près de quatre siècles ?
 
-Quel monument historique, classé au patrimoine mondial de l'UNESCO depuis 1985, s'étend sur plus de 700 000 mètres carrés et comprend quatre cours principales et de nombreux jardins, surplombant le [[Bosphore]] ?
+Quel palais ottoman fut transformé en musée en [[1924]] sur décision de [[Mustafa Kemal Atatürk|Mustafa Kemal]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ En 1924, le palais a été transformé en musée par le gouvernement de la jeune
 Un fait étonnant concernant le palais est qu'il abrite l'une des plus grandes collections de reliques sacrées de l'islam, y compris le manteau du prophète [[Mahomet]] et l'épée de David, ce qui en fait à la fois un musée historique et une destination religieuse importante. 
 
 En 1985, le Palais de Topkapi a été inscrit au patrimoine mondial de l'UNESCO, soulignant son importance culturelle et historique à l'échelle mondiale.
+
+###### Archives questions
+
+Dans quelle ancienne demeure des sultans ottomans, située dans une ville qui fut capitale de trois empires, peut-on visiter la salle du Trésor contenant des objets précieux tels que le [[trône de Bayram Pacha]] et le [[poignard Topkapi]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel palais célèbre, datant du [[XVe siècle]], est aujourd'hui un musée abritant des joyaux de la couronne ottomane, situé à [[Istanbul]] et construit par le sultan [[Mehmed II]] après sa conquête de [[Constantinople]] en 1453 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel monument historique, classé au patrimoine mondial de l'UNESCO depuis 1985, s'étend sur plus de 700 000 mètres carrés et comprend quatre cours principales et de nombreux jardins, surplombant le [[Bosphore]] ? <!-- cm003 remplacée 2026-11-23 -->

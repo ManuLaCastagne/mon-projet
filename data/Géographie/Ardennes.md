@@ -32,9 +32,9 @@ culture_g_justification: "Territoire franco-belge associé à la forêt, à la M
 ![[Carte_Ardennes.png]]
 ###### Questions
 
-Dans quel département français se trouve le célèbre massif forestier de la [[Forêt des Ardennes]], connu pour avoir été le théâtre d'importants combats pendant la [[Seconde Guerre mondiale]] ? 
+Dans quel département se trouve [[Sedan]], où les Allemands percèrent le front français en mai [[1940]] ?
 
-Quel département français est traversé par la [[Meuse]], un important fleuve européen qui prend sa source en France et se jette dans la [[Mer du Nord]] aux [[Pays-Bas]] ? 
+Quel département a pour préfecture [[Charleville-Mézières]], ville natale d'[[Arthur Rimbaud]] ?
 
 Quel département, créé en 1790 lors de la Révolution française, tient son nom d'une chaîne de montagnes qui s'étend principalement entre la [[Belgique]], le [[Luxembourg]] et la France ? <!-- score: 6 -->
 
@@ -47,3 +47,9 @@ Le département des [[Ardennes]], situé dans la région [[Grand Est]] en France
 Un fait étonnant est que les Ardennes abritent l'une des plus anciennes fortifications de France, le [[Château de Sedan]], considéré comme le plus grand château fort d'Europe avec ses 35 000 m² de surface, dont la construction initiale remonte au [[XIVe siècle]].
 
 Enfin, le célèbre poète [[Arthur Rimbaud]], né en 1854, a passé une grande partie de son enfance à [[Charleville-Mézières]], ce qui inspire encore aujourd'hui de nombreux passionnés de littérature.
+
+###### Archives questions
+
+Dans quel département français se trouve le célèbre massif forestier de la [[Forêt des Ardennes]], connu pour avoir été le théâtre d'importants combats pendant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel département français est traversé par la [[Meuse]], un important fleuve européen qui prend sa source en France et se jette dans la [[Mer du Nord]] aux [[Pays-Bas]] ? <!-- cm003 remplacée 2026-11-23 -->

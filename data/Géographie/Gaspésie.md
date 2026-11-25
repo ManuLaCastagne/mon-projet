@@ -32,11 +32,9 @@ culture_g_justification: "Région québécoise intéressante pour la géographie
 ![[Carte_Gaspésie.png]]
 ###### Questions
 
-Quel parc national, situé en [[Gaspésie]], abrite la célèbre réserve faunique des [[Chics-Chocs]], connue pour ses montagnes offrant une vue imprenable et la possibilité d'observer des caribous?
+Quelle péninsule québécoise abrite les monts [[Chic-Chocs]], refuge des derniers caribous des bois au sud du Saint-Laurent ?
 
-Quelle région du Québec a été choisie pour accueillir la première représentation de la pièce de théâtre Maria Chapdelaine, écrite par [[Louis Hémon]] en 1916, racontant la vie rurale québécoise?
-
-Quel endroit en [[Gaspésie]] a vu l'arrivée en 1534 de [[Jacques Cartier]], marquant ainsi l'un des premiers contacts européens avec les peuples autochtones de l'Amérique du Nord?
+Sur quelle péninsule [[Jacques Cartier]] planta-t-il une croix en juillet [[1534]] ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Le parc national de [[Forillon]], créé en 1970, abrite une riche biodiversité
 Un fait étonnant est que la Gaspésie est traversée par le [[Chic-Chocs]], un massif montagneux où l'on trouve le mont [[Jacques-Cartier]], le deuxième plus haut sommet du Québec avec 1 268 mètres d'altitude.
 
 Chaque année, [[Percé]] et son célèbre rocher attirent les touristes pour son arche naturelle en calcaire, une merveille géologique formée il y a environ 375 millions d'années.
+
+###### Archives questions
+
+Quel parc national, situé en [[Gaspésie]], abrite la célèbre réserve faunique des [[Chics-Chocs]], connue pour ses montagnes offrant une vue imprenable et la possibilité d'observer des caribous? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel endroit en [[Gaspésie]] a vu l'arrivée en 1534 de [[Jacques Cartier]], marquant ainsi l'un des premiers contacts européens avec les peuples autochtones de l'Amérique du Nord? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle région du Québec a été choisie pour accueillir la première représentation de la pièce de théâtre Maria Chapdelaine, écrite par [[Louis Hémon]] en 1916, racontant la vie rurale québécoise? <!-- cm003 archivée 2026-11-23 -->

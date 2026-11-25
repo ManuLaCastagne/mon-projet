@@ -32,11 +32,9 @@ culture_g_justification: "Île paradisiaque mondialement célèbre, Bora-Bora es
 ![[Carte_Bora-bora.png]]
 ###### Questions
 
-Dans quel territoire d'outre-mer français se trouve l'île de [[Bora-Bora]], célèbre pour ses lagons turquoise et ses récifs coralliens, depuis son annexion par la France en 1888 ?
+Quelle île de l'archipel de la Société, annexée par la France en [[1888]], est dominée par le mont [[Otemanu]] ?
 
-Quelle île volcanique, entourée d'un lagon et d'un récif-barrière, fait partie de l'archipel de la Société en [[Polynésie française]] et est connue pour avoir accueilli une base militaire américaine pendant la [[Seconde Guerre mondiale]] ?
-
-Quel lieu paradisiaque est devenu une destination touristique populaire après l'apparition de ses pilotis construits sur l'eau au début des [[années 1970]], attirant des visiteurs du monde entier avec ses paysages époustouflants et ses installations de luxe ?
+Quelle île de [[Polynésie française]] accueillit de [[1942]] à [[1946]] une base de ravitaillement de l'armée américaine ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Bien que son nom évoque un lieu isolé, elle fut touchée par le monde moderne 
 Son point culminant, le mont [[Otemanu]], s'élève à 727 mètres et offre une vue imprenable sur le lagon et l'océan. 
 
 Fait étonnant, Bora-bora est souvent citée comme ayant eu le premier hôtel sur pilotis de [[Polynésie]] dans les années 1960, un modèle qui s'est depuis répandu sur des milliers d'îles tropicales à travers le monde.
+
+###### Archives questions
+
+Dans quel territoire d'outre-mer français se trouve l'île de [[Bora-Bora]], célèbre pour ses lagons turquoise et ses récifs coralliens, depuis son annexion par la France en 1888 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle île volcanique, entourée d'un lagon et d'un récif-barrière, fait partie de l'archipel de la Société en [[Polynésie française]] et est connue pour avoir accueilli une base militaire américaine pendant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu paradisiaque est devenu une destination touristique populaire après l'apparition de ses pilotis construits sur l'eau au début des [[années 1970]], attirant des visiteurs du monde entier avec ses paysages époustouflants et ses installations de luxe ? <!-- cm003 archivée 2026-11-23 -->

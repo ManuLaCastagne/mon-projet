@@ -32,10 +32,16 @@ culture_g_justification: "Capitale de l’île Maurice utile pour la géographie
 
 Quelle est la capitale de l'île Maurice, fondée en 1735 par le gouverneur [[Mahé de La Bourdonnais]] ?
 
-Dans quelle ville se trouve le [[bazaar Port-Louis]], un marché célèbre pour ses épices et ses produits artisanaux mauriciens ?
+Dans quelle ville se trouve l'[[Aapravasi Ghat]], dépôt d'immigration des travailleurs engagés inscrit à l'[[UNESCO]] en [[2006]] ?
 
-Quelle ville abrite le [[Champ de Mars]], l'hippodrome le plus ancien de l'hémisphère sud, inauguré en 1812 ?
+Quelle capitale abrite l'hippodrome du [[Champ de Mars (Maurice)|Champ de Mars]], où les premières courses eurent lieu en [[1812]] ?
 
 ###### Description
 
 [[Port-Louis]] est la capitale de [[l'île Maurice]], située dans l'océan Indien, et a été fondée en 1735 sous le règne de [[Mahé de La Bourdonnais]], alors gouverneur français de l'île. En tant que centre économique et culturel du pays, la ville abrite le [[Caudan Waterfront]], une zone commerçante et de loisirs populaire auprès des touristes. Un des sites historiques remarquables est l'[[Aapravasi Ghat]], site classé au patrimoine mondial de l'[[UNESCO]] depuis 2006, qui servait de dépôt pour les travailleurs engagés venus remplacer les esclaves. Enfin, le [[Champ de Mars]], inauguré en 1812, est le plus ancien hippodrome de l'hémisphère sud et un lieu emblématique des courses hippiques à [[Port-Louis]].
+
+###### Archives questions
+
+Dans quelle ville se trouve le [[bazaar Port-Louis]], un marché célèbre pour ses épices et ses produits artisanaux mauriciens ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville abrite le [[Champ de Mars]], l'hippodrome le plus ancien de l'hémisphère sud, inauguré en 1812 ? <!-- cm003 remplacée 2026-11-23 -->

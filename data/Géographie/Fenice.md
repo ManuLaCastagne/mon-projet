@@ -32,11 +32,11 @@ culture_g_justification: "Salle d’opéra vénitienne majeure, La Fenice est co
 ![[Carte_Fenice.png]]
 ###### Questions
 
-Quel est le nom du théâtre emblématique de [[Venise]], connu pour ses incendies dévastateurs et récupérations successives, avec une réouverture spectaculaire en 2004 ?
+Quel opéra de [[Venise]], ravagé par un incendie criminel en janvier [[1996]], a rouvert en décembre [[2003]] ?
 
-Quelle célèbre salle d'opéra située dans le quartier de [[San Marco]] à [[Venise]] a été baptisée pour symboliser la renaissance, à l'image de l'oiseau mythique renaissant de ses cendres ?
+Quelle salle d'opéra vénitienne, inaugurée en [[1792]], doit son nom à l'oiseau mythique qui renaît de ses cendres ?
 
-Dans quelle ville italienne se trouve le [[Teatro La Fenice]], un symbole culturel majeur ayant subi trois incendies, le dernier remontant à 1996 ?
+Dans quel théâtre vénitien [[Giuseppe Verdi]] créa-t-il « [[La traviata]] » en [[1853]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Ce théâtre, malgré son nom signifiant « phénix », a brûlé deux fois, en 
 Un fait étonnant, peu connu, est que La Fenice est l'un des premiers théâtres au monde à introduire l'éclairage électrique en 1885, marquant un tournant dans l'histoire des arts de la scène. 
 
 Le quartier de Fenice est également entouré de charmants canaux et ruelles, qui en font un lieu incontournable pour les visiteurs explorant la riche histoire culturelle de [[Venise]].
+
+###### Archives questions
+
+Dans quelle ville italienne se trouve le [[Teatro La Fenice]], un symbole culturel majeur ayant subi trois incendies, le dernier remontant à 1996 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du théâtre emblématique de [[Venise]], connu pour ses incendies dévastateurs et récupérations successives, avec une réouverture spectaculaire en 2004 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle célèbre salle d'opéra située dans le quartier de [[San Marco]] à [[Venise]] a été baptisée pour symboliser la renaissance, à l'image de l'oiseau mythique renaissant de ses cendres ? <!-- cm003 remplacée 2026-11-23 -->

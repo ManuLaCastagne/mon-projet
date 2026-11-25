@@ -32,11 +32,9 @@ culture_g_justification: "Notion géographique applicable à Venise, aux littora
 ![[Carte_Lagune.png]]
 ###### Questions
 
-Quelle formation géographique s'est formée après la montée du niveau de la mer durant la période du [[Holocène]], qui a commencé il y a environ 11 700 ans et où on trouve souvent des écosystèmes riches en biodiversité ?
+Comment appelle-t-on l'étendue d'eau peu profonde séparée de la mer par un cordon littoral, comme celle de [[Venise]], inscrite au [[patrimoine mondial de l'UNESCO]] en [[1987]] ?
 
-Quel type de masse d'eau protégée de l'océan par une barrière naturelle ou artificielle, comme on le voit avec la fameuse [[Lagune de Venise]], est inscrite depuis 1987 sur la [[Liste du patrimoine mondial]] de l'UNESCO ?
-
-Quel terme désigne une étendue d'eau séparée de la mer proprement dite par un banc de sable ou un récif corallien, comme celle qui abrite depuis 1976 le [[Wadden Sea]], une réserve de biosphère transfrontalière au [[Danemark]], en [[Allemagne]] et aux [[Pays-Bas]] ?
+Quel terme désigne l'étendue d'eau entourée par l'anneau corallien d'un atoll ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ La [[Lagune de Venise]], située en [[Italie]], est peut-être la plus célèbre
 Un fait étonnant est que la lagune de [[Mar Chiquita]] en [[Argentine]] est la plus grande lagune salée au monde, ayant atteint des records de salinité encore plus élevés que ceux de l'océan ; sa surface a varié de 6000 à plus de 20 000 km² au fil des décennies.
 
 En 2000, grâce à sa dimension écologique et culturelle, la [[Lagune de Venise]] a été ajoutée à la liste du patrimoine mondial de l'[[UNESCO]], soulignant son importance mondiale.
+
+###### Archives questions
+
+Quel type de masse d'eau protégée de l'océan par une barrière naturelle ou artificielle, comme on le voit avec la fameuse [[Lagune de Venise]], est inscrite depuis 1987 sur la [[Liste du patrimoine mondial]] de l'UNESCO ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel terme désigne une étendue d'eau séparée de la mer proprement dite par un banc de sable ou un récif corallien, comme celle qui abrite depuis 1976 le [[Wadden Sea]], une réserve de biosphère transfrontalière au [[Danemark]], en [[Allemagne]] et aux [[Pays-Bas]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle formation géographique s'est formée après la montée du niveau de la mer durant la période du [[Holocène]], qui a commencé il y a environ 11 700 ans et où on trouve souvent des écosystèmes riches en biodiversité ? <!-- cm003 archivée 2026-11-23 -->

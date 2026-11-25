@@ -34,9 +34,9 @@ culture_g_justification: "Ville belge classique, exploitable par son histoire, s
 
 Dans quelle ville se trouve la célèbre [[Gare des Guillemins]] conçue par l'architecte [[Santiago Calatrava]] et inaugurée officiellement en 2009 ?
 
-Quelle ville a accueilli l'exposition universelle intitulée [[Exposition internationale de l'eau]], qui s'est tenue en 1939 ?
+Quelle ville belge a accueilli en [[1939]] l'Exposition internationale de l'eau, célébrant le [[canal Albert]] ?
 
-Dans quelle ville belge la prestigieuse [[Université de Liège]] a-t-elle été fondée en 1817 ?
+Dans quelle ville est né l'écrivain [[Georges Simenon]] en [[1903]] ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Un fait surprenant est que Liège abrite une curiosité architecturale impressio
 Par ailleurs, la ville de Liège est connue pour son festival musical : les célèbres [[Francofolies de Spa]], qui se déroulent à proximité et attirent chaque année un large public. 
 
 Enfin, Liège accueille l'Université de Liège, fondée en 1817, qui est l'une des plus anciennes et prestigieuses institutions académiques du pays.
+
+###### Archives questions
+
+Dans quelle ville belge la prestigieuse [[Université de Liège]] a-t-elle été fondée en 1817 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a accueilli l'exposition universelle intitulée [[Exposition internationale de l'eau]], qui s'est tenue en 1939 ? <!-- cm003 remplacée 2026-11-23 -->

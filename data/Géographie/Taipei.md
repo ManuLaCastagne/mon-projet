@@ -30,12 +30,18 @@ culture_g_justification: "Grande capitale asiatique, utile pour Taïwan, Taipei 
 ![[Carte_Taipei.png]]
 ###### Questions
 
-Quelle ville a accueilli les premiers [[Jeux Mondiaux des Transplantés]] en 1980 ? 
+Quelle ville abrite le [[Musée national du palais]], riche des collections impériales chinoises transférées de Chine continentale en [[1949]] ?
 
-Quelle ville a enregistré en 2016 le gratte-ciel [[Taipei 101]] comme ayant l'un des ascenseurs les plus rapides au monde avec une vitesse de 60,6 km/h ? 
-
-Quel est le siège de l'entreprise produisant le scooter électrique le plus vendu au monde, [[Gogoro]], fondée en 2011 ?
+Quelle capitale asiatique a vu s'achever en [[2004]] une tour de 508 mètres, alors la plus haute du monde ?
 
 ###### Description
 
 [[Taipei]], fondée en 1884, est la capitale dynamique de [[Taïwan]], située dans le nord de l'île. Avec sa célèbre tour [[Taipei 101]], inaugurée en 2004, elle a été le plus haut bâtiment du monde jusqu'en 2010, mesurant 508 mètres. L'architecture moderne de la ville se mêle harmonieusement aux richesses culturelles, notamment avec le [[National Palace Museum]], qui abrite des artefacts datant de plusieurs dynasties chinoises. Chaque année, le festival des lanternes, célébré après le Nouvel An lunaire, illumine [[Taipei]], attirant des visiteurs du monde entier.
+
+###### Archives questions
+
+Quelle ville a enregistré en 2016 le gratte-ciel [[Taipei 101]] comme ayant l'un des ascenseurs les plus rapides au monde avec une vitesse de 60,6 km/h ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a accueilli les premiers [[Jeux Mondiaux des Transplantés]] en 1980 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le siège de l'entreprise produisant le scooter électrique le plus vendu au monde, [[Gogoro]], fondée en 2011 ? <!-- cm003 archivée 2026-11-23 -->

@@ -30,11 +30,11 @@ culture_g_justification: "Grande ville américaine connue pour le jazz, les Chie
 
 ###### Questions
 
-Dans quelle ville du [[Missouri]] peut-on trouver l'une des plus grandes collections de fontaines en dehors de [[Rome]], avec plus de 200 fontaines, et qui est souvent appelée la "ville aux fontaines" depuis la première moitié du XXe siècle ? <!-- score: 4 -->
+Quelle ville du [[Missouri]] est surnommée la « ville des fontaines » ?
 
-Quelle ville a accueilli la [[National World War I Museum and Memorial]], un mémorial national dédié à la Première Guerre mondiale, qui a ouvert ses portes pour la première fois en [[1926]] et est devenu un site historique national en [[2004]] ?
+Dans quelle ville du [[Missouri]] le Liberty Memorial, inauguré en [[1926]], abrite-t-il le musée national américain de la Première Guerre mondiale ?
 
-Quel principal centre urbain est situé sur la frontière entre le [[Missouri]] et le [[Kansas]], et a été choisi comme emplacement pour les [[Kansas City Chiefs]], une équipe de [[NFL]] qui a remporté son premier [[Super Bowl]] en [[1970]] ?
+Quelle ville américaine a donné son nom à un style de jazz des années 1930 porté par l'orchestre de [[Count Basie]] ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Fondée en [[1838]], elle abrite également la plus grande collection de bâtime
 Un fait étonnant est que [[Kansas City]] est connue pour son vaste réseau de boulevards, concourant à son surnom de "Paris des Plaines", avec une longueur totale de routes qui rivalise avec le plus grand système de boulevards après [[Paris]].  
 
 En termes de records, [[Kansas City]] possède une tradition musicale importante, étant le lieu de naissance du jazz moderne, et accueille chaque année le [[Kansas City Jazz Festival]], attirant des musiciens et des touristes du monde entier depuis sa première édition en [[1922]].
+
+###### Archives questions
+
+Quel principal centre urbain est situé sur la frontière entre le [[Missouri]] et le [[Kansas]], et a été choisi comme emplacement pour les [[Kansas City Chiefs]], une équipe de [[NFL]] qui a remporté son premier [[Super Bowl]] en [[1970]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a accueilli la [[National World War I Museum and Memorial]], un mémorial national dédié à la Première Guerre mondiale, qui a ouvert ses portes pour la première fois en [[1926]] et est devenu un site historique national en [[2004]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville du [[Missouri]] peut-on trouver l'une des plus grandes collections de fontaines en dehors de [[Rome]], avec plus de 200 fontaines, et qui est souvent appelée la "ville aux fontaines" depuis la première moitié du XXe siècle ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

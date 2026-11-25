@@ -32,11 +32,11 @@ culture_g_justification: "Repère historique utile pour comprendre les origines 
 ![[Carte_Nouvelle-Amsterdam.png]]
 ###### Questions
 
-Dans quelle ville, connue aujourd'hui sous le nom de [[New York]], les colons néerlandais ont-ils établi une colonie appelée [[Nouvelle-Amsterdam]] en 1624 ?
+Quelle colonie néerlandaise [[Pierre Minuit]] développa-t-il après avoir acheté l'île de [[Manhattan]] aux Amérindiens en [[1626]] ?
 
 En 1664, quel est le nom de la colonie néerlandaise qui fut prise par les Anglais et rebaptisée en l'honneur du [[duc d'York]] ?
 
-Quel est le nom de l'établissement fondé par les [[Néerlandais]] situé à l'embouchure de l'[[Hudson River]] avant de devenir une des plus grandes villes des [[États-Unis]] ?
+Quel comptoir néerlandais, établi à l'embouchure de l'[[Hudson]], eut pour dernier directeur général [[Peter Stuyvesant]] ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Cette cité portuaire était le cœur de la [[Nouvelle-Néerlande]], une colonie
 Une anecdote peu connue est que la ville possédait son premier bateau de pompiers en 1731, ce qui en fait l'une des premières villes au monde à disposer d'une protection contre les incendies organisée.  
 
 Après avoir été cédée aux [[Anglais]] en 1664, [[Nouvelle-Amsterdam]] fut renommée [[New York]] en honneur du [[duc d'York]], futur [[roi Jacques II d'Angleterre]].
+
+###### Archives questions
+
+Dans quelle ville, connue aujourd'hui sous le nom de [[New York]], les colons néerlandais ont-ils établi une colonie appelée [[Nouvelle-Amsterdam]] en 1624 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de l'établissement fondé par les [[Néerlandais]] situé à l'embouchure de l'[[Hudson River]] avant de devenir une des plus grandes villes des [[États-Unis]] ? <!-- cm003 remplacée 2026-11-23 -->

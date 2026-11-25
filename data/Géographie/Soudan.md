@@ -28,11 +28,11 @@ culture_g_justification: "Grand État africain fréquemment abordé par son hist
 
 ###### Questions
 
-Quelle est la nation qui possédait le plus grand nombre de pyramides au monde jusqu'à ce qu'elles soient surpassées par les découvertes en [[Égypte]] ?
+Quel pays compte plus de pyramides que l'[[Égypte]], dont celles du site nubien de [[Méroé]] ?
 
 Quel pays africain était le plus vaste avant que le [[Soudan du Sud]] ne déclare son indépendance en [[2011]] ?
 
-Quel État d'[[Afrique]] abrite le [[Nubian Desert]], connu pour ses importantes découvertes archéologiques datant de l'époque de la civilisation de [[Kerma]] ?
+Dans quel pays se trouve [[Khartoum]], au confluent du [[Nil Blanc]] et du [[Nil Bleu]] ?
 
 ###### Description
 
@@ -43,3 +43,9 @@ Il est bordé par la [[Mer Rouge]] à l'est, offrant ainsi un accès maritime st
 Un fait étonnant est que le [[Soudan]] abrite plus de pyramides que l'[[Égypte]], avec environ 255 pyramides de l'ancienne civilisation nubienne, principalement situées à [[Mérote]].  
 
 En 2011, après des années de conflit civil, le [[Soudan]] a été divisé, donnant naissance à un nouveau pays, le [[Soudan du Sud]], qui a remporté son indépendance le 9 juillet de cette année-là.
+
+###### Archives questions
+
+Quel État d'[[Afrique]] abrite le [[Nubian Desert]], connu pour ses importantes découvertes archéologiques datant de l'époque de la civilisation de [[Kerma]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la nation qui possédait le plus grand nombre de pyramides au monde jusqu'à ce qu'elles soient surpassées par les découvertes en [[Égypte]] ? <!-- cm003 remplacée 2026-11-23 -->

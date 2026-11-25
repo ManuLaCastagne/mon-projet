@@ -31,11 +31,11 @@ culture_g_justification: "Ville devenue une référence culturelle grâce au fes
 
 ###### Questions
 
-Quelle ville allemande abrite le célèbre [[Festival de Bayreuth]] dédié aux opéras de [[Richard Wagner]], qui a commencé en 1876 ?
+Dans quelle ville [[Richard Wagner]] a-t-il inauguré en [[1876]] un festival consacré à ses opéras ?
 
-Dans quelle ville située en [[Bavière]], un opéra conçu spécifiquement par [[Richard Wagner]], le [[Festspielhaus de Bayreuth]], a-t-il ouvert ses portes pour la première fois en 1876 ?
+Dans quelle ville de [[Franconie]] l'opéra des margraves, joyau baroque, est-il inscrit au [[patrimoine mondial de l'UNESCO]] depuis [[2012]] ?
 
-Dans quelle ville se trouve l'[[Université de Bayreuth]], fondée en 1975, qui est notamment reconnue pour ses programmes en sciences et en économie ?
+Dans quelle ville [[Franz Liszt]] est-il mort en [[1886]], pendant le festival de son gendre [[Richard Wagner]] ?
 
 ###### Description
 
@@ -46,3 +46,11 @@ Fondé en [[1876]] par [[Wagner]] lui-même, ce festival attire chaque année de
 Un fait étonnant est que [[Bayreuth]] accueille l'une des plus anciennes universités d'Allemagne, l'[[Université de Bayreuth]], qui a été fondée en [[1975]], ce qui est relativement récent comparé à d'autres grandes universités allemandes. 
 
 Également, [[Jean-Paul]], un écrivain particulièrement cher à la ville, y a passé les dernières années de sa vie, et sa maison est aujourd'hui un musée qui lui est consacré.
+
+###### Archives questions
+
+Quelle ville allemande abrite le célèbre [[Festival de Bayreuth]] dédié aux opéras de [[Richard Wagner]], qui a commencé en 1876 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville située en [[Bavière]], un opéra conçu spécifiquement par [[Richard Wagner]], le [[Festspielhaus de Bayreuth]], a-t-il ouvert ses portes pour la première fois en 1876 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville se trouve l'[[Université de Bayreuth]], fondée en 1975, qui est notamment reconnue pour ses programmes en sciences et en économie ? <!-- cm003 remplacée 2026-11-23 -->

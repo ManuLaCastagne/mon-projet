@@ -32,10 +32,14 @@ culture_g_justification: "Capitale lettone importante dans les questions sur les
 
 Quelle est la capitale de la [[Lettonie]], pays membre de l'[[Union européenne]] depuis 2004, située sur les rives de la [[Daugava]] ? 
 
-Dans quelle ville, en 1987, a été créé le festival de musique d'été biennal connu sous le nom de [[Riga Jurmala Music Festival]] ? 
-
-Dans quelle ville européenne a été ouverte en 2014 la [[Bibliothèque nationale de Lettonie]], surnommée le [[Palais de la Lumière]], et conçue par l'architecte [[Gunnar Birkerts]] ?
+Dans quelle capitale balte la [[Bibliothèque nationale de Lettonie]], dessinée par [[Gunnar Birkerts]], a-t-elle ouvert en [[2014]] ?
 
 ###### Description
 
 [[Riga]], la capitale de la [[Lettonie]], est une ville située sur la côte de la mer Baltique et réputée pour son architecture unique. Fondée en 1201 par l'évêque Albert de Buxhoeveden, elle a joué un rôle central en tant que membre de la [[Ligue Hanséatique]]. La ville est particulièrement célèbre pour son centre historique, inscrit au patrimoine mondial de l'[[UNESCO]] depuis 1997, qui regorge de bâtiments de style Art nouveau. En 2014, Riga a été désignée comme capitale européenne de la culture, soulignant son dynamisme culturel et artistique.
+
+###### Archives questions
+
+Dans quelle ville, en 1987, a été créé le festival de musique d'été biennal connu sous le nom de [[Riga Jurmala Music Festival]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quelle ville européenne a été ouverte en 2014 la [[Bibliothèque nationale de Lettonie]], surnommée le [[Palais de la Lumière]], et conçue par l'architecte [[Gunnar Birkerts]] ? <!-- cm003 remplacée 2026-11-23 -->

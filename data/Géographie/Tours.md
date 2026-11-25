@@ -32,11 +32,11 @@ culture_g_justification: "Tours est une ville française importante, liée à la
 ![[Carte_Tours.png]]
 ###### Questions
 
-Quelle villa gallo-romaine, découverte en 1979, se trouve sous la place Plumereau de la ville de [[Tours]] ? 
+Dans quelle ville se trouve la basilique élevée sur le tombeau de l'évêque saint Martin, mort en [[397]] ?
 
-Dans quelle ville française a été construit le [[Pont Wilson]], premier pont suspendu au monde utilisant des câbles en acier, achevé en 1822 ?
+Dans quelle ville le congrès de décembre [[1920]] a-t-il donné naissance au [[Parti communiste français]] ?
 
-Quelle ville a accueilli la fameuse [[expédition Cavelier de La Salle]] vers l'Amérique du Nord en 1684, marquant l'histoire de la Nouvelle-France ?
+Dans quelle ville [[Honoré de Balzac]] est-il né en [[1799]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Connue pour sa célèbre place Plumereau, elle a été élue plusieurs fois comm
 Un fait peu connu est que [[Tours]] est le berceau de l'explorateur [[Jacques Cartier]], qui a quitté la ville en 1534 pour découvrir la [[Nouvelle-France]], une date clé pour les amateurs de culture et d'histoire. 
 
 En 1991, la ville a été inscrite au patrimoine mondial de l'UNESCO au titre de ses paysages culturels de prose exceptionnelle, contribuant à sa renommée internationale.
+
+###### Archives questions
+
+Quelle villa gallo-romaine, découverte en 1979, se trouve sous la place Plumereau de la ville de [[Tours]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française a été construit le [[Pont Wilson]], premier pont suspendu au monde utilisant des câbles en acier, achevé en 1822 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a accueilli la fameuse [[expédition Cavelier de La Salle]] vers l'Amérique du Nord en 1684, marquant l'histoire de la Nouvelle-France ? <!-- cm003 remplacée 2026-11-23 -->

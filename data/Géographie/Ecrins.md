@@ -32,11 +32,11 @@ culture_g_justification: "Massif français classique grâce à son parc national
 ![[Carte_Ecrins.png]]
 ###### Questions
 
-Quel massif montagneux français, situé principalement dans le département des [[Hautes-Alpes]], abrite le [[Parc national des Écrins]], créé en 1973 ?
+Quel massif des Alpes françaises, à cheval sur les [[Hautes-Alpes]] et l'[[Isère]], comprend la [[Meije]] et le glacier Blanc ?
 
-Quelle zone protégée, portant le nom d'un massif des [[Alpes]], est le cinquième parc national français en termes de date de création, fondé après le [[Parc national des Pyrénées]] ?
+Quel parc national alpin, créé en [[1973]] après celui des [[Parc national des Cévennes|Cévennes]], est le cinquième parc national français ?
 
-Quel parc national français est établi autour d'un massif dont le sommet le plus élevé, la [[Barre des Écrins]], culmine à [[4 102 mètres]] ?
+Dans quel massif se trouve le plus méridional des sommets alpins de plus de 4 000 mètres, qui culmine à 4 102 mètres ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ Le point culminant de ce massif est la [[Barre des Écrins]], qui s'élève à 4
 Le [[Parc national des Écrins]], créé en 1973, protège une nature exceptionnelle, abritant plus de 2 500 espèces végétales et une riche faune sauvage comprenant des espèces emblématiques comme le bouquetin et l'aigle royal.
 
 Fait étonnant, les [[Écrins]] abritent la plus grande concentration de glaciers des Alpes françaises après ceux de [[Chamonix]], et le glacier Blanc est le plus grand glacier du massif, bien que sa taille a fortement régressé en raison du réchauffement climatique.
+
+###### Archives questions
+
+Quel massif montagneux français, situé principalement dans le département des [[Hautes-Alpes]], abrite le [[Parc national des Écrins]], créé en 1973 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel parc national français est établi autour d'un massif dont le sommet le plus élevé, la [[Barre des Écrins]], culmine à [[4 102 mètres]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle zone protégée, portant le nom d'un massif des [[Alpes]], est le cinquième parc national français en termes de date de création, fondé après le [[Parc national des Pyrénées]] ? <!-- cm003 remplacée 2026-11-23 -->

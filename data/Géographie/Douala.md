@@ -32,11 +32,9 @@ culture_g_justification: "Principale métropole économique du Cameroun, Douala 
 ![[Carte_Douala.png]]
 ###### Questions
 
-Quelle ville de [[Cameroun]] abrite le [[Port autonome de Douala]], le plus grand port du pays, essentiel pour le commerce international depuis sa construction en 1980 ?
+Quel port, le principal du [[Cameroun]], se trouve sur l'estuaire du [[Wouri]] ?
 
-Quelle est la ville d'Afrique centrale où l'aéroport international a été classé comme le plus fréquenté du [[Cameroun]] avant l'ouverture de celui de [[Yaoundé]] en 1991 ? <!-- score: 4 -->
-
-Quelle ville, fondée par la tribu des [[Douala]], est devenue plus tard un centre économique majeur après avoir été sous diverses administrations coloniales, notamment [[allemande]] avant 1916, puis [[française]] et [[britannique]] ?
+Quelle ville fut la capitale du [[Kamerun]] allemand jusqu'en [[1901]] ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Connue pour son climat tropical et son dynamisme économique, elle est souvent c
 Un fait étonnant est que [[Douala]] abrite la toute première piste d'atterrissage de l'[[Air France]] qui fut ouverte en 1935, bien avant d'autres grandes villes africaines de l'époque.
 
 La ville est également marquée par sa diversité culturelle, étant un véritable carrefour où de nombreuses ethnies et nationalités cohabitent.
+
+###### Archives questions
+
+Quelle ville de [[Cameroun]] abrite le [[Port autonome de Douala]], le plus grand port du pays, essentiel pour le commerce international depuis sa construction en 1980 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville, fondée par la tribu des [[Douala]], est devenue plus tard un centre économique majeur après avoir été sous diverses administrations coloniales, notamment [[allemande]] avant 1916, puis [[française]] et [[britannique]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la ville d'Afrique centrale où l'aéroport international a été classé comme le plus fréquenté du [[Cameroun]] avant l'ouverture de celui de [[Yaoundé]] en 1991 ? <!-- score: 4 --> <!-- cm003 archivée 2026-11-23 -->

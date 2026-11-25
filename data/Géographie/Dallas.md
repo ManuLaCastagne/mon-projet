@@ -32,11 +32,9 @@ culture_g_justification: "Ville incontournable grâce à l’assassinat de Kenne
 ![[Carte_Dallas.png]]
 ###### Questions
 
-Dans quelle ville du [[Texas]] a été installé en 1973 le premier exemple du modèle d'urbanisme de [[Anthony Downs]], une théorie surnommée "l'effet de [[Dallas]]"?
+Dans quelle ville du [[Texas]] le président [[John F. Kennedy]] a-t-il été assassiné le 22 novembre [[1963]] ?
 
-Quel est le lieu de résidence du président [[John F. Kennedy]] lors de son assassinat en 1963, un événement majeur de l'histoire américaine?
-
-En 1980, quelle ville est devenue mondiale grâce à une série télévisée, marquant un tournant dans la perception des feuilletons télévisés américains à l'international?
+Quelle ville texane donne son titre au feuilleton américain lancé en [[1978]] autour de la famille Ewing et du ranch Southfork ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Un fait étonnant sur Dallas est qu'elle est le lieu de construction du premier 
 La ville est traversée par la rivière [[Trinity]], un élément géographique marquant qui contribue à son expansion depuis sa fondation en 1841. 
 
 De plus, Dallas est jumelée avec plusieurs villes dans le monde, dont la ville de [[Monterrey]] au [[Mexique]] depuis 1985, favorisant des échanges culturels et économiques.
+
+###### Archives questions
+
+Dans quelle ville du [[Texas]] a été installé en 1973 le premier exemple du modèle d'urbanisme de [[Anthony Downs]], une théorie surnommée "l'effet de [[Dallas]]"? <!-- cm003 archivée 2026-11-23 -->
+
+Quel est le lieu de résidence du président [[John F. Kennedy]] lors de son assassinat en 1963, un événement majeur de l'histoire américaine? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1980, quelle ville est devenue mondiale grâce à une série télévisée, marquant un tournant dans la perception des feuilletons télévisés américains à l'international? <!-- cm003 remplacée 2026-11-23 -->

@@ -30,11 +30,11 @@ culture_g_justification: "Pays balkanique régulièrement interrogé pour son ch
 ![[Carte_Macédoine du Nord.png]]
 ###### Questions
 
-Quel pays des [[Balkans]], dont la capitale est [[Skopje]], a changé son nom en [[Macédoine du Nord]] en 2019 à la suite d'un différend avec la [[Grèce]] ?
+Quel pays des [[Balkans]], dont la capitale est [[Skopje]], a changé de nom en février [[2019]] après l'accord de [[Prespa]] avec la [[Grèce]] ?
 
 Quel pays, devenu indépendant de la [[Yougoslavie]] en 1991, est connu pour abriter le lac [[Ohrid]], un des plus anciens et profonds lacs d'Europe, partagé avec l'[[Albanie]] ?
 
-Quel pays est le seul à avoir rejoint l'[[OTAN]] en mars 2020, après avoir changé son nom pour résoudre un conflit de dénomination avec un voisin membre de l'[[Union européenne]] ?
+Quel pays est devenu le 30e membre de l'[[OTAN]] en mars [[2020]] ?
 
 ###### Description
 
@@ -45,3 +45,9 @@ La capitale, [[Skopje]], est traversée par le fleuve [[Vardar]] et est connue p
 Un fait étonnant à propos de la [[Macédoine du Nord]] est qu'elle abrite le lac [[Ohrid]], l'un des plus anciens lacs et biotopes du monde, qui s’est formé il y a environ trois à cinq millions d’années, ce qui fait de lui l'un des lacs les plus anciens d'Europe.  
 
 Depuis le 15 octobre 2001, la ville de [[Ohrid]] et ses rives sont classées au patrimoine mondial de l'[[UNESCO]], tant pour leur richesse culturelle que pour leur environnement naturel exceptionnel.
+
+###### Archives questions
+
+Quel pays des [[Balkans]], dont la capitale est [[Skopje]], a changé son nom en [[Macédoine du Nord]] en 2019 à la suite d'un différend avec la [[Grèce]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel pays est le seul à avoir rejoint l'[[OTAN]] en mars 2020, après avoir changé son nom pour résoudre un conflit de dénomination avec un voisin membre de l'[[Union européenne]] ? <!-- cm003 remplacée 2026-11-23 -->
