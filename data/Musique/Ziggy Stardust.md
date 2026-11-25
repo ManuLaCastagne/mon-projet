@@ -25,11 +25,11 @@ culture_g_justification: "Alter ego et album majeur de David Bowie, régulièrem
 
 ###### Questions
 
-Quel est le nom de l'alter ego que [[David Bowie]] a créé en 1972 pour son album conceptuel acclamé par la critique ?
+Quel alter ego extraterrestre [[David Bowie]] incarna-t-il en 1972 et 1973 avec son groupe les Spiders from Mars ?
 
-Quel personnage fictif introduit par [[David Bowie]] symbolise une rock star extraterrestre dans l'album sorti le 16 juin 1972 ? <!-- score: 6 -->
+Quel personnage [[David Bowie]] a-t-il « tué » sur scène le 3 juillet 1973 à l'Hammersmith Odeon de Londres ?
 
-Quelle création de [[David Bowie]], apparue pour la première fois en 1972, est célèbre pour le titre complet "The Rise and Fall of [[Ziggy Stardust]] and the Spiders from Mars" ?
+Quel personnage donne son nom à l'album de [[David Bowie]] sorti le 16 juin 1972, qui contient « Starman » ?
 
 ###### Description
 
@@ -40,3 +40,11 @@ Ce concept album raconte l'histoire d'un personnage extraterrestre, Ziggy Stardu
 Un fait étonnant et peu connu est que la chanson "[[Starman]]", issue de cet album, a souvent été créditée d'avoir sauvé la carrière de Bowie au Royaume-Uni car elle a été largement diffusée après sa performance à la télévision, attirant un public enthousiaste. 
 
 Fait remarquable, Rolling Stone a classé cet album au 35e rang des 500 plus grands albums de tous les temps en [[2003]], soulignant son influence durable dans le monde du rock et au-delà.
+
+###### Archives questions
+
+Quelle création de [[David Bowie]], apparue pour la première fois en 1972, est célèbre pour le titre complet "The Rise and Fall of [[Ziggy Stardust]] and the Spiders from Mars" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de l'alter ego que [[David Bowie]] a créé en 1972 pour son album conceptuel acclamé par la critique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage fictif introduit par [[David Bowie]] symbolise une rock star extraterrestre dans l'album sorti le 16 juin 1972 ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->

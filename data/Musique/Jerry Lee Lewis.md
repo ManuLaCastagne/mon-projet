@@ -29,11 +29,11 @@ culture_g_justification: "Pionnier majeur du rock'n'roll, régulièrement questi
 
 ###### Questions
 
-Dans quelle chanson publiée en 1957, [[Jerry Lee Lewis]] affirme posséder une "boule de feu" en parlant de l'amour ?
+Quel pianiste de rock'n'roll était surnommé « The Killer » ?
 
-Quel célèbre musicien a interprété [[Whole Lotta Shakin' Goin' On]], une performance qui a électrisé l'audience du [[Show d'Ed Sullivan]] en 1957 ?
+Quel pianiste a fait sensation en 1957 en jouant « [[Whole Lotta Shakin' Goin' On]] » au Steve Allen Show ?
 
-Qui a vu son concert à l'[[Apollo Theater]] de [[Harlem 1]] interrompu par des jets de bouteilles en 1958, suscitant la controverse pour le mélange de [[rock 'n' roll]] et de [[rythm and blues]] ?
+Quel pianiste vit sa tournée britannique de 1958 annulée après la révélation de son mariage avec sa cousine de 13 ans ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Son talent explosif au piano lui a valu une renommée internationale grâce à d
 Un fait étonnant à propos de [[Jerry Lee Lewis]] est qu'il a été intronisé au [[Country Music Hall of Fame]] en 2022, reconnu ainsi pour son influence majeure dans plusieurs genres musicaux au-delà du rock. 
 
 En plus de sa carrière musicale, [[Jerry Lee Lewis]] a défrayé la chronique en 1958 lorsqu'il a épousé sa cousine germaine de 13 ans, [[Myra Gale Brown]], un événement qui a secoué l'opinion publique à l'époque.
+
+###### Archives questions
+
+Dans quelle chanson publiée en 1957, [[Jerry Lee Lewis]] affirme posséder une "boule de feu" en parlant de l'amour ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a vu son concert à l'[[Apollo Theater]] de [[Harlem 1]] interrompu par des jets de bouteilles en 1958, suscitant la controverse pour le mélange de [[rock 'n' roll]] et de [[rythm and blues]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre musicien a interprété [[Whole Lotta Shakin' Goin' On]], une performance qui a électrisé l'audience du [[Show d'Ed Sullivan]] en 1957 ? <!-- cm003 remplacée 2026-11-23 -->

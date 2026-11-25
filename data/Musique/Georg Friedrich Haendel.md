@@ -29,11 +29,11 @@ culture_g_justification: "Grand compositeur baroque, particulièrement rentable 
 
 ###### Questions
 
-Dans quelle ville [[Georg Friedrich Haendel]] a-t-il composé le célèbre [[Messie]] en 1741 ?
+Quel compositeur fit jouer sa « Water Music » sur la Tamise en 1717, pour le roi [[George Ier (roi de Grande-Bretagne)|George Ier]] ?
 
-Quel compositeur, né en 1685 et influent dans le développement de l'opéra [[baroque]], est aussi bien connu pour avoir acquis la citoyenneté britannique en 1727 ? <!-- score: 4 -->
+Quel compositeur né à Halle en 1685 fut naturalisé britannique en 1727 ?
 
-Sous quel prince-électeur, qui deviendra plus tard [[George Ier]] du Royaume-Uni, [[Georg Friedrich Haendel]] a-t-il été nommé Directeur de la musique de la cour de [[Hanovre]] en 1710 ?
+Quel compositeur écrivit en 1749 la « Musique pour les feux d'artifice royaux » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Un fait étonnant sur Haendel est qu'il a composé cet oratorio en seulement 24 
 Il a passé une grande partie de sa carrière à Londres, où il a influencé le développement de l'opéra anglais, introduisant de nouveaux styles musicaux aux auditoires britanniques. 
 
 Bien que Haendel ait perdu la vue vers la fin de sa vie, il a continué à diriger des performances, démontrant ainsi sa passion et son engagement indéfectible envers la musique.
+
+###### Archives questions
+
+Dans quelle ville [[Georg Friedrich Haendel]] a-t-il composé le célèbre [[Messie]] en 1741 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Sous quel prince-électeur, qui deviendra plus tard [[George Ier]] du Royaume-Uni, [[Georg Friedrich Haendel]] a-t-il été nommé Directeur de la musique de la cour de [[Hanovre]] en 1710 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel compositeur, né en 1685 et influent dans le développement de l'opéra [[baroque]], est aussi bien connu pour avoir acquis la citoyenneté britannique en 1727 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

@@ -29,15 +29,15 @@ culture_g_justification: "Personnalité franco-britannique très rentable grâce
 
 ###### Questions
 
-Qui a eu pour enfants [[Kate Barry]], une photographe, [[Charlotte Gainsbourg]] et [[Lou Doillon]] ?
+Quelle chanteuse est la mère de la photographe [[Kate Barry]], de [[Charlotte Gainsbourg]] et de [[Lou Doillon]] ?
 
 En 1978, quelle chanteuse évoque la disparition de [[Brian Jones]], le guitariste des [[Rolling Stones]], dans le titre "[[Ex-fan des sixties]]" ?
 
-Avec quel partenaire [[Jane Birkin]] a-t-elle interprété la chanson emblématique « [[Je t'aime... moi non plus]] » qui a suscité une grande polémique à sa sortie en 1969 ? 
+Quelle chanteuse a enregistré avec [[Serge Gainsbourg]] « [[Je t'aime... moi non plus]] », condamnée par le Vatican en 1969 ?
 
-Quel album de [[Jane Birkin]], sorti en 1983, rend hommage à sa fille [[Charlotte Gainsbourg]] avec un titre dédié à sa naissance intitulé « [[Baby Alone in Babylone]] » ?
+Quelle chanteuse a interprété en 1983 « Baby Alone in Babylone », sur une mélodie empruntée à [[Johannes Brahms]] ?
 
-Quelle actrice et chanteuse britannique a enregistré en 1973 la chanson « [[Di doo dah]] », écrite par [[Serge Gainsbourg]], marquant ainsi le début de sa carrière musicale solo ?
+Quelle chanteuse britannique a sorti en 1973 son premier album solo, « Di doo dah » ?
 
 ###### Description
 
@@ -48,3 +48,13 @@ En tant que chanteuse solo, elle a publié plusieurs albums à succès, dont "Ba
 Un fait étonnant est que Jane Birkin est entrée au Livre Guinness des records en 1984 pour avoir été la première chanteuse à utiliser le mot "extralucide" dans une chanson populaire, ce qui est rarement mentionné dans les quiz de culture générale. 
 
 Par ailleurs, elle est également reconnue pour son premier album en français, "Di doo dah", sorti en 1973, qui a marqué le début d'une carrière prolifique dans la musique française.
+
+###### Archives questions
+
+Avec quel partenaire [[Jane Birkin]] a-t-elle interprété la chanson emblématique « [[Je t'aime... moi non plus]] » qui a suscité une grande polémique à sa sortie en 1969 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album de [[Jane Birkin]], sorti en 1983, rend hommage à sa fille [[Charlotte Gainsbourg]] avec un titre dédié à sa naissance intitulé « [[Baby Alone in Babylone]] » ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a eu pour enfants [[Kate Barry]], une photographe, [[Charlotte Gainsbourg]] et [[Lou Doillon]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle actrice et chanteuse britannique a enregistré en 1973 la chanson « [[Di doo dah]] », écrite par [[Serge Gainsbourg]], marquant ainsi le début de sa carrière musicale solo ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Grande figure de la chanson française, à la fois po�
 
 ###### Questions
 
-Quel célèbre chanteur-poète a été l'un des premiers artistes à utiliser un orchestre symphonique dans une chanson, notamment dans l'album "[[Amour Anarchie]]" sorti en 1970 ? <!-- score: 6 -->
+Quel chanteur a créé en 1970 « Avec le temps », sur l'album « Amour Anarchie » ?
 
-Quel artiste a mis en musique les poèmes de [[Charles Baudelaire]] dans l'album "[[Léo Ferré chante Baudelaire]]" en 1957 ?
+Quel chanteur a mis en musique « Les Fleurs du mal » de [[Charles Baudelaire]] dans un album de 1957 ?
 
-Quel musicien a collaboré avec le groupe de rock français [[Zoo]] pour créer un album hybride intitulé "[[La Solitude]]" publié en 1971 ?
+Quel chanteur a enregistré en 1971 l'album « La Solitude » avec le groupe de rock progressif Zoo ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 1975, il réalise un album remarquable intitulé "Verlaine et Rimbaud", où i
 Un fait étonnant : en 1969, Léo Ferré devint le premier artiste français à enregistrer un album avec un orchestre symphonique complet, le [[London Symphony Orchestra]], une prouesse qui a marqué l'industrie musicale de l'époque. 
 
 [[Léo Ferré]] a non seulement influencé plusieurs générations d'artistes, mais il a également gagné une reconnaissance internationale pour ses compositions audacieuses et ses performances passionnées.
+
+###### Archives questions
+
+Quel artiste a mis en musique les poèmes de [[Charles Baudelaire]] dans l'album "[[Léo Ferré chante Baudelaire]]" en 1957 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre chanteur-poète a été l'un des premiers artistes à utiliser un orchestre symphonique dans une chanson, notamment dans l'album "[[Amour Anarchie]]" sorti en 1970 ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien a collaboré avec le groupe de rock français [[Zoo]] pour créer un album hybride intitulé "[[La Solitude]]" publié en 1971 ? <!-- cm003 remplacée 2026-11-23 -->

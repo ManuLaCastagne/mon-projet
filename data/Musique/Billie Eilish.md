@@ -27,11 +27,11 @@ culture_g_justification: "Artiste contemporaine mondialement connue, rentable po
 
 ###### Questions
 
-En quelle année [[Billie Eilish]] a-t-elle été la plus jeune artiste à remporter les quatre principales catégories des [[Grammy Awards]] lors d'une même cérémonie ?
+Quelle chanteuse a remporté à 18 ans, en 2020, les quatre principaux [[Grammy Awards]] lors de la même cérémonie ?
 
-Quelle chanson de [[Billie Eilish]] a été choisie comme thème principal du film [[James Bond]] « [[No Time to Die]] » sorti en 2021 ?
+Quelle chanteuse a interprété la chanson du film « [[Mourir peut attendre]] », récompensée par l'Oscar en 2022 ?
 
-Quel est le titre du premier album studio de [[Billie Eilish]] sorti en 2019 qui a débuté en tête du [[Billboard 200]] ?
+Quelle chanteuse a sorti en 2019 son premier album, « When We All Fall Asleep, Where Do We Go? », coécrit avec son frère Finneas ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ En 2019, elle devient la plus jeune artiste à recevoir des nominations dans les
 Étonnamment, elle est la première artiste née dans les années 2000 à réaliser un numéro un du classement [[Billboard Hot 100]] avec son titre « [[Bad Guy]] ». 
 
 Son frère, [[Finneas O'Connell]], joue un rôle crucial dans son succès, étant le coproducteur de ses albums et co-auteur de plusieurs de ses morceaux à succès.
+
+###### Archives questions
+
+En quelle année [[Billie Eilish]] a-t-elle été la plus jeune artiste à remporter les quatre principales catégories des [[Grammy Awards]] lors d'une même cérémonie ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanson de [[Billie Eilish]] a été choisie comme thème principal du film [[James Bond]] « [[No Time to Die]] » sorti en 2021 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du premier album studio de [[Billie Eilish]] sorti en 2019 qui a débuté en tête du [[Billboard 200]] ? <!-- cm003 remplacée 2026-11-23 -->

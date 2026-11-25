@@ -29,11 +29,11 @@ culture_g_justification: "Figure majeure du punk et des Stooges, Iggy Pop ouvre 
 
 ###### Questions
 
-En quelle année [[Iggy Pop]] a-t-il commencé sa carrière solo après la séparation du groupe [[The Stooges]] ?
+Quel chanteur américain est né James Newell Osterberg en 1947 ?
 
-Avec quel grand musicien de rock britannique [[Iggy Pop]] a-t-il collaboré pour produire son album "The Idiot" en 1977 ?
+Quel chanteur a sorti en 1977 l'album « The Idiot », produit par [[David Bowie]] ?
 
-Quel événement en 1990 a vu la chanson "Lust for Life" d'[[Iggy Pop]] acquérir une notoriété renouvelée grâce à sa présence sur la bande-son du film [[Trainspotting]] ?
+Quel chanteur a vu son titre « [[Lust for Life]] » relancé en 1996 par le film [[Trainspotting]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Connu pour ses performances scéniques énergiques et parfois choquantes, il est
 En 1977, [[David Bowie]], qui admirait profondément [[Iggy Pop]], a produit ses deux premiers albums solo, ''[[The Idiot]]'' et ''[[Lust for Life]]'', aidant ainsi le musicien à relancer sa carrière après la séparation des [[Stooges]]. 
 
 Un fait intéressant et peu connu est qu'il détient le record de la plus longue séance de crowdsurfing jamais enregistrée, sur plus de 30 mètres, surpassant de nombreux records établis dans le monde entier.
+
+###### Archives questions
+
+En quelle année [[Iggy Pop]] a-t-il commencé sa carrière solo après la séparation du groupe [[The Stooges]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Avec quel grand musicien de rock britannique [[Iggy Pop]] a-t-il collaboré pour produire son album "The Idiot" en 1977 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel événement en 1990 a vu la chanson "Lust for Life" d'[[Iggy Pop]] acquérir une notoriété renouvelée grâce à sa présence sur la bande-son du film [[Trainspotting]] ? <!-- cm003 remplacée 2026-11-23 -->

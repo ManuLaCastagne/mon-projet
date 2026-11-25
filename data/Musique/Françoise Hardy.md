@@ -30,11 +30,11 @@ culture_g_justification: "Icône de la chanson française, liée aux yé-yé, à
 
 ###### Questions
 
-Dans quelle année [[Françoise Hardy]] a-t-elle sorti son célèbre album "[[La Question]]" qui a été entièrement enregistré au [[Brésil]]?
+Quelle chanteuse a sorti en 1971 l'album « La Question », arrangé par la Brésilienne Tuca ?
 
-Quel duo emblématique de [[Françoise Hardy]] et de [[Jacques Dutronc]] formé dans la sphère musicale française a officialisé leur relation par un mariage en 1981?
+Quelle chanteuse a épousé en 1981 [[Jacques Dutronc]], père de son fils Thomas ?
 
-En 1968, quel événement notable a-t-il marqué la carrière internationale de [[Françoise Hardy]] lorsqu'elle a signé un contrat d'enregistrement avec le prestigieux label américain [[Reprise Records]]?
+Quelle chanteuse a connu son premier succès en 1962 avec « Tous les garçons et les filles » ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Elle devient célèbre en 1962 avec son premier grand succès "Tous les garçons
 Fait étonnant, [[Françoise Hardy]] a été la première artiste française à être invitée sur le plateau du célèbre show musical américain [[The Ed Sullivan Show]] en 1966. 
 
 En 1994, elle reçoit la Victoire de la musique de l'artiste féminine de l'année, soulignant ainsi sa contribution durable à la scène musicale française.
+
+###### Archives questions
+
+Dans quelle année [[Françoise Hardy]] a-t-elle sorti son célèbre album "[[La Question]]" qui a été entièrement enregistré au [[Brésil]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel duo emblématique de [[Françoise Hardy]] et de [[Jacques Dutronc]] formé dans la sphère musicale française a officialisé leur relation par un mariage en 1981? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1968, quel événement notable a-t-il marqué la carrière internationale de [[Françoise Hardy]] lorsqu'elle a signé un contrat d'enregistrement avec le prestigieux label américain [[Reprise Records]]? <!-- cm003 remplacée 2026-11-23 -->

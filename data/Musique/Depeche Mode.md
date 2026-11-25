@@ -29,11 +29,11 @@ culture_g_justification: "Groupe essentiel de la new wave et de l’électro-pop
 
 ###### Questions
 
-En quelle année le groupe [[Depeche Mode]] a-t-il été intronisé au [[Rock and Roll Hall of Fame]] pour sa contribution à la musique?
+Quel groupe de [[Dave Gahan]] et [[Martin Gore]] est entré au [[Rock and Roll Hall of Fame]] en 2020 ?
 
-Quel groupe de musique a sorti l'album intitulé [[Violator]] en 1990, qui a marqué un tournant majeur dans leur carrière avec des succès comme "Enjoy the Silence"?
+Quel groupe a sorti en 1990 l'album « [[Violator]] », qui contient « Enjoy the Silence » ?
 
-Quel groupe, originaire de [[Basildon]] en [[Angleterre]], a été formé en 1980 et est reconnu pour avoir popularisé le genre new wave et électro-pop dans les années 1980 et 1990?
+Quel groupe de musique électronique s'est formé en 1980 à [[Basildon]], dans l'Essex ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Ils sont souvent célébrés pour avoir popularisé le rock électronique à tra
 Un fait étonnant est que leur album "[[Violator]]", sorti en 1990, a atteint un succès mondial avec plus de 15 millions d'exemplaires vendus, établissant un record dans les charts pour un groupe du genre synthpop.  
 
 Bien que leur musique évoque souvent des thèmes sombres, [[Depeche Mode]] a su captiver des générations successives et reste une référence majeure dans le monde du rock et de la musique électronique.
+
+###### Archives questions
+
+En quelle année le groupe [[Depeche Mode]] a-t-il été intronisé au [[Rock and Roll Hall of Fame]] pour sa contribution à la musique? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe de musique a sorti l'album intitulé [[Violator]] en 1990, qui a marqué un tournant majeur dans leur carrière avec des succès comme "Enjoy the Silence"? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe, originaire de [[Basildon]] en [[Angleterre]], a été formé en 1980 et est reconnu pour avoir popularisé le genre new wave et électro-pop dans les années 1980 et 1990? <!-- cm003 remplacée 2026-11-23 -->

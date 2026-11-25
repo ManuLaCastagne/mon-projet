@@ -29,11 +29,11 @@ culture_g_justification: "Figure durable de la chanson française, interrogée �
 
 ###### Questions
 
-En quelle année [[Bernard Lavilliers]] a-t-il sorti l'album [["O Gringo"]], qui a marqué un tournant dans sa carrière et l'a beaucoup popularisé?
+Quel chanteur né à Saint-Étienne en 1946 publia en 1980 « O Gringo », nourri de ses voyages au Brésil ?
 
-Quel artiste français a passé plusieurs mois dans les prisons de [[Loos]] dans les années 1960, une expérience qui a influencé ses thèmes et sa musique?
+Quel chanteur a écrit « Les Mains d'or » (2001), hommage aux ouvriers de la sidérurgie ?
 
-Quel chanteur a enregistré en 1975 l'album [["Les Barbares"]] qui aborde des thèmes politiques et sociaux marquant sa reconnaissance dans l'industrie musicale?
+Quel chanteur a sorti en 1976 l'album « Les Barbares » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Né en 1946 à [[Saint-Étienne]], il démarre sa carrière musicale dans les an
 Fait étonnant, il détient le record improbable d'avoir travaillé en tant qu'ouvrier métallurgiste avant d'embrasser une carrière artistique, ce qui lui permet de connaître intimement le monde ouvrier qu'il décrit dans certaines de ses chansons. 
 
 En 1987, son album «[[Voleur de Feu]]» rencontre un immense succès, consolidant son statut de figure emblématique de la scène musicale française.
+
+###### Archives questions
+
+En quelle année [[Bernard Lavilliers]] a-t-il sorti l'album [["O Gringo"]], qui a marqué un tournant dans sa carrière et l'a beaucoup popularisé? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste français a passé plusieurs mois dans les prisons de [[Loos]] dans les années 1960, une expérience qui a influencé ses thèmes et sa musique? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur a enregistré en 1975 l'album [["Les Barbares"]] qui aborde des thèmes politiques et sociaux marquant sa reconnaissance dans l'industrie musicale? <!-- cm003 remplacée 2026-11-23 -->

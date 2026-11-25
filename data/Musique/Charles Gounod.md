@@ -29,11 +29,11 @@ culture_g_justification: "Compositeur français classique fréquemment associé 
 
 ###### Questions
 
-Dans quelle œuvre de [[Charles Gounod]] entend-on le célèbre "[[Ave Maria]]", qui est en fait une adaptation de son [[Prélude en do majeur]] de [[Jean-Sébastien Bach]] réalisé en 1859 ?
+Quel compositeur a superposé une mélodie au premier prélude du « Clavier bien tempéré » de [[Jean-Sébastien Bach]], devenue un « Ave Maria » ?
 
-Quel compositeur français, né en 1818 et connu pour son opéra "[[Faust]]", a étudié au [[Conservatoire de Paris]] et remporté le [[Prix de Rome]] en 1839 ?
+Quel compositeur français, né en 1818, a remporté le [[Prix de Rome]] en 1839 ?
 
-Qui a composé la musique de l'hymne du [[Vatican]] en 1869, intitulé "Marche Pontificale", lequel est encore utilisé aujourd'hui ?
+Quel compositeur a écrit en 1869 la « Marche pontificale », hymne officiel du [[Vatican]] depuis 1949 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Bien que Gounod soit souvent associé à la musique sacrée, notamment avec son 
 Un fait étonnant à propos de [[Gounod]] est sa tentative d'invention : en 1891, il a travaillé avec [[Athanase Fossé]] à la conception du "pianoforte chromatique automatique", un projet visionnaire visant à enregistrer mécaniquement les notes et nuances d'une performance musicale.
 
 Gounod a laissé un impact durable qui va au-delà de sa musique, et ses innovations technologiques, bien que peu connues, montrent à quel point il était en avance sur son temps.
+
+###### Archives questions
+
+Dans quelle œuvre de [[Charles Gounod]] entend-on le célèbre "[[Ave Maria]]", qui est en fait une adaptation de son [[Prélude en do majeur]] de [[Jean-Sébastien Bach]] réalisé en 1859 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel compositeur français, né en 1818 et connu pour son opéra "[[Faust]]", a étudié au [[Conservatoire de Paris]] et remporté le [[Prix de Rome]] en 1839 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a composé la musique de l'hymne du [[Vatican]] en 1869, intitulé "Marche Pontificale", lequel est encore utilisé aujourd'hui ? <!-- cm003 remplacée 2026-11-23 -->

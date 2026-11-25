@@ -29,11 +29,9 @@ culture_g_justification: "Pionnier incontournable du rock and roll, fréquemment
 
 ###### Questions
 
-Quel artiste a enregistré la chanson [[Rock Around the Clock]], considérée comme le point de départ du [[rock 'n' roll]] grand public lorsqu'elle est sortie en 1954 ?
+Quel chanteur a enregistré en 1954 « [[Rock Around the Clock]] », popularisé l'année suivante par le film « Graine de violence » ?
 
-Quel musicien, avec son groupe [[Bill Haley & His Comets]], a popularisé le terme "[[rockabilly]]" dans les années 1950 ?
-
-Quel chanteur américain, connu pour sa mèche emblématique, a influencé l'essor du [[rock and roll]] avec l'album "Shake, Rattle and Roll" en 1956 ? <!-- score: 4 -->
+Quel chanteur, reconnaissable à son accroche-cœur sur le front, a enregistré « Shake, Rattle and Roll » en 1954 ?
 
 ###### Description
 
@@ -42,3 +40,11 @@ Quel chanteur américain, connu pour sa mèche emblématique, a influencé l'ess
 Un fait étonnant concernant [[Bill Haley]] est qu'en 1958, il est devenu le premier artiste américain de rock and roll à se produire derrière le [[Rideau de Fer]] lors d'une tournée en [[Allemagne de l'Est]], marquant ainsi une étape importante dans la diffusion de cette musique au-delà de l'Occident.
 
 Grâce à ce succès, [[Bill Haley]] et les [[Comets]] ont acquis une renommée internationale, influençant de nombreux artistes de l'époque et servant de tremplin à la carrière d'autres légendes du rock.
+
+###### Archives questions
+
+Quel musicien, avec son groupe [[Bill Haley & His Comets]], a popularisé le terme "[[rockabilly]]" dans les années 1950 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel chanteur américain, connu pour sa mèche emblématique, a influencé l'essor du [[rock and roll]] avec l'album "Shake, Rattle and Roll" en 1956 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste a enregistré la chanson [[Rock Around the Clock]], considérée comme le point de départ du [[rock 'n' roll]] grand public lorsqu'elle est sortie en 1954 ? <!-- cm003 remplacée 2026-11-23 -->

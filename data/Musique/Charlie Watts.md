@@ -29,11 +29,11 @@ culture_g_justification: "Membre durable des Rolling Stones, régulièrement int
 
 ###### Questions
 
-En quelle année le batteur [[Charlie Watts]] a-t-il rejoint le groupe [[The Rolling Stones]] ?
+Quel batteur a rejoint les [[Rolling Stones]] en janvier 1963 et en est resté membre jusqu'à sa mort en 2021 ?
 
-Quel membre légendaire des [[Rolling Stones]] a publié un album de jazz intitulé "[[Long Ago and Far Away]]" en 1996 ?
+Quel batteur des Stones a publié en 1996 l'album de jazz « Long Ago and Far Away » ?
 
-En 2004, qui a été élu 12ème meilleur batteur de tous les temps par le magazine [[Modern Drummer]] ?
+Quel batteur a écrit et illustré en 1964 « Ode to a High Flying Bird », un livre en hommage au saxophoniste [[Charlie Parker|Parker]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Connu pour son style de jeu discret et précis, il a également démontré un go
 Un fait étonnant sur [[Charlie Watts]] est qu'il a conçu toutes les pochettes d'album de [[The Rolling Stones]] entre 1967 et 1971. 
 
 Né en 1941 à [[Londres]], il a refusé à plusieurs reprises d'être perçu comme une star du rock, préférant la simplicité et une vie loin des projecteurs.
+
+###### Archives questions
+
+En quelle année le batteur [[Charlie Watts]] a-t-il rejoint le groupe [[The Rolling Stones]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel membre légendaire des [[Rolling Stones]] a publié un album de jazz intitulé "[[Long Ago and Far Away]]" en 1996 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2004, qui a été élu 12ème meilleur batteur de tous les temps par le magazine [[Modern Drummer]] ? <!-- cm003 remplacée 2026-11-23 -->

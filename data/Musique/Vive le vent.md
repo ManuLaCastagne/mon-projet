@@ -29,11 +29,9 @@ culture_g_justification: "Chanson de Noël omniprésente dans la culture francop
 
 ###### Questions
 
-Quelle chanson traditionnelle de [[Noël]] a été adaptée en [[français]] par [[Francis Blanche]] en 1948 sous le titre de Vive le vent ?
+Quel chant de Noël [[Francis Blanche]] a-t-il adapté en français en 1948 à partir de « Jingle Bells » ?
 
-Quel titre, interprété par [[Dalida]] en 1960, est une version adaptée du chant de Noël américain "Jingle Bells" connu en France sous le nom de Vive le vent ?
-
-Quel air populaire, souvent joué pendant la période des fêtes en France, est basé sur une mélodie du XIXe siècle et est couramment intitulé Vive le vent ?
+Quelle chanson française reprend l'air de « Jingle Bells », composé par [[James Lord Pierpont]] en 1857 ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ L'adaptation française, réalisée par [[Francis Blanche]] et enregistrée pour
 Un fait étonnant est que [[Vive le vent]] a été l'une des rares adaptations de chansons de Noël à conserver son succès à la fois dans sa version anglophone et francophone, devenant incontournable bien au-delà des frontières du monde francophone. 
 
 À chaque saison festive, elle est diffusée à grande échelle, à tel point qu'elle détient le record de la chanson de Noël la plus diffusée dans les centres commerciaux en France durant les années 2000.
+
+###### Archives questions
+
+Quelle chanson traditionnelle de [[Noël]] a été adaptée en [[français]] par [[Francis Blanche]] en 1948 sous le titre de Vive le vent ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel titre, interprété par [[Dalida]] en 1960, est une version adaptée du chant de Noël américain "Jingle Bells" connu en France sous le nom de Vive le vent ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel air populaire, souvent joué pendant la période des fêtes en France, est basé sur une mélodie du XIXe siècle et est couramment intitulé Vive le vent ? <!-- cm003 remplacée 2026-11-23 -->
