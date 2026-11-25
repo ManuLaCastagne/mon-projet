@@ -7,7 +7,8 @@ tags:
 date:
   - 1962/12/10
 debut: 1962
-fin: 1935
+fin: 
+fin_archive_cm034: "1935"
 indice_1 : 
   - Peter O'Toole
 indice_2 : 
@@ -28,9 +29,9 @@ culture_g_justification: "Classique mondial du cinéma, abondamment interrogé p
 
 ###### Questions
 
-Quel film réalisé par [[David Lean]] en 1962 a remporté sept [[Oscars]], dont celui du [[Meilleur Film]], et met en scène [[Peter O'Toole]] dans le rôle de [[Thomas Edward Lawrence]] ?
+Quel film réalisé par [[David Lean]] en 1962 a remporté sept [[Oscars]], dont celui du [[Meilleur Film]], avec [[Peter O'Toole]] dans le rôle-titre ?
 
-Dans quel film la célèbre séquence de l'entrée de [[Lawrence]] dans [[Aqaba]] est-elle réalisée sur une seule prise sans effets spéciaux numériques, illustrant l'innovation cinématographique des années 1960 ?
+Quel film de [[David Lean]], sur une musique de [[Maurice Jarre]], a été tourné en partie dans le désert du [[Wadi Rum]], en [[Jordanie]] ?
 
 Lors de la production de quel film l'acteur [[Peter O'Toole]] a-t-il gagné une renommée mondiale en incarnant un officier britannique flamboyant et énigmatique pendant la [[Première Guerre mondiale]] au [[Moyen-Orient]] ? <!-- score: 6 -->
 
@@ -38,6 +39,18 @@ Lors de la production de quel film l'acteur [[Peter O'Toole]] a-t-il gagné une 
 
 [[Lawrence d'Arabie]] est un film réalisé par [[David Lean]] et sorti en 1962, mettant en vedette [[Peter O'Toole]] dans le rôle principal. Ce chef-d'œuvre cinématographique retrace la vie de [[T. E. Lawrence]], un officier britannique qui a joué un rôle clé lors de la Révolte arabe contre l'Empire ottoman pendant la Première Guerre mondiale.
 
-Fait étonnant, le film détient le record du plus grand nombre de [[Golden Globes]] gagnés par un seul film en 1963, ayant remporté un total de quatre prix, dont celui du Meilleur film dramatique.
+Aux [[Golden Globes]] 1963, le film remporte six prix, dont ceux du meilleur film dramatique et du meilleur réalisateur ; [[Omar Sharif]] et [[Peter O'Toole]] y partagent la révélation masculine de l'année.
 
-[[Lawrence d'Arabie]] est souvent salué pour ses paysages spectaculaires, notamment ceux tournés dans le désert de [[Wadi Rum]] en Jordanie, une prouesse technique avant l'ère des effets spéciaux numériques.
+Les séquences de désert ont été tournées en [[Jordanie]], dans le [[Wadi Rum]], et à [[Almería]], en Espagne, l'armée jordanienne fournissant de nombreux figurants.
+
+###### Archives questions
+
+Dans quel film la célèbre séquence de l'entrée de [[Lawrence]] dans [[Aqaba]] est-elle réalisée sur une seule prise sans effets spéciaux numériques, illustrant l'innovation cinématographique des années 1960 ? <!-- cm034 corrigée 2026-11-25 -->
+
+Quel film réalisé par [[David Lean]] en 1962 a remporté sept [[Oscars]], dont celui du [[Meilleur Film]], et met en scène [[Peter O'Toole]] dans le rôle de [[Thomas Edward Lawrence]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Fait étonnant, le film détient le record du plus grand nombre de [[Golden Globes]] gagnés par un seul film en 1963, ayant remporté un total de quatre prix, dont celui du Meilleur film dramatique. <!-- cm034 corrigée 2026-11-25 -->
+
+[[Lawrence d'Arabie]] est souvent salué pour ses paysages spectaculaires, notamment ceux tournés dans le désert de [[Wadi Rum]] en Jordanie, une prouesse technique avant l'ère des effets spéciaux numériques. <!-- cm034 corrigée 2026-11-25 -->

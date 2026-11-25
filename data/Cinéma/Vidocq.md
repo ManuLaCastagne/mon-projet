@@ -4,9 +4,11 @@ tags:
   - France
   - Années_2000
   - XIXe
-date: 2001-07-23
+date: 2001-09-19
+date_archive_cm034: "2001-07-23"
 debut: 2001
-fin: 1844
+fin: 
+fin_archive_cm034: "1844"
 indice_1:
   - Film de détective
 indice_2:
@@ -29,7 +31,7 @@ culture_g_justification: "Film français de genre identifiable par Depardieu, Pi
 
 Dans quel film de 2001 [[Gérard Depardieu]] incarne-t-il le fondateur de la brigade de Sûreté parisienne ?
 
-Quel film de [[Pitof]] (2001) est cité comme le premier long métrage tourné entièrement en vidéo numérique haute définition ?
+Quel film de [[Pitof]] (2001) revendique le titre de premier long métrage entièrement tourné avec une caméra numérique haute définition à 24 images par seconde ?
 
 Dans quel film de 2001, coécrit par [[Jean-Christophe Grangé]], un enquêteur traque un tueur masqué surnommé l'Alchimiste ?
 
@@ -37,7 +39,7 @@ Dans quel film de 2001, coécrit par [[Jean-Christophe Grangé]], un enquêteur 
 
 Le film *[[Vidocq]]*, réalisé par [[Pitof]] et sorti en 2001, marque une étape importante dans le cinéma français grâce à son utilisation révolutionnaire des effets spéciaux numériques. [[Gérard Depardieu]] incarne le personnage éponyme, un célèbre détective et ancien bagnard du XIXe siècle, naviguant dans le Paris troublé de 1830.
 
-Le film se distingue également par sa première mondiale en tant que long métrage entièrement tourné en numérique haute définition, transformant les méthodes traditionnelles de production cinématographique. 
+Le film revendique le titre de premier long métrage entièrement tourné avec une caméra numérique haute définition à 24 images par seconde (Sony HDW-F900), un an avant [[Star Wars, épisode II : L'Attaque des clones]] ; ce statut de pionnier a toutefois été contesté. 
 
 La musique, composée par [[Bruno Coulais]], ajoute une dimension envoûtante qui enrichit l'atmosphère mystérieuse de cette œuvre cinématographique audacieuse.
 
@@ -48,3 +50,9 @@ Dans quelle réalisation cinématographique de 2001, écrit par [[Jean-Christoph
 Quel célèbre film français de 2001 pour lequel [[Gérard Depardieu]] a incarné le rôle-titre a été partiellement inspiré par les aventures du premier chef de la police judiciaire de Paris ? <!-- cm003 remplacée 2026-11-23 -->
 
 Quel film réalisé par [[Pitof]] utilise la combinaison de décors réels et d’effets spéciaux numériques pour retracer les aventures de l'ancien bagnard devenu détective, sorti en 2001 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel film de [[Pitof]] (2001) est cité comme le premier long métrage tourné entièrement en vidéo numérique haute définition ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Le film se distingue également par sa première mondiale en tant que long métrage entièrement tourné en numérique haute définition, transformant les méthodes traditionnelles de production cinématographique. <!-- cm034 corrigée 2026-11-25 -->
