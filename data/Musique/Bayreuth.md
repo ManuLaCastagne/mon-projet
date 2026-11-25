@@ -29,9 +29,9 @@ culture_g_justification: "Ville surtout connue grâce au festival et au théâtr
 
 ###### Questions
 
-Dans quelle ville allemande se tient chaque année depuis 1876 le célèbre [[Festival de Bayreuth]] consacré à la musique de [[Richard Wagner]] ?
+Dans quelle ville de [[Bavière]] se tient chaque été depuis 1876 un festival consacré à [[Richard Wagner]] ?
 
-Quelle ville abrite le Théâtre des [[Festivals de Bayreuth]], conçu spécialement pour accueillir les œuvres de [[Richard Wagner]] depuis son ouverture en 1876 ?
+Dans quelle ville [[Richard Wagner]] est-il inhumé, dans le jardin de sa villa Wahnfried ?
 
 En 1882, dans quelle ville a eu lieu la première représentation de l'opéra [[Parsifal]] de [[Richard Wagner]] ?
 
@@ -44,3 +44,9 @@ Chaque été, cet événement attire des mélomanes du monde entier, impatients 
 Un fait étonnant : au [[Festspielhaus]], l'orchestre est dissimulé sous la scène dans une fosse couverte, garantissant une acoustique unique et permettant aux chanteurs de dominer l'ensemble musical, ce qui reste extrêmement rare dans les autres théâtres du monde.  
 
 Malgré cette singularité, le temps d'attente pour obtenir des billets peut dépasser dix ans, tant l'engouement et le prestige de ce festival sont palpables.
+
+###### Archives questions
+
+Dans quelle ville allemande se tient chaque année depuis 1876 le célèbre [[Festival de Bayreuth]] consacré à la musique de [[Richard Wagner]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville abrite le Théâtre des [[Festivals de Bayreuth]], conçu spécialement pour accueillir les œuvres de [[Richard Wagner]] depuis son ouverture en 1876 ? <!-- cm003 remplacée 2026-11-23 -->

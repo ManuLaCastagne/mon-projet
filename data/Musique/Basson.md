@@ -29,11 +29,11 @@ culture_g_justification: "Instrument classique régulièrement utilisé dans les
 
 ###### Questions
 
-Quel instrument de musique, dénommé [[basson]], est utilisé dans la célèbre introduction "L'Après-midi d'un faune" de [[Claude Debussy]] en 1894 ? 
+Quel instrument ouvre « [[Le Sacre du printemps]] » d'[[Igor Stravinsky]] par un solo dans l'aigu ?
 
-Quel instrument à vent, le [[basson]], a vu son modèle moderne être développé en 1831 par le facteur de [[Bois]] allemand [[Carl Almenräder]] ? 
+Quel instrument à anche double a été perfectionné dans les années 1820 par le facteur allemand Carl Almenräder ?
 
-Quel instrument, le [[basson]], est joué par le personnage [[Frieda]], la petite amie du protagoniste [[Shinichi]] dans le film d'animation "Maquia: When the Promised Flower Blooms" sorti en 2018 ?
+Quel instrument incarne le grand-père dans « [[Pierre et le Loup]] » de [[Sergueï Prokofiev]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Ayant évolué depuis le [[XVIIe siècle]], il est particulièrement mis en avan
 Fait étonnant, le basson détient un record pour la plus longue note tenue sur un instrument à vent, avec une durée atteignant 1 heure 45 minutes, réalisée par le musicien [[David Walters]] en 2015.
 
 Le rôle du basson dans l'orchestre a été particulièrement renforcé par le compositeur français [[Hector Berlioz]], qui l'a souvent utilisé pour ses qualités expressives uniques.
+
+###### Archives questions
+
+Quel instrument de musique, dénommé [[basson]], est utilisé dans la célèbre introduction "L'Après-midi d'un faune" de [[Claude Debussy]] en 1894 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel instrument à vent, le [[basson]], a vu son modèle moderne être développé en 1831 par le facteur de [[Bois]] allemand [[Carl Almenräder]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel instrument, le [[basson]], est joué par le personnage [[Frieda]], la petite amie du protagoniste [[Shinichi]] dans le film d'animation "Maquia: When the Promised Flower Blooms" sorti en 2018 ? <!-- cm003 remplacée 2026-11-23 -->

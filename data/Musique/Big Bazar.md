@@ -29,11 +29,7 @@ culture_g_justification: "Formation française associée à Michel Fugain et à 
 
 ###### Questions
 
-Dans quel groupe musical fondé par [[Michel Fugain]] en 1972 peut-on attribuer le succès de la chanson « Une belle histoire » ?
-
-Quel nom porte la troupe de [[Michel Fugain]], créée en 1972, qui a contribué à populariser les concepts de spectacle total en France ? <!-- score: 9 -->
-
-En quelle année le groupe [[Big Bazar]] a-t-il été lancé par [[Michel Fugain]] pour mêler musique et performance scénique ?
+Avec quelle troupe [[Michel Fugain]] a-t-il chanté « Une belle histoire » en 1972 ?
 
 ###### Description
 
@@ -44,3 +40,11 @@ Réputé pour ses performances scéniques hautes en couleur, [[Big Bazar]] a mar
 En 1973, le groupe se produit notamment en première partie d’[[Elton John]] lors de sa tournée en France, un fait peu connu qui témoigne de l'ampleur de son succès à l'époque. 
 
 Un autre fait étonnant concernant [[Big Bazar]] est qu'ils détiennent le record du groupe ayant eu le plus grand nombre de choristes sur scène au début des années 70, avec jusqu'à 35 personnes se produisant simultanément.
+
+###### Archives questions
+
+En quelle année le groupe [[Big Bazar]] a-t-il été lancé par [[Michel Fugain]] pour mêler musique et performance scénique ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel groupe musical fondé par [[Michel Fugain]] en 1972 peut-on attribuer le succès de la chanson « Une belle histoire » ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel nom porte la troupe de [[Michel Fugain]], créée en 1972, qui a contribué à populariser les concepts de spectacle total en France ? <!-- score: 9 --> <!-- cm003 archivée 2026-11-23 -->

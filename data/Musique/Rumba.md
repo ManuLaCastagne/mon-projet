@@ -21,19 +21,20 @@ indice_5 :
 indice_6 : 
   - musique latine
 questions:
- - Par les tambours et les claves. Style de musique né à la fin du Culture_G/XIXe siècle dans l'île de Cuba, notamment à la Havane, je suis…
 culture_g_score: 64
 culture_g_justification: "Genre cubain lié aux musiques afro-latines, la rumba permet des questions musicales, historiques, géographiques et chorégraphiques variées."
+questions_tv_archivees:
+  - Par les tambours et les claves. Style de musique né à la fin du Culture_G/XIXe siècle dans l'île de Cuba, notamment à la Havane, je suis…
 ---
 ![Image de Rumba](https://upload.wikimedia.org/wikipedia/commons/b/bc/Rumba_Kings_Band_Group_Photo_2023.jpg)
 
 ###### Questions
 
-Quel style musical, d'origine cubaine, influença le développement du [[jazz afro-américain]] aux États-Unis à partir des années 1920 ?
+Quel genre afro-cubain a été inscrit en 2016 au patrimoine culturel immatériel de l'UNESCO ?
 
-En quelle année la [[Rumba]] a-t-elle été ajoutée comme danse de compétition standard dans les compétitions de danse de salon, influençant ainsi le répertoire des danses latines de compétition dans le monde entier ?
+Quelle danse cubaine connut une vogue aux États-Unis à partir de 1930 grâce à « The Peanut Vendor » (El manisero) ?
 
-Quel genre de musique a été popularisé dans les années 1930 par des artistes tels que [[Xavier Cugat]], qui a joué un rôle clé dans son introduction au grand public américain ?
+Jouée aux tambours et aux claves, quelle musique est née à Cuba à la fin du XIXe siècle, notamment à La Havane ? <!-- source: tv -->
 
 ###### Description
 
@@ -44,3 +45,11 @@ Bien que souvent associée à une danse sensuelle, la rumba trouve une partie de
 Peu de gens le savent, mais malgré sa popularité dans le monde entier, la rumba a été officiellement reconnue comme un genre musical distinct par l'Organisation des Nations unies pour l'éducation, la science et la culture ([[UNESCO]]) en 2016, lorsqu'elle a été inscrite sur la liste du Patrimoine culturel immatériel de l'humanité. 
 
 Un autre fait étonnant est que la rumba a réussi à rassembler des publics divers dans des salles aussi prestigieuses que le [[Festival de Bayreuth]] en [[Allemagne]] dès 1924, montrant ainsi son attrait universel.
+
+###### Archives questions
+
+En quelle année la [[Rumba]] a-t-elle été ajoutée comme danse de compétition standard dans les compétitions de danse de salon, influençant ainsi le répertoire des danses latines de compétition dans le monde entier ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel style musical, d'origine cubaine, influença le développement du [[jazz afro-américain]] aux États-Unis à partir des années 1920 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel genre de musique a été popularisé dans les années 1930 par des artistes tels que [[Xavier Cugat]], qui a joué un rôle clé dans son introduction au grand public américain ? <!-- cm003 remplacée 2026-11-23 -->

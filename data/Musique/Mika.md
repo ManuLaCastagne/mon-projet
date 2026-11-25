@@ -29,11 +29,9 @@ culture_g_justification: "Chanteur pop international associé à « Grace Kelly 
 
 ###### Questions
 
-En quelle année le chanteur [[Mika]] a-t-il été nommé ambassadeur de [[Hôtel de Crillon]] sur la [[Place de la Concorde]] à [[Paris]] ? 
+Quel chanteur a rejoint en 2014 le jury de « The Voice » sur [[TF1]] ?
 
-Dans quelle émission télévisée française [[Mika]] a-t-il officié en tant que juré pour la première fois en 2014 ?
-
-En 2007, [[Mika]] a sorti son premier album qui contenait le hit mondial "[[Grace Kelly]]". Quel est le titre de cet album ?
+Quel chanteur né à [[Beyrouth]] a connu un succès mondial en 2007 avec « Grace Kelly » ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Son premier album, "[[Life in Cartoon Motion]]", sorti en 2007, a connu un succ�
 Fait étonnant, [[Mika]] détient le record de l'artiste avec le plus de nominations aux [[World Music Awards]] de 2007, atteignant un total de douze nominations en une seule année.
 
 Sa musique, souvent décrite comme un mélange de pop et de glam rock, lui a valu une place en tant que juge dans l'émission "[[The Voice]]" en France, où il a découvert de nouveaux talents de 2014 à 2019.
+
+###### Archives questions
+
+En quelle année le chanteur [[Mika]] a-t-il été nommé ambassadeur de [[Hôtel de Crillon]] sur la [[Place de la Concorde]] à [[Paris]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quelle émission télévisée française [[Mika]] a-t-il officié en tant que juré pour la première fois en 2014 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2007, [[Mika]] a sorti son premier album qui contenait le hit mondial "[[Grace Kelly]]". Quel est le titre de cet album ? <!-- cm003 remplacée 2026-11-23 -->

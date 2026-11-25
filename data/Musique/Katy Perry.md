@@ -29,11 +29,11 @@ culture_g_justification: "Star mondiale de la pop, régulièrement associée à 
 
 ###### Questions
 
-En quelle année l'album "[[Teenage Dream]]" de [[Katy Perry]] a-t-il été initialement publié ?
+Quelle chanteuse a percé en 2008 avec « I Kissed a Girl » ?
 
 Quelle chanteuse américaine a interprété la chanson "[[Firework]]" sortie en 2010 ? <!-- score: 8 -->
 
-Qui a été la première artiste féminine à avoir cinq singles d'un même album au numéro un du [[Billboard Hot 100]] avec l'album "[[Teenage Dream]]" ?
+Quelle chanteuse a été la première femme à placer cinq singles d'un même album en tête du [[Billboard Hot 100]] ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Elle a marqué l'histoire de la musique avec son album "Teenage Dream", sorti en
 Un fait étonnant concernant [[Katy Perry]] est qu'elle détient un record mondial pour être la première artiste féminine à avoir cinq titres issus du même album à atteindre le sommet du [[Billboard Hot 100]]. 
 
 En 2015, [[Katy Perry]] a également livré une performance spectaculaire pendant le [[Super Bowl XLIX]] avec une audience estimée à plus de 118 millions de téléspectateurs, faisant de cette prestation la plus regardée de l'histoire du Super Bowl à l'époque.
+
+###### Archives questions
+
+En quelle année l'album "[[Teenage Dream]]" de [[Katy Perry]] a-t-il été initialement publié ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a été la première artiste féminine à avoir cinq singles d'un même album au numéro un du [[Billboard Hot 100]] avec l'album "[[Teenage Dream]]" ? <!-- cm003 remplacée 2026-11-23 -->

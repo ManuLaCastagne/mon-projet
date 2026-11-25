@@ -29,11 +29,7 @@ culture_g_justification: "Conte musical français très connu de plusieurs gén�
 
 ###### Questions
 
-Quel opéra-rock créé en 2002 met en scène [[Henri Salvador]] dans le rôle du [[Hibou]] dans [[Emilie Jolie]] ?
-
-Quel album concept de [[Philippe Chatel]], sorti initialement en 1979, raconte les aventures d'une petite fille du même nom que l'œuvre, [[Emilie Jolie]] ?
-
-Quelle œuvre jeunesse devenue un classique a été adaptée au cinéma en 2011 avec des voix de [[Francis Cabrel]] et [[Laurent Voulzy]] dans [[Emilie Jolie]] ?
+Quel conte musical de [[Philippe Chatel]], sorti en 1979, fait chanter à [[Georges Brassens]] le rôle du hérisson ?
 
 ###### Description
 
@@ -44,3 +40,11 @@ Ce conte raconte l'histoire de la petite [[Émilie]], qui, plongée dans le livr
 Un fait étonnant est que l'album musical d'[[Émilie Jolie]], sorti la même année, a réuni de grands noms de la chanson française comme [[Julien Clerc]], [[Henri Salvador]] et [[Françoise Hardy]]. 
 
 Étonnamment, en 2020, cet album est devenu le premier conte musical à être certifié disque de diamant en France, témoignant de son succès intergénérationnel.
+
+###### Archives questions
+
+Quel opéra-rock créé en 2002 met en scène [[Henri Salvador]] dans le rôle du [[Hibou]] dans [[Emilie Jolie]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel album concept de [[Philippe Chatel]], sorti initialement en 1979, raconte les aventures d'une petite fille du même nom que l'œuvre, [[Emilie Jolie]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle œuvre jeunesse devenue un classique a été adaptée au cinéma en 2011 avec des voix de [[Francis Cabrel]] et [[Laurent Voulzy]] dans [[Emilie Jolie]] ? <!-- cm003 archivée 2026-11-23 -->

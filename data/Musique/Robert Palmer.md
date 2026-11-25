@@ -29,11 +29,11 @@ culture_g_justification: "Chanteur britannique identifiable par «Addicted to Lo
 
 ###### Questions
 
-Quel chanteur britannique a remporté le [[Grammy Award]] du meilleur chanteur rock en 1989 pour sa chanson "[[Simply Irresistible]]" ? <!-- score: 3 -->
+Quel chanteur est entouré de mannequins jouant de la guitare dans le clip d'« [[Addicted to Love]] » ?
 
 Quel artiste a fait partie du supergroupe [[The Power Station]], qui a connu un succès dans les années 1980 avec des membres de [[Duran Duran]] ?
 
-En quelle année l'album "[[Riptide]]" de [[Robert Palmer]], contenant le hit "[[Addicted to Love]]", est-il sorti ?
+Quel chanteur britannique a sorti en 1985 l'album « Riptide » ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Né en 1949, il a connu une notoriété mondiale dans les années 1980 avec des 
 Un fait étonnant est que, en 1986, le clip de "[[Addicted to Love]]" est devenu iconique grâce à la danse synchronisée des mannequins, et a été souvent imité, un record pour l'époque dans l'industrie musicale. 
 
 [[Robert Palmer]] est décédé en 2003, laissant derrière lui un héritage indélébile dans le monde de la musique, avec une carrière qui lui a valu de nombreux prix, dont deux [[Grammy Awards]].
+
+###### Archives questions
+
+En quelle année l'album "[[Riptide]]" de [[Robert Palmer]], contenant le hit "[[Addicted to Love]]", est-il sorti ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur britannique a remporté le [[Grammy Award]] du meilleur chanteur rock en 1989 pour sa chanson "[[Simply Irresistible]]" ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->

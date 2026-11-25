@@ -29,11 +29,11 @@ culture_g_justification: "Compositeur reconnu pour ses bandes originales et ses 
 
 ###### Questions
 
-Dans quel film de [[Emir Kusturica]] sorti en 1995 retrouve-t-on la musique composée par [[Goran Bregović]] ?
+Quel musicien a composé la musique d'« Underground » d'[[Emir Kusturica]], Palme d'or 1995 ?
 
-Quel musicien a collaboré avec [[Iggy Pop]] sur l'album "[[Arizona Dream]]" pour créer la bande originale en 1993 ? <!-- score: 4 -->
+Quel compositeur a signé avec [[Iggy Pop]] la bande originale d'« Arizona Dream » en 1993 ?
 
-Quelle ancienne star du groupe [[Bijelo Dugme]] a été choisi pour composer la musique de la cérémonie d'ouverture de [[Sotchi 2014]] ?
+Quel ancien leader du groupe [[Bijelo Dugme]] a fondé l'Orchestre des mariages et des enterrements ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 1995, il a enregistré l'album "Underground" qui a connu un succès mondial e
 Fait étonnant : en 1974, avant sa carrière solo, Goran a fondé le groupe de rock yougoslave [[Bijelo Dugme]], qui est devenu l'un des groupes les plus populaires en Yougoslavie et il a vendu plus de 4 millions d'albums, ce qui constitue un record dans l'ex-Yougoslavie. 
 
 Sa capacité à fusionner la musique traditionnelle balkanique avec des influences modernes a façonné une grande partie de la scène musicale balkanique actuelle et fait de lui un artiste incontournable.
+
+###### Archives questions
+
+Dans quel film de [[Emir Kusturica]] sorti en 1995 retrouve-t-on la musique composée par [[Goran Bregović]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien a collaboré avec [[Iggy Pop]] sur l'album "[[Arizona Dream]]" pour créer la bande originale en 1993 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ancienne star du groupe [[Bijelo Dugme]] a été choisi pour composer la musique de la cérémonie d'ouverture de [[Sotchi 2014]] ? <!-- cm003 remplacée 2026-11-23 -->

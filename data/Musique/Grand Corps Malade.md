@@ -29,11 +29,11 @@ culture_g_justification: "Figure importante de la popularisation du slam en Fran
 
 ###### Questions
 
-Quel slameur français, ayant sorti son premier album en 2006, est connu pour contribuer à populariser le genre du [[slam]] en France sous le nom de [[Grand Corps Malade]] ?
+Quel slameur a sorti en 2006 son premier album, « Midi 20 » ?
 
-Quel artiste, devenu le premier slameur à se produire à l'[[Olympia (salle)]], a choisi le pseudonyme de [[Grand Corps Malade]] à la suite d'un accident survenu en 1997 ?
+Quel slameur doit son pseudonyme à sa grande taille et aux séquelles d'un plongeon en piscine en 1997 ?
 
-Quel chanteur, ayant collaboré avec des artistes variés comme [[Charles Aznavour]] et [[Louane Emera]], a sorti l'album [[Plan B]] en 2018 sous le nom de [[Grand Corps Malade]] ?
+Quel slameur a coréalisé avec [[Mehdi Idir]] le film « Patients », sorti en 2017 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Né en 1977 à [[Le Blanc-Mesnil]], il choisit son pseudonyme en référence à 
 En 2020, il sort l'album "[[Mesdames]]", un hommage aux femmes, qui devient la meilleure vente d'albums en France cette année-là, confirmant son talent de poète moderne. 
 
 Fait surprenant, Grand Corps Malade a détenu le record du plus long single français à utiliser le mot "merci" plus de 100 fois, dans sa chanson "Merci" de l'album "Funambule" en 2013.
+
+###### Archives questions
+
+Quel slameur français, ayant sorti son premier album en 2006, est connu pour contribuer à populariser le genre du [[slam]] en France sous le nom de [[Grand Corps Malade]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste, devenu le premier slameur à se produire à l'[[Olympia (salle)]], a choisi le pseudonyme de [[Grand Corps Malade]] à la suite d'un accident survenu en 1997 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur, ayant collaboré avec des artistes variés comme [[Charles Aznavour]] et [[Louane Emera]], a sorti l'album [[Plan B]] en 2018 sous le nom de [[Grand Corps Malade]] ? <!-- cm003 remplacée 2026-11-23 -->

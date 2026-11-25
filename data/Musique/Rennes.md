@@ -29,11 +29,9 @@ culture_g_justification: "Grande ville française exploitable par la Bretagne, l
 
 ###### Questions
 
-Dans quelle ville des chercheurs de l'[[Université de Rennes 1]] ont-ils développé un algorithme innovant en 2015 pour identifier les genres musicaux à partir de spectrogrammes ?
+Dans quelle ville les Rencontres Trans Musicales sont-elles nées en 1979 ?
 
-Quel programme musical a été lancé pour la première fois à [[Rennes]] en 1979 et est considéré comme l’un des premiers festivals de rock en France, connu sous le nom des [[Rencontres Trans Musicales]] ?
-
-Dans quelle ville française le groupe légendaire [[Niagara]] a-t-il été formé en 1984 avant de devenir célèbre sur la scène musicale internationale ?
+Dans quelle ville bretonne s'est formé en 1982 le groupe qui prit en 1984 le nom de Niagara ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ En 2009, [[Rennes]] a été le berceau de [[Ropoporose]], un groupe de rock exp�
 Fait étonnant, c'est à [[Rennes]] que s'est établi en 1988 le record du monde de la plus longue chenille, dansée par 4700 personnes, une performance qui témoigne de l'esprit festif et communautaire de la ville. 
 
 Enfin, l'incontournable [[Ubu]], salle de concert mythique, contribue à la notoriété de la ville depuis son ouverture en 1987, accueillant des artistes de renommée internationale.
+
+###### Archives questions
+
+Dans quelle ville des chercheurs de l'[[Université de Rennes 1]] ont-ils développé un algorithme innovant en 2015 pour identifier les genres musicaux à partir de spectrogrammes ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel programme musical a été lancé pour la première fois à [[Rennes]] en 1979 et est considéré comme l’un des premiers festivals de rock en France, connu sous le nom des [[Rencontres Trans Musicales]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française le groupe légendaire [[Niagara]] a-t-il été formé en 1984 avant de devenir célèbre sur la scène musicale internationale ? <!-- cm003 remplacée 2026-11-23 -->

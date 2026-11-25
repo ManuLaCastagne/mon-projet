@@ -27,11 +27,11 @@ culture_g_justification: "Chanteur très célèbre grâce aux Commodores, à ses
 
 Quel chanteur, auteur-compositeur et producteur américain a chanté "Hello" ?
 
-Quel artiste est devenu célèbre en 1982 grâce à son premier album solo intitulé [[Lionel Richie]] ?
+Quel chanteur a quitté les [[The Commodores|Commodores]] pour sortir son premier album solo en 1982, porté par « Truly » ?
 
-Quel chanteur de [[The Commodores]] a co-écrit la chanson "[[We Are the World]]" avec [[Michael Jackson]] en 1985 ?
+Quel chanteur a coécrit « [[We Are the World]] » avec [[Michael Jackson]] en 1985 ?
 
-Quel musicien a remporté un [[Oscar]] pour la meilleure chanson originale en 1986 avec "Say You, Say Me" du film [[White Nights]] ?
+Quel chanteur a reçu l'Oscar de la meilleure chanson en 1986 pour « Say You, Say Me », tirée du film « Soleil de nuit » ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Il s'est d'abord fait connaître en tant que membre des [[Commodores]], un group
 Un fait étonnant sur [[Lionel Richie]] est qu'il a coécrit la chanson « We Are the World » avec [[Michael Jackson]] en 1985, qui reste l'un des singles les plus vendus de tous les temps. 
 
 Par ailleurs, lors des [[Grammy Awards]] de 1985, il a remporté le prix de l'Album de l'année pour « Can't Slow Down », confirmant ainsi sa place parmi les icônes musicales de son époque.
+
+###### Archives questions
+
+Quel artiste est devenu célèbre en 1982 grâce à son premier album solo intitulé [[Lionel Richie]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur de [[The Commodores]] a co-écrit la chanson "[[We Are the World]]" avec [[Michael Jackson]] en 1985 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien a remporté un [[Oscar]] pour la meilleure chanson originale en 1986 avec "Say You, Say Me" du film [[White Nights]] ? <!-- cm003 remplacée 2026-11-23 -->

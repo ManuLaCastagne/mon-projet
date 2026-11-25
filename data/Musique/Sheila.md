@@ -31,13 +31,11 @@ culture_g_justification: "Sheila est une figure importante de la variété fran�
 
 Quelle artiste a été la 2e Française à réussir à se classer au Billboard américain après [[Édith Piaf]], et a débuté dans les années 1960 au sein du groupe [[Guitar Brothers]] ?
 
-Qui a été repérée par [[Claude Carrère]] qui me donne mon nom de scène ?
+Quelle chanteuse doit son nom de scène au producteur [[Claude Carrère]], qui la lança au début des années 1960 ?
 
-Dans quel clip de 1977 puis 1980, [[Sheila]] apparaît-elle sous le nom de groupe [[Sheila & B. Devotion]] en adoptant un style disco avec le titre "[[Spacer]]"?
+Quelle chanteuse a enregistré en 1979 « Spacer », produit par [[Nile Rodgers]] et [[Bernard Edwards]] ?
 
-À quel grand concert organisé à [[Paris]] en 1969, la chanteuse [[Sheila]] a-t-elle participé aux côtés de [[Johnny Hallyday]] pour la reconstruction de [[Notre-Dame de Paris]], attirant un large public?
-
-Avec quel célèbre danseur et chorégraphe américain, [[Sheila]] a-t-elle collaboré pour le tournage du clip "[[Love Me Baby]]" en 1977, marquant un de ses plus grands succès durant l'ère disco?
+Quelle chanteuse a connu son premier succès en 1963 avec « L'école est finie » ?
 
 ###### Description
 
@@ -46,3 +44,13 @@ Avec quel célèbre danseur et chorégraphe américain, [[Sheila]] a-t-elle coll
 En 1980, elle a réalisé un exploit rare pour une artiste française en se produisant sur la scène du temple de la musique pop, le [[Royal Albert Hall]] de Londres. 
 
 Fait étonnant : Sheila détient un record impressionnant, car elle est la première artiste féminine française à avoir vendu plus de 85 millions de disques dans le monde entier, un succès rarement égalé.
+
+###### Archives questions
+
+Dans quel clip de 1977 puis 1980, [[Sheila]] apparaît-elle sous le nom de groupe [[Sheila & B. Devotion]] en adoptant un style disco avec le titre "[[Spacer]]"? <!-- cm003 remplacée 2026-11-23 -->
+
+À quel grand concert organisé à [[Paris]] en 1969, la chanteuse [[Sheila]] a-t-elle participé aux côtés de [[Johnny Hallyday]] pour la reconstruction de [[Notre-Dame de Paris]], attirant un large public? <!-- cm003 archivée 2026-11-23 -->
+
+Avec quel célèbre danseur et chorégraphe américain, [[Sheila]] a-t-elle collaboré pour le tournage du clip "[[Love Me Baby]]" en 1977, marquant un de ses plus grands succès durant l'ère disco? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a été repérée par [[Claude Carrère]] qui me donne mon nom de scène ? <!-- cm003 remplacée 2026-11-23 -->

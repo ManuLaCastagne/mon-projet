@@ -30,11 +30,9 @@ culture_g_justification: "Chanson très connue reliant Khaled, Jean-Jacques Gold
 
 ###### Questions
 
-Quel est le titre de la chanson de [[Khaled]] sortie en 1996 ayant connu un immense succès international ?
+Quelle chanson [[Jean-Jacques Goldman]] a-t-il écrite pour [[Khaled]] en 1996 ?
 
-Qui a remporté le [[Victoires de la Musique]] en 1997 pour la chanson intitulée [[Aïcha]] interprétée par Khaled ?
-
-En quelle année [[Jean-Jacques Goldman]] a-t-il écrit la célèbre chanson [[Aïcha]] pour le chanteur [[Khaled]] ?
+Quelle chanson de [[Khaled]] a été adaptée en anglais par le groupe danois [[Outlandish]] en 2003 ?
 
 ###### Description
 
@@ -45,3 +43,11 @@ Elle figure sur l'album "[[Sahra]]" et a été coécrite par [[Jean-Jacques Gold
 Un fait étonnant est que [[Aïcha]], bien qu'interprétée par [[Khaled]], a permis à Goldman de toucher un public différent, car il chantait habituellement en français et non dans le style rai distinctif de Khaled. 
 
 La chanson a non seulement atteint la première place des charts en France et en [[Belgique]], mais elle a aussi connu une version en [[Néerlandais]] par le groupe [[Outlandish]] qui a renouvelé sa popularité dans les années 2000.
+
+###### Archives questions
+
+Qui a remporté le [[Victoires de la Musique]] en 1997 pour la chanson intitulée [[Aïcha]] interprétée par Khaled ? <!-- cm003 archivée 2026-11-23 -->
+
+En quelle année [[Jean-Jacques Goldman]] a-t-il écrit la célèbre chanson [[Aïcha]] pour le chanteur [[Khaled]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre de la chanson de [[Khaled]] sortie en 1996 ayant connu un immense succès international ? <!-- cm003 remplacée 2026-11-23 -->

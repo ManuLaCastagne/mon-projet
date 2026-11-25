@@ -29,11 +29,11 @@ culture_g_justification: "Notoriété très forte par les Spice Girls et la mode
 
 ###### Questions
 
-Dans quel groupe féminin des années 1990 [[Victoria Beckham]] est-elle devenue célèbre avec le surnom de [[Posh Spice]] ?
+Quelle Spice Girl était surnommée « Posh Spice » ?
 
-En quelle année [[Victoria Beckham]] a rejoint le célèbre groupe féminin britannique les [[Spice Girls]] ?
+Quelle styliste britannique a présenté sa première collection à la semaine de la mode de [[New York]] en 2008 ?
 
-Quel est le nom de l'album sorti en 1996 par les [[Spice Girls]], groupe auquel appartenait [[Victoria Beckham]], qui inclut le hit "Wannabe" ?
+Quelle chanteuse a sorti en 2000 le single « Out of Your Mind » avec True Steppers et Dane Bowers ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 2001, elle a lancé sa carrière solo avec le single "Not Such an Innocent Gi
 Un fait étonnant concernant [[Victoria Beckham]] est qu'en 2000, elle a battu un record en signant un contrat d'une valeur de 1,5 million de livres avec [[Virgin Records]], devenant ainsi l'artiste solo la mieux payée à l'époque sans album encore sorti.
 
 Même si sa carrière musicale solo n'a pas atteint les mêmes sommets que celle avec les [[Spice Girls]], elle a réussi à faire la transition vers une carrière réussie dans la mode.
+
+###### Archives questions
+
+Dans quel groupe féminin des années 1990 [[Victoria Beckham]] est-elle devenue célèbre avec le surnom de [[Posh Spice]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[Victoria Beckham]] a rejoint le célèbre groupe féminin britannique les [[Spice Girls]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de l'album sorti en 1996 par les [[Spice Girls]], groupe auquel appartenait [[Victoria Beckham]], qui inclut le hit "Wannabe" ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,7 @@ culture_g_justification: "Chanson majeure de Balavoine, fréquemment associée �
 
 ###### Questions
 
-En 1978, quel film de [[Philippe Leclerc]] mettait en scène [[Daniel Balavoine]] jouant son propre rôle dans une scène de concert où il interprète « [[Le Chanteur]] » ?
-
-Lors de l'émission [[Les Enfants du Rock]] en 1980, quelle chanson provocatrice de [[Daniel Balavoine]] a été interprétée en direct pour marquer les esprits sous le titre « [[Le Chanteur]] » ?
-
-Pour quel titre, sorti en 1978, [[Daniel Balavoine]] s’est-il inspiré de sa propre expérience et sa perception de la célébrité, le menant à écrire « [[Le Chanteur]] » ?
+Quelle chanson de 1978 a révélé [[Daniel Balavoine]] au grand public, sur l'album du même titre ?
 
 ###### Description
 
@@ -44,3 +40,11 @@ Au cours de sa carrière, il a vendu plus de 30 millions d'albums, et ses chanso
 Son retrait de la scène en 2002 n'a en rien diminué sa popularité, et il a été élu "personnalité préférée des Français" à de nombreuses reprises depuis. 
 
 Un fait peu connu est que, malgré sa formidable carrière en tant que chanteur, [[Jean-Jacques Goldman]] a battu un record surprenant en gagnant douze fois le "Victoires de l'artiste de l'année" grâce à sa remarquable capacité à écrire pour d'autres artistes, tels que [[Céline Dion]] et [[Johnny Hallyday]].
+
+###### Archives questions
+
+En 1978, quel film de [[Philippe Leclerc]] mettait en scène [[Daniel Balavoine]] jouant son propre rôle dans une scène de concert où il interprète « [[Le Chanteur]] » ? <!-- cm003 archivée 2026-11-23 -->
+
+Lors de l'émission [[Les Enfants du Rock]] en 1980, quelle chanson provocatrice de [[Daniel Balavoine]] a été interprétée en direct pour marquer les esprits sous le titre « [[Le Chanteur]] » ? <!-- cm003 archivée 2026-11-23 -->
+
+Pour quel titre, sorti en 1978, [[Daniel Balavoine]] s’est-il inspiré de sa propre expérience et sa perception de la célébrité, le menant à écrire « [[Le Chanteur]] » ? <!-- cm003 remplacée 2026-11-23 -->

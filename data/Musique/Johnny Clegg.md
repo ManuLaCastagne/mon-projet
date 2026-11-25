@@ -29,11 +29,9 @@ culture_g_justification: "Artiste marquant du rapprochement entre musiques afric
 
 ###### Questions
 
-Dans laquelle des chansons de [[Johnny Clegg]] et [[Savuka]], parle-t-on du leader [[anti-apartheid]] Nelson Mandela et qui est sortie en 1987 ?
+Quel chanteur a écrit avec [[Savuka]] « Asimbonanga », hommage à [[Nelson Mandela]] paru en 1987 ?
 
-Quel artiste, parfois surnommé le "Zoulou blanc", a formé le groupe [[Juluka]] en 1969 avec le musicien Sipho Mchunu, défiant les lois de [[l'apartheid]] en [[Afrique du Sud]] ?
-
-Qui est l'artiste qui a reçu la légion d'honneur française en 1991 pour son impact culturel et ses contributions à la musique et à la lutte contre l'apartheid ?
+Quel chanteur, surnommé le « Zoulou blanc », fonda le groupe [[Juluka]] avec Sipho Mchunu ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Né en 1953, il forma le groupe [[Juluka]] en 1979 avec le musicien zoulou Sipho
 Fait étonnant : [[Juluka]] fut le premier groupe sud-africain à atteindre une audience internationale, malgré l'interdiction de sa musique sur les ondes sud-africaines à l'époque. 
 
 Johnny Clegg a également été nommé Officier de l'Ordre de l'Empire britannique en 2015 pour sa contribution exceptionnelle à la musique.
+
+###### Archives questions
+
+Dans laquelle des chansons de [[Johnny Clegg]] et [[Savuka]], parle-t-on du leader [[anti-apartheid]] Nelson Mandela et qui est sortie en 1987 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste, parfois surnommé le "Zoulou blanc", a formé le groupe [[Juluka]] en 1969 avec le musicien Sipho Mchunu, défiant les lois de [[l'apartheid]] en [[Afrique du Sud]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui est l'artiste qui a reçu la légion d'honneur française en 1991 pour son impact culturel et ses contributions à la musique et à la lutte contre l'apartheid ? <!-- cm003 archivée 2026-11-23 -->

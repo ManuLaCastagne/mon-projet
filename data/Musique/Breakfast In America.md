@@ -26,11 +26,11 @@ culture_g_justification: "Album majeur de Supertramp, utile pour plusieurs chans
 ![[Pasted image 20250323150844.png]]
 ###### Questions
 
-Quelle chanson de l'album [[Breakfast In America]] du groupe [[Supertramp]] parle de rêver de s'installer en [[Sport/Californie]] ?
+Quel album de [[Supertramp]], paru en 1979, montre sur sa pochette une serveuse dressée comme la statue de la Liberté ?
 
-Quel album de [[Supertramp]], qui inclut le titre "The Logical Song", a été certifié quadruple disque de platine aux [[États-Unis]] en 1979 ? <!-- score: 4 -->
+Quel album de [[Supertramp]], sorti en 1979, contient « The Logical Song » et « Goodbye Stranger » ?
 
-Quel album de [[Supertramp]], produit par [[Peter Henderson]], a remporté le [[Grammy Award]] du meilleur emballage de disque en 1980 ?
+Quel album de [[Supertramp]] a remporté en 1980 le Grammy de la meilleure pochette ?
 
 ###### Description
 
@@ -41,3 +41,11 @@ Enregistré entre mai et décembre 1978, cet album se distingue par ses mélodie
 Un fait étonnant : [[Breakfast In America]] a remporté le [[Grammy Award]] de la meilleure production non classique en 1980, et il détient le record du nombre de semaines consécutives en tête des charts français pour un album étranger, avec un total de 22 semaines.
 
 La pochette emblématique de l'album, conçue par [[Mike Doud]] et [[Mick Haggerty]], représente [[New York City]] vue à travers le hublot d'un avion, transformant les gratte-ciels en accessoires de diner américain, avec la [[statue de la Liberté]] par une serveuse.
+
+###### Archives questions
+
+Quelle chanson de l'album [[Breakfast In America]] du groupe [[Supertramp]] parle de rêver de s'installer en [[Sport/Californie]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album de [[Supertramp]], produit par [[Peter Henderson]], a remporté le [[Grammy Award]] du meilleur emballage de disque en 1980 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album de [[Supertramp]], qui inclut le titre "The Logical Song", a été certifié quadruple disque de platine aux [[États-Unis]] en 1979 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

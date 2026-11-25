@@ -29,11 +29,11 @@ culture_g_justification: "Groupe français identifiable par Mathias Malzieu, ses
 
 ###### Questions
 
-Quel groupe de rock français, fondé à [[Valence]] en 1993, est connu pour son univers musical déjanté et ses prestations scéniques théâtrales ?
+Quel groupe de rock français, formé à [[Valence (Drôme)|Valence]] en 1993, est mené par [[Mathias Malzieu]] ?
 
-Quel album, sorti en 2005, du groupe [[Dionysos]] a été inspiré par le roman [[Nowhere]] de [[Mathias Malzieu]] et contient le célèbre titre « [[Song for Jedi]] » ? <!-- score: 5 -->
+Quel dieu grec du vin les Romains appelaient-ils Bacchus ?
 
-Quel leader du groupe [[Dionysos]], également écrivain, a publié en 2012 le roman [[La Mécanique du cœur]], qui a été adapté en album du groupe ?
+Quel groupe a sorti en 2007 l'album « La Mécanique du cœur », adapté en 2014 en film d'animation sous le titre « Jack et la Mécanique du cœur » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Leur album "Western sous la neige", sorti en 2002, a propulsé le groupe sur la 
 [[Mathias Malzieu]], le charismatique leader du groupe, est également auteur à succès, ayant écrit plusieurs romans, dont "La Mécanique du cœur" en 2007, qui a été adapté en film d'animation. 
 
 Un fait étonnant concernant [[Dionysos]] est qu'ils détiennent le record du plus long concert non-stop de rock, avec une performance marathonienne de 24 heures réalisée en 2011 à [[Valence]], un exploit musical encore inégalé en France.
+
+###### Archives questions
+
+Quel album, sorti en 2005, du groupe [[Dionysos]] a été inspiré par le roman [[Nowhere]] de [[Mathias Malzieu]] et contient le célèbre titre « [[Song for Jedi]] » ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel leader du groupe [[Dionysos]], également écrivain, a publié en 2012 le roman [[La Mécanique du cœur]], qui a été adapté en album du groupe ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe de rock français, fondé à [[Valence]] en 1993, est connu pour son univers musical déjanté et ses prestations scéniques théâtrales ? <!-- cm003 remplacée 2026-11-23 -->

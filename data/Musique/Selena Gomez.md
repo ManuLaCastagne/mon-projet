@@ -21,20 +21,23 @@ indice_5 :
 indice_6 : 
   - ancienne membre des Selena Gomez & the Scene
 questions:
- - Quelle jeune actrice et chanteuse américaine, née le 22 juillet 92, a été révélée grâce au succès de la série "Hannah Montana"?
 culture_g_score: 67
 culture_g_justification: "Selena Gomez est une célébrité très connue à la croisée de la musique, de la télévision et de la culture numérique, mais encore relativement contemporaine."
+questions_tv_archivees:
+  - Quelle jeune actrice et chanteuse américaine, née le 22 juillet 92, a été révélée grâce au succès de la série "Hannah Montana"?
 ---
 ![Image de Selena Gomez](https://upload.wikimedia.org/wikipedia/commons/3/34/Selena_Gomez_at_White_House.jpg)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5cqAYWX1QuisMmulKnXqLT" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ###### Questions
 
-Quel artiste a été le premier à atteindre 100 millions d'abonnés sur [[Instagram]] en 2016 ?
+Quelle chanteuse est devenue en 2016 la première personne à compter 100 millions d'abonnés sur [[Instagram]] ?
 
-Quel chanteur célèbre a effectué sa première tournée mondiale en tant que tête d'affiche en 2016 avec le [[Revival Tour]] ?
+Quelle chanteuse a lancé en 2020 la marque de cosmétiques Rare Beauty ?
 
-Quelle actrice et chanteuse a débuté sa carrière musicale avec le groupe [[Selena Gomez & the Scene]] en 2009 ?
+Quelle chanteuse a sorti en 2015 l'album « Revival », porté par « Good for You » ?
+
+Quelle actrice et chanteuse américaine, née le 22 juillet 1992, a été révélée par la série « Les Sorciers de Waverly Place » ? <!-- source: tv -->
 
 ###### Description
 
@@ -45,3 +48,11 @@ En 2015, elle connaîtra un succès monumental en tant qu'artiste solo avec l'al
 Fait étonnant, [[Selena Gomez]] est devenue en 2016 la personne la plus suivie sur [[Instagram]], un record qui témoigne de son influence mondiale et de sa popularité phénoménale à cette époque.  
 
 Elle a également collaboré avec d'autres artistes de renom, comme [[Marshmello]] en 2017 pour le titre "Wolves", montrant une capacité à naviguer entre différents genres musicaux avec aisance.
+
+###### Archives questions
+
+Quelle actrice et chanteuse a débuté sa carrière musicale avec le groupe [[Selena Gomez & the Scene]] en 2009 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste a été le premier à atteindre 100 millions d'abonnés sur [[Instagram]] en 2016 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel chanteur célèbre a effectué sa première tournée mondiale en tant que tête d'affiche en 2016 avec le [[Revival Tour]] ? <!-- cm003 remplacée 2026-11-23 -->

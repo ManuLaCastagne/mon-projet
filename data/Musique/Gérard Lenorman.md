@@ -29,11 +29,9 @@ culture_g_justification: "Interprète de plusieurs tubes durables de la chanson 
 
 ###### Questions
 
-Dans quelle chanson de [[Gérard Lenorman]], sortie en 1988, évoque-t-il ses souvenirs de vacances passant par [[l'île de Ré]] ? 
+Quel chanteur a créé « La Ballade des gens heureux » en 1975 ?
 
-Quel chanteur français, connu pour son tube «[[La Ballade des Gens Heureux]]», a représenté la France au [[Concours Eurovision de la chanson]] en 1980 ?
-
-Quel artiste, ayant sorti un album intitulé «[[Le Soleil des Tropiques]]» en 1983, a collaboré avec [[Michel Delpech]] pour ce disque célèbre ?
+Quel chanteur a chanté « Si j'étais président » en 1980 ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Un fait étonnant concernant [[Gérard Lenorman]] est qu'il a représenté la Fr
 Son album intitulé "Nostalgies", sorti en 1981, s'est vendu à plus d'un million d'exemplaires et a été certifié disque de diamant, un accomplissement notable pour l'industrie musicale française. 
 
 Lenorman, dont la carrière s'étend sur plus de cinq décennies, a également participé à de nombreuses émissions de variété à la télévision française, renforçant son statut d'icône de la chanson française.
+
+###### Archives questions
+
+Dans quelle chanson de [[Gérard Lenorman]], sortie en 1988, évoque-t-il ses souvenirs de vacances passant par [[l'île de Ré]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel chanteur français, connu pour son tube «[[La Ballade des Gens Heureux]]», a représenté la France au [[Concours Eurovision de la chanson]] en 1980 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste, ayant sorti un album intitulé «[[Le Soleil des Tropiques]]» en 1983, a collaboré avec [[Michel Delpech]] pour ce disque célèbre ? <!-- cm003 remplacée 2026-11-23 -->
