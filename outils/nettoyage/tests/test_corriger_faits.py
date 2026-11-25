@@ -78,3 +78,10 @@ def test_questions_jouables_inchangees_en_nombre():
     with tempfile.NamedTemporaryFile("w", suffix=".md", delete=False, encoding="utf-8") as f:
         f.write(t)
     assert len(aq.lire_fiche(f.name)[1]) == 2
+
+
+def test_indice_avec_espace_avant_deux_points():
+    f = FICHE.replace("indice_1:\n  - fils de Charles VIII", "indice_1 : \n  - fils de Charles VIII")
+    t = cf.corriger_indice(f, "indice_1", "fils de Charles VIII", "fils de Charles VII")
+    d = yaml.safe_load(t.split("---")[1])
+    assert d["indice_1"] == ["fils de Charles VII"] and d["indice_1_archive_cm034"] == ["fils de Charles VIII"]

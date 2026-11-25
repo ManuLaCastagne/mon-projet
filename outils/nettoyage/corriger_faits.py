@@ -89,7 +89,7 @@ def corriger_phrase(texte: str, phrase: str, nouvelle: str) -> str:
 def corriger_champ(texte: str, champ: str, nouvelle) -> str:
     """Champ scalaire du frontmatter (`debut`, `fin`)."""
     entete, corps = _decouper(texte)
-    m = list(re.finditer(r"^" + re.escape(champ) + r":[ \t]*(.*)$", entete, re.M))
+    m = list(re.finditer(r"^" + re.escape(champ) + r"[ \t]*:[ \t]*(.*)$", entete, re.M))
     if len(m) != 1:
         raise Introuvable(f"champ {champ} trouvé {len(m)} fois")
     ancienne = m[0].group(1).strip()
@@ -102,7 +102,7 @@ def corriger_champ(texte: str, champ: str, nouvelle) -> str:
 def corriger_indice(texte: str, champ: str, ancienne: str, nouvelle: str) -> str:
     """Valeur d'une liste du frontmatter (`indice_n:` suivi de `  - valeur`)."""
     entete, corps = _decouper(texte)
-    m = re.search(r"^" + re.escape(champ) + r":[ \t]*\n((?:[ \t]+-.*\n?)+)", entete, re.M)
+    m = re.search(r"^" + re.escape(champ) + r"[ \t]*:[ \t]*\n((?:[ \t]+-.*\n?)+)", entete, re.M)  # « indice_1 : » existe
     if not m:
         raise Introuvable(f"champ {champ} absent")
     items = m.group(1).split("\n")
