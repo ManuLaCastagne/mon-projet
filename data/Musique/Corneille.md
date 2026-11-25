@@ -1,74 +1,55 @@
 ---
 tags: 
-  - Animaux
-tags_archives_cm034:
   - Musique
   - Corneille_(musicien)
   - Rwanda
   - Années_2000
-date: 
-date_archive_cm034:
+date:
   - 1977/03/24
-debut: 
-debut_archive_cm034: "1977"
+debut: 1977
 fin: 
 fin_archive_cm034: "1684"
 indice_1 : 
-  - "Oiseau"
-indice_1_archive_cm034:
-  - "Parce qu'on vient de loin"
+  - Parce qu'on vient de loin
 indice_2 : 
-  - "Corvidés"
-indice_2_archive_cm034:
-  - "chanteur canadien"
+  - chanteur canadien
 indice_3 : 
-  - "Corvus"
-indice_3_archive_cm034:
-  - "Seul au monde"
+  - Seul au monde
 indice_4 : 
-  - "noire ou mantelée"
-indice_4_archive_cm034:
-  - "Les marchands de rêves"
+  - Les marchands de rêves
 indice_5 : 
-  - "plus petite que le corbeau"
-indice_5_archive_cm034:
-  - "auteur-compositeur-interprète"
+  - auteur-compositeur-interprète
 indice_6 : 
-  - "bayer aux…"
-indice_6_archive_cm034:
-  - "En attendant"
+  - En attendant
 questions:
- - Quel corvidé voisin du corbeau peut être "noir" ou "mantelé" ?
 culture_g_score: 60
-culture_g_justification: "Oiseau commun d'Europe, voisin du corbeau, présent dans l'expression « bayer aux corneilles » et dans les questions sur les corvidés."
-culture_g_justification_archive_cm034: "\"Chanteur francophone identifié par Parce qu’on vient de loin et son parcours rwandais, mais d’une portée plus limitée que les grands classiques de la chanson.\""
+culture_g_justification: "Chanteur francophone identifié par Parce qu’on vient de loin et son parcours rwandais, mais d’une portée plus limitée que les grands classiques de la chanson."
+questions_tv_archivees:
+  - Quel corvidé voisin du corbeau peut être "noir" ou "mantelé" ?
 ---
-![Image de Corneille](https://upload.wikimedia.org/wikipedia/commons/2/2a/Carrion_crow_2022_04_05_05_01.jpg)
-<!-- image remplacée (cm034) : https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_Corneille_Lemaire_Louvre.jpg -->
+![Image de Corneille](https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_Corneille_Lemaire_Louvre.jpg)
 
 ###### Questions
 
-Quel nom vernaculaire désigne les plus petites espèces d'oiseaux du genre [[Corvus]], les plus grandes étant appelées corbeaux ?
+Quel chanteur d'origine rwandaise a remporté en 2005 le NRJ Music Award du clip de l'année pour « [[Parce qu'on vient de loin (chanson)|Parce qu'on vient de loin]] » ?
 
-Quel oiseau complète l'expression « bayer aux… », qui signifie rêvasser, perdre son temps en regardant en l'air ?
+Quel artiste a composé la chanson « Parce qu'on vient de loin », sortie en 2002, qui raconte son parcours et son exil ?
 
-Quel corvidé d'environ cinquante centimètres se distingue du [[Grand Corbeau]] par sa taille plus petite et son bec plus effilé ?
+Quel chanteur a composé « Il était temps », chanson défendue par [[Virginie Pouchain]] pour la France au Concours Eurovision 2006 à [[Athènes]] ?
 
 ###### Description
 
-Corneille est le nom vernaculaire de plusieurs espèces d'oiseaux du genre [[Corvus]], dans la famille des [[Corvidae]] : il désigne les plus petites espèces du genre, les plus grandes étant appelées corbeaux. 
+Corneille, de son vrai nom Cornelius Nyungura, est un auteur-compositeur-interprète canado-rwandais de RnB, né le 24 mars 1977 à [[Fribourg-en-Brisgau]], en Allemagne de l'Ouest, de parents rwandais ; il grandit à [[Kigali]]. 
 
-En Europe, les deux espèces les plus répandues sont la [[Corneille noire]] (Corvus corone), entièrement noire, bec et pattes compris, et la [[Corneille mantelée]] (Corvus cornix), au plumage gris cendré avec la tête, les ailes et la queue noires. Longtemps considérées comme une seule espèce, elles peuvent s'hybrider là où leurs aires se rencontrent. 
+Il se fait connaître avec l'album « [[Parce qu'on vient de loin]] », paru au Canada le 10 septembre 2002 puis en France en 2003, et les chansons « Avec classe », « Parce qu'on vient de loin » et « Seul au monde ». 
 
-La Corneille noire mesure environ cinquante centimètres pour une envergure allant jusqu'à un mètre. Omnivore et opportuniste, elle se nourrit surtout de graines, d'invertébrés, de petits mammifères et d'œufs.
+En 2006, à la demande de France Télévisions, il écrit et compose la chanson représentant la France au Concours [[Eurovision]] à Athènes ; c'est finalement « Il était temps », composée en urgence, que chante [[Virginie Pouchain]], qui se classe 22e.
 
-Le mot vient du bas latin cornicula, diminutif de cornix. L'expression « bayer aux corneilles » signifie rêvasser, perdre son temps en regardant en l'air.
+La même année, il participe au single caritatif « [[L'Or de nos vies]] » de l'association Fight Aids Monaco, aux côtés de [[Kyo (groupe)|Kyo]], d'[[Amel Bent]] et de [[Matt Pokora]].
 
 ###### Archives questions
 
 Quel chanteur d'origine rwandaise a remporté le NRJ Music Award de la Révélation francophone en 2005 ? <!-- cm034 corrigée 2026-11-25 -->
-
-Quel artiste a composé la chanson « Parce qu'on vient de loin », sortie en 2002, qui raconte son parcours et son exil ? <!-- cm034 corrigée 2026-11-25 -->
 
 Qui a participé en 2006 à la tournée « [[Night of the Proms]] », combinant musique pop et musique classique ? <!-- cm034 corrigée 2026-11-25 -->
 
