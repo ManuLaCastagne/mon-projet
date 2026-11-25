@@ -44,7 +44,7 @@ culture_g_score: 80
 culture_g_justification: "Détroit stratégique majeur du commerce pétrolier et des tensions du Golfe, régulièrement mobilisé dans les questions de géopolitique."
 ---
 ![Image de Détroit d'Ormuz](https://upload.wikimedia.org/wikipedia/commons/9/92/Strait_of_Hormuz.jpg)
-<!-- image remplacée (cm020) : https://upload.wikimedia.org/wikipedia/commons/9/9d/Mbabane.jpg -->
+<!-- image remplacée (cm034) : https://upload.wikimedia.org/wikipedia/commons/9/9d/Mbabane.jpg -->
 
 <!-- carte archivée (cm034), elle montrait Mbabane : ![[Carte_Mbabane.png]] -->
 ###### Questions
