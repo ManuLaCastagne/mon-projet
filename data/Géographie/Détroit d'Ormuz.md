@@ -42,6 +42,7 @@ indice_6_archive_cm034:
   - "Située dans les montagnes du Dlangeni"
 culture_g_score: 80
 culture_g_justification: "Détroit stratégique majeur du commerce pétrolier et des tensions du Golfe, régulièrement mobilisé dans les questions de géopolitique."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Détroit d'Ormuz](https://upload.wikimedia.org/wikipedia/commons/9/92/Strait_of_Hormuz.jpg)
 <!-- image remplacée (cm034) : https://upload.wikimedia.org/wikipedia/commons/9/9d/Mbabane.jpg -->

@@ -25,6 +25,7 @@ questions:
  - Quel est ce médecin né à Pergame vers 131, qui a fait avancer les connaissances sur les muscles, les os ?
 culture_g_score: 80
 culture_g_justification: "Galien est une référence majeure de la médecine antique, régulièrement associé à Rome, à l’anatomie et à l’histoire médicale."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Claude Galien](https://upload.wikimedia.org/wikipedia/commons/f/f5/Galen_detail.jpg)
 

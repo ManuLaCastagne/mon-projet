@@ -19,6 +19,7 @@ questions:
  - Quel animal du jurassique, associant les caractéristiques de l'oiseau et du dinosaure...
 culture_g_score: 77
 culture_g_justification: "Fossile emblématique de l'évolution, régulièrement utilisé pour relier dinosaures, oiseaux et paléontologie."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Archéoptéryx](https://upload.wikimedia.org/wikipedia/commons/d/d0/Arch%C3%A9opt%C3%A9ryx.svg)
 

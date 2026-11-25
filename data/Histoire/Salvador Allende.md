@@ -26,6 +26,7 @@ questions:
  - En 1973, quel président de la république du Chili fut renversé par un putsch militaire dirigé par Pinochet ?
 culture_g_score: 80
 culture_g_justification: "Président chilien central pour la guerre froide, le marxisme démocratique, le coup d’État de 1973 et l’histoire latino-américaine."
+verifie_cm034: "2026-11-25"
 ---
 ![Image de Salvador Aliende](https://upload.wikimedia.org/wikipedia/commons/4/45/ChFSA_FD1197205170%281%29.djvu)
 
