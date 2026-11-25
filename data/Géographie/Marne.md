@@ -32,11 +32,11 @@ culture_g_justification: "Département lié au champagne, à Reims et à une riv
 ![[Carte_Marne.png]]
 ###### Questions
 
-Dans quel département se trouve le célèbre vignoble de [[Champagne]], connu pour ses vins mousseux uniques ?
+Quel département a pour préfecture [[Châlons-en-Champagne]] ?
 
-Quelle rivière, longue de 525 kilomètres, traverse le département de la [[Géographie/Marne]] avant de se jeter dans la [[Seine]] ?
+Quelle rivière, plus long affluent de la [[Seine]], la rejoint à [[Charenton-le-Pont]] ?
 
-Dans quel département la ville de [[Reims]], célèbre pour sa cathédrale où furent couronnés de nombreux rois de France, est-elle située ?
+Dans quel département se trouvent [[Reims]] et [[Épernay]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ La ville de [[Reims]], surnommée la cité des sacres, a été le théâtre du c
 Un fait étonnant à propos de la Marne est sa possession de la [[Montagne de Reims]], où se trouve le point culminant du département à 288 mètres, un record relativement modeste qui défie les attentes pour un pays connu pour ses montagnes comme les [[Alpes]] ou les [[Pyrénées]]. 
 
 En 2012, le vignoble champenois de la Marne a planté un raisin en provenance de [[Mars]], une histoire qui s'est avérée être un canular savamment orchestré par un groupe d’œnologues.
+
+###### Archives questions
+
+Quelle rivière, longue de 525 kilomètres, traverse le département de la [[Géographie/Marne]] avant de se jeter dans la [[Seine]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel département se trouve le célèbre vignoble de [[Champagne]], connu pour ses vins mousseux uniques ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel département la ville de [[Reims]], célèbre pour sa cathédrale où furent couronnés de nombreux rois de France, est-elle située ? <!-- cm003 remplacée 2026-11-23 -->

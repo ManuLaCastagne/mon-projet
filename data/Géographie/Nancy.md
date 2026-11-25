@@ -30,11 +30,11 @@ culture_g_justification: "Ville française régulièrement interrogée grâce à
 
 ###### Questions
 
-Dans quelle ville française, choisie comme modèle pour son architecture urbanistique au XVIIIe siècle sous la direction de [[Stanislas Leszczyński]], trouve-t-on la célèbre [[Place Stanislas]] inscrite au patrimoine mondial de l'[[UNESCO]] depuis 1983 ?
+Dans quelle ville la place Stanislas, aménagée au XVIIIe siècle, est-elle inscrite au [[patrimoine mondial de l'UNESCO]] depuis [[1983]] ?
 
-Quelle ville de [[Lorraine]] abrite le [[Musée de l'École de Nancy]], qui consacre l'ensemble de son exposition au mouvement artistique du [[style Art nouveau]], particulièrement florissant au tournant du XIXe et XXe siècle ?
+Dans quelle ville lorraine [[Émile Gallé]] fonda-t-il en [[1901]] une alliance d'artistes de l'Art nouveau ?
 
-Dans quelle ville française a été construite l'une des premières lignes de tramway modernes, inaugurée en 1982, marquant un exemple de renouveau des transports en commun dans l'hexagone ?
+Quelle ville fut la capitale des ducs de [[Lorraine]] ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Dans quelle ville française a été construite l'une des premières lignes de t
 En 1909, [[Nancy]] a été le théâtre de l'un des premiers vols aériens de [[Léon Delagrange]], réalisant ainsi un des premiers records de distance pour un vol sans escale. 
 
 Avec ses nombreux parcs et jardins, [[Nancy]] est souvent considérée comme une ville verte et a développé un réseau dynamique d'espaces verts urbains qui attirent autant les locaux que les visiteurs.
+
+###### Archives questions
+
+Quelle ville de [[Lorraine]] abrite le [[Musée de l'École de Nancy]], qui consacre l'ensemble de son exposition au mouvement artistique du [[style Art nouveau]], particulièrement florissant au tournant du XIXe et XXe siècle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française, choisie comme modèle pour son architecture urbanistique au XVIIIe siècle sous la direction de [[Stanislas Leszczyński]], trouve-t-on la célèbre [[Place Stanislas]] inscrite au patrimoine mondial de l'[[UNESCO]] depuis 1983 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville française a été construite l'une des premières lignes de tramway modernes, inaugurée en 1982, marquant un exemple de renouveau des transports en commun dans l'hexagone ? <!-- cm003 remplacée 2026-11-23 -->

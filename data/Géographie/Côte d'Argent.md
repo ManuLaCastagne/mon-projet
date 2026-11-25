@@ -34,11 +34,9 @@ culture_g_justification: "Grande façade atlantique française liée aux Landes,
 ![[Carte_Côte d'Argent.png]]
 ###### Questions
 
-Quelle région littorale, située le long du [[golfe de Gascogne]], est connue pour son étendue de plages de sable fin, ce qui lui vaut le surnom de [[Côte d'Argent]] depuis 1905 ?
+Quel nom porte la côte qui va de la [[pointe de Grave]] à l'embouchure de l'[[Adour]] et inclut la [[dune du Pilat]] ?
 
-Quel nom porte la côte qui s'étend de la [[pointe de Grave]] à l'[[Adour]], et qui inclut les célèbres dunes de sable telles que la [[dune du Pilat]] ?
-
-Comment s'appelle la zone côtière du sud-ouest de la France, propice au surf, et qui constitue l'une des plus longues plages ininterrompues d'Europe, souvent désignée par le terme [[Côte d'Argent]] ?
+Quelle côte du sud-ouest de la France accueille à [[Hossegor]] des étapes du circuit mondial de surf ?
 
 ###### Description
 
@@ -49,3 +47,11 @@ Elle s'étire de la pointe de [[Grave]] à l'estuaire de la [[Gironde]] jusqu'à
 Un fait étonnant à propos de la Côte d'Argent est qu'elle abrite la [[Dune du Pilat]], la plus haute dune de sable d'Europe, qui atteint environ 110 mètres de haut et s'allonge sur 2,7 kilomètres ; elle a été formée il y a environ 4 000 ans.
 
 Par ailleurs, le spot de surf de [[Hossegor]] est reconnu internationalement et accueille chaque année depuis 2000 le [[Quiksilver Pro France]], une compétition phare dans le calendrier du [[World Surf League]].
+
+###### Archives questions
+
+Quelle région littorale, située le long du [[golfe de Gascogne]], est connue pour son étendue de plages de sable fin, ce qui lui vaut le surnom de [[Côte d'Argent]] depuis 1905 ? <!-- cm003 archivée 2026-11-23 -->
+
+Comment s'appelle la zone côtière du sud-ouest de la France, propice au surf, et qui constitue l'une des plus longues plages ininterrompues d'Europe, souvent désignée par le terme [[Côte d'Argent]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel nom porte la côte qui s'étend de la [[pointe de Grave]] à l'[[Adour]], et qui inclut les célèbres dunes de sable telles que la [[dune du Pilat]] ? <!-- cm003 remplacée 2026-11-23 -->

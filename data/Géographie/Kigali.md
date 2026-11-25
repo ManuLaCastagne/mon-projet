@@ -29,12 +29,20 @@ culture_g_justification: "Capitale du Rwanda régulièrement associée au génoc
 ![[Carte_Kigali.png]]
 ###### Questions
 
-Quelle ville d'[[Afrique]] a été entièrement reconstruite après les événements tragiques de 1994 et est maintenant connue pour être l'une des capitales les plus propres du continent ? 
+Dans quelle capitale africaine le mémorial du génocide des [[Tutsi]] de [[1994]] a-t-il ouvert en [[2004]] ?
 
-Quelle capitale africaine a accueilli le [[World Economic Forum]] sur l'[[Afrique]] en 2016, marquant une première pour un pays de la région des [[Grands Lacs africains]] ? 
+Quelle capitale africaine a accueilli en mai [[2016]] le Forum économique mondial sur l'[[Afrique]] ?
 
-Quel événement annuel, appelé le [[Kigali Car Free Day]], visant à promouvoir la santé et l'environnement, est organisé dans la capitale du [[Rwanda]] depuis 2016 ?
+Quelle ville est la capitale du [[Rwanda]] ?
 
 ###### Description
 
 [[Kigali]], la capitale du [[Rwanda]], est située au centre du pays, s'étendant sur plusieurs collines pittoresques. Fondée en 1907 par le colon allemand [[Richard Kandt]], elle est devenue le centre politique, économique et culturel du Rwanda après que le pays a obtenu son indépendance en 1962. Kigali est réputée pour sa propreté exemplaire et ses initiatives écologiques, notamment le premier samedi de chaque mois dédié à l'[[Umuganda]], une journée nationale de travaux communautaires. En 2008, la ville a accueilli le [[Kigali City Tower]], un symbole moderne du progrès du Rwanda et le plus haut immeuble du pays à cette époque.
+
+###### Archives questions
+
+Quel événement annuel, appelé le [[Kigali Car Free Day]], visant à promouvoir la santé et l'environnement, est organisé dans la capitale du [[Rwanda]] depuis 2016 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville d'[[Afrique]] a été entièrement reconstruite après les événements tragiques de 1994 et est maintenant connue pour être l'une des capitales les plus propres du continent ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle capitale africaine a accueilli le [[World Economic Forum]] sur l'[[Afrique]] en 2016, marquant une première pour un pays de la région des [[Grands Lacs africains]] ? <!-- cm003 remplacée 2026-11-23 -->

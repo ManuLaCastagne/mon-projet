@@ -30,12 +30,16 @@ culture_g_justification: "Capitale africaine utile pour situer le Botswana et qu
 ![[Carte_Gaborone.png]]
 ###### Questions
 
-Dans quelle ville d'Afrique australe, nommée [[Gaborone]], fut établi un calculateur automatique d'autobus dès 1964, faisant d'elle l'une des premières en Afrique à utiliser ce type de technologie ?
-
-Quelle ville, connue sous le nom de [[Gaborone]], est devenue la capitale du [[Botswana]] en 1966, remplaçant cette ancienne capitale coloniale, [[Mafikeng]], située en [[Afrique du Sud]] ?
+Quelle ville est devenue en [[1966]] la capitale du [[Botswana]], à la place de [[Mafikeng]], située hors du territoire ?
 
 Quel est le nom de la ville où se trouve le siège du [[Southern African Development Community]] (SADC), une organisation intergouvernementale créée en 1992 pour promouvoir la coopération socio-économique et politique en Afrique australe ? <!-- score: 4 -->
 
 ###### Description
 
 [[Gaborone]], la capitale du [[Botswana]], est située au sud-est du pays et a été établie comme capitale en 1966, l'année où le Botswana a obtenu son indépendance. Avant cela, elle était connue comme une petite colonie appelée [[Gaberones]]. La ville est nommée d'après le chef [[Kgosi Gaborone]], et elle abrite l'université du [[Botswana]], fondée en 1982, ainsi que l'important [[Gaborone Dam]], achevé en 1966, qui est une source cruciale d'approvisionnement en eau pour la région. Gaborone est également le siège de la [[Communauté de développement de l'Afrique australe]] (SADC) depuis sa création en 1992, jouant un rôle clé dans la coopération régionale.
+
+###### Archives questions
+
+Dans quelle ville d'Afrique australe, nommée [[Gaborone]], fut établi un calculateur automatique d'autobus dès 1964, faisant d'elle l'une des premières en Afrique à utiliser ce type de technologie ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle ville, connue sous le nom de [[Gaborone]], est devenue la capitale du [[Botswana]] en 1966, remplaçant cette ancienne capitale coloniale, [[Mafikeng]], située en [[Afrique du Sud]] ? <!-- cm003 remplacée 2026-11-23 -->

@@ -30,12 +30,18 @@ culture_g_justification: "Capitale nationale identifiable et utile pour la géog
 ![[Carte_Maputo.png]]
 ###### Questions
 
-Quelle est la capitale du [[Mozambique]] depuis l'indépendance du pays en 1975 ?
+Quelle capitale s'appelait Lourenço Marques jusqu'en [[1976]] ?
 
-Dans quelle ville se déroule chaque année depuis 1887 la [[Foire internationale de Maputo]], un événement commercial majeur en [[Afrique australe]] ?
-
-Quel port important de l'[[océan Indien]], développé dans les années 1950, est situé dans cette ville et joue un rôle clé dans l'exportation des ressources de [[Mozambique]] ?
+Dans quelle capitale se trouve la gare centrale souvent attribuée à tort à [[Gustave Eiffel]] ?
 
 ###### Description
 
 [[Maputo]], la capitale du [[Mozambique]], est située sur la côte sud-est de l'Afrique, le long de l'océan Indien. Fondée en 1781 par les Portugais sous le nom de [[Lourenço Marques]], la ville a été rebaptisée [[Maputo]] en 1976, peu après l'indépendance du Mozambique en 1975. Elle abrite des sites notables tels que la [[Cathédrale Notre-Dame de l'Immaculée Conception de Maputo]], construite en 1944, et la [[gare ferroviaire de Maputo]], achevée en 1916, qui est souvent citée parmi les plus belles gares du monde. La ville est également réputée pour sa vie culturelle dynamique, avec le [[Marché du Poisson]] offrant une expérience culinaire unique aux visiteurs.
+
+###### Archives questions
+
+Dans quelle ville se déroule chaque année depuis 1887 la [[Foire internationale de Maputo]], un événement commercial majeur en [[Afrique australe]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle est la capitale du [[Mozambique]] depuis l'indépendance du pays en 1975 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel port important de l'[[océan Indien]], développé dans les années 1950, est situé dans cette ville et joue un rôle clé dans l'exportation des ressources de [[Mozambique]] ? <!-- cm003 remplacée 2026-11-23 -->

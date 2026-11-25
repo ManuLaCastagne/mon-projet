@@ -30,11 +30,11 @@ culture_g_justification: "Grand fleuve espagnol utile pour l’histoire ibériqu
 ![[Carte_Ebre.png]]
 ###### Questions
 
-Quel est le fleuve qui prend sa source dans les [[Pyrénées]] et se jette dans la [[Méditerranée]], traversant notamment la ville de [[Saragosse]] ?
+Quel fleuve espagnol, qui prend sa source à Fontibre en [[Cantabrie]], traverse [[Saragosse]] avant de se jeter dans la [[Méditerranée]] ?
 
-Quel est le cours d'eau qui traverse le [[delta de l'Èbre]] en [[Catalogne]], réputé pour sa richesse écologique et sa biodiversité unique ?
+Quel fleuve forme à son embouchure, en [[Catalogne]], un vaste delta couvert de rizières ?
 
-Quel fleuve a vu ses eaux utilisées dans l'irrigation massive du désert de [[Monegros]] en [[Espagne]], transformant cette région en l'une des zones agricoles les plus importantes depuis les années 1950 ?
+Quel fleuve a donné son nom à une bataille de la [[guerre d'Espagne]] livrée de juillet à novembre [[1938]] ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Il prend sa source dans la région des [[Montes Cantabriques]] et parcourt envir
 Un fait étonnant concernant l'[[Ebre]] est qu'il abrite la centrale hydroélectrique de [[Mequinenza]], inaugurée en 1966, souvent surnommée la "[[Mer de l'Aragon]]" en raison de sa capacité à constituer une immense réserve d'eau couvrant près de 5 400 hectares. 
 
 La vallée de l'[[Ebre]] est également une zone agricole primordiale pour le pays, notamment pour la culture du riz, qui a été introduite par les [[Maures]] au XVIIe siècle.
+
+###### Archives questions
+
+Quel est le cours d'eau qui traverse le [[delta de l'Èbre]] en [[Catalogne]], réputé pour sa richesse écologique et sa biodiversité unique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le fleuve qui prend sa source dans les [[Pyrénées]] et se jette dans la [[Méditerranée]], traversant notamment la ville de [[Saragosse]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel fleuve a vu ses eaux utilisées dans l'irrigation massive du désert de [[Monegros]] en [[Espagne]], transformant cette région en l'une des zones agricoles les plus importantes depuis les années 1950 ? <!-- cm003 remplacée 2026-11-23 -->

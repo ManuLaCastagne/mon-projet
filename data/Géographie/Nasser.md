@@ -29,9 +29,9 @@ culture_g_justification: "Grand réservoir associé au barrage d'Assouan, à l'�
 ![[Carte_Nasser.png]]
 ###### Questions
 
-En quelle année le [[Lac Nasser]] a-t-il été créé à la suite de la construction du [[Barrage d'Assouan]] en [[Géographie/Égypte]] ?
+Quel président égyptien nationalisa le [[canal de Suez]] le 26 juillet [[1956]] ?
 
-Quel ouvrage a entraîné la création du [[Lac Nasser]] lors de la construction de l'[[Haute-Barrage d'Assouan]] au cours des années 1960 ?
+Quel président égyptien lança en [[1960]] le chantier du haut barrage d'Assouan ?
 
 Quel lac artificiel, nommé d'après un ancien président égyptien, s'étend sur l'[[Géographie/Égypte]] et le [[Soudan]] depuis sa formation dans les années 1960 ?
 
@@ -44,3 +44,9 @@ Long de quelque 550 kilomètres, ce lac impressionnant contient environ 132 kilo
 Un fait étonnant est que le [[Lac Nasser]] abrite plus de 32 espèces de poissons, parmi lesquelles le poisson-tigre, reconnu pour sa nature féroce et souvent considéré comme l'un des meilleurs combattants d'eau douce. 
 
 Fait notable, le déplacement des monuments de [[Abou Simbel]] pour éviter leur submersion lors de la création du lac a été une opération archéologique spectaculaire, étalée de 1964 à 1968.
+
+###### Archives questions
+
+En quelle année le [[Lac Nasser]] a-t-il été créé à la suite de la construction du [[Barrage d'Assouan]] en [[Géographie/Égypte]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel ouvrage a entraîné la création du [[Lac Nasser]] lors de la construction de l'[[Haute-Barrage d'Assouan]] au cours des années 1960 ? <!-- cm003 remplacée 2026-11-23 -->

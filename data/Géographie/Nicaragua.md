@@ -32,11 +32,11 @@ culture_g_justification: "Pays classique d'Amérique centrale, utile pour ses la
 ![[Carte_Nicaragua.png]]
 ###### Questions
 
-Quel est le seul pays d'Amérique centrale à posséder des lacs avec des squales d'eau douce, notamment le [[Lac Nicaragua]]?
+Dans quel pays le lac Cocibolca abrite-t-il des requins-bouledogues remontés depuis la mer ?
 
-En quelle année le [[Nicaragua]] a-t-il lancé le projet controversé du [[Grand Canal Interocéanique]] visant à concurrencer le [[Canal de Panama]]?
+Quel pays a pour capitale [[Managua]] ?
 
-Quel est le premier pays d'Amérique centrale à avoir désigné un secteur massif de [[forêt pluviale]] appelée [[Bosawas]] en tant que [[Réserve de biosphère de l'UNESCO]] en 1997?
+Dans quel pays se trouve la réserve de biosphère de [[Bosawas]], vaste forêt tropicale reconnue par l'UNESCO en [[1997]] ?
 
 ###### Description
 
@@ -47,3 +47,11 @@ La capitale, [[Managua]], est située sur la côte sud-ouest du [[Lac Managua]],
 Le [[Nicaragua]] abrite également le célèbre [[Volcan Masaya]], l'un des rares volcans au monde où l'on peut voir de la lave en fusion depuis le bord du cratère. 
 
 Peu de gens le savent, mais la réserve de biosphère de [[Bosawás]], créée en 1997 et couvrant environ 20,000 km², est la plus grande forêt tropicale humide des Amériques après l'[[Amazonie]], abritant une biodiversité remarquable.
+
+###### Archives questions
+
+Quel est le seul pays d'Amérique centrale à posséder des lacs avec des squales d'eau douce, notamment le [[Lac Nicaragua]]? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année le [[Nicaragua]] a-t-il lancé le projet controversé du [[Grand Canal Interocéanique]] visant à concurrencer le [[Canal de Panama]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le premier pays d'Amérique centrale à avoir désigné un secteur massif de [[forêt pluviale]] appelée [[Bosawas]] en tant que [[Réserve de biosphère de l'UNESCO]] en 1997? <!-- cm003 remplacée 2026-11-23 -->

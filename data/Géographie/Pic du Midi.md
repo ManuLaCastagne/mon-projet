@@ -32,11 +32,9 @@ culture_g_justification: "Sommet pyrénéen connu pour son observatoire, l’ast
 ![[Carte_Pic du Midi.png]]
 ###### Questions
 
-Quel site astronomique, offrant une vue panoramique exceptionnelle sur les [[Pyrénées]] et abritant un célèbre observatoire depuis 1882, se situe à une altitude de 2 877 mètres ?
+Quel sommet des Pyrénées, haut de 2 877 mètres, accueille un observatoire astronomique depuis la fin du XIXe siècle ?
 
-Quel lieu, connu pour avoir hébergé l'un des premiers laboratoires haute montagne pour l'étude des rayons cosmiques dans les années 1940, se trouve sur le [[Pic du Midi]] ?
-
-Quel sommet pyrénéen est accessible par un téléphérique depuis la station de [[La Mongie]] et est reconnu pour son rôle dans l'étude du Soleil et de l'espace depuis 1946 ?
+Quel sommet pyrénéen est accessible par un téléphérique depuis la station de [[La Mongie]] ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Reconnu pour son observatoire astronomique, le site a accueilli ses premières o
 Un fait étonnant est que le [[Pic du Midi]] abrite un histophotographe réalisé en 1908, destiné à capturer les éclipses solaires avec une précision exceptionnelle, ce qui a contribué à affirmer sa renommée internationale.
 
 Accessible depuis 1952 grâce à un téléphérique construit pour les Jeux Olympiques d'été de 1924 prévus à [[Chamonix]], le [[Pic du Midi]] attire de nombreux visiteurs pour ses vues panoramiques spectaculaires.
+
+###### Archives questions
+
+Quel lieu, connu pour avoir hébergé l'un des premiers laboratoires haute montagne pour l'étude des rayons cosmiques dans les années 1940, se trouve sur le [[Pic du Midi]] ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel site astronomique, offrant une vue panoramique exceptionnelle sur les [[Pyrénées]] et abritant un célèbre observatoire depuis 1882, se situe à une altitude de 2 877 mètres ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel sommet pyrénéen est accessible par un téléphérique depuis la station de [[La Mongie]] et est reconnu pour son rôle dans l'étude du Soleil et de l'espace depuis 1946 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -34,9 +34,9 @@ culture_g_justification: "Station israélienne de la mer Rouge, utile pour la g�
 
 Dans quelle ville située à l'extrémité nord du [[golfe d'Aqaba]] peut-on observer une biodiversité marine exceptionnelle grâce à son récif corallien ? <!-- score: 4 -->
 
-Dans quelle ville israélienne a été inauguré en 1985 l'aéroport [[Eilat-Uvda]], cruciale pour le tourisme et le transport ?
+Quelle ville israélienne est desservie depuis [[2019]] par l'aéroport international Ramon ?
 
-Quel est le nom de la ville israélienne fondée en 1951 qui constitue le point d'accès sud du pays à la mer Rouge et qui abrite l'un des plus grands aquariums du [[Moyen-Orient]], l'[[Observatoire sous-marin d'Eilat]] ?
+Quelle ville, unique accès d'[[Israël]] à la [[mer Rouge]], est voisine d'[[Aqaba]] en Jordanie ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Entourée par le désert du [[Néguev]] et les montagnes de [[Edom]], elle bén�
 Un fait étonnant est que [[Eilat]] détient le record de la station de mer la plus au nord du monde à abriter des récifs coralliens, ce qui en fait une destination unique pour les amateurs de plongée sous-marine. 
 
 En 1985, [[Eilat]] a été déclarée zone franche, ce qui a grandement stimulé son économie et favorisé la croissance rapide du tourisme et du commerce.
+
+###### Archives questions
+
+Dans quelle ville israélienne a été inauguré en 1985 l'aéroport [[Eilat-Uvda]], cruciale pour le tourisme et le transport ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la ville israélienne fondée en 1951 qui constitue le point d'accès sud du pays à la mer Rouge et qui abrite l'un des plus grands aquariums du [[Moyen-Orient]], l'[[Observatoire sous-marin d'Eilat]] ? <!-- cm003 remplacée 2026-11-23 -->

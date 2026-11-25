@@ -28,12 +28,16 @@ culture_g_justification: "Capitale des Balkans utile pour les questions sur le M
 ![[Carte_Podgorica.png]]
 ###### Questions
 
-Quelle est la capitale du [[Monténégro]], devenue ce statut en 1992, après que le pays se soit séparé de l'ancienne [[Yougoslavie]] ?
-
-Quel est le nom de la ville où se trouve l'une des plus anciennes universités du [[Balkans]], l'[[Université de Podgorica]], fondée en 1974 ?
-
-Dans quelle ville européenne pouvait-on voir, en 2019, les vestiges d'un ancien [[pont ottoman]] récemment redécouverts ?
+Quelle capitale s'appelait Titograd de [[1946]] à [[1992]] ?
 
 ###### Description
 
 [[Podgorica]] est la capitale et la plus grande ville du [[Monténégro]], située au cœur des Balkans. Historiquement, elle a été connue sous le nom de [[Titograd]] de 1946 à 1992, en l'honneur du président yougoslave [[Josip Broz Tito]]. La ville est traversée par la rivière [[Morača]], offrant un cadre pittoresque et abritant de nombreux sites culturels et historiques. En 2006, [[Podgorica]] est devenue la capitale d'un [[Monténégro]] indépendant, après le référendum qui a officialisé la séparation d'avec la [[Serbie]].
+
+###### Archives questions
+
+Quel est le nom de la ville où se trouve l'une des plus anciennes universités du [[Balkans]], l'[[Université de Podgorica]], fondée en 1974 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle est la capitale du [[Monténégro]], devenue ce statut en 1992, après que le pays se soit séparé de l'ancienne [[Yougoslavie]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville européenne pouvait-on voir, en 2019, les vestiges d'un ancien [[pont ottoman]] récemment redécouverts ? <!-- cm003 archivée 2026-11-23 -->

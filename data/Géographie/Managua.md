@@ -30,12 +30,20 @@ culture_g_justification: "Capitale d’Amérique centrale utile pour le Nicaragu
 ![[Carte_Managua.png]]
 ###### Questions
 
-Quelle est la [[capitale]] de [[Nicaragua]], pays d'[[Amérique centrale]], qui compte une population d'environ 1,2 million d'habitants ?
+Quelle est la capitale du [[Nicaragua]] ?
 
-Dans quelle ville a eu lieu le tremblement de terre dévastateur en 1972, causant de lourds dégâts et obligeant à une reconstruction majeure ?
+Quelle capitale d'Amérique centrale fut dévastée par un séisme le 23 décembre [[1972]] ?
 
-Quelle ville est située sur les rives du lac [[Managua]], un des plus grands lacs d'[[Amérique centrale]], connu pour ses îles et sa biodiversité unique ?
+Quelle capitale est bâtie sur la rive sud du lac Xolotlán ?
 
 ###### Description
 
 [[Managua]], la capitale du [[Nicaragua]], est située sur la rive sud-ouest du [[lac de Managua]]. Fondée en 1819, elle est devenue la capitale en 1852, remplaçant [[León]] et [[Granada]], qui se disputaient le statut de capitale. En 1972, Managua a été dévastée par un tremblement de terre majeur, marquant un tournant dans son développement urbain. Aujourd'hui, avec une population d'environ 1,5 million d'habitants, elle est le centre économique, culturel et politique du pays.
+
+###### Archives questions
+
+Quelle ville est située sur les rives du lac [[Managua]], un des plus grands lacs d'[[Amérique centrale]], connu pour ses îles et sa biodiversité unique ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la [[capitale]] de [[Nicaragua]], pays d'[[Amérique centrale]], qui compte une population d'environ 1,2 million d'habitants ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville a eu lieu le tremblement de terre dévastateur en 1972, causant de lourds dégâts et obligeant à une reconstruction majeure ? <!-- cm003 remplacée 2026-11-23 -->

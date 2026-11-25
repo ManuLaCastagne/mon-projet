@@ -32,11 +32,11 @@ culture_g_justification: "Grand fleuve sud-américain associé au Venezuela, à 
 ![[Carte_Orénoque.png]]
 ###### Questions
 
-Quel est le nom du fleuve traversant la [[Forêt amazonienne]] qui a une longueur d'environ 2 150 kilomètres et prend sa source dans les [[Andes]] vénézuéliennes ?
+Quel fleuve vénézuélien prend sa source dans la sierra Parima, près de la frontière brésilienne ?
 
 Quel fleuve sud-américain a été exploré pour la première fois par l'expédition de [[Diego de Ordaz]] en 1531, qui cherchait le [[Dorado]] ?
 
-Quel cours d'eau, atteignant son débit maximal pendant la saison des pluies et alimentant le vaste [[delta de l'Orénoque]] en [[Venezuela]], se déverse dans l'[[Océan Atlantique]] ?
+Quel fleuve se jette dans l'[[océan Atlantique]] par un vaste delta au nord-est du [[Venezuela]] ?
 
 ###### Description
 
@@ -47,3 +47,9 @@ Il prend sa source dans la [[Sierra Parima]], située aux frontières méridiona
 Un fait étonnant à propos de l'Orénoque est qu'il abrite le célèbre [[Cañón del Orinoco]], qui, avec ses 300 kilomètres de longueur, est l'un des plus longs canyons fluviaux du monde. 
 
 En 1951, une expédition dirigée par l'explorateur [[Jacques Cousteau]] a révélé que l'embouchure de l'Orénoque formait un immense delta, complexe et en constante évolution, unique par sa taille en Amérique du Sud.
+
+###### Archives questions
+
+Quel cours d'eau, atteignant son débit maximal pendant la saison des pluies et alimentant le vaste [[delta de l'Orénoque]] en [[Venezuela]], se déverse dans l'[[Océan Atlantique]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du fleuve traversant la [[Forêt amazonienne]] qui a une longueur d'environ 2 150 kilomètres et prend sa source dans les [[Andes]] vénézuéliennes ? <!-- cm003 remplacée 2026-11-23 -->
