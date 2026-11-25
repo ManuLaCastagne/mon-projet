@@ -10,7 +10,9 @@ indice_3 :
 indice_4 : 
   - Bavière
 indice_5 : 
-  - Fossile vivant
+  - "Fossile transitionnel"
+indice_5_archive_cm034:
+  - "Fossile vivant"
 indice_6 : 
   - Lien entre dinosaures et oiseaux modernes
 questions:
@@ -22,7 +24,7 @@ culture_g_justification: "Fossile emblématique de l'évolution, régulièrement
 
 ###### Questions
 
-Quel est le nom de l'ancêtre préhistorique, souvent décrit comme le lien évolutif entre les dinosaures et les oiseaux, découvert pour la première fois en [[1861]] en [[Bavière]]?
+Quel animal préhistorique à plumes, intermédiaire entre les dinosaures et les oiseaux, a été découvert pour la première fois en [[1861]] en [[Bavière]] ?
 
 Quel fossile emblématique, datant du [[Jurassique]] supérieur il y a environ [[150 millions d'années]], est considéré comme l'une des premières formes d'oiseaux primordiaux?
 
@@ -37,3 +39,7 @@ Découvert pour la première fois en [[1861]] en [[Allemagne]], cet animal prés
 Fait étonnant : malgré sa capacité à planer, il est encore controversé de savoir si [[Archéoptéryx]] était véritablement un bon volant ou s'il utilisait ses ailes principalement pour l'équilibre et les courtes distances. 
 
 Il est souvent cité comme le « premier oiseau » connu, bien qu'il s'agisse plus précisément d'un précurseur important dans l'évolution des dinosaures vers les oiseaux modernes.
+
+###### Archives questions
+
+Quel est le nom de l'ancêtre préhistorique, souvent décrit comme le lien évolutif entre les dinosaures et les oiseaux, découvert pour la première fois en [[1861]] en [[Bavière]]? <!-- cm034 corrigée 2026-11-25 -->

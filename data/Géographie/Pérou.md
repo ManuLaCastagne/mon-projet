@@ -32,11 +32,11 @@ culture_g_justification: "Pays sud-américain très rentable grâce à Machu Pic
 ![[Carte_Pérou.png]]
 ###### Questions
 
-Quel pays d'Amérique du Sud abrite la [[montagne arc-en-ciel]], aussi connue sous le nom de [[Vinicunca]], située à 5 200 mètres d'altitude?
+Quel pays d'Amérique du Sud abrite la [[montagne arc-en-ciel]], aussi connue sous le nom de [[Vinicunca]], qui culmine à plus de 5 000 mètres d'altitude ?
 
-Dans quel pays se trouve le [[Lac Titicaca]], souvent considéré comme le lac navigable le plus haut du monde, situé à environ 3 812 mètres d'altitude?
+Quel pays partage avec la [[Bolivie]] le [[Lac Titicaca]], présenté comme le plus haut lac navigable du monde, à environ 3 812 mètres d'altitude ?
 
-En 1911, dans quel pays l'explorateur [[Hiram Bingham]] découvrit-il la cité inca emblématique de [[Machu Picchu]]?
+En 1911, dans quel pays l'explorateur [[Hiram Bingham]] fit-il connaître au monde la cité inca de [[Machu Picchu]] ?
 
 ###### Description
 
@@ -44,6 +44,20 @@ Le [[Pérou]], situé sur la côte ouest de l'[[Amérique du Sud]], est bordé p
 
 La capitale, [[Géographie/Lima]], fondée en 1535, est à la fois la plus grande ville du pays et un point central de la culture péruvienne. 
 
-Un fait étonnant est la découverte de la cité de [[Machu Picchu]] en 1911 par l'explorateur américain [[Hiram Bingham]] ; ce site archéologique inca est souvent considéré comme l'une des sept nouvelles merveilles du monde. 
+Un fait étonnant est que la cité de [[Machu Picchu]], révélée au monde en 1911 par l'explorateur américain [[Hiram Bingham]], a été désignée en 2007 comme l'une des sept nouvelles merveilles du monde. 
 
-Record notable, le lac [[Titicaca]], partagé avec la [[Bolivie]], est le lac navigable le plus haut du monde, culminant à environ 3 812 mètres d'altitude.
+Record notable, le lac [[Titicaca]], partagé avec la [[Bolivie]], est souvent présenté comme le lac navigable le plus haut du monde, à environ 3 812 mètres d'altitude.
+
+###### Archives questions
+
+Quel pays d'Amérique du Sud abrite la [[montagne arc-en-ciel]], aussi connue sous le nom de [[Vinicunca]], située à 5 200 mètres d'altitude? <!-- cm034 corrigée 2026-11-25 -->
+
+Dans quel pays se trouve le [[Lac Titicaca]], souvent considéré comme le lac navigable le plus haut du monde, situé à environ 3 812 mètres d'altitude? <!-- cm034 corrigée 2026-11-25 -->
+
+En 1911, dans quel pays l'explorateur [[Hiram Bingham]] découvrit-il la cité inca emblématique de [[Machu Picchu]]? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Un fait étonnant est la découverte de la cité de [[Machu Picchu]] en 1911 par l'explorateur américain [[Hiram Bingham]] ; ce site archéologique inca est souvent considéré comme l'une des sept nouvelles merveilles du monde. <!-- cm034 corrigée 2026-11-25 -->
+
+Record notable, le lac [[Titicaca]], partagé avec la [[Bolivie]], est le lac navigable le plus haut du monde, culminant à environ 3 812 mètres d'altitude. <!-- cm034 corrigée 2026-11-25 -->

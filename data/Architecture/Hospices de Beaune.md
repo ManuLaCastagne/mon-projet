@@ -32,7 +32,7 @@ culture_g_justification: "Les Hospices de Beaune sont un monument français trè
 
 Dans quelle institution fondée en 1443 par [[Nicolas Rolin]] et son épouse [[Guigone de Salins]] peut-on admirer des toits aux motifs géométriques colorés devenus emblématiques de l'architecture bourguignonne ?
 
-Quel monument historique, qui abrite toujours une célèbre vente aux enchères de vin depuis 1859, présente un exemple remarquable de l'architecture gothique flamboyante en [[Bourgogne]] ?
+Quel monument historique de [[Bourgogne]], de style gothique flamboyant, finance son fonctionnement depuis 1859 par une célèbre vente aux enchères des vins de son domaine ?
 
 Dans quel lieu historique se trouve le célèbre polyptyque du [[Jugement dernier]] peint par [[Rogier van der Weyden]], une pièce maitresse de l'art du [[XVe siècle]] ?
 
@@ -45,3 +45,7 @@ Leur toit aux tuiles vernissées multicolores est devenu un symbole visuel iconi
 Fait étonnant : les Hospices de Beaune possèdent l'une des plus anciennes ventes de charité vinicole du monde, ayant débuté en 1859, et cet événement annuel majeur est encore aujourd'hui très prisé des amateurs de vin et des collectionneurs.  
 
 Le prestigieux Hôtel-Dieu, avec sa grande salle des Pôvres, témoigne de la vocation hospitalière initiale de l'établissement, qui a fonctionné comme hôpital jusqu'en 1971.
+
+###### Archives questions
+
+Quel monument historique, qui abrite toujours une célèbre vente aux enchères de vin depuis 1859, présente un exemple remarquable de l'architecture gothique flamboyante en [[Bourgogne]] ? <!-- cm034 corrigée 2026-11-25 -->

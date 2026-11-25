@@ -9,7 +9,9 @@ fin: 1974
 indice_1:
   - Spirit of St. Louis
 indice_2:
-  - Atlantic
+  - "Atlantique"
+indice_2_archive_cm034:
+  - "Atlantic"
 indice_3:
   - 1927
 indice_4:
@@ -27,16 +29,26 @@ culture_g_justification: "Lindbergh est un pionnier emblématique de l’aviatio
 
 Quel célèbre aviateur américain a été le premier à traverser l'Atlantique en solitaire et sans escale à bord du [[Spirit of Saint-Louis]] en [[1927]] ?
 
-Quel pionnier de l'aviation a joué un rôle clé dans le développement des premiers cœurs artificiels dans les années [[1960]] grâce à sa collaboration avec le médecin [[Robert Jarvik]] ?
+Quel pionnier de l'aviation a travaillé dans les années 1930 avec le chirurgien [[Alexis Carrel]] à la mise au point d'une pompe de perfusion, ancêtre de la [[circulation extra-corporelle]] ?
 
-Quel explorateur et scientifique notoire a contribué, dans les années [[1930]], aux recherches sur le vol supersonique et la réalisation future des avions à réaction avancés ?
+Quel aviateur américain, surnommé « l'Aigle solitaire », a reçu en 1927 le [[prix Orteig]] pour son vol sans escale entre New York et Paris ?
 
 ###### Description
 
 [[Charles Lindbergh]] est né à [[Détroit]] en 1902 et est devenu célèbre pour sa traversée en solo de l'Atlantique sans escale en 1927 avec son avion, le [[Spirit of St. Louis]].
 
-Un fait étonnant peu connu est qu'il a effectué cette traversée en seulement 33 heures et 30 minutes, établissant ainsi un record mondial à l'époque.
+Il a effectué cette traversée entre New York et Paris, les 20 et 21 mai 1927, en 33 heures et 30 minutes.
 
 Avant cette épopée, [[Lindbergh]] était un pilote de l'US Air Mail, ce qui lui a permis d'acquérir une grande expérience des vols à long terme.
 
 Outre ses exploits aéronautiques, [[Charles Lindbergh]] s'est également impliqué dans des controverses politiques dans les années 1930, fascinant le public par ses opinions isolationnistes et ses liens avec l'aviation allemande.
+
+###### Archives questions
+
+Quel pionnier de l'aviation a joué un rôle clé dans le développement des premiers cœurs artificiels dans les années [[1960]] grâce à sa collaboration avec le médecin [[Robert Jarvik]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+Quel explorateur et scientifique notoire a contribué, dans les années [[1930]], aux recherches sur le vol supersonique et la réalisation future des avions à réaction avancés ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Un fait étonnant peu connu est qu'il a effectué cette traversée en seulement 33 heures et 30 minutes, établissant ainsi un record mondial à l'époque. <!-- cm034 corrigée 2026-11-25 -->

@@ -25,7 +25,7 @@ culture_g_justification: "Personnage culte de l’animation francophone, exploit
 
 ###### Questions
 
-Quel pirate de l'espace, créé par [[Leiji Matsumoto]], a conquis les écrans français en [[1978]] avec un dessin animé culte dont le thème principal est la lutte contre les [[Sylvidres]] ?
+Quel pirate de l'espace, créé par [[Leiji Matsumoto]], a conquis les écrans français en [[1980]] avec un dessin animé culte dont le thème principal est la lutte contre les [[Sylvidres]] ?
 
 Quel capitaine du vaisseau [[Arcadia]] reste l'un des personnages les plus emblématiques des années [[1980]] dans l'univers des [[anime]] et a marqué des générations de téléspectateurs en France ?
 
@@ -33,10 +33,20 @@ Quel personnage aux cicatrices emblématiques est le héros d'une série d'anima
 
 ###### Description
 
-La série animée "[[Albator]], le corsaire de l'espace", initialement intitulée "[[Space Pirate Captain Harlock]]", a été créée par [[Leiji Matsumoto]] en [[1978]]. 
+La série animée "[[Albator]], le corsaire de l'espace", initialement intitulée "[[Space Pirate Captain Harlock]]", a été réalisée par [[Rintarō]] et produite par la [[Toei Animation]] en [[1978]], d'après le manga de [[Leiji Matsumoto]]. 
 
-Elle a été diffusée pour la première fois à [[Tokyo]], une ville emblématique de l'animation japonaise incontournable pour les amateurs du genre. 
+Elle a été diffusée pour la première fois au Japon sur la chaîne TV Asahi, du 14 mars 1978 au 13 février 1979. 
 
 Un fait étonnant sur la série est qu'elle est considérée comme l'une des premières œuvres importantes à aborder des questions écologiques, bien avant que ce sujet devienne une préoccupation mondiale majeure. 
 
 En [[2013]], un film d'animation en 3D intitulé "Albator, Corsaire de l'Espace" a établi un record pour être l'une des productions animées les plus coûteuses du Japon à ce jour.
+
+###### Archives questions
+
+Quel pirate de l'espace, créé par [[Leiji Matsumoto]], a conquis les écrans français en [[1978]] avec un dessin animé culte dont le thème principal est la lutte contre les [[Sylvidres]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+La série animée "[[Albator]], le corsaire de l'espace", initialement intitulée "[[Space Pirate Captain Harlock]]", a été créée par [[Leiji Matsumoto]] en [[1978]]. <!-- cm034 corrigée 2026-11-25 -->
+
+Elle a été diffusée pour la première fois à [[Tokyo]], une ville emblématique de l'animation japonaise incontournable pour les amateurs du genre. <!-- cm034 corrigée 2026-11-25 -->

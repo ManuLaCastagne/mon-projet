@@ -21,7 +21,9 @@ indice_4 :
 indice_5 : 
   - commerce maritime
 indice_6 : 
-  - Sibérie de l'Ouest
+  - "Bosphore"
+indice_6_archive_cm034:
+  - "Sibérie de l'Ouest"
 questions:
  - Communiquant avec la Méditerranée à travers la mer de Marmara par les détroits du Bosphore et des Dardanelles.
 culture_g_score: 80
@@ -32,11 +34,11 @@ culture_g_justification: "Mer stratégique fréquemment liée à la géographie 
 ![[Carte_Mer Noire.png]]
 ###### Questions
 
-Quel est le nom de la mer où se trouve le plus grand lac anoxique du monde, dépourvu d'oxygène en profondeur depuis plus de 7 000 ans ?
+Quelle mer a donné son ancien nom, le Pont-Euxin, au terme d'« euxinisme », qui désigne l'absence d'oxygène dans ses eaux profondes ?
 
 Quelle mer, située entre l'Europe de l'Est et l'Asie occidentale, a été le théâtre de la guerre de [[Crimée]] de 1853 à 1856 ?
 
-Dans quelle mer le phénomène de "sulfure d'hydrogène" persiste-t-il à des niveaux toxiques en profondeur, en grande partie en raison de l'absence de courants majeurs ?
+Dans quelle mer le sulfure d'hydrogène s'accumule-t-il à des niveaux toxiques en profondeur, parce que ses eaux profondes, plus salées, ne se mélangent pas avec les eaux de surface ?
 
 ###### Description
 
@@ -46,4 +48,14 @@ Elle est alimentée par plusieurs grands fleuves, dont le [[Danube]], ce qui en 
 
 Un fait étonnant concernant la [[Mer Noire]] est qu'elle possède la plus grande zone anoxique (sans oxygène) d'eau stratifiée dans le monde, couvrant environ 90% de sa profondeur totale, ce qui rend la plupart de ses eaux profondes pratiquement dépourvues de vie marine. 
 
-En 1985, les recherches océanographiques menées dans la région ont révélé que la stratification de ses eaux remontait à environ 7 600 ans, à la suite d'un phénomène de montée des eaux qui a brutalement modifié son écosystème.
+Dans les années 1960, des analyses au carbone 14 de sédiments ont révélé que la mer Noire était, il y a près de 8 000 ans, un lac d'eau douce, avant que des eaux salées venues de la Méditerranée ne s'y déversent par le Bosphore, bouleversant son écosystème.
+
+###### Archives questions
+
+Quel est le nom de la mer où se trouve le plus grand lac anoxique du monde, dépourvu d'oxygène en profondeur depuis plus de 7 000 ans ? <!-- cm034 corrigée 2026-11-25 -->
+
+Dans quelle mer le phénomène de "sulfure d'hydrogène" persiste-t-il à des niveaux toxiques en profondeur, en grande partie en raison de l'absence de courants majeurs ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+En 1985, les recherches océanographiques menées dans la région ont révélé que la stratification de ses eaux remontait à environ 7 600 ans, à la suite d'un phénomène de montée des eaux qui a brutalement modifié son écosystème. <!-- cm034 corrigée 2026-11-25 -->

@@ -26,7 +26,7 @@ culture_g_justification: "Le Kraken est une créature légendaire très reconnai
 
 ###### Questions
 
-Quelle créature légendaire marine, mentionnée pour la première fois au XVIIIe siècle par le scientifique [[Carolus Linnaeus]] dans son œuvre de 1735 [[Systema Naturae]], était censée hanter les eaux autour de la [[Géographie/Norvège]] et du [[Groenland]] ?
+Quelle créature légendaire marine, issue du folklore de la [[Géographie/Norvège]], a été classée parmi les céphalopodes par [[Carolus Linnaeus]] dans la première édition de son [[Systema Naturae]], en 1735 ?
 
 Quel monstre marin mythologique, qui inspire encore aujourd'hui les écrivains de science-fiction, est décrit par [[Alfred Tennyson]] en 1830 dans son poème intitulé "The [[Kraken]]" comme une créature colossale dormant au fond de l'océan ?
 
@@ -34,10 +34,24 @@ Quelle entité mythologique est connue pour sa capacité présumée à créer de
 
 ###### Description
 
-Le [[Kraken]], une créature légendaire souvent associée aux mers de [[Géographie/Norvège]] et d'[[Islande]], est couramment décrit comme un monstre marin géant ressemblant à une pieuvre ou un calamar d'une taille effrayante, capable de faire s'échouer des navires. 
+Le [[Kraken]], une créature légendaire issue des légendes scandinaves et souvent associée aux mers de [[Géographie/Norvège]], est couramment décrit comme un monstre marin géant ressemblant à une pieuvre ou un calamar d'une taille effrayante, capable de faire chavirer des navires. 
 
-Lors d'une expédition scientifique en 1830, le naturaliste français [[Pierre-Denis de Montfort]] apporte une description détaillée du Kraken, le présentant comme une créature ayant une envergure de plusieurs kilomètres, ce qui frappe l'imagination populaire.
+En 1802, le malacologiste français [[Pierre Denys de Montfort]] décrit un « kraken-pieuvre » géant dans son Histoire naturelle générale et particulière des mollusques, et lui attribue même la disparition de navires de guerre britanniques, ce qui frappe l'imagination populaire.
 
-Fait peu connu, le [[Kraken]] détient le record de la première mention historique de créature maritime dans un texte scandinave, apparaissant dans une saga islandaise du [[XIIIᵉ siècle]], ce qui en fait l'une des légendes maritimes les plus anciennes enregistrées. 
+Fait peu connu, le nom « kraken » n'apparaît jamais dans les sagas scandinaves : ce sont d'autres monstres marins, le [[Hafgufa]] et le [[Lyngbakr]], qui y sont décrits, notamment dans l'Örvar-Odds saga. 
 
-Parfois assimilé au [[calamar géant]], il n’a été formellement reconnu par la science qu'à partir de 1857, lorsqu’un spécimen est étudié par le zoologiste danois [[Japheth Steenstrup]], donnant ainsi un fondement scientifique à l’ancienne légende.
+Souvent rapproché du [[calamar géant]], qui est probablement à l'origine de sa légende, le Kraken reste une créature imaginaire : c'est le calamar géant qui a été formellement décrit par la science en 1857, par le zoologiste danois [[Japetus Steenstrup]].
+
+###### Archives questions
+
+Quelle créature légendaire marine, mentionnée pour la première fois au XVIIIe siècle par le scientifique [[Carolus Linnaeus]] dans son œuvre de 1735 [[Systema Naturae]], était censée hanter les eaux autour de la [[Géographie/Norvège]] et du [[Groenland]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Le [[Kraken]], une créature légendaire souvent associée aux mers de [[Géographie/Norvège]] et d'[[Islande]], est couramment décrit comme un monstre marin géant ressemblant à une pieuvre ou un calamar d'une taille effrayante, capable de faire s'échouer des navires. <!-- cm034 corrigée 2026-11-25 -->
+
+Lors d'une expédition scientifique en 1830, le naturaliste français [[Pierre-Denis de Montfort]] apporte une description détaillée du Kraken, le présentant comme une créature ayant une envergure de plusieurs kilomètres, ce qui frappe l'imagination populaire. <!-- cm034 corrigée 2026-11-25 -->
+
+Fait peu connu, le [[Kraken]] détient le record de la première mention historique de créature maritime dans un texte scandinave, apparaissant dans une saga islandaise du [[XIIIᵉ siècle]], ce qui en fait l'une des légendes maritimes les plus anciennes enregistrées. <!-- cm034 corrigée 2026-11-25 -->
+
+Parfois assimilé au [[calamar géant]], il n’a été formellement reconnu par la science qu'à partir de 1857, lorsqu’un spécimen est étudié par le zoologiste danois [[Japheth Steenstrup]], donnant ainsi un fondement scientifique à l’ancienne légende. <!-- cm034 corrigée 2026-11-25 -->

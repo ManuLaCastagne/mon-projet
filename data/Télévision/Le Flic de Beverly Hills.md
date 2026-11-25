@@ -31,7 +31,7 @@ Dans quel film de [[1984]], l'acteur [[Eddie Murphy]] a-t-il incarné le personn
 
 Quel film, réalisé par [[Martin Brest]], a connu un immense succès commercial et critique à sa sortie en [[1984]], devenant l'un des films les plus rentables de cette année ?
 
-Quel film inclut une scène célèbre avec une poursuite en voiture dans les rues de [[Beverly Hills]], tout en intégrant un thème musical iconique, "[[Axel F]]", composé par [[Harold Faltermeyer]] ?
+Quel film s'ouvre sur une course-poursuite destructrice dans les rues de [[Détroit]] et doit une part de sa célébrité au thème musical « [[Axel F]] », composé par [[Harold Faltermeyer]] ?
 
 ###### Description
 
@@ -39,6 +39,16 @@ Quel film inclut une scène célèbre avec une poursuite en voiture dans les rue
 
 Bien qu'il s'agisse d'un film, il a exercé une influence durable sur le monde de la télévision grâce à sa bande originale emblématique, composée par [[Harold Faltermeyer]], notamment avec le célèbre morceau instrumental "[[Axel F]]". 
 
-Un fait étonnant est que le film est devenu le film le plus rentable de l'année [[1984]] aux États-Unis et a détenu le record de la comédie classée R la plus rentable pendant presque 20 ans, jusqu'à sa défaite par "[[Very Bad Trip]]" en [[2009]]. 
+Un fait étonnant est que le film est devenu le film le plus rentable de l'année [[1984]] aux États-Unis et a détenu le record de la comédie classée R la plus rentable pendant 25 ans, jusqu'à ce que "[[Very Bad Trip]]" le dépasse en [[2009]]. 
 
-Le succès du film a donné lieu à deux suites : "Le Flic de Beverly Hills II" en [[1987]] et "Le Flic de Beverly Hills III" en [[1994]], consolidant ainsi la célébrité internationale de [[Eddie Murphy]].
+Le succès du film a donné lieu à trois suites : "[[Le Flic de Beverly Hills 2]]" en [[1987]], "[[Le Flic de Beverly Hills 3]]" en [[1994]] et "[[Le Flic de Beverly Hills : Axel F.]]" en [[2024]], consolidant ainsi la célébrité internationale d'[[Eddie Murphy]].
+
+###### Archives questions
+
+Quel film inclut une scène célèbre avec une poursuite en voiture dans les rues de [[Beverly Hills]], tout en intégrant un thème musical iconique, "[[Axel F]]", composé par [[Harold Faltermeyer]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Un fait étonnant est que le film est devenu le film le plus rentable de l'année [[1984]] aux États-Unis et a détenu le record de la comédie classée R la plus rentable pendant presque 20 ans, jusqu'à sa défaite par "[[Very Bad Trip]]" en [[2009]]. <!-- cm034 corrigée 2026-11-25 -->
+
+Le succès du film a donné lieu à deux suites : "Le Flic de Beverly Hills II" en [[1987]] et "Le Flic de Beverly Hills III" en [[1994]], consolidant ainsi la célébrité internationale de [[Eddie Murphy]]. <!-- cm034 corrigée 2026-11-25 -->

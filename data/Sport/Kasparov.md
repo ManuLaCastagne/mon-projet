@@ -28,11 +28,11 @@ culture_g_justification: "Figure incontournable des échecs, liée à Karpov, à
 
 ###### Questions
 
-Quel joueur d'échecs a été le plus jeune champion mondial à l'âge de 22 ans en 1985, battant [[Anatoli Karpov]]? <!-- score: 6 -->
+Quel joueur d'échecs est devenu en 1985, à 22 ans, le plus jeune champion du monde de l'époque, en battant [[Anatoli Karpov]] ? <!-- score: 6 -->
 
 Quel célèbre joueur d'échecs a affronté l'ordinateur [[Deep Blue]] en 1997 dans un match qui a marqué l'histoire des échecs et de l'intelligence artificielle?
 
-Quel maître des échecs a conservé son titre de champion du monde presque sans interruption de 1985 jusqu'à son retrait en 2005, un règne qui a défié plusieurs adversaires de haut niveau?
+Quel joueur d'échecs, champion du monde de 1985 à 2000, a perdu son titre face à [[Vladimir Kramnik]] avant de prendre sa retraite sportive en 2005 ?
 
 ###### Description
 
@@ -43,3 +43,9 @@ En 1985, il devient le plus jeune champion du monde d'échecs, à l'âge de 22 a
 Outre ses nombreuses victoires contre des adversaires humains, il est également célèbre pour ses matches mémorables contre l'ordinateur [[IBM]] Deep Blue, notamment en 1997. 
 
 Fait peu connu, [[Kasparov]] est aussi un auteur prolifique, ayant écrit plusieurs livres sur la stratégie échiquéenne ainsi que sur sa vision de la politique mondiale.
+
+###### Archives questions
+
+Quel joueur d'échecs a été le plus jeune champion mondial à l'âge de 22 ans en 1985, battant [[Anatoli Karpov]]? <!-- score: 6 --> <!-- cm034 corrigée 2026-11-25 -->
+
+Quel maître des échecs a conservé son titre de champion du monde presque sans interruption de 1985 jusqu'à son retrait en 2005, un règne qui a défié plusieurs adversaires de haut niveau? <!-- cm034 corrigée 2026-11-25 -->

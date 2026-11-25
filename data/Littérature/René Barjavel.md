@@ -29,7 +29,7 @@ culture_g_justification: "Auteur français d’anticipation très rentable grâc
 
 ###### Questions
 
-Quel auteur français de science-fiction a publié le roman [[Ravage]] en 1943, qui imagine une société paralysée par la panne de toutes les technologies modernes ? 
+Quel auteur français de science-fiction a publié en 1943 le roman [[Ravage]], où la disparition soudaine de l'électricité plonge la société dans le chaos ?
 
 Qui a écrit le roman [[La Nuit des temps]] en 1968, une œuvre qui explore le thème de la découverte d'une civilisation disparue sous les glaces de l'[[Antarctique]] ? 
 
@@ -43,4 +43,12 @@ Il est célèbre pour son roman "[[La Nuit des temps]]", publié en 1968, qui ex
 
 Fait étonnant : Barjavel a été l'un des premiers auteurs à théoriser le concept de paradoxe temporel avec son récit "[[Le Voyageur imprudent]]", publié en 1944, bien avant que cette idée ne soit popularisée au cinéma et dans d'autres œuvres littéraires.
 
-En plus de sa carrière littéraire, il a participé à l'adaptation cinématographique de films français, notamment en tant que scénariste pour "La Chartreuse de [[Parme]]" en 1948.
+En plus de sa carrière littéraire, il a été scénariste et dialoguiste de cinéma, notamment pour la série des films de [[Don Camillo]] avec Fernandel.
+
+###### Archives questions
+
+Quel auteur français de science-fiction a publié le roman [[Ravage]] en 1943, qui imagine une société paralysée par la panne de toutes les technologies modernes ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+En plus de sa carrière littéraire, il a participé à l'adaptation cinématographique de films français, notamment en tant que scénariste pour "La Chartreuse de [[Parme]]" en 1948. <!-- cm034 corrigée 2026-11-25 -->

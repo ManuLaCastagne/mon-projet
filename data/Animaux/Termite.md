@@ -4,7 +4,9 @@ tags:
 indice_1 : 
   - Insecte
 indice_2 : 
-  - Termitoidae
+  - "Termitoidea"
+indice_2_archive_cm034:
+  - "Termitoidae"
 indice_3 : 
   - Blattodea
 indice_4 : 
@@ -31,10 +33,14 @@ Quel animal, souvent confondu à tort avec les fourmis, est capable de causer de
 
 ###### Description
 
-Les [[Termites]], également connus sous le nom scientifique de [[Isoptera]], sont des insectes eusociaux appartenant à l'ordre zoologique des [[Blattodea]] et à la famille des [[Termitidae]]. 
+Les [[Termites]], longtemps classés dans l'ordre des [[Isoptera]], sont des insectes eusociaux appartenant aujourd'hui à l'ordre zoologique des [[Blattodea]], au sein duquel ils forment plusieurs familles, dont celle des [[Termitidae]]. 
 
 Originaires principalement des régions tropicales et subtropicales, ces créatures jouent un rôle écologique crucial en décomposant la cellulose et en recyclant les matières organiques mortes. 
 
 Dans certaines cultures, les termites sont symboles de travail acharné et de collaboration, en raison de leurs complexes sociétés organisées. 
 
 Un fait étonnant est que la reine termite peut pondre jusqu'à 30 000 œufs par jour, ce qui en fait l'une des créatures les plus prolifiques sur Terre.
+
+###### Archives description
+
+Les [[Termites]], également connus sous le nom scientifique de [[Isoptera]], sont des insectes eusociaux appartenant à l'ordre zoologique des [[Blattodea]] et à la famille des [[Termitidae]]. <!-- cm034 corrigée 2026-11-25 -->

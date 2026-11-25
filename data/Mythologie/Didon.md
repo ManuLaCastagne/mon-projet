@@ -27,7 +27,7 @@ culture_g_justification: "Figure centrale de l'Énéide, liée à la fondation d
 
 Quel personnage mythologique est la fondatrice légendaire de la cité de [[Carthage]] en [[814 av. J.-C.]] ?
 
-Quelle reine mythique a eu une histoire d'amour tragique avec le héros troyen [[Énée]], racontée dans l'[[Enéide]] de [[Virgile]], publiée en [[29 av. J.-C.]] ?
+Quelle reine mythique a eu une histoire d'amour tragique avec le héros troyen [[Énée]], racontée dans l'[[Enéide]] de [[Virgile]], publiée après la mort du poète, survenue en [[19 av. J.-C.]] ?
 
 Quel personnage est célèbre pour avoir choisi de se suicider en se jetant sur un bûcher funéraire suite à l'abandon d'[[Énée]], selon une œuvre influente écrite par [[Virgile]] au Ier siècle av. J.-C. ?
 
@@ -40,3 +40,7 @@ Selon la mythologie, elle s'est enfuie de [[Phénicie]] après la mort de son ma
 Fait surprenant, le stratagème de [[Didon]] a inspiré le concept juridique du "peau de bœuf", encore mentionné dans le domaine du droit foncier et de l'urbanisme dans certaines cultures. 
 
 Didon est également célèbre pour son rôle dans l'[[Énéide]] de [[Virgile]], où son amour tragique pour [[Énée]] symbolise les tensions entre [[Rome]] et [[Carthage]], ajoutant une dimension politique et émotionnelle à sa légende.
+
+###### Archives questions
+
+Quelle reine mythique a eu une histoire d'amour tragique avec le héros troyen [[Énée]], racontée dans l'[[Enéide]] de [[Virgile]], publiée en [[29 av. J.-C.]] ? <!-- cm034 corrigée 2026-11-25 -->

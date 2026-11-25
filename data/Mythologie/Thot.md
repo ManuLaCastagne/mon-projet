@@ -26,7 +26,7 @@ culture_g_justification: "Thot est un dieu égyptien majeur, relié à l'écritu
 
 ###### Questions
 
-Quel dieu égyptien est crédité d'avoir inventé l'écriture, permettant la communication et la transmission du savoir à partir du milieu du troisième millénaire avant [[Jésus]] ?
+Quel dieu égyptien, scribe des dieux, est crédité par la mythologie d'avoir inventé l'écriture et le langage ?
 
 Quel est le nom du dieu dans la [[mythologie égyptienne]] qui a été associé à la Lune et au calendrier, jouant un rôle crucial dans la régulation du temps et des saisons depuis environ [[3000 avant Jésus-Christ]] ? <!-- score: 3 -->
 
@@ -38,6 +38,14 @@ Dans la [[mythologie égyptienne]], qui est le dieu représenté avec une tête 
 
 Il est dit que [[Thot]] a joué un rôle crucial dans le jugement des âmes avec [[Osiris]] lors du passage vers l'au-delà, en notant le poids du cœur des défunts sur la balance de la justice divine. 
 
-Un fait étonnant à propos de [[Thot]] est qu'il aurait créé le calendrier de 365 jours, remplaçant un ancien système de seulement 360 jours, une innovation majeure qui a eu lieu autour de 3000 av. J.-C. 
+Un fait étonnant à propos de [[Thot]] est que, selon le mythe, il aurait gagné au jeu contre la Lune cinq jours supplémentaires, ajoutés hors de l'année fixée par Rê, pour permettre à la déesse [[Nout]] de mettre au monde ses enfants. 
 
 L'un des centres principaux de culte de [[Thot]] était [[Hermopolis Magna]], appelée ainsi par les Grecs en raison de l'identification de [[Thot]] avec Hermes, soulignant les échanges culturels entre les civilisations égyptienne et grecque autour de 500 av. J.-C.
+
+###### Archives questions
+
+Quel dieu égyptien est crédité d'avoir inventé l'écriture, permettant la communication et la transmission du savoir à partir du milieu du troisième millénaire avant [[Jésus]] ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Un fait étonnant à propos de [[Thot]] est qu'il aurait créé le calendrier de 365 jours, remplaçant un ancien système de seulement 360 jours, une innovation majeure qui a eu lieu autour de 3000 av. J.-C. <!-- cm034 corrigée 2026-11-25 -->

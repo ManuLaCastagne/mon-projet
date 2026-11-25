@@ -27,7 +27,7 @@ culture_g_justification: "Schönbrunn est un symbole des Habsbourg et de Vienne,
 
 ###### Questions
 
-Dans quel palais autrichien l'impératrice [[Marie-Thérèse]] a-t-elle passé ses étés à partir de 1743 ?
+Dans quel palais autrichien la famille de l'impératrice [[Marie-Thérèse]] a-t-elle passé tous ses étés à partir de 1745 ?
 
 Quel complexe architectural viennois était la résidence d'été de la famille impériale des [[Habsbourg]] et a été inscrit au patrimoine mondial de l'[[UNESCO]] en 1996 ?
 
@@ -35,10 +35,18 @@ Dans quel lieu emblématique de la capitale autrichienne se trouve la [[Gloriett
 
 ###### Description
 
-Le [[Palais de Schönbrunn]], situé à [[Vienne]], est un chef-d'œuvre de l'architecture [[baroque]] autrichienne, construit principalement entre 1696 et 1713. 
+Le [[Palais de Schönbrunn]], situé à [[Vienne]], est un chef-d'œuvre de l'architecture [[baroque]] autrichienne, dont la construction a débuté en 1696 sur des plans de [[Johann Bernhard Fischer von Erlach]], avant d'être largement remanié sous l'impératrice [[Marie-Thérèse]] par l'architecte [[Nikolaus Pacassi]]. 
 
 Ce somptueux palais fut la résidence d'été de la dynastie des [[Habsbourg]] et est aujourd'hui l'une des attractions touristiques les plus populaires d'[[Autriche]].
 
 En 1996, il a été inscrit au patrimoine mondial de l'[[UNESCO]], soulignant ainsi son importance culturelle et historique.
 
 Fait étonnant : le parc du [[Palais de Schönbrunn]] abrite le plus ancien zoo du monde encore en activité, la [[Ménagerie de Schönbrunn]], fondée en 1752.
+
+###### Archives questions
+
+Dans quel palais autrichien l'impératrice [[Marie-Thérèse]] a-t-elle passé ses étés à partir de 1743 ? <!-- cm034 corrigée 2026-11-25 -->
+
+###### Archives description
+
+Le [[Palais de Schönbrunn]], situé à [[Vienne]], est un chef-d'œuvre de l'architecture [[baroque]] autrichienne, construit principalement entre 1696 et 1713. <!-- cm034 corrigée 2026-11-25 -->
