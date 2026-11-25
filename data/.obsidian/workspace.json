@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Géographie/Alexandrie.md",
+                "file": "Sciences/Nicolas Flamel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Alexandrie.md",
+                "file": "Sciences/Nicolas Flamel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexandrie"
+              "title": "Nicolas Flamel"
             }
           }
         ],
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie/Alexandrie.md",
+                "file": "Sciences/Nicolas Flamel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,6 +364,9 @@
   },
   "active": "71252c55d9d4b291",
   "lastOpenFiles": [
+    "Sciences/Galilée.md",
+    "Télévision/La Petite Maison dans la prairie.md",
+    "Géographie/Alexandrie.md",
     "Musique/Sammy Davis Jr..md",
     "Géographie/Le Caire.md",
     "Géographie/Salto Ángel.md",
@@ -388,11 +391,8 @@
     "Géographie/Sahara.md",
     "Cinéma/Guillaume Canet.md",
     "Géographie/Islamabad.md",
-    "Histoire/Révolution de velours.md",
     "attachments/Pasted image 20261004162756.png",
     "attachments/Pasted image 20261004114857.png",
-    "Télévision/Julien Fébreau.md",
-    "Sport/Formule 1.md",
     "attachments/Pasted image 20261002105739.png",
     "attachments/Pasted image 20261002105737.png",
     "Culture générale/Sans titre 4.base",
