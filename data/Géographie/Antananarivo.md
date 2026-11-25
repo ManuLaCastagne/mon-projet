@@ -32,12 +32,20 @@ culture_g_justification: "Capitale de Madagascar utile pour les capitales, l’h
 ![[Carte_Antananarivo.png]]
 ###### Questions
 
-Quelle est la capitale de [[Madagascar]], reconnue pour sa ville haute historique, fondée par les [[Mérinas]] au XVIIe siècle ?
+Quelle capitale fut fondée au début du XVIIe siècle par le roi merina Andrianjaka ?
 
-Dans quelle ville se situe le [[Rova d'Antananarivo]], un complexe royal qui a été partiellement détruit par un incendie en 1995 mais reste un symbole important de l'histoire malgache ?
+Dans quelle capitale le palais de la Reine, au sommet de la colline royale, fut-il ravagé par un incendie en [[1995]] ?
 
-Quel est le nom de la ville située à environ 1 280 mètres d'altitude, faisant d'elle l'une des capitales les plus élevées du monde, avec un climat subtropical d'altitude ?
+Quelle capitale de l'océan Indien est perchée à environ 1 280 mètres d'altitude, sur les hautes terres de l'[[Imerina]] ?
 
 ###### Description
 
 [[Antananarivo]], souvent appelée "Tana", est la capitale de [[Madagascar]], située dans la partie centrale de l'île à environ 1 280 mètres d'altitude, offrant des vues panoramiques impressionnantes. Fondée en 1610 par le roi [[Andrianjaka]], elle est devenue le centre politique et culturel du pays. [[Antananarivo]] abrite le [[Palais de la Reine]], également connu sous le nom de [[Rova]], construit au XVIIe siècle, qui a joué un rôle crucial dans l'histoire royale de Madagascar. La ville a été intégrée au réseau mondial de l'[[OMS]] comme membre de l'Alliance des villes saines en 1998, témoignant de ses efforts pour améliorer la santé publique et l'urbanisme.
+
+###### Archives questions
+
+Dans quelle ville se situe le [[Rova d'Antananarivo]], un complexe royal qui a été partiellement détruit par un incendie en 1995 mais reste un symbole important de l'histoire malgache ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de la ville située à environ 1 280 mètres d'altitude, faisant d'elle l'une des capitales les plus élevées du monde, avec un climat subtropical d'altitude ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la capitale de [[Madagascar]], reconnue pour sa ville haute historique, fondée par les [[Mérinas]] au XVIIe siècle ? <!-- cm003 remplacée 2026-11-23 -->

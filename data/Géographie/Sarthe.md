@@ -32,7 +32,7 @@ Dans quel département français les [[24 Heures du Mans]], célèbres pour leur
 
 Quel département de la région [[Pays de la Loire]] a pour chef-lieu la ville du [[Mans]], connue pour son patrimoine historique avec la [[Cité Plantagenêt]] ?
 
-Dans quel département la rivière [[Sarthe]] prend-elle sa source avant de rejoindre la [[Loire]] à [[Angers]] ?
+Dans quel département se trouve l'abbaye bénédictine de [[Solesmes]], haut lieu du chant grégorien ?
 
 ###### Description
 
@@ -43,3 +43,7 @@ En bordant l'est de la [[Bretagne]] et en se situant au sud de la [[Normandie]],
 Un fait étonnant sur la [[Sarthe]] est qu’elle abrite le [[château de Ballon]], l’un des plus anciens de France, dont la fondation remonte au IXe siècle. 
 
 La [[Sarthe]] a également la particularité d'avoir accueilli le premier prototype d’autoroute française en 1954, le tronçon [[Saint-Denis-d’Orques]] - [[Le Mans]], marquant le début de l'ère moderne des autoroutes.
+
+###### Archives questions
+
+Dans quel département la rivière [[Sarthe]] prend-elle sa source avant de rejoindre la [[Loire]] à [[Angers]] ? <!-- cm003 remplacée 2026-11-23 -->

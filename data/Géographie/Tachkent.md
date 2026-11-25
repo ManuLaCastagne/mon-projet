@@ -28,12 +28,20 @@ culture_g_justification: "Capitale d'Asie centrale classique, associée à la ro
 ![[Carte_Tachkent.png]]
 ###### Questions
 
-Quelle est la capitale de l'[[Ouzbékistan]] où la température a atteint un record de 44,6 °C en juillet 1997 ?
+Quelle capitale d'Asie centrale fut en grande partie détruite par un séisme le 26 avril [[1966]] ?
 
-Quelle est la ville qui a accueilli le [[Sommet du Mouvement des non-alignés]] en 1992, rassemblant plus de 100 pays participants pour discuter de questions mondiales ?
+Dans quelle ville fut signée en janvier [[1966]] la déclaration mettant fin à la [[Deuxième guerre indo-pakistanaise|guerre indo-pakistanaise de 1965]] ?
 
-Dans quelle ville se trouve la [[métro de Tachkent]], inauguré en 1977, reconnu comme l'un des systèmes de transport souterrain les plus profonds au monde ?
+Quelle ville a inauguré en [[1977]] le premier métro d'Asie centrale ?
 
 ###### Description
 
 [[Tachkent]] est la capitale de l'[[Ouzbékistan]] et se trouve dans la région nord-est du pays, près de la frontière avec le [[Kazakhstan]]. Elle a été fondée au IIe siècle av. J.-C. et a longtemps été un important carrefour sur la [[Route de la soie]]. En 1966, [[Tachkent]] a subi un séisme dévastateur qui a détruit une grande partie de la ville, mais elle a depuis été reconstruite pour devenir un centre moderne et dynamique. La ville abrite des institutions prestigieuses, telles que [[l'Université nationale d'Ouzbékistan]], fondée en 1918, ce qui en fait un pôle éducatif majeur de la région.
+
+###### Archives questions
+
+Dans quelle ville se trouve la [[métro de Tachkent]], inauguré en 1977, reconnu comme l'un des systèmes de transport souterrain les plus profonds au monde ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la capitale de l'[[Ouzbékistan]] où la température a atteint un record de 44,6 °C en juillet 1997 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la ville qui a accueilli le [[Sommet du Mouvement des non-alignés]] en 1992, rassemblant plus de 100 pays participants pour discuter de questions mondiales ? <!-- cm003 remplacée 2026-11-23 -->

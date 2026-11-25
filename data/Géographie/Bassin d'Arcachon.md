@@ -32,11 +32,9 @@ culture_g_justification: "Site naturel et touristique français connu pour ses p
 ![[Carte_Bassin d'Arcachon.png]]
 ###### Questions
 
-Quel est le nom du [[bassin]] en [[Nouvelle-Aquitaine]] où une célèbre course de [[pinnaces]] se déroule depuis 1980 ?
+Dans quelle baie de [[Gironde]] se dressent les cabanes tchanquées de l'île aux Oiseaux ?
 
-Quel site naturel abrite l'[[île aux Oiseaux]] et les fameuses cabanes tchanquées, très populaires depuis les cartes postales du [[XXe siècle]] ?
-
-Quel est l'endroit où le {{Parc naturel marin du [[Bassin d'Arcachon]]}}, créé en 2014, protège les écosystèmes marins et terrestres ?
+Quelle baie de la côte aquitaine, fermée par la presqu'île du [[Cap Ferret]], est protégée par un parc naturel marin créé en [[2014]] ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Cette baie, qui couvre une superficie de 155 kilomètres carrés à marée haute
 Un fait étonnant à propos du [[Bassin d'Arcachon]] est qu'il est le seul bassin en [[Europe]] où se produit le phénomène de la marée d'amplitude zéro, qui a été observé pour la première fois en 1862. 
 
 En plus de ses beautés naturelles, la région est également renommée pour la culture des huîtres, avec la tradition ostréicole datant de 1849, ce qui en fait une destination culinaire incontournable.
+
+###### Archives questions
+
+Quel est l'endroit où le {{Parc naturel marin du [[Bassin d'Arcachon]]}}, créé en 2014, protège les écosystèmes marins et terrestres ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du [[bassin]] en [[Nouvelle-Aquitaine]] où une célèbre course de [[pinnaces]] se déroule depuis 1980 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel site naturel abrite l'[[île aux Oiseaux]] et les fameuses cabanes tchanquées, très populaires depuis les cartes postales du [[XXe siècle]] ? <!-- cm003 remplacée 2026-11-23 -->

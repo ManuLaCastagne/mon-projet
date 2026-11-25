@@ -30,11 +30,19 @@ culture_g_justification: "Capitale des Bahamas apparaissant dans les questions s
 ![[Carte_Nassau.png]]
 ###### Questions
 
-Quelle est la capitale qui abrite le célèbre escalier Queen's Staircase, construit par des esclaves autour de 1793, à l'honneur de la reine [[Reine Victoria]] et situé sur l'île de [[New Providence]] ? 
+Quelle capitale possède un escalier taillé dans le calcaire par des esclaves à la fin du XVIIIe siècle, nommé plus tard en l'honneur de la reine [[Victoria (reine du Royaume-Uni)|Victoria]] ?
 
-Dans quelle ville peut-on visiter la maison de [[Pirate Henry Morgan]], devenue aujourd'hui le musée [[Pirates of Nassau]], qui retrace l'histoire de la piraterie et de la contrebande dans les [[Caraïbes]] ? <!-- score: 5 -->
+Quelle ville fut au début du XVIIIe siècle le repaire de pirates comme [[Barbe Noire]] ?
 
-Quelle capitale est à la fois la plus grande ville des [[Bahamas]] et le centre commercial et culturel de cet archipel, tout en étant fondée en 1670 par les [[colons britanniques]] ?
+Quelle capitale des [[Bahamas]] se trouve sur l'île de [[New Providence]] ?
 ###### Description
 
 [[Nassau]], fondée en 1670, est la capitale des [[Bahamas]] et est située sur l'île de [[New Providence]]. Cette ville a été nommée en l'honneur de [[Guillaume III d'Orange-Nassau]], qui devint roi d'Angleterre en 1689. Elle est célèbre pour ses plages paradisiaques, son architecture coloniale et son rôle historique dans la piraterie caribéenne, qui a atteint son apogée au début du XVIIIe siècle. [[Nassau]] a également accueilli le festival annuel de [[Junkanoo]], une célébration culturelle qui a lieu le lendemain de Noël, depuis les années 1920.
+
+###### Archives questions
+
+Dans quelle ville peut-on visiter la maison de [[Pirate Henry Morgan]], devenue aujourd'hui le musée [[Pirates of Nassau]], qui retrace l'histoire de la piraterie et de la contrebande dans les [[Caraïbes]] ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la capitale qui abrite le célèbre escalier Queen's Staircase, construit par des esclaves autour de 1793, à l'honneur de la reine [[Reine Victoria]] et situé sur l'île de [[New Providence]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle capitale est à la fois la plus grande ville des [[Bahamas]] et le centre commercial et culturel de cet archipel, tout en étant fondée en 1670 par les [[colons britanniques]] ? <!-- cm003 remplacée 2026-11-23 -->

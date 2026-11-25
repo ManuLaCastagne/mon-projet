@@ -29,11 +29,11 @@ culture_g_justification: "Ville provençale surtout rentable grâce au personnag
 
 ###### Questions
 
-Quelle ville française abrite le [[Château de Tarascon]], une imposante forteresse médiévale dont la construction a débuté au milieu du [[15e siècle]] ?
+Quelle ville des [[Bouches-du-Rhône]] fait face à [[Beaucaire]] de l'autre côté du [[Rhône]] ?
 
-Quel lieu, mentionné dans le livre "Tartarin de [[Tarascon]]" publié en [[1872]], est célèbre pour ses histoires d'aventurier par [[Alphonse Daudet]] ?
+De quelle ville provençale est originaire Tartarin, le héros d'[[Alphonse Daudet]] paru en [[1872]] ?
 
-Quelle commune est située sur la rive gauche du [[Rhône]] et est connue pour son célèbre [[marché provençal]] qui se tient chaque mardi depuis plusieurs siècles ?
+Dans quelle ville provençale sainte Marthe aurait-elle dompté un monstre amphibie légendaire ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle est célèbre pour son château médiéval, le [[Château de Tarascon]], co
 [[Tarascon]] est également connue pour être l'un des rares endroits en [[France]] où l'on célèbre encore la « [[Tarasque]] », ce qui en fait un site fascinant pour les amateurs de mythes locaux ; la fête a été reconnue héritage culturel immatériel en 2008 par l’UNESCO. 
 
 Fait étonnant, [[Tarascon]] détient le record d’avoir la plus ancienne foire aux chevaux de [[France]], datant de 1593, un événement qui attire chaque année des passionnés du monde entier.
+
+###### Archives questions
+
+Quelle ville française abrite le [[Château de Tarascon]], une imposante forteresse médiévale dont la construction a débuté au milieu du [[15e siècle]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel lieu, mentionné dans le livre "Tartarin de [[Tarascon]]" publié en [[1872]], est célèbre pour ses histoires d'aventurier par [[Alphonse Daudet]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle commune est située sur la rive gauche du [[Rhône]] et est connue pour son célèbre [[marché provençal]] qui se tient chaque mardi depuis plusieurs siècles ? <!-- cm003 remplacée 2026-11-23 -->

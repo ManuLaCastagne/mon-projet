@@ -34,8 +34,12 @@ Quelle est la [[capitale]] et plus grande ville de la [[Macédoine du Nord]], si
 
 En 1963, quelle ville a été dévastée par un tremblement de terre qui a détruit environ 80 % de ses bâtiments, entraînant une vaste opération de reconstruction ?
 
-Dans quelle ville du [[Balkans]] peut-on voir un projet architectural unique intitulé "[[Skopje 2014]]", qui a introduit de nombreux nouveaux monuments et bâtiments de style néoclassique ?
+Dans quelle ville est née en [[1910]] [[Mère Teresa]] ?
 
 ###### Description
 
 [[Skopje]], la capitale de la [[Macédoine du Nord]], est une ville riche d'histoire et de culture, située sur les rives de la rivière [[Vardar]]. Elle abrite le pont de pierre emblématique datant du VIe siècle, construit à l'époque de [[Justinien Ier]], qui symbolise le lien entre le passé et le présent. En 1963, Skopje a subi un tremblement de terre dévastateur qui a détruit environ 80 % de la ville, mais elle a été reconstruite avec l'aide notable de l'architecte japonais [[Kenzo Tange]]. Aujourd'hui, Skopje est connue pour le projet de réaménagement urbain "Skopje 2014", qui vise à transformer son centre-ville avec de nombreux nouveaux bâtiments et monuments, y compris le colossal [[Statue du Guerrier]], souvent associé à [[Alexandre le Grand]].
+
+###### Archives questions
+
+Dans quelle ville du [[Balkans]] peut-on voir un projet architectural unique intitulé "[[Skopje 2014]]", qui a introduit de nombreux nouveaux monuments et bâtiments de style néoclassique ? <!-- cm003 remplacée 2026-11-23 -->

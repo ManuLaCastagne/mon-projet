@@ -32,12 +32,18 @@ culture_g_justification: "Capitale africaine classique à connaître, mais gén�
 ![[Carte_Bamako.png]]
 ###### Questions
 
-Quelle est la capitale du [[Mali]], située sur les rives du fleuve [[Niger]], qui a accueilli la conférence inaugurale de la [[Fédération d'Afrique de l'Ouest]] en 1959 ?
+Quelle est la capitale du [[Mali]], sur les rives du fleuve [[Niger]] ?
 
-Quelle ville, ayant connu une importante croissance démographique depuis 1960 pour devenir l'une des villes les plus peuplées d'[[Afrique de l'Ouest]], est la capitale de l'ancienne colonie française du [[Soudan français]] ?
-
-Dans quelle ville, devenue un centre culturel et administrativement central en raison de sa position stratégique, trouve-t-on la [[Grande Mosquée de Bamako]], construite en 1977 ?
+Quelle ville fut la capitale du [[Soudan français]] avant de devenir celle du Mali indépendant ?
 
 ###### Description
 
 [[Bamako]], la capitale du [[Mali]], est située sur les rives du fleuve [[Niger]], qui joue un rôle crucial dans le développement de la ville. En 1806, [[Mungo Park]], un explorateur écossais, a été l'un des premiers Européens à visiter la région, marquant ainsi une étape importante dans l'histoire de l'exploration africaine. La ville de Bamako a connu une croissance spectaculaire au cours du XXe siècle, notamment après être devenue la capitale du [[Soudan français]] en 1908. Aujourd'hui, Bamako est un centre administratif et commercial dynamique, représentant le cœur politique et culturel du pays depuis l'indépendance du Mali en 1960.
+
+###### Archives questions
+
+Dans quelle ville, devenue un centre culturel et administrativement central en raison de sa position stratégique, trouve-t-on la [[Grande Mosquée de Bamako]], construite en 1977 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle est la capitale du [[Mali]], située sur les rives du fleuve [[Niger]], qui a accueilli la conférence inaugurale de la [[Fédération d'Afrique de l'Ouest]] en 1959 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville, ayant connu une importante croissance démographique depuis 1960 pour devenir l'une des villes les plus peuplées d'[[Afrique de l'Ouest]], est la capitale de l'ancienne colonie française du [[Soudan français]] ? <!-- cm003 remplacée 2026-11-23 -->

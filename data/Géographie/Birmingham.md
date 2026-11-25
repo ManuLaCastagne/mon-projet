@@ -26,11 +26,9 @@ culture_g_justification: "Grande ville industrielle britannique, Birmingham est 
 
 ###### Questions
 
-Dans quelle ville se trouve le [[Bull Ring]], l'un des plus anciens centres commerciaux au monde, ayant été mentionné pour la première fois dans des documents officiels en [[1156]] ?
+Quelle ville anglaise a accueilli les [[Jeux du Commonwealth]] en [[2022]] ?
 
-Quelle ville anglaise est considérée comme le berceau de la [[Révolution industrielle]] au XVIIIe siècle, grâce notamment aux contributions du célèbre inventeur [[James Watt]] qui y a amélioré la machine à vapeur en [[1776]] ?
-
-Dans quelle ville se déroule chaque année le [[Birmingham International Jazz Festival]], célébré pour la première fois en [[1985]] et qui attire désormais des musiciens du monde entier ?
+Près de quelle ville anglaise [[James Watt]] et [[Matthew Boulton]] produisirent-ils des machines à vapeur à la manufacture de Soho, à partir de [[1775]] ?
 
 ###### Description
 
@@ -41,3 +39,11 @@ Elle a joué un rôle clé pendant la [[Révolution industrielle]], grâce à sa
 Un fait étonnant est que [[Birmingham]] abrite plus de 8 000 acres de parcs et d'espaces verts, ce qui en fait l'une des villes les plus verdoyantes d'Europe. 
 
 En 1791, elle était surnommée la "ville du millier de métiers", en raison de sa puissance manufacturière et de la diversité de ses productions artisanales.
+
+###### Archives questions
+
+Dans quelle ville se déroule chaque année le [[Birmingham International Jazz Festival]], célébré pour la première fois en [[1985]] et qui attire désormais des musiciens du monde entier ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle ville anglaise est considérée comme le berceau de la [[Révolution industrielle]] au XVIIIe siècle, grâce notamment aux contributions du célèbre inventeur [[James Watt]] qui y a amélioré la machine à vapeur en [[1776]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle ville se trouve le [[Bull Ring]], l'un des plus anciens centres commerciaux au monde, ayant été mentionné pour la première fois dans des documents officiels en [[1156]] ? <!-- cm003 remplacée 2026-11-23 -->

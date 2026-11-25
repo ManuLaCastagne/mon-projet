@@ -30,12 +30,20 @@ culture_g_justification: "Capitale du Costa Rica régulièrement utilisée pour 
 ![[Carte_San José.png]]
 ###### Questions
 
-Quelle est la capitale du [[Costa Rica]] qui a été la première ville hispanophone à être illuminée par l'électricité publique en 1884 ?
+Quelle capitale d'Amérique centrale fut, en [[1884]], l'une des premières villes au monde dotées d'un éclairage public électrique ?
 
-Quelle ville a été l'hôte de la conférence fondatrice de l'[[Organisation des États américains]] ([[OEA]]) en 1948 ? <!-- score: 4 -->
+Quelle ville de [[Californie]], au cœur de la [[Silicon Valley]], accueille l'équipe de hockey des Sharks ?
 
-Quel est le musée situé dans [[San José]], qui contient la plus grande collection d'objets d'art précolombien en [[or]] d'Amérique centrale ?
+Quelle est la capitale du [[Costa Rica]] ?
 
 ###### Description
 
 [[San José]] est la capitale du [[Costa Rica]] et a été fondée en 1737, devenant la capitale officielle en 1823 après l’indépendance de l'Espagne. Située dans la vallée centrale, cette ville est entourée de montagnes et de volcans, offrant un cadre naturel impressionnant et propice à l'agriculture. Elle abrite des institutions culturelles majeures, comme le [[Théâtre National du Costa Rica]], inauguré en 1897, et le [[Musée de l'Or]], qui expose des artefacts précolombiens précieux. [[San José]] est également un centre technologique en plein essor, gagnant le surnom de "[[Silicon Valley]] de l'Amérique latine" depuis le début des années 2000.
+
+###### Archives questions
+
+Quel est le musée situé dans [[San José]], qui contient la plus grande collection d'objets d'art précolombien en [[or]] d'Amérique centrale ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la capitale du [[Costa Rica]] qui a été la première ville hispanophone à être illuminée par l'électricité publique en 1884 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a été l'hôte de la conférence fondatrice de l'[[Organisation des États américains]] ([[OEA]]) en 1948 ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

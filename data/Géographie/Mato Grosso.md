@@ -32,11 +32,9 @@ culture_g_justification: "État brésilien important pour le Pantanal, l'agricul
 ![[Carte_Mato Grosso.png]]
 ###### Questions
 
-Quelle région du [[Brésil]] abrite le Parc national de la Chapada dos Guimarães, connu pour ses formations rocheuses spectaculaires et ses cascades, situé dans l'État du [[Mato Grosso]] ?
+Quel État brésilien a pour capitale [[Cuiabá]] ?
 
-Quel État brésilien, dont la capitale est [[Cuiabá]], a vu sa population significativement augmenter après la création du [[Pôle de Développement Agro-Industriel]] en 1975, favorisant ainsi l'expansion de l'agriculture et de l'élevage ?
-
-Dans quel État se situe la vaste région du [[Pantanal]], considérée comme l'une des plus grandes zones humides du monde, qui fait face à des menaces accrues en raison de la déforestation et des incendies depuis les années 2000 ?
+Quel État brésilien, dont le nom signifie « forêt épaisse », s'étend du [[Pantanal]] au sud de l'Amazonie ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ Fondé en 1822, cet état est plus grand que la France métropolitaine, avec une
 Un fait étonnant est que le [[Mato Grosso]] abrite une des zones humides les plus vastes et les plus riches en biodiversité du monde, le [[Pantanal]], qui couvre environ 210 000 km², soit à peu près la taille de la [[Grande-Bretagne]]. 
 
 Un autre aspect remarquable est que le [[Mato Grosso]] est aussi un important producteur mondial de soja, et la ville de [[Sorriso]], surnommée la "capitale nationale du soja", se situe dans cet état.
+
+###### Archives questions
+
+Quelle région du [[Brésil]] abrite le Parc national de la Chapada dos Guimarães, connu pour ses formations rocheuses spectaculaires et ses cascades, situé dans l'État du [[Mato Grosso]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel État brésilien, dont la capitale est [[Cuiabá]], a vu sa population significativement augmenter après la création du [[Pôle de Développement Agro-Industriel]] en 1975, favorisant ainsi l'expansion de l'agriculture et de l'élevage ? <!-- cm003 archivée 2026-11-23 -->
+
+Dans quel État se situe la vaste région du [[Pantanal]], considérée comme l'une des plus grandes zones humides du monde, qui fait face à des menaces accrues en raison de la déforestation et des incendies depuis les années 2000 ? <!-- cm003 remplacée 2026-11-23 -->

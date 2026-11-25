@@ -28,12 +28,18 @@ culture_g_justification: "Capitale du Caucase utile pour la géographie, l'histo
 ![[Carte_Tbilissi.png]]
 ###### Questions
 
-Quelle est la capitale de la [[Géorgie (pays)]], un pays situé à la croisée de l'[[Europe]] et de l'[[Asie]], reconnu pour ses sources d'eaux chaudes sulfureuses ?  
+Quelle capitale du [[Caucase]], traversée par la [[Koura]], doit son nom à ses sources chaudes ?
 
-En 1989, quel événement historique majeur a eu lieu dans la ville de [[Tbilissi]], marquant le début de la fin de la domination soviétique en [[Géorgie (pays)]] ?  
-
-Quel est le lieu d'origine du rugissement artistique de [[Tamara Kvesitadze]], connue pour son œuvre sensorielle et cinétique "[[Man and Woman]]", qui s'exprime dans une sculpture emblématique située à [[Tbilissi]] depuis 2010 ?
+Dans quelle ville les troupes soviétiques réprimèrent-elles dans le sang une manifestation indépendantiste le 9 avril [[1989]] ?
 
 ###### Description
 
 [[Tbilissi]], la capitale de la [[Géorgie (pays)]], est située sur les rives de la rivière [[Koura]], également connue sous le nom de [[Mtkvari]]. Fondée au Ve siècle par le roi [[Vakhang Ier Gorgassali]], Tbilissi a longtemps été un carrefour commercial entre l'Europe et l'Asie. En 1921, elle est devenue la capitale de la [[République socialiste soviétique de Géorgie]] avant de retrouver son statut de capitale de la Géorgie indépendante en 1991. La ville est renommée pour ses divers styles architecturaux, allant des structures médiévales aux édifices soviétiques et aux constructions modernes.
+
+###### Archives questions
+
+En 1989, quel événement historique majeur a eu lieu dans la ville de [[Tbilissi]], marquant le début de la fin de la domination soviétique en [[Géorgie (pays)]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le lieu d'origine du rugissement artistique de [[Tamara Kvesitadze]], connue pour son œuvre sensorielle et cinétique "[[Man and Woman]]", qui s'exprime dans une sculpture emblématique située à [[Tbilissi]] depuis 2010 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quelle est la capitale de la [[Géorgie (pays)]], un pays situé à la croisée de l'[[Europe]] et de l'[[Asie]], reconnu pour ses sources d'eaux chaudes sulfureuses ? <!-- cm003 remplacée 2026-11-23 -->

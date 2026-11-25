@@ -32,11 +32,9 @@ culture_g_justification: "Le Salvador constitue une référence géographique co
 ![[Carte_Salvador.png]]
 ###### Questions
 
-Quelle ville est devenue la première capitale d'[[El Salvador]] lorsque le pays a obtenu son indépendance de l'[[Empire espagnol]] en 1834 ?
+Quel pays, le plus petit d'Amérique centrale, est le seul de la région sans côte sur la mer des Caraïbes ?
 
-Quelle ville a été le site d'une tentative de coup d'État en 1991 ayant provoqué une crise politique majeure en [[Salvador]] ? <!-- score: 6 -->
-
-Quel département d'[[El Salvador]] est connu pour abriter l'une des plus anciennes universités d'Amérique centrale, fondée en 1841 ?
+Quel pays d'[[Amérique centrale]] a adopté le dollar américain en [[2001]], puis le [[bitcoin]] comme monnaie légale en [[2021]] ?
 
 ###### Description
 
@@ -47,3 +45,11 @@ La capitale, [[San Salvador]], est située dans une vallée entourée de volcans
 Un fait étonnant à propos de Salvador est qu'il est le seul pays d'Amérique centrale à ne pas avoir de côte sur la mer des Caraïbes, se trouvant uniquement le long de l'océan Pacifique. 
 
 D’après les archives climatiques, [[Salvador]] a enregistré des températures record lors de canicules, atteignant jusqu'à 45 degrés Celsius, un fait surprenant pour un pays tropical.
+
+###### Archives questions
+
+Quelle ville est devenue la première capitale d'[[El Salvador]] lorsque le pays a obtenu son indépendance de l'[[Empire espagnol]] en 1834 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle ville a été le site d'une tentative de coup d'État en 1991 ayant provoqué une crise politique majeure en [[Salvador]] ? <!-- score: 6 --> <!-- cm003 archivée 2026-11-23 -->
+
+Quel département d'[[El Salvador]] est connu pour abriter l'une des plus anciennes universités d'Amérique centrale, fondée en 1841 ? <!-- cm003 remplacée 2026-11-23 -->
