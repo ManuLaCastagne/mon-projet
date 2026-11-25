@@ -133,6 +133,9 @@ de questions, sur une branche `cm034/verification` et une demande de fusion déd
    verdicts `juste` / `faux` / `imprécis` / `invérifiable` ; `faux` exige une source consultée, jamais la mémoire ; correction
    rédigée, sourcée, dont la réponse reste le nom de la fiche sans le citer. Signaler les fiches qui mélangent deux concepts
    et les noms mal orthographiés : **ne pas les corriger, les lister pour le PO.**
+   Pour recommander le concept à garder, vérifier d'abord si une fiche du même nom existe dans un autre dossier
+   (`find data -iname "<Nom>.md"`) : le concept qui a déjà sa fiche ailleurs n'est pas celui à garder (erreur du 25/11/2026 :
+   Musique/Corneille proposée pour l'oiseau alors qu'Animaux/Corneille existait).
 4. Application : `python3 -I verification/appliquer_verdicts.py <mon-projet> verdicts*.json` (simulation), puis `--ecrire`,
    qui ajoute aussi `verifie_cm034: <date>` à chaque fiche vérifiée (corrigée ou non).
    L'outil `corriger_faits.py` archive chaque original (`###### Archives questions` / `###### Archives description`,
