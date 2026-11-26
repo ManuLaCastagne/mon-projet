@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sciences/Nicolas Flamel.md",
+                "file": "Histoire/Napoléon Bonaparte.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences/Nicolas Flamel.md",
+                "file": "Histoire/Napoléon Bonaparte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nicolas Flamel"
+              "title": "Napoléon Bonaparte"
             }
           }
         ],
@@ -323,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sciences/Nicolas Flamel.md",
+                "file": "Histoire/Napoléon Bonaparte.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,6 +364,8 @@
   },
   "active": "71252c55d9d4b291",
   "lastOpenFiles": [
+    "Cinéma/Napoléon.md",
+    "Sciences/Nicolas Flamel.md",
     "Télévision/Élise Lucet.md",
     "Sciences/Alexandre Popov.md",
     "Religion/Thérèse d'Avila.md",
@@ -389,8 +391,6 @@
     "Géographie/Chili.md",
     "Géographie/Uruguay.md",
     "Histoire/Empire romain.md",
-    "Histoire/Légion d'honneur.md",
-    "Histoire/Sténo.md",
     "attachments/Pasted image 20261004162756.png",
     "attachments/Pasted image 20261004114857.png",
     "attachments/Pasted image 20261002105739.png",
