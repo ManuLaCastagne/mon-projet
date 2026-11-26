@@ -31,11 +31,11 @@ culture_g_justification: "Acteur très célèbre grâce à «Deux flics à Miami
 
 Quel acteur américain chante "[[Tell it like it is]]", classique du rythm and blues ?
 
-Dans quelle chanson de [[Don Johnson]] sortie en 1986 trouve-t-on sa collaboration avec [[Barbra Streisand]] pour les chœurs ?
+Quel acteur de « [[Deux flics à Miami]] » chante avec [[Willie Nelson]] « Star Tonight », titre de [[Bob Seger]], sur son album de 1986 ?
 
-Quel album de [[Don Johnson]] a été publié en 1989 et contient le single [[Other People's Lives]] coécrit par [[Dweezil Zappa]] ?
+Quel acteur américain a sorti en 1989 l'album « Let It Roll », qui s'ouvre sur « Other People's Lives » écrit par [[Diane Warren]] ?
 
-Quel titre de [[Don Johnson]] a atteint la cinquième place du [[Billboard Hot 100]] en 1986 aux États-Unis ?
+Quel acteur de « [[Deux flics à Miami]] » a atteint la 5e place du [[Billboard Hot 100]] en 1986 avec la chanson « Heartbeat » ?
 
 ###### Description
 
@@ -46,3 +46,11 @@ En 1986, il a sorti son premier album intitulé "[[Heartbeat]]", qui a connu un 
 Fait étonnant : peu le savent, mais [[Don Johnson]] a été décrit comme un véritable précurseur de mode grâce à ses costumes pastel et son style distinctif dans les années 1980, dont l'influence s'est étendue bien au-delà de l'écran. 
 
 Il a également remporté le prix du [[Golden Globe]] du meilleur acteur dans une série télévisée dramatique en 1986, consolidant ainsi sa position d'icône tant musicale que télévisuelle.
+
+###### Archives questions
+
+Dans quelle chanson de [[Don Johnson]] sortie en 1986 trouve-t-on sa collaboration avec [[Barbra Streisand]] pour les chœurs ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album de [[Don Johnson]] a été publié en 1989 et contient le single [[Other People's Lives]] coécrit par [[Dweezil Zappa]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel titre de [[Don Johnson]] a atteint la cinquième place du [[Billboard Hot 100]] en 1986 aux États-Unis ? <!-- cm003 remplacée 2026-11-23 -->

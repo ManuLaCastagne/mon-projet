@@ -29,11 +29,11 @@ culture_g_justification: "Titre et terme culturellement datés, dont la présenc
 
 ###### Questions
 
-Qui a interprété le single intitulé "Surprise-partie" en 1963 ?
+Quel type de fête, abrégé dans les années 1950 en « surpat' » puis en « surboum », a donné naissance au mot « boum » ?
 
-Quel terme français est utilisé pour désigner une fête où l'on danse, popularisé dans le titre "Surprise-partie" par [[Richard Anthony]] ?
+Quel type de fête est au cœur du roman « [[Vercoquin et le Plancton]] » de [[Boris Vian]], publié en 1947 ?
 
-À quelle époque musicale appartient le single "Surprise-partie" sorti en 1963 et qui correspond à une chanson emblématique de la pop française ?
+Quel type de fête, venu d'Amérique du Nord, le journal « [[Gil Blas]] » décrit-il en 1882 comme une invention de la colonie américaine de Paris ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ La surprise-partie, une pratique sociale des années 1960, était à l'origine e
 Un fait étonnant à propos des surprise-parties est que c'est lors de l'une d'elles, en 1962, que [[Johnny Hallyday]] a enregistré son célèbre album "Johnny à l'Olympia" en live. 
 
 Les surprise-parties ont radicalement changé la scène musicale française, initiant des modes de consommation musicale qui ont influencé des générations entières.
+
+###### Archives questions
+
+Qui a interprété le single intitulé "Surprise-partie" en 1963 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel terme français est utilisé pour désigner une fête où l'on danse, popularisé dans le titre "Surprise-partie" par [[Richard Anthony]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+À quelle époque musicale appartient le single "Surprise-partie" sorti en 1963 et qui correspond à une chanson emblématique de la pop française ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Nouvelle emblématique de Maupassant, utile pour le na
 
 ###### Questions
 
-Dans quelle nouvelle de [[Guy de Maupassant]] publiée en 1880 trouve-t-on le personnage de [[Élisabeth Rousset]], surnommée [[Boule de Suif]] ?
+Quelle nouvelle de [[Guy de Maupassant]], parue en 1880 et dont l'héroïne s'appelle Élisabeth Rousset, [[Gustave Flaubert]] qualifia-t-il de « chef-d'œuvre » ?
 
 Quel récit court de la littérature française raconte les péripéties d'une prostituée durant la [[Guerre franco-prussienne]] de 1870 et fait partie du recueil collectif ''[[Les Soirées de Médan]]'' ?
 
-Quel ouvrage de fiction, qui dépeint les tensions entre la bourgeoisie et une femme de mauvaise réputation, a été largement inspiré par les événements de la [[défaite française de 1871]] ?
+Quelle nouvelle de [[Guy de Maupassant]] a inspiré, via « Stage to Lordsburg » d'[[Ernest Haycox]], le western « [[La Chevauchée fantastique]] » de [[John Ford]] (1939) ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ L'intrigue suit [[Elisabeth Rousset]], surnommée **Boule de Suif**, une prostit
 Un fait étonnant à propos de "Boule de Suif" est que cette œuvre a été inspirée par un trajet en diligence que [[Maupassant]] a réellement fait entre Rouen et Le Havre en pleine nuit, ce qui a stimulé son imagination pour créer ce récit hautement symbolique.
 
 Ce texte fait partie de l'anthologie "Les Soirées de Médan", qui a fortement contribué à asseoir la réputation des écrivains naturalistes en France.
+
+###### Archives questions
+
+Dans quelle nouvelle de [[Guy de Maupassant]] publiée en 1880 trouve-t-on le personnage de [[Élisabeth Rousset]], surnommée [[Boule de Suif]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel ouvrage de fiction, qui dépeint les tensions entre la bourgeoisie et une femme de mauvaise réputation, a été largement inspiré par les événements de la [[défaite française de 1871]] ? <!-- cm003 remplacée 2026-11-23 -->

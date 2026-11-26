@@ -30,11 +30,11 @@ culture_g_justification: "Tragédie universelle de Shakespeare, incontournable p
 
 ###### Questions
 
-Quel [[drame]] de [[William Shakespeare]], écrit autour de 1606, présente le thème de l'ambition destructrice à travers l'histoire d'un noble écossais tentant de devenir roi?
+Dans quel drame shakespearien la [[forêt de Birnam]] semble-t-elle marcher vers le château de [[Dunsinane]] ?
 
-Quelle pièce, jouée pour la première fois en 1606, est connue pour sa malédiction dans le monde du théâtre, où certains acteurs évitent même de prononcer son nom?
+Quelle tragédie les comédiens superstitieux surnomment-ils « la pièce écossaise » pour éviter de prononcer son titre dans un théâtre ?
 
-Dans quel [[tragédie]] shakespearienne, publiée dans le [[First Folio]] de 1623, trouve-t-on les personnages de [[Lady Macbeth]] et les célèbres [[trois sorcières]]? <!-- score: 9 -->
+Dans quelle pièce de [[William Shakespeare]] trois sorcières prédisent-elles au thane de Glamis qu'il sera thane de Cawdor puis roi ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Cette œuvre explore la montée au pouvoir et la chute tragique de [[Macbeth]], 
 Un fait étonnant est que "Macbeth" détient le record du rôle féminin le plus complexe à interpréter dans le théâtre, Lady Macbeth étant régulièrement citée comme l'un des personnages les plus exigeants en termes d'intensité psychologique pour les actrices.
 
 Curieusement, la pièce est souvent surnommée "la pièce écossaise" dans le monde du théâtre, car mentionner le titre "Macbeth" dans un théâtre est considéré comme un porte-malheur, un phénomène de superstition qui persiste depuis le XVIIe siècle.
+
+###### Archives questions
+
+Dans quel [[tragédie]] shakespearienne, publiée dans le [[First Folio]] de 1623, trouve-t-on les personnages de [[Lady Macbeth]] et les célèbres [[trois sorcières]]? <!-- score: 9 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle pièce, jouée pour la première fois en 1606, est connue pour sa malédiction dans le monde du théâtre, où certains acteurs évitent même de prononcer son nom? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel [[drame]] de [[William Shakespeare]], écrit autour de 1606, présente le thème de l'ambition destructrice à travers l'histoire d'un noble écossais tentant de devenir roi? <!-- cm003 remplacée 2026-11-23 -->

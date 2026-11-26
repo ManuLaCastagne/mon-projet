@@ -29,11 +29,11 @@ culture_g_justification: "Écrivaine célèbre sous le nom d’Isak Dinesen, for
 
 ###### Questions
 
-Dans quel pays l'autrice [[Karen Blixen]] a-t-elle passé dix-sept années de sa vie avant de retourner au [[Danemark]] en 1931 ?
+Quelle écrivaine danoise débarque à [[Mombasa]] le 14 janvier 1914 pour exploiter une plantation de café au [[Kenya]], qu'elle quitte en 1931 ?
 
-Quel est le véritable nom de la célèbre écrivaine danoise [[Karen Blixen]], connue pour son œuvre "La Ferme africaine" publiée en 1937 ?
+Quelle romancière publie en 1934, sous le pseudonyme d'[[Isak Dinesen]], les « [[Sept contes gothiques]] » ?
 
-Quel célèbre livre de [[Karen Blixen]] a servi de base au film primé aux [[Oscars]] "Out of Africa" sorti en 1985 ?
+Quelle autrice danoise a vu « [[La Ferme africaine]] » adapté au cinéma par [[Sydney Pollack]] sous le titre « [[Out of Africa]] » (1985) ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 1954, elle fut nommée au [[Prix Nobel de littérature]], bien qu'elle ne l�
 Fait étonnant, peu de gens savent que [[Karen Blixen]] était également une fine cuisinière et qu’en 1961, elle participa à la rédaction d’un livre de recettes intitulé "Dine and Wine" rassemblant des spécialités culinaires danoise et kényane. 
 
 Elle est née en 1885 et a passé une période significative de sa vie en Afrique jusqu'en 1931, avant de retourner au [[Danemark]] où elle continua d'écrire jusqu'à sa mort en 1962.
+
+###### Archives questions
+
+Dans quel pays l'autrice [[Karen Blixen]] a-t-elle passé dix-sept années de sa vie avant de retourner au [[Danemark]] en 1931 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le véritable nom de la célèbre écrivaine danoise [[Karen Blixen]], connue pour son œuvre "La Ferme africaine" publiée en 1937 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre livre de [[Karen Blixen]] a servi de base au film primé aux [[Oscars]] "Out of Africa" sorti en 1985 ? <!-- cm003 remplacée 2026-11-23 -->

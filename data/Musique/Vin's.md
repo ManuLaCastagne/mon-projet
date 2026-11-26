@@ -29,11 +29,11 @@ culture_g_justification: "Artiste de rap francophone émergent, encore trop peu 
 
 ###### Questions
 
-Dans quelle catégorie [[Musique]] a brillamment performé le chanteur [[Vin's]] lors du concours de nouvelles voix en 2021 ?
+Quel rappeur français né à [[Avignon]] a emprunté son nom de scène au personnage de Vinz dans le film [[La Haine]] ?
 
-Quel artiste connu sous le pseudonyme [[Vin's]] a sorti son premier album studio à succès intitulé [[Animal]] en 2019 ?
+Quel rappeur français s'est fait connaître du grand public en 2018 avec l'album « 23h59 », paru chez Capitol Music France ?
 
-Quel événement marquant a conduit [[Vin's]] à être récompensé par le prestigieux prix de [[Révélation musicale francophone]] en 2020 ?
+Quel rappeur a conclu en janvier 2021, avec le morceau « Liberté », une trilogie de titres reprenant la devise républicaine ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Né à [[Marseille]] en 1995, il se distingue par ses paroles poignantes et son 
 En 2018, il a sorti son album éponyme, obtenant un succès immédiat qui l'a propulsé sur le devant de la scène musicale nationale. 
 
 Fait étonnant : [[Vin's]] a battu un record en devenant le plus jeune artiste de rap français à franchir la barre des 100 millions de streams sur [[Spotify]] avec son single "Éphémère" dès 2020, un exploit rarement atteint dans l'industrie musicale française.
+
+###### Archives questions
+
+Dans quelle catégorie [[Musique]] a brillamment performé le chanteur [[Vin's]] lors du concours de nouvelles voix en 2021 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste connu sous le pseudonyme [[Vin's]] a sorti son premier album studio à succès intitulé [[Animal]] en 2019 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel événement marquant a conduit [[Vin's]] à être récompensé par le prestigieux prix de [[Révélation musicale francophone]] en 2020 ? <!-- cm003 remplacée 2026-11-23 -->

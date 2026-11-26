@@ -29,11 +29,11 @@ culture_g_justification: "Héros théâtral français universellement célèbre,
 
 ###### Questions
 
-Dans quelle pièce écrite par [[Edmond Rostand]] en 1897 le personnage principal utilise-t-il un long nez pour cacher son amour pour [[Roxane]] ?
+Dans quelle pièce d'[[Edmond Rostand]], créée en 1897 au [[théâtre de la Porte-Saint-Martin]], un cadet de Gascogne au long nez aide-t-il [[Christian de Neuvillette|Christian]] à séduire [[Roxane]] ?
 
-Quel héros de la littérature est bien connu pour ses talents en duel et son esprit vif, et a inspiré une célèbre comédie musicale en 1973 et un film en 1990 ?
+Quel rôle a valu à [[Gérard Depardieu]] le prix d'interprétation masculine au [[Festival de Cannes 1990]] ?
 
-Quel personnage littéraire du XVIIe siècle, dont la véritable identité est [[Hercule-Savinien de Cyrano de Bergerac]], est à la fois poète et soldat ?
+Quel héros de théâtre est librement inspiré d'un écrivain libertin du XVIIe siècle, auteur de l'« [[Histoire comique des États et Empires de la Lune]] » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Ce chef-d'œuvre, situé dans le contexte du [[XVIIe siècle]], raconte l'histoi
 Fait peu connu, le véritable [[Savinien de Cyrano de Bergerac]], qui a inspiré le personnage, était en réalité un écrivain et libre penseur du [[XVIIe siècle]], notable pour ses récits de science-fiction avant-gardistes qui imaginent des voyages sur la Lune. 
 
 Une anecdote captivante est que lors de la première représentation, la pièce reçut une ovation de plus d'une heure, un record de durée pour une pièce de théâtre à son époque.
+
+###### Archives questions
+
+Quel personnage littéraire du XVIIe siècle, dont la véritable identité est [[Hercule-Savinien de Cyrano de Bergerac]], est à la fois poète et soldat ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel héros de la littérature est bien connu pour ses talents en duel et son esprit vif, et a inspiré une célèbre comédie musicale en 1973 et un film en 1990 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle pièce écrite par [[Edmond Rostand]] en 1897 le personnage principal utilise-t-il un long nez pour cacher son amour pour [[Roxane]] ? <!-- cm003 remplacée 2026-11-23 -->

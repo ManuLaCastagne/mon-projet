@@ -29,11 +29,7 @@ culture_g_justification: "Le sujet ne correspond pas à une référence musicale
 
 ###### Questions
 
-Quelle chanson du groupe [[Parivélib]] a été nommée "Single de l'année" lors des [[Victoires de la Musique]] en 2020 ?
-
-En 2019, quel album de [[Parivélib]] a atteint le sommet des charts et a été certifié disque de diamant ?
-
-Quel groupe français formé en 2015 est célèbre pour ses performances scéniques dynamiques et porte le nom de [[Parivélib]] ?
+Sur son album éponyme sorti en 2010, quelle chanson de [[Philippe Katerine]] tire son titre du service parisien de vélos en libre-service ?
 
 ###### Description
 
@@ -44,3 +40,11 @@ Ce programme unique en son genre permet aux utilisateurs de vélos [[Vélib']] d
 Un fait étonnant est que lors de son lancement, [[Parivélib]] Musique proposait une collaboration exclusive avec le légendaire label français [[Naïve Records]], offrant une sélection musicale qui incluait tous les genres, du classique au jazz, possible grâce à leurs archives de plus de 60 000 titres. 
 
 Un record notable associé à [[Parivélib]] est qu'en 2014, il a atteint le chiffre impressionnant de 500 000 téléchargements de playlists, un chiffre jamais vu pour une initiative de musique en lien avec un service public de transport urbain en Europe.
+
+###### Archives questions
+
+Quelle chanson du groupe [[Parivélib]] a été nommée "Single de l'année" lors des [[Victoires de la Musique]] en 2020 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2019, quel album de [[Parivélib]] a atteint le sommet des charts et a été certifié disque de diamant ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel groupe français formé en 2015 est célèbre pour ses performances scéniques dynamiques et porte le nom de [[Parivélib]] ? <!-- cm003 archivée 2026-11-23 -->

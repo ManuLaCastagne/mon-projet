@@ -27,11 +27,11 @@ culture_g_justification: "Auteur incontournable de la satire et de la littératu
 
 ###### Questions
 
-Quel écrivain, auteur de [[Les Voyages de Gulliver]], est cité dans le film [[Matrix Revolutions]] sorti en 2003 ? <!-- score: 5 -->
+Quel doyen de la [[cathédrale Saint-Patrick de Dublin]] a publié en 1726 « [[Les Voyages de Gulliver]] » ?
 
-Quel célèbre auteur irlandais, connu pour ses écrits satiriques, est évoqué dans une scène du film d'animation [[Gulliver's Travels]] de 2010 ?
+Quel auteur suggère ironiquement, dans « [[Modeste Proposition]] » publiée en 1729, que les enfants des pauvres d'Irlande servent de nourriture ?
 
-Dans quel film de 1980 fait-on référence à [[Jonathan Swift]] à travers une citation de l'une de ses œuvres ?
+Quel écrivain a imaginé l'île volante de [[Laputa]], qui a inspiré le film d'animation « [[Le Château dans le ciel]] » de [[Hayao Miyazaki]] en 1986 ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ En 2010, une version moderne de cette histoire épique a vu le jour avec [[Jack 
 [[Swift]], né en 1667 et mort en 1745, est surtout connu pour son satire mordant et son utilisation de la fiction pour critiquer la société anglaise de son temps. 
 
 Un fait étonnant qui pourrait surprendre lors d'un quiz est que [[Jonathan Swift]] est reconnu par le [[Guinness World Records]] pour avoir écrit "A Modest Proposal", l'un des essais les plus célèbres de l'histoire littéraire, en 1729, qui conseille ironiquement les Irlandais de vendre leurs enfants comme nourriture pour résoudre la famine.
+
+###### Archives questions
+
+Dans quel film de 1980 fait-on référence à [[Jonathan Swift]] à travers une citation de l'une de ses œuvres ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre auteur irlandais, connu pour ses écrits satiriques, est évoqué dans une scène du film d'animation [[Gulliver's Travels]] de 2010 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel écrivain, auteur de [[Les Voyages de Gulliver]], est cité dans le film [[Matrix Revolutions]] sorti en 2003 ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->

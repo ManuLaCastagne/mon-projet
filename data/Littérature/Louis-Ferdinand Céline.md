@@ -36,11 +36,11 @@ culture_g_justification: "Auteur incontournable de la littérature française du
 
 ###### Questions
 
-Quel écrivain controversé, auteur du roman "[[Voyage au bout de la nuit]]" publié en 1932, a provoqué une rupture dans le style littéraire français par son langage oral et son cynisme mordant ? 
+Quel auteur de « [[Voyage au bout de la nuit]] » manqua de peu le [[prix Goncourt]] mais reçut le [[prix Renaudot]] en 1932 ?
 
-Quel auteur de [[Mort à crédit]], livre sorti en 1936, a vu son œuvre partiellement occultée par ses pamphlets antisémites publiés avant la [[Seconde Guerre mondiale]] ? 
+Quel écrivain, auteur du pamphlet « [[Bagatelles pour un massacre]] » (1937), passa près d'un an et demi en prison à [[Copenhague]] après la guerre ?
 
-Quel médecin de formation, ayant exercé au [[Cameroun]] dans les années [[1916-1917]], est surtout célèbre sous son nom de plume, [[Louis-Ferdinand Céline]], et connu pour son style unique et ses descriptions brutales de la société ?
+Quel écrivain a soutenu en 1924 une thèse de médecine consacrée à la vie et à l'œuvre d'[[Ignace Philippe Semmelweis]] ?
 
 ###### Description
 
@@ -67,3 +67,11 @@ Connu pour son style littéraire innovant et percutant, il est l'auteur de l'un 
 Un fait étonnant à son sujet est qu'il a failli recevoir le [[Prix Goncourt]] en 1932, mais la distinction lui a échappé pour un seul vote, ce qui avait suscité une controverse à l'époque parmi ses partisans. 
 
 En dehors de la littérature, [[Céline]] était également médecin et a exercé cette profession, y compris pendant la [[Première Guerre mondiale]], où il a servi comme médecin militaire, ce qui a grandement influencé ses écrits.
+
+###### Archives questions
+
+Quel médecin de formation, ayant exercé au [[Cameroun]] dans les années [[1916-1917]], est surtout célèbre sous son nom de plume, [[Louis-Ferdinand Céline]], et connu pour son style unique et ses descriptions brutales de la société ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel écrivain controversé, auteur du roman "[[Voyage au bout de la nuit]]" publié en 1932, a provoqué une rupture dans le style littéraire français par son langage oral et son cynisme mordant ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel auteur de [[Mort à crédit]], livre sorti en 1936, a vu son œuvre partiellement occultée par ses pamphlets antisémites publiés avant la [[Seconde Guerre mondiale]] ? <!-- cm003 remplacée 2026-11-23 -->

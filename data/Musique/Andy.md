@@ -29,11 +29,9 @@ culture_g_justification: "« Andy » renvoie principalement à quelques référe
 
 ###### Questions
 
-Quel est le titre de la chanson de [[Rita Mitsouko]] sortie en 1986 dont le refrain répète le prénom [[Andy]] ?
+Quelle chanson des [[Les Rita Mitsouko|Rita Mitsouko]], parue en 1986 sur l'album « [[The No Comprendo]] », a été jouée à la cérémonie d'ouverture des [[Jeux olympiques d'été de 2024|Jeux olympiques de Paris]] ?
 
-Quel est le prénom du chanteur du groupe [[Beyond the Sea]] qui a connu un succès avec l'album "[[Shotgun Wedding]]" en 1993 ?
-
-Quel est le mot répété dans le hit phare du groupe [[The 1975]] sorti en 2016 sur l'album "[[I Like It When You Sleep, for You Are So Beautiful yet So Unaware of It]]" ?
+Quel est le prénom de l'artiste pop qui a produit en 1967 le premier album du [[The Velvet Underground|Velvet Underground]] et conçu sa pochette à la banane ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ En 2017, il a atteint un sommet inattendu dans sa carrière en étant le premier
 [[Andy]] s'est fait connaître du grand public en remportant le concours de chant télévisé "[[La Voix d'Or]]" en 2014, où il a impressionné les juges avec son interprétation émotive de classiques. 
 
 Il est également connu pour ses collaborations fructueuses avec des artistes internationaux tels que [[Lana Del Rey]] et [[Ed Sheeran]], consolidant ainsi sa réputation sur la scène musicale internationale.
+
+###### Archives questions
+
+Quel est le titre de la chanson de [[Rita Mitsouko]] sortie en 1986 dont le refrain répète le prénom [[Andy]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le prénom du chanteur du groupe [[Beyond the Sea]] qui a connu un succès avec l'album "[[Shotgun Wedding]]" en 1993 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le mot répété dans le hit phare du groupe [[The 1975]] sorti en 2016 sur l'album "[[I Like It When You Sleep, for You Are So Beautiful yet So Unaware of It]]" ? <!-- cm003 archivée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Groupe de power metal connu surtout des amateurs du ge
 
 ###### Questions
 
-Quel groupe de [[heavy metal]] fondé en 1997 est connu pour ses influences de [[Judas Priest]] et a sorti son premier album éponyme la même année?  
+Quel groupe allemand a été fondé en 1997 par un chanteur qui venait d'être écarté de la succession de [[Rob Halford]] au sein de [[Judas Priest]] ?
   
-Quel groupe a été formé par l'ancien chanteur de [[Gamma Ray]], [[Ralf Scheepers]], et le bassiste de [[Sinner]], [[Mat Sinner]], marquant un tournant dans la scène [[power metal]]?  
+Quel groupe de [[power metal]] allemand réunit dès sa création l'ex-chanteur de [[Gamma Ray]] [[Ralf Scheepers]] et le bassiste [[Mat Sinner]] ?
   
-Quel album de [[Primal Fear]], sorti en 2001, est souvent salué par les fans pour la puissance vocale de [[Ralf Scheepers]] et des compositions épiques typiques du groupe?
+Quel groupe allemand de [[power metal]] a publié en 2001 son troisième album studio, « [[Nuclear Fire]] » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Le groupe est reconnu pour son style énergique avec des influences de heavy met
 En plus de leur musique, Primal Fear a souvent collaboré avec des producteurs notables, notamment [[Charlie Bauerfeind]], ce qui a contribué à affiner leur son distinctif. 
 
 Un fait étonnant à connaître est que Ralf Scheepers avait été pressenti pour remplacer [[Rob Halford]] au sein de [[Judas Priest]], ce qui souligne l’estime dont il jouit dans la scène metal internationale.
+
+###### Archives questions
+
+Quel album de [[Primal Fear]], sorti en 2001, est souvent salué par les fans pour la puissance vocale de [[Ralf Scheepers]] et des compositions épiques typiques du groupe? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe de [[heavy metal]] fondé en 1997 est connu pour ses influences de [[Judas Priest]] et a sorti son premier album éponyme la même année? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe a été formé par l'ancien chanteur de [[Gamma Ray]], [[Ralf Scheepers]], et le bassiste de [[Sinner]], [[Mat Sinner]], marquant un tournant dans la scène [[power metal]]? <!-- cm003 remplacée 2026-11-23 -->

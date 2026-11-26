@@ -29,11 +29,11 @@ culture_g_justification: "Auteur incontournable grâce à 1984 et La Ferme des a
 
 ###### Questions
 
-Quel auteur britannique, connu pour son œuvre 1984, a écrit sous le pseudonyme de [[George Orwell]], alors que son vrai nom est [[Eric Arthur Blair]] ?
+Sous quel pseudonyme l'écrivain britannique [[Eric Arthur Blair]], auteur de « [[1984 (roman)|1984]] », a-t-il publié son œuvre ?
 
-En quelle année [[George Orwell]] a-t-il publié le roman [[La Ferme des animaux]], une satire politique qui dénonce le [[stalinisme]] ?
+Quel écrivain britannique a publié en 1945 « [[La Ferme des animaux]] », fable satirique visant le régime stalinien ?
 
-Quel écrivain a travaillé comme policier au [[Burma]] avant de devenir célèbre pour ses récits dystopiques, notamment 1984 et [[La Ferme des animaux]] ?
+Quel écrivain a servi de 1922 à 1927 dans la police impériale indienne en [[Birmanie]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Il est surtout connu pour ses romans dystopiques, notamment "1984" et "[[La Ferm
 Un fait étonnant peu connu est que [[Orwell]] a en fait créé le concept moderne de "télécran" dans "1984", qui préfigurait les technologies de surveillance modernes et les émissions de téléréalité, bien avant leur existence. 
 
 Saviez-vous qu'en 1946, [[Orwell]] a écrit un livre intitulé "[[Le Quai de Wigan]]", basé sur ses propres expériences, traitant des conditions de vie difficiles des classes ouvrières dans le nord de l'Angleterre, ce qui lui a valu une reconnaissance pour son engagement social?
+
+###### Archives questions
+
+Quel auteur britannique, connu pour son œuvre 1984, a écrit sous le pseudonyme de [[George Orwell]], alors que son vrai nom est [[Eric Arthur Blair]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+En quelle année [[George Orwell]] a-t-il publié le roman [[La Ferme des animaux]], une satire politique qui dénonce le [[stalinisme]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel écrivain a travaillé comme policier au [[Burma]] avant de devenir célèbre pour ses récits dystopiques, notamment 1984 et [[La Ferme des animaux]] ? <!-- cm003 remplacée 2026-11-23 -->

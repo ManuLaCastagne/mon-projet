@@ -29,11 +29,11 @@ culture_g_justification: "Écrivain majeur du surréalisme, de la poésie et de 
 
 ###### Questions
 
-En quelle année [[Louis Aragon]] a-t-il cofondé le mouvement [[surréaliste]] en France aux côtés d'[[André Breton]] et [[Philippe Soupault]] ?
+Quel poète reçoit en 1936 le [[prix Renaudot]] pour son roman « [[Les Beaux Quartiers]] » ?
 
-Quel grand poète et romancier français, né en 1897, est connu pour ses contributions littéraires telles que "[[Aurélien (empereur)]]" et "Le [[Paysan de Paris]]" ?
+Quel poète publie en 1942 le recueil « [[Les Yeux d'Elsa]] », dédié à sa compagne [[Elsa Triolet]] ?
 
-Quel écrivain a publié en 1963 l’œuvre "[[La Semaine sainte]]" qui explore les événements après l'abdication de [[Napoléon Bonaparte]] ?
+Quel écrivain publie en 1958 « [[La Semaine sainte (livre)|La Semaine sainte]] », roman sur la fuite de [[Louis XVIII]] en mars 1815 où apparaît le peintre [[Théodore Géricault]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 1950, il épouse [[Elsa Triolet]], une écrivaine d'origine russe, qui devien
 Fait étonnant, [[Aragon]] a participé aux championnats de France de scrabble en 1973, un événement inattendu pour un poète, illustrant son goût pour les jeux de mots et les défis intellectuels.
 
 Il est également reconnu pour son engagement politique, ayant été membre du [[Parti communiste français]] à partir de 1927 et directeur des pages littéraires du quotidien [[L'Humanité]].
+
+###### Archives questions
+
+En quelle année [[Louis Aragon]] a-t-il cofondé le mouvement [[surréaliste]] en France aux côtés d'[[André Breton]] et [[Philippe Soupault]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel grand poète et romancier français, né en 1897, est connu pour ses contributions littéraires telles que "[[Aurélien (empereur)]]" et "Le [[Paysan de Paris]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel écrivain a publié en 1963 l’œuvre "[[La Semaine sainte]]" qui explore les événements après l'abdication de [[Napoléon Bonaparte]] ? <!-- cm003 remplacée 2026-11-23 -->

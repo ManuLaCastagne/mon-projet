@@ -29,11 +29,11 @@ culture_g_justification: "Rose Laurens est surtout retenue pour le succès d’�
 
 ###### Questions
 
-Quel est le nom de l'artiste qui a interprété la chanson à succès "Africa" en 1982 ?  
+Quelle chanteuse a été n° 1 en France et en Autriche en 1982 avec « Africa », unique extrait de son album « Déraisonnable » ?
 
-Quelle chanteuse a rejoint le groupe [[Il Était Une Fois]] avant de se lancer dans une carrière solo sous le nom de [[Rose Laurens]] ?  
+Quelle chanteuse, née Podwojny, a débuté en 1972 comme voix du groupe de rock progressif français [[Sandrose]] ?
 
-Qui a représenté la France au [[World Popular Song Festival]] à Tokyo en 1984 ?
+Quelle chanteuse a créé en 1980 le rôle de [[Fantine]] dans la comédie musicale « [[Les Misérables (comédie musicale)|Les Misérables]] » de [[Claude-Michel Schönberg]] et [[Alain Boublil (auteur)|Alain Boublil]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 1976, avant de se lancer en solo, elle faisait partie du groupe [[Sandrose]],
 Un fait étonnant est que son album "Déraisonnable," sorti en 1994, s'est vendu à plus de 250 000 exemplaires uniquement en Russie, un pays où elle a conservé une base de fans fidèles bien au-delà de son succès initial en Europe de l'Ouest. 
 
 [[Laurens]] a également participé à l'opéra-rock à succès "Starmania," prenant le rôle de [[Cristal]] en 1986, ce qui a renforcé sa renommée en tant que figure importante des comédies musicales françaises.
+
+###### Archives questions
+
+Quelle chanteuse a rejoint le groupe [[Il Était Une Fois]] avant de se lancer dans une carrière solo sous le nom de [[Rose Laurens]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom de l'artiste qui a interprété la chanson à succès "Africa" en 1982 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a représenté la France au [[World Popular Song Festival]] à Tokyo en 1984 ? <!-- cm003 remplacée 2026-11-23 -->

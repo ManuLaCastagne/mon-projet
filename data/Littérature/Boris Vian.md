@@ -27,11 +27,9 @@ culture_g_justification: "Figure française originale à la croisée de la litt�
 
 ###### Questions
 
-Qui est l'auteur d'un roman publié en 1947 dans lequel un personnage a pour passion d'affronter des patineurs en duel sur glace ? <!-- score: 5 -->
+Quel écrivain et trompettiste publie en 1946 « [[J'irai cracher sur vos tombes]] » sous le pseudonyme de [[Vernon Sullivan]] ?
 
-Quel célèbre écrivain et musicien français a publié sous le pseudonyme de [[Vernon Sullivan]] des œuvres comme "[[J'irai cracher sur vos tombes]]" en 1946 ?
-
-En quelle année [[Boris Vian]] a-t-il publié "L'Écume des jours", un roman devenu culte mêlant surréalisme et tragédie amoureuse ?
+Quel écrivain fait mourir son héroïne Chloé d'un nénuphar qui pousse dans son poumon, dans un roman paru en 1947 ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Ce que beaucoup ignorent, c'est que [[Boris Vian]] a également été un trompet
 C'était un grand ami de [[Henri Salvador]].
 
 Il est aussi étonnant de savoir qu'en 1956, il a établi un record en traduisant et publiant un roman entier, "J'irai cracher sur vos tombes", sous le faux nom de [[Sullivan]], en un temps record de seulement dix jours.
+
+###### Archives questions
+
+En quelle année [[Boris Vian]] a-t-il publié "L'Écume des jours", un roman devenu culte mêlant surréalisme et tragédie amoureuse ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui est l'auteur d'un roman publié en 1947 dans lequel un personnage a pour passion d'affronter des patineurs en duel sur glace ? <!-- score: 5 --> <!-- cm003 archivée 2026-11-23 -->
+
+Quel célèbre écrivain et musicien français a publié sous le pseudonyme de [[Vernon Sullivan]] des œuvres comme "[[J'irai cracher sur vos tombes]]" en 1946 ? <!-- cm003 remplacée 2026-11-23 -->

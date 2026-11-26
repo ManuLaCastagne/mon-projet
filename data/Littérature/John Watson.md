@@ -29,11 +29,11 @@ culture_g_justification: "Compagnon et narrateur de Sherlock Holmes, Watson est 
 
 ###### Questions
 
-Dans quel roman publié en 1887 par [[Arthur Conan Doyle]], [[John Watson]] fait-il ses débuts en tant que narrateur et ami du célèbre détective [[Sherlock Holmes]] ? 
+Quel narrateur des aventures de [[Sherlock Holmes]] fait sa première apparition dans « [[Une étude en rouge]] », publié en 1887 ?
 
-Quel personnage de [[John Watson]], ancien médecin militaire, devient le colocataire d'un détective dans le célèbre récit de [[Arthur Conan Doyle]] ? 
+Quel ancien médecin militaire, blessé à la [[bataille de Maiwand]] en 1880, partage un appartement au 221B [[Baker Street]] ?
 
-Quel rôle joue [[John Watson]] dans la série de romans et nouvelles publiés entre 1887 et 1927 par [[Arthur Conan Doyle]] aux côtés de [[Sherlock Holmes]] ?
+Quel personnage d'[[Arthur Conan Doyle]] épouse [[Mary Morstan]], cliente rencontrée lors de l'enquête du « [[Le Signe des quatre|Signe des quatre]] » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Cet ancien médecin militaire a servi durant la seconde guerre anglo-afghane, o�
 Un fait étonnant sur [[John Watson]] est que, dans certains récits, il mentionne avoir été marié à une certaine [[Mary Morstan]], introduite dans "The Sign of the Four" en 1890, mais il est rare que les adaptations cinématographiques s'attardent sur cet aspect de sa vie personnelle. 
 
 Dans la chronologie des récits de [[Conan Doyle]], Watson est souvent présenté comme le narrateur des aventures de [[Sherlock Holmes]], offrant ainsi un point de vue externe conditionné par son admiration et sa fidélité envers Holmes.
+
+###### Archives questions
+
+Dans quel roman publié en 1887 par [[Arthur Conan Doyle]], [[John Watson]] fait-il ses débuts en tant que narrateur et ami du célèbre détective [[Sherlock Holmes]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage de [[John Watson]], ancien médecin militaire, devient le colocataire d'un détective dans le célèbre récit de [[Arthur Conan Doyle]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle joue [[John Watson]] dans la série de romans et nouvelles publiés entre 1887 et 1927 par [[Arthur Conan Doyle]] aux côtés de [[Sherlock Holmes]] ? <!-- cm003 remplacée 2026-11-23 -->

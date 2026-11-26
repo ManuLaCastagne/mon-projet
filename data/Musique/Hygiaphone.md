@@ -29,11 +29,11 @@ culture_g_justification: "Chanson connue des amateurs de Téléphone, mais le ti
 
 ###### Questions
 
-Dans quelle chanson du groupe [[Téléphone]], sortie en 1977, un protagoniste utilise-t-il un [[hygiaphone]] pour communiquer avec le monde extérieur ?
+Quelle chanson de [[Téléphone]], écrite par [[Jean-Louis Aubert]], a connu un succès mondial en 2026 grâce à la saison 5 de la série [[The Boys (série télévisée)|The Boys]] ?
 
-Quel objet emblématique, mentionné dans le titre d'une chanson de [[Téléphone]] sortie en 1977, symbolise l'isolement et la difficulté de communiquer ?
+Quelle chanson de [[Téléphone]] [[Florent Pagny]] a-t-il reprise en 1999 sur l'album « [[RéCréation]] » ?
 
-Quelle chanson de [[Téléphone]], enregistrée en 1976, évoque un dispositif utilisé dans les guichets pour limiter le contact entre le personnel et le public ?
+Quelle chanson de [[Téléphone]], sortie en 1977, porte le nom du dispositif vitré mis au point pour les guichetiers de la [[SNCF]] après l'épidémie de grippe de 1945 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a été écrite par [[Jean-Louis Aubert]] et [[Richard Kolinka]], qui faisa
 Un fait étonnant est que "Hygiaphone" représente une référence directe à une vitre antibruit inventée par [[Paul Leclair]], un ingénieur français, pour protéger les guichetiers des agressions sonores dans les bureaux de poste.
 
 Ce morceau a contribué à propulser [[Téléphone]] au rang de légende du rock en France, bien qu'il ait été initialement conçu sans prétention comme une simple observation de la société moderne.
+
+###### Archives questions
+
+Dans quelle chanson du groupe [[Téléphone]], sortie en 1977, un protagoniste utilise-t-il un [[hygiaphone]] pour communiquer avec le monde extérieur ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel objet emblématique, mentionné dans le titre d'une chanson de [[Téléphone]] sortie en 1977, symbolise l'isolement et la difficulté de communiquer ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanson de [[Téléphone]], enregistrée en 1976, évoque un dispositif utilisé dans les guichets pour limiter le contact entre le personnel et le public ? <!-- cm003 remplacée 2026-11-23 -->

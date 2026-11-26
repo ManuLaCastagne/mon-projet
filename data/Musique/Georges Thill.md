@@ -29,11 +29,11 @@ culture_g_justification: "Ténor important dans l’histoire de l’opéra fran�
 
 ###### Questions
 
-En quelle année [[Georges Thill]] interprète-t-il le rôle principal dans le premier opéra enregistré en intégralité, "[[Carmen]]" de [[Georges Bizet]], sous la direction de [[Gustave Cloëz]] ?
+Quel ténor français est allé étudier le chant à Naples en 1921 auprès de [[Fernando De Lucia]] ?
 
-Quel célèbre ténor français, né en 1904, est reconnu pour avoir été le premier artiste à chanter "''[[À la claire fontaine]]''" lors de sa tournée aux [[États-Unis]] en 1931 ?
+Quel ténor français a chanté pour la première fois au [[Metropolitan Opera]] de New York en 1931, dans « Roméo et Juliette », « Faust » et « Aida » ?
 
-En 1932, qui est le premier chanteur d'opéra à recevoir la [[Légion d'honneur]], récompensant sa contribution à la musique classique française ?
+Quel ténor français a fait ses adieux à la scène en 1953 à l'[[Opéra-Comique]] dans « [[Pagliacci|Paillasse]] » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Il a entamé sa carrière internationale en 1928 en se produisant au [[Metropoli
 Un fait étonnant à propos de [[Georges Thill]] est qu'il est le seul ténor français à avoir reçu une formation directement de l'emblématique [[Arturo Toscanini]], ce qui a contribué à sa réputation de technicien vocal hors pair. 
 
 Jusqu'à sa retraite en 1953, il a incarné de nombreux rôles célèbres, dont celui d'[[Otello]], et a laissé une empreinte indélébile dans le monde de l'opéra par ses enregistrements légendaires.
+
+###### Archives questions
+
+En quelle année [[Georges Thill]] interprète-t-il le rôle principal dans le premier opéra enregistré en intégralité, "[[Carmen]]" de [[Georges Bizet]], sous la direction de [[Gustave Cloëz]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre ténor français, né en 1904, est reconnu pour avoir été le premier artiste à chanter "''[[À la claire fontaine]]''" lors de sa tournée aux [[États-Unis]] en 1931 ? <!-- cm003 remplacée 2026-11-23 -->
+
+En 1932, qui est le premier chanteur d'opéra à recevoir la [[Légion d'honneur]], récompensant sa contribution à la musique classique française ? <!-- cm003 remplacée 2026-11-23 -->

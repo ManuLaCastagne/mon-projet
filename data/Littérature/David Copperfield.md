@@ -29,11 +29,11 @@ culture_g_justification: "Grand classique de Dickens, fréquemment associé au r
 
 ###### Questions
 
-Quel est le nom du [[roman]] publié par [[Charles Dickens]] en 1850 qui est souvent considéré comme l'une de ses œuvres autobiographiques, relatant la vie et les épreuves du personnage éponyme, depuis son enfance jusqu'à son âge adulte ? 
+Quel roman de [[Charles Dickens]], paru en feuilleton de mai 1849 à novembre 1850, est raconté à la première personne par un héros qui finit par devenir romancier ?
 
-Dans quel [[roman]] publié en [[1849-1850]] peut-on trouver l'expression "Heureux comme David Copperfield", utilisée comme un symbole de destinée et de développement personnel à l'époque victorienne ? 
+Dans quel roman de [[Charles Dickens]] le jeune héros est-il envoyé à Londres laver et étiqueter des bouteilles dans l'entrepôt « Murdstone et Grinby » ?
 
-Quel est le titre du [[Livre]] de [[Charles Dickens]], publié en feuilleton de 1849 à 1850, qui introduit des personnages mémorables tels que [[Uriah Heep]] et [[Betsey Trotwood]] dans l'univers littéraire britannique ?
+Dans quel roman de [[Charles Dickens]] croise-t-on l'obséquieux [[Uriah Heep]], la tante [[Betsey Trotwood]] et l'impécunieux Mr [[Wilkins Micawber|Micawber]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Ce livre, souvent considéré comme l'œuvre la plus autobiographique de Dickens
 Un fait étonnant à propos de [[David Copperfield]] est que c'était le roman préféré de [[Sigmund Freud]], qui possédait une première édition du livre dans sa bibliothèque, soulignant l'impact durable de cette œuvre sur des figures influentes de l'époque. 
 
 Pour un quiz télévisé, il serait intéressant de savoir que [[Charles Dickens]] a écrit ce livre alors qu'il montait simultanément des spectacles de lecture publique, ce qui illustre son incroyable capacité à jongler avec plusieurs projets créatifs à la fois.
+
+###### Archives questions
+
+Dans quel [[roman]] publié en [[1849-1850]] peut-on trouver l'expression "Heureux comme David Copperfield", utilisée comme un symbole de destinée et de développement personnel à l'époque victorienne ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le nom du [[roman]] publié par [[Charles Dickens]] en 1850 qui est souvent considéré comme l'une de ses œuvres autobiographiques, relatant la vie et les épreuves du personnage éponyme, depuis son enfance jusqu'à son âge adulte ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre du [[Livre]] de [[Charles Dickens]], publié en feuilleton de 1849 à 1850, qui introduit des personnages mémorables tels que [[Uriah Heep]] et [[Betsey Trotwood]] dans l'univers littéraire britannique ? <!-- cm003 remplacée 2026-11-23 -->
