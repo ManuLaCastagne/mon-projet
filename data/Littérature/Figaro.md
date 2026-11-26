@@ -27,14 +27,22 @@ culture_g_justification: "Personnage central de la trilogie de Beaumarchais, ég
 
 ###### Questions
 
-A quel personnage de l'une de ses oeuvres [[Beaumarchais]] fait-il dire "[[Je me presse de rire de tout, de peur d'être obligé d'en pleurer]]" ?
+À quel personnage [[Beaumarchais]] fait-il dire « Je me presse de rire de tout, de peur d'être obligé d'en pleurer » ?
 
-Dans quelle célèbre trilogie de [[Pierre-Augustin Caron de Beaumarchais]] publiée au XVIIIe siècle retrouve-t-on le personnage de [[Figaro]] ?
+Quel héros sévillan de [[Beaumarchais]] réapparaît en 1792 dans « [[La Mère coupable]] », dernier volet de sa trilogie ?
 
-Quel personnage de [[Figaro]] reprend des éléments de la [[Comedia dell'arte ]] et apparaît pour la première fois en 1775 dans une pièce de théâtre ?
+Quel personnage de [[Beaumarchais]] monte pour la première fois sur scène en 1775 dans « [[Le Barbier de Séville]] » ?
 
-Quelle est la profession de [[Figaro]] dans "[[Le Mariage de Figaro]]", pièce écrite en 1784 par [[Beaumarchais]]?
+Quel valet du comte Almaviva prétend, dans une pièce de [[Beaumarchais]] créée en 1784, avoir pour prénom « Anonyme » ?
 
 ###### Description
 
+###### Archives questions
 
+Dans quelle célèbre trilogie de [[Pierre-Augustin Caron de Beaumarchais]] publiée au XVIIIe siècle retrouve-t-on le personnage de [[Figaro]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage de [[Figaro]] reprend des éléments de la [[Comedia dell'arte ]] et apparaît pour la première fois en 1775 dans une pièce de théâtre ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle est la profession de [[Figaro]] dans "[[Le Mariage de Figaro]]", pièce écrite en 1784 par [[Beaumarchais]]? <!-- cm003 remplacée 2026-11-23 -->
+
+A quel personnage de l'une de ses oeuvres [[Beaumarchais]] fait-il dire "[[Je me presse de rire de tout, de peur d'être obligé d'en pleurer]]" ? <!-- cm003 remplacée 2026-11-23 -->

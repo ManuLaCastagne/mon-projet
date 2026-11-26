@@ -29,11 +29,11 @@ culture_g_justification: "Détective emblématique d'Agatha Christie, dont les e
 
 ###### Questions
 
-[[Hercule Poirot]] est un personnage de fiction créé par quelle romancière britannique dont le roman "[[Le Crime de l'Orient-Express]]" a été publié en 1934 ?
+Quel détective enquête sur le meurtre de Ratchett dans « [[Le Crime de l'Orient-Express]] », roman d'[[Agatha Christie]] paru en 1934 ?
 
 Quel célèbre détective belge de fiction, apparu pour la première fois en 1920 dans le roman "[[La Mystérieuse Affaire de Styles]]", utilise souvent ses "[[petites cellules grises]]" pour résoudre des enquêtes complexes ?
 
-Quel personnage fictif, interprété par [[David Suchet]] dans une série télévisée britannique de 1989 à 2013, est connu pour sa moustache impeccablement soignée ?
+Quel personnage [[David Suchet]] a-t-il incarné dans 70 épisodes d'une série britannique diffusée de 1989 à 2013 ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Ce personnage est connu pour sa moustache impeccablement soignée et son sens ai
 Fait peu connu : [[Hercule Poirot]] est le seul personnage fictif à avoir reçu une nécrologie dans le [[New York Times]] à la mort du personnage, en 1975, après la publication du roman "[[Curtain: Poirot’s Last Case]]". 
 
 En tout, [[Agatha Christie]] a écrit 33 romans et plus de 50 nouvelles mettant en scène [[Hercule Poirot]], solidifiant ainsi son statut de l'un des détectives les plus prolifiques de la littérature.
+
+###### Archives questions
+
+[[Hercule Poirot]] est un personnage de fiction créé par quelle romancière britannique dont le roman "[[Le Crime de l'Orient-Express]]" a été publié en 1934 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage fictif, interprété par [[David Suchet]] dans une série télévisée britannique de 1989 à 2013, est connu pour sa moustache impeccablement soignée ? <!-- cm003 remplacée 2026-11-23 -->

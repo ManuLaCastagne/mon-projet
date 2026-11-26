@@ -29,11 +29,9 @@ culture_g_justification: "Lamartine est un repère solide du romantisme françai
 
 ###### Questions
 
-Quel poème célèbre publié en 1820 par [[Alphonse de Lamartine]] a marqué le début du [[romantisme]] en France ?
+Quel poète, inspiré par son amour pour [[Julie Charles]], publie en 1820 les « [[Méditations poétiques]] » ?
 
-Quel homme politique a occupé le poste de ministre des Affaires étrangères de la France en 1848 tout en étant aussi un poète romantique célèbre ?
-
-Quel écrivain a créé une phrase célèbre en 1849, adressée à ses électeurs, qui est souvent citée pour illustrer l'éphémère de la gloire politique : "J’ai oublié d’être homme d’État" ?
+Quel poète romantique est ministre des Affaires étrangères du [[Gouvernement provisoire de 1848]], de février à mai 1848 ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ En 1830, il publie "[[Méditations poétiques]]", une œuvre qui marque un tourn
 Un fait étonnant à propos de [[Lamartine]] est qu'il a été candidat à l'élection présidentielle de 1848, où il n'obtint que 0,28 % des voix, un résultat surprenant compte tenu de sa popularité comme écrivain et homme politique influent. 
 
 Il est également connu pour son rôle crucial lors de la Révolution de Février 1848 en tant que ministre des Affaires étrangères, contribuant à la proclamation de la [[Deuxième République française]].
+
+###### Archives questions
+
+Quel poème célèbre publié en 1820 par [[Alphonse de Lamartine]] a marqué le début du [[romantisme]] en France ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel écrivain a créé une phrase célèbre en 1849, adressée à ses électeurs, qui est souvent citée pour illustrer l'éphémère de la gloire politique : "J’ai oublié d’être homme d’État" ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel homme politique a occupé le poste de ministre des Affaires étrangères de la France en 1848 tout en étant aussi un poète romantique célèbre ? <!-- cm003 remplacée 2026-11-23 -->

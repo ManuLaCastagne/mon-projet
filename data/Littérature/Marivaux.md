@@ -29,11 +29,11 @@ culture_g_justification: "Dramaturge incontournable des quiz littéraires, assoc
 
 ###### Questions
 
-Dans quelle œuvre publiée en 1724, [[Marivaux]] utilise-t-il pour la première fois le terme "[[marivaudage]]" pour désigner un style de conversation élégante et raffinée ? 
+Quel auteur a rédigé seul, de 1721 à 1724, le journal « Le Spectateur françois », inspiré du « [[The Spectator (1711)|Spectator]] » anglais ?
 
-Quel auteur français, reconnu pour ses comédies comme "[[Le Jeu de l'amour et du hasard]]", a intégré l'[[Académie française]] en 1742 ?
+Quel auteur du « [[Le Jeu de l'amour et du hasard|Jeu de l'amour et du hasard]] » fut élu à l'[[Académie française]] en 1742, face à [[Voltaire]] ?
 
-Quelle pièce écrite par [[Marivaux]] en 1737 explore les thèmes de l'utopie et de l'égalité des sexes dans une île imaginaire ?
+Quel dramaturge a écrit « [[L'Île des esclaves]] » (1725), comédie où, après un naufrage, maîtres et serviteurs doivent échanger leurs conditions ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Connu pour ses œuvres comme "Le Jeu de l'amour et du hasard" et "Les Fausses Co
 Fait surprenant, il a été un contributeur prolifique pour la presse de son temps et a fondé un journal satirique nommé "Le Spectateur Français" en 1721, faisant de lui l'un des pionniers de ce genre littéraire. 
 
 Il est mort en 1763, mais son influence perdure, et le terme "marivaudage", inspiré de son nom, désigne un style de langage sophistiqué et subtil que de nombreux auteurs cherchent à imiter.
+
+###### Archives questions
+
+Dans quelle œuvre publiée en 1724, [[Marivaux]] utilise-t-il pour la première fois le terme "[[marivaudage]]" pour désigner un style de conversation élégante et raffinée ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle pièce écrite par [[Marivaux]] en 1737 explore les thèmes de l'utopie et de l'égalité des sexes dans une île imaginaire ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel auteur français, reconnu pour ses comédies comme "[[Le Jeu de l'amour et du hasard]]", a intégré l'[[Académie française]] en 1742 ? <!-- cm003 remplacée 2026-11-23 -->

@@ -30,11 +30,11 @@ culture_g_justification: "Figure centrale de la littérature, de la philosophie 
 
 ###### Questions
 
-Quel philosophe français a formé un "pacte de deux ans" pour lire, écrire et publier avec [[Jean-Paul Sartre]] en 1929 ?
+Quelle philosophe, surnommée « le Castor », a conclu avec [[Jean-Paul Sartre]] un pacte opposant leur « amour nécessaire » aux « amours contingentes » ?
 
-Quel ouvrage autobiographique publié en 1958 par [[Simone de Beauvoir]] a remporté le prix [[Goncourt]] ?
+Quelle écrivaine a reçu le [[prix Goncourt]] en 1954 pour son roman « [[Les Mandarins]] » ?
 
-Qui a écrit le livre "Le Deuxième Sexe" en 1949, une œuvre pionnière dans le domaine du féminisme ?
+Quelle philosophe a publié en 1949 l'essai « [[Le Deuxième Sexe]] », texte fondateur du féminisme moderne ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ Elle est surtout connue pour son ouvrage phare, [[Le Deuxième Sexe]], publié e
 Un fait étonnant à propos de Simone de Beauvoir est qu’elle a été la première femme à obtenir un diplôme de philosophie à la [[Sorbonne]], en 1929, la même année où elle rencontre [[Jean-Paul Sartre]], avec qui elle partagea une longue et célèbre relation intellectuelle et amoureuse.  
 
 Peu de gens savent qu’elle a également reçu le titre de docteur honoris causa de l'[[Université de Cambridge]] en 1975, une distinction rarement décernée à un auteur féminin à l'époque.
+
+###### Archives questions
+
+Quel ouvrage autobiographique publié en 1958 par [[Simone de Beauvoir]] a remporté le prix [[Goncourt]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel philosophe français a formé un "pacte de deux ans" pour lire, écrire et publier avec [[Jean-Paul Sartre]] en 1929 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a écrit le livre "Le Deuxième Sexe" en 1949, une œuvre pionnière dans le domaine du féminisme ? <!-- cm003 remplacée 2026-11-23 -->

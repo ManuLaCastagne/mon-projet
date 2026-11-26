@@ -29,11 +29,11 @@ culture_g_justification: "Chef-d’œuvre universel de Tolstoï, très rentable 
 
 ###### Questions
 
-Dans quel roman de [[Léon Tolstoï]], publié pour la première fois en 1877, le personnage principal finit-elle tragiquement sous un train ? 
+Dans quel roman de [[Léon Tolstoï]], paru en feuilleton dans « [[Le Messager russe]] » de 1875 à 1877, l'héroïne se jette-t-elle sous un train ?
 
-Quel chef-d'œuvre de la littérature russe, dont l'intrigue se déroule principalement à [[Saint-Pétersbourg]] et à [[Moscou]], explore les thèmes de l'amour, la famille et la société à travers le personnage d'[[Anna Karénine]] ?
+Quel roman s'ouvre sur la phrase « Toutes les familles heureuses se ressemblent ; chaque famille malheureuse l'est à sa façon » ?
 
-Dans quel ouvrage, adapté au cinéma à de nombreuses reprises, le dilemme émotionnel et social d'[[Anna Karénine]] est-il central, illustrant les contradictions de la société aristocratique russe de la fin du XIXe siècle ?
+Quel roman russe [[Joe Wright]] a-t-il adapté au cinéma en 2012 avec [[Keira Knightley]] dans le rôle-titre ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ L'histoire se déroule principalement à Saint-Pétersbourg et Moscou, et traite
 Un fait étonnant est que l'écrivain [[William Faulkner]] considérait [[Anna Karénine]] comme le meilleur roman jamais écrit, plaçant ainsi l'œuvre de [[Tolstoï]] au sommet de la littérature mondiale. 
 
 D'ailleurs, lors de sa première publication, le roman a été diffusé en feuilleton dans le périodique russe [[Russky Vestnik]], mais la suite a dû être publiée séparément en raison de désaccords entre [[Tolstoï]] et l'éditeur.
+
+###### Archives questions
+
+Quel chef-d'œuvre de la littérature russe, dont l'intrigue se déroule principalement à [[Saint-Pétersbourg]] et à [[Moscou]], explore les thèmes de l'amour, la famille et la société à travers le personnage d'[[Anna Karénine]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel ouvrage, adapté au cinéma à de nombreuses reprises, le dilemme émotionnel et social d'[[Anna Karénine]] est-il central, illustrant les contradictions de la société aristocratique russe de la fin du XIXe siècle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel roman de [[Léon Tolstoï]], publié pour la première fois en 1877, le personnage principal finit-elle tragiquement sous un train ? <!-- cm003 remplacée 2026-11-23 -->

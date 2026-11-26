@@ -29,11 +29,11 @@ culture_g_justification: "Personnage mondialement connu de Peanuts, exploitable 
 
 ###### Questions
 
-Quel personnage de bande dessinée, créé par [[Charles M. Schulz]] en 1950, est un chien beagle célèbre pour ses aventures imaginaires et sa maison sur le toit de sa niche ?
+Quel beagle des [[Peanuts]] fait sa première apparition dans le strip de [[Charles M. Schulz]] le 4 octobre 1950 ?
 
-Dans quelle année le personnage de [[Snoopy]] a-t-il fait sa première apparition dans le strip de bande dessinée [[Peanuts]] aux États-Unis ?
+Quel chien de bande dessinée s'imagine en pilote de la Première Guerre mondiale combattant l'as allemand [[Manfred von Richthofen]], dit le Baron rouge ?
 
-Quel compagnon animal de [[Charlie Brown]], connu sous le nom de [[Snoopy]], a remporté le titre de personnage animé préféré lors de l'année 2000 dans des sondages populaires aux États-Unis ? <!-- score: 5 -->
+Quel personnage de [[Charles M. Schulz]] a donné son nom au module lunaire d'[[Apollo 10]] en 1969, le module de commande s'appelant « [[Charlie Brown]] » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Contrairement à d'autres chiens, Snoopy possède une riche vie intérieure, ima
 Un fait étonnant sur [[Snoopy]] est qu'il est devenu une mascotte de la NASA en 1968, symbolisant la sécurité et l'excellence après le succès d'[[Apollo 10]], une mission souvent surnommée "Snoopy" et "Charlie Brown" d'après les personnages. 
 
 Ce détail, avec l'emballage de la licence [[Peanuts]], a fait de [[Snoopy]] plus qu'un simple personnage de bande dessinée, marquant un impact culturel qui a perduré à travers les décennies.
+
+###### Archives questions
+
+Dans quelle année le personnage de [[Snoopy]] a-t-il fait sa première apparition dans le strip de bande dessinée [[Peanuts]] aux États-Unis ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel compagnon animal de [[Charlie Brown]], connu sous le nom de [[Snoopy]], a remporté le titre de personnage animé préféré lors de l'année 2000 dans des sondages populaires aux États-Unis ? <!-- score: 5 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage de bande dessinée, créé par [[Charles M. Schulz]] en 1950, est un chien beagle célèbre pour ses aventures imaginaires et sa maison sur le toit de sa niche ? <!-- cm003 remplacée 2026-11-23 -->
