@@ -40,11 +40,11 @@ culture_g_justification: "Figure fondamentale de la pensée politique et économ
 
 Quel théoricien [[révolutionnaire]] allemand était surnommé "[[Le Maure]]" pour son teint foncé et sa barbe fournie ?
 
-Dans quelle œuvre publiée en 1867, [[Karl Marx]] explore-t-il le concept de la "plus-value" ?
+Quel penseur allemand a publié en 1867 le premier livre du « [[Le Capital|Capital]] », où il développe la notion de plus-value ?
 
-Quel philosophe et économiste allemand est l'auteur du manifeste politique "Le Manifeste du Parti communiste" publié en 1848 ?
+Quel philosophe allemand a rédigé le [[Manifeste du Parti communiste]], texte qui s'achève par « Prolétaires de tous les pays, unissez-vous ! » ?
 
-Ancien élève de [[Friedrich Wilhelm IV Gymnasium]] à [[Trèves]], quel théoricien révolutionnaire a co-écrit "La Sainte Famille" avec [[Friedrich Engels]] en 1845 ? <!-- score: 6 -->
+Quel penseur a cosigné en 1845 avec [[Friedrich Engels]] « [[La Sainte Famille]] », pamphlet dirigé contre [[Bruno Bauer]] et les Jeunes hégéliens ?
 
 ###### Description
 
@@ -72,3 +72,11 @@ Avant sa renommée internationale, il a étudié le droit et la philosophie à [
 En 1845, Marx et son collaborateur et ami [[Friedrich Engels]], ont été expulsés de [[Paris]], ce qui les a conduits à vivre brièvement à [[Bruxelles]] avant de s'installer à [[Londres]], où il a passé la majorité de sa vie. 
 
 Fait peu connu, tandis que beaucoup connaissent son rôle fondateur dans le communisme, peu savent qu'il détient le record d'être le sujet, encore aujourd'hui, de l'une des plus larges bibliographies de l'histoire, avec plus de 40 000 ouvrages et articles consacrés à ses théories et à sa vie.
+
+###### Archives questions
+
+Dans quelle œuvre publiée en 1867, [[Karl Marx]] explore-t-il le concept de la "plus-value" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Ancien élève de [[Friedrich Wilhelm IV Gymnasium]] à [[Trèves]], quel théoricien révolutionnaire a co-écrit "La Sainte Famille" avec [[Friedrich Engels]] en 1845 ? <!-- score: 6 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel philosophe et économiste allemand est l'auteur du manifeste politique "Le Manifeste du Parti communiste" publié en 1848 ? <!-- cm003 remplacée 2026-11-23 -->

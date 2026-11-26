@@ -27,11 +27,11 @@ culture_g_justification: "Créateur de contenu très spécialisé et contemporai
 
 ###### Questions
 
-En quelle année [[Sulivan Gwed]] a-t-il publié son premier livre intitulé "[[Ma vie en vrai]]" ?
+Quel vidéaste web français a publié en octobre 2021 chez [[HarperCollins]] le livre « Fashionology : Sois mode & sois toi » ?
 
-Dans quelle émission de télévision diffusée en 2018 [[Sulivan Gwed]] a-t-il participé pour promouvoir son livre ?
+Quel jeune youtubeur a fait l'objet le 11 février 2017 d'un reportage de l'émission [[Le Tube]] sur [[Canal+]] ?
 
-Quel exploit a accompli [[Sulivan Gwed]] en 2015 sur [[YouTube]], le plaçant parmi les influenceurs les plus suivis en France ?
+Sous quel nom est aujourd'hui connu le vidéaste français qui a débuté sur [[YouTube]] en 2014, à 13 ans, sous le pseudonyme « Un Panda Moqueur » ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ En 2017, il publie son premier livre intitulé "[[Suite logique]]", ce qui lui p
 Un fait étonnant à propos de Sulivan est qu'il a été l'un des plus jeunes YouTubers en France à dépasser le million d'abonnés, accomplissant cet exploit à seulement 16 ans. 
 
 En plus de ses talents sur YouTube, [[Sulivan Gwed]] a également poursuivi une carrière dans le mannequinat et a travaillé avec des marques internationales telles qu'[[IKKS]] et [[Hudson Jeans]].
+
+###### Archives questions
+
+En quelle année [[Sulivan Gwed]] a-t-il publié son premier livre intitulé "[[Ma vie en vrai]]" ? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle émission de télévision diffusée en 2018 [[Sulivan Gwed]] a-t-il participé pour promouvoir son livre ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel exploit a accompli [[Sulivan Gwed]] en 2015 sur [[YouTube]], le plaçant parmi les influenceurs les plus suivis en France ? <!-- cm003 remplacée 2026-11-23 -->

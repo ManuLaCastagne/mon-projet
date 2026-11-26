@@ -29,11 +29,11 @@ culture_g_justification: "Le groupe français Gold est associé à quelques succ
 
 ###### Questions
 
-En quelle année l'album *[[Gold: Greatest Hits]]* du groupe [[ABBA]] a-t-il été publié pour la première fois ?
+Quel groupe français a classé « [[Plus près des étoiles]] », chanson dédiée aux boat-people, 24 semaines au [[Top 50]] en 1985 ?
 
-Quel est le titre de la chanson publiée par [[Spandau Ballet]] en 1983 qui est souvent associée au terme "Gold" dans la culture pop ?
+Quel groupe a été élu meilleure révélation de la variété aux [[Victoires de la musique]] le 22 novembre 1986 ?
 
-À quelle compilation best-of sortie en 2004 par [[Johnny Hallyday]] fait référence le mot "Gold" ? <!-- score: 10 -->
+Quel groupe, mené par le chanteur [[Émile Wandelmer]], a été numéro un du [[Top 50]] en 1986 avec « [[Capitaine abandonné]] » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Le groupe a connu de nombreux changements de formation, mais c'est sous l'impuls
 Un fait notable sur [[Gold]] est qu'ils détiennent le record de l'un des plus longs classements dans le [[Top 50]] pour une chanson française, avec "Capitaine Abandonné", qui est restée dans le classement pendant 36 semaines. 
 
 La chanson "Capitaine Abandonné" a atteint la deuxième place du [[Top 50]] en 1985, confirmant ainsi le statut de Gold comme l'un des groupes incontournables de la décennie en France.
+
+###### Archives questions
+
+En quelle année l'album *[[Gold: Greatest Hits]]* du groupe [[ABBA]] a-t-il été publié pour la première fois ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre de la chanson publiée par [[Spandau Ballet]] en 1983 qui est souvent associée au terme "Gold" dans la culture pop ? <!-- cm003 remplacée 2026-11-23 -->
+
+À quelle compilation best-of sortie en 2004 par [[Johnny Hallyday]] fait référence le mot "Gold" ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->

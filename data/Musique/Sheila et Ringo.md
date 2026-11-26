@@ -29,11 +29,11 @@ culture_g_justification: "Le duo Sheila-Ringo est surtout associé à « Les Gon
 
 ###### Questions
 
-Quel couple de chanteurs français, [[Sheila]] et [[Ringo]], ont enregistré le duo "Les Gondoles à Venise" en 1973 ?
+Quel couple de chanteurs a enregistré en duo « [[Les Gondoles à Venise]] », grand succès de l'année 1973 ?
 
-Quel duo célèbre de la chanson française, composé de [[Sheila]] et [[Ringo]], s'est séparé de manière médiatisée en 1979 ?
+Quel couple de vedettes de la variété, produits tous deux par [[Claude Carrère]], a divorcé le 30 novembre 1979 ?
 
-Quels artistes, [[Sheila]] et [[Ringo]], se sont mariés en 1973 et sont connus pour leur carrière à la fois en solo et en duo ?
+Quels artistes se sont mariés le 13 février 1973 à 13 h 13, avant d'avoir en 1975 un fils prénommé Ludovic ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Leur duo culte, "Les Gondoles à Venise", sorti en 1973, est devenu un classique
 Un fait étonnant est que [[Ringo]], de son vrai nom [[Guy Bayle]], a tenu le record pendant de nombreuses années pour avoir déclenché l'un des premiers grands buzz médiatiques en France grâce à leur mariage en avril 1973, qui a été retransmis à la télévision. 
 
 [[Sheila]], dont le véritable nom est [[Annie Chancel]], a poursuivi une carrière solo prolifique avant et après leur duo, marquant les esprits avec son style yéyé et ses ventes impressionnantes de disques franchissant les millions d'exemplaires dès les années 1960.
+
+###### Archives questions
+
+Quel couple de chanteurs français, [[Sheila]] et [[Ringo]], ont enregistré le duo "Les Gondoles à Venise" en 1973 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel duo célèbre de la chanson française, composé de [[Sheila]] et [[Ringo]], s'est séparé de manière médiatisée en 1979 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quels artistes, [[Sheila]] et [[Ringo]], se sont mariés en 1973 et sont connus pour leur carrière à la fois en solo et en duo ? <!-- cm003 remplacée 2026-11-23 -->

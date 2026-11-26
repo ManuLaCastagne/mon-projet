@@ -29,11 +29,11 @@ culture_g_justification: "Danse historique identifiable dans les quiz sur le XIX
 
 ###### Questions
 
-Quel type de danse, dérivé de la contredanse française, est devenu populaire à [[Paris]] au début du [[XIXe siècle]] et porte le nom de [[Quadrille]] ?
+Quelle danse de bal, héritière de la [[contredanse]] française, enchaîne cinq figures appelées le pantalon, l'été, la poule, la pastourelle et la finale ?
 
-Quelle danse de bal du [[XIXe siècle]], souvent exécutée par quatre couples formant un carré, a inspiré une musique éponyme jouée par de célèbres compositeurs tels que [[Johann Strauss père]] ? <!-- score: 4 -->
+Quelle danse de salon [[Johann Strauss]] père découvrit-il lors d'un voyage en France en 1837, avant de l'introduire en Autriche au carnaval de 1840 ?
 
-Quel genre musical, généralement associé à une danse formaliste à la [[Cour Impériale de Vienne]] dans les années 1800, est connu sous le nom de [[Quadrille]] ?
+Pour quelle danse de bal [[Philippe Musard]] fut-il surnommé « le Napoléon » sous la [[monarchie de Juillet]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Ce style musical et chorégraphique a connu son apogée dans les salons parisien
 Un fait étonnant sur le quadrille est que son nom est dérivé du mot espagnol "cuadrilla", signifiant petit groupe ou équipe, une référence à sa formation en carré, illustrant également l'influence culturelle espagnole dans l'Europe du XIXe siècle.
 
 Le record de la plus grande performance de Quadrille remonte à 2019, lorsque plus de 5 000 danseurs se sont réunis à [[Ljubljana]] en [[Slovénie]] pour exécuter cette danse traditionnelle simultanément.
+
+###### Archives questions
+
+Quel type de danse, dérivé de la contredanse française, est devenu populaire à [[Paris]] au début du [[XIXe siècle]] et porte le nom de [[Quadrille]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel genre musical, généralement associé à une danse formaliste à la [[Cour Impériale de Vienne]] dans les années 1800, est connu sous le nom de [[Quadrille]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle danse de bal du [[XIXe siècle]], souvent exécutée par quatre couples formant un carré, a inspiré une musique éponyme jouée par de célèbres compositeurs tels que [[Johann Strauss père]] ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

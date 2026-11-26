@@ -29,11 +29,11 @@ culture_g_justification: "Chanteur français connu notamment par sa filiation et
 
 ###### Questions
 
-En quelle année l'album «[[Comme un Manouche sans Guitare]]» de [[Thomas Dutronc]] a-t-il été certifié [[disque de platine]] en France ?  
+Quel fils de [[Françoise Hardy]] a reçu en 2009 la Victoire de la musique de la chanson originale pour « [[Comme un Manouche sans Guitare]] » ?
 
 Quel artiste a sorti en 2020 un album hommage intitulé [[Frenchy]], reprenant des classiques de la chanson française et internationale avec une touche de jazz manouche ?  
 
-Quel musicien a fait ses débuts en concert aux [[Francofolies de La Rochelle]] en 2006, avant de devenir un artiste incontournable de la scène musicale française ?
+Quel guitariste a appris son instrument à dix-huit ans auprès des musiciens de jazz manouche des puces de [[Saint-Ouen (Seine-Saint-Denis)|Saint-Ouen]], après avoir découvert [[Django Reinhardt]] ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ En 2007, il sort son premier album, "Comme un manouche sans guitare", qui se ven
 Un fait étonnant, peu connu, sur [[Thomas Dutronc]] est qu'il est capable de jouer des morceaux complets à la guitare avec seulement deux doigts, en hommage à [[Django Reinhardt]], une prouesse qui peut surprendre même les amateurs de guitare. 
 
 En 2020, il collabore avec des artistes de renom tels que [[Iggy Pop]] et [[Diana Krall]] dans l'album "Frenchy", démontrant son influence internationale et sa capacité à fusionner différents genres musicaux.
+
+###### Archives questions
+
+En quelle année l'album «[[Comme un Manouche sans Guitare]]» de [[Thomas Dutronc]] a-t-il été certifié [[disque de platine]] en France ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien a fait ses débuts en concert aux [[Francofolies de La Rochelle]] en 2006, avant de devenir un artiste incontournable de la scène musicale française ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,7 @@ culture_g_justification: "Sujet musical très obscur et mal identifié dans la c
 
 ###### Questions
 
-Quel est le titre du morceau d'[[Alicia Keys]] sorti en 2020 et qui aborde le thème de la résilience à travers l'image de marcher pieds nus ?
-
-Quel groupe français a sorti l'album intitulé "Deux pieds" en 2019, alliant [[jazz]] et [[musiques du monde]] ?
-
-Quelle chanson des [[Petit Biscuit]] a pour refrain les mots "deux pieds", évoquant une connexion entre la musique électronique et les rythmes naturels, sortie en 2023 ?
+Quelle chanson de [[Thomas Fersen]] figure en deuxième piste de l'album « [[Pièce montée des grands jours]] » (2003), entre « Diane de Poitiers » et « Saint-Jean-du-Doigt » ?
 
 ###### Description
 
@@ -44,3 +40,11 @@ Ce groupe a été fondé par les talentueux musiciens [[Antoine Lemoine]] et [[J
 Fait étonnant, leur premier album, sorti en 2020, a été enregistré entièrement en extérieur, avec une prise de son faite en pleine forêt pour capter les sons naturels en arrière-plan. 
 
 En 2021, [[Deux pieds]] a réalisé un exploit en devenant le premier groupe à jouer un concert en direct depuis le sommet du [[Mont-Blanc]], à une altitude de 4 809 mètres.
+
+###### Archives questions
+
+Quel groupe français a sorti l'album intitulé "Deux pieds" en 2019, alliant [[jazz]] et [[musiques du monde]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanson des [[Petit Biscuit]] a pour refrain les mots "deux pieds", évoquant une connexion entre la musique électronique et les rythmes naturels, sortie en 2023 ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel est le titre du morceau d'[[Alicia Keys]] sorti en 2020 et qui aborde le thème de la résilience à travers l'image de marcher pieds nus ? <!-- cm003 archivée 2026-11-23 -->
