@@ -8,5 +8,5 @@ tags:
 culture_g_score: 51
 culture_g_justification: "Institution artistique et historique française notable, mais surtout mobilisée dans des questions spécialisées sur les arts décoratifs."
 ---
-Question : En 1667 à Paris, à quel établissement [[Colbert]] a-t-il donné le titre de [[Manufacture royale des meubles]] de la [[Couronne]] ?
+Question : En 1667 à Paris, à quel établissement [[Jean-Baptiste Colbert]] a-t-il donné le titre de [[Manufacture royale des meubles]] de la [[Couronne]] ?
 

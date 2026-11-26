@@ -42,7 +42,7 @@ Quel territoire, intégré partiellement à la région des [[Pays de la Loire]] 
 
 Le [[Perche]] est une région naturelle située principalement dans le sud de la [[Normandie]] et nord-ouest du [[Centre-Val de Loire]], réputée pour ses paysages vallonnés et boisés. 
 
-Cette région a été reconnue pour la première fois administrativement en 1668 sous l'égide de l'intendant [[Colbert]] qui a fixé ses frontières. 
+Cette région a été reconnue pour la première fois administrativement en 1668 sous l'égide de l'intendant [[Jean-Baptiste Colbert]] qui a fixé ses frontières. 
 
 Un fait étonnant est que le [[Perche]] abrite la ville de [[Nogent-le-Rotrou]], qui était au XIXe siècle l'un des centres les plus importants de la production de clous en [[Europe]] avec plusieurs centaines d'artisans spécialisés. 
 

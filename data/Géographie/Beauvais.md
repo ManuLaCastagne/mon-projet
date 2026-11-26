@@ -54,4 +54,4 @@ Dans quelle ville les travaux de construction de la [[cathédrale Saint-Pierre d
 
 Quelle ville française a été choisie comme lieu d'installation de [[l'Aéroport de Paris-Beauvais-Tillé]], inauguré en 1956, bien qu'il soit principalement utilisé pour des vols low-cost et pour désengorger les aéroports parisiens ? <!-- cm003 remplacée 2026-11-23 -->
 
-Où se trouvait l'ancienne manufacture de tapisserie prospère, fondée par [[Colbert]] en 1664, qui a été l'une des plus importantes de France jusqu'à sa fermeture en 1848 ? <!-- cm003 remplacée 2026-11-23 -->
+Où se trouvait l'ancienne manufacture de tapisserie prospère, fondée par [[Jean-Baptiste Colbert]] en 1664, qui a été l'une des plus importantes de France jusqu'à sa fermeture en 1848 ? <!-- cm003 remplacée 2026-11-23 -->
