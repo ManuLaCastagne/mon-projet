@@ -29,11 +29,9 @@ culture_g_justification: "Album des L5 peu connu et offrant très peu d’angles
 
 ###### Questions
 
-Dans quel album de [[Johnny Hallyday]], sorti en 1986, peut-on entendre la chanson "Laura", dédiée à sa fille ?
+Quelle chanson de l'album « [[Gang (album)|Gang]] » (1986) de [[Johnny Hallyday]] est dédiée à sa fille ?
 
-Quelle chanson du rappeur [[Nekfeu]], extraite de l'album [[Cyborg]] en 2016, mentionne le prénom [[Laura]] dans ses paroles ?
-
-Quel titre, interprété par [[Laura Pausini]] en 1993, a connu un succès international et lancé sa carrière musicale ?
+Quel est le prénom de la chanteuse italienne révélée au [[festival de Sanremo]] 1993 avec « La solitudine » ?
 
 ###### Description
 
@@ -44,3 +42,11 @@ Ce projet a marqué une étape importante dans la carrière du groupe avec des v
 Un fait étonnant concernant [[Laura Musique]] est qu'il contient un morceau intitulé "Retiens-moi", qui a été utilisé dans une scène émotionnelle de la célèbre série française [[Plus belle la vie]] en 2004, renforçant ainsi son impact culturel en dehors des charts. 
 
 Malgré une carrière éphémère, [[Les L5]] restent un phénomène marquant de la pop française du début des années 2000, ayant été découvertes lors de l'émission de télé-réalité populaire [[Popstars]], diffusée sur [[M6]].
+
+###### Archives questions
+
+Dans quel album de [[Johnny Hallyday]], sorti en 1986, peut-on entendre la chanson "Laura", dédiée à sa fille ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanson du rappeur [[Nekfeu]], extraite de l'album [[Cyborg]] en 2016, mentionne le prénom [[Laura]] dans ses paroles ? <!-- cm003 archivée 2026-11-23 -->
+
+Quel titre, interprété par [[Laura Pausini]] en 1993, a connu un succès international et lancé sa carrière musicale ? <!-- cm003 remplacée 2026-11-23 -->

@@ -29,11 +29,11 @@ culture_g_justification: "Harpiste française reconnue historiquement, mais suje
 
 ###### Questions
 
-Dans quel orchestre prestigieux [[Lily Laskine]] a-t-elle commencé sa carrière professionnelle en 1930 ? 
+Quelle harpiste devient en 1934 soliste de l'[[Orchestre national de France]], dès la création de celui-ci ?
 
-Quelle musicienne a été la première à être nommée Officier de la [[Légion d'honneur]] en 1958 ? 
+Avec quelle harpiste [[Jean-Pierre Rampal]] a-t-il enregistré le [[Concerto pour flûte et harpe]] de [[Wolfgang Amadeus Mozart|Mozart]], disque classique le plus vendu en France ?
 
-Qui a été la première harpiste à enregistrer une musique pour un film du célèbre réalisateur [[Sacha Guitry]] en 1935 ?
+Pour quelle harpiste [[Albert Roussel]] a-t-il écrit son « [[Impromptu (Roussel)|Impromptu]] » pour harpe ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 1934, elle devient la première femme harpiste à intégrer l'Orchestre natio
 Fait étonnant, peu connu : [[Lily Laskine]] a enregistré plus de 100 œuvres pour la radio dans les années 1930 et 1940, faisant d'elle l'une des harpistes les plus prolifiques de son époque. 
 
 Elle a également contribué au rayonnement de la musique française à travers le monde en collaborant avec de nombreux compositeurs célèbres tels que [[Francis Poulenc]] et [[Darius Milhaud]].
+
+###### Archives questions
+
+Dans quel orchestre prestigieux [[Lily Laskine]] a-t-elle commencé sa carrière professionnelle en 1930 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle musicienne a été la première à être nommée Officier de la [[Légion d'honneur]] en 1958 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a été la première harpiste à enregistrer une musique pour un film du célèbre réalisateur [[Sacha Guitry]] en 1935 ? <!-- cm003 remplacée 2026-11-23 -->

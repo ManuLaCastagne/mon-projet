@@ -29,11 +29,11 @@ culture_g_justification: "Groupe français de niche dont la notoriété et la pr
 
 ###### Questions
 
-Dans quel album de 1998 du groupe [[Les Wriggles]] trouve-t-on le titre [[Calamités]] ?
+Quel groupe pop-rock originaire de [[Beaune]] a publié en 1984 son unique album, « À bride abattue », chez [[New Rose (disquaire)|New Rose]] ?
 
-Quel groupe a interprété en 1984 une chanson nommée [[Calamités]] avec des paroles humoristiques sur les désastres quotidiens ?
+Quel groupe a vu son tube « Vélomoteur » parodié en « Vibromasseur » par [[Les Nuls]] en 1988 ?
 
-Quelle chanson du groupe [[Skaraoke]], sortie en 2003, se nomme [[Calamités]] et joue sur des jeux de mots liés aux catastrophes ?
+Quel groupe féminin a été reformé en 1987 à la demande de [[Daniel Chenevez]], membre de [[Niagara (groupe)|Niagara]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Leur premier album, intitulé "À Bride Abattue", est sorti en 1984, mais c'est 
 Un fait étonnant est que les Calamités ont réussi à se produire en première partie d'un concert de [[The Clash]] en 1984, un honneur rare pour un groupe français et indépendamment dirigé par trois jeunes femmes. 
 
 Le groupe s'est dissous en 1988, mais leur influence continue de se faire sentir dans le paysage musical français, malgré une carrière relativement courte.
+
+###### Archives questions
+
+Dans quel album de 1998 du groupe [[Les Wriggles]] trouve-t-on le titre [[Calamités]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel groupe a interprété en 1984 une chanson nommée [[Calamités]] avec des paroles humoristiques sur les désastres quotidiens ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle chanson du groupe [[Skaraoke]], sortie en 2003, se nomme [[Calamités]] et joue sur des jeux de mots liés aux catastrophes ? <!-- cm003 remplacée 2026-11-23 -->

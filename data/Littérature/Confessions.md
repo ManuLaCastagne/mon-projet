@@ -29,11 +29,11 @@ culture_g_justification: "Texte fondateur de l’autobiographie moderne, très r
 
 ###### Questions
 
-Quel ouvrage de [[Jean-Jacques Rousseau]], publié en 1782, est considéré comme l'un des premiers exemples d'autobiographie moderne et se distingue par son honnêteté brutale et sa description détaillée des sentiments personnels ?
+Quelle œuvre de [[Jean-Jacques Rousseau]] s'ouvre sur la phrase « Je forme une entreprise qui n'eut jamais d'exemple, et dont l'exécution n'aura point d'imitateur » ?
 
-Quelle œuvre majeure, commencée en 1765 et publiée à titre posthume, explore la vie personnelle et les réflexions intimes de [[Jean-Jacques Rousseau]], influençant ainsi le genre littéraire de l'autobiographie ?
+Quel récit en douze livres, rédigé par [[Jean-Jacques Rousseau]] entre 1765 et 1770, ne fut publié qu'après sa mort, en 1782 puis en 1789 ?
 
-Dans quel livre, les « [[Confessions]] », [[Jean-Jacques Rousseau]] raconte-t-il sa propre version des événements de sa vie, en réponse partielle aux critiques qui ont surgi contre lui, tout en exposant sa philosophie personnelle ?
+Dans quelle autobiographie [[Jean-Jacques Rousseau]] avoue-t-il avoir volé, à Turin en 1728, un vieux ruban rose et laissé accuser une jeune cuisinière à sa place ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Fait étonnant : [[Rousseau]] y admet avoir volé le ruban d'une amie de la fami
 Ce texte marque également l'originalité de [[Rousseau]] en tant que penseur des Lumières, car il dépeint sans détour ses luttes intérieures et ses préoccupations philosophiques. 
 
 Ainsi, les Confessions ont jeté les bases de l'autobiographie moderne, influençant de nombreux auteurs, dont [[Marcel Proust]] et ses célebres ouvrages des siècles plus tard.
+
+###### Archives questions
+
+Dans quel livre, les « [[Confessions]] », [[Jean-Jacques Rousseau]] raconte-t-il sa propre version des événements de sa vie, en réponse partielle aux critiques qui ont surgi contre lui, tout en exposant sa philosophie personnelle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel ouvrage de [[Jean-Jacques Rousseau]], publié en 1782, est considéré comme l'un des premiers exemples d'autobiographie moderne et se distingue par son honnêteté brutale et sa description détaillée des sentiments personnels ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle œuvre majeure, commencée en 1765 et publiée à titre posthume, explore la vie personnelle et les réflexions intimes de [[Jean-Jacques Rousseau]], influençant ainsi le genre littéraire de l'autobiographie ? <!-- cm003 remplacée 2026-11-23 -->

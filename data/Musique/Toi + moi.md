@@ -29,11 +29,11 @@ culture_g_justification: "Tube francophone bien identifié, mais les questions s
 
 ###### Questions
 
-Quel est le titre de la chanson de [[Grégoire]] sortie en 2008 qui a connu un grand succès en France et dans plusieurs pays francophones ? 
+Quelle chanson de [[Grégoire]], sortie le 30 juin 2008, s'est classée numéro un des ventes en Wallonie et des téléchargements en France ?
 
-Comment s'appelle l'album de [[Grégoire]], publié en 2008, qui inclut le tube « Toi + Moi » distribué par [[MyMajorCompany]] ? 
+Quel premier album de [[Grégoire]], sorti le 22 septembre 2008 sur le label [[My Major Company]], s'est écoulé à plus d'un million d'exemplaires ?
 
-Quel morceau interprété par [[Grégoire]] a été élu chanson de l'année dans l'émission [[La Chanson de l'année]] en 2009 ?
+Quelle chanson de [[Grégoire]] les [[Kids United]] ont-ils reprise en 2015 sur leur album « Un monde meilleur » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle figure sur son premier album, également intitulé [[Toi + moi]], qui a con
 Un fait peu connu est que [[Toi + moi]] a réussi à se maintenir dans le top 10 du classement français des singles pendant plus de 10 semaines consécutives, un exploit rarissime pour une chanson financée de manière indépendante. 
 
 [[Grégoire]] a été le premier artiste signé par le label [[My Major Company]], une plateforme qui a permis aux internautes de produire son album.
+
+###### Archives questions
+
+Comment s'appelle l'album de [[Grégoire]], publié en 2008, qui inclut le tube « Toi + Moi » distribué par [[MyMajorCompany]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre de la chanson de [[Grégoire]] sortie en 2008 qui a connu un grand succès en France et dans plusieurs pays francophones ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel morceau interprété par [[Grégoire]] a été élu chanson de l'année dans l'émission [[La Chanson de l'année]] en 2009 ? <!-- cm003 remplacée 2026-11-23 -->

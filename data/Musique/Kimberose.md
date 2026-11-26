@@ -29,11 +29,11 @@ culture_g_justification: "Groupe français émergent dont les repères sont prin
 
 ###### Questions
 
-Dans quelle émission télévisée française diffusée en 2018 le groupe [[Kimberose]] a-t-il fait une apparition marquante, propulsant ainsi sa notoriété auprès du grand public?
+Quel groupe soul français a sorti le 16 mars 2018 son premier album, « Chapter One », sur le label Six et Sept de [[Pascal Nègre]] ?
 
-Quel célèbre animateur français a interviewé [[Kimberose]] sur le plateau de [[Taratata]] en 2019, soulignant leur talent émergent sur la scène musicale française?
+Quel groupe s'est présenté le 29 septembre 2017 dans « [[Taratata]] 100% Live » sur [[France 2]] en chantant « I'm Sorry » ?
 
-En 2021, lors de quelle cérémonie prestigieuse [[Kimberose]] a-t-il été nommé pour le prix de la [[Révélation francophone de l'année]], confirmant leur impact croissant dans l'industrie musicale?
+Quelle chanteuse franco-britannique, éliminée de la « [[Nouvelle Star]] » en 2013, chante en 2021 « Nos plus belles années » avec [[Grand Corps Malade]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Leur premier album, intitulé *[[Chapter One]]*, est sorti en 2018 et a rapideme
 Un fait étonnant concernant [[Kimberose]] est que [[Kimberly Kitson Mills]] a d'abord suivi une carrière en psychologie avant de se consacrer pleinement à la musique, un parcours atypique pour une artiste de son envergure.
 
 En 2019, leur single *[[I'm Sorry]]* a atteint le top des charts en France, confirmant leur place spéciale dans le paysage musical français.
+
+###### Archives questions
+
+Dans quelle émission télévisée française diffusée en 2018 le groupe [[Kimberose]] a-t-il fait une apparition marquante, propulsant ainsi sa notoriété auprès du grand public? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre animateur français a interviewé [[Kimberose]] sur le plateau de [[Taratata]] en 2019, soulignant leur talent émergent sur la scène musicale française? <!-- cm003 remplacée 2026-11-23 -->
+
+En 2021, lors de quelle cérémonie prestigieuse [[Kimberose]] a-t-il été nommé pour le prix de la [[Révélation francophone de l'année]], confirmant leur impact croissant dans l'industrie musicale? <!-- cm003 remplacée 2026-11-23 -->

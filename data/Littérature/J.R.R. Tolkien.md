@@ -25,11 +25,11 @@ culture_g_justification: "Tolkien est un incontournable mondial de la littératu
 
 ###### Questions
 
-Dans quelle année [[J.R.R. Tolkien]] a-t-il publié le premier tome de [[Le Seigneur des Anneaux]], intitulé [[La Communauté de l'Anneau]] ? ([[1954]])
+Quel auteur a publié en 1954 « [[La Communauté de l'Anneau]] », premier volume du [[Le Seigneur des Anneaux|Seigneur des Anneaux]] ?
 
-Quel célèbre auteur de fantasy a travaillé comme professeur à l'[[Université d'Oxford]] et a participé à la naissance du groupe de discussion littéraire nommé [[Les Inklings]] ?
+Quel professeur de l'[[Université d'Oxford]] fut, avec [[C. S. Lewis]], l'un des piliers du cercle littéraire des [[Inklings]] ?
 
-Quel écrivain a inventé le mot [[hobbit]] et publié son roman pour enfants intitulé [[Le Hobbit]] en [[1937]] ?
+Quel écrivain a publié en 1937 le roman pour enfants « [[Le Hobbit]] », dont le héros est Bilbon Sacquet ?
 
 ###### Description
 
@@ -40,3 +40,11 @@ Célèbre pour ses œuvres de fantasy, il a notamment écrit "[[Le Seigneur des 
 Un fait étonnant est que [[Tolkien]] a commencé à inventer des langages dès son enfance, ce qui a plus tard enrichi ses romans, notamment avec des langues élaborées comme le sindarin et le quenya. 
 
 Il a également travaillé comme professeur à l'[[Université d'Oxford]] pendant 34 ans, de 1925 à 1959, où ses conférences étaient réputées pour leur densité et leur intérêt.
+
+###### Archives questions
+
+Dans quelle année [[J.R.R. Tolkien]] a-t-il publié le premier tome de [[Le Seigneur des Anneaux]], intitulé [[La Communauté de l'Anneau]] ? ([[1954]]) <!-- cm003 remplacée 2026-11-23 -->
+
+Quel écrivain a inventé le mot [[hobbit]] et publié son roman pour enfants intitulé [[Le Hobbit]] en [[1937]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel célèbre auteur de fantasy a travaillé comme professeur à l'[[Université d'Oxford]] et a participé à la naissance du groupe de discussion littéraire nommé [[Les Inklings]] ? <!-- cm003 remplacée 2026-11-23 -->

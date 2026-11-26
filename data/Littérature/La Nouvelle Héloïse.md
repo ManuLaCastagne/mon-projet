@@ -29,11 +29,11 @@ culture_g_justification: "Grand roman épistolaire de Rousseau, il est utile pou
 
 ###### Questions
 
-Quel roman épistolaire écrit par [[Jean-Jacques Rousseau]] en 1761, explorant les thèmes de l'amour et de la vertu, a connu un succès immédiat et influencé la littérature du siècle des Lumières ?
+Quel roman de [[Jean-Jacques Rousseau]] (1761) porte un titre faisant allusion à l'amante du philosophe [[Pierre Abélard]] ?
 
-Quel ouvrage, publié sous le titre original de "Julie, ou la nouvelle Héloïse", a suscité un engouement tel qu'il a dû être réimprimé plusieurs fois dans l'année de sa parution, en raison de la forte demande des lecteurs du XVIIIe siècle ?
+Quel roman épistolaire, paru à [[Amsterdam]] chez [[Marc-Michel Rey]] en 1761, a connu au moins 70 éditions avant 1800 ?
 
-Quel livre, ayant pour cadre la région du [[Léman]] en Suisse, a marqué le développement du genre épistolaire par son exploration psychologique des personnages et a été un précurseur du romantisme littéraire ?
+Dans quel roman épistolaire Julie, mariée à M. de Wolmar, vit-elle au domaine de [[Clarens (Vaud)|Clarens]], au bord du [[Léman]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Particulièrement innovant pour son époque, ce roman explore les thèmes de l'a
 Fait méconnu, [[La Nouvelle Héloïse]] a été l'un des plus grands succès littéraires de [[siècle des Lumières]], au point que sa popularité a surpassé celle des œuvres de [[Shakespeare]] à cette époque. 
 
 Une édition pirate de l'ouvrage s'est même vendue à plus de 4 000 exemplaires rien qu'à [[Amsterdam]], ce qui était un chiffre record pour le XVIIIe siècle.
+
+###### Archives questions
+
+Quel ouvrage, publié sous le titre original de "Julie, ou la nouvelle Héloïse", a suscité un engouement tel qu'il a dû être réimprimé plusieurs fois dans l'année de sa parution, en raison de la forte demande des lecteurs du XVIIIe siècle ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel livre, ayant pour cadre la région du [[Léman]] en Suisse, a marqué le développement du genre épistolaire par son exploration psychologique des personnages et a été un précurseur du romantisme littéraire ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel roman épistolaire écrit par [[Jean-Jacques Rousseau]] en 1761, explorant les thèmes de l'amour et de la vertu, a connu un succès immédiat et influencé la littérature du siècle des Lumières ? <!-- cm003 remplacée 2026-11-23 -->

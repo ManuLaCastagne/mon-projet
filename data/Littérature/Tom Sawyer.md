@@ -29,11 +29,11 @@ culture_g_justification: "Héros universellement célèbre de Mark Twain, très 
 
 ###### Questions
 
-Dans quel roman de [[Mark Twain]], publié en 1876, rencontre-t-on le personnage de [[Tom Sawyer]]?
+Quel garnement de [[Mark Twain]] parvient à faire passer à la chaux la palissade de sa tante Polly par ses camarades, qui le paient pour ce privilège ?
 
-Quel personnage fictif met en scène les aventures d'un jeune garçon vivant à [[St. Petersburg]] au milieu du XIXe siècle dans un roman de [[Mark Twain]]?
+Quel héros d'un roman paru en 1876 se perd avec [[Becky Thatcher]] dans la grotte McDougal, au bord du [[Mississippi (fleuve)|Mississippi]] ?
 
-Dans quelle œuvre de [[Mark Twain]], [[Tom Sawyer]] simule-t-il sa propre mort pour assister à ses propres funérailles?
+Quel garçon, cru noyé avec [[Huckleberry Finn]] et Joe Harper, réapparaît dans l'église en pleine oraison funèbre célébrée en sa mémoire ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Le jeune [[Tom]] est souvent associé à ses escapades et à son esprit aventure
 Un fait étonnant est que l'on considère souvent [[Tom Sawyer]] comme le premier roman d'envergure à avoir été écrit entièrement à la machine à écrire, une innovation qui a marqué l'entrée de la littérature dans une nouvelle ère technologique.
 
 Bien que [[Mark Twain]] ait publié de nombreux autres ouvrages, c'est [[Tom Sawyer]] et sa suite "[[Les Aventures de Huckleberry Finn]]" (1884) qui ont inscrit définitivement l'auteur dans le panthéon des grands écrivains américains.
+
+###### Archives questions
+
+Dans quel roman de [[Mark Twain]], publié en 1876, rencontre-t-on le personnage de [[Tom Sawyer]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quelle œuvre de [[Mark Twain]], [[Tom Sawyer]] simule-t-il sa propre mort pour assister à ses propres funérailles? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage fictif met en scène les aventures d'un jeune garçon vivant à [[St. Petersburg]] au milieu du XIXe siècle dans un roman de [[Mark Twain]]? <!-- cm003 remplacée 2026-11-23 -->

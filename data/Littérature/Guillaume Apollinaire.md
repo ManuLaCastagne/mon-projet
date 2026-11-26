@@ -21,20 +21,23 @@ indice_5 :
 indice_6 : 
   - La Belle Époque
 questions:
- - En 1913, quel écrivain publie le poème "Voie lactée", extrait du recueil "Alcools" ?
  - Ecrivain français né en 1880, je suis un temps précepteur en Rhénanie et effectue de nombreux voyages à travers l'Allemagne.  Engagé en 1914 pour la durée de la guerre, je suis blessé à la tempe par un éclat d'obus en 1916, ce qui me vaut de subir une trépanation. Auteur de "L'Enchanteur pourrissant" et du "Poète Assassiné", je deviens célèbre...
 culture_g_score: 80
 culture_g_justification: "Grande figure de l'avant-garde française, utile pour le surréalisme, les calligrammes, la poésie moderne et la Première Guerre mondiale."
+questions_tv_archivees:
+  - En 1913, quel écrivain publie le poème "Voie lactée", extrait du recueil "Alcools" ?
 ---
 ![Image de Guillaume Apollinaire](https://upload.wikimedia.org/wikipedia/commons/8/82/Guillaume_Apollinaire_-_Septembre_1911.jpg)
 
 ###### Questions
 
-Dans quelle œuvre de [[Guillaume Apollinaire]], parue en 1913, retrouve-t-on l'un des premiers exemples d'utilisation du terme [[surréalisme]] ?
+Quel poète qualifie de « drame surréaliste » sa pièce « [[Les Mamelles de Tirésias]] », créée en 1917 ?
 
-Quel poète a été blessé lors de la [[Première Guerre mondiale]] en 1916, alors qu'il servait dans l'artillerie française, et aurait ainsi inventé le terme [[esprit nouveau]] ?
+Quel poète est incarcéré une semaine à la [[prison de la Santé]] en septembre 1911, soupçonné de complicité dans le [[Vol de La Joconde|vol de La Joconde]] ?
 
-Quel auteur est connu pour avoir popularisé le poème typographique, notamment à travers son recueil [[Calligrammes]] publié en 1918 ?
+Quel poète publie en 1918 au [[Mercure de France]] le recueil « [[Calligrammes]] », sous-titré « Poèmes de la paix et de la guerre » ?
+
+En 1913, quel écrivain publie le recueil « Alcools », qui s'ouvre sur le poème « Zone » ? <!-- source: tv -->
 
 ###### Description
 
@@ -45,3 +48,11 @@ En 1913, il publie "Alcools", un recueil de poèmes emblématique du symbolisme 
 Fait surprenant, Apollinaire aurait introduit le terme "surréalisme" lors de la présentation d'un ballet de [[Jean Cocteau]] en 1917, contribuant ainsi à nommer un mouvement artistique majeur du XXe siècle. 
 
 En 1911, il est brièvement suspecté dans le vol de la [[Joconde]], apportant une aura de mystère à sa personnalité déjà énigmatique, bien qu'il soit rapidement innocenté.
+
+###### Archives questions
+
+Dans quelle œuvre de [[Guillaume Apollinaire]], parue en 1913, retrouve-t-on l'un des premiers exemples d'utilisation du terme [[surréalisme]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel auteur est connu pour avoir popularisé le poème typographique, notamment à travers son recueil [[Calligrammes]] publié en 1918 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel poète a été blessé lors de la [[Première Guerre mondiale]] en 1916, alors qu'il servait dans l'artillerie française, et aurait ainsi inventé le terme [[esprit nouveau]] ? <!-- cm003 remplacée 2026-11-23 -->

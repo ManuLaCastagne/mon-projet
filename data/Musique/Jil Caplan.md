@@ -29,11 +29,11 @@ culture_g_justification: "Chanteuse française associée à quelques succès des
 
 ###### Questions
 
-Avec quel album, sorti en 1990, [[Jil Caplan]] a-t-elle connu un grand succès commercial ?
+Quelle chanteuse a obtenu un double disque d'or avec l'album « La Charmeuse de serpents », porté en 1991 par « [[Tout c'qui nous sépare]] » ?
 
-Qui a remporté la [[Victoire de la Musique]] de la révélation féminine de l'année en 1992 ?
+Quelle chanteuse, produite par [[Jay Alanski]], a reçu en 1992 la Victoire de la musique de la révélation variétés féminine ?
 
-Quel artiste a été productrice de l'album "Né dans la nature" en 2013 ?
+Quelle chanteuse a coécrit avec [[Élisabeth Anaïs]] « Un autre monde » pour la nouvelle version française de [[La Petite Sirène (film, 1989)|La Petite Sirène]] en 1997 ?
 
 ###### Description
 
@@ -42,3 +42,11 @@ Quel artiste a été productrice de l'album "Né dans la nature" en 2013 ?
 Fait étonnant, Jil Caplan a remporté en 1992 la [[Victoire de la Musique]] de la révélation féminine, un exploit remarquable pour une artiste qui avait débuté sa carrière musicale seulement quatre ans plus tôt, en 1988.
 
 Bien que principalement connue pour sa carrière musicale, elle a également une formation littéraire et a étudié à la [[Sorbonne]], ajoutant une dimension intellectuelle à son profil d'artiste.
+
+###### Archives questions
+
+Avec quel album, sorti en 1990, [[Jil Caplan]] a-t-elle connu un grand succès commercial ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a remporté la [[Victoire de la Musique]] de la révélation féminine de l'année en 1992 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste a été productrice de l'album "Né dans la nature" en 2013 ? <!-- cm003 remplacée 2026-11-23 -->

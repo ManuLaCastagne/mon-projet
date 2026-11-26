@@ -29,11 +29,11 @@ culture_g_justification: "Conte universel permettant des questions sur Perrault,
 
 ###### Questions
 
-Dans quel conte de [[Charles Perrault]], publié en 1697 dans le recueil intitulé [[Histoires ou contes du temps passé, avec des moralités]], apparaît un personnage qui porte une cape de couleur vive?
+Dans quel conte de [[Charles Perrault]] (1697), une fillette qui porte une galette et un petit pot de beurre à sa mère-grand est-elle dévorée par le loup ?
 
-Quelle histoire écrite par les [[Frères Grimm]] en 1812 présente une version différente où un chasseur sauve le protagoniste de l'estomac du loup?
+Quel conte, recueilli par les [[Frères Grimm]] en 1812, voit un chasseur tirer la fillette et sa grand-mère du ventre du loup ?
 
-Quel célèbre conte de fées a inspiré l'opéra pour enfants intitulé "[[Le Petit Chaperon rouge]]" de [[Maurice Ravel]] créé en 1927?
+Quel conte [[Tex Avery]] détourne-t-il en 1943 dans le dessin animé « Red Hot Riding Hood », où l'héroïne chante dans un cabaret d'Hollywood ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Ce récit narre les aventures d'une jeune fille vêtue d'un chaperon rouge qui t
 Un fait étonnant souvent méconnu est qu'il existe une version asiatique de ce conte, antérieure aux versions européennes, nommée "La grand-mère Tigre", mettant en scène un tigre au lieu d'un loup et datant probablement des dynasties Tang, soit environ vers le IXe siècle.
 
 Le [[Petit Chaperon rouge]] est aussi entré dans le Livre Guinness des records grâce à son fameux équivalent culinaire : la plus grande galette jamais fabriquée pour le conte mesurait 8 mètres de diamètre, un record établi en France en 2015.
+
+###### Archives questions
+
+Quel célèbre conte de fées a inspiré l'opéra pour enfants intitulé "[[Le Petit Chaperon rouge]]" de [[Maurice Ravel]] créé en 1927? <!-- cm003 remplacée 2026-11-23 -->
+
+Dans quel conte de [[Charles Perrault]], publié en 1697 dans le recueil intitulé [[Histoires ou contes du temps passé, avec des moralités]], apparaît un personnage qui porte une cape de couleur vive? <!-- cm003 remplacée 2026-11-23 -->
+
+Quelle histoire écrite par les [[Frères Grimm]] en 1812 présente une version différente où un chasseur sauve le protagoniste de l'estomac du loup? <!-- cm003 remplacée 2026-11-23 -->

@@ -21,19 +21,22 @@ indice_5 :
 indice_6 : 
   - Un écrin de luxe
 questions:
- - Quel ballet mis en musique par Darius Milo sur un livret de Jean Cocteau doit son titre à un célèbre train des années 20 ?
 culture_g_score: 31
 culture_g_justification: "Ballet des Ballets russes associé à plusieurs artistes majeurs, mais lui-même très rarement demandé en culture générale."
+questions_tv_archivees:
+  - Quel ballet mis en musique par Darius Milo sur un livret de Jean Cocteau doit son titre à un célèbre train des années 20 ?
 ---
 ![Image de Le Train Bleu](https://upload.wikimedia.org/wikipedia/commons/9/99/Le_Train_Bleu%2C_by_Vincent_van_Gogh%2C_from_C2RMF_cropped.jpg)
 
 ###### Questions
 
-Quel ballet composé en 1924 par [[Darius Milhaud]] est devenu célèbre sous le nom de [[Le Train Bleu]] ? <!-- score: 10 -->
+Quel ballet en un acte de [[Darius Milhaud]], satire des [[années folles]], fut créé le 20 juin 1924 au [[Théâtre des Champs-Élysées]] ?
 
-Quel est le titre de l'œuvre de [[Jean Cocteau]] qui servit de livret pour un ballet dirigé par [[Serge Diaghilev]] en 1924 et qui porte le même nom qu'un célèbre restaurant parisien ?
+Pour quel ballet des [[Ballets russes]], sur un livret de [[Jean Cocteau]], [[Coco Chanel]] a-t-elle dessiné les costumes en 1924 ?
 
-Quel ballet, avec une chorégraphie de [[Bronislava Nijinska]] et une scénographie conçue par [[Pablo Picasso]], a été présenté pour la première fois par les [[Ballets Russes]] en 1924 sous le nom de [[Le Train Bleu]] ?
+Quel ballet chorégraphié en 1924 par [[Bronislava Nijinska]] avait pour rideau de scène « Deux femmes courant sur la plage » de [[Pablo Picasso]] ?
+
+Quel ballet mis en musique par Darius Milhaud sur un livret de Jean Cocteau doit son titre à un célèbre train des années 20 ? <!-- source: tv -->
 
 ###### Description
 
@@ -44,3 +47,11 @@ La musique de cette œuvre a été composée par [[Darius Milhaud]], tandis que 
 Fait étonnant : la première représentation a eu lieu au [[Théâtre des Champs-Élysées]] à Paris, un lieu prestigieux qui avait déjà accueilli des avant-premières révolutionnaires comme celle du [[Sacre du Printemps]] de [[Igor Stravinsky]] en 1913. 
 
 Le titre, « Le Train Bleu », fait référence au train de luxe qui transportait les passagers des classes aisées de [[Calais]] à la [[Côte d'Azur]], marquant une association entre l'art et l'élégance des années folles.
+
+###### Archives questions
+
+Quel ballet composé en 1924 par [[Darius Milhaud]] est devenu célèbre sous le nom de [[Le Train Bleu]] ? <!-- score: 10 --> <!-- cm003 remplacée 2026-11-23 -->
+
+Quel ballet, avec une chorégraphie de [[Bronislava Nijinska]] et une scénographie conçue par [[Pablo Picasso]], a été présenté pour la première fois par les [[Ballets Russes]] en 1924 sous le nom de [[Le Train Bleu]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le titre de l'œuvre de [[Jean Cocteau]] qui servit de livret pour un ballet dirigé par [[Serge Diaghilev]] en 1924 et qui porte le même nom qu'un célèbre restaurant parisien ? <!-- cm003 remplacée 2026-11-23 -->

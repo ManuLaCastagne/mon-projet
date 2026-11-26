@@ -29,11 +29,11 @@ culture_g_justification: "Collection encyclopédique emblématique permettant de
 
 ###### Questions
 
-Quel ouvrage de [[Roland Barthes]], publié dans la collection [[Que sais-je]] en 1970, explore la sémiologie de la mode ?
+Quelle collection des [[Presses universitaires de France]], fondée en 1941 par [[Paul Angoulvent]], a publié plus de 4 000 titres alors que son créateur n'en prévoyait pas plus de cent ?
 
-Quel livre influent de [[Sigmund Freud]], portant sur l'interprétation des rêves, fait partie des titres de la collection [[Que sais-je]] depuis 1940 ?
+Quelle collection encyclopédique de poche tire son nom de la devise de [[Michel de Montaigne]], gravée sur sa médaille ?
 
-Quel best-seller de [[Jean-Paul Sartre]], publié en 1947 dans la collection [[Que sais-je]], explore les notions de l'existentialisme ?
+De quelle collection de vulgarisation « Les Étapes de la biologie » de [[Maurice Caullery]] fut-il le numéro 1, en 1941 ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Elle a été créée par [[Paul Angoulvent]], en pleine Seconde Guerre mondiale,
 Fait peu connu, c'est la plus vaste collection du monde en nombre de titres publiés, avec plus de 4 000 numéros distincts à son actif, ce qui pourrait en faire une catégorie de choix dans un quiz littéraire. 
 
 Le centième ouvrage de la collection, intitulé "Le Roman" et écrit par [[René Lalou]], a été publié en 1948, reflétant le développement rapide de cette série encyclopédique unique.
+
+###### Archives questions
+
+Quel ouvrage de [[Roland Barthes]], publié dans la collection [[Que sais-je]] en 1970, explore la sémiologie de la mode ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel livre influent de [[Sigmund Freud]], portant sur l'interprétation des rêves, fait partie des titres de la collection [[Que sais-je]] depuis 1940 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel best-seller de [[Jean-Paul Sartre]], publié en 1947 dans la collection [[Que sais-je]], explore les notions de l'existentialisme ? <!-- cm003 remplacée 2026-11-23 -->

@@ -30,11 +30,11 @@ culture_g_justification: "Classique mondial fondateur du roman d’aventures, of
 
 ###### Questions
 
-Quel roman publié en 1719 par [[Daniel Defoe]] raconte les aventures d'un naufragé sur une île déserte pendant 28 ans et s'intitule [[Robinson Crusoé]] ?
+Quel roman de [[Daniel Defoe]], paru en 1719, raconte les vingt-huit années passées par un naufragé sur une île proche de l'embouchure de l'[[Orénoque]] ?
 
-Quel personnage iconique de la littérature anglaise a été inspiré par les aventures réelles de [[Alexander Selkirk]], un marin écossais, et dont le récit a été relaté dans le livre [[Robinson Crusoé]] ?
+Quel personnage de fiction s'inspire du marin écossais [[Alexander Selkirk]], abandonné de 1704 à 1709 sur une île de l'[[archipel Juan Fernández]] ?
 
-Quel ouvrage souvent considéré comme l'un des premiers romans d'aventure ou d'[[aventure littéraire]] moderne, décrit comment son protagoniste parvient à survivre seul et est intitulé [[Robinson Crusoé]] ?
+Quel héros de roman nomme « [[Vendredi (personnage)|Vendredi]] » l'indigène qu'il sauve et dont il fait son compagnon sur son île ?
 
 ###### Description
 
@@ -45,3 +45,11 @@ L'histoire suit [[Robinson Crusoé]], un marin anglais échoué sur une île d�
 Une anecdote fascinante est que le livre a connu un énorme succès et est considéré comme l'un des premiers exemples de roman en anglais, se vendant à plus de mille exemplaires dans les premiers mois de sa parution, un nombre impressionnant pour l'époque. 
 
 Fait peu connu : le livre a été tellement populaire qu'il a inspiré une véritable industrie de romans d'imitation et a marqué la naissance du sous-genre littéraire des "Robinsonnades", des histoires de survie s'inspirant de l'œuvre originelle.
+
+###### Archives questions
+
+Quel roman publié en 1719 par [[Daniel Defoe]] raconte les aventures d'un naufragé sur une île déserte pendant 28 ans et s'intitule [[Robinson Crusoé]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel personnage iconique de la littérature anglaise a été inspiré par les aventures réelles de [[Alexander Selkirk]], un marin écossais, et dont le récit a été relaté dans le livre [[Robinson Crusoé]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel ouvrage souvent considéré comme l'un des premiers romans d'aventure ou d'[[aventure littéraire]] moderne, décrit comment son protagoniste parvient à survivre seul et est intitulé [[Robinson Crusoé]] ? <!-- cm003 remplacée 2026-11-23 -->

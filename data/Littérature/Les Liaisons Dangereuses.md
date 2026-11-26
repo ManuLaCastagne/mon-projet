@@ -31,9 +31,9 @@ culture_g_justification: "Grand classique du roman français, régulièrement in
 
 Quel roman épistolaire, publié en 1782, met en scène les manigances amoureuses des personnages [[Vicomte de Valmont]] et [[Marquise de Merteuil]] ? <!-- score: 6 -->
 
-Quel ouvrage littéraire de [[Pierre Choderlos de Laclos]] a inspiré de nombreuses adaptations cinématographiques et théâtrales depuis sa parution au XVIIIe siècle ?
+Quel classique du XVIIIe siècle [[Stephen Frears]] a-t-il porté à l'écran en 1988 avec [[Glenn Close]] et [[John Malkovich]] ?
 
-Quel livre, originalement intitulé « Les [[Liaisons]] [[dangereuses]], ou Lettres recueillies dans une société et publiées pour l'instruction de quelques autres », explore les thèmes de la manipulation et de la moralité à la cour de France ?
+Dans quel roman de [[Pierre Choderlos de Laclos]] le séducteur meurt-il en duel face au chevalier [[Danceny]], tandis que sa complice est défigurée par la petite vérole ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Ce livre explore les complexités des manipulations amoureuses et compte parmi l
 Un fait étonnant est que malgré la réputation sulfureuse du livre, Laclos servait dans l'artillerie royale et a rédigé cet ouvrage en partie pour distraire ses compagnons durant ses devoirs militaires. 
 
 Les adaptations cinématographiques et théâtrales sont nombreuses, confortant son statut d'œuvre influente au même titre que des classiques comme [[Madame Bovary]] ou [[Le Rouge et le Noir]].
+
+###### Archives questions
+
+Quel livre, originalement intitulé « Les [[Liaisons]] [[dangereuses]], ou Lettres recueillies dans une société et publiées pour l'instruction de quelques autres », explore les thèmes de la manipulation et de la moralité à la cour de France ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel ouvrage littéraire de [[Pierre Choderlos de Laclos]] a inspiré de nombreuses adaptations cinématographiques et théâtrales depuis sa parution au XVIIIe siècle ? <!-- cm003 remplacée 2026-11-23 -->

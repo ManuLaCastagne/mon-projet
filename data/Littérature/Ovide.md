@@ -27,11 +27,11 @@ culture_g_justification: "Auteur majeur de l’Antiquité, incontournable pour l
 
 ###### Questions
 
-Dans quel ouvrage publié en [[8 après J.-C.]] [[Ovide]] décrit-il les transformations mythologiques, telles que les métamorphoses des dieux et des mortels ?
+Quel auteur, né à [[Sulmone]] en 43 av. J.-C., a raconté environ 250 transformations mythologiques dans les quinze livres des « [[Métamorphoses]] » ?
 
 Quel poète latin, banni par l'empereur [[Auguste]] en [[8 après J.-C.]], a été exilé à [[Tomi]], sur les bords de la mer Noire ?
 
-Quel auteur du célèbre poème [[Les Amours]], publié vers [[16 avant J.-C.]], a influencé la poésie amoureuse de la Rome antique avec ses écrits élégiaques ? <!-- score: 4 -->
+Quel auteur de « [[L'Art d'aimer]] » attribua sa disgrâce à deux fautes, « un poème et une erreur » (carmen et error) ?
 
 ###### Description
 
@@ -42,3 +42,9 @@ Malgré sa popularité, il fut exilé de Rome en l'an 8 après J.-C. par l'emper
 Un fait surprenant à son sujet est que, bien qu'il soit déjà décédé en 17 après J.-C., ses œuvres étaient si influentes qu'elles ont continué à être interdites par l'[[Église catholique]] jusqu'au 18ème siècle, c'est un record pour un auteur antique! 
 
 Les écrits d'Ovide ont non seulement inspiré de nombreux poètes et artistes comme [[Shakespeare]] et [[Dante Alighieri]], mais ils ont également joué un rôle central dans la transmission de la mythologie gréco-romaine à travers les âges.
+
+###### Archives questions
+
+Dans quel ouvrage publié en [[8 après J.-C.]] [[Ovide]] décrit-il les transformations mythologiques, telles que les métamorphoses des dieux et des mortels ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel auteur du célèbre poème [[Les Amours]], publié vers [[16 avant J.-C.]], a influencé la poésie amoureuse de la Rome antique avec ses écrits élégiaques ? <!-- score: 4 --> <!-- cm003 remplacée 2026-11-23 -->

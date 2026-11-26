@@ -31,9 +31,9 @@ culture_g_justification: "Roman majeur de Zola, très rentable pour la littérat
 
 Dans quel roman publié en 1883 par [[Émile Zola]] se déroule l'intrigue autour d'un grand magasin parisien, et qui est le onzième volume de la série [[Les Rougon-Macquart]] ?
 
-Quel ouvrage de [[Émile Zola]] explore la mutation du commerce sous l'effet de la révolution industrielle, notamment à travers le personnage de [[Octave Mouret]] et son établissement commercial intitulé [[Au Bonheur des Dames]] ?
+Quel roman d'[[Émile Zola]], prépublié dans le [[Gil Blas]] à partir de décembre 1882, fait suite à « [[Pot-Bouille]] » ?
 
-Quel livre met en scène le succès phénoménal d'un magasin dédié aux [[dames]] à Paris, tout en intégrant une analyse sociale du rôle des femmes au sein de la société française du XIXe siècle ?
+Dans quel roman la jeune Normande [[Denise Baudu]], originaire de [[Valognes]], se fait-elle embaucher comme vendeuse dans un grand magasin parisien ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Ce roman s'inspire de la révolution du commerce moderne à [[Paris]], mettant e
 Un fait étonnant mais peu connu sur [[Au Bonheur des Dames]] est que [[Émile Zola]] a minutieusement effectué une enquête sur le fonctionnement des grands magasins parisiens, passant des heures à observer et à prendre des notes au [[Bon Marché]], ce qui fait de ce roman une source précieuse d'informations sur la société parisienne de la fin du XIXe siècle. 
 
 Par ailleurs, ce roman est reconnu pour avoir, peu de temps après sa publication, influencé l'architecture et l'organisation des grands centres commerciaux à travers le monde, en autant de répliques de l'empire commercial fictif qu'est le magasin [[Au Bonheur des Dames]].
+
+###### Archives questions
+
+Quel ouvrage de [[Émile Zola]] explore la mutation du commerce sous l'effet de la révolution industrielle, notamment à travers le personnage de [[Octave Mouret]] et son établissement commercial intitulé [[Au Bonheur des Dames]] ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel livre met en scène le succès phénoménal d'un magasin dédié aux [[dames]] à Paris, tout en intégrant une analyse sociale du rôle des femmes au sein de la société française du XIXe siècle ? <!-- cm003 remplacée 2026-11-23 -->

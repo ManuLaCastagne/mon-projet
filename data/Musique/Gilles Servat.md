@@ -29,11 +29,11 @@ culture_g_justification: "Artiste emblématique de la culture bretonne, mais don
 
 ###### Questions
 
-Dans quel pays [[Gilles Servat]] a-t-il vécu avant de se lancer dans sa carrière musicale en France en 1970 ?
+Quel auteur-compositeur, né à [[Tarbes]] en 1945 et élevé à [[Cholet]], a découvert la langue bretonne sur l'[[Groix|île de Groix]] en 1969 ?
 
-Quel artiste breton a fortement contribué au succès des [[Rencontres Trans Musicales]] de [[Rennes]] en 1979 avec sa performance inoubliable ?
+Quel chanteur a obtenu en 1988 le Grand Prix de l'[[Académie Charles-Cros]] pour l'album « [[Mad in Sérénité]] » ?
 
-Quel musicien et poète a remporté le Prix [[Imram]] en 1998 pour l'ensemble de son œuvre dans la chanson en [[langue bretonne]] ?
+Quel chanteur a reçu en 2003 à [[Saint-Malo]] le collier de l'[[Ordre de l'Hermine (distinction contemporaine)|Ordre de l'Hermine]] ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ Il fait ses débuts sur la scène musicale en 1970 avec son premier album "La Bl
 Fait surprenant, en 1972, il remporte le Grand Prix du disque du Festival de musique de [[Rennes]], une reconnaissance qui vient souligner l'impact de son engagement artistique. 
 
 En outre, peu savent que [[Gilles Servat]] a exploré le domaine de la science-fiction avec son album "Ailes de verre" en 1987, affirmant sa capacité à se réinventer artistiquement.
+
+###### Archives questions
+
+Dans quel pays [[Gilles Servat]] a-t-il vécu avant de se lancer dans sa carrière musicale en France en 1970 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel artiste breton a fortement contribué au succès des [[Rencontres Trans Musicales]] de [[Rennes]] en 1979 avec sa performance inoubliable ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel musicien et poète a remporté le Prix [[Imram]] en 1998 pour l'ensemble de son œuvre dans la chanson en [[langue bretonne]] ? <!-- cm003 remplacée 2026-11-23 -->

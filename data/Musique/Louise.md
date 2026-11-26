@@ -29,11 +29,11 @@ culture_g_justification: "Chanteuse contemporaine peu établie comme référence
 
 ###### Questions
 
-Dans quelle chanson de [[Maurice Chevalier]], célèbre pour avoir popularisé l'expression "Louise", retrouve-t-on le prénom [[Louise]]?
+Quelle chanson du film « [[La Chanson de Paris]] » (1929) est devenue le deuxième plus grand succès de [[Maurice Chevalier]] ?
 
-Quel est le prénom de la célèbre chanteuse française, [[Louise Attaque]], formée en 1997 qui a marqué la scène du rock en France avec leur premier album?
+Quel prénom complète le nom du groupe de folk rock « … Attaque », formé à Paris en 1994 autour de [[Gaëtan Roussel]] ?
 
-Quel est le prénom associé à la chanson "Louise" du groupe [[The Human League]] sorti en 1984, un single qui a atteint le classement du top pop britannique?
+Quel prénom sert de titre à un single de [[The Human League]] extrait en 1984 de l'album « Hysteria » ?
 
 ###### Description
 
@@ -44,3 +44,11 @@ En 2021, elle a sorti un album intitulé "Harmonies Nocturnes" qui a été certi
 Une anecdote peu connue est que [[Louise Musique]] est devenue la plus jeune artiste française à se produire au célèbre festival [[Glastonbury]] en 2015, à seulement 25 ans, où elle a attiré une foule record pour une scène émergente. 
 
 Son style unique mêle des influences de la chanson française classique avec des éléments contemporains, un mélange qui lui a valu de nombreux éloges et une place parmi les artistes les plus innovants de sa génération.
+
+###### Archives questions
+
+Dans quelle chanson de [[Maurice Chevalier]], célèbre pour avoir popularisé l'expression "Louise", retrouve-t-on le prénom [[Louise]]? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le prénom de la célèbre chanteuse française, [[Louise Attaque]], formée en 1997 qui a marqué la scène du rock en France avec leur premier album? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel est le prénom associé à la chanson "Louise" du groupe [[The Human League]] sorti en 1984, un single qui a atteint le classement du top pop britannique? <!-- cm003 remplacée 2026-11-23 -->

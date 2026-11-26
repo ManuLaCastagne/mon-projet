@@ -30,11 +30,11 @@ culture_g_justification: "Écrivaine française majeure, première femme à l’
 
 ###### Questions
 
-Dans quel livre paru en 1944, [[Colette]] a-t-elle exploré les thèmes de l'enfance et de la maternité en s'inspirant de sa propre vie ? 
+Quelle romancière a écrit en 1944 la nouvelle « [[Gigi (nouvelle)|Gigi]] », dont elle choisit l'interprète, [[Audrey Hepburn]], pour l'adaptation à [[Broadway (théâtres)|Broadway]] ?
 
-Quel rôle particulier [[Colette]] a-t-elle joué dans l'organisation du [[Bal des Petits Lits Blancs]] en 1948 à [[Paris]], événement caritatif majeur de l'époque ?
+Quelle écrivaine, privée d'enterrement religieux par l'[[Église catholique]], fut en 1954 la première femme à recevoir des [[Obsèques nationales en France|obsèques nationales]] en France ?
 
-Qui a été élue membre de l'[[Académie Goncourt]], devenant ainsi la première femme de l'histoire à accéder à cette institution littéraire prestigieuse ? <!-- score: 3 -->
+Quelle romancière, élue à l'[[Académie Goncourt]] en 1945, fut en 1949 la première femme à présider cette académie ?
 ###### Description
 
 [[Colette]] est née le 28 janvier 1873 à [[Saint-Sauveur-en-Puisaye]], un village de [[Bourgogne-Franche-Comté]], et est devenue une figure emblématique de la littérature française pour ses romans empreints de sensualité et de féminisme. 
@@ -44,3 +44,11 @@ En 1948, elle a été nommée membre de l'[[Académie Goncourt]], devenant ainsi
 Un fait étonnant à son sujet est qu'elle a mené une brillante carrière de music-hall sous le nom de scène de Colette Willy, maîtrisant l'art du spectacle au point de se produire sur les scènes parisiennes au début du XXe siècle, un exploit rarement associé aux écrivains de son époque. 
 
 Elle s'est éteinte à [[Paris]] le 3 août 1954, et a été l'une des quelques femmes de son temps à recevoir des funérailles nationales, témoignant de l'impact durable de son œuvre et de sa personne sur la société française.
+
+###### Archives questions
+
+Dans quel livre paru en 1944, [[Colette]] a-t-elle exploré les thèmes de l'enfance et de la maternité en s'inspirant de sa propre vie ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel rôle particulier [[Colette]] a-t-elle joué dans l'organisation du [[Bal des Petits Lits Blancs]] en 1948 à [[Paris]], événement caritatif majeur de l'époque ? <!-- cm003 remplacée 2026-11-23 -->
+
+Qui a été élue membre de l'[[Académie Goncourt]], devenant ainsi la première femme de l'histoire à accéder à cette institution littéraire prestigieuse ? <!-- score: 3 --> <!-- cm003 remplacée 2026-11-23 -->

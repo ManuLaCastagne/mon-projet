@@ -28,11 +28,11 @@ Quel philosophe grec, dans le dialogue en 10 livres "[[La République (recueil)]
 
 Dans le "[[Timée]]" et le "[[Critias]]", 2 de ses dialogues, quel philosophe grec évoque l'île fabuleuse de l'[[Atlantide]] ?
 
-Quel philosophe de l'[[Antiquité grecque]], fondateur de l'[[Académie de Platon]], a développé la théorie des [[Formes]], une notion centrale dans son œuvre ?
+Quel philosophe athénien a fondé vers 387 av. J.-C. l'Académie, école installée dans le jardin dédié au héros [[Académos]] ?
 
-Quel disciple de [[Socrate]] a écrit les célèbres dialogues comme le [[Banquet]] et [[La République]], ce dernier datant de 380 av. J.-C. ?
+Quel disciple de [[Socrate]] a écrit « [[Le Banquet (Platon)|Le Banquet]] », dialogue dont chaque convive prononce un éloge d'Éros ?
 
-Quel penseur grec, né en [[427 av. J.-C.]], est considéré comme l'un des plus grands auteurs de la philosophie occidentale, influençant des générations entières avec ses œuvres écrites sous forme de dialogues ?
+Quel philosophe grec eut [[Aristote]] pour élève à l'Académie pendant une vingtaine d'années ?
 
 ###### Description
 
@@ -43,3 +43,11 @@ Il est l'élève de [[Socrate]] et le maître d'[[Aristote]], contribuant ainsi 
 Un fait peu connu est que [[Platon]] a participé aux Jeux Isthmiques, une compétition sportive de l'Antiquité, où il s'est illustré en lutte.  
 
 Il est également l'auteur de travaux littéraires et philosophiques, tels que [[La République (recueil)]], rédigée vers [[-380]], dans laquelle il explore la justice et la nature de l'âme.
+
+###### Archives questions
+
+Quel philosophe de l'[[Antiquité grecque]], fondateur de l'[[Académie de Platon]], a développé la théorie des [[Formes]], une notion centrale dans son œuvre ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel disciple de [[Socrate]] a écrit les célèbres dialogues comme le [[Banquet]] et [[La République]], ce dernier datant de 380 av. J.-C. ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel penseur grec, né en [[427 av. J.-C.]], est considéré comme l'un des plus grands auteurs de la philosophie occidentale, influençant des générations entières avec ses œuvres écrites sous forme de dialogues ? <!-- cm003 remplacée 2026-11-23 -->

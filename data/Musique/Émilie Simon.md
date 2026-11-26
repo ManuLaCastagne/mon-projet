@@ -29,11 +29,11 @@ culture_g_justification: "Artiste française contemporaine identifiable par quel
 
 ###### Questions
 
-Quel album d'[[Émilie Simon]] a remporté la [[Victoire de la Musique]] de l'[[Album électronique/groove/dance de l'année]] en 2004 ?
+Quelle musicienne a remporté en 2007 la Victoire de la musique de l'album électronique pour « [[Végétal (album)|Végétal]] » ?
 
 Quelle musicienne a composé la bande originale du film [[La Marche de l'empereur]] en 2005 ?
 
-Quel album d'[[Émilie Simon]] a été utilisé pour la bande sonore du jeu vidéo [[Vampyr]] sorti en 2018 ?
+Quelle compositrice a signé l'album « [[Franky Knight]] », utilisé comme bande originale du film [[La Délicatesse (film)|La Délicatesse]] ?
 
 ###### Description
 
@@ -44,3 +44,9 @@ Elle s'est fait connaître en 2003 avec son premier album éponyme, qui a obtenu
 Un fait étonnant sur [[Émilie Simon]] est qu'elle a également composé la bande originale du documentaire primé [[La Marche de l'empereur]], sorti en 2005, qui a connu un succès international, bien qu'en Amérique du Nord, c'est la version du compositeur [[Alex Wurman]] qui a été utilisée.  
 
 Elle détient également le record d'être l'une des rares artistes françaises à avoir réalisé une tournée nationale aux États-Unis, où elle a été acclamée par la critique.
+
+###### Archives questions
+
+Quel album d'[[Émilie Simon]] a remporté la [[Victoire de la Musique]] de l'[[Album électronique/groove/dance de l'année]] en 2004 ? <!-- cm003 remplacée 2026-11-23 -->
+
+Quel album d'[[Émilie Simon]] a été utilisé pour la bande sonore du jeu vidéo [[Vampyr]] sorti en 2018 ? <!-- cm003 remplacée 2026-11-23 -->
