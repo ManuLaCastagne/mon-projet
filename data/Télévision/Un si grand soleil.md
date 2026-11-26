@@ -29,9 +29,7 @@ culture_g_justification: "Feuilleton quotidien important dans le paysage télév
 
 Quel feuilleton quotidien de [[France 2]] a débuté sa diffusion en [[2018]], offrant une intrigue centrée sur la ville de [[Montpellier]] tout en explorant des thèmes sociaux contemporains ?
 
-Quelle série française a réussi à réunir une distribution variée comprenant des acteurs comme [[Tonya Kinzinger]] et [[Manu Payet]], participant ainsi à son succès sur les écrans télévisés depuis son lancement ?
-
-Quel programme télévisé, tourné principalement dans le sud de la [[France]], a modifié la grille des programmes de [[France Télévisions]] en ajoutant une fiction quotidienne en [[prime-time]] après sa première diffusion ?
+Quelle série française a réussi à réunir une distribution variée comprenant des acteurs comme [[Tonya Kinzinger]] et [[Manu Payet]] ?
 
 ###### Description
 
