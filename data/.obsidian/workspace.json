@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Histoire/Jean-Baptiste Colbert.md",
+                "file": "Télévision/Albator.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Jean-Baptiste Colbert.md",
+                "file": "Télévision/Albator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jean-Baptiste Colbert"
+              "title": "Albator"
             }
           }
         ],
@@ -337,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoire/Jean-Baptiste Colbert.md",
+                "file": "Télévision/Albator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,8 +378,8 @@
   },
   "active": "827d0047ecc84274",
   "lastOpenFiles": [
-    "Littérature/Britannicus.md",
     "Histoire/Jean-Baptiste Colbert.md",
+    "Littérature/Britannicus.md",
     "Art/Marius Petipa.md",
     "Culture générale/Jean-Baptiste Colbert.md",
     "Cinéma/Napoléon.md",
