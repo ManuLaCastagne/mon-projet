@@ -38,10 +38,6 @@ Quelle journaliste, présentatrice du Journal de 13 heures de [[France 2]] de 20
 
 Née le 30 mai 1963 à [[Rouen]], elle débute en 1983 à FR3 Caen, puis présente à partir de 1990 le 19/20 de FR3, devenue [[France 3]], et devient une figure emblématique du journal télévisé. 
 
-En 2012, elle surprend le monde de la télévision en interviewant en direct de manière non conventionnelle un président de multinationale sur des pratiques controversées, marquant une étape audacieuse dans l'investigation télévisuelle en France. 
-
-Fait peu connu, [[Élise Lucet]] détient le record du plus grand nombre de [[Sept d'or]], récompenses qu'elle a obtenues pour son travail remarquable à la télévision française.
-
 ###### Archives questions
 
 Qui a remporté le [[prix Albert-Londres]] pour son reportage "Rwanda : histoire d'un génocide" ? <!-- score: 5 --> <!-- cm034 corrigée 2026-11-25 -->

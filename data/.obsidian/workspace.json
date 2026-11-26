@@ -13,12 +13,12 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Télévision/Albator.md",
+                "file": "Littérature/Maxime Chattam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": false,
+                  "localJumps": 1,
+                  "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
@@ -163,7 +163,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 179,
-                  "scale": 1.1020380446324098,
+                  "scale": 2.0058340814994073,
                   "close": false
                 }
               },
@@ -172,49 +172,21 @@
             }
           },
           {
-            "id": "9b57f3dbad8e3e93",
+            "id": "31fedab33136307e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Marius Petipa.md",
+                "file": "Littérature/Maxime Chattam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marius Petipa"
-            }
-          },
-          {
-            "id": "71252c55d9d4b291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Littérature/Britannicus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Britannicus"
-            }
-          },
-          {
-            "id": "827d0047ecc84274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Télévision/Albator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Albator"
+              "title": "Maxime Chattam"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -337,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Télévision/Albator.md",
+                "file": "Littérature/Maxime Chattam.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -376,8 +348,12 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "827d0047ecc84274",
+  "active": "31fedab33136307e",
   "lastOpenFiles": [
+    "Littérature/Jonathan Swift.md",
+    "Télévision/Élise Lucet.md",
+    "Télévision/Récré A2.md",
+    "Télévision/Albator.md",
     "Histoire/Jean-Baptiste Colbert.md",
     "Littérature/Britannicus.md",
     "Art/Marius Petipa.md",
@@ -385,7 +361,6 @@
     "Cinéma/Napoléon.md",
     "Histoire/Napoléon Bonaparte.md",
     "Sciences/Nicolas Flamel.md",
-    "Télévision/Élise Lucet.md",
     "Sciences/Alexandre Popov.md",
     "Religion/Thérèse d'Avila.md",
     "Littérature/L'Appel de la forêt.md",
@@ -401,10 +376,7 @@
     "Géographie/Salto Ángel.md",
     "Géographie/Göteborg.md",
     "Vocabulaire/Ficaire.md",
-    "Culture générale/Meccano.md",
-    "Animaux/serpent à lunettes.md",
     "Culture_G",
-    "Cinéma/Golden Globe.md",
     "attachments/Pasted image 20261004162756.png",
     "attachments/Pasted image 20261004114857.png",
     "attachments/Pasted image 20261002105739.png",

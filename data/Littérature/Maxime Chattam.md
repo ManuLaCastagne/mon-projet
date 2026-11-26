@@ -31,6 +31,8 @@ Qui a étudié criminologie et publié son 1er roman en 2003, "Le 5e règne", so
 
 Quel auteur de "La trilogie du mal" qui met en scène le policier Brolin a publié en 2020 "[[L'illusion]]" ?
 
+Qui a écrit "[[La Trilogie du Mal]]" ("L'Ame du mal", "In Tenebris" et "Maléfices") ?
+
 Quel auteur français, né à [[Herblay]] en 1976, a vendu plus de douze millions d'exemplaires de ses livres à travers le monde ?
 
 Quel écrivain, dont le vrai nom est [[Maxime Drouot]], a étudié la criminologie à l'université de [[Saint-Denis]] avant de se lancer dans une carrière littéraire ? <!-- score: 4 -->
