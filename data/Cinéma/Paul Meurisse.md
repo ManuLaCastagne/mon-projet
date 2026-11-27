@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - Cinéma
   - France
   - Années_1950
@@ -8,28 +8,28 @@ date:
   - 1912/12/21
 debut: 1912
 fin: 1979
-indice_1 : 
+indice_1:
   - L'inspecteur dans Les Diaboliques
-indice_2 : 
+indice_2:
   - Le Monocle noir
-indice_3 : 
+indice_3:
   - Membre des Branquignols
-indice_4 : 
+indice_4:
   - Partenaire de Lino Ventura dans Les Tontons flingueurs
-indice_5 : 
+indice_5:
   - La série Les Cinq Dernières Minutes
-indice_6 : 
+indice_6:
   - Le Deuxième Souffle de Jean-Pierre Melville
 questions:
- - En 1955, quel acteur interprète l'époux de Véra Clouzot et l'amant de Simone Signoret dans le film "Les Diaboliques"?
+  - En 1955, quel acteur interprète l'époux de Véra Clouzot et l'amant de Simone Signoret dans le film "Les Diaboliques"?
 culture_g_score: 60
-culture_g_justification: "Acteur classique du cinéma français, notamment grâce aux Diaboliques et à sa carrière théâtrale, mais aujourd'hui moins connu du grand public."
+culture_g_justification: Acteur classique du cinéma français, notamment grâce aux Diaboliques et à sa carrière théâtrale, mais aujourd'hui moins connu du grand public.
 ---
 ![Image de Paul Meurisse](https://upload.wikimedia.org/wikipedia/commons/d/d3/Paul_Guichard_b_Meurisse_1918.jpg)
 
 ###### Questions
 
-Quel acteur incarne Michel Delassalle, le directeur d'école tyrannique des « [[Les Diaboliques|Diaboliques]] » d'[[Henri-Georges Clouzot]] (1955) ?
+Quel acteur incarne Michel Delassalle, l'époux de [[Véra Clouzot]] et l'amant de [[Simone Signoret]] en tant que directeur d'école tyrannique des « [[Les Diaboliques|Diaboliques]] » d'[[Henri-Georges Clouzot]] (1955) ?
 
 Quel acteur incarne le commandant Dromard, dit « le Monocle », dans « [[Le Monocle noir]] » (1961) ?
 
